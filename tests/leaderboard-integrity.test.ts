@@ -29,7 +29,6 @@ beforeAll(async () => {
         correctId: "a",
         explanation: "Prüferklärung",
         context: "",
-        anchor: "",
         sources: [],
         tags: [],
         badgeTags: [],

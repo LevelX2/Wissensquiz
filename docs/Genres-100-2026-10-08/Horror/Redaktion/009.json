@@ -32,12 +32,12 @@
       ],
       "short": "Stevie betreibt ihren Radiosender im Leuchtturm.",
       "context": "Stevie Wayne (Adrienne Barbeau) moderiert einen kleinen lokalen Radiosender im Leuchtturm über der Küste. Dadurch hört man ihre Stimme an verschiedenen Orten der Stadt, während sie selbst von oben die heranziehende Gefahr beobachten kann. Der Standort verbindet Übersicht und Isolation. Ihr Mikrofon wird später zum Mittel, mit dem sie die Bewohner warnt und die Rettung ihres Sohnes zu erreichen versucht.",
-      "anchor": "Der Leuchtturm macht eine Stimme für die ganze Stadt hörbar.",
       "interest": "Verbindet den Schauplatz mit der Funktion der Hauptfigur.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der Leuchtturm macht eine Stimme für die ganze Stadt hörbar."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Die Stadt feiert ihr hundertjähriges Bestehen.",
       "context": "Kathy Williams (Janet Leigh) organisiert die Feier zum hundertjährigen Bestehen von Antonio Bay. Für die Bewohner ist das Jubiläum ein Anlass, stolz auf ihre Heimat zurückzublicken. Gleichzeitig kommt eine verdrängte Geschichte der Gründung ans Licht. Die festliche Gegenwart und die ungesühnte Vergangenheit treffen deshalb an demselben Datum aufeinander. Das Jubiläum ist ein Handlungsauslöser und keine bloße Dekoration im Hintergrund.",
-      "anchor": "Die Hundertjahrfeier öffnet eine hundert Jahre alte Wunde.",
       "interest": "Ordnet den Zeitpunkt des Geschehens in die Stadtgeschichte ein.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Hundertjahrfeier öffnet eine hundert Jahre alte Wunde."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Ein herausgefallener Mauerstein legt das Tagebuch frei.",
       "context": "Father Malone (Hal Holbrook) findet in seiner Kirche ein Tagebuch seines Großvaters, nachdem sich ein Stein aus der Mauer löst. Die Schriftstücke geben der Bedrohung eine historische Ursache. Der Geistliche erfährt, dass seine Familie an der Gründungsschuld beteiligt war. Damit wird die Kirche vom scheinbar sicheren Ort zum Aufbewahrungsort des verdrängten Wissens, das die Bewohner dringend verstehen müssen.",
-      "anchor": "Ein Mauerstein gibt die verborgene Gründungsgeschichte frei.",
       "interest": "Erfasst den konkreten Zugang zur historischen Enthüllung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Ein Mauerstein gibt die verborgene Gründungsgeschichte frei."
     },
     {
       "code": "M2",
@@ -104,13 +104,13 @@
       ],
       "short": "Die Stadtgründung beruht auf geraubtem Gold der Elizabeth Dane.",
       "context": "Father Malone (Hal Holbrook) liest, dass sechs Männer die Elizabeth Dane absichtlich auf die Felsen lockten. Sie wollten eine nahe Siedlung von Leprakranken verhindern und eigneten sich das Gold des Schiffseigners an. Dieses Vermögen half beim Aufbau von Antonio Bay. Die Geistergeschichte verbindet die spätere Rache deshalb mit einer konkreten wirtschaftlichen und moralischen Schuld der Stadtgründer.",
-      "anchor": "Die Stadt ist auf dem geraubten Gold der Schiffbrüchigen gebaut.",
       "interest": "Erklärt die Verbindung zwischen Wohlstand und Gründungsschuld.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Stadt ist auf dem geraubten Gold der Schiffbrüchigen gebaut."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Die Inschrift DANE wechselt vorübergehend zu „6 MUST DIE“.",
       "context": "Stevie Wayne (Adrienne Barbeau) erhält ein Stück Treibholz, das ihr Sohn Andy (Ty Mitchell) am Strand gefunden hat. Im Sender verändert sich die Inschrift vorübergehend; zugleich treten unheimliche Störungen auf. Die Botschaft kündigt sechs Todesfälle an und verbindet das Holz mit dem historischen Schiff. Das unscheinbare Fundstück wird damit zu einem Warnzeichen, das mehr verrät als ein gewöhnlicher Wetterbericht.",
-      "anchor": "Aus einem Schiffsnamen wird eine Forderung nach sechs Leben.",
       "interest": "Verbindet ein frühes Omen mit dem Racheplan.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Aus einem Schiffsnamen wird eine Forderung nach sechs Leben."
     },
     {
       "code": "S2",
@@ -153,13 +153,13 @@
       ],
       "short": "Blake erscheint erneut und tötet Malone.",
       "context": "Father Malone (Hal Holbrook) übergibt das aus dem geraubten Gold gefertigte Kreuz an Blake (Rob Bottin). Die Geister verschwinden zunächst, und die übrigen Überlebenden verlassen die Kirche. Der Geistliche wundert sich, warum er verschont wurde. Als Blake zurückkehrt und ihn tötet, erhält die scheinbare Lösung einen letzten Gegenschlag. Die Rückgabe des Besitzes hebt den Anspruch auf Vergeltung nicht dauerhaft auf.",
-      "anchor": "Das zurückgegebene Gold beendet die Rache noch nicht.",
       "interest": "Erfasst die letzte Umkehr der scheinbaren Rettung.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das zurückgegebene Gold beendet die Rache noch nicht."
     },
     {
       "code": "Y",
@@ -178,12 +178,12 @@
       ],
       "short": "Der Originalfilm erschien 1980.",
       "context": "Halloween erschien 1978, The Fog folgte 1980: Zwischen den beiden Filmen liegen zwei Jahre. Die Verbindung ist konkret, weil John Carpenter beide inszenierte und Jamie Lee Curtis in beiden auftritt. Nach dem bedrohlichen Alltag in einer Vorstadt verlegt sich der Schrecken hier an eine Küste, deren Gegenwart durch eine verschwiegene Gründungsgeschichte geprägt ist.",
-      "anchor": "Halloween 1978 → The Fog 1980: zwei Jahre.",
       "interest": "Verankert das Erstjahr über eine frühe Carpenter-Verbindung.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Halloween 1978 → The Fog 1980: zwei Jahre."
     },
     {
       "code": "D",
@@ -202,11 +202,11 @@
       ],
       "short": "John Carpenter führte allein Hauptregie.",
       "context": "John Carpenter verbindet mehrere Schauplätze durch eine lokale Radiostimme und die Bewegung des Nebels. Der Film kann dadurch zwischen einzelnen bedrohten Bewohnern wechseln, ohne den gemeinsamen Angriff aus dem Blick zu verlieren. Debra Hill arbeitete als Produzentin und Mitautorin mit. Diese Zusammenarbeit erklärt wichtige Produktionscredits, ändert aber nichts an Carpenters alleiniger Hauptregie des fertigen Originalfilms.",
-      "anchor": "Carpenter hält die verstreuten Schauplätze durch Nebel und Radio zusammen.",
       "interest": "Ordnet die Hauptregie ohne Vermischung mit Produktionscredits zu.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Carpenter hält die verstreuten Schauplätze durch Nebel und Radio zusammen."
     }
   ]
 }

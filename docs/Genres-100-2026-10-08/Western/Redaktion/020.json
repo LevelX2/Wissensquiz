@@ -37,12 +37,12 @@
       ],
       "short": "Die Brüder versprechen eine gemeinsame Banditenlaufbahn.",
       "context": "Der Vater (Harry Carey Jr.) gibt vor, im Sterben zu liegen, und nimmt Trinity (Terence Hill) und Bambino (Bud Spencer) ein Versprechen ab. Die beiden sollen zusammenarbeiten und erfolgreiche Banditen werden. Bambino versucht daraufhin, seinen Bruder in diese Laufbahn einzuführen. Das erklärte Vorhaben gerät jedoch immer wieder mit ihrem tatsächlichen Verhalten in Konflikt, sobald sie auf Menschen treffen, die ihre Hilfe brauchen.",
-      "anchor": "Die versprochene Banditenlaufbahn scheitert immer wieder an Hilfsbereitschaft.",
       "interest": "Der Auftrag des Vaters bildet einen leicht zugänglichen Ausgangspunkt.",
       "sources": [
         "handlung",
         "anica"
-      ]
+      ],
+      "objective": "Die versprochene Banditenlaufbahn scheitert immer wieder an Hilfsbereitschaft."
     },
     {
       "code": "L2",
@@ -61,11 +61,11 @@
       ],
       "short": "Aus dem Überfall werden Radwechsel und Geldhilfe.",
       "context": "Trinity (Terence Hill) und Bambino (Bud Spencer) sehen einen Familienwagen und wittern eine Gelegenheit für ihren geplanten Raubzug. Die Reisenden haben aber selbst kaum etwas und ein krankes Kind. Bambino hebt den Wagen, während Trinity das Rad wechselt; anschließend geben sie der Familie Geld. Die Begegnung zeigt durch konkrete Handlungen, warum der Versuch, ein erfolgreiches Verbrecherduo zu werden, immer wieder anders endet als beabsichtigt.",
-      "anchor": "Die Räuber geben Geld, statt welches zu nehmen.",
       "interest": "Der gescheiterte Raubzug veranschaulicht die wiederkehrende komische Umkehr.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Räuber geben Geld, statt welches zu nehmen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Brüder spielen Bundesagenten.",
       "context": "Trinity (Terence Hill) und Bambino (Bud Spencer) erklären der Familie, sie seien Bundesagenten, die nur zum Schein als Gesetzlose auftreten. Bambino präsentiert sich als Captain, Trinity als Lieutenant. Andere nehmen die Behauptung ernst. Parker (Emilio Delle Piane) bietet ihnen deshalb Geld, damit sie bei seinen Geschäften wegsehen. Der erfundene Auftrag bringt sie somit ausgerechnet mit einem tatsächlichen kriminellen Unternehmen in Verbindung.",
-      "anchor": "Die erfundene Amtsrolle bringt eine echte Bestechung ein.",
       "interest": "Die Rollenbehauptung erklärt eine wichtige Ursache des späteren Konflikts.",
       "sources": [
         "handlung",
         "anica"
-      ]
+      ],
+      "objective": "Die erfundene Amtsrolle bringt eine echte Bestechung ein."
     },
     {
       "code": "M2",
@@ -108,11 +108,11 @@
       ],
       "short": "Trinity macht aus dem Duell eine Folge von Ohrfeigen.",
       "context": "Nach dem Kartenspiel wirft Wild Card Hendricks (Antonio Monselesan) Trinity (Terence Hill) Betrug vor. Beim anschließenden Kräftemessen zieht Trinity so schnell, dass er seine Waffe wieder einstecken und den Gegner ohrfeigen kann, bevor dieser reagiert. Die typische Westernprobe des schnellen Ziehens wird dadurch zu einer komischen Demonstration. Seine Überlegenheit wird nicht nur behauptet, sondern in einem wiederholten sichtbaren Bewegungsablauf vorgeführt.",
-      "anchor": "Trinity ersetzt die tödliche Duellprobe durch eine Ohrfeigenfolge.",
       "interest": "Die Szene erschließt die körperliche Gestaltung der Westernparodie.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Trinity ersetzt die tödliche Duellprobe durch eine Ohrfeigenfolge."
     },
     {
       "code": "S1",
@@ -131,11 +131,11 @@
       ],
       "short": "Orgelmusik übertönt Bambinos Beichte.",
       "context": "Bambino (Bud Spencer) gibt in der Mission vor, beichten zu wollen. Seine lange Aufzählung schockiert den Geistlichen, während laut einsetzende Orgelmusik verhindert, dass das Publikum alle Einzelheiten hört. Die Szene lässt den Umfang seiner Verfehlungen durch Reaktion und Tonwirkung erkennen. Der Witz braucht damit keine nachträglich ergänzte deutsche Dialogzeile, sondern entsteht aus der schon im Film angelegten Verbindung von Bild und Musik.",
-      "anchor": "Die Reaktion bleibt sichtbar, die Verfehlungen verschwinden unter der Orgel.",
       "interest": "Ein eigenständiges Gestaltungsziel ergänzt die Fragen nach Handlungsentscheidungen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Reaktion bleibt sichtbar, die Verfehlungen verschwinden unter der Orgel."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Die Beute dient dazu, die falsche Agentenrolle zu stützen.",
       "context": "Nach der Auseinandersetzung in der Mission erscheinen Rangers und nehmen die Verbrecher fest. Einer erkennt in Bambino (Bud Spencer) möglicherweise einen gesuchten Pferdedieb. Trinity (Terence Hill) wiederholt die Behauptung, sie seien Bundesagenten, und übergibt die erbeuteten Werte. Die Brüder verlieren damit ihren erhofften Gewinn, sichern aber die Tarnung. Das Ende des Geschäfts folgt also aus der Gefahr, selbst als Gesetzlose erkannt zu werden.",
-      "anchor": "Die Beute rettet die Tarnrolle statt die Reisekasse.",
       "interest": "Die Übergabe zeigt den Preis des Auswegs aus einer gefährlichen Verwechslung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Beute rettet die Tarnrolle statt die Reisekasse."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "1970 die erste Trinity-Komödie, 1971 ihre Fortsetzung: ein Jahr.",
       "context": "„Die rechte und die linke Hand des Teufels“ erschien 1970. „Vier Fäuste für ein Halleluja“ folgte 1971, nur ein Jahr später. Terence Hill und Bud Spencer behalten die Rollen Trinity und Bambino, während die Fortsetzung neue Versuche einer gemeinsamen Banditenlaufbahn erzählt. Die beiden italienischen Archivkarten belegen die zeitliche Reihenfolge. Die spätere US-Veröffentlichung des zweiten Films gehört zu seiner internationalen Auswertung.",
-      "anchor": "Trinity beginnt 1970 und kehrt 1971 zurück.",
       "interest": "Der direkte Vorgänger schafft einen konkreten Reihenanker.",
       "sources": [
         "anica",
         "vorgaenger",
         "handlung"
-      ]
+      ],
+      "objective": "Trinity beginnt 1970 und kehrt 1971 zurück."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "Enzo Barboni führte auch bei der direkten Fortsetzung Regie.",
       "context": "Enzo Barboni inszenierte die zweite Trinity-Komödie erneut unter seinem Pseudonym E. B. Clucher. Terence Hill und Bud Spencer spielen wieder das ungleiche Brüderpaar. Die Fortsetzung führt dessen Fähigkeiten durch neue Situationen vor, etwa den Kartenspielkonflikt, die vorgetäuschte Agentenrolle und die Mission. Die italienische Archivkarte bestätigt den Hauptcredit. Abweichende deutsche Dialogbearbeitungen verändern diese Zuordnung des Originalfilms nicht.",
-      "anchor": "Barboni beziehungsweise E. B. Clucher bleibt der Hauptregisseur.",
       "interest": "Die Fortsetzung wird über den Originalcredit und nicht über die Sprachbearbeitung zugeordnet.",
       "sources": [
         "anica",
         "handlung"
-      ]
+      ],
+      "objective": "Barboni beziehungsweise E. B. Clucher bleibt der Hauptregisseur."
     }
   ]
 }

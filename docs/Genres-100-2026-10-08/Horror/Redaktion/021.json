@@ -40,11 +40,11 @@
       ],
       "short": "Die Familie reist anlässlich der Silberhochzeit.",
       "context": "Bob Carter (Ted Levine) und Ethel Carter (Kathleen Quinlan) unternehmen anlässlich ihrer Silberhochzeit eine Reise mit ihrer Familie. Kinder, Schwiegersohn und Enkelbaby fahren mit. Der gemeinsame Urlaub führt durch ein abgelegenes Wüstengebiet und setzt die verschiedenen Familienmitglieder derselben Gefahr aus. Die Ausgangslage macht den späteren Konflikt zu einer Bedrohung mehrerer Generationen, statt lediglich einzelne Fremde zufällig am selben Ort zusammenzubringen.",
-      "anchor": "Die Silberhochzeit versammelt mehrere Generationen auf einer Reise.",
       "interest": "Der Anlass erklärt die Zusammensetzung der Gruppe.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Silberhochzeit versammelt mehrere Generationen auf einer Reise."
     },
     {
       "code": "L2",
@@ -63,11 +63,11 @@
       ],
       "short": "Eine versteckte Nagelsperre stoppt die Weiterfahrt.",
       "context": "Ein Tankstellenmitarbeiter (Tom Bower) empfiehlt der Carter-Familie eine vermeintliche Abkürzung. Auf diesem Weg werden die Reifen durch eine versteckte Nagelsperre beschädigt und der Wagen verunglückt. Die Panne ist deshalb keine beliebige Folge der Hitze oder schlechten Wartung. Die scheinbar hilfreiche Wegbeschreibung bringt die Reisenden in eine vorbereitete Lage, in der sie auf Hilfe von außen hoffen müssen und zugleich besonders verletzlich werden.",
-      "anchor": "Der freundliche Reisetipp führt auf eine präparierte Strecke.",
       "interest": "Die Panne ist Teil eines gezielten Hinterhalts.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der freundliche Reisetipp führt auf eine präparierte Strecke."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Der Angriff auf den Vater ist eine Ablenkung für den Wohnwagenüberfall.",
       "context": "Bob Carter (Ted Levine) wird außerhalb des Wohnwagens angegriffen und verbrannt. Die übrigen Familienmitglieder werden dadurch abgelenkt, während andere Angreifer in den Wohnwagen eindringen. Dort geraten Brenda Carter (Emilie de Ravin) und das Baby in unmittelbare Gefahr. Der Film verbindet die getrennten Gewaltereignisse also als abgestimmten Angriff; der Schock über ein Opfer behindert zugleich den Schutz der noch zurückgebliebenen Angehörigen.",
-      "anchor": "Der Vater zieht die Aufmerksamkeit vom zweiten Angriffsort ab.",
       "interest": "Die Abfolge zeigt einen koordinierten Hinterhalt.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Vater zieht die Aufmerksamkeit vom zweiten Angriffsort ab."
     },
     {
       "code": "M2",
@@ -110,11 +110,11 @@
       ],
       "short": "Das frühere Testdorf dient den Angreifern als Lebensraum.",
       "context": "Doug Bukowski (Aaron Stanford) sucht nach seiner entführten Tochter und gelangt in ein verlassenes Dorf aus früheren Atomversuchen. Die Angreifer nutzen die Häuser als Unterkunft. Dieser Ort verbindet die Rettungssuche mit der vom Film erzählten Vorgeschichte der Mutanten. Die gezeigte Erklärung ist eine fiktionale Konstruktion und kein genauer historischer Bericht darüber, wo die Vereinigten Staaten welche oberirdischen Atomversuche durchgeführt haben.",
-      "anchor": "Das alte Testdorf verbindet Wohnraum der Gegner und filmische Vorgeschichte.",
       "interest": "Ein Handlungsort erschließt den Hintergrund der Bedrohung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das alte Testdorf verbindet Wohnraum der Gegner und filmische Vorgeschichte."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Ruby opfert sich, um den erneuten Angriff zu verhindern.",
       "context": "Ruby (Laura Ortiz) hat das Baby vor Lizard (Robert Joy) gerettet und an Doug Bukowski (Aaron Stanford) zurückgegeben. Als der scheinbar besiegte Angreifer erneut zur Waffe greift, wirft sie sich mit ihm über eine Klippe. Ihre Entscheidung verhindert den letzten Schuss und kostet sie selbst das Leben. Der Film unterscheidet damit einzelne Angehörige der Mutantenfamilie, statt jedem von ihnen dieselbe Absicht zuzuschreiben.",
-      "anchor": "Ruby verhindert den Schuss durch ihren eigenen tödlichen Einsatz.",
       "interest": "Die Entscheidung durchbricht eine pauschale Zuordnung der Gegnerfamilie.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ruby verhindert den Schuss durch ihren eigenen tödlichen Einsatz."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Ein unbekannter Beobachter verhindert einen sicheren Entwarnungsschluss.",
       "context": "Die überlebenden Angehörigen finden wieder zusammen und können das Baby in Sicherheit wähnen. Das letzte Bild zeigt jedoch einen unbekannten Mutanten, der sie aus der Ferne durch ein Fernglas beobachtet. Seine Identität wird für diese Schlusswirkung nicht benötigt. Der Bildwechsel macht aus der familiären Wiedervereinigung eine vorläufige Erleichterung: Die unmittelbaren Kämpfe sind beendet, die vollständige Beseitigung der Bedrohung ist damit nicht bewiesen.",
-      "anchor": "Das Fernglas setzt hinter die Wiedervereinigung ein offenes Ende.",
       "interest": "Eine Perspektivänderung verändert die Bedeutung des Schlusses.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Fernglas setzt hinter die Wiedervereinigung ein offenes Ende."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Ajas Neuverfilmung erschien 2006.",
       "context": "Wes Cravens Original The Hills Have Eyes erschien 1977; Alexandre Ajas Neuverfilmung folgte 2006, 29 Jahre später. Die BFI-Filmkarten bestätigen beide Werkjahre und ihre unterschiedlichen Regisseure. Die Fassungen teilen den Konflikt einer bedrohten Familie in der Wüste, haben aber eigenständige Besetzungen und Gestaltungen. Der große Abstand hilft, das moderne Remake vom früheren Film zu trennen und die spätere Fortsetzung nicht als dessen Erstveröffentlichung zu behandeln.",
-      "anchor": "Original 1977, Remake 2006: 29 Jahre Abstand.",
       "interest": "Zwei getrennte Fassungen bilden einen eindeutigen Zeitvergleich.",
       "sources": [
         "bfi",
         "original",
         "film"
-      ]
+      ],
+      "objective": "Original 1977, Remake 2006: 29 Jahre Abstand."
     },
     {
       "code": "D",
@@ -206,14 +206,14 @@
       ],
       "short": "Alexandre Aja ist der Hauptregisseur des Remakes.",
       "context": "Alexandre Aja führt beim Remake Hauptregie und schreibt mit Grégory Levasseur das Drehbuch. Wes Craven ist als Produzent beteiligt und hatte das getrennte Original inszeniert. Die neue Fassung erweitert den Wüstenkonflikt um ein verlassenes Atomtestdorf als Lebensraum der Angreifer. Damit verbindet die Inszenierung den unmittelbaren Überlebenskampf einer Familie mit einer ausdrücklich filmischen Vorgeschichte des Ortes, statt nur die Besetzung eines älteren Werks auszutauschen.",
-      "anchor": "Aja inszeniert das Remake; Craven bleibt als Produzent verbunden.",
       "interest": "Die Creditprüfung trennt Original, Remake und Fortsetzung.",
       "sources": [
         "bfi",
         "studio",
         "original",
         "film"
-      ]
+      ],
+      "objective": "Aja inszeniert das Remake; Craven bleibt als Produzent verbunden."
     }
   ]
 }

@@ -35,12 +35,12 @@
       ],
       "short": "Tess arbeitet als Sekretärin und möchte beruflich aufsteigen.",
       "context": "Tess arbeitet als Sekretärin und möchte beruflich aufsteigen. Sie hat sich über Abendkurse weitergebildet, erhält aber zunächst wenig Anerkennung für ihre Ideen. Die Geschichte setzt ihren Ehrgeiz damit neben eine enge zugeschriebene Rolle. Ihr späteres Auftreten verändert die Wahrnehmung der Kollegen, während ihre Kenntnisse bereits vor dem äußeren Rollenwechsel vorhanden sind.",
-      "anchor": "Tess hat mehr berufliche Ideen, als ihre Sekretärinnenrolle zulässt.",
       "interest": "Die berufliche Ausgangsposition erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tess hat mehr berufliche Ideen, als ihre Sekretärinnenrolle zulässt."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Tess kommt aus Staten Island.",
       "context": "Tess kommt aus Staten Island. Die Fahrt mit der Fähre verbindet ihr privates Umfeld mit der Geschäftswelt Manhattans. Der Film macht den beruflichen Weg damit auch räumlich sichtbar. Die Überfahrt gehört zum Alltag der Figur, lange bevor ihr neues Auftreten eine Chance eröffnet, innerhalb der Firmenhierarchie anders wahrgenommen zu werden.",
-      "anchor": "Die Staten-Island-Fähre verbindet Tess mit der Manhattan-Firmenwelt.",
       "interest": "Die räumliche Ausgangslage erfassen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Staten-Island-Fähre verbindet Tess mit der Manhattan-Firmenwelt."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Katharine muss nach einem Skiunfall im Krankenhaus bleiben.",
       "context": "Katharine muss nach einem Skiunfall im Krankenhaus bleiben. Tess erhält dadurch Zugang zu ihrer Wohnung und zu Informationen, die den Umgang mit ihrer Idee offenlegen. Die Abwesenheit schafft sowohl eine Gelegenheit als auch ein Risiko. Die neue Rolle wird möglich, weil die Chefin gerade nicht kontrollieren kann, wie ihre Assistentin die Kontakte verwendet.",
-      "anchor": "Katharines gebrochenes Bein öffnet Tess einen vorläufigen Handlungsspielraum.",
       "interest": "Die konkrete Gelegenheit für den Rollenwechsel verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Katharines gebrochenes Bein öffnet Tess einen vorläufigen Handlungsspielraum."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Tess schlägt vor, dass Trask Industries ein Radionetz kauft.",
       "context": "Tess schlägt vor, dass Trask Industries ein Radionetz kauft. Die Idee verbindet Informationen aus unterschiedlichen Bereichen zu einer möglichen Geschäftsstrategie. Der Konflikt entsteht, als Katharine sie als eigene Leistung verwenden möchte. Die Frage nach der Herkunft des Vorschlags wird deshalb später entscheidend dafür, wer die fachliche Anerkennung und den nächsten Karriereschritt verdient.",
-      "anchor": "Tess verbindet Trask Industries mit einem Radionetz.",
       "interest": "Das konkrete Geschäftsvorhaben erinnern.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Tess verbindet Trask Industries mit einem Radionetz."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Tess erläutert, welche Informationen sie zur Idee zusammengeführt hat.",
       "context": "Tess erläutert, welche Informationen sie zur Idee zusammengeführt hat. Katharine kann deren Entstehung dagegen nicht erklären. Die Herkunft wird so durch nachvollziehbares Denken sichtbar. Das Ende legt die Anerkennung der Leistung nicht allein in die Hände eines Unterstützers, sondern gibt Tess selbst Gelegenheit, ihre Überlegungen überzeugend darzustellen.",
-      "anchor": "Tess kann den Denkweg ihrer Idee erklären, Katharine nicht.",
       "interest": "Eine nachvollziehbare Entstehung als Urheberschaftsbeleg verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Tess kann den Denkweg ihrer Idee erklären, Katharine nicht."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Tess glaubt zunächst, Alice sei ihre neue Vorgesetzte.",
       "context": "Tess glaubt zunächst, Alice sei ihre neue Vorgesetzte. Erst im Gespräch erfährt sie, dass Alice ihre Sekretärin ist. Die neue Stellung wird damit in einer konkreten Begegnung erfahrbar. Tess entscheidet anschließend, die Mitarbeiterin als Kollegin zu behandeln. Ihr Aufstieg bietet somit Gelegenheit, die zuvor erlebte Hierarchie im eigenen Verhalten anders zu gestalten.",
-      "anchor": "Die vermeintliche Chefin ist Tess’ eigene Sekretärin.",
       "interest": "Den Schlussaufstieg anhand einer Alltagsbegegnung erfassen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die vermeintliche Chefin ist Tess’ eigene Sekretärin."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "US-Veröffentlichung im Dezember 1988; eine Studiopremiere war für den 19. Dezember angekündigt, regulärer Kinostart am 21. Dezember 1988.",
       "context": "„Die Waffen der Frauen“ erschien 1988. Die konkrete Idee entstand 1984, als Kevin Wade und Douglas Wick in New York pendelnde Geschäftsfrauen mit Turnschuhen und mitgeführten Absatzschuhen beobachteten. Vier Jahre trennen diese Alltagsbeobachtung vom fertigen Film. Das Jahreswissen erhält dadurch einen Entstehungsanker, der den Wechsel zwischen Straßenalltag und erwarteter Büroerscheinung unmittelbar erklärt.",
-      "anchor": "1984 die Beobachtung der Pendlerinnen, 1988 der Film: vier Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1984 die Beobachtung der Pendlerinnen, 1988 der Film: vier Jahre später."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Mike Nichols inszenierte Kevin Wades Drehbuch und setzte sich für Melanie Griffith als Tess ein.",
       "context": "Mike Nichols inszenierte Kevin Wades Drehbuch und setzte sich für Melanie Griffith als Tess ein. Harrison Ford und Sigourney Weaver verstärkten das Ensemble. Griffith und Weaver bereiteten sich in Finanzunternehmen auf ihre Rollen vor. Die Zusammenarbeit verbindet so die romantische Verwicklung mit konkreten Abläufen und Hierarchien der Firmenwelt, in der eine gute Idee auch eine anerkannte Urheberin braucht.",
-      "anchor": "Nichols setzt Griffiths Tess in die vorbereitete Finanzwelt des Ensembles.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Nichols setzt Griffiths Tess in die vorbereitete Finanzwelt des Ensembles."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Carmen arbeitet in einer Fallschirmfabrik.",
       "context": "Die Handlung verlegt den Carmen-Stoff in die USA während des Zweiten Weltkriegs. Nach einem Streit am Arbeitsplatz soll der Soldat Joe (Harry Belafonte) Carmen zu den Behörden bringen. Die Begegnung verändert sein Leben und seine Verbindung zur Verlobten Cindy Lou (Olga James). Aus dem militärisch geregelten Auftrag entsteht eine Beziehung, in der Gehorsam und Besitzansprüche mit Carmens Unabhängigkeit kollidieren.",
-      "anchor": "Die Fallschirmfabrik verankert Carmen in der amerikanischen Kriegsgegenwart.",
       "interest": "Der Einstieg macht die Modernisierung des bekannten Opernstoffs konkret.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://silver.afi.com/movies/detail/0100004353/"
-      ]
+      ],
+      "objective": "Die Fallschirmfabrik verankert Carmen in der amerikanischen Kriegsgegenwart."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 2,
       "short": "Jane Richards beginnt als Grundschullehrerin.",
       "context": "Jane übernimmt eine Klasse an einer ländlichen Schule in Alabama. Besonders beschäftigt sie C. T. Young (Philip Hepburn), der trotz seiner Begabung kaum am Unterricht teilnimmt. Sie sucht nach einem Zugang zu dem Jungen, dessen Familie wirtschaftlich unsicher lebt. Der Schulleiter (Harry Belafonte) bezweifelt zunächst den Erfolg, unterstützt aber ihre Bemühungen. Unterricht wird hier vor allem als Arbeit an Vertrauen und Anerkennung erzählt.",
-      "anchor": "Jane sucht als Lehrerin einen Zugang zu einem entmutigten Schüler.",
       "interest": "Die Rolle zeigt Dandridge in einer fürsorglichen Alltagsfigur außerhalb ihres Glamourimages.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Bright_Road"
-      ]
+      ],
+      "objective": "Jane sucht als Lehrerin einen Zugang zu einem entmutigten Schüler."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 0,
       "short": "Joe flieht, nachdem er seinen Vorgesetzten geschlagen hat.",
       "context": "Joe (Harry Belafonte) könnte seine Ausbildung als Flieger fortsetzen, doch der Konflikt um Carmen bringt ihn gegen Sergeant Brown (Brock Peters) auf. Nach der Gewalttat fährt er mit Carmen nach Chicago und muss sich verborgen halten. Das erhoffte gemeinsame Leben wird dadurch zu einer engen, mittellosen Existenz. Seine wachsende Eifersucht verschärft genau jene Unfreiheit, der Carmen entkommen möchte.",
-      "anchor": "Die Attacke auf den Vorgesetzten zwingt Joe in ein Leben im Versteck.",
       "interest": "Der Wendepunkt erklärt die materiellen und psychischen Folgen ihrer Flucht.",
       "feedback": [
         "Joe flieht, nachdem er seinen Vorgesetzten geschlagen hat.",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Carmen_Jones_(film)"
-      ]
+      ],
+      "objective": "Die Attacke auf den Vorgesetzten zwingt Joe in ein Leben im Versteck."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Bess geht mit Sportin’ Life nach New York.",
       "context": "Porgy (Sidney Poitier) wird zur Identifizierung von Crowns Leiche fortgebracht. Sportin’ Life (Sammy Davis Jr.) nutzt seine Abwesenheit, bietet Bess Drogen an und verspricht ihr ein neues Leben. Als Porgy zurückkehrt, erfährt er von ihrer Abreise. Er gibt die Beziehung dennoch nicht auf und macht sich selbst auf den Weg. Das Ende hält seine Hoffnung neben die Manipulation, die Bess aus der Gemeinschaft herausgeführt hat.",
-      "anchor": "Sportin’ Life lockt Bess nach New York; Porgy folgt ihr schließlich.",
       "interest": "Die Entscheidung verbindet Verführung, Abhängigkeit und den offenen Schluss der Liebesgeschichte.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/53462-PORGY-ANDBESS?cp=1&pos=1&sid=85661b8e-7284-4850-aba7-0ef1c27bdfaa&sr=0.24894808"
-      ]
+      ],
+      "objective": "Sportin’ Life lockt Bess nach New York; Porgy folgt ihr schließlich."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 3,
       "short": "Aiché bleibt bei den Gefangenen und teilt ihr tödliches Schicksal.",
       "context": "Aiché ist selbst versklavt und zugleich die Geliebte des Kapitäns Reiker (Curd Jürgens). Während des Aufstands wird sie zum Druckmittel zwischen Besatzung und Gefangenen. Tamango (Alex Cressan) erlaubt ihr schließlich, vor dem angedrohten Kanonenschuss an Deck zurückzukehren. Sie entscheidet sich gegen die persönliche Rettung beim Kapitän. Damit löst sie sich von einer Abhängigkeit, die ihr nur scheinbar Sicherheit gegeben hat.",
-      "anchor": "Aiché verzichtet auf ihre Sonderstellung und bleibt bei den Bedrohten.",
       "interest": "Die Schlussentscheidung macht ihre Entwicklung innerhalb der Sklavenschiffgeschichte verständlich.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Tamango",
         "https://www.tcm.com/articles/1415398/tamango"
-      ]
+      ],
+      "objective": "Aiché verzichtet auf ihre Sonderstellung und bleibt bei den Bedrohten."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 0,
       "short": "Carmen sieht in der gezogenen Karte ein Vorzeichen ihres Todes.",
       "context": "Carmen beginnt das Kartenlegen zunächst spielerisch, nimmt das Ergebnis dann aber als tödliche Vorhersage ernst. Sie entscheidet sich, die verbleibende Zeit auszukosten. Zugleich versucht Joe (Harry Belafonte) immer verzweifelter, sie zurückzugewinnen. Ihre spätere Weigerung, zu ihm zurückzukehren, steht damit im Zeichen des angekündigten Endes, ohne ihren Anspruch auf eine eigene Entscheidung aufzuheben.",
-      "anchor": "Die Todesvorhersage nimmt Carmen ihren Willen zur Selbstbestimmung nicht ab.",
       "interest": "Das Motiv verbindet den modernen Musicalfilm mit der tragischen Anlage des Carmen-Stoffs.",
       "feedback": [
         "Carmen sieht in der gezogenen Karte ein Vorzeichen ihres Todes.",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/53446-CARMEN-JONES"
-      ]
+      ],
+      "objective": "Die Todesvorhersage nimmt Carmen ihren Willen zur Selbstbestimmung nicht ab."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 3,
       "short": "Horne orientierte ihre Gesangsaufnahme an Dandridges vorgeführten Betonungen und Klangnuancen.",
       "context": "Dandridge war selbst eine erfahrene Sängerin, konnte die Partie aber nicht in den vorgesehenen Tonarten übernehmen. Horne hörte ihr deshalb beim Vorsingen in einer passenden Lage zu und versuchte, ihre stimmlichen Eigenheiten nachzubilden. Nach Hornes Erinnerung arbeiteten die beiden eng mit Musikdirektor Herschel Burke Gilbert zusammen. Die gespaltene Filmstimme beruhte somit auf einem konkreten Austausch zwischen sichtbarer Darstellerin und Sängerin.",
-      "anchor": "Die Opernstimme übernimmt die persönlichen Nuancen der sichtbaren Carmen.",
       "interest": "Die Zusammenarbeit zeigt musikalisches Synchronisieren als gemeinsame Figurenarbeit.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://www.theatermania.com/news/horne-aplenty_4322/"
-      ]
+      ],
+      "objective": "Die Opernstimme übernimmt die persönlichen Nuancen der sichtbaren Carmen."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 2,
       "short": "Dandridge wollte mit der Geschichte das Verständnis zwischen Menschen fördern.",
       "context": "Dandridge erklärte zunächst, die Lehrerin scheine ihr nicht zu entsprechen, und zweifelte daran, die Rolle bewältigen zu können. Sie nahm die Herausforderung dennoch wegen der vermittelnden Kraft der Geschichte an. Der Film wurde zugleich dafür gelobt und kritisiert, wie vorsichtig er gesellschaftliche Spannungen behandelte. Ihre Entscheidung verbindet damit eine persönliche schauspielerische Herausforderung mit einer bewussten Vorstellung von der Wirkung des Kinos.",
-      "anchor": "Das vermittelnde Anliegen der Geschichte überwiegt Dandridges Zweifel an der Rolle.",
       "interest": "Die belegte eigene Begründung erschließt eine berufliche Entscheidung jenseits von Ruhm und Auszeichnungen.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/MovieDetails/53505"
-      ]
+      ],
+      "objective": "Das vermittelnde Anliegen der Geschichte überwiegt Dandridges Zweifel an der Rolle."
     }
   ]
 }

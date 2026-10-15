@@ -30,13 +30,13 @@
       ],
       "short": "Ricky kommt als Pflegekind zu Bella und Hec.",
       "context": "Bella (Rima Te Wiata) gewinnt schnell Rickys Vertrauen. Hec bleibt zunächst distanziert. Als Bella stirbt, müssen sich die beiden ohne die vermittelnde Person miteinander auseinandersetzen.",
-      "anchor": "Bella nimmt Ricky auf; ihr Tod bringt Ricky und Hec allein zusammen.",
       "interest": "Die Ausgangsbeziehung erklärt die spätere Annäherung.",
       "sources": [
         "nzfilm",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bella nimmt Ricky auf; ihr Tod bringt Ricky und Hec allein zusammen."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Die beiden fliehen in den neuseeländischen Busch.",
       "context": "Hec kann jagen und sich im Gelände bewegen. Ricky bringt eine ganz andere Erfahrung mit. Die Landschaft verlangt Zusammenarbeit, während die Behörden ihre Beziehung von außen anders beurteilen.",
-      "anchor": "Ricky und Hec wachsen im neuseeländischen Busch zusammen.",
       "interest": "Der Fluchtraum erklärt die Abhängigkeit des Duos voneinander.",
       "sources": [
         "nzfilm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ricky und Hec wachsen im neuseeländischen Busch zusammen."
     },
     {
       "code": "M1",
@@ -79,13 +79,13 @@
       ],
       "short": "Ricky möchte bei Hec bleiben und eine neue Unterbringung verhindern.",
       "context": "Paula (Rachel House) vertritt die Jugendfürsorge. Ihre angekündigte Entscheidung löst Rickys Flucht aus. Was Ricky als Versuch versteht, eine Beziehung zu erhalten, wird bald als Entführung durch Hec (Sam Neill) behandelt.",
-      "anchor": "Ricky flieht vor der nächsten Unterbringung, nicht vor Hec.",
       "interest": "Das Motiv trennt die Perspektive des Kindes von der behördlichen Deutung.",
       "sources": [
         "handlung",
         "nzfilm"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ricky flieht vor der nächsten Unterbringung, nicht vor Hec."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Hec verletzt sich am Knöchel und muss erst wieder laufen können.",
       "context": "Hec sucht Ricky (Julian Dennison), statt ihn einfach verschwinden zu lassen. Die Verletzung macht daraus einen längeren gemeinsamen Aufenthalt. Währenddessen wächst die öffentliche Suche, und die Rückkehr wird immer komplizierter.",
-      "anchor": "Ein verletzter Knöchel macht aus der Suche eine gemeinsame Flucht.",
       "interest": "Eine konkrete Folge verändert die Dauer und Bedeutung des Aufenthalts.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein verletzter Knöchel macht aus der Suche eine gemeinsame Flucht."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Psycho Sam verbindet das Handy mit dem Internet.",
       "context": "Sam (Rhys Darby) lebt zurückgezogen und gibt den beiden Unterkunft. Trotzdem schafft die alltägliche Technik eine Verbindung zur Suche draußen. Das vermeintliche Versteck endet durch einen kleinen praktischen Handgriff.",
-      "anchor": "Sams Internetverbindung beendet das abgelegene Versteck.",
       "interest": "Ein konkreter Widerspruch zwischen Abgeschiedenheit und Vernetzung trägt die Wendung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sams Internetverbindung beendet das abgelegene Versteck."
     },
     {
       "code": "S2",
@@ -152,13 +152,13 @@
       ],
       "short": "Die Vorlage ist Barry Crumps „Wild Pork and Watercress“.",
       "context": "Die New Zealand Film Commission beschreibt, dass Waititi zunächst als beauftragter Autor an der Adaption arbeitete. Später führte er selbst Regie. Die Romanverfilmung verbindet damit fremde Vorlage und mehrere eigene Filmaufgaben.",
-      "anchor": "Crump liefert den Roman; Waititi entwickelt die Adaption und inszeniert sie.",
       "interest": "Die Adaption erklärt den Weg vom literarischen Stoff zum Film.",
       "sources": [
         "nzfilm",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Crump liefert den Roman; Waititi entwickelt die Adaption und inszeniert sie."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Der Film wurde 2016 erstmals veröffentlicht.",
       "context": "Barry Crumps Roman „Wild Pork and Watercress“ erschien 1986. Die Verfilmung folgte 2016, dreißig Jahre später. Dieser Abstand verbindet das neue Abenteuerduo mit einer älteren neuseeländischen Literaturvorlage.",
-      "anchor": "1986 der Roman, 2016 der Film: dreißig Jahre vom Buch ins Kino.",
       "interest": "Die literarische Vorlage liefert einen konkreten Zeitanker.",
       "sources": [
         "handlung",
         "nzfilm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1986 der Roman, 2016 der Film: dreißig Jahre vom Buch ins Kino."
     },
     {
       "code": "D",
@@ -202,13 +202,13 @@
       ],
       "short": "Taika Waititi führte Regie.",
       "context": "Waititi schrieb das Drehbuch nach Barry Crumps Roman und spielte selbst den Geistlichen bei Bellas (Rima Te Wiata) Beerdigung. Seine Arbeit verbindet Adaption, Inszenierung und eine kleine Rolle im selben Film.",
-      "anchor": "Waititi schreibt, inszeniert und erscheint als Geistlicher.",
       "interest": "Die Creditfrage bekommt einen konkreten filmbezogenen Hintergrund.",
       "sources": [
         "handlung",
         "nzfilm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Waititi schreibt, inszeniert und erscheint als Geistlicher."
     }
   ]
 }

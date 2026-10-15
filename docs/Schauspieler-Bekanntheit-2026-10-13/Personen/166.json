@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Irene gehört zur reichen New Yorker Gesellschaft.",
       "context": "Ihre Begegnung mit einem scheinbar mittellosen Mann führt zwei sehr verschiedene Lebenswelten zusammen. Der Luxus ihrer Familie schützt diese keineswegs vor Rücksichtslosigkeit oder chaotischem Verhalten.",
-      "anchor": "Irene gehört zu den reichen Bullocks.",
       "interest": "Das soziale Gefälle ist die Grundlage der Komödie.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/653"
-      ]
+      ],
+      "objective": "Irene gehört zu den reichen Bullocks."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 2,
       "short": "Maria Tura ist Schauspielerin an einem Warschauer Theater.",
       "context": "Unter deutscher Besatzung gewinnen Verkleidung und gespielte Identität eine gefährliche Bedeutung. Die beruflichen Fähigkeiten des Ensembles helfen beim Widerstand gegen die Nationalsozialisten.",
-      "anchor": "Marias Schauspielkunst wird zum Mittel des Widerstands.",
       "interest": "Der Beruf verbindet die Theaterkomödie mit der politischen Handlung.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27690-to-be-or-not-to-be"
-      ]
+      ],
+      "objective": "Marias Schauspielkunst wird zum Mittel des Widerstands."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Hazel lässt die Öffentlichkeit weiter an ihre vermeintlich tödliche Erkrankung glauben.",
       "context": "Die Diagnose hat sich bereits als falsch erwiesen. Ein Reporter macht sie dennoch zum Medienereignis; Hazel genießt die Reise nach New York und die Anteilnahme, die auf dem Irrtum beruhen.",
-      "anchor": "Die vermeintlich todkranke Hazel ist gesund.",
       "interest": "Die Figur macht die Verbindung von Sensationsjournalismus und inszeniertem Mitgefühl sichtbar.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=nothing-sacred"
-      ]
+      ],
+      "objective": "Die vermeintlich todkranke Hazel ist gesund."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Der Theatermacher Oscar Jaffe macht aus dem Wäschemodel Mildred Plotka den Star Lily Garland.",
       "context": "Die neue Identität wird Teil eines Machtkampfs zwischen Darstellerin und Entdecker. Lily löst sich von Jaffe; dessen Versuch, sie zurückzugewinnen, eskaliert auf einer Zugfahrt.",
-      "anchor": "Lily Garland ist die von Jaffe aufgebaute Bühnenkünstlerin.",
       "interest": "Die Verwandlung erklärt, warum Erfolg und Abhängigkeit in dieser Komödie zusammengehören.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://afisilver.afi.com/films/preview/archive/AFIPreview_70.pdf"
-      ]
+      ],
+      "objective": "Lily Garland ist die von Jaffe aufgebaute Bühnenkünstlerin."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 3,
       "short": "Ein Zuständigkeitsfehler macht ihre bisherige Eheschließung ungültig.",
       "context": "Ann erwartet nun eine erneute Heirat aus freier Entscheidung. Dass David den entscheidenden Antrag hinauszögert, setzt Trennung, Eifersucht und neue Annäherungsversuche in Gang.",
-      "anchor": "Die Ehe muss gewissermaßen neu begonnen werden.",
       "interest": "Eine bürokratische Panne macht die Selbstverständlichkeit einer Liebesbeziehung fraglich.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Mr._%26_Mrs._Smith_(1941_film)"
-      ]
+      ],
+      "objective": "Die Ehe muss gewissermaßen neu begonnen werden."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 2,
       "short": "Alecs Frau Maida blockiert die Scheidung.",
       "context": "Julie ist eine verwitwete Werbegrafikerin und Mutter. Der Konflikt setzt Lombard in einer ernsten Liebesgeschichte ein, in der Maidas Interesse an Geld und gesellschaftlicher Stellung die neue Beziehung bedroht.",
-      "anchor": "Eine blockierte Scheidung trennt Julie und Alec.",
       "interest": "Die Rolle erweitert das Bild Lombards über ihre berühmten Komödien hinaus.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/5042-IN-NAME-ONLY"
-      ]
+      ],
+      "objective": "Eine blockierte Scheidung trennt Julie und Alec."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 0,
       "short": "Hawks wollte ihre spontane Persönlichkeit statt steif einstudierter Darstellung nutzen.",
       "context": "Er drängte Lombard, auf ihren Partner so unmittelbar zu reagieren wie außerhalb des Studios. Das Ergebnis war eine energische Komik aus Ausbrüchen, Bewegung und schnellem Gegenspiel mit John Barrymore.",
-      "anchor": "Hawks machte Lombards Spontaneität zum schauspielerischen Werkzeug.",
       "interest": "Der Regieansatz erklärt den Durchbruch ihres besonderen Komödienstils.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://www.tcm.com/articles/962194/behind-the-camera-twentieth-century"
-      ]
+      ],
+      "objective": "Hawks machte Lombards Spontaneität zum schauspielerischen Werkzeug."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 1,
       "short": "Lombard nahm La Cavas Sekretärin als Vorbild für Irene.",
       "context": "Der Regisseur Mitchell Leisen berichtete von dieser Orientierung. Die scheinbar gedankenlos sprunghafte Figur erforderte eine bewusste Gestaltung; Lombards eigene Schlagfertigkeit war mit Irenes Denkweise keineswegs identisch.",
-      "anchor": "Eine reale Sekretärin lieferte Material für die exzentrische Erbin.",
       "interest": "Das Vorbild zeigt, wie Beobachtung eine überzeichnete Komödienfigur formen kann.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/5928-my-man-godfrey-the-right-kind-of-people"
-      ]
+      ],
+      "objective": "Eine reale Sekretärin lieferte Material für die exzentrische Erbin."
     }
   ]
 }

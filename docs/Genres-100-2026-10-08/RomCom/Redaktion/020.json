@@ -35,12 +35,12 @@
       ],
       "short": "Rosie und Alex sind seit ihrer Kindheit beste Freunde.",
       "context": "Rosie Dunne (Lily Collins) und Alex Stewart (Sam Claflin) wachsen mit einer engen Freundschaft auf. Gerade diese Vertrautheit erschwert ihnen, ihre romantischen Gefühle offen auszusprechen. Neue Partner, Zukunftspläne und Missverständnisse verändern die Nähe im Laufe der Jahre. Der Film verfolgt damit keine erste Begegnung zweier Fremder, sondern eine Beziehung, deren lange gemeinsame Geschichte zugleich Halt bietet und Entscheidungen kompliziert macht.",
-      "anchor": "Die lange Freundschaft geht der Romanze voraus.",
       "interest": "Die Ausgangsbeziehung erklärt das wiederholte Zögern.",
       "sources": [
         "handlung",
         "studio"
-      ]
+      ],
+      "objective": "Die lange Freundschaft geht der Romanze voraus."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Rosie möchte ein eigenes Hotel führen.",
       "context": "Rosie Dunne (Lily Collins) verbindet ihre Zukunftspläne mit dem Wunsch, eines Tages ein eigenes Hotel zu führen. Das Ziel verlangt Ausbildung und berufliche Erfahrung, während ihr Leben wiederholt einen anderen Verlauf nimmt als erwartet. Der Traum bleibt dennoch bestehen. Neben der wechselhaften Beziehung zu Alex Stewart (Sam Claflin) besitzt Rosie dadurch eine eigene langfristige Perspektive, die über die Suche nach einem Partner hinausgeht.",
-      "anchor": "Das Hotel bleibt ein eigener Zukunftswunsch.",
       "interest": "Ein berufliches Ziel ergänzt den romantischen Grundkonflikt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Hotel bleibt ein eigener Zukunftswunsch."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Die Schwangerschaft verhindert die geplante gemeinsame Zukunft in Boston.",
       "context": "Rosie Dunne (Lily Collins) wird nach dem Abschlussball von Greg (Christian Cooke) schwanger. Die Nachricht verändert ihre Pläne, mit Alex Stewart (Sam Claflin) nach Boston zu gehen. Sie verschweigt ihm die Situation zunächst, weil sie nicht möchte, dass er seine eigene Chance aufgibt. Aus der räumlichen Trennung wächst damit ein langfristiger Unterschied zwischen den Lebenswegen der beiden Freunde.",
-      "anchor": "Die Schwangerschaft trennt die geplanten gemeinsamen Wege.",
       "interest": "Die Ursache erklärt mehrjährige räumliche und persönliche Folgen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Schwangerschaft trennt die geplanten gemeinsamen Wege."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Greg versteckt den Liebesbrief vor Rosie.",
       "context": "Alex Stewart (Sam Claflin) schreibt Rosie Dunne (Lily Collins) nach einem Besuch einen Brief, in dem er seine Gefühle ausdrückt. Greg (Christian Cooke), Rosies Ehemann, fängt ihn ab und versteckt ihn. Rosie findet die Nachricht erst später beim Packen seiner Sachen. Ein bewusst zurückgehaltener Gegenstand verlängert so das Missverständnis zwischen den Freunden und verhindert, dass sie zur richtigen Zeit voneinander erfahren.",
-      "anchor": "Der Liebesbrief wird absichtlich zurückgehalten.",
       "interest": "Eine konkrete Täuschung verzögert die gegenseitige Verständigung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Liebesbrief wird absichtlich zurückgehalten."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Rosie hat den Kuss vergessen; Alex deutet ihre Worte als Ablehnung.",
       "context": "Rosie Dunne (Lily Collins) und Alex Stewart (Sam Claflin) küssen sich bei ihrer Geburtstagsfeier. Nach zu viel Alkohol erinnert Rosie sich jedoch nicht mehr daran und würde den Abend am liebsten vergessen. Alex bezieht diese Äußerung auf den Kuss und fühlt sich zurückgewiesen. Das Publikum kennt den Unterschied zwischen Erinnerungslücke und Ablehnung; die Figuren klären ihn dagegen lange nicht und richten ihre weiteren Entscheidungen danach aus.",
-      "anchor": "Vergessener Kuss und vermeintliche Ablehnung sind zwei verschiedene Sichtweisen.",
       "interest": "Die Frage verlangt den Zusammenhang von Erinnerung und Missverständnis.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Vergessener Kuss und vermeintliche Ablehnung sind zwei verschiedene Sichtweisen."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "Rosie verwendet das Erbe ihres Vaters für ihr eigenes Hotel.",
       "context": "Rosie Dunne (Lily Collins) kann nach vielen Umwegen ihr eigenes Hotel eröffnen, weil das Erbe ihres Vaters ihr die finanzielle Grundlage gibt. Alex Stewart (Sam Claflin) kommt später als Gast dorthin. Der Ort vereint damit einen selbst erreichten Lebenswunsch und die spätere romantische Annäherung. Die Finanzierung erklärt, wie aus Rosies lange bestehendem beruflichem Traum am Ende ein tatsächlich eröffnetes Geschäft wird.",
-      "anchor": "Das väterliche Erbe schafft die finanzielle Grundlage für den Traum.",
       "interest": "Die Schlussentwicklung betrifft einen eigenständigen beruflichen Erfolg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das väterliche Erbe schafft die finanzielle Grundlage für den Traum."
     },
     {
       "code": "Y",
@@ -175,12 +175,12 @@
       ],
       "short": "2004 der Roman Where Rainbows End, 2014 der Film: zehn Jahre.",
       "context": "Love, Rosie erschien 2014. Cecelia Ahern veröffentlichte die Romanvorlage Where Rainbows End 2004, also zehn Jahre zuvor; ihre offizielle Biografie nennt dieses Buch und seine spätere Verfilmung. Der Abstand verbindet zwei konkrete Fassungen der Geschichte über langjährige Freunde. Der Filmstart gehört daher zur späteren Bildschirmumsetzung und wird vom deutlich früheren Erscheinen der literarischen Vorlage getrennt.",
-      "anchor": "2004 Roman, 2014 Film: zehn Jahre Abstand.",
       "interest": "Der Roman liefert einen passenden und belegten Werkanker.",
       "sources": [
         "studio",
         "zeitanker"
-      ]
+      ],
+      "objective": "2004 Roman, 2014 Film: zehn Jahre Abstand."
     },
     {
       "code": "D",
@@ -199,11 +199,11 @@
       ],
       "short": "Christian Ditter inszenierte die Romanverfilmung.",
       "context": "Christian Ditter führte bei Love, Rosie Regie. Constantin trennt seinen Credit vom Drehbuch, das Juliette Towhidi nach Cecelia Aherns Roman schrieb. Lily Collins spielt Rosie Dunne, Sam Claflin Alex Stewart. Die Verfilmung verfolgt deren Freundschaft über zahlreiche verpasste Gelegenheiten. Ditter ist damit für die Inszenierung zuständig, während die Entwicklung des Filmtexts und die literarische Urheberschaft anderen Mitwirkenden zugeordnet sind.",
-      "anchor": "Ditter inszeniert, Towhidi adaptiert Aherns Roman.",
       "interest": "Die Credits trennen Regie, Filmdrehbuch und Romanvorlage.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "Ditter inszeniert, Towhidi adaptiert Aherns Roman."
     }
   ]
 }

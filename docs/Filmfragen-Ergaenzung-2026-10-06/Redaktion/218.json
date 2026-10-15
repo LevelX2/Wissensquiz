@@ -36,12 +36,12 @@
       ],
       "short": "Sook-hee (Kim Tae-ri) wird als Dienstmädchen bei Hideko (Kim Min-hee) eingeschleust.",
       "context": "Sook-hee (Kim Tae-ri) wird als Dienstmädchen bei Hideko (Kim Min-hee) eingeschleust. Die vermeintliche Anstellung ist Teil eines Plans, die Erbin zur Heirat mit einem Hochstapler zu bewegen.",
-      "anchor": "Die Dienststelle öffnet dem Betrugsplan das Haus.",
       "interest": "Die Dienststelle öffnet dem Betrugsplan das Haus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Dienststelle öffnet dem Betrugsplan das Haus."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Kouzuki (Cho Jin-woong) sammelt und verkauft erotische Bücher.",
       "context": "Kouzuki (Cho Jin-woong) sammelt und verkauft erotische Bücher. Hideko (Kim Min-hee) muss daraus vor Männern lesen; das literarische Geschäft beruht auch auf ihrer erzwungenen Darbietung.",
-      "anchor": "Die Bibliothek verbindet Handel mit Hidekos Ausbeutung.",
       "interest": "Die Bibliothek verbindet Handel mit Hidekos Ausbeutung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Bibliothek verbindet Handel mit Hidekos Ausbeutung."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Der angebliche Graf (Ha Jung-woo) will Hideko (Kim Min-hee) heiraten und danach in eine Anstalt bringen lassen.",
       "context": "Der angebliche Graf (Ha Jung-woo) will Hideko (Kim Min-hee) heiraten und danach in eine Anstalt bringen lassen. Die Einweisung soll ihm den Zugriff auf ihr Vermögen sichern.",
-      "anchor": "Heirat und Einweisung bilden den geplanten Zugriff auf das Erbe.",
       "interest": "Heirat und Einweisung bilden den geplanten Zugriff auf das Erbe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Heirat und Einweisung bilden den geplanten Zugriff auf das Erbe."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Der zweite Teil offenbart, wie Hideko (Kim Min-hee) und Sook-hee (Kim Tae-ri) ihre jeweiligen Pläne gestehen und gemeinsam gegen die Männer vorgehen.",
       "context": "Der zweite Teil offenbart, wie Hideko (Kim Min-hee) und Sook-hee (Kim Tae-ri) ihre jeweiligen Pläne gestehen und gemeinsam gegen die Männer vorgehen. Der scheinbare Verrat erhält dadurch eine neue Bedeutung.",
-      "anchor": "Der Perspektivwechsel deutet scheinbaren Verrat als gemeinsame Strategie.",
       "interest": "Der Perspektivwechsel deutet scheinbaren Verrat als gemeinsame Strategie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Perspektivwechsel deutet scheinbaren Verrat als gemeinsame Strategie."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Sook-hee (Kim Tae-ri) zerstört die Bücher, aus denen Hideko (Kim Min-hee) seit ihrer Kindheit vorlesen muss.",
       "context": "Sook-hee (Kim Tae-ri) zerstört die Bücher, aus denen Hideko (Kim Min-hee) seit ihrer Kindheit vorlesen muss. Hideko hilft ihr; die Handlung richtet sich gegen das Instrument ihrer Unterdrückung.",
-      "anchor": "Die zerstörten Bücher machen den Bruch mit der Ausbeutung sichtbar.",
       "interest": "Die zerstörten Bücher machen den Bruch mit der Ausbeutung sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die zerstörten Bücher machen den Bruch mit der Ausbeutung sichtbar."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der Graf (Ha Jung-woo) raucht quecksilberhaltige Zigaretten in Kouzukis Folterkeller.",
       "context": "Der Graf (Ha Jung-woo) raucht quecksilberhaltige Zigaretten in Kouzukis Folterkeller. Der giftige Rauch tötet beide; der zuvor von Hideko eingesetzte Opiumwein gehört zu einer anderen Fluchtmaßnahme.",
-      "anchor": "Der giftige Rauch beendet Folter und Leben beider Männer.",
       "interest": "Der giftige Rauch beendet Folter und Leben beider Männer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der giftige Rauch beendet Folter und Leben beider Männer."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2016 erschien die Kinofassung.",
       "context": "2016 erschien die Kinofassung. Sarah Waters’ Roman Fingersmith stammt von 2002; vierzehn Jahre später versetzt die Adaption seinen viktorianischen Betrug in das japanisch besetzte Korea.",
-      "anchor": "Fingersmith 2002, Film 2016: Vierzehn Jahre später wird der viktorianische Betrug ins besetzte Korea verlegt.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Fingersmith 2002, Film 2016: Vierzehn Jahre später wird der viktorianische Betrug ins besetzte Korea verlegt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Park Chan-wook führte Regie und schrieb mit Jeong Seo-kyeong das Drehbuch.",
       "context": "Park Chan-wook führte Regie und schrieb mit Jeong Seo-kyeong das Drehbuch. Die dreiteilige Erzählung verändert durch Perspektivwechsel, wie Verrat und gegenseitige Befreiung verstanden werden.",
-      "anchor": "Park Chan-wook führte Regie und schrieb mit Jeong Seo-kyeong das Drehbuch.",
       "interest": "Park Chan-wook führte Regie und schrieb mit Jeong Seo-kyeong das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Park Chan-wook führte Regie und schrieb mit Jeong Seo-kyeong das Drehbuch."
     }
   ]
 }

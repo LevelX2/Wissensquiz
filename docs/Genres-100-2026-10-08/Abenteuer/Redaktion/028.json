@@ -36,11 +36,11 @@
       ],
       "short": "Seine Rückkehr gilt der Familie.",
       "context": "Jaguar Pranke (Rudy Youngblood) wird bei einem Überfall gefangen genommen. Vorher hat er seine Familie verborgen. Sein Weg aus der Gefangenschaft ist deshalb nicht nur eine Flucht um das eigene Leben: Er muss rechtzeitig zu den Menschen zurückkehren, die weiterhin auf ihn angewiesen sind.",
-      "anchor": "Die Flucht führt zurück zur Familie.",
       "interest": "Das Rettungsziel erklärt den gesamten Weg des Helden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Flucht führt zurück zur Familie."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Der trockene Schacht bietet zunächst Schutz.",
       "context": "Sieben (Dalia Hernández) und der kleine Sohn steigen in den Schacht. Ein Angreifer kappt jedoch das Seil. Der geschützte Ort wird dadurch zur Falle, und später erhöht Regen die Gefahr: Jaguar Prankes (Rudy Youngblood) Rückkehr ist für ihr Entkommen nötig.",
-      "anchor": "Das Versteck wird durch das gekappte Seil zur Falle.",
       "interest": "Der Ort besitzt zugleich Schutz- und Gefahrenfunktion.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Versteck wird durch das gekappte Seil zur Falle."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Die Finsternis wird als Ende des Opferbedarfs gedeutet.",
       "context": "Der Priester (Fernando Hernández) deutet die Sonnenfinsternis als Zeichen, dass die Götter zufriedengestellt seien. Jaguar Pranke (Rudy Youngblood) bleibt deshalb vorerst am Leben. Die Freilassung bedeutet jedoch keine Sicherheit, denn die Gefangenen werden anschließend erneut einer tödlichen Verfolgung ausgesetzt.",
-      "anchor": "Die Finsternis stoppt das Ritual, nicht die Gefahr.",
       "interest": "Eine vorläufige Rettung wird vom tatsächlichen Entkommen unterschieden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Finsternis stoppt das Ritual, nicht die Gefahr."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Er nutzt die Umgebung, die er als Jäger kennt.",
       "context": "Jaguar Pranke (Rudy Youngblood) kehrt in vertrautes Gelände zurück. Tiere, Wege und Fallen kann er nun gegen seine Verfolger einsetzen. Das Wissen, das zu Beginn den Lebensunterhalt seiner Gruppe sicherte, wird zur Überlebenstechnik gegen einen zahlenmäßig stärkeren Gegner.",
-      "anchor": "Der Jäger macht seinen Wald zum Vorteil.",
       "interest": "Früh etablierte Fähigkeiten erhalten in der Flucht eine neue Funktion.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Jäger macht seinen Wald zum Vorteil."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Eine für die Tierjagd gedachte Falle entscheidet den Kampf.",
       "context": "Zero Wolf (Raoul Trujillo) treibt die Verfolgung nach dem Tod seines Sohnes weiter. Jaguar Pranke (Rudy Youngblood) nutzt eine vertraute Falle, wie sie seine Gruppe für die Jagd gebaut hatte. Die Verhältnisse kehren sich um: Der Gejagte entscheidet nun über die Wege seines Verfolgers.",
-      "anchor": "Der Gejagte führt den Verfolger in die Falle.",
       "interest": "Die Wendung verbindet frühere Jagdpraxis und Schlusskonflikt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Gejagte führt den Verfolger in die Falle."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Er wählt den Rückweg und schließlich den Wald.",
       "context": "Die Verfolger wenden ihre Aufmerksamkeit den spanischen Ankommenden zu. Jaguar Pranke (Rudy Youngblood) nutzt den Moment für die Rettung Siebens (Dalia Hernández) und der Kinder. Der Schluss setzt die neue Gefahr und den Familienweg nebeneinander, ohne die Schiffe als seine einfache Rettung zu behandeln.",
-      "anchor": "Die Schiffe öffnen einen Ausweg, keine sichere Zukunft.",
       "interest": "Die Schlussentscheidung unterscheidet Ablenkung und Vertrauen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Schiffe öffnen einen Ausweg, keine sichere Zukunft."
     },
     {
       "code": "Y",
@@ -174,12 +174,12 @@
       ],
       "short": "Der Film erschien 2006.",
       "context": "Mel Gibsons Die Passion Christi erschien 2004. Apocalypto folgte 2006, zwei Jahre später, wiederum als seine Regiearbeit. Der Zeitanker verbindet zwei historische Stoffe, die Gibson sehr unterschiedlich erzählt: Auf die Darstellung der letzten Stunden Jesu folgt ein Flucht- und Rettungsabenteuer in einer mesoamerikanischen Welt. Das Filmjahr bezeichnet jeweils die moderne Veröffentlichung und nicht die dargestellte Epoche.",
-      "anchor": "2004 Die Passion Christi – 2006 Apocalypto: zwei Jahre Gibsons Regiearbeiten.",
       "interest": "Handlungsform und Hauptdarsteller verankern das Filmjahr.",
       "sources": [
         "archiv",
         "zeitanker"
-      ]
+      ],
+      "objective": "2004 Die Passion Christi – 2006 Apocalypto: zwei Jahre Gibsons Regiearbeiten."
     },
     {
       "code": "D",
@@ -198,11 +198,11 @@
       ],
       "short": "Mel Gibson führte Regie.",
       "context": "Mel Gibson inszeniert Jaguar Prankes Weg von der Gefangennahme zur Rückkehr in den Wald. Der BFI-Katalog bestätigt den Regiecredit. Die Fragen beziehen sich auf die konkrete Filmhandlung; deren zugespitzte historische Darstellung ersetzt keine umfassende Geschichte der Maya.",
-      "anchor": "Gibson inszeniert Jaguar Prankes Rückkehr.",
       "interest": "Der Credit wird ohne Vermischung von Filmhandlung und historischer Lehre zugeordnet.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Gibson inszeniert Jaguar Prankes Rückkehr."
     }
   ]
 }

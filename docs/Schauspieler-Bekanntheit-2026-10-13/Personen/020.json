@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Pfeiffer schleicht sich als Schüler in ein Gymnasium ein.",
       "context": "Pfeiffer kennt die Schule nur aus dem Privatunterricht. Die Geschichten seiner Bekannten wecken deshalb den Wunsch, versäumte Schülerstreiche selbst zu erleben. Rühmann spielt einen Erwachsenen, der bewusst eine jüngere Identität annimmt; der Film erzählt keine Verjüngung oder tatsächliche Rückreise in seine Kindheit.",
-      "anchor": "Pfeiffer holt als angeblicher Schüler Erlebnisse nach.",
       "interest": "Die Frage unterscheidet Verkleidung und tatsächliches Alter der Filmfigur.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.filmportal.de/film/die-feuerzangenbowle_8f1f6801f421480f861713b3bd4c0489",
         "https://de.wikipedia.org/wiki/Die_Feuerzangenbowle_(1944)"
-      ]
+      ],
+      "objective": "Pfeiffer holt als angeblicher Schüler Erlebnisse nach."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 1,
       "short": "Rühmann spielt neben Willy Fritsch und Oskar Karlweis.",
       "context": "Drei Freunde verlieren ihr Vermögen und eröffnen vom Verkaufserlös ihres Autos eine Tankstelle. Als alle dieselbe Frau kennenlernen, gerät ihre Verbundenheit unter Druck. Der frühe Tonfilm verbindet diese Handlung mit Gesang und Tanz; Rühmanns Durchbruch gehört damit auch zur Entwicklung der deutschen Tonfilmoperette.",
-      "anchor": "Rühmann, Fritsch und Karlweis tragen die Tonfilm-Freundschaft.",
       "interest": "Das Duo seiner Partner ordnet seinen Durchbruch einer konkreten Ensembleform zu.",
       "feedback": [
         "",
@@ -60,7 +59,8 @@
       "extraSources": [
         "https://www.filmportal.de/film/die-drei-von-der-tankstelle_2353e6342f1b4779bbeb2c2edfc1c0ac",
         "https://www.filmportal.de/en/node/39789/material/614304"
-      ]
+      ],
+      "objective": "Rühmann, Fritsch und Karlweis tragen die Tonfilm-Freundschaft."
     },
     {
       "code": "M1",
@@ -74,7 +74,6 @@
       "correct": 2,
       "short": "Die Uniform verschafft Voigt eine Autorität, die ihm als Zivilist verweigert wird.",
       "context": "Ohne die nötigen Papiere findet Voigt nach seiner Haft keinen Platz in der Gesellschaft. Er erwirbt einen alten Uniformrock und nutzt den Gehorsam gegenüber militärischen Rangzeichen. Der Widerspruch zwischen dem machtlosen Menschen und der wirksamen Kleidung legt den Autoritätsglauben der Umgebung offen.",
-      "anchor": "Voigt bekommt mit dem Uniformrock eine geliehene Macht.",
       "interest": "Die Verkleidung wird als Kritik an einer gesellschaftlichen Ordnung verständlich.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/der-hauptmann-von-koepenick_74f3905fd9074f39a6950a48c4406dcd"
-      ]
+      ],
+      "objective": "Voigt bekommt mit dem Uniformrock eine geliehene Macht."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 3,
       "short": "Matthäi setzt ein Mädchen als Köder für den gesuchten Kindermörder ein.",
       "context": "Matthäi zweifelt an der Schuld des zunächst verdächtigten Hausierers. Er ermittelt eigenständig weiter und richtet sich an einer Tankstelle ein, wo er eine Mutter mit ihrer Tochter beschäftigt. Seine Suche nach dem Täter bringt dadurch ein weiteres Kind in Gefahr. Rühmanns Ermittler wird nicht allein durch gute Absichten zu einer unproblematischen Heldenfigur.",
-      "anchor": "Matthäis Täterjagd gefährdet das Kind, das ihn zum Täter führen soll.",
       "interest": "Die Rolle erschließt einen moralischen Konflikt jenseits von Rühmanns Komödienimage.",
       "feedback": [
         "",
@@ -114,7 +113,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/en/movie/es-geschah-am-hellichten-tag_ea43d4a728465006e03053d50b37753d"
-      ]
+      ],
+      "objective": "Matthäis Täterjagd gefährdet das Kind, das ihn zum Täter führen soll."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 0,
       "short": "Der Bischof missbilligt Browns öffentlich bekannt gewordene Detektivarbeit.",
       "context": "Brown löst einen Mordfall und gelangt damit in die Zeitungen. Sein kirchlicher Vorgesetzter schickt ihn in einen Ort, an dem lange kein Verbrechen geschehen ist. Doch auch dort kommt es zu einem Mord. Browns Aufmerksamkeit für menschliches Verhalten lässt sich nicht einfach durch einen Wechsel der Gemeinde abschalten.",
-      "anchor": "Der Bischof möchte Browns Kriminalistik durch Versetzung beenden.",
       "interest": "Der Konflikt zwischen Amtsverständnis und persönlicher Begabung erklärt die Handlung der Pater-Brown-Rolle.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/das-schwarze-schaf_ad9c2dfe70604a15a01b6185adca5e11"
-      ]
+      ],
+      "objective": "Der Bischof möchte Browns Kriminalistik durch Versetzung beenden."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 1,
       "short": "„Lauter Lügen“ war Rühmanns Regiedebüt.",
       "context": "Rühmann war bereits ein bekannter Darsteller, als er diese Komödie inszenierte. Die weibliche Hauptrolle spielte Hertha Feiler. Der Film markiert daher eine Erweiterung seiner Arbeit hinter die Kamera; die Bekanntheit als Schauspieler allein beschreibt seine Aufgaben im damaligen Filmgeschäft nur unvollständig.",
-      "anchor": "Mit „Lauter Lügen“ kam Rühmann zur eigenen Filmregie.",
       "interest": "Der Regiewechsel ergänzt seine bekannte Schauspielerlaufbahn um eine belegte zweite Tätigkeit.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       "extraSources": [
         "https://www.filmportal.de/person/heinz-ruehmann_099d6835b3754e6c9d26ec4d910238e5",
         "https://www.filmportal.de/film/lauter-luegen_50d4a91be5974e67855d15fa69766757"
-      ]
+      ],
+      "objective": "Mit „Lauter Lügen“ kam Rühmann zur eigenen Filmregie."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 2,
       "short": "Comedia war Rühmanns und Teichs’ Filmproduktionsfirma.",
       "context": "Rühmann engagierte sich nach dem Krieg auch unternehmerisch. Trotz einzelner Erfolge musste Comedia 1952 Konkurs anmelden. Die Episode zeigt, dass seine Popularität als Darsteller keine dauerhafte wirtschaftliche Sicherheit für eine eigene Produktionsfirma garantierte. Zur Schauspielarbeit kam das Risiko, Projekte selbst zu finanzieren und zu verantworten.",
-      "anchor": "Comedia verband den Schauspieler Rühmann mit eigenem Produktionsrisiko.",
       "interest": "Ein konkretes Unternehmen macht den Unterschied zwischen Starerfolg und Produzentenverantwortung sichtbar.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       "films": [],
       "extraSources": [
         "https://www.filmportal.de/person/heinz-ruehmann_099d6835b3754e6c9d26ec4d910238e5"
-      ]
+      ],
+      "objective": "Comedia verband den Schauspieler Rühmann mit eigenem Produktionsrisiko."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 3,
       "short": "Rühmann spielte Estragon in „Warten auf Godot“ an den Münchner Kammerspielen.",
       "context": "Neben Ernst Schröder als Wladimir stand Rühmann in Becketts Stück über zwei Wartende auf der Bühne. Fritz Kortner inszenierte die Aufführung. Der Theaterauftritt ergänzt das Bild des populären Filmkomikers um eine Zusammenarbeit mit dem modernen absurden Theater; Rühmanns Bühnenarbeit ging über die vertraute Kinokomödie hinaus.",
-      "anchor": "Rühmanns Estragon gehört zu Becketts „Warten auf Godot“.",
       "interest": "Der belegte Bühnenauftritt stellt eine unerwartete Verbindung innerhalb seiner Laufbahn her.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       "films": [],
       "extraSources": [
         "https://de.wikipedia.org/wiki/Warten_auf_Godot"
-      ]
+      ],
+      "objective": "Rühmanns Estragon gehört zu Becketts „Warten auf Godot“."
     }
   ]
 }

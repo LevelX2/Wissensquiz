@@ -36,12 +36,12 @@
       ],
       "short": "Ein obszöner Brief im Büro des verschwundenen Tom Gruneman führt zu Bree Daniels (Jane Fonda).",
       "context": "Ein obszöner Brief im Büro des verschwundenen Tom Gruneman führt zu Bree Daniels (Jane Fonda). Sie hat mehrere solche Schreiben erhalten; die vermeintliche Verbindung eröffnet die Untersuchung.",
-      "anchor": "Ein Brief verbindet Vermisstenfall und bedrohte Frau.",
       "interest": "Ein Brief verbindet Vermisstenfall und bedrohte Frau.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein Brief verbindet Vermisstenfall und bedrohte Frau."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Bree Daniels (Jane Fonda) bewirbt sich um Schauspiel- und Modelaufträge.",
       "context": "Bree Daniels (Jane Fonda) bewirbt sich um Schauspiel- und Modelaufträge. Die Vorsprechen zeigen ihre Suche nach einer anderen Existenz, während sie weiterhin von Freiern lebt.",
-      "anchor": "Brees Vorsprechen zeigen ihre Hoffnung auf einen anderen Alltag.",
       "interest": "Brees Vorsprechen zeigen ihre Hoffnung auf einen anderen Alltag.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Brees Vorsprechen zeigen ihre Hoffnung auf einen anderen Alltag."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Bree Daniels (Jane Fonda) erklärt ihrer Therapeutin, dass sie sich beim Umgang mit Freiern kontrollierter fühlt.",
       "context": "Bree Daniels (Jane Fonda) erklärt ihrer Therapeutin, dass sie sich beim Umgang mit Freiern kontrollierter fühlt. Die Nähe zu John Klute (Donald Sutherland) macht sie emotional verletzlich.",
-      "anchor": "Berufliche Distanz bietet Bree eine Kontrolle, die Nähe gefährdet.",
       "interest": "Berufliche Distanz bietet Bree eine Kontrolle, die Nähe gefährdet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Berufliche Distanz bietet Bree eine Kontrolle, die Nähe gefährdet."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Jane McKenna und Arlyn Page (Dorothy Tristan) führen zu demselben gewalttätigen Freier.",
       "context": "Jane McKenna und Arlyn Page (Dorothy Tristan) führen zu demselben gewalttätigen Freier. Die scheinbaren Selbsttötungen erscheinen John Klute (Donald Sutherland) deshalb als zusammenhängende Morde.",
-      "anchor": "Der gemeinsame Kunde macht aus getrennten Todesfällen eine Mordserie.",
       "interest": "Der gemeinsame Kunde macht aus getrennten Todesfällen eine Mordserie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der gemeinsame Kunde macht aus getrennten Todesfällen eine Mordserie."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ein Vergleich der Schreibmaschinenschrift führt zu Peter Cable (Charles Cioffi).",
       "context": "Ein Vergleich der Schreibmaschinenschrift führt zu Peter Cable (Charles Cioffi). Ausgerechnet der Auftraggeber des Ermittlers hat die Spur gelegt, die den verschwundenen Kollegen belasten soll.",
-      "anchor": "Die Briefe führen zum Auftraggeber selbst.",
       "interest": "Die Briefe führen zum Auftraggeber selbst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Briefe führen zum Auftraggeber selbst."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Peter Cable (Charles Cioffi) spielt Bree (Jane Fonda) eine Aufnahme vor, die er bei Arlyn Pages Ermordung gemacht hat.",
       "context": "Peter Cable (Charles Cioffi) spielt Bree (Jane Fonda) eine Aufnahme vor, die er bei Arlyn Pages Ermordung gemacht hat. Sein Kontrollbedürfnis wird zur unmittelbaren Bedrohung, bevor Klute eingreift.",
-      "anchor": "Die Mordaufnahme setzt akustische Kontrolle in direkte Gewalt um.",
       "interest": "Die Mordaufnahme setzt akustische Kontrolle in direkte Gewalt um.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Mordaufnahme setzt akustische Kontrolle in direkte Gewalt um."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1971 erschien der Film.",
       "context": "1971 erschien der Film. Er bildet den Auftakt zu Pakulas Paranoia-Trilogie, auf die 1974 The Parallax View und 1976 Die Unbestechlichen folgten.",
-      "anchor": "Klute 1971, Parallax View 1974, Die Unbestechlichen 1976: Drei und anschließend zwei Jahre ordnen Pakulas Paranoiafilme.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Klute 1971, Parallax View 1974, Die Unbestechlichen 1976: Drei und anschließend zwei Jahre ordnen Pakulas Paranoiafilme."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Alan J.",
       "context": "Alan J. Pakula führte Regie. Gordon Willis setzt die Figuren in dunkle Räume; Brees Therapiesitzungen geben ihrer Selbstbeobachtung mehr Gewicht als einer bloßen Ermittlerperspektive.",
-      "anchor": "Alan J.",
       "interest": "Alan J.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Alan J."
     }
   ]
 }

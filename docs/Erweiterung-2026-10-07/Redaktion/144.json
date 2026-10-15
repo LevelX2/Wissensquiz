@@ -37,12 +37,12 @@
       ],
       "short": "Die Hauptfiguren arbeiten als Kopfgeldjäger.",
       "context": "Die Hauptfiguren arbeiten als Kopfgeldjäger. Ihre Aufträge führen sie in gefährliche Begegnungen, während persönliche Bindungen ihre Entscheidungen erschweren. Der Film verbindet die berufliche Jagd dadurch mit einem privaten Dreieck. Die Beteiligten können weder ihre Gefühle noch die Folgen vergangener Einsätze einfach vom nächsten Auftrag trennen.",
-      "anchor": "Die Kopfgeldjagd trägt den privaten Konflikt.",
       "interest": "Der Beruf eröffnet die Handlung.",
       "sources": [
         "archiv"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Kopfgeldjagd trägt den privaten Konflikt."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "May-kwan (Anita Mui) hat den Meister von Silver Fox (Aaron Kwok) geblendet.",
       "context": "May-kwan (Anita Mui) hat den Meister von Silver Fox (Aaron Kwok) geblendet. Seine Verfolgung ist daher persönlich motiviert. Ein früherer Kampf setzt eine neue Kette von Gewalt in Gang. Die Gegner begegnen sich nicht nur aufgrund konkurrierender Aufträge; die Vergeltung greift direkt in die Beziehungen des Hauptteams ein.",
-      "anchor": "Die Verletzung des Meisters löst die Rache aus.",
       "interest": "Vergeltung erklärt den zentralen Gegner.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Verletzung des Meisters löst die Rache aus."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "May-wai und May-kwan sind Zwillingsschwestern, beide gespielt von Anita Mui.",
       "context": "May-wai und May-kwan sind Zwillingsschwestern, beide gespielt von Anita Mui. Die Ähnlichkeit ermöglicht Verwechslung, ohne die Figuren tatsächlich gleichzusetzen. Sie haben unterschiedliche Absichten und Beziehungen. Für Ching (Andy Lau) wird die äußere Übereinstimmung deshalb zur Falle: Wiedererkennen garantiert noch nicht, dass er derselben Person gegenübersteht.",
-      "anchor": "Die Doppelrolle zeigt zwei Schwestern mit unterschiedlichen Absichten.",
       "interest": "Die Verwechslung beruht auf einer konkreten Familienbeziehung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Doppelrolle zeigt zwei Schwestern mit unterschiedlichen Absichten."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Ching (Andy Lau) bildet Wai-heung (Gloria Yip), die jüngere Schwester seines Partners, aus.",
       "context": "Ching (Andy Lau) bildet Wai-heung (Gloria Yip), die jüngere Schwester seines Partners, aus. Der neue Zusammenschluss wächst somit aus einer bestehenden Verbindung und einem Verlust. Die Ausbildung setzt die Arbeit des Teams fort, verändert aber seine Zusammensetzung. Sie ist zugleich eine praktische Aufgabe und eine Form persönlicher Verantwortung.",
-      "anchor": "Die Schwester des verlorenen Partners wird zur neuen Mitstreiterin.",
       "interest": "Ein Verlust verändert die Zusammensetzung des Teams.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Schwester des verlorenen Partners wird zur neuen Mitstreiterin."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "May-kwan (Anita Mui) versteckt sich in der Wohnung gegenüber von Ching (Andy Lau).",
       "context": "May-kwan (Anita Mui) versteckt sich in der Wohnung gegenüber von Ching (Andy Lau). Die räumliche Nähe steht im Gegensatz zu ihrem scheinbaren Verschwinden. Die Suche benötigt deshalb keine immer fernere Reise, sondern eine andere Wahrnehmung des unmittelbaren Umfelds. Nähe schützt sie allerdings nicht dauerhaft vor dem Verfolger.",
-      "anchor": "Die Gesuchte ist näher, als die Suche vermuten lässt.",
       "interest": "Der Versteckort verändert den Blick auf ihr Verschwinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Gesuchte ist näher, als die Suche vermuten lässt."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die Madam of Pets (Carina Lau) verfügt über das Gegenmittel.",
       "context": "Die Madam of Pets (Carina Lau) verfügt über das Gegenmittel. Ching (Andy Lau) muss daher Hilfe von einer Frau suchen, deren persönliche Erwartungen er zurückgewiesen hat. Der medizinische Ausweg führt den romantischen Konflikt zurück in die Rettungshandlung. Kampfkunst allein reicht nicht, um die Folgen des Angriffs aufzuheben.",
-      "anchor": "Das Gegenmittel liegt bei einer persönlich gekränkten Helferin.",
       "interest": "Die Rettung verlangt mehr als einen gewonnenen Kampf.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Gegenmittel liegt bei einer persönlich gekränkten Helferin."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Erste Veröffentlichung 1991; Fantasie-Actionfilm und erste Produktion von Andy Laus Teamwork Motion Pictures.",
       "context": "„Savior of the Soul“ erschien 1991. Im selben Jahr begann Andy Laus Produktionsfirma Teamwork Motion Pictures mit diesem Film ihre Arbeit. Das Jahr verbindet damit eine Hauptrolle und einen unternehmerischen Anfang. Die Mischung aus moderner Kopfgeldjagd, romantischem Konflikt und fantastischen Kampftechniken bot dem neuen Unternehmen ein eigenes Schauplatz- und Figurenensemble.",
-      "anchor": "1991: Andy Laus Film und der Auftakt seiner Firma Teamwork.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "archiv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1991: Andy Laus Film und der Auftakt seiner Firma Teamwork."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Der ausgewiesene Regiecredit nennt Corey Yuen und David Lai.",
       "context": "Der ausgewiesene Regiecredit nennt Corey Yuen und David Lai. Das Hong Kong Film Archive erläutert zusätzlich, dass Jeff Lau unter dem Namen seines langjährigen Mitarbeiters David Lai arbeitete. Jeff Lau und Wong Kar-wai schrieben das Drehbuch. Die Frage trennt daher den sichtbaren Credit von der erläuterten tatsächlichen Zusammenarbeit; sie zählt die beiden Namen nicht als drei unabhängig inszenierende Personen.",
-      "anchor": "Yuen und Lai stehen im Credit; das Archiv erläutert Jeff Laus Arbeit hinter Lais Namen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "archiv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Yuen und Lai stehen im Credit; das Archiv erläutert Jeff Laus Arbeit hinter Lais Namen."
     }
   ]
 }

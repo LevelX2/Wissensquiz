@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Lola arbeitet als Cabaret-Künstlerin.",
       "context": "In Nantes begegnen sich Menschen mit unterschiedlichen Liebeshoffnungen. Roland (Marc Michel) verliebt sich in Lola; sie wartet weiterhin auf einen früheren Geliebten und erwidert seine Gefühle nicht.",
-      "anchor": "Lolas Bühne liegt in Nantes.",
       "interest": "Die Rolle steht am Anfang von Demys miteinander verbundenen Figurenwelten.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27932-lola"
-      ]
+      ],
+      "objective": "Lolas Bühne liegt in Nantes."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Beide sind verwitwet und haben ein Kind.",
       "context": "Anne arbeitet beim Film, Jean-Louis (Jean-Louis Trintignant) fährt Rennen. Ihre neue Zuneigung begegnet den Erinnerungen an die verstorbenen Partner; eine Liebesgeschichte beginnt unter dem Einfluss früherer Bindungen.",
-      "anchor": "Neue Liebe nach einem Verlust.",
       "interest": "Die gemeinsame Erfahrung erklärt Nähe und Zurückhaltung der beiden Eltern.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/34966-a-man-and-a-woman"
-      ]
+      ],
+      "objective": "Neue Liebe nach einem Verlust."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Luisa ist Guidos Ehefrau.",
       "context": "Guido (Marcello Mastroianni) lädt sowohl Luisa als auch seine Geliebte Carla (Sandra Milo) an den Kurort ein. Seine berufliche Krise lässt sich deshalb nicht von den Menschen trennen, deren Erwartungen er auszuweichen versucht.",
-      "anchor": "Luisa kennt den Menschen hinter Guidos Künstlerkrise.",
       "interest": "Die Beziehung gibt den Fantasien des Regisseurs ein konkretes Gegenüber.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/8675-8-1-2-the-beautiful-confusion"
-      ]
+      ],
+      "objective": "Luisa kennt den Menschen hinter Guidos Künstlerkrise."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "In beiden Filmen spielt Aimée Lola.",
       "context": "Demy versetzt die Figur später nach Los Angeles. Aus der Cabaret-Künstlerin in Nantes wird eine Frau, die gegen Geld für Fotografen posiert und sich aus ihrer amerikanischen Lebenslage lösen möchte.",
-      "anchor": "Lola reist durch Demys Filme weiter.",
       "interest": "Eine wiederkehrende Figur verändert ihre Bedeutung mit Ort und Lebensumständen.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/exposition/le-monde-enchante-de-jacques-demy.html"
-      ]
+      ],
+      "objective": "Lola reist durch Demys Filme weiter."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 3,
       "short": "Sie wartet auf die Rückkehr des Vaters ihres Sohnes.",
       "context": "Roland ist ein Freund aus ihrer Kindheit. Die erneute Nähe zu ihm beseitigt ihre alte Hoffnung nicht: Gegenwärtige Begegnungen und ein abwesender Geliebter stehen nebeneinander.",
-      "anchor": "Lolas Hoffnung hält an einer Abwesenheit fest.",
       "interest": "Der Konflikt erklärt, weshalb eine mögliche neue Beziehung nicht genügt.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/exposition/le-monde-enchante-de-jacques-demy.html"
-      ]
+      ],
+      "objective": "Lolas Hoffnung hält an einer Abwesenheit fest."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 0,
       "short": "Marta und der Richter sind Geschwister.",
       "context": "Er fürchtet ihre psychische Erkrankung und will sie loswerden. Ein von ihm eingeschalteter Schauspieler bringt ihr jedoch Zuwendung; während Marta sich erholt, zerfällt die vermeintliche Sicherheit ihres Bruders.",
-      "anchor": "Martas Erholung erschüttert den Bruder.",
       "interest": "Bellocchio verschiebt die Frage nach Krankheit und Macht innerhalb einer Familie.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.festival-cannes.com/en/f/salto-nel-vuoto/"
-      ]
+      ],
+      "objective": "Martas Erholung erschüttert den Bruder."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 3,
       "short": "Sie spielte A. R. Gurneys „Love Letters“.",
       "context": "Von 1990 bis 2014 kehrte Aimée zu Aufführungen des Stücks zurück. Zu ihren Bühnenpartnern gehörten auch Alain Delon und Gérard Depardieu; ihr späteres Werk beschränkte sich daher keineswegs auf Filmrollen.",
-      "anchor": "Eine dauerhafte Bühnenrolle, mehrere Spielpartner.",
       "interest": "Die Theaterarbeit ergänzt das Bild der vor allem mit dem Kino verbundenen Schauspielerin.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "films": [],
       "extraSources": [
         "https://www.bfi.org.uk/news/anouk-aimee-obituary-french-new-wave-embodiment-sophisticated-romance"
-      ]
+      ],
+      "objective": "Eine dauerhafte Bühnenrolle, mehrere Spielpartner."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 2,
       "short": "Aimée betont unmittelbares Erleben und Überraschung.",
       "context": "Lelouch brachte sie an Orte des früheren Films zurück. Sie vertraute darauf, in der Situation zu reagieren; zu viel Analyse hätte nach ihrer Beschreibung die emotionale Unmittelbarkeit des Spiels geschwächt.",
-      "anchor": "Vertraute Orte ermöglichen neue Reaktionen.",
       "interest": "Ihr eigener Bericht macht eine konkrete Vorstellung von Schauspielarbeit verständlich.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       ],
       "extraSources": [
         "https://medias.unifrance.org/medias/46/35/205614/presse/les-plus-belles-annees-d-une-vie-dossier-de-presse-francais.pdf"
-      ]
+      ],
+      "objective": "Vertraute Orte ermöglichen neue Reaktionen."
     }
   ]
 }

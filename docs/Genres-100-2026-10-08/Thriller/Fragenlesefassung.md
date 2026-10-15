@@ -19,7 +19,6 @@ In welchem Land infiltriert Alicia (Ingrid Bergman) in „Berüchtigt“ die Gru
 
 Alicia Huberman (Ingrid Bergman) reist mit dem amerikanischen Agenten Devlin (Cary Grant) nach Rio de Janeiro. Dort soll sie Zugang zu einer Gruppe ehemaliger deutscher Nationalsozialisten erhalten. Alexander Sebastian (Claude Rains) kennt sie bereits über ihren Vater. Die Mission nutzt deshalb eine persönliche Verbindung, die später weit über eine unverbindliche Begegnung hinausreichen soll.
 
-Merksatz: Alicias verdeckter Auftrag führt nach Brasilien.
 
 - Argentinien: Argentinien ist nicht das Land dieser Operation.
 - Brasilien: Der Auftrag führt sie nach Rio de Janeiro in Brasilien.
@@ -41,7 +40,6 @@ Welche Rolle übernimmt Alicia (Ingrid Bergman) gegenüber Sebastian (Claude Rai
 
 Alicia (Ingrid Bergman) heiratet Alexander Sebastian (Claude Rains), obwohl sie Devlin (Cary Grant) liebt. Devlin widerspricht dem Auftrag nicht so, wie sie es sich erhofft. Die Beziehung zum Ziel ist damit zugleich ein Mittel der Spionage und eine schmerzhafte Entscheidung in der Liebesgeschichte. Ihre vermeintlich sichere Stellung im Haushalt wird später zur lebensgefährlichen Falle.
 
-Merksatz: Alicia heiratet das Ziel ihrer Spionagemission.
 
 - Sie wird seine Geliebte: Sie bleibt nicht nur seine Geliebte, sondern heiratet ihn.
 - Sie wird seine persönliche Sekretärin: Sie nimmt nicht die Stellung einer persönlichen Sekretärin ein.
@@ -63,7 +61,6 @@ Was entdecken Alicia und Devlin (Ingrid Bergman, Cary Grant) in „Berüchtigt�
 
 Während eines Empfangs gelangen Alicia und Devlin (Ingrid Bergman, Cary Grant) heimlich in den Weinkeller. Eine zerbrochene Flasche gibt schwarzen Sand frei, der mit Uran in Verbindung steht. Die Tarnung als gewöhnlicher Weinvorrat macht das Haus zum Lager einer gefährlichen Operation. Gleichzeitig hinterlassen die beiden Spuren: Die Suche bringt nicht nur Erkenntnis, sondern gefährdet auch Alicias Tarnung.
 
-Merksatz: Die Weinflasche verbirgt uranhaltigen Sand.
 
 - Diamanten in Watte: Diamanten sind nicht der Inhalt der Flasche.
 - Eine verschlüsselte Filmrolle: Eine Filmrolle verbirgt sich dort nicht.
@@ -85,7 +82,6 @@ Wie soll Alicia (Ingrid Bergman) in „Berüchtigt“ nach der Entdeckung ihrer 
 
 Sebastian (Claude Rains) erkennt, dass Alicia (Ingrid Bergman) eine Agentin ist. Seine Mutter (Leopoldine Konstantin) schlägt eine schleichende Vergiftung vor. Alicia verliert zunehmend ihre Kräfte und wird schließlich isoliert. Das Verbrechen findet damit mitten im scheinbar vertrauten Haushalt statt. Ihre Schwäche verhindert lange, dass sie die Gefahr nach außen mitteilen oder das Haus aus eigener Kraft verlassen kann.
 
-Merksatz: Alicia wird im eigenen Haushalt langsam vergiftet.
 
 - Durch langsames Vergiften: Die Vergiftung lässt ihren Zustand wie eine Erkrankung erscheinen.
 - Durch einen fingierten Reitunfall: Ein Reitunfall ist nicht der beschlossene Plan.
@@ -107,7 +103,6 @@ Warum meldet Sebastian (Claude Rains) Alicias Enttarnung in „Berüchtigt“ ni
 
 Sebastian (Claude Rains) kann seinen Fund nicht einfach als Erfolg präsentieren. Er hat eine amerikanische Agentin in sein Haus und in die Nähe der Verschwörer gebracht. Eine offene Anklage gegen Alicia (Ingrid Bergman) würde auch sein eigenes Versagen enthüllen. Die heimliche Vergiftung soll deshalb zwei Probleme zugleich lösen: die Agentin ausschalten und seine gefährdete Stellung innerhalb der Gruppe erhalten.
 
-Merksatz: Sebastian muss auch sein eigenes Versagen verbergen.
 
 - Er hält sie weiterhin für eine deutsche Doppelagentin: Er hat ihre amerikanische Tätigkeit erkannt.
 - Er fürchtet ihre Strafe für seine Ehe mit einer Agentin: Sein eigener Fehler würde ihn vor der Gruppe zum Verräter machen.
@@ -129,7 +124,6 @@ Wozu küsst Devlin (Cary Grant) Alicia (Ingrid Bergman) in „Berüchtigt“, al
 
 Devlin und Alicia (Cary Grant, Ingrid Bergman) müssen ihre Untersuchung verbergen, als Sebastian (Claude Rains) in Richtung Keller kommt. Devlin spielt den hartnäckigen, unerwünschten Verehrer. Ein Kuss lenkt den Verdacht auf Untreue statt auf Spionage. Die Täuschung funktioniert, weil sie zugleich an die wirkliche Anziehung der beiden anknüpft und Sebastians persönliche Eifersucht gegen ihn verwendet.
 
-Merksatz: Der Kuss tarnt Spionage als ein heimliches Liebestreffen.
 
 - Um Sebastian zum sofortigen Verlassen des Hauses zu bewegen: Sebastian soll nicht durch den Kuss aus dem Haus vertrieben werden.
 - Um Alicia das Ende des Auftrags zu signalisieren: Der Kuss beendet nicht Alicias Auftrag.
@@ -151,7 +145,6 @@ In welchem Jahr erschien „Berüchtigt“ mit Ingrid Bergman und Cary Grant ers
 
 Berüchtigt kam 1946 ins Kino. Bereits 1948, zwei Jahre später, spielte Ingrid Bergman Alicia erneut in einer Lux-Radio-Theatre-Bearbeitung. Ihr Partner war dort Joseph Cotten anstelle von Cary Grant. Dieser Wechsel verbindet das Filmjahr mit einer frühen Umsetzung desselben Stoffes für ein anderes Medium und macht zugleich deutlich, welche Hauptdarsteller zum ursprünglichen Kinofilm gehören.
 
-Merksatz: 1946 Kinofilm, 1948 Bergmans Radiobearbeitung: zwei Jahre Abstand.
 
 - 1941: 1941 liegt fünf Jahre vor dem Kinostart.
 - 1950: 1950 liegt vier Jahre nach dem Kinostart.
@@ -173,7 +166,6 @@ Wer führte bei „Berüchtigt“ mit Ingrid Bergman und Cary Grant Regie?
 
 Alfred Hitchcock inszenierte den Spionagethriller nach einem Drehbuch von Ben Hecht. Die Handlung verbindet den verdeckten Auftrag mit einer Dreiecksbeziehung zwischen Alicia, Devlin und Sebastian, gespielt von Ingrid Bergman, Cary Grant und Claude Rains. Gerade die persönlichen Bindungen liefern dabei Zugang, Tarnung und Gefahr. Das macht die Verantwortung für die Inszenierung unabhängig vom literarischen oder politischen Hintergrund des Stoffes merkbar.
 
-Merksatz: Alfred Hitchcock inszenierte Berüchtigt.
 
 - Alfred Hitchcock: Alfred Hitchcock ist im Regiecredit genannt.
 - Otto Preminger: Preminger führte bei diesem Film nicht Regie.
@@ -199,7 +191,6 @@ Für welche Sportart ist Guy Haines (Farley Granger) in „Der Fremde im Zug“ 
 
 Guy Haines (Farley Granger) ist ein Tennisspieler, den Bruno Antony (Robert Walker) bereits aus der Öffentlichkeit kennt. Diese Bekanntheit erleichtert Bruno die Kontaktaufnahme im Zug. Später erschwert ein Turnier Guys Versuch, rechtzeitig an einen anderen Ort zu gelangen. Der Sport bleibt damit Teil der Handlung und wird im letzten Abschnitt sogar mit der Verfolgung parallel geschnitten.
 
-Merksatz: Guy Haines ist Tennisspieler.
 
 - Boxen: Boxen ist nicht seine Sportart.
 - Golf: Er ist nicht als Golfspieler bekannt.
@@ -221,7 +212,6 @@ Welchen Plan schlägt Bruno (Robert Walker) Guy (Farley Granger) in „Der Fremd
 
 Bruno Antony (Robert Walker) will seinen Vater loswerden, Guy Haines (Farley Granger) leidet unter seiner Ehe mit Miriam (Kasey Rogers). Bruno schlägt vor, die jeweiligen Morde füreinander zu begehen. Ein Ermittler soll dann keinen persönlichen Beweggrund beim tatsächlichen Täter finden. Guy hält die Unterhaltung für eine bizarre Theorie; Bruno behandelt sie dagegen als verbindliche Abmachung.
 
-Merksatz: Bruno schlägt einen wechselseitigen Mordtausch vor.
 
 - Sie beschuldigen gemeinsam einen unbeteiligten Reisenden: Eine gemeinsame Beschuldigung ist nicht sein Vorschlag.
 - Sie lassen beide Opfer gleichzeitig ins Ausland verschwinden: Eine Auslandsentführung ersetzt die Morde nicht.
@@ -243,7 +233,6 @@ Warum hilft Guy (Farley Granger) sein Zugbegleiter in „Der Fremde im Zug“ zu
 
 Zur Zeit von Miriams (Kasey Rogers) Ermordung fährt Guy (Farley Granger) im Zug und begegnet einem Professor. Eigentlich könnte der Mitreisende seine Anwesenheit bestätigen. Der Mann war jedoch betrunken und erinnert sich später nicht an Guy. Die Handlung gibt dem Zuschauer damit Wissen, das die Ermittler nicht zuverlässig erhalten: Ein tatsächliches Alibi wird durch die Schwäche des Zeugen wirkungslos.
 
-Merksatz: Guys wirklicher Zugbegleiter erinnert sich wegen seiner Trunkenheit nicht.
 
 - Er war betrunken und erinnert sich nicht an ihn: Der Professor kann sich an die gemeinsame Fahrt nicht erinnern.
 - Er erinnert sich an einen anderen Reisetag: Eine Datumsverwechslung ist nicht das gezeigte Problem.
@@ -265,7 +254,6 @@ Welchen Gegenstand will Bruno (Robert Walker) in „Der Fremde im Zug“ am Tato
 
 Guy (Farley Granger) lässt im Zug ein Feuerzeug zurück, das Bruno (Robert Walker) an sich nimmt. Seine Gravur macht es zu einem erkennbar persönlichen Gegenstand. Bruno möchte es später dort hinterlassen, wo er Miriam (Kasey Rogers) getötet hat. Guy muss deshalb nicht nur seine Unschuld erklären, sondern eine künstlich erzeugte Verbindung zum Tatort rechtzeitig verhindern.
 
-Merksatz: Bruno will Guys persönliches Feuerzeug am Tatort hinterlassen.
 
 - Guys signierten Tennisschläger: Ein Tennisschläger wird nicht als Spur platziert.
 - Guys graviertes Feuerzeug: Das Feuerzeug verbindet den Tatort scheinbar mit Guy.
@@ -287,7 +275,6 @@ Was löst bei Bruno (Robert Walker) in „Der Fremde im Zug“ während der Stra
 
 Auf einer Gesellschaft demonstriert Bruno (Robert Walker) das Erwürgen und verliert dabei bedrohlich die Kontrolle. Barbara Morton (Patricia Hitchcock) erinnert ihn mit ihrer Brille an Miriam (Kasey Rogers), die er tatsächlich ermordet hat. Die scherzhafte Vorführung wird durch diese optische Verbindung zum Wiedererleben der Tat. Anne Morton (Ruth Roman) erkennt dadurch, dass die Situation weit ernster ist als ein geschmackloser Partywitz.
 
-Merksatz: Barbaras Brille ruft bei Bruno die Erinnerung an Miriam hervor.
 
 - Eine Drehorgelmelodie vom Vergnügungspark: Keine wiedergehörte Jahrmarktsmelodie löst diese Reaktion aus.
 - Ein Gespräch über den Bootsausflug am Mordabend: Ein Gespräch über den Bootsausflug ist nicht der Auslöser.
@@ -309,7 +296,6 @@ In welchem Bild zeigt „Der Fremde im Zug“ entscheidende Momente von Miriams 
 
 Miriams (Kasey Rogers) Brille fällt während des Angriffs zu Boden. Hitchcock lässt die Ermordung in ihren Gläsern erscheinen, statt nur unmittelbar auf die Körper zu blicken. Das scheinbar nebensächliche Objekt wird so zum Träger eines besonders einprägsamen Gewaltbildes. Die Brille kehrt später als optischer Auslöser wieder, wenn Barbara Morton (Patricia Hitchcock) Bruno Antony (Robert Walker) an das Opfer erinnert.
 
-Merksatz: Der Mord erscheint in der Spiegelung von Miriams Brille.
 
 - Als Schatten auf dem Zelt der Geisterbahn: Ein Geisterbahnzelt trägt dieses Bild nicht.
 - Als Spiegelung im Wasser unter dem Ruderboot: Eine Wasserspiegelung ist nicht die gewählte Einstellung.
@@ -331,7 +317,6 @@ In welchem Jahr erschien „Der Fremde im Zug“ mit Farley Granger und Robert W
 
 Patricia Highsmiths Roman Strangers on a Train erschien 1950; Hitchcocks Film folgte 1951, nur ein Jahr später. Die rasche Verfilmung macht die zeitliche Nähe zwischen literarischer Vorlage und Kinobearbeitung merkbar. Farley Granger spielt den Tennisspieler Guy Haines, Robert Walker den aufdringlichen Bruno Antony. Das Mordtauschmotiv verbindet die beiden Werke, ohne sie in allen Handlungsschritten gleichzusetzen.
 
-Merksatz: 1950 Highsmiths Roman, 1951 der Film: ein Jahr Abstand.
 
 - 1951: 1951 ist das Veröffentlichungsjahr.
 - 1945: 1945 liegt sechs Jahre davor.
@@ -353,7 +338,6 @@ Wer führte bei „Der Fremde im Zug“ mit Farley Granger und Robert Walker Reg
 
 Alfred Hitchcock verbindet in diesem Film die Begegnung zweier Fremder mit der Angst vor einem scheinbar perfekten Mordplan. Farley Granger und Robert Walker verkörpern zwei Männer, die dieselbe Unterhaltung völlig unterschiedlich verstehen. Die Inszenierung stellt Sport, Verfolgung und das wiederkehrende Feuerzeug nebeneinander. Patricia Highsmith lieferte die Romanvorlage; der filmische Regiecredit gehört Hitchcock.
 
-Merksatz: Alfred Hitchcock inszenierte den Mordtauschthriller.
 
 - Robert Siodmak: Siodmak ist nicht für diese Inszenierung genannt.
 - Alfred Hitchcock: Alfred Hitchcock ist der Regisseur.
@@ -379,7 +363,6 @@ Welche finanzielle Angst treibt Tony Wendices (Ray Milland) Plan in „Bei Anruf
 
 Tony Wendice (Ray Milland) kennt Margots (Grace Kelly) Beziehung zu Mark Halliday (Robert Cummings). Er erwartet, dass sie ihn verlassen könnte, und will vorher den Zugriff auf ihr Vermögen sichern. AFI beschreibt ausdrücklich seine Angst, dass Margot mit ihrem Geld fortgeht. Der Plan verbindet deshalb Eifersucht mit einer wirtschaftlichen Abhängigkeit, die hinter seiner höflichen Fassade verborgen bleibt.
 
-Merksatz: Tony will Margots Geld behalten, bevor sie ihn verlassen kann.
 
 - Für Marks Schulden haften zu müssen: Marks Schulden begründen seinen Plan nicht.
 - Nach einem Börsenverlust seine Firma zu verlieren: Ein eigener Unternehmensverlust ist nicht der Ausgangspunkt.
@@ -401,7 +384,6 @@ Womit wehrt Margot (Grace Kelly) in „Bei Anruf Mord“ den nächtlichen Angrei
 
 Als Swann (Anthony Dawson) Margot (Grace Kelly) angreift, greift sie nach einer Schere und verletzt ihn tödlich. Die unmittelbare Notwehr bringt Tonys (Ray Milland) sorgfältig vorbereiteten Mordplan durcheinander. Margot hat den Überfall überlebt, ist jedoch noch nicht gerettet: Ihr Mann verwandelt die entstandene Lage in einen neuen Plan, der sie selbst als Täterin erscheinen lassen soll.
 
-Merksatz: Margot verteidigt sich mit einer Schere.
 
 - Mit einer Schere: Sie erreicht eine Schere und sticht zu.
 - Mit einem Brieföffner: Ein Brieföffner ist nicht die Tatwaffe.
@@ -423,7 +405,6 @@ Welche Funktion hat Tonys (Ray Milland) verabredeter Telefonanruf in „Bei Anru
 
 Tony (Ray Milland) legt nicht nur fest, wann Swann (Anthony Dawson) in die Wohnung kommen soll. Auch Margots (Grace Kelly) Bewegung im Raum wird eingeplant: Das klingelnde Telefon soll sie aus dem Bett holen und in Reichweite des verborgenen Angreifers bringen. Tony selbst ist dabei außer Haus. Sein Anruf verbindet das scheinbare Alibi mit der Steuerung des Verbrechens.
 
-Merksatz: Der Anruf führt Margot in die vorbereitete Angriffssituation.
 
 - Den Hausmeister aus dem Treppenhaus entfernen: Der Anruf dient nicht der Ablenkung des Hausmeisters.
 - Margot aus dem Bett in die Nähe des Angreifers locken: Margot soll zum Telefon kommen und dort angegriffen werden.
@@ -445,7 +426,6 @@ Welche neue Deutung stützt Tony (Ray Milland) in „Bei Anruf Mord“ durch Mar
 
 Tony (Ray Milland) findet nach Swanns (Anthony Dawson) Tod eine Möglichkeit, Margots (Grace Kelly) Notwehr gegen sie zu wenden. Er platziert den entwendeten Liebesbrief von Mark Halliday (Robert Cummings) beim Toten. Damit soll es aussehen, als habe Swann Margot erpresst und sie ihn deshalb getötet. Das Beweisstück ist echt, aber seine neue Zuordnung erzeugt eine falsche Geschichte.
 
-Merksatz: Der Liebesbrief soll einen Mord an einem Erpresser vortäuschen.
 
 - Margot habe einen Liebhaber aus Eifersucht getötet: Die Behauptung eines getöteten Liebhabers ist nicht Tonys neue Version.
 - Mark habe einen Einbrecher in Tonys Auftrag getötet: Mark wird nicht als Täter am Tatort hingestellt.
@@ -467,7 +447,6 @@ Warum öffnet der bei Swann (Anthony Dawson) gefundene Schlüssel in „Bei Anru
 
 Swann (Anthony Dawson) legt den versteckten Wohnungsschlüssel gleich nach dem Eintritt zurück. Tony (Ray Milland) weiß das nicht und hält den Schlüssel beim Toten für diesen Zugangsschlüssel. Tatsächlich gehört er Swann selbst. Der kleine Irrtum über die Reihenfolge der Handgriffe überlebt Tonys neue Tatgeschichte und liefert Inspektor Hubbard (John Williams) später einen Ansatz, die Täuschung aufzubrechen.
 
-Merksatz: Swann hat den echten Wohnungsschlüssel schon vor dem Angriff zurückgelegt.
 
 - Tony hatte vor dem Angriff das Schloss austauschen lassen: Ein vorheriger Schlosswechsel erklärt den Fehler nicht.
 - Margot hatte den Schlüssel beim Kampf verbogen: Eine Verformung im Kampf ist nicht die Ursache.
@@ -489,7 +468,6 @@ Welche Besonderheit hatte die ursprüngliche Aufnahme und frühe Vorführung von
 
 Der Film wurde stereoskopisch aufgenommen. Die Weltpremiere in Philadelphia lief in 3-D, doch das dortige Kino wechselte bereits am folgenden Tag zur flachen Vorführung. Auch die New Yorker Premiere wurde in 2-D gezeigt. Die ursprüngliche Aufnahmetechnik und die verbreitete Kinoerfahrung fallen damit auseinander. Das erklärt, warum der Film trotz seiner gezielten räumlichen Effekte oft als gewöhnlicher Farbfilm erinnert wird.
 
-Merksatz: Der Film wurde in 3-D gedreht und früh auch in 2-D vorgeführt.
 
 - In 3-D gedreht, früh auch in 2-D gezeigt: Die stereoskopische Aufnahme wurde früh auch flach vorgeführt.
 - In 2-D gedreht, zur Premiere nachträglich in 3-D umgewandelt: Das 3-D-Bild wurde bei der Aufnahme erzeugt, nicht nachträglich umgerechnet.
@@ -511,7 +489,6 @@ In welchem Jahr erschien „Bei Anruf Mord“ mit Grace Kelly und Ray Milland er
 
 Frederick Knotts Bühnenstück kam 1952 in London heraus; Hitchcocks Kinofilm folgte 1954, zwei Jahre später. Knott schrieb auch das Drehbuch. John Williams als Inspektor Hubbard und Anthony Dawson als Swann übernahmen ihre Rollen aus der Broadway-Produktion. Der kurze Abstand zwischen Theater und Kino erklärt die konzentrierte Anlage des Stoffes, dessen entscheidende Ereignisse weitgehend in einer Wohnung zusammenlaufen.
 
-Merksatz: 1952 das Bühnenstück, 1954 der Film: zwei Jahre Abstand.
 
 - 1948: 1948 liegt sechs Jahre davor.
 - 1954: 1954 ist das Jahr der Weltpremiere.
@@ -533,7 +510,6 @@ Wer führte bei „Bei Anruf Mord“ mit Grace Kelly und Ray Milland Regie?
 
 Alfred Hitchcock inszenierte Frederick Knotts Stoff mit Grace Kelly und Ray Milland als Ehepaar Wendice. Der Film bleibt eng an den begrenzten Räumen und den präzisen Handgriffen des Mordplans. Ein Telefon, ein Brief und verschiedene Schlüssel erhalten dadurch große Bedeutung. Die Regie organisiert, wann Zuschauer und Figuren dieselben Gegenstände sehen und welche Schlüsse sie jeweils daraus ziehen können.
 
-Merksatz: Alfred Hitchcock inszenierte Bei Anruf Mord.
 
 - Henri-Georges Clouzot: Clouzot inszenierte diese Knott-Verfilmung nicht.
 - Otto Preminger: Preminger ist nicht im Regiecredit genannt.
@@ -559,7 +535,6 @@ Weshalb wird Richard Hannay (Robert Donat) in „Die 39 Stufen“ von der Polize
 
 Richard Hannay (Robert Donat) nimmt Annabella Smith (Lucie Mannheim) nach einer Begegnung im Varieté mit nach Hause. Sie berichtet von einer Spionagegefahr und wird in seiner Wohnung getötet. Hannay muss fliehen, obwohl er den Mord nicht begangen hat. Seine Suche nach der Wahrheit läuft deshalb parallel zur Verfolgung durch die Polizei, die ihn für den Täter hält.
 
-Merksatz: Annabellas Ermordung in seiner Wohnung macht Hannay zum Verdächtigen.
 
 - Eine Frau wurde in seiner Wohnung ermordet: Annabellas Tod macht den unschuldigen Hannay verdächtig.
 - Er hat eine Bank mit einer Attrappe überfallen: Ein Banküberfall löst die Suche nicht aus.
@@ -581,7 +556,6 @@ Wohin führt Hannay (Robert Donat) in „Die 39 Stufen“ die auf einer Karte ma
 
 Hannay (Robert Donat) folgt den Hinweisen der ermordeten Annabella Smith (Lucie Mannheim) nach Schottland. Die Flucht wechselt dadurch vom Londoner Innenraum zu Zügen, Brücken, Straßen und abgelegenen Häusern. Er sucht Schutz und eine Erklärung für das Verbrechen. Der Ortswechsel bringt ihn jedoch auch näher an Menschen, die selbst an der Spionage beteiligt sind und seine Lage ausnutzen.
 
-Merksatz: Die markierte Spur führt Hannay nach Schottland.
 
 - Nach Wales: Wales ist nicht das Ziel der markierten Spur.
 - Nach Schottland: Die Spur führt zu einem Haus in Schottland.
@@ -603,7 +577,6 @@ Warum müssen Hannay und Pamela (Robert Donat, Madeleine Carroll) in „Die 39 S
 
 Pamela (Madeleine Carroll) hält Hannay (Robert Donat) zunächst für den gesuchten Mörder. Männer, die als Polizisten auftreten, nehmen beide mit und fesseln sie aneinander. Die gemeinsame Flucht erzwingt Nähe zwischen Menschen, die einander misstrauen. Aus der körperlichen Bindung entsteht erst nach und nach eine Zusammenarbeit; Pamela muss dabei ihre bisherige Deutung von Hannays Schuld überprüfen.
 
-Merksatz: Falsche Polizisten fesseln Hannay und Pamela aneinander.
 
 - Pamela gibt sich zu ihrem Schutz als Hannays Ehefrau aus: Eine freiwillige Tarnung als Ehepaar erzwingt die gemeinsame Flucht nicht.
 - Hannay zwingt Pamela als Geisel zur Begleitung: Hannay nimmt Pamela nicht als Geisel mit.
@@ -625,7 +598,6 @@ Was bewahrt Hannay (Robert Donat) in „Die 39 Stufen“ vor dem tödlichen Schu
 
 Hannay (Robert Donat) erreicht den vermeintlich sicheren Professor Jordan (Godfrey Tearle), der sich als gefährlicher Gegner entpuppt und auf ihn schießt. Im geliehenen Mantel steckt jedoch ein Gesangbuch, das die Kugel aufhält. Der Schutz stammt aus seiner vorherigen Fluchtstation und ist kein geplanter Trick. Ein gewöhnlicher Gegenstand verbindet so zwei zunächst getrennt wirkende Begegnungen der Reise.
 
-Merksatz: Das Gesangbuch im geliehenen Mantel hält die Kugel auf.
 
 - Eine Brieftasche mit Münzen: Eine Münzbrieftasche ist nicht der Schutz.
 - Ein verstecktes Metallstück im Hemd: Hannay trägt keine vorbereitete Metallplatte.
@@ -647,7 +619,6 @@ Wie soll das militärische Geheimnis in „Die 39 Stufen“ aus dem Land geschaf
 
 Im Finale begreift Hannay (Robert Donat), dass nicht allein nach einem versteckten Schriftstück gesucht werden muss. Mr. Memory (Wylie Watson) hat die technischen Angaben zu einem geräuscharmen Flugzeugmotor im Gedächtnis. Die Varieténummer aus dem Auftakt erhält damit eine zweite Bedeutung. Der Künstler kann auf eine direkte Frage kaum schweigen und macht dadurch die Verbindung zwischen Unterhaltung und Spionage sichtbar.
 
-Merksatz: Mr. Memory transportiert das Geheimnis in seinem Gedächtnis.
 
 - Mr. Memory hat die Konstruktionsdaten auswendig gelernt: Das Gedächtnis des Varietékünstlers dient als Transportmittel.
 - Pamela trägt einen Mikrofilm im Handschuh: Ein Mikrofilm in Pamelas Handschuh ist nicht der Plan.
@@ -669,7 +640,6 @@ Was überzeugt Pamela (Madeleine Carroll) in „Die 39 Stufen“ schließlich vo
 
 Pamela (Madeleine Carroll) kann sich im Gasthaus aus den Handschellen befreien. Doch statt nur zu verschwinden, hört sie die vermeintlichen Polizisten bei einem Telefonat. Daraus erkennt sie, dass Hannays (Robert Donat) Geschichte zutrifft und die Verfolger zu einer anderen Seite gehören. Ihr Sinneswandel beruht damit auf einer eigenen Wahrnehmung, nicht allein auf Hannays Überredung oder auf ihrer erzwungenen Nähe.
 
-Merksatz: Das belauschte Telefonat verändert Pamelas Urteil über Hannay.
 
 - Sie liest einen Freispruch in der Morgenzeitung: Ein veröffentlichter Freispruch überzeugt sie nicht.
 - Sie belauscht die angeblichen Polizisten bei einem Telefonat: Das belauschte Gespräch bestätigt die Täuschung der Verfolger.
@@ -691,7 +661,6 @@ In welchem Jahr erschien „Die 39 Stufen“ mit Robert Donat und Madeleine Carr
 
 John Buchans Roman The Thirty-Nine Steps erschien 1915. Hitchcocks Kinobearbeitung mit Robert Donat folgte 1935, zwanzig Jahre später. Der zeitliche Abstand verbindet einen literarischen Spionagestoff aus der Zeit des Ersten Weltkriegs mit einem britischen Thriller der 1930er-Jahre. Der Film übernimmt Richard Hannay als Helden, entwickelt seine Begegnungen und den Weg durch die Verfolgung jedoch für das Kino neu.
 
-Merksatz: 1915 Buchans Roman, 1935 der Film: zwanzig Jahre Abstand.
 
 - 1929: 1929 liegt sechs Jahre davor.
 - 1941: 1941 liegt sechs Jahre danach.
@@ -713,7 +682,6 @@ Wer führte bei „Die 39 Stufen“ mit Robert Donat Regie?
 
 Alfred Hitchcock inszenierte diese britische Bearbeitung von John Buchans Roman mit Robert Donat als Richard Hannay. Madeleine Carroll spielt Pamela, die dem Verfolgten zunächst misstraut und später mit ihm zusammenarbeitet. Die Regie verknüpft falsche Identitäten, Flucht und komische Reibung zwischen den Figuren. Der Film gehört damit zu Hitchcocks britischer Schaffensphase vor seinem späteren Wechsel nach Hollywood.
 
-Merksatz: Alfred Hitchcock inszenierte diese britische Buchan-Verfilmung.
 
 - Carol Reed: Reed führte bei dieser Fassung nicht Regie.
 - Michael Powell: Powell ist nicht der Regisseur dieser Verfilmung.
@@ -739,7 +707,6 @@ Wo verschwindet Miss Froy (Dame May Whitty) in „Eine Dame verschwindet“ aus 
 
 Iris Henderson (Margaret Lockwood) begegnet Miss Froy (Dame May Whitty) auf einer Reise durch Europa. Nach dem gemeinsamen Tee schläft Iris im Zug ein. Als sie aufwacht, ist die ältere Frau verschwunden, und andere Fahrgäste bestreiten ihre Anwesenheit. Der bewegliche, begrenzte Raum macht die Suche dringlich: Die Reise geht weiter, während Iris zugleich ihrer eigenen Erinnerung misstrauen soll.
 
-Merksatz: Miss Froy verschwindet während der Zugfahrt.
 
 - Auf einer Fähre über den Ärmelkanal: Eine Kanalfähre ist nicht der zentrale Schauplatz.
 - In einem fahrenden Zug: Iris bemerkt ihr Verschwinden während der Zugfahrt.
@@ -761,7 +728,6 @@ Welche tatsächliche Aufgabe hat Miss Froy (Dame May Whitty) in „Eine Dame ver
 
 Miss Froy (Dame May Whitty) stellt sich zunächst als Gouvernante und Musiklehrerin vor. Im letzten Teil der Fahrt erklärt sie Iris und Gilbert (Margaret Lockwood, Michael Redgrave), dass sie für den britischen Dienst arbeitet. Das verschwundene Reisebekanntschaftsverhältnis wird dadurch Teil einer internationalen Operation. Ihre unauffällige Erscheinung ist gerade der Schutz, der den Transport der wichtigen Nachricht ermöglichen soll.
 
-Merksatz: Miss Froy ist eine britische Spionin.
 
 - Sie ermittelt als französische Kriminalbeamtin: Eine französische Polizeifunktion ist nicht ihre Identität.
 - Sie begleitet als Ärztin einen Diplomaten: Sie ist keine behandelnde Ärztin eines Diplomaten.
@@ -783,7 +749,6 @@ Warum bestreiten Charters und Caldicott (Basil Radford, Naunton Wayne) in „Ein
 
 Charters und Caldicott (Basil Radford, Naunton Wayne) möchten rechtzeitig zu einem Cricketspiel gelangen. Sie bestreiten deshalb Miss Froys (Dame May Whitty) Anwesenheit, damit die Suche die Fahrt nicht aufhält. Nicht jede falsche Zeugenaussage entsteht hier aus Beteiligung an der Verschwörung. Der Film nutzt die privaten Interessen der Reisenden, um Iris’ (Margaret Lockwood) wahre Erinnerung zusätzlich unglaubwürdig erscheinen zu lassen.
 
-Merksatz: Charters und Caldicott wollen wegen Cricket keine Verzögerung.
 
 - Sie wollen eine frühere Beziehung zu ihr verbergen: Eine frühere Liebesbeziehung ist nicht ihr Motiv.
 - Sie wurden vom Arzt mit einem Medikament beeinflusst: Eine medikamentöse Beeinflussung erklärt ihre Aussage nicht.
@@ -805,7 +770,6 @@ Wie wird Miss Froy (Dame May Whitty) in „Eine Dame verschwindet“ während de
 
 Dr. Hartz (Paul Lukas) führt eine scheinbar schwer kranke, stark bandagierte Patientin mit sich. Unter den Verbänden befindet sich Miss Froy (Dame May Whitty). Die medizinische Erklärung schützt das Versteck davor, ohne weiteres überprüft zu werden. Erst die Zweifel von Iris und Gilbert (Margaret Lockwood, Michael Redgrave) lösen diese falsche Deutung auf und öffnen den Weg zur Befreiung.
 
-Merksatz: Miss Froy wird als bandagierte Patientin transportiert.
 
 - Als Patientin unter umfangreichen Kopfverbänden: Die angebliche Patientin ist die verschwundene Frau.
 - Als verkleidete Zugbegleiterin im Speisewagen: Eine Uniform als Zugbegleiterin ist nicht ihre Tarnung.
@@ -827,7 +791,6 @@ In welcher Form soll Miss Froys (Dame May Whitty) Nachricht in „Eine Dame vers
 
 Miss Froy (Dame May Whitty) übergibt Iris und Gilbert (Margaret Lockwood, Michael Redgrave) eine Melodie, bevor sie selbst zu fliehen versucht. Gilbert soll sie dem Außenministerium überbringen. Im Wartezimmer fällt ihm die Weise jedoch nicht mehr ein. Erst ein Klavier hinter der Tür lässt sie wieder hörbar werden: Miss Froy ist angekommen und spielt die entscheidende Folge selbst.
 
-Merksatz: Die geheime Nachricht steckt in einer Melodie.
 
 - Als Stickmuster auf ihrem Taschentuch: Ein Stickmuster enthält die Nachricht nicht.
 - Als im Gedächtnis bewahrte Melodie: Die entscheidende Nachricht ist in einer Melodie codiert.
@@ -849,7 +812,6 @@ Welcher Hinweis überzeugt Gilbert (Michael Redgrave) in „Eine Dame verschwind
 
 Gilbert (Michael Redgrave) hält Iris’ (Margaret Lockwood) Erinnerung zunächst für eine Folge ihrer Kopfverletzung. Als die Verpackung der besonderen Teemarke kurz am Zugfenster haftet, erkennt er ein Detail wieder, das Iris ihm genannt hat. Ein weggeworfener Alltagsgegenstand wird so zum unabhängigen Beleg für die Existenz der verschwundenen Frau. Die Suche bekommt damit eine zweite Person, die Iris tatsächlich glaubt.
 
-Merksatz: Die Teeverpackung bestätigt Iris’ Erinnerung für Gilbert.
 
 - Eine handschriftliche Nachricht auf der Speisekarte: Eine handschriftliche Nachricht überzeugt Gilbert nicht.
 - Ihr Name auf der Passagierliste des Schaffners: Eine Passagierliste liefert nicht den entscheidenden Hinweis.
@@ -871,7 +833,6 @@ In welchem Jahr erschien „Eine Dame verschwindet“ mit Margaret Lockwood und 
 
 Eine Dame verschwindet erschien 1938. Charters und Caldicott, gespielt von Basil Radford und Naunton Wayne, kehrten 1940 in Night Train to Munich zurück, zwei Jahre später. Criterion bestätigt beide Filmjahre und die erneut auftretenden Figuren. Ihr filmisches Nachleben verbindet den Zugthriller mit einem weiteren Spionagefilm, ohne daraus eine Fortsetzung derselben Hauptgeschichte von Iris Henderson (Margaret Lockwood) zu machen.
 
-Merksatz: 1938 Eine Dame verschwindet, 1940 Night Train to Munich: zwei Jahre.
 
 - 1932: 1932 liegt sechs Jahre davor.
 - 1943: 1943 liegt fünf Jahre danach.
@@ -893,7 +854,6 @@ Wer führte bei „Eine Dame verschwindet“ mit Margaret Lockwood und Michael R
 
 Alfred Hitchcock inszenierte den britischen Zugthriller. Sidney Gilliat und Frank Launder schrieben das Drehbuch nach Ethel Lina Whites Roman The Wheel Spins. Margaret Lockwood und Michael Redgrave spielen das Paar, das aus gegenseitiger Gereiztheit zu gemeinsamer Ermittlungsarbeit findet. Die Regie verbindet dieses Spiel mit einem Ensemble von Reisenden, deren private Interessen die Suche zunächst behindern und später eine gemeinsame Bedrohung verdeutlichen.
 
-Merksatz: Alfred Hitchcock führte bei Eine Dame verschwindet Regie.
 
 - Alfred Hitchcock: Alfred Hitchcock ist der Regisseur.
 - Carol Reed: Reed ist nicht für diese Inszenierung genannt.
@@ -919,7 +879,6 @@ Worin besteht Harry Cauls (Gene Hackman) Beruf in „Der Dialog“?
 
 Harry Caul (Gene Hackman) arbeitet als Spezialist für verdeckte Tonaufnahmen. Für einen Auftrag erfasst er das Gespräch eines Paars auf einem belebten Platz und bearbeitet anschließend das Material. Er versucht, seine Aufgabe zunächst als technische Dienstleistung zu betrachten. Die mögliche Bedeutung der Worte zwingt ihn jedoch, Verantwortung für Folgen zu bedenken, die über eine saubere Aufnahme hinausgehen.
 
-Merksatz: Harry Caul verdient sein Geld mit heimlichen Tonaufnahmen.
 
 - Er restauriert historische Filmaufnahmen: Filmrestaurierung ist nicht sein Beruf.
 - Er erstellt musikalische Studioarrangements: Studioarrangements sind nicht sein Geschäftsmodell.
@@ -941,7 +900,6 @@ Welches Instrument spielt Harry Caul (Gene Hackman) in „Der Dialog“ in seine
 
 Harry Caul (Gene Hackman) spielt in seiner Wohnung Saxofon. Die Musik gehört zu den wenigen Momenten, in denen seine streng geschützte private Welt sichtbar wird. Sie kehrt am Ende wieder, nachdem seine vermeintliche Sicherheit zerstört ist. Das Instrument verbindet deshalb nicht nur zwei Szenen; es zeigt auch einen Ausdruck des sonst zurückhaltenden Mannes jenseits seiner beruflichen Tonkontrolle.
 
-Merksatz: Harry Caul spielt privat Saxofon.
 
 - Klarinette: Eine Klarinette ist nicht sein Instrument.
 - Trompete: Er spielt nicht Trompete.
@@ -963,7 +921,6 @@ Was lässt Harry (Gene Hackman) in „Der Dialog“ an den möglichen Folgen des
 
 Harry Caul (Gene Hackman) trägt die Erinnerung an einen früheren Auftrag mit sich, dessen Folgen drei Menschen das Leben kosteten. Er versucht dennoch, den Inhalt von Gesprächen von seiner technischen Arbeit zu trennen. Beim neuen Auftrag gelingt ihm diese Abgrenzung immer weniger. Die vermutete Gefahr für das belauschte Paar macht aus einer professionellen Routine eine Frage persönlicher Verantwortung und möglicher Wiederholung.
 
-Merksatz: Drei Tote eines früheren Auftrags belasten Harrys Gewissen.
 
 - Bei einem früheren Auftrag kamen drei Menschen ums Leben: Die Erinnerung an drei Tote belastet sein technisches Selbstverständnis.
 - Die Zielpersonen hatten ihn persönlich um Schutz gebeten: Eine persönliche Schutzbitte begründet seine Gewissensnot nicht.
@@ -985,7 +942,6 @@ Wie geraten Harrys (Gene Hackman) Tonbänder in „Der Dialog“ vorzeitig aus s
 
 Harry Caul (Gene Hackman) lässt nach einem geselligen Abend Meredith (Elizabeth MacRae) bei sich übernachten. Am Morgen sind die Tonbänder verschwunden. Gerade seine private Annäherung ermöglicht den Verlust der beruflich streng verwahrten Aufnahme. Der Mann, der andere Menschen aus der Distanz beobachtet, wird damit selbst über Nähe und Vertrauen ausmanövriert und verliert Einfluss darauf, wann sein Auftraggeber das Material erhält.
 
-Merksatz: Merediths Besuch führt zum Diebstahl der Tonbänder.
 
 - Stan verkauft sie während der Überwachungsmesse: Stan verkauft sie nicht auf der Messe.
 - Meredith entwendet sie nach der gemeinsamen Nacht: Merediths Besuch endet mit dem Verschwinden der Bänder.
@@ -1007,7 +963,6 @@ Wen hat Harry (Gene Hackman) in „Der Dialog“ bei seiner Deutung der Todesgef
 
 Harry Caul (Gene Hackman) glaubt, das aufgenommene Paar müsse vor dem Direktor (Robert Duvall) geschützt werden. Später erkennt er, dass Ann und Mark (Cindy Williams, Frederic Forrest) selbst an dessen Tod beteiligt sind. Martin Stett (Harrison Ford) ist der Assistent des Direktors. Harrys technische Fähigkeit, ein Gespräch hörbar zu machen, hat ihm keine sichere Kenntnis der Absichten verschafft.
 
-Merksatz: Harry verwechselt das bedrohte Paar mit den tatsächlichen Bedrohern.
 
 - Ann statt ihres Liebhabers Mark: Harrys Irrtum betrifft das Paar gemeinsam, nicht einen Wechsel zwischen Ann und Mark.
 - Martin Stett statt seines Vorgesetzten: Stett ist nicht das von Harry erwartete Opfer.
@@ -1029,7 +984,6 @@ Wie endet Harrys (Gene Hackman) Suche nach einem Abhörgerät in seiner Wohnung 
 
 Martin Stett (Harrison Ford) warnt Harry Caul (Gene Hackman) und spielt ihm eine Aufnahme seines eigenen Saxofonspiels vor. Harry zerlegt daraufhin seine Wohnung, um das verborgene Gerät zu finden. Die Suche bleibt ohne Erfolg. Am Ende spielt er zwischen den zerstörten Räumen weiter: Der Überwachungsexperte weiß nun, dass er belauscht wird, kann die Kontrolle über seine Privatsphäre aber nicht zurückgewinnen.
 
-Merksatz: Harry findet das Abhörgerät auch nach der Verwüstung nicht.
 
 - Er entdeckt den Sender hinter einer Steckdose: Ein bestätigter Fund hinter der Steckdose wird nicht gezeigt.
 - Er findet den Sender in seinem Saxofonmundstück: Der Film bestätigt keinen Sender im Mundstück.
@@ -1051,7 +1005,6 @@ In welchem Jahr erschien „Der Dialog“ mit Gene Hackman erstmals?
 
 Francis Ford Coppola begann das Drehbuch 1966; der Film kam 1974 heraus, acht Jahre später. Die Idee entstand somit deutlich vor dem Höhepunkt der Watergate-Affäre, mit der das Publikum den Überwachungsthriller häufig verband. Der zeitliche Abstand hilft, die Filmproduktion als länger vorbereiteten persönlichen Stoff einzuordnen. Gene Hackmans Harry Caul verkörpert darin technische Kontrolle, die an moralischer und menschlicher Unsicherheit scheitert.
 
-Merksatz: 1966 begann das Drehbuch, 1974 erschien der Film: acht Jahre Abstand.
 
 - 1974: 1974 ist das Erstveröffentlichungsjahr.
 - 1968: 1968 liegt sechs Jahre davor.
@@ -1073,7 +1026,6 @@ Wer führte bei „Der Dialog“ mit Gene Hackman Regie?
 
 Francis Ford Coppola schrieb und inszenierte den Film um Harry Caul, gespielt von Gene Hackman. Der Schauplatz der Gefahr ist nicht nur die sichtbare Umgebung, sondern auch das wiederholt angehörte Material. Stimmen, Pausen und die mögliche Betonung von Worten verändern Harrys Verständnis der Situation. Die filmische Arbeit macht so aus einer technischen Aufnahme eine unsichere Geschichte, deren Deutung selbst zum Problem wird.
 
-Merksatz: Francis Ford Coppola schrieb und inszenierte Der Dialog.
 
 - Alan J. Pakula: Pakula führte bei diesem Überwachungsthriller nicht Regie.
 - Francis Ford Coppola: Francis Ford Coppola ist der Regisseur.
@@ -1099,7 +1051,6 @@ Welche Einrichtung leitet Michel Delassalle (Paul Meurisse) in „Die Teuflische
 
 Michel Delassalle (Paul Meurisse) führt ein Jungeninternat, dessen Finanzierung auf seiner Frau Christina (Véra Clouzot) beruht. Er behandelt Schüler und Erwachsene mit Härte und Geiz. Das alltägliche Zusammenleben in dieser Einrichtung bildet den Hintergrund des Verbrechens. Räume wie das Schwimmbecken gehören zuerst zur gewohnten Umgebung und erhalten später eine ganz andere, bedrohliche Bedeutung.
 
-Merksatz: Michel Delassalle leitet ein Jungeninternat.
 
 - Eine psychiatrische Klinik: Eine psychiatrische Klinik ist nicht die Einrichtung.
 - Ein Ferienhotel: Er ist kein Hotelbetreiber.
@@ -1121,7 +1072,6 @@ Welche Verbindung haben die beiden Frauen, die in „Die Teuflischen“ zunächs
 
 Christina Delassalle (Véra Clouzot) ist mit Michel (Paul Meurisse) verheiratet; Nicole Horner (Simone Signoret) ist seine Geliebte und unterrichtet an derselben Schule. Beide erscheinen zunächst als Opfer seiner Gewalt. Aus dieser geteilten Erfahrung entsteht ein ungewöhnliches Bündnis. Der Film macht damit Menschen zu Partnerinnen, deren Beziehung unter anderen Umständen eher durch Konkurrenz um denselben Mann bestimmt wäre.
 
-Merksatz: Christina ist Michels Ehefrau, Nicole seine Geliebte.
 
 - Sie sind seine Ehefrau und seine Geliebte: Christina ist seine Ehefrau, Nicole seine Geliebte.
 - Sie sind seine Schwester und seine Ehefrau: Nicole ist nicht Michels Schwester.
@@ -1143,7 +1093,6 @@ Was entdeckt Christina (Véra Clouzot) in „Die Teuflischen“ nach dem Ablasse
 
 Christina und Nicole (Véra Clouzot, Simone Signoret) werfen den vermeintlich toten Michel (Paul Meurisse) ins Schwimmbecken der Schule. Sein Tod soll als Unglück erscheinen. Als das Wasser abgelassen wird, fehlt der Körper jedoch. Für Christina erzeugt die erwartete Entdeckung neue Angst statt Gewissheit. Ihr fehlt nun gerade das sichtbare Zeichen, dass die vermeintliche Tötung tatsächlich geschehen ist.
 
-Merksatz: Nach dem Ablassen ist Michels vermeintliche Leiche verschwunden.
 
 - Die Leiche trägt einen fremden Anzug: Ein fremder Anzug ist nicht die entscheidende Entdeckung.
 - Die hineingeworfene Leiche fehlt: Der Körper ist aus dem Becken verschwunden.
@@ -1165,7 +1114,6 @@ Welche gesundheitliche Schwäche macht Christina (Véra Clouzot) in „Die Teufl
 
 Christina Delassalle (Véra Clouzot) leidet unter einer Herzerkrankung. Die zunehmende Angst ist deshalb nicht nur eine seelische Belastung, sondern kann unmittelbar tödlich werden. Michel (Paul Meurisse) und Nicole (Simone Signoret) nutzen später genau diese Verletzlichkeit. Der Film bereitet die Gefahr früh vor, bevor klar ist, welche Rolle die scheinbar übernatürlichen Zeichen und die verschwundene Leiche dabei spielen.
 
-Merksatz: Christinas Herzerkrankung macht den Schrecken lebensgefährlich.
 
 - Eine fortschreitende Erblindung: Eine Erblindung ist nicht ihre zentrale Erkrankung.
 - Eine chronische Lungenerkrankung: Eine Lungenerkrankung erklärt die Gefahr nicht.
@@ -1187,7 +1135,6 @@ Welche geheime Zusammenarbeit enthüllt „Die Teuflischen“ im Finale?
 
 Michel (Paul Meurisse) ist nicht wirklich ertrunken. Zusammen mit Nicole (Simone Signoret) hat er die Tötung und das spätere Verschwinden inszeniert, um Christina (Véra Clouzot) mit immer neuen Zeichen zu erschrecken. Sein Auftauchen aus der Badewanne führt zur tödlichen Herzreaktion. Der vermeintliche Mordplan der Frauen erweist sich damit als Teil eines anderen Verbrechens, das gegen eine der beiden selbst gerichtet ist.
 
-Merksatz: Michel und Nicole benutzen den fingierten Tod gegen Christina.
 
 - Christina und Fichet wollen Nicole eines Mordes überführen: Christina führt keinen solchen Ermittlungsplan mit Fichet durch.
 - Michel und Fichet wollen Christina als Betrügerin entlarven: Fichet ist nicht Michels Komplize.
@@ -1209,7 +1156,6 @@ Welche Behauptung eines Schülers setzt in „Die Teuflischen“ nach Christinas
 
 Nach der Aufklärung spricht ein Schüler davon, Christina (Véra Clouzot) habe ihm seine Schleuder zurückgegeben. Der Film macht daraus keinen gesicherten Beweis, dass sie tatsächlich wieder lebt. Die Behauptung steht vielmehr neben der scheinbar abgeschlossenen Erklärung des Verbrechens. Eine kleine Schlusspointe setzt die Unsicherheit fort, ohne die bestätigte Intrige einfach durch eine eindeutige Geistergeschichte zu ersetzen.
 
-Merksatz: Ein Schüler behauptet zuletzt, Christina habe ihm die Schleuder zurückgegeben.
 
 - Christina habe ihm seine Schleuder zurückgegeben: Der Junge behauptet eine erneute Begegnung mit Christina.
 - Michel habe ihn wieder zum Unterricht bestellt: Eine Unterrichtsanweisung Michels ist nicht die Schlusspointe.
@@ -1231,7 +1177,6 @@ In welchem Jahr erschien „Die Teuflischen“ mit Véra Clouzot und Simone Sign
 
 Die Teuflischen erschien 1955. Henri-Georges Clouzots nächster Film, die Dokumentation Le mystère Picasso, folgte 1956, ein Jahr später. Nach dem minutiös vorbereiteten Psychothriller machte er also die Entstehung von Bildern selbst zum Gegenstand eines Films. Der kurze Abstand verbindet zwei sehr verschiedene Arbeiten desselben Regisseurs und gibt dem Veröffentlichungsjahr einen merkbaren Platz in seiner Filmografie.
 
-Merksatz: 1955 Die Teuflischen, 1956 Le mystère Picasso: ein Jahr Abstand.
 
 - 1949: 1949 liegt sechs Jahre davor.
 - 1955: 1955 ist das Jahr der französischen Erstveröffentlichung.
@@ -1253,7 +1198,6 @@ Wer führte beim französischen Original von „Die Teuflischen“ mit Véra Clo
 
 Henri-Georges Clouzot inszenierte und produzierte das französische Original. Véra Clouzot spielt Christina, Simone Signoret Nicole und Paul Meurisse Michel. Die Handlung beruht auf einem Roman von Pierre Boileau und Thomas Narcejac. Clouzots Film ordnet die Zuschauerwahrnehmung zunächst dem scheinbaren Bündnis der Frauen zu und verändert diese Zuordnung im Finale. Der Regiecredit gehört deshalb zur konkreten französischen Filmfassung.
 
-Merksatz: Henri-Georges Clouzot inszenierte das französische Original.
 
 - Jacques Becker: Becker führte bei diesem Film nicht Regie.
 - René Clément: Clément ist nicht im Regiecredit genannt.
@@ -1279,7 +1223,6 @@ Welche Arbeit verrichtet Joe Turner (Robert Redford) zu Beginn von „Die drei T
 
 Joe Turner (Robert Redford) arbeitet in einer Einrichtung, die nach außen wie eine literarische Gesellschaft wirkt. Tatsächlich werden dort für die CIA veröffentlichte Texte ausgewertet. Turner sucht mögliche Ideen und Hinweise, die für den Dienst wichtig sein könnten. Er ist damit ein Analyst, dessen gewohnte Arbeit am Schreibtisch stattfindet, bevor ihn ein Angriff in eine unmittelbare Überlebenskrise zwingt.
 
-Merksatz: Turner ist ein literarischer Analyst der CIA.
 
 - Er wertet Bücher und andere Texte aus: Turner untersucht veröffentlichte Texte auf relevante Hinweise.
 - Er verhört festgenommene Doppelagenten: Verhöre sind nicht seine Aufgabe.
@@ -1301,7 +1244,6 @@ Warum entgeht Turner (Robert Redford) in „Die drei Tage des Condor“ dem Angr
 
 Turner (Robert Redford) verlässt das Büro, um Essen für seine Kollegen zu holen. Bei seiner Rückkehr findet er die Mitarbeiter ermordet vor. Seine alltägliche Abwesenheit hat ihn zufällig gerettet und macht ihn zum einzigen verfügbaren Zeugen aus der Arbeitsgruppe. Ohne vorbereitete Flucht und ohne Kenntnis des Hintergrunds muss er nun entscheiden, wem er innerhalb seiner eigenen Organisation noch vertrauen kann.
 
-Merksatz: Turners Gang zum Mittagessen rettet ihm das Leben.
 
 - Er hat einen Termin in der CIA-Zentrale: Ein Termin in der Zentrale hält ihn nicht fern.
 - Er ist gerade Essen für die Kollegen holen: Während des Angriffs besorgt er das Mittagessen.
@@ -1323,7 +1265,6 @@ Was geschieht bei Turners (Robert Redford) vermeintlich sicherer Übergabe an de
 
 Turner (Robert Redford) meldet die Toten und folgt den Anweisungen des Dienstes. Um der Abholung vertrauen zu können, verlangt er die Anwesenheit seines Bekannten Sam Barber (Walter McGinn). Doch auch das vereinbarte Treffen wird zum Angriff; Barber kommt dabei ums Leben. Die vertraute Person schützt Turner nicht. Sein Versuch, Sicherheit über die Organisation herzustellen, vergrößert vielmehr seine Gefahr.
 
-Merksatz: Die vereinbarte Abholung ist eine Falle gegen Turner.
 
 - Sein Kontakt bringt ihn sofort in ein Schutzprogramm: Ein sicherer Schutz wird ihm dort nicht gewährt.
 - Sein Kontakt lässt ihn wegen Geheimnisverrats festnehmen: Eine formale Festnahme beschreibt den Angriff nicht.
@@ -1345,7 +1286,6 @@ Wie ermittelt Turner (Robert Redford) in „Die drei Tage des Condor“ Atwoods 
 
 Ein Hotelschlüssel des getöteten Angreifers bringt Turner (Robert Redford) zu Jouberts (Max von Sydow) Unterkunft. Dort nutzt er die Tarnung als Telefontechniker, um einen Anruf über die Telefonanlage zu verfolgen. So findet er Leonard Atwood (Addison Powell), den CIA-Verantwortlichen hinter der Operation. Erst das Zusammenspiel von Fundstück und technischer Nachforschung führt ihn vom einzelnen Täter zum Auftraggeber.
 
-Merksatz: Turner verfolgt als Telefontechniker Jouberts Anruf zu Atwood.
 
 - Als Zollbeamter prüft er die Reiseunterlagen der Attentäter: Zollunterlagen liefern ihm Atwoods Adresse nicht.
 - Als Hotelportier durchsucht er die Meldescheine der Gäste: Hotelmeldescheine sind nicht die entscheidende Spur.
@@ -1367,7 +1307,6 @@ Warum verschont Joubert (Max von Sydow) Turner (Robert Redford) gegen Ende von �
 
 Joubert (Max von Sydow) arbeitet als Auftragsmörder. Gegen Ende tötet er Atwood (Addison Powell), den Verantwortlichen hinter der Operation, anstatt Turner (Robert Redford) zu erschießen. Ein neuer Auftrag hat die Seiten neu geordnet. Turners Überleben beruht dadurch nicht auf einer moralischen Bekehrung des Killers. Die geschäftliche Logik derselben Gewalt, die ihn bedrohte, wirkt nun vorübergehend zu seinen Gunsten.
 
-Merksatz: Ein neuer Auftrag macht Atwood statt Turner zu Jouberts Ziel.
 
 - Sein neuer Auftrag richtet sich gegen Atwood: Jouberts Auftraggeber und Ziel haben gewechselt.
 - Turner hat ihm mehr Geld für die Verschonung geboten: Turner kauft sich nicht mit einem höheren Honorar frei.
@@ -1389,7 +1328,6 @@ Welche Unsicherheit lässt Higgins (Cliff Robertson) in „Die drei Tage des Con
 
 Turner (Robert Redford) erklärt Higgins (Cliff Robertson), dass er seine Erkenntnisse der New York Times gegeben hat. Er verbindet Öffentlichkeit mit Schutz vor weiteren Angriffen. Higgins stellt jedoch infrage, ob die Geschichte überhaupt gedruckt wird. Der Film endet damit vor einer gesicherten Veröffentlichung. Die Übergabe an eine Redaktion ist ein Versuch, Macht zu begrenzen, aber noch kein bestätigter Sieg über die Organisation.
 
-Merksatz: Der Film bestätigt die Veröffentlichung durch die New York Times nicht.
 
 - Ob die Redaktion Turners Identität geheim halten wird: Die letzte Frage betrifft das Erscheinen des Berichts, nicht eine zugesicherte Anonymität.
 - Ob die Zeitung die Geschichte tatsächlich veröffentlicht: Higgins fragt, woher Turner weiß, dass die Redaktion drucken wird.
@@ -1411,7 +1349,6 @@ In welchem Jahr erschien „Die drei Tage des Condor“ mit Robert Redford und F
 
 James Gradys Roman Six Days of the Condor erschien 1974. Die Verfilmung folgte 1975, ein Jahr später, und verkürzte bereits im Titel die sechs Tage auf drei. Robert Redford spielt den verfolgten CIA-Analysten Joe Turner. Der nahe zeitliche Anschluss zwischen Roman und Film macht das Erscheinungsjahr merkbar und zeigt zugleich, dass die Kinobearbeitung den Ablauf des Ausgangsstoffs neu verdichtet.
 
-Merksatz: 1974 sechs Tage im Romantitel, 1975 drei Tage im Film: ein Jahr Abstand.
 
 - 1969: 1969 liegt sechs Jahre davor.
 - 1980: 1980 liegt fünf Jahre danach.
@@ -1433,7 +1370,6 @@ Wer führte bei „Die drei Tage des Condor“ mit Robert Redford und Faye Dunaw
 
 Sydney Pollack inszenierte den politischen Thriller mit Robert Redford als Joe Turner und Faye Dunaway als Kathy Hale. Der Film folgt einem Analysten, der nach der Ermordung seiner Kollegen seine eigene Organisation fürchten muss. Die Regie führt seine improvisierte Flucht und die Suche nach Auftraggebern zusammen. Der Versuch, Sicherheit durch öffentliche Aufklärung zu erhalten, bleibt bis zum Schluss mit Unsicherheit verbunden.
 
-Merksatz: Sydney Pollack inszenierte Die drei Tage des Condor.
 
 - Alan J. Pakula: Pakula führte bei diesem Film nicht Regie.
 - Sidney Lumet: Lumet ist nicht für diese Inszenierung genannt.
@@ -1459,7 +1395,6 @@ Was muss Nicholas Van Orton (Michael Douglas) beim ersten CRS-Besuch in „The G
 
 Nicholas Van Orton (Michael Douglas) kommt mit dem Gutschein seines Bruders Conrad (Sean Penn) zu Consumer Recreation Services. Dort wird er ausführlich untersucht und getestet, bevor ihm zunächst eine Ablehnung mitgeteilt wird. Er erhält gerade keine klare Einführung in den folgenden Ablauf. Die Testphase erlaubt den Organisatoren, sein späteres Erlebnis auf persönliche Eigenschaften und Reaktionen auszurichten.
 
-Merksatz: Die erste Begegnung mit CRS sammelt Wissen über Nicholas.
 
 - Eine Einführung mit fest erklärten Spielregeln: Eine klare Erklärung der Spielregeln wird ihm nicht gegeben.
 - Eine ausführliche Reihe von Untersuchungen und Tests: CRS unterzieht Nicholas zunächst einer umfassenden Testreihe.
@@ -1481,7 +1416,6 @@ Welchen Beruf hat Nicholas Van Orton (Michael Douglas) in „The Game“?
 
 Nicholas Van Orton (Michael Douglas) ist ein reicher Investmentbanker. Sein Alltag ist durch geschäftliche Entscheidungen, Distanz und einen starken Wunsch nach Kontrolle geprägt. Das Geburtstagsgeschenk seines Bruders greift genau in diese geordnete Existenz ein. Für den Film ist sein Wohlstand dabei keine Garantie für Sicherheit: Geld, Kontakte und Gewohnheiten erweisen sich innerhalb der Ereignisse als überraschend unzuverlässig.
 
-Merksatz: Nicholas Van Orton ist Investmentbanker.
 
 - Versicherungsdetektiv: Versicherungsdetektiv ist nicht sein Beruf.
 - Strafverteidiger: Er ist kein Strafverteidiger.
@@ -1503,7 +1437,6 @@ Welche Erinnerung verleiht Nicholas’ (Michael Douglas) Geburtstag in „The Ga
 
 Nicholas Van Orton (Michael Douglas) wird 48 Jahre alt. Im gleichen Alter nahm sich sein Vater durch einen Sprung das Leben; Nicholas sah als Kind die Folgen. Das aktuelle Geburtstagsgeschenk trifft ihn deshalb an einer biografisch belasteten Grenze. Die Erinnerung kehrt während des Films wieder und verleiht seinem späteren Weg auf ein Dach mehr Bedeutung als einer beliebigen Flucht aus Gefahr.
 
-Merksatz: Nicholas erreicht das Alter, in dem sein Vater sich das Leben nahm.
 
 - Seine Mutter verschwand am Tag seines Schulabschlusses: Ein Verschwinden der Mutter ist nicht der zentrale Jahrestagsbezug.
 - Sein Bruder wurde an einem früheren Geburtstag entführt: Eine frühere Geburtstagsentführung Conrads ist nicht die Erinnerung.
@@ -1525,7 +1458,6 @@ Wodurch erkennt Nicholas (Michael Douglas) in „The Game“ früh, dass jemand 
 
 Ein Sprecher im Fernseher redet Nicholas (Michael Douglas) persönlich an und reagiert auf sein Verhalten. Der zuvor gefundene Clown enthält eine Kamera, über die der Zugriff auf seine private Umgebung möglich wird. Das vertraute Medium wird zum Gegenüber. Nicholas erkennt, dass seine Räume nicht mehr geschützt sind und dass die unbekannten Organisatoren das vermeintliche Spiel bis in seinen Alltag hinein steuern.
 
-Merksatz: Die persönliche Fernsehansprache zeigt Nicholas die Überwachung.
 
 - Ein Fernsehsprecher reagiert direkt auf ihn: Die Fernsehansprache reagiert persönlich auf Nicholas.
 - Ein Bankberater erwähnt sein privates Tagebuch: Ein Tagebuch beim Bankberater liefert dieses Signal nicht.
@@ -1547,7 +1479,6 @@ Welche Beobachtung führt Nicholas (Michael Douglas) in „The Game“ zurück z
 
 Nicholas Van Orton (Michael Douglas) erkennt Jim Feingold (James Rebhorn), den er als CRS-Mitarbeiter kennengelernt hatte, in einem Fernsehwerbespot wieder. Die vermeintlich verschwundene Kontaktperson ist also ein Darsteller. Nicholas kann ihn dadurch erneut suchen und zur Organisation zurückgelangen. Ausgerechnet ein weiteres inszeniertes Bild hilft ihm, die Täuschung zu erkennen und einen praktischen Weg durch die Verwirrung zu finden.
 
-Merksatz: Nicholas erkennt Feingold in einem Fernsehwerbespot wieder.
 
 - Er erkennt ihn auf einem Polizeifoto im Krankenhaus: Ein Polizeifoto bringt ihn nicht auf diese Spur.
 - Er sieht ihn als Darsteller in einem Fernsehspot: Der Werbespot verrät Feingolds Tätigkeit als Schauspieler.
@@ -1569,7 +1500,6 @@ Was offenbart „The Game“ nach Nicholas’ (Michael Douglas) Sprung vom Dach?
 
 Nicholas (Michael Douglas) glaubt nach einem Schuss, seinen Bruder Conrad (Sean Penn) getötet zu haben, und springt vom Dach. Er landet auf einem vorbereiteten Auffangkissen in einer Festgesellschaft. Die Gefahr, die er für endgültig hielt, gehört zur aufwendig arrangierten Geburtstagsaktion. Die Enthüllung verbindet die scheinbar verstreuten Bedrohungen und kehrt zugleich zum familiären Sprungtrauma aus dem Anfang zurück.
 
-Merksatz: Ein vorbereitetes Auffangkissen führt Nicholas in die Geburtstagsauflösung.
 
 - Eine unabhängige Polizeieinheit fängt ihn mit einem Rettungsnetz auf: Eine unabhängige Polizeirettung ist nicht die Enthüllung.
 - Conrad hat mit der Flucht das echte Vermögen an sich gebracht: Conrad verschwindet nicht mit dem tatsächlich geraubten Vermögen.
@@ -1591,7 +1521,6 @@ In welchem Jahr erschien „The Game“ mit Michael Douglas und Sean Penn erstma
 
 David Finchers Se7en erschien 1995. The Game folgte 1997, zwei Jahre später, mit Michael Douglas als Nicholas Van Orton. Beide Filme verbinden sorgfältig gesteuerte Informationen mit einer einschneidenden Enthüllung, verwenden dafür aber sehr unterschiedliche Hauptfiguren und Konflikte. Der Abstand ordnet The Game innerhalb von Finchers früher Thrillerarbeit ein und macht sein Filmjahr über einen bekannten Vorgänger merkbar.
 
-Merksatz: 1995 Se7en, 1997 The Game: zwei Jahre Abstand.
 
 - 1991: 1991 liegt sechs Jahre davor.
 - 2002: 2002 liegt fünf Jahre danach.
@@ -1613,7 +1542,6 @@ Wer führte bei „The Game“ mit Michael Douglas und Sean Penn Regie?
 
 David Fincher inszenierte den Film nach einem Drehbuch von John Brancato und Michael Ferris. Michael Douglas spielt den Investmentbanker, Sean Penn seinen Bruder. Die Regie hält die Wahrnehmung des Zuschauers eng an Nicholas’ Unsicherheit: Ereignisse wechseln wiederholt zwischen vermeintlichem Spiel und scheinbar wirklicher Gefahr. Die aufwendige Organisation innerhalb der Handlung wird dabei erst am Ende in ihrem Zusammenhang sichtbar.
 
-Merksatz: David Fincher inszenierte The Game.
 
 - David Fincher: David Fincher ist der Regisseur.
 - Brian De Palma: De Palma führte bei diesem Film nicht Regie.
@@ -1639,7 +1567,6 @@ Welchen Fall soll Teddy Daniels (Leonardo DiCaprio) zu Beginn von „Shutter Isl
 
 Teddy Daniels (Leonardo DiCaprio) kommt mit Chuck Aule (Mark Ruffalo) nach Ashecliffe. Der Auftrag wirkt zunächst wie eine gewöhnliche Vermisstensuche, doch das Personal beantwortet ihre Fragen nur zögernd. Die abgeschlossene Insel macht den Ermittlungsort zugleich zum möglichen Gefängnis. Dadurch beginnt sich die Suche nach einer anderen Person mit Teddys eigener Unsicherheit über das Geschehen zu verbinden.
 
-Merksatz: Eine Vermisstensuche führt Teddy in eine verschlossene Welt.
 
 - Den unerklärten Tod eines behandelnden Arztes: Ein toter Arzt ist nicht sein angeblicher Ermittlungsanlass.
 - Den Verdacht auf Medikamentenschmuggel aus der Klinik: Ein Schmuggelverdacht führt ihn nicht auf die Insel.
@@ -1661,7 +1588,6 @@ Was verhindert in „Shutter Island“ zunächst, dass Teddy (Leonardo DiCaprio)
 
 Das Unwetter hält Teddy (Leonardo DiCaprio) und Chuck (Mark Ruffalo) am Schauplatz fest. Zugleich beschädigt es die Klinik und erschwert die Kontrolle über die Patienten. Die äußere Gefahr verändert so die Bedingungen der Untersuchung: Der scheinbar geordnete Ort wird unübersichtlich, während eine schnelle Abreise als Ausweg fehlt. Die Landschaft verstärkt den Druck auf den ohnehin verunsicherten Ermittler.
 
-Merksatz: Der Sturm schließt den Rückweg und öffnet neue Gefahren.
 
 - Ein Defekt der Fähre: Ein technischer Defekt der Fähre ist nicht die genannte Ursache.
 - Eine Quarantäne nach einem Krankheitsausbruch: Eine medizinische Quarantäne verhindert die Abreise nicht.
@@ -1683,7 +1609,6 @@ Welche wirkliche Funktion hat Chuck (Mark Ruffalo) für Teddy (Leonardo DiCaprio
 
 Chuck Aule (Mark Ruffalo) ist die gespielte Identität des Psychiaters Dr. Sheehan. Teddy Daniels (Leonardo DiCaprio) kennt ihn deshalb scheinbar als neuen Ermittlerkollegen, obwohl der Arzt bereits seit Langem für seine Behandlung zuständig ist. Die vertraute Begleitung erhält rückblickend eine andere Bedeutung: Sie soll Sicherheit innerhalb eines Szenarios geben, das Teddy aus seiner eigenen falschen Geschichte herausführen soll.
 
-Merksatz: Chucks Partnerschaft ist eine therapeutische Rolle.
 
 - Er ist Teddys behandelnder Psychiater.: Chuck spielt eine Rolle innerhalb des Therapieversuchs.
 - Er ist ein eingeschleuster Journalist.: Er untersucht die Klinik nicht als Journalist.
@@ -1705,7 +1630,6 @@ Was ist in „Shutter Island“ tatsächlich mit den Kindern von Andrew Laeddis 
 
 Andrew Laeddis (Leonardo DiCaprio) hat die psychische Erkrankung seiner Frau Dolores (Michelle Williams) nicht angemessen behandeln lassen. Nach dem Tod der Kinder erschießt er sie. Seine erfundene Geschichte verschiebt die Schuld auf einen Brandstifter und gibt ihm eine Ermittlerrolle. Die Enthüllung macht verständlich, warum der vermeintliche Fall so eng an Bilder seiner eigenen Familie gebunden bleibt.
 
-Merksatz: Der erfundene Brand verdeckt den wirklichen Familientod.
 
 - Sie sind bei einem Wohnungsbrand umgekommen.: Die Brandgeschichte verdeckt den späteren tatsächlichen Verlust.
 - Ihre Mutter hat sie ertränkt.: Dolores hat die drei Kinder im See ertränkt.
@@ -1727,7 +1651,6 @@ Welches Ziel verfolgt Dr. Cawley (Ben Kingsley) mit der inszenierten Untersuchun
 
 Dr. Cawley (Ben Kingsley) lässt die Klinik Teddys (Leonardo DiCaprio) Vorstellung einer Verschwörung mitspielen. Er hofft, dass Andrew die Grenzen seiner erfundenen Identität selbst erreicht und die verdrängte Wahrheit annehmen kann. Misslingt der Versuch, droht eine Lobotomie. Die Täuschung der Ärzte ist damit keine neutrale Methode: Sie entsteht aus einem umstrittenen Versuch, einen noch härteren Eingriff abzuwenden.
 
-Merksatz: Cawley nutzt den Wahn als Weg aus dem Wahn.
 
 - Andrew zu einem gerichtlich verwertbaren Geständnis bringen: Ein Beweis für eine Gerichtsverhandlung ist nicht der Zweck.
 - Andrew für den Test eines neuen Medikaments vorbereiten: Das Szenario dient nicht als Vorbereitung eines Medikamententests.
@@ -1749,7 +1672,6 @@ Wie wurde die Filmmusik für „Shutter Island“ wesentlich zusammengestellt?
 
 Die Musik von Shutter Island wirkt wie eine eigene bedrohliche Klangwelt, entstand aber wesentlich durch die Auswahl bereits vorhandener Werke. Robbie Robertson stellte unter anderem moderne klassische Musik zusammen. Ihre fremdartigen Klangfarben begleiten Teddys (Leonardo DiCaprio) instabile Wahrnehmung. Das Beispiel zeigt, dass eine stark auf den Film zugeschnittene musikalische Wirkung auch ohne einen neu geschriebenen vollständigen Originalscore entstehen kann.
 
-Merksatz: Vorhandene Kompositionen werden zu einer neuen Klangdramaturgie.
 
 - Aus einem eigens komponierten symphonischen Originalscore: Ein neu geschriebener vollständiger Originalscore bildet nicht die Musikgrundlage.
 - Aus neu aufgenommenen Jazzstücken einer einzigen Band: Die Auswahl stammt nicht von einer einzigen neu aufgenommenen Jazzband.
@@ -1771,7 +1693,6 @@ In welchem Jahr wurde „Shutter Island“ mit Leonardo DiCaprio erstmals veröf
 
 Dennis Lehanes Roman Shutter Island erschien 2003. Martin Scorseses Verfilmung folgte 2010, sieben Jahre später. Leonardo DiCaprio spielt Teddy Daniels beziehungsweise Andrew Laeddis, dessen vermeintliche Untersuchung eng mit der eigenen verdrängten Vergangenheit verbunden ist. Die nahe Verbindung von Buch und Film verankert das Veröffentlichungsjahr durch die literarische Vorlage. Davon zu unterscheiden ist die erzählte Zeit, in der die Reise zur Insel 1954 beginnt.
 
-Merksatz: 2003 Lehanes Roman, 2010 die Verfilmung: sieben Jahre Abstand.
 
 - 2010: Die Weltpremiere fand 2010 statt.
 - 2006: 2006 liegt vier Jahre davor.
@@ -1793,7 +1714,6 @@ Wer inszenierte „Shutter Island“ mit Leonardo DiCaprio und Mark Ruffalo?
 
 Martin Scorsese führt das Publikum zunächst entlang der Wahrnehmung Teddys (Leonardo DiCaprio). Widersprüche erscheinen dadurch als Zeichen einer äußeren Verschwörung, bevor sich die Perspektive verändert. Die Berlinale dokumentiert Scorsese als Regisseur der Premiere. Sein Film verlangt, die bereits gesehenen Begegnungen nach der Auflösung neu einzuordnen, statt einfach einen zusätzlichen unbekannten Täter zu präsentieren.
 
-Merksatz: Scorseses Ermittlungsweg verändert rückblickend seine Bedeutung.
 
 - David Fincher: Fincher trägt diesen Regiecredit nicht.
 - Martin Scorsese: Martin Scorsese führte Regie.
@@ -1819,7 +1739,6 @@ Was geschieht zu Beginn von „Black Swan“ mit der bisherigen Primaballerina B
 
 Beth (Winona Ryder) war die gefeierte Haupttänzerin der Kompanie. Thomas Leroy (Vincent Cassel) ersetzt sie, bevor Nina (Natalie Portman) ihre große Chance erhält. Die neue Besetzung steht damit neben einem abrupten Karriereende. Nina sieht an ihrer Vorgängerin, wie wenig dauerhafte Sicherheit der erreichte Ruhm bietet. Beths später verletzte Beine verschärfen dieses Bild einer Laufbahn, die vom nutzbaren Körper und dem Urteil anderer abhängt.
 
-Merksatz: Beths erzwungener Abschied eröffnet Ninas Aufstieg.
 
 - Sie wechselt freiwillig zu einem anderen Ensemble.: Ihr Abgang ist keine freiwillige Entscheidung für ein anderes Ensemble.
 - Sie eröffnet eine eigene Ballettschule.: Beth gründet keine eigene Ballettschule.
@@ -1841,7 +1760,6 @@ Wie beeinflusst Erica (Barbara Hershey) in „Black Swan“ das Privatleben ihre
 
 Nina (Natalie Portman) lebt mit Erica (Barbara Hershey), die früher selbst getanzt hat. Die Fürsorge der Mutter ist mit Überwachung und unerfüllten eigenen Erwartungen verbunden. Ninas Weg zu mehr Eigenständigkeit gerät deshalb auch zu einem Konflikt im Elternhaus. Der Leistungsdruck entsteht nicht nur auf der Bühne: Ihr privater Rückzugsort reproduziert einen Teil derselben Kontrolle.
 
-Merksatz: Nina entkommt der Kontrolle auch zu Hause nicht.
 
 - Sie kontrolliert und bevormundet sie stark.: Die Mutter überwacht Ninas Alltag und begrenzt ihre Selbstständigkeit.
 - Sie überlässt Ninas Alltag vollständig der Kompanie.: Erica bestimmt auch Ninas Leben zu Hause.
@@ -1863,7 +1781,6 @@ Welche Eigenschaft Lilys (Mila Kunis) soll Nina (Natalie Portman) in „Black Sw
 
 Thomas Leroy (Vincent Cassel) sieht in Lily (Mila Kunis) eine Natürlichkeit, die Nina (Natalie Portman) vermissen lässt. Ausgerechnet die Frau, die ihr als Vorbild dienen soll, wird von Nina bald als Bedrohung erlebt. Bewunderung und Konkurrenz richten sich daher auf dieselbe Eigenschaft. Die Probe verlangt keine weitere technische Verbesserung, sondern ein Loslassen, das Ninas Selbstverständnis widerspricht.
 
-Merksatz: Was Nina lernen soll, fürchtet sie an Lily.
 
 - Ihre besonders genaue Kontrolle jeder Bewegung: Nina verfügt bereits über ausgeprägte technische Kontrolle.
 - Ihre ungehemmte Spontaneität beim Tanzen: Lily besitzt eine Freiheit, die Ninas perfekter Kontrolle fehlt.
@@ -1885,7 +1802,6 @@ Warum wird Lily (Mila Kunis) in „Black Swan“ für Nina (Natalie Portman) auc
 
 Nina (Natalie Portman) vermutet hinter Lilys (Mila Kunis) Nähe zunehmend den Wunsch, ihr die Rolle zu nehmen. Dass Thomas Leroy (Vincent Cassel) Lily tatsächlich als Vertretung einsetzt, gibt dieser Furcht eine reale berufliche Grundlage. Der Film verbindet so einen objektiven Besetzungsentscheid mit einer subjektiv immer bedrohlicher werdenden Deutung der Kollegin; beides ist nicht dasselbe.
 
-Merksatz: Die Zweitbesetzung macht Ninas Angst beruflich greifbar.
 
 - Sie erhält die Hauptrolle in einer parallelen Aufführung.: Eine separate Parallelaufführung ist nicht die konkrete Gefahr.
 - Sie wird für die gemeinsame Teilung der Hauptrolle vorgesehen.: Thomas legt keine feste gemeinsame Aufteilung der Rolle fest.
@@ -1907,7 +1823,6 @@ Was korrigiert Lilys (Mila Kunis) Gratulation nach Ninas (Natalie Portman) Auftr
 
 Nina (Natalie Portman) glaubt, Lily (Mila Kunis) in ihrer Garderobe mit einer Glasscherbe getötet zu haben. Als die Kollegin später unversehrt erscheint, bricht diese Erklärung zusammen. Die Verletzung ist an Ninas eigenem Körper. Die Szene trennt damit eine tatsächlich vorhandene Wunde von der falschen Geschichte, die sie dazu erlebt hat; nicht alles Gesehene besitzt denselben Wirklichkeitsstatus.
 
-Merksatz: Lily lebt; die Wunde ist Ninas eigene.
 
 - Lily hat Ninas Angriff unverletzt abgewehrt.: Es gab keinen tatsächlichen unverletzt abgewehrten Angriff auf Lily.
 - Nina hat Beth (Winona Ryder) statt Lily angegriffen.: Beth ist nicht das Opfer der Garderobenszene.
@@ -1929,7 +1844,6 @@ Auf welchem Material wurde „Black Swan“ überwiegend aufgenommen?
 
 Darren Aronofsky und Kameramann Matthew Libatique drehten den Film vor allem auf Super 16. Aronofsky schätzte die leichten, beweglichen Kameras und das körnige Bild. Die Kamera sollte näher an Tanz, Körper und Proben gelangen, statt die Bühne nur aus der Distanz abzubilden. Der gewählte Stil verbindet deshalb eine konkrete Aufnahmetechnik mit der körperlichen und subjektiven Erfahrung von Nina (Natalie Portman).
 
-Merksatz: Super 16 ermöglicht das bewegliche, körnige Bild von Black Swan.
 
 - 16-mm-Film: Die Produktion verwendete vor allem Super-16-Film.
 - 35-mm-Film: 35-mm-Film war nicht das überwiegende Aufnahmematerial.
@@ -1951,7 +1865,6 @@ Wann wurde „Black Swan“ mit Natalie Portman erstmals veröffentlicht?
 
 2010 eröffnet Black Swan das Filmfestival von Venedig. Zwei Jahre zuvor, 2008, hatte Darren Aronofskys The Wrestler dort den Goldenen Löwen gewonnen. Der kurze Abstand verbindet zwei Filme über Körper, Auftritt und Selbstüberschreitung. Die Festivalgeschichte liefert den zeitlichen Anker, während der Wechsel vom Wrestlingring zur Ballettbühne die unterschiedliche Welt der Figuren sichtbar macht.
 
-Merksatz: 2008 der Ring, 2010 die Ballettbühne: zwei Jahre Abstand.
 
 - 2006: 2006 liegt vier Jahre davor.
 - 2010: Der Film eröffnete 2010 das Festival von Venedig.
@@ -1973,7 +1886,6 @@ Wer inszenierte „Black Swan“ mit Natalie Portman und Mila Kunis?
 
 Darren Aronofsky bindet die Bildwelt eng an Ninas (Natalie Portman) Empfinden. Körperveränderungen und Begegnungen können dadurch zunächst wie äußere Ereignisse wirken, obwohl sich ihre Bedeutung später verschiebt. Die Studioseite nennt ihn als Regisseur. Seine Inszenierung macht den Druck der Aufführung über diese Wahrnehmung erfahrbar; die Bühne bleibt deshalb nicht einfach ein neutraler Ort hinter der psychischen Krise.
 
-Merksatz: Aronofsky zeigt den Ballettdruck durch Ninas instabile Wahrnehmung.
 
 - David Cronenberg: Cronenberg ist nicht der Regisseur dieses Films.
 - Luca Guadagnino: Guadagnino trägt diesen Credit nicht.
@@ -1999,7 +1911,6 @@ Was macht Thomas (David Hemmings) in „Blow Up“ beruflich?
 
 Thomas (David Hemmings) kontrolliert im Studio die Körper und Posen seiner Modelle. Der zufällige Parkbesuch führt ihn dagegen zu Bildern, deren Bedeutung er zunächst nicht beherrscht. Sein Beruf erklärt, warum er die Aufnahmen technisch untersuchen kann. Zugleich wird dieses routinierte Bildwissen auf die Probe gestellt: Ein professioneller Blick garantiert noch keine sichere Deutung dessen, was auf dem Foto erscheint.
 
-Merksatz: Der Bildprofi gerät an ein Bild, das ihm keine Sicherheit gibt.
 
 - Er fotografiert Mode und Modelle.: Thomas ist ein beruflich erfolgreicher Modefotograf.
 - Er arbeitet als Privatdetektiv.: Er untersucht das Rätsel ohne Detektivberuf.
@@ -2021,7 +1932,6 @@ Warum sucht Jane (Vanessa Redgrave) in „Blow Up“ Thomas (David Hemmings) nac
 
 Jane (Vanessa Redgrave) reagiert auf Thomas’ (David Hemmings) Fotos zunächst mit Wut und später mit einem Besuch im Studio. Er gibt ihr jedoch eine andere Filmrolle. Die Aufnahme, die sie aus dem Verkehr ziehen möchte, bleibt damit bei ihm und wird zum Gegenstand seiner Nachforschungen. Ihr Verhalten erzeugt einen Verdacht, ohne dem Publikum schon eindeutig zu erklären, was sie weiß.
 
-Merksatz: Janes Rückforderung macht die beiläufige Aufnahme verdächtig.
 
 - Sie will sich für ihr Verhalten im Park entschuldigen.: Eine Entschuldigung ist nicht ihr eigentlicher Zweck.
 - Sie möchte das Material der Parkaufnahmen zurückhaben.: Jane will die unerwünschten Parkaufnahmen zurückbekommen.
@@ -2043,7 +1953,6 @@ Was vermutet Thomas (David Hemmings) in „Blow Up“ nach der genaueren Untersu
 
 Thomas (David Hemmings) betrachtet seine Parkfotos nicht mehr als fertige Bilder, sondern als mögliche Spuren. Die Richtung von Janes (Vanessa Redgrave) Blick lenkt seine Aufmerksamkeit auf das Gebüsch. Durch weitere Ausschnitte vermutet er dort einen bewaffneten Menschen. Was beim Fotografieren nebensächlich blieb, verändert rückwirkend den Sinn der Begegnung und bringt ihn auf die Idee eines verhinderten oder begangenen Verbrechens.
 
-Merksatz: Janes Blick lenkt Thomas auf einen verborgenen Bildrand.
 
 - Jane übergab dem Mann einen verschlossenen Umschlag.: Eine Umschlagübergabe ist nicht die entscheidende entdeckte Spur.
 - Der Mann versteckte eine Tasche hinter einer Parkbank.: Eine versteckte Tasche bildet nicht seine Schlussfolgerung.
@@ -2065,7 +1974,6 @@ Welche Lage findet Thomas (David Hemmings) in „Blow Up“ nach seiner nächtli
 
 Thomas (David Hemmings) hatte im Park einen Körper gefunden, aber keine Kamera dabeigehabt. Als er zurückkommt, fehlen die fotografischen Belege im Studio. Nur ein besonders grobkörniges Bild bleibt. Die scheinbare Bestätigung durch einen realen Fund führt damit nicht zu dauerhafter Beweissicherheit: Ausgerechnet jetzt verliert er die Möglichkeit, anderen seine Beobachtung nachvollziehbar zu zeigen.
 
-Merksatz: Der Fund wird deutlicher, seine Beweise werden schwächer.
 
 - Die Negative wurden in der Dunkelkammer vollständig verbrannt.: Er findet keine vollständig verbrannten Negative.
 - Die Abzüge sind mit erklärenden handschriftlichen Notizen versehen.: Es liegen keine erklärenden Notizen auf den Bildern bereit.
@@ -2087,7 +1995,6 @@ Wie reagiert Thomas (David Hemmings) am Ende von „Blow Up“ auf das pantomimi
 
 Nach dem Verschwinden des Körpers trifft Thomas (David Hemmings) auf eine Pantomimengruppe. Ihr Tennis hat zunächst keinen sichtbaren Ball; dennoch folgt er dem Spiel und beteiligt sich schließlich daran. Später ist dessen Klang zu hören. Die Szene führt das Wahrnehmungsrätsel in einer anderen Form fort: Wirklichkeit wird durch gemeinsames Verhalten und den filmischen Ton erfahrbar, obwohl das zentrale Objekt fehlt.
 
-Merksatz: Am Ende spielt Thomas mit, was er nicht sehen kann.
 
 - Er spielt den unsichtbaren Ball zu den Spielern zurück.: Thomas beteiligt sich schließlich durch das Zurückspielen an der Vorstellung.
 - Er schaut zu, weigert sich aber, den Ball zurückzugeben.: Er verweigert die Beteiligung gerade nicht.
@@ -2109,7 +2016,6 @@ Was macht Thomas (David Hemmings) in „Blow Up“ draußen mit dem erbeuteten G
 
 Jeff Beck zertrümmert während des Yardbirds-Auftritts seine Gitarre. Die Menge kämpft um den Hals, den Thomas (David Hemmings) schließlich davonträgt. Außerhalb des Clubs wirft er ihn fort; auch ein Passant behält ihn nicht. Die Szene macht den Wert des Gegenstands vom Kontext abhängig. Das begehrte Objekt besitzt deshalb nicht unabhängig von der Situation dieselbe Bedeutung für jeden Betrachter.
 
-Merksatz: Der Konzertkontext macht den Gitarrenrest zum begehrten Objekt.
 
 - Draußen verkauft Thomas ihn an einen Sammler.: Thomas sucht keinen Käufer für das Stück.
 - Draußen wirft Thomas ihn achtlos weg.: Der Gegenstand verliert außerhalb der Konzertmenge seinen begehrten Status.
@@ -2131,7 +2037,6 @@ Wann wurde „Blow Up“ mit David Hemmings erstmals veröffentlicht?
 
 1966 macht Antonioni fotografische Bilder zur unsicheren Spur eines möglichen Verbrechens. Fünfzehn Jahre später, 1981, greift Brian De Palma in Blow Out eine verwandte Idee über aufgenommene Geräusche auf. Der BFI-Nachweis stellt die Verbindung ausdrücklich her. Der Abstand verankert den Film zeitlich und zeigt zugleich den Medienwechsel: Ein Bildrand wird zum Vorläufer eines entscheidenden Tons.
 
-Merksatz: 1966 Bildspur, 1981 Tonspur: fünfzehn Jahre bis Blow Out.
 
 - 1963: 1963 liegt drei Jahre davor.
 - 1969: 1969 liegt drei Jahre danach.
@@ -2153,7 +2058,6 @@ Wer inszenierte „Blow Up“ mit David Hemmings und Vanessa Redgrave?
 
 Michelangelo Antonioni verlegt sein Rätsel in das moderne London. Der Film folgt Thomas’ (David Hemmings) Blick, liefert aber keine verlässliche Schlussaufklärung des vermuteten Verbrechens. Der BFI-Credit nennt Antonioni; seine beschriebenen Wahrnehmungsfragen erklären, warum das Werk die Form eines Thrillers annimmt und dessen gewohntes Versprechen eindeutiger Beweise zugleich offenhält. Die Kamera führte Carlo Di Palma.
 
-Merksatz: Antonioni lässt den professionellen Blick an Gewissheit scheitern.
 
 - Federico Fellini: Fellini inszenierte diesen Film nicht.
 - Jean-Luc Godard: Godard trägt diesen Credit nicht.
@@ -2179,7 +2083,6 @@ Welche Stelle erhält Peyton (Rebecca De Mornay) in „Die Hand an der Wiege“ 
 
 Unter dem Namen Peyton Flanders gewinnt die Frau (Rebecca De Mornay) das Vertrauen von Claire (Annabella Sciorra) und Michael Bartel (Matt McCoy). Ihre Arbeit gibt ihr Zugang zu den Kindern und den privaten Routinen der Familie. Gerade die scheinbar hilfreiche Stellung ermöglicht es ihr, Bindungen zu verändern und Misstrauen zu säen. Die Gefahr entsteht innerhalb eines Alltags, der ihre Anwesenheit zunächst willkommen heißt.
 
-Merksatz: Die hilfreiche Betreuung verschafft Peyton Zugang zum Familienleben.
 
 - Hausärztin: Sie behandelt die Familie nicht als Ärztin.
 - Kinderbetreuerin: Peyton wird als Kinderbetreuerin eingestellt.
@@ -2201,7 +2104,6 @@ Welche Erkrankung macht Claire (Annabella Sciorra) in „Die Hand an der Wiege�
 
 Claires (Annabella Sciorra) Atemnot ist keine beiläufige Charaktereigenschaft. Stress kann einen Anfall auslösen, und ihre Inhalatoren geben ihr normalerweise Sicherheit. Peyton (Rebecca De Mornay) entleert diese Hilfsmittel. Dadurch verbindet der Film psychische Manipulation mit einer konkreten körperlichen Gefahr: Die Frau, die im Haus Unterstützung leisten soll, greift gezielt auf Wissen zurück, das die Familie ihr im Vertrauen zugänglich gemacht hat.
 
-Merksatz: Peyton macht aus dem bekannten Asthma eine gezielte Gefahr.
 
 - Epilepsie: Epileptische Anfälle sind nicht ihre gezeigte Erkrankung.
 - Diabetes: Eine Unterzuckerung erklärt die Atemnot nicht.
@@ -2223,7 +2125,6 @@ Wie sorgt Peyton (Rebecca De Mornay) in „Die Hand an der Wiege“ für Solomon
 
 Solomon (Ernie Hudson) bemerkt, dass Peyton (Rebecca De Mornay) das Baby heimlich stillt. Sie beseitigt den möglichen Zeugen, indem sie einen belastenden Fund konstruiert. Emma (Madeline Zima) widerspricht zwar dem Verdacht, doch die Erwachsenen schicken den Handwerker fort. Die Intrige zeigt, wie Peyton eine Schutzreaktion der Eltern ausnutzt und dabei einen Menschen isoliert, der den Kindern tatsächlich helfen will.
 
-Merksatz: Ein künstlicher Fund macht aus dem hilfreichen Zeugen einen Verdächtigen.
 
 - Sie versteckt angeblich gestohlenes Geld in seinem Mantel.: Geld in seinem Mantel ist nicht die manipulierte Spur.
 - Sie legt gefälschte Drohbriefe in seine Arbeitsmappe.: Gefälschte Drohbriefe begründen seine Entlassung nicht.
@@ -2245,7 +2146,6 @@ Welchen Verdacht soll das Feuerzeug in Michaels (Matt McCoy) Mantel in „Die Ha
 
 Peyton (Rebecca De Mornay) nimmt Marlenes (Julianne Moore) Feuerzeug und platziert es bei Michael (Matt McCoy). Claire (Annabella Sciorra) deutet den Fund im Zusammenhang mit der früheren Beziehung der beiden. Ihr Vorwurf fällt jedoch mitten in eine Überraschungsfeier für sie. Die vorbereitete Geste der Zuneigung wird so zur öffentlichen Demütigung, und eine weitere vertraute Beziehung gerät unter Druck.
 
-Merksatz: Ein platziertes Feuerzeug verwandelt die Überraschungsfeier in einen Eifersuchtskonflikt.
 
 - Er habe eine Affäre mit Marlene (Julianne Moore).: Das Feuerzeug soll eine intime Beziehung zur früheren Freundin nahelegen.
 - Er habe Marlene heimlich Geld geliehen.: Ein heimliches Darlehen ist nicht der ausgelöste Verdacht.
@@ -2267,7 +2167,6 @@ Wie kommt Marlene (Julianne Moore) in „Die Hand an der Wiege“ Peytons (Rebec
 
 Marlene (Julianne Moore) arbeitet im Immobiliengeschäft und stößt auf die Verbindung zur Familie des verstorbenen Dr. Mott (John de Lancie). Damit lässt sich Peytons (Rebecca De Mornay) angeblich unverdächtige Identität nicht mehr aufrechterhalten. Die Entdeckung entsteht aus Marlenes eigener beruflicher Tätigkeit. Sie macht die bisher als Eifersuchtsrivalin behandelte Freundin zu einer möglichen Helferin, bevor Peyton sie im Gewächshaus tötet.
 
-Merksatz: Die Immobilienarbeit entlarvt die erfundene Identität.
 
 - Durch einen Arztbrief über Peytons Krankenhausaufenthalt: Ein Krankenhausarztbrief ist nicht der entscheidende Fund.
 - Durch Unterlagen zum Verkauf des Hauses der Familie Mott: Der Immobiliennachweis bringt Marlene zur Familie Mott.
@@ -2289,7 +2188,6 @@ Wie täuscht Claire (Annabella Sciorra) in der Schlusskonfrontation von „Die H
 
 Im Dachgeschoss scheint Claire (Annabella Sciorra) wieder an derselben körperlichen Schwäche zu scheitern, die Peyton (Rebecca De Mornay) bereits ausgenutzt hat. Diesmal ist der Anfall gespielt. Als Solomon (Ernie Hudson) Peyton ablenkt, kann Claire handeln und sie aus dem Fenster stoßen. Der Schluss kehrt damit die frühere Informationslage um: Das genaue Wissen über Claires Verwundbarkeit führt die Angreiferin selbst in eine Falle.
 
-Merksatz: Claire verwendet die bekannte Verwundbarkeit als Täuschung.
 
 - Sie täuscht die Ankunft der Polizei vor.: Eine angekündigte Polizeiankunft ist nicht die Täuschung.
 - Sie behauptet, das Baby sei schon in Sicherheit.: Eine Behauptung über das gerettete Baby entscheidet die Szene nicht.
@@ -2311,7 +2209,6 @@ Wann erschien „Die Hand an der Wiege“ mit Rebecca De Mornay und Annabella Sc
 
 1992 inszeniert Curtis Hanson den Thriller über eine zerstörerische Nähe im Familienhaushalt. Fünf Jahre später, 1997, folgt L.A. Confidential: Dort untersucht er Korruption und verflochtene Loyalitäten im Polizeimilieu. Der Abstand verbindet zwei deutlich unterschiedliche Schauplätze seiner Laufbahn. In beiden Fällen verliert eine vertraute Ordnung ihre Glaubwürdigkeit, doch die Bedrohung wechselt vom privaten Haus zum öffentlichen Machtapparat.
 
-Merksatz: 1992 Familienhaushalt, 1997 Polizeimilieu: fünf Jahre bis L.A. Confidential.
 
 - 1988: 1988 liegt vier Jahre davor.
 - 1990: 1990 liegt zwei Jahre davor.
@@ -2333,7 +2230,6 @@ Wer inszenierte „Die Hand an der Wiege“ mit Rebecca De Mornay und Annabella 
 
 Curtis Hanson baut die Bedrohung aus vertrauten häuslichen Gegenständen und Beziehungen auf. Kinderbetreuung, ein Feuerzeug und ein Medikament erhalten durch Peytons (Rebecca De Mornay) Absichten neue Bedeutungen. Der offizielle Disney-Katalog nennt Hanson als Regisseur der Produktion. Die Spannung entsteht über den Unterschied zwischen dem Wissen des Publikums und dem Vertrauen der Familie, deren freundliches Umfeld schrittweise gegen sie verwendet wird.
 
-Merksatz: Hanson macht den vertrauten Haushalt zur Bühne der Manipulation.
 
 - Curtis Hanson: Curtis Hanson führte Regie.
 - Joseph Ruben: Ruben inszenierte diese Produktion nicht.
@@ -2359,7 +2255,6 @@ Was suchen die Eindringlinge in „Warte, bis es dunkel ist“ in Susys (Audrey 
 
 Sam Hendrix (Efrem Zimbalist Jr.) nimmt am Flughafen eine Puppe für eine fremde Frau mit. Er weiß nicht, dass sie als Versteck für Heroin dient. Das alltägliche Kinderobjekt verbindet seine Wohnung mit einem Verbrechen, an dem er selbst nicht beteiligt ist. Für seine Frau Susy (Audrey Hepburn) beginnt die Gefahr deshalb ohne eine bewusste Entscheidung, sich in die Angelegenheiten der Täter einzumischen.
 
-Merksatz: Ein harmlos wirkendes Mitbringsel trägt das Verbrechen ins Haus.
 
 - Ein Schmuckkästchen mit gestohlenen Diamanten: Diamanten sind nicht der Inhalt des gesuchten Gegenstands.
 - Eine Kamera mit Spionageaufnahmen: Die Männer suchen keinen Spionagefilm.
@@ -2381,7 +2276,6 @@ Welche körperliche Einschränkung prägt Susys (Audrey Hepburn) Lage in „Wart
 
 Susy (Audrey Hepburn) kann die angeblichen Besucher nicht anhand ihrer Gesichter überprüfen. Stimmen, Geräusche und Widersprüche im Verhalten werden deshalb zu entscheidenden Informationen. Ihre Wohnung kennt sie dagegen genau. Der Film baut die Bedrohung aus dieser ungleichen Verteilung von Möglichkeiten auf: Die fremden Männer besitzen zunächst mehr sichtbare Informationen, während Susys Orientierung im eigenen Raum später einen Handlungsvorteil eröffnet.
 
-Merksatz: Die Besucher sehen Susy; Susy prüft sie über Stimmen und Verhalten.
 
 - Sie ist gehörlos.: Sie hört ihre Besucher und erkennt viele Vorgänge akustisch.
 - Sie kann nach einer Verletzung nicht laufen.: Eine Gehbehinderung ist nicht ihre zentrale Einschränkung.
@@ -2403,7 +2297,6 @@ Als wen gibt sich Mike Talman (Richard Crenna) in „Warte, bis es dunkel ist“
 
 Mike Talman (Richard Crenna) soll Susy (Audrey Hepburn) als vertrauter Helfer erscheinen, während die anderen Täter bedrohlichere Rollen spielen. Seine erfundene Verbindung zu Sam (Efrem Zimbalist Jr.) erleichtert es, ihre Reaktionen zu steuern und Informationen über die Puppe zu bekommen. Die scheinbare Unterstützung gehört zunächst zur gemeinsamen Intrige. Gerade deshalb wiegt Susys späteres Erkennen der Zusammenarbeit besonders schwer.
 
-Merksatz: Der vermeintliche Freund ist Teil des abgestimmten Spiels.
 
 - Als früherer Kriegskamerad ihres Mannes: Die behauptete Kriegskameradschaft soll persönliches Vertrauen schaffen.
 - Als Mitarbeiter ihrer Versicherung: Eine Versicherungsfunktion gehört nicht zu seiner Rolle.
@@ -2425,7 +2318,6 @@ Welche Entdeckung hilft Susy (Audrey Hepburn) und Gloria (Julie Herrod) in „Wa
 
 Susy (Audrey Hepburn) möchte Mike (Richard Crenna) mitteilen, dass die Puppe wieder da ist. Gloria (Julie Herrod) hilft ihr jedoch zu erkennen, wohin dessen Telefonnummer tatsächlich führt. Damit verlieren die getrennt auftretenden Besucher ihre angebliche Unabhängigkeit. Ein kleines überprüfbares Detail widerspricht den erzählten Identitäten und ermöglicht Susy, die Bedrohung als gemeinsamen Plan statt als mehrere zufällige Begegnungen zu begreifen.
 
-Merksatz: Ein überprüfter Telefonanschluss verbindet die scheinbar getrennten Besucher.
 
 - Sams angeblicher Arbeitgeber wohnt im selben Haus.: Ein Arbeitgeber im Haus liefert diese Aufklärung nicht.
 - Mikes angegebene Telefonnummer führt zur Telefonzelle gegenüber.: Der Anschluss zeigt, dass Mike ganz in der Nähe bei den anderen Tätern bleibt.
@@ -2447,7 +2339,6 @@ Welche unerwartete Lichtquelle verschafft Roat (Alan Arkin) in der Schlusskonfro
 
 Susy (Audrey Hepburn) zerstört die erreichbaren Lampen, um die Unterschiede zwischen ihr und Roat (Alan Arkin) zu verringern. Der Kühlschrank bewahrt jedoch eine kleine Lichtquelle. Seine offene Tür gibt dem Täter erneut einen Vorteil. Susy muss deshalb auch diesen Stromanschluss erreichen. Das Finale entwickelt seine Gefahr aus der genauen Ausstattung des Raums, dessen gewöhnliche Haushaltsgeräte plötzlich über ihre Chancen entscheiden.
 
-Merksatz: Der Kühlschrank enthält die übersehene Lampe.
 
 - Eine Taschenlampe in Sams Kameratasche: Die entscheidende Lichtquelle ist keine Taschenlampe.
 - Das beleuchtete Zifferblatt von Susys Wecker: Ein Wecker hebt die Dunkelheit nicht auf.
@@ -2469,7 +2360,6 @@ Womit zwingt Roat (Alan Arkin) in „Warte, bis es dunkel ist“ Talman (Richard
 
 Roat (Alan Arkin) hat Lisa (Samantha Jones) bereits getötet, als Talman (Richard Crenna) und Carlino (Jack Weston) eintreffen. Die beiden haben ohne Vorsicht Gegenstände angefasst. Roat stellt ihre Spuren als mögliche Beweise gegen sie dar und zwingt sie zur Beseitigung der Leiche sowie zur Suche nach der Puppe. Die scheinbare Tätergemeinschaft beginnt dadurch mit einer Drohung innerhalb der eigenen Gruppe.
 
-Merksatz: Die unbedacht hinterlassenen Spuren machen die Helfer erpressbar.
 
 - Mit einem gefälschten Haftbefehl wegen Drogenbesitzes: Ein gefälschter Haftbefehl ist nicht sein Druckmittel.
 - Mit einer Schuldverschreibung über gestohlenes Geld: Eine schriftliche Geldschuld zwingt sie nicht zur Beteiligung.
@@ -2491,7 +2381,6 @@ Wann erschien „Warte, bis es dunkel ist“ mit Audrey Hepburn erstmals im Kino
 
 1967 überträgt der Film Frederick Knotts Bühnenstück auf die Leinwand. Die Vorlage hatte 1966 am Broadway begonnen; zwischen Theaterpremiere und Kinojahr liegt nur ein Jahr. Das AFI dokumentiert beide Daten und den Erwerb der Filmrechte bereits vor dem Bühnendebüt. Die kurze Verbindung erklärt, warum die abgeschlossene Wohnung und das genau organisierte Auftreten der Besucher den Film so stark prägen.
 
-Merksatz: 1966 Broadway, 1967 Kino: ein Jahr von der Bühne zur Leinwand.
 
 - 1967: Der New Yorker Kinostart fand 1967 statt.
 - 1964: 1964 liegt drei Jahre davor.
@@ -2513,7 +2402,6 @@ Wer führte bei „Warte, bis es dunkel ist“ mit Audrey Hepburn und Alan Arkin
 
 Terence Young konzentriert die Auseinandersetzung zwischen Susy (Audrey Hepburn) und ihren Besuchern auf einen überschaubaren Raum. Der AFI-Katalog unterscheidet seinen Regiecredit ausdrücklich von Mel Ferrers Produktion. Die Wohnung muss als genauer Handlungsraum verständlich bleiben, damit spätere Bewegungen, Geräusche und Lichtquellen Bedeutung erhalten. Die Spannung hängt deshalb nicht allein von einer überraschenden Enthüllung ab, sondern auch von der räumlichen Orientierung des Publikums.
 
-Merksatz: Young baut die Spannung aus der genau bekannten Wohnung auf.
 
 - Stanley Donen: Donen inszenierte diese Produktion nicht.
 - Terence Young: Terence Young führte Regie.
@@ -2539,7 +2427,6 @@ Welcher Berufsgruppe gehört der entführte Radcliffe (Aubrey Richards) in „Ip
 
 Harry Palmer (Michael Caine) wird auf den verschwundenen Radcliffe (Aubrey Richards) angesetzt. Dessen Entführung steht im Zusammenhang mit weiteren Spitzenwissenschaftlern, die ihre Arbeit unvermittelt aufgegeben haben. Die Gefahr betrifft damit nicht nur das Leben eines einzelnen Mannes. Wissen und geistige Arbeitsfähigkeit werden zu Zielen des Machtkampfs. Was zunächst wie eine gewöhnliche Befreiungsaufgabe aussieht, verlangt deshalb eine andere Erklärung für das Verhalten der Betroffenen.
 
-Merksatz: Die Entführung zielt auf wissenschaftliches Wissen.
 
 - Diplomaten: Er ist kein entführter Diplomat.
 - Bankiers: Ein Bankgeschäft bildet nicht den Hintergrund seines Verschwindens.
@@ -2561,7 +2448,6 @@ Welches alltägliche Interesse von Harry Palmer (Michael Caine) betont „Ipcres
 
 Palmer (Michael Caine) lebt in einer Londoner Wohnung und kann sich für die Zubereitung eines Omeletts begeistern. Der BFI beschreibt diesen Alltag ausdrücklich als Unterschied zum luxuriösen Agentenbild James Bonds. Seine kleinen privaten Vorlieben geben dem Mann eine konkrete Lebenswelt außerhalb des Dienstes. Sie stehen neben einem Beruf, dessen Vorgesetzte ihn als austauschbares Werkzeug behandeln und von ihm Gehorsam verlangen.
 
-Merksatz: Das Omelett gehört zu Palmers Alltag jenseits des Dienstes.
 
 - Er kocht gern gutes Essen.: Seine Kochvorliebe prägt den ausdrücklich beschriebenen Alltag.
 - Er züchtet tropische Zierfische.: Fischzucht ist nicht das hervorgehobene Interesse.
@@ -2583,7 +2469,6 @@ Warum vermutet Harry Palmer (Michael Caine) in „Ipcress – streng geheim“, 
 
 Jock Carswell (Gordon Jackson) glaubt, die Bedeutung des gefundenen Materials zu verstehen, und möchte Radcliffe (Aubrey Richards) aufsuchen. Er leiht sich Harry Palmers (Michael Caine) Wagen, erreicht den Wissenschaftler aber nicht. Palmer deutet die Tat deshalb als mögliche Verwechslung des vorgesehenen Opfers. Die Untersuchung verliert einen Helfer und gewinnt zugleich eine persönliche Gefahr, die sich gegen Palmer selbst zu richten scheint.
 
-Merksatz: Das geliehene Auto macht Carswells Tod für Palmer zur Warnung.
 
 - Carswell hatte Palmers Namen in der Zeitung veröffentlicht.: Ein Zeitungsartikel erklärt Palmers Vermutung nicht.
 - Carswell hatte sich Palmers Auto geliehen.: Carswell fuhr mit dem Wagen, der Palmer zugeordnet werden konnte.
@@ -2605,7 +2490,6 @@ Wo befindet sich Harry Palmers (Michael Caine) angeblich albanisches Gefängnis 
 
 Harry Palmer (Michael Caine) wird eine Gefangenschaft hinter dem Eisernen Vorhang vorgespiegelt. Nach dem Entkommen erkennt er seine Umgebung als London. Die vermeintliche Entfernung von vertrauter Hilfe war Teil der Einschüchterung. Der Film verbindet die Täuschung über einen Ort mit der größeren Unsicherheit des Falls: Die gefährlichen Vorgänge müssen nicht außerhalb der eigenen Gesellschaft oder weit von ihren Institutionen stattfinden.
 
-Merksatz: Das fremde Gefängnis liegt in der eigenen Stadt.
 
 - In Ost-Berlin: Das Verhörgebäude liegt nicht in Ost-Berlin.
 - In Rotterdam: Eine niederländische Stadt ist nicht der tatsächliche Standort.
@@ -2627,7 +2511,6 @@ Was hilft Harry Palmer (Michael Caine) im Finale von „Ipcress – streng gehei
 
 Major Dalby (Nigel Green) setzt im Finale den eingeprägten Befehl gegen Harry Palmer (Michael Caine) ein. Palmer soll den angeblichen Verräter erschießen, weiß aber nicht sicher, welcher Vorgesetzte ihm die Wahrheit sagt. Der Schmerz seiner Hand führt ihm die Manipulation vor Augen. Damit gewinnt er einen Moment eigener Entscheidung zurück, den die Behandlung ihm nehmen sollte, und erkennt Dalbys gefährlichen Zugriff.
 
-Merksatz: Der Schmerz unterbricht die fremde Steuerung.
 
 - Die Melodie eines vertrauten Liedes aus seiner Kindheit: Eine Kindheitsmelodie ist nicht der auslösende Reiz.
 - Die wiederholte Nennung seiner persönlichen Dienstnummer: Seine Dienstnummer löst die Manipulation nicht auf.
@@ -2649,7 +2532,6 @@ Welche Bildgestaltung beschreibt der BFI als Besonderheit von „Ipcress – str
 
 Regisseur Sidney J. Furie und Kameramann Otto Heller verwenden das breite Bild nicht nur zur übersichtlichen Darstellung des Falls. Der BFI hebt große Farbflächen und ungewöhnlich an den Bildrand gedrängte Gesichter hervor. Die Komposition lässt Figuren in ihrer Umgebung eingeengt erscheinen. Die stilisierte Anordnung passt zu einem Agenten, der die Interessen seiner Vorgesetzten kaum durchschaut und selbst immer wieder zum Gegenstand ihrer Pläne wird.
 
-Merksatz: Das breite Bild setzt die Figuren unter sichtbaren Druck.
 
 - Gesichter am Rand häufig schräg komponierter Bilder: Der BFI hebt die schrägen Kompositionen und ungewöhnlichen Bildränder hervor.
 - Enge Frontalaufnahmen mit Gesichtern in symmetrischer Mitte: Symmetrisch mittige Frontalbilder sind nicht die hervorgehobene Gestaltung.
@@ -2671,7 +2553,6 @@ Wann erschien „Ipcress – streng geheim“ mit Michael Caine erstmals im Kino
 
 1965 beginnt Michael Caines Harry-Palmer-Filmreihe mit diesem Fall. 1966 folgt Funeral in Berlin, nur ein Jahr später; 1967 erscheint Billion Dollar Brain, zwei Jahre nach dem Auftakt. Die vom BFI dokumentierte Folge zeigt, wie schnell aus dem zunächst einzelnen Gegenentwurf zum luxuriösen Agentenbild eine Reihe wird. Die Zeitverknüpfung betrifft die ersten Kinofilme und vermischt sie nicht mit späteren Fernsehfassungen.
 
-Merksatz: 1965 Auftakt, 1966 erste und 1967 zweite Fortsetzung: ein und zwei Jahre Abstand.
 
 - 1962: 1962 liegt drei Jahre davor.
 - 1965: Der Film wurde 1965 veröffentlicht.
@@ -2693,7 +2574,6 @@ Wer inszenierte „Ipcress – streng geheim“ mit Michael Caine und Nigel Gree
 
 Sidney J. Furie stellt Harry Palmers (Michael Caine) Spionagearbeit in einem wenig glamourösen London dar. Der BFI nennt ihn als Regisseur und erläutert die spätere Fortsetzung unter anderen Filmemachern. Die gemeinsamen Hauptfigur und Produktionsverbindungen machen die Filme noch nicht zu Werken desselben Regisseurs. Gerade bei einer Reihe muss der Credit deshalb für den einzelnen Titel statt aus der Wiederkehr des Darstellers bestimmt werden.
 
-Merksatz: Furie inszeniert Palmers Auftakt; die Fortsetzungen wechseln den Regisseur.
 
 - Guy Hamilton: Hamilton inszenierte später Funeral in Berlin, nicht diesen Auftakt.
 - Ken Russell: Russell inszenierte später Billion Dollar Brain.
@@ -2719,7 +2599,6 @@ Welches Bild soll Alec Leamas (Richard Burton) in „Der Spion, der aus der Käl
 
 Control (Cyril Cusack) lässt Alec Leamas (Richard Burton) scheinbar aus dem britischen Dienst fallen. Der sichtbare soziale Abstieg soll ostdeutsche Werber überzeugen, dass Leamas gegen Geld Geheimnisse verraten könnte. Sein schlechtes Ansehen ist deshalb Teil einer geplanten Rolle. Das Publikum folgt einem Mann, dessen Verhalten öffentlich glaubwürdig wirken muss, obwohl seine Auftraggeber ihm den gesamten Zweck des Plans nicht erklären.
 
-Merksatz: Der inszenierte Absturz macht Leamas für die Gegenseite interessant.
 
 - Ein verbitterter, alkoholkranker ehemaliger Agent: Der inszenierte Abstieg soll ihn als käuflichen Überläufer erscheinen lassen.
 - Ein wohlhabender Kunsthändler mit geheimen Kontakten: Ein Kunsthandelsgeschäft gehört nicht zu seiner Tarnung.
@@ -2741,7 +2620,6 @@ Wo lernt Alec Leamas (Richard Burton) in „Der Spion, der aus der Kälte kam“
 
 Nan Perry (Claire Bloom) arbeitet mit Alec Leamas (Richard Burton) in einer Bibliothek und beginnt eine Beziehung mit ihm. Ihr politischer Idealismus steht neben seiner Müdigkeit und seinem misstrauischen Blick auf den Dienst. Die scheinbar zivile Begegnung schafft eine Bindung, die seine Auftraggeber später in den Plan hineinziehen. Sein privates Verhältnis lässt sich dadurch nicht zuverlässig von den Interessen der Geheimdienste abschirmen.
 
-Merksatz: Die zivile Bibliotheksbegegnung wird in den Spionageplan hineingezogen.
 
 - In einem Krankenhaus nach seiner Rückkehr: Eine Krankenhausbegegnung ist nicht ihr Kennenlernen.
 - In der Bibliothek, in der beide arbeiten: Leamas begegnet Nan bei der gemeinsamen Bibliotheksarbeit.
@@ -2763,7 +2641,6 @@ Wessen Loyalität untersucht Fiedler (Oskar Werner) mit Leamas’ (Richard Burto
 
 Jens Fiedler (Oskar Werner) setzt Leamas’ (Richard Burton) Angaben zu Hans-Dieter Mundt (Peter van Eyck) zusammen. Er prüft, ob sein eigener Vorgesetzter von den Briten bezahlt wird. Leamas liefert das Material, bestätigt die Schlussfolgerung aber zunächst nicht offen. Die Befragung wird dadurch zu einem Machtkonflikt innerhalb des ostdeutschen Dienstes, in dem ein vermeintlicher Überläufer als Belastungszeuge gegen einen mächtigen Funktionär dient.
 
-Merksatz: Die Aussage des Überläufers richtet sich gegen Fiedlers eigenen Chef.
 
 - Nan (Claire Bloom): Nan ist nicht Gegenstand seines ursprünglichen Spionageverdachts.
 - Peters (Sam Wanamaker): Peters ist nicht der Vorgesetzte, gegen den er den Fall aufbaut.
@@ -2785,7 +2662,6 @@ Was entkräftet vor dem Tribunal in „Der Spion, der aus der Kälte kam“ Leam
 
 Nan Perry (Claire Bloom) glaubt, zu einem kulturellen Austausch in die DDR zu reisen. Vor dem Tribunal erzählt sie jedoch von der Unterstützung durch einen britischen Geheimdienstmann. Ihre gutgläubige Aussage beschädigt Leamas’ (Richard Burton) behaupteten Bruch mit seinen Auftraggebern. Ein privater Hilfsakt wird zum Gegenbeweis in einem Verhör, dessen politische Funktion sie nicht überblickt und dessen Ausgang bereits von anderen vorbereitet wurde.
 
-Merksatz: Die private Unterstützung wird im Tribunal zum Beweis gegen die Tarnung.
 
 - Ein Foto zeigt Leamas bei einer britischen Dienstbesprechung.: Ein Foto einer Dienstbesprechung ist nicht der entscheidende Gegenbeweis.
 - Ein Brief beweist einen neuen Dienstvertrag für Leamas.: Ein neuer schriftlicher Dienstvertrag wird nicht vorgelegt.
@@ -2807,7 +2683,6 @@ Welches britische Ziel im Fall Mundt (Peter van Eyck) und Fiedler (Oskar Werner)
 
 Alec Leamas (Richard Burton) glaubt, belastendes Material gegen Mundt (Peter van Eyck) in den ostdeutschen Dienst einzuschleusen. Erst nach dem Tribunal versteht er, dass seine eigene Seite Mundt als Informanten schützen will. Fiedler (Oskar Werner) ist gefährlich geworden, weil er der Wahrheit zu nahe kommt. Leamas’ vermeintliches Scheitern gehört zum gewünschten Ergebnis. Die Enthüllung zeigt, wie wenig der eingesetzte Agent selbst von den Interessen seiner Auftraggeber weiß.
 
-Merksatz: Der scheinbar gescheiterte Auftrag ist für die Auftraggeber erfolgreich.
 
 - Mundt schützen und Fiedler ausschalten: Mundt soll als britischer Informant erhalten und Fiedler ausgeschaltet werden.
 - Mundt verhaften und zur britischen Botschaft bringen: Mundts Festnahme in britischem Interesse ist nicht das wirkliche Ziel.
@@ -2829,7 +2704,6 @@ Wofür entscheidet sich Leamas (Richard Burton) am Ende von „Der Spion, der au
 
 Alec Leamas (Richard Burton) hat den höchsten Punkt der Berliner Mauer erreicht, als Nan Perry (Claire Bloom) im Licht der Grenzsicherung erschossen wird. Er könnte weiter in den Westen gelangen. Stattdessen steigt er zu ihr hinab und stirbt ebenfalls. Seine letzte Bewegung beendet die Logik eines Auftrags, der Menschen nach ihrem Nutzen behandelt: Er entscheidet sich für die verlorene private Bindung statt für die vorgesehene Rettung.
 
-Merksatz: Der mögliche Weg in den Westen wird zugunsten Nans aufgegeben.
 
 - Er springt sofort allein auf die Westseite.: Er nimmt die Möglichkeit zur Flucht in den Westen nicht wahr.
 - Er steigt auf der Ostseite zu ihrem Körper zurück.: Leamas entscheidet sich für die Rückkehr zu Nan.
@@ -2851,7 +2725,6 @@ Wann erschien „Der Spion, der aus der Kälte kam“ mit Richard Burton erstmal
 
 1965 kommt Martin Ritts Verfilmung auf die Leinwand. John le Carrés Roman war 1963 erschienen; nur zwei Jahre trennen Buch und Film. Die offizielle Autorenseite nennt beide Veröffentlichungen. Der kurze Abstand verankert das Werk mitten im Kalten Krieg: Die Handlung blickt nicht aus Jahrzehnten Entfernung auf die Berliner Grenze, sondern macht eine zeitgenössische politische Wirklichkeit zum Schauplatz moralischer Verstrickung.
 
-Merksatz: 1963 Roman, 1965 Film: zwei Jahre bis zur Verfilmung.
 
 - 1962: 1962 liegt drei Jahre davor.
 - 1968: 1968 liegt drei Jahre danach.
@@ -2873,7 +2746,6 @@ Wer inszenierte „Der Spion, der aus der Kälte kam“ mit Richard Burton und C
 
 Martin Ritt gestaltet Leamas’ (Richard Burton) Einsatz als nüchternen und tragischen Auftrag. Criterion nennt den Regiecredit und hebt den politischen und sozialen Blick der Inszenierung hervor. Die Geheimdienste erscheinen durch ihre Behandlung der Beteiligten, deren private Beziehungen sich ihren Plänen nicht entziehen können. Der einzelne Mann besitzt dabei deutlich weniger Kontrolle als das Bild eines souveränen, stets bestens informierten Filmagenten erwarten ließe.
 
-Merksatz: Ritt zeigt den Agenten als abhängigen Beteiligten einer größeren Intrige.
 
 - Sidney Lumet: Lumet inszenierte diese Verfilmung nicht.
 - John Frankenheimer: Frankenheimer trägt diesen Credit nicht.
@@ -2899,7 +2771,6 @@ Welchen Auftrag erhält der bereits pensionierte Smiley (Gary Oldman) in „Dame
 
 George Smiley (Gary Oldman) kehrt für eine verdeckte Untersuchung aus dem Ruhestand zurück. Der Verdacht richtet sich nicht auf einen unbekannten Außenseiter, sondern auf den kleinen Kreis an der Spitze seines früheren Dienstes. Er muss deshalb vertraute Personen und alte Abläufe erneut betrachten. Der Auftrag verlagert Spionage vom sichtbaren Gegenspieler in die eigene Institution, deren vermeintlich erfolgreiche Arbeit bereits unterwandert sein könnte.
 
-Merksatz: Der gesuchte Feind sitzt in der vertrauten eigenen Führung.
 
 - Einen verschwundenen britischen Informanten in Moskau aufspüren: Eine Informantensuche in Moskau ist nicht sein Auftrag.
 - Einen sowjetischen Maulwurf in der eigenen Dienstführung finden: Der Verdacht richtet sich gegen die eigene Führung.
@@ -2921,7 +2792,6 @@ In welcher neuen Tätigkeit findet Smiley (Gary Oldman) in „Dame, König, As, 
 
 Jim Prideaux (Mark Strong) lebt nach dem gescheiterten Einsatz in Budapest scheinbar außerhalb der aktiven Spionage. In der Schule gibt er Unterricht und knüpft Kontakt zu einem einsamen Jungen. George Smiley (Gary Oldman) braucht dennoch seine Erinnerungen an den Auftrag. Der neue Alltag trennt ihn äußerlich vom Dienst, schützt ihn aber nicht vor dessen alten Loyalitäten und den Folgen seiner Gefangenschaft.
 
-Merksatz: Der ehemalige Einsatzmann lebt als Lehrer mit den Folgen des Dienstes.
 
 - Als Übersetzer bei der Botschaft: Er wird nicht im Übersetzungsdienst der Botschaft gefunden.
 - Als Fahrer eines Londoner Taxiunternehmens: Ein Taxiunternehmen ist nicht seine neue Arbeitsstelle.
@@ -2943,7 +2813,6 @@ Was findet Smiley (Gary Oldman) in „Dame, König, As, Spion“ im von Guillam 
 
 Ricki Tarr (Tom Hardy) hatte aus Istanbul gewarnt, eine sowjetische Quelle könne einen Maulwurf benennen. Peter Guillam (Benedict Cumberbatch) beschafft das Dienstbuch, mit dem sich diese Meldung prüfen ließe. George Smiley (Gary Oldman) findet stattdessen eine Lücke. Das Fehlen ist selbst eine Information: Jemand mit internem Zugriff hat die Spur entfernt, wodurch Tarrs unglaubwürdig erscheinende Geschichte an Gewicht gewinnt.
 
-Merksatz: Die entfernten Seiten belegen den internen Zugriff auf die Warnung.
 
 - Die Meldung wurde unter einem falschen Datum eingetragen.: Ein falscher Datumsvermerk ist nicht die Entdeckung.
 - Ein fremder Offizier hat den Empfang der Meldung quittiert.: Eine fremde Empfangsunterschrift liefert nicht den Hinweis.
@@ -2965,7 +2834,6 @@ Was hatte Connie Sachs (Kathy Burke) in „Dame, König, As, Spion“ über Poly
 
 Connie Sachs (Kathy Burke) hat Alexei Polyakov (Konstantin Khabensky) als militärischen Akteur erkannt und vermutet eine Verbindung zu einem Maulwurf in London. Die Dienstführung schickt sie fort, statt ihre Analyse weiterzuverfolgen. George Smiley (Gary Oldman) kann deshalb außerhalb der offiziellen Akten auf eine bereits vorhandene, unterdrückte Erkenntnis zurückgreifen. Die Aufklärung beginnt auch damit, den institutionell verlorenen Sachverstand wieder ernst zu nehmen.
 
-Merksatz: Die entlassene Analystin hatte eine entscheidende Tarnung bereits erkannt.
 
 - Der Kulturattaché ist in Wirklichkeit ein Militärmann.: Sie erkennt seine militärische Funktion hinter der kulturellen Tarnung.
 - Er hat früher die britische Außenstelle in Moskau geführt.: Eine Leitung der britischen Außenstelle wird nicht entdeckt.
@@ -2987,7 +2855,6 @@ Was ist die verborgene Funktion der Operation Witchcraft in „Dame, König, As,
 
 Die neue Führung hält Witchcraft für einen großen Nachrichtenerfolg. Smiley (Gary Oldman) erkennt dagegen den umgekehrten Informationsfluss: Der Maulwurf gibt britische Geheimnisse an Polyakov (Konstantin Khabensky). Die sowjetischen Köder sollen außerdem die CIA zu engerem Austausch bewegen, sodass auch amerikanisches Wissen zugänglich wird. Die Operation gewinnt ihren Nutzen gerade daraus, dass die Beteiligten sie als eigenen Erfolg verteidigen und ihre Sicherheitszweifel unterdrücken.
 
-Merksatz: Der gefeierte Nachrichtenerfolg ist ein Köder für den Zugang zu weiteren Geheimnissen.
 
 - Britische Köder sollen den sowjetischen Gegenspieler nach London locken.: Ein Anlocken des Gegenspielers nach London ist nicht die Funktion.
 - Sowjetische Köder sollen britische und amerikanische Geheimnisse erschließen.: Der vermeintliche Erfolg öffnet den Weg zum eigenen und zum CIA-Wissen.
@@ -3009,7 +2876,6 @@ Wozu dient Haydons (Colin Firth) Affäre mit Ann (Katrina Vasilieva) gegenüber 
 
 Bill Haydon (Colin Firth) bestätigt George Smiley (Gary Oldman), dass die Beziehung zu dessen Frau Ann (Katrina Vasilieva) auf Karlas (Stimme: Michael Sarne) Anweisung entstand. Die Affäre ist deshalb mehr als eine private Untreue im Umfeld des Falls. Der Gegner nutzt Smileys Gefühle als Teil der Abschirmung seines Maulwurfs. Die Untersuchung verlangt von Smiley, diese eigene Verletzung zu erkennen, ohne sie zum alleinigen Maßstab seines Urteils zu machen.
 
-Merksatz: Die private Verletzung soll den professionellen Blick auf Haydon stören.
 
 - Ihn zur freiwilligen Pensionierung bewegen: Eine freiwillige Pensionierung ist nicht der bestätigte Zweck.
 - Seine Wohnung für Treffen sowjetischer Agenten nutzen: Eine Nutzung des Hauses als sowjetischer Treffpunkt ist nicht das Ziel.
@@ -3031,7 +2897,6 @@ Wann wurde „Dame, König, As, Spion“ mit Gary Oldman erstmals veröffentlich
 
 2011 adaptiert der Film John le Carrés Roman, der 1974 erstmals erschienen war. Zwischen Buch und Kinofilm liegen 37 Jahre. Focus Features dokumentiert die Entstehung der Vorlage und ihren Ort im Spionagezyklus. Der große Abstand ermöglicht eine historische Gestaltung der Dienstwelt, während das Rätsel um Loyalität und institutionelles Vertrauen bestehen bleibt. Das Filmjahr ist daher vom Zeitraum der dargestellten Geheimdienstarbeit zu unterscheiden.
 
-Merksatz: 1974 Roman, 2011 Kino: 37 Jahre bis zu dieser Verfilmung.
 
 - 2007: 2007 liegt vier Jahre davor.
 - 2009: 2009 liegt zwei Jahre davor.
@@ -3053,7 +2918,6 @@ Wer inszenierte „Dame, König, As, Spion“ mit Gary Oldman und Colin Firth?
 
 Tomas Alfredson bringt einen schwedischen Blick auf die britische Dienstwelt. Im offiziellen Produktionsbericht betont Produzentin Robyn Slovo, dass dieser Blick von außen eine weniger vertraute Perspektive ermöglicht. Die Inszenierung beobachtet die Institution über Räume, Gesichter und zurückhaltende Begegnungen. Das Publikum muss Hinweise ähnlich sorgfältig zusammensetzen wie George Smiley (Gary Oldman), dessen Untersuchung lange ohne offene Konfrontation auskommt.
 
-Merksatz: Alfredsons Blick von außen beobachtet die britische Institution.
 
 - Tomas Alfredson: Tomas Alfredson führte Regie.
 - Thomas Vinterberg: Vinterberg inszenierte diese Produktion nicht.
@@ -3079,7 +2943,6 @@ Was stiehlt Thomas Crown (Pierce Brosnan) in „Die Thomas Crown Affäre“ aus 
 
 Thomas Crown (Pierce Brosnan) nutzt einen auffälligen anderen Einbruchsversuch als Ablenkung. Während die Aufmerksamkeit auf die gefassten Täter gerichtet ist, verschwindet das Monet-Gemälde mit ihm. Der spätere Fall handelt deshalb von einem Kunstraub, bei dem der wichtigste Mann zunächst nicht zu den sichtbaren Festgenommenen gehört. Die Beute unterscheidet diese Fassung zudem vom Bankraub der früheren Thomas-Crown-Verfilmung.
 
-Merksatz: Der sichtbare Einbruch verdeckt den entscheidenden Bilderdiebstahl.
 
 - Ein Gemälde von Édouard Manet: Manet ist nicht der Maler des gestohlenen Werks.
 - Ein Gemälde von Vincent van Gogh: Der erste Raub gilt keinem Van-Gogh-Gemälde.
@@ -3101,7 +2964,6 @@ Welche Motivation vermutet Catherine Banning (Rene Russo) hinter Crowns (Pierce 
 
 Catherine Banning (Rene Russo) nimmt Thomas Crowns (Pierce Brosnan) Reichtum ernst: Für ihn wäre der Wert der Beute kein ausreichender Grund, das Risiko einzugehen. Sie betrachtet den Diebstahl als Spiel gegen ein scheinbar sicheres System. Damit verändert sich auch ihre Untersuchung. Sie muss einen Mann einschätzen, dessen Erfolg nicht nur von Geld, sondern von dem Vergnügen abhängt, andere mit einem vorbereiteten Plan zu überlisten.
 
-Merksatz: Der reiche Täter sucht Herausforderung statt eine finanzielle Rettung.
 
 - Eine drohende private Zahlungsunfähigkeit: Der wohlhabende Crown ist nicht wegen Zahlungsunfähigkeit zum Raub gezwungen.
 - Die Rettung eines Familienbesitzes vor Versteigerung: Eine drohende Familienversteigerung erklärt den Kunstraub nicht.
@@ -3123,7 +2985,6 @@ Was entdeckt Banning (Rene Russo) in „Die Thomas Crown Affäre“ bei der heim
 
 Catherine Banning (Rene Russo) lässt nach dem gemeinsamen Essen Crowns (Pierce Brosnan) Schlüssel kopieren. Die Suche scheint ihr zunächst den erwünschten Beweis zu geben. Hinter dem vermeintlichen Monet verbirgt sich jedoch ein anderes Bild. Crown hat damit die erwartbare Ermittlungsreaktion in sein Spiel einbezogen. Die Durchsuchung liefert keine einfache Bestätigung, sondern zeigt ihr, dass er ihren nächsten Schritt bereits vorausgesehen hat.
 
-Merksatz: Der erwartete Beweis ist Crowns vorbereiteter Scherz.
 
 - Eine Monet-Imitation über einem Bild pokerspielender Hunde: Die gefundene Imitation ist über ein anderes Bild gemalt.
 - Den echten Monet hinter einem zweiten Bild im Rahmen: Der originale Monet wird bei dieser Suche nicht gefunden.
@@ -3145,7 +3006,6 @@ Welche tatsächliche Verbindung hat Anna (Esther Cañadas) zu Crown (Pierce Bros
 
 Fotos von Anna (Esther Cañadas) mit Thomas Crown (Pierce Brosnan) wecken Catherine Bannings (Rene Russo) Eifersucht. Später erfährt sie, dass der inhaftierte Heinrich Knutzhorn (Mark Margolis) Annas Vater ist und Crown für sie Verantwortung übernommen hat. Die Verbindung erklärt die Qualität der Fälschungen. Eine scheinbar private Rivalin gehört damit zur technischen Durchführung des Raubs, während Bannings erste Deutung ihre Gefühle offenlegt.
 
-Merksatz: Die vermeintliche Rivalin erklärt die professionellen Bildkopien.
 
 - Sie ist seine heimlich angetraute Ehefrau.: Die vermutete romantische Konkurrenz ist keine geheime Ehe.
 - Sie ist die Tochter eines Fälschers und fertigt für ihn die Bildkopien.: Anna ist die Tochter des inhaftierten Fälschers und arbeitet an den Kopien.
@@ -3167,7 +3027,6 @@ Wie erschwert Crown (Pierce Brosnan) in der Museumsszene von „Die Thomas Crown
 
 Thomas Crown (Pierce Brosnan) zeigt sich im Museum scheinbar gut erkennbar. Dann mischt er sich unter Männer, die dasselbe auffällige Erscheinungsbild tragen. Die Melonenhüte erinnern an René Magrittes Der Sohn des Menschen. Die Beamten verlieren gerade durch die vielen sichtbaren Hinweise die eindeutige Zuordnung. Der Plan verwandelt eine erwartete Stärke der Überwachung in ein Problem: Ein wiedererkennbares Merkmal hilft nicht, wenn es gezielt vervielfacht wird.
 
-Merksatz: Die vervielfachte Silhouette macht den sichtbaren Täter schwer auffindbar.
 
 - Mit vertauschten Namensschildern des Museumspersonals: Namensschilder sind nicht die entscheidende Ablenkung.
 - Mit einem gefälschten Polizeiausweis am Seiteneingang: Er löst das Problem nicht durch einen vorgezeigten Polizeiausweis.
@@ -3189,7 +3048,6 @@ Wo befindet sich der echte Monet in „Die Thomas Crown Affäre“ unmittelbar v
 
 Crown (Pierce Brosnan) hat dem Museum scheinbar einen Pissarro als Ersatz für die gestohlene Beute geliehen. Tatsächlich ließ er den Monet übermalen und auf diese Weise früh zurückbringen. Das Wasser der Sprinkleranlage entfernt die obere Schicht. Die spektakuläre Rückgabe ist deshalb nicht der unbemerkte Transport eines neuen Gegenstands, sondern die sichtbare Aufdeckung eines Bildes, das längst vor den Augen der Ermittler hing.
 
-Merksatz: Die Rückgabe enthüllt, was bereits an der Wand hängt.
 
 - Im doppelten Boden des mitgebrachten Trojanischen Pferdes: Das Trojanische Pferd dient dem früheren Ablenkungsversuch.
 - In Bannings Gepäck im bewachten Museumsbüro: Banning trägt den echten Monet nicht im Museumsbüro bei sich.
@@ -3211,7 +3069,6 @@ Wann erschien „Die Thomas Crown Affäre“ mit Pierce Brosnan und Rene Russo e
 
 1999 übernimmt Pierce Brosnan die Figur Thomas Crown, die Steve McQueen 1968 gespielt hatte. Zwischen den beiden Kinofassungen liegen 31 Jahre. Das AFI stellt die Verbindung und John McTiernans Regie ausdrücklich her. Der zeitliche Vergleich erklärt auch die veränderte Beute: Die Neuverfilmung ersetzt den Bankraub durch Kunstdiebstahl und behält das Duell zwischen einem reichen Täter und einer ebenso entschlossenen Ermittlerin bei.
 
-Merksatz: 1968 McQueen, 1999 Brosnan: 31 Jahre zwischen den Kinofassungen.
 
 - 1999: Die Neuverfilmung erschien 1999.
 - 1995: 1995 liegt vier Jahre davor.
@@ -3233,7 +3090,6 @@ Wer inszenierte „Die Thomas Crown Affäre“ mit Pierce Brosnan und Rene Russo
 
 John McTiernan inszeniert das Duell von Thomas Crown (Pierce Brosnan) und Catherine Banning (Rene Russo) als Verbindung aus Kunstraub und wechselseitiger Verführung. Das AFI nennt ihn ausdrücklich als Regisseur der Neuverfilmung. Sichtbare Bilder, versteckte Bildschichten und vorbereitete Ablenkungen bestimmen den Fall. Die Aufklärung verlangt deshalb immer wieder, etwas bereits Gesehenes anders zu verstehen, statt lediglich einen bislang unbekannten Gegenstand zu entdecken.
 
-Merksatz: McTiernans Kunstraub spielt mit Bildschichten und sichtbaren Ablenkungen.
 
 - Roger Donaldson: Donaldson inszenierte diese Neuverfilmung nicht.
 - John McTiernan: John McTiernan führte Regie.
@@ -3259,7 +3115,6 @@ Was lockt Mitch McDeere (Tom Cruise) in „Die Firma“ besonders zu seinem neue
 
 Mitch McDeere (Tom Cruise) hat sein Jurastudium in Harvard hervorragend abgeschlossen. Bendini, Lambert & Locke überbietet konkurrierende Stellen mit hohem Gehalt, einem Mercedes und günstiger Hausfinanzierung. Seine Frau Abby McDeere (Jeanne Tripplehorn) spürt dagegen schon beim Besuch die vereinnahmende Atmosphäre. Die materiellen Vorteile erklären, warum Mitch zunächst über diese Warnzeichen hinweggeht.
 
-Merksatz: Das Karriereangebot ist zugleich ein Köder.
 
 - Eine sofortige Partnerschaft ohne Probezeit: Mitch steigt als angestellter Berufsanfänger ein, nicht sofort als Partner.
 - Völlig freie Auswahl seiner Mandanten: Er soll bestehende Mandate bearbeiten und genießt keine unbeschränkte Auswahl.
@@ -3281,7 +3136,6 @@ In welcher Stadt nimmt Mitch McDeere (Tom Cruise) in „Die Firma“ seine neue 
 
 Die Kanzlei Bendini, Lambert & Locke liegt in Memphis, Tennessee. Mitch McDeere (Tom Cruise) muss deshalb auch die Anwaltsprüfung dieses Bundesstaats bestehen. Die Reise auf die Cayman Islands eröffnet erst später eine zweite Welt der Offshore-Geschäfte. Arbeitsort, Herkunft der kriminellen Mandanten und Auslandsreise sind somit unterschiedliche geografische Ebenen der Geschichte.
 
-Merksatz: Memphis ist der Kanzleisitz; die Cayman Islands sind der Auslandsstandort.
 
 - Memphis: Die Kanzlei sitzt in Memphis, Tennessee.
 - Boston: Boston gehört zur späteren Rückkehr, nicht zum neuen Arbeitgeber.
@@ -3303,7 +3157,6 @@ Womit setzt Sicherheitschef DeVasher (Wilford Brimley) Mitch McDeere (Tom Cruise
 
 Auf den Cayman Islands lässt sich Mitch McDeere (Tom Cruise) auf eine sexuelle Begegnung ein. Sie wurde von der Kanzlei arrangiert und fotografiert. Sicherheitschef William DeVasher (Wilford Brimley) kann deshalb mit der Zerstörung seiner Ehe drohen. Die vermeintlich private Verfehlung ist in ein Kontrollsystem eingebaut, das den jungen Anwalt auch außerhalb seiner Arbeit gefügig halten soll.
 
-Merksatz: Der Seitensprung wurde zur späteren Erpressung inszeniert.
 
 - Mit einem gefälschten Harvard-Abschlusszeugnis: Sein Abschluss wird nicht als Fälschung entlarvt.
 - Mit Fotos eines arrangierten sexuellen Seitensprungs: Die Fotos sollen Mitch gegenüber seiner Frau erpressbar machen.
@@ -3325,7 +3178,6 @@ Welchen kriminellen Hintergrund der Kanzlei enthüllt das FBI Mitch McDeere (Tom
 
 FBI-Agent Wayne Tarrance (Ed Harris) erklärt Mitch McDeere (Tom Cruise), dass Bendini, Lambert & Locke für die Morolto-Familie arbeitet. Die Todesfälle früherer Anwälte erscheinen dadurch in einem neuen Licht: Der Ausstieg kann lebensgefährlich sein. Mitch befindet sich nun zwischen einer gewalttätigen Organisation und einer Behörde, die ihn als Lieferanten vertraulicher Unterlagen gewinnen will.
 
-Merksatz: Die Kanzlei verbindet legale Beratung mit Mafia-Geldwäsche.
 
 - Erpressung von Mandanten mit heimlich gesammelten Privatakten: Die persönliche Erpressung Mitchs dient der Kontrolle; der enthüllte Geschäftshintergrund ist Mafia-Geldwäsche.
 - Manipulation großer Erbschaften zugunsten der Kanzleipartner: Manipulierte Erbschaften bilden nicht den aufgedeckten Hauptzusammenhang.
@@ -3347,7 +3199,6 @@ Quellen: [Beleg 1](https://en.wikipedia.org/wiki/The_Firm_(1993_film)), [Beleg 2
 
 Mitch McDeere (Tom Cruise) sucht einen Ausweg, der seine anwaltliche Zulassung erhält. Statt die vertraulichen Geschäfte der Mafia öffentlich zu machen, belegt er systematisch überhöhte Rechnungen der Kanzlei. Ihr Postversand ermöglicht eine Verfolgung wegen Postbetrugs. Der Film verändert damit den Romanschluss: Die Lösung entsteht aus Mitchs juristischem Handwerk und der Unterscheidung zwischen Mandantengeheimnis und eigenem Kanzleibetrug.
 
-Merksatz: Überberechnung plus Postversand ergibt Mitchs juristischen Ausweg.
 
 - Die Geldwäscheakten der Mafia-Mandanten: Die Preisgabe der Mandantengeheimnisse möchte Mitch gerade vermeiden.
 - Gefälschte Zulassungsnachweise der Kanzleianwälte: Gefälschte Anwaltszulassungen tragen die juristische Lösung nicht.
@@ -3369,7 +3220,6 @@ Wie ermöglicht Abby McDeere (Jeanne Tripplehorn) in „Die Firma“ den Zugriff
 
 Abby McDeere (Jeanne Tripplehorn) fährt auf die Cayman Islands und nutzt Avery Tolars (Gene Hackman) Interesse an ihr. Sie betäubt ihn, damit die benötigten Akten kopiert werden können. Die Abhörüberwachung bringt Sicherheitschef DeVasher (Wilford Brimley) auf die Spur des Plans. Avery warnt Abby noch rechtzeitig vor der Gefahr. Ihr Eingreifen macht sie zur entscheidenden Beteiligten der gemeinsamen Beweissicherung.
 
-Merksatz: Abbys Eingreifen öffnet den Zugriff auf die Akten.
 
 - Sie verführt und betäubt Avery Tolar.: Abby setzt Avery außer Gefecht und verschafft Zeit für die Kopien.
 - Sie kopiert einen gerichtlichen Durchsuchungsbeschluss.: Sie nutzt keinen nachgemachten Durchsuchungsbeschluss.
@@ -3391,7 +3241,6 @@ In welchem Jahr erschien „Die Firma“ mit Tom Cruise erstmals?
 
 John Grishams Roman The Firm erschien 1991, die Verfilmung folgte 1993: Zwischen Buch und Film liegen zwei Jahre. Paramount hatte die Filmrechte sogar vor der Buchveröffentlichung erworben. AFI verzeichnet den US-Kinostart am 30. Juni 1993. Die kurze Folge von Romanerfolg und prominent besetzter Adaption gehört zum Aufstieg des Grisham-Justizthrillers im Kino.
 
-Merksatz: 1991 Roman, 1993 Film: zwei Jahre Abstand.
 
 - 1987: 1987 liegt sechs Jahre vor dieser Verfilmung.
 - 1993: Die erste Kinoveröffentlichung erfolgte 1993.
@@ -3413,7 +3262,6 @@ Wer führte bei „Die Firma“ mit Tom Cruise und Gene Hackman Regie?
 
 AFI nennt Sydney Pollack als Regisseur und zugleich als einen der Produzenten. Die Handlung verbindet Mitch McDeeres (Tom Cruise) beruflichen Aufstieg mit einem juristischen Ausweg aus einer kriminellen Kanzlei. Auch der Schluss wurde gegenüber der Romanvorlage verändert. Die Regiefrage bezieht sich auf den Kinofilm mit Gene Hackman und Jeanne Tripplehorn, nicht auf eine spätere Serienadaption.
 
-Merksatz: Pollack inszeniert Cruise im Grisham-Kanzleithriller.
 
 - Alan J. Pakula: Alan J. Pakula hat hier keinen Regiecredit.
 - Joel Schumacher: Joel Schumacher inszenierte diese Grisham-Adaption nicht.
@@ -3439,7 +3287,6 @@ Welchen Beruf übt Jack Terry (John Travolta) in „Blow Out – Der Tod löscht
 
 Jack Terry (John Travolta) arbeitet für eine preisgünstige Filmproduktion, der unter anderem ein überzeugender Schrei fehlt. Bei nächtlichen Außenaufnahmen gerät deshalb sein Beruf mitten in eine politische Affäre. Seine technischen Fähigkeiten bestimmen die spätere Ermittlung: Er hört, vergleicht und montiert Material. Der Thriller macht das üblicherweise unsichtbare Handwerk der Tonarbeit zum Zentrum seiner Geschichte.
 
-Merksatz: Der Tonarbeiter hört etwas, das andere übersehen.
 
 - Er nimmt Geräusche für Filme auf.: Jack arbeitet an Geräuscheffekten für Filme.
 - Er fotografiert politische Wahlkampfveranstaltungen.: Wahlkampffotografie ist nicht sein Beruf.
@@ -3461,7 +3308,6 @@ Aus welcher unmittelbaren Gefahr rettet Jack Terry (John Travolta) Sally (Nancy 
 
 Während Jack Terry (John Travolta) nachts Geräusche aufnimmt, kommt ein Wagen von der Straße ab und stürzt ins Wasser. Er springt hinterher und rettet Sally (Nancy Allen); der prominente männliche Insasse stirbt. Die Rettung bringt Jack mit einer möglichen Zeugin zusammen. Was zunächst wie ein Verkehrsunfall aussieht, wird durch seine mitlaufende Tonaufnahme zum Verdachtsfall.
 
-Merksatz: Die Rettung verbindet Jack mit der überlebenden Zeugin.
 
 - Aus einem brennenden Hotelzimmer: Die erste Rettung betrifft kein Hotel.
 - Aus einem ins Wasser gestürzten Auto: Jack taucht zum versunkenen Wagen und holt Sally heraus.
@@ -3483,7 +3329,6 @@ Welche Reihenfolge hört Jack Terry (John Travolta) in „Blow Out – Der Tod l
 
 Die Aufnahme von Jack Terry (John Travolta) enthält zwei unterschiedliche Knallereignisse. Er erkennt vor dem Reifenplatzen einen Schuss und vermutet deshalb, dass der Wagen gezielt von der Straße gebracht wurde. Entscheidend ist nicht bloß ein lautes Geräusch, sondern dessen zeitliche Position. Die Tonspur erhält so Beweiswert gegen die öffentlich verbreitete Erklärung eines gewöhnlichen Unfalls.
 
-Merksatz: Schuss vor Reifenknall: Die Abfolge begründet den Verdacht.
 
 - Reifenknall vor Schuss: Die Reihenfolge ist umgekehrt; gerade das begründet Jacks Verdacht.
 - Warnruf vor Motorausfall: Ein Warnruf mit Motorausfall ist nicht die entscheidende Tonfolge.
@@ -3505,7 +3350,6 @@ Wie überprüft Jack Terry (John Travolta) in „Blow Out – Der Tod löscht al
 
 Manny Karp (Dennis Franz) hatte das Ereignis ebenfalls aufgenommen; Einzelbilder gelangen in eine Zeitschrift. Jack Terry (John Travolta) baut daraus eine bewegte Bildfolge und legt seine Tonaufnahme dazu. Der Abgleich lässt den Schuss auch visuell nachvollziehbar werden. Filmische Montage dient hier der Ermittlung: Zwei zunächst getrennte Quellen werden in eine gemeinsame zeitliche Ordnung gebracht.
 
-Merksatz: Bild und Ton werden durch Synchronisation zum gemeinsamen Beleg.
 
 - Er baut den Unfall für eine neue Aufnahme nach.: Eine neue Unfallinszenierung ist nicht sein Beweisverfahren.
 - Er ersetzt seine Aufnahme durch Fernsehnachrichtenton.: Jack arbeitet mit seinem eigenen Originalton.
@@ -3527,7 +3371,6 @@ Warum ermordet Burke (John Lithgow) in „Blow Out – Der Tod löscht alle Spur
 
 Burke (John Lithgow) soll die Verbindung zwischen dem Tod des Politikers und Sally (Nancy Allen) verdecken. Dafür ermordet er Frauen mit ähnlichem Erscheinungsbild, sodass ihr späterer Tod in eine scheinbare Serienmordgeschichte passen würde. Die Öffentlichkeit erhält damit eine andere Erklärung für die Gewalt. Sein Vorgehen verbindet die Beseitigung einer Zeugin mit der Herstellung einer irreführenden Nachrichtenlage.
 
-Merksatz: Die falsche Mordserie soll den wirklichen Zusammenhang verdecken.
 
 - Ihr Tod soll später wie ein weiterer Serienmord wirken.: Burke schafft eine Serienmord-Tarnung für den gezielten Zeugenmord.
 - Er sucht bei jeder eine Kopie des Unfallfilms.: Die Ähnlichkeit dient der Tarnung, nicht der Suche nach einer Filmkopie.
@@ -3549,7 +3392,6 @@ Welche Aufnahme verwendet Jack Terry (John Travolta) am Ende von „Blow Out –
 
 Jack Terry (John Travolta) kann Sally (Nancy Allen) nicht rechtzeitig vor Burke (John Lithgow) retten, obwohl er sie über ein Mikrofon hören kann. Ihre letzte Aufnahme bleibt erhalten und wird schließlich im Horrorfilm verwendet. Der am Anfang fehlende Schrei ist damit gefunden, aber zu einem verheerenden Preis. Die berufliche Verwertung des Tones bewahrt zugleich Jacks persönliche Erinnerung an sein Scheitern.
 
-Merksatz: Der gesuchte Filmeffekt wird durch einen wirklichen Tod erfüllt.
 
 - Sallys nachgesprochenen Schrei aus einer Probe: Die Aufnahme stammt nicht aus einer Probe mit Sally.
 - Sallys echten Todesschrei: Der echte Todesschrei wird zum zuvor gesuchten Filmeffekt.
@@ -3571,7 +3413,6 @@ In welchem Jahr erschien „Blow Out – Der Tod löscht alle Spuren“ mit John
 
 Blow Out erschien 1981, fünfzehn Jahre nach Blow-Up von 1966. Beide Filme lassen einen Medienhandwerker aus einer zufälligen Aufnahme auf ein mögliches Verbrechen schließen. Beim früheren Film stehen fotografische Vergrößerungen im Mittelpunkt, hier die Tonspur und ihr Abgleich mit Bildern. Der zeitliche Anker verbindet die Jahreszahl mit einer konkreten filmischen Motivverwandtschaft.
 
-Merksatz: 1966 Blow-Up, 1981 Blow Out: fünfzehn Jahre Abstand.
 
 - 1975: 1975 liegt sechs Jahre vor der Veröffentlichung.
 - 1986: 1986 liegt fünf Jahre nach dem ersten Erscheinen.
@@ -3593,7 +3434,6 @@ Wer inszenierte „Blow Out – Der Tod löscht alle Spuren“ mit John Travolta
 
 Criterion bestätigt Brian De Palma als Regisseur dieser Produktion. Jack Terrys (John Travolta) Tonarbeit bestimmt nicht nur die Ermittlung, sondern auch die Gestaltung des Films: Das Publikum verfolgt denselben Vorgang über unterschiedliche Bilder und Geräusche. Der Credit gehört zum Thriller mit Nancy Allen und John Lithgow. Die verwandte Grundidee eines aufgenommenen Verbrechens macht andere Regisseure noch nicht zu Miturhebern dieses Films.
 
-Merksatz: De Palma macht die Tonspur zur Spur des Verbrechens.
 
 - Francis Ford Coppola: Francis Ford Coppola ist hier nicht der Regisseur.
 - Alan J. Pakula: Alan J. Pakula inszenierte diesen Aufnahme-Thriller nicht.
@@ -3619,7 +3459,6 @@ In welcher Stadt ermittelt Nick Curran (Michael Douglas) in „Basic Instinct“
 
 Nick Curran (Michael Douglas) untersucht in San Francisco den Mord an einem ehemaligen Rockstar. Die Ermittlungen führen ihn zu Catherine Tramell (Sharon Stone), mit der das Opfer eine Beziehung hatte. Der urbane Polizeithriller verbindet Verhöre und Spurensuche mit privaten Begegnungen. San Francisco ist dabei der zentrale Ermittlungsraum; spätere Besuche außerhalb der Stadt ändern diesen Ausgangsort nicht.
 
-Merksatz: Nick ermittelt in San Francisco.
 
 - Los Angeles: Los Angeles ist nicht der zentrale Ermittlungsort.
 - San Francisco: Nick arbeitet bei der Polizei von San Francisco.
@@ -3641,7 +3480,6 @@ Welchen Beruf hat Catherine Tramell (Sharon Stone) in „Basic Instinct“?
 
 Catherine Tramell (Sharon Stone) schreibt Kriminalromane. Diese Tätigkeit ist keine bloße Hintergrundinformation: Ein bereits veröffentlichtes Buch enthält einen Mord, der dem untersuchten Fall auffällig ähnelt. Nick Curran (Michael Douglas) muss entscheiden, was diese Übereinstimmung bedeutet. Catherines Fähigkeit, Handlungen zu entwerfen, erzeugt deshalb besondere Unsicherheit darüber, wie weit sie auch reale Begegnungen steuert.
 
-Merksatz: Die Verdächtige entwirft eigene Kriminalgeschichten.
 
 - Sie arbeitet als Strafverteidigerin.: Sie ist keine Strafverteidigerin.
 - Sie leitet eine psychiatrische Klinik.: Sie leitet keine psychiatrische Klinik.
@@ -3663,7 +3501,6 @@ Welches ungewöhnliche Wissen zeigt Catherine Tramell (Sharon Stone) über Nick 
 
 Catherine Tramell (Sharon Stone) kennt Nick Currans (Michael Douglas) persönliche Vorgeschichte, einschließlich seiner problematischen Polizeieinsätze und Behandlung. Er erkennt darin ein Leck in seinem vermeintlich geschützten beruflichen Umfeld. Die Begegnung kehrt die Rollen teilweise um: Die Verdächtige kann den Ermittler mit Informationen konfrontieren und seine Unsicherheit nutzen. Seine Institution garantiert ihm dadurch weder Überblick noch persönliche Sicherheit.
 
-Merksatz: Die Verdächtige weiß mehr über den Ermittler, als sie wissen dürfte.
 
 - Details seines noch unveröffentlichten Testaments: Sein Testament ist nicht die enthüllte Informationsquelle.
 - Den Inhalt seiner laufenden Telefonüberwachung: Eine laufende Telefonüberwachung liefert nicht diesen Wissensvorsprung.
@@ -3685,7 +3522,6 @@ Welche Parallele zu Catherine Tramells (Sharon Stone) neuem Roman erkennt Nick C
 
 Catherine Tramell (Sharon Stone) arbeitet an einer Geschichte, deren Ermittlerfigur an Nick Curran (Michael Douglas) angelehnt ist. Als sein Partner Gus Moran (George Dzundza) im Aufzug getötet wird, erkennt Nick eine Übereinstimmung mit diesem Entwurf. Anders als die erste Romanparallele entsteht diese nun während der laufenden Ermittlungen. Dadurch wächst die Sorge, selbst Teil einer vorgezeichneten Handlung zu sein.
 
-Merksatz: Der neue Roman greift in Nicks laufenden Fall hinein.
 
 - Der Ermittlerpartner wird im Aufzug getötet.: Der Tod seines Partners entspricht dem neuen Romanentwurf.
 - Die Verdächtige wird während ihrer Hochzeit entführt.: Eine Hochzeitsentführung entspricht nicht diesem Handlungsvergleich.
@@ -3707,7 +3543,6 @@ Was macht Nick Currans (Michael Douglas) tödlichen Schuss auf Beth Garner (Jean
 
 Nach dem Tod von Gus Moran (George Dzundza) begegnet Nick Curran (Michael Douglas) Beth Garner (Jeanne Tripplehorn) am Tatort. Ihre Bewegung lässt ihn einen Angriff vermuten, doch sie hat keine Waffe. Die anschließenden Belastungsfunde erzeugen zwar eine scheinbare Falllösung, heben diese konkrete Fehleinschätzung aber nicht auf. Der Moment zeigt, wie seine persönlichen Verstrickungen die Wahrnehmung von Gefahr prägen.
 
-Merksatz: Ein vermeintlicher Waffengriff führt zum tödlichen Irrtum.
 
 - Sie wird von einem Querschläger aus seiner Waffe getroffen.: Er schießt gezielt aus einer vermeintlichen Gefahr, nicht durch einen zufälligen Querschläger.
 - Er vermutet einen Waffengriff, obwohl sie unbewaffnet ist.: Nick interpretiert ihre Bewegung als bewaffnete Bedrohung.
@@ -3729,7 +3564,6 @@ Welcher Gegenstand unter dem Bett untergräbt im Schlussbild von „Basic Instin
 
 Die Ermittlungen scheinen Beth Garner (Jeanne Tripplehorn) zu belasten. Nick Curran (Michael Douglas) kehrt dennoch zu Catherine Tramell (Sharon Stone) zurück. Unter ihrem Bett liegt schließlich ein Eispickel, der die vorherige Gewissheit erschüttert. Die Frage verlangt keine endgültige Zuschreibung aller Morde: Entscheidend ist, dass der Film seinen amtlich beruhigend wirkenden Abschluss durch ein konkretes Bild wieder destabilisiert.
 
-Merksatz: Der Eispickel lässt den vermeintlichen Schluss offen.
 
 - Gus Morans Polizeimarke: Eine Polizeimarke wird nicht als letzter Zweifel gezeigt.
 - Beth Garners Abschiedsbrief: Ein Abschiedsbrief ist nicht der Gegenstand unter dem Bett.
@@ -3751,7 +3585,6 @@ In welchem Jahr erschien „Basic Instinct“ mit Michael Douglas und Sharon Sto
 
 Basic Instinct erschien 1992, fünf Jahre nach Eine verhängnisvolle Affäre von 1987. Michael Douglas steht in beiden Erotikthrillern im Mittelpunkt, aber die Erzählanlässe unterscheiden sich: Hier ermittelt er als Polizist, dort beginnt die Bedrohung mit einer außerehelichen Affäre. Cannes führt Basic Instinct als Eröffnungsfilm von 1992; die ersten US-Vorführungen hatten bereits im März stattgefunden.
 
-Merksatz: 1987 Eine verhängnisvolle Affäre, 1992 Basic Instinct: fünf Jahre.
 
 - 1986: 1986 liegt sechs Jahre vor diesem Film.
 - 1997: 1997 liegt fünf Jahre nach der Erstveröffentlichung.
@@ -3773,7 +3606,6 @@ Wer führte bei „Basic Instinct“ mit Michael Douglas und Sharon Stone Regie?
 
 Das offizielle Cannes-Archiv nennt Paul Verhoeven für den Erotikthriller mit Michael Douglas und Sharon Stone. Der Film verbindet einen Mordfall mit einer Verdächtigen, die eigene Kriminalgeschichten schreibt. Der Regiecredit ist von Joe Eszterhas’ Drehbuch und Jan de Bonts Kameraarbeit zu unterscheiden. Die Festivalangabe identifiziert dieselbe Produktion wie die vorausgegangene amerikanische Kinoveröffentlichung.
 
-Merksatz: Verhoeven inszeniert Douglas und Stone im Roman-Mordfall.
 
 - Paul Verhoeven: Paul Verhoeven inszenierte den Film.
 - Adrian Lyne: Adrian Lyne ist nicht der Regisseur dieses Films.
@@ -3799,7 +3631,6 @@ Welchen Beruf hat Dan Gallagher (Michael Douglas) in „Eine verhängnisvolle Af
 
 Dan Gallagher (Michael Douglas) führt in New York ein etabliertes Berufs- und Familienleben. Als Anwalt lernt er bei einer geschäftlichen Veranstaltung Alex Forrest (Glenn Close) kennen, die im Verlagswesen arbeitet. Die folgende Affäre entsteht somit im Umfeld seines normalen Alltags. Die bedrohliche Entwicklung trifft keine Ermittlerfigur, sondern einen Mann, der seine private Entscheidung zunächst kontrollierbar findet.
 
-Merksatz: Der bedrohte Ehemann ist Anwalt.
 
 - Polizeidetektiv: Er untersucht die Vorgänge nicht als Polizeidetektiv.
 - Zeitungsfotograf: Ein Zeitungsfotograf ist er nicht.
@@ -3821,7 +3652,6 @@ Wer ist in „Eine verhängnisvolle Affäre“ übers Wochenende verreist, als D
 
 Beth Gallagher (Anne Archer) und ihre Tochter Ellen (Ellen Hamilton Latzen) verbringen das Wochenende außerhalb der Stadt. Dan Gallagher (Michael Douglas) bleibt zurück und kommt Alex Forrest (Glenn Close) näher. Er behandelt die Begegnung zunächst wie eine begrenzte Ausnahme vom Familienleben. Gerade diese angenommene Trennung zwischen einem heimlichen Wochenende und dem folgenden Alltag wird im weiteren Film immer weniger aufrechtzuerhalten sein.
 
-Merksatz: Ein freies Wochenende wird zur dauerhaften Bedrohung.
 
 - Seine Frau und seine Schwiegereltern: Beth besucht mit Ellen ihre Eltern; die Schwiegereltern bilden nicht die reisende Gruppe.
 - Seine Tochter und ihre Schulklasse: Ellen ist mit ihrer Mutter unterwegs, nicht auf Klassenfahrt.
@@ -3843,7 +3673,6 @@ Was entdeckt die Familie Gallagher in „Eine verhängnisvolle Affäre“ im Koc
 
 Alex Forrest (Glenn Close) dringt in den häuslichen Bereich der Gallaghers ein und tötet das Kaninchen von Ellen (Ellen Hamilton Latzen). Der Fund trifft damit die Tochter, die an der Affäre unbeteiligt ist. Die Szene verschiebt den Konflikt von bedrängenden Anrufen zu einer handfesten Verletzung des Familienraums. Dan Gallagher (Michael Douglas) kann die Gefahr danach nicht mehr als rein persönliche Angelegenheit behandeln.
 
-Merksatz: Das Haustier macht die Bedrohung der Familie sichtbar.
 
 - Das getötete Kaninchen ihrer Tochter: Alex hat das Haustier getötet und im Topf hinterlassen.
 - Eine Kassette mit Dans Geständnis: Die Kassette liegt nicht in diesem Topf.
@@ -3865,7 +3694,6 @@ Wohin nimmt Alex Forrest (Glenn Close) Ellen (Ellen Hamilton Latzen) in „Eine 
 
 Alex Forrest (Glenn Close) holt Ellen (Ellen Hamilton Latzen) ab und fährt mit ihr in einen Vergnügungspark. Das Kind erlebt einen Ausflug, während Beth Gallagher (Anne Archer) verzweifelt nach ihr sucht und dabei einen Autounfall erleidet. Die Sequenz lässt harmlos wirkendes Vergnügen und existenzielle Angst gleichzeitig stattfinden. Alex nutzt den Zugang zur Tochter, um die Familie erneut zu verletzen.
 
-Merksatz: Ellen erlebt einen Ausflug, Beth eine verzweifelte Suche.
 
 - Zu einer Kinovorstellung: Ein Kinobesuch ist nicht das Ziel dieses Ausflugs.
 - In einen Vergnügungspark: Alex fährt mit Ellen zu Fahrgeschäften im Vergnügungspark.
@@ -3887,7 +3715,6 @@ Wie endet Alex Forrests (Glenn Close) Angriff im Badezimmer in der Kinofassung v
 
 Dan Gallagher (Michael Douglas) glaubt zunächst, Alex Forrest (Glenn Close) in der Badewanne überwältigt zu haben. Sie taucht jedoch wieder auf und greift erneut an; Beth Gallagher (Anne Archer) schießt. Der Ablauf ist für die Fassungszuordnung entscheidend. Die ursprüngliche gedrehte Schlussvariante endete anders. Hier erhält die bedrohte Ehefrau selbst die Handlung, die den Angriff endgültig beendet.
 
-Merksatz: Nach dem vermeintlichen Ertrinken beendet Beth den Angriff.
 
 - Dan erwürgt sie vor der Badewanne.: Dans Angriff ist nicht der endgültige Ausgang.
 - Die Polizei nimmt sie lebend fest.: Eine lebende Festnahme beendet diese Schlusskonfrontation nicht.
@@ -3909,7 +3736,6 @@ Was sollte Alex Forrest (Glenn Close) im ursprünglich gedrehten Ende von „Ein
 
 Die zunächst gedrehte Variante ließ Alex Forrest (Glenn Close) sich mit einem Messer töten, an dem Dan Gallaghers (Michael Douglas) Spuren waren. Beth Gallagher (Anne Archer) konnte ihn mit einer Kassette entlasten, auf der Alex ihren Suizid angekündigt hatte. AFI dokumentiert die Änderung und Nachdrehs nach Testvorführungen. Über deren Einfluss gibt es unterschiedliche Aussagen; das alternative Handlungsgeschehen selbst ist klar belegt.
 
-Merksatz: Ursprünglicher Schluss: Suizid und fingierte Mordschuld statt Badezimmerkampf.
 
 - Dan als Zeugin vor Gericht entlasten: Die Absicht war Belastung, nicht freiwillige Entlastung.
 - Mit Ellen ausreisen und Dan erpressen: Eine Ausreise mit Ellen war nicht das gedrehte Ende.
@@ -3931,7 +3757,6 @@ In welchem Jahr erschien „Eine verhängnisvolle Affäre“ mit Michael Douglas
 
 Eine verhängnisvolle Affäre erschien 1987. Fünf Jahre später, 1992, folgte Michael Douglas’ Basic Instinct, in dem der familiäre Alltag durch eine Polizeiermittlung ersetzt ist. AFI nennt für den früheren Film ausdrücklich den 18. September 1987 als US-Kinostart. Das Erscheinungsjahr ist deshalb von späteren internationalen Auswertungen und den Oscar-Nominierungen des folgenden Jahres zu unterscheiden.
 
-Merksatz: 1987 Familienbedrohung, 1992 Mordermittlung: fünf Jahre Abstand.
 
 - 1987: Der Film startete erstmals 1987.
 - 1982: 1982 liegt fünf Jahre vor dem ersten Kinostart.
@@ -3953,7 +3778,6 @@ Wer führte bei der Kinofassung von „Eine verhängnisvolle Affäre“ mit Glen
 
 AFI nennt Adrian Lyne als Regisseur. James Dearden hatte die Kurzfilmvorlage und das Drehbuch geschaffen, wurde aber bei der aufwendigeren Kinoproduktion nicht als Regisseur eingesetzt. Die fertige Fassung mit Michael Douglas, Glenn Close und Anne Archer umfasst auch den später nachgedrehten Badezimmerkampf. Die gemeinsame Stoffgeschichte macht den Autor der Vorlage somit nicht zum Regisseur des Kinofilms.
 
-Merksatz: Lyne führt Regie; Dearden liefert Vorlage und Drehbuch.
 
 - Paul Verhoeven: Paul Verhoeven inszenierte diesen Film nicht.
 - Adrian Lyne: Adrian Lyne ist der offizielle Regisseur.
@@ -3979,7 +3803,6 @@ Durch welche Stadt fährt Lou Bloom (Jake Gyllenhaal) in „Nightcrawler – Jed
 
 Lou Bloom (Jake Gyllenhaal) beginnt in Los Angeles mit dem Aufnehmen von Unfall- und Verbrechensbildern. Die Fahrten durch weit auseinanderliegende Stadtviertel prägen den Rhythmus der Handlung. Ortskenntnis, Funkmeldungen und Geschwindigkeit entscheiden darüber, wer zuerst an einem Ereignis ist. Die Stadt wird dadurch als Wirtschaftsraum sichtbar, in dem die Konkurrenz um Bilder von Gewalt jede Nacht neu beginnt.
 
-Merksatz: Los Angeles wird nachts zum Konkurrenzraum der Kameraleute.
 
 - New York: New York ist nicht der Handlungsort.
 - Chicago: Chicago ist nicht Lous nächtliches Revier.
@@ -4001,7 +3824,6 @@ Welche Verbrechensbilder bevorzugt Nina Romina (Rene Russo) für die Nachrichten
 
 Nachrichtenleiterin Nina Romina (Rene Russo) erklärt Lou Bloom (Jake Gyllenhaal), welche Bilder ihren Sender besonders interessieren. Gefragt ist Gewalt, die in den geschützten Lebensraum wohlhabender Bewohner einzudringen scheint. Die Auswahl folgt damit einer Zielgruppenlogik. Lou lernt nicht nur, seine Kamera schneller einzusetzen, sondern auch, welche Angst sich verkaufen lässt und wie er seine Aufnahmen darauf zuschneiden kann.
 
-Merksatz: Ninas Auswahl verkauft die Angst wohlhabender Zuschauer.
 
 - Gewalt in wohlhabenden Wohngegenden: Nina setzt auf beängstigende Gewaltbilder aus wohlhabenden Vierteln.
 - Diebstähle in leer stehenden Fabriken: Fabrikdiebstähle erfüllen ihr bevorzugtes Bedrohungsbild nicht.
@@ -4023,7 +3845,6 @@ Was verändert Lou Bloom (Jake Gyllenhaal) in „Nightcrawler – Jede Nacht hat
 
 Lou Bloom (Jake Gyllenhaal) behandelt einen Tatort zunehmend wie ein arrangierbares Motiv. Er verschiebt einen Leichnam, um eine stärkere Bildwirkung zu erzielen. Die Kamera beobachtet dadurch keine unveränderte Situation mehr: Der vermeintliche Dokumentarist greift in das Geschehen ein. Die Szene markiert eine Grenze, die Lou ohne sichtbare moralische Hemmung zugunsten der verkäuflichen Aufnahme überschreitet.
 
-Merksatz: Lou verändert die Wirklichkeit für ihr verkäufliches Bild.
 
 - Die Position einer Absperrung: Er verändert hier das Opfermotiv statt die Absperrung.
 - Die Position eines Leichnams: Lou verschiebt den Körper, damit seine Aufnahme wirkungsvoller aussieht.
@@ -4045,7 +3866,6 @@ Welche Information hält Lou Bloom (Jake Gyllenhaal) nach dem Hausüberfall in �
 
 Lou Bloom (Jake Gyllenhaal) kommt vor der Polizei zu einem Hausüberfall und filmt die flüchtenden Täter. Für den Sender stellt er vor allem die grausamen Folgen zusammen und lässt die Täterbilder weg. So bleibt eine entscheidende Spur in seiner Hand. Er kann die Männer selbst weiterverfolgen und später eine öffentliche Konfrontation herbeiführen, deren Bilder erneut besonders wertvoll werden sollen.
 
-Merksatz: Zurückgehaltene Täterbilder ermöglichen das nächste Geschäft.
 
 - Die Adresse des überfallenen Hauses: Der Ort des Verbrechens bleibt nicht das entscheidende Geheimnis.
 - Die Zahl der im Haus gefundenen Opfer: Die Opfer gehören gerade zum verkauften Schockmaterial.
@@ -4067,7 +3887,6 @@ Wie führt Lou Bloom (Jake Gyllenhaal) in „Nightcrawler – Jede Nacht hat ihr
 
 Rick (Riz Ahmed) versucht, seinen Wert für Lou Bloom (Jake Gyllenhaal) mit einer höheren Gewinnbeteiligung durchzusetzen. Nach der Verfolgungsjagd schickt Lou ihn mit der Kamera zu einem Schützen, den er als tot darstellt. Der Mann lebt jedoch und schießt Rick nieder. Lou filmt auch diesen Tod. Der Mitarbeiter wird damit zugleich als Hindernis beseitigt und als weiteres Bildprodukt verwertet.
 
-Merksatz: Rick wird durch Lous falsche Sicherheitsbehauptung zum nächsten Opfer.
 
 - Er lässt ihn einen live übertragenen Polizeizugriff stören.: Ein von Rick gestörter Zugriff ist nicht der tödliche Ablauf.
 - Er manipuliert die Bremsen seines Wagens.: Die Bremsmanipulation betrifft Lous Konkurrenten statt diesen Moment.
@@ -4089,7 +3908,6 @@ Welche Entwicklung schließt Lou Blooms (Jake Gyllenhaal) Geschichte in „Night
 
 Lou Bloom (Jake Gyllenhaal) steht am Schluss vor neuen Mitarbeitern und zusätzlichen Fahrzeugen. Eine moralische Umkehr oder strafrechtliche Abrechnung bleibt aus. Das Ende ist deshalb für die Form des Films wesentlich: Die Geschichte eines immer skrupelloseren Menschen wird zugleich als geschäftlicher Erfolg erzählt. Das Nachrichtensystem macht seine Grenzüberschreitungen rentabel, statt ihn durch die üblichen Konsequenzen einer Verbrechensgeschichte zu stoppen.
 
-Merksatz: Lous Erfolg ist die beunruhigende Schlussbilanz.
 
 - Er erweitert sein Unternehmen mit Fahrzeugen und neuen Mitarbeitern.: Lou baut das Geschäft als selbstständiger Unternehmer weiter aus.
 - Er verkauft sein Unternehmen und wird fester Mitarbeiter des Senders.: Ein Verkauf mit anschließender Festanstellung ist nicht sein Schlussweg.
@@ -4111,7 +3929,6 @@ In welchem Jahr erschien „Nightcrawler – Jede Nacht hat ihren Preis“ mit J
 
 Nightcrawler erschien 2014, dreizehn Jahre nach Jake Gyllenhaals Durchbruch als Titelfigur in Donnie Darko von 2001. Beide Rollen stellen einen Außenseiter ins Zentrum, doch hier wird gesellschaftliche Anpassung zum beunruhigenden Geschäftserfolg. Die BFI-Filmseiten bestätigen beide Filmjahre. Für Nightcrawler ist die Festivalpremiere in Toronto früher als der amerikanische Kinostart im Oktober desselben Jahres.
 
-Merksatz: 2001 Donnie Darko, 2014 Nightcrawler: dreizehn Jahre.
 
 - 2008: 2008 liegt sechs Jahre vor dieser Veröffentlichung.
 - 2014: Die erste Veröffentlichung war 2014.
@@ -4133,7 +3950,6 @@ Wer führte bei „Nightcrawler – Jede Nacht hat ihren Preis“ mit Jake Gylle
 
 Die BFI-Credits nennen Dan Gilroy als Regisseur und Drehbuchautor. Seine Brüder hatten andere Aufgaben: Tony Gilroy gehörte zu den Produzenten, John Gilroy übernahm den Schnitt. Die ähnliche Namenskonstellation ist deshalb sorgfältig auseinanderzuhalten. Der Film mit Jake Gyllenhaal und Rene Russo verbindet die nächtliche Bildproduktion mit der Geschichte eines Antihelden, dessen beruflicher Erfolg gerade beunruhigt.
 
-Merksatz: Dan führt Regie; Tony produziert und John schneidet.
 
 - Tony Gilroy: Tony Gilroy war Produzent, nicht Regisseur.
 - David Fincher: David Fincher trägt hier keinen Regiecredit.
@@ -4159,7 +3975,6 @@ Womit verdient Jef Costello (Alain Delon) in „Der eiskalte Engel“ seinen Leb
 
 Jef Costello (Alain Delon) führt ein äußerst zurückgezogenes Leben und bereitet seine Aufträge sorgfältig vor. Sein Auftreten, die Beschaffung eines Fahrzeugs und die Planung eines Alibis zeigen routiniertes Handwerk. Nach der Tötung eines Nachtclubbesitzers gerät diese Kontrolle ins Wanken. Der Film richtet seinen Blick weniger auf eine spektakuläre Verbrecherkarriere als auf die Regeln und Grenzen dieses einsamen Berufs.
 
-Merksatz: Jefs Präzision gehört zum Handwerk des Auftragsmörders.
 
 - Mit Auftragsmorden: Jef ist ein professioneller Auftragsmörder.
 - Mit Juwelenhandel: Er handelt nicht beruflich mit Juwelen.
@@ -4181,7 +3996,6 @@ Welche Hilfe leistet Jane Lagrange (Nathalie Delon) Jef Costello (Alain Delon) i
 
 Jef Costello (Alain Delon) plant vor dem Mord nicht nur den Tatablauf, sondern auch eine Erklärung für seinen Aufenthaltsort. Jane Lagrange (Nathalie Delon) bestätigt diese vorbereitete Geschichte gegenüber der Polizei. Die Beziehung bietet ihm damit praktische Deckung. Ihr Beistand steht dem Misstrauen der übrigen Welt gegenüber, in der sowohl Auftraggeber als auch Ermittler versuchen, ihn festzulegen.
 
-Merksatz: Jane ist die menschliche Stütze des geplanten Alibis.
 
 - Sie beschafft einen falschen Reisepass.: Die Hilfe besteht nicht in einem falschen Pass.
 - Sie bestätigt sein vorbereitetes Alibi.: Jane deckt Jef durch ihre Aussage zum Alibi.
@@ -4203,7 +4017,6 @@ Wie reagiert die Auftraggeberseite in „Der eiskalte Engel“ auf Jef Costellos
 
 Jef Costello (Alain Delon) kommt nach dem Verhör frei, ist dadurch für seine Auftraggeber aber nicht automatisch ungefährlich. Bei der vorgesehenen Geldübergabe wird auf ihn geschossen. Seine Festnahme hat ihn in ihren Augen zur möglichen Belastung gemacht. Der professionelle Vertrag schützt ihn deshalb nicht: Ausgerechnet die Seite, für die er getötet hat, versucht nun, den eigenen Vollstrecker zu beseitigen.
 
-Merksatz: Vom bezahlten Vollstrecker wird Jef zur gefährlichen Spur für seine Auftraggeber.
 
 - Sie bezahlt sofort das doppelte Honorar.: Ein erhöhtes Honorar beendet den Verdacht nicht.
 - Sie vermittelt ihm Schutz durch einen Polizeibeamten.: Ein Schutzbeamter wird ihm nicht vermittelt.
@@ -4225,7 +4038,6 @@ Was macht Jef Costello (Alain Delon) in „Der eiskalte Engel“ auf den heimlic
 
 Die Polizei installiert in Jef Costellos (Alain Delon) Wohnung eine Abhöreinrichtung. Der sonst sorgfältig kontrollierte Raum hinterlässt dennoch eine Spur: Sein Vogel ist ungewöhnlich aufgeregt und hat Federn verloren. Jef bemerkt die Veränderung und sucht nach dem Gerät. Das Tier ist damit mehr als Dekoration seiner Einsamkeit; es registriert einen Eingriff, den die technischen Überwacher unsichtbar halten wollten.
 
-Merksatz: Der Vogel verrät die vermeintlich spurenlose Überwachung.
 
 - Ein fehlender Mantel im Kleiderschrank: Ein verschwundener Mantel ist nicht das Warnzeichen.
 - Ein anonymes Telegramm auf dem Bett: Ein Telegramm kündigt den Besuch nicht an.
@@ -4247,7 +4059,6 @@ Welche Eigenschaft von Jef Costellos (Alain Delon) Waffe wird erst nach der letz
 
 Jef Costello (Alain Delon) kehrt in den Nachtclub zurück und richtet seine Waffe auf die Pianistin Valérie (Cathy Rosier). Die bereitstehenden Polizisten erschießen ihn. Erst danach zeigt sich, dass die Waffe nicht geladen war. Dieser Befund verändert den Blick auf sein Auftreten: Er konnte die Pianistin damit nicht erschießen. Seine letzte Absicht bleibt eine Deutungsfrage, die leere Waffe hingegen ein klarer Handlungsfakt.
 
-Merksatz: Der letzte sichtbare Angriff erfolgt mit leerer Waffe.
 
 - Sie ist nicht geladen.: Die Polizei findet keine Patronen in der Waffe.
 - Sie gehört dem Polizeikommissar.: Sie wird nicht als Eigentum des Kommissars identifiziert.
@@ -4269,7 +4080,6 @@ Welchen Ursprung hat das dem Bushidō zugeschriebene Eröffnungsmotto von „Der
 
 Der Film eröffnet mit einem Satz über die Einsamkeit des Samurai und schreibt ihn dem Bushidō zu. Die Janus-Presseunterlagen ordnen diese Autorität ausdrücklich als Erfindung Jean-Pierre Melvilles ein. Das Motto baut somit selbst eine stilisierte Welt auf, statt historische Dokumentation zu liefern. Die Samurai-Verbindung beschreibt Jef Costellos (Alain Delon) Haltung und Bildsprache, nicht seine Tätigkeit als japanischer Krieger.
 
-Merksatz: Die historische Autorität des Mottos ist selbst inszeniert.
 
 - Eine Passage aus dem authentischen Hagakure: Die Presseunterlagen weisen das Motto als Erfindung statt als Hagakure-Passage aus.
 - Eine von Melville erfundene Quellenzuschreibung: Die Quellenzuschreibung gehört zu Melvilles erfundenen Textautoritäten.
@@ -4291,7 +4101,6 @@ In welchem Jahr erschien „Der eiskalte Engel“ mit Alain Delon erstmals?
 
 Der eiskalte Engel erschien 1967. Drei Jahre später, 1970, setzten Jean-Pierre Melville und Alain Delon ihre Zusammenarbeit mit Vier im roten Kreis fort. Die Janus-Presseunterlagen nennen beide Filme als Stationen ihrer Verbindung. Der frühere Film konzentriert sich auf einen isolierten Auftragsmörder, der spätere auf ein zeitweise verbundenes Trio. Der Abstand verknüpft die Jahreszahl mit einer konkreten künstlerischen Zusammenarbeit.
 
-Merksatz: 1967 Der eiskalte Engel, 1970 Vier im roten Kreis: drei Jahre.
 
 - 1961: 1961 liegt sechs Jahre vor diesem Film.
 - 1972: 1972 liegt fünf Jahre nach dieser Veröffentlichung.
@@ -4313,7 +4122,6 @@ Wer inszenierte „Der eiskalte Engel“ mit Alain Delon als Jef Costello?
 
 Janus und Criterion bestätigen Jean-Pierre Melville als Regisseur. Sein Film mit Alain Delon baut eine streng stilisierte Welt auf, in der Gesten, Räume und Handgriffe oft mehr erzählen als Gespräche. Die Presseunterlagen beschreiben die Zusammenarbeit, die später in weiteren Filmen fortgesetzt wurde. Die Samurai-Verbindung ist ein filmisches Leitbild für den französischen Auftragsmörder Jef Costello (Alain Delon), keine Angabe seiner Herkunft.
 
-Merksatz: Melville formt Delons schweigsamen Auftragsmörder.
 
 - Jacques Becker: Jacques Becker inszenierte diesen Film nicht.
 - Claude Chabrol: Claude Chabrol ist hier nicht der Regisseur.
@@ -4339,7 +4147,6 @@ Welches Ziel plant Corey (Alain Delon) für den großen Einbruch in „Vier im r
 
 Corey (Alain Delon) bekommt kurz vor seiner Entlassung aus dem Gefängnis einen Hinweis auf ein lohnendes Juweliergeschäft in Paris. Er macht den Plan zum Ausgangspunkt eines Neuanfangs im Verbrechen. Dazu braucht er nicht nur Helfer für den Einbruch, sondern auch eine spätere Abnahme der Beute. Die Vorbereitung verbindet technische Präzision mit der Abhängigkeit von Kontakten im Milieu.
 
-Merksatz: Pariser Schmuck ist das Ziel des neuen Coups.
 
 - Eine Bank in Marseille: Eine Marseiller Bank ist nicht das Ziel.
 - Ein Juweliergeschäft in Paris: Der geplante Raub gilt einem Pariser Juweliergeschäft.
@@ -4361,7 +4168,6 @@ Wo versteckt sich der flüchtige Vogel (Gian Maria Volonté), bevor er in „Vie
 
 Vogel (Gian Maria Volonté) entkommt einem bewachten Zug und wird durch Straßensperren und Suchhunde verfolgt. Corey (Alain Delon) stellt seinen Wagen mit unverschlossenem Kofferraum ab und lässt den Flüchtigen darin unterkommen. Aus dieser Hilfe entsteht eine Verbindung, die später den gemeinsamen Einbruch ermöglicht. Der Film führt seine Partner somit nicht durch eine formelle Anwerbung, sondern durch eine gefährliche Begegnung zusammen.
 
-Merksatz: Das Versteck im Auto wird zum Beginn einer Partnerschaft.
 
 - Im Keller von Coreys Wohnung: Die erste Begegnung entsteht unterwegs, nicht in Coreys Wohnung.
 - In einem Güterwaggon nach Paris: Ein Güterwaggon bringt die beiden nicht zusammen.
@@ -4383,7 +4189,6 @@ Welche besondere Aufgabe hat Jansen (Yves Montand) beim Einbruch in „Vier im r
 
 Jansen (Yves Montand) ist ein ehemaliger Polizist und hervorragender Schütze, dessen Alkoholabhängigkeit ihn aus der Bahn geworfen hat. Corey (Alain Delon) braucht sein Können, um die Sicherung des Juweliers auszuschalten. Für Jansen ist der Coup deshalb auch eine persönliche Prüfung. Der erfolgreiche Schuss zeigt ihm, dass seine technische Selbstbeherrschung wieder funktioniert und er mehr beitragen kann als bloß zusätzliche Hände.
 
-Merksatz: Der Präzisionsschuss wird Jansens persönliche Bewährungsprobe.
 
 - Er öffnet den Tresor mit einem kopierten Zahlencode.: Ein kopierter Zahlencode ist nicht Jansens besondere Aufgabe.
 - Er täuscht als Polizist die Wachmannschaft.: Er tritt beim Einbruch nicht als kontrollierender Polizist auf.
@@ -4405,7 +4210,6 @@ Warum lässt sich die Beute aus dem Einbruch in „Vier im roten Kreis“ zunäc
 
 Der Einbruch gelingt, aber der vorgesehene Hehler will die Juwelen anschließend nicht annehmen. Rico (André Ekyan), mit dem Corey (Alain Delon) zuvor gebrochen hat, hat ihn unter Druck gesetzt. Die erfolgreiche technische Durchführung garantiert somit noch keinen Gewinn. Die Suche nach einem neuen Abnehmer führt die Männer wieder zu Kontakten, über die der ermittelnde Polizist Zugriff auf sie gewinnen kann.
 
-Merksatz: Gelungener Einbruch, blockierter Verkauf: Das Milieu entscheidet mit.
 
 - Rico hat den vorgesehenen Hehler eingeschüchtert.: Der Hehler zieht sich nach Ricos Warnung zurück.
 - Der Schmuck wurde bereits gegen Fälschungen ausgetauscht.: Die Echtheit der gestohlenen Ware ist nicht das Hindernis.
@@ -4427,7 +4231,6 @@ Wie gestaltet „Vier im roten Kreis“ die lange Einbruchssequenz erzählerisch
 
 Die ausgedehnte Einbruchssequenz setzt auf Körperbewegungen, Werkzeuge, Raumbeziehungen und kleine Geräusche. Ein erklärendes Gespräch begleitet die Schritte kaum. Das Publikum muss deshalb die Funktion der Handlungen aus dem sichtbaren Ablauf erfassen. Die Spannung wächst aus dem Können der Beteiligten und der Möglichkeit kleinster Fehler. Der Film zeigt professionelle Arbeit, statt den Erfolg bloß durch eine schnelle Montage zu behaupten.
 
-Merksatz: Der Coup erklärt sich durch Handwerk statt durch Gespräche.
 
 - Ein Off-Erzähler erklärt fortlaufend jeden Arbeitsschritt.: Eine durchgehende Erklärung durch einen Off-Erzähler fehlt.
 - Handgriffe und Geräusche tragen sie nahezu ohne Dialog.: Die Abläufe erschließen sich vor allem aus dem sichtbaren Handwerk.
@@ -4449,7 +4252,6 @@ Womit bringt Kommissar Mattei (André Bourvil) in „Vier im roten Kreis“ den 
 
 Nachtclubbesitzer Santi (François Périer) will seine Kontakte nicht verraten. Kommissar Mattei (André Bourvil) setzt deshalb bei dessen Sohn an, der wegen Marihuanahandels festgenommen wurde. Santi gibt Informationen über das geplante Treffen mit einem neuen Hehler preis. Mattei kann anschließend selbst als Abnehmer auftreten. Die finale Falle beruht damit auf familiärer Erpressbarkeit und einer ausgenutzten Vermittlerrolle.
 
-Merksatz: Der Druck auf den Sohn öffnet den Weg zur Hehlerfalle.
 
 - Mit einem versprochenen Anteil an den gestohlenen Juwelen: Eine Gewinnbeteiligung kauft Santis Kooperation nicht.
 - Mit Beweisen für Santis Beteiligung am Zugausbruch: Ein nachgewiesener Beitrag zum Zugausbruch ist nicht der Hebel.
@@ -4471,7 +4273,6 @@ In welchem Jahr erschien „Vier im roten Kreis“ mit Alain Delon und Yves Mont
 
 Vier im roten Kreis erschien 1970, drei Jahre nach Der eiskalte Engel von 1967. Jean-Pierre Melville setzte die Zusammenarbeit mit Alain Delon nun in einem Ensemble über einen Juwelenraub fort. Criterion bestätigt die beiden Filmjahre und den gemeinsamen Regisseur. Der Vergleich verbindet einen isolierten Auftragsmörder mit einer zeitweiligen Gemeinschaft von Spezialisten, deren berufliche Regeln erneut keine sichere Zukunft gewährleisten.
 
-Merksatz: 1967 Der eiskalte Engel, 1970 Vier im roten Kreis: drei Jahre.
 
 - 1964: 1964 liegt sechs Jahre vor diesem Film.
 - 1975: 1975 liegt fünf Jahre nach der Veröffentlichung.
@@ -4493,7 +4294,6 @@ Wer führte bei „Vier im roten Kreis“ mit Alain Delon und Yves Montand Regie
 
 Criterion nennt Jean-Pierre Melville als Regisseur und Drehbuchautor. Alain Delon, Gian Maria Volonté und Yves Montand verkörpern die Spezialisten des Einbruchs, André Bourvil ihren beharrlichen Verfolger. Die sparsame Sprache und die ausführlich beobachteten Handgriffe verbinden den Ensemblefilm mit Melvilles anderen Gangstergeschichten. Der Regiecredit gehört zum ursprünglichen französisch-italienischen Film, nicht zu einer bloßen Verwandtschaft mit anderen berühmten Juwelenraubfilmen.
 
-Merksatz: Melville verbindet Delon, Volonté und Montand im gemeinsamen Coup.
 
 - Jean-Pierre Melville: Jean-Pierre Melville ist der Regisseur.
 - Henri Verneuil: Henri Verneuil trägt hier keinen Regiecredit.
@@ -4519,7 +4319,6 @@ Welche Bildform bestimmt die Erzählung von „Searching“?
 
 Der Film zeigt die Suche über Nachrichtenfenster, Videoanrufe, Suchmaschinen, Dateien und andere Geräteansichten. Das Publikum beobachtet, welche Information David Kim (John Cho) öffnet und wie er darauf reagiert. Die Oberfläche ist damit zugleich Schauplatz und Erzählmittel. Auch Familienerinnerungen und öffentliche Nachrichten gelangen durch solche Ansichten ins Bild, statt durch einen üblichen Wechsel klassischer Außen- und Innenszenen.
 
-Merksatz: Digitale Oberflächen werden zum filmischen Handlungsraum.
 
 - Ein fortlaufendes privates Urlaubsvideo: Ein einzelnes Urlaubsvideo ist nicht die Erzählform.
 - Ausschließlich fest installierte Überwachungskameras: Überwachung gehört zu den Spuren, bestimmt aber nicht allein den Film.
@@ -4541,7 +4340,6 @@ Was bringt David Kim (John Cho) in „Searching“ dazu, die digitalen Spuren se
 
 Margot Kim (Michelle La) meldet sich nach einem angeblichen Lernen mit anderen Schülern nicht mehr. Ihr Vater David Kim (John Cho) beginnt zunächst mit gewöhnlichen Anrufen und Nachfragen. Als diese keine Erklärung ergeben, untersucht er ihren Laptop und ihre Online-Kontakte. Die Suche zwingt ihn zugleich zu erkennen, wie wenig er zuletzt über den Alltag seiner Tochter wusste.
 
-Merksatz: Die Suche nach Margot wird auch zur Suche nach ihrem unbekannten Alltag.
 
 - Sein Bruder hat die Familienkonten übernommen.: Eine Kontenübernahme durch den Bruder löst die Suche nicht aus.
 - Seine Frau erhält anonyme Drohungen.: Seine Frau ist bereits verstorben; Drohungen an sie sind nicht der Anlass.
@@ -4563,7 +4361,6 @@ Was erfährt David Kim (John Cho) in „Searching“ beim Anruf bei Margots Klav
 
 David Kim (John Cho) glaubt zunächst, Margot Kim (Michelle La) könne einfach bei ihrer Klavierstunde sein. Der Anruf bei der Lehrerin zeigt jedoch, dass sie seit sechs Monaten nicht mehr kommt. Trotzdem hat David weiter Unterrichtsgeld gegeben. Die erste konkrete Alltagslücke führt deshalb zu einer Geldspur und zeigt, dass seine Vorstellung von ihrem Leben erheblich hinter ihrer tatsächlichen Situation zurückliegt.
 
-Merksatz: Die fehlenden Klavierstunden öffnen eine Geldspur.
 
 - Margot hat den Unterricht schon vor Monaten beendet.: Die Lehrerin erklärt, dass die Stunden seit Monaten abgesagt sind.
 - Margot nimmt seit Monaten nur Online-Unterricht.: Der Unterricht läuft nicht in einer anderen digitalen Form weiter.
@@ -4585,7 +4382,6 @@ Welcher Fund macht David Kim (John Cho) in „Searching“ misstrauisch gegenüb
 
 Beim Vorbereiten der gestreamten Trauerfeier sieht David Kim (John Cho) das vertraute Hannah-Bild als Stockfoto auf der Website. Das echte Model Hannah (Erica Jenkins) erklärt ihm, dass sie Margot Kim (Michelle La) nicht kennt und auch nie von der Polizei befragt wurde. Damit widerspricht die Entdeckung nicht nur einer Online-Identität, sondern auch einer zuvor behaupteten Ermittlungsprüfung.
 
-Merksatz: Das bekannte Gesicht als Stockfoto widerlegt die angebliche Freundin.
 
 - Ihr Video zeigt eine schon lange geschlossene Schule.: Ein Schulvideo ist nicht der auslösende Fund.
 - Ihr Profilbild erscheint als Stockfoto auf einer anderen Website.: Das anderweitig verwendete Modelbild stellt die behauptete Identität infrage.
@@ -4607,7 +4403,6 @@ Warum manipuliert Ermittlerin Rosemary Vick (Debra Messing) den Fall in „Searc
 
 Rosemary Vicks (Debra Messing) Sohn Robert (Steven Michael Eich) hatte sich online als Mädchen ausgegeben, um Margot Kim (Michelle La) näherzukommen. Bei einer persönlichen Begegnung stieß er sie unbeabsichtigt in eine Schlucht und glaubte sie tot. Vick ließ daraufhin Spuren einer freiwilligen Flucht und später einen falschen Täter entstehen. Die Ermittlerin zerstörte damit die neutrale Suche zugunsten des Schutzes ihres eigenen Kindes.
 
-Merksatz: Der Fall wird von einer Mutter zum Schutz ihres Sohnes manipuliert.
 
 - Sie schützt einen langjährigen Informanten vor einer Anklage.: Ein geschützter Informant ist nicht der Grund dieser Vertuschung.
 - Sie vertuscht einen eigenen Fehler bei Margots erster Befragung.: Sie beseitigt nicht die Folgen einer misslungenen eigenen Befragung.
@@ -4629,7 +4424,6 @@ Warum besteht David Kim (John Cho) im Schluss von „Searching“ trotz der verg
 
 Rosemary Vick (Debra Messing) hält Margot Kim (Michelle La) nach mehreren Tagen ohne Wasser für tot. David Kim (John Cho) erinnert sich jedoch an den Sturm, der zuvor die Suchaktion verzögert hatte. Derselbe Regen könnte der verletzten Tochter in der Schlucht Wasser verschafft haben. Er fordert eine erneute Suche, und die Rettung gelingt. Ein früheres Hindernis wird so zum entscheidenden Überlebenshinweis.
 
-Merksatz: Der Sturm behindert die Suche und ermöglicht zugleich das Überleben.
 
 - Eine Kamera hat Margot nach dem Sturz lebend erfasst.: Eine neue Kameraaufnahme bildet nicht den Grund für Davids Hoffnung.
 - Ein Arzt hatte ihr einen Notfallvorrat mitgegeben.: Ein ärztlicher Vorrat ist nicht seine Begründung.
@@ -4651,7 +4445,6 @@ In welchem Jahr wurde „Searching“ mit John Cho erstmals veröffentlicht?
 
 Searching wurde 2018 bei Sundance zunächst unter dem Titel Search vorgestellt. Fünf Jahre später, 2023, erschien Missing aus demselben kreativen Zusammenhang. Der spätere Film kehrt die Suchrichtung um: Eine Tochter sucht ihre verschwundene Mutter. Sony bestätigt die Filmjahre und diesen Produktionsbezug. Die Sundance-Premiere gehört zur Erstveröffentlichung, auch wenn der reguläre Kinostart erst Monate danach folgte.
 
-Merksatz: 2018 Searching, 2023 Missing: fünf Jahre Abstand.
 
 - 2018: Der Film wurde erstmals 2018 gezeigt.
 - 2012: 2012 liegt sechs Jahre vor der Premiere.
@@ -4673,7 +4466,6 @@ Wer führte bei „Searching“ mit John Cho und Debra Messing Regie?
 
 Sundance und die Sony-Pressemitteilung nennen Aneesh Chaganty als Regisseur des Films mit John Cho und Debra Messing. Sev Ohanian schrieb gemeinsam mit ihm das Drehbuch und gehörte zu den Produzenten; Timur Bekmambetov hatte ebenfalls eine Produzentenrolle. Der Film war Chagantys Langfilm-Regiedebüt. Die Form einer vollständig durch Geräteansichten vermittelten Suche macht die verschiedenen kreativen Aufgaben besonders sichtbar.
 
-Merksatz: Chaganty führt Regie; Ohanian schreibt mit und produziert.
 
 - Sev Ohanian: Sev Ohanian schrieb mit und produzierte, führte aber nicht Regie.
 - Aneesh Chaganty: Aneesh Chaganty ist der Regisseur.

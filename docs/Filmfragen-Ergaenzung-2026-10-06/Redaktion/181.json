@@ -36,12 +36,12 @@
       ],
       "short": "Ein riesiger Sandwurm nähert sich dem gestrandeten Erntegerät.",
       "context": "Ein riesiger Sandwurm nähert sich dem gestrandeten Erntegerät. Leto (Oscar Isaac) und Paul (Timothée Chalamet) helfen bei der Rettung der Arbeiter; die Gewinnung des begehrten Rohstoffs bleibt körperlich gefährlich.",
-      "anchor": "Der Sandwurm zwingt zum Abbruch der Spiceernte.",
       "interest": "Der Sandwurm zwingt zum Abbruch der Spiceernte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Sandwurm zwingt zum Abbruch der Spiceernte."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Herzog Leto (Oscar Isaac) soll Arrakis übernehmen.",
       "context": "Herzog Leto (Oscar Isaac) soll Arrakis übernehmen. Hinter der Auszeichnung steckt jedoch ein gegen sein Haus gerichteter Plan; die neue politische Aufgabe führt die Familie in eine gefährliche Abhängigkeit.",
-      "anchor": "Der neue Herrschaftsauftrag ist zugleich eine Falle.",
       "interest": "Der neue Herrschaftsauftrag ist zugleich eine Falle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der neue Herrschaftsauftrag ist zugleich eine Falle."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Der Test prüft, ob Paul unter Schmerz und Todesdrohung seine Impulse kontrolliert.",
       "context": "Der Test prüft, ob Paul unter Schmerz und Todesdrohung seine Impulse kontrolliert. Die ehrwürdige Mutter (Charlotte Rampling) unterscheidet so zwischen bloßem Fluchtreflex und bewusster Selbstbeherrschung.",
-      "anchor": "Paul muss den Fluchtimpuls beherrschen.",
       "interest": "Paul muss den Fluchtimpuls beherrschen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Paul muss den Fluchtimpuls beherrschen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Yueh hofft auf die Freigabe seiner vom Baron festgehaltenen Frau.",
       "context": "Yueh hofft auf die Freigabe seiner vom Baron festgehaltenen Frau. Er legt die Schutzschilde lahm und macht den Angriff möglich; zugleich gibt er Leto (Oscar Isaac) eine Giftwaffe gegen den Baron.",
-      "anchor": "Yuehs erpresste Loyalität öffnet die Festung.",
       "interest": "Yuehs erpresste Loyalität öffnet die Festung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Yuehs erpresste Loyalität öffnet die Festung."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die Bene Gesserit haben auf Arrakis Glaubensvorstellungen vorbereitet.",
       "context": "Die Bene Gesserit haben auf Arrakis Glaubensvorstellungen vorbereitet. Jessica (Rebecca Ferguson) erkennt darin eine nutzbare Schutzstrategie; die religiöse Erwartung entsteht also nicht erst durch Pauls (Timothée Chalamet) Ankunft.",
-      "anchor": "Die Prophezeiung wurde vor Pauls Ankunft angelegt.",
       "interest": "Die Prophezeiung wurde vor Pauls Ankunft angelegt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Prophezeiung wurde vor Pauls Ankunft angelegt."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Paul (Timothée Chalamet) tötet Jamis im rituellen Duell.",
       "context": "Paul (Timothée Chalamet) tötet Jamis im rituellen Duell. Der Sieg beendet seine bisherige Rolle als bloß behüteter Erbe und erlaubt ihm, bei den Fremen zu bleiben; die größere politische Entwicklung liegt noch vor ihm.",
-      "anchor": "Das erste tödliche Duell führt Paul in eine neue Gemeinschaft.",
       "interest": "Das erste tödliche Duell führt Paul in eine neue Gemeinschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das erste tödliche Duell führt Paul in eine neue Gemeinschaft."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2021 wurde die Fassung in Venedig erstmals gezeigt.",
       "context": "2021 wurde die Fassung in Venedig erstmals gezeigt. Frank Herberts Roman erschien 1965, 56 Jahre zuvor; David Lynchs frühere Verfilmung stammt von 1984. Die lange Adaptionsgeschichte hilft, Villeneuves Werk von der älteren Filmfassung abzugrenzen.",
-      "anchor": "Roman 1965, Lynch-Film 1984, Villeneuve-Film 2021: 56 Jahre führen von der Vorlage zur neuen Fassung.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1965, Lynch-Film 1984, Villeneuve-Film 2021: 56 Jahre führen von der Vorlage zur neuen Fassung."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption.",
       "context": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption. Timothée Chalamet spielt Paul Atreides, Rebecca Ferguson seine Mutter Jessica. Der Film behandelt den ersten Teil des Romans und endet mit Pauls Aufnahme in die Fremenwelt.",
-      "anchor": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption.",
       "interest": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Denis Villeneuve inszenierte und schrieb gemeinsam mit Jon Spaihts und Eric Roth die Adaption."
     }
   ]
 }

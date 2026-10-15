@@ -37,12 +37,12 @@
       ],
       "short": "Der Umzug soll einen familiären Neubeginn ermöglichen.",
       "context": "Shane Cooper (Ryan Kwanten) zieht mit Alice (Claire van der Boom), seiner schwangeren Frau, in den kleinen Ort. Der gewünschte Neubeginn setzt eine ruhigere Umgebung voraus. Seine berufliche Begegnung mit der örtlichen Vergangenheit bedroht deshalb zugleich die private Zukunft, die das Paar gerade aufbauen möchte.",
-      "anchor": "Der erwartete familiäre Neubeginn trifft auf die verborgene Gewalt des neuen Ortes.",
       "interest": "Erfasst das persönliche Ziel des Umzugs.",
       "sources": [
         "screen"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der erwartete familiäre Neubeginn trifft auf die verborgene Gewalt des neuen Ortes."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Jimmy Conway ist aus der Haft entkommen.",
       "context": "Shane (Ryan Kwanten) trifft an seinem ersten Diensttag auf die Nachricht vom Ausbruch Jimmy Conways (Tom E. Lewis). Die örtliche Polizei reagiert mit ungewöhnlicher Angst. Der Neue erlebt damit sofort eine Bedrohung, deren Vorgeschichte seine Kollegen kennen, ihm aber zunächst nur unvollständig vermitteln.",
-      "anchor": "Die Ausbruchsnachricht zeigt dem Neuen eine Angst, deren Vorgeschichte ihm fehlt.",
       "interest": "Erklärt den Auslöser und den ungleichen Wissensstand.",
       "sources": [
         "screen"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Ausbruchsnachricht zeigt dem Neuen eine Angst, deren Vorgeschichte ihm fehlt."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die Auswahl der Opfer weckt Zweifel an der offiziellen Darstellung.",
       "context": "Jimmy (Tom E. Lewis) verschont Shane (Ryan Kwanten), während er andere Bewaffnete tötet. Das Verhalten passt nicht zur Annahme einer bloß wahllosen Bedrohung. Shane muss prüfen, was die übrigen Männer von ihm unterscheidet. Seine Stellung als Außenstehender wird so zum Ausgangspunkt eigener Erkenntnis.",
-      "anchor": "Das Verschonen des Neuen lenkt den Blick auf eine gemeinsame Vorgeschichte der anderen Opfer.",
       "interest": "Erklärt den Anlass für Zweifel und Nachforschung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Verschonen des Neuen lenkt den Blick auf eine gemeinsame Vorgeschichte der anderen Opfer."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die Waffe ist im Umzug noch nicht gefunden.",
       "context": "Shane (Ryan Kwanten) findet seine Pistole in den Umzugskartons nicht. Die scheinbar ruhige neue Umgebung lässt das Versäumnis zunächst harmlos erscheinen. Der folgende Einsatz verändert dessen Bedeutung. Der Film verbindet dadurch eine alltägliche Schwierigkeit des Ankommens mit der plötzlichen Verletzbarkeit im gefährlichen Dienst.",
-      "anchor": "Das alltägliche Umzugsproblem wird im ersten Einsatz zur gefährlichen fehlenden Ausrüstung.",
       "interest": "Erklärt die veränderte Bedeutung eines frühen Alltagsdetails.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das alltägliche Umzugsproblem wird im ersten Einsatz zur gefährlichen fehlenden Ausrüstung."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Gleason offenbart die Schuld der örtlichen Männer.",
       "context": "Gleason (Cliff Ellen) erzählt Shane (Ryan Kwanten), dass Old Bill (Steve Bisley) und seine Leute Jimmys Frau töteten. Jimmy (Tom E. Lewis) wurde dafür verurteilt. Die Nachforschung kehrt das ursprüngliche Machtbild um: Die scheinbar schützende Polizei trägt die Schuld an der Vorgeschichte der Rache.",
-      "anchor": "Die örtliche Polizei steckt hinter dem Verbrechen, das dem Verfolgten angelastet wurde.",
       "interest": "Erklärt die zentrale Umkehr von Schuld und Autorität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die örtliche Polizei steckt hinter dem Verbrechen, das dem Verfolgten angelastet wurde."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Jimmy nennt die verlorene Schwangerschaft.",
       "context": "Jimmy (Tom E. Lewis) sagt vor seinem Tod, dass seine Frau mit einem Sohn schwanger war. Shane (Ryan Kwanten) erwartet selbst ein Kind. Die Mitteilung verbindet den Verlust des Verfolgten mit einer Zukunft, die der neue Polizist noch vor sich hat, und macht das frühere Verbrechen persönlich greifbar.",
-      "anchor": "Jimmys verlorene Schwangerschaft spiegelt die noch offene familiäre Zukunft Shanes.",
       "interest": "Erklärt die Beziehung zwischen Schlussmitteilung und Anfang des Films.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jimmys verlorene Schwangerschaft spiegelt die noch offene familiäre Zukunft Shanes."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2010 folgt zwei Jahre nach 2008.",
       "context": "Patrick Hughes drehte Signs 2008. Red Hill erschien 2010, zwei Jahre später. Der zeitliche Übergang verbindet die kurze, auf Begegnung angelegte Arbeit mit dem langen Film über einen neuen Polizisten. Screen Australia führt Hughes dabei ausdrücklich als Autor, Regisseur und Mitproduzenten des Spielfilms.",
-      "anchor": "2008 Signs, 2010 Red Hill: zwei Jahre vom Kurzfilm zum langen Westernthriller.",
       "interest": "Verankert das Jahr in einer belegten vorherigen Arbeit.",
       "sources": [
         "screen",
         "vorarbeit"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2008 Signs, 2010 Red Hill: zwei Jahre vom Kurzfilm zum langen Westernthriller."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "Hughes führte Regie.",
       "context": "Patrick Hughes schrieb das Drehbuch, führte Regie und produzierte gemeinsam mit Al Clark. Screen Australia nennt Greg McLean hingegen als ausführenden Produzenten. Die Credits unterscheiden damit verschiedene Aufgaben innerhalb derselben Produktion. Hughes verantwortete besonders unmittelbar die Verbindung von neuem Blickwinkel und schrittweiser Enthüllung des Orts.",
-      "anchor": "Hughes bündelt Schreiben, Inszenieren und Mitproduzieren; weitere Produzenten haben andere Credits.",
       "interest": "Klärt die Regie gegenüber prominenten Produktionsbeteiligten.",
       "sources": [
         "screen"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hughes bündelt Schreiben, Inszenieren und Mitproduzieren; weitere Produzenten haben andere Credits."
     }
   ]
 }

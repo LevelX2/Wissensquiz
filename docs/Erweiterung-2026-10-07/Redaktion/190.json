@@ -35,12 +35,12 @@
       ],
       "short": "Maya besitzt langjährige Erfahrung im Supermarkt, wird aber wegen ihres fehlenden Collegeabschlusses übergangen.",
       "context": "Maya besitzt langjährige Erfahrung im Supermarkt, wird aber wegen ihres fehlenden Collegeabschlusses übergangen. Die Geschichte beginnt damit mit einer konkreten Lücke zwischen praktischer Leistung und formaler Qualifikation. Der neue Bewerbungsweg wird später diese Lücke überdecken. Ihre tatsächlichen Kenntnisse müssen sich dennoch in Aufgaben bewähren, die ein erfundener Abschluss allein nicht löst.",
-      "anchor": "Mayas Erfahrung verliert gegen die formale Abschlussanforderung.",
       "interest": "Die berufliche Ausgangshürde erkennen.",
       "sources": [
         "stx"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mayas Erfahrung verliert gegen die formale Abschlussanforderung."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Maya kommt in ein Kosmetikunternehmen.",
       "context": "Maya kommt in ein Kosmetikunternehmen. Dort muss sie ihre praktische Erfahrung auf die Entwicklung und Vermarktung neuer Produkte übertragen. Der Branchenwechsel erweitert die berufliche Herausforderung über eine einfache Beförderung hinaus. Die Figur erhält Gelegenheit, ihre Kenntnisse über Kunden und Verkaufsalltag in eine Umgebung einzubringen, die zunächst nach ganz anderen Qualifikationen aussieht.",
-      "anchor": "Vom Supermarkt wechselt Maya zur Kosmetikfirma.",
       "interest": "Den konkreten Arbeitsbereich des Neuanfangs erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vom Supermarkt wechselt Maya zur Kosmetikfirma."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Der Sohn ihrer Freundin überarbeitet ohne ihr Wissen ihre Onlinequalifikationen.",
       "context": "Der Sohn ihrer Freundin überarbeitet ohne ihr Wissen ihre Onlinequalifikationen. Die erfundene Vita macht sie für die neue Firma interessant, zwingt sie aber zu Erklärungen über Fähigkeiten, die sie gar nicht besitzt. Der Film verschiebt so die Bewerbungsfrage in einen fortgesetzten Alltagstest. Maya muss zwischen dem zugeschriebenen Profil und ihrer eigenen Erfahrung handeln.",
-      "anchor": "Der fremd erfundene Onlinelebenslauf schafft Mayas neue Rolle.",
       "interest": "Die Urheberschaft der beruflichen Täuschung verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der fremd erfundene Onlinelebenslauf schafft Mayas neue Rolle."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Maya erhält sprachliche Hilfe über einen Ohrhörer.",
       "context": "Maya erhält sprachliche Hilfe über einen Ohrhörer. Der Trick überbrückt eine Fähigkeit, die ihr erfundener Lebenslauf behauptet. Die Szene stellt damit die äußerlich souveräne Firmenrolle neben eine unsichtbare Unterstützung aus ihrem bisherigen Umfeld. Ihre alten Kontakte bleiben wichtig, während die neue Identität nach außen als persönliche Leistung erscheint.",
-      "anchor": "Der Ohrhörer verbindet Mayas neue Rolle mit Hilfe von außen.",
       "interest": "Das konkrete Überbrücken einer erfundenen Fähigkeit erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Ohrhörer verbindet Mayas neue Rolle mit Hilfe von außen."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Zoe ist das Kind, das Maya als junge Mutter zur Adoption freigegeben hatte.",
       "context": "Zoe ist das Kind, das Maya als junge Mutter zur Adoption freigegeben hatte. Ihre Begegnung in der Firma erhält dadurch eine persönliche Vorgeschichte, die beide zunächst nicht vollständig kennen. Die berufliche Konkurrenz muss nun neben einem verlorenen Familienverhältnis eingeordnet werden. Das neue Leben in Manhattan führt Maya somit auch zu einem früheren Abschnitt ihres eigenen Lebens zurück.",
-      "anchor": "Die Kolleginnen sind leibliche Mutter und Tochter.",
       "interest": "Eine Familienenthüllung mit der beruflichen Begegnung verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Kolleginnen sind leibliche Mutter und Tochter."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Maya erklärt öffentlich die Täuschung hinter ihren angeblichen Qualifikationen.",
       "context": "Maya erklärt öffentlich die Täuschung hinter ihren angeblichen Qualifikationen. Gleichzeitig nennt sie die tatsächlichen Beiträge ihres Teams. Ihr Erfolg erhält damit eine neue Grundlage, die zu ihrer realen Arbeit passt. Die Szene verlangt jedoch einen Preis: Die Offenheit kann das Vertrauen anderer verletzen, bevor eine persönliche Versöhnung überhaupt möglich wird.",
-      "anchor": "Maya verbindet den eigenen Ausstieg aus der Lüge mit Anerkennung des Teams.",
       "interest": "Die öffentliche Schlussentscheidung erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Maya verbindet den eigenen Ausstieg aus der Lüge mit Anerkennung des Teams."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Erstveröffentlichung 2018; regulärer US-Kinostart am 21. Dezember 2018.",
       "context": "„Manhattan Queen“ erschien 2018. Die Dreharbeiten hatten im Oktober 2017 begonnen und im Dezember desselben Jahres geendet: Der Film folgte im nächsten Kalenderjahr. Der Zeitanker verbindet das Erscheinungsjahr mit der konkreten New Yorker Produktion. Er passt zur Geschichte, in der der Wechsel vom Queens-Supermarkt in eine Manhattan-Firma eine neue öffentliche Lebensphase eröffnet.",
-      "anchor": "2017 der New-York-Dreh, 2018 „Manhattan Queen“: im nächsten Jahr.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2017 der New-York-Dreh, 2018 „Manhattan Queen“: im nächsten Jahr."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Peter Segal inszenierte das Drehbuch von Justin Zackham und Elaine Goldsmith-Thomas.",
       "context": "Peter Segal inszenierte das Drehbuch von Justin Zackham und Elaine Goldsmith-Thomas. Jennifer Lopez übernahm die Hauptrolle und war zugleich Produzentin. Die Zusammenarbeit gestaltet Mayas beruflichen Wechsel als Komödie über Wissen, Lebenslauf und Anerkennung. Neben der neuen Firmenumgebung behalten ihre Freundschaften aus Queens eine Funktion als persönlicher Rückhalt.",
-      "anchor": "Segal und Produzentin Lopez stellen Lebenserfahrung neben den erfundenen Lebenslauf.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "stx"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Segal und Produzentin Lopez stellen Lebenserfahrung neben den erfundenen Lebenslauf."
     }
   ]
 }

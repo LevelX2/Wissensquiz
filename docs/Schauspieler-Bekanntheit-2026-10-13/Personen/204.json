@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Arati beginnt als Verkäuferin zu arbeiten.",
       "context": "Das Einkommen ihres Mannes reicht für die Familie nicht aus. Aratis Erwerbstätigkeit verändert ihre Stellung zu Hause und eröffnet ihr neue Beziehungen außerhalb der Wohnung. Ihre wachsende Selbstständigkeit entsteht aus wirtschaftlicher Notwendigkeit und eigener Erfahrung.",
-      "anchor": "Das erste eigene Einkommen",
       "interest": "Die Berufsfrage erschließt den sozialen Ausgangspunkt einer bedeutenden Hauptrolle.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Mahanagar",
         "https://www.criterion.com/current/posts/2871-the-big-city-a-woman-s-place"
-      ]
+      ],
+      "objective": "Das erste eigene Einkommen"
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 2,
       "short": "Charulata benutzt ein Opernglas.",
       "context": "Sie kann das Leben auf der Straße sehen, aber nicht selbstverständlich daran teilnehmen. Auch ihren vorbeigehenden Ehemann betrachtet sie durch das Glas. Die kleine Bewegung verbindet neugierige Aufmerksamkeit mit der Distanz innerhalb ihrer Ehe.",
-      "anchor": "Das Opernglas am Fenster",
       "interest": "Ein wiedererkennbares Requisit führt zum emotionalen Raum der Figur.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/2872-charulata-calm-without-fire-within"
-      ]
+      ],
+      "objective": "Das Opernglas am Fenster"
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Arati solidarisiert sich mit Edith.",
       "context": "Ihr Chef behandelt die angloindische Kollegin herablassend und entlässt sie. Arati widerspricht, obwohl ihre Familie das Geld dringend braucht. Dadurch wird ihre berufliche Selbstständigkeit zugleich zu einer Frage der Haltung gegenüber rassistischer Ausgrenzung.",
-      "anchor": "Solidarität kostet den Arbeitsplatz",
       "interest": "Der Konflikt verbindet Geschlechterrollen und Vorurteile am selben Arbeitsplatz.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/2871-the-big-city-a-woman-s-place"
-      ]
+      ],
+      "objective": "Solidarität kostet den Arbeitsplatz"
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 1,
       "short": "Karuna und Amitabha hatten eine Liebesbeziehung.",
       "context": "Ein Plantagenmanager nimmt einen gestrandeten Reisenden bei sich auf. Der Gast erkennt in dessen Frau seine frühere Geliebte. Seine einstige Unentschlossenheit belastet das Wiedersehen, während der Gastgeber die Spannung zwischen beiden zunächst nicht durchschaut.",
-      "anchor": "Der Gast aus der Vergangenheit",
       "interest": "Die Vorgeschichte erklärt die Bedeutung der Blicke und Gesprächspausen.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/6635-the-silent-gaze-in-satyajit-ray-s-almost-love-story"
-      ]
+      ],
+      "objective": "Der Gast aus der Vergangenheit"
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 3,
       "short": "Sein Kastenvorurteil steht der Beziehung entgegen.",
       "context": "Der Bruder hat den jungen Abhiram nach der Vertreibung aufgenommen. Als Sita und Abhiram heiraten wollen, zieht er jedoch eine soziale Grenze. Die beiden verlassen ihn. So verbindet Ghatak die Suche nach einem neuen Zuhause mit Ausgrenzung innerhalb der eigenen Gemeinschaft.",
-      "anchor": "Zuflucht ohne gesellschaftliche Gleichheit",
       "interest": "Der familiäre Widerspruch macht die Tragödie präziser als eine bloße Fluchtgeschichte.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Subarnarekha_(film)"
-      ]
+      ],
+      "objective": "Zuflucht ohne gesellschaftliche Gleichheit"
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 3,
       "short": "Die mögliche Versöhnung bleibt in einer ausgesparten Berührung offen.",
       "context": "Die Bildfolge hält den Augenblick zwischen Annäherung und Verbindung fest. Charulatas Gefühle und die Enttäuschung ihres Mannes werden dadurch nicht mit einer einfachen Lösung abgeschlossen. Die Geste lässt dem Publikum die Frage, was sich in dieser Ehe noch wiederherstellen lässt.",
-      "anchor": "Hände vor der Berührung",
       "interest": "Das Wissen über eine präzise gespielte Geste erschließt die offene Form des Endes.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/2872-charulata-calm-without-fire-within"
-      ]
+      ],
+      "objective": "Hände vor der Berührung"
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 1,
       "short": "Sie nahm Unterricht im Sticken.",
       "context": "Mukherjee erinnerte sich, dass Ray auch unscheinbare Tätigkeiten auf die dargestellte Zeit abstimmte. Eine Stickarbeit gehört bereits zu den ersten Bildern der Figur. Die Vorbereitung gab dieser häuslichen Beschäftigung eine praktische Grundlage.",
-      "anchor": "Alltagshandwerk als Rollenvorbereitung",
       "interest": "Die kleine Fertigkeit zeigt den Aufwand hinter einer scheinbar mühelosen Darstellung.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://indianexpress.com/article/entertainment/regional/i-dont-know-what-it-means-to-be-an-ideal-satyajit-ray-heroine-madhabi-mukherjee/"
-      ]
+      ],
+      "objective": "Alltagshandwerk als Rollenvorbereitung"
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 0,
       "short": "Ray erläuterte den Rahmen und vertraute ihrer Umsetzung.",
       "context": "Im Interview unterschied Mukherjee Rays genaue Vorstellung des Films von seinem Umgang mit ihr als Schauspielerin. Er erläuterte die emotionale Lage und überließ ihr die Ausführung. Präzise Planung und Freiheit vor der Kamera konnten in dieser Zusammenarbeit nebeneinander bestehen.",
-      "anchor": "Eine klare Vorgabe mit Spielraum",
       "interest": "Die Frage zeigt, wie eine Schauspielerin die Zusammenarbeit selbst erlebte.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       ],
       "extraSources": [
         "https://indianexpress.com/article/entertainment/regional/i-dont-know-what-it-means-to-be-an-ideal-satyajit-ray-heroine-madhabi-mukherjee/"
-      ]
+      ],
+      "objective": "Eine klare Vorgabe mit Spielraum"
     }
   ]
 }

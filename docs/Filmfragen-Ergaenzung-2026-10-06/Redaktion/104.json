@@ -33,13 +33,13 @@
       ],
       "short": "Die Besitzer reisen zur Mayflower-Hundeschau.",
       "context": "Mehrere Besitzer, Trainer und Hunde fahren nach Philadelphia, um an der Mayflower Kennel Club Dog Show teilzunehmen. Die Konkurrenz der Tiere eröffnet zugleich den Blick auf die Menschen: Ihre Partnerschaften, Unsicherheiten und Selbstbilder werden ausgerechnet durch das Bemühen um einen perfekt präsentierten Hund sichtbar.",
-      "anchor": "Die Hunde konkurrieren; die Besitzer offenbaren sich.",
       "interest": "Die Hunde konkurrieren; die Besitzer offenbaren sich.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Hunde konkurrieren; die Besitzer offenbaren sich."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Der Film tut so, als dokumentiere er wirkliche Besitzer und ihre Hunde.",
       "context": "Interviews und scheinbar beiläufige Beobachtungen geben den erfundenen Figuren einen glaubhaften Rahmen. Die Zuschauer begegnen übersteigert ehrgeizigen, nervösen und selbstzufriedenen Besitzern. Die Komik braucht dabei keinen Erzähler, der die Pointe erklärt: Gerade die Ernsthaftigkeit, mit der die Menschen über ihre Hunde sprechen, erzeugt den Widerspruch.",
-      "anchor": "Der dokumentarische Ernst trägt die erfundenen Übertreibungen.",
       "interest": "Der dokumentarische Ernst trägt die erfundenen Übertreibungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der dokumentarische Ernst trägt die erfundenen Übertreibungen."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Die nicht bezahlte Kreditkartenrechnung verhindert ein normales Zimmer.",
       "context": "Gerry Fleck (Eugene Levy) und Cookie Fleck (Catherine O’Hara) kommen mit ihrem Terrier an, können aber das Zimmer nicht wie geplant bezahlen. Der Lagerraum setzt einen nüchternen Geldmangel gegen die glänzende Wettbewerbswelt. Ihr Ehrgeiz bleibt erhalten, obwohl der Aufenthalt weit entfernt von der erhofften gesellschaftlichen Anerkennung beginnt.",
-      "anchor": "Kreditkartenprobleme verlegen die Flecks hinter die Hotelkulissen.",
       "interest": "Kreditkartenprobleme verlegen die Flecks hinter die Hotelkulissen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Kreditkartenprobleme verlegen die Flecks hinter die Hotelkulissen."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Cookie kann nach ihrer Knieverletzung nicht auftreten.",
       "context": "Cookie Fleck (Catherine O’Hara) soll Winky präsentieren, doch eine verrenkte Kniescheibe verhindert das. Gerry Fleck (Eugene Levy) übernimmt trotz seiner Unsicherheit und seiner buchstäblich zwei linken Füße. Die Wendung verlagert den entscheidenden Auftritt vom routinierten Plan auf eine unerwartete Bewährungsprobe ihres Partners.",
-      "anchor": "Cookies Knie macht Gerry zum ungeplanten Hundeführer.",
       "interest": "Cookies Knie macht Gerry zum ungeplanten Hundeführer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Cookies Knie macht Gerry zum ungeplanten Hundeführer."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Buck liefert selbstbewussten Unsinn neben dem sachkundigen Fachkommentator.",
       "context": "Buck Laughlin (Fred Willard) begleitet den Experten Trevor Beckwith (Jim Piddock). Seine Einwürfe klingen wie routinierte Sportberichterstattung, passen aber selten zur Hundeschau. Dadurch wird nicht nur ein einzelner Sprecher lächerlich: Der Film zeigt, wie leicht eine vertraute Präsentationsform den Eindruck von Kompetenz erzeugt, obwohl die Kenntnisse fehlen.",
-      "anchor": "Sicherer Kommentatorenton ersetzt keine Hundekenntnis.",
       "interest": "Sicherer Kommentatorenton ersetzt keine Hundekenntnis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sicherer Kommentatorenton ersetzt keine Hundekenntnis."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Viele Dialoge entstanden durch Improvisation der Darsteller.",
       "context": "Christopher Guest und Eugene Levy legten die Figuren und den Verlauf an, die Darsteller entwickelten vieles beim Spielen. Aus dem umfangreichen Material entstand im Schnitt die geschlossene Komödie. Improvisation bedeutet hier deshalb keine zufällige Zusammenstellung: Wiederkehrende Beziehungen und der gemeinsame Wettbewerb geben den Einfällen eine Form.",
-      "anchor": "Angelegte Figuren plus improvisierte Dialoge ergeben die scheinbare Dokumentation.",
       "interest": "Angelegte Figuren plus improvisierte Dialoge ergeben die scheinbare Dokumentation.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Angelegte Figuren plus improvisierte Dialoge ergeben die scheinbare Dokumentation."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2000.",
       "context": "Best in Show erschien 2000. Christopher Guests Waiting for Guffman war bereits 1996 beim Boston Film Festival gezeigt worden, vier Jahre früher. Beide Filme nutzen erfundene Figuren und improvisierte Gespräche in einem dokumentarischen Rahmen; der neue Wettbewerb verschiebt diese Methode vom Theaterensemble zu Hundebesitzern.",
-      "anchor": "Guffman 1996, Hundeschau 2000: vier Jahre bis zur nächsten Mockumentary.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Guffman 1996, Hundeschau 2000: vier Jahre bis zur nächsten Mockumentary.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Guffman 1996, Hundeschau 2000: vier Jahre bis zur nächsten Mockumentary."
     },
     {
       "code": "D",
@@ -203,14 +203,14 @@
       ],
       "short": "Der Regiecredit lautet Christopher Guest.",
       "context": "Christopher Guest führte Regie und schrieb mit Eugene Levy die Grundlage des Films. Guest spielt selbst den Hundebesitzer Harlan Pepper, Levy den unsicheren Gerry Fleck. Der Film wurde nicht einfach bei einer echten Ausstellung eingefangen: Für die Produktion musste eine eigene Hundeschau organisiert werden.",
-      "anchor": "Christopher Guest: Guest spielt selbst den Hundebesitzer Harlan Pepper, Levy den unsicheren Gerry Fleck.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Christopher Guest: Guest spielt selbst den Hundebesitzer Harlan Pepper, Levy den unsicheren Gerry Fleck."
     }
   ]
 }

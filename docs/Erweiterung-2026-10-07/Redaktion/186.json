@@ -37,12 +37,12 @@
       ],
       "short": "Jean arbeitet als Kellner in einem großen Hotel.",
       "context": "Jean arbeitet als Kellner in einem großen Hotel. Er gehört zum Personal der Luxuswelt, in der Irène reiche Begleiter sucht. Als er vorübergehend wie ein Gast auftritt, bekommt sein Alltag eine neue Richtung. Sein Beruf bleibt dabei körperlich sichtbar: Selbst in der angenommenen Rolle reagiert er auf die vertrauten Anforderungen des Service.",
-      "anchor": "Jean bedient die Hotelgäste und wird selbst für einen gehalten.",
       "interest": "Die berufliche Ausgangslage erkennen.",
       "sources": [
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jean bedient die Hotelgäste und wird selbst für einen gehalten."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Irène sucht wohlhabende Männer, die ihr ein komfortables Leben ermöglichen.",
       "context": "Irène sucht wohlhabende Männer, die ihr ein komfortables Leben ermöglichen. Ihr Verhalten erklärt, warum Jeans vermeintlicher Reichtum bei der ersten Begegnung so wichtig ist. Die Liebe bringt dieses Lebensmodell später in Schwierigkeiten. Sie muss entscheiden, welchen Wert eine Beziehung besitzt, wenn sie ihr keine materielle Sicherheit verspricht.",
-      "anchor": "Irène sucht zunächst finanzierten Luxus.",
       "interest": "Das anfängliche Beziehungsmotiv erfassen.",
       "sources": [
         "quebec"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Irène sucht zunächst finanzierten Luxus."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Madeleine bezahlt Jeans Rechnung und nimmt ihn als Begleiter auf.",
       "context": "Madeleine bezahlt Jeans Rechnung und nimmt ihn als Begleiter auf. Damit gerät er in eine ähnliche Abhängigkeit wie Irène. Die neue Position macht ihn für sie zum möglichen Verbündeten, kostet ihn aber persönliche Freiheit. Die Luxusgeschenke erscheinen nun als Teil einer Vereinbarung, in der ein anderer Mensch über seine verfügbare Zeit verfügt.",
-      "anchor": "Madeleines Geld macht Jean zu Irènes Kollegen im gleichen Lebensmodell.",
       "interest": "Den Rollenwechsel zum bezahlten Begleiter verstehen.",
       "sources": [
         "presse"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Madeleines Geld macht Jean zu Irènes Kollegen im gleichen Lebensmodell."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Jean verkauft die wertvolle Uhr, die Madeleine ihm geschenkt hatte.",
       "context": "Jean verkauft die wertvolle Uhr, die Madeleine ihm geschenkt hatte. Das Geld ermöglicht Irène einen weiteren Aufenthalt und einen neuen Auftritt in der wohlhabenden Gesellschaft. Er verwendet damit ein Zeichen seiner eigenen Abhängigkeit, um ihr Handlungsspielraum zu verschaffen. Das Geschenk verändert seinen Zweck, sobald er über dessen Verwendung selbst entscheidet.",
-      "anchor": "Die geschenkte Uhr bezahlt Irènes neue Chance.",
       "interest": "Den Weg eines konkreten Luxusgegenstands verfolgen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die geschenkte Uhr bezahlt Irènes neue Chance."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Jean gibt sich Agnès gegenüber als reicher Prinz aus.",
       "context": "Jean gibt sich Agnès gegenüber als reicher Prinz aus. Irène möchte dadurch wieder Zugang zu Jacques gewinnen. Das abgestimmte Täuschungsmanöver bringt jedoch eine echte emotionale Reaktion hervor: Irène sieht Jean mit einer anderen Frau und kann ihre Eifersucht nicht verdrängen. Die erfundene soziale Stellung erreicht deshalb mehr als das ursprünglich geplante Geschäft.",
-      "anchor": "Der falsche Prinz macht Irènes echte Eifersucht sichtbar.",
       "interest": "Die letzte gemeinsame Täuschung von ihrem Ergebnis unterscheiden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der falsche Prinz macht Irènes echte Eifersucht sichtbar."
     },
     {
       "code": "S2",
@@ -157,13 +157,13 @@
       ],
       "short": "Die Münze wird am Ende für die Weiterfahrt verwendet.",
       "context": "Die Münze wird am Ende für die Weiterfahrt verwendet. Zuvor hatte Jean damit zusätzliche Sekunden von Irènes Aufmerksamkeit erkauft; später gab sie sie ihm als Zeichen ihrer vergleichbaren Lage zurück. Salvadori beschreibt den letzten Umlauf als Befreiung von der Fixierung auf Geld. Ein kleiner Gegenstand verbindet so die verschiedenen Stadien ihrer Beziehung.",
-      "anchor": "Aus dem bezahlten Augenblick wird eine gemeinsame Weiterfahrt.",
       "interest": "Ein wiederkehrendes Objekt über mehrere Szenen deuten.",
       "sources": [
         "presse",
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Aus dem bezahlten Augenblick wird eine gemeinsame Weiterfahrt."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "Erste Festivalvorführung am 18. November 2006 in Arras; französischer Kinostart am 13. Dezember 2006.",
       "context": "„Liebe um jeden Preis“ erschien 2006. Salvadoris vorheriger Film „Après vous“ war 2003 veröffentlicht worden: drei Jahre zuvor. Beide gehören zu seinen Komödien über ungewöhnliche Zweierkonstellationen. Die zeitliche Verbindung ordnet die Hotelgeschichte in eine konkrete Arbeitsfolge ein, statt ihr Erscheinungsjahr nur mit einem späteren deutschen Start zu verknüpfen.",
-      "anchor": "2003 „Après vous“, 2006 „Liebe um jeden Preis“: drei Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "sacd"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2003 „Après vous“, 2006 „Liebe um jeden Preis“: drei Jahre später."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "Pierre Salvadori schrieb das Buch mit Benoît Graffin und inszenierte Tautou und Elmaleh.",
       "context": "Pierre Salvadori schrieb das Buch mit Benoît Graffin und inszenierte Tautou und Elmaleh. Im Pressegespräch erläutert er die Zusammenarbeit mit Kameramann Gilles Henry: Bei den Hotelnächten konnte er ihm mehr Verantwortung für die Bildgestaltung überlassen. Diese vertraute Arbeitsteilung gab Salvadori Raum, sich auf die körperlichen Bewegungen und wechselnden Blicke der Figuren zu konzentrieren.",
-      "anchor": "Salvadori und Henry gestalten das Luxushotel als Raum für Blicke und Bewegung.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "presse"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Salvadori und Henry gestalten das Luxushotel als Raum für Blicke und Bewegung."
     }
   ]
 }

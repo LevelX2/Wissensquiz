@@ -36,12 +36,12 @@
       ],
       "short": "Die Kollegen besuchen John vor seinem Umzug zum Abschied.",
       "context": "Die Kollegen besuchen John vor seinem Umzug zum Abschied. Die harmlose Zusammenkunft wird zu einer langwierigen Prüfung seiner überraschenden Selbstauskunft; niemand ist als offizieller Ermittler gekommen.",
-      "anchor": "Die Abschiedsfeier wird zur Prüfung einer Lebensgeschichte.",
       "interest": "Die Abschiedsfeier wird zur Prüfung einer Lebensgeschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Abschiedsfeier wird zur Prüfung einer Lebensgeschichte."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "John behauptet, seit der Steinzeit zu leben und nicht normal zu altern.",
       "context": "John behauptet, seit der Steinzeit zu leben und nicht normal zu altern. Seine Freunde nehmen dies zunächst als Gedankenexperiment; die Wissenschaftler suchen nach Widersprüchen, die ein einfaches Spiel von einer realen Möglichkeit unterscheiden könnten.",
-      "anchor": "John behauptet ein menschliches Leben seit der Steinzeit.",
       "interest": "John behauptet ein menschliches Leben seit der Steinzeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "John behauptet ein menschliches Leben seit der Steinzeit."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "John erklärt, regelmäßige Umzüge verhinderten die Entdeckung seines Nichtalterns.",
       "context": "John erklärt, regelmäßige Umzüge verhinderten die Entdeckung seines Nichtalterns. Der Abschied verliert damit seine gewöhnliche Bedeutung: Er wiederholt eine Schutzhandlung, durch die er seit langer Zeit immer neue soziale Bindungen aufgeben müsste.",
-      "anchor": "Der Umzug schützt die verborgene Lebensdauer.",
       "interest": "Der Umzug schützt die verborgene Lebensdauer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Umzug schützt die verborgene Lebensdauer."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "John betont, dass lange Lebensdauer keine vollständige Erinnerung oder Allwissenheit schafft.",
       "context": "John betont, dass lange Lebensdauer keine vollständige Erinnerung oder Allwissenheit schafft. Er habe Ereignisse nur aus seiner begrenzten Position erlebt; diese Abgrenzung ist zentral für die Frage, welche Beweise man überhaupt erwarten darf.",
-      "anchor": "Ein langer Lebensweg ist keine allwissende Geschichtsschreibung.",
       "interest": "Ein langer Lebensweg ist keine allwissende Geschichtsschreibung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein langer Lebensweg ist keine allwissende Geschichtsschreibung."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "John (David Lee Smith) behauptet, seine Vermittlung buddhistischer Lehren im Westen sei zur Jesusgeschichte geworden.",
       "context": "John (David Lee Smith) behauptet, seine Vermittlung buddhistischer Lehren im Westen sei zur Jesusgeschichte geworden. Edith (Ellen Crawford) erlebt dies als Angriff auf ihren Glauben; eine abstrakte Altersfrage wird so zur persönlichen Erschütterung.",
-      "anchor": "Die Lebensgeschichte berührt die Überzeugungen der Zuhörer.",
       "interest": "Die Lebensgeschichte berührt die Überzeugungen der Zuhörer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Lebensgeschichte berührt die Überzeugungen der Zuhörer."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Will erkennt einen von Johns früheren Namen als den seines Vaters.",
       "context": "Will erkennt einen von Johns früheren Namen als den seines Vaters. Nach konkreten persönlichen Antworten bricht er zusammen; die bislang hypothetische Geschichte erreicht damit einen biografischen Bezug, der nicht nur aus Lehrbuchwissen stammen könnte.",
-      "anchor": "Der Gedankentest wird zu einer persönlichen Vaterfrage.",
       "interest": "Der Gedankentest wird zu einer persönlichen Vaterfrage.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Gedankentest wird zu einer persönlichen Vaterfrage."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2007 erschien der Film nach Jerome Bixbys letztem Drehbuch.",
       "context": "2007 erschien der Film nach Jerome Bixbys letztem Drehbuch. Bixby hatte den Text 1998 kurz vor seinem Tod fertiggestellt; neun Jahre liegen bis zur Verfilmung. Der Abstand passt zu einer Geschichte, die Lebensdauer und Erinnerung ausschließlich im Gespräch prüft.",
-      "anchor": "Drehbuch 1998, Film 2007: Neun Jahre nach Bixbys letztem Text wird die lange Lebenszeit im Gespräch geprüft.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Drehbuch 1998, Film 2007: Neun Jahre nach Bixbys letztem Text wird die lange Lebenszeit im Gespräch geprüft."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby.",
       "context": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby. David Lee Smith spielt John Oldman, dessen Kollegen verschiedene akademische Disziplinen vertreten. Die Regie lässt die fantastische Behauptung durch Fragen und Reaktionen prüfen, statt sie mit historischen Rückblenden zu beglaubigen.",
-      "anchor": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby.",
       "interest": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Richard Schenkman inszenierte das Drehbuch von Jerome Bixby."
     }
   ]
 }

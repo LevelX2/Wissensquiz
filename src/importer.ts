@@ -66,10 +66,9 @@ export function importCsv(
     report.issues.push(`Datensatz ${(error.row ?? 0) + 1}: ${error.message}`);
   const rows = parsed.data.map((row) =>
     Object.fromEntries(
-      Object.entries(row).map(([k, v]) => [
-        k,
-        typeof v === "string" ? v.trim() : "",
-      ]),
+      Object.entries(row)
+        .filter(([k]) => k !== "memory_anchor")
+        .map(([k, v]) => [k, typeof v === "string" ? v.trim() : ""]),
     ),
   );
   const counts = new Map<string, number>();
@@ -171,7 +170,6 @@ export function importCsv(
         correctId: `${key}:${letter}`,
         explanation: row.explanation_short,
         context: row.explanation_context || "",
-        anchor: row.memory_anchor || "",
         sources: urls,
         tags: (row.topic_tags || "").split(/[;,|]/).filter(Boolean),
         badgeTags: (row.badge_tags || "").split(/[;,|]/).filter(Boolean),

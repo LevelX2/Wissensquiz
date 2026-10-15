@@ -35,11 +35,11 @@
       ],
       "short": "Ahabs persönliche Rache bestimmt die Jagd.",
       "context": "Ahab (Gregory Peck) hat ein Bein durch den weißen Wal verloren. Er macht die Fahrt der Pequod zu einer persönlichen Vergeltungsjagd. Die Mannschaft befindet sich dadurch auf einem Walfangschiff, dessen Kapitän wirtschaftlichen Erfolg und Sicherheit einem anderen Ziel unterordnet.",
-      "anchor": "Ahab macht Walfang zur Rache.",
       "interest": "Das zentrale Motiv erklärt die Gefahr für die ganze Mannschaft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ahab macht Walfang zur Rache."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Ismael berichtet als Überlebender.",
       "context": "Ismael (Richard Basehart) heuert mit Queequeg (Friedrich von Ledebur) auf der Pequod an. Seine Erzählung führt das Publikum zu einem Kapitän, den es zunächst nur aus Warnungen kennt. Dass er später als einziger überlebt, gibt diesem Bericht seine besondere Perspektive.",
-      "anchor": "Ismael trägt die Erinnerung der Fahrt.",
       "interest": "Die Erzählperspektive wird mit dem Ausgang der Handlung verbunden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ismael trägt die Erinnerung der Fahrt."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Stubb und Flask verweigern die Unterstützung für die Absetzung.",
       "context": "Starbuck (Leo Genn) sieht die Sicherheit der Pequod durch Ahabs (Gregory Peck) Jagd gefährdet. Er schlägt den Offizieren Stubb (Harry Andrews) und Flask (Seamus Kelly) vor, dem Kapitän das Kommando zu entziehen. Sie lehnen ab. Seine Erkenntnis der Gefahr führt daher nicht zu einer gemeinsam getragenen Gegenmacht: Die Loyalitätsordnung bleibt bestehen, obwohl ihr Kurs immer bedrohlicher wird.",
-      "anchor": "Starbuck erkennt die Gefahr, findet aber keine Verbündeten für die Absetzung.",
       "interest": "Die gescheiterte Bündnisbildung unterscheidet sich von Ahabs bereits abgefragtem Rachemotiv.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Starbuck erkennt die Gefahr, findet aber keine Verbündeten für die Absetzung."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Ahab stellt seine Jagd über die Hilfsbitte.",
       "context": "Kapitän Gardiner (Francis de Wolff) sucht seinen verschwundenen Sohn und bittet um Hilfe. Ahab (Gregory Peck) setzt die eigene Verfolgung fort. Die Begegnung zeigt seine Prioritäten anhand einer konkreten menschlichen Bitte; später rettet gerade die Rachel Ismael (Richard Basehart).",
-      "anchor": "Ahab verweigert Hilfe – die Rachel rettet später.",
       "interest": "Die Begegnung erhält durch den Schluss einen moralischen Zusammenhang.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ahab verweigert Hilfe – die Rachel rettet später."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Ismael hält sich nach dem Untergang am Sarg fest.",
       "context": "Queequeg (Friedrich von Ledebur) lässt einen Sarg bauen, weil er seinen Tod erwartet. Er überlebt zunächst, doch das Objekt bleibt an Bord. Nach dem Untergang hält es Ismael (Richard Basehart) über Wasser: Ein Zeichen des erwarteten Todes wird zum Mittel des Überlebens.",
-      "anchor": "Queequegs Sarg trägt Ismael ins Leben.",
       "interest": "Ein früher Gegenstand erhält im Finale eine umgekehrte Funktion.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Queequegs Sarg trägt Ismael ins Leben."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Auch Starbuck ordnet jetzt die weitere Verfolgung an.",
       "context": "Starbuck (Leo Genn) hatte Ahabs (Gregory Peck) Fixierung kritisiert. Als der Kapitän auf dem Wal stirbt, führt er die Männer dennoch weiter in den Kampf. Die Filmfassung zeigt so, wie Ahabs Besessenheit über seinen Tod hinaus die Entscheidungen der Mannschaft bestimmt.",
-      "anchor": "Ahabs Jagd dauert nach Ahab an.",
       "interest": "Die Wendung erschließt einen Widerspruch im Verhalten des zuvor mahnenden Offiziers.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ahabs Jagd dauert nach Ahab an."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Die erste Aufführung fand 1956 statt.",
       "context": "Herman Melvilles Roman Moby-Dick erschien 1851. John Hustons Verfilmung mit Gregory Peck als Kapitän Ahab wurde 1956 veröffentlicht, 105 Jahre später. Die beiden Jahreszahlen verbinden den amerikanischen Literaturklassiker mit seiner farbigen Kinobearbeitung. Der Abstand erinnert zugleich daran, dass das Erscheinungsjahr der Vorlage und das des Films verschiedene Daten sind, auch wenn beide dieselbe besessene Waljagd erzählen.",
-      "anchor": "1851 Melvilles Roman – 1956 Hustons Waljagd: 105 Jahre Abstand.",
       "interest": "Premierenort und Handlung verankern das Jahr gemeinsam.",
       "sources": [
         "archiv",
         "zeitanker"
-      ]
+      ],
+      "objective": "1851 Melvilles Roman – 1956 Hustons Waljagd: 105 Jahre Abstand."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "John Huston führte Regie.",
       "context": "John Huston inszeniert Melvilles Roman und beteiligt sich am Drehbuch. Gregory Peck verkörpert den Kapitän, Orson Welles tritt als Pater Mapple auf. Welles’ markanter Auftritt ist ein Schauspielcredit und darf bei dieser Fassung nicht mit der Regie verwechselt werden.",
-      "anchor": "Huston inszeniert, Welles spielt den Prediger.",
       "interest": "Die Creditfrage klärt eine plausible Verwechslung.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Huston inszeniert, Welles spielt den Prediger."
     }
   ]
 }

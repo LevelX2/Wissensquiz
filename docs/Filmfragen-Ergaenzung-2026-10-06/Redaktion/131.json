@@ -34,14 +34,14 @@
       ],
       "short": "Rama soll die Verbindungen zwischen organisierter Kriminalität und Polizei aufdecken.",
       "context": "Rama (Iko Uwais) muss nach dem ersten Einsatz auch seine Familie schützen. Bunawar (Cok Simbara) gewinnt ihn für einen verdeckten Auftrag. Die neue Tätigkeit zwingt ihn, Vertrauen bei Kriminellen aufzubauen, während er Informationen gegen ihr Umfeld sucht; offene Überlegenheit im Kampf reicht für diese Aufgabe allein nicht aus.",
-      "anchor": "Rama braucht in der Unterwelt Vertrauen und zugleich Distanz.",
       "interest": "Rama braucht in der Unterwelt Vertrauen und zugleich Distanz.",
       "sources": [
         "handlung",
         "studio",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Rama braucht in der Unterwelt Vertrauen und zugleich Distanz."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Der gemeinsame Gefängnisaufenthalt schafft die Verbindung.",
       "context": "Rama (Iko Uwais) wird unter falscher Identität im selben Gefängnis wie Uco (Arifin Putra) untergebracht. Während eines Aufstands rettet er dessen Leben. Nach der Entlassung führt diese Loyalitätserfahrung in Banguns (Tio Pakusadewo) Organisation. Eine fingierte Straftäterbiografie wird damit durch eine echte Handlung glaubwürdig gemacht.",
-      "anchor": "Der Gefängnisschutz öffnet Rama die Tür zur Gangsterfamilie.",
       "interest": "Der Gefängnisschutz öffnet Rama die Tür zur Gangsterfamilie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Gefängnisschutz öffnet Rama die Tür zur Gangsterfamilie."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Rama nutzt Ucos Brieftasche für den Sender.",
       "context": "Uco (Arifin Putra) redet mit Rama (Iko Uwais) über seinen Unmut gegenüber dem Vater. Rama nutzt den vertraulichen Umgang für eine technische Beobachtung. Die Aufnahme legt die Verbindung zu Bejo (Alex Abbad) offen; die Freundschaftsgeste besitzt dadurch eine zweite, verdeckte Funktion innerhalb der Polizeimission.",
-      "anchor": "Die vertrauliche Brieftasche wird zur Quelle des Verratsplans.",
       "interest": "Die vertrauliche Brieftasche wird zur Quelle des Verratsplans.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die vertrauliche Brieftasche wird zur Quelle des Verratsplans."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Uco macht den friedenssuchenden Vater zum Hindernis seines Aufstiegs.",
       "context": "Bangun (Tio Pakusadewo) hält am Ausgleich mit der japanischen Gangsterfamilie fest. Uco (Arifin Putra) versteht diese Zurückhaltung als Schwäche und als Blockade der eigenen Stellung. Bejo (Alex Abbad) nutzt seinen Ehrgeiz. Das spätere Töten des Vaters ist deshalb die Zuspitzung eines Machtkonflikts innerhalb der Familie.",
-      "anchor": "Bejo benutzt Ucos Ehrgeiz gegen Banguns vorsichtigen Frieden.",
       "interest": "Bejo benutzt Ucos Ehrgeiz gegen Banguns vorsichtigen Frieden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bejo benutzt Ucos Ehrgeiz gegen Banguns vorsichtigen Frieden."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Eka erklärt Rama seine eigene verdeckte Polizeitätigkeit.",
       "context": "Eka (Oka Antara) rettet Rama (Iko Uwais) vor der Hinrichtung. Die spätere Enthüllung seiner Identität verändert den Blick auf die Gangsterumgebung: Nicht jeder scheinbare Insider ist nur das, was seine Position zeigt. Bunawars abweichende Darstellung von Ekas Verlauf hält zugleich das Misstrauen gegenüber den offiziellen Stellen aufrecht.",
-      "anchor": "Eka zeigt Rama eine zweite verdeckte Identität in der Unterwelt.",
       "interest": "Eka zeigt Rama eine zweite verdeckte Identität in der Unterwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eka zeigt Rama eine zweite verdeckte Identität in der Unterwelt."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Ein früheres eigenständiges Drehbuch wurde auf Ramas Geschichte angepasst.",
       "context": "Gareth Evans hatte Berandal schon vor dem Erfolg von The Raid entwickelt. Die später verfügbare Finanzierung ermöglichte, diesen Stoff mit der bestehenden Figur zu verbinden. Die Fortsetzung ist daher zugleich eine Erweiterung eines früheren Projekts; der Wechsel erklärt den deutlich größeren Gangster- und Polizeirahmen.",
-      "anchor": "Berandal wird von einem eigenen Projekt zu Ramas nächstem Fall.",
       "interest": "Berandal wird von einem eigenen Projekt zu Ramas nächstem Fall.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Berandal wird von einem eigenen Projekt zu Ramas nächstem Fall."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2014.",
       "context": "The Raid 2 erschien 2014 nach seiner Premiere in Sundance. The Raid war 2011 veröffentlicht worden, also drei Jahre zuvor. Die Fortsetzung beginnt dennoch unmittelbar nach dessen Handlung. Veröffentlichungsabstand und erzählter Zeitraum laufen hier bewusst auseinander: Im Kino vergingen Jahre, für Rama zunächst nur Stunden.",
-      "anchor": "The Raid 2011, The Raid 2 2014: drei Veröffentlichungsjahre, aber ein direkter Handlungsanschluss.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: The Raid 2011, The Raid 2 2014: drei Veröffentlichungsjahre, aber ein direkter Handlungsanschluss.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "The Raid 2011, The Raid 2 2014: drei Veröffentlichungsjahre, aber ein direkter Handlungsanschluss."
     },
     {
       "code": "D",
@@ -205,14 +205,14 @@
       ],
       "short": "Der Regiecredit lautet Gareth Evans.",
       "context": "Gareth Evans schrieb, inszenierte und schnitt den Film. Der bereits vor The Raid entwickelte Stoff Berandal wurde in dessen Welt eingebaut. Iko Uwais kehrt als Rama zurück; sein Polizeieinsatz weitet sich von einem einzelnen Gebäude zu einem Netz aus Gangsterfamilien und korrupten Amtsträgern aus.",
-      "anchor": "Gareth Evans: Der bereits vor The Raid entwickelte Stoff Berandal wurde in dessen Welt eingebaut.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Gareth Evans: Der bereits vor The Raid entwickelte Stoff Berandal wurde in dessen Welt eingebaut."
     }
   ]
 }

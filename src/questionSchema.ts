@@ -7,6 +7,13 @@ const id = z
     (value) => !["__proto__", "constructor", "prototype"].includes(value),
     "Reservierte ID",
   );
+export const questionMetadataSchema = z
+  .record(z.string(), z.string())
+  .transform((metadata) =>
+    Object.fromEntries(
+      Object.entries(metadata).filter(([key]) => key !== "memory_anchor"),
+    ),
+  );
 export const filmDisplaySchema = z.object({
   originalTitle: z.string(),
   year: z.number(),
@@ -53,7 +60,6 @@ export const portraitSchema = questionImageSchema.extend({
 export const presentationSchema = z.object({
   questionText: z.string(),
   deepContext: z.string(),
-  anchor: z.string(),
   sources: z.array(z.string()),
   familiarity: z.number().int().min(0).max(4),
   film: z.object({ text: z.string(), sources: z.array(z.string()) }).optional(),
@@ -103,7 +109,6 @@ export const questionSchema = z
     correctId: id,
     explanation: z.string().min(1).max(10000),
     context: z.string().max(12000),
-    anchor: z.string().max(4000),
     sources: z
       .array(
         z
@@ -114,7 +119,7 @@ export const questionSchema = z
       .max(20),
     tags: z.array(z.string()),
     badgeTags: z.array(z.string()),
-    metadata: z.record(z.string(), z.string()),
+    metadata: questionMetadataSchema,
     demo: z.boolean(),
     presentation: presentationSchema.optional(),
     image: questionImageSchema.optional(),

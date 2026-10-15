@@ -45,13 +45,13 @@
       ],
       "short": "Er will dem Vater und der Witwe seines gefallenen Kameraden begegnen.",
       "context": "Frank McCloud (Humphrey Bogart) besucht James Temple (Lionel Barrymore) und Nora (Lauren Bacall). Er kann ihnen von dem Mann erzählen, der unter seinem Kommando starb. Der freiwillige Erinnerungsbesuch führt ihn jedoch in das von Gangstern belegte Hotel. Die Familie wird so erst über gemeinsame Vergangenheit und dann über gemeinsame Gefahr mit ihm verbunden.",
-      "anchor": "Ein Besuch zum Gedenken wird zur gemeinsamen Bedrohung im Hotel.",
       "interest": "Die Ausgangslage erklärt Franks Bindung an die Familie.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Besuch zum Gedenken wird zur gemeinsamen Bedrohung im Hotel."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Der Hurrikan verzögert Flucht und Geschäfte der Gangster.",
       "context": "Der angekündigte Hurrikan zwingt die Menschen, sich auf die abgeschlossenen Räume zu konzentrieren. Johnny Rocco (Edward G. Robinson) kann seine Pläne nicht im erwarteten Tempo abwickeln. Die äußere Gefahr steigert deshalb die innere Gewalt, statt eine einfache Ablenkung zur Flucht zu liefern. Wetter und Machtkampf verstärken einander innerhalb desselben begrenzten Ortes.",
-      "anchor": "Der Hurrikan schließt den Raum und verzögert Roccos Pläne.",
       "interest": "Das Wetter erklärt die ungewöhnliche Enge und Dauer der Bedrohung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Hurrikan schließt den Raum und verzögert Roccos Pläne."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Nach ihrem mühsamen Lied hält Rocco das versprochene Getränk zurück.",
       "context": "Gaye Dawn (Claire Trevor) war Sängerin und ist inzwischen alkoholabhängig. Rocco (Edward G. Robinson) nutzt ihr Bedürfnis, um sie vor den anderen auftreten zu lassen. Als er seine Zusage nicht erfüllt, gibt Frank (Humphrey Bogart) ihr ein Getränk. Seine kleine Hilfe widersetzt sich damit einer konkret vorgeführten Machtausübung, noch bevor er bewaffnet handelt.",
-      "anchor": "Rocco macht Gayes Bedürfnis zum Schauspiel und bricht sein Versprechen.",
       "interest": "Die Szene erklärt die Gewaltform und Franks erste sichtbare Gegenhandlung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Rocco macht Gayes Bedürfnis zum Schauspiel und bricht sein Versprechen."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Frank muss das Boot steuern, weil der vorgesehene Bootsführer fort ist.",
       "context": "Der ursprüngliche Bootsführer steht nach dem Hurrikan nicht mehr zur Verfügung. Frank McCloud (Humphrey Bogart) besitzt die benötigte Erfahrung auf See und wird als Ersatz mitgenommen. Seine nützliche Fähigkeit verschärft zunächst die eigene Gefangenschaft. Auf dem Wasser kann sie später jedoch gegen die Männer wirken, die ihn gerade deshalb zur Flucht gezwungen haben.",
-      "anchor": "Die erzwungene Bootsführung macht Franks Erfahrung zugleich zur Gefahr und zur Chance.",
       "interest": "Die Aufgabe erklärt den Ortswechsel der abschließenden Auseinandersetzung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die erzwungene Bootsführung macht Franks Erfahrung zugleich zur Gefahr und zur Chance."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Er nutzt die bestehende Fahndung, um die Brüder für seinen Mord verantwortlich zu machen.",
       "context": "Rocco (Edward G. Robinson) erschießt Deputy Sawyer (John Rodney) und lässt die Leiche verschwinden. Als der Körper wieder auftaucht, richtet er den Verdacht auf die bereits gesuchten Brüder. Der Sheriff folgt dieser falschen Spur. Roccos Erklärung wirkt, weil sie eine vorhandene polizeiliche Erwartung ausnutzt und dafür unschuldige Menschen opfert.",
-      "anchor": "Rocco nutzt eine bestehende Fahndung als falsche Erklärung seines eigenen Mordes.",
       "interest": "Der Zusammenhang zeigt, wie ein plausibel wirkender Verdacht die tatsächliche Täterschaft verdeckt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Rocco nutzt eine bestehende Fahndung als falsche Erklärung seines eigenen Mordes."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Gaye stiehlt die Pistole und ermöglicht Frank damit den Widerstand auf See.",
       "context": "Gaye Dawn (Claire Trevor) hat Franks (Humphrey Bogart) Hilfe erlebt und wendet sich gegen Rocco (Edward G. Robinson). Sie nimmt ihm die Pistole ab und gibt sie unbemerkt weiter. Die frühere kleine Gegenhandlung wird damit erwidert und ermöglicht den späteren bewaffneten Widerstand. Die entscheidende Hilfe entsteht aus einer Beziehung, die Rocco nur als Abhängigkeit behandelt hatte.",
-      "anchor": "Gayes heimlich weitergegebene Pistole erwidert Franks frühere Hilfe.",
       "interest": "Die Handlung verbindet Fürsorge mit der praktischen Möglichkeit zum Widerstand.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Gayes heimlich weitergegebene Pistole erwidert Franks frühere Hilfe."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1948.",
       "context": "Maxwell Andersons Bühnenstück Key Largo wurde 1939 uraufgeführt. John Hustons Film folgte 1948, neun Jahre später. Die Filmfassung macht Frank McCloud (Humphrey Bogart) zum Veteranen des Zweiten Weltkriegs. Damit stehen seine Kriegserinnerung und seine neue Entscheidung gegenüber Gewalt in einer späteren historischen Situation als die ursprüngliche Bühne.",
-      "anchor": "Andersons Bühnenstück 1939 → Hustons Film 1948: neun Jahre.",
       "interest": "Die Vorlage verbindet das Filmjahr mit dem veränderten historischen Hintergrund des Veteranen.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Andersons Bühnenstück 1939 → Hustons Film 1948: neun Jahre."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "John Huston führte bei diesem Film Regie.",
       "context": "John Huston schrieb die Adaption mit Richard Brooks und führte Regie. Der größte Teil entstand im Studio, obwohl das Wetter und die Küstenlage den Ablauf bestimmen. Für Franks (Humphrey Bogart) Erinnerungen an seinen gefallenen Kameraden griff Huston auch auf Erfahrungen seiner Kriegsdokumentation zurück. Die persönliche Erinnerung verbindet den abgeschlossenen Gangsterraum mit einer größeren Kriegserfahrung.",
-      "anchor": "Huston verbindet die Bühnenadaption mit konkreten Erfahrungen aus seiner Kriegsdokumentation.",
       "interest": "Der Hintergrund erklärt, weshalb Franks Veteranenrolle mehr als eine allgemeine Heldenbiografie ist.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Huston verbindet die Bühnenadaption mit konkreten Erfahrungen aus seiner Kriegsdokumentation."
     }
   ],
   "category": "Classics"

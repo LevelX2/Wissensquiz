@@ -37,12 +37,12 @@
       ],
       "short": "Der Cavern Club gehört zum frühen Abschnitt des Films.",
       "context": "Der Cavern Club gehört zum frühen Abschnitt des Films. Der kleine Auftrittsort setzt eine andere Größenordnung als die späteren Stadionkonzerte. Die Dokumentation kann dadurch den Aufstieg räumlich sichtbar machen. Dieselbe Band begegnet ihrem Publikum unter Bedingungen, die sich während der Tourjahre stark verändern.",
-      "anchor": "Vom Cavern Club führt der Weg in die Stadionwelt.",
       "interest": "Der Ort macht den frühen Maßstab verständlich.",
       "sources": [
         "offiziell"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vom Cavern Club führt der Weg in die Stadionwelt."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Candlestick Park in San Francisco bildet den Endpunkt der regulären Tourneen.",
       "context": "Candlestick Park in San Francisco bildet den Endpunkt der regulären Tourneen. Der Schluss dieses Arbeitsabschnitts bedeutet jedoch nicht das Ende der Band. Die Dokumentation stellt ihn als Entscheidung über zukünftige Musikarbeit dar. Ein äußerlich großer Auftritt kann damit zugleich die Grenze der bisherigen Tätigkeit markieren.",
-      "anchor": "Candlestick Park beendet die Tourneen, nicht die musikalische Arbeit.",
       "interest": "Der Ort bezeichnet einen konkreten Wendepunkt.",
       "sources": [
         "offiziell"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Candlestick Park beendet die Tourneen, nicht die musikalische Arbeit."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die Beatles verweigerten Auftritte vor rassistisch getrennten Publikumsgruppen.",
       "context": "Die Beatles verweigerten Auftritte vor rassistisch getrennten Publikumsgruppen. Ihr Einfluss konnte dadurch die Bedingungen eines Veranstalters verändern. Der Film zeigt musikalische Popularität auch als Handlungsmöglichkeit in einer gesellschaftlichen Situation. Die gemeinsame Erfahrung des Konzerts entstand nicht einfach von selbst, sondern benötigte eine konkrete Entscheidung gegen Trennung.",
-      "anchor": "Die Band macht den gemeinsamen Zuschauerraum zur Auftrittsbedingung.",
       "interest": "Eine Vertragsposition verändert die gesellschaftliche Konzertpraxis.",
       "sources": [
         "produktion"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Band macht den gemeinsamen Zuschauerraum zur Auftrittsbedingung."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Whoopi Goldberg erinnert sich an ihren Konzertbesuch als Kind.",
       "context": "Whoopi Goldberg erinnert sich an ihren Konzertbesuch als Kind. Die Filmproduktion fand diese Geschichte durch ein Gespräch mit Ron Howard. Ihre Perspektive ergänzt die Erfahrungen auf der Bühne um die Bedeutung im Publikum. Berühmtheit verbindet sich hier mit einer persönlichen Erinnerung, die lange vor ihrer eigenen Schauspielkarriere liegt.",
-      "anchor": "Goldberg blickt als damaliges Kind aus dem Publikum zurück.",
       "interest": "Die Zeitzeugin erweitert die Bandperspektive.",
       "sources": [
         "produktion"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Goldberg blickt als damaliges Kind aus dem Publikum zurück."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Von Fans aufbewahrte Filme und Fotos ergänzten die Rekonstruktion.",
       "context": "Von Fans aufbewahrte Filme und Fotos ergänzten die Rekonstruktion. Die Suche griff damit über bekannte offizielle Aufnahmen hinaus. Private Beobachtungen können andere Winkel und Momente bewahren. Die Dokumentation verbindet viele solcher Perspektiven zu einem Ablauf, dessen ursprüngliche Zuschauer nie vollständig dieselbe Erfahrung geteilt hatten.",
-      "anchor": "Private Fanaufnahmen ergänzen den offiziellen Blick auf die Tourneen.",
       "interest": "Die Quellenvielfalt verändert die mögliche Rekonstruktion.",
       "sources": [
         "offiziell"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Private Fanaufnahmen ergänzen den offiziellen Blick auf die Tourneen."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Der restaurierte Shea-Stadium-Film ergänzte das Kinoprogramm.",
       "context": "Der restaurierte Shea-Stadium-Film ergänzte das Kinoprogramm. Er gehört nicht zur Heimvideo-Fassung der Hauptdokumentation. Die Aufführungssituation entscheidet somit über das zusätzlich sichtbare Material. Wer die Fassungen vergleicht, muss eine Programmkombination von einer verlängerten Schnittfassung unterscheiden und darf nicht jedes Kinobild dem Hauptfilm selbst zurechnen.",
-      "anchor": "Das Kino zeigte eine zusätzliche Zugabe außerhalb der Heimvideo-Fassung.",
       "interest": "Die Unterscheidung schützt die Film- und Programmidentität.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Kino zeigte eine zusätzliche Zugabe außerhalb der Heimvideo-Fassung."
     },
     {
       "code": "Y",
@@ -181,14 +181,14 @@
       ],
       "short": "Weltpremiere in London am 15. September 2016; kinobegleitender Shea-Stadium-Film ist als zusätzliches Programm von der Hauptdokumentation abzugrenzen.",
       "context": "„Eight Days a Week“ erschien 2016. Die regulären Beatles-Tourneen endeten 1966, fünfzig Jahre zuvor. Die Dokumentation blickt auf die Entwicklung einer Liveband zurück, die sich anschließend ganz auf Aufnahme und neue Musik konzentrierte. Die Verbindung 1966–2016 ordnet den Film als Rückblick auf einen konkreten Wechsel der Arbeitsweise ein.",
-      "anchor": "Tourneeende 1966, Dokumentation 2016: fünfzig Jahre später wird der Wechsel ins Studio betrachtet.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "offiziell"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Tourneeende 1966, Dokumentation 2016: fünfzig Jahre später wird der Wechsel ins Studio betrachtet."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "Ron Howard führte Regie; Mark Monroe schrieb, Paul Crowder schnitt den Film.",
       "context": "Ron Howard führte Regie; Mark Monroe schrieb, Paul Crowder schnitt den Film. Die Dokumentation entstand mit Beteiligung der überlebenden Beatles und der Familien von Lennon und Harrison. Howard beschreibt die Tourjahre als Reise und Bewährungsprobe einer Gemeinschaft. Die vielen Archivquellen sollen deshalb nicht bloß bekannte Auftritte sammeln, sondern Entscheidungen und Belastungen sichtbar machen.",
-      "anchor": "Howard macht aus den Archivauftritten eine Reisegeschichte der Band.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "produktion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Howard macht aus den Archivauftritten eine Reisegeschichte der Band."
     }
   ]
 }

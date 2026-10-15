@@ -35,11 +35,11 @@
       ],
       "short": "Jess tarnt das Training als Ferienjob.",
       "context": "Jess Bhamra (Parminder Nagra) trainiert heimlich mit einer Frauenmannschaft. Ihren Eltern erklärt sie die Abwesenheit durch einen Ferienjob. Die Lüge verschafft ihr zunächst Freiraum, hält aber die Auseinandersetzung über ihre Wünsche auf. Joe (Jonathan Rhys Meyers) erlebt ihr sportliches Talent, während die Familie den neuen Alltag anders versteht. Der Konflikt beruht deshalb auch darauf, dass dieselben Stunden für verschiedene Menschen unterschiedliche Bedeutungen haben.",
-      "anchor": "Zu Hause heißt das Training Ferienjob.",
       "interest": "Die konkrete Ausrede macht den heimlichen Alltag der Figur verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Zu Hause heißt das Training Ferienjob."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Pinkys Hochzeit und das Spiel finden am selben Tag statt.",
       "context": "Pinky Bhamra (Archie Panjabi), die Schwester von Jess Bhamra (Parminder Nagra), heiratet am Tag des entscheidenden Spiels. Jess kann nicht einfach an beiden Veranstaltungen vollständig teilnehmen. Der Termin verdichtet den Familienkonflikt zu einer praktischen Entscheidung. Ihr Vater, Mr. Bhamra (Anupam Kher), muss nun nicht nur allgemein über den Sport urteilen, sondern auf die konkrete Enttäuschung seiner Tochter während der Hochzeitsfeier reagieren.",
-      "anchor": "Familienhochzeit und wichtiges Spiel besetzen denselben Tag.",
       "interest": "Die sichtbare Terminkollision ist ein eigenes leichtes Inhaltsziel.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Familienhochzeit und wichtiges Spiel besetzen denselben Tag."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Der Vater erinnert sich an rassistische Ausgrenzung im Cricket.",
       "context": "Mr. Bhamra (Anupam Kher) erzählt, dass er in England beim Cricket wegen seiner Herkunft zurückgewiesen wurde. Seine Ablehnung gegenüber dem Wunsch von Jess Bhamra (Parminder Nagra) entsteht damit auch aus verletzter Erfahrung und der Sorge vor erneuter Ausgrenzung. Das macht den Konflikt verständlicher, ohne den Wunsch der Tochter zu entwerten. Ihr Vater schützt sie zunächst vor einer Zukunft, die er durch seine Vergangenheit beurteilt.",
-      "anchor": "Die väterliche Warnung hat eine eigene Diskriminierungsgeschichte.",
       "interest": "Der Anlass vertieft den Familienkonflikt über pauschale Traditionsbehauptungen hinaus.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die väterliche Warnung hat eine eigene Diskriminierungsgeschichte."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Jules reagiert eifersüchtig auf Jess und Joe.",
       "context": "Jules Paxton (Keira Knightley) fühlt sich zu Joe (Jonathan Rhys Meyers) hingezogen. Als Jess Bhamra (Parminder Nagra) ihm während der Reise nach Hamburg näherkommt, entsteht ein Konflikt zwischen den Freundinnen. Die sportliche Zusammenarbeit schützt ihre Beziehung nicht vor Eifersucht. Der Film verknüpft damit zwei Ebenen: Sie teilen den Wunsch, als Spielerinnen ernst genommen zu werden, müssen aber zusätzlich ihre persönlichen Erwartungen aneinander klären.",
-      "anchor": "Gemeinsame sportliche Ziele verhindern keine romantische Eifersucht.",
       "interest": "Der genaue Anlass unterscheidet den Freundschaftskonflikt vom Streit mit den Eltern.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Gemeinsame sportliche Ziele verhindern keine romantische Eifersucht."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Ein Zeitungsfoto macht die heimliche Reise sichtbar.",
       "context": "Jess Bhamra (Parminder Nagra) hält ihre Reise mit der Mannschaft vor der Familie geheim. Ein veröffentlichtes Bild durchkreuzt diese Trennung der Lebensbereiche. Mr. Bhamra (Anupam Kher) und Mrs. Bhamra (Shaheen Khan) erfahren dadurch von dem Ausflug. Die Enthüllung folgt nicht aus einem freiwilligen Geständnis. Gerade weil das Bild ein öffentliches Ereignis dokumentiert, kann Jess ihren sportlichen Alltag nicht dauerhaft als private Ausnahme verbergen.",
-      "anchor": "Ein öffentliches Foto beendet das private Versteckspiel.",
       "interest": "Das konkrete Medium der Entdeckung verlangt genaue Handlungserinnerung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein öffentliches Foto beendet das private Versteckspiel."
     },
     {
       "code": "S2",
@@ -150,12 +150,12 @@
       ],
       "short": "Die Stipendien führen nach Santa Clara in Kalifornien.",
       "context": "Jess Bhamra (Parminder Nagra) und Jules Paxton (Keira Knightley) erhalten die Möglichkeit, mit Stipendien an der Santa Clara University weiterzulernen und zu spielen. Der spätere Aufbruch führt ihre Freundschaft und ihre beruflichen Wünsche zusammen. Für Jess verlangt er außerdem die Zustimmung ihrer Familie. Die Aussicht ist deshalb mehr als der Gewinn eines einzelnen Spiels: Sie macht aus dem bisher heimlichen Interesse einen möglichen längerfristigen Lebensweg.",
-      "anchor": "Santa Clara verbindet Studium und sportliche Zukunft.",
       "interest": "Die konkrete Schlusschance ist von der bekannten Sportart der Figuren getrennt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Santa Clara verbindet Studium und sportliche Zukunft."
     },
     {
       "code": "Y",
@@ -174,13 +174,13 @@
       ],
       "short": "Die Erstveröffentlichung erfolgte 2002.",
       "context": "Gurinder Chadhas erster Langfilm „Bhaji on the Beach“ erschien 1993; „Kick it like Beckham“ folgte 2002, neun Jahre später. Beide stellen britisch-asiatische Lebenswelten und unterschiedliche Erwartungen innerhalb von Familien ins Zentrum. Der Abstand macht den späteren internationalen Erfolg zeitlich greifbar. Das US-Veröffentlichungsjahr 2003 gehört zur regionalen Auswertung von „Kick it like Beckham“ und ersetzt nicht den britischen Erststart im Jahr 2002.",
-      "anchor": "1993 Bhaji on the Beach, 2002 Kick it like Beckham: neun Jahre.",
       "interest": "Der frühere Film derselben Regisseurin liefert einen belegten Werkanker.",
       "sources": [
         "bfi",
         "anker",
         "handlung"
-      ]
+      ],
+      "objective": "1993 Bhaji on the Beach, 2002 Kick it like Beckham: neun Jahre."
     },
     {
       "code": "D",
@@ -199,12 +199,12 @@
       ],
       "short": "Gurinder Chadha führte Regie.",
       "context": "Gurinder Chadha ist als Regisseurin, Mitautorin und Produzentin der Geschichte beteiligt. Jess Bhamra (Parminder Nagra) und Jules Paxton (Keira Knightley) werden dabei über Freundschaft, Familienkonflikte und sportliche Chancen verbunden. Der BFI-Credit nennt Chadha eindeutig als Hauptregisseurin. Ihre weiteren Aufgaben erweitern diesen Credit, stellen aber kein zusätzliches Regieteam dar. Das Werk verbindet die romantischen Konflikte mit einem konkreten Wunsch nach selbstbestimmter Zukunft.",
-      "anchor": "Chadha verbindet Sport, Familie und romantische Konflikte.",
       "interest": "Der vollständige Hauptcredit bleibt trotz mehrerer kreativer Aufgaben eindeutig.",
       "sources": [
         "bfi",
         "handlung"
-      ]
+      ],
+      "objective": "Chadha verbindet Sport, Familie und romantische Konflikte."
     }
   ]
 }

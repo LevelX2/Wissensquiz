@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Fassbender spielt den jungen Magneto, Erik Lehnsherr.",
       "context": "Die Vorgeschichte zeigt ihn zunächst als Verbündeten Charles Xaviers. Ihre unterschiedlichen Vorstellungen über das Verhältnis von Mutanten und Menschen führen schließlich zum Bruch. Fassbender gestaltet damit eine jüngere Entwicklungsphase der zuvor von Ian McKellen gespielten Figur.",
-      "anchor": "Fassbender ist der junge Magneto.",
       "interest": "Die Figur wird in der wechselnden Besetzung einer Filmreihe eingeordnet.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/X-Men:_First_Class"
-      ]
+      ],
+      "objective": "Fassbender ist der junge Magneto."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "David ist ein Android.",
       "context": "Er begleitet die Expedition und nimmt Aufgaben wahr, die ihn zunächst wie einen hilfreichen Mitarbeiter erscheinen lassen. Gerade seine menschenähnliche Erscheinung macht die Frage nach seinen Motiven und seinem Verhältnis zur Besatzung reizvoll. Fassbenders ruhige Darstellung unterstützt diese Unsicherheit.",
-      "anchor": "Davids menschliches Auftreten gehört zu einem künstlichen Wesen.",
       "interest": "Eine zentrale Eigenschaft der Rolle erschließt ihre besondere Wirkung.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       "extraSources": [
         "https://www.20thcenturystudios.com/movies/prometheus",
         "https://en.wikipedia.org/wiki/Prometheus_(2012_film)"
-      ]
+      ],
+      "objective": "Davids menschliches Auftreten gehört zu einem künstlichen Wesen."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 1,
       "short": "Fassbender spielt Steve Jobs.",
       "context": "Der Film konzentriert sich auf konfliktreiche Begegnungen vor öffentlichen Produktvorstellungen. Fassbender suchte dabei eine Darstellung von Jobs' Verhalten und Energie, ohne die Rolle auf äußerliche Ähnlichkeit zu reduzieren.",
-      "anchor": "Fassbender verkörpert Jobs in Boyles dialogreichem Porträt.",
       "interest": "Das historische Rollenporträt wird seinem Darsteller zugeordnet.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       "extraSources": [
         "https://time.com/4012107/steve-jobs-movie-aaron-sorkin-interview/",
         "https://en.wikipedia.org/wiki/Steve_Jobs_(film)"
-      ]
+      ],
+      "objective": "Fassbender verkörpert Jobs in Boyles dialogreichem Porträt."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 3,
       "short": "Fassbender spielt den hungerstreikenden Häftling Bobby Sands.",
       "context": "Der Film behandelt die Proteste republikanischer Gefangener in Nordirland 1981. Dabei wechselt er zwischen körperlicher Erfahrung des Gefängnisses, politischer Auseinandersetzung und dem Verfall des hungernden Sands. Die Rolle verlangt daher sehr unterschiedliche Formen von Präsenz.",
-      "anchor": "Fassbenders Sands macht politischen Protest körperlich sichtbar.",
       "interest": "Die historische Figur erklärt den Gegenstand des Films.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/film/f07d0f26-867d-51c1-ab7b-2b14681bf967/hunger",
         "https://www.criterion.com/current/posts/1375-hunger-on-the-threshold"
-      ]
+      ],
+      "objective": "Fassbenders Sands macht politischen Protest körperlich sichtbar."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 0,
       "short": "Beide Filme inszenierte Steve McQueen.",
       "context": "Nach dem politischen Gefängnisfilm entstand die Geschichte eines New Yorkers, dessen Sexualverhalten sein Leben beherrscht. Wieder steht Fassbenders Körper im Zentrum, aber in einer völlig anderen sozialen Umgebung. Die Zusammenarbeit verbindet zwei Filme über Menschen, deren Leben von einer extremen inneren oder äußeren Bindung bestimmt wird.",
-      "anchor": "McQueen führte Fassbender von Hunger zu Shame.",
       "interest": "Eine wiederkehrende Zusammenarbeit wird über ihren künstlerischen Zusammenhang erschlossen.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://player.bfi.org.uk/rentals/film/watch-shame-2012-online"
-      ]
+      ],
+      "objective": "McQueen führte Fassbender von Hunger zu Shame."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 0,
       "short": "Er fuhr einen Porsche 911 RSR für Proton Competition.",
       "context": "Der Einsatz folgte auf mehrere Jahre systematischer Rennvorbereitung. Fassbender teilte das Auto mit Matt Campbell und Zacharie Robichon. Seine Motorsportarbeit war damit mehr als eine kurze prominente Gastfahrt: Sie umfasste Training, Rennserien und die Anforderungen eines Langstreckenteams.",
-      "anchor": "Fassbenders Le-Mans-Debüt führte über Porsche und Proton Competition.",
       "interest": "Eine zweite anspruchsvolle Tätigkeit ergänzt das Bild seines Berufswegs.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       "films": [],
       "extraSources": [
         "https://newsroom.porsche.com/en_US/2022/motorsport/porsche-fia-wec-world-endurance-championship-round-3-24-hour-race-le-mans-france-michael-fassbender-28640.html"
-      ]
+      ],
+      "objective": "Fassbenders Le-Mans-Debüt führte über Porsche und Proton Competition."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 2,
       "short": "Ein großer Teil des Gesprächs bleibt in einer einzigen Einstellung.",
       "context": "Sands und der Priester diskutieren über die Moral des geplanten Hungerstreiks. Die lange gemeinsame Aufnahme lässt die Argumente und Reaktionen ohne entlastende Schnittfolge aufeinanderprallen. Die Darsteller müssen dabei Spannung, Tempo und Aufmerksamkeit über einen ungewöhnlich ausgedehnten Verlauf tragen.",
-      "anchor": "Die lange Einstellung macht aus der Debatte eine anhaltende Begegnung.",
       "interest": "Die Bildform erklärt eine besondere darstellerische Anforderung.",
       "feedback": [
         "",
@@ -196,7 +195,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/1375-hunger-on-the-threshold",
         "https://theasc.com/post/johns-bailiwick/matthais-stork-chaos-cinemaclassical-cinema-part-three/"
-      ]
+      ],
+      "objective": "Die lange Einstellung macht aus der Debatte eine anhaltende Begegnung."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 3,
       "short": "Die Handlung bündelt sich vor drei Produktvorstellungen.",
       "context": "Vor dem Gang auf die Bühne begegnet Jobs Menschen aus seinem beruflichen und privaten Leben. Wiederkehrende Konflikte erhalten in den zeitlich getrennten Abschnitten eine neue Bedeutung. Die Form verdichtet ein langes Leben zu wenigen Situationen unter hohem Druck.",
-      "anchor": "Drei Auftritte strukturieren Jobs' Porträt hinter der Bühne.",
       "interest": "Die Erzählform erklärt, welche Art von historischem Porträt Fassbender gestaltet.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       "extraSources": [
         "https://time.com/4012107/steve-jobs-movie-aaron-sorkin-interview/",
         "https://en.wikipedia.org/wiki/Steve_Jobs_(film)"
-      ]
+      ],
+      "objective": "Drei Auftritte strukturieren Jobs' Porträt hinter der Bühne."
     }
   ]
 }

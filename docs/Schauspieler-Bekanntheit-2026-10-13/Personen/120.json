@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Nando greift schließlich zum Teller Pasta.",
       "context": "Seine Begeisterung für amerikanische Vorbilder hält der vertrauten Küche nicht stand. Die Szene macht den Gegensatz von angelerntem Auftreten und alltäglichem Geschmack sichtbar.",
-      "anchor": "Nandos Amerika-Traum scheitert am Pastateller.",
       "interest": "Die konkrete Szene erschließt die kulturelle Nachahmung der Figur.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://cinetecadibologna.it/programmazione/proiezione/un-americano-a-roma/"
-      ]
+      ],
+      "objective": "Nandos Amerika-Traum scheitert am Pastateller."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Der Scheich ist der Held eines Fotoromans.",
       "context": "Die frisch verheiratete Wanda sucht ihren romantischen Medienhelden persönlich auf. Der wirkliche Mann hinter der fotografierten Figur entspricht ihren Vorstellungen jedoch kaum.",
-      "anchor": "Der Fotoromanheld hält der wirklichen Begegnung nicht stand.",
       "interest": "Das Medium erklärt Wandas Sehnsucht und die folgende Enttäuschung.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/374-the-white-sheik"
-      ]
+      ],
+      "objective": "Der Fotoromanheld hält der wirklichen Begegnung nicht stand."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Er erhofft sich Zugang zum Vermögen seiner Frau.",
       "context": "Alberto Nardi ist ein erfolgloser, verschwenderischer Unternehmer. Seine wohlhabende Frau kontrolliert das Geld und begegnet seinem großspurigen Auftreten mit Verachtung.",
-      "anchor": "Nardis Witwerglück beruht auf dem Vermögen seiner Frau.",
       "interest": "Die Erwartung erklärt die Verbindung von Ehekomödie und wirtschaftlicher Satire.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/film/66911.html"
-      ]
+      ],
+      "objective": "Nardis Witwerglück beruht auf dem Vermögen seiner Frau."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 2,
       "short": "Die beiden geben die militärischen Informationen nicht preis.",
       "context": "Die Männer hatten zuvor vor allem das eigene Überleben gesucht. In der Gefangenschaft verweigern sie schließlich den Verrat; ihre Kameraden erfahren nichts von diesem Opfer.",
-      "anchor": "Die vermeintlichen Drückeberger verweigern am Ende den Verrat.",
       "interest": "Das Ende verändert den Blick auf die zuvor komisch gezeichneten Überlebenskünstler.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Great_War_(1959_film)"
-      ]
+      ],
+      "objective": "Die vermeintlichen Drückeberger verweigern am Ende den Verrat."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 1,
       "short": "Silvio ringt mit dem Preis gesellschaftlicher Anpassung.",
       "context": "Der ehemalige Widerstandskämpfer erlebt den wirtschaftlichen Aufstieg Italiens aus einer immer prekäreren Position. Persönliche Würde, Ehe und die Aussicht auf materielle Sicherheit lassen sich schwer zusammenhalten.",
-      "anchor": "Silvios Ideale treffen auf das Italien des Wirtschaftsbooms.",
       "interest": "Die Rollenentwicklung zeigt Sordi als verletzlichen Idealisten innerhalb einer Gesellschaftssatire.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       "extraSources": [
         "https://www.cinematheque.fr/film/42364.html",
         "https://www.treccani.it/enciclopedia/una-vita-difficile_(Enciclopedia-del-Cinema)/"
-      ]
+      ],
+      "objective": "Silvios Ideale treffen auf das Italien des Wirtschaftsbooms."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 0,
       "short": "Giovanni wird selbst zum Entführer und Folterer.",
       "context": "Der kleine Beamte hatte seinem Sohn eine sichere berufliche Zukunft verschaffen wollen. Nach dessen Tod verwandelt sich der Wunsch nach Ordnung in grausame private Gewalt.",
-      "anchor": "Der angepasste Vater wird zum Täter.",
       "interest": "Die Handlung erklärt einen besonders bitteren Übergang vom Alltagsbild zur Gewaltstudie.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.fondazionecsc.it/evento/cinema-trevi-sordi-politico-2/"
-      ]
+      ],
+      "objective": "Der angepasste Vater wird zum Täter."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 0,
       "short": "Sordi sprach Oliver Hardy, Zambuto Stan Laurel.",
       "context": "Die italienischen Stimmen wurden zu einem eigenen Teil der Wirkung des Komikerduos. Sordis Arbeit am Mikrophon gehörte zu seiner Laufbahn vor und neben den eigenen Leinwandrollen.",
-      "anchor": "Sordi war eine italienische Stimme von Ollio.",
       "interest": "Der Zusammenhang macht seine Berufserfahrung in der Synchronisation sichtbar.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "films": [],
       "extraSources": [
         "https://www.fondazionecsc.it/lomaggio-della-cn-avviene-in-occasione-della-presentazione-del-documentario-e-del-libro-di-enzo-pio-pignatiello/"
-      ]
+      ],
+      "objective": "Sordi war eine italienische Stimme von Ollio."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 3,
       "short": "Die Familie will den vom Waffenhandel finanzierten Lebensstandard behalten.",
       "context": "Pietro stellt sie vor die Wahl zwischen weniger Geld und der Fortsetzung seiner Geschäfte. Ihre Entscheidung bindet den privaten Konsum an die Gewalt, die seine Einnahmen ermöglicht.",
-      "anchor": "Der familiäre Wohlstand verlängert die Geschäfte des Waffenhändlers.",
       "interest": "Die selbst inszenierte Rolle verbindet Kriegsgeschäfte mit einer Kritik alltäglicher Mitverantwortung.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       "extraSources": [
         "https://it.wikipedia.org/wiki/Finch%C3%A9_c%27%C3%A8_guerra_c%27%C3%A8_speranza",
         "https://www.pieropiccioni.com/film.php?movie=61"
-      ]
+      ],
+      "objective": "Der familiäre Wohlstand verlängert die Geschäfte des Waffenhändlers."
     }
   ]
 }

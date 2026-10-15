@@ -36,13 +36,13 @@
       ],
       "short": "Die Männer reisen auf einem Balsaholzfloß.",
       "context": "Der einfache Bau soll eine frühere Seeverbindung als technisch möglich erproben. Heyerdahl will bewusst kein modernes Schiff als Beleg einsetzen. Die Bauweise gehört damit zum Zweck der Reise.",
-      "anchor": "Das Balsafloß ist Teil des Versuchs, nicht nur ein ungewöhnliches Fahrzeug.",
       "interest": "Das Transportmittel erklärt die Versuchsidee.",
       "sources": [
         "premiere",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Balsafloß ist Teil des Versuchs, nicht nur ein ungewöhnliches Fahrzeug."
     },
     {
       "code": "L2",
@@ -61,13 +61,13 @@
       ],
       "short": "Die Floßfahrt beginnt in Südamerika.",
       "context": "Heyerdahl verfolgt eine Verbindung von Osten über den Pazifik. Die gewählte Fahrtrichtung gehört zu seiner These über frühere Kontakte. Der Film zeigt die Reise als Versuch, gegen vorherrschende Annahmen anzutreten.",
-      "anchor": "Von Südamerika führt das Floß über den Pazifik nach Polynesien.",
       "interest": "Der Startort macht die Richtung des Versuchs verständlich.",
       "sources": [
         "handlung",
         "premiere"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Von Südamerika führt das Floß über den Pazifik nach Polynesien."
     },
     {
       "code": "M1",
@@ -86,13 +86,13 @@
       ],
       "short": "Heyerdahl hält an der ursprünglichen Floßbauweise fest.",
       "context": "Herman Watzinger (Anders Baasmo Christiansen) sorgt sich im Film um die Verbindungen. Heyerdahl lehnt die Verstärkung ab. Das Filmstudienblatt kennzeichnet diesen Konflikt als dramatische Zuspitzung; er ist kein unveränderter historischer Dialog.",
-      "anchor": "Der Stahlseilstreit im Film betrifft Sicherheit gegen unveränderten Versuch.",
       "interest": "Ein zentraler Konflikt wird mit seinem Darstellungsstatus erklärt.",
       "sources": [
         "studie",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Stahlseilstreit im Film betrifft Sicherheit gegen unveränderten Versuch."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Eine große Welle soll das Floß über das Riff tragen.",
       "context": "Die Mannschaft hält das Floß zurück, bis die richtige Welle kommt. Der Wechsel zwischen wartenden Männern und beanspruchtem Tau steigert die Spannung. Das letzte Hindernis verlangt gemeinsames Timing.",
-      "anchor": "Vor Raroia muss die Mannschaft den richtigen Wellenmoment treffen.",
       "interest": "Die finale Passage verbindet Naturbeobachtung und Zusammenarbeit.",
       "sources": [
         "studie"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vor Raroia muss die Mannschaft den richtigen Wellenmoment treffen."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Heyerdahl kann im Film nicht schwimmen.",
       "context": "Der Auftakt zeigt ein Kindheitserlebnis im Wasser. Die spätere Floßfahrt führt diese Angst in einen viel größeren Raum. Die Gestaltungsverbindung betrifft die Filmfigur und erklärt die Bedeutung späterer Wasserszenen.",
-      "anchor": "Die Kindheitsangst vor Wasser kehrt auf dem Pazifik zurück.",
       "interest": "Ein Auftaktmotiv wird mit dem späteren Abenteuer verknüpft.",
       "sources": [
         "studie"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Kindheitsangst vor Wasser kehrt auf dem Pazifik zurück."
     },
     {
       "code": "S2",
@@ -159,13 +159,13 @@
       ],
       "short": "Die neue Fassung ist eine dramatisierte Spielfilmerzählung.",
       "context": "Das Filmstudienblatt beschreibt bewusst dokumentarisch wirkende Passagen. Sie verweisen auf die ältere Dokumentation, bleiben aber Teil einer inszenierten Erzählung. Historische Namen allein machen gespielte Konflikte nicht zu Originalaufnahmen.",
-      "anchor": "Kon-Tiki als Spielfilm stellt nach; die ältere Dokumentation zeigt Expeditionsaufnahmen.",
       "interest": "Die Darstellungsform wird von ihrer historischen Grundlage unterschieden.",
       "sources": [
         "studie",
         "premiere"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kon-Tiki als Spielfilm stellt nach; die ältere Dokumentation zeigt Expeditionsaufnahmen."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Die Spielfilmfassung erschien 2012.",
       "context": "Die Pazifikexpedition fand 1947 statt. Die neue Spielfilmfassung erschien 2012, fünfundsechzig Jahre später. Die historische Reise und ihre spätere Inszenierung lassen sich über diesen Abstand klar auseinanderhalten.",
-      "anchor": "1947 die Floßfahrt, 2012 der Spielfilm: fünfundsechzig Jahre Abstand.",
       "interest": "Das historische Ereignis liefert einen konkreten Zeitanker.",
       "sources": [
         "premiere",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1947 die Floßfahrt, 2012 der Spielfilm: fünfundsechzig Jahre Abstand."
     },
     {
       "code": "D",
@@ -209,13 +209,13 @@
       ],
       "short": "Joachim Rønning und Espen Sandberg führten gemeinsam Regie.",
       "context": "Die norwegische Festpremiere stellte beide Regisseure zusammen mit Drehbuchautor Petter Skavlan vor. Das Team erzählt die Expedition mit gespielten Konflikten; Skavlans Autorenarbeit gehört zu einer anderen Aufgabe als die gemeinsame Inszenierung.",
-      "anchor": "Rønning und Sandberg inszenieren; Petter Skavlan schreibt.",
       "interest": "Das vollständige Team wird mit der Autorenarbeit abgegrenzt.",
       "sources": [
         "premiere",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Rønning und Sandberg inszenieren; Petter Skavlan schreibt."
     }
   ]
 }

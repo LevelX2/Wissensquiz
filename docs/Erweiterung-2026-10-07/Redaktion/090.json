@@ -38,12 +38,12 @@
       ],
       "short": "Elliot und Beverly sind Gynäkologen.",
       "context": "Elliot und Beverly Mantle (beide Jeremy Irons) arbeiten gemeinsam als Gynäkologen. Ihre Praxis verbindet fachliche Autorität mit einem ungewöhnlich geschlossenen persönlichen Verhältnis. Patientinnen müssen sich auf die Identität und das Urteil des behandelnden Arztes verlassen. Genau dieses Vertrauen wird durch die heimliche Austauschbarkeit der Brüder gefährdet.",
-      "anchor": "Die gynäkologische Praxis gibt den Zwillingen Autorität über ihre Patientinnen.",
       "interest": "Verbindet das medizinische Fach mit dem zentralen Vertrauensproblem.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die gynäkologische Praxis gibt den Zwillingen Autorität über ihre Patientinnen."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Die eineiigen Zwillinge teilen Praxis und viele Teile ihres Alltags.",
       "context": "Elliot und Beverly (beide Jeremy Irons) teilen Praxis, Wohnung und Beziehungen. Die äußere Ähnlichkeit verdeckt unterschiedliche Verhaltensweisen. Die Geschichte behandelt ihre Nähe deshalb als zweischneidig: Sie ermöglicht gegenseitige Ergänzung, erschwert aber die Vorstellung, dass einer eine eigene Beziehung oder ein eigenes Leben entwickeln könnte.",
-      "anchor": "Die gemeinsame Lebensführung hält zwei unterschiedliche Personen eng zusammen.",
       "interest": "Erklärt die Bindung, die spätere Selbstständigkeit so schwierig macht.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die gemeinsame Lebensführung hält zwei unterschiedliche Personen eng zusammen."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Die Frauen erfahren den Austausch zunächst nicht.",
       "context": "Elliot und Beverly (beide Jeremy Irons) nutzen ihre Ähnlichkeit, ohne den Frauen den Wechsel mitzuteilen. Eine scheinbar persönliche Begegnung enthält dadurch eine verborgene zweite Person. Das Problem ist nicht nur äußerliche Verwechslung; die Täuschung nimmt den Frauen die Möglichkeit, ihre Beziehung auf der Grundlage zutreffender Informationen zu wählen.",
-      "anchor": "Der heimliche Identitätswechsel entzieht den Frauen eine informierte Beziehung.",
       "interest": "Zeigt die konkrete Form und persönliche Wirkung ihrer Täuschung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der heimliche Identitätswechsel entzieht den Frauen eine informierte Beziehung."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Beverlys persönliche Liebe durchbricht die bisherige Austauschbarkeit.",
       "context": "Beverly (Jeremy Irons) bindet sich an Claire (Geneviève Bujold). Diese Beziehung lässt sich nicht wie ein geteilter Alltag auf den Bruder übertragen. Das geschlossene System verliert seine Stabilität, weil ein eigenes Gefühl entsteht. Die Nähe der Zwillinge zeigt gerade dadurch, wie wenig Raum sie für getrennte Entwicklungen geschaffen haben.",
-      "anchor": "Beverlys eigene Liebe lässt sich nicht in das gemeinsame System zurückteilen.",
       "interest": "Erklärt die Beziehung als Ursache des Zerfalls statt als bloße dritte Figur.",
       "sources": [
         "essay"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Beverlys eigene Liebe lässt sich nicht in das gemeinsame System zurückteilen."
     },
     {
       "code": "S1",
@@ -134,13 +134,13 @@
       ],
       "short": "Die Instrumente materialisieren seinen verzerrten Blick auf die Patientinnen.",
       "context": "Beverly (Jeremy Irons) lässt ungewöhnliche Instrumente anfertigen, weil er die Körper seiner Patientinnen als verändert wahrnimmt. Die Werkzeuge geben einer Wahnvorstellung feste Form. Medizinische Autorität schützt die Betroffenen nun nicht mehr; sie kann die Umsetzung einer gefährlichen Fehlwahrnehmung ermöglichen.",
-      "anchor": "Die bizarren Instrumente machen Beverlys Wahn operativ wirksam.",
       "interest": "Verbindet ein sichtbares Gestaltungselement mit der Gefährdung durch Autorität.",
       "sources": [
         "kritik",
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die bizarren Instrumente machen Beverlys Wahn operativ wirksam."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Die beweglichen Trennlinien lassen die Doppelrolle räumlich nahtlos erscheinen.",
       "context": "Bewegliche Bildteilungen und kontrollierte Kamerabewegungen lassen Jeremy Irons in einer gemeinsamen Einstellung als zwei Personen erscheinen. Die Technik wird möglichst unauffällig eingesetzt. Das Publikum soll die unterschiedlichen Brüder als räumlich anwesende Menschen erleben, während ihre körperliche Ähnlichkeit weiterhin die enge und gefährliche Bindung trägt.",
-      "anchor": "Unauffällige bewegliche Bildteilungen machen Irons als zwei Brüder zugleich sichtbar.",
       "interest": "Erklärt das konkrete technische Verfahren hinter der Doppelrolle.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Unauffällige bewegliche Bildteilungen machen Irons als zwei Brüder zugleich sichtbar."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "Der reale Fall war 1975; der Film erschien 1988.",
       "context": "Die New Yorker Zwillingsärzte Stewart und Cyril Marcus wurden 1975 tot aufgefunden. Dieser Fall regte den späteren Stoff an. Dead Ringers erschien 1988, dreizehn Jahre danach. Der Film arbeitet die Anregung zu eigenständigen Figuren und Beziehungen um; die Mantle-Brüder (beide gespielt von Jeremy Irons) sind deshalb keine unveränderte dokumentarische Darstellung der realen Personen.",
-      "anchor": "1975 der reale Fall, dreizehn Jahre später 1988 die fiktionale Bearbeitung.",
       "interest": "Verankert das Filmjahr in der belegten Entstehungsanregung und unterscheidet Fiktion von Dokumentation.",
       "sources": [
         "essay",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1975 der reale Fall, dreizehn Jahre später 1988 die fiktionale Bearbeitung."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "David Cronenberg inszenierte den Film.",
       "context": "David Cronenberg schrieb gemeinsam mit Norman Snider und führte Regie. Carol Spier gestaltete die Innenräume, Peter Suschitzky die Kamera. Das enge Praxis- und Wohnumfeld unterstützt eine Geschichte, deren Bedrohung aus der Beziehung der Brüder entsteht. Die verschiedenen Gestaltungsebenen halten das Publikum nah an diesem geschlossenen Lebensraum.",
-      "anchor": "Cronenberg inszeniert den Zerfall in einem eng gestalteten Innenraum.",
       "interest": "Verbindet den Regiecredit mit den belegten Arbeiten des Gestaltungsteams.",
       "sources": [
         "criterion",
         "essay"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Cronenberg inszeniert den Zerfall in einem eng gestalteten Innenraum."
     }
   ]
 }

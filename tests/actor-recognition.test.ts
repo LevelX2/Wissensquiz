@@ -7,6 +7,7 @@ import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
+import { assertEditorialSource } from "./editorialSource";
 import {
   recognitionPortrait,
   recognitionVariants,
@@ -47,8 +48,10 @@ it("importiert genau 200 eigenständige Gesichtsziele mit belegten Bildern und v
     warnings: [],
     issues: [],
   });
-  expect(csv).toBe(
+  assertEditorialSource(
+    csv,
     readFileSync(`KI-Wissen-Wissensquiz/01 Rohquellen/${filename}`, "utf8"),
+    "public/schauspieler-bilder-fragen.csv",
   );
   expect(source.actors).toHaveLength(200);
   expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(200);

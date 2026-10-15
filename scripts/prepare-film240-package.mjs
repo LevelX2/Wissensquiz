@@ -6,7 +6,7 @@ import Papa from 'papaparse';
 
 const out='docs/Filmfragen-Ergaenzung-2026-10-06';
 const local='data/filmplanung-2026-10-06';
-const fields='question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,memory_anchor,spoiler_level,source_urls,verification_status'.split(',');
+const fields='question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,spoiler_level,source_urls,verification_status'.split(',');
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
 const hash=x=>createHash('sha256').update(x).digest('hex');
 const write=(p,x)=>fs.writeFileSync(path.join(out,p),typeof x==='string'?x:JSON.stringify(x,null,2)+'\n','utf8');
@@ -37,7 +37,7 @@ for(let rank=1;rank<=240;rank++){
   assert(f.directors?.length&&f.production_countries?.length&&f.familiarity_reason&&f.release_note,`Eckdaten fehlen: ${rank}`);
   assert(f.questions?.length===8&&new Set(f.questions.map(q=>q.code)).size===8,`Acht Ziele fehlen: ${rank}`);
   assert(['L1','L2','M1','M2','S1','S2','Y','D'].every(code=>f.questions.some(q=>q.code===code)),`Stufenabdeckung fehlt: ${rank}`);
-  const sources=Object.entries(f.sources).map(([key,value])=>({key,url:typeof value==='string'?value:value.url,supports:typeof value==='string'?f.questions.filter(q=>q.sources.includes(key)).map(q=>q.anchor).join(' '):value.supports,checked_on:'2026-10-06'}));
+  const sources=Object.entries(f.sources).map(([key,value])=>({key,url:typeof value==='string'?value:value.url,supports:typeof value==='string'?f.questions.filter(q=>q.sources.includes(key)).map(q=>q.objective ?? q.short).join(' '):value.supports,checked_on:'2026-10-06'}));
   const full={rank,film_title_de:selected.film_title_de,film_title_original:selected.film_title_original,film_year:Number(selected.film_year),subdomain:selected.genre,familiarity_level:Number(selected.familiarity),familiarity_reason:f.familiarity_reason,directors:f.directors,production_countries:f.production_countries,country_note:f.country_note??'',release_note:f.release_note,director_note:f.director_note??'',series:f.series??null,sources,questions:[]};
   for(let i=0;i<f.questions.length;i++){
     const q=f.questions[i];
@@ -45,7 +45,7 @@ for(let rank=1;rank<=240;rank++){
     assert(!oldIds.has(id),`Vorhandene Frage-ID: ${id}`);
     assert(q.answers.length===4&&new Set(q.answers.map(norm)).size===4,`Vier verschiedene Antworten fehlen: ${id}`);
     assert(q.feedback.length===4&&q.feedback.every(x=>typeof x==='string'&&x.trim()),`Antwortbegründungen fehlen: ${id}`);
-    assert(q.question&&q.short&&q.context&&q.anchor&&q.interest&&q.sources.length,`Redaktion fehlt: ${id}`);
+    assert(q.question&&q.short&&q.context&&q.interest&&q.sources.length,`Redaktion fehlt: ${id}`);
     const sourceKeys=new Set(sources.map(s=>s.key));
     assert(q.sources.every(s=>sourceKeys.has(s)),`Nicht zugeordnete Quelle: ${id}`);
     const kind=q.code==='Y'?'year':q.code==='D'?'director':'content';
@@ -74,7 +74,7 @@ for(let rank=1;rank<=240;rank++){
     const goal=q.knowledge_id??`K-${id}`;
     if(oldGoals.has(goal))assert(q.variant_of&&oldIds.get(q.variant_of)?.knowledgeId===goal,`Falscher Variantenbezug: ${id}`);
     else assert(!q.variant_of,`Neues Ziel mit Variantenbezug: ${id}`);
-    const row={question_id:id,knowledge_id:goal,variant_of:q.variant_of??'',language:'de',domain:'Film',subdomain:full.subdomain,film_title_de:full.film_title_de,film_title_original:full.film_title_original,film_year:selected.film_year,franchise:f.series??'',difficulty,question_type:kind==='year'?'Filmjahr':kind==='director'?'Regie':q.type??'Filmwissen',topic_tags:full.subdomain,badge_tags:full.subdomain,learning_objective:q.objective??q.anchor,question,correct_answer:letters[target].toUpperCase(),explanation_short:q.short,explanation_context:q.context,memory_anchor:q.anchor,spoiler_level:q.spoiler??'mittel',source_urls:q.sources.map(key=>sources.find(s=>s.key===key).url).join('|'),verification_status:'redaktionell_quellengeprueft',goal_kind:kind,interest_reason:q.interest,source_support:q.sources.map(key=>({url:sources.find(s=>s.key===key).url,supports:q.anchor+' '+q.short}))};
+    const row={question_id:id,knowledge_id:goal,variant_of:q.variant_of??'',language:'de',domain:'Film',subdomain:full.subdomain,film_title_de:full.film_title_de,film_title_original:full.film_title_original,film_year:selected.film_year,franchise:f.series??'',difficulty,question_type:kind==='year'?'Filmjahr':kind==='director'?'Regie':q.type??'Filmwissen',topic_tags:full.subdomain,badge_tags:full.subdomain,learning_objective:q.objective ?? q.short,question,correct_answer:letters[target].toUpperCase(),explanation_short:q.short,explanation_context:q.context,spoiler_level:q.spoiler??'mittel',source_urls:q.sources.map(key=>sources.find(s=>s.key===key).url).join('|'),verification_status:'redaktionell_quellengeprueft',goal_kind:kind,interest_reason:q.interest,source_support:q.sources.map(key=>({url:sources.find(s=>s.key===key).url,supports:(q.objective ?? q.short)}))};
     letters.forEach((letter,i)=>{row[`answer_${letter}`]=pairs[i].text;row[`feedback_${letter}`]=pairs[i].feedback;});
     for(const field of fields)assert(typeof row[field]==='string',`${id}: ${field} ist kein Text.`);
     assert(row.source_urls.split('|').every(url=>/^https?:\/\//.test(url)),`Ungültige Quelle: ${id}`);
@@ -110,7 +110,7 @@ for(const genre of genres){
     for(const q of f.questions){
       md+=`**${q.difficulty} · ${q.goal_kind==='content'?'Inhalt':q.goal_kind==='year'?'Jahr':'Regie'} · ${q.question_id}**\n\n${q.question}\n\n`;
       for(const l of ['a','b','c','d'])md+=`- ${l.toUpperCase()}: ${q[`answer_${l}`]}\n`;
-      md+=`\n**Lösung: ${q.correct_answer}.** ${q.explanation_short}\n\n${q.explanation_context}\n\n**Merksatz:** ${q.memory_anchor}\n\n`;
+      md+=`\n**Lösung: ${q.correct_answer}.** ${q.explanation_short}\n\n${q.explanation_context}\n\n`;
       for(const l of ['a','b','c','d'])md+=`- ${q[`answer_${l}`]}: ${q[`feedback_${l}`]}\n`;
       md+=`\nQuellen: ${q.source_urls.split('|').map((url,i)=>`[Beleg ${i+1}](${url})`).join(', ')}.\n\n`;
     }

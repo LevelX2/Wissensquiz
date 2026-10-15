@@ -40,12 +40,12 @@
       ],
       "short": "Makoto nutzt die Zeitsprünge zunächst für kleine Alltagsvorteile.",
       "context": "Makoto nutzt die Zeitsprünge zunächst für kleine Alltagsvorteile. Sie wiederholt unter anderem angenehme Erlebnisse; erst die Folgen für andere zeigen ihr, dass eine veränderte eigene Situation kein folgenloser Gewinn ist.",
-      "anchor": "Kleine Zeitvorteile erzeugen unerwartete Folgen für andere.",
       "interest": "Kleine Zeitvorteile erzeugen unerwartete Folgen für andere.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kleine Zeitvorteile erzeugen unerwartete Folgen für andere."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Makoto (Originalstimme Riisa Naka) erkennt eine begrenzte Zahl verbleibender Sprünge an ihrer Markierung.",
       "context": "Makoto (Originalstimme Riisa Naka) erkennt eine begrenzte Zahl verbleibender Sprünge an ihrer Markierung. Die Fähigkeit ist keine unbegrenzte Rückgängig-Taste; leichtfertige Korrekturen verbrauchen die Möglichkeit späterer wichtiger Eingriffe.",
-      "anchor": "Der endliche Vorrat macht den kleinen Eingriff kostbar.",
       "interest": "Der endliche Vorrat macht den kleinen Eingriff kostbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der endliche Vorrat macht den kleinen Eingriff kostbar."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Makotos Fahrrad hat defekte Bremsen.",
       "context": "Makotos Fahrrad hat defekte Bremsen. Kōsuke (Originalstimme Mitsutaka Itakura) und Kaho (Originalstimme Mitsuki Tanimura) leihen es später; die zunächst für Makoto vermiedene Gefahr tritt dadurch bei anderen erneut auf.",
-      "anchor": "Die unveränderten Bremsen tragen die Gefahr zu anderen.",
       "interest": "Die unveränderten Bremsen tragen die Gefahr zu anderen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die unveränderten Bremsen tragen die Gefahr zu anderen."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Makoto weicht Chiakis (Originalstimme Takuya Ishida) Liebesgeständnis durch Zeitsprünge aus.",
       "context": "Makoto weicht Chiakis (Originalstimme Takuya Ishida) Liebesgeständnis durch Zeitsprünge aus. Die Fähigkeit verhindert damit auch eine notwendige persönliche Auseinandersetzung; zeitliche Kontrolle ersetzt keine Klarheit über ihre eigenen Gefühle.",
-      "anchor": "Makoto verschiebt ein Gespräch statt ihre Gefühle zu klären.",
       "interest": "Makoto verschiebt ein Gespräch statt ihre Gefühle zu klären.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Makoto verschiebt ein Gespräch statt ihre Gefühle zu klären."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Chiaki will ein Gemälde sehen, das in seiner Zukunft verloren ist.",
       "context": "Chiaki will ein Gemälde sehen, das in seiner Zukunft verloren ist. Makoto (Originalstimme Riisa Naka) verspricht, dessen Erhalt zu sichern; ein Kunstwerk schafft so eine Verbindung zwischen getrennten Lebenszeiten.",
-      "anchor": "Das bewahrte Gemälde kann beide Zeiten verbinden.",
       "interest": "Das bewahrte Gemälde kann beide Zeiten verbinden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das bewahrte Gemälde kann beide Zeiten verbinden."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Chiakis (Originalstimme Takuya Ishida) Rückreise liegt vor Makotos letztem Verbrauch.",
       "context": "Chiakis (Originalstimme Takuya Ishida) Rückreise liegt vor Makotos letztem Verbrauch. Sie kann dadurch nochmals eingreifen und seine eigene Rückkehrmöglichkeit wiederherstellen; die Rettung entsteht aus einer veränderten Abfolge beider begrenzten Vorräte.",
-      "anchor": "Chiakis Eingriff stellt Makotos frühere Möglichkeit wieder her.",
       "interest": "Chiakis Eingriff stellt Makotos frühere Möglichkeit wieder her.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Chiakis Eingriff stellt Makotos frühere Möglichkeit wieder her."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "2006 erschien die animierte Fassung.",
       "context": "2006 erschien die animierte Fassung. Im selben Jahr wurde auch „Paprika“ nach einer Vorlage von Yasutaka Tsutsui veröffentlicht. Das gemeinsame Autorenjahr bietet einen Anker: Hier dient die Zeitreise dem Erwachsenwerden, dort ein Traumgerät dem Konflikt um Innenleben und Wirklichkeit.",
-      "anchor": "2006: Tsutsuis Vorlagen werden zugleich als Das Mädchen, das durch die Zeit sprang und Paprika animiert.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2006: Tsutsuis Vorlagen werden zugleich als Das Mädchen, das durch die Zeit sprang und Paprika animiert."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch.",
       "context": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch. Makoto (Originalstimme Riisa Naka) nutzt Zeitsprünge zunächst für alltägliche Vorteile. Die Adaption erzählt eine neue Hauptfigur und führt Kazuko aus Tsutsuis früherem Stoff als ihre Tante weiter.",
-      "anchor": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch.",
       "interest": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Mamoru Hosoda führte Regie, Satoko Okudera schrieb das Drehbuch."
     }
   ]
 }

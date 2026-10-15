@@ -46,8 +46,8 @@ it("prüft alle Classics-Zuordnungen, erhält Texte/IDs und ergänzt Tags idempo
     expect(new Set(tags).size).toBe(tags.length);
   }
   const classics = questions.filter(isClassic);
-  expect(classics).toHaveLength(732);
-  expect(new Set(questions.map((q) => q.id)).size).toBe(2890);
+  expect(classics).toHaveLength(731);
+  expect(new Set(questions.map((q) => q.id)).size).toBe(2889);
   const sourceChecks = references.source_files.map((ref) => {
     const pkg = contents.find((p) => p.filename === ref.filename);
     return {
@@ -196,7 +196,7 @@ it("prüft Arthouse-Referenzen samt Quellhashes, Überschneidung und fehlenden I
   const topic = categoryTopic("Alle Themen", [ARTHOUSE, CLASSICS]);
   expect(topic).toBe("Classics + Arthouse");
   const union = questions.filter((q) => matchesTopic(q, topic));
-  expect(union.length).toBe(732 + 365 - overlap.length);
+  expect(union.length).toBe(731 + 365 - overlap.length);
   expect(new Set(union.map((q) => q.id)).size).toBe(union.length);
   expect(matchesCategories(overlap[0], [ARTHOUSE, CLASSICS])).toBe(true);
   expect(

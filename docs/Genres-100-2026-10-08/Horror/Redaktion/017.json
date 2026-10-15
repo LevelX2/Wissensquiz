@@ -40,11 +40,11 @@
       ],
       "short": "Der zentrale Familienfall spielt in Enfield.",
       "context": "Ed Warren (Patrick Wilson) und Lorraine Warren (Vera Farmiga) reisen zu Peggy Hodgson (Frances O’Connor) und ihren Kindern nach Enfield. Das Haus in einem Londoner Wohngebiet wird zum Schauplatz der Untersuchung. Der Film stellt damit einen anderen Familienfall als der Vorgänger ins Zentrum. Seine Darstellung behaupteter paranormaler Ereignisse ist eine dramatische Erzählung und bestätigt deren tatsächliche übernatürliche Ursache nicht.",
-      "anchor": "Enfield ist der Londoner Schauplatz des neuen Familienfalls.",
       "interest": "Der Ortswechsel grenzt die beiden Hauptfilme ab.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Enfield ist der Londoner Schauplatz des neuen Familienfalls."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Peggy ist Janets Mutter.",
       "context": "Peggy Hodgson (Frances O’Connor) lebt mit ihren Kindern in dem Haus, in dem die Untersuchung stattfindet. Janet Hodgson (Madison Wolfe) ist ihre Tochter und gerät besonders ins Zentrum der bedrohlichen Erscheinungen. Peggys Sorge gilt deshalb zugleich dem Alltag der Familie und der Sicherheit ihres Kindes. Das Verhältnis verankert den Spuk in einem familiären Konflikt, bevor die Ermittler seine Ursache zu erklären versuchen.",
-      "anchor": "Peggy und Janet stehen als Mutter und Tochter im Familienfall.",
       "interest": "Die familiäre Beziehung erklärt Peggys Sorge um Janet.",
       "sources": [
         "film",
         "producer"
-      ]
+      ],
+      "objective": "Peggy und Janet stehen als Mutter und Tochter im Familienfall."
     },
     {
       "code": "M1",
@@ -87,11 +87,11 @@
       ],
       "short": "Das Küchenvideo wirkt wie ein Beleg für vorgetäuschte Erscheinungen.",
       "context": "Anita Gregory (Franka Potente) zeigt Aufnahmen, auf denen Janet Hodgson (Madison Wolfe) die Küche selbst verwüstet. Ed Warren (Patrick Wilson) und Lorraine Warren (Vera Farmiga) müssen deshalb die Möglichkeit einer Täuschung ernst nehmen. Sie verlassen das Haus zunächst. Der Film trennt den beobachtbaren Täuschungsakt von der späteren Frage, weshalb Janet ihn begeht: Ein belastendes Bild beantwortet hier noch nicht den gesamten Fall.",
-      "anchor": "Das Küchenvideo führt zunächst zum Zweifel und Rückzug.",
       "interest": "Ein konkreter Beleg verändert die Untersuchung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Küchenvideo führt zunächst zum Zweifel und Rückzug."
     },
     {
       "code": "M2",
@@ -110,11 +110,11 @@
       ],
       "short": "Die Vision kündigt eine tödliche Spitze als Gefahr an.",
       "context": "Lorraine Warren (Vera Farmiga) sieht Ed Warren (Patrick Wilson) in einer Vision aufgespießt. Diese Wahrnehmung lässt sie um ihren Mann fürchten und belastet ihre Bereitschaft, den neuen Fall anzunehmen. Beim späteren Fenstersturz entsteht im Garten eine entsprechende Spitze an einem Baum. Die wiederkehrende Bildform verbindet eine frühere Vorahnung mit der konkreten Rettungssituation, ohne den angekündigten Tod als unausweichlichen Ausgang festzulegen.",
-      "anchor": "Die Spitze verbindet Vorahnung und spätere Fenstergefahr.",
       "interest": "Ein wiederkehrendes Bild baut die persönliche Bedrohung auf.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Spitze verbindet Vorahnung und spätere Fenstergefahr."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Der scheinbare Hauptgeist verdeckt den eigentlichen Gegner.",
       "context": "Bill Wilkins (Bob Adrian) scheint zunächst die bestimmende Geistergestalt des Hauses zu sein. Ed Warren (Patrick Wilson) und Lorraine Warren (Vera Farmiga) erkennen später, dass die dämonische Nonne (Bonnie Aarons) ihn manipuliert. Sie benutzt die vorgeschobene Figur, um Janet Hodgson (Madison Wolfe) zu zermürben und die Untersuchung fehlzuleiten. Diese Einsicht verändert sowohl die Deutung der Stimme als auch den Grund für die Rückkehr ins Haus.",
-      "anchor": "Der sprechende Geist ist ein Werkzeug der Nonne.",
       "interest": "Die Enthüllung ordnet den scheinbaren Gegner neu ein.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der sprechende Geist ist ein Werkzeug der Nonne."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die Kenntnis des Namens ermöglicht die entscheidende Bannung.",
       "context": "Lorraine Warren (Vera Farmiga) hat den Namen Valak während einer Vision in ihre Bibel geschrieben. Im Finale findet sie den Eintrag wieder und spricht den Dämon ausdrücklich mit diesem Namen an. Dadurch kann sie die dämonische Nonne (Bonnie Aarons) bannen und Ed Warren (Patrick Wilson) sowie Janet Hodgson (Madison Wolfe) retten. Eine zuvor rätselhafte Notiz wird so zum handlungsentscheidenden Wissen.",
-      "anchor": "Die Notiz wird zum Namen, mit dem Lorraine den Gegner bannt.",
       "interest": "Eine frühere Wahrnehmung erhält erst im Finale ihren Nutzen.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Notiz wird zum Namen, mit dem Lorraine den Gegner bannt."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Der zweite Hauptfilm erschien 2016.",
       "context": "Conjuring – Die Heimsuchung erschien 2013; Conjuring 2 folgte 2016, drei Jahre später. Beide Filme stellen dasselbe Untersuchungspaar in den Mittelpunkt, erzählen aber verschiedene Familienfälle. Der erste führt zur Perron-Familie, die Fortsetzung nach Enfield. Die dazwischen begonnene Annabelle-Ablegerreihe erklärt, weshalb die zweite Hauptfolge nicht zugleich der zweite veröffentlichte Film des gesamten verbundenen Universums ist.",
-      "anchor": "2013 erster Hauptfilm, 2016 zweiter: drei Jahre Abstand.",
       "interest": "Die Hauptreihe und ihre Ableger haben unterschiedliche Zählungen.",
       "sources": [
         "studio",
         "first",
         "film"
-      ]
+      ],
+      "objective": "2013 erster Hauptfilm, 2016 zweiter: drei Jahre Abstand."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "James Wan führte erneut Hauptregie.",
       "context": "James Wan inszeniert die zweite Hauptfolge und kehrt damit zum Untersuchungspaar des ersten Films zurück. Die Warner-Studiofilmografie nennt ihn ausdrücklich als Regisseur. Der Film kombiniert einen Familienfall mit den persönlichen Visionen seiner Ermittlerin und verbindet so die Untersuchung im fremden Haus mit einer Gefahr für das Paar selbst. Regie anderer Ableger des verbundenen Universums ist davon als eigener Credit zu unterscheiden.",
-      "anchor": "Wan setzt die Hauptreihe mit dem Enfield-Fall fort.",
       "interest": "Die Regiezuordnung trennt Hauptfolge und Ableger.",
       "sources": [
         "studio",
         "film"
-      ]
+      ],
+      "objective": "Wan setzt die Hauptreihe mit dem Enfield-Fall fort."
     }
   ],
   "country_note": "Institutionelle Zuordnung UK/USA nach dem BFI Statistical Yearbook 2017, Seite 27 Tabelle 2 Rang 11; zusätzlich Seite 57 Tabelle 13 und Seite 79 Tabelle 8. Der Artikelcache nennt enger USA. Keine Finanzierung oder Nationalität allein aus Drehorten abgeleitet."

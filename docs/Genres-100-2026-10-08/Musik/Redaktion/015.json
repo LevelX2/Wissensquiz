@@ -34,11 +34,11 @@
       ],
       "short": "Tony möchte nach seiner Haft wegen einer Gewalttat einen Neuanfang.",
       "context": "Tony (Ansel Elgort) hat einen anderen jungen Mann beinahe totgeschlagen und dafür eine Haftstrafe verbüßt. Seine Erfahrung im Gefängnis verstärkt den Wunsch, sich von der Gewalt zu lösen. Diese Vorgeschichte gehört zur konkreten Ausgestaltung der neuen Filmfassung. Wenn er später den Kampf verhindern will, steht dahinter nicht nur seine Liebe, sondern auch das Wissen um die Folgen seines eigenen früheren Handelns.",
-      "anchor": "Die Haft macht Tony die Folgen seiner Gewalt bewusst.",
       "interest": "Die veränderte Vorgeschichte erklärt seinen Wunsch nach einem anderen Leben.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Haft macht Tony die Folgen seiner Gewalt bewusst."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Valentina besitzt den Laden, in dem Tony arbeitet.",
       "context": "Valentina (Rita Moreno) führt den Laden, in dem Tony (Ansel Elgort) arbeitet und Unterstützung findet. Sie ist die Witwe von Doc und erweitert eine Figur der früheren Filmversion zu einer eigenen zentralen Bezugsperson. Ihr Geschäft ist ein alltäglicher Treffpunkt, wird jedoch auch zum Ort schwerer Konflikte. Dadurch steht sie zwischen dem Wunsch nach Schutz und einer Nachbarschaft, deren Gewalt nicht an der Ladentür endet.",
-      "anchor": "Valentinas Laden ist Tonys Arbeitsort und Zuflucht.",
       "interest": "Der Ort erschließt die neue Rolle der Figur.",
       "sources": [
         "handlung",
         "presskit"
-      ]
+      ],
+      "objective": "Valentinas Laden ist Tonys Arbeitsort und Zuflucht."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Das Date führt Tony und María in die Cloisters.",
       "context": "Tony (Ansel Elgort) und María (Rachel Zegler) besuchen die Cloisters, einen von mittelalterlicher Architektur und Kunst geprägten Museumsort. Dort sprechen sie über seine Vergangenheit und geben einander Versprechen wie bei einer Hochzeit. Der ruhigere Raum steht im Gegensatz zur angespannten Nachbarschaft. Für kurze Zeit entwerfen die beiden eine gemeinsame Zukunft, bevor der bevorstehende Kampf ihre Beziehung wieder in den Konflikt hineinzieht.",
-      "anchor": "Die Cloisters geben der Liebe einen stillen Gegenraum.",
       "interest": "Ein konkreter Schauplatz erklärt den privaten Zukunftsentwurf.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Cloisters geben der Liebe einen stillen Gegenraum."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Die Bebauung für das Lincoln Center bedroht das Viertel.",
       "context": "Lieutenant Schrank (Corey Stoll) erinnert die rivalisierenden Jugendlichen daran, dass ihr Viertel bald für das Lincoln Center abgerissen werden soll. Ihr Kampf um Straßen findet damit in einer Umgebung statt, die ihnen ohnehin entzogen werden wird. Die neue Filmfassung macht diesen städtebaulichen Druck sichtbar. Die äußere Veränderung beendet die Feindschaft jedoch nicht; die Figuren bestehen weiterhin auf ihren territorialen Ansprüchen.",
-      "anchor": "Die Banden kämpfen um ein Viertel, das verschwinden soll.",
       "interest": "Der Stadtumbau erweitert den sozialen Konflikt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Banden kämpfen um ein Viertel, das verschwinden soll."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "María singt bei der nächtlichen Kaufhausreinigung.",
       "context": "María (Rachel Zegler) arbeitet mit anderen Frauen als Reinigungskraft im Kaufhaus Gimbels. Dort singt sie voller Freude über ihre neue Liebe „I Feel Pretty“. Das Publikum kennt zu diesem Zeitpunkt bereits die tödliche Eskalation des Kampfes, von der sie noch nichts weiß. Der Arbeitsort ist deshalb Teil einer neuen Inszenierung, in der ihre unbekümmerte Freude unmittelbar neben einem für sie noch verborgenen Verlust steht.",
-      "anchor": "Im Kaufhaus singt María, bevor sie die schlimme Nachricht kennt.",
       "interest": "Der Schauplatz erklärt die dramatische Wissensdifferenz.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Im Kaufhaus singt María, bevor sie die schlimme Nachricht kennt."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Anita behauptet, Chino habe María getötet.",
       "context": "Anita (Ariana DeBose) will ursprünglich eine Nachricht von María (Rachel Zegler) zu Tony (Ansel Elgort) bringen. Im Laden wird sie von den Jets angegriffen; Valentina (Rita Moreno) greift ein. Danach behauptet Anita aus der traumatischen Situation heraus, Chino (Josh Andrés Rivera) habe María getötet. Valentina gibt die Nachricht weiter. Die falsche Todesmeldung bringt Tony dazu, verzweifelt auf die Straße zu laufen.",
-      "anchor": "Die falsche Todesmeldung wird zum Auslöser des letzten Unglücks.",
       "interest": "Die Nachricht verbindet einen Übergriff mit der tragischen Schlusskette.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die falsche Todesmeldung wird zum Auslöser des letzten Unglücks."
     },
     {
       "code": "Y",
@@ -174,12 +174,12 @@
       ],
       "short": "Diese Filmfassung erschien 2021.",
       "context": "Steven Spielbergs „West Side Story“ wurde 2021 veröffentlicht, 60 Jahre nach der ersten Kinoverfilmung von 1961. Die neue Adaption greift auf das Bühnenmusical zurück und verändert einzelne Figuren und Schauplätze. Rita Moreno, in der älteren Filmversion Anita, spielt nun Valentina. Der große Veröffentlichungsabstand verbindet somit nicht nur zwei Filme, sondern wird durch eine tatsächlich wiederkehrende Darstellerin auch innerhalb ihrer Besetzung sichtbar.",
-      "anchor": "1961 erste Verfilmung → 2021 neue Adaption: 60 Jahre.",
       "interest": "Der Anker verbindet zwei Filme über eine zurückkehrende Darstellerin.",
       "sources": [
         "werk",
         "presskit"
-      ]
+      ],
+      "objective": "1961 erste Verfilmung → 2021 neue Adaption: 60 Jahre."
     },
     {
       "code": "D",
@@ -198,12 +198,12 @@
       ],
       "short": "Steven Spielberg führte Regie.",
       "context": "Steven Spielberg inszenierte die neue Adaption nach einem Drehbuch von Tony Kushner. Das Studio-Presseprofil nennt ihn eindeutig als Regisseur. Justin Peck gestaltet die musikalische Choreografie, während Gustavo Dudamel die Aufnahme der Musik leitet. Diese Aufgaben tragen entscheidend zur Form des Films bei, sind aber getrennte Credits. Die Hauptregie der Fassung bleibt deshalb Spielberg zugeordnet und wird nicht um ihre musikalischen Mitarbeiter erweitert.",
-      "anchor": "Spielberg inszeniert, Peck choreografiert, Dudamel leitet die Musikaufnahme.",
       "interest": "Die Creditzuordnung trennt die verschiedenen kreativen Aufgaben.",
       "sources": [
         "presskit",
         "studio"
-      ]
+      ],
+      "objective": "Spielberg inszeniert, Peck choreografiert, Dudamel leitet die Musikaufnahme."
     }
   ]
 }

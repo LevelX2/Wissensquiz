@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Dietrich spielt Lola Lola.",
       "context": "Der Lehrer Rath (Emil Jannings) sucht in einem Nachtlokal nach seinen Schülern und verfällt der Sängerin. Er heiratet sie und verliert seinen Beruf. Auf den Tourneen der Truppe wird aus seiner erhofften Nähe eine immer demütigendere Abhängigkeit.",
-      "anchor": "Lola Lola zieht den strengen Professor in die Welt des Nachtlokals.",
       "interest": "Die Figur begründete Dietrichs internationales Starbild.",
       "feedback": [
         "",
@@ -35,7 +34,8 @@
       ],
       "knowledge_id": "K-CLA-21-01",
       "variant_of": "CLA-L-041",
-      "knowledge_note": "Umgekehrte Besetzungsfrage zum bestehenden Ziel Marlene Dietrich ↔ Lola Lola."
+      "knowledge_note": "Umgekehrte Besetzungsfrage zum bestehenden Ziel Marlene Dietrich ↔ Lola Lola.",
+      "objective": "Lola Lola zieht den strengen Professor in die Welt des Nachtlokals."
     },
     {
       "code": "L2",
@@ -49,7 +49,6 @@
       "correct": 3,
       "short": "Zum Film gehört „Ich bin von Kopf bis Fuß auf Liebe eingestellt“.",
       "context": "Der von Friedrich Hollaender komponierte Song wurde eng mit Dietrichs Stimme und Bühnenerscheinung verbunden. Er gehört zu den Auftritten der Sängerin Lola Lola, deren Anziehungskraft den Professor aus seinem bisherigen Leben führt. Das Lied blieb auch außerhalb der Filmhandlung bekannt.",
-      "anchor": "Dietrichs Liebeslied gehört zu Lola Lolas Bühnenauftritt.",
       "interest": "Ein musikalischer Wiedererkennungsanker ergänzt die Kenntnis ihrer Filmfigur.",
       "feedback": [
         "",
@@ -63,7 +62,8 @@
       "extraSources": [
         "https://www.filmportal.de/film/der-blaue-engel_2a14f3b84dac4a268d8ce385d0524686",
         "https://www.potsdam.de/de/der-blaue-engel"
-      ]
+      ],
+      "objective": "Dietrichs Liebeslied gehört zu Lola Lolas Bühnenauftritt."
     },
     {
       "code": "M1",
@@ -77,7 +77,6 @@
       "correct": 0,
       "short": "Amy Jolly tritt in Frack und Zylinder auf.",
       "context": "Die Sängerin Amy Jolly (Marlene Dietrich) unterläuft mit dem eleganten Herrenanzug die erwartete Erscheinung einer Nachtclubkünstlerin. Ihre Verbindung zum Legionär Tom Brown (Gary Cooper) führt später weg von diesem kontrollierten Bühnenbild: Am Ende folgt sie ihm zu Fuß in die Wüste.",
-      "anchor": "Frack und Zylinder machen Amy Jollys Auftritt unverwechselbar.",
       "interest": "Die Szene erschließt Dietrichs Spiel mit Kleidung und öffentlichen Rollenbildern.",
       "feedback": [
         "",
@@ -91,7 +90,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/lists/marlene-dietrich-10-essential-films",
         "https://www.criterion.com/films/28991-morocco"
-      ]
+      ],
+      "objective": "Frack und Zylinder machen Amy Jollys Auftritt unverwechselbar."
     },
     {
       "code": "M2",
@@ -105,7 +105,6 @@
       "correct": 2,
       "short": "Dietrich spielt Christine Vole.",
       "context": "Christine erscheint zunächst als mögliche Stütze der Verteidigung ihres Mannes Leonard (Tyrone Power). Ihre Aussagen verändern jedoch die Lage im Mordprozess. Dietrichs kontrolliertes Auftreten hält dabei offen, welchen Teil ihrer Beziehung und ihres Wissens Christine wirklich preisgibt.",
-      "anchor": "Christine Vole steht zwischen Ehemann und Gericht.",
       "interest": "Die Zuordnung macht eine zentrale Figur des Gerichtsfilms wiedererkennbar.",
       "feedback": [
         "",
@@ -121,7 +120,8 @@
       ],
       "knowledge_id": "K-CLA-11-03",
       "variant_of": "CLA-M-021",
-      "knowledge_note": "Bestehendes Besetzungsziel Dietrich ↔ Christine Vole aus der Personenperspektive."
+      "knowledge_note": "Bestehendes Besetzungsziel Dietrich ↔ Christine Vole aus der Personenperspektive.",
+      "objective": "Christine Vole steht zwischen Ehemann und Gericht."
     },
     {
       "code": "S1",
@@ -135,7 +135,6 @@
       "correct": 1,
       "short": "Dietrich wurde 1939 amerikanische Staatsbürgerin.",
       "context": "Die Kinemathek datiert die Einbürgerung auf den 9. Juni 1939. Dietrichs Karriere hatte sich inzwischen nach Hollywood verlagert. Während des Zweiten Weltkriegs trat sie für alliierte Soldaten auf; ihre amerikanische Staatsbürgerschaft und ihr öffentliches Engagement gehören zu dieser biografischen Neuorientierung.",
-      "anchor": "Dietrich wurde vor dem Krieg amerikanische Staatsbürgerin.",
       "interest": "Die Entscheidung ordnet ihre internationale Karriere politisch und biografisch ein.",
       "feedback": [
         "",
@@ -146,7 +145,8 @@
       "films": [],
       "extraSources": [
         "https://www.deutsche-kinemathek.de/de/online/sammlung-digital/marlene-dietrich-collection-berlin"
-      ]
+      ],
+      "objective": "Dietrich wurde vor dem Krieg amerikanische Staatsbürgerin."
     },
     {
       "code": "S2",
@@ -160,7 +160,6 @@
       "correct": 3,
       "short": "Frau Bertholt ist die Witwe eines hingerichteten deutschen Generals.",
       "context": "Der amerikanische Richter Haywood (Spencer Tracy) begegnet ihr während des Nürnberger Juristenprozesses. Die höfliche Gastgeberin spricht aus einer deutschen Perspektive, die eigene Verluste betont. Das Gespräch steht neben der gerichtlichen Auseinandersetzung um Verantwortung und Verbrechen des nationalsozialistischen Justizsystems.",
-      "anchor": "Frau Bertholts Gastfreundschaft trägt die Erinnerung an ihren hingerichteten Mann.",
       "interest": "Die Rolle unterscheidet Dietrichs Filmfigur von ihrem eigenen Engagement gegen den Nationalsozialismus.",
       "feedback": [
         "",
@@ -174,7 +173,8 @@
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/23848",
         "https://www.bfi.org.uk/lists/marlene-dietrich-10-essential-films"
-      ]
+      ],
+      "objective": "Frau Bertholts Gastfreundschaft trägt die Erinnerung an ihren hingerichteten Mann."
     },
     {
       "code": "E1",
@@ -188,7 +188,6 @@
       "correct": 2,
       "short": "Der Film wurde in deutscher und englischer Sprache separat gedreht.",
       "context": "In der frühen Tonfilmzeit ließen sich Sprachbarrieren noch nicht selbstverständlich durch nachträgliche Synchronisation lösen. Deshalb spielte das Ensemble die Szenen für zwei Fassungen. Dietrichs Auftritte gehören in beiden Fällen zur ursprünglichen Produktion; es handelt sich nicht um ein späteres englisches Remake.",
-      "anchor": "Zwei Sprachfassungen bedeuteten zwei Aufnahmen der Szenen.",
       "interest": "Das Verfahren erklärt eine Arbeitsbedingung ihres Übergangs vom deutschen Film nach Hollywood.",
       "feedback": [
         "",
@@ -201,7 +200,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/marlene-dietrich-10-essential-films"
-      ]
+      ],
+      "objective": "Zwei Sprachfassungen bedeuteten zwei Aufnahmen der Szenen."
     },
     {
       "code": "E2",
@@ -215,7 +215,6 @@
       "correct": 0,
       "short": "Die Auszeichnung würdigte ihren Einsatz für die alliierten Truppen.",
       "context": "Dietrich reiste während des Krieges zur Truppenbetreuung und trat 1944 und 1945 unter anderem in Nordafrika und Europa auf. Damit setzte sie ihre Bekanntheit und ihre Bühnenarbeit für die Soldaten ein. Die Deutsche Kinemathek verzeichnet die Verleihung am 18. November 1947.",
-      "anchor": "Dietrichs Kriegsauftritte wurden mit der Medal of Freedom gewürdigt.",
       "interest": "Der Zusammenhang verbindet eine Ehrung mit dem konkreten persönlichen Einsatz.",
       "feedback": [
         "",
@@ -226,7 +225,8 @@
       "films": [],
       "extraSources": [
         "https://www.deutsche-kinemathek.de/de/online/sammlung-digital/marlene-dietrich-collection-berlin"
-      ]
+      ],
+      "objective": "Dietrichs Kriegsauftritte wurden mit der Medal of Freedom gewürdigt."
     }
   ]
 }

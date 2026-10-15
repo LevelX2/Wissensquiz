@@ -40,11 +40,11 @@
       ],
       "short": "Rika betritt das Haus für einen Betreuungsauftrag.",
       "context": "Rika Nishina (Megumi Okina) wird von ihrer Arbeitsstelle geschickt, um die kranke Sachie Tokunaga (Chikako Isomura) zu betreuen. Ihr erster Zugang zum Haus ist damit eine gewöhnliche Hilfeleistung. Sie weiß zunächst nicht, welche Geschichte an dem Ort haftet. Der Film verbindet so eine gesellschaftlich nützliche Aufgabe mit einer Gefahr, die sich nicht durch gute Absichten vermeiden lässt; die Besucherin wird selbst in den Fall hineingezogen.",
-      "anchor": "Ein Betreuungsauftrag bringt Rika in das gefährliche Haus.",
       "interest": "Der Einstieg folgt einer nachvollziehbaren Alltagssituation.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein Betreuungsauftrag bringt Rika in das gefährliche Haus."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Das Betreten des Hauses bringt die Besucher in den Fluch.",
       "context": "Im Saeki-Haus entsteht nach tödlicher familiärer Gewalt ein Fluch, der neue Besucher erfasst. Wer den Ort betritt, kann später auch außerhalb des Gebäudes verfolgt werden. Der Film führt deshalb verschiedene Menschen über alltägliche Besuche, Arbeit oder Neugier in dieselbe Bedrohung. Die Eintrittsbedingung erklärt die Verbindung ihrer Geschichten, ohne dass alle Betroffenen zuvor voneinander wissen oder bewusst an einem gemeinsamen Ritual teilnehmen müssten.",
-      "anchor": "Der Eintritt verbindet unterschiedliche Lebenswege mit demselben Ort.",
       "interest": "Die Grundregel macht die episodische Handlung verständlich.",
       "sources": [
         "film",
         "cinema"
-      ]
+      ],
+      "objective": "Der Eintritt verbindet unterschiedliche Lebenswege mit demselben Ort."
     },
     {
       "code": "M1",
@@ -87,11 +87,11 @@
       ],
       "short": "Die Lehrerin verfolgt den Fall eines nie erschienenen Schülers.",
       "context": "Mariko Uki (Kayoko Shibata) ist Lehrerin und besucht das Haus, weil Toshio Saeki (Yuya Ozeki) als Schüler registriert ist, aber nie im Unterricht erscheint. Rika Nishina (Megumi Okina) versucht, ihre Freundin noch zu erreichen. Die Szene zeigt, wie ein normaler institutioneller Eintrag einen neuen Besuch auslöst. Eine vermeintliche Fürsorgepflicht führt dabei zurück an einen Ort, dessen Gefahr die Lehrerin nicht erkennt.",
-      "anchor": "Ein nicht erschienener Schüler veranlasst den Hausbesuch.",
       "interest": "Ein alltäglicher Anlass bindet eine weitere Figur in den Fluch ein.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein nicht erschienener Schüler veranlasst den Hausbesuch."
     },
     {
       "code": "M2",
@@ -110,11 +110,11 @@
       ],
       "short": "Geschwärzte Augen verbinden die Fotos mit der Bedrohung.",
       "context": "Izumi Toyama (Misa Uehara) hat das Haus mit Freundinnen besucht und ist geflohen, während die anderen zurückblieben. Später werden Fotos gebracht, auf denen die Augen der Abgebildeten geschwärzt erscheinen. Der Bildfehler verbindet ihre Schuldgefühle mit einer äußeren unheimlichen Spur. Die Aufnahmen bieten keine verlässliche Entwarnung über die früheren Begleiterinnen, sondern tragen die Bedrohung in eine weitere Begegnung außerhalb des Hauses.",
-      "anchor": "Die Fotos zeigen auffällig geschwärzte Augen.",
       "interest": "Ein sichtbares Zeichen verbindet Erinnerung und aktuelle Verfolgung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Fotos zeigen auffällig geschwärzte Augen."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Der Vater erlebt einen Vorgriff auf das spätere Ereignis.",
       "context": "Yuji Toyama (Yōji Tanaka) hört bei seinem Versuch, das Haus zu verbrennen, Mädchen im oberen Stockwerk. Die Handlung verknüpft diese Beobachtung mit dem späteren Besuch seiner inzwischen jugendlichen Tochter Izumi Toyama (Misa Uehara). Was zunächst wie ein weiteres Gegenwartsereignis wirkt, ist ein Vorgriff. Der Fluch verbindet damit die Schicksale verschiedener Generationen und lässt sich nicht einfach als geradlinige Folge aufeinanderfolgender Besuche rekonstruieren.",
-      "anchor": "Der Hausbesuch des Vaters kreuzt die spätere Zeit seiner Tochter.",
       "interest": "Die Enthüllung erklärt die ungewöhnliche Erzählordnung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Hausbesuch des Vaters kreuzt die spätere Zeit seiner Tochter."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Rika nimmt die Opferrolle Kayakos ein.",
       "context": "Rika Nishina (Megumi Okina) sieht sich als das wahre Gesicht Kayako Saekis (Takako Fuji). Die Konfrontation versetzt sie in die Opferrolle der ermordeten Frau; Takeo Saeki (Takashi Matsuyama) bedroht und tötet sie entsprechend. Der Schluss zeigt danach ihren Körper mit einer Kayako ähnlichen Erscheinung. Die Handlung bietet dadurch keine einfache erfolgreiche Geistervertreibung, sondern verbindet die neue Besucherin mit einer wiederkehrenden Gewaltsituation des Hauses.",
-      "anchor": "Rika wird in Kayakos Opferrolle hineingezogen.",
       "interest": "Die späte Perspektive verbindet Besucherin und Ursprung der Gewalt.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Rika wird in Kayakos Opferrolle hineingezogen."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Der öffentliche Festivalbeginn liegt 2002.",
       "context": "Ju-on: The Grudge wurde 2002 bei Screamfest gezeigt. Der japanische Kinostart folgte im Januar 2003, und Ju-on: The Grudge 2 erschien 2003: zwischen den Erstjahren der beiden Kinofilme liegt ein Jahr. JFDB ordnet den Augusttermin 2003 ausdrücklich dem zweiten Film zu. Dieser Vergleich verhindert, dass eine spätere nationale Auswertung oder ein Fortsetzungstermin fälschlich die erste öffentliche Vorführung des Originals ersetzt.",
-      "anchor": "Erster Kinofilm 2002, zweiter 2003: ein Jahr; Japanstart des ersten Januar 2003.",
       "interest": "Festivalbeginn, Kinoauswertung und Fortsetzung bleiben getrennt.",
       "sources": [
         "festival",
         "award",
         "register"
-      ]
+      ],
+      "objective": "Erster Kinofilm 2002, zweiter 2003: ein Jahr; Japanstart des ersten Januar 2003."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Takashi Shimizu inszenierte den japanischen Kinofilm.",
       "context": "Takashi Shimizu führt Hauptregie und schrieb das Drehbuch. Das UNIJAPAN-Register bestätigt die konkrete Kinofassung mit Megumi Okina. Der Film verteilt den Fluch auf mehrere Figurenabschnitte und verschränkt verschiedene Zeiten, sodass spätere Szenen frühere Wahrnehmungen neu erklären. Die Zugehörigkeit zur Ju-on-Reihe reicht zur eindeutigen Creditfrage allein nicht aus: Videofilme, japanische Kinofortsetzung und US-Neuverfilmungszweig müssen als einzelne Werke auseinandergehalten werden.",
-      "anchor": "Shimizu verknüpft verschiedene Figuren und Zeiten im japanischen Kinofilm.",
       "interest": "Die Regiefrage bleibt an die konkrete Fassung gebunden.",
       "sources": [
         "register",
         "film",
         "cinema"
-      ]
+      ],
+      "objective": "Shimizu verknüpft verschiedene Figuren und Zeiten im japanischen Kinofilm."
     }
   ]
 }

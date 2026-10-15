@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Dora schreibt gegen Bezahlung Briefe für Menschen, die selbst nicht schreiben können.",
       "context": "Die ehemalige Lehrerin sitzt im Bahnhof von Rio de Janeiro. Dort begegnet sie Josué und dessen Mutter. Nach dem Tod der Mutter wird aus der geschäftlichen Begegnung eine Reisegemeinschaft: Dora begleitet den Jungen auf der Suche nach seinem Vater.",
-      "anchor": "Doras Arbeitsplatz ist ein Schreibtisch im Bahnhof.",
       "interest": "Das Schreiben schafft die erste Verbindung zwischen den zunächst fremden Menschen.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-F240-20261006-054-L1",
       "variant_of": "F240-20261006-054-L1",
-      "knowledge_note": "Gleiches Wissensziel wie die Filmfrage: Doras Einkommen durch Briefeschreiben."
+      "knowledge_note": "Gleiches Wissensziel wie die Filmfrage: Doras Einkommen durch Briefeschreiben.",
+      "objective": "Doras Arbeitsplatz ist ein Schreibtisch im Bahnhof."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 0,
       "short": "Sie erscheint als Nossa Senhora, die Jungfrau Maria.",
       "context": "Die Gaunerkomödie führt João Grilo (Matheus Nachtergaele) schließlich vor ein jenseitiges Gericht. Dort stehen Jesus, der Teufel und Maria für unterschiedliche Antworten auf Schuld und menschliche Schwäche. Montenegros Figur bringt das titelgebende Mitgefühl in die Verhandlung.",
-      "anchor": "Montenegro verkörpert die Fürsprecherin Maria.",
       "interest": "Die Besetzung verbindet eine Volkskomödie mit ihrem religiösen Schluss.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://gshow.globo.com/cultura-pop/filmes/globo-filmes/generos/comedia/oautodacompadecida.ghtml"
-      ]
+      ],
+      "objective": "Montenegro verkörpert die Fürsprecherin Maria."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 1,
       "short": "Regina beobachtet ihre Umgebung und gibt Hinweise an die Polizei.",
       "context": "Ihre Aufmerksamkeit richtet sich auf einen Mann gegenüber, den sie eines Verbrechens verdächtigt. Der Kontakt zu ihm verändert jedoch die vermeintlich sichere Distanz zwischen Beobachterin und Beobachtetem. Marcos Bernstein verknüpft so eine Kriminalgeschichte mit der Annäherung zweier älterer Menschen.",
-      "anchor": "Regina schaut im Auftrag der Polizei genauer hin.",
       "interest": "Die Nebenbeschäftigung setzt sowohl den Verdacht als auch die persönliche Begegnung in Gang.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://tribecafilm.com/festival/archive/512d008f1c7d76e046002416-other-side-of-the-street"
-      ]
+      ],
+      "objective": "Regina schaut im Auftrag der Polizei genauer hin."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 1,
       "short": "Sie begann bei Rádio MEC.",
       "context": "Bereits als Jugendliche übernahm sie beim Sender unterschiedliche Aufgaben. Erst danach kamen regelmäßige Theater- und Fernsehauftritte hinzu. Ihr beruflicher Ausgangspunkt liegt damit in einer Arbeit, bei der Stimme, Text und Vorstellungskraft eine Szene tragen mussten.",
-      "anchor": "Vor Theater und Fernsehen stand Rádio MEC.",
       "interest": "Der Radiobeginn erklärt die Breite ihrer frühen Ausbildung jenseits einer einzelnen Filmrolle.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       "films": [],
       "extraSources": [
         "https://memoriaglobo.globo.com/perfil/fernanda-montenegro/noticia/fernanda-montenegro.ghtml"
-      ]
+      ],
+      "objective": "Vor Theater und Fernsehen stand Rádio MEC."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 0,
       "short": "Sie kündigt Macabéa eine glückliche Zukunft mit einem reichen Ausländer an.",
       "context": "Macabéa (Marcélia Cartaxo) lebt als schlecht bezahlte Schreibkraft in São Paulo und ist von ihrem Freund verlassen worden. Die Vorhersage schenkt ihr plötzlich Zuversicht. Gerade dieser Umschlag von alltäglicher Demütigung zu Hoffnung macht Montenegros kurzen Auftritt für das Ende bedeutsam.",
-      "anchor": "Die Prophezeiung verheißt Liebe und Wohlstand.",
       "interest": "Eine Nebenrolle verändert für einen Augenblick den Blick der Hauptfigur auf ihre ganze Zukunft.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.rtp.pt/programa/tv/p39853"
-      ]
+      ],
+      "objective": "Die Prophezeiung verheißt Liebe und Wohlstand."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 3,
       "short": "Zulmira möchte mit einem luxuriösen Begräbnis gesellschaftliche Anerkennung erzwingen.",
       "context": "Ihr Leben ist von Armut geprägt, ihr Mann ist arbeitslos. Die erträumte Beerdigung soll nachträglich den Glanz herstellen, der ihr im Leben fehlt. Leon Hirszmans Verfilmung eines Stücks von Nelson Rodrigues macht daraus ein bitteres Bild sozialer Zurücksetzung.",
-      "anchor": "Zulmira setzt ihre Hoffnung auf die eigene Beerdigung.",
       "interest": "Der ungewöhnliche Wunsch zeigt, wie gesellschaftlicher Status selbst die Vorstellung vom Tod prägt.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.cinetecanacional.net/sedes/detallePelicula.php?FilmId=HO00007734&cinemaId=003"
-      ]
+      ],
+      "objective": "Zulmira setzt ihre Hoffnung auf die eigene Beerdigung."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 3,
       "short": "Montenegro verkörpert die älteren Lebensphasen von Großmutter, Tochter und Enkelin.",
       "context": "Andrucha Waddingtons Film beginnt 1910 in den Dünen von Maranhão. Über die Jahrzehnte wechseln die Gesichter zwischen den Generationen: Montenegro übernimmt Dona Maria sowie spätere Lebensphasen von Áurea und Maria. Wiederkehrende Darstellerinnen lassen familiäre Ähnlichkeiten und den langen Ablauf der Zeit sichtbar werden.",
-      "anchor": "Drei Generationen erhalten im Alter Montenegros Gesicht.",
       "interest": "Der Rollenwechsel ist eine Form, Familiengeschichte mit den Körpern der Darstellerinnen zu erzählen.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://www.kviff.com/en/programme/film/8/2439-the-house-of-sand"
-      ]
+      ],
+      "objective": "Drei Generationen erhalten im Alter Montenegros Gesicht."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 2,
       "short": "Ausgangspunkt ist „Die Zeremonie des Abschieds“.",
       "context": "Montenegro bearbeitete Beauvoirs Erinnerungen für eine szenische Lesung und ergänzte später Ausschnitte aus weiteren Texten. Das Programm entwickelte sich aus einer längeren Beschäftigung mit der Schriftstellerin. Die Darstellerin tritt dabei als Lesende und Gestalterin des Textes auf.",
-      "anchor": "Beauvoirs Abschiedsbuch bildet den Ausgangspunkt.",
       "interest": "Die Arbeit erweitert das Schauspielerporträt um ihre eigene Dramaturgie einer literarischen Bühnenform.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       "films": [],
       "extraSources": [
         "https://www.sescsp.org.br/editorial/fernanda-montenegro-traz-leitura-dramatica-de-simone-de-beauvoir-para-o-sesc-14-bis/"
-      ]
+      ],
+      "objective": "Beauvoirs Abschiedsbuch bildet den Ausgangspunkt."
     }
   ]
 }

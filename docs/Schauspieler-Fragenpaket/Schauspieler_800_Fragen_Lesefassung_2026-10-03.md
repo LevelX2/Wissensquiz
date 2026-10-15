@@ -6426,7 +6426,6 @@ Welchem Stand gehört Sanjuro (Toshirō Mifune) in „Yojimbo“ (1961) an?
 
 **Vertiefung:** Sanjuro (Toshirō Mifune) kommt in eine Kleinstadt, in der zwei rivalisierende Banden die Bewohner einschüchtern. Als herrenloser Samurai ist er keinem Fürsten verpflichtet. Statt sich dauerhaft einer Seite anzuschließen, spielt er die Banden gegeneinander aus. Seine Fähigkeiten mit dem Schwert machen ihn für beide Seiten interessant; seine Unabhängigkeit gibt ihm dabei den Spielraum, ihre Rivalität für seine eigenen Pläne zu nutzen.
 
-**Merksatz:** Sanjuro: Samurai ohne Herrn, zwischen zwei Banden.
 
 **Filmdaten-Verknüpfungen:** Yojimbo|1961
 

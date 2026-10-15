@@ -34,12 +34,12 @@
       ],
       "short": "Jef Costello arbeitet als Auftragsmörder.",
       "context": "Jef Costello (Alain Delon) führt ein äußerst zurückgezogenes Leben und bereitet seine Aufträge sorgfältig vor. Sein Auftreten, die Beschaffung eines Fahrzeugs und die Planung eines Alibis zeigen routiniertes Handwerk. Nach der Tötung eines Nachtclubbesitzers gerät diese Kontrolle ins Wanken. Der Film richtet seinen Blick weniger auf eine spektakuläre Verbrecherkarriere als auf die Regeln und Grenzen dieses einsamen Berufs.",
-      "anchor": "Jefs Präzision gehört zum Handwerk des Auftragsmörders.",
       "interest": "Der Beruf erklärt die Routine der Hauptfigur.",
       "sources": [
         "handlung",
         "janus"
-      ]
+      ],
+      "objective": "Jefs Präzision gehört zum Handwerk des Auftragsmörders."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Jane sichert Jefs Alibi ab.",
       "context": "Jef Costello (Alain Delon) plant vor dem Mord nicht nur den Tatablauf, sondern auch eine Erklärung für seinen Aufenthaltsort. Jane Lagrange (Nathalie Delon) bestätigt diese vorbereitete Geschichte gegenüber der Polizei. Die Beziehung bietet ihm damit praktische Deckung. Ihr Beistand steht dem Misstrauen der übrigen Welt gegenüber, in der sowohl Auftraggeber als auch Ermittler versuchen, ihn festzulegen.",
-      "anchor": "Jane ist die menschliche Stütze des geplanten Alibis.",
       "interest": "Die Beziehung wird durch ihre konkrete Funktion im Ablauf erklärt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Jane ist die menschliche Stütze des geplanten Alibis."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Die Bezahlverabredung wird zum Anschlag auf Jef.",
       "context": "Jef Costello (Alain Delon) kommt nach dem Verhör frei, ist dadurch für seine Auftraggeber aber nicht automatisch ungefährlich. Bei der vorgesehenen Geldübergabe wird auf ihn geschossen. Seine Festnahme hat ihn in ihren Augen zur möglichen Belastung gemacht. Der professionelle Vertrag schützt ihn deshalb nicht: Ausgerechnet die Seite, für die er getötet hat, versucht nun, den eigenen Vollstrecker zu beseitigen.",
-      "anchor": "Vom bezahlten Vollstrecker wird Jef zur gefährlichen Spur für seine Auftraggeber.",
       "interest": "Die Reaktion erklärt den zweiten Gegner neben der Polizei.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Vom bezahlten Vollstrecker wird Jef zur gefährlichen Spur für seine Auftraggeber."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Der Vogel zeigt Jef, dass seine Wohnung gestört wurde.",
       "context": "Die Polizei installiert in Jef Costellos (Alain Delon) Wohnung eine Abhöreinrichtung. Der sonst sorgfältig kontrollierte Raum hinterlässt dennoch eine Spur: Sein Vogel ist ungewöhnlich aufgeregt und hat Federn verloren. Jef bemerkt die Veränderung und sucht nach dem Gerät. Das Tier ist damit mehr als Dekoration seiner Einsamkeit; es registriert einen Eingriff, den die technischen Überwacher unsichtbar halten wollten.",
-      "anchor": "Der Vogel verrät die vermeintlich spurenlose Überwachung.",
       "interest": "Ein atmosphärisches Detail erhält eine konkrete Funktion im Handlungsablauf.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Vogel verrät die vermeintlich spurenlose Überwachung."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Jefs Waffe ist bei der letzten Konfrontation ungeladen.",
       "context": "Jef Costello (Alain Delon) kehrt in den Nachtclub zurück und richtet seine Waffe auf die Pianistin Valérie (Cathy Rosier). Die bereitstehenden Polizisten erschießen ihn. Erst danach zeigt sich, dass die Waffe nicht geladen war. Dieser Befund verändert den Blick auf sein Auftreten: Er konnte die Pianistin damit nicht erschießen. Seine letzte Absicht bleibt eine Deutungsfrage, die leere Waffe hingegen ein klarer Handlungsfakt.",
-      "anchor": "Der letzte sichtbare Angriff erfolgt mit leerer Waffe.",
       "interest": "Die Frage trennt den überprüfbaren Schlussbefund von einer umstrittenen Motivdeutung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der letzte sichtbare Angriff erfolgt mit leerer Waffe."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Das scheinbar historische Motto ist eine erfundene Quellenzuschreibung.",
       "context": "Der Film eröffnet mit einem Satz über die Einsamkeit des Samurai und schreibt ihn dem Bushidō zu. Die Janus-Presseunterlagen ordnen diese Autorität ausdrücklich als Erfindung Jean-Pierre Melvilles ein. Das Motto baut somit selbst eine stilisierte Welt auf, statt historische Dokumentation zu liefern. Die Samurai-Verbindung beschreibt Jef Costellos (Alain Delon) Haltung und Bildsprache, nicht seine Tätigkeit als japanischer Krieger.",
-      "anchor": "Die historische Autorität des Mottos ist selbst inszeniert.",
       "interest": "Die Frage erschließt den Unterschied zwischen filmischem Mythos und historischer Quelle.",
       "sources": [
         "janus"
-      ]
+      ],
+      "objective": "Die historische Autorität des Mottos ist selbst inszeniert."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Der Film erschien 1967.",
       "context": "Der eiskalte Engel erschien 1967. Drei Jahre später, 1970, setzten Jean-Pierre Melville und Alain Delon ihre Zusammenarbeit mit Vier im roten Kreis fort. Die Janus-Presseunterlagen nennen beide Filme als Stationen ihrer Verbindung. Der frühere Film konzentriert sich auf einen isolierten Auftragsmörder, der spätere auf ein zeitweise verbundenes Trio. Der Abstand verknüpft die Jahreszahl mit einer konkreten künstlerischen Zusammenarbeit.",
-      "anchor": "1967 Der eiskalte Engel, 1970 Vier im roten Kreis: drei Jahre.",
       "interest": "Die Jahreszahl wird durch die Weiterentwicklung derselben Zusammenarbeit gestützt.",
       "sources": [
         "janus",
         "vergleich"
-      ]
+      ],
+      "objective": "1967 Der eiskalte Engel, 1970 Vier im roten Kreis: drei Jahre."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "Jean-Pierre Melville führte Regie.",
       "context": "Janus und Criterion bestätigen Jean-Pierre Melville als Regisseur. Sein Film mit Alain Delon baut eine streng stilisierte Welt auf, in der Gesten, Räume und Handgriffe oft mehr erzählen als Gespräche. Die Presseunterlagen beschreiben die Zusammenarbeit, die später in weiteren Filmen fortgesetzt wurde. Die Samurai-Verbindung ist ein filmisches Leitbild für den französischen Auftragsmörder Jef Costello (Alain Delon), keine Angabe seiner Herkunft.",
-      "anchor": "Melville formt Delons schweigsamen Auftragsmörder.",
       "interest": "Die Inszenierung wird mit der konkreten formalen Eigenart des Films verbunden.",
       "sources": [
         "janus",
         "criterion"
-      ]
+      ],
+      "objective": "Melville formt Delons schweigsamen Auftragsmörder."
     }
   ]
 }

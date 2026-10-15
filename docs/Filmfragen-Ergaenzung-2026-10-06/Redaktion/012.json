@@ -32,13 +32,13 @@
       ],
       "short": "Viele Heliumballons lassen das Haus fliegen.",
       "context": "Carl hat früher Ballons verkauft. Nun nutzt er sie für eine Reise, die er mit seiner Frau Ellie geplant hatte. Ellie wird nur als Kind von Elie Docter gesprochen; als Erwachsene ist sie in der weitgehend wortlosen Lebensmontage zu sehen. Carls vertraute Berufswelt liefert das fantastische Transportmittel.",
-      "anchor": "Der frühere Ballonverkäufer hebt sein Haus mit Ballons an.",
       "interest": "Die zentrale Bildidee ist mit der Biografie der Figur verbunden.",
       "sources": [
         "presse",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der frühere Ballonverkäufer hebt sein Haus mit Ballons an."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Der junge Pfadfinder Russell wird zum unerwarteten Mitreisenden.",
       "context": "Russell (Jordan Nagai) möchte einem älteren Menschen helfen, um sein letztes Abzeichen zu verdienen. Sein kleiner Hilfsauftrag führt ihn plötzlich nach Südamerika. Carl erhält einen Begleiter, den er nicht eingeplant hat.",
-      "anchor": "Russells Hilfsabzeichen führt ihn auf eine unerwartete Reise.",
       "interest": "Ein einfacher Auftrag wird zur Verbindung der Hauptfiguren.",
       "sources": [
         "presse",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Russells Hilfsabzeichen führt ihn auf eine unerwartete Reise."
     },
     {
       "code": "M1",
@@ -82,13 +82,13 @@
       ],
       "short": "Ihre Halsbänder übersetzen Gedanken in menschliche Sprache.",
       "context": "Dug (Bob Peterson) gehört zu einer Suchmeute. Die Geräte machen sowohl Befehle als auch spontane Ablenkungen hörbar. Seine Freundlichkeit steht dadurch unmittelbar neben dem strengen Verhalten der anderen Hunde.",
-      "anchor": "Dugs Halsband macht seine Gedanken hörbar.",
       "interest": "Eine konkrete technische Idee trägt Humor und Figurenbeziehung.",
       "sources": [
         "presse",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Dugs Halsband macht seine Gedanken hörbar."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Ellies Buch würdigt ihr gemeinsames Leben als erfülltes Abenteuer.",
       "context": "Carl hatte das ausgebliebene Reiseziel als unerfülltes Versprechen verstanden. Ellies Erinnerungsseiten setzen dem die Bedeutung des Zusammenlebens entgegen. Danach kann er sich stärker auf Russell (Jordan Nagai) und die gegenwärtige Rettungsaufgabe einlassen.",
-      "anchor": "Ellies Abenteuerbuch öffnet Carl für ein neues Abenteuer.",
       "interest": "Ein Gegenstand löst die zentrale Veränderung der Hauptfigur aus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ellies Abenteuerbuch öffnet Carl für ein neues Abenteuer."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Eine weitgehend wortlose Montage verdichtet ihre gemeinsame Lebenszeit.",
       "context": "Carl (Ed Asner) und Ellie (Elie Docter als Kind) wachsen aus den ersten Begegnungen in ein gemeinsames Leben. Wiederkehrende Bilder zeigen Hoffnungen und Unterbrechungen. Die Musik trägt den Übergang durch die Jahre.",
-      "anchor": "Bilder und Musik erzählen eine Ehe ohne lange Dialoge.",
       "interest": "Die Frage erschließt die prägende Erzählform des Auftakts.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bilder und Musik erzählen eine Ehe ohne lange Dialoge."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Muntz will nach der Zurückweisung seines früheren Fundes rehabilitiert werden.",
       "context": "Ein Vogelskelett hatte ihm statt Anerkennung den Verdacht einer Fälschung eingebracht. Die Suche nach einem lebenden Beweis bestimmt sein weiteres Leben. Carls (Ed Asner) Jugendidol wird dadurch zum gefährlichen Gegner.",
-      "anchor": "Muntz jagt den Vogel als Beweis für seine angezweifelte Entdeckung.",
       "interest": "Die Vorgeschichte erklärt den Wandel vom Vorbild zum Gegner.",
       "sources": [
         "presse"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Muntz jagt den Vogel als Beweis für seine angezweifelte Entdeckung."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Die Weltpremiere lag 2009.",
       "context": "„Oben“ eröffnete 2009 die Filmfestspiele von Cannes. Der Ballonhaus-Film ist damit zugleich ein Festival-Eröffnungsfilm. Dieser konkrete Festivalbezug verbindet die fantastische Reise mit einem gut erinnerbaren Ereignis im Veröffentlichungsjahr.",
-      "anchor": "2009 hebt das Ballonhaus zur Cannes-Eröffnung ab.",
       "interest": "Die Premiere selbst wird über ihre besondere Festivalrolle eingeordnet.",
       "sources": [
         "cannes",
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2009 hebt das Ballonhaus zur Cannes-Eröffnung ab."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Pete Docter führte Regie; Bob Peterson war Co-Regisseur.",
       "context": "Das Presseheft führt die beiden Aufgaben ausdrücklich getrennt auf. Docter und Peterson schrieben auch gemeinsam das Drehbuch. Peterson sprach außerdem Dug im Original und verband damit Erzählentwicklung mit einer Figurenstimme.",
-      "anchor": "Docter und Peterson inszenieren und schreiben; Peterson spricht außerdem Dug.",
       "interest": "Das vollständige Team wird durch seine weiteren Filmaufgaben eingeordnet.",
       "sources": [
         "presse",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Docter und Peterson inszenieren und schreiben; Peterson spricht außerdem Dug."
     }
   ],
   "director_note": "Pete Docter ist Regisseur, Bob Peterson offiziell Co-Regisseur. Beide stehen in der Teamantwort; die Rollenunterscheidung bleibt dokumentiert."

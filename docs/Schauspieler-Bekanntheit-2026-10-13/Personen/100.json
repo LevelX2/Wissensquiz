@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Ines arbeitet als Unternehmensberaterin.",
       "context": "Ihre Karriere führt sie nach Bukarest. Der Besuch ihres Vaters Winfried (Peter Simonischek), der sich mit Perücke und falschen Zähnen in ihren Alltag einmischt, bringt ihre sorgfältig kontrollierte Arbeitswelt durcheinander.",
-      "anchor": "Ines berät Unternehmen; ihr Vater stört den Geschäftsalltag.",
       "interest": "Die berufliche Welt der Hauptfigur erkennen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/toni-erdmann_61b50decffc146079c05f1622e5a19cf"
-      ]
+      ],
+      "objective": "Ines berät Unternehmen; ihr Vater stört den Geschäftsalltag."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Sie steht unter Verdacht, ihren Mann getötet zu haben.",
       "context": "Nach seinem Tod wird die Ehe vor Gericht durchleuchtet. Hüllers Figur muss sich nicht nur gegen einen Mordvorwurf verteidigen: Auch die Spannungen im gemeinsamen Alltag werden als mögliche Beweisanzeichen bewertet.",
-      "anchor": "Ein Todesfall macht die Ehe zum Gerichtsfall.",
       "interest": "Das Zentrum eines bekannten Gerichtsdramas erfassen.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "knowledge_id": "K-F240-20261006-048-L1",
       "variant_of": "F240-20261006-048-L1",
-      "knowledge_note": "Gleicher Mordverdacht gegen die von Sandra Hüller gespielte Figur."
+      "knowledge_note": "Gleicher Mordverdacht gegen die von Sandra Hüller gespielte Figur.",
+      "objective": "Ein Todesfall macht die Ehe zum Gerichtsfall."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 2,
       "short": "Michaela gerät in einen religiösen Exorzismus.",
       "context": "Der Film nimmt einen realen Fall zum Ausgangspunkt, erzählt ihn jedoch mit einer fiktiven Hauptfigur. Ihr Versuch, sich vom streng religiösen Elternhaus zu lösen, wird von gesundheitlichen Krisen und der Vorstellung einer Besessenheit überschattet.",
-      "anchor": "Michaelas Krise wird als Besessenheit behandelt.",
       "interest": "Eine Rolle zwischen Aufbruch, Krankheit und religiösem Druck verstehen.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       "extraSources": [
         "https://www.filmportal.de/person/sandra-hueller_5f6efa28c1da499b8a99ca7c2642cc71",
         "https://www.filmportal.de/film/requiem_dba5aa86c4d3492eb7603386475d2990"
-      ]
+      ],
+      "objective": "Michaelas Krise wird als Besessenheit behandelt."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 3,
       "short": "Sie spielt Hedwig Höß.",
       "context": "Die Ehefrau des Auschwitz-Kommandanten Rudolf Höß (Christian Friedel) gestaltet ein privilegiertes Familienleben unmittelbar neben dem Lager. Der gepflegte Garten steht im Film neben den hörbaren Zeichen des Massenmords jenseits der Mauer.",
-      "anchor": "Hedwigs Garten liegt neben Auschwitz.",
       "interest": "Die historische Rolle und den beklemmenden Schauplatz verbinden.",
       "feedback": [
         "",
@@ -117,7 +116,8 @@
       "extraSources": [
         "https://bfidatadigipres.github.io/new%20releases/2024/02/02/zone-of-interest/",
         "https://a24films.com/films/the-zone-of-interest"
-      ]
+      ],
+      "objective": "Hedwigs Garten liegt neben Auschwitz."
     },
     {
       "code": "S1",
@@ -131,7 +131,6 @@
       "correct": 0,
       "short": "Charlotte trifft sich mit Patienten.",
       "context": "Sie mietet dafür eine Wohnung und wählt Männer mit sehr unterschiedlichen Körpern aus. Als ihr Ehemann Max (Dragan Bakema) davon erfährt, gerät die Ehe in eine Krise; eine Therapie soll Charlottes schwer erklärbares Verlangen verständlich machen.",
-      "anchor": "Charlottes Patienten werden Teil ihres Doppellebens.",
       "interest": "Den konkreten Konflikt eines psychologischen Dramas verstehen.",
       "feedback": [
         "",
@@ -144,7 +143,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/brownian-movement_7422062123fe4ab687fbfe338d8876fc"
-      ]
+      ],
+      "objective": "Charlottes Patienten werden Teil ihres Doppellebens."
     },
     {
       "code": "S2",
@@ -158,7 +158,6 @@
       "correct": 1,
       "short": "Franziska dreht Dokumentarfilme.",
       "context": "Sie will eine anspruchsvolle Milieustudie über einen arbeitslosen Plattenbaubewohner schaffen. Ihre Suche nach vermeintlicher Authentizität gehört zu den miteinander verbundenen satirischen Geschichten des Films.",
-      "anchor": "Franziska sucht die Wirklichkeit mit der Kamera.",
       "interest": "Eine weitere Facette von Hüllers Rollenarbeit kennenlernen.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/finsterworld_508ea0e4bf564a60a1f24782dd0050ed"
-      ]
+      ],
+      "objective": "Franziska sucht die Wirklichkeit mit der Kamera."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 3,
       "short": "Hüller spielt Hamlet.",
       "context": "Die Inszenierung macht die Suche nach Wahrhaftigkeit zum Zentrum des Stücks. Hüllers Besetzung in der Titelrolle führt ihre langjährige Bühnenarbeit neben der Filmkarriere fort.",
-      "anchor": "Hüller übernimmt selbst den Dänenprinzen.",
       "interest": "Eine prägende Bühnenarbeit erkennen.",
       "feedback": [
         "",
@@ -196,7 +195,8 @@
       "films": [],
       "extraSources": [
         "https://www.schauspielhausbochum.de/en/stuecke/198/hamlet"
-      ]
+      ],
+      "objective": "Hüller übernimmt selbst den Dänenprinzen."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 2,
       "short": "Sie führte gemeinsam mit Tom Schneider Regie.",
       "context": "Die deutschsprachige Erstaufführung von MarDis Kleist-Überschreibung hatte 2025 Premiere. Das Stück betrachtet die Begegnung von Penthesilea und Achilles neu; Hüller wechselte dabei von der eigenen Darstellung zur gemeinsamen Inszenierung.",
-      "anchor": "Hüller und Schneider inszenieren MarDis Penthesilea.",
       "interest": "Ein Regiedebüt mit seinem konkreten künstlerischen Partner verbinden.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       "films": [],
       "extraSources": [
         "https://www.buehnen-halle.de/de/program/penthesileas/270495"
-      ]
+      ],
+      "objective": "Hüller und Schneider inszenieren MarDis Penthesilea."
     }
   ]
 }

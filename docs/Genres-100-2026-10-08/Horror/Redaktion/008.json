@@ -32,11 +32,11 @@
       ],
       "short": "David und Jack sind auf einer Rucksackwanderung.",
       "context": "David Kessler (David Naughton) und Jack Goodman (Griffin Dunne) wandern durch Nordengland. Am Abend suchen sie in einem örtlichen Pub Schutz vor dem Wetter und eine Pause von ihrer Reise. Die Ausgangslage ist eine gewöhnliche Tour zweier Freunde, kein bewusst geplanter Besuch bei Werwölfen. Ihr Mangel an Ortskenntnis und das verschlossene Verhalten der Einheimischen werden erst nach diesem alltäglichen Einstieg bedrohlich.",
-      "anchor": "Die harmlose Rucksackreise endet an einem verschwiegenen Ort.",
       "interest": "Erfasst die Reiseform statt der vom Titel nahegelegten Nationalität.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die harmlose Rucksackreise endet an einem verschwiegenen Ort."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Die Warnung lautet, auf der Straße zu bleiben und das Moor zu meiden.",
       "context": "David Kessler (David Naughton) und Jack Goodman (Griffin Dunne) verlassen den Pub nach einer unangenehmen Begegnung mit den Einheimischen. Die Gäste warnen sie, auf der Straße zu bleiben und das Moor zu meiden. Doch die Freunde geraten von der Straße ab. Die Warnung besitzt damit eine konkrete räumliche Bedeutung: Sie beschreibt einen vermeidbaren Weg, bevor die Gefahr im offenen Gelände tatsächlich auftritt.",
-      "anchor": "Die Straße ist der empfohlene Weg, das Moor die Gefahrenzone.",
       "interest": "Verbindet eine frühe Warnung mit der anschließenden Wegentscheidung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Straße ist der empfohlene Weg, das Moor die Gefahrenzone."
     },
     {
       "code": "M1",
@@ -78,12 +78,12 @@
       ],
       "short": "Jack bleibt gebunden, solange die Werwolf-Blutlinie weiterbesteht.",
       "context": "Jack Goodman (Griffin Dunne) erscheint David Kessler (David Naughton) nach dem tödlichen Angriff als Untoter. Er erklärt, dass die Opfer erst frei werden, wenn die Blutlinie des Werwolfs endet. Weil David den Angriff überlebt hat und gebissen wurde, besteht sie durch ihn weiter. Die Freundschaft erhält dadurch eine grausame Spannung: Jacks Bitte richtet sich gegen das Weiterleben des Menschen, dem er zuvor nahestand.",
-      "anchor": "Davids Überleben hält nach Jacks Erklärung die Blutlinie offen.",
       "interest": "Erfasst die filmische Regel hinter dem Untotenbesuch.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Davids Überleben hält nach Jacks Erklärung die Blutlinie offen."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "David erwacht nackt im Wolfsgehege.",
       "context": "David Kessler (David Naughton) verbringt die erste Verwandlung in der Wohnung von Alex Price (Jenny Agutter) und zieht danach als Tier durch London. Am Morgen findet er sich nackt im Wolfsgehege des Zoos wieder, ohne klare Erinnerung an seine Taten. Die Umgebung verbindet den wieder menschlichen Körper mit der Tierwelt. Zugleich entsteht eine komische Fluchtaufgabe, obwohl die vergangene Nacht tödliche Folgen hatte.",
-      "anchor": "Der Morgen führt den Menschen ausgerechnet ins Wolfsgehege.",
       "interest": "Verbindet den konkreten Ortswechsel mit Horror und schwarzem Humor.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Morgen führt den Menschen ausgerechnet ins Wolfsgehege."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "David versucht, seine eigene Verhaftung herbeizuführen.",
       "context": "David Kessler (David Naughton) erkennt nach den Nachrichten über die Todesfälle, dass er selbst eine Gefahr darstellt. Am Trafalgar Square verhält er sich deshalb provozierend, um verhaftet zu werden. Das Gefängnis soll ihm eine Grenze setzen, die er sich selbst nicht zuverlässig geben kann. Die ungewöhnliche Handlung folgt einer nachvollziehbaren Absicht: Er sucht äußere Kontrolle, bevor eine weitere Verwandlung andere Menschen bedroht.",
-      "anchor": "Die Provokation sucht eine Zelle als äußere Grenze.",
       "interest": "Erklärt die Absicht hinter einem sonst widersinnig wirkenden Auftreten.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Provokation sucht eine Zelle als äußere Grenze."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Die Verwandlung wird durch Make-up und mechanische Körperveränderungen sichtbar.",
       "context": "John Landis wollte die Verwandlung vor den Augen des Publikums geschehen lassen. AFI beschreibt dieses Konzept unter Verweis auf Universals Produktionsnotizen und Rick Bakers Make-up-Arbeit. Körperformen und sichtbare Veränderungen ersetzen für diesen Vorgang die übliche optische Überblendung. Daraus folgt nicht, dass der gesamte Film keinerlei optische Effekte enthält. Der Ansatz macht die Veränderung zu einem körperlichen Vorgang, statt sie nur durch einen Übergang zwischen zwei Bildern anzudeuten.",
-      "anchor": "Die Verwandlung verändert den sichtbaren Körper statt nur das Bild zu überblenden.",
       "interest": "Erschließt einen belegten Gestaltungsansatz ohne einen vorhandenen Preisabruf zu wiederholen.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Die Verwandlung verändert den sichtbaren Körper statt nur das Bild zu überblenden."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "American Werewolf erschien erstmals 1981.",
       "context": "John Landis schrieb den ersten Drehbuchentwurf 1969; der Film erschien 1981, zwölf Jahre später. AFI führt die frühe Entstehung unter Verweis auf einen zeitgenössischen Bericht von 1981 an. Der Abstand macht den langen Weg vom Konzept zum fertigen Werk greifbar. Dabei blieb die Verbindung aus Komik und Horror wesentlich. Das Entwurfsjahr ist jedoch keine frühere Veröffentlichung des Films, sondern sein belegter Entwicklungsvorlauf.",
-      "anchor": "Drehbuch 1969, Film 1981: zwölf Jahre.",
       "interest": "Verbindet Erstjahr und konkret datierte Entwicklung.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Drehbuch 1969, Film 1981: zwölf Jahre."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "John Landis schrieb und inszenierte den Film.",
       "context": "John Landis ist als Regisseur und Drehbuchautor geführt. Seine Geschichte verbindet die Bedrohung des eigenen Körpers mit makabren Gesprächen und alltäglichen Schwierigkeiten. Rick Bakers Spezial-Make-up ist dafür ein wichtiger Herstellungsbeitrag, aber kein zusätzlicher Regiecredit. Ebenso ist George Folsey Jr. als Produzent vom Hauptregisseur zu unterscheiden. Die Zuordnung folgt dem konkreten Originalfilm mit David Naughton und nicht anderen Werwolfproduktionen derselben Zeit.",
-      "anchor": "Landis schreibt und inszeniert; Baker gestaltet die Spezial-Make-up-Effekte.",
       "interest": "Ordnet den Hauptcredit neben den besonders prägenden Effekten ein.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Landis schreibt und inszeniert; Baker gestaltet die Spezial-Make-up-Effekte."
     }
   ],
   "rank": 8

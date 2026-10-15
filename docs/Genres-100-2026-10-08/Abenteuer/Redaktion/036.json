@@ -34,12 +34,12 @@
       ],
       "short": "Die Flucht beginnt in einem sibirischen Gulag.",
       "context": "Janusz (Jim Sturgess) wurde aufgrund einer unter Folter erzwungenen Aussage seiner Frau verurteilt. Im Lager schließt er sich mit anderen Gefangenen zusammen. Ein Schneesturm hilft beim Ausbruch, weil er die Spuren verdeckt. Hinter dem Stacheldraht endet jedoch nur die erste Gefahr: Ohne Nahrung und Ausrüstung wird die weite Landschaft selbst zur Bedrohung.",
-      "anchor": "Das Lager liegt hinter ihnen, Sibirien noch vor ihnen.",
       "interest": "Die Ausgangslage macht das Überleben nach der Flucht verständlich.",
       "sources": [
         "handlung",
         "bfi"
-      ]
+      ],
+      "objective": "Das Lager liegt hinter ihnen, Sibirien noch vor ihnen."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Die Reise führt die Überlebenden bis nach Britisch-Indien.",
       "context": "Anfangs erscheint die Mongolei als erreichbarer Ausweg. Dort bemerken die Flüchtenden jedoch ebenfalls die kommunistische Herrschaft. Janusz (Jim Sturgess) und seine Begleiter müssen den Fluchtplan ändern. Die Fortsetzung über Wüste und Himalaya macht aus dem Ausbruch einen langen Marsch; erst in Indien liegt das Ziel außerhalb des Machtbereichs, dem sie entkommen wollen.",
-      "anchor": "Die erste Grenze reicht noch nicht zur Freiheit.",
       "interest": "Das Reiseziel erschließt, warum der Weg nach der Mongolei weitergeht.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die erste Grenze reicht noch nicht zur Freiheit."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Valka flieht aus dem Lager, aber nicht aus seiner Heimatbindung.",
       "context": "Valka (Colin Farrell) ist ein gewalttätiger Krimineller und verehrt Stalin. Er kann gegen die Lagerordnung handeln, ohne deshalb das ganze Land abzulehnen. An der Grenze kommt dieser Widerspruch zum Vorschein. Die anderen setzen ihren Weg fort, während er zurückbleibt. Gemeinsame Flucht bedeutet somit keineswegs, dass alle dasselbe unter Freiheit verstehen.",
-      "anchor": "Valka will aus dem Lager, aber nicht aus dem Land.",
       "interest": "Die Entscheidung unterscheidet persönliche Fluchtmotive statt nur Reiseetappen abzufragen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Valka will aus dem Lager, aber nicht aus dem Land."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Irenas kommunistische Eltern wurden getötet; sie lebte danach im Waisenhaus.",
       "context": "Irena (Saoirse Ronan) erzählt zunächst eine Geschichte über sowjetische Soldaten und einen Aufenthalt auf einem Bauernkollektiv bei Warschau. Mr. Smith (Ed Harris) bemerkt einen Widerspruch zur Besatzung der Stadt. Daraufhin erklärt sie, dass ihre kommunistischen Eltern getötet wurden und sie als Waise aufwuchs. Er erkennt ihre Lüge, begegnet der allein reisenden Jugendlichen aber dennoch mit Fürsorge.",
-      "anchor": "Hinter Irenas erfundener Fluchtgeschichte steht die wirkliche Einsamkeit einer Waise.",
       "interest": "Die korrigierte Vorgeschichte erklärt ihre Schutzbedürftigkeit ohne einen Widerspruch als Lösungshinweis auszunutzen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Hinter Irenas erfundener Fluchtgeschichte steht die wirkliche Einsamkeit einer Waise."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Smith nimmt in Tibet eine eigene Route zur Ausreise.",
       "context": "Nachdem ein tibetisches Kloster der erschöpften Gruppe Erholung ermöglicht, eröffnet sich Mr. Smith (Ed Harris) eine andere Chance. Ein Kontakt soll ihn von Lhasa aus über China zu amerikanischen Stellen bringen. Janusz (Jim Sturgess) zieht mit zwei Begleitern weiter. Das Ende der gemeinsamen Wanderung bedeutet deshalb nicht für jeden Überlebenden dasselbe Ziel oder denselben Heimweg.",
-      "anchor": "Eine gemeinsame Rettung kann verschiedene Heimwege haben.",
       "interest": "Der Abzweig erklärt das unterschiedliche Schicksal der Überlebenden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Eine gemeinsame Rettung kann verschiedene Heimwege haben."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Janusz kehrt nach dem politischen Umbruch von 1989 nach Polen zurück.",
       "context": "Janusz (Jim Sturgess) hat die Naturgefahren überstanden, doch die Trennung von seiner Frau dauert noch Jahrzehnte. Der Film schließt mit seiner Rückkehr nach dem Ende der kommunistischen Herrschaft in Polen. Jetzt erreicht er endlich den zuvor nur vorgestellten Schlüssel am Haus. Die persönliche Versöhnung wird dadurch mit einer historischen Veränderung verbunden, die der Fußmarsch allein nicht herbeiführen konnte.",
-      "anchor": "Der Marsch rettet ihn; der Umbruch ermöglicht die Heimkehr.",
       "interest": "Das Finale verbindet das körperliche Überleben mit einem viel längeren politischen Exil.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Marsch rettet ihn; der Umbruch ermöglicht die Heimkehr."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Die erste Veröffentlichung erfolgte 2010.",
       "context": "2010 blickt Peter Weir auf einen Fluchtbeginn im Zweiten Weltkrieg zurück. Die BFI-Anmerkungen setzen den Lagerausbruch 1940 an: Zwischen Handlungsbeginn und Filmjahr liegen rund siebzig Jahre. So bleiben die historische Zeit der Figuren und der Zeitpunkt der Verfilmung unterscheidbar. Die spätere Heimkehr verlängert die erzählte Lebensgeschichte weit über die eigentliche Wanderung hinaus.",
-      "anchor": "2010: ein Film siebzig Jahre nach seinem Fluchtbeginn.",
       "interest": "Der historische Abstand liefert einen individuellen zeitlichen Anker.",
       "sources": [
         "handlung",
         "bfi"
-      ]
+      ],
+      "objective": "2010: ein Film siebzig Jahre nach seinem Fluchtbeginn."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Peter Weir führte Regie.",
       "context": "Peter Weir setzt die Figuren einer Reise aus, bei der jede Entscheidung Folgen für die anderen hat. Seine in den BFI-Anmerkungen erläuterte Absicht richtet sich auf gegenseitige Abhängigkeit: Im Lager schützt Selbstbehauptung, unterwegs wird Vertrauen lebenswichtig. Der Regiecredit verbindet deshalb ein großes Landschaftsabenteuer mit der Beobachtung menschlichen Verhaltens unter extremer Belastung.",
-      "anchor": "Weirs Fluchtgeschichte prüft, wer sich auf wen verlassen kann.",
       "interest": "Der Credit erhält einen belegten Bezug zur Arbeitsabsicht des Regisseurs.",
       "sources": [
         "bfi"
-      ]
+      ],
+      "objective": "Weirs Fluchtgeschichte prüft, wer sich auf wen verlassen kann."
     }
   ]
 }

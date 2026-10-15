@@ -30,11 +30,11 @@
       ],
       "short": "Die geheime Heldenrolle wird vor Joaquín verborgen.",
       "context": "Alejandro (Antonio Banderas) kämpft weiter als Zorro, obwohl seine Familie die Folgen trägt. Joaquín (Adrián Alonso) weiß zunächst nichts von der zweiten Identität seines Vaters. Die Gefahr für die Familie entsteht daher nicht nur durch Gegner, sondern auch durch das Verbergen einer zentralen Wahrheit.",
-      "anchor": "Zorros Sohn kennt Zorro im Vater nicht.",
       "interest": "Die Familienbeziehung erklärt den besonderen Konflikt der Fortsetzung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Zorros Sohn kennt Zorro im Vater nicht."
     },
     {
       "code": "L2",
@@ -53,11 +53,11 @@
       ],
       "short": "Der Film spielt vor Kaliforniens Aufnahme als US-Bundesstaat.",
       "context": "Zorro (Antonio Banderas) schützt bereits am Anfang die Stimmzettel einer Abstimmung. Die Handlung setzt das Familienabenteuer in die Zeit vor Kaliforniens US-Beitritt. Diese Übergangslage erklärt zugleich, warum fremde Interessen versuchen, den politischen Wechsel gewaltsam zu beeinflussen.",
-      "anchor": "Kaliforniens Beitritt steht auf dem Spiel.",
       "interest": "Der historische Handlungsrahmen wird mit der Auftaktszene verbunden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Kaliforniens Beitritt steht auf dem Spiel."
     },
     {
       "code": "M1",
@@ -76,11 +76,11 @@
       ],
       "short": "Die Agenten zwingen sie zur verdeckten Ermittlung.",
       "context": "Die Trennung erscheint Alejandro (Antonio Banderas) zunächst als persönlicher Bruch. Elena (Catherine Zeta-Jones) wird jedoch mit dem Wissen um seine Identität erpresst. Sie soll Armand (Rufus Sewell) ausforschen; ihr Verhalten hat einen verborgenen Auftrag, den ihr Mann noch nicht kennt.",
-      "anchor": "Elenas Trennung verbirgt einen erzwungenen Auftrag.",
       "interest": "Der scheinbare Beziehungsbruch wird durch neue Informationen umgedeutet.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Elenas Trennung verbirgt einen erzwungenen Auftrag."
     },
     {
       "code": "M2",
@@ -99,11 +99,11 @@
       ],
       "short": "Die Seifenladung enthält Glycerin für Sprengstoff.",
       "context": "Alejandro (Antonio Banderas) entdeckt zunächst eine scheinbar harmlose Seifenladung. Die Verbindung zu Armands (Rufus Sewell) Organisation verändert ihre Bedeutung: Glycerin kann zur Herstellung des im Film eingesetzten Nitroglycerins dienen. Das Alltagsprodukt verschleiert damit eine militärisch gedachte Lieferung.",
-      "anchor": "Harmlose Seife verbirgt die Sprengstofflieferung.",
       "interest": "Die Entdeckung macht einen getarnten Gegenstand verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Harmlose Seife verbirgt die Sprengstofflieferung."
     },
     {
       "code": "S1",
@@ -122,11 +122,11 @@
       ],
       "short": "Das Kreuz schützt ihn vor der tödlichen Wirkung.",
       "context": "McGivens (Nick Chinlund) schießt auf Padre Felipe (Julio Oscar Mechoso). Der Priester überlebt, weil sein Kreuz die Kugel aufhält. Sein späteres Eingreifen löst deshalb eine zuvor scheinbar abgeschlossene Bedrohung auf und ermöglicht Alejandro (Antonio Banderas) die Flucht.",
-      "anchor": "Felipes Kreuz ermöglicht seine Rückkehr als Helfer.",
       "interest": "Die Rückkehr wird durch einen vorher getragenen Gegenstand erklärt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Felipes Kreuz ermöglicht seine Rückkehr als Helfer."
     },
     {
       "code": "S2",
@@ -145,11 +145,11 @@
       ],
       "short": "Er lenkt den Zug von der Zeremonie weg.",
       "context": "Der Zug steuert mit seiner gefährlichen Ladung auf die politische Feier zu. Joaquín (Adrián Alonso) übernimmt selbst eine aktive Rolle und nutzt Tornado. Das Familiengeheimnis führt so nicht bloß zu einer Enthüllung: Der Sohn trägt konkret zum Gelingen der Rettung bei.",
-      "anchor": "Zorros Sohn lenkt die Gefahr von der Feier weg.",
       "interest": "Der Junge wird als handelnder Teil der Rettung verstanden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Zorros Sohn lenkt die Gefahr von der Feier weg."
     },
     {
       "code": "Y",
@@ -168,11 +168,11 @@
       ],
       "short": "Die Fortsetzung erschien 2005.",
       "context": "2005 kehren Banderas und Zeta-Jones nach ihrem gemeinsamen Zorro-Film von 1998 zurück. Das Familienabenteuer liegt damit sieben Jahre nach dem ersten Teil. Amblin beschreibt ausdrücklich diese Fortsetzung und identifiziert den erneuten Einsatz derselben beiden Hauptdarsteller.",
-      "anchor": "1998 die Maske – 2005 die Legende.",
       "interest": "Die belegte Fortsetzungsfolge verankert das Jahr.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "1998 die Maske – 2005 die Legende."
     },
     {
       "code": "D",
@@ -191,11 +191,11 @@
       ],
       "short": "Martin Campbell kehrte auch als Regisseur zurück.",
       "context": "Martin Campbell führt das gemeinsame Abenteuer von Banderas und Zeta-Jones weiter. Amblin nennt die erneute Zusammenarbeit ausdrücklich. Neben der Besetzung bleibt damit auch die Regie ein verbindendes Element der beiden Filme, während sich der Schwerpunkt zur Familie verschiebt.",
-      "anchor": "Campbell führt das Zorro-Paar weiter.",
       "interest": "Die Regiefrage erschließt die Kontinuität der Fortsetzung.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "Campbell führt das Zorro-Paar weiter."
     }
   ]
 }

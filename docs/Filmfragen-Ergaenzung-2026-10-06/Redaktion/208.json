@@ -36,12 +36,12 @@
       ],
       "short": "Frady ist investigativer Reporter.",
       "context": "Frady ist investigativer Reporter. Eine frühere Bekannte warnt ihn vor Todesfällen unter Zeugen eines Attentats; ihre zunächst abgewiesene Bitte führt ihn nach ihrem Tod selbst in die Recherche.",
-      "anchor": "Die abgewiesene Warnung wird zum eigenen Rechercheauftrag.",
       "interest": "Die abgewiesene Warnung wird zum eigenen Rechercheauftrag.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die abgewiesene Warnung wird zum eigenen Rechercheauftrag."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Lee Carter erkennt die Betroffenen als Zeugen eines Senatorenattentats.",
       "context": "Lee Carter erkennt die Betroffenen als Zeugen eines Senatorenattentats. Die amtliche Einzeltätererklärung wirkt dadurch fragwürdig; ihre Angst bezieht sich auf eine systematische Beseitigung möglicher Gegenaussagen.",
-      "anchor": "Die Zeugenliste wird zur Todesliste.",
       "interest": "Die Zeugenliste wird zur Todesliste.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Zeugenliste wird zur Todesliste."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Der Test sucht nach zu Gewalt bereiten Persönlichkeiten.",
       "context": "Der Test sucht nach zu Gewalt bereiten Persönlichkeiten. Frady (Warren Beatty) lässt passende Antworten ermitteln, um die Organisation zu betreten; seine scheinbare Qualifikation dient der verdeckten Recherche.",
-      "anchor": "Der Einstellungstest sucht potenzielle Täter.",
       "interest": "Der Einstellungstest sucht potenzielle Täter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Einstellungstest sucht potenzielle Täter."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Frady überlebt die Explosion und gilt zunächst als tot.",
       "context": "Frady überlebt die Explosion und gilt zunächst als tot. Er benutzt diese Annahme und einen neuen Namen zur Infiltration; die Bedrohung liefert ihm zugleich einen kurzzeitigen Schutz vor der üblichen Identifizierung.",
-      "anchor": "Der vermutete Tod ermöglicht eine verdeckte neue Identität.",
       "interest": "Der vermutete Tod ermöglicht eine verdeckte neue Identität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der vermutete Tod ermöglicht eine verdeckte neue Identität."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Frady (Warren Beatty) betrachtet eine psychologisch manipulative Bildmontage.",
       "context": "Frady (Warren Beatty) betrachtet eine psychologisch manipulative Bildmontage. Vertraute politische und persönliche Motive werden mit Gewalt verbunden; das Auswahlverfahren untersucht nicht sachliche Kenntnis, sondern lenkbare emotionale Reaktionen.",
-      "anchor": "Die Montage prüft und formt Reaktionen statt Wissen.",
       "interest": "Die Montage prüft und formt Reaktionen statt Wissen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Montage prüft und formt Reaktionen statt Wissen."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Untersuchung erklärt Frady zum paranoiden Einzeltäter.",
       "context": "Die Untersuchung erklärt Frady zum paranoiden Einzeltäter. Seine Recherche hat ihn an den Ort der geplanten Schuldzuweisung geführt; die Organisation kontrolliert damit nicht nur den Mord, sondern auch dessen amtliche Nachgeschichte.",
-      "anchor": "Die Verschwörung macht den Ermittler zu ihrer offiziellen Täterfigur.",
       "interest": "Die Verschwörung macht den Ermittler zu ihrer offiziellen Täterfigur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Verschwörung macht den Ermittler zu ihrer offiziellen Täterfigur."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1974 erschien der Film, vier Jahre nach Loren Singers Roman von 1970.",
       "context": "1974 erschien der Film, vier Jahre nach Loren Singers Roman von 1970. Im selben Filmjahr erschien auch „Chinatown“: Beide fragen, wie viel ein einzelner Ermittler gegen organisierte Macht ausrichten kann. Die Parallelität ist eine zeitliche und thematische Merkhilfe.",
-      "anchor": "Roman 1970, Film 1974: Vier Jahre später trifft Pakulas Verschwörung auf das gleiche Filmjahr wie Chinatown.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1970, Film 1974: Vier Jahre später trifft Pakulas Verschwörung auf das gleiche Filmjahr wie Chinatown."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Alan J.",
       "context": "Alan J. Pakula inszenierte Warren Beatty als Reporter Joe Frady. Gordon Willis’ Kamera setzt ihn häufig in weitläufige institutionelle Räume. Die Recherche verspricht zunächst Erkenntnis, führt aber in eine Organisation, die bereits die öffentliche Erklärung ihrer Taten kontrolliert.",
-      "anchor": "Alan J.",
       "interest": "Alan J.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Alan J."
     }
   ]
 }

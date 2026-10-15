@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Sing möchte zeigen, wie nützlich Shaolin-Kung-Fu sein kann.",
       "context": "Er findet für seine Fähigkeiten zunächst kaum Schüler und holt seine früheren Shaolin-Brüder in eine Fußballmannschaft. Ihre Kampftechniken werden zu übermenschlichen Sportaktionen. Das Projekt soll damit über einen einzelnen Turniersieg hinaus demonstrieren, dass die alte Disziplin auch in der Gegenwart Verwendung finden kann.",
-      "anchor": "Sings Fußballteam wirbt für Shaolin-Kung-Fu.",
       "interest": "Der persönliche Wunsch hinter dem fantastischen Sportprojekt.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-F240-20261006-136-L1",
       "variant_of": "F240-20261006-136-L1",
-      "knowledge_note": "Personenbezogene Variante des vorhandenen Ziels zu Sings Zweck der Mannschaftsgründung."
+      "knowledge_note": "Personenbezogene Variante des vorhandenen Ziels zu Sings Zweck der Mannschaftsgründung.",
+      "objective": "Sings Fußballteam wirbt für Shaolin-Kung-Fu."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 1,
       "short": "Sing möchte in die gefürchtete Axe Gang aufgenommen werden.",
       "context": "Er versucht, sich in einem armen Wohnviertel als Gangster auszugeben. Dort leben jedoch Menschen, deren Kampffähigkeiten er gewaltig unterschätzt. Seine Suche nach Anerkennung setzt einen Konflikt in Gang, der ihn schließlich zur Entscheidung zwischen Gewalt gegen Schwächere und ihrem Schutz führt.",
-      "anchor": "Sing will zunächst zur Axe Gang gehören.",
       "interest": "Die verbrecherische Wunschkarriere vor dem Wandel des Helden.",
       "feedback": [
         "",
@@ -64,7 +63,8 @@
       ],
       "knowledge_id": "K-ASI-202610-P01-L-008",
       "variant_of": "ASI-202610-P01-L-008",
-      "knowledge_note": "Personenbezogene Variante der bestehenden Frage nach der Gang; Sing möchte gerade dieser Organisation beitreten."
+      "knowledge_note": "Personenbezogene Variante der bestehenden Frage nach der Gang; Sing möchte gerade dieser Organisation beitreten.",
+      "objective": "Sing will zunächst zur Axe Gang gehören."
     },
     {
       "code": "M1",
@@ -78,7 +78,6 @@
       "correct": 3,
       "short": "Er studiert Stanislawski und spricht mit anderen über dessen Schauspielarbeit.",
       "context": "Die Figur nimmt ihren Beruf ernst, obwohl sie am Rand der Filmproduktion steht. Sie liest ein Schauspielbuch und versucht, ihr Wissen auch Menschen außerhalb des Studios zu vermitteln. Die Komik entsteht so aus dem Abstand zwischen ihrem großen künstlerischen Anspruch und der Behandlung als unbedeutender Komparse.",
-      "anchor": "Der Komparse hält sich an Stanislawski.",
       "interest": "Komödie über den Anspruch und den Alltag der Schauspielarbeit.",
       "feedback": [
         "",
@@ -91,7 +90,8 @@
       ],
       "extraSources": [
         "https://www.bjiff.com/Service/Sercive/202402/t20240204_171943_ext.html"
-      ]
+      ],
+      "objective": "Der Komparse hält sich an Stanislawski."
     },
     {
       "code": "M2",
@@ -105,7 +105,6 @@
       "correct": 1,
       "short": "Er kann sich teure Spielsachen nicht leisten und hält die Kugel für ein Geschenk für seinen Sohn.",
       "context": "Der Vater arbeitet auf dem Bau, um Dicky den Besuch einer teuren Schule zu ermöglichen. Dort fällt der Junge durch seine abgetragenen Sachen auf. Der Fund vom Schrottplatz entpuppt sich als seltsames Wesen mit besonderen Kräften und verschiebt die familiäre Geschichte ins Fantastische.",
-      "anchor": "Das vermeintliche Spielzeug wird zum außerirdischen Begleiter.",
       "interest": "Soziale Ausgangslage und fantastischer Auslöser greifen ineinander.",
       "feedback": [
         "",
@@ -118,7 +117,8 @@
       ],
       "extraSources": [
         "https://www.sonyclassics.com/cj7/externalLoads/cj7_presskit.pdf"
-      ]
+      ],
+      "objective": "Das vermeintliche Spielzeug wird zum außerirdischen Begleiter."
     },
     {
       "code": "S1",
@@ -132,7 +132,6 @@
       "correct": 0,
       "short": "„Mo lei tau“ bezeichnet eine bewusst unsinnige, sprunghafte Form der Komik.",
       "context": "Das Hong Kong Film Archive beschreibt die Unberechenbarkeit von Chow und seinem häufigen Partner Ng Man-tat als Kern ihres Zusammenspiels. Die Figuren reagieren mit übertriebenen Bewegungen und Reden, deren Richtung plötzlich wechselt. Eine Szene kann ihr komisches Ziel erreichen, indem sie die erwartete Gesprächslogik unterläuft.",
-      "anchor": "Mo lei tau lässt die Gesprächslogik stolpern.",
       "interest": "Eine prägende lokale Komödientradition kennenlernen.",
       "feedback": [
         "",
@@ -144,7 +143,8 @@
       "extraSources": [
         "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2018-5-2.html",
         "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf"
-      ]
+      ],
+      "objective": "Mo lei tau lässt die Gesprächslogik stolpern."
     },
     {
       "code": "S2",
@@ -158,7 +158,6 @@
       "correct": 3,
       "short": "Dicky wird von Xu Jiao gespielt.",
       "context": "Die Produktion suchte über viele Monate nach einem Kind, das Dickys Persönlichkeit und komische Begabung überzeugend verkörpern konnte. Laut den Produktionsunterlagen wurden fast 10.000 Kinder angesehen. Schließlich überzeugte ein Mädchen die Verantwortlichen für die Jungenrolle; „CJ7“ wurde Xu Jiaos Filmdebüt.",
-      "anchor": "Chows Filmsohn wird von Xu Jiao gespielt.",
       "interest": "Ungewöhnliche Besetzung nach einer umfangreichen Kindersuche.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       ],
       "extraSources": [
         "https://www.sonyclassics.com/cj7/externalLoads/cj7_presskit.pdf"
-      ]
+      ],
+      "objective": "Chows Filmsohn wird von Xu Jiao gespielt."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 2,
       "short": "Er moderierte die Kindersendung „430 Space Shuttle“.",
       "context": "Nach seiner TVB-Ausbildung wechselte Chow zunächst in die Arbeit mit einem jungen Publikum. Später kehrte er in die Fernsehspielabteilung zurück. In den Produktionsunterlagen zu „CJ7“ verwies er auf diese frühe Erfahrung mit Kindern, als er über die Suche nach seiner jungen Hauptbesetzung sprach.",
-      "anchor": "Vor den Kinokomödien moderierte Chow für Kinder.",
       "interest": "Frühe Fernseherfahrung und spätere Arbeit mit Nachwuchsdarstellern.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       "extraSources": [
         "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf",
         "https://www.sonyclassics.com/cj7/externalLoads/cj7_presskit.pdf"
-      ]
+      ],
+      "objective": "Vor den Kinokomödien moderierte Chow für Kinder."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 0,
       "short": "Stephen Chow und Lee Lik-chee führten gemeinsam Regie.",
       "context": "Das Hong Kong Film Archive führt den Film von 1994 als Chows Regiedebüt und nennt auch seine Mitarbeit am Drehbuch. Die Zusammenarbeit ging später mit weiteren Komödien weiter. Die gemeinsame Regie gehört damit zu seinem Weg vom populären Darsteller zum Filmemacher mit mehreren Arbeitsfunktionen.",
-      "anchor": "Chows frühe Regiearbeit entstand mit Lee Lik-chee.",
       "interest": "Gemeinsame Credits beim Übergang hinter die Kamera.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       ],
       "extraSources": [
         "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Stephen-CHOW_e.pdf"
-      ]
+      ],
+      "objective": "Chows frühe Regiearbeit entstand mit Lee Lik-chee."
     }
   ]
 }

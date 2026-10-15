@@ -32,13 +32,13 @@
       ],
       "short": "Tim kauft auf dem Markt ein Modell der Einhorn.",
       "context": "Tim (Jamie Bell) entdeckt zunächst nur ein schönes Sammlerstück. Dass andere es sofort erwerben wollen, weckt seinen Verdacht. Das Modell verbindet den alltäglichen Marktbummel mit einer viel älteren Schiffsgeschichte.",
-      "anchor": "Die Schatzsuche beginnt mit einem Schiffsmodell vom Markt.",
       "interest": "Der Auslöser führt verständlich in das Abenteuer ein.",
       "sources": [
         "handlung",
         "weta"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Schatzsuche beginnt mit einem Schiffsmodell vom Markt."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Tim ist Reporter.",
       "context": "Die Neugier des Reporters macht aus widersprüchlichen Beobachtungen eine Untersuchung. Kapitän Haddock (Andy Serkis) bringt dagegen eine persönliche Verbindung zur alten Schiffsgeschichte ein. Beide Zugänge helfen der Suche.",
-      "anchor": "Tim untersucht als Reporter, Haddock kennt die Familiengeschichte.",
       "interest": "Der Beruf erklärt die Rolle der Hauptfigur in der Ermittlung.",
       "sources": [
         "weta",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tim untersucht als Reporter, Haddock kennt die Familiengeschichte."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Die Pergamente müssen übereinandergelegt werden.",
       "context": "Jedes Modell der Einhorn enthält nur einen Teil des Hinweises. Das Zusammenlegen verlangt, die getrennten Funde als zusammengehörig zu erkennen. Ein einzelnes Blatt führt deshalb noch nicht zur gesuchten Position.",
-      "anchor": "Drei getrennte Hinweise ergeben gemeinsam die Koordinaten.",
       "interest": "Die Lösung verbindet Sammeln und räumliches Lesen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Drei getrennte Hinweise ergeben gemeinsam die Koordinaten."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Der hohe Ton der Sängerin bringt das Glas zum Zerbrechen.",
       "context": "Bei dem Konzert wird die Sängerin Bianca Castafiore (Sprechstimme Kim Stengel, Gesang Renée Fleming) Teil eines Diebstahlplans. Sakharin (Daniel Craig) nutzt den zerbrochenen Schutz, um an das dritte Modell zu gelangen.",
-      "anchor": "Castafiores Gesang öffnet den gläsernen Schutz des dritten Modells.",
       "interest": "Die Szene verbindet eine Comicfigur und ihre Stimme unmittelbar mit der Handlung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Castafiores Gesang öffnet den gläsernen Schutz des dritten Modells."
     },
     {
       "code": "S1",
@@ -130,13 +130,13 @@
       ],
       "short": "Es handelt sich um einen vollständig computeranimierten Film.",
       "context": "Wētā entwickelte aus Hergés zweidimensionalen Zeichnungen dreidimensionale Figuren. Aufgezeichnete Schauspielerleistungen halfen der Animation, machten das fertige Werk aber nicht zum Realfilm. Der Film war Wētās erster vollständig animierter Langfilm.",
-      "anchor": "Schauspieler spielen vor; Wētā gestaltet den vollständigen Animationsfilm.",
       "interest": "Die Unterscheidung erklärt die Verbindung zwischen Darstellung und Animation.",
       "sources": [
         "weta",
         "autodesk"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Schauspieler spielen vor; Wētā gestaltet den vollständigen Animationsfilm."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Das Drehbuch stammt von Steven Moffat, Edgar Wright und Joe Cornish.",
       "context": "Der Film verbindet Material aus mehreren Hergé-Alben zu einer durchgehenden Suche. Regie, Produktion und Drehbuch verteilen sich auf unterschiedliche Personen. Das Autorentrio erklärt, warum Spielbergs Film nicht allein als von ihm geschriebene Comicadaption einzuordnen ist.",
-      "anchor": "Moffat, Wright und Cornish verbinden die Comicstoffe im Drehbuch.",
       "interest": "Ein vollständiges Autorenteam wird von Regie und Produktion unterschieden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Moffat, Wright und Cornish verbinden die Comicstoffe im Drehbuch."
     },
     {
       "code": "Y",
@@ -179,14 +179,14 @@
       ],
       "short": "Die erste Veröffentlichung lag 2011.",
       "context": "Wētā hatte an der virtuellen Produktion von „Avatar“ gearbeitet. „Avatar“ erschien 2009, „Tim und Struppi“ folgte 2011 als vollständig animierter Film. Der Abstand von zwei Jahren verbindet zwei unterschiedliche Anwendungen verwandter Technik.",
-      "anchor": "2009 Avatar, 2011 Tim und Struppi: zwei Jahre, zwei Anwendungen virtueller Produktion.",
       "interest": "Ein konkreter technischer Filmbezug hilft bei der zeitlichen Einordnung.",
       "sources": [
         "handlung",
         "weta",
         "autodesk"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2009 Avatar, 2011 Tim und Struppi: zwei Jahre, zwei Anwendungen virtueller Produktion."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Steven Spielberg führte Regie.",
       "context": "Spielberg inszenierte die Darstellerleistungen innerhalb einer virtuellen Produktionsumgebung. Peter Jackson war Mitproduzent, und Wētā führte die Bildwelt aus. Diese Zusammenarbeit verteilt die Aufgaben zwischen Inszenierung, Produktion und Animation.",
-      "anchor": "Spielberg inszeniert; Jackson produziert mit; Wētā animiert.",
       "interest": "Die Rollen der bekannten Beteiligten werden sauber zugeordnet.",
       "sources": [
         "weta",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Spielberg inszeniert; Jackson produziert mit; Wētā animiert."
     }
   ]
 }

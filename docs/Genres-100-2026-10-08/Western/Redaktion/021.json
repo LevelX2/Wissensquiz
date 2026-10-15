@@ -32,12 +32,12 @@
       ],
       "short": "Der Goldrausch nimmt Andersen seine bisherigen Helfer.",
       "context": "Wil Andersen (John Wayne) muss seine Herde zum Verkauf treiben, verliert aber kurz vor dem Aufbruch seine erwachsenen Helfer an einen neuen Goldfund. Auch in der Stadt findet er kaum Ersatz. Seine wirtschaftliche Lage erlaubt keinen einfachen Aufschub. Der Personalmangel zwingt den erfahrenen Rancher deshalb, eine ungewöhnliche Mannschaft in Betracht zu ziehen und die Vorbereitung des Viehtriebs neu zu organisieren.",
-      "anchor": "Der Goldfund lässt die Ranch ohne erfahrene Helfer zurück.",
       "interest": "Das wirtschaftliche Ausgangsproblem eröffnet die besondere Mannschaftsgeschichte.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Der Goldfund lässt die Ranch ohne erfahrene Helfer zurück."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Nightlinger ist der Koch der Mannschaft.",
       "context": "Jebediah Nightlinger (Roscoe Lee Browne) vervollständigt Wil Andersens (John Wayne) Mannschaft als Koch. Sein Versorgungswagen hält die jungen Treiber unterwegs arbeitsfähig. Er ist zugleich der zweite erfahrene Erwachsene, an dem sie sich orientieren können. Der Film beschränkt seine Bedeutung daher nicht auf Mahlzeiten: Seine Gespräche mit Andersen und sein späteres Handeln begleiten die Entwicklung der Jungen während einer zunehmend gefährlichen Reise.",
-      "anchor": "Der Koch ist zugleich ein erfahrener erwachsener Begleiter.",
       "interest": "Die zentrale Arbeitsrolle ist von der späteren Schutz- und Führungsfunktion getrennt.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Der Koch ist zugleich ein erfahrener erwachsener Begleiter."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Cimarrons Rettungstat ermöglicht seine Rückkehr.",
       "context": "Wil Andersen (John Wayne) schickt Cimarron (A Martinez) nach einem Streit mit Slim (Robert Carradine) fort. Der junge Mann folgt dem Viehtrieb trotzdem. Als Slim bei einer Flussüberquerung ins Wasser fällt, rettet Cimarron ihn. Andersen erlaubt ihm daraufhin, sich der Mannschaft anzuschließen. Der Film stellt dem vorherigen aggressiven Auftreten eine konkrete verantwortungsvolle Tat gegenüber, durch die der Ausschluss aufgehoben wird.",
-      "anchor": "Der zuvor ausgeschlossene Cimarron rettet seinen früheren Gegner.",
       "interest": "Die Tat erklärt einen nachvollziehbaren Wechsel in der Mannschaft.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Der zuvor ausgeschlossene Cimarron rettet seinen früheren Gegner."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Der tote Arbeitgeber entlarvt Watts’ erfundene Berufserfahrung.",
       "context": "Asa Watts (Bruce Dern) bittet Wil Andersen (John Wayne) um Arbeit und behauptet eine Erfahrung, die einer Prüfung nicht standhält. Er nennt einen früheren Arbeitgeber, der längst verstorben ist. Andersen lehnt ihn wegen der Lüge ab. Der Streit beginnt also nicht allein mit Watts’ offengelegter Vergangenheit als Häftling. Die konkrete Täuschung verhindert das Vertrauen, auf das Andersen seine Mannschaft gründen will.",
-      "anchor": "Ein angeblich neuer Job bei einem längst Toten passt nicht zusammen.",
       "interest": "Der überprüfbare Widerspruch erklärt die verweigerte Einstellung.",
       "sources": [
         "afi",
         "handlung"
-      ]
+      ],
+      "objective": "Ein angeblich neuer Job bei einem längst Toten passt nicht zusammen."
     },
     {
       "code": "S1",
@@ -128,13 +128,13 @@
       ],
       "short": "Charlie stirbt beim Zurückholen von Dans Brille.",
       "context": "Dan (Nicolas Beauvy) ist nach einer Drohung von Asa Watts (Bruce Dern) verängstigt. Charlie Schwartz (Stephen Hudis) begleitet ihn bei der Wache. Als Dans Brille hinunterfällt, versucht Charlie, sie zurückzuholen, und wird von der Herde tödlich verletzt. Der Verlust entsteht aus einem Hilfsversuch unter den Jungen. Er verändert die Reise lange bevor der offene Angriff der Viehdiebe erfolgt.",
-      "anchor": "Eine kleine Hilfe endet unter der unruhigen Herde tödlich.",
       "interest": "Der Zusammenhang zwischen Fürsorge und Verlust ist ein bedeutsamer Handlungsschritt.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine kleine Hilfe endet unter der unruhigen Herde tödlich."
     },
     {
       "code": "S2",
@@ -153,13 +153,13 @@
       ],
       "short": "Die Jungen lassen Andersen als Vater würdigen.",
       "context": "Nach Wil Andersens (John Wayne) Tod bringen die Jungen die Herde zum Verkauf und kaufen einen Grabstein. Die Inschrift bezeichnet ihn als geliebten Ehemann und Vater. Jebediah Nightlinger (Roscoe Lee Browne) begleitet die Rückkehr zum ungefähren Grabort, dessen ursprüngliche Markierung nicht mehr zu finden ist. Das Denkmal macht die Beziehung sichtbar, die während des Viehtriebs über einen bloßen Arbeitsvertrag hinausgewachsen ist.",
-      "anchor": "Der gekaufte Grabstein hält Andersens Vaterrolle fest.",
       "interest": "Die Schlussgestaltung verbindet wirtschaftlichen Abschluss und persönliche Bindung.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der gekaufte Grabstein hält Andersens Vaterrolle fest."
     },
     {
       "code": "Y",
@@ -178,11 +178,11 @@
       ],
       "short": "1971 Jennings’ Roman, 1972 seine Verfilmung: ein Jahr.",
       "context": "William Dale Jennings veröffentlichte den Roman „The Cowboys“ 1971. Die Verfilmung erschien 1972, ein Jahr später. Jennings war außerdem am Drehbuch beteiligt, gemeinsam mit Irving Ravetch und Harriet Frank Jr. AFI dokumentiert sowohl die literarische Veröffentlichung als auch den früheren New Yorker Filmstart im Januar. Der Werkvergleich verknüpft die Geschichte der ungewöhnlichen jungen Treibermannschaft mit zwei konkret belegten Veröffentlichungsjahren.",
-      "anchor": "Vom Roman 1971 zum Film 1972 vergeht ein Jahr.",
       "interest": "Die literarische Vorlage ist ein enger und belegter Zeitanker.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Vom Roman 1971 zum Film 1972 vergeht ein Jahr."
     },
     {
       "code": "D",
@@ -201,11 +201,11 @@
       ],
       "short": "Mark Rydell führte Hauptregie.",
       "context": "Mark Rydell inszenierte und produzierte die Verfilmung des Romans von William Dale Jennings. John Wayne spielt den Rancher Wil Andersen, Roscoe Lee Browne den Koch Jebediah Nightlinger. AFI führt Buzz Henry gesondert als Regisseur der zweiten Einheit auf. Die Aufteilung der Dreharbeit ergibt deshalb kein gemeinsames Hauptregieteam. Auch die spätere Fernsehserie ist von diesem veröffentlichten Kinofilm und seinen Credits zu trennen.",
-      "anchor": "Rydell führt Hauptregie, Henry die zweite Einheit.",
       "interest": "Die Hauptcredits werden von zusätzlicher Dreharbeit und Fernsehadaption abgegrenzt.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Rydell führt Hauptregie, Henry die zweite Einheit."
     }
   ]
 }

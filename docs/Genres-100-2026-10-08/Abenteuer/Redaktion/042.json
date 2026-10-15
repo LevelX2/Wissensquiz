@@ -33,11 +33,11 @@
       ],
       "short": "Marcus möchte den Ruf seines Vaters wiederherstellen.",
       "context": "Marcus Aquila (Channing Tatum) beginnt seinen Dienst in Britannien unter dem Schatten einer verschwundenen Legion. Sein Vater gehörte zu deren Führung; die Niederlage belastet die Familie. Marcus’ spätere Suche ist deshalb kein bloßer militärischer Auftrag. Er setzt die eigene Sicherheit für eine Sache aufs Spiel, die für ihn zugleich öffentliche Anerkennung und eine persönliche Beziehung zum Vater bedeutet.",
-      "anchor": "Die Legion belastet auch den Namen Aquila.",
       "interest": "Die Suche erhält eine klare familiäre Motivation statt nur einen militärischen Zweck.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Legion belastet auch den Namen Aquila."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Sie ziehen nach Norden über den Hadrianswall hinaus.",
       "context": "Marcus (Channing Tatum) will den Gerüchten über das verlorene Feldzeichen folgen. Gemeinsam mit Esca (Jamie Bell) verlässt er die römisch kontrollierte Welt jenseits des Hadrianswalls. Dort gelten seine Befehlsgewalt und seine militärische Zugehörigkeit nicht als Schutz. Der Grenzübertritt markiert deshalb zugleich einen Wechsel der Machtverhältnisse, auf den sich Marcus erst unterwegs einstellen muss.",
-      "anchor": "Jenseits des Walls trägt Rom nicht mehr die Reise.",
       "interest": "Die räumliche Grenze erklärt den Wechsel der sozialen Regeln.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Jenseits des Walls trägt Rom nicht mehr die Reise."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Esca stellt Marcus als seinen Sklaven dar.",
       "context": "Esca (Jamie Bell) gehört zu den von Rom unterworfenen Menschen, kann aber im Norden seine eigene Herkunft nutzen. Vor den Seal People wird Marcus (Channing Tatum) zum vermeintlichen Sklaven. Die Umkehr ist eine Tarnung, lässt den Römer aber Abhängigkeit selbst erleben. Er muss Esca vertrauen, obwohl dessen Verhalten zunächst wie ein tatsächlicher Verrat an ihm aussieht.",
-      "anchor": "Die Tarnung macht den Herrn zum Sklaven.",
       "interest": "Der Zugang zum Gegner verbindet Täuschung mit einer spürbaren Umkehr der Beziehung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Tarnung macht den Herrn zum Sklaven."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Esca nutzt seine Freiheit, um Hilfe für Marcus zu holen.",
       "context": "Marcus (Channing Tatum) kann wegen seiner alten Verwundung kaum weiter. Er entlässt Esca (Jamie Bell) und will ihm ermöglichen, ohne ihn zu entkommen. Escas Rückkehr mit römischen Überlebenden lässt sich nun nicht mehr als Pflicht eines Sklaven erklären. Die Hilfe wird zu einer freiwilligen Entscheidung und macht sichtbar, dass aus dem erzwungenen Verhältnis eine Freundschaft geworden ist.",
-      "anchor": "Der freie Esca kommt aus eigener Entscheidung zurück.",
       "interest": "Der Zeitpunkt der Freilassung verändert die Bedeutung derselben Loyalität.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der freie Esca kommt aus eigener Entscheidung zurück."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Guern bezeugt den mutigen Tod von Marcus’ Vater.",
       "context": "Der Stammesführer hatte den Vater als einen Mann dargestellt, der um sein Leben bettelte. Guern (Mark Strong), ein Überlebender der Legion, berichtet Marcus (Channing Tatum) dagegen, dass er bis zuletzt gekämpft habe. Neben dem zurückgewonnenen Feldzeichen erhält Marcus damit ein menschliches Zeugnis. Die Reise kann den Vater nicht zurückbringen, aber die Vorstellung von dessen Ende verändern.",
-      "anchor": "Guerns Zeugnis ergänzt das gerettete Feldzeichen.",
       "interest": "Das Ende beantwortet die familiäre Suche durch einen Zeugen statt allein durch einen Gegenstand.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Guerns Zeugnis ergänzt das gerettete Feldzeichen."
     },
     {
       "code": "S2",
@@ -148,11 +148,11 @@
       ],
       "short": "Macdonald setzte die amerikanische Prägung der Römer als bewussten Gegenwartsbezug ein.",
       "context": "Kevin Macdonald erklärte, die Römer von Anfang an als Amerikaner gedacht zu haben. Marcus’ (Channing Tatum) Überzeugung von den Vorzügen Roms trifft auf Menschen mit eigenen Wertvorstellungen. Der Regisseur verband diese Konstellation ausdrücklich mit zeitgenössischen Fragen kultureller Vorherrschaft. Die Akzente sind daher nicht nur eine zufällige Folge der Besetzung, sondern Teil seiner Perspektive auf das historische Abenteuer.",
-      "anchor": "Amerikanische Römer: ein absichtlicher Blick auf Herrschaft.",
       "interest": "Eine hörbare Gestaltung wird mit dem erklärten politischen Konzept ihres Urhebers verbunden.",
       "sources": [
         "konzept"
-      ]
+      ],
+      "objective": "Amerikanische Römer: ein absichtlicher Blick auf Herrschaft."
     },
     {
       "code": "Y",
@@ -171,12 +171,12 @@
       ],
       "short": "Die erste Kinoveröffentlichung erfolgte 2011.",
       "context": "2011 kam das gemeinsame Abenteuer von Channing Tatum und Jamie Bell in die Kinos. Die Handlung spielt im römischen Britannien des Jahres 140; diese Jahreszahl gehört zur erzählten Welt und nicht zum Erscheinungsdatum. Focus Features nennt den US-Start am 11. Februar. Der Film blickt so aus dem frühen 21. Jahrhundert auf eine Reise jenseits der römischen Reichsgrenze.",
-      "anchor": "2011 im Kino – 140 in der Handlung.",
       "interest": "Der Zeitanker grenzt Filmjahr und ausdrücklich datierte Handlung voneinander ab.",
       "sources": [
         "studio",
         "handlung"
-      ]
+      ],
+      "objective": "2011 im Kino – 140 in der Handlung."
     },
     {
       "code": "D",
@@ -195,12 +195,12 @@
       ],
       "short": "Kevin Macdonald inszenierte den Film.",
       "context": "Kevin Macdonald führte die Adaption von Rosemary Sutcliffs Roman nach dem Drehbuch von Jeremy Brock. Die Reise stellt Marcus (Channing Tatum) und Esca (Jamie Bell) zunehmend aufeinander angewiesen dar. Der offizielle Focus-Credit trennt die Regie von Romanvorlage, Drehbuch und Duncan Kenworthys Produktion. Diese Leistungen wirken an demselben Film mit, sind aber unterschiedliche Aufgaben.",
-      "anchor": "Macdonald inszeniert die Reise von Marcus und Esca.",
       "interest": "Der Credit bleibt innerhalb einer literarischen Adaption eindeutig zugeordnet.",
       "sources": [
         "studio",
         "produktion"
-      ]
+      ],
+      "objective": "Macdonald inszeniert die Reise von Marcus und Esca."
     }
   ]
 }

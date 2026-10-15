@@ -19,7 +19,6 @@ In welchem Betrieb arbeitet Cheng Chao-an (Bruce Lee) nach seiner Ankunft in Tha
 
 Cheng Chao-an (Bruce Lee) zieht zu seinen Verwandten nach Thailand und arbeitet mit ihnen in einer Eisfabrik. Der neue Arbeitsplatz verspricht zunächst einen gewöhnlichen Lebensunterhalt. Als Arbeiter verschwinden, wird jedoch die scheinbar harmlose Produktion zum Zentrum der Bedrohung. Der Film führt seinen Helden damit über eine konkrete Arbeits- und Familiengemeinschaft in den Konflikt hinein, bevor er die kriminellen Geschäfte hinter dem Betrieb offenlegt.
 
-Merksatz: Ein gewöhnlicher Fabrikjob führt Cheng in die Gefahr.
 
 - In einer Reismühle: Reisverarbeitung ist nicht die Arbeit, die er aufnimmt.
 - In einer Eisfabrik: Cheng nimmt eine Arbeit in der Eisfabrik seiner Verwandten an.
@@ -41,7 +40,6 @@ Welches Versprechen gegenüber seiner Mutter verbindet Cheng Chao-an (Bruce Lee)
 
 Cheng Chao-an (Bruce Lee) bleibt zunächst zurück, obwohl er Gewalt gegen andere sieht und helfen möchte. Er hat seiner Mutter versprochen, nicht zu kämpfen, und trägt zur Erinnerung ein Jadeamulett. Seine Zurückhaltung entsteht aus einer persönlichen Verpflichtung. Als das Amulett während der Auseinandersetzung an der Fabrik zerbricht, fällt auch diese sichtbare Hemmung weg. Das Schmuckstück macht einen inneren Konflikt als konkreten Gegenstand verständlich.
 
-Merksatz: Das Jadeamulett erinnert an Chengs Versprechen.
 
 - Keinen Alkohol zu trinken: Ein Verzicht auf Alkohol ist nicht das damit verbundene Versprechen.
 - Kein Geld beim Glücksspiel einzusetzen: Das Amulett steht nicht für ein Glücksspielverbot.
@@ -63,7 +61,6 @@ Was wird in „Die Todesfaust des Cheng Li“ in den Eisblöcken des Betriebs ve
 
 Als ein Eisblock zerbricht, entdecken zwei Arbeiter einen Beutel mit weißem Pulver. Die Fabrik dient dem Drogenschmuggel; die Entdeckung gefährdet das Geheimnis des Betriebs. Die Männer werden beseitigt, nachdem sie eine Beteiligung ablehnen. Damit verbindet der Film das Verschwinden der Arbeiter mit der alltäglichen Ware, die sie selbst herstellen. Das Eis wird vom Arbeitsprodukt zum Versteck und später auch zum schrecklichen Beweismittel.
 
-Merksatz: In den Eisblöcken steckt die Schmuggelware.
 
 - Geschmuggelte Goldbarren: Goldbarren werden bei diesem Fund nicht entdeckt.
 - Gestohlene Schusswaffen: Die Eisblöcke enthalten bei der ersten Entdeckung keine Schusswaffen.
@@ -85,7 +82,6 @@ Warum macht der Fabrikmanager Cheng Chao-an (Bruce Lee) in „Die Todesfaust des
 
 Nach der Auseinandersetzung an der Fabrik wird Cheng Chao-an (Bruce Lee) zum Vorarbeiter befördert und zu einem Essen eingeladen. Die Leitung versucht dadurch, die aufgebrachte Gemeinschaft zu beruhigen und den erfolgreichen Kämpfer einzubinden. Die Verwandten hoffen zunächst auf Vorteile, während die Suche nach den Vermissten zurücktritt. Die neue Stellung bringt Cheng also Anerkennung, gefährdet aber zugleich das Vertrauen der Menschen, denen er helfen wollte.
 
-Merksatz: Die Beförderung ist eine Maßnahme zur Beschwichtigung.
 
 - Um den Aufruhr unter den Arbeitern zu beruhigen: Die Beförderung soll nach der Schlägerei die Spannungen entschärfen.
 - Um ihn für das Ergreifen eines Werkdiebs zu belohnen: Die Beförderung belohnt keine Festnahme eines Werkdiebs.
@@ -107,7 +103,6 @@ Welche Drohung führt dazu, dass Hsiao Mi (Han Ying-chieh) in „Die Todesfaust 
 
 Hsu Chien (James Tien) sucht im Haus von Hsiao Mi (Han Ying-chieh) nach Auskunft über die verschwundenen Verwandten. Er bezweifelt die Unwissenheit des Chefs und kündigt an, die Behörden einzuschalten. Darauf lässt der Chef seine Männer auf ihn los. Die Nachforschung endet somit ebenfalls im Verschwinden. Für die Arbeiter entsteht eine immer längere Kette vermisster Angehöriger, deren gemeinsamer Ursprung zunächst verborgen bleibt.
 
-Merksatz: Die Drohung mit den Behörden macht Hsu zur Gefahr für den Chef.
 
 - Hsu will eine rivalisierende Schmugglerbande informieren: Die Kontaktaufnahme zu einer Konkurrenzbande ist nicht der Auslöser.
 - Hsu will die Behörden einschalten: Hsu glaubt dem Chef nicht und droht mit den Behörden.
@@ -129,7 +124,6 @@ Was tut Cheng Chao-an (Bruce Lee) am Ende von „Die Todesfaust des Cheng Li“,
 
 Cheng Chao-an (Bruce Lee) hat Hsiao Mi (Han Ying-chieh) im letzten Kampf getötet. Die entführte Chow Mei (Maria Yi) wird zuvor aus ihrem Versteck befreit und holt die Polizei. Als Cheng erfährt, dass sie sicher ist, stellt er sich den eintreffenden Beamten. Der Schluss verbindet die erfolgreiche Rettung mit den Folgen seiner Gewalt: Der Sieger verschwindet nicht einfach ungestraft aus der Geschichte.
 
-Merksatz: Auf den Sieg folgt Chengs Übergabe an die Polizei.
 
 - Er flieht mit ihr über die Grenze: Er nutzt die Rettung nicht zu einer gemeinsamen Grenzflucht.
 - Er versteckt sich im Haus des Chefs: Er bleibt nicht verborgen im Haus.
@@ -151,7 +145,6 @@ In welchem Jahr wurde „Die Todesfaust des Cheng Li“ mit Bruce Lee erstmals v
 
 Die Todesfaust des Cheng Li erschien 1971 und machte Bruce Lee zum Star. Bereits 1972 folgte Fist of Fury, im Deutschen Todesgrüße aus Shanghai, also ein Jahr später. Criterion beschreibt diesen zweiten Film ausdrücklich als Nachfolger seines Durchbruchs. Der kurze Abstand zeigt, wie rasch die erfolgreiche erste Zusammenarbeit fortgesetzt wurde. Beide Jahreszahlen helfen, Lees frühe Hauptrollen voneinander zu trennen, deren amerikanische Filmtitel später häufig verwechselt wurden.
 
-Merksatz: 1971 Durchbruch, 1972 nächster Film: ein Jahr Abstand.
 
 - 1969: 1969 liegt vor der Veröffentlichung dieses Films.
 - 1972: 1972 folgte bereits Fist of Fury.
@@ -173,7 +166,6 @@ Wen führt Criterion bei „Die Todesfaust des Cheng Li“ mit Bruce Lee als Hau
 
 Criterion führt Lo Wei als Regisseur und Han Ying-chieh als Action-Regisseur. Wu Chia-hsiang war nach dem Produktionsbericht zunächst mit der Regie betraut, wurde jedoch früh ersetzt. Das erklärt den zusätzlichen Namen in manchen Zusammenstellungen, ohne daraus einen gemeinsamen Hauptregiecredit zu machen. Die Frage bezieht sich auf den ausdrücklich genannten Credit. Hauptregie, vorangegangene Produktionsbeteiligung und Kampfgestaltung werden dadurch klar voneinander getrennt.
 
-Merksatz: Hauptregiecredit Lo Wei; Wu Chia-hsiang wurde abgelöst.
 
 - Lo Wei: Criterion nennt Lo Wei im Director-Credit.
 - Wu Chia-hsiang: Wu war zunächst beteiligt, wurde aber abgelöst; Criterion nennt ihn hier nicht als Hauptregisseur.
@@ -199,7 +191,6 @@ Wen will Golden Swallow (Cheng Pei-pei) in „Das Schwert der gelben Tigerin“ 
 
 Golden Swallow (Cheng Pei-pei) ist die Tochter des Gouverneurs. Banditen halten ihren Bruder gefangen und verlangen die Freilassung ihres eigenen inhaftierten Anführers. Sie zieht aus, um ihn zu retten, und tritt zunächst in Männerkleidung auf. Die Familienbindung gibt der Mission einen persönlichen Grund, während die Erpressung zugleich die staatliche Ordnung trifft. Ihre Fähigkeiten werden früh sichtbar, als sie den Männern in einer Herberge entgegentritt.
 
-Merksatz: Eine Schwester übernimmt die Rettung ihres Bruders.
 
 - Ihren Vater: Ihr Vater ist nicht die festgehaltene Geisel.
 - Ihren Verlobten: Die Rettung gilt keinem Verlobten.
@@ -221,7 +212,6 @@ Als was tritt Fan Da-pei (Yueh Hua) in „Das Schwert der gelben Tigerin“ zun�
 
 Fan Da-pei (Yueh Hua), auch Drunken Cat genannt, scheint zunächst nur zu trinken und mit Kindern um Essen zu betteln. Tatsächlich hilft er Golden Swallow (Cheng Pei-pei) unauffällig und verfügt über große Kampffähigkeiten. Als sie ihn auf seine Hilfe anspricht, stellt er sich unwissend. Die unscheinbare Erscheinung erlaubt es ihm, Informationen und Unterstützung weiterzugeben, ohne seine Stellung in der Kampfkunstschule sofort erkennen zu lassen.
 
-Merksatz: Hinter dem Bettler steckt ein erfahrener Kampfkunstmeister.
 
 - Als wandernder Arzneihändler: Er verkauft nicht in dieser Tarnrolle Arzneien.
 - Als abgedankter Wachhauptmann: Ein Wachhauptmann ist nicht seine öffentliche Erscheinung.
@@ -243,7 +233,6 @@ Welchen Ort haben Jade-Faced Tiger (Chan Hung-lit) und seine Banditen in „Das 
 
 Der korrupte Abt Liao Kung (Yeung Chi-hing) unterstützt die Bande in seinem Kloster. Golden Swallow (Cheng Pei-pei) nähert sich der Anlage in der Verkleidung einer Gläubigen, wird aber erkannt und angegriffen. Ein religiöser Ort bietet damit Schutz für ein kriminelles Vorhaben. Der Schauplatz verbindet die Rettungsmission mit einem zweiten Konflikt: Innerhalb der Kampfkunstschule wird um die rechtmäßige Nachfolge und die Verantwortung ihres Leiters gestritten.
 
-Merksatz: Das Kloster dient der Bande als geschützter Stützpunkt.
 
 - Ein buddhistisches Kloster: Die Bande versteckt sich in einem buddhistischen Kloster.
 - Eine aufgegebene Grenzfestung: Die besetzte Anlage ist keine Grenzfestung.
@@ -265,7 +254,6 @@ Wodurch wird Golden Swallow (Cheng Pei-pei) bei ihrem Angriff auf die Banditen i
 
 Golden Swallow (Cheng Pei-pei) kämpft im besetzten Kloster gegen eine Überzahl von Gegnern. Ein vergifteter Wurfpfeil verletzt sie, und sie kann nur mit Hilfe von Fan Da-pei (Yueh Hua) entkommen. Er versorgt sie anschließend und ermöglicht ihre Genesung. Die Verletzung unterbricht die scheinbar souveräne Einzelmission. Während der erzwungenen Pause erfährt die Heldin mehr über ihren Helfer und dessen komplizierte Verbindung zum Gegner.
 
-Merksatz: Der Giftpfeil führt von der Einzelmission zur Zusammenarbeit.
 
 - Durch einen präparierten Weinbecher: Die Vergiftung erfolgt nicht beim Trinken.
 - Durch einen vergifteten Wurfpfeil: Im Kampf trifft sie ein mit Gift versehener Wurfpfeil.
@@ -287,7 +275,6 @@ Wie übermittelt Fan Da-pei (Yueh Hua) Golden Swallow (Cheng Pei-pei) in „Das 
 
 Fan Da-pei (Yueh Hua) will seine Hilfe nicht offen zugeben. In einem Lied versteckt er deshalb einen Hinweis, der auf das chinesische Schriftzeichen für Tempel führt. Golden Swallow (Cheng Pei-pei) kann daraus den gesuchten Aufenthaltsort ableiten. Die Information wird in eine alltägliche Darbietung eingebaut. Der Film nutzt also nicht nur Waffen und Körperbewegungen, sondern auch die Verbindung von Sprache, Musik und Schrift als Mittel verdeckter Verständigung.
 
-Merksatz: Das gesungene Rätsel führt zum Tempel.
 
 - Durch eine Karte im Boden ihrer Reisschüssel: Eine versteckte Karte in der Schüssel gibt es bei dieser Mitteilung nicht.
 - Durch Schriftzeichen auf gestohlenen Spielkarten: Spielkarten tragen den Hinweis nicht.
@@ -309,7 +296,6 @@ Warum zögert Fan Da-pei (Yueh Hua) in „Das Schwert der gelben Tigerin“ zun�
 
 Liao Kung (Yeung Chi-hing) hat Fan Da-pei (Yueh Hua) als hungerndes Waisenkind in die Kampfkunstgemeinschaft gebracht. Deshalb bleibt Fan ihm verbunden, obwohl Liao ihren gemeinsamen Lehrer ermordet hat. Dankbarkeit erschwert die notwendige Gegenwehr gegen dessen Machtanspruch. Die gemeinsame Vergangenheit ist somit mehr als eine Erklärung ihrer Bekanntschaft: Sie macht aus dem Kampf um die Schule zugleich eine Entscheidung über Loyalität und moralische Verantwortung.
 
-Merksatz: Die Rettung in der Kindheit bindet Fan an seinen Gegner.
 
 - Liao hat seine entführte Schwester freigelassen: Eine gerettete Schwester erklärt seine Bindung nicht.
 - Liao hat seinen Vater vor einer Hinrichtung gerettet: Eine Rettung seines Vaters wird nicht als Grund genannt.
@@ -331,7 +317,6 @@ In welchem Jahr wurde „Das Schwert der gelben Tigerin“ mit Cheng Pei-pei ers
 
 Das Schwert der gelben Tigerin erschien 1966 bei Shaw Brothers. Schon 1967 folgte Die Herberge zum Drachentor in Taiwan, also ein Jahr später. Der Filmarchiv-Presskit beschreibt den ersten Film als frühen Ausdruck von King Hus an der Pekingoper orientiertem Stil und den zweiten als großen Erfolg. Der Jahresabstand verbindet zwei konkrete Werke über den Wechsel des Produktionsumfelds, ohne ihre verschiedenen Geschichten miteinander zu verwechseln.
 
-Merksatz: 1966 Shaw-Film, 1967 Taiwan-Film: ein Jahr Abstand.
 
 - 1966: King Hus Shaw-Brothers-Film erschien 1966.
 - 1963: 1963 liegt vor dieser Veröffentlichung.
@@ -353,7 +338,6 @@ Wer führte bei „Das Schwert der gelben Tigerin“ mit Cheng Pei-pei und Yueh 
 
 King Hu führte bei diesem Shaw-Brothers-Film Regie; die Kampfgestaltung übernahm Han Ying-chieh. Die Geschichte beginnt mit einer als Mann auftretenden Schwertkämpferin und verknüpft ihre Mission später mit einem verborgenen Meister. Arrow beschreibt den Film als King Hus letzte Arbeit für das Studio. Seine Weiterentwicklung des Wuxia-Kinos verbindet die Übersichtlichkeit der Herbergenszenen mit Bewegungen und Darbietungen, die an chinesische Bühnentraditionen anknüpfen.
 
-Merksatz: Hauptregie King Hu; Kampfgestaltung Han Ying-chieh.
 
 - Chang Cheh: Chang Cheh inszenierte später Golden Swallow, nicht diesen Film.
 - King Hu: King Hu ist der ausgewiesene Hauptregisseur.
@@ -379,7 +363,6 @@ Welcher Tätigkeit geht Gu Shengzhai (Shih Chun) zu Beginn von „Ein Hauch von 
 
 Gu Shengzhai (Shih Chun) lebt mit seiner Mutter in einem abgelegenen Ort. Er ist ein wenig ehrgeiziger Gelehrter und malt Porträts, statt eine Beamtenlaufbahn einzuschlagen. Ein fremder Kunde zieht ihn in eine Verfolgung hinein, deren Umfang er zunächst nicht erkennt. Der Film betrachtet den Konflikt dadurch anfangs aus der Perspektive eines gewöhnlichen Beobachters. Erst später wird seine Fähigkeit zum Planen für die kämpfenden Flüchtlinge entscheidend.
 
-Merksatz: Der Porträtmaler wird vom Beobachter zum Beteiligten.
 
 - Er ist Heilkundiger und Kräuterhändler: Heilkunde ist nicht seine Ausgangstätigkeit.
 - Er ist Beamter und Steuereinnehmer: Er ist zu Beginn kein Steuereinnehmer.
@@ -401,7 +384,6 @@ Warum verfolgt der kaiserliche Geheimdienst Yang Huizhen (Hsu Feng) in „Ein Ha
 
 Yang Huizhen (Hsu Feng) ist auf der Flucht, nachdem ihr Vater die korrupten Machenschaften eines mächtigen Eunuchen beanstandet hat und hingerichtet wurde. Der Geheimdienst verfolgt auch seine Familie. Ihre Gefährdung ist damit eine Folge politischer Vergeltung gegen Angehörige. Loyal gebliebene Beschützer helfen ihr weiter. Hinter den scheinbar privaten Begegnungen im Ort steht eine Macht, deren Zugriff weit über die unmittelbaren Gegner hinausreicht.
 
-Merksatz: Die Kritik des Vaters gefährdet die ganze Familie.
 
 - Ihr Vater hat einen mächtigen Eunuchen angeklagt: Ihr Vater hat die Machenschaften eines mächtigen Eunuchen öffentlich gemacht.
 - Sie hat eine kaiserliche Schatzkammer geplündert: Ein Schatzkammerraub ist nicht der Ursprung ihrer Verfolgung.
@@ -423,7 +405,6 @@ Welchen Eindruck erzeugt Gu Shengzhai (Shih Chun) in „Ein Hauch von Zen“ gez
 
 Gu Shengzhai (Shih Chun) plant eine Falle an einem Ort, der als heimgesucht gilt. Die Angreifer sollen glauben, dass Geister gegen sie tätig werden, während die Verteidiger den Schrecken für ihren Angriff nutzen. Der Gelehrte bringt dadurch seine Planungsgabe in die Auseinandersetzung ein. Nach dem Erfolg freut er sich zunächst über seinen Einfall, bis ihn die vielen Toten mit dem Preis dieser gelungenen Strategie konfrontieren.
 
-Merksatz: Der Spuk wird von Gu als taktische Täuschung inszeniert.
 
 - Sie stünden einem versteckten Heer gegenüber: Ein verborgenes Heer ist nicht die behauptete Gefahr.
 - Sie seien an einem von Geistern heimgesuchten Ort: Gu nutzt den Ruf des Ortes und inszeniert eine Geisterfalle.
@@ -445,7 +426,6 @@ Was aus Ouyang Nians (Tien Peng) Besitz verwenden die Verteidiger in „Ein Hauc
 
 Ouyang Nian (Tien Peng) wird im Kampf im Bambuswald getötet. Die Verteidiger verwenden anschließend sein Siegel, um weitere Leute des Geheimdienstes in die vorbereitete Falle zu locken. Ein Zeichen offizieller Autorität wird gegen die Organisation gewendet, die ihm vertraut. Damit geht der Widerstand über den unmittelbar gewonnenen Zweikampf hinaus: Aus dem Besitz des getöteten Verfolgers entsteht ein Mittel, auch dessen nachrückende Kräfte zu lenken.
 
-Merksatz: Das Siegel des Verfolgers wird gegen dessen eigene Organisation eingesetzt.
 
 - Seine schriftliche Vollmacht: Eine schriftliche Vollmacht ist nicht das übernommene Zeichen.
 - Seine Dienstmarke: Eine Dienstmarke wird nicht als Lockmittel eingesetzt.
@@ -467,7 +447,6 @@ Welches scheinbar gewöhnliche Accessoire verbirgt Ouyang Nians (Tien Peng) Schw
 
 Ouyang Nian (Tien Peng) erscheint als Fremder, der ein Porträt anfertigen lassen möchte, ist aber ein gefährlicher Geheimdienstmann. Sein besonderes Schwert lässt sich biegen und im Gürtel tragen. Die Waffe bleibt dadurch in seiner gewöhnlichen Erscheinung verborgen. Der Gegensatz zwischen dem scheinbar unbewaffneten Besucher und seiner tatsächlichen Kampfkraft passt zur vorsichtigen Enthüllung der Rollen: Der Alltag des Ortes enthält mehr Bedrohung, als zunächst erkennbar ist.
 
-Merksatz: Ein alltäglicher Gürtel verbirgt die flexible Klinge.
 
 - Sein Spazierstock: Sein Schwert ist nicht in einem Spazierstock untergebracht.
 - Sein Sonnenschirm: Ein Sonnenschirm ist nicht der Behälter dieser Waffe.
@@ -489,7 +468,6 @@ Wie gelingt Xu Xianchun (Han Ying-chieh) in „Ein Hauch von Zen“ ein Überras
 
 Xu Xianchun (Han Ying-chieh) setzt die Verfolgung fort und trifft schließlich auf den Abt Huiyuan (Roy Chiao). Er täuscht Reue vor, um den Mönch unerwartet verletzen zu können. Das scheinbare Einlenken dient als Waffe gegen dessen Bereitschaft zur Nachsicht. In der letzten Auseinandersetzung verschiebt sich der Film von der taktischen List zur religiösen Bildwelt. Der Angriff verbindet diese beiden Ebenen durch einen bewusst missbrauchten Vertrauensmoment.
 
-Merksatz: Xu nutzt scheinbare Reue als Tarnung seines Angriffs.
 
 - Er täuscht Reue vor: Er tut so, als bereue er sein Handeln, und greift dann an.
 - Er bittet um die Behandlung einer Wunde: Eine Bitte um Wundversorgung verschafft ihm den Zugang nicht.
@@ -511,7 +489,6 @@ In welchem Jahr begann die ursprüngliche zweiteilige Veröffentlichung von „E
 
 Die ursprüngliche Veröffentlichung begann 1970 in Taiwan; der zweite Teil folgte 1971. Später wurde der Film als zusammenhängendes Werk gezeigt, weshalb Criterion das Jahr 1971 verwendet. 1975 erhielt er in Cannes den technischen Grand Prix, fünf Jahre nach dem Beginn der Veröffentlichung. Der Festivalerfolg datiert somit weder die Produktion noch den ersten Kinostart. Die ausdrücklich zweiteilige Ausgangsfassung erklärt, warum mehrere verbreitete Jahresangaben nebeneinander stehen.
 
-Merksatz: 1970 Beginn, 1971 Fortsetzung, 1975 Cannes: fünf Jahre nach dem Beginn.
 
 - 1967: 1967 erschien Die Herberge zum Drachentor, nicht der erste Teil dieses Films.
 - 1970: Der erste Teil wurde 1970 veröffentlicht.
@@ -533,7 +510,6 @@ Wer führte bei „Ein Hauch von Zen“ mit Hsu Feng und Shih Chun Regie?
 
 King Hu gestaltete den Film als Übergang von alltäglichen Beobachtungen über politische Verfolgung zu einer religiös aufgeladenen Auseinandersetzung. Golden Horse und TFAI nennen ihn als Regisseur. Die lange, ursprünglich zweiteilige Form ermöglicht unterschiedliche Perspektiven auf Heldentum: Der Gelehrte wird zum Strategen, während die Schwertkämpferin und die Mönche andere Formen der Gegenwehr verkörpern. Die verschiedenen späteren Jahres- und Laufzeitangaben verändern diesen Hauptregiecredit nicht.
 
-Merksatz: King Hu führt durch die wechselnden Perspektiven des langen Films.
 
 - Chang Cheh: Chang Cheh hat diesen Hauptregiecredit nicht.
 - Li Han-hsiang: Li Han-hsiang inszenierte diese Produktion nicht.
@@ -559,7 +535,6 @@ Warum nimmt Qi Rufeng (Tien Feng) Fang Gang (Jimmy Wang Yu) in „Der einarmige 
 
 Fang Cheng (Ku Feng) ist ein Diener, der seinen Meister Qi Rufeng (Tien Feng) bei einem Angriff verteidigt und dabei stirbt. Aus Dankbarkeit nimmt der Meister dessen Sohn Fang Gang (Jimmy Wang Yu) als Schüler auf. Andere Mitglieder behandeln ihn dennoch wegen seiner Herkunft herablassend. Die Ausbildung beginnt somit als Anerkennung einer geleisteten Rettung, schafft aber keine vollständige gesellschaftliche Zugehörigkeit innerhalb der Schule.
 
-Merksatz: Die Rettung des Meisters begründet die Aufnahme des Dienersohns.
 
 - Dessen Vater starb bei der Verteidigung des Meisters: Der Meister dankt so dem Vater, der ihn unter Einsatz seines Lebens schützte.
 - Dessen Vater bezahlte eine langjährige Ausbildung: Die Aufnahme beruht nicht auf bezahlter Ausbildung.
@@ -581,7 +556,6 @@ Wer fügt Fang Gang (Jimmy Wang Yu) in „Der einarmige Schwertkämpfer“ die s
 
 Fang Gang (Jimmy Wang Yu) will die Schule verlassen, um den Spannungen mit den anderen Schülern auszuweichen. Bei einer anschließenden Auseinandersetzung trennt Qi Pei (Pan Yin-tze), die Tochter seines Lehrers, ihm den rechten Arm ab. Schwer verletzt fällt er von einer Brücke in ein vorbeifahrendes Boot. Der entscheidende Einschnitt entsteht also innerhalb seines bisherigen Umfelds und zwingt ihn, seine Kampfkunst außerhalb der Schule neu aufzubauen.
 
-Merksatz: Die Verletzung kommt aus dem eigenen Ausbildungsumfeld.
 
 - Der Anführer eines rivalisierenden Clans: Der rivalisierende Anführer verursacht diese Verletzung nicht.
 - Die Tochter seines Lehrers: Qi Pei, die Tochter seines Lehrers, trennt ihm den Arm ab.
@@ -603,7 +577,6 @@ Welches Lehrmaterial erhält Fang Gang (Jimmy Wang Yu) in „Der einarmige Schwe
 
 Xiaoman (Lisa Chiao Chiao) pflegt Fang Gang (Jimmy Wang Yu) und gibt ihm ein halb verbranntes Kampfkunsthandbuch, das aus ihrer Familie stammt. Das unvollständige Wissen eröffnet ihm einen neuen Weg, nachdem seine frühere Ausbildung mit dem verlorenen Arm unbrauchbar geworden scheint. Er muss die überlieferten Techniken selbst erarbeiten und anpassen. Lernen bedeutet hier deshalb weder vollständige Anleitung noch bloße Wiederholung, sondern die eigenständige Nutzung eines beschädigten Erbes.
 
-Merksatz: Ein beschädigtes Lehrbuch öffnet einen neuen Ausbildungsweg.
 
 - Die vollständigen Aufzeichnungen seines früheren Meisters: Sie übergibt ihm nicht die vollständigen Notizen seines Meisters.
 - Eine Abschriftensammlung des kaiserlichen Waffenmeisters: Kaiserliche Waffenmeister sind nicht die Herkunft des Materials.
@@ -625,7 +598,6 @@ Wofür entscheidet sich Fang Gang (Jimmy Wang Yu) am Ende von „Der einarmige S
 
 Fang Gang (Jimmy Wang Yu) kehrt zum Kampf zurück, um seinen früheren Lehrer Qi Rufeng (Tien Feng) zu retten. Der dankbare Meister bietet ihm anschließend die Nachfolge als Leiter der Schule an. Fang lehnt ab und entscheidet sich für ein einfaches Leben mit Xiaoman (Lisa Chiao Chiao). Der Sieg stellt seine Fähigkeiten wieder unter Beweis, verpflichtet ihn aber nicht dazu, auch die Machtstruktur seines früheren Umfelds zu übernehmen.
 
-Merksatz: Der Sieg führt zum Rückzug, nicht zur Übernahme der Schule.
 
 - Für die Leitung der Schule seines Lehrers: Die angebotene Leitung nimmt er gerade nicht an.
 - Für einen eigenen Clan mit den überlebenden Schülern: Er gründet im Schluss keinen neuen Clan.
@@ -647,7 +619,6 @@ Wie überwindet Fang Gang (Jimmy Wang Yu) in „Der einarmige Schwertkämpfer“
 
 Fang Gang (Jimmy Wang Yu) verwendet ein gebrochenes Schwert. Sein Gegner hat eine Schwertsperre entwickelt, die gegen gewöhnliche vollständige Klingen eingesetzt werden kann. Gerade die ungewöhnliche Form von Fangs Waffe entzieht sich diesem Prinzip. Das Hong Kong Film Archive hebt diesen Zusammenhang ausdrücklich hervor. Ein vermeintlicher Mangel wird dadurch zur taktischen Stärke: Die Gegenmaßnahme beruht auf Annahmen, die für den anders kämpfenden Helden nicht mehr gelten.
 
-Merksatz: Die für vollständige Klingen gebaute Sperre scheitert am Bruchstück.
 
 - Mit seiner kurzen, gebrochenen Klinge: Die ungewöhnlich kurze Klinge entzieht sich der für vollständige Schwerter gebauten Sperre.
 - Mit einem seitlich geführten Säbelhieb: Ein seitlicher Säbelhieb ist nicht sein entscheidendes Gegenmittel.
@@ -669,7 +640,6 @@ Welches Duo nennt das Hong Kong Film Archive für die Kampfchoreografie von „D
 
 Das Hong Kong Film Archive führt Lau Kar-leung und Tong Kai als Kampfchoreografen auf, während Chang Cheh den Hauptregiecredit trägt. Die ungewöhnliche Waffe und der veränderte körperliche Bewegungsraum des Helden brauchen konkrete filmische Kampfgestaltung. Der Credit macht diese Arbeit sichtbar, ohne sie der Hauptregie gleichzusetzen. Die zwei Namen stehen damit für eine eigene gestalterische Aufgabe innerhalb einer Produktion, deren Handlung durch besondere Schwerttechniken bestimmt wird.
 
-Merksatz: Kampfchoreografie: Lau Kar-leung und Tong Kai.
 
 - Han Ying-chieh und Sammo Hung: Dieses Paar steht nicht in den genannten Credits.
 - Lau Kar-leung und Tong Kai: Das Archiv nennt Lau Kar-leung und Tong Kai als Fight Choreographers.
@@ -691,7 +661,6 @@ In welchem Jahr wurde „Der einarmige Schwertkämpfer“ mit Jimmy Wang Yu erst
 
 Der einarmige Schwertkämpfer erschien 1967. Return of the One-Armed Swordsman folgte 1969, also zwei Jahre später. Die BBFC beschreibt den Nachfolger als Rückkehr eines bereits zurückgezogenen Schwertkämpfers zum Kampf. Das macht den Abstand zugleich erzählerisch anschaulich: Die erste Geschichte endet mit dem gewählten einfachen Leben, während die Fortsetzung dieses Ende wieder öffnet. Die ähnlichen Titel bezeichnen somit unterschiedliche Veröffentlichungen und nicht alternative Jahresangaben derselben Produktion.
 
-Merksatz: 1967 erster Film, 1969 Rückkehr: zwei Jahre Abstand.
 
 - 1965: 1965 ist nicht sein Erstjahr.
 - 1969: 1969 folgte Return of the One-Armed Swordsman.
@@ -713,7 +682,6 @@ Wer führte bei „Der einarmige Schwertkämpfer“ mit Jimmy Wang Yu und Lisa C
 
 Chang Cheh führte bei diesem Shaw-Brothers-Film Regie und schrieb gemeinsam mit Ni Kuang das Drehbuch. Das Hong Kong Film Archive nennt Hauptregie und Kampfchoreografie getrennt. Die Geschichte richtet ihre Aufmerksamkeit auf einen körperlich versehrten Außenseiter, der seine Fähigkeiten neu entwickelt und sein früheres Umfeld dennoch rettet. Sein Erfolg eröffnet ihm eine Machtposition, die er bewusst ablehnt. Der Regiecredit bezieht sich auf diesen Originalfilm mit Jimmy Wang Yu.
 
-Merksatz: Hauptregie Chang Cheh, Drehbuch Chang Cheh und Ni Kuang.
 
 - King Hu: King Hu inszenierte diesen Film nicht.
 - Lo Wei: Lo Wei hat diesen Hauptregiecredit nicht.
@@ -739,7 +707,6 @@ Wen sollen die Helfer in „Die Herberge zum Drachentor“ vor den Männern des 
 
 Ein mächtiger Eunuch hat die Hinrichtung eines Ministers veranlasst und will auch dessen Kinder beseitigen. Während sie in die Verbannung gebracht werden, bereiten seine Männer einen Hinterhalt an der Herberge vor. Loyal gebliebene Helfer sammeln sich dort, um die Kinder zu schützen. Die politische Vorgeschichte erklärt somit die Begegnung von Reisenden und Kämpfern. Ein gewöhnlicher Zwischenhalt wird zum entscheidenden Ort, an dem die Verfolgung aufgehalten werden kann.
 
-Merksatz: Die Kinder sollen der politischen Vergeltung entkommen.
 
 - Die Familie eines geflohenen Thronanwärters: Ein Thronanwärter ist nicht der Vater der verfolgten Kinder.
 - Die Kinder eines hingerichteten Ministers: Die verbannten Kinder des Ministers sollen ebenfalls getötet werden.
@@ -761,7 +728,6 @@ In welcher Umgebung liegt der zentrale Schauplatz von „Die Herberge zum Drache
 
 Die Herberge steht weit entfernt vom Zentrum staatlicher Macht in einer kargen Grenzlandschaft. Gerade deshalb eignet sie sich als Ort für den geplanten Hinterhalt auf die verbannten Kinder. Zunächst konzentriert der Film die Spannung auf den engen Innenraum, in dem Fremde einander beobachten. Später öffnet er die Kämpfe in die weitläufige Umgebung. Der Wechsel zwischen Begrenzung und offenem Gelände verändert die sichtbaren Möglichkeiten der Bewegung.
 
-Merksatz: Die abgelegene Grenze macht den Zwischenhalt zum gefährlichen Engpass.
 
 - In einem dicht besiedelten Hauptstadtviertel: Die Handlung konzentriert sich nicht auf ein Hauptstadtviertel.
 - An einem lebhaften Seehafen: Ein Seehafen bildet nicht den zentralen Raum.
@@ -783,7 +749,6 @@ Wie tritt Zhu Hui (Shang-Kuan Ling-feng) in „Die Herberge zum Drachentor“ zu
 
 Zhu Hui (Shang-Kuan Ling-feng) erscheint zunächst als Mann und gehört zu den Kämpfern, die den Verfolgten helfen. Ihr Auftreten fügt sich in eine Folge von Ankünften, bei denen die tatsächlichen Rollen erst nach und nach erkennbar werden. Später zeigt sie ihre Beweglichkeit außerhalb der Herberge. Die Tarnung ist damit Teil eines größeren Prinzips: Die Besucher verraten weder ihre Zugehörigkeit noch ihre Fähigkeiten bereits durch ihre erste Erscheinung.
 
-Merksatz: Zhu Huis erste Erscheinung verdeckt die Schwertkämpferin.
 
 - Als verschleierte Hofdame: Eine Hofdamenrolle verwendet sie nicht.
 - Als schweigende Tempeldienerin: Eine Tempeldienerin ist nicht ihre Tarnung.
@@ -805,7 +770,6 @@ Wie reagiert Xiao Shaozi (Shih Chun) in „Die Herberge zum Drachentor“ auf de
 
 Xiao Shaozi (Shih Chun) täuscht nach dem präparierten Trunk seinen Tod vor, bevor er seinem Gegner ins Gesicht spuckt. Der Moment lässt den Erfolg des Anschlags zunächst offen und kippt dann in eine freche Gegenreaktion. Die Herbergenszenen zeigen seine Aufmerksamkeit in kleinen Handlungen, lange bevor ein offener Kampf alles beherrscht. Seine Ruhe ist deshalb ein aktives Mittel: Er beobachtet und bestimmt den Zeitpunkt seiner Antwort selbst.
 
-Merksatz: Xiao spielt den scheinbaren Erfolg des Giftanschlags gegen dessen Täter aus.
 
 - Er stellt sich tot und spuckt dem Angreifer ins Gesicht: Er täuscht zunächst seinen Tod vor und wendet die Situation dann gegen den Täter.
 - Er vertauscht die Becher und wartet auf die Wirkung: Ein unbemerkter Bechertausch ist nicht seine Reaktion.
@@ -827,7 +791,6 @@ Wie beantwortet Xiao Shaozi (Shih Chun) in „Die Herberge zum Drachentor“ die
 
 Xiao Shaozi (Shih Chun) verrät seine Fähigkeiten durch eine scheinbar beiläufige Handlung beim Essen. Die geforderte Nudelschüssel landet nach seinem Wurf unversehrt auf dem Tisch des Gegners. Eine kleine Demonstration ersetzt zunächst den offenen Schlagabtausch. Das Essen wird zum Instrument gegenseitiger Prüfung. Der kontrollierte Umgang mit einem Alltagsgegenstand zeigt bereits jene Präzision, die später in den Kämpfen größer und gefährlicher sichtbar werden wird.
 
-Merksatz: Die unverschüttete Nudelsuppe demonstriert Xiaos Kontrolle.
 
 - Er kippt die Suppe aus und steckt Geld in die Schüssel: Eine leere Schüssel mit Geld ist nicht seine Antwort.
 - Er schleudert die Schüssel hinüber, ohne etwas zu verschütten: Die Schüssel landet auf dem anderen Tisch, ohne dass Suppe verschüttet wird.
@@ -849,7 +812,6 @@ Welche Bühnenkunst beeinflusst laut Criterion-Essay die Konzeption der Kämpfe 
 
 King Hu kannte die Pekingoper aus seiner Kindheit und entwarf Kämpfe als ein Zusammenspiel von Bewegung, Akrobatik und Rhythmus. Der Criterion-Essay beschreibt diesen Zugang für die Inszenierung; Han Ying-chieh verantwortete die Choreografie. Die Szene ist dadurch nicht nur ein Ort, an dem Gegner einander verletzen. Körperbewegungen, Raum und Klang bilden zugleich ein genau geordnetes Schauspiel, dessen Wirkung sich aus ihrer gemeinsamen Gestaltung ergibt.
 
-Merksatz: Die Kämpfe werden als Bewegungsspektakel nach dem Vorbild der Pekingoper konzipiert.
 
 - Kunqu-Oper: Der Essay benennt hier ausdrücklich die Pekingoper statt Kunqu.
 - Kantonesische Oper: Die kantonesische Oper ist nicht die konkret genannte Tradition.
@@ -871,7 +833,6 @@ In welchem Jahr wurde „Die Herberge zum Drachentor“ mit Shih Chun und Shang-
 
 Die Herberge zum Drachentor erschien 1967. Die restaurierte Fassung wurde 2014 für Cannes Classics ausgewählt, 47 Jahre später. Der Filmarchiv-Presskit beschreibt die Sicherung und Restaurierung des Originalmaterials in 4K; gearbeitet wurde am vorhandenen Negativ und an den Tonelementen. Der lange Abstand zeigt, warum eine aktuelle Festivalvorführung nicht als erstes Filmjahr gelten darf. Sie machte ein bereits Jahrzehnte altes Werk unter verbesserten Vorführbedingungen wieder sichtbar.
 
-Merksatz: 1967 Veröffentlichung, 2014 Cannes Classics: 47 Jahre Abstand.
 
 - 1964: 1964 ist nicht das Erstjahr dieser Produktion.
 - 1970: 1970 gehört zum Beginn von Ein Hauch von Zen.
@@ -893,7 +854,6 @@ Wer führte bei „Die Herberge zum Drachentor“ mit Shih Chun und Bai Ying Reg
 
 Der Filmarchiv-Presskit führt King Hu als Regisseur und Drehbuchautor. Er entstand bei Union Film in Taiwan nach seinem Wechsel aus Hongkong. Der konzentrierte Schauplatz erlaubt es, die Zugehörigkeit und Fähigkeiten ankommender Personen allmählich offenzulegen. King Hus Arbeit verbindet diese Informationsverteilung mit dem Wechsel zwischen engen Innenräumen und weitem Gelände. Han Ying-chiehs Choreografie ist eine gesonderte gestalterische Aufgabe innerhalb der von Hu geleiteten Inszenierung.
 
-Merksatz: Hauptregie und Drehbuch King Hu, Produktion Union Film.
 
 - King Hu: Der Archiv-Presskit nennt King Hu als Regisseur und Drehbuchautor.
 - Chang Cheh: Chang Cheh inszenierte diesen Ensemblefilm nicht.
@@ -919,7 +879,6 @@ Welchen Auftrag erhält Yang Tieh (Chiang Sheng) in „Die fünf tödlichen Gift
 
 Der sterbende Meister beauftragt Yang Tieh (Chiang Sheng), die früheren Schüler der Schule zu suchen. Sie leben unter anderen Identitäten und kennen einander nicht vollständig. Yang muss zunächst herausfinden, wer sie sind und wie sie handeln. Die Aufgabe verbindet deshalb moralische Verantwortung mit Ermittlungsarbeit. Er soll den schlechten Ruf der Schule nicht durch einen wahllosen Angriff beheben, sondern zwischen verbrecherischen und vertrauenswürdigen Schülern unterscheiden.
 
-Merksatz: Yang muss erst ermitteln, bevor er gegen die Schüler vorgehen kann.
 
 - Frühere Schüler zur Rückkehr in die Schule bewegen: Eine bloße Rückkehr in die Schule ist nicht das Ziel.
 - Den Schatz der Schule unter früheren Schülern verteilen: Eine Schatzverteilung ist nicht der letzte Auftrag.
@@ -941,7 +900,6 @@ Worauf zielen die miteinander verbündeten Täter in „Die fünf tödlichen Gif
 
 Ein früherer Angehöriger der Schule besitzt einen verborgenen Schatz. Zwei der gesuchten Schüler wollen ihn zur Preisgabe zwingen und ermorden ihn mit seiner Familie, als er sich weigert. Der Schatz verbindet persönliche Gier mit der späteren Ermittlung und der Korruption des Gerichts. Die verschiedenen Kampfkunststile bilden dabei nicht schon die Erklärung der Taten: Entscheidend ist, wie die Täter ihre Fähigkeiten für den eigenen Vorteil einsetzen.
 
-Merksatz: Der Schatz ist das gemeinsame materielle Motiv der Täter.
 
 - Auf eine kaiserliche Ernennungsurkunde: Eine Ernennungsurkunde ist nicht ihr gemeinsames Ziel.
 - Auf ein geheimes Rezept für Heilmittel: Ein Heilmittelrezept wird nicht gesucht.
@@ -963,7 +921,6 @@ Mit welchem früheren Schüler verbündet sich Yang Tieh (Chiang Sheng) in „Di
 
 Yang Tieh (Chiang Sheng) erkennt im Echsen-Kämpfer He Yuanxin (Philip Kwok) den vertrauenswürdigen Verbündeten. Dieser arbeitet als Ordnungshüter und will die Verbrechen aufklären. Gemeinsam können sie gegen die übrigen Gegner bestehen, denen Yang allein nicht gewachsen wäre. Die Entscheidung beruht somit auf beobachtetem Verhalten statt auf der gemeinsamen Herkunft aus einer Schule. Der letzte Kampf setzt die vorherige Ermittlung in eine konkrete Zusammenarbeit um.
 
-Merksatz: Yangs Partner ist der Echsen-Kämpfer, nicht einer der Verschwörer.
 
 - Mit dem Echsen-Kämpfer (Philip Kwok): Der Echsen-Kämpfer bleibt rechtschaffen und wird Yangs Verbündeter.
 - Mit dem Skorpion-Kämpfer (Sun Chien): Der Skorpion gehört zur verbrecherischen Verschwörung.
@@ -985,7 +942,6 @@ Wie beeinflussen die Täter in „Die fünf tödlichen Gifte“ das Gerichtsverf
 
 Nach der Festnahme des Tausendfüßler-Kämpfers Tang Shankui (Lu Feng) versuchen die Täter, das Verfahren zu ihren Gunsten zu lenken. Sie bestechen den Richter und richten den Verdacht gegen den Kröten-Kämpfer Li Hao (Lo Mang). Die Behörde bietet somit keinen verlässlichen Schutz vor der Verschwörung. Gerade die Nutzung scheinbar ordentlicher Ermittlungs- und Gerichtsabläufe macht es schwierig, das Verbrechen allein durch eine richtige Beobachtung aufzuklären.
 
-Merksatz: Die Täter kaufen das Verfahren und lenken die Beschuldigung um.
 
 - Sie erpressen den Richter mit einem Familiengeheimnis: Eine Erpressung mit einem Familiengeheimnis ist nicht ihr Vorgehen.
 - Sie bestechen den Richter: Der Richter lässt sich bestechen und hilft, die Schuld auf einen anderen zu lenken.
@@ -1007,7 +963,6 @@ An welcher Stelle wird die Widerstandskraft des Kröten-Kämpfers (Lo Mang) in �
 
 Der Kröten-Kämpfer Li Hao (Lo Mang) kann starke Schläge überstehen und widersteht zunächst auch der Folter. Der Skorpion-Kämpfer Ma (Sun Chien) trifft jedoch mit seinen Wurfpfeilen die empfindlichen Stellen hinter den Ohren. Danach ist Li verwundbar. Der besondere Schutz wird damit nicht einfach durch größere Kraft überwunden. Das Wissen um eine genaue körperliche Grenze erlaubt den Tätern, einen sonst kaum besiegbaren Gegner unter Kontrolle zu bringen.
 
-Merksatz: Gezielte Treffer hinter den Ohren heben den Krötenschutz auf.
 
 - An seinen Handgelenken: Die Handgelenke sind nicht die hier benannten Schwachstellen.
 - Unter seinen Kniescheiben: Die Kniescheiben tragen nicht diese besondere Verwundbarkeit.
@@ -1029,7 +984,6 @@ Wie vertuschen die Täter in „Die fünf tödlichen Gifte“ den Mord am Kröte
 
 Der Kröten-Kämpfer Li Hao (Lo Mang) wird im Gefängnis erstickt. Die Täter hängen den Toten anschließend auf, um Selbstmord vorzutäuschen. Damit soll das Ergebnis des manipulierten Verfahrens auch nach seinem Tod unangefochten bleiben. Der Ort der Haft wird selbst zum Tatort, während die äußere Erscheinung eine andere Ursache nahelegt. Die Aufklärung muss daher nicht nur Schuldzuweisungen, sondern auch die scheinbaren Beweise für einen Todeshergang hinterfragen.
 
-Merksatz: Das Aufhängen geschieht nach der Tötung und tarnt ihren wirklichen Ablauf.
 
 - Sie verbrennen die Leiche und melden einen Gefängnisbrand: Ein Brand wird nicht als Todesursache vorgetäuscht.
 - Sie legen ein Schwert daneben und melden einen Ausbruchsversuch: Ein vorgetäuschter Ausbruchsversuch ist nicht ihre Tarnung.
@@ -1051,7 +1005,6 @@ In welchem Jahr wurde „Die fünf tödlichen Gifte“ mit Chiang Sheng und Phil
 
 Der Film Die fünf tödlichen Gifte erschien 1978. Das Wu-Tang-Clan-Debütalbum Enter the Wu-Tang (36 Chambers) kam 1993 heraus, 15 Jahre später. Das Arrow-Booklet nennt Da Mystery of Chessboxin’ als konkretes Beispiel für die Verwendung von Dialogen aus dem Film. Der Abstand verbindet das ursprüngliche Kampfkunstkino mit seiner späteren musikalischen Rezeption. Die Bekanntheit solcher Zitate sagt dabei noch nicht, wie vertraut jemand mit der eigentlichen Kriminalgeschichte ist.
 
-Merksatz: 1978 Film, 1993 Album: 15 Jahre bis zum bekannten Dialogsample.
 
 - 1978: Arrow nennt den Hongkonger Originalstart am 12. August 1978.
 - 1975: 1975 liegt vor der Veröffentlichung.
@@ -1073,7 +1026,6 @@ Wer ist im Arrow-Booklet als Hauptregisseur von „Die fünf tödlichen Gifte“
 
 Das Arrow-Booklet nennt Chang Cheh als Regisseur und gemeinsam mit Ni Kuang als Drehbuchautor. Liang Ting, auch Leung Ting geschrieben, erscheint bei den Kampfkunst-Instruktoren. Diese Trennung erklärt, warum der entsprechende Zusatz in manchen Datenzusammenstellungen keinen zweiten Hauptregisseur bezeichnet. Die Handlung nutzt verschiedene Kampfstile für eine Ermittlungsgeschichte, in der Schüler unter verborgenen Identitäten auftreten und ihre Fähigkeiten sehr unterschiedlich einsetzen.
 
-Merksatz: Chang Cheh: Hauptregie; Leung Ting: Kampfgestaltung.
 
 - Leung Ting: Leung Ting wird unter Kampfgestaltung geführt, nicht als Hauptregisseur.
 - Chang Cheh: Der Directed-by-Credit nennt Chang Cheh.
@@ -1099,7 +1051,6 @@ An welchem Wettbewerb nimmt Dragons (Jackie Chan) Schule zu Beginn von „Meiste
 
 Dragons (Jackie Chan) Schule tritt gegen eine andere Schule im Löwentanz an. Das Preisgeld wird benötigt, um den Betrieb weiterführen zu können. Als der vorgesehene Teilnehmer ausfällt, muss Dragon einspringen. Der Wettbewerb ist damit zugleich eine körperlich anspruchsvolle Darbietung und eine wirtschaftliche Bewährungsprobe für die Gemeinschaft. Die erste große Auseinandersetzung findet innerhalb eines geregelten Festereignisses statt, bevor sich die Geschichte auf die Verfolgung von Verbrechern verlagert.
 
-Merksatz: Das Löwentanz-Preisgeld soll die Schule retten.
 
 - An einem Schwertkampf-Turnier: Ein Schwertkampf-Turnier ist nicht der Auftakt.
 - An einem Bogenschieß-Wettkampf: Bogenschießen bildet nicht diesen Wettbewerb.
@@ -1121,7 +1072,6 @@ Wofür hält Polizeichef Sang Kung (Shih Kien) Dragon (Jackie Chan) in „Meiste
 
 Dragon (Jackie Chan) verlässt seine Schule, um seinen Bruder zu finden und zurückzubringen. Unterwegs hält Polizeichef Sang Kung (Shih Kien) ihn für den gesuchten White Fan (Wei Pai), hinter dem sein Bruder steckt. Auch die Kinder des Polizisten beteiligen sich an der Verfolgung. Aus einer persönlichen Suchmission wird damit ein Konflikt mit der Ordnungsmacht. Der Held muss nicht nur seine eigentliche Aufgabe lösen, sondern auch die falsche Identität überwinden, die andere ihm zuschreiben.
 
-Merksatz: Eine Verwechslung macht Dragon selbst zum vermeintlich Gesuchten.
 
 - Für den gesuchten Verbrecher White Fan (Wei Pai): Sang Kung verwechselt ihn mit dem gesuchten White Fan.
 - Für den entflohenen Kam (Hwang In-shik): Sang Kung hält Dragon nicht für Kam.
@@ -1143,7 +1093,6 @@ Warum täuscht Tiger (Wei Pai) in „Meister aller Klassen“ seine Verletzung v
 
 Tiger (Wei Pai) scheint nach einem Sturz von der Leiter verletzt und überlässt Dragon (Jackie Chan) seinen Platz beim Löwentanz. Während des Wettbewerbs erkennt Dragon jedoch, dass der Bruder auf der Seite der Konkurrenz antritt. Der Ausfall war nur vorgetäuscht. Nach der Niederlage wird Tiger aus der Schule ausgestoßen. Die Täuschung richtet sich gegen seine eigene Gemeinschaft und macht Dragons spätere Suche zugleich zu einem Versuch, diesen Bruch zu heilen.
 
-Merksatz: Der vorgetäuschte Unfall ermöglicht den Seitenwechsel im Löwentanz.
 
 - Er will Dragon (Jackie Chan) beim Gewinnen des Preisgeldes helfen: Er erleichtert Dragon nicht aus Loyalität den Sieg.
 - Er will für die rivalisierende Schule antreten: Tiger tritt tatsächlich auf der Seite der Konkurrenz an.
@@ -1165,7 +1114,6 @@ Warum verspricht Dragon (Jackie Chan) in „Meister aller Klassen“, den entflo
 
 Tiger (Wei Pai) hat an der Befreiung des gefährlichen Kam (Hwang In-shik) mitgewirkt und wird später für einen Bankraub verantwortlich gemacht. Dragon (Jackie Chan) will seine Verhaftung verhindern und verspricht, Kam selbst festzunehmen. Die Suche nach dem Bruder führt dadurch zur direkten Konfrontation mit einem weit stärkeren Gegner. Familiäre Verantwortung bindet den Helden an eine Aufgabe, deren körperlichen Preis er am Ende deutlich zu tragen hat.
 
-Merksatz: Die Jagd auf Kam wird zur Bedingung für den Schutz des Bruders.
 
 - Um das verlorene Preisgeld für seine Schule zurückzubekommen: Das Löwentanz-Preisgeld ist nicht der Grund dieser Zusage.
 - Um eine Stelle bei der Polizei zu erhalten: Dragon bewirbt sich dadurch nicht um einen Polizeiposten.
@@ -1187,7 +1135,6 @@ Was trinkt Dragon (Jackie Chan) in „Meister aller Klassen“ während des letz
 
 Kam (Hwang In-shik) setzt Dragon (Jackie Chan) im langen Schlusskampf mit schnellen Schlägen und Tritten stark zu. Ein alter Mann reicht Dragon Wasser aus einer Opiumpfeife. Danach gewinnt er im Film neue Energie und kann den Gegner besiegen. Der Umschwung gehört zur überzeichneten körperlichen Komik dieser Auseinandersetzung. Der zuvor deutlich unterlegene Held setzt sich durch, ohne dass die Geschichte die bereits erlittenen Verletzungen anschließend verschwinden lässt.
 
-Merksatz: Die unerwartete Hilfe des alten Mannes kommt aus einer Opiumpfeife.
 
 - Wein aus dem Krug eines Bettlers: Wein aus einem Bettlerkrug ist nicht das gezeigte Getränk.
 - Einen Kräutersud aus einer Feldflasche: Er erhält keinen Kräutersud aus einer Feldflasche.
@@ -1209,7 +1156,6 @@ In welchem körperlichen Zustand kehrt Dragon (Jackie Chan) am Ende von „Meist
 
 Dragon (Jackie Chan) besiegt Kam (Hwang In-shik), ist jedoch durch die vielen Treffer schwer verletzt. Seine Rückkehr im Ganzkörpergips bewahrt diese Folgen im komischen Schlussbild. Die Anerkennung als Held lässt seinen Körper nicht plötzlich wieder unversehrt werden. So verbindet der Film den triumphalen Ausgang mit einer sichtbaren Einschränkung. Der Schluss greift damit die Ausdauer des langen Kampfes auf und verwandelt ihren Preis in eine letzte körperliche Pointe.
 
-Merksatz: Der Ganzkörpergips trägt die Kampfverletzungen bis ins Schlussbild.
 
 - In einem Ganzkörpergips: Sein Ganzkörpergips macht die Folgen des letzten Kampfes sichtbar.
 - Mit einem Arm in einer Schlinge: Eine einzelne Armschlinge beschreibt die Schlusserscheinung nicht.
@@ -1231,7 +1177,6 @@ In welchem Jahr wurde „Meister aller Klassen“ als The Young Master erstmals 
 
 Meister aller Klassen ist The Young Master von 1980. Bereits 1979 hatte Jackie Chan mit The Fearless Hyena sein Regiedebüt gegeben, also ein Jahr früher. Criterion führt beide Werke mit diesen Jahren und beschreibt den ersten Film ausdrücklich als Beginn seiner Regiearbeit. Der Abstand ordnet The Young Master in die frühe Phase ein, in der Chan Hauptrolle, Kampfgestaltung und Inszenierung selbst miteinander verband, statt nur als Darsteller aufzutreten.
 
-Merksatz: 1979 Regiedebüt, 1980 The Young Master: ein Jahr Abstand.
 
 - 1978: 1978 liegt vor dieser Veröffentlichung.
 - 1980: Criterion und der Hongkonger Kinostart bestätigen 1980.
@@ -1253,7 +1198,6 @@ Wer führte bei „Meister aller Klassen“ als The Young Master mit Yuen Biao R
 
 Jackie Chan übernahm neben der Hauptrolle auch die Regie. Criterion führt ihn außerdem gemeinsam mit Fung Hak-on bei der Kampfgestaltung auf. Der Film verbindet eine aufwendige Löwentanz-Darbietung, komische Verfolgungen und den langen Zweikampf mit Hwang In-shik. Chans Gestaltung richtet die Komik immer wieder auf einen Körper, der außergewöhnlich beweglich, aber auch verletzbar ist. Hauptregie und gemeinsamer Action-Credit bezeichnen dabei zwei verschiedene Verantwortungsbereiche.
 
-Merksatz: Jackie Chan: Hauptregie; Jackie Chan und Fung Hak-on: Kampfgestaltung.
 
 - Sammo Hung: Sammo Hung trägt nicht den Hauptregiecredit dieses Films.
 - Yuen Woo-ping: Yuen Woo-ping ist nicht sein Hauptregisseur.
@@ -1279,7 +1223,6 @@ Welchen Weg schlägt Tienbo (Chin Siu-ho) in „Tai Chi“ nach der Zeit im Klos
 
 Tienbo (Chin Siu-ho) und Junbao (Jet Li) wachsen gemeinsam im Kloster auf, werden aber hinausgeworfen. Draußen erhält Tienbo das Angebot, in die Armee einzutreten, und nimmt es an. Junbao lehnt denselben Weg ab. Ihre unterschiedliche Haltung zu Macht beginnt somit als konkrete Lebensentscheidung. Aus dem früheren gemeinsamen Training entstehen getrennte Loyalitäten, die sich später gegenüber den unterdrückten Bewohnern und den Rebellen nicht mehr miteinander vereinbaren lassen.
 
-Merksatz: Die Armee wird Tienbos Weg zu Macht und Reichtum.
 
 - Er tritt in die Armee ein: Tienbo sucht Macht und nimmt die angebotene Stellung in der Armee an.
 - Er gründet eine eigene Klosterschule: Eine eigene Klosterschule eröffnet er nicht.
@@ -1301,7 +1244,6 @@ Wen sucht Siu-lin (Michelle Yeoh) in „Tai Chi“, als sie der Gruppe begegnet?
 
 Siu-lin (Michelle Yeoh) zieht auf der Suche nach ihrem Ehemann umher. In einer Gaststätte findet sie ihn wieder, doch er ist inzwischen mit der Schwester des Gouverneurs verbunden. Als die Auseinandersetzung eskaliert, schlägt er seine frühere Frau nieder, um der wohlhabenden neuen Partnerin zu gefallen. Junbao (Jet Li) hilft ihr. Ihr Eintritt in die Geschichte verbindet eine persönliche Enttäuschung mit dem Konflikt um Macht und Abhängigkeit.
 
-Merksatz: Die Ehemannsuche führt Siu-lin zur Gruppe.
 
 - Ihren verschollenen Bruder: Die Suche gilt keinem Bruder.
 - Ihren verschwundenen Ehemann: Sie sucht ihren Ehemann und entdeckt dessen neue Verbindung.
@@ -1323,7 +1265,6 @@ Wie lockt Tienbo (Chin Siu-ho) in „Tai Chi“ Junbao (Jet Li) und die Rebellen
 
 Tienbo (Chin Siu-ho) kennt das Versteck der Rebellen und nutzt das Wissen für seinen Aufstieg. Er nennt Junbao (Jet Li) einen angeblich günstigen Zeitpunkt, an dem die Armee auf Patrouille sei. Die versammelten Rebellen greifen daraufhin an und laufen in die vorbereitete Falle. Viele sterben, andere werden gefangen. Die vertraute Beziehung der beiden Freunde wird so zum Übertragungsweg einer militärischen Täuschung, deren Folgen die ganze Gruppe treffen.
 
-Merksatz: Der vermeintliche Hinweis auf eine Gelegenheit ist die Vorbereitung des Hinterhalts.
 
 - Er verspricht die kampflose Freilassung aller gefangenen Rebellen: Eine zugesagte Gefangenenfreilassung ist nicht der Köder.
 - Er bietet eine geheime Unterredung mit dem Gouverneur an: Eine Unterredung ist nicht der Anlass des geplanten Angriffs.
@@ -1345,7 +1286,6 @@ Welches Instrument spielt Siu-lin (Michelle Yeoh) in „Tai Chi“, um während 
 
 Siu-lin (Michelle Yeoh) besitzt eine Sanxian, eine chinesische Langhalslaute. Ihr Ehemann hat sie ihr zur Hochzeit geschenkt. Nun verdient sie mit dem Instrument ihren Lebensunterhalt, während sie nach ihm sucht. Der Gegenstand trägt damit zwei Funktionen: Er bewahrt eine Erinnerung an die Beziehung und ermöglicht zugleich ihr selbstständiges Überleben. Die musikalische Darbietung bringt sie in den öffentlichen Raum der Gaststätte, in dem die verschiedenen Handlungswege zusammenlaufen.
 
-Merksatz: Die Sanxian ist Hochzeitsgeschenk und Mittel des Lebensunterhalts.
 
 - Eine Erhu-Geige: Die Erhu ist nicht ihr gezeigtes Instrument.
 - Eine Dizi-Flöte: Eine Dizi-Flöte verwendet sie nicht für diesen Lebensunterhalt.
@@ -1367,7 +1307,6 @@ Wohin bringt Junbao (Jet Li) in „Tai Chi“ nach dem letzten Kampf Tienbos (Ch
 
 Tienbo (Chin Siu-ho) stirbt nach dem letzten Kampf gegen Junbao (Jet Li). Junbao bringt seine Asche zum Shaolin-Kloster, dem Ort ihrer gemeinsamen Jugend, zurück. Erst danach begründet er seine eigene Schule im Wudang-Gebirge. Der Rückweg bewahrt eine frühere Verbindung trotz des Verrats und der tödlichen Auseinandersetzung. Das Ende besteht deshalb nicht nur aus einem Sieg: Es führt auch zu den Anfängen der zerstörten Freundschaft zurück.
 
-Merksatz: Die Asche kehrt an den gemeinsamen Ausbildungsort zurück.
 
 - Zurück zum Shaolin-Kloster: Er bringt die Asche an den Ort ihrer gemeinsamen Ausbildung zurück.
 - In seine neue Schule im Wudang-Gebirge: Wudang wird später sein eigener Wirkungsort, ist aber nicht dieses Ziel.
@@ -1389,7 +1328,6 @@ Wen nehmen Junbao (Jet Li) und Siu-lin (Michelle Yeoh) in „Tai Chi“ vor ihre
 
 Junbao (Jet Li) und Siu-lin (Michelle Yeoh) fangen den Gouverneur Liu Jin (Sun Jian-kui) auf dessen Reise zum Kaiser ab. Sie überwinden die Eskorte und bringen ihn als Geisel zum Armeelager. Damit wollen sie dem Machtapparat mit einem eigenen Druckmittel begegnen. Tienbo (Chin Siu-ho) zerstört diese Voraussetzung später selbst, indem er den Gouverneur tötet und nach der Kontrolle über die Soldaten greift.
 
-Merksatz: Die Geisel stammt aus der Spitze des gegnerischen Machtapparats.
 
 - Die Schwester des Gouverneurs: Seine Schwester wird bekämpft, ist aber nicht diese Geisel.
 - Den Gouverneur: Sie fangen den Gouverneur auf seiner Reise ab.
@@ -1411,7 +1349,6 @@ In welchem Jahr wurde „Tai Chi“ mit Jet Li und Michelle Yeoh erstmals veröf
 
 Tai Chi erschien 1993. Sieben Jahre später, 2000, war Michelle Yeoh in Crouching Tiger, Hidden Dragon erneut an einem großen Kampfkunstfilm beteiligt. Sony nennt dort Yuen Woo-ping für die Kampfchoreografie; bei Tai Chi hatte er die Hauptregie übernommen. Der konkrete Abstand verbindet somit zwei Werke über einen gemeinsamen Star und verschiedene Aufgaben desselben Filmgestalters. Er hilft, die frühere Hongkonger Produktion von dem späteren internationalen Erfolg zeitlich zu unterscheiden.
 
-Merksatz: 1993 Tai Chi, 2000 Crouching Tiger: sieben Jahre Abstand.
 
 - 1990: 1990 liegt vor dieser Veröffentlichung.
 - 1995: 1995 ist nicht das Erstjahr dieses Films.
@@ -1433,7 +1370,6 @@ Wer führte bei „Tai Chi“ mit Jet Li und Michelle Yeoh Hauptregie?
 
 Yuen Woo-ping führte Regie, während Jet Li neben der Hauptrolle als Produzent beteiligt war. Die BBFC bestätigt den Regiecredit für die Kinofassung von 1993. Der Film stellt zwei gemeinsam ausgebildete Freunde auf gegensätzliche Wege und lässt ihren Konflikt in aufwendigen Kämpfen sichtbar werden. Die Nennung des Produzenten als Star erklärt eine enge Beteiligung an der Produktion, macht ihn aber nicht zum zweiten Hauptregisseur.
 
-Merksatz: Hauptregie Yuen Woo-ping; Jet Li: Hauptrolle und Produktion.
 
 - Jet Li: Jet Li spielte die Hauptrolle und produzierte, führte aber nicht Hauptregie.
 - Gordon Chan: Gordon Chan hat diesen Hauptregiecredit nicht.
@@ -1459,7 +1395,6 @@ Welchen Gegenstand kauft Kuo (Jackie Chan) in „Canton Godfather“ regelmäßi
 
 Kuo (Jackie Chan) kommt mittellos nach Hongkong und kauft von Madame Kao (Gua Ah-leh) eine rote Rose. Kurz darauf wird er unerwartet zum Chef einer Bande. Er verbindet diesen Aufstieg mit der Blume und kauft fortan täglich eine neue. Die Gewohnheit führt ihn immer wieder zur Verkäuferin zurück. Aus dem zunächst persönlichen Glücksglauben entsteht so eine Beziehung, in der er schließlich auch ihre Schwierigkeiten wahrnimmt und helfen möchte.
 
-Merksatz: Die täglich gekaufte Rose hält die Verbindung zur Verkäuferin aufrecht.
 
 - Eine goldene Münze: Eine Münze ist nicht sein regelmäßig gekaufter Glücksbringer.
 - Eine rote Rose: Er schreibt sein Glück der roten Rose der Blumenverkäuferin zu.
@@ -1481,7 +1416,6 @@ Wie wird Kuo (Jackie Chan) in „Canton Godfather“ zum Anführer der Bande?
 
 Kuo (Jackie Chan) hilft einem tödlich verletzten Bandenchef, ohne auf eine Führungsposition hinzuarbeiten. Der Sterbende erklärt ihn zum Nachfolger. Andere hatten mit der Stellung gerechnet und müssen sich nun dem Außenseiter unterordnen. Kuo übernimmt damit eine Gemeinschaft, deren Regeln und Rivalitäten er erst kennenlernen muss. Der ungewöhnliche Anfang erklärt sowohl seine Zurückhaltung gegenüber dem Verbrechen als auch den Widerstand, den der unerwartete Aufstieg innerhalb der Bande auslöst.
 
-Merksatz: Die unerwartete Nachfolge beginnt mit einer zufälligen Hilfeleistung.
 
 - Die Mitglieder wählen ihn nach einem geplanten Aufnahmekampf: Die Führung wird ihm nicht durch eine geplante Mitgliederwahl übertragen.
 - Er kauft die Führungsposition mit geliehenem Geld: Er hat die Stellung nicht mit Geld gekauft.
@@ -1503,7 +1437,6 @@ Welches legale Geschäft soll Kuo (Jackie Chan) und seiner Bande in „Canton Go
 
 Kuo (Jackie Chan) sucht eine legale Erwerbsmöglichkeit für seine Bande. Als die Sängerin Yang Luming (Anita Mui) eine Schuld ihres Vaters zurückzahlen möchte, entsteht die Idee eines Nachtclubs. Ihre Auftritte werden Teil des neuen Geschäfts. Das Vorhaben beseitigt die Rivalitäten jedoch nicht: Ein anderer Bandenchef beansprucht Anteile. Die Veränderung des Lebensunterhalts bleibt dadurch mit dem bisherigen Machtumfeld verbunden, obwohl Kuo einen anderen Weg einschlagen will.
 
-Merksatz: Der Nachtclub verbindet die Sängerin mit dem Versuch eines legalen Neubeginns.
 
 - Ein Warenhaus: Ein Warenhaus ist nicht das ausgewählte Geschäftsmodell.
 - Ein Restaurant: Ein Restaurant wird nicht als dieses neue gemeinsame Geschäft gegründet.
@@ -1525,7 +1458,6 @@ Welche falsche Vorstellung hat Madame Kaos (Gua Ah-leh) Tochter in „Canton God
 
 Madame Kao (Gua Ah-leh) unterstützt ihre Tochter Belle (Gloria Yip) in Shanghai mit den geringen Einnahmen aus dem Blumenverkauf. Zugleich lässt sie die Tochter glauben, dass sie in Hongkong als reiche Gesellschaftsdame lebt. Der angekündigte Besuch mit Verlobtem und dessen Vater bedroht diese Täuschung. Ihre Angst betrifft nicht allein das eigene Ansehen: Sie fürchtet, dass ihre wirkliche Armut die Zukunft der Tochter beschädigen könnte.
 
-Merksatz: Die verborgene Armut wird durch den angekündigten Besuch zur Krise.
 
 - Sie halte sich als wohlhabende Gesellschaftsdame in Hongkong auf: Die Tochter glaubt, ihre Mutter lebe als reiche Gesellschaftsdame.
 - Sie arbeite als Leiterin einer angesehenen Schule: Eine Schulleiterinnenrolle hat die Mutter ihr nicht vermittelt.
@@ -1547,7 +1479,6 @@ Was überzeugt Tiger (Ko Chun-hsiung) in „Canton Godfather“ davon, dass Kuo 
 
 Fei (Lo Lieh) behauptet gegenüber Tiger (Ko Chun-hsiung), Kuo (Jackie Chan) habe dessen Männer töten lassen. Tatsächlich waren sie nur gefangen gehalten worden. Als sie zurückkehren, bricht die Beschuldigung zusammen. Tiger erkennt den Streit innerhalb von Kuos eigener Bande und lässt ihn mit Fei austragen. Die Ankunft der vermeintlich Toten verändert also die Kräfteverhältnisse, bevor der Held die letzte körperliche Auseinandersetzung überhaupt gewonnen hat.
 
-Merksatz: Die Vermissten widerlegen den Mordvorwurf durch ihre Rückkehr.
 
 - Die Polizei legt die Geständnisse der wirklichen Mörder vor: Ein polizeiliches Mördergeständnis ist nicht die entscheidende Entlastung.
 - Die Männer kehren lebend zurück: Die Rückkehr der angeblich ermordeten Männer widerlegt den Verdacht unmittelbar.
@@ -1569,7 +1500,6 @@ Wer kommt am Ende von „Canton Godfather“ zur Feier für Madame Kao (Gua Ah-l
 
 Kuo (Jackie Chan) hat zunächst geplant, seine Leute als Würdenträger auftreten zu lassen. Nach den entstandenen Schwierigkeiten verwirft er diese Lösung und überzeugt echte Mitglieder der Hongkonger Gesellschaft, zur Feier zu kommen. Madame Kao (Gua Ah-leh) steht kurz davor, ihre Armut offenzulegen, als die Gäste eintreffen. Die Hilfe wird somit von einer kriminell abgesicherten Täuschung zu einer gemeinschaftlichen Geste, die ihre Würde vor der Familie bewahrt.
 
-Merksatz: Die wirklichen Würdenträger ersetzen die falschen Gäste.
 
 - Bandenmitglieder als verkleidete Würdenträger: Die zunächst geplante Schauspielerei der Bande wird aufgegeben.
 - Polizisten als verkleidete Geschäftsleute: Verkleidete Polizeibeamte ersetzen die Gäste nicht.
@@ -1591,7 +1521,6 @@ In welchem Jahr wurde „Canton Godfather“ als Miracles mit Jackie Chan erstma
 
 Canton Godfather erschien 1989. Frank Capras Pocketful of Miracles, den 88 Films als Vorlage nennt, war bereits 1961 veröffentlicht worden, 28 Jahre früher. Das AFI datiert Capras Film und beschreibt dessen eigene Verbindung zu Lady for a Day. Chan überträgt die Geschichte um eine arme Verkäuferin und ihre vorgetäuschte gesellschaftliche Stellung ins Hongkong der dreißiger Jahre. Das Handlungsjahrzehnt bleibt dabei deutlich vom wirklichen Veröffentlichungsjahr des neuen Films getrennt.
 
-Merksatz: 1961 Vorlage, 1989 Neuinterpretation: 28 Jahre Abstand.
 
 - 1985: 1985 liegt vor diesem Film.
 - 1987: 1987 ist nicht sein Erstjahr.
@@ -1613,7 +1542,6 @@ Wer führte bei „Canton Godfather“ als Miracles mit Anita Mui und Gua Ah-leh
 
 Jackie Chan übernimmt die Hauptrolle und führt Regie. Criterion beschreibt den Film als Verbindung von Gangstergeschichte, Musik, Actionkomödie und sentimentaler Hilfe für eine arme Verkäuferin. Anita Muis Gesangsauftritte gehören dabei ebenso zum Aufbau des Films wie der Kampf in der Seilfabrik. Die Regiearbeit umfasst somit mehr als das Gestalten spektakulärer Stunts: Sie verbindet die beiden persönlichen Geschichten mit einem aufwendig rekonstruierten gesellschaftlichen Umfeld.
 
-Merksatz: Jackie Chan führt eine Verbindung von Gangsterhandlung, Musik und Hilfsgeschichte zusammen.
 
 - Jackie Chan: Criterion führt den Film ausdrücklich als Regiearbeit von Jackie Chan.
 - Sammo Hung: Sammo Hung trägt nicht den Hauptregiecredit.
@@ -1639,7 +1567,6 @@ Welchen Schmuggel untersucht Jackie (Jackie Chan) in „Jackie Chan’s First St
 
 Jackie (Jackie Chan) soll zunächst nur die Bewegungen von Natasha (Nonna Grishayeva) beobachten. Die scheinbar begrenzte Aufgabe führt ihn jedoch zu Jackson Tsui (Jackson Lou), der mit einem nuklearen Sprengkopf handelt. Der Fall weitet sich über mehrere Länder aus. Weil Dienste und kriminelle Interessen ineinandergreifen, erkennt Jackie erst nach und nach, wem seine Ermittlungen nutzen.
 
-Merksatz: Ein Überwachungsauftrag wird zur Suche nach einer Atomwaffe.
 
 - Gefälschte militärische Flugzeugteile: Flugzeugteile sind nicht die gesuchte Schmuggelware.
 - Entwendete chemische Kampfstoffe: Chemische Kampfstoffe stehen nicht im Zentrum.
@@ -1661,7 +1588,6 @@ Wo arbeitet Annie Tsui (Annie Wu), die Jackie (Jackie Chan) in „Jackie Chan’
 
 Annie Tsui (Annie Wu) ist die Schwester von Jackson Tsui (Jackson Lou). Jackie (Jackie Chan) gibt sich zunächst als Freund ihres Bruders aus, um Zugang zur Familie zu finden. Ihr Arbeitsplatz wird später zum gefährlichen Schauplatz des Falls: Der gesuchte Sprengkopf ist dort versteckt, und die Verfolgung führt bis in das Wasserbecken zwischen die Haie.
 
-Merksatz: Annies Arbeitsplatz wird zum Schauplatz des Unterwasserkampfs.
 
 - In einem Hafenbüro für Frachtschiffe: Das Hafenbüro ist nicht ihr Arbeitsplatz.
 - In einem Krankenhauslabor: Ein Labor gehört nicht zu ihrer Beschäftigung.
@@ -1683,7 +1609,6 @@ Wie tarnt Jackson Tsui (Jackson Lou) den Sprengkopf in „Jackie Chan’s First 
 
 Jackson Tsui (Jackson Lou) übergibt Annie Tsui (Annie Wu) die gefährliche Ladung, während er sich im Krankenhaus versteckt. Sie bringt den getarnten Sprengkopf an ihren Arbeitsplatz. Die Tarnung erklärt, warum ein gewöhnlich wirkender Behälter zum Mittelpunkt des Konflikts wird. Jackie (Jackie Chan) muss die Ladung schließlich aus dem Haibecken holen, während die Gegner nach ihr suchen.
 
-Merksatz: Ein Sauerstoffbehälter verbirgt die Atomwaffe.
 
 - Als kleinen Sauerstoffbehälter: Jackson verwendet einen Sauerstoffbehälter.
 - Als Feuerlöscher: Ein Feuerlöscher ist nicht die verwendete Hülle.
@@ -1705,7 +1630,6 @@ Was entdeckt Jackie (Jackie Chan) in „Jackie Chan’s First Strike“ über di
 
 Jackson Tsui (Jackson Lou) warnt Jackie (Jackie Chan) vor den Gegenständen, die er vom russischen Dienst erhalten hat. Gregor Yegorov (Yuriy Petrov) benutzt seine offizielle Stellung für eigene Geschäfte und kontrolliert die Ermittlungen. Die Entdeckung verändert Jackies Vertrauen in den vermeintlichen Auftraggeber. Sein Versuch, den Vorgang den Vorgesetzten zu melden, bringt ihn anschließend selbst in Gefahr.
 
-Merksatz: Die Dienstausrüstung dient heimlicher Überwachung.
 
 - Sie tragen falsche amtliche Seriennummern.: Seriennummern sind nicht die entscheidende Entdeckung.
 - Sie enthalten versteckte Abhörgeräte.: Die Gegenstände enthalten Abhörtechnik.
@@ -1727,7 +1651,6 @@ Warum arbeitete Jackson Tsui (Jackson Lou) in „Jackie Chan’s First Strike“
 
 Jackson Tsui (Jackson Lou) erklärt Jackie (Jackie Chan), dass Gregor Yegorov (Yuriy Petrov) ihn während eines früheren CIA-Auftrags gefangen genommen hatte. Jackson erscheint als zwischen Diensten wechselnder Agent, dient tatsächlich aber Gregors privaten kriminellen Plänen. Diese Unterscheidung macht die verschachtelte Loyalität verständlich: Der russische Dienst und der persönliche Nutzen eines seiner Offiziere sind nicht gleichzusetzen.
 
-Merksatz: Hinter Jacksons Dienstwechsel steht Gregors private Erpressung.
 
 - Jackson hatte Gregor als verdeckten CIA-Kontakt angeworben.: Die Verbindung begann nicht als von Jackson geleitete CIA-Operation.
 - Jackson wollte einen gefangenen Angehörigen freikaufen.: Ein gefangener Angehöriger ist nicht die erklärte Ursache.
@@ -1749,7 +1672,6 @@ Welche Landschaft stellte laut dem ABC-Bericht in „Jackie Chan’s First Strik
 
 Der ABC-Bericht verbindet Erinnerungen des Stuntbeteiligten Steve Lee mit der Analyse des Filmkenners Nicholas Langdon. Lee schildert die Dreharbeiten im australischen Falls Creek im Winter 1995. Langdon beschreibt, wie ukrainische Fahnen und kyrillische Beschriftungen den Ort im Film verändern. Der tatsächliche Drehort bleibt für ihn dennoch erkennbar. Die beiden Perspektiven unterscheiden die Produktionserfahrung vom Vergleich zwischen dargestellter und eingesetzter Landschaft.
 
-Merksatz: Australischer Schnee spielte die ukrainische Berglandschaft.
 
 - Whistler in den kanadischen Bergen: Whistler ist nicht der dokumentierte Drehort.
 - Queenstown in Neuseeland: Queenstown steht nicht für diese Schneeszenen.
@@ -1771,7 +1693,6 @@ In welchem Jahr wurde „Jackie Chan’s First Strike“ erstmals veröffentlich
 
 Die erste Police Story erschien 1985, First Strike folgte 1996: elf Jahre liegen zwischen dem Beginn der Reihe und dieser international angelegten Fortsetzung. Jackie Chan bleibt ihr Hauptdarsteller, während Stanley Tong die Regie übernimmt. Die Ermittlungen verlassen das vertraute Hongkong. Der amerikanische Start von 1997 gehört zur späteren Verwertung und verschiebt das Erstjahr nicht.
 
-Merksatz: Police Story 1985 → First Strike 1996: elf Jahre.
 
 - 1996: 1996 begann der Hongkong-Start.
 - 1994: 1994 liegt zwei Jahre vor dem Erststart.
@@ -1793,7 +1714,6 @@ Wer führte bei „Jackie Chan’s First Strike“ Hauptregie?
 
 Stanley Tong inszenierte den Film und arbeitete am Drehbuch mit. Jackie Chan spielt den ermittelnden Polizisten, Barbie Tung produzierte. Der zeitgenössische Unternehmensprospekt von STAREASTnet nennt Tong ausdrücklich als Regisseur von First Strike und Rumble in the Bronx. Der Credit wird damit unabhängig von Chans Bekanntheit als Filmemacher bestätigt; Hauptrolle und Hauptregie bleiben getrennte Aufgaben.
 
-Merksatz: Stanley Tong führt Regie, Jackie Chan spielt die Hauptrolle.
 
 - Gordon Chan: Gordon Chan führte hier nicht Hauptregie.
 - Stanley Tong: Stanley Tong ist der Hauptregisseur.
@@ -1819,7 +1739,6 @@ Warum wachsen Ma Yau und Bok Min (beide Jackie Chan) in „Twin Dragons“ getre
 
 Crazy Kung (Kirk Wong) entkommt im Krankenhaus und nimmt einen der neugeborenen Brüder mit. Ma Yau (Jackie Chan) wächst mit den Eltern in Amerika auf, Bok Min (Jackie Chan) bleibt in Hongkong zurück. Beide wissen zunächst nichts voneinander. Die gewaltsame Trennung erklärt ihre verschiedenen Lebenswege und bereitet die späteren Verwechslungen vor, ohne dass ihre Fähigkeiten tatsächlich austauschbar wären.
 
-Merksatz: Die Entführung trennt die Brüder vor ihren verschiedenen Lebenswegen.
 
 - Die Eltern geben einen Sohn zur Adoption frei.: Eine geplante Adoption verursacht sie nicht.
 - Ein Erdbeben trennt die Familie auf der Heimreise.: Ein Erdbeben ist nicht der Auslöser.
@@ -1841,7 +1760,6 @@ Was bringt Ma Yau (Jackie Chan) in „Twin Dragons“ nach Hongkong zurück?
 
 Ma Yau (Jackie Chan) ist ein erfolgreicher Pianist und Dirigent geworden. Seine Reise für ein Konzert führt ihn in dieselbe Stadt wie Bok Min (Jackie Chan), der ganz andere Fähigkeiten besitzt. Der Verleihtext von 88 Films betont, dass beide in die Angelegenheiten des anderen geraten. Das berufliche Ereignis wird zum Anlass, ihre bislang getrennten Lebensgeschichten zusammenzuführen.
 
-Merksatz: Das Konzert bringt den Musiker in die Welt seines Bruders.
 
 - Ein Konzert, das er dirigieren soll: Ma Yau reist für ein Konzert an.
 - Eine Schallplattenaufnahme im Studio: Eine Studioaufnahme ist nicht der Anlass.
@@ -1863,7 +1781,6 @@ Welche musikalische Aufgabe übernimmt Bok Min (Jackie Chan) in „Twin Dragons�
 
 Bok Min (Jackie Chan) kann kämpfen und fahren, verfügt jedoch nicht über die musikalische Ausbildung von Ma Yau (Jackie Chan). Trotzdem landet er am Dirigentenpult. Die Szene baut ihre Komik auf dem Unterschied zwischen ähnlichem Aussehen und fehlender Fachkenntnis auf. Während der Musiker anderswo in Schwierigkeiten gerät, wird die falsche Person vor einem Publikum für den richtigen Künstler gehalten.
 
-Merksatz: Gleiches Gesicht bedeutet nicht dieselben Fähigkeiten.
 
 - Er spielt das Klaviersolo.: Die Vertauschung führt ihn nicht zum Klaviersolo.
 - Er dirigiert das Orchester.: Bok Min landet am Dirigentenpult.
@@ -1885,7 +1802,6 @@ Womit zwingen die Gangster Ma Yau (Jackie Chan) in „Twin Dragons“, den verse
 
 Ma Yau (Jackie Chan) hat einen für Crazy Kung (Kirk Wong) bestimmten Koffer versehentlich mitgenommen. Die Gangster entführen Tarzan (Teddy Robin), den Freund von Bok Min (Jackie Chan), um die Rückgabe zu erzwingen. Dadurch reichen die Folgen der Verwechslung über die Brüder hinaus. Sie müssen gemeinsam handeln, weil ihre getrennten Lebenswelten durch dieselbe Geiselnahme verbunden sind.
 
-Merksatz: Ein vertauschter Koffer bringt Bok Mins Freund in Gefahr.
 
 - Sie entführen Barbara (Maggie Cheung).: Barbara ist nicht die hierfür entführte Geisel.
 - Sie entführen Tong Sum (Nina Li Chi).: Die Kofferforderung läuft nicht über Tong Sum.
@@ -1907,7 +1823,6 @@ Wie endet Crazy Kungs (Kirk Wong) Flucht im Fahrzeugtestzentrum von „Twin Drag
 
 Ma Yau und Bok Min (beide Jackie Chan) stellen sich den Gangstern in einem Fahrzeugtestzentrum. Die dort vorhandene Technik wird Teil des Kampfes und der Fluchtversuche. Crazy Kung (Kirk Wong) gerät in einen Crashtestwagen, dessen Fahrt tödlich endet. Der Schauplatz liefert damit die Auflösung des Gangsterkonflikts und verbindet die Fahrzeugwelt eines Bruders mit dem gemeinsamen Handeln beider.
 
-Merksatz: Im Testzentrum wird der Crashtestwagen zur letzten Falle.
 
 - Unter einem herabstürzenden Prüfgewicht: Ein Prüfgewicht verursacht nicht sein Ende.
 - Bei einem Lastwagensturz in eine Grube: Ein Lastwagensturz ist nicht die Schlussaktion.
@@ -1929,7 +1844,6 @@ Welchen Unterschied dokumentiert 88 Films zwischen den Fassungen von „Twin Dra
 
 88 Films präsentiert beide Fassungen getrennt: Die Hongkong-Version enthält kantonesische Tonmischungen, die kürzere Dimension-Version eine englische Bearbeitung. Die identischen Gesichter der Brüder entstehen weiter durch Jackie Chans Doppelrolle. Der Fassungsvergleich erklärt, warum Zuschauer unterschiedliche Laufzeiten und Rollennamen erinnern können. Eine spätere internationale Bearbeitung ist dabei keine Neuverfilmung mit anderer Besetzung und verändert das Erstjahr des Originals nicht.
 
-Merksatz: Dieselbe Doppelrolle, verschiedene Schnitt- und Sprachfassungen.
 
 - Die Dimension-Fassung ist kürzer und englisch bearbeitet.: 104 gegenüber 89 Minuten und verschiedene Sprachfassungen sind dokumentiert.
 - Die Dimension-Fassung ist länger und kantonesisch vertont.: Die Dimension-Fassung ist weder länger noch die kantonesische Hauptfassung.
@@ -1951,7 +1865,6 @@ In welchem Jahr erschien „Twin Dragons“ erstmals?
 
 Police Story von 1985 zeigt Jackie Chan als Polizisten, Twin Dragons von 1992 dagegen in zwei unterschiedlichen Lebenswelten zugleich. Zwischen diesen Filmen liegen sieben Jahre. Die Doppelrolle erweitert die körperliche Komik um Verwechslungen, deren Folgen beide Brüder zusammenführen. Der amerikanische Kinostart von 1999 liegt wiederum sieben Jahre nach dem Hongkong-Original und gilt nicht als erste Veröffentlichung.
 
-Merksatz: Police Story 1985 → Twin Dragons 1992: sieben Jahre.
 
 - 1989: 1989 liegt drei Jahre vor dem Erststart.
 - 1992: 1992 ist das Erstjahr.
@@ -1973,7 +1886,6 @@ Welches Team führte bei „Twin Dragons“ Hauptregie?
 
 Der spanische ICAA-Katalog nennt Ringo Lam und Tsui Hark als Regieteam und führt den Film unter Hongkong und 1992. Jackie Chan spielt beide Brüder. Mehrere bekannte Filmemacher haben Gastauftritte, darunter John Woo und Tsui Siu-ming als Geistliche. Diese Rollen sind vom Hauptregiecredit zu trennen; ihre Anwesenheit vor der Kamera erweitert das ausgewiesene Regieteam nicht.
 
-Merksatz: Twin Dragons: Ringo Lam und Tsui Hark führen gemeinsam Regie.
 
 - John Woo und Tsui Siu-ming: Die Gastauftritte dieses Paars bedeuten keine Hauptregie.
 - Sammo Hung und Corey Yuen: Hung und Yuen sind nicht das Regieteam.
@@ -1999,7 +1911,6 @@ Welche Beziehung verbindet Dragon (Jackie Chan) und Cowboy (Mars) in „Dragon L
 
 Dragon (Jackie Chan) und Cowboy (Mars) verbringen ihre Zeit lieber mit Spielen und der Suche nach Abenteuer als mit den Erwartungen ihrer Väter. Miramax beschreibt sie als lebenslange Freunde, die auch um dieselbe junge Frau konkurrieren. Ihre Rivalität hebt die Freundschaft nicht auf. Als sie mit einem Schmugglerring zusammenstoßen, müssen sie sich gemeinsam gegen einen deutlich gefährlicheren Gegner behaupten.
 
-Merksatz: Freundschaft besteht vor Rivalität und Schmuggelkonflikt.
 
 - Sie sind seit ihrer Kindheit befreundet.: Beide sind langjährige Freunde.
 - Sie sind Brüder mit verschiedenen Vätern.: Eine Verwandtschaft ist nicht ihre Verbindung.
@@ -2021,7 +1932,6 @@ Was schmuggelt die Bande in „Dragon Lord“?
 
 Dragon (Jackie Chan) und Cowboy (Mars) geraten in die Geschäfte einer Bande, die chinesische Antiquitäten an ausländische Käufer verkaufen will. Die Verleihbeschreibung von 88 Films hebt den Abtransport kultureller Gegenstände hervor. Dadurch wächst die Gefahr über eine persönliche Rivalität hinaus. Der Gegner verteidigt ein lukratives Geschäft und verfolgt auch Menschen aus den eigenen Reihen, die sich dagegen stellen.
 
-Merksatz: Gestohlene Antiquitäten machen aus einem Abenteuer einen Schmuggelkonflikt.
 
 - Gestohlene Waffen: Waffen bilden nicht die Schmuggelware.
 - Chinesische Antiquitäten: Die Bande handelt mit gestohlenen Kulturgütern.
@@ -2043,7 +1953,6 @@ Wie stößt Dragon (Jackie Chan) in „Dragon Lord“ auf das Versteck der Schmu
 
 Dragon (Jackie Chan) will einen Liebesbrief mithilfe eines Flugdrachen zustellen. Der Drachen entgleitet ihm und landet auf dem Dach des Verstecks der Schmuggler. Beim Versuch, ihn zurückzuholen, entdeckt Dragon deren Vorhaben. Eine private Liebeswerbung löst damit die Begegnung mit dem Verbrechen aus. Die Entdeckung erfolgt zufällig, bevor er die Tragweite des geplanten Antiquitätendiebstahls vollständig überblicken kann.
 
-Merksatz: Der Liebesbrief nimmt einen Umweg zum Schmugglerversteck.
 
 - Er verfolgt eine gestohlene Pferdekutsche.: Eine Pferdekutsche führt ihn nicht dorthin.
 - Er sucht einen entlaufenen Hund.: Ein entlaufenes Tier verursacht die Entdeckung nicht.
@@ -2065,7 +1974,6 @@ Warum wird Hoi (Chan Wai-man) in „Dragon Lord“ von den eigenen Leuten verfol
 
 Hoi (Chan Wai-man) gehört zum Umfeld der Schmuggler, unterstützt den Verkauf chinesischer Antiquitäten jedoch nicht. Nach der Beschreibung von 88 Films schickt der Anführer deshalb Männer aus, um ihn zum Schweigen zu bringen. Dragon (Jackie Chan) und Cowboy (Mars) geraten auf seine Seite. Der Konflikt zeigt, dass die Bande nicht geschlossen hinter ihrem Geschäft steht und Widerstand auch von innen kommt.
 
-Merksatz: Widerspruch im Schmugglerring bringt Hoi in Gefahr.
 
 - Er behält den gesamten Verkaufserlös.: Ein unterschlagener Erlös ist nicht der Auslöser.
 - Er liefert falsche Antiquitäten an die Käufer.: Gefälschte Ware verursacht den Konflikt nicht.
@@ -2087,7 +1995,6 @@ Welche Mannschaftssportart zeigt „Dragon Lord“ in einer ausgedehnten Spielsz
 
 88 Films führt für die Mannschaftsszene ausdrücklich eine Untertiteloption zum Jianzi- beziehungsweise Shuttlecock-Spiel auf. Sie erlaubt, die Beschriftungen zu reduzieren und dem Bewegungsablauf leichter zu folgen. Dragon (Jackie Chan) und Cowboy (Mars) stehen dabei im Mittelpunkt einer sportlichen Vorführung. Der Verleih behandelt die Szene als eigenständigen Bestandteil der Choreografie und nicht bloß als Übergang zur späteren Schmuggelhandlung.
 
-Merksatz: Der Federball verbindet Mannschaftsspiel und Bewegungsinszenierung.
 
 - Jianzi mit einem Federball: 88 Films bezeichnet die Szene als Jianzi- beziehungsweise Shuttlecock-Spiel.
 - Cuju mit einem Lederball: Ein Cuju-Spiel ist hier nicht gemeint.
@@ -2109,7 +2016,6 @@ Welche Fassung von „Dragon Lord“ bezeichnet 88 Films als von Jackie Chan end
 
 88 Films unterscheidet den 96-minütigen Hongkong-Schnitt von einer 103-minütigen früheren Arbeitsfassung. Die längere Version enthält zusätzliches beziehungsweise alternatives Material und kam in ausgewählten Gebieten heraus. Jackie Chans endgültige Freigabe schreibt der Verleih dem kürzeren Hongkong-Schnitt zu. Der Vergleich zeigt, warum eine längere Laufzeit allein kein verlässlicher Hinweis auf eine spätere Regiefassung oder einen bevorzugten Endschnitt ist.
 
-Merksatz: Länger bedeutet hier früherer Arbeitsstand, nicht endgültige Freigabe.
 
 - Die 103-minütige frühere Arbeitsfassung: Die 103-minütige Version beschreibt er als frühere Arbeitsfassung.
 - Die 96-minütige Hongkong-Fassung: Der Verleih ordnet die endgültige Freigabe dem 96-minütigen Hongkong-Schnitt zu.
@@ -2131,7 +2037,6 @@ In welchem Jahr erschien „Dragon Lord“ erstmals?
 
 The Young Master von 1980 und Dragon Lord von 1982 gehören zu Jackie Chans frühen Regiearbeiten. Zwischen beiden liegen zwei Jahre. Der zweite Film kombiniert Mannschaftsspiele und eine Schmuggelhandlung mit körperlicher Komik. Das Hong Kong Film Archive nennt The Young Master ausdrücklich als Werk von 1980; die Miramax-Filmseite weist Dragon Lord mit 1982 und Jackie Chan als Regisseur aus.
 
-Merksatz: The Young Master 1980 → Dragon Lord 1982: zwei Jahre.
 
 - 1979: 1979 liegt drei Jahre davor.
 - 1980: 1980 gehört zu The Young Master.
@@ -2153,7 +2058,6 @@ Wer führte bei „Dragon Lord“ Hauptregie?
 
 Miramax weist Jackie Chan als Regisseur aus und nennt ihn zugleich unter den Hauptdarstellern. Der Film verbindet seine Rolle als Dragon mit der Gestaltung von Spielsequenzen, Verfolgungen und Kämpfen. Der Verleih 88 Films dokumentiert außerdem einen von Chan endgültig genehmigten Hongkong-Schnitt. Regiecredit, Hauptrolle und Schnittfreigabe sind unterschiedliche Aufgaben, die hier denselben Filmemacher betreffen.
 
-Merksatz: Jackie Chan verantwortet Hauptrolle und Hauptregie.
 
 - Sammo Hung: Sammo Hung führte hier nicht Hauptregie.
 - Yuen Woo-ping: Yuen Woo-ping ist nicht der Hauptregisseur.
@@ -2179,7 +2083,6 @@ Welchen Auftrag erhält Yun Fei (Tan Tao-liang) in „Hand of Death“?
 
 Shih Shao-feng (James Tien) hat die Shaolin verraten und arbeitet mit der Qing-Herrschaft zusammen. Yun Fei (Tan Tao-liang) überlebt die Verfolgung und erhält den Auftrag, sich ihm entgegenzustellen. Arrow stellt diese Mission in seiner Filmbeschreibung ausdrücklich heraus. Der Gegner kennt die frühere Gemeinschaft von innen, weshalb der Kampf mehr verlangt als die Wiederholung ihrer vertrauten Methoden.
 
-Merksatz: Ein ehemaliger Verbündeter wird zum Gegner der Shaolin.
 
 - Den verschollenen Abt zurückzubringen: Der Auftrag ist keine Suche nach dem Abt.
 - Den Verräter an den Shaolin aufzuhalten: Yun Fei soll gegen den Verräter vorgehen.
@@ -2201,7 +2104,6 @@ Welches Handwerk übt Tan Feng (Jackie Chan) in „Hand of Death“ aus?
 
 Tan Feng (Jackie Chan) begegnet Yun Fei (Tan Tao-liang) nach dessen gescheitertem Angriff auf den Gegner. Der Schmied hilft ihm und wird Teil des Bündnisses gegen Shih Shao-feng (James Tien). Arrow beschreibt ihn als fähigen Schmied, der kämpfen kann. Die Unterstützer kommen somit aus verschiedenen Lebenswegen; ihre gemeinsame Sache verlangt keine identische Herkunft oder Stellung innerhalb der Shaolin-Gemeinschaft.
 
-Merksatz: Der Schmied wird zum Verbündeten des Shaolin-Kämpfers.
 
 - Er ist Schneider.: Schneiderei ist nicht sein Beruf.
 - Er ist Zimmermann.: Er wird nicht als Zimmermann eingeführt.
@@ -2223,7 +2125,6 @@ Woran scheitert Yun Feis (Tan Tao-liang) erster Angriff in „Hand of Death“?
 
 Yun Fei (Tan Tao-liang) setzt beim ersten Angriff auf die ihm vertrauten Shaolin-Techniken. Shih Shao-feng (James Tien) besitzt jedoch eine Gegenmethode und setzt eine eiserne Klaue ein. Yun Fei überlebt die Niederlage, muss seinen nächsten Angriff aber anders vorbereiten. Die Szene macht die Kenntnisse des Verräters zum praktischen Vorteil und erklärt, weshalb Mut allein für die Mission nicht ausreicht.
 
-Merksatz: Der Verräter kennt die vertrauten Techniken und hat eine Gegenmethode.
 
 - Der Gegner vergiftet ihn vor dem Duell.: Eine vorherige Vergiftung verursacht diese Niederlage nicht.
 - Sein Begleiter vertauscht heimlich die Waffen.: Ein Waffentausch ist nicht der Auslöser.
@@ -2245,7 +2146,6 @@ Warum benutzt der Wanderer (Yeung Wai) in „Hand of Death“ zunächst sein Sch
 
 Der Wanderer (Yeung Wai) ist ein erfahrener Schwertkämpfer, hat seine Klinge aber nach einer persönlichen Tragödie aufgegeben. Er tötete versehentlich die Frau, die er liebte. Yun Fei (Tan Tao-liang) und Tan Feng (Jackie Chan) gewinnen ihn dennoch für ihre gemeinsame Sache. Sein Widerstand entsteht aus Schuld und Erinnerung, weshalb die Entscheidung zur Unterstützung über die bloße Einschätzung eines Kampfrisikos hinausgeht.
 
-Merksatz: Der Schwertverzicht geht auf persönliche Schuld zurück.
 
 - Er hat versehentlich die geliebte Frau getötet.: Der versehentliche Tod seiner Geliebten hat ihn geprägt.
 - Er hat seinem sterbenden Meister Gewaltlosigkeit versprochen.: Ein Versprechen an den Meister ist nicht sein Grund.
@@ -2267,7 +2167,6 @@ Wie bereiten die Verbündeten in „Hand of Death“ den entscheidenden Angriff 
 
 Yun Fei (Tan Tao-liang) und seine Verbündeten teilen ihre Kräfte, um den Gegner nicht geschlossen angreifen zu müssen. Die Ablenkung bindet insbesondere Männer um Tu Ching (Sammo Hung). Tan Feng (Jackie Chan) beteiligt sich trotz der Gefahr an diesem Vorgehen. Der Plan macht die Zusammenarbeit der unterschiedlichen Kämpfer konkret; ihr Beitrag wird nicht auf das abschließende Duell des Haupthelden reduziert.
 
-Merksatz: Getrennte Angriffe schwächen die geschlossene Verteidigung.
 
 - Sie tauschen die Klingen der Leibwachen gegen stumpfe Waffen.: Ein geheimer Klingentausch ist nicht der Plan.
 - Getrennte Gruppen lenken Teile der gegnerischen Truppe ab.: Die Gruppe nutzt getrennte Angriffe als Ablenkung.
@@ -2289,7 +2188,6 @@ Welche Produktionsaufgabe nennt Arrow für den als Hung Chin-pao aufgeführten S
 
 Arrow erläutert die unterschiedlichen Namensformen im Vorspann: John Woo erscheint als Wu Yu-sheng, Jackie Chan als Chen Yuen-lung und Sammo Hung als Hung Chin-pao. Hung choreografierte die Kämpfe und spielt Tu Ching. Diese Doppelaufgabe verbindet einen Auftritt mit der Gestaltung der körperlichen Auseinandersetzungen. Sie macht ihn jedoch nicht zum zusätzlichen Hauptregisseur; diesen Credit weist Arrow John Woo zu.
 
-Merksatz: Hung Chin-pao bezeichnet Sammo Hung: Auftritt und Kampfchoreografie.
 
 - Kameraarbeit: Kameraarbeit ist nicht der hier belegte Credit.
 - Filmmontage: Der belegte Credit bezeichnet nicht den Filmschnitt.
@@ -2311,7 +2209,6 @@ In welchem Jahr erschien „Hand of Death“ erstmals?
 
 John Woo inszenierte Hand of Death 1976 als historischen Kampfkunstfilm. A Better Tomorrow von 1986 versetzt seine Figuren dagegen in eine moderne Gangsterwelt. Zwischen beiden Filmen liegen zehn Jahre. Der Vergleich ordnet eine frühe Arbeit innerhalb seiner Laufbahn ein, ohne die beiden Handlungen gleichzusetzen. Arrow nennt 1976 ausdrücklich als Erstjahr der Veröffentlichung durch Golden Harvest.
 
-Merksatz: Hand of Death 1976 → A Better Tomorrow 1986: zehn Jahre.
 
 - 1973: 1973 liegt drei Jahre davor.
 - 1978: 1978 liegt zwei Jahre danach.
@@ -2333,7 +2230,6 @@ Wer führte bei „Hand of Death“ Hauptregie?
 
 Arrow bezeichnet Wu Yu-sheng ausdrücklich als John Woo und ordnet ihm Buch und Regie zu. Jackie Chan tritt unter Chen Yuen-lung auf; Sammo Hung ist als Hung Chin-pao für Kampfchoreografie und einen Auftritt beteiligt. Diese Namensformen stammen aus einer frühen Phase ihrer Laufbahnen. Das Hong Kong Film Archive bestätigt auch Chans damaligen Künstlernamen, der sich später zu Jackie Chan änderte.
 
-Merksatz: Wu Yu-sheng ist der Hauptregisseur John Woo.
 
 - John Woo: John Woo ist der Hauptregisseur.
 - Lo Wei: Lo Wei führte diesen Film nicht Hauptregie.
@@ -2359,7 +2255,6 @@ Vor welchem historischen Konflikt spielt „The Warlords“?
 
 Pang Qingyun (Jet Li) überlebt eine vernichtende Niederlage während des Taiping-Aufstands. Er trifft auf Zhao Erhu (Andy Lau) und Jiang Wuyang (Takeshi Kaneshiro), die mit einer verarmten Gemeinschaft leben. Das Qing-Reich bildet den politischen Rahmen für ihre spätere militärische Laufbahn. Media Asia verortet den Stoff ausdrücklich im 19. Jahrhundert; die Handlung verbindet den Krieg mit persönlicher Bindung, Hunger und wachsendem Machtstreben.
 
-Merksatz: Die drei Männer steigen im Krieg des Qing-Reichs auf.
 
 - Dem Boxeraufstand gegen ausländischen Einfluss: Der Boxeraufstand liegt später.
 - Dem Bürgerkrieg zwischen Kommunisten und Nationalisten: Der Konflikt spielt lange vor diesem Bürgerkrieg.
@@ -2381,7 +2276,6 @@ Was verbindet die drei Hauptfiguren in „The Warlords“ vor ihrer gemeinsamen 
 
 Pang Qingyun (Jet Li), Zhao Erhu (Andy Lau) und Jiang Wuyang (Takeshi Kaneshiro) schließen einen Bund, bevor sie gemeinsam Soldaten führen. Der Schwur verpflichtet sie zur Treue und macht ihre spätere Entwicklung zu einem Konflikt zwischen persönlicher Bindung und politischer Macht. Magnolia stellt diesen Pakt ins Zentrum seiner Filmbeschreibung. Ihre militärischen Erfolge beseitigen die Unterschiede in ihren Erwartungen jedoch nicht.
 
-Merksatz: Der Schwur bildet den Maßstab für den späteren Verrat.
 
 - Ihre gemeinsame Ausbildung in einer Garnison: Eine gemeinsame Garnisonsausbildung ist nicht die Grundlage.
 - Ihre Verwandtschaft innerhalb derselben Familie: Die Männer sind keine Verwandten.
@@ -2403,7 +2297,6 @@ Warum lässt Pang Qingyun (Jet Li) in „The Warlords“ die bereits zur Aufgabe
 
 Zhao Erhu (Andy Lau) erreicht eine Übergabe, indem er das Überleben der Soldaten von Suzhou zusagt. Pang Qingyun (Jet Li) setzt diese Abmachung außer Kraft, weil er seine begrenzten Lebensmittel nicht mit den Gefangenen teilen will. Jiang Wuyang (Takeshi Kaneshiro) hilft, den Befehl durchzusetzen. Der militärische Erfolg belastet damit den gemeinsamen Bund und zeigt unterschiedliche Vorstellungen von Treue und Verantwortung.
 
-Merksatz: Die Übergabe wird zum Konflikt zwischen Zusage und Versorgung.
 
 - Er will seine knappen Lebensmittel nicht mit ihnen teilen.: Pang begründet das Massaker mit der Versorgungslage.
 - Er erhält einen schriftlichen Hinrichtungsbefehl des Kaisers.: Ein schriftlicher Kaiserbefehl ist nicht der genannte Auslöser.
@@ -2425,7 +2318,6 @@ Welche persönliche Verbindung zwischen Pang Qingyun (Jet Li) und Liansheng (Xu 
 
 Liansheng (Xu Jinglei) ist mit Zhao Erhu (Andy Lau) verbunden, beginnt jedoch eine Affäre mit Pang Qingyun (Jet Li). Die Beziehung verschärft den Gegensatz zwischen Schwur und persönlichem Begehren. Jiang Wuyang (Takeshi Kaneshiro) deutet ihren Einfluss später als Ursache der Zerwürfnisse. Diese Sicht einer Figur erklärt ihr Handeln, ersetzt aber nicht die politischen und militärischen Motive, die den Bund ebenfalls untergraben.
 
-Merksatz: Die Affäre verletzt die Bindung zu Zhao Erhu.
 
 - Sie sind frühere Ehepartner, die sich im Krieg wiedersehen.: Eine frühere Ehe mit Pang besteht nicht.
 - Sie führen eine Affäre, obwohl sie Zhao Erhus Frau ist.: Liansheng ist Zhao Erhus Frau und hat eine Affäre mit Pang.
@@ -2447,7 +2339,6 @@ Welche Entscheidung trifft Pang Qingyun (Jet Li) in „The Warlords“ über Zha
 
 Zhao Erhu (Andy Lau) bleibt eine eigenständige Autorität unter den Soldaten und teilt Pang Qingyuns (Jet Li) wachsende politischen Interessen nicht. Pang lässt seinen Blutsbruder in einen tödlichen Hinterhalt führen. Jiang Wuyang (Takeshi Kaneshiro) erfährt vom Verrat und wendet sich gegen ihn. Die heimliche Beseitigung ersetzt eine offene Auseinandersetzung und macht den Bruch des gemeinsamen Schwurs unumkehrbar.
 
-Merksatz: Politischer Aufstieg endet im angeordneten Hinterhalt gegen den Bruder.
 
 - Er schickt ihn als Gesandten ins Ausland.: Eine Auslandsmission entfernt Zhao nicht aus dem Konflikt.
 - Er übergibt ihm freiwillig das Oberkommando.: Pang verzichtet nicht freiwillig auf sein Oberkommando.
@@ -2469,7 +2360,6 @@ Welcher weitere Angriff trifft Pang Qingyun (Jet Li) bei Jiang Wuyangs (Takeshi 
 
 Jiang Wuyang (Takeshi Kaneshiro) greift Pang Qingyun (Jet Li) wegen des Verrats an Zhao Erhu (Andy Lau) an. Zugleich lassen Pangs politische Gegner ihn durch einen Schützen beseitigen. Jiang vollzieht den letzten Angriff und wird für den Mord verantwortlich gemacht. Die Auflösung verbindet persönliche Vergeltung mit einer weiteren Machtintrige; Pangs Tod lässt sich deshalb nicht allein als Ergebnis eines ungestörten Zweikampfs erklären.
 
-Merksatz: Persönliche Vergeltung trifft auf einen unabhängig vorbereiteten politischen Mord.
 
 - Seine eigene Leibwache greift ihn mit Schwertern an.: Eine angreifende Leibwache ist nicht der weitere Angriff.
 - Ein versteckter Sprengsatz explodiert unter ihm.: Ein Sprengsatz wird nicht eingesetzt.
@@ -2491,7 +2381,6 @@ In welchem Jahr erschien „The Warlords“ erstmals?
 
 The Blood Brothers von 1973 und The Warlords von 2007 behandeln verwandte Motive von militärischem Aufstieg, Blutsbrüderschaft und Verrat. Zwischen den Filmen liegen 34 Jahre. Der Bezug liefert einen zeitlichen Anker, ohne Peter Chans Film als bildgetreue Neuverfilmung festzulegen. Media Asia nennt für seinen Film den Hongkong-Kinostart im Dezember 2007; der chinesische Start erfolgte einen Tag früher.
 
-Merksatz: The Blood Brothers 1973 → The Warlords 2007: 34 Jahre.
 
 - 2007: 2007 ist das Erstjahr.
 - 2004: 2004 liegt drei Jahre davor.
@@ -2513,7 +2402,6 @@ Wer führte bei „The Warlords“ Hauptregie?
 
 Media Asia und der US-Verleih Magnolia weisen Peter Ho-sun Chan als Regisseur aus. Jet Li, Andy Lau und Takeshi Kaneshiro spielen die drei Hauptfiguren. Der Hauptcredit ist von Ching Siu-tungs Actionregie zu unterscheiden. Einzelne Sekundärdatenbanken führen Raymond Yip als Co-Regisseur; die hier verwendete Angabe folgt den gelesenen offiziellen Filmseiten und dokumentiert diese abweichende Zuordnung gesondert.
 
-Merksatz: Der belegte Hauptregiecredit lautet Peter Ho-sun Chan.
 
 - Zhang Yimou: Zhang Yimou führte diesen Film nicht Hauptregie.
 - Peter Chan: Die Primärfilmseiten nennen Peter Chan.
@@ -2539,7 +2427,6 @@ Welche Einrichtung verteidigt Ip Man (Donnie Yen) in „Ip Man 3“ gegen eine e
 
 Ip Man (Donnie Yen) stellt sich Männern entgegen, die das Gelände einer Schule in ihre Gewalt bringen wollen. Frank (Mike Tyson) steht hinter dem Geschäft, während Ma King-sang (Patrick Tam) den Druck vor Ort ausübt. Der US-Verleih Well Go beschreibt diesen Konflikt als Angriff auf Stadt und Gemeinschaft. Die Bedrohung betrifft auch Kinder und verbindet den Kampfkunstmeister unmittelbar mit seiner Nachbarschaft.
 
-Merksatz: Das Schulgelände verbindet Familie und bedrohte Nachbarschaft.
 
 - Das Krankenhaus seiner Frau: Das Krankenhaus ist nicht das Übernahmeziel.
 - Die Werkstatt seines Freundes: Eine Werkstatt wird nicht so verteidigt.
@@ -2561,7 +2448,6 @@ Welche Diagnose erhält Cheung Wing-sing (Lynn Hung), Ip Mans Frau, in „Ip Man
 
 Cheung Wing-sing (Lynn Hung) wird krank, während Ip Man (Donnie Yen) zunächst stark von den äußeren Konflikten beansprucht ist. Die Krebsdiagnose verändert seine Prioritäten und rückt die gemeinsame Zeit in den Mittelpunkt. Er widmet sich seiner Frau und stellt die Herausforderung seines Rivalen zunächst zurück. Der Film stellt damit neben öffentliche Anerkennung und körperliche Stärke eine Grenze, die sich nicht durch einen Kampf überwinden lässt.
 
-Merksatz: Die Diagnose verändert den Stellenwert der gemeinsamen Zeit.
 
 - Krebs: Die Diagnose lautet Krebs.
 - Eine Herzkrankheit: Eine Herzkrankheit ist nicht die Diagnose.
@@ -2583,7 +2469,6 @@ Welche Bedingung stellt Frank (Mike Tyson) Ip Man (Donnie Yen) in „Ip Man 3“
 
 Frank (Mike Tyson) bietet Ip Man (Donnie Yen) eine zeitlich begrenzte körperliche Probe an. Hält Ip Man drei Minuten stand, soll der Streit um die Schule enden. Die Uhr beendet den Kampf, ohne dass ein eindeutiger Knock-out den Ausgang bestimmt. Die Abmachung macht das Überstehen einer Frist entscheidend und unterscheidet diese Auseinandersetzung von einem Turnier mit Punktwertung oder mehreren Runden.
 
-Merksatz: Die Uhr entscheidet über die vereinbarte Gegenleistung.
 
 - Er muss ihn innerhalb einer Minute ausknocken.: Ein schneller Knock-out ist nicht gefordert.
 - Er muss drei Minuten gegen ihn bestehen.: Das Bestehen der drei Minuten genügt.
@@ -2605,7 +2490,6 @@ Warum nimmt Cheung Tin-chi (Zhang Jin) in „Ip Man 3“ einen bezahlten Angriff
 
 Cheung Tin-chi (Zhang Jin) will mit einer eigenen Schule unabhängig werden und seinen Anspruch als Wing-Chun-Meister öffentlich vertreten. Für Geld greift er Tin Ngo-san (Bryan Leung) an, den früheren Lehrer von Ma King-sang (Patrick Tam). Der Auftrag verbindet seinen Ehrgeiz mit dem kriminellen Umfeld. Er ist dadurch weder bloß ein uneigennütziger Helfer noch von Anfang an ausschließlich ein Turnierrivale Ip Mans (Donnie Yen).
 
-Merksatz: Der Schulwunsch führt den Rivalen zu einem bezahlten Angriff.
 
 - Er will eine Entführung seines Sohnes rächen.: Eine Entführung ist nicht sein Auftragmotiv.
 - Er will eine Schuld bei Ma King-sang (Patrick Tam) begleichen.: Eine bestehende Schuld ist nicht die erklärte Motivation.
@@ -2627,7 +2511,6 @@ Was bringt Bruce Lee (Danny Chan) Ip Man (Donnie Yen) in „Ip Man 3“ im Austa
 
 Bruce Lee (Danny Chan) möchte von Ip Man (Donnie Yen) lernen. Als Gegenleistung bringt er ihm das Tanzen bei. Ip Man nutzt die neue Fähigkeit für gemeinsame Zeit mit Cheung Wing-sing (Lynn Hung). Die Nebenhandlung verbindet damit den Austausch zwischen zwei später berühmten Kampfkunstfiguren mit einem privaten Wunsch. Der Film erzählt eine dramatisierte Geschichte; die Szene allein ist kein dokumentarischer Nachweis eines historischen Unterrichts.
 
-Merksatz: Der Unterrichtsaustausch führt vom Kampf zur gemeinsamen Bewegung.
 
 - Boxen: Boxtraining ist nicht der Austausch.
 - Englische Konversation: Sprachunterricht ist nicht die Gegenleistung.
@@ -2649,7 +2532,6 @@ Wie reagiert Cheung Tin-chi (Zhang Jin) in „Ip Man 3“ nach seiner Niederlage
 
 Cheung Tin-chi (Zhang Jin) fordert den Anspruch Ip Mans (Donnie Yen) heraus und stellt seine eigene Schule als maßgebliche Wing-Chun-Tradition dar. Nach dem abschließenden Kampf zerstört er das entsprechende Schild. Die Niederlage verändert damit mehr als die Rangfolge zweier Kämpfer. Ip Man betont den Wert der Menschen, die ihm nahestehen, während der Gegner einen öffentlich erhobenen Anspruch zurücknimmt.
 
-Merksatz: Das zerstörte Schild markiert den aufgegebenen Vorranganspruch.
 
 - Er zerstört das Schild seines Alleinvertretungsanspruchs.: Er gibt den behaupteten Alleinvertretungsanspruch auf.
 - Er verlangt sofort einen zweiten Kampf ohne Waffen.: Er erzwingt keine sofortige Wiederholung.
@@ -2671,7 +2553,6 @@ In welchem Jahr erschien „Ip Man 3“ erstmals?
 
 Ip Man 2 erschien 2010, Ip Man 3 folgte 2015. Zwischen den Fortsetzungen liegen fünf Jahre. Donnie Yen spielt in beiden den Titelhelden, Lynn Hung seine Frau. Der dritte Film legt neben dem Streit um eine Schule besonderes Gewicht auf deren gemeinsame Zeit. Der internationale Verleih führte zu einem US-Start 2016; dieses spätere Jahr ersetzt das Erstjahr der Hongkong-Veröffentlichung nicht.
 
-Merksatz: Ip Man 2 2010 → Ip Man 3 2015: fünf Jahre.
 
 - 2013: 2013 liegt zwei Jahre davor.
 - 2015: 2015 ist das Erstjahr.
@@ -2693,7 +2574,6 @@ Wer führte bei „Ip Man 3“ Hauptregie?
 
 Well Go nennt Wilson Yip als Regisseur und hebt Yuen Woo-ping für die Action hervor. Donnie Yen spielt Ip Man; Mike Tyson erscheint als Frank, Zhang Jin als Cheung Tin-chi. Die verschiedenen Aufgaben sind getrennt zu lesen: Die körperliche Inszenierung ist wesentlich für den Film, erweitert aber den ausdrücklich ausgewiesenen Hauptregiecredit nicht um einen zweiten Namen.
 
-Merksatz: Hauptregie Wilson Yip, Actioninszenierung Yuen Woo-ping.
 
 - Yuen Woo-ping: Yuen Woo-ping verantwortet die Action, nicht den Hauptregiecredit.
 - Benny Chan: Benny Chan führte diesen Film nicht Hauptregie.
@@ -2719,7 +2599,6 @@ In welcher Epoche spielt Tiens (Tony Jaa) Geschichte in „Ong Bak 2“?
 
 Tien (Tony Jaa) ist der Sohn eines getöteten Adligen und wächst in einer Welt rivalisierender Machtgruppen auf. Das thailändische Branchenverzeichnis verortet die Handlung vor mehreren Jahrhunderten im Ayutthaya-Reich. Der Film setzt damit nicht einfach die moderne Dorfgeschichte des ersten Ong Bak fort. Die historische Umgebung ermöglicht unterschiedliche Waffen und Kampfschulen, die Tiens Ausbildung und spätere Vergeltung prägen.
 
-Merksatz: Die Fortsetzung wechselt aus der Gegenwart in die Ayutthaya-Zeit.
 
 - Im historischen Ayutthaya-Reich: Tien lebt im historischen Ayutthaya-Reich.
 - Während der japanischen Besetzung Thailands: Die japanische Besetzung ist nicht der Hintergrund.
@@ -2741,7 +2620,6 @@ Wer nimmt Tien (Tony Jaa) in „Ong Bak 2“ nach seiner Flucht auf und bildet i
 
 Tien (Tony Jaa) gerät als Kind in Lebensgefahr, bevor Chernang (Sorapong Chatree) ihn rettet und aufnimmt. In der Banditengemeinschaft lernt er unterschiedliche Waffen und Kampfstile. Das thailändische Branchenverzeichnis beschreibt diesen Wechsel vom verfolgten Adelsspross zum ausgebildeten Kämpfer ausdrücklich. Seine neue Zugehörigkeit ist wichtig, weil er Chernang vertraut und später eine Wahrheit erfährt, die diese Bindung grundlegend verändert.
 
-Merksatz: Die Banditengemeinschaft wird zur Ersatzfamilie und Kampfschule.
 
 - Die Leibgarde seines Verfolgers: Die Leibgarde des Gegners zieht ihn nicht auf.
 - Eine Gruppe von Banditen: Die Banditen werden seine neue Gemeinschaft.
@@ -2763,7 +2641,6 @@ Wie gelangt Tien (Tony Jaa) in „Ong Bak 2“ für seinen Angriff in die Nähe 
 
 Tien (Tony Jaa) begegnet als Erwachsener Pim (Primorata Dejudom), einer Freundin aus seiner Kindheit. Die Verbindung zur Tanzwelt eröffnet ihm den Zugang zu Rajasena (Sarunyoo Wongkrachang). Er tritt maskiert in einer Khon-Aufführung auf und nutzt die Nähe für einen Angriff. Dadurch erhält eine frühere künstlerische Ausbildung Bedeutung für seine Vergeltung, statt nur als Gegenbild zu den Kampfkünsten zu erscheinen.
 
-Merksatz: Die Maske der Tanzaufführung verbirgt den Angreifer.
 
 - Als verkleideter Palastkoch: Ein Küchenposten ist nicht die Tarnung.
 - Als neuer Leibwächter: Tien tritt nicht als neu verpflichteter Leibwächter an.
@@ -2785,7 +2662,6 @@ Warum überlebt Rajasena (Sarunyoo Wongkrachang) Tiens (Tony Jaa) ersten vermein
 
 Tien (Tony Jaa) glaubt nach seinem Angriff, Rajasena (Sarunyoo Wongkrachang) getötet zu haben. Der Gegner überlebt jedoch wegen einer unter seiner Kleidung verborgenen Rüstung. Die scheinbar abgeschlossene Vergeltung erweist sich dadurch als Fehlschlag. Tien gerät erneut in den Einflussbereich des mächtigen Gegners und muss sich einer Gefahr stellen, die er nach dem erfolgreichen Zugang zum Palast bereits für überwunden gehalten hatte.
 
-Merksatz: Verborgener Schutz macht den vermeintlichen Erfolg zur Täuschung.
 
 - Ein Doppelgänger empfängt den Schlag.: Ein Doppelgänger wird nicht getroffen.
 - Eine zuvor verabreichte Medizin hält ihn am Leben.: Eine rettende Medizin erklärt sein Überleben nicht.
@@ -2807,7 +2683,6 @@ Welche Wahrheit erfährt Tien (Tony Jaa) in „Ong Bak 2“ über Chernang (Sora
 
 Chernang (Sorapong Chatree) rettet Tien (Tony Jaa) und nimmt ihn wie einen Sohn auf. Später erkennt Tien ihn als den maskierten Mörder seines Vaters. Die Enthüllung zerstört die einfache Trennung zwischen rettender Ersatzfamilie und ursprünglichem Feind. Chernangs Bindung an Tien bleibt dennoch bestehen und führt zu einem Opfer. Der Konflikt belastet deshalb nicht nur Tiens Vergeltungsplan, sondern seine persönliche Zugehörigkeit.
 
-Merksatz: Der Retter ist zugleich Teil der ursprünglichen Tragödie.
 
 - Er war der Mörder von Tiens Vater.: Chernang war an der Ermordung des Vaters beteiligt.
 - Er ist Tiens leiblicher Vater.: Eine geheime leibliche Vaterschaft wird nicht enthüllt.
@@ -2829,7 +2704,6 @@ In welcher Lage befindet sich Tien (Tony Jaa) am Ende von „Ong Bak 2“?
 
 Tien (Tony Jaa) kann die Auseinandersetzung mit Rajasena (Sarunyoo Wongkrachang) nicht abschließen. Am Ende ist er gefangen und der angeordneten Folter ausgeliefert. Die Schlusslage bietet weder einen vollständigen Rachesieg noch eine sichere Flucht. Das thailändische Branchenverzeichnis kündigt den folgenden dritten Film bereits an. Der zweite Teil lässt damit einen unmittelbaren Fortsetzungsbedarf zurück, statt nur eine neue mögliche Nebenhandlung zu eröffnen.
 
-Merksatz: Gefangenschaft hält die Haupthandlung für die Fortsetzung offen.
 
 - Bei den Banditen, die ihren Rückzug vorbereiten.: Er ist nicht sicher zu den Banditen zurückgekehrt.
 - Gefangen und einer angeordneten Folter ausgeliefert: Die Geschichte endet in Gefangenschaft als Cliffhanger.
@@ -2851,7 +2725,6 @@ In welchem Jahr erschien „Ong Bak 2“ erstmals?
 
 Ong Bak von 2003 führte Tony Jaa als Hauptdarsteller eines modernen Kampfkunstfilms vor. Ong Bak 2 erschien 2008 und verlegte seine neue Figur in eine historische Welt. Zwischen den Filmen liegen fünf Jahre. Das thailändische Branchenverzeichnis nennt sowohl den ersten Film als Bezug als auch den Dezemberstart des zweiten. Die Toronto-Präsentation 2009 bezeichnet eine spätere internationale Station, nicht dessen Erstveröffentlichung.
 
-Merksatz: Ong Bak 2003 → Ong Bak 2 2008: fünf Jahre.
 
 - 2005: 2005 liegt drei Jahre davor.
 - 2007: 2007 liegt ein Jahr davor.
@@ -2873,7 +2746,6 @@ Welches Team führte bei „Ong Bak 2“ Hauptregie?
 
 Das thailändische Branchenverzeichnis nennt Tony Jaa und Panna Rittikrai als Regisseure; die Toronto-Filmseite bestätigt beide. Tony Jaa erscheint außerdem unter seinem bürgerlichen Namen Panom Yeeram und spielt Tien. Die kürzere Magnolia-Webseite nennt nur Jaa als Regisseur. Für das vollständige Team folgt die Redaktion den übereinstimmenden ausführlicheren Belegen, ohne unterschiedliche Namensformen derselben Person als weitere Beteiligte zu zählen.
 
-Merksatz: Tony Jaa und Panna Rittikrai bilden das belegte Regieteam.
 
 - Prachya Pinkaew und Nonzee Nimibutr: Dieses Paar ist nicht das ausgewiesene Hauptregieteam.
 - Ekachai Uekrongtham und Wisit Sasanatieng: Uekrongtham und Sasanatieng tragen hier nicht die Hauptregiecredits.
@@ -2899,7 +2771,6 @@ In welche Stadt zieht Dre Parker (Jaden Smith) in „Karate Kid“ mit seiner Mu
 
 Dre Parker (Jaden Smith) zieht mit Sherry Parker (Taraji P. Henson) von Detroit nach Peking, weil seine Mutter dort eine neue Arbeit annimmt. Der Ortswechsel bringt sprachliche und soziale Schwierigkeiten mit sich. Sony stellt diese Reise als Ausgangspunkt seiner Filmhandlung dar. Dre trifft auf neue Mitschüler, eine erste Zuneigung und Konflikte, bevor Mr. Han (Jackie Chan) ihm beim Umgang mit der neuen Umgebung hilft.
 
-Merksatz: Der Umzug nach Peking eröffnet eine neue Lebenswelt.
 
 - Shanghai: Shanghai ist nicht ihr Ziel.
 - Peking: Die Familie zieht nach Peking.
@@ -2921,7 +2792,6 @@ Welche Kampfkunst lernt Dre Parker (Jaden Smith) bei Mr. Han (Jackie Chan) in �
 
 Mr. Han (Jackie Chan) hilft Dre Parker (Jaden Smith), sich gegen die Angriffe anderer Schüler zu behaupten. Sony beschreibt den Unterricht ausdrücklich als Kung Fu und betont zugleich Reife und Selbstbeherrschung. Der bekannte Filmtitel wurde für die Neuverfilmung übernommen, obwohl die Handlung nach China verlegt ist. Wer nur vom Titel auf die Kampfkunst schließt, übersieht damit eine wesentliche Änderung gegenüber dem früheren Film.
 
-Merksatz: Der Titel bleibt, die unterrichtete Kampfkunst wechselt.
 
 - Karate: Der übernommene Titel bedeutet hier keine Karateausbildung.
 - Taekwondo: Taekwondo ist nicht die unterrichtete Kampfkunst.
@@ -2943,7 +2813,6 @@ Welcher Gegenstand steht im Mittelpunkt von Mr. Hans (Jackie Chan) anfänglichen
 
 Mr. Han (Jackie Chan) lässt Dre Parker (Jaden Smith) die Jacke aufheben, anziehen, ausziehen und aufhängen. Dre empfindet die Wiederholungen zunächst als sinnlose Beschäftigung. Später zeigt der Lehrer, wie die Bewegungen als Abwehr funktionieren. Der konkrete Gegenstand unterscheidet diesen Unterricht von den Hausarbeiten im früheren Film. Entscheidend bleibt, dass der Schüler eine eingeübte Bewegung erst nachträglich als Kampftechnik erkennt.
 
-Merksatz: Die Jacke ist das konkrete Werkzeug der verdeckten Abwehrübung.
 
 - Ein Besen: Ein Besen ist nicht der zentrale Gegenstand.
 - Ein Holzschwert: Ein Holzschwert gehört nicht zu diesen anfänglichen Wiederholungen.
@@ -2965,7 +2834,6 @@ Warum repariert Mr. Han (Jackie Chan) in „Karate Kid“ ein Auto, das er spät
 
 Dre Parker (Jaden Smith) erfährt, dass Mr. Han (Jackie Chan) Frau und Sohn bei einem Autounfall verloren hat. Der Lehrer repariert den Wagen und beschädigt ihn am Jahrestag erneut. Seine Trauer durchbricht das Bild eines stets überlegenen Mentors. Dre bleibt bei ihm und hilft ihm mit Bewegung, sodass die Unterstützung in ihrer Beziehung nicht ausschließlich vom Erwachsenen zum Schüler verläuft.
 
-Merksatz: Der Wagen macht die nicht überwundene Familientragödie sichtbar.
 
 - Er verarbeitet den Unfalltod seiner Frau und seines Sohnes.: Das Auto gehört zu seinem Umgang mit Trauer und Schuld.
 - Er hält ein Versprechen an seinen verstorbenen Lehrer.: Ein Lehrerversprechen erklärt diesen Umgang mit dem Wagen nicht.
@@ -2987,7 +2855,6 @@ Warum erreicht Dre Parker (Jaden Smith) in „Karate Kid“ das Finale trotz ein
 
 Liang (Shijia Lü) soll Dre Parker (Jaden Smith) im Halbfinale gezielt verletzen. Der Angriff führt zu einer Disqualifikation und damit zu Dres Einzug ins Finale, obwohl sein Bein beschädigt ist. Mr. Han (Jackie Chan) muss ihm anschließend helfen, den letzten Kampf überhaupt anzutreten. Das Ergebnis und die körperliche Verfassung entwickeln sich somit gegensätzlich: Der regeltechnische Erfolg beseitigt die Gefahr für den Schüler nicht.
 
-Merksatz: Die Disqualifikation bringt den Verletzten weiter, ohne ihn gesund zu machen.
 
 - Sein Gegner gibt auf Anweisung des Trainers den Kampf auf.: Ein freiwilliger Abbruch durch den Gegner ist nicht der Einzugsgrund.
 - Sein Gegner wird wegen eines absichtlichen Regelverstoßes disqualifiziert.: Die Disqualifikation lässt Dre ins Finale einziehen.
@@ -3009,7 +2876,6 @@ Wer überreicht Dre Parker (Jaden Smith) am Ende von „Karate Kid“ den Pokal?
 
 Nach Dres (Jaden Smith) Sieg überreicht Cheng (Zhenwei Wang) dem Gegner den Pokal. Cheng und die anderen Schüler erweisen anschließend Mr. Han (Jackie Chan) Respekt. Die Reaktion verändert den zuvor feindlichen Umgang und gibt dem sportlichen Ergebnis eine soziale Folge. Der Schluss belässt die Gegner nicht ausschließlich in ihrer Rolle als Bedrohung, sondern zeigt eine Anerkennung nach dem gemeinsamen Kampf.
 
-Merksatz: Der bisherige Gegner vollzieht die Anerkennung des Siegers.
 
 - Sein Lehrer Mr. Han (Jackie Chan): Mr. Han nimmt diese Übergabe nicht vor.
 - Seine Mutter Sherry (Taraji P. Henson): Sherry ist nicht die überreichende Person.
@@ -3031,7 +2897,6 @@ In welchem Jahr erschien die Neufassung „Karate Kid“ mit Jaden Smith und Jac
 
 Karate Kid von 1984 zeigt Ralph Macchio als Daniel und Pat Morita als Mr. Miyagi. Die Neuverfilmung von 2010 besetzt Jaden Smith als Dre Parker und Jackie Chan als Mr. Han. Zwischen den Filmen liegen 26 Jahre. Sony führt beide Werke getrennt. Der Umzug nach China und der Wechsel zu Kung Fu verbinden das bekannte Mentormotiv mit einem anderen kulturellen und räumlichen Umfeld.
 
-Merksatz: Karate Kid 1984 → Neufassung 2010: 26 Jahre.
 
 - 2008: 2008 liegt zwei Jahre davor.
 - 2009: 2009 kann als Produktionsjahr auftauchen, ist kein Erststart.
@@ -3053,7 +2918,6 @@ Wer führte bei der Neufassung „Karate Kid“ mit Jaden Smith und Jackie Chan 
 
 Die BBFC weist Harald Zwart als Regisseur der Neufassung aus. Jaden Smith spielt Dre Parker, Jackie Chan den Lehrer Mr. Han. John G. Avildsen inszenierte dagegen den früheren Film mit Ralph Macchio und Pat Morita. Die ähnliche Titelbezeichnung macht die Zuordnung besonders wichtig. Schauspieler, Schauplatz und konkrete Regieangabe identifizieren hier die neue Bearbeitung, statt Credits beider Filme miteinander zu vermischen.
 
-Merksatz: Harald Zwart gehört zur Neufassung mit Smith und Chan.
 
 - Harald Zwart: Harald Zwart ist der Regisseur der Neufassung.
 - John G. Avildsen: Avildsen führte den Film von 1984, nicht diese Neufassung.
@@ -3079,7 +2943,6 @@ In welcher Stadt beginnt Carter (Chris Tucker) seinen Urlaub in „Rush Hour 2�
 
 James Carter (Chris Tucker) besucht Chief Inspector Lee (Jackie Chan) in Hongkong. Die geplante Erholung wird schnell von Lees Polizeiarbeit verdrängt, als ein Anschlag Ermittlungen auslöst. Der Ortswechsel stellt die vertraute Partnerschaft unter neue Bedingungen: Diesmal kennt Lee die Umgebung, während Carter als Besucher improvisieren muss. Die Stadt ist damit mehr als Kulisse für die erneute Zusammenarbeit.
 
-Merksatz: In Hongkong tauschen Gastgeber und Besucher gegenüber dem ersten Film ihre Rollen.
 
 - Singapur: Singapur ist nicht der Ausgangspunkt seines Urlaubs.
 - Taipeh: Taipeh ist nicht die erste Station des Duos.
@@ -3101,7 +2964,6 @@ Welches Verbrechen steht hinter dem internationalen Geschäft in „Rush Hour 2�
 
 Lee (Jackie Chan) und James Carter (Chris Tucker) entdecken ein Geschäft mit täuschend echten Dollarbanknoten. Dabei geht es sowohl um ihre Herstellung als auch darum, sie unauffällig in scheinbar legitime Einnahmen zu verwandeln. Die Ermittlungen verbinden deshalb verschiedene Orte und Geschäftspartner. Hinter der sichtbaren Gewalt steht ein wirtschaftlicher Plan, dessen Spuren die beiden über mehrere Landesgrenzen hinweg verfolgen.
 
-Merksatz: Gedrucktes Falschgeld soll wie rechtmäßige Einnahmen aussehen.
 
 - Der Schmuggel gestohlener Diamanten: Diamanten sind nicht das zentrale Handelsgut.
 - Der Verkauf illegaler Waffen: Ein Waffengeschäft erklärt die gefälschten Banknoten nicht.
@@ -3123,7 +2985,6 @@ Welche frühere Beziehung verbindet Ricky Tan (John Lone) in „Rush Hour 2“ m
 
 Ricky Tan (John Lone) ist für Lee (Jackie Chan) nicht nur ein Verdächtiger aus dem Triadenmilieu. Früher arbeitete er als Partner von Lees Vater bei der Polizei. Diese persönliche Vorgeschichte beeinflusst Lees Umgang mit ihm und macht den Fall emotional schwieriger. Die vertraute Verbindung bietet jedoch keine Sicherheit: Im Verlauf der Ermittlungen muss Lee seine Vorstellung vom früheren Kollegen seiner Familie neu bewerten.
 
-Merksatz: Die frühere Polizeipartnerschaft macht Lees Verdacht persönlich.
 
 - Er war der Polizeipartner von Lees Vater.: Ricky Tan arbeitete einst mit Lees Vater bei der Polizei.
 - Er war der Vormund von Lees Schwester.: Eine Vormundschaft für Lees Schwester ist nicht diese Verbindung.
@@ -3145,7 +3006,6 @@ Was löst die Ermittlungen in „Rush Hour 2“ aus?
 
 Lees (Jackie Chan) Polizeiarbeit unterbricht James Carters (Chris Tucker) Urlaub, nachdem eine Bombe an der amerikanischen Vertretung zwei verdeckte US-Zollagenten tötet. Der Anschlag gibt dem Fall sofort eine internationale Dimension. Die beteiligten Behörden streiten später über Zuständigkeiten, während das Duo eigenen Spuren folgt. Der sichtbare Beginn ist somit ein tödliches Gewaltverbrechen, dessen wirtschaftlicher Hintergrund erst schrittweise deutlich wird.
 
-Merksatz: Der Anschlag auf verdeckte Zollagenten macht aus dem Urlaub einen Fall.
 
 - Ein Überfall befreit zwei inhaftierte Triadenführer.: Eine Gefangenenbefreiung ist nicht der auslösende Fall.
 - Ein Bombenanschlag tötet zwei verdeckte Zollagenten.: Der Anschlag auf die US-Vertretung tötet zwei verdeckte Agenten.
@@ -3167,7 +3027,6 @@ Wie unterscheidet Isabella Molina (Roselyn Sánchez) in „Rush Hour 2“ die ge
 
 Isabella Molina (Roselyn Sánchez) erklärt Lee (Jackie Chan) und James Carter (Chris Tucker), wie überzeugend die gefälschten Dollar hergestellt wurden. Das entscheidende Unterscheidungsmerkmal zeigt sich erst beim Verbrennen: Die Farbe ist rot. Damit liefert die verdeckte Ermittlerin ein konkret überprüfbares Detail für das ansonsten schwer erkennbare Falschgeld. Ihr Hinweis erklärt, weshalb die Scheine im gewöhnlichen Zahlungsverkehr zunächst nicht als Fälschung auffallen.
 
-Merksatz: Die Farbe beim Verbrennen enttarnt das Falschgeld.
 
 - An der blauen Farbe unter Sonnenlicht: Sonnenlicht erzeugt nicht das genannte Erkennungsmerkmal.
 - An einem fehlenden Wasserzeichen: Ein fehlendes Wasserzeichen ist nicht ihr entscheidender Test.
@@ -3189,7 +3048,6 @@ Wie entkommen Lee (Jackie Chan) und Carter (Chris Tucker) in „Rush Hour 2“ d
 
 Hu Li (Zhang Ziyi) bringt eine Zeitbombe in das Penthouse, nachdem die Auseinandersetzung mit Ricky Tan (John Lone) bereits eskaliert ist. Lee (Jackie Chan) und James Carter (Chris Tucker) müssen einen Ausweg finden, bevor die Explosion den Raum zerstört. Ihre improvisierte Seilrutsche verlängert die Flucht über die Gebäudekante hinaus. Die Rettung entsteht durch eine konkrete räumliche Lösung statt durch das Entschärfen der Bombe.
 
-Merksatz: Die Seilrutsche macht aus der Gebäudekante einen Fluchtweg.
 
 - Über den außen angebrachten Lastenaufzug: Ein Lastenaufzug ist nicht ihr letzter Fluchtweg.
 - Durch einen belüfteten Versorgungsschacht: Ein Versorgungsschacht führt sie nicht aus dem Penthouse.
@@ -3211,7 +3069,6 @@ In welchem Jahr wurde „Rush Hour 2“ mit Jackie Chan und Chris Tucker erstmal
 
 Rush Hour 2 erschien 2001; der AFI-Katalog dokumentiert die amerikanischen Kinoeröffnungen im August dieses Jahres. Rush Hour 3 folgte 2007, also sechs Jahre später. Jackie Chan und Chris Tucker spielen in beiden Fortsetzungen erneut Lee und James Carter. Der Abstand verbindet zwei konkrete Filme derselben Reihe, ohne die erzählte Zeit zwischen ihren Fällen mit den tatsächlichen Veröffentlichungsjahren gleichzusetzen.
 
-Merksatz: 2001 Rush Hour 2, 2007 Rush Hour 3: sechs Jahre.
 
 - 2001: 2001 ist das dokumentierte Veröffentlichungsjahr.
 - 1998: 1998 gehört zum ersten Rush Hour.
@@ -3233,7 +3090,6 @@ Wer führte bei „Rush Hour 2“ die Hauptregie?
 
 Brett Ratner inszeniert die erneute Zusammenarbeit von Lee (Jackie Chan) und James Carter (Chris Tucker). Jeff Nathanson schrieb das Drehbuch auf Grundlage der von Ross LaManna geschaffenen Figuren. Der AFI-Katalog trennt diese Aufgaben in seinen Credits ausdrücklich. Die Beteiligung Jackie Chans an der Gestaltung der Kämpfe ändert deshalb nicht den Hauptregiecredit der Hollywood-Fortsetzung, deren Ermittlungen Hongkong und die USA verbinden.
 
-Merksatz: Ratners Hauptregie und Nathansons Drehbuch sind getrennte Credits.
 
 - Stanley Tong: Stanley Tong trägt hier nicht den Hauptregiecredit.
 - Brett Ratner: AFI nennt Brett Ratner als Regisseur.
@@ -3259,7 +3115,6 @@ In welche europäische Stadt führt die Ermittlung Lee (Jackie Chan) und Carter 
 
 Nach dem Anschlag auf Botschafter Solon Han (Tzi Ma) geraten Lee (Jackie Chan) und James Carter (Chris Tucker) auf eine Spur nach Frankreich. In Paris treffen ihre Ermittlungen auf lokale Polizei, einen widerwilligen Taxifahrer und die Verbindungen der Triaden. Der neue Schauplatz erweitert den Fall über Los Angeles hinaus und stellt das Duo vor zusätzliche sprachliche und institutionelle Schwierigkeiten.
 
-Merksatz: Paris wird zum neuen Schauplatz der gemeinsamen Ermittlungen.
 
 - Rom: Rom ist nicht das europäische Ermittlungsziel.
 - Berlin: Berlin ist nicht der zentrale Schauplatz.
@@ -3281,7 +3136,6 @@ Welche Tätigkeit übt Carter (Chris Tucker) zu Beginn von „Rush Hour 3“ bei
 
 James Carter (Chris Tucker) ist am Anfang nicht mit einem internationalen Spezialfall beschäftigt, sondern mit dem Straßenverkehr von Los Angeles. Erst die Nachricht vom Anschlag auf Botschafter Solon Han (Tzi Ma) zieht ihn wieder in Lees (Jackie Chan) Ermittlungen hinein. Seine Ausgangsposition macht den Sprung vom gewöhnlichen Polizeialltag zum persönlichen und grenzüberschreitenden Fall besonders deutlich.
 
-Merksatz: Vom Verkehrsdienst führt Carter der Anschlag zurück zu Lee.
 
 - Er regelt den Straßenverkehr.: Carter ist zu Beginn im Verkehrsdienst eingesetzt.
 - Er bewacht das Polizeigefängnis.: Er beginnt den Film nicht als Gefängniswache.
@@ -3303,7 +3157,6 @@ Warum zögert Lee (Jackie Chan) in „Rush Hour 3“, den Attentäter Kenji (Hir
 
 Lee (Jackie Chan) verfolgt den Schützen und erkennt Kenji (Hiroyuki Sanada), mit dem er in seiner Kindheit gemeinsam aufgewachsen ist. Dadurch kollidiert seine Pflicht als Polizist mit einer früheren familiären Bindung. Das kurze Zögern ermöglicht dem Attentäter die Flucht. Die Beziehung bleibt später bedeutsam, weil ihre gegensätzlichen Lebenswege den Konflikt über eine gewöhnliche Verfolgung hinaus verschärfen.
 
-Merksatz: Die gemeinsame Kindheit steht zwischen Lee und seiner Polizeipflicht.
 
 - Kenji war sein erster Polizeiausbilder.: Kenji ist nicht sein Polizeiausbilder.
 - Kenji ist sein Pflegebruder aus der Kindheit.: Lee erkennt in Kenji seinen früheren Pflegebruder.
@@ -3325,7 +3178,6 @@ Was bezeichnet Shy Shen in „Rush Hour 3“ tatsächlich?
 
 Lee (Jackie Chan) und James Carter (Chris Tucker) suchen zunächst nach einer vermeintlichen Person von besonderer Bedeutung für die Triaden. Schließlich zeigt sich, dass Shy Shen eine Liste ihrer führenden Mitglieder bezeichnet. Diese Information kann das Netzwerk offenlegen und gefährdet deshalb diejenigen, die sie zugänglich machen. Die Enthüllung verändert den Gegenstand der Suche, ohne die Bedrohung durch die Organisation zu beseitigen.
 
-Merksatz: Die scheinbare Person erweist sich als gefährliche Namensliste.
 
 - Ein geheimes Waffenlager: Ein Waffenlager ist nicht die gesuchte Information.
 - Ein verschlüsseltes Bankkonto: Es handelt sich nicht um ein Bankkonto.
@@ -3347,7 +3199,6 @@ Wo trägt Geneviève (Noémie Lenoir) in „Rush Hour 3“ die gesuchten Namen?
 
 Geneviève (Noémie Lenoir) kann die Namen der Triadenführer nicht einfach als gewöhnliches Schriftstück übergeben. Sie sind auf ihrem Hinterkopf tätowiert und durch ihre Haare verborgen. Lee (Jackie Chan) und James Carter (Chris Tucker) müssen deshalb zugleich die Information und die Person schützen. Das besondere Versteck erklärt, warum ihre Enttarnung eine unmittelbare körperliche Gefahr für die Informantin mit sich bringt.
 
-Merksatz: Die Informantin trägt die gefährlichen Namen am eigenen Körper.
 
 - Auf der Innenseite ihres Mantels: Der Mantel enthält diese Liste nicht.
 - Auf einem Anhänger ihrer Halskette: Ein Halskettenanhänger trägt nicht die gesuchten Namen.
@@ -3369,7 +3220,6 @@ Wer erschießt in „Rush Hour 3“ den verräterischen Reynard (Max von Sydow),
 
 Varden Reynard (Max von Sydow) will nach der Flucht Lee (Jackie Chan), James Carter (Chris Tucker) und Geneviève (Noémie Lenoir) beseitigen. George (Yvan Attal), der sie zuvor als Taxifahrer begleitet hat, schießt von hinten auf ihn. Damit übernimmt eine zunächst widerwillige Nebenfigur die entscheidende Rettung. Der Schluss macht aus dem Fahrer einen aktiven Helfer, dessen Loyalität inzwischen über die bezahlte Fahrt hinausgeht.
 
-Merksatz: Der zunächst widerwillige Fahrer rettet das Trio vor Reynard.
 
 - Der Taxifahrer: George greift ein und erschießt Reynard.
 - Der Polizeikommissar: Der Polizeikommissar löst diese letzte Bedrohung nicht auf.
@@ -3391,7 +3241,6 @@ In welchem Jahr wurde „Rush Hour 3“ mit Jackie Chan und Chris Tucker erstmal
 
 Rush Hour 3 wurde 2007 veröffentlicht; Getty dokumentiert die Los-Angeles-Premiere am 30. Juli. Der unmittelbar vorherige Kinofilm Rush Hour 2 erschien 2001, sechs Jahre zuvor. Die erzählte Zeit zwischen den Fällen beträgt dagegen nur drei Jahre. Der Vergleich zeigt deshalb zugleich, warum ein Handlungsabstand keine zuverlässige Angabe für das tatsächliche Erscheinungsjahr einer Fortsetzung ist.
 
-Merksatz: Sechs reale Jahre trennen 2001 und 2007, nicht die drei erzählten Jahre.
 
 - 2001: 2001 gehört zum zweiten Rush Hour.
 - 2007: Die Los-Angeles-Premiere fand 2007 statt.
@@ -3413,7 +3262,6 @@ Wer inszenierte „Rush Hour 3“ mit Jackie Chan und Chris Tucker?
 
 Brett Ratner führt auch beim dritten Kinofilm des Duos die Regie; Jeff Nathanson schrieb erneut das Drehbuch. Lee (Jackie Chan) und James Carter (Chris Tucker) geraten diesmal in einen Fall mit französischem Schauplatz und einer belastenden Verbindung zu Lees Kindheit. Das spanische Filmregister ICAA nennt Ratner ausdrücklich als Regisseur und führt das Werk als amerikanische Produktion des Jahres 2007.
 
-Merksatz: Ratner führt das Duo in einen Paris-Fall mit persönlichem Konflikt.
 
 - Rob Minkoff: Rob Minkoff führte hier nicht Regie.
 - Gordon Chan: Gordon Chan trägt diesen Credit nicht.
@@ -3439,7 +3287,6 @@ Wen soll das Einbrechertrio in „Rob-B-Hood“ für seinen Auftraggeber entfüh
 
 Thongs (Jackie Chan), Octopus (Louis Koo) und der Landlord (Michael Hui) geraten durch ihre Geldprobleme in einen Entführungsauftrag. Ziel ist ein Baby aus der wohlhabenden Familie Lee. Die Betreuung des Kindes verändert den Charakter ihres Verbrechens: Aus einem vermeintlich gewinnbringenden Auftrag wird eine Verantwortung für einen völlig abhängigen Menschen. Diese Bindung bringt die Täter später gegen ihren eigenen Auftraggeber auf.
 
-Merksatz: Ein Baby verwandelt den lukrativen Auftrag in persönliche Verantwortung.
 
 - Ein Baby aus einer reichen Familie: Der Auftrag betrifft ein Baby der Familie Lee.
 - Einen Schüler aus einer Diplomatenschule: Ein Schüler ist nicht das Entführungsziel.
@@ -3461,7 +3308,6 @@ Welche Gewohnheit verschärft Thongs' (Jackie Chan) Geldprobleme in „Rob-B-Hoo
 
 Thongs (Jackie Chan) stiehlt mit Octopus (Louis Koo), kommt aber wegen seiner Spielsucht nicht aus den Geldproblemen heraus. Seine Gewohnheit belastet außerdem das Verhältnis zu seiner Familie. Der lukrative neue Auftrag erscheint ihm deshalb als Möglichkeit, seine Lage zu ändern. Die spätere Bindung zum Baby bringt ihn dazu, seinen Drang zum Spielen und die Folgen seines bisherigen Lebens neu zu bewerten.
 
-Merksatz: Die Spielsucht hält Thongs trotz seiner Diebstähle in Geldnot.
 
 - Er kauft ständig teure Autos.: Die teuren Autos gehören eher zu Octopus' Lebensstil.
 - Er verspielt sein Geld beim Glücksspiel.: Thongs ist ein zwanghafter Spieler.
@@ -3483,7 +3329,6 @@ Warum müssen Thongs (Jackie Chan) und Octopus (Louis Koo) in „Rob-B-Hood“ d
 
 Bei einer Polizeikontrolle versucht der Landlord (Michael Hui), mit seinem Wagen zu fliehen, und verursacht einen Unfall. Thongs (Jackie Chan) und Octopus (Louis Koo) entkommen mit dem Baby, während ihr Mentor festgenommen wird. Er verlangt, dass sie bis zu seiner Freilassung auf eine Übergabe verzichten. Diese Verzögerung schafft die gemeinsame Zeit, in der die beiden eine Bindung zum entführten Kind entwickeln.
 
-Merksatz: Die Verhaftung macht aus kurzfristigem Transport mehrere Tage Betreuung.
 
 - Ihr Auftraggeber verschwindet bei einer Razzia.: Der Auftraggeber wird in dieser Phase nicht durch eine Razzia ausgeschaltet.
 - Ein Käufer verlangt vor der Übergabe neue Papiere.: Zusätzliche Übergabepapiere sind nicht das Hindernis.
@@ -3505,7 +3350,6 @@ Was widerlegt in „Rob-B-Hood“ die Behauptung des Triadenbosses (Chen Baoguo)
 
 Der Triadenboss (Chen Baoguo) verlangt das Baby, weil er es für das Kind seines verstorbenen Sohnes Max (Terence Yin) hält. Ein Bluttest widerlegt diese Verwandtschaft. Seine Reaktion bedroht nun unmittelbar das Leben des Kindes. Für Thongs (Jackie Chan) und Octopus (Louis Koo) wird damit endgültig sichtbar, dass sie keine harmlose Übergabe organisieren, sondern einen Schutzbefohlenen aus einer lebensgefährlichen Situation retten müssen.
 
-Merksatz: Der Bluttest zerstört die Vorstellung einer Familienzusammenführung.
 
 - Ein früheres Überwachungsbild: Ein Überwachungsbild entscheidet diese Frage nicht.
 - Ein Erbschaftsvertrag: Ein Erbschaftsvertrag ist nicht der Nachweis.
@@ -3527,7 +3371,6 @@ Womit versucht Thongs (Jackie Chan) in „Rob-B-Hood“, das bewusstlose Baby in
 
 Nach der Befreiung aus dem Kühlraum bleibt das Baby reglos. Thongs (Jackie Chan) trägt es in die Garage und versucht dort mit einer Autobatterie und Klemmen eine elektrische Wiederbelebung. Zunächst scheint die Rettung gescheitert, doch im Krankenwagen wird ein schwacher Herzschlag festgestellt. Die Szene verschiebt die Spannung vom Kampf gegen Gegner auf die unsichere Frage, ob das gerettete Kind überlebt.
 
-Merksatz: Der letzte Rettungsversuch nutzt die Autobatterie in der Garage.
 
 - Mit einem improvisierten Defibrillator an einer Autobatterie: Er baut eine elektrische Wiederbelebungshilfe mit der Autobatterie.
 - Mit einem Beatmungsbeutel aus dem Erste-Hilfe-Kasten: Ein Beatmungsbeutel ist nicht das gezeigte Hilfsmittel.
@@ -3549,7 +3392,6 @@ Wer öffnet in „Rob-B-Hood“ das Schloss des Kühlraums, in dem das Baby und 
 
 Thongs (Jackie Chan) und Octopus (Louis Koo) kämpfen im Kühlraum um das Baby, können den abgeschlossenen Raum aber nicht verlassen. Inspector Steve Mok (Yuen Biao) trifft mit dem Landlord (Michael Hui) ein. Dessen Fähigkeit, Schlösser zu öffnen, schafft den Ausweg. Eine zunächst kriminell genutzte Fertigkeit dient damit der Rettung, während der Polizist und die Einbrecher in diesem Moment dasselbe unmittelbare Ziel verfolgen.
 
-Merksatz: Das Talent des Einbrechers öffnet diesmal den Rettungsweg.
 
 - Inspector Mok (Yuen Biao): Mok kommt mit ihm, öffnet aber nicht selbst das Schloss.
 - Der Landlord (Michael Hui): Der Landlord knackt das Schloss des Kühlraums.
@@ -3571,7 +3413,6 @@ In welchem Jahr wurde „Rob-B-Hood“ mit Jackie Chan und Louis Koo erstmals ve
 
 Rob-B-Hood erschien 2006 und wurde in diesem Jahr für das Filmfestival von Venedig ausgewählt. Sieben Jahre später kam 2013 Police Story: Back for Law heraus. Jackie Chan steht in beiden Filmen im Zentrum, spielt aber unterschiedliche Figuren: hier den Einbrecher Thongs, dort den Polizisten Zhong Wen. Die zeitliche Verbindung zeigt eine Veränderung der Rollen, ohne eine gemeinsame Handlung der Filme zu behaupten.
 
-Merksatz: Sieben Jahre trennen den Einbrecherfilm 2006 vom Polizistenfilm 2013.
 
 - 2003: 2003 liegt drei Jahre davor.
 - 2009: 2009 liegt drei Jahre danach.
@@ -3593,7 +3434,6 @@ Wer führte bei „Rob-B-Hood“ die Hauptregie?
 
 Benny Chan inszeniert die Geschichte der Einbrecher, deren Beziehung zu ihrem entführten Baby den Auftrag verändert. Jackie Chan spielt Thongs und arbeitete am Drehbuch und der Actiongestaltung mit. Das Hong Kong Film Archive nennt Benny Chan ausdrücklich als Regisseur; Emperor führt ihn ebenfalls unter Crew. Die Zusammenarbeit verteilt mehrere kreative Aufgaben auf Beteiligte, deren gemeinsame Nachnamen keine gemeinsame Hauptregie begründen.
 
-Merksatz: Benny Chan inszeniert; Jackie Chan spielt und gestaltet Action mit.
 
 - Jackie Chan: Jackie Chans Actionarbeit ist hier kein Hauptregiecredit.
 - Stanley Tong: Stanley Tong ist nicht der Hauptregisseur dieses Films.
@@ -3619,7 +3459,6 @@ Wen besucht Zhong Wen (Jackie Chan) zu Beginn von „Police Story: Back for Law�
 
 Zhong Wen (Jackie Chan) geht in den Club, um seine Tochter Miao Miao (Jing Tian) zu sehen. Ihr Verhältnis ist angespannt, und ihre Beziehung zum Besitzer Wu Jiang (Liu Ye) verschärft den Konflikt. Der Besuch beginnt somit als familiäre Auseinandersetzung. Erst danach erkennt der Polizist, dass hinter der Begegnung ein Plan steckt, der ihn und andere Gäste in Gefahr bringt.
 
-Merksatz: Der Familienbesuch wird zum Ausgangspunkt einer vorbereiteten Falle.
 
 - Seinen Bruder: Ein Bruder ist nicht der Anlass des Besuchs.
 - Seine Tochter: Er sucht seine entfremdete Tochter Miao Miao auf.
@@ -3641,7 +3480,6 @@ Welche Lage bestimmt den größten Teil von „Police Story: Back for Law“?
 
 Zhong Wen (Jackie Chan) kommt nach einem Schlag auf den Kopf gefesselt wieder zu sich. Wu Jiang (Liu Ye) hat auch die übrigen Clubbesucher und Miao Miao (Jing Tian) in seiner Gewalt. Der begrenzte Schauplatz zwingt den Polizisten, Wege durch das Gebäude zu suchen und zugleich mit dem Täter zu verhandeln. Die Gefahr entsteht aus der Kontrolle eines vorbereiteten Raums.
 
-Merksatz: Ein Nachtclub wird zur kontrollierten Geiselfalle.
 
 - Passagiere werden in einem Linienflugzeug entführt.: Die Hauptsituation spielt nicht in einem Linienflugzeug.
 - Mitarbeiter werden in einer Bank eingeschlossen.: Eine Bank ist nicht der zentrale Geiselort.
@@ -3663,7 +3501,6 @@ Welche Person verlangt Wu Jiang (Liu Ye) in „Police Story: Back for Law“ zus
 
 Wu Jiang (Liu Ye) beschränkt seine Forderungen nicht auf Geld. Er will Wei Xiaofu (Zhou Xiaoou), einen inhaftierten Mann, im Club sehen. Zhong Wen (Jackie Chan) übernimmt schließlich die Aufgabe, ihn zum Betreten des Gebäudes zu bewegen. Diese ungewöhnliche Forderung weist darauf hin, dass die Geiselnahme mit einer früheren Geschichte zusammenhängt und nicht durch eine gewöhnliche Lösegeldzahlung erledigt werden kann.
 
-Merksatz: Ein bestimmter Gefangener ist dem Täter wichtiger als eine reine Geldforderung.
 
 - Den behandelnden Arzt seiner Mutter: Ein Arzt ist nicht die verlangte Kontaktperson.
 - Den Richter seines früheren Prozesses: Ein früherer Richter steht nicht im Zentrum der Forderung.
@@ -3685,7 +3522,6 @@ Welche frühere Tragödie will Wu Jiang (Liu Ye) mit der Geiselnahme in „Polic
 
 Wu Jiang (Liu Ye) hat die Gefangenen nicht zufällig zusammengebracht. Zhong Wen (Jackie Chan), Wei Xiaofu (Zhou Xiaoou) und weitere Gäste waren mit der Situation verbunden, in der seine jüngere Schwester starb. Der Täter will ihre früheren Rollen rekonstruieren und sie zur Verantwortung ziehen. Die Enthüllung erklärt seine Auswahl, ohne seine Gewalt als verlässlichen Weg zur Aufklärung der Tragödie darzustellen.
 
-Merksatz: Die ausgewählten Geiseln gehören zu einer früheren Tragödie um Wus Schwester.
 
 - Den Tod seiner jüngeren Schwester: Er sucht Vergeltung für seine jüngere Schwester.
 - Den Tod seines ehemaligen Trainers: Der Tod eines Trainers ist nicht sein Motiv.
@@ -3707,7 +3543,6 @@ Was entdeckt Zhong Wen (Jackie Chan) in „Police Story: Back for Law“, nachde
 
 Im U-Bahn-Tunnel stellt Wu Jiang (Liu Ye) Zhong Wen (Jackie Chan) vor die Wahl, sich selbst zu erschießen oder das Leben seiner Tochter Miao Miao (Jing Tian) zu gefährden. Zhong entscheidet sich gegen sich selbst und drückt ab, doch die Waffe ist ungeladen. Wu erkennt seine Bereitschaft zum Opfer an. Der ausbleibende Schuss verändert die Lage durch eine bewusst vorbereitete Probe.
 
-Merksatz: Die ungeladene Pistole macht aus dem Opferentschluss eine Probe.
 
 - Der Schlagbolzen der Pistole wurde entfernt.: Ein entfernter Schlagbolzen ist nicht die Erklärung.
 - Die ihm übergebene Pistole ist ungeladen.: Nach dem Abdrücken zeigt sich, dass keine Patrone geladen war.
@@ -3729,7 +3564,6 @@ Warum wird Wu Jiang (Liu Ye) im Finale von „Police Story: Back for Law“ nich
 
 Nachdem Wu Jiang (Liu Ye) Miao Miao (Jing Tian) freigegeben hat, will er sich vom Zug treffen lassen. Zhong Wen (Jackie Chan) versucht einzugreifen, wird jedoch angeschossen und kann ihn nicht rechtzeitig aufhalten. Der Zug wechselt schließlich das Gleis, weil die Polizei den Fahrweg geändert hat. Dadurch endet die Auseinandersetzung mit Wus Festnahme statt mit seinem geplanten Tod.
 
-Merksatz: Der geänderte Fahrweg ersetzt die gescheiterte unmittelbare Rettung.
 
 - Zhong Wen zieht ihn rechtzeitig auf den Bahnsteig.: Zhong ist verletzt und rettet ihn nicht durch diesen Zuggriff.
 - Miao Miao betätigt die Notbremse im Zug.: Miao Miao bremst den Zug nicht selbst.
@@ -3751,7 +3585,6 @@ In welchem Jahr wurde „Police Story: Back for Law“ mit Jackie Chan erstmals 
 
 Police Story: Back for Law erschien 2013. Drei Jahre zuvor hatten Ding Sheng und Jackie Chan bereits für Little Big Soldier von 2010 zusammengearbeitet. Das Berlinale-Programm nennt dieses frühere Werk mit getrennten Credits für Hauptregie und Action-Regie. Die Galaankündigung für den späteren Film verweist ebenfalls auf die Zusammenarbeit. Zwei unterschiedliche Figuren und Geschichten verbinden sich so über ein konkretes Regisseur-Darsteller-Team.
 
-Merksatz: 2010 und 2013 verbinden zwei eigenständige Filme desselben Teams.
 
 - 2010: 2010 erschien Little Big Soldier.
 - 2014: 2014 betrifft den späteren Hongkong-Start.
@@ -3773,7 +3606,6 @@ Wer führte bei „Police Story: Back for Law“ mit Jackie Chan die Hauptregie?
 
 Ding Sheng inszeniert Jackie Chan als Zhong Wen, einen Polizisten mit einer beschädigten Beziehung zu seiner Tochter. Der ernste Geiselfall hat eine eigene Hauptfigur und setzt nicht einfach die Abenteuer des früheren Police-Story-Polizisten fort. Die Pressemitteilung der Gala nennt Ding Sheng ausdrücklich als Regisseur. Sie verknüpft ihn mit einer früheren Zusammenarbeit, ohne daraus eine gemeinsame Handlung der Filme abzuleiten.
 
-Merksatz: Ding Sheng inszeniert einen eigenständigen Police-Story-Neustart.
 
 - Ding Sheng: Die Veranstalter-Pressemitteilung nennt Ding Sheng.
 - Benny Chan: Benny Chan ist nicht der Regisseur dieses Neustarts.
@@ -3799,7 +3631,6 @@ Was kennzeichnet Jason Tripitikas (Michael Angarano) am Anfang von „Forbidden 
 
 Jason Tripitikas (Michael Angarano) lebt in Boston und begeistert sich für chinesische Kampfkunstfilme. Seine Besuche in einem Laden mit entsprechenden DVDs führen ihn an einen Gegenstand, der seine bisherige Welt verändert. Er bringt zunächst die Vorstellungskraft eines Zuschauers mit, nicht die Fähigkeiten eines erfahrenen Kämpfers. Die spätere Reise verlangt deshalb, dass er das Beobachten durch tatsächliches Lernen und eigenes Handeln ersetzt.
 
-Merksatz: Der Zuschauer von Kung-Fu-Filmen muss selbst zum Lernenden werden.
 
 - Er ist ein junger Ausbilder der Polizei.: Er arbeitet nicht als Polizeiausbilder.
 - Er ist ein erfolgreicher Turnierkämpfer.: Sein Ausgangspunkt ist keine erfolgreiche Turnierkarriere.
@@ -3821,7 +3652,6 @@ Wem soll Jason (Michael Angarano) in „Forbidden Kingdom“ den gefundenen gold
 
 Der goldene Stab führt Jason Tripitikas (Michael Angarano) in eine Welt, in der Sun Wukong, der Affenkönig (Jet Li), zur Statue geworden ist. Die Rückgabe des Gegenstands verspricht seine Befreiung. Lu Yan (Jackie Chan) hilft dem unerfahrenen Besucher, die Bedeutung des Auftrags zu verstehen. Die Reise verbindet damit ein konkretes Objekt mit einer bedrohten Figur und einem größeren Konflikt um Herrschaft.
 
-Merksatz: Der verlorene Stab ist der Weg zurück zum gefangenen Besitzer.
 
 - Dem Jadekaiser: Der Jadekaiser ist nicht der ursprüngliche Besitzer.
 - Dem Drachenherrscher: Ein Drachenherrscher ist nicht das Ziel des Auftrags.
@@ -3843,7 +3673,6 @@ Warum will Jason (Michael Angarano) in „Forbidden Kingdom“ den Stab gegen da
 
 Lu Yan (Jackie Chan) wird von einem Pfeil der weißhaarigen Hexe Ni Chang (Li Bingbing) schwer verletzt. Im Kloster erfährt Jason Tripitikas (Michael Angarano), dass nur das Elixier des Jade-Warlords (Collin Chou) helfen kann. Daraufhin geht er allein zum Palast und bietet den Stab an. Sein Handeln setzt das gemeinsame Ziel aufs Spiel, weil die Sorge um seinen Lehrer Vorrang gewinnt.
 
-Merksatz: Jason riskiert den Auftrag zugunsten des verletzten Lehrers.
 
 - Er will den schwer verletzten Lu Yan retten.: Lu Yan braucht das Elixier nach seiner schweren Verletzung.
 - Er will den Affenkönig dauerhaft unsterblich machen.: Die Unsterblichkeit des Affenkönigs ist nicht Jasons Tauschmotiv.
@@ -3865,7 +3694,6 @@ Warum verfolgt Golden Sparrow (Liu Yifei) in „Forbidden Kingdom“ den Jade-Wa
 
 Golden Sparrow (Liu Yifei) unterstützt Jason Tripitikas (Michael Angarano) und Lu Yan (Jackie Chan), verfolgt aber zugleich ein eigenes Ziel. Der Jade-Warlord (Collin Chou) hat ihre Familie töten lassen. Dadurch erhält die gemeinsame Reise für sie eine persönliche Richtung, die über die Befreiung des Affenkönigs (Jet Li) hinausgeht. Ihre Unterstützung und ihr Wunsch nach Rache gehören zusammen, sind jedoch nicht dasselbe Motiv.
 
-Merksatz: Die gemeinsame Reise trägt auch Golden Sparrows persönliche Vergeltung.
 
 - Er stahl das Erbe ihres Klosters.: Ein gestohlenes Klostererbe ist nicht ihr persönlicher Grund.
 - Er ließ ihre Familie töten.: Golden Sparrow will die Ermordung ihrer Familie rächen.
@@ -3887,7 +3715,6 @@ Was ist der schweigsame Mönch (Jet Li) in „Forbidden Kingdom“ tatsächlich?
 
 Der schweigsame Mönch (Jet Li) begleitet Jason Tripitikas (Michael Angarano) und hilft ihm bei der Ausbildung. Erst gegen Ende wird seine besondere Verbindung zum Affenkönig (ebenfalls Jet Li) deutlich: Er ist eine von ihm geschaffene Gestalt. Die ähnliche Besetzung hat damit eine Bedeutung innerhalb der Handlung. Aus dem zunächst rätselhaften Begleiter wird ein Teil der Rettung des ursprünglichen Wesens.
 
-Merksatz: Jet Lis zwei Figuren verbindet eine innerhalb der Geschichte erklärte Herkunft.
 
 - Ein verbannter Sohn des Jadekaisers: Eine Abstammung vom Jadekaiser wird nicht enthüllt.
 - Ein ehemaliger Lehrer des Jade-Warlords: Eine frühere Lehrerrolle ist nicht seine wahre Natur.
@@ -3909,7 +3736,6 @@ Welchen Wunsch äußert Jason (Michael Angarano) in „Forbidden Kingdom“ gege
 
 Nach dem erfolgreichen Kampf erkennt der Jadekaiser (Wang Deshun) Jason Tripitikas' (Michael Angarano) Beitrag an und gewährt ihm einen Wunsch. Jason entscheidet sich für die Rückkehr nach Hause. Dort muss er die gewonnenen Fähigkeiten im eigenen Leben anwenden. Die Belohnung macht ihn deshalb nicht zum dauerhaften Herrscher einer fremden Welt, sondern bringt seine Entwicklung an den ursprünglichen Ausgangspunkt zurück.
 
-Merksatz: Die Belohnung beendet die Reise durch eine bewusst gewählte Heimkehr.
 
 - Er möchte selbst das Reich regieren.: Die Herrschaft über das Reich ist nicht sein Wunsch.
 - Er möchte als Unsterblicher bleiben.: Er wählt keine dauerhafte Unsterblichkeit in dieser Welt.
@@ -3931,7 +3757,6 @@ In welchem Jahr wurde „Forbidden Kingdom“ mit Jackie Chan und Jet Li erstmal
 
 Forbidden Kingdom erschien 2008 und verbindet Jackie Chan und Jet Li in einer Fantasygeschichte. Drei Jahre zuvor war 2005 Unleashed veröffentlicht worden, in dem Jet Li einen unter Gewalt aufgewachsenen Mann spielt. Der Vergleich setzt zwei unterschiedliche Rollen in eine zeitliche Beziehung: Die gemeinsame Märchenreise folgt auf die moderne Geschichte über erlernte Gewalt, ohne dass die Filme eine Fortsetzung bilden.
 
-Merksatz: 2005 und 2008 trennen zwei unterschiedliche Jet-Li-Rollen um drei Jahre.
 
 - 2008: Der BFI-Eintrag bestätigt 2008.
 - 2005: 2005 erschien Unleashed.
@@ -3953,7 +3778,6 @@ Wer führte bei „Forbidden Kingdom“ die Hauptregie?
 
 Rob Minkoff inszeniert die Reise von Jason Tripitikas (Michael Angarano) in die Welt des Affenkönigs (Jet Li). John Fusco schrieb das Drehbuch, während Yuen Woo-ping die Action-Choreografie übernahm. Der BFI-Eintrag führt Minkoff ausdrücklich als Regisseur der amerikanisch-chinesischen Produktion. Die verschiedenen Credits erklären, warum die Gestaltung der Kämpfe nicht automatisch die Hauptregie des gesamten Fantasyfilms bedeutet.
 
-Merksatz: Minkoffs Hauptregie bleibt von Yuen Woo-pings Action-Choreografie getrennt.
 
 - Yuen Woo-ping: Yuen Woo-ping gestaltete die Action, trägt aber nicht den Hauptregiecredit.
 - Rob Minkoff: Das BFI nennt Rob Minkoff als Regisseur.
@@ -3979,7 +3803,6 @@ Welchen Gegenstand benutzt Bart (Bob Hoskins) in „Unleashed – Entfesselt“ 
 
 Bart (Bob Hoskins) hat Danny (Jet Li) seit der Kindheit zu einem gewalttätigen Werkzeug erzogen. Das metallische Halsband gehört zu dieser Konditionierung: Solange es angelegt ist, verhält Danny sich unterwürfig; nach dem Abnehmen setzt Bart ihn zum Angriff ein. Der Gegenstand macht die Entmenschlichung sichtbar. Seine Wirkung beruht innerhalb der Geschichte auf erlernter Unterordnung, nicht auf einer technischen Fernsteuerung.
 
-Merksatz: Das Halsband macht Barts erlernte Kontrolle sichtbar.
 
 - Ein verschlossenes Armband: Ein Armband ist nicht das verwendete Kontrollmittel.
 - Einen Ring mit Giftkapsel: Ein Giftring steuert Danny nicht.
@@ -4001,7 +3824,6 @@ Welcher Arbeit geht Sam (Morgan Freeman), Dannys Helfer in „Unleashed – Entf
 
 Sam (Morgan Freeman) nimmt Danny (Jet Li) nach dessen Flucht bei sich auf. Als blinder Klavierstimmer hat er eine enge Beziehung zur Musik, die auch seine Stieftochter Victoria (Kerry Condon) pflegt. Das neue Zuhause bietet Danny eine andere Form menschlicher Nähe als Barts (Bob Hoskins) Gewalt. Die Arbeit des Helfers verbindet Fürsorge mit einer Klangwelt, die später Erinnerungen an Dannys Kindheit weckt.
 
-Merksatz: Der Klavierstimmer öffnet Danny eine Welt außerhalb der Gewalt.
 
 - Er stimmt Klaviere.: Sam verdient sein Geld als Klavierstimmer.
 - Er repariert Autos.: Eine Autowerkstatt ist nicht seine Arbeit.
@@ -4023,7 +3845,6 @@ Wie reagiert Danny (Jet Li) in „Unleashed – Entfesselt“, als Victoria (Ker
 
 Victoria (Kerry Condon) entfernt Danny (Jet Li) das Halsband, ohne dass er sie angreift. In Sams (Morgan Freeman) Haushalt erlebt er Fürsorge und beginnt, seine bisherige Konditionierung zu überwinden. Der Vorgang verändert die Bedeutung des Gegenstands: Das Abnehmen muss nicht zwangsläufig Gewalt auslösen. Damit zeigt der Film einen konkreten Schritt seiner Entwicklung, bevor spätere Begegnungen ihn wieder mit Bart (Bob Hoskins) konfrontieren.
 
-Merksatz: Fürsorge verändert die Reaktion auf das bisherige Angriffssignal.
 
 - Er schlägt sie bewusstlos.: Danny schlägt Victoria in diesem Moment nicht nieder.
 - Er bleibt ihr gegenüber friedlich.: Die erwartete automatische Gewalt bleibt in ihrer Obhut aus.
@@ -4045,7 +3866,6 @@ Welche Wahrheit über seine Mutter entdeckt Danny (Jet Li) in „Unleashed – E
 
 Bart (Bob Hoskins) behauptet zunächst, Dannys Mutter habe ihn verlassen. Danny (Jet Li) findet jedoch Spuren und gewinnt mit Sams (Morgan Freeman) und Victorias (Kerry Condon) Hilfe Erinnerungen zurück. Seine Mutter war eine Musikstudentin, die finanziell von Bart abhängig wurde; als sie sich widersetzte, erschoss er sie. Die Wahrheit zerstört die Geschichte, mit der Bart seine spätere Herrschaft über das Kind begründet hatte.
 
-Merksatz: Die wiedergewonnene Erinnerung widerlegt Barts Geschichte vom Verlassenwerden.
 
 - Sie hat ihn an Bart verkauft.: Die Geschichte vom freiwilligen Verlassen ist eine Täuschung.
 - Sie hat ihren Tod nur vorgetäuscht.: Ihr Tod wurde nicht lediglich vorgetäuscht.
@@ -4067,7 +3887,6 @@ Welche Forderung Barts (Bob Hoskins) verweigert Danny (Jet Li) nach dem erneuten
 
 Nach der Rückkehr in Barts (Bob Hoskins) Gewalt muss Danny (Jet Li) erneut in einem illegalen Ring antreten. Er setzt sich gegen mehrere Gegner durch, weigert sich aber, sie zu töten. Die erlernten körperlichen Fähigkeiten sind geblieben, während sich sein Umgang mit ihnen verändert hat. Bart reagiert wütend, weil Danny erstmals eine moralische Grenze gegen den Zweck seiner Ausbildung behauptet.
 
-Merksatz: Danny kann gewinnen und trotzdem den Tötungsauftrag verweigern.
 
 - Den Ring für eine Vorführung erneut zu betreten: Die Weigerung betrifft nicht eine weitere Vorführung im Ring.
 - Den gesamten Gewinn an Bart abzugeben: Der Streit ist keine bloße Aufteilung des Preisgelds.
@@ -4089,7 +3908,6 @@ Wie stoppt Sam (Morgan Freeman) in „Unleashed – Entfesselt“ Bart (Bob Hosk
 
 Danny (Jet Li) hat Bart (Bob Hoskins) im letzten Kampf besiegt, doch dieser fordert ihn weiter zum Töten auf. Sam (Morgan Freeman) und Victoria (Kerry Condon) bitten Danny, die Grenze nicht zu überschreiten. Schließlich schlägt Sam Bart mit einem Blumentopf bewusstlos. Die Auflösung trennt damit die Abwehr des Angreifers von der geforderten Tötung und ermöglicht dem Trio, wieder zueinanderzufinden.
 
-Merksatz: Der Blumentopf beendet die Bedrohung ohne den geforderten Mord.
 
 - Er schlägt ihn mit einem Blumentopf bewusstlos.: Sam setzt Bart mit einem Blumentopf außer Gefecht.
 - Er stößt ihn durch ein geöffnetes Fenster.: Ein Fenstersturz ist nicht die Auflösung.
@@ -4111,7 +3929,6 @@ In welchem Jahr wurde „Unleashed – Entfesselt“ mit Jet Li erstmals veröff
 
 Unleashed wurde in Frankreich 2005 als Danny the Dog veröffentlicht; Unifrance nennt ausdrücklich den 2. Februar als Startdatum. Vier Jahre zuvor erschien 2001 Kiss of the Dragon, eine weitere Jet-Li-Produktion aus Luc Bessons Umfeld. Die Verbindung zeigt eine konkrete Strecke in Lis europäischen Actionrollen. Produktionsjahre einzelner Register ersetzen dabei nicht das für die Frage maßgebliche Jahr der ersten Veröffentlichung.
 
-Merksatz: 2001 und 2005 verbinden zwei Jet-Li-Filme über vier Jahre.
 
 - 2001: 2001 gehört zum Baiser mortel du dragon.
 - 2005: Der französische Kinostart war am 2. Februar 2005.
@@ -4133,7 +3950,6 @@ Wer führte bei „Unleashed – Entfesselt“ die Hauptregie?
 
 Louis Leterrier inszeniert Jet Li als Danny, dessen Gewaltausbildung durch die Begegnung mit Sam (Morgan Freeman) und Victoria (Kerry Condon) in Frage gestellt wird. Luc Besson verantwortet das Drehbuch und gehört zu den Produzenten; Pierre Morel führt die Kamera. Film France-CNC nennt Leterrier ausdrücklich als Regisseur. Die prominenten Beteiligten an Produktion und Kampfgestaltung werden dadurch vom Hauptregiecredit unterschieden.
 
-Merksatz: Leterrier inszeniert, Besson schreibt und produziert, Morel führt die Kamera.
 
 - Luc Besson: Luc Besson schrieb und produzierte den Film.
 - Pierre Morel: Pierre Morel führte die Kamera, nicht Hauptregie.
@@ -4159,7 +3975,6 @@ Was machen die kriminellen Mönche in „Claws of Steel“ mit den entführten M
 
 Wong Fei-hung (Jet Li) stößt auf Verbrechen, die hinter dem Auftreten einer religiösen Gemeinschaft verborgen sind. Die Mönche verschleppen Mädchen, um sie in die Sklaverei zu verkaufen. Damit betrifft sein Eingreifen nicht nur den Ruf seiner eigenen Schule, sondern die Freiheit bedrohter Menschen. Der offizielle Miramax-Handlungstext beschreibt diese Verbindung von Entführung und Geschäft ausdrücklich als Teil des Films.
 
-Merksatz: Hinter der religiösen Fassade steckt Menschenhandel.
 
 - Sie verkaufen sie in die Sklaverei.: Die Mönche betreiben Menschenhandel.
 - Sie halten sie ausschließlich für Lösegeld fest.: Eine reine Lösegeldforderung ist nicht ihr Geschäft.
@@ -4181,7 +3996,6 @@ Welches Nachbargebäude überrascht Wong Fei-hung (Jet Li) nach dem Schulumzug i
 
 Wong Fei-hung (Jet Li) erwartet von den neuen Räumen mehr Platz für seine Schule. Erst danach entdeckt er, dass das Nachbargebäude ein Bordell ist. Für den auf Würde bedachten Meister ist diese Lage unerwünscht, während seine Schüler anders reagieren. Die räumliche Nähe schafft deshalb einen wiederkehrenden komischen Konflikt zwischen dem Anspruch des Lehrers und den Interessen seiner Umgebung.
 
-Merksatz: Mehr Schulraum bringt eine unerwartete Nachbarschaft mit sich.
 
 - Ein Gefängnis: Ein Gefängnis ist nicht die unangenehme Nachbarschaft.
 - Ein Bordell: Das neue Gebäude liegt neben einem Bordell.
@@ -4203,7 +4017,6 @@ Warum sucht Wong Fei-hung (Jet Li) in „Claws of Steel“ zunächst neue Räume
 
 Wong Fei-hungs (Jet Li) Schule hat mehr Schüler, als ihre bisherigen Räume sinnvoll aufnehmen können. Die Suche nach einem größeren Gebäude beginnt deshalb mit einem alltäglichen organisatorischen Problem. Seine Schüler helfen bei der Lösung, doch die neue Adresse bringt zusätzliche Schwierigkeiten mit sich. Der Umzug ist somit weder eine Flucht vor der Polizei noch das Ergebnis einer Katastrophe, sondern zunächst ein Wachstumsschritt.
 
-Merksatz: Die wachsende Schule braucht mehr Raum, bevor die Nachbarschaft zum Problem wird.
 
 - Die Behörden haben das alte Gebäude beschlagnahmt.: Eine Beschlagnahme ist nicht der hier genannte Anlass.
 - Ein Brand hat die gesamte Einrichtung zerstört.: Ein vollständiger Brand löst den Umzug nicht aus.
@@ -4225,7 +4038,6 @@ Welche Folge haben die gefälschten Medikamente ausländischer Händler in „Cl
 
 Neben den Konflikten um Wong Fei-hungs (Jet Li) Schule und dem Menschenhandel gibt es im Film ein weiteres betrügerisches Geschäft. Ausländische Händler verkaufen falsche Medizin, die bei chinesischen Kindern Hörverlust verursacht. Diese Nebenhandlung erweitert den Bereich des Unrechts über die unmittelbaren Kämpfe hinaus. Der Miramax-Handlungstext benennt die konkrete gesundheitliche Schädigung und unterscheidet sie dadurch von einer bloß wirkungslosen Arznei.
 
-Merksatz: Der Medizinbetrug trifft das Gehör der Kinder.
 
 - Sie verursachen Gedächtnislücken.: Gedächtnislücken sind nicht die beschriebene Wirkung.
 - Sie verursachen Schlafwandeln.: Schlafwandeln ist nicht die konkrete Schädigung.
@@ -4247,7 +4059,6 @@ Wer organisiert in „Claws of Steel“ die Vereinbarung über die neuen Schulr�
 
 Leung Foon (Leung Kar-yan) und Bucktooth So (Dicky Cheung) finden für ihren Lehrer Wong Fei-hung (Jet Li) eine Vereinbarung mit dem Besitzer eines freien Hauses. Sie lösen damit das Platzproblem der Schule, ohne die spätere Reaktion des Meisters auf den benachbarten Betrieb vorauszusehen. Die beiden Schüler wirken als konkrete Vermittler des Umzugs, bevor aus der scheinbaren Verbesserung eine neue Konfliktlage entsteht.
 
-Merksatz: Zwei Schüler vermitteln die Unterkunft, deren Lage später Ärger macht.
 
 - Leung Foon (Leung Kar-yan) und Bucktooth So (Dicky Cheung): Leung Foon und Bucktooth So vereinbaren die neuen Räume.
 - Ti Yin-er (Sharla Cheung) und Miss Nine (Anita Yuen): Ti Yin-er und Miss Nine vermitteln diesen Umzug nicht.
@@ -4269,7 +4080,6 @@ Welche Tiergestalten prägen die ungewöhnliche Kampfsequenz im Finale von „Cl
 
 Die ungewöhnliche Kampfsequenz führt Hahn und Tausendfüßler gegeneinander und verbindet Verkleidung, Bewegung und komische Übertreibung. Wong Fei-hung (Jet Li) bleibt dabei der vertraute Kampfkunstheld, dessen Umgebung in dieser Abwandlung ungewöhnlich verspielt erscheint. David Brook beschreibt das Paar in seiner Besprechung ausdrücklich und ordnet seine Choreografie der Tradition des Löwentanzes zu. Die konkrete Gestalt der Szene ist damit unabhängig vom bloßen Auftreten des Volkshelden.
 
-Merksatz: Hahn und Tausendfüßler geben dem Finale seine ungewöhnlichen Gestalten.
 
 - Tiger und Schlange: Tiger und Schlange sind nicht dieses Paar.
 - Hahn und Tausendfüßler: Die Sequenz inszeniert den Kampf von Hahn und Tausendfüßler.
@@ -4291,7 +4101,6 @@ In welchem Jahr wurde „Claws of Steel“ mit Jet Li erstmals veröffentlicht?
 
 Claws of Steel wurde 1993 veröffentlicht und ist auch als Last Hero in China bekannt. Zwei Jahre später erschien 1995 Thunderbolt mit Jackie Chan. Miramax führt beide Filme mit diesen Werkjahren. Der Vergleich verbindet zwei Hongkong-Actionfilme mit unterschiedlichen Stars und Schauplätzen: hier eine komische historische Kampfkunstgeschichte, dort einen modernen Rennsportkonflikt. Spätere Heimvideoausgaben ändern das frühere Erstjahr nicht.
 
-Merksatz: 1993 und 1995 trennen zwei unterschiedliche Hongkong-Actionfilme um zwei Jahre.
 
 - 1990: 1990 liegt drei Jahre davor.
 - 1995: 1995 gehört zum späteren Thunderbolt.
@@ -4313,7 +4122,6 @@ Wer führte bei „Claws of Steel“ die Hauptregie?
 
 Wong Jing inszeniert Jet Li erneut als Wong Fei-hung, diesmal in einer eigenständigen komischen Abwandlung. Yuen Woo-ping choreografierte die Action, während die Gesamtregie Wong Jing zugeordnet wird. Das Sony-Classics-Presseheft zu CJ7 führt Last Hero in China in Connie Wongs Filmografie ausdrücklich unter ihrer Zusammenarbeit mit Regisseur Wong Jing. Diese Quelle stützt die Trennung der Hauptregie von der Kampfgestaltung.
 
-Merksatz: Wong Jings Gesamtregie bleibt von Yuen Woo-pings Actionarbeit getrennt.
 
 - Yuen Woo-ping: Yuen Woo-pings Action-Choreografie ist kein zusätzlicher Hauptregiecredit.
 - Tsui Hark: Tsui Hark inszenierte diesen eigenständigen Film nicht.
@@ -4339,7 +4147,6 @@ Welcher zivilen Arbeit geht Chan Foh To (Jackie Chan) in „Thunderbolt“ nach?
 
 Chan Foh To (Jackie Chan) arbeitet mit seiner Familie in einer Werkstatt und kennt sich mit schnellen Autos aus. Diese Fähigkeiten bringen ihn zugleich in Kontakt mit der Polizei, die gegen illegale Straßenrennen vorgeht. Der Film entwickelt seinen Konflikt somit aus einer gewöhnlichen Arbeit und einem besonderen Können. Der Mechaniker gerät nicht als hauptberuflicher Ermittler in die Auseinandersetzung mit dem kriminellen Fahrer.
 
-Merksatz: Der Werkstattberuf wird zur Grundlage einer gefährlichen Rennaufgabe.
 
 - Er arbeitet als Hafenlotsenhelfer.: Ein Hafenberuf ist nicht seine Arbeit.
 - Er arbeitet als Automechaniker.: Er betreibt mit seiner Familie eine Autowerkstatt.
@@ -4361,7 +4168,6 @@ Wen entführt Cougar (Thorsten Nickel) in „Thunderbolt“, um Chan Foh To (Jac
 
 Cougar (Thorsten Nickel) reagiert auf seine Festnahme mit Gewalt gegen Chan Foh Tos (Jackie Chan) Familie. Er verwüstet die Werkstatt, verletzt den Vater und entführt die beiden jüngeren Schwestern. Dadurch wird aus dem Konflikt mit einem gefährlichen Fahrer eine persönliche Erpressung. Chan muss sich auf dessen Forderung einlassen, während die Polizei versucht, die Gefangenen zu finden und den Täter erneut festzunehmen.
 
-Merksatz: Die Geiseln machen das Rennen zu einer Familienangelegenheit.
 
 - Seinen Vater und seinen Bruder: Vater und Bruder sind nicht das entführte Paar.
 - Seine Freundin und ihre Mutter: Die Geiseln sind nicht Freundin und Mutter.
@@ -4383,7 +4189,6 @@ In welchem Land soll Chan Foh To (Jackie Chan) in „Thunderbolt“ gegen Cougar
 
 Cougar (Thorsten Nickel) verlangt von Chan Foh To (Jackie Chan), sich mit ihm bei einem Rennen in Japan zu messen. Die Reise führt den Mechaniker aus der Hongkonger Ausgangssituation in eine neue Umgebung, während das Leben seiner Schwestern weiterhin bedroht ist. Für die Antwort zählt der Ort innerhalb der Geschichte; einzelne reale Drehorte der Produktion sind davon zu unterscheiden.
 
-Merksatz: Die Erpressung führt Chan von Hongkong zum Rennen nach Japan.
 
 - Malaysia: Malaysia ist ein Drehort, aber nicht dieses Handlungsziel.
 - Thailand: Thailand ist nicht der verlangte Rennort.
@@ -4405,7 +4210,6 @@ Welches Ersatzfahrzeug erhält Chan Foh To (Jackie Chan) in „Thunderbolt“ na
 
 Chan Foh Tos (Jackie Chan) vorbereiteter Wagen wird bei einer Kollision zerstört, bevor er den entscheidenden Wettbewerb bewältigen kann. Miss Kenya (Marie Eguro), die Tochter eines Mitsubishi-Managers, hilft ihm mit neuen weißen GTO-Rennwagen und Reifen. Diese Unterstützung verhindert, dass der technische Rückschlag das Rennen vorzeitig beendet. Der spätere Sieg braucht deshalb neben seinem Fahrkönnen auch konkrete Hilfe außerhalb seiner eigenen Werkstatt.
 
-Merksatz: Ein weißer GTO ermöglicht nach dem Unfall einen neuen Start.
 
 - Einen weißen Mitsubishi GTO: Miss Kenya stellt ihm weiße Mitsubishi GTO zur Verfügung.
 - Einen roten Nissan Skyline: Ein roter Skyline ist nicht das Ersatzmodell.
@@ -4427,7 +4231,6 @@ Wie überwindet Chan Foh To (Jackie Chan) in „Thunderbolt“ den Stillstand ne
 
 Chan Foh To (Jackie Chan) und Cougar (Thorsten Nickel) geraten kurz vor Schluss nebeneinander in den Kies. Während beide den Weg zurück suchen, beschleunigt Chan rückwärts und erreicht den Zieleinlauf mit einer Drehung zurück in Vorwärtsrichtung. Sein Wagen berührt die Linie zuerst. Die ungewöhnliche Bewegung verbindet den technischen Rückschlag mit der konkreten Lösung des Rennens und macht den Sieg zu einer Frage des Improvisierens.
 
-Merksatz: Die Rückwärtsbewegung wird durch die Drehung zum entscheidenden Zieleinlauf.
 
 - Er lässt seinen Wagen vom Gegner über die Linie schieben.: Der Gegner schiebt ihn nicht zum Sieg.
 - Er beschleunigt zunächst rückwärts und dreht den Wagen wieder vorwärts.: Er fährt rückwärts los und dreht sich für den Zieleinlauf.
@@ -4449,7 +4252,6 @@ Was tut Chan Foh To (Jackie Chan) in „Thunderbolt“ nach Cougars (Thorsten Ni
 
 Nach dem verlorenen Rennen versucht Cougar (Thorsten Nickel), der Polizei zu entkommen. Chan Foh To (Jackie Chan) verfolgt ihn, bis dessen Wagen schwer verunglückt und brennt. Der Mechaniker zieht den Gegner aus dem Wrack und überlässt ihn den Beamten. Der Schluss verbindet damit die persönliche Auseinandersetzung mit einer Festnahme: Der besiegte Täter wird gerettet und muss sich anschließend der Polizei stellen.
 
-Merksatz: Der Mechaniker rettet den besiegten Täter für die Festnahme.
 
 - Er lässt Cougar im Wrack und wartet allein auf die Feuerwehr.: Er wartet nicht nur untätig auf die Feuerwehr.
 - Er versteckt Cougar vor der Polizei in einer Werkstatt.: Er hält Cougar nicht vor der Polizei verborgen.
@@ -4471,7 +4273,6 @@ In welchem Jahr wurde „Thunderbolt“ mit Jackie Chan erstmals veröffentlicht
 
 Thunderbolt erschien 1995 mit Jackie Chan als Mechaniker und Rennfahrer. Elf Jahre später folgte 2006 Rob-B-Hood, in dem er einen Einbrecher spielt, der ein entführtes Baby schützen muss. Miramax und das Hong Kong Film Archive bestätigen die beiden Werkjahre. Der Vergleich verbindet konkrete Stationen desselben Hauptdarstellers, deren Geschichten sich über Autos, Gefahr und Verantwortung entwickeln, ohne einen gemeinsamen Figurenzyklus zu bilden.
 
-Merksatz: 1995 und 2006 trennen Rennfahrer und Einbrecherrolle um elf Jahre.
 
 - 1992: 1992 liegt drei Jahre davor.
 - 1998: 1998 liegt drei Jahre danach.
@@ -4493,7 +4294,6 @@ Wer führte bei „Thunderbolt“ mit Jackie Chan die Hauptregie?
 
 Gordon Chan inszeniert die Rennsportgeschichte um Chan Foh To (Jackie Chan) und Cougar (Thorsten Nickel). Jackie Chan und Sammo Hung wirken an der Actiongestaltung mit, während Miramax Gordon Chan als Regisseur nennt. Die Verfolgungen und Kämpfe sind dadurch in einen gesamten Film mit Familienkonflikt und Wettbewerb eingebunden. Der Hauptregiecredit bleibt von den spezialisierten Aufgaben an seinen Actionszenen getrennt.
 
-Merksatz: Gordon Chans Hauptregie bleibt von Jackie Chans und Sammo Hungs Actionarbeit getrennt.
 
 - Gordon Chan: Miramax nennt Gordon Chan als Regisseur.
 - Jackie Chan: Jackie Chans Actionarbeit ist nicht der Hauptregiecredit.

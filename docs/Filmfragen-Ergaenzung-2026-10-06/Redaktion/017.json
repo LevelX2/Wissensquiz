@@ -32,13 +32,13 @@
       ],
       "short": "Rob Hall ist der Leiter einer kommerziellen Bergexpedition.",
       "context": "Die Kunden bringen unterschiedliche Erfahrung und persönliche Wünsche mit. Hall muss ihre Ziele mit den Bedingungen am Berg verbinden. Führung bedeutet hier zugleich Begleitung und Verantwortung für sichere Entscheidungen.",
-      "anchor": "Hall führt Kunden zum Gipfel und trägt Verantwortung für den Rückweg.",
       "interest": "Die Ausgangsrolle erklärt den Entscheidungskonflikt.",
       "sources": [
         "handlung",
         "universal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hall führt Kunden zum Gipfel und trägt Verantwortung für den Rückweg."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Ein heftiger Schneesturm trifft die Bergsteiger.",
       "context": "Der Gipfel ist nur die Hälfte der Aufgabe. Der Sturm trifft erschöpfte Menschen, die wieder in tiefere Lager gelangen müssen. Die Bedingungen verschärfen dadurch die Folgen bereits entstandener Verzögerungen.",
-      "anchor": "Der Gipfelweg endet nicht oben: Im Sturm wird der Rückweg lebensentscheidend.",
       "interest": "Das Ereignis erschließt den zentralen Überlebenskonflikt.",
       "sources": [
         "universal",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Gipfelweg endet nicht oben: Im Sturm wird der Rückweg lebensentscheidend."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Hall steigt mit Doug Hansen trotz der späten Stunde weiter.",
       "context": "Doug Hansen (John Hawkes) fürchtet, keine weitere Chance zu bekommen. Hall lässt sich auf den späteren Aufstieg ein. Der persönliche Wunsch kollidiert mit dem Zeitplan, der für den Abstieg vor Dunkelheit vorgesehen war.",
-      "anchor": "Dougs Gipfelwunsch überschreitet Halls sicheren Zeitplan.",
       "interest": "Die Entscheidung verbindet menschlichen Wunsch und konkrete Gefahr.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Dougs Gipfelwunsch überschreitet Halls sicheren Zeitplan."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Zusammenarbeit soll die Folgen der Überfüllung am Berg mindern.",
       "context": "Die beiden kommerziellen Expeditionen konkurrieren zunächst miteinander. An engen Stellen kann Konkurrenz jedoch zusätzliche Verzögerungen bedeuten. Der gemeinsame Weg zwingt die Leiter, die Sicherheitslage über die Trennung ihrer Unternehmen zu stellen.",
-      "anchor": "Konkurrenten müssen auf einem überfüllten Berg zusammenarbeiten.",
       "interest": "Der Zusammenhang erklärt ein praktisches Problem kommerzieller Expeditionen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Konkurrenten müssen auf einem überfüllten Berg zusammenarbeiten."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Die Kommunikation des Basislagers verbindet Hall mit Jan.",
       "context": "Helen Wilton (Emily Watson) versucht, Rob über Jans Stimme zum Weiterkämpfen zu bewegen. Jan (Keira Knightley) ist schwanger und wartet zu Hause. Die Technik überbrückt die Entfernung, kann die körperliche Isolation am Berg aber nicht aufheben.",
-      "anchor": "Halls letzter Kontakt zu Jan führt über das Basislager.",
       "interest": "Die Szene verknüpft Kommunikationshilfe und persönliche Grenze einer Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Halls letzter Kontakt zu Jan führt über das Basislager."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Die Produktion kombinierte Nepal, Italien und ein Studio in England.",
       "context": "Die Darsteller und das Team arbeiteten zunächst in Nepal und anschließend in italienischen Hochgebirgsorten. Pinewood ermöglichte kontrollierbare Bedingungen für weitere Szenen. Mehrere Drehumgebungen tragen so den Eindruck einer einzigen gefährlichen Expedition.",
-      "anchor": "Nepal, italienische Berge und Pinewood bilden gemeinsam die Filmexpedition.",
       "interest": "Die Herstellung erklärt den Unterschied zwischen dargestellter Gefahr und Drehumgebung.",
       "sources": [
         "universal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Nepal, italienische Berge und Pinewood bilden gemeinsam die Filmexpedition."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Der Film wurde 2015 erstmals veröffentlicht.",
       "context": "Die dargestellte Katastrophe ereignete sich 1996. Der Spielfilm erschien 2015, neunzehn Jahre später. Ereignisjahr und Filmjahr werden dadurch als zwei verschiedene Zeitpunkte verständlich.",
-      "anchor": "1996 die Katastrophe, 2015 der Film: neunzehn Jahre Abstand.",
       "interest": "Der historische Anlass liefert einen präzisen Zeitanker.",
       "sources": [
         "handlung",
         "universal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1996 die Katastrophe, 2015 der Film: neunzehn Jahre Abstand."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "Baltasar Kormákur führte Regie.",
       "context": "Kormákur war auch als Produzent beteiligt. William Nicholson und Simon Beaufoy schrieben das Drehbuch. Die Verantwortung für die Inszenierung ist damit von der gemeinsamen Autorenarbeit zu unterscheiden.",
-      "anchor": "Kormákur inszeniert; Nicholson und Beaufoy schreiben.",
       "interest": "Die Creditzuordnung wird durch konkrete Filmaufgaben erklärt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kormákur inszeniert; Nicholson und Beaufoy schreiben."
     }
   ]
 }

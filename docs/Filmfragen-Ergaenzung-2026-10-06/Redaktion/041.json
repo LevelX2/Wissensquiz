@@ -36,13 +36,13 @@
       ],
       "short": "Chiron wird als Kind, Jugendlicher und junger Erwachsener gezeigt.",
       "context": "Chiron wird als Kind (Alex Hibbert), Jugendlicher (Ashton Sanders) und junger Erwachsener (Trevante Rhodes) gezeigt. Die Zeitsprünge lassen entscheidende Erfahrungen nebeneinanderstehen.",
-      "anchor": "Drei Lebensabschnitte, drei Chiron-Darsteller.",
       "interest": "Die Gliederung eröffnet den Zugang zur Lebensgeschichte.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Drei Lebensabschnitte, drei Chiron-Darsteller."
     },
     {
       "code": "L2",
@@ -61,13 +61,13 @@
       ],
       "short": "Chiron wächst in Miami auf.",
       "context": "Chiron (Alex Hibbert) wächst in Miami auf. Der Stadtteil Liberty City bildet den Ausgangspunkt; Strand und Meer öffnen ihm zeitweise einen anderen Raum als Schule und konfliktreiches Zuhause.",
-      "anchor": "Liberty City in Miami ist Chirons Ausgangspunkt.",
       "interest": "Das Umfeld erklärt die unterschiedlichen Lebensräume.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Liberty City in Miami ist Chirons Ausgangspunkt."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Juan verkauft Drogen, die Paula (Naomie Harris) konsumiert.",
       "context": "Juan (Mahershala Ali) verkauft Drogen, die Paula (Naomie Harris) konsumiert. Obwohl er Chiron (Alex Hibbert) Schutz bietet, beteiligt er sich an dessen belastendem Umfeld; seine Fürsorge hebt diesen Widerspruch nicht auf.",
-      "anchor": "Chirons Beschützer ist zugleich Paulas Drogendealer.",
       "interest": "Chirons Beschützer ist zugleich Paulas Drogendealer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Chirons Beschützer ist zugleich Paulas Drogendealer."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Chiron schlägt Terrel (Patrick Decile) mit einem Stuhl.",
       "context": "Chiron (Ashton Sanders) schlägt Terrel (Patrick Decile) mit einem Stuhl. Nach der vorherigen Misshandlung schlägt die Ohnmacht in Vergeltung um; die Polizei führt ihn aus der Schule ab.",
-      "anchor": "Der Stuhlschlag beendet Chirons Schulabschnitt.",
       "interest": "Der Stuhlschlag beendet Chirons Schulabschnitt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Stuhlschlag beendet Chirons Schulabschnitt."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Das Lied erinnert Kevin (André Holland) an Chiron (Trevante Rhodes).",
       "context": "Das Lied erinnert Kevin (André Holland) an Chiron (Trevante Rhodes). Deshalb ruft Kevin (André Holland) ihn an und spielt es später im Diner; Musik verbindet ihre getrennten Lebenswege.",
-      "anchor": "„Hello Stranger“ setzt das Wiedersehen in Gang.",
       "interest": "„Hello Stranger“ setzt das Wiedersehen in Gang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "„Hello Stranger“ setzt das Wiedersehen in Gang."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Chiron gesteht seine seither ausgebliebene Intimität.",
       "context": "Chiron (Trevante Rhodes) gesteht seine seither ausgebliebene Intimität. Hinter seinem imposanten Auftreten bleibt die frühere Verletzlichkeit erhalten; Kevin (André Holland) kann ihn nun trösten, ohne dass das Ende eine gesamte Zukunft festlegt.",
-      "anchor": "Die harte Fassade verbirgt Chirons unveränderte Sehnsucht.",
       "interest": "Die harte Fassade verbirgt Chirons unveränderte Sehnsucht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die harte Fassade verbirgt Chirons unveränderte Sehnsucht."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Der Film wurde 2016 erstmals veröffentlicht.",
       "context": "2016 wurde der Film in Telluride vorgestellt. Die Vorlage, Tarell Alvin McCraneys unveröffentlichtes Stück, entstand bereits 2003 nach dem Tod seiner Mutter. Zwischen dem Schreiben und dem Kinofilm liegen somit dreizehn Jahre.",
-      "anchor": "2016 wurde McCraneys 2003 geschriebenes Stück nach dreizehn Jahren zum Film.",
       "interest": "2016 wurde McCraneys 2003 geschriebenes Stück nach dreizehn Jahren zum Film.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2016 wurde McCraneys 2003 geschriebenes Stück nach dreizehn Jahren zum Film."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Regie: Barry Jenkins.",
       "context": "Jenkins bearbeitete ein unveröffentlichtes Theaterstück von Tarell Alvin McCraney. Beide Autoren wuchsen in Liberty City auf; der Film gliedert Chirons Leben in drei Abschnitte mit unterschiedlichen Hauptdarstellern.",
-      "anchor": "Jenkins bearbeitete ein unveröffentlichtes Theaterstück von Tarell Alvin McCraney.",
       "interest": "Jenkins bearbeitete ein unveröffentlichtes Theaterstück von Tarell Alvin McCraney.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jenkins bearbeitete ein unveröffentlichtes Theaterstück von Tarell Alvin McCraney."
     }
   ]
 }

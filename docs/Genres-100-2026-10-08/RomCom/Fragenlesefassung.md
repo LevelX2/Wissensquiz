@@ -19,7 +19,6 @@ Welche Beeinträchtigung hat die Blumenverkäuferin (Virginia Cherrill) in „Li
 
 Die Blumenverkäuferin (Virginia Cherrill) kann den Tramp (Charlie Chaplin) nicht sehen. Deshalb entsteht ihre Vorstellung von ihm durch Geräusche, Berührungen und seine Hilfe. Er wird für sie zu einem großzügigen Mann, dessen tatsächliche Armut sie zunächst nicht kennt. Die Blindheit schafft so die Voraussetzung für ein Missverständnis, das später seine Bemühungen um ihre Behandlung und die besondere Form des Wiedererkennens miteinander verbindet.
 
-Merksatz: Sie kennt den Helfer zunächst ohne dessen sichtbare Erscheinung.
 
 - Sie ist gehörlos: Sie ist nicht gehörlos.
 - Sie ist blind: Sie kann nicht sehen.
@@ -41,7 +40,6 @@ Wann behandelt der Millionär (Harry Myers) den Tramp (Charlie Chaplin) in „Li
 
 Der Millionär (Harry Myers) wird vom Tramp (Charlie Chaplin) vor einem Suizid bewahrt und nimmt ihn betrunken als Freund auf. Sobald er nüchtern ist, erkennt er den Besucher jedoch nicht mehr an. Diese wechselnde Behandlung öffnet und verschließt dem armen Mann den Zugang zu Geld, Haus und Gesellschaft. Aus einer rettenden Begegnung entsteht dadurch keine verlässliche Freundschaft, sondern eine Bindung, die immer wieder unvermittelt abbricht.
 
-Merksatz: Die Freundschaft verschwindet mit der Nüchternheit.
 
 - Wenn er allein im Haus ist: Alleinsein entscheidet nicht über die Freundschaft.
 - Wenn seine Gäste zusehen: Die Anwesenheit von Gästen erklärt den Wechsel nicht.
@@ -63,7 +61,6 @@ Welche Arbeit nimmt der Tramp (Charlie Chaplin) in „Lichter der Großstadt“ 
 
 Der Tramp (Charlie Chaplin) arbeitet als Straßenkehrer, damit er die Blumenverkäuferin (Virginia Cherrill) unterstützen kann. Der Lohn soll ihre bedrängte Lage verbessern, ohne dass sie seine eigene Armut erfährt. Die Arbeit ist jedoch keine dauerhafte Lösung: Er verliert die Stelle. Der Versuch, durch gewöhnliche Erwerbsarbeit zu helfen, führt deshalb weiter zu einer riskanteren Möglichkeit, Geld zu verdienen, dem geplanten Boxkampf um ein Preisgeld.
 
-Merksatz: Die Hilfe beginnt mit Straßenkehrerlohn.
 
 - Er arbeitet als Hotelportier: Ein Hotel beschäftigt ihn für diese Hilfe nicht.
 - Er arbeitet als Tellerwäscher: Tellerwaschen ist nicht die gezeigte Arbeit.
@@ -85,7 +82,6 @@ Warum scheitert in „Lichter der Großstadt“ die ursprüngliche Absprache fü
 
 Der Tramp (Charlie Chaplin) hofft auf einen Boxkampf mit einem abgesprochenen Ausgang und geteiltem Preisgeld. Sein ursprünglicher Partner verschwindet jedoch, und der neue Gegner (Hank Mann) lässt sich auf die Abmachung nicht ein. Der scheinbar sichere Verdienst wird damit zu einem echten Kampf gegen einen überlegenen Mann. Die komischen Ausweichbewegungen entstehen aus diesem Wechsel: Er versucht, eine nun unkontrollierbare Situation mit Einfallsreichtum zu überstehen.
 
-Merksatz: Der Ersatzgegner macht aus dem Geldplan einen echten Kampf.
 
 - Ein Ersatzgegner lehnt den abgesprochenen Ausgang ab: Der Ersatzgegner macht beim verabredeten Kampf nicht mit.
 - Der Veranstalter streicht das vereinbarte Preisgeld: Das Preisgeld wird nicht als Ursache gestrichen.
@@ -107,7 +103,6 @@ Welches Geräusch trägt in „Lichter der Großstadt“ dazu bei, dass die Blum
 
 Die Blumenverkäuferin (Virginia Cherrill) hört eine Autotür und verbindet dieses Geräusch mit dem Tramp (Charlie Chaplin), der gerade eine Blume kauft. Sie hält ihn deshalb für einen Mann mit eigenem Wagen. Für das Publikum ist die tatsächliche Situation sichtbar; die junge Frau erschließt sie allein über das Gehör. Der Film nutzt so dieselbe Begegnung für zwei unterschiedliche Wahrnehmungen und begründet das spätere Missverständnis über seine gesellschaftliche Stellung.
 
-Merksatz: Die Autotür erzeugt ein Bild von Wohlstand.
 
 - Das Klimpern einer gefüllten Geldbörse: Eine volle Geldbörse löst dieses Missverständnis nicht aus.
 - Eine zuschlagende Autotür: Sie deutet die Autotür als Hinweis auf seinen Besitz.
@@ -129,7 +124,6 @@ Wodurch erkennt die inzwischen sehende Blumenverkäuferin (Virginia Cherrill) ih
 
 Die Blumenverkäuferin (Virginia Cherrill) sieht nun und begegnet dem Tramp (Charlie Chaplin), ohne ihn zunächst als ihren früheren Wohltäter einzuordnen. Erst als sie seine Hand berührt, verbindet sie den sichtbaren armen Mann mit dem ihr vertrauten Helfer. Die Szene löst die Identitätsfrage durch eine Wahrnehmung, die bereits während ihrer Blindheit möglich war. Wie sich die Beziehung danach entwickelt, bleibt offen; das Wiedererkennen selbst ist eindeutig gezeigt.
 
-Merksatz: Die vertraute Hand verbindet das frühere und das neue Bild.
 
 - Durch seine Stimme beim Blumenkauf: Seine Stimme bewirkt die Erkenntnis nicht.
 - Durch seinen Namen in einer Zeitungsmeldung: Eine Zeitungsmeldung identifiziert ihn nicht für sie.
@@ -151,7 +145,6 @@ In welchem Jahr wurde „Lichter der Großstadt“ mit Charlie Chaplin erstmals 
 
 Lichter der Großstadt wurde 1931 uraufgeführt, vier Jahre nach The Jazz Singer von 1927. Obwohl sich der Tonfilm inzwischen durchgesetzt hatte, verzichtete Charlie Chaplin weiterhin auf gesprochenen Dialog seiner Figuren. Musik und Geräusche gehören dennoch zur Tonspur. Der Abstand zeigt eine bewusste gestalterische Entscheidung innerhalb eines technischen Umbruchs: Der Film verwendet Ton, bewahrt aber die Verständigung durch sichtbares Spiel und Zwischentitel.
 
-Merksatz: 1927 The Jazz Singer, 1931 City Lights: vier Jahre.
 
 - 1927: 1927 erschien The Jazz Singer, nicht dieser Film.
 - 1929: 1929 liegt vor der Premiere.
@@ -173,7 +166,6 @@ Wer führte bei „Lichter der Großstadt“ mit Virginia Cherrill und Harry Mye
 
 Charlie Chaplin führte bei Lichter der Großstadt Regie und spielte den Tramp. Die Verbindung von Darstellung und Inszenierung ist für die genaue Abstimmung der Körperkomik bedeutsam: Ein Missverständnis kann aus einer Bewegung entstehen und durch eine weitere Bewegung aufgelöst werden. Der offizielle Regiecredit bezeichnet dabei die Verantwortung für den Film als Ganzes. Virginia Cherrill und Harry Myers verkörpern die beiden wichtigsten Begegnungen seiner Hauptfigur.
 
-Merksatz: Chaplin gestaltet den Film und spielt den Tramp.
 
 - Charlie Chaplin: Charlie Chaplin trägt den Hauptregiecredit.
 - Buster Keaton: Keaton inszenierte diesen Film nicht.
@@ -199,7 +191,6 @@ Welchen Beruf haben Adam und Amanda Bonner (Spencer Tracy, Katharine Hepburn) in
 
 Adam Bonner (Spencer Tracy) und Amanda Bonner (Katharine Hepburn) arbeiten beide als Juristen. Ein Strafverfahren bringt ihre beruflichen Standpunkte in direkten Gegensatz: Er vertritt die Anklage, sie übernimmt die Verteidigung. Dadurch bleibt der Streit nicht auf das Gericht beschränkt, sondern setzt sich zu Hause fort. Ihr gemeinsames Fachgebiet schafft zunächst Nähe und gemeinsame Sprache, wird aber auch zum Mittel, mit dem sie einander öffentlich herausfordern.
 
-Merksatz: Der gemeinsame Beruf wird zum Schauplatz des Ehekonflikts.
 
 - Beide sind Ärzte: Sie arbeiten nicht beide als Ärzte.
 - Beide sind Journalisten: Journalismus ist nicht ihr gemeinsamer Beruf.
@@ -221,7 +212,6 @@ Weshalb wird Doris Attinger (Judy Holliday) in „Ehekrieg“ angeklagt?
 
 Doris Attinger (Judy Holliday) folgt ihrem Mann Warren (Tom Ewell), überrascht ihn bei einer anderen Frau und schießt auf ihn. Das daraus entstehende Strafverfahren bildet den Ausgangspunkt für den Streit des Ehepaars Bonner. Amanda (Katharine Hepburn) verteidigt Doris, während Adam (Spencer Tracy) als Ankläger auftritt. Die Tat erhält dadurch zwei Ebenen: ihre juristische Beurteilung und die Frage, welche Erwartungen die Gesellschaft an verletzte Ehemänner und Ehefrauen stellt.
 
-Merksatz: Doris’ Schüsse eröffnen das Strafverfahren.
 
 - Sie hat die Geliebte ihres Mannes erpresst: Eine Erpressung ist nicht die angeklagte Tat.
 - Sie hat die gemeinsame Wohnung angezündet: Ein Wohnungsbrand führt nicht zum Verfahren.
@@ -243,7 +233,6 @@ Welche gesellschaftliche Ungleichheit kritisiert Amanda Bonner (Katharine Hepbur
 
 Amanda Bonner (Katharine Hepburn) will zeigen, dass die Gesellschaft eine eifersüchtige Frau strenger beurteilt als einen Mann in derselben Lage. Sie stellt daher die Erwartungen an Ehebruch und Gegenwehr in den Mittelpunkt. Adam (Spencer Tracy) hält dagegen an der Strafbarkeit der Tat fest. Der Konflikt entsteht nicht allein aus persönlicher Loyalität, sondern aus zwei unterschiedlichen Blicken auf dasselbe Verfahren: Gleichbehandlung und Verantwortung für gewaltsames Handeln stehen gegeneinander.
 
-Merksatz: Amanda verlangt gleiche Maßstäbe für die Geschlechter.
 
 - Ehebruch und Eifersucht werden bei Männern anders bewertet: Amanda greift unterschiedliche Maßstäbe für Männer und Frauen an.
 - Wohlhabende Angeklagte erhalten meist mildere Strafen: Vermögensabhängige Strafen sind nicht ihr Hauptargument.
@@ -265,7 +254,6 @@ Wie demonstriert Olympia La Pere (Hope Emerson) in „Ehekrieg“ ihre körperli
 
 Olympia La Pere (Hope Emerson) gehört zu den Frauen, deren Fähigkeiten Amanda Bonner (Katharine Hepburn) vor Gericht vorführt. Ihre körperliche Kraft zeigt sie ausgerechnet an Adam (Spencer Tracy), den sie hochhebt. Damit wird eine abstrakte Behauptung über männliche Überlegenheit durch ein sichtbares Gegenbeispiel unterbrochen. Zugleich wird der Ankläger selbst zum Gegenstand der Vorführung, sodass der berufliche Konflikt für ihn auch eine persönliche Demütigung erhält.
 
-Merksatz: Olympia macht Adam zum anschaulichen Gegenbeispiel.
 
 - Sie trägt Amanda Bonner (Katharine Hepburn) durch den Saal: Amanda wird bei dieser Demonstration nicht getragen.
 - Sie hebt Adam Bonner (Spencer Tracy) hoch: Olympia hebt Adam hoch.
@@ -287,7 +275,6 @@ Woraus besteht die vermeintliche Pistole, mit der Adam Bonner (Spencer Tracy) in
 
 Adam Bonner (Spencer Tracy) bedroht Amanda (Katharine Hepburn) und Kip Lurie (David Wayne) scheinbar mit einer Pistole. Ihre Empörung über die Waffe ermöglicht ihm, die zuvor vertretene Rechtfertigung von Eifersuchtsgewalt gegen sie zu wenden. Dann beißt er ein Stück von der Pistole ab: Sie ist eine Süßigkeit. Die Szene verbindet deshalb eine ernsthafte argumentative Falle mit einer sichtbaren komischen Auflösung der unmittelbaren Gefahr.
 
-Merksatz: Die gefährlich wirkende Pistole lässt sich aufessen.
 
 - Aus bemaltem Holz: Es ist keine bemalte Holzattrappe.
 - Aus schwarz gefärbtem Wachs: Wachs bildet diese Attrappe nicht.
@@ -309,7 +296,6 @@ Welche Entscheidung Cole Porters führte laut der von AFI referierten Kanin-Erin
 
 AFI referiert Garson Kanins Erinnerung: Cole Porter wollte kein Lied für die ursprünglich Madelaine genannte Juristin schreiben. Daraufhin erhielt die Figur, gespielt von Katharine Hepburn, den Namen Amanda. Im Film singt der Nachbar Kip Lurie (David Wayne) Farewell, Amanda für sie. Die Anekdote zeigt, wie eine musikalische Entscheidung bis in die Benennung einer Hauptfigur eingreifen kann. Sie wird ausdrücklich als rückblickende Erinnerung Kanins zugeschrieben.
 
-Merksatz: Porters Einwand gegen Madelaine führt nach Kanins Erinnerung zum Namen Amanda.
 
 - Er wollte den Figurennamen aus einem bestehenden Lied übernehmen: AFI berichtet keine solche Übernahme eines bestehenden Liednamens als Anlass.
 - Er wollte den Figurennamen durch den Namen der Darstellerin ersetzen: Hepburns eigener Name erklärt die Änderung nicht.
@@ -331,7 +317,6 @@ In welchem Jahr wurde „Ehekrieg“ mit Spencer Tracy und Katharine Hepburn ers
 
 Ehekrieg erschien 1949. Vierundzwanzig Jahre später, 1973, begann bei ABC eine gleichnamige Fernsehserie mit Ken Howard und Blythe Danner. Das AFI nennt diese spätere Bearbeitung der Konstellation zweier verheirateter Juristen. Die beiden Jahreszahlen unterscheiden daher die ursprüngliche Kinokomödie von einem Fernsehformat, das ihren Ausgangspunkt erneut verwendete. Die Serie ist keine weitere Veröffentlichung desselben Films, sondern eine eigene Produktion mit neuer Besetzung.
 
-Merksatz: 1949 Film, 1973 Fernsehserie: 24 Jahre.
 
 - 1949: Der Film erschien 1949.
 - 1946: 1946 ist nicht das Erstjahr.
@@ -353,7 +338,6 @@ Wer führte bei „Ehekrieg“ mit Spencer Tracy und Katharine Hepburn Hauptregi
 
 George Cukor inszenierte Ehekrieg nach einem Drehbuch von Ruth Gordon und Garson Kanin. Spencer Tracy und Katharine Hepburn spielen das Juristenpaar, dessen öffentlicher Prozessstreit in die eigene Beziehung hineinreicht. Die Credits unterscheiden die Regie von der gemeinsam geleisteten Drehbucharbeit. Gerade das Wechselspiel zwischen Gerichtsauftritten und privaten Auseinandersetzungen gehört zur Gestaltung des Films: Dieselben Argumente gewinnen in der Ehe eine andere Wirkung als vor Publikum.
 
-Merksatz: Cukor inszeniert, Gordon und Kanin schreiben.
 
 - George Stevens: Stevens führte hier nicht Regie.
 - George Cukor: George Cukor ist der Hauptregisseur.
@@ -379,7 +363,6 @@ Welchen Beruf hat Paul Varjak (George Peppard) in „Frühstück bei Tiffany“?
 
 Paul Varjak (George Peppard) zieht in dasselbe Haus wie Holly Golightly (Audrey Hepburn) und stellt sich als Schriftsteller vor. Sein beruflicher Erfolg liegt jedoch zurück, und seine finanzielle Lage hängt von einer privaten Beziehung ab. Damit begegnen sich zwei Menschen, deren Auftreten nicht einfach ihre tatsächlichen Lebensumstände verrät. Das Schreiben gibt Paul eine eigene Perspektive auf Holly, löst aber seine Unsicherheit über Geld und Unabhängigkeit zunächst nicht.
 
-Merksatz: Paul schreibt, lebt aber nicht allein von seiner Literatur.
 
 - Fotograf: Fotografie ist nicht sein Beruf.
 - Maler: Paul arbeitet nicht als Maler.
@@ -401,7 +384,6 @@ Wie bezeichnet Holly Golightly (Audrey Hepburn) in „Frühstück bei Tiffany“
 
 Holly Golightly (Audrey Hepburn) lebt mit einer Katze zusammen, der sie keinen Namen gegeben hat. Sie erklärt diese Entscheidung mit ihrer Vorstellung, dass beide einander nicht gehören. Das Tier wird dadurch zu einem konkreten Ausdruck ihres Widerstands gegen feste Bindungen. Die Haltung betrifft mehr als einen ungewöhnlichen Haustiernamen: Holly möchte sich selbst als unabhängig verstehen, obwohl sie ständig auf andere Menschen und deren Unterstützung angewiesen ist.
 
-Merksatz: Die namenlose Katze verkörpert Hollys Widerstand gegen Zugehörigkeit.
 
 - Sie gibt ihr keinen Namen: Die Katze hat keinen eigenen Namen.
 - Sie nennt sie nach ihrem früheren Ehemann: Sie trägt nicht den Namen ihres früheren Mannes.
@@ -423,7 +405,6 @@ Welche Funktion haben die „Wetterberichte“, die Holly (Audrey Hepburn) in �
 
 Holly Golightly (Audrey Hepburn) besucht Sally Tomato (Alan Reed) im Gefängnis und gibt anschließend seine scheinbar harmlosen Wetterberichte weiter. Sie versteht zunächst nicht, dass die Meldungen zum Nachrichtenaustausch eines Drogenrings gehören. Der bezahlte Gefängnisbesuch verbindet deshalb ihre Suche nach Einkommen mit einer Gefahr, die sie unterschätzt. Als die Verbindung bekannt wird, hat sie Folgen für ihre gesellschaftlichen und persönlichen Pläne, obwohl sie sich selbst nicht als Beteiligte eines solchen Geschäfts sieht.
 
-Merksatz: Der harmlose Wetterbericht ist ein krimineller Code.
 
 - Sie koordinieren einen geplanten Gefängnisausbruch: Ein Ausbruch wird damit nicht organisiert.
 - Sie transportieren verschlüsselte Informationen eines Drogenrings: Die Meldungen dienen einem Drogenring als verschlüsselte Nachrichten.
@@ -445,7 +426,6 @@ Welche Beziehung hat Doc Golightly (Buddy Ebsen) in „Frühstück bei Tiffany�
 
 Doc Golightly (Buddy Ebsen) erscheint in New York und erzählt Paul Varjak (George Peppard) von Hollys (Audrey Hepburn) früherem Leben. Er ist kein Vater, sondern ihr früherer Ehemann; sie lebte damals unter dem Namen Lula Mae. Sein Auftauchen macht die Entfernung zwischen ihrer New Yorker Selbstdarstellung und ihrer Herkunft sichtbar. Er möchte sie zurückbringen, während Holly an dem selbst gewählten Leben festhält, auch wenn dieses unsicher und widersprüchlich bleibt.
 
-Merksatz: Doc gehört zu Hollys früherer Ehe und Identität.
 
 - Er ist ihr Adoptivvater: Die Ehe ist keine Adoptivvaterbeziehung.
 - Er ist ihr älterer Bruder: Er ist nicht ihr Bruder.
@@ -467,7 +447,6 @@ Woher stammt der Ring, den Paul (George Peppard) in „Frühstück bei Tiffany�
 
 Paul Varjak (George Peppard) und Holly Golightly (Audrey Hepburn) besuchen das Schmuckgeschäft und suchen eine Möglichkeit, dort mit wenig Geld etwas Besonderes zu erhalten. Der Ring stammt aus einer Cracker-Jack-Packung und soll graviert werden. Der geringe materielle Wert widerspricht der persönlichen Bedeutung der Geste nicht. Die Szene zeigt, wie die beiden innerhalb einer Welt von Luxus und hohen Preisen eine eigene kleine Form von Verbindlichkeit herstellen.
 
-Merksatz: Ein billiger Packungsring bekommt eine persönliche Gravur.
 
 - Aus einem Pfandhaus: Paul kauft ihn dafür nicht im Pfandhaus.
 - Aus einem verlassenen Hotelzimmer: Er findet ihn nicht in einem Hotelzimmer.
@@ -489,7 +468,6 @@ Warum unterstützt Emily „2E“ Failenson (Patricia Neal) Paul (George Peppard
 
 Emily „2E“ Failenson (Patricia Neal) finanziert Paul Varjaks (George Peppard) Leben als Teil ihrer Affäre. Seine Unabhängigkeit als Schriftsteller ist deshalb zunächst ebenso fraglich wie Hollys (Audrey Hepburn) Selbstbild einer ungebundenen Frau. Als Paul sich Holly zuwendet, muss er auch diese finanzielle Bindung verändern. Das Geld ist kein neutraler Zuschuss zur Kunst, sondern verbindet Versorgung mit einer persönlichen Beziehung, aus der er sich lösen möchte.
 
-Merksatz: Pauls Geld hängt an seiner Affäre mit 2E.
 
 - Die Unterstützung ist mit ihrer Affäre verbunden: Das Geld gehört zur persönlichen Affäre.
 - Sie verwaltet seinen geerbten Familienfonds: Paul lebt nicht von einem von ihr verwalteten Erbe.
@@ -511,7 +489,6 @@ In welchem Jahr wurde „Frühstück bei Tiffany“ mit Audrey Hepburn und Georg
 
 Frühstück bei Tiffany wurde 1961 veröffentlicht, drei Jahre nach Truman Capotes gleichnamiger Novelle von 1958. Das AFI nennt die literarische Vorlage und die New Yorker Weltpremiere. Der zeitliche Abstand verbindet zwei eigenständige Fassungen des Stoffes: Die filmische Beziehung zwischen Holly Golightly (Audrey Hepburn) und Paul Varjak (George Peppard) folgt einer eigenen Bearbeitung. Das Vorlagenjahr gehört daher nicht zur Erstveröffentlichung der Verfilmung.
 
-Merksatz: 1958 Novelle, 1961 Film: drei Jahre.
 
 - 1958: 1958 erschien Capotes Vorlage.
 - 1961: Die Weltpremiere fand 1961 statt.
@@ -533,7 +510,6 @@ Wer führte bei „Frühstück bei Tiffany“ mit Audrey Hepburn und George Pepp
 
 Blake Edwards führte bei der Verfilmung Regie; George Axelrod schrieb das Drehbuch nach Truman Capotes Vorlage. Das AFI beschreibt zudem frühere Planungen mit John Frankenheimer, die vom fertigen Film zu unterscheiden sind. Eine Entwicklungsphase schafft keinen zusätzlichen Hauptregiecredit. Die endgültige Inszenierung verbindet Hollys (Audrey Hepburn) gesellschaftliches Auftreten mit Pauls (George Peppard) Beobachtung und einer Liebesgeschichte, deren Verlauf nicht einfach aus dem Buch übernommen wurde.
 
-Merksatz: Blake Edwards verantwortet die fertiggestellte Filmfassung.
 
 - Stanley Donen: Donen trägt diesen Regiecredit nicht.
 - Billy Wilder: Wilder führte hier nicht Regie.
@@ -559,7 +535,6 @@ Womit verdient Alvy Singer (Woody Allen) in „Der Stadtneurotiker“ seinen Leb
 
 Alvy Singer (Woody Allen) arbeitet als Komiker und verwendet auch seine Beziehungen als Stoff für Beobachtungen und Witze. Die berufliche Rolle erklärt seine Sicherheit im Sprechen, ohne ihn im persönlichen Leben sicher zu machen. Er kommentiert Ereignisse, wendet sich direkt ans Publikum und erinnert sich an die Beziehung zu Annie Hall (Diane Keaton). Seine Erzählerstimme gehört deshalb zu einem Mann, der Erfahrungen in Worte verwandelt, sie damit aber nicht unbedingt bewältigt.
 
-Merksatz: Alvy kann Beziehungen kommentieren, ohne sie sicher zu führen.
 
 - Mit Auftritten als Komiker: Alvy tritt als Komiker auf.
 - Mit Arbeit als Literaturkritiker: Literaturkritik ist nicht sein Beruf.
@@ -581,7 +556,6 @@ Welche künstlerische Laufbahn möchte Annie Hall (Diane Keaton) in „Der Stadt
 
 Annie Hall (Diane Keaton) möchte singen und tritt in einem Nachtclub auf. Ihr erstes Auftreten verläuft unsicher, während spätere Auftritte mehr Selbstvertrauen zeigen. Alvy Singer (Woody Allen) ermutigt sie, reagiert aber zugleich widersprüchlich auf ihre wachsende Eigenständigkeit. Die künstlerische Entwicklung gehört deshalb zu ihrer persönlichen Veränderung. Sie findet eine Stimme, die nicht nur Teil der gemeinsamen Beziehung ist, sondern auch neue Kontakte und Möglichkeiten außerhalb davon eröffnet.
 
-Merksatz: Annies Gesang steht für wachsende Eigenständigkeit.
 
 - Eine Laufbahn als Tänzerin: Tanz ist nicht die angestrebte Laufbahn.
 - Eine Laufbahn als Sängerin: Annie möchte als Sängerin auftreten.
@@ -603,7 +577,6 @@ Bei welcher Freizeitaktivität lernen Alvy und Annie (Woody Allen, Diane Keaton)
 
 Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) lernen sich beim Tennis kennen. Nach dem Spiel entwickeln sich ein verlegenes Gespräch und eine gemeinsame Fahrt. Das Treffen beginnt in einer gewöhnlichen Freizeitgruppe und führt erst allmählich in eine persönliche Annäherung. Dadurch erscheint die Beziehung nicht als sofortige sichere Übereinstimmung: Unsicherheit, unterschiedliche Ausdrucksweisen und das Bemühen, einen guten Eindruck zu machen, prägen schon ihre ersten Gespräche.
 
-Merksatz: Eine Tennisrunde wird zum Beginn der Beziehung.
 
 - Beim Bowling: Bowling führt sie nicht zusammen.
 - Beim Billard: Billard ist nicht der Ort des Kennenlernens.
@@ -625,7 +598,6 @@ Weshalb ruft Annie (Diane Keaton) Alvy (Woody Allen) in „Der Stadtneurotiker�
 
 Annie Hall (Diane Keaton) bittet Alvy Singer (Woody Allen) nachts um Hilfe wegen einer Spinne. Der scheinbar kleine häusliche Anlass bringt die bereits getrennten Partner wieder zusammen. Ihre Nähe erneuert sich dabei nicht durch ein ausführlich ausgehandeltes Beziehungsmodell, sondern durch eine vertraute Form von Hilfe und gemeinsame Reaktionen. Die Szene zeigt, wie eine praktische Bitte Gefühle wieder aktiviert, obwohl die früheren Schwierigkeiten damit noch nicht gelöst sind.
 
-Merksatz: Die Spinne öffnet den Weg zurück in die Beziehung.
 
 - Sie hat sich aus dem Schlafzimmer ausgesperrt: Eine verschlossene Schlafzimmertür ist nicht der Anlass.
 - Sie fürchtet einen Einbrecher im Treppenhaus: Ein Einbrecher löst den Anruf nicht aus.
@@ -647,7 +619,6 @@ Was zeigen die Untertitel beim frühen Fotografiegespräch von Alvy und Annie (W
 
 Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) sprechen über Fotografie, während Untertitel ihre nicht ausgesprochenen Gedanken zeigen. Der höfliche Austausch und die inneren Erwartungen laufen dadurch nebeneinander. Das Publikum erhält mehr Informationen als die Figuren im Gespräch voneinander bekommen. Diese Gestaltung macht das erste gegenseitige Abtasten sichtbar: Die Worte beschäftigen sich mit Kunst, während Unsicherheit, Anziehung und die Angst vor einem ungünstigen Eindruck eine andere Ebene bilden.
 
-Merksatz: Untertitel zeigen, was das höfliche Gespräch verschweigt.
 
 - Ihre unausgesprochenen Gedanken: Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar.
 - Ihre späteren Erinnerungen an das Gespräch: Sie berichten nicht rückblickend aus späteren Erinnerungen.
@@ -669,7 +640,6 @@ Wie verändert Alvy (Woody Allen) in „Der Stadtneurotiker“ die eigene Bezieh
 
 Alvy Singer (Woody Allen) verarbeitet seine Beziehung zu Annie Hall (Diane Keaton) in einem Theaterstück. Dort endet die Begegnung anders als in seinem Leben: Das Paar findet zusammen. Die Veränderung macht den Abstand zwischen Erfahrung und künstlerischer Bearbeitung sichtbar. Alvy kann in einer geschriebenen Szene eine gewünschte Antwort erzeugen, die er in der tatsächlichen Beziehung nicht erhält. Sein Erzählen wird damit ausdrücklich auch zu einem Versuch, Verlust nachträglich zu ordnen.
 
-Merksatz: Das Theaterstück gibt Alvy das verweigerte glückliche Ende.
 
 - Er lässt die Trennung durch einen Brief erfolgen: Ein Trennungsbrief ist nicht die wesentliche Änderung.
 - Er lässt das Paar am Ende zusammenkommen: Im Stück erhält die Beziehung den gewünschten glücklichen Ausgang.
@@ -691,7 +661,6 @@ In welchem Jahr wurde „Der Stadtneurotiker“ mit Woody Allen und Diane Keaton
 
 Der Stadtneurotiker erschien 1977. Zwei Jahre später, 1979, veröffentlichten Ralph Rosenblum und Robert Karen When the Shooting Stops…The Cutting Begins. Das AFI zieht diese Schnittmemoiren für die Entstehungsgeschichte des Films heran. Der Abstand verbindet das fertige Werk mit einer späteren Darstellung seiner Bearbeitung: Rosenblum beschreibt, wie das Material im Schnitt zur konzentrierten Beziehungsgeschichte wurde. Das Buchjahr ist damit eine zusätzliche Station der Werkgeschichte, nicht das Filmjahr.
 
-Merksatz: 1977 Film, 1979 Schnittmemoiren: zwei Jahre.
 
 - 1974: 1974 ist nicht das Erstjahr.
 - 1979: 1979 erschienen die hier herangezogenen Schnittmemoiren.
@@ -713,7 +682,6 @@ Wer führte bei „Der Stadtneurotiker“ mit Diane Keaton Hauptregie?
 
 Woody Allen führte bei Der Stadtneurotiker Regie und spielte Alvy Singer. Diane Keaton verkörpert Annie Hall. Gemeinsam mit Marshall Brickman schrieb Allen außerdem das Drehbuch, dessen Autorencredit von der Regie zu unterscheiden ist. Die Inszenierung verbindet direkte Publikumsansprache, Rückblenden und sichtbar gemachte Gedanken zu einer Erinnerung an die Beziehung. Alvys Darstellung erhält dadurch mehrere Formen, ohne dass seine persönliche Sicht zur einzigen möglichen Wahrnehmung der Ereignisse wird.
 
-Merksatz: Woody Allen inszeniert die Zusammenarbeit mit Diane Keaton.
 
 - Robert Altman: Altman inszenierte diese Zusammenarbeit nicht.
 - Mike Nichols: Nichols trägt diesen Regiecredit nicht.
@@ -739,7 +707,6 @@ In welchem wohlhabenden Umfeld lebt Cher (Alicia Silverstone) in „Clueless –
 
 Cher (Alicia Silverstone) lebt als Tochter eines wohlhabenden Anwalts in Beverly Hills. Kleidung, Autos und gesellschaftliche Kontakte wirken für sie zunächst wie selbstverständlich verfügbare Mittel, mit denen sich Probleme lösen lassen. Das Umfeld erklärt ihren selbstbewussten Blick auf andere Menschen, ohne ihre Fehleinschätzungen zu verhindern. Ihre Ratschläge an Freundinnen beruhen deshalb sowohl auf Hilfsbereitschaft als auch auf der Annahme, dass ihre eigene Lebensweise das passende Vorbild für alle sei.
 
-Merksatz: Beverly Hills prägt Chers selbstverständlichen Blick auf Wohlstand.
 
 - Palm Beach: Palm Beach ist nicht ihr Wohnumfeld.
 - Beverly Hills: Chers Alltag spielt im Milieu von Beverly Hills.
@@ -761,7 +728,6 @@ Was unternehmen Cher und Dionne (Alicia Silverstone, Stacey Dash) in „Clueless
 
 Cher (Alicia Silverstone) und Dionne (Stacey Dash) nehmen sich der neuen Mitschülerin Tai (Brittany Murphy) an und verändern ihre Kleidung sowie ihr Auftreten. Cher behandelt das Makeover zunächst als eine erfolgreiche Hilfeleistung. Die neue Beliebtheit entwickelt jedoch eigene Folgen, die sie nicht kontrolliert. Das Projekt zeigt daher nicht nur ein Vorher und Nachher des Aussehens: Es verändert Beziehungen und macht deutlich, dass ein anderer Mensch keine beliebig lenkbare Verbesserungsidee bleibt.
 
-Merksatz: Tais Makeover verändert mehr als ihre Kleidung.
 
 - Sie trainieren sie für die Schulmannschaft: Ein Mannschaftstraining ist nicht ihr Projekt.
 - Sie bereiten sie auf eine Theaterhauptrolle vor: Eine Theaterrolle ist nicht das gemeinsame Vorhaben.
@@ -783,7 +749,6 @@ Was erhofft sich Cher (Alicia Silverstone) in „Clueless – Was sonst!“ zun�
 
 Cher (Alicia Silverstone) möchte, dass Mr. Hall (Wallace Shawn) ihre Leistungen günstiger beurteilt. Sie führt seine Strenge auf Unzufriedenheit zurück und organisiert eine Annäherung mit Miss Geist (Twink Caplan). Der Plan beginnt also mit einem eigenen schulischen Vorteil. Als die Beziehung funktioniert, versteht Cher sich zunehmend als erfolgreiche Vermittlerin. Ihr anfänglicher Eigennutz und ihre spätere Freude am Helfen gehen dabei ineinander über, statt von Anfang an sauber getrennt zu sein.
 
-Merksatz: Der Liebesplan soll zuerst die eigenen Noten verbessern.
 
 - Mehr Freiheit bei der Kleiderordnung: Die Kleiderordnung ist nicht das anfängliche Ziel.
 - Eine Empfehlung für ein Auslandsjahr: Ein Auslandsjahr begründet den Plan nicht.
@@ -805,7 +770,6 @@ Welche familiäre Beziehung verbindet Josh (Paul Rudd) und Cher (Alicia Silverst
 
 Josh (Paul Rudd) war durch eine frühere Ehe von Chers Vater (Dan Hedaya) ihr Stiefbruder. Nach der Scheidung bleibt er der Familie verbunden und hält sich weiterhin im Haus auf. Cher (Alicia Silverstone) begegnet ihm deshalb mit einer Vertrautheit, die zunächst eher nach familiärer Reiberei als nach Anziehung aussieht. Die genaue Beziehung erklärt den gemeinsamen Alltag, ohne eine Blutsverwandtschaft zu behaupten, und ist für die spätere Veränderung ihrer Gefühle bedeutsam.
 
-Merksatz: Die frühere Stieffamilie schafft Vertrautheit ohne Blutsverwandtschaft.
 
 - Er ist ihr früherer Stiefbruder: Josh ist Chers früherer Stiefbruder.
 - Er ist ihr Cousin: Er ist nicht ihr Cousin.
@@ -827,7 +791,6 @@ Welcher Roman von Jane Austen bildet die erzählerische Vorlage für „Clueless
 
 Amy Heckerling überträgt Jane Austens Emma in eine amerikanische Highschoolwelt. Cher (Alicia Silverstone) ähnelt der selbstsicheren Vermittlerin der Vorlage: Sie meint, andere Beziehungen durchschauen und verbessern zu können, erkennt die eigenen Gefühle aber spät. Die Verbindung liegt deshalb nicht in historischen Kostümen oder übernommenen Dialogen, sondern in Figurenfunktionen und Fehleinschätzungen. Ein modernes Milieu kann die Struktur eines älteren Romans bewahren und seine sozialen Voraussetzungen zugleich verändern.
 
-Merksatz: Die moderne Vermittlerin folgt Austens Emma.
 
 - Stolz und Vorurteil: Stolz und Vorurteil ist nicht die Vorlage.
 - Emma: Die Geschichte überträgt Emma in ein modernes Schulmilieu.
@@ -849,7 +812,6 @@ Von wem übernahm Amy Heckerling laut ihrem LoC-Interview das später titelgeben
 
 Amy Heckerling erzählt im Interviewbericht der Library of Congress, dass ihre Babysitterin das Wort clueless verwendete. Der Ausdruck fiel ihr auf und wurde zum Titel der Komödie. Das Detail verweist auf die Beobachtung alltäglicher Sprache als Ausgangspunkt des Schreibens. Der Titel beschreibt die selbstsicheren Fehlurteile der Hauptfigur, stammt aber laut Heckerlings eigener Erinnerung aus einem konkreten Gespräch ihres privaten Alltags und nicht aus einem eigens erfundenen Jugendwort.
 
-Merksatz: Ein Wort der Babysitterin wird zum Filmtitel.
 
 - Von einer Castingassistentin: Eine Castingassistentin lieferte es nach dem Bericht nicht.
 - Von einer Kostümbildnerin: Die Kostümabteilung ist nicht die genannte Quelle.
@@ -871,7 +833,6 @@ In welchem Jahr wurde „Clueless – Was sonst!“ mit Alicia Silverstone und P
 
 Clueless erschien 1995, dreizehn Jahre nach Amy Heckerlings Fast Times at Ridgemont High von 1982. Der gelesene Interviewbericht der Library of Congress verbindet beide Filme als Stationen ihrer Arbeit über Jugendliche. Der Abstand macht sichtbar, dass Heckerling zu einem vertrauten Themenfeld zurückkehrte, dabei aber ein anderes Milieu und eine literarisch angelegte Vermittlungsfigur wählte. Die beiden Jahreszahlen beziehen sich auf unterschiedliche Kinofilme, nicht auf Film und Fernsehserie.
 
-Merksatz: 1982 Fast Times, 1995 Clueless: 13 Jahre.
 
 - 1992: 1992 liegt vor dieser Veröffentlichung.
 - 1997: 1997 ist nicht das Erstjahr.
@@ -893,7 +854,6 @@ Wer führte bei „Clueless – Was sonst!“ mit Alicia Silverstone und Brittan
 
 Amy Heckerling schrieb das Drehbuch und führte bei Clueless Regie. Die Verbindung beider Aufgaben ermöglicht die genaue Abstimmung zwischen Chers (Alicia Silverstone) selbstsicherer Erzählerstimme und den sichtbaren Folgen ihrer Entscheidungen. Ihre Absichten und ihre tatsächlichen Kenntnisse stimmen häufig nicht überein. Der Hauptregiecredit gehört zur Kinoproduktion mit Brittany Murphy als Tai; spätere Fernsehbearbeitungen sind eigene Produktionen und ersetzen diesen Credit nicht.
 
-Merksatz: Heckerling schreibt und inszeniert Chers Fehleinschätzungen.
 
 - Amy Heckerling: Amy Heckerling schrieb und inszenierte den Film.
 - Penny Marshall: Marshall trägt diesen Regiecredit nicht.
@@ -919,7 +879,6 @@ Welchen Beruf hat Julianne Potter (Julia Roberts) in „Die Hochzeit meines best
 
 Julianne Potter (Julia Roberts) arbeitet in New York als Restaurantkritikerin. Ihr Alltag wird unterbrochen, als Michael O’Neal (Dermot Mulroney) seine bevorstehende Hochzeit ankündigt. Sie reist zu ihm, statt die Nachricht nur aus der Ferne zu begleiten. Die beruflich selbstständige Frau gerät dabei in eine Situation, die sie nicht durch souveräne Beobachtung kontrollieren kann. Ihre Fähigkeit, andere zu beurteilen, schützt sie nicht vor Irrtümern über die eigenen Gefühle.
 
-Merksatz: Die professionelle Beobachterin verliert die Kontrolle über ihr eigenes Vorhaben.
 
 - Modejournalistin: Modejournalismus ist nicht ihr Beruf.
 - Reisefotografin: Sie arbeitet nicht als Reisefotografin.
@@ -941,7 +900,6 @@ In welcher US-Stadt findet die Hochzeit statt, zu der Julianne (Julia Roberts) i
 
 Julianne Potter (Julia Roberts) reist von New York nach Chicago, wo Michael O’Neal (Dermot Mulroney) heiraten wird. Die kurze Zeit bis zur Feier setzt ihre Versuche unter Druck, den Ablauf zu verändern. Sie tritt dabei in ein bereits organisiertes Umfeld aus Familie, Freunden und gemeinsamen Vorbereitungen ein. Chicago ist deshalb nicht nur eine Kulisse: Die Reise bringt Julianne in den unmittelbaren Alltag des Paares, dessen feste Pläne sie zuvor unterschätzt hatte.
 
-Merksatz: Die Reise nach Chicago bringt Julianne mitten in die Hochzeitsvorbereitungen.
 
 - Boston: Boston ist nicht der Hochzeitsschauplatz.
 - Seattle: Seattle ist nicht das Reiseziel.
@@ -963,7 +921,6 @@ Welche erfundene Rolle übernimmt George Downes (Rupert Everett) für Julianne (
 
 George Downes (Rupert Everett) kommt nach Chicago, um Julianne Potter (Julia Roberts) zu unterstützen. Sie stellt ihn jedoch als ihren Verlobten vor, um Michael O’Neal (Dermot Mulroney) eifersüchtig zu machen. George spielt die Rolle mit, obwohl er eigentlich zu einem ehrlichen Gespräch geraten hatte. Die erfundene Bindung vergrößert Juliannes Spielraum nur scheinbar: Sie muss weitere Erklärungen finden und entfernt sich erneut von einer offenen Aussage über ihre Gefühle.
 
-Merksatz: George wird zum erfundenen Verlobten statt zum Helfer beim ehrlichen Gespräch.
 
 - Ihren neuen Verlobten: George spielt ihren angeblichen Verlobten.
 - Ihren früheren Ehemann: Er tritt nicht als früherer Ehemann auf.
@@ -985,7 +942,6 @@ Wie reagiert das Publikum auf Kimmys (Cameron Diaz) misslungenen Karaoke-Auftrit
 
 Julianne Potter (Julia Roberts) bringt Kimmy Wallace (Cameron Diaz) zum Karaoke, obwohl diese unsicher singt. Der geplante peinliche Auftritt soll ihr schaden, bewirkt aber das Gegenteil: Das Publikum unterstützt sie. Michael O’Neal (Dermot Mulroney) reagiert ebenfalls liebevoll. Die Szene unterscheidet technische Leistung von persönlicher Wirkung. Ein unvollkommener Auftritt kann Vertrauen und Sympathie stärken, wenn die Zuhörer die erkennbare Anstrengung schätzen, statt ausschließlich saubere Töne zu bewerten.
 
-Merksatz: Die geplante Blamage wird zu einer Sympathieszene.
 
 - Es lacht über sie, ohne sie zu unterstützen: Das Lachen bleibt nicht eine bloße Abwertung ohne Unterstützung.
 - Es feuert sie mit wachsender Sympathie an: Der Auftritt verschafft Kimmy Sympathie und Unterstützung.
@@ -1007,7 +963,6 @@ Warum wird Juliannes (Julia Roberts) gespeicherte gefälschte E-Mail in „Die H
 
 Julianne Potter (Julia Roberts) schreibt im Büro von Walter Wallace (Philip Bosco) eine falsche Nachricht an Michaels (Dermot Mulroney) Vorgesetzten. Sie speichert sie, statt sie selbst zu senden. Walters Sekretärin verschickt jedoch die vorhandenen Entwürfe im Rahmen ihres Auftrags. Dadurch wird die Manipulation wirksam, obwohl Julianne vor dem letzten Schritt zurückschreckt. Das unbeabsichtigte Absenden hebt ihre Verantwortung für den bewusst geschriebenen Inhalt nicht auf.
 
-Merksatz: Ein gespeicherter Entwurf wird durch die Sekretärin zur versandten Manipulation.
 
 - Julianne (Julia Roberts) verwechselt die Speichertaste mit der Sendetaste: Julianne drückt nicht versehentlich selbst auf Senden.
 - Eine automatische Zeitsteuerung löst den Versand aus: Ein zeitgesteuerter Versand ist nicht die Ursache.
@@ -1029,7 +984,6 @@ Mit wem tanzt Julianne (Julia Roberts) am Ende von „Die Hochzeit meines besten
 
 Nachdem Michael O’Neal (Dermot Mulroney) und Kimmy Wallace (Cameron Diaz) geheiratet haben, bleibt Julianne Potter (Julia Roberts) zunächst allein zurück. George Downes (Rupert Everett) spricht mit ihr am Telefon und überrascht sie dann durch seine Anwesenheit bei der Feier. Ihr gemeinsamer Tanz verschafft dem Ende Wärme, ohne ihren ursprünglichen Plan zu erfüllen. Die Freundschaft trägt einen Schluss, in dem Unterstützung und Trost möglich bleiben, auch wenn die gewünschte Liebesbeziehung nicht entsteht.
 
-Merksatz: Der letzte Tanz gehört der verlässlichen Freundschaft.
 
 - Mit Michael (Dermot Mulroney): Der Schlussmoment gehört nicht ihrem Tanz mit Michael.
 - Mit Walter (Philip Bosco): Walter ist nicht ihr letzter Tanzpartner.
@@ -1051,7 +1005,6 @@ In welchem Jahr wurde „Die Hochzeit meines besten Freundes“ mit Julia Robert
 
 Die Hochzeit meines besten Freundes erschien 1997. Siebenundzwanzig Jahre später, 2024, brachte das Ogunquit Playhouse die Musicalbearbeitung als Weltpremiere auf die Bühne. Die offizielle Theaterseite nennt die Produktion ausdrücklich so. Der Abstand verbindet einen Kinofilm mit einer neu gestalteten Bühnenfassung, die den Stoff und bekannte Lieder zusammenführt. Frühere angekündigte Projekte sind davon zu unterscheiden: Für diesen Anker zählt die tatsächlich veranstaltete Premiere in Ogunquit.
 
-Merksatz: 1997 Film, 2024 Musicalpremiere: 27 Jahre.
 
 - 1997: Der Originalfilm erschien 1997.
 - 1994: 1994 ist nicht das Erstjahr.
@@ -1073,7 +1026,6 @@ Wer führte bei „Die Hochzeit meines besten Freundes“ mit Julia Roberts und 
 
 P. J. Hogan inszenierte Die Hochzeit meines besten Freundes nach dem Drehbuch von Ronald Bass. Julia Roberts spielt Julianne, deren Versuche, eine Hochzeit zu verhindern, wiederholt andere Ergebnisse hervorbringen als erhofft. Der Regiecredit bezeichnet die Gestaltung dieses Films; Jerry Zucker gehört zur Produktion. Die getrennten Aufgaben sind in den offiziellen Quellen ausgewiesen. Der australische Regisseur verbindet dabei eine romantische Ausgangslage mit der Komik misslingender Täuschungen.
 
-Merksatz: P. J. Hogan inszeniert Ronald Bass’ Drehbuch.
 
 - Nora Ephron: Ephron inszenierte diesen Film nicht.
 - P. J. Hogan: P. J. Hogan ist der Hauptregisseur.
@@ -1099,7 +1051,6 @@ Bei welcher Gelegenheit begegnen Harold und Maude (Bud Cort, Ruth Gordon) einand
 
 Harold (Bud Cort) und Maude (Ruth Gordon) besuchen die Beerdigung eines Menschen, den sie nicht persönlich kannten. Dieses ungewöhnliche gemeinsame Interesse eröffnet ihre Bekanntschaft. Ihre Haltung zum Tod ist jedoch verschieden: Harold kreist um ihn, während Maude aus seiner Nähe eine Aufforderung zum Leben gewinnt. Das Treffen verbindet deshalb keine einfach gleichgesinnten Figuren. Es schafft einen Ausgangspunkt, von dem aus sich Harolds Blick auf die eigene Gegenwart verändern kann.
 
-Merksatz: Eine fremde Beerdigung eröffnet die Begegnung zweier unterschiedlicher Lebenshaltungen.
 
 - Bei einer Ausstellungseröffnung: Eine Ausstellung eröffnet ihre Bekanntschaft nicht.
 - Bei einer Gartenvereinsversammlung: Eine Gartenversammlung führt sie nicht zusammen.
@@ -1121,7 +1072,6 @@ Wie sucht Harold (Bud Cort) in „Harold und Maude“ wiederholt die Aufmerksamk
 
 Harold (Bud Cort) inszeniert scheinbare Suizide, während seine Mutter (Vivian Pickles) häufig erstaunlich unbeeindruckt reagiert. Die drastischen Vorführungen erzeugen deshalb nicht die Nähe, die er sucht. Der Film verbindet seine Beschäftigung mit dem Tod mit einer gestörten alltäglichen Verständigung im Haus. Eine spektakuläre Geste ersetzt kein tatsächlich zugewandtes Gespräch. Die wiederkehrende Komik lebt gerade aus dem Gegensatz zwischen der aufwendigen Inszenierung und ihrer nüchternen Reaktion.
 
-Merksatz: Die aufwendigen Todesinszenierungen erreichen die Mutter kaum.
 
 - Er inszeniert seinen eigenen Tod: Harold führt scheinbare Suizide vor.
 - Er täuscht schwere Gedächtnisverluste vor: Gedächtnisverluste bilden nicht seine wiederkehrende Inszenierung.
@@ -1143,7 +1093,6 @@ Was macht Harold (Bud Cort) in „Harold und Maude“ aus dem Jaguar, den seine 
 
 Harolds Mutter (Vivian Pickles) schenkt ihm einen Jaguar, um seinen bisherigen Leichenwagen und damit einen Teil seines ungewöhnlichen Auftretens zu ersetzen. Harold (Bud Cort) baut das neue Auto jedoch erneut zu einem Leichenwagen um. Das Geschenk erreicht dadurch nicht die beabsichtigte Normalisierung. Er eignet sich den teuren Wagen auf seine eigene Weise an und macht sichtbar, wie wenig eine materielle Verbesserung allein die Auseinandersetzung über sein Leben verändern kann.
 
-Merksatz: Der geschenkte Jaguar wird wieder zum Leichenwagen.
 
 - Er baut ihn zu einem Rennwagen um: Ein Rennwagen ist nicht sein Umbau.
 - Er baut ihn zu einem Leichenwagen um: Harold verwandelt den Jaguar in einen Leichenwagen.
@@ -1165,7 +1114,6 @@ Was tut Maude (Ruth Gordon) in „Harold und Maude“ mit einem verkümmernden B
 
 Maude (Ruth Gordon) sieht einen verkümmernden Baum in der Stadt und beschließt, ihn an einen besseren Ort zu bringen. Gemeinsam mit Harold (Bud Cort) verpflanzt sie ihn in den Wald. Die spontane Rettungsaktion zeigt ihre Zuwendung zu etwas Lebendigem, ohne sich um die gewöhnlichen Grenzen erlaubten Handelns zu kümmern. Für Harold wird Lebensfreude dadurch praktisch erfahrbar: Sie besteht nicht nur in einem gesprochenen Rat, sondern in einer gemeinsam ausgeführten Handlung.
 
-Merksatz: Der Stadtbaum erhält im Wald einen neuen Lebensort.
 
 - Sie stellt ihn mit Harold (Bud Cort) in ein Gewächshaus: Ein Gewächshaus ist nicht ihr Ziel.
 - Sie verkauft ihn mit Harold (Bud Cort) an eine Gärtnerei: Sie verkaufen den Baum nicht.
@@ -1187,7 +1135,6 @@ Welches Detail entdeckt Harold (Bud Cort) beim Halten von Maudes (Ruth Gordon) H
 
 Harold (Bud Cort) bemerkt auf Maudes (Ruth Gordon) Arm eine Nummerntätowierung. Dieses kurze Detail verweist auf ihre Vergangenheit als Holocaustüberlebende und gibt ihrer Lebensfreude einen schwerwiegenden Hintergrund. Der Film erzählt diese Geschichte nicht ausführlich aus. Die Andeutung macht aber deutlich, dass ihre Haltung nicht aus fehlender Erfahrung mit Leid entsteht. Ein bestimmtes Lager wird dabei nicht benannt und sollte aus der sichtbaren Nummer nicht zusätzlich abgeleitet werden.
 
-Merksatz: Die kurze Tätowierungsaufnahme öffnet eine schwere Vergangenheit.
 
 - Eine kreuzförmige Narbe: Eine kreuzförmige Narbe wird dabei nicht entdeckt.
 - Ein großes Blumenmotiv: Ein Blumenmotiv ist nicht das sichtbare Zeichen.
@@ -1209,7 +1156,6 @@ Was zeigt „Harold und Maude“ nach dem Absturz von Harolds (Bud Cort) Wagen?
 
 Nach Maudes (Ruth Gordon) Tod fährt Harolds (Bud Cort) Wagen über eine Klippe. Der scheinbare Suizid wird unmittelbar anders aufgelöst: Harold steht lebend oben und spielt Banjo. Die Aufnahme trennt die Zerstörung des Leichenwagens vom Tod seines Besitzers. Das Instrument gehört zu dem Leben, das Maude ihm nähergebracht hat. Der Schluss zeigt deshalb eine fortbestehende Verbindung zu ihr, ohne seine eigene Zukunft als weitere Todesinszenierung festzulegen.
 
-Merksatz: Der Leichenwagen stürzt, Harold bleibt lebend mit dem Banjo zurück.
 
 - Harold (Bud Cort) steht lebend auf der Klippe und spielt Banjo: Harold steht lebend auf der Klippe und spielt Banjo.
 - Harold (Bud Cort) wird verletzt aus dem Wagen geborgen: Eine Bergung aus dem Wagen wird nicht gezeigt.
@@ -1231,7 +1177,6 @@ In welchem Jahr wurde „Harold und Maude“ mit Bud Cort und Ruth Gordon erstma
 
 Harold und Maude erschien 1971, zweiundzwanzig Jahre nach Ehekrieg von 1949. Ruth Gordon schrieb das Drehbuch zu Ehekrieg gemeinsam mit Garson Kanin und verkörpert später Maude. Die gelesenen Quellen verbinden damit zwei unterschiedliche Aufgaben derselben Künstlerin: Schreiben und Spielen. Der Abstand ordnet die Hauptdarstellerin in eine längere Filmkarriere ein, statt sie nur als Entdeckung dieses ungewöhnlichen Liebesfilms wahrzunehmen.
 
-Merksatz: 1949 Gordon als Mitautorin, 1971 als Maude: 22 Jahre.
 
 - 1968: 1968 ist nicht das Erstjahr.
 - 1971: Der Film erschien 1971.
@@ -1253,7 +1198,6 @@ Wer führte bei „Harold und Maude“ mit Bud Cort und Ruth Gordon Hauptregie?
 
 Hal Ashby inszenierte Harold und Maude nach einem Drehbuch von Colin Higgins. Bud Cort und Ruth Gordon spielen die Figuren, deren Begegnung einen jungen Mann aus seinen gewohnten Todesbildern herausführt. AFI und Criterion führen Ashbys Regie und Higgins’ Schreiben getrennt auf. Der Film verbindet makabre Komik mit Zärtlichkeit und einer abrupten Veränderung des Blicks auf einzelne Handlungen; die Hauptregie bezeichnet die Gestaltung dieses gesamten Zusammenhangs.
 
-Merksatz: Ashby inszeniert Higgins’ Geschichte mit Cort und Gordon.
 
 - Bob Rafelson: Rafelson führte bei diesem Film nicht Regie.
 - Arthur Penn: Penn trägt diesen Regiecredit nicht.
@@ -1279,7 +1223,6 @@ Weshalb reist Howard Bannister (Ryan O’Neal) in „Is’ was, Doc?“ nach San
 
 Howard Bannister (Ryan O’Neal) reist nach San Francisco, um sich um ein Forschungsstipendium zu bewerben. Seine Verlobte Eunice Burns (Madeline Kahn) begleitet ihn und versucht, den Aufenthalt streng zu ordnen. Das fachliche Ziel wird jedoch von Begegnungen, Verwechslungen und einer Verfolgung überlagert. Gerade der geplante geregelte Auftritt vor möglichen Geldgebern schafft einen Ausgangspunkt, von dem aus die Handlung immer weiter in unkontrollierbare Situationen abweicht.
 
-Merksatz: Die geplante Stipendienbewerbung gerät in ein Verwechslungsabenteuer.
 
 - Er bewirbt sich um ein Forschungsstipendium: Howard konkurriert um ein Forschungsstipendium.
 - Er tritt eine neue Hochschulstelle an: Eine zugesagte Hochschulstelle ist nicht der Reisegrund.
@@ -1301,7 +1244,6 @@ Wie viele gleich aussehende karierte Reisetaschen geraten in „Is’ was, Doc?�
 
 Vier gleich aussehende karierte Reisetaschen treffen im Hotel aufeinander. Eine enthält Howards (Ryan O’Neal) Steine, eine Judys (Barbra Streisand) Kleidung, eine Schmuck und eine geheime Unterlagen. Die äußere Ähnlichkeit verdeckt also völlig unterschiedliche Inhalte und Interessen. Sobald die Taschen vertauscht werden, verfolgen mehrere Gruppen scheinbar dasselbe Objekt aus verschiedenen Gründen. Die Komödie benötigt dafür keine komplizierte technische Täuschung, sondern eine einfache wiederkehrende Verwechslung.
 
-Merksatz: Vier gleiche Taschen verbinden vier unterschiedliche Interessen.
 
 - Zwei: Zwei erfassen nicht alle beteiligten Taschen.
 - Vier: Vier Taschen sehen gleich aus und werden verwechselt.
@@ -1323,7 +1265,6 @@ Welche Eigenschaft untersucht Howard Bannister (Ryan O’Neal) in „Is’ was, 
 
 Howard Bannister (Ryan O’Neal) ist Musikwissenschaftler und untersucht Steine mit besonderen Klangeigenschaften. Was für andere wie gewöhnliches schweres Material aussieht, ist für ihn der Gegenstand einer Forschungsbewerbung. Die Steine bilden deshalb einen eigenen Wert innerhalb der Taschenverwechslung, obwohl andere Beteiligte Schmuck oder geheime Papiere erwarten. Seine konzentrierte fachliche Perspektive kollidiert mit der Umgebung, die dieselben Gegenstände ständig nach ganz anderen Interessen beurteilt.
 
-Merksatz: Die Steine sind für Howard musikalisches Forschungsmaterial.
 
 - Ihre ungewöhnliche elektrische Leitfähigkeit: Elektrische Leitfähigkeit ist nicht sein Untersuchungsziel.
 - Ihre Fähigkeit, Wärme zu speichern: Wärmespeicherung begründet die Forschung nicht.
@@ -1345,7 +1286,6 @@ Als wen stellt sich Judy (Barbra Streisand) beim Bankett in „Is’ was, Doc?�
 
 Judy Maxwell (Barbra Streisand) erscheint beim Bankett als Eunice Burns (Madeline Kahn), die eigentliche Verlobte von Howard Bannister (Ryan O’Neal). Mit Witz und Wissen gewinnt sie die Anwesenden für sich. Howard lässt die Täuschung zu, weil er einen Vorteil für seine Bewerbung erwartet. Als die echte Eunice auftaucht, verteidigt er sogar die falsche Version. Die Identitätsverwechslung beruht daher nicht allein auf Judys Initiative, sondern auch auf seinem eigenen opportunistischen Mitwirken.
 
-Merksatz: Judy ersetzt Eunice beim Bankett, Howard spielt mit.
 
 - Als Mrs. Van Hoskins (Mabel Albertson): Sie übernimmt nicht die Identität der Schmuckbesitzerin.
 - Als Larrabees (Austin Pendleton) Assistentin: Eine Assistentinnenstelle behauptet sie nicht.
@@ -1367,7 +1307,6 @@ Weshalb erhält Howard (Ryan O’Neal) in „Is’ was, Doc?“ schließlich doc
 
 Am Flughafen scheint Hugh Simon (Kenneth Mars) das Stipendium gewonnen zu haben. Judy Maxwell (Barbra Streisand) erkennt jedoch, dass seine Arbeit ein Plagiat ist, und entlarvt ihn. Dadurch erhält Howard Bannister (Ryan O’Neal) die Förderung. Das Ende führt sein ursprüngliches Reisevorhaben zu einem Ergebnis zurück, das weder die Verfolgung noch eine bloß günstige Bekanntschaft erklärt. Judys Wissen wird nun entscheidend, obwohl Howard sie zuvor vor allem als Ursache der Unordnung erlebt hatte.
 
-Merksatz: Judys Plagiatsnachweis rettet Howards Forschungsbewerbung.
 
 - Sein Konkurrent wird als Plagiator entlarvt: Das aufgedeckte Plagiat verändert die Entscheidung.
 - Ein Geldgeber verdoppelt das Förderbudget: Ein verdoppeltes Budget rettet die Bewerbung nicht.
@@ -1389,7 +1328,6 @@ Welchen früheren Film parodiert der letzte Dialog zwischen Judy und Howard (Bar
 
 Judy Maxwell (Barbra Streisand) verwendet im Flugzeug eine bekannte Liebesformel aus Love Story, die Howard Bannister (Ryan O’Neal) sofort als unsinnig zurückweist. Der Witz erhält eine zusätzliche Ebene, weil O’Neal selbst die männliche Hauptrolle in Love Story gespielt hatte. Ein Darsteller widerspricht damit innerhalb eines neuen Films einer Formel, die mit seinem früheren Erfolg verbunden ist. Die romantische Versöhnung bleibt bestehen, während ihr feierlicher Ausdruck komisch gebrochen wird.
 
-Merksatz: O’Neals neue Figur widerspricht der Liebesformel seines früheren Films.
 
 - Die Reifeprüfung: Die Reifeprüfung liefert nicht die parodierte Schlussformel.
 - Love Story: Der Dialog spielt auf Love Story an.
@@ -1411,7 +1349,6 @@ In welchem Jahr wurde „Is’ was, Doc?“ mit Barbra Streisand und Ryan O’Ne
 
 Is’ was, Doc? erschien 1972, zweiundzwanzig Jahre nach dem gleichnamigen Warner-Cartoon von 1950. Das AFI nennt diesen früheren Kurzfilm und seine Verwendung in der Flugzeugszene. Der Abstand verbindet unterschiedliche Formen der Komödie: einen animierten Kurzfilm und einen Spielfilm mit realen Darstellern. Die sichtbare Vorführung des Cartoons gehört zur neuen Filmhandlung; sie macht die ältere Produktion nicht zu einer früheren Fassung desselben Spielfilms.
 
-Merksatz: 1950 Cartoon, 1972 Spielfilm: 22 Jahre.
 
 - 1969: 1969 ist nicht das Erstjahr.
 - 1975: 1975 liegt nach der Veröffentlichung.
@@ -1433,7 +1370,6 @@ Wer führte bei „Is’ was, Doc?“ mit Barbra Streisand und Ryan O’Neal Hau
 
 Peter Bogdanovich inszenierte Is’ was, Doc? mit Barbra Streisand und Ryan O’Neal. Buck Henry, David Newman und Robert Benton werden als Drehbuchautoren geführt. Die Hauptregie ist von diesen drei Schreibcredits zu unterscheiden. Die Gestaltung greift die schnelle Bewegung und die Wortgefechte der Screwball-Komödie auf, verbindet sie aber mit einer ausgedehnten Verfolgung durch San Francisco. Wiederkehrende Taschen und wechselnde Identitäten halten die verschiedenen Handlungsstränge zusammen.
 
-Merksatz: Bogdanovich inszeniert das Zusammenspiel von Wortgefecht und Verfolgung.
 
 - Blake Edwards: Edwards inszenierte diese Komödie nicht.
 - Mel Brooks: Brooks trägt den Regiecredit nicht.
@@ -1459,7 +1395,6 @@ Welchen Beruf hat Paul Bratter (Robert Redford) in „Barfuß im Park“?
 
 Paul Bratter (Robert Redford) beginnt seine Ehe mit Corie Bratter (Jane Fonda) als vorsichtiger junger Rechtsanwalt. Seine kontrollierte Art prägt auch den Umgang mit dem gemeinsamen Zuhause. In der neuen Wohnung treffen zwei Vorstellungen von Alltag aufeinander. Was Corie als Abenteuer begrüßt, prüft Paul zunächst auf praktische Schwierigkeiten und mögliche Unannehmlichkeiten. Die gegensätzlichen Erwartungen machen selbst gewöhnliche Wohnprobleme zum Anlass persönlicher Auseinandersetzungen.
 
-Merksatz: Paul bringt berufliche Vorsicht in den neuen Haushalt.
 
 - Architekt: Er entwirft keine Gebäude als Architekt.
 - Rechtsanwalt: Paul ist ein junger Rechtsanwalt.
@@ -1481,7 +1416,6 @@ Was erschwert in „Barfuß im Park“ den Weg zur neuen Wohnung besonders?
 
 Corie Bratter (Jane Fonda) begeistert sich für die neue Wohnung in Greenwich Village, während Paul Bratter (Robert Redford) ihre Nachteile sofort bemerkt. Gäste müssen die vielen Stufen ebenfalls bewältigen. Die körperliche Anstrengung macht den Wohnort zu einem komischen Schauplatz: Besucher kommen schon erschöpft an, bevor das Gespräch beginnt. Die Treppe beeinflusst dadurch den Rhythmus der Begegnungen im jungen Haushalt.
 
-Merksatz: Vor dem Besuch kommt der mühsame Aufstieg.
 
 - Ein langer Weg durch den Innenhof: Der Innenhof ist nicht das wiederkehrende Hindernis.
 - Ein ständig verschlossenes Hoftor: Ein Hoftor verursacht diese Anstrengung nicht.
@@ -1503,7 +1437,6 @@ Warum organisiert Corie (Jane Fonda) das gemeinsame Abendessen in „Barfuß im 
 
 Ethel Banks (Mildred Natwick) ist Cories verwitwete Mutter. Victor Velasco (Charles Boyer), der ungewöhnliche Nachbar, erscheint Corie Bratter (Jane Fonda) als möglicher neuer Partner für sie. Das gemeinsame Essen mit Paul Bratter (Robert Redford) soll diese Annäherung erleichtern. Corie organisiert die Begegnung voller Optimismus, ohne ausreichend zu berücksichtigen, wie anstrengend Victors Lebensweise für die anderen Gäste sein kann.
 
-Merksatz: Die Tochter plant das Rendezvous der Mutter.
 
 - Sie will die Versöhnung mit ihrem Mann feiern: Das Essen geht dem großen Ehestreit voraus und feiert keine Versöhnung.
 - Sie will den Nachbarn um Umzugshilfe bitten: Umzugshilfe ist nicht der Zweck dieser gemeinsamen Einladung.
@@ -1525,7 +1458,6 @@ Welche Küche bietet das Restaurant des gemeinsamen Ausflugs in „Barfuß im Pa
 
 Victor Velasco (Charles Boyer) führt Corie Bratter (Jane Fonda), Paul Bratter (Robert Redford) und Ethel Banks (Mildred Natwick) zum Essen nach Staten Island. Im albanischen Restaurant werden nicht nur Speisen serviert; Musik, Tanz und Alkohol machen den Besuch zu einem temperamentvollen Erlebnis. Der Abend verdeutlicht die unterschiedlichen Grenzen der Gäste. Cories Begeisterung für Spontaneität trifft auf die Erschöpfung ihrer Begleiter.
 
-Merksatz: Staten Island wird zum albanischen Ausflug.
 
 - Albanische Küche: Victor führt die Gruppe in ein albanisches Restaurant.
 - Griechische Küche: Es ist kein griechisches Lokal.
@@ -1547,7 +1479,6 @@ Wie erreicht Victor Velasco (Charles Boyer) in „Barfuß im Park“ seine Unter
 
 Victor Velasco (Charles Boyer) wohnt über Corie Bratter (Jane Fonda) und Paul Bratter (Robert Redford). Sein ungewöhnlicher Zugang macht die Wohnung des Paars zur Durchgangsstation. Damit bleibt Nachbarschaft nicht auf höfliche Gespräche im Treppenhaus beschränkt. Der fremde Mann greift buchstäblich in den privaten Raum der frisch Verheirateten ein. Diese räumliche Eigenheit erklärt, warum er so rasch Teil ihres Ehealltags wird.
 
-Merksatz: Das Schlafzimmerfenster dient als Durchgang.
 
 - Durch eine Falltür im Hausflur: Eine Falltür ist nicht sein Zugang.
 - Durch das Fenster der Bratters: Er benutzt das Fenster des jungen Paars als Durchgang.
@@ -1569,7 +1500,6 @@ Warum verbringt Ethel Banks (Mildred Natwick) in „Barfuß im Park“ die Nacht
 
 Corie Bratter (Jane Fonda) erschrickt, als Ethel Banks (Mildred Natwick) nicht nach Hause gekommen ist. Die Erklärung ist weniger skandalös, als die Tochter zunächst befürchtet: Beim Heimweg mit Victor Velasco (Charles Boyer) rutscht ihre Mutter auf vereisten Stufen aus. Sie wird zu seiner Unterkunft zurückgebracht. Die Übernachtung zeigt, wie schnell aus unvollständigen Informationen ein falscher Verdacht über eine Beziehung entstehen kann.
 
-Merksatz: Der Sturz erklärt die scheinbar verdächtige Übernachtung.
 
 - Sie verpasst die letzte Fähre: Eine verpasste Fähre erklärt die Übernachtung nicht.
 - Sie verliert ihren Haustürschlüssel: Ein verlorener Schlüssel ist nicht der Anlass.
@@ -1591,7 +1521,6 @@ Wann wurde „Barfuß im Park“ erstmals veröffentlicht?
 
 Neil Simons Bühnenstück eröffnete am Broadway 1963; die Filmfassung erschien 1967, vier Jahre später. Robert Redford spielte Paul Bratter bereits auf der Bühne und übernahm die Rolle vor der Kamera erneut. Der zeitliche Abstand verbindet zwei Aufführungsformen derselben Geschichte. Das Filmjahr bezeichnet daher die Verfilmung, während 1963 zum ursprünglichen Theatererfolg gehört und nicht zum ersten Kinostart.
 
-Merksatz: 1963 Bühne, 1967 Film: vier Jahre Abstand.
 
 - 1963: 1963 eröffnete die Broadway-Vorlage.
 - 1971: 1971 liegt vier Jahre nach der Filmveröffentlichung.
@@ -1613,7 +1542,6 @@ Wer führte bei „Barfuß im Park“ Hauptregie?
 
 Gene Saks übernahm die Hauptregie der Filmfassung von Neil Simons Stück. Die Bühneninszenierung war zuvor von Mike Nichols betreut worden; beide Credits gehören zu unterschiedlichen Fassungen. Jane Fonda als Corie Bratter und Robert Redford als Paul Bratter tragen den Ehekonflikt nun vor der Filmkamera aus. Für Saks war die Verfilmung der Einstieg in die Regie eines abendfüllenden Kinofilms.
 
-Merksatz: Saks inszeniert den Film, Nichols die Bühne.
 
 - Gene Saks: Gene Saks inszenierte die Filmfassung.
 - Mike Nichols: Mike Nichols inszenierte die Broadway-Produktion, nicht diesen Film.
@@ -1639,7 +1567,6 @@ Was betreibt Rob Gordon (John Cusack) in „High Fidelity“?
 
 Rob Gordon (John Cusack) arbeitet im Schallplattenladen Championship Vinyl. Dick (Todd Louiso) und Barry Judd (Jack Black) begleiten seinen Alltag mit eigenen Vorlieben und Urteilen über Musik. Das Geschäft ist zugleich sozialer Treffpunkt und Bühne für Streit über Geschmack. Rob behandelt Songs mit einer Sicherheit, die ihm in Liebesbeziehungen fehlt. Sein musikalisches Spezialwissen ersetzt deshalb keine Aufmerksamkeit für andere Menschen.
 
-Merksatz: Championship Vinyl ist Robs tägliche Musikwelt.
 
 - Einen Musikclub: Er betreibt keinen Club als sein Hauptgeschäft.
 - Ein Tonstudio: Ein Tonstudio ist nicht sein Arbeitsplatz.
@@ -1661,7 +1588,6 @@ Was ordnet Rob (John Cusack) in „High Fidelity“ in einer zentralen persönli
 
 Nachdem Laura (Iben Hjejle) ihn verlassen hat, versucht Rob Gordon (John Cusack), den Verlust durch Ranglisten zu erklären. Er erinnert sich an frühere Beziehungen und vergleicht ihre schmerzhaften Enden. Das vertraute Verfahren aus der Musikdiskussion wird zur Selbstbefragung. Die Ordnung schafft zunächst Abstand zum Schmerz, macht aber auch sichtbar, wie stark Rob seine eigene Perspektive über die Erfahrungen der Frauen stellt.
 
-Merksatz: Top-Fünf-Denken trifft auf Beziehungsprobleme.
 
 - Seine erfolgreichsten Verkaufstage: Verkaufszahlen bilden diese persönliche Liste nicht.
 - Seine besten eigenen Konzerte: Eigene Konzertauftritte sind nicht ihr Thema.
@@ -1683,7 +1609,6 @@ In welcher Stadt spielt Rob Gordons (John Cusack) Alltag in „High Fidelity“?
 
 Rob Gordon (John Cusack) lebt und arbeitet in Chicago. Der Laden Championship Vinyl und seine Begegnungen mit Laura (Iben Hjejle) gehören zu diesem amerikanischen Stadtmilieu. Nick Hornbys Roman war dagegen in London angesiedelt. Die Verfilmung behält den musikalischen Blick auf Beziehungen bei, setzt ihn aber in eine andere urbane Umgebung. Buchschauplatz und Filmhandlung dürfen deshalb nicht gleichgesetzt werden.
 
-Merksatz: Der Roman ist London, der Film Chicago.
 
 - Chicago: Der Film verlegt Robs Alltag nach Chicago.
 - Seattle: Seattle ist nicht der Hauptschauplatz.
@@ -1705,7 +1630,6 @@ Welches Ereignis bringt Rob (John Cusack) und Laura (Iben Hjejle) in „High Fid
 
 Laura (Iben Hjejle) kommt nach dem Tod ihres Vaters wieder auf Rob Gordon (John Cusack) zu. Ihre gemeinsame Vergangenheit gewinnt in der Trauer eine andere Bedeutung als während des vorausgegangenen Streits. Das Wiedersehen löst Robs Selbstbezogenheit nicht automatisch. Es eröffnet jedoch eine neue Nähe, die er nicht allein durch eine Rangliste seiner früheren Beziehungen oder durch das Urteil über einen Rivalen verstehen kann.
 
-Merksatz: Gemeinsame Vergangenheit wird in der Trauer wieder wichtig.
 
 - Die Hochzeit ihrer Schwester: Eine Hochzeit der Schwester löst diese Annäherung nicht aus.
 - Der Tod ihres Vaters: Die Trauer um ihren Vater führt wieder zu Nähe.
@@ -1727,7 +1651,6 @@ Wonach richtet Rob (John Cusack) am Ende von „High Fidelity“ eine neue Zusam
 
 Rob Gordon (John Cusack) beginnt eine neue Musikauswahl für Laura (Iben Hjejle). Dabei möchte er nicht bloß sein eigenes Kennertum vorführen. Er denkt darüber nach, was sie hören will. Die kleine Handlung markiert eine Verschiebung seiner Aufmerksamkeit: Ein Geschenk soll zur Empfängerin passen, statt nur etwas über den Schenkenden auszusagen. Der Schluss fasst Entwicklung in einem vertrauten musikalischen Alltagsritual zusammen.
 
-Merksatz: Die Zusammenstellung soll der Empfängerin gefallen.
 
 - Nach Barrys (Jack Black) Verkaufsprognosen: Barrys Markturteil ist nicht das Auswahlprinzip.
 - Nach den seltensten Erstpressungen: Sammlerwert bestimmt diese Zusammenstellung nicht.
@@ -1749,7 +1672,6 @@ Welches Lied singt Barry (Jack Black) bei seinem Auftritt gegen Ende von „High
 
 Barry Judd (Jack Black) tritt mit seiner Band auf und singt Marvin Gayes „Let’s Get It On“. Rob Gordon (John Cusack) hat seinen lauten Mitarbeiter zuvor vor allem als streitlustigen Musikkenner erlebt. Der Auftritt zeigt eine zusätzliche Seite: Hinter dem dauernden Urteil über fremde Musik steht tatsächlich musikalisches Können. Die Gesangsnummer verändert damit den Eindruck einer vertrauten Nebenfigur, ohne ihre vorherigen Eigenheiten zu löschen.
 
-Merksatz: Der streitlustige Verkäufer erweist sich als Sänger.
 
 - Ain’t No Sunshine: Ain’t No Sunshine ist nicht die Nummer dieses Auftritts.
 - Stand by Me: Stand by Me wird hier nicht als seine Nummer präsentiert.
@@ -1771,7 +1693,6 @@ Wann wurde „High Fidelity“ erstmals veröffentlicht?
 
 „High Fidelity“ erschien 2000, zwölf Jahre nach Stephen Frears’ „Gefährliche Liebschaften“ von 1988. Beide Filme befassen sich mit Begehren und Selbsttäuschung, jedoch in sehr unterschiedlichen gesellschaftlichen Milieus. Der frühere Film spielt mit aristokratischer Verführung, der spätere mit Plattenladenalltag und privaten Ranglisten. Die Verbindung über denselben Regisseur liefert einen konkreten zeitlichen Anker, ohne aus ähnlichen Themen eine gemeinsame Handlung zu machen.
 
-Merksatz: 1988 Gefährliche Liebschaften, 2000 High Fidelity: zwölf Jahre.
 
 - 2000: Der Film erschien 2000.
 - 1996: 1996 liegt vier Jahre davor.
@@ -1793,7 +1714,6 @@ Wer führte bei „High Fidelity“ Hauptregie?
 
 Stephen Frears führte bei der Verfilmung von Nick Hornbys Roman Regie. John Cusack spielte Rob Gordon und gehörte zugleich zum Drehbuchteam. Die Rollen vor und hinter der Kamera werden dadurch nicht austauschbar: Die Hauptregie bleibt Frears zugeordnet. Robs direkte Ansprache des Publikums erlaubt dem Film, seine selbstbewussten Erklärungen neben Handlungen zu stellen, die diese Selbstdarstellung häufig in Frage stellen.
 
-Merksatz: Frears führt Regie; Cusack spielt und schreibt mit.
 
 - Mike Newell: Mike Newell wurde als ausführender Produzent beteiligt, führte aber nicht Hauptregie.
 - Stephen Frears: Stephen Frears ist der Hauptregisseur.
@@ -1819,7 +1739,6 @@ Welchen Bühnenberuf verfolgt Kumail (Kumail Nanjiani) in „The Big Sick“?
 
 Kumail (Kumail Nanjiani) tritt in einem Comedyclub auf und hofft auf größere berufliche Chancen. Dort lernt er Emily Gardner (Zoe Kazan) kennen, die auf seinen Auftritt reagiert. Der Bühnenalltag verbindet den Beginn ihrer Beziehung mit seinen persönlichen Ambitionen. Die Filmfigur trägt den Namen des wirklichen Mitautors und Hauptdarstellers, doch die Geschichte verarbeitet gemeinsame Erlebnisse des realen Paars in einer fiktionalisierten Form.
 
-Merksatz: Ein Comedyauftritt steht am Anfang der Beziehung.
 
 - Musicaldarsteller: Er strebt keine Laufbahn als Musicaldarsteller an.
 - Kabarett-Pianist: Sein Auftritt besteht nicht aus Klavierkabarett.
@@ -1841,7 +1760,6 @@ Mit wem kommt Kumail (Kumail Nanjiani) während Emilys (Zoe Kazan) Krankenhausau
 
 Während Emily Gardner (Zoe Kazan) im Krankenhaus liegt, trifft Kumail (Kumail Nanjiani) auf Beth Gardner (Holly Hunter) und Terry Gardner (Ray Romano). Die Eltern kennen ihn zunächst vor allem als Mann, der ihre Tochter verletzt hat. Gemeinsame Sorge verändert den Umgang miteinander. Der Film lässt eine Beziehung zwischen Angehörigen entstehen, obwohl die erkrankte Tochter selbst an diesen Gesprächen nicht teilnehmen kann.
 
-Merksatz: Gemeinsame Sorge verbindet zunächst misstrauische Menschen.
 
 - Mit ihren Eltern: Die Krise führt ihn mit Emilys Eltern zusammen.
 - Mit ihren Geschwistern: Geschwister sind nicht das zentrale Paar seiner Krankenhausbegegnungen.
@@ -1863,7 +1781,6 @@ Was entdeckt Emily (Zoe Kazan) in „The Big Sick“, bevor sie sich von Kumail 
 
 Emily Gardner (Zoe Kazan) findet die Bilder und fragt Kumail (Kumail Nanjiani) nach ihrer Bedeutung. Seine Familie stellt ihm mögliche Ehepartnerinnen vor, während er Emily über den familiären Widerstand im Unklaren lässt. Der Streit betrifft deshalb nicht allein verschiedene kulturelle Vorstellungen. Emily erkennt, dass sie ihre gemeinsame Zukunft auf einer anderen Informationsgrundlage beurteilt hat als er und verlangt eine ehrliche Entscheidung.
 
-Merksatz: Die Fotos machen den verschwiegenen Familienkonflikt sichtbar.
 
 - Briefe einer heimlich weitergeführten früheren Beziehung: Eine laufende frühere Beziehung ist nicht die entdeckte Wahrheit.
 - Fotos möglicher von der Familie vermittelter Ehepartnerinnen: Die Fotos führen zur Enthüllung der arrangierten Kennenlernversuche.
@@ -1885,7 +1802,6 @@ Wozu gibt Kumail (Kumail Nanjiani) im Krankenhaus von „The Big Sick“ schrift
 
 Kumail (Kumail Nanjiani) wird zu Emily Gardner (Zoe Kazan) ins Krankenhaus gerufen, obwohl die Beziehung bereits zerbrochen ist. Das Personal benötigt eine Entscheidung über das medizinisch eingeleitete Koma. Er unterschreibt und benachrichtigt anschließend ihre Eltern. Die konkrete Handlung bindet ihn an die Krise: Er kann sich nicht auf die Rolle eines unbeteiligten ehemaligen Partners zurückziehen, sondern muss Verantwortung in einer akuten Situation übernehmen.
 
-Merksatz: Die Unterschrift macht aus dem Besuch eine Verantwortung.
 
 - Die Patientin sofort in ein anderes Krankenhaus zu verlegen: Eine Verlegung ist nicht die Entscheidung dieser Szene.
 - Die Patientin für eine experimentelle Studie anzumelden: Die Szene handelt nicht von einer Studienanmeldung.
@@ -1907,7 +1823,6 @@ Welche Diagnose wird für Emily (Zoe Kazan) in „The Big Sick“ schließlich g
 
 Emily Gardner (Zoe Kazan) reagiert schließlich auf eine entzündungshemmende Behandlung und erwacht aus dem Koma. Die Geschichte benennt ihre Erkrankung als seltene Form der Still-Krankheit im Erwachsenenalter. Damit erhält die zuvor rätselhafte Krise eine Erklärung. Die gesundheitliche Besserung löst jedoch nicht gleichzeitig den Beziehungsstreit: Kumail (Kumail Nanjiani) muss akzeptieren, dass Emily seine erneute Nähe nach dem Erwachen nicht sofort erwidert.
 
-Merksatz: Die medizinische Auflösung beendet nicht automatisch den Liebeskonflikt.
 
 - Systemischer Lupus erythematodes: Lupus ist nicht Emilys abschließende Filmdiagnose.
 - Sarkoidose: Sarkoidose wird nicht als Auflösung genannt.
@@ -1929,7 +1844,6 @@ Wie begegnet Emily (Zoe Kazan) Kumail (Kumail Nanjiani) in der Schlussszene von 
 
 Kumail (Kumail Nanjiani) beginnt in New York einen neuen Abschnitt seiner Bühnenlaufbahn. Als ein Zuruf aus dem Publikum seinen Auftritt unterbricht, erkennt er Emily Gardner (Zoe Kazan). Die Begegnung greift die Situation ihres ersten Kennenlernens auf. Nun steht jedoch die gemeinsame Krise zwischen den beiden. Der Schluss eröffnet ihre Annäherung durch eine wiederkehrende Handlung, statt eine sofortige Versöhnung im Krankenzimmer zu behaupten.
 
-Merksatz: Der neue Zuruf spiegelt das erste Kennenlernen.
 
 - Sie ruft aus dem Publikum seines Comedyauftritts: Sie sitzt bei seinem Auftritt und macht sich durch einen Zuruf bemerkbar.
 - Sie wartet am Ausgang seines Flughafens: Die Schlussbegegnung erfolgt nicht am Flughafen.
@@ -1951,7 +1865,6 @@ Wann wurde „The Big Sick“ erstmals veröffentlicht?
 
 „The Big Sick“ wurde 2017 beim Sundance Film Festival erstmals gezeigt. Fünf Jahre zuvor erschien 2012 „Ruby Sparks“, dessen Drehbuch Zoe Kazan schrieb. In „The Big Sick“ spielt Zoe Kazan Emily Gardner; die Autoren sind hier Emily V. Gordon und Kumail Nanjiani. Der Abstand verbindet zwei romantische Filme und unterscheidet Kazans eigene schriftstellerische Arbeit von ihrer Rolle in einer autobiografisch angeregten Geschichte.
 
-Merksatz: 2012 Ruby Sparks, 2017 The Big Sick: fünf Jahre.
 
 - 2013: 2013 liegt vier Jahre davor.
 - 2017: Die Sundance-Premiere lag 2017.
@@ -1973,7 +1886,6 @@ Wer führte bei „The Big Sick“ Hauptregie?
 
 Michael Showalter inszenierte das Drehbuch von Emily V. Gordon und Kumail Nanjiani. Nanjiani übernimmt außerdem die Hauptrolle des Kumail, während Zoe Kazan Emily Gardner spielt. Diese Aufgaben sind von der Regie zu unterscheiden. Der Film verbindet Comedyclub, Familienbegegnungen und Krankenhausphase zu einer Liebesgeschichte, deren längerer Mittelteil von der gemeinsamen Sorge um eine abwesende, erkrankte Person bestimmt wird.
 
-Merksatz: Showalter inszeniert die Geschichte des schreibenden Paars.
 
 - Judd Apatow: Judd Apatow produzierte den Film, führte aber nicht Regie.
 - Nicholas Stoller: Nicholas Stoller trägt hier keinen Hauptregiecredit.
@@ -1999,7 +1911,6 @@ Was möchte Pat (Bradley Cooper) nach seiner Entlassung in „Silver Linings“ 
 
 Pat Solitano Jr. (Bradley Cooper) kehrt nach einem Klinikaufenthalt zu seinen Eltern zurück. Er konzentriert sich auf Nikki (Brea Bee), obwohl sie Abstand von ihm verlangt und eine gerichtliche Schutzanordnung besteht. Seine Überzeugung, die alte Beziehung wiederherstellen zu können, bestimmt viele Entscheidungen. Der Film zeigt dabei die Spannung zwischen einem eigenen Wunsch und der Bereitschaft, Grenzen eines anderen Menschen tatsächlich anzuerkennen.
 
-Merksatz: Pat blickt zuerst auf die zerbrochene Ehe zurück.
 
 - Seine getrennt lebende Frau zurückgewinnen: Pat will seine Beziehung mit Nikki wiederherstellen.
 - Seine erste Jugendliebe wiederfinden: Eine Jugendliebe ist nicht sein anfängliches Ziel.
@@ -2021,7 +1932,6 @@ Welche Gegenleistung verlangt Tiffany (Jennifer Lawrence) in „Silver Linings�
 
 Tiffany Maxwell (Jennifer Lawrence) bietet Pat Solitano Jr. (Bradley Cooper) an, einen Brief an Nikki (Brea Bee) weiterzugeben. Dafür soll er mit ihr trainieren und an einem Tanzwettbewerb teilnehmen. Pat deutet den Tausch zunächst als Hilfe für seine alte Ehe. Die gemeinsamen Proben schaffen jedoch eine neue Beziehung im Alltag. Was als Mittel zu einem anderen Zweck beginnt, verändert seine Aufmerksamkeit und seine Bindung.
 
-Merksatz: Ein Brief wird gegen gemeinsame Tanzproben getauscht.
 
 - Er soll sie zu einer Familienhochzeit begleiten: Eine Hochzeitsbegleitung ist nicht der vereinbarte Tausch.
 - Er soll mit ihr an einem Tanzwettbewerb teilnehmen: Sie benötigt Pat als Partner für den Tanzwettbewerb.
@@ -2043,7 +1953,6 @@ Für welches Footballteam begeistert sich Pats Vater (Robert De Niro) in „Silv
 
 Pat Solitano Sr. (Robert De Niro) verfolgt die Philadelphia Eagles mit großer Leidenschaft. Er verknüpft den Ausgang ihrer Spiele mit persönlichen Ritualen und der Anwesenheit seines Sohnes Pat Solitano Jr. (Bradley Cooper). Dadurch erhält Sport eine Wirkung auf die Familie, die weit über einen Fernsehabend hinausgeht. Die irrationalen Erwartungen des Vaters setzen den Sohn unter Druck und greifen in dessen neue Alltagspläne ein.
 
-Merksatz: Die Eagles bestimmen den familiären Footballalltag.
 
 - Pittsburgh Steelers: Die Steelers sind nicht sein bevorzugtes Team.
 - New York Giants: Er unterstützt nicht die Giants als sein zentrales Team.
@@ -2065,7 +1974,6 @@ Welche Mindestwertung brauchen Pat und Tiffany (Bradley Cooper, Jennifer Lawrenc
 
 Pat Solitano Sr. (Robert De Niro) verbindet eine Footballwette mit dem Ergebnis des Tanzwettbewerbs. Pat Solitano Jr. (Bradley Cooper) und Tiffany Maxwell (Jennifer Lawrence) müssen dafür nicht gewinnen, sondern die vereinbarte Grenze von fünf Punkten erreichen. Das erklärt die ungewöhnliche Reaktion ihrer Angehörigen auf die mäßige Wertung. Für die Familie zählt eine andere Erfolgsbedingung als für das übrige Publikum im Saal.
 
-Merksatz: Die Wette verlangt Mittelmaß statt Turniersieg.
 
 - 6 von 10 Punkten: Sechs Punkte liegen über der geforderten Grenze.
 - 7 von 10 Punkten: Sieben Punkte sind keine notwendige Mindestwertung.
@@ -2087,7 +1995,6 @@ Woran erkennt Pat (Bradley Cooper) in „Silver Linings“ die tatsächliche Ver
 
 Pat Solitano Jr. (Bradley Cooper) bemerkt im angeblichen Brief von Nikki (Brea Bee) eine Wendung, die er von Tiffany Maxwell (Jennifer Lawrence) kennt. Die Worte über das Lesen der Zeichen verbinden den Text mit ihrer eigenen Sprechweise. Er versteht damit, dass sie die Antwort verfasst hat. Diese Erkenntnis bleibt zunächst unausgesprochen und erhält Bedeutung, als er ihr später seine Gefühle offenbart.
 
-Merksatz: Die vertraute Sprache verrät die tatsächliche Autorin.
 
 - An einer aus Gesprächen vertrauten Formulierung: Die vertraute Wendung verrät Tiffanys Urheberschaft.
 - An einer erfundenen gemeinsamen Urlaubserinnerung: Eine erfundene Urlaubserinnerung ist nicht das entscheidende Indiz.
@@ -2109,7 +2016,6 @@ Welches Lied löst bei Pat (Bradley Cooper) in „Silver Linings“ Erinnerungen
 
 Pat Solitano Jr. (Bradley Cooper) reagiert heftig auf Stevie Wonders „My Cherie Amour“. Das Lied ist für ihn mit belastenden Erinnerungen an Nikki (Brea Bee) verbunden; er kann es auch hören, ohne dass es gerade tatsächlich gespielt wird. Die Musik dient deshalb nicht nur als stimmungsvolle Begleitung. Ein vertrauter romantischer Song wird innerhalb seiner subjektiven Wahrnehmung zu einem Zeichen überwältigender Vergangenheit.
 
-Merksatz: Ein Liebeslied wird zum belastenden Erinnerungsreiz.
 
 - You Are the Sunshine of My Life: Dieses andere Stevie-Wonder-Lied ist nicht der genannte Auslöser.
 - My Cherie Amour: My Cherie Amour ist mit seiner belastenden Vergangenheit verknüpft.
@@ -2131,7 +2037,6 @@ Wann wurde „Silver Linings“ erstmals veröffentlicht?
 
 David O. Russells „The Fighter“ erschien 2010, „Silver Linings“ 2012: Zwischen den Filmen liegen zwei Jahre. Beide verknüpfen die Entwicklung ihrer Hauptfigur mit familiären Erwartungen und einer körperlichen Aktivität. Boxkampf und Tanzturnier erfüllen allerdings unterschiedliche Aufgaben. Die Daten geben einen konkreten Abstand innerhalb des Regiewerks und verhindern, dass ein ähnlicher Familienkonflikt die beiden Veröffentlichungen in der Erinnerung zusammenfallen lässt.
 
-Merksatz: 2010 The Fighter, 2012 Silver Linings: zwei Jahre.
 
 - 2008: 2008 liegt vier Jahre davor.
 - 2010: 2010 ist das Jahr von The Fighter.
@@ -2153,7 +2058,6 @@ Wer führte bei „Silver Linings“ Hauptregie?
 
 David O. Russell inszeniert Pat Solitano Jr. (Bradley Cooper) und Tiffany Maxwell (Jennifer Lawrence) in einer Geschichte über Beziehungswünsche, Konflikte und gemeinsame Tanzproben. Er schrieb auch das Drehbuch nach Matthew Quicks Roman. Die Begegnungen wechseln zwischen streitenden Familienmitgliedern, privaten Gesprächen und einer öffentlichen Vorführung. Der Tanzwettbewerb führt diese Räume zusammen, weil Zuschauer und Beteiligte dasselbe Ergebnis aus unterschiedlichen Gründen bewerten.
 
-Merksatz: Russell inszeniert die Begegnung zwischen Pat und Tiffany.
 
 - Alexander Payne: Alexander Payne ist nicht der Regisseur dieses Films.
 - Jason Reitman: Jason Reitman trägt hier keinen Hauptregiecredit.
@@ -2179,7 +2083,6 @@ Welche Waren verkauft Barry Egan (Adam Sandler) in „Punch-Drunk Love“?
 
 Barry Egan (Adam Sandler) betreibt ein kleines Geschäft für ungewöhnliche Toilettensauger. Sein Arbeitsraum ist keine glänzende Bühne erfolgreicher Selbstverwirklichung, sondern Teil eines einsamen und angespannten Alltags. Die unauffällige Ware steht neben auffälligen Gefühlsausbrüchen. Lena Leonard (Emily Watson) begegnet einem Menschen, der im Beruf funktionierende Abläufe kennt, in persönlichen Beziehungen aber Schwierigkeiten hat, seine Bedürfnisse auszusprechen und Nähe auszuhalten.
 
-Merksatz: Ein ungewöhnlicher Alltagsartikel bildet Barrys Geschäft.
 
 - Besondere Küchenmesser: Küchenmesser sind nicht seine Ware.
 - Ungewöhnliche Toilettensauger: Barry vertreibt neuartige Toilettensauger.
@@ -2201,7 +2104,6 @@ Wohin reist Barry (Adam Sandler) in „Punch-Drunk Love“, um Lena (Emily Watso
 
 Lena Leonard (Emily Watson) reist beruflich nach Hawaii. Barry Egan (Adam Sandler) folgt ihr und wagt damit einen Schritt aus seiner vertrauten Umgebung heraus. Die Begegnung entsteht nicht durch einen zufälligen Urlaub am selben Ort. Er sucht sie bewusst auf. Der Ortswechsel lässt Nähe außerhalb von Betrieb und Familienbesuchen entstehen und gibt seiner zunächst zögernden Beziehung eine konkrete gemeinsame Erfahrung.
 
-Merksatz: Barry folgt Lena bewusst auf die Inseln.
 
 - Nach Puerto Rico: Puerto Rico ist nicht das Reiseziel.
 - Nach Florida: Florida bildet nicht den Schauplatz dieser Begegnung.
@@ -2223,7 +2125,6 @@ Was möchte Barry (Adam Sandler) in „Punch-Drunk Love“ mit großen Einkäufe
 
 Barry Egan (Adam Sandler) entdeckt ein günstiges Verhältnis zwischen dem Preis von Pudding und den dafür angebotenen Flugmeilen. Er kauft deshalb große Mengen. Die Rechnung eröffnet ihm eine ungewöhnliche Vorstellung von Bewegungsfreiheit. Das Guthaben steht allerdings nicht sofort zur Verfügung. Später verspricht er Lena Leonard (Emily Watson), sie nach der Verarbeitung seiner Meilen künftig auf ihre beruflichen Reisen zu begleiten.
 
-Merksatz: Pudding wird zum möglichen Ticket für spätere Reisen.
 
 - Rabattgutscheine für Hotels: Hotelrabatte sind nicht sein Ziel.
 - Freikarten für Vergnügungsparks: Vergnügungsparkkarten gehören nicht zu diesem Angebot.
@@ -2245,7 +2146,6 @@ Welche Handlung führt in „Punch-Drunk Love“ zur Erpressung von Barry (Adam 
 
 Barry Egan (Adam Sandler) sucht in seiner Einsamkeit telefonischen Kontakt. Nach dem Anruf verlangt die Betreiberin Geld und setzt die erhaltenen persönlichen Informationen gegen ihn ein. Das vermeintlich begrenzte Gespräch greift dadurch in seinen Alltag über. Während sich die Beziehung zu Lena Leonard (Emily Watson) entwickelt, muss er zugleich mit einer Bedrohung umgehen, die aus einem früheren Versuch entstanden ist, Nähe ohne direkten persönlichen Kontakt zu finden.
 
-Merksatz: Der private Anruf wird zur fremden Zugriffsmöglichkeit.
 
 - Ein Anruf bei einer Telefonsex-Hotline: Die Telefonsex-Hotline nutzt seine persönlichen Angaben aus.
 - Ein Gespräch über eine Kontaktanzeige: Eine gedruckte Kontaktanzeige löst die Erpressung nicht aus.
@@ -2267,7 +2167,6 @@ Welches Geschäft betreibt Dean Trumbell (Philip Seymour Hoffman) in „Punch-Dr
 
 Dean Trumbell (Philip Seymour Hoffman) steht hinter der Erpressung und betreibt einen Matratzenladen in Utah. Barry Egan (Adam Sandler) sucht ihn dort auf, nachdem die Drohungen eskaliert sind. Die Konfrontation findet deshalb in einem gewöhnlichen Verkaufsraum statt. Das alltägliche Geschäftsumfeld macht die Bedrohung nicht harmlos. Es verbindet Barrys eigenes unscheinbares Berufsleben mit dem ebenso prosaischen Arbeitsplatz eines Mannes, der Macht über ihn ausüben will.
 
-Merksatz: Der Gegner wird im Matratzenladen aufgesucht.
 
 - Einen Teppichladen: Ein Teppichgeschäft ist nicht der Schauplatz der Konfrontation.
 - Einen Matratzenladen: Dean arbeitet im Matratzenhandel.
@@ -2289,7 +2188,6 @@ Was wirft Lena (Emily Watson) Barry (Adam Sandler) nach ihrer Verletzung in „P
 
 Nach dem Zusammenstoß wird Lena Leonard (Emily Watson) medizinisch versorgt. Barry Egan (Adam Sandler) verlässt das Krankenhaus, um Dean Trumbell (Philip Seymour Hoffman) entgegenzutreten. Für Lena ist dieses Weggehen selbst eine Verletzung der neuen Nähe. Die Erklärung seiner Erpressung reicht deshalb nicht als Entschuldigung. Erst ihr Gespräch macht deutlich, dass die Bewältigung äußerer Gefahr nicht erlaubt, die unmittelbar betroffene Partnerin allein zu lassen.
 
-Merksatz: Die Konfrontation kostet zunächst Aufmerksamkeit für Lena.
 
 - Dass er ihre Schwester nicht benachrichtigt hat: Eine unterlassene Nachricht an die Schwester ist nicht der zentrale Vorwurf.
 - Dass er die Reise ohne Rücksprache abgesagt hat: Eine Reiseabsage bildet nicht diesen Konflikt.
@@ -2311,7 +2209,6 @@ Wann wurde „Punch-Drunk Love“ erstmals veröffentlicht?
 
 Paul Thomas Andersons „Magnolia“ erschien 1999, „Punch-Drunk Love“ 2002: Der Abstand beträgt drei Jahre. Auf die große Zahl miteinander verflochtener Lebensgeschichten des früheren Films folgt eine engere Konzentration auf Barry Egan (Adam Sandler) und seine Begegnung mit Lena Leonard (Emily Watson). Die Verbindung verankert das Filmjahr in Andersons Werk, ohne den Cannes-Auftritt von 2002 mit einem späteren nationalen Kinostart zu verwechseln.
 
-Merksatz: 1999 Magnolia, 2002 Punch-Drunk Love: drei Jahre.
 
 - 1998: 1998 liegt vier Jahre davor.
 - 2000: 2000 liegt zwei Jahre davor.
@@ -2333,7 +2230,6 @@ Wer führte bei „Punch-Drunk Love“ Hauptregie?
 
 Paul Thomas Anderson schrieb und inszenierte die Geschichte von Barry Egan (Adam Sandler). Die offizielle Cannes-Filmseite nennt ihn eindeutig als Regisseur und Drehbuchautor. Lena Leonard (Emily Watson) tritt in Barrys von Schwestern, Geschäft und plötzlichen Ausbrüchen bestimmten Alltag. Die Liebesgeschichte verändert dessen Verhältnis zur Außenwelt, ohne ihn von Beginn an als gelassenen Helden zu präsentieren oder seine Schwierigkeiten mit einem einfachen Witz aufzulösen.
 
-Merksatz: Paul Thomas Anderson begleitet Barrys schwierige Annäherung.
 
 - Paul Thomas Anderson: Paul Thomas Anderson schrieb und inszenierte den Film.
 - Wes Anderson: Wes Anderson ist ein anderer Filmemacher und hat hier keinen Regiecredit.
@@ -2359,7 +2255,6 @@ Mit welcher Ausrede erklärt Jess (Parminder Nagra) in „Kick it like Beckham�
 
 Jess Bhamra (Parminder Nagra) trainiert heimlich mit einer Frauenmannschaft. Ihren Eltern erklärt sie die Abwesenheit durch einen Ferienjob. Die Lüge verschafft ihr zunächst Freiraum, hält aber die Auseinandersetzung über ihre Wünsche auf. Joe (Jonathan Rhys Meyers) erlebt ihr sportliches Talent, während die Familie den neuen Alltag anders versteht. Der Konflikt beruht deshalb auch darauf, dass dieselben Stunden für verschiedene Menschen unterschiedliche Bedeutungen haben.
 
-Merksatz: Zu Hause heißt das Training Ferienjob.
 
 - Mit Nachhilfestunden: Nachhilfe ist nicht ihre hauptsächliche Ausrede für das Training.
 - Mit einem Tanzkurs: Ein Tanzkurs erklärt diese regelmäßigen Wege nicht.
@@ -2381,7 +2276,6 @@ Welches Familienereignis kollidiert in „Kick it like Beckham“ mit Jess’ (P
 
 Pinky Bhamra (Archie Panjabi), die Schwester von Jess Bhamra (Parminder Nagra), heiratet am Tag des entscheidenden Spiels. Jess kann nicht einfach an beiden Veranstaltungen vollständig teilnehmen. Der Termin verdichtet den Familienkonflikt zu einer praktischen Entscheidung. Ihr Vater, Mr. Bhamra (Anupam Kher), muss nun nicht nur allgemein über den Sport urteilen, sondern auf die konkrete Enttäuschung seiner Tochter während der Hochzeitsfeier reagieren.
 
-Merksatz: Familienhochzeit und wichtiges Spiel besetzen denselben Tag.
 
 - Die Verlobung ihrer Cousine: Eine Verlobungsfeier ist nicht der Termin dieses Konflikts.
 - Die Silberhochzeit ihrer Eltern: Die Eltern feiern an diesem Tag keine Silberhochzeit als zentrales Ereignis.
@@ -2403,7 +2297,6 @@ Welche frühere Erfahrung prägt Mr. Bhamras (Anupam Kher) Vorbehalte gegen den 
 
 Mr. Bhamra (Anupam Kher) erzählt, dass er in England beim Cricket wegen seiner Herkunft zurückgewiesen wurde. Seine Ablehnung gegenüber dem Wunsch von Jess Bhamra (Parminder Nagra) entsteht damit auch aus verletzter Erfahrung und der Sorge vor erneuter Ausgrenzung. Das macht den Konflikt verständlicher, ohne den Wunsch der Tochter zu entwerten. Ihr Vater schützt sie zunächst vor einer Zukunft, die er durch seine Vergangenheit beurteilt.
 
-Merksatz: Die väterliche Warnung hat eine eigene Diskriminierungsgeschichte.
 
 - Rassistische Ausgrenzung beim Cricket in England: Er wurde in England beim Cricket wegen seiner Herkunft ausgegrenzt.
 - Eine schwere Verletzung beim Cricket in Indien: Eine Verletzung ist nicht der erzählte Ursprung seiner Ablehnung.
@@ -2425,7 +2318,6 @@ Was verletzt Jules (Keira Knightley) bei der Hamburg-Reise in „Kick it like Be
 
 Jules Paxton (Keira Knightley) fühlt sich zu Joe (Jonathan Rhys Meyers) hingezogen. Als Jess Bhamra (Parminder Nagra) ihm während der Reise nach Hamburg näherkommt, entsteht ein Konflikt zwischen den Freundinnen. Die sportliche Zusammenarbeit schützt ihre Beziehung nicht vor Eifersucht. Der Film verknüpft damit zwei Ebenen: Sie teilen den Wunsch, als Spielerinnen ernst genommen zu werden, müssen aber zusätzlich ihre persönlichen Erwartungen aneinander klären.
 
-Merksatz: Gemeinsame sportliche Ziele verhindern keine romantische Eifersucht.
 
 - Die Absage ihrer Freundin an das gemeinsame Training: Jess beendet dort nicht einfach das gemeinsame Training.
 - Die Annäherung ihrer Freundin an den Trainer: Jules fühlt sich durch die beinahe romantische Begegnung mit Joe verletzt.
@@ -2447,7 +2339,6 @@ Wodurch erfahren Jess’ (Parminder Nagra) Eltern in „Kick it like Beckham“ 
 
 Jess Bhamra (Parminder Nagra) hält ihre Reise mit der Mannschaft vor der Familie geheim. Ein veröffentlichtes Bild durchkreuzt diese Trennung der Lebensbereiche. Mr. Bhamra (Anupam Kher) und Mrs. Bhamra (Shaheen Khan) erfahren dadurch von dem Ausflug. Die Enthüllung folgt nicht aus einem freiwilligen Geständnis. Gerade weil das Bild ein öffentliches Ereignis dokumentiert, kann Jess ihren sportlichen Alltag nicht dauerhaft als private Ausnahme verbergen.
 
-Merksatz: Ein öffentliches Foto beendet das private Versteckspiel.
 
 - Durch einen gefundenen Flugbeleg: Ein Flugbeleg ist nicht der entscheidende Fund.
 - Durch einen Anruf des Vereins: Der Verein informiert die Eltern nicht auf diesem Weg.
@@ -2469,7 +2360,6 @@ An welchem Ort erhalten Jess und Jules (Parminder Nagra, Keira Knightley) in „
 
 Jess Bhamra (Parminder Nagra) und Jules Paxton (Keira Knightley) erhalten die Möglichkeit, mit Stipendien an der Santa Clara University weiterzulernen und zu spielen. Der spätere Aufbruch führt ihre Freundschaft und ihre beruflichen Wünsche zusammen. Für Jess verlangt er außerdem die Zustimmung ihrer Familie. Die Aussicht ist deshalb mehr als der Gewinn eines einzelnen Spiels: Sie macht aus dem bisher heimlichen Interesse einen möglichen längerfristigen Lebensweg.
 
-Merksatz: Santa Clara verbindet Studium und sportliche Zukunft.
 
 - Boston in Massachusetts: Boston ist nicht der genannte Hochschulort.
 - Austin in Texas: Austin ist nicht das Ziel ihres gemeinsamen Aufbruchs.
@@ -2491,7 +2381,6 @@ Wann wurde „Kick it like Beckham“ erstmals veröffentlicht?
 
 Gurinder Chadhas erster Langfilm „Bhaji on the Beach“ erschien 1993; „Kick it like Beckham“ folgte 2002, neun Jahre später. Beide stellen britisch-asiatische Lebenswelten und unterschiedliche Erwartungen innerhalb von Familien ins Zentrum. Der Abstand macht den späteren internationalen Erfolg zeitlich greifbar. Das US-Veröffentlichungsjahr 2003 gehört zur regionalen Auswertung von „Kick it like Beckham“ und ersetzt nicht den britischen Erststart im Jahr 2002.
 
-Merksatz: 1993 Bhaji on the Beach, 2002 Kick it like Beckham: neun Jahre.
 
 - 2002: Der erste britische Kinostart lag 2002.
 - 1998: 1998 liegt vier Jahre davor.
@@ -2513,7 +2402,6 @@ Wer führte bei „Kick it like Beckham“ Hauptregie?
 
 Gurinder Chadha ist als Regisseurin, Mitautorin und Produzentin der Geschichte beteiligt. Jess Bhamra (Parminder Nagra) und Jules Paxton (Keira Knightley) werden dabei über Freundschaft, Familienkonflikte und sportliche Chancen verbunden. Der BFI-Credit nennt Chadha eindeutig als Hauptregisseurin. Ihre weiteren Aufgaben erweitern diesen Credit, stellen aber kein zusätzliches Regieteam dar. Das Werk verbindet die romantischen Konflikte mit einem konkreten Wunsch nach selbstbestimmter Zukunft.
 
-Merksatz: Chadha verbindet Sport, Familie und romantische Konflikte.
 
 - Mira Nair: Mira Nair ist nicht die Regisseurin dieses Werks.
 - Gurinder Chadha: Gurinder Chadha inszenierte den Film.
@@ -2539,7 +2427,6 @@ Bei welchem Magazin arbeitet die erwachsene Jenna (Jennifer Garner) in „30 üb
 
 Jenna Rink (Jennifer Garner) entdeckt in ihrem neuen erwachsenen Alltag eine Stelle beim Modemagazin Poise. Lucy Wyman (Judy Greer) arbeitet ebenfalls dort, und Richard Kneeland (Andy Serkis) ist ihr Vorgesetzter. Jenna muss Aufgaben und Beziehungen verstehen, an die sie keine Erinnerung besitzt. Der Arbeitsplatz liefert damit scheinbar den gewünschten Erfolg, lässt sie aber zugleich mit den Folgen einer ihr fremd gewordenen Persönlichkeit zusammentreffen.
 
-Merksatz: Poise ist Jennas Arbeitsplatz, Sparkle die Konkurrenz.
 
 - Sparkle: Sparkle ist das Konkurrenzmagazin.
 - Runway: Runway ist nicht Jennas Zeitschrift.
@@ -2561,7 +2448,6 @@ Welchen Beruf hat der erwachsene Matty (Mark Ruffalo) in „30 über Nacht“?
 
 Jenna Rink (Jennifer Garner) findet ihren früheren Freund Matty Flamhaff (Mark Ruffalo) als erwachsenen Fotografen wieder. Sie braucht seine Arbeit später für eine neue Präsentation des Magazins. Beruflicher Auftrag und persönliche Annäherung überschneiden sich dadurch. Matty erklärt ihr zugleich, warum der Kontakt zwischen ihnen abgebrochen war. Seine Fotos sind deshalb nicht nur Material für die Redaktion, sondern Teil einer vorsichtigen Wiederbegegnung zweier entfremdeter Menschen.
 
-Merksatz: Der frühere Freund liefert Fotos für Jennas Projekt.
 
 - Fotograf: Matty verdient seinen Lebensunterhalt als Fotograf.
 - Grafikdesigner: Er ist nicht der Grafikdesigner dieser Geschichte.
@@ -2583,7 +2469,6 @@ Welches selbstgemachte Geburtstagsgeschenk erhält Jenna (Christa B. Allen) am A
 
 Der junge Matty Flamhaff (Sean Marquette) schenkt Jenna Rink (Christa B. Allen) ein selbstgemachtes Puppenhaus. Auf dessen Dach liegt der als magisch bezeichnete Wunschstaub. Das Geschenk steht für persönliche Aufmerksamkeit, während Jenna nach Anerkennung durch die beliebte Clique sucht. Der Gegenstand verbindet damit zwei Wünsche: die auffällige Zukunft, von der sie träumt, und die bereits vorhandene Nähe, die sie zunächst nicht entsprechend würdigt.
 
-Merksatz: Das handgemachte Haus trägt den Wunschstaub.
 
 - Ein Fotoalbum: Ein Album ist nicht dieses Geschenk.
 - Ein Puppenhaus: Matty schenkt ihr ein selbstgebautes Puppenhaus.
@@ -2605,7 +2490,6 @@ Zu welchem Lied bringt Jenna (Jennifer Garner) in „30 über Nacht“ die Party
 
 Jenna Rink (Jennifer Garner) greift bei einer zunächst wenig lebendigen Feier auf die vertraute Choreografie von Michael Jacksons „Thriller“ zurück. Matty Flamhaff (Mark Ruffalo) und die übrigen Gäste schließen sich an. Ihre Erinnerung an die Jugendzeit wird hier zu einer sozialen Stärke. Sie gewinnt die Gesellschaft nicht durch das Auftreten einer perfekten Erwachsenen, sondern durch ein gemeinsames, überraschend spielerisches Ritual.
 
-Merksatz: Jugenderinnerung verwandelt eine steife Feier in gemeinsames Tanzen.
 
 - Beat It: Beat It ist nicht die Nummer dieser Szene.
 - Billie Jean: Billie Jean bestimmt diese gemeinsame Tanzfolge nicht.
@@ -2627,7 +2511,6 @@ Wer hatte Poise laut Lucys (Judy Greer) Enthüllung in „30 über Nacht“ ursp
 
 Lucy Wyman (Judy Greer) nimmt Jennas Präsentation zum Konkurrenzmagazin Sparkle mit. Als Jenna Rink (Jennifer Garner) sie zur Rede stellt, erfährt sie, dass ihre eigene erwachsene Vorgängerpersönlichkeit Poise bereits geschadet hatte, um dort eine neue Stelle zu bekommen. Die Enthüllung trennt Lucys aktuellen Verrat von Jennas früheren Entscheidungen. Jenna kann sich deshalb nicht allein als Opfer ihrer Kollegin verstehen, sondern muss ihre bisherige Lebensführung hinterfragen.
 
-Merksatz: Der aktuelle Verrat legt Jennas frühere Sabotage offen.
 
 - Lucy Wyman (Judy Greer): Lucy nutzt später Jennas Präsentation, doch die ursprüngliche Enthüllung betrifft Jenna.
 - Richard Kneeland (Andy Serkis): Kneeland sucht den Saboteur und ist nicht die genannte Person.
@@ -2649,7 +2532,6 @@ Wie reagiert Jenna (Christa B. Allen) nach ihrer Rückkehr in „30 über Nacht�
 
 Jenna Rink (Christa B. Allen) erhält die Gelegenheit, den Geburtstag noch einmal anders zu erleben. Sie begrüßt Matty Flamhaff (Sean Marquette) herzlich und weist die Clique um die junge Lucy Wyman (Alexandra Kyle) zurück. Das Zerreißen ihrer erledigten Hausaufgaben beendet den Handel um vermeintliche Beliebtheit. Die Schlussentscheidung verändert nicht nur eine spätere Partnerwahl, sondern das Verhalten, mit dem Jenna Anerkennung im eigenen Alltag sucht.
 
-Merksatz: Die erledigten Hausaufgaben verlieren ihren Wert als Eintrittskarte.
 
 - Sie zerreißt die für die Clique erledigten Hausaufgaben.: Sie zerstört die erledigten Hausaufgaben und weist die Clique hinaus.
 - Sie fordert von der Clique eine öffentliche Entschuldigung.: Eine eingeforderte öffentliche Entschuldigung ist nicht die gezeigte Reaktion.
@@ -2671,7 +2553,6 @@ Wann wurde „30 über Nacht“ erstmals veröffentlicht?
 
 „30 über Nacht“ erschien 2004, sechzehn Jahre nach „Big“ von 1988. In beiden Filmen steht ein plötzlich erwachsen erscheinender Mensch vor einer Welt, für die seine bisherigen Erfahrungen nicht ausreichen. Tom Hanks spielt in „Big“ Josh Baskin; Jennifer Garner übernimmt hier Jenna Rink. Die ähnliche Grundidee bietet einen Erinnerungsanker, während die datierten Veröffentlichungen verhindern, dass die Geschichten derselben Kinozeit zugerechnet werden.
 
-Merksatz: 1988 Big, 2004 30 über Nacht: sechzehn Jahre.
 
 - 2000: 2000 liegt vier Jahre davor.
 - 2004: Der Film erschien 2004.
@@ -2693,7 +2574,6 @@ Wer führte bei „30 über Nacht“ Hauptregie?
 
 Gary Winick inszeniert Jenna Rinks (Jennifer Garner) Begegnung mit einem erwachsenen Leben, dessen Vergangenheit sie zunächst nicht kennt. Christa B. Allen spielt ihre jugendliche Fassung. Die beiden Darstellerinnen gehören zu einer Figur in unterschiedlichen Lebensabschnitten. Der BFI-Credit nennt Winick eindeutig als Regisseur. Die Fantasiegeschichte verbindet beruflichen Erfolg mit der Frage, welche Beziehungen Jenna auf dem Weg dorthin verloren hat.
 
-Merksatz: Winick verbindet die beiden Lebensabschnitte einer Figur.
 
 - Mark Waters: Mark Waters führte nicht bei diesem Film Regie.
 - Garry Marshall: Garry Marshall ist nicht der Regisseur dieser Produktion.
@@ -2719,7 +2599,6 @@ Welchen Beruf hat Jamie (Mila Kunis) in „Freunde mit gewissen Vorzügen“?
 
 Jamie Rellis (Mila Kunis) sucht geeignete Führungskräfte für offene Stellen. Ihre Begegnung mit Dylan Harper (Justin Timberlake) beginnt deshalb als beruflicher Auftrag. Sie möchte ihn für einen Wechsel nach New York gewinnen. Das spätere private Verhältnis entwickelt sich aus diesem Kontakt, doch Jamies eigene Interessen verschwinden nicht. Der Film lässt die berufliche Vermittlung und die persönliche Nähe wiederholt miteinander in Konflikt geraten.
 
-Merksatz: Ein beruflicher Vermittlungsauftrag steht am Anfang.
 
 - Personalvermittlerin: Jamie vermittelt berufliche Führungskräfte.
 - Werbetexterin: Sie ist nicht die Werbetexterin der Geschichte.
@@ -2741,7 +2620,6 @@ Für welches Magazin nimmt Dylan (Justin Timberlake) in „Freunde mit gewissen 
 
 Dylan Harper (Justin Timberlake) arbeitet zunächst in Los Angeles. Jamie Rellis (Mila Kunis) wirbt ihn für eine Stelle als Art Director bei GQ in New York an. Ihre gemeinsame Erkundung der Stadt hilft ihm, den Wechsel zu akzeptieren. Der neue Arbeitsplatz erklärt seine dauerhafte Anwesenheit dort. Er ist nicht bloß ein Besucher auf einer kurzen Reise, als die persönliche Beziehung zwischen den beiden entsteht.
 
-Merksatz: GQ bringt Dylan beruflich nach New York.
 
 - Esquire: Esquire ist nicht sein neuer Arbeitgeber.
 - GQ: Dylan wird bei GQ angestellt.
@@ -2763,7 +2641,6 @@ Warum beunruhigt Jamie (Mila Kunis) in „Freunde mit gewissen Vorzügen“ ein 
 
 Jamie Rellis (Mila Kunis) hat Dylan Harper (Justin Timberlake) für eine Beschäftigung mit einjährigem Vertrag vermittelt. Ein früher Wechsel würde ihre Provision berühren. Als sie davon erfährt, trifft die berufliche Verpflichtung auf den bereits verletzten privaten Kontakt. Der Streit zeigt, dass die beiden ihre Beziehung nicht einfach in unabhängige Bereiche aufteilen können. Der ursprüngliche Auftrag besitzt auch nach der persönlichen Enttäuschung noch finanzielle Folgen.
 
-Merksatz: Der Einjahresvertrag bindet Jamies Provision an Dylans Bleiben.
 
 - Sie müsste seine Wohnung weiterbezahlen: Seine Wohnung zu bezahlen ist nicht ihr finanzielles Problem.
 - Sie verlöre ihren eigenen Arbeitsvertrag: Ihr eigener Arbeitsvertrag endet dadurch nicht.
@@ -2785,7 +2662,6 @@ Welche Bemerkung hört Jamie (Mila Kunis) in „Freunde mit gewissen Vorzügen�
 
 Jamie Rellis (Mila Kunis) besucht mit Dylan Harper (Justin Timberlake) dessen Familie in Los Angeles. Sie hört ihn gegenüber seiner Schwester Annie (Jenna Elfman) sagen, Jamie sei für eine Beziehung zu beschädigt. Die Bemerkung trifft sie gerade nach einer gemeinsamen Nacht. Ihr Rückzug beruht daher nicht auf einer bloßen Vermutung über seine Gefühle, sondern auf einem Urteil, das sie ohne seine beabsichtigte Offenheit mitbekommen hat.
 
-Merksatz: Das belauschte Urteil zerstört das neue Vertrauen.
 
 - Er empfinde sie wie eine kleine Schwester: Diese geschwisterliche Einordnung ist nicht die belauschte Bemerkung.
 - Er plane bereits eine Rückkehr zu seiner Exfreundin: Er kündigt dort keine Rückkehr zur Exfreundin an.
@@ -2807,7 +2683,6 @@ Was bereut Mr. Harper (Richard Jenkins) im Flughafengespräch von „Freunde mit
 
 Dylans Vater, Mr. Harper (Richard Jenkins), erkennt in einer Passantin zunächst eine Frau aus seiner Vergangenheit. Danach erzählt er Dylan Harper (Justin Timberlake), dass er eine frühere große Liebe gehen ließ. Diese Erinnerung führt zu einem Rat an den Sohn. Der Vater verbindet seine heutige Reue mit einer damaligen Entscheidung und gibt Dylan einen konkreten Anlass, seine Zurückhaltung gegenüber Jamie Rellis (Mila Kunis) zu hinterfragen.
 
-Merksatz: Der Vater warnt vor einem Bedauern, das er selbst kennt.
 
 - Eine frühere große Liebe gehen gelassen zu haben: Er erzählt von der Frau, die er liebte und dennoch gehen ließ.
 - Für eine Beziehung seine berufliche Chance aufgegeben zu haben: Eine geopferte berufliche Chance ist nicht sein zentrales Bedauern.
@@ -2829,7 +2704,6 @@ Wo überrascht Dylan (Justin Timberlake) Jamie (Mila Kunis) am Ende von „Freun
 
 Dylan Harper (Justin Timberlake) lässt Jamie Rellis (Mila Kunis) unter einem Vorwand nach Grand Central kommen. Dort organisiert er einen Flashmob und gesteht seine Gefühle. Die große öffentliche Geste greift die romantischen Klischees auf, über die beide zuvor gesprochen haben. Anschließend verabreden sie sich zu einem ersten wirklichen Date. Der Schluss verändert damit ihre Haltung zur gemeinsamen Beziehung durch eine konkrete Begegnung an einem bekannten Ort.
 
-Merksatz: Grand Central wird zur Bühne des neuen Anfangs.
 
 - In der Penn Station: Penn Station ist nicht der Schauplatz des Flashmobs.
 - In Grand Central Terminal: Die Inszenierung findet in Grand Central statt.
@@ -2851,7 +2725,6 @@ Wann wurde „Freunde mit gewissen Vorzügen“ erstmals veröffentlicht?
 
 Will Glucks „Easy A“ erschien 2010, „Freunde mit gewissen Vorzügen“ 2011: Zwischen den Komödien liegt ein Jahr. Der frühere Film untersucht schulische Gerüchte über Beziehungen, der spätere die Erwartungen an ein erwachsenes Paar. Emma Stone gehört bei beiden Produktionen zur Besetzung, übernimmt jedoch unterschiedliche Rollen. Der Werkvergleich verankert das Veröffentlichungsjahr, ohne den einen Film als Fortsetzung der anderen Geschichte zu behandeln.
 
-Merksatz: 2010 Easy A, 2011 Freunde mit gewissen Vorzügen: ein Jahr.
 
 - 2007: 2007 liegt vier Jahre davor.
 - 2009: 2009 liegt zwei Jahre davor.
@@ -2873,7 +2746,6 @@ Wer führte bei „Freunde mit gewissen Vorzügen“ Hauptregie?
 
 Will Gluck inszenierte die Geschichte von Jamie Rellis (Mila Kunis) und Dylan Harper (Justin Timberlake) und gehörte auch zum Drehbuchteam. Die Hauptregie wird vom BFI eindeutig ihm zugeordnet. Beruflicher Wechsel, Familienbesuche und verletzende Äußerungen verändern das Verhältnis der beiden. Die wiederkehrenden Kommentare über romantische Filmkonventionen erhalten am Schluss eine praktische Bedeutung, weil das Paar selbst eine große öffentliche Liebesgeste erlebt.
 
-Merksatz: Gluck inszeniert die filmkundigen Figuren und ihre eigene Liebesgeschichte.
 
 - Ivan Reitman: Ivan Reitman inszenierte Freundschaft Plus, nicht diesen Film.
 - Nicholas Stoller: Nicholas Stoller ist nicht der Hauptregisseur.
@@ -2899,7 +2771,6 @@ Womit verdient Jamie Randall (Jake Gyllenhaal) in „Love and Other Drugs – Ne
 
 Jamie Randall (Jake Gyllenhaal) findet nach dem Verlust seiner vorherigen Arbeit eine Stelle im Arzneimittelvertrieb. Er soll Ärzte dazu bewegen, die Produkte seines Unternehmens zu verschreiben. Sein Charme und seine Verkaufsstrategien verschaffen ihm Zugang zu den Praxen. In diesem beruflichen Umfeld begegnet er Maggie Murdock (Anne Hathaway); die Romanze entsteht damit mitten in einer von Wettbewerb geprägten Branche.
 
-Merksatz: Der Verkäufer gelangt über Arztpraxen in Maggies Leben.
 
 - Als Arzt in einer Privatpraxis: Er arbeitet nicht als behandelnder Arzt.
 - Als Vertreter eines Pharmaunternehmens: Jamie verkauft Arzneimittel für Pfizer.
@@ -2921,7 +2792,6 @@ Mit welcher Erkrankung lebt Maggie Murdock (Anne Hathaway) in „Love and Other 
 
 Maggie Murdock (Anne Hathaway) lebt schon als junge Frau mit Parkinson. Die Erkrankung beeinflusst ihren Alltag und ihre Erwartungen an eine Partnerschaft. Jamie Randall (Jake Gyllenhaal) muss lernen, dass seine berufliche Nähe zur Arzneimittelbranche ihm keine einfache Lösung für ihre Situation verschafft. Für die Handlung ist entscheidend, wie beide mit Unsicherheit und möglichen Belastungen einer gemeinsamen Zukunft umgehen.
 
-Merksatz: Die Erkrankung stellt die gemeinsame Zukunft infrage.
 
 - Multipler Sklerose: Multiple Sklerose ist nicht ihre Diagnose.
 - Epilepsie: Epilepsie bestimmt ihre Erkrankung nicht.
@@ -2943,7 +2813,6 @@ Wie bekämpft Jamie Randall (Jake Gyllenhaal) in „Love and Other Drugs – Neb
 
 Jamie Randall (Jake Gyllenhaal) soll sein eigenes Produkt gegen eine bereits etablierte Konkurrenz durchsetzen. In den Praxen wirft er deshalb die dort vorhandenen Prozac-Muster weg. Der Eingriff zeigt, wie wenig zurückhaltend er den Vertrieb zunächst betreibt. Die Szene macht den Wettbewerb konkret: Es geht um den Platz im Praxisalltag und um die Entscheidung der Ärzte, welche Mittel sie verschreiben.
 
-Merksatz: Freier Platz für eigene Muster entsteht durch das Wegwerfen fremder.
 
 - Er erklärt Konkurrenzpräparate für nicht mehr lieferbar.: Eine vorgetäuschte Liefersperre ist nicht die gezeigte Taktik.
 - Er bezahlt Ärzte für abgelehnte Konkurrenzverschreibungen.: Für abgelehnte Konkurrenzverschreibungen zahlt er hier nicht.
@@ -2965,7 +2834,6 @@ Warum begleitet Maggie Murdock (Anne Hathaway) in „Love and Other Drugs – Ne
 
 Maggie Murdock (Anne Hathaway) unterstützt ältere Menschen bei einer Fahrt nach Kanada, wo diese preiswerter an ihre Medikamente kommen. Jamie Randall (Jake Gyllenhaal) wartet auf ihre Rückkehr und macht dadurch seine Nähe zu ihr sichtbar. Die Reise erweitert zugleich den Blick auf die Arzneimittelwelt: Neben dem Verkaufserfolg stehen Menschen, für die die Kosten der Versorgung ein ganz praktisches Problem sind.
 
-Merksatz: Der Grenzübertritt dient einem günstigeren Einkauf.
 
 - Damit sie dort preiswertere Medikamente kaufen können: Die Fahrt ermöglicht günstigere Arzneimittelkäufe.
 - Damit sie an einer klinischen Studie teilnehmen können: Eine gemeinsame klinische Studie ist nicht das Ziel.
@@ -2987,7 +2855,6 @@ Warum beendet Maggie Murdock (Anne Hathaway) in „Love and Other Drugs – Nebe
 
 Jamie Randall (Jake Gyllenhaal) sucht zunehmend nach Ärzten und Behandlungen für Maggie Murdock (Anne Hathaway). Was für ihn als Hilfe gedacht ist, erlebt sie als Bedingung für ihre gemeinsame Zukunft. Sie befürchtet, dass er mit ihr nur leben könne, wenn ihre Krankheit verschwindet. Die Trennung verlangt daher eine Veränderung seiner Haltung zur Beziehung und zu der Unsicherheit, die sie begleitet.
 
-Merksatz: Die Suche nach Heilung wird als Bedingung der Liebe empfunden.
 
 - Sie glaubt, er wolle ihre Kunstkarriere beenden.: Ihre Kunstkarriere ist nicht der Trennungsgrund.
 - Sie glaubt, er könne sie nur geheilt akzeptieren.: Seine Suche nach einer Heilung lässt sie an seiner bedingungslosen Zuneigung zweifeln.
@@ -3009,7 +2876,6 @@ Was lässt Jamie Randall (Jake Gyllenhaal) in „Love and Other Drugs – Nebenw
 
 Jamie Randall (Jake Gyllenhaal) begegnet auf einer Videoaufnahme den glücklichen Augenblicken mit Maggie Murdock (Anne Hathaway) erneut. Das wiedergefundene Bild ihrer Nähe hilft ihm, seine Zukunft nicht allein nach einem beruflichen Aufstieg zu bestimmen. Am Ende entscheidet er sich für sie und für einen anderen Lebensweg. Die Aufnahme verbindet einen früheren gemeinsamen Moment mit der späteren Entscheidung, trotz der Krankheit zusammenzubleiben.
 
-Merksatz: Die gespeicherte Nähe verändert den Blick auf die Zukunft.
 
 - Ein Fotoalbum aus Maggies Kindheit: Maggies Kindheitsalbum löst diesen Rückblick nicht aus.
 - Ein Brief aus Maggies Selbsthilfegruppe: Ein Gruppenbrief ist nicht der entscheidende Erinnerungsgegenstand.
@@ -3031,7 +2897,6 @@ In welchem Jahr wurde „Love and Other Drugs – Nebenwirkung inklusive“ erst
 
 Love and Other Drugs erschien 2010. Jamie Reidys Buch Hard Sell wurde 2005 veröffentlicht, also fünf Jahre zuvor; der AFI-Katalog führt es als literarische Quelle auf. Die Verbindung hilft, die Satire auf den Arzneimittelvertrieb zeitlich einzuordnen. Der Film entwickelt daraus seine romantische Geschichte, während das Buch den Bezug zur persönlichen Erfahrung eines Verkäufers in dieser Branche herstellt.
 
-Merksatz: 2005 Buch, 2010 Film: fünf Jahre Abstand.
 
 - 2007: 2007 liegt drei Jahre davor.
 - 2013: 2013 liegt drei Jahre danach.
@@ -3053,7 +2918,6 @@ Wer führte bei „Love and Other Drugs – Nebenwirkung inklusive“ Regie?
 
 Edward Zwick führte bei Love and Other Drugs Regie und arbeitete auch am Drehbuch mit. Der AFI-Katalog nennt neben ihm Charles Randolph und Marshall Herskovitz als Drehbuchautoren. Jake Gyllenhaal spielt Jamie Randall, Anne Hathaway Maggie Murdock. Die Credits unterscheiden damit die gemeinsame Arbeit am Text von der eindeutig Zwick zugeordneten Regie der Verbindung aus Liebesgeschichte und Satire auf den Arzneimittelvertrieb.
 
-Merksatz: Zwick inszeniert und gehört zugleich zum Autorenteam.
 
 - Edward Zwick: AFI nennt Edward Zwick als Regisseur.
 - James L. Brooks: James L. Brooks inszenierte diesen Film nicht.
@@ -3079,7 +2943,6 @@ Wem erzählt Will Hayes (Ryan Reynolds) in „Vielleicht, vielleicht auch nicht�
 
 Will Hayes (Ryan Reynolds) steht vor einer Scheidung und erzählt seiner Tochter Maya Hayes (Abigail Breslin), wie seine früheren Beziehungen verliefen. Das Mädchen fragt nach der Geschichte ihrer Eltern und hört aufmerksam zu. Durch ihre Nachfragen wird aus dem Rückblick ein Gespräch zwischen Vater und Tochter. Die Rahmensituation verknüpft die Romanze mit dem Wunsch eines Kindes, die eigene Familiengeschichte besser zu verstehen.
 
-Merksatz: Die Tochter hört die Liebesgeschichte ihres Vaters.
 
 - Seiner Mutter: Seine Mutter ist nicht die Zuhörerin der Rahmengeschichte.
 - Seiner Therapeutin: Eine Therapiesitzung bildet nicht den Rahmen.
@@ -3101,7 +2964,6 @@ Wofür zieht Will Hayes (Ryan Reynolds) am Anfang seiner Rückschau in „Vielle
 
 Will Hayes (Ryan Reynolds) verlässt seine bisherige Umgebung, um in New York an Bill Clintons Wahlkampf mitzuarbeiten. Der politische Aufbruch eröffnet ihm zugleich neue persönliche Begegnungen. April Hoffman (Isla Fisher) lernt er in diesem Arbeitsumfeld kennen. Die Rückschau beginnt deshalb mit einem beruflichen Ortswechsel, bevor die verschiedenen Beziehungen und ihre späteren Folgen für seine Familiengeschichte in den Mittelpunkt rücken.
 
-Merksatz: Der Wahlkampf eröffnet Wills New Yorker Lebensabschnitt.
 
 - Für die Ausbildung zum Börsenmakler: Eine Börsenmaklerausbildung führt ihn nicht dorthin.
 - Für einen Vertrag als Berufsmusiker: Ein Musikervertrag ist nicht sein Anlass.
@@ -3123,7 +2985,6 @@ Welche Frau ist in „Vielleicht, vielleicht auch nicht“ die Mutter von Maya (
 
 Will Hayes (Ryan Reynolds) verändert die Namen der Frauen, von denen er seiner Tochter Maya Hayes (Abigail Breslin) erzählt. Maya erkennt schließlich, dass Emily Jones (Elizabeth Banks) für ihre eigene Mutter Sarah steht. Damit wird das Rätsel innerhalb der Familiengeschichte gelöst. Die erzählten Liebesbeziehungen führen also nicht nur zu einer romantischen Wahl, sondern erklären dem Mädchen auch, aus welcher Beziehung es selbst hervorgegangen ist.
 
-Merksatz: Emily ist der erzählte Name von Mayas Mutter.
 
 - Emily (Elizabeth Banks): Emily ist der erzählte Name von Sarah, Mayas Mutter.
 - April (Isla Fisher): April ist nicht Mayas Mutter.
@@ -3145,7 +3006,6 @@ Welche Handlung von Summer (Rachel Weisz) belastet ihre Beziehung zu Will (Ryan 
 
 Summer Hartley (Rachel Weisz) arbeitet als Journalistin, während Will Hayes (Ryan Reynolds) eine politische Kampagne betreut. Ihr Artikel über den Kandidaten richtet Schaden an, obwohl Will sie von der Veröffentlichung abhalten möchte. Die beruflichen Rollen geraten damit unmittelbar gegeneinander. Die Beziehung zerbricht an einem Konflikt, in dem sein Interesse am Erfolg der Kampagne und ihre Entscheidung als Journalistin nicht miteinander vereinbar sind.
 
-Merksatz: Die Veröffentlichung stellt Journalismus gegen Wahlkampfinteressen.
 
 - Sie verkauft seine Firma an einen konkurrierenden Berater.: Ein Firmenverkauf ist nicht der entscheidende Vorgang.
 - Ihr Artikel schadet der von ihm betreuten Wahlkampagne.: Summers Enthüllungsartikel beschädigt Wills politische Arbeit.
@@ -3167,7 +3027,6 @@ Warum ist ein bestimmtes Jane-Eyre-Exemplar für April Hoffman (Isla Fisher) in 
 
 April Hoffman (Isla Fisher) sucht nach einem verlorenen Exemplar von Jane Eyre, das ihr Vater ihr geschenkt und gewidmet hatte. Andere Ausgaben ersetzen dieses persönliche Erinnerungsstück nicht. Will Hayes (Ryan Reynolds) findet das gesuchte Buch, gibt es aber zunächst nicht zurück. Der Gegenstand trägt deshalb zwei Ebenen: Aprils Erinnerung an ihren Vater und Wills Schwierigkeit, die Bedeutung ihrer Beziehung offen anzuerkennen.
 
-Merksatz: Die persönliche Widmung unterscheidet das Buch von allen anderen Ausgaben.
 
 - Es enthält einen Liebesbrief ihrer ersten Freundin.: Ein Liebesbrief einer Freundin erklärt den Wert nicht.
 - Es ist der letzte Band aus der Bibliothek ihrer Mutter.: Es geht nicht um den Rest einer mütterlichen Bibliothek.
@@ -3189,7 +3048,6 @@ Welche Entscheidung über Namen fällt bei der Auflösung von Wills (Ryan Reynol
 
 Will Hayes (Ryan Reynolds) kündigt seiner Tochter Maya Hayes (Abigail Breslin) an, Namen zu verändern. Am Ende zeigt sich jedoch, dass April Hoffman (Isla Fisher) unter ihrem wirklichen Namen erzählt wurde. Summer Hartley (Rachel Weisz) und Emily Jones (Elizabeth Banks) tragen erzählerisch veränderte Namen. Diese Ausnahme macht April innerhalb der Rückschau besonders und hilft Maya, Wills noch nicht abgeschlossene Gefühle für sie zu erkennen.
 
-Merksatz: Der unveränderte Name markiert die besondere Stellung Aprils.
 
 - Summers (Rachel Weisz) Name wurde nicht verändert.: Summer ist ein veränderter Name; die reale Frau heißt Natasha.
 - Emilys (Elizabeth Banks) Name wurde nicht verändert.: Emily ist der veränderte Name von Sarah.
@@ -3211,7 +3069,6 @@ In welchem Jahr wurde „Vielleicht, vielleicht auch nicht“ erstmals veröffen
 
 Vielleicht, vielleicht auch nicht erschien 2008. Working Title führt Notting Hill mit einem Start von 1999; zwischen diesen beiden romantischen Filmen des Unternehmens liegen neun Jahre. Der Vergleich verbindet zwei konkrete Werke aus demselben Produktionsumfeld. Die spätere Geschichte verwendet eine Vater-Tochter-Rückschau als Rahmen, während der frühere Film die Begegnung eines Buchhändlers mit einem Filmstar zum Ausgangspunkt seiner Romanze macht.
 
-Merksatz: 1999 Notting Hill, 2008 Vielleicht, vielleicht auch nicht: neun Jahre.
 
 - 2008: Working Title führt den Film unter 2008.
 - 2005: 2005 ist drei Jahre zu früh.
@@ -3233,7 +3090,6 @@ Wer führte bei „Vielleicht, vielleicht auch nicht“ Regie?
 
 Adam Brooks verantwortet sowohl das Drehbuch als auch die Regie von Vielleicht, vielleicht auch nicht. Working Title beschreibt die Anlage als romantisches Identitätsrätsel: Will Hayes (Ryan Reynolds) erzählt Maya Hayes (Abigail Breslin) von seiner Vergangenheit, während die Mutter zunächst hinter veränderten Namen verborgen bleibt. Die gemeinsame Autorenschaft und Regie verbinden die Struktur dieser Rückschau mit ihrer Umsetzung als Gespräch zwischen Vater und Tochter.
 
-Merksatz: Brooks gestaltet die Erzählung als Autor und Regisseur.
 
 - Richard Curtis: Richard Curtis trägt hier keinen Regiecredit.
 - Adam Brooks: Adam Brooks schrieb und inszenierte den Film.
@@ -3259,7 +3115,6 @@ Welches Geschäft betreibt Jane Adler (Meryl Streep) in „Wenn Liebe so einfach
 
 Jane Adler (Meryl Streep) hat sich nach ihrer Scheidung ein eigenes Leben aufgebaut und betreibt eine Bäckerei in Santa Barbara. Das Geschäft macht ihre Selbstständigkeit sichtbar und wird auch zum Ort persönlicher Begegnungen. Ihre spätere Annäherung an einen neuen Partner entwickelt sich vor diesem Hintergrund. Die Arbeit gehört damit zu der Lebenswelt, die durch die erneute Nähe zum Exmann durcheinandergerät.
 
-Merksatz: Die Bäckerei gehört zu Janes eigenständigem Leben.
 
 - Eine Buchhandlung: Eine Buchhandlung ist nicht ihr Geschäft.
 - Eine Blumenhandlung: Sie führt keinen Blumenladen.
@@ -3281,7 +3136,6 @@ In welchem Beruf begegnet Adam Schaffer (Steve Martin) Jane Adler (Meryl Streep)
 
 Adam Schaffer (Steve Martin) kommt als Architekt in das Leben von Jane Adler (Meryl Streep). Er soll ihr Haus erweitern und lernt sie über diese Zusammenarbeit kennen. Auch er hat eine Scheidung hinter sich, wodurch beide einen persönlichen Erfahrungshintergrund teilen. Die geplante Veränderung des Hauses begleitet so die Möglichkeit eines neuen Lebensabschnitts, während Janes Vergangenheit zugleich wieder an Bedeutung gewinnt.
 
-Merksatz: Der Hausumbau bringt den möglichen neuen Partner ins Bild.
 
 - Als Architekt: Adam plant als Architekt den Umbau ihres Hauses.
 - Als Steuerberater: Er wird nicht als Steuerberater beauftragt.
@@ -3303,7 +3157,6 @@ Bei welchem Anlass kommen Jane (Meryl Streep) und Jake Adler (Alec Baldwin) in �
 
 Jane Adler (Meryl Streep) und ihr Exmann Jake Adler (Alec Baldwin) reisen zum Studienabschluss ihres Sohnes Luke Adler (Hunter Parrish) nach New York. Der familiäre Anlass schafft einen gemeinsamen Aufenthalt außerhalb ihres gewöhnlichen Alltags. Ein Abend entwickelt sich dort zu einer neuen intimen Begegnung. Ausgerechnet eine Feier ihres erwachsenen Kindes wird damit zum Ausgangspunkt einer Affäre zwischen den längst geschiedenen Eltern.
 
-Merksatz: Der gemeinsame Familienanlass öffnet die Tür zur alten Beziehung.
 
 - Bei der Hochzeit ihrer Tochter in Santa Barbara: Die Hochzeit einer Tochter ist nicht dieser Anlass.
 - Beim Studienabschluss ihres Sohnes in New York: Die Abschlussfeier des Sohnes führt zum gemeinsamen New Yorker Aufenthalt.
@@ -3325,7 +3178,6 @@ Warum muss Harley (John Krasinski) in „Wenn Liebe so einfach wäre“ ein unan
 
 Harley (John Krasinski), der Verlobte von Lauren Adler (Caitlin FitzGerald), erkennt, dass Jane Adler (Meryl Streep) und Jake Adler (Alec Baldwin) wieder intim miteinander sind. Als künftiges Mitglied der Familie gerät er dadurch zwischen Mitwissen und Verschweigen. Die übrigen Kinder erfahren zunächst nichts davon. Das Geheimnis betrifft somit nicht nur das Paar, sondern belastet auch jemanden, der gerade erst Teil seiner Familie wird.
 
-Merksatz: Der künftige Schwiegersohn wird zum unfreiwilligen Mitwisser.
 
 - Er entdeckt einen Betrug in einem Familienbetrieb.: Ein Betrug im Familienbetrieb ist nicht sein Geheimnis.
 - Er entdeckt gefälschte Bauunterlagen für den Hausumbau.: Gefälschte Bauunterlagen findet er nicht.
@@ -3347,7 +3199,6 @@ Wodurch erfährt Adam (Steve Martin) in „Wenn Liebe so einfach wäre“ unmitt
 
 Jane Adler (Meryl Streep) spricht über die Webcam mit Adam Schaffer (Steve Martin). Jake Adler (Alec Baldwin) legt sich nackt in die Nähe des Computers und wird für Adam sichtbar. Das intime Geheimnis wird dadurch ohne ein geplantes Geständnis enthüllt. Die Technik verbindet zwei getrennte Räume und lässt Adams neue Beziehung zu Jane mit der noch nicht geklärten Vergangenheit zusammenstoßen.
 
-Merksatz: Die Webcam macht das verborgene Dreieck sichtbar.
 
 - Er erhält eine anonyme Sprachnachricht.: Eine anonyme Sprachnachricht enthüllt die Situation nicht.
 - Jane schickt versehentlich ein Foto.: Ein versehentlich verschicktes Foto ist nicht das Medium.
@@ -3369,7 +3220,6 @@ Auf welche gemeinsame Erfahrung spielt Adams (Steve Martin) spätere Bitte um Cr
 
 Jane Adler (Meryl Streep) und Adam Schaffer (Steve Martin) backen bei einem früheren gemeinsamen Abend Schokoladencroissants in ihrer Bäckerei. Nach dem Bruch kommt Adam später wegen der Arbeiten am Haus zurück und fragt erneut danach. Die alltägliche Bitte greift die Erinnerung an ihre Nähe auf. Der Schluss deutet damit über eine kleine gemeinsame Tätigkeit die Möglichkeit einer erneuten Annäherung an.
 
-Merksatz: Die Croissants erinnern an den früheren gemeinsamen Abend.
 
 - Auf das gemeinsame Backen in der Bäckerei: Jane und Adam hatten zuvor zusammen Schokoladencroissants gebacken.
 - Auf ein Frühstück während ihrer Hochzeitsreise: Eine gemeinsame Hochzeitsreise gab es nicht.
@@ -3391,7 +3241,6 @@ In welchem Jahr wurde „Wenn Liebe so einfach wäre“ erstmals veröffentlicht
 
 Wenn Liebe so einfach wäre erschien 2009. Nancy Meyers hatte zuvor Liebe braucht keine Ferien inszeniert, den Sony als Film von 2006 führt; der Abstand beträgt drei Jahre. Beide Werke behandeln neue Beziehungen nach enttäuschenden Erfahrungen, aber in unterschiedlichen Lebenssituationen. Die beiden datierten Filme bilden einen konkreten Anker innerhalb derselben Regiearbeit und verhindern eine Verwechslung der ähnlichen romantischen Themen.
 
-Merksatz: 2006 Liebe braucht keine Ferien, 2009 Wenn Liebe so einfach wäre: drei Jahre.
 
 - 2006: 2006 gehört zum früheren Zeitanker, nicht zu diesem Film.
 - 2009: Universal führt 2009 als Erscheinungsjahr.
@@ -3413,7 +3262,6 @@ Wer führte bei „Wenn Liebe so einfach wäre“ Regie?
 
 Nancy Meyers führte Regie und schrieb das Drehbuch von Wenn Liebe so einfach wäre. Universal führt beide Zuständigkeiten ausdrücklich auf. Die Hauptrollen spielen Meryl Streep als Jane Adler, Alec Baldwin als Jake Adler und Steve Martin als Adam Schaffer. Das Beziehungsdreieck verbindet Janes wiederkehrende Vergangenheit mit einer neuen Möglichkeit; Meyers gestaltet diese Verbindung zugleich als Autorin der Geschichte und als Regisseurin ihrer Umsetzung.
 
-Merksatz: Meyers verantwortet Drehbuch und Regie.
 
 - Nora Ephron: Nora Ephron hat hier keinen Regiecredit.
 - Nicole Holofcener: Nicole Holofcener inszenierte diesen Film nicht.
@@ -3439,7 +3287,6 @@ Wie kennen sich Rosie Dunne (Lily Collins) und Alex Stewart (Sam Claflin) zu Beg
 
 Rosie Dunne (Lily Collins) und Alex Stewart (Sam Claflin) wachsen mit einer engen Freundschaft auf. Gerade diese Vertrautheit erschwert ihnen, ihre romantischen Gefühle offen auszusprechen. Neue Partner, Zukunftspläne und Missverständnisse verändern die Nähe im Laufe der Jahre. Der Film verfolgt damit keine erste Begegnung zweier Fremder, sondern eine Beziehung, deren lange gemeinsame Geschichte zugleich Halt bietet und Entscheidungen kompliziert macht.
 
-Merksatz: Die lange Freundschaft geht der Romanze voraus.
 
 - Sie sind seit ihrer Kindheit befreundet.: Die beiden verbindet eine lange Kindheitsfreundschaft.
 - Sie treffen sich erstmals als Arbeitskollegen.: Ein gemeinsamer Arbeitsplatz ist nicht ihr Ausgangspunkt.
@@ -3461,7 +3308,6 @@ Welchen beruflichen Traum verfolgt Rosie Dunne (Lily Collins) in „Love, Rosie 
 
 Rosie Dunne (Lily Collins) verbindet ihre Zukunftspläne mit dem Wunsch, eines Tages ein eigenes Hotel zu führen. Das Ziel verlangt Ausbildung und berufliche Erfahrung, während ihr Leben wiederholt einen anderen Verlauf nimmt als erwartet. Der Traum bleibt dennoch bestehen. Neben der wechselhaften Beziehung zu Alex Stewart (Sam Claflin) besitzt Rosie dadurch eine eigene langfristige Perspektive, die über die Suche nach einem Partner hinausgeht.
 
-Merksatz: Das Hotel bleibt ein eigener Zukunftswunsch.
 
 - Eine eigene Modefirma zu gründen: Eine Modefirma ist nicht ihr Berufsziel.
 - Ein eigenes Hotel zu führen: Rosie möchte ihr eigenes Hotel betreiben.
@@ -3483,7 +3329,6 @@ Was hält Rosie (Lily Collins) in „Love, Rosie – Für immer vielleicht“ vo
 
 Rosie Dunne (Lily Collins) wird nach dem Abschlussball von Greg (Christian Cooke) schwanger. Die Nachricht verändert ihre Pläne, mit Alex Stewart (Sam Claflin) nach Boston zu gehen. Sie verschweigt ihm die Situation zunächst, weil sie nicht möchte, dass er seine eigene Chance aufgibt. Aus der räumlichen Trennung wächst damit ein langfristiger Unterschied zwischen den Lebenswegen der beiden Freunde.
 
-Merksatz: Die Schwangerschaft trennt die geplanten gemeinsamen Wege.
 
 - Sie muss die Firma ihres Vaters übernehmen.: Eine übernommene Firma verhindert die Reise nicht.
 - Sie verliert ihren Pass vor der Abreise.: Ein fehlender Pass ist nicht die entscheidende Ursache.
@@ -3505,7 +3350,6 @@ Warum erreicht Alex' (Sam Claflin) entscheidender Liebesbrief Rosie (Lily Collin
 
 Alex Stewart (Sam Claflin) schreibt Rosie Dunne (Lily Collins) nach einem Besuch einen Brief, in dem er seine Gefühle ausdrückt. Greg (Christian Cooke), Rosies Ehemann, fängt ihn ab und versteckt ihn. Rosie findet die Nachricht erst später beim Packen seiner Sachen. Ein bewusst zurückgehaltener Gegenstand verlängert so das Missverständnis zwischen den Freunden und verhindert, dass sie zur richtigen Zeit voneinander erfahren.
 
-Merksatz: Der Liebesbrief wird absichtlich zurückgehalten.
 
 - Alex schickt den Brief an Rosies frühere Adresse.: Eine alte Adresse ist nicht der Grund.
 - Rosies Mutter vernichtet den Brief aus Sorge.: Rosies Mutter zerstört den Brief nicht.
@@ -3527,7 +3371,6 @@ Warum missversteht Alex (Sam Claflin) Rosies (Lily Collins) Verhalten nach ihrem
 
 Rosie Dunne (Lily Collins) und Alex Stewart (Sam Claflin) küssen sich bei ihrer Geburtstagsfeier. Nach zu viel Alkohol erinnert Rosie sich jedoch nicht mehr daran und würde den Abend am liebsten vergessen. Alex bezieht diese Äußerung auf den Kuss und fühlt sich zurückgewiesen. Das Publikum kennt den Unterschied zwischen Erinnerungslücke und Ablehnung; die Figuren klären ihn dagegen lange nicht und richten ihre weiteren Entscheidungen danach aus.
 
-Merksatz: Vergessener Kuss und vermeintliche Ablehnung sind zwei verschiedene Sichtweisen.
 
 - Sie erinnert sich nach dem Alkohol nicht an den Kuss.: Rosies Erinnerungslücke lässt Alex ihre Worte als Ablehnung deuten.
 - Sie verwechselt ihn ausdrücklich mit einem anderen Jungen.: Eine Verwechslung mit einem anderen Jungen erklärt die Szene nicht.
@@ -3549,7 +3392,6 @@ Wodurch kann Rosie Dunne (Lily Collins) in „Love, Rosie – Für immer viellei
 
 Rosie Dunne (Lily Collins) kann nach vielen Umwegen ihr eigenes Hotel eröffnen, weil das Erbe ihres Vaters ihr die finanzielle Grundlage gibt. Alex Stewart (Sam Claflin) kommt später als Gast dorthin. Der Ort vereint damit einen selbst erreichten Lebenswunsch und die spätere romantische Annäherung. Die Finanzierung erklärt, wie aus Rosies lange bestehendem beruflichem Traum am Ende ein tatsächlich eröffnetes Geschäft wird.
 
-Merksatz: Das väterliche Erbe schafft die finanzielle Grundlage für den Traum.
 
 - Durch den Verkauf von Alex' (Sam Claflin) Wohnung: Alex verkauft dafür keine Wohnung.
 - Durch das Erbe ihres Vaters: Das väterliche Erbe ermöglicht ihr den eigenen Hotelbetrieb.
@@ -3571,7 +3413,6 @@ In welchem Jahr wurde „Love, Rosie – Für immer vielleicht“ erstmals verö
 
 Love, Rosie erschien 2014. Cecelia Ahern veröffentlichte die Romanvorlage Where Rainbows End 2004, also zehn Jahre zuvor; ihre offizielle Biografie nennt dieses Buch und seine spätere Verfilmung. Der Abstand verbindet zwei konkrete Fassungen der Geschichte über langjährige Freunde. Der Filmstart gehört daher zur späteren Bildschirmumsetzung und wird vom deutlich früheren Erscheinen der literarischen Vorlage getrennt.
 
-Merksatz: 2004 Roman, 2014 Film: zehn Jahre Abstand.
 
 - 2011: 2011 wäre drei Jahre zu früh.
 - 2017: 2017 ist drei Jahre später.
@@ -3593,7 +3434,6 @@ Wer führte bei „Love, Rosie – Für immer vielleicht“ Regie?
 
 Christian Ditter führte bei Love, Rosie Regie. Constantin trennt seinen Credit vom Drehbuch, das Juliette Towhidi nach Cecelia Aherns Roman schrieb. Lily Collins spielt Rosie Dunne, Sam Claflin Alex Stewart. Die Verfilmung verfolgt deren Freundschaft über zahlreiche verpasste Gelegenheiten. Ditter ist damit für die Inszenierung zuständig, während die Entwicklung des Filmtexts und die literarische Urheberschaft anderen Mitwirkenden zugeordnet sind.
 
-Merksatz: Ditter inszeniert, Towhidi adaptiert Aherns Roman.
 
 - Marc Webb: Marc Webb führte hier nicht Regie.
 - Richard Curtis: Richard Curtis inszenierte diese Verfilmung nicht.
@@ -3619,7 +3459,6 @@ Welchen Beruf übt Daniel (Moritz Bleibtreu) in „Im Juli“ zu Beginn aus?
 
 Daniel (Moritz Bleibtreu) beginnt seine Reise als Hamburger Referendar, der zunächst ein geregeltes und zurückhaltendes Leben führt. Die Ferien schaffen den Freiraum für die unerwartete Fahrt. Sein Alltag an der Schule bildet einen deutlichen Ausgangspunkt für die Begegnungen unterwegs. Als er die gewohnte Umgebung verlässt, muss er sich auf Situationen einlassen, die sich kaum wie sein bisheriger Tagesablauf planen lassen.
 
-Merksatz: Der geregelte Schulalltag ist der Ausgangspunkt der Reise.
 
 - Er ist angehender Rechtsanwalt im Referendariat.: Sein Referendariat gehört nicht zur juristischen Ausbildung.
 - Er ist angehender Lehrer im Referendariat.: Daniel arbeitet als Referendar an einer Hamburger Schule.
@@ -3641,7 +3480,6 @@ Welche Stadt will Daniel (Moritz Bleibtreu) auf seiner Reise in „Im Juli“ er
 
 Daniel (Moritz Bleibtreu) begegnet in Hamburg Melek (İdil Üner) und glaubt, in ihr seine ersehnte Partnerin gefunden zu haben. Nach ihrer Abreise will er sie in Istanbul wiedersehen. Aus diesem Wunsch entsteht die Fahrt durch Südosteuropa. Juli (Christiane Paul) begleitet ihn unterwegs, während seine Aufmerksamkeit anfangs auf der Verabredung am Bosporus liegt und ihre Gefühle für ihn noch übersehen werden.
 
-Merksatz: Die Verabredung am Bosporus gibt der Fahrt ihr Ziel.
 
 - Athen: Athen ist nicht das vereinbarte Reiseziel.
 - Rom: Eine Verabredung in Rom verfolgt er nicht.
@@ -3663,7 +3501,6 @@ Welches Motiv auf einem gekauften Ring deutet Daniel (Moritz Bleibtreu) in „Im
 
 Juli (Christiane Paul) verkauft Daniel (Moritz Bleibtreu) einen Ring mit einem Sonnensymbol und verbindet ihn mit der Suche nach seiner Traumfrau. Sie selbst hofft, dass er dadurch sie erkennen wird. Daniel begegnet jedoch Melek (İdil Üner), deren Oberteil ebenfalls eine Sonne zeigt. Das gleiche Motiv führt seine Aufmerksamkeit somit zunächst zu einer anderen Frau als derjenigen, die ihm den Ring verkauft hat.
 
-Merksatz: Ein Sonnensymbol führt zur zunächst falschen Zuordnung.
 
 - Einen Mond: Ein Mondsymbol ist nicht das Zeichen des Rings.
 - Einen Vogel: Ein Vogelmotiv führt Daniel nicht zur vermeintlichen Traumfrau.
@@ -3685,7 +3522,6 @@ Wie schließt sich Juli (Christiane Paul) in „Im Juli“ Daniels (Moritz Bleib
 
 Juli (Christiane Paul) verlässt nach ihrer Enttäuschung Hamburg und stellt sich zum Trampen an die Straße. Daniel (Moritz Bleibtreu) ist mit einem geliehenen Auto unterwegs und hält als erster für sie an. So kommt die gemeinsame Reise zustande, ohne dass sie vorher miteinander vereinbart wurde. Die zufällige Mitfahrt schafft die Nähe, die ihrem ursprünglichen Versuch einer direkten Verabredung noch gefehlt hatte.
 
-Merksatz: Die erste anhaltende Mitfahrgelegenheit ist ausgerechnet Daniel.
 
 - Daniel nimmt sie als Anhalterin mit.: Daniel hält mit dem Auto an und nimmt Juli mit.
 - Sie bucht denselben Fernbus wie Daniel.: Ein gemeinsamer Fernbus bringt sie nicht zusammen.
@@ -3707,7 +3543,6 @@ Welche verborgene Fracht hat Isa (Mehmet Kurtuluş) in „Im Juli“ im Kofferra
 
 Daniel (Moritz Bleibtreu) begegnet während der Reise Isa (Mehmet Kurtuluş), dessen Wagen eine Leiche im Kofferraum enthält. Die verborgene Fracht verändert den Blick auf den zunächst unbekannten Mitreisenden. Daniels Suche nach einem romantischen Treffen verbindet sich dadurch mit einer fremden, ernsten Angelegenheit. Der Roadmovie führt die Hauptfigur immer wieder in unerwartete Geschichten anderer Menschen hinein, die seinen Weg zusätzlich komplizieren.
 
-Merksatz: Der Kofferraum verbirgt einen Toten statt gewöhnlicher Schmuggelware.
 
 - Gestohlene Gemälde: Gemälde sind nicht die verborgene Fracht.
 - Eine Leiche: Isa transportiert eine Leiche im Kofferraum.
@@ -3729,7 +3564,6 @@ Welche eigene Reiseerfahrung nennt Fatih Akin im Produktionspresseheft als Bezug
 
 Im Interview des Produktionspressehefts erzählt Fatih Akin, dass er einmal einer Frau nach Istanbul nachgereist sei. Weil ihm Geld fehlte, sei er getrampt. Diese persönliche Erinnerung erklärt einen Bezug zwischen dem romantischen Reiseimpuls des Films und der Erfahrung seines Autors. Die Aussage wird ausdrücklich dem Regisseur zugeschrieben; sie beweist nicht, dass sämtliche späteren Ereignisse der Filmhandlung autobiografisch sind.
 
-Merksatz: Eine aus Liebe unternommene Tramptour liefert den persönlichen Bezug.
 
 - Er reiste für einen Filmdreh erstmals nach Istanbul.: Ein erster Drehauftrag ist nicht die erzählte Erfahrung.
 - Er begleitete einen erkrankten Verwandten im Auto nach Istanbul.: Eine Krankenfahrt nennt er dort nicht.
@@ -3751,7 +3585,6 @@ In welchem Jahr wurde „Im Juli“ erstmals veröffentlicht?
 
 Im Juli kam 2000 ins Kino. Fatih Akins früherer Langfilm Kurz und schmerzlos erschien 1998, also zwei Jahre zuvor; filmportal dokumentiert die Werk- und Aufführungsdaten. Der Vergleich verbindet zwei konkrete Stationen seiner frühen Regiearbeit. Nach einer Geschichte aus dem Hamburger Kleingangstermilieu folgte der romantische Roadmovie, dessen Reise die Figuren aus ihrem gewohnten Hamburger Alltag nach Südosteuropa führt.
 
-Merksatz: 1998 Kurz und schmerzlos, 2000 Im Juli: zwei Jahre Abstand.
 
 - 1997: 1997 liegt drei Jahre davor.
 - 2003: 2003 liegt drei Jahre danach.
@@ -3773,7 +3606,6 @@ Wer führte bei „Im Juli“ die Hauptregie?
 
 Fatih Akin ist bei Im Juli sowohl als Regisseur als auch als Drehbuchautor ausgewiesen. Moritz Bleibtreu spielt Daniel, Christiane Paul Juli. filmportal führt daneben Akins eigenen kurzen Auftritt als Zöllner auf. Diese Mitwirkung vor der Kamera ergänzt die Hauptregie, ersetzt sie aber nicht. Die berufliche Zuständigkeit hinter der Kamera und die kleine Rolle innerhalb der Reisehandlung werden in den Credits getrennt dokumentiert.
 
-Merksatz: Akin verantwortet Regie und Drehbuch und hat zusätzlich eine Gastrolle.
 
 - Fatih Akin: filmportal nennt Fatih Akin als Hauptregisseur.
 - Thomas Arslan: Thomas Arslan inszenierte diesen Roadmovie nicht.
@@ -3799,7 +3631,6 @@ Warum wirft Doro (Katja Riemann) Axel (Til Schweiger) in „Der bewegte Mann“ 
 
 Doro Feldheim (Katja Riemann) erwischt Axel Feldheim (Til Schweiger) beim Fremdgehen und setzt ihn vor die Tür. Axel muss deshalb kurzfristig eine neue Unterkunft finden. Die Suche bringt ihn in ein für ihn neues Umfeld und schafft die späteren Verwicklungen. Sein Problem beginnt damit bei seinem eigenen Verhalten in der Beziehung, bevor Missverständnisse über andere Männer und neue Bekanntschaften entstehen.
 
-Merksatz: Die selbst verursachte Trennung macht Axel wohnungslos.
 
 - Er hat ihre gemeinsame Miete verspielt.: Verspielte Miete ist nicht der Grund.
 - Er hat heimlich den Mietvertrag gekündigt.: Eine heimliche Kündigung löst die Trennung nicht aus.
@@ -3821,7 +3652,6 @@ Bei wem zieht Axel (Til Schweiger) nach der Trennung in „Der bewegte Mann“ e
 
 Axel Feldheim (Til Schweiger) lernt nach der Trennung Walter, genannt Waltraut (Rufus Beck), kennen und geht mit ihm zu einer Party. Dort entscheidet er sich, bei Norbert Brommer (Joachim Król) unterzukommen. Norberts eigene Beziehung ist gerade gescheitert. Der neue gemeinsame Wohnraum schafft eine Nähe, die Axel später unterschiedlich auslegt und auf die er erneut zurückgreift, wenn seine alten Beziehungsprobleme wiederkehren.
 
-Merksatz: Norbert wird der gewählte Gastgeber.
 
 - Walter (Rufus Beck): Walter lädt ihn zwar ein, wird aber nicht der gewählte Gastgeber.
 - Metzger (Armin Rohde): Metzger nimmt Axel nicht als Mitbewohner auf.
@@ -3843,7 +3673,6 @@ Warum möchte Doro (Katja Riemann) der Beziehung zu Axel (Til Schweiger) in „D
 
 Doro Feldheim (Katja Riemann) teilt Axel Feldheim (Til Schweiger) mit, dass sie ein Kind von ihm erwartet. Sie will deshalb ihre Beziehung noch einmal versuchen. Axel freut sich auf die Vaterschaft, löst seine bisherigen Verhaltensmuster aber damit nicht automatisch. Die Schwangerschaft verändert die Voraussetzungen der Partnerschaft, während seine späteren Entscheidungen erneut die Frage aufwerfen, ob der Neuanfang wirklich Bestand hat.
 
-Merksatz: Die erwartete Elternschaft eröffnet einen neuen Versuch.
 
 - Sie erwartet ein Kind von ihm.: Doro ist schwanger und möchte die Beziehung neu versuchen.
 - Er hat ihr seine gesamte Affäre gestanden.: Ein vollständiges Geständnis erklärt diesen Entschluss nicht.
@@ -3865,7 +3694,6 @@ Wo verbirgt Axel (Til Schweiger) in „Der bewegte Mann“ den unbekleideten Nor
 
 Norbert Brommer (Joachim Król) begleitet Axel Feldheim (Til Schweiger) in dessen frühere Wohnung und zieht sich während der Annäherung aus. Als Doro Feldheim (Katja Riemann) auftaucht, versteckt Axel ihn rasch im Kleiderschrank. Der Versuch, die Situation zu verbergen, erzeugt ein besonders kompromittierendes Bild. Doro muss nun nicht nur Axels Untreue, sondern auch seine widersprüchlichen Erklärungen über die neue Bekanntschaft beurteilen.
 
-Merksatz: Das Versteck macht die harmlose Erklärung kaum glaubwürdig.
 
 - Unter dem Bett: Unter dem Bett wird er nicht verborgen.
 - Im Kleiderschrank: Norbert versteckt sich im Kleiderschrank.
@@ -3887,7 +3715,6 @@ Wer gibt Axel (Til Schweiger) in „Der bewegte Mann“ ein bewusstseinsverände
 
 Axel Feldheim (Til Schweiger) trifft seine frühere Freundin Elke Schmitt (Antonia Lang) in der Wohnung von Norbert Brommer (Joachim Król). Elke gibt ihm ein bewusstseinsveränderndes Mittel und lässt ihn unbekleidet auf einem Tisch zurück. Doro Feldheim (Katja Riemann) entdeckt ihn dort und deutet die Situation falsch. Die Ursache seines Zustands gehört somit zu einer anderen Begegnung als der, die Doro zunächst vermutet.
 
-Merksatz: Elkes Mittel führt zu Axels Zustand und zu Doros falscher Deutung.
 
 - Walter (Rufus Beck): Walter verabreicht es Axel nicht.
 - Norbert (Joachim Król): Norbert hat ihm seine Wohnung überlassen, gibt ihm aber nicht das Mittel.
@@ -3909,7 +3736,6 @@ Von wem stammen die Comics, die „Der bewegte Mann“ zugrunde liegen?
 
 filmportal nennt zwei Comics von Ralf König als Vorlagen: Der bewegte Mann und Pretty Baby. Sönke Wortmann schrieb das Filmdrehbuch und führte Regie. Die literarisch-grafische Urheberschaft liegt somit bei König, während die Filmfassung einen eigenen Autor und Regisseur hat. Die doppelte Vorlagenangabe verhindert, die Adaption ausschließlich auf den gleichnamigen Comic oder auf eine angeblich originale Filmidee zu reduzieren.
 
-Merksatz: Zwei König-Comics werden zu einer Filmfassung verbunden.
 
 - Walter Moers: Walter Moers zeichnete diese Vorlagen nicht.
 - Ralf Paul: Ralf Paul ist nicht der Vorlagenautor.
@@ -3931,7 +3757,6 @@ In welchem Jahr wurde „Der bewegte Mann“ erstmals veröffentlicht?
 
 Der bewegte Mann erschien 1994. Sönke Wortmanns frühere Komödie Allein unter Frauen wurde bereits 1991 ausgewertet; filmportal dokumentiert ihre damalige Festivalpräsenz. Drei Jahre trennen die beiden Filme. In beiden gerät ein Mann nach dem Ende seiner bisherigen Beziehung in ein neues Wohnumfeld. Dieser gemeinsame Ausgangspunkt schafft einen konkreten Werkvergleich, ohne die verschiedenen Figuren und ihre Beziehungen gleichzusetzen.
 
-Merksatz: 1991 Allein unter Frauen, 1994 Der bewegte Mann: drei Jahre Abstand.
 
 - 1994: Der dokumentierte Kinostart liegt 1994.
 - 1991: 1991 gehört zum früheren Vergleichswerk.
@@ -3953,7 +3778,6 @@ Wer führte bei „Der bewegte Mann“ Regie?
 
 Sönke Wortmann übernahm für Der bewegte Mann sowohl die Regie als auch das Drehbuch. Die Vorlagen stammen von Ralf König; Bernd Eichinger ist als Produzent geführt. Til Schweiger spielt Axel Feldheim, Joachim Król Norbert Brommer und Katja Riemann Doro Feldheim. Die Credits unterscheiden damit die Inszenierung und Filmadaption von der Comicurheberschaft sowie von der Verantwortung für die Produktion.
 
-Merksatz: Wortmann adaptiert und inszeniert Königs Comicvorlagen.
 
 - Doris Dörrie: Doris Dörrie inszenierte diesen Film nicht.
 - Sönke Wortmann: filmportal und HDF KINO nennen Sönke Wortmann.
@@ -3979,7 +3803,6 @@ Wo muss Ludo Decker (Til Schweiger) in „Keinohrhasen“ seine Sozialstunden le
 
 Ludo Decker (Til Schweiger) arbeitet als Boulevardreporter und muss nach einem misslungenen Einsatz Sozialstunden in einem Kinderhort leisten. Dort begegnet er Anna Gotzlowski (Nora Tschirner), die mit dem Alltag der Kinder vertraut ist und ihn zunächst widerwillig aufnimmt. Die verpflichtende Arbeit bringt ihn aus seiner gewohnten Medienwelt in ein Umfeld, dessen Aufgaben und Beziehungen er erst kennenlernen muss.
 
-Merksatz: Die gerichtliche Pflicht führt in den Kinderhort.
 
 - In einem Seniorenheim: Ein Seniorenheim ist nicht sein Einsatzort.
 - In einem Tierheim: Ein Tierheim wird ihm nicht zugewiesen.
@@ -4001,7 +3824,6 @@ Welche Vorgeschichte haben Anna Gotzlowski (Nora Tschirner) und Ludo Decker (Til
 
 Anna Gotzlowski (Nora Tschirner) kennt Ludo Decker (Til Schweiger) bereits aus der Kindheit. Damals hat er sie gehänselt, weshalb die Begegnung im Kinderhort für sie keine unbelastete erste Bekanntschaft ist. Sie nutzt anfangs ihre neue Macht über seine Aufgaben, um ihm die Arbeit schwerzumachen. Die spätere Annäherung muss damit auch die Erinnerung an ein früheres verletzendes Verhältnis überwinden.
 
-Merksatz: Das alte Machtverhältnis kehrt im Kinderhort zunächst um.
 
 - Er hat sie als Kind gehänselt.: Anna erinnert sich an Ludos Hänseleien aus der Kindheit.
 - Sie waren früher miteinander verlobt.: Eine frühere Verlobung bestand nicht.
@@ -4023,7 +3845,6 @@ Was geschieht bei Ludos (Til Schweiger) misslungenem Reportereinsatz in „Keino
 
 Ludo Decker (Til Schweiger) versucht bei einer prominenten Feier, an Material für seine Boulevardarbeit zu gelangen. Sein riskantes Vorgehen endet damit, dass er durch ein Glasdach bricht und in einer Torte landet. Der Vorfall führt zu den gerichtlich angeordneten Sozialstunden. Aus einem beruflichen Eingriff in die Privatsphäre anderer entsteht so die verpflichtende Begegnung mit einem für ihn völlig anderen Arbeitsalltag.
 
-Merksatz: Der spektakuläre Sturz hat rechtliche Folgen.
 
 - Er stürzt von einer Treppe und beschädigt eine Kamera.: Der folgenreiche Unfall findet nicht auf einer Treppe statt.
 - Er bricht durch ein Glasdach und landet in einer Torte.: Der Sturz durch das Glasdach endet auf der Feier in einer Torte.
@@ -4045,7 +3866,6 @@ Welche Aufgabe übernimmt Moritz (Matthias Schweighöfer) im Team von Ludo (Til 
 
 Moritz (Matthias Schweighöfer) begleitet Ludo Decker (Til Schweiger) als Fotograf bei den Einsätzen für die Boulevardzeitung. Ihre Zusammenarbeit verbindet den Bericht mit den gesuchten Bildern der prominenten Personen. Damit gehört Moritz zu Ludos beruflicher Welt, aus der die späteren Probleme entstehen. Die Figur wird von der Leitung der Redaktion und von den Menschen im Kinderhort als eigener Kollege unterschieden.
 
-Merksatz: Der Fotograf liefert die Bilder zum Boulevardbericht.
 
 - Er vertritt Ludo als Rechtsanwalt.: Er ist nicht Ludos Anwalt.
 - Er betreut die Anzeigenkunden der Zeitung.: Die Betreuung der Anzeigenkunden ist nicht seine Aufgabe.
@@ -4067,7 +3887,6 @@ Warum verliert Ludo Decker (Til Schweiger) in „Keinohrhasen“ seinen Job bei 
 
 Ludo Decker (Til Schweiger) richtet bei einer Filmpreisveranstaltung seinen Bericht auf Anna Gotzlowski (Nora Tschirner), statt wie erwartet die prominenten Gäste zu bedienen. Seine persönliche Wahl passt nicht zu den Interessen der Boulevardredaktion, die ihn entlässt. Die Szene zeigt einen Wandel seiner Aufmerksamkeit: Die Frau aus seinem Alltag wird ihm wichtiger als die Personen, deren öffentliche Bilder zuvor seinen Beruf bestimmt haben.
 
-Merksatz: Die persönliche Wahl widerspricht dem Auftrag der Redaktion.
 
 - Er verkauft seine Fotos heimlich an eine andere Zeitung.: Ein heimlicher Bilderverkauf ist nicht die Ursache.
 - Er verweigert die Veröffentlichung eines Gerichtsurteils.: Ein verweigertes Urteil löst die Entlassung nicht aus.
@@ -4089,7 +3908,6 @@ Wo erklärt Ludo Decker (Til Schweiger) Anna (Nora Tschirner) in „Keinohrhasen
 
 Ludo Decker (Til Schweiger) nutzt am Ende eine Aufführung der Kinder, um Anna Gotzlowski (Nora Tschirner) seine Liebe zu erklären. Er macht seine eigenen Gefühle öffentlich, statt weiterhin nur die Privatleben anderer Menschen für Berichte auszunutzen. Der Auftritt führt die Schlussentscheidung an den Ort, an dem seine Veränderung begonnen hat. Das Publikum der Szene gehört nun zu Annas Alltag und zur gemeinsamen Erfahrung im Kinderhort.
 
-Merksatz: Die Kinderbühne wird zum Ort des eigenen öffentlichen Geständnisses.
 
 - Auf der Bühne einer Kinderaufführung: Ludo tritt bei der Aufführung der Kinder auf und erklärt seine Gefühle.
 - Auf dem roten Teppich der Filmpreisgala: Der rote Teppich ist nicht der Ort dieses Geständnisses.
@@ -4111,7 +3929,6 @@ In welchem Jahr wurde „Keinohrhasen“ erstmals veröffentlicht?
 
 Keinohrhasen erschien 2007. Die Fortsetzung Zweiohrküken kam 2009 heraus, also zwei Jahre später; filmportal führt die Veröffentlichungsdaten beider Filme. Der zeitliche Vergleich bezieht sich auf zwei konkrete Kinofilme mit wiederkehrenden Hauptfiguren. Das erste Werk entwickelt die Annäherung im Kinderhort, während der zweite Film die inzwischen bestehende Beziehung weiterführt und mit neuen Konflikten konfrontiert.
 
-Merksatz: 2007 erster Film, 2009 Fortsetzung: zwei Jahre Abstand.
 
 - 2004: 2004 wäre drei Jahre zu früh.
 - 2007: Die Premiere und der Kinostart liegen 2007.
@@ -4133,7 +3950,6 @@ Wer führte bei „Keinohrhasen“ die Hauptregie?
 
 Til Schweiger führte bei Keinohrhasen die Hauptregie und spielt Ludo Decker. filmportal weist Torsten Künstler gesondert für die Regie des zweiten Stabs aus. Das Drehbuch stammt von Anika Decker und Schweiger. Matthias Schweighöfer verkörpert Moritz und ist damit als Darsteller beteiligt. Die getrennten Credits verhindern, aus einer weiteren Regietätigkeit am Set ein gleichberechtigtes Hauptregieteam oder aus der Besetzung die Filmregie abzuleiten.
 
-Merksatz: Schweiger Hauptregie, Künstler zweiter Stab.
 
 - Torsten Künstler: Torsten Künstler führte den zweiten Stab, nicht die Hauptregie.
 - Matthias Schweighöfer: Matthias Schweighöfer spielt Moritz, führte hier aber nicht Hauptregie.
@@ -4159,7 +3975,6 @@ Wie entwickelt Simon Spier (Nick Robinson) in „Love, Simon“ seine zunächst 
 
 Simon Spier (Nick Robinson) hat seine Homosexualität zunächst vor seiner Umgebung verborgen. Als ein anderer Schüler anonym über seine Gefühle schreibt, nimmt Simon per E-Mail Kontakt auf. Die beiden können sich in der Korrespondenz öffnen, ohne ihre Namen zu nennen. Die entstehende Nähe steht deshalb im Gegensatz zum noch unbekannten Gegenüber im Schulalltag, wo Simon immer wieder über dessen Identität rätselt.
 
-Merksatz: Die E-Mails schaffen Nähe, bevor die Identität bekannt ist.
 
 - Durch einen Austausch von E-Mails: Simon und sein unbekanntes Gegenüber schreiben einander E-Mails.
 - Durch anonyme Briefe im Schulspind: Papierbriefe im Spind sind nicht ihr Kommunikationsweg.
@@ -4181,7 +3996,6 @@ Welche Hilfe verlangt Martin Addison (Logan Miller) in „Love, Simon“ von Sim
 
 Martin Addison (Logan Miller) entdeckt die private Korrespondenz von Simon Spier (Nick Robinson) auf einem Schulcomputer. Er setzt Simon damit unter Druck, um Abby Suso (Alexandra Shipp) näherzukommen. Simon soll seine Freundschaft zu ihr für Martins Zwecke einsetzen. Die Forderung bedroht daher nicht nur seine Privatsphäre, sondern wirkt sich auch auf den Umgang mit Menschen aus, denen er eigentlich nahesteht.
 
-Merksatz: Das private Wissen wird für einen fremden Flirt eingesetzt.
 
 - Er soll ihm einen Schulwechsel ermöglichen.: Ein Schulwechsel ist nicht seine Forderung.
 - Er soll ihm helfen, Abby (Alexandra Shipp) näherzukommen.: Martin will Simons Unterstützung bei Abby.
@@ -4203,7 +4017,6 @@ Welchen Namen verwendet Simon Spier (Nick Robinson) in „Love, Simon“ für se
 
 Simon Spier (Nick Robinson) benutzt für seine geheime Korrespondenz den Namen Jacques. Sein Gegenüber schreibt als Blue, wodurch beide zunächst ohne ihre Alltagsidentität miteinander sprechen können. Die Trennung zwischen Alias und tatsächlicher Person prägt Simons Suche nach dem anderen Schüler. Auch der unerlaubte Zugriff auf die Nachrichten ist so gefährlich, weil er diese geschützte Verbindung mit seinem öffentlich bekannten Namen zusammenbringt.
 
-Merksatz: Jacques ist die verborgene Schreibidentität Simons.
 
 - Charlie: Charlie ist nicht sein Alias.
 - Oliver: Oliver verwendet er für diese E-Mails nicht.
@@ -4225,7 +4038,6 @@ Warum sind Simons (Nick Robinson) Freunde nach den Enthüllungen in „Love, Sim
 
 Simon Spier (Nick Robinson) versucht unter dem Druck von Martin Addison (Logan Miller), die Beziehungen seines Freundeskreises zu lenken. Er erzählt erfundene Dinge, damit Martins Annäherung an Abby Suso (Alexandra Shipp) eine Chance bekommt. Als die Manipulation sichtbar wird, sind die Freunde verletzt. Der Streit betrifft deshalb ihr beschädigtes Vertrauen und verlangt von Simon eine eigene Entschuldigung für sein Verhalten.
 
-Merksatz: Der Schutz des eigenen Geheimnisses führt zu Lügen über andere.
 
 - Er hat ihre Nachrichten für eine Schulzeitung verkauft.: Ein Verkauf ihrer Nachrichten findet nicht statt.
 - Er hat ihnen ein zugesagtes Stipendium weggenommen.: Er nimmt ihnen kein Stipendium weg.
@@ -4247,7 +4059,6 @@ Warum löscht Blue in „Love, Simon“ seinen E-Mail-Zugang nach der Veröffent
 
 Nachdem die privaten Nachrichten von Simon Spier (Nick Robinson) veröffentlicht worden sind, ist auch die Anonymität seines Gegenübers bedroht. Blue löscht den E-Mail-Zugang und bricht die Verbindung ab. Was zuvor einen geschützten Austausch erlaubte, erscheint nun als Risiko für ein unfreiwilliges Outing. Simon muss deshalb um neues Vertrauen werben, bevor die beiden ihre Beziehung außerhalb der anonymen Korrespondenz weiterführen können.
 
-Merksatz: Die Veröffentlichung gefährdet beide Seiten der Korrespondenz.
 
 - Er fürchtet, ebenfalls gegen seinen Willen erkannt zu werden.: Die Veröffentlichung bedroht auch Blues geschützte Identität.
 - Er hat erfahren, dass Simon die Briefe selbst veröffentlicht hat.: Blue weiß nicht von einer freiwilligen Veröffentlichung durch Simon.
@@ -4269,7 +4080,6 @@ Wer offenbart sich am Riesenrad in „Love, Simon“ als Blue?
 
 Simon Spier (Nick Robinson) wartet beim Schulfest am Riesenrad auf sein bisher anonymes Gegenüber. Schließlich kommt Bram Greenfeld (Keiynan Lonsdale) und offenbart sich als Blue. Frühere Begegnungen hatten Simon über dessen Identität getäuscht. Die Schlussenthüllung verbindet die vertraute Stimme aus den E-Mails mit einem Menschen aus seinem tatsächlichen Schulalltag und ermöglicht den beiden, ihre Gefühle offen miteinander zu teilen.
 
-Merksatz: Am Riesenrad bekommt Blue einen wirklichen Namen.
 
 - Cal (Miles Heizer): Cal ist nicht das gesuchte Gegenüber.
 - Bram (Keiynan Lonsdale): Bram kommt zum Riesenrad und gibt sich als Blue zu erkennen.
@@ -4291,7 +4101,6 @@ In welchem Jahr wurde „Love, Simon“ erstmals veröffentlicht?
 
 Love, Simon erschien 2018. Becky Albertalli veröffentlichte Simon vs. the Homo Sapiens Agenda 2015, also drei Jahre zuvor; ihre offizielle FAQ dokumentiert Buch und Verfilmung. Der Vergleich verbindet zwei konkrete Fassungen derselben Liebesgeschichte. Das spätere Fernsehspinoff Love, Victor erzählt dagegen von einer anderen Hauptfigur und wird nicht als ein weiterer Kinofilm mit Simon oder als dessen erstes Veröffentlichungsjahr behandelt.
 
-Merksatz: 2015 Roman, 2018 Film: drei Jahre Abstand.
 
 - 2015: 2015 ist das Jahr der Romanvorlage.
 - 2021: 2021 liegt drei Jahre später.
@@ -4313,7 +4122,6 @@ Wer führte bei „Love, Simon“ Regie?
 
 Greg Berlanti inszenierte Love, Simon nach Becky Albertallis Roman. Das Studio nennt Isaac Aptaker und Elizabeth Berger für das Filmdrehbuch und Berlanti für die Regie. Nick Robinson spielt Simon Spier, während Keiynan Lonsdale Bram Greenfeld verkörpert. Die Credits unterscheiden damit die literarische Urheberschaft, die gemeinsame Adaption und die Hauptregie der Geschichte über eine zunächst anonyme Liebe im Schulalltag.
 
-Merksatz: Berlanti inszeniert die Adaption von Aptaker und Berger.
 
 - Stephen Chbosky: Stephen Chbosky inszenierte diese Adaption nicht.
 - Josh Boone: Josh Boone hat hier keinen Regiecredit.

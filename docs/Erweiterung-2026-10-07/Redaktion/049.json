@@ -37,13 +37,13 @@
       ],
       "short": "Ron erhält die Diagnose HIV/AIDS.",
       "context": "Ron Woodroof (Matthew McConaughey) erhält Mitte der 1980er-Jahre eine für ihn erschütternde Diagnose. Seine Suche nach Überlebensmöglichkeiten führt ihn in Konflikte mit dem damaligen Versorgungssystem. Die Geschichte zeigt dabei auch, wie Angst und gesellschaftliche Ausgrenzung seinen zunächst eigennützigen Kampf prägen.",
-      "anchor": "Die HIV/AIDS-Diagnose setzt Rons Suche in Gang.",
       "interest": "Der Auslöser erklärt den Wandel vom Einzelkämpfer zum Clubgründer.",
       "sources": [
         "entstehung",
         "ebert"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die HIV/AIDS-Diagnose setzt Rons Suche in Gang."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Ron arbeitet als Elektriker.",
       "context": "Ron Woodroof (Matthew McConaughey) wird als Elektriker und Rodeo-Cowboy eingeführt. Seine Krankheit bedroht nicht nur den Körper, sondern auch Arbeit, Unterkunft und Freundschaften. Der spätere Club entsteht außerhalb eines medizinischen Berufswegs; Ron erarbeitet sich seine neue Rolle als Betroffener.",
-      "anchor": "Der Elektriker wird aus eigener Betroffenheit zum Organisator.",
       "interest": "Der Beruf unterscheidet Lebensgeschichte und spätere Versorgungsrolle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Elektriker wird aus eigener Betroffenheit zum Organisator."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Der Club verlangt Beiträge und gibt die Mittel an Mitglieder ab.",
       "context": "Der Club erhebt einen monatlichen Mitgliedsbeitrag, statt jede Abgabe als Einzelverkauf zu behandeln. Ron Woodroof (Matthew McConaughey) und Rayon (Jared Leto) organisieren so einen alternativen Zugang. Die Konstruktion erklärt die Konflikte der Filmhandlung mit Behörden; sie beschreibt das damalige Modell und keine heutige Behandlungsregel.",
-      "anchor": "Mitgliedsbeitrag statt Einzelverkauf: So organisiert der Film den Club.",
       "interest": "Das konkrete Modell erklärt Titel und Behördenkonflikt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Mitgliedsbeitrag statt Einzelverkauf: So organisiert der Film den Club."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Die gemeinsame Arbeit verändert Rons anfängliche Ablehnung.",
       "context": "Ron Woodroof (Matthew McConaughey) begegnet der trans Frau Rayon (Jared Leto) zunächst mit Vorurteilen. Die geschäftliche Partnerschaft macht ihre Fähigkeiten und gemeinsame Gefährdung konkret. Der Film entwickelt daraus Respekt und Freundschaft; die persönliche Veränderung begleitet Rons Konflikt mit Institutionen.",
-      "anchor": "Aus anfänglicher Ablehnung wird durch gemeinsame Arbeit Respekt.",
       "interest": "Die Beziehung erklärt einen Wandel, der über den Behördenkampf hinausgeht.",
       "sources": [
         "ebert"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Aus anfänglicher Ablehnung wird durch gemeinsame Arbeit Respekt."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Die Produktion verzichtet auf einen komponierten Score und nutzt nur wenig vorhandene beziehungsweise szenische Musik.",
       "context": "Die Produktion verzichtet auf einen eigens komponierten Score. Nur sparsam eingesetzte vorhandene oder innerhalb der Szenen hörbare Musik ergänzt die Handlung. Dadurch tragen Gespräche, Geräusche und die Bewegung der Figuren einen großen Teil des Rhythmus; die filmische Nähe entsteht nicht durch dauernde musikalische Emotionssignale.",
-      "anchor": "Kein komponierter Score: Gespräche und Szenen tragen den Rhythmus.",
       "interest": "Ein ungewöhnlicher Verzicht erklärt den Klang der Inszenierung.",
       "sources": [
         "gestaltung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kein komponierter Score: Gespräche und Szenen tragen den Rhythmus."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Gedreht wurde mit vorhandenen Lichtquellen und praktischen Lampen im Szenenraum.",
       "context": "Jean-Marc Vallée und Kameramann Yves Bélanger nutzten vorhandenes Licht sowie Lampen, die zu den Szenenräumen gehörten. Die Handkamera konnte den Darstellern deshalb beweglich folgen. Das Verfahren sparte Lichtumbauten und unterstützte den unmittelbaren Eindruck der Begegnungen, obwohl der Film eine gespielte Rekonstruktion bleibt.",
-      "anchor": "Vorhandene Lichtquellen halten die Kamera nahe bei den Darstellern.",
       "interest": "Eine technische Entscheidung erklärt Beweglichkeit und unmittelbare Wirkung.",
       "sources": [
         "gestaltung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vorhandene Lichtquellen halten die Kamera nahe bei den Darstellern."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Der Film wurde erstmals 2013 gezeigt.",
       "context": "Drehbuchautor Craig Borten sprach 1992 ausführlich mit dem wirklichen Ron Woodroof. Der Film kam 2013 heraus, 21 Jahre später. Dazwischen lagen weitere Recherchen und mehrere erfolglose Entwicklungsanläufe. Die lange Folge vom persönlichen Gespräch zum fertigen Film macht das Veröffentlichungsjahr besonders merkfähig.",
-      "anchor": "1992 die Interviews, 21 Jahre später 2013 der Film.",
       "interest": "Die belegte Entstehungsgeschichte liefert einen individuellen Zeitanker.",
       "sources": [
         "entstehung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1992 die Interviews, 21 Jahre später 2013 der Film."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "Jean-Marc Vallée führte Regie.",
       "context": "Jean-Marc Vallée inszeniert nach dem Drehbuch von Craig Borten und Melisa Wallack. Seine Regie hält die Figuren körperlich und emotional nah an der Kamera. Der fertige Film ist das Ergebnis dieser Zusammenarbeit; Namen aus der langen Entwicklungsphase ersetzen nicht die tatsächlich ausgewiesene Regie.",
-      "anchor": "Vallée inszeniert Bortens und Wallacks Drehbuch.",
       "interest": "Die Zuordnung trennt fertige Credits von der langen Projektentwicklung.",
       "sources": [
         "ebert"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vallée inszeniert Bortens und Wallacks Drehbuch."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Renato ist der Leiter des Nachtclubs.",
       "context": "Sein Lebenspartner Albin (Michel Serrault) steht als Zaza auf der Bühne. Die beiden haben Renatos Sohn großgezogen und bilden eine Familie, die durch dessen Heiratspläne auf eine Bewährungsprobe gestellt wird.",
-      "anchor": "Renato führt den Club; Albin ist dessen Star.",
       "interest": "Die beiden Hauptrollen einer bekannten Komödie auseinanderhalten.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28045-la-cage-aux-folles"
-      ]
+      ],
+      "objective": "Renato führt den Club; Albin ist dessen Star."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Er spielt Graf Lello Mascetti.",
       "context": "Die Freunde ziehen mit immer neuen Streichen durch Florenz und seine Umgebung. Ihr gemeinsamer Hang zum Unsinn überdauert die Jugend und reicht noch bis in die ernsten Situationen ihres Erwachsenenlebens.",
-      "anchor": "Tognazzi ist der Graf der Florentiner Freundesrunde.",
       "interest": "Eine prägende italienische Komödienrolle wiedererkennen.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.cinematografo.it/film/amici-miei-qvf6f8sb"
-      ]
+      ],
+      "objective": "Tognazzi ist der Graf der Florentiner Freundesrunde."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Der Besuch der konservativen künftigen Schwiegereltern setzt sie unter Druck.",
       "context": "Renatos Sohn möchte heiraten. Um bei den Eltern seiner Verlobten einen bürgerlichen Eindruck zu erwecken, sollen Renato und Albin (Michel Serrault) ihre Beziehung und ihr Zuhause verstellen; gerade daraus erwachsen die Verwicklungen der Farce.",
-      "anchor": "Der Familienbesuch zwingt Renato und Albin zur Tarnung.",
       "interest": "Den gesellschaftlichen Konflikt hinter der Komödie verstehen.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       "extraSources": [
         "https://www.criterion.com/films/28045-la-cage-aux-folles",
         "https://www.criterion.com/current/posts/789-la-cage-aux-folles"
-      ]
+      ],
+      "objective": "Der Familienbesuch zwingt Renato und Albin zur Tarnung."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 0,
       "short": "Die Männer wollen durch maßloses Essen sterben.",
       "context": "Vier wohlhabende Männer ziehen sich mit großen Vorräten in eine Villa zurück. Das Fest wird zur geplanten Selbstzerstörung: Marco Ferreri verbindet den Überfluss mit einer grotesken Darstellung körperlichen Verfalls.",
-      "anchor": "Das Festmahl ist ein gemeinsamer Selbstmordplan.",
       "interest": "Den radikalen Zweck eines berühmten Filmexzesses erkennen.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-great-films-about-cooking"
-      ]
+      ],
+      "objective": "Das Festmahl ist ein gemeinsamer Selbstmordplan."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 2,
       "short": "Jede höhere Etage steht für eine Verschlechterung seines Zustands.",
       "context": "Der Industrielle kommt wegen eines störenden Atemgeräuschs in die Klinik. Mit immer neuen Begründungen wird er weiter nach oben geschickt; seine Umgebung behandelt ihn zunehmend als hilflosen Kranken. Tognazzi inszenierte diese Buzzati-Adaption auch selbst.",
-      "anchor": "In dieser Klinik führt der Weg nach oben zum Tod.",
       "interest": "Die räumliche Logik einer bitteren Krankenhaussatire verstehen.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.cinematografo.it/film/il-fischio-al-naso-f7n3vm03"
-      ]
+      ],
+      "objective": "In dieser Klinik führt der Weg nach oben zum Tod."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 0,
       "short": "Sie beginnt ein Verhältnis mit Andreas behandelndem Arzt.",
       "context": "Andrea quält Maria Grazia (Claudia Cardinale) mit unbegründeter Eifersucht. Nachdem er bei der Suche nach einem vermeintlichen Rivalen einen Unfall hatte und endlich beruhigt ist, entsteht die tatsächliche Untreue ausgerechnet in seinem eigenen Krankenzimmer.",
-      "anchor": "Andreas Eifersucht endet in der Affäre mit seinem Arzt.",
       "interest": "Die konkrete ironische Wendung einer Eifersuchtskomödie nachvollziehen.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.cinematografo.it/film/il-magnifico-cornuto-ghnk6ky0"
-      ]
+      ],
+      "objective": "Andreas Eifersucht endet in der Affäre mit seinem Arzt."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 3,
       "short": "Sein Partner war Raimondo Vianello.",
       "context": "Die Zusammenarbeit reichte von einer gemeinsamen Theaterkompanie zu zahlreichen Filmen und Fernsehsendungen. In „Un, due, tre“ entwickelten beide Gesellschaftskarikaturenuren und komische Figuren für ein breites Fernsehpublikum.",
-      "anchor": "Tognazzi und Vianello gehören zusammen.",
       "interest": "Die Fernseharbeit hinter einem großen Kinokomiker entdecken.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "films": [],
       "extraSources": [
         "https://www.raiplay.it/amp/video/2018/10/Coppie-comiche-Toggnazzi-Vianello-9ff17ab0-a60e-4984-85d7-25eb337e04a6.html"
-      ]
+      ],
+      "objective": "Tognazzi und Vianello gehören zusammen."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 1,
       "short": "Er wurde für „La tragedia di un uomo ridicolo“ ausgezeichnet.",
       "context": "Tognazzi spielt den aus einfachen Verhältnissen aufgestiegenen Käsefabrikanten Primo Spaggiari. Bernardo Bertoluccis Film verbindet dessen wirtschaftliche Existenz mit einer Krise um seinen Sohn; der Preis galt Tognazzis Darstellung, nicht dem Film als Ganzem.",
-      "anchor": "Tognazzis Cannes-Preis gehört zu Bertoluccis Fabrikanten.",
       "interest": "Schauspielpreis und Filmpreis präzise unterscheiden.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       "extraSources": [
         "https://www.festival-cannes.com/en/p/ugo-tognazzi/",
         "https://www.festival-cannes.com/en/f/la-tragedia-di-un-uomo-ridiculo/"
-      ]
+      ],
+      "objective": "Tognazzis Cannes-Preis gehört zu Bertoluccis Fabrikanten."
     }
   ]
 }

@@ -40,12 +40,12 @@
       ],
       "short": "Ein Komet fliegt an der Erde vorbei.",
       "context": "Ein Komet fliegt an der Erde vorbei. Während des Abendessens häufen sich Strom- und Telefonprobleme; die Gäste verbinden später die ungewöhnlichen Erscheinungen mit einem möglichen Zerfall paralleler Wirklichkeiten.",
-      "anchor": "Der Komet begleitet den brüchigen Abend.",
       "interest": "Der Komet begleitet den brüchigen Abend.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Komet begleitet den brüchigen Abend."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Nur ein Haus in der dunklen Umgebung ist beleuchtet.",
       "context": "Nur ein Haus in der dunklen Umgebung ist beleuchtet. Die Suche nach Hilfe führt die Gäste dorthin; der scheinbar sichere Nachbarort erweist sich als verwirrend ähnlich zu ihrem eigenen Abendessen.",
-      "anchor": "Das helle Nachbarhaus führt zu den anderen Versionen.",
       "interest": "Das helle Nachbarhaus führt zu den anderen Versionen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das helle Nachbarhaus führt zu den anderen Versionen."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Die Gäste tragen farbige Leuchtstäbe.",
       "context": "Die Gäste tragen farbige Leuchtstäbe. Als sie scheinbar dieselben Personen mit anderen Farben sehen, wird die Vermutung paralleler Gruppen anschaulich; das Orientierungsmittel macht die Identitätsunsicherheit sichtbar.",
-      "anchor": "Andere Leuchtfarben weisen auf andere Gruppen hin.",
       "interest": "Andere Leuchtfarben weisen auf andere Gruppen hin.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Andere Leuchtfarben weisen auf andere Gruppen hin."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Die Schachtel soll die jeweilige Hausversion eindeutig markieren.",
       "context": "Die Schachtel soll die jeweilige Hausversion eindeutig markieren. Zufällige Zahlen und Gegenstände schaffen ein Erkennungsmerkmal; die Gruppe versucht damit, die äußerlich kaum unterscheidbaren Wirklichkeiten kontrollierbar zu machen.",
-      "anchor": "Zufällige Kennzeichen sollen ähnliche Wirklichkeiten unterscheiden.",
       "interest": "Zufällige Kennzeichen sollen ähnliche Wirklichkeiten unterscheiden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Zufällige Kennzeichen sollen ähnliche Wirklichkeiten unterscheiden."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Emily erkennt, dass nicht mehr alle Gäste aus derselben Wirklichkeit stammen.",
       "context": "Emily erkennt, dass nicht mehr alle Gäste aus derselben Wirklichkeit stammen. Kurze Wege durch die Dunkelheit haben verschiedene Gruppen vermischt; Vertrautheit der Gesichter ist deshalb kein zuverlässiger Beweis gemeinsamer Vergangenheit.",
-      "anchor": "Vertraute Gesichter garantieren keine gemeinsame Realität.",
       "interest": "Vertraute Gesichter garantieren keine gemeinsame Realität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vertraute Gesichter garantieren keine gemeinsame Realität."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Emily versucht, eine andere Version ihrer selbst zu ersetzen.",
       "context": "Emily versucht, eine andere Version ihrer selbst zu ersetzen. Am Morgen erhält Kevin (Maury Sterling) einen Anruf von Emily; der Kontakt zeigt, dass die verdrängte Identität nicht vollständig beseitigt wurde.",
-      "anchor": "Der Anruf durchkreuzt die erhoffte eindeutige Ersetzung.",
       "interest": "Der Anruf durchkreuzt die erhoffte eindeutige Ersetzung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Anruf durchkreuzt die erhoffte eindeutige Ersetzung."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "2013 wurde der Film beim Fantastic Fest gezeigt, der reguläre US-Kinostart folgte 2014.",
       "context": "2013 wurde Coherence beim Fantastic Fest gezeigt. Primer von 2004 entstand ebenfalls als kleine unabhängige Produktion, die vertraute Räume mit fantastischen Regeln auflädt. Neun Jahre trennen die beiden Filme; Byrkits Abendessenshaus setzt die Irritation stärker sozial als technisch um.",
-      "anchor": "Primer 2004, Coherence 2013: Neun Jahre trennen zwei kleine Produktionen, deren vertraute Räume fantastische Regeln verbergen.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "primer"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Primer 2004, Coherence 2013: Neun Jahre trennen zwei kleine Produktionen, deren vertraute Räume fantastische Regeln verbergen."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte.",
       "context": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte. Emily Baldoni, damals Emily Foxler, spielt Emily. Ein gemeinsames Abendessen wird durch mehrfache Versionen derselben Gäste in einen Konflikt um Identität und Zugehörigkeit verwandelt.",
-      "anchor": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte.",
       "interest": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "James Ward Byrkit schrieb und inszenierte das Kammerspiel nach einer mit Alex Manugian entwickelten Geschichte."
     }
   ]
 }

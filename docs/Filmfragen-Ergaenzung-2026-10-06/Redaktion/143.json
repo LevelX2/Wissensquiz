@@ -33,12 +33,12 @@
       ],
       "short": "Die Figuren besuchen die High School of Performing Arts.",
       "context": "Der Film folgt Jugendlichen von Aufnahmeprüfungen bis zum Abschluss an einer New Yorker Kunstschule. Musik, Schauspiel und Tanz bilden verschiedene Ausbildungszweige. Die gemeinsame Institution hält die Geschichten zusammen, obwohl die Figuren unterschiedliche Talente, Erwartungen und Probleme mitbringen.",
-      "anchor": "Eine Kunstschule verbindet verschiedene Wege zum Bühnenberuf.",
       "interest": "Eine Kunstschule verbindet verschiedene Wege zum Bühnenberuf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Eine Kunstschule verbindet verschiedene Wege zum Bühnenberuf."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Die akademischen Fächer zählen ebenso wie die künstlerische Ausbildung.",
       "context": "Schon am ersten Schultag wird die Bedeutung der allgemeinen Fächer erklärt. Für Leroy Johnson (Gene Anthony Ray) wird Englisch zum konkreten Problem. Der Film stellt Begabung deshalb nicht als Freibrief dar: Ein beruflicher Tanzweg hängt auch vom schulischen Abschluss ab.",
-      "anchor": "Talent ersetzt den Schulabschluss nicht.",
       "interest": "Talent ersetzt den Schulabschluss nicht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Talent ersetzt den Schulabschluss nicht."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Die Lehrer entdecken Leroy bei der Prüfung seiner Freundin.",
       "context": "Leroy Johnson (Gene Anthony Ray) tritt zunächst als Partner einer Bewerberin auf. Die Tanzlehrer sind stärker von ihm als von ihr beeindruckt. Sein Zugang zur Ausbildung beginnt so mit einer unbeabsichtigten Entdeckung, während seine Schwierigkeiten in den anderen Fächern erst danach sichtbar werden.",
-      "anchor": "Der begleitende Tänzer wird selbst zum aufgenommenen Talent.",
       "interest": "Der begleitende Tänzer wird selbst zum aufgenommenen Talent.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der begleitende Tänzer wird selbst zum aufgenommenen Talent."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Brunos Vater lässt dessen Musik vor der Schule erklingen.",
       "context": "Bruno Martelli (Lee Curreri) zögert, seine elektronischen Kompositionen öffentlich zu spielen. Sein Vater Angelo (Eddie Barth) übernimmt die Initiative. Aus der persönlichen Werbung des Vaters entsteht die gemeinsame Tanzszene; der scheue Musiker erlebt seine Musik als etwas, das andere Menschen unmittelbar bewegt.",
-      "anchor": "Der Vater macht Brunos Musik öffentlich und die Straße zur Tanzfläche.",
       "interest": "Der Vater macht Brunos Musik öffentlich und die Straße zur Tanzfläche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Vater macht Brunos Musik öffentlich und die Straße zur Tanzfläche."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Lisa sucht ihren künstlerischen Weg anschließend im Schauspiel.",
       "context": "Nach dem Ausschluss aus dem Tanzprogramm wirkt Lisa Monroe (Laura Dean) an der U-Bahn verzweifelt. Sie wirft ihre Tanzkleidung auf die Gleise, geht aber weiter. Der Wechsel zum Schauspiel gibt der Szene einen anderen Ausgang als den zunächst gefürchteten endgültigen Zusammenbruch.",
-      "anchor": "Das Ende eines Tanzwegs wird zum Beginn einer anderen Ausbildung.",
       "interest": "Das Ende eines Tanzwegs wird zum Beginn einer anderen Ausbildung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Ende eines Tanzwegs wird zum Beginn einer anderen Ausbildung."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Coco wird unter dem Vorwand eines Filmtests zu einer sexuellen Aufnahme gedrängt.",
       "context": "Coco Hernandez (Irene Cara) glaubt an eine berufliche Gelegenheit. In der Wohnung des Mannes wird daraus eine manipulierte Aufnahme, bei der sie weint. Die Szene ergänzt die glänzende Vorstellung vom Ruhm um die Ausbeutbarkeit junger Menschen, die dringend entdeckt werden möchten.",
-      "anchor": "Ein Karriereversprechen wird zum Mittel der Ausbeutung.",
       "interest": "Ein Karriereversprechen wird zum Mittel der Ausbeutung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein Karriereversprechen wird zum Mittel der Ausbeutung."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1980.",
       "context": "Fame erschien 1980. Die Filmidee entstand 1976, teilweise angeregt durch A Chorus Line. Vier Jahre später zeigte Parker die Ausbildung junger Bühnenkünstler als Verbindung von Ehrgeiz, Alltag und Rückschlägen. Der Kinofilm wurde wiederum Ausgangspunkt einer Fernsehserie und einer späteren Bühnenfassung.",
-      "anchor": "Filmidee 1976, Fame 1980: vier Jahre bis zur Schulgeschichte im Kino.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Filmidee 1976, Fame 1980: vier Jahre bis zur Schulgeschichte im Kino.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Filmidee 1976, Fame 1980: vier Jahre bis zur Schulgeschichte im Kino."
     },
     {
       "code": "D",
@@ -202,14 +202,14 @@
       ],
       "short": "Der Regiecredit lautet Alan Parker.",
       "context": "Alan Parker führte Regie. Mit Christopher Gore überarbeitete er das Drehbuch hin zu einem dunkleren Ton. Die New Yorker Schulverwaltung verweigerte wegen der Inhalte den Dreh in der tatsächlichen High School of Performing Arts; der Film musste seine Schulwelt an anderen Orten aufbauen.",
-      "anchor": "Alan Parker: Mit Christopher Gore überarbeitete er das Drehbuch hin zu einem dunkleren Ton.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Alan Parker: Mit Christopher Gore überarbeitete er das Drehbuch hin zu einem dunkleren Ton."
     }
   ]
 }

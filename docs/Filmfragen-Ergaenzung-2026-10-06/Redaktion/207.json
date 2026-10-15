@@ -37,12 +37,12 @@
       ],
       "short": "Die OAS beauftragt den Schakal (Edward Fox), Charles de Gaulle zu töten.",
       "context": "Die OAS beauftragt den Schakal (Edward Fox), Charles de Gaulle zu töten. Ihre Gegnerschaft hängt mit der algerischen Unabhängigkeit zusammen; der beauftragte Attentäter handelt dagegen aus beruflichem Gewinninteresse.",
-      "anchor": "Politische Gegner engagieren einen unpolitischen Berufskiller.",
       "interest": "Politische Gegner engagieren einen unpolitischen Berufskiller.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Politische Gegner engagieren einen unpolitischen Berufskiller."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Der britische Schakal (Edward Fox) gehört nicht zu den bekannten OAS-Mitgliedern.",
       "context": "Der britische Schakal (Edward Fox) gehört nicht zu den bekannten OAS-Mitgliedern. Die Auftraggeber suchen eine außerhalb ihrer überwachten Strukturen stehende Person; Anonymität wird zu seiner wichtigsten Anfangsressource.",
-      "anchor": "Der fremde Täter umgeht bekannte OAS-Spuren.",
       "interest": "Der fremde Täter umgeht bekannte OAS-Spuren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der fremde Täter umgeht bekannte OAS-Spuren."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der Schakal tritt als älterer Veteran auf und verbirgt das zerlegbare Gewehr in Krücken.",
       "context": "Der Schakal tritt als älterer Veteran auf und verbirgt das zerlegbare Gewehr in Krücken. Die Tarnung nutzt ein plausibles Hilfsmittel, um die Sicherheitskontrolle einer öffentlichen Ehrung zu passieren.",
-      "anchor": "Die Veteranenrolle tarnt Waffe und Zugang.",
       "interest": "Die Veteranenrolle tarnt Waffe und Zugang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Veteranenrolle tarnt Waffe und Zugang."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Denise (Olga Georges-Picot) gewinnt als Geliebte von Colonel St Clair vertrauliche Informationen.",
       "context": "Denise (Olga Georges-Picot) gewinnt als Geliebte von Colonel St Clair vertrauliche Informationen. Die Sicherheitsarbeit wird durch eine private Beziehung und deren unbedachte Offenheit unterlaufen; der Attentäter erfährt so von der Suche.",
-      "anchor": "Eine private Indiskretion öffnet die geheime Ermittlung.",
       "interest": "Eine private Indiskretion öffnet die geheime Ermittlung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine private Indiskretion öffnet die geheime Ermittlung."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "De Gaulle beugt sich beim Überreichen einer Auszeichnung vor.",
       "context": "De Gaulle beugt sich beim Überreichen einer Auszeichnung vor. Diese kleine ungeplante Bewegung lässt den Schuss vorbeigehen; die lange Vorbereitung scheitert an einem unmittelbaren körperlichen Moment des öffentlichen Rituals.",
-      "anchor": "Eine kleine Bewegung durchkreuzt die minutiöse Planung.",
       "interest": "Eine kleine Bewegung durchkreuzt die minutiöse Planung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine kleine Bewegung durchkreuzt die minutiöse Planung."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Der echte Charles Calthrop erscheint in seiner Wohnung.",
       "context": "Der echte Charles Calthrop erscheint in seiner Wohnung. Die vermutete Identität erweist sich damit als falsche Spur; der tote Schakal (Edward Fox) bleibt trotz erfolgreicher Verhinderung des Anschlags namenlos.",
-      "anchor": "Der vereitelte Anschlag löst nicht die wahre Identität.",
       "interest": "Der vereitelte Anschlag löst nicht die wahre Identität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der vereitelte Anschlag löst nicht die wahre Identität."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "1973 erschien die Edward-Fox-Fassung.",
       "context": "1973 erschien die Edward-Fox-Fassung. Frederick Forsyths Roman war 1971 veröffentlicht worden; zwei Jahre später wurde die minutiöse Planung als Film rekonstruiert. Die Handlung selbst beginnt mit dem politischen Attentatskontext von 1962.",
-      "anchor": "Roman 1971, Film 1973: Zwei Jahre führen zur Rekonstruktion eines im Attentatskontext von 1962 beginnenden Plans.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1971, Film 1973: Zwei Jahre führen zur Rekonstruktion eines im Attentatskontext von 1962 beginnenden Plans."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption.",
       "context": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption. Edward Fox spielt den Schakal, Michael Lonsdale den Ermittler Lebel. Der Film verfolgt Vorbereitung und Gegenrecherche parallel und nutzt bewusst keinen großen amerikanischen Star für den anonym bleiben wollenden Attentäter.",
-      "anchor": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption.",
       "interest": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Fred Zinnemann inszenierte Kenneth Ross’ Adaption."
     }
   ]
 }

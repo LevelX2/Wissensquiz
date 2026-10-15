@@ -38,12 +38,12 @@
       ],
       "short": "Der Meteorit bringt die fremde Kraft auf das Grundstück.",
       "context": "Ein Meteorit trifft die Farm der Gardners. Nathan (Nicolas Cage) und Theresa (Joely Richardson) müssen zunächst ein scheinbar einzelnes Ereignis einordnen. Dessen Folgen reichen jedoch über den Einschlagsort hinaus. Boden, Lebewesen und schließlich vertraute Wahrnehmungen verändern sich, obwohl der sichtbare Stein nicht als dauerhafte Grenze der Gefahr dient.",
-      "anchor": "Der Einschlag ist lokal, seine Folgen erfassen den gesamten Lebensraum.",
       "interest": "Verbindet den sichtbaren Auslöser mit der schrittweisen Ausbreitung.",
       "sources": [
         "produktion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Einschlag ist lokal, seine Folgen erfassen den gesamten Lebensraum."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Nathan setzt auf Alpakas.",
       "context": "Nathan (Nicolas Cage) hält Alpakas und verbindet sie mit seinem Plan eines neuen Landlebens. Seine Begeisterung übertrifft zunächst seine praktische Erfahrung. Die Tiere gehören deshalb zum erhofften Familienalltag, bevor die fremde Kraft auch sie verändert. Der Horror trifft einen ohnehin noch unsicheren Versuch, neu anzufangen.",
-      "anchor": "Die Alpakas stehen für Nathans unerprobten Traum vom neuen Landleben.",
       "interest": "Ordnet ein markantes Tiermotiv in die familiäre Ausgangslage ein.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Alpakas stehen für Nathans unerprobten Traum vom neuen Landleben."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Ward findet auffällige Veränderungen des Wassers.",
       "context": "Ward Phillips (Elliot Knight) untersucht das Wasser und warnt die Gardners davor, es zu trinken. Der Befund übersetzt die fremde Erscheinung in eine alltägliche Gefährdung. Die Farm kann nicht einfach als geschlossener Schutzraum dienen, wenn eine lebensnotwendige Verbindung zur Umgebung bereits verdächtig geworden ist.",
-      "anchor": "Wards Wasserbefund macht die Umgebung zur möglichen Quelle täglicher Gefahr.",
       "interest": "Verbindet die wissenschaftliche Untersuchung mit einer konkreten Verhaltensentscheidung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Wards Wasserbefund macht die Umgebung zur möglichen Quelle täglicher Gefahr."
     },
     {
       "code": "M2",
@@ -110,13 +110,13 @@
       ],
       "short": "Die fremde Kraft verändert die Erfahrung von Zeit.",
       "context": "Benny (Brendan Meyer) bemerkt, dass Zeit scheinbar unbemerkt vergangen ist. Die Veränderungen betreffen damit nicht nur sichtbare Körper und Pflanzen. Die Familie verliert auch eine Grundlage für geordnete Entscheidungen: Sie kann nicht mehr sicher voraussetzen, dass der erinnerte Ablauf dem tatsächlichen Verlauf ihrer Umgebung entspricht.",
-      "anchor": "Die fremde Kraft beschädigt auch das Vertrauen in den erlebten Zeitablauf.",
       "interest": "Erklärt eine schwer sichtbare Form des Kontrollverlusts.",
       "sources": [
         "tiff",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die fremde Kraft beschädigt auch das Vertrauen in den erlebten Zeitablauf."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Theresa und Jack werden zu einem verbundenen Körper.",
       "context": "Theresa (Joely Richardson) und Jack (Julian Hilliard) werden körperlich verschmolzen. Die vertraute Nähe von Mutter und Kind erhält dadurch eine entsetzliche materielle Form. Nathan (Nicolas Cage) steht nicht nur vor einer Verletzung, sondern vor einem Zustand, in dem Schutz, Pflege und Wiedererkennen kaum noch zusammenpassen.",
-      "anchor": "Die Mutter-Kind-Nähe wird zur unauflöslichen körperlichen Verschmelzung.",
       "interest": "Erklärt, weshalb diese Veränderung mehr als eine gewöhnliche Verletzung ist.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Mutter-Kind-Nähe wird zur unauflöslichen körperlichen Verschmelzung."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Der Stausee überdeckt den früheren Ort.",
       "context": "Ward (Elliot Knight) steht im Epilog am Stausee, der das frühere Grundstück überdeckt. Für andere ist der Ort Teil einer neuen Nutzung geworden. Seine Erinnerung bewahrt jedoch die alte Gefahr. Die überdeckte Landschaft steht damit für einen Unterschied zwischen äußerer Normalisierung und dem Wissen eines Überlebenden.",
-      "anchor": "Das Wasser überdeckt den Ort, aber nicht Wards Erinnerung.",
       "interest": "Verbindet die veränderte Landschaft mit der unaufgehobenen Erfahrung des Überlebenden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Wasser überdeckt den Ort, aber nicht Wards Erinnerung."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "2019 liegt 92 Jahre nach 1927.",
       "context": "Lovecrafts Erzählung erschien im September 1927 in Amazing Stories. Diese Verfilmung wurde 2019 erstmals gezeigt, 92 Jahre später. Die literarische Vorlage beschreibt etwas außerhalb vertrauter menschlicher Kategorien. Die lange Zeitspanne macht die erneute Aufgabe deutlich, eine schwer beschreibbare Bedrohung in sichtbare und hörbare Filmgestaltung zu übersetzen.",
-      "anchor": "1927 die Erzählung, 2019 diese Verfilmung: 92 Jahre später.",
       "interest": "Verbindet die Filmfassung mit der Veröffentlichung ihres kosmischen Horrormotivs.",
       "sources": [
         "tiff",
         "vorlage"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1927 die Erzählung, 2019 diese Verfilmung: 92 Jahre später."
     },
     {
       "code": "D",
@@ -208,12 +208,12 @@
       ],
       "short": "Stanley führte Regie und schrieb mit Scarlett Amaris.",
       "context": "Richard Stanley kehrte 2019 mit dem Film zu TIFF zurück, wo sein Hardware bereits 1990 gezeigt worden war. Das Festival verbindet seine halluzinatorische Gestaltung mit der schrittweisen Bedrohung der Familie. Der Regiecredit bezeichnet eine erneute Genrearbeit nach einer Laufbahn, die auch mehrere Dokumentarfilme umfasst.",
-      "anchor": "Stanley verbindet die Rückkehr zum Festival mit einer halluzinatorischen Lovecraft-Verfilmung.",
       "interest": "Gibt dem Regiecredit einen belegten Werk- und Festivalzusammenhang.",
       "sources": [
         "tiff"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Stanley verbindet die Rückkehr zum Festival mit einer halluzinatorischen Lovecraft-Verfilmung."
     }
   ],
   "director_note": "Richard Stanley ist Regisseur; Scarlett Amaris ist gemeinsam mit ihm als Drehbuchautorin ausgewiesen. Die missverständliche Wikipedia-Einleitungsformulierung bedeutet keinen Co-Regiecredit."

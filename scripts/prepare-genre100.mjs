@@ -12,7 +12,7 @@ const out = path.join(root, genre);
 const read = file => JSON.parse(fs.readFileSync(file, 'utf8').replace(/^\uFEFF/, ''));
 const write = (file, value) => fs.writeFileSync(file, typeof value === 'string' ? value : JSON.stringify(value, null, 2) + '\n');
 const selection = read(path.join(out, 'Auswahl.json'));
-const fields = 'question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,memory_anchor,spoiler_level,source_urls,verification_status'.split(',');
+const fields = 'question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,spoiler_level,source_urls,verification_status'.split(',');
 const expectedCodes = ['L1', 'L2', 'M1', 'M2', 'S1', 'S2', 'Y', 'D'];
 const team = people => people.length === 1 ? people[0] : people.slice(0, -1).join(', ') + ' und ' + people.at(-1);
 const norm = value => value.normalize('NFKC').toLocaleLowerCase('de').replace(/\s+/g, ' ').trim();
@@ -35,7 +35,7 @@ for (const [index, selected] of selection.films.entries()) {
     assert.equal(q.answers.length, 4, id);
     assert.equal(new Set(q.answers.map(norm)).size, 4, id + ': duplicate answer');
     assert.equal(q.feedback.length, 4, id);
-    for (const value of [q.question,q.short,q.context,q.anchor,q.interest,...q.feedback]) assert(typeof value === 'string' && value.trim(), id + ': missing editorial text');
+    for (const value of [q.question,q.short,q.context,q.interest,...q.feedback]) assert(typeof value === 'string' && value.trim(), id + ': missing editorial text');
     assert(q.sources?.length && q.sources.every(key => sourceEntries.some(s => s.key === key)), id + ': missing source');
     const goalKind = q.code === 'Y' ? 'year' : q.code === 'D' ? 'director' : 'content';
     const difficulty = q.difficulty ?? ({L:'leicht',M:'mittel',S:'schwer',Y:'mittel',D:'mittel'}[q.code[0]]);
@@ -55,7 +55,7 @@ for (const [index, selected] of selection.films.entries()) {
     const target = (rank + qi) % 4;
     const answers = q.answers.map((text, i) => ({text, feedback:q.feedback[i]}));
     answers.splice(target, 0, answers.shift());
-    const row = {question_id:id,knowledge_id:q.knowledge_id ?? `K-${id}`,variant_of:q.variant_of ?? '',language:'de',domain:'Film',subdomain:film.subdomain,film_title_de:film.film_title_de,film_title_original:film.film_title_original,film_year:String(film.film_year),franchise:typeof film.series === 'object' ? film.series?.name ?? '' : film.series,difficulty,question_type:goalKind === 'year' ? 'Filmjahr' : goalKind === 'director' ? 'Regie' : q.type ?? 'Filmwissen',topic_tags:film.subdomain,badge_tags:film.subdomain,learning_objective:q.objective ?? q.anchor,question,correct_answer:'ABCD'[target],explanation_short:q.short,explanation_context:q.context,memory_anchor:q.anchor,spoiler_level:q.spoiler ?? 'mittel',source_urls:q.sources.map(key => sourceEntries.find(s => s.key === key).url).join('|'),verification_status:'redaktionell_quellengeprueft'};
+    const row = {question_id:id,knowledge_id:q.knowledge_id ?? `K-${id}`,variant_of:q.variant_of ?? '',language:'de',domain:'Film',subdomain:film.subdomain,film_title_de:film.film_title_de,film_title_original:film.film_title_original,film_year:String(film.film_year),franchise:typeof film.series === 'object' ? film.series?.name ?? '' : film.series,difficulty,question_type:goalKind === 'year' ? 'Filmjahr' : goalKind === 'director' ? 'Regie' : q.type ?? 'Filmwissen',topic_tags:film.subdomain,badge_tags:film.subdomain,learning_objective:q.objective ?? q.short,question,correct_answer:'ABCD'[target],explanation_short:q.short,explanation_context:q.context,spoiler_level:q.spoiler ?? 'mittel',source_urls:q.sources.map(key => sourceEntries.find(s => s.key === key).url).join('|'),verification_status:'redaktionell_quellengeprueft'};
     for (const [i, letter] of ['a','b','c','d'].entries()) {row[`answer_${letter}`] = answers[i].text;row[`feedback_${letter}`] = answers[i].feedback;}
     for (const field of fields) assert.equal(typeof row[field], 'string', id + ': ' + field);
     assert(row.source_urls.split('|').every(url => /^https?:\/\//.test(url)));
@@ -86,7 +86,7 @@ for (const f of metadata) {
   for (const q of rows.filter(q=>q.film_title_original===f.film_title_original && Number(q.film_year)===f.film_year)) {
     md += `**${q.difficulty} · ${q.question_id}**\n\n${q.question}\n\n`;
     for (const letter of ['a','b','c','d']) md += `- ${letter.toUpperCase()}: ${q[`answer_${letter}`]}\n`;
-    md += `\n**Lösung ${q.correct_answer}.** ${q.explanation_short}\n\n${q.explanation_context}\n\nMerksatz: ${q.memory_anchor}\n\n`;
+    md += `\n**Lösung ${q.correct_answer}.** ${q.explanation_short}\n\n${q.explanation_context}\n\n`;
     for (const letter of ['a','b','c','d']) md += `- ${q[`answer_${letter}`]}: ${q[`feedback_${letter}`]}\n`;
     md += `\nQuellen: ${q.source_urls.split('|').map((url,i)=>`[Beleg ${i+1}](${url})`).join(', ')}.\n\n`;
   }

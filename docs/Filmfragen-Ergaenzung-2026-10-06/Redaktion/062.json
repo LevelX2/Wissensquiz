@@ -40,12 +40,12 @@
       ],
       "short": "Die Mutter liegt im Krankenhaus, und die Familie zieht näher zu ihr.",
       "context": "Die Mutter liegt im Krankenhaus, und die Familie zieht näher zu ihr. Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) erkunden dort ihr neues Zuhause.",
-      "anchor": "Der Umzug verbindet neues Zuhause und kranke Mutter.",
       "interest": "Der Umzug verbindet neues Zuhause und kranke Mutter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Umzug verbindet neues Zuhause und kranke Mutter."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) sind Schwestern.",
       "context": "Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) sind Schwestern. Unterschiedliches Alter verändert ihre Verantwortung, besonders wenn die Sorge um die Mutter wächst.",
-      "anchor": "Satsuki ist Meis ältere Schwester.",
       "interest": "Satsuki ist Meis ältere Schwester.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Satsuki ist Meis ältere Schwester."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Satsuki (Originalstimme Noriko Hidaka) bietet Totoro (Originalstimme Hitoshi Takagi) einen Schirm.",
       "context": "Satsuki (Originalstimme Noriko Hidaka) bietet Totoro (Originalstimme Hitoshi Takagi) einen Schirm. Das gemeinsame Warten an einer gewöhnlichen Haltestelle verbindet die fantastische Begegnung mit einem vertrauten Alltagsmoment.",
-      "anchor": "Der Regenschirm macht die Haltestelle zum Begegnungsort.",
       "interest": "Der Regenschirm macht die Haltestelle zum Begegnungsort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Regenschirm macht die Haltestelle zum Begegnungsort."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Der Katzenbus bringt Satsuki (Originalstimme Noriko Hidaka) zu Mei (Originalstimme Chika Sakamoto).",
       "context": "Der Katzenbus bringt Satsuki (Originalstimme Noriko Hidaka) zu Mei (Originalstimme Chika Sakamoto). Die zuvor wunderliche Figur erhält in der Krise eine konkrete helfende Funktion.",
-      "anchor": "Der Katzenbus wird im Ernstfall zum Suchfahrzeug.",
       "interest": "Der Katzenbus wird im Ernstfall zum Suchfahrzeug.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Katzenbus wird im Ernstfall zum Suchfahrzeug."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Die Samen sind am Morgen gekeimt, der riesige Baum ist verschwunden.",
       "context": "Die Samen sind am Morgen gekeimt, der riesige Baum ist verschwunden. Satsuki (Originalstimme Noriko Hidaka) und Mei (Originalstimme Chika Sakamoto) finden damit eine kleine reale Spur nach dem fantastischen Erlebnis.",
-      "anchor": "Der Traum vom Baum hinterlässt echte Keimlinge.",
       "interest": "Der Traum vom Baum hinterlässt echte Keimlinge.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Traum vom Baum hinterlässt echte Keimlinge."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Mei (Originalstimme Chika Sakamoto) will der Mutter Mais bringen.",
       "context": "Mei (Originalstimme Chika Sakamoto) will der Mutter Mais bringen. Nach der Nachricht über den verschobenen Besuch versucht sie selbst zu helfen; die Fürsorge führt sie in eine Gefahr, die sie noch nicht überblickt.",
-      "anchor": "Meis Geschenk für die Mutter führt sie auf einen unbekannten Weg.",
       "interest": "Meis Geschenk für die Mutter führt sie auf einen unbekannten Weg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Meis Geschenk für die Mutter führt sie auf einen unbekannten Weg."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Der Film wurde 1988 erstmals veröffentlicht.",
       "context": "1988 startete der Film zusammen mit Isao Takahatas Die letzten Glühwürmchen als Doppelprogramm. Die gleichzeitige Veröffentlichung verbindet zwei sehr unterschiedliche Ghibli-Blicke auf Kindheit; der Nachbarfilm ist daher ein konkreter Jahresanker.",
-      "anchor": "1988 erschienen Totoro und Die letzten Glühwürmchen gemeinsam als Ghibli-Doppelprogramm.",
       "interest": "1988 erschienen Totoro und Die letzten Glühwürmchen gemeinsam als Ghibli-Doppelprogramm.",
       "sources": [
         "studio",
         "chronik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1988 erschienen Totoro und Die letzten Glühwürmchen gemeinsam als Ghibli-Doppelprogramm."
     },
     {
       "code": "D",
@@ -209,13 +209,13 @@
       ],
       "short": "Regie: Hayao Miyazaki.",
       "context": "Miyazaki gestaltete eine freundliche Naturwelt um zwei Schwestern. Die Hintergründe von Kazuo Oga prägen das ländliche Umfeld; Fantastisches und vertraute Alltagsräume erscheinen darin nebeneinander.",
-      "anchor": "Miyazaki gestaltete eine freundliche Naturwelt um zwei Schwestern.",
       "interest": "Miyazaki gestaltete eine freundliche Naturwelt um zwei Schwestern.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Miyazaki gestaltete eine freundliche Naturwelt um zwei Schwestern."
     }
   ]
 }

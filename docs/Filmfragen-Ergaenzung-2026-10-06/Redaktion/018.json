@@ -34,13 +34,13 @@
       ],
       "short": "Walter verwaltet die Foto-Negative der Zeitschrift.",
       "context": "Walter kennt die Bilder anderer Menschen, ohne selbst viel zu reisen. Der Verlust eines wichtigen Negativs macht aus dem bisher stillen Mitarbeiter einen Suchenden. Seine Arbeit liefert den Ausgangspunkt des Abenteuers.",
-      "anchor": "Walter kennt fremde Bilder und muss für ein fehlendes Bild selbst reisen.",
       "interest": "Der Beruf begründet die spätere Grenzüberschreitung der Figur.",
       "sources": [
         "handlung",
         "life"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Walter kennt fremde Bilder und muss für ein fehlendes Bild selbst reisen."
     },
     {
       "code": "L2",
@@ -59,13 +59,13 @@
       ],
       "short": "Ein fehlendes Negativ soll das letzte gedruckte Cover liefern.",
       "context": "Sean O’Connell (Sean Penn) hält das Foto für besonders geeignet. Walter findet es zunächst nicht und sucht nach dem Fotografen. Der Medienwechsel setzt seine vertraute Arbeit zugleich unter Zeitdruck.",
-      "anchor": "Das letzte Printcover braucht das fehlende Negativ.",
       "interest": "Die Suchaufgabe erklärt die Bedeutung des Fotoverlusts.",
       "sources": [
         "handlung",
         "life"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das letzte Printcover braucht das fehlende Negativ."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Das Negativ steckt in Seans Geschenk, einer Geldbörse.",
       "context": "Walter (Ben Stiller) hatte das Geschenk weggeworfen, bevor seine Mutter Edna (Shirley MacLaine) es rettete. Der gesuchte Gegenstand war damit viel näher als die Reiseziele, denen er folgte.",
-      "anchor": "Der ferne Fotograf hatte das Bild im nahen Geschenk versteckt.",
       "interest": "Die Auflösung verbindet die Reise mit einem übersehenen Alltagsgegenstand.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der ferne Fotograf hatte das Bild im nahen Geschenk versteckt."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Walter erkennt den Flügel seiner Mutter.",
       "context": "Walter findet die vertraute Form im Haus von Edna (Shirley MacLaine). Sie erzählt ihm, dass Sean O’Connell (Sean Penn) dort war. Ein Bildhinweis verbindet den vermeintlich entfernten Fotografen überraschend mit Walters eigenem Zuhause.",
-      "anchor": "Ednas Flügel verbindet das Bildrätsel mit Walters Zuhause.",
       "interest": "Ein konkreter Bildhinweis korrigiert Walters Annahme über den entfernten Fotografen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ednas Flügel verbindet das Bildrätsel mit Walters Zuhause."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Sean möchte den Augenblick manchmal ohne fotografische Vermittlung erleben.",
       "context": "Walter (Ben Stiller) sucht ein bestimmtes Bild. Der Fotograf führt ihm dagegen vor, dass nicht jeder wertvolle Moment in eine Aufnahme verwandelt werden muss. Die Szene verbindet Walters Reise mit seiner veränderten Aufmerksamkeit.",
-      "anchor": "Sean sieht den Schneeleoparden und behält den Moment auch ohne Foto.",
       "interest": "Die Entscheidung vertieft das zentrale Verhältnis zwischen Bildern und Erleben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sean sieht den Schneeleoparden und behält den Moment auch ohne Foto."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der Film verlegt den Abschied von der wöchentlichen Printwelt in eine fiktionale Gegenwart.",
       "context": "Die reale wöchentliche Life-Ausgabe endete 1972. Der Film erschien 2013 und nutzt die Redaktion als Gegenwartsschauplatz. Seine Coverbilder dienen der Erzählung und sind keine unveränderte Chronik der Zeitschrift.",
-      "anchor": "Das Film-Life ist eine erzählte Redaktion mit veränderter Medienchronologie.",
       "interest": "Der Quellenabgleich trennt erzählten Medienwandel von tatsächlicher Geschichte.",
       "sources": [
         "life"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Film-Life ist eine erzählte Redaktion mit veränderter Medienchronologie."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Ben Stillers Fassung wurde 2013 erstmals veröffentlicht.",
       "context": "Die frühere Verfilmung mit Danny Kaye erschien 1947. Ben Stillers Film folgte 2013, sechsundsechzig Jahre später. Die wiederkehrende Idee des Tagträumers verbindet zwei klar getrennte Filmfassungen.",
-      "anchor": "1947 Danny Kaye, 2013 Ben Stiller: sechsundsechzig Jahre zwischen den Fassungen.",
       "interest": "Der Vergleich mit der älteren Fassung bietet einen konkreten Zeitanker.",
       "sources": [
         "handlung",
         "studio",
         "life"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1947 Danny Kaye, 2013 Ben Stiller: sechsundsechzig Jahre zwischen den Fassungen."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "Ben Stiller führte Regie und spielte die Hauptfigur.",
       "context": "Steve Conrad schrieb das Drehbuch, während Stiller Walter verkörperte und die Inszenierung übernahm. Die Doppelaufgabe verbindet die sichtbare Hauptrolle mit der Gestaltung seiner Tagträume und realen Reisen.",
-      "anchor": "Stiller spielt und inszeniert Walter; Conrad schreibt.",
       "interest": "Die Doppelaufgabe wird am konkreten Film eingeordnet.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Stiller spielt und inszeniert Walter; Conrad schreibt."
     }
   ]
 }

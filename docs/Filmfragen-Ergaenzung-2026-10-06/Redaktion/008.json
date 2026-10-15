@@ -30,13 +30,13 @@
       ],
       "short": "Die Männer planen die Flucht aus einem deutschen Kriegsgefangenenlager.",
       "context": "Das Lager bündelt Männer, die bereits Fluchten versucht haben. Die Bewacher hoffen, sie gemeinsam besser kontrollieren zu können. Roger Bartlett (Richard Attenborough) organisiert gerade dort einen größeren Ausbruch.",
-      "anchor": "Ein Lager voller Ausbrecher wird zum Ausgangspunkt einer gemeinsamen Flucht.",
       "interest": "Die Ausgangslage erklärt die Konzentration von Fluchterfahrung.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein Lager voller Ausbrecher wird zum Ausgangspunkt einer gemeinsamen Flucht."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Hilts wirft einen Baseball gegen die Zellenwand und fängt ihn wieder.",
       "context": "Hilts kehrt nach gescheiterten Versuchen mehrfach in den Arrest zurück. Das wiederholte Ballspiel verbindet diese Episoden und ist auch am Ende zu hören. Seine Beharrlichkeit bekommt damit ein einfaches sichtbares und hörbares Zeichen.",
-      "anchor": "Hilts, Einzelzelle, Baseball: Der Widerstand geht weiter.",
       "interest": "Ein wiederkehrendes Motiv charakterisiert die Figur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hilts, Einzelzelle, Baseball: Der Widerstand geht weiter."
     },
     {
       "code": "M1",
@@ -79,13 +79,13 @@
       ],
       "short": "Die parallel vorbereiteten Tunnel machen einen Ersatz nach der Entdeckung möglich.",
       "context": "Bartlett (Richard Attenborough) lässt zunächst an Tom, Dick und Harry arbeiten. Nach dem Fund von Tom wird Harry wieder geöffnet. Die Arbeitsteilung schafft Reserven, obwohl Entdeckung und knappe Zeit den Plan gefährden.",
-      "anchor": "Drei Tunnel schaffen Reserven; nach Tom bleibt Harry.",
       "interest": "Der konkrete Plan zeigt den Nutzen mehrerer Fluchtwege.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Drei Tunnel schaffen Reserven; nach Tom bleibt Harry."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Hendley will den zunehmend sehbehinderten Blythe führen.",
       "context": "Blythe fälscht Dokumente für die anderen. Als seine schlechte Sicht bekannt wird, hält Bartlett (Richard Attenborough) seine Teilnahme für zu gefährlich. Hendleys Hilfsangebot stellt Freundschaft neben die Anforderungen eines streng organisierten Plans.",
-      "anchor": "Der Beschaffer Hendley wird zum Begleiter des sehbehinderten Fälschers.",
       "interest": "Eine persönliche Entscheidung macht den Konflikt zwischen Planung und Solidarität sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Beschaffer Hendley wird zum Begleiter des sehbehinderten Fälschers."
     },
     {
       "code": "S1",
@@ -128,13 +128,13 @@
       ],
       "short": "MacDonald reagiert unwillkürlich auf eine englische Ansprache.",
       "context": "MacDonald und Bartlett (Richard Attenborough) haben sich zunächst mit ihrer Tarnung behauptet. Erst eine scheinbar beiläufige Ansprache bringt den sprachlichen Reflex hervor. Die Kontrolle prüft Verhalten, nachdem Kleidung und Papiere nicht genügt haben.",
-      "anchor": "Die Tarnung hält, bis MacDonald unwillkürlich Englisch antwortet.",
       "interest": "Die Szene zeigt eine unerwartete Schwachstelle einer vorbereiteten Tarnung.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Tarnung hält, bis MacDonald unwillkürlich Englisch antwortet."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Der berühmte Sprung wurde von Bud Ekins ausgeführt.",
       "context": "Steve McQueen fuhr selbst zahlreiche Teile der Verfolgung. Beim großen Zaunsprung übernahm sein Freund und Stuntdouble Bud Ekins. Schauspielerleistung, Motorradfahren und der einzelne besonders riskante Sprung sind deshalb getrennt zuzuordnen.",
-      "anchor": "McQueen verfolgt und flieht auf dem Motorrad; Ekins übernimmt den Zaunsprung.",
       "interest": "Der bekannte Bildmoment macht eine oft unsichtbare Stuntleistung verständlich.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "McQueen verfolgt und flieht auf dem Motorrad; Ekins übernimmt den Zaunsprung."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Der Film wurde 1963 erstmals veröffentlicht.",
       "context": "Paul Brickhills Sachbuch erschien 1950, die Verfilmung folgte 1963. Dreizehn Jahre liegen zwischen Buch und Film. Die Kinohandlung greift den historischen Ausbruch auf, verändert aber Figuren und Abläufe für ihre dramatische Erzählung.",
-      "anchor": "1950 das Buch, 1963 der Film: dreizehn Jahre Abstand.",
       "interest": "Die Vorlage liefert einen überprüfbaren Zeitanker.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1950 das Buch, 1963 der Film: dreizehn Jahre Abstand."
     },
     {
       "code": "D",
@@ -202,13 +202,13 @@
       ],
       "short": "John Sturges führte Regie.",
       "context": "Sturges hatte Steve McQueen, Charles Bronson und James Coburn bereits in „Die glorreichen Sieben“ eingesetzt. Hier arbeiten sie erneut in einem großen Ensemble. Ihre Figuren tragen unterschiedliche Fähigkeiten zum gemeinsamen Fluchtplan bei.",
-      "anchor": "Sturges vereint McQueen, Bronson und Coburn erneut im Ensemble.",
       "interest": "Die wiederholte Zusammenarbeit ordnet den Regisseur konkret ein.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sturges vereint McQueen, Bronson und Coburn erneut im Ensemble."
     }
   ]
 }

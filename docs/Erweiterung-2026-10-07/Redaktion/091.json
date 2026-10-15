@@ -37,12 +37,12 @@
       ],
       "short": "Die Wiederbelebung ist sein entscheidendes Ziel.",
       "context": "Victor Frankenstein (Peter Cushing) will Leben künstlich wiederherstellen. Damit verschiebt er die Grenze zwischen medizinischer Hilfe und eigener Schöpfung. Der Erfolg wird für ihn zum Selbstzweck: Die Frage, ob er etwas herstellen kann, verdrängt die Verantwortung dafür, was anschließend mit dem geschaffenen Wesen geschieht.",
-      "anchor": "Victors Wiederbelebung verlangt Verantwortung für das geschaffene Leben.",
       "interest": "Verbindet das zentrale Forschungsziel mit seinem moralischen Problem.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Victors Wiederbelebung verlangt Verantwortung für das geschaffene Leben."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Aus dem Lehrer wird ein wissenschaftlicher Mitarbeiter.",
       "context": "Paul Krempe (Robert Urquhart) unterrichtet den jungen Victor (Melvyn Hayes; als Erwachsener Peter Cushing). Aus dieser Beziehung entsteht gemeinsame Forschung. Der spätere Streit betrifft deshalb auch eine Verantwortung des Lehrers: Paul hat Victors Fähigkeiten gefördert, kann dessen Umgang mit ihnen aber nicht dauerhaft kontrollieren.",
-      "anchor": "Paul bildet den Forscher aus, dessen Grenzen er später verteidigen muss.",
       "interest": "Erklärt, weshalb der Konflikt über eine gewöhnliche Arbeitsbeziehung hinausgeht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Paul bildet den Forscher aus, dessen Grenzen er später verteidigen muss."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Er behandelt den Professor als Lieferanten eines besonders wertvollen Gehirns.",
       "context": "Victor (Peter Cushing) wünscht seiner Kreatur nicht nur einen Körper, sondern den Verstand eines Gelehrten. Professor Bernstein (Paul Hardtmuth) wird deshalb zum Opfer. Das vermeintliche Streben nach einem vollkommenen Menschen beruht auf der Entwertung eines lebenden Menschen, dessen Wissen Victor wie ein austauschbares Bauteil behandelt.",
-      "anchor": "Der gewünschte Verstand eines Gelehrten kostet den Gelehrten das Leben.",
       "interest": "Zeigt den Widerspruch zwischen Vollkommenheitsanspruch und der Behandlung des Opfers.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der gewünschte Verstand eines Gelehrten kostet den Gelehrten das Leben."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die Sorge um Elizabeth hält ihn im Haus.",
       "context": "Paul (Robert Urquhart) lehnt Victors (Peter Cushing) Vorhaben ab, bleibt jedoch wegen Elizabeth (Hazel Court). Abstand vom Experiment und Schutz der bedrohten Person verlangen unterschiedliche Handlungen. Seine Anwesenheit bedeutet daher keine erneuerte Zustimmung zur Forschung, sondern den Versuch, ihre Folgen für andere zu begrenzen.",
-      "anchor": "Paul bleibt wegen Elizabeth, obwohl er die Forschung ablehnt.",
       "interest": "Unterscheidet weitere Anwesenheit von wissenschaftlicher Zustimmung.",
       "sources": [
         "szenen"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Paul bleibt wegen Elizabeth, obwohl er die Forschung ablehnt."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die Auflösung der Kreatur beseitigt den entscheidenden gegenständlichen Beleg.",
       "context": "Die Kreatur (Christopher Lee) fällt nach dem Kampf in die Säure und wird aufgelöst. Victor (Peter Cushing) kann den Behörden das Wesen nicht mehr vorzeigen. Seine eigene Zerstörung des Geschöpfs schützt ihn im Augenblick des Angriffs, erschwert aber anschließend den Nachweis seiner ungewöhnlichen Erklärung.",
-      "anchor": "Die vernichtete Kreatur kann Victors Erklärung nicht mehr belegen.",
       "interest": "Erklärt den Wechsel vom unmittelbaren Schutz zur späteren Beweisnot.",
       "sources": [
         "szenen"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die vernichtete Kreatur kann Victors Erklärung nicht mehr belegen."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Paul verweigert den entlastenden Erfahrungsbericht.",
       "context": "Victor (Peter Cushing) erzählt seine Geschichte einem Priester (Alex Gallier) und hofft auf Paul (Robert Urquhart) als Zeugen. Dessen Weigerung lässt die Erzählung ohne Bestätigung stehen. Das Ende verbindet damit tatsächliche Verantwortung für Verbrechen mit einer Beweisfrage, die Victors außergewöhnliche Geschichte nicht zu seinen Gunsten löst.",
-      "anchor": "Paul kennt die Versuche, bestätigt sie vor dem Priester aber nicht.",
       "interest": "Unterscheidet Schuld, erzählte Erklärung und verweigerte Zeugenschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Paul kennt die Versuche, bestätigt sie vor dem Priester aber nicht."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "1957 liegt 139 Jahre nach der Romanveröffentlichung.",
       "context": "Mary Shelleys Frankenstein wurde 1818 erstmals veröffentlicht. Frankensteins Fluch erschien 1957, also 139 Jahre später. Die lange Stoffgeschichte erklärt, warum diese Fassung keinen neuen Mythos erfinden musste: Hammer konnte eine bekannte Schöpfungsfrage mit farbigem Horror und einem stärker ins Zentrum gerückten Forscher neu gestalten.",
-      "anchor": "1818 der Roman, 1957 Hammers farbige Neugestaltung: 139 Jahre später.",
       "interest": "Verankert die Fassung in der langen Geschichte ihres literarischen Stoffes.",
       "sources": [
         "studio",
         "roman"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1818 der Roman, 1957 Hammers farbige Neugestaltung: 139 Jahre später."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "Fisher inszenierte diesen Beginn des Hammer-Zyklus.",
       "context": "Terence Fisher inszenierte Peter Cushing als Forscher und Christopher Lee als Kreatur. Hammer beschreibt den Film als Beginn seines prägenden Gothic-Horror-Zyklus. Die neue Farbgestaltung und die moralische Konzentration auf den Schöpfer geben der vertrauten Geschichte eine besondere Stellung innerhalb dieser Studioentwicklung.",
-      "anchor": "Fisher eröffnet mit Cushing und Lee Hammers Gothic-Horror-Zyklus.",
       "interest": "Verbindet den Regiecredit mit der individuellen Bedeutung dieses Films für das Studio.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fisher eröffnet mit Cushing und Lee Hammers Gothic-Horror-Zyklus."
     }
   ]
 }

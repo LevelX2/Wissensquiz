@@ -37,12 +37,12 @@
       ],
       "short": "Garrett wird Sheriff von Lincoln County.",
       "context": "Pat Garrett (James Coburn) übernimmt das Sheriffamt von Lincoln County. Diese neue Stellung verändert seine Beziehung zu Billy the Kid (Kris Kristofferson), den er aus früheren Zeiten kennt. Er tritt nun als Vertreter einer Ordnung auf, die für seinen alten Freund keinen Platz mehr vorsieht. Das Amt gibt dem persönlichen Bruch eine öffentliche Form und macht aus Nähe eine Pflicht zur Verfolgung.",
-      "anchor": "Der alte Gefährte wird County-Sheriff.",
       "interest": "Erkennt die konkrete institutionelle Rolle hinter der Verfolgung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der alte Gefährte wird County-Sheriff."
     },
     {
       "code": "L2",
@@ -61,11 +61,11 @@
       ],
       "short": "Billy will nach Mexiko ausweichen.",
       "context": "Billy the Kid (Kris Kristofferson) versucht, dem Zugriff der Behörden zu entkommen, und richtet seinen Blick nach Mexiko. Freunde brechen bereits dorthin auf; auch er setzt sich in diese Richtung in Bewegung. Der Plan ist aber kein endgültig verwirklichter Neuanfang. Seine Bindungen an vertraute Menschen und Orte halten ihn weiter im Handlungskreis, in dem Pat Garrett (James Coburn) nach ihm sucht.",
-      "anchor": "Die Fluchtrichtung weist nach Mexiko.",
       "interest": "Erfasst ein konkretes Fluchtziel statt die im Titel verratene Verfolgungsbeziehung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Fluchtrichtung weist nach Mexiko."
     },
     {
       "code": "M1",
@@ -84,11 +84,11 @@
       ],
       "short": "Die versteckte Waffe liegt im Abort.",
       "context": "Billy the Kid (Kris Kristofferson) wartet im Gefängnis auf seine Hinrichtung. Ein für ihn im Abort versteckter Revolver verändert die scheinbar aussichtslose Lage. Der Ausbruch beginnt damit nicht mit einem offenen Angriff von außen, sondern mit einer unauffällig bereitgelegten Waffe. Die Szene zeigt, wie wenig die formale Bewachung nützt, sobald ein alltäglicher Weg im Gefängnis zur Gelegenheit für Gegenwehr wird.",
-      "anchor": "Die Waffe wartet im Abort.",
       "interest": "Prüft das konkrete Mittel, das den Ausbruch ermöglicht.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Waffe wartet im Abort."
     },
     {
       "code": "M2",
@@ -107,14 +107,14 @@
       ],
       "short": "Bakers Frau bleibt bei dem sterbenden Mann.",
       "context": "Sheriff Colin Baker (Slim Pickens) wird beim Schusswechsel tödlich verwundet. Seine Frau (Katy Jurado) begleitet ihn an den Fluss und bleibt bei ihm, während er stirbt. Der stille Abschied unterbricht den Wechsel aus Verfolgung und Gewalt. Statt eines triumphalen Sieges zeigt die Szene, was der Einsatz zurücklässt: einen verlorenen Menschen und die Frau, die diesen Verlust unmittelbar erleben muss.",
-      "anchor": "Bakers letzter Moment gehört seiner Frau.",
       "interest": "Erkennt die Figurenbeziehung in einer fassungsbezogen abgesicherten Schlüsselszene.",
       "sources": [
         "film",
         "seydor",
         "kosmorama"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Bakers letzter Moment gehört seiner Frau."
     },
     {
       "code": "S1",
@@ -133,11 +133,11 @@
       ],
       "short": "Garrett verlangt die vollständige Zahlung erst nach Billys Ergreifung.",
       "context": "Die Männer des Santa Fe Ring bieten Pat Garrett (James Coburn) für Billys (Kris Kristofferson) Ergreifung tausend Dollar an, davon fünfhundert als Vorschuss. Garrett lehnt den Vorschuss ab und verlangt den gesamten Betrag nach erledigter Arbeit. Damit wahrt er gegenüber seinen Auftraggebern eine gewisse Eigenständigkeit. Der Dialog verbindet die öffentliche Verfolgung mit den wirtschaftlichen Interessen hinter den mächtigen Männern.",
-      "anchor": "Kein halber Vorschuss: Zahlung nach Erledigung.",
       "interest": "Prüft den präzisen Umgang des Sheriffs mit seinen zahlenden Auftraggebern.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Kein halber Vorschuss: Zahlung nach Erledigung."
     },
     {
       "code": "S2",
@@ -156,14 +156,14 @@
       ],
       "short": "Bill dreht sich früh um; Billy erschießt ihn.",
       "context": "Billy the Kid (Kris Kristofferson) trifft bei einem alten Bekannten auf Alamosa Bill (Jack Elam), der inzwischen für Pat Garrett (James Coburn) arbeitet. Nach dem Essen kommt es zum Duell: Bill dreht sich früh um und wird von Billy erschossen. Eine scheinbar vertrauliche Zusammenkunft schlägt damit in tödliche Feindschaft um, weil die Beteiligten nun auf verschiedenen Seiten stehen.",
-      "anchor": "Das Essen endet im tödlichen Duell.",
       "interest": "Prüft den eng belegten Ausgang der Konfrontation ohne ungeklärte Schnittdetails.",
       "sources": [
         "film",
         "afi",
         "cuts"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Essen endet im tödlichen Duell."
     },
     {
       "code": "Y",
@@ -182,11 +182,11 @@
       ],
       "short": "Der Kinostart war 1973.",
       "context": "Der Film kam 1973 in die Kinos. 1988 finanzierte Ted Turner die Restaurierung einer längeren Fassung, fünfzehn Jahre nach dem ursprünglichen Start. AFI nennt dazu eine eingeladene Vorführung im DGA-Theater im Oktober 1988 und bereits eine Rough-Cut-Vorführung 1986. Der Zeitanker bezeichnet damit einen konkreten Restaurierungsschritt. Die spätere Fassungsarbeit ersetzt weder das Erstjahr noch die zuvor erfolgten Vorführungen.",
-      "anchor": "Kinostart 1973, Turner-Restaurierung 1988: fünfzehn Jahre.",
       "interest": "Verbindet das Erstjahr mit einem belegten Restaurierungsschritt und trennt die Vorführungen.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Kinostart 1973, Turner-Restaurierung 1988: fünfzehn Jahre."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Sam Peckinpah führte die Hauptregie.",
       "context": "AFI und Criterion nennen Sam Peckinpah als Hauptregisseur. Der Film erzählt von einer Freundschaft, die durch Garretts (James Coburn) neue amtliche Rolle auseinanderbricht. Gewalt erscheint dabei nicht nur als Handlungsspektakel, sondern auch als Verlust vertrauter Bindungen. Die späteren Auseinandersetzungen um verschiedene Schnittfassungen betreffen die Präsentation seines Films; sie begründen keinen zusätzlichen oder wechselnden Hauptregiecredit.",
-      "anchor": "Peckinpah inszeniert den Bruch alter Bindungen.",
       "interest": "Verankert den vollständigen Hauptcredit im persönlichen Konflikt des Spätwesterns.",
       "sources": [
         "afi",
         "criterion",
         "film"
-      ]
+      ],
+      "objective": "Peckinpah inszeniert den Bruch alter Bindungen."
     }
   ]
 }

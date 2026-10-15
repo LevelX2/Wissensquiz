@@ -31,12 +31,12 @@
       ],
       "short": "Hutch war ein für den Staat arbeitender Killer.",
       "context": "Hutch wirkt zunächst wie ein frustrierter Büroarbeiter, Ehemann und Vater. Seine Reaktionen auf die zunehmenden Konflikte zeigen jedoch eine sehr andere Ausbildung. Die Enthüllung erklärt die Kampffähigkeiten und zugleich den Wunsch, das gewalttätige Berufsleben zugunsten einer gewöhnlichen Familie hinter sich zu lassen.",
-      "anchor": "Der unscheinbare Hutch besitzt die Vergangenheit eines staatlichen Killers.",
       "interest": "Die Vorgeschichte erklärt den Kontrast zwischen Alltagsfigur und Kampffähigkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der unscheinbare Hutch besitzt die Vergangenheit eines staatlichen Killers."
     },
     {
       "code": "L2",
@@ -55,13 +55,13 @@
       ],
       "short": "Seine Tochter vermisst ihr Katzenarmband.",
       "context": "Hutch hat beim Einbruch zunächst keine Gewalt angewandt und wird dafür kritisiert. Der scheinbare Verlust des kleinen Schmuckstücks wird später zum Anlass, selbst tätig zu werden. Seine Suche hat dadurch einen emotionalen Auslöser, obwohl die Vermutung über den Diebstahl sich am Ende als falsch erweist.",
-      "anchor": "Das vermisste Katzenarmband bringt Hutch aus seiner Passivität.",
       "interest": "Ein kleiner Alltagsgegenstand setzt die Gewaltspirale in Bewegung.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das vermisste Katzenarmband bringt Hutch aus seiner Passivität."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Hutch weiß, dass die Waffe ungeladen ist.",
       "context": "Die Familie und Außenstehende sehen seine Zurückhaltung zunächst als Schwäche. Hutch erklärt seinem Bruder Harry (RZA), dass er die fehlende Munition bemerkt hatte. Die Szene unterscheidet die scheinbare Hilflosigkeit vom bewussten Verzicht auf Gewalt, der später jedoch nicht dauerhaft bestehen bleibt.",
-      "anchor": "Die ungeladene Waffe macht Hutchs Zurückhaltung zur bewussten Entscheidung.",
       "interest": "Das Detail verändert die erste Einschätzung der Hauptfigur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die ungeladene Waffe macht Hutchs Zurückhaltung zur bewussten Entscheidung."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Hutch hat Yulians Bruder Teddy schwer verletzt.",
       "context": "Hutch (Bob Odenkirk) bekämpft im Bus eine Gruppe, die eine junge Frau belästigt. Er kennt dabei die Verbindung eines Gegners zu Yulian nicht. Aus der lokalen Auseinandersetzung entsteht so ein größerer Konflikt, weil der Kriminelle die schwere Verletzung seines Bruders rächen will.",
-      "anchor": "Der verletzte Busangreifer ist Yulians Bruder und zieht die Mafia in den Konflikt.",
       "interest": "Die Familienverbindung erklärt die Eskalation nach einer scheinbar begrenzten Prügelei.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der verletzte Busangreifer ist Yulians Bruder und zieht die Mafia in den Konflikt."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Hutch nutzt kugelsicheres Glas hinter der Claymore als Schutz.",
       "context": "Als die Munition aufgebraucht ist, greift Hutch den noch bewaffneten Yulian (Aleksei Serebryakov) mit der gerichteten Sprengladung an. Er hat sie an einer Scheibe aus kugelsicherem Glas befestigt. Das Glas schützt seine eigene Seite bei der Explosion, während Yulian getötet wird und Hutch verletzt überlebt.",
-      "anchor": "Die Claymore sitzt auf kugelsicherem Glas: Angriff und Schutz in einem.",
       "interest": "Die konkrete Konstruktion erklärt den ungewöhnlichen Schluss des Kampfes.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Claymore sitzt auf kugelsicherem Glas: Angriff und Schutz in einem."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "David und Harry unterstützen ihn.",
       "context": "Hutch hat die Fabrik gekauft und als Falle für Yulians Leute vorbereitet. Sein Vater David (Christopher Lloyd), ein früherer FBI-Mann, und sein Bruder Harry (RZA) unterstützen ihn bei der Verteidigung. Die Familie umfasst damit auch Verbündete, die seine verborgene Vergangenheit kennen und selbst kampferfahren sind.",
-      "anchor": "Vater David und Bruder Harry stehen Hutch in der Fabrik bei.",
       "interest": "Die Helfer verbinden den finalen Kampf mit der zuvor gezeigten Familie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vater David und Bruder Harry stehen Hutch in der Fabrik bei."
     },
     {
       "code": "Y",
@@ -176,13 +176,13 @@
       ],
       "short": "Das erste Veröffentlichungsjahr ist 2021.",
       "context": "Nobody erschien 2021. Vier Jahre später folgte 2025 Nobody 2 mit Bob Odenkirk erneut als Hutch. Während der erste Film seine verborgene Killervergangenheit enthüllt, setzt die Fortsetzung diese bereits bekannte Identität voraus. Die beiden Veröffentlichungsjahre trennen somit auch zwei unterschiedliche Ausgangslagen der Figur.",
-      "anchor": "2021 enthüllte Nobody Hutchs Vergangenheit; 2025 folgte nach vier Jahren Nobody 2.",
       "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
       "sources": [
         "primaer",
         "fortsetzung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2021 enthüllte Nobody Hutchs Vergangenheit; 2025 folgte nach vier Jahren Nobody 2."
     },
     {
       "code": "D",
@@ -201,13 +201,13 @@
       ],
       "short": "Die gesuchte Regie stammt von Ilya Naishuller.",
       "context": "Ilya Naishuller führte beim ersten Nobody Regie. Bob Odenkirk spielt Hutch und gehört zugleich zu den Produzenten; auch David Leitch produzierte den Film. Die Regiefrage trennt diese Funktionen, damit ein an der Herstellung Beteiligter nicht fälschlich als Regisseur oder Ablenker behandelt wird.",
-      "anchor": "Ilya Naishuller inszenierte diese Filmfassung.",
       "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ilya Naishuller inszenierte diese Filmfassung."
     }
   ]
 }

@@ -24,7 +24,8 @@ const contents = packages
       p.filename !== "Schauspieler_Bilderkennung_200_Fragen.csv" &&
       !p.filename.endsWith("fragen_20261007.csv") &&
       !p.filename.startsWith("Genre100_") &&
-      !p.filename.startsWith("Schauspieler-Bekanntheit-"),
+      !p.filename.startsWith("Schauspieler-Bekanntheit-") &&
+      p.filename !== "Action-Drama-Ergaenzungen-2026-10-15.csv",
   )
   .map((p) => ({
     filename: p.filename,
@@ -128,7 +129,7 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
   const once = structuredClone(state);
   addPackages(state, contents);
   expect(state).toEqual(once);
-  expect(state.questions).toHaveLength(8209);
+  expect(state.questions).toHaveLength(8208);
   expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7666);
   expect(
     new Set(
@@ -141,11 +142,11 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
   expect(
     state.questions.filter((q) => originalQuestionId(q.id).startsWith(prefix)),
   ).toHaveLength(1920);
-  expect(state.bundledQuestionIds).toHaveLength(8209);
+  expect(state.bundledQuestionIds).toHaveLength(8208);
   expect(
     state.imports.filter((r) => r.filename === latest.filename),
   ).toHaveLength(1);
-  expect(validateBackup(structuredClone(state)).questions).toHaveLength(8209);
+  expect(validateBackup(structuredClone(state)).questions).toHaveLength(8208);
   const fresh = emptyState();
   addPackages(fresh, contents);
   expect(fresh.questions).toEqual(state.questions);
@@ -200,7 +201,7 @@ it("erhält Lerntermine und aktive Runden, berechnet Schwierigkeiten beim Ergän
     oldRights?.Western.familiarity,
   );
   expect(learningPathProgress(saved)("Western").hardUnlocked).toBe(false);
-  expect(saved.questions).toHaveLength(8209);
+  expect(saved.questions).toHaveLength(8208);
   expect(
     saved.imports.filter((r) => r.filename === latest.filename),
   ).toHaveLength(1);

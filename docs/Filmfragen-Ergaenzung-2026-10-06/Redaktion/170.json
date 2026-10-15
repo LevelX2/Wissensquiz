@@ -37,12 +37,12 @@
       ],
       "short": "Gaston und Lily sind Diebe, die sich zunächst als Adlige ausgeben.",
       "context": "Gaston und Lily sind Diebe, die sich zunächst als Adlige ausgeben. Als sie ihre Fähigkeiten aneinander erkennen, entsteht Zuneigung. Ihr gemeinsamer Beruf ist deshalb keine spätere Belastung der Beziehung, sondern bereits Teil ihrer gegenseitigen Anziehung.",
-      "anchor": "Gegenseitiges Bestehlen führt zur gegenseitigen Anerkennung.",
       "interest": "Gegenseitiges Bestehlen führt zur gegenseitigen Anerkennung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gegenseitiges Bestehlen führt zur gegenseitigen Anerkennung."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Mariette Colet besitzt eine Parfümfirma.",
       "context": "Mariette Colet besitzt eine Parfümfirma. Ihr Reichtum macht sie für Gaston Monescu (Herbert Marshall) und Lily (Miriam Hopkins) zum lohnenden Ziel. Als Gaston bei ihr arbeitet, wird die berufliche Nähe zugleich zur romantischen Versuchung und gefährdet den gemeinsamen Diebstahlsplan.",
-      "anchor": "Die Parfüm-Erbin ist zugleich Ziel und romantische Versuchung.",
       "interest": "Die Parfüm-Erbin ist zugleich Ziel und romantische Versuchung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Parfüm-Erbin ist zugleich Ziel und romantische Versuchung."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Gaston bringt Mariette ihre von ihm gestohlene Handtasche zurück und gewinnt ihr Vertrauen.",
       "context": "Gaston bringt Mariette ihre von ihm gestohlene Handtasche zurück und gewinnt ihr Vertrauen. Sie stellt ihn als Privatsekretär ein. Der scheinbare Beweis seiner Ehrlichkeit ist tatsächlich ein Teil des Betrugs und verschafft ihm Zugang zu ihrer geschäftlichen und privaten Umgebung.",
-      "anchor": "Die Rückgabe des eigenen Diebesguts schafft Vertrauen.",
       "interest": "Die Rückgabe des eigenen Diebesguts schafft Vertrauen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Rückgabe des eigenen Diebesguts schafft Vertrauen."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "François Filiba (Edward Everett Horton) könnte Gaston Monescu (Herbert Marshall) als den Dieb aus Venedig wiedererkennen.",
       "context": "François Filiba (Edward Everett Horton) könnte Gaston Monescu (Herbert Marshall) als den Dieb aus Venedig wiedererkennen. Lily (Miriam Hopkins) und Gaston müssen ihren Plan deshalb beschleunigen. Ein früheres Verbrechen kehrt in die neue Tarnung zurück und begrenzt ihre Handlungsfreiheit.",
-      "anchor": "Das alte Opfer gefährdet den neuen Betrug.",
       "interest": "Das alte Opfer gefährdet den neuen Betrug.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das alte Opfer gefährdet den neuen Betrug."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Gaston deckt auf, dass Monsieur Giron (C.",
       "context": "Gaston deckt auf, dass Monsieur Giron (C. Aubrey Smith) Millionen unterschlagen hat. Die offiziell respektable Geschäftsführung ist damit selbst kriminell. Der Film stellt die eleganten Außenseiter nicht einer vollständig ehrlichen Gesellschaft gegenüber, sondern zeigt Betrug auch hinter deren Autoritätsfassade.",
-      "anchor": "Respektable Geschäftsführung verbirgt einen größeren Betrug.",
       "interest": "Respektable Geschäftsführung verbirgt einen größeren Betrug.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Respektable Geschäftsführung verbirgt einen größeren Betrug."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Gaston Monescu (Herbert Marshall) und Lily (Miriam Hopkins) nehmen einander erneut Geld und Schmuck ab.",
       "context": "Gaston Monescu (Herbert Marshall) und Lily (Miriam Hopkins) nehmen einander erneut Geld und Schmuck ab. Das wiederholt den spielerischen Fähigkeitsvergleich ihrer ersten Begegnung. Ihre Versöhnung besteht nicht darin, ehrliche Bürger zu werden; sie finden zu ihrer gemeinsamen Art der Nähe zurück.",
-      "anchor": "Das Paar versöhnt sich durch sein altes Diebesspiel.",
       "interest": "Das Paar versöhnt sich durch sein altes Diebesspiel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Paar versöhnt sich durch sein altes Diebesspiel."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "1932 erschien die Komödie, noch vor der strengen Durchsetzung des Production Code ab 1934.",
       "context": "1932 erschien die Komödie, noch vor der strengen Durchsetzung des Production Code ab 1934. Ihre offene Behandlung von Diebstahl und Liebesbeziehungen wurde später zum Hindernis für eine Wiederaufführung. So verankert sich das Filmjahr in der kurzen Freizügigkeit des frühen Hollywood-Tonfilms.",
-      "anchor": "Film 1932, strenge Code-Durchsetzung ab 1934: Die Komödie steht zwei Jahre vor Hollywoods engerer Zensur.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Film 1932, strenge Code-Durchsetzung ab 1934: Die Komödie steht zwei Jahre vor Hollywoods engerer Zensur."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Ernst Lubitsch führte Regie, Samson Raphaelson schrieb das Drehbuch.",
       "context": "Ernst Lubitsch führte Regie, Samson Raphaelson schrieb das Drehbuch. Herbert Marshall und Miriam Hopkins spielen ein Diebespaar, Kay Francis dessen vermögendes Ziel. Die Liebesbeziehung wird über gegenseitiges Bestehlen und elegante Andeutungen statt über moralische Läuterung erzählt.",
-      "anchor": "Ernst Lubitsch führte Regie, Samson Raphaelson schrieb das Drehbuch.",
       "interest": "Ernst Lubitsch führte Regie, Samson Raphaelson schrieb das Drehbuch.",
       "sources": [
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ernst Lubitsch führte Regie, Samson Raphaelson schrieb das Drehbuch."
     }
   ]
 }

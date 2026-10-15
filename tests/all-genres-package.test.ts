@@ -97,7 +97,7 @@ it("ergänzt alte Spielstände idempotent und macht neue Film-Ikonen in der Film
   const before = structuredClone(state.questions);
   addPackages(state, contents);
   addPackages(state, contents);
-  expect(state.questions).toHaveLength(4689);
+  expect(state.questions).toHaveLength(4688);
   expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4210);
   expect(state.questions.slice(0, before.length)).toEqual(before);
   expect(

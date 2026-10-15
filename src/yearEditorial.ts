@@ -7,7 +7,6 @@ type YearEntry = {
   question: string;
   originalContext: string;
   text: string;
-  anchor: string;
   sources: string[];
 };
 

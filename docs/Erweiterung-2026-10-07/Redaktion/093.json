@@ -41,12 +41,12 @@
       ],
       "short": "Sie beginnt an einer veterinärmedizinischen Hochschule.",
       "context": "Justine (Garance Marillier) beginnt ein Tiermedizinstudium, wie es bereits ihre Eltern und ihre ältere Schwester gewählt haben. Der vertraute Familienweg führt sie in eine fremde, raue Umgebung. Ihre fachliche Begabung bewahrt sie dort nicht davor, durch die sozialen Regeln der Gruppe unter Druck zu geraten.",
-      "anchor": "Der vertraute Familienberuf führt Justine in eine bedrohliche neue Gruppe.",
       "interest": "Verbindet die Ausbildung mit der gesellschaftlichen Ausgangssituation.",
       "sources": [
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der vertraute Familienberuf führt Justine in eine bedrohliche neue Gruppe."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Das Essen der rohen Niere gehört zum Aufnahmeritual.",
       "context": "Justine (Garance Marillier) wird beim Aufnahmeritual zum Essen einer rohen Kaninchenniere gedrängt. Alexia (Ella Rumpf) schützt die jüngere Schwester dabei nicht vor dem Gruppenzwang. Das Ritual verbindet die Aufnahme in die Hochschule mit der Missachtung einer Grenze, die Justine aus ihrer Familie mitgebracht hat.",
-      "anchor": "Die rohe Niere macht Gruppenzugehörigkeit zum Bruch mit der Familienregel.",
       "interest": "Erklärt den Beginn der Veränderung durch ein konkretes Ritual.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die rohe Niere macht Gruppenzugehörigkeit zum Bruch mit der Familienregel."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Justine gibt ihrem Hunger nach und isst den Finger.",
       "context": "Bei der missglückten Enthaarung verliert Alexia (Ella Rumpf) einen Finger. Justine (Garance Marillier) isst das abgetrennte Körperteil. Aus einer vermeintlichen Anleitung zu erwachsenem Körperverhalten entsteht eine Grenzverletzung zwischen den Schwestern. Die Szene verschränkt alltägliche Unsicherheit mit einem Hunger, den Justine noch nicht beherrscht.",
-      "anchor": "Die Anleitung zur Körperpflege endet im Verzehr des Fingers.",
       "interest": "Verknüpft den Unfall mit dem Umschlag der Schwesterbeziehung.",
       "sources": [
         "szenen"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Anleitung zur Körperpflege endet im Verzehr des Fingers."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Die Opfer des Unfalls sollen ihren Hunger stillen.",
       "context": "Alexia (Ella Rumpf) zeigt Justine (Garance Marillier), wie sie durch einen provozierten Unfall an Opfer gelangt. Damit verwandelt sie den Drang in eine gezielte Beschaffungsmethode. Justines Entsetzen markiert einen Unterschied zwischen den Schwestern: Ein geteilter Hunger führt nicht automatisch zur gleichen Entscheidung gegenüber anderen Menschen.",
-      "anchor": "Alexia organisiert Opfer; Justine erschrickt vor dieser planvollen Gewalt.",
       "interest": "Unterscheidet den gemeinsamen Drang von der gewählten Handlung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Alexia organisiert Opfer; Justine erschrickt vor dieser planvollen Gewalt."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Die Aufnahme aus der Leichenhalle macht ihren Hunger zur öffentlichen Demütigung.",
       "context": "Justine (Garance Marillier) wird betrunken mit einem Leichnam gefilmt. Die anschließende Reaktion der anderen Studierenden verschärft den Streit mit Alexia (Ella Rumpf). Der Körper, den Justine selbst kaum versteht, wird nun auch zum Gegenstand fremder Bilder und Urteile. Ihre Verletzbarkeit ist zugleich körperlich und sozial.",
-      "anchor": "Das Video verwandelt den geheimen Hunger in öffentliche Demütigung.",
       "interest": "Erklärt die Verbindung von Aufzeichnung, Gruppendruck und Schwesterkonflikt.",
       "sources": [
         "bfi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Video verwandelt den geheimen Hunger in öffentliche Demütigung."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Die Narben verbinden den Drang mit der älteren Generation der Familie.",
       "context": "Der Vater (Laurent Lucas) zeigt Justine (Garance Marillier) seine Narben und erklärt damit die Rolle der Mutter (Joana Preiss). Die strenge vegetarische Familienregel erhält rückblickend eine neue Bedeutung. Sie erscheint als Umgang mit einem bekannten Hunger, dessen Existenz den Töchtern dennoch nicht offen erklärt wurde.",
-      "anchor": "Die Narben erklären die Familienregel als Umgang mit einem bekannten Drang.",
       "interest": "Ordnet das Ende als Neubewertung der anfänglichen Familienordnung ein.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Narben erklären die Familienregel als Umgang mit einem bekannten Drang."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "Raw wurde 2016 erstmals gezeigt, fünf Jahre vor Titane.",
       "context": "Raw wurde 2016 in Cannes erstmals gezeigt. Fünf Jahre später gewann Julia Ducournaus Titane 2021 die Goldene Palme. Der Vergleich verbindet ihr Langfilmdebüt mit einem späteren Festivalerfolg. In beiden Arbeiten wird der menschliche Körper zum Ort von Veränderung, Konflikt und ungewöhnlicher Zugehörigkeit.",
-      "anchor": "2016 Raw, 2021 Titane und die Goldene Palme: fünf Jahre später.",
       "interest": "Verbindet das Debütjahr mit einer späteren Entwicklung ihrer Filmkarriere.",
       "sources": [
         "festival",
         "titane"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2016 Raw, 2021 Titane und die Goldene Palme: fünf Jahre später."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Ducournau schrieb und inszenierte den Film.",
       "context": "Julia Ducournau schrieb das Drehbuch und führte Regie. Vor ihrem Langfilmdebüt hatte sie an der La Fémis Drehbuch studiert und 2011 den Kurzfilm Junior in Cannes vorgestellt. Die belegte Laufbahn verbindet ihre Arbeit an erzählerischer Konstruktion mit einem frühen Interesse an körperlicher Veränderung.",
-      "anchor": "Ducournau kommt vom Drehbuchstudium und Kurzfilm zum eigenen Langfilm.",
       "interest": "Gibt dem Regiecredit einen individuellen Ausbildungs- und Werkzusammenhang.",
       "sources": [
         "festival",
         "bio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ducournau kommt vom Drehbuchstudium und Kurzfilm zum eigenen Langfilm."
     }
   ]
 }

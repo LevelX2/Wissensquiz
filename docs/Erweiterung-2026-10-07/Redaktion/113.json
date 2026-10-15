@@ -36,12 +36,12 @@
       ],
       "short": "Max verfolgt die Mörder seiner Eltern.",
       "context": "Max Sand (Steve McQueen) findet seine Eltern ermordet und macht die Verfolgung der Täter zu seinem Ziel. Der Film beginnt so mit einem Verlust, aus dem eine lange persönliche Aufgabe entsteht. Die Reise verändert nicht nur seine Fähigkeiten, sondern auch seine Beziehung zu Gewalt und Hilfe.",
-      "anchor": "Der familiäre Verlust wird zu einer Reise, die den Verfolger selbst verändert.",
       "interest": "Erfasst Anlass und Entwicklungsaufgabe.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der familiäre Verlust wird zu einer Reise, die den Verfolger selbst verändert."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Cord bringt Max den Umgang mit Waffen bei.",
       "context": "Jonas Cord (Brian Keith) nimmt Max (Steve McQueen) auf und lehrt ihn den Umgang mit einer Waffe. Die Hilfe macht den jungen Verfolger handlungsfähiger, ohne sein Ziel für ihn zu entscheiden. Lernen und moralische Orientierung sind dadurch unterschiedliche Aufgaben, die auf der Reise weiter miteinander ringen.",
-      "anchor": "Cord vermittelt eine Fähigkeit, entscheidet aber nicht an Max’ Stelle über ihren Gebrauch.",
       "interest": "Erklärt die Funktion des Mentors.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Cord vermittelt eine Fähigkeit, entscheidet aber nicht an Max’ Stelle über ihren Gebrauch."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Der eigene Überfall führt ihn als Häftling zu Bowdre.",
       "context": "Max (Steve McQueen) begeht einen Banküberfall, um in dieselbe Haft wie Bill Bowdre (Arthur Kennedy) zu gelangen. Die Verfolgung macht ihn damit selbst zum Verurteilten. Das Ziel verschiebt die Grenze zwischen Opfer, Rächer und Gesetzesbrecher, bevor er den gesuchten Mann überhaupt erreichen kann.",
-      "anchor": "Um den Täter zu erreichen, nimmt Max selbst die Stellung eines Häftlings an.",
       "interest": "Erklärt den Preis seiner Zugangstaktik.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Um den Täter zu erreichen, nimmt Max selbst die Stellung eines Häftlings an."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Der andere Name verbirgt ihn in Fitchs Bande.",
       "context": "Max (Steve McQueen) nennt sich Nevada Smith, als er sich Tom Fitchs (Karl Malden) Bande anschließt. Die Verfolgung verlangt nun Nähe zu dem Mann, den er töten will. Der andere Name schützt diesen Zugang nur vorläufig, denn sein tatsächliches Wissen und Verhalten können ihn weiterhin verraten.",
-      "anchor": "Der Deckname ermöglicht Nähe zum Gegner, ohne seine wirkliche Absicht sicher zu verbergen.",
       "interest": "Erklärt die Funktion der angenommenen Identität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Deckname ermöglicht Nähe zum Gegner, ohne seine wirkliche Absicht sicher zu verbergen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Pilar stirbt nach dem Schlangenbiss.",
       "context": "Pilar (Suzanne Pleshette) hilft Max (Steve McQueen) bei der Flucht, ohne seine ganze Absicht zu kennen. Ihr Tod nach dem Schlangenbiss zeigt einen Verlust außerhalb der gesuchten Tätergruppe. Max’ Racheweg setzt damit auch Menschen einer Gefahr aus, die ihm aus persönlicher Nähe helfen.",
-      "anchor": "Pilar bezahlt eine Hilfe mit dem Leben, deren vollständiges Ziel sie nicht kennt.",
       "interest": "Erklärt einen indirekten Preis der Rache.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Pilar bezahlt eine Hilfe mit dem Leben, deren vollständiges Ziel sie nicht kennt."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Max beendet den Kampf, ohne Fitch zu töten.",
       "context": "Max (Steve McQueen) verwundet Fitch (Karl Malden), beendet aber dessen Leben nicht. Die letzte Begegnung vollendet daher die Rache nicht auf dieselbe Weise wie die früheren. Seine Fähigkeit zur Gewalt bleibt vorhanden, doch ihr weiterer Gebrauch erhält eine Grenze, die er selbst setzen muss.",
-      "anchor": "Der letzte Täter wird verwundet; Max setzt dem Töten eine eigene Grenze.",
       "interest": "Erklärt die Abweichung vom bisherigen Rachemuster.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der letzte Täter wird verwundet; Max setzt dem Töten eine eigene Grenze."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "1966 folgt zwei Jahre nach 1964.",
       "context": "The Carpetbaggers erschien 1964 mit Alan Ladd als Nevada Smith. Der Film von 1966 erzählt zwei Jahre später die frühere Lebensgeschichte derselben Figur, nun mit Steve McQueen. Veröffentlichungsreihenfolge und erzählte Lebenszeit laufen dadurch in verschiedene Richtungen: Der spätere Film setzt innerhalb der Biografie früher an.",
-      "anchor": "1964 die ältere Figur, 1966 ihre frühere Lebensgeschichte mit einem anderen Darsteller.",
       "interest": "Verknüpft das Jahr mit der besonderen Vorgeschichtenstruktur.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1964 die ältere Figur, 1966 ihre frühere Lebensgeschichte mit einem anderen Darsteller."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Hathaway inszenierte den Film.",
       "context": "Henry Hathaway führte Regie und produzierte. TCM beschreibt eine auf viele Schauplätze verteilte Herstellung mit Kameramann Lucien Ballard. Die räumlich wechselnde Rachereise erhielt dadurch eine konkrete Produktionsaufgabe: Die unterschiedlichen Stationen mussten zusammenpassen, während ihr jeweiliges Landschaftsbild einen eigenen Eindruck bewahren sollte.",
-      "anchor": "Hathaway verbindet die Stationen einer langen Reise über viele Drehorte hinweg.",
       "interest": "Verbindet den Credit mit der belegten räumlichen Produktionsaufgabe.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hathaway verbindet die Stationen einer langen Reise über viele Drehorte hinweg."
     }
   ]
 }

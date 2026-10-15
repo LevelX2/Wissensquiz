@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Rockwell spielt Wild Bill Wharton.",
       "context": "Whartons Auftreten bringt offene Aggression in den Todestrakt. Die Rolle unterscheidet sich deutlich von der großen, sanften Erscheinung John Coffeys. Rockwell macht den Gefangenen durch unberechenbare Bewegung und den Wechsel zwischen gespielter Harmlosigkeit und Gewalt zu einer ständigen Gefahr für die anderen.",
-      "anchor": "Rockwell ist Wild Bill, nicht der wundersame John Coffey.",
       "interest": "Die Zuordnung unterscheidet zwei sehr verschiedene Gefangenenfiguren.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://stephenking.com/works/movie/green-mile.html"
-      ]
+      ],
+      "objective": "Rockwell ist Wild Bill, nicht der wundersame John Coffey."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Dixon arbeitet bei der örtlichen Polizei.",
       "context": "Dixon ist ein gewalttätiger, rassistischer Beamter und damit selbst Teil der Machtstruktur, gegen die sich Mildreds öffentliche Anklage richtet. Rockwell gestaltet seine spätere Veränderung aus dieser belasteten Ausgangslage heraus. Dass die Figur eigene Verletzungen hat, hebt die Verantwortung für ihre früheren Taten nicht auf.",
-      "anchor": "Dixon gehört zur Polizei, deren Versagen öffentlich angeprangert wird.",
       "interest": "Die berufliche Stellung erklärt den Konflikt seiner Figur.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri",
         "https://www.bafta.org/media-centre/press-releases/sam-rockwell-winners-acceptance-speech-supporting-actor-ee-british-academy/"
-      ]
+      ],
+      "objective": "Dixon gehört zur Polizei, deren Versagen öffentlich angeprangert wird."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Er trifft auf eine jüngere Version seiner selbst.",
       "context": "Der zweite Sam beansprucht denselben Platz und denselben Arbeitsvertrag. Rockwell muss zwei Menschen mit gleichem Gesicht, aber unterschiedlicher Erschöpfung und Reizbarkeit darstellen. Aus der Begegnung wird eine Frage nach Erinnerung, Identität und dem Wert eines Arbeiters für das Unternehmen.",
-      "anchor": "Zwei Sams bringen die Gewissheit über das eigene Leben ins Wanken.",
       "interest": "Die Doppelrolle verbindet ein Science-Fiction-Rätsel mit einer konkreten Schauspielaufgabe.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://www.sonyclassics.com/moon/moon_presskit.pdf"
-      ]
+      ],
+      "objective": "Zwei Sams bringen die Gewissheit über das eigene Leben ins Wanken."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 1,
       "short": "Barris ist Fernsehproduzent und Showmoderator.",
       "context": "Der Film verbindet die Fernsehkarriere mit Barris’ eigener Behauptung, daneben für die CIA getötet zu haben. Diese angebliche zweite Laufbahn wird nicht als gesicherte historische Tatsache behandelt. Rockwell bewegt sich zwischen den öffentlichen Unterhaltungsgesten und der überzeichneten Welt einer möglichen Selbsterfindung.",
-      "anchor": "Barris’ gesicherte öffentliche Karriere lag im Fernsehen.",
       "interest": "Die Frage trennt reale Berufstätigkeit und den zweifelhaften autobiografischen Mythos.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
         "https://www.miramax.com/movie/confessions-of-a-dangerous-mind/",
         "https://www.afi.com/news/confessions-of-a-dangerous-mind-afi-movie-club/",
         "https://en.wikipedia.org/wiki/Confessions_of_a_Dangerous_Mind_(film)"
-      ]
+      ],
+      "objective": "Barris’ gesicherte öffentliche Karriere lag im Fernsehen."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 1,
       "short": "Jones schrieb die Geschichte ausdrücklich mit Rockwell im Blick.",
       "context": "Bei einer früheren Begegnung hatte Rockwell sein Interesse an Science-Fiction bekundet. Jones nahm das als Anstoß für einen Stoff, der den Schauspieler fordern und zugleich mit einem kleinen Ensemble auskommen konnte. Die Besetzung war damit ein Ausgangspunkt der Entwicklung und nicht erst deren letzter Schritt.",
-      "anchor": "„Moon“ wurde von Anfang an auf Rockwells Möglichkeiten zugeschnitten.",
       "interest": "Die Frage zeigt, wie ein Darsteller schon die Stoffentwicklung prägen kann.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://www.sonyclassics.com/moon/moon_presskit.pdf"
-      ]
+      ],
+      "objective": "„Moon“ wurde von Anfang an auf Rockwells Möglichkeiten zugeschnitten."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 3,
       "short": "Guy überträgt das Schicksal seiner kurzlebigen Serienfigur auf die echte Gefahr.",
       "context": "Die übrigen Darsteller besitzen bekannte Rollen und Namen. Guy kennt dagegen vor allem die Konvention des entbehrlichen Nebencharakters. Rockwell macht daraus eine komische Angst, bei der das Wissen über Fernsehgeschichten zum Maßstab einer plötzlich realen Mission wird.",
-      "anchor": "Guy fürchtet die Sterberegel des namenlosen Begleiters.",
       "interest": "Das Rollenwissen erklärt einen wiederkehrenden Witz der Science-Fiction-Parodie.",
       "feedback": [
         "",
@@ -172,7 +171,8 @@
       ],
       "knowledge_id": "K-KOM-10-06",
       "variant_of": "KOM-S-020",
-      "knowledge_note": "Identisches Ziel: Guys Angst wegen seiner kurzlebigen namenlosen Serienrolle."
+      "knowledge_note": "Identisches Ziel: Guys Angst wegen seiner kurzlebigen namenlosen Serienrolle.",
+      "objective": "Guy fürchtet die Sterberegel des namenlosen Begleiters."
     },
     {
       "code": "E1",
@@ -186,7 +186,6 @@
       "correct": 2,
       "short": "Philip Seymour Hoffman inszenierte die Produktion.",
       "context": "Rockwell arbeitete mit der LAByrinth Theater Company an einer Erzählung, die Judas in einem Gerichtsverfahren neu betrachten lässt. Der Kontakt zu Hoffman gehört zu seiner Bühnenlaufbahn neben den Filmen. Er zeigt auch, wie bekannte Filmschauspieler in einem anderen Arbeitszusammenhang als Regisseur und Ensemblemitglied zusammenkommen.",
-      "anchor": "Hoffman inszenierte Rockwell im Theaterensemble.",
       "interest": "Eine Zusammenarbeit verbindet Filmgesichter mit ihrer eigenständigen Bühnenarbeit.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       "films": [],
       "extraSources": [
         "https://www.sonyclassics.com/moon/moon_presskit.pdf"
-      ]
+      ],
+      "objective": "Hoffman inszenierte Rockwell im Theaterensemble."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 0,
       "short": "Rockwell spielte Bob Fosse und war Executive Producer.",
       "context": "Die Serie betrachtet die künstlerische und persönliche Verbindung des Choreografen mit Gwen Verdon, gespielt von Michelle Williams. Beide Hauptdarsteller gehörten auch zur ausführenden Produktion. Rockwells Beteiligung reichte damit über das Nachbilden von Fosse hinaus in die Verantwortung für ein Projekt über gemeinsames künstlerisches Arbeiten.",
-      "anchor": "Rockwell war bei „Fosse/Verdon“ Darsteller und Executive Producer.",
       "interest": "Die Mehrfachfunktion erschließt seine Mitgestaltung einer Fernsehbiografie.",
       "feedback": [
         "",
@@ -222,7 +221,8 @@
       "films": [],
       "extraSources": [
         "https://www.fxnetworks.com/shows/fosse-verdon/sam-rockwell-bob-fosse"
-      ]
+      ],
+      "objective": "Rockwell war bei „Fosse/Verdon“ Darsteller und Executive Producer."
     }
   ]
 }

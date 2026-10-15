@@ -37,12 +37,12 @@
       ],
       "short": "Ihr zurückgezogenes gemeinsames Leben bildet die Ausgangssituation.",
       "context": "Red Miller (Nicolas Cage) und Mandy Bloom (Andrea Riseborough) leben gemeinsam zurückgezogen im Wald. Die Nähe des Paares wird vor der Gewalteskalation sichtbar. So erhält der spätere Racheweg einen konkreten Ausgangspunkt: Red verliert nicht bloß abstrakte Sicherheit, sondern eine gemeinsam aufgebaute Form von Alltag.",
-      "anchor": "Die spätere Rache beginnt beim Verlust eines gemeinsamen Rückzugsorts.",
       "interest": "Erklärt den emotionalen Ausgangspunkt der Handlung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die spätere Rache beginnt beim Verlust eines gemeinsamen Rückzugsorts."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Sein Begehren wird zum gewaltsamen Besitzanspruch.",
       "context": "Jeremiah Sand (Linus Roache) sieht Mandy (Andrea Riseborough) und lässt sie entführen. Seine Macht über Anhänger ermöglicht ihm, persönlichen Wunsch als Anspruch durchzusetzen. Die Bedrohung entsteht damit aus einem Herrschaftsverhältnis: Ein einzelner Mann kann andere zur Gewalt gegen eine Person bewegen, die ihm nichts schuldet.",
-      "anchor": "Jeremiahs Begehren wird durch die Sekte zum gewaltsamen Besitzanspruch.",
       "interest": "Erklärt die Entführung aus persönlichem Wunsch und organisierter Macht.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jeremiahs Begehren wird durch die Sekte zum gewaltsamen Besitzanspruch."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Ihr Lachen trifft seinen Anspruch auf Bewunderung.",
       "context": "Mandy (Andrea Riseborough) reagiert auf Jeremiahs (Linus Roache) Selbstdarstellung mit Lachen. Seine erwartete Bewunderung bleibt aus. Die Reaktion macht sichtbar, wie wenig seine behauptete Größe eine freie Begegnung aushält. Er beantwortet den Kontrollverlust nicht mit Selbstprüfung, sondern lässt seine Macht in Gewalt umschlagen.",
-      "anchor": "Mandys Lachen entzieht dem Sektenführer die verlangte Bewunderung.",
       "interest": "Erklärt die Verbindung zwischen gekränktem Selbstbild und Eskalation.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Mandys Lachen entzieht dem Sektenführer die verlangte Bewunderung."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Er fertigt seine markante Axt als Waffe.",
       "context": "Red (Nicolas Cage) schmiedet eine eigene Axt. Die Herstellung übersetzt seine Trauer in eine konkrete Vorbereitung auf Gewalt. Das Werkzeug ist zugleich Ausdruck seiner Entscheidung: Er organisiert keinen geregelten Ermittlungsweg, sondern formt sich ein Mittel, um die Täter persönlich zu verfolgen und zu bestrafen.",
-      "anchor": "Red schmiedet die Waffe für den selbst übernommenen Racheweg.",
       "interest": "Verbindet den sichtbaren Arbeitsvorgang mit seiner Entscheidung zur Vergeltung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Red schmiedet die Waffe für den selbst übernommenen Racheweg."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die Szene hält bei der Zerstörung seiner bisherigen Person inne.",
       "context": "Red (Nicolas Cage) trinkt, behandelt seine Verletzungen und schreit. Die lange Darstellung verhindert, dass sein Wechsel zum Rächer lediglich wie eine funktionale Handlungsvorbereitung erscheint. Der Körper zeigt eine Trauer, die nicht geordnet ausgesprochen werden kann. Die spätere Gewalt folgt auf einen sichtbaren Zusammenbruch.",
-      "anchor": "Vor der Rache steht Reds körperlich sichtbarer Zusammenbruch.",
       "interest": "Erklärt die dramaturgische Funktion der auffälligen Schauspielszene.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vor der Rache steht Reds körperlich sichtbarer Zusammenbruch."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die Erscheinung hält den Verlust in seinem Erleben gegenwärtig.",
       "context": "Red (Nicolas Cage) sieht Mandy (Andrea Riseborough) während der letzten Fahrt als Erscheinung. Die Bilder geben ihm keine bestätigte Rückkehr des gemeinsamen Alltags. Der Abschluss hält vielmehr seine innere Bindung an die Tote fest. Ausgeführte Vergeltung beseitigt damit den Verlust, der sie ausgelöst hat, nicht.",
-      "anchor": "Die Erscheinung begleitet Red; die Rache stellt das gemeinsame Leben nicht wieder her.",
       "interest": "Unterscheidet eine subjektive Schlussvision von einer bestätigten Wiederherstellung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Erscheinung begleitet Red; die Rache stellt das gemeinsame Leben nicht wieder her."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "2018 liegt 35 Jahre nach dem Handlungsjahr.",
       "context": "Mandy erschien 2018 und spielt 1983, also 35 Jahre früher. Die Festivalbeschreibung hält beide Zeitpunkte auseinander. Die Gestaltung greift fantastische und düstere Bildwelten auf, die zur erzählten Epoche passen. Das Erscheinungsjahr gehört damit zur späteren filmischen Wiederaufnahme dieser Atmosphäre, nicht zur Zeit des Paares.",
-      "anchor": "1983 die Handlung, 2018 der Film: ein Rückblick über 35 Jahre.",
       "interest": "Trennt Handlungszeit und Veröffentlichungszeit mit einem konkreten Abstand.",
       "sources": [
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1983 die Handlung, 2018 der Film: ein Rückblick über 35 Jahre."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Cosmatos führte Regie und entwickelte die Geschichte.",
       "context": "Panos Cosmatos führte Regie und schrieb das Drehbuch gemeinsam mit Aaron Stewart-Ahn. Das Festivalporträt beschreibt seine frühe Begeisterung für Heavy Metal, fantastische Kunst und Horror. Die stark stilisierten Bilder verbinden diese Interessen mit einem Rachegeschehen, dessen emotionale Ausgangslage der Verlust eines geliebten Menschen ist.",
-      "anchor": "Cosmatos verbindet Heavy Metal und fantastische Kunst mit Reds Verlustgeschichte.",
       "interest": "Gibt dem Regiecredit einen belegten persönlichen Gestaltungszusammenhang.",
       "sources": [
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Cosmatos verbindet Heavy Metal und fantastische Kunst mit Reds Verlustgeschichte."
     }
   ]
 }

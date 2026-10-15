@@ -46,13 +46,13 @@
       ],
       "short": "Der Arzt besucht einen medizinischen Kongress.",
       "context": "Richard Walker (Harrison Ford) erwartet eine geordnete berufliche Reise mit Sondra (Betty Buckley). Der Kongress gibt ihm einen nachvollziehbaren Grund für Paris, aber keine besonderen Ortskenntnisse. Nach dem Verschwinden seiner Frau muss er sich deshalb in einer Stadt bewegen, deren Sprache, Kontakte und unsichtbare Interessen ihm zunächst fremd sind.",
-      "anchor": "Die Kongressreise bringt den amerikanischen Arzt ohne besondere Stadtkenntnisse nach Paris.",
       "interest": "Der Reisegrund erklärt seine glaubhafte Orientierungslosigkeit.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Kongressreise bringt den amerikanischen Arzt ohne besondere Stadtkenntnisse nach Paris."
     },
     {
       "code": "L2",
@@ -71,13 +71,13 @@
       ],
       "short": "Der vertauschte Koffer enthält unbemerkt einen gefährlichen Schmuggelgegenstand.",
       "context": "Sondra Walker (Betty Buckley) kann ihren Koffer im Hotel nicht öffnen. Richard (Harrison Ford) erkennt, dass das Gepäck vertauscht wurde. Der unscheinbare Reisefehler verbindet das Paar mit Michelle (Emmanuelle Seigner), die für andere einen Gegenstand transportiert hat. Die Entführung ergibt sich somit aus einer Verwechslung, die zunächst harmlos wirkt.",
-      "anchor": "Der falsche Koffer bringt ein ahnungsloses Paar in einen Schmuggelkonflikt.",
       "interest": "Die Frage zeigt den konkreten Auslöser statt nur das Verschwinden.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der falsche Koffer bringt ein ahnungsloses Paar in einen Schmuggelkonflikt."
     },
     {
       "code": "M1",
@@ -96,13 +96,13 @@
       ],
       "short": "Das Krytron ist das umkämpfte elektronische Bauteil.",
       "context": "Michelle (Emmanuelle Seigner) kennt zunächst nicht die ganze Bedeutung ihrer Lieferung. Im zerbrochenen Souvenir steckt ein Krytron, das die verschiedenen Agentengruppen sichern wollen. Richard Walker (Harrison Ford) benötigt denselben Gegenstand als Tauschmittel für Sondra (Betty Buckley). Ein kleines technisches Objekt bündelt deshalb gegensätzliche Ziele: staatlichen Zugriff und persönliche Rettung.",
-      "anchor": "Das Souvenir verbirgt Waffentechnik und wird zum Tauschmittel für Sondra.",
       "interest": "Die Enthüllung erklärt die Interessen hinter der Entführung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Souvenir verbirgt Waffentechnik und wird zum Tauschmittel für Sondra."
     },
     {
       "code": "M2",
@@ -121,13 +121,13 @@
       ],
       "short": "Die Entführer wollen das Krytron gegen seine Frau austauschen.",
       "context": "Die amerikanische Botschaft erkennt nun den Wert des Krytrons, bietet aber keine hinreichende Sicherheit für Sondra Walker (Betty Buckley). Richard (Harrison Ford) behält es deshalb. Die Entscheidung zeigt den Konflikt zwischen dem institutionellen Interesse an der Technik und der konkreten Verantwortung, die er gegenüber seiner verschwundenen Frau empfindet.",
-      "anchor": "Walker behält das Krytron, weil seine Frau gegen dieses Objekt getauscht werden soll.",
       "interest": "Die Frage verfolgt die unterschiedlichen Prioritäten von Behörde und Betroffenem.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Walker behält das Krytron, weil seine Frau gegen dieses Objekt getauscht werden soll."
     },
     {
       "code": "S1",
@@ -146,13 +146,13 @@
       ],
       "short": "Die Übergabe geschieht bei der großen Pariser Statue auf der Île aux Cygnes.",
       "context": "Das Krytron war in einem kleinen Modell der Freiheitsstatue versteckt. Die letzte Übergabe findet neben der großen Pariser Nachbildung statt. Damit wiederholt der Film den Gegenstand als Schauplatz. Richard Walker (Harrison Ford) und Michelle (Emmanuelle Seigner) bewegen sich zwischen einem touristischen Souvenir und einer realen städtischen Landmarke derselben Form.",
-      "anchor": "Die Freiheitsstatue erscheint zuerst als Versteck und zuletzt als Übergabeort.",
       "interest": "Die visuelle Wiederholung verbindet Requisit und Schauplatz.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Freiheitsstatue erscheint zuerst als Versteck und zuletzt als Übergabeort."
     },
     {
       "code": "S2",
@@ -171,13 +171,13 @@
       ],
       "short": "Er entzieht den Agenten das Objekt, indem er es in den Fluss wirft.",
       "context": "Sondra (Betty Buckley) wird gerettet, doch Michelle (Emmanuelle Seigner) stirbt bei der Schießerei. Sie gibt Richard Walker (Harrison Ford) das Bauteil noch zurück. Er wirft es anschließend in die Seine. Die erfolgreiche Rettung endet deshalb nicht als ungetrübter Sieg: Die persönliche Hilfe der jungen Frau hat einen Preis, den die Agenten nicht verhindern wollten.",
-      "anchor": "Nach Michelles Tod beendet der Wurf in die Seine den Streit um das Objekt.",
       "interest": "Der Schluss verbindet Rettung, Verlust und eine bewusste Zurückweisung der Agenten.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Nach Michelles Tod beendet der Wurf in die Seine den Streit um das Objekt."
     },
     {
       "code": "Y",
@@ -196,13 +196,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1988.",
       "context": "Die Dreharbeiten zu Frantic begannen im April 1987 in Paris. Der fertige Film erschien 1988, im Folgejahr. Die Produktion nutzte reale Pariser Orte, darunter die Île aux Cygnes mit der Freiheitsstatue. Der Zeitanker verbindet das Veröffentlichungsjahr mit einer konkret in der Stadt hergestellten Geschichte über einen amerikanischen Besucher ohne sichere Orientierung.",
-      "anchor": "Pariser Drehbeginn 1987 → Veröffentlichung Frantic 1988: im Folgejahr.",
       "interest": "Die Produktionsfolge ordnet das Filmjahr und den realen Schauplatz gemeinsam ein.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Pariser Drehbeginn 1987 → Veröffentlichung Frantic 1988: im Folgejahr."
     },
     {
       "code": "D",
@@ -221,13 +221,13 @@
       ],
       "short": "Roman Polanski führte bei diesem Film Regie.",
       "context": "Roman Polanski inszenierte den Film und arbeitete mit Gérard Brach am Drehbuch. Der amerikanische Arzt Richard Walker (Harrison Ford) findet trotz Polizei und Botschaft zunächst keinen sicheren Zugang zur verschwundenen Frau. Die junge Michelle (Emmanuelle Seigner) kennt dagegen die Schattenräume der Stadt. Ihre Zusammenarbeit ersetzt schrittweise die zunächst erwartete institutionelle Hilfe.",
-      "anchor": "Polanski inszeniert die Suche eines ortsfremden Arztes im realen Paris.",
       "interest": "Der Regiehintergrund erklärt die an den Protagonisten gebundene Unsicherheit.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Polanski inszeniert die Suche eines ortsfremden Arztes im realen Paris."
     }
   ]
 }

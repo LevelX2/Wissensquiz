@@ -36,11 +36,11 @@
       ],
       "short": "Maurice arbeitet als Künstler und Spieluhrenmacher.",
       "context": "Maurice (Kevin Kline) fertigt in dieser Realverfilmung musikalische Spieluhren an. Sein Handwerk unterscheidet die konkrete Figur von anderen bekannten Fassungen des Märchens. Belle (Emma Watson) lebt mit einem Vater, dessen Gegenstände kleine bewegliche Welten zeigen. Die Tätigkeit verbindet technische Geschicklichkeit mit Erinnerung und Erzählung. Sie gehört zu ihrer vertrauten familiären Umgebung, bevor die Reise des Vaters die Begegnung mit dem verzauberten Schloss auslöst.",
-      "anchor": "Maurices kleine Musikwelten gehören zur Realverfilmung.",
       "interest": "Erfasst ein fassungsspezifisches, sichtbares Handwerk.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Maurices kleine Musikwelten gehören zur Realverfilmung."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Der Hofmusiker Cadenza ist in ein Cembalo verwandelt.",
       "context": "Cadenza (Stanley Tucci) gehört zu den verzauberten Bewohnern des Schlosses. Der Hofmusiker besitzt die Gestalt eines Cembalos und setzt seine musikalische Funktion dadurch auf ungewöhnliche Weise fort. Seine Frau Madame Garderobe (Audra McDonald) ist ein Kleiderschrank. Die zusätzlichen Figuren verleihen der Realverfilmung eigene Beziehungen innerhalb des Haushalts; die Gegenstände stehen nicht nur für Ausstattung, sondern für Menschen mit einer Vorgeschichte und miteinander verbundenen Leben.",
-      "anchor": "Der Musiker bleibt als Cembalo Teil des Schlossklangs.",
       "interest": "Erfasst eine neue Figur und deren konkreten Gegenstandsfluch.",
       "sources": [
         "film",
         "disney"
-      ]
+      ],
+      "objective": "Der Musiker bleibt als Cembalo Teil des Schlossklangs."
     },
     {
       "code": "M1",
@@ -83,11 +83,11 @@
       ],
       "short": "Das Buch bringt seine Benutzer magisch an einen gewählten Ort.",
       "context": "Das Biest (Dan Stevens) zeigt Belle (Emma Watson) ein besonderes Buch, mit dem man an einen gewünschten Ort reisen kann. Sie wählen Paris und gelangen zum früheren Zuhause ihrer Familie. Das Buch ist deshalb kein gewöhnliches Erinnerungsalbum: Es macht einen Ort unmittelbar zugänglich. Die Reise eröffnet Belle eine neue Sicht auf die Vergangenheit, die ihr Vater Maurice (Kevin Kline) lange nur schwer erklären konnte.",
-      "anchor": "Das Buch zeigt Vergangenheit nicht nur, es bringt Belle an ihren Ort.",
       "interest": "Erfasst ein neues magisches Reisemittel der Fassung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Buch zeigt Vergangenheit nicht nur, es bringt Belle an ihren Ort."
     },
     {
       "code": "M2",
@@ -106,11 +106,11 @@
       ],
       "short": "Gaston setzt Maurice gefesselt den Wölfen aus.",
       "context": "Maurice (Kevin Kline) verweigert Gaston (Luke Evans) die Zustimmung zu einer Heirat mit Belle (Emma Watson). Daraufhin lässt Gaston ihn im Wald gefesselt zurück und setzt ihn der Gefahr durch Wölfe aus. Agathe (Hattie Morahan) rettet den Vater. Die Szene zeigt ein Vorgehen, das über Gastons öffentlich gepflegtes Heldenbild hinausgeht: Der Widerstand eines Angehörigen wird nicht mit Überzeugung beantwortet, sondern gewaltsam beseitigt.",
-      "anchor": "Hinter dem Heldenbild steht die gewaltsame Aussetzung des Vaters.",
       "interest": "Erfasst einen konkreten fassungsspezifischen Angriff.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Hinter dem Heldenbild steht die gewaltsame Aussetzung des Vaters."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Belles Mutter starb an der Pest.",
       "context": "Belle (Emma Watson) besucht mit dem Biest (Dan Stevens) die frühere Familienwohnung in Paris. Eine zurückgelassene Seuchenmaske macht den Zusammenhang mit der Pest deutlich. Ihre Mutter (Zoë Rainey) starb, während Maurice (Kevin Kline) mit dem kleinen Kind fortging, um es zu schützen. Die Enthüllung verändert Belles Verständnis der väterlichen Zurückhaltung: Hinter dem Schweigen steht der Verlust eines Menschen und eine damals notwendige Rettungsentscheidung.",
-      "anchor": "Die Seuchenmaske erklärt den Verlust und die Flucht des Vaters.",
       "interest": "Erfasst eine neu erzählte Familiengeschichte der Realverfilmung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Seuchenmaske erklärt den Verlust und die Flucht des Vaters."
     },
     {
       "code": "S2",
@@ -153,13 +153,13 @@
       ],
       "short": "Agathe ist die Zauberin, die den Fluch verhängt hat.",
       "context": "Agathe (Hattie Morahan) wird im Dorf als unscheinbare Außenseiterin behandelt. Sie hilft Maurice (Kevin Kline), nachdem er im Wald zurückgelassen wurde, und erscheint später im Schloss. Dort wird ihre Identität als Zauberin hinter dem Fluch deutlich. Die Schlussenthüllung verbindet die scheinbar machtlose Frau mit der Kraft, die das gesamte Schloss verändert hat. Ihre Stellung im Dorf sagt somit wenig über ihre tatsächliche Macht aus.",
-      "anchor": "Die übersehene Dorfbewohnerin steht hinter dem Schlossfluch.",
       "interest": "Verbindet eine neue Nebenfigur mit der Schlussenthüllung.",
       "sources": [
         "film",
         "review"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die übersehene Dorfbewohnerin steht hinter dem Schlossfluch."
     },
     {
       "code": "Y",
@@ -178,12 +178,12 @@
       ],
       "short": "Die Realverfilmung wurde 2017 veröffentlicht.",
       "context": "Die Schöne und das Biest erschien als Realverfilmung 2017. Die Disney-Zeichentrickfassung stammt von 1991; zwischen den beiden Filmjahrgängen liegen 26 Jahre. Disney bezeichnet den späteren Film ausdrücklich als Neubearbeitung seines Animationsklassikers. Der gemeinsame Titel verdeckt dabei unterschiedliche Besetzungen und ergänzte Handlungsdetails. Der Jahresanker trennt diese beiden Veröffentlichungen, ohne sie mit der noch älteren Märchenverfilmung von Jean Cocteau gleichzusetzen.",
-      "anchor": "Disney-Zeichentrick 1991, Realverfilmung 2017: 26 Jahre.",
       "interest": "Trennt zwei gleichnamige Disney-Fassungen.",
       "sources": [
         "disney",
         "bfi"
-      ]
+      ],
+      "objective": "Disney-Zeichentrick 1991, Realverfilmung 2017: 26 Jahre."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "Die Realverfilmung inszenierte Bill Condon.",
       "context": "Bill Condon führte die Hauptregie der Realverfilmung mit Belle (Emma Watson) und dem Biest (Dan Stevens). Der Credit unterscheidet diese Veröffentlichung von den älteren Zeichentrick- und Spielfilmfassungen desselben Märchens. Die Inszenierung übernimmt bekannte Musicalelemente, ergänzt aber Figuren und Belles Familiengeschichte. Für das Regieziel zählt deshalb nicht allein der vertraute Titel, sondern die konkrete Fassung mit dieser Besetzung und ihren eigenen Erweiterungen.",
-      "anchor": "Bill Condon gehört zur Fassung mit Emma Watson und Dan Stevens.",
       "interest": "Ordnet den Regiecredit der richtigen Realverfilmung zu.",
       "sources": [
         "disney",
         "bfi"
-      ]
+      ],
+      "objective": "Bill Condon gehört zur Fassung mit Emma Watson und Dan Stevens."
     }
   ],
   "country_note": "BFI Statistical Yearbook 2018, Druck-/PDF-Seite 48, Tabelle 2, Zeile 1, nennt UK/USA unter Country of origin. Diese vollständig nachgelesene statistische Länderzuordnung wird übernommen. Das BFI-Filmarchiv, die zeitgenössische Besprechung und der Cache nennen abweichend nur USA. Der britische Anteil wird deshalb durch die BFI-Tabelle, nicht allein durch den Drehort begründet."

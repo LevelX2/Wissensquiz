@@ -34,11 +34,11 @@
       ],
       "short": "Jake Cutter ist Texas Ranger.",
       "context": "Jake Cutter (John Wayne) gehört zu den Texas Rangers und verfolgt sowohl einen flüchtigen Mann als auch ein Schmugglernetz. Seine amtliche Rolle verbindet die persönlichen Begegnungen mit einer größeren Aufgabe an der Grenze. Er muss nicht nur einen Verdächtigen festhalten, sondern Informationen über eine verborgene Gemeinschaft gewinnen. Dafür genügt offenes Auftreten als Gesetzeshüter nicht; die Ermittlungen führen ihn später in eine angenommene fremde Identität.",
-      "anchor": "Der Ranger muss von offener Verfolgung zu verdeckter Ermittlung wechseln.",
       "interest": "Verankert die berufliche Ausgangsrolle.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Ranger muss von offener Verfolgung zu verdeckter Ermittlung wechseln."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Regret flieht nach einem tödlichen Duell.",
       "context": "Paul Regret (Stuart Whitman) tötet in New Orleans einen Mann bei einem Duell. Er erklärt, dass er den Gegner nur verwunden wollte, dieser aber im entscheidenden Moment auswich. Weil der Vater des Getöteten seine Hinrichtung verlangen wird, flieht er nach Texas. Jake Cutter (John Wayne) hält ihn dort fest. Die anfängliche Beziehung ist damit die eines Verfolgers zu einem Gefangenen, bevor gemeinsame Gefahren sie verändern.",
-      "anchor": "Ein tödlich ausgegangenes Duell führt Regret in Cutters Gewahrsam.",
       "interest": "Erklärt die konkrete Ursache seiner Flucht.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein tödlich ausgegangenes Duell führt Regret in Cutters Gewahrsam."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Die unbekannte Person des Händlers ermöglicht den Identitätswechsel.",
       "context": "Die Rangers nehmen einen Waffenhändler fest, der eine Ladung für die Schmuggler transportiert. Jake Cutter (John Wayne) übernimmt dessen Rolle, weil die Abnehmer den echten Mann noch nicht gesehen haben. Er nutzt damit eine konkrete Lücke in ihrem Wissen. Die Tarnung ist nicht nur eine Verkleidung, sondern eine glaubhafte Lieferbeziehung: Name, Ware und vereinbarter Treffpunkt verschaffen ihm den Zugang, den sein eigener amtlicher Auftrag verhindern würde.",
-      "anchor": "Eine unbekannte Lieferantenperson öffnet den Weg zur Tarnidentität.",
       "interest": "Erfasst die Logik des verdeckten Zugangs.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Eine unbekannte Lieferantenperson öffnet den Weg zur Tarnidentität."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Regret kehrt mit Ranger-Verstärkung zurück.",
       "context": "Während eines Überfalls auf eine Ranch reitet Paul Regret (Stuart Whitman) davon. Jake Cutter (John Wayne) könnte sein Verhalten für eine erneute Flucht halten, doch Regret bringt eine Ranger-Einheit zurück, die den Angriff abwehrt. Erst die Rückkehr macht seinen Beweggrund sichtbar. Die Gesetzeshüter unterstützen ihn anschließend gegen die drohende Auslieferung. Das neue Vertrauen entsteht aus einer überprüfbaren Handlung unter Gefahr, nicht aus einer bloßen Versicherung guter Absichten.",
-      "anchor": "Die scheinbare Flucht erweist sich als Rettungsaktion.",
       "interest": "Unterscheidet äußeren Eindruck und tatsächliche Absicht.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die scheinbare Flucht erweist sich als Rettungsaktion."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Pilar erreicht bei ihrem Vater die Freilassung.",
       "context": "Im verborgenen Lager werden Jake Cutter (John Wayne) und Paul Regret (Stuart Whitman) zunächst gefangen gehalten. Pilar Graile (Ina Balin) setzt sich für sie ein; ihr Vater Graile (Nehemiah Persoff) führt die Gemeinschaft. Ihre persönliche Beziehung zu Regret eröffnet den Gefangenen damit einen Zugang innerhalb der gegnerischen Machtstruktur. Die Freilassung beendet die Gefahr jedoch nicht: Pilar erkennt Cutters wahre Rolle, während ihr Vater die Männer zunächst willkommen heißt.",
-      "anchor": "Pilars Beziehung zur Lagerführung verändert die Behandlung der Gefangenen.",
       "interest": "Verbindet persönliche Beziehung und Macht im Lager.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Pilars Beziehung zur Lagerführung verändert die Behandlung der Gefangenen."
     },
     {
       "code": "S2",
@@ -149,12 +149,12 @@
       ],
       "short": "Der Weg nach Mexiko löst in der Filmhandlung die Auslieferungsgefahr.",
       "context": "Paul Regret (Stuart Whitman) und Pilar Graile (Ina Balin) verlassen am Ende gemeinsam Texas. In der Konstruktion der Filmgeschichte schützt der Weg nach Mexiko vor der weiter drohenden Auslieferung nach Louisiana. Jake Cutter (John Wayne) kehrt dagegen zu den Rangers zurück. Der Schluss trennt damit die neue gemeinsame Zukunft des Paares vom amtlichen Weg seines bisherigen Verfolgers, nachdem beide Männer zeitweise dasselbe gefährliche Ziel verfolgt haben.",
-      "anchor": "Das Paar zieht nach Mexiko, der Ranger kehrt in den Dienst zurück.",
       "interest": "Fragt den filmischen Zweck der abschließenden Ortswahl.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Paar zieht nach Mexiko, der Ranger kehrt in den Dienst zurück."
     },
     {
       "code": "Y",
@@ -173,11 +173,11 @@
       ],
       "short": "Der erste New Yorker Start erfolgte 1961.",
       "context": "Paul I. Wellmans Roman The Comancheros erschien 1952. Die Filmfassung folgte 1961, neun Jahre später. AFI zeichnet mehrere Wechsel während der Entwicklung nach, bevor die Produktion mit John Wayne und Stuart Whitman entstand. Der Zeitanker trennt somit die Entstehung des literarischen Stoffes von der fertigen Verfilmung. Ein früher vorgesehener Hauptdarsteller oder Regisseur gehört zu dieser Entwicklungsgeschichte und bestimmt nicht die Identität der veröffentlichten Fassung.",
-      "anchor": "1952 der Roman, 1961 der Film: neun Jahre bis zur Verfilmung.",
       "interest": "Verknüpft Erstjahr und konkrete Vorlage.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1952 der Roman, 1961 der Film: neun Jahre bis zur Verfilmung."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "Michael Curtiz trägt den veröffentlichten Hauptregiecredit.",
       "context": "Michael Curtiz ist nach AFI der veröffentlichte Hauptregisseur. Wegen seiner Erkrankung übernahm John Wayne erhebliche Regiearbeit, die TCM ausdrücklich als uncredited beschreibt. Diese tatsächliche Mitarbeit wird von der offiziellen Namensnennung getrennt. George Sherman produzierte; Douglas Heyes war in einer früheren Entwicklungsphase vorgesehen. Der genaue Credit verlangt deshalb, zwischen Planung, ausgeführter Arbeit und der Regienennung der veröffentlichten Fassung zu unterscheiden.",
-      "anchor": "Curtiz ist der Hauptcredit; Waynes tatsächliche Regiehilfe bleibt uncredited.",
       "interest": "Klärt den belegten Unterschied zwischen Mitarbeit und offiziellem Credit.",
       "sources": [
         "afi",
         "tcm"
-      ]
+      ],
+      "objective": "Curtiz ist der Hauptcredit; Waynes tatsächliche Regiehilfe bleibt uncredited."
     }
   ]
 }

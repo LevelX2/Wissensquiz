@@ -34,11 +34,11 @@
       ],
       "short": "Bourne trifft Simon Ross im Bahnhof Waterloo.",
       "context": "Simon Ross (Paddy Considine) hat über die verdeckten CIA-Programme recherchiert und wird dadurch zum Ziel. Jason Bourne (Matt Damon) versucht, ihn im belebten Bahnhof Waterloo durch unauffällige Anweisungen vor den Verfolgern zu schützen. Die Menge bietet dabei Deckung und erschwert die Übersicht. Ross verliert dennoch die Nerven. Die Szene zeigt, wie rasch ein öffentlicher Alltagsort zum gefährlichen Raum einer verdeckten Operation werden kann.",
-      "anchor": "Waterloo verbindet einen gewöhnlichen Reiseort mit einer heimlichen Jagd.",
       "interest": "Der zentrale Schauplatz wird über die konkrete Begegnung erschlossen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Waterloo verbindet einen gewöhnlichen Reiseort mit einer heimlichen Jagd."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Nicky hilft Bourne bei der Flucht aus Madrid.",
       "context": "Nicky Parsons (Julia Stiles) arbeitet in Madrid für die CIA, als Jason Bourne (Matt Damon) dort nach einer Informationsquelle sucht. Sie teilt ihr Wissen mit ihm und unterstützt seine Flucht. Damit überschreitet sie die Grenze zwischen institutioneller Loyalität und persönlicher Hilfe. Diese Entscheidung hat Folgen: Ihre eigenen Zugriffe auf Informationen werden überwacht, und der Dienst stuft sie anschließend ebenfalls als Ziel ein.",
-      "anchor": "Aus einer Kontaktperson innerhalb des Dienstes wird eine Verbündete außerhalb seiner Befehle.",
       "interest": "Nickys Entscheidung bildet ein anderes Ziel als die Suche nach Bournes Vergangenheit.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Aus einer Kontaktperson innerhalb des Dienstes wird eine Verbündete außerhalb seiner Befehle."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Das Nachfolgeprogramm heißt Blackbriar.",
       "context": "Jason Bourne (Matt Damon) sucht nach den Ursprüngen seiner Ausbildung, während Blackbriar die verdeckten Operationen des Dienstes fortführt. Noah Vosen (David Strathairn) behandelt mögliche Zeugen als Sicherheitsrisiken und lässt sie ausschalten. Das Problem endet daher nicht mit einem alten Programmnamen oder einem einzelnen Verantwortlichen. Der Film zeigt eine Organisation, die ihre Methoden unter neuer Bezeichnung weiterführt und deren aktuelle Tätigkeit aufgedeckt werden muss.",
-      "anchor": "Blackbriar ist die Fortsetzung der Struktur unter einem neuen Namen.",
       "interest": "Die Antwort unterscheidet Programme der Filmreihe und erklärt ihre Funktion.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Blackbriar ist die Fortsetzung der Struktur unter einem neuen Namen."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Bourne nutzt die aufgezeichnete Stimme Vosens.",
       "context": "Jason Bourne (Matt Damon) bringt Noah Vosen (David Strathairn) dazu, das Büro zu verlassen, und ruft ihn von dort aus an. Die Aufnahme des Gesprächs wird zugleich zu einem Zugangswerkzeug: Bourne verwendet Vosens Stimme für die Sicherung des Tresors. So gewinnt er die vertraulichen Blackbriar-Unterlagen. Der Einbruch beruht damit auf der Verbindung von Täuschung, Telefontechnik und dem ausgenutzten Vertrauen in ein persönliches Erkennungsmerkmal.",
-      "anchor": "Das Gespräch liefert den Schlüssel zu den versteckten Unterlagen.",
       "interest": "Eine konkrete Zugangsmethode wird von anderen plausiblen biometrischen Sicherungen getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Gespräch liefert den Schlüssel zu den versteckten Unterlagen."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Bourne hatte sich freiwillig für Treadstone entschieden.",
       "context": "Dr. Albert Hirsch (Albert Finney) konfrontiert Jason Bourne (Matt Damon) mit einer unbequemen Erinnerung. Bourne wurde zum Attentäter geformt, hatte der Teilnahme jedoch selbst zugestimmt und einen unbekannten Mann getötet, um seine Bereitschaft zu beweisen. Der Fund seiner ursprünglichen Identität bietet deshalb keine einfache Entlastung. Er muss sich auch mit eigener Mitwirkung auseinandersetzen, bevor er die frühere Rolle hinter sich lassen kann.",
-      "anchor": "Die Erinnerung bringt neben Manipulation auch eigene Verantwortung ans Licht.",
       "interest": "Der Schluss wird über eine zentrale moralische Enthüllung erschlossen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Erinnerung bringt neben Manipulation auch eigene Verantwortung ans Licht."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Paz erinnert sich daran, dass Bourne ihn verschont hat.",
       "context": "Jason Bourne (Matt Damon) könnte Paz (Édgar Ramírez) nach ihrem Zusammenstoß töten, tut es aber nicht. Später fragt Paz nach dem Grund und lässt auf dem Dach seine Waffe sinken. Bournes Verhalten unterbricht damit für einen Moment die eingeübte Logik von Auftrag und Tötung. Der frühere Attentäter wirkt nicht allein durch überlegene Kampffähigkeit, sondern auch durch eine Entscheidung, die sein Gegenüber zum Nachdenken bringt.",
-      "anchor": "Die verschonte Begegnung verändert die letzte Konfrontation.",
       "interest": "Ein vorheriger Handlungsschritt wird mit seiner Wirkung auf den Schluss verbunden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die verschonte Begegnung verändert die letzte Konfrontation."
     },
     {
       "code": "Y",
@@ -172,14 +172,14 @@
       ],
       "short": "2004 Die Bourne Verschwörung, 2007 Das Bourne Ultimatum: drei Jahre Abstand.",
       "context": "Die Bourne Verschwörung erschien 2004; drei Jahre später folgte 2007 Das Bourne Ultimatum. Beide Filme wurden von Paul Greengrass inszeniert und führen Jason Bournes (Matt Damon) Suche durch eine Geschichte institutioneller Vertuschung. Der dritte Teil greift sogar Ereignisse des zweiten erneut auf, bevor er die Handlung weiterführt. Der Abstand der Kinoveröffentlichungen ist daher von der teilweise überlappenden erzählten Zeit zu unterscheiden.",
-      "anchor": "2004 Vorgänger, 2007 dritter Teil: drei Jahre Abstand.",
       "interest": "Der konkrete Vorgänger verankert das Jahr und erklärt die erzählerische Verbindung.",
       "sources": [
         "archiv",
         "vorgaenger",
         "premiere",
         "handlung"
-      ]
+      ],
+      "objective": "2004 Vorgänger, 2007 dritter Teil: drei Jahre Abstand."
     },
     {
       "code": "D",
@@ -198,11 +198,11 @@
       ],
       "short": "Paul Greengrass inszenierte den dritten Bourne-Kinofilm.",
       "context": "Paul Greengrass setzt die Arbeit mit Jason Bourne (Matt Damon) im dritten Teil fort. Das BFI bestätigt den Regiecredit und beschreibt die nervöse Handkamera, die schnelle Montage und das Misstrauen gegenüber Überwachung als zusammengehörige Gestaltung. Die drei genannten Drehbuchautoren sind Tony Gilroy, Scott Z. Burns und George Nolfi. Ihr Beitrag ist von Greengrass’ Verantwortung für die filmische Inszenierung zu unterscheiden.",
-      "anchor": "Greengrass verbindet die Verfolgung mit einem Stil permanenter Unruhe.",
       "interest": "Der konkrete Filmcredit wird von anderen Regisseuren der Reihe getrennt.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Greengrass verbindet die Verfolgung mit einem Stil permanenter Unruhe."
     }
   ]
 }

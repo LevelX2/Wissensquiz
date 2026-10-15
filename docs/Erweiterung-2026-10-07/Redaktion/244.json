@@ -46,13 +46,13 @@
       ],
       "short": "Die Bombe explodiert nach der Fahrt über die mexikanisch-amerikanische Grenze.",
       "context": "Miguel Vargas (Charlton Heston) und Susan (Janet Leigh) gehen durch die Grenzstadt, während ein Wagen mit versteckter Bombe neben ihnen unterwegs ist. Die Explosion betrifft anschließend die Zuständigkeit beider Länder. Der Schauplatz verbindet deshalb schon vor der eigentlichen Ermittlung räumliche Nähe mit institutioneller Trennung.",
-      "anchor": "Der Grenzanschlag verbindet zwei Länder und zwei Ermittlungszuständigkeiten.",
       "interest": "Der Ort erklärt den späteren Konflikt zwischen den Ermittlern.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Grenzanschlag verbindet zwei Länder und zwei Ermittlungszuständigkeiten."
     },
     {
       "code": "L2",
@@ -71,13 +71,13 @@
       ],
       "short": "Quinlan führt die amerikanischen Ermittlungen und gerät mit Vargas in Konflikt.",
       "context": "Hank Quinlan (Orson Welles) gilt als erfahrener Ermittler mit sicherem Instinkt. Miguel Vargas (Charlton Heston) beobachtet jedoch, wie aus einer Vermutung vermeintlich eindeutige Beweise werden. Quinlans lokale Autorität verschafft ihm dabei Unterstützung, die Vargas erst durch eigene Beobachtungen und die Prüfung früherer Fälle infrage stellen kann.",
-      "anchor": "Quinlans Polizeimacht schützt seine Ermittlung zunächst vor Zweifel.",
       "interest": "Die berufliche Stellung erklärt das Gewicht seines späteren Fehlverhaltens.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Quinlans Polizeimacht schützt seine Ermittlung zunächst vor Zweifel."
     },
     {
       "code": "M1",
@@ -96,13 +96,13 @@
       ],
       "short": "Vargas hatte die leere Schachtel selbst gesehen, bevor die Stangen darin auftauchen.",
       "context": "Vargas (Charlton Heston) stößt im Badezimmer des Verdächtigen auf eine leere Schuhschachtel. Später präsentiert die Polizei Dynamit aus genau dieser Schachtel. Die zeitliche Abfolge macht ihn zum direkten Zeugen eines Widerspruchs. Sein Zweifel beruht damit nicht bloß auf Konkurrenz mit Quinlan (Orson Welles), sondern auf einer eigenen überprüfbaren Beobachtung.",
-      "anchor": "Die zuvor leere Schachtel widerspricht dem späteren Dynamitfund.",
       "interest": "Die Spur erklärt den begründeten Verdacht auf Beweisfälschung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die zuvor leere Schachtel widerspricht dem späteren Dynamitfund."
     },
     {
       "code": "M2",
@@ -121,13 +121,13 @@
       ],
       "short": "Der charakteristische Stock verbindet Quinlan mit Grandis Ermordung.",
       "context": "Pete Menzies (Joseph Calleia) hält lange zu Hank Quinlan (Orson Welles), der ihm früher das Leben gerettet hatte. Der Gehstock am Mordort lässt sich jedoch nicht als fremder Verdacht abtun. Ein persönlicher Gegenstand durchbricht die gewachsene Loyalität. Erst dadurch wird Menzies bereit, dem Kollegen mit einer verdeckten Aufnahme gegenüberzutreten.",
-      "anchor": "Quinlans Gehstock bricht Menzies Vertrauen in den langjährigen Partner.",
       "interest": "Der Gegenstand verbindet Tatwissen mit einer Veränderung persönlicher Loyalität.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Quinlans Gehstock bricht Menzies Vertrauen in den langjährigen Partner."
     },
     {
       "code": "S1",
@@ -146,13 +146,13 @@
       ],
       "short": "Der zurückhörbare Ton verrät die technische Überwachung.",
       "context": "Menzies (Joseph Calleia) trägt das Mikrofon, während Vargas (Charlton Heston) mit dem Empfänger folgt. Der räumliche Abstand reicht schließlich nicht mehr aus, um den wiedergegebenen Ton zu verbergen. Quinlan (Orson Welles) erkennt die Übertragung und greift an. Die Beweisgewinnung scheitert damit nicht an einem Geständnis, sondern an ihrer hörbaren technischen Durchführung.",
-      "anchor": "Das Echo der eigenen Stimme verrät die heimliche Aufnahme.",
       "interest": "Die Frage erklärt die Verbindung zwischen Tonraum und dramatischer Eskalation.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Echo der eigenen Stimme verrät die heimliche Aufnahme."
     },
     {
       "code": "S2",
@@ -171,13 +171,13 @@
       ],
       "short": "Der Verdächtige ist tatsächlich schuldig, obwohl Quinlan Beweise gefälscht hat.",
       "context": "Nach Quinlans (Orson Welles) Tod erfährt man vom Geständnis des Verdächtigen. Sein Instinkt hatte also zur richtigen Person geführt, seine Beweismethode blieb trotzdem gefälscht. Die Auflösung trennt Ergebnis und Verfahren: Tatsächliche Schuld kann eine erfundene Spur nicht nachträglich wahr machen. Gerade diese Verbindung verhindert eine einfache Entlastung des korrupten Ermittlers.",
-      "anchor": "Richtiger Verdacht und gefälschte Beweise können zugleich bestehen.",
       "interest": "Das Ende erklärt, weshalb ein zutreffendes Ergebnis das Verfahren nicht rechtfertigt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Richtiger Verdacht und gefälschte Beweise können zugleich bestehen."
     },
     {
       "code": "Y",
@@ -196,13 +196,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1958.",
       "context": "Der Film wurde 1958 veröffentlicht. Vierzig Jahre später entstand 1998 eine neue Montage nach Orson Welles’ umfangreichem Memo von 1957. Walter Murch und weitere Beteiligte versuchten damit, die ursprünglichen Schnitt- und Tonvorstellungen stärker umzusetzen. Die zeitliche Verbindung erklärt, weshalb mehrere bekannte Fassungen existieren, während das erste Filmjahr weiterhin 1958 bleibt.",
-      "anchor": "Erstveröffentlichung 1958 → Memo-Neumontage 1998: vierzig Jahre später.",
       "interest": "Der Zeitanker unterscheidet das erste Filmjahr von der späteren Bearbeitung seines Materials.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Erstveröffentlichung 1958 → Memo-Neumontage 1998: vierzig Jahre später."
     },
     {
       "code": "D",
@@ -221,13 +221,13 @@
       ],
       "short": "Orson Welles und Harry Keller führten bei diesem Film Regie.",
       "context": "Orson Welles schrieb und inszenierte die Hauptproduktion und spielte Hank Quinlan. Das Studio ließ anschließend Harry Keller zusätzliche Sequenzen drehen. Welles’ Regiecredit blieb allein sichtbar, die tatsächliche Herstellung enthält aber beide Regieleistungen. Die spätere Neumontage durch Walter Murch von 1998 betrifft Schnitt und Ton; sie macht Murch nicht zum Regisseur der gedrehten Szenen.",
-      "anchor": "Welles: Hauptregie und Quinlan; Keller: zusätzliche Studiosequenzen ohne Hauptcredit.",
       "interest": "Die vollständige Zuordnung erklärt die unterschiedlichen Verantwortungen hinter den Fassungen.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Welles: Hauptregie und Quinlan; Keller: zusätzliche Studiosequenzen ohne Hauptcredit."
     }
   ],
   "category": "Classics",

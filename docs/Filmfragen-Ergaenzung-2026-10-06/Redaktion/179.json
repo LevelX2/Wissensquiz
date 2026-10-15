@@ -37,12 +37,12 @@
       ],
       "short": "Donna tritt als Stand-up-Komikerin auf.",
       "context": "Donna tritt als Stand-up-Komikerin auf. Persönliche Erfahrungen sind ihr Material; als ihr Alltag aus dem Gleichgewicht gerät, muss sie den Abstand zwischen öffentlicher Offenheit und privater Verletzlichkeit neu bestimmen.",
-      "anchor": "Donna verarbeitet persönliche Erlebnisse auf der Comedybühne.",
       "interest": "Donna verarbeitet persönliche Erlebnisse auf der Comedybühne.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Donna verarbeitet persönliche Erlebnisse auf der Comedybühne."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Donna (Jenny Slate) wird nach der Nacht mit Max schwanger.",
       "context": "Donna (Jenny Slate) wird nach der Nacht mit Max schwanger. Die unerwünschte Schwangerschaft verschärft ihre berufliche und emotionale Unsicherheit; der Film behandelt ihre Entscheidung als konkreten Teil des Erwachsenwerdens.",
-      "anchor": "Die neue Begegnung führt zu einer ungewollten Schwangerschaft.",
       "interest": "Die neue Begegnung führt zu einer ungewollten Schwangerschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die neue Begegnung führt zu einer ungewollten Schwangerschaft."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Donna wählt den Valentinstag, weil als anderer Termin der Geburtstag ihrer Mutter angeboten wird.",
       "context": "Donna wählt den Valentinstag, weil als anderer Termin der Geburtstag ihrer Mutter angeboten wird. Ein romantisch aufgeladener Kalendertag bekommt dadurch eine sehr persönliche und weniger erwartbare Bedeutung.",
-      "anchor": "Der Valentinstag erhält eine unerwartete persönliche Funktion.",
       "interest": "Der Valentinstag erhält eine unerwartete persönliche Funktion.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Valentinstag erhält eine unerwartete persönliche Funktion."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Donnas Mutter Nancy (Polly Draper) war Max’ Professorin.",
       "context": "Donnas Mutter Nancy (Polly Draper) war Max’ Professorin. Donna (Jenny Slate) begegnet ihm deshalb unerwartet im familiären Umfeld; ihr vermeintlich getrenntes Liebes- und Familienleben überschneidet sich konkret.",
-      "anchor": "Ein früheres Hochschulverhältnis bringt Max ins Familienleben.",
       "interest": "Ein früheres Hochschulverhältnis bringt Max ins Familienleben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein früheres Hochschulverhältnis bringt Max ins Familienleben."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Nancy erzählt Donna (Jenny Slate), dass sie vor ihrer Geburt selbst einen Schwangerschaftsabbruch hatte.",
       "context": "Nancy erzählt Donna (Jenny Slate), dass sie vor ihrer Geburt selbst einen Schwangerschaftsabbruch hatte. Diese gemeinsame Erfahrung ersetzt Verurteilung durch Verständnis und gibt Donna eine Unterstützung, die sie zunächst nicht erwartet hatte.",
-      "anchor": "Eine bisher unbekannte Erfahrung verbindet Mutter und Tochter.",
       "interest": "Eine bisher unbekannte Erfahrung verbindet Mutter und Tochter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine bisher unbekannte Erfahrung verbindet Mutter und Tochter."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Max bietet Donna (Jenny Slate) Begleitung beim Termin an und unterstützt ihre Entscheidung.",
       "context": "Max bietet Donna (Jenny Slate) Begleitung beim Termin an und unterstützt ihre Entscheidung. Nach dem Eingriff verbringen sie ruhige Zeit miteinander; die mögliche Romanze beruht so auf angenommenem Beistand statt auf einer erzwungenen Lösung.",
-      "anchor": "Max bietet Unterstützung statt Kontrolle.",
       "interest": "Max bietet Unterstützung statt Kontrolle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Max bietet Unterstützung statt Kontrolle."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2014 wurde der Langfilm bei Sundance gezeigt.",
       "context": "2014 wurde der Langfilm bei Sundance gezeigt. Er erweitert einen gleichnamigen Kurzfilm von 2009; fünf Jahre liegen zwischen beiden Fassungen. Jenny Slates Stand-up-Spiel verbindet die intime Ausgangslage mit einer Komödie, die den Schwangerschaftsabbruch offen behandelt.",
-      "anchor": "Kurzfilm 2009, Langfilm 2014: Fünf Jahre später wächst die Ausgangsidee zur abendfüllenden Komödie.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kurzfilm 2009, Langfilm 2014: Fünf Jahre später wächst die Ausgangsidee zur abendfüllenden Komödie."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm.",
       "context": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm. Jenny Slate spielt die Komikerin Donna, Jake Lacy Max. Die neue Beziehung wird nicht als Ersatz für Donnas Entscheidung erzählt, sondern als mögliche Unterstützung innerhalb ihres eigenen Lebenswegs.",
-      "anchor": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm.",
       "interest": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm.",
       "sources": [
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Gillian Robespierre schrieb und inszenierte den Langfilm nach dem früheren Kurzfilm."
     }
   ]
 }

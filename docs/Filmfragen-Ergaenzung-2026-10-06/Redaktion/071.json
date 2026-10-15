@@ -36,13 +36,13 @@
       ],
       "short": "Will (Billy Crudup) hält Edwards Geschichten für Lügen.",
       "context": "Will (Billy Crudup) hält Edwards Geschichten für Lügen. Edward (Albert Finney) erzählt sein Leben weiterhin fantastisch; der Sohn sucht hinter den Übertreibungen einen Zugang zu seinem wirklichen Vater.",
-      "anchor": "Der Streit gilt dem Verhältnis von Lebensgeschichte und Wahrheit.",
       "interest": "Der Streit gilt dem Verhältnis von Lebensgeschichte und Wahrheit.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Streit gilt dem Verhältnis von Lebensgeschichte und Wahrheit."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Edward (Albert Finney) ist an Krebs erkrankt.",
       "context": "Edward (Albert Finney) ist an Krebs erkrankt. Will (Billy Crudup) und seine Frau Joséphine (Marion Cotillard) kommen nach Alabama; die begrenzte gemeinsame Zeit verändert die Auseinandersetzung über die alten Geschichten.",
-      "anchor": "Die schwere Krankheit macht Verständigung dringlich.",
       "interest": "Die schwere Krankheit macht Verständigung dringlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die schwere Krankheit macht Verständigung dringlich."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Amos Calloway (Danny DeVito) verrät monatlich ein Detail.",
       "context": "Amos Calloway (Danny DeVito) verrät monatlich ein Detail. Edwards Arbeit im Zirkus wird damit an ein langsames Versprechen gebunden, statt ihm die gesuchte Frau sofort zugänglich zu machen.",
-      "anchor": "Die Zirkusarbeit bezahlt sich zunächst in einzelnen Informationen.",
       "interest": "Die Zirkusarbeit bezahlt sich zunächst in einzelnen Informationen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Zirkusarbeit bezahlt sich zunächst in einzelnen Informationen."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Edward rettete Spectre vor dem Ruin.",
       "context": "Edward (Albert Finney) rettete Spectre vor dem Ruin. Jennys Bericht gibt einem märchenhaft erzählten Ort einen überprüfbaren Kern; Will (Billy Crudup) entdeckt damit Handlungen seines Vaters hinter dessen Selbstinszenierung.",
-      "anchor": "Hinter der Spectre-Geschichte liegt eine tatsächliche Hilfeleistung.",
       "interest": "Hinter der Spectre-Geschichte liegt eine tatsächliche Hilfeleistung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Hinter der Spectre-Geschichte liegt eine tatsächliche Hilfeleistung."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Will erzählt Edwards (Albert Finney) fantastisches Ende.",
       "context": "Will (Billy Crudup) erzählt Edwards (Albert Finney) fantastisches Ende. Der zuvor ablehnende Sohn übernimmt die erzählerische Form; die Geschichte erlaubt ihnen eine Verständigung, die bloße Tatsachenprüfung nicht erreicht hatte.",
-      "anchor": "Will wird beim Abschied selbst zum Erzähler.",
       "interest": "Will wird beim Abschied selbst zum Erzähler.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Will wird beim Abschied selbst zum Erzähler."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Menschen aus Edwards Geschichten erscheinen wirklich.",
       "context": "Menschen aus Edwards Geschichten erscheinen wirklich. Will (Billy Crudup) erkennt zugleich die Übertreibungen; Wahrheit und Ausschmückung stehen damit nicht mehr als vollständig unvereinbare Möglichkeiten nebeneinander.",
-      "anchor": "Die Beerdigung zeigt die realen Menschen hinter den Übertreibungen.",
       "interest": "Die Beerdigung zeigt die realen Menschen hinter den Übertreibungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Beerdigung zeigt die realen Menschen hinter den Übertreibungen."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film wurde 2003 erstmals veröffentlicht.",
       "context": "2003 wurde der Film erstmals gezeigt. Daniel Wallaces Roman erschien 1998, fünf Jahre früher. Der breite Kinostart 2004 darf nicht an die Stelle der Dezemberpremiere treten.",
-      "anchor": "Wallaces Roman von 1998 wurde fünf Jahre später, 2003, erstmals als Film gezeigt.",
       "interest": "Wallaces Roman von 1998 wurde fünf Jahre später, 2003, erstmals als Film gezeigt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wallaces Roman von 1998 wurde fünf Jahre später, 2003, erstmals als Film gezeigt."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Regie: Tim Burton.",
       "context": "Burton übernahm nach Steven Spielbergs Ausscheiden. Die Vater-Sohn-Versöhnung hatte für ihn nach dem Tod seines eigenen Vaters besondere Bedeutung; John August formte die episodische Vorlage zum Drehbuch.",
-      "anchor": "Burton übernahm nach Steven Spielbergs Ausscheiden.",
       "interest": "Burton übernahm nach Steven Spielbergs Ausscheiden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Burton übernahm nach Steven Spielbergs Ausscheiden."
     }
   ]
 }

@@ -35,14 +35,14 @@
       ],
       "short": "Victoria wird zwischen ihrer Tanzkarriere und ihrer Beziehung zerrieben.",
       "context": "Victoria Page (Moira Shearer) liebt den Komponisten Julian Craster (Marius Goring). Der Impresario Boris Lermontov (Anton Walbrook) verlangt vollständige Hingabe an das Ballett. Beide Männer machen ihre Bindungen schließlich zu konkurrierenden Forderungen an die Tänzerin.",
-      "anchor": "Victorias Tanz und ihre Liebe werden von anderen zur Entweder-oder-Frage gemacht.",
       "interest": "Victorias Tanz und ihre Liebe werden von anderen zur Entweder-oder-Frage gemacht.",
       "sources": [
         "handlung",
         "criterion",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Victorias Tanz und ihre Liebe werden von anderen zur Entweder-oder-Frage gemacht."
     },
     {
       "code": "L2",
@@ -61,13 +61,13 @@
       ],
       "short": "Julian ist ein Komponist.",
       "context": "Julian Craster (Marius Goring) erkennt zu Beginn seine Musik in der Arbeit seines Professors wieder. Lermontov (Anton Walbrook) stellt ihn ein, und er komponiert das neue Ballett. Seine eigene Laufbahn entwickelt sich später zur Oper, während Victorias Tanzweg an die Kompanie gebunden bleibt.",
-      "anchor": "Julians Musik trägt zunächst Victorias Ballett, später seine eigene Oper.",
       "interest": "Julians Musik trägt zunächst Victorias Ballett, später seine eigene Oper.",
       "sources": [
         "handlung",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Julians Musik trägt zunächst Victorias Ballett, später seine eigene Oper."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Julian beschwert sich über die Aneignung seiner Kompositionen.",
       "context": "Julian Craster (Marius Goring) schreibt einen empörten Brief und möchte ihn später zurücknehmen. Boris Lermontov (Anton Walbrook) hat ihn bereits gelesen. Aus der Beschwerde entsteht eine Anstellung: Der künstlerische Diebstahl wird zum Ausgangspunkt von Julians eigenem beruflichen Weg.",
-      "anchor": "Der Beschwerdebrief über gestohlene Musik öffnet Julian die Tür zur Kompanie.",
       "interest": "Der Beschwerdebrief über gestohlene Musik öffnet Julian die Tür zur Kompanie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Beschwerdebrief über gestohlene Musik öffnet Julian die Tür zur Kompanie."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Lermontov betrachtet Ehe und Liebe als Gefahr für die künstlerische Hingabe.",
       "context": "Als Irina Boronskaya (Ludmilla Tchérina) heiratet, verlässt sie die Kompanie. Boris Lermontov (Anton Walbrook) legt denselben Anspruch später an Victoria an. Sein Ideal vollständiger Kunsthingabe wird dadurch zu einer Kontrolle der persönlichen Lebensentscheidungen anderer Menschen.",
-      "anchor": "Lermontovs Kunstideal wird zur Regel über das Privatleben der Tänzerinnen.",
       "interest": "Lermontovs Kunstideal wird zur Regel über das Privatleben der Tänzerinnen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Lermontovs Kunstideal wird zur Regel über das Privatleben der Tänzerinnen."
     },
     {
       "code": "S1",
@@ -134,13 +134,13 @@
       ],
       "short": "Die Sequenz nutzt Filmgestaltung, um den Bühnenraum zu überschreiten.",
       "context": "Victoria Page (Moira Shearer) tanzt ein Märchen, dessen Bilder sich durch Schnitt, Dekorationen und Veränderungen zu einer eigenen Welt entfalten. Der Zuschauer sieht damit mehr als einen dokumentierten Theaterblick. Die filmische Fantasie verbindet die Rolle mit der inneren Erfahrung der Tänzerin.",
-      "anchor": "Das Ballett wächst über die Bühne hinaus in Victorias Bildwelt.",
       "interest": "Das Ballett wächst über die Bühne hinaus in Victorias Bildwelt.",
       "sources": [
         "handlung",
         "criterion"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Ballett wächst über die Bühne hinaus in Victorias Bildwelt."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Der Lichtkegel markiert Victorias fehlende Anwesenheit.",
       "context": "Boris Lermontov (Anton Walbrook) kündigt an, dass Victoria Page (Moira Shearer) nicht tanzen könne. Die Aufführung findet dennoch statt. Das Licht auf ihrem leeren Platz macht ihren Tod innerhalb der Fortsetzung des Betriebs sichtbar, statt sie sofort durch eine andere Tänzerin verschwinden zu lassen.",
-      "anchor": "Der Scheinwerfer tanzt mit dem leeren Platz der verlorenen Ballerina.",
       "interest": "Der Scheinwerfer tanzt mit dem leeren Platz der verlorenen Ballerina.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Scheinwerfer tanzt mit dem leeren Platz der verlorenen Ballerina."
     },
     {
       "code": "Y",
@@ -183,14 +183,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1948.",
       "context": "Die roten Schuhe erschien 1948. Andersens zugrunde liegendes Märchen wurde 1845 veröffentlicht, 103 Jahre früher. Der Film versetzt das Motiv unaufhaltsamen Tanzens in die Welt einer Ballettkompanie. Das Bühnengeschehen im Film spiegelt anschließend den Konflikt der Tänzerin in ihrer eigenen Lebensgeschichte.",
-      "anchor": "Andersens Märchen 1845, Film 1948: 103 Jahre bis zum Ballettdrama.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Andersens Märchen 1845, Film 1948: 103 Jahre bis zum Ballettdrama.",
       "sources": [
         "handlung",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Andersens Märchen 1845, Film 1948: 103 Jahre bis zum Ballettdrama."
     },
     {
       "code": "D",
@@ -209,7 +209,6 @@
       ],
       "short": "Der Regiecredit lautet Michael Powell und Emeric Pressburger.",
       "context": "Michael Powell und Emeric Pressburger verantworteten gemeinsam Regie, Drehbuch und Produktion. Moira Shearer kam aus dem Ballett. Die zentrale Tanzsequenz überschreitet die Möglichkeiten einer realen Bühne durch filmische Räume und Bildwechsel; der Film macht dadurch aus der Aufführung auch eine subjektive Erfahrung.",
-      "anchor": "Michael Powell und Emeric Pressburger: Moira Shearer kam aus dem Ballett.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
@@ -217,7 +216,8 @@
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Michael Powell und Emeric Pressburger: Moira Shearer kam aus dem Ballett."
     }
   ]
 }

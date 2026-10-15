@@ -36,12 +36,12 @@
       ],
       "short": "Kelvin soll die Besatzung sicher nach Hause bringen.",
       "context": "Kelvin soll die Besatzung sicher nach Hause bringen. Die Wissenschaftler wollen jedoch nicht zurück oder können ihr Verhalten kaum erklären; seine Hilfe wird durch eigene persönliche Erscheinungen auf der Station erschwert.",
-      "anchor": "Die Rettungsmission trifft auf die eigenen Erinnerungen des Helfers.",
       "interest": "Die Rettungsmission trifft auf die eigenen Erinnerungen des Helfers.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Rettungsmission trifft auf die eigenen Erinnerungen des Helfers."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Kelvin sendet die erste Erscheinung von Rheya (Natascha McElhone) in einer Kapsel fort.",
       "context": "Kelvin sendet die erste Erscheinung von Rheya (Natascha McElhone) in einer Kapsel fort. Als sie erneut erscheint, lässt er sie bleiben; dieselbe Konfrontation erhält durch seine veränderte Entscheidung einen anderen Verlauf.",
-      "anchor": "Kelvin weist die erste Rheya zurück und behält die zweite.",
       "interest": "Kelvin weist die erste Rheya zurück und behält die zweite.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Kelvin weist die erste Rheya zurück und behält die zweite."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die neue Rheya entsteht aus Chris Kelvins (George Clooney) Erinnerungen.",
       "context": "Die neue Rheya entsteht aus Chris Kelvins (George Clooney) Erinnerungen. Sie besitzt Informationen, aber nicht die vollständige emotionale Lebensgeschichte der Verstorbenen; die Ähnlichkeit lässt deshalb ihre eigene Identität unsicher bleiben.",
-      "anchor": "Eine erinnerte Person ist nicht automatisch das ganze frühere Leben.",
       "interest": "Eine erinnerte Person ist nicht automatisch das ganze frühere Leben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine erinnerte Person ist nicht automatisch das ganze frühere Leben."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Kelvin und Gordon (Viola Davis) finden den toten ursprünglichen Snow.",
       "context": "Kelvin und Gordon (Viola Davis) finden den toten ursprünglichen Snow. Der ihnen bekannte Mann ist eine weitere Erscheinung; die Grenze zwischen Besatzung und Besuchern ist dadurch weniger eindeutig, als Gordon angenommen hatte.",
-      "anchor": "Auch ein scheinbarer Besatzungsangehöriger kann eine Erscheinung sein.",
       "interest": "Auch ein scheinbarer Besatzungsangehöriger kann eine Erscheinung sein.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Auch ein scheinbarer Besatzungsangehöriger kann eine Erscheinung sein."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Rheya bittet Gordon (Viola Davis), das Vernichtungsgerät zu benutzen.",
       "context": "Rheya bittet Gordon (Viola Davis), das Vernichtungsgerät zu benutzen. Kelvin (George Clooney) möchte sie bewahren, doch ihre eigene Entscheidung widerspricht seiner Hoffnung; die vermeintliche Wiederherstellung der Liebe lässt ihre Selbstbestimmung nicht verschwinden.",
-      "anchor": "Kelvins Wunsch nach Bewahrung kollidiert mit Rheyas eigener Entscheidung.",
       "interest": "Kelvins Wunsch nach Bewahrung kollidiert mit Rheyas eigener Entscheidung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Kelvins Wunsch nach Bewahrung kollidiert mit Rheyas eigener Entscheidung."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Kelvins Fingerwunde schließt sich sofort.",
       "context": "Kelvins Fingerwunde schließt sich sofort. Das scheinbar gewöhnliche Küchenleben erweist sich dadurch als Fortsetzung seiner Solaris-Erfahrung; die tatsächliche Entscheidung, auf der Station zu bleiben, tritt hinter der zunächst beruhigenden Alltagsszene hervor.",
-      "anchor": "Die sofort geheilte Wunde entlarvt das vermeintliche Zuhause.",
       "interest": "Die sofort geheilte Wunde entlarvt das vermeintliche Zuhause.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die sofort geheilte Wunde entlarvt das vermeintliche Zuhause."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2002 erschien die Clooney-Fassung.",
       "context": "2002 erschien die Clooney-Fassung. Andrei Tarkowskis frühere Verfilmung stammt von 1972, genau dreißig Jahre zuvor; beide greifen auf Stanisław Lems Roman zurück. Das Jahrpaar grenzt zwei unterschiedliche filmische Annäherungen an Erinnerung und fremde Intelligenz ab.",
-      "anchor": "Solaris 1972, neue Fassung 2002: Dreißig Jahre trennen Tarkowskis und Soderberghs Annäherungen an Lems Stoff.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Solaris 1972, neue Fassung 2002: Dreißig Jahre trennen Tarkowskis und Soderberghs Annäherungen an Lems Stoff."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam.",
       "context": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam. George Clooney spielt Chris Kelvin, Natascha McElhone Rheya. Soderbergh konzentriert die Begegnung mit Solaris besonders auf die Wiederkehr einer belasteten Liebesbeziehung.",
-      "anchor": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam.",
       "interest": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Steven Soderbergh schrieb und inszenierte die Fassung; James Cameron gehört zum Produktionsteam."
     }
   ]
 }

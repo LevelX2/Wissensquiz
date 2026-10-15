@@ -109,6 +109,7 @@ export const packages = [
     path: "/schauspieler-bekanntheit-20261013-fragen.csv",
     filename: "Schauspieler-Bekanntheit-2026-10-13.csv",
   },
+  { path: "/action-drama-ergaenzungen-20261015-fragen.csv", filename: "Action-Drama-Ergaenzungen-2026-10-15.csv" },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

@@ -36,12 +36,12 @@
       ],
       "short": "Max (Jacob Tremblay) weiß nicht, wie man küsst, und möchte sich vor der Party vorbereiten.",
       "context": "Max (Jacob Tremblay) weiß nicht, wie man küsst, und möchte sich vor der Party vorbereiten. Seine Freunde helfen mit einem vermeintlich einfachen Beobachtungsplan. Die Komödie beginnt damit bei kindlicher Unsicherheit; das ausgelöste Chaos entsteht erst aus ihrem Versuch, sich erwachsenes Verhalten technisch zu erklären.",
-      "anchor": "Die Kussangst startet den heimlichen Beobachtungsplan.",
       "interest": "Eine verständliche Unsicherheit eröffnet die Handlung.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Kussangst startet den heimlichen Beobachtungsplan."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Die Jungen beschädigen die Drohne von Max’ Vater (Will Forte).",
       "context": "Die Jungen beschädigen die Drohne von Max’ Vater (Will Forte). Max (Jacob Tremblay) durfte sie nicht benutzen und versucht, den Schaden zu verbergen. Der Ersatzkauf verlagert die Geschichte aus der Nachbarschaft in eine unkontrollierte Tagesreise. Ein verbotener Gebrauchsgegenstand wird so zur Ursache vieler weiterer Fehlentscheidungen.",
-      "anchor": "Die kaputte Drohne macht den Nachmittag zur Ersatzbeschaffungsreise.",
       "interest": "Der Gegenstand erklärt die Folge der Abenteuer.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die kaputte Drohne macht den Nachmittag zur Ersatzbeschaffungsreise."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Lucas (Keith L.",
       "context": "Lucas (Keith L. Williams) erfährt von der Scheidung seiner Eltern. Neben den äußeren Abenteuern verhandelt der Film dadurch einen Verlust vertrauter Bindung. Das Gespräch mit den Eltern hilft ihm später auch, die Veränderungen seiner Freundschaften zu verstehen. Gemeinsamkeit kann bestehen bleiben, obwohl sich einzelne Lebenswege auseinanderentwickeln.",
-      "anchor": "Lucas erlebt Veränderung zugleich zu Hause und im Freundeskreis.",
       "interest": "Ein Familienkonflikt vertieft den gemeinsamen Tagesausflug.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Lucas erlebt Veränderung zugleich zu Hause und im Freundeskreis."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Thor (Brady Noon) will singen, lässt sich aber vom Spott seiner Mitschüler entmutigen.",
       "context": "Thor (Brady Noon) will singen, lässt sich aber vom Spott seiner Mitschüler entmutigen. Hannah (Molly Gordon) und Lily (Midori Francis) bestärken ihn später, daran festzuhalten. Sein Weg endet deshalb nicht nur mit einer überstandenen Katastrophe. Er kann ein eigenes Interesse verfolgen, auch wenn es nicht dem Bild seiner Freunde entspricht.",
-      "anchor": "Thor findet den Mut, seinen eigenen Gesang ernst zu nehmen.",
       "interest": "Eine Nebenlinie beantwortet den persönlichen Entwicklungswunsch.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Thor findet den Mut, seinen eigenen Gesang ernst zu nehmen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die Jungen haben die zuerst gefundenen Drogen bereits einem Polizisten übergeben.",
       "context": "Die Jungen haben die zuerst gefundenen Drogen bereits einem Polizisten übergeben. Als Hannah (Molly Gordon) und Lily (Midori Francis) sie gegen die Ersatzdrohne zurückfordern, fehlt das Tauschmittel. Eine zunächst richtige Abgabe an die Polizei erzeugt unter ihrem selbst gesetzten Zeitdruck einen neuen, falschen Beschaffungsplan.",
-      "anchor": "Die abgegebenen Drogen fehlen beim späteren Tausch.",
       "interest": "Die Reihenfolge erklärt eine weitere schlechte Entscheidung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die abgegebenen Drogen fehlen beim späteren Tausch."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Freunde entwickeln eigene Interessen und kommen später wieder zusammen.",
       "context": "Die Freunde entwickeln eigene Interessen und kommen später wieder zusammen. Max (Jacob Tremblay), Lucas (Keith L. Williams) und Thor (Brady Noon) müssen ihre Freundschaft nicht durch völlige Gleichheit retten. Der Schluss macht Wachstum mit Nähe vereinbar: Gemeinsame Vergangenheit verpflichtet sie nicht dazu, jede neue Leidenschaft miteinander zu teilen.",
-      "anchor": "Eigene Wege schließen die Freundschaft nicht aus.",
       "interest": "Die Auflösung erklärt eine reifere Form der Gemeinsamkeit.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eigene Wege schließen die Freundschaft nicht aus."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Weltpremiere am 11. März 2019 beim South by Southwest Festival; US-Kinostart im August 2019.",
       "context": "2019 wurde „Good Boys“ erstmals gezeigt. In der Handlung führt Thors Bühnentraum zu einer Schulaufführung von „Rock of Ages“, dessen Kinofassung 2012 erschienen war. Die beiden Filme liegen sieben Jahre auseinander. Der Zeitanker verbindet die Komödie mit ihrem konkreten Musicalbezug: Rock of Ages 2012, Good Boys 2019.",
-      "anchor": "Rock of Ages 2012, Good Boys 2019: sieben Jahre bis zu Thors Schulbühne.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "musical"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Rock of Ages 2012, Good Boys 2019: sieben Jahre bis zu Thors Schulbühne."
     },
     {
       "code": "D",
@@ -206,14 +206,14 @@
       ],
       "short": "Gene Stupnitsky führte allein Regie, obwohl frühe Entwicklungsberichte ihn und Lee Eisenberg als mögliches Regieduo nannten.",
       "context": "Gene Stupnitsky führte allein Regie, obwohl frühe Entwicklungsberichte ihn und Lee Eisenberg als mögliches Regieduo nannten. Beide schrieben das Drehbuch, Eisenberg produzierte zudem. Die offizielle Universal-Seite unterscheidet diese Funktionen ausdrücklich. Für das Regieziel zählt deshalb der endgültige Credit und nicht die früh angekündigte Aufgabenverteilung.",
-      "anchor": "Stupnitsky inszeniert; Eisenberg schreibt mit und produziert.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "studio",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Stupnitsky inszeniert; Eisenberg schreibt mit und produziert."
     }
   ]
 }

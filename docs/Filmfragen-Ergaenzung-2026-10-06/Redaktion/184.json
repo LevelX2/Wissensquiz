@@ -37,12 +37,12 @@
       ],
       "short": "Invertierte Objekte haben umgekehrte Entropie und bewegen sich rückwärts durch die Zeit.",
       "context": "Invertierte Objekte haben umgekehrte Entropie und bewegen sich rückwärts durch die Zeit. Der Protagonist (John David Washington) muss diese Erfahrung praktisch erlernen; gewöhnliche Ursachen und sichtbare Wirkungen erscheinen aus seiner Perspektive vertauscht.",
-      "anchor": "Inversion kehrt die zeitliche Bewegungsrichtung um.",
       "interest": "Inversion kehrt die zeitliche Bewegungsrichtung um.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Inversion kehrt die zeitliche Bewegungsrichtung um."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Sator besitzt ein gefälschtes Gemälde, das Kat als echt bestätigt hat.",
       "context": "Sator besitzt ein gefälschtes Gemälde, das Kat als echt bestätigt hat. Er benutzt diesen belastenden Zusammenhang zur Erpressung; ihre Ehe ist so nicht nur emotional, sondern durch eine konkrete rechtliche Bedrohung eingeschränkt.",
-      "anchor": "Der gefälschte Kunstwert wird zum echten Druckmittel.",
       "interest": "Der gefälschte Kunstwert wird zum echten Druckmittel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der gefälschte Kunstwert wird zum echten Druckmittel."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die beiden Erscheinungen gehören derselben Person vor und nach der Inversion.",
       "context": "Die beiden Erscheinungen gehören derselben Person vor und nach der Inversion. Später erkennt der Protagonist seinen eigenen Anteil am Kampf; eine scheinbare Verdoppelung ist tatsächlich das Zusammentreffen verschiedener zeitlicher Zustände.",
-      "anchor": "Zwei Kämpferansichten gehören zu einem Menschen.",
       "interest": "Zwei Kämpferansichten gehören zu einem Menschen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Zwei Kämpferansichten gehören zu einem Menschen."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Kat wird mit einer invertierten Kugel verletzt.",
       "context": "Kat wird mit einer invertierten Kugel verletzt. Die Gruppe invertiert mit ihr, um ihre Genesung zu ermöglichen, und muss später einen weiteren Zugang zur Maschine nutzen, um wieder vorwärts zu leben.",
-      "anchor": "Die invertierte Verletzung verlangt eine invertierte Rettung.",
       "interest": "Die invertierte Verletzung verlangt eine invertierte Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die invertierte Verletzung verlangt eine invertierte Rettung."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Zwei Truppen durchlaufen den Einsatz vorwärts und rückwärts.",
       "context": "Zwei Truppen durchlaufen den Einsatz vorwärts und rückwärts. Ihre unterschiedlichen Informationen sollen denselben Ablauf absichern; der taktische Vorteil entsteht aus der zeitlichen Ergänzung, nicht aus zwei völlig getrennten Schlachten.",
-      "anchor": "Eine Schlacht wird aus beiden zeitlichen Richtungen bearbeitet.",
       "interest": "Eine Schlacht wird aus beiden zeitlichen Richtungen bearbeitet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine Schlacht wird aus beiden zeitlichen Richtungen bearbeitet."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Neil kennt den Protagonisten schon lange, weil dessen spätere Zukunft Neils frühere Vergangenheit enthält.",
       "context": "Neil kennt den Protagonisten schon lange, weil dessen spätere Zukunft Neils frühere Vergangenheit enthält. Für den Protagonisten beginnt die Beziehung, während Neil ihr Ende erlebt; dieselbe Freundschaft hat für beide unterschiedliche zeitliche Positionen.",
-      "anchor": "Der eine erlebt den Anfang einer Freundschaft, der andere ihr Ende.",
       "interest": "Der eine erlebt den Anfang einer Freundschaft, der andere ihr Ende.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der eine erlebt den Anfang einer Freundschaft, der andere ihr Ende."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2020 erschien der Film.",
       "context": "2020 erschien der Film. Christopher Nolans „Inception“ stammt von 2010, genau zehn Jahre zuvor. Beide Werke verbinden einen Heist- beziehungsweise Agentenplot mit ungewöhnlichen Regeln von Wahrnehmung und Zeit; diese Dekadenverbindung ist eine Merkhilfe, keine Gleichsetzung ihrer Mechanismen.",
-      "anchor": "Inception 2010, Tenet 2020: Eine Dekade trennt Nolans zwei unterschiedlich regelgebundene Wahrnehmungswelten.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Inception 2010, Tenet 2020: Eine Dekade trennt Nolans zwei unterschiedlich regelgebundene Wahrnehmungswelten."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Christopher Nolan schrieb und inszenierte den Film.",
       "context": "Christopher Nolan schrieb und inszenierte den Film. John David Washington spielt den Protagonisten, Robert Pattinson Neil. Die Handlung verbindet vorwärts und rückwärts erlebte Ereignisse; Begegnungen erhalten ihre vollständige Bedeutung häufig erst durch eine spätere zweite Perspektive.",
-      "anchor": "Christopher Nolan schrieb und inszenierte den Film.",
       "interest": "Christopher Nolan schrieb und inszenierte den Film.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Christopher Nolan schrieb und inszenierte den Film."
     }
   ]
 }

@@ -32,11 +32,11 @@
       ],
       "short": "Kumail arbeitet an einer Stand-up-Karriere.",
       "context": "Kumail (Kumail Nanjiani) tritt in einem Comedyclub auf und hofft auf größere berufliche Chancen. Dort lernt er Emily Gardner (Zoe Kazan) kennen, die auf seinen Auftritt reagiert. Der Bühnenalltag verbindet den Beginn ihrer Beziehung mit seinen persönlichen Ambitionen. Die Filmfigur trägt den Namen des wirklichen Mitautors und Hauptdarstellers, doch die Geschichte verarbeitet gemeinsame Erlebnisse des realen Paars in einer fiktionalisierten Form.",
-      "anchor": "Ein Comedyauftritt steht am Anfang der Beziehung.",
       "interest": "Der Bühnenberuf gehört zur klaren Ausgangslage.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein Comedyauftritt steht am Anfang der Beziehung."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Kumail lernt Emilys Eltern näher kennen.",
       "context": "Während Emily Gardner (Zoe Kazan) im Krankenhaus liegt, trifft Kumail (Kumail Nanjiani) auf Beth Gardner (Holly Hunter) und Terry Gardner (Ray Romano). Die Eltern kennen ihn zunächst vor allem als Mann, der ihre Tochter verletzt hat. Gemeinsame Sorge verändert den Umgang miteinander. Der Film lässt eine Beziehung zwischen Angehörigen entstehen, obwohl die erkrankte Tochter selbst an diesen Gesprächen nicht teilnehmen kann.",
-      "anchor": "Gemeinsame Sorge verbindet zunächst misstrauische Menschen.",
       "interest": "Das zentrale Figurenpaar der Krankenhausphase ist leicht erkennbar.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Gemeinsame Sorge verbindet zunächst misstrauische Menschen."
     },
     {
       "code": "M1",
@@ -78,11 +78,11 @@
       ],
       "short": "Emily findet Fotos von Frauen, die Kumails Familie als Ehepartnerinnen vorsieht.",
       "context": "Emily Gardner (Zoe Kazan) findet die Bilder und fragt Kumail (Kumail Nanjiani) nach ihrer Bedeutung. Seine Familie stellt ihm mögliche Ehepartnerinnen vor, während er Emily über den familiären Widerstand im Unklaren lässt. Der Streit betrifft deshalb nicht allein verschiedene kulturelle Vorstellungen. Emily erkennt, dass sie ihre gemeinsame Zukunft auf einer anderen Informationsgrundlage beurteilt hat als er und verlangt eine ehrliche Entscheidung.",
-      "anchor": "Die Fotos machen den verschwiegenen Familienkonflikt sichtbar.",
       "interest": "Ein konkreter Fund erklärt den Bruch genauer als eine pauschale Kulturbehauptung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Fotos machen den verschwiegenen Familienkonflikt sichtbar."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Er unterschreibt die Zustimmung zum medizinisch eingeleiteten Koma.",
       "context": "Kumail (Kumail Nanjiani) wird zu Emily Gardner (Zoe Kazan) ins Krankenhaus gerufen, obwohl die Beziehung bereits zerbrochen ist. Das Personal benötigt eine Entscheidung über das medizinisch eingeleitete Koma. Er unterschreibt und benachrichtigt anschließend ihre Eltern. Die konkrete Handlung bindet ihn an die Krise: Er kann sich nicht auf die Rolle eines unbeteiligten ehemaligen Partners zurückziehen, sondern muss Verantwortung in einer akuten Situation übernehmen.",
-      "anchor": "Die Unterschrift macht aus dem Besuch eine Verantwortung.",
       "interest": "Der Inhalt der Entscheidung ist ein eigenes Handlungsglied.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Unterschrift macht aus dem Besuch eine Verantwortung."
     },
     {
       "code": "S1",
@@ -124,12 +124,12 @@
       ],
       "short": "Die Filmdiagnose lautet Still-Syndrom bei Erwachsenen.",
       "context": "Emily Gardner (Zoe Kazan) reagiert schließlich auf eine entzündungshemmende Behandlung und erwacht aus dem Koma. Die Geschichte benennt ihre Erkrankung als seltene Form der Still-Krankheit im Erwachsenenalter. Damit erhält die zuvor rätselhafte Krise eine Erklärung. Die gesundheitliche Besserung löst jedoch nicht gleichzeitig den Beziehungsstreit: Kumail (Kumail Nanjiani) muss akzeptieren, dass Emily seine erneute Nähe nach dem Erwachen nicht sofort erwidert.",
-      "anchor": "Die medizinische Auflösung beendet nicht automatisch den Liebeskonflikt.",
       "interest": "Gesucht ist eine ausdrücklich genannte Filmdiagnose, keine medizinische Einschätzung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die medizinische Auflösung beendet nicht automatisch den Liebeskonflikt."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Emily meldet sich aus dem Publikum eines New Yorker Auftritts.",
       "context": "Kumail (Kumail Nanjiani) beginnt in New York einen neuen Abschnitt seiner Bühnenlaufbahn. Als ein Zuruf aus dem Publikum seinen Auftritt unterbricht, erkennt er Emily Gardner (Zoe Kazan). Die Begegnung greift die Situation ihres ersten Kennenlernens auf. Nun steht jedoch die gemeinsame Krise zwischen den beiden. Der Schluss eröffnet ihre Annäherung durch eine wiederkehrende Handlung, statt eine sofortige Versöhnung im Krankenzimmer zu behaupten.",
-      "anchor": "Der neue Zuruf spiegelt das erste Kennenlernen.",
       "interest": "Die konkrete Schlussgestaltung ist ein eigenständiges, wichtiges Auflösungsziel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der neue Zuruf spiegelt das erste Kennenlernen."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "Der Film wurde erstmals 2017 gezeigt.",
       "context": "„The Big Sick“ wurde 2017 beim Sundance Film Festival erstmals gezeigt. Fünf Jahre zuvor erschien 2012 „Ruby Sparks“, dessen Drehbuch Zoe Kazan schrieb. In „The Big Sick“ spielt Zoe Kazan Emily Gardner; die Autoren sind hier Emily V. Gordon und Kumail Nanjiani. Der Abstand verbindet zwei romantische Filme und unterscheidet Kazans eigene schriftstellerische Arbeit von ihrer Rolle in einer autobiografisch angeregten Geschichte.",
-      "anchor": "2012 Ruby Sparks, 2017 The Big Sick: fünf Jahre.",
       "interest": "Zoe Kazans unterschiedliche kreative Aufgaben machen den Jahresabstand konkret.",
       "sources": [
         "sundance",
         "anker"
-      ]
+      ],
+      "objective": "2012 Ruby Sparks, 2017 The Big Sick: fünf Jahre."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "Michael Showalter führte Regie.",
       "context": "Michael Showalter inszenierte das Drehbuch von Emily V. Gordon und Kumail Nanjiani. Nanjiani übernimmt außerdem die Hauptrolle des Kumail, während Zoe Kazan Emily Gardner spielt. Diese Aufgaben sind von der Regie zu unterscheiden. Der Film verbindet Comedyclub, Familienbegegnungen und Krankenhausphase zu einer Liebesgeschichte, deren längerer Mittelteil von der gemeinsamen Sorge um eine abwesende, erkrankte Person bestimmt wird.",
-      "anchor": "Showalter inszeniert die Geschichte des schreibenden Paars.",
       "interest": "Regie, autobiografische Vorlage und Hauptrolle werden klar getrennt.",
       "sources": [
         "sundance",
         "handlung"
-      ]
+      ],
+      "objective": "Showalter inszeniert die Geschichte des schreibenden Paars."
     }
   ]
 }

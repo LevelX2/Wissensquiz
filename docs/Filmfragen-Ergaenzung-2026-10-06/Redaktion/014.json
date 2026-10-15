@@ -30,13 +30,13 @@
       ],
       "short": "Joan Wilder ist Liebesromanautorin.",
       "context": "Joan leidet unter einer Schreibblockade, während Jack Colton (Michael Douglas) weiter auf dem Meer leben möchte. Die unterschiedlichen Zukunftswünsche belasten das Paar schon vor dem nächsten Abenteuer.",
-      "anchor": "Joans Schreibblockade trifft auf Jacks Reiselust.",
       "interest": "Der Beruf gehört zur Ausgangsspannung des Paares.",
       "sources": [
         "afi",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Joans Schreibblockade trifft auf Jacks Reiselust."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Omar lädt Joan ein, seine Biografie zu schreiben.",
       "context": "Der Auftrag schmeichelt Joan und verspricht einen Ausweg aus ihrer Schreibblockade. Omar nutzt ihn, um sie an seinen Hof zu bringen. Die berufliche Chance führt sie in eine politische Täuschung.",
-      "anchor": "Der Biografieauftrag bringt Joan in Omars Machtbereich.",
       "interest": "Ein scheinbar attraktiver Auftrag löst den Konflikt aus.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Biografieauftrag bringt Joan in Omars Machtbereich."
     },
     {
       "code": "M1",
@@ -79,13 +79,13 @@
       ],
       "short": "Das „Juwel“ ist ein Mensch: der geistliche Führer Al-Julhara.",
       "context": "Joan Wilder (Kathleen Turner) begegnet Al-Julhara (Avner Eisenberg) im Palast. Omar (Spiros Focás) hält ihn fest, weil seine Autorität Omars eigenen Machtanspruch bedroht. Die Schatzsuche verändert damit ihren Gegenstand.",
-      "anchor": "Das Juwel ist ein Mensch, dessen Autorität Omar fürchtet.",
       "interest": "Die Auflösung verändert die Bedeutung der scheinbaren Schatzsuche.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Juwel ist ein Mensch, dessen Autorität Omar fürchtet."
     },
     {
       "code": "M2",
@@ -104,13 +104,13 @@
       ],
       "short": "Jacks Boot explodiert nach dem Anschlag eines von Omars Männern.",
       "context": "Jack möchte sich zunächst nicht in den fremden Konflikt hineinziehen lassen. Die Zerstörung des Boots macht die Gefahr unmittelbar persönlich. Zusammen mit Ralph (Danny DeVito) folgt er Joan Wilder (Kathleen Turner).",
-      "anchor": "Das zerstörte Boot bringt Jack zurück auf Joans Spur.",
       "interest": "Eine konkrete Folge beendet die Möglichkeit, den Konflikt zu ignorieren.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das zerstörte Boot bringt Jack zurück auf Joans Spur."
     },
     {
       "code": "S1",
@@ -129,13 +129,13 @@
       ],
       "short": "Omar plant ein mit Illusionstechnik erzeugtes scheinbares Wunder.",
       "context": "Joan Wilder (Kathleen Turner) beobachtet Vorbereitungen mit einem Illusionisten. Das Wissen über die Technik gefährdet Omars Behauptung übernatürlicher Macht. Seine Herrschaft beruht auf der geplanten Wirkung vor einem Publikum.",
-      "anchor": "Omars Wunder soll mit Technik Glaubwürdigkeit vortäuschen.",
       "interest": "Die Täuschung verknüpft Inszenierung und politischen Machtanspruch.",
       "sources": [
         "afi",
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Omars Wunder soll mit Technik Glaubwürdigkeit vortäuschen."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Gedreht wurde vor allem in Marokko und Frankreich.",
       "context": "Der Film führt vom Leben an der Riviera in ein afrikanisches Abenteuer. Die Produktionsorte greifen diese beiden Landschaftswelten auf. Das AFI dokumentiert marokkanische Orte und anschließend Aufnahmen an der französischen Riviera.",
-      "anchor": "Riviera und Wüste: Frankreich und Marokko tragen die Bildwelten.",
       "interest": "Die Drehorte erklären den sichtbaren Wechsel der Abenteuerlandschaft.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Riviera und Wüste: Frankreich und Marokko tragen die Bildwelten."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung lag 1985.",
       "context": "„Auf der Jagd nach dem grünen Diamanten“ erschien 1984; „Auf der Jagd nach dem Juwel vom Nil“ folgte 1985. Ein Jahr trennt die beiden Abenteuer mit Michael Douglas, Kathleen Turner und Danny DeVito.",
-      "anchor": "1984 grüner Diamant, 1985 Juwel vom Nil: ein Jahr bis zum nächsten Abenteuer.",
       "interest": "Die direkte Fortsetzung liefert einen anschaulichen Zeitanker.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1984 grüner Diamant, 1985 Juwel vom Nil: ein Jahr bis zum nächsten Abenteuer."
     },
     {
       "code": "D",
@@ -203,13 +203,13 @@
       ],
       "short": "Lewis Teague führte die Hauptregie.",
       "context": "Michael Douglas spielte Jack Colton und produzierte den Film. Regisseur Lewis Teague übernahm die Fortsetzung von Robert Zemeckis. Das AFI führt außerdem Glenn Randall für die zweite Dreheinheit auf.",
-      "anchor": "Teague übernimmt die Fortsetzung; Douglas spielt und produziert.",
       "interest": "Der Wechsel erklärt die Kontinuität der Besetzung bei anderer Hauptregie.",
       "sources": [
         "afi",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Teague übernimmt die Fortsetzung; Douglas spielt und produziert."
     }
   ],
   "director_note": "Glenn Randall ist laut vollständiger AFI-Creditliste Regisseur der zweiten Dreheinheit und Stuntkoordinator. Gefragt wird nach Hauptregisseur Lewis Teague; Randall erscheint nicht als falsche Alternative."

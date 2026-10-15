@@ -41,12 +41,12 @@
       ],
       "short": "Yang soll der adoptierten Mika (Malea Emma Tjandrawidjaja) ihre chinesische Herkunft vermitteln.",
       "context": "Yang soll der adoptierten Mika (Malea Emma Tjandrawidjaja) ihre chinesische Herkunft vermitteln. Seine Rolle wächst jedoch über den gelieferten Kulturauftrag hinaus: Für sie ist er ein Bruder, dessen Verlust nicht einfach durch ein Ersatzgerät aufgehoben wird.",
-      "anchor": "Die Kulturhilfe wird für Mika zur familiären Beziehung.",
       "interest": "Die Kulturhilfe wird für Mika zur familiären Beziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Kulturhilfe wird für Mika zur familiären Beziehung."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Yang (Justin H.",
       "context": "Yang (Justin H. Min) fällt nach einem gemeinsamen Tanzwettbewerb aus. Jake (Colin Farrell) sucht eine bezahlbare Reparatur; die technische Störung macht erstmals sichtbar, wie stark sich die Familienmitglieder an Yang gebunden haben.",
-      "anchor": "Der Ausfall legt Yangs familiäre Bedeutung offen.",
       "interest": "Der Ausfall legt Yangs familiäre Bedeutung offen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Ausfall legt Yangs familiäre Bedeutung offen."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Das gefundene Gerät enthält Yangs persönliche Erinnerungsausschnitte.",
       "context": "Das gefundene Gerät enthält Yangs persönliche Erinnerungsausschnitte. Jake kann sie betrachten und entdeckt Beziehungen außerhalb des bekannten Familienalltags; der Verdacht technischer Überwachung weicht einer Begegnung mit Yangs eigener Perspektive.",
-      "anchor": "Der vermeintliche Überwachungssensor eröffnet eine persönliche Innenwelt.",
       "interest": "Der vermeintliche Überwachungssensor eröffnet eine persönliche Innenwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der vermeintliche Überwachungssensor eröffnet eine persönliche Innenwelt."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Ada (Haley Lu Richardson) hatte eine Beziehung mit Yang (Justin H.",
       "context": "Ada (Haley Lu Richardson) hatte eine Beziehung mit Yang (Justin H. Min). Jake (Colin Farrell) kannte diesen Teil seines Lebens nicht; Yang war daher nicht auf die Funktion beschränkt, die die Familie ihm zugedacht hatte.",
-      "anchor": "Yangs persönliches Leben reicht über seinen Familienauftrag hinaus.",
       "interest": "Yangs persönliches Leben reicht über seinen Familienauftrag hinaus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Yangs persönliches Leben reicht über seinen Familienauftrag hinaus."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Die erste Ada starb; die später bekannte Ada (Haley Lu Richardson) ist ihr Klon.",
       "context": "Die erste Ada starb; die später bekannte Ada (Haley Lu Richardson) ist ihr Klon. Yang (Justin H. Min) verbindet dadurch verschiedene Lebensphasen und ähnliche Personen; Ähnlichkeit hebt den Unterschied ihrer Erfahrungen nicht auf.",
-      "anchor": "Ähnliche Gestalt verbindet zwei verschiedene Lebensgeschichten.",
       "interest": "Ähnliche Gestalt verbindet zwei verschiedene Lebensgeschichten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ähnliche Gestalt verbindet zwei verschiedene Lebensgeschichten."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Jake (Colin Farrell) und Kyra (Jodie Turner-Smith) wollen Yangs Erinnerungen bewahren, seinen Körper aber nicht öffentlich ausstellen.",
       "context": "Jake (Colin Farrell) und Kyra (Jodie Turner-Smith) wollen Yangs Erinnerungen bewahren, seinen Körper aber nicht öffentlich ausstellen. Sie erkennen seine Bedeutung für viele Menschen an; Gedenken wird damit wichtiger als bloßer technischer Ersatz.",
-      "anchor": "Yangs gelebte Beziehungen sollen im Erinnern erhalten bleiben.",
       "interest": "Yangs gelebte Beziehungen sollen im Erinnern erhalten bleiben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Yangs gelebte Beziehungen sollen im Erinnern erhalten bleiben."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "2021 wurde der Film in Cannes erstmals gezeigt, der reguläre US-Start folgte 2022.",
       "context": "2021 wurde der Film in Cannes erstmals gezeigt, der reguläre US-Start folgte 2022. Alexander Weinsteins Vorlage „Saying Goodbye to Yang“ erschien in der Sammlung „Children of the New World“ von 2016. Fünf Jahre trennen Buch und erste Festivalveröffentlichung.",
-      "anchor": "Erzählung in der Sammlung 2016, Festivalfilm 2021: Fünf Jahre führen zur filmischen Erinnerung an Yang.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten",
         "verlag"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Erzählung in der Sammlung 2016, Festivalfilm 2021: Fünf Jahre führen zur filmischen Erinnerung an Yang."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Kogonada schrieb und inszenierte die Adaption und übernahm den Schnitt.",
       "context": "Kogonada schrieb und inszenierte die Adaption und übernahm den Schnitt. Justin H. Min spielt Yang, Colin Farrell Jake und Jodie Turner-Smith Kyra. Die Suche nach einer technischen Reparatur öffnet den Zugang zu Yangs bisher übersehenem persönlichen Leben.",
-      "anchor": "Kogonada schrieb und inszenierte die Adaption und übernahm den Schnitt.",
       "interest": "Kogonada schrieb und inszenierte die Adaption und übernahm den Schnitt.",
       "sources": [
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kogonada schrieb und inszenierte die Adaption und übernahm den Schnitt."
     }
   ]
 }

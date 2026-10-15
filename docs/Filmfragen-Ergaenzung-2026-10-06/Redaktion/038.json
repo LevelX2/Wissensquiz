@@ -36,12 +36,12 @@
       ],
       "short": "Die Spielerin (Isabelle Adjani) verweigert die Identifizierung des Fahrers (Ryan O’Neal).",
       "context": "Die Spielerin (Isabelle Adjani) verweigert die Identifizierung des Fahrers (Ryan O’Neal). Ihre Entscheidung verbindet beide gegen den Ermittler (Bruce Dern), ohne daraus eine ausführlich erklärte persönliche Vorgeschichte zu machen.",
-      "anchor": "Die verweigerte Aussage schafft eine praktische Verbindung gegen den Ermittler.",
       "interest": "Die verweigerte Aussage schafft eine praktische Verbindung gegen den Ermittler.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die verweigerte Aussage schafft eine praktische Verbindung gegen den Ermittler."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Der Ermittler (Bruce Dern) will den Fahrer (Ryan O’Neal) mit einem arrangierten Raub stellen.",
       "context": "Der Ermittler (Bruce Dern) will den Fahrer (Ryan O’Neal) mit einem arrangierten Raub stellen. Er benutzt die drohende Strafe der Männer als Druckmittel; sein eigener Rechtsbruch gehört damit zum Fangversuch.",
-      "anchor": "Der Ermittler erkauft die Falle mit einem unerlaubten Freiheitsversprechen.",
       "interest": "Der Ermittler erkauft die Falle mit einem unerlaubten Freiheitsversprechen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Ermittler erkauft die Falle mit einem unerlaubten Freiheitsversprechen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Der Fahrer (Ryan O’Neal) beschädigt bei der Vorführung gezielt den Wagen der Männer.",
       "context": "Der Fahrer (Ryan O’Neal) beschädigt bei der Vorführung gezielt den Wagen der Männer. Er demonstriert Kontrolle gerade durch die Zerstörung des Fahrzeugs und lehnt die angebotene Zusammenarbeit zunächst ab.",
-      "anchor": "Die kontrollierte Beschädigung macht Können und Ablehnung gleichzeitig sichtbar.",
       "interest": "Die kontrollierte Beschädigung macht Können und Ablehnung gleichzeitig sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die kontrollierte Beschädigung macht Können und Ablehnung gleichzeitig sichtbar."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Der Fahrer (Ryan O’Neal) übergibt die Geldwäsche an die Vermittlerin (Ronee Blakley).",
       "context": "Der Fahrer (Ryan O’Neal) übergibt die Geldwäsche an die Vermittlerin (Ronee Blakley). Die Spielerin (Isabelle Adjani) soll das getauschte Geld abholen; das Schließfach trennt Raubhandlung und Auszahlung.",
-      "anchor": "Das Schließfach macht die Beute zum Gegenstand eines weiteren unsicheren Geschäfts.",
       "interest": "Das Schließfach macht die Beute zum Gegenstand eines weiteren unsicheren Geschäfts.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Schließfach macht die Beute zum Gegenstand eines weiteren unsicheren Geschäfts."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Glasses (Joseph Walsh) benutzt die Falle für einen eigenen Verrat.",
       "context": "Glasses (Joseph Walsh) benutzt die Falle für einen eigenen Verrat. Der Fahrer (Ryan O’Neal) muss sich deshalb gegen den Komplizen wehren, während der ursprüngliche Plan des Ermittlers (Bruce Dern) ebenfalls entgleist.",
-      "anchor": "Der Helfer der Polizei verfolgt nach dem Raub sein eigenes Beuteinteresse.",
       "interest": "Der Helfer der Polizei verfolgt nach dem Raub sein eigenes Beuteinteresse.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Helfer der Polizei verfolgt nach dem Raub sein eigenes Beuteinteresse."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der Fahrer (Ryan O’Neal) öffnet eine leere Tasche.",
       "context": "Der Fahrer (Ryan O’Neal) öffnet eine leere Tasche. Der Geldtauscher (Denny Macko) hatte sich den Inhalt genommen; dem Ermittler (Bruce Dern) fehlt damit am geplanten Schlusszugriff das erhoffte Beweisstück.",
-      "anchor": "Der letzte Diebstahl lässt den Ermittler mit einer leeren Tasche zurück.",
       "interest": "Der letzte Diebstahl lässt den Ermittler mit einer leeren Tasche zurück.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der letzte Diebstahl lässt den Ermittler mit einer leeren Tasche zurück."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Der Film wurde 1978 erstmals veröffentlicht.",
       "context": "1978 erschien Hills zweiter selbst geschriebener und inszenierter Spielfilm. Hard Times, sein entsprechendes Debüt, war 1975 herausgekommen, drei Jahre zuvor; Driver führt den knappen Stil mit namenlosen Figuren weiter.",
-      "anchor": "Auf Hills Hard Times von 1975 folgte drei Jahre später, 1978, Driver als zweiter eigener Regiefilm.",
       "interest": "Auf Hills Hard Times von 1975 folgte drei Jahre später, 1978, Driver als zweiter eigener Regiefilm.",
       "sources": [
         "institut",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Auf Hills Hard Times von 1975 folgte drei Jahre später, 1978, Driver als zweiter eigener Regiefilm."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Regie: Walter Hill.",
       "context": "Hill reduziert persönliche Namen und ausführliche Biografien. Ryan O’Neal, Bruce Dern und Isabelle Adjani treten als Fahrer, Ermittler und Spielerin gegeneinander an; ihre Funktionen und Entscheidungen bestimmen die Geschichte stärker als erklärte Lebensläufe.",
-      "anchor": "Hill ordnet seine namenlosen Figuren nach Funktion und Entscheidung statt langer Biografie.",
       "interest": "Hill ordnet seine namenlosen Figuren nach Funktion und Entscheidung statt langer Biografie.",
       "sources": [
         "institut",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hill ordnet seine namenlosen Figuren nach Funktion und Entscheidung statt langer Biografie."
     }
   ]
 }

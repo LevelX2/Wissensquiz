@@ -32,6 +32,7 @@ const contents = packages
       !p.filename.endsWith("fragen_20261007.csv") &&
       !p.filename.startsWith("Genre100_") &&
       !p.filename.startsWith("Schauspieler-Bekanntheit-") &&
+      p.filename !== "Action-Drama-Ergaenzungen-2026-10-15.csv" &&
       p.filename !== "Filmfragen_240_Filme_1920_Fragen.csv",
   )
   .map((p) => ({
@@ -91,7 +92,7 @@ it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollst
     ).toBe(true);
     expect(q.context.split(/\s+/).length).toBeGreaterThanOrEqual(35);
     expect(
-      q.anchor && q.answers.every((a) => a.feedback.includes(a.text)),
+      q.answers.every((a) => a.feedback.includes(a.text)),
     ).toBeTruthy();
     expect(q.tags).toContain("Preisträger");
     expect(familiarityOf(q)).toBeTruthy();
@@ -123,7 +124,7 @@ it("liefert für jeden Preisfilm Eckdaten, ohne zusätzliche Fragen oder fremde 
   expect(films.films).toHaveLength(135);
   const state = emptyState();
   addPackages(state, contents);
-  expect(state.questions).toHaveLength(4889);
+  expect(state.questions).toHaveLength(4888);
   expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4410);
   expect(new Set(state.questions.map((q) => q.topic)).size).toBe(604);
   expect(

@@ -30,12 +30,12 @@
       ],
       "short": "Harrys charakteristischer Revolver ist eine .44 Magnum.",
       "context": "Harry Callahan (Clint Eastwood) unterbricht beim Mittagessen einen Banküberfall. Ein verwundeter Räuber muss entscheiden, ob der Polizist noch eine Patrone im Revolver hat. Harry verbindet dabei die Bedrohung durch seine .44 Magnum mit einem Bluff über die abgegebenen Schüsse. Die Waffe steht für seine demonstrative Härte und erscheint später erneut im entscheidenden Duell mit Scorpio (Andy Robinson).",
-      "anchor": "Harrys charakteristischer Revolver ist eine .44 Magnum.",
       "interest": "Eine zentrale Requisite mit konkreter Funktion im Machtspiel.",
       "sources": [
         "film",
         "archiv"
-      ]
+      ],
+      "objective": "Harrys charakteristischer Revolver ist eine .44 Magnum."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Scorpio erpresst die Stadt mit Geldforderungen und Morddrohungen.",
       "context": "Scorpio (Andy Robinson) schießt zunächst auf eine Frau und hinterlässt einen Erpresserbrief. Die Stadt soll zahlen, damit er keine weiteren Menschen tötet. Harry Callahan (Clint Eastwood) misstraut dem Versuch, den Täter mit Geld zu besänftigen. Die späteren Lösegeldforderungen verlängern diesen Konflikt: Für die Stadt geht es um Zeitgewinn, während Harry darin eine gefährliche Unterwerfung unter den Täter sieht.",
-      "anchor": "Scorpio erpresst die Stadt mit Geldforderungen und Morddrohungen.",
       "interest": "Erschließt den zentralen Konflikt zwischen Erpressung und Polizeireaktion.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Scorpio erpresst die Stadt mit Geldforderungen und Morddrohungen."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Rechtswidrig beschaffte Beweise führen zu Scorpios Freilassung.",
       "context": "Harry Callahan (Clint Eastwood) verfolgt Scorpio (Andy Robinson) ins Stadion und erzwingt gewaltsam die Information über ein entführtes Mädchen. Für den Staatsanwalt sind Harrys Methoden jedoch kein zulässiger Ermittlungsweg. Die Durchsuchung und das erzwungene Geständnis beschädigen den Fall. Die Freilassung verschärft deshalb den Grundkonflikt des Films: Harrys Gewissheit über den Täter ersetzt keine rechtlich verwertbare Beweislage.",
-      "anchor": "Rechtswidrig beschaffte Beweise führen zu Scorpios Freilassung.",
       "interest": "Eine konkrete Konsequenz des Konflikts zwischen Polizeigewalt und Rechtsstaat.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Rechtswidrig beschaffte Beweise führen zu Scorpios Freilassung."
     },
     {
       "code": "M2",
@@ -100,11 +100,11 @@
       ],
       "short": "Scorpio inszeniert eine Misshandlung und schiebt Harry die Verantwortung zu.",
       "context": "Nachdem Scorpio (Andy Robinson) freigelassen wurde, folgt ihm Harry Callahan (Clint Eastwood) auf eigene Faust. Der Täter bezahlt einen Mann dafür, ihn zusammenzuschlagen, und behauptet anschließend, Harry habe ihn misshandelt. So macht er aus der tatsächlichen Beschattung eine fingierte Gewalttat. Harrys bereits umstrittene Methoden erleichtern die Intrige, obwohl diese konkrete Verletzung nicht von ihm stammt.",
-      "anchor": "Scorpio inszeniert eine Misshandlung und schiebt Harry die Verantwortung zu.",
       "interest": "Zeigt, wie der Täter die öffentliche Glaubwürdigkeit des Ermittlers angreift.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Scorpio inszeniert eine Misshandlung und schiebt Harry die Verantwortung zu."
     },
     {
       "code": "S1",
@@ -123,11 +123,11 @@
       ],
       "short": "Chico möchte nach seiner Verwundung Lehrer werden.",
       "context": "Chico Gonzalez (Reni Santoni) wird bei der Lösegeldübergabe angeschossen, als er Harry Callahan (Clint Eastwood) zu Hilfe kommt. Im Krankenhaus erklärt er, dass er den Polizeidienst aufgeben und Lehrer werden möchte. Seine Entscheidung zeigt die persönlichen Kosten der Jagd. Neben Harrys fortgesetzter Eskalation steht damit eine andere Antwort auf die erlebte Gewalt: den gefährlichen Beruf bewusst zu verlassen.",
-      "anchor": "Chico möchte nach seiner Verwundung Lehrer werden.",
       "interest": "Eine begründete Figurenentscheidung statt eines beiläufigen Namensdetails.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Chico möchte nach seiner Verwundung Lehrer werden."
     },
     {
       "code": "S2",
@@ -146,11 +146,11 @@
       ],
       "short": "Harry wirft seine Polizeimarke ins Wasser.",
       "context": "Im Steinbruch stellt Harry Callahan (Clint Eastwood) Scorpio (Andy Robinson) ein letztes Mal. Nach dem tödlichen Schuss zieht er seine Marke hervor und wirft sie ins Wasser. Der Film endet mit dieser Handlung, statt Harry bei einer offiziellen Anerkennung zu zeigen. Das sichtbare Ablegen des Amtszeichens verdichtet seinen Bruch mit der Institution, deren Regeln er schon zuvor wiederholt überschritten hat.",
-      "anchor": "Harry wirft seine Polizeimarke ins Wasser.",
       "interest": "Ein Schlussbild, das Harrys Verhältnis zum Polizeiamt bündelt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Harry wirft seine Polizeimarke ins Wasser."
     },
     {
       "code": "Y",
@@ -169,12 +169,12 @@
       ],
       "short": "1971 Dirty Harry, 1973 Magnum Force: zwei Jahre Abstand.",
       "context": "Dirty Harry begann 1971 die Filmreihe um Harry Callahan (Clint Eastwood). Bereits 1973 folgte Magnum Force, also zwei Jahre später. In dieser Fortsetzung gerät der Ermittler selbst mit Polizisten aneinander, die Verdächtige töten. Der zeitliche Abstand verbindet zwei unterschiedliche Zuspitzungen derselben Figur. Für den Beginn der Reihe zählt die Weltpremiere von 1971, auch wenn der breite Kinoerfolg 1972 folgte.",
-      "anchor": "1971 Dirty Harry, 1973 Magnum Force: zwei Jahre Abstand.",
       "interest": "Verbindet den Reihenbeginn mit der konkreten ersten Fortsetzung.",
       "sources": [
         "archiv",
         "film"
-      ]
+      ],
+      "objective": "1971 Dirty Harry, 1973 Magnum Force: zwei Jahre Abstand."
     },
     {
       "code": "D",
@@ -193,12 +193,12 @@
       ],
       "short": "Don Siegel inszenierte Dirty Harry.",
       "context": "Don Siegel führte Regie und war zugleich Produzent des Films. Clint Eastwood spielte die Hauptrolle und seine Firma Malpaso gehörte zur Produktion. Der Regiecredit darf deshalb nicht aus Eastwoods späterer Laufbahn als Regisseur abgeleitet werden. Siegel lässt die Jagd durch konkrete San-Francisco-Schauplätze führen und verbindet die städtischen Räume mit dem zunehmend persönlichen Konflikt zwischen Harry Callahan (Clint Eastwood) und Scorpio (Andy Robinson).",
-      "anchor": "Don Siegel inszenierte Dirty Harry.",
       "interest": "Trennt Hauptdarsteller, Produktionsfirma und offiziellen Regiecredit.",
       "sources": [
         "archiv",
         "film"
-      ]
+      ],
+      "objective": "Don Siegel inszenierte Dirty Harry."
     }
   ]
 }

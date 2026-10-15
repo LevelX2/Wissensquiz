@@ -35,12 +35,12 @@
       ],
       "short": "Zwei Banditen scheitern beim Versuch, Ma Xinyi (Ti Lung) zu berauben.",
       "context": "Zwei Banditen scheitern beim Versuch, Ma Xinyi (Ti Lung) zu berauben. Die Gegner verbinden sich danach zu einer Gruppe. Anerkanntes Können verwandelt die Feindschaft vorübergehend in Zusammenarbeit. Eine lange gemeinsame Ausbildung oder Verwandtschaft muss diese Verbindung nicht vorbereiten.",
-      "anchor": "Der gescheiterte Überfall beginnt die Brüderschaft.",
       "interest": "Die Begegnung erklärt die Gruppengründung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der gescheiterte Überfall beginnt die Brüderschaft."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Ma Xinyi (Ti Lung) strebt eine Stellung in der staatlichen Hierarchie an.",
       "context": "Ma Xinyi (Ti Lung) strebt eine Stellung in der staatlichen Hierarchie an. Sein Aufstieg trennt seine Möglichkeiten von denen der Freunde. Die neue Position verändert nicht nur seinen Rang. Sie verschiebt das Gleichgewicht der zuvor gemeinsam handelnden Gruppe.",
-      "anchor": "Mas Aufstieg entfernt ihn vom gemeinsamen Ausgangspunkt.",
       "interest": "Der Ehrgeiz erklärt die Ungleichheit.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mas Aufstieg entfernt ihn vom gemeinsamen Ausgangspunkt."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Mi Lan (Ching Li) ist Huangs Ehefrau.",
       "context": "Mi Lan (Ching Li) ist Huangs Ehefrau. Das Verhältnis mit Ma Xinyi (Ti Lung) verletzt eine Bindung innerhalb der Brüderschaft. Begehren und berufliches Ansehen geraten in Verbindung. Das gemeinsame Versprechen reicht nicht mehr, um die Entscheidungen der Beteiligten vorhersehbar zu machen.",
-      "anchor": "Mi Lans Ehe bindet das Verhältnis an den Verrat.",
       "interest": "Die Beziehung erklärt den persönlichen Konflikt.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Mi Lans Ehe bindet das Verhältnis an den Verrat."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Ma Xinyi (Ti Lung) lässt Huang (Chen Kuan-tai) ermorden.",
       "context": "Ma Xinyi (Ti Lung) lässt Huang (Chen Kuan-tai) ermorden. Der Schutz des eigenen Ansehens führt zum Bruch der Brüderschaft. Der Aufstieg ist nicht bloß Hintergrund des Konflikts. Die neue Stellung liefert den Grund, eine bestehende Bindung als Hindernis zu beseitigen.",
-      "anchor": "Ma schützt seinen Rang durch den Mord am Bruder.",
       "interest": "Die Entscheidung verbindet Karriere und Verrat.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ma schützt seinen Rang durch den Mord am Bruder."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Chang (David Chiang) berichtet als Gefangener wegen Mas Tötung einem Amtsträger.",
       "context": "Chang (David Chiang) berichtet als Gefangener wegen Mas Tötung einem Amtsträger. Die Rückschau steht unter einem drohenden Urteil. Der Erzähler gewinnt keine sichere Distanz. Er erklärt den Weg zur Tat, während die Folgen seiner eigenen Entscheidung bereits fest um ihn geschlossen sind.",
-      "anchor": "Die Erinnerung wird unter der Last der Gefangenschaft erzählt.",
       "interest": "Der Rahmen gibt der Rückblende ein bekanntes Ende.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Erinnerung wird unter der Last der Gefangenschaft erzählt."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Mi Lan (Ching Li) bleibt allein zurück.",
       "context": "Mi Lan (Ching Li) bleibt allein zurück. Der Schluss macht die Auswirkungen bei einer Überlebenden sichtbar. Gemeinsame Zeiten können nur erinnert werden. Gewonnener Rang und erfülltes Begehren haben die ursprüngliche Gemeinschaft nicht ersetzt und keine dauerhafte neue Bindung geschaffen.",
-      "anchor": "Mi Lan überlebt die zerbrochene Gemeinschaft allein.",
       "interest": "Der Schluss zeigt die verbleibende Folge.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Mi Lan überlebt die zerbrochene Gemeinschaft allein."
     },
     {
       "code": "Y",
@@ -179,14 +179,14 @@
       ],
       "short": "Erstveröffentlichung am 24. Februar 1973; Shaw-Brothers-Film nach dem Stoff eines historischen Attentats.",
       "context": "„Die Blutsbrüder des gelben Drachen“ erschien 1973. Im selben Jahr erhielt Ti Lung für seine Darstellung eine Auszeichnung für herausragende schauspielerische Leistung. Das Hong Kong Film Archive dokumentiert die Ehrung anhand seiner gestifteten Trophäen. Das Jahr verknüpft Veröffentlichung und zeitgenössische Anerkennung einer Rolle, die Machtstreben und Verrat zusammenführt.",
-      "anchor": "1973: Filmveröffentlichung und Ti Lungs Ehrung für seine Darstellung.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "trophäen"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1973: Filmveröffentlichung und Ti Lungs Ehrung für seine Darstellung."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Chang Cheh inszenierte den Film mit Ti Lung, David Chiang und Chen Kuan-tai.",
       "context": "Chang Cheh inszenierte den Film mit Ti Lung, David Chiang und Chen Kuan-tai. Lau Kar-leung gestaltete die Kampfkunst. Die Handlung nutzt die Verbindung der drei Männer nicht als dauerhafte Sicherheit. Beruflicher Aufstieg und ein Liebesverhältnis verändern das zunächst gemeinsam gewonnene Vertrauen.",
-      "anchor": "Chang Cheh setzt das Dreierensemble dem Bruch seiner Loyalität aus.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Chang Cheh setzt das Dreierensemble dem Bruch seiner Loyalität aus."
     }
   ]
 }

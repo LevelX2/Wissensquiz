@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Sie erkennen, dass ihre Ehepartner eine Affäre miteinander haben.",
       "context": "Su und Chow (Tony Leung Chiu-wai) werden durch den Verrat einander näher. Sie versuchen zu verstehen, wie die Beziehung ihrer Partner begonnen haben könnte. Die eigene Annäherung steht dabei unter dem Vorsatz, anders zu handeln als die beiden Menschen, von denen sie verletzt wurden.",
-      "anchor": "Die betrogenen Nachbarn suchen gemeinsam nach Verständnis.",
       "interest": "Ein gemeinsamer Vertrauensbruch wird zum Ausgangspunkt neuer Nähe.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-ART-19-03",
       "variant_of": "ART-M-037",
-      "knowledge_note": "Dieselbe Entdeckung der Affäre beider Ehepartner; personenzentrierte Variante des bestehenden Filmziels."
+      "knowledge_note": "Dieselbe Entdeckung der Affäre beider Ehepartner; personenzentrierte Variante des bestehenden Filmziels.",
+      "objective": "Die betrogenen Nachbarn suchen gemeinsam nach Verständnis."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 1,
       "short": "May ist Ka-kuis Freundin.",
       "context": "Die Beziehung zu May leidet unter Ka-kuis (Jackie Chan) gefährlicher Polizeiarbeit. Nach seiner Zurückstufung hofft sie auf mehr gemeinsame Zeit. Der neue Bombenfall zieht ihn jedoch erneut in den Einsatz und macht deutlich, wie wenig sich Beruf und Privatleben voneinander trennen lassen.",
-      "anchor": "May erlebt die privaten Folgen von Ka-kuis Einsätzen.",
       "interest": "Eine Actionreihe zeigt auch die Belastung einer Partnerschaft.",
       "feedback": [
         "",
@@ -64,7 +63,8 @@
       ],
       "knowledge_id": "K-ASI-202610-P01-L-012",
       "variant_of": "ASI-202610-P01-L-012",
-      "knowledge_note": "Dieselbe Zuordnung Maggie Cheung–May–Ka-kuis Freundin; Perspektivwechsel von Darstellerin zu Figurenbeziehung."
+      "knowledge_note": "Dieselbe Zuordnung Maggie Cheung–May–Ka-kuis Freundin; Perspektivwechsel von Darstellerin zu Figurenbeziehung.",
+      "objective": "May erlebt die privaten Folgen von Ka-kuis Einsätzen."
     },
     {
       "code": "M1",
@@ -78,7 +78,6 @@
       "correct": 1,
       "short": "Sie stiehlt einer amerikanischen Hotelgästin eine Halskette.",
       "context": "Cheung spielt eine Variante ihrer selbst, die für eine Filmproduktion nach Paris kommt. Mit dem glänzenden schwarzen Anzug übernimmt sie außerhalb des Sets das Verhalten ihrer Filmfigur und flieht mit dem Schmuck aufs Dach. Schauspiel, fremdes Rollenbild und eigene Handlung gehen in dieser nächtlichen Episode ineinander über.",
-      "anchor": "Das Kostüm führt vom gespielten zum tatsächlichen Diebstahl.",
       "interest": "Ein Film über Schauspiel lässt die Grenzen einer Rolle durchlässig werden.",
       "feedback": [
         "",
@@ -91,7 +90,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/7369-irma-vep-film-in-flux"
-      ]
+      ],
+      "objective": "Das Kostüm führt vom gespielten zum tatsächlichen Diebstahl."
     },
     {
       "code": "M2",
@@ -105,7 +105,6 @@
       "correct": 0,
       "short": "Emily möchte ihren Sohn zurückbekommen.",
       "context": "Die Großeltern ziehen das Kind fern von ihr auf. Emily muss ihre Abhängigkeit überwinden und einen tragfähigen Alltag finden, damit die Annäherung möglich wird. Der Film verbindet ihren Neuanfang mit der Frage, ob verlorenes Vertrauen durch konkrete Veränderungen wieder entstehen kann.",
-      "anchor": "Emilys Neuanfang richtet sich auf das Wiedersehen mit dem Sohn.",
       "interest": "Die Überwindung einer Abhängigkeit erhält ein konkretes familiäres Ziel.",
       "feedback": [
         "",
@@ -118,7 +117,8 @@
       ],
       "extraSources": [
         "https://www.festival-cannes.com/en/f/clean/"
-      ]
+      ],
+      "objective": "Emilys Neuanfang richtet sich auf das Wiedersehen mit dem Sohn."
     },
     {
       "code": "S1",
@@ -132,7 +132,6 @@
       "correct": 3,
       "short": "Der Film verbindet Spielszenen mit dokumentarischen Aufnahmen und Interviews.",
       "context": "Stanley Kwan betrachtet Ruan Lingyu und ihre Kollegen im Shanghai der 1930er Jahre. Die zusätzlichen Gesprächs- und Dokumentarebenen lassen zugleich das Hongkonger Kino der frühen 1990er Jahre sichtbar werden. Cheungs Darstellung steht dadurch in einem Dialog mit überlieferten Bildern und heutigen Erinnerungen.",
-      "anchor": "Die Biografie zeigt zugleich das frühere Kino und den heutigen Blick darauf.",
       "interest": "Eine Schauspielerin nähert sich einer Vorgängerin in mehreren Formen der Erinnerung.",
       "feedback": [
         "",
@@ -145,7 +144,8 @@
       ],
       "extraSources": [
         "https://www.filmarchive.gov.hk/en/web/hkfa/2014/stanley-kwan/pe-past-events-2014-15-fs-film02.html"
-      ]
+      ],
+      "objective": "Die Biografie zeigt zugleich das frühere Kino und den heutigen Blick darauf."
     },
     {
       "code": "S2",
@@ -159,7 +159,6 @@
       "correct": 2,
       "short": "Die Musik von Teresa Teng verbindet die beiden.",
       "context": "Li Qiao und Xiaojun (Leon Lai) kommen vom chinesischen Festland nach Hongkong, gehen aber später getrennte Wege. Jahre danach treffen sie in New York wieder aufeinander, als die Nachricht von Teresa Tengs Tod die Aufmerksamkeit auf ihre Musik lenkt. Gemeinsame Erinnerung überdauert Ortswechsel und gescheiterte Lebenspläne.",
-      "anchor": "Teresa Tengs Stimme begleitet eine Liebe über mehrere Orte hinweg.",
       "interest": "Popmusik verbindet Migration, Erinnerung und zufällige Wiederbegegnung.",
       "feedback": [
         "",
@@ -172,7 +171,8 @@
       ],
       "extraSources": [
         "https://www.filmarchive.gov.hk/en/web/hkfa/2026/peter-ho-sun-chan/pe-event-2026-peter-ho-sun-chan-fs-film01.html"
-      ]
+      ],
+      "objective": "Teresa Tengs Stimme begleitet eine Liebe über mehrere Orte hinweg."
     },
     {
       "code": "E1",
@@ -186,7 +186,6 @@
       "correct": 2,
       "short": "Sie wurde für „Clean“ ausgezeichnet.",
       "context": "Cannes ehrte ihre Darstellung der Emily in Olivier Assayas’ Film. Der Preis gehört zu einer Arbeit, in der Cheung eine Frau beim Wiederaufbau ihres Lebens spielt. Er ist von ihrem früheren Berliner Darstellerinnenpreis für „Center Stage“ zu unterscheiden.",
-      "anchor": "Cannes 2004 zeichnete Cheungs Emily aus.",
       "interest": "Internationale Auszeichnungen den jeweiligen Schauspielarbeiten zuordnen.",
       "feedback": [
         "",
@@ -203,7 +202,8 @@
       "extraSources": [
         "https://www.festival-cannes.com/en/p/maggie-cheung/",
         "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Maggie-CHEUNG_e.pdf"
-      ]
+      ],
+      "objective": "Cannes 2004 zeichnete Cheungs Emily aus."
     },
     {
       "code": "E2",
@@ -217,7 +217,6 @@
       "correct": 3,
       "short": "Das Werk ist eine Videoinstallation mit neun Projektionsflächen.",
       "context": "Cheung verkörpert die Meeresgöttin Mazu. Julien verbindet den Mythos mit Bildern chinesischer Migration und dem Tod von 23 Muschelsammlern in Morecambe Bay. Die parallel verteilten Bilder lassen verschiedene Zeiten und Geschichten gleichzeitig in Beziehung treten; die Schauspielarbeit wird Teil eines räumlich angeordneten Kunstwerks.",
-      "anchor": "Cheungs Mazu erscheint in einer Installation aus neun Bildkanälen.",
       "interest": "Eine Filmschauspielerin arbeitet auch mit den räumlichen Möglichkeiten der Videokunst.",
       "feedback": [
         "",
@@ -228,7 +227,8 @@
       "films": [],
       "extraSources": [
         "https://www.mplus.org.hk/en/collection/objects/ten-thousand-waves-201676/"
-      ]
+      ],
+      "objective": "Cheungs Mazu erscheint in einer Installation aus neun Bildkanälen."
     }
   ]
 }

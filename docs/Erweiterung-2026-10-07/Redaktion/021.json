@@ -38,12 +38,12 @@
       ],
       "short": "Samantha Caine lebt zunächst als Lehrerin.",
       "context": "Samantha Caine (Geena Davis) lebt mit ihrer Tochter und ihrem Partner in einer Kleinstadt. Ihr früheres Leben ist ihr nicht zugänglich. Die Lehrerin ist deshalb keine absichtlich spielende Agentin, die dem Publikum nur etwas vormacht: Innerhalb der Handlung glaubt sie selbst an ihren gegenwärtigen Alltag, bis unerklärliche Fähigkeiten diese Sicherheit erschüttern.",
-      "anchor": "Samanthas normaler Alltag besteht ohne Erinnerung an ihr früheres Leben.",
       "interest": "Samanthas normaler Alltag besteht ohne Erinnerung an ihr früheres Leben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Samanthas normaler Alltag besteht ohne Erinnerung an ihr früheres Leben."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Mitch wird als Privatdetektiv mit der Suche nach Samanthas Vergangenheit beauftragt.",
       "context": "Samantha Caine (Geena Davis) hat bereits mehrfach versucht, ihr vergessenes Leben aufzuklären. Mitch Henessey (Samuel L. Jackson) findet eine greifbare Spur und begleitet sie. Das ungleiche Paar muss anschließend mehr leisten als gewöhnliche Recherche. Aus dem bezahlten Auftrag entsteht eine gemeinsame Gefährdung, in der Wissen über Samantha selbst zur Frage des Überlebens wird.",
-      "anchor": "Mitchs Auftrag führt vom Nachforschen mitten in Samanthas alte Gefahr.",
       "interest": "Mitchs Auftrag führt vom Nachforschen mitten in Samanthas alte Gefahr.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Mitchs Auftrag führt vom Nachforschen mitten in Samanthas alte Gefahr."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Nach dem Unfall bemerkt Samantha eine unerklärliche Messersicherheit.",
       "context": "Samantha Caine (Geena Davis) erinnert sich nicht an ihre Ausbildung, zeigt aber plötzlich präzise körperliche Fähigkeiten. Der Film trennt damit bewusste Erinnerung und eingeübtes Handeln. Ein harmloser Alltagsmoment wirkt beunruhigend, weil ihr Körper mehr zu wissen scheint als ihre eigene Lebensgeschichte. Die folgende Suche fragt deshalb auch, welche Person diese Fähigkeiten erworben hat.",
-      "anchor": "Samanthas Hände erinnern sich früher als ihr bewusstes Gedächtnis.",
       "interest": "Samanthas Hände erinnern sich früher als ihr bewusstes Gedächtnis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Samanthas Hände erinnern sich früher als ihr bewusstes Gedächtnis."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Samantha war zuvor als Charly Baltimore für den Geheimdienst tätig.",
       "context": "Geena Davis spielt Samantha und Charly als unterschiedliche Phasen derselben Frau. Der Film zeigt keine zwei voneinander unabhängigen Zwillingsfiguren. Die Rückkehr der Erinnerung verändert ihr Auftreten und bringt alte Konflikte hervor. Zugleich bleibt die Tochter Caitlin Teil ihres Lebens, sodass die frühere Identität den neuen familiären Alltag nicht folgenlos ersetzen kann.",
-      "anchor": "Samantha und Charly sind zwei Lebensphasen derselben Frau.",
       "interest": "Samantha und Charly sind zwei Lebensphasen derselben Frau.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Samantha und Charly sind zwei Lebensphasen derselben Frau."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Ein inszenierter fremder Angriff soll neue Finanzmittel rechtfertigen.",
       "context": "Charly Baltimore (Geena Davis) und Mitch Henessey (Samuel L. Jackson) entdecken hinter der unmittelbaren Verfolgung einen größeren Plan. Gewalt soll so aussehen, als käme sie von außen, obwohl Beteiligte im eigenen Apparat sie vorbereiten. Der Film stellt dadurch die Frage, wer eine Gefahr erzeugt und wer aus ihrer öffentlich behaupteten Ursache Nutzen zieht.",
-      "anchor": "Der geplante Angriff soll seine eigentlichen Urheber stärken.",
       "interest": "Der geplante Angriff soll seine eigentlichen Urheber stärken.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der geplante Angriff soll seine eigentlichen Urheber stärken."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Die Figur entscheidet sich erneut für ihr Familienleben als Samantha.",
       "context": "Die Rückkehr Charly Baltimores (Geena Davis) bedeutet zunächst eine Distanz zur weicheren Samantha-Identität. Doch die Bedrohung der Tochter macht deren Beziehung entscheidend. Am Ende sind Können und Familie keine vollständig getrennten Leben mehr. Die Frau wählt ihren Alltag neu, nachdem sie dessen frühere Unwissenheit überwunden und ihre Tochter gerettet hat.",
-      "anchor": "Wiedergewonnenes Können führt zu einer bewussten Wahl für die Familie.",
       "interest": "Wiedergewonnenes Können führt zu einer bewussten Wahl für die Familie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Wiedergewonnenes Können führt zu einer bewussten Wahl für die Familie."
     },
     {
       "code": "Y",
@@ -182,13 +182,13 @@
       ],
       "short": "Der Film erschien 1996.",
       "context": "Geena Davis übernimmt nach anderen markanten Hauptrollen eine Mutter mit verborgener Agentinnenvergangenheit. Der Film kam im Herbst in die Kinos, obwohl Weihnachten seine Handlung und viele Bilder prägt. Veröffentlichungszeit und erzählte Jahreszeit müssen daher nicht übereinstimmen. Das Filmjahr verankert die Davis-Jackson-Paarung im Actionkino der mittleren neunziger Jahre.",
-      "anchor": "Herbststart 1996, Weihnachtskonflikt in der Handlung.",
       "interest": "Herbststart 1996, Weihnachtskonflikt in der Handlung.",
       "sources": [
         "handlung",
         "moma"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Herbststart 1996, Weihnachtskonflikt in der Handlung."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "Renny Harlin führte Regie, Shane Black schrieb das Drehbuch.",
       "context": "Renny Harlin gestaltet die Action und die Verwandlung des Auftritts von Geena Davis. Shane Black verantwortet den geschriebenen Stoff und arbeitet auch als Produzent. Die markante Mischung aus Weihnachten, Dialogwitz und Gewalt darf deshalb die Aufgaben nicht vermischen. Der Autor und die Regieperson sind in diesem Film unterschiedliche Menschen.",
-      "anchor": "Harlin inszeniert die Action; Black schreibt ihre Geschichte.",
       "interest": "Harlin inszeniert die Action; Black schreibt ihre Geschichte.",
       "sources": [
         "handlung",
         "moma"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Harlin inszeniert die Action; Black schreibt ihre Geschichte."
     }
   ]
 }

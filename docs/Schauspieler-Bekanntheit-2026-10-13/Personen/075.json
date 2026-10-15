@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Kathy soll Lina ihre Stimme leihen.",
       "context": "Linas Stimme passt nicht zum eleganten Bild, das sie auf der Leinwand verkörpert. Für den Übergang zum Tonfilm braucht das Studio deshalb eine hörbare Darstellerin hinter dem sichtbaren Star. Kathy hilft, muss aber darum kämpfen, dass ihre eigene Leistung anerkannt wird.",
-      "anchor": "Kathy gibt Lina die Stimme, die der Tonfilm verlangt.",
       "interest": "Ein zentraler Konflikt des Musicals wird über Reynolds’ Figur erschlossen.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-CLA-05-04",
       "variant_of": "CLA-M-010",
-      "knowledge_note": "Gleiches Wissensziel: Kathy Selden ersetzt Linas Stimme im Film innerhalb des Films."
+      "knowledge_note": "Gleiches Wissensziel: Kathy Selden ersetzt Linas Stimme im Film innerhalb des Films.",
+      "objective": "Kathy gibt Lina die Stimme, die der Tonfilm verlangt."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 0,
       "short": "Molly Brown überlebt den Untergang der Titanic.",
       "context": "Das Musical gestaltet das Leben von Margaret Tobin Brown als Aufstiegsgeschichte von Armut zu Reichtum und gesellschaftlicher Anerkennung. Der Überlebenswille verbindet die verschiedenen Lebensabschnitte der Filmfigur. Es handelt sich um eine freie Musicalfassung einer historischen Biografie.",
-      "anchor": "Goldgräber-Molly gehört zu den Überlebenden der Titanic.",
       "interest": "Die Filmfigur wird mit ihrem historischen Vorbild verbunden.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/news/debbie-reynolds-dies-age-84",
         "https://catalog.afi.com/Film/23244-THE-UNSINKABLE-MOLLY-BROWN"
-      ]
+      ],
+      "objective": "Goldgräber-Molly gehört zu den Überlebenden der Titanic."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 0,
       "short": "Tammy pflegt den abgestürzten Piloten Peter.",
       "context": "Tammy lebt mit ihrem Großvater John Dinwitty (Walter Brennan) abgeschieden am Fluss. Die beiden finden Peter bewusstlos und bringen ihn nach Hause. Als der Großvater später wegen Schwarzbrennerei ins Gefängnis kommt, sucht Tammy ihrerseits Schutz bei Peters Familie. Aus der Rettung entsteht so eine Verbindung zwischen zwei Lebenswelten.",
-      "anchor": "Ein Flugzeugabsturz bringt Peter in Tammys abgeschiedene Welt.",
       "interest": "Die erste Begegnung erklärt den späteren Wechsel in Peters Familie.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/52389-TAMMY-AND-THE-BACHELOR"
-      ]
+      ],
+      "objective": "Ein Flugzeugabsturz bringt Peter in Tammys abgeschiedene Welt."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 2,
       "short": "John sucht den Ursprung seiner Beziehungsprobleme.",
       "context": "Der erfolglose Schriftsteller betrachtet das Zusammenleben wie ein persönliches Experiment. Beatrices freundlicher Ton und ihre kritischen Bemerkungen passen dabei selten zusammen. John muss feststellen, dass seine Mutter eigene Wünsche und Enttäuschungen besitzt, die in seinem bisherigen Bild von ihr kaum vorkamen.",
-      "anchor": "John zieht heim, um seine Beziehungen zu Frauen zu verstehen.",
       "interest": "Eine späte Komödienrolle erschließt das erwachsene Mutter-Sohn-Verhältnis.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/29661-mother"
-      ]
+      ],
+      "objective": "John zieht heim, um seine Beziehungen zu Frauen zu verstehen."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 3,
       "short": "Charlotte will verhindern, dass Wilbur geschlachtet wird.",
       "context": "Das junge Schwein erfährt von den anderen Hoftieren, dass es gemästet wird, um später zu Fleisch verarbeitet zu werden. Charlotte verspricht ihm Hilfe. Reynolds’ ruhige Stimme verleiht der Spinne eine Zuversicht, die Wilburs Angst auffängt; ihre ungewöhnlichen Botschaften im Netz verändern den Blick der Menschen auf ihn.",
-      "anchor": "Charlotte macht Wilbur so besonders, dass er leben darf.",
       "interest": "Die Sprechrolle wird mit dem eigentlichen Rettungsziel der Geschichte verbunden.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/54911-CHARLOTTE%27S-WEB"
-      ]
+      ],
+      "objective": "Charlotte macht Wilbur so besonders, dass er leben darf."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 2,
       "short": "The Thalians unterstützen psychische Gesundheit.",
       "context": "Reynolds gehörte zu den Gründungsmitgliedern und leitete die Organisation über viele Jahre. Die Spendenerlöse halfen unter anderem dem Mental Health Center von Cedars-Sinai und später UCLA’s Operation Mend für verletzte Kriegsveteranen. Die Academy ehrte sie 2015 mit dem Jean Hersholt Humanitarian Award.",
-      "anchor": "Reynolds verband die Thalians mit langjähriger Hilfe für psychisch Erkrankte.",
       "interest": "Ein dauerhaftes öffentliches Engagement ergänzt ihre Unterhaltungslaufbahn.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       "films": [],
       "extraSources": [
         "https://www.oscars.org/governors-awards/2015/debbie-reynolds"
-      ]
+      ],
+      "objective": "Reynolds verband die Thalians mit langjähriger Hilfe für psychisch Erkrankte."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 3,
       "short": "Beide standen in „Irene“ erstmals am Broadway auf der Bühne.",
       "context": "Reynolds spielte Irene O’Dare in der Wiederaufnahme des älteren Musicals. Fisher gehörte als Debütantin zum Ensemble. Die Produktion eröffnete das neue Minskoff Theatre und lief bis 1974. Das gemeinsame Engagement verbindet zwei sehr unterschiedliche spätere Filmkarrieren mit derselben Broadwayproduktion.",
-      "anchor": "Mutter und Tochter gaben in „Irene“ ihr Broadwaydebüt.",
       "interest": "Die familiäre Verbindung führt zu einer konkret belegten gemeinsamen Bühnenarbeit.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       "films": [],
       "extraSources": [
         "https://www.ibdb.com/broadway-production/irene-3182"
-      ]
+      ],
+      "objective": "Mutter und Tochter gaben in „Irene“ ihr Broadwaydebüt."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 1,
       "short": "Sie sammelte historische Filmkostüme und Requisiten.",
       "context": "Reynolds kaufte zahlreiche Stücke, als MGM seine Bestände versteigerte, und bemühte sich lange um ein Museum für die Sammlung. Ein Teil musste später verkauft werden. Ihr Sohn Todd Fisher bewahrte weitere Objekte; die Academy würdigte Reynolds schließlich auch als Sammlerin und Konservatorin.",
-      "anchor": "Reynolds sicherte Kostüme und Requisiten als greifbare Filmgeschichte.",
       "interest": "Der Erhalt materieller Zeugnisse zeigt eine weitere berufliche Lebensaufgabe.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       "extraSources": [
         "https://www.debbiereynolds.com/academy-museum",
         "https://www.debbiereynolds.com/debbie-reynolds-biography/"
-      ]
+      ],
+      "objective": "Reynolds sicherte Kostüme und Requisiten als greifbare Filmgeschichte."
     }
   ]
 }

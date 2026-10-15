@@ -37,12 +37,12 @@
       ],
       "short": "Olaf verfolgt das Vermögen der Baudelaire-Familie.",
       "context": "Graf Olaf (Jim Carrey) übernimmt die Betreuung von Violet (Emily Browning), Klaus (Liam Aiken) und Sunny (Kara und Shelby Hoffman), um an ihr Vermögen zu gelangen. Die Vormundschaft gibt ihm Macht über Schutzbedürftige. Der vermeintliche Schutzraum wird dadurch zum Ort gezielter Ausbeutung.",
-      "anchor": "Die Vormundschaft soll Olaf Zugriff auf das Vermögen geben.",
       "interest": "Das zentrale Motiv erklärt die Gefahr hinter einem offiziellen Fürsorgeverhältnis.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Vormundschaft soll Olaf Zugriff auf das Vermögen geben."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ein Brand zerstört das Familienhaus und tötet die Eltern.",
       "context": "Der Brand macht die drei Geschwister zu Waisen. Mr. Poe (Timothy Spall) organisiert ihre anschließende Betreuung, erkennt aber die Gefahren nicht zuverlässig. Das Unglück führt deshalb nicht in eine sichere neue Ordnung: Die Kinder müssen sich weiter auf ihre eigenen unterschiedlichen Fähigkeiten verlassen.",
-      "anchor": "Der Hausbrand macht die Geschwister von unzuverlässiger Betreuung abhängig.",
       "interest": "Das Anfangsereignis erklärt ihre besondere Schutzbedürftigkeit.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Hausbrand macht die Geschwister von unzuverlässiger Betreuung abhängig."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Sunny demonstriert die Harmlosigkeit der Unglaublich Tödlichen Viper.",
       "context": "Sunny (Kara und Shelby Hoffman) beweist, dass Montys vermeintlich tödliche Viper harmlos ist. Die Kinder erkennen damit eine Lücke in der Erklärung des Erwachsenen. Ein einschüchternder Name wird entkräftet, während Graf Olafs (Jim Carrey) Verkleidung seine tatsächliche Gefahr verbergen soll.",
-      "anchor": "Die „tödliche“ Viper ist harmlos; gefährlich ist der verkleidete Mensch.",
       "interest": "Die Szene unterscheidet einen Namen von einem belastbaren Beweis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die „tödliche“ Viper ist harmlos; gefährlich ist der verkleidete Mensch."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die absichtlichen Fehler widersprechen Josephines Gewohnheiten und verweisen auf ihren Aufenthaltsort.",
       "context": "Klaus (Liam Aiken) kennt Josephines (Meryl Streep) Genauigkeit bei Sprache. Gerade die Fehler in ihrem Brief werden deshalb zu Hinweisen. Das Wissen um eine Person hilft ihm, eine erzwungene Botschaft zu entziffern, die Erwachsene vorschnell als glaubwürdige Erklärung akzeptieren.",
-      "anchor": "Für eine Sprachpedantin werden absichtliche Fehler zum Hilferuf.",
       "interest": "Eine Charaktereigenschaft wird zur Grundlage einer schlüssigen Entzifferung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Für eine Sprachpedantin werden absichtliche Fehler zum Hilferuf."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Ein echter Ehevertrag und eine echte Richterin sollen die gespielte Hochzeit rechtswirksam machen.",
       "context": "Olaf (Jim Carrey) lässt Violet (Emily Browning) in einem Stück die Braut spielen. Mit echter Unterschrift und Richterin will er aus Darstellung eine rechtliche Ehe machen. Der Bühnenrahmen verdeckt dadurch einen Machtgewinn, den eine bloße Vormundschaft ihm nicht verschafft hat.",
-      "anchor": "Die Bühnenhochzeit soll einen echten Zugriff auf das Vermögen schaffen.",
       "interest": "Theater und Rechtswirklichkeit werden für einen präzisen Betrug verbunden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Bühnenhochzeit soll einen echten Zugriff auf das Vermögen schaffen."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Lemony Snicket schreibt die Geschichte nieder und spricht als Erzähler.",
       "context": "Lemony Snicket (Originalstimme Jude Law) erscheint als zurückgezogen schreibender Chronist. Seine Warnungen richten sich direkt an das Publikum. Der Rahmen macht die düstere Geschichte zugleich zu einer bewusst gestalteten Dokumentation, deren Erzähler selbst entscheidet, welche Ereignisse und Hinweise er weitergibt.",
-      "anchor": "Der Chronist schreibt und warnt das Publikum vor seiner eigenen Geschichte.",
       "interest": "Der Erzählrahmen erklärt die ungewöhnliche Ansprache der Zuschauer.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Chronist schreibt und warnt das Publikum vor seiner eigenen Geschichte."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Die Kinoadaption erschien 2004, fünf Jahre nach dem ersten Band.",
       "context": "„The Bad Beginning“ erschien 1999 unter Daniel Handlers Pseudonym Lemony Snicket. 2004 folgte die Filmadaption mit fünf Jahren Abstand. Sie verdichtet Ereignisse aus den ersten drei Bänden. Der Zeitanker verbindet deshalb den Reihenbeginn mit einer Kinogeschichte, die bereits mehrere Buchabenteuer zusammenführt.",
-      "anchor": "1999 erster Band, 2004 Film aus drei Bänden: fünf Jahre Abstand.",
       "interest": "Die Vorlagenchronologie erklärt den Umfang der Filmadaption.",
       "sources": [
         "buch",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1999 erster Band, 2004 Film aus drei Bänden: fünf Jahre Abstand."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Brad Silberling führte bei der Kinofassung Regie.",
       "context": "Brad Silberling inszenierte Robert Gordons Drehbuch mit Emmanuel Lubezki an der Kamera und Rick Heinrichs im Szenenbild. Die Räume tragen wesentlich zur makabren Wirkung bei. Die Regie verbindet diese Gestaltung mit Kindern, deren Erfindungsgeist und Wissen innerhalb einer stets bedrohlich wirkenden Erwachsenenwelt bestehen müssen.",
-      "anchor": "Silberling verbindet Gordons Handlung mit Lubezkis Bildern und Heinrichs’ Räumen.",
       "interest": "Ein konkretes Gestaltungsteam erklärt die visuelle Wirkung der Adaption.",
       "sources": [
         "studio",
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Silberling verbindet Gordons Handlung mit Lubezkis Bildern und Heinrichs’ Räumen."
     }
   ]
 }

@@ -6,7 +6,7 @@ import Papa from 'papaparse';
 
 const out = 'docs/Filmfragen-Ergaenzung-2026-10-04';
 const workerFiles = ['Abenteuer-Fantasy.redaktion.json','Thriller.redaktion.json','Action-Komoedie-RomCom.redaktion.json'];
-const fields = 'question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,memory_anchor,spoiler_level,source_urls,verification_status'.split(',');
+const fields = 'question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,spoiler_level,source_urls,verification_status'.split(',');
 const read = p => JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
 const write = (name, value) => fs.writeFileSync(path.join(out,name), typeof value==='string'?value:JSON.stringify(value,null,2)+'\n','utf8');
 const assert = (ok,message) => { if (!ok) throw new Error(message); };
@@ -48,7 +48,7 @@ for (const film of films) {
   for(const d of film.directors) assert(!normalized(director[0].question).includes(normalized(d)),`Regielösung im Fragetext bei ${film.rank}`);
   for (const q of film.questions) {
     for (const field of fields) assert(typeof q[field]==='string',`${q.question_id}: Feld ${field} muss Text sein.`);
-    for (const field of ['question_id','knowledge_id','language','domain','subdomain','film_title_de','film_title_original','film_year','difficulty','question_type','learning_objective','question','answer_a','answer_b','answer_c','answer_d','correct_answer','explanation_short','explanation_context','feedback_a','feedback_b','feedback_c','feedback_d','memory_anchor','spoiler_level','source_urls','verification_status']) assert(q[field].trim(),`${q.question_id}: ${field} fehlt.`);
+    for (const field of ['question_id','knowledge_id','language','domain','subdomain','film_title_de','film_title_original','film_year','difficulty','question_type','learning_objective','question','answer_a','answer_b','answer_c','answer_d','correct_answer','explanation_short','explanation_context','feedback_a','feedback_b','feedback_c','feedback_d','spoiler_level','source_urls','verification_status']) assert(q[field].trim(),`${q.question_id}: ${field} fehlt.`);
     assert(q.question_id.startsWith(`F40-${String(film.rank).padStart(3,'0')}-`)&&!oldIds.has(q.question_id),`ID-Konflikt bei ${q.question_id}`);
     assert(q.language==='de'&&q.domain==='Film'&&['leicht','mittel','schwer'].includes(q.difficulty),`Bereich/Sprache/Stufe bei ${q.question_id}`);
     for(const k of ['film_title_de','film_title_original','subdomain']) assert(q[k]===film[k],`${q.question_id}: Abweichung ${k}`);
@@ -88,7 +88,7 @@ md+='## Filme\n\n';
 for(const f of films) md+=`- [${f.film_title_de} (${f.film_year})](#film-${String(f.rank).padStart(3,'0')}) – ${f.subdomain}, ${familiarityLabels[f.familiarity_level]}\n`;
 for(const f of films){
   md+=`\n<a id="film-${String(f.rank).padStart(3,'0')}"></a>\n\n## ${f.film_title_de} (${f.film_year})\n\n${f.subdomain} · ${familiarityLabels[f.familiarity_level]}. Regie: ${f.directors.join(' / ')}.\n\n${f.familiarity_reason}\n`;
-  for(const q of f.questions){md+=`\n### ${q.difficulty}: ${q.goal_kind==='year'?'Veröffentlichungsjahr':q.goal_kind==='director'?'Regie':'Inhalt'} (${q.question_id})\n\n${q.question}\n\n`;for(const l of ['a','b','c','d'])md+=`- **${l.toUpperCase()}:** ${q[`answer_${l}`]}\n`;md+=`\n**Lösung:** ${q.correct_answer.toUpperCase()}. ${q.explanation_short}\n\n${q.explanation_context}\n\n**Merksatz:** ${q.memory_anchor}\n\n**Quellen:** ${q.source_urls.split('|').map((url,i)=>`[Beleg ${i+1}](${url})`).join(', ')}\n`;}
+  for(const q of f.questions){md+=`\n### ${q.difficulty}: ${q.goal_kind==='year'?'Veröffentlichungsjahr':q.goal_kind==='director'?'Regie':'Inhalt'} (${q.question_id})\n\n${q.question}\n\n`;for(const l of ['a','b','c','d'])md+=`- **${l.toUpperCase()}:** ${q[`answer_${l}`]}\n`;md+=`\n**Lösung:** ${q.correct_answer.toUpperCase()}. ${q.explanation_short}\n\n${q.explanation_context}\n\n**Quellen:** ${q.source_urls.split('|').map((url,i)=>`[Beleg ${i+1}](${url})`).join(', ')}\n`;}
 }
 write('Fragenlesefassung.md',md);
 const count=(key)=>Object.fromEntries([...new Set(questions.map(q=>q[key]))].sort().map(k=>[k,questions.filter(q=>q[key]===k).length]));

@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Volonté spielt Ramón Rojo.",
       "context": "Ramón gehört zu den rivalisierenden Machthabern des Grenzortes. Die Rolle verbindet demonstrative Selbstsicherheit mit einer Gewalt, auf die der Fremde mit Täuschung reagiert.",
-      "anchor": "Volontés erster Leone-Gegner heißt Ramón.",
       "interest": "Die Besetzung verbindet den politischen Charakterdarsteller mit dem Italowestern.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Gian_Maria_Volont%C3%A9"
-      ]
+      ],
+      "objective": "Volontés erster Leone-Gegner heißt Ramón."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Volonté verkörpert El Indio.",
       "context": "Der von einer Spieluhr begleitete Gegner wird von zwei Kopfgeldjägern verfolgt. Volonté kehrt nach dem ersten Dollar-Film mit einer neuen Figur zurück.",
-      "anchor": "Volontés zweiter Leone-Gegner heißt El Indio.",
       "interest": "Die beiden Westernrollen gehören zu verschiedenen Geschichten.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Gian_Maria_Volont%C3%A9"
-      ]
+      ],
+      "objective": "Volontés zweiter Leone-Gegner heißt El Indio."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Er hat seine Geliebte ermordet und wirkt an der Untersuchung mit.",
       "context": "Der Kommissar verlässt sich auf den Schutz seines Ranges. Die Handlung stellt die Frage, ob eine Institution die Schuld eines mächtigen eigenen Mitglieds überhaupt anerkennen kann.",
-      "anchor": "Der Ermittler untersucht sein eigenes Verbrechen.",
       "interest": "Die Ausgangslage erschließt die Verbindung von Krimi und Machtsatire.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27911-investigation-of-a-citizen-above-suspicion"
-      ]
+      ],
+      "objective": "Der Ermittler untersucht sein eigenes Verbrechen."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 0,
       "short": "Ein Arbeitsunfall kostet ihn einen Finger.",
       "context": "Lulù war zuvor ein Vorbild für hohes Arbeitstempo. Nach dem Unfall verändert sich sein Verhältnis zu Leistung, Kollegen und den Konflikten vor dem Fabriktor.",
-      "anchor": "Der Akkordmeister verliert einen Finger.",
       "interest": "Ein körperlicher Schaden verändert den Blick auf ein ganzes Arbeitssystem.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://www.museocinema.it/it/press/comunicati-stampa/fare-gli-italiani-la-storia-ditalia-nel-cinema-la-classe-operaia-va"
-      ]
+      ],
+      "objective": "Der Akkordmeister verliert einen Finger."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 0,
       "short": "Volonté verkörpert Carlo Levi.",
       "context": "Das faschistische Regime verbannt den antifaschistischen Künstler und ausgebildeten Arzt in den armen Süden Italiens. Seine Begegnungen werden später zur Grundlage des autobiografischen Buches.",
-      "anchor": "Carlo Levi lernt im Exil das ländliche Süditalien kennen.",
       "interest": "Die historische Person verbindet Literatur, Medizin und politische Verfolgung.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/7107-christ-stopped-at-eboli-memories-of-exile"
-      ]
+      ],
+      "objective": "Carlo Levi lernt im Exil das ländliche Süditalien kennen."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 1,
       "short": "Mattei war Präsident des Energiekonzerns ENI.",
       "context": "Der Film untersucht seine Rolle in der italienischen Energiepolitik und die ungeklärten Umstände seines Flugzeugabsturzes. Internationale wirtschaftliche Interessen gehören damit zum Hintergrund des Porträts.",
-      "anchor": "Matteis Machtzentrum war ENI.",
       "interest": "Die berufliche Position erklärt die politischen und ökonomischen Konflikte der Figur.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       "extraSources": [
         "https://www.festival-cannes.com/f/il-caso-mattei/",
         "https://www.cinematheque.qc.ca/fr/cinema/the-mattei-affair/"
-      ]
+      ],
+      "objective": "Matteis Machtzentrum war ENI."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 3,
       "short": "Der für die Recherche tätige Journalist De Mauro verschwand.",
       "context": "Die Suche nach Informationen wurde selbst Teil des Stoffes. Rosis Film behandelt damit auch die Schwierigkeiten und Gefahren, unter denen ein politischer Todesfall untersucht wird.",
-      "anchor": "Die filmische Recherche bekam einen eigenen Vermisstenfall.",
       "interest": "Der Zusammenhang macht die Grenze zwischen historischem Stoff und laufender Untersuchung sichtbar.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://www.festival-cannes.com/f/il-caso-mattei/"
-      ]
+      ],
+      "objective": "Die filmische Recherche bekam einen eigenen Vermisstenfall."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 3,
       "short": "Er probt Sprache und Gesten anhand seiner eigenen Aufnahme.",
       "context": "Die wiederholten Lautstärkewechsel und Bewegungen machen Autorität zu einer Vorstellung, die sich selbst bestätigt. Sein amtlicher Auftritt gehört ebenso zur Figur wie das Verbrechen.",
-      "anchor": "Der Kommissar inszeniert sich selbst als Autorität.",
       "interest": "Eine konkrete Darstellungspraxis erschließt die Satire auf institutionelle Macht.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/2979-investigation-of-a-citizen-above-suspicion-the-long-harm-of-the-law"
-      ]
+      ],
+      "objective": "Der Kommissar inszeniert sich selbst als Autorität."
     }
   ]
 }

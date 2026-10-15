@@ -36,12 +36,12 @@
       ],
       "short": "Konföderierte überfallen einen Zug mit Soldzahlungen der Union.",
       "context": "Konföderierte überfallen einen Zug mit Soldzahlungen der Union. Colonel McNally (John Wayne) erkennt später, dass verräterische Unionssoldaten die Informationen für den Überfall geliefert haben müssen.",
-      "anchor": "Der Soldzugüberfall eröffnet die spätere Suche nach Verrätern.",
       "interest": "Der Soldzugüberfall eröffnet die spätere Suche nach Verrätern.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Soldzugüberfall eröffnet die spätere Suche nach Verrätern."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Pierre Cordona (Jorge Rivero) und Tuscarora Phillips (Christopher Mitchum) waren McNallys Gegner im Krieg.",
       "context": "Pierre Cordona (Jorge Rivero) und Tuscarora Phillips (Christopher Mitchum) waren McNallys Gegner im Krieg. Gegenseitiger Respekt führt sie nach Kriegsende zusammen, als die Suche nach den Informanten weitergeht.",
-      "anchor": "Die frühere Feindschaft schließt späteres Vertrauen nicht aus.",
       "interest": "Die frühere Feindschaft schließt späteres Vertrauen nicht aus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die frühere Feindschaft schließt späteres Vertrauen nicht aus."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "McNally (John Wayne) respektiert Cordona (Jorge Rivero) als früheren Gegner, obwohl bei dessen Angriff ein Freund starb.",
       "context": "McNally (John Wayne) respektiert Cordona (Jorge Rivero) als früheren Gegner, obwohl bei dessen Angriff ein Freund starb. Die eigenen Soldaten, die Informationen verkauften, betrachtet er dagegen als Verräter.",
-      "anchor": "Ehrenhafter Gegner und eigener Verräter sind für McNally verschieden.",
       "interest": "Ehrenhafter Gegner und eigener Verräter sind für McNally verschieden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ehrenhafter Gegner und eigener Verräter sind für McNally verschieden."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Ketcham (Victor French) lässt durch Sheriff Hendricks (Mike Henry) Rancher einschüchtern und ihr Land nehmen.",
       "context": "Ketcham (Victor French) lässt durch Sheriff Hendricks (Mike Henry) Rancher einschüchtern und ihr Land nehmen. McNallys (John Wayne) persönliche Suche verbindet sich mit dem Widerstand gegen diese Machtordnung.",
-      "anchor": "Die Verrätersuche stößt auf ein System des Landraubs.",
       "interest": "Die Verrätersuche stößt auf ein System des Landraubs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Verrätersuche stößt auf ein System des Landraubs."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "McNally (John Wayne) zwingt Ketcham (Victor French), die Grundstücke ihren Eigentümern zurückzuübertragen.",
       "context": "McNally (John Wayne) zwingt Ketcham (Victor French), die Grundstücke ihren Eigentümern zurückzuübertragen. Damit verliert der Mann einen wesentlichen Nutzen für den Sheriff, der ihn später selbst erschießt.",
-      "anchor": "Die zurückgegebenen Urkunden zerstören Ketchams Machtgrundlage.",
       "interest": "Die zurückgegebenen Urkunden zerstören Ketchams Machtgrundlage.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die zurückgegebenen Urkunden zerstören Ketchams Machtgrundlage."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Amelita (Sherry Lansing) erschießt Hendricks (Mike Henry), der sie mit einem Messer entstellt hat.",
       "context": "Amelita (Sherry Lansing) erschießt Hendricks (Mike Henry), der sie mit einem Messer entstellt hat. Ihre angekündigte Vergeltung erfolgt nach dem gemeinsamen Kampf, als der verletzte Sheriff fliehen will.",
-      "anchor": "Amelita vollzieht die zuvor angekündigte persönliche Vergeltung.",
       "interest": "Amelita vollzieht die zuvor angekündigte persönliche Vergeltung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Amelita vollzieht die zuvor angekündigte persönliche Vergeltung."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1970 erschien der Film.",
       "context": "1970 erschien der Film. Nach Rio Bravo von 1959 greift Hawks elf Jahre später erneut eine Belagerung und ein ungleiches Helferteam auf; die frühere Kriegspartnerschaft gibt der Gruppe hier einen anderen Ursprung.",
-      "anchor": "Rio Bravo 1959, Rio Lobo 1970: Elf Jahre später entsteht das Helferteam aus ehemaligen Kriegsgegnern.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Rio Bravo 1959, Rio Lobo 1970: Elf Jahre später entsteht das Helferteam aus ehemaligen Kriegsgegnern."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Howard Hawks führte bei seinem letzten Film Regie.",
       "context": "Howard Hawks führte bei seinem letzten Film Regie. Ehemalige Kriegsgegner werden nach dem Bürgerkrieg zu Verbündeten gegen Verrat und eine korrupte örtliche Herrschaft.",
-      "anchor": "Howard Hawks führte bei seinem letzten Film Regie.",
       "interest": "Howard Hawks führte bei seinem letzten Film Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Howard Hawks führte bei seinem letzten Film Regie."
     }
   ]
 }

@@ -36,12 +36,12 @@
       ],
       "short": "J.",
       "context": "J. B. Books (John Wayne) erfährt von Dr. Hostetler (James Stewart), dass sein Krebs unheilbar ist. Die geringe verbleibende Lebenszeit bestimmt seine Entscheidung über das Ende als Revolverheld.",
-      "anchor": "Der sterbende Schütze muss sein Ende wählen.",
       "interest": "Der sterbende Schütze muss sein Ende wählen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der sterbende Schütze muss sein Ende wählen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Books (John Wayne) wohnt in Bond Rogers’ (Lauren Bacall) Pension.",
       "context": "Books (John Wayne) wohnt in Bond Rogers’ (Lauren Bacall) Pension. Ihr Sohn Gillom (Ron Howard) erkennt den berühmten Gast und entwickelt eine Bewunderung, die der Mutter Sorge bereitet.",
-      "anchor": "Die Pension bringt den sterbenden Helden in eine familiäre Umgebung.",
       "interest": "Die Pension bringt den sterbenden Helden in eine familiäre Umgebung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Pension bringt den sterbenden Helden in eine familiäre Umgebung."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Books (John Wayne) vermutet, der Bestatter werde Eintritt für den Anblick seiner Leiche nehmen.",
       "context": "Books (John Wayne) vermutet, der Bestatter werde Eintritt für den Anblick seiner Leiche nehmen. Auch andere Besucher wollen seinen Ruhm vermarkten; selbst im Sterben soll er zur Ware werden.",
-      "anchor": "Der Ruhm droht den eigenen Tod zum Geschäft anderer zu machen.",
       "interest": "Der Ruhm droht den eigenen Tod zum Geschäft anderer zu machen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Ruhm droht den eigenen Tod zum Geschäft anderer zu machen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Books (John Wayne) lässt Gillom (Ron Howard) drei Gegner für seinen Geburtstag in den Saloon bestellen.",
       "context": "Books (John Wayne) lässt Gillom (Ron Howard) drei Gegner für seinen Geburtstag in den Saloon bestellen. Er bereitet damit eine Begegnung vor, bei der sein Leben durch Waffen statt durch den fortschreitenden Krebs enden kann.",
-      "anchor": "Die Einladungen organisieren ein selbst gewähltes gefährliches Ende.",
       "interest": "Die Einladungen organisieren ein selbst gewähltes gefährliches Ende.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Einladungen organisieren ein selbst gewähltes gefährliches Ende."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Der Barkeeper schießt Books (John Wayne) in den Rücken.",
       "context": "Der Barkeeper (Charles G. Martin) schießt Books (John Wayne) in den Rücken. Gillom (Ron Howard) tötet den Angreifer mit Books’ Waffe; der Sieg über die eingeladenen Gegner hat den alten Schützen nicht gerettet.",
-      "anchor": "Der Hinterhalt beendet das Leben nach dem offenen Kampf.",
       "interest": "Der Hinterhalt beendet das Leben nach dem offenen Kampf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Hinterhalt beendet das Leben nach dem offenen Kampf."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Gillom (Ron Howard) wirft die Waffe weg, nachdem er den Barkeeper getötet hat.",
       "context": "Gillom (Ron Howard) wirft die Waffe weg, nachdem er den Barkeeper getötet hat. Books (John Wayne) lächelt zustimmend: Der Junge soll sein Leben nicht als Nachfolger des Schützen verbringen.",
-      "anchor": "Der weggeworfene Revolver beendet die mögliche Nachfolge.",
       "interest": "Der weggeworfene Revolver beendet die mögliche Nachfolge.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der weggeworfene Revolver beendet die mögliche Nachfolge."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1976 erschien John Waynes letzter Kinofilm.",
       "context": "1976 erschien John Waynes letzter Kinofilm. Seine Filmkarriere begann 1926; fünfzig Jahre später zeigt dieser Abschluss einen Revolverhelden, der seine verbleibende Zeit selbst gestalten will.",
-      "anchor": "Karrierebeginn 1926, letzter Film 1976: Fünfzig Jahre münden in Waynes sterbenden Revolverhelden.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Karrierebeginn 1926, letzter Film 1976: Fünfzig Jahre münden in Waynes sterbenden Revolverhelden."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Don Siegel führte Regie.",
       "context": "Don Siegel führte Regie. Wayne wirkte an Änderungen gegenüber dem Roman mit; insbesondere tötet Gillom im Film den Barkeeper und verwirft danach die Waffe, statt Books selbst zu töten.",
-      "anchor": "Don Siegel führte Regie.",
       "interest": "Don Siegel führte Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Don Siegel führte Regie."
     }
   ]
 }

@@ -36,11 +36,11 @@
       ],
       "short": "Guinevere liebt Arthur und fühlt sich zu Lancelot hingezogen.",
       "context": "Guinevere (Julia Ormond) entscheidet sich für Arthur (Sean Connery), dessen Schutz ihrem Land hilft. Lancelot (Richard Gere) weckt andere Gefühle. Die Handlung verbindet ihre persönliche Zuneigung dadurch mit Verantwortung für die Menschen, über die sie herrscht.",
-      "anchor": "Guinevere verbindet Pflicht mit Arthur, Leidenschaft mit Lancelot.",
       "interest": "Das Dreieck wird anhand unterschiedlicher Beziehungen verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Guinevere verbindet Pflicht mit Arthur, Leidenschaft mit Lancelot."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Malagant gehörte früher zu Arthurs Rittern.",
       "context": "Malagant (Ben Cross) stellt Arthurs (Sean Connery) Herrschaft infrage, obwohl er selbst zur Tafelrunde gehörte. Der Gegner kommt damit aus dem früheren Umfeld des Königs. Sein Angriff ist ein Bruch mit der Idee gemeinsamen Dienstes, die Arthur seinen Rittern vermittelt.",
-      "anchor": "Malagant bricht mit der eigenen Tafelrunde.",
       "interest": "Die Vorgeschichte erklärt die persönliche Gegnerschaft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Malagant bricht mit der eigenen Tafelrunde."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Er erklärt seinen Mut mit fehlender Bindung an das Leben.",
       "context": "Lancelot (Richard Gere) lebt zunächst als wandernder Kämpfer ohne festen Platz. Seine Furchtlosigkeit beruht auf Verlust und mangelnder Bindung. Arthur (Sean Connery) fordert ihn dagegen heraus, etwas zu finden, das sein Leben und seinen Dienst wertvoll macht.",
-      "anchor": "Lancelot muss erst etwas zu verlieren finden.",
       "interest": "Der scheinbare Heldenvorteil wird als persönlicher Mangel erschlossen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Lancelot muss erst etwas zu verlieren finden."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Als angeblicher Bote verlangt er, die Gefangene lebend zu sehen.",
       "context": "Malagant (Ben Cross) hält Guinevere (Julia Ormond) gefangen. Lancelot (Richard Gere) verlangt als vermeintlicher Bote erst einen Beweis, dass sie lebt. Die List bringt ihn in ihre Nähe; anschließend kann er die Bewacher überwältigen und mit ihr entkommen.",
-      "anchor": "Der falsche Bote kommt zur echten Gefangenen.",
       "interest": "List ermöglicht den späteren Kampf.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der falsche Bote kommt zur echten Gefangenen."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Der Angriff unterbricht das Verfahren.",
       "context": "Arthur (Sean Connery) will den entdeckten Kuss Guineveres (Julia Ormond) und Lancelots (Richard Gere) öffentlich verhandeln. Malagant (Ben Cross) nutzt diese Situation für seinen Angriff. Der private Vertrauensbruch wird von einer Gefahr überlagert, die die ganze Gemeinschaft betrifft.",
-      "anchor": "Malagants Angriff überlagert den Ehekonflikt.",
       "interest": "Die Wendung verbindet beide Handlungsstränge.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Malagants Angriff überlagert den Ehekonflikt."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Arthur vertraut ihm Land und Königin an.",
       "context": "Lancelot (Richard Gere) hat Malagant (Ben Cross) besiegt. Arthur (Sean Connery) vertraut ihm vor seinem Tod die Verantwortung für Camelot und Guinevere (Julia Ormond) an. Damit erhält der frühere Wanderer endgültig jene Bindung, die seinem Mut zu Beginn gefehlt hatte.",
-      "anchor": "Lancelots Mut bekommt Verantwortung.",
       "interest": "Die Schlussaufgabe beantwortet den persönlichen Ausgangszustand.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Lancelots Mut bekommt Verantwortung."
     },
     {
       "code": "Y",
@@ -174,12 +174,12 @@
       ],
       "short": "Der Film erschien 1995.",
       "context": "Sean Connerys erster James-Bond-Kinofilm James Bond jagt Dr. No erschien 1962. Der erste Ritter folgte 1995, 33 Jahre später, mit Connery als König Arthur und Richard Gere als Lancelot. Die weit auseinanderliegenden Jahre verbinden zwei unterschiedliche Heldenbilder desselben Stars: den aktiven Geheimagenten und den älteren Herrscher, dessen politische und persönliche Ordnung in Gefahr gerät.",
-      "anchor": "1962 Connerys erster Bond – 1995 sein Arthur: 33 Jahre Abstand.",
       "interest": "Besetzung und Schwerpunkt geben einen individuellen Jahresanker.",
       "sources": [
         "archiv",
         "zeitanker"
-      ]
+      ],
+      "objective": "1962 Connerys erster Bond – 1995 sein Arthur: 33 Jahre Abstand."
     },
     {
       "code": "D",
@@ -198,11 +198,11 @@
       ],
       "short": "Jerry Zucker führte Regie.",
       "context": "Jerry Zucker inszeniert den Artus-Stoff mit einem Schwerpunkt auf Liebe, Vertrauen und Verantwortung. Die Regiefrage gilt dem Film mit Connery, Gere und Ormond. Andere Artus-Verfilmungen können ähnliche Figuren zeigen, besitzen aber eigene Besetzungen und Regiecredits.",
-      "anchor": "Zucker inszeniert das Ritterdreieck.",
       "interest": "Der Credit wird dem konkreten Film zugeordnet.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Zucker inszeniert das Ritterdreieck."
     }
   ]
 }

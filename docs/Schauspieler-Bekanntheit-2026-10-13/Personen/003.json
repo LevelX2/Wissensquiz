@@ -18,13 +18,21 @@
       "correct": 0,
       "short": "John Cassavetes war ihr langjähriger künstlerischer Partner und Ehemann.",
       "context": "Rowlands und Cassavetes lernten sich an der American Academy of Dramatic Arts kennen und heirateten 1954. In ihren gemeinsamen Filmen stehen oft Beziehungen im Mittelpunkt, die zwischen Nähe, Verletzung und dem Wunsch nach Anerkennung schwanken. Rowlands spielte dabei sehr unterschiedliche Frauen: etwa Jeannie in „Faces“ und Mabel in „Eine Frau unter Einfluss“. Die Zusammenarbeit verband seine Regie und Drehbücher mit ihrer eigenständigen Gestaltung der Figuren.",
-      "anchor": "Rowlands und Cassavetes: eine langjährige Zusammenarbeit im unabhängigen US-Kino.",
       "interest": "Ein zugänglicher beruflicher Zusammenhang führt zu ihrem wichtigsten Werkkomplex.",
-      "feedback": ["", "", "", ""],
-      "films": ["Faces|1968", "A Woman Under the Influence|1974"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Faces|1968",
+        "A Woman Under the Influence|1974"
+      ],
       "extraSources": [
         "https://www.criterion.com/films/510-a-woman-under-the-influence"
-      ]
+      ],
+      "objective": "Rowlands und Cassavetes: eine langjährige Zusammenarbeit im unabhängigen US-Kino."
     },
     {
       "code": "L2",
@@ -38,11 +46,20 @@
       "correct": 1,
       "short": "Gloria nimmt den Jungen Phil unter ihren Schutz.",
       "context": "Phils Vater hat als Buchhalter der Mafia Geld unterschlagen und mit dem FBI zusammengearbeitet. Als die Familie bedroht wird, versteckt sich Phil bei der Nachbarin Gloria. Nach der Ermordung seiner Angehörigen flieht sie mit ihm durch New York. Ein Geschäftsbuch, das der Vater seinem Sohn anvertraut hat, macht die Lage zusätzlich gefährlich. Rowlands spielt eine Frau, die den Gangstern selbstbewusst entgegentritt, obwohl sie zunächst keine Verantwortung für ein Kind übernehmen wollte.",
-      "anchor": "Gloria schützt Phil vor den Mördern seiner Familie.",
       "interest": "Die unerwartete Schutzgemeinschaft erschließt den zentralen Konflikt ihrer Gangsterfilmrolle.",
-      "feedback": ["", "", "", ""],
-      "films": ["Gloria|1980"],
-      "extraSources": ["https://catalog.afi.com/Catalog/moviedetails/56421"]
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Gloria|1980"
+      ],
+      "extraSources": [
+        "https://catalog.afi.com/Catalog/moviedetails/56421"
+      ],
+      "objective": "Gloria schützt Phil vor den Mördern seiner Familie."
     },
     {
       "code": "M1",
@@ -59,7 +76,6 @@
       "correct": 2,
       "short": "Rowlands und Falk spielen das Ehepaar Mabel und Nick Longhetti.",
       "context": "Mabel ist Hausfrau und Mutter dreier Kinder. Nick liebt sie, kann aber mit ihren emotionalen Schwierigkeiten kaum umgehen; auch Mabel versucht verzweifelt, seinen Erwartungen zu entsprechen. Cassavetes zeigt die Krise innerhalb alltäglicher Begegnungen mit der Familie. Die Darstellung reduziert die Ehe deshalb weder auf eine einfache Liebesgeschichte noch auf eine einzelne Diagnose: Zuneigung und Überforderung sind in den gemeinsamen Szenen gleichzeitig spürbar.",
-      "anchor": "Mabel und Nick: gegenseitige Liebe schützt nicht vor Überforderung.",
       "interest": "Die Frage erschließt die Beziehung hinter Rowlands’ berühmter Hauptrolle.",
       "feedback": [
         "Die Theaterarbeit einer Schauspielerin steht in „Opening Night“ im Mittelpunkt.",
@@ -67,11 +83,15 @@
         "",
         ""
       ],
-      "films": ["A Woman Under the Influence|1974", "Opening Night|1977"],
+      "films": [
+        "A Woman Under the Influence|1974",
+        "Opening Night|1977"
+      ],
       "extraSources": [
         "https://www.criterion.com/films/510-a-woman-under-the-influence",
         "https://www.criterion.com/films/957-opening-night"
-      ]
+      ],
+      "objective": "Mabel und Nick: gegenseitige Liebe schützt nicht vor Überforderung."
     },
     {
       "code": "M2",
@@ -85,11 +105,20 @@
       "correct": 3,
       "short": "Myrtle erlebt den Unfalltod eines jungen Fans mit.",
       "context": "Myrtle Gordon ist eine etablierte Bühnenschauspielerin. Der Tod der jungen Verehrerin trifft sie während der Vorbereitung einer neuen Rolle und verschärft ihre Auseinandersetzung mit dem eigenen Älterwerden. Proben, persönlicher Zusammenbruch und Vorstellungen greifen ineinander. John Cassavetes beobachtet damit nicht nur eine Krise hinter den Kulissen, sondern auch, wie eine Darstellerin um einen eigenen Zugang zu ihrer Rolle ringt.",
-      "anchor": "Der Tod eines jungen Fans bringt Myrtles eigene Lebens- und Rollenkrise zum Vorschein.",
       "interest": "Ein konkretes Ereignis verbindet Handlung und Reflexion über das Schauspiel.",
-      "feedback": ["", "", "", ""],
-      "films": ["Opening Night|1977"],
-      "extraSources": ["https://www.criterion.com/films/957-opening-night"]
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Opening Night|1977"
+      ],
+      "extraSources": [
+        "https://www.criterion.com/films/957-opening-night"
+      ],
+      "objective": "Der Tod eines jungen Fans bringt Myrtles eigene Lebens- und Rollenkrise zum Vorschein."
     },
     {
       "code": "S1",
@@ -103,7 +132,6 @@
       "correct": 0,
       "short": "Sarah Lawson und Robert Harmon sind Schwester und Bruder.",
       "context": "Sarah leidet unter der Trennung von ihrem Mann und ihrer Tochter, während Robert als Schriftsteller unverbindliche Begegnungen sucht. Erst spät macht der Film ausdrücklich klar, dass die beiden Geschwister sind. Ihre Vertrautheit gewinnt dadurch eine andere Bedeutung als eine mögliche Liebesgeschichte. Rowlands und Cassavetes waren im wirklichen Leben verheiratet; ihre Filmfiguren teilen hier dagegen eine Familiengeschichte und sehr unterschiedliche Schwierigkeiten mit dauerhaften Bindungen.",
-      "anchor": "Das reale Ehepaar spielt in „Love Streams“ ein Geschwisterpaar.",
       "interest": "Die Unterscheidung zwischen realer Partnerschaft und Filmbeziehung verändert das Verständnis ihrer Szenen.",
       "feedback": [
         "",
@@ -111,11 +139,14 @@
         "",
         ""
       ],
-      "films": ["Love Streams|1984"],
+      "films": [
+        "Love Streams|1984"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3261-love-streams-a-fitful-flow",
         "https://www.criterion.com/films/28032-love-streams"
-      ]
+      ],
+      "objective": "Das reale Ehepaar spielt in „Love Streams“ ein Geschwisterpaar."
     },
     {
       "code": "S2",
@@ -129,11 +160,20 @@
       "correct": 1,
       "short": "Victoria ist eine Castingagentin und sucht nach Darstellern.",
       "context": "In der Los-Angeles-Episode sitzt Rowlands als Victoria im Taxi der jungen Corky (Winona Ryder). Die Castingagentin sieht in ihrer Fahrerin eine mögliche Darstellerin. Jim Jarmusch verteilt den Film auf fünf nächtliche Taxibegegnungen in verschiedenen Städten; hier begegnen sich besonders deutlich Filmindustrie und alltägliche Arbeit. Rowlands’ Rolle verlagert die Suche nach einer passenden Besetzung aus einem Vorsprechraum in ein zufälliges Gespräch während einer Fahrt.",
-      "anchor": "Victoria entdeckt beim Taxifahren eine mögliche Darstellerin.",
       "interest": "Die Frage verbindet Rowlands’ spätere Arbeit mit Jarmuschs episodischer Erzählung.",
-      "feedback": ["", "", "", ""],
-      "films": ["Night on Earth|1991"],
-      "extraSources": ["https://www.criterion.com/films/227-night-on-earth"]
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Night on Earth|1991"
+      ],
+      "extraSources": [
+        "https://www.criterion.com/films/227-night-on-earth"
+      ],
+      "objective": "Victoria entdeckt beim Taxifahren eine mögliche Darstellerin."
     },
     {
       "code": "E1",
@@ -147,13 +187,21 @@
       "correct": 2,
       "short": "Roberts Haus war das tatsächliche Zuhause von Rowlands und Cassavetes.",
       "context": "Das Haus in den Hollywood Hills war bereits bei „Faces“ als Drehort verwendet worden. In „Love Streams“ wird es zu Roberts großzügigem, zugleich wenig geborgenem Lebensraum und zum Treffpunkt der Geschwister. Das Ehepaar nutzte den eigenen Wohnort auch, um Kosten seiner unabhängigen Produktionen zu senken. Privater Alltag und Filmarbeit lagen dadurch räumlich eng beieinander, obwohl die gespielten Beziehungen keine einfache Wiedergabe ihrer Ehe sind.",
-      "anchor": "Das eigene Haus wurde zum Schauplatz fremder, erfundener Beziehungen.",
       "interest": "Ein belegter Produktionsumstand zeigt Rowlands’ Anteil an der Arbeitsweise des unabhängigen Kinos.",
-      "feedback": ["", "", "", ""],
-      "films": ["Love Streams|1984", "Faces|1968"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Love Streams|1984",
+        "Faces|1968"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3261-love-streams-a-fitful-flow"
-      ]
+      ],
+      "objective": "Das eigene Haus wurde zum Schauplatz fremder, erfundener Beziehungen."
     },
     {
       "code": "E2",
@@ -167,7 +215,6 @@
       "correct": 3,
       "short": "Rowlands erhielt 2015 einen Honorary Award, also einen Ehrenoscar.",
       "context": "Die Academy zeichnete Rowlands bei den Governors Awards am 14. November 2015 mit einem Ehrenoscar aus. Bei derselben Veranstaltung erhielt Spike Lee ebenfalls einen Honorary Award; Debbie Reynolds wurde dagegen mit dem Jean Hersholt Humanitarian Award für ihr humanitäres Engagement geehrt. Die Unterscheidung ist wesentlich: Rowlands’ Auszeichnung würdigte ihre Leistung über eine einzelne Rolle und den Wettbewerb eines Filmjahres hinaus.",
-      "anchor": "Governors Awards 2015: Rowlands erhielt den Ehrenoscar, Reynolds den Hersholt-Preis.",
       "interest": "Die Frage grenzt eine Karriereehrung von Wettbewerbs- und humanitärer Auszeichnung ab.",
       "feedback": [
         "",
@@ -179,7 +226,8 @@
       "extraSources": [
         "https://www.oscars.org/governors/ceremonies/2015",
         "https://www.oscars.org/news/spike-lee-debbie-reynolds-and-gena-rowlands-receive-academys-2015-governors-awards"
-      ]
+      ],
+      "objective": "Governors Awards 2015: Rowlands erhielt den Ehrenoscar, Reynolds den Hersholt-Preis."
     }
   ]
 }

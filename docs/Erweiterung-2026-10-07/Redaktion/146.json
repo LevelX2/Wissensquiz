@@ -36,12 +36,12 @@
       ],
       "short": "Sang-hwan (Ryoo Seung-bum) ist Hilfspolizist.",
       "context": "Sang-hwan (Ryoo Seung-bum) ist Hilfspolizist. Seine Unsicherheit steht zunächst im Gegensatz zu den außergewöhnlichen Kräften, die später entdeckt werden. Der Beruf setzt ihn ohnehin Konflikten aus, gibt ihm aber noch keine Überlegenheit. Die Entwicklung beginnt somit bei einem gewöhnlichen, oft unterschätzten Mann und nicht bei einem bereits anerkannten Meister.",
-      "anchor": "Der unterschätzte Hilfspolizist wird zum außergewöhnlichen Kämpfer.",
       "interest": "Der Alltag schafft den Ausgangspunkt der Entwicklung.",
       "sources": [
         "kofic"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der unterschätzte Hilfspolizist wird zum außergewöhnlichen Kämpfer."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Ein Energieangriff von Eui-jin (Yoon So-yi) trifft Sang-hwan (Ryoo Seung-bum) versehentlich.",
       "context": "Ein Energieangriff von Eui-jin (Yoon So-yi) trifft Sang-hwan (Ryoo Seung-bum) versehentlich. Die Behandlung führt ihn zu den Meistern, die sein Potenzial erkennen. Seine neue Laufbahn beginnt deshalb durch einen Fehler. Das komische Missgeschick eröffnet den Zugang zu einer Welt, die ihm im Polizeialltag verborgen geblieben ist.",
-      "anchor": "Ein fehlgeleiteter Angriff öffnet den Weg zu den Meistern.",
       "interest": "Das Missgeschick verändert seine Möglichkeiten.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein fehlgeleiteter Angriff öffnet den Weg zu den Meistern."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Meister entdecken außergewöhnlich viel Qi in Sang-hwan (Ryoo Seung-bum).",
       "context": "Die Meister entdecken außergewöhnlich viel Qi in Sang-hwan (Ryoo Seung-bum). Seine bisherige Unbeholfenheit schließt das Potenzial daher nicht aus. Die Ausbildung soll eine vorhandene Möglichkeit erschließen, statt ihm einen bloßen Rang zu verleihen. Können und Selbstvertrauen müssen erst entstehen; die Entdeckung allein löst seine Schwierigkeiten noch nicht.",
-      "anchor": "Die Energie ist vorhanden, die Beherrschung muss wachsen.",
       "interest": "Potenzial und fertige Meisterschaft bleiben unterscheidbar.",
       "sources": [
         "kofic"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Energie ist vorhanden, die Beherrschung muss wachsen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Bauarbeiten legen das Verlies von Heuk-woon (Jung Doo-hong) frei.",
       "context": "Bauarbeiten legen das Verlies von Heuk-woon (Jung Doo-hong) frei. Gegenwärtige Stadtentwicklung setzt so eine alte Gefahr erneut in Bewegung. Die Arbeiter kennen die Bedeutung des Fundes nicht. Der Film bringt seine fantastische Vergangenheit dadurch in den modernen Alltag zurück, ohne dass der Held den Gegner absichtlich freisetzen müsste.",
-      "anchor": "Die Baustelle öffnet das alte Verlies.",
       "interest": "Vergangenheit und Gegenwart treffen durch einen konkreten Vorgang aufeinander.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Baustelle öffnet das alte Verlies."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ja-woon (Ahn Sung-ki) teilt den Schlüssel zwischen Eui-jin (Yoon So-yi) und Sang-hwan (Ryoo Seung-bum).",
       "context": "Ja-woon (Ahn Sung-ki) teilt den Schlüssel zwischen Eui-jin (Yoon So-yi) und Sang-hwan (Ryoo Seung-bum). Die Verantwortung verteilt sich damit auf zwei Menschen. Das Verfahren verhindert jedoch nicht jede Gefahr. Die beiden müssen selbst entscheiden, ob sie fliehen oder zurückkehren, und die gemeinsame Aufgabe in tatsächlich gemeinsames Handeln übersetzen.",
-      "anchor": "Zwei Schlüsselhälften verteilen die Verantwortung.",
       "interest": "Ein Schutzverfahren verlangt anschließend Zusammenarbeit.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Zwei Schlüsselhälften verteilen die Verantwortung."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Eui-jin (Yoon So-yi) kehrt zuerst um, weil sie ihren Vater nicht verlassen will.",
       "context": "Eui-jin (Yoon So-yi) kehrt zuerst um, weil sie ihren Vater nicht verlassen will. Sang-hwan (Ryoo Seung-bum) entscheidet sich anschließend ebenfalls zur Rückkehr. Die Übereinstimmung entsteht aus getrennten Entscheidungen. Ihre neue Fähigkeit erhält dadurch eine Richtung: Sie dient nicht nur der eigenen Sicherheit, sondern der Hilfe für einen bedrohten Menschen.",
-      "anchor": "Die getrennte Umkehr führt beide zur gemeinsamen Hilfe.",
       "interest": "Die Entscheidung zeigt Verantwortung jenseits der eigenen Rettung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die getrennte Umkehr führt beide zur gemeinsamen Hilfe."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Südkoreanischer Kinostart am 30. April 2004; das Sammlungsjahr 2005 bezeichnet nicht die Erstveröffentlichung.",
       "context": "„Arahan“ kam 2004 heraus, vier Jahre nach Ryoo Seung-wans „Die Bad“ von 2000. Der Korean Film Council beschreibt „Arahan“ als seinen ersten Blockbuster. Die Folge 2000–2004 verbindet das Erscheinungsjahr mit dem Schritt von der frühen Episodenarbeit zur großen Martial-Arts-Komödie. Sein Bruder Ryoo Seung-bum übernimmt erneut eine zentrale Rolle.",
-      "anchor": "Die Bad 2000, Arahan 2004: vier Jahre bis zum ersten Blockbuster.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "hintergrund"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Die Bad 2000, Arahan 2004: vier Jahre bis zum ersten Blockbuster."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Ryoo Seung-wan inszenierte den Film mit seinem Bruder Ryoo Seung-bum in der Hauptrolle.",
       "context": "Ryoo Seung-wan inszenierte den Film mit seinem Bruder Ryoo Seung-bum in der Hauptrolle. Jung Doo-hong gestaltet die Kämpfe und spielt zugleich den Gegner. Damit begegnet der Held demjenigen, der die Bewegungen der Auseinandersetzungen mitgestaltet. Der Korean Film Council ordnet die Arbeit als Verbindung von Hongkonger Filmvorbildern und südkoreanischer Genre-Erprobung ein.",
-      "anchor": "Ryoo inszeniert den Bruder; der Kampfchoreograf spielt den Gegner.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "hintergrund"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ryoo inszeniert den Bruder; der Kampfchoreograf spielt den Gegner."
     }
   ]
 }

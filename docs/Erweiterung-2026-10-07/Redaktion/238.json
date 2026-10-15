@@ -45,13 +45,13 @@
       ],
       "short": "Der neue Mordfall unterbricht seine Abschiedsfeier.",
       "context": "Jerry Blacks (Jack Nicholson) Kollegen verabschieden ihn mit einem Reisegeschenk. Noch während der Feier erreicht sie die Nachricht vom Kindermord. Weil er formal noch im Dienst ist, fährt Jerry mit zum Tatort. Die letzte berufliche Aufgabe wird damit zu einer Verpflichtung, die weit über seinen vorgesehenen Ruhestand hinausreicht.",
-      "anchor": "Der Kindermord unterbricht Jerrys Abschied aus dem Polizeidienst.",
       "interest": "Die Ausgangslage erklärt, weshalb seine spätere Suche keine normale Dienstpflicht mehr ist.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Kindermord unterbricht Jerrys Abschied aus dem Polizeidienst."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Das beschworene Versprechen bindet ihn an die fortgesetzte Tätersuche.",
       "context": "Jerry Black (Jack Nicholson) überbringt Margaret Larsen (Patricia Clarkson) die Todesnachricht. Sie verlangt eine verbindliche Zusage zur Aufklärung, die er auf einem von der Tochter geschaffenen Kreuz beschwört. Der persönliche Schwur bleibt für ihn auch dann gültig, als die Kollegen den Fall nach einem Geständnis bereits für abgeschlossen halten.",
-      "anchor": "Der persönliche Schwur bindet Jerry über das formale Fallende hinaus.",
       "interest": "Die Frage erklärt die tragende Verpflichtung des Titels.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der persönliche Schwur bindet Jerry über das formale Fallende hinaus."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Zeichnung, Fahrzeug und zeitlich unvereinbare frühere Taten sprechen gegen die einfache Lösung.",
       "context": "Toby (Benicio del Toro) gesteht unter Druck und tötet sich. Jerry Black (Jack Nicholson) findet jedoch eine Zeichnung mit einem Riesen und einem schwarzen Kombi sowie weitere ähnliche Fälle. Diese Hinweise passen nicht zur abgeschlossenen Erklärung. Das scheinbar endgültige Geständnis ersetzt für ihn deshalb keine zusammenhängende Prüfung der beobachteten Spuren.",
-      "anchor": "Geständnis und Spuren passen nicht vollständig zusammen.",
       "interest": "Die Frage erklärt eine begründete Abweichung von der offiziellen Falllösung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Geständnis und Spuren passen nicht vollständig zusammen."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Der Standort soll ihm einen Kontakt zum vermuteten Fahrer ermöglichen.",
       "context": "Jerry Black (Jack Nicholson) vergleicht die Orte der ähnlichen Taten und wählt eine Tankstelle innerhalb dieses Bereichs. Er hofft, der Täter mit dem schwarzen Kombi werde dort auftauchen. Das neue Geschäft ist somit zugleich ein Ermittlungsstandort. Seine scheinbare private Neuorientierung bleibt von der nicht aufgegebenen Tätersuche bestimmt.",
-      "anchor": "Die Tankstelle ist eine geografisch begründete Beobachtungsposition.",
       "interest": "Das neue Leben und die fortgesetzte Ermittlung sind räumlich miteinander verschränkt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Tankstelle ist eine geografisch begründete Beobachtungsposition."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Lori erkennt, dass Chrissys Gefahr Teil seiner Falle war.",
       "context": "Lori (Robin Wright) und Chrissy (Brittany Tiplady) finden bei Jerry Black (Jack Nicholson) zunächst Schutz. Als Chrissy von einem heimlichen Treffen berichtet, organisiert er mit ihr eine Falle. Lori erfährt den Zweck erst später. Die fürsorglich wirkende Beziehung wird dadurch beschädigt, weil Jerry den Schutz des Kindes seiner Verpflichtung zur Aufklärung untergeordnet hat.",
-      "anchor": "Das geschützte Kind wird ohne Zustimmung der Mutter zum Ermittlerköder.",
       "interest": "Die Szene erklärt den persönlichen Preis seiner unveränderten Verpflichtung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das geschützte Kind wird ohne Zustimmung der Mutter zum Ermittlerköder."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Der Unfall verhindert den geplanten Kontakt, ohne dass Jerry davon erfährt.",
       "context": "Der schwarze Wagen verunglückt auf dem Weg zum Treffen. Die Ermittler stellen keinen Zusammenhang mit dem gesuchten Täter her und brechen die Überwachung ab. Jerry Black (Jack Nicholson) kann nicht wissen, dass sein Plan durch einen Zufall scheiterte. Sein logisch begründeter Verdacht bleibt für ihn deshalb offen und zerstört schließlich seinen Alltag.",
-      "anchor": "Ein unbekannter Verkehrsunfall lässt die richtige Falle wie einen Irrtum aussehen.",
       "interest": "Das Ende erklärt die Grenze des Ermittlerwissens durch Zufall.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein unbekannter Verkehrsunfall lässt die richtige Falle wie einen Irrtum aussehen."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2001.",
       "context": "Friedrich Dürrenmatts Das Versprechen erschien 1958; Sean Penns Film folgte 2001, 43 Jahre später. Der Roman entwickelte den Stoff von Es geschah am hellichten Tag weiter, veränderte aber insbesondere die Vorstellung einer verlässlich erfolgreichen Ermittlerfalle. Die Verfilmung folgt dieser pessimistischeren literarischen Linie und verlegt sie in eine amerikanische Gegenwart.",
-      "anchor": "Dürrenmatts Roman 1958 → Penns Film 2001: 43 Jahre.",
       "interest": "Die Verbindung erklärt die konkrete Vorlage und verhindert eine falsche Zuordnung als bloßes Remake.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dürrenmatts Roman 1958 → Penns Film 2001: 43 Jahre."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "Sean Penn führte bei diesem Film Regie.",
       "context": "Sean Penn führte Regie, Jerzy Kromolowski und Mary Olson-Kromolowski schrieben das Drehbuch. Jack Nicholson spielt Jerry Black, dessen beharrliche Ermittlung nicht mit sichtbarer Anerkennung endet. Die Handlung verlegt Dürrenmatts Stoff nach Nevada; große Teile wurden in British Columbia gedreht. Der Schauplatzwechsel erhält die Frage nach Zufall und den Grenzen einer logisch richtigen Schlussfolgerung.",
-      "anchor": "Penn verlegt Dürrenmatts Ermittlertragödie in eine amerikanische Landschaft.",
       "interest": "Der Regiehintergrund erklärt den Zusammenhang zwischen Literaturadaption und veränderter Umgebung.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Penn verlegt Dürrenmatts Ermittlertragödie in eine amerikanische Landschaft."
     }
   ]
 }

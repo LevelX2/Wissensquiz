@@ -34,11 +34,11 @@
       ],
       "short": "Chev arbeitet als Auftragskiller.",
       "context": "Chev Chelios (Jason Statham) arbeitet für den Gangsterboss Carlito (Carlos Sanz) in Los Angeles. Ein Auftrag gegen Don Kim (Keone Young) gerät zum Ausgangspunkt eines Machtwechsels, bei dem Chev selbst beseitigt werden soll. Seine Freundin Eve Lydon (Amy Smart) kennt seinen wirklichen Beruf zunächst nicht. Diese verborgen gehaltene Tätigkeit erklärt, warum ihn sowohl alte Auftraggeber als auch neue Rivalen bedrohen.",
-      "anchor": "Der beauftragte Killer wird selbst zum Ziel.",
       "interest": "Der Beruf macht Chevs Verwicklung in den Machtkampf verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der beauftragte Killer wird selbst zum Ziel."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Chev braucht immer neue Adrenalinschübe.",
       "context": "Ricky Verona (Jose Pablo Cantillo) lässt Chev Chelios (Jason Statham) ein synthetisches Gift injizieren. Doc Miles (Dwight Yoakam) erklärt ihm, dass er seinen Adrenalinspiegel hoch halten muss, um den Kreislauf nicht zusammenbrechen zu lassen. Daraus entwickelt der Film seine erfundene Aktionslogik: Tempo, Angst, Wut und körperliche Risiken werden zu immer neuen Möglichkeiten, Zeit gegen das Gift zu gewinnen.",
-      "anchor": "Stillstand bedroht Chev; Anregung hält ihn im Rennen.",
       "interest": "Die Regel erklärt die ungewöhnliche Verkettung der Actionszenen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Stillstand bedroht Chev; Anregung hält ihn im Rennen."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Don Kim erwidert Chevs Verschonung.",
       "context": "Chev Chelios (Jason Statham) sollte Don Kim (Keone Young) für Carlito (Carlos Sanz) töten. Er ließ ihn jedoch am Leben. Als Carlito beim Treffen auf dem Hoteldach erneut mit dem Gift droht, erscheint Kim mit seinen Männern und greift ein. Eine zunächst verborgene Entscheidung Chevs verändert dadurch das Kräfteverhältnis. Der vermeintlich erledigte Auftrag kehrt als unerwartete Unterstützung zurück.",
-      "anchor": "Der verschonte Gegner wird zum Helfer.",
       "interest": "Die Enthüllung verbindet eine frühere Entscheidung mit dem Wendepunkt im Finale.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der verschonte Gegner wird zum Helfer."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Carlito macht Chev zum Opfer seiner Absicherung gegenüber den Triaden.",
       "context": "Carlito (Carlos Sanz) hat den Auftrag gegen Don Kim (Keone Young) selbst vergeben. Danach verschwört er sich mit Ricky Verona (Jose Pablo Cantillo), um Chev Chelios (Jason Statham) zu beseitigen und die Reaktion der Triaden abzufangen. Als Chev Hilfe sucht, erklärt Carlito, dass es kein Gegenmittel gebe. Der Auftraggeber benutzt seinen eigenen Mann somit als austauschbaren Schutzschild.",
-      "anchor": "Carlito gibt den Auftrag und opfert anschließend dessen Ausführer.",
       "interest": "Der Verrat erklärt den Zusammenhang zwischen Vergiftung und Bandenpolitik.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Carlito gibt den Auftrag und opfert anschließend dessen Ausführer."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Der Anruf des Informanten war erzwungen und führte in eine Falle.",
       "context": "Kaylo (Efren Ramirez) wird von Carlitos (Carlos Sanz) Männern entführt und muss Chev Chelios (Jason Statham) zum Lagerhaus locken. Dort findet Chev den Informanten tot; die bewaffneten Männer offenbaren Carlitos Auftrag gegen ihn. Der bekannte Kontakt hatte damit nur scheinbar eine verlässliche Spur geliefert. Chev und Eve Lydon (Amy Smart) müssen sich aus einem Hinterhalt befreien, dessen Nachricht unter Zwang entstanden war.",
-      "anchor": "Eine vertraute Stimme macht die erzwungene Nachricht noch nicht zuverlässig.",
       "interest": "Der Hinterhalt zeigt die gezielte Ausnutzung des Informationsnetzes.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Eine vertraute Stimme macht die erzwungene Nachricht noch nicht zuverlässig."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Chev nutzt den Fall für einen Abschiedsanruf bei Eve.",
       "context": "Chev Chelios (Jason Statham) reißt Ricky Verona (Jose Pablo Cantillo) aus dem Hubschrauber und tötet ihn während des Falls. Danach ruft er Eve Lydon (Amy Smart) an und entschuldigt sich, dass er nicht zurückkommt. Der letzte Moment unterbricht die reine Jagd mit einem persönlichen Abschied. Die extreme körperliche Situation verbindet so die Action mit Chevs zuvor verborgener Liebesbeziehung.",
-      "anchor": "Im freien Fall gilt Chevs letzter Anruf Eve.",
       "interest": "Die Schlusshandlung setzt einen persönlichen Akzent in die rasante Verfolgung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Im freien Fall gilt Chevs letzter Anruf Eve."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "Crank erschien 2006.",
       "context": "The Transporter erschien 2002 und etablierte Jason Statham als Fahrer Frank Martin. Crank folgte 2006, vier Jahre später, mit Chev Chelios (Jason Statham) als gejagtem Auftragskiller. Die beiden Rollen verbinden Körperbeherrschung und extreme Bewegung mit unterschiedlichen Geschichten. BFI nennt für Crank das Jahr 2006. Die Fortsetzung Crank: High Voltage kam erst 2009 und gehört deshalb nicht zu diesem Jahresziel.",
-      "anchor": "2002 Transporter, 2006 Crank: vier Jahre Abstand.",
       "interest": "Die zeitliche Verbindung ordnet zwei markante Statham-Rollen.",
       "sources": [
         "bfi",
         "handlung",
         "anker"
-      ]
+      ],
+      "objective": "2002 Transporter, 2006 Crank: vier Jahre Abstand."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "Mark Neveldine und Brian Taylor führten gemeinsam Regie.",
       "context": "Crank trägt den gemeinsamen Regie- und Drehbuchcredit von Mark Neveldine und Brian Taylor. Der BFI-Datensatz nennt beide Namen ausdrücklich. Die schnelle, körpernahe Inszenierung begleitet Chev Chelios (Jason Statham) durch eine Handlung, in der Pausen zur Gefahr werden. Bei der Zuordnung ist das vollständige Team entscheidend: Eine verkürzte Angabe nur eines Namens würde den offiziellen gemeinsamen Credit unvollständig wiedergeben.",
-      "anchor": "Crank gehört zum gemeinsamen Werk von Neveldine und Taylor.",
       "interest": "Die Frage prüft einen vollständigen Teamcredit.",
       "sources": [
         "bfi",
         "handlung"
-      ]
+      ],
+      "objective": "Crank gehört zum gemeinsamen Werk von Neveldine und Taylor."
     }
   ]
 }

@@ -7,7 +7,8 @@ Für eine Auswahl aus dem [Gesamtkatalog](Gesamtkatalog-2026-10-13/README.md) di
 ## Dateiformat
 
 - UTF-8, Trennzeichen Komma, eine Kopfzeile und ein Datensatz pro Frage.
-- Die 31 Spaltennamen und deren Reihenfolge aus der Vorlage erhalten. Im Gesamtkatalog folgen zusätzliche Kontextspalten; sie dürfen bei dessen Rückgabe unverändert mitgeliefert oder weggelassen werden. Bearbeitungs- und App-Status setzt Codex nach Prüfung. Keine Markdown-Codeblöcke, Kommentare, Zwischenüberschriften oder Zusatzzeilen in die CSV schreiben.
+- Die 30 Spaltennamen und deren Reihenfolge aus der aktuellen Filmvorlage erhalten. Der Gesamtkatalog enthält mit seinen zusätzlichen Kontextspalten 53 Spalten; die Kontextspalten dürfen bei dessen Rückgabe unverändert mitgeliefert oder weggelassen werden. Bearbeitungs- und App-Status setzt Codex nach Prüfung. Keine Markdown-Codeblöcke, Kommentare, Zwischenüberschriften oder Zusatzzeilen in die CSV schreiben.
+- Merksätze entfallen vollständig. Das frühere Zusatzfeld `memory_anchor` weglassen; enthält eine eingehende CSV es noch, wird es bei der Übernahme verworfen. Sein Inhalt oder Fehlen ist kein Qualitätskriterium. Alte Originalvorlagen und Archive bleiben unverändert.
 - Alle Felder in gerade doppelte Anführungszeichen setzen. Gerade doppelte Anführungszeichen innerhalb eines Feldes verdoppeln. Echte Umlaute und ß verwenden. Zeilenumbrüche innerhalb korrekt gequoteter Textfelder sind erlaubt; CRLF-Zeilenenden sind der bestehende Paketstandard.
 - Alle 50 Ausgangsfragen vollständig zurückgeben, auch unverändert beibehaltene. Neue Fragen dürfen als zusätzliche Datensätze in derselben CSV stehen. Für die Rückgabe zählen Datensätze, nicht physische Textzeilen.
 - `question_id`, `knowledge_id` und `variant_of` bei Überarbeitungen desselben Wissensziels exakt erhalten. Nur bei neuen Fragen darf `question_id` leer bleiben; bei einem neuen Wissensziel bleibt auch `knowledge_id` leer. Die Antwortpositionen bestehender Fragen möglichst erhalten; bei Änderungen muss `correct_answer` weiterhin zur richtigen Option passen.
@@ -29,12 +30,11 @@ Für eine Auswahl aus dem [Gesamtkatalog](Gesamtkatalog-2026-10-13/README.md) di
 | `explanation_short` | Kurzantwort, die exakt die gestellte Frage beantwortet. |
 | `explanation_context` | Individuelle endgültige Vertiefung gemäß Redaktionsregeln. |
 | `feedback_a`, `feedback_b`, `feedback_c`, `feedback_d` | Nur belegbare Zusatzinformation mit eigenständigem Erkenntniswert; sonst leer. Keine Buchstaben-/Positionsverweise, da die App mischt. |
-| `memory_anchor` | Bestehender Merksatz; kann sinnvoll überarbeitet werden. Er wird laut aktuellem Importvertrag lokal nicht mehr angezeigt. |
 | `spoiler_level` | Passende Spoilerkennzeichnung; vorhandene Bezeichnungen bei unverändertem Umfang erhalten. |
 | `source_urls` | Tatsächlich verwendete Quellen als vollständige URLs, mehrere mit `|` trennen. |
 | `verification_status` | Vorhandener Quellenstatus ist keine neue Prüfung. Bei der Rückgabe nur `redaktionell_geprueft` setzen, wenn diese Prüfung tatsächlich durchgeführt wurde; sonst `Entwurf`. |
 
-Die Vorlage übernimmt die bisherigen Anzeigetexte für Vertiefung, Merksatz und Antwortfeedback. Deshalb können diese Felder von den hinterlegten Rohtexten im aufklappbaren HTML-Datensatz abweichen. Leeres Feedback ist ein vollständiger gültiger Wert und soll nicht automatisch aufgefüllt werden.
+Die Vorlage übernimmt die bisherigen Anzeigetexte für Vertiefung und Antwortfeedback. Deshalb können diese Felder von den hinterlegten Rohtexten im aufklappbaren HTML-Datensatz abweichen. Leeres Feedback ist ein vollständiger gültiger Wert und soll nicht automatisch aufgefüllt werden.
 
 Die CSV bezeichnet die Optionen über ihre Spalten A–D. Einige vorhandene Jahresfragen besitzen intern andere Antwort-IDs als der CSV-Parser erzeugt. Bei der gezielten Übernahme werden die Optionen daher den bestehenden Antwort-IDs zugeordnet; die Vorlage ist kein Auftrag, diese IDs neu zu vergeben.
 

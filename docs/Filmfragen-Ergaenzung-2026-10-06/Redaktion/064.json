@@ -32,12 +32,12 @@
       ],
       "short": "Sophie (Originalstimme Chieko Baisho) erscheint als alte Frau.",
       "context": "Sophie (Originalstimme Chieko Baisho) erscheint als alte Frau. Sie verlässt daraufhin ihr bisheriges Leben und gelangt in einen Haushalt, dessen Bewohner eigene Bindungen und Geheimnisse tragen.",
-      "anchor": "Sophies plötzliche Alterung setzt die Reise in Gang.",
       "interest": "Sophies plötzliche Alterung setzt die Reise in Gang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sophies plötzliche Alterung setzt die Reise in Gang."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Calcifer (Originalstimme Tatsuya Gashūin) liefert die Schlossmagie.",
       "context": "Calcifer (Originalstimme Tatsuya Gashūin) liefert die Schlossmagie. Sein Feuer ist an Howls Leben gebunden; der häusliche Herd steht somit im Zentrum einer gefährlichen persönlichen Verbindung.",
-      "anchor": "Calcifers Feuer hält das Schloss in Bewegung.",
       "interest": "Calcifers Feuer hält das Schloss in Bewegung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Calcifers Feuer hält das Schloss in Bewegung."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Sophie (Originalstimme Chieko Baisho) gibt sich als Howls Mutter aus.",
       "context": "Sophie (Originalstimme Chieko Baisho) gibt sich als Howls Mutter aus. Howl (Originalstimme Takuya Kimura) will seiner Verpflichtung zum Kriegsdienst entgehen und schickt sie zunächst an seiner Stelle.",
-      "anchor": "Die alte Sophie vertritt Howl als angebliche Mutter.",
       "interest": "Die alte Sophie vertritt Howl als angebliche Mutter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die alte Sophie vertritt Howl als angebliche Mutter."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Die Tür führt je nach Einstellung zu verschiedenen Orten.",
       "context": "Die Tür führt je nach Einstellung zu verschiedenen Orten. Howl (Originalstimme Takuya Kimura) nutzt damit getrennte Erscheinungsorte desselben Hauses; der Innenraum hat mehrere äußere Anschlüsse.",
-      "anchor": "Eine Tür gehört zu mehreren Orten.",
       "interest": "Eine Tür gehört zu mehreren Orten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine Tür gehört zu mehreren Orten."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Howl (Originalstimme Takuya Kimura) gab dem fallenden Stern Calcifer (Originalstimme Tatsuya Gashūin) sein Herz.",
       "context": "Howl (Originalstimme Takuya Kimura) gab dem fallenden Stern Calcifer (Originalstimme Tatsuya Gashūin) sein Herz. Sophie (Originalstimme Chieko Baisho) versteht dadurch, was zur Befreiung beider zurückgegeben werden muss.",
-      "anchor": "Howls Herz bindet ihn an den geretteten Stern.",
       "interest": "Howls Herz bindet ihn an den geretteten Stern.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Howls Herz bindet ihn an den geretteten Stern."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Die Vogelscheuche wird zum vermissten Prinzen Justin (Originalstimme Yō Ōizumi).",
       "context": "Die Vogelscheuche wird zum vermissten Prinzen Justin (Originalstimme Yō Ōizumi). Seine Rückkehr ermöglicht eine politische Wende im Krieg; eine persönliche Erlösung verändert damit auch den größeren Konflikt.",
-      "anchor": "Die Vogelscheuche verbirgt den vermissten Prinzen.",
       "interest": "Die Vogelscheuche verbirgt den vermissten Prinzen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Vogelscheuche verbirgt den vermissten Prinzen."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 2004 erstmals veröffentlicht.",
       "context": "2004 wurde der Film in Venedig erstmals gezeigt. Diana Wynne Jones’ Roman erschien 1986, achtzehn Jahre zuvor. Die Filmfassung behält die bewegliche Behausung, erweitert aber den Krieg zu einem deutlich stärkeren Handlungsschwerpunkt.",
-      "anchor": "Jones’ Roman von 1986 wurde achtzehn Jahre später, 2004, verfilmt.",
       "interest": "Jones’ Roman von 1986 wurde achtzehn Jahre später, 2004, verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jones’ Roman von 1986 wurde achtzehn Jahre später, 2004, verfilmt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Hayao Miyazaki.",
       "context": "Miyazaki übernahm das Projekt nach Mamoru Hosodas Ausscheiden. Er entwickelte die Bildidee eines laufenden Schlosses und verband die Adaption mit seiner kritischen Haltung zum Krieg.",
-      "anchor": "Miyazaki übernahm das Projekt nach Mamoru Hosodas Ausscheiden.",
       "interest": "Miyazaki übernahm das Projekt nach Mamoru Hosodas Ausscheiden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Miyazaki übernahm das Projekt nach Mamoru Hosodas Ausscheiden."
     }
   ]
 }

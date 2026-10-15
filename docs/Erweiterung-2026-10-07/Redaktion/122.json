@@ -36,13 +36,13 @@
       ],
       "short": "Stefan (Lucas Gregorowicz) und Kai (Moritz Bleibtreu) betreiben einen Pizza-Lieferdienst.",
       "context": "Stefan (Lucas Gregorowicz) und Kai (Moritz Bleibtreu) betreiben einen Pizza-Lieferdienst. Unter der harmlosen Dienstleistung verbirgt sich ein zweites Geschäft: Bestimmte Bestellungen enthalten Cannabis aus eigener Produktion. Die Verbindung erklärt, warum Alltag und Strafverfolgung so leicht ineinander übergehen. Eine Bestellung bleibt für Außenstehende Essen, für eingeweihte Kunden erfüllt sie einen anderen Zweck.",
-      "anchor": "Die Pizza liefert zugleich die Tarnung.",
       "interest": "Das gemeinsame Unternehmen erschließt die Ausgangslage.",
       "sources": [
         "artikel",
         "filmportal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Pizza liefert zugleich die Tarnung."
     },
     {
       "code": "L2",
@@ -61,13 +61,13 @@
       ],
       "short": "Stefan (Lucas Gregorowicz) steht vor dem Abschluss seines Jurastudiums.",
       "context": "Stefan (Lucas Gregorowicz) steht vor dem Abschluss seines Jurastudiums. Sein Vater (Elmar Wepper) ist Richter; die geplante Karriere setzt deshalb auch eine Familientradition fort. Gleichzeitig verkauft Stefan mit seinem Freund illegale Ware. Der Gegensatz zwischen erwarteter Rechtslaufbahn und tatsächlichem Alltag trägt seinen Wunsch, das vorgezeichnete Leben grundsätzlich zu verändern.",
-      "anchor": "Der Richtersohn soll Jurist werden und verkauft nebenher Cannabis.",
       "interest": "Familiäre Erwartung und tatsächliches Verhalten erklären den Konflikt.",
       "sources": [
         "artikel",
         "filmportal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Richtersohn soll Jurist werden und verkauft nebenher Cannabis."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Blattläuse bedrohen die Pflanzen.",
       "context": "Blattläuse bedrohen die Pflanzen. Achim (Julian Weigend) erscheint als hilfreicher Kenner und bekommt dadurch Zugang zur versteckten Plantage. Stefan (Lucas Gregorowicz) und Kai (Moritz Bleibtreu) reagieren auf ein Anbauproblem, öffnen dabei aber einem Fremden ihr geheimes Geschäft. Der vermeintliche Rettungsversuch verschärft also die Gefahr, die er eigentlich beseitigen soll.",
-      "anchor": "Blattläuse öffnen Achim den Weg zum Versteck.",
       "interest": "Eine kleine Betriebsstörung setzt die Kriminalhandlung in Gang.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Blattläuse öffnen Achim den Weg zum Versteck."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Achim (Julian Weigend) ist ein verdeckter Drogenfahnder.",
       "context": "Achim (Julian Weigend) ist ein verdeckter Drogenfahnder. Sein Auftreten als erfahrener Kiffer verschafft ihm Vertrauen und Zugang zur Plantage. Die Freunde erkennen seine Funktion erst, nachdem ihre improvisierte Problemlösung schon eskaliert ist. Die Figur verbindet so die locker geführten Gespräche mit einer realen strafrechtlichen Gefahr, die unter der gemütlichen Oberfläche verborgen liegt.",
-      "anchor": "Der scheinbare Mitkiffer ermittelt verdeckt.",
       "interest": "Die Rollenenthüllung verändert die Bedeutung der Begegnung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der scheinbare Mitkiffer ermittelt verdeckt."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Stefans Vater (Elmar Wepper) hilft über seine Verbindung zur Polizei.",
       "context": "Stefans Vater (Elmar Wepper) hilft über seine Verbindung zur Polizei. Stefan (Lucas Gregorowicz) muss ihm dafür die Lage offenlegen, statt das Geschäft weiter zu verbergen. Gerade die Autorität, gegen deren Lebensentwurf er sich auflehnt, rettet ihn aus der akuten Krise. Die Lösung des Kriminalproblems beseitigt deshalb nicht automatisch den Konflikt um seine Zukunft.",
-      "anchor": "Das Geständnis beim Vater öffnet den Ausweg.",
       "interest": "Rettung und Abhängigkeit fallen in derselben Beziehung zusammen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Geständnis beim Vater öffnet den Ausweg."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Stefan (Lucas Gregorowicz) bricht die Prüfung ab und entscheidet sich für seinen Traum vom Strandcafé.",
       "context": "Stefan (Lucas Gregorowicz) bricht die Prüfung ab und entscheidet sich für seinen Traum vom Strandcafé. Der Film führt damit aus der akuten Drogenkrise in eine persönliche Lebensentscheidung. Eine gerettete juristische Zukunft wäre möglich, doch Stefan nimmt sie nicht einfach an. Kai (Moritz Bleibtreu) begleitet ihn auf der Fahrt zum Flughafen und damit bis an die Grenze des gemeinsamen Alltags.",
-      "anchor": "Der Ausweg endet nicht im Examen, sondern auf dem Weg zum Strandcafé.",
       "interest": "Der Schluss beantwortet den Lebenskonflikt unabhängig vom Kriminalfall.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Ausweg endet nicht im Examen, sondern auf dem Weg zum Strandcafé."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "Premiere beim Filmfest München am 3. Juli 2001; deutscher Kinostart am 23. August 2001.",
       "context": "2001 erschien „Lammbock“, 2017 folgte „Lommbock“: Zwischen den beiden Filmen liegen sechzehn Jahre. Die Fortsetzung führt die von Lucas Gregorowicz und Moritz Bleibtreu gespielten Freunde erneut zusammen. Diese große Pause ist ein hilfreicher Zeitanker für den ersten Film und verhindert, den späteren Rückkehrfilm mit dem ursprünglichen Abenteuer des Pizzadienstes zu verwechseln.",
-      "anchor": "Lammbock 2001, Lommbock 2017: sechzehn Jahre bis zur Rückkehr.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "filmportal",
         "de"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Lammbock 2001, Lommbock 2017: sechzehn Jahre bis zur Rückkehr."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "Christian Zübert schrieb und inszenierte sein Spielfilmdebüt „Lammbock“.",
       "context": "Christian Zübert schrieb und inszenierte sein Spielfilmdebüt „Lammbock“. Sönke Wortmann produzierte den Film, während Lucas Gregorowicz und Moritz Bleibtreu das zentrale Freundespaar spielen. Die Rollen im Stab sind dabei getrennt: Der bekannte Produzent liefert nicht automatisch den Regiecredit. Züberts Geschichte verbindet Studienerwartungen, Freundschaft und eine außer Kontrolle geratene Geschäftsidee.",
-      "anchor": "Zübert schreibt und inszeniert, Wortmann produziert.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "filmportal"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Zübert schreibt und inszeniert, Wortmann produziert."
     }
   ]
 }

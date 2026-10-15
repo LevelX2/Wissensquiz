@@ -34,12 +34,12 @@
       ],
       "short": "Julianne arbeitet als Restaurantkritikerin.",
       "context": "Julianne Potter (Julia Roberts) arbeitet in New York als Restaurantkritikerin. Ihr Alltag wird unterbrochen, als Michael O’Neal (Dermot Mulroney) seine bevorstehende Hochzeit ankündigt. Sie reist zu ihm, statt die Nachricht nur aus der Ferne zu begleiten. Die beruflich selbstständige Frau gerät dabei in eine Situation, die sie nicht durch souveräne Beobachtung kontrollieren kann. Ihre Fähigkeit, andere zu beurteilen, schützt sie nicht vor Irrtümern über die eigenen Gefühle.",
-      "anchor": "Die professionelle Beobachterin verliert die Kontrolle über ihr eigenes Vorhaben.",
       "interest": "Ordnet den Ausgangsalltag der Hauptfigur ein.",
       "sources": [
         "film",
         "studio"
-      ]
+      ],
+      "objective": "Die professionelle Beobachterin verliert die Kontrolle über ihr eigenes Vorhaben."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Die Hochzeit findet in Chicago statt.",
       "context": "Julianne Potter (Julia Roberts) reist von New York nach Chicago, wo Michael O’Neal (Dermot Mulroney) heiraten wird. Die kurze Zeit bis zur Feier setzt ihre Versuche unter Druck, den Ablauf zu verändern. Sie tritt dabei in ein bereits organisiertes Umfeld aus Familie, Freunden und gemeinsamen Vorbereitungen ein. Chicago ist deshalb nicht nur eine Kulisse: Die Reise bringt Julianne in den unmittelbaren Alltag des Paares, dessen feste Pläne sie zuvor unterschätzt hatte.",
-      "anchor": "Die Reise nach Chicago bringt Julianne mitten in die Hochzeitsvorbereitungen.",
       "interest": "Fragt einen konkreten Schauplatz ohne die Rivalinnenkonstellation zu wiederholen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Reise nach Chicago bringt Julianne mitten in die Hochzeitsvorbereitungen."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "George spielt ihren angeblichen Verlobten.",
       "context": "George Downes (Rupert Everett) kommt nach Chicago, um Julianne Potter (Julia Roberts) zu unterstützen. Sie stellt ihn jedoch als ihren Verlobten vor, um Michael O’Neal (Dermot Mulroney) eifersüchtig zu machen. George spielt die Rolle mit, obwohl er eigentlich zu einem ehrlichen Gespräch geraten hatte. Die erfundene Bindung vergrößert Juliannes Spielraum nur scheinbar: Sie muss weitere Erklärungen finden und entfernt sich erneut von einer offenen Aussage über ihre Gefühle.",
-      "anchor": "George wird zum erfundenen Verlobten statt zum Helfer beim ehrlichen Gespräch.",
       "interest": "Erfasst eine konkrete Tarnrolle.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "George wird zum erfundenen Verlobten statt zum Helfer beim ehrlichen Gespräch."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Der Auftritt verschafft Kimmy Sympathie und Unterstützung.",
       "context": "Julianne Potter (Julia Roberts) bringt Kimmy Wallace (Cameron Diaz) zum Karaoke, obwohl diese unsicher singt. Der geplante peinliche Auftritt soll ihr schaden, bewirkt aber das Gegenteil: Das Publikum unterstützt sie. Michael O’Neal (Dermot Mulroney) reagiert ebenfalls liebevoll. Die Szene unterscheidet technische Leistung von persönlicher Wirkung. Ein unvollkommener Auftritt kann Vertrauen und Sympathie stärken, wenn die Zuhörer die erkennbare Anstrengung schätzen, statt ausschließlich saubere Töne zu bewerten.",
-      "anchor": "Die geplante Blamage wird zu einer Sympathieszene.",
       "interest": "Prüft die Umkehrung eines konkreten Sabotageplans.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die geplante Blamage wird zu einer Sympathieszene."
     },
     {
       "code": "S1",
@@ -127,12 +127,12 @@
       ],
       "short": "Die Sekretärin sendet den Entwurf mit den übrigen Nachrichten.",
       "context": "Julianne Potter (Julia Roberts) schreibt im Büro von Walter Wallace (Philip Bosco) eine falsche Nachricht an Michaels (Dermot Mulroney) Vorgesetzten. Sie speichert sie, statt sie selbst zu senden. Walters Sekretärin verschickt jedoch die vorhandenen Entwürfe im Rahmen ihres Auftrags. Dadurch wird die Manipulation wirksam, obwohl Julianne vor dem letzten Schritt zurückschreckt. Das unbeabsichtigte Absenden hebt ihre Verantwortung für den bewusst geschriebenen Inhalt nicht auf.",
-      "anchor": "Ein gespeicherter Entwurf wird durch die Sekretärin zur versandten Manipulation.",
       "interest": "Verfolgt die konkrete Ursache der folgenreichen Nachricht.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein gespeicherter Entwurf wird durch die Sekretärin zur versandten Manipulation."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "George überrascht sie bei der Feier und tanzt mit ihr.",
       "context": "Nachdem Michael O’Neal (Dermot Mulroney) und Kimmy Wallace (Cameron Diaz) geheiratet haben, bleibt Julianne Potter (Julia Roberts) zunächst allein zurück. George Downes (Rupert Everett) spricht mit ihr am Telefon und überrascht sie dann durch seine Anwesenheit bei der Feier. Ihr gemeinsamer Tanz verschafft dem Ende Wärme, ohne ihren ursprünglichen Plan zu erfüllen. Die Freundschaft trägt einen Schluss, in dem Unterstützung und Trost möglich bleiben, auch wenn die gewünschte Liebesbeziehung nicht entsteht.",
-      "anchor": "Der letzte Tanz gehört der verlässlichen Freundschaft.",
       "interest": "Erfasst die konkrete Schlussbegegnung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der letzte Tanz gehört der verlässlichen Freundschaft."
     },
     {
       "code": "Y",
@@ -175,12 +175,12 @@
       ],
       "short": "Der Originalfilm erschien 1997.",
       "context": "Die Hochzeit meines besten Freundes erschien 1997. Siebenundzwanzig Jahre später, 2024, brachte das Ogunquit Playhouse die Musicalbearbeitung als Weltpremiere auf die Bühne. Die offizielle Theaterseite nennt die Produktion ausdrücklich so. Der Abstand verbindet einen Kinofilm mit einer neu gestalteten Bühnenfassung, die den Stoff und bekannte Lieder zusammenführt. Frühere angekündigte Projekte sind davon zu unterscheiden: Für diesen Anker zählt die tatsächlich veranstaltete Premiere in Ogunquit.",
-      "anchor": "1997 Film, 2024 Musicalpremiere: 27 Jahre.",
       "interest": "Verbindet den Film mit einer späteren belegten Bühnenproduktion.",
       "sources": [
         "afi",
         "buehne"
-      ]
+      ],
+      "objective": "1997 Film, 2024 Musicalpremiere: 27 Jahre."
     },
     {
       "code": "D",
@@ -199,12 +199,12 @@
       ],
       "short": "P. J. Hogan ist der Hauptregisseur.",
       "context": "P. J. Hogan inszenierte Die Hochzeit meines besten Freundes nach dem Drehbuch von Ronald Bass. Julia Roberts spielt Julianne, deren Versuche, eine Hochzeit zu verhindern, wiederholt andere Ergebnisse hervorbringen als erhofft. Der Regiecredit bezeichnet die Gestaltung dieses Films; Jerry Zucker gehört zur Produktion. Die getrennten Aufgaben sind in den offiziellen Quellen ausgewiesen. Der australische Regisseur verbindet dabei eine romantische Ausgangslage mit der Komik misslingender Täuschungen.",
-      "anchor": "P. J. Hogan inszeniert Ronald Bass’ Drehbuch.",
       "interest": "Ordnet Hauptregie und Produktion korrekt zu.",
       "sources": [
         "afi",
         "studio"
-      ]
+      ],
+      "objective": "P. J. Hogan inszeniert Ronald Bass’ Drehbuch."
     }
   ]
 }

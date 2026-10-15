@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Mattie Ross, die Tochter des ermordeten Frank Ross, engagiert Cogburn.",
       "context": "Mattie Ross (Kim Darby) will Tom Chaney für den Mord an ihrem Vater zur Verantwortung ziehen. Sie sucht einen Mann mit Härte und Erfahrung und bezahlt den alternden US-Marshal Cogburn für die Verfolgung. Ein Texas Ranger verfolgt Chaney zugleich wegen einer anderen Tat. Mattie bleibt bei ihrem eigenen Ziel und schließt sich der gefährlichen Reise selbst an.",
-      "anchor": "Mattie sucht den Mörder ihres Vaters und engagiert Cogburn.",
       "interest": "Der Auftrag verbindet Cogburns Westernrolle mit der Entschlossenheit eines jungen Mädchens.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/23723"
-      ]
+      ],
+      "objective": "Mattie sucht den Mörder ihres Vaters und engagiert Cogburn."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Ringo ist ein gesuchter Outlaw, der zur Reisegesellschaft der Postkutsche stößt.",
       "context": "Eine Postkutsche bringt Menschen mit unterschiedlichem gesellschaftlichem Ansehen zusammen. Der Ringo Kid gehört als Outlaw zu den Außenseitern, ebenso wie Dallas (Claire Trevor). John Ford gab Wayne mit dieser Rolle einen entscheidenden Durchbruch jenseits seiner früheren kleineren Western. Die gemeinsame Gefahr zeigt, dass Anständigkeit und Mut nicht zuverlässig am offiziellen Ruf einer Person abzulesen sind.",
-      "anchor": "Ringo ist ein Outlaw unter gesellschaftlich sehr verschiedenen Reisenden.",
       "interest": "Der Rollenanker erklärt Waynes Durchbruch und die soziale Konstellation des Ensemblewesterns.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       ],
       "knowledge_id": "K-F240-20261006-222-M1",
       "variant_of": "F240-20261006-222-M1",
-      "knowledge_note": "Ringo als entflohener, gesuchter Häftling; gleiche Ausgangslage wie seine Festnahme durch Curley."
+      "knowledge_note": "Ringo als entflohener, gesuchter Häftling; gleiche Ausgangslage wie seine Festnahme durch Curley.",
+      "objective": "Ringo ist ein Outlaw unter gesellschaftlich sehr verschiedenen Reisenden."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 3,
       "short": "Sean hat einen Gegner im Ring tödlich verletzt.",
       "context": "Sean Thornton kehrt aus Amerika in seinen irischen Geburtsort zurück. Er möchte ein ruhiges Leben beginnen, doch seine Weigerung zu kämpfen wird von seiner Umgebung anders verstanden, als er es beabsichtigt. Der tödliche Boxkampf erklärt diese Zurückhaltung. John Wayne steht hier nicht in einer amerikanischen Grenzlandschaft, sondern in einer Liebesgeschichte, deren Konflikte aus unterschiedlichen Vorstellungen von Ehre und Eigentum entstehen.",
-      "anchor": "Thorntons Zurückhaltung hat ihren Ursprung in einem tödlichen Boxkampf.",
       "interest": "Der Hintergrund erklärt ein Verhalten, das im Dorf leicht als Feigheit missverstanden wird.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/53543"
-      ]
+      ],
+      "objective": "Thorntons Zurückhaltung hat ihren Ursprung in einem tödlichen Boxkampf."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 0,
       "short": "Doniphon erschoss Liberty Valance; öffentlich gilt Stoddard als der Schütze.",
       "context": "Der Rechtsanwalt Stoddard verdankt einen Teil seines Aufstiegs dem vermeintlichen Sieg über den Banditen Liberty Valance (Lee Marvin). Tatsächlich griff Doniphon aus dem Verborgenen ein. Wayne spielt den Mann, dessen Tat einem anderen die Zukunft eröffnet und ihn selbst zurücklässt. Als die Wahrheit Jahre später erzählt wird, steht die öffentliche Legende bereits fest: Der Film fragt nach dem Preis dieser Geschichtsschreibung.",
-      "anchor": "Doniphons Tat ermöglicht Stoddards Legende.",
       "interest": "Waynes Rolle verkörpert den verdrängten Anteil hinter einem politischen Heldenbild.",
       "feedback": [
         "Doniphon erschoss Liberty Valance; öffentlich gilt Stoddard als der Schütze.",
@@ -120,7 +119,8 @@
       ],
       "knowledge_id": "K-WES-19-05",
       "variant_of": "WES-S-037",
-      "knowledge_note": "Gleiche Enthüllung, dass Doniphon den tödlichen Schuss abgegeben hat."
+      "knowledge_note": "Gleiche Enthüllung, dass Doniphon den tödlichen Schuss abgegeben hat.",
+      "objective": "Doniphons Tat ermöglicht Stoddards Legende."
     },
     {
       "code": "S1",
@@ -134,7 +134,6 @@
       "correct": 3,
       "short": "Dunson hat Matt nach dessen Verlust der Familie als Sohn aufgezogen.",
       "context": "Dunson nimmt den verwaisten Matt bei sich auf und baut mit ihm seine Ranch auf. Jahre später geraten sie während eines großen Viehtriebs gegeneinander, weil Dunsons Härte die Männer überfordert. Die Auflehnung ist deshalb zugleich ein Bruch zwischen Vaterfigur und erwachsen gewordenem Sohn. Wayne kann hier Autorität bedrohlich werden lassen, während Clifts Matt Verantwortung gerade durch Widerspruch übernimmt.",
-      "anchor": "Der Konflikt des Viehtriebs ist auch ein Vater-Sohn-Konflikt.",
       "interest": "Die Beziehung erklärt, warum der Machtkampf über eine normale Auseinandersetzung zwischen Chef und Angestelltem hinausgeht.",
       "feedback": [
         "",
@@ -151,7 +150,8 @@
       ],
       "knowledge_id": "K-F240-20261006-223-L2",
       "variant_of": "F240-20261006-223-L2",
-      "knowledge_note": "Gleiche Beziehung Dunson als Ziehvater von Matt Garth."
+      "knowledge_note": "Gleiche Beziehung Dunson als Ziehvater von Matt Garth.",
+      "objective": "Der Konflikt des Viehtriebs ist auch ein Vater-Sohn-Konflikt."
     },
     {
       "code": "S2",
@@ -165,7 +165,6 @@
       "correct": 1,
       "short": "Wayne gewann für „Der Marshal“ beziehungsweise „True Grit“.",
       "context": "Die Academy zeichnete Wayne für seinen Rooster Cogburn aus. Henry Hathaways Western erschien 1969; die Preisverleihung fand im folgenden Jahr statt. Der späte Erfolg galt einer Figur, die das vertraute Bild des durchsetzungsfähigen Westernhelden mit Alkohol, Alter und einem widerspenstigen Charakter verbindet. Die Auszeichnung ist ein Darstellerpreis und kein Regiepreis für Waynes eigene Produktionen.",
-      "anchor": "Filmjahr 1969, Hauptdarsteller-Oscar 1970: „True Grit“.",
       "interest": "Der Preis verknüpft Waynes späte Karriere mit einer konkreten Darstellung.",
       "feedback": [
         "",
@@ -179,7 +178,8 @@
       "extraSources": [
         "https://www.oscars.org/oscars/ceremonies/1970",
         "https://www.johnwayne.com/journal/news/john-waynes-true-grit-oscar-and-film-artifacts-on-display-in-fort-worth/"
-      ]
+      ],
+      "objective": "Filmjahr 1969, Hauptdarsteller-Oscar 1970: „True Grit“."
     },
     {
       "code": "E1",
@@ -193,7 +193,6 @@
       "correct": 0,
       "short": "Die Geldgeber verlangten, dass Wayne selbst als Star mitspielte.",
       "context": "Wayne hatte „Alamo“ lange als eigenes Regieprojekt verfolgt und setzte auch persönliches Geld dafür ein. Seine Hauptrolle war ein Teil der Finanzierung: Investoren wollten den bekannten Star im Film sehen. Er spielte deshalb Davy Crockett und verband Schauspiel, Regie und Produktion. Das Beispiel zeigt, wie sehr künstlerische Vorhaben selbst bei einem etablierten Hollywoodstar von wirtschaftlichen Bedingungen abhängen konnten.",
-      "anchor": "Waynes Starauftritt half, sein Regieprojekt finanzierbar zu machen.",
       "interest": "Der belegte Produktionszusammenhang erklärt die Mehrfachfunktion hinter dem Historienepos.",
       "feedback": [
         "Die Geldgeber verlangten, dass Wayne selbst als Star mitspielte.",
@@ -206,7 +205,8 @@
       ],
       "extraSources": [
         "https://www.johnwayne.com/journal/duke/2019-1-7-calling-the-shots-duke-and-the-alamo/"
-      ]
+      ],
+      "objective": "Waynes Starauftritt half, sein Regieprojekt finanzierbar zu machen."
     },
     {
       "code": "E2",
@@ -220,7 +220,6 @@
       "correct": 2,
       "short": "„Der große Treck“ beziehungsweise „The Big Trail“ war sein erster Film als Hauptdarsteller John Wayne.",
       "context": "Vor seiner großen Karriere arbeitete Marion Morrison als Requisiteur und Komparse. Raoul Walsh besetzte ihn in „The Big Trail“ als Breck Coleman und gab ihm damit seine erste Hauptrolle. Während dieser Produktion entstand der Künstlername John Wayne. Der spätere Star war also nicht erst mit „Ringo“ vor der Kamera erschienen; dieser Film markierte vielmehr eine weitere, entscheidende Stufe seiner Laufbahn.",
-      "anchor": "„The Big Trail“ machte Marion Morrison zum Hauptdarsteller John Wayne.",
       "interest": "Der frühe Karriereschritt unterscheidet ersten Starauftritt und späteren Durchbruch.",
       "feedback": [
         "",
@@ -233,7 +232,8 @@
       ],
       "extraSources": [
         "https://www.johnwayne.com/about/john-waynes-career/"
-      ]
+      ],
+      "objective": "„The Big Trail“ machte Marion Morrison zum Hauptdarsteller John Wayne."
     }
   ]
 }

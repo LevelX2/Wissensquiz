@@ -37,12 +37,12 @@
       ],
       "short": "Kassie möchte ein Kind bekommen, ohne auf eine passende Partnerschaft zu warten.",
       "context": "Kassie möchte ein Kind bekommen, ohne auf eine passende Partnerschaft zu warten. Sie sucht dafür einen Spender, den sie persönlich kennenlernen kann. Die Entscheidung gibt ihr zunächst einen selbstbestimmten Plan. Die Geschichte stellt diesen Plan später neben einen Eingriff, von dem sie nichts wusste und der die tatsächliche Familienverbindung verändert hat.",
-      "anchor": "Kassie entscheidet sich für Mutterschaft ohne das Warten auf einen Partner.",
       "interest": "Die Ausgangsentscheidung erkennen.",
       "sources": [
         "miramax"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kassie entscheidet sich für Mutterschaft ohne das Warten auf einen Partner."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Roland ist Assistenzprofessor an der Columbia University.",
       "context": "Roland ist Assistenzprofessor an der Columbia University. Kassie wählt ihn als persönlichen Spender aus. Seine attraktive und souveräne Erscheinung bildet dabei einen Kontrast zu Wallys nervöser Art. Die geplante biologische Verbindung wird später als Grundlage einer möglichen Partnerschaft betrachtet, obwohl die tatsächliche Herkunft des Kindes anders ist als von Kassie angenommen.",
-      "anchor": "Kassies ausgewählter Spender arbeitet an der Universität.",
       "interest": "Den konkreten Hintergrund des vorgesehenen Spenders erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kassies ausgewählter Spender arbeitet an der Universität."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Wally verschüttet die bereitstehende Probe und ersetzt sie durch seine eigene.",
       "context": "Wally verschüttet die bereitstehende Probe und ersetzt sie durch seine eigene. Am nächsten Morgen erinnert er sich wegen seiner Trunkenheit nicht an das Geschehen. Die tatsächliche Veränderung bleibt damit auch ihm zunächst unklar. Der Film lässt die verschwiegene Handlung erst über die spätere Begegnung und die wachsende Nähe zum Kind wieder verständlich werden.",
-      "anchor": "Die verschüttete Probe wird durch Wallys eigene ersetzt.",
       "interest": "Den entscheidenden Eingriff erinnern.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die verschüttete Probe wird durch Wallys eigene ersetzt."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Kassie zieht in ihre Heimat Minnesota, weil sie dort bessere Bedingungen für das Aufwachsen sieht.",
       "context": "Kassie zieht in ihre Heimat Minnesota, weil sie dort bessere Bedingungen für das Aufwachsen sieht. Die Entscheidung unterbricht den regelmäßigen Kontakt zu Wally. Erst Jahre später kehrt sie mit ihrem Sohn nach New York zurück. Die räumliche Trennung schafft damit den langen Zeitraum, in dem das frühere Ereignis ohne persönliche Beobachtung seiner Folgen bleibt.",
-      "anchor": "Minnesota trennt die Freunde bis zur späteren Rückkehr mit dem Kind.",
       "interest": "Die persönliche Begründung des Ortswechsels verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Minnesota trennt die Freunde bis zur späteren Rückkehr mit dem Kind."
     },
     {
       "code": "S1",
@@ -133,13 +133,13 @@
       ],
       "short": "Wally erkennt in Sebastian eine ähnliche nervöse Art und weitere Gemeinsamkeiten.",
       "context": "Wally erkennt in Sebastian eine ähnliche nervöse Art und weitere Gemeinsamkeiten. Die Begegnung führt ihn dadurch zur Erinnerung an die vertauschte Probe zurück. Seine Bindung zum Kind entwickelt sich neben dieser Einsicht. Die Auflösung entsteht aus wiederholtem persönlichem Kontakt, bevor er Kassie die Wahrheit sagt und damit auch das bisherige Vertrauen gefährdet.",
-      "anchor": "Die Ähnlichkeit mit Sebastian führt Wally zur eigenen Erinnerung zurück.",
       "interest": "Beobachtete Eigenarten mit der späteren Erkenntnis verbinden.",
       "sources": [
         "miramax",
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Ähnlichkeit mit Sebastian führt Wally zur eigenen Erinnerung zurück."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Kassie sagt Wally, dass Sebastian ihn vermisst und braucht.",
       "context": "Kassie sagt Wally, dass Sebastian ihn vermisst und braucht. Die tatsächliche Beziehung zwischen Vater und Sohn erhält damit Gewicht neben der früheren Täuschung. Sie hat sich außerdem von Roland getrennt und erkennt ihre eigenen Gefühle. Das Ende verlangt so eine neue persönliche Entscheidung, nachdem die bisherige Vorstellung von Herkunft und Partnerschaft erschüttert worden ist.",
-      "anchor": "Sebastians gewachsene Bindung öffnet den Weg zur neuen Familienentscheidung.",
       "interest": "Den konkreten Anlass der erneuten Annäherung erfassen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sebastians gewachsene Bindung öffnet den Weg zur neuen Familienentscheidung."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "Premiere im ArcLight Hollywood am 16. August 2010; US-Kinostart am 20. August 2010.",
       "context": "„Umständlich verliebt“ erschien 2010. Jeffrey Eugenides hatte die zugrunde liegende Geschichte „Baster“ 1996 im „New Yorker“ veröffentlicht, vierzehn Jahre früher. Der Film erweitert daraus die Konstellation um eine langjährige Freundschaft und die spätere Begegnung mit dem Kind. Der Zeitanker verbindet das Filmjahr mit der konkreten früheren Kurzgeschichte, aus der die Adaption hervorging.",
-      "anchor": "1996 „Baster“, 2010 „Umständlich verliebt“: vierzehn Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "miramax",
         "vorlage"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1996 „Baster“, 2010 „Umständlich verliebt“: vierzehn Jahre später."
     },
     {
       "code": "D",
@@ -208,14 +208,14 @@
       ],
       "short": "Will Speck und Josh Gordon führten gemeinsam Regie.",
       "context": "Will Speck und Josh Gordon führten gemeinsam Regie. Allan Loeb adaptierte die Geschichte von Jeffrey Eugenides; Jennifer Aniston und Jason Bateman spielten die langjährigen Freunde. Beide Darsteller kannten sich bereits vor der Produktion. Die Zusammenarbeit stellt die spätere Bindung zwischen Wally und dem Kind neben eine Freundschaft, deren Vertrauen durch die verschwiegene Herkunft verletzt wird.",
-      "anchor": "Speck und Gordon inszenieren Aniston und Bateman als Freunde mit einer verschwiegenen Familiengeschichte.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "miramax",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Speck und Gordon inszenieren Aniston und Bateman als Freunde mit einer verschwiegenen Familiengeschichte."
     }
   ]
 }

@@ -38,12 +38,12 @@
       ],
       "short": "Tommy und Austin betreiben das Familienunternehmen als Vater und Sohn.",
       "context": "Tommy (Brian Cox) und Austin (Emile Hirsch) arbeiten im familieneigenen Leichenhaus. Berufliche Erfahrung und Vater-Sohn-Beziehung überlagern sich. Ihre Suche nach einer Erklärung ist deshalb zugleich eine gemeinsame Bewährungsprobe: Der Sohn hilft dem Vater weiter, obwohl sein eigener Abend ursprünglich anders geplant war.",
-      "anchor": "Die Untersuchung verbindet berufliche Zusammenarbeit und Vater-Sohn-Bindung.",
       "interest": "Erklärt die persönliche Grundlage des gemeinsamen Handelns.",
       "sources": [
         "council"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Untersuchung verbindet berufliche Zusammenarbeit und Vater-Sohn-Bindung."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Die inneren Schäden widersprechen der erhaltenen äußeren Erscheinung.",
       "context": "Jane Doe (Olwen Kelly) wirkt äußerlich unversehrt. Die Untersuchung entdeckt jedoch schwere innere Schäden. Das vertraute Verfahren der Obduktion liefert damit keine einfache Ordnung, sondern neue Widersprüche. Je genauer Tommy (Brian Cox) und Austin (Emile Hirsch) hinsehen, desto weniger passt der Körper zu einer gewöhnlichen Todesursache.",
-      "anchor": "Die unversehrte Oberfläche verdeckt massive innere Schäden.",
       "interest": "Zeigt den konkreten Befund, der aus Routine ein Rätsel macht.",
       "sources": [
         "council"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die unversehrte Oberfläche verdeckt massive innere Schäden."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Es wurde als Bewegungswarnung erklärt und macht später eine bedrohliche Bewegung hörbar.",
       "context": "Tommy (Brian Cox) erläutert das Glöckchen zunächst als Vorsichtsmaßnahme gegen einen irrtümlich festgestellten Tod. Später wird sein Ton zum Warnzeichen. Der Film bereitet damit die Wirkung eines Gegenstands sachlich vor. Was zuerst wie Berufswissen erscheint, lässt das Publikum eine kommende Bewegung ohne direkten Blick auf den Körper erkennen.",
-      "anchor": "Die erklärte Bewegungswarnung verwandelt das Glöckchen in ein Horrorsignal.",
       "interest": "Erschließt den vorbereiteten Zusammenhang zwischen Gegenstand und späterer Spannung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die erklärte Bewegungswarnung verwandelt das Glöckchen in ein Horrorsignal."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Tommy schlägt die vermeintliche Bedrohung nieder und erkennt Emma zu spät.",
       "context": "Tommy (Brian Cox) und Austin (Emile Hirsch) wollen entkommen. Der herannahende Körper erscheint ihnen als Teil der Bedrohung, doch es ist Emma (Ophelia Lovibond). Die veränderte Wahrnehmung zerstört damit die Grenze zwischen Hilfe und Gefahr. Ihre Abwehr trifft gerade jemanden, auf dessen Rückkehr Austin gehofft hatte.",
-      "anchor": "Die vermeintliche Leiche ist die zurückkehrende Emma.",
       "interest": "Erklärt die tödliche Folge einer manipulierten Wahrnehmung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die vermeintliche Leiche ist die zurückkehrende Emma."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Tommy deutet die Gewalt der Hexenverfolgung als Ursprung ihrer wirklichen Macht.",
       "context": "Tommy (Brian Cox) deutet die Zeichen im Körper als Spuren einer Hexenverfolgung. Seine Erklärung bleibt eine Schlussfolgerung innerhalb der Geschichte: Jane Doe (Olwen Kelly) wurde durch die Folter zu dem gemacht, dessen Vorwurf ihre Peiniger benutzten. Die Gewalt erzeugt so nachträglich ihre eigene bedrohliche Rechtfertigung.",
-      "anchor": "Tommy erklärt die Hexe als Folge der Gewalt ihrer Verfolger.",
       "interest": "Macht die erzählte Deutung ausdrücklich als Schlussfolgerung einer Figur kenntlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Tommy erklärt die Hexe als Folge der Gewalt ihrer Verfolger."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Die Schäden wechseln sichtbar auf Tommy über.",
       "context": "Tommy (Brian Cox) bietet sich als Opfer an, um Austin (Emile Hirsch) zu schützen. Jane Does (Olwen Kelly) Körper erholt sich, während er ihre Schäden erleidet. Die Untersuchung hat die Verletzungen zuvor als Befunde behandelt; nun werden sie zum unmittelbar erfahrenen Leid des Untersuchenden.",
-      "anchor": "Tommy wird vom Betrachter ihrer Verletzungen zu ihrem leidenden Träger.",
       "interest": "Verknüpft das Opfer mit dem zuvor aufgebauten Wissen über den Körper.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Tommy wird vom Betrachter ihrer Verletzungen zu ihrem leidenden Träger."
     },
     {
       "code": "Y",
@@ -182,13 +182,13 @@
       ],
       "short": "Trollhunter erschien 2010; dieser Film folgte 2016.",
       "context": "Trollhunter erschien 2010 in Norwegen. The Autopsy of Jane Doe hatte 2016 in Toronto seine Weltpremiere, sechs Jahre später. Die Folge führt von einem vorgeblichen Dokumentarfilm über eine weite Landschaft zu einer konzentrierten Untersuchung in einem Leichenhaus. Beide Formen lassen sachliche Beobachtung in übernatürliche Gefahr kippen.",
-      "anchor": "2010 Trollhunter, sechs Jahre später 2016 das verschlossene Leichenhaus.",
       "interest": "Verankert das Erscheinungsjahr in einer konkreten Entwicklung des Regisseurs.",
       "sources": [
         "troll",
         "council"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2010 Trollhunter, sechs Jahre später 2016 das verschlossene Leichenhaus."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "André Øvredal inszenierte den Film.",
       "context": "André Øvredal inszenierte das Drehbuch von Ian Goldberg und Richard Naing. Die Wirkung baut auf einer Untersuchung auf, deren einzelne Schritte jeweils neue Informationen freilegen. Die Vater-Sohn-Beziehung verankert diese Enthüllungen in persönlichen Reaktionen, sodass die räumlich begrenzte Geschichte mehr trägt als eine Folge von Schreckmomenten.",
-      "anchor": "Øvredal inszeniert die Untersuchung als schrittweise Enthüllung mit persönlicher Bindung.",
       "interest": "Verbindet den Regiecredit mit der konkreten Struktur des Films.",
       "sources": [
         "council",
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Øvredal inszeniert die Untersuchung als schrittweise Enthüllung mit persönlicher Bindung."
     }
   ]
 }

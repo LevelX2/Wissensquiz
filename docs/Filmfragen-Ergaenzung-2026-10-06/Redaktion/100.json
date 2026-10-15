@@ -37,12 +37,12 @@
       ],
       "short": "Grandier (Oliver Reed) widersetzt sich dem Mauerabriss.",
       "context": "Grandier (Oliver Reed) widersetzt sich dem Mauerabriss. Richelieu (Christopher Logue) will Macht zentralisieren; der lokale Priester steht damit nicht nur in einem religiösen, sondern auch in einem politischen Konflikt.",
-      "anchor": "Die Stadtmauer trennt örtliche Selbstständigkeit und Zentralmacht.",
       "interest": "Die Stadtmauer trennt örtliche Selbstständigkeit und Zentralmacht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Stadtmauer trennt örtliche Selbstständigkeit und Zentralmacht."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Jeanne (Vanessa Redgrave) ist auf Grandier (Oliver Reed) fixiert.",
       "context": "Jeanne (Vanessa Redgrave) ist auf Grandier (Oliver Reed) fixiert. Sein Verhältnis zu Madeleine (Gemma Jones) verschärft ihre Eifersucht; das private Begehren geht in den späteren Besessenheitsvorwurf ein.",
-      "anchor": "Die persönliche Zurückweisung wird zum religiösen Vorwurf.",
       "interest": "Die persönliche Zurückweisung wird zum religiösen Vorwurf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die persönliche Zurückweisung wird zum religiösen Vorwurf."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die vorgebliche Reliquie besitzt keinen Inhalt.",
       "context": "Die vorgebliche Reliquie besitzt keinen Inhalt. Louis XIII. (Graham Armitage) zeigt die leere Kiste nach der gespielten Heilung; die Zeremonie geht dennoch weiter, statt die Entlarvung als Gegenbeweis anzunehmen.",
-      "anchor": "Die leere Kiste widerlegt die angebliche Heilwirkung.",
       "interest": "Die leere Kiste widerlegt die angebliche Heilwirkung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die leere Kiste widerlegt die angebliche Heilwirkung."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Mignon (Murray Melvin) und Laubardemont (Dudley Sutton) verdichten die Aussagen zum Hexereivorwurf.",
       "context": "Mignon (Murray Melvin) und Laubardemont (Dudley Sutton) verdichten die Aussagen zum Hexereivorwurf. Jeannes (Vanessa Redgrave) persönliche Motive verschwinden damit hinter einer Anklage, die den politischen Gegner beseitigen kann.",
-      "anchor": "Der reduzierte Vorwurf macht persönliche Konflikte zum politischen Werkzeug.",
       "interest": "Der reduzierte Vorwurf macht persönliche Konflikte zum politischen Werkzeug.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der reduzierte Vorwurf macht persönliche Konflikte zum politischen Werkzeug."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Grandier (Oliver Reed) verweigert das Geständnis.",
       "context": "Grandier (Oliver Reed) verweigert das Geständnis. Sein Tod schafft daher keine unterschriebene Bestätigung der Anklage; die Macht der Verfolger setzt die Verurteilung trotzdem durch.",
-      "anchor": "Die Strafe braucht am Ende kein anerkanntes Geständnis.",
       "interest": "Die Strafe braucht am Ende kein anerkanntes Geständnis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Strafe braucht am Ende kein anerkanntes Geständnis."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Während Grandier (Oliver Reed) verbrennt, werden die Mauern gesprengt.",
       "context": "Während Grandier (Oliver Reed) verbrennt, werden die Mauern gesprengt. Der religiöse Prozess erreicht damit zugleich das politische Ziel; Madeleine (Gemma Jones) geht später über die Trümmer der verlorenen Stadtgrenze.",
-      "anchor": "Die Hinrichtung vollendet auch die politische Entmachtung der Stadt.",
       "interest": "Die Hinrichtung vollendet auch die politische Entmachtung der Stadt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Hinrichtung vollendet auch die politische Entmachtung der Stadt."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Der Film wurde 1971 erstmals veröffentlicht.",
       "context": "1971 erschien Russells Film. Huxleys Sachbuch Die Teufel von Loudun stammt von 1952, 19 Jahre früher; Whitings Bühnenstück von 1961 liegt zehn Jahre vor der Filmfassung und bildet eine weitere Bearbeitungsstufe.",
-      "anchor": "Huxleys Buch 1952 und Whitings Bühne 1961 gingen Russells Film 1971 um 19 beziehungsweise zehn Jahre voraus.",
       "interest": "Huxleys Buch 1952 und Whitings Bühne 1961 gingen Russells Film 1971 um 19 beziehungsweise zehn Jahre voraus.",
       "sources": [
         "filminstitut",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Huxleys Buch 1952 und Whitings Bühne 1961 gingen Russells Film 1971 um 19 beziehungsweise zehn Jahre voraus."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Regie: Ken Russell.",
       "context": "Russell schrieb und inszenierte die historische Dramatisierung. Derek Jarmans Bühnenräume geben Loudun eine auffällig künstliche Form; die Besessenheitsvorwürfe werden als Zusammenspiel von Begehren, religiöser Autorität und politischem Machtgewinn erzählt.",
-      "anchor": "Russell schrieb und inszenierte die historische Dramatisierung.",
       "interest": "Russell schrieb und inszenierte die historische Dramatisierung.",
       "sources": [
         "filminstitut",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Russell schrieb und inszenierte die historische Dramatisierung."
     }
   ]
 }

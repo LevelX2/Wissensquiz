@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Peter Lorre spielt den Kindermörder Hans Beckert.",
       "context": "Hans Beckert (Peter Lorre) versetzt mit seinen Kindermorden eine ganze Stadt in Angst. Fritz Lang zeigt dabei sowohl den Täter als auch eine Gesellschaft, deren Misstrauen immer weiter wächst. Schon eine gepfiffene Melodie kündigt Beckerts Nähe an, bevor man ihn sieht. Lorres Figur steht damit im Zentrum eines frühen Tonfilms, der Bedrohung nicht allein über sichtbare Gewalt erzeugt.",
-      "anchor": "Lorre ist in „M“ der gesuchte Täter Hans Beckert.",
       "interest": "Der Rollenanker erschließt Lorres berühmten frühen Auftritt und Langs Verbindung von Ton und Bedrohung.",
       "feedback": [
         "",
@@ -26,11 +25,16 @@
         "",
         ""
       ],
-      "films": ["M|1931"],
-      "extraSources": ["https://www.criterion.com/films/558-m"],
+      "films": [
+        "M|1931"
+      ],
+      "extraSources": [
+        "https://www.criterion.com/films/558-m"
+      ],
       "knowledge_id": "K-CLA-20-01",
       "variant_of": "CLA-L-039",
-      "knowledge_note": "Umgekehrte Besetzungsfrage zum vorhandenen Zusammenhang Peter Lorre als Hans Beckert."
+      "knowledge_note": "Umgekehrte Besetzungsfrage zum vorhandenen Zusammenhang Peter Lorre als Hans Beckert.",
+      "objective": "Lorre ist in „M“ der gesuchte Täter Hans Beckert."
     },
     {
       "code": "L2",
@@ -44,7 +48,6 @@
       "correct": 2,
       "short": "Ugarte handelt mit Ausreisepapieren.",
       "context": "Ugarte (Peter Lorre) will gestohlene Transitbriefe verkaufen und danach selbst Casablanca verlassen. Vor seiner Verhaftung vertraut er die Dokumente Rick Blaine (Humphrey Bogart) an. Dadurch gelangen die begehrten Papiere in Ricks Hände. Lorres kurzer Auftritt setzt einen entscheidenden Teil der Handlung in Bewegung: Für Menschen auf der Flucht können diese Briefe den Weg aus der Stadt öffnen.",
-      "anchor": "Ugarte bringt die Transitbriefe zu Rick.",
       "interest": "Eine kleine Nebenrolle wird als Auslöser des zentralen Handlungskonflikts verständlich.",
       "feedback": [
         "",
@@ -52,8 +55,13 @@
         "Ugarte ist der Händler, der Rick die Transitbriefe anvertraut.",
         ""
       ],
-      "films": ["Casablanca|1942"],
-      "extraSources": ["https://catalog.afi.com/Film/27175-CASABLANCA"]
+      "films": [
+        "Casablanca|1942"
+      ],
+      "extraSources": [
+        "https://catalog.afi.com/Film/27175-CASABLANCA"
+      ],
+      "objective": "Ugarte bringt die Transitbriefe zu Rick."
     },
     {
       "code": "M1",
@@ -67,13 +75,20 @@
       "correct": 0,
       "short": "Conseil begleitet Professor Aronnax.",
       "context": "Professor Aronnax (Paul Lukas), sein Begleiter Conseil (Peter Lorre) und der Harpunier Ned Land (Kirk Douglas) nehmen an der Suche nach einem vermeintlichen Seeungeheuer teil. Sie stoßen stattdessen auf Kapitän Nemo (James Mason) und die Nautilus. Lorre gehört hier zu einer Abenteuergruppe mit verschiedenen Blickwinkeln: wissenschaftlicher Neugier, vorsichtiger Begleitung und dem Tatendrang des Harpuniers.",
-      "anchor": "Conseil gehört zu Aronnax; Ned Land ist der Harpunier.",
       "interest": "Die Beziehung ordnet Lorre im Ensemble ein und öffnet einen Zugang jenseits seiner bedrohlichen Figuren.",
-      "feedback": ["Conseil ist Professor Aronnax’ Begleiter.", "", "", ""],
-      "films": ["20,000 Leagues Under the Sea|1954"],
+      "feedback": [
+        "Conseil ist Professor Aronnax’ Begleiter.",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "20,000 Leagues Under the Sea|1954"
+      ],
       "extraSources": [
         "https://d23.com/20000-leagues-under-the-sea-70-years-of-the-mightiest-motion-picture-of-them-all/"
-      ]
+      ],
+      "objective": "Conseil gehört zu Aronnax; Ned Land ist der Harpunier."
     },
     {
       "code": "M2",
@@ -87,7 +102,6 @@
       "correct": 3,
       "short": "Joel Cairo bedroht Spade mit einer Pistole, um sein Büro zu durchsuchen.",
       "context": "Joel Cairo (Peter Lorre) sucht Sam Spade (Humphrey Bogart) wegen der schwarzen Falkenstatue auf und zieht eine Pistole. Spade entwaffnet ihn zunächst. Cairo bietet ihm daraufhin 5.000 Dollar für die Beschaffung der Statue; anschließend durchsucht er das Büro erneut mit vorgehaltener Waffe. Geschäftsvorschlag und Drohung liegen bei diesem Auftraggeber eng beieinander. Spade muss deshalb auch beim scheinbar vereinbarten Geschäft mit Gewalt rechnen.",
-      "anchor": "Cairo verbindet sein Geldangebot mit einer Pistolenbedrohung.",
       "interest": "Cairos Druckmittel macht die unsichere Grenze zwischen Auftraggeber und Angreifer konkret.",
       "feedback": [
         "",
@@ -95,8 +109,13 @@
         "",
         "Cairo hält Spade mit einer Pistole in Schach, während er das Büro durchsucht."
       ],
-      "films": ["The Maltese Falcon|1941"],
-      "extraSources": ["https://catalog.afi.com/Film/27025-THE-MALTESE-FALCON"]
+      "films": [
+        "The Maltese Falcon|1941"
+      ],
+      "extraSources": [
+        "https://catalog.afi.com/Film/27025-THE-MALTESE-FALCON"
+      ],
+      "objective": "Cairo verbindet sein Geldangebot mit einer Pistolenbedrohung."
     },
     {
       "code": "S1",
@@ -110,7 +129,6 @@
       "correct": 0,
       "short": "Lorres erste englischsprachige Filmrolle war Abbott in Hitchcocks „Der Mann, der zuviel wusste“ von 1934.",
       "context": "In der britischen Originalfassung von „Der Mann, der zuviel wusste“ spielt Peter Lorre den Schurken Abbott. Ein Urlauberpaar gerät in eine politische Verschwörung; die Entführung seiner Tochter soll verhindern, dass es den Anschlagsplan verrät. Für Lorre bedeutete der Film den Einstieg in englischsprachige Rollen. Gemeint ist Hitchcocks Film von 1934, nicht dessen spätere Neufassung.",
-      "anchor": "Hitchcocks britische Fassung von 1934 ist Lorres englischsprachiger Einstieg.",
       "interest": "Ein Karriereschritt wird mit der konkreten Filmfassung und ihrem Spannungskonflikt verknüpft.",
       "feedback": [
         "Criterion nennt den Film von 1934 Lorres erste englischsprachige Rolle.",
@@ -118,10 +136,13 @@
         "",
         ""
       ],
-      "films": ["The Man Who Knew Too Much|1934"],
+      "films": [
+        "The Man Who Knew Too Much|1934"
+      ],
       "extraSources": [
         "https://www.criterion.com/films/27999-the-man-who-knew-too-much"
-      ]
+      ],
+      "objective": "Hitchcocks britische Fassung von 1934 ist Lorres englischsprachiger Einstieg."
     },
     {
       "code": "S2",
@@ -135,7 +156,6 @@
       "correct": 1,
       "short": "Dr. Einstein ist ein plastischer Chirurg aus dem kriminellen Milieu.",
       "context": "Dr. Einstein (Peter Lorre) kommt mit Jonathan Brewster (Raymond Massey) in das Haus der Familie. Der Chirurg hat Jonathans Gesicht so verändert, dass es Boris Karloff ähnelt. Während Mortimer Brewster (Cary Grant) bereits die tödlichen Gewohnheiten seiner Tanten zu bewältigen versucht, bringen die Neuankömmlinge einen weiteren Mordfall mit. Lorres Arzt gehört damit zur kriminellen Verwicklung der schwarzen Komödie.",
-      "anchor": "Dr. Einstein verändert Gesichter für Verbrecher.",
       "interest": "Der Beruf erklärt eine Handlungsvoraussetzung und den Karloff-Witz der Komödie.",
       "feedback": [
         "",
@@ -143,13 +163,16 @@
         "",
         ""
       ],
-      "films": ["Arsenic and Old Lace|1944"],
+      "films": [
+        "Arsenic and Old Lace|1944"
+      ],
       "extraSources": [
         "https://catalog.afi.com/Film/27697-ARSENIC-AND-OLD-LACE"
       ],
       "knowledge_id": "K-KOM-202609-P02-S-081",
       "variant_of": "KOM-202609-P02-S-081",
-      "knowledge_note": "Umgekehrter Rollen-Berufs-Zusammenhang zur vorhandenen Besetzungsfrage Peter Lorre als plastischer Chirurg Dr. Einstein."
+      "knowledge_note": "Umgekehrter Rollen-Berufs-Zusammenhang zur vorhandenen Besetzungsfrage Peter Lorre als plastischer Chirurg Dr. Einstein.",
+      "objective": "Dr. Einstein verändert Gesichter für Verbrecher."
     },
     {
       "code": "E1",
@@ -163,7 +186,6 @@
       "correct": 2,
       "short": "Peter Lorre führte Regie, arbeitete am Szenario mit und spielte die Hauptrolle.",
       "context": "Peter Lorre führte Regie, schrieb mit am Szenario und spielte einen Wissenschaftler, der zum Mörder wird. Weil seine Forschung für das NS-Regime nützlich ist, bewahrt es ihn vor einer Strafe. Nach seiner Rückkehr nach Europa konnte Lorre mit diesem deutschen Film einen eigenen Stoff gestalten. Der Film fand jedoch kaum Publikum, und Lorre kehrte wieder in die USA zurück.",
-      "anchor": "„Der Verlorene“ verbindet Lorres Regie, Schreibarbeit und Spiel.",
       "interest": "Die Frage erweitert das Schauspielerbild um eine belegte eigene Filmgestaltung.",
       "feedback": [
         "",
@@ -171,11 +193,14 @@
         "Das MoMA nennt Regie, Mitarbeit am Szenario und die Hauptrolle.",
         ""
       ],
-      "films": ["Der Verlorene|1951"],
+      "films": [
+        "Der Verlorene|1951"
+      ],
       "extraSources": [
         "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/2322/releases/MOMA_1958_0005_5.pdf",
         "https://www.filmportal.de/person/peter-lorre_167dd47a58b7400ab846ca10391437fb"
-      ]
+      ],
+      "objective": "„Der Verlorene“ verbindet Lorres Regie, Schreibarbeit und Spiel."
     },
     {
       "code": "E2",
@@ -189,7 +214,6 @@
       "correct": 3,
       "short": "Lorre verkörperte den japanischen Ermittler Mr. Moto in acht Filmen.",
       "context": "Mit „Think Fast, Mr. Moto“ begann 1937 eine Reihe von acht Filmen mit Peter Lorre als Mr. Moto. Die Figur stammt von J. P. Marquand und verbindet geschäftliche Kontakte mit Ermittlungsarbeit. Im ersten Film deckt Moto einen Schmugglerring auf und bezeichnet sich schließlich als gelegentlichen Amateurdetektiv. Lorre konnte hier über mehrere Produktionen eine wiederkehrende Ermittlerfigur tragen, statt nur als Gegenspieler aufzutreten.",
-      "anchor": "Mr. Moto ist Lorres wiederkehrender Ermittler in acht Filmen.",
       "interest": "Das Serienprofil ergänzt die bekannteren Schurkenrollen um eine Hauptfigur auf der ermittelnden Seite.",
       "feedback": [
         "",
@@ -197,11 +221,14 @@
         "",
         "Die acht Mr.-Moto-Filme stellen Lorre als wiederkehrenden japanischen Ermittler ins Zentrum."
       ],
-      "films": ["Think Fast, Mr. Moto|1937"],
+      "films": [
+        "Think Fast, Mr. Moto|1937"
+      ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/1188",
         "https://mubi.com/en/us/films/think-fast-mr-moto"
-      ]
+      ],
+      "objective": "Mr. Moto ist Lorres wiederkehrender Ermittler in acht Filmen."
     }
   ]
 }

@@ -49,14 +49,14 @@
       ],
       "short": "Der Concierge kennt Abläufe und besitzt Zugangsmöglichkeiten im Haus.",
       "context": "César (Luis Tosar) begegnet den Bewohnern als hilfreicher Concierge. Sein Beruf gibt ihm Schlüssel, Kenntnisse und plausible Gründe für seine Anwesenheit. Die Gefahr entsteht deshalb innerhalb einer vertrauten Dienstleistung. Clara (Marta Etura) kennt seine tatsächlichen nächtlichen Handlungen zunächst nicht, obwohl er ihren Alltag bereits systematisch beeinflusst.",
-      "anchor": "Der Concierge missbraucht den beruflich gewährten Zugang zum Privatleben.",
       "interest": "Der Beruf erklärt die besondere Nähe des Täters zu seinen Opfern.",
       "sources": [
         "wiki",
         "de",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Concierge missbraucht den beruflich gewährten Zugang zum Privatleben."
     },
     {
       "code": "L2",
@@ -75,13 +75,13 @@
       ],
       "short": "Sein eigenes Unglück motiviert die gezielte Zerstörung fremder Lebensfreude.",
       "context": "César (Luis Tosar) erlebt selbst keine Freude und versucht deshalb, andere ebenfalls unglücklich zu machen. Clara (Marta Etura) widersteht seinen kleineren Sabotagen durch ihre positive Haltung. Gerade das steigert seine Fixierung. Der Film zeigt so eine Eskalation, die nicht von materieller Bereicherung, sondern vom Wunsch nach Kontrolle fremder Gefühle angetrieben wird.",
-      "anchor": "César sucht Befriedigung darin, Claras Lebensfreude zu brechen.",
       "interest": "Das Motiv erklärt, weshalb erfolglose kleine Sabotagen zu schwereren Übergriffen führen.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "César sucht Befriedigung darin, Claras Lebensfreude zu brechen."
     },
     {
       "code": "M1",
@@ -100,13 +100,13 @@
       ],
       "short": "Er mischt schädigende Substanzen in ihre Kosmetika.",
       "context": "César (Luis Tosar) dringt nachts in Claras (Marta Etura) Wohnung ein und manipuliert alltägliche Gegenstände. Die Beschwerden erscheinen ihr zunächst ohne erkennbare persönliche Ursache. Dadurch kann er zugleich Störungen erzeugen und als Ansprechpartner im Haus auftreten. Die vermeintlich intime Sicherheit der eigenen Pflegeroutine wird zum Teil seines Angriffs.",
-      "anchor": "Manipulierte Kosmetik macht vertraute Alltagspflege zur verdeckten Gefahr.",
       "interest": "Die Methode erklärt die Differenz zwischen Claras Erleben und dem Wissen des Publikums.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Manipulierte Kosmetik macht vertraute Alltagspflege zur verdeckten Gefahr."
     },
     {
       "code": "M2",
@@ -125,13 +125,13 @@
       ],
       "short": "Die Nachbarstochter nutzt ihr Wissen als Druckmittel.",
       "context": "Úrsula (Iris Almeida) sieht mehr von Césars (Luis Tosar) nächtlichem Verhalten als die erwachsenen Bewohner. Sie verlangt Geld und weitere Leistungen für ihr Schweigen. Für César entsteht damit ein unerwarteter Kontrollverlust. Die einzige mögliche Zeugin bleibt jedoch selbst verletzlich, sodass er später versucht, ihr Wissen durch Drohungen unschädlich zu machen.",
-      "anchor": "Das beobachtende Kind verwandelt Täterwissen vorübergehend in ein Druckmittel.",
       "interest": "Die Frage erklärt die Bedeutung einer sonst scheinbar nebensächlichen Bewohnerin.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das beobachtende Kind verwandelt Täterwissen vorübergehend in ein Druckmittel."
     },
     {
       "code": "S1",
@@ -150,13 +150,13 @@
       ],
       "short": "Die entdeckten Mittel und Claras Schwangerschaft machen die nächtlichen Übergriffe verdächtig.",
       "context": "Marcos (Alberto San Juan) findet verdächtige Gegenstände und erkennt, dass César (Luis Tosar) nicht nur als dienstlicher Helfer in Claras (Marta Etura) Wohnung war. Auch ihre Schwangerschaft passt nicht zu seiner eigenen Erklärung der Beziehung. Die spätere Konfrontation bedroht Césars Geheimnis unmittelbar und endet deshalb in einer weiteren Gewalttat.",
-      "anchor": "Marcos verbindet konkrete Wohnungsspuren mit dem Verdacht auf nächtliche Übergriffe.",
       "interest": "Der Zusammenhang erklärt den Übergang von heimlicher Sabotage zu offener Gewalt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Marcos verbindet konkrete Wohnungsspuren mit dem Verdacht auf nächtliche Übergriffe."
     },
     {
       "code": "S2",
@@ -175,13 +175,13 @@
       ],
       "short": "Er beansprucht die Vaterschaft und will die Erinnerung an seine Gewalt dauerhaft festsetzen.",
       "context": "Clara (Marta Etura) hat das Haus verlassen und ihr Kind bekommen. Césars (Luis Tosar) Brief legt nun seine Übergriffe offen und beansprucht die Vaterschaft. Sein Ziel reicht damit über die unmittelbare Kontrolle einer Wohnung hinaus. Er will ihre künftigen Gefühle an eine bleibende Erinnerung binden und beschreibt genau diese Wirkung als seinen Erfolg.",
-      "anchor": "Der Brief soll selbst nach Claras Wegzug eine bleibende innere Bedrohung schaffen.",
       "interest": "Das Ende erklärt die endgültige Form seines Kontrollmotivs.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Brief soll selbst nach Claras Wegzug eine bleibende innere Bedrohung schaffen."
     },
     {
       "code": "Y",
@@ -200,14 +200,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2011.",
       "context": "Sleep Tight erschien 2011, vier Jahre nach REC von 2007, den Jaume Balagueró gemeinsam mit Paco Plaza inszeniert hatte. Beide Geschichten machen ein Wohnhaus zum Ort der Bedrohung. Der spätere Film arbeitet jedoch ohne die gemeinsame Regie und folgt dem Täter als alltäglichem Concierge. Der Vergleich verankert das Jahr durch einen deutlichen Perspektivwechsel.",
-      "anchor": "Gemeinsam inszeniertes REC 2007 → Balaguerós Sleep Tight 2011: vier Jahre.",
       "interest": "Die Verbindung hält die Regieentwicklung und die veränderte Perspektive im selben Ortsmilieu fest.",
       "sources": [
         "wiki",
         "studio",
         "rec"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gemeinsam inszeniertes REC 2007 → Balaguerós Sleep Tight 2011: vier Jahre."
     },
     {
       "code": "D",
@@ -226,14 +226,14 @@
       ],
       "short": "Jaume Balagueró führte bei diesem Film Regie.",
       "context": "Jaume Balagueró führte Regie nach Alberto Marinis Drehbuch. Anders als bei seinen gemeinschaftlich inszenierten REC-Filmen verantwortete er diese Regie allein. Die Handlung bleibt eng bei César (Luis Tosar), der Zugang und Vertrauen seines Berufs missbraucht. Dadurch sieht das Publikum viele Vorbereitungen der Übergriffe früher als die Bewohner, deren Alltag er gezielt zerstört.",
-      "anchor": "Balagueró inszeniert Marinis Stoff aus der Nähe des angreifenden Concierge.",
       "interest": "Der Regiecredit erklärt die gezielt gewählte Täterperspektive.",
       "sources": [
         "wiki",
         "studio",
         "rec"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Balagueró inszeniert Marinis Stoff aus der Nähe des angreifenden Concierge."
     }
   ]
 }

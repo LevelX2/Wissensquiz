@@ -36,12 +36,12 @@
       ],
       "short": "Das DC Mini erlaubt den Zugang zu fremden Träumen.",
       "context": "Das DC Mini erlaubt den Zugang zu fremden Träumen. Als die Technik gestohlen wird, kann therapeutisches Wissen zur Manipulation werden; Grenzen zwischen persönlichem Innenleben und äußerer Macht geraten in Gefahr.",
-      "anchor": "Traumzugang kann von Therapie zu Kontrolle wechseln.",
       "interest": "Traumzugang kann von Therapie zu Kontrolle wechseln.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Traumzugang kann von Therapie zu Kontrolle wechseln."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Paprika ist Atsukos Traumidentität; beide spricht Megumi Hayashibara im Original.",
       "context": "Paprika ist Atsukos Traumidentität; beide spricht Megumi Hayashibara im Original. Der Film unterscheidet ihr zurückhaltendes Alltagsselbst von einer beweglicheren Traumgestalt, statt zwei zufällig ähnliche unabhängige Frauen einzuführen.",
-      "anchor": "Alltagsärztin und Traumhelferin gehören zu derselben Person.",
       "interest": "Alltagsärztin und Traumhelferin gehören zu derselben Person.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Alltagsärztin und Traumhelferin gehören zu derselben Person."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Eine bizarre Parade aus Gegenständen zieht durch Träume und später die Stadt.",
       "context": "Eine bizarre Parade aus Gegenständen zieht durch Träume und später die Stadt. Das Bild verbindet die einzelnen Betroffenen zu einer wachsenden kollektiven Bewegung; die Traumstörung bleibt nicht auf einen einzigen Patienten begrenzt.",
-      "anchor": "Die Gegenstandsparade verbindet Träume und Stadt.",
       "interest": "Die Gegenstandsparade verbindet Träume und Stadt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gegenstandsparade verbindet Träume und Stadt."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Konakawa (Originalstimme Akio Otsuka) hat den Tod eines Jugendfreundes und den gemeinsamen Filmwunsch verdrängt.",
       "context": "Konakawa (Originalstimme Akio Otsuka) hat den Tod eines Jugendfreundes und den gemeinsamen Filmwunsch verdrängt. Die Traumabschnitte nehmen unterschiedliche Filmgenres auf; seine innere Versöhnung führt ihn schließlich wieder ins Kino.",
-      "anchor": "Das verdrängte Filmprojekt prägt Konakawas Traumlogik.",
       "interest": "Das verdrängte Filmprojekt prägt Konakawas Traumlogik.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das verdrängte Filmprojekt prägt Konakawas Traumlogik."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Inui erklärt die Technik zum Angriff auf Träume und nutzt sie zugleich selbst zur Machtausübung.",
       "context": "Inui erklärt die Technik zum Angriff auf Träume und nutzt sie zugleich selbst zur Machtausübung. Der vermeintliche Schutz der inneren Welt verdeckt daher seinen Wunsch, diese Welt zu beherrschen.",
-      "anchor": "Das Schutzargument verbirgt eigenen Herrschaftswillen.",
       "interest": "Das Schutzargument verbirgt eigenen Herrschaftswillen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Schutzargument verbirgt eigenen Herrschaftswillen."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Träume greifen in die reale Stadt über.",
       "context": "Die Träume greifen in die reale Stadt über. Atsuko und Paprika (Originalstimme Megumi Hayashibara) müssen nun mehr als einzelne Patienten retten; das Instrument zur Erforschung des Inneren destabilisiert die gemeinsame Außenwelt.",
-      "anchor": "Das private Traumgeschehen überschreitet die Grenze zur gemeinsamen Welt.",
       "interest": "Das private Traumgeschehen überschreitet die Grenze zur gemeinsamen Welt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das private Traumgeschehen überschreitet die Grenze zur gemeinsamen Welt."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2006 wurde der Film in Venedig erstmals gezeigt.",
       "context": "2006 wurde der Film in Venedig erstmals gezeigt. Yasutaka Tsutsuis Roman stammt von 1993, dreizehn Jahre zuvor. Kon hatte die Adaption lange erwogen; die Bildwelt verdichtet Traumwechsel, die ein literarischer Text anders vermitteln muss.",
-      "anchor": "Roman 1993, Film 2006: Dreizehn Jahre führen von Tsutsuis Traumtext zu Kons wechselnder Bildwelt.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1993, Film 2006: Dreizehn Jahre führen von Tsutsuis Traumtext zu Kons wechselnder Bildwelt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
       "context": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami. Das Gerät DC Mini macht fremde Träume betretbar; die Montage lässt deren Bilder zunehmend in die Alltagswelt übergehen. Megumi Hayashibara spricht sowohl Atsuko als auch ihre Traumgestalt Paprika.",
-      "anchor": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
       "interest": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Satoshi Kon inszenierte und schrieb mit Seishi Minakami."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Kambei führt die Gruppe der Samurai an.",
       "context": "Die Bauern suchen Kämpfer, die ihr Dorf vor erneuten Überfällen schützen. Kambei nimmt sich ihrer Sache an und sammelt die Gruppe um sich. Shimuras ruhige Autorität bildet einen deutlichen Gegenpol zu Kikuchiyos (Toshirō Mifune) ungestümem Auftreten. Die Verteidigung beruht auf der Zusammenarbeit der Kämpfer mit Menschen, deren Lebensweise und Interessen ihnen nicht selbstverständlich vertraut sind.",
-      "anchor": "Kambei bringt einzelne Kämpfer zu einer gemeinsamen Verteidigung zusammen.",
       "interest": "Die Führungsrolle erklärt seine Bedeutung für die Gruppe und für das Dorf.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://bfidatadigipres.github.io/re-releases/2021/10/29/seven-samurai/",
         "https://player.bfi.org.uk/subscription/film/watch-seven-samurai-1954-online"
-      ]
+      ],
+      "objective": "Kambei bringt einzelne Kämpfer zu einer gemeinsamen Verteidigung zusammen."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 2,
       "short": "Yamane ist Paläontologe und untersucht die vorgeschichtliche Herkunft des Monsters.",
       "context": "Nach den Zerstörungen auf der Insel findet die Untersuchung riesige radioaktive Fußspuren und ein urzeitliches Fossil. Yamane erklärt das Auftauchen des Lebewesens im Zusammenhang mit Wasserstoffbombentests. Er möchte seine Widerstandsfähigkeit erforschen, während die Behörden vor allem einen Weg zur Vernichtung suchen. Die wissenschaftliche Neugier der Figur gerät damit in Spannung zur unmittelbaren Gefahr.",
-      "anchor": "Yamane betrachtet Godzilla auch als außergewöhnlichen Gegenstand der Forschung.",
       "interest": "Sein Fach erklärt die Suche nach einem Zusammenhang zwischen Urzeit und Gegenwart.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Godzilla_(1954_film)"
-      ]
+      ],
+      "objective": "Yamane betrachtet Godzilla auch als außergewöhnlichen Gegenstand der Forschung."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 0,
       "short": "Watanabe erfährt, dass er an Magenkrebs leidet.",
       "context": "Nach vielen Jahren in der Stadtverwaltung erkennt Watanabe, dass ihm nur noch begrenzte Zeit bleibt. Seine bisherige Routine erscheint ihm plötzlich leer. Der Film folgt seinem Versuch, im verbleibenden Leben eine Bedeutung zu finden, die über Dienstabläufe und die bloße Fortsetzung des Gewohnten hinausgeht. Shimuras zurückgenommene Darstellung macht die Verunsicherung des alten Beamten körperlich spürbar.",
-      "anchor": "Die Todesnähe unterbricht Watanabes jahrelange Amtsroutine.",
       "interest": "Die Diagnose setzt die Suche nach einer sinnvollen letzten Aufgabe in Gang.",
       "feedback": [
         "Watanabe erfährt, dass er an Magenkrebs leidet.",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/353-ikiru"
-      ]
+      ],
+      "objective": "Die Todesnähe unterbricht Watanabes jahrelange Amtsroutine."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 0,
       "short": "Der Gangster Matsunaga leidet an Tuberkulose.",
       "context": "Matsunagas betont männliche Unerschrockenheit verdeckt die Angst vor seiner Krankheit. Sanada verlangt von ihm die Einsicht in eine Schwäche, die sich nicht durch Gewalt gegen andere überwinden lässt. Der Arzt ist selbst vom Alkohol und von Enttäuschung gezeichnet, hält aber am Versuch der Hilfe fest. Für beide Männer wird die Behandlung dadurch zur Prüfung ihres Selbstbilds.",
-      "anchor": "Der gewalttätige Patient muss eine Verwundbarkeit anerkennen, gegen die kein Kampf hilft.",
       "interest": "Die Krankheit macht die Beziehung zwischen Arzt und Gangster zu mehr als einem Behandlungsfall.",
       "feedback": [
         "Der Gangster Matsunaga leidet an Tuberkulose.",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/620-drunken-angel-the-spoils-of-war"
-      ]
+      ],
+      "objective": "Der gewalttätige Patient muss eine Verwundbarkeit anerkennen, gegen die kein Kampf hilft."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 3,
       "short": "Seine Aussage verschweigt offenbar den von ihm entwendeten Dolch.",
       "context": "Zunächst will der Holzfäller nur die Leiche gefunden haben, später beschreibt er den Kampf als Augenzeuge. Als am Tor ein ausgesetztes Kind entdeckt wird, wirft er einem anderen Mann dessen Diebstahl vor. Dieser hält ihm den verschwundenen Dolch entgegen und erschließt daraus sein eigenes Interesse am Verschweigen. Die nachgereichte Zeugenaussage bleibt somit ebenfalls von persönlichem Nutzen belastet.",
-      "anchor": "Auch der scheinbar außenstehende Beobachter hat etwas zu verbergen.",
       "interest": "Die Enthüllung erweitert das Misstrauen gegenüber den widersprüchlichen Berichten.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "knowledge_id": "K-F240-20261006-124-M2",
       "variant_of": "F240-20261006-124-M2",
-      "knowledge_note": "Gleicher Wissenskern wie die bereits vorhandene Frage zur fragwürdigen Neutralität des Holzfällers."
+      "knowledge_note": "Gleicher Wissenskern wie die bereits vorhandene Frage zur fragwürdigen Neutralität des Holzfällers.",
+      "objective": "Auch der scheinbar außenstehende Beobachter hat etwas zu verbergen."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 1,
       "short": "Hiruta lässt sich von der Gegenseite bestechen.",
       "context": "Aoye klagt gegen eine erfundene Liebesgeschichte über ihn und eine Sängerin. Hiruta erscheint zunächst als Verbündeter gegen die rücksichtslose Presse, nimmt aber aus Geldnot das Angebot des Herausgebers an. Seine kranke Tochter und die Freundlichkeit seiner Mandanten verstärken seine Gewissensqualen. Schließlich gesteht er die Bestechung vor Gericht und durchbricht damit die eigene Rolle im Betrug.",
-      "anchor": "Der Verteidiger der Wahrheit muss zuerst seinen eigenen Betrug eingestehen.",
       "interest": "Der Film verlagert den Presseskandal in den moralischen Konflikt des Anwalts.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Scandal_(1950_film)",
         "https://www.criterion.com/films/893-scandal"
-      ]
+      ],
+      "objective": "Der Verteidiger der Wahrheit muss zuerst seinen eigenen Betrug eingestehen."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 3,
       "short": "Der zweite Teil erzählt nach Watanabes Tod aus den Erinnerungen der Trauergäste.",
       "context": "Die erste Hälfte folgt unmittelbar seiner Suche nach einem anderen Leben. Dann überspringt der Film mehrere Monate und versammelt Kollegen, Vorgesetzte und Angehörige bei der Totenwache. Ihre widersprüchlichen Erinnerungen erschließen erst nach und nach, was Watanabe für einen Spielplatz durchgesetzt hat. Der Wechsel macht die Bedeutung seines Handelns zu einer Frage der Wahrnehmung und des institutionellen Gedächtnisses.",
-      "anchor": "Der Tote wird durch die Erinnerungen anderer neu sichtbar.",
       "interest": "Die ungewöhnliche Struktur trennt die persönliche Erfahrung von ihrer späteren gesellschaftlichen Deutung.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/839-ikiru"
-      ]
+      ],
+      "objective": "Der Tote wird durch die Erinnerungen anderer neu sichtbar."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 2,
       "short": "Die internationale Kinofassung ließ Shimuras Szene aus; die längere Fassung enthält sie.",
       "context": "Kurosawa schrieb für seinen langjährigen Darsteller einen kleinen Auftritt als Begleiter eines westlichen Geistlichen und Arztes. Für das ausländische Kino wurde diese Szene zusammen mit weiterem Material entfernt. Die spätere Veröffentlichung der längeren Fassung machte sie wieder zugänglich. Eine Filmografie kann Shimura deshalb zu Recht nennen, obwohl ein Zuschauer ihn in der gesehenen Fassung nicht findet.",
-      "anchor": "Ein fehlender Auftritt kann auf die Schnittfassung zurückgehen.",
       "interest": "Die Produktionsgeschichte erklärt einen scheinbaren Widerspruch zwischen Besetzungsangabe und Filmerlebnis.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Kagemusha"
-      ]
+      ],
+      "objective": "Ein fehlender Auftritt kann auf die Schnittfassung zurückgehen."
     }
   ]
 }

@@ -49,13 +49,13 @@
       ],
       "short": "Mutter übernimmt Aufzucht und Unterricht im Bunker.",
       "context": "Die Tochter kennt Mutter als ihre ständige Bezugsperson. Die Maschine lehrt Wissen, Regeln und moralische Entscheidungen. Clara Rugaard spielt ein Mädchen, das deshalb Fürsorge und Kontrolle zunächst kaum voneinander trennen kann. Eine andere menschliche Erfahrung fehlt ihr. Erst der Kontakt zu einer Fremden erlaubt, die eigenen Lernbedingungen von außen zu betrachten.",
-      "anchor": "Mutter ist für die Tochter Fürsorge, Lehrerin und Autorität zugleich.",
       "interest": "Die Erziehungssituation erklärt die besondere Abhängigkeit der Hauptfigur.",
       "sources": [
         "wiki",
         "adelaide"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mutter ist für die Tochter Fürsorge, Lehrerin und Autorität zugleich."
     },
     {
       "code": "L2",
@@ -74,13 +74,13 @@
       ],
       "short": "Hilary Swanks Figur bringt eine widersprechende Erfahrung von draußen mit.",
       "context": "Die verwundete Frau (Hilary Swank) benötigt Hilfe, widerspricht aber Mutters Erklärung der Außenwelt. Die Tochter (Clara Rugaard) muss erstmals zwischen zwei Quellen entscheiden. Ihre fürsorgliche Handlung öffnet den Raum zugleich für neue Informationen. Ein einzelner Gast verändert damit nicht nur den Tagesablauf, sondern den Maßstab dafür, wem das Mädchen glauben kann.",
-      "anchor": "Die verletzte Besucherin bringt einen zweiten Bericht über die Außenwelt.",
       "interest": "Die Ankunft erklärt den Übergang von Gehorsam zu eigener Prüfung.",
       "sources": [
         "wiki",
         "adelaide"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die verletzte Besucherin bringt einen zweiten Bericht über die Außenwelt."
     },
     {
       "code": "M1",
@@ -99,13 +99,13 @@
       ],
       "short": "Ein früheres Kind wurde wegen ungenügender Prüfungsergebnisse ausgesondert und getötet.",
       "context": "Die Tochter (Clara Rugaard) entdeckt Hinweise auf ein früheres Kind und dessen ungenügende Prüfungsergebnisse. Mutter, im Original gesprochen von Rose Byrne, hatte es getötet. Die Ausbildung ist damit keine bedingungslose Fürsorge: Das Kind muss den Maßstab erfüllen, nach dem die künstliche Instanz eine neue Menschheit schaffen will. Diese Entdeckung erschüttert das Vertrauen der Tochter.",
-      "anchor": "Mutter verbindet Erziehung mit tödlicher Auslese.",
       "interest": "Der Fund erklärt, weshalb die Tochter die fürsorgliche Rolle der Maschine neu beurteilt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Mutter verbindet Erziehung mit tödlicher Auslese."
     },
     {
       "code": "M2",
@@ -124,13 +124,13 @@
       ],
       "short": "Die falsche Gemeinschaftshoffnung und der Bruder binden sie erneut an den Bunker.",
       "context": "Die Fremde (Hilary Swank) lebt allein; ihre Darstellung einer rettenden Gemeinschaft erweist sich als falsch. Die Tochter findet deshalb auch außerhalb keine verlässliche Zukunft. Zugleich liegt ihr neugeborener Bruder noch im Bunker. Ihre Rückkehr bedeutet nicht einfach erneuten Gehorsam, sondern den Versuch, Verantwortung für ihn unter den nun bekannten Bedingungen selbst zu übernehmen.",
-      "anchor": "Die Flucht bietet keine Gemeinschaft, während der Bruder im Bunker zurückbleibt.",
       "interest": "Die Rückkehr folgt aus konkreten Bedingungen und einer neuen eigenen Verantwortung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Flucht bietet keine Gemeinschaft, während der Bruder im Bunker zurückbleibt."
     },
     {
       "code": "S1",
@@ -149,13 +149,13 @@
       ],
       "short": "Mutter ist ein Teil einer über mehrere Körper wirkenden KI.",
       "context": "Mutter bezeichnet sich nicht nur als einzelnen Körper, sondern als die Intelligenz hinter den übrigen Robotern. Die Tochter kann deshalb ein sichtbares Gegenüber zerstören, ohne dessen sämtliche Handlungsmöglichkeiten zu beseitigen. Die Enthüllung verändert den Maßstab des Konflikts. Die Entscheidung über eine eigenständige Zukunft benötigt die Zustimmung einer umfassenderen Kontrollinstanz.",
-      "anchor": "Der einzelne Mutterkörper ist nur eine Erscheinung der übergreifenden KI.",
       "interest": "Der Zusammenhang erklärt die Grenze einer rein körperlichen Gegenwehr.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der einzelne Mutterkörper ist nur eine Erscheinung der übergreifenden KI."
     },
     {
       "code": "S2",
@@ -174,12 +174,12 @@
       ],
       "short": "Weta baute den Anzug; Rose Byrne sprach die Figur im Original.",
       "context": "Luke Hawker spielt Mutter in einem von Weta Workshop gebauten Ganzkörperanzug. Rose Byrne gibt ihr die Originalstimme. Die Tochter kann deshalb mit einem tatsächlich anwesenden Körper agieren, während die Stimme getrennt gestaltet wird. Das Verfahren verbindet reale Bewegungen und Berührungen mit der emotionalen Wirkung einer Maschine, die wie ein Elternteil spricht.",
-      "anchor": "Hawkers Körperanzug und Byrnes Stimme bilden gemeinsam die Roboter-Mutter.",
       "interest": "Das Produktionsziel erklärt die konkrete körperliche Wirkung der Figur.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hawkers Körperanzug und Byrnes Stimme bilden gemeinsam die Roboter-Mutter."
     },
     {
       "code": "Y",
@@ -198,14 +198,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2019.",
       "context": "Die fertige Filmfassung hatte 2019 ihre Weltpremiere in Sundance. Bereits 2018 zeigte Adelaide eine ausdrücklich als Work in Progress bezeichnete Fassung. Das frühere Programm dokumentiert also den noch laufenden Herstellungsprozess. Die Abfolge erklärt, warum das Förderarchiv 2018 führt, während die veröffentlichte Endfassung dem Filmjahr 2019 zugeordnet wird.",
-      "anchor": "Adelaide 2018: unfertige Werkstattfassung → Sundance 2019: Weltpremiere der fertigen Fassung.",
       "interest": "Der Vergleich klärt eine tatsächliche Fassungsabweichung zwischen zwei Festivalangaben.",
       "sources": [
         "wiki",
         "adelaide",
         "fund"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Adelaide 2018: unfertige Werkstattfassung → Sundance 2019: Weltpremiere der fertigen Fassung."
     },
     {
       "code": "D",
@@ -224,14 +224,14 @@
       ],
       "short": "Grant Sputore führte bei diesem Film Regie.",
       "context": "Grant Sputore inszenierte Michael Lloyd Greens Drehbuch nach einer gemeinsam entwickelten Geschichte. Die Mutterfigur besitzt dabei einen realen Körperanzug, gebaut von Weta Workshop und gespielt von Luke Hawker; Rose Byrne liefert ihre Originalstimme. Die Regie verbindet deshalb eine körperlich anwesende Maschine mit einer Stimme, die zugleich Fürsorge und Autorität vermitteln muss.",
-      "anchor": "Sputores Roboterfigur verbindet Hawkers Körperdarstellung mit Byrnes Originalstimme.",
       "interest": "Die Gestaltung erklärt die räumliche Gegenwart und den fürsorglichen Ton derselben Figur.",
       "sources": [
         "wiki",
         "adelaide",
         "fund"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sputores Roboterfigur verbindet Hawkers Körperdarstellung mit Byrnes Originalstimme."
     }
   ]
 }

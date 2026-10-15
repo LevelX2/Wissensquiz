@@ -33,11 +33,11 @@
       ],
       "short": "Todd will sich an Richter Turpin rächen.",
       "context": "Sweeney Todd (Johnny Depp) hieß früher Benjamin Barker. Richter Turpin (Alan Rickman) ließ ihn ungerecht verbannen und zerstörte damit sein Familienleben. Nach der Rückkehr richtet Todd seinen Plan gegen den mächtigen Richter. Die Rache ist deshalb keine zufällige Folge seiner Begegnungen in London, sondern der Antrieb, mit dem er seinen alten Arbeitsort und sein früheres Leben wieder aufsucht.",
-      "anchor": "Die Rückkehr nach London steht im Zeichen der Rache.",
       "interest": "Der zentrale Antrieb erschließt den düsteren Hauptkonflikt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Rückkehr nach London steht im Zeichen der Rache."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Die Opfer werden zu Fleischpasteten verarbeitet.",
       "context": "Mrs. Nellie Lovett (Helena Bonham Carter) betreibt einen schlecht laufenden Pastetenladen unter Sweeney Todds (Johnny Depp) Arbeitsraum. Ihr Vorschlag verbindet seine Mordserie mit ihrem Geschäft: Die Leichen werden als Fleischfüllung verwendet. Der wirtschaftliche Erfolg entsteht damit aus dem Verbrechen. Diese Verbindung von Essen, Gewinn und Gewalt bildet einen besonders makabren Gegensatz zur zunächst alltäglichen Umgebung des Ladens.",
-      "anchor": "Der Laden profitiert von Todds Mordserie.",
       "interest": "Die Frage betrifft das prägende makabre Geschäftsmodell.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Laden profitiert von Todds Mordserie."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Johanna ist Turpins Mündel.",
       "context": "Johanna (Jayne Wisener) ist die Tochter von Sweeney Todd (Johnny Depp), wächst aber unter der Kontrolle von Richter Turpin (Alan Rickman) auf. Der Richter hat sie als Mündel aufgenommen und will sie selbst heiraten. Anthony Hope (Jamie Campbell Bower) verliebt sich in sie und versucht, sie zu befreien. Die Vormundschaft gibt Turpin Macht über die Zukunft eines Kindes seiner Opfer.",
-      "anchor": "Turpins Vormundschaft verlängert das Unrecht an Todds Familie.",
       "interest": "Die Figurenbeziehung erklärt Johannas eingeschränkte Freiheit.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Turpins Vormundschaft verlängert das Unrecht an Todds Familie."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Pirelli hat Todds frühere Identität erkannt.",
       "context": "Adolfo Pirelli (Sacha Baron Cohen) präsentiert sich öffentlich als italienischer Meister seines Fachs. Bei Sweeney Todd (Johnny Depp) erkennt er jedoch den früheren Benjamin Barker, für den er einst gearbeitet hat. Dieses Wissen nutzt er für eine Erpressung. Die Gefahr liegt also in Todds Vergangenheit und seiner Tarnung; Pirellis Forderung führt zu einem Mord, der die spätere Zusammenarbeit mit Mrs. Lovett (Helena Bonham Carter) verändert.",
-      "anchor": "Der vermeintliche Konkurrent kennt den Mann hinter dem neuen Namen.",
       "interest": "Die Erpressung beruht auf Wiedererkennung, nicht auf einem neuen Geschäft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der vermeintliche Konkurrent kennt den Mann hinter dem neuen Namen."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Anthony tarnt sich als Perückenmacher.",
       "context": "Richter Turpin (Alan Rickman) lässt Johanna (Jayne Wisener) in eine Anstalt bringen, nachdem er von ihrer geplanten Flucht erfahren hat. Anthony Hope (Jamie Campbell Bower) verschafft sich dort als Perückenmacher Zugang. Die Tarnung passt zu einer Einrichtung, in der das Haar der Insassen wirtschaftlich genutzt wird. Sein Rettungsversuch braucht deshalb einen glaubwürdigen beruflichen Vorwand, bevor Johanna den Ort verlassen kann.",
-      "anchor": "Der Perückenmacher hat einen glaubwürdigen Grund für den Besuch.",
       "interest": "Die Tarnung verbindet den Fluchtplan mit einem konkreten Zugang zur Anstalt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Perückenmacher hat einen glaubwürdigen Grund für den Besuch."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Die Bettlerin war Lucy, Todds eigene Frau.",
       "context": "Sweeney Todd (Johnny Depp) tötet die Bettlerin Lucy Barker (Laura Michelle Kelly), bevor er ihre Identität erkennt. Mrs. Nellie Lovett (Helena Bonham Carter) hatte ihn glauben lassen, seine Frau sei gestorben. Erst im Schluss erkennt er, dass Lucy überlebt hatte. Diese Enthüllung verwandelt seine Rache in eine Katastrophe für die eigene Familie und macht Lovetts entscheidende Täuschung sichtbar.",
-      "anchor": "Die totgeglaubte Frau wird durch Todds eigene Hand getötet.",
       "interest": "Die späte Identitätsenthüllung erklärt die Tragik des Endes.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die totgeglaubte Frau wird durch Todds eigene Hand getötet."
     },
     {
       "code": "Y",
@@ -172,11 +172,11 @@
       ],
       "short": "1979 die Broadway-Vorlage, 2007 der Film: 28 Jahre.",
       "context": "Sweeney Todd erschien als Film 2007. Die von Stephen Sondheim komponierte Broadway-Vorlage hatte 1979 Premiere, also 28 Jahre zuvor; der AFI-Katalog dokumentiert beide Werkdaten. Tim Burtons Film überträgt den Bühnenstoff in eine düstere Londoner Bildwelt. Die zeitliche Verbindung betrifft zwei konkrete Fassungen des Musicals und trennt den ersten Filmstart von der erheblich älteren Bühnengeschichte.",
-      "anchor": "1979 Broadway, 2007 Film: 28 Jahre Abstand.",
       "interest": "Die Bühnenvorlage bietet einen inhaltlich passenden Jahresanker.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "1979 Broadway, 2007 Film: 28 Jahre Abstand."
     },
     {
       "code": "D",
@@ -195,13 +195,13 @@
       ],
       "short": "Tim Burton führte bei der Verfilmung Regie.",
       "context": "Tim Burton inszeniert Sweeney Todd mit Johnny Depp in der Titelrolle und Helena Bonham Carter als Mrs. Nellie Lovett. Stephen Sondheims Musik stammt aus dem Bühnenmusical, während John Logan das Filmdrehbuch schrieb. Der AFI-Katalog unterscheidet diese Beiträge ausdrücklich. Burtons Hauptregie ist damit ein anderer Sachverhalt als die Urheberschaft der Lieder oder die Entwicklung des ursprünglichen Theaterstücks.",
-      "anchor": "Burton inszeniert, Sondheim komponiert, Logan schreibt das Filmdrehbuch.",
       "interest": "Die Regie wird von den Urhebern der Musicalvorlage abgegrenzt.",
       "sources": [
         "archiv"
       ],
       "knowledge_id": "K-SCHAUSPIELER-202610-P01-004-M-2",
-      "variant_of": "SCHAUSPIELER-202610-P01-004-M-2"
+      "variant_of": "SCHAUSPIELER-202610-P01-004-M-2",
+      "objective": "Burton inszeniert, Sondheim komponiert, Logan schreibt das Filmdrehbuch."
     }
   ]
 }

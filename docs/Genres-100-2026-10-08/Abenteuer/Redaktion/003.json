@@ -32,11 +32,11 @@
       ],
       "short": "Das vermeintliche Monster ist Nemos Unterseeboot.",
       "context": "Professor Aronnax (Paul Lukas) geht von einer Naturerscheinung aus. Die Begegnung mit Kapitän Nemo (James Mason) verschiebt die Erklärung zur Technik. Das Schiff ist zugleich Forschungsraum und Waffe: Der technische Fortschritt löst nicht automatisch den moralischen Konflikt.",
-      "anchor": "Seeungeheuer entpuppt sich als Nautilus.",
       "interest": "Der zentrale Erkenntniswechsel eröffnet das Abenteuer.",
       "sources": [
         "disney"
-      ]
+      ],
+      "objective": "Seeungeheuer entpuppt sich als Nautilus."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Ned Land will die Gefangenschaft verlassen.",
       "context": "Ned Land (Kirk Douglas) sieht in Nemos technischen Möglichkeiten keinen Ersatz für persönliche Freiheit. Professor Aronnax (Paul Lukas) ist dagegen von den Entdeckungen beeindruckt. Die Gefährten reagieren damit unterschiedlich auf denselben Ort zwischen Wunder und Gefangenschaft.",
-      "anchor": "Ned will Freiheit, Aronnax will Erkenntnis.",
       "interest": "Der Gegensatz der Perspektiven erklärt Spannungen innerhalb der Reisegruppe.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ned will Freiheit, Aronnax will Erkenntnis."
     },
     {
       "code": "M1",
@@ -78,11 +78,11 @@
       ],
       "short": "Ned verschickt die entdeckten Koordinaten als Flaschenpost.",
       "context": "Ned Land (Kirk Douglas) findet die Lage von Vulcania heraus und nutzt Flaschenpost. Das verschafft einer Außenwelt Zugang, von der Kapitän Nemo (James Mason) unabhängig sein will. Die Hoffnung auf Rettung bedroht damit zugleich Nemos Geheimnis.",
-      "anchor": "Vulcanias Koordinaten verlassen das Schiff in Flaschen.",
       "interest": "Die Rettungsmaßnahme hat eine konkrete Folge für die Sicherheit des Stützpunkts.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Vulcanias Koordinaten verlassen das Schiff in Flaschen."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Nemo begründet den Angriff mit der Verhinderung weiterer Kriegstoter.",
       "context": "Kapitän Nemo (James Mason) versteht seinen Angriff als Kampf gegen Krieg und Unterdrückung. Professor Aronnax (Paul Lukas) erlebt dabei aber auch die tödliche Seite der Nautilus. Der Film stellt Nemos Absicht und seine gewaltsamen Mittel nebeneinander, ohne die Technik als neutralen Schutzraum zu zeigen.",
-      "anchor": "Nemos Friedensabsicht führt zum Angriff.",
       "interest": "Die Frage erschließt den Widerspruch zwischen Motiv und Methode.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Nemos Friedensabsicht führt zum Angriff."
     },
     {
       "code": "S1",
@@ -124,11 +124,11 @@
       ],
       "short": "Ned Land harpuniert das Tier und rettet Nemo.",
       "context": "Ned Land (Kirk Douglas) handelt beim Angriff, obwohl er Kapitän Nemo (James Mason) nicht vertraut. Gegnerschaft und Hilfe schließen sich damit nicht aus. Die Rettung verändert Nemos Blick auf seine Gefangenen und unterbricht für einen Moment seine Abkehr von der Menschheit.",
-      "anchor": "Fluchtwilliger Ned rettet seinen Gefangenhalter.",
       "interest": "Die Szene macht einen Wendepunkt der Figurenbeziehung greifbar.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Fluchtwilliger Ned rettet seinen Gefangenhalter."
     },
     {
       "code": "S2",
@@ -147,12 +147,12 @@
       ],
       "short": "Sturm und Dunkelheit kaschierten die Mechanik des Effektmodells.",
       "context": "Der erste Versuch in ruhiger, heller Umgebung ließ zu viel vom technischen Aufbau erkennen. Die neue Fassung setzt auf Sturm, Dunkelheit und bewegtes Wasser. Das macht die Konstruktion weniger sichtbar und steigert zugleich die Gefahr, die die Szene vermittelt.",
-      "anchor": "Sturm versteckt Technik und verstärkt Gefahr.",
       "interest": "Ein offizieller Produktionsbeleg erklärt eine konkrete Inszenierungsentscheidung.",
       "sources": [
         "disney",
         "produktion"
-      ]
+      ],
+      "objective": "Sturm versteckt Technik und verstärkt Gefahr."
     },
     {
       "code": "Y",
@@ -171,12 +171,12 @@
       ],
       "short": "Disneys Verfilmung erschien 1954.",
       "context": "1954 veröffentlicht Disney das Unterwasserabenteuer. Im folgenden Jahr eröffnet Disneyland in Kalifornien. Die zwei aufeinanderfolgenden Jahre markieren unterschiedliche Formen derselben Unterhaltungskultur: ein aufwendiger Kinofilm und der neue Themenpark. Die zeitliche Nähe ist eine Merkhilfe, keine behauptete Ursache des Films.",
-      "anchor": "1954 Nautilus – 1955 Disneyland.",
       "interest": "Ein belegtes Ereignis der Studiogeschichte setzt einen zeitlichen Anker.",
       "sources": [
         "disney",
         "geschichte"
-      ]
+      ],
+      "objective": "1954 Nautilus – 1955 Disneyland."
     },
     {
       "code": "D",
@@ -195,11 +195,11 @@
       ],
       "short": "Die Regie stammt von Richard Fleischer.",
       "context": "Richard Fleischer inszeniert die Begegnung zwischen Forschung, Freiheitswillen und Nemos Rache. Walt Disney verantwortet die Produktion, übernimmt damit aber nicht den Regiecredit. Die Namen markieren verschiedene Aufgaben bei einem Film, dessen Unterwasserwelt und Effektarbeit besondere Planung erforderten.",
-      "anchor": "Disney produziert – Fleischer inszeniert.",
       "interest": "Der Credit trennt Produktion und Regie an einem bekannten Studioprojekt.",
       "sources": [
         "disney"
-      ]
+      ],
+      "objective": "Disney produziert – Fleischer inszeniert."
     }
   ]
 }

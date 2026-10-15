@@ -33,12 +33,12 @@
       ],
       "short": "Yuki wird für die Vergeltung ihrer Mutter aufgezogen.",
       "context": "Sayo (Miyoko Akaza) bringt Yuki im Gefängnis zur Welt. Vor dem Tod gibt sie den Wunsch nach Vergeltung für die ermordete Familie weiter. Yuki (Meiko Kaji) bekommt somit nicht erst durch ein eigenes späteres Erlebnis eine Mission; ihr Leben wird schon bei der Geburt auf die unerfüllte Forderung eines anderen Menschen ausgerichtet.",
-      "anchor": "Yukis Leben beginnt als Auftrag aus der Gewaltgeschichte ihrer Mutter.",
       "interest": "Yukis Leben beginnt als Auftrag aus der Gewaltgeschichte ihrer Mutter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Yukis Leben beginnt als Auftrag aus der Gewaltgeschichte ihrer Mutter."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Der Priester Dōkai macht Yuki durch strenges Kampftraining zur Rächerin.",
       "context": "Dōkai (Kō Nishimura) trainiert die junge Yuki, die später von Meiko Kaji gespielt wird. Die Ausbildung formt ihren Körper für die noch ausstehende Vergeltung. So wird der Auftrag der Mutter nicht nur in Worten überliefert; er wird über Jahre zu einer körperlichen Disziplin, die Yukis eigene Freiheit begrenzt.",
-      "anchor": "Der geerbte Auftrag wird durch jahrelanges Training in den Körper geschrieben.",
       "interest": "Der geerbte Auftrag wird durch jahrelanges Training in den Körper geschrieben.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der geerbte Auftrag wird durch jahrelanges Training in den Körper geschrieben."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Dōkai nutzt die öffentliche Geschichte, um Okono zu einer Reaktion zu bringen.",
       "context": "Ryūrei (Toshio Kurosawa) erfährt von Dōkai (Kō Nishimura) die Geschichte hinter Yuki (Meiko Kaji). Die Veröffentlichung ist eine gezielte indirekte Handlung: Wer sich bedroht fühlt, könnte durch einen Gegenangriff seine Spur verraten. Ein Text wird so Teil der Rachestrategie, statt nur nachträglich von den Kämpfen zu berichten.",
-      "anchor": "Die veröffentlichte Geschichte soll die verborgene Täterin aktiv machen.",
       "interest": "Die veröffentlichte Geschichte soll die verborgene Täterin aktiv machen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die veröffentlichte Geschichte soll die verborgene Täterin aktiv machen."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Gishirō Tsukamoto ist Ryūreis Vater.",
       "context": "Ryūrei (Toshio Kurosawa) hilft Yuki (Meiko Kaji) und enthüllt zugleich, dass Gishirō Tsukamoto (Eiji Okada), einer der Gesuchten, sein Vater ist. Seine eigene Nähe zum Ziel macht die Unterstützung gefährlich und moralisch kompliziert. Die Rachemission läuft dadurch mitten durch eine neue persönliche Bindung.",
-      "anchor": "Der Helfer gehört familiär zum gesuchten Gegner.",
       "interest": "Der Helfer gehört familiär zum gesuchten Gegner.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Helfer gehört familiär zum gesuchten Gegner."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Kobue setzt die Rachekette gegen die Rächerin fort.",
       "context": "Yuki (Meiko Kaji) tötet Banzō Takemura (Noboru Nakaya), einen Täter aus der Geschichte ihrer Mutter. Seine Tochter Kobue (Yoshiko Nakada) sucht daraufhin Vergeltung an Yuki. Der Schluss führt die gleiche familiäre Logik gegen die Hauptfigur zurück: Aus der Vollendung einer Rache kann bereits die nächste Forderung entstehen.",
-      "anchor": "Yukis Vergeltung macht sie selbst zur Zielscheibe einer Tochter.",
       "interest": "Yukis Vergeltung macht sie selbst zur Zielscheibe einer Tochter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Yukis Vergeltung macht sie selbst zur Zielscheibe einer Tochter."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Kaji singt das Lied, das auch als The Flower of Carnage bekannt ist.",
       "context": "Meiko Kajis Stimme trägt das zentrale Lied des Films. Die Musik erweitert Yukis (Meiko Kaji) wortarme Präsenz um einen klagenden Ausdruck, der dem stilisierten Blutvergießen einen anderen Ton gibt. Darstellerin und Sängerin sind dieselbe Person; die Hauptregie liegt dagegen bei Toshiya Fujita.",
-      "anchor": "Kajis Gesicht und Kajis Stimme tragen denselben Rachefilm.",
       "interest": "Kajis Gesicht und Kajis Stimme tragen denselben Rachefilm.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kajis Gesicht und Kajis Stimme tragen denselben Rachefilm."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1973.",
       "context": "Lady Snowblood erschien 1973 in Japan. Die Handlung beginnt mit Yukis Geburt 1874 und verfolgt später ihre Mission als junge Frau. Eine Fortsetzung wurde 1974 veröffentlicht. Diese Abfolge verbindet den ersten Film mit seiner späteren Weiterführung, ohne die historischen Jahreszahlen der Erzählung zum Filmjahr zu machen. Die Fortsetzung folgte ein Jahr später.",
-      "anchor": "Lady Snowblood 1973, Fortsetzung 1974: ein Jahr bis zur Weiterführung von Yukis Geschichte.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Lady Snowblood 1973, Fortsetzung 1974: ein Jahr bis zur Weiterführung von Yukis Geschichte.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Lady Snowblood 1973, Fortsetzung 1974: ein Jahr bis zur Weiterführung von Yukis Geschichte."
     },
     {
       "code": "D",
@@ -203,14 +203,14 @@
       ],
       "short": "Der Regiecredit lautet Toshiya Fujita.",
       "context": "Toshiya Fujita inszenierte die Manga-Adaption nach dem Drehbuch von Norio Osada. Meiko Kaji spielt Yuki und singt das Titellied Shura no hana. Die Verbindung aus Darstellung und Stimme trägt das Rachemotiv über die Kampfszenen hinaus; Vorlage und Film wurden als eigenständige Bearbeitung gestaltet.",
-      "anchor": "Toshiya Fujita: Meiko Kaji spielt Yuki und singt das Titellied Shura no hana.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Toshiya Fujita: Meiko Kaji spielt Yuki und singt das Titellied Shura no hana."
     }
   ]
 }

@@ -36,12 +36,12 @@
       ],
       "short": "David Huxley arbeitet als Paläontologe.",
       "context": "David Huxley arbeitet als Paläontologe. Er setzt im Museum ein Dinosaurierskelett zusammen; ausgerechnet der noch fehlende Knochen gerät später in das Chaos um Susan Vance (Katharine Hepburn). Seine wissenschaftliche Ordnung steht ihrer Spontaneität gegenüber.",
-      "anchor": "Das geordnete Fossilprojekt trifft auf Susans Unordnung.",
       "interest": "Das geordnete Fossilprojekt trifft auf Susans Unordnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das geordnete Fossilprojekt trifft auf Susans Unordnung."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "David steht kurz vor seiner Hochzeit mit Alice Swallow (Virginia Walker).",
       "context": "David steht kurz vor seiner Hochzeit mit Alice Swallow (Virginia Walker). Susan Vance (Katharine Hepburn) hält ihn mit immer neuen Verwicklungen bei sich. Deshalb gefährdet das Abenteuer zugleich seinen fest geplanten privaten Lebensweg.",
-      "anchor": "Susan unterbricht Davids geplante Hochzeit.",
       "interest": "Susan unterbricht Davids geplante Hochzeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Susan unterbricht Davids geplante Hochzeit."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Das Lied „I Can’t Give You Anything but Love, Baby“ hilft, den Leoparden zu beruhigen.",
       "context": "Das Lied „I Can’t Give You Anything but Love, Baby“ hilft, den Leoparden zu beruhigen. Die beiden müssen damit eine ganz andere Fähigkeit einsetzen als wissenschaftliche Sachkenntnis. Gesang verbindet ihre gemeinsame Improvisation mit dem Tierabenteuer.",
-      "anchor": "Baby reagiert auf das Liebeslied.",
       "interest": "Baby reagiert auf das Liebeslied.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Baby reagiert auf das Liebeslied."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Der Terrier George vergräbt den fehlenden Dinosaurierknochen.",
       "context": "Der Terrier George vergräbt den fehlenden Dinosaurierknochen. David Huxley (Cary Grant) braucht dieses Stück für sein Museumsprojekt; Susan Vance (Katharine Hepburn) sucht deshalb mit ihm nach dem Hund. Fossilienarbeit und Tierjagd greifen unmittelbar ineinander.",
-      "anchor": "George vergräbt die fehlende Skelettkomponente.",
       "interest": "George vergräbt die fehlende Skelettkomponente.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "George vergräbt die fehlende Skelettkomponente."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Susan Vance (Katharine Hepburn) und David Huxley (Cary Grant) verwechseln Baby mit einem gefährlichen Zirkusleoparden.",
       "context": "Susan Vance (Katharine Hepburn) und David Huxley (Cary Grant) verwechseln Baby mit einem gefährlichen Zirkusleoparden. Die Ähnlichkeit der Tiere macht ihre vertraute Vorgehensweise riskant. Im Gefängnis muss David die Situation schließlich mit einem Stuhl beherrschen.",
-      "anchor": "Zwei ähnlich aussehende Leoparden sind verschieden gefährlich.",
       "interest": "Zwei ähnlich aussehende Leoparden sind verschieden gefährlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Zwei ähnlich aussehende Leoparden sind verschieden gefährlich."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Susan Vance (Katharine Hepburn) bringt das Skelett zum Einsturz, während David Huxley (Cary Grant) sie auffängt.",
       "context": "Susan Vance (Katharine Hepburn) bringt das Skelett zum Einsturz, während David Huxley (Cary Grant) sie auffängt. Die Wiederherstellung wissenschaftlicher Ordnung endet erneut im Chaos. Dennoch entscheidet sich David für Nähe zu Susan statt für seine bisherige Lebensplanung.",
-      "anchor": "Die Liebe beginnt auf den Trümmern von Davids Ordnung.",
       "interest": "Die Liebe beginnt auf den Trümmern von Davids Ordnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Liebe beginnt auf den Trümmern von Davids Ordnung."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1938 erschien der Film.",
       "context": "1938 erschien der Film. Hagar Wildes zugrunde liegende Kurzgeschichte war erst 1937 veröffentlicht worden; die Verfilmung fügte ihr das Museum und den Dinosaurier hinzu. Aus der Tiergeschichte wurde so innerhalb eines Jahres eine Komödie über wissenschaftliche Ordnung und Liebeschaos.",
-      "anchor": "Kurzgeschichte 1937, Film 1938: Innerhalb eines Jahres wurde die Tiergeschichte zur Museumskomödie.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kurzgeschichte 1937, Film 1938: Innerhalb eines Jahres wurde die Tiergeschichte zur Museumskomödie."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Howard Hawks inszenierte die Komödie.",
       "context": "Howard Hawks inszenierte die Komödie. Für das Drehbuch arbeiteten Hagar Wilde und Dudley Nichols zusammen; die Filmfassung erweitert die Kurzgeschichte um David Huxleys Museumsarbeit. Das sachliche Spiel Cary Grants steht dabei Katharine Hepburns impulsiver Susan gegenüber.",
-      "anchor": "Howard Hawks inszenierte die Komödie.",
       "interest": "Howard Hawks inszenierte die Komödie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Howard Hawks inszenierte die Komödie."
     }
   ]
 }

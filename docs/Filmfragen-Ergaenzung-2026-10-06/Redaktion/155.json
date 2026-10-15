@@ -39,12 +39,12 @@
       ],
       "short": "Der Film begleitet kubanische Musiker und ihre Musik.",
       "context": "Der Film führt Musiker zusammen, die zum Teil lange außerhalb internationaler Aufmerksamkeit standen. Havannas Alltag und die späteren Konzerte bilden den Rahmen. Ihre Musik erscheint nicht als neu erfundener Stil, sondern als lebendige Tradition, die durch Aufnahmen und Reisen ein neues Publikum erreicht.",
-      "anchor": "Eine lange gepflegte kubanische Tradition erreicht neue Hörer.",
       "interest": "Eine lange gepflegte kubanische Tradition erreicht neue Hörer.",
       "sources": [
         "stiftung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Eine lange gepflegte kubanische Tradition erreicht neue Hörer."
     },
     {
       "code": "L2",
@@ -63,13 +63,13 @@
       ],
       "short": "Ry Cooder ist Wenders’ musikalischer Freund und Verbindung zur Gruppe.",
       "context": "Ry Cooder hatte bereits mit Wim Wenders bei Filmmusik zusammengearbeitet. Wenders begleitet ihn nun nach Havanna. Die bestehende Freundschaft ermöglicht einen Zugang, aus dem der Film Begegnungen mit den kubanischen Musikern und deren internationalem Aufbruch entwickelt.",
-      "anchor": "Cooders Musikbeziehung führt Wenders nach Havanna.",
       "interest": "Cooders Musikbeziehung führt Wenders nach Havanna.",
       "sources": [
         "stiftung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Cooders Musikbeziehung führt Wenders nach Havanna."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Cooder arbeitet in Havanna an einem Soloalbum von Ibrahim Ferrer.",
       "context": "Ibrahim Ferrer steht nach dem gemeinsamen Album vor einer eigenen Aufnahme. Wim Wenders beobachtet die Arbeit und folgt dann dem größeren Ensemble auf Reisen. Der Film bleibt dadurch nicht bei der Wiederholung eines erfolgreichen Albums, sondern zeigt weitere musikalische Arbeit nach dessen Entstehung.",
-      "anchor": "Ferrers Soloaufnahme öffnet den Weg zur gemeinsamen Konzertreise.",
       "interest": "Ferrers Soloaufnahme öffnet den Weg zur gemeinsamen Konzertreise.",
       "sources": [
         "stiftung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ferrers Soloaufnahme öffnet den Weg zur gemeinsamen Konzertreise."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Die Gruppe tritt in der Carnegie Hall auf.",
       "context": "Nach den Konzerten in Amsterdam reisen die Musiker nach New York. Der Auftritt in der Carnegie Hall wurde von Wim Wenders gefilmt. Die Ankunft und die Reaktionen auf die Stadt gehören zum Ereignis: Ein international berühmter Ort begegnet Menschen mit sehr unterschiedlichen Reiseerfahrungen.",
-      "anchor": "Die Reise von Havanna führt bis zur Carnegie Hall.",
       "interest": "Die Reise von Havanna führt bis zur Carnegie Hall.",
       "sources": [
         "album"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Reise von Havanna führt bis zur Carnegie Hall."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "González kehrte aus dem Ruhestand zurück, obwohl er kein eigenes Klavier mehr hatte.",
       "context": "Juan de Marcos González holte Rubén González für die Aufnahmen zurück. Der Pianist erschien morgens besonders früh am Studio. Der Gegensatz von äußerer Armut und unverminderter Spielfreude zeigt, dass die neue internationale Anerkennung auf lange bestehender musikalischer Fähigkeit beruht.",
-      "anchor": "Das fehlende eigene Klavier hatte González’ Musik nicht ausgelöscht.",
       "interest": "Das fehlende eigene Klavier hatte González’ Musik nicht ausgelöscht.",
       "sources": [
         "album"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das fehlende eigene Klavier hatte González’ Musik nicht ausgelöscht."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Die Produktion nutzte Digital Betacam und übertrug das Ergebnis auf 35 mm.",
       "context": "Der technische Credit nennt Digital Betacam. Das mobile digitale Verfahren passte zur Beobachtung in Havanna und auf Reisen. Die spätere Übertragung auf 35 mm ermöglichte die Kinovorführung, obwohl die Bilder nicht ursprünglich auf klassischem Kinofilm aufgenommen worden waren.",
-      "anchor": "Digitale Beobachtung wurde für das Kino auf 35 mm übertragen.",
       "interest": "Digitale Beobachtung wurde für das Kino auf 35 mm übertragen.",
       "sources": [
         "stiftung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Digitale Beobachtung wurde für das Kino auf 35 mm übertragen."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1999.",
       "context": "Buena Vista Social Club erschien 1999. Das gleichnamige Album wurde 1997 veröffentlicht, zwei Jahre zuvor. Wenders begleitete die Musiker 1998 bei neuen Aufnahmen und Konzerten. Der Film folgte also dem musikalischen Durchbruch und machte die beteiligten Menschen und ihre Reise hinter dem bereits erfolgreichen Album sichtbar.",
-      "anchor": "Album 1997, Konzerte 1998, Film 1999: zwei Jahre vom Album zum Porträt seiner Musiker.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Album 1997, Konzerte 1998, Film 1999: zwei Jahre vom Album zum Porträt seiner Musiker.",
       "sources": [
         "handlung",
         "album"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Album 1997, Konzerte 1998, Film 1999: zwei Jahre vom Album zum Porträt seiner Musiker."
     },
     {
       "code": "D",
@@ -210,7 +210,6 @@
       ],
       "short": "Der Regiecredit lautet Wim Wenders.",
       "context": "Wim Wenders begleitete seinen Freund Ry Cooder mit einem kleinen Team nach Havanna. Aus dem zunächst geplanten Dokumentarfilm über Aufnahmen wurde die Beobachtung eines überraschenden internationalen Aufbruchs. Digitale Kameratechnik erlaubte Nähe in Studios, Wohnungen und unterwegs.",
-      "anchor": "Wim Wenders: Aus dem zunächst geplanten Dokumentarfilm über Aufnahmen wurde die Beobachtung eines überraschenden internationalen Aufbruchs.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "stiftung",
@@ -218,7 +217,8 @@
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Wim Wenders: Aus dem zunächst geplanten Dokumentarfilm über Aufnahmen wurde die Beobachtung eines überraschenden internationalen Aufbruchs."
     }
   ]
 }

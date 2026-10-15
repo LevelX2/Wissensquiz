@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Stella ist Jeffs Krankenschwester.",
       "context": "Der Fotograf Jeff (James Stewart) muss mit einem gebrochenen Bein in seiner Wohnung bleiben. Stella versorgt ihn und kommentiert seine Beobachtungen der Nachbarn zunächst kritisch. Als der Mordverdacht konkreter wird, beteiligt sie sich selbst an der Suche und unterstützt Lisa (Grace Kelly) bei den Nachforschungen.",
-      "anchor": "Stella kommt zur Pflege und wird zur Verbündeten.",
       "interest": "Eine Nebenfigur wechselt von der skeptischen Beobachterin zur Helferin.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/51318-REAR-WINDOW"
-      ]
+      ],
+      "objective": "Stella kommt zur Pflege und wird zur Verbündeten."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Birdie arbeitet für den Theaterstar Margo Channing.",
       "context": "Birdie (Thelma Ritter), selbst eine frühere Varietékünstlerin, kennt Margo (Bette Davis) gut. Auf die scheinbar bescheidene Eve (Anne Baxter) reagiert sie früh misstrauisch. Während andere von Eves Bewunderung geschmeichelt sind, erkennt Birdie, wie zielstrebig die junge Frau sich im Alltag des Stars unentbehrlich macht.",
-      "anchor": "Birdie gehört zu Margos vertrautem Umfeld.",
       "interest": "Die Vertraute des Stars blickt anders auf die ehrgeizige Besucherin.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/MovieDetails/26204"
-      ]
+      ],
+      "objective": "Birdie gehört zu Margos vertrautem Umfeld."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 0,
       "short": "Moe zieht eine Grenze bei der Zusammenarbeit mit kommunistischen Spionen.",
       "context": "Moe verdient an Informationen aus der Unterwelt und hatte der Polizei Skips Aufenthaltsort bereits verraten. Als Joey (Richard Kiley) dasselbe Wissen für seinen Spionagering verlangt, lehnt sie ab. Auch seine Drohungen ändern ihre Entscheidung nicht; er erschießt sie.",
-      "anchor": "Moe verkauft Informationen, aber nicht an Joeys Spionagering.",
       "interest": "Eine Informantin zeigt eine Grenze, die sie mit dem Leben bezahlt.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/50975-PICKUP-ON-SOUTH-STREET"
-      ]
+      ],
+      "objective": "Moe verkauft Informationen, aber nicht an Joeys Spionagering."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Maggie hält ihre Schwiegermutter Ellen für die erwartete Köchin.",
       "context": "Ellen möchte eigentlich die Frau ihres Sohnes Val (John Lund) kennenlernen. Maggie (Gene Tierney) braucht dringend Hilfe für ein Essen und deutet den Besuch falsch. Ellen lässt die Verwechslung bestehen, um den jungen Haushalt nicht als Schwiegermutter zu belasten; daraus entstehen zunehmend neue Missverständnisse.",
-      "anchor": "Die Schwiegermutter wird als Köchin in den Haushalt aufgenommen.",
       "interest": "Eine Verwechslung legt Unsicherheit über Herkunft und gesellschaftlichen Status offen.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/50204"
-      ]
+      ],
+      "objective": "Die Schwiegermutter wird als Köchin in den Haushalt aufgenommen."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 2,
       "short": "Sie spart für ein ordentliches Begräbnis.",
       "context": "Moe fürchtet, namenlos in einem Armengrab zu enden. Nach ihrem Tod holt Skip (Richard Widmark) ihren Sarg von der städtischen Transportbarke und sorgt für die gewünschte Bestattung. Seine Fürsorge erfüllt den Wunsch der Frau, die ihn zuvor vor den Spionen gewarnt hatte.",
-      "anchor": "Moes bescheidener Lebenstraum ist ein würdiges Grab.",
       "interest": "Ein Begräbnis zeigt, wie sich der eigennützige Held verändert.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/6001-least-wanted-film-noir-s-character-actors-thelma-ritter"
-      ]
+      ],
+      "objective": "Moes bescheidener Lebenstraum ist ein würdiges Grab."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 3,
       "short": "Sie wendet sich an Präsidentengattin Edith Wilson.",
       "context": "Nach dem Mord an einem Gefängniswärter soll Robert Stroud (Burt Lancaster) hingerichtet werden. Seine Mutter erreicht Mrs. Wilson (Adrienne Marden), die sich beim Präsidenten für ihn einsetzt. Die Todesstrafe wird im Film in lebenslange Haft umgewandelt; der weitere Weg des Gefangenen bleibt dennoch von Isolation geprägt.",
-      "anchor": "Elizabeths Einsatz führt über die First Lady zur Begnadigung.",
       "interest": "Der Film verknüpft den mütterlichen Einsatz mit staatlicher Entscheidungsmacht.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/22974-BIRDMAN-OF-ALCATRAZ?cxt=filmography"
-      ]
+      ],
+      "objective": "Elizabeths Einsatz führt über die First Lady zur Begnadigung."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 3,
       "short": "Thelma Ritter und Gwen Verdon erhielten beide den Preis.",
       "context": "Die offizielle Tony-Chronik führt die beiden Darstellerinnen derselben Produktion als gemeinsamen Gewinnerfall. Die Auszeichnung betrifft ihre Bühnenarbeit; Ritters sechs Oscar-Nominierungen als Filmnebendarstellerin führten dagegen zu keinem Sieg.",
-      "anchor": "Ritter und Verdon gewannen gemeinsam für dasselbe Musical.",
       "interest": "Die Filmnebendarstellerin erhielt ihren großen Schauspielpreis auf der Bühne.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "extraSources": [
         "https://www.tonyawards.com/history/facts-and-trivia/",
         "https://www.criterion.com/current/posts/6001-least-wanted-film-noir-s-character-actors-thelma-ritter"
-      ]
+      ],
+      "objective": "Ritter und Verdon gewannen gemeinsam für dasselbe Musical."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 2,
       "short": "Ihr Kinodebüt hatte sie in „Das Wunder von Manhattan“ von 1947.",
       "context": "Ritter war bereits in ihren Vierzigern, als sie als gestresste Kundin erstmals im Kino erschien. Zuvor hatte sie auf der Bühne, im Varieté und im Radio gearbeitet. Der späte Wechsel zum Film erklärt, warum sie schon zu Beginn ihrer Kinokarriere als erfahrene Charakterdarstellerin auftrat.",
-      "anchor": "Ritters Kinoarbeit begann mit einer Kundin im Weihnachtsgeschäft.",
       "interest": "Eine Filmkarriere kann auf einer langen früheren Schauspielarbeit aufbauen.",
       "feedback": [
         "",
@@ -223,7 +222,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/6001-least-wanted-film-noir-s-character-actors-thelma-ritter",
         "https://catalog.afi.com/Film/25270-MIRACLE-ON-34TH-STREET"
-      ]
+      ],
+      "objective": "Ritters Kinoarbeit begann mit einer Kundin im Weihnachtsgeschäft."
     }
   ]
 }

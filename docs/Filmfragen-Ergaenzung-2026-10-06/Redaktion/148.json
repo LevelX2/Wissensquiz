@@ -39,13 +39,13 @@
       ],
       "short": "Selma möchte ihren Sohn vor dem erblichen Verlust des Augenlichts schützen.",
       "context": "Selma Ježková (Björk) verliert selbst ihre Sehkraft. Sie sammelt Geld, damit Gene (Vladica Kostic) operiert werden kann. Der Film bindet ihren ungewöhnlichen Arbeitseifer deshalb an eine konkrete Zukunft ihres Kindes, nicht an den Wunsch nach einer eigenen Bühnenkarriere.",
-      "anchor": "Selma spart für Genes Sehen, während ihr eigenes verschwindet.",
       "interest": "Selma spart für Genes Sehen, während ihr eigenes verschwindet.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Selma spart für Genes Sehen, während ihr eigenes verschwindet."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Alltagsgeräusche verwandeln sich für Selma in musikalische Rhythmen.",
       "context": "Selma Ježková (Björk) hört in Fabrikmaschinen und anderen gleichmäßigen Geräuschen Ansätze einer Nummer. Ihre Fantasie macht daraus Tanz und Gesang. Arbeit und Flucht aus dem Alltag liegen dadurch im selben Klang: Die Umgebung liefert das Material, aus dem sie sich eine andere Welt baut.",
-      "anchor": "Die Maschinen liefern Selmas Fantasie einen Takt.",
       "interest": "Die Maschinen liefern Selmas Fantasie einen Takt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Maschinen liefern Selmas Fantasie einen Takt."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Selma merkt sich die Zeichen der Sehprobentafeln.",
       "context": "Selma Ježková (Björk) möchte ihren Arbeitsplatz behalten, um für Gene zu sparen. Das Auswendiglernen ersetzt bei den Tests das tatsächliche Sehen. Ihre scheinbar erfolgreiche Leistung schützt sie vorübergehend, kann aber die Gefahr bei der Arbeit nicht beseitigen.",
-      "anchor": "Die richtige Antwort auf der Sehtafel beweist bei Selma kein Sehen.",
       "interest": "Die richtige Antwort auf der Sehtafel beweist bei Selma kein Sehen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die richtige Antwort auf der Sehtafel beweist bei Selma kein Sehen."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Bill täuscht seinen Abschied vor und sieht Selmas Versteck.",
       "context": "Selma Ježková (Björk) vertraut Bill Houston (David Morse) ihre Sehprobleme an. Er nutzt gerade dieses Wissen aus, um unbemerkt zu bleiben. Der Diebstahl beginnt somit mit dem Missbrauch ihrer Offenheit, während sie ihrerseits sein finanzielles Geheimnis weiter schützt.",
-      "anchor": "Bills scheinbarer Abschied nutzt Selmas eingeschränktes Sehen aus.",
       "interest": "Bills scheinbarer Abschied nutzt Selmas eingeschränktes Sehen aus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Bills scheinbarer Abschied nutzt Selmas eingeschränktes Sehen aus."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Selma entscheidet sich für die Operation ihres Sohnes und gegen ihre eigene Rettung.",
       "context": "Kathy (Catherine Deneuve) und Jeff (Peter Stormare) möchten Selma Ježková (Björk) mit dem Geld juristisch helfen. Selma sieht darin die Gefährdung von Genes Operation. Ihre mütterliche Priorität bleibt bestehen, obwohl sie dafür die Möglichkeit einer neuen Verteidigung aufgibt.",
-      "anchor": "Selma stellt Genes Augenlicht über ihre letzte Verteidigungschance.",
       "interest": "Selma stellt Genes Augenlicht über ihre letzte Verteidigungschance.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Selma stellt Genes Augenlicht über ihre letzte Verteidigungschance."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Kathy übergibt Selma Genes nicht mehr benötigte Brille.",
       "context": "Kathy (Catherine Deneuve) erreicht Selma Ježková (Björk) mit der Nachricht, dass Genes Operation gelungen ist. Die Brille macht den Erfolg als greifbares Zeichen gegenwärtig. Selmas letzter Gesang beginnt erst nach dieser Gewissheit; das Kind braucht den Gegenstand nicht mehr, die Mutter hält ihn fest.",
-      "anchor": "Die überflüssige Brille ist Selmas letzter Beweis für Genes Rettung.",
       "interest": "Die überflüssige Brille ist Selmas letzter Beweis für Genes Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die überflüssige Brille ist Selmas letzter Beweis für Genes Rettung."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2000.",
       "context": "Dancer in the Dark wurde 2000 in Cannes erstmals gezeigt. Die Handlung spielt 1964 im US-Bundesstaat Washington, 36 Jahre vor der Veröffentlichung. Diese Trennung ist zentral: Die historisch situierte Fabrikgeschichte wird durch Selmas Vorstellungen aus Hollywoodmusicals in eine ganz andere Klang- und Bildwelt verwandelt.",
-      "anchor": "Handlung 1964, Film 2000: 36 Jahre bis zu Selmas tragischem Musical.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Handlung 1964, Film 2000: 36 Jahre bis zu Selmas tragischem Musical.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Handlung 1964, Film 2000: 36 Jahre bis zu Selmas tragischem Musical."
     },
     {
       "code": "D",
@@ -209,14 +209,14 @@
       ],
       "short": "Der Regiecredit lautet Lars von Trier.",
       "context": "Lars von Trier schrieb und inszenierte; Björk spielte Selma und komponierte den größten Teil der Musik. Die musikalischen Fantasien unterscheiden sich visuell von den unruhig gefilmten Alltagsszenen. Der Film schließt von Triers Golden-Heart-Reihe nach Breaking the Waves und Idioten ab.",
-      "anchor": "Lars von Trier: Die musikalischen Fantasien unterscheiden sich visuell von den unruhig gefilmten Alltagsszenen.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Lars von Trier: Die musikalischen Fantasien unterscheiden sich visuell von den unruhig gefilmten Alltagsszenen."
     }
   ]
 }

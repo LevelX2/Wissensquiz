@@ -32,12 +32,12 @@
       ],
       "short": "Mabel (Gena Rowlands) und Nick (Peter Falk) sind ein Ehepaar mit drei Kindern.",
       "context": "Mabel (Gena Rowlands) und Nick (Peter Falk) sind ein Ehepaar mit drei Kindern. Ihr Wunsch nach Nähe steht neben Erwartungen, Druck und verletzendem Verhalten im gemeinsamen Haushalt.",
-      "anchor": "Die Krise entsteht innerhalb einer bestehenden Familie.",
       "interest": "Die Krise entsteht innerhalb einer bestehenden Familie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Krise entsteht innerhalb einer bestehenden Familie."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Nick (Peter Falk) muss einen Rohrbruch reparieren.",
       "context": "Nick (Peter Falk) muss einen Rohrbruch reparieren. Mabel (Gena Rowlands) bleibt allein; die Arbeit des Mannes und ihre Erwartung an den Abend laufen damit unmittelbar auseinander.",
-      "anchor": "Nicks Arbeit verhindert den gemeinsamen Abend.",
       "interest": "Nicks Arbeit verhindert den gemeinsamen Abend.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Nicks Arbeit verhindert den gemeinsamen Abend."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Nick bringt seine Kollegen zum Frühstück.",
       "context": "Nick (Peter Falk) bringt seine Kollegen zum Frühstück. Mabel (Gena Rowlands) muss die Gruppe bewirten; Nicks Reaktion auf ihre freundliche Nähe macht aus dem Essen eine angespannte Situation.",
-      "anchor": "Das Familienhaus wird unvermittelt zum Frühstücksort der Kollegen.",
       "interest": "Das Familienhaus wird unvermittelt zum Frühstücksort der Kollegen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Familienhaus wird unvermittelt zum Frühstücksort der Kollegen."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Mabel wird gegen ihren Willen eingewiesen.",
       "context": "Mabel (Gena Rowlands) wird gegen ihren Willen eingewiesen. Die eskalierende Szene bindet medizinische Entscheidung und familiären Druck zusammen; Nick (Peter Falk) bleibt mit den Kindern zurück.",
-      "anchor": "Der familiäre Konflikt endet zunächst in der Einweisung.",
       "interest": "Der familiäre Konflikt endet zunächst in der Einweisung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der familiäre Konflikt endet zunächst in der Einweisung."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Nicks Mutter Margaret (Katherine Cassavetes) warnt vor Überforderung.",
       "context": "Nicks Mutter Margaret (Katherine Cassavetes) warnt vor Überforderung. Die großen Erwartungen an Mabels (Gena Rowlands) Rückkehr werden deshalb zunächst reduziert; die Familie findet trotzdem keinen einfachen Umgang miteinander.",
-      "anchor": "Die Rückkehrfeier muss auf Mabels Belastbarkeit reagieren.",
       "interest": "Die Rückkehrfeier muss auf Mabels Belastbarkeit reagieren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rückkehrfeier muss auf Mabels Belastbarkeit reagieren."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Mabel (Gena Rowlands) und Nick (Peter Falk) räumen auf.",
       "context": "Mabel (Gena Rowlands) und Nick (Peter Falk) räumen auf. Der gewöhnliche Abschluss des Abends folgt auf Gewalt und Verletzung; alltägliche Fortsetzung ersetzt keine eindeutig gezeigte Heilung.",
-      "anchor": "Nach der Krise kehrt die Familie zum gewöhnlichen Abend zurück.",
       "interest": "Nach der Krise kehrt die Familie zum gewöhnlichen Abend zurück.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Nach der Krise kehrt die Familie zum gewöhnlichen Abend zurück."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 1974 erstmals veröffentlicht.",
       "context": "1974 erschien Cassavetes’ Familiendrama. Die Bibliothek des US-Kongresses nahm es 1990 in das National Film Registry auf, sechzehn Jahre später. Damit lässt sich der ursprüngliche Kinofilm von seiner späteren Anerkennung als erhaltenswertes Filmwerk unterscheiden.",
-      "anchor": "Der Film von 1974 wurde sechzehn Jahre später, 1990, ins National Film Registry aufgenommen.",
       "interest": "Der Film von 1974 wurde sechzehn Jahre später, 1990, ins National Film Registry aufgenommen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Film von 1974 wurde sechzehn Jahre später, 1990, ins National Film Registry aufgenommen."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: John Cassavetes.",
       "context": "Cassavetes schrieb die intensive Geschichte zunächst als Bühnenstoff für Gena Rowlands. Sie hielt regelmäßige Theateraufführungen für zu belastend; daraus entstand ein unabhängig finanzierter Film mit ihr und Peter Falk.",
-      "anchor": "Cassavetes schrieb die intensive Geschichte zunächst als Bühnenstoff für Gena Rowlands.",
       "interest": "Cassavetes schrieb die intensive Geschichte zunächst als Bühnenstoff für Gena Rowlands.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Cassavetes schrieb die intensive Geschichte zunächst als Bühnenstoff für Gena Rowlands."
     }
   ]
 }

@@ -40,12 +40,12 @@
       ],
       "short": "Die Bewohner ziehen als Verfolger los.",
       "context": "Die angebliche Mordnachricht bringt Bewohner dazu, als Verfolgergruppe aufzubrechen. Ihre unmittelbare Entschlossenheit ersetzt die geordneten Schritte einer Prüfung. Der Film untersucht damit, wie ein gemeinsam empfundener Verdacht eine Gruppe handlungsfähig macht, während gerade diese gemeinsame Bewegung die notwendige Kontrolle über Schuldfragen verdrängt.",
-      "anchor": "Die Verfolgergruppe macht gemeinsamen Verdacht zur sofortigen Handlung.",
       "interest": "Erfasst die Ausgangslage der Selbstjustiz.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Verfolgergruppe macht gemeinsamen Verdacht zur sofortigen Handlung."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Die Gruppe entscheidet außerhalb eines regulären Verfahrens.",
       "context": "Die drei gefundenen Männer geraten unter den Verdacht der Verfolger. Ein ordentliches Verfahren könnte Behauptungen, Entlastungen und Beweise prüfen. Die Gruppe ersetzt diese Möglichkeit durch eine eigene Entscheidung. Die Bedrohung entsteht deshalb nicht allein aus Irrtum, sondern auch aus der Verweigerung einer verlässlichen Prüfungsordnung.",
-      "anchor": "Die Lynchentscheidung ersetzt die Prüfung, die ein Gerichtsverfahren erst ermöglichen würde.",
       "interest": "Erklärt den Unterschied zwischen Verdacht und legitimierter Entscheidung.",
       "sources": [
         "registry"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Lynchentscheidung ersetzt die Prüfung, die ein Gerichtsverfahren erst ermöglichen würde."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Martin kann den Kauf nicht schriftlich belegen.",
       "context": "Donald Martin (Dana Andrews) sagt, er habe die Rinder gekauft, besitzt aber keinen schriftlichen Beleg. Die fehlende Absicherung wird zum Anlass, seine Erklärung zu verwerfen. Der Film zeigt daran, wie eine Lücke im Nachweis unter Gruppendruck leicht als fertiger Beweis der Schuld behandelt werden kann.",
-      "anchor": "Ein fehlender Kaufbeleg wird voreilig zur angeblichen Gewissheit über Schuld.",
       "interest": "Erklärt die fehlerhafte Beweislogik der Gruppe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein fehlender Kaufbeleg wird voreilig zur angeblichen Gewissheit über Schuld."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Sieben stellen sich gegen die sofortige Hinrichtung.",
       "context": "Nur sieben Angehörige der Gruppe stimmen für ein Verfahren. Die Minderheit sieht, dass die offene Schuldfrage geordnet geprüft werden müsste. Die Mehrheit kann diese Einsicht überstimmen, aber dadurch nicht in Wahrheit verwandeln. Der Film trennt damit die Zahl der Zustimmenden von der Gültigkeit ihrer Entscheidung.",
-      "anchor": "Eine Mehrheit für Gewalt macht eine ungeprüfte Schuldbehauptung nicht wahr.",
       "interest": "Erklärt die Grenze des Mehrheitsentscheids bei Schuldfragen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine Mehrheit für Gewalt macht eine ungeprüfte Schuldbehauptung nicht wahr."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Kinkaid lebt; andere Täter wurden festgenommen.",
       "context": "Der Sheriff (Willard Robertson) berichtet, dass Kinkaid lebt und die wirklichen Täter gefasst sind. Die Nachricht kommt zu spät für die Hingerichteten. Sie macht sichtbar, was vorschnelle Gewalt nicht rückgängig machen kann: Eine spätere richtige Erkenntnis stellt das Leben der fälschlich Verurteilten nicht wieder her.",
-      "anchor": "Die richtige Nachricht erreicht die Gruppe erst nach dem unwiderruflichen Töten.",
       "interest": "Erklärt die zeitliche Ursache der tragischen Unumkehrbarkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die richtige Nachricht erreicht die Gruppe erst nach dem unwiderruflichen Töten."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Der Brief hält Martins Stimme und den Anspruch auf Gerechtigkeit fest.",
       "context": "Gil Carter (Henry Fonda) liest den Brief Donald Martins (Dana Andrews) vor. Die Stimme des Getöteten erreicht die Beteiligten dadurch erst nach ihrer Tat. AFI beschreibt, dass der Film den Brief ausdrücklich ausformuliert. Die Worte führen das versäumte Nachdenken als späte, nicht mehr rettende Mahnung vor.",
-      "anchor": "Martins Brief erreicht das Gewissen der Beteiligten, nachdem er ihn nicht mehr retten kann.",
       "interest": "Erklärt die verspätete Stimme des Opfers.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Martins Brief erreicht das Gewissen der Beteiligten, nachdem er ihn nicht mehr retten kann."
     },
     {
       "code": "Y",
@@ -184,12 +184,12 @@
       ],
       "short": "1943 liegt drei Jahre nach der Vorlage.",
       "context": "Walter Van Tilburg Clarks Roman The Ox-Bow Incident erschien 1940. Die Filmadaption kam 1943 heraus, drei Jahre später. Der kurze Abstand verbindet die literarische Untersuchung eines Lynchmobs mit ihrer Kinoform. AFI dokumentiert zugleich, wie die Darstellung der Gewalt bei der Produktionsfreigabe diskutiert wurde.",
-      "anchor": "1940 die Romanvorlage, 1943 die Filmadaption: drei Jahre Abstand.",
       "interest": "Verankert das Jahr im konkreten literarischen Ausgangspunkt.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1940 die Romanvorlage, 1943 die Filmadaption: drei Jahre Abstand."
     },
     {
       "code": "D",
@@ -208,12 +208,12 @@
       ],
       "short": "Wellman inszenierte den Film.",
       "context": "William A. Wellman führte Regie. Die Library of Congress beschreibt den Film als konzentrierte Untersuchung von Gruppendynamik und Selbstjustiz. Die Inszenierung muss daher nicht allein Täterhandlungen zeigen: Sie hält die verschiedenen Reaktionen der Beteiligten zusammen, aus denen die gemeinsam begangene Gewalt erst entsteht.",
-      "anchor": "Wellman macht die Reaktionen innerhalb der Gruppe zum Gegenstand des Westerns.",
       "interest": "Verbindet den Credit mit der konkreten dramatischen Konzentration.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wellman macht die Reaktionen innerhalb der Gruppe zum Gegenstand des Westerns."
     }
   ]
 }

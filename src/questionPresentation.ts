@@ -33,7 +33,6 @@ export function preparePresentation(
         : null,
     questionText: presentedQuestion(q),
     deepContext: year?.text ?? actor?.text ?? director?.text ?? q.context,
-    anchor: year?.anchor ?? q.anchor,
     sources: [
       ...new Set([...(year?.sources ?? []), ...(actor?.sources ?? [])]),
     ],

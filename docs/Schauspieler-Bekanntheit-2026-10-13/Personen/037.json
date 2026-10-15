@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Er will die Beweise besprechen, bevor ein Schuldspruch gefällt wird.",
       "context": "Die anderen Geschworenen halten den Mordfall zunächst weitgehend für entschieden. Fonda spielt den Mann, der sich einer schnellen Verurteilung widersetzt, ohne schon die Unschuld des Angeklagten beweisen zu können. Im gemeinsamen Raum werden Aussagen und vermeintlich sichere Schlüsse geprüft. Die Diskussion legt dabei auch Vorurteile und persönliche Konflikte frei, die mit dem eigentlichen Fall nichts zu tun haben.",
-      "anchor": "Fondas Geschworener verlangt Prüfung statt vorschneller Gewissheit.",
       "interest": "Die Haltung erklärt den Motor des gesamten Beratungsdramas.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.criterion.com/films/27871-12-angry-men",
         "https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)"
-      ]
+      ],
+      "objective": "Fondas Geschworener verlangt Prüfung statt vorschneller Gewissheit."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 0,
       "short": "Fonda spielt den Killer Frank.",
       "context": "Frank arbeitet für den Eisenbahnunternehmer Morton (Gabriele Ferzetti) und beseitigt Menschen, die dessen Plänen im Weg stehen. Sergio Leone besetzte die Rolle mit einem Darsteller, den das Publikum häufig als aufrechten Mann kannte. Der frühe Auftritt Franks macht diese Erwartung besonders wirksam. Fondas ruhige Präsenz erhält hier eine bedrohliche Bedeutung, statt wie in vielen früheren Rollen Vertrauen zu erzeugen.",
-      "anchor": "Fondas vertraute Ruhe wird bei Frank zur Drohung.",
       "interest": "Die Besetzung erschließt ein berühmtes Spiel mit dem bisherigen Starimage.",
       "feedback": [
         "Fonda spielt den Killer Frank.",
@@ -62,7 +61,8 @@
       ],
       "knowledge_id": "K-WES-04-01",
       "variant_of": "WES-L-007",
-      "knowledge_note": "Umgekehrte Besetzungszuordnung Henry Fonda zu Frank."
+      "knowledge_note": "Umgekehrte Besetzungszuordnung Henry Fonda zu Frank.",
+      "objective": "Fondas vertraute Ruhe wird bei Frank zur Drohung."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 2,
       "short": "Die Joads suchen Arbeit in Kalifornien.",
       "context": "Tom kehrt nach einer Haftstrafe nach Hause zurück und findet die bisherige Existenz der Familie zerstört. Gemeinsam machen sich die Joads auf den Weg nach Westen. Die Aussicht auf Arbeit führt sie jedoch in eine Welt niedriger Löhne, unsicherer Lager und gegenseitiger Konkurrenz unter den Arbeitssuchenden. Tom muss erleben, dass die Not seiner Familie Teil eines größeren sozialen Konflikts ist.",
-      "anchor": "Der Weg nach Kalifornien führt die Joads in neue Abhängigkeiten.",
       "interest": "Die Reise verbindet Fondas Familienfigur mit dem sozialen Panorama der Depression.",
       "feedback": [
         "",
@@ -92,7 +91,8 @@
       ],
       "knowledge_id": "K-DRA-202610-P01-L-018",
       "variant_of": "DRA-202610-P01-L-018",
-      "knowledge_note": "Gleiches Ziel Kalifornien für die Familie Joad."
+      "knowledge_note": "Gleiches Ziel Kalifornien für die Familie Joad.",
+      "objective": "Der Weg nach Kalifornien führt die Joads in neue Abhängigkeiten."
     },
     {
       "code": "M2",
@@ -106,7 +106,6 @@
       "correct": 3,
       "short": "Manny arbeitet als Musiker im Stork Club.",
       "context": "Manny sucht wegen der Behandlungskosten seiner Frau ein Versicherungsbüro auf. Mitarbeiterinnen halten ihn für einen Mann, der das Büro überfallen hat. Aus der Verwechslung folgen Festnahme und ein Verfahren, das die Familie schwer belastet. Hitchcock orientiert sich an einem wirklichen Fall. Fondas zurückhaltende Darstellung begleitet einen unauffälligen Bürger, dessen vertrauter Alltag durch scheinbar glaubwürdige Zeugenaussagen zerbricht.",
-      "anchor": "Der Nachtclubmusiker wird mit einem Räuber verwechselt.",
       "interest": "Die Rolle zeigt, wie ein Justizverfahren das Leben eines unschuldigen Menschen verändert.",
       "feedback": [
         "",
@@ -119,7 +118,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/52452"
-      ]
+      ],
+      "objective": "Der Nachtclubmusiker wird mit einem Räuber verwechselt."
     },
     {
       "code": "S1",
@@ -133,7 +133,6 @@
       "correct": 2,
       "short": "Roberts will vom Versorgungsschiff auf ein kämpfendes Schiff versetzt werden.",
       "context": "Auf dem Versorgungsschiff erlebt Roberts Hitze, Langeweile und einen tyrannischen Kapitän. Er setzt sich für die Mannschaft ein, hält die eigene Aufgabe aber für unzureichend, während anderswo gekämpft wird. Der Kapitän blockiert seine Versetzung, weil er von Roberts’ Arbeit profitiert. Der Film prüft damit auch Roberts’ Vorstellung davon, welche Form des Dienstes als mutig und bedeutsam gelten soll.",
-      "anchor": "Roberts sucht den Kampf, während die Mannschaft ihn gegen ihren Kapitän braucht.",
       "interest": "Der Konflikt verbindet persönliche Pflichterfüllung mit unterschiedlichen Vorstellungen von Heldentum.",
       "feedback": [
         "",
@@ -146,7 +145,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/51592-MISTER-ROBERTS"
-      ]
+      ],
+      "objective": "Roberts sucht den Kampf, während die Mannschaft ihn gegen ihren Kapitän braucht."
     },
     {
       "code": "S2",
@@ -160,7 +160,6 @@
       "correct": 0,
       "short": "Fonda gewann den Hauptdarsteller-Oscar für „Am goldenen See“.",
       "context": "Fonda spielt den alternden Norman Thayer, Katharine Hepburn dessen Frau Ethel. Ihre Filmtochter Chelsea wird von Jane Fonda verkörpert. Die Auszeichnung ehrte somit eine späte Darstellerleistung und ist vom zuvor verliehenen Ehren-Oscar für Fondas Gesamtarbeit zu unterscheiden. Bei derselben Verleihung gewann auch Hepburn für ihre Hauptrolle; der Film erhielt zusätzlich den Preis für das adaptierte Drehbuch.",
-      "anchor": "Der Ehrenpreis würdigte die Laufbahn; der Schauspielpreis Norman Thayer.",
       "interest": "Die Unterscheidung ordnet zwei verschiedene Formen der Anerkennung am Ende der Karriere ein.",
       "feedback": [
         "Fonda gewann den Hauptdarsteller-Oscar für „Am goldenen See“.",
@@ -176,7 +175,8 @@
         "https://www.oscars.org/oscars/ceremonies/1982",
         "https://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film)",
         "https://en.wikipedia.org/wiki/Henry_Fonda"
-      ]
+      ],
+      "objective": "Der Ehrenpreis würdigte die Laufbahn; der Schauspielpreis Norman Thayer."
     },
     {
       "code": "E1",
@@ -190,7 +190,6 @@
       "correct": 3,
       "short": "Fonda gehörte mit Reginald Rose zum Produzententeam.",
       "context": "Rose hatte den Stoff zunächst fürs Fernsehen geschrieben. Für die Kinofassung verband Fonda seine Hauptrolle mit einer Produzentenfunktion; Sidney Lumet führte Regie. Die überwiegend auf einen Raum konzentrierte Geschichte setzte damit auf Text, Ensemble und genaue Beobachtung. Fondas Beteiligung bestand nicht nur darin, die mahnende Stimme innerhalb der Jury zu spielen, sondern auch darin, das Projekt hinter der Kamera mitzutragen.",
-      "anchor": "Fonda spielte den Zweifler und trug zugleich die Filmproduktion mit.",
       "interest": "Die Funktion erschließt einen aktiven Beitrag zur Entstehung des Gerichtsfilms.",
       "feedback": [
         "",
@@ -203,7 +202,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27871-12-angry-men"
-      ]
+      ],
+      "objective": "Fonda spielte den Zweifler und trug zugleich die Filmproduktion mit."
     },
     {
       "code": "E2",
@@ -217,7 +217,6 @@
       "correct": 1,
       "short": "Ein Almanach zeigt, dass der Mond zu diesem Zeitpunkt bereits untergegangen war.",
       "context": "Lincoln verteidigt zwei Brüder gegen einen Mordvorwurf. Der entscheidende Zeuge behauptet, die Tat aus größerer Entfernung erkannt zu haben. Die Prüfung der Mondstellung entkräftet diese Gewissheit und führt zur Aufklärung. Der Film nimmt einen wirklichen Fall aus Lincolns späterer Anwaltstätigkeit auf, verlegt ihn aber in eine frühere Lebensphase. Fondas Figur gewinnt Autorität durch genaue Prüfung und den Schutz seiner Mandanten.",
-      "anchor": "Lincoln prüft den behaupteten Blick gegen die tatsächliche Mondstellung.",
       "interest": "Das Ziel zeigt, wie Sachprüfung innerhalb der historischen Filmfigur zu Gerechtigkeit führt.",
       "feedback": [
         "",
@@ -231,7 +230,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/413-young-mr-lincoln-hero-in-waiting",
         "https://en.wikipedia.org/wiki/Young_Mr._Lincoln"
-      ]
+      ],
+      "objective": "Lincoln prüft den behaupteten Blick gegen die tatsächliche Mondstellung."
     }
   ]
 }

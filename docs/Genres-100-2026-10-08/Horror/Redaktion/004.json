@@ -36,12 +36,12 @@
       ],
       "short": "Mary Shelley setzt im Rahmen ihre Geschichte fort.",
       "context": "Mary Shelley (Elsa Lanchester) sitzt mit Percy Bysshe Shelley (Douglas Walton) und Lord Byron (Gavin Gordon) während einer stürmischen Nacht zusammen. Sie erklärt, dass ihre Geschichte mit dem bisherigen Ende nicht abgeschlossen sei. Der Rahmen öffnet so den Weg zur Fortsetzung. Zugleich erscheint eine Autorin als handelnde Filmfigur; das Gespräch ist eine Inszenierung und kein dokumentarischer Mitschnitt der literarischen Entstehung.",
-      "anchor": "Mary Shelley öffnet den Rahmen zur Fortsetzung.",
       "interest": "Verankert die besondere Erzählsituation.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Mary Shelley öffnet den Rahmen zur Fortsetzung."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Ein blinder Einsiedler nimmt die Kreatur freundlich auf.",
       "context": "Die Kreatur (Boris Karloff) folgt Musik zu einem abgelegenen Haus. Der blinde Einsiedler (Oliver Peters Heggie) nimmt sie auf, teilt Nahrung und freut sich über einen Freund. Weil er ihr Aussehen nicht wahrnimmt, beginnt die Begegnung ohne den sonst üblichen Schrecken. Erst andere Menschen zerstören diese Ruhe. Die Episode zeigt eine mögliche Gemeinschaft, die nicht an dem sichtbaren Erscheinungsbild des Gastes scheitert.",
-      "anchor": "Der blinde Gastgeber erkennt einen Freund statt eines Schreckbilds.",
       "interest": "Erschließt die markante Gegenbewegung zur ständigen Verfolgung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der blinde Gastgeber erkennt einen Freund statt eines Schreckbilds."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Pretorius zeigt winzige künstliche Menschen in Glasgefäßen.",
       "context": "Dr. Pretorius (Ernest Thesiger) führt Henry Frankenstein (Colin Clive) künstlich hervorgebrachte Miniaturmenschen vor. Sie bewegen sich in einzelnen Glasgefäßen und besitzen verschiedene Erscheinungsbilder. Die Vorführung unterscheidet seinen bisherigen Weg von Henrys Arbeit an einem großen zusammengesetzten Körper. Pretorius möchte nun beide Ansätze verbinden. Die kleinen Geschöpfe sind deshalb nicht bloß ein skurriler Einschub, sondern ein Argument innerhalb seiner Werbung um eine neue Zusammenarbeit.",
-      "anchor": "Die Miniaturmenschen werben für Pretorius’ nächsten Versuch.",
       "interest": "Verbindet die ungewöhnliche Vorführung mit dem Kooperationsangebot.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Miniaturmenschen werben für Pretorius’ nächsten Versuch."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Elizabeths Entführung zwingt Henry zur Mitarbeit.",
       "context": "Henry Frankenstein (Colin Clive) will sich zunächst nicht an dem neuen Versuch beteiligen. Dr. Pretorius (Ernest Thesiger) lässt jedoch Elizabeth (Valerie Hobson) entführen und stellt ihre sichere Rückkehr in Aussicht, wenn Henry hilft. Aus dem fachlichen Angebot wird dadurch Erpressung. Der Forscher arbeitet nun nicht allein aus Neugier weiter: Die unmittelbare Sorge um seine Frau bindet ihn an den Plan des anderen Wissenschaftlers.",
-      "anchor": "Das Experiment wird durch Elizabeths Entführung erzwungen.",
       "interest": "Erklärt den Umschlag vom Angebot zur Erpressung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Das Experiment wird durch Elizabeths Entführung erzwungen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die erhoffte Partnerin weist die Kreatur erschrocken zurück.",
       "context": "Die Kreatur (Boris Karloff) erwartet von der neu geschaffenen Partnerin (Elsa Lanchester) die Nähe, die ihr andere Menschen verweigert haben. Doch auch sie schreit beim Anblick des Wesens und lehnt es ab. Die technische Herstellung eines Gegenübers führt somit nicht automatisch zu Freundschaft. Gerade diese Enttäuschung verändert die Situation im Labor und leitet die zerstörerische Schlussentscheidung ein, obwohl das Experiment zunächst als gelungen erscheint.",
-      "anchor": "Ein erschaffenes Gegenüber ist noch keine gewonnene Freundin.",
       "interest": "Erfasst das Scheitern der sozialen Hoffnung hinter dem Versuch.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein erschaffenes Gegenüber ist noch keine gewonnene Freundin."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Kreatur lässt Henry und Elizabeth entkommen.",
       "context": "Die Kreatur (Boris Karloff) unterscheidet vor ihrer letzten Handlung zwischen den Menschen im Labor. Henry Frankenstein (Colin Clive) und Elizabeth (Valerie Hobson) dürfen gehen. Dr. Pretorius (Ernest Thesiger) und die geschaffene Partnerin (Elsa Lanchester) sollen bleiben. Dann löst das Wesen die Zerstörung aus. Die Frage folgt dem veröffentlichten Ende; ein früher verworfener Schluss und verbliebene Bilder aus älteren Aufnahmen begründen keine gegenteilige Todeslösung.",
-      "anchor": "Henry und Elizabeth dürfen leben; die anderen bleiben.",
       "interest": "Erfasst die gezielte Ausnahme vor der Schlusszerstörung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Henry und Elizabeth dürfen leben; die anderen bleiben."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Frankensteins Braut erschien erstmals 1935.",
       "context": "Der vorausgehende Universal-Film Frankenstein erschien 1931; Frankensteins Braut folgte 1935, vier Jahre später. James Whale und Colin Clive kehrten zur Fortsetzung zurück, während Elsa Lanchester die neue Doppelrolle übernahm. Der Abstand verbindet die beiden Werke innerhalb derselben Filmfolge. Er erklärt zugleich, warum die Erzählung direkt an die brennende Mühle anknüpfen kann, obwohl zwischen den Veröffentlichungen mehrere Jahre liegen.",
-      "anchor": "Universal-Frankenstein 1931, Braut 1935: vier Jahre.",
       "interest": "Verbindet Erstjahr und unmittelbaren Vorgänger.",
       "sources": [
         "afi",
         "previous",
         "film"
-      ]
+      ],
+      "objective": "Universal-Frankenstein 1931, Braut 1935: vier Jahre."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "James Whale führte auch bei dieser Fortsetzung Hauptregie.",
       "context": "James Whale kehrte für die veröffentlichte Fortsetzung zurück. AFI unterscheidet davon ein früher geplantes Projekt unter Kurt Neumann, das aufgegeben wurde. Solche Entwicklungswege erweitern den Hauptregiecredit des fertigen Films nicht. Die neue Erzählung verbindet die Verfolgung der Kreatur mit der Werbung eines zweiten Wissenschaftlers um Zusammenarbeit; neben dem Schrecken stehen dabei Gastfreundschaft, Einsamkeit und die enttäuschte Hoffnung auf eine Partnerin.",
-      "anchor": "Die veröffentlichte Fortsetzung bleibt ein Film von James Whale.",
       "interest": "Verknüpft den Hauptcredit mit der abgegrenzten Produktionsgeschichte.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Die veröffentlichte Fortsetzung bleibt ein Film von James Whale."
     }
   ],
   "rank": 4

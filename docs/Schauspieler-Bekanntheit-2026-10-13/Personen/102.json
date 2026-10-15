@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Martha nimmt die Tochter ihrer verstorbenen Schwester bei sich auf.",
       "context": "Die achtjährige Lina (Maxime Foerste) bringt das streng geregelte Leben der Köchin durcheinander. Ihr italienischer Kollege Mario (Sergio Castellitto) findet einen Zugang zu dem Kind und wird auch für Martha zu mehr als einem Küchenrivalen.",
-      "anchor": "Marthas Nichte verändert ihr Leben jenseits der Küche.",
       "interest": "Den familiären Ausgangspunkt einer bekannten Rolle erkennen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/en/movie/bella-martha_ea43d4a7163b5006e03053d50b37753d"
-      ]
+      ],
+      "objective": "Marthas Nichte verändert ihr Leben jenseits der Küche."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Christa-Maria Sieland ist Theaterschauspielerin.",
       "context": "Sie lebt mit dem Schriftsteller Georg Dreymann (Sebastian Koch) in Ost-Berlin. Die Überwachung durch Stasi-Hauptmann Wiesler (Ulrich Mühe) dringt tief in die private und künstlerische Existenz des Paars ein.",
-      "anchor": "Christa-Maria steht auf der Bühne; Dreymann schreibt.",
       "interest": "Das überwachte Künstlerpaar genauer kennenlernen.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/das-leben-der-anderen_cd85e167113046cf85f25cebf37bb307"
-      ]
+      ],
+      "objective": "Christa-Maria steht auf der Bühne; Dreymann schreibt."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Sie lebt mit einem Hund, einer Katze und einer Kuh.",
       "context": "Nach einem Aufenthalt in einem Jagdhaus trennt eine unsichtbare Grenze die Frau von der übrigen Welt. Die Tiere bilden ihre verbliebene Gemeinschaft; zugleich muss sie Nahrung beschaffen und ihr Überleben in der Natur organisieren.",
-      "anchor": "Hund, Katze und Kuh bleiben hinter der Wand.",
       "interest": "Die Überlebenssituation anhand ihrer konkreten Gemeinschaft verstehen.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/die-wand_7ba698570bfd400da515146ce5be8f69"
-      ]
+      ],
+      "objective": "Hund, Katze und Kuh bleiben hinter der Wand."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Meinhof wird von der Journalistin zur Mitgründerin der RAF.",
       "context": "Der Film verfolgt die Radikalisierung der Gruppe um Meinhof, Andreas Baader (Moritz Bleibtreu) und Gudrun Ensslin (Johanna Wokalek). Ihre politischen Vorstellungen münden in bewaffnete Gewalt und schließlich in die Haft in Stammheim.",
-      "anchor": "Meinhofs Weg führt vom Journalismus in die RAF.",
       "interest": "Eine historische Rolle als Entwicklung statt als Namensliste erfassen.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       "extraSources": [
         "https://www.filmportal.de/person/martina-gedeck_556104d2dc36400ba6b22977d797b6ad",
         "https://www.filmportal.de/film/der-baader-meinhof-komplex_b5347ae446ba4822ba69db9e202095f0"
-      ]
+      ],
+      "objective": "Meinhofs Weg führt vom Journalismus in die RAF."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 2,
       "short": "Johannes Brahms wird zum engen Vertrauten der Schumanns.",
       "context": "Robert Schumann (Pascal Greggory) hofft in Düsseldorf auf einen beruflichen Neubeginn, wird jedoch von Krankheit beeinträchtigt. Brahms (Malik Zidi) bewundert seine Musik und verliebt sich zugleich in Clara; sein Einzug verbindet die drei noch enger.",
-      "anchor": "Brahms ergänzt das Paar Schumann zum Dreieck.",
       "interest": "Die biografische Konstellation eines Musikfilms verstehen.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/geliebte-clara_95b622753da64844939758d447fcdfb1"
-      ]
+      ],
+      "objective": "Brahms ergänzt das Paar Schumann zum Dreieck."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 2,
       "short": "Der Mann hat die Liebesbeziehung für die DDR-Spionage benutzt.",
       "context": "Lotte blickt im Gerichtssaal auf zwei Jahrzehnte zurück, in denen sie Informationen weitergab. Sie erfährt, dass Liebesschwüre, Heirat und Familiengeschichten zu der inszenierten Identität eines Ost-Agenten gehörten.",
-      "anchor": "Lottes Liebesgeschichte war ein Geheimdienstmanöver.",
       "interest": "Das private Mittel einer politischen Manipulation erkennen.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://martina-gedeck.com/romeo-2001"
-      ]
+      ],
+      "objective": "Lottes Liebesgeschichte war ein Geheimdienstmanöver."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 3,
       "short": "Sie spielte eine Insassin, die in einem Stück die Prinzenrolle übernimmt.",
       "context": "Simmons engagierte Gedeck 1985 am Frankfurter Theater am Turm. Das Bühnenspiel innerhalb des Stücks verband die Situation einer Besserungsanstalt mit einer zweiten Darstellungsebene.",
-      "anchor": "Gedeck spielt eine Insassin – die wiederum einen Prinzen spielt.",
       "interest": "Eine frühe Theaterrolle mit ihrem Spiel-im-Spiel-Prinzip entdecken.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "films": [],
       "extraSources": [
         "https://www.filmportal.de/person/martina-gedeck_556104d2dc36400ba6b22977d797b6ad"
-      ]
+      ],
+      "objective": "Gedeck spielt eine Insassin – die wiederum einen Prinzen spielt."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 0,
       "short": "Der Roman stammt von Marlen Haushofer.",
       "context": "Die Vorlage erschien 1963. Regisseur Julian Roman Pölsler hielt sich eng an Haushofers Sprache; die schriftlichen Aufzeichnungen der isolierten Erzählerin tragen auch die Filmfassung.",
-      "anchor": "Haushofers Roman wird Gedecks Überlebensgeschichte.",
       "interest": "Literatur und filmische Darstellung miteinander verbinden.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/die-wand_7ba698570bfd400da515146ce5be8f69"
-      ]
+      ],
+      "objective": "Haushofers Roman wird Gedecks Überlebensgeschichte."
     }
   ]
 }

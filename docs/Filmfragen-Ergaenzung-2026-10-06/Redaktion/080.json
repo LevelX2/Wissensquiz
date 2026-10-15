@@ -36,12 +36,12 @@
       ],
       "short": "Elizabeth I.",
       "context": "Elizabeth I. (Quentin Crisp) verlangt, dass Orlando (Tilda Swinton) nicht altert. Orlando (Tilda Swinton) erhält Besitz und lebt danach durch mehrere Jahrhunderte; das Versprechen setzt die ungewöhnliche Zeitspanne der Erzählung.",
-      "anchor": "Der Besitz ist an ein Leben ohne Altern gebunden.",
       "interest": "Der Besitz ist an ein Leben ohne Altern gebunden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Besitz ist an ein Leben ohne Altern gebunden."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Orlando (Tilda Swinton) erwacht als Frau.",
       "context": "Orlando (Tilda Swinton) erwacht als Frau. Die Figur versteht sich weiterhin als dieselbe Person; die soziale Behandlung verändert sich jedoch durch die neue Geschlechtszuordnung.",
-      "anchor": "Das gleiche Ich wird unter anderen gesellschaftlichen Regeln gesehen.",
       "interest": "Das gleiche Ich wird unter anderen gesellschaftlichen Regeln gesehen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das gleiche Ich wird unter anderen gesellschaftlichen Regeln gesehen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Das weibliche Geschlecht wird gegen Orlandos Erbrecht verwendet.",
       "context": "Das weibliche Geschlecht wird gegen Orlandos Erbrecht verwendet. Orlando (Tilda Swinton) erlebt damit, dass das königliche Dauerbesitzversprechen von den gesellschaftlichen Regeln abhängig bleibt.",
-      "anchor": "Der Geschlechtswechsel verwandelt sicheren Besitz in einen Rechtsstreit.",
       "interest": "Der Geschlechtswechsel verwandelt sicheren Besitz in einen Rechtsstreit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Geschlechtswechsel verwandelt sicheren Besitz in einen Rechtsstreit."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Orlando (Tilda Swinton) flieht nach dem ersten gesehenen Tod.",
       "context": "Orlando (Tilda Swinton) flieht nach dem ersten gesehenen Tod. Der höfisch-diplomatische Aufenthalt trifft damit auf die konkrete Gewalt, die Titel und Zeremonien zuvor auf Abstand hielten.",
-      "anchor": "Die Erfahrung des Sterbens beendet die Distanz zum Krieg.",
       "interest": "Die Erfahrung des Sterbens beendet die Distanz zum Krieg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Erfahrung des Sterbens beendet die Distanz zum Krieg."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Heathcote Williams spielt Nick Greene und den modernen Verleger.",
       "context": "Heathcote Williams spielt Nick Greene und den modernen Verleger. Derselbe Darsteller begegnet Orlandos (Tilda Swinton) Schreiben damit einmal als vernichtender Kritiker und später als anerkennender Leser.",
-      "anchor": "Die gleiche Besetzung trägt zwei gegensätzliche Literatururteile.",
       "interest": "Die gleiche Besetzung trägt zwei gegensätzliche Literatururteile.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gleiche Besetzung trägt zwei gegensätzliche Literatururteile."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Orlando (Tilda Swinton) hat am Schluss eine Tochter.",
       "context": "Orlando (Tilda Swinton) hat am Schluss eine Tochter. Die Suche nach einem Verlag und der gemeinsame Besuch des alten Besitzes verbinden das jahrhundertelange Leben mit einem gegenwärtigen Familienalltag.",
-      "anchor": "Das lange Einzelleben mündet in einen Alltag mit Tochter.",
       "interest": "Das lange Einzelleben mündet in einen Alltag mit Tochter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das lange Einzelleben mündet in einen Alltag mit Tochter."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "Der Film wurde 1992 erstmals veröffentlicht.",
       "context": "1992 wurde die Adaption in Venedig gezeigt. Virginia Woolfs Roman erschien 1928, 64 Jahre zuvor. Die Gegenwart am Filmende wurde gegenüber dem Buch bis in die frühen neunziger Jahre verschoben.",
-      "anchor": "Woolfs Roman von 1928 wurde 64 Jahre später, 1992, verfilmt.",
       "interest": "Woolfs Roman von 1928 wurde 64 Jahre später, 1992, verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Woolfs Roman von 1928 wurde 64 Jahre später, 1992, verfilmt."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Regie: Sally Potter.",
       "context": "Potter schrieb die Adaption und inszenierte sie. Die Hauptrolle wurde mit Tilda Swinton entwickelt; die Filmfassung verändert unter anderem die Gegenwart des Schlusses und gibt Orlando (Tilda Swinton) dort eine Tochter.",
-      "anchor": "Potter schrieb die Adaption und inszenierte sie.",
       "interest": "Potter schrieb die Adaption und inszenierte sie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Potter schrieb die Adaption und inszenierte sie."
     }
   ]
 }

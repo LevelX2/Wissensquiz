@@ -37,12 +37,12 @@
       ],
       "short": "Der angebotene Saloon ist nur eine Fassade.",
       "context": "Der angebotene Saloon ist nur eine Fassade. Santa Maria (Sky du Mont) täuscht Abahachi (Michael Herbig) und Ranger (Christian Tramitz) mit einem vermeintlichen Immobiliengeschäft. Der Betrug zerstört ihr Vorhaben und bringt das geliehene Geld in Gefahr. Aus dem Kauf wird deshalb der Ausgangspunkt der späteren Schatzsuche.",
-      "anchor": "Der große Saloon ist nur eine dünne Fassade.",
       "interest": "Der sichtbare Betrug erklärt den Beginn des Abenteuers.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der große Saloon ist nur eine dünne Fassade."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Die Schatzsuche soll die Schuld gegenüber den Schoschonen ausgleichen.",
       "context": "Die Schatzsuche soll die Schuld gegenüber den Schoschonen ausgleichen. Abahachi (Michael Herbig) und Ranger (Christian Tramitz) gelten nach Santa Marias (Sky du Mont) Betrug zudem als Mörder. Der Schatz ist deshalb kein beliebiges Luxusziel. Er verspricht einen Weg, aus einer zugleich finanziellen und lebensgefährlichen Lage herauszukommen.",
-      "anchor": "Der Schatz soll die Schuld und die Bedrohung beenden.",
       "interest": "Das Ziel besitzt eine konkrete Rettungsfunktion.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Schatz soll die Schuld und die Bedrohung beenden."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die Schatzkarte ist in vier Teile geteilt.",
       "context": "Die Schatzkarte ist in vier Teile geteilt. Abahachi (Michael Herbig) muss deshalb frühere Bekannte aufsuchen, die jeweils ein Stück besitzen. Die Verteilung macht aus einem einfachen Weg zum Schatz mehrere Begegnungen. Santa Maria (Sky du Mont) kann die Suchenden dabei verfolgen und die Teile schließlich für sich zusammenführen.",
-      "anchor": "Vier Kartenteile erzeugen mehrere Reiseziele.",
       "interest": "Ein Gegenstand bestimmt die Struktur der Suche.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Vier Kartenteile erzeugen mehrere Reiseziele."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Abahachi und Winnetouch sind Zwillingsbrüder, beide gespielt von Michael Herbig.",
       "context": "Abahachi und Winnetouch sind Zwillingsbrüder, beide gespielt von Michael Herbig. Die äußerliche Ähnlichkeit ermöglicht eine gezielte Verwechslung, ihre Lebensstile unterscheiden sich deutlich. Winnetouch kann den Bruder nachahmen, bleibt aber eine eigene Figur. Dadurch wird seine Hilfe im Fluchtplan verständlich, ohne einen übernatürlichen Wandel anzunehmen.",
-      "anchor": "Zwei Herbig-Rollen, zwei Brüder, eine nützliche Ähnlichkeit.",
       "interest": "Die Doppelrolle erklärt eine reale Verwechslung innerhalb der Handlung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Zwei Herbig-Rollen, zwei Brüder, eine nützliche Ähnlichkeit."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Uschi (Marie Bäumer) trägt ihren Kartenteil als Tätowierung auf dem Rücken.",
       "context": "Uschi (Marie Bäumer) trägt ihren Kartenteil als Tätowierung auf dem Rücken. Santa Maria (Sky du Mont) kann diesen Teil deshalb nicht wie ein loses Papier an sich nehmen. Die Aufteilung der Karte bekommt eine körperliche Variante: Die Trägerin muss mitreisen und wird dadurch zugleich zur Geisel des Schatzsuchers.",
-      "anchor": "Der tätowierte Kartenteil macht Uschi selbst zum notwendigen Wegweiser.",
       "interest": "Die Materialform verändert den Entführungsplan.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der tätowierte Kartenteil macht Uschi selbst zum notwendigen Wegweiser."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Hombre (Hilmi Sözer) klärt den Betrug auf und gibt das gestohlene Gold zurück.",
       "context": "Hombre (Hilmi Sözer) klärt den Betrug auf und gibt das gestohlene Gold zurück. Der Diamantschatz war in den vorherigen Ereignissen verloren gegangen. Die Rettung entsteht damit aus Wahrheit und Rückgabe der ursprünglichen Beute. Abahachi (Michael Herbig) und Ranger (Christian Tramitz) brauchen am Ende keine erfolgreiche persönliche Schatzbereicherung, um ihre Unschuld zu beweisen.",
-      "anchor": "Hombres Aussage und das alte Gold lösen den Konflikt.",
       "interest": "Die Auflösung unterscheidet Schatzverlust und Wiedergutmachung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Hombres Aussage und das alte Gold lösen den Konflikt."
     },
     {
       "code": "Y",
@@ -181,14 +181,14 @@
       ],
       "short": "Erste Veröffentlichung 2001; ursprüngliche Kinofassung, spätere XL-Erweiterung ist abgegrenzt.",
       "context": "2001 erschien „Der Schuh des Manitu“. Die zugrunde liegende Sketchwelt aus der „Bullyparade“ war seit 1997 im Fernsehen zu sehen, vier Jahre zuvor. Der Kinofilm erweitert die kurzen Westernparodien zu einer Schatzsuche. Der Zeitanker hält den Schritt vom Fernsehformat 1997 zum Kinofilm 2001 fest; die spätere XL-Fassung ist nicht die erste Veröffentlichung.",
-      "anchor": "Bullyparade ab 1997, Manitu-Kinofilm 2001: vier Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "tv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bullyparade ab 1997, Manitu-Kinofilm 2001: vier Jahre später."
     },
     {
       "code": "D",
@@ -207,14 +207,14 @@
       ],
       "short": "Michael Herbig führte Regie und spielt Abahachi sowie dessen Zwillingsbruder Winnetouch.",
       "context": "Michael Herbig führte Regie und spielt Abahachi sowie dessen Zwillingsbruder Winnetouch. Das Drehbuch entstand mit weiteren Autoren, darunter Rick Kavanian. Die Doppelrolle ist keine Verwandlung derselben Figur: Zwei Brüder können in der Handlung miteinander verwechselt werden. Die Regie setzt diese Verwandtschaft für Tarnung und Rettung ein.",
-      "anchor": "Herbig inszeniert und spielt zwei tatsächlich verschiedene Brüder.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "filmportal",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Herbig inszeniert und spielt zwei tatsächlich verschiedene Brüder."
     }
   ]
 }

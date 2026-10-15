@@ -8,7 +8,7 @@ import { validateBackup } from "../src/backupValidation";
 import { startRound, answer } from "../src/engine";
 import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
 
-const contents = packages
+const contents = packages.slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
   .filter(
     (p) =>
       !p.filename.endsWith("fragen_20261007.csv") &&
@@ -97,10 +97,10 @@ it("bewahrt alte Ereignisse und Lernstände bei beiden Ergänzungen und sichert 
   expect({ rounds: s.rounds, events: s.events, learning: s.learning }).toEqual(
     before,
   );
-  expect(s.questions).toHaveLength(8409);
+  expect(s.questions).toHaveLength(8408);
   expect(new Set(s.questions.map((q) => q.knowledgeId)).size).toBe(7866);
   expect(s.questions.filter((q) => q.metadata.person_id)).toHaveLength(1600);
-  expect(s.bundledQuestionIds).toHaveLength(8409);
-  expect(validateBackup(s).questions).toHaveLength(8409);
+  expect(s.bundledQuestionIds).toHaveLength(8408);
+  expect(validateBackup(s).questions).toHaveLength(8408);
   expect(JSON.parse(JSON.stringify(s))).toEqual(validateBackup(s));
 });

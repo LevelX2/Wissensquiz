@@ -36,13 +36,13 @@
       ],
       "short": "Aoyama (Ryo Ishibashi) sucht eine neue Partnerin.",
       "context": "Aoyama (Ryo Ishibashi) sucht eine neue Partnerin. Sein Freund Yoshikawa (Jun Kunimura) organisiert dafür eine angebliche Rollenbesetzung; das Machtgefälle der Auswahl wird für private Wünsche eingesetzt.",
-      "anchor": "Die vorgetäuschte Berufschance verdeckt eine private Partnersuche.",
       "interest": "Die vorgetäuschte Berufschance verdeckt eine private Partnersuche.",
       "sources": [
         "edition",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die vorgetäuschte Berufschance verdeckt eine private Partnersuche."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Sein Sohn Shigehiko (Tetsu Sawaki) ermutigt ihn.",
       "context": "Sein Sohn Shigehiko (Tetsu Sawaki) ermutigt ihn. Aoyama (Ryo Ishibashi) möchte nach Jahren der Witwerschaft wieder Nähe finden; der Wunsch ist verständlich, die spätere Auswahlmethode bleibt jedoch eine Täuschung.",
-      "anchor": "Der Sohn regt einen Neuanfang an, nicht die Täuschung der Bewerberinnen.",
       "interest": "Der Sohn regt einen Neuanfang an, nicht die Täuschung der Bewerberinnen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Sohn regt einen Neuanfang an, nicht die Täuschung der Bewerberinnen."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Yoshikawa (Jun Kunimura) kann die Referenzen nicht erreichen.",
       "context": "Yoshikawa (Jun Kunimura) kann die Referenzen nicht erreichen. Aoyama (Ryo Ishibashi) übergeht seine Warnung; das angenommene Bild einer stillen jungen Frau setzt sich gegen konkrete Unstimmigkeiten durch.",
-      "anchor": "Die unprüfbare Vergangenheit wird wegen der Verliebtheit übergangen.",
       "interest": "Die unprüfbare Vergangenheit wird wegen der Verliebtheit übergangen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die unprüfbare Vergangenheit wird wegen der Verliebtheit übergangen."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Der Tanzlehrer verbrannte Asamis Beine.",
       "context": "Der Tanzlehrer verbrannte Asamis Beine. Asami (Eihi Shiina) trägt damit eine Vorgeschichte von Misshandlung; der Film lässt das Leiden später neben ihrer eigenen Gewalt sichtbar werden.",
-      "anchor": "Die Narben geben der angedeuteten Vergangenheit einen konkreten Ursprung.",
       "interest": "Die Narben geben der angedeuteten Vergangenheit einen konkreten Ursprung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Narben geben der angedeuteten Vergangenheit einen konkreten Ursprung."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Aoyama (Ryo Ishibashi) bleibt bewusst und schmerzempfindlich.",
       "context": "Aoyama (Ryo Ishibashi) bleibt bewusst und schmerzempfindlich. Asami (Eihi Shiina) nimmt ihm die Muskelkontrolle; der Körper kann den Angriff wahrnehmen, aber nicht mehr darauf reagieren.",
-      "anchor": "Die Lähmung trennt vollständige Wahrnehmung von jeder Abwehr.",
       "interest": "Die Lähmung trennt vollständige Wahrnehmung von jeder Abwehr.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Lähmung trennt vollständige Wahrnehmung von jeder Abwehr."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Asami (Eihi Shiina) verlangt ausschließliche Liebe.",
       "context": "Asami (Eihi Shiina) verlangt ausschließliche Liebe. Aoyamas (Ryo Ishibashi) Bindung an Sohn und verstorbene Frau wird aus ihrer Perspektive zum Verrat; die private Partnersuche mündet in einen totalen Besitzanspruch.",
-      "anchor": "Der Anspruch auf ausschließliche Liebe schließt alle anderen Bindungen aus.",
       "interest": "Der Anspruch auf ausschließliche Liebe schließt alle anderen Bindungen aus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Anspruch auf ausschließliche Liebe schließt alle anderen Bindungen aus."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film wurde 1999 erstmals veröffentlicht.",
       "context": "1999 wurde die Adaption erstmals gezeigt. Murakamis Roman erschien 1997, zwei Jahre früher; der internationale Aufmerksamkeitsschub in Rotterdam und der japanische Kinostart folgten 2000, ein Jahr nach der Premiere.",
-      "anchor": "Murakamis Roman von 1997 wurde zwei Jahre später, 1999, erstmals als Film gezeigt.",
       "interest": "Murakamis Roman von 1997 wurde zwei Jahre später, 1999, erstmals als Film gezeigt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Murakamis Roman von 1997 wurde zwei Jahre später, 1999, erstmals als Film gezeigt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Regie: Takashi Miike.",
       "context": "Miike lässt die Handlung zunächst wie eine zurückhaltende neue Liebesgeschichte erscheinen. Der spätere Wechsel zu Gewalt und aufgebrochener Wahrnehmung macht auch die anfängliche Täuschung des Mannes im Rückblick bedrohlicher.",
-      "anchor": "Miike lässt die Handlung zunächst wie eine zurückhaltende neue Liebesgeschichte erscheinen.",
       "interest": "Miike lässt die Handlung zunächst wie eine zurückhaltende neue Liebesgeschichte erscheinen.",
       "sources": [
         "edition",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Miike lässt die Handlung zunächst wie eine zurückhaltende neue Liebesgeschichte erscheinen."
     }
   ]
 }

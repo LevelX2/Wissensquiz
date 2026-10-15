@@ -36,12 +36,12 @@
       ],
       "short": "Fay arbeitet an einer Telefonzentrale.",
       "context": "Fay arbeitet an einer Telefonzentrale. Während viele Einwohner beim Basketball sind, hört sie ungewöhnliche Signale und Anrufe; gerade ihre unscheinbare Vermittlungsarbeit macht sie zur ersten Beobachterin des Rätsels.",
-      "anchor": "Die Telefonvermittlung öffnet den Zugang zum rätselhaften Signal.",
       "interest": "Die Telefonvermittlung öffnet den Zugang zum rätselhaften Signal.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Telefonvermittlung öffnet den Zugang zum rätselhaften Signal."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Everett bittet über seinen Radiosender um Informationen.",
       "context": "Everett bittet über seinen Radiosender um Informationen. Der lokale Empfang verbindet einzelne Beobachtungen; die Suche entwickelt sich durch Stimmen und Geschichten, bevor die Figuren einen sichtbaren Beleg erhalten.",
-      "anchor": "Das Radio verbindet die verstreuten Zeugen.",
       "interest": "Das Radio verbindet die verstreuten Zeugen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Radio verbindet die verstreuten Zeugen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Billy vermutet, die gesellschaftliche Ausgrenzung der Arbeiter sollte ihre Glaubwürdigkeit schwächen.",
       "context": "Billy vermutet, die gesellschaftliche Ausgrenzung der Arbeiter sollte ihre Glaubwürdigkeit schwächen. Seine Erzählung verbindet das unbekannte Phänomen mit einer konkreten Machtfrage: Wer wird gehört, wenn er etwas Ungewöhnliches berichtet?",
-      "anchor": "Gesellschaftliche Ausgrenzung kann die Zeugenschaft unsichtbar machen.",
       "interest": "Gesellschaftliche Ausgrenzung kann die Zeugenschaft unsichtbar machen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gesellschaftliche Ausgrenzung kann die Zeugenschaft unsichtbar machen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Ein verstorbener Beteiligter hat Tonbänder der Bibliothek hinterlassen.",
       "context": "Ein verstorbener Beteiligter hat Tonbänder der Bibliothek hinterlassen. Fay (Sierra McCormick) holt sie; Everett (Jake Horowitz) kann das aktuelle Signal dadurch mit einer älteren dokumentierten Erfahrung verknüpfen.",
-      "anchor": "Das Bibliotheksband verbindet frühere und aktuelle Ereignisse.",
       "interest": "Das Bibliotheksband verbindet frühere und aktuelle Ereignisse.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Bibliotheksband verbindet frühere und aktuelle Ereignisse."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Beim Abspielen von Mabels Sprache geraten Gerald und Bertsie in Trance.",
       "context": "Beim Abspielen von Mabels Sprache geraten Gerald und Bertsie in Trance. Fay (Sierra McCormick) und Everett (Jake Horowitz) verlassen das Auto; die Aufnahme ist damit nicht nur Information, sondern selbst eine wirksame Gefahr.",
-      "anchor": "Die aufgezeichnete Aussage beeinflusst ihre Hörer körperlich.",
       "interest": "Die aufgezeichnete Aussage beeinflusst ihre Hörer körperlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die aufgezeichnete Aussage beeinflusst ihre Hörer körperlich."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Fay (Sierra McCormick), Everett (Jake Horowitz) und die kleine Maddie sind verschwunden.",
       "context": "Fay (Sierra McCormick), Everett (Jake Horowitz) und die kleine Maddie sind verschwunden. Die Einwohner finden nur Spuren und das Aufnahmegerät; das zuvor zentrale Sammeln von Stimmen endet mit einer auffälligen Abwesenheit seiner jungen Ermittler.",
-      "anchor": "Der aufgezeichneten Zeugenschaft fehlen am Schluss ihre Sammler.",
       "interest": "Der aufgezeichneten Zeugenschaft fehlen am Schluss ihre Sammler.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der aufgezeichneten Zeugenschaft fehlen am Schluss ihre Sammler."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2019 wurde der Film in Slamdance erstmals gezeigt, der breite Streamingstart folgte 2020.",
       "context": "2019 wurde der Film in Slamdance erstmals gezeigt, der breite Streamingstart folgte 2020. Gedreht wurde bereits im Herbst 2016. Drei Jahre liegen damit zwischen Dreh und Festivalpremiere; die Geschichte selbst ist bewusst in den 1950er Jahren angesiedelt.",
-      "anchor": "Dreh 2016, Festivalpremiere 2019: Drei Jahre vergehen bei einer Geschichte, die selbst in den 1950ern liegt.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Dreh 2016, Festivalpremiere 2019: Drei Jahre vergehen bei einer Geschichte, die selbst in den 1950ern liegt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett.",
       "context": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett. Das Drehbuch entwickelte er mit Craig W. Sanger; unter dem Pseudonym James Montague tritt er auch als Autor auf. Die Verbindung von Telefonzentrale und Radiosender macht Stimmen zum entscheidenden Recherchemittel.",
-      "anchor": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett.",
       "interest": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Andrew Patterson inszenierte Sierra McCormick und Jake Horowitz als Fay und Everett."
     }
   ]
 }

@@ -35,12 +35,12 @@
       ],
       "short": "Dan schreibt eine Zeitungskolumne mit Ratschlägen.",
       "context": "Dan schreibt eine Zeitungskolumne mit Ratschlägen. In seinem eigenen Familienleben gelingt ihm der Umgang mit Gefühlen weniger sicher. Die Geschichte stellt deshalb seine öffentliche beratende Rolle neben eine persönliche Erfahrung, die er zunächst nicht kontrollieren kann. Er muss den Maßstab, den er anderen empfiehlt, auch auf sein eigenes Verhalten anwenden.",
-      "anchor": "Dan gibt beruflich Ratschläge und gerät privat selbst in Schwierigkeiten.",
       "interest": "Den Beruf und seine ironische Funktion erkennen.",
       "sources": [
         "disney"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dan gibt beruflich Ratschläge und gerät privat selbst in Schwierigkeiten."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Dan und Marie begegnen sich in einer Buchhandlung.",
       "context": "Dan und Marie begegnen sich in einer Buchhandlung. Ihr Gespräch schafft rasch eine persönliche Nähe, bevor beide die Verbindung über seine Familie erkennen. Die erste Begegnung kann dadurch zunächst als eigenständiger Neubeginn erscheinen. Erst die Rückkehr ins Familienhaus gibt dem freundlichen Gespräch eine soziale Schwierigkeit, die beide später vor den anderen verbergen möchten.",
-      "anchor": "Die Buchhandlung bringt Dan und Marie zusammen, bevor die Familie dazwischenkommt.",
       "interest": "Den Ort der ersten Begegnung erkennen.",
       "sources": [
         "disney"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Buchhandlung bringt Dan und Marie zusammen, bevor die Familie dazwischenkommt."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Marie wird als Freundin von Dans Bruder vorgestellt.",
       "context": "Marie wird als Freundin von Dans Bruder vorgestellt. Die neue Anziehung betrifft damit eine bestehende familiäre Bindung. Beide verschweigen ihre vorherige Begegnung, um die Situation nicht sofort offenzulegen. Der Aufenthalt im gemeinsamen Haus macht diese Rücksichtnahme jedoch immer schwieriger, weil die Familie ihre Vertrautheit und ihr Verhalten fortwährend miterlebt.",
-      "anchor": "Die neue Bekanntschaft ist zugleich die Freundin seines Bruders.",
       "interest": "Den zentralen Beziehungskonflikt verstehen.",
       "sources": [
         "disney"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die neue Bekanntschaft ist zugleich die Freundin seines Bruders."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Die Familie trifft Dan und Marie in einer Bowlinghalle an und sieht ihre Nähe.",
       "context": "Die Familie trifft Dan und Marie in einer Bowlinghalle an und sieht ihre Nähe. Eine scheinbar private Verabredung wird dadurch zum öffentlichen Familienkonflikt. Das Freizeitspiel gehört zu derselben Alltagswelt, in der Dan zuvor versucht hatte, sich unauffällig zu verhalten. Die zufällige Begegnung entzieht beiden nun die Möglichkeit, ihre Situation weiter nur unter sich zu besprechen.",
-      "anchor": "Der Kuss in der Bowlinghalle macht die heimliche Nähe sichtbar.",
       "interest": "Die konkrete Entdeckungsszene erinnern.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Kuss in der Bowlinghalle macht die heimliche Nähe sichtbar."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Dan erkennt, dass er selbst innerhalb weniger Tage starke Gefühle entwickelt hat.",
       "context": "Dan erkennt, dass er selbst innerhalb weniger Tage starke Gefühle entwickelt hat. Genau diese kurze Zeitspanne hatte er bei seiner Tochter als unzureichend behandelt. Der Konflikt zwischen Vater und Tochter erhält dadurch einen gemeinsamen Erfahrungspunkt. Seine Ratgeberrolle muss sich verändern, weil das eigene Leben einen zuvor sicher vertretenen Einwand widerlegt.",
-      "anchor": "Dans Dreitagesliebe verändert seinen Blick auf Caras Gefühle.",
       "interest": "Eine eigene Erfahrung auf ein zuvor ausgesprochenes Urteil beziehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Dans Dreitagesliebe verändert seinen Blick auf Caras Gefühle."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Dan begleitet seinen Bruder auf der Gitarre und singt einen Teil in Maries Richtung.",
       "context": "Dan begleitet seinen Bruder auf der Gitarre und singt einen Teil in Maries Richtung. Die übrige Familie erlebt eine gemeinsame Nummer, während sein Verhalten zugleich ein persönliches Gefühl ausdrückt. Die musikalische Szene erlaubt damit eine indirekte Annäherung in einem Raum voller Menschen. Das Lied verbindet den familiären Auftritt mit der noch unausgesprochenen Liebessituation.",
-      "anchor": "Die gemeinsame Musik enthält Dans private Botschaft an Marie.",
       "interest": "Die zwei Ebenen eines musikalischen Auftritts erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gemeinsame Musik enthält Dans private Botschaft an Marie."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "US-Kinostart am 26. Oktober 2007.",
       "context": "„Dan – Mitten im Leben“ erschien 2007. Die Dreharbeiten fanden im November und Dezember 2006 in New Jersey und Rhode Island statt, also im vorherigen Kalenderjahr. Das Küstenhaus wurde als Treffpunkt der großen Familie gestaltet. Der Anker verbindet die Veröffentlichung mit dem konkreten Drehwinter, dessen Räume das ungewollt enge Zusammensein der Liebesgeschichte tragen.",
-      "anchor": "2006 der Küstendreh, 2007 das Familienwochenende im Kino: im folgenden Jahr.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2006 der Küstendreh, 2007 das Familienwochenende im Kino: im folgenden Jahr."
     },
     {
       "code": "D",
@@ -204,14 +204,14 @@
       ],
       "short": "Peter Hedges führte Regie und arbeitete mit Pierce Gardner am Drehbuch.",
       "context": "Peter Hedges führte Regie und arbeitete mit Pierce Gardner am Drehbuch. Steve Carell und Juliette Binoche spielen eine Begegnung, die sich in einer großen Familie kaum privat halten lässt. Der reale Küstenbau Riven Rock diente als Familienhaus. Die Zusammenarbeit nutzt diese gemeinsamen Räume, um höfliche Rücksichtnahme, Eifersucht und ungewollte Nähe nebeneinander sichtbar zu machen.",
-      "anchor": "Hedges und Gardner lassen die neue Liebe im vollen Familienhaus kaum ausweichen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "disney",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Hedges und Gardner lassen die neue Liebe im vollen Familienhaus kaum ausweichen."
     }
   ]
 }

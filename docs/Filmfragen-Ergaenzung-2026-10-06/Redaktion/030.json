@@ -30,13 +30,13 @@
       ],
       "short": "Lorraine wird nach Berlin geschickt.",
       "context": "Die Mission spielt kurz vor dem Fall der Berliner Mauer. Lorraine soll den Mord an einem Kollegen untersuchen und die kompromittierende Agentenliste zurückholen. Die Teilung der Stadt macht Übergänge, gegnerische Dienste und unsichere Kontakte zu unmittelbaren Bestandteilen ihres Auftrags.",
-      "anchor": "Lorraines Mission führt ins Berlin kurz vor dem Mauerfall.",
       "interest": "Der Ort verknüpft den Agentenauftrag mit dem politischen Umfeld.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Lorraines Mission führt ins Berlin kurz vor dem Mauerfall."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Die Liste befindet sich auf Mikrofilm in einer Uhr.",
       "context": "Nach dem Mord an James Gascoigne (Sam Hargrave) gerät seine Uhr in den Besitz eines gegnerischen Agenten. Ihr Inhalt ist gefährlich, weil er Identitäten aktiver Nachrichtendienstmitarbeiter offenlegen kann. Lorraine (Charlize Theron) verfolgt deshalb einen kleinen Gegenstand, dessen Besitz den Konflikt zwischen mehreren Diensten verändert.",
-      "anchor": "Eine unscheinbare Uhr birgt die gefährliche Agentenliste.",
       "interest": "Das Versteck erklärt den konkreten Gegenstand der Suche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine unscheinbare Uhr birgt die gefährliche Agentenliste."
     },
     {
       "code": "M1",
@@ -79,12 +79,12 @@
       ],
       "short": "Spyglass kennt den Inhalt der Liste auswendig.",
       "context": "Spyglass ist der Stasi-Mitarbeiter, der die Liste weitergegeben hat. Lorraine (Charlize Theron) will ihn mit seiner Familie in Sicherheit bringen, weil sein Wissen auch nach dem Verlust des Mikrofilms genutzt werden kann. Der Schutz eines Menschen wird damit zu einer zweiten Form der Informationssicherung.",
-      "anchor": "Spyglass trägt die Liste im Gedächtnis und wird selbst zum Ziel.",
       "interest": "Seine Fähigkeit erklärt, weshalb die Rettung neben der Gegenstandssuche wichtig ist.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Spyglass trägt die Liste im Gedächtnis und wird selbst zum Ziel."
     },
     {
       "code": "M2",
@@ -103,12 +103,12 @@
       ],
       "short": "Percival gibt den Plan weiter und verwundet Spyglass.",
       "context": "Lorraine (Charlize Theron) plant die Ausreise mit Percival, ihrem vermeintlichen Partner. Er informiert jedoch Bremovych (Roland Møller) und greift Spyglass während der Durchführung an. Dadurch liegt die Gefahr nicht nur bei offen erkennbaren Gegnern, sondern auch in der Zusammenarbeit innerhalb des eigenen Netzwerks.",
-      "anchor": "Der vermeintliche Helfer Percival verrät die Rettungsroute.",
       "interest": "Die Handlung konkretisiert das Misstrauen zwischen den Agenten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der vermeintliche Helfer Percival verrät die Rettungsroute."
     },
     {
       "code": "S1",
@@ -127,12 +127,12 @@
       ],
       "short": "Delphines Fotos zeigen Percivals Treffen mit Bremovych.",
       "context": "Delphine (Sofia Boutella) hat das geheime Treffen beobachtet und fotografiert. Nach ihrer Ermordung entdeckt Lorraine (Charlize Theron) die Bilder und erkennt Percivals Beteiligung. Später setzt sie die Fotos im Abschlussgespräch zusammen mit bearbeiteten Tonaufnahmen ein, um eine bestimmte Deutung der Ereignisse durchzusetzen.",
-      "anchor": "Delphines Fotos belegen Percivals geheimen Kontakt zu Bremovych.",
       "interest": "Die Bilder verbinden die persönliche Beziehung mit der späteren Beweisführung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Delphines Fotos belegen Percivals geheimen Kontakt zu Bremovych."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "Lorraine arbeitet tatsächlich für die CIA.",
       "context": "Lorraine wird zunächst als MI6-Agentin eingeführt und später von Bremovych (Roland Møller) als Satchel angesprochen. Sie erklärt, den KGB mit Fehlinformationen manipuliert zu haben. Die abschließende Rückreise mit Kurzfeld (John Goodman) in die USA ergänzt diese Tarnungen um ihre tatsächliche amerikanische Verbindung.",
-      "anchor": "Hinter MI6-Auftrag und Satchel-Tarnung steht Lorraines CIA-Verbindung.",
       "interest": "Die letzte Enthüllung verändert das Verständnis ihrer zuvor gezeigten Rollen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Hinter MI6-Auftrag und Satchel-Tarnung steht Lorraines CIA-Verbindung."
     },
     {
       "code": "Y",
@@ -175,12 +175,12 @@
       ],
       "short": "Das erste Veröffentlichungsjahr ist 2017.",
       "context": "Atomic Blonde wurde 2017 erstmals gezeigt, spielt aber im Berlin des Jahres 1989 kurz vor dem Mauerfall. Zwischen historischem Handlungshintergrund und Filmveröffentlichung liegen achtundzwanzig Jahre. Die Musik und die geteilte Stadt erzeugen die Atmosphäre der früheren Zeit, ohne dass dies das Veröffentlichungsjahr wäre.",
-      "anchor": "Die Handlung führt nach Berlin 1989; der Film erschien 2017, 28 Jahre später.",
       "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Handlung führt nach Berlin 1989; der Film erschien 2017, 28 Jahre später."
     },
     {
       "code": "D",
@@ -199,13 +199,13 @@
       ],
       "short": "Die gesuchte Regie stammt von David Leitch.",
       "context": "David Leitch inszenierte Atomic Blonde; Charlize Theron spielt Lorraine und produzierte mit. Die Vorlage ist die Graphic Novel The Coldest City von Antony Johnston und Sam Hart. Die Regiezuordnung verbindet so die körperlich geprägte Action mit einer konkreten Comicadaption und unterscheidet sie von Hauptrolle und Vorlage.",
-      "anchor": "David Leitch inszenierte diese Filmfassung.",
       "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "David Leitch inszenierte diese Filmfassung."
     }
   ]
 }

@@ -44,12 +44,12 @@
       ],
       "short": "Gabe Walker ist ein erfahrener Bergretter.",
       "context": "Gabe Walker (Sylvester Stallone) kennt Klettertechnik und Gelände aus der Bergrettung. Eine Gruppe bewaffneter Verbrecher benötigt diese Erfahrung, um ihre verlorene Beute zu finden. Seine ursprüngliche Fähigkeit, anderen zu helfen, wird damit zunächst gegen ihn verwendet. Erst die eigene Gegenwehr verwandelt die Ortskenntnis in einen Vorteil gegenüber den besser bewaffneten Gegnern.",
-      "anchor": "Gabes Rettungswissen wird erst ausgenutzt und dann zum Vorteil.",
       "interest": "Gabes Rettungswissen wird erst ausgenutzt und dann zum Vorteil.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gabes Rettungswissen wird erst ausgenutzt und dann zum Vorteil."
     },
     {
       "code": "L2",
@@ -68,12 +68,12 @@
       ],
       "short": "Der gescheiterte Luftüberfall verstreut die Geldkoffer.",
       "context": "Eric Qualen (John Lithgow) plant mit einem Verräter aus der Finanzbehörde einen Überfall auf einen Geldtransport. Beim Transfer zwischen Flugzeugen läuft der Plan schief; die Koffer landen an verschiedenen Stellen im Gebirge. Daraus folgt die eigentliche Suche. Die Gangster verfügen über Ortungstechnik, benötigen aber Menschen, die die steilen Wege dorthin bewältigen können.",
-      "anchor": "Der Geldraub gelingt nicht wie geplant und erzwingt eine Bergsuche.",
       "interest": "Der Geldraub gelingt nicht wie geplant und erzwingt eine Bergsuche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Geldraub gelingt nicht wie geplant und erzwingt eine Bergsuche."
     },
     {
       "code": "M1",
@@ -92,12 +92,12 @@
       ],
       "short": "Sarahs Tod macht aus früheren Kollegen entfremdete Freunde.",
       "context": "Sarah (Michelle Joyner), Hals (Michael Rooker) Freundin, stürzt trotz Gabes (Sylvester Stallone) Rettungsversuch in den Tod. Hal macht Gabe dafür verantwortlich, während Gabe selbst Schuld empfindet und den Dienst verlässt. Die spätere gemeinsame Gefahr trifft deshalb kein unbelastetes Team. Eine erfolgreiche Zusammenarbeit muss neben den Angreifern auch den Bruch ihrer früheren Beziehung überwinden.",
-      "anchor": "Die Bergsuche verlangt Zusammenarbeit trotz einer gemeinsamen Verlustgeschichte.",
       "interest": "Die Bergsuche verlangt Zusammenarbeit trotz einer gemeinsamen Verlustgeschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Bergsuche verlangt Zusammenarbeit trotz einer gemeinsamen Verlustgeschichte."
     },
     {
       "code": "M2",
@@ -116,12 +116,12 @@
       ],
       "short": "Das gestohlene Geld wird zu Brennstoff.",
       "context": "Gabe Walker (Sylvester Stallone) und Jessie Deighan (Janine Turner) erreichen einen Koffer vor den Verfolgern. In der Kälte ist sein Inhalt für sie nicht zunächst ein Vermögen, sondern verfügbares Brennmaterial. Die Szene verändert den Wertmaßstab: Was die Verbrecher unbedingt besitzen wollen, wird im Überlebenskampf ohne Rücksicht auf seinen Geldwert verbrannt.",
-      "anchor": "In der Kälte zählt Wärme mehr als der Nennwert der Scheine.",
       "interest": "In der Kälte zählt Wärme mehr als der Nennwert der Scheine.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "In der Kälte zählt Wärme mehr als der Nennwert der Scheine."
     },
     {
       "code": "S1",
@@ -140,12 +140,12 @@
       ],
       "short": "Ein Kaninchen trägt den Sender statt des Geldkoffers.",
       "context": "Travers (Rex Linn) verlässt sich bei der Beutesuche auf technische Ortung. Gabe Walker (Sylvester Stallone) trennt den Sender von dessen erwarteter Bedeutung, indem er ihn an einem Tier befestigt. Der Trick macht aus korrekten Positionsdaten eine falsche Schlussfolgerung. Der Gegner verfolgt nicht ein defektes Signal, sondern interpretiert ein weiterhin funktionierendes Gerät falsch.",
-      "anchor": "Das Signal stimmt, aber sein vermeintlicher Inhalt stimmt nicht.",
       "interest": "Das Signal stimmt, aber sein vermeintlicher Inhalt stimmt nicht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Signal stimmt, aber sein vermeintlicher Inhalt stimmt nicht."
     },
     {
       "code": "S2",
@@ -164,12 +164,12 @@
       ],
       "short": "Qualen macht sich zum einzigen möglichen Piloten.",
       "context": "Als Travers (Rex Linn) die Zusammenarbeit aufkündigen möchte, tötet Qualen (John Lithgow) Kristel (Caroline Goodall). Dadurch soll nur noch er selbst den Hubschrauber fliegen können. Die Tat richtet sich gegen eine Verbündete und zeigt, wie er Kontrolle herstellt: Die Aussicht auf Flucht wird zum Druckmittel, das selbst die eigenen Leute an ihn bindet.",
-      "anchor": "Qualen macht die Fluchtmöglichkeit zum persönlichen Machtmittel.",
       "interest": "Qualen macht die Fluchtmöglichkeit zum persönlichen Machtmittel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Qualen macht die Fluchtmöglichkeit zum persönlichen Machtmittel."
     },
     {
       "code": "Y",
@@ -188,13 +188,13 @@
       ],
       "short": "Die Erstveröffentlichung war 1993.",
       "context": "Der Film wurde beim Festival in Cannes als Sondervorstellung gezeigt, bevor er in die amerikanischen Kinos kam. Ein Festivalauftritt bedeutet dabei nicht automatisch eine Teilnahme am Wettbewerb um die Goldene Palme. Das Veröffentlichungsjahr bezeichnet die Stallone-Fassung dieses Bergabenteuers und hält sie von späteren neuen Produktionen mit demselben Grundtitel auseinander.",
-      "anchor": "Die Sondervorstellung in Cannes gehört ins Jahr 1993.",
       "interest": "Die Sondervorstellung in Cannes gehört ins Jahr 1993.",
       "sources": [
         "cannes",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Sondervorstellung in Cannes gehört ins Jahr 1993."
     },
     {
       "code": "D",
@@ -213,12 +213,12 @@
       ],
       "short": "Renny Harlin führte Regie.",
       "context": "Renny Harlin inszeniert die Bergrettungs- und Verfolgungsszenen. Michael France und Sylvester Stallone sind für das Drehbuch ausgewiesen; Stallone übernimmt zugleich Gabe Walker. Diese Kombination darf den Credit nicht verwischen. Schauspiel, Mitarbeit am Text und Regie sind unterscheidbare Aufgaben, selbst wenn eine prominente Hauptfigur den gesamten Film stark prägt.",
-      "anchor": "Harlin inszeniert den Text von France und Stallone.",
       "interest": "Harlin inszeniert den Text von France und Stallone.",
       "sources": [
         "cannes"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Harlin inszeniert den Text von France und Stallone."
     }
   ]
 }

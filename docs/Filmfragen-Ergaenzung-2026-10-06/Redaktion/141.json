@@ -33,13 +33,13 @@
       ],
       "short": "Sally und Brian lernen sich im Berlin der frühen 1930 er-Jahre kennen.",
       "context": "Sally Bowles (Liza Minnelli) arbeitet im Kit Kat Klub. Brian Roberts (Michael York) zieht in dieselbe Pension und verdient Geld mit Englischunterricht. Die private Begegnung findet in einer Stadt statt, deren politisches Klima immer bedrohlicher wird.",
-      "anchor": "Eine Berliner Pension verbindet Bühnenleben und politischen Alltag.",
       "interest": "Eine Berliner Pension verbindet Bühnenleben und politischen Alltag.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Eine Berliner Pension verbindet Bühnenleben und politischen Alltag."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Brian erteilt Englischunterricht.",
       "context": "Brian Roberts (Michael York) ist ein britischer Akademiker und Schriftsteller. Seine Schüler verbinden ihn mit weiteren Figuren außerhalb von Sallys Bühnenwelt. Die bescheidene Erwerbsarbeit kontrastiert mit den luxuriösen Ausflügen, die Baron Maximilian von Heune (Helmut Griem) ermöglicht.",
-      "anchor": "Brians Unterricht führt vom Pensionszimmer in andere Berliner Milieus.",
       "interest": "Brians Unterricht führt vom Pensionszimmer in andere Berliner Milieus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Brians Unterricht führt vom Pensionszimmer in andere Berliner Milieus."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Fast alle Nummern sind Auftritte im Kit Kat Klub.",
       "context": "Sally Bowles (Liza Minnelli) und der Conférencier (Joel Grey) singen vor einem Publikum innerhalb der Geschichte. Die Musik ist also für die Figuren hörbar. Fosse verbindet die inszenierten Clubnummern durch Montage und Themen mit dem Leben außerhalb der Bühne.",
-      "anchor": "Die Clubbühne macht das Singen zum Ereignis innerhalb der Handlung.",
       "interest": "Die Clubbühne macht das Singen zum Ereignis innerhalb der Handlung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Clubbühne macht das Singen zum Ereignis innerhalb der Handlung."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Sally entscheidet sich gegen den geplanten gemeinsamen Neuanfang.",
       "context": "Brian Roberts (Michael York) bietet ihr Ehe und ein Leben in Cambridge an. Sally Bowles (Liza Minnelli) fürchtet jedoch, dort als unglückliche Professorenfrau zu enden. Sie trifft die Entscheidung ohne vorherige Absprache; nach ihrer Aussprache fährt Brian allein nach England.",
-      "anchor": "Sally hält an ihrem Bühnenleben fest und beendet den Familienplan.",
       "interest": "Sally hält an ihrem Bühnenleben fest und beendet den Familienplan.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sally hält an ihrem Bühnenleben fest und beendet den Familienplan."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Der Gesang mobilisiert die Gäste; die Hitlerjugend-Uniform wird sichtbar.",
       "context": "Die Szene beginnt mit Natur- und Jugendbildern. Erst dann wird die Uniform des jungen Sängers erkennbar, und fast alle Gäste stehen singend auf. Brian Roberts (Michael York) fragt Max (Helmut Griem), ob er diese Bewegung noch immer für kontrollierbar hält.",
-      "anchor": "Aus beschaulichem Gesang entsteht sichtbare politische Gefolgschaft.",
       "interest": "Aus beschaulichem Gesang entsteht sichtbare politische Gefolgschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Aus beschaulichem Gesang entsteht sichtbare politische Gefolgschaft."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Die nationalsozialistischen Uniformen sind im Publikum angekommen.",
       "context": "Am Anfang wird ein Nationalsozialist aus dem Club geworfen. Im verzerrten Spiegelbild am Ende sind Uniformierte auf den bevorzugten Plätzen sichtbar. Die Veränderung des Publikums zeigt, dass die Bedrohung auch den scheinbaren Schutzraum der Unterhaltung durchdrungen hat.",
-      "anchor": "Der Spiegel des Clubs zeigt die veränderte Macht im Saal.",
       "interest": "Der Spiegel des Clubs zeigt die veränderte Macht im Saal.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Spiegel des Clubs zeigt die veränderte Macht im Saal."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1972.",
       "context": "Cabaret erschien 1972. Seine Handlung beginnt im Berlin des Jahres 1931, also 41 Jahre vor der Veröffentlichung. Der Kontrast zwischen Vergnügungsbetrieb und wachsender nationalsozialistischer Macht gehört damit zur erzählten Weimarer Endphase, während der Film mit dem Blick einer späteren Generation auf sie zurückkommt.",
-      "anchor": "Berlin 1931, Cabaret 1972: 41 Jahre vom Schauplatz zur Filmadaption.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Berlin 1931, Cabaret 1972: 41 Jahre vom Schauplatz zur Filmadaption.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Berlin 1931, Cabaret 1972: 41 Jahre vom Schauplatz zur Filmadaption."
     },
     {
       "code": "D",
@@ -203,14 +203,14 @@
       ],
       "short": "Der Regiecredit lautet Bob Fosse.",
       "context": "Bob Fosse führte Regie und choreografierte. Er verlegte fast alle Gesangsnummern in den Kit Kat Klub. Dadurch wirken die Bühnenauftritte wie Kommentare zur Handlung, während die Figuren außerhalb des Clubs überwiegend sprechen. Der Film verändert so gezielt die Form seiner Broadwayvorlage.",
-      "anchor": "Bob Fosse: Er verlegte fast alle Gesangsnummern in den Kit Kat Klub.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bob Fosse: Er verlegte fast alle Gesangsnummern in den Kit Kat Klub."
     }
   ]
 }

@@ -42,13 +42,13 @@
       ],
       "short": "Hanna (Saoirse Ronan) lebt mit Erik (Eric Bana) im Norden Finnlands.",
       "context": "Hanna (Saoirse Ronan) lebt mit Erik (Eric Bana) im Norden Finnlands. Ihre spätere Reise führt aus dieser vertrauten Umgebung in eine Welt, deren Alltagsreize sie kaum kennt.",
-      "anchor": "Die finnische Abgeschiedenheit steht am Anfang der Begegnung mit der Außenwelt.",
       "interest": "Die finnische Abgeschiedenheit steht am Anfang der Begegnung mit der Außenwelt.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die finnische Abgeschiedenheit steht am Anfang der Begegnung mit der Außenwelt."
     },
     {
       "code": "L2",
@@ -67,12 +67,12 @@
       ],
       "short": "Hanna (Saoirse Ronan) aktiviert den von Erik (Eric Bana) bereitgelegten Sender.",
       "context": "Hanna (Saoirse Ronan) aktiviert den von Erik (Eric Bana) bereitgelegten Sender. Erik hatte ihr die Entscheidung überlassen; das Signal lässt die bisherige Vorbereitung in eine tatsächliche Verfolgung umschlagen.",
-      "anchor": "Die eigene Senderentscheidung ruft den vorbereiteten Konflikt herbei.",
       "interest": "Die eigene Senderentscheidung ruft den vorbereiteten Konflikt herbei.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die eigene Senderentscheidung ruft den vorbereiteten Konflikt herbei."
     },
     {
       "code": "M1",
@@ -91,12 +91,12 @@
       ],
       "short": "Marissa (Cate Blanchett) schickt eine Stellvertreterin (Michelle Dockery) zum Verhör.",
       "context": "Marissa (Cate Blanchett) schickt eine Stellvertreterin (Michelle Dockery) zum Verhör. Hanna (Saoirse Ronan) glaubt zunächst, die richtige Gegnerin erreicht zu haben; die Täuschung verlängert den Konflikt trotz ihrer erfolgreichen Flucht.",
-      "anchor": "Der besiegte Verhörgegner ersetzt die eigentliche Zielperson.",
       "interest": "Der besiegte Verhörgegner ersetzt die eigentliche Zielperson.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der besiegte Verhörgegner ersetzt die eigentliche Zielperson."
     },
     {
       "code": "M2",
@@ -115,12 +115,12 @@
       ],
       "short": "Hanna (Saoirse Ronan) schließt sich der reisenden Familie von Rachel (Olivia Williams) und Sebastian (Jason Flemyng) an.",
       "context": "Hanna (Saoirse Ronan) schließt sich der reisenden Familie von Rachel (Olivia Williams) und Sebastian (Jason Flemyng) an. Im Campingfahrzeug erreicht sie die Fähre; die Freundschaft mit Sophie (Jessica Barden) verbindet den Fluchtweg mit einer ersten gleichaltrigen Nähe.",
-      "anchor": "Die versteckte Mitreise bringt Flucht und erste Alltagsfreundschaft zusammen.",
       "interest": "Die versteckte Mitreise bringt Flucht und erste Alltagsfreundschaft zusammen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die versteckte Mitreise bringt Flucht und erste Alltagsfreundschaft zusammen."
     },
     {
       "code": "S1",
@@ -139,12 +139,12 @@
       ],
       "short": "Erik (Eric Bana) erklärt Hanna (Saoirse Ronan), dass er werdende Mütter für ein CIA-Programm anwarb.",
       "context": "Erik (Eric Bana) erklärt Hanna (Saoirse Ronan), dass er werdende Mütter für ein CIA-Programm anwarb. Er ist nicht ihr biologischer Vater; seine Schutzbeziehung entstand aus der Flucht vor der Beseitigung der Versuchspersonen.",
-      "anchor": "Die genetische Vorgeschichte trennt biologische Herkunft und gelebte Vaterbindung.",
       "interest": "Die genetische Vorgeschichte trennt biologische Herkunft und gelebte Vaterbindung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die genetische Vorgeschichte trennt biologische Herkunft und gelebte Vaterbindung."
     },
     {
       "code": "S2",
@@ -163,12 +163,12 @@
       ],
       "short": "Hanna (Saoirse Ronan) verletzt Marissa (Cate Blanchett) zunächst mit einem Pfeil.",
       "context": "Hanna (Saoirse Ronan) verletzt Marissa (Cate Blanchett) zunächst mit einem Pfeil. Die anschließenden Schüsse greifen den Ablauf der anfänglichen Hirschjagd auf; das Jagdwissen kehrt in einer menschlichen Konfrontation wieder.",
-      "anchor": "Der Abschluss gegen Marissa wiederholt die zu Beginn gezeigte Hirschjagd.",
       "interest": "Der Abschluss gegen Marissa wiederholt die zu Beginn gezeigte Hirschjagd.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Abschluss gegen Marissa wiederholt die zu Beginn gezeigte Hirschjagd."
     },
     {
       "code": "Y",
@@ -187,13 +187,13 @@
       ],
       "short": "Der Film wurde 2011 erstmals veröffentlicht.",
       "context": "2011 erschien Wrights Film. Die Serienadaption begann 2019, acht Jahre später, mit einer anderen Besetzung; David Farr, bereits Mitautor des Filmdrehbuchs, arbeitete auch an der neuen Serienfassung.",
-      "anchor": "Hanna erschien 2011; die Serienadaption mit anderer Besetzung begann 2019, acht Jahre später.",
       "interest": "Hanna erschien 2011; die Serienadaption mit anderer Besetzung begann 2019, acht Jahre später.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hanna erschien 2011; die Serienadaption mit anderer Besetzung begann 2019, acht Jahre später."
     },
     {
       "code": "D",
@@ -212,13 +212,13 @@
       ],
       "short": "Regie: Joe Wright.",
       "context": "Wright arbeitete für den elektronischen Score mit den Chemical Brothers, die er seit seinen Clubjahren kannte. Musik und Alltagsgeräusche wurden bewusst verbunden; die fremde Außenwelt erreicht Hanna dadurch auch als neue und überwältigende Klangerfahrung.",
-      "anchor": "Wright und die Chemical Brothers verbinden die erste Außenwelterfahrung mit Musik und Geräuschen.",
       "interest": "Wright und die Chemical Brothers verbinden die erste Außenwelterfahrung mit Musik und Geräuschen.",
       "sources": [
         "studio",
         "musik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wright und die Chemical Brothers verbinden die erste Außenwelterfahrung mit Musik und Geräuschen."
     }
   ]
 }

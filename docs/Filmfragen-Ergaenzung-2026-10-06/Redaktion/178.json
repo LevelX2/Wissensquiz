@@ -36,12 +36,12 @@
       ],
       "short": "Eva arbeitet als Masseurin.",
       "context": "Eva arbeitet als Masseurin. Eine Kundin wird zur Freundin; dadurch erhält Eva intime Erzählungen, die ihre neue Liebesbeziehung beeinflussen, bevor sie den Zusammenhang der beteiligten Menschen offenlegt.",
-      "anchor": "Evas Arbeit öffnet ihr einen problematischen privaten Wissenszugang.",
       "interest": "Evas Arbeit öffnet ihr einen problematischen privaten Wissenszugang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Evas Arbeit öffnet ihr einen problematischen privaten Wissenszugang."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Die Töchter beider ziehen zum Studium fort.",
       "context": "Die Töchter beider ziehen zum Studium fort. Eva und Albert befinden sich dadurch in einer ähnlichen Lebensphase; ihre Annäherung steht neben der Frage, wie sie mit dem leerer werdenden Familienalltag umgehen.",
-      "anchor": "Die neue Beziehung beginnt während des familiären Loslassens.",
       "interest": "Die neue Beziehung beginnt während des familiären Loslassens.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die neue Beziehung beginnt während des familiären Loslassens."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Marianne (Catherine Keener) ist Alberts (James Gandolfini) Exfrau.",
       "context": "Marianne (Catherine Keener) ist Alberts (James Gandolfini) Exfrau. Eva hatte beide unabhängig kennengelernt und verschweigt nun den Zusammenhang; ihre scheinbar harmlosen Gespräche bekommen damit eine verdeckte zweite Funktion.",
-      "anchor": "Die neue Freundin ist die Exfrau des neuen Partners.",
       "interest": "Die neue Freundin ist die Exfrau des neuen Partners.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die neue Freundin ist die Exfrau des neuen Partners."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Eva benutzt Mariannes Erfahrungen als Vorabprüfung von Albert (James Gandolfini).",
       "context": "Eva benutzt Mariannes Erfahrungen als Vorabprüfung von Albert (James Gandolfini). Statt ihrer eigenen Begegnung zu vertrauen, übernimmt sie Kritik aus der gescheiterten früheren Ehe. Der vermeintliche Schutz schadet ihrer tatsächlichen Beziehung.",
-      "anchor": "Fremde Beziehungserfahrung verdrängt Evas eigene Wahrnehmung.",
       "interest": "Fremde Beziehungserfahrung verdrängt Evas eigene Wahrnehmung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Fremde Beziehungserfahrung verdrängt Evas eigene Wahrnehmung."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Albert entdeckt, dass Eva (Julia Louis-Dreyfus) seine Exfrau kennt und das verschwiegen hat.",
       "context": "Albert entdeckt, dass Eva (Julia Louis-Dreyfus) seine Exfrau kennt und das verschwiegen hat. Die Verletzung betrifft das verlorene Vertrauen: Seine neue Partnerin hat ihn heimlich durch die Perspektive der alten Ehe beurteilt.",
-      "anchor": "Die verdeckte Vergleichsstrategie zerstört Vertrauen.",
       "interest": "Die verdeckte Vergleichsstrategie zerstört Vertrauen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die verdeckte Vergleichsstrategie zerstört Vertrauen."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Eva (Julia Louis-Dreyfus) hält später vor Alberts Haus; Albert (James Gandolfini) setzt sich zu ihr auf die Veranda.",
       "context": "Eva (Julia Louis-Dreyfus) hält später vor Alberts Haus; Albert (James Gandolfini) setzt sich zu ihr auf die Veranda. Das Gespräch erinnert an ihren Anfang und ermöglicht neue Nähe ohne eine große öffentliche Versöhnungsinszenierung.",
-      "anchor": "Ein ruhiges Verandagespräch öffnet eine zweite Chance.",
       "interest": "Ein ruhiges Verandagespräch öffnet eine zweite Chance.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein ruhiges Verandagespräch öffnet eine zweite Chance."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2013 wurde der Film in Toronto erstmals gezeigt.",
       "context": "2013 wurde der Film veröffentlicht, nachdem James Gandolfini bereits gestorben war. Der Dreh war noch zu seinen Lebzeiten abgeschlossen; die Premiere machte seine Darstellung Alberts zu einem postum gesehenen Werk. Holofcener widmete den Film ihrem Hauptdarsteller.",
-      "anchor": "2013: Gandolfini stirbt nach dem Dreh und vor der Veröffentlichung von Enough Said; der Film wird ihm gewidmet.",
       "interest": "Die Reihenfolge unterscheidet die tatsächlich gespielte Rolle von ihrer postumen öffentlichen Wahrnehmung.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2013: Gandolfini stirbt nach dem Dreh und vor der Veröffentlichung von Enough Said; der Film wird ihm gewidmet."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Nicole Holofcener schrieb und inszenierte den Film.",
       "context": "Nicole Holofcener schrieb und inszenierte den Film. Julia Louis-Dreyfus spielt Eva, James Gandolfini Albert und Catherine Keener dessen Exfrau Marianne. Die Nähe zur neuen Freundin wird zum gefährlichen Filter für Evas eigene Erfahrung mit Albert.",
-      "anchor": "Nicole Holofcener schrieb und inszenierte den Film.",
       "interest": "Nicole Holofcener schrieb und inszenierte den Film.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Nicole Holofcener schrieb und inszenierte den Film."
     }
   ]
 }

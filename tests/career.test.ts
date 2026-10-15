@@ -44,7 +44,6 @@ function question(
     correctId: "a",
     explanation: "Erklärung",
     context: "",
-    anchor: "",
     sources: [],
     tags: [],
     badgeTags: [],

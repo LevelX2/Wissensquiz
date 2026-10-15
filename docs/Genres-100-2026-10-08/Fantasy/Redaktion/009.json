@@ -33,11 +33,11 @@
       ],
       "short": "Die verwitwete Mrs. Brisby ist eine Feldmaus.",
       "context": "Mrs. Brisby (Originalstimme Elizabeth Hartman) lebt mit ihren Kindern auf einem Bauernhof. Als Feldmaus ist sie klein genug, um sich zwischen menschlichen Geräten und Gebäuden zu bewegen, bleibt dabei jedoch vielen Gefahren ausgesetzt. Ihre Rettungsaufgabe beginnt im eigenen Haushalt. Der Film erweitert diese alltägliche Sorge später um die ungewöhnliche Gemeinschaft der Ratten, deren Fähigkeiten weit über das normale Tierleben hinausgehen.",
-      "anchor": "Eine kleine Feldmaus trägt eine große Rettungsaufgabe.",
       "interest": "Verankert die Hauptfigur in der Tierwelt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Eine kleine Feldmaus trägt eine große Rettungsaufgabe."
     },
     {
       "code": "L2",
@@ -56,13 +56,13 @@
       ],
       "short": "Die Lungenentzündung ihres Sohnes verhindert einen sofortigen Umzug.",
       "context": "Mrs. Brisby (Originalstimme Elizabeth Hartman) muss ihre Kinder vor dem bevorstehenden Pflügen schützen. Ihr Sohn Timothy (Originalstimme Ina Fried, als Ian Fried kreditiert) ist jedoch an einer Lungenentzündung erkrankt und benötigt Ruhe und Wärme. Das sichere Verlassen des Feldes ist deshalb gerade für ihn gefährlich. Aus diesem Widerspruch entsteht die eigentliche Rettungsaufgabe: Die Mutter muss Hilfe finden, die nicht nur die gesunden Familienmitglieder berücksichtigt.",
-      "anchor": "Das Feld muss geräumt werden, das kranke Kind darf nicht hinaus.",
       "interest": "Erklärt das zentrale praktische Hindernis.",
       "sources": [
         "film",
         "afi",
         "voice_name"
-      ]
+      ],
+      "objective": "Das Feld muss geräumt werden, das kranke Kind darf nicht hinaus."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Die Ratten planen eine selbstständige Existenz im Thorn Valley.",
       "context": "Nicodemus (Originalstimme Derek Jacobi) führt eine Gemeinschaft ungewöhnlich intelligenter Ratten. Ihre technische Versorgung auf der Farm beruht bisher auf menschlichen Ressourcen. Der geplante Umzug ins Thorn Valley soll diese Abhängigkeit beenden. Jenner (Originalstimme Paul Shenar) widersetzt sich dem Vorhaben. Der Konflikt betrifft damit nicht nur den Wohnort, sondern die Frage, ob die Gemeinschaft ihre Fähigkeiten für ein eigenständiges Leben einsetzen will.",
-      "anchor": "Thorn Valley steht für Selbstständigkeit statt gestohlener Versorgung.",
       "interest": "Erfasst den gesellschaftlichen Plan der Ratten.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Thorn Valley steht für Selbstständigkeit statt gestohlener Versorgung."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Für den engen Weg zur Schüssel der Katze ist die Maus klein genug.",
       "context": "Die Katze des Bauern gefährdet die geplante Arbeit am Haus. Mrs. Brisby (Originalstimme Elizabeth Hartman) soll deshalb ein Schlafmittel in deren Schüssel geben. Entscheidend ist ihre geringe Körpergröße: Sie erreicht die Schüssel durch einen Zugang, der für die Helfer zu eng ist. Die Aufgabe verwandelt einen vermeintlichen Nachteil in einen Nutzen, beseitigt aber das persönliche Risiko nicht. Die Mutter muss in den gefährlichen menschlichen Wohnbereich eindringen.",
-      "anchor": "Klein genug für den Zugang, mutig genug für die Katze.",
       "interest": "Verbindet Körpergröße und konkrete Funktion.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Klein genug für den Zugang, mutig genug für die Katze."
     },
     {
       "code": "S1",
@@ -128,13 +128,13 @@
       ],
       "short": "Jenner kappt ein Seil und verursacht den tödlichen Absturz der Last.",
       "context": "Jenner (Originalstimme Paul Shenar) will den Aufbruch der Ratten verhindern. Während des Hausumzugs manipuliert er den Hebemechanismus, sodass die Last auf Nicodemus (Originalstimme Derek Jacobi) stürzt und ihn tötet. Die Hilfe für die Mäuse wird damit zum Schauplatz eines Machtkampfs. Justin (Originalstimme Peter Strauss) erkennt die Gefahr, doch der Konflikt zwischen den Ratten ist bereits in offene Gewalt umgeschlagen.",
-      "anchor": "Das gerissene Seil verbirgt einen gezielten Machtwechsel.",
       "interest": "Erfasst die konkrete Ursache einer entscheidenden Todesfolge.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das gerissene Seil verbirgt einen gezielten Machtwechsel."
     },
     {
       "code": "S2",
@@ -153,13 +153,13 @@
       ],
       "short": "Mrs. Brisbys Willenskraft aktiviert das Amulett und hebt das Haus.",
       "context": "Als das Haus im Schlamm versinkt, scheinen die technischen Bemühungen gescheitert. Mrs. Brisby (Originalstimme Elizabeth Hartman) konzentriert ihren Willen auf das Amulett, das ihr Nicodemus (Originalstimme Derek Jacobi) gegeben hat. Seine Magie hebt das Haus an einen sicheren Ort. Die Rettung verbindet damit die zuvor organisierte Hilfe mit einer fantastischen Kraft, deren Einsatz an die Entschlossenheit der Mutter gebunden ist.",
-      "anchor": "Die Technik reicht nicht aus; der Wille aktiviert die Magie.",
       "interest": "Beschreibt das konkrete Rettungsmittel im Finale.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Technik reicht nicht aus; der Wille aktiviert die Magie."
     },
     {
       "code": "Y",
@@ -178,12 +178,12 @@
       ],
       "short": "Der erste Kinostart erfolgte 1982.",
       "context": "The Secret of NIMH erschien 1982. Die Romanvorlage Mrs. Frisby and the Rats of NIMH von Robert C. O’Brien wurde 1971 veröffentlicht; zwischen Buch und Film liegen elf Jahre. AFI dokumentiert sowohl die Vorlage als auch den ersten Kinostart. Die Verfilmung übernimmt die Gemeinschaft intelligenter Ratten, ergänzt ihre Geschichte jedoch um einen ausgeprägten magischen Rettungsweg für die bedrohte Mäusefamilie.",
-      "anchor": "Roman 1971, Film 1982: elf Jahre bis zur Verfilmung.",
       "interest": "Verbindet Erstjahr und datierte Romanvorlage.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Roman 1971, Film 1982: elf Jahre bis zur Verfilmung."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "Die Hauptregie stammt von Don Bluth.",
       "context": "Don Bluth führte die Hauptregie von The Secret of NIMH. John Pomeroy und Gary Goldman gehören ebenfalls zum zentralen Herstellungsteam, werden aber nicht als weitere Hauptregisseure geführt. Für die Zuordnung zählt der konkrete Credit des fertigen Films. Die Verbindung aus sorgfältiger Zeichentrickarbeit, bedrohlicher Tierwelt und fantastischer Rettung prägt eine Inszenierung, deren Schauplätze aus menschlicher Sicht klein, für die Figuren jedoch gewaltig erscheinen.",
-      "anchor": "Don Bluth führt die Hauptregie der kleinen, gefährlichen Tierwelt.",
       "interest": "Grenzt Hauptregie und weitere Herstellungscredits ab.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Don Bluth führt die Hauptregie der kleinen, gefährlichen Tierwelt."
     }
   ]
 }

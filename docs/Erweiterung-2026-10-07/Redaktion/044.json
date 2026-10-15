@@ -40,12 +40,12 @@
       ],
       "short": "Anne und Georges waren Musiklehrer.",
       "context": "Anne (Emmanuelle Riva) und Georges (Jean-Louis Trintignant) haben ein langes gemeinsames Leben mit Musik verbracht. Auch ihre Tochter Eva (Isabelle Huppert) ist Musikerin. Der berufliche Hintergrund erklärt den Konzertbesuch und die Kontakte zu früheren Schülern; die spätere Pflege trifft ein Paar mit einer reichen geteilten Vergangenheit.",
-      "anchor": "Musik prägt das gemeinsame Leben vor der Pflege.",
       "interest": "Der Beruf erschließt die vertraute Welt des alten Paares.",
       "sources": [
         "cannes"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Musik prägt das gemeinsame Leben vor der Pflege."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Anne wird vorübergehend reglos und reagiert nicht mehr.",
       "context": "Anne (Emmanuelle Riva) sitzt beim Frühstück plötzlich still und reagiert nicht auf Georges (Jean-Louis Trintignant). Danach weiß sie selbst nichts von dem Aussetzer. Der zunächst kurze Moment eröffnet eine lange Veränderung: Der vertraute Alltag wird zur Betreuung einer zunehmend kranken Partnerin.",
-      "anchor": "Ein kurzer Aussetzer eröffnet eine lange Pflegekrise.",
       "interest": "Der konkrete Auslöser führt in den Hauptkonflikt.",
       "sources": [
         "ebert"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein kurzer Aussetzer eröffnet eine lange Pflegekrise."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Alexandre gehört zu Annes früheren Schülern.",
       "context": "Alexandre Tharaud spielt den erfolgreichen ehemaligen Schüler. Der Darsteller ist tatsächlich Konzertpianist und gab mit dieser Rolle sein Schauspieldebüt. Seine Anwesenheit verbindet die gespielte Vergangenheit des Paares mit einer realen musikalischen Praxis; der Besuch zeigt zugleich, wie stark Annes Krankheit die vertraute Beziehung verändert hat.",
-      "anchor": "Ein echter Pianist spielt Annes ehemaligen Schüler.",
       "interest": "Eine Figurenbeziehung erhält durch die Berufspraxis des Darstellers eine zweite Ebene.",
       "sources": [
         "presse"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein echter Pianist spielt Annes ehemaligen Schüler."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Georges verspricht Anne, sie nicht wieder ins Krankenhaus zu schicken.",
       "context": "Anne (Emmanuelle Riva) will nach den Folgen des Eingriffs zu Hause bleiben. Georges (Jean-Louis Trintignant) bindet sich an ihren Wunsch. Als die Pflege schwerer wird und Tochter Eva (Isabelle Huppert) anders darüber denkt, gerät dieses Versprechen unter Druck: Nähe, Selbstbestimmung und Überforderung lassen sich nicht mühelos vereinbaren.",
-      "anchor": "Das Krankenhausversprechen bindet Georges an die häusliche Pflege.",
       "interest": "Die Zusage erklärt einen späteren Familienkonflikt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Krankenhausversprechen bindet Georges an die häusliche Pflege."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Im Brief steht, dass Georges die Taube freigelassen hat.",
       "context": "Georges (Jean-Louis Trintignant) fängt eine Taube in der Wohnung ein. Sein späterer Brief erklärt, dass er sie freigelassen hat. Die Information ergänzt das sichtbare Handeln um einen nachgetragenen Ausgang. Welche Bedeutung man dem Tier beimisst, bleibt offen; der konkrete Bericht wird dadurch nicht zu einer eindeutigen Symbolauflösung.",
-      "anchor": "Georges’ Brief ergänzt das Einfangen um die Freilassung.",
       "interest": "Ein präzises spätes Detail lässt Tatsache und Deutung auseinanderhalten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Georges’ Brief ergänzt das Einfangen um die Freilassung."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Der Film zeigt den Tod als Ausgangspunkt und erzählt anschließend die Vorgeschichte.",
       "context": "Rettungskräfte finden Anne (Emmanuelle Riva) gleich zu Beginn in der Wohnung. Erst danach sieht man das Paar im Konzert und die Entwicklung ihrer Krankheit. Die zeitliche Anordnung verlagert die Spannung: Entscheidend wird, wie Georges (Jean-Louis Trintignant) und Anne den Weg zu diesem bereits bekannten Zustand erleben.",
-      "anchor": "Der Tod steht zuerst; die Pflegegeschichte erschließt den Weg dorthin.",
       "interest": "Die Erzählfolge erklärt, worauf sich die Spannung richtet.",
       "sources": [
         "ebert"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Tod steht zuerst; die Pflegegeschichte erschließt den Weg dorthin."
     },
     {
       "code": "Y",
@@ -184,12 +184,12 @@
       ],
       "short": "Die Erstaufführung fand 2012 in Cannes statt.",
       "context": "Hanekes Das weiße Band erschien 2009; Amour folgte 2012, drei Jahre später. Beide stehen in seiner Filmografie als aufeinanderfolgende Kinowerke und erhielten in Cannes die Goldene Palme. Die Folge 2009–2012 verankert das Jahr, ohne Filmveröffentlichung und die spätere Oscarverleihung gleichzusetzen.",
-      "anchor": "2009 Das weiße Band, drei Jahre später 2012 Amour.",
       "interest": "Die belegte Werkfolge verbindet zwei deutlich unterschiedliche Filmwelten.",
       "sources": [
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2009 Das weiße Band, drei Jahre später 2012 Amour."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "Michael Haneke schrieb und inszenierte Amour.",
       "context": "Michael Haneke verantwortet sowohl Drehbuch als auch Regie. Die Hauptdarsteller Jean-Louis Trintignant und Emmanuelle Riva bringen eine lange französische Filmgeschichte mit, doch ihre gemeinsamen Szenen folgen hier seiner präzisen Inszenierung. Das begrenzte Wohnumfeld lässt die Veränderungen der Beziehung besonders deutlich werden: Vertraute Räume tragen immer schwierigere Entscheidungen.",
-      "anchor": "Haneke schreibt und inszeniert das alte Paar.",
       "interest": "Die Zuordnung unterscheidet neue Regie von der Filmgeschichte des Ensembles.",
       "sources": [
         "cannes",
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Haneke schreibt und inszeniert das alte Paar."
     }
   ]
 }

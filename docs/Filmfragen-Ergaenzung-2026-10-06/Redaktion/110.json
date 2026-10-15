@@ -37,12 +37,12 @@
       ],
       "short": "Pignon baut detailreiche Streichholzmodelle.",
       "context": "François Pignon (Jacques Villeret) beschäftigt sich begeistert mit Modellen bekannter Bauwerke. Pierre Brochant (Thierry Lhermitte) sieht darin vor allem eine Gelegenheit, den Mann vor anderen lächerlich zu machen. Das Hobby ist kein Anzeichen von Bosheit; der Film richtet den Blick auf die Arroganz desjenigen, der sich überlegen glaubt.",
-      "anchor": "Pignons Streichholzkunst dient Brochant als Vorwand zum Spott.",
       "interest": "Pignons Streichholzkunst dient Brochant als Vorwand zum Spott.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Pignons Streichholzkunst dient Brochant als Vorwand zum Spott."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Brochants Rückenprobleme halten ihn in der Wohnung fest.",
       "context": "Pierre Brochant (Thierry Lhermitte) verletzt sich beim Golf und ist auf Hilfe angewiesen. So muss er ausgerechnet François Pignon (Jacques Villeret) in seiner Nähe behalten. Die geplante Überlegenheit wird räumlich umgedreht: Der Gastgeber kann nicht weg, während jeder gut gemeinte Eingriff seines Gastes neue Folgen auslöst.",
-      "anchor": "Der verletzte Rücken macht den Spötter von seinem Gast abhängig.",
       "interest": "Der verletzte Rücken macht den Spötter von seinem Gast abhängig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der verletzte Rücken macht den Spötter von seinem Gast abhängig."
     },
     {
       "code": "M1",
@@ -85,13 +85,13 @@
       ],
       "short": "Die Gastgeber bringen ahnungslose Gäste mit, um über sie zu lachen.",
       "context": "Pierre Brochant (Thierry Lhermitte) wählt François Pignon (Jacques Villeret) für eine grausame gesellschaftliche Unterhaltung aus. Die Gäste wissen nicht, dass ihre Begeisterung zum Gegenstand einer Wertung wird. Das Ziel ist daher keine freundschaftliche Einladung; die Handlung stellt die moralische Überlegenheit der scheinbar klugen Gastgeber infrage.",
-      "anchor": "Der Gastgeberwettbewerb beruht auf dem unwissenden Gast.",
       "interest": "Der Gastgeberwettbewerb beruht auf dem unwissenden Gast.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Gastgeberwettbewerb beruht auf dem unwissenden Gast."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Cheval kann Brochants verschwiegene Vermögenswerte überprüfen.",
       "context": "François Pignon (Jacques Villeret) holt Lucien Cheval (Daniel Prévost), weil er bei der Suche nach einer Adresse helfen kann. Pierre Brochant (Thierry Lhermitte) erkennt dabei eine neue Gefahr: Der Besucher ist Steuerprüfer und könnte die kostbaren Gegenstände in seiner Wohnung mit nicht versteuerten Einkünften verbinden. Hilfe bei einem Problem öffnet ein anderes.",
-      "anchor": "Der hilfreiche Adressenkontakt kann zur Steuerprüfung werden.",
       "interest": "Der hilfreiche Adressenkontakt kann zur Steuerprüfung werden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der hilfreiche Adressenkontakt kann zur Steuerprüfung werden."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Sasseur klingt für Pignon wie das französische sa sœur, also seine Schwester.",
       "context": "François Pignon (Jacques Villeret) missversteht den Namen Marlène Sasseur (Catherine Frot). Er spricht mit Brochants früherer Geliebter, als wäre sie dessen Schwester. Der Fehler zeigt die sprachliche Logik der Farce: Ein harmlos klingender Laut macht eine private Beziehung öffentlich und verschärft den bereits angeschlagenen Ehezustand.",
-      "anchor": "Sasseur wird als sa sœur gehört: ein Name stört die Ehe.",
       "interest": "Sasseur wird als sa sœur gehört: ein Name stört die Ehe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sasseur wird als sa sœur gehört: ein Name stört die Ehe."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Der Rückruf verrät, dass Pignon nicht aus einer Telefonzelle angerufen hat.",
       "context": "François Pignon (Jacques Villeret) spricht aufrichtig mit Christine Brochant (Alexandra Vandernoot). Als sie anschließend zurückruft, nimmt er erneut in der Wohnung ab. Damit widerspricht er seiner eigenen Ortsangabe. Das erneute Misstrauen entsteht also nicht aus böswilliger Sabotage, sondern aus einer kleinen Unachtsamkeit nach einem diesmal tatsächlich gut gelungenen Gespräch.",
-      "anchor": "Der Rückruf macht den Ort des ehrlichen Anrufs verdächtig.",
       "interest": "Der Rückruf macht den Ort des ehrlichen Anrufs verdächtig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Rückruf macht den Ort des ehrlichen Anrufs verdächtig."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1998.",
       "context": "Die französische Verfilmung mit Jacques Villeret und Thierry Lhermitte erschien 1998. Francis Vebers eigenes Theaterstück war schon 1993 uraufgeführt worden. Die spätere US-Neuverfilmung Dinner for Schmucks kam 2010 heraus. Diese drei Daten betreffen daher Vorlage, erste Filmfassung und Remake, nicht unterschiedliche Angaben zum selben Filmstart. Zwischen Bühnenstück und erster Verfilmung liegen fünf Jahre, zwischen den Filmfassungen zwölf.",
-      "anchor": "Bühnenstück 1993, französischer Film 1998, US-Remake 2010: fünf Jahre zur ersten Verfilmung, weitere zwölf zum Remake.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Bühnenstück 1993, französischer Film 1998, US-Remake 2010: fünf Jahre zur ersten Verfilmung, weitere zwölf zum Remake.",
       "sources": [
         "handlung",
         "unifrance"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bühnenstück 1993, französischer Film 1998, US-Remake 2010: fünf Jahre zur ersten Verfilmung, weitere zwölf zum Remake."
     },
     {
       "code": "D",
@@ -208,7 +208,6 @@
       ],
       "short": "Der Regiecredit lautet Francis Veber.",
       "context": "Francis Veber schrieb und inszenierte die Verfilmung seines eigenen Stücks. Jacques Villeret spielt François Pignon, Thierry Lhermitte Pierre Brochant. Die konzentrierte Handlung in Brochants Wohnung bewahrt die Logik der Bühnenfarce: Hilfsversuche, Telefonate und falsche Annahmen treiben die Situation immer weiter in die Katastrophe.",
-      "anchor": "Francis Veber: Jacques Villeret spielt François Pignon, Thierry Lhermitte Pierre Brochant.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
@@ -216,7 +215,8 @@
         "unifrance"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Francis Veber: Jacques Villeret spielt François Pignon, Thierry Lhermitte Pierre Brochant."
     }
   ]
 }

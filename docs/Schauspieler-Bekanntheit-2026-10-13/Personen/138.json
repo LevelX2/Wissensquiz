@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Katsu wurde als Zatoichi bekannt.",
       "context": "Die Figur verbindet Hilfsbereitschaft und Komik mit außerordentlicher Kampffähigkeit. Ihr niedriges gesellschaftliches Ansehen steht im Gegensatz zu ihrer körperlichen Präzision.",
-      "anchor": "Katsus blinder Schwertkämpfer heißt Zatoichi.",
       "interest": "Die Figur öffnet den Zugang zu einem großen zusammenhängenden Werk.",
       "feedback": [
         "",
@@ -29,7 +28,8 @@
       "films": [],
       "extraSources": [
         "https://www.criterion.com/films/28300-the-tale-of-zatoichi"
-      ]
+      ],
+      "objective": "Katsus blinder Schwertkämpfer heißt Zatoichi."
     },
     {
       "code": "L2",
@@ -43,7 +43,6 @@
       "correct": 1,
       "short": "Zatoichi arbeitet als Masseur.",
       "context": "Der Beruf bringt ihn in Kontakt mit Personen sehr verschiedener gesellschaftlicher Stellung. Seine Unauffälligkeit lässt viele Gegner seine Fähigkeiten unterschätzen.",
-      "anchor": "Zatoichis Beruf ist Masseur.",
       "interest": "Die Alltagstätigkeit ergänzt das vertraute Bild des Schwertkämpfers.",
       "feedback": [
         "",
@@ -56,7 +55,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28300-the-tale-of-zatoichi"
-      ]
+      ],
+      "objective": "Zatoichis Beruf ist Masseur."
     },
     {
       "code": "M1",
@@ -70,7 +70,6 @@
       "correct": 3,
       "short": "Toshirō Mifune spielt den Leibwächter.",
       "context": "Der Film stellt zwei besonders bekannte Darsteller des japanischen Schwertfilms zusammen. Mifunes Figur erinnert an seinen berühmten Rōnin, trägt hier aber eine andere Identität.",
-      "anchor": "Katsu trifft auf Mifunes Leinwandpräsenz.",
       "interest": "Die Besetzung erschließt das Spiel mit zwei bereits vertrauten Figurenbildern.",
       "feedback": [
         "",
@@ -84,7 +83,8 @@
       "extraSources": [
         "https://www.criterion.com/films/28582-zatoichi-meets-yojimbo",
         "https://en.wikipedia.org/wiki/Zatoichi_Meets_Yojimbo"
-      ]
+      ],
+      "objective": "Katsu trifft auf Mifunes Leinwandpräsenz."
     },
     {
       "code": "M2",
@@ -98,7 +98,6 @@
       "correct": 0,
       "short": "Zatoichi stammt von Kan Shimozawa.",
       "context": "Die erste Verfilmung nennt Shimozawa als Autor der Vorlage. Katsus Darstellung machte aus dem literarischen Ausgangspunkt eine wiederkehrende Filmfigur.",
-      "anchor": "Shimozawas Figur erhielt durch Katsu ihren filmischen Körper.",
       "interest": "Die Verbindung ordnet den Star in eine literarische Tradition ein.",
       "feedback": [
         "",
@@ -111,7 +110,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28300-the-tale-of-zatoichi"
-      ]
+      ],
+      "objective": "Shimozawas Figur erhielt durch Katsu ihren filmischen Körper."
     },
     {
       "code": "S1",
@@ -125,7 +125,6 @@
       "correct": 2,
       "short": "Katsu und Wakayama waren Brüder.",
       "context": "Katsu wurde zudem Produzent der frühen Filme mit Wakayamas Schwertkämpfer und dessen kleinem Sohn. Die familiäre Verbindung hatte dadurch auch eine konkrete berufliche Seite.",
-      "anchor": "Zatoichi und der einsame Wolf wurden von Brüdern verkörpert.",
       "interest": "Die Beziehung verbindet zwei prägende Reihen des japanischen Actionkinos.",
       "feedback": [
         "",
@@ -137,7 +136,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/4287-samurai-and-son-the-lone-wolf-and-cub-saga",
         "https://www.criterion.com/boxsets/1012-zatoichi-the-blind-swordsman"
-      ]
+      ],
+      "objective": "Zatoichi und der einsame Wolf wurden von Brüdern verkörpert."
     },
     {
       "code": "S2",
@@ -151,7 +151,6 @@
       "correct": 2,
       "short": "Es war der erste Zatoichi-Film von Katsu Productions.",
       "context": "Die eigene Firma eröffnete dem Star zusätzlichen Einfluss auf die Herstellung der Reihe. Der Film verbindet die vertraute Abenteuerfigur mit Betrug an verschuldeten Bauern und schärferer sozialer Kritik.",
-      "anchor": "Katsu wurde mit eigener Firma zum Mitgestalter der Produktion.",
       "interest": "Die Frage beschreibt einen beruflichen Schritt über die Hauptrolle hinaus.",
       "feedback": [
         "",
@@ -164,7 +163,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/boxsets/1012-zatoichi-the-blind-swordsman"
-      ]
+      ],
+      "objective": "Katsu wurde mit eigener Firma zum Mitgestalter der Produktion."
     },
     {
       "code": "E1",
@@ -178,7 +178,6 @@
       "correct": 3,
       "short": "Katsu erschien mit einem eigenen Kamerateam.",
       "context": "Coppola schilderte dies als Anlass für Kurosawas Ärger. Katsu schied aus, und Tatsuya Nakadai übernahm die Doppelrolle; die genaue Form des Ausscheidens wird unterschiedlich beschrieben.",
-      "anchor": "Ein zweites Kamerateam stand zwischen Star und Regisseur.",
       "interest": "Der belegte Bericht erklärt eine wichtige Umbesetzung, ohne strittige Kündigungsdetails festzuschreiben.",
       "feedback": [
         "",
@@ -191,7 +190,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Kagemusha"
-      ]
+      ],
+      "objective": "Ein zweites Kamerateam stand zwischen Star und Regisseur."
     },
     {
       "code": "E2",
@@ -205,7 +205,6 @@
       "correct": 0,
       "short": "Wakayamas Bindung an Toei erschwerte die Besetzung.",
       "context": "Die Brüder waren unterschiedlichen Studiowelten verbunden. Katsu erwirkte die Zustimmung des Toei-Präsidenten, damit Wakayama die Hauptrolle übernehmen konnte.",
-      "anchor": "Der Hauptdarsteller brauchte die Freigabe seines Studios.",
       "interest": "Die Produktionsgeschichte erklärt, wie Verträge die Besetzung einer Filmreihe bestimmen.",
       "feedback": [
         "",
@@ -218,7 +217,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/4287-samurai-and-son-the-lone-wolf-and-cub-saga"
-      ]
+      ],
+      "objective": "Der Hauptdarsteller brauchte die Freigabe seines Studios."
     }
   ]
 }

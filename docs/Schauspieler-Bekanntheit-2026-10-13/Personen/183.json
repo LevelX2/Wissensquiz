@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Arletty spielt Garance.",
       "context": "Vier Männer aus unterschiedlichen gesellschaftlichen Welten begehren sie. Besonders die Liebe des Pantomimen Baptiste (Jean-Louis Barrault) verbindet Garances Geschichte mit der Pariser Theaterwelt des 19. Jahrhunderts.",
-      "anchor": "Garance steht zwischen Bühne, Straße und Verehrern.",
       "interest": "Die Hauptfigur führt die unterschiedlichen Lebensgeschichten des Films zusammen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/683-children-of-paradise"
-      ]
+      ],
+      "objective": "Garance steht zwischen Bühne, Straße und Verehrern."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Die Replik stammt aus „Hôtel du Nord“.",
       "context": "Als Raymonde liefert sich Arletty einen Wortwechsel mit Edmond (Louis Jouvet). Ihre Betonung machte einen Dialogsatz zu einem bis heute wiedererkennbaren Moment des französischen Kinos.",
-      "anchor": "Raymondes Stimme prägt „Hôtel du Nord“.",
       "interest": "Die Frage knüpft an eine markante hörbare Darstellerleistung an.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.ina.fr/ina-eclaire-actu/arletty-carriere-conseils-actrice-marcel-carne"
-      ]
+      ],
+      "objective": "Raymondes Stimme prägt „Hôtel du Nord“."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Dominique soll als Gesandte des Teufels Leid und Liebeskummer verbreiten.",
       "context": "Gemeinsam mit Gilles (Alain Cuny) erscheint sie als fahrende Künstlerin. Doch Gilles verliebt sich in die Braut Anne (Marie Déa), und menschliche Zuneigung durchkreuzt den Auftrag.",
-      "anchor": "Die Verführerin arbeitet gegen das Glück der Liebenden.",
       "interest": "Der konkrete Auftrag erklärt den Konflikt zwischen Verführung und Liebe.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27685-les-visiteurs-du-soir"
-      ]
+      ],
+      "objective": "Die Verführerin arbeitet gegen das Glück der Liebenden."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Clara ist die Assistentin von Valentin (Jules Berry).",
       "context": "Sie und die Blumenverkäuferin Françoise (Jacqueline Laurent) sind mit dem Arbeiter François (Jean Gabin) verbunden. Valentins manipulative Auftritte belasten dieses Beziehungsgeflecht, das der Film aus Rückblenden rekonstruiert.",
-      "anchor": "Claras Bühnenarbeit gehört zum gefährlichen Beziehungsviereck.",
       "interest": "Die Nebenfigur erhält ihren Platz im Zusammenhang der Tragödie.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://bfidatadigipres.github.io/big%20screen%20classics/2023/05/09/jour-se-leve/"
-      ]
+      ],
+      "objective": "Claras Bühnenarbeit gehört zum gefährlichen Beziehungsviereck."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 0,
       "short": "Der Dialogautor war Henri Jeanson.",
       "context": "Auch Jean Aurenche und Marcel Carné wirkten am Drehbuch mit. Jeanson verantwortete die Dialoge der Verfilmung von Eugène Dabits Roman; nicht jeder berühmte Carné-Satz stammt daher von Prévert.",
-      "anchor": "Raymondes „Atmosphère“ gehört zu Jeanson.",
       "interest": "Die Frage unterscheidet wichtige Autoren hinter Arlettys Filmrollen.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/film/47302.html"
-      ]
+      ],
+      "objective": "Raymondes „Atmosphère“ gehört zu Jeanson."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 1,
       "short": "Sie spielte Blanche in „Endstation Sehnsucht“.",
       "context": "Während ihre Filmkarriere nach dem Krieg an Schwung verlor, gelang ihr mit der Bühnenrolle ein neuer Erfolg. Die französische Bearbeitung verband amerikanisches Theater mit Cocteaus Sprache.",
-      "anchor": "Arlettys Bühnenweg führte zu Blanche.",
       "interest": "Die Leistung erweitert das Profil über die berühmten Carné-Filme hinaus.",
       "feedback": [
         "",
@@ -164,7 +163,8 @@
       "films": [],
       "extraSources": [
         "https://www.bnf.fr/fr/arletty-au-dela-de-la-gouaille"
-      ]
+      ],
+      "objective": "Arlettys Bühnenweg führte zu Blanche."
     },
     {
       "code": "E1",
@@ -178,7 +178,6 @@
       "correct": 0,
       "short": "Arletty betont unverwechselbare Intonationen.",
       "context": "Sie nennt die Stimme als wesentlichen Teil des Berufs. Autoren, die die Eigenheiten eines Darstellers kennen, könnten ihm eine passende sprachliche Partie schreiben.",
-      "anchor": "Eine Stimme braucht ihre eigene Musik.",
       "interest": "Arletty erklärt die Zusammenarbeit von Schauspielstimme und Dialogautor.",
       "feedback": [
         "",
@@ -189,7 +188,8 @@
       "films": [],
       "extraSources": [
         "https://www.ina.fr/ina-eclaire-actu/arletty-carriere-conseils-actrice-marcel-carne"
-      ]
+      ],
+      "objective": "Eine Stimme braucht ihre eigene Musik."
     },
     {
       "code": "E2",
@@ -203,7 +203,6 @@
       "correct": 2,
       "short": "Arletty lieh weiterhin Dokumentarfilmen ihre Stimme.",
       "context": "Eine schwere Sehbeeinträchtigung beendete ihre Arbeit auf Bühne und Filmset. Die Stimme blieb ihr dennoch als künstlerisches Ausdrucksmittel erhalten.",
-      "anchor": "Die Stimme überdauerte den Abschied vom Filmset.",
       "interest": "Der spätere Berufsweg zeigt eine konkrete Fortsetzung ihrer Darstellerarbeit.",
       "feedback": [
         "",
@@ -214,7 +213,8 @@
       "films": [],
       "extraSources": [
         "https://www.ina.fr/ina-eclaire-actu/arletty-carriere-conseils-actrice-marcel-carne"
-      ]
+      ],
+      "objective": "Die Stimme überdauerte den Abschied vom Filmset."
     }
   ]
 }

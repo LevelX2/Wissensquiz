@@ -53,13 +53,13 @@
       ],
       "short": "Die Expedition untersucht Europa auf mögliches außerirdisches Leben.",
       "context": "Die Mission sucht Leben unter der Eiskruste von Europa. Das Ziel ist ein Mond des Jupiter, dessen vermuteter Ozean die Forschungsreise begründet. Ein privates Unternehmen entsendet dafür eine internationale Besatzung. Die örtlichen Bedingungen machen wissenschaftliche Proben interessant und setzen die Menschen zugleich erheblichen Gefahren aus.",
-      "anchor": "Europas Ozean ist das Ziel einer Suche nach Leben.",
       "interest": "Der Forschungsauftrag erklärt, weshalb die Crew trotz großer Gefahren weitere Beobachtungen gewinnen will.",
       "sources": [
         "wiki",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Europas Ozean ist das Ziel einer Suche nach Leben."
     },
     {
       "code": "L2",
@@ -78,13 +78,13 @@
       ],
       "short": "Bord- und Helmkameras liefern die rekonstruierten Aufnahmen.",
       "context": "Fest installierte Kameras zeigen Arbeitsplätze, Helmkameras begleiten Außeneinsätze. Die Aufnahmen erscheinen als Material einer späteren Rekonstruktion. Dadurch muss das Publikum mit eingeschränkten Blickwinkeln arbeiten. Ereignisse außerhalb des jeweiligen Bildausschnitts bleiben zunächst unbekannt, während die aufgezeichneten Bilder für die Erde schließlich selbst zum Ergebnis der Mission werden.",
-      "anchor": "Bordkameras machen begrenzte Bilder zu den späteren Beweisen der Expedition.",
       "interest": "Die Form erklärt sowohl Spannung als auch den Wert der Aufzeichnungen.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bordkameras machen begrenzte Bilder zu den späteren Beweisen der Expedition."
     },
     {
       "code": "M1",
@@ -103,12 +103,12 @@
       ],
       "short": "Das Hydrazin würde den Innenraum verunreinigen.",
       "context": "Bei einem Reparatureinsatz gerät Corrigans Anzug in Kontakt mit Hydrazin. Eine Rückkehr würde die anderen im Innenraum gefährden. Sharlto Copley spielt einen Ingenieur, dessen Rettung deshalb nicht bloß von der Entfernung zur Schleuse abhängt. Er hilft dem verletzten Andrei Blok (Michael Nyqvist) zurück und verliert dabei seine eigene letzte Verbindung zum Schiff.",
-      "anchor": "Die Rettung eines Menschen könnte den sicheren Innenraum für alle vergiften.",
       "interest": "Die konkrete Substanz erklärt den tragischen Konflikt der Rettung.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rettung eines Menschen könnte den sicheren Innenraum für alle vergiften."
     },
     {
       "code": "M2",
@@ -127,13 +127,13 @@
       ],
       "short": "Eine abgesenkte Sonde erkundet den Ozean.",
       "context": "Eine Bohrung erlaubt, die Sonde in den darunterliegenden Ozean zu bringen. Als ein leuchtendes Objekt sie trifft, bricht der Kontakt ab. Die Menschen verfügen damit über einen Hinweis, aber über keine vollständige Beobachtung. Der Verlust des Instruments verschärft die Frage, welche Risiken sie für weitere Proben persönlich übernehmen sollen.",
-      "anchor": "Die Sonde liefert einen Hinweis und verschwindet zugleich als sicherer Beobachter.",
       "interest": "Der Versuch erklärt den Übergang von Fernmessung zu gefährlicher direkter Untersuchung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Sonde liefert einen Hinweis und verschwindet zugleich als sicherer Beobachter."
     },
     {
       "code": "S1",
@@ -152,13 +152,13 @@
       ],
       "short": "Blok stellt die Datenverbindung auf Kosten der Lebenserhaltung her.",
       "context": "Blok erkennt, dass sich der sinkende Lander nicht rechtzeitig retten lässt. Seine Reparatur richtet sich deshalb auf die Verbindung zum Mutterschiff. Dafür verzichtet er auf Lebenserhaltung. Die Entscheidung verschiebt das Ziel vom eigenen Überleben zur Übermittlung: Forschung bleibt nur dann ein Ergebnis für andere, wenn die gesammelten Daten die Mission überstehen.",
-      "anchor": "Blok priorisiert die Datenverbindung, als die Rettung des Landers aussichtslos wird.",
       "interest": "Die Entscheidung erklärt den hohen persönlichen Preis eines übermittelbaren Ergebnisses.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Blok priorisiert die Datenverbindung, als die Rettung des Landers aussichtslos wird."
     },
     {
       "code": "S2",
@@ -177,13 +177,13 @@
       ],
       "short": "Das eindringende Wasser ermöglicht das letzte Bild des Wesens.",
       "context": "Die letzten Daten sind zur Erde übertragen, doch die Quelle des Lichts ist noch nicht klar sichtbar. Dasque öffnet die Schleuse im sinkenden Schiff. Anamaria Marinca spielt damit eine Pilotin, die ihren letzten Blick zugleich zur Aufnahme macht. Die Kamera zeigt ein biolumineszentes Wesen und erfüllt den Forschungsauftrag, während die Besatzung verloren geht.",
-      "anchor": "Das letzte Öffnen der Schleuse verwandelt die Begegnung in einen sichtbaren Beleg.",
       "interest": "Das Ende verbindet das Kameramotiv mit dem endgültigen Forschungsergebnis.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das letzte Öffnen der Schleuse verwandelt die Begegnung in einen sichtbaren Beleg."
     },
     {
       "code": "Y",
@@ -202,7 +202,6 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2013.",
       "context": "Europa Report erschien 2013 und schickt eine fiktive Besatzung zu Europas vermutetem Ozean. Elf Jahre später, 2024, startete die reale NASA-Sonde Europa Clipper. Sie untersucht Bedingungen für Bewohnbarkeit; sie bringt keine Menschen zum Mond. Der Vergleich zeigt, wie ein vorhandenes wissenschaftliches Interesse die Filmidee und später eine tatsächliche Erkundungsmission verbindet.",
-      "anchor": "Europa Report 2013 → Europa Clipper 2024: elf Jahre zwischen Film und realem Sondenstart.",
       "interest": "Die Verbindung unterscheidet bemannte Fiktion und wissenschaftliche Erkundung desselben Mondes.",
       "sources": [
         "wiki",
@@ -210,7 +209,8 @@
         "premiere",
         "nasa"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Europa Report 2013 → Europa Clipper 2024: elf Jahre zwischen Film und realem Sondenstart."
     },
     {
       "code": "D",
@@ -229,13 +229,13 @@
       ],
       "short": "Sebastián Cordero führte bei diesem Film Regie.",
       "context": "Sebastián Cordero inszenierte den Film nach Philip Gelatts Drehbuch. Eugenio Caballero gestaltete die Räume der Mission, Enrique Chediak führte die Kamera. Der Verleiher nennt diese Aufgaben getrennt. Die Regie organisiert die fragmentierten Bordaufnahmen zu einer Rekonstruktion, in der Zuschauer den wissenschaftlichen Fortschritt erst mit den Kosten der Expedition zusammensetzen.",
-      "anchor": "Corderos Regie ordnet Gelatts Expedition als Rekonstruktion aus Bordaufnahmen.",
       "interest": "Die getrennten Credits erklären das Zusammenspiel von Erzählform und Gestaltung.",
       "sources": [
         "wiki",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Corderos Regie ordnet Gelatts Expedition als Rekonstruktion aus Bordaufnahmen."
     }
   ]
 }

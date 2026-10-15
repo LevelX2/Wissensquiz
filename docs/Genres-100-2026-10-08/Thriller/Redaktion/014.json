@@ -30,11 +30,11 @@
       ],
       "short": "Die Männer suchen eine Puppe mit verstecktem Heroin.",
       "context": "Sam Hendrix (Efrem Zimbalist Jr.) nimmt am Flughafen eine Puppe für eine fremde Frau mit. Er weiß nicht, dass sie als Versteck für Heroin dient. Das alltägliche Kinderobjekt verbindet seine Wohnung mit einem Verbrechen, an dem er selbst nicht beteiligt ist. Für seine Frau Susy (Audrey Hepburn) beginnt die Gefahr deshalb ohne eine bewusste Entscheidung, sich in die Angelegenheiten der Täter einzumischen.",
-      "anchor": "Ein harmlos wirkendes Mitbringsel trägt das Verbrechen ins Haus.",
       "interest": "Der gesuchte Gegenstand erklärt den äußeren Anlass der Bedrohung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Ein harmlos wirkendes Mitbringsel trägt das Verbrechen ins Haus."
     },
     {
       "code": "L2",
@@ -53,11 +53,11 @@
       ],
       "short": "Susy ist blind.",
       "context": "Susy (Audrey Hepburn) kann die angeblichen Besucher nicht anhand ihrer Gesichter überprüfen. Stimmen, Geräusche und Widersprüche im Verhalten werden deshalb zu entscheidenden Informationen. Ihre Wohnung kennt sie dagegen genau. Der Film baut die Bedrohung aus dieser ungleichen Verteilung von Möglichkeiten auf: Die fremden Männer besitzen zunächst mehr sichtbare Informationen, während Susys Orientierung im eigenen Raum später einen Handlungsvorteil eröffnet.",
-      "anchor": "Die Besucher sehen Susy; Susy prüft sie über Stimmen und Verhalten.",
       "interest": "Die Ausgangslage erklärt die besondere Form ihrer Wahrnehmung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Die Besucher sehen Susy; Susy prüft sie über Stimmen und Verhalten."
     },
     {
       "code": "M1",
@@ -76,11 +76,11 @@
       ],
       "short": "Talman spielt einen alten Kriegskameraden von Sam.",
       "context": "Mike Talman (Richard Crenna) soll Susy (Audrey Hepburn) als vertrauter Helfer erscheinen, während die anderen Täter bedrohlichere Rollen spielen. Seine erfundene Verbindung zu Sam (Efrem Zimbalist Jr.) erleichtert es, ihre Reaktionen zu steuern und Informationen über die Puppe zu bekommen. Die scheinbare Unterstützung gehört zunächst zur gemeinsamen Intrige. Gerade deshalb wiegt Susys späteres Erkennen der Zusammenarbeit besonders schwer.",
-      "anchor": "Der vermeintliche Freund ist Teil des abgestimmten Spiels.",
       "interest": "Die Vertrauensrolle wird von der bereits abgefragten körperlichen Ausgangslage getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der vermeintliche Freund ist Teil des abgestimmten Spiels."
     },
     {
       "code": "M2",
@@ -99,11 +99,11 @@
       ],
       "short": "Die vermeintliche Kontaktadresse ist eine Telefonzelle gegenüber.",
       "context": "Susy (Audrey Hepburn) möchte Mike (Richard Crenna) mitteilen, dass die Puppe wieder da ist. Gloria (Julie Herrod) hilft ihr jedoch zu erkennen, wohin dessen Telefonnummer tatsächlich führt. Damit verlieren die getrennt auftretenden Besucher ihre angebliche Unabhängigkeit. Ein kleines überprüfbares Detail widerspricht den erzählten Identitäten und ermöglicht Susy, die Bedrohung als gemeinsamen Plan statt als mehrere zufällige Begegnungen zu begreifen.",
-      "anchor": "Ein überprüfter Telefonanschluss verbindet die scheinbar getrennten Besucher.",
       "interest": "Der Hinweis verlangt ein konkretes Detail der Aufdeckung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Ein überprüfter Telefonanschluss verbindet die scheinbar getrennten Besucher."
     },
     {
       "code": "S1",
@@ -122,11 +122,11 @@
       ],
       "short": "Roat nutzt die Lampe des geöffneten Kühlschranks.",
       "context": "Susy (Audrey Hepburn) zerstört die erreichbaren Lampen, um die Unterschiede zwischen ihr und Roat (Alan Arkin) zu verringern. Der Kühlschrank bewahrt jedoch eine kleine Lichtquelle. Seine offene Tür gibt dem Täter erneut einen Vorteil. Susy muss deshalb auch diesen Stromanschluss erreichen. Das Finale entwickelt seine Gefahr aus der genauen Ausstattung des Raums, dessen gewöhnliche Haushaltsgeräte plötzlich über ihre Chancen entscheiden.",
-      "anchor": "Der Kühlschrank enthält die übersehene Lampe.",
       "interest": "Ein konkretes räumliches Detail erklärt die Wendung des Finales.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Der Kühlschrank enthält die übersehene Lampe."
     },
     {
       "code": "S2",
@@ -145,11 +145,11 @@
       ],
       "short": "Roat nutzt die am Mordschauplatz hinterlassenen Fingerabdrücke.",
       "context": "Roat (Alan Arkin) hat Lisa (Samantha Jones) bereits getötet, als Talman (Richard Crenna) und Carlino (Jack Weston) eintreffen. Die beiden haben ohne Vorsicht Gegenstände angefasst. Roat stellt ihre Spuren als mögliche Beweise gegen sie dar und zwingt sie zur Beseitigung der Leiche sowie zur Suche nach der Puppe. Die scheinbare Tätergemeinschaft beginnt dadurch mit einer Drohung innerhalb der eigenen Gruppe.",
-      "anchor": "Die unbedacht hinterlassenen Spuren machen die Helfer erpressbar.",
       "interest": "Das Wissensziel erklärt die Entstehung der Tätergemeinschaft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die unbedacht hinterlassenen Spuren machen die Helfer erpressbar."
     },
     {
       "code": "Y",
@@ -168,11 +168,11 @@
       ],
       "short": "Die Erstveröffentlichung erfolgte 1967.",
       "context": "1967 überträgt der Film Frederick Knotts Bühnenstück auf die Leinwand. Die Vorlage hatte 1966 am Broadway begonnen; zwischen Theaterpremiere und Kinojahr liegt nur ein Jahr. Das AFI dokumentiert beide Daten und den Erwerb der Filmrechte bereits vor dem Bühnendebüt. Die kurze Verbindung erklärt, warum die abgeschlossene Wohnung und das genau organisierte Auftreten der Besucher den Film so stark prägen.",
-      "anchor": "1966 Broadway, 1967 Kino: ein Jahr von der Bühne zur Leinwand.",
       "interest": "Die dokumentierte Bühnenvorlage bietet einen konkreten Zeitbezug.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1966 Broadway, 1967 Kino: ein Jahr von der Bühne zur Leinwand."
     },
     {
       "code": "D",
@@ -191,11 +191,11 @@
       ],
       "short": "Terence Young führte Regie.",
       "context": "Terence Young konzentriert die Auseinandersetzung zwischen Susy (Audrey Hepburn) und ihren Besuchern auf einen überschaubaren Raum. Der AFI-Katalog unterscheidet seinen Regiecredit ausdrücklich von Mel Ferrers Produktion. Die Wohnung muss als genauer Handlungsraum verständlich bleiben, damit spätere Bewegungen, Geräusche und Lichtquellen Bedeutung erhalten. Die Spannung hängt deshalb nicht allein von einer überraschenden Enthüllung ab, sondern auch von der räumlichen Orientierung des Publikums.",
-      "anchor": "Young baut die Spannung aus der genau bekannten Wohnung auf.",
       "interest": "Der gesicherte Credit verbindet sich mit der räumlichen Inszenierung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Young baut die Spannung aus der genau bekannten Wohnung auf."
     }
   ]
 }

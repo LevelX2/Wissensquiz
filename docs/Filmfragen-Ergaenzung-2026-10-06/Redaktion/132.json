@@ -33,12 +33,12 @@
       ],
       "short": "Die Behandlung von Zin benötigt mehr Geld, als sie verdienen können.",
       "context": "Zin (Ammara Siripong) ist an Krebs erkrankt. Zen (Yanin Vismistananda) und Moom (Taphon Phopwandee) versuchen zunächst mit Straßenkunst Geld einzunehmen. Als es nicht reicht, greifen sie auf alte Forderungen zurück. Die Kampffolge hat damit einen konkreten familiären Ausgangspunkt, statt als Suche nach Ruhm oder Wettkampferfolg zu beginnen.",
-      "anchor": "Zens Kämpfe wachsen aus dem Versuch, die Mutter behandeln zu lassen.",
       "interest": "Zens Kämpfe wachsen aus dem Versuch, die Mutter behandeln zu lassen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zens Kämpfe wachsen aus dem Versuch, die Mutter behandeln zu lassen."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Zen lernt durch das genaue Beobachten und Nachahmen von Bewegungen.",
       "context": "Zen (Yanin Vismistananda) beobachtet eine benachbarte Kampfschule und Filme mit Bruce Lee und Tony Jaa. Der Film gestaltet ihr besonderes Bewegungslernen als Grundlage ihrer späteren Kämpfe. Es ist eine fiktionale Figurendarstellung, keine allgemeine Aussage darüber, welche Fähigkeiten Menschen mit einer bestimmten Diagnose besitzen müssen.",
-      "anchor": "Zen setzt gesehene Bewegungen in eigene Kampfhandlungen um.",
       "interest": "Zen setzt gesehene Bewegungen in eigene Kampfhandlungen um.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zen setzt gesehene Bewegungen in eigene Kampfhandlungen um."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Moom findet Zins frühere Forderungen in einem Notizbuch.",
       "context": "Moom (Taphon Phopwandee) entdeckt die Aufzeichnungen aus Zins (Ammara Siripong) Zeit als Geldverleiherin im Gangsterumfeld. Zen (Yanin Vismistananda) und er behandeln diese Schulden als erreichbare Mittel für die Behandlung. Der Bezug zur kriminellen Vergangenheit macht jedoch aus einer scheinbar einfachen Rückforderung den Eintritt in ein gefährliches Machtgefüge.",
-      "anchor": "Das alte Schuldbuch öffnet den Weg in Zins frühere Gangsterwelt.",
       "interest": "Das alte Schuldbuch öffnet den Weg in Zins frühere Gangsterwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das alte Schuldbuch öffnet den Weg in Zins frühere Gangsterwelt."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Zin bittet Masashi wegen der Gefahr durch ihren früheren Partner zu gehen.",
       "context": "Zin (Ammara Siripong) entscheidet sich für Masashi (Hiroshi Abe), während ihr früherer Partner No.8 (Pongpat Wachirabunjong) die Beziehung bedroht. Masashi kehrt nach Japan zurück. Die Trennung ist daher keine einfache Gleichgültigkeit gegenüber Zen, sondern Teil einer unter Gewaltbedingungen entstandenen Familiengeschichte.",
-      "anchor": "Die Gangsterdrohung trennt die Familie über zwei Länder.",
       "interest": "Die Gangsterdrohung trennt die Familie über zwei Länder.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gangsterdrohung trennt die Familie über zwei Länder."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Zen beobachtet seine unregelmäßigen Bewegungen und verändert ihren eigenen Kampf.",
       "context": "Thomas (Kittitat Kowahagul) lässt sich mit den bisher verwendeten Mustern zunächst schwer treffen. Zen (Yanin Vismistananda) beobachtet ihn genauer und findet eine passende Antwort. Die Szene führt ihr vorher eingeführtes Lernen durch Nachahmung weiter: Eine Fähigkeit wird nicht starr wiederholt, sondern am konkreten Gegner angepasst.",
-      "anchor": "Zens Stärke ist nicht ein einziger Stil, sondern die Anpassung des Beobachteten.",
       "interest": "Zens Stärke ist nicht ein einziger Stil, sondern die Anpassung des Beobachteten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Zens Stärke ist nicht ein einziger Stil, sondern die Anpassung des Beobachteten."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Masashi tröstet Zen und nimmt sie zu sich.",
       "context": "Zin (Ammara Siripong) stirbt trotz Zens (Yanin Vismistananda) Kampf um Hilfe. Masashi (Hiroshi Abe) kann die lange Trennung nicht rückgängig machen, übernimmt aber die Verantwortung für seine Tochter. Das Ende erfüllt damit nicht den ursprünglichen Rettungswunsch; es schafft nach dem Verlust eine andere familiäre Verbindung.",
-      "anchor": "Die Mutter wird nicht gerettet; der Vater wird zum neuen familiären Halt.",
       "interest": "Die Mutter wird nicht gerettet; der Vater wird zum neuen familiären Halt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Mutter wird nicht gerettet; der Vater wird zum neuen familiären Halt."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2008.",
       "context": "Chocolate erschien 2008 in Thailand und war Yanin Vismistanandas Spielfilmdebüt. Ihre Figur Zen entwickelt Kampfkunst durch beobachtete Bewegungen statt durch eine gewöhnliche Schulbiografie. Das erste Filmjahr der Darstellerin ist damit mit einer Rolle verbunden, deren Geschichte ebenfalls die ungewöhnliche Entwicklung einer neuen Kämpferin zeigt.",
-      "anchor": "Chocolate 2008 ist Yanin Vismistanandas Filmdebüt als ungewöhnlich lernende Kämpferin Zen.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Chocolate 2008 ist Yanin Vismistanandas Filmdebüt als ungewöhnlich lernende Kämpferin Zen.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Chocolate 2008 ist Yanin Vismistanandas Filmdebüt als ungewöhnlich lernende Kämpferin Zen."
     },
     {
       "code": "D",
@@ -202,14 +202,14 @@
       ],
       "short": "Der Regiecredit lautet Prachya Pinkaew.",
       "context": "Prachya Pinkaew führte Regie, Panna Rittikrai verantwortete die Kampfchoreografie. Yanin Vismistananda spielt Zen. Diese Aufgabenteilung ist bei einem stark körperlich geprägten Film wichtig: Die Planung der Kämpfe und die Regie sind verschiedene Leistungen, auch wenn ihre Ergebnisse in einer einzelnen Szene zusammenwirken.",
-      "anchor": "Prachya Pinkaew: Yanin Vismistananda spielt Zen.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Prachya Pinkaew: Yanin Vismistananda spielt Zen."
     }
   ]
 }

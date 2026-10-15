@@ -45,13 +45,13 @@
       ],
       "short": "Ihre Aufgabe ist die Überbringung von Kerzen zur Kirche.",
       "context": "Karin (Birgitta Pettersson) verlässt den geschützten Hof für eine religiöse Aufgabe. Die Begleiterin Ingeri (Gunnel Lindblom) bleibt später zurück, sodass Karin den Fremden allein begegnet. Der alltägliche Auftrag erklärt damit nicht nur den Weg, sondern auch das Vertrauen, mit dem das junge Mädchen in eine gefährliche Situation gerät.",
-      "anchor": "Ein kirchlicher Auftrag führt Karin aus dem Schutz des Elternhauses.",
       "interest": "Der Anlass erklärt Ausgangslage und Verletzlichkeit der Reisenden.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein kirchlicher Auftrag führt Karin aus dem Schutz des Elternhauses."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Der Film spielt auf einem schwedischen Hof im Mittelalter.",
       "context": "Der Hof von Töre (Max von Sydow) gehört zu einer christlich geprägten mittelalterlichen Umgebung. Ingeri (Gunnel Lindblom) ruft dagegen Odin an. Der religiöse Gegensatz besteht innerhalb desselben Haushalts. Die spätere Gewalttat lässt sich deshalb nicht auf einen einfachen Gegensatz zwischen einer gläubigen Familie und fremden Ungläubigen reduzieren.",
-      "anchor": "Christlicher Hof und Ingeris Odin-Anrufung gehören zur selben mittelalterlichen Welt.",
       "interest": "Das Umfeld macht den inneren religiösen Konflikt verständlich.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Christlicher Hof und Ingeris Odin-Anrufung gehören zur selben mittelalterlichen Welt."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Die Mutter erkennt das Kleid ihrer Tochter im angebotenen Gegenstand.",
       "context": "Die Täter finden ausgerechnet im Elternhaus ihres Opfers Unterkunft. Als sie Karins Kleid verkaufen wollen, erkennt Märeta (Birgitta Valberg) den Zusammenhang. Ein Gegenstand verbindet dadurch die getrennten Orte der Erzählung. Die zuvor unwissende Gastfreundschaft schlägt in eine Situation um, in der die Eltern ihren Gästen bewusst gegenüberstehen.",
-      "anchor": "Das angebotene Kleid verwandelt unwissende Gastfreundschaft in Wissen über die Täter.",
       "interest": "Die Frage erklärt den Gegenstand als Verbindung zwischen Tat und Elternhaus.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das angebotene Kleid verwandelt unwissende Gastfreundschaft in Wissen über die Täter."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Ihr eigener Todeswunsch und ihr untätiges Zusehen begründen das Schuldgefühl.",
       "context": "Ingeri (Gunnel Lindblom) ist auf Karins bevorzugte Stellung eifersüchtig. Sie beobachtet später den Angriff und kann ihn nicht verhindern. Ihr Geständnis verbindet einen heimlichen Wunsch mit einer tatsächlich gesehenen Tat, ohne den Wunsch als nachgewiesene Ursache auszugeben. Diese Unterscheidung macht ihr Schuldgefühl nachvollziehbar und hält es von der Verantwortung der Mörder getrennt.",
-      "anchor": "Ingeri verbindet Eifersucht und untätiges Zusehen mit Schuld, ohne selbst die Täterin zu sein.",
       "interest": "Die Frage trennt subjektive Mitschuld von der ausgeführten Gewalttat.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ingeri verbindet Eifersucht und untätiges Zusehen mit Schuld, ohne selbst die Täterin zu sein."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Die Vergeltung trifft auch den Jungen, der Karin nicht getötet hat.",
       "context": "Töre (Max von Sydow) bereitet seine Rache mit einem Reinigungsritual vor. Dennoch überschreitet die anschließende Gewalt eine Grenze, als er auch das begleitende Kind tötet. Die Vorbereitung garantiert somit keine moralische Reinheit. Am Leichnam seiner Tochter muss er später nicht nur deren Tod, sondern auch seine eigene Tat vor Gott verantworten.",
-      "anchor": "Töres ritualisierte Vorbereitung verhindert nicht die Tötung eines unbeteiligten Kindes.",
       "interest": "Der Zusammenhang erklärt, weshalb die Vergeltung keine eindeutige Gerechtigkeit herstellt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Töres ritualisierte Vorbereitung verhindert nicht die Tötung eines unbeteiligten Kindes."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Er verspricht den Bau einer Kirche als Ausdruck seiner Buße.",
       "context": "Am Fundort stellt Töre (Max von Sydow) die Frage, warum Gott Karins Tod und seine eigene Rache zuließ. Das Kirchenversprechen folgt auf diese Klage und auf das Eingeständnis eigener Schuld. Der Schluss bietet damit Hoffnung nach einer zerstörerischen Abfolge, ohne die Gewalttaten rückgängig zu machen oder die religiöse Frage vollständig zu beantworten.",
-      "anchor": "Töres Kirchenversprechen folgt auf die Klage über Karins Tod und seine eigene Schuld.",
       "interest": "Das Gelübde erklärt die Verbindung von Ungewissheit, Buße und neuer Hoffnung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Töres Kirchenversprechen folgt auf die Klage über Karins Tod und seine eigene Schuld."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1960.",
       "context": "Bergmans Film erschien 1960. Wes Craven verlegte die Grundgeschichte zwölf Jahre später mit The Last House on the Left von 1972 in ein amerikanisches Gegenwartsmilieu. Beide Erzählungen verbinden den Tod einer Tochter mit der Aufnahme ihrer Täter im Elternhaus. Die Zeitverbindung zeigt, wie ein mittelalterlicher Stoff in eine andere Epoche und ein anderes Genre übersetzt werden kann.",
-      "anchor": "Die Jungfrauenquelle 1960 → Cravens The Last House on the Left 1972: zwölf Jahre und ein Wechsel in die Gegenwart.",
       "interest": "Der Vergleich macht die Datierung als Ausgangspunkt einer späteren Stoffübertragung erinnerbar.",
       "sources": [
         "wiki",
         "bergman"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Jungfrauenquelle 1960 → Cravens The Last House on the Left 1972: zwölf Jahre und ein Wechsel in die Gegenwart."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "Ingmar Bergman führte bei diesem Film Regie.",
       "context": "Ingmar Bergman inszenierte Ulla Isakssons Drehbuch nach einem mittelalterlichen schwedischen Lied. Die historische Recherche reagierte auch auf Kritik an der Darstellung des Mittelalters in seinen früheren Filmen. Die Landschaft und die körperlichen Vorbereitungen der Vergeltung geben dem religiösen Konflikt eine konkrete Form: Gewalttat, Buße und Hoffnung werden als aufeinanderfolgende Handlungen gezeigt.",
-      "anchor": "Bergman und Isaksson übertragen ein mittelalterliches Lied in eine Geschichte von Gewalt und Buße.",
       "interest": "Der Hintergrund verbindet die literarische Vorlage mit den Entscheidungen der Inszenierung.",
       "sources": [
         "wiki",
         "bergman"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bergman und Isaksson übertragen ein mittelalterliches Lied in eine Geschichte von Gewalt und Buße."
     }
   ],
   "category": "Arthouse"

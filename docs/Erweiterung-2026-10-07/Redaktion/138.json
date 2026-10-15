@@ -38,13 +38,13 @@
       ],
       "short": "Eine Todesliste kündigt Morde innerhalb von 24 Stunden an.",
       "context": "Eine Todesliste kündigt Morde innerhalb von 24 Stunden an. Very Long (Bastian Pastewka) und Even Longer (Oliver Kalkofe) können deshalb nicht nur einen bereits geschehenen Mord aufklären. Sie müssen die nächsten Opfer schützen. Die Liste verbindet vergangene Tat und drohende Zukunft zu einem laufenden Wettlauf.",
-      "anchor": "Die Todesliste macht den Fall zur Rettung unter Zeitdruck.",
       "interest": "Der neue Konflikt setzt die Fortsetzung in Bewegung.",
       "sources": [
         "artikel",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Todesliste macht den Fall zur Rettung unter Zeitdruck."
     },
     {
       "code": "L2",
@@ -63,13 +63,13 @@
       ],
       "short": "Victoria Dickham (Christiane Paul) ist die Tochter von Lord David Dickham (Joachim Fuchsberger), dem früheren Yard-Chef.",
       "context": "Victoria Dickham (Christiane Paul) ist die Tochter von Lord David Dickham (Joachim Fuchsberger), dem früheren Yard-Chef. Ihr Schutz besitzt daher auch eine persönliche Hierarchie. Even Longer (Oliver Kalkofe) will den Vater nicht enttäuschen und ist zudem in Victoria verliebt. Der Auftrag berührt seine professionelle Unabhängigkeit.",
-      "anchor": "Victoria verbindet Schutzauftrag, früheren Chef und persönliche Gefühle.",
       "interest": "Die Familienbeziehung erklärt die besondere Befangenheit.",
       "sources": [
         "artikel",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Victoria verbindet Schutzauftrag, früheren Chef und persönliche Gefühle."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Alfons Hatler (Christoph Maria Herbst) leitet das Bates Hospital.",
       "context": "Alfons Hatler (Christoph Maria Herbst) leitet das Bates Hospital. Die Klinik wird ein wichtiger Ermittlungsort, weil die Spur zu Chucky Norris (Lars Dietrich) führt. Die bekannte Figur kehrt damit in einer neuen institutionellen Rolle zurück. Ihr Einfluss betrifft nun auch Zugang, Schutz und Informationen innerhalb dieses Schauplatzes.",
-      "anchor": "Der frühere Butler wird zum Klinikleiter.",
       "interest": "Eine Rückkehrfigur erhält eine neue Handlungsfunktion.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der frühere Butler wird zum Klinikleiter."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Very Long (Bastian Pastewka) trifft den Wixxer an der linken Schulter.",
       "context": "Very Long (Bastian Pastewka) trifft den Wixxer an der linken Schulter. Der Kampf erzeugt damit mehr als eine vereitelte Tat: Die Verletzung kann helfen, den maskierten Gegner später wiederzuerkennen. In einer Geschichte voller Täuschungen wird ein körperliches Merkmal zu einer anderen Art von Hinweis.",
-      "anchor": "Die Schulterverletzung bleibt hinter der Maske als Spur.",
       "interest": "Ein Kampf schafft ein Identifikationsmerkmal.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Schulterverletzung bleibt hinter der Maske als Spur."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Victoria Dickham (Christiane Paul) ist der neue Wixxer.",
       "context": "Victoria Dickham (Christiane Paul) ist der neue Wixxer. Ihre Mutter Schwester Lucipha (Sonja Kirchberger) hilft ihr und wird zunächst unter der Maske entdeckt. Die scheinbar bedrohte Schutzperson ist damit die eigentliche Täterin. Even Longers (Oliver Kalkofe) Verliebtheit erhält durch diese Enthüllung eine besonders gefährliche Bedeutung.",
-      "anchor": "Die zu beschützende Victoria ist die Täterin.",
       "interest": "Die Enthüllung kehrt den Schutzauftrag um.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die zu beschützende Victoria ist die Täterin."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Victoria Dickham (Christiane Paul) will die versammelte Königsfamilie töten, um selbst Königin zu werden.",
       "context": "Victoria Dickham (Christiane Paul) will die versammelte Königsfamilie töten, um selbst Königin zu werden. Even Longer (Oliver Kalkofe) soll ihr Prinzgemahl sein. Der Anschlag verbindet deshalb Staatsmacht und eine private Besitzvorstellung. Seine Weigerung löst die endgültige Konfrontation zwischen Liebe, Pflicht und ihrem Herrschaftsplan aus.",
-      "anchor": "Der Hochzeitsanschlag soll Victoria den Thron verschaffen.",
       "interest": "Das Endziel verbindet politischen Anspruch und persönliche Beziehung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Hochzeitsanschlag soll Victoria den Thron verschaffen."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Erste Veröffentlichung 2007; deutscher regulärer Kinostart am 15. März 2007.",
       "context": "2007 erschien „Neues vom Wixxer“, drei Jahre nach „Der Wixxer“ von 2004. Die Fortsetzung bringt das Ermittlerpaar zurück und erweitert den Kreis der Wallace-Darsteller um Joachim Fuchsberger. Der Abstand 2004–2007 macht die Rückkehr klar, während der neue Fall eine eigene Täteridentität und einen eigenen Anschlagsplan besitzt.",
-      "anchor": "Der Wixxer 2004, Neues vom Wixxer 2007: drei Jahre bis zum zweiten Fall.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Der Wixxer 2004, Neues vom Wixxer 2007: drei Jahre bis zum zweiten Fall."
     },
     {
       "code": "D",
@@ -209,14 +209,14 @@
       ],
       "short": "Cyrill Boss und Philipp Stennert führten gemeinsam Regie.",
       "context": "Cyrill Boss und Philipp Stennert führten gemeinsam Regie. Das Drehbuch stammt wieder von Oliver Kalkofe, Bastian Pastewka und Oliver Welke. Das Duo übernahm damit die Inszenierung einer bereits bekannten Figurenwelt. Die Rückkehr betrifft das Ermittlerpaar, während Besetzungserweiterungen und neue Schauplätze den Fall gegenüber dem ersten Film verändern.",
-      "anchor": "Boss und Stennert inszenieren gemeinsam den neuen Fall des bekannten Autorentrios.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "studio",
         "filmportal"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Boss und Stennert inszenieren gemeinsam den neuen Fall des bekannten Autorentrios."
     }
   ]
 }

@@ -33,12 +33,12 @@
       ],
       "short": "Dora schreibt Briefe für Menschen, die nicht selbst schreiben können.",
       "context": "Dora (Fernanda Montenegro) schreibt Briefe für Menschen, die nicht selbst schreiben können. Die bezahlte Vermittlung fremder Worte wird später zu einer persönlichen Verbindung mit Josué (Vinícius de Oliveira).",
-      "anchor": "Fremde Briefe sind Doras Geschäft am Bahnhof.",
       "interest": "Fremde Briefe sind Doras Geschäft am Bahnhof.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fremde Briefe sind Doras Geschäft am Bahnhof."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Die Reise gilt Josués Vater.",
       "context": "Die Reise gilt Josués Vater. Nach dem Tod seiner Mutter Ana (Soia Lira) begleitet Dora (Fernanda Montenegro) den Jungen in den Nordosten Brasiliens.",
-      "anchor": "Die gemeinsame Reise gilt dem abwesenden Vater.",
       "interest": "Die gemeinsame Reise gilt dem abwesenden Vater.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die gemeinsame Reise gilt dem abwesenden Vater."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Dora schickt viele der bezahlten Briefe nicht ab.",
       "context": "Dora (Fernanda Montenegro) schickt viele der bezahlten Briefe nicht ab. Die Absender vertrauen ihr Gefühle und Anliegen an, die dadurch nicht ankommen; ihre spätere Beziehung zu Josué (Vinícius de Oliveira) verändert diesen Umgang.",
-      "anchor": "Dora verdient an Botschaften, die oft nie ankommen.",
       "interest": "Dora verdient an Botschaften, die oft nie ankommen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Dora verdient an Botschaften, die oft nie ankommen."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Josué (Vinícius de Oliveira) schlägt Briefarbeit für Pilger vor.",
       "context": "Josué (Vinícius de Oliveira) schlägt Briefarbeit für Pilger vor. Dora (Fernanda Montenegro) nutzt damit ihre vorhandene Fähigkeit außerhalb des Bahnhofs; der Junge wird selbst zum praktischen Helfer.",
-      "anchor": "Josués Idee macht Doras Können auf der Reise nutzbar.",
       "interest": "Josués Idee macht Doras Können auf der Reise nutzbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Josués Idee macht Doras Können auf der Reise nutzbar."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Dora holt Josué (Vinícius de Oliveira) nach einem Verkauf zurück.",
       "context": "Dora (Fernanda Montenegro) holt Josué (Vinícius de Oliveira) nach einem Verkauf zurück. Diese schwere Grenzüberschreitung bleibt Teil ihrer Geschichte; die spätere Fürsorge wird dadurch keine von Anfang an selbstlose Rettung.",
-      "anchor": "Dora rettet den Jungen auch vor ihrer eigenen früheren Entscheidung.",
       "interest": "Dora rettet den Jungen auch vor ihrer eigenen früheren Entscheidung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Dora rettet den Jungen auch vor ihrer eigenen früheren Entscheidung."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Der Vater ist nach Rio gegangen, um Ana zu suchen.",
       "context": "Der Vater ist nach Rio gegangen, um Ana (Soia Lira) zu suchen. Während Josué (Vinícius de Oliveira) ihn im Landesinneren sucht, liegt sein Weg in Gegenrichtung; der Brief zeigt verpasste Verbindung statt einfacher Abwesenheit.",
-      "anchor": "Vater und Sohn suchen auf entgegengesetzten Wegen.",
       "interest": "Vater und Sohn suchen auf entgegengesetzten Wegen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vater und Sohn suchen auf entgegengesetzten Wegen."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Der Film wurde 1998 erstmals veröffentlicht.",
       "context": "1998 erschien der Film und gewann in Berlin den Goldenen Bären. Fernanda Montenegros Oscar-Nominierung folgte bei der Verleihung 1999. Der Filmstart und die spätere amerikanische Auszeichnungssaison liegen somit in aufeinanderfolgenden Jahren.",
-      "anchor": "Der Berliner Film von 1998 führte 1999, ein Jahr später, zur Oscar-Nominierung Montenegros.",
       "interest": "Der Berliner Film von 1998 führte 1999, ein Jahr später, zur Oscar-Nominierung Montenegros.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Berliner Film von 1998 führte 1999, ein Jahr später, zur Oscar-Nominierung Montenegros."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Regie: Walter Salles.",
       "context": "Salles entwickelte die Geschichte, João Emanuel Carneiro und Marcos Bernstein schrieben das Drehbuch. Die Reise aus Rio verbindet einen konkreten Dienst am Bahnhof mit einer allmählich veränderten Beziehung zwischen Frau und Kind.",
-      "anchor": "Salles entwickelte die Geschichte, João Emanuel Carneiro und Marcos Bernstein schrieben das Drehbuch.",
       "interest": "Salles entwickelte die Geschichte, João Emanuel Carneiro und Marcos Bernstein schrieben das Drehbuch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Salles entwickelte die Geschichte, João Emanuel Carneiro und Marcos Bernstein schrieben das Drehbuch."
     }
   ]
 }

@@ -45,13 +45,13 @@
       ],
       "short": "Marlowe ermittelt als privat beauftragter Detektiv.",
       "context": "General Sternwood (Charles Waldron) bestellt Philip Marlowe (Humphrey Bogart) zu sich. Der private Auftrag führt den Ermittler durch unterschiedliche Milieus von Los Angeles. Weil er nicht unmittelbar eine behördliche Fallakte abarbeitet, muss er zugleich entscheiden, wie viel er dem Auftraggeber, dessen Töchtern und der Polizei jeweils mitteilt.",
-      "anchor": "Marlowe arbeitet im privaten Auftrag und kontrolliert selbst seinen Informationsfluss.",
       "interest": "Der Beruf erklärt seine Stellung zwischen Familie und Polizei.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Marlowe arbeitet im privaten Auftrag und kontrolliert selbst seinen Informationsfluss."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Die vermeintlichen Schuldforderungen gegen Carmen führen zur Erpressungsermittlung.",
       "context": "General Sternwood (Charles Waldron) will Forderungen gegen Carmen (Martha Vickers) klären lassen. Marlowe (Humphrey Bogart) trifft dabei auf mehr als einfache Schulden: Fotos, verschwundene Personen und miteinander verbundene Täter. Der begrenzte Familienauftrag öffnet sich somit zu einem größeren Zusammenhang, den zunächst niemand vollständig erklärt.",
-      "anchor": "Eine Erpressungsforderung öffnet den Zugang zum größeren Fall.",
       "interest": "Die Frage benennt den konkreten Auslöser der Ermittlungen.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine Erpressungsforderung öffnet den Zugang zum größeren Fall."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Die Kamera ist vorhanden, aber der für die Fotos entscheidende Film fehlt.",
       "context": "Marlowe (Humphrey Bogart) findet Geiger (Theodore von Eltz) tot und Carmen (Martha Vickers) benommen. Die versteckte Kamera erklärt, wie kompromittierende Bilder entstanden sein könnten. Der fehlende Film macht jedoch deutlich, dass weiteres Material in fremde Hände geraten ist. Die Tatortbesichtigung führt deshalb nicht nur zum Mord, sondern zur Bewegung der Erpressungsbeute.",
-      "anchor": "Die filmlose Kamera verweist auf entnommene kompromittierende Bilder.",
       "interest": "Der Gegenstand verbindet Tatort und spätere Erpressung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die filmlose Kamera verweist auf entnommene kompromittierende Bilder."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Vivian löst die Fesseln des gefangenen Detektivs.",
       "context": "Marlowe (Humphrey Bogart) wird in der Werkstatt überwältigt und festgehalten. Vivian (Lauren Bacall) ist ebenfalls dort und hilft ihm, seine Bewegungsfreiheit zurückzugewinnen. Trotz ihrer bisher ausweichenden Antworten handelt sie in diesem Moment für ihn. Die Szene macht Vertrauen durch eine konkrete Unterstützung sichtbar, bevor die übrigen Geheimnisse ihrer Familie geklärt sind.",
-      "anchor": "Vivians Befreiung ist ein praktischer Vertrauensbeweis.",
       "interest": "Der Zusammenhang zeigt die Beziehung in einer unmittelbaren Gefahrensituation.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Vivians Befreiung ist ein praktischer Vertrauensbeweis."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Die falsche Adresse schützt Agnes, obwohl Jones die Vergiftung nicht überlebt.",
       "context": "Marlowe (Humphrey Bogart) hört verborgen, wie Canino (Bob Steele) Harry Jones (Elisha Cook Jr.) unter Druck setzt. Jones schützt Agnes (Sonia Darrin) durch eine falsche Ortsangabe und wird vergiftet. Seine Loyalität wirkt für Marlowe anschließend als belastbare Information über einen Mann, den er zuvor kaum kannte. Kleine Figuren verändern so die moralische Gewichtung der Ermittlung.",
-      "anchor": "Harry Jones schützt Agnes mit einer falschen Adresse bis in den Tod.",
       "interest": "Die Frage verbindet eine Nebenhandlung mit dem Detektivs Wissen und Loyalitätsurteil.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Harry Jones schützt Agnes mit einer falschen Adresse bis in den Tod."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Marlowe zwingt Mars nach draußen, wo dessen eigene Schützen warten.",
       "context": "Marlowe (Humphrey Bogart) führt Eddie Mars (John Ridgely) nach Geigers Haus. Dessen draußen wartende Männer sollen den Detektiv töten. Marlowe richtet die vorbereitete Gefahr gegen ihren Auftraggeber, indem er Mars aus dem Haus zwingt. Der Schluss nutzt somit vorhandene Täterorganisation und falsche Erwartung, statt eine neue Waffe in die Geschichte einzuführen.",
-      "anchor": "Mars stirbt in der von seinen eigenen Männern vorbereiteten Falle.",
       "interest": "Die Auflösung erklärt die konkrete Umkehr der gegnerischen Planung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Mars stirbt in der von seinen eigenen Männern vorbereiteten Falle."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1946.",
       "context": "Raymond Chandlers Roman The Big Sleep erschien 1939. Die überarbeitete Kino-Fassung von Howard Hawks folgte 1946, sieben Jahre später. Bereits 1945 war eine frühere Fassung Soldaten im Ausland gezeigt worden. Nachdrehs von 1946 stärkten vor allem Vivian (Lauren Bacall) und ihre Beziehung zu Marlowe (Humphrey Bogart), weshalb das hier verwendete Jahr eine konkrete Fassung bezeichnet.",
-      "anchor": "Chandlers Roman 1939 → überarbeitete Kino-Fassung 1946: sieben Jahre; Vorfassung 1945.",
       "interest": "Der Zeitanker erklärt sowohl die Literaturverbindung als auch das bewusst gewählte Fassungsjahr.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Chandlers Roman 1939 → überarbeitete Kino-Fassung 1946: sieben Jahre; Vorfassung 1945."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "Howard Hawks führte bei diesem Film Regie.",
       "context": "Howard Hawks führte Regie. William Faulkner, Leigh Brackett und Jules Furthman gehören zu den Drehbuchcredits. Für die Kino-Fassung wurden zusätzliche Begegnungen zwischen Humphrey Bogart und Lauren Bacall gedreht, während eine längere erklärende Ermittlerszene entfiel. Das verstärkte die erotische Beziehung und ließ die ohnehin verschlungene Fallrekonstruktion weniger ausdrücklich erläutern.",
-      "anchor": "Hawks stärkt durch Nachdrehs Bogart und Bacall; eine längere Erklärungsszene entfällt.",
       "interest": "Der Produktionshintergrund erklärt das Nebeneinander von starker Chemie und komplizierter Ermittlungsstruktur.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hawks stärkt durch Nachdrehs Bogart und Bacall; eine längere Erklärungsszene entfällt."
     }
   ],
   "category": "Classics"

@@ -35,13 +35,13 @@
       ],
       "short": "Nick Naylor (Aaron Eckhart) ist Sprecher der Tabakindustrie.",
       "context": "Nick Naylor (Aaron Eckhart) ist Sprecher der Tabakindustrie. Seine Aufgabe besteht darin, ein umstrittenes Produkt öffentlich zu verteidigen. Der Film richtet seinen Blick deshalb auf Sprachmacht: Naylor muss Debatten gewinnen und Zweifel erzeugen, während sein Sohn beobachtet, welche Werte hinter diesen erfolgreichen Auftritten stehen.",
-      "anchor": "Nick verkauft öffentlich Argumente für Tabak.",
       "interest": "Der Beruf erklärt den satirischen Hauptkonflikt.",
       "sources": [
         "studio"
       ],
       "spoiler": "gering",
-      "title_in_question": false
+      "title_in_question": false,
+      "objective": "Nick verkauft öffentlich Argumente für Tabak."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Nick Naylor (Aaron Eckhart) will seinem Sohn Joey (Cameron Bright) ein Vorbild sein.",
       "context": "Nick Naylor (Aaron Eckhart) will seinem Sohn Joey (Cameron Bright) ein Vorbild sein. Die Vaterrolle bringt eine private Ebene in seine berufliche Rhetorik: Der Junge erlebt nicht bloß öffentliche Auftritte, sondern die Methoden hinter ihnen. Nicks Erfolg wird dadurch zugleich als Erziehungssituation sichtbar.",
-      "anchor": "Joey lernt die Argumente und sieht ihren Preis.",
       "interest": "Vaterrolle und Lobbyarbeit geraten in Spannung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Joey lernt die Argumente und sieht ihren Preis."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Nick Naylor (Aaron Eckhart) verhandelt über Zigaretten als Produktplatzierung.",
       "context": "Nick Naylor (Aaron Eckhart) verhandelt über Zigaretten als Produktplatzierung. Die Reise verbindet die Tabaklobby mit der Wirkung von Kinobildern. Positive Darstellung soll dort leisten, was reine Gesundheitsdebatten nicht leisten können. Joey (Cameron Bright) begleitet seinen Vater und sieht dadurch, wie Geschäft und öffentliche Vorbilder miteinander verschränkt werden.",
-      "anchor": "Hollywood soll das Image der Zigarette inszenieren.",
       "interest": "Werbung und fiktionale Bilder werden als gemeinsame Strategie sichtbar.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Hollywood soll das Image der Zigarette inszenieren."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Senator Finistirre (William H.",
       "context": "Senator Finistirre (William H. Macy) fordert einen Totenkopf als Giftwarnung. Nick Naylor (Aaron Eckhart) bekämpft dieses sichtbare Signal mit Argumenten über Wahlfreiheit. Der Streit verdichtet den größeren Konflikt in einem Bild: Soll die Verpackung warnen oder soll die Entscheidung trotz bekannter Gefahr dem Käufer überlassen bleiben?",
-      "anchor": "Der Totenkopf wird zum Streit über Verantwortung.",
       "interest": "Eine Verpackungsentscheidung macht den politischen Konflikt konkret.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Totenkopf wird zum Streit über Verantwortung."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die Entführer bekleben Nick Naylor (Aaron Eckhart) mit Nikotinpflastern.",
       "context": "Die Entführer bekleben Nick Naylor (Aaron Eckhart) mit Nikotinpflastern. Die Dosis macht aus dem verteidigten Stoff eine akute Bedrohung für seinen Körper. Er überlebt, kann danach aber nicht weiterrauchen. Die Satire kehrt damit den beruflichen Schutzmechanismus um: Ein abstrakt besprochenes Risiko trifft seinen Sprecher persönlich.",
-      "anchor": "Der Tabaksprecher wird durch Nikotin zum Notfall.",
       "interest": "Die Attacke übersetzt den Streit in körperliche Folgen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Tabaksprecher wird durch Nikotin zum Notfall."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Nick Naylor (Aaron Eckhart) berät am Ende Vertreter der Mobilfunkbranche.",
       "context": "Nick Naylor (Aaron Eckhart) berät am Ende Vertreter der Mobilfunkbranche. Er verlässt die Tabakorganisation, behält aber sein Geschäftsmodell der öffentlichen Überzeugung. Die persönliche Krise macht ihn also nicht automatisch zum Gegner jeder Lobbyarbeit. Der Schluss zeigt die Übertragbarkeit seiner Methoden auf neue Produkte und neue Sorgen.",
-      "anchor": "Neue Branche, dieselbe Kunst der Überzeugung.",
       "interest": "Das Ende unterscheidet Branchenwechsel von moralischer Läuterung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Neue Branche, dieselbe Kunst der Überzeugung."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Erste Vorführung am 9. September 2005 beim Toronto International Film Festival; US-Kinostart 2006.",
       "context": "2005 feierte „Thank You for Smoking“ in Toronto Premiere. Christopher Buckleys Romanvorlage war 1994 erschienen, also elf Jahre zuvor. Jason Reitmans Film verlagert die Satire auf öffentliche Meinungsbeeinflussung ins Kino. Der US-Kinostart von 2006 ist ein späterer Schritt; der literarische Anker 1994–2005 hilft, das erste Filmjahr trotz dieser verbreiteten späteren Datierung zu behalten.",
-      "anchor": "Buckleys Roman 1994, Festivalfilm 2005: elf Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Buckleys Roman 1994, Festivalfilm 2005: elf Jahre später."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Jason Reitman schrieb und inszenierte die Adaption von Christopher Buckleys Roman.",
       "context": "Jason Reitman schrieb und inszenierte die Adaption von Christopher Buckleys Roman. Es war sein erster abendfüllender Spielfilm als Regisseur. Aaron Eckhart spielt den Lobbysprecher Nick Naylor, dessen Überzeugungskraft nicht mit moralischer Verlässlichkeit gleichgesetzt wird. Der Film behält so einen problematischen Helden, statt seine Satire durch eine einfache Läuterung aufzulösen.",
-      "anchor": "Reitmans Spielfilmdebüt adaptiert Buckleys Lobby-Satire.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Reitmans Spielfilmdebüt adaptiert Buckleys Lobby-Satire."
     }
   ]
 }

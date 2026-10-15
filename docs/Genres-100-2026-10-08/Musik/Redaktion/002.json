@@ -37,11 +37,11 @@
       ],
       "short": "Esther macht sein Auftauchen scheinbar zum Teil der Nummer.",
       "context": "Norman Maine (James Mason) erscheint betrunken bei einer öffentlichen Veranstaltung und gerät auf die Bühne. Esther Blodgett (Judy Garland) reagiert schnell und lässt es aussehen, als gehöre er zu ihrer Darbietung. Damit schützt sie ihn vor einer unmittelbaren öffentlichen Blamage. Seine spätere Unterstützung ihrer Karriere beginnt nach dieser Hilfe. Die erste Begegnung zeigt die Sängerin somit bereits als aufmerksam handelnde Person, bevor das Filmstudio ihr eine neue Identität gibt.",
-      "anchor": "Esther verwandelt den störenden Auftritt scheinbar in einen Teil ihrer Nummer.",
       "interest": "Erkennt den konkreten Beginn der Beziehung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Esther verwandelt den störenden Auftritt scheinbar in einen Teil ihrer Nummer."
     },
     {
       "code": "L2",
@@ -60,11 +60,11 @@
       ],
       "short": "Das Studio benennt sie in Vicki Lester um.",
       "context": "Esther Blodgett (Judy Garland) erfährt beim Abholen ihres Gehalts, dass das Studio sie in Vicki Lester umbenannt hat. Die Entscheidung wurde ohne ihre Beteiligung getroffen. Unter diesem Namen wird sie bald als musikalischer Filmstar bekannt. Der neue Name ist deshalb mehr als ein persönlicher Einfall: Er zeigt, wie das Studio eine öffentliche Identität erzeugt und über sie verfügt, während die private Person ihre bisherige Geschichte behält.",
-      "anchor": "Der neue Studioname lautet Vicki Lester.",
       "interest": "Erkennt die konkrete Umbenennung und ihre institutionelle Herkunft.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der neue Studioname lautet Vicki Lester."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Vicki erwägt den Berufsverzicht, um ihn zu betreuen.",
       "context": "Vicki Lester (Judy Garland) spricht mit Studioleiter Oliver Niles (Charles Bickford) darüber, ihre Arbeit aufzugeben, um sich um Norman Maine (James Mason) zu kümmern. Norman hört das Gespräch mit. Die geplante Hilfe macht ihm bewusst, dass seine Probleme auch die Zukunft seiner Frau gefährden. Der konkrete Verzichtswunsch führt damit zu einer tragischen Zuspitzung: Eine fürsorgliche Entscheidung wird von ihm als weitere Belastung ihrer Lebensmöglichkeiten verstanden.",
-      "anchor": "Vicki erwägt einen Berufsverzicht zugunsten der Betreuung ihres Mannes.",
       "interest": "Fragt nach einer Entscheidung statt dem allgemeinen Karrieregegensatz.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vicki erwägt einen Berufsverzicht zugunsten der Betreuung ihres Mannes."
     },
     {
       "code": "M2",
@@ -107,11 +107,11 @@
       ],
       "short": "Libbys Spott löst den Streit und erneutes Trinken aus.",
       "context": "Nach seiner Behandlung begegnet Norman Maine (James Mason) dem Studio-Pressesprecher Matt Libby (Jack Carson) auf der Rennbahn. Libby verspottet ihn dafür, vom Einkommen seiner Frau zu leben. Norman reagiert mit einem Streit und beginnt erneut zu trinken; schließlich wird er verhaftet. Die Szene verknüpft die persönliche Krise mit einem früheren beruflichen Umfeld, das ihn nicht unterstützt, sondern seine schwindende Stellung gezielt zur Demütigung nutzt.",
-      "anchor": "Libbys Spott über das Geld der Ehefrau stößt den Rückfall an.",
       "interest": "Erkennt den konkreten äußeren Anlass der Eskalation.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Libbys Spott über das Geld der Ehefrau stößt den Rückfall an."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Sie nennt sich Mrs. Norman Maine.",
       "context": "Nach Norman Maines (James Mason) Tod zieht sich Vicki Lester (Judy Garland) zunächst zurück. Ihr früherer Bandkollege Danny McGuire (Tommy Noonan) überzeugt sie, wieder bei einer Benefizveranstaltung aufzutreten. Vor dem Publikum stellt sie sich als Mrs. Norman Maine vor. Die Rückkehr knüpft somit ihre öffentliche Arbeit an die Erinnerung an ihren Mann. Der Satz beantwortet nicht die berufliche Namensgebung des Studios, sondern setzt einen eigenen persönlichen Akzent.",
-      "anchor": "Der letzte Auftritt beginnt mit dem Namen Mrs. Norman Maine.",
       "interest": "Trennt persönliche Schlussvorstellung und Künstlername.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der letzte Auftritt beginnt mit dem Namen Mrs. Norman Maine."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Standfotos wurden mit der erhaltenen Tonspur verbunden.",
       "context": "Für die Rekonstruktion fand Ronald Haver große Teile des zuvor entfernten Materials wieder. Einige Bildpassagen blieben jedoch verschollen, während die ursprüngliche Tonspur erhalten war. Die Bearbeiter kombinierten deshalb Standfotos mit dem passenden Ton. Das AFI beschreibt diese Lösung und die Präsentation 1983. Die rekonstruierte Fassung macht verlorene Zusammenhänge wieder zugänglich, ohne zu behaupten, dass jedes fehlende bewegte Bild tatsächlich wiedergefunden worden sei.",
-      "anchor": "Erhaltener Ton und Standbilder überbrücken fehlende Filmaufnahmen.",
       "interest": "Erklärt Grenze und Methode einer Rekonstruktion.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Erhaltener Ton und Standbilder überbrücken fehlende Filmaufnahmen."
     },
     {
       "code": "Y",
@@ -178,12 +178,12 @@
       ],
       "short": "Die Produktion mit Garland und Mason erschien 1954.",
       "context": "Ein neuer Stern am Himmel erschien 1954. Die erste Verfilmung von A Star Is Born war bereits 1937 mit Janet Gaynor und Fredric March entstanden, 17 Jahre früher. Das AFI beschreibt die erneute Bearbeitung dieser Geschichte durch Moss Hart und George Cukor. Der Abstand trennt zwei eigenständige Produktionen derselben Grundidee. Die spätere Rekonstruktion des Garland-Films verändert sein ursprüngliches Veröffentlichungsjahr nicht und begründet keine weitere neue Verfilmung.",
-      "anchor": "1937 erste Verfilmung, 1954 Garland-Fassung: 17 Jahre Abstand.",
       "interest": "Trennt Original, Neuverfilmung und Rekonstruktion.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "1937 erste Verfilmung, 1954 Garland-Fassung: 17 Jahre Abstand."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "George Cukor inszenierte die Fassung mit Garland und Mason.",
       "context": "George Cukor führte bei der Neuverfilmung Hauptregie; Moss Hart schrieb das neue Drehbuch auf Grundlage der früheren Geschichte. Das AFI trennt den Hauptcredit von Arbeiten an einzelnen später aufgenommenen musikalischen Sequenzen. Die Produktion verbindet Garlands Gesangsauftritte mit den privaten und beruflichen Konflikten der beiden Hauptfiguren. Weitere Mitwirkung an einer Nummer macht den betreffenden Gestalter deshalb nicht automatisch zum gemeinsamen Hauptregisseur des gesamten Films.",
-      "anchor": "Hauptregie der Garland-Fassung: George Cukor.",
       "interest": "Ordnet die Version und die Betreuung einzelner Nummern ein.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Hauptregie der Garland-Fassung: George Cukor."
     }
   ]
 }

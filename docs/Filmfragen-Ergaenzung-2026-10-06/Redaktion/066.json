@@ -39,12 +39,12 @@
       ],
       "short": "Jiminy Cricket (Originalstimme Cliff Edwards) wird Pinocchios Gewissen.",
       "context": "Jiminy Cricket (Originalstimme Cliff Edwards) wird Pinocchios Gewissen. Er soll den lebendig gewordenen Jungen begleiten, kann dessen Entscheidungen aber nicht einfach kontrollieren.",
-      "anchor": "Jiminy soll beraten, entscheiden muss Pinocchio.",
       "interest": "Jiminy soll beraten, entscheiden muss Pinocchio.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jiminy soll beraten, entscheiden muss Pinocchio."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Pinocchio (Originalstimme Dickie Jones) soll mutig, ehrlich und selbstlos handeln.",
       "context": "Pinocchio (Originalstimme Dickie Jones) soll mutig, ehrlich und selbstlos handeln. Die Verwandlung hängt somit an seinen Entscheidungen, nicht allein am ursprünglichen Zauber der Blauen Fee (Originalstimme Evelyn Venable).",
-      "anchor": "Ein echter Junge braucht mehr als einen lebendigen Körper.",
       "interest": "Ein echter Junge braucht mehr als einen lebendigen Körper.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein echter Junge braucht mehr als einen lebendigen Körper."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Stromboli (Originalstimme Charles Judels) sperrt Pinocchio (Originalstimme Dickie Jones) ein.",
       "context": "Stromboli (Originalstimme Charles Judels) sperrt Pinocchio (Originalstimme Dickie Jones) ein. Die versprochene Künstlerkarriere wird zur Ausbeutung; seine Besonderheit dient nun dem Gewinn eines anderen.",
-      "anchor": "Der Bühnenruhm endet zunächst im Käfig.",
       "interest": "Der Bühnenruhm endet zunächst im Käfig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Bühnenruhm endet zunächst im Käfig."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Die Jungen verwandeln sich in Esel und werden verkauft.",
       "context": "Die Jungen verwandeln sich in Esel und werden verkauft. Pinocchio (Originalstimme Dickie Jones) entkommt vor der vollständigen Verwandlung; das regellose Vergnügen verbirgt ein Geschäft mit Zwangsarbeit.",
-      "anchor": "Die Insel macht aus ihren Gästen verkaufbare Esel.",
       "interest": "Die Insel macht aus ihren Gästen verkaufbare Esel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Insel macht aus ihren Gästen verkaufbare Esel."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Pinocchio (Originalstimme Dickie Jones) erzeugt Rauch, damit Monstro niest.",
       "context": "Pinocchio (Originalstimme Dickie Jones) erzeugt Rauch, damit Monstro niest. Die improvisierte Flucht rettet Geppetto (Originalstimme Christian Rub) zunächst aus dem Bauch, beendet aber die Verfolgung durch den Wal noch nicht.",
-      "anchor": "Rauch verwandelt den Walbauch in einen Fluchtweg.",
       "interest": "Rauch verwandelt den Walbauch in einen Fluchtweg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Rauch verwandelt den Walbauch in einen Fluchtweg."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Pinocchio (Originalstimme Dickie Jones) rettet Geppetto (Originalstimme Christian Rub) und riskiert dabei sein Leben.",
       "context": "Pinocchio (Originalstimme Dickie Jones) rettet Geppetto (Originalstimme Christian Rub) und riskiert dabei sein Leben. Die abschließende Verwandlung folgt auf dieses Handeln, statt eine beliebige Belohnung ohne Prüfung zu sein.",
-      "anchor": "Die Rettung des Vaters macht Pinocchio zum echten Jungen.",
       "interest": "Die Rettung des Vaters macht Pinocchio zum echten Jungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rettung des Vaters macht Pinocchio zum echten Jungen."
     },
     {
       "code": "Y",
@@ -183,12 +183,12 @@
       ],
       "short": "Der Film wurde 1940 erstmals veröffentlicht.",
       "context": "1940 erschien Disneys zweiter abendfüllender Animationsfilm. Carlo Collodis Buch war 1883 veröffentlicht worden, 57 Jahre zuvor. Der Film verbindet den älteren Stoff mit neuen Figuren und dem Lied When You Wish Upon a Star.",
-      "anchor": "Collodis Buch von 1883 wurde 57 Jahre später, 1940, Disneys zweiter langer Animationsfilm.",
       "interest": "Collodis Buch von 1883 wurde 57 Jahre später, 1940, Disneys zweiter langer Animationsfilm.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Collodis Buch von 1883 wurde 57 Jahre später, 1940, Disneys zweiter langer Animationsfilm."
     },
     {
       "code": "D",
@@ -207,12 +207,12 @@
       ],
       "short": "Regie: Ben Sharpsteen und Hamilton Luske und Bill Roberts und Norman Ferguson und Jack Kinney und Wilfred Jackson und T. Hee.",
       "context": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T. Hee verantworteten Sequenzen. Walt Disney produzierte, steht aber nicht anstelle dieses Regieteams.",
-      "anchor": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T.",
       "interest": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ben Sharpsteen und Hamilton Luske leiteten die Gesamtproduktion; Bill Roberts, Norman Ferguson, Jack Kinney, Wilfred Jackson und T."
     }
   ]
 }

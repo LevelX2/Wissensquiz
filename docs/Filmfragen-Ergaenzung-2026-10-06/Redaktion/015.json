@@ -32,13 +32,13 @@
       ],
       "short": "Fairfax will Lorettas Wissen für seine Schatzsuche benutzen.",
       "context": "Loretta verarbeitet archäologisches Wissen in ihren Abenteuerromanen. Fairfax nimmt diese Grundlage ernster als den fiktionalen Rahmen. Aus dem Schreiben über Gefahren wird deshalb eine tatsächliche Zwangslage.",
-      "anchor": "Fairfax hält Lorettas Romanwissen für einen Schlüssel zum echten Schatz.",
       "interest": "Die Entführung erklärt die Verbindung zwischen Fiktion und Abenteuer.",
       "sources": [
         "paramount",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fairfax hält Lorettas Romanwissen für einen Schlüssel zum echten Schatz."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Alan ist das Covermodel für den Helden Dash.",
       "context": "Alan möchte Loretta (Sandra Bullock) beweisen, dass er auch außerhalb der Coverbilder helfen kann. Seine vertraute Heldenpose trifft im Dschungel auf eine Aufgabe, für die er wenig praktische Erfahrung hat.",
-      "anchor": "Alan sieht als Coverheld aus und muss echtes Helfen erst lernen.",
       "interest": "Die berufliche Rolle begründet die komische Spannung der Figur.",
       "sources": [
         "paramount"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Alan sieht als Coverheld aus und muss echtes Helfen erst lernen."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Ein örtliches Lied weist auf das Grab in einer Cenote hin.",
       "context": "Loretta verbindet die überlieferten Worte mit dem Landschaftsraum. Alan (Channing Tatum) kann diese Deutung nicht durch seine körperliche Heldenrolle ersetzen. Ihr eigenes Wissen bleibt für das Abenteuer entscheidend.",
-      "anchor": "Loretta hört im örtlichen Lied den Weg zum Grab.",
       "interest": "Die Szene zeigt die praktische Bedeutung ihres Fachwissens.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Loretta hört im örtlichen Lied den Weg zum Grab."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Die Feuerkrone besteht aus roten Muschelschalen.",
       "context": "Loretta (Sandra Bullock) erkennt im Grab ein Zeichen der Beziehung des verstorbenen Königspaars. Fairfax (Daniel Radcliffe) erwartet materiellen Reichtum und verkennt diese Bedeutung. Der Schatzbegriff wird dadurch neu bestimmt.",
-      "anchor": "Die Feuerkrone ist ein Liebeszeichen aus roten Muscheln.",
       "interest": "Der Fund verändert den angenommenen Wert des Schatzes.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Feuerkrone ist ein Liebeszeichen aus roten Muscheln."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Sandra Bullock spielte Loretta und produzierte den Film mit.",
       "context": "Die Hauptdarstellerin gehört damit auch zu den Verantwortlichen hinter der Produktion. Die Nee-Brüder inszenierten, Seth Gordon entwickelte die Story und war ebenfalls Produzent. Mehrere Aufgaben verteilen sich auf verschiedene Beteiligte.",
-      "anchor": "Bullock spielt Loretta und trägt als Produzentin Verantwortung.",
       "interest": "Die Beteiligung hinter der Kamera erweitert den Blick auf die Hauptdarstellerin.",
       "sources": [
         "paramount"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bullock spielt Loretta und trägt als Produzentin Verantwortung."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Die Produktion drehte in der Dominikanischen Republik.",
       "context": "Die erzählte Vulkaninsel ist ein fiktionaler Abenteuerort. Gedreht wurde an mehreren Orten der Dominikanischen Republik und in Studios vor Ort. Reale Drehlandschaft und erfundene Geografie sind deshalb auseinanderzuhalten.",
-      "anchor": "Die erfundene Schatzinsel erhält ihre Drehwelt in der Dominikanischen Republik.",
       "interest": "Der Drehort wird sinnvoll von der erzählten Insel getrennt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die erfundene Schatzinsel erhält ihre Drehwelt in der Dominikanischen Republik."
     },
     {
       "code": "Y",
@@ -177,14 +177,14 @@
       ],
       "short": "Der Film wurde 2022 erstmals veröffentlicht.",
       "context": "1984 erschien „Auf der Jagd nach dem grünen Diamanten“, ebenfalls eine Abenteuerkomödie mit einer Romanautorin. „The Lost City“ folgte 2022, achtunddreißig Jahre später. Das ist ein thematischer Zeitanker, keine behauptete direkte Fortsetzung.",
-      "anchor": "1984 und 2022: achtunddreißig Jahre zwischen zwei Abenteuern mit Romanautorinnen.",
       "interest": "Ein vergleichbares Filmmotiv schafft eine überprüfbare Zeitverbindung.",
       "sources": [
         "handlung",
         "paramount",
         "vorgaenger"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1984 und 2022: achtunddreißig Jahre zwischen zwei Abenteuern mit Romanautorinnen."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "Aaron Nee und Adam Nee führten gemeinsam Regie.",
       "context": "Die beiden wirkten außerdem am Drehbuch von Oren Uziel und Dana Fox mit. Seth Gordon lieferte die zugrunde liegende Story. Der gemeinsame Regiecredit ist damit Teil einer breiter verteilten Autorenarbeit.",
-      "anchor": "Die Nee-Brüder inszenieren und arbeiten am Drehbuch mit.",
       "interest": "Das vollständige Team wird mit seinen konkreten Autorenaufgaben verbunden.",
       "sources": [
         "paramount"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Nee-Brüder inszenieren und arbeiten am Drehbuch mit."
     }
   ]
 }

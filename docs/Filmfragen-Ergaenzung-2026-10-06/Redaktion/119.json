@@ -37,13 +37,13 @@
       ],
       "short": "Die Produktion soll scheitern, damit der Betrug verborgen bleibt.",
       "context": "Max Bialystock (Zero Mostel) und Leo Bloom (Gene Wilder) verkaufen mehr Anteile am Stück, als sie bei einem Erfolg bedienen könnten. Nur ein Verlust scheint ihnen den Zugriff auf das eingesammelte Geld zu sichern. Deshalb behandeln sie schlechte Qualität nicht als Problem, sondern als Voraussetzung ihres Geschäfts.",
-      "anchor": "Der sichere Misserfolg soll den finanziellen Erfolg des Betrugs schaffen.",
       "interest": "Der sichere Misserfolg soll den finanziellen Erfolg des Betrugs schaffen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der sichere Misserfolg soll den finanziellen Erfolg des Betrugs schaffen."
     },
     {
       "code": "L2",
@@ -62,13 +62,13 @@
       ],
       "short": "Leo kommt als Buchhalter zur Prüfung von Max’ Unterlagen.",
       "context": "Leo Bloom (Gene Wilder) entdeckt Unregelmäßigkeiten bei Max Bialystock (Zero Mostel). Seine sachliche Rechnung zeigt dann, wie sich mit einem Flop mehr verdienen ließe als mit einem Erfolg. Die Idee entsteht also aus der Perspektive des Prüfers, der anschließend die Grenze zwischen Buchhaltung und aktiver Beteiligung am Betrug überschreitet.",
-      "anchor": "Der Prüfer wird durch seine eigene Rechnung zum Komplizen.",
       "interest": "Der Prüfer wird durch seine eigene Rechnung zum Komplizen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Prüfer wird durch seine eigene Rechnung zum Komplizen."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Der groteske Auftritt wird als Satire gefeiert und macht das Stück zum Hit.",
       "context": "Max Bialystock (Zero Mostel) und Leo Bloom (Gene Wilder) wollen mit einem geschmacklosen Stück das Publikum vertreiben. Doch die Inszenierung und der exzentrische Hauptdarsteller L.S.D. (Dick Shawn) verkehren die Verehrung in Komik. Das Publikum lacht, während die Produzenten erschrocken verstehen, dass sie die vielen verkauften Gewinnanteile nun auszahlen müssten.",
-      "anchor": "Das Publikum rettet den Abend und ruiniert den Flopplan.",
       "interest": "Das Publikum rettet den Abend und ruiniert den Flopplan.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Publikum rettet den Abend und ruiniert den Flopplan."
     },
     {
       "code": "M2",
@@ -111,13 +111,13 @@
       ],
       "short": "Max verkauft die Beteiligungen an wohlhabende Frauen, die er umwirbt.",
       "context": "Max Bialystock (Zero Mostel) setzt persönliche Zuwendung als Mittel der Finanzierung ein. Die Anteile, die er seinen Geldgeberinnen anbietet, übersteigen zusammen die mögliche reale Beteiligung bei weitem. Die Farce verbindet so sein Privatverhalten mit der Geschäftsidee: Beziehungspflege und Betrug sind Teile desselben Systems.",
-      "anchor": "Max macht seine Verehrerinnen zu überzähligen Geldgeberinnen.",
       "interest": "Max macht seine Verehrerinnen zu überzähligen Geldgeberinnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Max macht seine Verehrerinnen zu überzähligen Geldgeberinnen."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Die scheinbare Bestechung soll eine negative Kritik auslösen.",
       "context": "Max Bialystock (Zero Mostel) und Leo Bloom (Gene Wilder) brauchen einen Misserfolg. Max verhält sich vor der Premiere gegenüber dem Kritiker absichtlich anstößig. Eine normalerweise erfolgsorientierte Einflussnahme wird umgedreht: Er möchte gerade dessen Empörung und einen Verriss erreichen.",
-      "anchor": "Max provoziert den Kritiker, weil ein Verriss seinem Flopplan helfen soll.",
       "interest": "Der Betrugsplan kehrt selbst die gewöhnliche Beziehung von Produzent und Kritik um.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Max provoziert den Kritiker, weil ein Verriss seinem Flopplan helfen soll."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Die Männer wiederholen das Modell mit Prisoners of Love.",
       "context": "Max Bialystock (Zero Mostel), Leo Bloom (Gene Wilder) und Franz Liebkind (Kenneth Mars) landen im Gefängnis. Dort produzieren sie ein neues Musical und nehmen erneut überzählige Beteiligungen an. Die vorherige Beteuerung, aus dem Fehler gelernt zu haben, wird durch das konkrete Handeln widerlegt; die Farce endet mit der Wiederkehr ihres Geschäftsmodells.",
-      "anchor": "Das Gefängnis stoppt den Theaterbetrug nicht, sondern liefert neue Anleger.",
       "interest": "Das Gefängnis stoppt den Theaterbetrug nicht, sondern liefert neue Anleger.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Gefängnis stoppt den Theaterbetrug nicht, sondern liefert neue Anleger."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1967.",
       "context": "Das Original wurde schon im November 1967 öffentlich gezeigt; der New Yorker Start folgte im März 1968. AFI unterscheidet diese Starttermine ausdrücklich. Die neue Musicalverfilmung von 2005 erschien 38 Jahre nach dem Original. Damit lassen sich das oft genannte Kinojahr 1968 und die spätere musikalische Fassung vom ersten Veröffentlichungsjahr trennen.",
-      "anchor": "Original 1967, New Yorker Start 1968, Musicalverfilmung 2005: 38 Jahre nach dem Original.",
       "interest": "Die erste öffentliche Veröffentlichung von späterem Kinoerfolg und neuer Musicalfassung unterscheiden.",
       "sources": [
         "handlung",
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Original 1967, New Yorker Start 1968, Musicalverfilmung 2005: 38 Jahre nach dem Original."
     },
     {
       "code": "D",
@@ -210,7 +210,6 @@
       ],
       "short": "Der Regiecredit lautet Mel Brooks.",
       "context": "Mel Brooks schrieb und inszenierte den Film als sein Kinoregiedebüt. Zero Mostel spielt den Produzenten Max Bialystock, Gene Wilder den Buchhalter Leo Bloom. Brooks macht aus der Produktionswirtschaft selbst eine Farce: Künstlerische Entscheidungen sind zunächst Mittel eines Betrugs und erzeugen dann einen ungewollten Erfolg.",
-      "anchor": "Mel Brooks: Zero Mostel spielt den Produzenten Max Bialystock, Gene Wilder den Buchhalter Leo Bloom.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
@@ -218,7 +217,8 @@
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Mel Brooks: Zero Mostel spielt den Produzenten Max Bialystock, Gene Wilder den Buchhalter Leo Bloom."
     }
   ]
 }

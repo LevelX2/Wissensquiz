@@ -45,13 +45,13 @@
       ],
       "short": "Der Fahrer bietet ihr eine Fahrt zum nächsten Diner an, um Hilfe zu rufen.",
       "context": "Jeff Taylor (Kurt Russell) bleibt beim liegengebliebenen Wagen, während Amy (Kathleen Quinlan) das scheinbar hilfreiche Angebot annimmt. Als Jeff den Wagen selbst repariert und zum Diner fährt, ist sie verschwunden. Die räumliche Trennung des Paars macht aus einer normalen Panne eine Suche ohne verlässliche Zeugen.",
-      "anchor": "Die Hilfsfahrt nach der Panne wird zum Beginn der Entführung.",
       "interest": "Die Ausgangssituation erklärt das plötzliche Verschwinden.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Hilfsfahrt nach der Panne wird zum Beginn der Entführung."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Sein vollständiges Leugnen lässt Jeff zunächst ohne Beweis zurück.",
       "context": "Jeff Taylor (Kurt Russell) erkennt den Lastwagen wieder, der Amy (Kathleen Quinlan) mitgenommen hat. Der Fahrer (J. T. Walsh) leugnet die Begegnung, und eine Kontrolle liefert zunächst keinen Fund. Die Suche wird dadurch zum Kampf gegen eine gezielt erzeugte Beweislosigkeit: Jeff weiß, was geschehen ist, kann es aber nicht vorzeigen.",
-      "anchor": "Der Fahrer leugnet selbst die ursprüngliche Begegnung.",
       "interest": "Die Szene erklärt die Isolation des Suchenden.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Fahrer leugnet selbst die ursprüngliche Begegnung."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Die gelösten Kabel lassen sich wieder verbinden; die Panne war sabotiert.",
       "context": "Nachdem Amy (Kathleen Quinlan) weggefahren ist, untersucht Jeff Taylor (Kurt Russell) den Motor. Die manipulierten Anschlüsse erklären, weshalb der Wagen liegenblieb. Später bestätigt der Entführer die Sabotage. Damit gehören Panne, Hilfsangebot und Erpressung zu einem vorbereiteten Ablauf und nicht zu einer zufälligen Folge schlechter Erfahrungen.",
-      "anchor": "Die leicht behebbare Panne wurde absichtlich herbeigeführt.",
       "interest": "Die technische Entdeckung zeigt den ersten Teil des Täterplans.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die leicht behebbare Panne wurde absichtlich herbeigeführt."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Die großen Scheine außen lassen den kleineren Betrag zunächst wertvoller wirken.",
       "context": "Jeff Taylor (Kurt Russell) kann die geforderte Summe nicht abheben. Er gestaltet den kleineren Betrag so, dass dessen Außenseiten einen höheren Wert vortäuschen. Gleichzeitig nimmt er einen Brieföffner mit. Beide Improvisationen verschaffen Handlungsspielraum: Der Geldtrick verzögert die Entdeckung, das Werkzeug hilft ihm aus der Fesselung.",
-      "anchor": "Große Scheine außen verbergen einen viel kleineren Geldbetrag.",
       "interest": "Der Bluff zeigt eine glaubhafte improvisierte Gegenwehr.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Große Scheine außen verbergen einen viel kleineren Geldbetrag."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Das Versteck am Lastwagen bringt ihn zum geheimen Aufenthaltsort.",
       "context": "Nachdem Jeff Taylor (Kurt Russell) den nächsten Treffpunkt erfahren hat, versteckt er sich am Lastwagen. Der Fahrer (J. T. Walsh) bringt ihn dadurch selbst zur Farm. Dort sieht Jeff Gegenstände früherer Opfer und schließlich Amy (Kathleen Quinlan). Die riskante Mitfahrt verwandelt die Suche erstmals in einen unmittelbaren Zugang zum Täterversteck.",
-      "anchor": "Die unbemerkte Mitfahrt führt vom Treffpunkt zur Farm.",
       "interest": "Die Frage verbindet eine riskante Entscheidung mit dem Ermittlungsdurchbruch.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die unbemerkte Mitfahrt führt vom Treffpunkt zur Farm."
     },
     {
       "code": "S2",
@@ -170,12 +170,12 @@
       ],
       "short": "Mostow überzeugte die Beteiligten mit einer Testvorführung ohne die lange Vorgeschichte.",
       "context": "Die zusätzliche Eröffnung zeigte Jeff Taylor (Kurt Russell) als traumatisierten Kameramann vor dem Umzug. Jonathan Mostow hielt diese Erklärung für unnötig. Bei einer zweiten Testvorführung ließ er sie weg, und die Beteiligten bevorzugten die direktere Fassung. Der fertige Film beginnt deshalb mit der Reise und vermittelt die Figur durch sichtbare Entscheidungen.",
-      "anchor": "Die entfernte Vorgeschichte macht den direkten Reisebeginn wirksamer.",
       "interest": "Der Produktionsbefund zeigt, wie Kürzung die Perspektive des Thrillers schärft.",
       "sources": [
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die entfernte Vorgeschichte macht den direkten Reisebeginn wirksamer."
     },
     {
       "code": "Y",
@@ -194,13 +194,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1997.",
       "context": "Breakdown erschien 1997. Drei Jahre später führte Jonathan Mostow bei U-571 von 2000 Regie. Die Wüstenfahrt und der U-Boot-Film haben sehr unterschiedliche Schauplätze, doch Mostow beschreibt seine Filme als Reisen mit einer klaren Vorwärtsbewegung. Der Karrierevergleich verbindet das Erscheinungsjahr mit einer wiederkehrenden erzählerischen Vorliebe.",
-      "anchor": "Breakdown 1997 → Mostows U-571 2000: drei Jahre.",
       "interest": "Die Verbindung verankert das Filmjahr durch eine spätere Arbeit desselben Regisseurs.",
       "sources": [
         "wiki",
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Breakdown 1997 → Mostows U-571 2000: drei Jahre."
     },
     {
       "code": "D",
@@ -219,13 +219,13 @@
       ],
       "short": "Jonathan Mostow führte bei diesem Film Regie.",
       "context": "Jonathan Mostow entwickelte Breakdown, nachdem eine geplante Verfilmung von Stephen Kings Trucks scheiterte. Die bereits gesuchten Wüstenorte und Lastwagen führten ihn zu einer neuen, eigenständigen Geschichte. Eine zusätzlich gedrehte Vorgeschichte des Helden wurde wieder entfernt. Der Film erklärt Jeff Taylor (Kurt Russell) deshalb vor allem durch sein Verhalten unter wachsendem Druck.",
-      "anchor": "Mostow entwickelte aus einem gescheiterten Trucks-Projekt eine eigenständige Entführungsgeschichte.",
       "interest": "Die Entstehung erklärt die konzentrierte Erzählung über einen gewöhnlichen Reisenden.",
       "sources": [
         "wiki",
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mostow entwickelte aus einem gescheiterten Trucks-Projekt eine eigenständige Entführungsgeschichte."
     }
   ]
 }

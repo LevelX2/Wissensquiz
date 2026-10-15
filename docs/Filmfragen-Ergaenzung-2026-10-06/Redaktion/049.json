@@ -36,13 +36,13 @@
       ],
       "short": "Kafuku arbeitet am Theater.",
       "context": "Kafuku (Hidetoshi Nishijima) arbeitet am Theater. Nach dem Tod seiner Frau nimmt er ein Angebot in Hiroshima an; künstlerische Arbeit und private Trauer bleiben dabei eng verbunden.",
-      "anchor": "Kafukus Beruf führt ihn zum Theater in Hiroshima.",
       "interest": "Kafukus Beruf führt ihn zum Theater in Hiroshima.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kafukus Beruf führt ihn zum Theater in Hiroshima."
     },
     {
       "code": "L2",
@@ -61,13 +61,13 @@
       ],
       "short": "Misaki wird Kafukus Fahrerin.",
       "context": "Misaki (Tōko Miura) wird Kafukus Fahrerin. Er muss die Fahrregel des Festivals akzeptieren; die zunächst unerwünschte Hilfe eröffnet schließlich einen Raum für persönliche Gespräche.",
-      "anchor": "Die angeordnete Fahrerin wird zur Gesprächspartnerin.",
       "interest": "Die angeordnete Fahrerin wird zur Gesprächspartnerin.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die angeordnete Fahrerin wird zur Gesprächspartnerin."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Das Ensemble probt Onkel Wanja.",
       "context": "Das Ensemble probt Onkel Wanja. Unterschiedliche Sprachen treffen aufeinander, sodass Zuhören und aufmerksames Reagieren wichtiger werden als eine für alle gleiche gesprochene Sprache.",
-      "anchor": "Onkel Wanja wird zum gemeinsamen Text vieler Sprachen.",
       "interest": "Onkel Wanja wird zum gemeinsamen Text vieler Sprachen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Onkel Wanja wird zum gemeinsamen Text vieler Sprachen."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Kafuku hört die von Oto (Reika Kirishima) besprochene Kassette.",
       "context": "Kafuku (Hidetoshi Nishijima) hört die von Oto (Reika Kirishima) besprochene Kassette. Die ausgesparten eigenen Einsätze erlauben ihm, seinen Text einzufügen; ihre Stimme bleibt damit Teil seines Arbeitsalltags.",
-      "anchor": "Otos Stimme gibt den Einsatz für Kafukus Text.",
       "interest": "Otos Stimme gibt den Einsatz für Kafukus Text.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Otos Stimme gibt den Einsatz für Kafukus Text."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Kōji Takatsuki (Masaki Okada) wird nach einem tödlichen Angriff verhaftet.",
       "context": "Kōji Takatsuki (Masaki Okada) wird nach einem tödlichen Angriff verhaftet. Kafuku (Hidetoshi Nishijima) muss die Rolle übernehmen oder die Produktion absagen; die Entscheidung fordert die Rückkehr zur eigenen Schauspielarbeit.",
-      "anchor": "Die Verhaftung macht Kafuku wieder zum Wanja-Darsteller.",
       "interest": "Die Verhaftung macht Kafuku wieder zum Wanja-Darsteller.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Verhaftung macht Kafuku wieder zum Wanja-Darsteller."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Beide sprechen über Schuldgefühle nach dem Tod naher Menschen.",
       "context": "Beide sprechen über Schuldgefühle nach dem Tod naher Menschen. Misaki (Tōko Miura) zeigt Kafuku (Hidetoshi Nishijima) die verschneiten Reste ihres Elternhauses; persönliches Erzählen löst die Verluste nicht auf, schafft aber Nähe.",
-      "anchor": "Hokkaido bringt zwei unterschiedliche Schuldgefühle zusammen.",
       "interest": "Hokkaido bringt zwei unterschiedliche Schuldgefühle zusammen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Hokkaido bringt zwei unterschiedliche Schuldgefühle zusammen."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Der Film wurde 2021 erstmals veröffentlicht.",
       "context": "2021 wurde die Murakami-Verfilmung in Cannes uraufgeführt. Die zugrunde liegende Kurzgeschichte erschien 2014; sieben Jahre liegen zwischen Text und Film. Tschechows Onkel Wanja bildet innerhalb der Geschichte eine wesentlich ältere weitere Vorlage.",
-      "anchor": "Murakamis Kurzgeschichte von 2014 wurde sieben Jahre später, 2021, verfilmt.",
       "interest": "Murakamis Kurzgeschichte von 2014 wurde sieben Jahre später, 2021, verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Murakamis Kurzgeschichte von 2014 wurde sieben Jahre später, 2021, verfilmt."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Regie: Ryusuke Hamaguchi.",
       "context": "Hamaguchi schrieb das Drehbuch mit Takamasa Oe. Die Murakami-Adaption verbindet eine Fahrtgemeinschaft mit Proben für ein mehrsprachiges Theaterstück; die vertraute Autofahrt schafft Zeit für Gespräche über Verlust.",
-      "anchor": "Hamaguchi schrieb das Drehbuch mit Takamasa Oe.",
       "interest": "Hamaguchi schrieb das Drehbuch mit Takamasa Oe.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hamaguchi schrieb das Drehbuch mit Takamasa Oe."
     }
   ]
 }

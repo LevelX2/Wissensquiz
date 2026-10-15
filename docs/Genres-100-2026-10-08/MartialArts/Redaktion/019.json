@@ -32,11 +32,11 @@
       ],
       "short": "Die Ermittlungen führen nach Paris.",
       "context": "Nach dem Anschlag auf Botschafter Solon Han (Tzi Ma) geraten Lee (Jackie Chan) und James Carter (Chris Tucker) auf eine Spur nach Frankreich. In Paris treffen ihre Ermittlungen auf lokale Polizei, einen widerwilligen Taxifahrer und die Verbindungen der Triaden. Der neue Schauplatz erweitert den Fall über Los Angeles hinaus und stellt das Duo vor zusätzliche sprachliche und institutionelle Schwierigkeiten.",
-      "anchor": "Paris wird zum neuen Schauplatz der gemeinsamen Ermittlungen.",
       "interest": "Die Haupthandlung wird über ihren markanten Ortswechsel zugänglich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Paris wird zum neuen Schauplatz der gemeinsamen Ermittlungen."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Carter arbeitet zu Beginn als Verkehrspolizist.",
       "context": "James Carter (Chris Tucker) ist am Anfang nicht mit einem internationalen Spezialfall beschäftigt, sondern mit dem Straßenverkehr von Los Angeles. Erst die Nachricht vom Anschlag auf Botschafter Solon Han (Tzi Ma) zieht ihn wieder in Lees (Jackie Chan) Ermittlungen hinein. Seine Ausgangsposition macht den Sprung vom gewöhnlichen Polizeialltag zum persönlichen und grenzüberschreitenden Fall besonders deutlich.",
-      "anchor": "Vom Verkehrsdienst führt Carter der Anschlag zurück zu Lee.",
       "interest": "Die anfängliche Aufgabe ist von Zielort und Täterbeziehungen unabhängig.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Vom Verkehrsdienst führt Carter der Anschlag zurück zu Lee."
     },
     {
       "code": "M1",
@@ -78,11 +78,11 @@
       ],
       "short": "Lee und Kenji wuchsen als Pflegebrüder zusammen auf.",
       "context": "Lee (Jackie Chan) verfolgt den Schützen und erkennt Kenji (Hiroyuki Sanada), mit dem er in seiner Kindheit gemeinsam aufgewachsen ist. Dadurch kollidiert seine Pflicht als Polizist mit einer früheren familiären Bindung. Das kurze Zögern ermöglicht dem Attentäter die Flucht. Die Beziehung bleibt später bedeutsam, weil ihre gegensätzlichen Lebenswege den Konflikt über eine gewöhnliche Verfolgung hinaus verschärfen.",
-      "anchor": "Die gemeinsame Kindheit steht zwischen Lee und seiner Polizeipflicht.",
       "interest": "Eine persönliche Täterbeziehung erklärt eine konkrete Handlung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die gemeinsame Kindheit steht zwischen Lee und seiner Polizeipflicht."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Shy Shen ist eine Liste der Triadenführer.",
       "context": "Lee (Jackie Chan) und James Carter (Chris Tucker) suchen zunächst nach einer vermeintlichen Person von besonderer Bedeutung für die Triaden. Schließlich zeigt sich, dass Shy Shen eine Liste ihrer führenden Mitglieder bezeichnet. Diese Information kann das Netzwerk offenlegen und gefährdet deshalb diejenigen, die sie zugänglich machen. Die Enthüllung verändert den Gegenstand der Suche, ohne die Bedrohung durch die Organisation zu beseitigen.",
-      "anchor": "Die scheinbare Person erweist sich als gefährliche Namensliste.",
       "interest": "Der Informationsgegenstand wird unabhängig von seinem Versteck geprüft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die scheinbare Person erweist sich als gefährliche Namensliste."
     },
     {
       "code": "S1",
@@ -124,11 +124,11 @@
       ],
       "short": "Die Liste ist auf Genevièves Hinterkopf tätowiert.",
       "context": "Geneviève (Noémie Lenoir) kann die Namen der Triadenführer nicht einfach als gewöhnliches Schriftstück übergeben. Sie sind auf ihrem Hinterkopf tätowiert und durch ihre Haare verborgen. Lee (Jackie Chan) und James Carter (Chris Tucker) müssen deshalb zugleich die Information und die Person schützen. Das besondere Versteck erklärt, warum ihre Enttarnung eine unmittelbare körperliche Gefahr für die Informantin mit sich bringt.",
-      "anchor": "Die Informantin trägt die gefährlichen Namen am eigenen Körper.",
       "interest": "Das physische Versteck bildet ein eigenes Detail gegenüber dem Listeninhalt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Informantin trägt die gefährlichen Namen am eigenen Körper."
     },
     {
       "code": "S2",
@@ -147,11 +147,11 @@
       ],
       "short": "Der Taxifahrer George erschießt Reynard.",
       "context": "Varden Reynard (Max von Sydow) will nach der Flucht Lee (Jackie Chan), James Carter (Chris Tucker) und Geneviève (Noémie Lenoir) beseitigen. George (Yvan Attal), der sie zuvor als Taxifahrer begleitet hat, schießt von hinten auf ihn. Damit übernimmt eine zunächst widerwillige Nebenfigur die entscheidende Rettung. Der Schluss macht aus dem Fahrer einen aktiven Helfer, dessen Loyalität inzwischen über die bezahlte Fahrt hinausgeht.",
-      "anchor": "Der zunächst widerwillige Fahrer rettet das Trio vor Reynard.",
       "interest": "Der entscheidende Helfer ist ein anderes Ziel als Schauplatz oder Informantenliste.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der zunächst widerwillige Fahrer rettet das Trio vor Reynard."
     },
     {
       "code": "Y",
@@ -170,14 +170,14 @@
       ],
       "short": "2001 Rush Hour 2, 2007 Rush Hour 3: sechs Jahre.",
       "context": "Rush Hour 3 wurde 2007 veröffentlicht; Getty dokumentiert die Los-Angeles-Premiere am 30. Juli. Der unmittelbar vorherige Kinofilm Rush Hour 2 erschien 2001, sechs Jahre zuvor. Die erzählte Zeit zwischen den Fällen beträgt dagegen nur drei Jahre. Der Vergleich zeigt deshalb zugleich, warum ein Handlungsabstand keine zuverlässige Angabe für das tatsächliche Erscheinungsjahr einer Fortsetzung ist.",
-      "anchor": "Sechs reale Jahre trennen 2001 und 2007, nicht die drei erzählten Jahre.",
       "interest": "Die Zeitverknüpfung trennt Veröffentlichung von Handlungschronologie.",
       "sources": [
         "premiere",
         "archiv",
         "vergleich",
         "handlung"
-      ]
+      ],
+      "objective": "Sechs reale Jahre trennen 2001 und 2007, nicht die drei erzählten Jahre."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "Brett Ratner führte Regie.",
       "context": "Brett Ratner führt auch beim dritten Kinofilm des Duos die Regie; Jeff Nathanson schrieb erneut das Drehbuch. Lee (Jackie Chan) und James Carter (Chris Tucker) geraten diesmal in einen Fall mit französischem Schauplatz und einer belastenden Verbindung zu Lees Kindheit. Das spanische Filmregister ICAA nennt Ratner ausdrücklich als Regisseur und führt das Werk als amerikanische Produktion des Jahres 2007.",
-      "anchor": "Ratner führt das Duo in einen Paris-Fall mit persönlichem Konflikt.",
       "interest": "Der Hauptregiecredit wird anhand eines institutionellen Filmregisters zugeordnet.",
       "sources": [
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "Ratner führt das Duo in einen Paris-Fall mit persönlichem Konflikt."
     }
   ],
   "series": {

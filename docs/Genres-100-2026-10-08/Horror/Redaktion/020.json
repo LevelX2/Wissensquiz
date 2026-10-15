@@ -38,11 +38,11 @@
       ],
       "short": "Die Puppe ist ein Geschenk vor der Geburt des ersten Kindes.",
       "context": "John Form (Ward Horton) schenkt seiner schwangeren Frau Mia Form (Annabelle Wallis) eine seltene Porzellanpuppe. Sie soll die Sammlung im Kinderzimmer vervollständigen. Das Geschenk gehört zunächst zu den Vorbereitungen auf ihr erstes Kind und verbindet Zuneigung mit einem häuslichen Sammlerinteresse. Der spätere Schrecken trifft damit einen Gegenstand, der eigentlich Sicherheit, Vorfreude und familiäre Nähe ausdrücken sollte, statt schon als gefährliches Objekt eingeführt zu werden.",
-      "anchor": "Ein erwartetes Kind ist der Anlass des Puppengeschenks.",
       "interest": "Die ursprüngliche Bedeutung des Gegenstands verstärkt die spätere Bedrohung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein erwartetes Kind ist der Anlass des Puppengeschenks."
     },
     {
       "code": "L2",
@@ -61,11 +61,11 @@
       ],
       "short": "Evelyn führt einen Buchladen und hilft Mia.",
       "context": "Evelyn (Alfre Woodard) begegnet Mia Form (Annabelle Wallis) als Nachbarin und Buchhändlerin. Ihre Bücher helfen, den Kult und die vermeintlich übernatürliche Bedrohung einzuordnen. Zugleich entwickelt sich eine persönliche Verbindung zwischen den beiden Frauen. Der Beruf ist deshalb kein beliebiges Nebendetail: Er macht die Helferin zu einer zugänglichen Wissensquelle, während ihre eigene Verlustgeschichte später ihre Bereitschaft zu einem weit größeren Einsatz erklärt.",
-      "anchor": "Der Buchladen verbindet Hilfe, Wissen und Nachbarschaft.",
       "interest": "Eine Nebenfigur erhält eine konkrete Funktion im Erkenntnisweg.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Buchladen verbindet Hilfe, Wissen und Nachbarschaft."
     },
     {
       "code": "M1",
@@ -84,11 +84,11 @@
       ],
       "short": "Die entsorgte Puppe erscheint zwischen den Umzugssachen wieder.",
       "context": "John Form (Ward Horton) hat die Puppe nach dem Angriff entsorgt. Beim Umzug findet Mia Form (Annabelle Wallis) sie trotzdem in einem Karton. Die Rückkehr des Gegenstands verbindet die neue Wohnung mit der früheren Bedrohung. Ein Ortswechsel kann den Konflikt deshalb nicht einfach abschließen. Die Szene verschiebt den Verdacht von einem einzelnen Haus auf eine Gefahr, die dem Paar beziehungsweise dem Objekt folgt.",
-      "anchor": "Die Puppe reist unerwartet im Umzugskarton mit.",
       "interest": "Ein konkreter Fund widerlegt die Hoffnung auf einen sicheren Neuanfang.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Puppe reist unerwartet im Umzugskarton mit."
     },
     {
       "code": "M2",
@@ -107,11 +107,11 @@
       ],
       "short": "Die Gestalt des Priesters verschafft dem Dämon Zugang.",
       "context": "Father Perez (Tony Amendola) hat versucht, die Puppe zur Kirche zu bringen, und liegt nach einem Angriff im Krankenhaus. Der Dämon benutzt dennoch seine Gestalt, um in die Wohnung von Mia Form (Annabelle Wallis) zu gelangen. Die Szene macht aus dem vertrauten Helferbild eine Täuschung. Dass jemand wie eine Schutzperson aussieht, beweist hier weder deren Anwesenheit noch eine hilfreiche Absicht.",
-      "anchor": "Die vertraute Priestergestalt wird zur gefährlichen Tarnung.",
       "interest": "Die Szene nutzt das Vertrauen in eine Helferfigur.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die vertraute Priestergestalt wird zur gefährlichen Tarnung."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Die Bedrohung des Kindes soll die Mutter zum Opfer drängen.",
       "context": "Father Perez (Tony Amendola) warnt John Form (Ward Horton), dass der Dämon auf Mia Forms (Annabelle Wallis) Seele zielt. Die Gefahr für das Baby ist dabei ein Mittel der Erpressung. Der Film unterscheidet somit die sichtbar bedrohte Person von der tatsächlich verlangten Gegenleistung. Diese Erkenntnis erklärt den anschließenden Versuch der Mutter, sich selbst zu opfern, statt die Entführung nur als Angriff auf das Kind zu verstehen.",
-      "anchor": "Das Kind ist Druckmittel; die Mutter soll ihre Seele geben.",
       "interest": "Die Enthüllung erklärt den Zweck der Bedrohung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Kind ist Druckmittel; die Mutter soll ihre Seele geben."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Evelyn nimmt das Opfer auf sich.",
       "context": "Evelyn (Alfre Woodard) hält Mia Form (Annabelle Wallis) davon ab, sich mit der Puppe aus dem Fenster zu stürzen. Stattdessen opfert sie sich selbst. Ihr früherer Verlust einer Tochter erklärt, weshalb sie die Rettung des Babys mit dem Versuch persönlicher Wiedergutmachung verbindet. Die Entscheidung beendet die unmittelbare Bedrohung der Familie; der spätere Weiterverkauf der Puppe ist jedoch ein eigener Epilog und keine endgültige Vernichtung des Gegenstands.",
-      "anchor": "Evelyn übernimmt das Opfer, das Mia anbieten wollte.",
       "interest": "Die Helferin handelt aus einer eigenen Verlustgeschichte.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Evelyn übernimmt das Opfer, das Mia anbieten wollte."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Der erste eigenständige Annabelle-Film erschien 2014.",
       "context": "Conjuring – Die Heimsuchung erschien 2013 und führte die Puppe bereits in seinem verbundenen Erzähluniversum ein. Annabelle folgte 2014, ein Jahr später, als eigenständiger Ableger. Seine Handlung ist eine Vorgeschichte und verschiebt damit die Reihenfolge innerhalb der erzählten Welt. Der Jahresvergleich trennt deshalb den ersten Filmauftritt des Gegenstands von seinem ersten Solofilm; spätere Vorgeschichten verändern diese Veröffentlichungsabfolge nicht.",
-      "anchor": "Conjuring 2013, Annabelle 2014: ein Jahr bis zum eigenen Ableger.",
       "interest": "Die Veröffentlichung folgt einer anderen Reihenfolge als die Handlung.",
       "sources": [
         "afi",
         "first",
         "film"
-      ]
+      ],
+      "objective": "Conjuring 2013, Annabelle 2014: ein Jahr bis zum eigenen Ableger."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "John R. Leonetti führte Hauptregie.",
       "context": "John R. Leonetti trägt den Hauptregiecredit; James Wan und Peter Safran sind Produzenten, Gary Dauberman schrieb das Drehbuch. AFI führt diese Funktionen getrennt auf. Der Film erweitert einen zuvor eingeführten Gegenstand zu einer eigenen Bedrohungsgeschichte um eine junge Familie. Die bekannte Verbindung zum Conjuring-Universum begründet deshalb keine automatische Gleichsetzung der Regiecredits aller Filme, selbst wenn mehrere Beteiligte wieder an der Reihe arbeiten.",
-      "anchor": "Leonetti inszeniert; Wan produziert und Dauberman schreibt.",
       "interest": "Die Arbeitsteilung klärt den Credit eines bekannten Ablegers.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Leonetti inszeniert; Wan produziert und Dauberman schreibt."
     }
   ]
 }

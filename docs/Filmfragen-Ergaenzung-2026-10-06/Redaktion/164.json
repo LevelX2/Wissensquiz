@@ -40,12 +40,12 @@
       ],
       "short": "Ellie besteigt einen Linienbus nach New York.",
       "context": "Ellie besteigt einen Linienbus nach New York. Ihr Vater versucht, ihre Verbindung zu King Westley (Jameson Thomas) zu verhindern. Die ungewohnte Reise bringt sie mit Peter Warne (Clark Gable) zusammen und fordert praktische Fähigkeiten, die ihr bisheriger Alltag kaum verlangt hat.",
-      "anchor": "Die Busreise führt die Erbin aus ihrer geschützten Welt.",
       "interest": "Die Busreise führt die Erbin aus ihrer geschützten Welt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Busreise führt die Erbin aus ihrer geschützten Welt."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Peter möchte Ellies Geschichte exklusiv für eine Zeitung verwerten.",
       "context": "Peter möchte Ellies Geschichte exklusiv für eine Zeitung verwerten. Als arbeitsloser Reporter verspricht er ihr Unterstützung und erwartet dafür Informationen. Aus dieser Zweckgemeinschaft entwickelt sich eine Beziehung, die den anfänglichen Geschäftsgedanken verdrängt.",
-      "anchor": "Aus dem geplanten Scoop entsteht persönliche Nähe.",
       "interest": "Aus dem geplanten Scoop entsteht persönliche Nähe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Aus dem geplanten Scoop entsteht persönliche Nähe."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Peter hängt eine Decke zwischen die Betten des gemeinsamen Motelzimmers.",
       "context": "Peter hängt eine Decke zwischen die Betten des gemeinsamen Motelzimmers. Er nennt sie die „Mauern von Jericho“ und schafft damit eine vorläufige Grenze. Der Film kann so Nähe und sexuelle Zurückhaltung über einen sichtbaren Gegenstand erzählen.",
-      "anchor": "Die Decke trennt die Betten und markiert eine Grenze.",
       "interest": "Die Decke trennt die Betten und markiert eine Grenze.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Decke trennt die Betten und markiert eine Grenze."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Ellie zeigt ihr Bein und bringt einen Autofahrer zum Halten.",
       "context": "Ellie zeigt ihr Bein und bringt einen Autofahrer zum Halten. Peter Warne (Clark Gable) hatte ihr zuvor seine angeblich überlegene Technik vorgeführt. Die Szene dreht das Lehrer-Schülerin-Verhältnis um: Ellie löst das Problem auf ihre eigene Weise.",
-      "anchor": "Ellie übertrifft Peters demonstrierte Tramp-Technik.",
       "interest": "Ellie übertrifft Peters demonstrierte Tramp-Technik.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ellie übertrifft Peters demonstrierte Tramp-Technik."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Peter fährt zur Zeitung, um Geld für eine gemeinsame Zukunft zu verdienen.",
       "context": "Peter fährt zur Zeitung, um Geld für eine gemeinsame Zukunft zu verdienen. Ellie kennt seinen Grund nicht und wird aus dem Motel gewiesen. Derselbe Aufbruch, der ihre Beziehung ermöglichen soll, wirkt aus ihrer Perspektive wie ein endgültiger Verrat.",
-      "anchor": "Peters Zukunftsplan sieht für Ellie wie Verlassenwerden aus.",
       "interest": "Peters Zukunftsplan sieht für Ellie wie Verlassenwerden aus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Peters Zukunftsplan sieht für Ellie wie Verlassenwerden aus."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Peter verlangt lediglich die Erstattung seiner Reiseausgaben.",
       "context": "Peter verlangt lediglich die Erstattung seiner Reiseausgaben. Ellies Vater erkennt dadurch, dass er kein Kopfgeldjäger ist. Dieser Geldbetrag bekommt eine andere Bedeutung als die hohe Belohnung: Er belegt Peters Aufrichtigkeit und erleichtert die Zustimmung zur Beziehung.",
-      "anchor": "Die kleine Spesenforderung entkräftet den Verdacht der Geldgier.",
       "interest": "Die kleine Spesenforderung entkräftet den Verdacht der Geldgier.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die kleine Spesenforderung entkräftet den Verdacht der Geldgier."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "1934 erschien die Komödie nach Samuel Hopkins Adams’ Erzählung „Night Bus“ von 1933.",
       "context": "1934 erschien die Komödie nach Samuel Hopkins Adams’ Erzählung „Night Bus“ von 1933. Bereits im folgenden Jahr erhielt sie bei den Oscars die fünf großen Auszeichnungen. Der kurze Weg vom Zeitschriftenstoff zum prämierten Kinofilm verbindet 1933, 1934 und 1935 zu einer klaren Folge.",
-      "anchor": "Erzählung 1933, Film 1934, fünf große Oscars 1935: Stoff, Verfilmung und Anerkennung folgen jährlich.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten",
         "academy"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Erzählung 1933, Film 1934, fünf große Oscars 1935: Stoff, Verfilmung und Anerkennung folgen jährlich."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch.",
       "context": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch. Clark Gable spielt den arbeitslosen Reporter Peter Warne, Claudette Colbert die aus ihrer privilegierten Umgebung fliehende Ellie Andrews. Ihre gemeinsame Busreise führt die beiden sozialen Welten zusammen.",
-      "anchor": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch.",
       "interest": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Frank Capra führte Regie, Robert Riskin schrieb das Drehbuch."
     }
   ]
 }

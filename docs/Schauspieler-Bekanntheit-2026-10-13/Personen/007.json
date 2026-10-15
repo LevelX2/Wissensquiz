@@ -18,15 +18,23 @@
       "correct": 1,
       "short": "Chishū Ryū gehörte zu Yasujirō Ozus wichtigsten wiederkehrenden Darstellern.",
       "context": "Die Zusammenarbeit reicht von kleinen Auftritten in Ozus früher Laufbahn bis zu großen Vaterrollen. Ryū war Vertragsschauspieler des Studios Shōchiku; Ozu gab ihm den entscheidenden Raum als Hauptdarsteller. Der Professor in „Später Frühling“ und der alte Vater in „Die Reise nach Tokyo“ gehören zu dieser Verbindung. Wiederkehrende Gesichter schaffen dabei Vertrautheit, obwohl die Filme jeweils andere Familien erzählen.",
-      "anchor": "Chishū Ryū ist das vertraute Vatergesicht in Ozus Familienkino.",
       "interest": "Eine zentrale künstlerische Zusammenarbeit eröffnet den Zugang zu Ryūs Laufbahn.",
-      "feedback": ["", "", "", ""],
-      "films": ["Banshun|1949", "Tōkyō monogatari|1953"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Banshun|1949",
+        "Tōkyō monogatari|1953"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/1512-there-was-a-father-duty-calls",
         "https://www.criterion.com/films/298-late-spring",
         "https://www.criterion.com/films/284-tokyo-story"
-      ]
+      ],
+      "objective": "Chishū Ryū ist das vertraute Vatergesicht in Ozus Familienkino."
     },
     {
       "code": "L2",
@@ -40,14 +48,21 @@
       "correct": 0,
       "short": "Das ältere Ehepaar besucht seine erwachsenen Kinder und deren Familien.",
       "context": "Shūkichi (Chishū Ryū) und Tomi (Chieko Higashiyama) kommen aus Onomichi. Der Besuch bei ihren Kindern wird enttäuschend: Deren Alltag lässt wenig Platz für die Eltern. Ausgerechnet die verwitwete Schwiegertochter Noriko (Setsuko Hara) nimmt sich Zeit. Nach Tomis Tod kehren die Angehörigen rasch zu ihren Verpflichtungen zurück; Shūkichi bleibt schließlich allein. Der geplante Familienbesuch legt so eine längst gewachsene Entfernung offen.",
-      "anchor": "Shūkichi und Tomi besuchen die Kinder; Nähe entsteht kaum.",
       "interest": "Die zentrale Ausgangslage macht eine prägende Vaterrolle verständlich.",
-      "feedback": ["", "", "", ""],
-      "films": ["Tōkyō monogatari|1953"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Tōkyō monogatari|1953"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/301-tokyo-story",
         "https://www.criterion.com/films/284-tokyo-story"
-      ]
+      ],
+      "objective": "Shūkichi und Tomi besuchen die Kinder; Nähe entsteht kaum."
     },
     {
       "code": "M1",
@@ -61,7 +76,6 @@
       "correct": 2,
       "short": "Die Brüder treten in einen Schweigestreik.",
       "context": "Keitarō (Chishū Ryū) wirft seinen Söhnen vor, zu viel zu reden. Der ältere Sohn hält dagegen, dass Erwachsene ebenfalls ständig belanglose Dinge sagen. Der anschließende Schweigestreik trifft deshalb auch die alltäglichen Grüße. Nachbarn und Lehrer verstehen die Kinder plötzlich falsch. Ozu verbindet den Wunsch nach einem Fernseher mit der Frage, welche scheinbar überflüssigen Worte das Zusammenleben überhaupt ermöglichen.",
-      "anchor": "Kein Fernseher: Die Brüder verweigern auch das „Guten Morgen“.",
       "interest": "Ein konkreter Familienkonflikt verbindet Konsumwünsche mit den Regeln sozialer Verständigung.",
       "feedback": [
         "Ein Hungerstreik gehört zum verwandten Ozu-Stummfilm „Ich wurde geboren, aber …“; „Guten Morgen“ verlagert den Protest auf das Sprechen.",
@@ -69,11 +83,15 @@
         "",
         ""
       ],
-      "films": ["Ohayō|1959", "Umarete wa mita keredo|1932"],
+      "films": [
+        "Ohayō|1959",
+        "Umarete wa mita keredo|1932"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/4543-good-morning-structures-and-strictures-in-suburbia",
         "https://www.criterion.com/films/624-good-morning"
-      ]
+      ],
+      "objective": "Kein Fernseher: Die Brüder verweigern auch das „Guten Morgen“."
     },
     {
       "code": "M2",
@@ -87,15 +105,22 @@
       "correct": 3,
       "short": "Er lässt Noriko glauben, dass er selbst erneut heiraten werde.",
       "context": "Noriko (Setsuko Hara) möchte das vertraute Leben mit ihrem verwitweten Vater Shūkichi (Chishū Ryū) erhalten. Er täuscht eine eigene Wiederheirat vor, damit sie ihn scheinbar versorgt zurücklassen kann. Nach ihrer Hochzeit bleibt er jedoch allein. Seine Behauptung soll die Ablösung erleichtern und kostet ihn gerade jene häusliche Nähe, die beide bisher getragen hat.",
-      "anchor": "Der Vater erfindet eine neue Ehe und bleibt schließlich allein.",
       "interest": "Die Entscheidung der Vaterfigur erschließt den Preis einer scheinbar fürsorglichen Täuschung.",
-      "feedback": ["", "", "", ""],
-      "films": ["Banshun|1949"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Banshun|1949"
+      ],
       "extraSources": [
         "https://www.bfi.org.uk/film/797ab4f5-e457-5b07-9ca6-63d347f7da5a/late-spring",
         "https://www.criterion.com/current/posts/421-late-spring-home-with-ozu",
         "https://www.criterion.com/films/298-late-spring"
-      ]
+      ],
+      "objective": "Der Vater erfindet eine neue Ehe und bleibt schließlich allein."
     },
     {
       "code": "S1",
@@ -109,13 +134,22 @@
       "correct": 0,
       "short": "Ryū spielt nacheinander den Vater, den älteren Bruder und den Schwiegervater.",
       "context": "Die sogenannte Noriko-Trilogie führt keine zusammenhängende Familiengeschichte fort. Setsuko Hara spielt drei verschiedene Frauen mit demselben Vornamen, und Chishū Ryū erhält jeweils eine andere Beziehung zu ihnen. Der Wechsel vom Vater zum Bruder und anschließend zum Schwiegervater zeigt, wie Ozu dieselben Darsteller in neue familiäre Konstellationen setzte. Die vertraute Besetzung verbindet die Werke, ohne ihre Figuren gleichzusetzen.",
-      "anchor": "Drei Norikos, drei Ryū-Beziehungen: Vater, Bruder, Schwiegervater.",
       "interest": "Der Vergleich zeigt die Wandelbarkeit des Darstellers innerhalb einer vertrauten Filmfamilie.",
-      "feedback": ["", "", "", ""],
-      "films": ["Banshun|1949", "Bakushū|1951", "Tōkyō monogatari|1953"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Banshun|1949",
+        "Bakushū|1951",
+        "Tōkyō monogatari|1953"
+      ],
       "extraSources": [
         "https://www.bfi.org.uk/features/tokyo-story-anatomy-classic"
-      ]
+      ],
+      "objective": "Drei Norikos, drei Ryū-Beziehungen: Vater, Bruder, Schwiegervater."
     },
     {
       "code": "S2",
@@ -129,14 +163,21 @@
       "correct": 1,
       "short": "Nach dem Tod eines ihm anvertrauten Kindes hält Shūhei sich als Lehrer für gescheitert.",
       "context": "Niemand sonst macht Shūhei Horikawa (Chishū Ryū) für den Tod des Kindes verantwortlich. Dennoch zieht er selbst die Konsequenz und kündigt. Für seinen eigenen Sohn soll die Ausbildung weitergehen: Der Vater arbeitet in Tokyo, während der Junge ein Internat besucht. Sein strenges Pflichtgefühl sichert Bildung und Lebensunterhalt, bringt Vater und Sohn aber immer wieder um die ersehnte gemeinsame Zeit.",
-      "anchor": "Horikawa kündigt als Lehrer, hält aber an der Ausbildung des Sohnes fest.",
       "interest": "Die frühe Entscheidung erklärt den Zusammenhang zwischen Schuldgefühl, Pflicht und familiärer Trennung.",
-      "feedback": ["", "", "", ""],
-      "films": ["Chichi ariki|1942"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Chichi ariki|1942"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/1512-there-was-a-father-duty-calls",
         "https://www.criterion.com/films/22839-there-was-a-father"
-      ]
+      ],
+      "objective": "Horikawa kündigt als Lehrer, hält aber an der Ausbildung des Sohnes fest."
     },
     {
       "code": "E1",
@@ -150,7 +191,6 @@
       "correct": 2,
       "short": "Wim Wenders sucht in „Tokyo-Ga“ die Verbindung zwischen Ozus Filmen und dem veränderten Tokyo.",
       "context": "Wenders besucht Tokyo lange nach Ozus Tod und verbindet Beobachtungen der Stadt mit Begegnungen früherer Mitarbeiter. Neben Chishū Ryū kommt der Kameramann Yūharu Atsuta vor. Ryū erscheint hier als Zeuge einer gemeinsamen Arbeitsgeschichte. Die Suche richtet sich darauf, was von Ozus vertrauten Alltagsbildern in der inzwischen stark veränderten Großstadt geblieben ist.",
-      "anchor": "In Wenders’ „Tokyo-Ga“ erinnert Ryū an Ozus Arbeitswelt.",
       "interest": "Die dokumentarische Begegnung erschließt Ryūs Bedeutung als Zeitzeuge einer filmischen Zusammenarbeit.",
       "feedback": [
         "Werner Herzog gehört zu den Mitwirkenden von „Tokyo-Ga“; die Regie und Erzählstimme stammen von Wim Wenders.",
@@ -158,11 +198,14 @@
         "",
         ""
       ],
-      "films": ["Tokyo-Ga|1985"],
+      "films": [
+        "Tokyo-Ga|1985"
+      ],
       "extraSources": [
         "https://wimwendersstiftung.de/film/tokyo-ga/",
         "https://rijs.fas.harvard.edu/events/ozu-film-series-hfa-tokyo-ga"
-      ]
+      ],
+      "objective": "In Wenders’ „Tokyo-Ga“ erinnert Ryū an Ozus Arbeitswelt."
     },
     {
       "code": "E2",
@@ -176,14 +219,21 @@
       "correct": 3,
       "short": "Der alte Mann beschreibt ein Dorf ohne Elektrizität, das seine natürlichen Lebensgrundlagen schont.",
       "context": "Der Besucher (Akira Terao) trifft im letzten Traum auf den von Chishū Ryū gespielten alten Mann. Dieser erklärt, dass die Bewohner ohne elektrischen Strom leben und zum Heizen nur von selbst gefallene Bäume verwenden. Nach den zuvor gezeigten Strahlenkatastrophen bietet das Dorf einen anderen Umgang mit Natur. Ryūs ruhiger Gesprächsauftritt trägt diese Vorstellung eines bewusst begrenzten materiellen Komforts.",
-      "anchor": "Ryūs Wassermühlendorf lebt ohne Strom und verschwendet die Natur nicht.",
       "interest": "Der späte Kurosawa-Auftritt ergänzt Ryūs Ozu-Bild um ein konkretes ökologisches Gegenmodell.",
-      "feedback": ["", "", "", ""],
-      "films": ["Yume|1990"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Yume|1990"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/4299-akira-kurosawa-s-dreams-quiet-devastation",
         "https://www.criterion.com/films/28700"
-      ]
+      ],
+      "objective": "Ryūs Wassermühlendorf lebt ohne Strom und verschwendet die Natur nicht."
     }
   ]
 }

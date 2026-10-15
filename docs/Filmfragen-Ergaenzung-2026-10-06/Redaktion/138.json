@@ -33,12 +33,12 @@
       ],
       "short": "Ah Jong will die von ihm verursachte Verletzung wiedergutmachen.",
       "context": "Ah Jong (Chow Yun-fat) verletzt bei einem Schusswechsel die Sängerin Jennie (Sally Yeh) an den Augen. Eine Operation könnte ihr Sehvermögen retten. Seine Schuld führt somit zu einem neuen Gewaltauftrag, obwohl er die Gewalt beenden wollte; der Versuch einer Wiedergutmachung bindet ihn zunächst stärker an das alte Leben.",
-      "anchor": "Ein weiterer Mord soll den Schaden eines früheren Schusses bezahlen.",
       "interest": "Ein weiterer Mord soll den Schaden eines früheren Schusses bezahlen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein weiterer Mord soll den Schaden eines früheren Schusses bezahlen."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Jennie tritt im Nachtclub als Sängerin auf.",
       "context": "Jennie (Sally Yeh) wird während ihres Auftritts in einen Schusswechsel verwickelt. Ah Jong (Chow Yun-fat) besucht später weiter ihre Vorstellungen und sucht ihre Nähe. Die Arbeitsumgebung erklärt somit zugleich die Verletzung und die folgende wiederholte Begegnung, aus der eine Beziehung entsteht.",
-      "anchor": "Jennies Bühne wird zum Ort von Verletzung und späterem Wiedersehen.",
       "interest": "Jennies Bühne wird zum Ort von Verletzung und späterem Wiedersehen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jennies Bühne wird zum Ort von Verletzung und späterem Wiedersehen."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Die Rettung des Kindes zeigt dem Verfolger eine fürsorgliche Seite.",
       "context": "Ein Kind wird bei einem Schusswechsel verletzt. Ah Jong (Chow Yun-fat) unterbricht die Flucht für dessen Versorgung. Li Ying (Danny Lee) erlebt dadurch einen Widerspruch zum Bild des kalten Auftragsmörders. Die Beobachtung ersetzt die Strafbarkeit nicht, eröffnet aber den persönlichen Respekt, aus dem später eine ungewöhnliche Allianz wird.",
-      "anchor": "Die Kinderrettung durchbricht Lis eindeutiges Täterbild.",
       "interest": "Die Kinderrettung durchbricht Lis eindeutiges Täterbild.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Kinderrettung durchbricht Lis eindeutiges Täterbild."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Fung Sei liefert statt des versprochenen Geldes wertlose Scheine.",
       "context": "Fung Sei (Chu Kong) bringt Ah Jong (Chow Yun-fat) einen Koffer, der die Abmachung nur äußerlich erfüllt. Der Verrat verletzt eine ältere persönliche Bindung. Ah Jong verschont ihn dennoch zunächst; der Film lässt Treue dadurch nicht einfach von einer fehlerlosen Gegenleistung abhängig sein, obwohl diese Haltung gefährlich ist.",
-      "anchor": "Der leere Geldwert macht die beschädigte Loyalität sichtbar.",
       "interest": "Der leere Geldwert macht die beschädigte Loyalität sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der leere Geldwert macht die beschädigte Loyalität sichtbar."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Ah Jong bindet Lis Hilfe an Jennies Zukunft.",
       "context": "Ah Jong (Chow Yun-fat) weiß, dass er sterben könnte. Von Li Ying (Danny Lee) verlangt er deshalb die Sorge um Jennie (Sally Yeh), nicht die Vertuschung der eigenen Schuld. Die Beziehung zwischen Killer und Polizist wird damit durch einen gemeinsamen Schutzauftrag bestimmt, der über ihre zunächst gegensätzlichen Interessen hinausgeht.",
-      "anchor": "Das Versprechen richtet sich auf Jennies Leben nach Ah Jong.",
       "interest": "Das Versprechen richtet sich auf Jennies Leben nach Ah Jong.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Versprechen richtet sich auf Jennies Leben nach Ah Jong."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Li tötet den bereits sich ergebenden Wong Hoi.",
       "context": "Nach Ah Jongs (Chow Yun-fat) Tod ergibt sich Wong Hoi (Shing Fui-on) den eintreffenden Polizisten. Li Ying (Danny Lee) schießt trotzdem. Die vorher aufgebaute Freundschaft endet damit nicht in einer einfachen moralischen Bestätigung des Ermittlers: Sein persönlicher Zorn zerstört die Grenze, die sein Amt verpflichtend setzt.",
-      "anchor": "Lis Trauer lässt ihn die Grenze zwischen Verfolgung und Vergeltung überschreiten.",
       "interest": "Lis Trauer lässt ihn die Grenze zwischen Verfolgung und Vergeltung überschreiten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Lis Trauer lässt ihn die Grenze zwischen Verfolgung und Vergeltung überschreiten."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1989.",
       "context": "The Killer erschien 1989, drei Jahre nach John Woos A Better Tomorrow von 1986. Chow Yun-fat spielt in beiden Filmen eine zentrale Rolle, hier aber den Auftragsmörder Ah Jong. Der konkrete Abstand verbindet eine Zusammenarbeit im Actionkino, ohne die beiden Figuren oder Handlungen als dieselbe Geschichte auszugeben.",
-      "anchor": "A Better Tomorrow 1986, The Killer 1989: drei Jahre zwischen zwei Woo-Filmen mit Chow Yun-fat.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: A Better Tomorrow 1986, The Killer 1989: drei Jahre zwischen zwei Woo-Filmen mit Chow Yun-fat.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "A Better Tomorrow 1986, The Killer 1989: drei Jahre zwischen zwei Woo-Filmen mit Chow Yun-fat."
     },
     {
       "code": "D",
@@ -202,14 +202,14 @@
       ],
       "short": "Der Regiecredit lautet John Woo.",
       "context": "John Woo schrieb und inszenierte das Original mit Chow Yun-fat. Ah Jong (Chow Yun-fat) und der Ermittler Li Ying (Danny Lee) finden trotz entgegengesetzter Berufe zueinander. Wiederkehrende Motive wie Kirche und persönliche Schuld geben den Schusswechseln einen melodramatischen Rahmen, in dem Loyalität anders gewichtet wird als formelle Zugehörigkeit.",
-      "anchor": "John Woo: Ah Jong (Chow Yun-fat) und der Ermittler Li Ying (Danny Lee) finden trotz entgegengesetzter Berufe zueinander.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "John Woo: Ah Jong (Chow Yun-fat) und der Ermittler Li Ying (Danny Lee) finden trotz entgegengesetzter Berufe zueinander."
     }
   ]
 }

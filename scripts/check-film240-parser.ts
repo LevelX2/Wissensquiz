@@ -32,7 +32,7 @@ for(const q of parsed.questions){
     const answer=q.answers.find(a=>a.id===`${q.id}:${letter}`)!;
     if(answer.text!==row[`answer_${letter}`]||answer.feedback!==row[`feedback_${letter}`])throw new Error(`${q.id}: answer or feedback lost`);
   }
-  if(q.knowledgeId!==row.knowledge_id||q.explanation!==row.explanation_short||q.context!==row.explanation_context||q.anchor!==row.memory_anchor)throw new Error(`${q.id}: editorial information lost`);
+  if(q.knowledgeId!==row.knowledge_id||q.explanation!==row.explanation_short||q.context!==row.explanation_context)throw new Error(`${q.id}: editorial information lost`);
   if(questionSourceOf(q)!=='film')throw new Error(`${q.id}: wrong source group`);
 }
 const simulated=[...state.questions,...parsed.questions];

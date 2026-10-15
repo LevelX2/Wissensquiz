@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Sie spielt Melanie, die Ehefrau von Ashley Wilkes.",
       "context": "Melanies zurückhaltendes Auftreten verdeckt ihre Entschlossenheit. Als Scarlett (Vivien Leigh) einen plündernden Soldaten erschießt, kommt die von der Geburt geschwächte Melanie mit einem Schwert zu Hilfe. De Havillands Figur steht damit für eine Form von Mut, die ohne Scarletts demonstrative Stärke auskommt.",
-      "anchor": "Olivia de Havilland verkörpert Melanies stille Entschlossenheit.",
       "interest": "Eine bekannte Figur wird mit einem konkreten Beispiel ihrer Handlungskraft verbunden.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/features/silk-steel-life-olivia-de-havilland"
-      ]
+      ],
+      "objective": "Olivia de Havilland verkörpert Melanies stille Entschlossenheit."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "De Havilland spielt Maid Marian.",
       "context": "Marian gehört zunächst zur höfischen Welt, in der Robin als Gesetzloser gilt. Ihre Begegnungen mit ihm verändern diesen Blick. Die Verbindung mit Flynn wurde zu einem wiederkehrenden Bestandteil ihrer frühen Karriere, doch de Havilland suchte später zunehmend Rollen mit eigener dramatischer Entwicklung.",
-      "anchor": "De Havilland ist Maid Marian an Flynns Robin Hoods Seite.",
       "interest": "Die zentrale Paarung eröffnet einen Zugang zu ihren Abenteuerfilmen.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "knowledge_id": "K-ADV-202610-P01-L-016",
       "variant_of": "ADV-202610-P01-L-016",
-      "knowledge_note": "Gleiches Besetzungsziel Maid Marian / Olivia de Havilland, mit vorgegebenem Darstellernamen."
+      "knowledge_note": "Gleiches Besetzungsziel Maid Marian / Olivia de Havilland, mit vorgegebenem Darstellernamen.",
+      "objective": "De Havilland ist Maid Marian an Flynns Robin Hoods Seite."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 2,
       "short": "Virginia fühlt sich für den Tod ihres Vaters verantwortlich.",
       "context": "In den Gesprächen erinnert sie sich an einen kindlichen Wutausbruch und die anschließende Erkrankung des Vaters. Der Film verbindet diese unbegründete Schuld mit späteren Verlusten und ihrer Ehe. Zugleich zeigt er, wie wechselnde Stationen und überforderte Mitarbeiter ihre Lage in der psychiatrischen Anstalt verschärfen.",
-      "anchor": "Virginias Schuldgefühl reicht bis in ihre Kindheit zurück.",
       "interest": "Ein konkreter Erinnerungszusammenhang erschließt die psychologische Filmhandlung.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25735-THE-SNAKE-PIT"
-      ]
+      ],
+      "objective": "Virginias Schuldgefühl reicht bis in ihre Kindheit zurück."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 3,
       "short": "Catherine verweigert Morris den Eintritt.",
       "context": "Nach den Demütigungen durch Vater und Verehrer ist Catherine nicht mehr bereit, sich mit dessen Liebesversprechen zufriedenzugeben. Während Morris gegen die Tür hämmert, steigt sie allein die Treppe hinauf. Das Schlussbild zeigt ihren gewonnenen Einfluss über Haus und Leben, aber auch den Preis dieser Verhärtung.",
-      "anchor": "Catherine steigt die Treppe hinauf; Morris bleibt draußen.",
       "interest": "Die Entscheidung am Ende erklärt die Veränderung der scheinbar wehrlosen Figur.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/6337-the-heiress-a-cruel-inheritance"
-      ]
+      ],
+      "objective": "Catherine steigt die Treppe hinauf; Morris bleibt draußen."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 3,
       "short": "Er untersucht die unterschiedlichen Persönlichkeiten der Schwestern.",
       "context": "Zeugen können Terry und Ruth wegen ihres gleichen Aussehens nicht sicher unterscheiden. Elliott setzt unter anderem Tintenklecks- und Wortassoziationstests ein. Der Film macht ihre gegensätzlichen Reaktionen zum Ermittlungsansatz und gibt de Havilland die Aufgabe, beide Frauen mit feinen Unterschieden darzustellen.",
-      "anchor": "Gleiches Aussehen, verschiedene Reaktionen: Das ist Elliotts Ansatz.",
       "interest": "Die Doppelrolle wird mit dem besonderen Aufbau der Ermittlungen verbunden.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/24748-THE-DARK-MIRROR"
-      ]
+      ],
+      "objective": "Gleiches Aussehen, verschiedene Reaktionen: Das ist Elliotts Ansatz."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 1,
       "short": "Jody ist seine leibliche Mutter.",
       "context": "Jodys Versuch, ihren unehelich geborenen Sohn unauffällig bei sich aufzunehmen, ist Jahre zuvor gescheitert. Er wuchs in einer anderen Familie auf und wies sie als Kind zurück. In London begegnen sie sich erneut; Hinweise von Lord Desham (Roland Culver) und Griggsys Braut führen schließlich zur Erkenntnis.",
-      "anchor": "Griggsy nennt Jody endlich Mutter.",
       "interest": "Die späte Anerkennung erklärt den emotionalen Abschluss ihrer langen Trennung.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25022-TO-EACH-HIS-OWN"
-      ]
+      ],
+      "objective": "Griggsy nennt Jody endlich Mutter."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 2,
       "short": "Warner wollte die Vertragslaufzeit um Suspendierungszeiten verlängern.",
       "context": "Wenn de Havilland Rollen abgelehnt hatte, hatte das Studio sie suspendiert und diese Ausfallzeiten später an den Vertrag anhängen wollen. Sie klagte gegen die Verlängerung. Ihr Erfolg begrenzte eine zentrale Methode, mit der Studios Vertragsschauspieler trotz abgelaufener Kalenderjahre weiter binden konnten.",
-      "anchor": "De Havillands Sieg durchbrach die Verlängerung durch Suspendierungen.",
       "interest": "Der Konflikt erklärt eine nachhaltige berufliche Veränderung des Studiosystems.",
       "feedback": [
         "",
@@ -195,7 +194,8 @@
       "extraSources": [
         "https://www.sagaftra.org/sag-aftra-mourns-passing-sag-founding-member-olivia-de-havilland",
         "https://www.bfi.org.uk/sight-and-sound/features/silk-steel-life-olivia-de-havilland"
-      ]
+      ],
+      "objective": "De Havillands Sieg durchbrach die Verlängerung durch Suspendierungen."
     },
     {
       "code": "E2",
@@ -209,7 +209,6 @@
       "correct": 0,
       "short": "Sie spielte Hermia auf Bühne und Leinwand.",
       "context": "Reinhardt sah de Havilland zunächst in einer kleineren Theaterproduktion. Für seine Hollywood-Bowl-Inszenierung wurde sie als Ersatzdarstellerin engagiert und sprang für die verhinderte Gloria Stuart ein. Danach erhielt sie dieselbe Rolle in der Verfilmung, die Reinhardt gemeinsam mit William Dieterle inszenierte.",
-      "anchor": "Hermia führte de Havilland von der Theaterbühne in Reinhardts Film.",
       "interest": "Der Einstieg in Hollywood wird als zusammenhängender Bühnen- und Filmweg verständlich.",
       "feedback": [
         "",
@@ -222,7 +221,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/5919"
-      ]
+      ],
+      "objective": "Hermia führte de Havilland von der Theaterbühne in Reinhardts Film."
     }
   ]
 }

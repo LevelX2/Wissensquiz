@@ -31,11 +31,11 @@
       ],
       "short": "Ivanhoe versucht, Richards Freilassung zu ermöglichen.",
       "context": "Ivanhoe (Robert Taylor) findet König Richard in Gefangenschaft und will das Lösegeld aufbringen. Dessen Bruder John profitiert dagegen von der Abwesenheit des Königs. Die Rittergeschichte beginnt damit mit einer politischen Aufgabe, die über persönliche Ehre hinausgeht.",
-      "anchor": "Ivanhoe sammelt für Richards Freiheit.",
       "interest": "Der Ausgangskonflikt erklärt, warum die Reise für England Bedeutung hat.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ivanhoe sammelt für Richards Freiheit."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Der Film erzählt die Spannungen zwischen Sachsen und Normannen.",
       "context": "Ivanhoe (Robert Taylor) steht als Sachse zwischen den Lagern. Sein Vater Cedric (Finlay Currie) lehnt die Hilfe für den normannischen König zunächst ab. Die Handlung verlangt damit, Herkunftsfeindschaft und gemeinsames politisches Interesse miteinander zu vereinbaren.",
-      "anchor": "Englands Spaltung: Sachsen gegen Normannen.",
       "interest": "Die Gruppenbeziehung macht den historischen Handlungsrahmen verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Englands Spaltung: Sachsen gegen Normannen."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Rebecca stellt ihren Schmuck für seine Ausrüstung bereit.",
       "context": "Rebecca (Elizabeth Taylor) hilft Ivanhoe (Robert Taylor), als für einen Turnierauftritt die Mittel fehlen. Ihr Schmuck verwandelt private Unterstützung in öffentlich sichtbare Ritterausrüstung. Die Beziehung entwickelt sich deshalb durch eine konkrete Hilfeleistung und nicht nur durch Worte.",
-      "anchor": "Rebeccas Schmuck finanziert Ivanhoes Turnierauftritt.",
       "interest": "Die Hilfe hat eine nachvollziehbare materielle Funktion.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Rebeccas Schmuck finanziert Ivanhoes Turnierauftritt."
     },
     {
       "code": "M2",
@@ -100,11 +100,11 @@
       ],
       "short": "Er fordert ein Gottesurteil im Zweikampf.",
       "context": "Rebecca (Elizabeth Taylor) wird als Hexe angeklagt. Ivanhoe (Robert Taylor) stellt sich dem vorgesehenen Kampf, um das Urteil anzufechten. Der Film zeigt damit eine Justizvorstellung, in der körperlicher Sieg als Beweis dienen soll – deutlich entfernt von moderner Rechtsprüfung.",
-      "anchor": "Ivanhoe ficht das Urteil im Zweikampf an.",
       "interest": "Die Rettung erschließt zugleich eine historische Form der Konfliktentscheidung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ivanhoe ficht das Urteil im Zweikampf an."
     },
     {
       "code": "S1",
@@ -123,11 +123,11 @@
       ],
       "short": "Isaac muss zwischen zwei Befreiungszahlungen entscheiden.",
       "context": "Isaac (Felix Aylmer) hat zur Befreiung König Richards beigetragen. Prinz John (Guy Rolfe) setzt Rebeccas (Elizabeth Taylor) Leben gegen dieses Lösegeld ein. Persönliche Bindung und ein gemeinsames politisches Ziel werden so absichtlich gegeneinander ausgespielt.",
-      "anchor": "John stellt Tochter gegen König.",
       "interest": "Die Erpressung erklärt eine schwere Entscheidung mit klaren Beziehungen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "John stellt Tochter gegen König."
     },
     {
       "code": "S2",
@@ -146,11 +146,11 @@
       ],
       "short": "Richard fordert eine gemeinsame englische Identität.",
       "context": "König Richard (Norman Wooland) kehrt zurück und richtet den Blick über Sachsen und Normannen hinaus. Das Schlussbild beantwortet den Gruppenstreit des Anfangs mit einem gemeinsamen politischen Namen. Der Film setzt so eine versöhnende Vorstellung an das Ende der Ritterkämpfe.",
-      "anchor": "Aus zwei Lagern werden Engländer.",
       "interest": "Das Ende wird als konkrete Antwort auf den Anfangskonflikt erschlossen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Aus zwei Lagern werden Engländer."
     },
     {
       "code": "Y",
@@ -169,12 +169,12 @@
       ],
       "short": "Die erste Aufführung liegt 1952.",
       "context": "1952 führt Richard Thorpe Robert Taylor als Ivanhoe ins Ritterabenteuer. Im nächsten Jahr folgt „Die Ritter der Tafelrunde“ mit demselben Regisseur und Star. Die aufeinanderfolgenden Filme bilden einen nützlichen Anker für diese Phase des historischen MGM-Abenteuerkinos.",
-      "anchor": "1952 Ivanhoe – 1953 Tafelrunde.",
       "interest": "Die belegte Folge derselben Zusammenarbeit verankert das Jahr.",
       "sources": [
         "handlung",
         "archiv"
-      ]
+      ],
+      "objective": "1952 Ivanhoe – 1953 Tafelrunde."
     },
     {
       "code": "D",
@@ -193,11 +193,11 @@
       ],
       "short": "Richard Thorpe führte Regie.",
       "context": "Richard Thorpe inszeniert Walter Scotts Roman als farbiges Ritterabenteuer. Turnier, Belagerung und Zweikampf ordnen den politischen und persönlichen Streit in unterschiedliche Aktionsräume ein. Der Film gehört zu einer Reihe historischer Arbeiten mit Robert Taylor, nicht zu den Robin-Hood-Filmen Michael Curtiz’.",
-      "anchor": "Thorpe inszeniert Taylors Ivanhoe.",
       "interest": "Der Regiecredit wird mit dem konkreten Ritterfilm verbunden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Thorpe inszeniert Taylors Ivanhoe."
     }
   ]
 }

@@ -14,10 +14,13 @@ const contents = packages.map((p) => ({
   filename: p.filename,
   text: readFileSync(`public${p.path}`, "utf8"),
 }));
+const supplementFilename = "Action-Drama-Ergaenzungen-2026-10-15.csv";
+const supplement = contents.find(p => p.filename === supplementFilename)!;
+const historicalContents = contents.filter(p => p !== supplement);
 const before = emptyState();
 addPackages(
   before,
-  contents.filter(
+  historicalContents.filter(
     (p) =>
       !p.filename.startsWith("Genre100_") &&
       !p.filename.startsWith("Schauspieler-Bekanntheit-"),
@@ -26,13 +29,16 @@ addPackages(
 const state = structuredClone(before);
 addPackages(
   state,
-  contents.filter((p) => !p.filename.startsWith("Schauspieler-Bekanntheit-")),
+  historicalContents.filter((p) => !p.filename.startsWith("Schauspieler-Bekanntheit-")),
 );
 // Load the later actor expansion only after all Genre100 target questions exist.
 addPackages(
   state,
-  contents.filter((p) => p.filename.startsWith("Schauspieler-Bekanntheit-")),
+  historicalContents.filter((p) => p.filename.startsWith("Schauspieler-Bekanntheit-")),
 );
+const beforeSupplementIds = new Set(state.questions.map(q => q.id));
+addPackages(state, [supplement]);
+const supplementQuestions = state.questions.filter(q => !beforeSupplementIds.has(q.id));
 const newIds = new Set([
   ...state.questions.filter((q) => q.id.startsWith("G100-")).map((q) => q.id),
   ...integration.replacements
@@ -45,7 +51,7 @@ const newIds = new Set([
 const newQuestions = state.questions.filter((q) => newIds.has(q.id));
 
 it("ergänzt die abgenommenen Genres konfliktfrei und erhält den gesamten vorherigen Fragenbestand", () => {
-  expect(before.questions).toHaveLength(10889);
+  expect(before.questions).toHaveLength(10888);
   expect(state.questions).toHaveLength(catalogCounts.questions);
   expect(state.imports).toHaveLength(catalogCounts.packages);
   expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(
@@ -85,13 +91,14 @@ it("liefert je neuer Filmfassung sechs Inhaltsziele und explizites Jahres- und R
     ).length;
     expect(group, key).toHaveLength(8 + added);
     expect(new Set(group.map((q) => q.knowledgeId)).size, key).toBe(8 + added);
+    const currentContent = state.questions.filter(q => filmIdentity(q) === key && questionSourceOf(q) === "film");
     for (const difficulty of ["leicht", "mittel", "schwer"]) {
       expect(
-        group.filter(
+        new Set(currentContent.filter(
           (q) =>
             q.difficulty === difficulty &&
-            !["Filmjahr", "Regie"].includes(q.metadata.question_type),
-        ).length,
+            !["Filmjahr", "Erscheinungsjahr", "Regie"].includes(q.metadata.question_type),
+        ).map(q => q.knowledgeId)).size,
         key,
       ).toBeGreaterThanOrEqual(2);
     }
@@ -163,7 +170,7 @@ for (const directory of readdirSync(root, { withFileTypes: true }).filter(
           (a) =>
             a.file ===
             `public/genre100-${directory.name.toLowerCase()}-fragen.csv`,
-        ).length,
+        ).length + supplementQuestions.filter(q => genreOf(q) === selection.genre).length,
     );
     expect(core.films).toHaveLength(20);
     for (const film of core.films) {

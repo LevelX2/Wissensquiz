@@ -37,12 +37,12 @@
       ],
       "short": "Buscapé möchte Fotograf werden.",
       "context": "Buscapé (Alexandre Rodrigues) möchte Fotograf werden. Die Kamera verbindet ihn mit dem Viertel, erlaubt aber einen anderen beruflichen Zugang als das bewaffnete Geschäft der Banden.",
-      "anchor": "Buscapés Kamera eröffnet einen anderen Lebensweg.",
       "interest": "Buscapés Kamera eröffnet einen anderen Lebensweg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Buscapés Kamera eröffnet einen anderen Lebensweg."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Das Viertel liegt in Rio de Janeiro.",
       "context": "Das Viertel liegt in Rio de Janeiro. Über mehrere Lebensphasen verfolgt die Erzählung dort wachsende organisierte Gewalt, während Buscapé (Alexandre Rodrigues) nach einer eigenen Perspektive sucht.",
-      "anchor": "Die Cidade de Deus liegt in Rio de Janeiro.",
       "interest": "Die Cidade de Deus liegt in Rio de Janeiro.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Cidade de Deus liegt in Rio de Janeiro."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Dadinho (Douglas Silva) tötet die Gäste, obwohl die älteren Räuber niemanden töten wollen.",
       "context": "Dadinho (Douglas Silva) tötet die Gäste, obwohl die älteren Räuber niemanden töten wollen. Der spätere Zé Pequeno (Leandro Firmino) etabliert so früh eine Gewalt, die nicht nur Mittel zur Beute ist.",
-      "anchor": "Der Motelüberfall zeigt Dadinhos eigenständige Grausamkeit.",
       "interest": "Der Motelüberfall zeigt Dadinhos eigenständige Grausamkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Motelüberfall zeigt Dadinhos eigenständige Grausamkeit."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Bené (Phellipe Haagensen) wird versehentlich erschossen.",
       "context": "Bené (Phellipe Haagensen) wird versehentlich erschossen. Sein geplanter Ausstieg endet damit; Zé Pequeno (Leandro Firmino) verliert zugleich einen Partner, der sein Verhalten begrenzen konnte.",
-      "anchor": "Benés Ausstieg endet tödlich und verschärft Zés Herrschaft.",
       "interest": "Benés Ausstieg endet tödlich und verschärft Zés Herrschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Benés Ausstieg endet tödlich und verschärft Zés Herrschaft."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Zés Gewalt trifft Ned und dessen Familie.",
       "context": "Zés Gewalt trifft Ned (Seu Jorge) und dessen Familie. Der zunächst friedliche Mann schließt sich aus Rache der Gegenseite an; der Konflikt zieht dadurch weitere Menschen in Gewalt und Gegengewalt.",
-      "anchor": "Neds Rache führt ihn in denselben Gewaltkreislauf.",
       "interest": "Neds Rache führt ihn in denselben Gewaltkreislauf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Neds Rache führt ihn in denselben Gewaltkreislauf."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Buscapé wählt das Foto von Zé Pequenos Leiche.",
       "context": "Buscapé (Alexandre Rodrigues) wählt das Foto von Zé Pequenos Leiche. Die Aufnahme bringt ihm eine Chance bei der Zeitung; das riskante Bild der korrupten Polizei behält er zurück.",
-      "anchor": "Das veröffentlichte Leichenfoto eröffnet die Zeitungsarbeit.",
       "interest": "Das veröffentlichte Leichenfoto eröffnet die Zeitungsarbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das veröffentlichte Leichenfoto eröffnet die Zeitungsarbeit."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film wurde 2002 erstmals veröffentlicht.",
       "context": "2002 feierte der Film Premiere. Paulo Lins veröffentlichte den zugrunde liegenden Roman 1997, fünf Jahre zuvor. Der Film verdichtet die ausgedehnte Buchwelt über die Entwicklung eines Viertels und den Blick eines jungen Fotografen.",
-      "anchor": "Paulo Lins’ Roman von 1997 wurde fünf Jahre später, 2002, zum Film.",
       "interest": "Paulo Lins’ Roman von 1997 wurde fünf Jahre später, 2002, zum Film.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Paulo Lins’ Roman von 1997 wurde fünf Jahre später, 2002, zum Film."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Regie: Fernando Meirelles und Kátia Lund.",
       "context": "Meirelles führte Regie mit Kátia Lund als Co-Regisseurin. Die Arbeit mit jungen Darstellern aus Favela-Umfeldern umfasste Workshops und improvisierte Situationen; der einzelne Regie-Oscar-Nominierungscredit ändert das Filmteam nicht.",
-      "anchor": "Meirelles führte Regie mit Kátia Lund als Co-Regisseurin.",
       "interest": "Meirelles führte Regie mit Kátia Lund als Co-Regisseurin.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Meirelles führte Regie mit Kátia Lund als Co-Regisseurin."
     }
   ]
 }

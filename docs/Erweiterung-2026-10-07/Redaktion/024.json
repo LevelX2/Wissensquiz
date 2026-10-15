@@ -38,12 +38,12 @@
       ],
       "short": "Der Hauptkonflikt spielt an Bord eines Atom-U-Boots.",
       "context": "Die USS Alabama bringt eine große Gruppe von Menschen in einen engen, militärisch geordneten Raum. Captain Ramsey (Gene Hackman) und sein Stellvertreter Hunter (Denzel Washington) müssen dort über einen möglichen Nuklearangriff entscheiden. Die räumliche Enge verstärkt den Konflikt: Ein Streit über einen Befehl kann nicht einfach durch getrennte Wege beendet werden.",
-      "anchor": "Auf der Alabama bleibt eine weltweite Entscheidung im engsten Raum.",
       "interest": "Auf der Alabama bleibt eine weltweite Entscheidung im engsten Raum.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Auf der Alabama bleibt eine weltweite Entscheidung im engsten Raum."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Ramsey kommandiert das Boot, Hunter ist sein Stellvertreter.",
       "context": "Captain Ramsey (Gene Hackman) vertraut auf Erfahrung und klare Befehlsdurchsetzung. Hunter (Denzel Washington) bringt eine stärker prüfende Haltung mit. Ihre Aufgaben verlangen Zusammenarbeit, obwohl ihre Entscheidungsweisen auseinandergehen. Der spätere Konflikt entsteht daher nicht zwischen Fremden außerhalb eines Systems, sondern innerhalb einer Führung, die nur gemeinsam eine extreme Verantwortung tragen soll.",
-      "anchor": "Kommandant und Stellvertreter müssen trotz verschiedener Denkweisen zusammen entscheiden.",
       "interest": "Kommandant und Stellvertreter müssen trotz verschiedener Denkweisen zusammen entscheiden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Kommandant und Stellvertreter müssen trotz verschiedener Denkweisen zusammen entscheiden."
     },
     {
       "code": "M1",
@@ -86,13 +86,13 @@
       ],
       "short": "Eine neue Funknachricht bleibt unvollständig und könnte den Abschussbefehl aufheben.",
       "context": "Ramsey (Gene Hackman) will dem letzten vollständig bestätigten Befehl folgen. Hunter (Denzel Washington) hält die abgebrochene Nachricht für einen möglichen Widerruf. Beide reagieren damit auf denselben Informationsstand mit unterschiedlichen Risikobewertungen. Die technische Störung wird zur moralischen Entscheidung: Was wiegt schwerer, ein unklarer neuer Hinweis oder ein klarer, möglicherweise überholter Befehl?",
-      "anchor": "Die neue Nachricht ist unvollständig, ihre mögliche Bedeutung aber gewaltig.",
       "interest": "Die neue Nachricht ist unvollständig, ihre mögliche Bedeutung aber gewaltig.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die neue Nachricht ist unvollständig, ihre mögliche Bedeutung aber gewaltig."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Das Zwei-Personen-Prinzip macht die verweigerte Zustimmung entscheidend.",
       "context": "Die extreme Tragweite des Starts wird im Film durch geteilte Verantwortung abgesichert. Hunter (Denzel Washington) kann Ramsey (Gene Hackman) deshalb nicht bloß unverbindlich widersprechen. Seine Entscheidung blockiert tatsächlich den Ablauf. Die Regel verwandelt eine Meinungsverschiedenheit in eine Machtfrage: Wer darf den anderen absetzen, und wer handelt innerhalb des vorgeschriebenen Verfahrens?",
-      "anchor": "Geteilte Freigabe gibt Hunters Zweifel eine konkrete Wirkung.",
       "interest": "Geteilte Freigabe gibt Hunters Zweifel eine konkrete Wirkung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Geteilte Freigabe gibt Hunters Zweifel eine konkrete Wirkung."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Hunter opfert den eingeschlossenen Bereich, um das ganze Boot zu retten.",
       "context": "Hunter (Denzel Washington) wird nicht nur als vorsichtiger Gegenspieler Ramseys (Gene Hackman) geprüft. Nach einem Treffer muss er selbst einen Befehl geben, der Menschen tötet, um weitere zu retten. Die Szene verkompliziert eine einfache Gegenüberstellung von Härte und Menschlichkeit. Verantwortung bedeutet auch für den zweifelnden Offizier eine schmerzhafte Entscheidung unter unvollständigen Handlungsmöglichkeiten.",
-      "anchor": "Hunters Vorsicht schließt einen schweren Opferbefehl nicht aus.",
       "interest": "Hunters Vorsicht schließt einen schweren Opferbefehl nicht aus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Hunters Vorsicht schließt einen schweren Opferbefehl nicht aus."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Die vollständige Nachricht ordnet den Abbruch des Raketenstarts an.",
       "context": "Die Funkreparatur löst die Ungewissheit, an der Ramsey (Gene Hackman) und Hunter (Denzel Washington) ihre gegensätzlichen Entscheidungen festgemacht haben. Der neue Befehl bestätigt den Widerruf. Der Film lässt die spätere Bewertung trotzdem nicht ausschließlich auf das Ergebnis schrumpfen: Auch ihre Art, den Streit an Bord zu führen, muss geprüft werden.",
-      "anchor": "Der richtige Funkinhalt beendet die Unsicherheit, nicht jede Frage nach dem Verhalten.",
       "interest": "Der richtige Funkinhalt beendet die Unsicherheit, nicht jede Frage nach dem Verhalten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der richtige Funkinhalt beendet die Unsicherheit, nicht jede Frage nach dem Verhalten."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "Der Film erschien 1995.",
       "context": "Die Handlung verwendet ein fiktionales Krisenszenario im Russland nach dem Ende der Sowjetunion. Das Filmjahr liegt deshalb in einer frühen Phase der neuen geopolitischen Ordnung. Der U-Boot-Konflikt erinnert zugleich an ältere Nuklearkrisen, ohne diese direkt nachzuerzählen. Für die Einordnung sind Entstehungsjahr, erfundene Gegenwart und historische Resonanz getrennte Ebenen.",
-      "anchor": "1995: ein neues Russland-Szenario trägt eine ältere Nuklearkrisenfrage.",
       "interest": "1995: ein neues Russland-Szenario trägt eine ältere Nuklearkrisenfrage.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "1995: ein neues Russland-Szenario trägt eine ältere Nuklearkrisenfrage."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "Tony Scott führte Regie.",
       "context": "Tony Scott verdichtet die U-Boot-Handlung zu einer Auseinandersetzung über Befehl, Zweifel und geteilte Verantwortung. Denzel Washington und Gene Hackman tragen den Konflikt als gegensätzliche Führungspersönlichkeiten. Der vertraute Familienname Scott darf den Credit nicht vertauschen: Gesucht ist Tony, nicht Ridley. Die konkrete Besetzung und der enge Nuklearkonflikt sind dafür der Filmanker.",
-      "anchor": "Tony Scott inszeniert Washingtons und Hackmans Befehlsstreit.",
       "interest": "Tony Scott inszeniert Washingtons und Hackmans Befehlsstreit.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Tony Scott inszeniert Washingtons und Hackmans Befehlsstreit."
     }
   ]
 }

@@ -41,12 +41,12 @@
       ],
       "short": "Moss nimmt einen Geldkoffer aus den Folgen eines gescheiterten Drogengeschäfts.",
       "context": "Moss nimmt einen Geldkoffer aus den Folgen eines gescheiterten Drogengeschäfts. Der scheinbar glückliche Fund bringt ihn in eine Verfolgung; der Besitz ist nicht von der Gewalt zu trennen, die ihm vorausging.",
-      "anchor": "Der Geldfund übernimmt die Gefahr des gescheiterten Geschäfts.",
       "interest": "Der Geldfund übernimmt die Gefahr des gescheiterten Geschäfts.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Geldfund übernimmt die Gefahr des gescheiterten Geschäfts."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Chigurh lässt Menschen eine Münzseite nennen.",
       "context": "Chigurh lässt Menschen eine Münzseite nennen. Er stellt seine Gewalt damit als Ergebnis eines Zufalls dar; die scheinbare Regel verschiebt die Verantwortung jedoch nicht tatsächlich von ihm weg.",
-      "anchor": "Die Münze ist Chigurhs inszenierte Zufallsregel.",
       "interest": "Die Münze ist Chigurhs inszenierte Zufallsregel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Münze ist Chigurhs inszenierte Zufallsregel."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Moss kehrt aus Schuldgefühl mit Wasser zurück.",
       "context": "Moss kehrt aus Schuldgefühl mit Wasser zurück. Der Verletzte ist bereits tot, und bewaffnete Verfolger entdecken ihn; gerade seine verspätete Hilfsbereitschaft verschärft die Gefahr nach dem Geldfund.",
-      "anchor": "Die Rückkehr mit Wasser macht den Finder auffindbar.",
       "interest": "Die Rückkehr mit Wasser macht den Finder auffindbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Rückkehr mit Wasser macht den Finder auffindbar."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Im Koffer steckt ein Sender.",
       "context": "Im Koffer steckt ein Sender. Moss (Josh Brolin) versteckt das Geld zwar sorgfältig, kennt aber zunächst diese technische Verbindung nicht; räumliches Verbergen schützt ihn deshalb nicht zuverlässig vor dem Verfolger.",
-      "anchor": "Der verborgene Sender macht das Versteck durchlässig.",
       "interest": "Der verborgene Sender macht das Versteck durchlässig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der verborgene Sender macht das Versteck durchlässig."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Carla Jean lehnt den Wurf ab und nennt Chigurh (Javier Bardem) als Verantwortlichen.",
       "context": "Carla Jean lehnt den Wurf ab und nennt Chigurh (Javier Bardem) als Verantwortlichen. Sie widerspricht damit seiner Darstellung, Gewalt sei bloß das neutrale Vollstrecken einer Regel oder eines Zufallsergebnisses.",
-      "anchor": "Carla Jean verweigert die Auslagerung der Verantwortung.",
       "interest": "Carla Jean verweigert die Auslagerung der Verantwortung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Carla Jean verweigert die Auslagerung der Verantwortung."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Sheriff Bell (Tommy Lee Jones) erzählt nach seinem Rückzug zwei Vaterträume.",
       "context": "Sheriff Bell (Tommy Lee Jones) erzählt nach seinem Rückzug zwei Vaterträume. Die Verfolgung wird nicht mit einer vollständigen Herstellung von Ordnung abgeschlossen; der letzte Blick gehört seiner Erfahrung von Überforderung und dem Bild eines vorausgetragenen Feuers.",
-      "anchor": "Bells Vaterträume ersetzen die erwartete abschließende Ordnung.",
       "interest": "Bells Vaterträume ersetzen die erwartete abschließende Ordnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Bells Vaterträume ersetzen die erwartete abschließende Ordnung."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "2007 wurde der Film in Cannes erstmals gezeigt.",
       "context": "2007 wurde der Film in Cannes erstmals gezeigt. Cormac McCarthys Roman erschien 2005; zwei Jahre trennen Buch und Film. Die erzählte Verfolgung liegt hingegen 1980 und verbindet eine ältere texanische Grenzwelt mit einer modernen Reflexion über Gewalt und Kontrollverlust.",
-      "anchor": "Roman 2005, Film 2007: Zwei Jahre führen zur Adaption einer bereits 1980 angesiedelten Gewaltgeschichte.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 2005, Film 2007: Zwei Jahre führen zur Adaption einer bereits 1980 angesiedelten Gewaltgeschichte."
     },
     {
       "code": "D",
@@ -210,14 +210,14 @@
       ],
       "short": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam.",
       "context": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam. Josh Brolin spielt Llewelyn Moss, Javier Bardem den Verfolger Anton Chigurh, Tommy Lee Jones Sheriff Bell. Die Figurenlinien erfüllen nicht die gewohnte Erwartung eines abschließenden gemeinsamen Duells.",
-      "anchor": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam.",
       "interest": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam.",
       "sources": [
         "eckdaten",
         "credits"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Joel Coen und Ethan Coen schrieben und inszenierten gemeinsam."
     }
   ]
 }

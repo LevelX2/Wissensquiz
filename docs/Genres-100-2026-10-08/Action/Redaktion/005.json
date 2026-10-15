@@ -30,11 +30,11 @@
       ],
       "short": "Manny und Buck sind entflohene Gefangene.",
       "context": "Manny (Jon Voight) wird nach einem erfolgreichen Rechtsstreit aus jahrelanger Isolation innerhalb des Gefängnisses entlassen. Für ihn bedeutet das noch keine Freiheit. Nach einem weiteren Angriff plant er die Flucht und nimmt Buck (Eric Roberts) mit. Die Männer überwinden die winterliche Umgebung und verstecken sich in Lokomotiven. Gefängnisdirektor Ranken (John P. Ryan) verfolgt sie, während aus ihrer Flucht eine neue Gefangenschaft im fahrenden Zug wird.",
-      "anchor": "Manny und Buck sind entflohene Gefangene.",
       "interest": "Die Ausgangslage erklärt die Verfolgung und den Wechsel zwischen zwei Formen der Gefangenschaft.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Manny und Buck sind entflohene Gefangene."
     },
     {
       "code": "L2",
@@ -53,11 +53,11 @@
       ],
       "short": "Sara ist Eisenbahnarbeiterin und zufällig auf dem Zug geblieben.",
       "context": "Sara (Rebecca De Mornay) ist auf dem Lokomotivverband, weil sie bei der Eisenbahn arbeitet. Manny (Jon Voight) und Buck (Eric Roberts) treffen sie erst, als die Fahrt bereits außer Kontrolle geraten ist. Ihre Anwesenheit erweitert die Geschichte über eine reine Gefangenenflucht hinaus. Sie kann technische Zusammenhänge erklären und widerspricht der Bereitschaft, für den eigenen Vorteil das Leben eines anderen aufs Spiel zu setzen.",
-      "anchor": "Sara ist Eisenbahnarbeiterin und zufällig auf dem Zug geblieben.",
       "interest": "Eine dritte Perspektive verändert die Zweiergemeinschaft der Flüchtlinge.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Sara ist Eisenbahnarbeiterin und zufällig auf dem Zug geblieben."
     },
     {
       "code": "M1",
@@ -76,11 +76,11 @@
       ],
       "short": "Der Zusammenbruch des Lokführers macht aus der Flucht eine Fahrt ohne Kontrolle.",
       "context": "Der Lokführer erleidet einen Herzinfarkt, nachdem er den Lokomotivverband in Bewegung gesetzt hat. Er fällt vom Zug, während der Antrieb weiterarbeitet. Die zunächst angelegten Bremsen halten der Belastung nicht stand. Manny und Buck (Jon Voight, Eric Roberts) haben ein Versteck gesucht, aber keine Fahrt ohne Fahrer geplant. Die technische Katastrophe entsteht unabhängig von ihrem Ausbruch und macht plötzlich alle Beteiligten zu möglichen Opfern.",
-      "anchor": "Der Zusammenbruch des Lokführers macht aus der Flucht eine Fahrt ohne Kontrolle.",
       "interest": "Unterscheidet die Ursache der Zugkatastrophe vom ursprünglichen Fluchtplan.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Zusammenbruch des Lokführers macht aus der Flucht eine Fahrt ohne Kontrolle."
     },
     {
       "code": "M2",
@@ -99,11 +99,11 @@
       ],
       "short": "Eine betätigte Hupe verrät der Leitstelle, dass Menschen an Bord sind.",
       "context": "Die Bahnmitarbeiter erwägen, den offenbar führerlosen Zug entgleisen zu lassen, um andere Züge und Anlagen zu schützen. Dann hören sie die Lokomotivhupe. Sara (Rebecca De Mornay) hat sie betätigt, wodurch die Leitstelle erkennt, dass sich Menschen auf dem Zug befinden. Der Eingriff wird zunächst abgesagt. Das Geräusch verändert damit die Abwägung: Eine technische Gefahrenquelle muss nun zugleich als Ort eingeschlossener Menschen behandelt werden.",
-      "anchor": "Eine betätigte Hupe verrät der Leitstelle, dass Menschen an Bord sind.",
       "interest": "Ein kleines Signal verändert eine Entscheidung über Leben und Tod.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Eine betätigte Hupe verrät der Leitstelle, dass Menschen an Bord sind."
     },
     {
       "code": "S1",
@@ -122,11 +122,11 @@
       ],
       "short": "Getrennte Steuerkabel schalten die hinteren beiden Lokomotiven aus dem Antrieb.",
       "context": "Sara (Rebecca De Mornay) erklärt Manny und Buck (Jon Voight, Eric Roberts), wie die Lokomotiven gekoppelt gesteuert werden. Sie trennen die Kabel zwischen dem zweiten und dritten Fahrzeug, sodass die hinteren beiden keinen Antrieb mehr liefern. Der Verband wird langsamer, bleibt aber gefährlich in Bewegung. Das Manöver zeigt den Unterschied zwischen verringerter Leistung und wirklichem Anhalten: Die entscheidende Kontrolle der führenden Lokomotive ist noch nicht erreicht.",
-      "anchor": "Getrennte Steuerkabel schalten die hinteren beiden Lokomotiven aus dem Antrieb.",
       "interest": "Technisches Teilziel mit klarer Grenze statt einer angeblichen Gesamtlösung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Getrennte Steuerkabel schalten die hinteren beiden Lokomotiven aus dem Antrieb."
     },
     {
       "code": "S2",
@@ -145,11 +145,11 @@
       ],
       "short": "Manny trennt die führende Lokomotive ab und lässt Buck und Sara zurück.",
       "context": "Manny (Jon Voight) gelangt auf die führende Lokomotive, wo auch Ranken (John P. Ryan) ankommt. Er fesselt seinen Verfolger und lehnt dessen Forderung ab, den Zug anzuhalten. Als Buck und Sara (Eric Roberts, Rebecca De Mornay) aus dem restlichen Verband auf sich aufmerksam machen, trennt Manny die vordere Lokomotive ab. Seine letzte Entscheidung bewahrt ihre Chance zu überleben, während er selbst weiterfährt.",
-      "anchor": "Manny trennt die führende Lokomotive ab und lässt Buck und Sara zurück.",
       "interest": "Der Abschluss unterscheidet Mannys persönliche Konfrontation von der Rettung seiner Begleiter.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Manny trennt die führende Lokomotive ab und lässt Buck und Sara zurück."
     },
     {
       "code": "Y",
@@ -168,11 +168,11 @@
       ],
       "short": "1966 Projektankündigung, 1985 Express in die Hölle: neunzehn Jahre Abstand.",
       "context": "Express in die Hölle erschien 1985. Bereits 1966 war ein Runaway-Train-Projekt mit Akira Kurosawa öffentlich angekündigt worden, also neunzehn Jahre zuvor. Dieses Vorhaben wurde nicht damals realisiert. Der Stoff durchlief weitere Produktionspläne, bis die spätere Verfilmung zustande kam. Der Zeitanker verbindet deshalb eine konkrete Ankündigung mit dem tatsächlichen Kinostart und erklärt die lange Vorgeschichte hinter dem scheinbar geradlinigen Actionfilm.",
-      "anchor": "1966 Projektankündigung, 1985 Express in die Hölle: neunzehn Jahre Abstand.",
       "interest": "Ein belegter Entwicklungszeitraum statt bloßer Jahresaufzählung.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "1966 Projektankündigung, 1985 Express in die Hölle: neunzehn Jahre Abstand."
     },
     {
       "code": "D",
@@ -191,12 +191,12 @@
       ],
       "short": "Andrei Konchalovsky inszenierte Express in die Hölle.",
       "context": "Andrei Konchalovsky inszenierte die tatsächlich veröffentlichte Fassung für Cannon. Akira Kurosawas Beteiligung gehört zur älteren Entwicklung des Stoffes und ist kein gemeinsamer Regiecredit des fertigen Films. Konchalovsky verbindet die technische Bedrohung mit Mannys (Jon Voight) Konflikt um Freiheit, Gewalt und Würde. Die Zuordnung trennt damit zwei leicht verwechselte Leistungen: die Vorgeschichte eines Projekts und die Regie der später realisierten Verfilmung.",
-      "anchor": "Andrei Konchalovsky inszenierte Express in die Hölle.",
       "interest": "Klärt die häufig verwechselte Verantwortung für Vorlage und fertigen Film.",
       "sources": [
         "archiv",
         "film"
-      ]
+      ],
+      "objective": "Andrei Konchalovsky inszenierte Express in die Hölle."
     }
   ]
 }

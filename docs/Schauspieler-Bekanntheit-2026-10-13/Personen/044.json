@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Prewitt soll für die Einheit boxen.",
       "context": "Der talentierte Soldat verweigert den Einsatz im Ring. Aus der Weigerung entsteht ein Konflikt mit Vorgesetzten und Kameraden. Clifts Verletzlichkeit und Beharrlichkeit machen daraus eine Auseinandersetzung um den Anspruch eines Einzelnen auf eine eigene moralische Entscheidung innerhalb militärischer Hierarchie.",
-      "anchor": "Prewitts Nein zum Boxen wird zum Konflikt mit der Armee.",
       "interest": "Ein konkretes Handlungsziel erschließt Clifts widerständigen Figurentyp.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-E20261007-F-254-L2",
       "variant_of": "E20261007-F-254-L2",
-      "knowledge_note": "Identisches Ziel: die von Prewitt erwartete Sportart."
+      "knowledge_note": "Identisches Ziel: die von Prewitt erwartete Sportart.",
+      "objective": "Prewitts Nein zum Boxen wird zum Konflikt mit der Armee."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 1,
       "short": "Clift spielt an Elizabeth Taylors Seite.",
       "context": "George Eastman sieht in der jungen Frau aus wohlhabendem Umfeld auch den Zugang zu einem anderen Leben. Die romantische Nähe und sein Wunsch nach gesellschaftlichem Aufstieg lassen sich deshalb nicht sauber trennen. Clifts Spiel verbindet die Anziehungskraft des jungen Stars mit der Einsamkeit eines Menschen, der unbedingt dazugehören will.",
-      "anchor": "Clift und Taylor tragen eine Liebe im Schatten des Aufstiegswunsches.",
       "interest": "Eine bekannte Partnerschaft führt zur sozialen Spannung des Films.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films"
-      ]
+      ],
+      "objective": "Clift und Taylor tragen eine Liebe im Schatten des Aufstiegswunsches."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 2,
       "short": "Er hat das Geständnis während der Beichte gehört.",
       "context": "Pater Logan kennt dadurch den Täter, darf das Wissen nach seinem religiösen Verständnis aber nicht weitergeben. Die äußere Ermittlung trifft auf einen inneren Gewissenskonflikt. Clift bereitete die Rolle auch durch einen Aufenthalt in einem kanadischen Kloster vor; seine zurückhaltenden Reaktionen tragen viel von der Spannung.",
-      "anchor": "Logans Wissen bleibt an das Beichtgeheimnis gebunden.",
       "interest": "Die berufliche Verpflichtung erklärt den ungewöhnlichen Thrillerkonflikt.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films",
         "https://en.wikipedia.org/wiki/I_Confess_(film)"
-      ]
+      ],
+      "objective": "Logans Wissen bleibt an das Beichtgeheimnis gebunden."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 3,
       "short": "Chuck Glover soll die Räumung für ein Staudammprojekt erreichen.",
       "context": "Der Mitarbeiter der Tennessee Valley Authority vertritt einen Modernisierungsschritt, der die Lebenswelt einer Familie zerstört. Clift spielt hier keinen gehetzten Außenseiter, sondern einen vergleichsweise gefestigten staatlichen Vermittler. Seine Aufgabe verlangt, zwischen dem allgemeinen Nutzen des Projekts und dem Widerstand konkreter Menschen zu handeln.",
-      "anchor": "Glover vermittelt zwischen Staudamm und gewachsenem Lebensraum.",
       "interest": "Die Funktion der Rolle macht den gesellschaftlichen Konflikt greifbar.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films"
-      ]
+      ],
+      "objective": "Glover vermittelt zwischen Staudamm und gewachsenem Lebensraum."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 0,
       "short": "Clift suchte den Alltag einer Army-Pioniereinheit auf.",
       "context": "Die Beobachtungen flossen auch in seine Überarbeitung einzelner Szenen ein. Das Nachkriegsdrama wurde an zerstörten deutschen Schauplätzen aufgenommen; sein beiläufiges Verhalten fügt sich in diese konkrete Umgebung. Die Vorbereitung zielte auf glaubhafte Gewohnheiten einer Figur und nicht allein auf das korrekte Tragen einer Uniform.",
-      "anchor": "Clifts Soldat entstand aus beobachtetem Alltag.",
       "interest": "Eine konkrete Arbeitsmethode erklärt die Natürlichkeit seines frühen Filmspiels.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films"
-      ]
+      ],
+      "objective": "Clifts Soldat entstand aus beobachtetem Alltag."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 1,
       "short": "Für den militärischen Hornisten lernte er Signalhorn.",
       "context": "Clift nahm außerdem Boxunterricht und arbeitete intensiv mit dem Text und der Romanvorlage. Die musikalische Fertigkeit gehört zu einer umfassenden Vorbereitung, in der Körper, Handwerk und persönliche Haltung der Figur zusammenpassen sollten. Die Filmrolle erschöpft sich damit nicht in einem allgemeinen Bild des traurigen Soldaten.",
-      "anchor": "Zu Prewitts Vorbereitung gehörten Boxen und Signalhorn.",
       "interest": "Das zweite Ziel betrifft Clifts Handwerk, nicht noch einmal die Sporthandlung.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films"
-      ]
+      ],
+      "objective": "Zu Prewitts Vorbereitung gehörten Boxen und Signalhorn."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 2,
       "short": "Paramount wollte von Clifts romantischem Starimage profitieren.",
       "context": "Clifts attraktives Starimage macht die Annäherung zunächst plausibel. Zugleich bleibt Townsend als möglicher Mitgiftjäger verdächtig. Die Filmfigur wurde gegenüber dem Bühnenstück weniger eindeutig schurkisch angelegt. Dadurch muss Catherine über einen Menschen entscheiden, dessen freundliche Oberfläche keine verlässliche Auskunft über seine Absichten gibt.",
-      "anchor": "Clifts Starimage beeinflusste die Bearbeitung von Townsends Charakter.",
       "interest": "Eine Anpassung der Vorlage verbindet Besetzungspolitik und Mehrdeutigkeit der Filmfigur.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films"
-      ]
+      ],
+      "objective": "Clifts Starimage beeinflusste die Bearbeitung von Townsends Charakter."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 3,
       "short": "Clift arbeitete mit Stanley Kramer an der Figur und änderte den Dialog gezielt.",
       "context": "Rudolph Petersen berichtet vor Gericht von seiner Zwangssterilisation. Der kurze Auftritt macht juristische Gewalt an einem einzelnen Menschen sichtbar. Clifts scheinbar zusammenbrechender Vortrag entstand durch Vorbereitung und Textarbeit. Die Aussage wirkt wie der verzweifelte Versuch eines Zeugen, unter erneutem Druck verstanden zu werden, und ist kein unkontrollierter Zusammenbruch des Darstellers.",
-      "anchor": "Petersens erschütterte Aussage beruht auf präziser Rollen- und Dialogarbeit.",
       "interest": "Eine vermeintlich spontane Szene wird als bewusst erarbeitete Darstellung verständlich.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/montgomery-clift-10-essential-films"
-      ]
+      ],
+      "objective": "Petersens erschütterte Aussage beruht auf präziser Rollen- und Dialogarbeit."
     }
   ]
 }

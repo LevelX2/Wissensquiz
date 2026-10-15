@@ -32,12 +32,12 @@
       ],
       "short": "Die Geschichte spielt in einer texanischen Kleinstadt.",
       "context": "Die Geschichte spielt in einer texanischen Kleinstadt. Sonny (Timothy Bottoms) und Duane (Jeff Bridges) stehen am Ende ihrer Schulzeit; wenige gemeinsame Orte bestimmen die Möglichkeiten ihres Alltags.",
-      "anchor": "Die Jugendlichen wachsen in einer kleinen texanischen Stadt auf.",
       "interest": "Die Jugendlichen wachsen in einer kleinen texanischen Stadt auf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Jugendlichen wachsen in einer kleinen texanischen Stadt auf."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Sonny (Timothy Bottoms) und Duane (Jeff Bridges) sind befreundete Schüler.",
       "context": "Sonny (Timothy Bottoms) und Duane (Jeff Bridges) sind befreundete Schüler. Rivalität um Jacy (Cybill Shepherd) belastet später diese Freundschaft innerhalb ihres engen Heimatortes.",
-      "anchor": "Freundschaft und Liebesrivalität wachsen im selben Ort.",
       "interest": "Freundschaft und Liebesrivalität wachsen im selben Ort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Freundschaft und Liebesrivalität wachsen im selben Ort."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Sam reagiert auf die demütigende Behandlung Billys (Sam Bottoms).",
       "context": "Sam (Ben Johnson) reagiert auf die demütigende Behandlung Billys (Sam Bottoms). Das Verbot betrifft Kino, Café und Billard; die moralische Grenze wird damit auch räumlich im Alltag spürbar.",
-      "anchor": "Sam bestraft die Demütigung Billys mit Ausschluss.",
       "interest": "Sam bestraft die Demütigung Billys mit Ausschluss.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sam bestraft die Demütigung Billys mit Ausschluss."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Sonny erbt den Billardsalon.",
       "context": "Sonny (Timothy Bottoms) erbt den Billardsalon. Sams (Ben Johnson) Tod entzieht ihm einen wichtigen Bezugspunkt und hinterlässt zugleich eine konkrete Verantwortung in der Stadt.",
-      "anchor": "Sams Tod hinterlässt Sonny den Billardsalon.",
       "interest": "Sams Tod hinterlässt Sonny den Billardsalon.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sams Tod hinterlässt Sonny den Billardsalon."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Die letzte Vorführung zeigt Red River.",
       "context": "Die letzte Vorführung zeigt Red River. Sonny (Timothy Bottoms) und Duane (Jeff Bridges) besuchen das schließende Kino; der ältere Western macht das Ende eines gemeinsamen Treffpunkts greifbar.",
-      "anchor": "Das Kino schließt mit Red River.",
       "interest": "Das Kino schließt mit Red River.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Kino schließt mit Red River."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Sonny kehrt zu Ruth (Cloris Leachman) zurück.",
       "context": "Sonny (Timothy Bottoms) kehrt zu Ruth (Cloris Leachman) zurück. Die zuvor von ihm verletzte Frau reagiert erst zornig und schließlich tröstend; nach Billys (Sam Bottoms) Tod sucht er eine menschliche Verbindung.",
-      "anchor": "Sonny findet am Ende Trost bei der verletzten Ruth.",
       "interest": "Sonny findet am Ende Trost bei der verletzten Ruth.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sonny findet am Ende Trost bei der verletzten Ruth."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 1971 erstmals veröffentlicht.",
       "context": "1971 erschien die Verfilmung von Larry McMurtrys Roman aus dem Jahr 1966. Fünf Jahre trennen Buch und Film. Die Handlung liegt nochmals früher, 1951/52; Romanjahr, Filmjahr und erzählte Zeit bilden drei verschiedene Ebenen.",
-      "anchor": "McMurtrys Roman von 1966 wurde fünf Jahre später, 1971, verfilmt.",
       "interest": "McMurtrys Roman von 1966 wurde fünf Jahre später, 1971, verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "McMurtrys Roman von 1966 wurde fünf Jahre später, 1971, verfilmt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Peter Bogdanovich.",
       "context": "Bogdanovich und Larry McMurtry adaptierten den Roman. Gedreht wurde in McMurtrys Heimatstadt Archer City; Schwarzweiß war Anfang der siebziger Jahre bereits eine bewusst auffällige Entscheidung für diese Welt.",
-      "anchor": "Bogdanovich und Larry McMurtry adaptierten den Roman.",
       "interest": "Bogdanovich und Larry McMurtry adaptierten den Roman.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bogdanovich und Larry McMurtry adaptierten den Roman."
     }
   ]
 }

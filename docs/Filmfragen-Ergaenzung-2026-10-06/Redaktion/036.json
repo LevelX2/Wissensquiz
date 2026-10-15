@@ -36,12 +36,12 @@
       ],
       "short": "Mr.",
       "context": "Mr. Blue (Robert Shaw) verlangt eine Million Dollar innerhalb einer Stunde. Garber (Walter Matthau) muss die politische Entscheidung und die tatsächliche Übergabe koordinieren, während jede Verzögerung weitere Menschen bedroht.",
-      "anchor": "Die Geldforderung verwandelt den Fahrplan in eine tödliche Frist.",
       "interest": "Die Geldforderung verwandelt den Fahrplan in eine tödliche Frist.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Geldforderung verwandelt den Fahrplan in eine tödliche Frist."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Blue, Green, Grey und Brown sprechen unter Farbnamen.",
       "context": "Blue (Robert Shaw), Green (Martin Balsam), Grey (Héctor Elizondo) und Brown (Earl Hindman) sprechen unter Farbnamen. Die Funkverbindung zu Garber (Walter Matthau) liefert so keine einfachen persönlichen Namen für die spätere Suche.",
-      "anchor": "Die Farbnamen machen die Funkpartner zunächst unidentifizierbar.",
       "interest": "Die Farbnamen machen die Funkpartner zunächst unidentifizierbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Farbnamen machen die Funkpartner zunächst unidentifizierbar."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Garber (Walter Matthau) schließt vom Umgang mit dem Zug auf Berufserfahrung.",
       "context": "Garber (Walter Matthau) schließt vom Umgang mit dem Zug auf Berufserfahrung. Green (Martin Balsam) besitzt diese Kenntnisse; später begrenzt die Vermutung die Suche auf entlassene Fahrer.",
-      "anchor": "Die technische Handlung verrät die Berufserfahrung hinter der Tarnung.",
       "interest": "Die technische Handlung verrät die Berufserfahrung hinter der Tarnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die technische Handlung verrät die Berufserfahrung hinter der Tarnung."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Das Polizeiauto mit dem Lösegeld verunglückt.",
       "context": "Das Polizeiauto mit dem Lösegeld verunglückt. Garber (Walter Matthau) überbrückt die Verzögerung durch seine Funkauskunft, während die Übergabe auf anderem Weg weiterläuft; das Gespräch ist ein Mittel gegen die Frist.",
-      "anchor": "Die vorgetäuschte Ankunft überbrückt einen realen Transportverlust.",
       "interest": "Die vorgetäuschte Ankunft überbrückt einen realen Transportverlust.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die vorgetäuschte Ankunft überbrückt einen realen Transportverlust."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die Männer überbrücken die Sicherheitsvorrichtung und verlassen den Zug.",
       "context": "Die Männer überbrücken die Sicherheitsvorrichtung und verlassen den Zug. Garber (Walter Matthau) folgt zunächst seiner sichtbaren Bewegung; die Geiseln dienen damit auch als Ablenkung vom tatsächlichen Fluchtweg.",
-      "anchor": "Der fahrende Zug soll vom früheren Ausstieg im Tunnel ablenken.",
       "interest": "Der fahrende Zug soll vom früheren Ausstieg im Tunnel ablenken.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der fahrende Zug soll vom früheren Ausstieg im Tunnel ablenken."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Green (Martin Balsam) niest, als Garber (Walter Matthau) bereits geht.",
       "context": "Green (Martin Balsam) niest, als Garber (Walter Matthau) bereits geht. Garbers gewohnter Gesundheit-Wunsch verbindet den Wohnungsbesuch mit dem Funkkontakt; ein scheinbar harmloses Körpergeräusch ersetzt am Ende den Decknamen.",
-      "anchor": "Das Niesen verknüpft den anonymen Funkpartner mit dem Verdächtigen an der Wohnungstür.",
       "interest": "Das Niesen verknüpft den anonymen Funkpartner mit dem Verdächtigen an der Wohnungstür.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Niesen verknüpft den anonymen Funkpartner mit dem Verdächtigen an der Wohnungstür."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Der Film wurde 1974 erstmals veröffentlicht.",
       "context": "1974 erschien der Film, ein Jahr nach John Godeys Roman von 1973. Die Kino-Neuverfilmung von 2009 folgte 35 Jahre später; Jahr und Regie der beiden Filmfassungen müssen deshalb getrennt bleiben.",
-      "anchor": "Godeys Roman von 1973 wurde 1974 verfilmt; die Kino-Neufassung von 2009 folgte 35 Jahre später.",
       "interest": "Godeys Roman von 1973 wurde 1974 verfilmt; die Kino-Neufassung von 2009 folgte 35 Jahre später.",
       "sources": [
         "institut",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Godeys Roman von 1973 wurde 1974 verfilmt; die Kino-Neufassung von 2009 folgte 35 Jahre später."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Regie: Joseph Sargent.",
       "context": "Sargent drehte mit Zustimmung der New Yorker Verkehrsbehörde, die bestimmte Darstellungen verlangte. Ihr Graffitiverbot führte zu ungewöhnlich sauberen U-Bahn-Wagen; die konkrete Produktionsauflage verändert damit das Bild des sonst alltäglichen Schauplatzs.",
-      "anchor": "Sargents Verhandlung mit der Verkehrsbehörde erklärt die auffällig sauberen U-Bahn-Wagen.",
       "interest": "Sargents Verhandlung mit der Verkehrsbehörde erklärt die auffällig sauberen U-Bahn-Wagen.",
       "sources": [
         "institut",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sargents Verhandlung mit der Verkehrsbehörde erklärt die auffällig sauberen U-Bahn-Wagen."
     }
   ]
 }

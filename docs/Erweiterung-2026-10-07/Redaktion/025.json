@@ -37,12 +37,12 @@
       ],
       "short": "Kelly und Devoe verfolgen gestohlene Atomsprengköpfe.",
       "context": "Julia Kelly (Nicole Kidman) untersucht nuklearen Schmuggel; Thomas Devoe (George Clooney) bringt militärische Erfahrung und Kontakte ein. Nach einer Explosion in Russland vermuten sie, dass mehrere Sprengköpfe verschwunden sind. Die Bedrohung verbindet einen Diebstahl mit einem möglichen Anschlag und verlangt deshalb zugleich technische Analyse, Nachrichtendienstwissen und unmittelbares Eingreifen.",
-      "anchor": "Der Diebstahl wird gefährlich, weil die Sprengköpfe als Anschlagswaffen weiterreisen.",
       "interest": "Der Diebstahl wird gefährlich, weil die Sprengköpfe als Anschlagswaffen weiterreisen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Diebstahl wird gefährlich, weil die Sprengköpfe als Anschlagswaffen weiterreisen."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Kelly ist die Fachfrau für die nukleare Bedrohung.",
       "context": "Julia Kelly (Nicole Kidman) ist Leiterin der Gruppe gegen nuklearen Schmuggel beim Nationalen Sicherheitsrat. Devoe (George Clooney) wird ihr als militärischer Verbindungsmann zugeteilt. Die beiden arbeiten mit unterschiedlichen Methoden und geraten zunächst aneinander. Gerade die Verbindung von technischer Expertise und operativem Handeln wird später nötig, um die Waffe rechtzeitig zu finden und unschädlich zu machen.",
-      "anchor": "Kellys Fachwissen und Devoes Einsatzwissen müssen zusammenarbeiten.",
       "interest": "Kellys Fachwissen und Devoes Einsatzwissen müssen zusammenarbeiten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Kellys Fachwissen und Devoes Einsatzwissen müssen zusammenarbeiten."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die große Explosion verdeckt den größeren Diebstahl.",
       "context": "Zehn Sprengköpfe sollen zur Demontage transportiert werden. Die Täter bringen neun auf einen anderen Zug und zünden den verbleibenden nach einer herbeigeführten Kollision. Thomas Devoe (George Clooney) erkennt diese Möglichkeit hinter dem scheinbaren Einzelereignis. Die Explosion zerstört nicht nur Menschen und Infrastruktur, sondern lenkt auch die Aufmerksamkeit vom weiteren Weg der Waffen ab.",
-      "anchor": "Die sichtbare Katastrophe verdeckt den unsichtbaren Weitertransport.",
       "interest": "Die sichtbare Katastrophe verdeckt den unsichtbaren Weitertransport.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die sichtbare Katastrophe verdeckt den unsichtbaren Weitertransport."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Ein fehlender Sprengkopf zwingt zur weiteren Suche.",
       "context": "Thomas Devoe (George Clooney) und sein Team stoppen den Transport und sichern die Waffen. Ein Überlebender verrät jedoch, dass zuvor bereits ein Sprengkopf abgegeben wurde. Der militärische Erfolg beendet deshalb die Geschichte nicht. Julia Kelly (Nicole Kidman) und Devoe müssen nun die einzelne fehlende Waffe und ihren Träger aus den Transportspuren herauslösen.",
-      "anchor": "Neun gesicherte Waffen lassen eine entscheidende Bedrohung übrig.",
       "interest": "Neun gesicherte Waffen lassen eine entscheidende Bedrohung übrig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Neun gesicherte Waffen lassen eine entscheidende Bedrohung übrig."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Gavrić will seinen familiären Verlust durch einen Anschlag rächen.",
       "context": "Dušan Gavrić (Marcel Iureș) hat Frau und Tochter bei einem Scharfschützenangriff in Sarajevo verloren. Er erklärt sich keiner einzelnen Kriegspartei zugehörig und beschuldigt andere Länder, alle Seiten mit Waffen versorgt zu haben. Sein Angriff auf ein internationales Treffen soll diese Mitverantwortung vergelten. Der Film gibt dem Täter damit ein persönliches Motiv, ohne seinen geplanten Massenmord zu rechtfertigen.",
-      "anchor": "Gavrić überträgt seinen privaten Verlust auf ein internationales Anschlagsziel.",
       "interest": "Gavrić überträgt seinen privaten Verlust auf ein internationales Anschlagsziel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Gavrić überträgt seinen privaten Verlust auf ein internationales Anschlagsziel."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Kelly verhindert die nukleare Wirkung, nicht jede Explosion.",
       "context": "Julia Kelly (Nicole Kidman) erreicht die Bombe, nachdem Dušan Gavrić (Marcel Iureș) sich getötet hat. Sie entfernt einen Teil der Anordnung, die den Plutoniumkern für die nukleare Explosion zusammendrücken soll. Die verbleibende konventionelle Detonation beschädigt das Gebäude, während Kelly und Devoe (George Clooney) hinausspringen. Die Szene unterscheidet ausdrücklich eine zerstörerische Explosion von der verhinderten nuklearen Katastrophe.",
-      "anchor": "Die kleine Explosion bleibt, die nukleare Katastrophe wird verhindert.",
       "interest": "Die kleine Explosion bleibt, die nukleare Katastrophe wird verhindert.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die kleine Explosion bleibt, die nukleare Katastrophe wird verhindert."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film erschien 1997.",
       "context": "Die Geschichte verbindet den Zustand des russischen Atomwaffenbestands nach dem Kalten Krieg mit Folgen der Jugoslawienkriege. Der Film wurde die erste Veröffentlichung des neu gegründeten Studios DreamWorks Pictures. Sein Jahr hilft deshalb auch, eine frühe Produktionsphase dieses Studios einzuordnen, bevor dessen spätere große Animations- und Realfilmserien bekannt wurden.",
-      "anchor": "1997 beginnt DreamWorks’ Filmveröffentlichung mit dieser nuklearen Verfolgung.",
       "interest": "1997 beginnt DreamWorks’ Filmveröffentlichung mit dieser nuklearen Verfolgung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "1997 beginnt DreamWorks’ Filmveröffentlichung mit dieser nuklearen Verfolgung."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Mimi Leder führte Regie.",
       "context": "Mimi Leder inszeniert ihren ersten Kinofilm nach Erfahrungen im Fernsehen. Nicole Kidman und George Clooney tragen darin eine Partnerschaft zwischen Fachwissen und militärischem Zugriff. Die Handlung wechselt zwischen internationalen Schauplätzen und einer persönlichen Bedrohung in New York. Leder verantwortet die filmische Umsetzung dieses Drehbuchs; die Gründung von DreamWorks macht dessen Gründer nicht zu den Regisseuren.",
-      "anchor": "Leder inszeniert die erste DreamWorks-Veröffentlichung.",
       "interest": "Leder inszeniert die erste DreamWorks-Veröffentlichung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Leder inszeniert die erste DreamWorks-Veröffentlichung."
     }
   ]
 }

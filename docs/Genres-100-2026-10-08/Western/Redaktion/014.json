@@ -32,11 +32,11 @@
       ],
       "short": "Charlie will seine Familie aus dem Krieg heraushalten.",
       "context": "Charlie Anderson (James Stewart) arbeitet mit seiner Familie auf einer Farm in Virginia. Obwohl der Bürgerkrieg in der Nähe geführt wird, betrachtet er ihn zunächst als Angelegenheit anderer Menschen. Seine Söhne sollen auf dem eigenen Land bleiben. Die Haltung beruht auf seinem Vertrauen in die selbst erwirtschaftete Unabhängigkeit. Der Film setzt diesen Anspruch einer Umgebung aus, in der Armeen, Gewalt und Gefangenschaft immer näher an den privaten Alltag heranrücken.",
-      "anchor": "Charlie vertraut darauf, den Krieg von der eigenen Farm fernhalten zu können.",
       "interest": "Verankert den persönlichen Ausgangskonflikt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Charlie vertraut darauf, den Krieg von der eigenen Farm fernhalten zu können."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Sam muss unmittelbar nach der Trauung wieder zur Truppe.",
       "context": "Jennie Anderson (Rosemary Forsyth) heiratet Sam (Doug McClure), einen Offizier der Konföderierten. Kaum sind die Gelübde gesprochen, wird er zurück zur Truppe gerufen. Der Krieg greift damit in ein Ereignis ein, das der Familie zunächst als eigener privater Glücksmoment gehört. Die Trennung braucht keinen persönlichen Streit zwischen den Eheleuten. Eine militärische Verpflichtung durchbricht den Versuch, den Alltag nach den Wünschen der Familie zu ordnen.",
-      "anchor": "Der militärische Rückruf beendet die gemeinsame Hochzeitsfreude.",
       "interest": "Erfasst einen frühen konkreten Einbruch des Kriegs.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der militärische Rückruf beendet die gemeinsame Hochzeitsfreude."
     },
     {
       "code": "M1",
@@ -78,12 +78,12 @@
       ],
       "short": "Eine gefundene Mütze führt zu Boys Gefangennahme.",
       "context": "Boy Anderson (Phillip Alford) ist bei einem Ausflug mit seinem Freund Gabriel (Eugene Jackson Jr.) unterwegs. Er trägt eine gefundene Mütze der Konföderierten, als eine Unionspatrouille auf die Jungen trifft. Das äußere Zeichen genügt den Soldaten, um ihn als Gegner festzunehmen. Die Verwechslung zieht seine Familie in die Suche nach einem Kriegsgefangenen hinein. Charlies (James Stewart) erklärte Neutralität schützt den Sohn nicht vor einer militärischen Zuschreibung.",
-      "anchor": "Eine gefundene Mütze wird zum vermeintlichen Beweis einer Zugehörigkeit.",
       "interest": "Verbindet ein äußeres Zeichen mit der zentralen Verwechslung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Eine gefundene Mütze wird zum vermeintlichen Beweis einer Zugehörigkeit."
     },
     {
       "code": "M2",
@@ -102,12 +102,12 @@
       ],
       "short": "Gabriel versteckt den verletzten Freund.",
       "context": "Boy Anderson (Phillip Alford) entkommt aus der Gefangenschaft, gerät aber erneut zwischen die kämpfenden Truppen und wird verletzt. Ein Unionssoldat nähert sich ihm; es ist sein Freund Gabriel (Eugene Jackson Jr.), der inzwischen der Armee beigetreten ist. Gabriel hilft ihm, sich bis nach der Schlacht zu verstecken. Die Freundschaft übersteht damit eine Lage, in der eine Uniform zunächst Gefahr signalisiert. Persönliches Wiedererkennen verhindert die weitere Bedrohung des Verwundeten.",
-      "anchor": "Der scheinbar bedrohliche Soldat erweist sich als rettender Freund.",
       "interest": "Erkennt die Veränderung einer vertrauten Figurenbeziehung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der scheinbar bedrohliche Soldat erweist sich als rettender Freund."
     },
     {
       "code": "S1",
@@ -126,12 +126,12 @@
       ],
       "short": "Das Alter des Postens erinnert Charlie an seinen vermissten Sohn.",
       "context": "Ein erschrockener junger Posten schießt auf die zurückkehrende Familie und tötet Jacob Anderson (Glenn Corbett). Charlie Anderson (James Stewart) beginnt, ihn zu erwürgen, hält aber inne, als er erfährt, dass der Soldat sechzehn ist. Er denkt an seinen vermissten Sohn Boy (Phillip Alford). Die unmittelbare Rache wird durch eine persönliche Wiedererkennung unterbrochen: Im Täter sieht Charlie zugleich einen Jungen, dessen künftiges Leben noch vor ihm liegt.",
-      "anchor": "Der Vater erkennt im jungen Täter das Alter seines eigenen Sohnes.",
       "interest": "Verbindet eine konkrete Entscheidung mit dem Wandel des Vaters.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Vater erkennt im jungen Täter das Alter seines eigenen Sohnes."
     },
     {
       "code": "S2",
@@ -150,12 +150,12 @@
       ],
       "short": "Boy kehrt während des Gottesdienstes zurück.",
       "context": "Charlie Anderson (James Stewart) geht nach den schweren Verlusten mit der verbliebenen Familie wieder in die Kirche. Während des Gottesdienstes tritt Boy Anderson (Phillip Alford) auf einer Krücke durch die Tür. Der Vater erkennt den vermissten Sohn und führt ihn zur Bank. Die Rückkehr hebt die Todesfälle nicht auf, verändert aber den gemeinsamen Augenblick. Der wiederkehrende Kirchgang wird dadurch zum Rahmen für Trauer und eine unerwartete Wiedervereinigung.",
-      "anchor": "Der wiederkehrende Kirchgang trägt diesmal Verlust und Wiederkehr zugleich.",
       "interest": "Erfasst die präzise Schlusswendung und ihren wiederkehrenden Rahmen.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der wiederkehrende Kirchgang trägt diesmal Verlust und Wiederkehr zugleich."
     },
     {
       "code": "Y",
@@ -174,11 +174,11 @@
       ],
       "short": "Die öffentliche Weltpremiere fand 1965 statt.",
       "context": "Shenandoah erschien 1965. Die auf dem Film beruhende Broadway-Musicalfassung begann 1975, zehn Jahre später. AFI dokumentiert diese Bühnenbearbeitung und nennt den Drehbuchautor James Lee Barrett auch unter den späteren Buchautoren. Der Zeitanker verbindet damit eine filmische Familiengeschichte mit ihrer musikalischen Weiterverwendung. Die spätere Premiere verschiebt nicht das Erstjahr des Films, sondern bezeichnet ein neues Werk, das denselben Stoff in einer anderen Form erzählt.",
-      "anchor": "1965 der Film, 1975 das Musical: zehn Jahre bis zur Broadway-Bearbeitung.",
       "interest": "Verknüpft Erstjahr und konkrete Bühnenweiterführung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1965 der Film, 1975 das Musical: zehn Jahre bis zur Broadway-Bearbeitung."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Andrew V. McLaglen führte Hauptregie.",
       "context": "Andrew V. McLaglen inszenierte Shenandoah mit James Stewart. Die Handlung bleibt eng an einer Familie, deren Vater die äußere Gewalt zunächst aus dem eigenen Verantwortungsbereich ausschließen will. Statt nur gegnerische Armeen gegenüberzustellen, zeigt der Film Folgen für Hochzeiten, Arbeit, Gefangene und Eltern. Robert Arthur produzierte und James Lee Barrett schrieb die Vorlage und das Drehbuch. Diese Funktionen sind vom alleinigen Hauptregiecredit McLaglens zu trennen.",
-      "anchor": "McLaglen erzählt den Bürgerkrieg durch die bedrohte Unabhängigkeit einer Familie.",
       "interest": "Ordnet Hauptregie und familiäre Perspektive zu.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "McLaglen erzählt den Bürgerkrieg durch die bedrohte Unabhängigkeit einer Familie."
     }
   ],
   "notes": "Gabriel ist im Artikelcache mit dem Kurznamen Gene Jackson, im AFI-Cast mit Eugene Jackson Jr. erfasst. Die Fragen verwenden den vollständigen AFI-Filmcredit."

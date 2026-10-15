@@ -42,12 +42,12 @@
       ],
       "short": "Fantomas (Jean Marais) will das Wissen zweier Wissenschaftler zur Gedankenbeeinflussung nutzen.",
       "context": "Fantomas (Jean Marais) will das Wissen zweier Wissenschaftler zur Gedankenbeeinflussung nutzen. Die Entführungen zielen daher nicht bloß auf Lösegeld. Ihre gemeinsame Forschung soll dem Verbrecher ein Machtinstrument verschaffen, das später auch gegen seine eigenen Leute eingesetzt werden kann.",
-      "anchor": "Die Entführten sollen ein Machtinstrument entwickeln.",
       "interest": "Das wissenschaftliche Ziel erklärt den Entführungsplan.",
       "sources": [
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Entführten sollen ein Machtinstrument entwickeln."
     },
     {
       "code": "L2",
@@ -66,13 +66,13 @@
       ],
       "short": "Fandor (Jean Marais) ist Journalist.",
       "context": "Fandor (Jean Marais) ist Journalist. Er ermittelt neben Kommissar Juve (Louis de Funès) und entwickelt einen eigenen Plan, um Fantomas zu fangen. Diese zweite Ermittlerposition ermöglicht Konkurrenz und Missverständnisse: Die Polizei weiß nicht immer, welche Täuschung der Reporter bereits vorbereitet hat.",
-      "anchor": "Fandor ermittelt aus journalistischem Ehrgeiz.",
       "interest": "Der Beruf erklärt seine unabhängige Initiative.",
       "sources": [
         "artikel",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fandor ermittelt aus journalistischem Ehrgeiz."
     },
     {
       "code": "M1",
@@ -91,12 +91,12 @@
       ],
       "short": "Fandor (Jean Marais) übernimmt das Aussehen von Professor Lefèbvre.",
       "context": "Fandor (Jean Marais) übernimmt das Aussehen von Professor Lefèbvre. Der gesuchte Wissenschaftler wird damit zum Köder, ohne selbst den geplanten Weg anzutreten. Juve (Louis de Funès) kennt die Absprache zunächst nicht. Die unkoordinierte Tarnung macht es den Ermittlern schwerer, den richtigen Gegner zu erkennen.",
-      "anchor": "Der Reporter spielt den Professor als Köder.",
       "interest": "Ein Täuschungsplan erzeugt das zentrale Verwirrspiel.",
       "sources": [
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Reporter spielt den Professor als Köder."
     },
     {
       "code": "M2",
@@ -115,12 +115,12 @@
       ],
       "short": "Die Citroën DS wird zu einem Flugzeug.",
       "context": "Die Citroën DS wird zu einem Flugzeug. Fantomas (Jean Marais) verschiebt die Verfolgung damit überraschend von der Straße in die Luft. Juve (Louis de Funès) und Fandor (Jean Marais) folgen zwar ebenfalls fliegend, bekommen den Verbrecher aber nicht mehr rechtzeitig in die Reichweite ihres Geräts.",
-      "anchor": "Die DS entzieht sich dem Straßenrennen durch den Start in die Luft.",
       "interest": "Das bekannte Fahrzeug erklärt die räumliche Wendung des Finales.",
       "sources": [
         "cinema"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die DS entzieht sich dem Straßenrennen durch den Start in die Luft."
     },
     {
       "code": "S1",
@@ -139,12 +139,12 @@
       ],
       "short": "Die Wissenschaftler entwickeln den geforderten Gedankenapparat und wenden ihn gegen Fantomas’ Leute an.",
       "context": "Die Wissenschaftler entwickeln den geforderten Gedankenapparat und wenden ihn gegen Fantomas’ Leute an. Das Wissen bleibt also nicht nur eine Beute des Verbrechers. Allerdings ist die Wirkung räumlich begrenzt. Diese Grenze erklärt, warum die Gefangenen ausbrechen können, der Gegner aber trotzdem entkommt.",
-      "anchor": "Die Erfindung hilft gegen die Wachen, ihre Reichweite begrenzt den Sieg.",
       "interest": "Die Funktionsgrenze erklärt den Ausgang des Konflikts.",
       "sources": [
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Erfindung hilft gegen die Wachen, ihre Reichweite begrenzt den Sieg."
     },
     {
       "code": "S2",
@@ -163,12 +163,12 @@
       ],
       "short": "Fantomas’ Hauptquartier liegt im Bereich eines Vulkans.",
       "context": "Fantomas’ Hauptquartier liegt im Bereich eines Vulkans. Die von Max Douy gestaltete Anlage erweitert den Verbrecher zur Figur mit einem spektakulären eigenen Reich. Labor, Gefangenschaft und Flucht treffen dort zusammen. Der Ort verbindet damit wissenschaftliche Machtfantasie und die Abenteuerästhetik der damaligen Agentenfilme.",
-      "anchor": "Der Vulkan enthält Fantomas’ eigenes Reich.",
       "interest": "Der Raum bündelt Labor, Gefangenschaft und spektakuläre Flucht.",
       "sources": [
         "cinema"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Vulkan enthält Fantomas’ eigenes Reich."
     },
     {
       "code": "Y",
@@ -187,14 +187,14 @@
       ],
       "short": "Erste Veröffentlichung in Frankreich am 8. Dezember 1965; deutscher Kinostart 1966.",
       "context": "1965 erschien der zweite Fantomas-Film mit Jean Marais und Louis de Funès. Der erste Teil war 1964 veröffentlicht worden, der dritte folgte 1967. Der mittlere Film liegt damit ein Jahr nach dem Beginn und zwei Jahre vor dem Abschluss der Trilogie. Diese Reihenfolge verankert seine Erfindungen und Maskenspiele in einer kurzen, klar abgegrenzten Filmreihe.",
-      "anchor": "Fantomas 1964, Interpol 1965, Welt 1967: der mittlere Film der Trilogie.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "reihe"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Fantomas 1964, Interpol 1965, Welt 1967: der mittlere Film der Trilogie."
     },
     {
       "code": "D",
@@ -213,7 +213,6 @@
       ],
       "short": "André Hunebelle ist bei Gaumont, BFI und der Cinémathèque française als Regisseur ausgewiesen.",
       "context": "André Hunebelle ist bei Gaumont, BFI und der Cinémathèque française als Regisseur ausgewiesen. Die Cinémathèque nennt Jacques Besnard für die zweite Einheit. Haroun Tazieff erscheint in einigen Sekundärangaben zusätzlich; seine Vulkanbilder wurden aus einem Dokumentarfilm übernommen. Hauptregie, zweite Einheit und übernommenes Filmmaterial werden deshalb getrennt eingeordnet.",
-      "anchor": "Hunebelle führt die Hauptregie; zusätzliche Einheiten und Archivbilder sind eigene Beiträge.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "cinema",
@@ -221,7 +220,8 @@
         "bfi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Hunebelle führt die Hauptregie; zusätzliche Einheiten und Archivbilder sind eigene Beiträge."
     }
   ]
 }

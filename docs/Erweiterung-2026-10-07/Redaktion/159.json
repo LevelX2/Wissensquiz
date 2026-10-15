@@ -35,12 +35,12 @@
       ],
       "short": "Mike Terry (Chiwetel Ejiofor) unterrichtet brasilianisches Jiu-Jitsu.",
       "context": "Mike Terry (Chiwetel Ejiofor) unterrichtet brasilianisches Jiu-Jitsu. Die Schule vermittelt Selbstverteidigung, während Wettkämpfe für ihn ein anderes Verhältnis zum Können bedeuten. Die Geschichte fragt deshalb nicht allein nach sportlichem Erfolg. Sie untersucht, ob ein Lehrer sein Verständnis der Disziplin unter finanziellem Druck tatsächlich bewahren kann.",
-      "anchor": "Mikes Schule dient der Selbstverteidigung.",
       "interest": "Die Disziplin und ihr Zweck eröffnen den Konflikt.",
       "sources": [
         "tribeca"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mikes Schule dient der Selbstverteidigung."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Mike Terry (Chiwetel Ejiofor) lehnt Wettkämpfe aus Überzeugung ab.",
       "context": "Mike Terry (Chiwetel Ejiofor) lehnt Wettkämpfe aus Überzeugung ab. Eine Einschränkung von außen zwingt ihn nicht dazu. Das macht seine spätere Teilnahme zum Konflikt mit einer eigenen Regel. Geldnot kann ihn zu einer Entscheidung bewegen, die er aus der Sicht seines Unterrichts gerade vermeiden wollte.",
-      "anchor": "Die selbst gesetzte Regel gerät unter Geldnot unter Druck.",
       "interest": "Die Ablehnung erklärt den späteren inneren Konflikt.",
       "sources": [
         "tribeca"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die selbst gesetzte Regel gerät unter Geldnot unter Druck."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Ein versehentlicher Schuss von Laura Black (Emily Mortimer) zerstört die Frontscheibe.",
       "context": "Ein versehentlicher Schuss von Laura Black (Emily Mortimer) zerstört die Frontscheibe. Der Versuch, sie vor Strafverfolgung zu schützen, erzeugt ein verborgenes Wissen über Mike und seinen Schüler. Eine zunächst begrenzte Hilfe schafft damit eine spätere Abhängigkeit. Die Beteiligten können die Folgen des Vorfalls nicht dauerhaft kontrollieren.",
-      "anchor": "Die verdeckte Schussabgabe macht den Helfer erpressbar.",
       "interest": "Der Zwischenfall setzt mehrere spätere Folgen in Gang.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die verdeckte Schussabgabe macht den Helfer erpressbar."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Die schwarze Kugel weist einem Kämpfer eine Einschränkung zu.",
       "context": "Die schwarze Kugel weist einem Kämpfer eine Einschränkung zu. Die zufällige Bedingung soll Anpassungsfähigkeit trainieren. Lernen bedeutet für Mike Terry (Chiwetel Ejiofor), unter einem Nachteil einen Ausweg zu finden. Die Regel ist deshalb mehr als ein Spiel: Sie bringt sein Verständnis der Selbstverteidigung in eine konkrete Übung.",
-      "anchor": "Die schwarze Kugel fordert einen Ausweg aus dem Nachteil.",
       "interest": "Das Trainingsverfahren macht die Lehre praktisch.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die schwarze Kugel fordert einen Ausweg aus dem Nachteil."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Die Auswahl wird manipuliert und ist nicht mehr zufällig.",
       "context": "Die Auswahl wird manipuliert und ist nicht mehr zufällig. Mike Terrys (Chiwetel Ejiofor) Lernverfahren dient nun einem Wettgeschäft mit festgelegten Vorteilen. Nicht schon die Übernahme allein erklärt seine Reaktion. Der ursprüngliche Sinn wird umgedreht: Anpassung unter Unsicherheit wird zum Vorwand für eine verdeckte Kontrolle des Ausgangs.",
-      "anchor": "Die manipulierte Auswahl macht aus Lernen eine Wettbetrugsregel.",
       "interest": "Die Übernahme verändert den Zweck des Verfahrens.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die manipulierte Auswahl macht aus Lernen eine Wettbetrugsregel."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Der alte Kampfkunstmeister, gespielt von Dan Inosanto, verleiht Mike Terry (Chiwetel Ejiofor) den roten Gürtel.",
       "context": "Der alte Kampfkunstmeister, gespielt von Dan Inosanto, verleiht Mike Terry (Chiwetel Ejiofor) den roten Gürtel. Anerkennung kommt damit aus der Tradition seiner Disziplin. Der Ausgang belohnt nicht einfach einen offiziellen Turniersieg. Der Meister erkennt ein Verhalten an, das Mike gegen die kommerzielle Ordnung der Veranstaltung gezeigt hat.",
-      "anchor": "Die Anerkennung kommt vom Meister statt aus der Turnierwertung.",
       "interest": "Der Schluss benennt eine andere Form des Erfolgs.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Anerkennung kommt vom Meister statt aus der Turnierwertung."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Erstveröffentlichung 2008; Tribeca kündigte eine Weltpremiere am 25. April an, Wikipedia verzeichnet zuvor eine Los-Angeles-Premiere am 7. April. Das Filmjahr bleibt 2008.",
       "context": "„Redbelt“ erschien 2008. Die Produktion hatte im Juli 2007 begonnen, also ein Kalenderjahr zuvor. Chiwetel Ejiofor bereitete sich mit intensivem körperlichem Training auf den Jiu-Jitsu-Lehrer vor. Die Folge 2007–2008 verbindet die konkrete Entstehung mit der fertigen Filmrolle: Die dargestellte Bewegungsroutine beruht auf einer vorbereiteten Leistung des Schauspielers.",
-      "anchor": "Produktionsbeginn 2007, Redbelt 2008: ein Kalenderjahr vom Training zum fertigen Film.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Produktionsbeginn 2007, Redbelt 2008: ein Kalenderjahr vom Training zum fertigen Film."
     },
     {
       "code": "D",
@@ -204,14 +204,14 @@
       ],
       "short": "David Mamet schrieb und inszenierte „Redbelt“.",
       "context": "David Mamet schrieb und inszenierte „Redbelt“. Er trainierte selbst Jiu-Jitsu; Renato Magno beriet den Film in dieser Disziplin. Bei der Tribeca-Ankündigung ordnete Mamet seine Arbeit als Verbindung von Kampf- und Samurai-Film ein. Der Ehrenkonflikt wird dadurch in eine Gegenwart versetzt, in der Unterricht, Filmgeschäft und organisierte Wettkämpfe aufeinander treffen.",
-      "anchor": "Mamet bringt den Samurai-Ehrenkonflikt in die gegenwärtige Jiu-Jitsu-Welt.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel",
         "tribeca"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Mamet bringt den Samurai-Ehrenkonflikt in die gegenwärtige Jiu-Jitsu-Welt."
     }
   ]
 }

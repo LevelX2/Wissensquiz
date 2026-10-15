@@ -37,12 +37,12 @@
       ],
       "short": "Dom und Yas durchstreifen South London.",
       "context": "Dom und Yas durchstreifen South London. Märkte, Lokale und private Wohnungen werden Stationen ihres Kennenlernens; der gemeinsame Weg bringt die gerade beendeten Beziehungen beider immer wieder in ihre Gespräche hinein.",
-      "anchor": "Der Spaziergang verknüpft South London mit neuen Beziehungen.",
       "interest": "Der Spaziergang verknüpft South London mit neuen Beziehungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Spaziergang verknüpft South London mit neuen Beziehungen."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Beide haben eine Trennung hinter sich.",
       "context": "Beide haben eine Trennung hinter sich. Yas wirkt zunächst entschlossener als Dom, doch der gemeinsame Tag macht auch ihre eigene Verletzung sichtbar. Die scheinbar eindeutige Helferrolle wird so zu einer gegenseitigen Unterstützung.",
-      "anchor": "Zwei Trennungen bilden den Ausgangspunkt der neuen Nähe.",
       "interest": "Zwei Trennungen bilden den Ausgangspunkt der neuen Nähe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zwei Trennungen bilden den Ausgangspunkt der neuen Nähe."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Yas spielt Doms neue Freundin.",
       "context": "Yas spielt Doms neue Freundin. Dadurch verändert sie das Kräfteverhältnis bei seinem Treffen mit Gia und Eric; die erfundene gemeinsame Geschichte nimmt eine Nähe vorweg, die sich erst entwickeln muss.",
-      "anchor": "Die gespielte neue Beziehung verschafft Dom Selbstvertrauen.",
       "interest": "Die gespielte neue Beziehung verschafft Dom Selbstvertrauen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die gespielte neue Beziehung verschafft Dom Selbstvertrauen."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Yas möchte ihre Platte „The Low End Theory“ zurückholen.",
       "context": "Yas möchte ihre Platte „The Low End Theory“ zurückholen. Der Gegenstand gibt dem Spaziergang ein konkretes Ziel und führt beide in die Vergangenheit ihrer Beziehung; die scheinbar leichte Mission macht ihre alten Konflikte wieder sichtbar.",
-      "anchor": "Die Platte führt den neuen Begleiter in die alte Beziehung.",
       "interest": "Die Platte führt den neuen Begleiter in die alte Beziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Platte führt den neuen Begleiter in die alte Beziehung."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Jules enthüllt, dass er Yas (Vivian Oparah) verlassen hat.",
       "context": "Jules enthüllt, dass er Yas (Vivian Oparah) verlassen hat. Ihre zuvor selbstsichere Darstellung war eine Schutzgeschichte; Dom erlebt sie zunächst als Unehrlichkeit. Der Konflikt betrifft, wie Verletzte sich vor einem neuen Menschen präsentieren.",
-      "anchor": "Yas’ souveräne Trennungsgeschichte verbirgt ihre Kränkung.",
       "interest": "Yas’ souveräne Trennungsgeschichte verbirgt ihre Kränkung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Yas’ souveräne Trennungsgeschichte verbirgt ihre Kränkung."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Yas winkt Dom (David Jonsson) von einem Boot auf der Themse zu.",
       "context": "Yas winkt Dom (David Jonsson) von einem Boot auf der Themse zu. Zuvor hatte sie Jules’ fehlendes Winken kritisiert. Der Schluss macht aus dieser beiläufigen Gesprächserinnerung eine erkennbare romantische Geste.",
-      "anchor": "Das Winken verwandelt eine alte Beschwerde in eine neue Einladung.",
       "interest": "Das Winken verwandelt eine alte Beschwerde in eine neue Einladung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Winken verwandelt eine alte Beschwerde in eine neue Einladung."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2023 wurde der Film bei Sundance gezeigt.",
       "context": "2023 wurde der Film bei Sundance gezeigt. Die Dreharbeiten liefen bereits 2021 in London; zwei Jahre trennen die Arbeit vor Ort von der ersten Festivalveröffentlichung. Der zeitliche Anker erinnert daran, dass Drehjahr und Filmjahr unterschiedliche Angaben sind.",
-      "anchor": "Dreh 2021, Premiere 2023: Zwei Jahre trennen Londoner Dreharbeit und erstes Publikum.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Dreh 2021, Premiere 2023: Zwei Jahre trennen Londoner Dreharbeit und erstes Publikum."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Raine Allen-Miller inszenierte nach dem Drehbuch von Nathan Bryon und Tom Melia.",
       "context": "Raine Allen-Miller inszenierte nach dem Drehbuch von Nathan Bryon und Tom Melia. David Jonsson und Vivian Oparah spielen Dom und Yas. Ein gemeinsamer Spaziergang durch South London erlaubt eine Folge konkreter Begegnungen, statt die Romanze nur in einem neutralen Innenraum zu erzählen.",
-      "anchor": "Raine Allen-Miller inszenierte nach dem Drehbuch von Nathan Bryon und Tom Melia.",
       "interest": "Raine Allen-Miller inszenierte nach dem Drehbuch von Nathan Bryon und Tom Melia.",
       "sources": [
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Raine Allen-Miller inszenierte nach dem Drehbuch von Nathan Bryon und Tom Melia."
     }
   ]
 }

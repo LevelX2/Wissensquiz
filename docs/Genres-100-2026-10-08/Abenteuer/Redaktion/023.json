@@ -34,11 +34,11 @@
       ],
       "short": "Ein Sandsturm zwingt das Flugzeug in der Sahara zu Boden.",
       "context": "Pilot Frank Towns (James Stewart) landet nach einem Sandsturm abseits der Route. In der Wüste fehlen Wasser und funktionierender Funk. Die Gruppe kann daher nicht darauf vertrauen, dass Suchmannschaften ihren tatsächlichen Standort kennen, und muss eine eigene Lösung finden.",
-      "anchor": "Die Sahara verlangt eine Rettung aus eigener Kraft.",
       "interest": "Der Ort wird mit seinen konkreten Überlebensbedingungen verknüpft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Sahara verlangt eine Rettung aus eigener Kraft."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Er schlägt einen flugfähigen Neubau aus erhaltenen Teilen vor.",
       "context": "Dorfmann (Hardy Krüger) sieht im zerstörten Flugzeug nicht nur eine verlorene Maschine, sondern nutzbare Bauteile. Towns (James Stewart) zweifelt an dem Vorschlag. Die Handlung entwickelt sich aus der Frage, ob technische Planung und praktische Erfahrung gemeinsam eine zweite Chance schaffen können.",
-      "anchor": "Das Wrack enthält die Teile der Rettung.",
       "interest": "Der Plan macht den Gegensatz der beiden Hauptfiguren verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Wrack enthält die Teile der Rettung."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Seine berufliche Praxis stammt aus dem Modellflugzeugbau.",
       "context": "Towns (James Stewart) und Moran (Richard Attenborough) erwarten Erfahrung mit großen Flugzeugen. Dorfmann (Hardy Krüger) erklärt jedoch, dass er Modelle konstruiert. Er verteidigt die Übertragbarkeit der aerodynamischen Prinzipien; die anderen müssen zwischen ungewohnter Qualifikation und tatsächlichem Wissen unterscheiden.",
-      "anchor": "Modellbau ist Dorfmanns unerwartete Fachpraxis.",
       "interest": "Die Frage prüft eine fachliche Vertrauensentscheidung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Modellbau ist Dorfmanns unerwartete Fachpraxis."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Die gemeinsame Aufgabe stützt die Moral.",
       "context": "Renaud (Christian Marquand) betrachtet nicht nur die technische Erfolgschance. Die gemeinsame Arbeit gibt den Männern eine Aufgabe, während Warten und Hoffnungslosigkeit sie schwächen würden. Sein Argument erweitert die Rettungsplanung um die psychische Wirkung, die ein konkretes Ziel in der Not hat.",
-      "anchor": "Bauen gibt Hoffnung eine Tätigkeit.",
       "interest": "Der Plan wird auch als psychologische Überlebenshilfe erschlossen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Bauen gibt Hoffnung eine Tätigkeit."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Die begrenzten Startpatronen machen Fehlversuche kostbar.",
       "context": "Die neue Maschine ist fertig, doch ihr Motor muss noch anspringen. Die vorhandenen Startpatronen können nicht beliebig ersetzt werden. Towns (James Stewart) entscheidet sich trotz Dorfmanns (Hardy Krüger) Einwand für einen Versuch ohne Zündung, um die Zylinder zu reinigen, bevor der Start gelingt.",
-      "anchor": "Jede Startpatrone ist eine begrenzte Chance.",
       "interest": "Eine technische Entscheidung wird durch die Ressourcenknappheit verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Jede Startpatrone ist eine begrenzte Chance."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Der Erfolg führt zur Versöhnung.",
       "context": "Towns (James Stewart) bringt Flugpraxis mit, Dorfmann (Hardy Krüger) die Konstruktion. Beide haben einander misstraut, sind aber für die Rettung aufeinander angewiesen. Die Ankunft an der Oase beendet deshalb nicht nur die Notlage, sondern verändert auch ihre gegenseitige Beurteilung.",
-      "anchor": "Konstruktion und Flugpraxis retten gemeinsam.",
       "interest": "Der Schluss löst den Kompetenzstreit durch Zusammenarbeit.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Konstruktion und Flugpraxis retten gemeinsam."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "Diese Fassung erschien 1965.",
       "context": "Der Flug des Phönix mit James Stewart und Hardy Krüger erschien 1965. Die Neuverfilmung mit Dennis Quaid und Giovanni Ribisi folgte 2004, 39 Jahre später. Beide Fassungen erzählen von Überlebenden, die aus dem abgestürzten Flugzeug ein neues bauen wollen. Der lange Abstand verbindet die ursprüngliche Aldrich-Verfilmung mit einer späteren Wiederaufnahme desselben ungewöhnlichen technischen Rettungsplans.",
-      "anchor": "1965 der erste Phönix – 2004 die Neuverfilmung: 39 Jahre Abstand.",
       "interest": "Das Hauptpaar ist der individuelle Jahresanker.",
       "sources": [
         "archiv",
         "zeitanker"
-      ]
+      ],
+      "objective": "1965 der erste Phönix – 2004 die Neuverfilmung: 39 Jahre Abstand."
     },
     {
       "code": "D",
@@ -196,11 +196,11 @@
       ],
       "short": "Robert Aldrich führte Regie.",
       "context": "Robert Aldrich inszeniert Elleston Trevors Roman als Gruppenabenteuer in einem begrenzten Raum. Das Flugzeugwrack wird Werkstatt, Unterkunft und Streitort zugleich. Der Regiecredit betrifft die Stewart-Krüger-Fassung und muss von der späteren Adaption des gleichen Stoffes getrennt werden.",
-      "anchor": "Aldrich macht das Wrack zum Rettungsraum.",
       "interest": "Der Credit wird an den zentralen Handlungsraum gebunden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Aldrich macht das Wrack zum Rettungsraum."
     }
   ]
 }

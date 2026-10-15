@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Radha und ihre Schwägerin Sita werden ein Liebespaar.",
       "context": "Beide Frauen leben in Ehen, in denen ihre Bedürfnisse wenig zählen. Ihre Nähe entwickelt sich innerhalb des gemeinsamen Haushalts. Als die Beziehung entdeckt wird, muss Radha entscheiden, ob sie der bestehenden Ordnung weiter gehorcht.",
-      "anchor": "Liebe im gemeinsamen Haushalt",
       "interest": "Die Beziehung eröffnet den Zugang zu einem Film, dessen Darstellung weiblichen Begehrens heftige Auseinandersetzungen auslöste.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Fire_(1996_film)"
-      ]
+      ],
+      "objective": "Liebe im gemeinsamen Haushalt"
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Rukmini Bai führt ein Bordell.",
       "context": "Sie versucht, den Ruf ihres Hauses und den Zusammenhalt seiner Bewohnerinnen zu erhalten. Die angebliche moralische Erneuerung des Ortes verbindet sich jedoch mit handfesten Grundstücksinteressen. Azmis Figur muss immer neue Vereinbarungen mit den örtlichen Machthabern treffen.",
-      "anchor": "Geschäftsführung unter moralischem Druck",
       "interest": "Die Rolle verbindet eine komische, energische Figur mit einer Satire auf Politik und Besitz.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://cinemaazi.com/film/mandi"
-      ]
+      ],
+      "objective": "Geschäftsführung unter moralischem Druck"
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Kishtayya ist Töpfer.",
       "context": "Lakshmi und ihr gehörloser Mann sind arm und arbeiten für den Sohn eines Grundbesitzers. Dessen Macht über Arbeit und Alltag bestimmt auch die persönlichen Beziehungen. Als Kishtayya zeitweise fortgeht, beginnt Lakshmi eine Beziehung mit dem jungen Herrn.",
-      "anchor": "Handwerk und wirtschaftliche Abhängigkeit",
       "interest": "Das familiäre Umfeld macht die Machtverhältnisse der Hauptrolle verständlich.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Ankur_(film)"
-      ]
+      ],
+      "objective": "Handwerk und wirtschaftliche Abhängigkeit"
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 2,
       "short": "Pooja nimmt ihren Ehemann nicht zurück.",
       "context": "Nachdem Inder sie verlassen hat, baut Pooja ein eigenes Leben auf. Seine spätere Bitte um Versöhnung hebt diese Entwicklung nicht auf. Mahesh Bhatt hielt an dem Ende fest, obwohl Verleiher befürchteten, das Publikum werde eine solche Entscheidung ablehnen.",
-      "anchor": "Eigenständigkeit bleibt die Entscheidung",
       "interest": "Die Schlusswendung macht den gesellschaftlichen Anspruch der Figur konkret.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/mahesh-bhatt-reveals-why-arth-climax-was-called-suicidal-the-makers-wanted-the-ending-changed/amp_articleshow/130952389.cms"
-      ]
+      ],
+      "objective": "Eigenständigkeit bleibt die Entscheidung"
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 3,
       "short": "Der Fotograf übernimmt die Rolle des erwarteten Heiratskandidaten.",
       "context": "Jamini lebt mit ihrer alten Mutter in einem verfallenden Anwesen. Der wirklich erwartete Mann ist längst anderweitig verheiratet. Die Besucher lassen die Mutter dennoch in ihrer Hoffnung; nach ihrer Abreise bleibt Jamini zurück.",
-      "anchor": "Trost durch eine falsche Identität",
       "interest": "Die Frage zeigt den schmerzhaften Abstand zwischen Anteilnahme und tatsächlicher Veränderung.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Khandhar"
-      ]
+      ],
+      "objective": "Trost durch eine falsche Identität"
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 1,
       "short": "Anirudh verwechselt ihre Zuneigung mit einem Opfer aus Mitleid.",
       "context": "Kavita findet nach dem Tod ihres Mannes eine Aufgabe an der Blindenschule. Der blinde Schulleiter legt großen Wert auf Selbstständigkeit. Seine Angst, lediglich der Gegenstand ihrer Hilfsbereitschaft zu sein, verhindert zunächst ein offenes Gespräch über ihre Gefühle.",
-      "anchor": "Zuneigung und das gefürchtete Mitleid",
       "interest": "Der Beziehungskonflikt zeigt, wie Selbstbild und Zuschreibungen gegenseitiges Verständnis erschweren.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Sparsh_(film)"
-      ]
+      ],
+      "objective": "Zuneigung und das gefürchtete Mitleid"
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 0,
       "short": "Sie recherchierte an den tatsächlichen Arbeitsorten der Frauen.",
       "context": "Azmi beschrieb Unterschiede in Sprache, Auftreten und Selbstverständnis zwischen den besuchten Orten. Gespräche sollten ihr Zugang zu den Lebensbedingungen hinter der Figur geben. Sie betonte zugleich, dass solche Recherche eine Verantwortung gegenüber den Menschen begründet, deren Erfahrungen man verwendet.",
-      "anchor": "Beobachten und zuhören vor der Rolle",
       "interest": "Die Vorbereitung zeigt den Zusammenhang von Darstellung und persönlicher Begegnung.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://www.kavitachhibber.com/2006/03/18/shabana-azmi/"
-      ]
+      ],
+      "objective": "Beobachten und zuhören vor der Rolle"
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 3,
       "short": "Ihre Mitdarstellerin Ranjani Ramakrishnan half ihr bei der musikalischen Vorbereitung.",
       "context": "Azmi hielt die Sängerinnenrolle zunächst für kaum zu bewältigen. Ranjani, die im Film eine Geigerin spielt, zerlegte den Stoff in lernbare Einheiten. Für Azmi musste die musikalische Darstellung sitzen, bevor sie die emotionalen Vorgänge der Figur gestalten konnte.",
-      "anchor": "Musik als Voraussetzung der Darstellung",
       "interest": "Die Frage erschließt eine konkrete Zusammenarbeit innerhalb des Ensembles.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.kavitachhibber.com/2006/03/18/shabana-azmi/"
-      ]
+      ],
+      "objective": "Musik als Voraussetzung der Darstellung"
     }
   ]
 }

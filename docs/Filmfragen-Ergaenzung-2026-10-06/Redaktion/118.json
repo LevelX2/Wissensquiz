@@ -33,13 +33,13 @@
       ],
       "short": "Peter ist Programmierer bei Initech.",
       "context": "Peter Gibbons (Ron Livingston) erlebt seine Arbeit als Kette von Kontrollen, Formularen und Wochenendforderungen. Seine Freunde Michael Bolton (David Herman) und Samir Nagheenanajar (Ajay Naidu) teilen den Frust. Die Softwarefirma gibt der Satire ein konkretes Umfeld, in dem technische Arbeit und vermeintlich effiziente Verwaltung ständig aneinander vorbeigehen.",
-      "anchor": "Initech organisiert Peters Alltag in Regeln statt Sinn.",
       "interest": "Initech organisiert Peters Alltag in Regeln statt Sinn.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Initech organisiert Peters Alltag in Regeln statt Sinn."
     },
     {
       "code": "L2",
@@ -58,13 +58,13 @@
       ],
       "short": "Der Hypnotiseur stirbt, bevor er Peter aus dem entspannten Zustand zurückholen kann.",
       "context": "Peter Gibbons (Ron Livingston) soll durch Hypnose entspannter werden. Der Therapeut stirbt während der Sitzung, sodass der vorgesehene Rückruf in den alten Zustand ausbleibt. Peter ignoriert nun Regeln und Erwartungen. Die fantastische Zuspitzung macht sichtbar, wie sehr seine vorherige Anpassung von Angst statt von eigener Überzeugung getragen war.",
-      "anchor": "Die abgebrochene Hypnose nimmt Peter die alltägliche Angst.",
       "interest": "Die abgebrochene Hypnose nimmt Peter die alltägliche Angst.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die abgebrochene Hypnose nimmt Peter die alltägliche Angst."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Die Männer schlagen den aus der Firma mitgenommenen Drucker kaputt.",
       "context": "Peter Gibbons (Ron Livingston), Michael Bolton (David Herman) und Samir Nagheenanajar (Ajay Naidu) nehmen den fehlerhaften Drucker aus dem Büro. Auf einem Feld entlädt sich ihr aufgestauter Frust körperlich. Das Gerät bündelt viele kleine Demütigungen des Alltags, obwohl seine Zerstörung die strukturellen Probleme der Firma nicht löst.",
-      "anchor": "Der Drucker wird zum sichtbaren Ziel des Bürofrusts.",
       "interest": "Der Drucker wird zum sichtbaren Ziel des Bürofrusts.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Drucker wird zum sichtbaren Ziel des Bürofrusts."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Der Plan soll Bruchteile von Cents in ein eigenes Konto umlenken.",
       "context": "Michael Bolton (David Herman) programmiert einen Virus, der winzige Beträge aus vielen Transaktionen sammelt. Peter Gibbons (Ron Livingston) und Samir Nagheenanajar (Ajay Naidu) hoffen, dass solche Rundungsreste nicht auffallen. Ein Programmfehler macht die Summe jedoch sehr schnell sehr groß; die technische Kleinheit der Einzeleingriffe schützt sie nicht vor den Folgen.",
-      "anchor": "Viele unscheinbare Centbruchteile ergeben einen auffälligen Diebstahl.",
       "interest": "Viele unscheinbare Centbruchteile ergeben einen auffälligen Diebstahl.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Viele unscheinbare Centbruchteile ergeben einen auffälligen Diebstahl."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Miltons frühere Entlassung wurde ihm nicht mitgeteilt und im Lohnsystem nicht wirksam.",
       "context": "Die Berater entdecken, dass Milton Waddams (Stephen Root) seit Jahren als entlassen gilt. Statt die Lage mit ihm zu klären, streichen sie die Zahlung. Bill Lumbergh (Gary Cole) behandelt ihn zugleich weiterhin als verschiebbaren Störfaktor. Die Verwaltung verwaltet einen Fehler, ohne den betroffenen Menschen überhaupt als Gesprächspartner anzuerkennen.",
-      "anchor": "Milton existiert für die Bürokratie als unbeendeter Fehler.",
       "interest": "Milton existiert für die Bürokratie als unbeendeter Fehler.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Milton existiert für die Bürokratie als unbeendeter Fehler."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Die Berater bewerten Peters Gelassenheit und Kritik als Potential.",
       "context": "Peter Gibbons (Ron Livingston) sagt den Beratern offen, wie wenig produktiv sein Bürotag ist. Die ungewohnte Ruhe wirkt auf sie überzeugender als die angestrengte Anpassung seiner Kollegen. Die Satire legt damit einen Widerspruch frei: Ein Verfahren zur objektiven Effizienzbewertung belohnt vor allem ein Auftreten, das Selbstsicherheit vermittelt.",
-      "anchor": "Die Effizienzprüfung belohnt Peters lässige Ehrlichkeit.",
       "interest": "Die Effizienzprüfung belohnt Peters lässige Ehrlichkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Effizienzprüfung belohnt Peters lässige Ehrlichkeit."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1999.",
       "context": "Alles Routine erschien 1999. Mike Judges Entwurf für den Spielfilm entstand 1996, drei Jahre früher. Ausgangspunkt waren seine animierten Milton-Kurzfilme; der Spielfilm erweitert den Büroalltag um Peter und dessen Kollegen. Der Wechsel vom einzelnen Cartoonangestellten zum Ensemble erklärt, weshalb nicht nur Milton die Handlung trägt.",
-      "anchor": "Entwurf 1996, Spielfilm 1999: drei Jahre bis zum Ensemble aus der Milton-Idee.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Entwurf 1996, Spielfilm 1999: drei Jahre bis zum Ensemble aus der Milton-Idee.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Entwurf 1996, Spielfilm 1999: drei Jahre bis zum Ensemble aus der Milton-Idee."
     },
     {
       "code": "D",
@@ -204,14 +204,14 @@
       ],
       "short": "Der Regiecredit lautet Mike Judge.",
       "context": "Mike Judge schrieb und inszenierte den Film. Die Figur Milton (Stephen Root) ging aus seinen eigenen animierten Milton-Kurzfilmen hervor. In der langen Live-Action-Fassung spielt Ron Livingston den Programmierer Peter Gibbons, dessen veränderte Haltung die scheinbar sachlichen Bewertungssysteme der Firma infrage stellt.",
-      "anchor": "Mike Judge: Die Figur Milton (Stephen Root) ging aus seinen eigenen animierten Milton-Kurzfilmen hervor.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Mike Judge: Die Figur Milton (Stephen Root) ging aus seinen eigenen animierten Milton-Kurzfilmen hervor."
     }
   ]
 }

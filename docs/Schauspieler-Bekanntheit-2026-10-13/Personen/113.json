@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Tatis wiederkehrende Filmfigur heißt Monsieur Hulot.",
       "context": "Mit Mantel, Hut und Schirm gerät Hulot in eine Umgebung, deren Regeln er nie ganz versteht. Seine Bewegungen bringen die sorgfältig geordneten Räume durcheinander.",
-      "anchor": "Mantel, Schirm und die Welt im Umbruch: Hulot.",
       "interest": "Die Figur verbindet mehrere Filme, ohne eine fortlaufende Handlung zu benötigen.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/360"
-      ]
+      ],
+      "objective": "Mantel, Schirm und die Welt im Umbruch: Hulot."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 3,
       "short": "François ist der Briefträger des Dorfes.",
       "context": "Seine vertraute Runde wird zum Schauplatz körperlicher Komik. Der Jahrmarkt bringt ein neues Bild von Fortschritt in die kleine Gemeinde.",
-      "anchor": "François trägt die Post aus.",
       "interest": "Der Beruf erklärt die Tätigkeiten, aus denen Tati seine Gags entwickelt.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       ],
       "knowledge_id": "K-F240-20261006-109-L1",
       "variant_of": "F240-20261006-109-L1",
-      "knowledge_note": "Gleicher Wissensgegenstand: François’ Beruf."
+      "knowledge_note": "Gleicher Wissensgegenstand: François’ Beruf.",
+      "objective": "François trägt die Post aus."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 2,
       "short": "Ein Film über den US-Postbetrieb weckt seinen Ehrgeiz.",
       "context": "François versucht, das spektakuläre Tempo der Leinwand in seinem Dorf nachzuahmen. Sein eigenes Fahrrad setzt diesem Ideal sehr sichtbare Grenzen.",
-      "anchor": "Amerikanische Postbilder beschleunigen die Dorfrunde.",
       "interest": "Die Komik verbindet Technikbegeisterung mit der körperlichen Anstrengung eines Einzelnen.",
       "feedback": [
         "",
@@ -92,7 +91,8 @@
       ],
       "knowledge_id": "K-F240-20261006-109-M1",
       "variant_of": "F240-20261006-109-M1",
-      "knowledge_note": "Gleiches Ziel: amerikanischer Postfilm als Anstoß zur Effizienzjagd."
+      "knowledge_note": "Gleiches Ziel: amerikanischer Postfilm als Anstoß zur Effizienzjagd.",
+      "objective": "Amerikanische Postbilder beschleunigen die Dorfrunde."
     },
     {
       "code": "M2",
@@ -106,7 +106,6 @@
       "correct": 0,
       "short": "Hulot besucht einen Badeort mit Strandhotel.",
       "context": "Gemeinsames Essen, Strandbesuche und Spiele organisieren die Urlaubstage. Tati gewinnt seine Komik aus kleinen Störungen dieser gesellschaftlichen Rituale.",
-      "anchor": "Hulots Urlaub führt ins Strandhotel.",
       "interest": "Der Schauplatz macht verständlich, weshalb sehr unterschiedliche Gäste ständig aufeinandertreffen.",
       "feedback": [
         "",
@@ -120,7 +119,8 @@
       "extraSources": [
         "https://www.criterion.com/films/360",
         "https://www.bfi.org.uk/lists/10-great-films-set-hotels"
-      ]
+      ],
+      "objective": "Hulots Urlaub führt ins Strandhotel."
     },
     {
       "code": "S1",
@@ -134,7 +134,6 @@
       "correct": 1,
       "short": "Tativille war die eigens errichtete Stadtkulisse.",
       "context": "Hochhäuser, Straßen und technische Versorgung machten die Anlage zu einer kleinen künstlichen Stadt. Tati konnte ihre Räume genau auf die Bewegungen und Missverständnisse seiner Komödie abstimmen.",
-      "anchor": "Tativille machte moderne Architektur zur bespielbaren Kulisse.",
       "interest": "Die Produktionsentscheidung zeigt den Aufwand hinter scheinbar beiläufiger Beobachtung.",
       "feedback": [
         "",
@@ -147,7 +146,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/5699-tativille-in-louisville"
-      ]
+      ],
+      "objective": "Tativille machte moderne Architektur zur bespielbaren Kulisse."
     },
     {
       "code": "S2",
@@ -161,7 +161,6 @@
       "correct": 3,
       "short": "Die Kulisse begrenzte Eingriffe in den wirklichen Hotelbetrieb.",
       "context": "Tati wollte das echte Hôtel de la Plage weiter nutzen, während dort Gäste wohnten. Die gebaute Vorderseite gab dem Team zusätzliche Kontrolle über die Dreharbeiten.",
-      "anchor": "Eine künstliche Vorderseite schützte den echten Alltag.",
       "interest": "Der Fall erklärt, wie sorgfältige Konstruktion einen beiläufigen Eindruck ermöglicht.",
       "feedback": [
         "",
@@ -174,7 +173,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image"
-      ]
+      ],
+      "objective": "Eine künstliche Vorderseite schützte den echten Alltag."
     },
     {
       "code": "E1",
@@ -188,7 +188,6 @@
       "correct": 2,
       "short": "Das Thomson-Color-Material ließ sich zunächst nicht entwickeln.",
       "context": "Eine zweite Kamera hatte vorsorglich Schwarz-Weiß-Material aufgenommen. Erst lange nach Tatis Tod gelang die Aufbereitung der ursprünglichen Farbnegative.",
-      "anchor": "Die zweite Kamera rettete die Veröffentlichung.",
       "interest": "Technische Aufnahme und tatsächlich verfügbare Kinofassung müssen auseinandergehalten werden.",
       "feedback": [
         "",
@@ -201,7 +200,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image"
-      ]
+      ],
+      "objective": "Die zweite Kamera rettete die Veröffentlichung."
     },
     {
       "code": "E2",
@@ -215,7 +215,6 @@
       "correct": 0,
       "short": "Tati gestaltete den Ton nach der Bildaufnahme gesondert.",
       "context": "Er konnte Geräusche hervorheben und damit den Blick auf Einzelheiten lenken. Bild und Ton bilden so eine präzise organisierte Komik, auch wenn Dialog kaum Handlung erklärt.",
-      "anchor": "Geräusche führen den Blick durch Tatis Bilder.",
       "interest": "Seine Pantomime beruht auf einer ausgearbeiteten akustischen Gestaltung.",
       "feedback": [
         "",
@@ -226,7 +225,8 @@
       "films": [],
       "extraSources": [
         "https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image"
-      ]
+      ],
+      "objective": "Geräusche führen den Blick durch Tatis Bilder."
     }
   ]
 }

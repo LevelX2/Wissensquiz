@@ -31,12 +31,12 @@
       ],
       "short": "Das Schiff kentert nach einer gewaltigen Welle.",
       "context": "Die Silvesterfeier wird abrupt zum Überlebenskampf. Nach dem Kentern liegt das Schiff kopfüber im Wasser: Decken werden zu Böden, Ausgänge führen in falsche Richtungen. Die Ausgangskatastrophe verändert damit die räumlichen Regeln für jede weitere Entscheidung der Passagiere.",
-      "anchor": "Die Welle dreht die Poseidon und ihre Fluchtwege auf den Kopf.",
       "interest": "Die Katastrophe erklärt die besondere räumliche Aufgabe des Films.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Welle dreht die Poseidon und ihre Fluchtwege auf den Kopf."
     },
     {
       "code": "L2",
@@ -55,13 +55,13 @@
       ],
       "short": "Frank Scott ist ein Geistlicher.",
       "context": "Frank Scott (Gene Hackman) fordert seine Mitreisenden zum eigenen Handeln auf. Sein Beruf macht diesen Aufruf besonders: Hilfe bedeutet für ihn keine passive Erwartung eines Wunders. Mike Rogo (Ernest Borgnine) begegnet seiner Führung skeptisch; die gemeinsame Flucht muss deshalb auch unterschiedliche Überzeugungen zusammenführen.",
-      "anchor": "Der Geistliche Scott setzt auf Handeln statt bloßes Warten.",
       "interest": "Der Beruf eröffnet das Verständnis des Führungskonflikts.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Geistliche Scott setzt auf Handeln statt bloßes Warten."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Die Gruppe klettert über den Weihnachtsbaum nach oben.",
       "context": "Nach dem Kentern liegt der Zugang zur nächsten Schiffsebene hoch über den Überlebenden. Frank Scott (Gene Hackman) verwendet den Weihnachtsbaum als Leiter. Ein Festgegenstand erhält so eine völlig andere Funktion. Wer rechtzeitig hinaufsteigt, entkommt dem Saal, bevor das eindringende Wasser die Wartenden einschließt.",
-      "anchor": "Der Weihnachtsbaum wird im gekenterten Schiff zur Leiter.",
       "interest": "Ein ungewöhnlicher Gegenstand macht die veränderte Raumlage anschaulich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Weihnachtsbaum wird im gekenterten Schiff zur Leiter."
     },
     {
       "code": "M2",
@@ -104,13 +104,13 @@
       ],
       "short": "Belle hat Erfahrung als Wettkampfschwimmerin und rettet Scott unter Wasser.",
       "context": "Belle Rosen (Shelley Winters) bietet zunächst an, den überfluteten Weg zu erkunden. Frank Scott (Gene Hackman) versucht es selbst und wird eingeklemmt. Nun schwimmt Belle hinterher und befreit ihn. Die Umkehr zeigt, dass eine leicht unterschätzte Mitreisende die Fähigkeit besitzt, von der der Anführer selbst abhängig wird.",
-      "anchor": "Belles Schwimmkönnen rettet den Anführer.",
       "interest": "Der Zusammenhang von Vorgeschichte und Rettung widerlegt ein vorschnelles Figurenbild.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Belles Schwimmkönnen rettet den Anführer."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Scott schließt das Ventil und opfert dabei sein Leben.",
       "context": "Frank Scott (Gene Hackman) hängt an dem heißen Ventilrad, um den Dampf abzustellen. Er kann sich anschließend nicht mehr halten. Mike Rogo (Ernest Borgnine) muss die übrigen Menschen weiterführen. Der letzte Weg zur Rettung entsteht damit aus einer konkreten Tat, die Scotts früheren Aufruf zum Handeln bis zur äußersten Konsequenz führt.",
-      "anchor": "Scott stoppt den Dampf; Rogo führt die Überlebenden weiter.",
       "interest": "Die technische Handlung verbindet das Finale mit dem Führungsthema.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Scott stoppt den Dampf; Rogo führt die Überlebenden weiter."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Teile des Films wurden auf der Queen Mary in Long Beach gedreht.",
       "context": "Die Queen Mary lieferte reale Schiffsräume für den Anfang. Nach dem Kentern benötigte die Produktion jedoch umgedrehte Räume, die im Studio nachgebaut wurden. Der Wechsel erklärt das Zusammenspiel von Drehort und Kulisse: Ein echtes Schiff kann die normale Raumwirkung liefern, ohne selbst für die Katastrophe umgedreht werden zu müssen.",
-      "anchor": "Echte Queen Mary vor dem Kentern, umgedrehte Studiokulissen danach.",
       "interest": "Die Produktionsentscheidung erklärt, wie eine scheinbar unmögliche Raumwelt entsteht.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Echte Queen Mary vor dem Kentern, umgedrehte Studiokulissen danach."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Der Film wurde 1972 erstmals veröffentlicht.",
       "context": "1972 kam das Schiffsabenteuer ins Kino; 1974 folgte „Flammendes Inferno“ aus Irwin Allens Produktion. Der Abstand von zwei Jahren verbindet zwei große Katastrophenfilme: Erst müssen Menschen aus einem gekenterten Schiff, dann aus einem brennenden Hochhaus entkommen. Diese Reihenfolge bildet einen konkreten Filmanker für das Jahr.",
-      "anchor": "1972 kentert die Poseidon, 1974 brennt das Hochhaus.",
       "interest": "Zwei verwandte Filme machen Veröffentlichung und Reihenfolge merkbar.",
       "sources": [
         "afi",
         "inferno"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1972 kentert die Poseidon, 1974 brennt das Hochhaus."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "Ronald Neame führte Regie; Irwin Allen produzierte.",
       "context": "Ronald Neame musste das Fortschreiten einer Gruppe durch immer schwierigere Schiffsräume inszenieren. Irwin Allen ist als Produzent eng mit dem Katastrophenfilm verbunden, ersetzt aber nicht den Regiecredit. Die unterschiedlichen Aufgaben helfen, den Film präzise zuzuordnen, gerade im Vergleich mit Allens späteren großen Produktionen.",
-      "anchor": "Neame inszeniert die Poseidon, Allen produziert sie.",
       "interest": "Der bekannte Produzentenname wird vom tatsächlichen Hauptregiecredit getrennt.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Neame inszeniert die Poseidon, Allen produziert sie."
     }
   ]
 }

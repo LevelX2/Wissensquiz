@@ -36,12 +36,12 @@
       ],
       "short": "Hickman bringt den Körper eines Gesuchten zur Kopfgeldzahlung.",
       "context": "Morgan Hickman (Henry Fonda) bringt einen getöteten Gesuchten in den Ort und fordert die Belohnung. Die Bevölkerung begegnet ihm mit Ablehnung. Seine praktische Erfahrung wird deshalb nicht sofort als Hilfe anerkannt. Der Film stellt einen gesellschaftlich unbeliebten Berufsträger vor, der dem jungen Sheriff dennoch viel vermitteln kann.",
-      "anchor": "Der abgelehnte Kopfgeldjäger besitzt Erfahrungen, die dem neuen Sheriff fehlen.",
       "interest": "Erfasst die Ankunft und ihren sozialen Gegensatz.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der abgelehnte Kopfgeldjäger besitzt Erfahrungen, die dem neuen Sheriff fehlen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Hickman vermittelt dem unerfahrenen Owens Kenntnisse.",
       "context": "Ben Owens (Anthony Perkins) sucht die Erfahrung Morgan Hickmans (Henry Fonda). Der ältere Mann steht dem Sheriffberuf skeptisch gegenüber, hilft aber dennoch. Die Beziehung verbindet daher Wissenstransfer mit verschiedenen Erwartungen: Der junge Mann möchte sich im Amt bewähren, der andere kennt dessen persönliche Kosten.",
-      "anchor": "Der junge Sheriff sucht Bewährung bei einem Mentor, der die Kosten des Amtes kennt.",
       "interest": "Erklärt die Spannung innerhalb der Lehrer-Schüler-Beziehung.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der junge Sheriff sucht Bewährung bei einem Mentor, der die Kosten des Amtes kennt."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Der erfahrene Mann betont Menschenkenntnis und Verhalten.",
       "context": "Morgan (Henry Fonda) vermittelt Owens (Anthony Perkins) mehr als den Umgang mit einer Waffe. Wichtig ist, wie man anderen Menschen begegnet und gefährliche Situationen einschätzt. Die berufliche Sicherheit kann deshalb nicht aus einer einzelnen technischen Fähigkeit entstehen. Sie verlangt Urteil über den Augenblick und den Gegenüber.",
-      "anchor": "Sicheres Handeln verlangt Menschenkenntnis, nicht allein eine sichere Waffe.",
       "interest": "Erklärt den eigentlichen Inhalt der Erfahrungshilfe.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sicheres Handeln verlangt Menschenkenntnis, nicht allein eine sichere Waffe."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Nona und ihr Sohn stehen ebenfalls am Rand der Gemeinschaft.",
       "context": "Nona (Betsy Palmer) und Kip (Michel Ray) erleben Vorurteile wegen Kips indigener Herkunft. Sie geben Morgan (Henry Fonda) Unterkunft, den der Ort ebenfalls zurückweist. Die Verbindung entsteht somit zwischen Menschen, denen gesellschaftliche Anerkennung verweigert wird, obwohl sie einander eine verlässliche persönliche Hilfe anbieten können.",
-      "anchor": "Die ausgegrenzte Mutter und ihr Sohn geben dem abgelehnten Fremden einen Platz.",
       "interest": "Verbindet Unterkunft und gemeinsame Erfahrung gesellschaftlicher Zurückweisung.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die ausgegrenzte Mutter und ihr Sohn geben dem abgelehnten Fremden einen Platz."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die Feiernden entdecken den toten Arzt.",
       "context": "Die Bewohner erwarten Dr. McCord (John McIntire) zu seiner Geburtstagsfeier. Sein Wagen bringt jedoch den ermordeten Arzt zurück. Die gemeinsame freudige Erwartung wird damit im selben öffentlichen Raum zerstört. Der Film verwandelt eine Handlung der Anerkennung in den Anlass für die nächste, gefährlich aufgebrachte Verfolgergruppe.",
-      "anchor": "Die Geburtstagsbegrüßung trifft auf den toten Arzt und schlägt in neue Verfolgung um.",
       "interest": "Erklärt den wirkungsvollen Wechsel einer öffentlichen Gemeinschaftsszene.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Geburtstagsbegrüßung trifft auf den toten Arzt und schlägt in neue Verfolgung um."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Owens schützt den Anspruch der Gefangenen auf ein Verfahren.",
       "context": "Owens (Anthony Perkins) verteidigt die gefangenen Männer gegen den Mob. Seine Bewährung liegt damit nicht allein im Fangen von Tätern. Er muss gerade danach die Grenze zwischen Amtsgewalt und öffentlicher Rache schützen. Die gewachsene Sicherheit zeigt sich als Verantwortung für ein Verfahren, das andere überspringen wollen.",
-      "anchor": "Owens bewährt sich durch den Schutz des Verfahrens auch für verhasste Gefangene.",
       "interest": "Erklärt die entscheidende Anwendung der erlernten Verantwortung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Owens bewährt sich durch den Schutz des Verfahrens auch für verhasste Gefangene."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "1957 folgt zwei Jahre nach 1955.",
       "context": "The Man from Laramie erschien 1955; The Tin Star folgte 1957, zwei Jahre später. TCM ordnet beide Anthony Manns Beschäftigung mit verletzten moralischen Erwartungen zu. Der Zeitanker verbindet dadurch den Mentorwestern mit einer konkreten früheren Arbeit innerhalb seiner Westernfilmografie, ohne beide Geschichten gleichzusetzen.",
-      "anchor": "1955 Laramie, 1957 The Tin Star: zwei Western Manns im Abstand von zwei Jahren.",
       "interest": "Verankert das Jahr in einer thematisch verbundenen früheren Regiearbeit.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1955 Laramie, 1957 The Tin Star: zwei Western Manns im Abstand von zwei Jahren."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Mann inszenierte den Film.",
       "context": "Anthony Mann führte Regie. AFI berichtet, dass die Produktion zunächst in Farbe geplant war und dann zu Schwarzweiß wechselte. Der belegte Formatentscheid gehört zur Herstellung dieses Films. Er unterscheidet den fertigen visuellen Rahmen von einer vorläufigen Planung, die nicht als Eigenschaft der veröffentlichten Fassung übernommen werden darf.",
-      "anchor": "Manns veröffentlichter Film ist schwarzweiß, obwohl die Planung zunächst Farbe vorsah.",
       "interest": "Verbindet den Regiecredit mit einer belegten Produktionsentscheidung.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Manns veröffentlichter Film ist schwarzweiß, obwohl die Planung zunächst Farbe vorsah."
     }
   ]
 }

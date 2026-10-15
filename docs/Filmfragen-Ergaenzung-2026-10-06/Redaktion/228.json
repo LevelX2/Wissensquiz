@@ -40,12 +40,12 @@
       ],
       "short": "Lin McAdam (James Stewart) gewinnt die besondere Winchester bei einem Schießwettbewerb in Dodge City.",
       "context": "Lin McAdam (James Stewart) gewinnt die besondere Winchester bei einem Schießwettbewerb in Dodge City. Der Gewinn bringt ihn erneut mit dem Mann zusammen, den er verfolgt.",
-      "anchor": "Das Gewehr ist zunächst der Preis seiner Schießkunst.",
       "interest": "Das Gewehr ist zunächst der Preis seiner Schießkunst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Gewehr ist zunächst der Preis seiner Schießkunst."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Dutch Henry Brown (Stephen McNally) überfällt Lin (James Stewart) und nimmt das Gewehr an sich.",
       "context": "Dutch Henry Brown (Stephen McNally) überfällt Lin (James Stewart) und nimmt das Gewehr an sich. Von dort wandert es durch mehrere Hände, während Lins Verfolgung weitergeht.",
-      "anchor": "Der gestohlene Preis eröffnet die Wanderung des Gewehrs.",
       "interest": "Der gestohlene Preis eröffnet die Wanderung des Gewehrs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der gestohlene Preis eröffnet die Wanderung des Gewehrs."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Wyatt Earp (Will Geer) lässt Besucher ihre Waffen abgeben.",
       "context": "Wyatt Earp (Will Geer) lässt Besucher ihre Waffen abgeben. Lin (James Stewart) und Dutch (Stephen McNally) müssen ihre Feindschaft daher zunächst beim Schießwettbewerb statt im offenen Duell austragen.",
-      "anchor": "Earps Waffenregel verlagert den Konflikt in den Wettbewerb.",
       "interest": "Earps Waffenregel verlagert den Konflikt in den Wettbewerb.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Earps Waffenregel verlagert den Konflikt in den Wettbewerb."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Steve (Charles Drake) reitet zunächst fort und lässt Lola (Shelley Winters) zurück.",
       "context": "Steve (Charles Drake) reitet zunächst fort und lässt Lola (Shelley Winters) zurück. Erst als er den Kavallerietrupp entdeckt, kehrt er zu ihr zurück; sein Verhalten entlarvt seine Unzuverlässigkeit.",
-      "anchor": "Steves Flucht zerstört das Bild eines verlässlichen Partners.",
       "interest": "Steves Flucht zerstört das Bild eines verlässlichen Partners.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Steves Flucht zerstört das Bild eines verlässlichen Partners."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Dutch ist Lins (James Stewart) Bruder und hat den Vater erschossen, als dieser ihn nach einem Raub nicht verstecken wollte.",
       "context": "Dutch ist Lins (James Stewart) Bruder und hat den Vater erschossen, als dieser ihn nach einem Raub nicht verstecken wollte. Die Jagd gilt damit einer familiären Gewalttat, nicht allein dem gestohlenen Gewehr.",
-      "anchor": "Die Gewehrsuche überlagert eine Rache für den ermordeten Vater.",
       "interest": "Die Gewehrsuche überlagert eine Rache für den ermordeten Vater.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Gewehrsuche überlagert eine Rache für den ermordeten Vater."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Waco (Dan Duryea) begehrt Steves Gewehr und provoziert ihn zum bewaffneten Konflikt.",
       "context": "Waco (Dan Duryea) begehrt Steves Gewehr und provoziert ihn zum bewaffneten Konflikt. Er erschießt Steve (Charles Drake) und nimmt die Winchester, wodurch die Besitzgeschichte eine weitere Gewalttat verbindet.",
-      "anchor": "Das begehrte Gewehr verknüpft seine Besitzer durch Gewalt.",
       "interest": "Das begehrte Gewehr verknüpft seine Besitzer durch Gewalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das begehrte Gewehr verknüpft seine Besitzer durch Gewalt."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "1950 erschien der Film.",
       "context": "1950 erschien der Film. Er eröffnet die Westernreihe von James Stewart und Anthony Mann, die fünf Jahre später 1955 mit Der Mann aus Laramie ihren Abschluss fand.",
-      "anchor": "Winchester ’73 1950, Der Mann aus Laramie 1955: Der Auftakt liegt fünf Jahre vor dem letzten gemeinsamen Western.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Winchester ’73 1950, Der Mann aus Laramie 1955: Der Auftakt liegt fünf Jahre vor dem letzten gemeinsamen Western."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Anthony Mann übernahm die Regie nach Fritz Langs Ausscheiden.",
       "context": "Anthony Mann übernahm die Regie nach Fritz Langs Ausscheiden. Mit Borden Chases Überarbeitung wurde das Gewehr zu einem zwischen mehreren Besitzern wandernden Gegenstand, der die Rachegeschichte strukturiert.",
-      "anchor": "Anthony Mann übernahm die Regie nach Fritz Langs Ausscheiden.",
       "interest": "Anthony Mann übernahm die Regie nach Fritz Langs Ausscheiden.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Anthony Mann übernahm die Regie nach Fritz Langs Ausscheiden."
     }
   ]
 }

@@ -35,12 +35,12 @@
       ],
       "short": "Richard muss ein Drehbuch abliefern, hat die Arbeit aber lange aufgeschoben.",
       "context": "Richard muss ein Drehbuch abliefern, hat die Arbeit aber lange aufgeschoben. Seine bequeme Lebensweise gerät nun in Konflikt mit einer konkreten Frist. Die Geschichte macht die verbleibende Arbeitszeit zum Rahmen einer Begegnung. Das, was beide schreiben, kann zugleich ihre Erwartungen aneinander und ihre Einschätzung des eigenen Lebens sichtbar machen.",
-      "anchor": "Richards verschobene Drehbucharbeit setzt die Begegnung unter Zeitdruck.",
       "interest": "Den zentralen Arbeitsauftrag erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Richards verschobene Drehbucharbeit setzt die Begegnung unter Zeitdruck."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Gabrielle kommt als Schreibkraft zu Richard.",
       "context": "Gabrielle kommt als Schreibkraft zu Richard. Die erwartete Routinearbeit wird zu einer gemeinsamen Erfindung, weil fast kein fertiger Text vorhanden ist. Ihre Reaktionen beeinflussen die Richtung der entstehenden Geschichte. Der Film gibt ihr dadurch schrittweise eine andere Position als die einer Person, die nur das bereits Geschriebene nach Anweisung übertragen soll.",
-      "anchor": "Aus Gabrielles Schreibauftrag wird gemeinsames Erfinden.",
       "interest": "Die ursprüngliche Aufgabe der zweiten Hauptfigur erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Aus Gabrielles Schreibauftrag wird gemeinsames Erfinden."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Ihnen bleiben zwei Tage bis zur Ankunft des Auftraggebers.",
       "context": "Ihnen bleiben zwei Tage bis zur Ankunft des Auftraggebers. Die kurze Frist erzeugt unmittelbaren Druck, immer neue Ideen auszuprobieren. Der Entstehungsprozess wird selbst zur Handlung des Films. Jede erfundene Szene kann dadurch eine schnelle Antwort auf ein Arbeitsproblem sein und gleichzeitig eine neue Möglichkeit für die Beziehung der beiden eröffnen.",
-      "anchor": "Zwei Tage machen das Schreiben zum gemeinsamen Improvisieren.",
       "interest": "Die konkrete Arbeitsfrist erinnern.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Zwei Tage machen das Schreiben zum gemeinsamen Improvisieren."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Die Hauptdarsteller treten auch in den erfundenen Szenen auf.",
       "context": "Die Hauptdarsteller treten auch in den erfundenen Szenen auf. Damit bleibt die Arbeit im Hotelzimmer mit dem sichtbaren Filmgeschehen verbunden. Die Wechsel können Unterschiede zwischen Wunsch, Genreidee und persönlichem Verhalten zeigen. Das Publikum verfolgt gleichzeitig die Entstehung eines Drehbuchs und eine Beziehung, die durch dieses Erfinden in Bewegung gerät.",
-      "anchor": "Die Schreibenden werden zu Figuren ihres entstehenden Films.",
       "interest": "Die Verbindung der beiden Handlungsebenen verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Schreibenden werden zu Figuren ihres entstehenden Films."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Richard lässt seine Filmfigur sterben und beschreibt sich anschließend selbst als gescheitert.",
       "context": "Richard lässt seine Filmfigur sterben und beschreibt sich anschließend selbst als gescheitert. Seine Einschätzung der eigenen Person bestimmt damit auch das erfundene Ende. Die Szene macht die Verbindung der Ebenen besonders deutlich. Ein späterer Neuanfang verlangt deshalb sowohl eine andere Haltung zu Gabrielle als auch die Bereitschaft, die bisherige Geschichte nicht festzuschreiben.",
-      "anchor": "Richards unglückliches Filmende folgt seinem Urteil über sich selbst.",
       "interest": "Eine erfundene Szene als Spiegel der Figur lesen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Richards unglückliches Filmende folgt seinem Urteil über sich selbst."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Richard gibt die Seiten des bisherigen Entwurfs ins Feuerwerk.",
       "context": "Richard gibt die Seiten des bisherigen Entwurfs ins Feuerwerk. Zugleich schlägt er Gabrielle eine neue gemeinsame Geschichte vor. Die materielle Aufgabe des Texts verbindet den beruflichen Neuanfang mit ihrer Versöhnung. Das Fest bietet dafür ein sichtbares Schlussbild, während die Wörter des Drehbuchs den Übergang zur gemeinsamen Zukunft noch einmal begleiten.",
-      "anchor": "Die alten Seiten verbrennen, während die neue gemeinsame Geschichte beginnt.",
       "interest": "Ein Schlussobjekt mit der Entscheidung für einen Neuanfang verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die alten Seiten verbrennen, während die neue gemeinsame Geschichte beginnt."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Reguläre Veröffentlichung am 8. April 1964. AFI dokumentiert davor Sneak-Previews in San Francisco am 21.–22. September 1963; ohne belegte fertig veröffentlichte Fassung werden diese als Vorab-/Testaufführungen abgegrenzt.",
       "context": "„Zusammen in Paris“ erschien regulär 1964. Die französische Vorlage „La fête à Henriette“ stammt von 1952: zwölf Jahre früher. AFI grenzt die Sneak-Previews von September 1963 vom Debüt am 8. April 1964 ab. Der Zeitanker verbindet das Filmjahr mit der früheren Vorlage, deren Spiel mit einer im Film entstehenden Geschichte für die Neufassung übernommen wurde.",
-      "anchor": "1952 die Vorlage, 1964 die reguläre Neufassung: zwölf Jahre später; Vorabtests 1963.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1952 die Vorlage, 1964 die reguläre Neufassung: zwölf Jahre später; Vorabtests 1963."
     },
     {
       "code": "D",
@@ -204,14 +204,14 @@
       ],
       "short": "Richard Quine führte Regie und produzierte den Film mit Drehbuchautor George Axelrod.",
       "context": "Richard Quine führte Regie und produzierte den Film mit Drehbuchautor George Axelrod. Audrey Hepburn und William Holden spielen zugleich die Schreibenden und Figuren ihres entstehenden Films. Die Zusammenarbeit verwendet damit verschiedene Handlungsebenen, um Genreideen und die entstehende Beziehung nebeneinander zu zeigen. Quines Inszenierung kann dieselben Darsteller zwischen erfundenen Situationen und dem gemeinsamen Hotelzimmer wechseln lassen.",
-      "anchor": "Quine und Axelrod lassen Hepburn und Holden ihre eigene Filmgeschichte erfinden.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "afi",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Quine und Axelrod lassen Hepburn und Holden ihre eigene Filmgeschichte erfinden."
     }
   ]
 }

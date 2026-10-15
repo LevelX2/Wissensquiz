@@ -38,12 +38,12 @@
       ],
       "short": "Eli (John C.",
       "context": "Eli (John C. Reilly) und Charlie Sisters (Joaquin Phoenix) sind Brüder und Auftragsmörder. Eli möchte aussteigen, während Charlie die gewaltsame Arbeit fortsetzen will.",
-      "anchor": "Die berufliche Gemeinschaft verbirgt unterschiedliche Zukunftswünsche.",
       "interest": "Die berufliche Gemeinschaft verbirgt unterschiedliche Zukunftswünsche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die berufliche Gemeinschaft verbirgt unterschiedliche Zukunftswünsche."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Hermann Warm (Riz Ahmed) besitzt eine Formel, die Gold im Wasser kurz sichtbar macht.",
       "context": "Hermann Warm (Riz Ahmed) besitzt eine Formel, die Gold im Wasser kurz sichtbar macht. Ihr wirtschaftlicher Wert löst die Verfolgung aus; zugleich ist die Chemikalie gefährlich ätzend.",
-      "anchor": "Das sichtbare Gold hat einen unsichtbar unterschätzten körperlichen Preis.",
       "interest": "Das sichtbare Gold hat einen unsichtbar unterschätzten körperlichen Preis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das sichtbare Gold hat einen unsichtbar unterschätzten körperlichen Preis."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "John Morris (Jake Gyllenhaal) erfährt Warms (Riz Ahmed) Absichten und erkennt die drohende Folter.",
       "context": "John Morris (Jake Gyllenhaal) erfährt Warms (Riz Ahmed) Absichten und erkennt die drohende Folter. Er entscheidet sich gegen den Auftraggeber und folgt stattdessen Warms Plan einer gemeinschaftlichen Zukunft.",
-      "anchor": "Morris ersetzt die bezahlte Verfolgung durch eine moralische Entscheidung.",
       "interest": "Morris ersetzt die bezahlte Verfolgung durch eine moralische Entscheidung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Morris ersetzt die bezahlte Verfolgung durch eine moralische Entscheidung."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Eli (John C.",
       "context": "Eli (John C. Reilly) erklärt, dass er Charlie (Joaquin Phoenix) schützen wollte, nachdem dieser den gewalttätigen Vater getötet hatte. Die Bindung an den Bruder hält ihn länger im Beruf, als er selbst möchte.",
-      "anchor": "Fürsorge für Charlie bindet Eli an die gewaltsame Arbeit.",
       "interest": "Fürsorge für Charlie bindet Eli an die gewaltsame Arbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Fürsorge für Charlie bindet Eli an die gewaltsame Arbeit."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Charlie (Joaquin Phoenix) will das verblassende Leuchten verlängern und verschüttet die konzentrierte Chemikalie.",
       "context": "Charlie (Joaquin Phoenix) will das verblassende Leuchten verlängern und verschüttet die konzentrierte Chemikalie. Seine Hand sowie Warm und Morris werden schwer verletzt; die gemeinsame Utopie endet in körperlicher Zerstörung.",
-      "anchor": "Ungeduld beim Goldgewinn zerstört die neu entstandene Gemeinschaft.",
       "interest": "Ungeduld beim Goldgewinn zerstört die neu entstandene Gemeinschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ungeduld beim Goldgewinn zerstört die neu entstandene Gemeinschaft."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Als die Brüder den Commodore töten wollen, finden sie ihn bereits tot vor.",
       "context": "Als die Brüder den Commodore töten wollen, finden sie ihn bereits tot vor. Eli (John C. Reilly) und Charlie (Joaquin Phoenix) kehren zu ihrer Mutter zurück; das Ende löst die Abhängigkeit ohne das erwartete Duell.",
-      "anchor": "Der tote Auftraggeber öffnet die Rückkehr aus dem Gewaltberuf.",
       "interest": "Der tote Auftraggeber öffnet die Rückkehr aus dem Gewaltberuf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der tote Auftraggeber öffnet die Rückkehr aus dem Gewaltberuf."
     },
     {
       "code": "Y",
@@ -182,13 +182,13 @@
       ],
       "short": "2018 erschien der Film.",
       "context": "2018 erschien der Film. Die Rechte an Patrick deWitts Roman wurden 2011 für John C. Reillys Produktionsfirma erworben; sieben Jahre später spielte Reilly einen der Brüder in der fertigen Adaption.",
-      "anchor": "Rechteerwerb 2011, Film 2018: Nach sieben Jahren spielt Reilly selbst einen der Brüder.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Rechteerwerb 2011, Film 2018: Nach sieben Jahren spielt Reilly selbst einen der Brüder."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie.",
       "context": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie. Der Weg der Auftragsmörder führt über eine Goldsucherutopie schließlich zurück zur Mutter; die Gewaltgeschichte wird zugleich zur Möglichkeit eines anderen Lebens.",
-      "anchor": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie.",
       "interest": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jacques Audiard führte bei seinem ersten englischsprachigen Langfilm Regie."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Norma Desmond war ein Star des Stummfilms.",
       "context": "Sie lebt abgeschieden in Erinnerungen an ihren früheren Ruhm. Die Begegnung mit einem erfolglosen Drehbuchautor nährt ihren Glauben an ein großes Comeback.",
-      "anchor": "Normas Gegenwart wird von ihrem Stummfilmruhm beherrscht.",
       "interest": "Die frühere Karriere erklärt ihre Erwartungen an die veränderte Filmwelt.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.tcm.com/articles/afi-top-100/99390/sunset-boulevard-1950",
         "https://catalog.afi.com/Film/26513-SUNSET-BLVD"
-      ]
+      ],
+      "objective": "Normas Gegenwart wird von ihrem Stummfilmruhm beherrscht."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 0,
       "short": "Swansons Aufstieg bei Paramount ist eng mit Cecil B. DeMille verbunden.",
       "context": "Die aufwendig inszenierten Gesellschaftsfilme prägten ihr glamouröses Leinwandbild. Ihre frühere Arbeit in kurzen Komödien erhielt damit einen neuen Rahmen.",
-      "anchor": "DeMille verwandelte Swanson in einen Paramount-Star.",
       "interest": "Die Zusammenarbeit erklärt eine wichtige Veränderung ihres öffentlichen Rollenbildes.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00154"
-      ]
+      ],
+      "objective": "DeMille verwandelte Swanson in einen Paramount-Star."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 3,
       "short": "Der Missionar Davidson bedrängt Sadie.",
       "context": "Die Frau versucht, ihre Vergangenheit hinter sich zu lassen. Sein Anspruch, über ihre Moral und ihre Zukunft zu entscheiden, macht den Aufenthalt auf der Insel zum Kampf um Selbstbestimmung.",
-      "anchor": "Davidsons Moralanspruch bedroht Sadies Neuanfang.",
       "interest": "Der Konflikt erklärt die politische und religiöse Brisanz des Stoffes.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Sadie_Thompson_(film)",
         "https://catalog.afi.com/Film/11838-SADIE-THOMPSON"
-      ]
+      ],
+      "objective": "Davidsons Moralanspruch bedroht Sadies Neuanfang."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 2,
       "short": "Swanson tritt als Gloria Swanson auf.",
       "context": "Die Figur reist mit ihrer Assistentin. Der Auftritt nutzt die erkennbare Filmgeschichte der Darstellerin innerhalb eines großen Katastrophenfilm-Ensembles.",
-      "anchor": "Der berühmte Passagier heißt wie die Darstellerin.",
       "interest": "Die Besetzung zeigt, wie ein Film mit der Bekanntheit einer realen Person arbeiten kann.",
       "feedback": [
         "",
@@ -114,7 +113,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/53905-AIRPORT-1975"
-      ]
+      ],
+      "objective": "Der berühmte Passagier heißt wie die Darstellerin."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 3,
       "short": "Sie wollte ihre Filme selbstständig produzieren.",
       "context": "Ihre Produktionsfirmen ermöglichten künstlerische Entscheidungen, brachten aber auch erhebliche finanzielle Belastungen. Die Arbeit als Unternehmerin gehörte damit unmittelbar zu ihrer Schauspielkarriere.",
-      "anchor": "Mehr Entscheidungsmacht bedeutete für Swanson auch eigenes finanzielles Risiko.",
       "interest": "Der Wechsel erschließt die Handlungsmöglichkeiten früher weiblicher Filmproduzenten.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       "films": [],
       "extraSources": [
         "https://research.hrc.utexas.edu/fasearch/findingaid.cfm?eadid=00154"
-      ]
+      ],
+      "objective": "Mehr Entscheidungsmacht bedeutete für Swanson auch eigenes finanzielles Risiko."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 2,
       "short": "„The Trespasser“ war Swansons erster vollständig gesprochener Film.",
       "context": "Die zeitgenössischen Kritiken lobten ihre Darstellung und die Dialoggestaltung. Der Erfolg zeigte, dass ihre Ausdruckskraft den Übergang zum Tonfilm tragen konnte.",
-      "anchor": "Swansons Stimme erhielt im Trespasser eine vollständige Filmrolle.",
       "interest": "Der Übergang ergänzt das verbreitete Bild der reinen Stummfilmdiva.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/12830-THE-TRESPASSER"
-      ]
+      ],
+      "objective": "Swansons Stimme erhielt im Trespasser eine vollständige Filmrolle."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 1,
       "short": "Swanson sah Zensurprobleme und den ausufernden Produktionsaufwand.",
       "context": "Sie beschrieb von Stroheims enorme Materialmengen und Kosten als Gefahr für das eigene Unternehmen. Ihre Entscheidung fiel in der Doppelrolle als Hauptdarstellerin und verantwortliche Produzentin.",
-      "anchor": "Die Produzentin musste den Traum ihres Regisseurs begrenzen.",
       "interest": "Der Konflikt zeigt, weshalb künstlerische Ambition und Produktionsverantwortung auseinandergeraten können.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/features/i-am-not-going-write-my-memoirs-gloria-swanson-talks-pictures"
-      ]
+      ],
+      "objective": "Die Produzentin musste den Traum ihres Regisseurs begrenzen."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 0,
       "short": "Sie schnitt eine kürzere Fassung und ergänzte ein Todesende.",
       "context": "Der umfangreiche Afrika-Teil der ursprünglichen Handlung entfiel. Eine neu aufgenommene Szene sollte dem vorhandenen europäischen Handlungsabschnitt einen Abschluss geben.",
-      "anchor": "Ein neuer Schluss machte aus dem Fragment eine vorführbare Fassung.",
       "interest": "Die Entscheidung erschließt eine frühe Form der nachträglichen Rettung einer gescheiterten Produktion.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/features/i-am-not-going-write-my-memoirs-gloria-swanson-talks-pictures"
-      ]
+      ],
+      "objective": "Ein neuer Schluss machte aus dem Fragment eine vorführbare Fassung."
     }
   ]
 }

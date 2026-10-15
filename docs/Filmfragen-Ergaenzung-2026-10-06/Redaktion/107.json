@@ -35,12 +35,12 @@
       ],
       "short": "Glasflächen und moderne Großbauten bestimmen die Umgebung.",
       "context": "Monsieur Hulot (Jacques Tati) bewegt sich durch Büros, Ausstellungsflächen und ein neues Restaurant. Die Räume sehen einander ähnlich und erschweren Orientierung. Die moderne Architektur ist dabei keine bloße Kulisse: Sichtbarkeit, Spiegelungen und Wege erzeugen fortwährend Missverständnisse, an denen sich der Alltag der Menschen ablesen lässt.",
-      "anchor": "Das moderne Glas verspricht Übersicht und erzeugt Verwirrung.",
       "interest": "Das moderne Glas verspricht Übersicht und erzeugt Verwirrung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das moderne Glas verspricht Übersicht und erzeugt Verwirrung."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Die Eröffnung des Royal Garden wird zum langen Chaos.",
       "context": "Im Royal Garden treffen Touristen, Geschäftsleute und Personal auf eine noch unfertige Umgebung. Monsieur Hulot (Jacques Tati) gehört zu den Gästen. Schäden und Improvisationen verwandeln die förmliche Eröffnung allmählich in ein lebendiges Fest; die Menschen werden lockerer, sobald der perfekte Ablauf verloren geht.",
-      "anchor": "Das unfertige Restaurant wird durch sein Chaos lebendig.",
       "interest": "Das unfertige Restaurant wird durch sein Chaos lebendig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das unfertige Restaurant wird durch sein Chaos lebendig."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Wahrzeichen wie der Eiffelturm tauchen als Spiegelbilder auf.",
       "context": "Barbara (Barbara Dennek) sucht das vertraute Paris, findet aber vor allem eine international austauschbare Architektur. Spiegelungen lassen berühmte Bauwerke kurz aufscheinen. Der Film hält damit die touristische Erwartung gegen die tatsächliche Umgebung: Das wiedererkennbare Paris ist vorhanden, wird aber an den Rand des modernen Stadtalltags gedrängt.",
-      "anchor": "Das Postkarten-Paris blitzt im Glas der neuen Stadt auf.",
       "interest": "Das Postkarten-Paris blitzt im Glas der neuen Stadt auf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Postkarten-Paris blitzt im Glas der neuen Stadt auf."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Der Film ordnet viele Gespräche in seine komplexe Klangwelt ein.",
       "context": "Französische, englische und deutsche Stimmen sind zu hören, doch nicht jedes Wort muss den Blick lenken. Geräusche, Bewegungen und räumliche Beziehungen tragen wichtige Pointen. Deshalb funktioniert die Komik oft durch Aufmerksamkeit für mehrere Bildebenen; ein einzelner erklärender Sprecher würde die Offenheit dieser Beobachtung einschränken.",
-      "anchor": "In Playtime hört und sieht man die Pointe oft vor ihrer sprachlichen Erklärung.",
       "interest": "In Playtime hört und sieht man die Pointe oft vor ihrer sprachlichen Erklärung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "In Playtime hört und sieht man die Pointe oft vor ihrer sprachlichen Erklärung."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Das große Format unterstützt die räumliche und vielschichtige visuelle Komik.",
       "context": "Die hochauflösenden Bilder lassen kleine Bewegungen und Nebenhandlungen in großen Räumen lesbar bleiben. Monsieur Hulot (Jacques Tati) ist oft nur eine Figur unter vielen. Das Publikum kann daher selbst entscheiden, wohin es schaut, und entdeckt beim erneuten Sehen weitere Vorgänge, die keine Großaufnahme ausdrücklich hervorhebt.",
-      "anchor": "Das große Bild gibt auch kleinen Nebenhandlungen Raum.",
       "interest": "Das große Bild gibt auch kleinen Nebenhandlungen Raum.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das große Bild gibt auch kleinen Nebenhandlungen Raum."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Für den Film entstand ein gewaltiges Stadtset, oft Tativille genannt.",
       "context": "Das eigens gebaute Gelände ermöglichte die genaue Anordnung von Straßen, Fassaden und Blickachsen. Diese Kontrolle war für die Komik wichtig, machte die Produktion aber teuer und anfällig für Verzögerungen. Die Architektur konnte so gleichzeitig als Schauplatz und als präzise organisierter Mechanismus für die Gags dienen.",
-      "anchor": "Tativille ist eine gebaute Maschine für räumliche Komik.",
       "interest": "Tativille ist eine gebaute Maschine für räumliche Komik.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tativille ist eine gebaute Maschine für räumliche Komik."
     },
     {
       "code": "Y",
@@ -179,14 +179,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1967.",
       "context": "Playtime erschien 1967 in Frankreich. Das aufwendig gebaute Studiogelände und die lange Produktionszeit gingen der Premiere voraus. Der Film folgte auf Tatis Mein Onkel von 1958, führt dessen Kritik an modernem Alltagsdesign aber in eine ganze Stadtwelt aus Glas und Stahl weiter. Zwischen den beiden Tati-Filmen liegen neun Jahre.",
-      "anchor": "Mein Onkel 1958, Playtime 1967: neun Jahre später wächst die moderne Designwelt zur ganzen Stadt.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Mein Onkel 1958, Playtime 1967: neun Jahre später wächst die moderne Designwelt zur ganzen Stadt.",
       "sources": [
         "handlung",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Mein Onkel 1958, Playtime 1967: neun Jahre später wächst die moderne Designwelt zur ganzen Stadt."
     },
     {
       "code": "D",
@@ -205,7 +205,6 @@
       ],
       "short": "Der Regiecredit lautet Jacques Tati.",
       "context": "Jacques Tati führte Regie und spielt Monsieur Hulot. Für die moderne Stadt ließ er ein eigenes großes Set errichten. Die Inszenierung verteilt die Komik über breite Bilder und viele gleichzeitige Handlungen, statt Hulot ständig in Großaufnahme zum alleinigen Mittelpunkt zu machen.",
-      "anchor": "Jacques Tati: Für die moderne Stadt ließ er ein eigenes großes Set errichten.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "criterion",
@@ -213,7 +212,8 @@
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jacques Tati: Für die moderne Stadt ließ er ein eigenes großes Set errichten."
     }
   ]
 }

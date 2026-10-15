@@ -34,13 +34,13 @@
       ],
       "short": "Die Hauptfigur ist die Entertainerin Fanny Brice.",
       "context": "Fanny Brice (Barbra Streisand) kämpft gegen das Urteil, sie sei keine passende Schönheit für die Bühne. Ihr Erfolg beruht auf Gesang und komischer Eigenständigkeit. Der Film erzählt ihre Karriere zusammen mit einer unglücklichen Ehe, statt lediglich eine Folge berühmter Nummern zu präsentieren.",
-      "anchor": "Fannys eigener Humor wird stärker als das vorgegebene Schönheitsideal.",
       "interest": "Fannys eigener Humor wird stärker als das vorgegebene Schönheitsideal.",
       "sources": [
         "handlung",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fannys eigener Humor wird stärker als das vorgegebene Schönheitsideal."
     },
     {
       "code": "L2",
@@ -59,13 +59,13 @@
       ],
       "short": "Fannys Beziehung zu Nicky Arnstein bildet den privaten Handlungsstrang.",
       "context": "Fanny Brice (Barbra Streisand) liebt Nicky Arnstein (Omar Sharif), dessen Charme seine riskanten Geschäfte nicht ausgleicht. Je erfolgreicher sie wird, desto schwerer fällt ihm seine finanzielle Abhängigkeit. Die romantische Bindung und der berufliche Aufstieg geraten dadurch zunehmend gegeneinander.",
-      "anchor": "Fannys Erfolg verschärft Nickys verletzten Stolz.",
       "interest": "Fannys Erfolg verschärft Nickys verletzten Stolz.",
       "sources": [
         "handlung",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fannys Erfolg verschärft Nickys verletzten Stolz."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Fanny macht aus der romantischen Brautnummer einen Schwangerschaftsgag.",
       "context": "Florenz Ziegfeld (Walter Pidgeon) erwartet eine idealisierte Braut. Fanny Brice (Barbra Streisand) gestaltet die Rolle gegen diese Vorgabe komisch. Die Zustimmung des Publikums zwingt den zunächst wütenden Produzenten zum Umdenken: Ihr persönlicher Witz schafft den Erfolg, den Anpassung nicht garantiert hätte.",
-      "anchor": "Die schwangere Bühnenbraut macht Fannys Eigenwilligkeit zum Erfolg.",
       "interest": "Die schwangere Bühnenbraut macht Fannys Eigenwilligkeit zum Erfolg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die schwangere Bühnenbraut macht Fannys Eigenwilligkeit zum Erfolg."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Ein Schlepper bringt Fanny zum Schiff.",
       "context": "Nach Nickys Abreise bricht Fanny Brice (Barbra Streisand) ihre Tournee ab und fährt nach New York zurück. Ein Schlepper ermöglicht die ungewöhnliche Annäherung an sein Schiff. Die Sequenz setzt ihren entschlossenen romantischen Aufbruch als Bewegung gegen Reisepläne und berufliche Verpflichtungen um.",
-      "anchor": "Fannys Entschluss braucht sogar einen Schlepper gegen den verpassten Aufbruch.",
       "interest": "Fannys Entschluss braucht sogar einen Schlepper gegen den verpassten Aufbruch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Fannys Entschluss braucht sogar einen Schlepper gegen den verpassten Aufbruch."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Nicky möchte keine verdeckte Finanzierung durch Fanny akzeptieren.",
       "context": "Fanny Brice (Barbra Streisand) organisiert Hilfe, ohne seine Abhängigkeit offen auszusprechen. Nicky Arnstein (Omar Sharif) durchschaut das Arrangement. Sein Stolz verhindert die Unterstützung; die folgende Entscheidung für ein betrügerisches Geschäft verschärft die Krise anstatt sie zu lösen.",
-      "anchor": "Versteckte Hilfe verletzt Nickys Selbstbild und treibt ihn zu neuem Risiko.",
       "interest": "Versteckte Hilfe verletzt Nickys Selbstbild und treibt ihn zu neuem Risiko.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Versteckte Hilfe verletzt Nickys Selbstbild und treibt ihn zu neuem Risiko."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Gegenwartshandlung zeigt Fannys Warten auf Nicky.",
       "context": "Fanny Brice (Barbra Streisand) wartet am Anfang im Theater. Der Film springt von dort zum Kennenlernen und Aufstieg zurück und kehrt zu Nickys Entlassung zurück. Die Rahmenhandlung gibt den fröhlichen Karriereepisoden von Beginn an den Schatten einer bereits beschädigten Ehe.",
-      "anchor": "Das Warten im Theater hält die Rückblende zusammen.",
       "interest": "Das Warten im Theater hält die Rückblende zusammen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Warten im Theater hält die Rückblende zusammen."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1968.",
       "context": "Funny Girl erschien 1968, vier Jahre nach dem Broadwaymusical von 1964. Barbra Streisand übernahm ihre Bühnenrolle für ihr Filmdebüt. Der Abstand verbindet die Theaterkarriere mit dem Wechsel zum Kino; der Film ist also eine Adaption ihrer bereits etablierten Darstellung und nicht deren Ausgangspunkt.",
-      "anchor": "Bühnenmusical 1964, Filmdebüt 1968: vier Jahre bis zu Streisands Wechsel mit derselben Rolle ins Kino.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Bühnenmusical 1964, Filmdebüt 1968: vier Jahre bis zu Streisands Wechsel mit derselben Rolle ins Kino.",
       "sources": [
         "handlung",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bühnenmusical 1964, Filmdebüt 1968: vier Jahre bis zu Streisands Wechsel mit derselben Rolle ins Kino."
     },
     {
       "code": "D",
@@ -206,7 +206,6 @@
       ],
       "short": "William Wyler führte Gesamtregie; Herbert Ross inszenierte die Musiknummern.",
       "context": "William Wyler führte die Filmregie. Die Musiknummern inszenierte Herbert Ross, der dafür einen eigenen Credit erhielt. Wyler verband die Bühnenadaption mit der Beziehungsgeschichte; Ross war hier Spezialregisseur der Nummern, kein gleichberechtigter Co-Regisseur des gesamten Films.",
-      "anchor": "William Wyler: Die Musiknummern inszenierte Herbert Ross, der dafür einen eigenen Credit erhielt.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "criterion",
@@ -214,7 +213,8 @@
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "William Wyler: Die Musiknummern inszenierte Herbert Ross, der dafür einen eigenen Credit erhielt."
     }
   ],
   "director_note": "William Wyler ist der Filmregisseur; Herbert Ross erhält den gesonderten Credit für die Inszenierung der musikalischen Nummern, keinen Gesamt-Co-Regiecredit."

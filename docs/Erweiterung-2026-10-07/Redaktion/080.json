@@ -38,12 +38,12 @@
       ],
       "short": "Soren bewundert die Helden aus den väterlichen Geschichten.",
       "context": "Soren (Originalstimme Jim Sturgess) liebt die Erzählungen seines Vaters über die Wächter. Sie geben ihm Vorbilder, bevor er ihnen begegnet. Der spätere Weg stellt deshalb auch die Frage, wie ein idealisiertes Heldentum mit der wirklichen Erfahrung von Ausbildung, Gefahr und Verantwortung zusammenpasst.",
-      "anchor": "Die Geschichten des Vaters geben Soren ein Vorbild.",
       "interest": "Zeigt die Herkunft seines Wunsches, selbst ein Wächter zu werden.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Geschichten des Vaters geben Soren ein Vorbild."
     },
     {
       "code": "L2",
@@ -62,13 +62,13 @@
       ],
       "short": "Auf dem Boden werden die Brüder von Eulen der Reinen verschleppt.",
       "context": "Soren (Originalstimme Jim Sturgess) und Kludd (Originalstimme Ryan Kwanten) fallen aus ihrem Heimatbaum und werden entführt. Der Verlust des geschützten Ortes macht sie abhängig von einer feindlichen Organisation. Die Brüder reagieren darauf unterschiedlich, sodass die gemeinsame Gefangenschaft ihre Beziehung nicht stabilisiert, sondern spaltet.",
-      "anchor": "Der Sturz aus dem Baum führt beide Brüder in feindliche Gefangenschaft.",
       "interest": "Verbindet den räumlichen Verlust der Sicherheit mit dem Brüderkonflikt.",
       "sources": [
         "kritik",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Sturz aus dem Baum führt beide Brüder in feindliche Gefangenschaft."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Die Reinen benutzen den Zustand zur Unterwerfung.",
       "context": "Soren (Originalstimme Jim Sturgess) und Gylfie (Originalstimme Emily Barclay) widerstehen dem Mondblinzeln. Die Behandlung soll junge Eulen gefügig machen. Ihre Flucht setzt deshalb geistigen Widerstand voraus: Erst wer die eigene Urteilskraft bewahrt, kann die feindliche Schule als Unterdrückung erkennen und sich dagegen entscheiden.",
-      "anchor": "Das Mondblinzeln soll Urteilskraft durch Gehorsam ersetzen.",
       "interest": "Erklärt die psychische Kontrolle hinter der scheinbaren Schule.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Mondblinzeln soll Urteilskraft durch Gehorsam ersetzen."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Ezylryb ist der Held, den Soren aus Geschichten kennt.",
       "context": "Ezylryb (Originalstimme Geoffrey Rush) erweist sich als Lyze von Kiel, Sorens (Originalstimme Jim Sturgess) großes Vorbild. Sein gewöhnlich wirkendes Auftreten korrigiert Sorens Erwartungen an einen Helden. Bewunderung muss sich nun auf Erfahrung und Fähigkeiten richten, statt allein auf Glanz und eindrucksvolle Erscheinung.",
-      "anchor": "Der unscheinbare Lehrer ist Sorens legendäres Vorbild.",
       "interest": "Verknüpft eine Identitätsenthüllung mit der Veränderung eines Heldenbildes.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der unscheinbare Lehrer ist Sorens legendäres Vorbild."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Das Studio beschreibt 3D als ursprünglichen Teil der Entwicklung.",
       "context": "Animal Logic entwickelte die räumliche Gestaltung von Beginn an stereoskopisch. Detaillierte Eulen, Landschaften und Licht sollten das Publikum besonders in den Flugsequenzen in die Welt hineinziehen. Die Technik unterstützt damit eine konkrete Erfahrung der Handlung: die Bewegung durch Räume aus der Perspektive fliegender Figuren.",
-      "anchor": "Die 3D-Gestaltung gehört zur ursprünglichen Planung der Flugwelt.",
       "interest": "Verbindet ein Produktionsverfahren mit seiner erzählerischen Wirkung.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die 3D-Gestaltung gehört zur ursprünglichen Planung der Flugwelt."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Das Feuer setzt die Abdeckungen frei und neutralisiert die Falle.",
       "context": "Soren (Originalstimme Jim Sturgess) bringt Feuer zu den Seilen der Magnetanlage. Die herunterfallenden Abdeckungen unterbrechen die Wirkung der Falle. Seine Rettung beruht auf einer gezielten Veränderung des Mechanismus. Mut genügt dabei nicht allein; er muss erkennen, welches Bauteil die Gegner verwundbar macht.",
-      "anchor": "Brennende Seile lassen die Abdeckungen die Magnetfalle neutralisieren.",
       "interest": "Erklärt den konkreten Mechanismus hinter der Rettung im Finale.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Brennende Seile lassen die Abdeckungen die Magnetfalle neutralisieren."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "Happy Feet erschien 2006; Die Legende der Wächter folgte 2010.",
       "context": "Animal Logic nennt 2006 als Veröffentlichungsjahr von Happy Feet und 2010 für Die Legende der Wächter. Zwischen den beiden Tierwelten liegen vier Jahre. Der zeitliche Vergleich verbindet das Filmjahr mit der Entwicklung eines Studios, das von animierten Pinguinen zu einer komplexen fliegenden Eulenwelt wechselte.",
-      "anchor": "Animal Logic: 2006 Pinguine, vier Jahre später 2010 Eulen.",
       "interest": "Verankert das Erscheinungsjahr in einer belegten Studioentwicklung.",
       "sources": [
         "studio",
         "vorgaenger"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Animal Logic: 2006 Pinguine, vier Jahre später 2010 Eulen."
     },
     {
       "code": "D",
@@ -208,12 +208,12 @@
       ],
       "short": "Zack Snyder wird als Filmregisseur geführt.",
       "context": "Zack Snyder wurde laut Animal Logic bereits 2007 durch die Konzeptzeichnungen für das Projekt begeistert. Er führte Filmregie, während Eric Leighton die Animation leitete. Diese getrennten Funktionen zeigen, wie eine Gesamtinszenierung mit der spezialisierten Arbeit am Bewegungsverhalten der gezeichneten und berechneten Figuren zusammenwirkt.",
-      "anchor": "Snyder führt Filmregie; Leighton leitet die Animation.",
       "interest": "Ordnet zwei unterschiedliche Regiefunktionen im Produktionsbericht ein.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Snyder führt Filmregie; Leighton leitet die Animation."
     }
   ],
   "director_note": "Animal Logic nennt Zack Snyder als Director und Eric Leighton als Animation Director. Die technische und künstlerische Animationsleitung wird nicht als zusätzliche Film-Co-Regie erfasst."

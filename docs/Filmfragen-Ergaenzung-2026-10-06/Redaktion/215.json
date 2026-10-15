@@ -41,12 +41,12 @@
       ],
       "short": "Anna (Naomi Watts) findet das russischsprachige Tagebuch der bei der Geburt verstorbenen Tatiana.",
       "context": "Anna (Naomi Watts) findet das russischsprachige Tagebuch der bei der Geburt verstorbenen Tatiana. Eine Restaurantvisitenkarte darin führt sie zu Semyon (Armin Mueller-Stahl) und einem gefährlichen Familiengeheimnis.",
-      "anchor": "Ein Tagebuch macht die Herkunft des Babys zur gefährlichen Suche.",
       "interest": "Ein Tagebuch macht die Herkunft des Babys zur gefährlichen Suche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein Tagebuch macht die Herkunft des Babys zur gefährlichen Suche."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Nikolai (Viggo Mortensen) zeigt bei seiner Aufnahme in die Organisation seine Tätowierungen.",
       "context": "Nikolai (Viggo Mortensen) zeigt bei seiner Aufnahme in die Organisation seine Tätowierungen. Die Zeichen vermitteln Haftgeschichte und Rang; neue Sterne markieren den Aufstieg, der seine verdeckte Mission ermöglicht.",
-      "anchor": "Tattoos bilden eine lesbare Biografie und Rangordnung.",
       "interest": "Tattoos bilden eine lesbare Biografie und Rangordnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tattoos bilden eine lesbare Biografie und Rangordnung."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Semyon (Armin Mueller-Stahl) lässt die rachsüchtigen Brüder eines Ermordeten Nikolai (Viggo Mortensen) für Kirill halten.",
       "context": "Semyon (Armin Mueller-Stahl) lässt die rachsüchtigen Brüder eines Ermordeten Nikolai (Viggo Mortensen) für Kirill halten. Der Aufstieg in der Organisation wird zugleich zur Gelegenheit, ihn zu opfern.",
-      "anchor": "Der neue Rang schützt Nikolai nicht vor der eigenen Organisation.",
       "interest": "Der neue Rang schützt Nikolai nicht vor der eigenen Organisation.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der neue Rang schützt Nikolai nicht vor der eigenen Organisation."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Nikolai (Viggo Mortensen) schlägt einen Vaterschaftstest vor.",
       "context": "Nikolai (Viggo Mortensen) schlägt einen Vaterschaftstest vor. Die Abstammung von Tatianas Baby kann Semyons (Armin Mueller-Stahl) Vergewaltigung der Minderjährigen belegen und die Machtposition des Bosses brechen.",
-      "anchor": "Die Vaterschaft macht das Kind zum Beweis gegen den Boss.",
       "interest": "Die Vaterschaft macht das Kind zum Beweis gegen den Boss.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Vaterschaft macht das Kind zum Beweis gegen den Boss."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Anna (Naomi Watts) fürchtet, Nikolai (Viggo Mortensen) habe ihren Onkel Stepan getötet.",
       "context": "Anna (Naomi Watts) fürchtet, Nikolai (Viggo Mortensen) habe ihren Onkel Stepan getötet. Tatsächlich hält er ihn zu dessen Schutz in einem Hotel in Edinburgh verborgen.",
-      "anchor": "Eine vermeintliche Mordtat erweist sich als Schutzmaßnahme.",
       "interest": "Eine vermeintliche Mordtat erweist sich als Schutzmaßnahme.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine vermeintliche Mordtat erweist sich als Schutzmaßnahme."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Anna (Naomi Watts) adoptiert Tatianas Tochter.",
       "context": "Anna (Naomi Watts) adoptiert Tatianas Tochter. Nikolai (Viggo Mortensen) übernimmt Semyons Machtposition; die Schlussbilder trennen die gerettete familiäre Zukunft von seiner fortgesetzten gefährlichen Rolle.",
-      "anchor": "Die Rettung des Kindes führt nicht zu einer gemeinsamen Zukunft.",
       "interest": "Die Rettung des Kindes führt nicht zu einer gemeinsamen Zukunft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rettung des Kindes führt nicht zu einer gemeinsamen Zukunft."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "2007 erschien der Film.",
       "context": "2007 erschien der Film. Er folgte zwei Jahre nach A History of Violence von 2005; Cronenberg und Mortensen erkunden erneut, wie ein Körper eine versteckte Vergangenheit verrät.",
-      "anchor": "A History of Violence 2005, Tödliche Versprechen 2007: Zwei Jahre verbinden das Duo und seine Körper als Identitätsspuren.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "A History of Violence 2005, Tödliche Versprechen 2007: Zwei Jahre verbinden das Duo und seine Körper als Identitätsspuren."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch.",
       "context": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch. Tattoos, Gewalt und die Fürsorge für ein Kind verbinden die Londoner Unterwelt mit Fragen nach Herkunft und Zugehörigkeit.",
-      "anchor": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch.",
       "interest": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "David Cronenberg führte Regie, Steven Knight schrieb das Drehbuch."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Ninotschka soll beschlagnahmte Juwelen verkaufen.",
       "context": "Die Abgesandte soll drei bereits angereiste Kollegen wieder auf einen sachlichen Kurs bringen. In Paris begegnet sie dem Grafen Léon (Melvyn Douglas), der mit der früheren Besitzerin der Juwelen verbunden ist. Ihr Auftrag führt so mitten in einen Konflikt zwischen politischer Pflicht, Eigentumsansprüchen und Anziehung.",
-      "anchor": "Ein staatlicher Juwelenverkauf bringt Ninotschka nach Paris.",
       "interest": "Die Ausgangslage öffnet den Zugang zu Garbos berühmter Komödienrolle.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-F240-20261006-171-L1",
       "variant_of": "F240-20261006-171-L1",
-      "knowledge_note": "Gleiches Handlungsziel wie die bestehende Filmfrage zum Pariser Juwelenauftrag."
+      "knowledge_note": "Gleiches Handlungsziel wie die bestehende Filmfrage zum Pariser Juwelenauftrag.",
+      "objective": "Ein staatlicher Juwelenverkauf bringt Ninotschka nach Paris."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 0,
       "short": "Grusinskaya ist eine berühmte Balletttänzerin.",
       "context": "Die Künstlerin wohnt während ihrer Auftritte im Berliner Grand Hotel und steckt in einer persönlichen Krise. Der Baron (John Barrymore) dringt zunächst mit Diebstahlsabsichten in ihr Zimmer ein. Aus der Begegnung entsteht eine Nähe, an die Grusinskaya neue Hoffnung knüpft.",
-      "anchor": "Garbos Grusinskaya bringt die Welt des Balletts ins Grand Hotel.",
       "interest": "Der Beruf erklärt die öffentliche Berühmtheit und die private Erschöpfung der Figur.",
       "feedback": [
         "",
@@ -64,7 +63,8 @@
       ],
       "knowledge_id": "K-E20261007-F-253-L2",
       "variant_of": "E20261007-F-253-L2",
-      "knowledge_note": "Bestehendes Ziel Grusinskayas Beruf, nun mit Garbo als Personenanker."
+      "knowledge_note": "Bestehendes Ziel Grusinskayas Beruf, nun mit Garbo als Personenanker.",
+      "objective": "Garbos Grusinskaya bringt die Welt des Balletts ins Grand Hotel."
     },
     {
       "code": "M1",
@@ -78,7 +78,6 @@
       "correct": 3,
       "short": "Marguerite Gautier lebt als Kurtisane in Paris.",
       "context": "Armand (Robert Taylor) bietet ihr die Aussicht auf eine Liebe außerhalb der finanziellen Abhängigkeit von wohlhabenden Männern. Sein Vater (Lionel Barrymore) verlangt jedoch den Verzicht, weil die Verbindung den Ruf der Familie gefährde. Marguerites Krankheit verschärft den Konflikt zwischen eigenem Glück und gesellschaftlicher Rücksicht.",
-      "anchor": "Marguerites Liebe stößt auf die Grenzen ihrer Stellung als Kurtisane.",
       "interest": "Die Frage erschließt den sozialen Konflikt hinter Garbos tragischer Liebesrolle.",
       "feedback": [
         "",
@@ -91,7 +90,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/8433-CAMILLE"
-      ]
+      ],
+      "objective": "Marguerites Liebe stößt auf die Grenzen ihrer Stellung als Kurtisane."
     },
     {
       "code": "M2",
@@ -105,7 +105,6 @@
       "correct": 1,
       "short": "Christine reist in Männerkleidung und wird zunächst für einen Herrn gehalten.",
       "context": "Antonio (John Gilbert) begegnet ihr außerhalb des Hofes und kennt ihre königliche Stellung nicht. Die private Begegnung ermöglicht eine Liebesgeschichte, bevor politische Erwartungen wieder sichtbar werden. Der Film erzählt dabei eine romantische Fiktion um die schwedische Herrscherin, keine genaue historische Biografie.",
-      "anchor": "Im Gasthaus begegnet Antonio zuerst einem vermeintlichen Herrn.",
       "interest": "Der Kostümwechsel erklärt, wie die Filmfigur zeitweise ihren königlichen Pflichten entkommt.",
       "feedback": [
         "",
@@ -118,7 +117,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/7290-QUEEN-CHRISTINA"
-      ]
+      ],
+      "objective": "Im Gasthaus begegnet Antonio zuerst einem vermeintlichen Herrn."
     },
     {
       "code": "S1",
@@ -132,7 +132,6 @@
       "correct": 0,
       "short": "„Anna Christie“ war Garbos erster Tonfilm.",
       "context": "Nach ihrer Stummfilmkarriere wurde der Einsatz ihrer Stimme zu einem eigenen Werbeereignis. Als Anna sucht sie den Vater wieder auf, den sie lange nicht gesehen hat. Der Film verschob die Aufmerksamkeit von Garbos sichtbarer Präsenz zusätzlich auf Aussprache, Klang und gesprochenen Dialog.",
-      "anchor": "„Garbo talks“ gehörte zum Übergang mit „Anna Christie“.",
       "interest": "Der Schritt zum Tonfilm war ein entscheidender Wendepunkt ihrer Karriere.",
       "feedback": [
         "",
@@ -145,7 +144,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/648-ANNA-CHRISTIE"
-      ]
+      ],
+      "objective": "„Garbo talks“ gehörte zum Übergang mit „Anna Christie“."
     },
     {
       "code": "S2",
@@ -159,7 +159,6 @@
       "correct": 3,
       "short": "Karin gibt sich zusätzlich als ihre erfundene Zwillingsschwester Katherine aus.",
       "context": "Die Skilehrerin Karin vermutet, dass ihr Mann Larry (Melvyn Douglas) sich wieder seiner früheren Freundin zuwendet. Sie begegnet ihm deshalb als angeblich ungebundene Schwester Katherine. Der Mann entdeckt die Täuschung, spielt das Spiel aber weiter. Die Komödie beruht somit auf gespielter Identität, nicht auf echten Zwillingen.",
-      "anchor": "Katherine ist Karins erfundene Schwester.",
       "interest": "Die Unterscheidung klärt die Konstruktion von Garbos Doppelauftritt.",
       "feedback": [
         "",
@@ -172,7 +171,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/27065-TWO-FACED-WOMAN"
-      ]
+      ],
+      "objective": "Katherine ist Karins erfundene Schwester."
     },
     {
       "code": "E1",
@@ -186,7 +186,6 @@
       "correct": 2,
       "short": "Mauritz Stiller förderte Garbos frühe Filmkarriere.",
       "context": "Stiller besetzte sie in „Gösta Berling“ als Elisabeth, die sich in den ehemaligen Geistlichen Gösta (Lars Hanson) verliebt. Der Film machte ihr Talent international sichtbar. Diese frühe Zusammenarbeit gehört zu ihrer schwedischen Laufbahn, bevor Hollywood ihr Gesicht zu einem weltweiten Starbild formte.",
-      "anchor": "Vor Hollywood stand Stillers Förderung in Schweden.",
       "interest": "Die Mentorenbeziehung erklärt Garbos künstlerischen Ausgangspunkt jenseits ihres MGM-Images.",
       "feedback": [
         "",
@@ -199,7 +198,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-great-films-1924"
-      ]
+      ],
+      "objective": "Vor Hollywood stand Stillers Förderung in Schweden."
     },
     {
       "code": "E2",
@@ -213,7 +213,6 @@
       "correct": 1,
       "short": "Nach diesem Film kehrte Garbo nicht mehr in einem neuen Spielfilm zurück.",
       "context": "Der Rückzug erfolgte schon 1941, obwohl Garbo erst Mitte dreißig war. Das AFI verzeichnet spätere Pläne für eine Rückkehr, die nicht zu einem weiteren Film führten. Ihr öffentliches Bild blieb dadurch dauerhaft an eine vergleichsweise kurze, abgeschlossene Leinwandkarriere gebunden.",
-      "anchor": "Garbos Filmkarriere endete mit der Komödie von 1941.",
       "interest": "Der frühe Rückzug erklärt die besondere Geschlossenheit ihres Starbilds.",
       "feedback": [
         "",
@@ -226,7 +225,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/27065-TWO-FACED-WOMAN"
-      ]
+      ],
+      "objective": "Garbos Filmkarriere endete mit der Komödie von 1941."
     }
   ]
 }

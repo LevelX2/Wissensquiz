@@ -1,6 +1,8 @@
 import { readFileSync } from "node:fs";
 import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
+import { questionSchema } from "../src/questionSchema";
+import { preparePresentation } from "../src/questionPresentation";
 import {
   addFilmFacts,
   prepareFactQuestion,
@@ -10,6 +12,34 @@ import {
   decodeQuestionCatalog,
   encodeQuestionCatalog,
 } from "../src/catalogCodec";
+
+it("ignoriert die entfernte Merksatzspalte vor Metadaten und Versionshash und reserviert Codec-Slot 8", () => {
+  const header =
+    "question_id,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short";
+  const row =
+    "anchor-removal,Welche Antwort?,Erste,Zweite,Dritte,Vierte,A,Die erste Antwort stimmt.";
+  const q = importCsv(`${header}\n${row}`).questions[0];
+  const obsolete = importCsv(`${header},memory_anchor\n${row},Alter Merksatz`)
+    .questions[0];
+  expect(obsolete).toEqual(q);
+  expect(obsolete).not.toHaveProperty("anchor");
+  expect(obsolete.metadata).not.toHaveProperty("memory_anchor");
+  expect(preparePresentation(q)).not.toHaveProperty("anchor");
+  expect(
+    questionSchema.parse({
+      ...q,
+      anchor: "Nicht mehr Teil einer Frage",
+      metadata: {
+        ...q.metadata,
+        memory_anchor: "Nicht mehr Teil der Metadaten",
+      },
+    }),
+  ).toEqual(q);
+  const packed = JSON.parse(encodeQuestionCatalog([q]));
+  expect(packed[0].metadata.answer_a).toBe(9);
+  expect(packed[0].metadata.answer_d).toBe(15);
+  expect(decodeQuestionCatalog(JSON.stringify(packed))).toEqual([q]);
+});
 
 it("entfernt exakte Metadaten-Dopplungen verlustfrei und erhält Feldreihenfolge, Originalschwierigkeit und eigene Importspalten", () => {
   const questions = importCsv(

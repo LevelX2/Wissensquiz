@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Endora ist Samanthas Mutter.",
       "context": "Samantha (Elizabeth Montgomery) möchte mit ihrem sterblichen Mann Darrin ein weitgehend gewöhnliches Vorstadtleben führen. Endora kann diese Entscheidung nicht nachvollziehen. Ihre Eingriffe stellen Darrin immer wieder vor Schwierigkeiten und machen aus einem privaten Ehekonflikt eine übernatürliche Familienkomödie.",
-      "anchor": "Endora ist die zaubernde Schwiegermutter Darrins.",
       "interest": "Die Familienkonstellation einer prägenden Fernsehkomödie.",
       "feedback": [
         "",
@@ -29,7 +28,8 @@
       "films": [],
       "extraSources": [
         "https://www.sonypictures.com/tv/bewitched"
-      ]
+      ],
+      "objective": "Endora ist die zaubernde Schwiegermutter Darrins."
     },
     {
       "code": "L2",
@@ -43,7 +43,6 @@
       "correct": 0,
       "short": "Moorehead spielt Kanes Mutter Mary.",
       "context": "Mary Kane verfügt unerwartet über ein großes Vermögen aus Minenanteilen. Während ihr Sohn draußen im Schnee spielt, überträgt sie dem Finanzier Thatcher (George Coulouris) die Vormundschaft. Gegen den Widerstand des Jungen entscheidet sie damit über seine Trennung vom Elternhaus und seinen weiteren Lebensweg.",
-      "anchor": "Mary Kane gibt den Sohn in Thatchers Obhut.",
       "interest": "Eine kurze Rolle prägt den Ausgangspunkt der gesamten Lebensgeschichte.",
       "feedback": [
         "",
@@ -56,7 +55,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/27624"
-      ]
+      ],
+      "objective": "Mary Kane gibt den Sohn in Thatchers Obhut."
     },
     {
       "code": "M1",
@@ -70,7 +70,6 @@
       "correct": 3,
       "short": "Pollyanna hängt Glasprismen auf und lässt Regenbögen im Zimmer entstehen.",
       "context": "Mrs. Snow hält sich für schwer krank und beschäftigt sich sogar mit der Ausstattung ihres Sarges. Pollyanna (Hayley Mills) bringt Farbe in ihr abgeschottetes Zimmer. Die Frau beginnt später wieder am gemeinschaftlichen Leben teilzunehmen und hilft schließlich selbst, dem verletzten Mädchen Mut zu machen.",
-      "anchor": "Die Prismen bringen Farbe in Mrs. Snows Rückzug.",
       "interest": "Eine sichtbare kleine Handlung macht die Veränderung einer Figur greifbar.",
       "feedback": [
         "",
@@ -83,7 +82,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/53251-POLLYANNA"
-      ]
+      ],
+      "objective": "Die Prismen bringen Farbe in Mrs. Snows Rückzug."
     },
     {
       "code": "M2",
@@ -97,7 +97,6 @@
       "correct": 3,
       "short": "Fanny liebt Eugene Morgan, dessen Gefühle Isabel gelten.",
       "context": "Eugene (Joseph Cotten) kehrt als verwitweter Erfinder in die Stadt zurück. Fanny hofft auf seine Zuneigung, während er wieder Isabel (Dolores Costello) näherkommt. Ihre Enttäuschung verschärft die Spannungen innerhalb der Familie; Mooreheads Spiel zeigt hinter der aufdringlichen Tante eine einsame, abhängige Frau.",
-      "anchor": "Fanny liebt Eugene, Eugene liebt Isabel.",
       "interest": "Enttäuschte Liebe gehört zum Niedergang der Familie.",
       "feedback": [
         "",
@@ -111,7 +110,8 @@
       "extraSources": [
         "https://catalog.afi.com/Film/27328-THE-MAGNIFICENT-AMBERSONS",
         "https://www.criterion.com/current/posts/6061-what-is-and-what-might-have-been"
-      ]
+      ],
+      "objective": "Fanny liebt Eugene, Eugene liebt Isabel."
     },
     {
       "code": "S1",
@@ -125,7 +125,6 @@
       "correct": 2,
       "short": "Velma erkennt, dass Miriam und Drew Charlotte gezielt in den Wahnsinn treiben wollen.",
       "context": "Charlotte (Bette Davis) wird von scheinbaren Erscheinungen ihres ermordeten Liebhabers gequält. Ihre Cousine Miriam (Olivia de Havilland) und Arzt Drew (Joseph Cotten) nutzen ihre Schuldängste aus. Als Velma versucht, sie aus dem Haus in Sicherheit zu bringen, tötet Miriam die Haushälterin.",
-      "anchor": "Velma erkennt die inszenierte Bedrohung und will Charlotte schützen.",
       "interest": "Eine Nebenfigur versteht die Manipulation früher als ihre Arbeitgeberin.",
       "feedback": [
         "",
@@ -138,7 +137,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/22295-HUSHHUSH-SWEETCHARLOTTE"
-      ]
+      ],
+      "objective": "Velma erkennt die inszenierte Bedrohung und will Charlotte schützen."
     },
     {
       "code": "S2",
@@ -152,7 +152,6 @@
       "correct": 0,
       "short": "Mrs. Stevenson selbst ist das vorgesehene Mordopfer.",
       "context": "Durch eine falsch geschaltete Telefonverbindung hört die bettlägerige Frau von einem geplanten Mord. Ihre Versuche, am Telefon Hilfe zu finden, steigern die Panik, bis sie ihre eigene Gefährdung erkennt. Lucille Fletchers Stück nutzt Gesprächspausen, Geräusche und Mooreheads Stimme, um die Bedrohung ohne sichtbare Bilder aufzubauen.",
-      "anchor": "Das belauschte Mordkomplott richtet sich gegen die Zuhörerin selbst.",
       "interest": "Radio erzeugt Spannung durch eine begrenzte akustische Perspektive.",
       "feedback": [
         "",
@@ -163,7 +162,8 @@
       "films": [],
       "extraSources": [
         "https://memory.loc.gov/static/programs/national-recording-preservation-board/documents/SorryWrongNumber.pdf"
-      ]
+      ],
+      "objective": "Das belauschte Mordkomplott richtet sich gegen die Zuhörerin selbst."
     },
     {
       "code": "E1",
@@ -177,7 +177,6 @@
       "correct": 2,
       "short": "Sie gehörte zu Orson Welles’ Mercury Theatre.",
       "context": "Die Theater- und Radioarbeit des Ensembles bildete eine Grundlage für Welles’ Kinodebüt. Neben Moorehead kamen etwa Joseph Cotten, Ray Collins und Everett Sloane aus diesem Umfeld. Der Filmabspann stellte die dem Kinopublikum noch wenig vertrauten Darsteller ausdrücklich als Mitglieder des Mercury Theatre vor.",
-      "anchor": "Das Mercury-Ensemble wechselte gemeinsam zum Film.",
       "interest": "Ein Filmdebüt wächst aus zuvor eingespielter Theater- und Radioarbeit.",
       "feedback": [
         "",
@@ -190,7 +189,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/27624"
-      ]
+      ],
+      "objective": "Das Mercury-Ensemble wechselte gemeinsam zum Film."
     },
     {
       "code": "E2",
@@ -204,7 +204,6 @@
       "correct": 1,
       "short": "Den Emmy gewann sie für „The Wild, Wild West“.",
       "context": "Die Television Academy verzeichnet für Moorehead 1967 den Sieg als Nebendarstellerin in einem Drama. Ihre zahlreichen Nominierungen als Endora in „Bewitched“ führten dagegen zu keinem Sieg. Der Preis gehört damit zu einer anderen Fernseharbeit als ihrer bekanntesten Serienrolle.",
-      "anchor": "Mooreheads Emmy gehört zum Wilden Westen, nicht zu Endora.",
       "interest": "Die konkrete ausgezeichnete Arbeit von der bekanntesten Rolle unterscheiden.",
       "feedback": [
         "",
@@ -215,7 +214,8 @@
       "films": [],
       "extraSources": [
         "https://www.televisionacademy.com/bios/agnes-moorehead"
-      ]
+      ],
+      "objective": "Mooreheads Emmy gehört zum Wilden Westen, nicht zu Endora."
     }
   ]
 }

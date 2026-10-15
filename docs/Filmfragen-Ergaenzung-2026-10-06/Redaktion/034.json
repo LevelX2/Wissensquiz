@@ -36,12 +36,12 @@
       ],
       "short": "Doyle (Gene Hackman) und Russo (Roy Scheider) verfolgen eine große Heroinlieferung.",
       "context": "Doyle (Gene Hackman) und Russo (Roy Scheider) verfolgen eine große Heroinlieferung. Der französische Organisator Charnier (Fernando Rey) verbindet dabei den Transport mit den New Yorker Käufern.",
-      "anchor": "Die Polizeiarbeit soll eine internationale Heroinlieferung unterbrechen.",
       "interest": "Die Polizeiarbeit soll eine internationale Heroinlieferung unterbrechen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Polizeiarbeit soll eine internationale Heroinlieferung unterbrechen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Doyle (Gene Hackman) nimmt ein fremdes Auto und fährt unter der Hochbahn.",
       "context": "Doyle (Gene Hackman) nimmt ein fremdes Auto und fährt unter der Hochbahn. Nicoli (Marcel Bozzuffi) zwingt oben den Zug zur Weiterfahrt; die Verfolgung verbindet zwei Verkehrswege, die nur punktuell zusammenkommen.",
-      "anchor": "Die Verfolgung verläuft gleichzeitig auf Straße und Hochbahn.",
       "interest": "Die Verfolgung verläuft gleichzeitig auf Straße und Hochbahn.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Verfolgung verläuft gleichzeitig auf Straße und Hochbahn."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Russo (Roy Scheider) bemerkt das zusätzliche Gewicht des Wagens.",
       "context": "Russo (Roy Scheider) bemerkt das zusätzliche Gewicht des Wagens. Die Mechaniker finden die Pakete schließlich in den seitlichen Hohlräumen; eine messbare Abweichung hält die Suche gegen den ersten Misserfolg am Laufen.",
-      "anchor": "Das Mehrgewicht widerspricht dem scheinbar leeren Auto.",
       "interest": "Das Mehrgewicht widerspricht dem scheinbar leeren Auto.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Mehrgewicht widerspricht dem scheinbar leeren Auto."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Die Polizei setzt den Lincoln wieder zusammen.",
       "context": "Die Polizei setzt den Lincoln wieder zusammen. Charnier (Fernando Rey) kann dadurch scheinbar ungestört zur Übergabe fahren; Doyle (Gene Hackman) und Russo (Roy Scheider) wollen über das Fahrzeug auch die Käufer erreichen.",
-      "anchor": "Die Rückgabe soll vom Beweismittel zum gesamten Geschäft führen.",
       "interest": "Die Rückgabe soll vom Beweismittel zum gesamten Geschäft führen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Rückgabe soll vom Beweismittel zum gesamten Geschäft führen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Doyle (Gene Hackman) schießt auf eine undeutliche Gestalt und tötet Mulderig (Bill Hickman).",
       "context": "Doyle (Gene Hackman) schießt auf eine undeutliche Gestalt und tötet Mulderig (Bill Hickman). Russos (Roy Scheider) Warnung kommt zu spät; der Zugriff zeigt damit die tödliche Seite von Doyles Besessenheit.",
-      "anchor": "Doyles vorschneller Schuss trifft einen eigenen Ermittler.",
       "interest": "Doyles vorschneller Schuss trifft einen eigenen Ermittler.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Doyles vorschneller Schuss trifft einen eigenen Ermittler."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Tafeln erklären, dass Charnier (Fernando Rey) entkommt.",
       "context": "Die Tafeln erklären, dass Charnier (Fernando Rey) entkommt. Doyle (Gene Hackman) und Russo (Roy Scheider) werden zudem versetzt; der Film ersetzt den erwarteten vollständigen Sieg durch ungleiche und teilweise unbefriedigende Folgen.",
-      "anchor": "Die große Fahndung endet ohne Zugriff auf ihren wichtigsten Organisator.",
       "interest": "Die große Fahndung endet ohne Zugriff auf ihren wichtigsten Organisator.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die große Fahndung endet ohne Zugriff auf ihren wichtigsten Organisator."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Der Film wurde 1971 erstmals veröffentlicht.",
       "context": "1971 erschien die Verfilmung von Robin Moores Sachbuch aus dem Jahr 1969, zwei Jahre nach der Vorlage. Moore schilderte eine reale New Yorker Heroinermittlung; der Film gestaltet daraus den nicht vollständig erfolgreichen Zugriff Doyles (Gene Hackman).",
-      "anchor": "Moores Sachbuch von 1969 wurde zwei Jahre später, 1971, als Polizeithriller adaptiert.",
       "interest": "Moores Sachbuch von 1969 wurde zwei Jahre später, 1971, als Polizeithriller adaptiert.",
       "sources": [
         "katalog",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Moores Sachbuch von 1969 wurde zwei Jahre später, 1971, als Polizeithriller adaptiert."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Regie: William Friedkin.",
       "context": "Friedkin orientierte die bewegliche Kamera an dokumentarischer Beobachtung. Sein früheres Dokumentarfilmschaffen und der Einfluss von Costa-Gavras’ Z erklären den Eindruck, dass die Kamera auf überraschende Ereignisse in den Straßen reagieren muss.",
-      "anchor": "Friedkin lässt die bewegliche Kamera wie eine Beobachterin überraschender Straßenereignisse wirken.",
       "interest": "Friedkin lässt die bewegliche Kamera wie eine Beobachterin überraschender Straßenereignisse wirken.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Friedkin lässt die bewegliche Kamera wie eine Beobachterin überraschender Straßenereignisse wirken."
     }
   ]
 }

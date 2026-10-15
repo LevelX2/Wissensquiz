@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Cox spielt Monica Geller.",
       "context": "Monicas Wohnung wird zu einem zentralen Treffpunkt der Gruppe. Ihr Wunsch nach Ordnung und Kontrolle steht dabei immer wieder im Kontrast zu den unübersichtlichen Beziehungen ihrer Freunde. Die Figur gehört zum gleichrangig angelegten Ensemble der Sitcom.",
-      "anchor": "Courteney Cox ist Monica.",
       "interest": "Eine bekannte Darstellerin wird ihrer langjährigen Serienfigur zugeordnet.",
       "feedback": [
         "",
@@ -30,7 +29,8 @@
       "extraSources": [
         "https://www.youtube.com/watch?v=H3fUn4le238",
         "https://www.vanityfair.com/culture/2012/05/friends-oral-history-top-of-the-rock"
-      ]
+      ],
+      "objective": "Courteney Cox ist Monica."
     },
     {
       "code": "L2",
@@ -44,7 +44,6 @@
       "correct": 1,
       "short": "Cox spielt die Reporterin Gale Weathers.",
       "context": "Gale berichtet über die Morde und verfolgt dabei auch eigene Karriereziele. Ihre Arbeit mit Geschichten über wahre Verbrechen gehört zum Medienblick der Filmreihe. Cox wollte mit dieser schrofferen Figur bewusst eine andere Seite als in ihrer Sitcom zeigen.",
-      "anchor": "Cox ist Scream-Reporterin Gale Weathers.",
       "interest": "Die Horrorrolle wird in ihrer beruflichen Funktion eingeordnet.",
       "feedback": [
         "",
@@ -57,7 +56,8 @@
       ],
       "extraSources": [
         "https://www.etonline.com/features/205294_scream_20_years_later_neve_campbell_and_cast_share_untold_stories"
-      ]
+      ],
+      "objective": "Cox ist Scream-Reporterin Gale Weathers."
     },
     {
       "code": "M1",
@@ -71,7 +71,6 @@
       "correct": 0,
       "short": "Lucy Spiller leitet ein Boulevardmagazin.",
       "context": "Sie beschafft exklusive Geschichten über Prominente und greift dafür zu Druck und Manipulation. Die Serie macht damit jene Medienwelt zum Gegenstand, die Stars sonst von außen beobachtet. Cox war auch als ausführende Produzentin beteiligt.",
-      "anchor": "Lucy Spiller organisiert Prominentengeschichten als Geschäft.",
       "interest": "Die Rolle führt zum Thema der Serie und Cox' zusätzlicher Verantwortung.",
       "feedback": [
         "",
@@ -82,7 +81,8 @@
       "films": [],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Dirt_(TV_series)"
-      ]
+      ],
+      "objective": "Lucy Spiller organisiert Prominentengeschichten als Geschäft."
     },
     {
       "code": "M2",
@@ -96,7 +96,6 @@
       "correct": 3,
       "short": "Jules arbeitet als Immobilienmaklerin.",
       "context": "Nach ihrer Scheidung organisiert sie ihr Leben mit Sohn, Exmann, Nachbarn und Freunden neu. Das berufliche Umfeld und die Häuser der Nachbarschaft liefern dafür wiederkehrende Begegnungsorte. Die Serie entwickelt sich zunehmend zu einer Ensemblekomödie über diese Wahlfamilie.",
-      "anchor": "Jules' Maklerarbeit gehört zu ihrem neuen Alltag nach der Scheidung.",
       "interest": "Ein Beruf verankert die Hauptfigur in der Serienwelt.",
       "feedback": [
         "",
@@ -107,7 +106,8 @@
       "films": [],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Cougar_Town"
-      ]
+      ],
+      "objective": "Jules' Maklerarbeit gehört zu ihrem neuen Alltag nach der Scheidung."
     },
     {
       "code": "S1",
@@ -121,7 +121,6 @@
       "correct": 1,
       "short": "Sie ist im Video zu Dancing in the Dark zu sehen.",
       "context": "Der Auftritt wirkt wie eine spontane Einladung an eine Zuschauerin, gehört aber zur Inszenierung des Videos. Cox war als Darstellerin ausgewählt worden. Die Szene machte sie schon vor ihren großen Serienrollen einem breiten Musikpublikum sichtbar.",
-      "anchor": "Dancing in the Dark zeigt Cox als scheinbar zufällig ausgewählte Zuschauerin.",
       "interest": "Ein früher Auftritt verbindet ihre Karriere mit der Musikvideokultur.",
       "feedback": [
         "",
@@ -132,7 +131,8 @@
       "films": [],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Dancing_in_the_Dark_(Bruce_Springsteen_song)"
-      ]
+      ],
+      "objective": "Dancing in the Dark zeigt Cox als scheinbar zufällig ausgewählte Zuschauerin."
     },
     {
       "code": "S2",
@@ -146,7 +146,6 @@
       "correct": 2,
       "short": "Ursprünglich war Rachel für sie vorgesehen.",
       "context": "Marta Kauffman berichtete, dass Cox selbst lieber Monica spielen wollte. Die schließlich gefundene Besetzung war also nicht nur das Ergebnis eines Vorsprechens, sondern auch einer eigenen Einschätzung der Darstellerin. Jennifer Aniston übernahm Rachel.",
-      "anchor": "Cox entschied sich für Monica statt für Rachel.",
       "interest": "Die Besetzungsgeschichte zeigt eine konkrete Entscheidung über das eigene Rollenprofil.",
       "feedback": [
         "",
@@ -157,7 +156,8 @@
       "films": [],
       "extraSources": [
         "https://www.vanityfair.com/culture/2012/05/friends-oral-history-top-of-the-rock"
-      ]
+      ],
+      "objective": "Cox entschied sich für Monica statt für Rachel."
     },
     {
       "code": "E1",
@@ -171,7 +171,6 @@
       "correct": 0,
       "short": "Craven musste ihr die deutlich härtere Figur erst zutrauen.",
       "context": "Cox schrieb ihm ausdrücklich, dass sie sehr wohl eine unangenehme Person spielen könne. Ihr vertrautes sympathisches Fernsehbild war hier zunächst ein Hindernis. Der Auftritt als Gale wurde gerade durch den Abstand zu diesem Bild zu einer Erweiterung ihres Spektrums.",
-      "anchor": "Cox warb für eine Rolle jenseits ihres sympathischen Serienbilds.",
       "interest": "Die Castingentscheidung erklärt, wie ein bekanntes Image Rollenangebote begrenzen kann.",
       "feedback": [
         "",
@@ -184,7 +183,8 @@
       ],
       "extraSources": [
         "https://www.etonline.com/features/205294_scream_20_years_later_neve_campbell_and_cast_share_untold_stories"
-      ]
+      ],
+      "objective": "Cox warb für eine Rolle jenseits ihres sympathischen Serienbilds."
     },
     {
       "code": "E2",
@@ -198,7 +198,6 @@
       "correct": 2,
       "short": "Ihr erster Kinolangfilm als Regisseurin war Just Before I Go.",
       "context": "Seann William Scott spielt einen Mann, der vor seinem geplanten Suizid in seine Heimat zurückkehrt. Die Begegnungen zeigen ihm, dass auch andere mit schweren Problemen leben. Cox hatte zuvor bereits kürzere Formate und Fernsehproduktionen inszeniert; der Film wurde 2014 in Tribeca uraufgeführt.",
-      "anchor": "Just Before I Go führte Cox zur Regie eines Kinolangfilms.",
       "interest": "Die Frage grenzt eine neue Arbeitsform von früherer Fernsehregie ab.",
       "feedback": [
         "",
@@ -212,7 +211,8 @@
       "extraSources": [
         "https://tribecafilm.com/festival/archive/53208a52c07f5df7d20004eb-just-before-i-go",
         "https://tribecafilm.com/news/7-actors-directing-films-at-tff-2014-courteney-cox-jon-favreau-chris-messina"
-      ]
+      ],
+      "objective": "Just Before I Go führte Cox zur Regie eines Kinolangfilms."
     }
   ]
 }

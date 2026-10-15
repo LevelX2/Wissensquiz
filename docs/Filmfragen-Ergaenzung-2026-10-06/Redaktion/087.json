@@ -33,12 +33,12 @@
       ],
       "short": "Suzy (Jessica Harper) kommt zum Ballettstudium.",
       "context": "Suzy (Jessica Harper) kommt zum Ballettstudium. Die neue Ausbildungsstätte wird nach den ersten Todesfällen zum Ort einer Bedrohung, die weit über den strengen Unterricht hinausgeht.",
-      "anchor": "Die ersehnte Ausbildung führt in die Hexenakademie.",
       "interest": "Die ersehnte Ausbildung führt in die Hexenakademie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die ersehnte Ausbildung führt in die Hexenakademie."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Maden fallen aus verdorbenen Vorräten im Dachbereich.",
       "context": "Maden fallen aus verdorbenen Vorräten im Dachbereich. Suzy (Jessica Harper) und Sara (Stefania Casini) schlafen deshalb im Tanzsaal; dort gewinnt das ungewöhnliche Atmen hinter dem Vorhang Bedeutung.",
-      "anchor": "Der verdorbene Vorrat führt zur aufschlussreichen gemeinsamen Nacht.",
       "interest": "Der verdorbene Vorrat führt zur aufschlussreichen gemeinsamen Nacht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der verdorbene Vorrat führt zur aufschlussreichen gemeinsamen Nacht."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Sara (Stefania Casini) erkennt das schwere Atmen.",
       "context": "Sara (Stefania Casini) erkennt das schwere Atmen. Die Person hinter dem Vorhang widerspricht damit der offiziellen Abwesenheit; ein Geräusch wird zum Hinweis auf das verborgene Zentrum der Schule.",
-      "anchor": "Das Atmen widerspricht der behaupteten Abwesenheit.",
       "interest": "Das Atmen widerspricht der behaupteten Abwesenheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Atmen widerspricht der behaupteten Abwesenheit."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Suzy (Jessica Harper) dreht die Iris auf dem Wandbild.",
       "context": "Suzy (Jessica Harper) dreht die Iris auf dem Wandbild. Pats (Eva Axén) erinnerte Worte und die nächtlichen Schritte verbinden sich dadurch zu einem konkreten Weg hinter die sichtbare Schulordnung.",
-      "anchor": "Das Wort Iris wird zur bedienbaren Blume im Wandbild.",
       "interest": "Das Wort Iris wird zur bedienbaren Blume im Wandbild.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Wort Iris wird zur bedienbaren Blume im Wandbild."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Der Zirkel verliert mit Helena Markos seine Kraft.",
       "context": "Der Zirkel verliert mit Helena Markos (Lela Svasta) seine Kraft. Suzy (Jessica Harper) hatte zuvor erfahren, dass die Hexen an ihre Anführerin gebunden sind; ihr Angriff trifft damit mehr als eine einzelne Gegnerin.",
-      "anchor": "Die Abhängigkeit des Zirkels macht den Angriff auf Markos entscheidend.",
       "interest": "Die Abhängigkeit des Zirkels macht den Angriff auf Markos entscheidend.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Abhängigkeit des Zirkels macht den Angriff auf Markos entscheidend."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Blitzlicht verrät Markos’ Kontur.",
       "context": "Blitzlicht verrät Markos’ (Lela Svasta) Kontur. Suzy (Jessica Harper) nutzt eine Glasspitze des zerbrochenen Pfaus; die vorher nur akustisch erkennbare Gegnerin wird für einen Moment körperlich lokalisierbar.",
-      "anchor": "Der Blitz macht Unsichtbarkeit kurz angreifbar.",
       "interest": "Der Blitz macht Unsichtbarkeit kurz angreifbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Blitz macht Unsichtbarkeit kurz angreifbar."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Der Film wurde 1977 erstmals veröffentlicht.",
       "context": "1977 erschien das Original. Argento setzte seine Drei-Mütter-Filmfolge 1980 mit Inferno fort, drei Jahre später; die gleichnamige Neuverfilmung von 2018 entstand erst 41 Jahre nach dem ersten Film.",
-      "anchor": "Auf das Original von 1977 folgte 1980, drei Jahre später, Inferno als zweiter Drei-Mütter-Film.",
       "interest": "Auf das Original von 1977 folgte 1980, drei Jahre später, Inferno als zweiter Drei-Mütter-Film.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Auf das Original von 1977 folgte 1980, drei Jahre später, Inferno als zweiter Drei-Mütter-Film."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Regie: Dario Argento.",
       "context": "Argento schrieb mit Daria Nicolodi das Drehbuch. Die Geschichte wechselt vom menschlichen Täterrätsel seiner Gialli zu übernatürlicher Hexenmacht; Goblins Musik und die auffälligen Farben tragen die Bedrohung zusätzlich zur Handlung.",
-      "anchor": "Argento schrieb mit Daria Nicolodi das Drehbuch.",
       "interest": "Argento schrieb mit Daria Nicolodi das Drehbuch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Argento schrieb mit Daria Nicolodi das Drehbuch."
     }
   ]
 }

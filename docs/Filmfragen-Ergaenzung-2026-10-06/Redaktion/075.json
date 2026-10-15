@@ -37,12 +37,12 @@
       ],
       "short": "Der Grüne Ritter (Ralph Ineson) fordert den gleichen Schlag nach einem Jahr.",
       "context": "Der Grüne Ritter (Ralph Ineson) fordert den gleichen Schlag nach einem Jahr. Gawain (Dev Patel) gewinnt zunächst einen scheinbar leichten Triumph, bindet sich aber an eine spätere Gegenleistung.",
-      "anchor": "Der heutige Schlag wird zur Verpflichtung des nächsten Jahres.",
       "interest": "Der heutige Schlag wird zur Verpflichtung des nächsten Jahres.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der heutige Schlag wird zur Verpflichtung des nächsten Jahres."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Der grüne Gürtel soll Gawain schützen.",
       "context": "Der grüne Gürtel soll Gawain (Dev Patel) schützen. Das angebotene Sicherheitsversprechen verändert seine Entscheidungen, obwohl die Reise gerade seinen Mut und seine Wahrhaftigkeit prüfen soll.",
-      "anchor": "Der Gürtel verspricht Sicherheit innerhalb einer Mutprobe.",
       "interest": "Der Gürtel verspricht Sicherheit innerhalb einer Mutprobe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Gürtel verspricht Sicherheit innerhalb einer Mutprobe."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Gawain (Dev Patel) holt Winifreds Kopf zurück.",
       "context": "Gawain (Dev Patel) holt den Kopf von Winifred (Erin Kellyman) zurück. Seine Frage nach einer Gegenleistung wird zurückgewiesen; die Begegnung fordert Hilfe, die nicht als Tauschgeschäft verstanden wird.",
-      "anchor": "Winifreds Bitte prüft Hilfe ohne Belohnung.",
       "interest": "Winifreds Bitte prüft Hilfe ohne Belohnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Winifreds Bitte prüft Hilfe ohne Belohnung."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Der Burgherr (Joel Edgerton) bietet seine Jagdbeute gegen Gawains Erwerb im Schloss.",
       "context": "Der Burgherr (Joel Edgerton) bietet seine Jagdbeute gegen Gawains Erwerb im Schloss. Gawain (Dev Patel) behält den Gürtel jedoch zurück; das Versprechen legt damit seine Unehrlichkeit offen.",
-      "anchor": "Der Gürtel bleibt von dem versprochenen Tausch ausgenommen.",
       "interest": "Der Gürtel bleibt von dem versprochenen Tausch ausgenommen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Gürtel bleibt von dem versprochenen Tausch ausgenommen."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die Königsjahre sind eine vorgestellte Zukunft.",
       "context": "Die Königsjahre sind eine vorgestellte Zukunft. Gawain (Dev Patel) sieht die Folgen einer Flucht vor dem Schlag; danach kehrt die Erzählung zu seiner noch offenen Entscheidung zurück.",
-      "anchor": "Die düstere Königszeit ist die mögliche Zukunft einer Flucht.",
       "interest": "Die düstere Königszeit ist die mögliche Zukunft einer Flucht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die düstere Königszeit ist die mögliche Zukunft einer Flucht."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Gawain nimmt den Gürtel ab.",
       "context": "Gawain (Dev Patel) nimmt den Gürtel ab. Der Grüne Ritter (Ralph Ineson) lobt den Mut; der Film schließt, ohne das weitere Schicksal in einer vollständig eindeutigen Hinrichtungsszene festzulegen.",
-      "anchor": "Der abgelegte Gürtel macht die Bereitschaft zur Prüfung sichtbar.",
       "interest": "Der abgelegte Gürtel macht die Bereitschaft zur Prüfung sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der abgelegte Gürtel macht die Bereitschaft zur Prüfung sichtbar."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film wurde 2021 erstmals veröffentlicht.",
       "context": "2021 erschien Lowerys Artusfilm. Als gestalterischen Einfluss nennt er Bram Stoker’s Dracula von 1992, der 29 Jahre früher erschien; praktische Effekte und ältere Filmtricks halfen ihm, die mittelalterliche Welt als sichtbare Filmmagie zu gestalten.",
-      "anchor": "Lowerys Artusfilm von 2021 greift gestalterisch auf Dracula von 1992 zurück, 29 Jahre früher.",
       "interest": "Lowerys Artusfilm von 2021 greift gestalterisch auf Dracula von 1992 zurück, 29 Jahre früher.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Lowerys Artusfilm von 2021 greift gestalterisch auf Dracula von 1992 zurück, 29 Jahre früher."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Regie: David Lowery.",
       "context": "Lowery schrieb, inszenierte und montierte die Adaption. Die Mutterrolle wurde gegenüber der Vorlage erweitert; ihre Beschwörung verknüpft Gawains Familie mit der Herausforderung durch den fremden Ritter.",
-      "anchor": "Lowery schrieb, inszenierte und montierte die Adaption.",
       "interest": "Lowery schrieb, inszenierte und montierte die Adaption.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Lowery schrieb, inszenierte und montierte die Adaption."
     }
   ]
 }

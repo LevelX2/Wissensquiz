@@ -35,12 +35,12 @@
       ],
       "short": "Gib möchte nach Kalifornien zu seinem Freund Lance.",
       "context": "Gib möchte nach Kalifornien zu seinem Freund Lance. Dessen Versprechen einer unkomplizierten Begegnung mit einer Frau gibt ihm einen starken Anreiz für die lange Reise. Die Fahrt führt ihn jedoch zunächst mit Alison zusammen. Die Komödie lässt damit ein weit entferntes Wunschziel die Gelegenheit für eine unerwartete nähere Beziehung schaffen.",
-      "anchor": "Kalifornien ist Gibs versprochenes Ferienziel.",
       "interest": "Die Richtung der Reise erkennen.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kalifornien ist Gibs versprochenes Ferienziel."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Alison will ihren Freund Jason besuchen, der an der UCLA Jura studiert.",
       "context": "Alison will ihren Freund Jason besuchen, der an der UCLA Jura studiert. Ihre Reise ist damit auf eine bestehende Beziehung ausgerichtet. Gib verfolgt zunächst eine neue Begegnung. Die gleiche Route verbindet zwei unterschiedliche Erwartungen, die sich durch die gemeinsamen Erfahrungen verschieben, bevor beide ihre ursprünglichen Ziele tatsächlich erreichen.",
-      "anchor": "Alison fährt zu einer bestehenden Beziehung nach Los Angeles.",
       "interest": "Die eigene Reisemotivation der zweiten Hauptfigur erkennen.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Alison fährt zu einer bestehenden Beziehung nach Los Angeles."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Der Fahrer beendet die gemeinsame Fahrt und lässt ihr Gepäck am Straßenrand zurück.",
       "context": "Der Fahrer beendet die gemeinsame Fahrt und lässt ihr Gepäck am Straßenrand zurück. Die beiden müssen sich nun aufeinander verlassen, obwohl sie zuvor fortwährend gestritten haben. Der Ortswechsel nimmt ihnen die bequeme Möglichkeit, den anderen einfach zu ignorieren. Aus der unfreiwilligen Zweckgemeinschaft kann dadurch eine persönliche Nähe entstehen.",
-      "anchor": "Die abgebrochene Mitfahrt macht die Streithähne zu Reisegefährten.",
       "interest": "Den Auslöser des gemeinsamen Trampens verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die abgebrochene Mitfahrt macht die Streithähne zu Reisegefährten."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Alison findet die Kreditkarte ihres Vaters.",
       "context": "Alison findet die Kreditkarte ihres Vaters. Dadurch können sie nach den knappen Unterkünften in einem komfortableren Hotel übernachten. Der neue Rahmen gibt ihnen Zeit für ein persönliches Gespräch. Eine konkrete Alltagshilfe verändert so die Atmosphäre der Reise, nachdem Geldmangel und schlechte Bedingungen ihre Begegnungen zunächst bestimmt hatten.",
-      "anchor": "Die väterliche Kreditkarte öffnet die Tür zum besseren Hotel.",
       "interest": "Eine Ressource mit ihrer Wirkung auf die Begegnung verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die väterliche Kreditkarte öffnet die Tür zum besseren Hotel."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Schals unter Alisons Kleidung lassen sie schwanger erscheinen.",
       "context": "Schals unter Alisons Kleidung lassen sie schwanger erscheinen. Das Manöver soll die Bereitschaft vorbeifahrender Menschen erhöhen, sie mitzunehmen. Ihre Zusammenarbeit hat inzwischen eine spielerische Form gewonnen. Sie entwickeln gemeinsam eine Rolle für Außenstehende, obwohl ihre Gespräche zu Beginn eher darauf gerichtet waren, die Unterschiede zwischen ihnen hervorzuheben.",
-      "anchor": "Die Schals machen aus den Streitenden ein gemeinsames Täuschungsteam.",
       "interest": "Die konkrete Improvisation auf der Reise erinnern.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Schals machen aus den Streitenden ein gemeinsames Täuschungsteam."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Der Aufsatz zeigt, dass Gib die ursprünglich versprochene Begegnung nicht vollzogen hat.",
       "context": "Der Aufsatz zeigt, dass Gib die ursprünglich versprochene Begegnung nicht vollzogen hat. Die Reise hat seine Vorstellungen von Nähe verändert. Alison erhält diese Information in einem schulischen Rahmen, der zuvor ihre unterschiedlichen Arbeitsweisen gezeigt hatte. Das Schreiben bringt nun eine persönliche Wahrheit zum Ausdruck, die eine direkte Annäherung wieder möglich macht.",
-      "anchor": "Gibs Aufsatz legt offen, was die Reise in ihm verändert hat.",
       "interest": "Eine erzählte Selbstauskunft als Auflösung lesen.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Gibs Aufsatz legt offen, was die Reise in ihm verändert hat."
     },
     {
       "code": "Y",
@@ -179,14 +179,14 @@
       ],
       "short": "Öffentliche Vorabvorführungen im Februar 1985; reguläre Starts in Los Angeles und New York am 1. März 1985. Eine für Oktober 1984 angekündigte Branchenvorführung belegt keine frühere öffentliche Veröffentlichung.",
       "context": "„Der Volltreffer“ erschien 1985, ein Jahr nach Reiners erstem Kinoregieprojekt „This Is Spinal Tap“ von 1984. Der AFI-Katalog beschreibt sogar ein Plakat des Vorgängerfilms im Studentenwohnheim. Das Datum wird dadurch mit einer sichtbaren Spur des unmittelbar vorherigen Werks verbunden: Auf die Rocksatire folgt eine Collegegeschichte, in der die Regie ihre eigene jüngste Arbeit anklingen lässt.",
-      "anchor": "1984 „Spinal Tap“, 1985 „Der Volltreffer“: ein Jahr später, mit dem alten Filmplakat.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "afi",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1984 „Spinal Tap“, 1985 „Der Volltreffer“: ein Jahr später, mit dem alten Filmplakat."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Rob Reiner überarbeitete mit Steven L.",
       "context": "Rob Reiner überarbeitete mit Steven L. Bloom und Jonathan Roberts das Drehbuch. Laut AFI wollte er die Beziehung der Hauptfiguren stärker entwickeln und bloße Studentenstreiche zurücknehmen. John Cusack spielte Gib noch als sehr junger Darsteller. Die Reise liefert so eine Reihe komischer Zwischenfälle, die gleichzeitig Veränderungen im Verhältnis zu Alison sichtbar machen.",
-      "anchor": "Reiner nutzt die Reisekomik, um Gibs und Alisons Beziehung wachsen zu lassen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Reiner nutzt die Reisekomik, um Gibs und Alisons Beziehung wachsen zu lassen."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Jessica Fletcher ist Kriminalschriftstellerin.",
       "context": "Jessica löst Verbrechen als Amateurdetektivin und tritt dabei nicht im Auftrag einer Polizeibehörde auf. Angela Lansburys Rolle verbindet beruflichen Erfolg mit Unabhängigkeit und einem ausgeprägten Interesse an Menschen. Die Serie machte sie über viele Jahre einem Fernsehpublikum vertraut, das ihre früheren Film- oder Musicalrollen oft erst später kennenlernte.",
-      "anchor": "Die Krimiautorin ermittelt auch außerhalb ihrer Bücher.",
       "interest": "Die Frage erschließt die berufliche Grundlage einer besonders bekannten Fernsehfigur.",
       "feedback": [
         "",
@@ -30,7 +29,8 @@
       "extraSources": [
         "https://interviews.televisionacademy.com/news/murder-she-wrote-silver-anniversary",
         "https://www.televisionacademy.com/features/news/hall-fame/angela-lansbury-hall-fame-tribute"
-      ]
+      ],
+      "objective": "Die Krimiautorin ermittelt auch außerhalb ihrer Bücher."
     },
     {
       "code": "L2",
@@ -44,7 +44,6 @@
       "correct": 3,
       "short": "Lansbury spricht die Teekanne Mrs. Potts.",
       "context": "Mrs. Potts gehört zu den Bediensteten, die durch den Fluch in Haushaltsgegenstände verwandelt wurden. Ihre mütterliche Wärme prägt sowohl die Dialoge als auch das gesungene Titellied. Die Gegenstände wurden für Disneys Verfilmung als eigene Figuren ausgearbeitet; sie stammen nicht in dieser Form aus dem überlieferten Märchen. Lansburys Stimme gibt der künstlichen Gestalt einen vertrauten menschlichen Charakter.",
-      "anchor": "Mrs. Potts ist die warmherzige Teekanne.",
       "interest": "Das Ziel macht eine bekannte Stimme und ihre Figurenfunktion wiedererkennbar.",
       "feedback": [
         "",
@@ -57,7 +56,8 @@
       ],
       "extraSources": [
         "https://d23.com/a-to-z/beauty-and-the-beast-film/"
-      ]
+      ],
+      "objective": "Mrs. Potts ist die warmherzige Teekanne."
     },
     {
       "code": "M1",
@@ -71,7 +71,6 @@
       "correct": 2,
       "short": "Miss Price will England gegen die deutschen Angreifer verteidigen.",
       "context": "Im Herbst 1940 nimmt sie drei aus London evakuierte Kinder auf. Gemeinsam mit dem angeblichen Zauberlehrer Emelius Browne (David Tomlinson) sucht sie nach einem entscheidenden Spruch. Am Ende erweckt sie Museumsrüstungen zu einer Armee, die deutsche Kommandos vertreibt. Die fantastische Reise erhält so einen konkreten Bezug zum Krieg, vor dem die Kinder geflohen sind.",
-      "anchor": "Die Zauberei wird zur Verteidigung der bedrohten Heimat.",
       "interest": "Die Frage verbindet die märchenhaften Abenteuer mit ihrem historischen Anlass.",
       "feedback": [
         "",
@@ -84,7 +83,8 @@
       ],
       "extraSources": [
         "https://d23.com/a-to-z/bedknobs-and-broomsticks-film/"
-      ]
+      ],
+      "objective": "Die Zauberei wird zur Verteidigung der bedrohten Heimat."
     },
     {
       "code": "M2",
@@ -98,7 +98,6 @@
       "correct": 1,
       "short": "Seine Mutter ist seine amerikanische Befehlsgeberin im Komplott.",
       "context": "Raymond wurde im Koreakrieg einer Gehirnwäsche unterzogen und soll nun als Attentäter eingesetzt werden. Seine Mutter nutzt den öffentlich geehrten Heimkehrer zugleich für die politische Karriere ihres Mannes. Lansbury macht familiäre Herrschaft und politische Manipulation zu zwei Seiten derselben Figur. Gerade die vermeintlich vertraute Mutter ist daher kein Schutzraum für den missbrauchten Sohn.",
-      "anchor": "Die Mutter beherrscht ihren Sohn privat und als Befehlsgeberin.",
       "interest": "Der Sachverhalt erschließt die Doppelrolle ihrer besonders bedrohlichen Filmfigur.",
       "feedback": [
         "",
@@ -114,7 +113,8 @@
       ],
       "variant_of": "E20261007-F-249-M2",
       "knowledge_id": "K-E20261007-F-249-M2",
-      "knowledge_note": "Personenperspektive auf das vorhandene Wissensziel."
+      "knowledge_note": "Personenperspektive auf das vorhandene Wissensziel.",
+      "objective": "Die Mutter beherrscht ihren Sohn privat und als Befehlsgeberin."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 0,
       "short": "Nancy begegnet Paula respektlos; Gregory erklärt Paulas Misstrauen für irrational.",
       "context": "Gregory Anton (Charles Boyer) isoliert seine Frau und lässt sie an ihren Wahrnehmungen zweifeln. Die junge Hausangestellte verschärft das Machtgefälle im Haushalt: Selbst eine gewöhnliche Nachfrage nach Paulas Ausgang lässt diese zurückweichen. Gregory nutzt Paulas Unbehagen gegenüber Nancy wiederum gegen sie. Die Nebenrolle trägt damit zur Bedrohung bei, ohne dass Nancy den gesamten Mord- und Juwelenplan kennen muss.",
-      "anchor": "Die Haushaltsordnung stärkt Gregory und schwächt Paula.",
       "interest": "Das Ziel fragt nach einer konkreten Wirkung der Nebenfigur auf den psychologischen Konflikt.",
       "feedback": [
         "Nancy begegnet Paula respektlos; Gregory erklärt Paulas Misstrauen für irrational.",
@@ -141,7 +140,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/1552-GASLIGHT"
-      ]
+      ],
+      "objective": "Die Haushaltsordnung stärkt Gregory und schwächt Paula."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 2,
       "short": "Gwendolyn will Sir Griswold nicht aus politischen Gründen heiraten.",
       "context": "Ihr Vater, König Roderick (Cecil Parker), will durch die Heirat seine unsichere Herrschaft absichern. Gwendolyn besteht dagegen auf einer Liebesheirat. Die Hexe Griselda (Mildred Natwick) hypnotisiert deshalb den vermeintlichen Hofnarren Hawkins (Danny Kaye), damit er die Prinzessin umwirbt. Ihre Weigerung setzt so einen Teil der Verwechslungen, des Duells und der höfischen Intrigen in Gang.",
-      "anchor": "Gwendolyns Liebeswunsch durchkreuzt die politische Heiratsplanung.",
       "interest": "Die Frage erschließt ihren Anteil an der Handlung statt nur ihren Prinzessinnentitel.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/51790-THE-COURT-JESTER"
-      ]
+      ],
+      "objective": "Gwendolyns Liebeswunsch durchkreuzt die politische Heiratsplanung."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 0,
       "short": "Vorbild war Beatie, eine Köchin aus Lansburys Kindheit.",
       "context": "Lansbury knüpfte die erfundene Teekanne an die Erinnerung an einen wirklichen Menschen. Das half ihr, Wärme und einen vertrauten Cockney-Ton zusammenzubringen. Nach eigener Auskunft erkannten Kinder sie später sogar beim Einkaufen an der Stimme. Die Figur blieb damit für ein neues Publikum präsent, obwohl Lansburys Körper in dem Zeichentrickfilm gar nicht zu sehen ist.",
-      "anchor": "Eine Kindheitserinnerung wurde zur Stimme einer Zeichentrickfigur.",
       "interest": "Das Ziel zeigt eine konkrete persönliche Quelle der Stimmgestaltung.",
       "feedback": [
         "Vorbild war Beatie, eine Köchin aus Lansburys Kindheit.",
@@ -195,7 +194,8 @@
       ],
       "extraSources": [
         "https://d23.com/catching-up-with-the-enchanted-objects-from-beauty-and-the-beast/"
-      ]
+      ],
+      "objective": "Eine Kindheitserinnerung wurde zur Stimme einer Zeichentrickfigur."
     },
     {
       "code": "E2",
@@ -209,7 +209,6 @@
       "correct": 1,
       "short": "Nach langen Tourneen suchte Lansbury bewusst eine neue Aufgabe im Fernsehen.",
       "context": "Nach einem Jahr mit „Sweeney Todd“ auf Tournee fühlten Lansbury und ihr Mann Peter Shaw, dass sie genug gereist waren. Sie bat ihre Agentur um passende Angebote. Zunächst vorgeschlagene Nebenrollen als Dienstmädchen oder ältere Betreuerin überzeugten sie kaum. Jessica Fletcher bot schließlich eine eigenständige Hauptfigur und wurde der nach ihrer Einschätzung publikumswirksamste Erfolg ihrer Laufbahn.",
-      "anchor": "Der Wechsel zu Jessica Fletcher folgte auf die Ermüdung vom Tourneeleben.",
       "interest": "Die Frage erklärt eine berufliche Neuorientierung aus Lansburys eigener Darstellung.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       "films": [],
       "extraSources": [
         "https://www.televisionacademy.com/features/news/hall-fame/angela-lansbury-hall-fame-tribute"
-      ]
+      ],
+      "objective": "Der Wechsel zu Jessica Fletcher folgte auf die Ermüdung vom Tourneeleben."
     }
   ]
 }

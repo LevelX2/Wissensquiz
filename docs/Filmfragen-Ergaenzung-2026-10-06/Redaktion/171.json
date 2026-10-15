@@ -36,12 +36,12 @@
       ],
       "short": "Ninotschka soll den Verkauf beschlagnahmter Juwelen durchsetzen.",
       "context": "Ninotschka soll den Verkauf beschlagnahmter Juwelen durchsetzen. Drei sowjetische Kollegen haben sich zuvor von Paris ablenken lassen; ihre strenge Kontrolle bildet den Gegenpol.",
-      "anchor": "Der Juwelenauftrag führt die Gesandte nach Paris.",
       "interest": "Der Juwelenauftrag führt die Gesandte nach Paris.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Juwelenauftrag führt die Gesandte nach Paris."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Ninotschka und Léon vertreten gegensätzliche Interessen am Schmuck.",
       "context": "Ninotschka und Léon vertreten gegensätzliche Interessen am Schmuck. Erst nach ihrer Annäherung erkennen sie diese Gegnerschaft; berufliche Loyalität gerät dadurch mit persönlichen Gefühlen in Konflikt.",
-      "anchor": "Die private Anziehung kollidiert mit dem Auftrag.",
       "interest": "Die private Anziehung kollidiert mit dem Auftrag.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die private Anziehung kollidiert mit dem Auftrag."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Léons Missgeschick durchbricht Ninotschkas ernste Haltung und bringt sie zum Lachen.",
       "context": "Léons Missgeschick durchbricht Ninotschkas ernste Haltung und bringt sie zum Lachen. Nicht seine vorausgehenden Witze, sondern die konkrete Situation verändert die gemeinsame Stimmung.",
-      "anchor": "Ein Missgeschick erreicht, was die Witze nicht schafften.",
       "interest": "Ein Missgeschick erreicht, was die Witze nicht schafften.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Missgeschick erreicht, was die Witze nicht schafften."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Swana verlangt Ninotschkas Rückkehr nach Moskau.",
       "context": "Swana verlangt Ninotschkas Rückkehr nach Moskau. Sie nutzt den Schmuck als Druckmittel, um Léon (Melvyn Douglas) zurückzugewinnen; die geschäftliche Lösung verlangt so ein privates Opfer.",
-      "anchor": "Die Juwelen werden gegen Ninotschkas Abreise getauscht.",
       "interest": "Die Juwelen werden gegen Ninotschkas Abreise getauscht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Juwelen werden gegen Ninotschkas Abreise getauscht."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ninotschka erhält einen vollständig zensierten Brief.",
       "context": "Ninotschka erhält einen vollständig zensierten Brief. Das persönliche Kommunikationsmittel verliert seinen Inhalt; die politische Kontrolle verhindert nun auch aus der Ferne die Verbindung zu Léon (Melvyn Douglas).",
-      "anchor": "Zensur trennt die Liebenden auch in der Korrespondenz.",
       "interest": "Zensur trennt die Liebenden auch in der Korrespondenz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Zensur trennt die Liebenden auch in der Korrespondenz."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Eine vermeintlich gescheiterte Handelsmission führt Ninotschka (Greta Garbo) nach Konstantinopel.",
       "context": "Eine vermeintlich gescheiterte Handelsmission führt Ninotschka (Greta Garbo) nach Konstantinopel. Léon und die drei Kollegen haben dort das Wiedersehen vorbereitet, weil er selbst kein russisches Visum bekommt.",
-      "anchor": "Ein fingierter neuer Auftrag führt zur Wiedervereinigung.",
       "interest": "Ein fingierter neuer Auftrag führt zur Wiedervereinigung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein fingierter neuer Auftrag führt zur Wiedervereinigung."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1939 erschien der Film.",
       "context": "1939 erschien der Film. Die verkauften Juwelen stammen in der Handlung aus Enteignungen nach der russischen Revolution von 1917. Der Abstand von 22 Jahren verknüpft die Pariser Liebesgeschichte mit einem politischen Eigentumskonflikt aus einer früheren Epoche.",
-      "anchor": "Revolution 1917, Film 1939: 22 Jahre verbinden die enteigneten Juwelen mit dem Pariser Liebeskonflikt.",
       "interest": "Der Abstand zwischen erzählter Zeit und Veröffentlichung macht den rückblickenden Blick des Films sichtbar.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Revolution 1917, Film 1939: 22 Jahre verbinden die enteigneten Juwelen mit dem Pariser Liebeskonflikt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Ernst Lubitsch inszenierte Greta Garbo als sowjetische Gesandte und Melvyn Douglas als Léon.",
       "context": "Ernst Lubitsch inszenierte Greta Garbo als sowjetische Gesandte und Melvyn Douglas als Léon. Das Drehbuch von Charles Brackett, Billy Wilder und Walter Reisch verbindet einen Juwelenstreit mit der allmählichen Veränderung der zunächst strengen Hauptfigur.",
-      "anchor": "Ernst Lubitsch inszenierte Greta Garbo als sowjetische Gesandte und Melvyn Douglas als Léon.",
       "interest": "Ernst Lubitsch inszenierte Greta Garbo als sowjetische Gesandte und Melvyn Douglas als Léon.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ernst Lubitsch inszenierte Greta Garbo als sowjetische Gesandte und Melvyn Douglas als Léon."
     }
   ]
 }

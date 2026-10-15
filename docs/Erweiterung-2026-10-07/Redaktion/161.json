@@ -34,12 +34,12 @@
       ],
       "short": "Sherrie (Julianne Hough) möchte Sängerin werden.",
       "context": "Sherrie (Julianne Hough) möchte Sängerin werden. Ihre Ankunft verbindet Hoffnung und unmittelbare Schwierigkeiten. Der neue Arbeitsplatz bietet Nähe zur Musik, erfüllt den Traum aber noch nicht. Die Geschichte beginnt damit zwischen gewünschter Bühnenrolle und gewöhnlichem Broterwerb, statt sie schon als anerkannten Star einzuführen.",
-      "anchor": "Sherrie kommt mit einem Sängerinnentraum und braucht zunächst Arbeit.",
       "interest": "Der Wunsch trägt ihren Ortswechsel.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sherrie kommt mit einem Sängerinnentraum und braucht zunächst Arbeit."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Stacee Jaxx (Tom Cruise) soll im Bourbon Room auftreten.",
       "context": "Stacee Jaxx (Tom Cruise) soll im Bourbon Room auftreten. Sein berühmter Name verspricht Einnahmen für den gefährdeten Club. Der Erfolg der Veranstaltung hängt jedoch nicht nur von Publikum und Musik ab. Die wirtschaftlichen Vereinbarungen bestimmen ebenfalls, wem der scheinbar rettende Abend am Ende tatsächlich nützt.",
-      "anchor": "Der große Name soll den bedrohten Club retten.",
       "interest": "Der Auftritt bündelt Hoffnung auf wirtschaftliche Hilfe.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der große Name soll den bedrohten Club retten."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Drew (Diego Boneta) glaubt, Sherrie (Julianne Hough) habe mit Stacee Jaxx (Tom Cruise) geschlafen.",
       "context": "Drew (Diego Boneta) glaubt, Sherrie (Julianne Hough) habe mit Stacee Jaxx (Tom Cruise) geschlafen. Ein beobachteter Moment ersetzt für ihn die fehlende Erklärung. Seine Deutung verändert zugleich die Beziehung und seinen nächsten Auftritt. Die Eifersucht benötigt deshalb keine tatsächliche Affäre, um konkrete Folgen hervorzubringen.",
-      "anchor": "Drews Deutung einer Begegnung zerbricht die Beziehung.",
       "interest": "Das Missverständnis verbindet Gefühl und Auftritt.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Drews Deutung einer Begegnung zerbricht die Beziehung."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Das Angebot macht Drew (Diego Boneta) zum Mitglied einer Hip-Hop-Boyband.",
       "context": "Das Angebot macht Drew (Diego Boneta) zum Mitglied einer Hip-Hop-Boyband. Der Vertrag entspricht damit nicht seinem Rocktraum. Eine scheinbare Anerkennung verändert seine künstlerische Rolle nach fremden Vorstellungen. Erfolg lässt sich deshalb nicht allein daran erkennen, dass ein Manager eine Unterschrift und eine neue Bühne bereitstellt.",
-      "anchor": "Der Vertrag verschafft eine Bühne, aber eine fremd bestimmte Rolle.",
       "interest": "Die Gelegenheit prüft die Bedeutung des eigenen Traums.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Vertrag verschafft eine Bühne, aber eine fremd bestimmte Rolle."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Patricia (Catherine Zeta-Jones) war früher ein Groupie von Arsenal.",
       "context": "Patricia (Catherine Zeta-Jones) war früher ein Groupie von Arsenal. Ihr öffentlicher Protest steht dadurch neben einer eigenen Vergangenheit in derselben Rockwelt. Die Enthüllung greift nicht ihre musikalische Unkenntnis an, sondern den Widerspruch ihrer Selbstdarstellung. Was sie bekämpft, gehört bereits zu ihrer persönlichen Geschichte.",
-      "anchor": "Patricias Protest verdeckt die eigene Rockvergangenheit.",
       "interest": "Die Enthüllung verändert ihre öffentliche Rolle.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Patricias Protest verdeckt die eigene Rockvergangenheit."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Drew (Diego Boneta) kauft Sherries gestohlene Schallplatten zurück.",
       "context": "Drew (Diego Boneta) kauft Sherries gestohlene Schallplatten zurück. Die Geste bezieht sich konkret auf ihren Verlust bei der Ankunft. Er hilft damit, ein Stück ihrer eigenen Geschichte wiederherzustellen. Die Versöhnung erhält eine praktische Handlung als Grundlage und hängt nicht ausschließlich an einer weiteren Erklärung des Missverständnisses.",
-      "anchor": "Die wiedergefundenen Platten zeigen Aufmerksamkeit für Sherries eigenen Verlust.",
       "interest": "Eine konkrete Geste trägt die Annäherung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die wiedergefundenen Platten zeigen Aufmerksamkeit für Sherries eigenen Verlust."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Weltpremiere in Los Angeles am 8. Juni 2012, US-Kinostart am 15. Juni; Filmfassung des Bühnenmusicals.",
       "context": "„Rock of Ages“ erschien 2012 und spielt im Los Angeles von 1987. Zwischen Handlungsjahr und Filmjahr liegen 25 Jahre. Der Film blickt somit auf eine bereits vergangene Rockkultur zurück und nutzt deren bekannte Lieder für neue Figurenbeziehungen. Die Jahresverbindung trennt den Zeitpunkt der Veröffentlichung von der bewusst rekonstruierten musikalischen Umgebung.",
-      "anchor": "Los Angeles 1987, Film 2012: 25 Jahre bis zum musikalischen Rückblick.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Los Angeles 1987, Film 2012: 25 Jahre bis zum musikalischen Rückblick."
     },
     {
       "code": "D",
@@ -203,13 +203,13 @@
       ],
       "short": "Adam Shankman inszenierte die Filmfassung von Chris D’Arienzos Bühnenmusical.",
       "context": "Adam Shankman inszenierte die Filmfassung von Chris D’Arienzos Bühnenmusical. Die Darsteller singen ihre Rollen selbst; Tom Cruise trainierte seine Stimme für Stacee Jaxx. Der Film verbindet damit die Besetzung bekannter Schauspieler mit einer zusätzlichen musikalischen Leistung. Die vertrauten Rocksongs werden nicht bloß eingespielt, sondern von den Figuren innerhalb ihrer Konflikte vorgetragen.",
-      "anchor": "Shankman lässt das Ensemble die bekannten Rocksongs selbst singen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Shankman lässt das Ensemble die bekannten Rocksongs selbst singen."
     }
   ]
 }

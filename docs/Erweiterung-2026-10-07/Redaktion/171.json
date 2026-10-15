@@ -37,12 +37,12 @@
       ],
       "short": "Amy Winehouse steht im Mittelpunkt der Dokumentation.",
       "context": "Amy Winehouse steht im Mittelpunkt der Dokumentation. Der Film verfolgt ihre musikalische Arbeit und die Belastungen, die mit Beziehungen, Abhängigkeit und öffentlicher Aufmerksamkeit verbunden waren. Seine Grundlage sind tatsächliche Aufnahmen und Stimmen aus ihrem Umfeld. So tritt neben die bekannte öffentliche Erscheinung eine Künstlerin, deren musikalische Entscheidungen und private Erfahrungen miteinander verbunden sind.",
-      "anchor": "„Amy“ porträtiert Amy Winehouse.",
       "interest": "Die Künstlerin der Dokumentation zuordnen.",
       "sources": [
         "a24"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "„Amy“ porträtiert Amy Winehouse."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ein privates Video zeigt die vierzehnjährige Winehouse beim Singen mit Freundinnen auf einer Geburtstagsfeier.",
       "context": "Ein privates Video zeigt die vierzehnjährige Winehouse beim Singen mit Freundinnen auf einer Geburtstagsfeier. Der Einstieg setzt das spätere Weltstarbild neben einen unmittelbaren jungen Menschen. Die Stimme ist bereits hörbar, während professioneller Auftritt und große Öffentlichkeit noch fehlen. Diese Ausgangsperspektive begleitet die folgende Laufbahn: Der Film sucht die Person hinter den bekannten Bildern.",
-      "anchor": "Zuerst singt die junge Amy auf einer privaten Feier.",
       "interest": "Den persönlichen Ausgangspunkt der Archivgeschichte erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zuerst singt die junge Amy auf einer privaten Feier."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Kapadia möchte die Worte nicht nur als Teil eingängiger Musik hörbar machen.",
       "context": "Kapadia möchte die Worte nicht nur als Teil eingängiger Musik hörbar machen. Die Schrift lenkt Aufmerksamkeit auf Winehouses Arbeit als Autorin und auf die Verbindung zu ihrem Leben. Beim Lesen können vertraute Songs einen anderen Sinn erhalten. Die Gestaltung verbindet deshalb Musikporträt und Lebensgeschichte, statt die Lieder lediglich als atmosphärische Begleitung einzusetzen.",
-      "anchor": "Die lesbaren Texte rücken Amy als Songschreiberin nach vorn.",
       "interest": "Eine konkrete Gestaltung und ihren Zweck verbinden.",
       "sources": [
         "interview"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die lesbaren Texte rücken Amy als Songschreiberin nach vorn."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Der Film macht die aufdringliche Aufmerksamkeit der Medien sichtbar und verwendet zugleich Aufnahmen aus diesem Umfeld.",
       "context": "Der Film macht die aufdringliche Aufmerksamkeit der Medien sichtbar und verwendet zugleich Aufnahmen aus diesem Umfeld. Kapadia muss damit Material nutzen, das Teil der dargestellten Belastung war. Der Widerspruch gehört zur filmischen Perspektive: Bilder dokumentieren die Situation, sind aber nicht neutral gegenüber ihrer Entstehung. Das Publikum sieht sowohl die Künstlerin als auch den Zugriff auf sie.",
-      "anchor": "Die Kritik an Medienzugriff arbeitet auch mit dessen Bildern.",
       "interest": "Die Perspektive der Dokumentation kritisch verstehen.",
       "sources": [
         "interview"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Kritik an Medienzugriff arbeitet auch mit dessen Bildern."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die Dokumentation zeigt die Aufnahme von „Body and Soul“ mit Tony Bennett.",
       "context": "Die Dokumentation zeigt die Aufnahme von „Body and Soul“ mit Tony Bennett. Der erfahrene Sänger begegnet Winehouse als musikalischem Gegenüber und vermittelt einen anderen Blick als die aufgeregte Öffentlichkeit. Die Arbeit am Duett steht spät in der erzählten Lebensgeschichte. Sie führt nochmals zu ihrer Stimme und musikalischen Fähigkeit zurück, bevor der Film sich ihrem Tod zuwendet.",
-      "anchor": "Die späte Studioszene verbindet Amy mit Tony Bennett.",
       "interest": "Eine wichtige musikalische Begegnung erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die späte Studioszene verbindet Amy mit Tony Bennett."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Nach dem ausgelassenen Grammy-Moment berichtet eine Freundin, Winehouse habe die Situation ohne Drogen als langweilig bezeichnet.",
       "context": "Nach dem ausgelassenen Grammy-Moment berichtet eine Freundin, Winehouse habe die Situation ohne Drogen als langweilig bezeichnet. Der Film setzt damit äußeren Triumph neben ein inneres Problem. Der Erfolg ist sichtbar und real, erklärt aber nicht automatisch ihr Befinden. Die Montage unterbricht die Vorstellung, dass Anerkennung die dargestellten Belastungen auflösen müsste.",
-      "anchor": "Der große Triumph steht neben Langeweile ohne Drogen.",
       "interest": "Öffentlichen Erfolg und private Erfahrung auseinanderhalten.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der große Triumph steht neben Langeweile ohne Drogen."
     },
     {
       "code": "Y",
@@ -181,14 +181,14 @@
       ],
       "short": "Weltpremiere in Cannes am 16. Mai 2015.",
       "context": "Amy Winehouse starb 2011. Das filmische Porträt wurde 2015 erstmals gezeigt, vier Jahre später. Die Dokumentation greift auf Aufnahmen aus ihrem Leben zurück, statt eine nachträgliche Schauspielerbiografie zu entwerfen. Der Abstand verbindet ihren Tod mit einem neuen öffentlichen Blick auf die Künstlerin und auf das vorhandene private und berufliche Bildmaterial.",
-      "anchor": "2011 Winehouses Tod, 2015 „Amy“: vier Jahre bis zum Archivporträt.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "a24"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2011 Winehouses Tod, 2015 „Amy“: vier Jahre bis zum Archivporträt."
     },
     {
       "code": "D",
@@ -207,14 +207,14 @@
       ],
       "short": "Asif Kapadia führte Regie; James Gay-Rees produzierte und Chris King montierte das Material.",
       "context": "Asif Kapadia führte Regie; James Gay-Rees produzierte und Chris King montierte das Material. Kapadia erklärt, dass er Winehouses Texte lesbar ins Bild setzen wollte. Der Film soll sie damit als Songschreiberin erfahrbar machen. Die Arbeit an Aufnahmen und Worten verbindet den Blick auf ihr Leben mit dem konkreten Vorgang, persönliche Erfahrungen in Musik zu verwandeln.",
-      "anchor": "Kapadia lässt Winehouses Bilder und lesbare Songtexte zusammen erzählen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel",
         "interview"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kapadia lässt Winehouses Bilder und lesbare Songtexte zusammen erzählen."
     }
   ]
 }

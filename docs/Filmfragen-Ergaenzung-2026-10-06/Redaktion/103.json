@@ -34,12 +34,12 @@
       ],
       "short": "Ein fiktives Dokumentarteam begleitet die Vampire.",
       "context": "Viago (Taika Waititi), Vladislav (Jemaine Clement) und Deacon (Jonathan Brugh) erklären ihr Zusammenleben direkt vor der Kamera. Der Film nutzt Interviews und beobachtete Alltagsszenen, als wäre die fantastische Wohngemeinschaft ein realer Dokumentarfilmgegenstand. Gerade Hausarbeit und Ausgehpläne lassen die uralten Wesen überraschend gewöhnlich wirken.",
-      "anchor": "Ein Dokumentarteam behandelt die Vampire wie gewöhnliche WG-Bewohner.",
       "interest": "Ein Dokumentarteam behandelt die Vampire wie gewöhnliche WG-Bewohner.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein Dokumentarteam behandelt die Vampire wie gewöhnliche WG-Bewohner."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Die Wohngemeinschaft lebt in Wellington.",
       "context": "Die Vampire wohnen im Stadtteil Te Aro von Wellington und fahren nachts mit dem Bus aus. Das neuseeländische Alltagsumfeld bildet einen Gegenpol zu ihren alten europäischen Selbstbildern. Statt eines abgelegenen Schlosses müssen Viago (Taika Waititi) und seine Mitbewohner mit Clubs, Verkehrsmitteln und alltäglichen Nachbarn zurechtkommen.",
-      "anchor": "Wellingtons Nachtleben ersetzt das einsame Vampirschloss.",
       "interest": "Wellingtons Nachtleben ersetzt das einsame Vampirschloss.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wellingtons Nachtleben ersetzt das einsame Vampirschloss."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Ohne Einladung können sie die Clubs nicht einfach betreten.",
       "context": "Viago (Taika Waititi) und die anderen bleiben beim Ausgehen auf Einladungen angewiesen. Nick (Cori Gonzalez-Macuer) hilft, weil er die moderne Clubwelt kennt. Eine klassische Vampirregel wird damit in ein heutiges soziales Problem übersetzt: Unsterblichkeit verschafft den Bewohnern noch keinen Zugang zur ersehnten Party.",
-      "anchor": "Die übernatürliche Einladungspflicht scheitert am Türsteher.",
       "interest": "Die übernatürliche Einladungspflicht scheitert am Türsteher.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die übernatürliche Einladungspflicht scheitert am Türsteher."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Stu erschließt ihnen die moderne Computerwelt.",
       "context": "Stu (Stu Rutherford) arbeitet mit Computern und wird als Mensch in der Gruppe akzeptiert. Mit seiner Hilfe nutzt Viago (Taika Waititi) das Internet, um seine alte Liebe wiederzufinden. Die Technik ist damit kein beliebiger Gag: Sie verbindet die lange Vergangenheit der Vampire mit einem konkreten Wunsch nach Kontakt.",
-      "anchor": "Stus Computerwissen überbrückt Jahrhunderte der Isolation.",
       "interest": "Stus Computerwissen überbrückt Jahrhunderte der Isolation.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Stus Computerwissen überbrückt Jahrhunderte der Isolation."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Die Bestie ist Vladislavs ehemalige Freundin Pauline.",
       "context": "Vladislav (Jemaine Clement) spricht über seine Nemesis zunächst wie über eine gewaltige übernatürliche Bedrohung. Beim Maskenball zeigt sich, dass Pauline (Elena Stejko), seine Exfreundin, gemeint ist. Der Film übersetzt eine monströse Selbstbeschreibung in eine schwierige Beziehung; auch ein Jahrhunderte alter Tyrann kommt von ihr nicht los.",
-      "anchor": "Vladislavs große Nemesis ist eine alte Beziehung.",
       "interest": "Vladislavs große Nemesis ist eine alte Beziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vladislavs große Nemesis ist eine alte Beziehung."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Stu überlebt den Angriff als Werwolf und verbindet beide Gruppen.",
       "context": "Die Vampire halten Stu (Stu Rutherford) nach dem Angriff zunächst für tot. Später kehrt er als Werwolf zurück. Weil er zu beiden Seiten Beziehungen hat, kann er das bisherige Misstrauen überwinden. Seine Verwandlung bedeutet somit keine bloße Pointe, sondern schafft eine Brücke zwischen zwei verfeindeten Nachtgemeinschaften.",
-      "anchor": "Stu gehört nun zu den Werwölfen und bleibt Freund der Vampire.",
       "interest": "Stu gehört nun zu den Werwölfen und bleibt Freund der Vampire.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Stu gehört nun zu den Werwölfen und bleibt Freund der Vampire."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2014.",
       "context": "Der Film wurde 2014 in Sundance vorgestellt. Clement und Waititi hatten die Vampir-WG bereits 2005 als Kurzfilm gestaltet, neun Jahre zuvor. Die Langfassung erweitert dieses gemeinsame Projekt um einen ganzen Alltag aus Hausarbeit, Clubs und Beziehungen; die später erfolgreiche Fernsehserie ist eine weitere eigene Bearbeitung.",
-      "anchor": "Kurzfilm 2005, Langfilm 2014: neun Jahre bis zur erweiterten Vampir-WG.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Kurzfilm 2005, Langfilm 2014: neun Jahre bis zur erweiterten Vampir-WG.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kurzfilm 2005, Langfilm 2014: neun Jahre bis zur erweiterten Vampir-WG."
     },
     {
       "code": "D",
@@ -203,14 +203,14 @@
       ],
       "short": "Der Regiecredit lautet Jemaine Clement und Taika Waititi.",
       "context": "Jemaine Clement und Taika Waititi schrieben und inszenierten den Film gemeinsam. Beide sind auch im Ensemble: Clement spielt Vladislav, Waititi Viago. Die lange Filmfassung geht auf ihren Kurzfilm von 2005 zurück und verbindet die gemeinsame Regie mit einer nachgeahmten dokumentarischen Beobachtung des WG-Alltags.",
-      "anchor": "Jemaine Clement und Taika Waititi: Beide sind auch im Ensemble: Clement spielt Vladislav, Waititi Viago.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jemaine Clement und Taika Waititi: Beide sind auch im Ensemble: Clement spielt Vladislav, Waititi Viago."
     }
   ]
 }

@@ -37,12 +37,12 @@
       ],
       "short": "Jim glaubt, in ihnen die Täter seines persönlichen Verlustes zu sehen.",
       "context": "Jim Douglass (Gregory Peck) glaubt, die vier Gefangenen hätten seine Frau ermordet. Die bevorstehende Hinrichtung verspricht ihm deshalb eine persönliche Genugtuung. Der Film beginnt mit einem scheinbaren Zusammenfallen von öffentlicher Strafe und privater Überzeugung, dessen Grundlage erst im Verlauf der Verfolgung kritisch sichtbar wird.",
-      "anchor": "Jim erwartet von der öffentlichen Strafe die Bestätigung seiner privaten Täterüberzeugung.",
       "interest": "Erfasst den anfänglichen Anspruch auf Genugtuung.",
       "sources": [
         "verleih"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jim erwartet von der öffentlichen Strafe die Bestätigung seiner privaten Täterüberzeugung."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Emma gerät als Geisel in die Flucht.",
       "context": "Die flüchtenden Männer nehmen Emma (Kathleen Gallant) mit. Die Verfolgung besitzt dadurch neben Jims (Gregory Peck) persönlichem Ziel einen konkreten Rettungsanlass. Seine Gewissheit über die Vergangenheit und die aktuelle Gefahr für die Geisel laufen zusammen, obwohl sie unterschiedliche Fragen an Schuld und Handeln stellen.",
-      "anchor": "Die Geisel schafft einen aktuellen Rettungsanlass neben der persönlichen Rache.",
       "interest": "Unterscheidet die beiden Anlässe der Verfolgung.",
       "sources": [
         "verleih"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Geisel schafft einen aktuellen Rettungsanlass neben der persönlichen Rache."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der falsche Henker nutzt seinen Zugang für den Angriff.",
       "context": "Der als Henker auftretende Mann (Joe DeRita) ist ein Betrüger. Sein erwartetes Amt verschafft ihm Zugang zu den Gefangenen, den er für den Angriff auf Sheriff Sanchez (Herbert Rudley) nutzt. Die Handlung zeigt damit, wie eine scheinbar verlässliche Rolle ungeprüft genau den gefährlichen Zugang eröffnen kann.",
-      "anchor": "Der vorgetäuschte Henker nutzt das Vertrauen in sein Amt für den Ausbruch.",
       "interest": "Erklärt den Zugang über eine falsche Amtsidentität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der vorgetäuschte Henker nutzt das Vertrauen in sein Amt für den Ausbruch."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die Schuld an anderen Taten bestätigt seine persönliche Mordbehauptung nicht.",
       "context": "Jim (Gregory Peck) muss erkennen, dass die Männer nicht die Mörder seiner Frau sind. Ihre anderen Verbrechen machen seine eigene Täterbehauptung nicht richtig. Die Wendung trennt daher allgemeine Schuld von der konkreten Tat, für die er sie persönlich verfolgt und bereits Menschen getötet hat.",
-      "anchor": "Andere Schuld der Männer beweist nicht die von Jim behauptete konkrete Tat.",
       "interest": "Erklärt die Grenze seiner vermeintlichen Racheberechtigung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Andere Schuld der Männer beweist nicht die von Jim behauptete konkrete Tat."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die Herkunft des Geldes führt zu Butler.",
       "context": "Lujan (Henry Silva) erklärt Jim (Gregory Peck), dass der Geldsack von Butler (Gene Evans) stammt. Jim erkennt darin die Verbindung zum wirklichen Täter. Wieder führt ein Gegenstand zur Vergangenheit, diesmal aber durch eine überprüfbare Herkunftsauskunft statt durch die bloße Wiederholung seines bisherigen Verdachts.",
-      "anchor": "Die erklärte Herkunft des Geldes führt von den Verfolgten zum wirklichen Täter Butler.",
       "interest": "Verknüpft Sachspur und korrigierte Tätererkenntnis.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die erklärte Herkunft des Geldes führt von den Verfolgten zum wirklichen Täter Butler."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Er sucht Vergebung für das eigene Töten.",
       "context": "Jim (Gregory Peck) kehrt zur Kirche zurück und sucht Vergebung. Die richtige Erkenntnis löscht die Folgen seiner falschen Überzeugung nicht. Der Film beendet die Reise deshalb mit einer neuen Verantwortung: Er muss die eigene Tat anerkennen, statt seine Gewalt weiterhin allein mit dem ursprünglichen Verlust zu rechtfertigen.",
-      "anchor": "Die erkannte Wahrheit verlangt Verantwortung für die eigene nicht rückgängig zu machende Gewalt.",
       "interest": "Erklärt die moralische Aufgabe nach der Rachewendung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die erkannte Wahrheit verlangt Verantwortung für die eigene nicht rückgängig zu machende Gewalt."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "1958 liegt zwei Jahre nach dem Rechtekauf.",
       "context": "Fox kaufte 1956 die Rechte an Frank O’Rourkes Stoff, laut AFI noch vor dessen Veröffentlichung. Die Filmfassung erschien 1958, zwei Jahre später. Der Zeitanker verbindet daher eine frühe Produktionsentscheidung mit dem späteren Kinojahr. Die Rechte konnten erworben werden, bevor das Publikum die literarische Fassung allgemein kannte.",
-      "anchor": "1956 der frühe Rechtekauf, 1958 der Kinofilm: zwei Jahre von Erwerb bis Veröffentlichung.",
       "interest": "Verankert das Jahr in einer konkreten Produktionsentscheidung.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1956 der frühe Rechtekauf, 1958 der Kinofilm: zwei Jahre von Erwerb bis Veröffentlichung."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "King inszenierte den Film.",
       "context": "Henry King führte Regie, Gregory Peck spielte Jim Douglass (Gregory Peck). Time Out ordnet den Film ihrer wiederholten Zusammenarbeit zu und hebt Leon Shamroys breites Kamerabild hervor. Die Inszenierung verbindet die Bewegung durch große Landschaften mit einer immer engeren persönlichen Überzeugung, die sich am Ende als falsch erweist.",
-      "anchor": "King verbindet weite Verfolgungslandschaften mit der gefährlich verengten Gewissheit des Helden.",
       "interest": "Verknüpft den Regiecredit mit dem konkreten Gestaltungsproblem.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "King verbindet weite Verfolgungslandschaften mit der gefährlich verengten Gewissheit des Helden."
     }
   ]
 }

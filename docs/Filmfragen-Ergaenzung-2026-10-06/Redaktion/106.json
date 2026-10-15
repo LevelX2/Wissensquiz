@@ -33,12 +33,12 @@
       ],
       "short": "Die Mayflower One ist für den Flug zum Mond vorgesehen.",
       "context": "Ted Striker (Robert Hays) und Elaine Dickinson (Julie Hagerty) geraten in den Jungfernflug eines kommerziellen Mondshuttles. Eine bereits bewohnte Station bildet das Ziel. Der Film übernimmt die vertraute Form eines Passagierflugs und verschiebt sie in eine Zukunft, deren technische Versprechen ebenso unzuverlässig sind wie die Menschen am Boden.",
-      "anchor": "Der Linienflug wird zum kommerziellen Mondflug.",
       "interest": "Der Linienflug wird zum kommerziellen Mondflug.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Linienflug wird zum kommerziellen Mondflug."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Der rebellierende Bordcomputer setzt sich über die Besatzung hinweg.",
       "context": "Elaine Dickinson (Julie Hagerty) erkennt, dass R.O.K. ihre Anweisungen nicht mehr akzeptiert. Das System verschärft die Gefahr statt sie zu beherrschen. Der vertraute Katastrophenfilmkonflikt zwischen Mensch und Technik bekommt so eine Science-Fiction-Variante, in der die vermeintliche Hilfe selbst zum Gegner wird.",
-      "anchor": "Der Sicherheitscomputer wird zur Gefahr für das Shuttle.",
       "interest": "Der Sicherheitscomputer wird zur Gefahr für das Shuttle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Sicherheitscomputer wird zur Gefahr für das Shuttle."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Ted verwendet die an Bord gebrachte Zeitbombe gegen R.O.K.",
       "context": "Ein verzweifelter Passagier hat eine Zeitbombe gekauft. Ted Striker (Robert Hays) entreißt sie ihm und zerstört damit den Bordcomputer. Ein zweiter Gefahrenherd wird zum Rettungsmittel gegen den ersten; anschließend muss Ted das beschädigte Shuttle selbst weiterfliegen, sodass die Lösung zugleich das nächste Problem vorbereitet.",
-      "anchor": "Die Passagierbombe beendet die Computerherrschaft.",
       "interest": "Die Passagierbombe beendet die Computerherrschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Passagierbombe beendet die Computerherrschaft."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Simon lässt Elaine zurück und benutzt die Rettungskapsel.",
       "context": "Simon Kurtz (Chad Everett) ist mit Elaine Dickinson (Julie Hagerty) verlobt, erweist sich aber als unzuverlässig. Seine Flucht stellt ihn dem beschädigten, ängstlichen Ted Striker (Robert Hays) gegenüber, der bleiben und helfen will. Die Liebesgeschichte und die Katastrophenhandlung prüfen damit dieselbe Frage nach Verantwortung.",
-      "anchor": "Simon flieht; Ted bleibt bei der gefährdeten Elaine.",
       "interest": "Simon flieht; Ted bleibt bei der gefährdeten Elaine.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Simon flieht; Ted bleibt bei der gefährdeten Elaine."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Eine Haarnadel verursacht den nötigen Kurzschluss.",
       "context": "Ted Striker (Robert Hays) steckt Elaine Dickinsons (Julie Hagerty) Haarnadel in das Bedienfeld. Der Kurzschluss zerstört Hilfstriebwerke und verändert die misslungene Annäherung an die Mondbasis. Die übertechnisierte Reise endet damit in einer bewusst absurden Improvisation mit einem alltäglichen Gegenstand, bevor die Passagiere das gelandete Schiff verlassen können.",
-      "anchor": "Die Haarnadel greift in die Technik der Mondlandung ein.",
       "interest": "Die Haarnadel greift in die Technik der Mondlandung ein.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Haarnadel greift in die Technik der Mondlandung ein."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Murdock verbindet Ted mit dem Einsatz über Macho Grande.",
       "context": "Buck Murdock (William Shatner) hat im Krieg mit Ted Striker (Robert Hays) gedient. Die Erinnerung an Macho Grande prägt seinen Blick auf den Piloten. Die Parodie zieht Teds Vergangenheit in die Zukunft hinein: Auch auf einer Mondbasis bleiben alte Vorwürfe und psychische Belastungen Teil einer technisch modernen Rettung.",
-      "anchor": "Die Mondbasis ist neu, Murdocks Vorwurf gegen Ted ist alt.",
       "interest": "Die Mondbasis ist neu, Murdocks Vorwurf gegen Ted ist alt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Mondbasis ist neu, Murdocks Vorwurf gegen Ted ist alt."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1982.",
       "context": "Die Fortsetzung erschien 1982, zwei Jahre nach dem ersten Airplane!-Film. Sie verlagert dessen Flugkatastrophen-Parodie vom Passagierflugzeug in ein kommerzielles Mondshuttle. Die im Film angesiedelte Zukunft und der tatsächliche Abstand von zwei Veröffentlichungsjahren sind unterschiedliche Zeitangaben.",
-      "anchor": "Airplane! 1980, Mondshuttle-Fortsetzung 1982: zwei Jahre später wird die Flugparodie zur Raumfahrt.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Airplane! 1980, Mondshuttle-Fortsetzung 1982: zwei Jahre später wird die Flugparodie zur Raumfahrt.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Airplane! 1980, Mondshuttle-Fortsetzung 1982: zwei Jahre später wird die Flugparodie zur Raumfahrt."
     },
     {
       "code": "D",
@@ -202,14 +202,14 @@
       ],
       "short": "Der Regiecredit lautet Ken Finkleman.",
       "context": "Ken Finkleman schrieb und inszenierte die Fortsetzung. Das Regieteam des ersten Airplane!-Films kehrte dafür nicht zurück. Wiederkehrende Darsteller verbinden die Filme dennoch: Robert Hays spielt Ted Striker, Julie Hagerty Elaine Dickinson, während William Shatner als Kommandant der Mondbasis einen neuen Schauplatz prägt.",
-      "anchor": "Ken Finkleman: Das Regieteam des ersten Airplane!-Films kehrte dafür nicht zurück.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ken Finkleman: Das Regieteam des ersten Airplane!-Films kehrte dafür nicht zurück."
     }
   ]
 }

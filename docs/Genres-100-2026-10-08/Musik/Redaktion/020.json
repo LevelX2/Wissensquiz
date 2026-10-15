@@ -34,12 +34,12 @@
       ],
       "short": "Der Film zeigt Proben für die geplanten Shows.",
       "context": "Michael Jackson wird bei der Vorbereitung einer geplanten Konzertserie gezeigt. Die Aufnahmen dokumentieren Proben und die gemeinsame Arbeit mit Tänzern, Musikern und dem Bühnenteam. Nach seinem Tod fanden die vorgesehenen Shows nicht statt. Der Film ermöglicht deshalb einen Blick auf die Entwicklung einer Aufführung, die das Publikum nie in ihrer geplanten Form erleben konnte; er ist kein Mitschnitt eines vollendeten Londoner Konzerts.",
-      "anchor": "Proben zeigen die geplante Show vor ihrer ausgefallenen Aufführung.",
       "interest": "Der zentrale Dokumentarfilmcharakter muss von einer Konzertaufzeichnung unterschieden werden.",
       "sources": [
         "studio",
         "premiere"
-      ]
+      ],
+      "objective": "Proben zeigen die geplante Show vor ihrer ausgefallenen Aufführung."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Die Konzertserie war für die Londoner O2 Arena geplant.",
       "context": "Die geplante Konzertserie sollte in Londons O2 Arena stattfinden. Die für den Film verwendeten Proben wurden dagegen in Los Angeles aufgenommen. Diese Trennung erklärt, weshalb die Bilder kein Publikum der angekündigten Londoner Shows zeigen. Der Veranstaltungsort gehört zum ursprünglichen Bühnenplan, während der Dokumentarfilm die vorbereitende Arbeit festhält. Beide Orte erfüllen damit unterschiedliche Funktionen in der Geschichte des Projekts.",
-      "anchor": "Los Angeles liefert die Probenbilder, London war das geplante Ziel.",
       "interest": "Das Aufführungsziel ist ein eigenständiger Zusammenhang neben der Art der Aufnahmen.",
       "sources": [
         "studio",
         "handlung"
-      ]
+      ],
+      "objective": "Los Angeles liefert die Probenbilder, London war das geplante Ziel."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Die Sequenz verbindet Jackson mit Material aus Gilda.",
       "context": "Für die geplante Smooth-Criminal-Nummer entsteht eine filmische Gangsterwelt. In der Vorbereitung werden Michael Jacksons neu aufgenommene Bilder mit älterem Filmmaterial verbunden, darunter Gilda mit Rita Hayworth. Die Sequenz zeigt, dass die Bühnenshow auch mit dem Kino als Bildquelle arbeitet. Archivbilder und neu gedrehte Szenen bilden zusammen eine Einspielung, die Jacksons Auftritt in eine andere filmische Umgebung versetzt.",
-      "anchor": "Smooth Criminal verbindet die Bühnenshow mit Gildas Kinobildern.",
       "interest": "Der konkrete Filmeinsatz erschließt eine gestalterische Verbindung der Show.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Smooth Criminal verbindet die Bühnenshow mit Gildas Kinobildern."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Der Wald des Mädchens wird zerstört.",
       "context": "Die für Earth Song vorbereitete Filmeinspielung zeigt ein Mädchen in einer zunächst lebendigen Waldlandschaft. Als sie erwacht, ist ihre Umgebung zerstört. Die Geschichte setzt den Umweltgedanken des Liedes in konkrete Bilder um. Im Dokumentarfilm wird dadurch sichtbar, wie eine Konzertnummer mit einer vorbereiteten Filmhandlung verbunden werden sollte. Die Waldzerstörung gehört zur Einspielung und ist keine Beobachtung am tatsächlichen Probenort.",
-      "anchor": "Die Waldzerstörung übersetzt Earth Songs Umweltmotiv in eine Filmhandlung.",
       "interest": "Ein prägnantes Motiv wird von den übrigen Konzertnummern getrennt geprüft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Waldzerstörung übersetzt Earth Songs Umweltmotiv in eine Filmhandlung."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Human Nature erscheint in drei unterschiedlich begleiteten Probenfassungen.",
       "context": "Bei Human Nature zeigt der Film Michael Jackson in unterschiedlichen musikalischen Probensituationen: ohne Begleitung, mit Keyboard und mit vollständiger Band. Die Ausschnitte machen die Arbeit an einer Nummer sichtbar, statt nur deren fertig aufgeführte Form zu präsentieren. Das Nebeneinander der Fassungen lässt erkennen, wie sich dieselbe Stimme in verschiedenen Klangumgebungen bewegt. Die Varianten gehören zur Montage der Proben, nicht zu drei Londoner Konzertabenden.",
-      "anchor": "Stimme allein → Keyboard → volle Band: eine Nummer in verschiedenen Probenformen.",
       "interest": "Das musikalische Probendetail erklärt die besondere Beobachtungsperspektive des Films.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Stimme allein → Keyboard → volle Band: eine Nummer in verschiedenen Probenformen."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Die Thriller-Einspielung wird für stereoskopische 3D-Wiedergabe vorbereitet.",
       "context": "Die Thriller-Einspielung gehört zu den vorbereiteten Filmteilen der Show. Michael Jackson und Kenny Ortega betrachten das Material mit 3D-Brillen, bevor die Nummer in den Proben weiter ausgestaltet wird. Damit ergänzt die geplante Aufführung den Tanz durch stereoskopische Kinobilder. Der Dokumentarfilm zeigt die Entwicklung dieser Einspielung; er dokumentiert weder einen bereits gespielten Londoner Konzertabend noch eine neue vollständige Spielfilmfassung von Thriller.",
-      "anchor": "Die 3D-Brillen zeigen die stereoskopische Planung der Thriller-Einspielung.",
       "interest": "Ein konkret belegtes Verfahren erklärt die Verbindung von Film und geplanter Bühne.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die 3D-Brillen zeigen die stereoskopische Planung der Thriller-Einspielung."
     },
     {
       "code": "Y",
@@ -174,12 +174,12 @@
       ],
       "short": "2008 High School Musical 3, 2009 This Is It: ein Jahr.",
       "context": "This Is It wurde 2009 veröffentlicht. High School Musical 3: Senior Year erschien 2008, also ein Jahr zuvor. Kenny Ortega führte bei beiden Filmen Regie, doch die Aufgaben unterschieden sich: Hier montierte er Proben mit Michael Jackson, dort inszenierte er ein fiktionales Kinomusical. Der Werkvergleich verbindet zwei datierte Arbeiten desselben Regisseurs und ordnet den Dokumentarfilm zeitlich nach dessen früherem Musical ein.",
-      "anchor": "2008 Kinomusical, 2009 Jackson-Probenfilm: ein Jahr.",
       "interest": "Zwei verwandte musikalische Regiearbeiten bilden einen konkreten Jahresanker.",
       "sources": [
         "premiere",
         "vergleich"
-      ]
+      ],
+      "objective": "2008 Kinomusical, 2009 Jackson-Probenfilm: ein Jahr."
     },
     {
       "code": "D",
@@ -198,11 +198,11 @@
       ],
       "short": "Kenny Ortega verantwortet die Filmregie.",
       "context": "Kenny Ortega arbeitete mit Michael Jackson an der geplanten Bühnenshow und übernahm anschließend auch die Filmregie. Sonys Septembermitteilung trennt beide Aufgaben ausdrücklich, obwohl sie dieselbe Person betreffen. Der Dokumentarfilm entstand aus dem vorhandenen Probenmaterial. Die Arbeit an einer Konzertinszenierung und die Gestaltung des späteren Films greifen deshalb ineinander, ergeben aber zwei unterschiedliche Formen, in denen die Zuschauer Jacksons Arbeit erleben könnten.",
-      "anchor": "Ortega gestaltet die geplante Bühne und den daraus entstandenen Film.",
       "interest": "Der Hauptregiecredit wird anhand einer offiziellen Studiomitteilung geklärt.",
       "sources": [
         "premiere"
-      ]
+      ],
+      "objective": "Ortega gestaltet die geplante Bühne und den daraus entstandenen Film."
     }
   ]
 }

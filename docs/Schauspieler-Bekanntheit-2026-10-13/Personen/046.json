@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Antonius Block spielt mit dem Tod Schach.",
       "context": "Der heimkehrende Ritter versucht, Zeit zu gewinnen und eine Antwort auf seine Glaubenszweifel zu finden. Von Sydows ernste, kontrollierte Präsenz hält die Begegnung zwischen Mensch und Allegorie zusammen. Das berühmte Bild ist deshalb mehr als ein ungewöhnlicher Wettkampf: Es macht das Nachdenken über Sterblichkeit unmittelbar sichtbar.",
-      "anchor": "Von Sydows Ritter gewinnt beim Schach Zeit gegen den Tod.",
       "interest": "Das bekannteste Bild erschließt seine frühe internationale Wirkung.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-ART-05-01",
       "variant_of": "ART-L-009",
-      "knowledge_note": "Identisches Ziel: das Schachspiel gegen den Tod."
+      "knowledge_note": "Identisches Ziel: das Schachspiel gegen den Tod.",
+      "objective": "Von Sydows Ritter gewinnt beim Schach Zeit gegen den Tod."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 1,
       "short": "Von Sydow spielt Pater Lankester Merrin.",
       "context": "Merrin kommt als erfahrener Exorzist zur Hilfe, während der jüngere Karras mit persönlichen und religiösen Zweifeln ringt. Die beiden Figuren haben unterschiedliche Aufgaben. Von Sydows große Ruhe und sein gealtertes Erscheinungsbild lassen Merrin als jemanden wirken, der die Gefahr bereits kennt.",
-      "anchor": "Von Sydow ist der erfahrene Pater Merrin.",
       "interest": "Zwei zentrale Priesterrollen werden voneinander unterschieden.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films"
-      ]
+      ],
+      "objective": "Von Sydow ist der erfahrene Pater Merrin."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 2,
       "short": "Die Zusammenarbeit mit Ingmar Bergman prägte seinen frühen Filmruhm.",
       "context": "Bergman setzte von Sydow für sehr unterschiedliche Figuren ein: Ihre gemeinsamen Arbeiten verhandeln Glauben, Kunst und die Folgen von Gewalt. Die ernste Erscheinung des Darstellers durfte dabei nicht nur Autorität ausstrahlen. Sie konnte ebenso Unsicherheit, Selbsttäuschung und moralischen Zusammenbruch sichtbar machen.",
-      "anchor": "Von Sydows frühe Filmkunst ist eng mit Bergman verbunden.",
       "interest": "Die Frage ordnet einzelne Rollen einer wichtigen künstlerischen Zusammenarbeit zu.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       "films": [],
       "extraSources": [
         "https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films"
-      ]
+      ],
+      "objective": "Von Sydows frühe Filmkunst ist eng mit Bergman verbunden."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 3,
       "short": "Lasse ist Pelles Vater.",
       "context": "Vater und Sohn kommen aus Schweden auf die dänische Insel Bornholm. Die Hoffnung auf ein besseres Leben trifft auf harte Arbeitsbedingungen und soziale Demütigung. Von Sydow zeigt einen Vater, dessen Würde nicht mit uneingeschränkter Stärke zusammenfällt; er möchte Schutz geben und stößt doch selbst an Grenzen.",
-      "anchor": "Lasse versucht, Pelle in einer fremden Arbeitswelt Halt zu geben.",
       "interest": "Die Beziehung verbindet eine späte Hauptrolle mit dem Thema Migration.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films"
-      ]
+      ],
+      "objective": "Lasse versucht, Pelle in einer fremden Arbeitswelt Halt zu geben."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 0,
       "short": "Maskenbildner Dick Smith schuf das deutlich gealterte Erscheinungsbild.",
       "context": "Von Sydow war zur Zeit des Films erheblich jünger als Merrin. Die Maske vermittelt Lebenserfahrung, bevor er viel über seine Vergangenheit sagt. Zusammen mit Körperhaltung und ruhiger Stimme entsteht eine Figur, deren Alter als dramatische Information funktioniert und nicht dem tatsächlichen Lebensalter des Schauspielers entspricht.",
-      "anchor": "Merrins Alter ist eine gemeinsam gestaltete Filmillusion.",
       "interest": "Die Frage verbindet Maskenhandwerk mit schauspielerischer Rollenwirkung.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films"
-      ]
+      ],
+      "objective": "Merrins Alter ist eine gemeinsam gestaltete Filmillusion."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 1,
       "short": "Die Geschichte führt aus Småland nach Minnesota.",
       "context": "Troell folgt Bauern und religiösen Außenseitern auf ihrem Weg aus Armut und Enge in eine neue Existenz. Die beiden Filme verbinden Aufbruch mit dem mühsamen Aufbau eines Lebens in Amerika. Von Sydow und Ullmann tragen eine lange Entwicklung, in der Hoffnung und Verlust zusammengehören.",
-      "anchor": "Troells Auswanderer verlassen Schweden und bauen in Minnesota neu auf.",
       "interest": "Zwei Rollen werden als zusammenhängende Lebensgeschichte verstanden.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films"
-      ]
+      ],
+      "objective": "Troells Auswanderer verlassen Schweden und bauen in Minnesota neu auf."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 2,
       "short": "Vogler gibt sich lange als stumm aus.",
       "context": "Der Künstler wird von einem wissenschaftlichen Skeptiker als möglicher Scharlatan geprüft. Von Sydow muss die Spannung deshalb über Gesicht, Haltung und die Reaktionen anderer tragen. Das scheinbare Schweigen gehört zum Machtkampf um Illusion und Entlarvung und macht den Körper selbst zum Ort der Darstellung.",
-      "anchor": "Voglers Schweigen steht im Zentrum einer Prüfung seiner Kunst.",
       "interest": "Eine ungewöhnliche Rollenaufgabe erklärt den Ausdruck jenseits gesprochener Sätze.",
       "feedback": [
         "",
@@ -195,7 +194,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films"
-      ]
+      ],
+      "objective": "Voglers Schweigen steht im Zentrum einer Prüfung seiner Kunst."
     },
     {
       "code": "E2",
@@ -209,7 +209,6 @@
       "correct": 3,
       "short": "Der zunächst ängstliche Musiker wird selbst zum Täter.",
       "context": "Zu Beginn lebt das Paar abseits der Politik und hofft, sich heraushalten zu können. Der Krieg zerstört diese Distanz. Von Sydow zeigt den moralischen Abstieg nicht als Entfaltung einer von Anfang an offenkundigen Brutalität, sondern als erschreckende Veränderung eines scheinbar unkriegerischen Menschen.",
-      "anchor": "Jans Rückzug vor der Gewalt verhindert seine eigene Verrohung nicht.",
       "interest": "Die Rollenentwicklung erschließt Bergmans Kritik an der vermeintlich sicheren Zuschauerposition.",
       "feedback": [
         "",
@@ -222,7 +221,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/max-von-sydow-10-essential-films"
-      ]
+      ],
+      "objective": "Jans Rückzug vor der Gewalt verhindert seine eigene Verrohung nicht."
     }
   ]
 }

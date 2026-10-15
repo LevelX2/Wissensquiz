@@ -66,7 +66,6 @@ Wie heißt die Gouverneurstochter, die Keira Knightley in „Fluch der Karibik�
 
 Elizabeth Swann (Keira Knightley) wird aus Port Royal entführt. Will Turner (Orlando Bloom), der sie seit seiner Kindheit kennt, schließt sich daraufhin Jack Sparrow (Johnny Depp) an. Ihre Rettung verbindet die zunächst unterschiedlichen Interessen der beiden Männer: Will sucht Elizabeth, während Jack sein Schiff zurückhaben will. Die Gouverneurstochter ist damit selbst ein entscheidender Teil des Abenteuers.
 
-**Merksatz:** Knightleys Gouverneurstochter heißt Elizabeth Swann.
 
 **Quellen:** [Beleg 1](https://movies.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl)
 
@@ -83,7 +82,6 @@ Elizabeth Swann (Keira Knightley) wird aus Port Royal entführt. Will Turner (Or
 
 Will Turner (Orlando Bloom) begegnet Jack Sparrow (Johnny Depp) in einer Schmiede. Seine Arbeit erklärt, weshalb er mit Klingen umgehen kann, obwohl er noch kein erfahrener Pirat ist. Aus einem jungen Handwerker wird im Verlauf des Films ein Mann, der Regeln der Obrigkeit bricht, um Elizabeth Swann (Keira Knightley) zu retten. Der Beruf verankert seinen Ausgangspunkt in Port Royal.
 
-**Merksatz:** Wills Weg beginnt bei der Schmiede.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
 
@@ -100,7 +98,6 @@ Will Turner (Orlando Bloom) begegnet Jack Sparrow (Johnny Depp) in einer Schmied
 
 Elizabeth Swann (Keira Knightley) verbirgt ihren wirklichen Nachnamen und nennt sich Turner. Hector Barbossa (Geoffrey Rush) bringt diesen Namen mit dem verschwundenen Piraten Bootstrap Bill in Verbindung. Zusammen mit dem Goldmedaillon führt die falsche Angabe zu einer entscheidenden Fehleinschätzung: Die Piraten halten Elizabeth für die gesuchte Angehörige, deren Blut ihnen helfen soll. Ein Schutzversuch verschärft so ihre Gefahr.
 
-**Merksatz:** Elizabeths Deckname Turner lenkt Barbossa auf die falsche Person.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
 
@@ -117,7 +114,6 @@ Elizabeth Swann (Keira Knightley) verbirgt ihren wirklichen Nachnamen und nennt 
 
 Elizabeth Swann (Keira Knightley) nutzt den Rum als Brennstoff für ein auffälliges Feuer. Jack Sparrow (Johnny Depp) ärgert sich über den Verlust seines Vorrats; Elizabeth denkt dagegen an die vorbeifahrende Marine und an ihre Rettung. Die Szene macht ihren Einfallsreichtum sichtbar. Sie wartet nicht auf einen Ausweg, den Jack organisiert, sondern verwandelt seine Vorräte in ein brauchbares Signal.
 
-**Merksatz:** Rum wird zum Signalfeuer.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
 
@@ -134,7 +130,6 @@ Elizabeth Swann (Keira Knightley) nutzt den Rum als Brennstoff für ein auffäll
 
 Will Turner (Orlando Bloom) ist Bootstrap Bills Sohn. Zur Erlösung müssen die geraubten Goldstücke zurückgebracht und die Blutbeiträge der beteiligten Räuber geleistet werden. Weil Bootstrap Bill fehlt, suchen die Piraten seine Nachkommen. Will verbindet damit die private Suche nach Elizabeth Swann (Keira Knightley) mit der Geschichte des verfluchten Schatzes. Seine Abstammung ist ein Bestandteil der Auflösung und kein bloßes Familiengeheimnis.
 
-**Merksatz:** Fehlendes Gold und fehlendes Blut: Will steht für Bootstrap Bill.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl)
 
@@ -151,7 +146,6 @@ Welche Vorlage stand am Anfang von „Fluch der Karibik“, bevor daraus eine Ki
 
 Die Themenparkattraktion existierte lange vor Jack Sparrow (Johnny Depp). Erst später wurde aus ihrer Piratenwelt ein Kinofilm mit eigener Handlung und Figuren. Nach dem Erfolg der Filme wirkten Elemente der Kinoreihe wiederum auf die Attraktionen zurück. Diese Entwicklung zeigt einen ungewöhnlichen Weg der Adaption: Ein räumliches Erlebnis lieferte den Ausgangspunkt für Geschichten, die danach das ursprüngliche Erlebnis mitprägten.
 
-**Merksatz:** Erst die Attraktion, dann der Film, dann Filmfiguren in der Attraktion.
 
 **Quellen:** [Beleg 1](https://disneyparksblog.com/disney-experiences/yo-ho-yo-ho-the-pirates-conquest-from-disneyland-to-the-big-screen/)
 
@@ -168,7 +162,6 @@ In welchem Jahr kam der erste Film „Fluch der Karibik“ erstmals heraus?
 
 Der erste Film erschien 2003. Disney datiert den US-Kinostart auf den 9. Juli. Das Filmjahr bezeichnet hier die Veröffentlichung des konkreten ersten Werks, nicht den Beginn der Themenparkattraktion. Jack Sparrow (Johnny Depp), Will Turner (Orlando Bloom) und Elizabeth Swann (Keira Knightley) bilden dessen zentrale Figuren. Spätere Fortsetzungen gehören zu eigenen Veröffentlichungsjahren.
 
-**Merksatz:** Fluch der Karibik: 2003.
 
 **Quellen:** [Beleg 1](https://movies.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl)
 
@@ -185,7 +178,6 @@ Wer inszenierte den ersten Kinofilm „Fluch der Karibik“?
 
 Gore Verbinski führte beim ersten Film Regie. Der Film verbindet die Rettung einer entführten Gouverneurstochter mit einem verfluchten Piratenschatz. Jack Sparrow (Johnny Depp) sucht dabei die Black Pearl, während Will Turner (Orlando Bloom) Elizabeth Swann (Keira Knightley) retten will. Die Komik ihrer ungleichen Partnerschaft steht neben Seegefechten und fantastischen Verwandlungen. Der Regiecredit bezieht sich auf dieses erste Werk.
 
-**Merksatz:** Fluch der Karibik – Gore Verbinski.
 
 **Quellen:** [Beleg 1](https://movies.disney.com/pirates-of-the-caribbean-the-curse-of-the-black-pearl)
 
@@ -210,7 +202,6 @@ Welchen Beruf hat Evelyn Carnahan (Rachel Weisz) zu Beginn von „Die Mumie“?
 
 Evelyn Carnahan (Rachel Weisz) arbeitet in einer Bibliothek und bringt Kenntnisse alter Schrift und ägyptischer Geschichte in die Expedition ein. Rick O’Connell (Brendan Fraser) ergänzt sie mit praktischer Abenteuererfahrung. Dadurch entsteht ein ungleiches Team: Ihr Wissen erschließt den Ort, birgt aber auch Gefahr, sobald sie einen Text aus dem falschen Buch laut vorliest. Die Bücher bleiben bis zur Lösung entscheidend.
 
-**Merksatz:** Evelyn beginnt zwischen Büchern.
 
 **Quellen:** [Beleg 1](https://www.universalpicturesathome.com/movies/the-mummy-1999)
 
@@ -227,7 +218,6 @@ Wer war Imhotep (Arnold Vosloo), bevor er in „Die Mumie“ zum verfluchten Unt
 
 Imhotep (Arnold Vosloo) gehört zur Vorgeschichte des Films. Seine verbotene Beziehung zu Anck-su-namun (Patricia Velásquez) und der Tod des Pharaos führen zu seiner grausamen Bestrafung. Jahrhunderte später entdeckt eine Expedition sein Grab. Die Bedrohung ist deshalb mehr als ein zufällig erwachendes Monster: Der Untote verfolgt eine persönliche Absicht, die aus seinem früheren Leben stammt und andere Menschen gefährdet.
 
-**Merksatz:** Hinter der Mumie steht der Hohepriester Imhotep.
 
 **Quellen:** [Beleg 1](https://www.universalpicturesathome.com/movies/the-mummy-1999), [Beleg 2](https://en.wikipedia.org/wiki/The_Mummy_(1999_film))
 
@@ -244,7 +234,6 @@ Was tut Evelyn (Rachel Weisz), wodurch Imhotep in „Die Mumie“ wieder erwacht
 
 Evelyn Carnahan (Rachel Weisz) kann die alte Schrift lesen, unterschätzt jedoch die Wirkung des Textes. Mit dem Vorlesen aus dem Buch der Toten macht sie aus einer archäologischen Expedition einen Kampf gegen Imhotep (Arnold Vosloo). Ihr Fachwissen ist damit zunächst Teil des Problems. Später wird es ebenso wichtig für die Lösung, als die Gruppe ein anderes Buch gegen den Untoten einsetzen muss.
 
-**Merksatz:** Ein gelesener Text erweckt den Toten.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Mummy_(1999_film))
 
@@ -261,7 +250,6 @@ Evelyn Carnahan (Rachel Weisz) kann die alte Schrift lesen, unterschätzt jedoch
 
 Ardeth Bay (Oded Fehr) und die Medjai erscheinen den Reisenden zunächst als Gegner. Ihre Warnungen richten sich jedoch gegen das Öffnen eines gefährlichen Grabes. Als Imhotep (Arnold Vosloo) erwacht, wird ihre Schutzaufgabe verständlich. Rick O’Connell (Brendan Fraser) und Evelyn Carnahan (Rachel Weisz) müssen deshalb ihr Urteil über die Bewacher ändern. Aus einem Hindernis für die Schatzsuche entsteht ein notwendiger Verbündeter.
 
-**Merksatz:** Die Grabwächter bewachen eine Gefahr für alle.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Mummy_(1999_film))
 
@@ -278,7 +266,6 @@ Ardeth Bay (Oded Fehr) und die Medjai erscheinen den Reisenden zunächst als Geg
 
 Evelyn Carnahan (Rachel Weisz) liest aus dem goldenen Buch und nimmt Imhotep (Arnold Vosloo) seine Unsterblichkeit. Erst dadurch kann Rick O’Connell (Brendan Fraser) ihn mit einer gewöhnlichen Waffe tödlich treffen. Der Film trennt somit die magische Voraussetzung von der körperlichen Auseinandersetzung. Die Rettung gelingt durch das Zusammenwirken von Sprachwissen und Kampf, nicht durch einen einzigen besonders starken Schlag.
 
-**Merksatz:** Erst sterblich machen, dann im Kampf besiegen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Mummy_(1999_film))
 
@@ -295,7 +282,6 @@ Evelyn Carnahan (Rachel Weisz) liest aus dem goldenen Buch und nimmt Imhotep (Ar
 
 Imhotep (Arnold Vosloo) kehrt zunächst als zerfallener Körper zurück. Die Männer, die die kanopischen Gefäße öffnen, geraten gezielt ins Visier, weil er ihre körperliche Substanz zur Wiederherstellung braucht. Diese Abfolge erklärt, weshalb die Bedrohung mit jedem Opfer zunimmt. Die Gefäße sind damit keine austauschbaren Grabbeigaben: Ihre Öffnung verknüpft die Schatzsucher unmittelbar mit dem Verfall und der erneuten Macht des Priesters.
 
-**Merksatz:** Die Gefäßöffner liefern dem Untoten seinen Körper zurück.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Mummy_(1999_film))
 
@@ -312,7 +298,6 @@ Wann wurde „Die Mumie“ mit Brendan Fraser und Rachel Weisz erstmals veröffe
 
 Diese Fassung erschien 1999. Die eindeutige Besetzung unterscheidet sie vom älteren Universal-Film und von der späteren Neuverfilmung. Rick O’Connell (Brendan Fraser) und Evelyn Carnahan (Rachel Weisz) bilden das Abenteurerpaar; Imhotep (Arnold Vosloo) ist der wiedererweckte Hohepriester. Das Veröffentlichungsjahr gilt für dieses konkrete Werk. Ein gemeinsamer deutscher Titel macht andere Mumienfilme nicht zur selben Fassung.
 
-**Merksatz:** Die Mumie: 1999.
 
 **Quellen:** [Beleg 1](https://www.universalpicturesathome.com/movies/the-mummy-1999)
 
@@ -329,7 +314,6 @@ Wer führte bei „Die Mumie“ mit Brendan Fraser und Rachel Weisz Regie?
 
 Stephen Sommers inszenierte diese Mumienfassung. Sie führt eine Expedition nach Hamunaptra und verbindet Archäologie mit komischem Abenteuer und übernatürlicher Bedrohung. Evelyn Carnahan (Rachel Weisz) erschließt alte Texte, Rick O’Connell (Brendan Fraser) bewältigt praktische Gefahren. Beide Fähigkeiten werden gebraucht. Der Regiecredit hilft, das konkrete Werk mit dieser Besetzung von den anderen Filmen unter dem deutschen Titel „Die Mumie“ zu unterscheiden.
 
-**Merksatz:** Die Mumie – Stephen Sommers.
 
 **Quellen:** [Beleg 1](https://www.universalpicturesathome.com/movies/the-mummy-1999)
 
@@ -354,7 +338,6 @@ Was arbeitet Nathan Drake (Tom Holland), bevor Sully ihn in „Uncharted“ für
 
 Nathan Drake (Tom Holland) verdient sein Geld an einer Bar und bestiehlt wohlhabende Gäste. Victor Sullivan (Mark Wahlberg) erkennt in ihm Fähigkeiten, die für die Schatzsuche nützlich sind. Nate startet deshalb als gewandter Gelegenheitsdieb und noch nicht als erfahrener Abenteurer. Das Angebot verbindet eine Aussicht auf Reichtum mit einer persönlichen Spur zu seinem vermissten Bruder Sam.
 
-**Merksatz:** Nate beginnt hinter dem Tresen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Uncharted_(film))
 
@@ -371,7 +354,6 @@ Mit wessen Expedition verbindet „Uncharted“ den gesuchten Goldschatz?
 
 Nathan Drake (Tom Holland) und Victor Sullivan (Mark Wahlberg) verfolgen Hinweise auf einen verschwundenen Schatz aus Magellans Expedition. Santiago Moncada (Antonio Banderas) beansprucht ihn wegen der Finanzierung durch seine Familie. Der Film verbindet also ein historisches Seefahrtsmotiv mit einer modernen Konkurrenz um Besitz. Die historischen Namen dienen der fiktiven Schatzgeschichte; der dargestellte Goldfund ist kein dokumentierter archäologischer Nachweis.
 
-**Merksatz:** Magellans Reise liefert die Spur zum fiktiven Gold.
 
 **Quellen:** [Beleg 1](https://www.sonypictures.com/movies/uncharted)
 
@@ -388,7 +370,6 @@ Die goldenen Kreuze sind in „Uncharted“ mehr als Sammlerstücke. Wozu brauch
 
 Nathan Drake (Tom Holland), Chloe Frazer (Sophia Ali) und Victor Sullivan (Mark Wahlberg) folgen in Barcelona einer Spur durch eine Kirche und verborgene Räume. Erst beide Kreuze ermöglichen den Zugang zum nächsten Hinweis. Ihr Wert liegt damit nicht allein im Gold. Was bei einer Auktion wie ein begehrtes Kunstobjekt erscheint, wird im Verlauf der Suche zu einem funktionierenden Bestandteil des Rätsels.
 
-**Merksatz:** Die Kreuze sind wertvoll, weil sie etwas öffnen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Uncharted_(film))
 
@@ -405,7 +386,6 @@ Nathan Drake (Tom Holland), Chloe Frazer (Sophia Ali) und Victor Sullivan (Mark 
 
 Nathan Drake (Tom Holland) bewahrt Postkarten seines verschwundenen Bruders Sam auf. Erst spät begreift er, dass die Nachrichten mehr enthalten als einen persönlichen Gruß. Aus ihnen erschließt er die wirkliche Lage des Schatzes, nachdem die erbeutete Karte noch keine ausreichende Lösung bietet. Die Verbindung zum Bruder verändert dadurch die Schatzsuche: Nates Erinnerung und Aufmerksamkeit bringen ihn weiter als die bloße Besitznahme einer Karte.
 
-**Merksatz:** Sams Grüße werden zu Koordinaten.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Uncharted_(film))
 
@@ -422,7 +402,6 @@ Was wird im Finale von „Uncharted“ durch Hubschrauber aus dem Versteck gehob
 
 Nathan Drake (Tom Holland) entdeckt die alten Schiffe und ihren Schatz. Die Verfolger transportieren jedoch nicht nur einige Truhen ab, sondern heben die Schiffe mit Hubschraubern an. Dadurch verwandelt sich ein historischer Fund in einen beweglichen Schauplatz für den letzten Kampf. Victor Sullivan (Mark Wahlberg) übernimmt einen Hubschrauber, während Nate auf dem angehängten Schiff den Angreifern entkommen muss.
 
-**Merksatz:** Aus versunkenen Schatzschiffen werden fliegende Kampfschauplätze.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Uncharted_(film))
 
@@ -439,7 +418,6 @@ Was tut Sully (Mark Wahlberg), als Braddock Nate im Finale von „Uncharted“ b
 
 Victor Sullivan (Mark Wahlberg) erscheint lange als Partner, dessen Zuverlässigkeit vom Gewinn abhängt. Als Jo Braddock (Tati Gabrielle) Nathan Drake (Tom Holland) bedroht, setzt Sully das bereits eingesammelte Gold gegen sie ein. Damit entscheidet er sich praktisch für den Menschen und gegen einen größeren Teil der Beute. Der Rettungsmoment verändert die Bedeutung ihrer Partnerschaft nach den früheren Lügen über Nates Bruder.
 
-**Merksatz:** Sully wirft das Gold weg und gewinnt Vertrauen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Uncharted_(film))
 
@@ -456,7 +434,6 @@ In welchem Jahr wurde der Kinofilm „Uncharted“ mit Tom Holland erstmals ver�
 
 Der Kinofilm wurde 2022 veröffentlicht. Die offizielle PlayStation-Ankündigung nennt den Kinostart in diesem Jahr. Frühere Planungen und Dreharbeiten ändern das erste Veröffentlichungsjahr nicht. Filmdienst führt für die Produktion 2021, während das hier verwendete Filmjahr die öffentliche Veröffentlichung bezeichnet. Tom Holland spielt den jungen Nathan Drake und Mark Wahlberg dessen zunächst wenig vertrauenswürdigen Partner Victor Sullivan.
 
-**Merksatz:** Uncharted: 2022.
 
 **Quellen:** [Beleg 1](https://blog.playstation.com/2021/10/21/world-premiere-of-uncharted-movie-trailer/), [Beleg 2](https://www.sonypictures.com/movies/uncharted)
 
@@ -473,7 +450,6 @@ Wer führte bei der Kinofassung „Uncharted“ mit Tom Holland und Mark Wahlber
 
 Ruben Fleischer inszenierte den veröffentlichten Kinofilm. Die offizielle PlayStation-Ankündigung nennt ihn als Regisseur der Zusammenarbeit von Sony Pictures, PlayStation Productions und Naughty Dog. Das Projekt hatte zuvor mehrere Entwicklungsphasen mit anderen Beteiligten. Für die Zuordnung zählt der Credit des fertigen Films mit Nathan Drake (Tom Holland) und Victor Sullivan (Mark Wahlberg), nicht eine frühere Ankündigung während der Vorbereitung.
 
-**Merksatz:** Uncharted – Ruben Fleischer.
 
 **Quellen:** [Beleg 1](https://blog.playstation.com/2021/10/21/world-premiere-of-uncharted-movie-trailer/), [Beleg 2](https://en.wikipedia.org/wiki/Uncharted_(film))
 
@@ -498,7 +474,6 @@ Was steckt in Disneys „20.000 Meilen unter dem Meer“ tatsächlich hinter dem
 
 Professor Pierre Aronnax (Paul Lukas), Conseil (Peter Lorre) und Ned Land (Kirk Douglas) suchen zunächst ein unbekanntes Wesen. Stattdessen gelangen sie an Bord der Nautilus und begegnen Kapitän Nemo (James Mason). Die Entdeckung verändert die Art des Abenteuers: Hinter dem Rätsel steckt technische Macht. Die Gäste müssen nun nicht nur Gefahren des Meeres verstehen, sondern auch die Absichten des Mannes, der das Boot beherrscht.
 
-**Merksatz:** Das Ungeheuer ist ein Boot.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51389)
 
@@ -515,7 +490,6 @@ Welche besondere Tätigkeit beherrscht Ned Land (Kirk Douglas) in „20.000 Meil
 
 Ned Land (Kirk Douglas) gehört zur Suche nach dem vermeintlichen Seeungeheuer, weil er mit einer Harpune umgehen kann. Auf der Nautilus wird seine praktische, auf Freiheit gerichtete Haltung zum Gegenpol der wissenschaftlichen Neugier von Professor Pierre Aronnax (Paul Lukas). Ned lässt sich vom technischen Wunder weniger leicht mitreißen. Er will nicht dauerhaft an Bord bleiben, sondern einen Weg zurück in die Außenwelt finden.
 
-**Merksatz:** Ned bringt die Harpune und den Freiheitsdrang mit.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51389)
 
@@ -532,7 +506,6 @@ Warum greift Nemo (James Mason) in „20.000 Meilen unter dem Meer“ bestimmte 
 
 Kapitän Nemo (James Mason) hat durch Gewalt und Gefangenschaft seine Familie verloren. Er verbirgt deshalb seine technische Macht vor den Mächten der Oberfläche und bekämpft deren Transporte. Professor Pierre Aronnax (Paul Lukas) ist vom Unterseeboot fasziniert, muss aber die tödlichen Folgen dieser Haltung sehen. Der Film verbindet Nemos nachvollziehbare Ablehnung der Unterdrückung mit der Frage nach den Grenzen seiner eigenen Vergeltung.
 
-**Merksatz:** Nemos Gegner handeln mit Waffen und Menschen.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51389)
 
@@ -549,7 +522,6 @@ Kapitän Nemo (James Mason) hat durch Gewalt und Gefangenschaft seine Familie ve
 
 Ned Land (Kirk Douglas) will die Nautilus verlassen und widersetzt sich Kapitän Nemo (James Mason). Beim Kalmarangriff handelt er dennoch, um dessen Leben zu retten. Die Hilfe beseitigt ihren grundsätzlichen Konflikt nicht: Dankbarkeit macht eine unfreiwillige Gefangenschaft nicht zu einer freiwilligen Reise. Die Szene verbindet eine spektakuläre körperliche Gefahr mit den widersprüchlichen Beziehungen der Männer an Bord des Unterseeboots.
 
-**Merksatz:** Ned bekämpft Nemos Gefangenschaft und rettet trotzdem sein Leben.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51389)
 
@@ -566,7 +538,6 @@ Ned Land (Kirk Douglas) will die Nautilus verlassen und widersetzt sich Kapitän
 
 Kapitän Nemo (James Mason) will seine Energiequelle nicht den Kriegsführenden an der Oberfläche überlassen. Die Disney-Fassung deutet den Antrieb ausdrücklich als Atomenergie. Dadurch gewinnt die ältere Abenteueridee eine Verbindung zu den technischen und politischen Ängsten ihrer Entstehungszeit. Professor Pierre Aronnax (Paul Lukas) sieht ein wissenschaftliches Wunder; Nemo fürchtet zugleich, dass dieselbe Entdeckung erneut zur Unterdrückung und Zerstörung eingesetzt werden könnte.
 
-**Merksatz:** Die Nautilus birgt ein Atomgeheimnis.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51389)
 
@@ -583,7 +554,6 @@ Kapitän Nemo (James Mason) will seine Energiequelle nicht den Kriegsführenden 
 
 Der Disney-Archivbeitrag beschreibt Probleme der ursprünglichen Kalmaraufnahme: Die Drähte waren sichtbar, die Mechanik bereitete Schwierigkeiten und die ruhige Abendstimmung minderte die Gefahr. Die umgestaltete Nacht im Sturm half, die technische Konstruktion zu verbergen und den Kampf dramatischer wirken zu lassen. Ein praktisches Problem der Spezialeffekte führte so zu einer anderen Bildidee, die die Handlung zugleich spannender machte.
 
-**Merksatz:** Der Sturm ist auch ein Trick, der den Trick verbirgt.
 
 **Quellen:** [Beleg 1](https://d23.com/when-squids-attack/)
 
@@ -600,7 +570,6 @@ Wann erschien Disneys Realverfilmung „20.000 Meilen unter dem Meer“ mit Jame
 
 Die Disney-Realverfilmung erschien 1954. AFI nennt den 23. Dezember als US-Veröffentlichungsdatum. Diese Zeitangabe gehört zur Fassung mit Kapitän Nemo (James Mason) und Ned Land (Kirk Douglas). Der Jules-Verne-Stoff selbst ist wesentlich älter und wurde auch in anderen Fassungen bearbeitet. Für das Filmjahr zählt hier die erste Veröffentlichung dieser konkreten Produktion, nicht das Erscheinungsjahr der literarischen Vorlage.
 
-**Merksatz:** 20.000 Meilen unter dem Meer: 1954.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51389)
 
@@ -617,7 +586,6 @@ Wer inszenierte Disneys Realverfilmung „20.000 Meilen unter dem Meer“ mit Ja
 
 Richard Fleischer führte Regie. Walt Disney steht für die Produktion, ist jedoch nicht der Hauptregisseur dieser Realverfilmung. Der Film stellt die technische Faszination der Nautilus neben Nemos Gewalt gegen die Schifffahrt. Ned Land (Kirk Douglas) sucht Freiheit, während Professor Pierre Aronnax (Paul Lukas) das neue Wissen bewahren will. Die Inszenierung verbindet diese gegensätzlichen Interessen mit aufwendig gestalteten Unterwasserabenteuern.
 
-**Merksatz:** 20.000 Meilen unter dem Meer – Richard Fleischer.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51389)
 
@@ -642,7 +610,6 @@ Für welches Unternehmen arbeitet Chuck Noland (Tom Hanks) in „Cast Away – V
 
 Chuck Noland (Tom Hanks) organisiert zu Beginn die Arbeit eines internationalen Paketdienstes. Seine berufliche Welt folgt Fristen, Transportwegen und Terminen. Nach dem Flugzeugabsturz muss er ohne diese Ordnung auskommen. Pakete aus dem abgestürzten Flugzeug stranden jedoch mit ihm und werden zu nützlichen Gegenständen. Der Film führt damit Materialien aus seiner früheren Arbeit in einen Alltag ein, in dem ihre ursprüngliche Bestimmung kaum noch zählt.
 
-**Merksatz:** Vom weltweiten Paketnetz zur einsamen Insel.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -659,7 +626,6 @@ Was ist Wilson, Chucks Gesprächspartner auf der Insel in „Cast Away – Versc
 
 Chuck Noland (Tom Hanks) findet den Volleyball in der angespülten Fracht. Aus einem blutigen Handabdruck entsteht ein Gesicht, und aus dem Sportgerät wird für ihn Wilson. Chuck spricht mit dem Ball, streitet mit ihm und behandelt ihn wie einen Gefährten. Die Einsamkeit erhält dadurch eine sichtbare Form. Der Name stammt von der Marke des Balls, nicht von einem weiteren überlebenden Passagier.
 
-**Merksatz:** Wilson ist der Ball, der zum Gefährten wird.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -676,7 +642,6 @@ Chuck Noland (Tom Hanks) findet den Volleyball in der angespülten Fracht. Aus e
 
 Chuck Noland (Tom Hanks) öffnet fast alle angespülten Pakete und nutzt ihre Inhalte auf unerwartete Weise. Das Paket mit den Flügeln behandelt er anders. Nach seiner Rückkehr versucht er, es doch noch abzuliefern. Es verbindet seine frühere Arbeit mit der Zeit auf der Insel und seinem weiteren Weg. Der Film verrät nicht durch eine sichere Inhaltsangabe, was sich in der ungeöffneten Sendung befindet.
 
-**Merksatz:** Die Flügel bleiben verschlossen und reisen weiter.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -693,7 +658,6 @@ Chuck Noland (Tom Hanks) öffnet fast alle angespülten Pakete und nutzt ihre In
 
 Chuck Noland (Tom Hanks) hat lange keine Aussicht, die gefährliche Brandung zu überwinden. Erst ein angeschwemmtes Kunststoffteil verändert seine Möglichkeiten. Er nutzt es als Segel und verbindet es mit einem selbstgebauten Floß. Die Flucht beruht damit nicht auf einem plötzlich gefundenen fertigen Boot. Ein Alltagsgegenstand erhält eine neue Funktion, weil Chuck seine Umgebung inzwischen nach Material und Einsatzmöglichkeiten lesen kann.
 
-**Merksatz:** Die Toilettenwand wird zum Segel.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -710,7 +674,6 @@ Warum wurde der Dreh von „Cast Away – Verschollen“ für ungefähr ein Jahr
 
 Die Produktion nahm zunächst die frühere Phase der Geschichte auf. Für den späteren, deutlich abgemagerten Chuck Noland (Tom Hanks) folgte eine lange Unterbrechung, in der Hanks Gewicht verlor und Haare und Bart wachsen ließ. Robert Zemeckis drehte währenddessen „Schatten der Wahrheit“. Der sichtbare Zeitsprung wurde somit durch einen bewusst geteilten Produktionsablauf unterstützt und nicht allein durch Maske oder digitale Veränderung erzeugt.
 
-**Merksatz:** Der Zeitsprung auf der Insel hatte eine echte Drehpause.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -727,7 +690,6 @@ Die Produktion nahm zunächst die frühere Phase der Geschichte auf. Für den sp
 
 William Broyles Jr. bereitete das Drehbuch auch mit einer praktischen Überlebensrecherche vor. Dabei fand er einen angeschwemmten Volleyball und entwickelte daraus einen vorstellbaren Gesprächspartner. Diese Erfahrung ging in Wilson ein, den Chuck Noland (Tom Hanks) auf der Insel mit einem Gesicht versieht. Der markante Einfall verbindet deshalb eine konkrete Recherchebeobachtung mit einer filmisch sichtbaren Antwort auf Einsamkeit und fehlenden menschlichen Austausch.
 
-**Merksatz:** Ein echter Strandfund wurde zur Idee für Wilson.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -744,7 +706,6 @@ In welchem Jahr wurde „Cast Away – Verschollen“ erstmals veröffentlicht?
 
 „Cast Away“ erschien 2000. AFI nennt den 22. Dezember als US-Kinostart. Der lange, unterbrochene Dreh darf dabei nicht mit einer Veröffentlichung verwechselt werden. Chuck Noland (Tom Hanks) durchlebt im Film mehrere Jahre auf einer Insel; diese erzählte Zeit ist ebenfalls kein Filmjahr. Für die zeitliche Einordnung wird die erste öffentliche Veröffentlichung des fertigen Werks verwendet.
 
-**Merksatz:** Cast Away – Verschollen: 2000.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -761,7 +722,6 @@ Wer führte bei „Cast Away – Verschollen“ mit Tom Hanks die Hauptregie?
 
 Robert Zemeckis führte die Hauptregie. Der detaillierte AFI-Credit unterscheidet ihn ausdrücklich von Steve Starkey in der Second Unit. Die Produktion wurde für die körperliche Veränderung von Chuck Noland (Tom Hanks) geteilt. Zemeckis drehte während der Pause einen anderen Film. Die Hauptregie wird deshalb anhand des fertigen Filmcredits zugeordnet; ein zusätzlicher technischer Regiecredit macht daraus keine gemeinsame Hauptregie.
 
-**Merksatz:** Cast Away – Verschollen – Robert Zemeckis.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/61089-CAST-AWAY)
 
@@ -786,7 +746,6 @@ Für welche Marine fährt Jack Aubrey (Russell Crowe) mit der Surprise in „Mas
 
 Jack Aubrey (Russell Crowe) führt die britische Fregatte Surprise während der napoleonischen Kriege. Sein Auftrag ist die Verfolgung eines gefährlichen französischen Gegners. Das Schiff bildet dabei eine kleine Gesellschaft mit Offizieren, einfachen Seeleuten und jungen angehenden Offizieren. Die militärische Zugehörigkeit erklärt den Auftrag und die strenge Ordnung an Bord. Hinter dem Abenteuer steht ein Konflikt zwischen europäischen Mächten auf weit entfernten Meeren.
 
-**Merksatz:** Aubrey kommandiert eine britische Fregatte.
 
 **Quellen:** [Beleg 1](https://cinema.com/articles/2504/master-and-commander-production-notes.phtml)
 
@@ -803,7 +762,6 @@ Jack Aubrey (Russell Crowe) führt die britische Fregatte Surprise während der 
 
 Stephen Maturin (Paul Bettany) behandelt Verletzungen und Krankheiten auf der Surprise. Er ist außerdem ein naturkundlich interessierter Mann und ein enger Freund von Jack Aubrey (Russell Crowe). Seine medizinische Verantwortung gibt ihm eine andere Sicht auf Verluste und Risiken als dem Kapitän. Ihre Freundschaft hält deshalb nicht alle Konflikte fern: Wissenschaft, Gesundheit der Mannschaft und militärischer Auftrag können unterschiedliche Entscheidungen verlangen.
 
-**Merksatz:** Maturin heilt, Aubrey kommandiert.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/521491/master-and-commander-bis-ans-ende-der-welt)
 
@@ -820,7 +778,6 @@ Stephen Maturin (Paul Bettany) behandelt Verletzungen und Krankheiten auf der Su
 
 Stephen Maturin (Paul Bettany) sieht im Aufenthalt auf Galápagos eine seltene Gelegenheit zur Forschung. Jack Aubrey (Russell Crowe) gewichtet die Verfolgung des französischen Schiffes stärker. Die Inseln werden dadurch zum konkreten Schauplatz eines Konflikts ihrer Prioritäten. Beide handeln aus nachvollziehbaren Aufgaben heraus. Ihr Streit lässt erkennen, wie schwer persönliche Versprechen und wissenschaftliche Neugier mit einem militärischen Auftrag vereinbar sein können.
 
-**Merksatz:** Galápagos bedeutet Forschung für Maturin und Verzögerung für Aubrey.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/521491/master-and-commander-bis-ans-ende-der-welt), [Beleg 2](https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World)
 
@@ -837,7 +794,6 @@ Wie wird Maturins (Paul Bettany) Schussverletzung in „Master and Commander“ 
 
 Stephen Maturin (Paul Bettany) wird versehentlich angeschossen. Seine Verletzung zwingt Jack Aubrey (Russell Crowe), die Inseln doch anzulaufen. Weil Maturin der erfahrenste Arzt an Bord ist, übernimmt er die Operation an sich selbst und nutzt einen Spiegel, um die Wunde zu sehen. Die Szene macht die medizinischen Grenzen des Schiffsalltags anschaulich und verändert zugleich den Ablauf des militärischen Auftrags.
 
-**Merksatz:** Der Arzt muss sich selbst operieren und braucht einen Spiegel.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World)
 
@@ -854,7 +810,6 @@ Stephen Maturin (Paul Bettany) wird versehentlich angeschossen. Seine Verletzung
 
 Jack Aubrey (Russell Crowe) greift eine naturkundliche Beobachtung aus dem Umfeld von Stephen Maturin (Paul Bettany) auf: Ein Insekt schützt sich durch eine Gestalt, die mit seiner Umgebung verwechselt wird. Die Surprise erscheint danach als ungefährlicher Walfänger und lockt den stärkeren Gegner näher heran. Aus dem früheren Streit zwischen militärischem Nutzen und Forschung entsteht so eine unerwartete Verbindung beider Interessen.
 
-**Merksatz:** Maturins Naturkunde wird zu Aubreys Tarnung.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World)
 
@@ -871,7 +826,6 @@ Wer erhielt bei den Oscars 2004 für „Master and Commander“ den Preis für d
 
 Die Academy zeichnete Russell Boyd für die Kamera von „Master and Commander“ aus. Die Verleihung fand 2004 statt, während der Film bereits 2003 erschien. Diese beiden Jahresangaben bezeichnen unterschiedliche Ereignisse. In der offiziellen Liste steht außerdem ein zweiter Gewinn für den Film: Richard King erhielt den Preis für Tonschnitt. Kamera und Tonschnitt haben eigene verantwortliche Künstler und bilden unterschiedliche Wissensziele.
 
-**Merksatz:** Film 2003, Kamera-Oscar 2004: Russell Boyd.
 
 **Quellen:** [Beleg 1](https://www.oscars.org/oscars/ceremonies/2004)
 
@@ -888,7 +842,6 @@ Wann wurde „Master and Commander – Bis ans Ende der Welt“ erstmals veröff
 
 Der Film erschien 2003. Die Oscarverleihung, bei der er ausgezeichnet wurde, folgte 2004 und bezeichnet deshalb kein anderes Filmjahr. Jack Aubrey (Russell Crowe) und Stephen Maturin (Paul Bettany) gehören zur Welt der Romanfiguren von Patrick O’Brian. Die dargestellte Reise spielt während der napoleonischen Kriege. Erzählzeit, literarische Vorgeschichte und Veröffentlichung des Kinofilms müssen bei der Einordnung getrennt betrachtet werden.
 
-**Merksatz:** Master and Commander – Bis ans Ende der Welt: 2003.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/521491/master-and-commander-bis-ans-ende-der-welt), [Beleg 2](https://www.oscars.org/oscars/ceremonies/2004)
 
@@ -905,7 +858,6 @@ Wer inszenierte „Master and Commander – Bis ans Ende der Welt“?
 
 Peter Weir führte Regie und arbeitete mit John Collee am Drehbuch. Die veröffentlichten Produktionsnotizen erläutern die Verbindung zu Patrick O’Brians Romanwelt und den Aufwand für einen glaubwürdigen Schiffsalltag. Der Film stellt Jack Aubrey (Russell Crowe) und Stephen Maturin (Paul Bettany) als Freunde mit unterschiedlichen Aufgaben nebeneinander. Naturforschung, medizinische Verantwortung und Kriegsauftrag werden dadurch zu persönlichen Konflikten innerhalb derselben Reise.
 
-**Merksatz:** Master and Commander – Bis ans Ende der Welt – Peter Weir.
 
 **Quellen:** [Beleg 1](https://cinema.com/articles/2504/master-and-commander-production-notes.phtml)
 
@@ -930,7 +882,6 @@ Wessen Roman lieferte die Vorlage für „Die Reise zum Mittelpunkt der Erde“ 
 
 Jules Verne entwarf die unterirdische Reise als literarisches Abenteuer. Die Filmfassung mit Professor Oliver Lindenbrook (James Mason) und Alec McEwen (Pat Boone) bearbeitet diese Vorlage frei. Sie verändert Figuren und ergänzt eine weibliche Teilnehmerin der Expedition. Eine Literaturadaption muss deshalb nicht jedes Detail des Buches übernehmen. Entscheidend für diese Zuordnung ist die Herkunft der Reiseidee aus Vernes Roman.
 
-**Merksatz:** Die Reise unter die Erde beginnt bei Jules Verne.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -947,7 +898,6 @@ Jules Verne entwarf die unterirdische Reise als literarisches Abenteuer. Die Fil
 
 Professor Oliver Lindenbrook (James Mason) findet Hinweise auf einen früheren Reisenden und folgt ihnen nach Island. Dort schließt sich eine kleine Expedition zusammen, bevor sie in den vulkanischen Untergrund aufbricht. Die Insel ist somit der Übergang aus einer vertrauten europäischen Welt in das fantastische Innere der Erde. Der Weg führt später weit über den ursprünglichen Einstieg hinaus und endet nicht einfach am selben Krater.
 
-**Merksatz:** Island ist das Tor nach unten.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -964,7 +914,6 @@ Professor Oliver Lindenbrook (James Mason) findet Hinweise auf einen früheren R
 
 Alec McEwen (Pat Boone) schenkt Professor Oliver Lindenbrook (James Mason) ein ungewöhnliches Stück Gestein. Beim Untersuchen entdeckt der Professor darin einen Hinweis auf Arne Saknussemm und eine mögliche Route in das Erdinnere. Der Film macht aus einem alltäglichen Schreibtischgegenstand den Anfang einer großen Expedition. Wissenschaftliche Aufmerksamkeit verändert den Wert des Fundes: Entscheidend ist nicht das Geschenk als Dekoration, sondern was darin verborgen liegt.
 
-**Merksatz:** Im Papierbeschwerer steckt der Wegweiser.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -981,7 +930,6 @@ Alec McEwen (Pat Boone) schenkt Professor Oliver Lindenbrook (James Mason) ein u
 
 Carla Göteborg (Arlene Dahl) ist die Witwe eines ebenfalls an der Expedition interessierten Wissenschaftlers. Nach seinem Tod verfügt sie über die benötigte Ausrüstung und lässt sich nicht auf die Rolle einer zurückbleibenden Helferin beschränken. Professor Oliver Lindenbrook (James Mason) muss ihre Teilnahme akzeptieren. Die Filmfigur ergänzt die Vorlage und bringt einen Konflikt um Mitsprache und Zugehörigkeit in die Vorbereitung der Abenteuerreise.
 
-**Merksatz:** Carla gibt die Ausrüstung nur mit eigener Teilnahme.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -998,7 +946,6 @@ Durch welchen Vulkan gelangen die Reisenden am Ende von „Die Reise zum Mittelp
 
 Professor Oliver Lindenbrook (James Mason) und seine Begleiter finden keinen bequemen Rückweg zu ihrem ursprünglichen Eingang. Nach den unterirdischen Entdeckungen wird ein vulkanischer Schlot zum Ausweg. Ein improvisierter Sprengversuch und die Kräfte des Vulkans führen sie durch Stromboli nach oben. Die Reise bildet so keine bloße Hin- und Rückwanderung: Der Ausgang liegt in einer anderen Region als der Abstieg auf Island.
 
-**Merksatz:** Island hinein, Stromboli hinaus.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -1015,7 +962,6 @@ Warum mussten die Aufnahmen in den Carlsbad Caverns für „Die Reise zum Mittel
 
 Die Produktion nutzte reale Höhlen in New Mexico, um der fantastischen Reise eine greifbare Umgebung zu geben. AFI beschreibt die Beschränkung auf Nachtaufnahmen in den Carlsbad Caverns, weil tagsüber Besucher durch die Anlage geführt wurden. Der Drehplan folgte damit dem Betrieb eines echten Ortes. Nicht jede unterirdische Welt wurde im Studio gebaut; vorhandene Landschaft konnte selbst zum Teil der Filmillusion werden.
 
-**Merksatz:** Echte Höhlen, echte Besucher, deshalb Nachtarbeit.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -1032,7 +978,6 @@ In welchem Jahr erschien „Die Reise zum Mittelpunkt der Erde“ mit James Maso
 
 Die Fassung mit James Mason und Pat Boone erschien 1959. AFI führt eine New Yorker Eröffnung im Dezember dieses Jahres an. Der Film greift eine viel ältere literarische Reiseidee auf und ist von späteren Verfilmungen zu unterscheiden. Professor Oliver Lindenbrook (James Mason) ist die Hauptfigur dieser konkreten Produktion. Der gemeinsame deutsche Titel allein reicht deshalb nicht aus, um das Veröffentlichungsjahr eindeutig festzulegen.
 
-**Merksatz:** Die Reise zum Mittelpunkt der Erde: 1959.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -1049,7 +994,6 @@ Wer führte bei „Die Reise zum Mittelpunkt der Erde“ mit James Mason und Pat
 
 Henry Levin führte bei der Fassung mit James Mason Regie. Der Film adaptiert Jules Verne mit veränderten Figuren und einer erweiterten Expeditionsgruppe. Carla Göteborg (Arlene Dahl) verlangt eine eigene Teilnahme, bevor sie die Ausrüstung zur Verfügung stellt. Reale Höhlenaufnahmen und künstlich gestaltete Entdeckungen verbinden sich zur unterirdischen Reise. Der konkrete Regiecredit unterscheidet diese Produktion von anderen Verne-Verfilmungen und von späteren Fassungen desselben Stoffes.
 
-**Merksatz:** Die Reise zum Mittelpunkt der Erde – Henry Levin.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52938-JOURNEY-TO-THE-CENTER-OF-THE-EARTH)
 
@@ -1074,7 +1018,6 @@ In welchem Verhältnis steht Passepartout (Cantinflas) zu Phileas Fogg (David Ni
 
 Phileas Fogg (David Niven) stellt Passepartout (Cantinflas) kurz vor Beginn der Reise ein. Der Diener bringt Beweglichkeit, praktische Einfälle und eine andere Haltung zum Alltag mit. Foggs strenge Ordnung stößt dadurch immer wieder auf unerwartete Situationen. Die gemeinsame Reise führt nicht nur durch wechselnde Landschaften. Sie lebt auch von den unterschiedlichen Fähigkeiten der beiden Männer, die unter Zeitdruck miteinander auskommen müssen.
 
-**Merksatz:** Fogg plant, sein Diener Passepartout improvisiert.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1091,7 +1034,6 @@ Phileas Fogg (David Niven) stellt Passepartout (Cantinflas) kurz vor Beginn der 
 
 Phileas Fogg (David Niven) erfährt in Paris, dass eine Lawine die geplante Route versperrt. Er lässt sich davon nicht aufhalten und kauft einen Ballon. Passepartout (Cantinflas) begleitet ihn auf dieser ungewöhnlichen Etappe, die in Spanien endet. Die Reise verlangt deshalb mehr als das Befolgen eines Fahrplans. Jeder Ausfall eines Verkehrsmittels stellt das Paar vor eine neue praktische Entscheidung unter der laufenden Wette.
 
-**Merksatz:** Die blockierte Strecke wird zur Ballonfahrt.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1108,7 +1050,6 @@ Phileas Fogg (David Niven) erfährt in Paris, dass eine Lawine die geplante Rout
 
 Inspector Fix (Robert Newton) verbindet Phileas Foggs (David Niven) plötzliche Abreise und sein mitgeführtes Geld mit einem Bankraub. Der Zuschauer kennt dagegen die Wette als Grund der Reise. Aus diesem Wissensunterschied entstehen zusätzliche Hindernisse und Komik. Fix’ hartnäckige Verfolgung gefährdet den Zeitplan, obwohl sie auf einer falschen Deutung beruht. Die Weltreise wird dadurch gleichzeitig als Abenteuer und als vermeintliche Flucht betrachtet.
 
-**Merksatz:** Für Fix ist die Weltreise eine Bankräuberflucht.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1125,7 +1066,6 @@ Inspector Fix (Robert Newton) verbindet Phileas Foggs (David Niven) plötzliche 
 
 Phileas Fogg (David Niven) und Passepartout (Cantinflas) unterbrechen ihren Wettlauf, um Aouda (Shirley MacLaine) zu retten. Passepartout nutzt dabei eine Verkleidung in der Bestattungszeremonie. Aouda wird anschließend Teil der Reisegruppe. Der Film zeigt damit eine Entscheidung, bei der die Menschlichkeit vor dem möglichst schnellen Vorankommen steht. Zugleich entsteht eine Beziehung, die Foggs streng geregeltes Leben über die reine Wette hinaus verändert.
 
-**Merksatz:** Die Reise wird für Aoudas Rettung unterbrochen.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1142,7 +1082,6 @@ Phileas Fogg (David Niven) und Passepartout (Cantinflas) unterbrechen ihren Wett
 
 Phileas Fogg (David Niven) zählt die Reisetage, ohne den Datumswechsel bei der vollständigen Umrundung korrekt zu berücksichtigen. Weil er nach Osten reist, ist seine eigene Rechnung gegenüber dem Kalender in London um einen Tag versetzt. Der vermeintliche Misserfolg wird deshalb im letzten Moment korrigiert. Die Auflösung entsteht aus dem Verlauf der Reise selbst und nicht aus einer nachträglichen Änderung der Wettbedingungen.
 
-**Merksatz:** Ostwärts um die Welt: Der fehlende Tag ist ein gewonnener Tag.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1159,7 +1098,6 @@ Welche frühe Kinoarbeit zeigt der von Edward R. Murrow eingeführte Prolog von 
 
 Bevor Phileas Fogg (David Niven) aufbricht, führt Edward R. Murrow in ein Programm über technischen Fortschritt ein. Bilder aus Georges Méliès’ früher Mondreise stehen neben moderner Raketentechnik. Der Prolog stellt damit eine Verbindung zwischen fantastischer Vorstellung und späteren technischen Möglichkeiten her. Die Weltreise wird in eine Geschichte des Reisens und des Kinos eingebettet, statt ohne Einleitung nur mit der Wette zu beginnen.
 
-**Merksatz:** Vor der Weltreise steht Méliès’ Mondreise.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1176,7 +1114,6 @@ Wann erschien „In 80 Tagen um die Welt“ mit David Niven und Cantinflas erstm
 
 Diese Verfilmung erschien 1956; AFI nennt die New Yorker Premiere am 17. Oktober. David Niven spielt Phileas Fogg und Cantinflas dessen Reisebegleiter Passepartout. Die literarische Vorlage und spätere Verfilmungen haben andere Entstehungsdaten. Auch die Handlungszeit der Weltreise gehört nicht zum Filmjahr. Die eindeutige Besetzung schützt hier vor einer Verwechslung mit dem wesentlich späteren Film unter demselben deutschen Titel.
 
-**Merksatz:** In 80 Tagen um die Welt: 1956.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1193,7 +1130,6 @@ Wer führte bei „In 80 Tagen um die Welt“ mit David Niven und Cantinflas Reg
 
 Michael Anderson führte Regie; Michael Todd war der Produzent. Diese Rollen sind im Filmcredit getrennt. Die Produktion macht aus Jules Vernes Reise eine Folge großer Schauplätze, wechselnder Verkehrsmittel und zahlreicher Auftritte bekannter Darsteller. Phileas Fogg (David Niven) und Passepartout (Cantinflas) halten die Episoden als ungleiches Reisepaar zusammen. Der gesuchte Credit betrifft die Inszenierung dieser konkreten Fassung und nicht den Urheber des Romans.
 
-**Merksatz:** In 80 Tagen um die Welt – Michael Anderson.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Catalog/moviedetails/51739)
 
@@ -1218,7 +1154,6 @@ Was ist Adrien Dufourquet (Jean-Paul Belmondo), bevor sein Urlaub in „Abenteue
 
 Adrien Dufourquet (Jean-Paul Belmondo) möchte während seines Heimaturlaubs Agnès Villermosa (Françoise Dorléac) sehen. Ihre Entführung verwandelt die kurze freie Zeit in eine Reise nach Brasilien. Er ist deshalb kein planmäßig arbeitender Schatzsucher. Der Film gewinnt seine Dynamik daraus, dass ein scheinbar gewöhnlicher Soldat ohne umfassende Vorbereitung in ein Abenteuer gerät, das weit von seinem vorgesehenen Urlaubsort entfernt liegt.
 
-**Merksatz:** Ein kurzer Soldatenurlaub wird zum Brasilienabenteuer.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/That_Man_from_Rio)
 
@@ -1235,7 +1170,6 @@ Was treibt Adrien (Jean-Paul Belmondo) dazu, in „Abenteuer in Rio“ nach Bras
 
 Agnès Villermosa (Françoise Dorléac) wird entführt, weil sie mit einer Suche nach kostbaren Statuetten verbunden ist. Adrien Dufourquet (Jean-Paul Belmondo) folgt ihrer Spur nach Brasilien. Die Schatzsuche entsteht für ihn also aus einer Rettungsmission und nicht aus einem anfänglichen Wunsch nach Reichtum. Dadurch kann er immer neue Hindernisse überwinden, ohne selbst alle Hintergründe der Jagd schon zu kennen.
 
-**Merksatz:** Adrien sucht zuerst Agnès, nicht einen Schatz.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/That_Man_from_Rio)
 
@@ -1252,7 +1186,6 @@ Agnès Villermosa (Françoise Dorléac) wird entführt, weil sie mit einer Suche
 
 Sir Winston (Ubiracy de Oliveira) ist ein junger Schuhputzer in Rio. Sein großer Name führt leicht in die Irre, seine Hilfe ist dagegen sehr praktisch. Adrien Dufourquet (Jean-Paul Belmondo) kann sich in der fremden Umgebung nicht allein auf offizielle Stellen verlassen und braucht einen Menschen, der den Alltag vor Ort kennt. Das ungleiche Gespann bringt eine zusätzliche komische Ebene in die Rettungssuche.
 
-**Merksatz:** Sir Winston hat keinen Adelstitel nötig, um zu helfen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/That_Man_from_Rio)
 
@@ -1269,7 +1202,6 @@ In welcher brasilianischen Stadt nutzt „Abenteuer in Rio“ große Baustellen 
 
 Adrien Dufourquet (Jean-Paul Belmondo) folgt der Spur nach Brasília. Die junge Hauptstadt erscheint mit unfertigen Gebäuden und ausgedehnten Baustellen. Die moderne Architektur liefert dadurch mehr als einen touristischen Hintergrund: Sie wird zur Umgebung für riskante Bewegungen und Verfolgungen. Neben Rio und der späteren Suche in der Natur zeigt der Film eine andere brasilianische Landschaft, die gerade erst entsteht.
 
-**Merksatz:** Brasília macht eine unfertige Stadt zum Abenteuerraum.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/That_Man_from_Rio)
 
@@ -1286,7 +1218,6 @@ Adrien Dufourquet (Jean-Paul Belmondo) folgt der Spur nach Brasília. Die junge 
 
 Professor Catalan (Jean Servais) erscheint zunächst als Fachmann aus dem Umfeld von Agnès Villermosas (Françoise Dorléac) Vater. Sein Wissen macht ihn glaubwürdig, verbirgt aber seine Bereitschaft zu Mord und Entführung. Adrien Dufourquet (Jean-Paul Belmondo) muss deshalb eine Person neu beurteilen, die zunächst zur Aufklärung zu gehören scheint. Die Enthüllung verbindet den wissenschaftlichen Hinweisgeber mit der Gier, die die ganze Suche antreibt.
 
-**Merksatz:** Der Kenner der Statuetten ist auch der Täter.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/That_Man_from_Rio)
 
@@ -1303,7 +1234,6 @@ Wie verraten die drei zusammengebrachten Statuetten in „Abenteuer in Rio“ de
 
 Die gesuchten Statuetten sind nicht einfach drei kostbare Einzelstücke. Erst ihre Kombination und richtige Ausrichtung zeigen den verborgenen Weg. Professor Catalan (Jean Servais) braucht deshalb alle Teile und das passende Wissen. Die Suche verbindet verstreute Besitzer, Entführung und Reise in einer gemeinsamen Rätselkette. Der Fund selbst beendet die Gefahr nicht: Die Gier des Suchenden führt bis in den letzten Abschnitt des Abenteuers.
 
-**Merksatz:** Drei Statuetten bündeln die Spur im Sonnenlicht.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/That_Man_from_Rio)
 
@@ -1320,7 +1250,6 @@ In welchem Jahr wurde „Abenteuer in Rio“ mit Jean-Paul Belmondo erstmals ver
 
 „Abenteuer in Rio“ wurde 1964 erstmals veröffentlicht. Filmdienst führt 1963 als Produktionsjahr; diese Angabe bezeichnet einen anderen Abschnitt der Entstehung. Jean-Paul Belmondo spielt Adrien Dufourquet und Françoise Dorléac dessen Verlobte Agnès Villermosa. Ihre Rettung führt den Helden von einem geplanten Urlaub nach Brasilien. Für das Filmjahr wird die Veröffentlichung verwendet, damit ein Produktionsdatum nicht stillschweigend zum Kinostart wird.
 
-**Merksatz:** Abenteuer in Rio: 1964.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/That_Man_from_Rio), [Beleg 2](https://www.filmdienst.de/film/details/7416/abenteuer-in-rio)
 
@@ -1337,7 +1266,6 @@ Wer führte bei „Abenteuer in Rio“ mit Jean-Paul Belmondo und Françoise Dor
 
 Philippe de Broca führte Regie. Jean-Paul Belmondo spielt einen Soldaten, dessen kurzer Urlaub zur Rettungsreise wird. Die Filmhandlung verbindet komische Irrtümer mit Entführungen, Stunts und einer Suche nach Statuetten. Rio, das junge Brasília und die spätere Naturkulisse liefern unterschiedliche Räume für diese Bewegung. Der konkrete Credit hilft, diesen Film innerhalb des französischen Abenteuerkinos von anderen Belmondo-Arbeiten und Schatzsucherfilmen zu unterscheiden.
 
-**Merksatz:** Abenteuer in Rio – Philippe de Broca.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/7416/abenteuer-in-rio)
 
@@ -1362,7 +1290,6 @@ Wo suchen Manu (Alain Delon) und Roland (Lino Ventura) in „Die Abenteurer“ d
 
 Manu Borelli (Alain Delon) und Roland Darbant (Lino Ventura) erleben zunächst Rückschläge bei ihren eigenen Vorhaben. Gemeinsam mit Laetitia Weiss (Joanna Shimkus) brechen sie zur Schatzsuche vor Afrika auf. Ein abgestürztes Flugzeug soll einen großen Reichtum enthalten. Die Aussicht verbindet ihre gescheiterten Träume mit einem neuen gemeinsamen Plan. Sie sind jedoch nicht die einzigen Menschen, die von der verschwundenen Beute wissen.
 
-**Merksatz:** Der neue Traum liegt in einem Flugzeug unter Wasser.
 
 **Quellen:** [Beleg 1](https://adrc-asso.org/patrimoine/diffusion/films-et-cycles/les-aventuriers)
 
@@ -1379,7 +1306,6 @@ Manu Borelli (Alain Delon) und Roland Darbant (Lino Ventura) erleben zunächst R
 
 Laetitia Weiss (Joanna Shimkus) versucht zunächst, mit ihrer Kunst einen eigenen Weg zu finden. Ihre Ausstellung bleibt ohne den erhofften Erfolg. Auch Manu Borelli (Alain Delon) und Roland Darbant (Lino Ventura) scheitern mit ihren Projekten. Die gemeinsame Reise führt damit drei enttäuschte Menschen zusammen. Laetitia ist nicht nur eine Begleitung zweier Schatzsucher, sondern bringt eigene Wünsche und Vorstellungen in die Freundschaft ein.
 
-**Merksatz:** Drei gescheiterte Projekte führen drei Menschen zusammen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Last_Adventure_(1967_film))
 
@@ -1396,7 +1322,6 @@ Welches riskante Flugkunststück will Manu (Alain Delon) zu Beginn von „Die Ab
 
 Manu Borelli (Alain Delon) will mit einem spektakulären Flug durch den Pariser Triumphbogen Aufmerksamkeit gewinnen. Das Vorhaben bringt ihm jedoch keinen neuen Erfolg, sondern den Verlust seiner Fluglizenz. Roland Darbant (Lino Ventura) und Laetitia Weiss (Joanna Shimkus) kennen ebenfalls enttäuschte Hoffnungen. Die Schatzsuche entsteht aus dieser gemeinsamen Lage. Das Anfangsprojekt erklärt dadurch, weshalb Manu bereit ist, einen ganz anderen riskanten Plan zu verfolgen.
 
-**Merksatz:** Manus großer Flugplan kostet ihn die Lizenz.
 
 **Quellen:** [Beleg 1](https://fr.wikipedia.org/wiki/Les_Aventuriers_(film,_1967))
 
@@ -1413,7 +1338,6 @@ Wie verabschieden Manu und Roland sich nach Laetitias Tod in „Die Abenteurer�
 
 Laetitia Weiss (Joanna Shimkus) stirbt bei der Auseinandersetzung mit den Söldnern. Manu Borelli (Alain Delon) und Roland Darbant (Lino Ventura) setzen sie in einem schweren Taucheranzug im Meer bei. Die Reise verändert dadurch ihren Charakter: Der gefundene Schatz steht neben einem endgültigen Verlust. Später geben die Freunde Laetitias Anteil weiter und verfolgen ihren Wunsch nach einem Leben am Meer auf andere Weise.
 
-**Merksatz:** Der Schatzfund endet mit einer Bestattung unter Wasser.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Last_Adventure_(1967_film))
 
@@ -1430,7 +1354,6 @@ Was verbindet „Die Abenteurer“ mit José Giovannis Film „La Loi du surviva
 
 Robert Enrico und Pierre Pelegri bearbeiteten für „Die Abenteurer“ den ersten Teil von José Giovannis gleichnamigem Roman. Den zweiten Teil brachte Giovanni selbst als „La Loi du survivant“ ins Kino. Der französische Filmkulturbeitrag von ADRC beschreibt diese ungewöhnliche Aufteilung. Zwei Produktionen können deshalb eine gemeinsame literarische Herkunft haben, ohne dieselbe Handlung zu erzählen oder eine gewöhnliche filmische Fortsetzung zu bilden.
 
-**Merksatz:** Ein Roman lieferte zwei verschiedene Filme.
 
 **Quellen:** [Beleg 1](https://adrc-asso.org/patrimoine/diffusion/films-et-cycles/les-aventuriers)
 
@@ -1447,7 +1370,6 @@ Welcher reale Ort wird in „Die Abenteurer“ zugleich zum geplanten Neubeginn 
 
 Roland Darbant (Lino Ventura) will ein altes Fort zu einem Ort für Gäste umbauen und damit Laetitia Weiss’ (Joanna Shimkus) Wunsch nach einem Leben am Meer weiterführen. Manu Borelli (Alain Delon) kommt dorthin zurück, gefolgt von den Söldnern. Das tatsächliche Fort Boyard verbindet so einen möglichen Neubeginn mit dem letzten gewaltsamen Konflikt. Ein schöner Traum und die Folgen der Schatzsuche treffen am selben Ort zusammen.
 
-**Merksatz:** Das Fort verspricht Zukunft und wird zum letzten Kampfplatz.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Last_Adventure_(1967_film)), [Beleg 2](https://fr.wikipedia.org/wiki/Les_Aventuriers_(film,_1967))
 
@@ -1464,7 +1386,6 @@ In welchem Jahr wurde „Die Abenteurer“ mit Alain Delon und Lino Ventura erst
 
 Der französische Kinostart war 1967. Filmdienst und ADRC führen 1966 als Produktionsjahr, was bei der Datierung eine leicht übersehene Unterscheidung erzeugt. Alain Delon spielt Manu Borelli, Lino Ventura Roland Darbant und Joanna Shimkus Laetitia Weiss. Die Frage bezieht sich auf die Veröffentlichung dieser französisch-italienischen Produktion. Ein Entstehungsjahr oder eine spätere Veröffentlichung in einem anderen Land ersetzt diesen ersten öffentlichen Start nicht.
 
-**Merksatz:** Die Abenteurer: 1967.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Last_Adventure_(1967_film)), [Beleg 2](https://boutique.arte.tv/detail/les-aventuriers)
 
@@ -1481,7 +1402,6 @@ Wer inszenierte „Die Abenteurer“ mit Alain Delon, Lino Ventura und Joanna Sh
 
 Robert Enrico führte Regie und bearbeitete mit Pierre Pelegri einen Teil von José Giovannis Roman. Der Film verbindet die Freundschaft dreier Menschen mit einer Schatzsuche, deren Folgen ihre Zukunft verändern. ADRC beschreibt Enricos Interesse an Außenaufnahmen statt Studioarbeit. Der Credit ist von Giovannis eigener Verfilmung des anderen Romanteils zu unterscheiden: Literarischer Autor und Regisseur dieses konkreten Films sind nicht dieselbe Person.
 
-**Merksatz:** Die Abenteurer – Robert Enrico.
 
 **Quellen:** [Beleg 1](https://adrc-asso.org/patrimoine/diffusion/films-et-cycles/les-aventuriers), [Beleg 2](https://www.filmdienst.de/film/details/7357/die-abenteurer)
 
@@ -1506,7 +1426,6 @@ Welche Waffe macht den Mord zu Beginn von „Basic Instinct“ so charakteristis
 
 Der Mord eröffnet die Ermittlungen von Nick Curran (Michael Douglas). Die ungewöhnliche Tatwaffe macht die Szene sofort wiedererkennbar. Catherine Tramell (Sharon Stone) gerät unter Verdacht, weil eine ähnliche Tötung bereits in einem ihrer Romane steht. Der Film verbindet damit von Anfang an eine körperliche Gewalttat mit der Frage, ob Literatur eine Tat beschreibt oder vorwegnimmt.
 
-**Merksatz:** Der Eispickel eröffnet den Fall.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/basic-instinct)
 
@@ -1523,7 +1442,6 @@ Catherine Tramell (Sharon Stone) steht in „Basic Instinct“ im Zentrum der Er
 
 Catherine Tramell (Sharon Stone) begegnet der Polizei als selbstbewusste Schriftstellerin. Ihr Beruf ist für den Fall wesentlich: Eine fiktive Mordhandlung scheint in der Wirklichkeit wiederzukehren. Nick Curran (Michael Douglas) muss deshalb sowohl ihre Nähe zum Opfer als auch die Bedeutung ihrer Texte prüfen. Der Verdacht entsteht aus einem Zusammenhang zwischen erfundener Geschichte und realem Verbrechen.
 
-**Merksatz:** Catherines Werkzeug ist auch der Roman.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/basic-instinct)
 
@@ -1540,7 +1458,6 @@ Warum wird ein Roman von Catherine Tramell (Sharon Stone) in „Basic Instinct�
 
 Catherine Tramell (Sharon Stone) hat einen Mord beschrieben, der der untersuchten Tat sehr nahekommt. Das macht sie verdächtig, eröffnet aber auch eine Möglichkeit der Nachahmung. Ein veröffentlichter Text ist anderen Menschen zugänglich. Für Nick Curran (Michael Douglas) bleibt deshalb offen, ob die Autorin selbst handelt oder ob jemand die Geschichte benutzt, um die Ermittlungen auf sie zu lenken.
 
-**Merksatz:** Eine passende Romanhandlung ist ein Indiz, kein Täterbeweis.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/basic-instinct), [Beleg 2](https://en.wikipedia.org/wiki/Basic_Instinct)
 
@@ -1557,7 +1474,6 @@ Wie verarbeitet Catherine Tramell (Sharon Stone) Nick Curran (Michael Douglas) i
 
 Nick Curran (Michael Douglas) wird für Catherine Tramell (Sharon Stone) zugleich Liebhaber, Ermittler und Material für einen Roman. Die fiktive Detective-Geschichte macht seine Nähe zu ihr besonders gefährlich: Eine Person, die den Fall aufklären soll, wird selbst Teil ihrer Erzählung. Der Film lässt dadurch private Beziehung, polizeiliche Beobachtung und mögliche Planung ineinander übergehen.
 
-**Merksatz:** Nick untersucht Catherine – und wird von ihr zur Figur gemacht.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Basic_Instinct)
 
@@ -1574,7 +1490,6 @@ Wer komponierte die Originalmusik zu „Basic Instinct“?
 
 Die Filmmusik stammt von Jerry Goldsmith; die Kamera führte Jan de Bont. Beide Aufgaben tragen zum sinnlichen und bedrohlichen Eindruck des Films bei, sind aber getrennte Credits. Regisseur Paul Verhoeven inszeniert die Geschichte nach einem Drehbuch von Joe Eszterhas. Das Zusammenspiel dieser Gewerke macht den Thriller auch über seine bekannte Verhörszene hinaus als gestaltetes Filmwerk interessant.
 
-**Merksatz:** Basic Instinct klingt nach Goldsmith.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/basic-instinct), [Beleg 2](https://www.filmdienst.de/film/details/46681/basic-instinct)
 
@@ -1591,7 +1506,6 @@ Was untergräbt in der letzten Einstellung von „Basic Instinct“ die Sicherhe
 
 Nach den Ermittlungen scheint der Verdacht auf Beth Garner (Jeanne Tripplehorn) zu weisen. Nick Curran (Michael Douglas) ist wieder mit Catherine Tramell (Sharon Stone) zusammen. Dann zeigt die Kamera die unter dem Bett verborgene Waffe. Diese zusätzliche Information widerspricht der Ruhe der Figuren: Das Publikum erhält einen letzten Anlass, die scheinbar abgeschlossene Erklärung des Falls zu bezweifeln.
 
-**Merksatz:** Die Figuren entspannen sich; das Schlussbild bewahrt den Verdacht.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Basic_Instinct)
 
@@ -1608,7 +1522,6 @@ In welchem Jahr wurde „Basic Instinct“ erstmals veröffentlicht?
 
 Die erste Veröffentlichung fällt ins Jahr 1992. Filmdienst führt die Produktion unter 1991; für diese Frage zählt das öffentliche Erscheinen des fertigen Films. Der Thriller verbindet einen Mordfall mit einer verdächtigen Schriftstellerin und einem persönlich verstrickten Ermittler. Bei Jahresfragen hilft diese Unterscheidung: Produktionsangaben und Veröffentlichungsjahr eines Werks müssen nicht identisch sein.
 
-**Merksatz:** Erste Veröffentlichung: 1992.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/basic-instinct), [Beleg 2](https://www.filmdienst.de/film/details/46681/basic-instinct)
 
@@ -1625,7 +1538,6 @@ Wer führte bei „Basic Instinct“ Regie?
 
 Paul Verhoeven führte bei Basic Instinct Regie. Catherine Tramell (Sharon Stone) steht unter Mordverdacht, während Nick Curran (Michael Douglas) ihr zugleich beruflich und persönlich nahekommt. Die Geschichte macht diese Nähe zum Risiko: Ermittlungsarbeit, Anziehung und mögliche Manipulation lassen sich für ihn nicht sauber trennen. Die Regiezuordnung erschließt damit den konkreten Film hinter der bekannten Konstellation von Detective und Verdächtiger.
 
-**Merksatz:** Regie: Paul Verhoeven.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/basic-instinct), [Beleg 2](https://en.wikipedia.org/wiki/Basic_Instinct)
 
@@ -1650,7 +1562,6 @@ Welchen Fall soll Teddy Daniels (Leonardo DiCaprio) bei seiner Ankunft in „Shu
 
 Teddy Daniels (Leonardo DiCaprio) reist als vermeintlicher US-Marshal mit einem Partner auf die Insel. Die Suche nach der fehlenden Patientin gibt ihm einen klaren Auftrag, während Personal und Umgebung immer mehr Fragen aufwerfen. Aus einer Ermittlung wird ein Misstrauen gegen die ganze Institution. Dieser Ausgangspunkt ist verständlich, bevor der Film seine tiefgreifenden Wendungen offenlegt.
 
-**Merksatz:** Die verschwundene Patientin ist der offizielle Anlass.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/shutter-island)
 
@@ -1667,7 +1578,6 @@ Welche Einrichtung bildet den wichtigsten Schauplatz von „Shutter Island“?
 
 Die Anstalt verbindet medizinische Behandlung und strenge Sicherung. Für Teddy Daniels (Leonardo DiCaprio) wird sie deshalb zum Ort möglicher Fürsorge und möglicher Bedrohung zugleich. Die Insel begrenzt Bewegungsfreiheit und Kontakt zur Außenwelt. Personal, Patienten und geschlossene Bereiche liefern ihm widersprüchliche Eindrücke, sodass seine Ermittlung zunehmend von der Frage geprägt wird, wem er dort vertrauen kann.
 
-**Merksatz:** Insel, Psychiatrie und Sicherung bilden den Schauplatz.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/shutter-island), [Beleg 2](https://www.filmdienst.de/film/details/534059/shutter-island)
 
@@ -1684,7 +1594,6 @@ Welche Kriegserfahrung kehrt in den Erinnerungen von Teddy Daniels (Leonardo DiC
 
 Die Erinnerungen von Teddy Daniels (Leonardo DiCaprio) verbinden die gegenwärtige Untersuchung mit Gewalt aus dem Krieg. Bilder aus Dachau kehren wieder und zeigen, dass er die Vergangenheit nicht hinter sich gelassen hat. Der Film stellt solche Erinnerungen neben Träume und gegenwärtige Wahrnehmungen. Dadurch wird deutlich, wie schwer es ihm fällt, innere Bilder und äußere Beobachtungen voneinander zu trennen.
 
-**Merksatz:** Dachau gehört zu Teddys traumatischer Vergangenheit.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shutter_Island_(film))
 
@@ -1701,7 +1610,6 @@ Was erschwert Teddy Daniels (Leonardo DiCaprio) und seinem Partner in „Shutter
 
 Teddy Daniels (Leonardo DiCaprio) und Chuck Aule (Mark Ruffalo) geraten bei ihrer Suche in einen schweren Sturm. Das Wetter macht die Insel körperlich bedrohlich und die Untersuchung schwieriger. Die äußere Unruhe begleitet Teddys wachsenden Verdacht gegen die Klinik. So trägt eine konkrete Naturgefahr zur Spannung bei, während der Film zugleich immer unsicherer macht, wie verlässlich seine Beobachtungen sind.
 
-**Merksatz:** Der Sturm verschärft die eingeschlossene Lage.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shutter_Island_(film))
 
@@ -1718,7 +1626,6 @@ Welchen Zweck hat das von den Ärzten organisierte Rollenspiel in „Shutter Isl
 
 Teddy Daniels (Leonardo DiCaprio) ist tatsächlich der Patient Andrew Laeddis. Sein vermeintlicher Kollege Chuck Aule (Mark Ruffalo) ist sein behandelnder Psychiater. Die Ärzte versuchen, ihn durch die ausgespielte Untersuchung zu seiner verdrängten Geschichte zurückzuführen. Die Enthüllung ändert damit rückwirkend den Sinn vieler Begegnungen: Was wie Behinderung einer Ermittlung wirkt, gehört zu einem medizinischen Versuch.
 
-**Merksatz:** Der Ermittlungsfall ist Teil eines therapeutischen Rollenspiels.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shutter_Island_(film))
 
@@ -1735,7 +1642,6 @@ Von wem stammt der gleichnamige Roman, auf dem „Shutter Island“ beruht?
 
 Laeta Kalogridis verfasste das Drehbuch nach Dennis Lehanes Roman. Die Verfilmung übernimmt den Inselaufenthalt und die Suche nach einer verschwundenen Patientin als Ausgangspunkt. Leonardo DiCaprio spielt Teddy Daniels, Mark Ruffalo dessen vermeintlichen Ermittlerpartner Chuck Aule. Das literarische Vorbild ist daher ein eigener Beitrag zur Geschichte; Autorenschaft und die Regie der Verfilmung sollten getrennt zugeordnet werden.
 
-**Merksatz:** Die Romanvorlage führt zu Dennis Lehane.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/shutter-island)
 
@@ -1752,7 +1658,6 @@ In welchem Jahr erschien die Verfilmung „Shutter Island“ erstmals öffentlic
 
 Shutter Island wurde 2010 erstmals öffentlich gezeigt und im Kino veröffentlicht. Die Produktionsangabe 2009 in manchen Katalogen bezeichnet einen anderen zeitlichen Bezug. Auch das Jahr 1954 innerhalb der Handlung ist davon zu trennen. Die Frage ordnet die Verfilmung ein, während der Film selbst eine frühere Epoche nutzt, um Ermittlungsarbeit, Kriegsfolgen und psychiatrische Behandlung miteinander zu verbinden.
 
-**Merksatz:** Erste Veröffentlichung: 2010.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shutter_Island_(film))
 
@@ -1769,7 +1674,6 @@ Wer inszenierte den Psychothriller „Shutter Island“?
 
 Martin Scorsese inszenierte Shutter Island nach dem Roman von Dennis Lehane. Der Film beginnt als Untersuchung einer verschwundenen Patientin auf einer abgeschlossenen Insel. Teddy Daniels (Leonardo DiCaprio) findet dort immer mehr Anlass, der Anstalt zu misstrauen. Die Regiezuordnung ergänzt diesen Ausgangspunkt um den Gestalter einer Erzählung, die ihre Informationen eng an die Wahrnehmung und Unsicherheit des Ermittlers bindet.
 
-**Merksatz:** Regie: Martin Scorsese.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/shutter-island)
 
@@ -1794,7 +1698,6 @@ Welchem Beruf geht Nicholas Van Orton (Michael Douglas) in „The Game“ nach?
 
 Nicholas Van Orton (Michael Douglas) verfügt über Geld und gesellschaftlichen Einfluss, wirkt aber emotional abgeschottet. Sein Bruder Conrad (Sean Penn) schenkt ihm zum Geburtstag einen ungewöhnlichen Gutschein. Das folgende Spiel dringt in den Alltag eines Mannes ein, der gewohnt ist, Kontrolle zu behalten. Seine finanzielle Sicherheit ist deshalb ein wichtiger Ausgangspunkt für den späteren Verlust dieser Kontrolle.
 
-**Merksatz:** Nicholas startet aus einer Welt des Geldes und der Kontrolle.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/28058-the-game)
 
@@ -1811,7 +1714,6 @@ Von wem bekommt Nicholas Van Orton (Michael Douglas) in „The Game“ den Gutsc
 
 Conrad (Sean Penn) überreicht Nicholas Van Orton (Michael Douglas) einen Gutschein zum Geburtstag. Für den verschlossenen Nicholas wirkt das zunächst wie ein sonderbares Freizeitangebot. Tatsächlich beginnt damit eine Erfahrung, die seine gewohnte Ordnung angreift. Dass das Geschenk aus der eigenen Familie kommt, verbindet die scheinbar fremde Organisation mit einem persönlichen Verhältnis und erschwert sein Vertrauen zusätzlich.
 
-**Merksatz:** Conrads Geschenk öffnet die Tür zum Spiel.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/28058-the-game)
 
@@ -1828,7 +1730,6 @@ Welche Fernseherfahrung erschüttert Nicholas Van Orton (Michael Douglas) in „
 
 Nicholas Van Orton (Michael Douglas) sieht Nachrichten, doch der Sprecher Daniel Schorr, der sich selbst spielt, beginnt mit ihm zu kommunizieren. Ein normalerweise einseitiges Medium scheint plötzlich seine Person zu beobachten. Dadurch verliert Nicholas selbst zu Hause eine vertraute Grenze. Die Organisation hinter dem Spiel erscheint fähig, auch Situationen zu kontrollieren, die zuvor privat und alltäglich wirkten.
 
-**Merksatz:** Plötzlich redet das Fernsehen mit Nicholas.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Game_(1997_film)), [Beleg 2](https://www.criterion.com/current/posts/2484-all-in-the-game)
 
@@ -1845,7 +1746,6 @@ Wo erwacht Nicholas Van Orton (Michael Douglas) nach seiner Betäubung in „The
 
 Nicholas Van Orton (Michael Douglas) wird aus seiner gewohnten Umgebung gerissen und muss sich aus einem Sarg befreien. Der Ortswechsel nach Mexiko macht ihn besonders hilflos: Sein Vermögen und sein Status stehen ihm dort nicht wie gewohnt zur Verfügung. Um nach San Francisco zurückzukommen, verkauft er seine Uhr. Das Spiel verwandelt einen kontrollierenden Geschäftsmann in einen unmittelbar bedrohten Menschen.
 
-**Merksatz:** Der Sarg in Mexiko ist ein Tiefpunkt des Kontrollverlusts.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Game_(1997_film))
 
@@ -1862,7 +1762,6 @@ Warum besitzt der Geburtstag von Nicholas Van Orton (Michael Douglas) in „The 
 
 Nicholas Van Orton (Michael Douglas) lebt mit der Erinnerung an den Tod seines Vaters. Sein eigener Geburtstag wiederholt dessen damaliges Alter. Die Zahl ist deshalb kein beliebiges Detail: Sie verbindet das Geschenk seines Bruders mit einer traumatischen Familiengeschichte. Wenn der Film Nicholas an den Rand eines Abgrunds führt, greift er zugleich das bereits etablierte Bild des väterlichen Todes wieder auf.
 
-**Merksatz:** Der Geburtstag verbindet Gegenwart und Vatertrauma.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Game_(1997_film)), [Beleg 2](https://www.criterion.com/current/posts/2484-all-in-the-game)
 
@@ -1879,7 +1778,6 @@ Als moderne Variante welcher Erzählung hat David Fincher „The Game“ selbst 
 
 Der von David Fincher genannte Dickens-Vergleich richtet den Blick auf Nicholas Van Orton (Michael Douglas) als emotionalen Geizhals. Die Prüfungen sollen seine Beziehung zum Leben verändern, ähnlich wie die Begegnungen von Ebenezer Scrooge in der Weihnachtsgeschichte. Das ist ein ausdrücklich dokumentierter Vergleich des Regisseurs, keine Behauptung, der Thriller sei eine wörtliche Verfilmung der Dickens-Erzählung.
 
-**Merksatz:** Finchers Vergleich: Nicholas als moderner Scrooge.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/2484-all-in-the-game)
 
@@ -1896,7 +1794,6 @@ Wann wurde „The Game“ mit Michael Douglas erstmals veröffentlicht?
 
 The Game erschien 1997. Michael Douglas spielt einen Investmentbanker, dessen Bruder einen zunächst harmlos wirkenden Spielgutschein verschenkt. Der Film führt die Hauptfigur aus ihrer wohlhabenden, abgeschlossenen Welt in eine Folge rätselhafter Bedrohungen. Das Veröffentlichungsjahr ordnet diesen Thriller zeitlich ein; es bezeichnet weder den Geburtstag innerhalb der Geschichte noch eine spätere Wiederveröffentlichung.
 
-**Merksatz:** Erste Veröffentlichung: 1997.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/28058-the-game)
 
@@ -1913,7 +1810,6 @@ Wer führte bei „The Game“ mit Michael Douglas und Sean Penn Regie?
 
 David Fincher inszenierte The Game. Der reiche Nicholas Van Orton (Michael Douglas) erhält von seinem Bruder Conrad (Sean Penn) einen rätselhaften Spielgutschein. Die folgenden Begegnungen nehmen ihm zunehmend die Kontrolle über seinen Alltag. Die Regiezuordnung benennt damit den Gestalter einer Geschichte, in der sowohl die Hauptfigur als auch das Publikum laufend entscheiden müssen, welche Informationen als zuverlässig gelten können.
 
-**Merksatz:** Regie: David Fincher.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/28058-the-game)
 
@@ -1938,7 +1834,6 @@ Womit macht Lou Bloom (Jake Gyllenhaal) in „Nightcrawler“ sein Geschäft?
 
 Lou Bloom (Jake Gyllenhaal) entdeckt eine Erwerbsmöglichkeit in Bildern von Unglücken. Je spektakulärer sein Material wirkt, desto wertvoller wird es für lokale Fernsehnachrichten. Er sucht deshalb nachts nach Ereignissen, bei denen andere Menschen in Not geraten. Die berufliche Ausgangsidee trägt bereits den moralischen Konflikt des Films in sich: Leid wird für ihn zum verkäuflichen Produkt.
 
-**Merksatz:** Lou macht Nachrichtenbilder aus fremdem Unglück.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/544687/nightcrawler-jede-nacht-hat-ihren-preis)
 
@@ -1955,7 +1850,6 @@ Durch welche Stadt fährt Lou Bloom (Jake Gyllenhaal) nachts auf der Suche nach 
 
 Los Angeles wird als weitläufige nächtliche Stadt gezeigt, die Lou Bloom (Jake Gyllenhaal) auf der Suche nach brauchbaren Bildern durchquert. Die Ortswahl verbindet die Geschichte mit lokalen Fernsehmedien und langen Fahrten zwischen Ereignissen. Dan Gilroy und Robert Elswit wollten dabei vertraute Hollywood-Wahrzeichen vermeiden. Weite Bilder zeigen auch die Schönheit einer Umgebung, in der Lou rücksichtslos nach verwertbarem Material sucht.
 
-**Merksatz:** Lous Jagd nach Bildern führt durch Los Angeles.
 
 **Quellen:** [Beleg 1](https://theplaylist.net/interview-nightcrawler-director-dan-gilroy-talks-jake-gyllenhaal-robert-elswit-sociopaths-20141029/)
 
@@ -1972,7 +1866,6 @@ Was tut Lou Bloom (Jake Gyllenhaal) in „Nightcrawler“, um eine Unfallaufnahm
 
 Lou Bloom (Jake Gyllenhaal) begnügt sich nicht damit, ein Unglück vorzufinden und zu filmen. Er verschiebt einen Körper, um ihn mit Autoscheinwerfern besser auszuleuchten. Damit beeinflusst er selbst die Situation, die sein Material später als Nachricht zeigen soll. Die Szene macht konkret, wie seine Jagd nach verwertbaren Bildern jede Rücksicht auf die betroffenen Menschen verdrängt.
 
-**Merksatz:** Für das bessere Bild verändert Lou das Unglück.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Nightcrawler_(film)), [Beleg 2](https://time.com/3547813/jake-gyllenhaal-nightcrawler/)
 
@@ -1989,7 +1882,6 @@ Welche Sprache benutzt Lou Bloom (Jake Gyllenhaal) in „Nightcrawler“ auffäl
 
 Lou Bloom (Jake Gyllenhaal) übernimmt einen Wortschatz aus Selbsthilfeformeln und Unternehmenshandbüchern. Die Sprache lässt Wachstum und beruflichen Aufstieg wie selbstverständliche Ziele wirken. Dan Gilroy erläutert im Interview, dass Lou solche Maximen im Internet zusammensucht. Der wirtschaftliche Ton seiner Äußerungen steht neben dem Leid, das er für sein Geschäft verwertet. Der Gegensatz macht seinen Umgang mit Menschen auch auf der sprachlichen Ebene greifbar.
 
-**Merksatz:** Lou tarnt Rücksichtslosigkeit mit Erfolgsformeln.
 
 **Quellen:** [Beleg 1](https://theplaylist.net/interview-nightcrawler-director-dan-gilroy-talks-jake-gyllenhaal-robert-elswit-sociopaths-20141029/)
 
@@ -2006,7 +1898,6 @@ Was wollten Dan Gilroy und James Newton Howard mit der oft aufsteigenden, triump
 
 Dan Gilroy beschreibt die Musik von James Newton Howard als bewusst erhebend. Sie folgt Lou Bloom (Jake Gyllenhaal) in dessen eigenem Gefühl des Aufstiegs, obwohl sein Handeln erschreckend ist. Das Publikum hört also nicht einfach eine musikalische Warnung vor einem gefährlichen Mann. Zwischen den Bildern und seiner inneren Erfolgsbegleitung entsteht ein gezielter, beunruhigender Widerspruch.
 
-**Merksatz:** Die Musik feiert Lou so, wie Lou sich selbst erlebt.
 
 **Quellen:** [Beleg 1](https://www.filmcomment.com/interview-dan-gilroy-nightcrawler-dan-gilroy/)
 
@@ -2023,7 +1914,6 @@ Welche Kombination verwendeten Dan Gilroy und Kameramann Robert Elswit bei „Ni
 
 Robert Elswit und Dan Gilroy wählten unterschiedliche Aufnahmematerialien für die Tageszeiten. Die Nachtszenen entstanden digital mit der Alexa, die Tagesszenen analog auf 35-mm-Film. Elswit erläutert, dass sie sich auch im Aussehen unterscheiden sollten. Das ist eine reale Produktionsentscheidung. Sie ist von der Videokamera zu trennen, die Lou Bloom (Jake Gyllenhaal) innerhalb der Geschichte für seine Nachrichtenaufnahmen benutzt.
 
-**Merksatz:** Nightcrawler: Alexa in der Nacht, Film am Tag.
 
 **Quellen:** [Beleg 1](https://theasc.com/article/breaking-news-nightcrawler/)
 
@@ -2040,7 +1930,6 @@ In welchem Jahr wurde „Nightcrawler – Jede Nacht hat ihren Preis“ erstmals
 
 Nightcrawler erschien 2014. Jake Gyllenhaal spielt einen Mann, der Unfall- und Verbrechensbilder an das Fernsehen verkauft. Der Film verbindet damit einen beruflichen Aufstieg mit einer Frage nach medialer Verantwortung. Das Jahr ordnet diese Verfilmung ein; Lous schneller wirtschaftlicher Erfolg innerhalb der Geschichte ist davon unabhängig und bildet den eigentlichen Gegenstand des Thrillers.
 
-**Merksatz:** Erste Veröffentlichung: 2014.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/544687/nightcrawler-jede-nacht-hat-ihren-preis)
 
@@ -2057,7 +1946,6 @@ Wer führte bei „Nightcrawler – Jede Nacht hat ihren Preis“ Regie?
 
 Dan Gilroy inszenierte Nightcrawler als Erfolgsgeschichte eines Antihelden. Lou Bloom (Jake Gyllenhaal) beginnt auf Arbeitssuche und baut schließlich ein florierendes Geschäft mit Nachrichtenbildern auf. Er wird dabei nicht zu einem besseren Menschen. Gilroy erläutert, dass gerade der Erfolg Fragen an die Umwelt richten soll, die Lous Rücksichtslosigkeit belohnt. Diese Absicht erklärt den ungewöhnlichen Verlauf der Geschichte.
 
-**Merksatz:** Regie: Dan Gilroy.
 
 **Quellen:** [Beleg 1](https://www.slashfilm.com/534616/dan-gilroy-interview/)
 
@@ -2082,7 +1970,6 @@ Was ist der Beruf von Harry Caul (Gene Hackman), der Hauptfigur in „Der Dialog
 
 Harry Caul (Gene Hackman) soll das Gespräch eines Paares auf einem belebten Platz aufzeichnen. Seine Aufgabe scheint zunächst ein technisches Problem zu sein: Stimmen müssen aus Lärm und Bewegungen herausgearbeitet werden. Mit zunehmendem Verständnis des Gesprächs entsteht jedoch eine moralische Frage. Die Genauigkeit einer Aufnahme schützt ihren Hersteller nicht davor, über die möglichen Folgen des Auftrags nachzudenken.
 
-**Merksatz:** Harrys Spezialität ist das heimliche Hören.
 
 **Quellen:** [Beleg 1](https://www.loc.gov/static/programs/national-film-preservation-board/documents/conversation.pdf)
 
@@ -2099,7 +1986,6 @@ Welches Instrument spielt Harry Caul (Gene Hackman) privat in „Der Dialog“?
 
 Harry Caul (Gene Hackman) spielt in seiner Wohnung Saxophon. Die Musik zeigt eine private Seite des Mannes, der beruflich fremde Stimmen belauscht und das eigene Leben stark abschirmt. Auch im Schlussbild bleibt ihm das Instrument. Der Film verbindet so zwei Formen des Hörens: technisch kontrollierte Überwachung und eine persönliche musikalische Beschäftigung, die sich nicht vollständig in Kontrolle übersetzen lässt.
 
-**Merksatz:** Harry hört fremde Gespräche und spielt selbst Saxophon.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Conversation)
 
@@ -2116,7 +2002,6 @@ Was verändert in „Der Dialog“ den Sinn eines entscheidenden aufgenommenen S
 
 Harry Caul (Gene Hackman) hört die Aufnahme immer wieder, um den drohenden Sinn des Gesprächs zu verstehen. Der gleiche Wortlaut kann je nach Betonung anders wirken. Die späte Verschiebung zeigt eine Grenze seiner Arbeit: Technisch saubere Stimmen sind noch keine sichere Kenntnis von Absichten. Der Film lässt das Publikum dieselbe Interpretationsfalle erleben wie den Mann an seinem Bandgerät.
 
-**Merksatz:** Gleiche Worte, andere Betonung, anderer Verdacht.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Conversation)
 
@@ -2133,7 +2018,6 @@ Wie reagiert Harry Caul (Gene Hackman) am Ende von „Der Dialog“, als er glau
 
 Harry Caul (Gene Hackman) erhält einen Anruf, bei dem ihm eine Aufnahme seines eigenen Saxophonspiels vorgespielt wird. Der professionelle Beobachter fühlt sich nun selbst überwacht. Er untersucht und zerlegt die Wohnung, ohne die Quelle zu finden. Am Ende sitzt er in den Resten seines privaten Schutzraums. Die Umkehr seines Berufsrisikos wird damit als konkrete, körperliche Handlung sichtbar.
 
-**Merksatz:** Der Abhörexperte wird selbst zum abgehörten Menschen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Conversation)
 
@@ -2150,7 +2034,6 @@ Welche Bewegung prägt die lange Eröffnungseinstellung von „Der Dialog“ üb
 
 Die Eröffnung von Der Dialog blickt zunächst aus großer Höhe und Distanz auf den Union Square. Ein kontinuierlicher Zoom nähert sich dem Geschehen, während eine private Unterhaltung aus dem öffentlichen Raum herausgelöst wird. Die Form der Einstellung macht Beobachtung selbst zum Thema. Das Publikum sucht Personen im Bild, ähnlich wie die Überwachungstechnik Stimmen aus dem Gedränge herausfiltert.
 
-**Merksatz:** Der erste Zoom macht Zuschauen zur Überwachung.
 
 **Quellen:** [Beleg 1](https://www.bfi.org.uk/sight-and-sound/features/stolen-privacy-coppolas-conversation)
 
@@ -2167,7 +2050,6 @@ Wer gestaltete den Ton von „Der Dialog“, in dem die rekonstruierte Gespräch
 
 Walter Murchs Tonarbeit macht die Gesprächsaufnahme zu einem filmischen Prozess: Die Stimmen werden aus unterschiedlichen Aufnahmeanteilen zusammengesetzt und schrittweise verständlicher. Harry Caul (Gene Hackman) bearbeitet diese Tonspuren innerhalb der Handlung. Der Film führt dadurch das reale Gewerk und die Arbeit der Figur eng zusammen. Murch ist außerdem zusammen mit Richard Chew am Schnitt des Films beteiligt.
 
-**Merksatz:** Der Dialogs entscheidendes Gewerk führt zu Walter Murch.
 
 **Quellen:** [Beleg 1](https://www.loc.gov/static/programs/national-film-preservation-board/documents/conversation.pdf), [Beleg 2](https://en.wikipedia.org/wiki/The_Conversation)
 
@@ -2184,7 +2066,6 @@ In welchem Jahr wurde „Der Dialog“ erstmals veröffentlicht?
 
 Der Dialog wurde 1974 erstmals veröffentlicht. Das in Filmdienst angegebene Produktionsjahr 1973 ist ein anderer Bezug und wird hier nicht als Lösung verwendet. Die Geschichte folgt einem Abhörexperten, der einen technischen Auftrag zunehmend als moralisches Problem erlebt. Die Jahreszuordnung verankert den Film in einer Epoche, in der Überwachung und das Misstrauen gegenüber Institutionen zentrale Thrillerstoffe waren.
 
-**Merksatz:** Erste Veröffentlichung: 1974.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Conversation), [Beleg 2](https://www.filmdienst.de/film/details/22987/der-dialog)
 
@@ -2201,7 +2082,6 @@ Wer führte bei „Der Dialog“ mit Gene Hackman Regie?
 
 Francis Ford Coppola inszenierte Der Dialog. Harry Caul (Gene Hackman) ist darin ein technisch versierter Abhörexperte, der den Sinn seines Auftrags zunehmend bezweifelt. Die Geschichte konzentriert sich auf das, was er hören und verstehen kann. Die Regiezuordnung ergänzt damit einen konkreten Werkkern: Größere technische Genauigkeit bedeutet für die Hauptfigur keineswegs automatisch größere Gewissheit über die Absichten anderer Menschen.
 
-**Merksatz:** Regie: Francis Ford Coppola.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/22987/der-dialog), [Beleg 2](https://www.bfi.org.uk/sight-and-sound/features/stolen-privacy-coppolas-conversation)
 
@@ -2226,7 +2106,6 @@ Welche Arbeit hat Jack Terry (John Travolta) in „Blow Out – Der Tod löscht 
 
 Jack Terry (John Travolta) nimmt nachts Außengeräusche auf, die er für seine Filmarbeit braucht. Dabei hört und beobachtet er einen Wagen, der von der Straße ins Wasser gerät. Sein Arbeitsmaterial wird dadurch zum möglichen Beweis eines Verbrechens. Die Geschichte lässt einen alltäglichen Vorgang der Filmherstellung in eine politische Gefahr übergehen, ohne dass Jack ursprünglich als Ermittler unterwegs ist.
 
-**Merksatz:** Ein Filmgeräusch führt Jack in einen Mordfall.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/27561-blow-out), [Beleg 2](https://www.criterion.com/current/posts/1830-blow-out-portrait-of-the-artist-as-a-young-gadgeteer)
 
@@ -2243,7 +2122,6 @@ Welches öffentliche Amt hat der Mann, der beim Autounfall in „Blow Out“ sti
 
 Jack Terry (John Travolta) rettet Sally (Nancy Allen) aus dem verunglückten Wagen. Der ebenfalls im Auto befindliche Gouverneur stirbt. Damit erhält die zunächst zufällige Tonaufnahme politische Bedeutung. Das Umfeld des Politikers möchte zugleich verhindern, dass Sallys Anwesenheit bekannt wird. Jack gerät so zwischen die Frage nach der Unfallursache und Interessen, die den öffentlichen Bericht kontrollieren wollen.
 
-**Merksatz:** Der Unfall bekommt Gewicht durch den Tod eines Gouverneurs.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/1830-blow-out-portrait-of-the-artist-as-a-young-gadgeteer)
 
@@ -2260,7 +2138,6 @@ Wie rekonstruiert Jack Terry (John Travolta) in „Blow Out“ den Unfall genaue
 
 Jack Terry (John Travolta) besitzt einen zeitlichen Ablauf als Tonspur. Fotografien liefern ihm zusätzlich sichtbare Momente desselben Unfalls. Erst das Zusammensetzen macht aus einzelnen Bildern und Geräuschen eine nachvollziehbare Ereignisfolge. Diese Arbeit ähnelt einem Filmschnitt. Der Thriller zeigt damit, dass ein Beweis nicht einfach fertig vorliegt, sondern aus unterschiedlichen Spuren sorgfältig rekonstruiert werden muss.
 
-**Merksatz:** Jack setzt aus Foto und Ton einen Ablauf zusammen.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/1830-blow-out-portrait-of-the-artist-as-a-young-gadgeteer)
 
@@ -2277,7 +2154,6 @@ Als was erweist sich die scheinbare Mörder-Perspektive zu Beginn von „Blow Ou
 
 Die Kamera führt zunächst durch eine scheinbar bedrohliche Horrorszene. Dann zeigt sich, dass Jack Terry (John Travolta) am Ton dieses billigen Films arbeitet. Ein misslungener Schrei wird zum Problem der Produktion. Die Eröffnung lehrt das Publikum deshalb bereits, eine sichtbare Szene als hergestelltes Filmprodukt zu erkennen. Später bekommt genau diese Suche nach überzeugendem Ton eine tragische Bedeutung.
 
-**Merksatz:** Der erste Schrecken gehört zu einem Film im Film.
 
 **Quellen:** [Beleg 1](https://www.interviewmagazine.com/film/blow-out)
 
@@ -2294,7 +2170,6 @@ Was geschieht am Ende von „Blow Out“ mit der Aufnahme von Sallys wirklichem 
 
 Sally (Nancy Allen) stirbt, während Jack Terry (John Travolta) ihre Stimme aufnehmen kann. Der Schluss kehrt zur Tonarbeit aus der Eröffnung zurück: Die Produktion erhält nun den gesuchten überzeugenden Schrei. Für Jack ist die beruflich brauchbare Aufnahme jedoch die Erinnerung an einen Menschen, den er nicht retten konnte. Der geschlossene Kreislauf zwischen Filmhandwerk und wirklicher Gewalt macht das Ende besonders bitter.
 
-**Merksatz:** Der perfekte Filmschrei ist für Jack ein wirklicher Verlust.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/1829-blow-out-american-scream), [Beleg 2](https://www.interviewmagazine.com/film/blow-out)
 
@@ -2311,7 +2186,6 @@ Welches Beweismedium rückt Brian De Palma in „Blow Out“ gegenüber Michelan
 
 Michelangelo Antonionis Blow-Up fragt nach einem möglichen Verbrechen in fotografierten Bildern. Brian De Palmas Blow Out greift eine verwandte Ausgangsidee auf und verlagert den Schwerpunkt auf aufgenommenen Ton. Jack Terry (John Travolta) kombiniert ihn später mit Bildern. Der Vergleich macht zwei unterschiedliche Wege der Wahrnehmung sichtbar und zeigt, dass scheinbar objektives Material erst durch Deutung Bedeutung erhält.
 
-**Merksatz:** Blow-Up vergrößert Bilder; Blow Out untersucht Ton.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/1830-blow-out-portrait-of-the-artist-as-a-young-gadgeteer)
 
@@ -2328,7 +2202,6 @@ In welchem Jahr erschien „Blow Out – Der Tod löscht alle Spuren“ erstmals
 
 Blow Out wurde 1981 veröffentlicht. Der deutsche Kinostart folgte 1982 und wird bei einer Frage nach der ersten Veröffentlichung nicht als Lösung verwendet. John Travolta spielt einen Filmtontechniker, dessen zufällige Aufnahme einen politischen Mord vermuten lässt. Die Jahreszuordnung betrifft diese Filmfassung und hilft, sie von Antonionis älterem, ähnlich betiteltem Film Blow-Up zu unterscheiden.
 
-**Merksatz:** Erste Veröffentlichung: 1981.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/27561-blow-out), [Beleg 2](https://www.filmdienst.de/film/details/26450/blow-out-der-tod-loscht-alle-spuren), [Beleg 3](https://www.criterion.com/current/posts/1830-blow-out-portrait-of-the-artist-as-a-young-gadgeteer)
 
@@ -2345,7 +2218,6 @@ Wer inszenierte „Blow Out – Der Tod löscht alle Spuren“?
 
 Brian De Palma führte Regie und schrieb das Drehbuch. John Travolta spielt Jack Terry, der zunächst Filmgeräusche herstellt. Diese Tätigkeit wird zum Versuch, mit einer zufälligen Aufnahme einen politischen Mord zu beweisen. Die Inszenierung macht damit ein alltägliches Gewerk des Kinos selbst zum Spannungsstoff: Ton und Bild müssen zusammengefügt werden, während diejenigen, die davon bedroht sind, die Aufklärung verhindern wollen.
 
-**Merksatz:** Regie: Brian De Palma.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/27561-blow-out)
 
@@ -2370,7 +2242,6 @@ Wo lebt die Kim-Familie am Anfang von „Parasite“?
 
 Die Kim-Familie lebt unterhalb des normalen Straßenniveaus und sieht die Stadt durch niedrige Fenster. Die spätere Begegnung mit der wohlhabenden Familie Park führt in ein deutlich anderes Wohnumfeld. Der Gegensatz macht soziale Unterschiede räumlich sichtbar. Auf engem Platz versucht die Familie, Einkommen zu finden; die Handlung beginnt deshalb bei alltäglichen Bedürfnissen, bevor sie zu einer gefährlichen Täuschung wird.
 
-**Merksatz:** Die Kims beginnen unten, im Halbkeller.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/6391-bong-joon-ho-s-parasite), [Beleg 2](https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground)
 
@@ -2387,7 +2258,6 @@ Welche Arbeit bringt Ki-Woo (Choi Woo Shik) in „Parasite“ zuerst in das Haus
 
 Ki-Woo (Choi Woo Shik) erhält die Gelegenheit, einer Tochter der wohlhabenden Parks Englischunterricht zu geben. Er präsentiert sich mit passenden, allerdings manipulierten Qualifikationen. Dieser einzelne Arbeitsplatz eröffnet anschließend auch anderen Mitgliedern seiner Familie den Zugang zum Haushalt. Die erste Beschäftigung ist deshalb ein wichtiger Türöffner: Eine scheinbar gewöhnliche Nachhilfestunde beginnt die schrittweise Unterwanderung der sozialen Grenze.
 
-**Merksatz:** Die Tür zu den Parks öffnet sich durch Englischunterricht.
 
 **Quellen:** [Beleg 1](https://www.festival-cannes.com/en/f/gisaengchung/), [Beleg 2](https://www.criterion.com/current/posts/6391-bong-joon-ho-s-parasite)
 
@@ -2404,7 +2274,6 @@ Welche Eigenschaft von Moon-Gwang (Lee Jung Eun) nutzen die Kims in „Parasite�
 
 Moon-Gwang (Lee Jung Eun), die bisherige Haushälterin, reagiert stark auf Pfirsiche. Die Kim-Familie nutzt die Reaktion, um bei den Parks den Verdacht auf eine ansteckende Krankheit zu erzeugen. Ihr Ziel ist nicht medizinische Hilfe, sondern eine frei werdende Stelle. Der Film zeigt damit, wie die Familie vorhandenes Wissen über einen Menschen in eine gezielt vorbereitete Täuschung verwandelt.
 
-**Merksatz:** Die Pfirsichallergie wird zur Entlassungsfalle.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Parasite_(2019_film)), [Beleg 2](https://www.criterion.com/films/30619-parasite)
 
@@ -2421,7 +2290,6 @@ Wie trifft derselbe schwere Regen die beiden Familien in „Parasite“?
 
 Der Regen überflutet die Halbkellerwohnung der Kims mit schmutzigem Wasser. Sie verlieren ihren Wohnraum und müssen die Nacht in einer Notunterkunft verbringen. Im höher gelegenen Haus der Parks erscheint derselbe Regen am nächsten Tag als wohltuende Reinigung der Luft. Der Film macht Ungleichheit damit als unterschiedliche Folge eines gemeinsamen Ereignisses sichtbar, ohne dafür eine erklärende Rede zu benötigen.
 
-**Merksatz:** Ein Regen, zwei völlig verschiedene Lebensfolgen.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground), [Beleg 2](https://en.wikipedia.org/wiki/Parasite_(2019_film))
 
@@ -2438,7 +2306,6 @@ Wer verbirgt sich in „Parasite“ im geheimen Bunker unter dem Haus der Parks?
 
 Die frühere Haushälterin Moon-Gwang (Lee Jung Eun) kennt einen Raum, von dem die Familie Park nichts weiß. Dort lebt ihr Ehemann Geun-Se (Park Myung Hoon). Die Entdeckung zeigt den Kims eine weitere, noch verborgenere Form der Abhängigkeit vom wohlhabenden Haushalt. Der Konflikt erweitert sich dadurch: Nicht nur zwei Familien sind miteinander verflochten, sondern auch Menschen, die unter ihrer sichtbaren Ordnung existieren.
 
-**Merksatz:** Unter dem reichen Haushalt liegt ein weiteres verborgenes Leben.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/7158-parasite-notes-from-the-underground), [Beleg 2](https://www.criterion.com/films/30619-parasite)
 
@@ -2455,7 +2322,6 @@ Wie sendet der im Haus versteckte Ki-Taek (Song Kang Ho) am Ende von „Parasite
 
 Ki-Taek (Song Kang Ho) bleibt nach der Gewalt im Bunker verborgen. Ki-Woo (Choi Woo Shik) beobachtet das Haus von außen und erkennt in den Lichtwechseln eine Botschaft seines Vaters. Die Verbindung gelingt also weiterhin nur indirekt zwischen unten und draußen. Der Sohn entwirft anschließend eine Zukunft, in der er das Haus kaufen könnte; der Film trennt diese Vorstellung von seiner tatsächlichen Lage.
 
-**Merksatz:** Das Licht überträgt die Stimme des verborgenen Vaters.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Parasite_(2019_film)), [Beleg 2](https://www.criterion.com/films/30619-parasite)
 
@@ -2472,7 +2338,6 @@ In welchem Jahr wurde „Parasite“ erstmals veröffentlicht?
 
 Parasite wurde 2019 veröffentlicht. Der südkoreanische Originaltitel lautet Gisaengchung. Er bezeichnet dieselbe Filmfassung wie der international verwendete Titel Parasite. Für die zeitliche Zuordnung zählt das Veröffentlichungsjahr des Films und nicht das Jahr einer späteren Preisverleihung. Die Geschichte beginnt mit dem Versuch einer arbeitslosen Familie, über Nachhilfeunterricht Zugang zu einem wohlhabenden Haushalt zu gewinnen.
 
-**Merksatz:** Erste Veröffentlichung: 2019.
 
 **Quellen:** [Beleg 1](https://www.festival-cannes.com/en/f/gisaengchung/)
 
@@ -2489,7 +2354,6 @@ Wer führte bei „Parasite“ Regie?
 
 Bong Joon Ho inszenierte Parasite, dessen koreanischer Originaltitel Gisaengchung lautet. Der Film beginnt mit einer arbeitslosen Familie und einer Gelegenheit zum Nachhilfeunterricht. Daraus entwickelt sich eine Geschichte über Täuschung, Abhängigkeit und soziale Grenzen. Das Haus der wohlhabenden Auftraggeber wird zum Schnittpunkt dieser Beziehungen. Die Regiezuordnung gilt für denselben Film unter beiden Titeln, nicht für zwei eigenständige Werke.
 
-**Merksatz:** Regie: Bong Joon Ho.
 
 **Quellen:** [Beleg 1](https://www.festival-cannes.com/en/f/gisaengchung/)
 
@@ -2514,7 +2378,6 @@ Welche gefährliche Ladung transportieren die Fahrer in „Atemlos vor Angst“?
 
 Vier Männer übernehmen einen Transport, bei dem jede Erschütterung gefährlich werden kann. Das vorhandene Dynamit ist überaltert; austretendes Nitroglycerin macht es besonders empfindlich. Die Fahrer müssen deshalb selbst schlechte Wege ohne heftige Stöße bewältigen. Der Film verwandelt gewöhnliche Bewegungen eines Lastwagens in Bedrohungen und macht die Gefährlichkeit der Arbeit unmittelbarer als eine abstrakte Erklärung der Ladung.
 
-**Merksatz:** Alter Sprengstoff macht jede Erschütterung zur Gefahr.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Sorcerer_(film)), [Beleg 2](https://www.criterion.com/films/34370-sorcerer)
 
@@ -2531,7 +2394,6 @@ Wofür wird die Sprengstoffladung in „Atemlos vor Angst“ am Ziel benötigt?
 
 Der Transport ist Teil eines industriellen Notfalls: Ein Ölbohrloch brennt, und Sprengstoff soll helfen, den Brand zu stoppen. Damit entsteht eine bedrohliche Umkehr. Ausgerechnet eine explosive Ladung muss gegen ein Feuer eingesetzt werden, obwohl sie schon auf dem Weg leicht detonieren kann. Für die angeworbenen Männer verbindet sich die Aussicht auf Bezahlung mit einer Aufgabe, bei der das Mittel selbst tödlich gefährlich ist.
 
-**Merksatz:** Sprengstoff soll den Ölbrand stoppen.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/47211/atemlos-vor-angst), [Beleg 2](https://en.wikipedia.org/wiki/Sorcerer_(film))
 
@@ -2548,7 +2410,6 @@ Welche Engstelle müssen die Lastwagen in „Atemlos vor Angst“ trotz der empf
 
 Die Hängebrücke schwankt über einem Fluss, während Regen und Wind die Fahrt erschweren. Die Lastwagen müssen langsam und mit gegenseitiger Hilfe hinübergebracht werden. Die empfindliche Fracht macht selbst einen kleinen Stoß gefährlich. Der Film bündelt so in einem einzigen Hindernis mehrere Risiken: Gewicht, Gleichgewicht, Wetter und die notwendige Zusammenarbeit von Männern, die aus sehr unterschiedlichen Lebensgeschichten stammen.
 
-**Merksatz:** Auf der Hängebrücke treffen Gewicht und Explosionsgefahr zusammen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Sorcerer_(film)), [Beleg 2](https://www.criterion.com/current/posts/8845-sorcerer-bleak-magic)
 
@@ -2565,7 +2426,6 @@ Wie beseitigen die Fahrer in „Atemlos vor Angst“ den riesigen Baum, der ihre
 
 Ein großer Baum blockiert die Strecke, sodass die Lastwagen nicht weiterkommen. Die Männer müssen die gefährliche Ladung nun selbst handhaben, um den Weg freizumachen. Eine kontrollierte Explosion wird zum Werkzeug. Die Szene zeigt die doppelte Rolle des Sprengstoffs besonders anschaulich: Er bedroht den Transport, ermöglicht aber zugleich die Lösung eines Problems, das ohne ihn die gesamte Fahrt beenden würde.
 
-**Merksatz:** Die tödliche Fracht wird auch zum Werkzeug.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Sorcerer_(film))
 
@@ -2582,7 +2442,6 @@ Welche Beziehung hat „Atemlos vor Angst“ zu Henri-Georges Clouzots „Lohn d
 
 Henri-Georges Clouzot verfilmte Georges Arnauds Roman bereits als Lohn der Angst. William Friedkin griff den Stoff später erneut auf und gab den vier Männern eigene internationale Vorgeschichten. Das Drehbuch seiner Fassung schrieb Walon Green. Der Zusammenhang ist deshalb präziser als eine bloße Titelähnlichkeit: Zwei Filme gestalten denselben literarischen Kern, ohne dass die jüngere Fassung eine Fortsetzung wäre.
 
-**Merksatz:** Arnauds Roman verbindet Clouzot und Friedkin.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/8845-sorcerer-bleak-magic), [Beleg 2](https://www.criterion.com/films/34370-sorcerer)
 
@@ -2599,7 +2458,6 @@ Welche Gruppe schuf die elektronische Originalmusik zu „Atemlos vor Angst“?
 
 Die Gruppe Tangerine Dream komponierte die Originalmusik. Ihre elektronische Klangwelt steht neben den körperlichen Gefahren der Fahrt: Motoren, Erschütterungen und schlechte Wege gehören zur Arbeit der Männer. Der Musikcredit benennt ein Ensemble statt eines einzelnen Komponisten. Er öffnet damit einen zusätzlichen Zugang zu dem Thriller, dessen Spannung wesentlich an der Wahrnehmung von Bewegung, Geräusch und gefährlichem Stillstand hängt.
 
-**Merksatz:** Sorcerers elektronische Musik kommt von Tangerine Dream.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/34370-sorcerer)
 
@@ -2616,7 +2474,6 @@ In welchem Jahr wurde „Atemlos vor Angst“ unter dem Originaltitel „Sorcere
 
 Sorcerer erschien 1977. Die Produktionsangabe 1976/77 bezeichnet den Entstehungszeitraum, nicht ein früheres Veröffentlichungsjahr. Vier Männer transportieren gefährlichen Sprengstoff mit zwei Lastwagen. Die ältere Verfilmung desselben Romanstoffs heißt Lohn der Angst. Das Veröffentlichungsjahr dieser Fassung gehört daher zu ihrer eigenen Identität und kann nicht von der früheren Adaption oder einer späteren Wiederaufführung übernommen werden.
 
-**Merksatz:** Erste Veröffentlichung: 1977.
 
 **Quellen:** [Beleg 1](https://www.bfi.org.uk/film/c534c25c-106a-530d-8161-24cea1b1b082/sorcerer), [Beleg 2](https://www.filmdienst.de/film/details/47211/atemlos-vor-angst), [Beleg 3](https://www.criterion.com/current/posts/8845-sorcerer-bleak-magic)
 
@@ -2633,7 +2490,6 @@ Wer führte bei „Atemlos vor Angst“ mit Roy Scheider Regie?
 
 William Friedkin führte Regie; das Drehbuch von Walon Green basiert auf Georges Arnauds Roman. Roy Scheider gehört zu den vier Hauptdarstellern. Die Männer begegnen sich nach getrennten Vorgeschichten in Lateinamerika und nehmen einen lebensgefährlichen Transport an. Die Regiezuordnung verbindet damit den bekannten Hauptdarsteller mit einer erneuten filmischen Gestaltung des älteren literarischen Stoffes.
 
-**Merksatz:** Regie: William Friedkin.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/34370-sorcerer)
 
@@ -2658,7 +2514,6 @@ In welchem Land spielt die Ermittlung von „Memories of Murder“?
 
 Memories of Murder folgt Polizisten in einer ländlichen Region Südkoreas. Der Film beruht auf einer realen Mordserie der 1980er-Jahre, gestaltet die Untersuchung aber als Spielfilm. Lokale Beamte treffen auf einen Kollegen aus Seoul. Dadurch entstehen nicht nur neue Ermittlungsmöglichkeiten, sondern auch Konflikte über Erfahrung, Methoden und die Frage, wie eine unbekannte Täterperson überhaupt zuverlässig erkannt werden kann.
 
-**Merksatz:** Die ländliche Ermittlung gehört nach Südkorea.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/31458-memories-of-murder)
 
@@ -2675,7 +2530,6 @@ Was versucht die Polizei in „Memories of Murder“ aufzuklären?
 
 Die wiederholten Morde setzen die Beamten unter Druck, weil der Täter unentdeckt bleibt und die Gewalt weitergeht. Der Film lässt sie verschiedene Verdächtige verfolgen, ohne ihnen eine einfache, sichere Lösung zu geben. Die Spannung entsteht deshalb auch aus fehlerhaften Annahmen und Ermittlungswegen. Nicht ein einzelner abgeschlossener Fall, sondern das Ausbleiben einer verlässlichen Antwort prägt die Untersuchung.
 
-**Merksatz:** Eine Mordserie, viele Verdächtige, keine sichere Antwort.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/31458-memories-of-murder), [Beleg 2](https://www.criterion.com/current/posts/7361-memories-of-murder-in-the-killing-jar)
 
@@ -2692,7 +2546,6 @@ Wie unterscheidet sich Seo Tae-Yoon (Kim Sang Kyung) in „Memories of Murder“
 
 Park Doo-Man (Song Kang Ho) behauptet, Menschen durch genaues Ansehen erkennen zu können. Seo Tae-Yoon (Kim Sang Kyung), der aus Seoul kommt, setzt zunächst einen anderen Maßstab und hinterfragt solche Vermutungen. Der Gegensatz macht die Untersuchung zu einem Konflikt über Wissen: Reicht Überzeugung aus, oder braucht sie Belege? Später geraten auch Seos Ruhe und methodischer Anspruch unter den Druck der ungelösten Gewalt.
 
-**Merksatz:** Park vertraut dem Blick, Seo fordert Belege.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/7361-memories-of-murder-in-the-killing-jar)
 
@@ -2709,7 +2562,6 @@ Was zeigt „Memories of Murder“ früh als Problem der Tatortarbeit?
 
 Am Fundort geraten Gegenstände und mögliche Spuren in die Hände von Kindern und unter die Räder eines Traktors. Das ist mehr als eine komische Szene über ungeschickte Polizisten. Der Film zeigt, wie schlecht geschützte Beobachtungen spätere Gewissheit verhindern können. Die Beamten suchen dringend eine Erklärung, verlieren aber schon bei den ersten Arbeitsschritten Material, das sie für eine belastbare Untersuchung benötigen würden.
 
-**Merksatz:** Wer Spuren verliert, verliert mögliche Antworten.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/7361-memories-of-murder-in-the-killing-jar)
 
@@ -2726,7 +2578,6 @@ Welche Bilder wurden bei „Memories of Murder“ vom überwiegend entsättigten
 
 Für den größten Teil des Films wurde ein Bleach-Bypass-Verfahren eingesetzt, das die Farbigkeit reduziert. Die Reisfelder in der Eröffnung und im Schluss wurden davon ausgenommen. So rahmen warme, goldene Bilder die bedrückende Untersuchung. Die Entscheidung gehört zur tatsächlichen Bildgestaltung der Produktion. Sie stellt dem vertrauten Erscheinungsbild der ländlichen Umgebung die dazwischenliegende Gewalt gegenüber.
 
-**Merksatz:** Goldene Felder rahmen die entsättigte Ermittlung.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/7362-10-things-i-learned-memories-of-murder)
 
@@ -2743,7 +2594,6 @@ Wie hielt Bong Joon Ho die sichtbare Identität des Täters in „Memories of Mu
 
 Der Film entstand, als die reale Mordserie noch nicht aufgeklärt war. Bong Joon Ho wollte dem unbekannten Täter daher kein bestimmtes Gesicht geben. Hände und andere Teilansichten wurden mit verschiedenen Männern ähnlicher Statur gedreht. Diese Besetzungsentscheidung hält die Untersuchung auch auf der Bildebene offen. Der Film fixiert damit keine konkrete Person durch ein dauerhaft wiedererkennbares Gesicht.
 
-**Merksatz:** Mehrere Körper verhindern ein festgelegtes Tätergesicht.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/7362-10-things-i-learned-memories-of-murder)
 
@@ -2760,7 +2610,6 @@ Wann wurde „Memories of Murder“ erstmals veröffentlicht?
 
 Memories of Murder erschien 2003. Die untersuchte Mordserie gehört innerhalb der Geschichte in die 1980er-Jahre. Das Veröffentlichungsjahr ist deshalb vom historischen Zeitraum des Falls zu unterscheiden. Song Kang Ho und Kim Sang Kyung spielen Ermittler mit zunächst verschiedenen Methoden. Die Jahresfrage betrifft die Spielfilmfassung und nicht den Beginn der Mordserie oder eine spätere Entwicklung des realen Falls.
 
-**Merksatz:** Erste Veröffentlichung: 2003.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/31458-memories-of-murder)
 
@@ -2777,7 +2626,6 @@ Wer führte bei „Memories of Murder“ Regie?
 
 Bong Joon Ho inszenierte Memories of Murder. Der Film verbindet eine Mordserie in ländlicher Umgebung mit gegensätzlichen Vorstellungen von Beweis und Menschenkenntnis. Ein Kollege aus Seoul ergänzt die örtlichen Ermittler, ohne deren Probleme einfach lösen zu können. Die Regiezuordnung erschließt damit ein Werk, das die Schwierigkeiten einer Untersuchung und die Reaktion der Menschen auf einen ungelösten Fall in den Mittelpunkt stellt.
 
-**Merksatz:** Regie: Bong Joon Ho.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/31458-memories-of-murder)
 
@@ -2802,7 +2650,6 @@ Was finden die Bewohner in „Kleine Morde unter Freunden“ neben ihrem toten n
 
 Drei Freunde haben einen neuen Bewohner für ihre Wohnung gesucht. Kurz nach dem Einzug finden sie ihn tot und entdecken einen großen Geldbetrag. Was zunächst wie ein unerwarteter Gewinn erscheint, stellt sie vor eine Entscheidung mit schwerwiegenden Folgen. Der Thriller gewinnt seine Spannung aus dem Fund und der Aussicht, die eigene Lage zu verbessern, ohne Herkunft und Risiken des Geldes wirklich zu kennen.
 
-**Merksatz:** Der Geldkoffer macht aus dem Todesfall eine Versuchung.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/27981-shallow-grave)
 
@@ -2819,7 +2666,6 @@ In welcher Stadt teilen die drei Hauptfiguren in „Kleine Morde unter Freunden�
 
 Die Wohnung steht in der Geschichte in Edinburgh. Dort leben Juliet Miller (Kerry Fox), David (Christopher Eccleston) und Alex Law (Ewan McGregor) zusammen. Viele Aufnahmen wurden jedoch in Glasgow hergestellt. Handlungsschauplatz und Produktionsort sind daher unterschiedliche Angaben. Für die Figuren ist vor allem der gemeinsame Wohnraum entscheidend: Er wird vom Ort vertrauter Nähe zu einem Bereich gegenseitiger Beobachtung und Gefahr.
 
-**Merksatz:** Die WG spielt in Edinburgh, auch wenn Glasgow den Dreh unterstützt.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/27981-shallow-grave), [Beleg 2](https://en.wikipedia.org/wiki/Shallow_Grave_(1994_film))
 
@@ -2836,7 +2682,6 @@ Warum zerstückeln die Freunde in „Kleine Morde unter Freunden“ den Körper 
 
 Die Freunde entscheiden sich gegen die Meldung des Todes und für das Behalten des Geldes. Dazu müssen sie aus ihrer Sicht verhindern, dass der Körper zuverlässig erkannt wird. David (Christopher Eccleston) übernimmt die besonders grausame Aufgabe der Zerstückelung. Der Gewinn verlangt damit bereits eine schwere Grenzüberschreitung. Ihre gemeinsame Entscheidung belastet anschließend auch die Beziehungen, die vorher die Wohngemeinschaft zusammengehalten haben.
 
-**Merksatz:** Das behaltene Geld verlangt eine gemeinsam begangene Vertuschung.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shallow_Grave_(1994_film))
 
@@ -2853,7 +2698,6 @@ Wie richtet sich David (Christopher Eccleston) in „Kleine Morde unter Freunden
 
 David (Christopher Eccleston) versteckt das Geld auf dem Dachboden und hält sich zunehmend selbst dort auf. Durch Löcher im Boden kann er Alex Law (Ewan McGregor) und Juliet Miller (Kerry Fox) beobachten. Der gemeinsame Wohnraum wird dadurch in sichtbare und versteckte Bereiche geteilt. Das Misstrauen ist nicht mehr nur ein Gesprächsproblem: Es verändert unmittelbar, wie die drei Menschen im Haus leben und sich begegnen.
 
-**Merksatz:** David wohnt über den Freunden und kontrolliert sie von oben.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shallow_Grave_(1994_film))
 
@@ -2870,7 +2714,6 @@ Wie bereiteten sich Kerry Fox, Christopher Eccleston und Ewan McGregor gemeinsam
 
 Kerry Fox, Christopher Eccleston und Ewan McGregor sollten eine bereits vertraute Wohngemeinschaft glaubwürdig wirken lassen. Deshalb lebten sie vor den Aufnahmen mehrere Wochen zusammen. Das gemeinsame Alltagsleben ergänzte die schauspielerische Vorbereitung um echte Routinen und Nähe. Für die spätere Handlung ist diese Grundlage wesentlich: Der Film zeigt, wie eine funktionierende Vertrautheit durch Geld, eine gemeinsame Tat und gegenseitiges Misstrauen beschädigt wird.
 
-**Merksatz:** Echtes Zusammenwohnen bereitete die Film-WG vor.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/2338-shallow-grave-a-film-called-cruel)
 
@@ -2887,7 +2730,6 @@ Wie entstand der zentrale Wohnungs-Innenraum für „Kleine Morde unter Freunden
 
 Die zentrale Filmwohnung entstand als großzügiger Nachbau einer Wohnung in Edinburghs New Town. Gebaut wurde die Kulisse in einer Lagerhalle in Glasgow. Die Produktion konnte damit den wichtigsten gemeinsamen Raum der Figuren eigens gestalten. Das unterscheidet sich von der realen Wohnung, in der die Schauspieler zuvor zusammenlebten: Die eine diente der persönlichen Vorbereitung, die andere den Aufnahmen und der räumlichen Inszenierung.
 
-**Merksatz:** Edinburghs Filmwohnung wurde in Glasgow gebaut.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/2338-shallow-grave-a-film-called-cruel)
 
@@ -2904,7 +2746,6 @@ Welches Jahr bezeichnet die erste Veröffentlichung von Danny Boyles „Kleine M
 
 Die erste Veröffentlichung der Filmfassung von Danny Boyle liegt 1994. Ein regulärer Kinostart im Jahr 1995 ist ein späterer Termin und ändert diese Einordnung nicht. Der Originaltitel Shallow Grave gehört hier zur Geschichte der drei schottischen Mitbewohner und ihres Geldfunds. Andere Filme mit demselben englischen Titel sind eigenständige Werke und keine frühere Veröffentlichung dieser Fassung.
 
-**Merksatz:** Erste Veröffentlichung: 1994.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/27981-shallow-grave), [Beleg 2](https://en.wikipedia.org/wiki/Shallow_Grave_(1994_film))
 
@@ -2921,7 +2762,6 @@ Wer führte bei „Kleine Morde unter Freunden“ mit Kerry Fox, Christopher Ecc
 
 Danny Boyle inszenierte mit Shallow Grave seinen ersten Kinofilm. Der Fund eines Geldkoffers verändert eine vertraute Wohngemeinschaft und führt zu immer neuen Entscheidungen gegen die eigenen Freunde. Der Film verbindet diese Eskalation mit schwarzem Humor. Die Regiefrage erschließt damit Boyles Beginn im Spielfilmkino und ordnet die drei Hauptdarsteller einem konkreten Werk zu.
 
-**Merksatz:** Regie: Danny Boyle.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/27981-shallow-grave), [Beleg 2](https://www.filmdienst.de/film/details/66051/kleine-morde-unter-freunden)
 
@@ -2946,7 +2786,6 @@ Seltener britischer Ensemble-Actionfilm; überschaubarer Schauplatz und wechseln
 
 Chris (Cillian Murphy) und Frank (Michael Smiley) wollen Waffen erwerben. Justine (Brie Larson) vermittelt den Kontakt zu den Verkäufern. Die Ware ist bereits am Treffpunkt, doch aus dem scheinbar routinierten Geschäft wird eine Schießerei. Der Film zieht seine Spannung daraus, dass die zum Verkauf bestimmten Waffen plötzlich gegen die Beteiligten selbst gerichtet werden.
 
-**Merksatz:** Free Fire: Die Ware wird zum Werkzeug der Eskalation.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/549476/free-fire), [Beleg 2](https://www.bfi.org.uk/sight-and-sound/reviews/free-fire-first-look)
 
@@ -2963,7 +2802,6 @@ Welcher Schauplatz hält die meisten Gegner in „Free Fire“ während der Schi
 
 Der enge räumliche Rahmen macht jeden Deckungswechsel wichtig. Die Beteiligten können ihre Konflikte nicht durch einen einfachen Ortswechsel verlassen. Blicke, Zurufe und Bewegungen verbinden Gegner, die sich zeitweise kaum sehen. Der Film behandelt einen Waffendeal wie ein gefährliches Kammerspiel: Ein gemeinsamer Raum genügt, um Machtverhältnisse und Überlebenschancen immer wieder zu verändern.
 
-**Merksatz:** Eine Halle, viele Waffen, kaum ein sicherer Rückzug.
 
 **Quellen:** [Beleg 1](https://www.bfi.org.uk/sight-and-sound/reviews/free-fire-first-look)
 
@@ -2980,7 +2818,6 @@ Welche Funktion hat Justine (Brie Larson) beim Treffen in „Free Fire“, bevor
 
 Justine (Brie Larson) bringt die Gruppen zusammen, ohne dadurch ihre Gegensätze zu beseitigen. Ihr Vermittlungsversuch steht zwischen Chris (Cillian Murphy) und den Waffenhändlern um Vernon (Sharlto Copley). Als persönliche Animositäten das Geschäft sprengen, erweist sich eine geschäftliche Verbindung als brüchig. Kontakte verschaffen Zugang zum Deal, garantieren aber keine Loyalität in der folgenden Schießerei.
 
-**Merksatz:** Justine stellt den Kontakt her; Kontrolle über alle besitzt sie nicht.
 
 **Quellen:** [Beleg 1](https://www.bfi.org.uk/sight-and-sound/reviews/free-fire-first-look)
 
@@ -2997,7 +2834,6 @@ Was bringt den Waffendeal in „Free Fire“ endgültig zum Kippen?
 
 Die Waffenkäufer um Chris (Cillian Murphy) und die Händler um Vernon (Sharlto Copley) treffen sich für ein gemeinsames Geschäft. Begleiter beider Seiten bringen jedoch eine persönliche Fehde mit. Der Streit zieht die übrigen Bewaffneten in den Konflikt und lässt die Geschäftsroutine zusammenbrechen. Dadurch entstehen immer neue Fronten innerhalb desselben Raums: Die vorhandenen Waffen verschärfen eine private Auseinandersetzung zum tödlichen Gruppenchaos.
 
-**Merksatz:** Die Geschäftslogik scheitert an einer privaten Fehde.
 
 **Quellen:** [Beleg 1](https://www.bfi.org.uk/sight-and-sound/reviews/free-fire-first-look)
 
@@ -3014,7 +2850,6 @@ Welche Art realer Unterlagen regte Ben Wheatley zu „Free Fire“ an?
 
 Ben Wheatley erklärte im Interview, wie stark sich echte Schusswechsel von vielen Kinobildern unterschieden. Besonders interessierte ihn das unübersichtliche, chaotische Geschehen. Daraus entwickelte er keine dokumentarische Nacherzählung eines einzelnen Falls, sondern eine fiktive Konfrontation in überschaubarem Raum. Die Recherche hilft zu verstehen, warum verletzte Körper, verfehlte Ordnung und wechselnde Positionen die Action prägen.
 
-**Merksatz:** Reale Schusswechsel lieferten die Idee für das filmische Chaos.
 
 **Quellen:** [Beleg 1](https://www.interviewmagazine.com/film/ben-wheatley-free-fire)
 
@@ -3031,7 +2866,6 @@ Mit welchem Computerspiel modellierte Ben Wheatley die Lagerhalle, um die Action
 
 Die Vorbereitung umfasste Storyboards, ein physisches Modell und einen digitalen Nachbau in Minecraft. So konnte das Team gemeinsam durch den geplanten Raum gehen und Blickrichtungen prüfen. Der Einsatz diente der räumlichen Verständigung über eine komplizierte Schießerei. Das Spiel ist dabei ein Werkzeug hinter den Kulissen; die Handlung des Films basiert nicht auf Minecraft.
 
-**Merksatz:** Minecraft half, Deckung und Kamera im selben Raum zu planen.
 
 **Quellen:** [Beleg 1](https://www.wired.com/2017/04/free-fire-minecraft-shootout-design/)
 
@@ -3048,7 +2882,6 @@ In welchem Jahr wurde „Free Fire“ erstmals veröffentlicht?
 
 „Free Fire“ erreichte sein Festivalpublikum 2016 in Toronto. Der deutsche Kinostart fand im folgenden Jahr statt. Die Geschichte selbst versetzt das Publikum dagegen in eine Welt der späten 1970er-Jahre. Veröffentlichungszeit, Handlungszeit und Länderstart sind deshalb drei unterschiedliche Angaben. Für die Jahresfrage zählt die erste öffentliche Veröffentlichung der Filmfassung.
 
-**Merksatz:** Free Fire: erste Veröffentlichung 2016.
 
 **Quellen:** [Beleg 1](https://www.bfi.org.uk/sight-and-sound/reviews/free-fire-first-look), [Beleg 2](https://www.interviewmagazine.com/film/ben-wheatley-free-fire), [Beleg 3](https://www.filmdienst.de/film/details/549476/free-fire)
 
@@ -3065,7 +2898,6 @@ Wer führte bei „Free Fire“ Regie?
 
 Ben Wheatley entwickelte mit Amy Jump das Drehbuch und den Schnitt von „Free Fire“. Die Regie konzentriert ein Ensemble in einem gemeinsamen Raum. Die Rollen wurden nach der Besetzung angepasst: Wheatley erklärte, dass er Vernon (Sharlto Copley) auf dessen südafrikanische Herkunft und Sprache zuschnitt. Eine konkrete Besetzungsentscheidung veränderte somit die Figur, während der räumliche Rahmen der Konfrontation bestehen blieb.
 
-**Merksatz:** Free Fire: Regie Ben Wheatley.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/549476/free-fire), [Beleg 2](https://www.interviewmagazine.com/film/ben-wheatley-free-fire)
 
@@ -3090,7 +2922,6 @@ Wen entführen Parker (Ryan Phillippe) und Longbaugh (Benicio del Toro) in „Th
 
 Robin (Juliette Lewis) soll als Leihmutter ein Kind für den reichen Hale Chidduck (Scott Wilson) und seine Frau Francesca (Kristin Lehman) austragen. Parker (Ryan Phillippe) und Longbaugh (Benicio del Toro) rechnen deshalb mit einer hohen Lösegeldzahlung. Die Schwangerschaft bringt ihnen zugleich eine besonders verletzliche Geisel. Ihre Kalkulation setzt voraus, dass die Auftraggeber das Kind um jeden Preis zurückhaben wollen.
 
-**Merksatz:** Die Geisel ist eine schwangere Leihmutter, kein beliebiger Geldpfand.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/514362/way-of-the-gun), [Beleg 2](https://en.wikipedia.org/wiki/The_Way_of_the_Gun)
 
@@ -3107,7 +2938,6 @@ Was wollen die beiden Entführer in „The Way of the Gun“ von dem reichen Auf
 
 Der Plan beginnt mit einer finanziellen Kalkulation: Die Entführer rechnen damit, dass der wohlhabende Auftraggeber für das ungeborene Kind zahlen wird. Damit machen sie sich von Annahmen über Elternschaft und Loyalität abhängig. Als mehrere Beteiligte eigene Absichten verfolgen, reicht die einfache Gleichung Geisel gegen Geld nicht mehr aus, um den weiteren Verlauf zu kontrollieren.
 
-**Merksatz:** Der große Coup soll Geld bringen; die Beziehungen machen ihn kompliziert.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/514362/way-of-the-gun)
 
@@ -3124,7 +2954,6 @@ Warum verändert Robins (Juliette Lewis) Auskunft über den Arzt in „The Way o
 
 Dr. Allen Painter (Dylan Kussman) erscheint zunächst als Arzt der Leihmutter Robin (Juliette Lewis). Sie enthüllt jedoch, dass der Embryo der Auftraggeberin Francesca Chidduck (Kristin Lehman) nicht angewachsen ist und Painter selbst der Vater ist. Painter ist außerdem der Sohn des reichen Hale Chidduck (Scott Wilson). Der vermeintlich externe Helfer gehört somit persönlich zur Familiengeschichte, um die das Lösegeldgeschäft kreist.
 
-**Merksatz:** Der behandelnde Arzt ist persönlich Teil der Familiengeschichte.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Way_of_the_Gun)
 
@@ -3141,7 +2970,6 @@ Dr. Allen Painter (Dylan Kussman) erscheint zunächst als Arzt der Leihmutter Ro
 
 Joe Sarno (James Caan) arbeitet für den erpressten Hale Chidduck (Scott Wilson). Er bietet Longbaugh (Benicio del Toro) Geld an, damit dieser die Entführung beendet. Nach dessen Ablehnung trinken beide trotzdem Kaffee und sprechen über ihr kriminelles Handwerk. Sarno lässt die Entführer anschließend weiter beobachten. Das ruhige Gespräch ist also Teil der Auseinandersetzung: Eine gemeinsame Sprache hebt ihre gegensätzlichen Interessen nicht auf.
 
-**Merksatz:** Sarno verhandelt weiter, obwohl das Angebot ausgeschlagen wird.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Way_of_the_Gun), [Beleg 2](https://cinema.com/articles/303/way-of-the-gun-the-interview-with-christopher-mcquarrie.phtml)
 
@@ -3158,7 +2986,6 @@ Auf welche berühmten Westernfiguren verweisen die Namen Parker und Longbaugh in
 
 Christopher McQuarrie bestätigte den bewussten Bezug im Interview. Robert LeRoy Parker war als Butch Cassidy bekannt, Harry Alonzo Longbaugh als Sundance Kid. Die Wahl ist kein zufälliges Westernetikett. Sie setzt die modernen Gangster in Beziehung zu einem berühmten Kino- und Räuberpaar, ohne dessen Abenteuer einfach nachzuerzählen. Der Bezug hilft, die Westernanteile des Films zu erkennen.
 
-**Merksatz:** Parker und Longbaugh tragen die Namen hinter Butch und Sundance.
 
 **Quellen:** [Beleg 1](https://cinema.com/articles/303/way-of-the-gun-the-interview-with-christopher-mcquarrie.phtml)
 
@@ -3175,7 +3002,6 @@ Wie bereitete Christopher McQuarrie die Taktik des letzten Schusswechsels in „
 
 Der Regisseur schilderte, wie er und sein Bruder Bewegungen und Gegenbewegungen auf dem Plan ausprobierten. Ein Storyboardzeichner hielt die Abläufe fest. Daraus ergaben sich auch die Kamerawinkel. Die militärische Beratung diente nicht nur der richtigen Haltung einer Waffe, sondern dem nachvollziehbaren Verhalten von Gegnern, die auf die jeweilige Position der anderen reagieren müssen.
 
-**Merksatz:** Erst Position und Gegenbewegung, dann Kamerawinkel.
 
 **Quellen:** [Beleg 1](https://cinema.com/articles/303/way-of-the-gun-the-interview-with-christopher-mcquarrie.phtml)
 
@@ -3192,7 +3018,6 @@ In welchem Jahr wurde „The Way of the Gun“ erstmals veröffentlicht?
 
 „The Way of the Gun“ wurde 2000 veröffentlicht. Die Filmhandlung greift klassische Gangster- und Westernmotive auf, ist aber kein historischer Western. Die beiden Entführer tragen bewusst Namen, die auf Butch Cassidy und Sundance Kid verweisen. Veröffentlichungsjahr und filmgeschichtlicher Bezug dürfen daher nicht miteinander verwechselt werden.
 
-**Merksatz:** The Way of the Gun: erste Veröffentlichung 2000.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Way_of_the_Gun), [Beleg 2](https://cinema.com/articles/303/way-of-the-gun-the-interview-with-christopher-mcquarrie.phtml)
 
@@ -3209,7 +3034,6 @@ Wer führte bei „The Way of the Gun“ Regie?
 
 Christopher McQuarrie verfasste auch das Drehbuch von „The Way of the Gun“. Im Gespräch über den Film betonte er sein Interesse an Figuren, deren Handlungen aus professioneller Logik entstehen. Die Taktik der Schusswechsel wurde vorab mit Beratung ausgearbeitet. Regie, Schreiben und Vorbereitung der räumlichen Action greifen in diesem Film deshalb eng ineinander.
 
-**Merksatz:** The Way of the Gun: Regie Christopher McQuarrie.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/514362/way-of-the-gun), [Beleg 2](https://cinema.com/articles/303/way-of-the-gun-the-interview-with-christopher-mcquarrie.phtml)
 
@@ -3234,7 +3058,6 @@ Welche Regel prägt die Kämpfe in der Welt von „Bunraku“?
 
 Das Verbot beseitigt den Machtkampf nicht. Fäuste und Klingen übernehmen die Funktion, die in anderen Actionfilmen Schusswaffen haben. Der Drifter (Josh Hartnett) und Yoshi (Gackt) müssen sich innerhalb dieser Ordnung behaupten. So kann der Film Westernmotive mit Samurai- und Martial-Arts-Bildern verbinden, ohne seine Konfrontationen durch gewöhnliche Feuergefechte aufzulösen.
 
-**Merksatz:** Keine Feuerwaffen bedeutet in Bunraku noch keinen Frieden.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/538787/bunraku), [Beleg 2](https://en.wikipedia.org/wiki/Bunraku_(film))
 
@@ -3251,7 +3074,6 @@ Gegen wen verbünden sich der Drifter (Josh Hartnett) und Yoshi (Gackt) in „Bu
 
 Nicola (Ron Perlman) beherrscht das Gebiet durch Gewalt und seine Gefolgsleute. Der Drifter (Josh Hartnett) und Yoshi (Gackt) haben unterschiedliche Anliegen, können dem Gegner aber gemeinsam entgegentreten. Der Barkeeper (Woody Harrelson) verbindet ihre Wege. Die Zusammenarbeit macht aus einzelnen Fremden eine Gegenkraft zu einer Herrschaft, die von der Angst der Bewohner lebt.
 
-**Merksatz:** Zwei Fremde und ein Barkeeper stellen sich dem Holzfäller entgegen.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/538787/bunraku)
 
@@ -3268,7 +3090,6 @@ Welches persönliche Anliegen führt Yoshi (Gackt) in die Stadt von „Bunraku�
 
 Yoshi (Gackt) sucht ein Medaillon, das seinem Clan gestohlen wurde. Er folgt dabei dem letzten Wunsch seines Vaters und reist deshalb mit einer persönlichen Verpflichtung in die fremde Stadt. Dort verbindet sich seine Suche mit dem Drifter (Josh Hartnett) und dem Widerstand gegen Nicola (Ron Perlman). Die gemeinsame Allianz lässt Yoshis eigenes Anliegen bestehen: Der Kampf gegen den Machthaber soll auch das Medaillon zurückbringen.
 
-**Merksatz:** Yoshi sucht das Medaillon; die Allianz entsteht unterwegs.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Bunraku_(film))
 
@@ -3285,7 +3106,6 @@ Welches persönliche Motiv enthüllt der Drifter (Josh Hartnett) Nicola im Final
 
 Der Drifter (Josh Hartnett) tritt zunächst als rätselhafter Fremder auf. Erst gegenüber dem besiegten Nicola (Ron Perlman) erklärt er seine persönliche Geschichte: Nicola hat seinen Vater getötet. Seine Allianz mit Yoshi (Gackt) richtet sich damit aus einem anderen Grund gegen denselben Gegner. Yoshi sucht das Medaillon seines Clans; der Drifter will einen familiären Verlust rächen.
 
-**Merksatz:** Yoshi sucht das Medaillon; der Drifter rächt seinen Vater.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Bunraku_(film))
 
@@ -3302,7 +3122,6 @@ Auf welche Kunstform spielt der Titel „Bunraku“ an?
 
 Im traditionellen Bunraku wirken Puppenspiel, Erzählstimme und Musik zusammen. Guy Moshes Film übernimmt daraus einen Bezug für seine bewusst künstlich gestaltete Welt. Die Darsteller bleiben Menschen; der Titel macht aus dem Werk keinen Puppenfilm. Er lenkt den Blick auf die bühnenhafte Anordnung, das sichtbare Arrangement und die Verbindung verschiedener Ausdrucksformen.
 
-**Merksatz:** Der Titel verweist aufs Puppentheater; der Film arbeitet mit Menschen.
 
 **Quellen:** [Beleg 1](https://www.bunka.go.jp/prmagazine/english/publications/theatre/theatre_002.html), [Beleg 2](https://en.wikipedia.org/wiki/Bunraku_(film))
 
@@ -3319,7 +3138,6 @@ Welchen klassischen Actiondarsteller nannte Stuntkoordinator Clayton Barber als 
 
 Clayton Barber wollte Josh Hartnett und Gackt schon vor dem Dreh für die Action trainieren. Als Bezug nannte er Toshirō Mifune und dessen körperliche Präsenz in klassischen Filmen. Die Hauptdarsteller sollten möglichst viel selbst kämpfen, sodass Figur und Bewegung zusammengehörten. Der Vergleich erklärt einen konkreten Wunsch des Teams: Man sollte dieselbe Person beim Spiel und bei der körperlichen Aktion wiedererkennen.
 
-**Merksatz:** Mifunes körperliche Präsenz war ein Bezug für Bunrakus Hauptdarsteller.
 
 **Quellen:** [Beleg 1](https://tiffmidnightmadness.blogspot.com/2010/09/fighting-words-from-bunrakus-men-of.html?m=1)
 
@@ -3336,7 +3154,6 @@ In welchem Jahr wurde „Bunraku“ erstmals veröffentlicht?
 
 „Bunraku“ hatte seine Weltpremiere 2010 im Midnight-Madness-Programm des Toronto International Film Festival. Veröffentlichungen im regulären Kino folgten später, weshalb auch 2011 mit dem Film verbunden ist. Für diese Frage zählt die erste Festivalveröffentlichung. Die stilisierte Welt mit dem Feuerwaffenverbot besitzt dagegen keine ausdrücklich gleichzusetzende reale Handlungsjahreszahl.
 
-**Merksatz:** Bunraku: erste Veröffentlichung 2010.
 
 **Quellen:** [Beleg 1](https://tiffmidnightmadness.blogspot.com/2010/09/fighting-words-from-bunrakus-men-of.html?m=1), [Beleg 2](https://en.wikipedia.org/wiki/Bunraku_(film))
 
@@ -3353,7 +3170,6 @@ Wer führte bei „Bunraku“ Regie?
 
 Guy Moshe schrieb und inszenierte „Bunraku“. Nach den Schilderungen des Stuntteams war die Action ein wesentlicher Teil seiner Regievorstellung. Jeder Kampf sollte einen eigenen Verlauf und Rhythmus erhalten. Die bühnenhafte Gestaltung lässt sich deshalb nicht auf die Kulissen reduzieren: Auch Bewegungen, Darstellertraining und Choreografie tragen zur künstlich komponierten Welt bei.
 
-**Merksatz:** Bunraku: Regie Guy Moshe.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/538787/bunraku), [Beleg 2](https://tiffmidnightmadness.blogspot.com/2010/09/fighting-words-from-bunrakus-men-of.html?m=1)
 
@@ -3378,7 +3194,6 @@ Welchen angeblichen Job nimmt Jack Mason (Ice-T) in „Surviving the Game“ an?
 
 Jack Mason (Ice-T) braucht einen Ausweg aus seiner unsicheren Lage. Das Arbeitsangebot von Thomas Burns (Rutger Hauer) erscheint zunächst als Chance, wieder Geld zu verdienen. Abseits der Stadt wird aus dieser Aussicht eine Falle. Die Täuschung nutzt nicht nur räumliche Isolation, sondern auch den Umstand, dass jemand in großer Not ein scheinbar vernünftiges Angebot annehmen kann.
 
-**Merksatz:** Das Jobangebot bringt Mason an den Ort der Jagd.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/64863/surviving-the-game), [Beleg 2](https://en.wikipedia.org/wiki/Surviving_the_Game)
 
@@ -3395,7 +3210,6 @@ Was macht die Jagdgesellschaft in „Surviving the Game“ aus ihrem neuen Helfe
 
 Jack Mason (Ice-T) soll kein Tier aufspüren, sondern wird zum Ziel einer Menschenjagd. Die wohlhabenden Teilnehmer betrachten sein Leben als verfügbare Unterhaltung. Die Ausgangslage stellt damit eine extreme Ungleichheit her: Die Jäger besitzen Waffen und kennen den Ort, während Mason ohne vergleichbare Vorbereitung fliehen muss. Sein Widerstand beginnt mit dem Erkennen dieser wirklichen Spielregeln.
 
-**Merksatz:** Der vermeintliche Helfer ist die ausgewählte Beute.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/64863/surviving-the-game)
 
@@ -3412,7 +3226,6 @@ Was entdeckt Mason (Ice-T) bei seiner Rückkehr zur Hütte in „Surviving the G
 
 Die Trophäen zeigen Jack Mason (Ice-T), dass er nicht das erste Opfer dieser Gruppe ist. Hinter dem als Ausflug getarnten Angebot steht eine wiederholte Praxis. Die Entdeckung verändert den Blick auf die vermeintliche Gastfreundschaft der ersten Nacht. Ein vertrautes Jagdmotiv, die ausgestellte Beute, wird hier zum Beweis dafür, dass Menschen systematisch wie Wild behandelt werden.
 
-**Merksatz:** Die Trophäen beweisen: Mason ist nicht ihr erstes Opfer.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Surviving_the_Game)
 
@@ -3429,7 +3242,6 @@ Welcher persönliche Verlust erklärt Griffins (John C. McGinley) Beteiligung an
 
 Griffin (John C. McGinley) jagt Jack Mason (Ice-T), weil ein anderer Obdachloser seine Tochter getötet hat. Er versteht Masons Aussage über den Tod von dessen Frau und Tochter zunächst als Mordgeständnis. Tatsächlich starben Masons Angehörige bei einem Wohnungsbrand, ohne dass er sie retten konnte. Die neue Erkenntnis erschüttert Griffins pauschalen Hass; er will die Jagd danach nicht fortsetzen.
 
-**Merksatz:** Griffin verwechselt Masons Lage mit der Schuld eines anderen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Surviving_the_Game)
 
@@ -3446,7 +3258,6 @@ Welche Haltung trennt die beiden Wolfes in „Surviving the Game“ zu Beginn de
 
 Derek Wolfe Junior (William McNamara) reagiert anders auf die Menschenjagd als sein Vater (F. Murray Abraham). Die gemeinsame Reise bedeutet nicht, dass beide denselben Willen besitzen. Der familiäre Druck zieht den Sohn in die Gewalt hinein. Der Film macht damit einen weiteren Antrieb der Jagd sichtbar: Neben Lust und Rache kann auch erzwungene Zugehörigkeit die Teilnahme bestimmen.
 
-**Merksatz:** Wolfe Junior soll die Härte seines Vaters übernehmen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Surviving_the_Game)
 
@@ -3463,7 +3274,6 @@ Was führt im Finale von „Surviving the Game“ zu Burns’ (Rutger Hauer) Tod
 
 Jack Mason (Ice-T) überwältigt Thomas Burns (Rutger Hauer) in Seattle und hält ihm eine Pistole an den Kopf. Er schießt nicht, sondern lässt die zuvor manipulierte Waffe zurück. Burns hebt sie auf und versucht erneut, Mason zu töten; die Pistole schlägt auf ihn selbst zurück. Die letzte Täuschung kehrt das anfängliche Machtverhältnis um: Diesmal greift der Jäger nach einer trügerischen Chance.
 
-**Merksatz:** Burns greift zur Waffe und löst Masons letzte Falle aus.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Surviving_the_Game)
 
@@ -3480,7 +3290,6 @@ In welchem Jahr wurde „Surviving the Game“ erstmals veröffentlicht?
 
 „Surviving the Game“ kam 1994 in die amerikanischen Kinos. Die Geschichte beginnt mit einem scheinbar hilfreichen Jobangebot und führt den obdachlosen Jack Mason (Ice-T) in eine Menschenjagd. AFI dokumentiert die US-Eröffnungen im April. Das Erstveröffentlichungsjahr gehört damit zur fertigen, öffentlich gezeigten Filmfassung, während die Herstellung bereits zuvor stattfand. Filmjahr und Zeitpunkt einzelner Arbeitsschritte sind unterschiedliche Angaben.
 
-**Merksatz:** Surviving the Game: erste Veröffentlichung 1994.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/60250-SURVIVING-THE-GAME), [Beleg 2](https://www.filmdienst.de/film/details/64863/surviving-the-game)
 
@@ -3497,7 +3306,6 @@ Wer führte bei „Surviving the Game“ Regie?
 
 Ernest R. Dickerson inszenierte die Geschichte einer Menschenjagd mit Ice-T in der Hauptrolle. Die Begegnung der Beteiligten beginnt als scheinbar normales Arbeitsangebot und verwandelt sich erst am isolierten Jagdort in offene Gewalt. Die Regie verbindet dadurch die Einführung einer verletzlichen Figur mit einem körperlichen Überlebenskampf. Eric Bernt schrieb das Drehbuch.
 
-**Merksatz:** Surviving the Game: Regie Ernest R. Dickerson.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/60250-SURVIVING-THE-GAME), [Beleg 2](https://www.filmdienst.de/film/details/64863/surviving-the-game)
 
@@ -3522,7 +3330,6 @@ Wen versucht Mr. Smith (Clive Owen) in „Shoot ’Em Up“ trotz der ständigen
 
 Mr. Smith (Clive Owen) hilft einer angegriffenen Schwangeren bei der Geburt. Als die Mutter getötet wird, bleibt das Neugeborene in seiner Obhut. Smith sucht Unterstützung bei DQ (Monica Bellucci), während bewaffnete Verfolger das Kind töten wollen. Jeder Fluchtweg verlangt deshalb zugleich Versorgung und Verteidigung. Der ungewöhnliche Schutzauftrag verbindet die übersteigerte Action mit der ganz praktischen Verantwortung für ein hilfloses Baby.
 
-**Merksatz:** Mitten im Kugelhagel muss ein Baby am Leben bleiben.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/529628/shoot-em-up), [Beleg 2](https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film))
 
@@ -3539,7 +3346,6 @@ Welches Lebensmittel benutzt Mr. Smith (Clive Owen) in „Shoot ’Em Up“ wied
 
 Die Karotte begleitet Mr. Smith (Clive Owen) durch den Film und wird mehrmals in seine Aktionen eingebaut. Das alltägliche Lebensmittel steht im absurden Gegensatz zu Pistolen und Verfolgern. Michael Davis verknüpfte das Motiv mit seiner Liebe zu Zeichentrickfilmen. Der Gegenstand ist deshalb kein zufälliges Requisit, sondern Teil des überzeichneten Tonfalls und der visuellen Gags.
 
-**Merksatz:** Smiths Karotte ist Snack, Signatur und Actionrequisit.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film)), [Beleg 2](https://www.awn.com/vfxworld/drawing-board-screen-shoot-em-previs), [Beleg 3](https://www.awn.com/vfxworld/drawing-board-screen-shoot-em-previs)
 
@@ -3556,7 +3362,6 @@ Wie führt das Verhalten des Babys Smith (Clive Owen) in „Shoot ’Em Up“ zu
 
 Mr. Smith (Clive Owen) bemerkt, dass das Baby auf Heavy Metal ungewöhnlich ruhig reagiert. Er folgert, dass die Mutter in der Nähe eines solchen Clubs lebte. Der kleine Versorgungshinweis wird damit zu einer Ermittlungsinformation. Oberhalb des Clubs findet er eine medizinisch ausgestattete Wohnung, die den größeren Zusammenhang der Verfolgung erkennen lässt.
 
-**Merksatz:** Was das Baby beruhigt, weist auf seinen bisherigen Aufenthaltsort.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film))
 
@@ -3573,7 +3378,6 @@ Warum wird das Baby in „Shoot ’Em Up“ im politischen Machtkampf so wichtig
 
 Die medizinische Spur führt Mr. Smith (Clive Owen) zu Senator Rutledge (Daniel Pilon). Das Kind gehört zu einem Plan, passende Spender für den erkrankten Politiker zu erzeugen. Die Verfolgung erhält damit einen anderen Maßstab: Hinter den Angreifern stehen politische und wirtschaftliche Interessen. Der Schutz des Babys hängt plötzlich mit dem Überleben eines mächtigen Erwachsenen zusammen.
 
-**Merksatz:** Das Baby wird wegen seiner geplanten Spenderrolle gejagt.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Shoot_%27Em_Up_(film))
 
@@ -3590,7 +3394,6 @@ Welches Zeichentrick-Gegnerpaar nannte Michael Davis als Bezug für Smith und He
 
 Michael Davis erklärte die Karotten und den Zeichentrickton als zusammengehörige Elemente. Mr. Smith (Clive Owen) erhält Züge von Bugs Bunny, während Hertz (Paul Giamatti) an Elmer Fudd erinnert. Das erklärt den spielerisch übertriebenen Charakter ihrer Feindschaft. Die Parallele ist eine Aussage des Filmemachers über seinen Ansatz und keine Behauptung, der Film verfilme einen Looney-Tunes-Stoff.
 
-**Merksatz:** Karottenheld und wütender Jäger erinnern an Bugs und Elmer.
 
 **Quellen:** [Beleg 1](https://www.awn.com/vfxworld/drawing-board-screen-shoot-em-previs)
 
@@ -3607,7 +3410,6 @@ Womit machte Michael Davis seine Actionideen für „Shoot ’Em Up“ vor den D
 
 Die Animationen halfen Michael Davis, seine ungewöhnlichen Actionideen zu vermitteln. Später konnte das Team die vorbereiteten Szenen gemeinsam abspielen und Bewegungen, Effekte sowie Kamerapositionen darauf abstimmen. Die Vorvisualisierung war somit zugleich Überzeugungsmittel und Arbeitsgrundlage. Der Zeichner und Regisseur plante die kinetischen Abläufe, bevor eine große Mannschaft sie mit realen Darstellern umsetzte.
 
-**Merksatz:** Gezeichnete Action half erst beim Überzeugen, dann beim Drehen.
 
 **Quellen:** [Beleg 1](https://www.awn.com/vfxworld/drawing-board-screen-shoot-em-previs)
 
@@ -3624,7 +3426,6 @@ In welchem Jahr wurde „Shoot ’Em Up“ erstmals veröffentlicht?
 
 „Shoot ’Em Up“ wurde 2007 veröffentlicht. Michael Davis entwickelte den Stoff und seine gezeichnete Actionvorbereitung über einen längeren Zeitraum, bevor New Line das Projekt realisierte. Die Entstehungsidee ist daher älter als der veröffentlichte Film. In der fertigen Fassung verbinden sich Realfilm, übertriebene Schusswechsel und deutlich benannte Zeichentrickeinflüsse.
 
-**Merksatz:** Shoot 'Em Up: erste Veröffentlichung 2007.
 
 **Quellen:** [Beleg 1](https://www.awn.com/vfxworld/drawing-board-screen-shoot-em-previs), [Beleg 2](https://www.filmdienst.de/film/details/529628/shoot-em-up)
 
@@ -3641,7 +3442,6 @@ Wer führte bei „Shoot ’Em Up“ Regie?
 
 Michael Davis schrieb und inszenierte „Shoot ’Em Up“. Seine Arbeit als Zeichner war für das Projekt entscheidend: Er bereitete die Action in Storyboards und Animationen vor. Der übertriebene Ton entstand auch aus seiner Begeisterung für Zeichentrickgags. Statt die großen Bewegungen erst am Set zu suchen, gab er den beteiligten Abteilungen eine anschauliche gemeinsame Vorlage.
 
-**Merksatz:** Shoot 'Em Up: Regie Michael Davis.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/529628/shoot-em-up), [Beleg 2](https://www.awn.com/vfxworld/drawing-board-screen-shoot-em-previs)
 
@@ -3666,7 +3466,6 @@ Welcher sagenhafte König steht im Mittelpunkt von „Excalibur“?
 
 Artus (Nigel Terry) wird zunächst als junger Knappe gezeigt. Als er das Schwert aus dem Stein zieht, entsteht aus seiner alltäglichen Suche nach einer Waffe eine Offenbarung seiner Herkunft und Aufgabe. Merlin (Nicol Williamson) begleitet ihn auf dem Weg zum König. Der Film verfolgt danach nicht nur einen einzelnen Ritterkampf, sondern Aufstieg, Zerfall und letzte Erneuerung von Artus’ Reich.
 
-**Merksatz:** Das Schwert macht den Knappen Artus zum König.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3683,7 +3482,6 @@ Welche Rolle übernimmt Merlin (Nicol Williamson) gegenüber Artus in „Excalib
 
 Merlin (Nicol Williamson) wirkt bereits in der Vorgeschichte von Artus (Nigel Terry). Er bewahrt das Kind und begleitet später den jungen Mann, der das Schwert zieht. Sein Wissen und seine Magie ermöglichen entscheidende Übergänge, lösen aber nicht alle menschlichen Konflikte. Artus muss Entscheidungen selbst treffen. Die Figur verbindet so die ältere magische Welt mit einem Reich, das durch Ritter und politische Bindungen geordnet werden soll.
 
-**Merksatz:** Merlin weist Wege; Artus muss sie gehen.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3700,7 +3498,6 @@ Warum zerbricht Excalibur, als Artus (Nigel Terry) mit Lancelot (Nicholas Clay) 
 
 Artus (Nigel Terry) will im Zweikampf gegen Lancelot (Nicholas Clay) nicht nachgeben. Er setzt die besondere Macht Excaliburs ein und begreift erst nach dem Bruch, dass sein eigener Stolz die Waffe zerstört hat. Als er dies einsieht, erhält er das wiederhergestellte Schwert zurück. Die Szene verknüpft königliche Macht mit einer Grenze: Ein rechtmäßiger König kann seine Macht dennoch falsch einsetzen.
 
-**Merksatz:** Das Königsschwert zerbricht am Stolz seines Königs.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3717,7 +3514,6 @@ Artus (Nigel Terry) will im Zweikampf gegen Lancelot (Nicholas Clay) nicht nachg
 
 Perceval (Paul Geoffrey) erkennt, dass der Gral Artus (Nigel Terry) dient und König und Land miteinander verbunden sind. Als Artus daraus trinkt, kehrt seine Kraft zurück; auch das zuvor kranke Land erneuert sich. Der Film zeigt den Herrscher damit nicht nur als Person in einer Burg. Sein Zustand wirkt auf die ganze Welt des Reichs, weshalb eine Heilung zugleich eine Erneuerung der Gemeinschaft bedeutet.
 
-**Merksatz:** Der Gral heilt den König und damit das Land.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3734,7 +3530,6 @@ Warum kann Artus (Nigel Terry) Mordred trotz dessen Schutzzauber mit Excalibur t
 
 Morgana (Helen Mirren) versieht Mordred (Robert Addie) mit einem Schutz gegen Waffen, die Menschen geschaffen haben. Excalibur stammt jedoch aus der magischen Welt der Herrin vom See. Als Artus (Nigel Terry) seinen Sohn damit trifft, greift die Ausnahme. Der letzte Zweikampf wird so nicht durch eine plötzlich eingeführte neue Waffe entschieden. Er führt die Herkunft des längst bekannten Schwerts und die genaue Grenze des Zaubers zusammen.
 
-**Merksatz:** Menschenwaffen scheitern; Excaliburs Herkunft macht die Ausnahme.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3751,7 +3546,6 @@ Aus welchem Werk stammt das in „Excalibur“ verwendete Chorstück „O Fortun
 
 Die Musik von „Excalibur“ besteht nicht ausschließlich aus einer neu geschriebenen Filmmusik. AFI nennt Trevor Jones für die Originalmusik und führt daneben Werke von Richard Wagner sowie „O Fortuna“ aus Carl Orffs „Carmina Burana“ auf. Bekannte Konzertmusik wird dadurch Teil der filmischen Ritterwelt. Für die Zuordnung ist zwischen dem Komponisten der Originalmusik und dem Ursprung bereits bestehender verwendeter Stücke zu unterscheiden.
 
-**Merksatz:** Jones schrieb die Filmmusik; Orff lieferte „O Fortuna“.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3768,7 +3562,6 @@ In welchem Jahr wurde John Boormans Film „Excalibur“ erstmals veröffentlich
 
 „Excalibur“ erschien 1981. AFI nennt die Eröffnung in Los Angeles und New York am 10. April. Die Produktion griff eine jahrhundertealte Sage auf und wurde in der Republik Irland gedreht. Weder die Zeit der literarischen Überlieferung noch ein Drehbeginn ersetzt dabei das Veröffentlichungsjahr. Artus (Nigel Terry) und Merlin (Nicol Williamson) gehören zu dieser konkret gewählten Filmfassung.
 
-**Merksatz:** Excalibur: 1981.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3785,7 +3578,6 @@ Wer führte bei „Excalibur“ mit Nigel Terry, Nicol Williamson und Helen Mirr
 
 John Boorman führte Regie und arbeitete mit Rospo Pallenberg am Drehbuch. AFI verzeichnet daneben Peter MacDonald ausdrücklich für die Second Unit. Der Hauptregiecredit bleibt deshalb bei Boorman. Die Inszenierung verbindet Artus’ politische Entwicklung mit Magie und einer sichtbar auf den König reagierenden Landschaft. Vorhandene Musik von Richard Wagner und Carl Orff steht neben der Originalmusik von Trevor Jones und unterstützt die große Sagenform.
 
-**Merksatz:** Excalibur – John Boorman.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/56592-EXCALIBUR)
 
@@ -3810,7 +3602,6 @@ Warum unterbricht der alte Baron (John Neville) zu Beginn von „Die Abenteuer d
 
 Der Baron Münchhausen (John Neville) begegnet dem Publikum nicht zuerst in einem fernen Fantasiereich, sondern in einem Theater. Eine Truppe spielt seine Abenteuer, und er beansprucht die richtige Fassung der Geschichte für sich. Seine Einmischung macht die Grenze zwischen aufgeführter Geschichte und vermeintlicher Wirklichkeit sofort unsicher. Das Theater bleibt ein wichtiger Rahmen, während seine Erzählung immer weitere fantastische Orte erschließt.
 
-**Merksatz:** Der Baron betritt seine eigene, angeblich falsch erzählte Geschichte.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/8025-the-adventures-of-baron-munchausen-a-reason-to-believe)
 
@@ -3827,7 +3618,6 @@ Der Baron Münchhausen (John Neville) begegnet dem Publikum nicht zuerst in eine
 
 Sally Salt (Sarah Polley) gehört zum Theater und lässt sich von Baron Münchhausen (John Neville) nicht einfach abschütteln. Sie hilft ihm und reist als ungebetene Begleiterin mit. Ihre Neugier und direkte Art halten die fantastische Geschichte an einer konkreten menschlichen Beziehung fest. Der alte Mann erzählt nicht nur über vergangene Heldentaten: Mit Sally an seiner Seite muss er auch neue Gefahren bewältigen.
 
-**Merksatz:** Sally kommt aus dem Theater und geht mit ins Abenteuer.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen), [Beleg 2](https://www.criterion.com/films/29570-the-adventures-of-baron-munchausen)
 
@@ -3844,7 +3634,6 @@ Sally Salt (Sarah Polley) gehört zum Theater und lässt sich von Baron Münchha
 
 Baron Münchhausen (John Neville) baut eine ungewöhnliche Ballonhülle aus zusammengefügter Damenunterwäsche. Sally Salt (Sarah Polley) nimmt als blinde Passagierin teil. Die improvisierte Flucht führt nicht nur aus der belagerten Stadt, sondern bis zum Mond. Der Film macht damit aus einem vertrauten Material eine absurde technische Lösung. Eine alltägliche Herkunft des Gegenstands und ein unmöglicher Reiseweg gehören zur selben Fantasie.
 
-**Merksatz:** Unterwäsche wird zur Hülle für eine Mondreise.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen)
 
@@ -3861,7 +3650,6 @@ Baron Münchhausen (John Neville) baut eine ungewöhnliche Ballonhülle aus zusa
 
 Der Mondkönig (Robin Williams) kann Kopf und Körper voneinander trennen. Beide Teile haben unterschiedliche Wünsche, was seine Begegnung mit Baron Münchhausen (John Neville) noch widersprüchlicher macht. Die fantastische Körperidee macht einen Gegensatz zwischen Denken und Begehren sichtbar, ohne ihn nur erklären zu lassen. Williams erscheint im Filmcredit unter dem Namen Ray D. Tutto; Schauspieler und Filmrolle bleiben dennoch derselbe Auftritt.
 
-**Merksatz:** Beim Mondkönig sind Denken und Körper buchstäblich getrennt.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen), [Beleg 2](https://www.criterion.com/films/29570-the-adventures-of-baron-munchausen)
 
@@ -3878,7 +3666,6 @@ Der Mondkönig (Robin Williams) kann Kopf und Körper voneinander trennen. Beide
 
 Horatio Jackson (Jonathan Pryce) beruft sich auf Vernunft und Ordnung. Trotzdem bestraft er einen Soldaten gerade für eine außergewöhnliche Heldentat. Die absurde Begründung macht seine Verwaltung nicht nur kleinlich, sondern tödlich. Baron Münchhausen (John Neville) steht dieser Ordnung mit Übertreibung und Fantasie gegenüber. Die Szene setzt einen konkreten Widerspruch zwischen dem Anspruch vernünftiger Herrschaft und ihrem Handeln, bevor die große Reise überhaupt beginnt.
 
-**Merksatz:** Zu heldenhaft für Jacksons Ordnung.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen)
 
@@ -3895,7 +3682,6 @@ Horatio Jackson (Jonathan Pryce) beruft sich auf Vernunft und Ordnung. Trotzdem 
 
 Baron Münchhausen (John Neville) findet im Inneren des Meereswesens weitere Gefährten wieder. Anstatt den riesigen Körper im Kampf zu bezwingen, nutzt die Gruppe eine sehr kleine Ursache: Schnupftabak reizt das Tier und löst einen gewaltigen Niesstoß aus. Die Lösung folgt damit der maßlosen Logik des Abenteuers. Ein alltäglicher körperlicher Reflex wird zur Kraft, die Menschen und ihre Reiseausrüstung aus der Gefangenschaft befördert.
 
-**Merksatz:** Ein wenig Schnupftabak liefert einen riesigen Ausgang.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen)
 
@@ -3912,7 +3698,6 @@ In welchem Jahr wurde Terry Gilliams „Die Abenteuer des Baron Münchhausen“ 
 
 Die erste Veröffentlichung gehört zu 1988. Filmdienst nennt den deutschen Kinostart am 8. Dezember, und Criterion führt die Edition unter demselben Filmjahr. Veröffentlichungen in anderen Ländern folgten teilweise erst 1989. Baron Münchhausen (John Neville) und Sally Salt (Sarah Polley) gehören zur hier gemeinten Fassung. Das Filmjahr bezieht sich auf deren erste Veröffentlichung und nicht auf einen späteren Landesstart.
 
-**Merksatz:** Die Abenteuer des Baron Münchhausen: 1988.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/29570-the-adventures-of-baron-munchausen), [Beleg 2](https://www.filmdienst.de/film/details/3403/die-abenteuer-des-baron-munchhausen)
 
@@ -3929,7 +3714,6 @@ Wer inszenierte „Die Abenteuer des Baron Münchhausen“ mit John Neville und 
 
 Terry Gilliam führte Regie und schrieb mit Charles McKeown das Drehbuch. Die offizielle Criterion-Edition ist vom Regisseur gebilligt und nennt beide Funktionen getrennt. Der Film setzt die Erzählfantasie des Barons (John Neville) gegen die behauptete Vernunft einer belagerten Stadt. Theater, Mond und Meereswesen bilden dabei verschiedene Ebenen eines Abenteuers, dessen Bilder die Grenzen zwischen aufgeführter Geschichte und erlebter Wirklichkeit bewusst beweglich halten.
 
-**Merksatz:** Die Abenteuer des Baron Münchhausen – Terry Gilliam.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/29570-the-adventures-of-baron-munchausen), [Beleg 2](https://www.criterion.com/current/posts/8025-the-adventures-of-baron-munchausen-a-reason-to-believe)
 
@@ -3954,7 +3738,6 @@ Warum bricht Colwyn (Ken Marshall) in „Krull“ zur Schwarzen Festung auf?
 
 Colwyn (Ken Marshall) und Lyssa (Lysette Anthony) sollen durch ihre Hochzeit zwei Reiche verbinden. Ein Angriff unterbricht jedoch die Zeremonie und führt zu Lyssas Entführung. Colwyns Suche ist deshalb zugleich persönlich und politisch: Er will die Frau retten und sich gegen die Macht stellen, die seinen Planeten bedroht. Auf der Reise findet er Hilfe außerhalb der ursprünglich versammelten königlichen Streitkräfte.
 
-**Merksatz:** Die unterbrochene Hochzeit wird zur Rettungsreise.
 
 **Quellen:** [Beleg 1](https://www.sonypictures.com/movies/krull), [Beleg 2](https://en.wikipedia.org/wiki/Krull_(film))
 
@@ -3971,7 +3754,6 @@ Welche Form hat die Glaive, die Colwyn (Ken Marshall) in „Krull“ sucht?
 
 Colwyn (Ken Marshall) sucht die Glaive auf Rat von Ynyr (Freddie Jones). Ihre auffällige Sternform unterscheidet sie von einem gewöhnlichen Schwert oder Speer. Die Waffe wird zum erkennbaren Bild des Films und begleitet Colwyn bis zum Kampf gegen das Ungeheuer. Ihr Besitz allein ersetzt jedoch nicht die Unterstützung der Reisegefährten. Die Quest verlangt weiterhin Wissen, gemeinsames Handeln und Entscheidungen unter Zeitdruck.
 
-**Merksatz:** Krulls Glaive ist der fünfklingige Wurfstern.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Krull_(film))
 
@@ -3988,7 +3770,6 @@ Was erschwert in „Krull“ die Suche nach der Schwarzen Festung besonders?
 
 Die Schwarze Festung ist nicht einfach eine Burg auf einem erreichbaren Berg. Sie wechselt regelmäßig ihren Standort. Colwyn (Ken Marshall) und seine Gefährten benötigen deshalb Wissen über ihren nächsten Aufenthalt und ein ausreichend schnelles Transportmittel. Die wiederholte Verlagerung macht die Quest zum Wettlauf gegen die Zeit. Eine richtige Ortsangabe nützt nur so lange, wie die Gruppe sie vor dem nächsten Wechsel erreichen kann.
 
-**Merksatz:** Eine wandernde Festung verlangt einen Wettlauf.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Krull_(film))
 
@@ -4005,7 +3786,6 @@ Mit welcher Fähigkeit kann Ergo (David Battley) die Gefährten in „Krull“ u
 
 Ergo (David Battley) erscheint zunächst als großsprecherischer Magier, dessen Zauber nicht immer reibungslos gelingen. Seine Verwandlung in Tiere wird jedoch im Verlauf der Reise praktisch wichtig. Im letzten Kampf schützt er Titch (Graham McGrath) als Tiger. Die Figur bleibt dadurch nicht nur komische Begleitung. Eine zunächst belächelte Fähigkeit trägt schließlich dazu bei, dass ein schwächeres Mitglied der Gruppe eine konkrete Gefahr überlebt.
 
-**Merksatz:** Der prahlende Magier kann als Tier wirklich helfen.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Krull_(film))
 
@@ -4022,7 +3802,6 @@ Ergo (David Battley) erscheint zunächst als großsprecherischer Magier, dessen 
 
 Ynyr (Freddie Jones) erhält von der Witwe im Netz (Francesca Annis) den nächsten Aufenthaltsort der Festung und verzauberten Sand. Dieser schützt ihn zunächst und hält ihn trotz seiner Verletzung am Leben. Er kehrt zu Colwyn (Ken Marshall) zurück, um das Wissen weiterzugeben. Als der letzte Sand verloren geht, stirbt er. Der Hinweis auf das Ziel wird so mit einem sichtbaren Opfer und einer begrenzten Frist verbunden.
 
-**Merksatz:** Ynyrs letzte Zeit rinnt mit dem Sand davon.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Krull_(film))
 
@@ -4039,7 +3818,6 @@ Woher gewinnen Colwyn und Lyssa die Macht, das Ungeheuer am Ende von „Krull“
 
 Colwyn (Ken Marshall) und Lyssa (Lysette Anthony) können den Gegner nicht allein mit der Glaive besiegen. Sie vollenden deshalb das Ritual, das durch den ursprünglichen Angriff unterbrochen wurde. Daraus entsteht die Feuerkraft für den Sieg. Anfang und Ende des Films greifen unmittelbar ineinander: Was zunächst zwei Reiche verbinden sollte, wird im letzten Kampf zur entscheidenden gemeinsamen Macht der beiden Figuren.
 
-**Merksatz:** Die unterbrochene Hochzeit wird im Finale zur rettenden Kraft.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Krull_(film))
 
@@ -4056,7 +3834,6 @@ Wann wurde „Krull“ mit Ken Marshall und Lysette Anthony erstmals veröffentl
 
 „Krull“ erschien 1983. Die Produktionsangabe 1982/83 in Filmdienst bezeichnet die Entstehungsspanne, während die Veröffentlichung dem späteren dieser beiden Jahre zugeordnet wird. Colwyn (Ken Marshall) sucht in dieser Fassung seine entführte Braut Lyssa (Lysette Anthony). Sony führt den Film ebenfalls unter einem Copyright aus 1983. Die Fantasiewelt und die britische Produktion werden damit zeitlich eindeutig eingeordnet.
 
-**Merksatz:** Krull: 1983.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Krull_(film)), [Beleg 2](https://www.sonypictures.com/movies/krull)
 
@@ -4073,7 +3850,6 @@ Wer inszenierte „Krull“ mit Ken Marshall und Lysette Anthony?
 
 Peter Yates führte Regie. Der Film verbindet eine Ritter- und Märchenquest mit einem Gegner, dessen Festung zugleich als fremdartiges Raumschiff erscheint. Colwyn (Ken Marshall) sammelt auf seiner Suche eine Gruppe unterschiedlicher Helfer. James Horner schrieb die Musik. Der Hauptregiecredit ist von diesen anderen künstlerischen Beiträgen zu unterscheiden und gehört zum konkret ausgewählten britischen Film mit der sternförmigen Glaive.
 
-**Merksatz:** Krull – Peter Yates.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/27987/krull), [Beleg 2](https://en.wikipedia.org/wiki/Krull_(film))
 
@@ -4098,7 +3874,6 @@ Neuerer Einstieg mit Gruppe, Magie und Quest; verbessert zugleich die schwache A
 
 Edgin Darvis (Chris Pine) hat nach dem Tod seiner Frau mit Holga Kilgore (Michelle Rodriguez) für Kira (Chloe Coleman) gesorgt. Während seiner Gefangenschaft kommt das Mädchen zu Forge (Hugh Grant), der ihr ein verzerrtes Bild des Vaters vermittelt. Edgin muss deshalb mehr als einen physischen Zugang zu ihr finden. Er will Vertrauen zurückgewinnen, das durch seine Abwesenheit und Forges Lügen beschädigt wurde.
 
-**Merksatz:** Edgins erster Schatz ist die Verbindung zu Kira.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves)
 
@@ -4115,7 +3890,6 @@ Edgin Darvis (Chris Pine) hat nach dem Tod seiner Frau mit Holga Kilgore (Michel
 
 Doric (Sophia Lillis) ist eine Druidin, die ihre Gestalt wechseln kann. Die Fähigkeit hilft der Gruppe nicht nur in Kämpfen, sondern auch beim Auskundschaften eines bewachten Ortes. Sie benötigt dafür keinen offen vorgetragenen Angriff. Der Film macht die Rollen der Gruppe durch solche Einsätze verständlich: Edgin Darvis (Chris Pine) plant, während andere Mitglieder mit ihren besonderen Fähigkeiten Zugänge und Auswege schaffen.
 
-**Merksatz:** Dorics Zugang beginnt mit einem Gestaltwechsel.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves)
 
@@ -4132,7 +3906,6 @@ Doric (Sophia Lillis) ist eine Druidin, die ihre Gestalt wechseln kann. Die Fäh
 
 Simon Aumar (Justice Smith) besitzt magische Fähigkeiten, hält sich aber oft selbst für unzureichend. Der Helm verlangt eine Abstimmung, bei der dieses Selbstbild zum Hindernis wird. Sein Fortschritt ist deshalb nicht nur der Erwerb eines neuen Gegenstands. Er verändert seine Haltung gegenüber dem eigenen Können. Die Gruppe braucht sowohl die magische Ausstattung als auch einen Menschen, der sie tatsächlich einsetzen kann.
 
-**Merksatz:** Der Helm funktioniert erst mit Simons Vertrauen in sich selbst.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves)
 
@@ -4149,7 +3922,6 @@ Simon Aumar (Justice Smith) besitzt magische Fähigkeiten, hält sich aber oft s
 
 Edgin Darvis (Chris Pine) und seine Gefährten könnten mit dem Gold entkommen. Stattdessen lenken sie es mithilfe eines Portals zu einem Ballon über der Stadt. Die Bewohner folgen dem ausgeschütteten Reichtum und verlassen den Ort, an dem Sofina (Daisy Head) sie verwandeln will. Ein zunächst eigennütziger Diebstahl wird dadurch zu einer Rettungsaktion. Die Gruppe verändert das Ziel, ohne ihre erfinderischen Diebesmethoden aufzugeben.
 
-**Merksatz:** Der Goldregen ist ein Köder zur Rettung.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves)
 
@@ -4166,7 +3938,6 @@ Edgin Darvis (Chris Pine) und seine Gefährten könnten mit dem Gold entkommen. 
 
 Kira (Chloe Coleman) hat einen Anhänger, der sie unsichtbar machen kann. Im Kampf gegen Sofina (Daisy Head) nutzt sie ihn für einen präzisen Eingriff: Sie bringt ein Armband an, das die Zaubermacht blockiert. Ein zuvor eingeführter Gegenstand und ein früher bekanntes Mittel gegen Magie wirken zusammen. Das Mädchen bleibt dadurch nicht nur das Ziel von Edgin Darvis’ (Chris Pine) Rettungsplan, sondern trägt selbst zur Lösung bei.
 
-**Merksatz:** Unsichtbarkeit bringt Antimagie nah genug an Sofina.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves)
 
@@ -4183,7 +3954,6 @@ Kira (Chloe Coleman) hat einen Anhänger, der sie unsichtbar machen kann. Im Kam
 
 Edgin Darvis (Chris Pine) wollte die Tafel ursprünglich für seine verstorbene Frau Zia verwenden. Als Holga Kilgore (Michelle Rodriguez) tödlich verletzt wird, entscheidet er anders. Er erkennt, dass Holga für Kira (Chloe Coleman) eine tatsächlich gelebte Mutterrolle übernommen hat. Das Ende verbindet daher die magische Handlung mit einer konkreten familiären Einsicht: Edgin schützt die vorhandene Bindung, statt nur seine verlorene Vergangenheit zurückzuholen.
 
-**Merksatz:** Edgin rettet die Familie, die Kira wirklich hat.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves)
 
@@ -4200,7 +3970,6 @@ In welchem Jahr wurde „Dungeons & Dragons: Ehre unter Dieben“ erstmals verö
 
 Der Film wurde 2023 erstmals veröffentlicht und im März bei SXSW vorgestellt. Filmdienst führt 2022 als Produktionsjahr sowie einen deutschen Kinostart im März 2023. Diese Daten dürfen nicht gleichgesetzt werden. Edgin Darvis (Chris Pine) und Holga Kilgore (Michelle Rodriguez) bilden das Zentrum dieser konkreten Kinoadaption. Das viel ältere Rollenspiel als Vorlage hat wiederum eine andere Entstehungsgeschichte als der hier datierte Film.
 
-**Merksatz:** Dungeons & Dragons: Ehre unter Dieben: 2023.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves), [Beleg 2](https://www.filmdienst.de/film/details/620553/dungeons-dragons-ehre-unter-dieben)
 
@@ -4217,7 +3986,6 @@ Welches Duo führte bei „Dungeons & Dragons: Ehre unter Dieben“ gemeinsam Re
 
 Jonathan Goldstein und John Francis Daley führten gemeinsam Regie. Die offizielle Paramount-Seite nennt beide Namen als Regie und außerdem im Drehbuchcredit neben Michael Gilio. Die vollständige Zuordnung muss deshalb beide Personen enthalten. Der Film übersetzt Rollen und Magie des Spiels in eine gemeinsame Abenteuerhandlung: Edgin Darvis (Chris Pine) sammelt Helfer, deren unterschiedliche Fähigkeiten für Zugänge, Täuschungen und das Finale nötig werden.
 
-**Merksatz:** Dungeons & Dragons: Ehre unter Dieben – Jonathan Goldstein und John Francis Daley.
 
 **Quellen:** [Beleg 1](https://www.paramountpictures.com/movies/dungeons-&-dragons-honor-among-thieves)
 
@@ -4242,7 +4010,6 @@ Was beansprucht der dämonische Abgesandte des Teufels am Anfang von „Solomon 
 
 Solomon Kane (James Purefoy) wird zunächst als gewalttätiger Plünderer gezeigt. Beim Angriff auf einen fremden Ort begegnet er einer Macht, die seine eigene Gewalt übersteigt. Der dämonische Abgesandte beansprucht seine Seele für die Hölle. Kane entkommt, nimmt die Bedrohung aber ernst. Aus diesem Erlebnis entsteht der Wunsch, sein Leben zu ändern. Die spätere Reise beginnt damit aus Angst vor den Folgen seiner früheren Taten.
 
-**Merksatz:** Kanes Gegner fordert nicht Gold, sondern seine Seele.
 
 **Quellen:** [Beleg 1](https://pad.mymovies.it/filmclub/2009/07/266/mymovies.pdf)
 
@@ -4259,7 +4026,6 @@ Welchen Vorsatz fasst Solomon Kane (James Purefoy), nachdem er dem dämonischen 
 
 Solomon Kane (James Purefoy) glaubt nach der Begegnung, dass seine bisherigen Taten seine Seele verdammt haben. Er zieht sich zurück, gibt Besitz auf und versucht, ohne Gewalt zu leben. Der Film setzt diesen Vorsatz später unter Druck. Seine Vergangenheit ist deshalb nicht nur eine Erklärung für Kampffähigkeiten. Sie bildet ein Problem, das er auf seiner Reise lösen will und bei jeder erneuten Anwendung von Gewalt mit sich trägt.
 
-**Merksatz:** Kane sucht Frieden, weil seine Gewalt Folgen hat.
 
 **Quellen:** [Beleg 1](https://pad.mymovies.it/filmclub/2009/07/266/mymovies.pdf)
 
@@ -4276,7 +4042,6 @@ Solomon Kane (James Purefoy) glaubt nach der Begegnung, dass seine bisherigen Ta
 
 Die Familie Crowthorn nimmt Solomon Kane (James Purefoy) freundlich auf. Angreifer töten Angehörige und entführen Meredith (Rachel Hurd-Wood). Kane kann die Gewalt nicht verhindern und übernimmt den Auftrag, das Mädchen zurückzuholen. Damit gerät sein Vorsatz in einen Widerspruch: Für ein friedliches Leben hatte er auf Kampf verzichtet, doch die Rettung eines anderen Menschen scheint nun genau diese Fähigkeiten zu verlangen.
 
-**Merksatz:** Der Gewaltverzicht gerät durch Merediths Entführung unter Druck.
 
 **Quellen:** [Beleg 1](https://pad.mymovies.it/filmclub/2009/07/266/mymovies.pdf)
 
@@ -4293,7 +4058,6 @@ Die Familie Crowthorn nimmt Solomon Kane (James Purefoy) freundlich auf. Angreif
 
 Solomon Kane (James Purefoy) glaubt nach einer falschen Auskunft, Meredith Crowthorn (Rachel Hurd-Wood) sei tot, und verliert seine Hoffnung. Während seiner Kreuzigung hört er ihre Stimme aus der Gefangenschaft. Die erneute Gewissheit, dass sie lebt, bringt ihn zurück zur Rettungsaufgabe. Der Wendepunkt entsteht damit aus einer korrigierten Information und einer persönlichen Bindung, nicht aus einer plötzlich erhaltenen neuen Waffe.
 
-**Merksatz:** Merediths Stimme gibt Kane seine Aufgabe zurück.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Solomon_Kane_(film))
 
@@ -4310,7 +4074,6 @@ Wer verbirgt sich in „Solomon Kane“ hinter dem maskierten Anführer der Verf
 
 Der maskierte Anführer ist Marcus (Samuel Roukin), der Bruder von Solomon Kane (James Purefoy). Ihr Vater Josiah (Max von Sydow) ließ sich auf Malachi (Jason Flemyng) ein, um den schwer verletzten Marcus zu retten. Die erhoffte Heilung machte den Sohn jedoch zu einem Werkzeug der dunklen Macht. Die Enthüllung verbindet die äußere Rettungsmission mit Kanes eigener Familiengeschichte und den Folgen eines verzweifelten Handels.
 
-**Merksatz:** Unter der Maske steckt Kanes eigene Familiengeschichte.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Solomon_Kane_(film)), [Beleg 2](https://www.filmdienst.de/film/details/536362/solomon-kane)
 
@@ -4327,7 +4090,6 @@ Wie geht „Solomon Kane“ mit Robert E. Howards literarischer Figur um?
 
 Robert E. Howard schuf Solomon Kane als literarischen Wanderer in fantastischen Abenteuern. James Purefoy erläutert im Interview, dass die Erzählungen keine ausgearbeitete Vorgeschichte für diesen bereits handelnden Mann liefern. Der Film ergänzt deshalb einen Weg von Gewalt, Schuld und Erlösung. Es ist eine Adaption der Figur und ihrer Welt, deren Ursprung eigens erzählt wird, statt eine einzelne Howard-Geschichte unverändert auf die Leinwand zu übertragen.
 
-**Merksatz:** Howards Wanderer erhält im Film eine neue Vorgeschichte.
 
 **Quellen:** [Beleg 1](https://pad.mymovies.it/filmclub/2009/07/266/mymovies.pdf), [Beleg 2](https://www.denofgeek.com/movies/solomon-kane-james-purefoy-interview/)
 
@@ -4344,7 +4106,6 @@ In welchem Jahr wurde „Solomon Kane“ mit James Purefoy erstmals öffentlich 
 
 „Solomon Kane“ wurde bereits 2009 auf Filmfestivals gezeigt. Allgemeine Kinostarts in mehreren Ländern folgten 2010 und später; sie ändern die erste Veröffentlichung nicht. Filmdienst führt die britisch-französisch-tschechische Produktion unter 2009. James Purefoy spielt den Wanderer, dessen Filmvorgeschichte aus Gewalt, Schuld und einem Rettungsauftrag entsteht. Das gewählte Filmjahr bezieht sich auf diese erste öffentliche Fassung und nicht auf den späteren deutschen Heimkinostart.
 
-**Merksatz:** Solomon Kane: 2009.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Solomon_Kane_(film)), [Beleg 2](https://www.filmdienst.de/film/details/536362/solomon-kane)
 
@@ -4361,7 +4122,6 @@ Wer ist im historischen Filmcredit als Regisseur von „Solomon Kane“ mit Jame
 
 Das Pressebuch nennt Michael J. Bassett als Drehbuchautor und Regisseur. Dieselbe Person wird heute auch als M. J. Bassett geführt. Die Produktion verwendet Robert E. Howards bestehende Figur, ergänzt aber eine eigene Vorgeschichte. Solomon Kane (James Purefoy) versucht, die Folgen seiner gewalttätigen Vergangenheit zu überwinden. Der vollständige historische Filmcredit wird deshalb als Zuordnung dieses konkreten Werks bewahrt und von der literarischen Urheberschaft unterschieden.
 
-**Merksatz:** Solomon Kane – Michael J. Bassett.
 
 **Quellen:** [Beleg 1](https://pad.mymovies.it/filmclub/2009/07/266/mymovies.pdf), [Beleg 2](https://www.filmdienst.de/film/details/536362/solomon-kane)
 
@@ -4386,7 +4146,6 @@ Welches Geschäft machen Svend (Mads Mikkelsen) und Bjarne (Nikolaj Lie Kaas) in
 
 Svend (Mads Mikkelsen) und Bjarne (Nikolaj Lie Kaas) wollen sich vom erniedrigenden Umgang ihres Arbeitgebers lösen. Das eigene Geschäft verspricht Selbstbestimmung und Anerkennung. Zunächst bleiben die Kunden aus. Der folgende Erfolg löst deshalb nicht einfach ihren beruflichen Wunsch ein, sondern führt sie in einen Konflikt, der die ersehnte Anerkennung mit einer makabren Grenzüberschreitung verbindet.
 
-**Merksatz:** Zwei Metzger suchen Freiheit im eigenen Laden.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/522827/danische-delikatessen), [Beleg 2](https://cineuropa.org/en/film/20016/)
 
@@ -4403,7 +4162,6 @@ Welches Geheimnis steckt in den zunächst so erfolgreichen Fleischwaren von „D
 
 Der wirtschaftliche Erfolg verschiebt die moralischen Grenzen von Svend (Mads Mikkelsen) und Bjarne (Nikolaj Lie Kaas). Die Anerkennung der Kunden stärkt den Wunsch, das Geheimnis aufrechtzuerhalten. Der Film behandelt das Grauen mit schwarzem Humor, weil die beteiligten Figuren weiter von guter Ware und beruflichem Erfolg sprechen. Gerade die alltägliche Geschäftssprache verschärft den makabren Gegensatz.
 
-**Merksatz:** Erfolg im Laden verdeckt ein menschenfeindliches Geheimnis.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/522827/danische-delikatessen)
 
@@ -4420,7 +4178,6 @@ Welches Ereignis setzt die Verarbeitung von Menschenfleisch in „Dänische Deli
 
 Svend (Mads Mikkelsen) schließt einen Elektriker versehentlich im Kühlraum ein. Nach dessen Tod verkauft er Fleisch des Toten an den früheren Chef Holger (Ole Thestrup), der eine Bestellung aufgegeben hat. Der Kundenerfolg verleitet Svend dazu, weiterzumachen; Bjarne (Nikolaj Lie Kaas) lässt sich darauf ein. So wird aus einem Unfall eine bewusste Praxis, deren Fortsetzung neue Opfer verlangt.
 
-**Merksatz:** Der Unfall beginnt die Geschichte; die Verarbeitung ist eine Entscheidung.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Green_Butchers)
 
@@ -4437,7 +4194,6 @@ Was verbindet Bjarne und Eigil in „Dänische Delikatessen“?
 
 Bjarne und Eigil werden beide von Nikolaj Lie Kaas gespielt und haben unterschiedliche Lebensgeschichten. Bjarne ist Metzger; Eigil ist sein vegetarischer, tierliebender Zwillingsbruder, der nach langem Koma erwacht. Als Eigil tote Hühner aus der Metzgerei zum Friedhof bringt, begegnet er Astrid (Line Kruse). Die Doppelrolle verteilt das ähnliche Aussehen auf zwei eigene Figuren, deren Entscheidungen und Verhalten sich stark unterscheiden.
 
-**Merksatz:** Ein Darsteller, zwei Brüder, gegensätzliche Beziehungen zu Tieren.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/522827/danische-delikatessen), [Beleg 2](https://en.wikipedia.org/wiki/The_Green_Butchers)
 
@@ -4454,7 +4210,6 @@ Welche Entdeckung stellt im Schluss von „Dänische Delikatessen“ das vermein
 
 Bjarne (Nikolaj Lie Kaas) verkauft am Ende gewöhnliches Hühnerfleisch und erkennt, dass Svends (Mads Mikkelsen) Marinade den Geschmack bestimmt hat. Die Grausamkeit war demnach nicht nötig, um die Kunden zu gewinnen. Diese Pointe kehrt den Stolz auf das vermeintliche Geheimrezept um: Die beiden besitzen eine brauchbare Fähigkeit, haben aber aus ihrer Unsicherheit einen mörderischen Irrweg gemacht.
 
-**Merksatz:** Die Marinade funktioniert; das Menschenfleisch war nicht nötig.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Green_Butchers)
 
@@ -4471,7 +4226,6 @@ Wie unterscheidet sich die Inszenierung von „Dänische Delikatessen“ von den
 
 Filmdienst beschreibt Figuren, Kulissen und Perspektiven als gezielt ausgearbeitet. Die Gestaltung erinnert an eine groteske Märchenwelt und verbindet Klamotte mit Düsternis. Der Bezug zu Dogma hilft, eine konkrete Entscheidung einzuordnen: Jensen übernimmt nicht einfach eine vertraute Produktionsregel, sondern wählt für diesen Stoff einen anderen visuellen Rahmen. Das betrifft die Inszenierung, nicht die Nationalität des Films.
 
-**Merksatz:** Die Delikatessen entstehen in einer arrangierten Groteskenwelt.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/522827/danische-delikatessen)
 
@@ -4488,7 +4242,6 @@ In welchem Jahr wurde „Dänische Delikatessen“ erstmals veröffentlicht?
 
 „Dänische Delikatessen“ wurde 2003 erstmals in Dänemark gezeigt und kam dort im März in die Kinos. Die amerikanische Kinoveröffentlichung folgte erst 2004. Die schwarze Komödie erzählt von zwei Metzgern, die sich mit einem eigenen Geschäft unabhängig machen wollen. Der Sprung vom alltäglichen Berufswunsch zur grotesken Katastrophe gehört damit zu dieser dänischen Filmfassung von 2003.
 
-**Merksatz:** De grønne slagtere: erste Veröffentlichung 2003.
 
 **Quellen:** [Beleg 1](https://cineuropa.org/en/film/20016/), [Beleg 2](https://www.filmdienst.de/film/details/522827/danische-delikatessen), [Beleg 3](https://en.wikipedia.org/wiki/The_Green_Butchers)
 
@@ -4505,7 +4258,6 @@ Wer führte bei „Dänische Delikatessen“ Regie?
 
 Anders Thomas Jensen schrieb und inszenierte „Dänische Delikatessen“. Der Film führt einen alltäglichen beruflichen Wunsch in eine bewusst künstlich gestaltete schwarze Komödie. Jensen hatte zuvor auch an Dogma-Filmen mitgearbeitet. Für diesen Stoff wählte er einen anderen Rahmen: streng arrangierte Figuren und Räume unterstützen die Mischung aus groteskem Märchen, Alltagsgespräch und moralischer Katastrophe.
 
-**Merksatz:** De grønne slagtere: Regie Anders Thomas Jensen.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/522827/danische-delikatessen)
 
@@ -4530,7 +4282,6 @@ Welche Gruppe steht im Mittelpunkt der schwarzen Komödie „Four Lions“?
 
 Die Gruppe um Omar (Riz Ahmed) möchte einen Anschlag vorbereiten, scheitert aber immer wieder an Unfähigkeit, Streit und widersprüchlichen Ideen. Die Satire zeigt ihre Gewalttätigkeit und ihre banalen Alltagszüge nebeneinander. Das Wissen um ihre Absicht bleibt dabei entscheidend: Ihre lächerlichen Handlungen beseitigen nicht die reale Gefahr, die von ihrem Vorhaben ausgeht.
 
-**Merksatz:** Die Täter sind lächerlich, ihr Vorhaben bleibt tödlich.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/537268/four-lions), [Beleg 2](https://www.comingsoon.net/movies/features/70945-exclusive-four-lions-director-chris-morris)
 
@@ -4547,7 +4298,6 @@ In welchem Land lebt die Gruppe um Omar (Riz Ahmed), bevor sie den Anschlag in �
 
 Das britische Umfeld ist für den Humor und die Figuren wichtig. Omar (Riz Ahmed) und seine Mitstreiter bewegen sich nicht dauerhaft in einem entfernten Kriegsgebiet, sondern zwischen vertrautem Alltag und fanatischem Plan. Eine Reise zum Training in Pakistan bildet eine eigene Episode. Die Unterscheidung verhindert, Herkunft, Ausbildungsort und tatsächlichen Lebensraum einfach gleichzusetzen.
 
-**Merksatz:** Britischer Alltag und Terrorplan stehen direkt nebeneinander.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/537268/four-lions), [Beleg 2](https://www.comingsoon.net/movies/features/70945-exclusive-four-lions-director-chris-morris)
 
@@ -4564,7 +4314,6 @@ Welche Gelegenheit wählt die Gruppe in „Four Lions“ für ihren Anschlag, na
 
 Der Marathon erlaubt den Männern, zwischen vielen kostümierten Teilnehmern zu erscheinen. Verkleidungen sollen die Sprengsätze verdecken, erzeugen aber zusätzliche Missverständnisse. Die öffentliche Veranstaltung verbindet den Anschlagsplan mit dem alltäglichen Stadtleben. Im Finale bleiben dadurch viele Menschen gefährdet, die weder die Absichten der Gruppe kennen noch zu ihrem inneren Streit gehören.
 
-**Merksatz:** Der Marathon macht die Verkleidung zur Tarnung.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/537268/four-lions), [Beleg 2](https://www.comingsoon.net/movies/features/70945-exclusive-four-lions-director-chris-morris)
 
@@ -4581,7 +4330,6 @@ Warum schütteln die Männer in „Four Lions“ beim Bewegen im Freien absichtl
 
 Die Männer behandeln eine selbst ausgedachte Vorsichtsmaßnahme wie professionelle Planung. Ihre Angst vor Überwachung trifft auf ein kindlich vereinfachtes Verständnis der Technik. Der Witz entsteht aus der ernsthaften Durchführung dieser Idee. Er zeigt eine konkrete Lücke zwischen dem Selbstbild der Täter und ihren Fähigkeiten, während der gefährliche Plan weiterhin bestehen bleibt.
 
-**Merksatz:** Vermeintliche Profis schütteln gegen scharfe Satellitenbilder an.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/537268/four-lions)
 
@@ -4598,7 +4346,6 @@ Welche Verwechslung führt im Marathonfinale von „Four Lions“ dazu, dass Pol
 
 Die Polizei sucht im Marathon nach einem Verdächtigen im Honey-Monster-Kostüm. Bei der Weitergabe und Deutung der Beschreibung halten Scharfschützen einen anderen Läufer im Wookie-Kostüm für das Ziel und töten ihn. Der Wookie gehört zur Figurenwelt von „Star Wars“. Die Szene macht die Folgen ungenauer Verständigung konkret: Der Irrtum betrifft einen unbeteiligten Menschen, während der tatsächliche Anschlagsplan noch nicht beendet ist.
 
-**Merksatz:** Ähnliche Kostüme werden im Ernstfall zur tödlichen Verwechslung.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Four_Lions)
 
@@ -4615,7 +4362,6 @@ Welche Recherche schilderte Chris Morris als besonders aufschlussreich für die 
 
 Chris Morris erzählte, dass ihm die aufgezeichneten Gespräche eines langen Prozesses die Beteiligten dreidimensionaler erscheinen ließen. Dabei fielen ihm banale Gespräche, Missverständnisse und Unfähigkeit neben dem gefährlichen Vorhaben auf. Die Recherche lieferte keine Entschuldigung für Terror. Sie half ihm vielmehr, eine Komödie über konkrete Menschen und Abläufe statt nur über abstrakte Feindbilder zu entwickeln.
 
-**Merksatz:** Aufgezeichnete Alltagsgespräche machten die Täter für Morris konkreter.
 
 **Quellen:** [Beleg 1](https://www.comingsoon.net/movies/features/70945-exclusive-four-lions-director-chris-morris)
 
@@ -4632,7 +4378,6 @@ In welchem Jahr wurde „Four Lions“ erstmals veröffentlicht?
 
 „Four Lions“ wurde 2010 erstmals beim Sundance Film Festival gezeigt und kam im selben Jahr in die britischen Kinos. Chris Morris entwickelte die Satire aus längerer Recherche zu realen extremistischen Gruppen und Gerichtsverfahren. Das Erscheinungsjahr datiert daher den fertigen Film, nicht den Beginn seiner Recherche oder eines der untersuchten Terrorverfahren.
 
-**Merksatz:** Four Lions: erste Veröffentlichung 2010.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Four_Lions), [Beleg 2](https://www.comingsoon.net/movies/features/70945-exclusive-four-lions-director-chris-morris)
 
@@ -4649,7 +4394,6 @@ Wer führte bei „Four Lions“ Regie?
 
 Chris Morris führte Regie und schrieb das Drehbuch gemeinsam mit Jesse Armstrong und Sam Bain. Armstrong und Bain sind also tatsächlich am Film beteiligt, übernehmen aber nicht den Regiecredit. Morris erklärte im Interview, dass seine Recherche die Banalisierung und Unfähigkeit innerhalb gefährlicher Pläne sichtbar gemacht habe. Dieser konkrete Beobachtungsansatz bestimmt den Stoff der schwarzen Komödie.
 
-**Merksatz:** Four Lions: Regie Chris Morris.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/537268/four-lions), [Beleg 2](https://www.comingsoon.net/movies/features/70945-exclusive-four-lions-director-chris-morris)
 
@@ -4674,7 +4418,6 @@ Was möchte Paul Hackett (Griffin Dunne) nach Beginn seiner Irrfahrt in „Die Z
 
 Paul Hackett (Griffin Dunne) bricht aus seiner gewöhnlichen Routine auf, doch aus einer möglichen Begegnung wird eine Nacht voller unerwarteter Hindernisse. Sein Ziel wird immer bescheidener: Er möchte nur zurück. Gerade der einfache Wunsch nach Heimkehr macht die Folge widersprüchlicher Begegnungen komisch und bedrohlich. Ein kurzer Ausflug wächst zu einer kaum beherrschbaren Reise durch die Stadt.
 
-**Merksatz:** Paul will kein Abenteuer mehr, sondern endlich nach Hause.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/29632-after-hours)
 
@@ -4691,7 +4434,6 @@ Welche Stadt bildet die nächtliche Welt von „Die Zeit nach Mitternacht“?
 
 Paul Hackett (Griffin Dunne) bewegt sich vom vertrauten Büroalltag in die nächtliche SoHo-Welt. Die Stadt erscheint ihm zunehmend fremd, obwohl er kein fernes Land bereist. Wohnungen, Bars, Straßen und ein Club bieten kurz Schutz und werden dann zu neuen Schwierigkeiten. So entsteht aus einem konkreten New Yorker Viertel ein eng verbundenes Netz von Begegnungen und Sackgassen.
 
-**Merksatz:** Ein New Yorker wird in der eigenen Stadt zum Fremden.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/29632-after-hours)
 
@@ -4708,7 +4450,6 @@ Warum steht Paul (Griffin Dunne) schon nach der Taxifahrt in „Die Zeit nach Mi
 
 Ein kleiner Verlust verändert Paul Hacketts (Griffin Dunne) Handlungsmöglichkeiten. Ohne Geld wird selbst eine gewöhnliche Heimfahrt schwierig. Der Film macht daraus keine große geplante Katastrophe, sondern lässt eine beiläufige Bewegung weitreichende Folgen haben. Geld und andere alltägliche Gegenstände werden so zu Hindernissen, die Paul immer tiefer in die fremde Nachtwelt hineinziehen.
 
-**Merksatz:** Ein weggewehter Schein kostet Paul den einfachen Rückweg.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/8197-after-hours-no-exit)
 
@@ -4725,7 +4466,6 @@ Wie entzieht June (Verna Bloom) Paul (Griffin Dunne) in „Die Zeit nach Mittern
 
 June (Verna Bloom) versteckt Paul Hackett (Griffin Dunne) vor einer Menge, die ihn für einen Einbrecher hält. Sie bedeckt seinen Körper mit Papiermaché und macht ihn äußerlich zur Skulptur. Diese Tarnung schützt ihn vor den Suchenden, führt aber direkt zum nächsten Problem: Echte Diebe halten ihn für ein Kunstwerk und nehmen ihn mit. Eine Rettung verwandelt sich dadurch in unfreiwilligen Transport.
 
-**Merksatz:** Pauls Rettung verwandelt ihn selbst in eine Skulptur.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/After_Hours_(film))
 
@@ -4742,7 +4482,6 @@ An welche literarische Vorlage knüpft das Gespräch zwischen Paul und dem Türs
 
 Der Türsteher (Clarence Felder) verhindert Paul Hacketts (Griffin Dunne) Eintritt und nimmt trotzdem sein Geld an. Criterion benennt den Bezug zu Kafkas Türhütergeschichte ausdrücklich. Die Szene macht einen scheinbar gewöhnlichen Einlasskonflikt zu einem schwer durchschaubaren Verfahren. Paul erhält Zeichen von Entgegenkommen, ohne dadurch seinem Ziel näherzukommen; genau diese falsche Hoffnung steigert das Gefühl des Ausgeliefertseins.
 
-**Merksatz:** Vor der Clubtür steckt Paul in einer Kafka-Situation.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/8197-after-hours-no-exit)
 
@@ -4759,7 +4498,6 @@ Mit welchem Kameramann begann Martin Scorsese bei „Die Zeit nach Mitternacht�
 
 Criterion beschreibt die bewegliche Kamera als wichtigen Teil von Pauls Unsicherheit. Michael Ballhaus und Martin Scorsese arbeiteten hier erstmals zusammen und setzten ihre Zusammenarbeit später mehrfach fort. Der Blick führt das Publikum nicht einfach sicher durch den Raum. Er kann Erwartungen aufbauen und sofort wieder verschieben, sodass die Kamera Pauls orientierungsloses Erleben mitgestaltet.
 
-**Merksatz:** Ballhaus und Scorsese verbinden Bewegung mit Verunsicherung.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/current/posts/8197-after-hours-no-exit)
 
@@ -4776,7 +4514,6 @@ In welchem Jahr wurde „Die Zeit nach Mitternacht“ erstmals veröffentlicht?
 
 „Die Zeit nach Mitternacht“, im Original „After Hours“, wurde 1985 veröffentlicht. Die Geschichte spielt in einer einzigen chaotischen New Yorker Nacht, ihre zeitliche Beschränkung ist also eine Eigenschaft der Handlung. Spätere Restaurierungen ändern das ursprüngliche Filmjahr nicht. Criterion führt die Filmfassung weiterhin mit dem Jahr 1985 und der Regie Martin Scorseses.
 
-**Merksatz:** After Hours: erste Veröffentlichung 1985.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/29632-after-hours)
 
@@ -4793,7 +4530,6 @@ Wer führte bei „Die Zeit nach Mitternacht“ Regie?
 
 Martin Scorsese inszenierte den Film nach einem Drehbuch von Joseph Minion. Michael Ballhaus führte die Kamera; Griffin Dunne spielt Paul Hackett und war auch an der Produktion beteiligt. Die Regie gestaltet eine Komödie, in der der Heimweg fortwährend vereitelt wird. Bewegung und räumliche Unsicherheit tragen dazu bei, dass derselbe Stadtraum zugleich vertraut und bedrohlich erscheint.
 
-**Merksatz:** After Hours: Regie Martin Scorsese.
 
 **Quellen:** [Beleg 1](https://www.criterion.com/films/29632-after-hours), [Beleg 2](https://www.criterion.com/current/posts/8197-after-hours-no-exit)
 
@@ -4818,7 +4554,6 @@ Welchen Filmstil nimmt „Black Dynamite“ liebevoll aufs Korn?
 
 Der Film übernimmt den selbstbewussten Actionhelden, die Musik und die Gesten des Blaxploitation-Kinos. Er hält zugleich genug Abstand, um Übertreibungen und Produktionsschwächen komisch sichtbar zu machen. Die Beteiligten beschrieben ihren Ansatz als liebevolle Rückkehr zu dieser Filmwelt. Das Verständnis des Bezugs erklärt, warum manche scheinbar unbeholfenen Momente im Film gezielt gestaltet sind.
 
-**Merksatz:** Eine neue Komödie spielt bewusst wie ein Blaxploitation-Film.
 
 **Quellen:** [Beleg 1](https://www.sonypictures.com/movies/blackdynamite), [Beleg 2](https://asitecalledfred.com/2009/10/30/black-dynamite-trailer-park/)
 
@@ -4835,7 +4570,6 @@ Welches Ereignis treibt Black Dynamite (Michael Jai White) zunächst zur Rache?
 
 Black Dynamite (Michael Jai White) beginnt mit einem persönlichen Verlust. Die Suche nach den Tätern führt ihn in eine größere Verschwörung und verbindet Rache mit dem Kampf gegen Drogen in seiner Umgebung. Die Handlung vergrößert ihren Maßstab Schritt für Schritt. Ein zunächst privates Motiv führt den überzeichneten Helden schließlich bis zu den höchsten staatlichen Machtzentren.
 
-**Merksatz:** Der Tod des Bruders öffnet den Weg in die große Verschwörung.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/535599/black-dynamite)
 
@@ -4852,7 +4586,6 @@ In welchem Getränk entdeckt die Gruppe um Black Dynamite die geheime Substanz d
 
 Die Getränkespur führt Black Dynamite (Michael Jai White) und seine Verbündeten von einem scheinbar gewöhnlichen Konsumprodukt zu einem staatlich gesteuerten Plan. Die absurde Entschlüsselung übersteigert typische Verschwörungsplots. Wichtig ist die Funktion des Produkts: Das Getränk verbindet Alltag, Werbung und geheime Manipulation. Die Ermittlungen richten sich deshalb nicht nur gegen einzelne Dealer, sondern gegen eine größere Struktur.
 
-**Merksatz:** Die Anaconda-Flasche trägt die Verschwörung in den Alltag.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Black_Dynamite)
 
@@ -4869,7 +4602,6 @@ Welcher US-Präsident wird im Finale von „Black Dynamite“ zum direkten Gegne
 
 Der Weg ins Weiße Haus vollendet die übertriebene Ausweitung der Geschichte. Richard Nixon (James McManus) ist nicht nur eine entfernte politische Verantwortung, sondern tritt als körperlicher Gegner von Black Dynamite (Michael Jai White) auf. Der Film behandelt diese Begegnung als absurde Actionkonfrontation. Gefragt ist eine Figur der fiktiven Handlung, keine Behauptung über ein reales Ereignis.
 
-**Merksatz:** Die Rachemission endet bei Nixon im Weißen Haus.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Black_Dynamite)
 
@@ -4886,7 +4618,6 @@ Warum kann in „Black Dynamite“ absichtlich ein Tonangel-Mikrofon im Bild auf
 
 Der Film lässt Fehler sichtbar werden, die eine sorgfältige Produktion gewöhnlich vermeiden würde. Dazu gehört eine ins Bild geratende Tonangel. Die nachgeahmte Unbeholfenheit soll den Blick auf ältere, schnell und billig produzierte Genrearbeiten lenken. Das Publikum sieht also nicht nur eine übertriebene Handlung, sondern auch eine Komödie über die Herstellung solcher Kinobilder.
 
-**Merksatz:** Der sichtbare Drehfehler gehört selbst zum sorgfältig geplanten Witz.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Black_Dynamite)
 
@@ -4903,7 +4634,6 @@ Was überzeugte einen Produzenten von „Black Dynamite“, bevor das fertige Dr
 
 Scott Sanders schilderte, dass er und Michael Jai White den Trailer dem Produzenten Jon Steingart zeigten. Das Material vermittelte Look, Ton und Ziel des Projekts bereits so deutlich, dass es die Finanzierung ermöglichte. Die Beteiligten mussten ihre Parodie daher nicht nur beschreiben. Sie demonstrierten die gewünschte Filmwelt, bevor ein vollständiges Drehbuch den gesamten Ablauf festlegte.
 
-**Merksatz:** Erst der Stil im Trailer, dann der vollständig ausgearbeitete Film.
 
 **Quellen:** [Beleg 1](https://asitecalledfred.com/2009/10/30/black-dynamite-trailer-park/)
 
@@ -4920,7 +4650,6 @@ In welchem Jahr wurde „Black Dynamite“ erstmals veröffentlicht?
 
 „Black Dynamite“ wurde 2009 erstmals beim Sundance Film Festival gezeigt. Die Handlung und der bewusst nachgeahmte Filmstil gehören dagegen in die 1970er-Jahre. Der Film ist somit eine spätere Rückschau auf ein älteres Kino, keine unverändert wiederentdeckte Produktion jener Zeit. Diese Trennung ist entscheidend, um Veröffentlichung und ästhetisches Vorbild richtig einzuordnen.
 
-**Merksatz:** Black Dynamite: erste Veröffentlichung 2009.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Black_Dynamite), [Beleg 2](https://www.sonypictures.com/movies/blackdynamite)
 
@@ -4937,7 +4666,6 @@ Wer führte bei „Black Dynamite“ Regie?
 
 Scott Sanders inszenierte „Black Dynamite“ und schrieb mit Michael Jai White und Byron Minns das Drehbuch. Die Zusammenarbeit zielte auf eine liebevolle, zugleich komische Rekonstruktion des Blaxploitation-Stils. Michael Jai White verkörpert den Titelhelden und brachte die ursprüngliche Figurenidee ein. Regie, Autorenschaft und Hauptdarstellung sind deshalb unterschiedliche, eng miteinander verbundene Beiträge.
 
-**Merksatz:** Black Dynamite: Regie Scott Sanders.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/535599/black-dynamite), [Beleg 2](https://asitecalledfred.com/2009/10/30/black-dynamite-trailer-park/)
 
@@ -4962,7 +4690,6 @@ Warum kommt Adam (Ulrich Thomsen) in „Adams Äpfel“ in die kleine Kirchengem
 
 Adam (Ulrich Thomsen) bringt eine gewalttätige rechtsextreme Haltung in die Gemeinschaft von Ivan (Mads Mikkelsen). Der Aufenthalt soll seine Rückkehr in die Gesellschaft ermöglichen. Die abgelegene Kirche ist dabei kein konfliktfreier Rückzugsort. Sie versammelt Menschen mit eigenen Problemen und widersprüchlichen Vorstellungen darüber, ob und wie ein Neuanfang möglich ist.
 
-**Merksatz:** Die Kirche ist Adams Bewährungsort, keine freiwillige Ferienadresse.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite)
 
@@ -4979,7 +4706,6 @@ Welches eigene Ziel nennt Adam (Ulrich Thomsen), als Ivan ihn in „Adams Äpfel
 
 Adam (Ulrich Thomsen) meint seine Antwort zunächst spöttisch. Ivan (Mads Mikkelsen) nimmt sie ernst und verknüpft die Aufgabe mit dem Apfelbaum der Kirche. Dadurch wird eine banale Backidee zum wiederkehrenden Handlungsfaden. Der Film verfolgt nicht nur den Streit über Weltbilder, sondern zeigt ihn immer wieder an einer kleinen, greifbaren Aufgabe, die Adam selbst gewählt hat.
 
-**Merksatz:** Ein spöttisches Ziel wird zur echten Aufgabe.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite)
 
@@ -4996,7 +4722,6 @@ Wie reagiert Ivan (Mads Mikkelsen) in „Adams Äpfel“ auf die offensichtliche
 
 Ivan (Mads Mikkelsen) deutet selbst die Behinderung seines Sohnes als Gesundheit um und übersieht Rückfälle seiner Schützlinge. Adam (Ulrich Thomsen) will ihn aus dieser Heile-Welt-Vorstellung reißen. Für Ivan schützt die Verdrängung eine von schweren Verlusten geprägte Existenz; für Adam ist sie eine unerträgliche Lüge. Der Streit über Wahrheit entsteht somit aus konkreten Lebensumständen und betrifft auch Ivans Verantwortung für die Gemeinschaft.
 
-**Merksatz:** Ivan schützt sein Weltbild, indem er die Wirklichkeit umdeutet.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite)
 
@@ -5013,7 +4738,6 @@ Ivan (Mads Mikkelsen) deutet selbst die Behinderung seines Sohnes als Gesundheit
 
 Adam (Ulrich Thomsen) erschüttert Ivans (Mads Mikkelsen) Glauben, bis der Pfarrer seine Tatkraft aufgibt. Die anderen Bewohner fallen daraufhin in ihre alten Verhaltensweisen zurück. Außerdem erfährt Adam, dass Ivan schwer an einem Gehirntumor erkrankt ist. Er beginnt, Mitgefühl zu zeigen und die verwahrlosende Gemeinschaft selbst zu betreuen. Der vermeintliche Sieg zwingt ihn damit zu einer Verantwortung, die er vorher abgelehnt hatte.
 
-**Merksatz:** Adams Sieg im Streit wird zum Anlass für Mitgefühl.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite)
 
@@ -5030,7 +4754,6 @@ Welches biblische Buch wird in „Adams Äpfel“ ausdrücklich zum Bezugspunkt 
 
 Die Hiob-Erzählung stellt die Frage, wie Leiden und der Glaube an Gott zusammengehen. In „Adams Äpfel“ werden solche Fragen Teil des Konflikts zwischen Adam (Ulrich Thomsen) und Ivan (Mads Mikkelsen). Der Bezug erklärt auch die Serie von Heimsuchungen rund um den Apfelbaum. Er ist ein erkennbarer Textzusammenhang; die genaue Deutung des Films bleibt davon zu unterscheiden.
 
-**Merksatz:** Hiob verbindet die vielen Prüfungen mit der Glaubensfrage.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite), [Beleg 2](https://en.wikipedia.org/wiki/Adam%27s_Apples)
 
@@ -5047,7 +4770,6 @@ Welche groteske Wendung erklärt Ivans (Mads Mikkelsen) unerwartete Genesung am 
 
 Ivan (Mads Mikkelsen) wird durch eine Schussverletzung scheinbar tödlich getroffen, doch die Geschichte löst diesen Moment mit einer unmöglichen Glückswendung auf. Die Kugel entfernt seinen Tumor. Diese Erklärung gehört zur grotesken Filmhandlung und ist keine realistische medizinische Darstellung. Der Schluss hält dadurch die Spannung zwischen bitterem Leid, schwarzem Humor und märchenhafter Hoffnung aufrecht.
 
-**Merksatz:** Die absurde Rettung bleibt Teil der grotesken Fabel.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Adam%27s_Apples), [Beleg 2](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite)
 
@@ -5064,7 +4786,6 @@ In welchem Jahr wurde „Adams Äpfel“ erstmals veröffentlicht?
 
 „Adams Äpfel“ wurde 2005 in Dänemark veröffentlicht; der deutsche Kinostart folgte 2006. Die beiden Jahresangaben beschreiben unterschiedliche Länderstarts derselben Fassung. Der Film verbindet eine moderne Resozialisierungsgeschichte mit biblischen Motiven und einer bewusst grotesken Auflösung. Das Alter der Bezugstexte ist daher nicht mit dem Veröffentlichungsjahr des Films gleichzusetzen.
 
-**Merksatz:** Adams æbler: erste Veröffentlichung 2005.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Adam%27s_Apples), [Beleg 2](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite)
 
@@ -5081,7 +4802,6 @@ Wer führte bei „Adams Äpfel“ Regie?
 
 Anders Thomas Jensen ist bei „Adams Äpfel“ Regisseur und Drehbuchautor. Er lässt eine moderne Straftätergemeinschaft auf märchenhafte Wendungen und biblische Bezugspunkte treffen. Ulrich Thomsen und Mads Mikkelsen verkörpern die gegensätzlichen Hauptfiguren. Die Inszenierung hält ihren Konflikt nicht durchgehend in einer realistischen Tonlage, sondern verbindet Gewalt, schwarzen Humor und überraschende Veränderungen.
 
-**Merksatz:** Adams æbler: Regie Anders Thomas Jensen.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/527200/adams-apfel-gott-ist-auf-meiner-seite)
 
@@ -5106,7 +4826,6 @@ Welchem Beruf geht Calvin (Paul Dano) in „Ruby Sparks – Meine fabelhafte Fre
 
 Calvin (Paul Dano) findet zunächst keinen Zugang zu einem neuen Werk. Das Schreiben soll ihm wieder ermöglichen, etwas Eigenes zu schaffen. Seine Erfindung Ruby (Zoe Kazan) verbindet diesen beruflichen Wunsch mit einer privaten Sehnsucht. Dadurch hat die fantastische Geschichte einen konkreten Ausgangspunkt: Ein Autor kann die Figur auf der Seite bestimmen, begegnet ihr aber bald als vermeintlich eigenständigem Menschen.
 
-**Merksatz:** Calvins Schreibblockade wird zur Beziehungsgeschichte.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/540856/ruby-sparks-meine-fabelhafte-freundin), [Beleg 2](https://www.celluloidportraits.com/documenti/pressbook/Ruby%20Sparks.pdf)
 
@@ -5123,7 +4842,6 @@ Was geschieht mit der Frau, die Calvin in „Ruby Sparks – Meine fabelhafte Fr
 
 Ruby (Zoe Kazan) erscheint nicht nur vor Calvins (Paul Dano) innerem Auge. Ihre Anwesenheit stellt ihn vor eine neue Frage: Ist eine Figur noch seine Erfindung, wenn sie als Gegenüber handelt? Die Komödie führt eine private Fantasie in eine gemeinsame Realität. Was zunächst wie ein erfüllter Wunsch wirkt, verlangt damit Entscheidungen über die Freiheit eines anderen Menschen.
 
-**Merksatz:** Die Figur verlässt die Seite und wird zum Gegenüber.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/540856/ruby-sparks-meine-fabelhafte-freundin), [Beleg 2](https://en.wikipedia.org/wiki/Ruby_Sparks)
 
@@ -5140,7 +4858,6 @@ Mit welchem Mittel kann Calvin (Paul Dano) Rubys Verhalten in „Ruby Sparks –
 
 Calvin (Paul Dano) entdeckt, dass neue Sätze im Manuskript Ruby (Zoe Kazan) sofort verändern können. Er kann sie beispielsweise Französisch sprechen lassen, ohne dass sie die Sprache gelernt hat. Diese fantastische Macht greift auch in ihre Gefühle ein. Sobald Calvin Unterschiede zwischen ihnen aufschreibt und beseitigt, wird aus gemeinsamer Auseinandersetzung ein einseitiger Eingriff. Die Partnerin verliert die Möglichkeit, ihre eigene Haltung zu behalten.
 
-**Merksatz:** Ein neuer Satz im Manuskript bedeutet neue Macht über Ruby.
 
 **Quellen:** [Beleg 1](https://www.interviewmagazine.com/film/zoe-kazan-ruby-sparks), [Beleg 2](https://en.wikipedia.org/wiki/Ruby_Sparks)
 
@@ -5157,7 +4874,6 @@ Wie schreibt Calvin (Paul Dano) Ruby in „Ruby Sparks – Meine fabelhafte Freu
 
 Ruby (Zoe Kazan) sucht mehr Freiraum und nimmt eine Arbeit an. Calvin (Paul Dano) erlebt die größere Selbstständigkeit als Verlust von Nähe. Er schreibt Ruby abhängig von sich, wodurch sie jede Trennung kaum noch erträgt. Dieser Eingriff verbessert die Beziehung nicht; weitere Stimmungsänderungen bringen neue Probleme. Die konkrete Entwicklung zeigt, wie Calvins Wunsch nach Sicherheit Rubys eigenständiges Leben immer stärker einschränkt.
 
-**Merksatz:** Erzwungene Nähe gibt Calvin keine gleichberechtigte Partnerin.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Ruby_Sparks)
 
@@ -5174,7 +4890,6 @@ Wer schrieb das Drehbuch zu „Ruby Sparks – Meine fabelhafte Freundin“ und 
 
 Die Titelfigur ist nicht nur eine Rolle innerhalb einer Geschichte über einen Schriftsteller. Zoe Kazan verantwortete auch das Drehbuch, während Paul Dano Calvin spielt. Damit unterscheidet sich die reale Autorenschaft von der fiktiven Machtverteilung. Im Interview beschrieb Kazan ihr Interesse an der Verbindung zwischen schöpferischer Arbeit und Beziehungen. Der Doppelbeitrag macht diese Perspektive hinter dem Film greifbar.
 
-**Merksatz:** Ruby wird von derselben Künstlerin geschrieben und gespielt.
 
 **Quellen:** [Beleg 1](https://www.celluloidportraits.com/documenti/pressbook/Ruby%20Sparks.pdf), [Beleg 2](https://www.interviewmagazine.com/film/zoe-kazan-ruby-sparks)
 
@@ -5191,7 +4906,6 @@ Auf welchen antiken Mythos verwies Zoe Kazan, als sie die Idee hinter „Ruby Sp
 
 Im Pygmalion-Mythos wird eine vom Künstler geschaffene Frau lebendig. Zoe Kazan verband ihr Interesse an dieser Geschichte mit Fragen über Kreativität und Beziehungen. „Ruby Sparks“ überträgt das Motiv auf einen heutigen Schriftsteller. Der Bezug liefert keine vollständige Deutung, aber einen konkreten historischen Hintergrund: Die Sehnsucht nach einem selbst geschaffenen idealen Gegenüber ist älter als der Film.
 
-**Merksatz:** Calvins Manuskript übernimmt die Funktion von Pygmalions Kunstwerk.
 
 **Quellen:** [Beleg 1](https://www.interviewmagazine.com/film/zoe-kazan-ruby-sparks)
 
@@ -5208,7 +4922,6 @@ In welchem Jahr wurde „Ruby Sparks – Meine fabelhafte Freundin“ erstmals v
 
 „Ruby Sparks“ wurde 2012 veröffentlicht. Jonathan Dayton und Valerie Faris hatten zuvor bereits „Little Miss Sunshine“ gemeinsam inszeniert. Beim neuen Film kommt eine fantastische Grundidee hinzu: Eine geschriebene Romanfigur erscheint in der Alltagswelt des Autors. Das Erscheinungsjahr gehört zu dieser Filmfassung; es datiert weder den alten Pygmalion-Mythos noch das frühere Werk des Regieduos.
 
-**Merksatz:** Ruby Sparks: erste Veröffentlichung 2012.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Ruby_Sparks), [Beleg 2](https://www.celluloidportraits.com/documenti/pressbook/Ruby%20Sparks.pdf)
 
@@ -5225,7 +4938,6 @@ Wer führte bei „Ruby Sparks – Meine fabelhafte Freundin“ Regie?
 
 Jonathan Dayton und Valerie Faris teilen sich die Regie von „Ruby Sparks“. Zoe Kazan schrieb das Drehbuch und spielt Ruby, Paul Dano verkörpert Calvin. Die gemeinsame Regie hatte bereits „Little Miss Sunshine“ hervorgebracht. Für den Regiecredit sind beide Namen nötig: Der Film ist nicht als Solowerk eines einzelnen Mitglieds des Duos ausgewiesen.
 
-**Merksatz:** Ruby Sparks: Regie Jonathan Dayton und Valerie Faris.
 
 **Quellen:** [Beleg 1](https://www.celluloidportraits.com/documenti/pressbook/Ruby%20Sparks.pdf), [Beleg 2](https://www.filmdienst.de/film/details/540856/ruby-sparks-meine-fabelhafte-freundin)
 
@@ -5250,7 +4962,6 @@ Welche neue Aufgabe übernimmt Miss Pettigrew (Frances McDormand) bei Delysia (A
 
 Guinevere Pettigrew (Frances McDormand) hat ihre Arbeit als Gouvernante verloren. Durch die neue Stellung bei der Sängerin Delysia (Amy Adams) gerät sie in eine Welt aus luxuriösen Wohnungen und konkurrierenden Verehrern. Als Gesellschaftssekretärin soll sie Delysias Alltag ordnen. Ihre Aufgabe umfasst bald auch Hilfe bei Liebesentscheidungen, weil Karriereversprechen und materieller Komfort Delysias Blick auf ihre eigenen Wünsche verstellen.
 
-**Merksatz:** Die neue Sekretärin ordnet mehr als nur Termine.
 
 **Quellen:** [Beleg 1](https://www.focusfeatures.com/miss_pettigrew_lives_for_a_day), [Beleg 2](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5267,7 +4978,6 @@ In welcher Zeit spielt der Londoner Tag aus „Miss Pettigrews großer Tag“?
 
 Die Gesellschaftskomödie entfaltet sich in einem London, dessen elegante Oberfläche bald von einem Krieg erschüttert wird. Diese zeitliche Umgebung gibt Entscheidungen über Liebe und Sicherheit zusätzliches Gewicht. Delysia (Amy Adams) und Guinevere Pettigrew (Frances McDormand) erleben einen sehr begrenzten Zeitraum. Der nahe historische Einschnitt lässt ihren großen Tag zugleich als Moment einer endenden Welt erscheinen.
 
-**Merksatz:** Ein großer Tag in London, kurz bevor der Krieg beginnt.
 
 **Quellen:** [Beleg 1](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5284,7 +4994,6 @@ Welche Rolle hat Michael (Lee Pace) in Delysias Liebesleben in „Miss Pettigrew
 
 Michael (Lee Pace) hat weniger materiellen Einfluss als Delysias (Amy Adams) andere Verehrer. Nick (Mark Strong) verfügt über den Nachtclub und eine luxuriöse Wohnung; Phil (Tom Payne) verspricht Theaterchancen. Dadurch ist Michael nicht einfach ein weiterer austauschbarer Bewerber. Seine Beziehung zu Delysia stellt Nähe und gemeinsame Zukunft gegen die Vorteile, die andere Männer ihr anbieten.
 
-**Merksatz:** Michael bietet Liebe, seine Rivalen bieten Einfluss.
 
 **Quellen:** [Beleg 1](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5301,7 +5010,6 @@ Michael (Lee Pace) hat weniger materiellen Einfluss als Delysias (Amy Adams) and
 
 Guinevere Pettigrew (Frances McDormand) hat ihren Verlobten im Ersten Weltkrieg verloren. Sie rät Delysia (Amy Adams) deshalb, eine wirkliche Liebe nicht zugunsten vermeintlicher Sicherheit zu versäumen. Michael (Lee Pace) bietet Delysia wenig Luxus, aber eine gemeinsame Zukunft. Der Verlust verleiht Pettigrews Rat besonderen Ernst: Das Londoner Gesellschaftsleben steht selbst wieder unmittelbar vor einem Krieg, der solche Möglichkeiten zerstören kann.
 
-**Merksatz:** Pettigrews Rat kommt aus einem unwiederbringlichen eigenen Verlust.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/Miss_Pettigrew_Lives_for_a_Day), [Beleg 2](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5318,7 +5026,6 @@ Was brachte Winifred Watsons ältere Romanvorlage von „Miss Pettigrews großer
 
 Winifred Watsons Roman erschien ursprünglich 1938. Persephone Books veröffentlichte ihn 2000 neu; das wiedergewonnene Interesse erreichte auch Produzentin Nellie Bellflower und Produzent Stephen Garrett. Die lange Vorgeschichte erklärt, warum ein Stoff mit einer älteren Handlungswelt erst viel später diesen Film erhielt. Eine Neuauflage konnte somit nicht nur Leser gewinnen, sondern die Voraussetzung für eine neue Adaption schaffen.
 
-**Merksatz:** Ein wiederentdecktes Buch bekam eine neue Chance auf der Leinwand.
 
 **Quellen:** [Beleg 1](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5335,7 +5042,6 @@ Wessen Stimme hört man tatsächlich, wenn Delysia in der Nachtclubszene von „
 
 Delysia wird von Amy Adams gespielt, die auch den Gesang der Nachtclubszene übernimmt. Die offizielle Produktionsnotiz hebt diesen eigenen Beitrag ausdrücklich hervor. In einem Film über Auftreten und gesellschaftliche Rollen bekommt die Darbietung dadurch eine zusätzliche Ebene. Die Stimme kommt von der Darstellerin selbst, während Delysia in ihrer Geschichte einen Moment wirklicher Nähe erlebt.
 
-**Merksatz:** Delysias Stimme gehört ihrer Darstellerin Amy Adams.
 
 **Quellen:** [Beleg 1](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5352,7 +5058,6 @@ In welchem Jahr wurde „Miss Pettigrews großer Tag“ erstmals veröffentlicht
 
 „Miss Pettigrews großer Tag“ wurde 2008 veröffentlicht; Focus Features nennt den US-Kinostart am 7. März. Die Handlung ist dagegen im London des Jahres 1939 angesiedelt. Der Film gestaltet somit eine historische Gesellschaftswelt aus deutlich späterer Produktionsperspektive. Winifred Watsons Romanvorlage stammt bereits aus dem Jahr 1938 und erhielt durch eine Neuauflage neues Interesse.
 
-**Merksatz:** Miss Pettigrew Lives for a Day: erste Veröffentlichung 2008.
 
 **Quellen:** [Beleg 1](https://www.focusfeatures.com/miss_pettigrew_lives_for_a_day), [Beleg 2](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5369,7 +5074,6 @@ Wer führte bei „Miss Pettigrews großer Tag“ Regie?
 
 Bharat Nalluri führte Regie bei der Adaption von Winifred Watsons Roman. David Magee und Simon Beaufoy schrieben das Drehbuch, Frances McDormand und Amy Adams spielen die beiden zentralen Frauen. Die Regie stellt ihre unterschiedlichen Erfahrungen in einen gemeinsamen Londoner Tag. Die Figuren wechseln zwischen mondänen Räumen und persönlichen Entscheidungen, ohne dass der historische Rahmen ganz aus dem Blick gerät.
 
-**Merksatz:** Miss Pettigrew Lives for a Day: Regie Bharat Nalluri.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/531398/miss-pettigrews-grosser-tag), [Beleg 2](https://www.focusfeatures.com/article/production_notes___miss_pettigrew_lives_for_a_day)
 
@@ -5394,7 +5098,6 @@ Welche Rolle spielt Ariane (Audrey Hepburn) gegenüber dem erfahrenen Frank Flan
 
 Ariane (Audrey Hepburn) begegnet Frank Flannagan (Gary Cooper) als junge Frau, die sich eine andere Erfahrung zuschreibt. Die erfundenen Affären sollen sein Interesse wecken und zugleich ihre eigene Unsicherheit verdecken. Daraus entsteht ein komisches Ungleichgewicht: Er hält sich für erfahren, sie kennt jedoch Geschichten, die ihre Selbstdarstellung überzeugend erscheinen lassen. Wahrheit und gespielte Souveränität geraten immer wieder durcheinander.
 
-**Merksatz:** Ariane erfindet Erfahrung, um dem erfahrenen Flannagan zu begegnen.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/47113/ariane-liebe-am-nachmittag), [Beleg 2](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5411,7 +5114,6 @@ Welchen Beruf übt Arianes Vater Claude (Maurice Chevalier) in „Ariane – Lie
 
 Claude Chavasse (Maurice Chevalier) verdient seinen Lebensunterhalt damit, private Beziehungen zu beobachten. Seine Tochter Ariane (Audrey Hepburn) befindet sich dadurch näher an den Geschichten anderer Menschen, als er ahnt. Der Beruf ist für die Komödie mehr als Hintergrund. Er verbindet die familiäre Welt mit der Welt der Affären und bereitet Situationen vor, in denen Beobachter und Betroffene ihre Rollen wechseln.
 
-**Merksatz:** Der Vater untersucht fremde Affären; die Tochter lebt eine eigene Geschichte.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5428,7 +5130,6 @@ Welches Instrument spielt Ariane (Audrey Hepburn) in „Ariane – Liebe am Nach
 
 Ariane (Audrey Hepburn) hat einen eigenen Alltag als junge Musikstudentin. Das Violoncello gehört zu dieser tatsächlichen Lebenswelt, während ihre vermeintlichen Liebeserfahrungen erfunden sind. Die Unterscheidung macht die Figur greifbarer: Sie ist nicht nur eine rätselhafte Frau für Frank Flannagan (Gary Cooper), sondern jemand mit einer Ausbildung und einer familiären Umgebung. Musik und gespielte Weltgewandtheit liegen in ihrer Geschichte nebeneinander.
 
-**Merksatz:** Hinter Arianes gespielter Erfahrung steckt eine Cellostudentin.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5445,7 +5146,6 @@ Ariane (Audrey Hepburn) hat einen eigenen Alltag als junge Musikstudentin. Das V
 
 Claude Chavasse (Maurice Chevalier) sammelt beruflich Informationen über Affären. Ariane (Audrey Hepburn) eignet sich diese Geschichten an und macht sie gegenüber Frank Flannagan (Gary Cooper) scheinbar zu eigenen Erfahrungen. Die Akten erfüllen dadurch zwei Aufgaben: Sie dokumentieren fremde Beziehungen und ermöglichen eine erfundene Selbstbeschreibung. Der Film verknüpft so Arianes tatsächliche Familie mit ihrer gespielten Liebesbiografie.
 
-**Merksatz:** Die fremden Fälle werden zu Arianes erfundenen Affären.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5462,7 +5162,6 @@ Mit welchem Drehbuchpartner begann Billy Wilder bei „Ariane – Liebe am Nachm
 
 Billy Wilder schrieb „Ariane – Liebe am Nachmittag“ gemeinsam mit I. A. L. Diamond. AFI nennt den Film als Beginn ihrer später häufig fortgesetzten Zusammenarbeit. Ein Drehbuchcredit wird damit zu einem filmhistorischen Knotenpunkt: Die gemeinsame Arbeit blieb nicht auf diese romantische Komödie beschränkt. Gefragt ist der tatsächliche Partner dieses Films, nicht lediglich ein Autor aus Wilders früherer Laufbahn.
 
-**Merksatz:** Ariane markiert den Anfang von Wilder und Diamond.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5479,7 +5178,6 @@ Wie entstand die Pariser Opernszene für „Ariane – Liebe am Nachmittag“?
 
 AFI stellt einer damaligen Pressebehauptung einen Bericht aus „American Cinematographer“ gegenüber. Danach war das Filmen in der Pariser Oper zu schwierig, weshalb die Szene im Studio entstand. Die sichtbare historische Umgebung muss also nicht der tatsächliche Aufnahmeort sein. Das konkrete Beispiel zeigt, wie Kulissen einen realen Ort darstellen können, ohne dass das Publikum den Wechsel bemerkt.
 
-**Merksatz:** Die Pariser Oper auf der Leinwand war ein Studiodekor.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5496,7 +5194,6 @@ In welchem Jahr wurde „Ariane – Liebe am Nachmittag“ erstmals veröffentli
 
 „Ariane – Liebe am Nachmittag“ hatte 1957 seine Weltpremiere in Paris. Die amerikanischen Eröffnungen folgten noch im selben Jahr. Der Film verbindet Audrey Hepburn, Gary Cooper und Maurice Chevalier in einer romantischen Komödie. Zugleich begann mit dieser Produktion die langjährige Drehbuchzusammenarbeit zwischen Billy Wilder und I. A. L. Diamond, die das spätere Werk Wilders mehrfach prägen sollte.
 
-**Merksatz:** Love in the Afternoon: erste Veröffentlichung 1957.
 
 **Quellen:** [Beleg 1](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5513,7 +5210,6 @@ Wer führte bei „Ariane – Liebe am Nachmittag“ Regie?
 
 Billy Wilder führte Regie und schrieb das Drehbuch mit I. A. L. Diamond. Audrey Hepburn spielt Ariane, Gary Cooper Frank Flannagan und Maurice Chevalier den Privatdetektiv Claude Chavasse. Der Film wurde nach Claude Anets Roman gestaltet. Wilder verbindet die Annäherung der Liebenden mit einer familiären Intrige, in der Beobachtung, Wissen und erfundene Erfahrung ständig ihre Bedeutung verändern.
 
-**Merksatz:** Love in the Afternoon: Regie Billy Wilder.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/47113/ariane-liebe-am-nachmittag), [Beleg 2](https://catalog.afi.com/Film/52269-LOVE-IN-THE-AFTERNOON?cxt=filmography)
 
@@ -5538,7 +5234,6 @@ Welchen neuen Job nimmt Keith Michaels (Hugh Grant) in „Wie schreibt man Liebe
 
 Keith Michaels (Hugh Grant) kommt aus dem Filmgeschäft in ein Umfeld, dessen Arbeit er zunächst unterschätzt. Der Unterricht verlangt andere Fähigkeiten als das Schreiben eines erfolgreichen Drehbuchs. Er muss auf Menschen eingehen, statt nur auf die eigene Laufbahn zu schauen. Die neue Stelle schafft deshalb den Raum, in dem berufliche Ernüchterung und eine neue Beziehung miteinander verbunden werden.
 
-**Merksatz:** Der Autor muss lernen, anderen beim Schreiben zu helfen.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/544686/wie-schreibt-man-liebe), [Beleg 2](https://www.binghamton.edu/news/blog/story/5621/10-really-cool-things-you-didnt-know-binghamton-was-famous-for)
 
@@ -5555,7 +5250,6 @@ Warum nimmt Keith (Hugh Grant) den ungeliebten Lehrauftrag in „Wie schreibt ma
 
 Keith Michaels (Hugh Grant) hält an dem Bild seines früheren Erfolgs fest, bekommt aber keine neuen Aufträge mehr. Die Stelle ist deshalb zunächst ein Ausweg aus der Geldnot. Seine geringe Achtung vor dem Unterricht gehört zu diesem Ausgangspunkt. Erst die Begegnungen vor Ort verändern seine Haltung. Der Film baut die zweite Chance auf einer Krise auf, die Keith nicht freiwillig gesucht hat.
 
-**Merksatz:** Die Geldnot bringt Keith an den Ort seiner zweiten Chance.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/544686/wie-schreibt-man-liebe), [Beleg 2](https://en.wikipedia.org/wiki/The_Rewrite)
 
@@ -5572,7 +5266,6 @@ Welches Kriterium steht bei Keiths (Hugh Grant) erster Auswahl der Kursteilnehme
 
 Keith Michaels (Hugh Grant) behandelt seine neue Stelle anfangs als bequeme Zwischenstation. Die Auswahl des Kurses richtet er nach persönlichen Vorlieben aus. Darin wird seine fehlende Verantwortung gegenüber den Bewerbern sichtbar. Der Film braucht diesen konkreten Fehler, um seine spätere Veränderung zu zeigen: Er muss die Menschen und ihre Arbeit ernst nehmen, die er zunächst nur oberflächlich betrachtet.
 
-**Merksatz:** Keiths erste Auswahl verrät mehr über ihn als über die Texte.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Rewrite)
 
@@ -5589,7 +5282,6 @@ Keith Michaels (Hugh Grant) behandelt seine neue Stelle anfangs als bequeme Zwis
 
 Holly Carpenter (Marisa Tomei) arbeitet und zieht Kinder groß, möchte aber trotzdem weiterlernen. Keith Michaels (Hugh Grant) begegnet ihr zunächst mit einem engen Begriff von angeborenem Talent. Ihre Haltung stellt nicht nur seine Unterrichtsmethode infrage. Sie öffnet auch eine andere Vorstellung von seiner eigenen Zukunft: Entwicklung ist möglich, selbst wenn frühere Erfolge keine neuen Leistungen mehr garantieren.
 
-**Merksatz:** Holly vertraut auf Entwicklung; Keith vertraut zuerst auf Etiketten.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Rewrite)
 
@@ -5606,7 +5298,6 @@ Wie entscheidet sich Keith (Hugh Grant) am Ende von „Wie schreibt man Liebe?�
 
 Keith Michaels (Hugh Grant) hat zuerst nur aus Geldnot unterrichtet. Später hilft er einem Studenten, sein Drehbuch Produzenten vorzustellen, und erlebt die Arbeit im Kurs als sinnvolle Aufgabe. Als seine Agentin eine Rückkehr nach Hollywood anbietet, entscheidet er sich für Binghamton. Er will weiter lehren und schreiben. Der berufliche Neuanfang ist damit zur selbst gewählten Tätigkeit geworden, die seine Prioritäten verändert hat.
 
-**Merksatz:** Aus dem Notjob wird Keiths bewusste Wahl.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Rewrite)
 
@@ -5623,7 +5314,6 @@ Welche persönliche Verbindung hat Regisseur Marc Lawrence zur Hochschule, an de
 
 Die Binghamton University weist Marc Lawrence als eigenen Absolventen aus. Der Hochschulort ist für den Regisseur und Autor damit nicht völlig fremd. Die offizielle Seite nennt außerdem ausgewählte Dreharbeiten an Orten der Umgebung. Das bedeutet nicht, dass jede Szene auf dem Campus entstand. Die persönliche Verbindung erklärt jedoch, warum dieser konkrete Ort hinter dem beruflichen Neuanfang der Hauptfigur steht.
 
-**Merksatz:** Lawrence schickt Keith an seine eigene frühere Hochschule.
 
 **Quellen:** [Beleg 1](https://www.binghamton.edu/news/blog/story/5621/10-really-cool-things-you-didnt-know-binghamton-was-famous-for)
 
@@ -5640,7 +5330,6 @@ In welchem Jahr wurde „Wie schreibt man Liebe?“ erstmals veröffentlicht?
 
 „The Rewrite“, auf Deutsch „Wie schreibt man Liebe?“, wurde 2014 erstmals veröffentlicht. Einzelne Kinostarts folgten später; der amerikanische Start lag 2015. Der Film erzählt vom Neuanfang eines früher erfolgreichen Drehbuchautors und verlegt seine Geschichte an die Binghamton University. Das erste Filmjahr bleibt daher 2014, auch wenn ein Publikum die Fassung erst im folgenden Jahr sehen konnte.
 
-**Merksatz:** The Rewrite: erste Veröffentlichung 2014.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Rewrite), [Beleg 2](https://www.binghamton.edu/news/blog/story/5621/10-really-cool-things-you-didnt-know-binghamton-was-famous-for)
 
@@ -5657,7 +5346,6 @@ Wer führte bei „Wie schreibt man Liebe?“ Regie?
 
 Marc Lawrence schrieb und inszenierte „Wie schreibt man Liebe?“. Hugh Grant spielt Keith Michaels, Marisa Tomei Holly Carpenter. Lawrence hat selbst an der Binghamton University studiert, an der die Handlung angesiedelt ist. Der Regiecredit verbindet sich somit mit einer konkreten Ortskenntnis. Die Komödie stellt eine neue berufliche Aufgabe neben die Frage, ob eine festgefahrene Lebenshaltung noch verändert werden kann.
 
-**Merksatz:** The Rewrite: Regie Marc Lawrence.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/544686/wie-schreibt-man-liebe), [Beleg 2](https://www.binghamton.edu/news/blog/story/5621/10-really-cool-things-you-didnt-know-binghamton-was-famous-for)
 
@@ -5682,7 +5370,6 @@ Welchen Beruf versucht Kumail (Kumail Nanjiani) in „The Big Sick“ aufzubauen
 
 Kumail (Kumail Nanjiani) begegnet Emily (Zoe Kazan) nach einem Stand-up-Auftritt. Die Bühne gehört zu dem Leben, das er selbst aufbauen möchte. Zugleich hält er gegenüber seiner Familie Teile dieses Lebens verborgen. Der Beruf ist deshalb nicht nur eine Quelle von Witzen: Er verbindet die erste Begegnung mit dem Wunsch, eigene Entscheidungen zu treffen und eine persönliche Stimme zu finden.
 
-**Merksatz:** Kumails Bühne bringt ihn mit Emily zusammen.
 
 **Quellen:** [Beleg 1](https://app.powster.com/lionsgateus/the-big-sick/us/synopsis/)
 
@@ -5699,7 +5386,6 @@ Welche Zukunft wünschen Kumails Eltern in „The Big Sick“ für seine Partner
 
 Kumail (Kumail Nanjiani) lässt seine Eltern potenzielle Partnerinnen vorstellen, ohne ihnen seine Beziehung mit Emily (Zoe Kazan) offen zu erklären. Der Konflikt betrifft damit nicht nur unterschiedliche Wünsche. Sein Versuch, beiden Seiten gerecht zu werden, führt zu Geheimnissen. Als Emily davon erfährt, muss sie entscheiden, ob ihre Beziehung in seinem tatsächlichen Lebensplan überhaupt einen Platz hat.
 
-**Merksatz:** Die verheimlichte Beziehung kollidiert mit dem familiären Heiratsplan.
 
 **Quellen:** [Beleg 1](https://www.filmdienst.de/film/details/550204/the-big-sick), [Beleg 2](https://en.wikipedia.org/wiki/The_Big_Sick)
 
@@ -5716,7 +5402,6 @@ Welche ungewöhnliche Situation bringt Kumail in „The Big Sick“ den Eltern s
 
 Emily (Zoe Kazan) ist schwer krank, während Kumail (Kumail Nanjiani) und ihre Eltern Beth (Holly Hunter) und Terry (Ray Romano) einander erst kennenlernen. Die gemeinsame Sorge schafft Nähe, ohne frühere Verletzungen sofort aufzuheben. Der Film entwickelt die Beziehung dadurch zeitweise ohne Emilys aktive Beteiligung. Kumail muss gegenüber ihrer Familie Verantwortung zeigen, obwohl seine Verbindung zu Emily bereits gescheitert war.
 
-**Merksatz:** Das Krankenbett verbindet Menschen, die sich sonst kaum kennen.
 
 **Quellen:** [Beleg 1](https://app.powster.com/lionsgateus/the-big-sick/us/synopsis/), [Beleg 2](https://www.filmdienst.de/film/details/550204/the-big-sick)
 
@@ -5733,7 +5418,6 @@ Wie reagiert Emily (Zoe Kazan) in „The Big Sick“ nach dem Aufwachen zunächs
 
 Emily (Zoe Kazan) hatte sich von Kumail (Kumail Nanjiani) getrennt, weil er die Beziehung vor seinen Eltern geheim hielt und zugleich mögliche arrangierte Ehen zuließ. Nach ihrem Aufwachen kennt sie seinen Einsatz während des Komas nicht aus eigener Erfahrung. Die Nähe zu ihren Eltern beseitigt ihre Verletzung deshalb nicht. Sie lehnt den Neuanfang zunächst ab und behält die Entscheidung über ihre Beziehung selbst.
 
-**Merksatz:** Kumails Veränderung ersetzt Emilys eigene Entscheidung nicht.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Big_Sick)
 
@@ -5750,7 +5434,6 @@ Welche reale Grundlage hat das gemeinsam geschriebene Drehbuch von „The Big Si
 
 Kumail Nanjiani und Emily V. Gordon schrieben den Film gemeinsam auf Grundlage ihrer eigenen Annäherung und der schweren Erkrankung Gordons. Nanjiani spielt im Film Kumail; Emily wird von Zoe Kazan dargestellt. Reale Autorenschaft und Besetzung sind damit unterschiedlich organisiert. Die biografische Grundlage bedeutet außerdem keine unveränderte Dokumentation: Aus dem Erlebten entstand ein gestaltetes Drehbuch für eine romantische Komödie.
 
-**Merksatz:** Das Paar hinter dem Drehbuch verarbeitete seine eigene Geschichte.
 
 **Quellen:** [Beleg 1](https://app.powster.com/lionsgateus/the-big-sick/us/synopsis/), [Beleg 2](https://www.savethecat.com/wp-content/uploads/2018/02/THE-BIG-SICK-IN-WRITTEN-BY.pdf)
 
@@ -5767,7 +5450,6 @@ Warum bezog Kumail Nanjiani Emily V. Gordon als Mitautorin von „The Big Sick�
 
 Im Interview mit „Written By“ schildert Kumail Nanjiani, dass Emily V. Gordons erste Rückmeldungen nicht bloß gewöhnliche Textnotizen waren. Sie sah dieselben Ereignisse aus einem anderen Blickwinkel. Daraus entstand die Einsicht, dass er die Geschichte nicht allein schreiben konnte. Die gemeinsame Autorenschaft betrifft deshalb die Form des Erzählens: Beide Sichtweisen sollten in den Stoff eingehen, statt eine davon nur nachträglich zu korrigieren.
 
-**Merksatz:** Zwei Beteiligte brauchten zwei Perspektiven im Drehbuch.
 
 **Quellen:** [Beleg 1](https://www.savethecat.com/wp-content/uploads/2018/02/THE-BIG-SICK-IN-WRITTEN-BY.pdf)
 
@@ -5784,7 +5466,6 @@ In welchem Jahr wurde „The Big Sick“ erstmals veröffentlicht?
 
 „The Big Sick“ wurde 2017 erstmals beim Sundance Film Festival gezeigt und kam im Juni desselben Jahres in die amerikanischen Kinos. Das Drehbuch verarbeitet die frühere Beziehung der Autoren Kumail Nanjiani und Emily V. Gordon. Das Veröffentlichungsjahr datiert somit die gestaltete Filmfassung und nicht das gesamte reale Geschehen, aus dem die Autoren ihren Stoff entwickelten.
 
-**Merksatz:** The Big Sick: erste Veröffentlichung 2017.
 
 **Quellen:** [Beleg 1](https://en.wikipedia.org/wiki/The_Big_Sick), [Beleg 2](https://app.powster.com/lionsgateus/the-big-sick/us/synopsis/)
 
@@ -5801,6 +5482,5 @@ Wer führte bei „The Big Sick“ Regie?
 
 Michael Showalter führte Regie, während Kumail Nanjiani und Emily V. Gordon das Drehbuch schrieben. Judd Apatow und Barry Mendel produzierten den Film. Die Credits verteilen die Arbeit an einer persönlich geprägten Geschichte also auf unterschiedliche Aufgaben. Showalter inszeniert Nanjiani als Kumail und Zoe Kazan als Emily; Holly Hunter und Ray Romano spielen ihre Eltern.
 
-**Merksatz:** The Big Sick: Regie Michael Showalter.
 
 **Quellen:** [Beleg 1](https://app.powster.com/lionsgateus/the-big-sick/us/synopsis/), [Beleg 2](https://www.filmdienst.de/film/details/550204/the-big-sick)

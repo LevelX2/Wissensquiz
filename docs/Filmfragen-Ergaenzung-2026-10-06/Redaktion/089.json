@@ -32,12 +32,12 @@
       ],
       "short": "Rosemary (Mia Farrow) und Guy (John Cassavetes) ziehen ins Bramford.",
       "context": "Rosemary (Mia Farrow) und Guy (John Cassavetes) ziehen ins Bramford. Der neue Wohnraum bringt sie unmittelbar mit den Castevets zusammen; die räumliche Nähe erleichtert deren Einmischung.",
-      "anchor": "Das neue Apartment schafft die gefährliche Nachbarschaft.",
       "interest": "Das neue Apartment schafft die gefährliche Nachbarschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das neue Apartment schafft die gefährliche Nachbarschaft."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Rosemary (Mia Farrow) fürchtet um ihr Kind.",
       "context": "Rosemary (Mia Farrow) fürchtet um ihr Kind. Die Schwangerschaft wird zunehmend von anderen geregelt; der Verlust von eigener Entscheidungsmacht macht die private Fürsorge zum Konflikt.",
-      "anchor": "Das Kind wird zum Mittelpunkt eines Kontrollkampfs.",
       "interest": "Das Kind wird zum Mittelpunkt eines Kontrollkampfs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Kind wird zum Mittelpunkt eines Kontrollkampfs."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Der andere Schauspieler erblindet.",
       "context": "Der andere Schauspieler erblindet. Guy (John Cassavetes) profitiert davon; Rosemary (Mia Farrow) verbindet den beruflichen Aufstieg später mit dem Verdacht eines Handelns auf Kosten anderer.",
-      "anchor": "Guys Erfolg folgt auf die unerklärliche Schädigung eines Konkurrenten.",
       "interest": "Guys Erfolg folgt auf die unerklärliche Schädigung eines Konkurrenten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Guys Erfolg folgt auf die unerklärliche Schädigung eines Konkurrenten."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Roman Castevet lässt sich zu Steven Marcato umstellen.",
       "context": "Roman Castevet (Sidney Blackmer) lässt sich zu Steven Marcato umstellen. Rosemary (Mia Farrow) erkennt damit die Verbindung zur früheren satanistischen Geschichte; Hutchs (Maurice Evans) Hinweis wird zu einer überprüfbaren Namensspur.",
-      "anchor": "Die umgestellten Buchstaben offenbaren die Herkunft.",
       "interest": "Die umgestellten Buchstaben offenbaren die Herkunft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die umgestellten Buchstaben offenbaren die Herkunft."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Dr Hill (Charles Grodin) ruft Guy und Dr Sapirstein.",
       "context": "Dr Hill (Charles Grodin) ruft Guy (John Cassavetes) und Dr Sapirstein (Ralph Bellamy). Rosemarys (Mia Farrow) Versuch, unabhängige Hilfe zu finden, führt dadurch zurück zu genau den Personen, vor denen sie Schutz sucht.",
-      "anchor": "Der vermeintliche Helfer liefert Rosemary an ihre Gegner zurück.",
       "interest": "Der vermeintliche Helfer liefert Rosemary an ihre Gegner zurück.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der vermeintliche Helfer liefert Rosemary an ihre Gegner zurück."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Ein verborgener Durchgang führt zu den Castevets.",
       "context": "Ein verborgener Durchgang führt zu den Castevets. Rosemary (Mia Farrow) entdeckt die Versammlung um die Wiege selbst; die zuvor behauptete Totgeburt wird als gezielte Täuschung erkennbar.",
-      "anchor": "Die geheime Verbindung der Wohnungen führt hinter die Totgeburtslüge.",
       "interest": "Die geheime Verbindung der Wohnungen führt hinter die Totgeburtslüge.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die geheime Verbindung der Wohnungen führt hinter die Totgeburtslüge."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 1968 erstmals veröffentlicht.",
       "context": "1968 erschien der Film, nur ein Jahr nach Ira Levins Roman von 1967. Die schnelle Adaption bewahrt den New Yorker Wohnalltag als Grundlage eines Horrors, der über Nachbarn, Ehe und medizinische Betreuung entsteht.",
-      "anchor": "Levins Roman von 1967 wurde nur ein Jahr später, 1968, verfilmt.",
       "interest": "Levins Roman von 1967 wurde nur ein Jahr später, 1968, verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Levins Roman von 1967 wurde nur ein Jahr später, 1968, verfilmt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Roman Polanski.",
       "context": "Polanski schrieb auch die Romanadaption. Die Kamera bleibt an Rosemarys begrenzter Sicht orientiert; vertrauenswürdig wirkende Eheleute und Ärzte können deshalb lange zugleich Hilfe oder Bedrohung bedeuten.",
-      "anchor": "Polanski schrieb auch die Romanadaption.",
       "interest": "Polanski schrieb auch die Romanadaption.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Polanski schrieb auch die Romanadaption."
     }
   ]
 }

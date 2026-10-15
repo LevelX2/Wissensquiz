@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Rachel nimmt die Kinder auf und schützt sie vor Powell.",
       "context": "Die ältere Frau erkennt die Gefahr hinter dem Auftreten des Predigers. Ihre Entschlossenheit bildet den Gegenpol zu seiner Verführungskunst.",
-      "anchor": "Rachel bietet den Kindern einen Schutzraum.",
       "interest": "Die Rolle kehrt das frühere Bild der bedrohten Gish-Figuren wirkungsvoll um.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-CLA-09-05",
       "variant_of": "CLA-S-017",
-      "knowledge_note": "Personenvariante desselben Wissensziels: Rachel schützt die fliehenden Kinder vor Powell."
+      "knowledge_note": "Personenvariante desselben Wissensziels: Rachel schützt die fliehenden Kinder vor Powell.",
+      "objective": "Rachel bietet den Kindern einen Schutzraum."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 3,
       "short": "Ihre Schwester Dorothy Gish war ebenfalls Schauspielerin.",
       "context": "Die beiden arbeiteten in mehreren Filmen zusammen. Dabei konnten ihre unterschiedlichen Stärken, darunter Dorothys komische Begabung, innerhalb großer gemeinsamer Geschichten hervortreten.",
-      "anchor": "Lillian und Dorothy bildeten ein Schauspielerinnenpaar.",
       "interest": "Die berufliche Verbindung erklärt einen wichtigen Teil des frühen gemeinsamen Filmwerks.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       "films": [],
       "extraSources": [
         "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/5839/releases/MOMA_1980_0042_45.pdf"
-      ]
+      ],
+      "objective": "Lillian und Dorothy bildeten ein Schauspielerinnenpaar."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Lucy hebt die Mundwinkel mit den Fingern.",
       "context": "Die kleine körperliche Handlung steht neben der Angst vor ihrem gewalttätigen Vater. Ein äußerliches Zeichen von Freude wird dadurch zum Ausdruck fehlender Freude.",
-      "anchor": "Das mit den Fingern erzeugte Lächeln zeigt Lucys Verzweiflung.",
       "interest": "Die Geste erklärt, wie stummes Schauspiel widersprüchliche Gefühle sichtbar machen kann.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/features/where-begin-with-lillian-gish"
-      ]
+      ],
+      "objective": "Das mit den Fingern erzeugte Lächeln zeigt Lucys Verzweiflung."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 2,
       "short": "Hesters Kind gilt der Gemeinde als Beweis des Ehebruchs.",
       "context": "Sie muss die öffentliche Kennzeichnung ertragen und weigert sich, den Vater zu nennen. Die Geschichte stellt gesellschaftliche Härte und persönliche Verantwortung gegeneinander.",
-      "anchor": "Hester trägt die sichtbare Last einer verborgenen gemeinsamen Schuld.",
       "interest": "Die Bestrafung erklärt ihre Stellung innerhalb der Gemeinschaft.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/11912-THE-SCARLET-LETTER"
-      ]
+      ],
+      "objective": "Hester trägt die sichtbare Last einer verborgenen gemeinsamen Schuld."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 0,
       "short": "Sarah versorgt ihre blinde Schwester Libby.",
       "context": "Die beiden Witwen verbringen den Sommer im vertrauten Haus am Meer. Kleine Entscheidungen über dieses Zuhause legen ihre sehr verschiedenen Haltungen zum Alter und zu Veränderung offen.",
-      "anchor": "Die gemeinsame Vergangenheit verbindet die ungleichen Schwestern.",
       "interest": "Die Beziehung erschließt Gishs letzte Filmrolle als fein beobachtete Alltagsfigur.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.tcm.com/articles/1233567/the-whales-of-august"
-      ]
+      ],
+      "objective": "Die gemeinsame Vergangenheit verbindet die ungleichen Schwestern."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 0,
       "short": "Gish führte bei dem Spielfilm Regie.",
       "context": "Die Arbeit gehört zu den frühen Regieleistungen von Frauen im amerikanischen Kino. Gish gewann auch bei späteren Schauspielprojekten beträchtlichen Einfluss auf künstlerische Entscheidungen.",
-      "anchor": "Gish gestaltete einen Spielfilm auch als Regisseurin.",
       "interest": "Die Tätigkeit erweitert den Blick auf ihre Stellung im frühen Filmgeschäft.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.afi.com/laa/lillian-gish/"
-      ]
+      ],
+      "objective": "Gish gestaltete einen Spielfilm auch als Regisseurin."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 1,
       "short": "Flugzeugpropeller erzeugten den starken Wind.",
       "context": "Gedreht wurde unter anderem in der Mojave-Wüste. Die körperlich belastenden Bedingungen gehören zu einer Darstellung, in der die Landschaft die seelische Bedrängnis der Figur verstärkt.",
-      "anchor": "Flugzeugpropeller machten den Wind am Set körperlich spürbar.",
       "interest": "Das Verfahren verbindet einen praktischen Filmeffekt mit Gishs schauspielerischer Leistung.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/features/where-begin-with-lillian-gish"
-      ]
+      ],
+      "objective": "Flugzeugpropeller machten den Wind am Set körperlich spürbar."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 3,
       "short": "Gish half dem Museum of Modern Art bei der Sicherung der Griffith-Filme.",
       "context": "Sie half, Griffiths Filme für das Museum of Modern Art zu sichern, und überzeugte Mary Pickford vom Wert der Bewahrung eigener Filme. Ihre Vorträge förderten das Verständnis für Film als erhaltenswertes Kulturgut.",
-      "anchor": "Die Schauspielerin half, die Grundlage späterer Wiederaufführungen zu erhalten.",
       "interest": "Ihr Engagement erklärt, weshalb Filmgeschichte auch von der Arbeit ihrer eigenen Zeitzeugen abhängt.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       "films": [],
       "extraSources": [
         "https://www.afi.com/laa/lillian-gish/"
-      ]
+      ],
+      "objective": "Die Schauspielerin half, die Grundlage späterer Wiederaufführungen zu erhalten."
     }
   ]
 }

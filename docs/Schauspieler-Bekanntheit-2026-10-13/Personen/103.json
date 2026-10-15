@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Harfouch spielt die missgünstige Hexe Rabia.",
       "context": "Bibi (Sidonie von Krosigk) soll für eine Rettungstat vorzeitig ihre Kristallkugel erhalten. Rabia will verhindern, dass die junge Hexe diese Auszeichnung bekommt, und setzt damit den Konflikt des Films in Gang.",
-      "anchor": "Rabia neidet Bibi die Kristallkugel.",
       "interest": "Eine markante Rolle im Familienkino erkennen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/en/movie/bibi-blocksberg_ea43d4a69b3e5006e03053d50b37753d"
-      ]
+      ],
+      "objective": "Rabia neidet Bibi die Kristallkugel."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Sie verkörpert Magda Goebbels.",
       "context": "Der Film erzählt die letzten Tage der NS-Führung im Berliner Bunker. Harfouchs Rolle gehört zum innersten Kreis, dessen ideologische Bindung an den Nationalsozialismus bis in die vollständige Niederlage reicht.",
-      "anchor": "Harfouch – Magda Goebbels im Bunker.",
       "interest": "Eine zentrale historische Filmrolle zuordnen.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/der-untergang_222ac206be3e4fa4b60685a3b021c180"
-      ]
+      ],
+      "objective": "Harfouch – Magda Goebbels im Bunker."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Sie lebt unter dem Namen Manja Löwenthal als Jüdin.",
       "context": "Maria verzichtet auf eine vielversprechende Karriere und folgt Mark Löwenthal (André M. Hennicke) ans jüdische Theater in Berlin. Die Nürnberger Gesetze machen ihre Beziehung zur existenziellen Gefahr.",
-      "anchor": "Maria wird zu Manja, um bei Mark zu bleiben.",
       "interest": "Die aktive Entscheidung hinter einer DEFA-Rolle verstehen.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/die-schauspielerin_b83be8b09a294b46a957a5e26cb07a33"
-      ]
+      ],
+      "objective": "Maria wird zu Manja, um bei Mark zu bleiben."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Lara kauft die restlichen Eintrittskarten und verteilt sie.",
       "context": "An ihrem sechzigsten Geburtstag soll Viktor (Tom Schilling) einen wichtigen Auftritt haben. Lara hat seine Musikerlaufbahn maßgeblich vorangetrieben; ihr Versuch, den Abend zu kontrollieren, verschärft die Spannungen zwischen Mutter und Sohn.",
-      "anchor": "Lara füllt den Saal ihres Sohnes mit verschenkten Karten.",
       "interest": "Fürsorge und Kontrolle im Mutter-Sohn-Konflikt erkennen.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/en/movie/lara_461c3748e0914deb9395895f939ecf14"
-      ]
+      ],
+      "objective": "Lara füllt den Saal ihres Sohnes mit verschenkten Karten."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 2,
       "short": "Gitte verzichtet auf ihre Medikamente.",
       "context": "Sie fühlt sich nach langer psychischer Erkrankung wieder gesund und erwartet ein neues gemeinsames Leben mit ihrem Mann Günter (Ernst Stötzner). Dessen Pläne und die Konflikte ihrer erwachsenen Söhne passen jedoch nicht zu diesem Wunsch.",
-      "anchor": "Gittes neuer Aufbruch legt alte Familienkonflikte frei.",
       "interest": "Den Auslöser eines Familiendramas nachvollziehen.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/was-bleibt_82df1099e9884a25a536da624f2b54a1"
-      ]
+      ],
+      "objective": "Gittes neuer Aufbruch legt alte Familienkonflikte frei."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 3,
       "short": "Nach einem solchen Traum stirbt jemand im Dorf.",
       "context": "Selma kann jedoch nicht erkennen, wen es treffen wird. Die Bewohner des Westerwald-Dorfs geraten deshalb in Bewegung, weil die Aussicht auf einen nahen Tod ihre unausgesprochenen Wünsche und Ängste berührt.",
-      "anchor": "Selmas Okapi-Traum kündigt einen Tod an.",
       "interest": "Das fantastische Motiv mit seiner Wirkung auf die Gemeinschaft verbinden.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/was-man-von-hier-aus-sehen-kann_0443091830f440af9d01c32d85602c17"
-      ]
+      ],
+      "objective": "Selmas Okapi-Traum kündigt einen Tod an."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Sie spielte General Harras.",
       "context": "Die Volksbühnen-Inszenierung hatte 1996 Premiere und wurde 1997 zum Berliner Theatertreffen eingeladen. Harfouch übernahm darin neben Harras auch die Diva Olivia Geiss.",
-      "anchor": "Harfouch wird bei Castorf zu General Harras.",
       "interest": "Eine markante Rollenbesetzung jenseits des Kinos entdecken.",
       "feedback": [
         "",
@@ -191,7 +190,8 @@
       "films": [],
       "extraSources": [
         "https://archive.berlinerfestspiele.de/theatertreffen/events/bfs-mediathek/Theatertreffen/2003-bis-1964/1997/Des-Teufels-General"
-      ]
+      ],
+      "objective": "Harfouch wird bei Castorf zu General Harras."
     },
     {
       "code": "E2",
@@ -205,7 +205,6 @@
       "correct": 1,
       "short": "Sie begann ein Studium zur Textilingenieurin in Dresden.",
       "context": "Nach dem Abitur hatte Harfouch zunächst eine Ausbildung zur Krankenschwester gemacht. Auf das technische Studium folgte die Schauspielausbildung in Berlin, aus der sich ihre Bühnen- und Filmkarriere entwickelte.",
-      "anchor": "Über Pflege und Textiltechnik führte ihr Weg zur Bühne.",
       "interest": "Einen beruflichen Richtungswechsel kennenlernen.",
       "feedback": [
         "",
@@ -216,7 +215,8 @@
       "films": [],
       "extraSources": [
         "https://www.filmportal.de/person/corinna-harfouch_c7858a67c7e24d51b9f9942e4aa10965"
-      ]
+      ],
+      "objective": "Über Pflege und Textiltechnik führte ihr Weg zur Bühne."
     }
   ]
 }

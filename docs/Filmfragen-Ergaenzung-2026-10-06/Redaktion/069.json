@@ -37,12 +37,12 @@
       ],
       "short": "Aladdin (Originalstimme Scott Weinger) wünscht sich eine Prinzenrolle.",
       "context": "Aladdin (Originalstimme Scott Weinger) wünscht sich eine Prinzenrolle. Er versucht damit, die rechtlichen und gesellschaftlichen Hindernisse einer Verbindung mit Jasmin (Originalstimme Linda Larkin) zu umgehen.",
-      "anchor": "Prinz Ali ist Aladdins herbeigewünschte neue Rolle.",
       "interest": "Prinz Ali ist Aladdins herbeigewünschte neue Rolle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Prinz Ali ist Aladdins herbeigewünschte neue Rolle."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Jasmin (Originalstimme Linda Larkin) entzieht sich ihrem abgeschirmten Leben.",
       "context": "Jasmin (Originalstimme Linda Larkin) entzieht sich ihrem abgeschirmten Leben. Auf dem Markt begegnet sie Aladdin (Originalstimme Scott Weinger), bevor er ihre tatsächliche Stellung kennt.",
-      "anchor": "Jasmins eigener Ausbruch führt zum Treffen auf dem Markt.",
       "interest": "Jasmins eigener Ausbruch führt zum Treffen auf dem Markt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jasmins eigener Ausbruch führt zum Treffen auf dem Markt."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Abu (Originalstimme Frank Welker) greift nach einem Edelstein.",
       "context": "Abu (Originalstimme Frank Welker) greift nach einem Edelstein. Die Regel erlaubt nur die Lampe; das zusätzliche Begehren gefährdet den Rückweg von Aladdin (Originalstimme Scott Weinger).",
-      "anchor": "Abus Griff nach mehr bringt die Höhle zum Einsturz.",
       "interest": "Abus Griff nach mehr bringt die Höhle zum Einsturz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Abus Griff nach mehr bringt die Höhle zum Einsturz."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Aladdin (Originalstimme Scott Weinger) reizt den Dschinni (Originalstimme Robin Williams) durch einen Zweifel an dessen Fähigkeiten.",
       "context": "Aladdin (Originalstimme Scott Weinger) reizt den Dschinni (Originalstimme Robin Williams) durch einen Zweifel an dessen Fähigkeiten. Die Vorführung seiner Macht ermöglicht die Rettung ohne ausdrücklich eingesetzten Wunsch.",
-      "anchor": "Ein provozierter Beweis ersetzt den ersten Rettungswunsch.",
       "interest": "Ein provozierter Beweis ersetzt den ersten Rettungswunsch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein provozierter Beweis ersetzt den ersten Rettungswunsch."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Jafar (Originalstimme Jonathan Freeman) wünscht sich Dschinni-Macht.",
       "context": "Jafar (Originalstimme Jonathan Freeman) wünscht sich Dschinni-Macht. Aladdin (Originalstimme Scott Weinger) hat ihn dazu verleitet; die gewonnene Stärke bringt zugleich die Gefangenschaft in einer Lampe.",
-      "anchor": "Jafars größter Machtwunsch wird zu seiner Gefangenschaft.",
       "interest": "Jafars größter Machtwunsch wird zu seiner Gefangenschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jafars größter Machtwunsch wird zu seiner Gefangenschaft."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Aladdin (Originalstimme Scott Weinger) befreit den Dschinni (Originalstimme Robin Williams).",
       "context": "Aladdin (Originalstimme Scott Weinger) befreit den Dschinni (Originalstimme Robin Williams). Der Sultan (Originalstimme Douglas Seale) erlaubt Jasmin (Originalstimme Linda Larkin) daraufhin eine freie Partnerwahl; Ehrlichkeit ersetzt die Prinzentarnung.",
-      "anchor": "Freiheit für den Dschinni, freie Wahl für Jasmin.",
       "interest": "Freiheit für den Dschinni, freie Wahl für Jasmin.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Freiheit für den Dschinni, freie Wahl für Jasmin."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film wurde 1992 erstmals veröffentlicht.",
       "context": "1992 erschien Aladdin, ein Jahr nach Die Schöne und das Biest von 1991. Beide Disney-Musicals verbinden Alan Menkens Musik mit Texten Howard Ashmans; für Aladdin ergänzte Tim Rice weitere Liedtexte nach Ashmans Tod.",
-      "anchor": "Auf Die Schöne und das Biest von 1991 folgte 1992, ein Jahr später, das nächste Menken-Musical.",
       "interest": "Auf Die Schöne und das Biest von 1991 folgte 1992, ein Jahr später, das nächste Menken-Musical.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Auf Die Schöne und das Biest von 1991 folgte 1992, ein Jahr später, das nächste Menken-Musical."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Regie: John Musker und Ron Clements.",
       "context": "Musker und Clements entwickelten den Film gemeinsam. Für den Dschinni wurde Robin Williams’ komödiantisches Spiel in Animation übertragen; Figur und Darstellerleistung entstanden damit in enger Wechselwirkung.",
-      "anchor": "Musker und Clements entwickelten den Film gemeinsam.",
       "interest": "Musker und Clements entwickelten den Film gemeinsam.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Musker und Clements entwickelten den Film gemeinsam."
     }
   ]
 }

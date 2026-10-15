@@ -42,12 +42,12 @@
       ],
       "short": "Die Crew arbeitet an einem Zombiefilm.",
       "context": "Die Crew arbeitet in einem verlassenen Gebäude an einem Zombiefilm. Das Genre erlaubt, Blut, Schreie und Bedrohung zunächst als inszenierte Vorgänge zu erkennen. Wenn scheinbar echte Angriffe beginnen, verliert diese Unterscheidung ihre Sicherheit. Die Ausgangssituation macht Filmproduktion selbst zum Schauplatz der Gefahr.",
-      "anchor": "Die inszenierte Zombiegefahr scheint den Dreh zu überholen.",
       "interest": "Erklärt die Grundsituation des Films innerhalb des Films.",
       "sources": [
         "vertrieb"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die inszenierte Zombiegefahr scheint den Dreh zu überholen."
     },
     {
       "code": "L2",
@@ -66,12 +66,12 @@
       ],
       "short": "Er betrachtet die Angriffe als Gelegenheit für echte Bilder.",
       "context": "Der Regisseur Higurashi (Takayuki Hamatsu) will die Kamera weiterlaufen lassen. Sein Anspruch an echte Bilder setzt die Sicherheit seiner Crew außer Kraft. Die Eröffnung überzeichnet damit eine bekannte Spannung der Filmproduktion: Der Wunsch nach einem eindrucksvollen Ergebnis kann den Blick auf die beteiligten Menschen verdrängen.",
-      "anchor": "Der Regisseur setzt den Wunsch nach Bildern über den Abbruch der Gefahr.",
       "interest": "Verbindet die komische Überzeichnung mit dem konkreten Konflikt des Drehs.",
       "sources": [
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Regisseur setzt den Wunsch nach Bildern über den Abbruch der Gefahr."
     },
     {
       "code": "M1",
@@ -90,12 +90,12 @@
       ],
       "short": "Die lange Aufnahme lässt das Geschehen zunächst ohne sichtbaren Schnitt ablaufen.",
       "context": "Der lange Anfang wird als ungefähr 37 Minuten dauernde Aufnahme ohne sichtbaren Schnitt präsentiert. Das bindet den Zuschauer an einen fortlaufenden Ablauf, dessen scheinbar ungelenke Pausen zunächst rätselhaft bleiben. Die spätere Produktionsgeschichte gibt solchen Momenten eine andere Bedeutung und verändert den Blick auf dieselben Bilder.",
-      "anchor": "Die ununterbrochene Eröffnung wird später als Ergebnis einer chaotischen Herstellung neu verständlich.",
       "interest": "Verbindet eine konkrete Schnittform mit dem späteren Perspektivwechsel des Films.",
       "sources": [
         "britischerverleih"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die ununterbrochene Eröffnung wird später als Ergebnis einer chaotischen Herstellung neu verständlich."
     },
     {
       "code": "M2",
@@ -114,12 +114,12 @@
       ],
       "short": "Das Projekt soll die Verbindung zu Mao erneuern.",
       "context": "Higurashi (Takayuki Hamatsu) verbindet den Auftrag mit der Hoffnung, seiner Tochter Mao (Mao) näherzukommen. Ihre Begeisterung für Horror eröffnet eine gemeinsame Sache. Der Produktionskampf hat deshalb neben seinem beruflichen Wert auch einen familiären Sinn: Vater und Tochter müssen miteinander arbeiten, um das Vorhaben zu retten.",
-      "anchor": "Der schwierige Auftrag kann Vater und Tochter wieder verbinden.",
       "interest": "Verbindet den beruflichen Entschluss mit seiner familiären Motivation.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der schwierige Auftrag kann Vater und Tochter wieder verbinden."
     },
     {
       "code": "S1",
@@ -138,12 +138,12 @@
       ],
       "short": "Der Ausfall zwingt beide zur kurzfristigen Vertretung.",
       "context": "Higurashi (Takayuki Hamatsu) und Harumi (Harumi Shuhama) springen für fehlende Darsteller ein. Ein gewöhnliches Besetzungsproblem wird durch die Livesendung besonders folgenreich. Die Produktion kann keinen Neustart bequem einplanen; private Fähigkeiten und spontane Improvisation müssen Aufgaben übernehmen, für die ursprünglich andere Menschen vorgesehen waren.",
-      "anchor": "Ausgefallene Darsteller machen den Regisseur und seine Frau zu Ersatzspielern.",
       "interest": "Erklärt die Rollenübernahme aus den Bedingungen einer Livesendung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ausgefallene Darsteller machen den Regisseur und seine Frau zu Ersatzspielern."
     },
     {
       "code": "S2",
@@ -162,12 +162,12 @@
       ],
       "short": "Die menschliche Pyramide ersetzt den benötigten Höhengewinn.",
       "context": "Mao (Mao) hält die Kamera auf der improvisierten Pyramide, während Higurashi (Takayuki Hamatsu) und die anderen sie stützen. Das Schlussbild entsteht aus körperlicher Zusammenarbeit. Die vorherigen Einzelprobleme des Teams werden dadurch in einem gemeinsamen Kraftakt gebündelt, dessen Ergebnis im Eröffnungsfilm noch nicht erkennbar war.",
-      "anchor": "Das gemeinsame Tragen ersetzt den fehlenden Kamerakran.",
       "interest": "Verbindet die praktische Rettung des Bildes mit dem Zusammenhalt der Crew.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das gemeinsame Tragen ersetzt den fehlenden Kamerakran."
     },
     {
       "code": "Y",
@@ -186,13 +186,13 @@
       ],
       "short": "Die ursprüngliche Fassung stammt von 2017.",
       "context": "One Cut of the Dead stammt von 2017. Fünf Jahre später eröffnete Michel Hazanavicius 2022 Cannes mit dem französischen Remake Coupez !. Die neue Fassung übernimmt das Prinzip eines chaotischen Filmdrehs. Der Vergleich zeigt, wie die japanische Produktionskomödie innerhalb weniger Jahre zur Vorlage für eine andere Filmkultur wurde.",
-      "anchor": "2017 das japanische Original, 2022 Coupez !: fünf Jahre bis zum Remake.",
       "interest": "Verbindet das ursprüngliche Jahr mit der späteren internationalen Neubearbeitung.",
       "sources": [
         "vertrieb",
         "remake"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2017 das japanische Original, 2022 Coupez !: fünf Jahre bis zum Remake."
     },
     {
       "code": "D",
@@ -211,12 +211,12 @@
       ],
       "short": "Ueda schrieb und inszenierte diesen Film.",
       "context": "Shin'ichirō Ueda schrieb und inszenierte den Film. Er hatte zuvor die Produktionsgruppe Panpokopina gegründet und zahlreiche Kurzfilme gedreht. Sein Langfilmdebüt stellt Filmemachen selbst ins Zentrum: Die entstehende Wirkung hängt nicht nur vom fertigen Bild, sondern von der unsichtbaren Arbeit und Improvisation eines Teams ab.",
-      "anchor": "Uedas Langfilmdebüt macht die verborgene Arbeit am Film sichtbar.",
       "interest": "Verbindet den Regiecredit mit seinem Weg aus gemeinschaftlicher Kurzfilmproduktion.",
       "sources": [
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Uedas Langfilmdebüt macht die verborgene Arbeit am Film sichtbar."
     }
   ]
 }

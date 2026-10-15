@@ -39,12 +39,12 @@
       ],
       "short": "David Bowie ist das Zentrum der Dokumentation.",
       "context": "David Bowie ist das Zentrum der Dokumentation. Der Film verbindet Musik und Auftritte mit Gedanken über künstlerische Veränderung. Unterschiedliche Erscheinungsbilder gehören zu einer rastlosen Suche, die nicht auf eine einzige Bühnenfigur reduziert wird. Die Reise umfasst daher mehr als eine Sammlung bekannter Songs: Sie stellt eine sich ständig verändernde Arbeitsweise vor.",
-      "anchor": "Der Film reist durch Bowies künstlerische Welt.",
       "interest": "Das zentrale Porträt zuordnen.",
       "sources": [
         "verleih"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Film reist durch Bowies künstlerische Welt."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Aufgezeichnete Äußerungen Bowies tragen die filmische Erzählung.",
       "context": "Aufgezeichnete Äußerungen Bowies tragen die filmische Erzählung. Seine Überlegungen werden mit Bildern und Musik verbunden, sodass der porträtierte Künstler selbst zum Begleiter durch das Material wird. Es handelt sich dabei um historische Tonaufnahmen. Die Stimme wirkt gegenwärtig, obwohl die Zusammenstellung erst nach seinem Tod entstanden ist und einen neuen Zusammenhang herstellt.",
-      "anchor": "Bowie spricht aus dem Archiv selbst.",
       "interest": "Die Erzählperspektive erkennen.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bowie spricht aus dem Archiv selbst."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Die Beziehung zu Iman erscheint als eine Form von Ruhe und Verbundenheit innerhalb eines Lebens voller Veränderungen.",
       "context": "Die Beziehung zu Iman erscheint als eine Form von Ruhe und Verbundenheit innerhalb eines Lebens voller Veränderungen. Der Film betrachtet Bowies Suche nach neuen Ausdrucksmöglichkeiten zusammen mit dieser persönlichen Bindung. Dadurch erhält der Weg durch wechselnde künstlerische Identitäten einen privaten Bezugspunkt. Die Ehe wird als Teil seines Lebens gezeigt, nicht als bloßes Begleitdetail einer Karrierechronik.",
-      "anchor": "Iman wird zum persönlichen Gegenpol der Rastlosigkeit.",
       "interest": "Private Bindung und künstlerische Suche verbinden.",
       "sources": [
         "tiff"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Iman wird zum persönlichen Gegenpol der Rastlosigkeit."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Die Montage verbindet Material über zeitliche Grenzen hinweg.",
       "context": "Die Montage verbindet Material über zeitliche Grenzen hinweg. Der Criterion-Essay beschreibt beispielsweise, wie Klänge aus Bowies Asienreisen zu einem früheren Liveauftritt treten. Das Ergebnis ist eine neu gestaltete musikalische Erfahrung. Die zeitliche Abfolge bleibt ein Hintergrund, während Bilder und Klangschichten Beziehungen zwischen unterschiedlichen Momenten der künstlerischen Suche herstellen.",
-      "anchor": "Bowies Material wird zu einer freien Klangreise montiert.",
       "interest": "Den Unterschied zwischen Archiv und neuer Montage verstehen.",
       "sources": [
         "essay"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bowies Material wird zu einer freien Klangreise montiert."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Die Asienbilder stammen aus Gerry Troynas „Ricochet“.",
       "context": "Die Asienbilder stammen aus Gerry Troynas „Ricochet“. Das Material zeigt Bowie unter anderem im weißen Anzug und erweitert die Konzertbilder um Bewegung durch fremde Alltagsräume. Die Archivarbeit erschließt so eine andere Perspektive auf den Musiker. Der Film stellt diese Reisemomente neben Auftritte und Gedanken und macht daraus Bestandteile derselben künstlerischen Suche.",
-      "anchor": "„Ricochet“ liefert die Asienreise.",
       "interest": "Die Herkunft einer charakteristischen Archivpassage erkennen.",
       "sources": [
         "essay"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "„Ricochet“ liefert die Asienreise."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Stefan Nadelman animiert Zeichnungen und Storyboards zu Bowies geplanter „Diamond Dogs“-Verfilmung.",
       "context": "Stefan Nadelman animiert Zeichnungen und Storyboards zu Bowies geplanter „Diamond Dogs“-Verfilmung. Damit tritt neben das erhaltene Auftrittsmaterial eine Idee, die damals keine fertige Filmform bekam. Die Dokumentation erschließt auch solche Entwürfe als Teil der künstlerischen Welt. Sie zeigt, dass Bowies bildliches Denken über tatsächlich veröffentlichte Rollen und Bühnenfiguren hinausging.",
-      "anchor": "„Diamond Dogs“ wird aus Entwürfen bewegt.",
       "interest": "Ein unvollendetes Projekt im Porträt erkennen.",
       "sources": [
         "essay"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "„Diamond Dogs“ wird aus Entwürfen bewegt."
     },
     {
       "code": "Y",
@@ -183,14 +183,14 @@
       ],
       "short": "Weltpremiere bei den Filmfestspielen von Cannes am 23. Mai 2022.",
       "context": "David Bowie starb 2016; „Moonage Daydream“ wurde 2022 erstmals gezeigt. Sechs Jahre liegen zwischen seinem Tod und dieser filmischen Reise durch das freigegebene Archiv. Der Film lässt Bowie dennoch selbst sprechen: Aufgezeichnete Äußerungen tragen die Erzählung. Der zeitliche Abstand erklärt, warum ein postumes Werk eine unmittelbar wirkende eigene Stimme haben kann.",
-      "anchor": "Bowie starb 2016; sein Archivporträt folgte 2022, sechs Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "tiff"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bowie starb 2016; sein Archivporträt folgte 2022, sechs Jahre später."
     },
     {
       "code": "D",
@@ -209,14 +209,14 @@
       ],
       "short": "Brett Morgen führte Regie und verantwortete auch Drehbuch, Produktion und Schnitt.",
       "context": "Brett Morgen führte Regie und verantwortete auch Drehbuch, Produktion und Schnitt. Diese gebündelte Arbeit ermöglicht eine freie Montage aus Musik, Gesprächen, Auftritten und anderen Bildern. Auf der Verleihseite beschreibt er sein Ziel als erlebnisorientierte Annäherung. Anstelle einer durchgehend chronologischen Erklärung soll die Form Bowies wechselnde künstlerische Perspektiven erfahrbar machen.",
-      "anchor": "Morgen vereint Regie, Buch und Schnitt zu einer freien Bowie-Montage.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "verleih",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Morgen vereint Regie, Buch und Schnitt zu einer freien Bowie-Montage."
     }
   ]
 }

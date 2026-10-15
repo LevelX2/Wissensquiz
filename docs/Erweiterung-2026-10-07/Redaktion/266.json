@@ -45,13 +45,13 @@
       ],
       "short": "Der verurteilte Dieb wird wegen seiner Ähnlichkeit mit Shingen verschont.",
       "context": "Der Dieb (Tatsuya Nakadai) besitzt weder Rang noch die Erfahrungen des Fürsten, dem er ähnelt. Sein neuer Auftritt verlangt daher das Erlernen von Gesten und Regeln. Die ungewöhnliche Herkunft macht deutlich, dass die sichtbare Person und die gesellschaftliche Rolle auseinanderfallen können, während die Umgebung an der Fortsetzung vertrauter Herrschaft festhält.",
-      "anchor": "Ein rangloser Dieb lernt, die gesellschaftliche Rolle eines Fürsten auszufüllen.",
       "interest": "Die Herkunft erklärt den Abstand zwischen Aussehen und politischer Erfahrung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein rangloser Dieb lernt, die gesellschaftliche Rolle eines Fürsten auszufüllen."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Die Berater wollen die Macht der Takeda durch den weiter sichtbaren Fürsten bewahren.",
       "context": "Die Gegner beobachten die Takeda und suchen nach Anzeichen einer Schwäche. Der Auftritt des Ersatzmanns (Tatsuya Nakadai) richtet sich daher an die eigenen Gefolgsleute und an fremde Beobachter zugleich. Die Täuschung soll Entscheidungen anderer verhindern, solange sie von der weiteren Anwesenheit des gefürchteten Fürsten ausgehen.",
-      "anchor": "Das Bild des lebenden Fürsten schützt die Takeda gegenüber eigenen Leuten und Gegnern.",
       "interest": "Die Clanzuordnung erklärt den politischen Zweck des Auftritts.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Bild des lebenden Fürsten schützt die Takeda gegenüber eigenen Leuten und Gegnern."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Das vermeintliche Schatzgefäß enthält den konservierten Leichnam.",
       "context": "Der Dieb (Tatsuya Nakadai) versteht das geheim gehaltene Geschehen zunächst nicht. Seine Hoffnung auf wertvollen Inhalt führt ihn zum Leichnam des Fürsten. Der alte Wunsch nach Beute wird dadurch zum Zugang zu einer politischen Wahrheit. Nachdem die Berater an seiner Verlässlichkeit zweifeln, entscheidet er sich später erneut und bewusst für die Rolle.",
-      "anchor": "Die Suche nach einem Schatz enthüllt den geheim gehaltenen Tod.",
       "interest": "Die Entdeckung verbindet die frühere Diebeshaltung mit dem neuen politischen Wissen.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Suche nach einem Schatz enthüllt den geheim gehaltenen Tod."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Das dreijährige Geheimnis soll die Position der Takeda erhalten.",
       "context": "Shingens Anordnung verzögert die offene Machtübernahme seines Sohnes Katsuyori (Kenichi Hagiwara). Das Geheimnis schützt den Clan nach außen, schafft aber im Inneren ein gespanntes Verhältnis. Die zeitlich begrenzte Täuschung besitzt daher einen Preis: Der tatsächliche Nachfolger muss neben einem Menschen leben, der öffentlich weiterhin als sein Vater auftritt.",
-      "anchor": "Das dreijährige Geheimnis schützt den Clan und behindert Katsuyoris offene Nachfolge.",
       "interest": "Der Auftrag erklärt den Konflikt zwischen äußerer Stabilität und innerem Ehrgeiz.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das dreijährige Geheimnis schützt den Clan und behindert Katsuyoris offene Nachfolge."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Der sichtbar gewordene Körper besitzt nicht die erwarteten Narben.",
       "context": "Der Ersatzmann (Tatsuya Nakadai) vertraut zunehmend seiner eingeübten Rolle. Das schwer zu beherrschende Pferd wirft ihn ab, und die Helfenden sehen seinen Körper. Die Täuschung scheitert damit an einer Grenze, die Gesten und überzeugender Auftritt nicht überdecken können. Die anschließende Vertreibung überlässt Katsuyori (Kenichi Hagiwara) die Führung.",
-      "anchor": "Der Sturz zeigt fehlende Narben: Die körperliche Grenze beendet die eingeübte Rolle.",
       "interest": "Die Szene erklärt den Unterschied zwischen überzeugendem Verhalten und unveränderlichen Merkmalen.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Sturz zeigt fehlende Narben: Die körperliche Grenze beendet die eingeübte Rolle."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Die vorbereitete Feuerstellung vernichtet die angreifenden Einheiten.",
       "context": "Katsuyori (Kenichi Hagiwara) entscheidet sich für den Angriff und führt seine Truppen gegen gesicherte Feuerstellungen. Der vertriebene Doppelgänger (Tatsuya Nakadai) beobachtet den Untergang und geht schließlich selbst in die Schusslinie. Er besitzt keine Macht mehr, hält aber emotional an der Rolle fest. Die militärische Niederlage und seine persönliche Bindung enden damit gemeinsam.",
-      "anchor": "Katsuyoris Angriff scheitert an geschütztem Gewehrfeuer; der vertriebene Doppelgänger folgt dem Clan bis zum Ende.",
       "interest": "Der Schluss verbindet strategische Fehlentscheidung und fortbestehende Identifikation.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Katsuyoris Angriff scheitert an geschütztem Gewehrfeuer; der vertriebene Doppelgänger folgt dem Clan bis zum Ende."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1980.",
       "context": "Der Film erschien 1980 in Japan. Die längere japanische Fassung wurde 2005 auch in einer amerikanischen Heimvideoausgabe veröffentlicht, fünfundzwanzig Jahre später. Die zuvor dort gezeigte Kinofassung war gekürzt. Diese Verbindung hilft, ein späteres Ausgabedatum von der ersten Veröffentlichung des Werks zu unterscheiden und erklärt, weshalb Laufzeiten derselben Geschichte voneinander abweichen können.",
-      "anchor": "Japanischer Film 1980 → amerikanische Heimvideoausgabe der Langfassung 2005: fünfundzwanzig Jahre.",
       "interest": "Der spätere Fassungstermin erklärt die Unterscheidung von Filmjahr und Ausgabejahr.",
       "sources": [
         "wiki",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Japanischer Film 1980 → amerikanische Heimvideoausgabe der Langfassung 2005: fünfundzwanzig Jahre."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "Akira Kurosawa führte bei diesem Film Regie.",
       "context": "Akira Kurosawa inszenierte die Doppelrolle mit Tatsuya Nakadai. George Lucas und Francis Ford Coppola halfen bei der internationalen Finanzierung und erhielten entsprechende Produzentencredits; sie führten nicht gemeinsam mit Kurosawa Regie. Der Film macht Macht durch Haltung, Auftritt und die Reaktionen anderer sichtbar. Die körperliche Ähnlichkeit allein genügt dem Ersatzmann deshalb nicht.",
-      "anchor": "Kurosawa führt Regie; Lucas und Coppola unterstützen die internationale Produktion.",
       "interest": "Der Hintergrund trennt Regie und internationale Produktionshilfe.",
       "sources": [
         "wiki",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kurosawa führt Regie; Lucas und Coppola unterstützen die internationale Produktion."
     }
   ],
   "category": "Arthouse"

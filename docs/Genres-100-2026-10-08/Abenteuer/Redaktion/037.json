@@ -33,11 +33,11 @@
       ],
       "short": "John pflegt den verletzten d’Arnot gesund.",
       "context": "D’Arnot (Ian Holm) hat den Angriff auf seine Reisegruppe überlebt. John (Christopher Lambert) kümmert sich um ihn, obwohl er kaum mit Menschen vertraut ist. Aus der Rettung entwickelt sich eine Verbindung, durch die Sprache, Herkunft und eine mögliche Rückkehr zur menschlichen Familie zugänglich werden. Der Reisende ist also zunächst der Schutzbedürftige, bevor er selbst zum Vermittler wird.",
-      "anchor": "Erst rettet John d’Arnot, dann öffnet d’Arnot ihm eine andere Welt.",
       "interest": "Der Rollenwechsel macht die Begegnung als gegenseitige Hilfe verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Erst rettet John d’Arnot, dann öffnet d’Arnot ihm eine andere Welt."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "John soll in der britischen Adelsgesellschaft leben.",
       "context": "D’Arnot (Ian Holm) erkennt Johns (Christopher Lambert) familiäre Herkunft und bringt ihn zum Besitz seiner Verwandten. Dort erwarten ihn Wohlstand und gesellschaftliche Regeln, die ihm fremd sind. Der Film erzählt die Ankunft nicht einfach als Heimkehr: Biologische Abstammung erklärt seinen Platz in der Erbfolge, ersetzt aber nicht die Erfahrungen, die ihn im Dschungel geprägt haben.",
-      "anchor": "Herkunft gibt John einen Titel, noch kein Zuhause.",
       "interest": "Der zweite Schauplatz erklärt den zentralen Kulturkonflikt.",
       "sources": [
         "handlung",
         "kino"
-      ]
+      ],
+      "objective": "Herkunft gibt John einen Titel, noch kein Zuhause."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Das Spiegelbild zeigt ihm seine körperliche Andersartigkeit.",
       "context": "Im Baumhaus findet der junge John (Eric Langlois) Dinge aus dem Leben seiner Eltern. Spielzeug und Spiegel geben ihm neue Bilder seiner selbst. Entscheidend ist die Wahrnehmung des eigenen Körpers: Er gehört zu seiner Affenfamilie, sieht aber anders aus. Lange bevor d’Arnot (Ian Holm) seine Herkunft erklärt, beginnt deshalb eine Suche nach der eigenen Identität.",
-      "anchor": "Das erste Herkunftsrätsel erscheint im eigenen Spiegelbild.",
       "interest": "Die Szene zeigt Selbstwahrnehmung ohne bloß einen Gegenstandsnamen zu prüfen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das erste Herkunftsrätsel erscheint im eigenen Spiegelbild."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Der Earl ist Johns Großvater.",
       "context": "Der Earl (Ralph Richardson) freut sich über John (Christopher Lambert), verwechselt ihn aber zeitweise mit seinem verlorenen Sohn. Das macht die Begrüßung zugleich herzlich und schmerzlich. John erhält durch den Großvater Anerkennung innerhalb der Familie. Die gelegentliche Verwechslung verändert seine wirkliche Abstammung nicht; sie zeigt, wie stark Trauer und Erinnerung die Begegnung des alten Mannes bestimmen.",
-      "anchor": "Der Großvater sieht im Enkel den verlorenen Sohn.",
       "interest": "Die Verwandtschaft wird von der bewussten Figurenverwechslung getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Großvater sieht im Enkel den verlorenen Sohn."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "John findet seinen Affenvater als gefangenes Ausstellungstier wieder.",
       "context": "John (Christopher Lambert) erlebt im Museum die vermeintlich zivilisierte Welt aus Sicht ihrer gefangenen Tiere. Er befreit Silverbeard (Peter Elliott), doch die Verfolgung endet mit dessen Erschießung. Für John ist das kein abstrakter Streit über Natur: Die Menschenwelt zerstört eine konkrete familiäre Bindung. Die Begegnung trägt wesentlich zu seiner Entscheidung bei, wieder nach Afrika zu gehen.",
-      "anchor": "Im Museum wird Johns Familie zum Ausstellungsobjekt.",
       "interest": "Die Museumssequenz erklärt den späteren Bruch mit der Adelswelt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Im Museum wird Johns Familie zum Ausstellungsobjekt."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Die Rückkehr löst die Liebesgeschichte nicht durch ein gemeinsames Dschungelleben.",
       "context": "Jane (Andie MacDowell) und d’Arnot (Ian Holm) begleiten John (Christopher Lambert) nach Afrika. Er kehrt zu seiner Affenfamilie zurück; Jane folgt ihm nicht in deren Lebensraum. Der Schluss hält Nähe und Trennung zugleich fest. Die romantische Beziehung beseitigt damit nicht automatisch den Konflikt zwischen den Welten, in denen die beiden jeweils leben könnten.",
-      "anchor": "Nähe zu Jane und Rückkehr zur Affenfamilie bleiben verschiedene Wege.",
       "interest": "Die konkrete Schlussentscheidung unterscheidet diese Adaption von versöhnlicheren Tarzan-Enden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Nähe zu Jane und Rückkehr zur Affenfamilie bleiben verschiedene Wege."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "Die Fassung mit Christopher Lambert erschien 1984.",
       "context": "1984 kehrt Hugh Hudson zu einem Stoff zurück, den Edgar Rice Burroughs bereits 1912 veröffentlicht hatte. Rund sieben Jahrzehnte später legt die Adaption besonderes Gewicht auf Herkunft, Erziehung und die irritierende Begegnung mit der Adelswelt. Das Filmjahr gehört zur Fassung mit Christopher Lambert und Andie MacDowell; der Roman und die historische Umgebung der Handlung sind deutlich älter.",
-      "anchor": "1984: Tarzans Herkunft neu erzählt, sieben Jahrzehnte nach dem Roman.",
       "interest": "Der Abstand zum Ursprung des Stoffes verankert das Filmjahr.",
       "sources": [
         "handlung",
         "credit",
         "kino"
-      ]
+      ],
+      "objective": "1984: Tarzans Herkunft neu erzählt, sieben Jahrzehnte nach dem Roman."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Hugh Hudson führte Regie.",
       "context": "Hugh Hudson inszeniert den Wechsel zwischen Dschungel und britischer Gesellschaft. Der ausführliche Credit der Cinémathèque führt ihn zugleich als einen der Produzenten. Die Regiefrage bezieht sich auf die Fassung mit Christopher Lambert: Andere Tarzan-Verfilmungen erzählen denselben Stoff mit anderen Darstellern und Verantwortlichen. Hier steht Johns schwierige Zugehörigkeit zwischen zwei Familienwelten im Zentrum.",
-      "anchor": "Hudsons Tarzan muss seine Zugehörigkeit neu bestimmen.",
       "interest": "Die eindeutige Filmfassung und Hudsons Doppelaufgabe machen den Credit einprägsam.",
       "sources": [
         "credit"
-      ]
+      ],
+      "objective": "Hudsons Tarzan muss seine Zugehörigkeit neu bestimmen."
     }
   ]
 }

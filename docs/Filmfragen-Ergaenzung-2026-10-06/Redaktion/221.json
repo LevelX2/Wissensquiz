@@ -36,12 +36,12 @@
       ],
       "short": "Ethan Edwards (John Wayne) und Martin Pawley (Jeffrey Hunter) suchen Debbie.",
       "context": "Ethan Edwards (John Wayne) und Martin Pawley (Jeffrey Hunter) suchen Debbie. Nach dem Angriff auf das Familienhaus zieht sich die Suche über mehrere Jahre hin.",
-      "anchor": "Die Suche nach Debbie wird zum jahrelangen Lebensinhalt.",
       "interest": "Die Suche nach Debbie wird zum jahrelangen Lebensinhalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Suche nach Debbie wird zum jahrelangen Lebensinhalt."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Ethan (John Wayne) erkennt, dass der Viehdiebstahl die Männer von ihren Familien weglocken sollte.",
       "context": "Ethan (John Wayne) erkennt, dass der Viehdiebstahl die Männer von ihren Familien weglocken sollte. Bei ihrer Rückkehr ist das Haus verbrannt, mehrere Angehörige sind tot und die Mädchen entführt.",
-      "anchor": "Der Viehdiebstahl erweist sich als Ablenkungsmanöver.",
       "interest": "Der Viehdiebstahl erweist sich als Ablenkungsmanöver.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Viehdiebstahl erweist sich als Ablenkungsmanöver."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Martin (Jeffrey Hunter) schützt Debbie (Natalie Wood), als Ethan (John Wayne) auf sie schießen will.",
       "context": "Martin (Jeffrey Hunter) schützt Debbie (Natalie Wood), als Ethan (John Wayne) auf sie schießen will. Ethan bewertet ihre Zugehörigkeit zu den Comanchen als schlimmer als den Tod; Martin hält am Rettungsziel fest.",
-      "anchor": "Rettungswille und rassistischer Vernichtungswille trennen die Suchenden.",
       "interest": "Rettungswille und rassistischer Vernichtungswille trennen die Suchenden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Rettungswille und rassistischer Vernichtungswille trennen die Suchenden."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Martin (Jeffrey Hunter) geht vor dem offenen Angriff heimlich ins Lager.",
       "context": "Martin (Jeffrey Hunter) geht vor dem offenen Angriff heimlich ins Lager. Er findet Debbie (Natalie Wood) und tötet Scar, um sie zu schützen; Ethan erscheint erst danach am Leichnam.",
-      "anchor": "Martins heimlicher Vorstoß hält die Rettung vor der Vergeltung fest.",
       "interest": "Martins heimlicher Vorstoß hält die Rettung vor der Vergeltung fest.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Martins heimlicher Vorstoß hält die Rettung vor der Vergeltung fest."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ethan (John Wayne) hebt Debbie (Natalie Wood) hoch und bringt sie zur Ranch der Jorgensens.",
       "context": "Ethan (John Wayne) hebt Debbie (Natalie Wood) hoch und bringt sie zur Ranch der Jorgensens. Der erwartete Mord bleibt aus; seine letzte Handlung korrigiert seinen zuvor erklärten Vernichtungswillen.",
-      "anchor": "Ethans letzte Entscheidung lässt Rettung über Hass siegen.",
       "interest": "Ethans letzte Entscheidung lässt Rettung über Hass siegen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ethans letzte Entscheidung lässt Rettung über Hass siegen."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Heimkehrenden betreten das Haus, Ethan (John Wayne) bleibt draußen und zieht weiter.",
       "context": "Die Heimkehrenden betreten das Haus, Ethan (John Wayne) bleibt draußen und zieht weiter. Die gerettete häusliche Gemeinschaft findet für ihren gewaltsamen Retter keinen selbstverständlichen Platz.",
-      "anchor": "Der Retter ermöglicht das Zuhause, bleibt aber außerhalb.",
       "interest": "Der Retter ermöglicht das Zuhause, bleibt aber außerhalb.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Retter ermöglicht das Zuhause, bleibt aber außerhalb."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1956 erschien der Film.",
       "context": "1956 erschien der Film. Alan Le Mays Roman wurde 1954 veröffentlicht; die Verfilmung folgte zwei Jahre später und machte aus der Suche zugleich eine Untersuchung rassistischer Gewalt.",
-      "anchor": "Roman 1954, Film 1956: Nach zwei Jahren wird die Entführungssuche auch zum Konflikt um rassistische Gewalt.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1954, Film 1956: Nach zwei Jahren wird die Entführungssuche auch zum Konflikt um rassistische Gewalt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "John Ford führte Regie.",
       "context": "John Ford führte Regie. Die weiten Landschaften von Monument Valley stehen den Türrahmen gegenüber, die Ethans Abstand zur häuslichen Gemeinschaft sichtbar machen.",
-      "anchor": "John Ford führte Regie.",
       "interest": "John Ford führte Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "John Ford führte Regie."
     }
   ]
 }

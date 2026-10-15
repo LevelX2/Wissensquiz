@@ -32,12 +32,12 @@
       ],
       "short": "Su-mi (Im Soo-jung) kehrt ins Familienhaus zurück.",
       "context": "Su-mi (Im Soo-jung) kehrt ins Familienhaus zurück. Der scheinbare Neuanfang führt unmittelbar in alte Konflikte mit dem Vater und der als feindselig erlebten Stiefmutter.",
-      "anchor": "Die Heimkehr führt wieder an den Ort des Traumas.",
       "interest": "Die Heimkehr führt wieder an den Ort des Traumas.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Heimkehr führt wieder an den Ort des Traumas."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Su-mi (Im Soo-jung) streitet mit Eun-joo (Yum Jung-ah).",
       "context": "Su-mi (Im Soo-jung) streitet mit Eun-joo (Yum Jung-ah). Der Vater Moo-hyeon (Kim Kap-soo) bietet ihr dabei kaum den erwarteten Rückhalt; die häusliche Bedrohung wird dadurch nicht gemeinsam geklärt.",
-      "anchor": "Der Streit im Haus bleibt ohne den erhofften väterlichen Rückhalt.",
       "interest": "Der Streit im Haus bleibt ohne den erhofften väterlichen Rückhalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Streit im Haus bleibt ohne den erhofften väterlichen Rückhalt."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Eun-joo (Yum Jung-ah) pflegte die kranke Mutter.",
       "context": "Eun-joo (Yum Jung-ah) pflegte die kranke Mutter. Su-mi (Im Soo-jung) verbindet ihre Gegenwart dadurch mit dem früheren Eindringen in die Familie und der Beziehung zum Vater.",
-      "anchor": "Die Fotos verknüpfen Pflege und spätere Stiefmutterrolle.",
       "interest": "Die Fotos verknüpfen Pflege und spätere Stiefmutterrolle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Fotos verknüpfen Pflege und spätere Stiefmutterrolle."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Der Sack enthält Porzellanpuppen.",
       "context": "Der Sack enthält Porzellanpuppen. Su-mi (Im Soo-jung) deutet ihn als Behälter ihrer Schwester; die spätere Enthüllung trennt ihre erlebte Bedrohung von dem tatsächlich vorhandenen Gegenstand.",
-      "anchor": "Der Sack erhält durch Su-mis Wahrnehmung einen anderen Inhalt.",
       "interest": "Der Sack erhält durch Su-mis Wahrnehmung einen anderen Inhalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Sack erhält durch Su-mis Wahrnehmung einen anderen Inhalt."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Su-yeon (Moon Geun-young) ist bereits tot.",
       "context": "Su-yeon (Moon Geun-young) ist bereits tot. Su-mi (Im Soo-jung) erlebt sie dennoch an ihrer Seite; der Film macht ihre ungelöste Trauer damit zur Grundlage vieler vorheriger Szenen.",
-      "anchor": "Die anwesend wirkende Schwester gehört zur verdrängten Todesgeschichte.",
       "interest": "Die anwesend wirkende Schwester gehört zur verdrängten Todesgeschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die anwesend wirkende Schwester gehört zur verdrängten Todesgeschichte."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Eun-joo (Yum Jung-ah) sieht Su-yeon unter dem Schrank.",
       "context": "Eun-joo (Yum Jung-ah) sieht Su-yeon (Moon Geun-young) unter dem Schrank. Nach dem Streit mit Su-mi (Im Soo-jung) unterlässt sie die mögliche Hilfe; die spätere Schuld verbindet eine reale unterlassene Rettung mit Su-mis Nichtwissen.",
-      "anchor": "Die Schwester stirbt an einer unterlassenen Hilfe, während Su-mi unwissend fortgeht.",
       "interest": "Die Schwester stirbt an einer unterlassenen Hilfe, während Su-mi unwissend fortgeht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Schwester stirbt an einer unterlassenen Hilfe, während Su-mi unwissend fortgeht."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 2003 erstmals veröffentlicht.",
       "context": "2003 erschien die koreanische Adaption einer älteren Volkserzählung. Die amerikanische Neuverfilmung The Uninvited kam 2009 heraus, sechs Jahre später; die beiden Versionen tragen unterschiedliche internationale Titel.",
-      "anchor": "Die koreanische Fassung von 2003 ging The Uninvited von 2009 sechs Jahre voraus.",
       "interest": "Die koreanische Fassung von 2003 ging The Uninvited von 2009 sechs Jahre voraus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die koreanische Fassung von 2003 ging The Uninvited von 2009 sechs Jahre voraus."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Kim Jee-woon.",
       "context": "Kim schrieb und inszenierte die Neuinterpretation der Volkserzählung Janghwa Hongryeon jeon. Er verbindet den Familienkonflikt mit Su-mis begrenzter Wahrnehmung, sodass spätere Enthüllungen die Rollen früherer Szenen verändern.",
-      "anchor": "Kim schrieb und inszenierte die Neuinterpretation der Volkserzählung Janghwa Hongryeon jeon.",
       "interest": "Kim schrieb und inszenierte die Neuinterpretation der Volkserzählung Janghwa Hongryeon jeon.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kim schrieb und inszenierte die Neuinterpretation der Volkserzählung Janghwa Hongryeon jeon."
     }
   ]
 }

@@ -36,12 +36,12 @@
       ],
       "short": "Paul lebt bei den Fremen auf Arrakis.",
       "context": "Paul lebt bei den Fremen auf Arrakis. Er lernt ihre Sprache, Kampfweisen und Überlebenstechniken; seine Aufnahme eröffnet ihm eine neue Machtbasis, wirft aber auch Fragen nach seiner Rolle als Außenstehender auf.",
-      "anchor": "Die Wüstengemeinschaft wird Pauls neue Heimat und Machtbasis.",
       "interest": "Die Wüstengemeinschaft wird Pauls neue Heimat und Machtbasis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Wüstengemeinschaft wird Pauls neue Heimat und Machtbasis."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Paul lernt, einen Sandwurm zu reiten.",
       "context": "Paul lernt, einen Sandwurm zu reiten. Die gefährliche Aufgabe gehört zur Fremenpraxis und zeigt seine wachsende Einbindung in ihre Welt; sie ist mehr als ein spektakulärer persönlicher Mutbeweis.",
-      "anchor": "Die Wurmpraxis macht Pauls Einbindung sichtbar.",
       "interest": "Die Wurmpraxis macht Pauls Einbindung sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Wurmpraxis macht Pauls Einbindung sichtbar."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Jessica überlebt die giftige Flüssigkeit und erhält Erinnerungen ihrer Vorgängerinnen.",
       "context": "Jessica überlebt die giftige Flüssigkeit und erhält Erinnerungen ihrer Vorgängerinnen. Auch das Bewusstsein ihrer ungeborenen Tochter wird geweckt; ihre neue religiöse Position beeinflusst deshalb zugleich ihre Familienbeziehung.",
-      "anchor": "Das Ritual überträgt vergangene Erinnerungen.",
       "interest": "Das Ritual überträgt vergangene Erinnerungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Ritual überträgt vergangene Erinnerungen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Gurney zeigt Paul (Timothée Chalamet) die versteckten Atomwaffen der Atreides.",
       "context": "Gurney zeigt Paul (Timothée Chalamet) die versteckten Atomwaffen der Atreides. Die familiäre Hinterlassenschaft erhält nun strategische Wirkung; sie ermöglicht eine entscheidende Veränderung der militärischen Lage auf Arrakis.",
-      "anchor": "Das Familienarsenal wird zum strategischen Hebel.",
       "interest": "Das Familienarsenal wird zum strategischen Hebel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Familienarsenal wird zum strategischen Hebel."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Chani erkennt die Prophezeiung als von den Bene Gesserit verbreitetes Machtmittel.",
       "context": "Chani erkennt die Prophezeiung als von den Bene Gesserit verbreitetes Machtmittel. Als Paul (Timothée Chalamet) die messianische Rolle annimmt, entfernt er sich von der anfänglichen Zusage, gleichberechtigt an ihrer Seite zu kämpfen.",
-      "anchor": "Pauls Heilsrolle untergräbt Chanis Vorstellung von gemeinsamer Freiheit.",
       "interest": "Pauls Heilsrolle untergräbt Chanis Vorstellung von gemeinsamer Freiheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Pauls Heilsrolle untergräbt Chanis Vorstellung von gemeinsamer Freiheit."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Großen Häuser erkennen Pauls (Timothée Chalamet) Anspruch nicht an.",
       "context": "Die Großen Häuser erkennen Pauls (Timothée Chalamet) Anspruch nicht an. Er lässt die Fremen gegen sie ausziehen; sein lokaler Sieg beendet den Konflikt daher nicht, sondern eröffnet den gefürchteten größeren Krieg.",
-      "anchor": "Der errungene Thron eröffnet den vorausgesehenen Krieg.",
       "interest": "Der errungene Thron eröffnet den vorausgesehenen Krieg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der errungene Thron eröffnet den vorausgesehenen Krieg."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2024 wurde die Fortsetzung erstmals gezeigt, drei Jahre nach „Dune“ von 2021.",
       "context": "2024 wurde die Fortsetzung erstmals gezeigt, drei Jahre nach „Dune“ von 2021. Beide Filme adaptieren gemeinsam Frank Herberts ersten Roman. Der Abstand ordnet die Fortsetzung als zweite Hälfte dieser Adaption ein, nicht als Verfilmung des zweiten Romans.",
-      "anchor": "Dune 2021, Dune: Part Two 2024: Drei Jahre trennen die zwei Hälften der Adaption des ersten Romans.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Dune 2021, Dune: Part Two 2024: Drei Jahre trennen die zwei Hälften der Adaption des ersten Romans."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts.",
       "context": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts. Zendayas Chani erhält gegenüber dem ersten Film eine umfangreichere aktive Rolle; ihre Perspektive begleitet Pauls (Timothée Chalamet) Entwicklung vom Flüchtling zum religiösen und politischen Anführer.",
-      "anchor": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts.",
       "interest": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Denis Villeneuve führte erneut Regie und schrieb mit Jon Spaihts."
     }
   ]
 }

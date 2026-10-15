@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Magnani spielt Pina, die Verlobte eines Mannes aus dem Widerstand.",
       "context": "Ihre Familie und die geplante Hochzeit gehören zum gewöhnlichen Leben unter deutscher Besatzung. Gerade die Verbindung aus Alltagsnähe und entschlossenem Handeln macht ihren Auftritt so eindringlich.",
-      "anchor": "Magnani ist Pina in Rossellinis besetztem Rom.",
       "interest": "Die Figur gehört zu den prägenden Bildern des italienischen Nachkriegskinos.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/bfi-film-releases/rome-open-city-roma-citta-aperta"
-      ]
+      ],
+      "objective": "Magnani ist Pina in Rossellinis besetztem Rom."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Serafina ist eine aus Sizilien eingewanderte Näherin.",
       "context": "Sie lebt mit ihrer Tochter an der amerikanischen Golfküste. Nach dem Tod ihres Mannes hält sie an einem idealisierten Bild der Ehe fest, bis die Begegnung mit Alvaro neue Gefühle zulässt.",
-      "anchor": "Serafinas Alltag ist der einer Näherin.",
       "interest": "Die berufliche und kulturelle Umgebung verankert die leidenschaftliche Liebesgeschichte.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.tcm.com/articles/87971/the-rose-tattoo"
-      ]
+      ],
+      "objective": "Serafinas Alltag ist der einer Näherin."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Maddalena will ihre kleine Tochter als Filmschauspielerin unterbringen.",
       "context": "Der Traum vom sozialen Aufstieg führt die Mutter zu Probeaufnahmen, Unterricht und vermeintlich hilfreichen Vermittlern. Magnani gestaltet den Ehrgeiz zugleich als komisch, schmerzlich und eng mit mütterlicher Fürsorge verbunden.",
-      "anchor": "Der Filmtraum der Tochter ist vor allem Maddalenas Traum.",
       "interest": "Die Rolle zeigt, wie Hoffnungen auf ein besseres Leben einen Menschen antreiben und gefährden.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/features/how-anna-magnani-became-face-italian-neorealism"
-      ]
+      ],
+      "objective": "Der Filmtraum der Tochter ist vor allem Maddalenas Traum."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 2,
       "short": "Mamma Roma möchte die Prostitution verlassen.",
       "context": "Als Obst- und Gemüsehändlerin versucht sie, ihrem Sohn Ettore ein respektables Leben zu ermöglichen. Ihr früherer Zuhälter Carmine bringt die Vergangenheit jedoch wieder in ihren Alltag zurück.",
-      "anchor": "Mamma Roma sucht mit Ettore einen sozialen Neubeginn.",
       "interest": "Der Berufswechsel erklärt ihre Hoffnungen und ihre besondere Verletzbarkeit.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       "extraSources": [
         "https://www.criterion.com/films/375",
         "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=mamma-roma"
-      ]
+      ],
+      "objective": "Mamma Roma sucht mit Ettore einen sozialen Neubeginn."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 3,
       "short": "Camilla findet ihren Platz wieder unter den Schauspielern.",
       "context": "Die Liebe außerhalb der Bühne verspricht ihr keine einfache Lösung. Der Schluss verbindet ihre Suche nach persönlichem Glück mit der Fähigkeit, auf der Bühne in andere Menschen zu schlüpfen.",
-      "anchor": "Camillas eigentliches Zuhause bleibt das Theater.",
       "interest": "Der Ausgang macht aus der Liebeskomödie eine Reflexion über Schauspiel und Lebensentwurf.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/673-the-golden-coach"
-      ]
+      ],
+      "objective": "Camillas eigentliches Zuhause bleibt das Theater."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 1,
       "short": "Magnani erscheint als Anna Magnani.",
       "context": "Fellini lässt reale Persönlichkeiten neben gespielten Erinnerungen und fantasievollen Stadtszenen auftreten. Die Darstellerin wird dadurch selbst zu einem Bestandteil des filmischen Bildes von Rom.",
-      "anchor": "Magnani gehört als sie selbst zu Fellinis Stadtporträt.",
       "interest": "Der Auftritt zeigt, wie stark ihr öffentliches Bild mit Rom verbunden war.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28039-roma"
-      ]
+      ],
+      "objective": "Magnani gehört als sie selbst zu Fellinis Stadtporträt."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 1,
       "short": "Magnani wurde die häufige Festlegung auf leidenschaftliche, lautstarke Arbeiterfrauen zu eng.",
       "context": "Schon vor dem internationalen Durchbruch hatte sie sehr unterschiedliche Figuren in Komödien und Dramen gespielt. Der große Erfolg eines bestimmten Rollenbildes konnte ihr weiteres Angebot also zugleich einschränken.",
-      "anchor": "Ein erfolgreiches Starbild kann die Bandbreite einer Darstellerin verdecken.",
       "interest": "Der Konflikt macht die Folgen künstlerischer Anerkennung für die spätere Besetzung verständlich.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "films": [],
       "extraSources": [
         "https://www.bfi.org.uk/features/how-anna-magnani-became-face-italian-neorealism"
-      ]
+      ],
+      "objective": "Ein erfolgreiches Starbild kann die Bandbreite einer Darstellerin verdecken."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 2,
       "short": "Tennessee Williams entwarf Serafina für Magnani.",
       "context": "Eine dauerhafte Bühnenarbeit auf Englisch traute sie sich zunächst nicht zu. Bei der Verfilmung konnte sie die Sprache von Aufnahme zu Aufnahme erarbeiten; so gelangte die für sie geschriebene Figur schließlich doch zu ihr.",
-      "anchor": "Williams schrieb Serafina für Magnani.",
       "interest": "Die Entstehung verbindet Theaterautorschaft, Starbesetzung und die unterschiedlichen Arbeitsbedingungen von Bühne und Film.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       ],
       "extraSources": [
         "https://www.tcm.com/articles/87971/the-rose-tattoo"
-      ]
+      ],
+      "objective": "Williams schrieb Serafina für Magnani."
     }
   ]
 }

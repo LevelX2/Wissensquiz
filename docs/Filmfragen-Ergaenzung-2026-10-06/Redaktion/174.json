@@ -36,12 +36,12 @@
       ],
       "short": "Rachel und Nick reisen zur Hochzeit von Colin und Araminta.",
       "context": "Rachel und Nick reisen zur Hochzeit von Colin und Araminta. Erst dort erkennt Rachel das Ausmaß von Nicks Familienvermögen; die vertraute Partnerschaft bekommt plötzlich einen unbekannten gesellschaftlichen Hintergrund.",
-      "anchor": "Die Freundeshochzeit enthüllt Nicks Familienwelt.",
       "interest": "Die Freundeshochzeit enthüllt Nicks Familienwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Freundeshochzeit enthüllt Nicks Familienwelt."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Rachel lehrt Wirtschaftswissenschaften.",
       "context": "Rachel lehrt Wirtschaftswissenschaften. Ihre Kenntnisse erlauben ihr, strategische Entscheidungen zu verstehen; im Konflikt mit Nicks Familie wird diese selbstständige Perspektive wichtiger als der bloße Zugang zum Reichtum.",
-      "anchor": "Rachels wirtschaftliche Denkweise trägt ihre Entscheidungen.",
       "interest": "Rachels wirtschaftliche Denkweise trägt ihre Entscheidungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Rachels wirtschaftliche Denkweise trägt ihre Entscheidungen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Eleanor misstraut Rachels amerikanischer Betonung persönlicher Wünsche.",
       "context": "Eleanor misstraut Rachels amerikanischer Betonung persönlicher Wünsche. Sie selbst hat für die Familie ihr Studium aufgegeben; der Streit betrifft daher gegensätzliche Erwartungen an Lebensentscheidungen, nicht nur Vermögen.",
-      "anchor": "Eleanor verlangt familiäre Pflicht vor individueller Verwirklichung.",
       "interest": "Eleanor verlangt familiäre Pflicht vor individueller Verwirklichung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eleanor verlangt familiäre Pflicht vor individueller Verwirklichung."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Nick (Henry Golding) bietet Rachel (Constance Wu) Eleanors Ring an.",
       "context": "Nick (Henry Golding) bietet Rachel (Constance Wu) Eleanors Ring an. Das Schmuckstück zeigt, dass seine Mutter die Verbindung nun akzeptiert; Rachel muss ihn nicht länger zu einer Wahl gegen die Familie drängen.",
-      "anchor": "Der Ring macht familiäre Zustimmung sichtbar.",
       "interest": "Der Ring macht familiäre Zustimmung sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Ring macht familiäre Zustimmung sichtbar."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Rachel verzichtet auf ihren eigenen Sieg und ermöglicht Eleanor den Gewinn.",
       "context": "Rachel verzichtet auf ihren eigenen Sieg und ermöglicht Eleanor den Gewinn. Das Spiel spiegelt ihre Entscheidung, Nick (Henry Golding) nicht zur Trennung von der Familie zu zwingen. Ihr Opfer ist bewusst, nicht bloße Unfähigkeit.",
-      "anchor": "Der freiwillige Verzicht widerlegt den Vorwurf der Selbstsucht.",
       "interest": "Der freiwillige Verzicht widerlegt den Vorwurf der Selbstsucht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der freiwillige Verzicht widerlegt den Vorwurf der Selbstsucht."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Ein Ermittlerbericht offenbart, dass Rachels Vater nicht tot ist und ihre Geburt aus einer Affäre hervorging.",
       "context": "Ein Ermittlerbericht offenbart, dass Rachels Vater nicht tot ist und ihre Geburt aus einer Affäre hervorging. Rachel (Constance Wu) kannte die ganze Geschichte selbst nicht; ihre Mutter floh vor einem gewalttätigen Ehemann.",
-      "anchor": "Der Bericht trifft Rachel mit einer unbekannten Familiengeschichte.",
       "interest": "Der Bericht trifft Rachel mit einer unbekannten Familiengeschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Bericht trifft Rachel mit einer unbekannten Familiengeschichte."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2018 erschien die Verfilmung, fünf Jahre nach Kevin Kwans Roman von 2013.",
       "context": "2018 erschien die Verfilmung, fünf Jahre nach Kevin Kwans Roman von 2013. Der zeitliche Anker verbindet das erfolgreiche Buch mit einer großen US-Studioproduktion, deren Hauptrollen asiatisch beziehungsweise asiatisch-amerikanisch besetzt sind.",
-      "anchor": "Roman 2013, Film 2018: Fünf Jahre führen von Kwans Buch zur asiatisch besetzten Hollywoodromanze.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 2013, Film 2018: Fünf Jahre führen von Kwans Buch zur asiatisch besetzten Hollywoodromanze."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Jon M.",
       "context": "Jon M. Chu inszenierte die Romanadaption von Kevin Kwan. Constance Wu spielt Rachel, Henry Golding Nick und Michelle Yeoh dessen Mutter Eleanor. Der Liebeskonflikt wird durch Familienloyalität und den Unterschied zwischen amerikanischem und singapurischem Alltag erweitert.",
-      "anchor": "Jon M.",
       "interest": "Jon M.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jon M."
     }
   ]
 }

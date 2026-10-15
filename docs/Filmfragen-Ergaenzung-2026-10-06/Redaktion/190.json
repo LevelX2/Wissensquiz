@@ -36,12 +36,12 @@
       ],
       "short": "Kato (Kazunari Tosa) entdeckt auf dem Monitor seiner Wohnung Bilder aus dem Café darunter.",
       "context": "Kato (Kazunari Tosa) entdeckt auf dem Monitor seiner Wohnung Bilder aus dem Café darunter. Der dortige Fernseher zeigt umgekehrt seinen Wohnraum; zwei gewöhnliche Räume werden zum Schauplatz der Zeitverbindung.",
-      "anchor": "Zwei übereinanderliegende Alltagsräume bilden die rätselhafte Verbindung.",
       "interest": "Zwei übereinanderliegende Alltagsräume bilden die rätselhafte Verbindung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zwei übereinanderliegende Alltagsräume bilden die rätselhafte Verbindung."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Kato betreibt ein Café.",
       "context": "Kato betreibt ein Café. Fernseher und Computermonitor stehen in vertrauten Räumen; die außergewöhnliche Zeitfunktion entsteht daher aus alltäglicher Einrichtung statt aus einem großen Forschungslabor.",
-      "anchor": "Das Café wird zum Zeitlabor ohne Forschungskulisse.",
       "interest": "Das Café wird zum Zeitlabor ohne Forschungskulisse.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Café wird zum Zeitlabor ohne Forschungskulisse."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Bildschirme werden aufeinander gerichtet.",
       "context": "Die Bildschirme werden aufeinander gerichtet. Die ineinander liegenden Ansichten wiederholen das Bild und erlauben weitere Zeitstufen; der Droste-Effekt verwandelt eine optische Rückkopplung in einen längeren Zukunftsblick.",
-      "anchor": "Die Bildschirmverschachtelung verlängert das Zeitfenster.",
       "interest": "Die Bildschirmverschachtelung verlängert das Zeitfenster.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Bildschirmverschachtelung verlängert das Zeitfenster."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Kato hat bereits gesehen, dass sein späteres Selbst zum Fragen ermuntert.",
       "context": "Kato hat bereits gesehen, dass sein späteres Selbst zum Fragen ermuntert. Auch nach Megumis (Aki Asakura) Ablehnung spielt er diese Ermutigung; der bekannte Zukunftsablauf erzeugt Druck, das Unangenehme bewusst zu wiederholen.",
-      "anchor": "Der bekannte Ablauf zwingt zur Wiederholung der Ermutigung.",
       "interest": "Der bekannte Ablauf zwingt zur Wiederholung der Ermutigung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der bekannte Ablauf zwingt zur Wiederholung der Ermutigung."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die Zeitpolizisten wollen Kato (Kazunari Tosa) und Megumi (Aki Asakura) ein erinnerungslöschendes Pulver geben.",
       "context": "Die Zeitpolizisten wollen Kato (Kazunari Tosa) und Megumi (Aki Asakura) ein erinnerungslöschendes Pulver geben. Ihre Eingriffe sollen das Wissen über die Zeitverwicklung beseitigen; der Alltag soll so wieder ohne bewussten Zukunftsblick weitergehen.",
-      "anchor": "Die Zeitkontrolle zielt auf das Erinnerungswissen.",
       "interest": "Die Zeitkontrolle zielt auf das Erinnerungswissen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Zeitkontrolle zielt auf das Erinnerungswissen."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Kato (Kazunari Tosa) und Megumi (Aki Asakura) niesen das Pulver fort.",
       "context": "Kato (Kazunari Tosa) und Megumi (Aki Asakura) niesen das Pulver fort. Der widersprochene Ablauf erzeugt ein Paradox, durch das die Zeitpolizisten verschwinden; die körperlich kleine Reaktion entscheidet damit den fantastischen Konflikt.",
-      "anchor": "Ein Niesen bricht den vorgegebenen Zeitablauf.",
       "interest": "Ein Niesen bricht den vorgegebenen Zeitablauf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein Niesen bricht den vorgegebenen Zeitablauf."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2020 erschien der Film.",
       "context": "2020 erschien der Film. Die Mitglieder der Theatergruppe Europe Kikaku drehten ihn in sieben Tagen in einem Café in Kyoto. Der zeitliche Anker stellt die kurze reale Produktionsdauer neben den noch kürzeren Zukunftsblick von zwei Minuten, ohne beides zu verwechseln.",
-      "anchor": "2020: Sieben Drehtage gestalten eine Bildschirmverbindung, deren Ausgangsabstand nur zwei Minuten beträgt.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2020: Sieben Drehtage gestalten eine Bildschirmverbindung, deren Ausgangsabstand nur zwei Minuten beträgt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Junta Yamaguchi führte Regie, Kamera und Schnitt; Makoto Ueda schrieb das Drehbuch.",
       "context": "Junta Yamaguchi führte Regie, Kamera und Schnitt; Makoto Ueda schrieb das Drehbuch. Die Theatergruppe Europe Kikaku entwickelte die Caféwelt. Der Film ist so montiert, dass er wie eine durchgehende Einstellung wirkt und die unmittelbare Zeitverwicklung körperlich nachvollziehbar bleibt.",
-      "anchor": "Junta Yamaguchi führte Regie, Kamera und Schnitt; Makoto Ueda schrieb das Drehbuch.",
       "interest": "Junta Yamaguchi führte Regie, Kamera und Schnitt; Makoto Ueda schrieb das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Junta Yamaguchi führte Regie, Kamera und Schnitt; Makoto Ueda schrieb das Drehbuch."
     }
   ]
 }

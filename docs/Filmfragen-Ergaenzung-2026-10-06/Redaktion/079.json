@@ -38,12 +38,12 @@
       ],
       "short": "Die Königin (Salma Hayek) will ein Kind.",
       "context": "Die Königin (Salma Hayek) will ein Kind. Der König (John C. Reilly) beschafft das Herz und stirbt dabei; das erfüllte Begehren ist von Beginn an an einen Verlust gebunden.",
-      "anchor": "Der Kinderwunsch fordert das Leben des Königs.",
       "interest": "Der Kinderwunsch fordert das Leben des Königs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Kinderwunsch fordert das Leben des Königs."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Der König (Toby Jones) hält einen Floh, der riesig wächst.",
       "context": "Der König (Toby Jones) hält einen Floh, der riesig wächst. Seine Faszination für das Tier wird später zum Ausgangspunkt einer Heiratsprobe, deren Folgen seine Tochter tragen muss.",
-      "anchor": "Das geheime Haustier wird zur gefährlichen Heiratsaufgabe.",
       "interest": "Das geheime Haustier wird zur gefährlichen Heiratsaufgabe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das geheime Haustier wird zur gefährlichen Heiratsaufgabe."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Der Oger (Guillaume Delaunay) erkennt die Flohhaut am Geruch.",
       "context": "Der Oger (Guillaume Delaunay) erkennt die Flohhaut am Geruch. Der König (Toby Jones) hält an seinem Versprechen fest und zwingt Violet (Bebe Cave), den Gewinner zu heiraten.",
-      "anchor": "Die scheinbar unlösbare Hautfrage bindet Violet an den Oger.",
       "interest": "Die scheinbar unlösbare Hautfrage bindet Violet an den Oger.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die scheinbar unlösbare Hautfrage bindet Violet an den Oger."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Herzzubereitung und Verzehr führen zu beiden Geburten.",
       "context": "Herzzubereitung und Verzehr führen zu beiden Geburten. Elias (Christian Lees) und Jonah (Jonah Lees) gleichen einander; die Königin (Salma Hayek) kann die Nähe ihres Sohnes zum anderen Jungen nicht dulden.",
-      "anchor": "Das eine Herz begründet zwei eng verbundene Leben.",
       "interest": "Das eine Herz begründet zwei eng verbundene Leben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das eine Herz begründet zwei eng verbundene Leben."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Imma (Shirley Henderson) glaubt Doras Behauptung über das Häuten.",
       "context": "Imma (Shirley Henderson) glaubt Doras Behauptung über das Häuten. Dora (Hayley Carmichael) wurde tatsächlich durch eine Hexe verjüngt; der nachgeahmte vermeintliche Weg führt deshalb zu einer grausamen Verletzung.",
-      "anchor": "Ein falsches Schönheitsgeheimnis wird zur Selbstzerstörung.",
       "interest": "Ein falsches Schönheitsgeheimnis wird zur Selbstzerstörung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein falsches Schönheitsgeheimnis wird zur Selbstzerstörung."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Der Körper des Monsters wird zur toten Königin (Salma Hayek).",
       "context": "Der Körper des Monsters wird zur toten Königin (Salma Hayek). Elias (Christian Lees) hatte Jonah (Jonah Lees) retten wollen; die Enthüllung macht die zerstörerische Bindungsabsicht der Mutter sichtbar.",
-      "anchor": "Das Monster verkörpert die gewaltsame Mutterbindung.",
       "interest": "Das Monster verkörpert die gewaltsame Mutterbindung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Monster verkörpert die gewaltsame Mutterbindung."
     },
     {
       "code": "Y",
@@ -182,13 +182,13 @@
       ],
       "short": "Der Film wurde 2015 erstmals veröffentlicht.",
       "context": "2015 wurde der Film in Cannes gezeigt. Die Dreharbeiten hatten 2014 an realen italienischen Schlössern und Landschaften stattgefunden, ein Jahr zuvor. Die künstlich wirkende Märchenwelt wurde damit vor Ort und nicht ausschließlich in Studiokulissen gebaut.",
-      "anchor": "Die italienischen Dreharbeiten von 2014 führten ein Jahr später, 2015, zum Cannes-Film.",
       "interest": "Die italienischen Dreharbeiten von 2014 führten ein Jahr später, 2015, zum Cannes-Film.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die italienischen Dreharbeiten von 2014 führten ein Jahr später, 2015, zum Cannes-Film."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "Regie: Matteo Garrone.",
       "context": "Garrone verband drei Geschichten aus Basiles Pentamerone. Er fand in ihren Wünschen nach Jugend, Kindern und Macht zeitgenössische Konflikte; Goyas Radierungen gehörten zu den visuellen Anregungen.",
-      "anchor": "Garrone verband drei Geschichten aus Basiles Pentamerone.",
       "interest": "Garrone verband drei Geschichten aus Basiles Pentamerone.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Garrone verband drei Geschichten aus Basiles Pentamerone."
     }
   ]
 }

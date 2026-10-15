@@ -38,12 +38,12 @@
       ],
       "short": "John Kruger schützt gefährdete Zeugen.",
       "context": "John Kruger (Arnold Schwarzenegger) verändert Spuren und Identitäten, damit bedrohte Zeugen neu anfangen können. Seine neue Schutzperson Lee Cullen (Vanessa Williams) besitzt Informationen über illegale Waffengeschäfte. Die eigentliche Sicherheitsarbeit wird gefährlich, weil Täter nicht nur die Zeugin, sondern auch die vertraulichen Wege des Schutzprogramms erreichen können.",
-      "anchor": "Das Schutzprogramm ist nur so sicher wie seine vertraulichen Informationen.",
       "interest": "Das Schutzprogramm ist nur so sicher wie seine vertraulichen Informationen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Schutzprogramm ist nur so sicher wie seine vertraulichen Informationen."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Lees Beweise bedrohen ein illegales Waffengeschäft.",
       "context": "Lee Cullen (Vanessa Williams) arbeitet bei Cyrez und erfährt von einer geplanten Schwarzmarktlieferung. Sie kopiert Informationen und unterstützt das FBI. Die Entscheidung macht sie zur Zeugin, die mehrere Beteiligte ausschalten wollen. John Kruger (Arnold Schwarzenegger) muss deshalb nicht nur ihre Flucht sichern, sondern auch dafür sorgen, dass ihre Angaben beweisbar bleiben.",
-      "anchor": "Lee wird verfolgt, weil ihr Wissen als Beweis verwendbar ist.",
       "interest": "Lee wird verfolgt, weil ihr Wissen als Beweis verwendbar ist.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Lee wird verfolgt, weil ihr Wissen als Beweis verwendbar ist."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Cyrez will elektromagnetische Gewehre illegal verkaufen.",
       "context": "Die Cyrez-Waffe wird als außergewöhnlich leistungsfähig vorgestellt. Lee Cullen (Vanessa Williams) sichert Entwicklungs- und Verkaufsinformationen, die ein solches Geschäft offenlegen. Die Technik begründet damit sowohl die wirtschaftliche Verlockung als auch die Gefährlichkeit der Lieferung. Der Film behandelt sie als fiktionale Actionwaffe; ihre gezeigten Fähigkeiten sind keine technische Beschreibung realer einsatzfertiger Gewehre.",
-      "anchor": "Die fiktionale Hochleistungswaffe macht den Schwarzmarktdeal besonders gefährlich.",
       "interest": "Die fiktionale Hochleistungswaffe macht den Schwarzmarktdeal besonders gefährlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die fiktionale Hochleistungswaffe macht den Schwarzmarktdeal besonders gefährlich."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "DeGuerin ist Krugers Mentor und zunächst ein Vertrauensmann.",
       "context": "Robert DeGuerin (James Caan) kennt den Zeugenschutz aus derselben Organisation wie John Kruger (Arnold Schwarzenegger). Sein Status als erfahrener Mentor lässt Kooperation zunächst selbstverständlich wirken. Später wird gerade dieses Vertrauen zum Problem. Der Film verwendet eine vertraute berufliche Beziehung, um die Schwierigkeit zu zeigen, einen Verrat im eigenen Schutzapparat rechtzeitig zu erkennen.",
-      "anchor": "Die Gefahr kommt aus einem zunächst vertrauten beruflichen Verhältnis.",
       "interest": "Die Gefahr kommt aus einem zunächst vertrauten beruflichen Verhältnis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gefahr kommt aus einem zunächst vertrauten beruflichen Verhältnis."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Die zweite Kopie hält die Beweissuche offen.",
       "context": "Lee Cullen (Vanessa Williams) kopiert die Informationen auf zwei Datenträger. Der an das FBI übergebene wird gegen eine falsche Version ausgetauscht. Weil eine weitere Kopie existiert, kann John Kruger (Arnold Schwarzenegger) mit ihr später erneut auf die Daten zugreifen. Die Sicherung ist damit keine Nebensache: Ein einzelner manipulierter Übergabeweg vernichtet nicht automatisch das gesamte Wissen.",
-      "anchor": "Eine zweite Kopie verhindert, dass die sabotierte Übergabe den Beweis beendet.",
       "interest": "Eine zweite Kopie verhindert, dass die sabotierte Übergabe den Beweis beendet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine zweite Kopie verhindert, dass die sabotierte Übergabe den Beweis beendet."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Ein früher geschützter Zeuge hilft nun dem bedrohten Marshal.",
       "context": "Johnny Casteleone (Robert Pastorelli) kennt Kruger (Arnold Schwarzenegger), weil dieser ihn zuvor in Sicherheit gebracht hat. Nun nutzt Johnny Kontakte und praktische Fähigkeiten, um Kruger und Lee Cullen (Vanessa Williams) zu unterstützen. Die Handlung kehrt das Schutzverhältnis um: Hilfe entsteht außerhalb des kompromittierten Apparats aus einer früheren persönlichen Verpflichtung.",
-      "anchor": "Die frühere Schutzleistung schafft eine neue Hilfe außerhalb der Behörde.",
       "interest": "Die frühere Schutzleistung schafft eine neue Hilfe außerhalb der Behörde.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die frühere Schutzleistung schafft eine neue Hilfe außerhalb der Behörde."
     },
     {
       "code": "Y",
@@ -182,13 +182,13 @@
       ],
       "short": "Der ursprüngliche Film erschien 1996.",
       "context": "Der Film wurde in Hollywood uraufgeführt und startete anschließend regulär in den amerikanischen Kinos. Seine Datierung gehört zu Schwarzeneggers Actionrollen der neunziger Jahre. Ein späterer Neustart des Stoffes führt eine neue Hauptfigur und eine andere Besetzung ein. Die gemeinsame Idee eines Zeugenschützers ersetzt deshalb nicht die Datierung dieser ursprünglichen Filmfassung.",
-      "anchor": "1996 bezeichnet Schwarzeneggers Originalfassung.",
       "interest": "1996 bezeichnet Schwarzeneggers Originalfassung.",
       "sources": [
         "handlung",
         "premiere"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "1996 bezeichnet Schwarzeneggers Originalfassung."
     },
     {
       "code": "D",
@@ -207,12 +207,12 @@
       ],
       "short": "Chuck Russell inszenierte den Film.",
       "context": "Chuck Russell verantwortet die Inszenierung der Zeugenschutzgeschichte. Arnold Schwarzenegger spielt John Kruger, Vanessa Williams die bedrohte Zeugin Lee Cullen und James Caan dessen zunächst vertrauten Kollegen. Die prominente Hauptbesetzung verbindet den Film mit vielen Actionkarrieren; der konkrete Regiecredit gehört trotzdem zu Russell und lässt sich nicht aus Schwarzeneggers früheren Zusammenarbeitspartnern ableiten.",
-      "anchor": "Russell führt die drei Hauptfiguren durch die bedrohte Zeugenschutzarbeit.",
       "interest": "Russell führt die drei Hauptfiguren durch die bedrohte Zeugenschutzarbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Russell führt die drei Hauptfiguren durch die bedrohte Zeugenschutzarbeit."
     }
   ]
 }

@@ -39,12 +39,12 @@
       ],
       "short": "Larry Gopnik (Michael Stuhlbarg) ist Physikprofessor.",
       "context": "Larry Gopnik (Michael Stuhlbarg) ist Physikprofessor. Beruflich beschäftigt er sich mit Modellen und Erklärungen, privat verliert er jedoch jeden verlässlichen Überblick. Die Trennung zwischen berechenbarer Arbeit und unbeherrschbaren Ereignissen macht seinen Beruf zu einem tragenden Bestandteil des Konflikts.",
-      "anchor": "Der Physiker findet für sein eigenes Unglück keine Formel.",
       "interest": "Beruf und persönliches Erklärungsproblem gehören zusammen.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Physiker findet für sein eigenes Unglück keine Formel."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Larry Gopnik (Michael Stuhlbarg) sucht bei Rabbinern Rat.",
       "context": "Larry Gopnik (Michael Stuhlbarg) sucht bei Rabbinern Rat. Die Gespräche liefern ihm jedoch nicht einfach die erhoffte umfassende Erklärung seines Unglücks. Dadurch bleibt die Suche nach religiösem Trost Teil einer offenen Krise, statt zu einer Reihe praktischer Reparaturanweisungen für Beruf und Ehe zu werden.",
-      "anchor": "Larry sucht Sinn bei den Rabbinern.",
       "interest": "Die zentrale Suche erschließt die religiöse Perspektive.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Larry sucht Sinn bei den Rabbinern."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Arthur (Richard Kind) beschreibt den Mentaculus als Wahrscheinlichkeitskarte des Universums.",
       "context": "Arthur (Richard Kind) beschreibt den Mentaculus als Wahrscheinlichkeitskarte des Universums. Während Larry Gopnik (Michael Stuhlbarg) in konkreten Problemen steckt, arbeitet sein Bruder an einem großen Erklärungsentwurf. Das Buch verbindet den Wunsch nach umfassender Ordnung mit einer Figur, deren eigener Alltag alles andere als geordnet ist.",
-      "anchor": "Arthurs große Ordnung passt nicht zu seinem ungeordneten Leben.",
       "interest": "Ein Motiv spiegelt den Erklärungswunsch der Hauptfigur.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Arthurs große Ordnung passt nicht zu seinem ungeordneten Leben."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Clive Park (David Kang) lässt einen Geldumschlag zurück.",
       "context": "Clive Park (David Kang) lässt einen Geldumschlag zurück. Larry Gopnik (Michael Stuhlbarg) soll eine schlechte Note ändern, während die Bestechung zugleich abgestritten wird. Der Professor muss somit nicht nur eine Prüfungsleistung beurteilen: Schon die Benennung des Vorgangs führt zu neuen Drohungen.",
-      "anchor": "Der Umschlag macht die Note zur moralischen Prüfung.",
       "interest": "Eine berufliche Entscheidung wird durch widersprüchliche Drohungen verschärft.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Umschlag macht die Note zur moralischen Prüfung."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Rabbi Marshak (Alan Mandell) greift „Somebody to Love“ von Jefferson Airplane auf.",
       "context": "Rabbi Marshak (Alan Mandell) greift „Somebody to Love“ von Jefferson Airplane auf. Danny (Aaron Wolff) bekommt damit ausgerechnet vom alten religiösen Lehrer einen Bezug zu der Musik, die seine jugendliche Welt prägt. Die Begegnung verbindet scheinbar getrennte Generationen, ohne die Fragen seines Vaters endgültig zu beantworten.",
-      "anchor": "Der alte Rabbi spricht mit Dannys Rockmusik.",
       "interest": "Eine Begegnung verbindet religiöse Autorität und Jugendkultur.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der alte Rabbi spricht mit Dannys Rockmusik."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Die Coen-Brüder erfanden die jiddische Eröffnung selbst.",
       "context": "Die Coen-Brüder erfanden die jiddische Eröffnung selbst. Sie wollten den Film mit einer Volkserzählung beginnen, fanden aber keine passende Vorlage. Der scheinbar überlieferte Stoff ist deshalb eine gestaltete Rahmung: Bereits vor Larry Gopniks (Michael Stuhlbarg) Krise wird das Publikum mit einer Frage konfrontiert, deren Gewissheit unsicher bleibt.",
-      "anchor": "Die alte wirkende Geschichte ist eine neue Coen-Erfindung.",
       "interest": "Ein Produktionsbefund erklärt die bewusst rätselhafte Rahmung.",
       "sources": [
         "notizen"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die alte wirkende Geschichte ist eine neue Coen-Erfindung."
     },
     {
       "code": "Y",
@@ -183,14 +183,14 @@
       ],
       "short": "Festivalpremiere am 12. September 2009 in Toronto; US-Kinostart im Oktober 2009.",
       "context": "„A Serious Man“ wurde 2009 erstmals gezeigt, versetzt seine Geschichte aber ins Jahr 1967. Zwischen dem jüdischen Vorstadtmilieu der Handlung und dem Film liegen zweiundvierzig Jahre. Die Coen-Brüder griffen dabei auf eine Umgebung zurück, die ihrer eigenen Kindheit ähnelt. Der Zeitabstand verbindet persönliche Erinnerung mit der späteren Satire, ohne die Figur als autobiografisches Porträt auszugeben.",
-      "anchor": "1967 die erzählte Vorstadt, 2009 der Film: zweiundvierzig Jahre Abstand.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "notizen"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1967 die erzählte Vorstadt, 2009 der Film: zweiundvierzig Jahre Abstand."
     },
     {
       "code": "D",
@@ -209,14 +209,14 @@
       ],
       "short": "Joel und Ethan Coen schrieben, produzierten und inszenierten den Film gemeinsam.",
       "context": "Joel und Ethan Coen schrieben, produzierten und inszenierten den Film gemeinsam. Die jüdische Vorstadt der Handlung erinnert an ihr eigenes Aufwachsen im Mittleren Westen. Das ist ein belegter Milieubezug, keine Behauptung, Larry Gopnik (Michael Stuhlbarg) sei ihr Vater. Der erfundene Physikprofessor trägt eine selbstständige Geschichte über Unglück und die Suche nach Gewissheit.",
-      "anchor": "Beide Coens gestalten eine erfundene Krise in einem vertrauten Milieu.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "studio",
         "notizen"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Beide Coens gestalten eine erfundene Krise in einem vertrauten Milieu."
     }
   ]
 }

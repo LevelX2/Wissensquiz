@@ -34,12 +34,12 @@
       ],
       "short": "Die Gruppe besetzt ein Einkaufszentrum.",
       "context": "Die Gruppe besetzt ein Einkaufszentrum. Peter (Ken Foree), Fran (Gaylen Ross), Stephen (David Emge) und Roger (Scott Reiniger) finden dort Vorräte, aber auch eine verführerische Fülle an Besitz.",
-      "anchor": "Der Vorratsort wird zur eigenen Konsumwelt.",
       "interest": "Der Vorratsort wird zur eigenen Konsumwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Vorratsort wird zur eigenen Konsumwelt."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Die Gruppe nimmt den Hubschrauber des Fernsehsenders.",
       "context": "Die Gruppe nimmt den Hubschrauber des Fernsehsenders. Stephen (David Emge) kann ihn fliegen; die Maschine ermöglicht Distanz zur Stadt und bleibt später eine begrenzte Fluchtreserve.",
-      "anchor": "Der Nachrichtenhubschrauber wird vom Arbeitsgerät zur Rettungsmöglichkeit.",
       "interest": "Der Nachrichtenhubschrauber wird vom Arbeitsgerät zur Rettungsmöglichkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Nachrichtenhubschrauber wird vom Arbeitsgerät zur Rettungsmöglichkeit."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Lastwagen blockieren die Eingänge.",
       "context": "Lastwagen blockieren die Eingänge. Roger (Scott Reiniger) wird bei diesen riskanten Fahrten gebissen; das Sichern des Wohlstands im Inneren fordert daher schon beim Aufbau ein Opfer.",
-      "anchor": "Die schützenden Lastwagen müssen unter Angriff platziert werden.",
       "interest": "Die schützenden Lastwagen müssen unter Angriff platziert werden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die schützenden Lastwagen müssen unter Angriff platziert werden."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Fran (Gaylen Ross) fordert Flugunterricht von Stephen (David Emge).",
       "context": "Fran (Gaylen Ross) fordert Flugunterricht von Stephen (David Emge). Die Fähigkeit wird zur Vorsorge für seinen Ausfall; ihre Selbstständigkeit betrifft damit die reale Überlebenschance der Gruppe.",
-      "anchor": "Der Flugunterricht verringert eine gefährliche Abhängigkeit.",
       "interest": "Der Flugunterricht verringert eine gefährliche Abhängigkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Flugunterricht verringert eine gefährliche Abhängigkeit."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Stephen (David Emge) verteidigt die Mall als eigenen Besitz.",
       "context": "Stephen (David Emge) verteidigt die Mall als eigenen Besitz. Sein Angriff verschärft den Einbruch der Motorradgruppe; das Festhalten am eroberten Konsumraum macht den vorhandenen Rückzugsplan wirkungslos.",
-      "anchor": "Der Besitzanspruch ersetzt die zuvor vereinbarte Flucht.",
       "interest": "Der Besitzanspruch ersetzt die zuvor vereinbarte Flucht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Besitzanspruch ersetzt die zuvor vereinbarte Flucht."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Der untote Stephen (David Emge) folgt dem vertrauten Weg.",
       "context": "Der untote Stephen (David Emge) folgt dem vertrauten Weg. Sein früheres Wissen erschließt den anderen Angreifern den Rückzugsraum; Gewohnheit bleibt damit selbst nach dem Tod gefährlich wirksam.",
-      "anchor": "Stephens vertrauter Weg verrät die letzte Rückzugsmöglichkeit.",
       "interest": "Stephens vertrauter Weg verrät die letzte Rückzugsmöglichkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Stephens vertrauter Weg verrät die letzte Rückzugsmöglichkeit."
     },
     {
       "code": "Y",
@@ -178,12 +178,12 @@
       ],
       "short": "Der Film wurde 1978 erstmals veröffentlicht.",
       "context": "1978 erschien der zweite Film der Reihe, zehn Jahre nach Night of the Living Dead von 1968. Der amerikanische Start 1979 lag ein Jahr später; Zack Snyders Neuverfilmung von 2004 folgte erst 26 Jahre nach dem Original.",
-      "anchor": "1978 folgte der Einkaufszentrumfilm zehn Jahre nach dem Bauernhausfilm von 1968.",
       "interest": "1978 folgte der Einkaufszentrumfilm zehn Jahre nach dem Bauernhausfilm von 1968.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1978 folgte der Einkaufszentrumfilm zehn Jahre nach dem Bauernhausfilm von 1968."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "Regie: George A. Romero.",
       "context": "Romero entwickelte den Schauplatz nach einem Besuch der Monroeville Mall. Dario Argento half bei der Finanzierung und erstellte einen eigenen Schnitt für andere Märkte; der offizielle Regiecredit des gedrehten Films bleibt bei Romero.",
-      "anchor": "Romero entwickelte den Schauplatz nach einem Besuch der Monroeville Mall.",
       "interest": "Romero entwickelte den Schauplatz nach einem Besuch der Monroeville Mall.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Romero entwickelte den Schauplatz nach einem Besuch der Monroeville Mall."
     }
   ]
 }

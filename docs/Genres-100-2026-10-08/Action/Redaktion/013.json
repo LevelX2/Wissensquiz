@@ -36,11 +36,11 @@
       ],
       "short": "Davian erpresst Ethan mit dem Leben seiner Frau Julia.",
       "context": "Ethan Hunt (Tom Cruise) versucht, sein Agentenleben von seiner Beziehung zu Julia Meade (Michelle Monaghan) getrennt zu halten. Owen Davian (Philip Seymour Hoffman) greift genau diese Grenze an, indem er Julia entführen lässt. Der Auftrag wird damit zu einer persönlichen Erpressung. Ethan muss nicht nur ein gefährliches Objekt beschaffen, sondern zugleich erklären und bewältigen, was seine geheime Tätigkeit für seine Ehe bedeutet.",
-      "anchor": "Davian trifft Ethan über dessen bislang abgeschirmtes Privatleben.",
       "interest": "Die zentrale Bedrohung ist ohne Spezialwissen über die Reihe zugänglich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Davian trifft Ethan über dessen bislang abgeschirmtes Privatleben."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Ethan hat sich aus Feldeinsätzen zurückgezogen und trainiert Nachwuchsagenten.",
       "context": "Ethan Hunt (Tom Cruise) beginnt den Film in einer veränderten beruflichen Lage. Er trainiert neue Agenten und möchte ein gemeinsames Leben mit Julia Meade (Michelle Monaghan) aufbauen. Die Gefangennahme seiner ehemaligen Schülerin Lindsey Farris (Keri Russell) zieht ihn wieder in einen Einsatz. Seine Ausbilderrolle ist deshalb kein bloßer Hintergrund: Sie begründet seine persönliche Verantwortung für die erste Rettungsmission.",
-      "anchor": "Die Verantwortung für eine Schülerin zieht den Ausbilder zurück ins Feld.",
       "interest": "Die Ausgangsposition erklärt den ersten Einsatz unabhängig von Julias späterer Entführung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Verantwortung für eine Schülerin zieht den Ausbilder zurück ins Feld."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Ein implantierter Sprengsatz macht die Rettung zunichte.",
       "context": "Ethan Hunt (Tom Cruise) und sein Team bekommen Lindsey Farris (Keri Russell) zunächst aus der Gefangenschaft. Während der Flucht entdeckt Ethan jedoch den implantierten Sprengsatz und versucht, ihn mit einem Defibrillator auszuschalten. Er kommt zu spät. Die Szene verändert die Bedeutung der Befreiung: Körperliche Entfernung vom Gegner genügt nicht, wenn dessen Waffe im Opfer bleibt und den Einsatz überdauert.",
-      "anchor": "Die Gefahr bleibt im befreiten Körper verborgen.",
       "interest": "Der Mechanismus erklärt, warum eine zunächst erfolgreiche Rettung scheitert.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Gefahr bleibt im befreiten Körper verborgen."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "John Musgrave ist Davians Verbündeter innerhalb der Organisation.",
       "context": "John Musgrave (Billy Crudup) tritt zunächst als derjenige auf, der Ethan Hunt (Tom Cruise) für die Rettung seiner Schülerin zurückholt. Später wird seine Zusammenarbeit mit Owen Davian (Philip Seymour Hoffman) deutlich. Die scheinbare Unterstützung bei Ethans Flucht erhält dadurch einen anderen Sinn. Der Helfer in der Organisation lenkt den Agenten auf ein Ziel, das er selbst für einen größeren politischen Plan benötigt.",
-      "anchor": "Musgraves Hilfe führt Ethan tiefer in den Verratsplan.",
       "interest": "Der Rollentausch des vermeintlichen Unterstützers ist ein eigenständiges Enthüllungsziel.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Musgraves Hilfe führt Ethan tiefer in den Verratsplan."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Eine Maske lässt Davians Übersetzerin wie Julia aussehen.",
       "context": "Owen Davian (Philip Seymour Hoffman) lässt Ethan Hunt (Tom Cruise) glauben, seine Frau Julia (Michelle Monaghan) werde vor seinen Augen erschossen. Tatsächlich trägt Davians Übersetzerin (Bahar Soomekh) eine Maske. Julia lebt noch. Die Täuschung richtet sich damit nicht nur an andere Figuren, wie bei einer gewöhnlichen Infiltration: Sie soll Ethan emotional brechen und seine Einschätzung der verbleibenden Rettungsmöglichkeiten zerstören.",
-      "anchor": "Die Maske täuscht Ethan über den Tod seiner Frau.",
       "interest": "Das Ziel trennt Identitätstäuschung von der bereits abgefragten Geiselnahme.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Maske täuscht Ethan über den Tod seiner Frau."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Ein Stromstoß stoppt die Kapsel, eine Wiederbelebung rettet Ethan.",
       "context": "Ethan Hunt (Tom Cruise) erklärt Julia Meade (Michelle Monaghan), wie sie einen starken elektrischen Impuls auslösen und ihn danach wiederbeleben soll. Die eigene Rettung verlangt somit, dass er die Kontrolle vorübergehend an sie abgibt. Julia muss zusätzlich mit einer Waffe handeln, während Ethan bewusstlos ist. Ihre bisher geschützte Position verändert sich: Sie wird zur entscheidenden Handelnden in einer akuten Agentensituation.",
-      "anchor": "Ethan kann nur über Julias Handeln aus der implantierten Gefahr entkommen.",
       "interest": "Die Rettungsmethode erschließt Handlung, Risiko und Figurenentwicklung zusammen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ethan kann nur über Julias Handeln aus der implantierten Gefahr entkommen."
     },
     {
       "code": "Y",
@@ -174,13 +174,13 @@
       ],
       "short": "1996 der erste Kinofilm, 2006 Teil III: zehn Jahre Abstand.",
       "context": "Die erste Mission: Impossible für das Kino erschien 1996 mit Tom Cruise als Ethan Hunt. Zehn Jahre später folgte 2006 der dritte Teil. Die Reihe hatte inzwischen mehrere unterschiedliche Regiehandschriften erhalten und richtete den Einsatz hier besonders auf Ethans Privatleben. Die Weltpremiere fand am 24. April 2006 in Rom statt, bevor der Film im Mai regulär in den USA anlief.",
-      "anchor": "1996 Kinostart der Reihe, 2006 Teil III: zehn Jahre Abstand.",
       "interest": "Der konkrete Reihenbeginn liefert eine zweite verifizierbare Jahresmarke.",
       "sources": [
         "studio",
         "premiere",
         "vergleich"
-      ]
+      ],
+      "objective": "1996 Kinostart der Reihe, 2006 Teil III: zehn Jahre Abstand."
     },
     {
       "code": "D",
@@ -199,13 +199,13 @@
       ],
       "short": "J. J. Abrams inszenierte den dritten Kinofilm.",
       "context": "J. J. Abrams führte bei diesem Film erstmals Spielfilmregie. Er verbindet das Teamabenteuer mit Ethan Hunts (Tom Cruise) Ehe und der Bedrohung durch Owen Davian (Philip Seymour Hoffman). Damit erhält der fortgeführte Agent eine stärker persönliche Ausgangslage, die bereits seine Rückkehr aus der Ausbilderrolle bestimmt. Paramount nennt Abrams als Regisseur und gemeinsam mit Alex Kurtzman und Roberto Orci als Drehbuchautor.",
-      "anchor": "Abrams macht Ethans Privatleben zum Kern der dritten Mission.",
       "interest": "Der filmbezogene Credit verhindert das Vermischen unterschiedlicher Reihenregisseure.",
       "sources": [
         "studio",
         "vergleich",
         "handlung"
-      ]
+      ],
+      "objective": "Abrams macht Ethans Privatleben zum Kern der dritten Mission."
     }
   ]
 }

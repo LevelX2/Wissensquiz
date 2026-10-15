@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Rath ist Gymnasiallehrer.",
       "context": "Er sucht das Lokal zunächst wegen seiner Schüler auf. Dort begegnet er Lola Lola (Marlene Dietrich); seine Bindung an die Sängerin führt ihn aus dem geregelten Schulalltag in eine Existenz, in der er seine frühere Autorität verliert.",
-      "anchor": "Rath kommt aus dem Klassenzimmer in den Blauen Engel.",
       "interest": "Den Ausgangspunkt einer berühmten Geschichte vom sozialen Absturz erkennen.",
       "feedback": [
         "",
@@ -35,7 +34,8 @@
       ],
       "knowledge_id": "K-CLA-21-02",
       "variant_of": "CLA-L-042",
-      "knowledge_note": "Dasselbe Berufs-Wissensziel wie die Filmfrage; ausdrücklich als Personenvariante geführt."
+      "knowledge_note": "Dasselbe Berufs-Wissensziel wie die Filmfrage; ausdrücklich als Personenvariante geführt.",
+      "objective": "Rath kommt aus dem Klassenzimmer in den Blauen Engel."
     },
     {
       "code": "L2",
@@ -49,7 +49,6 @@
       "correct": 0,
       "short": "Er ist Portier eines vornehmen Hotels.",
       "context": "Die prächtige Uniform verleiht ihm auch in seiner Wohngegend hohes Ansehen. Als die Hotelleitung ihn für die körperliche Arbeit zu alt findet, verliert er mit der Stellung auch diesen sichtbaren Rang.",
-      "anchor": "Der stolze Portier lebt von seiner Stellung und ihrer Uniform.",
       "interest": "Den sozialen Standort einer bedeutenden Stummfilmfigur erkennen.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/der-letzte-mann_354d606172df4e89aee14c93fa47a89a"
-      ]
+      ],
+      "objective": "Der stolze Portier lebt von seiner Stellung und ihrer Uniform."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 0,
       "short": "Er erfährt vom Verhältnis seiner Geliebten mit Artinelli.",
       "context": "Boss Huller hat für Berta-Marie (Lya de Putti) seine Familie verlassen. Als erfolgreiches Artistentrio arbeiten beide mit Artinelli (Warwick Ward); der berufliche Partner wird zum Liebesrivalen, und Hullers Eifersucht endet in einem Mordgeständnis.",
-      "anchor": "Das erfolgreiche Trio zerbricht an Eifersucht.",
       "interest": "Den Konflikt zwischen gemeinsamer Arbeit und privater Beziehung nachvollziehen.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/variete_6948b7c456b44c88864a9486b2bcfca8"
-      ]
+      ],
+      "objective": "Das erfolgreiche Trio zerbricht an Eifersucht."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 3,
       "short": "Er war General im zaristischen Russland.",
       "context": "Der verarmte Emigrant erhält am Filmset eine Rolle, die seiner früheren Stellung entspricht. Beim Nachspielen des Krieges verwischen für ihn Darstellung und Erinnerung, bis die Wiederholung seiner Vergangenheit zur tödlichen Überforderung wird.",
-      "anchor": "Der Statist muss seine eigene verlorene Macht nachspielen.",
       "interest": "Das Spiel mit Lebensgeschichte und Filmrolle verstehen.",
       "feedback": [
         "",
@@ -117,7 +116,8 @@
       "extraSources": [
         "https://www.criterion.com/films/6721-the-last-command",
         "https://www.criterion.com/current/posts/1569-the-last-command-illusions-and-delusions"
-      ]
+      ],
+      "objective": "Der Statist muss seine eigene verlorene Macht nachspielen."
     },
     {
       "code": "S1",
@@ -131,7 +131,6 @@
       "correct": 1,
       "short": "Er stiehlt die Uniform, um den Verlust seiner Stellung zu verheimlichen.",
       "context": "Nach der Versetzung zum Toilettenwärter wagt er nicht, seine neue Arbeit einzugestehen. Die Uniform soll beim Hochzeitsfest den bisherigen Respekt bewahren; als der Schwindel auffliegt, erlebt er auch zu Hause Spott und Zurückweisung.",
-      "anchor": "Die Uniform schützt den Schein, bis der Schwindel auffliegt.",
       "interest": "Ein konkretes Verhalten mit dem sozialen Wert der Kleidung verbinden.",
       "feedback": [
         "",
@@ -144,7 +143,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/der-letzte-mann_354d606172df4e89aee14c93fa47a89a"
-      ]
+      ],
+      "objective": "Die Uniform schützt den Schein, bis der Schwindel auffliegt."
     },
     {
       "code": "S2",
@@ -158,7 +158,6 @@
       "correct": 3,
       "short": "Mephisto lässt die Pest über das Land kommen.",
       "context": "Faust (Gösta Ekman) kann den sterbenden Menschen nicht helfen und erhält auch durch seine Gebete keine Rettung. In dieser Verzweiflung wendet er sich an Mephisto; das Versprechen von Jugend und Macht führt anschließend zum Pakt.",
-      "anchor": "Mephisto macht Fausts Hilflosigkeit gegenüber der Pest zum Einfallstor.",
       "interest": "Die Ursache eines berühmten Teufelspakts in der konkreten Verfilmung erkennen.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/faust_cff7c3b9e2fa42808ca1aa64b803765f"
-      ]
+      ],
+      "objective": "Mephisto macht Fausts Hilflosigkeit gegenüber der Pest zum Einfallstor."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 2,
       "short": "Der Preis galt „The Way of All Flesh“ und „The Last Command“.",
       "context": "Bei der ersten Oscarvergabe konnte eine Schauspielleistung aus mehreren Filmen gemeinsam gewürdigt werden. Jannings’ Auszeichnung bezog sich auf zwei amerikanische Stummfilme; sein späterer Tonfilmerfolg „Der blaue Engel“ gehörte nicht dazu.",
-      "anchor": "Ein Oscar würdigte zwei Hollywoodfilme von Jannings.",
       "interest": "Den ursprünglichen Zuschnitt eines Schauspielpreises kennenlernen.",
       "feedback": [
         "",
@@ -200,7 +199,8 @@
       "extraSources": [
         "https://www.oscars.org/oscars/ceremonies/1929",
         "https://www.oscars.org/oscars/statuette"
-      ]
+      ],
+      "objective": "Ein Oscar würdigte zwei Hollywoodfilme von Jannings."
     },
     {
       "code": "E2",
@@ -214,7 +214,6 @@
       "correct": 1,
       "short": "Sein Partner war Paul Davidson.",
       "context": "Die Emil Jannings-Film GmbH blieb kurzlebig. Nach „Alles für Geld“ wurde sie wieder aufgelöst; Ernst Lubitschs früher Ausstieg und Übersiedlung in die USA gehörten zu den Gründen, weshalb die geplante Zusammenarbeit nicht fortgesetzt wurde.",
-      "anchor": "Jannings und Davidson versuchten eine eigene Produktionsfirma.",
       "interest": "Eine unternehmerische Seite hinter der Schauspielkarriere entdecken.",
       "feedback": [
         "",
@@ -227,7 +226,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/person/emil-jannings_3377e94609d3412cae1cc341360254ba"
-      ]
+      ],
+      "objective": "Jannings und Davidson versuchten eine eigene Produktionsfirma."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Manfredi spielt den Holzschnitzer Geppetto.",
       "context": "Die Rai-Verfilmung gibt Pinocchios Schöpfer die Gestalt eines armen, sorgenvollen Vaters. Manfredis Spiel verbindet dessen Zuneigung mit den Mühen des täglichen Lebens.",
-      "anchor": "Manfredi ist Pinocchios Geppetto.",
       "interest": "Die Figur erschließt seine Verbindung zu einer vielgesehenen literarischen Fernsehfassung.",
       "feedback": [
         "",
@@ -29,7 +28,8 @@
       "films": [],
       "extraSources": [
         "https://www.raicultura.it/cinema/articoli/2021/03/Le-avventure-di-Pinocchio-di-Luigi-Comencini-038c6e93-0a75-49f1-bf63-a7de9adf3386.html"
-      ]
+      ],
+      "objective": "Manfredi ist Pinocchios Geppetto."
     },
     {
       "code": "L2",
@@ -43,7 +43,6 @@
       "correct": 2,
       "short": "Er lebt als italienischer Migrant in der Schweiz.",
       "context": "Er versucht, in einer fremden Umgebung Arbeit und Würde zu bewahren. Die komischen Situationen entstehen oft aus dem Wunsch, nicht als unerwünschter Außenseiter aufzufallen.",
-      "anchor": "Manfredis Nino kämpft in der Schweiz um Zugehörigkeit.",
       "interest": "Der Ort erklärt den sozialen und sprachlichen Konflikt der Tragikomödie.",
       "feedback": [
         "",
@@ -56,7 +55,8 @@
       ],
       "extraSources": [
         "https://www.museocinema.it/it/press/comunicati-stampa/fare-gli-italiani-la-storia-ditalia-nel-cinema-la-classe-operaia-va"
-      ]
+      ],
+      "objective": "Manfredis Nino kämpft in der Schweiz um Zugehörigkeit."
     },
     {
       "code": "M1",
@@ -70,7 +70,6 @@
       "correct": 1,
       "short": "Antonio arbeitet als Träger im Krankenhaus.",
       "context": "Unter den drei früheren Widerstandskämpfern bleibt er dem proletarischen Alltag am nächsten. Sein Lebensweg steht neben dem sozialen Aufstieg und den enttäuschten Hoffnungen seiner Freunde.",
-      "anchor": "Antonio bleibt im Alltag des Krankenhauses verankert.",
       "interest": "Der Beruf macht die verschiedenen Nachkriegswege der Freunde vergleichbar.",
       "feedback": [
         "",
@@ -83,7 +82,8 @@
       ],
       "extraSources": [
         "https://www.treccani.it/enciclopedia/nino-manfredi_(Enciclopedia-del-Cinema)/"
-      ]
+      ],
+      "objective": "Antonio bleibt im Alltag des Krankenhauses verankert."
     },
     {
       "code": "M2",
@@ -97,7 +97,6 @@
       "correct": 3,
       "short": "Giacinto hat nach einer Augenverletzung eine Entschädigung erhalten.",
       "context": "Das Geld liegt mitten in einer überfüllten Hütte, bleibt aber seiner Kontrolle unterworfen. Es verschärft den Streit zwischen einem tyrannischen Familienoberhaupt und seinen Angehörigen.",
-      "anchor": "Eine Invaliditätsentschädigung wird zum Familienkonflikt.",
       "interest": "Die Herkunft des Geldes erklärt den zentralen Besitzstreit.",
       "feedback": [
         "",
@@ -111,7 +110,8 @@
       "extraSources": [
         "https://www.critikat.com/actualite-cine/critique/affreux-sales-et-mechants/",
         "https://www.institut-lumiere.org/francais/pdf/RDPF106.pdf"
-      ]
+      ],
+      "objective": "Eine Invaliditätsentschädigung wird zum Familienkonflikt."
     },
     {
       "code": "S1",
@@ -125,7 +125,6 @@
       "correct": 1,
       "short": "Cesare ist der leibliche Sohn des Richters.",
       "context": "Die Enthüllung macht einen politischen Prozess zur persönlichen Gewissensfrage. Colombo muss seine institutionelle Rolle und die Verantwortung für den eigenen Sohn zusammenbringen.",
-      "anchor": "Der päpstliche Richter urteilt über seinen Sohn.",
       "interest": "Die Beziehung verbindet historischen Machtkampf mit einem familiären Konflikt.",
       "feedback": [
         "",
@@ -138,7 +137,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/film/57369.html"
-      ]
+      ],
+      "objective": "Der päpstliche Richter urteilt über seinen Sohn."
     },
     {
       "code": "S2",
@@ -152,7 +152,6 @@
       "correct": 0,
       "short": "Der Film erhielt 1971 den Preis für das beste Erstlingswerk.",
       "context": "Manfredi stand hier auch hinter der Kamera und erzählte eine Geschichte mit autobiografischen Zügen. Die Auszeichnung galt diesem Schritt zum langen eigenen Film.",
-      "anchor": "Cannes würdigte Manfredis erstes langes Regiewerk.",
       "interest": "Die Ehrung ergänzt das Schauspielprofil um eine eigene Autorenarbeit.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       "extraSources": [
         "https://www.festival-cannes.com/f/per-grazia-ricevuta/",
         "https://www.treccani.it/enciclopedia/nino-manfredi_(Enciclopedia-del-Cinema)/"
-      ]
+      ],
+      "objective": "Cannes würdigte Manfredis erstes langes Regiewerk."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Der kurze Episodenfilm beruht auf einer Erzählung Italo Calvinos.",
       "context": "Manfredi setzte bei dieser frühen Regiearbeit auf Rhythmus, Mimik und knappe Beobachtungen. Das literarische Material wurde so zu einer Erzählung mit stark körperlichen Ausdrucksmitteln.",
-      "anchor": "Calvinos Soldat wurde zu Manfredis früher Regieprobe.",
       "interest": "Die Verbindung zeigt, wie literarischer Stoff durch schauspielerische Mittel übersetzt werden kann.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://www.treccani.it/enciclopedia/nino-manfredi_(Enciclopedia-del-Cinema)/"
-      ]
+      ],
+      "objective": "Calvinos Soldat wurde zu Manfredis früher Regieprobe."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 3,
       "short": "Er spielte mit Laiendarstellern aus dem dargestellten sozialen Milieu.",
       "context": "Manfredi musste seine Erfahrung in eine Besetzung einfügen, die selbst dem Leben der römischen Siedlungen nahestand. Die Figur behält dabei eine starke tragische und komische Präsenz.",
-      "anchor": "Ein erfahrener Hauptdarsteller spielt mitten in einem Laienensemble.",
       "interest": "Die Besetzung erklärt eine konkrete künstlerische Aufgabe jenseits der Rollenbiografie.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.critikat.com/actualite-cine/critique/affreux-sales-et-mechants/"
-      ]
+      ],
+      "objective": "Ein erfahrener Hauptdarsteller spielt mitten in einem Laienensemble."
     }
   ]
 }

@@ -34,11 +34,11 @@
       ],
       "short": "Louis und Philippe sind zwei getrennte Zwillingsfiguren.",
       "context": "Leonardo DiCaprio spielt Louis und Philippe als zwei verschiedene Menschen. Louis herrscht, Philippe wird verborgen gehalten. Ihre Ähnlichkeit ermöglicht den Austauschplan; die Doppelrolle des Darstellers bedeutet also keine tatsächliche Verwandlung einer einzigen Figur.",
-      "anchor": "Ein Darsteller, zwei Zwillingsfiguren.",
       "interest": "Die Doppelrolle wird ohne Personenverwechslung geklärt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein Darsteller, zwei Zwillingsfiguren."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Philippe soll Louis heimlich auf dem Thron ersetzen.",
       "context": "Athos (John Malkovich), Porthos (Gérard Depardieu) und Aramis (Jeremy Irons) befreien Philippe (Leonardo DiCaprio). Sie wollen die äußere Ähnlichkeit der Brüder nutzen, aber eine andere Art zu herrschen ermöglichen. Die Identitätstäuschung dient einem politischen Wechsel hinter unverändertem Erscheinungsbild.",
-      "anchor": "Gleiches Gesicht soll andere Herrschaft bringen.",
       "interest": "Der Plan verbindet Doppelrolle und politisches Motiv.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Gleiches Gesicht soll andere Herrschaft bringen."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Raouls Tod löst den persönlichen Bruch aus.",
       "context": "Louis (Leonardo DiCaprio) begehrt Christine (Judith Godrèche), die Verlobte Raouls (Peter Sarsgaard). Er lässt den jungen Mann an die Front schicken, wo er stirbt. Für dessen Vater Athos (John Malkovich) wird aus dem missbrauchten königlichen Befehl eine persönliche Schuld des Herrschers.",
-      "anchor": "Raouls Tod zerbricht Athos’ Treue.",
       "interest": "Das Motiv wird über die Familienbeziehung verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Raouls Tod zerbricht Athos’ Treue."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Philippes Mitgefühl unterscheidet ihn von Louis.",
       "context": "Christine (Judith Godrèche) klagt den vermeintlichen König öffentlich an. Philippe (Leonardo DiCaprio) reagiert gütiger, als D’Artagnan (Gabriel Byrne) es von Louis kennt. Gerade die gewünschte menschliche Verbesserung macht den heimlichen Wechsel daher erkennbar.",
-      "anchor": "Philippes Güte verrät den Austausch.",
       "interest": "Die Frage erschließt einen Widerspruch im Austauschplan.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Philippes Güte verrät den Austausch."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Aramis war an der ursprünglichen Gefangenschaft beteiligt.",
       "context": "Aramis (Jeremy Irons) kennt die verborgene Familiengeschichte und seine eigene Rolle darin. Mit der Befreiung Philippes (Leonardo DiCaprio) will er einen früheren königlichen Auftrag wiedergutmachen. Seine politische Intrige hat dadurch auch eine persönliche Seite: Er versucht, eigenes Unrecht zu korrigieren.",
-      "anchor": "Aramis befreit den Mann, den er selbst einsperren ließ.",
       "interest": "Das Befreiungsmotiv wird um Schuld und Wiedergutmachung erweitert.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Aramis befreit den Mann, den er selbst einsperren ließ."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Die Filmhandlung enthüllt ihn als Vater der Zwillinge.",
       "context": "D’Artagnan (Gabriel Byrne) hat lange die Königin Anne (Anne Parillaud) geliebt. Die Filmfassung macht ihn zum Vater von Louis und Philippe (Leonardo DiCaprio). Diese erfundene Enthüllung erklärt seine zerrissene Loyalität; sie ist als Filmsachverhalt zu behandeln, nicht als belegte französische Geschichte.",
-      "anchor": "D’Artagnans Treue ist auch väterliche Bindung.",
       "interest": "Die Enthüllung wird von historischer Tatsachenbehauptung getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "D’Artagnans Treue ist auch väterliche Bindung."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "Diese Fassung erschien 1998.",
       "context": "Titanic mit Leonardo DiCaprio erschien 1997. Der Mann in der eisernen Maske folgte 1998, ein Jahr später, und gab ihm eine Doppelrolle als König Louis XIV. und dessen verborgener Bruder Philippe. Der enge Abstand verbindet den romantischen Passagier des Atlantikdampfers mit zwei gegensätzlichen Figuren im französischen Königsdrama. Derselbe Darsteller trägt hier den politischen Gegensatz auch durch sein doppeltes Gesicht.",
-      "anchor": "1997 Titanic – 1998 die königliche Doppelrolle: ein Jahr Abstand.",
       "interest": "Doppelrolle und Vertriebsnachweis verankern das Filmjahr.",
       "sources": [
         "handlung",
         "edition",
         "zeitanker"
-      ]
+      ],
+      "objective": "1997 Titanic – 1998 die königliche Doppelrolle: ein Jahr Abstand."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "Randall Wallace führte Regie.",
       "context": "Randall Wallace schrieb und inszenierte diese freie Weiterführung der Musketierwelt. Die Doppelrolle Leonardo DiCaprios steht im Mittelpunkt einer Geschichte über Herrschaft und Loyalität. Die Regieangabe gilt der United-Artists-Produktion mit Gabriel Byrne und nicht allen Verfilmungen der Maskenlegende.",
-      "anchor": "Wallace führt DiCaprio hinter die Maske.",
       "interest": "Der Credit wird der konkreten Adaption zugeordnet.",
       "sources": [
         "handlung",
         "edition"
-      ]
+      ],
+      "objective": "Wallace führt DiCaprio hinter die Maske."
     }
   ]
 }

@@ -35,12 +35,12 @@
       ],
       "short": "Roy (Lee Pace) und Alexandria (Catinca Untaru) sind Krankenhauspatienten.",
       "context": "Roy (Lee Pace) und Alexandria (Catinca Untaru) sind Krankenhauspatienten. Ein bewegungsunfähiger Stuntman und ein Kind mit gebrochenem Arm teilen dort eine Zeit des Wartens.",
-      "anchor": "Zwei verletzte Menschen finden im Krankenhaus eine Geschichte.",
       "interest": "Zwei verletzte Menschen finden im Krankenhaus eine Geschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zwei verletzte Menschen finden im Krankenhaus eine Geschichte."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Roy ist Stuntman und wurde bei einem Filmstunt verletzt.",
       "context": "Roy (Lee Pace) ist Stuntman und wurde bei einem Filmstunt verletzt. Seine körperliche Krise verbindet sich mit einer enttäuschten Liebesbeziehung; das Erzählen wird dadurch auch zu einem Versuch, Alexandria (Catinca Untaru) zu beeinflussen.",
-      "anchor": "Roys Filmverletzung führt ihn ins Krankenhaus.",
       "interest": "Roys Filmverletzung führt ihn ins Krankenhaus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Roys Filmverletzung führt ihn ins Krankenhaus."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Roy will durch die Geschichte Morphium erhalten.",
       "context": "Roy (Lee Pace) will durch die Geschichte Morphium erhalten. Alexandria (Catinca Untaru) soll es beschaffen; die entstehende Nähe beginnt deshalb mit einer gefährlichen Manipulation.",
-      "anchor": "Die Märchengeschichte verbirgt Roys Morphiumabsicht.",
       "interest": "Die Märchengeschichte verbirgt Roys Morphiumabsicht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Märchengeschichte verbirgt Roys Morphiumabsicht."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Alexandria (Catinca Untaru) stellt sich bekannte Menschen als Abenteuerfiguren vor.",
       "context": "Alexandria (Catinca Untaru) stellt sich bekannte Menschen als Abenteuerfiguren vor. Die wechselnden Rollen zeigen ihre bildliche Mitarbeit an einer Erzählung, die Roy (Lee Pace) sprachlich vorgibt.",
-      "anchor": "Die Fantasiewelt wird mit Alexandrias Umgebung besetzt.",
       "interest": "Die Fantasiewelt wird mit Alexandrias Umgebung besetzt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Fantasiewelt wird mit Alexandrias Umgebung besetzt."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Alexandria (Catinca Untaru) missliest ein E als 3.",
       "context": "Alexandria (Catinca Untaru) missliest ein E als 3. Das kindliche Missverständnis wird zur konkreten Störung von Roys (Lee Pace) Plan und zeigt den Abstand zwischen seiner Absicht und ihrem Verständnis.",
-      "anchor": "Ein falsch gelesenes E begrenzt die Tablettenmenge.",
       "interest": "Ein falsch gelesenes E begrenzt die Tablettenmenge.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein falsch gelesenes E begrenzt die Tablettenmenge."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Alexandria erklärt die Geschichte auch zu ihrer eigenen.",
       "context": "Alexandria (Catinca Untaru) erklärt die Geschichte auch zu ihrer eigenen. Roy (Lee Pace) lässt den Banditen leben; die Zuhörerin wehrt sich damit gegen ein Ende, das nur seine Verzweiflung fortschreibt.",
-      "anchor": "Alexandria fordert als Miterzählerin ein anderes Ende.",
       "interest": "Alexandria fordert als Miterzählerin ein anderes Ende.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Alexandria fordert als Miterzählerin ein anderes Ende."
     },
     {
       "code": "Y",
@@ -179,12 +179,12 @@
       ],
       "short": "Der Film wurde 2006 erstmals veröffentlicht.",
       "context": "2006 wurde der Film in Toronto vorgestellt. Er geht auf den bulgarischen Film Yo Ho Ho von 1981 zurück, der 25 Jahre älter ist. Das Premierenjahr liegt außerdem zwei Jahre vor den regulären englischsprachigen Kinostarts.",
-      "anchor": "Der bulgarische Film Yo Ho Ho von 1981 wurde 25 Jahre später, 2006, neu bearbeitet.",
       "interest": "Der bulgarische Film Yo Ho Ho von 1981 wurde 25 Jahre später, 2006, neu bearbeitet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der bulgarische Film Yo Ho Ho von 1981 wurde 25 Jahre später, 2006, neu bearbeitet."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "Regie: Tarsem Singh.",
       "context": "Tarsem finanzierte die über Jahre realisierte Produktion selbst. Für die Szenen zwischen Roy (Lee Pace) und Alexandria (Catinca Untaru) wurden spontane Reaktionen des Kindes in die Erzählung aufgenommen.",
-      "anchor": "Tarsem finanzierte die über Jahre realisierte Produktion selbst.",
       "interest": "Tarsem finanzierte die über Jahre realisierte Produktion selbst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tarsem finanzierte die über Jahre realisierte Produktion selbst."
     }
   ]
 }

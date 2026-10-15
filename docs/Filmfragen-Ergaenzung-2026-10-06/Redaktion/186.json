@@ -37,12 +37,12 @@
       ],
       "short": "Lenas Mann Kane (Oscar Isaac) kehrt nach langer Abwesenheit schwer krank zurück.",
       "context": "Lenas Mann Kane (Oscar Isaac) kehrt nach langer Abwesenheit schwer krank zurück. Seine unerklärliche Veränderung führt sie in die Zone; der wissenschaftliche Auftrag ist dadurch zugleich eine persönliche Suche.",
-      "anchor": "Die Suche nach Kane führt Lena in die Zone.",
       "interest": "Die Suche nach Kane führt Lena in die Zone.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Suche nach Kane führt Lena in die Zone."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ein Meteorit trifft einen Leuchtturm und setzt dort den Schimmer in Gang.",
       "context": "Ein Meteorit trifft einen Leuchtturm und setzt dort den Schimmer in Gang. Das Gebäude wird zum räumlichen Ziel der Expedition; die ungewöhnlichen Veränderungen führen von seiner Umgebung zurück zum Ausgangspunkt.",
-      "anchor": "Der Leuchtturm bildet Ursprung und Ziel.",
       "interest": "Der Leuchtturm bildet Ursprung und Ziel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Leuchtturm bildet Ursprung und Ziel."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der Bär lockt mit Cassies (Tuva Novotny) Hilferufen.",
       "context": "Der Bär lockt mit Cassies (Tuva Novotny) Hilferufen. Die Zone hat offenbar Elemente ihres sterbenden Bewusstseins übernommen; das Tier gefährdet die Gruppe deshalb auch über ein vertrautes menschliches Signal.",
-      "anchor": "Das Hilfesignal der Toten wird zur Falle.",
       "interest": "Das Hilfesignal der Toten wird zur Falle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Hilfesignal der Toten wird zur Falle."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Josie beschreibt den Schimmer als brechendes Medium, ähnlich einem Prisma.",
       "context": "Josie beschreibt den Schimmer als brechendes Medium, ähnlich einem Prisma. Auch DNA wird vermischt; Pflanzen, Tiere und Menschen behalten deshalb nicht mehr ihre gewohnten biologischen Abgrenzungen.",
-      "anchor": "Die Zone bricht und vermischt nicht nur Licht.",
       "interest": "Die Zone bricht und vermischt nicht nur Licht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Zone bricht und vermischt nicht nur Licht."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die Aufnahme zeigt Kanes Selbsttötung und anschließend seinen Doppelgänger.",
       "context": "Die Aufnahme zeigt Kanes Selbsttötung und anschließend seinen Doppelgänger. Lena (Natalie Portman) muss ihre vermeintliche Wiedervereinigung neu bewerten: Der zurückgekehrte Mann ist nicht einfach der unveränderte Überlebende ihrer Erinnerung.",
-      "anchor": "Kanes Rückkehr verdeckt den Tod des ursprünglichen Menschen.",
       "interest": "Kanes Rückkehr verdeckt den Tod des ursprünglichen Menschen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Kanes Rückkehr verdeckt den Tod des ursprünglichen Menschen."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Das Gegenüber übernimmt Lenas Bewegungen.",
       "context": "Das Gegenüber übernimmt Lenas Bewegungen. Sie nutzt diese Bindung, um ihm eine entzündete Phosphorgranate zu geben; seine eigene Nachahmungsfähigkeit führt damit zur Zerstörung des Leuchtturms und des Schimmers.",
-      "anchor": "Die Nachahmung wird zum Werkzeug seiner Zerstörung.",
       "interest": "Die Nachahmung wird zum Werkzeug seiner Zerstörung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Nachahmung wird zum Werkzeug seiner Zerstörung."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2018 erschien die Verfilmung, vier Jahre nach Jeff VanderMeers Roman von 2014.",
       "context": "2018 erschien die Verfilmung, vier Jahre nach Jeff VanderMeers Roman von 2014. Garland übernimmt dessen rätselhafte Zone, entwickelt die Filmgeschichte aber als eigene Adaption. Der Abstand von vier Jahren verbindet die literarische Vorlage mit der visuellen Erforschung veränderter Lebewesen.",
-      "anchor": "Roman 2014, Film 2018: Vier Jahre führen von VanderMeers Zone zu Garlands eigenständiger Bildwelt.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 2014, Film 2018: Vier Jahre führen von VanderMeers Zone zu Garlands eigenständiger Bildwelt."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Alex Garland schrieb und inszenierte die Adaption.",
       "context": "Alex Garland schrieb und inszenierte die Adaption. Natalie Portman spielt Lena, Oscar Isaac ihren Mann Kane. Die Expedition verbindet ihre persönliche Suche mit einer Welt, in der biologische Grenzen zwischen Menschen, Pflanzen und Tieren instabil werden.",
-      "anchor": "Alex Garland schrieb und inszenierte die Adaption.",
       "interest": "Alex Garland schrieb und inszenierte die Adaption.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Alex Garland schrieb und inszenierte die Adaption."
     }
   ]
 }

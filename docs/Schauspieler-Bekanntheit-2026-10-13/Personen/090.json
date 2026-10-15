@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Vicki Vale arbeitet als Fotojournalistin.",
       "context": "Ihre Recherche bringt sie in die Nähe Bruce Waynes und zugleich ins Blickfeld des Jokers. Der Film verbindet damit die öffentliche Beobachtung Gothams mit Waynes verborgenem Doppelleben. Basingers Figur ist Teil beider Welten.",
-      "anchor": "Vicki Vale nähert sich Gotham mit der Kamera.",
       "interest": "Der Beruf erklärt die Verbindung ihrer Figur zu Held und Gegner.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.dc.com/movies/batman-1989",
         "https://catalog.afi.com/Film/57898-BATMAN"
-      ]
+      ],
+      "objective": "Vicki Vale nähert sich Gotham mit der Kamera."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 1,
       "short": "Sie gewann für L.A. Confidential.",
       "context": "Die Auszeichnung galt ihrer Darstellung Lynn Brackens in einem Ensemblefilm über Polizei, Presse und Macht im Los Angeles der 1950er-Jahre. Das Filmjahr 1997 und das Verleihungsjahr 1998 bezeichnen unterschiedliche Ereignisse.",
-      "anchor": "Basingers Oscar gehört zu L.A. Confidential.",
       "interest": "Ein Schauspielpreis wird einer konkreten Leistung zugeordnet.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://www.oscars.org/oscars/ceremonies/1998"
-      ]
+      ],
+      "objective": "Basingers Oscar gehört zu L.A. Confidential."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 3,
       "short": "Sean Connery kehrte hier als Bond zurück.",
       "context": "Basinger spielt Domino Petachi, die mit dem Gegenspieler Largo verbunden ist. Der Film war Connerys spätere Rückkehr zu seiner bekanntesten Rolle und entstand außerhalb der regulären Eon-Filmreihe. Basingers Auftritt gehört deshalb zu einer besonderen Abzweigung der Bond-Geschichte.",
-      "anchor": "Basingers Bond-Partner war der zurückkehrende Connery.",
       "interest": "Die Besetzung wird im ungewöhnlichen Produktionszusammenhang eingeordnet.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Never_Say_Never_Again",
         "https://www.interviewmagazine.com/film/kim-basinger"
-      ]
+      ],
+      "objective": "Basingers Bond-Partner war der zurückkehrende Connery."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 0,
       "short": "Mickey Rourke spielt John Gray.",
       "context": "Basingers Elizabeth arbeitet in einer Kunstgalerie und beginnt eine intensive Beziehung mit dem Börsenmakler John. Dessen Wunsch nach Kontrolle verschiebt zunehmend die Grenzen ihrer Begegnungen. Der Film lebt daher ebenso von Verunsicherung wie von Anziehung.",
-      "anchor": "Basinger und Rourke bilden das zentrale Paar.",
       "interest": "Die Besetzung wird mit dem Konflikt der Beziehung verknüpft.",
       "feedback": [
         "",
@@ -114,7 +113,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/9%C2%BD_Weeks"
-      ]
+      ],
+      "objective": "Basinger und Rourke bilden das zentrale Paar."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 1,
       "short": "Lynns Erscheinung orientiert sich an Veronica Lake.",
       "context": "Die Kundschaft ihres Vermittlers kauft die Illusion von Nähe zu einem Filmstar. Hanson erläuterte, dass Lynn dadurch das größere Thema des Films verkörpert: den Abstand zwischen dem sorgfältig hergestellten Bild und der Wirklichkeit dahinter. Ihr Auftreten ist also Teil einer Geschäftsstrategie.",
-      "anchor": "Lynns Lake-Erscheinung verkauft eine Hollywoodillusion.",
       "interest": "Das Kostüm- und Rollenbild erklärt ein übergreifendes Thema des Films.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       ],
       "extraSources": [
         "https://www.tpr.org/2016-09-22/fresh-air-remembers-la-confidential-director-curtis-hanson"
-      ]
+      ],
+      "objective": "Lynns Lake-Erscheinung verkauft eine Hollywoodillusion."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 0,
       "short": "Stephanie ist die Mutter von Jimmy, gespielt von Eminem.",
       "context": "Das schwierige Familienleben gehört zu Jimmys unsicherer Ausgangslage, während er einen Weg in die Rapwelt sucht. Basinger übernimmt damit eine Rolle, deren Wirkung aus sozialer und familiärer Spannung entsteht. Der Auftritt setzt einen anderen Akzent als viele ihrer früheren glamourösen Filmfiguren.",
-      "anchor": "Basingers Stephanie ist Jimmys Mutter.",
       "interest": "Die Rolle zeigt einen Wechsel innerhalb ihrer Filmkarriere.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/8_Mile_(film)"
-      ]
+      ],
+      "objective": "Basingers Stephanie ist Jimmys Mutter."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 2,
       "short": "Die Außenansicht störte für sie das Verbleiben in der Figur.",
       "context": "Basinger unterschied im Gespräch ausdrücklich zwischen sich selbst und der gespielten Person. Solange sie diese Person noch verkörpern musste, wollte sie nicht in deren fertige Bildwelt hineinsehen. Die Aussage beschreibt ihren persönlichen Arbeitszugang, keine allgemeine Regel für Schauspiel.",
-      "anchor": "Basinger trennte Rollenarbeit und Selbstbeobachtung am Monitor.",
       "interest": "Eine konkrete Arbeitsgewohnheit macht ihren Zugang zum Spielen verständlich.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       "films": [],
       "extraSources": [
         "https://www.interviewmagazine.com/film/kim-basinger"
-      ]
+      ],
+      "objective": "Basinger trennte Rollenarbeit und Selbstbeobachtung am Monitor."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 3,
       "short": "Paul Haggis übernahm beim Dreh das Gegenüber.",
       "context": "Pausen und Reaktionen einer Unterhaltung lassen sich nicht immer an eine vorhandene Tonspur anpassen. Haggis konnte unmittelbar auf Basingers Spiel reagieren. Das Gespräch bekam so einen lebendigen Rhythmus, obwohl ihre Figur im fertigen Film telefonisch mit einem anderen Menschen verbunden ist.",
-      "anchor": "Das Telefonspiel erhielt am Set ein anwesendes Gegenüber.",
       "interest": "Der Arbeitsumstand zeigt, wie Reaktionen und Timing einer Szene entstehen.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.interviewmagazine.com/film/kim-basinger"
-      ]
+      ],
+      "objective": "Das Telefonspiel erhielt am Set ein anwesendes Gegenüber."
     }
   ]
 }

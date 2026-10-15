@@ -36,12 +36,12 @@
       ],
       "short": "Godfrey wird Butler der Bullocks.",
       "context": "Godfrey wird Butler der Bullocks. Irene (Carole Lombard) engagiert ihn nach einer Begegnung an einer Müllkippe; bald ist der neue Diener der besonnenste Mensch im Haushalt.",
-      "anchor": "Der neue Butler bringt Ordnung in den reichen Haushalt.",
       "interest": "Der neue Butler bringt Ordnung in den reichen Haushalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der neue Butler bringt Ordnung in den reichen Haushalt."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Die Gesellschaft sucht für ein Spiel einen „vergessenen Mann“.",
       "context": "Die Gesellschaft sucht für ein Spiel einen „vergessenen Mann“. Irene trifft dadurch Godfrey an der Müllkippe; der als Spaß gedachte Auftrag offenbart die Geringschätzung für arme Menschen.",
-      "anchor": "Das Suchspiel macht soziale Kälte sichtbar.",
       "interest": "Das Suchspiel macht soziale Kälte sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Suchspiel macht soziale Kälte sichtbar."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Cornelia versteckt ihre Perlen unter Godfreys Matratze und meldet sie als gestohlen.",
       "context": "Cornelia versteckt ihre Perlen unter Godfreys Matratze und meldet sie als gestohlen. Sie konstruiert einen Beweis, weil sie ihn loswerden möchte; ihr Plan misslingt jedoch.",
-      "anchor": "Cornelia legt selbst den vermeintlichen Diebstahlsbeweis.",
       "interest": "Cornelia legt selbst den vermeintlichen Diebstahlsbeweis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Cornelia legt selbst den vermeintlichen Diebstahlsbeweis."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Godfrey stammt selbst aus einer wohlhabenden Bostoner Familie.",
       "context": "Godfrey stammt selbst aus einer wohlhabenden Bostoner Familie. Nach einer persönlichen Krise lebte er bei den Obdachlosen; deren Lebenswillen hat ihm geholfen. Seine Armut erzählt daher keine einfache soziale Herkunft.",
-      "anchor": "Godfreys Obdachlosigkeit verbirgt eine vermögende Herkunft.",
       "interest": "Godfreys Obdachlosigkeit verbirgt eine vermögende Herkunft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Godfreys Obdachlosigkeit verbirgt eine vermögende Herkunft."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Godfrey verpfändet Cornelias Perlen und kauft die benötigten Aktien zurück.",
       "context": "Godfrey verpfändet Cornelias Perlen und kauft die benötigten Aktien zurück. Er gibt Schmuck und Vermögen schließlich zurück; aus dem geplanten Beweis gegen ihn entsteht das Werkzeug ihrer Rettung.",
-      "anchor": "Die falsche Diebstahlsfalle finanziert die echte Rettung.",
       "interest": "Die falsche Diebstahlsfalle finanziert die echte Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die falsche Diebstahlsfalle finanziert die echte Rettung."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Godfrey (William Powell) und Tommy (Alan Mowbray) machen aus der Müllkippe einen Nachtclub.",
       "context": "Godfrey (William Powell) und Tommy (Alan Mowbray) machen aus der Müllkippe einen Nachtclub. Die Männer, die Godfrey einst aufgenommen hatten, erhalten Arbeit; sein Erfolg wird als Gemeinschaftsprojekt weitergegeben.",
-      "anchor": "Aus dem Ort der Ausgrenzung entsteht Beschäftigung.",
       "interest": "Aus dem Ort der Ausgrenzung entsteht Beschäftigung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Aus dem Ort der Ausgrenzung entsteht Beschäftigung."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1936 erschien der Film nach Eric Hatchs Roman „1101 Park Avenue“ von 1935.",
       "context": "1936 erschien der Film nach Eric Hatchs Roman „1101 Park Avenue“ von 1935. Ein Jahr Abstand verbindet die Vorlage mit einer Komödie, die ausdrücklich im Milieu der Weltwirtschaftskrise spielt. Obdachlosigkeit und verschwenderische Gesellschaftsspiele stehen nebeneinander.",
-      "anchor": "Roman 1935, Film 1936: Ein Jahr später bringt die Komödie Armut und verschwenderische Gesellschaftsspiele zusammen.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1935, Film 1936: Ein Jahr später bringt die Komödie Armut und verschwenderische Gesellschaftsspiele zusammen."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
       "context": "Gregory La Cava inszenierte William Powell und Carole Lombard. Powell spielt den vermeintlich mittellosen Godfrey, Lombard die impulsive Irene. Die Besetzung trägt eine Komödie, die die Abhängigkeit der wohlhabenden Familie von ihrem neuen Butler sichtbar macht.",
-      "anchor": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
       "interest": "Gregory La Cava inszenierte William Powell und Carole Lombard.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Gregory La Cava inszenierte William Powell und Carole Lombard."
     }
   ]
 }

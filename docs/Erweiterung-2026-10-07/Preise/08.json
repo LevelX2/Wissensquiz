@@ -25,7 +25,6 @@
       ],
       "context": "„The Sting“, deutsch „Der Clou“, gewann 1974 den Film-Oscar. Paul Newman und Robert Redford spielen Betrüger, die einen mächtigen Gegner in einen sorgfältig vorbereiteten Schwindel locken. George Roy Hill hatte beide bereits gemeinsam inszeniert. Der Film macht nicht nur den Gegner, sondern auch sein Publikum zu Beobachtern einer Täuschung, deren Ablauf schrittweise verständlich wird.",
       "short": "„The Sting“, deutsch „Der Clou“, gewann 1974 den Film-Oscar.",
-      "anchor": "Newman und Redford führen in Der Clou einen großen Schwindel aus.",
       "interest": "Newman und Redford führen in Der Clou einen großen Schwindel aus.",
       "feedback": [
         "„The Sting“, deutsch „Der Clou“, gewann 1974 den Film-Oscar.",
@@ -34,7 +33,8 @@
         "Mann, bist du Klasse! gewann nicht den Film-Oscar 1974."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Newman und Redford führen in Der Clou einen großen Schwindel aus."
     },
     {
       "code": "M",
@@ -47,7 +47,6 @@
       ],
       "context": "Marvin Hamlisch gewann für die musikalische Adaption von „The Sting“. Besonders Scott Joplins Ragtime-Stücke prägen den Film und wurden durch ihn erneut populär. Der Oscar betrifft die Gestaltung vorhandener Musik für eine neue Erzählung. Hamlisch darf deshalb nicht als ursprünglicher Komponist von Joplins „The Entertainer“ bezeichnet werden, auch wenn seine Bearbeitung eng mit dem Film verbunden ist.",
       "short": "Marvin Hamlisch gewann für die musikalische Adaption von „The Sting“.",
-      "anchor": "Hamlisch adaptiert Joplin; er komponiert The Entertainer nicht ursprünglich.",
       "interest": "Hamlisch adaptiert Joplin; er komponiert The Entertainer nicht ursprünglich.",
       "feedback": [
         "Marvin Hamlisch gewann für die musikalische Adaption von „The Sting“.",
@@ -56,7 +55,8 @@
         "Der Film verwendet Ragtime und keine wiederhergestellte Opernpartitur."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Hamlisch adaptiert Joplin; er komponiert The Entertainer nicht ursprünglich."
     },
     {
       "code": "S",
@@ -69,7 +69,6 @@
       ],
       "context": "David S. Ward erhielt den Oscar für das Originaldrehbuch von „The Sting“. Die Geschichte nutzt reale Betrugspraktiken als Anregung, ordnet aber ihren großen Coup als eigenständigen Filmstoff. Alte Zwischentitel gliedern die Schritte des Plans. Die Schreibarbeit muss dabei genug Informationen für Spannung liefern und zugleich entscheidende Täuschungen bis zum geeigneten Moment verbergen.",
       "short": "David S.",
-      "anchor": "Ward baut den Schwindel als eigenständigen, gestuften Filmstoff.",
       "interest": "Ward baut den Schwindel als eigenständigen, gestuften Filmstoff.",
       "feedback": [
         "David S.",
@@ -78,7 +77,8 @@
         "Towne ist nicht der ausgezeichnete Autor von The Sting."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Ward baut den Schwindel als eigenständigen, gestuften Filmstoff."
     },
     {
       "code": "E",
@@ -91,7 +91,6 @@
       ],
       "context": "Julia Phillips wurde zusammen mit Tony Bill und Michael Phillips für den besten Film ausgezeichnet. Der Oscar gehört damit zu einem dreiköpfigen Produktionsteam und nicht allein zum Regisseur George Roy Hill. „The Sting“ gewann sieben Oscars in verschiedenen Bereichen. Die Zuordnung des Hauptpreises macht sichtbar, wie eine Produktion mehrere Personen mit gemeinsamer Verantwortung für dasselbe Werk auszeichnen kann.",
       "short": "Julia Phillips wurde zusammen mit Tony Bill und Michael Phillips für den besten Film ausgezeichnet.",
-      "anchor": "Julia Phillips teilt den Film-Oscar mit Bill und Michael Phillips.",
       "interest": "Julia Phillips teilt den Film-Oscar mit Bill und Michael Phillips.",
       "feedback": [
         "Julia Phillips wurde zusammen mit Tony Bill und Michael Phillips für den besten Film ausgezeichnet.",
@@ -100,7 +99,8 @@
         "Lucas gewann einen anderen Oscar in einem anderen Filmteam."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Julia Phillips teilt den Film-Oscar mit Bill und Michael Phillips."
     }
   ],
   "genre": "Komödie"

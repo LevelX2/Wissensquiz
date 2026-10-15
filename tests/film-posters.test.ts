@@ -14,7 +14,6 @@ const q: Question = {
   answers: ["a", "b", "c", "d"].map((id) => ({ id, text: id, feedback: "" })),
   explanation: "Erklärung",
   context: "",
-  anchor: "",
   sources: [],
   tags: [],
   badgeTags: [],

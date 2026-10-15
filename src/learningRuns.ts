@@ -35,7 +35,6 @@ const visible = z
     correctId: true,
     explanation: true,
     context: true,
-    anchor: true,
     sources: true,
     answers: true,
   })
@@ -191,7 +190,6 @@ export class LearningSession {
       correctId: "unrevealed",
       explanation: "",
       context: "",
-      anchor: "",
       sources: [],
       answers: current.question.answers.map((a) => ({ ...a, feedback: "" })),
     };

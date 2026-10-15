@@ -31,12 +31,12 @@
       ],
       "short": "Furiosa hilft fünf von Joe beherrschten Frauen bei der Flucht.",
       "context": "Immortan Joe (Hugh Keays-Byrne) kontrolliert Menschen und Ressourcen der Zitadelle. Furiosa nutzt eine Transportfahrt, um die fünf Frauen aus seinem Zugriff zu lösen. Die Verfolgung beginnt, als Joe ihren Verlust bemerkt; Max (Tom Hardy) gerät zunächst unfreiwillig in diesen Konflikt.",
-      "anchor": "Furiosas Frachtfahrt wird zur Flucht der fünf Frauen.",
       "interest": "Die Rettung erklärt das Ziel der zentralen Verfolgung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Furiosas Frachtfahrt wird zur Flucht der fünf Frauen."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Max wird als lebender Blutspender festgehalten.",
       "context": "Nux ist ein kranker War Boy und braucht eine Transfusion. Bei der Verfolgung wird Max sogar an der Vorderseite seines Fahrzeugs befestigt, während die Blutverbindung bestehen bleibt. Der spätere Verbündete beginnt so als Teil einer Gewaltordnung, die Max’ Körper unmittelbar ausbeutet.",
-      "anchor": "Nux’ Blutversorgung macht Max zunächst zur unfreiwilligen Fahrzeugfracht.",
       "interest": "Die ungewöhnliche Gefangenschaft zeigt Joes Umgang mit Menschen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Nux’ Blutversorgung macht Max zunächst zur unfreiwilligen Fahrzeugfracht."
     },
     {
       "code": "M1",
@@ -79,12 +79,12 @@
       ],
       "short": "Das Grüne Land existiert nicht mehr in seiner früheren fruchtbaren Form.",
       "context": "Furiosa (Charlize Theron) erkennt Angehörige ihres früheren Volkes, der Vuvalini. Sie bestätigen, dass der auf der Fahrt durchquerte Sumpf ihre alte Heimat war. Damit bricht das ursprüngliche Fluchtziel weg: Die Hoffnung auf einen sicheren Ort jenseits der Verfolger lässt sich so nicht erfüllen.",
-      "anchor": "Der durchquerte Sumpf war Furiosas verlorenes Grünes Land.",
       "interest": "Die Nachricht zwingt die Gruppe zu einer grundlegenden Änderung des Plans.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der durchquerte Sumpf war Furiosas verlorenes Grünes Land."
     },
     {
       "code": "M2",
@@ -103,12 +103,12 @@
       ],
       "short": "Die entblößte Zitadelle bietet Wasser und Nahrung.",
       "context": "Eine Fahrt über die Salzebene hätte ein unbekanntes Ziel und nur begrenzte Vorräte. Max verweist dagegen auf den bekannten Reichtum der Zitadelle, deren Streitmacht ausgezogen ist. Nach dem Verlust des Grünen Landes verwandelt diese Überlegung Flucht in den Versuch, den Ausgangsort für eine neue Gemeinschaft zurückzugewinnen.",
-      "anchor": "Die verlassene Festung besitzt die Ressourcen, die der Flucht fehlen.",
       "interest": "Die Entscheidung erklärt die Richtungsumkehr des gesamten Films.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die verlassene Festung besitzt die Ressourcen, die der Flucht fehlen."
     },
     {
       "code": "S1",
@@ -127,12 +127,12 @@
       ],
       "short": "Nux opfert sich, indem er den War Rig im Canyon umstürzen lässt.",
       "context": "Nux hat sich nach seinen gescheiterten Versuchen, Joe zu beeindrucken, der fliehenden Gruppe angeschlossen. Am Ende sichert er deren Fahrt zur Zitadelle, indem er den Durchgang blockiert. Der Tod dient nun anderen Menschen und ersetzt die anfangs angestrebte Selbstaufopferung für Joes Kult.",
-      "anchor": "Nux blockiert den Canyon für die Menschen, denen er sich angeschlossen hat.",
       "interest": "Die Handlung schließt seinen Wandel vom Verfolger zum Verbündeten ab.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Nux blockiert den Canyon für die Menschen, denen er sich angeschlossen hat."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "Max spendet Furiosa zuletzt freiwillig Blut, nachdem er anfangs dazu gezwungen wurde.",
       "context": "Zu Beginn wird Max (Tom Hardy) als Spender für Nux (Nicholas Hoult) gefangen gehalten. Nach dem letzten Kampf versorgt er dagegen die schwer verletzte Furiosa (Charlize Theron) aus eigener Entscheidung. Dieselbe körperliche Handlung markiert so den Wechsel von Ausbeutung zu solidarischer Hilfe.",
-      "anchor": "Max’ Blut wird zuerst erzwungen und zuletzt freiwillig zur Rettung gegeben.",
       "interest": "Der Vergleich erschließt eine konkrete bildliche Wiederholung des Films.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Max’ Blut wird zuerst erzwungen und zuletzt freiwillig zur Rettung gegeben."
     },
     {
       "code": "Y",
@@ -175,13 +175,13 @@
       ],
       "short": "Das erste Veröffentlichungsjahr ist 2015.",
       "context": "Fury Road erschien 2015, dreißig Jahre nach Mad Max Beyond Thunderdome von 1985. Tom Hardy übernimmt die zuvor von Mel Gibson gespielte Hauptfigur. Die lange Pause gehört damit zur Erneuerung der Reihe: George Miller bleibt als Regisseur verbunden, während die Besetzung von Max wechselt.",
-      "anchor": "1985 endete die alte Trilogie; dreißig Jahre später kam 2015 Fury Road.",
       "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1985 endete die alte Trilogie; dreißig Jahre später kam 2015 Fury Road."
     },
     {
       "code": "D",
@@ -200,13 +200,13 @@
       ],
       "short": "Die gesuchte Regie stammt von George Miller.",
       "context": "George Miller kehrte zur von ihm geschaffenen Mad-Max-Welt zurück. Er verbindet die Verfolgung mit Furiosas Befreiungsmission und Max’ schrittweiser Zusammenarbeit mit der Gruppe. Die Regiezuordnung bleibt trotz des Wechsels von Mel Gibson zu Tom Hardy eine Verbindung zur früheren Reihe.",
-      "anchor": "George Miller inszenierte diese Filmfassung.",
       "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "George Miller inszenierte diese Filmfassung."
     }
   ]
 }

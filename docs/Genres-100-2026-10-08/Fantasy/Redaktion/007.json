@@ -35,12 +35,12 @@
       ],
       "short": "Ein Schmetterling weist auf den Roten Stier hin.",
       "context": "Das Einhorn (Originalstimme: Mia Farrow) hört zunächst von Jägern, dass die anderen seiner Art verschwunden seien. Ein Schmetterling (Originalstimme: Robert Klein) gibt ihm den entscheidenden Hinweis auf den Roten Stier. Zwischen Liedfragmenten und verwirrenden Worten steckt damit eine konkrete Spur. Die Reise beginnt aus dem Versuch, diesen Hinweis zu verstehen und die behauptete Einsamkeit nicht einfach als endgültige Wahrheit hinzunehmen.",
-      "anchor": "In den Worten des Schmetterlings steckt die Spur.",
       "interest": "Erkennt den konkreten Anstoß zur Suche nach den anderen Einhörnern.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "In den Worten des Schmetterlings steckt die Spur."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Das Einhorn wird zur Attraktion einer Schaustellung.",
       "context": "Mommy Fortuna (Originalstimme: Angela Lansbury) führt eine fahrende Schau vermeintlicher Fabelwesen. Das Einhorn (Originalstimme: Mia Farrow) gerät in ihre Gefangenschaft und wird dort wie eine weitere Attraktion vorgeführt. Die anderen Käfige mischen gewöhnliche Tiere mit Täuschungen und echter Gefahr. Schmendrick (Originalstimme: Alan Arkin) arbeitet bei der Schau, erkennt aber die Besonderheit der Gefangenen und ermöglicht später ihre Flucht.",
-      "anchor": "Die Schaustellung macht echte Magie zur Ware.",
       "interest": "Erfasst einen zentralen Handlungsraum und die erste Gefangenschaft.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Schaustellung macht echte Magie zur Ware."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Die Schau braucht eine künstliche Sichtbarkeit der echten Magie.",
       "context": "Mommy Fortuna (Originalstimme: Angela Lansbury) verfügt tatsächlich über ein Einhorn (Originalstimme: Mia Farrow), doch gewöhnliche Menschen erkennen dessen wahre Gestalt nicht. Deshalb fügt sie einen künstlichen Hornzauber hinzu, damit das Publikum die beworbene Attraktion überhaupt sieht. Der Film trennt hier wirkliche Magie von ihrer vorführbaren Erscheinung. Eine echte Besonderheit muss für die Schau erst in ein verständliches Zeichen übersetzt werden.",
-      "anchor": "Ein falsches Horn macht das echte Einhorn erkennbar.",
       "interest": "Erfasst den Unterschied zwischen tatsächlicher Magie und ihrem sichtbaren Schaueffekt.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Ein falsches Horn macht das echte Einhorn erkennbar."
     },
     {
       "code": "M2",
@@ -107,13 +107,13 @@
       ],
       "short": "Die menschliche Gestalt fällt zunächst aus dem Interesse des Stiers.",
       "context": "Schmendrick (Originalstimme: Alan Arkin) verwandelt das Einhorn (Originalstimme: Mia Farrow) in eine junge Frau, als der Rote Stier es bedroht. Der Gegner verliert zunächst das Interesse an dieser menschlichen Gestalt. Die Rettung hat jedoch einen Preis: Als Amalthea erfährt sie Sterblichkeit und beginnt, ihre frühere Existenz zu vergessen. Schutz vor einer äußeren Gefahr verändert so zugleich ihr Verhältnis zu sich selbst.",
-      "anchor": "Amaltheas Gestalt schützt und entfremdet zugleich.",
       "interest": "Verbindet den unmittelbaren Zweck der Verwandlung mit ihrem persönlichen Preis.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Amaltheas Gestalt schützt und entfremdet zugleich."
     },
     {
       "code": "S1",
@@ -132,13 +132,13 @@
       ],
       "short": "Haggard hält die Einhörner im Meer gefangen.",
       "context": "Haggard (Originalstimme: Christopher Lee) besitzt die anderen Einhörner nicht als gewöhnliche Hofattraktion. Der Rote Stier hat sie ins Meer vor seinem Schloss getrieben, wo der König sie betrachten kann. Ihre Schönheit verschafft ihm Freude, doch diese Freude beruht auf ihrer Gefangenschaft. Der Blick vom Schloss aus verbindet deshalb eine ästhetische Sehnsucht mit einer Herrschaft, die anderen Wesen ihre Freiheit nimmt.",
-      "anchor": "Haggards Freude beruht auf den Einhörnern im Meer.",
       "interest": "Erklärt den konkreten Ort und Zweck der großen Gefangenschaft.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Haggards Freude beruht auf den Einhörnern im Meer."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Eine leere Flasche liefert den vermeintlichen Wein.",
       "context": "Schmendrick (Originalstimme: Alan Arkin) muss dem sprechenden Schädel (Originalstimme: René Auberjonois) einen Hinweis zum verborgenen Zugang entlocken. Dafür gibt er ihm vermeintlichen Wein aus einer leeren Flasche. Die Täuschung wirkt, weil der Schädel das angebotene Vergnügen selbst ergänzt. Eine kleine Darbietung ersetzt hier große Zaubermacht und eröffnet den Weg zum verborgenen Aufenthaltsort des Gegners. Was die Gruppe sucht, liegt hinter einer zunächst verschlossenen Grenze.",
-      "anchor": "Der Schädel schmeckt den Wein, den er sich vorstellt.",
       "interest": "Erkennt die konkrete List am Zugang zur letzten Konfrontation.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Schädel schmeckt den Wein, den er sich vorstellt."
     },
     {
       "code": "Y",
@@ -181,11 +181,11 @@
       ],
       "short": "Die erste Veröffentlichung war 1982.",
       "context": "Peter S. Beagles Roman Das letzte Einhorn erschien 1968; die Verfilmung folgte 1982, 14 Jahre später. AFI dokumentiert die literarische Quelle und das Veröffentlichungsjahr. Beagle schrieb auch das Drehbuch, sodass der Stoff nicht ohne Beteiligung seines Autors übertragen wurde. Der zeitliche Abstand und die personelle Verbindung zeigen zwei verschiedene Ebenen der Adaption: eine spätere Filmproduktion und die fortgesetzte Arbeit am eigenen Text.",
-      "anchor": "Roman 1968, Film 1982: 14 Jahre.",
       "interest": "Verbindet das Erstjahr mit der Vorlage und der Beteiligung ihres Autors.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Roman 1968, Film 1982: 14 Jahre."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Arthur Rankin Jr. und Jules Bass führten gemeinsam Regie.",
       "context": "AFI führt Arthur Rankin Jr. und Jules Bass als Hauptregisseure. Die Animation entstand bei Topcraft in Tokio, wie der BFI-Beitrag erläutert. Katsuhisa Yamada wird im AFI-Katalog für Storyboard und Animationsregie genannt, ohne deshalb dem Hauptregieteam zugerechnet zu werden. Die Produktion verbindet somit verschiedene Arbeitsbereiche und Standorte, deren konkrete Credits bei einer vollständigen Regieantwort sorgfältig auseinanderzuhalten sind.",
-      "anchor": "Rankin und Bass: Hauptregie; Topcraft: Animation.",
       "interest": "Erfasst den vollständigen Credit und differenziert die japanische Animationsarbeit.",
       "sources": [
         "afi",
         "bfi"
-      ]
+      ],
+      "objective": "Rankin und Bass: Hauptregie; Topcraft: Animation."
     }
   ]
 }

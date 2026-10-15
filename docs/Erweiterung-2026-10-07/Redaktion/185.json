@@ -35,12 +35,12 @@
       ],
       "short": "Barbara reist nach New York, um ihr Buch zu veröffentlichen und zu bewerben.",
       "context": "Barbara reist nach New York, um ihr Buch zu veröffentlichen und zu bewerben. Der berufliche Eintritt in eine männlich geprägte Verlagswelt steht am Anfang ihrer neuen öffentlichen Identität. Der Film verbindet damit Arbeit, Selbstdarstellung und Geschlechterrollen. Der spätere Liebeskonflikt entsteht nicht abseits der Karriere, sondern durch die öffentliche Wirkung ihrer erfolgreichen Autorinnenrolle.",
-      "anchor": "Barbara betritt New York als Autorin.",
       "interest": "Die Ausgangsrolle der Hauptfigur erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Barbara betritt New York als Autorin."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Catcher schreibt für eine Zeitschrift und besitzt dort öffentliches Ansehen.",
       "context": "Catcher schreibt für eine Zeitschrift und besitzt dort öffentliches Ansehen. Seine Rolle als erfolgreicher Mann steht neben einer Gewohnheit, Beziehungen unverbindlich zu behandeln. Barbara bringt dieses Bild durch ihre Kritik ins Wanken. Der Film nutzt seine berufliche Fähigkeit zur Darstellung und Täuschung später auch für einen privaten Plan, der ihn selbst stärker verändert als erwartet.",
-      "anchor": "Catcher schreibt für die Zeitschrift „Know“.",
       "interest": "Die zweite Hauptfigur beruflich einordnen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Catcher schreibt für die Zeitschrift „Know“."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Catcher nimmt die Identität des vermeintlich aufmerksamen Astronauten Zip Martin an.",
       "context": "Catcher nimmt die Identität des vermeintlich aufmerksamen Astronauten Zip Martin an. Er möchte damit Barbara in eine Liebeserklärung führen und ihre öffentlichen Aussagen widerlegen. Die Täuschung gibt ihm zunächst Kontrolle über die Begegnung, schafft aber neue Gefühle. Der Film macht aus dem kalkulierten Rollenspiel eine Situation, in der seine eigenen Absichten nicht unverändert bleiben.",
-      "anchor": "Catcher verbirgt sich hinter Astronaut Zip Martin.",
       "interest": "Das konkrete Täuschungsmanöver erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Catcher verbirgt sich hinter Astronaut Zip Martin."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Eine Judy-Garland-Nummer in der Ed-Sullivan-Show wird zur Werbung für das Buch eingesetzt.",
       "context": "Eine Judy-Garland-Nummer in der Ed-Sullivan-Show wird zur Werbung für das Buch eingesetzt. Der Film verbindet damit einen Unterhaltungsauftritt mit einem plötzlichen Verkaufserfolg. Barbara erhält eine neue Reichweite, die auch das Verhalten der Männer gegenüber ihren Leserinnen verändert. Das Medienereignis verschiebt somit die Machtverhältnisse der Handlung, statt nur ein dekoratives Zeitkolorit zu liefern.",
-      "anchor": "Garlands Fernsehgesang macht das Buch zum öffentlichen Ereignis.",
       "interest": "Unterhaltung und Buchwerbung verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Garlands Fernsehgesang macht das Buch zum öffentlichen Ereignis."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Barbara erklärt, dass sie früher als Nancy Brown für Catcher gearbeitet hat.",
       "context": "Barbara erklärt, dass sie früher als Nancy Brown für Catcher gearbeitet hat. Die vermeintlich neue Bekanntschaft besitzt damit eine längere Vorgeschichte, als sein Plan berücksichtigt hatte. Die Enthüllung dreht die Täuschungsperspektive um: Catcher war selbst Gegenstand eines Arrangements. Der Film verbindet die öffentliche Autorinnenidentität mit dem Wunsch, von einem bestimmten Mann anders wahrgenommen zu werden.",
-      "anchor": "Barbara Novak war zuvor Catchers Sekretärin Nancy Brown.",
       "interest": "Die Umkehr des Täuschungsplans erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Barbara Novak war zuvor Catchers Sekretärin Nancy Brown."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Barbara erscheint mit roten Haaren.",
       "context": "Barbara erscheint mit roten Haaren. Catcher hatte zuvor einen Mittelweg zwischen ihrer früheren brünetten und ihrer neuen blonden Erscheinung vorgeschlagen. Die neue Farbe macht ihre Antwort sichtbar, ohne eine der alten Identitäten einfach wiederherzustellen. Der Film beendet das Rollenspiel mit einer gemeinsam gesuchten Beziehung, deren Bild aus der bisherigen Gegensatzordnung heraustritt.",
-      "anchor": "Rot wird Barbaras sichtbarer Mittelweg zwischen den alten Rollen.",
       "interest": "Eine äußere Veränderung als Beziehungsantwort lesen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Rot wird Barbaras sichtbarer Mittelweg zwischen den alten Rollen."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Premiere in New York am 9. Mai 2003; regulärer US-Start am 16. Mai 2003.",
       "context": "Die Handlung spielt 1962; der Film wurde 2003 erstmals veröffentlicht. Einundvierzig Jahre liegen zwischen dargestellter Zeit und Veröffentlichung. Ausstattung, Werbewelt und Geschlechterkomik greifen bewusst die frühen Sechziger auf. Der Anker erklärt daher den Abstand zwischen der historischen Spielzeit und einer späteren Komödie, die diese Filmtradition mit einem nachträglichen Blick neu gestaltet.",
-      "anchor": "1962 die Spielzeit, 2003 der Film: einundvierzig Jahre Abstand.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1962 die Spielzeit, 2003 der Film: einundvierzig Jahre Abstand."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Peyton Reed inszenierte nach dem Drehbuch von Eve Ahlert und Dennis Drake.",
       "context": "Peyton Reed inszenierte nach dem Drehbuch von Eve Ahlert und Dennis Drake. Renée Zellweger und Ewan McGregor tragen eine bewusst an frühe Sechzigerjahre-Komödien angelehnte Liebesgeschichte. Tony Randall, der bereits in dieser Filmtradition mitwirkte, erscheint als Verleger. Reed verbindet damit neue Hauptdarsteller und eine konkrete personelle Brücke zu den Vorbildern der romantischen Täuschungskomik.",
-      "anchor": "Reed verbindet Zellweger und McGregor mit Randalls Brücke zu den Vorbildern.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Reed verbindet Zellweger und McGregor mit Randalls Brücke zu den Vorbildern."
     }
   ]
 }

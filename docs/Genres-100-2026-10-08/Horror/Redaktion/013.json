@@ -36,12 +36,12 @@
       ],
       "short": "Karen White ist Fernsehjournalistin.",
       "context": "Karen White (Dee Wallace) arbeitet beim Fernsehen und hilft der Polizei, einen gefährlichen Anrufer aufzuspüren. Nach dem traumatischen Treffen kann sie ihre berufliche Routine nicht einfach fortsetzen. Die Arbeit vor einer Kamera bleibt dennoch wichtig für die Geschichte. Der Film verbindet ihre persönliche Erfahrung mit der Frage, welche erschreckenden Bilder ein Fernsehpublikum überhaupt noch als wirkliches Geschehen erkennen würde.",
-      "anchor": "Eine Fernsehjournalistin erlebt etwas, das sich schwer öffentlich beweisen lässt.",
       "interest": "Verankert die Hauptfigur in der Medienwelt des Films.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Eine Fernsehjournalistin erlebt etwas, das sich schwer öffentlich beweisen lässt."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Waggner empfiehlt die Colony als Rückzugsort.",
       "context": "Karen White (Dee Wallace) leidet nach der Begegnung mit Eddie Quist (Robert Picardo) unter Erinnerungslücken und Angst. Dr. George Waggner (Patrick Macnee) empfiehlt ihr die abgelegene Colony, wo sie sich mit ihrem Mann Bill Neill (Christopher Stone) erholen soll. Die angebotene Hilfe führt sie damit aus dem vertrauten Arbeitsumfeld in eine Gemeinschaft, deren auffälliges Verhalten zunehmend neue Fragen aufwirft.",
-      "anchor": "Die versprochene Erholung führt Karen in die Colony.",
       "interest": "Erklärt den Ortswechsel als scheinbare Hilfe.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die versprochene Erholung führt Karen in die Colony."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Terrys Vergleich der Landschaftszeichnungen führt zur Colony.",
       "context": "Terry Fisher (Belinda Balaski) untersucht mit Chris Halloran (Dennis Dugan) Hinweise auf Eddie Quist (Robert Picardo). Seine Zeichnungen zeigen unter anderem eine Landschaft, die Terry mit der Colony in Verbindung bringt. Dadurch wird der Erholungsort von Karen White (Dee Wallace) zu einem Teil derselben Nachforschung. Die Spur beruht auf einem sichtbaren Motiv und erklärt die Ortsverbindung; sie beweist noch nicht für sich allein die Natur sämtlicher Bewohner.",
-      "anchor": "Die gezeichnete Landschaft verbindet Täterspur und Rückzugsort.",
       "interest": "Erfasst einen nachvollziehbaren Schritt der Nachforschung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die gezeichnete Landschaft verbindet Täterspur und Rückzugsort."
     },
     {
       "code": "M2",
@@ -108,13 +108,13 @@
       ],
       "short": "Karen spritzt Eddie ätzende Säure ins Gesicht.",
       "context": "Karen White (Dee Wallace) begegnet dem vermeintlich toten Eddie Quist (Robert Picardo) erneut und sieht seine Verwandlung. Sie setzt ätzende Säure gegen sein Gesicht ein und kann fliehen. Die Entstellung hat eine konkrete Ursache in ihrem Versuch, sich zu retten. Sie beendet die größere Gefahr nicht, macht aber die spätere Erscheinung des Gegners verständlich und unterscheidet diese Begegnung vom ersten traumatischen Treffen.",
-      "anchor": "Die Säure schafft eine Fluchtchance und hinterlässt eine sichtbare Folge.",
       "interest": "Verknüpft eine Gegenwehr mit dem späteren Zustand des Gegners.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Säure schafft eine Fluchtchance und hinterlässt eine sichtbare Folge."
     },
     {
       "code": "S1",
@@ -133,13 +133,13 @@
       ],
       "short": "Der scheinbare Helfer Waggner ist selbst ein Werwolf.",
       "context": "Dr. George Waggner (Patrick Macnee) erscheint Karen White (Dee Wallace) zunächst als Fachmann, der ihre traumatische Erfahrung behandeln kann. Seine Zugehörigkeit zu den Werwölfen verändert die Bedeutung dieser Hilfe. Der therapeutische Rückzugsort ist kein sicherer Außenraum gegenüber der Bedrohung. Die Enthüllung trifft deshalb Karens Vertrauen in eine Autorität und verbindet den persönlichen Rat des Arztes mit dem verborgenen Wesen der gesamten Gemeinschaft.",
-      "anchor": "Der Therapeut gehört selbst zu der Gefahr, vor der er schützen sollte.",
       "interest": "Erfasst die Vertrauensumkehr hinter der Colony.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Therapeut gehört selbst zu der Gefahr, vor der er schützen sollte."
     },
     {
       "code": "S2",
@@ -158,13 +158,13 @@
       ],
       "short": "Einige Zuschauer halten die Verwandlung für einen inszenierten Fernseheffekt.",
       "context": "Karen White (Dee Wallace) verwandelt sich vor laufender Kamera, um die Existenz der Werwölfe öffentlich zu beweisen. Chris Halloran (Dennis Dugan) schießt auf sie. Trotzdem betrachten gezeigte Zuschauer das Geschehen als möglichen Trick einer Fernsehsendung. Die Schlussfolge trennt einen wirklichen Vorgang von seiner Wahrnehmung auf dem Bildschirm. Der Beweis erreicht das Publikum, verliert aber durch dessen Vertrautheit mit inszenierten Bildern seine eindeutige Überzeugungskraft.",
-      "anchor": "Die echte Verwandlung sieht im Fernsehen wie ein Effekt aus.",
       "interest": "Erfasst den satirischen Mediengedanken der Schlussfolge.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die echte Verwandlung sieht im Fernsehen wie ein Effekt aus."
     },
     {
       "code": "Y",
@@ -183,11 +183,11 @@
       ],
       "short": "The Howling erschien 1981.",
       "context": "Joe Dantes Piranha erschien 1978; The Howling folgte 1981, drei Jahre später. John Sayles arbeitete bei beiden Filmen am Drehbuch und wird im AFI-Eintrag als Verbindung zwischen den Produktionen genannt. Der Vergleich verankert den Werwolfklassiker in Dantes früher Arbeit. Die Zuordnung eines Saturnpreises zu 1980 darf davon getrennt werden: Ein Preisjahr ersetzt nicht die erste Veröffentlichung des ausgezeichneten Films.",
-      "anchor": "Piranha 1978 → The Howling 1981: drei Jahre.",
       "interest": "Verankert das Erstjahr über eine konkrete kreative Zusammenarbeit.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Piranha 1978 → The Howling 1981: drei Jahre."
     },
     {
       "code": "D",
@@ -206,11 +206,11 @@
       ],
       "short": "Joe Dante führte allein Hauptregie.",
       "context": "Joe Dante inszenierte die Verbindung aus Werwolfhorror und satirischem Blick auf Medienbilder. John Sayles überarbeitete das Drehbuch und teilte den Schreibcredit mit Terence H. Winkless. Jack Conrad hatte das Projekt ursprünglich mit eigenen Regieplänen entwickelt, führte beim fertigen Film aber nicht Regie. Diese Entwicklungsgeschichte erklärt seine Beteiligung als Produzent, ohne ihn nachträglich zu einem zweiten Hauptregisseur zu machen.",
-      "anchor": "Dante führt den fertigen Film; ursprüngliche Regiepläne sind kein Credit.",
       "interest": "Trennt Hauptregie, Drehbuch und frühere Entwicklungsabsichten.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Dante führt den fertigen Film; ursprüngliche Regiepläne sind kein Credit."
     }
   ]
 }

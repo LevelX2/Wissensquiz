@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Susanna ist Charlies Partnerin und arbeitet auch in seinem Unternehmen.",
       "context": "Sie erlebt seine Begegnung mit dem bislang unbekannten Bruder Raymond mit. Ihr Umgang mit Raymond setzt einen anderen Akzent als Charlies anfängliche Beschäftigung mit Erbe und geschäftlichem Nutzen.",
-      "anchor": "Susanna steht Charlie als Partnerin nahe.",
       "interest": "Die Beziehung ordnet ihre Position in der Geschichte der beiden Brüder ein.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/55772-RAIN-MAN"
-      ]
+      ],
+      "objective": "Susanna steht Charlie als Partnerin nahe."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Ramada untersucht Topper Harley als Psychiaterin.",
       "context": "Die berufliche Begegnung geht in eine parodistische Liebesgeschichte über. Der Film verbindet dabei die Untersuchung des belasteten Piloten mit Anspielungen auf andere bekannte Kinofiguren und Liebesszenen.",
-      "anchor": "Ramada begegnet Topper zunächst als Psychiaterin.",
       "interest": "Der Beruf erklärt, warum sie seinen Gefühlszustand und seine Flugtauglichkeit beurteilt.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/58906"
-      ]
+      ],
+      "objective": "Ramada begegnet Topper zunächst als Psychiaterin."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Die Familie hält Grazias unberechenbares Verhalten für behandlungsbedürftig.",
       "context": "Grazia lebt mit Mann und Kindern auf Lampedusa. Als der Druck der kleinen Gemeinschaft zunimmt, verweigert sie die Reise; ihr Sohn versucht, sie vor der Entfernung von der Insel zu schützen.",
-      "anchor": "Der geplante Aufenthalt in Mailand bedroht Grazias Nähe zu ihrer Familie.",
       "interest": "Die Handlung verbindet Sorge, gesellschaftliche Normen und den Anspruch auf ein eigenes Leben.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://s3.amazonaws.com/cdn.filmtrackonline.com/mongrelmedia/starcm_vault_root/images%2Ffiles%2F3d%2F3d8366f0-f751-41c7-92fc-0a68594286ae.pdf"
-      ]
+      ],
+      "objective": "Der geplante Aufenthalt in Mailand bedroht Grazias Nähe zu ihrer Familie."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Golino verkörpert die Gräfin und Mutter Héloïses.",
       "context": "Sie gehört zur Ordnung, innerhalb derer ein Heiratsporträt entstehen soll. Ihre zeitweilige Abwesenheit öffnet den jüngeren Frauen einen Freiraum für Nähe und gemeinsame Erfahrung.",
-      "anchor": "Golino ist die Gräfin im Umfeld des Hochzeitsporträts.",
       "interest": "Die Besetzung erklärt die generationelle und gesellschaftliche Stellung ihrer Rolle.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       "extraSources": [
         "https://www.criterion.com/films/30469-portrait-of-a-lady-on-fire",
         "https://en.wikipedia.org/wiki/Portrait_of_a_Lady_on_Fire"
-      ]
+      ],
+      "objective": "Golino ist die Gräfin im Umfeld des Hochzeitsporträts."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 2,
       "short": "Irene hilft unter dem Namen Miele schwerkranken Menschen beim Sterben.",
       "context": "Die Begegnung mit einem Mann, der lebensmüde, aber nicht todkrank ist, erschüttert ihre bisherigen Gewissheiten. Golinos Film untersucht die Figur und ihre Grenzen, statt eine einfache moralische Antwort vorzugeben.",
-      "anchor": "Mieles Arbeit wird durch einen unerwarteten Klienten in Frage gestellt.",
       "interest": "Das Thema zeigt Golinos Interesse an ambivalenten Figuren auch hinter der Kamera.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.filmlinc.org/films/honey-miele/"
-      ]
+      ],
+      "objective": "Mieles Arbeit wird durch einen unerwarteten Klienten in Frage gestellt."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 3,
       "short": "Matteo ist ein weltgewandter Unternehmer; Ettore unterrichtet in der Provinz.",
       "context": "Eine Krankheit zwingt die Brüder in größere Nähe. Ihre äußeren Unterschiede verdecken zunächst, wie beide mit Unsicherheit und Unzufriedenheit auf jeweils eigene Weise umgehen.",
-      "anchor": "Unternehmer Matteo und Lehrer Ettore müssen einander neu kennenlernen.",
       "interest": "Die Gegenüberstellung erklärt, warum familiäre Nähe hier keine selbstverständliche Vertrautheit bedeutet.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://www.festival-cannes.com/en/f/euforia/"
-      ]
+      ],
+      "objective": "Unternehmer Matteo und Lehrer Ettore müssen einander neu kennenlernen."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 0,
       "short": "Golino verfilmte Sapienzas Roman und verkörperte danach die Autorin in „Fuori“.",
       "context": "Die beiden Arbeiten ermöglichen unterschiedliche Annäherungen: einmal durch die Inszenierung eines literarischen Werks, einmal durch die Darstellung seiner Verfasserin. Mario Martone führte bei „Fuori“ Regie.",
-      "anchor": "Golino nähert sich Sapienza als Regisseurin und als Darstellerin.",
       "interest": "Der Zusammenhang zeigt, wie sich beide Seiten ihrer Arbeit mit derselben künstlerischen Persönlichkeit beschäftigen.",
       "feedback": [
         "",
@@ -195,7 +194,8 @@
       ],
       "extraSources": [
         "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Acontext_id=&BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=fuori-intro-qanda"
-      ]
+      ],
+      "objective": "Golino nähert sich Sapienza als Regisseurin und als Darstellerin."
     },
     {
       "code": "E2",
@@ -209,7 +209,6 @@
       "correct": 3,
       "short": "Golino ließ Trinca nur in wenigen Momenten lächeln, um die Wirkung zu bewahren.",
       "context": "Im Interview erläuterte sie, dass eine häufige Wiederholung die Ausdruckskraft abschwächen würde. Die zurückhaltende Verteilung macht sichtbar, wann die verschlossene Figur eine andere emotionale Seite zulässt.",
-      "anchor": "Ein seltenes Lächeln gewinnt durch seine Seltenheit Gewicht.",
       "interest": "Die konkrete Regieentscheidung zeigt, wie eine Darstellerin als Regisseurin mit dem Ausdruck einer Kollegin arbeitet.",
       "feedback": [
         "",
@@ -222,7 +221,8 @@
       ],
       "extraSources": [
         "https://screenanarchy.com/2014/03/interview-valeria-golino-on-directing-honey.html"
-      ]
+      ],
+      "objective": "Ein seltenes Lächeln gewinnt durch seine Seltenheit Gewicht."
     }
   ]
 }

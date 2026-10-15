@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Inspektor Lau ist von der Triade in die Polizei eingeschleust worden.",
       "context": "Gleichzeitig lebt Tony Leung Chiu-wais Chan als verdeckter Polizist unter Gangstern. Beide müssen den Spitzel der Gegenseite aufspüren, ohne ihre eigene Tarnung preiszugeben. Die gespiegelten Lebensläufe machen beruflichen Erfolg und persönliche Identität zunehmend unvereinbar.",
-      "anchor": "Lau trägt Uniform für die Unterwelt.",
       "interest": "Einen der zwei gegensätzlichen Undercoveraufträge verstehen.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-F240-20261006-139-L1",
       "variant_of": "F240-20261006-139-L1",
-      "knowledge_note": "Personenbezogene Variante des bestehenden Doppelauftragsziels; hier wird der von Andy Lau gespielte Triaden-Spitzel abgefragt."
+      "knowledge_note": "Personenbezogene Variante des bestehenden Doppelauftragsziels; hier wird der von Andy Lau gespielte Triaden-Spitzel abgefragt.",
+      "objective": "Lau trägt Uniform für die Unterwelt."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 3,
       "short": "Roger kümmert sich um Ah Tao, die seit langem für seine Familie arbeitet.",
       "context": "Ah Tao versorgte Roger über viele Jahre. Als sie pflegebedürftig wird, kehrt sich das gewohnte Verhältnis um. Ann Huis Film geht auf Erfahrungen ihres Produzenten Roger Lee zurück; Deanie Ip spielt die Frau, deren Fürsorge für die Familie bislang selbstverständlich erschien.",
-      "anchor": "Roger erwidert Ah Taos lebenslange Fürsorge.",
       "interest": "Eine alltägliche Beziehung und ihr später Rollenwechsel.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       "extraSources": [
         "https://player.bfi.org.uk/rentals/film/watch-a-simple-life-2011-online",
         "https://player.bfi.org.uk/free/film/watch-ann-hui-discusses-a-simple-life-qa-2014-online"
-      ]
+      ],
+      "objective": "Roger erwidert Ah Taos lebenslange Fürsorge."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 3,
       "short": "Der Räuber hat nur noch kurze Zeit zu leben.",
       "context": "Er bindet einen Polizeiverhandler in seinen sorgfältig entworfenen Plan ein. Johnnie To baut das Duell auf Intelligenz, Nerven und Kommunikation statt auf ein bloßes Schussgefecht. Die Lebensfrist verleiht dem Raubzug eine persönliche Dringlichkeit, während der Polizist erst verstehen muss, welches Spiel hier gespielt wird.",
-      "anchor": "Ein letzter Coup unter tödlichem Zeitdruck.",
       "interest": "Die innere Frist eines ungewöhnlichen Räuber-Polizisten-Duells.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       ],
       "extraSources": [
         "https://www.biff.kr/eng/html/archive/arc_history_search.asp?kind=search&m_idx=14297&m_title=Y&page=462&piff_code=2009"
-      ]
+      ],
+      "objective": "Ein letzter Coup unter tödlichem Zeitdruck."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 0,
       "short": "Sie möchte ihre seit zehn Jahren verschwundene Jugendfreundin finden.",
       "context": "Die Polizistin fühlt sich schuldig, weil sie damals eine Verabredung mit ihrer Freundin ablehnte. Nachdem sie die Fähigkeiten des früheren Polizeiermittlers erlebt hat, hofft sie auf seine Unterstützung. Er löst inzwischen alte Fälle für die Polizei und nimmt die Bitte auch aus eigenen Interessen an.",
-      "anchor": "Die gemeinsame Ermittlung beginnt mit einer vermissten Freundin.",
       "interest": "Persönliche Motivation hinter einer Detektivpartnerschaft.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       ],
       "extraSources": [
         "https://www.festival-cannes.com/en/f/blind-detective/"
-      ]
+      ],
+      "objective": "Die gemeinsame Ermittlung beginnt mit einer vermissten Freundin."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 1,
       "short": "Tide arbeitet zunächst als Polizist und später als Seemann.",
       "context": "Er interessiert sich für Su Lizhen, deren Beziehung mit Yuddy gescheitert ist. Während Yuddy seiner unbekannten Herkunft nachgeht, kreuzen sich die Lebenswege des Polizisten und der anderen jungen Menschen. Der Film verknüpft ihre Begegnungen durch verpasste Nähe und unerfüllte Wünsche.",
-      "anchor": "Tide wechselt von der Straße aufs Meer.",
       "interest": "Eine konkrete Entwicklung innerhalb des Figurenensembles.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://iffr.com/en/iffr/1992/films/afei-zhengzhuan-days-of-being-wild"
-      ]
+      ],
+      "objective": "Tide wechselt von der Straße aufs Meer."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 1,
       "short": "Wah fühlt sich seinem Freund Fly verpflichtet und gerät durch dessen Leichtsinn in neue Gewalt.",
       "context": "Fly will sich in der Unterwelt einen Namen machen und überschätzt immer wieder seine Möglichkeiten. Wah muss die Folgen auffangen, obwohl er sich zugleich seiner erkrankten Cousine Ngor annähert. Wong Kar-wais Debüt verbindet den Gangsterfilm so bereits mit einer gefährdeten privaten Liebesgeschichte.",
-      "anchor": "Wahs Freundestreue zieht ihn zurück in die Gewalt.",
       "interest": "Ein konkreter Loyalitätskonflikt im frühen Gangsterfilm.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/29478-as-tears-go-by"
-      ]
+      ],
+      "objective": "Wahs Freundestreue zieht ihn zurück in die Gewalt."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 2,
       "short": "Das Projekt unterstützte sechs junge asiatische Regisseure finanziell.",
       "context": "Lau engagierte sich neben seiner eigenen Laufbahn für Nachwuchsfilme. Zu den über „Focus: First Cuts“ ermöglichten Werken gehört Ning Haos „Crazy Stone“. Schon zuvor hatte er Fruit Chan bei „Made in Hong Kong“ finanziell unterstützt; seine Produzentenarbeit eröffnete damit anderen Filmemachern Möglichkeiten.",
-      "anchor": "Focus: First Cuts gibt jungen Regisseuren Startmittel.",
       "interest": "Produzentenarbeit und konkrete Förderung neuer Stimmen.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       ],
       "extraSources": [
         "https://www.filmarchive.gov.hk/documents/18995340/19057018/Andy%2BLAU_e.pdf"
-      ]
+      ],
+      "objective": "Focus: First Cuts gibt jungen Regisseuren Startmittel."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 2,
       "short": "Gemeinsam gründeten sie Teamwork Motion Pictures.",
       "context": "Zu den Produktionen der Firma gehört „Savior of the Soul“. Lau übernahm damit früh unternehmerische Verantwortung neben seiner Arbeit vor der Kamera. Das Hong Kong Film Archive führt ihn entsprechend nicht allein als Schauspieler und Sänger, sondern auch als Produzenten und ausführenden Produzenten.",
-      "anchor": "Teamwork ist Laus frühe eigene Filmfirma.",
       "interest": "Eigene Produktionsstruktur als Teil der Schauspielerlaufbahn.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       ],
       "extraSources": [
         "https://www.filmarchive.gov.hk/documents/18995340/19057018/Andy%2BLAU_e.pdf"
-      ]
+      ],
+      "objective": "Teamwork ist Laus frühe eigene Filmfirma."
     }
   ]
 }

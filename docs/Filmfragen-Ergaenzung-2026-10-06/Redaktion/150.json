@@ -33,12 +33,12 @@
       ],
       "short": "Sie nutzen New Yorks Straßen und andere öffentliche Orte als Aufnahmeorte.",
       "context": "Gretta James (Keira Knightley) und Dan Mulligan (Mark Ruffalo) finden zunächst kein Label für ihre Zusammenarbeit. Sie entwickeln stattdessen eine mobile Aufnahme. Die Stadt liefert Räume und Nebengeräusche, sodass fehlende Studioressourcen zum künstlerischen Konzept werden.",
-      "anchor": "New York wird zum verteilten Studio.",
       "interest": "New York wird zum verteilten Studio.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "New York wird zum verteilten Studio."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Dan arbeitet als Musikproduzent und Labelmanager.",
       "context": "Dan Mulligan (Mark Ruffalo) hat seinen Platz im Musikgeschäft verloren. Gretta James (Keira Knightley) hört er an einem schlechten Abend in einer Bar. Sein Blick auf ihr Lied eröffnet beiden eine Zusammenarbeit, obwohl er weder Geld noch eine gesicherte berufliche Position anbieten kann.",
-      "anchor": "Dans verlorene Karriere beginnt mit neuem Zuhören.",
       "interest": "Dans verlorene Karriere beginnt mit neuem Zuhören.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dans verlorene Karriere beginnt mit neuem Zuhören."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Dan hört in seiner Vorstellung bereits die mögliche Bandfassung.",
       "context": "Gretta James (Keira Knightley) singt mit Gitarre. Für Dan Mulligan (Mark Ruffalo) treten imaginierte Instrumente hinzu. Die Szene macht seine schöpferische Produzentenarbeit sichtbar: Er erkennt im unfertigen Vortrag musikalische Möglichkeiten, die andere in der Bar überhören.",
-      "anchor": "Dans Fantasie hört die Band, bevor sie zusammengestellt ist.",
       "interest": "Dans Fantasie hört die Band, bevor sie zusammengestellt ist.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Dans Fantasie hört die Band, bevor sie zusammengestellt ist."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Violet wird als Gitarristin einbezogen.",
       "context": "Gretta James (Keira Knightley) ermutigt Violet Mulligan (Hailee Steinfeld), ihre Musik ernst zu nehmen. Der Platz bei den Aufnahmen verändert auch die Beziehung zu Dan (Mark Ruffalo). Seine Tochter bleibt dadurch nicht nur Zuschauerin seiner Krise, sondern wird Teil einer gemeinsamen Tätigkeit.",
-      "anchor": "Violets Gitarre verbindet Familienbeziehung und musikalische Arbeit.",
       "interest": "Violets Gitarre verbindet Familienbeziehung und musikalische Arbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Violets Gitarre verbindet Familienbeziehung und musikalische Arbeit."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Gretta erlebt die kommerzielle Bearbeitung als Verlust ihres ursprünglichen Lieds.",
       "context": "Dave Kohl (Adam Levine) sieht die Publikumsenergie als Teil der Musik. Gretta James (Keira Knightley) hört dagegen ein privates Geschenk in einem veränderten Verkaufskonzept. Der Streit betrifft deshalb nicht nur Tempo oder Lautstärke, sondern auch die Frage, wem die Bedeutung eines Songs gehört.",
-      "anchor": "Gretta hört ihr Geschenk; Dave hört den Erfolg vor Publikum.",
       "interest": "Gretta hört ihr Geschenk; Dave hört den Erfolg vor Publikum.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gretta hört ihr Geschenk; Dave hört den Erfolg vor Publikum."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Gretta entscheidet sich für den günstigen direkten Onlineverkauf.",
       "context": "Das Label zeigt inzwischen Interesse. Gretta James (Keira Knightley) wählt dennoch einen eigenen Vertriebsweg; Dan Mulligan (Mark Ruffalo) hilft bei der Werbung. Die Entscheidung führt ihre künstlerische Selbstständigkeit bis zur Veröffentlichung fort, statt sie mit einem bloßen Vertragsabschluss enden zu lassen.",
-      "anchor": "Gretta bestimmt auch den Weg ihrer Musik zum Publikum.",
       "interest": "Gretta bestimmt auch den Weg ihrer Musik zum Publikum.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Gretta bestimmt auch den Weg ihrer Musik zum Publikum."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2013.",
       "context": "Begin Again wurde 2013 in Toronto vorgestellt, ein Jahr vor dem Kinostart 2014. John Carneys Once erschien 2007, sechs Jahre zuvor. Beide Filme erzählen Musik als gemeinsame Arbeit; Begin Again vergrößert diesen Ansatz vom Dubliner Straßen- und Studioumfeld zu einer durch New York verteilten Albumaufnahme.",
-      "anchor": "Once 2007, Begin-Again-Premiere 2013, Kino 2014: Musikzusammenarbeit wächst sechs Jahre später zur New-York-Aufnahme.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Once 2007, Begin-Again-Premiere 2013, Kino 2014: Musikzusammenarbeit wächst sechs Jahre später zur New-York-Aufnahme.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Once 2007, Begin-Again-Premiere 2013, Kino 2014: Musikzusammenarbeit wächst sechs Jahre später zur New-York-Aufnahme."
     },
     {
       "code": "D",
@@ -203,14 +203,14 @@
       ],
       "short": "Der Regiecredit lautet John Carney.",
       "context": "John Carney schrieb und führte Regie. Die Aufnahmeidee macht New York selbst zu einem Bestandteil der Musik. Keira Knightley spielt eine Songwriterin statt einen bereits etablierten Star; Carney verknüpft die Produktion eines Albums mit der persönlichen Neuorientierung zweier beruflich enttäuschter Menschen.",
-      "anchor": "John Carney: Die Aufnahmeidee macht New York selbst zu einem Bestandteil der Musik.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "John Carney: Die Aufnahmeidee macht New York selbst zu einem Bestandteil der Musik."
     }
   ]
 }

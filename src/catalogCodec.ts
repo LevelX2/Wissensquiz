@@ -15,7 +15,7 @@ const fieldValues = (q: Omit<Question, "metadata">) => [
   q.question,
   q.explanation,
   q.context,
-  q.anchor,
+  "", // Reserved slot 8; answer references keep their versioned positions.
   ...q.answers.flatMap((a) => [a.text, a.feedback]),
 ];
 

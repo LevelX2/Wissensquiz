@@ -39,12 +39,12 @@
       ],
       "short": "Bart wird Sänger von MercyMe.",
       "context": "Bart wird Sänger von MercyMe. Die Band bildet den beruflichen Weg, auf dem seine Liebe zur Musik eine neue Form erhält. Dieser Weg beginnt jedoch nicht mit einem fertigen Erfolgsplan: Unsichere Auftritte und enttäuschte Erwartungen begleiten ihn. Die Handlung verbindet die Entwicklung der Gruppe mit ungelösten persönlichen Beziehungen, die Bart zunächst hinter sich lassen möchte.",
-      "anchor": "Bart findet seinen musikalischen Weg mit MercyMe.",
       "interest": "Die zentrale Band erkennen.",
       "sources": [
         "filmseite"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bart findet seinen musikalischen Weg mit MercyMe."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Bart spielt Football in der Hoffnung, eine Verbindung zu seinem Vater zu schaffen.",
       "context": "Bart spielt Football in der Hoffnung, eine Verbindung zu seinem Vater zu schaffen. Erst eine schwere Verletzung beendet diesen Weg und bringt ihn in den Musikunterricht. Sein späterer Gesangserfolg entsteht dadurch aus einem Umweg. Der Film verknüpft die Wahl des Sports mit dem Wunsch nach Anerkennung innerhalb einer belasteten Vater-Sohn-Beziehung.",
-      "anchor": "Football ist Barts erster Versuch, den Vater zu erreichen.",
       "interest": "Den persönlichen Grund einer frühen Tätigkeit verstehen.",
       "sources": [
         "filmseite"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Football ist Barts erster Versuch, den Vater zu erreichen."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Bart soll zunächst als Tontechniker bei der Schulproduktion helfen.",
       "context": "Bart soll zunächst als Tontechniker bei der Schulproduktion helfen. Als die Lehrerin ihn singen hört, besetzt sie ihn in der Hauptrolle von „Oklahoma!“. Die Szene verändert seine Sicht auf die eigene Fähigkeit. Der Film zeigt damit eine konkrete Förderentscheidung: Jemand erkennt ein Talent, bevor Bart selbst daraus einen beruflichen Plan entwickelt hat.",
-      "anchor": "Aus dem Tontechniker wird nach dem Vorsingen der Hauptdarsteller.",
       "interest": "Den Wendepunkt durch eine Förderperson erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Aus dem Tontechniker wird nach dem Vorsingen der Hauptdarsteller."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Manager Brickell legt Bart nahe, sich seinen persönlichen Problemen zu stellen.",
       "context": "Manager Brickell legt Bart nahe, sich seinen persönlichen Problemen zu stellen. Nach der beruflichen Enttäuschung wird die Rückkehr deshalb zu mehr als einem Rückzug vom Musikgeschäft. Bart begegnet erneut dem Vater, vor dem er zuvor geflohen war. Die Handlung verbindet eine blockierte Karriere mit einer Beziehung, deren ungelöste Verletzungen auch sein weiteres Leben belasten.",
-      "anchor": "Die berufliche Krise führt Bart zum ungelösten Vaterkonflikt zurück.",
       "interest": "Musikalischen Stillstand und persönlichen Konflikt verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die berufliche Krise führt Bart zum ungelösten Vaterkonflikt zurück."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Bart entdeckt die Diagnose, als er das Haus erneut verlassen möchte.",
       "context": "Bart entdeckt die Diagnose, als er das Haus erneut verlassen möchte. Die Information führt ihn zurück zu Arthur und eröffnet eine spätere Annäherung. Der Film behandelt die Krankheit nicht als Auslöschung früherer Gewalt, sondern als neue Situation zwischen beiden. Bart muss sich zu den alten Verletzungen verhalten, während die gemeinsame Zeit begrenzt geworden ist.",
-      "anchor": "Die Diagnose bringt Bart vom Wegfahren zum Zurückkehren.",
       "interest": "Den konkreten Umschlag einer Entscheidung verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Diagnose bringt Bart vom Wegfahren zum Zurückkehren."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Amy Grant hatte das Lied für eine eigene Aufnahme übernommen.",
       "context": "Amy Grant hatte das Lied für eine eigene Aufnahme übernommen. Beim Auftritt bittet sie jedoch Bart aus dem Publikum auf die Bühne und lässt ihn selbst singen. Das persönliche Lied kehrt damit unmittelbar zu seinem Autor zurück. Die Szene verbindet Unterstützung durch eine etablierte Künstlerin mit Barts eigener Stimme und führt zur Anerkennung durch das Publikum.",
-      "anchor": "Grant überlässt Bart die Bühne für sein eigenes Lied.",
       "interest": "Eine konkrete Form musikalischer Förderung erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Grant überlässt Bart die Bühne für sein eigenes Lied."
     },
     {
       "code": "Y",
@@ -183,14 +183,14 @@
       ],
       "short": "US-Erstveröffentlichung am 16. März 2018.",
       "context": "Die Dreharbeiten begannen im November 2016 in Oklahoma. Der Film wurde 2018 veröffentlicht, zwei Kalenderjahre später. Der konkrete Produktionsort ist von der texanischen Herkunft der erzählten Figur zu unterscheiden. Der Zeitanker verbindet den tatsächlichen Arbeitsbeginn des Teams mit der späteren Veröffentlichung einer Geschichte, deren Schauplätze und Filmaufnahmen nicht dieselbe geografische Zuordnung haben.",
-      "anchor": "2016 Drehbeginn in Oklahoma, 2018 Veröffentlichung: zwei Kalenderjahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "drehbeginn"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2016 Drehbeginn in Oklahoma, 2018 Veröffentlichung: zwei Kalenderjahre später."
     },
     {
       "code": "D",
@@ -209,14 +209,14 @@
       ],
       "short": "Andrew und Jon Erwin führten gemeinsam Regie.",
       "context": "Andrew und Jon Erwin führten gemeinsam Regie. Die offiziellen Credits weisen Jon zusätzlich als Mitautor und Andrew als Mitschnittverantwortlichen aus. Ihre Arbeit verbindet eine Musikbiografie mit der schwierigen Vater-Sohn-Beziehung. J. Michael Finley trägt die Gesangsdarstellung selbst. Brent McCorkle wirkte an Buch, Schnitt und Musik mit; seine zusätzliche Arbeit als Second-Unit-Regisseur ersetzt das Hauptregieteam nicht.",
-      "anchor": "Die Erwins teilen Regie; Jon schreibt mit, Andrew montiert mit.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "credits",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Die Erwins teilen Regie; Jon schreibt mit, Andrew montiert mit."
     }
   ]
 }

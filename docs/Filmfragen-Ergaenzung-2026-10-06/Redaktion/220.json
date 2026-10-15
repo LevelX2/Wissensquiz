@@ -36,12 +36,12 @@
       ],
       "short": "Asger Holm (Jakob Cedergren) beantwortet Anrufe in einer Notrufleitstelle.",
       "context": "Asger Holm (Jakob Cedergren) beantwortet Anrufe in einer Notrufleitstelle. Die Außenhandlung bleibt akustisch vermittelt; seine Deutungen bestimmen zunächst auch das Bild des Publikums.",
-      "anchor": "Die Leitstelle begrenzt den Blick und öffnet die akustische Vorstellung.",
       "interest": "Die Leitstelle begrenzt den Blick und öffnet die akustische Vorstellung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Leitstelle begrenzt den Blick und öffnet die akustische Vorstellung."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Iben (Originalstimme Jessica Dinnage) klingt zunächst, als rede sie mit einem Kind.",
       "context": "Iben (Originalstimme Jessica Dinnage) klingt zunächst, als rede sie mit einem Kind. Asger (Jakob Cedergren) erkennt die indirekte Verständigung und wechselt zu Fragen, die sie mit Ja oder Nein beantworten kann.",
-      "anchor": "Die vermeintliche Kindansprache erlaubt einen verdeckten Hilferuf.",
       "interest": "Die vermeintliche Kindansprache erlaubt einen verdeckten Hilferuf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die vermeintliche Kindansprache erlaubt einen verdeckten Hilferuf."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Asger (Jakob Cedergren) erwartet eine Anhörung wegen der Erschießung eines jungen Mannes.",
       "context": "Asger (Jakob Cedergren) erwartet eine Anhörung wegen der Erschießung eines jungen Mannes. Die Versetzung in die Leitstelle hält ihn vom Außendienst fern, während er Verantwortung lieber bei anderen sucht.",
-      "anchor": "Die dienstliche Einschränkung folgt einer ungeklärten eigenen Gewalttat.",
       "interest": "Die dienstliche Einschränkung folgt einer ungeklärten eigenen Gewalttat.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die dienstliche Einschränkung folgt einer ungeklärten eigenen Gewalttat."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Asger (Jakob Cedergren) betrachtet Michael (Originalstimme Johan Olsen) als gefährlichen Entführer.",
       "context": "Asger (Jakob Cedergren) betrachtet Michael (Originalstimme Johan Olsen) als gefährlichen Entführer. Tatsächlich bringt Michael Iben nach ihrem psychischen Zusammenbruch in eine Klinik; Asgers Anweisung zur Gegenwehr verschärft die Gefahr.",
-      "anchor": "Die falsche Tätervorstellung macht gut gemeinte Hilfe gefährlich.",
       "interest": "Die falsche Tätervorstellung macht gut gemeinte Hilfe gefährlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die falsche Tätervorstellung macht gut gemeinte Hilfe gefährlich."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Iben (Originalstimme Jessica Dinnage) spricht von Schlangen im Bauch ihres Babys.",
       "context": "Iben (Originalstimme Jessica Dinnage) spricht von Schlangen im Bauch ihres Babys. Asger (Jakob Cedergren) erkennt, dass sie ihren Sohn in einem Wahn verletzt hat und seine bisherige Schuldzuweisung falsch war.",
-      "anchor": "Ibens Wahn durchbricht Asgers vermeintlich eindeutige Geschichte.",
       "interest": "Ibens Wahn durchbricht Asgers vermeintlich eindeutige Geschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ibens Wahn durchbricht Asgers vermeintlich eindeutige Geschichte."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Asger (Jakob Cedergren) fordert Rashid (Originalstimme Omar Shargawi) auf, bei der Anhörung wahrheitsgemäß auszusagen.",
       "context": "Asger (Jakob Cedergren) fordert Rashid (Originalstimme Omar Shargawi) auf, bei der Anhörung wahrheitsgemäß auszusagen. Er beginnt, auch für die eigene Schussabgabe Verantwortung zu übernehmen, statt die geplante Falschaussage fortzusetzen.",
-      "anchor": "Die Korrektur des fremden Falls erzwingt Ehrlichkeit im eigenen.",
       "interest": "Die Korrektur des fremden Falls erzwingt Ehrlichkeit im eigenen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Korrektur des fremden Falls erzwingt Ehrlichkeit im eigenen."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2018 hatte die dänische Fassung in Sundance Premiere.",
       "context": "2018 hatte die dänische Fassung in Sundance Premiere. 2021 folgte eine US-Neuverfilmung mit Jake Gyllenhaal; zwischen Original und englischsprachigem Remake liegen drei Jahre.",
-      "anchor": "Dänische Fassung 2018, US-Remake 2021: Drei Jahre führen vom dänischen Notrufkammerspiel zur Neuverfilmung.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Dänische Fassung 2018, US-Remake 2021: Drei Jahre führen vom dänischen Notrufkammerspiel zur Neuverfilmung."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen.",
       "context": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen. Ein realer Notruf inspirierte das Konzept: Die Beschränkung auf die Leitstelle zwingt das Publikum, aus Stimmen eine möglicherweise falsche Außenwelt zu bilden.",
-      "anchor": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen.",
       "interest": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Gustav Möller führte Regie und schrieb mit Emil Nygaard Albertsen."
     }
   ]
 }

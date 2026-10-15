@@ -37,14 +37,14 @@
       ],
       "short": "Joe arbeitet gleichzeitig an einer Bühnenproduktion und einem Filmschnitt.",
       "context": "Joe Gideon (Roy Scheider) probt NY/LA und arbeitet am Schnitt von The Stand-Up. Beide Aufgaben beanspruchen seine Aufmerksamkeit. Der Film zeigt den vermeintlich grenzenlosen Künstler deshalb zugleich als Menschen, dessen Körper mit seinem Arbeitsrhythmus nicht mithalten kann.",
-      "anchor": "Bühnenproben und Schnittzimmer teilen sich denselben erschöpften Körper.",
       "interest": "Bühnenproben und Schnittzimmer teilen sich denselben erschöpften Körper.",
       "sources": [
         "handlung",
         "credits_rt",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bühnenproben und Schnittzimmer teilen sich denselben erschöpften Körper."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Angelique ist die personifizierte Todesfigur.",
       "context": "Joe Gideon (Roy Scheider) spricht mit Angelique (Jessica Lange) über sein Leben. Die Fantasiegespräche ergänzen den hektischen Arbeitsalltag. Der Tod begegnet ihm dabei als faszinierende Gesprächspartnerin; die zunehmende Nähe kündigt an, wohin seine körperliche Selbstüberforderung führt.",
-      "anchor": "Joes verführerische Gesprächspartnerin ist der Tod.",
       "interest": "Joes verführerische Gesprächspartnerin ist der Tod.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Joes verführerische Gesprächspartnerin ist der Tod."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Joe macht sich mit Musik und Medikamenten für den Arbeitstag bereit.",
       "context": "Joe Gideon (Roy Scheider) spielt Vivaldi, benutzt Augentropfen und nimmt Medikamente. Vor dem Spiegel setzt er sich selbst als jederzeit einsatzfähigen Showmenschen in Szene. Die Wiederholung zeigt weniger gesunde Routine als die Mittel, mit denen er Erschöpfung täglich überdeckt.",
-      "anchor": "Der Spiegelauftritt überspielt mit Medikamenten die Überlastung.",
       "interest": "Der Spiegelauftritt überspielt mit Medikamenten die Überlastung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Spiegelauftritt überspielt mit Medikamenten die Überlastung."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Die Produzenten rechnen mit der Versicherung für Joes Tod.",
       "context": "Während Joe Gideon (Roy Scheider) operiert wird, kalkulieren die Geldgeber die möglichen Versicherungszahlungen. Aus seiner Krankheit wird eine Gewinnrechnung. Die Parallelführung von medizinischem Risiko und Geschäftssprache legt den Zynismus eines Betriebs offen, der den Menschen nur noch als wirtschaftlichen Posten behandelt.",
-      "anchor": "Die Versicherung verwandelt die Katastrophe des Künstlers in eine Renditechance.",
       "interest": "Die Versicherung verwandelt die Katastrophe des Künstlers in eine Renditechance.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Versicherung verwandelt die Katastrophe des Künstlers in eine Renditechance."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Die Phasen des Komiker-Monologs spiegeln Joes eigenen Weg zum Tod.",
       "context": "Joe Gideon (Roy Scheider) bearbeitet immer wieder dieselbe Stand-up-Passage. Deren Abfolge von Verleugnung, Wut, Verhandeln, Depression und Akzeptanz kehrt in seiner Auseinandersetzung mit dem Sterben wieder. Arbeit am Film und verdrängte persönliche Erfahrung werden dadurch strukturell miteinander verbunden.",
-      "anchor": "Was Joe im Schnitt bearbeitet, muss er selbst durchleben.",
       "interest": "Was Joe im Schnitt bearbeitet, muss er selbst durchleben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Was Joe im Schnitt bearbeitet, muss er selbst durchleben."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Auf die fantasierte Show folgt der nüchterne Leichensack.",
       "context": "Joe Gideon (Roy Scheider) inszeniert im Sterben eine letzte große Nummer. Beifall und Abschied erscheinen noch einmal als Unterhaltung. Der Schnitt auf seinen Körper unterbricht dieses Wunschbild: Die Bühnensprache kann den Tod gestalten, aber seine körperliche Endgültigkeit nicht aufheben.",
-      "anchor": "Nach dem letzten Applaus bleibt der Leichensack.",
       "interest": "Nach dem letzten Applaus bleibt der Leichensack.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Nach dem letzten Applaus bleibt der Leichensack."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1979.",
       "context": "All That Jazz erschien 1979. Ein wichtiger Ausgangspunkt war Fosses Arbeit am Film Lenny von 1974, fünf Jahre zuvor, während er zugleich ein Bühnenmusical vorbereitete. Die filmische Selbstbefragung verwandelt diese Doppelbelastung eines Regisseurs in ein Musical über Arbeit, körperliche Erschöpfung und Sterblichkeit.",
-      "anchor": "Lenny 1974, All That Jazz 1979: fünf Jahre von Fosses Arbeitsvorbild zur Selbstbefragung.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Lenny 1974, All That Jazz 1979: fünf Jahre von Fosses Arbeitsvorbild zur Selbstbefragung.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Lenny 1974, All That Jazz 1979: fünf Jahre von Fosses Arbeitsvorbild zur Selbstbefragung."
     },
     {
       "code": "D",
@@ -208,7 +208,6 @@
       ],
       "short": "Der Regiecredit lautet Bob Fosse.",
       "context": "Bob Fosse schrieb mit Robert Alan Aurthur das Drehbuch und führte Regie. Joe Gideon ist eine fiktionale, stark autobiografisch geprägte Figur. Roy Scheiders Rolle verbindet Fosses Arbeit als Filmregisseur und Choreograf, ohne als dokumentarisches Porträt jede Einzelheit seiner Biografie zu übernehmen.",
-      "anchor": "Bob Fosse: Joe Gideon ist eine fiktionale, stark autobiografisch geprägte Figur.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
@@ -216,7 +215,8 @@
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bob Fosse: Joe Gideon ist eine fiktionale, stark autobiografisch geprägte Figur."
     }
   ]
 }

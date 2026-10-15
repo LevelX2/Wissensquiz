@@ -1,6 +1,6 @@
 # Redaktion von Filmfragen, Schauspielerfragen und Preisfragen
 
-Stand: 11.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
+Stand: 15.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
 Quelle: [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Fragenredaktions-Skill.txt). Bestehende technische Bereichs- und Importverträge wurden für den Stand abgeglichen.
 
@@ -20,15 +20,13 @@ Genres unter 100 Filmen schrittweise auffüllen, beginnend mit Abenteuer. Je Gen
 
 ## Schwierigkeiten und Bekanntheit
 
-**13.10.2026 – Ausbau begonnen:** Erster Personenblock mit acht neuen Personen, 64 Fragen und historischen Porträts redaktionell abgeschlossen und mit dem App-Parser geprüft. 59 neue Ziele, fünf Bestandsvarianten; noch nicht installiert. Vollständiger Ausgleich weiterhin in Arbeit, 200 Personen offen. [Fragen, Bildquellen und Fortsetzungsstand](Schauspieler-Bekanntheit-2026-10-13/Plan.md).
-
-**Neuer Nutzerauftrag vom 13.10.2026:** Vier Bekanntheitsgruppen künftig auch für Schauspieler und Preisträger; Personen redaktionell einteilen, Preisfragen nach ihrer Filmfassung. Unterbesetzte Personengruppen später durch gezielte Ergänzungen ausgleichen, ohne erzwungene Umgruppierung. [Vollständige Einordnung, Bestandsmengen und Ausbauumfang](Bekanntheitsgruppen/Plan.md). Die Zuordnung ist vorbereitet; App-Filter und Freischaltungen entsprechen weiterhin dem bisherigen Stand der folgenden Tabelle. Die vier Schwierigkeiten bleiben unabhängig von den vier Bekanntheitsgruppen.
+**13.10.2026 – Schauspielerausbau redaktionell und lokal in der App abgeschlossen:** 208 Ergänzungen mit 1.664 Fragen, davon 105 Bestandsvarianten und 1.559 neue Ziele. 428 Personen mit viermal 107, historische Porträts und vollständige Referenzdaten. Gruppenfilter und Freischaltungen gelten lokal auch für Schauspieler und Preise; zentrale Veröffentlichungsprüfung läuft. [Aktueller App-Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
 | Fragenbereich | Schwierigkeiten | Bekanntheitsgruppen |
 |---|---|---|
-| Filme | leicht, mittel, schwer | 1 Film-Ikonen, 2 Bekannte Filme, 3 Kennerfilme, 4 Entdeckungen |
-| Schauspieler | leicht, mittel, schwer, experte | Keine eigenen Filmgruppen für Personen |
-| Preise und Preisträger | leicht, mittel, schwer, experte | Keine Filmgruppen als Voraussetzung für Preisfragen |
+| Filme | leicht, mittel, schwer | 1 Sehr bekannt, 2 Bekannt, 3 Für Filmkenner, 4 Entdeckungen |
+| Schauspieler | leicht, mittel, schwer, experte | Dieselben vier Gruppen nach redaktioneller Personeneinordnung |
+| Preise und Preisträger | leicht, mittel, schwer, experte | Dieselben vier Gruppen nach Filmfassung |
 
 Die vierte Personenstufe wurde in bisherigen Redaktionspaketen „außergewöhnlich“ genannt und für die App auf `experte` abgebildet. Die vier Filmgruppen beschreiben eine redaktionelle Bekanntheitseinschätzung für ein breites deutschsprachiges Kinopublikum, keine gemessene Quote. Seltenheit ist keine Fragenschwierigkeit: Ein wenig bekannter Film braucht ebenfalls leichte Einstiegsfragen. Alle Fragen derselben Filmfassung behalten dieselbe Bekanntheitsgruppe.
 
@@ -90,15 +88,17 @@ Die [systematische Bestandsdurchsicht vom 10.10.2026](Darstellerkontext-2026-10-
 
 ## Struktur jeder Frage
 
-Jede neue Frage enthält einen eindeutig formulierten Fragetext, ein präzises Wissensziel, vier verschiedene Antwortmöglichkeiten und genau eine belegbare richtige Lösung. Hinzu kommen eine kurze Begründung der Lösung, eine konkrete Vertiefung, ein Merksatz, passende Quellen und bei Filmfragen die Spoilereinstufung. Zu jeder Antwort ist redaktionell zu prüfen, warum sie richtig oder falsch ist. Ein sichtbarer Zusatztext zu einer falschen Antwort ist nur bei eigenständigem Erkenntniswert sinnvoll. Für Film- und Preis-CSV gehören solche Texte in `feedback_a` bis `feedback_d`; sie dürfen sonst leer bleiben. Für Personenfragen die gewählte Übergabe auf Erhalt der Inhalte prüfen.
+Jede neue Frage enthält einen eindeutig formulierten Fragetext, ein präzises Wissensziel, vier verschiedene Antwortmöglichkeiten und genau eine belegbare richtige Lösung. Hinzu kommen eine kurze Begründung der Lösung, eine konkrete Vertiefung, passende Quellen und bei Filmfragen die Spoilereinstufung. Zu jeder Antwort ist redaktionell zu prüfen, warum sie richtig oder falsch ist. Ein sichtbarer Zusatztext zu einer falschen Antwort ist nur bei eigenständigem Erkenntniswert sinnvoll. Für Film- und Preis-CSV gehören solche Texte in `feedback_a` bis `feedback_d`; sie dürfen sonst leer bleiben. Für Personenfragen die gewählte Übergabe auf Erhalt der Inhalte prüfen.
+
+Merksätze sind vollständig gestrichen und kein Qualitätskriterium. Das frühere Feld `memory_anchor` gehört nicht zum aktuellen Fragenformat; bei eingehenden CSV mit diesem Zusatzfeld wird es bei der Übernahme verworfen. Unveränderte Originalquellen und Archive bleiben erhalten.
 
 „Keine Ahnung“ ist die zusätzliche App-Auswahl und gehört nicht zu den vier redaktionellen Antwortoptionen.
 
 Drei falsche Antworten müssen im gefragten Kontext plausibel sein, aber belegbar ausscheiden. Vergleichbare Antwortarten, ähnliche sprachliche Form und angemessene Länge wählen. Keine zweite vertretbare Lösung, keine sich überschneidenden Optionen und keine durch bloße Form auffällige richtige Antwort. Vollständige Teams bei gemeinsamer Regie oder gemeinsam ausgezeichneten Leistungen auch in den Alternativen als Teams behandeln.
 
-Die kurze Erklärung beantwortet „Warum ist diese Lösung richtig?“. Die Vertiefung erklärt einen konkreten Hintergrund, eine Verbindung oder die Bedeutung des Sachverhalts. Für Filmfragen sind etwa 50–75 Wörter eine Orientierung; Inhalt und Verständlichkeit haben Vorrang. Personen- und Preistexte sollen ebenfalls konkrete Zusatzinformation vermitteln, ohne mit Füllsätzen eine Länge zu erreichen. Der Merksatz ist knapp und zum Ziel passend.
+Die kurze Erklärung beantwortet „Warum ist diese Lösung richtig?“. Die Vertiefung erklärt einen konkreten Hintergrund, eine Verbindung oder die Bedeutung des Sachverhalts. Für Filmfragen sind etwa 50–75 Wörter eine Orientierung; Inhalt und Verständlichkeit haben Vorrang. Personen- und Preistexte sollen ebenfalls konkrete Zusatzinformation vermitteln, ohne mit Füllsätzen eine Länge zu erreichen.
 
-Für Film-Jahresfragen gilt der Nutzermaßstab vom 04.10.2026: Die Vertiefung verbindet das Veröffentlichungsjahr mit einem interessanten, passenden zweiten Sachverhalt und bildet einen zeitlichen Erinnerungsanker. Geschichte, Musik, Technik, Biografie, Literatur und sinnvolle Filmverbindungen kommen infrage; direkte Filmbezüge sind besonders geeignet. Unterschiedliche Länderstarts allein sind keine interessante Vertiefung. Bei verschiedenen Jahren beide Zeitpunkte und Reihenfolge oder Abstand verständlich nennen. Eine zeitliche oder thematische Merkhilfe nicht als unbelegte Produktionsursache ausgeben. Der Merksatz hält die konkrete Verbindung knapp fest. [Nutzerauftrag und vollständige Jahresredaktion](Jahresanker-2026-10-04/Pruefbericht.md).
+Für Film-Jahresfragen gilt der Nutzermaßstab vom 04.10.2026: Die Vertiefung verbindet das Veröffentlichungsjahr mit einem interessanten, passenden zweiten Sachverhalt und bildet eine zeitliche Verankerung. Geschichte, Musik, Technik, Biografie, Literatur und sinnvolle Filmverbindungen kommen infrage; direkte Filmbezüge sind besonders geeignet. Unterschiedliche Länderstarts allein sind keine interessante Vertiefung. Bei verschiedenen Jahren beide Zeitpunkte und Reihenfolge oder Abstand verständlich nennen. Eine zeitliche oder thematische Merkhilfe nicht als unbelegte Produktionsursache ausgeben. Die zeitliche Verbindung gehört in die Vertiefung; keinen zusätzlichen Merksatz anhängen. [Nutzerauftrag und vollständige Jahresredaktion](Jahresanker-2026-10-04/Pruefbericht.md).
 
 Frage und vier Antworten zusammen möglichst unter 60 Wörtern halten. Längere, fachlich notwendige Kombinationen im Prüfbericht kenntlich machen; der Rekordmodus sieht 30 Sekunden pro Frage vor. Interpretationen und eigene Beobachtungshinweise als solche kennzeichnen und nicht als einzig objektiv richtige Multiple-Choice-Lösung anbieten.
 
@@ -121,7 +121,7 @@ Die Qualitätsmaßstäbe wurden nach den ersten gemeinsamen Prüfungen vom Nutze
 - **Informationsgewinn:** Kurzantwort und Vertiefung gemeinsam lesen. Wiederholt die Vertiefung nur die Lösung oder erklärt sie denselben Gedanken mehrfach, verdichten oder einen passenderen Hintergrund erschließen. Nicht nur gleiche Wörter, sondern gedankliche Dopplungen prüfen.
 - **Konkretheit und Verständnis:** Interessante Vorgänge, Eigenheiten und Zusammenhänge tatsächlich benennen. Aussagen über Identität, Symbolik, Prüfung oder Bedeutung an nachvollziehbaren Filmbeobachtungen erden. Nötige Figurenbeziehungen und ungewöhnliche Konstellationen verständlich machen; Fakten und redaktionelle Deutung unterscheiden.
 - **Handlungsverankerung:** Bei jeder Vertiefung prüfen, ob ein grober Handlungszusammenhang das Verständnis der Frage und Antwort verbessert. Wenn es passt, den relevanten Abschnitt der Filmhandlung zusammenhängend wiedergeben: etwa die Ausgangslage, eine Entwicklung oder die Folgen einer Handlung. Die Auswahl folgt der konkreten Frage; nicht stets alle Elemente oder dieselbe Reihenfolge verlangen. Der Leser soll den Vorgang auch ohne detaillierte Filmkenntnis nachvollziehen und im Handlungsverlauf einordnen können. Ein isoliertes Szenendetail oder Spezialwissen ersetzt diesen Zusammenhang nicht automatisch. Keine vollständige Inhaltsangabe und keine Handlungserzählung in jeder Vertiefung erzwingen.
-- **Eigenständigkeit und Abwechslung:** Prüfen, ob ein Absatz nach bloßem Namensaustausch bei vielen anderen Filmen funktionieren würde. Mehrere Fragen zusammen auf wiederkehrende Einstiege, gedankliche Verläufe und Schlussfunktionen lesen, auch bei unterschiedlichem Wortlaut. Keine feste Satzanzahl, Pflichtanekdote, Szenenpflicht oder Abfolge „Szene – Hintergrund – Bedeutung – Merksatz“ einführen. Unterschiedliche Längen und ein Ende ohne allgemeine Schlussdeutung sind zulässig.
+- **Eigenständigkeit und Abwechslung:** Prüfen, ob ein Absatz nach bloßem Namensaustausch bei vielen anderen Filmen funktionieren würde. Mehrere Fragen zusammen auf wiederkehrende Einstiege, gedankliche Verläufe und Schlussfunktionen lesen, auch bei unterschiedlichem Wortlaut. Keine feste Satzanzahl, Pflichtanekdote, Szenenpflicht oder Abfolge „Szene – Hintergrund – Bedeutung“ einführen. Unterschiedliche Längen und ein Ende ohne allgemeine Schlussdeutung sind zulässig.
 - **Begründete Nichtänderung:** Gute Texte ausdrücklich erhalten. Jede Überarbeitung braucht einen benennbaren Qualitätsgewinn; mehr Länge, Fachbegriffe oder zusätzliche Produktionsfakten genügen dafür nicht.
 - **Gesamtkomposition:** Die Kurzantwort muss genau die gestellte Frage beantworten. Alle vier Optionen gemeinsam auf Plausibilität, sprachliche Form, Antwortlänge, zeitliche Eingrenzung und strukturelle Raterichtung prüfen. Rückmeldungen ohne eigenständigen Erkenntniswert leer lassen.
 

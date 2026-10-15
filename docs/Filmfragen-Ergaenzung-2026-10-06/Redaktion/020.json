@@ -31,13 +31,13 @@
       ],
       "short": "Glaisher sammelt Daten über Atmosphäre und Wetter.",
       "context": "Die Ballonfahrt verschafft Zugang zu Luftschichten, die am Boden nicht direkt untersucht werden können. Messgeräte und Beobachtungen machen die Reise zu einem Forschungsprojekt. Der Höhengewinn verbindet Erkenntnischance und Gefahr.",
-      "anchor": "Glaishers Fahrt öffnet ein Labor in der Atmosphäre.",
       "interest": "Das wissenschaftliche Ziel erklärt die Bedeutung des Aufstiegs.",
       "sources": [
         "museum",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Glaishers Fahrt öffnet ein Labor in der Atmosphäre."
     },
     {
       "code": "L2",
@@ -56,13 +56,13 @@
       ],
       "short": "Der Sauerstoffmangel in der großen Höhe setzt Glaisher außer Gefecht.",
       "context": "Der Wunsch nach weiteren Messungen lässt James länger aufsteigen. Amelia (Felicity Jones) erkennt die Gefahr für die Menschen im Korb. Die körperlichen Grenzen werden nun wichtiger als der wissenschaftliche Rekord.",
-      "anchor": "Die dünne Höhenluft macht aus dem Messflug eine Rettung.",
       "interest": "Die zentrale Gefahr ist auch ohne Vorwissen verständlich.",
       "sources": [
         "museum",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die dünne Höhenluft macht aus dem Messflug eine Rettung."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Amelia muss das eingefrorene Ablassventil erreichen.",
       "context": "James (Eddie Redmayne) ist nicht mehr in der Lage zu helfen. Die technische Möglichkeit zum Abstieg ist blockiert. Amelia verlässt deshalb den geschützten Korb und setzt sich Kälte und Absturzgefahr aus.",
-      "anchor": "Das blockierte Ventil zwingt Amelia aus dem Korb auf den Ballon.",
       "interest": "Die Rettungsentscheidung folgt aus einem konkreten technischen Problem.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das blockierte Ventil zwingt Amelia aus dem Korb auf den Ballon."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Die beiden werfen Ausrüstung ab und lösen schließlich den Korb.",
       "context": "Die Ausrüstung war für die Forschung wichtig. Nun hat Überleben Vorrang. Die verbleibende Ballonhülle wird als bremsende Fläche genutzt, nachdem der normale Zustand des Fluggeräts nicht mehr zu halten ist.",
-      "anchor": "Messgeräte und Korb gehen verloren, um die Menschen zu retten.",
       "interest": "Die Maßnahme kehrt das Verhältnis von Forschung und Sicherheit um.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Messgeräte und Korb gehen verloren, um die Menschen zu retten."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Amelia ist eine fiktionale Figur mit historischen Anregungen.",
       "context": "James Glaisher flog bei der historischen Fahrt mit Henry Coxwell. Der Film ersetzt diesen Partner durch Amelia. Das National Air and Space Museum erläutert unter anderem Sophie Blanchard als Anregung, ohne Amelia zu einer historisch identischen Person zu erklären.",
-      "anchor": "Historisch Glaisher und Coxwell; im Film Glaisher und die erfundene Amelia.",
       "interest": "Ein wichtiger Unterschied verhindert die Gleichsetzung von Spielfilm und Chronik.",
       "sources": [
         "museum"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Historisch Glaisher und Coxwell; im Film Glaisher und die erfundene Amelia."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Rückblenden verbinden den Aufstieg mit der Vorgeschichte.",
       "context": "Während Amelia (Felicity Jones) und James (Eddie Redmayne) aufsteigen, zeigen frühere Szenen ihre verschiedenen Gründe für die Reise. Die gemeinsame Gefahr erhält dadurch persönliche Voraussetzungen, ohne zunächst eine lange vollständige Biografie zu erzählen.",
-      "anchor": "Der Ballon steigt, die Erzählung kehrt in die Vorgeschichte zurück.",
       "interest": "Die Erzählordnung wird an ihrer konkreten Funktion verständlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Ballon steigt, die Erzählung kehrt in die Vorgeschichte zurück."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Der Film wurde 2019 erstmals veröffentlicht.",
       "context": "Eddie Redmayne und Felicity Jones spielten 2014 gemeinsam in „Die Entdeckung der Unendlichkeit“. „The Aeronauts“ brachte sie 2019 wieder zusammen. Fünf Jahre trennen die beiden Filme mit demselben Hauptduo.",
-      "anchor": "2014 die Hawking-Geschichte, 2019 die Ballonfahrt: fünf Jahre bis zum Wiedersehen des Duos.",
       "interest": "Die frühere gemeinsame Hauptrolle liefert einen anschaulichen Zeitanker.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2014 die Hawking-Geschichte, 2019 die Ballonfahrt: fünf Jahre bis zum Wiedersehen des Duos."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Tom Harper führte Regie.",
       "context": "Harper entwickelte die Story gemeinsam mit Jack Thorne, der das Drehbuch schrieb. Die Filmgeschichte kombiniert Forschungsflug und Überlebensabenteuer. Der gemeinsame Storycredit ist von Harpers Regieaufgabe zu unterscheiden.",
-      "anchor": "Harper inszeniert; Thorne schreibt nach ihrer gemeinsamen Story.",
       "interest": "Die Aufgabenverteilung erklärt die konkrete Autoren- und Regiearbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Harper inszeniert; Thorne schreibt nach ihrer gemeinsamen Story."
     }
   ]
 }

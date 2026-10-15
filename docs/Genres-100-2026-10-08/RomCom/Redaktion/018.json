@@ -37,11 +37,11 @@
       ],
       "short": "Will erzählt seiner Tochter Maya von seinen Beziehungen.",
       "context": "Will Hayes (Ryan Reynolds) steht vor einer Scheidung und erzählt seiner Tochter Maya Hayes (Abigail Breslin), wie seine früheren Beziehungen verliefen. Das Mädchen fragt nach der Geschichte ihrer Eltern und hört aufmerksam zu. Durch ihre Nachfragen wird aus dem Rückblick ein Gespräch zwischen Vater und Tochter. Die Rahmensituation verknüpft die Romanze mit dem Wunsch eines Kindes, die eigene Familiengeschichte besser zu verstehen.",
-      "anchor": "Die Tochter hört die Liebesgeschichte ihres Vaters.",
       "interest": "Die Zuhörerin erklärt den familiären Rahmen des Films.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Tochter hört die Liebesgeschichte ihres Vaters."
     },
     {
       "code": "L2",
@@ -60,11 +60,11 @@
       ],
       "short": "Will kommt für Bill Clintons Wahlkampf nach New York.",
       "context": "Will Hayes (Ryan Reynolds) verlässt seine bisherige Umgebung, um in New York an Bill Clintons Wahlkampf mitzuarbeiten. Der politische Aufbruch eröffnet ihm zugleich neue persönliche Begegnungen. April Hoffman (Isla Fisher) lernt er in diesem Arbeitsumfeld kennen. Die Rückschau beginnt deshalb mit einem beruflichen Ortswechsel, bevor die verschiedenen Beziehungen und ihre späteren Folgen für seine Familiengeschichte in den Mittelpunkt rücken.",
-      "anchor": "Der Wahlkampf eröffnet Wills New Yorker Lebensabschnitt.",
       "interest": "Ein eigenständiger beruflicher Ausgangspunkt ergänzt den Familienrahmen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Wahlkampf eröffnet Wills New Yorker Lebensabschnitt."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Emily bezeichnet in der Erzählung Mayas Mutter Sarah.",
       "context": "Will Hayes (Ryan Reynolds) verändert die Namen der Frauen, von denen er seiner Tochter Maya Hayes (Abigail Breslin) erzählt. Maya erkennt schließlich, dass Emily Jones (Elizabeth Banks) für ihre eigene Mutter Sarah steht. Damit wird das Rätsel innerhalb der Familiengeschichte gelöst. Die erzählten Liebesbeziehungen führen also nicht nur zu einer romantischen Wahl, sondern erklären dem Mädchen auch, aus welcher Beziehung es selbst hervorgegangen ist.",
-      "anchor": "Emily ist der erzählte Name von Mayas Mutter.",
       "interest": "Die Identitätsauflösung verlangt den Zusammenhang mehrerer Erzählstränge.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Emily ist der erzählte Name von Mayas Mutter."
     },
     {
       "code": "M2",
@@ -107,11 +107,11 @@
       ],
       "short": "Summers journalistische Veröffentlichung schadet Wills Kampagne.",
       "context": "Summer Hartley (Rachel Weisz) arbeitet als Journalistin, während Will Hayes (Ryan Reynolds) eine politische Kampagne betreut. Ihr Artikel über den Kandidaten richtet Schaden an, obwohl Will sie von der Veröffentlichung abhalten möchte. Die beruflichen Rollen geraten damit unmittelbar gegeneinander. Die Beziehung zerbricht an einem Konflikt, in dem sein Interesse am Erfolg der Kampagne und ihre Entscheidung als Journalistin nicht miteinander vereinbar sind.",
-      "anchor": "Die Veröffentlichung stellt Journalismus gegen Wahlkampfinteressen.",
       "interest": "Eine konkrete Handlung erklärt den Bruch dieser Beziehung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Veröffentlichung stellt Journalismus gegen Wahlkampfinteressen."
     },
     {
       "code": "S1",
@@ -130,11 +130,11 @@
       ],
       "short": "Die Widmung ihres verstorbenen Vaters macht das Buch einzigartig.",
       "context": "April Hoffman (Isla Fisher) sucht nach einem verlorenen Exemplar von Jane Eyre, das ihr Vater ihr geschenkt und gewidmet hatte. Andere Ausgaben ersetzen dieses persönliche Erinnerungsstück nicht. Will Hayes (Ryan Reynolds) findet das gesuchte Buch, gibt es aber zunächst nicht zurück. Der Gegenstand trägt deshalb zwei Ebenen: Aprils Erinnerung an ihren Vater und Wills Schwierigkeit, die Bedeutung ihrer Beziehung offen anzuerkennen.",
-      "anchor": "Die persönliche Widmung unterscheidet das Buch von allen anderen Ausgaben.",
       "interest": "Das Erinnerungsstück verbindet Familienverlust und unausgesprochene Zuneigung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die persönliche Widmung unterscheidet das Buch von allen anderen Ausgaben."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "April ist die Ausnahme: Ihr Name bleibt unverändert.",
       "context": "Will Hayes (Ryan Reynolds) kündigt seiner Tochter Maya Hayes (Abigail Breslin) an, Namen zu verändern. Am Ende zeigt sich jedoch, dass April Hoffman (Isla Fisher) unter ihrem wirklichen Namen erzählt wurde. Summer Hartley (Rachel Weisz) und Emily Jones (Elizabeth Banks) tragen erzählerisch veränderte Namen. Diese Ausnahme macht April innerhalb der Rückschau besonders und hilft Maya, Wills noch nicht abgeschlossene Gefühle für sie zu erkennen.",
-      "anchor": "Der unveränderte Name markiert die besondere Stellung Aprils.",
       "interest": "Die Auflösung verlangt einen Blick auf die Regeln der Rückschau.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der unveränderte Name markiert die besondere Stellung Aprils."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "1999 Notting Hill, 2008 dieser Film: neun Jahre.",
       "context": "Vielleicht, vielleicht auch nicht erschien 2008. Working Title führt Notting Hill mit einem Start von 1999; zwischen diesen beiden romantischen Filmen des Unternehmens liegen neun Jahre. Der Vergleich verbindet zwei konkrete Werke aus demselben Produktionsumfeld. Die spätere Geschichte verwendet eine Vater-Tochter-Rückschau als Rahmen, während der frühere Film die Begegnung eines Buchhändlers mit einem Filmstar zum Ausgangspunkt seiner Romanze macht.",
-      "anchor": "1999 Notting Hill, 2008 Vielleicht, vielleicht auch nicht: neun Jahre.",
       "interest": "Zwei Working-Title-Romanzen bilden einen konkreten zeitlichen Zusammenhang.",
       "sources": [
         "studio",
         "zeitanker"
-      ]
+      ],
+      "objective": "1999 Notting Hill, 2008 Vielleicht, vielleicht auch nicht: neun Jahre."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Adam Brooks schrieb das Drehbuch und führte Regie.",
       "context": "Adam Brooks verantwortet sowohl das Drehbuch als auch die Regie von Vielleicht, vielleicht auch nicht. Working Title beschreibt die Anlage als romantisches Identitätsrätsel: Will Hayes (Ryan Reynolds) erzählt Maya Hayes (Abigail Breslin) von seiner Vergangenheit, während die Mutter zunächst hinter veränderten Namen verborgen bleibt. Die gemeinsame Autorenschaft und Regie verbinden die Struktur dieser Rückschau mit ihrer Umsetzung als Gespräch zwischen Vater und Tochter.",
-      "anchor": "Brooks gestaltet die Erzählung als Autor und Regisseur.",
       "interest": "Die doppelte Zuständigkeit erklärt den Aufbau des romantischen Rätsels.",
       "sources": [
         "studio",
         "archiv"
-      ]
+      ],
+      "objective": "Brooks gestaltet die Erzählung als Autor und Regisseur."
     }
   ]
 }

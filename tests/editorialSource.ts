@@ -7,6 +7,10 @@ import published from "../docs/Bestandsredaktion-2026-10-04/Veroeffentlichte-Kor
 import integrated from "./fixtures/appliedEditorial.json";
 
 type Row = Record<string, string>;
+const activeRow = (row: Row): Row =>
+  Object.fromEntries(
+    Object.entries(row).filter(([key]) => key !== "memory_anchor"),
+  );
 export type EditorialChange = {
   kind: string;
   file: string;
@@ -32,6 +36,9 @@ const integratedCsvChanges = integrated.changes as unknown as Pick<
   "file" | "id" | "after"
 >[];
 const allCsvChanges = [...csvChanges, ...integratedCsvChanges];
+const removals: { id: string; knowledgeId: string; replacementId: string }[] =
+  integrated.removals;
+const removedIds = new Set(removals.map((entry) => entry.id));
 const baselineRows = new Map<string, Map<string, Row>>();
 export function baselineCsvRow(file: string, originalId: string): Row {
   let rows = baselineRows.get(file);
@@ -57,19 +64,22 @@ export function baselineCsvRow(file: string, originalId: string): Row {
   assert(row, `${file}: ursprüngliche Frage ${originalId}`);
   return structuredClone(row);
 }
-export const currentQuestionId = (id: string) => integrated.replacements.find(r=>r.id===id)?.replacementId ?? id;
+export const currentQuestionId = (id: string) => integrated.replacements.find(r=>r.id===id)?.replacementId ?? removals.find(r=>r.id===id)?.replacementId ?? id;
 export const originalQuestionId = (id: string) => integrated.replacements.find(r=>r.replacementId===id)?.id ?? id;
 export function catalogBeforeReview(file: string, text: string) {
   const parsed = Papa.parse<Row>(text,{header:true,skipEmptyLines:"greedy"});
   const added=new Set(integrated.additions.filter(a=>a.file===file).map(a=>a.row.question_id));
   assert.deepEqual(parsed.errors, [], file);
-  const changes=new Map(integratedCsvChanges.filter(c=>c.file===file).map(c=>[c.after.question_id,baselineCsvRow(file,c.id)]));
-  return Papa.unparse({fields:parsed.meta.fields!,data:parsed.data.filter(r=>!added.has(r.question_id)).map(r=>changes.get(r.question_id)??r)});
+  const rows = parsed.data
+    .filter((row) => !added.has(row.question_id) && !removedIds.has(row.question_id))
+    .map((row) => baselineCsvRow(file, originalQuestionId(row.question_id)));
+  return Papa.unparse({ fields: Object.keys(rows[0]), data: rows });
 }
 export const editorialCsvIds = (file?: string) => [
   ...new Set(
     allCsvChanges
       .filter((entry) => !file || entry.file === file)
+      .filter((entry) => !removedIds.has(entry.id))
       .map((entry) => entry.id),
   ),
 ];
@@ -96,12 +106,22 @@ export function assertEditorialSource(
   };
   const original = parse(raw);
   const edited = parse(app);
-  assert.deepEqual(edited.meta.fields, original.meta.fields, publicPath);
+  assert.deepEqual(
+    edited.meta.fields,
+    original.meta.fields?.filter((key) => key !== "memory_anchor"),
+    publicPath,
+  );
   const additions = integrated.additions.filter((entry) => entry.file === publicPath);
-  assert.equal(edited.data.length, original.data.length + additions.length, publicPath);
+  const retained = original.data.filter((row) => !removedIds.has(row.question_id));
+  for (const row of original.data.filter((row) => removedIds.has(row.question_id))) {
+    const removal = removals.find((entry) => entry.id === row.question_id)!;
+    assert.equal(row.knowledge_id, removal.knowledgeId, `${row.question_id}: ausdrücklich entferntes Lernziel`);
+    assert(edited.data.some((current) => current.question_id === removal.replacementId), `${row.question_id}: angegebenes Ersatzziel vorhanden`);
+  }
+  assert.equal(edited.data.length, retained.length + additions.length, publicPath);
   const changes: string[] = [];
-  for (const [index, row] of edited.data.slice(0, original.data.length).entries()) {
-    const before = original.data[index];
+  for (const [index, row] of edited.data.slice(0, retained.length).entries()) {
+    const before = retained[index];
     const id = row.question_id;
     let expected = before;
     const proofs = csvChanges.filter(
@@ -127,9 +147,9 @@ export function assertEditorialSource(
         assert.equal(row.knowledge_id, before.knowledge_id, `${id}: stabiles Lernziel`);
       }
     }
-    assert.deepEqual(row, expected, `${id}: dokumentierter Endstand`);
+    assert.deepEqual(row, activeRow(expected), `${id}: dokumentierter Endstand`);
     if (proofs.length || current) changes.push(before.question_id);
   }
-  assert.deepEqual(edited.data.slice(original.data.length), additions.map((entry) => entry.row), `${publicPath}: geprüfte Ergänzungen`);
+  assert.deepEqual(edited.data.slice(retained.length), additions.map((entry) => activeRow(entry.row)), `${publicPath}: geprüfte Ergänzungen`);
   return { questions: edited.data.length, changes };
 }

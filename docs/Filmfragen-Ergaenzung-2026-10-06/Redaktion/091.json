@@ -32,12 +32,12 @@
       ],
       "short": "Oskar (Kåre Hedebrant) wird schikaniert.",
       "context": "Oskar (Kåre Hedebrant) wird schikaniert. Seine Rachefantasien stehen neben der Hilflosigkeit im Alltag; die neue Freundschaft mit Eli verändert auch seinen Umgang mit den Angreifern.",
-      "anchor": "Die Freundschaft beginnt bei einem bedrohten Außenseiter.",
       "interest": "Die Freundschaft beginnt bei einem bedrohten Außenseiter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Freundschaft beginnt bei einem bedrohten Außenseiter."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Eli braucht menschliches Blut.",
       "context": "Eli braucht menschliches Blut. Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) ist dadurch trotz der kindlichen Erscheinung an Gewalt gebunden; die Nähe zu Oskar (Kåre Hedebrant) hebt diese Voraussetzung nicht auf.",
-      "anchor": "Kindliche Nähe und blutiger Lebensbedarf bleiben gleichzeitig bestehen.",
       "interest": "Kindliche Nähe und blutiger Lebensbedarf bleiben gleichzeitig bestehen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kindliche Nähe und blutiger Lebensbedarf bleiben gleichzeitig bestehen."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Die beiden tauschen codierte Klopfzeichen aus.",
       "context": "Die beiden tauschen codierte Klopfzeichen aus. Oskar (Kåre Hedebrant) und Eli (Lina Leandersson) schaffen so eine private Verbindung, die räumliche Trennung und fehlende Alltagssprache überbrückt.",
-      "anchor": "Der Code schafft Nähe durch eine trennende Wand.",
       "interest": "Der Code schafft Nähe durch eine trennende Wand.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Code schafft Nähe durch eine trennende Wand."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Håkan (Per Ragnar) verhindert mit Säure seine Identifizierung.",
       "context": "Håkan (Per Ragnar) verhindert mit Säure seine Identifizierung. Der gescheiterte Angriff zur Blutbeschaffung gefährdet zugleich Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan); seine Selbstverletzung dient damit der Geheimhaltung auf eigene Kosten.",
-      "anchor": "Das unkenntliche Gesicht soll Eli nach dem Fehlschlag schützen.",
       "interest": "Das unkenntliche Gesicht soll Eli nach dem Fehlschlag schützen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das unkenntliche Gesicht soll Eli nach dem Fehlschlag schützen."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Eli blutet nach dem unerlaubten Eintritt.",
       "context": "Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) blutet nach dem unerlaubten Eintritt. Oskar (Kåre Hedebrant) gibt daraufhin seine Zustimmung; die Szene macht eine Vampirregel zum gefährlichen Test innerhalb ihrer Beziehung.",
-      "anchor": "Oskars Zustimmung beendet den selbstgefährdenden Eintritt.",
       "interest": "Oskars Zustimmung beendet den selbstgefährdenden Eintritt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Oskars Zustimmung beendet den selbstgefährdenden Eintritt."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Oskar (Kåre Hedebrant) fährt mit Elis Kiste im Zug.",
       "context": "Oskar (Kåre Hedebrant) fährt mit der Kiste von Eli (Lina Leandersson; schwedische Stimme: Elif Ceylan) im Zug. Die Klopfzeichen führen ihre Verbindung fort; das Bild zeigt zugleich, dass Nähe auch die praktische Begleitung des Vampirs einschließt.",
-      "anchor": "Die gemeinsame Reise setzt die private Codesprache fort.",
       "interest": "Die gemeinsame Reise setzt die private Codesprache fort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gemeinsame Reise setzt die private Codesprache fort."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 2008 erstmals veröffentlicht.",
       "context": "2008 erschien die Adaption von Lindqvists Roman aus dem Jahr 2004, vier Jahre nach der Vorlage. Die amerikanische Neuverfilmung Let Me In folgte 2010, zwei Jahre nach dem schwedischen Original.",
-      "anchor": "Lindqvists Roman von 2004 wurde vier Jahre später, 2008, erstmals verfilmt.",
       "interest": "Lindqvists Roman von 2004 wurde vier Jahre später, 2008, erstmals verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Lindqvists Roman von 2004 wurde vier Jahre später, 2008, erstmals verfilmt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Tomas Alfredson.",
       "context": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter. Viele Erklärungen des Romans wurden reduziert; die ruhige Kamera und das winterliche Umfeld geben ihrer Annäherung mehr Raum als einer bloßen Folge von Vampirangriffen.",
-      "anchor": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter.",
       "interest": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Alfredson konzentrierte die Adaption auf die Beziehung der beiden Außenseiter."
     }
   ]
 }

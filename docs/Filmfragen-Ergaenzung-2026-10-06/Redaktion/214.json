@@ -42,12 +42,12 @@
       ],
       "short": "Tom Stall (Viggo Mortensen) führt ein Diner in einer Kleinstadt in Indiana.",
       "context": "Tom Stall (Viggo Mortensen) führt ein Diner in einer Kleinstadt in Indiana. Seine scheinbar gewöhnliche Existenz wird durch einen Überfall und die folgende öffentliche Aufmerksamkeit erschüttert.",
-      "anchor": "Das Kleinstadt-Diner wird zum Schauplatz einer verborgenen Vergangenheit.",
       "interest": "Das Kleinstadt-Diner wird zum Schauplatz einer verborgenen Vergangenheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Kleinstadt-Diner wird zum Schauplatz einer verborgenen Vergangenheit."
     },
     {
       "code": "L2",
@@ -66,12 +66,12 @@
       ],
       "short": "Tom Stall (Viggo Mortensen) stoppt einen Überfall, als die Täter eine Bedienung bedrohen.",
       "context": "Tom Stall (Viggo Mortensen) stoppt einen Überfall, als die Täter eine Bedienung bedrohen. Sein präzises, tödliches Handeln macht ihn zum gefeierten Helden und damit für frühere Bekannte auffindbar.",
-      "anchor": "Die Heldengeschichte bringt Aufmerksamkeit und Gefahr.",
       "interest": "Die Heldengeschichte bringt Aufmerksamkeit und Gefahr.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Heldengeschichte bringt Aufmerksamkeit und Gefahr."
     },
     {
       "code": "M1",
@@ -90,12 +90,12 @@
       ],
       "short": "Carl Fogarty (Ed Harris) behauptet, Tom (Viggo Mortensen) sei Joey Cusack aus Philadelphia.",
       "context": "Carl Fogarty (Ed Harris) behauptet, Tom (Viggo Mortensen) sei Joey Cusack aus Philadelphia. Tom bestreitet dies, aber die Anschuldigung bringt seine Familie gegen seine bisherige Lebensgeschichte auf.",
-      "anchor": "Fogarty stellt Toms Familienidentität infrage.",
       "interest": "Fogarty stellt Toms Familienidentität infrage.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Fogarty stellt Toms Familienidentität infrage."
     },
     {
       "code": "M2",
@@ -114,12 +114,12 @@
       ],
       "short": "Tom (Viggo Mortensen) kritisiert Jack (Ashton Holmes), der einen Schulschläger verprügelt hat.",
       "context": "Tom (Viggo Mortensen) kritisiert Jack (Ashton Holmes), der einen Schulschläger verprügelt hat. Seine eigene Gewaltbereitschaft untergräbt die väterliche Forderung und prägt Jacks spätere Reaktion auf Fogarty.",
-      "anchor": "Der Vater fordert Gewaltverzicht, den seine Taten nicht einlösen.",
       "interest": "Der Vater fordert Gewaltverzicht, den seine Taten nicht einlösen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Vater fordert Gewaltverzicht, den seine Taten nicht einlösen."
     },
     {
       "code": "S1",
@@ -138,12 +138,12 @@
       ],
       "short": "Richie Cusack (William Hurt) macht Tom (Viggo Mortensen) für eigene Nachteile in der Mafia verantwortlich.",
       "context": "Richie Cusack (William Hurt) macht Tom (Viggo Mortensen) für eigene Nachteile in der Mafia verantwortlich. Das Treffen in Philadelphia wird zum Mordversuch, den Tom nur durch neue Gewalt überlebt.",
-      "anchor": "Die alte Schuld verwandelt die Heimkehr in eine Falle.",
       "interest": "Die alte Schuld verwandelt die Heimkehr in eine Falle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die alte Schuld verwandelt die Heimkehr in eine Falle."
     },
     {
       "code": "S2",
@@ -162,12 +162,12 @@
       ],
       "short": "Tom (Viggo Mortensen) kehrt an den Esstisch zurück.",
       "context": "Tom (Viggo Mortensen) kehrt an den Esstisch zurück. Sarah (Heidi Hayes) reicht ihm einen Teller, Jack (Ashton Holmes) Nahrung; die wortlose Geste eröffnet eine unsichere Möglichkeit des Zusammenlebens, ohne das Vertrauen einfach wiederherzustellen.",
-      "anchor": "Der gedeckte Tisch erlaubt Rückkehr, ohne Versöhnung zu garantieren.",
       "interest": "Der gedeckte Tisch erlaubt Rückkehr, ohne Versöhnung zu garantieren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der gedeckte Tisch erlaubt Rückkehr, ohne Versöhnung zu garantieren."
     },
     {
       "code": "Y",
@@ -186,14 +186,14 @@
       ],
       "short": "2005 erschien der Film.",
       "context": "2005 erschien der Film. Zwei Jahre später folgte 2007 Tödliche Versprechen, erneut mit David Cronenberg und Viggo Mortensen und einer verborgenen Identität im Milieu organisierter Gewalt.",
-      "anchor": "A History of Violence 2005, Tödliche Versprechen 2007: Zwei Jahre später untersuchen Cronenberg und Mortensen erneut eine verborgene Identität.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "A History of Violence 2005, Tödliche Versprechen 2007: Zwei Jahre später untersuchen Cronenberg und Mortensen erneut eine verborgene Identität."
     },
     {
       "code": "D",
@@ -212,13 +212,13 @@
       ],
       "short": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson.",
       "context": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson. Die Adaption einer Graphic Novel verlagert ihre Spannung auf das Familienleben und die körperlichen Folgen einer verdrängten Vergangenheit.",
-      "anchor": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson.",
       "interest": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "David Cronenberg führte Regie nach einem Drehbuch von Josh Olson."
     }
   ]
 }

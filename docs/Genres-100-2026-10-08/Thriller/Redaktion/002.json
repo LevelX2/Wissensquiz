@@ -30,11 +30,11 @@
       ],
       "short": "Guy Haines ist Tennisspieler.",
       "context": "Guy Haines (Farley Granger) ist ein Tennisspieler, den Bruno Antony (Robert Walker) bereits aus der Öffentlichkeit kennt. Diese Bekanntheit erleichtert Bruno die Kontaktaufnahme im Zug. Später erschwert ein Turnier Guys Versuch, rechtzeitig an einen anderen Ort zu gelangen. Der Sport bleibt damit Teil der Handlung und wird im letzten Abschnitt sogar mit der Verfolgung parallel geschnitten.",
-      "anchor": "Guy Haines ist Tennisspieler.",
       "interest": "Verbindet Beruf und zeitliche Spannung im Finale.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Guy Haines ist Tennisspieler."
     },
     {
       "code": "L2",
@@ -53,11 +53,11 @@
       ],
       "short": "Bruno schlägt einen wechselseitigen Mordtausch vor.",
       "context": "Bruno Antony (Robert Walker) will seinen Vater loswerden, Guy Haines (Farley Granger) leidet unter seiner Ehe mit Miriam (Kasey Rogers). Bruno schlägt vor, die jeweiligen Morde füreinander zu begehen. Ein Ermittler soll dann keinen persönlichen Beweggrund beim tatsächlichen Täter finden. Guy hält die Unterhaltung für eine bizarre Theorie; Bruno behandelt sie dagegen als verbindliche Abmachung.",
-      "anchor": "Bruno schlägt einen wechselseitigen Mordtausch vor.",
       "interest": "Erfasst die Prämisse und das fatale Missverständnis.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Bruno schlägt einen wechselseitigen Mordtausch vor."
     },
     {
       "code": "M1",
@@ -76,11 +76,11 @@
       ],
       "short": "Guys wirklicher Zugbegleiter erinnert sich wegen seiner Trunkenheit nicht.",
       "context": "Zur Zeit von Miriams (Kasey Rogers) Ermordung fährt Guy (Farley Granger) im Zug und begegnet einem Professor. Eigentlich könnte der Mitreisende seine Anwesenheit bestätigen. Der Mann war jedoch betrunken und erinnert sich später nicht an Guy. Die Handlung gibt dem Zuschauer damit Wissen, das die Ermittler nicht zuverlässig erhalten: Ein tatsächliches Alibi wird durch die Schwäche des Zeugen wirkungslos.",
-      "anchor": "Guys wirklicher Zugbegleiter erinnert sich wegen seiner Trunkenheit nicht.",
       "interest": "Zeigt den Unterschied zwischen Wahrheit und nachweisbarem Alibi.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Guys wirklicher Zugbegleiter erinnert sich wegen seiner Trunkenheit nicht."
     },
     {
       "code": "M2",
@@ -99,11 +99,11 @@
       ],
       "short": "Bruno will Guys persönliches Feuerzeug am Tatort hinterlassen.",
       "context": "Guy (Farley Granger) lässt im Zug ein Feuerzeug zurück, das Bruno (Robert Walker) an sich nimmt. Seine Gravur macht es zu einem erkennbar persönlichen Gegenstand. Bruno möchte es später dort hinterlassen, wo er Miriam (Kasey Rogers) getötet hat. Guy muss deshalb nicht nur seine Unschuld erklären, sondern eine künstlich erzeugte Verbindung zum Tatort rechtzeitig verhindern.",
-      "anchor": "Bruno will Guys persönliches Feuerzeug am Tatort hinterlassen.",
       "interest": "Erklärt das Beweisstück, das den letzten Wettlauf antreibt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Bruno will Guys persönliches Feuerzeug am Tatort hinterlassen."
     },
     {
       "code": "S1",
@@ -122,11 +122,11 @@
       ],
       "short": "Barbaras Brille ruft bei Bruno die Erinnerung an Miriam hervor.",
       "context": "Auf einer Gesellschaft demonstriert Bruno (Robert Walker) das Erwürgen und verliert dabei bedrohlich die Kontrolle. Barbara Morton (Patricia Hitchcock) erinnert ihn mit ihrer Brille an Miriam (Kasey Rogers), die er tatsächlich ermordet hat. Die scherzhafte Vorführung wird durch diese optische Verbindung zum Wiedererleben der Tat. Anne Morton (Ruth Roman) erkennt dadurch, dass die Situation weit ernster ist als ein geschmackloser Partywitz.",
-      "anchor": "Barbaras Brille ruft bei Bruno die Erinnerung an Miriam hervor.",
       "interest": "Verbindet ein wiederkehrendes Bildmotiv mit seiner psychischen Reaktion.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Barbaras Brille ruft bei Bruno die Erinnerung an Miriam hervor."
     },
     {
       "code": "S2",
@@ -145,11 +145,11 @@
       ],
       "short": "Der Mord erscheint in der Spiegelung von Miriams Brille.",
       "context": "Miriams (Kasey Rogers) Brille fällt während des Angriffs zu Boden. Hitchcock lässt die Ermordung in ihren Gläsern erscheinen, statt nur unmittelbar auf die Körper zu blicken. Das scheinbar nebensächliche Objekt wird so zum Träger eines besonders einprägsamen Gewaltbildes. Die Brille kehrt später als optischer Auslöser wieder, wenn Barbara Morton (Patricia Hitchcock) Bruno Antony (Robert Walker) an das Opfer erinnert.",
-      "anchor": "Der Mord erscheint in der Spiegelung von Miriams Brille.",
       "interest": "Fragt nach der besonderen Bildgestaltung einer Schlüsselszene.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Mord erscheint in der Spiegelung von Miriams Brille."
     },
     {
       "code": "Y",
@@ -168,12 +168,12 @@
       ],
       "short": "1950 Highsmiths Roman, 1951 der Film: ein Jahr Abstand.",
       "context": "Patricia Highsmiths Roman Strangers on a Train erschien 1950; Hitchcocks Film folgte 1951, nur ein Jahr später. Die rasche Verfilmung macht die zeitliche Nähe zwischen literarischer Vorlage und Kinobearbeitung merkbar. Farley Granger spielt den Tennisspieler Guy Haines, Robert Walker den aufdringlichen Bruno Antony. Das Mordtauschmotiv verbindet die beiden Werke, ohne sie in allen Handlungsschritten gleichzusetzen.",
-      "anchor": "1950 Highsmiths Roman, 1951 der Film: ein Jahr Abstand.",
       "interest": "Verknüpft das Filmjahr mit der frischen literarischen Vorlage.",
       "sources": [
         "film",
         "archiv"
-      ]
+      ],
+      "objective": "1950 Highsmiths Roman, 1951 der Film: ein Jahr Abstand."
     },
     {
       "code": "D",
@@ -192,12 +192,12 @@
       ],
       "short": "Alfred Hitchcock inszenierte den Mordtauschthriller.",
       "context": "Alfred Hitchcock verbindet in diesem Film die Begegnung zweier Fremder mit der Angst vor einem scheinbar perfekten Mordplan. Farley Granger und Robert Walker verkörpern zwei Männer, die dieselbe Unterhaltung völlig unterschiedlich verstehen. Die Inszenierung stellt Sport, Verfolgung und das wiederkehrende Feuerzeug nebeneinander. Patricia Highsmith lieferte die Romanvorlage; der filmische Regiecredit gehört Hitchcock.",
-      "anchor": "Alfred Hitchcock inszenierte den Mordtauschthriller.",
       "interest": "Trennt die Romanvorlage von der Filmregie.",
       "sources": [
         "film",
         "archiv"
-      ]
+      ],
+      "objective": "Alfred Hitchcock inszenierte den Mordtauschthriller."
     }
   ]
 }

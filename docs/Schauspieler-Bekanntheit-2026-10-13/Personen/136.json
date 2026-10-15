@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Tōno spielt Tokugawa Mitsukuni, den zurückgezogen lebenden Fürsten von Mito.",
       "context": "Zu Beginn lebt Mitsukuni ruhig auf seinem Landsitz, arbeitet an einer Geschichtsdarstellung und unterrichtet Kinder. Ein verdächtiger Selbstmord in seinem Umfeld veranlasst ihn, unerkannt nach Edo aufzubrechen. Die Serie verbindet damit die Reisen eines scheinbar gewöhnlichen alten Mannes mit der Autorität, die hinter seiner verborgenen Herkunft steht. Tōno führte diese TBS-Reihe als Hauptdarsteller an.",
-      "anchor": "Hinter dem unscheinbaren Reisenden steht der frühere Fürst von Mito.",
       "interest": "Die Rolle erschließt Tōnos prägende Fernseharbeit neben seinen Kinofilmen.",
       "feedback": [
         "Tōno spielt Tokugawa Mitsukuni, den zurückgezogen lebenden Fürsten von Mito.",
@@ -30,7 +29,8 @@
       "extraSources": [
         "https://www.tbs.co.jp/tbs-ch/item/d0134/",
         "https://www.tbs.co.jp/mito/mito13/"
-      ]
+      ],
+      "objective": "Hinter dem unscheinbaren Reisenden steht der frühere Fürst von Mito."
     },
     {
       "code": "L2",
@@ -44,7 +44,6 @@
       "correct": 1,
       "short": "Gonji ist der Wirt einer Schenke.",
       "context": "Der herrenlose Samurai Sanjūrō (Toshirō Mifune) kommt in eine von zwei rivalisierenden Banden beherrschte Stadt. Gonji gehört zu den Bewohnern, die keine der beiden Seiten als anständigen Beschützer ansehen. Seine Schenke bietet dem Fremden einen Ort, an dem er die Lage erfassen kann. Der Wirt wird so zu einer wichtigen Verbindung zwischen dem Einzelgänger und dem Alltag der bedrohten Stadt.",
-      "anchor": "Der Wirt kennt die Lage der Stadt und hilft dem fremden Samurai.",
       "interest": "Der Beruf verankert die Nebenfigur im gesellschaftlichen Konflikt.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       "extraSources": [
         "https://de.wikipedia.org/wiki/Yojimbo_%E2%80%93_Der_Leibw%C3%A4chter",
         "https://www.criterion.com/films/597-yojimbo"
-      ]
+      ],
+      "objective": "Der Wirt kennt die Lage der Stadt und hilft dem fremden Samurai."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Sakuma ist ihr früherer Lehrer für chinesische Klassiker.",
       "context": "Bei einem Treffen der ehemaligen Schüler trinkt Sakuma zu viel. Hirayama (Chishū Ryū) und Kawai (Nobuo Nakamura) bringen ihn nach Hause und entdecken, dass er inzwischen eine einfache Nudelküche betreibt. Die Wiederbegegnung verändert ihren Blick auf den früheren Lehrer: Hinter der komischen Feier werden sein wirtschaftlicher Abstieg und die Einsamkeit des Haushalts sichtbar.",
-      "anchor": "Die alten Schüler entdecken das heutige Leben ihres früheren Lehrers.",
       "interest": "Die Beziehung erklärt die Mischung aus Respekt, Geselligkeit und späterer Fürsorge.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/An_Autumn_Afternoon"
-      ]
+      ],
+      "objective": "Die alten Schüler entdecken das heutige Leben ihres früheren Lehrers."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Tomekichi wirkt zunächst gleichgültig gegenüber ihrer Krankheit, wird durch ihren Tod aber gebrochen.",
       "context": "In der heruntergekommenen Unterkunft leben Menschen, die sich kaum gegen ihre Armut behaupten können. Auch Tomekichis kranke Frau Asa (Eiko Miyoshi) findet dort wenig Trost. Seine anfängliche Härte bedeutet jedoch nicht, dass ihr Tod spurlos an ihm vorbeigeht. Die Veränderung lässt hinter dem abweisenden Verhalten eine Verletzbarkeit hervortreten, die im täglichen Kampf ums Überleben verdeckt geblieben ist.",
-      "anchor": "Die scheinbare Gleichgültigkeit schützt Tomekichi nicht vor der Trauer.",
       "interest": "Die Entwicklung erschließt eine Nebenfigur über ihr anfängliches Auftreten hinaus.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Lower_Depths_(1957_film)"
-      ]
+      ],
+      "objective": "Die scheinbare Gleichgültigkeit schützt Tomekichi nicht vor der Trauer."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 2,
       "short": "Gonji organisiert Sanjūrōs Flucht in einem Sarg.",
       "context": "Nachdem die Bande seinen Verrat entdeckt hat, ist Sanjūrō (Toshirō Mifune) schwer misshandelt worden. Gonji arbeitet mit dem Sargmacher zusammen, um ihn aus der Stadt zu schaffen. Außerhalb kann der Samurai sich erholen. Die alltägliche Begleiterscheinung der Gewalt wird damit zum Mittel, einen noch lebenden Menschen vor ihren Folgen zu retten.",
-      "anchor": "Ein Sarg wird zum Fluchtmittel für einen Überlebenden.",
       "interest": "Die Rettung zeigt, wie der Wirt den scheinbar überlegenen Einzelkämpfer unterstützt.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "knowledge_id": "K-F240-20261006-122-S1",
       "variant_of": "F240-20261006-122-S1",
-      "knowledge_note": "Dasselbe Rettungsziel wie die Filmfrage; die Personenfrage richtet den Blick auf Gonjis Hilfe."
+      "knowledge_note": "Dasselbe Rettungsziel wie die Filmfrage; die Personenfrage richtet den Blick auf Gonjis Hilfe.",
+      "objective": "Ein Sarg wird zum Fluchtmittel für einen Überlebenden."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 1,
       "short": "Sakumas Tochter hat ihr eigenes Leben zugunsten der Betreuung des Vaters zurückgestellt.",
       "context": "Der frühere Lehrer lebt mit seiner unverheirateten, verbitterten Tochter (Haruko Sugimura). Hirayama erkennt darin eine mögliche Zukunft für Michiko (Shima Iwashita), die ebenfalls den väterlichen Haushalt führt. Die Begegnung verbindet die Angst des alten Mannes vor Einsamkeit mit den Kosten, die seine Bequemlichkeit für die Tochter haben kann. Sie bestärkt ihn darin, deren Heirat nicht länger aufzuschieben.",
-      "anchor": "Die Tochter des Lehrers zeigt, was dauerhaftes Bleiben im Elternhaus kosten kann.",
       "interest": "Die Nebenhandlung verändert die Entscheidung im zentralen Vater-Tochter-Konflikt.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/667-an-autumn-afternoon-a-fond-farewell"
-      ]
+      ],
+      "objective": "Die Tochter des Lehrers zeigt, was dauerhaftes Bleiben im Elternhaus kosten kann."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 0,
       "short": "Lange Einstellungen und mehrere Kameras lassen das Ensemble zugleich als Gruppe und in einzelnen Reaktionen sichtbar werden.",
       "context": "In der engen Unterkunft besitzt keine einzelne Figur dauerhaft das Zentrum. Kurosawa beobachtet die Bewohner aus verschiedenen Blickwinkeln und verbindet ihre Reaktionen miteinander. Das Verfahren bewahrt die Dichte einer gemeinsam gespielten Szene und ermöglicht zugleich eine filmische Gliederung des Raums. Tomekichis Verhalten ist dadurch Teil eines Geflechts aus Ausweglosigkeit, Streit, Illusionen und kleinen Hilfen.",
-      "anchor": "Mehrere Kameras erschließen ein gemeinsam handelndes Ensemble.",
       "interest": "Die Methode verbindet den Theaterursprung mit der filmischen Darstellung einer sozialen Gruppe.",
       "feedback": [
         "Lange Einstellungen und mehrere Kameras lassen das Ensemble zugleich als Gruppe und in einzelnen Reaktionen sichtbar werden.",
@@ -196,7 +195,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/333-akira-kurosawa-s-the-lower-depths"
-      ]
+      ],
+      "objective": "Mehrere Kameras erschließen ein gemeinsam handelndes Ensemble."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 2,
       "short": "Ein Jōruri-Erzähler und bewusst künstliche Bühnenräume prägen den Film.",
       "context": "Kinoshita eröffnet das Geschehen mit einem schwarz gekleideten Erzähler und einem Vorhang, der den Blick auf ein stilisiertes Dorf freigibt. Die Bilder verbergen ihre Herkunft aus gestalteten Studiodekorationen nicht. Gesang und Kommentar begleiten eine Geschichte, in der alte Menschen auf einem Berg zum Sterben zurückgelassen werden. Die strenge Form gibt dem grausamen Stoff den Charakter eines Rituals.",
-      "anchor": "Vorhang, Erzähler und künstliche Räume machen die Überlieferung als Aufführung sichtbar.",
       "interest": "Die Frage unterscheidet die bewusst theatralische Gestaltung von einer naturalistischen Darstellung desselben Stoffes.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/2649-the-ballad-of-narayama-abandonment",
         "https://www.criterion.com/films/28240-the-ballad-of-narayama"
-      ]
+      ],
+      "objective": "Vorhang, Erzähler und künstliche Räume machen die Überlieferung als Aufführung sichtbar."
     }
   ]
 }

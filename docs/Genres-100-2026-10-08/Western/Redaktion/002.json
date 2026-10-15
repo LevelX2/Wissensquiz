@@ -34,12 +34,12 @@
       ],
       "short": "Cat kehrt als angehende Lehrerin zurück.",
       "context": "Cat (Jane Fonda) beginnt ihre Geschichte mit einer bürgerlichen Berufsperspektive: Sie möchte Lehrerin werden und kehrt nach ihrer Ausbildung nach Hause zurück. Erst die Bedrohung ihrer Familie führt sie in eine andere Richtung. Die Westernkomödie entwickelt ihre Gesetzlose damit aus einem Konflikt heraus, statt sie von Anfang an als erfahrene Banditin oder professionelle Revolverheldin einzuführen.",
-      "anchor": "Die künftige Lehrerin wird zur Gesetzlosen.",
       "interest": "Erkennt die Ausgangslage vor der Veränderung der Hauptfigur.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die künftige Lehrerin wird zur Gesetzlosen."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Shelleen entpuppt sich als heruntergekommener Trinker.",
       "context": "Cat (Jane Fonda) sucht einen berühmten Schützen zum Schutz ihres Vaters und bekommt mit Kid Shelleen (Lee Marvin) zunächst eine Enttäuschung. Der Ruf des Revolverhelden passt kaum zu seinem betrunkenen, verwahrlosten Auftreten. Gerade dieser Abstand zwischen Legende und Wirklichkeit erzeugt Komik. Seine Fähigkeiten sind dennoch vorhanden; die Frage ist, ob er sie im entscheidenden Moment wieder kontrollieren kann.",
-      "anchor": "Großer Ruf, heruntergekommener Schütze.",
       "interest": "Erfasst den komischen Gegensatz beim ersten Auftreten des angeworbenen Helfers.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Großer Ruf, heruntergekommener Schütze."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Die Gesellschaft will Frankies Ranchland bekommen.",
       "context": "Frankie Ballou (John Marley) soll sein Ranchland zugunsten der Wolf City Development Corporation aufgeben. Die Bedrohung kommt damit nicht nur von einem einzelnen Schützen, sondern von wirtschaftlichen Interessen, die sich Gewalt zunutze machen. Cat (Jane Fonda) versucht zunächst, ihren Vater zu schützen. Hinter der komischen Oberfläche steht ein vertrauter Westernkonflikt um Landbesitz, Macht und die Durchsetzung privaten Gewinns.",
-      "anchor": "Die Gesellschaft greift nach dem Ranchland.",
       "interest": "Verbindet die familiäre Bedrohung mit dem wirtschaftlichen Gegner.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Gesellschaft greift nach dem Ranchland."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Sie erzählen und kommentieren Cats Geschichte singend.",
       "context": "Nat King Cole und Stubby Kaye rahmen die Handlung als singende Erzähler. Ihre Ballade berichtet vom Weg der Cat Ballou (Jane Fonda) und richtet sich an das Publikum. Damit entsteht Abstand zum unmittelbar gezeigten Geschehen: Die Geschichte wird zugleich erlebt und kommentiert. Die musikalische Rahmung trägt zur Form einer Westernballade bei und hält die Komödie auch in bedrohlichen Situationen präsent.",
-      "anchor": "Zwei Sänger erzählen die Ballade.",
       "interest": "Erkennt ein Gestaltungsmittel statt eines weiteren Handlungsmotivs.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Zwei Sänger erzählen die Ballade."
     },
     {
       "code": "S1",
@@ -130,13 +130,13 @@
       ],
       "short": "Shelleen erklärt nach dem Duell, dass Strawn sein Bruder war.",
       "context": "Lee Marvin spielt sowohl den heruntergekommenen Kid Shelleen als auch den bedrohlichen Tim Strawn. Nach ihrer tödlichen Konfrontation erklärt Shelleen, dass Strawn sein Bruder war. Die Doppelbesetzung hat damit eine konkrete Entsprechung innerhalb der Handlung. Der Film stellt nicht lediglich zwei ähnliche Gesichter gegenüber, sondern verbindet gegensätzliche Schützenfiguren durch eine spät enthüllte familiäre Beziehung.",
-      "anchor": "Zwei Lee-Marvin-Rollen, zwei Brüder.",
       "interest": "Erkennt die konkrete Handlungsbedeutung der Doppelrolle.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Zwei Lee-Marvin-Rollen, zwei Brüder."
     },
     {
       "code": "S2",
@@ -155,13 +155,13 @@
       ],
       "short": "Jed erscheint erneut als Prediger und schneidet den Strick durch.",
       "context": "Jed (Dwayne Hickman) hatte bereits während der Zugreise mit einer Predigerverkleidung einen Gesetzeshüter abgelenkt. Bei der Rettung von Cat (Jane Fonda) greift er auf dieselbe Tarnrolle zurück. Er schneidet den Strick im entscheidenden Moment durch, sodass sie auf einen Wagen fällt und entkommen kann. Die Wiederholung einer früheren Täuschung wird dadurch zum gezielt vorbereiteten komischen Schluss der Geschichte.",
-      "anchor": "Die Predigertarnung kehrt am Galgen zurück.",
       "interest": "Verknüpft den Rettungsplan mit einem früher eingeführten Handlungsmittel.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Predigertarnung kehrt am Galgen zurück."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "Die Erstveröffentlichung war 1965.",
       "context": "Roy Chanslors Roman The Ballad of Cat Ballou erschien 1956. Die Verfilmung startete 1965, neun Jahre später. Der Film übernimmt eine Rachegeschichte, gibt ihr aber den Rahmen einer musikalisch kommentierten Westernkomödie. Die singenden Erzähler halten bereits die Form einer Ballade präsent. Der zeitliche Abstand verbindet somit einen Stoff der fünfziger Jahre mit seiner komischen Kinogestalt in der Mitte der sechziger Jahre.",
-      "anchor": "Roman 1956, Film 1965: neun Jahre.",
       "interest": "Ordnet die Westernkomödie zur älteren literarischen Vorlage ein.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Roman 1956, Film 1965: neun Jahre."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Elliot Silverstein führte die Hauptregie.",
       "context": "AFI führt Elliot Silverstein als Hauptregisseur und Yakima Canutt gesondert für die zweite Einheit. Diese Arbeitsbereiche werden nicht zu einem gemeinsamen Regieteam zusammengezogen. Silversteins Film verbindet Cats (Jane Fonda) Rachegeschichte mit musikalischer Kommentierung und der gegensätzlichen Doppelrolle Lee Marvins. Der Hauptcredit gehört somit zu einer Inszenierung, deren Komik in Handlung, Erzählrahmen und Figurenauftritt zusammenwirkt.",
-      "anchor": "Elliot Silverstein: Hauptregie der Westernballade.",
       "interest": "Trennt den Hauptregiecredit von der Arbeit einer zweiten Einheit.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Elliot Silverstein: Hauptregie der Westernballade."
     }
   ]
 }

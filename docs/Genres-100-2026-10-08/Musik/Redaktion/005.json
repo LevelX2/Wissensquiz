@@ -33,11 +33,11 @@
       ],
       "short": "Der angekündigte Umzug führt nach New York.",
       "context": "Alonzo Smith (Leon Ames) kündigt seiner Familie an, dass er in das New Yorker Büro seiner Firma versetzt wird. Deshalb sollen alle St. Louis verlassen. Die Nachricht bedroht die Beziehungen, Freundschaften und Zukunftspläne der Kinder. Auch die bevorstehende Weltausstellung gerät außer Reichweite. Ein beruflicher Aufstieg des Vaters erscheint aus Sicht der übrigen Familie daher zunächst als Verlust ihres vertrauten Lebens, nicht als gemeinsame Verbesserung.",
-      "anchor": "Der Aufstieg des Vaters verlangt einen Umzug nach New York.",
       "interest": "Erkennt das konkrete Ziel der bedrohten Ortsveränderung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Aufstieg des Vaters verlangt einen Umzug nach New York."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Tootie beschuldigt John, der die Kinder tatsächlich schützen wollte.",
       "context": "Tootie (Margaret O’Brien) kommt an Halloween verletzt zurück und behauptet, John Truett (Tom Drake) habe ihr etwas angetan. Esther Smith (Judy Garland) stellt ihn daraufhin zur Rede. Später gestehen die Kinder, dass John sie nach einem gefährlichen Streich vor der Polizei schützen wollte. Die falsche Beschuldigung bringt dadurch nicht nur einen Nachbarn in Schwierigkeiten, sondern beschädigt zunächst auch die beginnende Beziehung zwischen ihm und Esther.",
-      "anchor": "Tootie beschuldigt ihren tatsächlichen Helfer John.",
       "interest": "Erkennt die falsche Zuordnung eines wichtigen Zwischenfalls.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Tootie beschuldigt ihren tatsächlichen Helfer John."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Der Großvater übernimmt die Begleitung.",
       "context": "John Truett (Tom Drake) kann Esther Smith (Judy Garland) zunächst nicht zum Weihnachtsball begleiten, weil er seinen Anzug zu spät beim Schneider abholen wollte. Ihr Großvater (Harry Davenport) bietet sich stattdessen an. Er hilft ihr später auch mit unangenehmen Tanzpartnern. Die familiäre Unterstützung macht den Abend möglich, bevor John doch noch erscheint. Der romantische Höhepunkt beginnt somit mit einem Hindernis, das ein anderes Familienmitglied praktisch überbrückt.",
-      "anchor": "Der Großvater überbrückt Johns verhinderten Ballbesuch.",
       "interest": "Erkennt die konkrete Hilfe innerhalb der Familie.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Großvater überbrückt Johns verhinderten Ballbesuch."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Esther nimmt die selbst vorbereitete Zumutung nun auf sich.",
       "context": "Esther Smith (Judy Garland) und Rose Smith (Lucille Bremer) haben Lucille Ballards (June Lockhart) Tanzkarte mit unangenehmen Partnern gefüllt. Sie halten die Besucherin für eine Rivalin. Lucille zeigt sich jedoch freundlich und schlägt selbst die passenden Paarverbindungen vor. Beschämt tauscht Esther die Karten und übernimmt die Folgen ihres eigenen Plans. Der Abend führt dadurch zu einer konkreten Korrektur einer unfairen Einschätzung, die auf einer voreiligen Erwartung beruhte.",
-      "anchor": "Esther übernimmt die Folgen des unfairen Plans gegen Lucille.",
       "interest": "Erklärt den Kartenwechsel als konkrete Veränderung ihres Urteils.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Esther übernimmt die Folgen des unfairen Plans gegen Lucille."
     },
     {
       "code": "S1",
@@ -125,12 +125,12 @@
       ],
       "short": "Tootie zerschlägt die Schneemänner, die zurückbleiben müssten.",
       "context": "Nach dem Weihnachtslied läuft Tootie (Margaret O’Brien) in den Garten und zerstört die Schneemänner, die die Familie beim Umzug zurücklassen müsste. Esther Smith (Judy Garland) beruhigt sie und bringt sie ins Bett. Alonzo Smith (Leon Ames) beobachtet den Ausbruch und überdenkt seine Entscheidung. Die kindliche Handlung macht den Verlust sichtbar, der hinter den praktischen Umzugsplänen steht. Bald darauf kündigt der Vater an, dass die Familie bleiben wird.",
-      "anchor": "Die zerstörten Schneemänner machen den Abschiedsschmerz sichtbar.",
       "interest": "Fragt nach der Handlung nach dem Lied statt dessen bereits vorhandenem Titelziel.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die zerstörten Schneemänner machen den Abschiedsschmerz sichtbar."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Sally Benson wurde zur Grundlage der jüngsten Tochter Tootie.",
       "context": "Das AFI beschreibt Sally Bensons Kindheit in St. Louis als Hintergrund ihrer Familiengeschichten. Die Figur Tootie (Margaret O’Brien) beruht demnach auf der Autorin selbst, während Esther Smith (Judy Garland) durch ihre ältere Schwester angeregt wurde. Die Filmgeschichte gewinnt ihre familiären Beobachtungen somit aus einem persönlichen Erinnerungsstoff. Die Zuordnung betrifft die Vorlage und ihre Bearbeitung, nicht eine Behauptung, dass jede dargestellte Episode unverändert historisch stattgefunden habe.",
-      "anchor": "Die Autorin bildet den biografischen Hintergrund der Figur Tootie.",
       "interest": "Verbindet die Vorlage mit einer konkret benannten Figur.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Die Autorin bildet den biografischen Hintergrund der Figur Tootie."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "Die Weltpremiere fand 1944 statt.",
       "context": "Meet Me in St. Louis erschien 1944. Sally Bensons gleichnamiger Roman wurde 1942 veröffentlicht, zwei Jahre früher, nachdem die Geschichten bereits im New Yorker erschienen waren. Das AFI unterscheidet Magazinserie und Buchfassung ausdrücklich. Der Zeitabstand verbindet den Film mit seiner konkreten literarischen Vorlage. Die Handlung selbst führt dagegen in die Jahre vor der Weltausstellung von 1904 zurück; diese erzählte Zeit ist nochmals von Buch- und Filmveröffentlichung zu trennen.",
-      "anchor": "1942 Roman, 1944 Film: zwei Jahre Abstand.",
       "interest": "Trennt Vorlage, Filmjahr und erzählte Vergangenheit.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "1942 Roman, 1944 Film: zwei Jahre Abstand."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "Vincente Minnelli ist der Hauptregisseur.",
       "context": "Vincente Minnelli inszenierte die Familiengeschichte für den Produzenten Arthur Freed. Das AFI beschreibt seine Beteiligung an der eigens aufgebauten Umgebung und nennt ihn als Hauptregisseur. Die Handlung verbindet verschiedene Jahreszeiten, familiäre Alltagskonflikte und musikalische Auftritte. Der drohende Ortswechsel hält diese Episoden zusammen. Eine zuvor erwogene Besetzung der Regieposition ist dabei von den tatsächlichen Credits zu unterscheiden: Sie begründet keinen zusätzlichen Hauptregisseur des fertiggestellten Films.",
-      "anchor": "Die tatsächliche Hauptregie liegt bei Vincente Minnelli.",
       "interest": "Ordnet die fertige Produktion gegenüber früheren Planungen ein.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Die tatsächliche Hauptregie liegt bei Vincente Minnelli."
     }
   ]
 }

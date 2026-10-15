@@ -39,12 +39,12 @@
       ],
       "short": "Michael erkennt Hanna beim Besuch eines Prozesses im Rahmen seines Jurastudiums.",
       "context": "Der junge Michael (David Kross) hat die Beziehung zu Hanna (Kate Winslet) als private Erfahrung erlebt. Im Gericht erscheint dieselbe Person als ehemalige KZ-Aufseherin. Das Jurastudium zwingt ihn damit in einen Konflikt zwischen emotionaler Erinnerung und der öffentlichen Auseinandersetzung mit ihrer Verantwortung für Verbrechen.",
-      "anchor": "Der Jurastudent erkennt seine frühere Geliebte auf der Anklagebank.",
       "interest": "Die Ausbildung verknüpft Michaels Privatgeschichte mit historischer Verantwortung.",
       "sources": [
         "filmportal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Jurastudent erkennt seine frühere Geliebte auf der Anklagebank."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Hanna arbeitet als Schaffnerin in der Straßenbahn.",
       "context": "Hanna Schmitz (Kate Winslet) begegnet Michael Berg (David Kross), als er unterwegs krank wird. Ihr Beruf wirkt alltäglich und unauffällig. Der spätere Prozess verändert den Blick auf diese erste Begegnung: Eine fürsorgliche Handlung und ein gewöhnliches Arbeitsleben liefern keine verlässliche Auskunft über eine frühere Täterschaft.",
-      "anchor": "Die alltägliche Schaffnerin besitzt eine verschwiegene Vergangenheit.",
       "interest": "Die Figur verbindet normale Gegenwart und verdrängte Geschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die alltägliche Schaffnerin besitzt eine verschwiegene Vergangenheit."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Eine Schriftprobe würde Hannas Analphabetismus offenlegen.",
       "context": "Hanna (Kate Winslet) schämt sich so stark für ihren Analphabetismus, dass sie eine zusätzliche Schuld auf sich nimmt. Michael (David Kross) erkennt den Zusammenhang, greift aber nicht ein. Der Irrtum über die Autorenschaft hebt ihre tatsächliche Verantwortung für die übrigen Verbrechen nicht auf.",
-      "anchor": "Hanna verbirgt die fehlende Schriftkenntnis und belastet sich zusätzlich.",
       "interest": "Die Szene trennt eine falsche Zuschreibung von tatsächlich begangenen Verbrechen.",
       "sources": [
         "analyse"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Hanna verbirgt die fehlende Schriftkenntnis und belastet sich zusätzlich."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Tonaufnahmen und gleiche Buchtexte ermöglichen ihr den Vergleich.",
       "context": "Der erwachsene Michael (Ralph Fiennes) schickt Aufnahmen gelesener Bücher. Hanna (Kate Winslet) verbindet die vertraute Stimme mit den gedruckten Wörtern. Diese Form der Nähe bleibt einseitig: Sie lernt zu schreiben und antwortet, während Michael den direkten persönlichen Austausch weiterhin vermeidet.",
-      "anchor": "Die Stimme auf Kassette wird zur Brücke zum geschriebenen Wort.",
       "interest": "Eine alte Beziehungsform eröffnet Bildung, ersetzt aber keine Aussprache.",
       "sources": [
         "heft"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Stimme auf Kassette wird zur Brücke zum geschriebenen Wort."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Ilana nimmt die Dose an, verweigert jedoch die Geldannahme und Vergebung.",
       "context": "Ilana (Lena Olin) lässt sich von Michael (Ralph Fiennes) keine Vergebung abverlangen. Die Dose erinnert an einen im Lager verlorenen Gegenstand; das Geld bleibt zurückgewiesen. Der Unterschied zwischen Erinnerungsstück und Geldbetrag verhindert, dass Hannas spätes Vermächtnis wie eine einfache Bezahlung für moralischen Ausgleich erscheint.",
-      "anchor": "Die Dose bleibt als Erinnerung; das Geld kauft keine Vergebung.",
       "interest": "Die Szene gibt einer Überlebenden ein eigenes Urteil gegenüber Michaels Versöhnungswunsch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Dose bleibt als Erinnerung; das Geld kauft keine Vergebung."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Michael öffnet sich seiner Tochter an Hannas Grab.",
       "context": "Michael (Ralph Fiennes) fährt mit seiner Tochter Julia (Hannah Herzsprung) zum Grab. Das Ende führt von aufgezeichnetem Vorlesen und lange verschwiegenen Erfahrungen zum persönlichen Erzählen. Seine Geschichte wird damit erstmals Teil eines Gesprächs innerhalb der eigenen Familie, deren Beziehungen zuvor durch sein Schweigen belastet waren.",
-      "anchor": "Am Grab beginnt Michael, seiner Tochter zu erzählen.",
       "interest": "Der Schluss setzt einen kleinen Schritt aus der jahrelangen Verschlossenheit.",
       "sources": [
         "heft"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Am Grab beginnt Michael, seiner Tochter zu erzählen."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "Zwischen der Romanveröffentlichung 1995 und dem Film 2008 liegen 13 Jahre.",
       "context": "Bernhard Schlinks Roman kam 1995 heraus; die englischsprachige Verfilmung folgte 2008. Nach 13 Jahren erreichte der Stoff ein internationales Kinopublikum. David Hare übertrug die Erzählung in ein Drehbuch, das zwischen Lebensabschnitten wechselt und innere Konflikte durch Begegnungen und Schweigen sichtbar macht.",
-      "anchor": "Schlink 1995, Verfilmung 2008: 13 Jahre später.",
       "interest": "Der Zeitanker verbindet den deutschen Roman mit seiner internationalen Bearbeitung.",
       "sources": [
         "filmportal",
         "heft"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Schlink 1995, Verfilmung 2008: 13 Jahre später."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "Stephen Daldry führte Regie.",
       "context": "Stephen Daldry führt eine Geschichte über das Nachkriegsdeutschland mit einem überwiegend deutschsprachigen Ensemble im englischen Original zusammen. David Hare verantwortet die Adaption des Romans. Die Produktionscredits unterscheiden die Regie von der Beteiligung Anthony Minghellas und Sydney Pollacks, deren Namen mit eigenen Regiearbeiten verbunden sind.",
-      "anchor": "Daldry inszeniert Hares Bearbeitung.",
       "interest": "Die Frage ordnet bekannte Filmemacher den konkreten Aufgaben dieses Projekts zu.",
       "sources": [
         "filmportal",
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Daldry inszeniert Hares Bearbeitung."
     }
   ]
 }

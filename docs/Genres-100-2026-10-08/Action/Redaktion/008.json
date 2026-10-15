@@ -33,11 +33,11 @@
       ],
       "short": "Der Lektor ist eine Chiffriermaschine.",
       "context": "Tatiana Romanova (Daniela Bianchi) bietet an, bei der Beschaffung des Lektors zu helfen, wenn Bond (Sean Connery) sie in den Westen begleitet. Das Gerät könnte dem britischen Geheimdienst Zugang zu sowjetischen Nachrichten verschaffen und ist deshalb ein glaubhafter Köder. Bond und seine Vorgesetzten rechnen durchaus mit einer Falle. Der mögliche Gewinn erklärt trotzdem, warum sie das Angebot prüfen und den Einsatz fortsetzen.",
-      "anchor": "Der Lektor ist eine Chiffriermaschine.",
       "interest": "Das zentrale Objekt erklärt, weshalb eine erkennbare Gefahr eingegangen wird.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Lektor ist eine Chiffriermaschine."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Die Flucht aus Istanbul beginnt im Orient-Express.",
       "context": "Nach dem Diebstahl des Lektors steigen Bond und Tatiana (Sean Connery, Daniela Bianchi) zusammen mit Kerim Bey (Pedro Armendáriz) in den Orient-Express. Die Reise soll sie nach Westen bringen. Doch die Abteile und Zwischenhalte eröffnen dem Verfolger neue Möglichkeiten. Der vermeintlich sichere Transport wird zum engen Schauplatz einer weiteren Täuschung, in dem Bond einen Verbündeten verliert und einem falschen Kontaktmann begegnet.",
-      "anchor": "Die Flucht aus Istanbul beginnt im Orient-Express.",
       "interest": "Eine zentrale Ortsveränderung macht die neue Form der Gefahr verständlich.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Flucht aus Istanbul beginnt im Orient-Express."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Tatiana hält Klebbs Operation für einen sowjetischen Geheimdienstauftrag.",
       "context": "Rosa Klebb (Lotte Lenya) hat den sowjetischen Dienst verlassen und arbeitet für SPECTRE. Tatiana Romanova (Daniela Bianchi) weiß davon jedoch nichts. Klebb nutzt ihre frühere Autorität, um die junge Angestellte als ahnungslosen Köder für Bond (Sean Connery) einzusetzen. Tatianas tatsächliche Gefühle und ihr vermeintlicher dienstlicher Auftrag geraten dadurch in einen Konflikt, dessen wahre Auftraggeber sie anfangs gar nicht kennt.",
-      "anchor": "Tatiana hält Klebbs Operation für einen sowjetischen Geheimdienstauftrag.",
       "interest": "Unterscheidet bewusste Täuschung durch Klebb von Tatianas begrenztem Wissen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Tatiana hält Klebbs Operation für einen sowjetischen Geheimdienstauftrag."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Grant übernimmt die Identität des erwarteten britischen Kontaktagenten.",
       "context": "Grant (Robert Shaw) hört mit, welchen britischen Kontaktmann Bond (Sean Connery) bei einem Zwischenhalt erwartet. Er tötet diesen Mann und nimmt seine Stelle ein. Im Zug kann er dadurch als vermeintlicher Verbündeter auftreten, Tatiana (Daniela Bianchi) betäuben und Bond überwältigen. Die Tarnung nutzt keine zufällige Verwechslung, sondern Bonds vorherige Erwartung, endlich Unterstützung durch den eigenen Dienst zu erhalten.",
-      "anchor": "Grant übernimmt die Identität des erwarteten britischen Kontaktagenten.",
       "interest": "Erklärt die konkrete Vertrauensgrundlage einer gefährlichen falschen Identität.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Grant übernimmt die Identität des erwarteten britischen Kontaktagenten."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "SPECTRE will die Tötung als kompromittierendes Mord-und-Selbstmord-Drama tarnen.",
       "context": "Klebb und Grant (Lotte Lenya, Robert Shaw) haben Bond und Tatiana (Sean Connery, Daniela Bianchi) heimlich im Hotel gefilmt. Grant erklärt im Zug, dass beide getötet werden sollen und die Aufnahmen eine angebliche Erpressungsgeschichte stützen würden. So könnte der Tod wie Mord mit anschließendem Selbstmord wirken und den britischen Geheimdienst beschämen. SPECTRE plant also zugleich einen Anschlag und eine falsche öffentliche Deutung.",
-      "anchor": "SPECTRE will die Tötung als kompromittierendes Mord-und-Selbstmord-Drama tarnen.",
       "interest": "Verbindet die heimliche Aufnahme mit dem eigentlichen Rufschädigungsplan.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "SPECTRE will die Tötung als kompromittierendes Mord-und-Selbstmord-Drama tarnen."
     },
     {
       "code": "S2",
@@ -148,11 +148,11 @@
       ],
       "short": "Tatiana erschießt Klebb und rettet Bond.",
       "context": "Rosa Klebb (Lotte Lenya) erscheint im Hotel als Zimmermädchen und greift Bond (Sean Connery) mit einer vergifteten Klinge im Schuh an. Tatiana (Daniela Bianchi) muss sich nun sichtbar gegen die Frau entscheiden, deren vermeintlichem dienstlichen Auftrag sie zunächst gefolgt war. Sie erschießt Klebb und rettet Bond. Der letzte Angriff schließt damit nicht nur eine Actionfolge ab, sondern löst Tatianas ursprüngliche Abhängigkeit von ihrer falschen Auftraggeberin.",
-      "anchor": "Tatiana erschießt Klebb und rettet Bond.",
       "interest": "Tatianas Entscheidung beendet die anfangs wirksame Autorität der Gegenspielerin.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Tatiana erschießt Klebb und rettet Bond."
     },
     {
       "code": "Y",
@@ -171,13 +171,13 @@
       ],
       "short": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand.",
       "context": "Liebesgrüße aus Moskau erschien 1963, ein Jahr nach Dr. No von 1962. Sean Connery kehrte als Bond zurück; der zweite Film führte die zuvor begonnene Kinoreihe weiter und verdichtete den Konflikt mit SPECTRE. Der spätere amerikanische Kinostart 1964 ist für das Erstjahr nicht maßgeblich. Der konkrete Abstand von einem Jahr verankert den Film am Anfang der Reihe, unmittelbar nach Bonds erstem Kinoabenteuer.",
-      "anchor": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand.",
       "interest": "Klärt das Erstjahr anhand des Vorgängers und des späteren US-Starts.",
       "sources": [
         "bfi",
         "archiv",
         "spionage"
-      ]
+      ],
+      "objective": "1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "Terence Young inszenierte Liebesgrüße aus Moskau.",
       "context": "Terence Young führte bei der veröffentlichten Filmfassung Regie. Peter Hunt war für den Schnitt verantwortlich und wurde erst später selbst Bond-Regisseur. Richard Maibaum schrieb das Drehbuch; Johanna Harwood erhielt den Adaptionscredit. Die Verbindung aus Täuschungen, Zugreise und Nahkampf verdichtet Bonds (Sean Connery) Einsatz zu einer Spionagegeschichte, in der der Gegner lange als vermeintlicher Helfer auftreten kann. Die Credits trennen diese unterschiedlichen Gestaltungsleistungen.",
-      "anchor": "Terence Young inszenierte Liebesgrüße aus Moskau.",
       "interest": "Ordnet Regie, Schnitt, Drehbuch und Adaption auseinander.",
       "sources": [
         "archiv",
         "bfi"
-      ]
+      ],
+      "objective": "Terence Young inszenierte Liebesgrüße aus Moskau."
     }
   ],
   "country_note": "BFI-Kurzeintrag nennt nur Vereinigtes Königreich; AFI und Filmquelle nennen Vereinigtes Königreich/USA. Die Zweiländerzuordnung folgt der ausführlicheren AFI-Länderliste."

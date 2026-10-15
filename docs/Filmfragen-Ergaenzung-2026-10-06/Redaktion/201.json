@@ -40,12 +40,12 @@
       ],
       "short": "Gittes soll einen angeblichen Ehebruch dokumentieren.",
       "context": "Gittes soll einen angeblichen Ehebruch dokumentieren. Die Auftraggeberin gibt sich als Evelyn Mulwray aus; das übliche Detektivgeschäft wird dadurch zum Werkzeug einer fremden Kampagne gegen ihren vermeintlichen Ehemann.",
-      "anchor": "Der Routineauftrag ist bereits Teil einer Inszenierung.",
       "interest": "Der Routineauftrag ist bereits Teil einer Inszenierung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Routineauftrag ist bereits Teil einer Inszenierung."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Die Geschichte spielt in Los Angeles.",
       "context": "Die Geschichte spielt in Los Angeles. Die Wasserverwaltung und die Erweiterung des Umlands verbinden den Kriminalfall mit der Entwicklung der Stadt; der Schauplatz trägt damit eine konkrete wirtschaftliche Funktion.",
-      "anchor": "Los Angeles wächst auf einem umkämpften Wassersystem.",
       "interest": "Los Angeles wächst auf einem umkämpften Wassersystem.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Los Angeles wächst auf einem umkämpften Wassersystem."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Gittes (Jack Nicholson) entdeckt nächtliche Wasserablässe trotz Trockenheit.",
       "context": "Gittes (Jack Nicholson) entdeckt nächtliche Wasserablässe trotz Trockenheit. Die künstliche Knappheit macht Landgeschäfte möglich; eine scheinbar natürliche Krise erweist sich damit als Teil einer gezielten wirtschaftlichen Strategie.",
-      "anchor": "Die Knappheit wird durch absichtliche Ablässe erzeugt.",
       "interest": "Die Knappheit wird durch absichtliche Ablässe erzeugt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Knappheit wird durch absichtliche Ablässe erzeugt."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Grundstücke werden im Namen Verstorbener und ahnungsloser Heimresidenten gekauft.",
       "context": "Grundstücke werden im Namen Verstorbener und ahnungsloser Heimresidenten gekauft. Gittes verfolgt einen Namen aus der Todesanzeige; die bürokratische Spur enthüllt, wie die tatsächlichen Interessenten hinter scheinbaren Eigentümern verschwinden.",
-      "anchor": "Die Käuferlisten verschleiern die eigentlichen Landinteressen.",
       "interest": "Die Käuferlisten verschleiern die eigentlichen Landinteressen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Käuferlisten verschleiern die eigentlichen Landinteressen."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Salzwasser in Hollis’ Lunge widerspricht dem Fundort im Süßwasserreservoir.",
       "context": "Salzwasser in Hollis’ Lunge widerspricht dem Fundort im Süßwasserreservoir. Gittes (Jack Nicholson) untersucht deshalb den Salzwasserteich der Mulwrays; der Körper wurde an einen anderen Ort gebracht, um die Todesumstände zu verschleiern.",
-      "anchor": "Das Lungenwasser widerspricht dem scheinbaren Tatort.",
       "interest": "Das Lungenwasser widerspricht dem scheinbaren Tatort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Lungenwasser widerspricht dem scheinbaren Tatort."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Evelyn (Faye Dunaway) erklärt, Hollis trage keine Bifokalgläser.",
       "context": "Evelyn (Faye Dunaway) erklärt, Hollis trage keine Bifokalgläser. Die gefundene Brille führt deshalb zu Noah Cross (John Huston); ein vertrauter Gegenstand verbindet die private Teichszene mit dem politischen Machtträger.",
-      "anchor": "Die falsche Brillenart weist auf den anderen Mann.",
       "interest": "Die falsche Brillenart weist auf den anderen Mann.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die falsche Brillenart weist auf den anderen Mann."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "1974 erschien der Film, seine Handlung liegt 1937.",
       "context": "1974 erschien der Film, seine Handlung liegt 1937. Der Abstand von 37 Jahren macht ihn zu einem rückblickenden Neo-Noir: Ein moderner Film rekonstruiert eine ältere Stadtwelt, in der Wasserpolitik und private Gewalt zusammenwirken.",
-      "anchor": "Handlung 1937, Film 1974: 37 Jahre Abstand machen die Los-Angeles-Geschichte zum rückblickenden Neo-Noir.",
       "interest": "Der Abstand zwischen erzählter Zeit und Veröffentlichung macht den rückblickenden Blick des Films sichtbar.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Handlung 1937, Film 1974: 37 Jahre Abstand machen die Los-Angeles-Geschichte zum rückblickenden Neo-Noir."
     },
     {
       "code": "D",
@@ -209,14 +209,14 @@
       ],
       "short": "Roman Polanski inszenierte nach Robert Townes Drehbuch.",
       "context": "Roman Polanski inszenierte nach Robert Townes Drehbuch. Jack Nicholson spielt Jake Gittes, Faye Dunaway Evelyn Mulwray. Die Ermittlung weitet einen vermeintlichen Ehebruch zum politischen und familiären Machtkomplex aus; der begrenzte Blick des Detektivs verhindert eine allwissende Übersicht.",
-      "anchor": "Roman Polanski inszenierte nach Robert Townes Drehbuch.",
       "interest": "Roman Polanski inszenierte nach Robert Townes Drehbuch.",
       "sources": [
         "eckdaten",
         "credits"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman Polanski inszenierte nach Robert Townes Drehbuch."
     }
   ]
 }

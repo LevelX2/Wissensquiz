@@ -97,7 +97,6 @@ try {
       assert.equal(q.knowledgeId, row.knowledge_id);
       assert.equal(q.context, row.explanation_context);
       assert.equal(q.explanation, row.explanation_short);
-      assert.equal(q.anchor, row.memory_anchor);
       for (const l of "abcd") {
         const answer = q.answers.find((a) => a.id === q.id + ":" + l);
         assert.equal(answer.text, row["answer_" + l]);

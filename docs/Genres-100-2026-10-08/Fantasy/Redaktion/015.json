@@ -33,12 +33,12 @@
       ],
       "short": "Dalia ist die Hofdame und Vertraute der Prinzessin.",
       "context": "Dalia (Nasim Pedrad) begleitet Jasmin (Naomi Scott) im Palast und kennt ihre Wünsche und Schwierigkeiten. Als Hofdame und Vertraute besitzt sie einen anderen Zugang zur Prinzessin als die Bewerber um deren Hand. Die Figur gehört zu den Erweiterungen der Realverfilmung. Ihre eigenen Begegnungen mit dem Dschinni (Will Smith) entwickeln zugleich eine weitere Beziehung, die neben der Liebesgeschichte des Hauptpaares erzählt wird.",
-      "anchor": "Dalia steht der Prinzessin als Hofdame nah.",
       "interest": "Erfasst eine neu hinzugefügte Figur der Realverfilmung.",
       "sources": [
         "film",
         "disney"
-      ]
+      ],
+      "objective": "Dalia steht der Prinzessin als Hofdame nah."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Der Dschinni tarnt sich als menschlicher Diener des Prinzen.",
       "context": "Der Dschinni (Will Smith) begleitet Aladdin (Mena Massoud) bei dessen Auftritt als angeblicher Prinz. Dafür nimmt er menschliche Gestalt an und spielt die Rolle eines Dieners. Die Tarnung erlaubt ihm, sich am Hof unmittelbar einzumischen, ohne offen als magisches Wesen aufzutreten. Dort begegnet er Dalia (Nasim Pedrad), mit der sich eine eigene Liebesgeschichte entwickelt. Der Helfer besitzt dadurch neben seiner Wunschmacht auch ein persönliches Interesse.",
-      "anchor": "Der magische Helfer mischt sich als menschlicher Diener unter den Hof.",
       "interest": "Erfasst die sichtbare Hofrolle der neuen Filmfassung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der magische Helfer mischt sich als menschlicher Diener unter den Hof."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Jasmin ergreift die Lampe und flieht auf den magischen Teppich.",
       "context": "Jafar (Marwan Kenzari) erzwingt eine Hochzeit mit Jasmin (Naomi Scott), um seine Machtstellung weiter zu sichern. Als Aladdin (Mena Massoud) zurückkehrt, nimmt Jasmin selbst die Lampe an sich und springt auf den magischen Teppich. Ihr Versuch wird anschließend von Jafars Magie aufgehalten. Die Szene macht sie dennoch zur handelnden Beteiligten: Sie wartet nicht lediglich auf die Befreiung, sondern greift direkt nach dem entscheidenden Machtmittel.",
-      "anchor": "Die Braut greift selbst nach der Lampe und dem Fluchtweg.",
       "interest": "Erfasst eine konkrete aktive Handlung der Realverfilmung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Braut greift selbst nach der Lampe und dem Fluchtweg."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Aladdin zerstört den Stab, mit dem Jafar den Sultan beeinflusst.",
       "context": "Aladdin (Mena Massoud) kehrt nach seiner Rettung in den Palast zurück. Dort zerstört er den Kobra-Stab von Jafar (Marwan Kenzari) und beendet damit dessen Bann über den Sultan (Navid Negahban). Jafars Manipulation wird sichtbar, und er verliert zunächst seine Stellung am Hof. Der Vorgang ist ein eigener Erfolg vor dem späteren Besitzwechsel der Lampe: Eine konkrete magische Kontrolle wird durch das Beschädigen ihres Werkzeugs unterbrochen.",
-      "anchor": "Der zerbrochene Stab beendet den Bann über den Herrscher.",
       "interest": "Unterscheidet ein konkretes Kontrollmittel von der Wunschlampe.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der zerbrochene Stab beendet den Bann über den Herrscher."
     },
     {
       "code": "S1",
@@ -126,12 +126,12 @@
       ],
       "short": "Der Sultan ernennt Jasmin zur selbst regierenden Sultanin.",
       "context": "Jasmin (Naomi Scott) möchte Verantwortung für ihr Land übernehmen, wird aber zunächst auf eine königliche Heirat verwiesen. Nach dem Konflikt ernennt ihr Vater, der Sultan (Navid Negahban), sie selbst zur Herrscherin. Damit erfüllt die Realverfilmung einen eigenen politischen Handlungsbogen der Prinzessin. Ihre spätere Verbindung mit Aladdin (Mena Massoud) ist nicht einfach die alte Voraussetzung für eine Herrschaft, die allein einem männlichen Thronfolger zufallen soll.",
-      "anchor": "Jasmin heiratet nicht nur, sie regiert selbst.",
       "interest": "Erfasst die fassungsspezifische politische Schlusslösung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jasmin heiratet nicht nur, sie regiert selbst."
     },
     {
       "code": "S2",
@@ -150,13 +150,13 @@
       ],
       "short": "Der Dschinni führt als Mensch ein Familienleben auf Reisen.",
       "context": "Aladdin (Mena Massoud) befreit den Dschinni (Will Smith), der daraufhin als Mensch leben kann. Er heiratet Dalia (Nasim Pedrad), bekommt mit ihr Kinder und reist mit seiner Familie. So erklärt sich auch der Seefahrer, der in der Rahmenhandlung erzählt. Die Freiheit endet für diese Figur nicht bei der gelösten Bindung an eine Lampe, sondern eröffnet ein neues menschliches Leben mit eigenen Beziehungen.",
-      "anchor": "Der freie Dschinni wird zum menschlichen Vater und Seefahrer.",
       "interest": "Erfasst die neue Schlussfolge und erklärt die Rahmenhandlung.",
       "sources": [
         "film",
         "bfi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der freie Dschinni wird zum menschlichen Vater und Seefahrer."
     },
     {
       "code": "Y",
@@ -175,12 +175,12 @@
       ],
       "short": "Die Realverfilmung wurde 2019 veröffentlicht.",
       "context": "Aladdin erschien als Realverfilmung 2019, während die Disney-Zeichentrickfassung von 1992 stammt. Zwischen den beiden Filmjahrgängen liegen 27 Jahre. Der spätere Film verwendet vertraute Figuren und Musik, ergänzt jedoch etwa Dalia (Nasim Pedrad) und den menschlichen Familienweg des Dschinnis (Will Smith). Die zeitliche Verbindung hilft deshalb bei der Fassungszuordnung, ohne die späteren Darsteller und das neue Regieteam mit dem ursprünglichen Animationsfilm gleichzusetzen.",
-      "anchor": "Zeichentrick 1992, Realverfilmung 2019: 27 Jahre.",
       "interest": "Trennt gleichnamige Filme und ihre Besetzungen.",
       "sources": [
         "disney",
         "bfi"
-      ]
+      ],
+      "objective": "Zeichentrick 1992, Realverfilmung 2019: 27 Jahre."
     },
     {
       "code": "D",
@@ -199,12 +199,12 @@
       ],
       "short": "Die Realverfilmung inszenierte Guy Ritchie.",
       "context": "Guy Ritchie führte die Hauptregie von Aladdin mit Aladdin (Mena Massoud), Jasmin (Naomi Scott) und dem Dschinni (Will Smith). Der Credit gehört zur Realverfilmung und ist vom Regieteam des Zeichentrickfilms getrennt. Die Inszenierung verbindet die bekannte Wunschgeschichte mit sichtbaren Darstellern und zusätzlichen Figuren. Für die richtige Zuordnung sind deshalb Titel und konkrete Filmfassung gemeinsam wichtig; der vertraute Stoff allein nennt noch keinen Regisseur.",
-      "anchor": "Guy Ritchie inszeniert die Fassung mit Will Smith.",
       "interest": "Ordnet den Hauptregiecredit der richtigen Fassung zu.",
       "sources": [
         "disney",
         "bfi"
-      ]
+      ],
+      "objective": "Guy Ritchie inszeniert die Fassung mit Will Smith."
     }
   ]
 }

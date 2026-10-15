@@ -36,12 +36,12 @@
       ],
       "short": "George macht sich ständig Sorgen um seine Gesundheit.",
       "context": "George macht sich ständig Sorgen um seine Gesundheit. Diese Haltung erklärt, weshalb er ein beiläufig gehörtes Gespräch sofort auf sich selbst bezieht. Der Film nimmt seine Angst als Ausgangspunkt für einen Plan, der seine Frau scheinbar absichern soll. Die persönliche Fehlwahrnehmung wächst damit zu einer Handlung, die andere Menschen als Hinweis auf ganz andere Absichten lesen.",
-      "anchor": "Georges Krankheitsangst macht ein fremdes Gespräch zu seiner eigenen Diagnose.",
       "interest": "Die prägende Verhaltensweise erkennen.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Georges Krankheitsangst macht ein fremdes Gespräch zu seiner eigenen Diagnose."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "George sucht nach einem Mann, der Judy nach seinem vermeintlichen Tod begleiten könnte.",
       "context": "George sucht nach einem Mann, der Judy nach seinem vermeintlichen Tod begleiten könnte. Sein Plan entspringt dem Wunsch, für ihre Zukunft zu sorgen. Das merkwürdige Verhalten weckt jedoch einen anderen Verdacht. Die Komödie kann so dieselbe Handlung aus zwei Perspektiven zeigen: Seine vermeintliche Fürsorge wirkt auf die Ehefrau wie ein Versuch, sie loszuwerden.",
-      "anchor": "Der vermeintlich Sterbende sucht seiner Frau einen neuen Ehemann.",
       "interest": "Den zentralen Fürsorgeplan erkennen.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der vermeintlich Sterbende sucht seiner Frau einen neuen Ehemann."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "George hört den Arzt am Telefon über einen anderen Patienten sprechen.",
       "context": "George hört den Arzt am Telefon über einen anderen Patienten sprechen. Er bezieht die schlechte Prognose auf sich selbst, ohne die Zuordnung zu prüfen. Sein weiteres Verhalten beruht damit auf einem Wissen, das er nur zu besitzen glaubt. Die Zuschauer können die wachsenden Folgen einer Annahme verfolgen, die für ihn selbst wie eine gesicherte Nachricht erscheint.",
-      "anchor": "Das Arzttelefonat betrifft einen anderen Patienten.",
       "interest": "Die konkrete Ursache des Diagnosemissverständnisses erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Arzttelefonat betrifft einen anderen Patienten."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Linda küsst George zum Dank für eine Warnung.",
       "context": "Linda küsst George zum Dank für eine Warnung. Judy sieht die Geste und deutet sie als Zeichen einer Affäre. Der vorausgehende Gesprächsanlass bleibt ihr verborgen. Die Szene zeigt damit, wie ein tatsächlich beobachtetes Verhalten zu einer falschen Folgerung führen kann, wenn der betreffende Zusammenhang fehlt und andere verdächtige Handlungen schon vorher Vertrauen erschüttert haben.",
-      "anchor": "Der Dankeskuss wird ohne seinen Anlass zum vermeintlichen Affärenbeweis.",
       "interest": "Beobachtung und falsche Schlussfolgerung unterscheiden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Dankeskuss wird ohne seinen Anlass zum vermeintlichen Affärenbeweis."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Arnold entfernt die freundlichen Aussagen über George, während ihn dessen nächtliche Ansprüche zunehmend stören.",
       "context": "Arnold entfernt die freundlichen Aussagen über George, während ihn dessen nächtliche Ansprüche zunehmend stören. Die schon vorbereitete Würdigung trifft dadurch auf eine sehr unmittelbare Alltagserfahrung. Die Rede wird zum sichtbaren Protokoll seiner wachsenden Gereiztheit. Der Film nutzt ein feierliches Genre, um den Unterschied zwischen idealisierter Erinnerung und gegenwärtigem Zusammenleben komisch zu machen.",
-      "anchor": "Jede nächtliche Zumutung kostet George ein Lob in der Trauerrede.",
       "interest": "Die komische Veränderung eines vorbereiteten Texts erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jede nächtliche Zumutung kostet George ein Lob in der Trauerrede."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der Bestatter bringt die Unterlagen zu den gekauften Grabplätzen.",
       "context": "Der Bestatter bringt die Unterlagen zu den gekauften Grabplätzen. Der zusätzliche Platz für einen späteren Ehemann zeigt Judy, dass George tatsächlich an seine vermeintlich bevorstehende Beerdigung gedacht hatte. Die Sachinformation ordnet den verdächtigen Geldbetrag neu ein. Ein Dokument aus seinem fürsorglichen Plan wird so zum Beleg, der die Reihe privater Fehlinterpretationen auflösen kann.",
-      "anchor": "Der dritte Grabplatz macht Georges unbeholfene Zukunftssorge verständlich.",
       "interest": "Ein konkretes Beweisstück mit der Auflösung verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der dritte Grabplatz macht Georges unbeholfene Zukunftssorge verständlich."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "US-Kinostart am 14. Oktober 1964; New-York-Start am 12. November 1964.",
       "context": "„Schick mir keine Blumen“ erschien 1964. Rock Hudson, Doris Day und Tony Randall hatten 1959 bereits in „Bettgeflüster“ zusammengespielt, fünf Jahre früher. Nach einer weiteren gemeinsamen Komödie bildet die Krankheitsverwechslung ihre dritte und letzte Filmpaarung in dieser Konstellation. Der Jahresanker verbindet die Veröffentlichung mit dem Beginn eines konkreten wiederkehrenden Ensembles.",
-      "anchor": "1959 „Bettgeflüster“, 1964 die letzte gemeinsame Komödie: fünf Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1959 „Bettgeflüster“, 1964 die letzte gemeinsame Komödie: fünf Jahre später."
     },
     {
       "code": "D",
@@ -205,14 +205,14 @@
       ],
       "short": "Norman Jewison inszenierte Julius Epsteins Adaption des Stücks von Norman Barasch und Carroll Moore.",
       "context": "Norman Jewison inszenierte Julius Epsteins Adaption des Stücks von Norman Barasch und Carroll Moore. Rock Hudson, Doris Day und Tony Randall brachten die Vertrautheit ihres bisherigen Komödientrios ein. Jewison lässt Hudsons Krankheitsangst durch Randalls praktische Hilfsangebote weitere Missverständnisse auslösen. Die gemeinsame Erfahrung des Ensembles trägt damit eine Geschichte, in der gut gemeinte Lösungen den Verdacht erst vergrößern.",
-      "anchor": "Jewison nutzt Hudson, Day und Randall für eine Kette gut gemeinter Missverständnisse.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "afi",
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jewison nutzt Hudson, Day und Randall für eine Kette gut gemeinter Missverständnisse."
     }
   ]
 }

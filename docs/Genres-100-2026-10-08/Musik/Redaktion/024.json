@@ -38,11 +38,11 @@
       ],
       "short": "Ein Stanford-Programm führt Gabriella vorzeitig fort.",
       "context": "Gabriella Montez (Vanessa Hudgens) wird für ein frühes Studienprogramm in Stanford angenommen. Ihr Aufbruch trennt sie von Troy Bolton (Zac Efron), noch bevor die gemeinsamen Abschlussfeiern stattfinden. Die Aussicht auf neue Möglichkeiten erzeugt damit einen konkreten Konflikt zwischen persönlicher Zukunft und der bisherigen Beziehung. Der Film macht diesen Übergang nicht nur als Feier, sondern auch als schwierige Entscheidung der Hauptfiguren sichtbar.",
-      "anchor": "Die Zukunft in Stanford beginnt früher als das gemeinsame Schulende.",
       "interest": "Der zentrale Zukunftskonflikt erschließt den dritten Film leicht.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Zukunft in Stanford beginnt früher als das gemeinsame Schulende."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Tiara beginnt als Sharpays Assistentin.",
       "context": "Tiara Gold (Jemma McKenzie-Brown) kommt als neue britische Schülerin an die East High und wird die Assistentin von Sharpay Evans (Ashley Tisdale). Damit entsteht eine zunächst unterstützend wirkende Beziehung zwischen einer jüngeren und einer bereits etablierten Schülerin. Die Zusammenarbeit wird später zur Rivalität. Der Einstieg in die Beziehung erklärt, weshalb Tiara nahe genug an Sharpays Pläne gelangt, um deren Stellung herausfordern zu können.",
-      "anchor": "Die anfängliche Assistenz bereitet die spätere Rivalität vor.",
       "interest": "Die Ausgangsbeziehung erschließt eine neue Figur der Fortsetzung.",
       "sources": [
         "handlung",
         "archiv"
-      ]
+      ],
+      "objective": "Die anfängliche Assistenz bereitet die spätere Rivalität vor."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Troy entscheidet sich in Berkeley für Basketball und Theater.",
       "context": "Troy Bolton (Zac Efron) entscheidet sich für die University of California, Berkeley. Dort will er Basketball spielen und Theater machen; zugleich bleibt er in der Nähe von Gabriella Montez (Vanessa Hudgens) in Stanford. Seine Wahl verbindet verschiedene Interessen, die zuvor als Gegensätze erschienen. Der Abschluss löst deshalb nicht einfach eine Begabung zugunsten der anderen auf, sondern gibt beiden einen Platz in seinem geplanten weiteren Leben.",
-      "anchor": "Berkeley verbindet Troys Sport, Theater und die Nähe zu Gabriella.",
       "interest": "Die abschließende Entscheidung erklärt die Lösung seines inneren Zukunftskonflikts.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Berkeley verbindet Troys Sport, Theater und die Nähe zu Gabriella."
     },
     {
       "code": "M2",
@@ -109,11 +109,11 @@
       ],
       "short": "Kelsi meldet die ganze Klasse zum Musical an.",
       "context": "Kelsi Nielsen (Olesya Rulin) meldet die ganze Klasse für das Musical an, obwohl zunächst kaum jemand teilnehmen will. Sharpay Evans (Ashley Tisdale) hatte die Gelegenheit für eine Soloshow nutzen wollen. Kelsis Entscheidung macht daraus ein gemeinsames Projekt. Die Handlung verbindet dadurch die persönlichen Zukunftspläne mit einer letzten gemeinsamen Aufführung; der musikalische Abschluss gehört nicht nur einer einzelnen ehrgeizigen Darstellerin.",
-      "anchor": "Kelsis Anmeldung macht aus der möglichen Soloshow ein Klassenprojekt.",
       "interest": "Die Entscheidung erklärt, wie die gemeinsame Abschlussaufführung zustande kommt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Kelsis Anmeldung macht aus der möglichen Soloshow ein Klassenprojekt."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Kelsi und Ryan erhalten beide die Juilliard-Stipendien.",
       "context": "Ms. Darbus (Alyson Reed) hatte zunächst angekündigt, dass nur eine Person ein Juilliard-Stipendium erhalten werde. Am Schluss werden jedoch Kelsi Nielsen (Olesya Rulin) und Ryan Evans (Lucas Grabeel) beide ausgewählt. Die Entscheidung würdigt ihre musikalischen Fähigkeiten jenseits der besonders sichtbaren Hauptrollen. Der Ausgang unterscheidet sich damit von der anfangs erwarteten Konkurrenz um einen einzigen Platz und eröffnet zwei Figuren einen eigenen weiteren Weg.",
-      "anchor": "Aus dem erwarteten Einzelstipendium werden zwei Chancen für Kelsi und Ryan.",
       "interest": "Die geänderte Erwartung macht die Auszeichnung erzählerisch bedeutsam.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Aus dem erwarteten Einzelstipendium werden zwei Chancen für Kelsi und Ryan."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Tiara will den Theaterbereich nach Sharpay übernehmen.",
       "context": "Tiara Gold (Jemma McKenzie-Brown) verrät Sharpay Evans (Ashley Tisdale), dass sie im nächsten Semester selbst den Theaterbereich übernehmen will. Sie will ihre bisherige Helferinrolle verlassen und selbst Sharpays Stellung übernehmen. Sharpay reagiert während der Aufführung und tritt wieder selbst in den Vordergrund. Der Streit spiegelt die Rivalitäten der älteren Figuren in einer neuen Generation und macht den bevorstehenden Wechsel innerhalb der Schule sichtbar.",
-      "anchor": "Die Assistentin will selbst Sharpays Theaterstellung einnehmen.",
       "interest": "Die konkrete Enthüllung erklärt den Bruch der zunächst unterstützenden Beziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Assistentin will selbst Sharpays Theaterstellung einnehmen."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2006 erster TV-Film, 2008 dritter Kinofilm: zwei Jahre.",
       "context": "High School Musical 3: Senior Year erschien 2008. Der erste High School Musical war 2006 erstmals im Fernsehen gezeigt worden, also zwei Jahre früher. Die Reihe führt ihre bekannten Hauptfiguren damit innerhalb eines kurzen Veröffentlichungsabstands vom Beginn der gemeinsamen Musicalgeschichte zum Schulabschluss. Der dritte Teil kam zunächst ins Kino; diese Form unterscheidet ihn von den beiden vorausgegangenen Fernsehfilmen derselben Trilogie.",
-      "anchor": "2006 Beginn im TV → 2008 Abschluss im Kino: zwei Jahre.",
       "interest": "Der Beginn und das Ende der ursprünglichen Trilogie bilden den Jahresanker.",
       "sources": [
         "studio",
         "archiv",
         "vergleich"
-      ]
+      ],
+      "objective": "2006 Beginn im TV → 2008 Abschluss im Kino: zwei Jahre."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Kenny Ortega führte auch beim Kinofilm Regie.",
       "context": "Kenny Ortega inszenierte nach den beiden Fernsehfilmen auch den Kinoabschluss der ursprünglichen Trilogie. Peter Barsocchini schrieb erneut das Drehbuch. Disney führt beide Aufgaben getrennt in den Credits. Zac Efron spielt Troy Bolton und Vanessa Hudgens Gabriella Montez; ihre Zukunftsentscheidungen bilden nun den Rahmen der musikalischen Handlung. Der Wechsel ins Kino ändert die Veröffentlichungsform, aber nicht den Hauptregisseur der drei Filme.",
-      "anchor": "Ortega begleitet die ursprüngliche Trilogie vom Fernsehen ins Kino.",
       "interest": "Die Regiefrage ordnet den Kinofilm gegenüber den früheren TV-Teilen ein.",
       "sources": [
         "studio",
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "Ortega begleitet die ursprüngliche Trilogie vom Fernsehen ins Kino."
     }
   ]
 }

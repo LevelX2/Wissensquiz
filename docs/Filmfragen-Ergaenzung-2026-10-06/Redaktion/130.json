@@ -33,12 +33,12 @@
       ],
       "short": "Die Schwangerschaft brachte Beatrix zum Ausstieg aus dem Killerleben.",
       "context": "Beatrix Kiddo (Uma Thurman) erklärt Bill (David Carradine), dass die Schwangerschaft ihren Lebensplan änderte. Ihre Beziehung zur Gruppe sollte nicht die Zukunft des Kindes bestimmen. Der zweite Film ergänzt damit die Rachegeschichte um den ursprünglichen Versuch, die Gewaltgemeinschaft für ein anderes Leben zu verlassen.",
-      "anchor": "Beatrix stieg aus, damit ihr Kind jenseits der Auftragsmorde leben kann.",
       "interest": "Der Ausstiegsgrund zeigt einen positiven Zukunftswunsch hinter der späteren Rache.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Beatrix stieg aus, damit ihr Kind jenseits der Auftragsmorde leben kann."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Pai Mei trainiert Beatrix.",
       "context": "Pai Mei (Gordon Liu) behandelt Beatrix Kiddo (Uma Thurman) zunächst mit Spott und harten Anforderungen. Die Rückblicke erklären Fähigkeiten, die später in scheinbar ausweglosen Situationen wichtig werden. Die Ausbildung ist daher kein bloßer Nebenschauplatz: Gegenwärtige Rettungen beruhen auf früherer Geduld und wiederholter körperlicher Arbeit.",
-      "anchor": "Pai Meis harte Vergangenheit wird zur Fähigkeit für die Gegenwart.",
       "interest": "Pai Meis harte Vergangenheit wird zur Fähigkeit für die Gegenwart.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Pai Meis harte Vergangenheit wird zur Fähigkeit für die Gegenwart."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Budd erwartet sie und setzt Steinsalz sowie eine Betäubung ein.",
       "context": "Budd (Michael Madsen) weiß von der drohenden Ankunft. Beatrix Kiddo (Uma Thurman) kann ihren geplanten Überraschungsangriff deshalb nicht umsetzen. Die Falle zeigt eine Grenze ihrer Kampfstärke: Eine vorbereitete Umgebung und ein distanzierter Angriff nehmen ihr die Möglichkeit, überhaupt in das bevorzugte Duell einzutreten.",
-      "anchor": "Budds Vorbereitung verhindert Beatrix’ geplanten Nahkampf.",
       "interest": "Budds Vorbereitung verhindert Beatrix’ geplanten Nahkampf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Budds Vorbereitung verhindert Beatrix’ geplanten Nahkampf."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Sie durchschlägt das Holz mit der erlernten Technik und gräbt sich frei.",
       "context": "Beatrix Kiddo (Uma Thurman) liegt ohne genügend Bewegungsraum im Sarg. Die Ausbildung bei Pai Mei (Gordon Liu) hat sie gerade auf Schläge aus kurzer Distanz vorbereitet. Der Rückblick liefert deshalb die Ursache der Rettung; der Ausweg ist kein zufällig vorhandenes Werkzeug, sondern eine zuvor mühsam erworbene Fähigkeit.",
-      "anchor": "Die alte kurze Schlagübung wird zum Ausweg aus dem engen Sarg.",
       "interest": "Die alte kurze Schlagübung wird zum Ausweg aus dem engen Sarg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die alte kurze Schlagübung wird zum Ausweg aus dem engen Sarg."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Die Schlange wartet im Koffer zwischen dem Geld.",
       "context": "Elle Driver (Daryl Hannah) soll Budd (Michael Madsen) das Schwert abkaufen. Im Koffer verbirgt sie jedoch eine Schwarze Mamba. Die heimtückische Methode verbindet den Geschäftsaustausch mit dem Codenamen von Beatrix Kiddo (Uma Thurman), ohne dass Beatrix selbst diesen Tod verursacht oder im Raum anwesend ist.",
-      "anchor": "Der Geldkoffer bringt Budd eine Schlange statt seinen Gewinn.",
       "interest": "Der Geldkoffer bringt Budd eine Schlange statt seinen Gewinn.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Geldkoffer bringt Budd eine Schlange statt seinen Gewinn."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Beatrix setzt die von Pai Mei gelernte Herztechnik ein.",
       "context": "Bill (David Carradine) hat Beatrix Kiddo (Uma Thurman) von Pai Meis legendärer Technik erzählt, glaubt aber nicht, dass sie diese lernen durfte. Sie trifft ihn damit; nach fünf Schritten bricht er zusammen. Der Abschluss verknüpft so ein früher gesetztes Wissensmotiv mit der Entscheidung des gegenwärtigen Kampfes.",
-      "anchor": "Bills eigene Erklärung bereitet die Waffe vor, die ihn trifft.",
       "interest": "Bills eigene Erklärung bereitet die Waffe vor, die ihn trifft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Bills eigene Erklärung bereitet die Waffe vor, die ihn trifft."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2004.",
       "context": "Kill Bill – Volume 2 wurde im April 2004 erstmals gezeigt und veröffentlicht. Der erste Teil hatte 2003 im Kino begonnen. Beide Teile entstanden aus einem zunächst als Ganzes angelegten Projekt; die spätere Auswertung teilt daher eine zusammenhängende Produktion auf zwei Filmjahre auf.",
-      "anchor": "Volume 1 erschien 2003, Volume 2 folgte 2004: ein Jahr zwischen den beiden Kinoteilen.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Volume 1 erschien 2003, Volume 2 folgte 2004: ein Jahr zwischen den beiden Kinoteilen.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Volume 1 erschien 2003, Volume 2 folgte 2004: ein Jahr zwischen den beiden Kinoteilen."
     },
     {
       "code": "D",
@@ -202,14 +202,14 @@
       ],
       "short": "Der Regiecredit lautet Quentin Tarantino.",
       "context": "Quentin Tarantino schrieb und inszenierte auch den zweiten Teil. Uma Thurman spielt Beatrix Kiddo, David Carradine Bill. Rückblicke auf die Ausbildung und die wiederentdeckte Familie verschieben den Schwerpunkt: Die Rachehandlung erhält nicht nur weitere Gegner, sondern eine ausführlichere Vorgeschichte und eine mögliche Zukunft.",
-      "anchor": "Quentin Tarantino: Uma Thurman spielt Beatrix Kiddo, David Carradine Bill.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Quentin Tarantino: Uma Thurman spielt Beatrix Kiddo, David Carradine Bill."
     }
   ]
 }

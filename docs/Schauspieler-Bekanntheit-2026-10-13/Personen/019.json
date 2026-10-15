@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Perrin ist Geiger.",
       "context": "Der Musiker gerät ohne eigene Geheimdienstausbildung in einen Konflikt zwischen Agenten. Seine gewöhnlichen und oft ungeschickten Handlungen werden als raffinierte Tarnung fehlgedeutet. Richards Figur bleibt dadurch arglos, während die Beobachter immer kompliziertere Erklärungen für ihr Verhalten erfinden.",
-      "anchor": "Ein Geiger wird für einen Meisterspion gehalten.",
       "interest": "Der zivile Ausgangsberuf erklärt die Verwechslungskonstruktion.",
       "feedback": [
         "",
@@ -35,7 +34,8 @@
       ],
       "knowledge_id": "K-KOM-202609-P02-L-070",
       "variant_of": "KOM-202609-P02-L-070",
-      "knowledge_note": "Dasselbe Berufsziel François Perrin als Geiger."
+      "knowledge_note": "Dasselbe Berufsziel François Perrin als Geiger.",
+      "objective": "Ein Geiger wird für einen Meisterspion gehalten."
     },
     {
       "code": "L2",
@@ -49,7 +49,6 @@
       "correct": 1,
       "short": "Richard bildet das Duo mit Gérard Depardieu.",
       "context": "Francis Veber führte die beiden sehr unterschiedlichen Darsteller mehrfach zusammen. Richards unsicherer, empfindsamer Figur steht dabei die kräftige Präsenz Depardieus gegenüber. Aus dem Gegensatz entstehen sowohl Konflikte als auch gegenseitige Abhängigkeit; in „Die Flüchtigen“ kippt sogar ein misslungener Banküberfall in eine gemeinsame Flucht.",
-      "anchor": "Richard und Depardieu machen Gegensätze zum komischen Duo.",
       "interest": "Die wiederholte Zusammenarbeit erschließt ein prägendes Modell seiner Laufbahn.",
       "feedback": [
         "",
@@ -64,7 +63,8 @@
       "extraSources": [
         "https://www.cinematheque.fr/cycle/pierre-richard-314.html",
         "https://www.cinematheque.fr/film/51539.html"
-      ]
+      ],
+      "objective": "Richard und Depardieu machen Gegensätze zum komischen Duo."
     },
     {
       "code": "M1",
@@ -78,7 +78,6 @@
       "correct": 2,
       "short": "Perrin ist ein arbeitsloser Journalist.",
       "context": "Der Sohn eines reichen Unternehmers möchte Perrin als menschliches Spielzeug haben. Dass der Journalist eine neue Beschäftigung braucht, verschärft das Machtgefälle zwischen beiden Seiten. Die ungewöhnliche Forderung macht sichtbar, wie weit der Vater seinen Besitzanspruch auf andere Menschen ausdehnt.",
-      "anchor": "Perrins Arbeitslosigkeit trifft auf den Kaufanspruch eines reichen Kindes.",
       "interest": "Der soziale Ausgangspunkt erklärt die Satire hinter dem absurden Handel.",
       "feedback": [
         "",
@@ -92,7 +91,8 @@
       "extraSources": [
         "https://www.cinematheque.fr/film/46285.html",
         "https://cineuropa.org/fr/film/401260/"
-      ]
+      ],
+      "objective": "Perrins Arbeitslosigkeit trifft auf den Kaufanspruch eines reichen Kindes."
     },
     {
       "code": "M2",
@@ -106,7 +106,6 @@
       "correct": 3,
       "short": "Richard entwickelte den Stoff, führte Regie und spielte die Hauptrolle.",
       "context": "Yves Robert ermutigte Richard, seine eigene komische Figur fürs Kino zu entwickeln. Mit André Ruellan arbeitete er am Drehbuch über den zerstreuten Werber Pierre Malaquet. Die Verbindung mehrerer Aufgaben erlaubte ihm, das Verhalten der Figur und die Inszenierung ihrer Missgeschicke gemeinsam zu gestalten.",
-      "anchor": "„Le Distrait“ war Richard als Darsteller, Autor und Regisseur.",
       "interest": "Die Frage zeigt seine schöpferische Arbeit hinter der bekannten Tolpatschfigur.",
       "feedback": [
         "",
@@ -120,7 +119,8 @@
       "extraSources": [
         "https://www.pierre-richard.fr/biographie-de-pierre-richard/",
         "https://www.cinematheque.fr/media/prog-web.pdf"
-      ]
+      ],
+      "objective": "„Le Distrait“ war Richard als Darsteller, Autor und Regisseur."
     },
     {
       "code": "S1",
@@ -134,7 +134,6 @@
       "correct": 0,
       "short": "Der Film richtet seine Satire auf das Rüstungsgeschäft.",
       "context": "Richard spielt den Sohn eines Waffenfabrikanten, der die Produkte seiner Familie ablehnt. Er schrieb und inszenierte die Komödie selbst. Seine unbeholfene Figur erhält damit eine gesellschaftliche Richtung: Sie stört ein Geschäft, dessen Erfolg auf dem Absatz tödlicher Waren beruht.",
-      "anchor": "Richards Träumer gerät gegen das Rüstungsgeschäft seiner Familie.",
       "interest": "Ein eigener Regiefilm zeigt die soziale Satire hinter seinem komischen Typus.",
       "feedback": [
         "",
@@ -148,7 +147,8 @@
       "extraSources": [
         "https://www.pierre-richard.fr/filmographie/je-sais-rien-mais-je-dirai-tout/",
         "https://www.cinematheque.fr/media/prog-web.pdf"
-      ]
+      ],
+      "objective": "Richards Träumer gerät gegen das Rüstungsgeschäft seiner Familie."
     },
     {
       "code": "S2",
@@ -162,7 +162,6 @@
       "correct": 1,
       "short": "Perrins Pech soll die Suchenden zur ähnlich unglücklichen Vermissten führen.",
       "context": "Die Tochter eines Unternehmers verschwindet während eines Mexikourlaubs. Der Vater verbindet den Detektiv Campana (Gérard Depardieu) mit einem notorischen Pechvogel. Dessen Missgeschicke gelten ausgerechnet als mögliche Ermittlungsmethode. Die Helferlogik des Films kehrt damit eine vermeintliche Schwäche in eine nützliche Eigenschaft um.",
-      "anchor": "Perrins Pech soll bei der Suche zum Wegweiser werden.",
       "interest": "Die ungewöhnliche Suchmethode erklärt die Funktion der komischen Missgeschicke.",
       "feedback": [
         "",
@@ -175,7 +174,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/film/51539.html"
-      ]
+      ],
+      "objective": "Perrins Pech soll bei der Suche zum Wegweiser werden."
     },
     {
       "code": "E1",
@@ -189,7 +189,6 @@
       "correct": 2,
       "short": "Eine Begegnung mit Danny Kaye auf der Kinoleinwand gab Richard den beruflichen Anstoß.",
       "context": "Als junger Mann sah Richard einen Film mit Danny Kaye und erkannte darin den Beruf, den er ausüben wollte. Später entwickelte er seinen eigenen Stil aus Bewegung, Sprachtempo und körperlichem Ungleichgewicht. Die Inspiration durch einen anderen Komiker ging seiner Ausbildung und seinem selbstständigen Bühnenweg voraus.",
-      "anchor": "Danny Kaye war ein früher Kinofunke für Richards Berufswunsch.",
       "interest": "Die Erinnerung erschließt eine künstlerische Herkunft jenseits der französischen Filmduos.",
       "feedback": [
         "",
@@ -200,7 +199,8 @@
       "films": [],
       "extraSources": [
         "https://www.pierre-richard.fr/biographie-de-pierre-richard/"
-      ]
+      ],
+      "objective": "Danny Kaye war ein früher Kinofunke für Richards Berufswunsch."
     },
     {
       "code": "E2",
@@ -214,7 +214,6 @@
       "correct": 3,
       "short": "Richard trat im Kabarett mit Victor Lanoux auf.",
       "context": "Vor seinen Kinodurchbrüchen spielte Richard in kleinen Bühnenprogrammen und auch im Vorprogramm von Georges Brassens. Mit Lanoux entwickelte er Nummern, deren Wirkung sich unmittelbar an den Reaktionen des Publikums prüfen ließ. Der spätere Filmkomiker hatte seine körperliche und szenische Arbeit somit bereits in einem anderen Aufführungsraum erprobt.",
-      "anchor": "Richards frühes Kabarettduo verband ihn mit Victor Lanoux.",
       "interest": "Die Zusammenarbeit verortet seine Filmkomik in einer vorherigen Bühnenpraxis.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       "films": [],
       "extraSources": [
         "https://www.pierre-richard.fr/biographie-de-pierre-richard/"
-      ]
+      ],
+      "objective": "Richards frühes Kabarettduo verband ihn mit Victor Lanoux."
     }
   ]
 }

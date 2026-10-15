@@ -31,12 +31,12 @@
       ],
       "short": "Dan Gallagher ist Rechtsanwalt.",
       "context": "Dan Gallagher (Michael Douglas) führt in New York ein etabliertes Berufs- und Familienleben. Als Anwalt lernt er bei einer geschäftlichen Veranstaltung Alex Forrest (Glenn Close) kennen, die im Verlagswesen arbeitet. Die folgende Affäre entsteht somit im Umfeld seines normalen Alltags. Die bedrohliche Entwicklung trifft keine Ermittlerfigur, sondern einen Mann, der seine private Entscheidung zunächst kontrollierbar findet.",
-      "anchor": "Der bedrohte Ehemann ist Anwalt.",
       "interest": "Der Beruf grenzt diese Douglas-Rolle von seinen Polizeithrillern ab.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Der bedrohte Ehemann ist Anwalt."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Dan beginnt die Affäre während der Abwesenheit seiner Familie.",
       "context": "Beth Gallagher (Anne Archer) und ihre Tochter Ellen (Ellen Hamilton Latzen) verbringen das Wochenende außerhalb der Stadt. Dan Gallagher (Michael Douglas) bleibt zurück und kommt Alex Forrest (Glenn Close) näher. Er behandelt die Begegnung zunächst wie eine begrenzte Ausnahme vom Familienleben. Gerade diese angenommene Trennung zwischen einem heimlichen Wochenende und dem folgenden Alltag wird im weiteren Film immer weniger aufrechtzuerhalten sein.",
-      "anchor": "Ein freies Wochenende wird zur dauerhaften Bedrohung.",
       "interest": "Der Einstieg erklärt Dans Erwartung eines folgenlosen Seitensprungs.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein freies Wochenende wird zur dauerhaften Bedrohung."
     },
     {
       "code": "M1",
@@ -78,11 +78,11 @@
       ],
       "short": "Das getötete Haustier liegt im Kochtopf.",
       "context": "Alex Forrest (Glenn Close) dringt in den häuslichen Bereich der Gallaghers ein und tötet das Kaninchen von Ellen (Ellen Hamilton Latzen). Der Fund trifft damit die Tochter, die an der Affäre unbeteiligt ist. Die Szene verschiebt den Konflikt von bedrängenden Anrufen zu einer handfesten Verletzung des Familienraums. Dan Gallagher (Michael Douglas) kann die Gefahr danach nicht mehr als rein persönliche Angelegenheit behandeln.",
-      "anchor": "Das Haustier macht die Bedrohung der Familie sichtbar.",
       "interest": "Der Schockmoment wird in die Eskalation eingeordnet.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Haustier macht die Bedrohung der Familie sichtbar."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Alex nimmt Ellen in einen Vergnügungspark mit.",
       "context": "Alex Forrest (Glenn Close) holt Ellen (Ellen Hamilton Latzen) ab und fährt mit ihr in einen Vergnügungspark. Das Kind erlebt einen Ausflug, während Beth Gallagher (Anne Archer) verzweifelt nach ihr sucht und dabei einen Autounfall erleidet. Die Sequenz lässt harmlos wirkendes Vergnügen und existenzielle Angst gleichzeitig stattfinden. Alex nutzt den Zugang zur Tochter, um die Familie erneut zu verletzen.",
-      "anchor": "Ellen erlebt einen Ausflug, Beth eine verzweifelte Suche.",
       "interest": "Die parallelen Perspektiven erklären die Wirkung der Eskalation.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ellen erlebt einen Ausflug, Beth eine verzweifelte Suche."
     },
     {
       "code": "S1",
@@ -124,12 +124,12 @@
       ],
       "short": "In der Kinofassung erschießt Beth die erneut angreifende Alex.",
       "context": "Dan Gallagher (Michael Douglas) glaubt zunächst, Alex Forrest (Glenn Close) in der Badewanne überwältigt zu haben. Sie taucht jedoch wieder auf und greift erneut an; Beth Gallagher (Anne Archer) schießt. Der Ablauf ist für die Fassungszuordnung entscheidend. Die ursprüngliche gedrehte Schlussvariante endete anders. Hier erhält die bedrohte Ehefrau selbst die Handlung, die den Angriff endgültig beendet.",
-      "anchor": "Nach dem vermeintlichen Ertrinken beendet Beth den Angriff.",
       "interest": "Die Frage trennt den Kinofinalkampf vom ursprünglichen Ende.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Nach dem vermeintlichen Ertrinken beendet Beth den Angriff."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Das ursprüngliche Ende sah einen Suizid mit scheinbarer Mordschuld Dans vor.",
       "context": "Die zunächst gedrehte Variante ließ Alex Forrest (Glenn Close) sich mit einem Messer töten, an dem Dan Gallaghers (Michael Douglas) Spuren waren. Beth Gallagher (Anne Archer) konnte ihn mit einer Kassette entlasten, auf der Alex ihren Suizid angekündigt hatte. AFI dokumentiert die Änderung und Nachdrehs nach Testvorführungen. Über deren Einfluss gibt es unterschiedliche Aussagen; das alternative Handlungsgeschehen selbst ist klar belegt.",
-      "anchor": "Ursprünglicher Schluss: Suizid und fingierte Mordschuld statt Badezimmerkampf.",
       "interest": "Die Produktionsgeschichte erklärt eine Veränderung der Schlusswirkung.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Ursprünglicher Schluss: Suizid und fingierte Mordschuld statt Badezimmerkampf."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "Die erste Veröffentlichung erfolgte 1987.",
       "context": "Eine verhängnisvolle Affäre erschien 1987. Fünf Jahre später, 1992, folgte Michael Douglas’ Basic Instinct, in dem der familiäre Alltag durch eine Polizeiermittlung ersetzt ist. AFI nennt für den früheren Film ausdrücklich den 18. September 1987 als US-Kinostart. Das Erscheinungsjahr ist deshalb von späteren internationalen Auswertungen und den Oscar-Nominierungen des folgenden Jahres zu unterscheiden.",
-      "anchor": "1987 Familienbedrohung, 1992 Mordermittlung: fünf Jahre Abstand.",
       "interest": "Die zeitliche Verknüpfung verbindet zwei markante Douglas-Rollen.",
       "sources": [
         "afi",
         "vergleich"
-      ]
+      ],
+      "objective": "1987 Familienbedrohung, 1992 Mordermittlung: fünf Jahre Abstand."
     },
     {
       "code": "D",
@@ -196,11 +196,11 @@
       ],
       "short": "Adrian Lyne inszenierte den Film.",
       "context": "AFI nennt Adrian Lyne als Regisseur. James Dearden hatte die Kurzfilmvorlage und das Drehbuch geschaffen, wurde aber bei der aufwendigeren Kinoproduktion nicht als Regisseur eingesetzt. Die fertige Fassung mit Michael Douglas, Glenn Close und Anne Archer umfasst auch den später nachgedrehten Badezimmerkampf. Die gemeinsame Stoffgeschichte macht den Autor der Vorlage somit nicht zum Regisseur des Kinofilms.",
-      "anchor": "Lyne führt Regie; Dearden liefert Vorlage und Drehbuch.",
       "interest": "Die Credits trennen Stoffursprung und realisierte Inszenierung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Lyne führt Regie; Dearden liefert Vorlage und Drehbuch."
     }
   ]
 }

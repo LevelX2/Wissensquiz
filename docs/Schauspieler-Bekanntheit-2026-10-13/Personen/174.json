@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Sie begleitet einen erfolgreichen Filmregisseur, der als Landstreicher unterwegs ist.",
       "context": "John L. Sullivan (Joel McCrea) möchte Armut aus eigener Erfahrung kennenlernen, bevor er einen ernsten Film darüber dreht. Seine Begleiterin kennt die Not bereits. Die Reise führt von komischen Missgeschicken bis zu Sullivans Gefangenschaft; dort entdeckt er, welchen Wert gemeinsames Lachen für Menschen in aussichtsloser Lage haben kann.",
-      "anchor": "Die mittellose Frau begleitet den Regisseur in seiner Landstreicherrolle.",
       "interest": "Eine Hollywoodkomödie hinterfragt den gesellschaftlichen Wert der Komödie.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3548-laughter-behind-the-screen"
-      ]
+      ],
+      "objective": "Die mittellose Frau begleitet den Regisseur in seiner Landstreicherrolle."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Janet ist die Tochter des Gouverneurskandidaten Ralph Henry.",
       "context": "Der politische Machtvermittler Paul Madvig (Brian Donlevy) unterstützt Henry und möchte Janet heiraten. Sie fühlt sich jedoch zu Pauls Vertrautem Ed Beaumont (Alan Ladd) hingezogen. Nach dem Tod ihres Bruders geraten die persönliche Rivalität und die politische Zusammenarbeit zugleich unter Druck.",
-      "anchor": "Janet verbindet die politische Allianz mit einer Liebesrivalität.",
       "interest": "Familienbeziehungen machen die Machtkämpfe des Films verständlich.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/27248-THE-GLASS-KEY"
-      ]
+      ],
+      "objective": "Janet verbindet die politische Allianz mit einer Liebesrivalität."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Jennifer trinkt den Liebestrank selbst und verliebt sich in den Mann, den sie bestrafen wollte.",
       "context": "Jennifer will sich an Wallace Wooley (Fredric March), einem Nachfahren ihrer früheren Verfolger, rächen. Als ihr eigenes Zaubermittel sie trifft, verändert sich ihr Vorhaben: Sie muss nun um den Mann kämpfen, dessen Leben sie zuvor durch eine unglückliche Liebe verderben wollte.",
-      "anchor": "Jennifers eigener Trank macht aus Rache Verliebtheit.",
       "interest": "Eine konkrete Umkehrung treibt die übernatürliche Liebeskomödie an.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/2924-i-married-a-witch-its-such-an-ancient-pitch"
-      ]
+      ],
+      "objective": "Jennifers eigener Trank macht aus Rache Verliebtheit."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 0,
       "short": "Joyce ist Eddies getrennt lebende Ehefrau.",
       "context": "Joyce nimmt den heimgekehrten Johnny Morrison (Alan Ladd) im Auto mit, ohne zunächst seine Identität zu kennen. Johnny hat gerade die Affäre seiner Frau Helen (Doris Dowling) mit Eddie (Howard Da Silva) entdeckt. Als Helen ermordet wird, sind Joyce und Johnny bereits über ihre zerrütteten Ehen miteinander verbunden.",
-      "anchor": "Joyce und Johnny sind über Eddie und Helen verbunden.",
       "interest": "Die verschränkten Beziehungen eines Film noir auseinanderhalten.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/24704-THE-BLUE-DAHLIA"
-      ]
+      ],
+      "objective": "Joyce und Johnny sind über Eddie und Helen verbunden."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 1,
       "short": "Ellen untersucht für Senator Burnett den Verrat einer Giftgasformel.",
       "context": "Als Sängerin und Zauberkünstlerin erhält Ellen Zugang zum Umfeld des verdächtigen Willard Gates (Laird Cregar). Zufällig begegnet sie dem Auftragsmörder Raven (Alan Ladd), den Gates ebenfalls betrogen hat. Sie bewegt Raven dazu, ein schriftliches Geständnis der Verräter zu verlangen, statt sich auf persönliche Rache zu beschränken.",
-      "anchor": "Ellens Bühnenengagement dient einem geheimen Ermittlungsauftrag.",
       "interest": "Eine weibliche Hauptfigur handelt mit einem eigenen politischen Auftrag.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/27508"
-      ]
+      ],
+      "objective": "Ellens Bühnenengagement dient einem geheimen Ermittlungsauftrag."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 3,
       "short": "Olivia opfert sich mit einer Handgranate, damit ihre Kameradinnen entkommen.",
       "context": "Die Krankenschwestern geraten beim Rückzug auf den Philippinen in eine ausweglose Lage. Olivia, deren Verlobter in Pearl Harbor getötet wurde, tritt den heranrückenden Soldaten entgegen. Ihr Tod gibt den übrigen Frauen die Gelegenheit zu entkommen; der Film setzt die Arbeit der Pflegerinnen mitten ins Kriegsgeschehen.",
-      "anchor": "Olivia erkauft die Flucht durch ihr eigenes Opfer.",
       "interest": "Ein Kriegsfilm stellt Pflegearbeit und tödliche Bedrohung nebeneinander.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/674-SO-PROUDLY-WE-HAIL%21"
-      ]
+      ],
+      "objective": "Olivia erkauft die Flucht durch ihr eigenes Opfer."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Ihr Beispiel sollte Fabrikarbeiterinnen zu einer sichereren Frisur bewegen.",
       "context": "Lakes über ein Auge fallende Haarsträhne wurde häufig nachgeahmt. Während des Krieges arbeiteten viele Frauen an Maschinen, an denen offen getragenes Haar gefährlich war. Auf Bitte der War Manpower Commission zeigte Lake eine andere Frisur; das Office of War Information verbreitete die Aufnahmen.",
-      "anchor": "Der berühmte Filmlook wurde zum Thema der Arbeitssicherheit.",
       "interest": "Der Einfluss eines Stars reicht vom Kinobild bis in den Arbeitsalltag.",
       "feedback": [
         "",
@@ -191,7 +190,8 @@
       "films": [],
       "extraSources": [
         "https://www.cinematheque.fr/expositions-virtuelles/bruneblonde/item.php?id=19&lang=en"
-      ]
+      ],
+      "objective": "Der berühmte Filmlook wurde zum Thema der Arbeitssicherheit."
     },
     {
       "code": "E2",
@@ -205,7 +205,6 @@
       "correct": 0,
       "short": "Raymond Chandler schrieb das Originaldrehbuch.",
       "context": "Chandler arbeitete hier an einer eigens für den Film entwickelten Geschichte. Die Produktion begann, bevor das Drehbuch vollständig vorlag. In seinen Briefen beklagte er außerdem Eingriffe in den Schluss: Die amerikanische Marine hatte Einfluss darauf genommen, wer am Ende als Mörder entlarvt werden durfte.",
-      "anchor": "Chandlers erstes Originaldrehbuch entstand unter Produktions- und Militärdruck.",
       "interest": "Ein Film noir verbindet Literatur, Studioarbeit und zeitgenössische Kontrolle.",
       "feedback": [
         "",
@@ -218,7 +217,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/24704-THE-BLUE-DAHLIA"
-      ]
+      ],
+      "objective": "Chandlers erstes Originaldrehbuch entstand unter Produktions- und Militärdruck."
     }
   ]
 }

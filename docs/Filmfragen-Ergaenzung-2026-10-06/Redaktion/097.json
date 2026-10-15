@@ -32,12 +32,12 @@
       ],
       "short": "Die Gruppe verbarrikadiert ein Bauernhaus.",
       "context": "Die Gruppe verbarrikadiert ein Bauernhaus. Ben (Duane Jones) sichert Türen und Fenster; der enge Schutzraum bringt Menschen zusammen, die sich über die richtige Verteidigung nicht einigen können.",
-      "anchor": "Die äußere Belagerung trifft auf einen inneren Gruppenstreit.",
       "interest": "Die äußere Belagerung trifft auf einen inneren Gruppenstreit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die äußere Belagerung trifft auf einen inneren Gruppenstreit."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Radio und Fernsehen berichten von den Angriffen.",
       "context": "Radio und Fernsehen berichten von den Angriffen. Ben (Duane Jones) und die anderen erhalten Regeln und Rettungsziele aus der Ferne; die Informationsverbindung bleibt wichtig, solange sie überhaupt funktioniert.",
-      "anchor": "Die Nachrichten verbinden den eingeschlossenen Raum mit der Außenwelt.",
       "interest": "Die Nachrichten verbinden den eingeschlossenen Raum mit der Außenwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Nachrichten verbinden den eingeschlossenen Raum mit der Außenwelt."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Harry (Karl Hardman) verlangt den Rückzug in den Keller.",
       "context": "Harry (Karl Hardman) verlangt den Rückzug in den Keller. Ben (Duane Jones) will oben Handlungsmöglichkeiten bewahren; beide Schutzkonzepte haben Risiken, die der Film im weiteren Verlauf sichtbar macht.",
-      "anchor": "Der Keller verspricht Deckung und droht zugleich zur Falle zu werden.",
       "interest": "Der Keller verspricht Deckung und droht zugleich zur Falle zu werden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Keller verspricht Deckung und droht zugleich zur Falle zu werden."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Das Benzin gerät in Brand.",
       "context": "Das Benzin gerät in Brand. Tom (Keith Wayne) und Judy (Judith Ridley) sterben im explodierenden Lastwagen; die misslungene Versorgung nimmt der Gruppe zugleich ein mögliches Fluchtmittel.",
-      "anchor": "Der Tankversuch zerstört Menschen und Fluchtmittel zugleich.",
       "interest": "Der Tankversuch zerstört Menschen und Fluchtmittel zugleich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Tankversuch zerstört Menschen und Fluchtmittel zugleich."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Karen (Kyra Schon) stirbt und greift ihre Eltern an.",
       "context": "Karen (Kyra Schon) stirbt und greift ihre Eltern an. Harry (Karl Hardman) hatte den Keller als sicheren Raum verteidigt; die bereits hineingebrachte Verletzung macht die Sicherheit jedoch von innen zunichte.",
-      "anchor": "Der geschützte Keller enthält schon die spätere Angreiferin.",
       "interest": "Der geschützte Keller enthält schon die spätere Angreiferin.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der geschützte Keller enthält schon die spätere Angreiferin."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Ben (Duane Jones) wird für einen Untoten gehalten und erschossen.",
       "context": "Ben (Duane Jones) wird für einen Untoten gehalten und erschossen. Die ankommende Gruppe beendet seine überstandene Nacht damit als tödliche Fehlentscheidung; seine Leiche wird zusammen mit den anderen verbrannt.",
-      "anchor": "Die scheinbare Rettung tötet den Überlebenden.",
       "interest": "Die scheinbare Rettung tötet den Überlebenden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die scheinbare Rettung tötet den Überlebenden."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 1968 erstmals veröffentlicht.",
       "context": "1968 erschien der erste Film. Dawn of the Dead folgte 1978, zehn Jahre später; die Fortsetzung erweitert den Blick vom isolierten Bauernhaus zum Zusammenbruch einer konsumorientierten Gesellschaft.",
-      "anchor": "1968 begann die Filmreihe; Dawn of the Dead folgte zehn Jahre später, 1978.",
       "interest": "1968 begann die Filmreihe; Dawn of the Dead folgte zehn Jahre später, 1978.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1968 begann die Filmreihe; Dawn of the Dead folgte zehn Jahre später, 1978."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: George A. Romero.",
       "context": "Romero führte Regie, Kamera und Schnitt zusammen. Die unabhängige Produktion nutzte Erfahrungen aus Werbe- und Industriefilmen; Duane Jones wurde als Ben besetzt, weil Romero seine Vorsprechleistung am überzeugendsten fand.",
-      "anchor": "Romero führte Regie, Kamera und Schnitt zusammen.",
       "interest": "Romero führte Regie, Kamera und Schnitt zusammen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Romero führte Regie, Kamera und Schnitt zusammen."
     }
   ]
 }

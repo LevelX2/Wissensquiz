@@ -36,12 +36,12 @@
       ],
       "short": "Ned Racine (William Hurt) ist ein wenig erfolgreicher Anwalt.",
       "context": "Ned Racine (William Hurt) ist ein wenig erfolgreicher Anwalt. Seine juristischen Kenntnisse bieten Matty Walker (Kathleen Turner) einen Ansatzpunkt für einen Mordplan mit erbrechtlichen Folgen.",
-      "anchor": "Neds juristische Rolle wird Teil des Verbrechens.",
       "interest": "Neds juristische Rolle wird Teil des Verbrechens.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Neds juristische Rolle wird Teil des Verbrechens."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Matty Walker (Kathleen Turner) behauptet, der Ehevertrag würde ihr bei einer Scheidung Edmunds Vermögen vorenthalten.",
       "context": "Matty Walker (Kathleen Turner) behauptet, der Ehevertrag würde ihr bei einer Scheidung Edmunds Vermögen vorenthalten. Das verschiebt ihre Gespräche mit Ned (William Hurt) in Richtung Mord.",
-      "anchor": "Der Ehevertrag macht das Erbe zum Motiv.",
       "interest": "Der Ehevertrag macht das Erbe zum Motiv.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Ehevertrag macht das Erbe zum Motiv."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Ned Racine (William Hurt) checkt in Miami in ein Hotel ein und fährt nachts zurück.",
       "context": "Ned Racine (William Hurt) checkt in Miami in ein Hotel ein und fährt nachts zurück. Die scheinbare Entfernung vom Tatort soll ihn schützen, doch sein Alibi hält der Untersuchung nicht stand.",
-      "anchor": "Das Hotelalibi beruht auf einer heimlichen Rückfahrt.",
       "interest": "Das Hotelalibi beruht auf einer heimlichen Rückfahrt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Hotelalibi beruht auf einer heimlichen Rückfahrt."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Edmund Walkers (Richard Crenna) Brille fehlt am Brandort.",
       "context": "Edmund Walkers (Richard Crenna) Brille fehlt am Brandort. Die Polizei folgert daraus, dass der Mord anderswo geschah und der Brand den wirklichen Ablauf verschleiern soll.",
-      "anchor": "Die fehlende Brille trennt Mordort und Brandort.",
       "interest": "Die fehlende Brille trennt Mordort und Brandort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die fehlende Brille trennt Mordort und Brandort."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Das bewusst fehlerhafte Testament wird aufgehoben und Edmunds Nichte damit vom Erbe ausgeschlossen.",
       "context": "Das bewusst fehlerhafte Testament wird aufgehoben und Edmunds Nichte damit vom Erbe ausgeschlossen. Matty Walker (Kathleen Turner) nutzt Neds Ruf als schlechter Anwalt, damit der Fehler glaubwürdig erscheint.",
-      "anchor": "Ein scheinbarer Rechtsfehler ist Mattys berechneter Vorteil.",
       "interest": "Ein scheinbarer Rechtsfehler ist Mattys berechneter Vorteil.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein scheinbarer Rechtsfehler ist Mattys berechneter Vorteil."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Ein Schuljahrbuch zeigt Ned (William Hurt), dass die Frau, die er als Matty kennt, Mary Ann Simpson ist.",
       "context": "Ein Schuljahrbuch zeigt Ned (William Hurt), dass die Frau, die er als Matty kennt, Mary Ann Simpson ist. Die fremde Identität hat den Plan erleichtert, am Ende reich zu entkommen.",
-      "anchor": "Das Jahrbuch entlarvt die gestohlene Identität.",
       "interest": "Das Jahrbuch entlarvt die gestohlene Identität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Jahrbuch entlarvt die gestohlene Identität."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1981 erschien der Film.",
       "context": "1981 erschien der Film. Im selben Jahr kam Jäger des verlorenen Schatzes heraus, dessen Drehbuch ebenfalls Lawrence Kasdan verfasste: Abenteuerfilm und Regiedebüt lagen zeitlich nebeneinander.",
-      "anchor": "1981: Kasdans Abenteuerdrehbuch Jäger des verlorenen Schatzes und sein Neo-Noir-Regiedebüt erscheinen im selben Jahr.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1981: Kasdans Abenteuerdrehbuch Jäger des verlorenen Schatzes und sein Neo-Noir-Regiedebüt erscheinen im selben Jahr."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt.",
       "context": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt. Die schwüle Umgebung Floridas verbindet körperliche Anziehung mit der moralischen Orientierungslosigkeit des Anwalts.",
-      "anchor": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt.",
       "interest": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Lawrence Kasdan schrieb und inszenierte den Film als sein Regiedebüt."
     }
   ]
 }

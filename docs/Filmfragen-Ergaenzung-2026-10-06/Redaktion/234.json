@@ -36,12 +36,12 @@
       ],
       "short": "Robert Ford (Casey Affleck) bewundert Jesse James (Brad Pitt) und möchte in seine Nähe kommen.",
       "context": "Robert Ford (Casey Affleck) bewundert Jesse James (Brad Pitt) und möchte in seine Nähe kommen. Das ungleiche Verhältnis zwischen Idol und Anhänger prägt die spätere Entwicklung von Kränkung und Verrat.",
-      "anchor": "Die Verehrung macht die spätere Kränkung besonders wirksam.",
       "interest": "Die Verehrung macht die spätere Kränkung besonders wirksam.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Verehrung macht die spätere Kränkung besonders wirksam."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Jesse (Brad Pitt) behält Robert Ford (Casey Affleck) zunächst bei sich, um beim Umzug zu helfen.",
       "context": "Jesse (Brad Pitt) behält Robert Ford (Casey Affleck) zunächst bei sich, um beim Umzug zu helfen. Die unspektakuläre Nähe verstärkt Fords Wunsch, am Leben seines Idols teilzuhaben.",
-      "anchor": "Das Möbeltragen gibt dem Bewunderer Zugang zum privaten Idol.",
       "interest": "Das Möbeltragen gibt dem Bewunderer Zugang zum privaten Idol.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Möbeltragen gibt dem Bewunderer Zugang zum privaten Idol."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Robert Ford (Casey Affleck) erschießt Wood Hite (Jeremy Renner) bei einem Konflikt mit Dick Liddil.",
       "context": "Robert Ford (Casey Affleck) erschießt Wood Hite (Jeremy Renner) bei einem Konflikt mit Dick Liddil (Paul Schneider). Die verborgene Tat verschärft die Angst vor Jesse (Brad Pitt) und macht eine Begnadigung attraktiv.",
-      "anchor": "Der versteckte Mord macht die Nähe zum Idol gefährlich.",
       "interest": "Der versteckte Mord macht die Nähe zum Idol gefährlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der versteckte Mord macht die Nähe zum Idol gefährlich."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Ford (Casey Affleck) erhält die Aussicht auf Geld und Begnadigung für den Mord an Wood Hite.",
       "context": "Ford (Casey Affleck) erhält die Aussicht auf Geld und Begnadigung für den Mord an Wood Hite. Der Handel mit der Staatsmacht bietet einen Ausweg aus der eigenen Schuld und der Furcht vor Jesse.",
-      "anchor": "Die Begnadigung verknüpft den geplanten Verrat mit eigener Straflosigkeit.",
       "interest": "Die Begnadigung verknüpft den geplanten Verrat mit eigener Straflosigkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Begnadigung verknüpft den geplanten Verrat mit eigener Straflosigkeit."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ford (Casey Affleck) schießt mit dem Revolver, den Jesse (Brad Pitt) ihm als Geste der Annäherung geschenkt hat.",
       "context": "Ford (Casey Affleck) schießt mit dem Revolver, den Jesse (Brad Pitt) ihm als Geste der Annäherung geschenkt hat. Das Geschenk wird zum Werkzeug des Verrats, während Jesse unbewaffnet ein Bild säubert.",
-      "anchor": "Das Vertrauensgeschenk wird zur Mordwaffe.",
       "interest": "Das Vertrauensgeschenk wird zur Mordwaffe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Vertrauensgeschenk wird zur Mordwaffe."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Robert (Casey Affleck) und Charley Ford (Sam Rockwell) führen den Mord im Theater vor.",
       "context": "Robert (Casey Affleck) und Charley Ford (Sam Rockwell) führen den Mord im Theater vor. Der zunächst lukrative Ruhm kippt in öffentliche Verachtung; Jesse wird zum Mythos und Robert zum beschimpften Feigling.",
-      "anchor": "Die wiederholte Tat vermarktet den Ruhm, verstetigt aber auch die Schande.",
       "interest": "Die wiederholte Tat vermarktet den Ruhm, verstetigt aber auch die Schande.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die wiederholte Tat vermarktet den Ruhm, verstetigt aber auch die Schande."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2007 erschien der Film.",
       "context": "2007 erschien der Film. Jesse James starb 1882; 125 Jahre später untersucht diese Darstellung, wie der bekannte Mord und seine Wiederaufführungen aus Täter und Opfer gegensätzliche öffentliche Bilder machen.",
-      "anchor": "Jesse James’ Tod 1882, Film 2007: 125 Jahre später untersucht Dominik den öffentlichen Mythos des Mordes.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jesse James’ Tod 1882, Film 2007: 125 Jahre später untersucht Dominik den öffentlichen Mythos des Mordes."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Andrew Dominik schrieb und inszenierte die Romanadaption.",
       "context": "Andrew Dominik schrieb und inszenierte die Romanadaption. Der Film beobachtet lange den Abstand zwischen Fords Bewunderung und James’ Misstrauen, statt nur auf den im Titel angekündigten Mord zuzusteuern.",
-      "anchor": "Andrew Dominik schrieb und inszenierte die Romanadaption.",
       "interest": "Andrew Dominik schrieb und inszenierte die Romanadaption.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Andrew Dominik schrieb und inszenierte die Romanadaption."
     }
   ]
 }

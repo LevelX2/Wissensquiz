@@ -39,13 +39,13 @@
       ],
       "short": "McCall findet in Süditalien eine neue Bindung.",
       "context": "Robert McCall (Denzel Washington) wird nach einer Verletzung in einem süditalienischen Küstenort versorgt. Aus einer vorläufigen Erholung entwickelt sich ein Gefühl von Zugehörigkeit. Als die neuen Bekannten bedroht werden, ist die Gewalt deshalb keine abstrakte Mission mehr. Sie trifft Menschen, mit denen er einen möglichen Alltag jenseits seiner früheren Arbeit verbindet.",
-      "anchor": "Ein Erholungsort wird für McCall zur möglichen Heimat.",
       "interest": "Ein Erholungsort wird für McCall zur möglichen Heimat.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Erholungsort wird für McCall zur möglichen Heimat."
     },
     {
       "code": "L2",
@@ -64,13 +64,13 @@
       ],
       "short": "Die Camorra setzt den Ort unter Druck.",
       "context": "Die kriminelle Gruppe erpresst Händler und Bewohner und will ihre Wohnungen für ein kommerzielles Vorhaben übernehmen. Robert McCall (Denzel Washington) beobachtet Gewalt gegen Menschen, die ihn aufgenommen haben. Die Bedrohung ist damit zugleich persönlich und räumlich: Ein ganzes gemeinschaftliches Leben soll aus seinem Ort verdrängt werden, nicht nur ein einzelner Gegner besiegt werden.",
-      "anchor": "Die Gewalt zielt auf Menschen und auf die Übernahme ihres Ortes.",
       "interest": "Die Gewalt zielt auf Menschen und auf die Übernahme ihres Ortes.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gewalt zielt auf Menschen und auf die Übernahme ihres Ortes."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Die Kellerei verdeckt ein Geld- und Drogenlager.",
       "context": "Robert McCall (Denzel Washington) gibt Emma Collins (Dakota Fanning) einen anonymen Hinweis auf eine sizilianische Kellerei. Die Ermittler entdecken Geld und große Mengen Drogen. Der äußerlich gewöhnliche Betrieb gehört damit zu einem weiter reichenden Netzwerk. Die Spur verbindet McCalls erste gewaltsame Begegnung im Film mit der späteren Gefährdung seines süditalienischen Aufenthaltsorts.",
-      "anchor": "Das Weingut ist eine Fassade für ein größeres kriminelles Geschäft.",
       "interest": "Das Weingut ist eine Fassade für ein größeres kriminelles Geschäft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Weingut ist eine Fassade für ein größeres kriminelles Geschäft."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Die Bewohner widersetzen sich gemeinsam und schaffen Öffentlichkeit.",
       "context": "Vincent Quaranta (Andrea Scarduzio) bedroht Gio Bonucci (Eugenio Mastrandrea), um den Verantwortlichen für den Tod seines Bruders zu finden. McCall (Denzel Washington) gibt sich zu erkennen. Nun reagieren die Bewohner mit Protest und Handyaufnahmen. Die Szene erweitert seine Gegenwehr: Auch die Gemeinschaft selbst handelt und erschwert einen Mord, den die Täter möglichst ungestört ausführen wollen.",
-      "anchor": "Gemeinsamer Protest macht aus privater Einschüchterung einen sichtbaren Angriff.",
       "interest": "Gemeinsamer Protest macht aus privater Einschüchterung einen sichtbaren Angriff.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gemeinsamer Protest macht aus privater Einschüchterung einen sichtbaren Angriff."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Emma Collins ist die Tochter von Susan Plummer.",
       "context": "Emma Collins (Dakota Fanning) erhält nach der Untersuchung ein Kontaktbuch und eine Nachricht von McCall (Denzel Washington). Der Hinweis auf ihre Mutter verbindet sie mit Susan Plummer (Melissa Leo in den früheren Filmen). Die anfängliche Auswahl der jungen Agentin gewinnt dadurch rückwirkend Bedeutung: McCall knüpft an eine verlorene Freundschaft an und unterstützt zugleich die nächste Generation.",
-      "anchor": "Die neue Agentin führt eine alte persönliche Verbindung fort.",
       "interest": "Die neue Agentin führt eine alte persönliche Verbindung fort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die neue Agentin führt eine alte persönliche Verbindung fort."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Die zurückgeholte Summe wird den Geschädigten erstattet.",
       "context": "Der Zugriff auf die Kellerei wirkt anfangs wie ein weiterer Kampf in McCalls (Denzel Washington) gewaltsamer Laufbahn. Später wird deutlich, dass eine zuvor gestohlene Altersvorsorge den Anlass gegeben hatte. Emma Collins (Dakota Fanning) hilft bei der Rückgabe. Die Enthüllung ordnet die Gewalt damit einem konkreten Wiederherstellungsziel zu, das vorübergehend hinter den folgenden Gefahren verborgen blieb.",
-      "anchor": "Die Anfangsmission endet mit der Rückgabe an die ursprünglichen Opfer.",
       "interest": "Die Anfangsmission endet mit der Rückgabe an die ursprünglichen Opfer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Anfangsmission endet mit der Rückgabe an die ursprünglichen Opfer."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "Der dritte Film erschien 2023.",
       "context": "Die Filmreihe verlegt McCalls Alltag nun nach Italien und verbindet Washington mit Dakota Fanning als CIA-Agentin. Die Premiere fand in Rom kurz vor dem amerikanischen Kinostart statt. Das erste Filmjahr bezeichnet diesen dritten Teil und unterscheidet ihn von seinem in Boston angesiedelten Vorgänger, auch wenn beide dieselbe Hauptfigur fortführen.",
-      "anchor": "2023 führt der dritte Film McCall nach Italien.",
       "interest": "2023 führt der dritte Film McCall nach Italien.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "2023 führt der dritte Film McCall nach Italien."
     },
     {
       "code": "D",
@@ -210,12 +210,12 @@
       ],
       "short": "Antoine Fuqua inszenierte auch den dritten McCall-Film.",
       "context": "Antoine Fuqua verantwortet erneut die Regie, während Richard Wenk das Drehbuch liefert. Denzel Washington und Dakota Fanning hatten bereits in einem anderen Actionfilm zusammen gespielt. Diese frühere Verbindung ist ein interessanter Besetzungsbezug, verändert aber den aktuellen Regiecredit nicht. Die neue italienische Umgebung gehört hier zu Fuquas Fortführung derselben Hauptfigur.",
-      "anchor": "Die frühere gemeinsame Besetzung und der aktuelle Regiecredit bleiben getrennt.",
       "interest": "Die frühere gemeinsame Besetzung und der aktuelle Regiecredit bleiben getrennt.",
       "sources": [
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die frühere gemeinsame Besetzung und der aktuelle Regiecredit bleiben getrennt."
     }
   ]
 }

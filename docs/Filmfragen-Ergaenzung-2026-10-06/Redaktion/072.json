@@ -32,12 +32,12 @@
       ],
       "short": "Eine besondere Fernbedienung versetzt David (Tobey Maguire) und Jennifer (Reese Witherspoon) in die Sitcom.",
       "context": "Eine besondere Fernbedienung versetzt David (Tobey Maguire) und Jennifer (Reese Witherspoon) in die Sitcom. Dort werden sie zunächst für die Kinder der dargestellten Familie gehalten.",
-      "anchor": "Die Fernbedienung macht Zuschauer zu Serienfiguren.",
       "interest": "Die Fernbedienung macht Zuschauer zu Serienfiguren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Fernbedienung macht Zuschauer zu Serienfiguren."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Die Sitcomwelt ist schwarzweiß.",
       "context": "Die Sitcomwelt ist schwarzweiß. David (Tobey Maguire) kennt ihre festen Geschichten; Veränderungen durch die Neuankömmlinge werden später über auftauchende Farbe sichtbar.",
-      "anchor": "Der anfangs feste Alltag besitzt noch keine Farbe.",
       "interest": "Der anfangs feste Alltag besitzt noch keine Farbe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der anfangs feste Alltag besitzt noch keine Farbe."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Die Seiten füllen sich mit Text.",
       "context": "Die Seiten füllen sich mit Text. David (Tobey Maguire) und Jennifer (Reese Witherspoon) berichten von Geschichten; neue Vorstellungen erweitern damit die bislang begrenzte Welt.",
-      "anchor": "Erzählte Inhalte füllen die leeren Seiten.",
       "interest": "Erzählte Inhalte füllen die leeren Seiten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Erzählte Inhalte füllen die leeren Seiten."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Die Straßen führen zurück in die Stadt.",
       "context": "Die Straßen führen zurück in die Stadt. Das Weltbild kennt zunächst kein wirkliches Außen; erst die Veränderungen öffnen Wege über den festgelegten Serienraum hinaus.",
-      "anchor": "Die frühen Straßen lassen kein Außen zu.",
       "interest": "Die frühen Straßen lassen kein Außen zu.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die frühen Straßen lassen kein Außen zu."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Die Stadtführung grenzt farbig gewordene Menschen aus.",
       "context": "Die Stadtführung grenzt farbig gewordene Menschen aus. Unter anderem werden Lesen, bestimmte Musik und Farbe beschränkt; der ästhetische Wandel wird zu einem politischen Konflikt um zugelassene Lebensformen.",
-      "anchor": "Die Farbe führt zur Frage, wer in der Stadt dazugehören darf.",
       "interest": "Die Farbe führt zur Frage, wer in der Stadt dazugehören darf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Farbe führt zur Frage, wer in der Stadt dazugehören darf."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Jennifer entscheidet sich fürs Studium in der veränderten Welt.",
       "context": "Jennifer (Reese Witherspoon) entscheidet sich fürs Studium in der veränderten Welt. David (Tobey Maguire) kehrt dagegen zurück; die Geschwister müssen den neuen Möglichkeiten nicht auf dieselbe Weise folgen.",
-      "anchor": "Jennifer wählt eine Zukunft innerhalb der veränderten Welt.",
       "interest": "Jennifer wählt eine Zukunft innerhalb der veränderten Welt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jennifer wählt eine Zukunft innerhalb der veränderten Welt."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 1998 erstmals veröffentlicht.",
       "context": "1998 erschien der Film über eine Fernsehfamilie der fünfziger Jahre. Seine selektive Farbgestaltung entstand aus zunächst vollständig farbig aufgenommenem Material, das digital entsättigt wurde. Das moderne Verfahren lässt sich mit dem dargestellten älteren Fernsehideal verbinden.",
-      "anchor": "1998 machte digitale Entsättigung aus farbigen Aufnahmen eine veränderliche Schwarzweiß-Sitcomwelt.",
       "interest": "1998 machte digitale Entsättigung aus farbigen Aufnahmen eine veränderliche Schwarzweiß-Sitcomwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1998 machte digitale Entsättigung aus farbigen Aufnahmen eine veränderliche Schwarzweiß-Sitcomwelt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Gary Ross.",
       "context": "Ross schrieb und inszenierte seinen ersten Langfilm. Die Begegnung moderner Jugendlicher mit einer Schwarzweiß-Sitcom wird über aufwendige digitale Farbbearbeitung sichtbar; Erfahrung verändert nicht nur Dialoge, sondern das Bild selbst.",
-      "anchor": "Ross schrieb und inszenierte seinen ersten Langfilm.",
       "interest": "Ross schrieb und inszenierte seinen ersten Langfilm.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ross schrieb und inszenierte seinen ersten Langfilm."
     }
   ]
 }

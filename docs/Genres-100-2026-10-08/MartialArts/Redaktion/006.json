@@ -36,13 +36,13 @@
       ],
       "short": "Yang soll die früheren Schüler finden und ihre Verbrechen beenden.",
       "context": "Der sterbende Meister beauftragt Yang Tieh (Chiang Sheng), die früheren Schüler der Schule zu suchen. Sie leben unter anderen Identitäten und kennen einander nicht vollständig. Yang muss zunächst herausfinden, wer sie sind und wie sie handeln. Die Aufgabe verbindet deshalb moralische Verantwortung mit Ermittlungsarbeit. Er soll den schlechten Ruf der Schule nicht durch einen wahllosen Angriff beheben, sondern zwischen verbrecherischen und vertrauenswürdigen Schülern unterscheiden.",
-      "anchor": "Yang muss erst ermitteln, bevor er gegen die Schüler vorgehen kann.",
       "interest": "Verankert den Helden in der besonderen Ermittlungsmission.",
       "sources": [
         "film",
         "arrow_booklet",
         "celestial"
-      ]
+      ],
+      "objective": "Yang muss erst ermitteln, bevor er gegen die Schüler vorgehen kann."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ein verborgener Schatz treibt die Mordverschwörung an.",
       "context": "Ein früherer Angehöriger der Schule besitzt einen verborgenen Schatz. Zwei der gesuchten Schüler wollen ihn zur Preisgabe zwingen und ermorden ihn mit seiner Familie, als er sich weigert. Der Schatz verbindet persönliche Gier mit der späteren Ermittlung und der Korruption des Gerichts. Die verschiedenen Kampfkunststile bilden dabei nicht schon die Erklärung der Taten: Entscheidend ist, wie die Täter ihre Fähigkeiten für den eigenen Vorteil einsetzen.",
-      "anchor": "Der Schatz ist das gemeinsame materielle Motiv der Täter.",
       "interest": "Erkennt das konkrete Ziel hinter der Mordserie.",
       "sources": [
         "film",
         "arrow_booklet"
-      ]
+      ],
+      "objective": "Der Schatz ist das gemeinsame materielle Motiv der Täter."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Yang schließt sich dem rechtschaffenen Echsen-Kämpfer an.",
       "context": "Yang Tieh (Chiang Sheng) erkennt im Echsen-Kämpfer He Yuanxin (Philip Kwok) den vertrauenswürdigen Verbündeten. Dieser arbeitet als Ordnungshüter und will die Verbrechen aufklären. Gemeinsam können sie gegen die übrigen Gegner bestehen, denen Yang allein nicht gewachsen wäre. Die Entscheidung beruht somit auf beobachtetem Verhalten statt auf der gemeinsamen Herkunft aus einer Schule. Der letzte Kampf setzt die vorherige Ermittlung in eine konkrete Zusammenarbeit um.",
-      "anchor": "Yangs Partner ist der Echsen-Kämpfer, nicht einer der Verschwörer.",
       "interest": "Fragt nach der moralisch begründeten Bündnisentscheidung.",
       "sources": [
         "film",
         "arrow_booklet"
-      ]
+      ],
+      "objective": "Yangs Partner ist der Echsen-Kämpfer, nicht einer der Verschwörer."
     },
     {
       "code": "M2",
@@ -109,13 +109,13 @@
       ],
       "short": "Bestechung verwandelt das Verfahren in ein Mittel der Verschwörung.",
       "context": "Nach der Festnahme des Tausendfüßler-Kämpfers Tang Shankui (Lu Feng) versuchen die Täter, das Verfahren zu ihren Gunsten zu lenken. Sie bestechen den Richter und richten den Verdacht gegen den Kröten-Kämpfer Li Hao (Lo Mang). Die Behörde bietet somit keinen verlässlichen Schutz vor der Verschwörung. Gerade die Nutzung scheinbar ordentlicher Ermittlungs- und Gerichtsabläufe macht es schwierig, das Verbrechen allein durch eine richtige Beobachtung aufzuklären.",
-      "anchor": "Die Täter kaufen das Verfahren und lenken die Beschuldigung um.",
       "interest": "Zeigt den konkreten Mechanismus institutioneller Korruption.",
       "sources": [
         "film",
         "arrow_booklet",
         "celestial"
-      ]
+      ],
+      "objective": "Die Täter kaufen das Verfahren und lenken die Beschuldigung um."
     },
     {
       "code": "S1",
@@ -134,11 +134,11 @@
       ],
       "short": "Die Schwachstellen liegen hinter den Ohren.",
       "context": "Der Kröten-Kämpfer Li Hao (Lo Mang) kann starke Schläge überstehen und widersteht zunächst auch der Folter. Der Skorpion-Kämpfer Ma (Sun Chien) trifft jedoch mit seinen Wurfpfeilen die empfindlichen Stellen hinter den Ohren. Danach ist Li verwundbar. Der besondere Schutz wird damit nicht einfach durch größere Kraft überwunden. Das Wissen um eine genaue körperliche Grenze erlaubt den Tätern, einen sonst kaum besiegbaren Gegner unter Kontrolle zu bringen.",
-      "anchor": "Gezielte Treffer hinter den Ohren heben den Krötenschutz auf.",
       "interest": "Fragt nach dem präzisen Gegenmittel zu einer etablierten Fähigkeit.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Gezielte Treffer hinter den Ohren heben den Krötenschutz auf."
     },
     {
       "code": "S2",
@@ -157,11 +157,11 @@
       ],
       "short": "Ein vorgetäuschter Selbstmord verdeckt den Gefängnismord.",
       "context": "Der Kröten-Kämpfer Li Hao (Lo Mang) wird im Gefängnis erstickt. Die Täter hängen den Toten anschließend auf, um Selbstmord vorzutäuschen. Damit soll das Ergebnis des manipulierten Verfahrens auch nach seinem Tod unangefochten bleiben. Der Ort der Haft wird selbst zum Tatort, während die äußere Erscheinung eine andere Ursache nahelegt. Die Aufklärung muss daher nicht nur Schuldzuweisungen, sondern auch die scheinbaren Beweise für einen Todeshergang hinterfragen.",
-      "anchor": "Das Aufhängen geschieht nach der Tötung und tarnt ihren wirklichen Ablauf.",
       "interest": "Erkennt die konkrete Herstellung eines falschen Todesbildes.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Aufhängen geschieht nach der Tötung und tarnt ihren wirklichen Ablauf."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "1978 Film, 1993 Wu-Tang-Debütalbum mit Filmzitaten: 15 Jahre Abstand.",
       "context": "Der Film Die fünf tödlichen Gifte erschien 1978. Das Wu-Tang-Clan-Debütalbum Enter the Wu-Tang (36 Chambers) kam 1993 heraus, 15 Jahre später. Das Arrow-Booklet nennt Da Mystery of Chessboxin’ als konkretes Beispiel für die Verwendung von Dialogen aus dem Film. Der Abstand verbindet das ursprüngliche Kampfkunstkino mit seiner späteren musikalischen Rezeption. Die Bekanntheit solcher Zitate sagt dabei noch nicht, wie vertraut jemand mit der eigentlichen Kriminalgeschichte ist.",
-      "anchor": "1978 Film, 1993 Album: 15 Jahre bis zum bekannten Dialogsample.",
       "interest": "Verknüpft das Erstjahr mit einer konkret belegten späteren Wiederverwendung.",
       "sources": [
         "arrow_booklet",
         "film"
-      ]
+      ],
+      "objective": "1978 Film, 1993 Album: 15 Jahre bis zum bekannten Dialogsample."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Der allein ausgewiesene Hauptregisseur ist Chang Cheh.",
       "context": "Das Arrow-Booklet nennt Chang Cheh als Regisseur und gemeinsam mit Ni Kuang als Drehbuchautor. Liang Ting, auch Leung Ting geschrieben, erscheint bei den Kampfkunst-Instruktoren. Diese Trennung erklärt, warum der entsprechende Zusatz in manchen Datenzusammenstellungen keinen zweiten Hauptregisseur bezeichnet. Die Handlung nutzt verschiedene Kampfstile für eine Ermittlungsgeschichte, in der Schüler unter verborgenen Identitäten auftreten und ihre Fähigkeiten sehr unterschiedlich einsetzen.",
-      "anchor": "Chang Cheh: Hauptregie; Leung Ting: Kampfgestaltung.",
       "interest": "Klärt die Verwechslung eines Action-Credits mit gemeinsamer Hauptregie.",
       "sources": [
         "arrow_booklet",
         "film",
         "celestial"
-      ]
+      ],
+      "objective": "Chang Cheh: Hauptregie; Leung Ting: Kampfgestaltung."
     }
   ]
 }

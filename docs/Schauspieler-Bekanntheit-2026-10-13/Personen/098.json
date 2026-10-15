@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Sie spielt die entführte Tochter, die Creasy beschützen soll.",
       "context": "Der ehemalige Soldat Creasy (Denzel Washington) übernimmt den Schutz des Mädchens Pita (Dakota Fanning). Als es entführt wird, setzt er alles daran, es wiederzufinden.",
-      "anchor": "Pita ist Creasys Schutzbefohlene.",
       "interest": "Eine prägende frühe Rolle mit ihrer Handlung verbinden.",
       "feedback": [
         "",
@@ -35,7 +34,8 @@
       ],
       "knowledge_id": "K-ACT-202610-P01-M-010",
       "variant_of": "ACT-202610-P01-M-010",
-      "knowledge_note": "Umgekehrte Besetzungsfrage: Dakota Fanning als Pita in Man on Fire."
+      "knowledge_note": "Umgekehrte Besetzungsfrage: Dakota Fanning als Pita in Man on Fire.",
+      "objective": "Pita ist Creasys Schutzbefohlene."
     },
     {
       "code": "L2",
@@ -49,7 +49,6 @@
       "correct": 0,
       "short": "Fanning spricht die junge Titelheldin.",
       "context": "Coraline entdeckt in ihrem neuen Zuhause eine Tür in eine scheinbar schönere Welt. Für den Stop-Motion-Film entstand Fannings Beitrag am Mikrofon, während die Figuren als Puppen Bild für Bild animiert wurden.",
-      "anchor": "Dakota Fanning ist Coralines Originalstimme.",
       "interest": "Sichtbare Darstellung und Originalstimme unterscheiden.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       ],
       "extraSources": [
         "https://www.focusfeatures.com/article/coraline_2017_eighth-anniversary?highlight=bambi+anniversary+edition"
-      ]
+      ],
+      "objective": "Dakota Fanning ist Coralines Originalstimme."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 2,
       "short": "Sie sprengen einen Staudamm.",
       "context": "Dena, Josh (Jesse Eisenberg) und Harmon (Peter Sarsgaard) bereiten den Anschlag sorgfältig vor. Nach der Tat tritt an die Stelle ihrer politischen Gewissheit ein Klima aus Angst, Schuld und Misstrauen.",
-      "anchor": "„Night Moves“ – Anschlag auf den Damm.",
       "interest": "Den politischen Konflikt eines ungewöhnlichen Thrillers erfassen.",
       "feedback": [
         "",
@@ -90,7 +89,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-great-thrillers-directed-women",
         "https://player.bfi.org.uk/rentals/film/watch-night-moves-2013-online"
-      ]
+      ],
+      "objective": "„Night Moves“ – Anschlag auf den Damm."
     },
     {
       "code": "M2",
@@ -104,7 +104,6 @@
       "correct": 0,
       "short": "Liz arbeitet als Hebamme.",
       "context": "Sie lebt mit ihrer Familie im amerikanischen Westen. Das Auftauchen eines neuen Predigers (Guy Pearce) bedroht ihre Sicherheit: Liz erkennt in ihm einen Mann aus der Vergangenheit, dem sie entkommen wollte.",
-      "anchor": "Liz hilft bei Geburten – und fürchtet den Prediger.",
       "interest": "Eine Westernheldin über Beruf und Bedrohung kennenlernen.",
       "feedback": [
         "",
@@ -117,7 +116,8 @@
       ],
       "extraSources": [
         "https://player.bfi.org.uk/rentals/film/watch-brimstone-2017-online"
-      ]
+      ],
+      "objective": "Liz hilft bei Geburten – und fürchtet den Prediger."
     },
     {
       "code": "S1",
@@ -131,7 +131,6 @@
       "correct": 1,
       "short": "Sie spielt Cherie Currie.",
       "context": "Der Film stellt die junge Rockband und das Verhältnis ihrer Musikerinnen in den Mittelpunkt. Kristen Stewart übernimmt Joan Jett; Fanning verkörpert deren Mitstreiterin am Mikrofon.",
-      "anchor": "Fanning singt als Cherie Currie.",
       "interest": "Eine reale Musikerin hinter einer Filmrolle erkennen.",
       "feedback": [
         "",
@@ -145,7 +144,8 @@
       "extraSources": [
         "https://catalog.afi.com/Catalog/PersonDetails/247232",
         "https://www.vanityfair.com/video/watch/sundance--kristen-stewart---dakota-fanning"
-      ]
+      ],
+      "objective": "Fanning singt als Cherie Currie."
     },
     {
       "code": "S2",
@@ -159,7 +159,6 @@
       "correct": 3,
       "short": "Marge ist Schriftstellerin.",
       "context": "Marge lebt mit Dickie Greenleaf (Johnny Flynn) in Italien und begegnet Tom Ripley (Andrew Scott) misstrauisch. Später erwägt sie, das öffentliche Interesse an Dickies Verschwinden zur Vermarktung ihres Buchs zu nutzen.",
-      "anchor": "Marge schreibt – und durchschaut Tom zunächst.",
       "interest": "Eine Nebenfigur mit eigenen Interessen verstehen.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       "films": [],
       "extraSources": [
         "https://www.netflix.com/tudum/articles/ripley-ending-explained"
-      ]
+      ],
+      "objective": "Marge schreibt – und durchschaut Tom zunächst."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 1,
       "short": "Sie war als Nebendarstellerin nominiert.",
       "context": "Fanning spielt Lucy, die Tochter des geistig behinderten Sam (Sean Penn). Die Schauspielergewerkschaft würdigte ihre Leistung in der Nebenrollen-Kategorie; eine Nominierung ist dabei von einem Preisgewinn zu unterscheiden.",
-      "anchor": "Lucy brachte eine SAG-Nominierung als Nebendarstellerin.",
       "interest": "Eine frühe Auszeichnung fachlich genau einordnen.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       "extraSources": [
         "https://www.sagawards.org/files/sagawards/nominee_histories.pdf",
         "https://catalog.afi.com/Catalog/MovieDetails/62048"
-      ]
+      ],
+      "objective": "Lucy brachte eine SAG-Nominierung als Nebendarstellerin."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 3,
       "short": "Sie gründete die Firma mit ihrer Schwester Elle Fanning.",
       "context": "Die Schwestern erweiterten ihre Arbeit vor der Kamera um die Entwicklung eigener Stoffe. Die Firma wurde für Film- und Fernsehprojekte sowie weitere Medienformen gegründet.",
-      "anchor": "Zwei Fannings hinter Lewellen Pictures.",
       "interest": "Den Schritt von der Darstellung zur eigenen Stoffentwicklung erkennen.",
       "feedback": [
         "",
@@ -223,7 +222,8 @@
       "films": [],
       "extraSources": [
         "https://press.hulu.com/bios/elle-fanning/"
-      ]
+      ],
+      "objective": "Zwei Fannings hinter Lewellen Pictures."
     }
   ]
 }

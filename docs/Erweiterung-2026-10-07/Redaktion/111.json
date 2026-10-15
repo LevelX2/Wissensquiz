@@ -36,12 +36,12 @@
       ],
       "short": "Die Gruppe sucht den verborgenen Goldschatz.",
       "context": "Die Reisegruppe sucht einen legendären Goldreichtum in einem verborgenen Canyon. Der erwartete Fund bündelt sehr unterschiedliche Menschen auf einem gemeinsamen Weg. Ihr Interesse an derselben Sache bedeutet aber keine verlässliche Gemeinschaft. Je näher sie dem Ziel kommen, desto stärker bedroht Besitzgier die Zusammenarbeit.",
-      "anchor": "Ein gemeinsames Goldziel erzeugt noch keine verlässliche Gemeinschaft.",
       "interest": "Verbindet den Anlass mit dem wachsenden inneren Konflikt.",
       "sources": [
         "sony"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein gemeinsames Goldziel erzeugt noch keine verlässliche Gemeinschaft."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "MacKenna kennt den Weg und ist dadurch unentbehrlich.",
       "context": "Colorado (Omar Sharif) hält MacKenna (Gregory Peck) fest, braucht ihn aber als Führer. Der Gefangene besitzt damit einen begrenzten Schutz durch sein Wissen. Seine Verletzbarkeit verschwindet nicht; sie verändert sich mit der Frage, wie lange seine Fähigkeit für die anderen noch notwendig bleibt.",
-      "anchor": "Das Wissen des Gefangenen schützt ihn nur, solange die anderen den Weg noch brauchen.",
       "interest": "Erklärt die Abhängigkeit zwischen Täter und Gefangenem.",
       "sources": [
         "sony"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Wissen des Gefangenen schützt ihn nur, solange die anderen den Weg noch brauchen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Gier verbindet sehr verschiedene Beteiligte.",
       "context": "Soldaten, Verbrecher und scheinbar ehrbare Bürger schließen sich der Goldsuche an. Die Aussicht auf Besitz überlagert ihre üblichen gesellschaftlichen Rollen. Der Film prüft dadurch den Abstand zwischen äußerem Ansehen und tatsächlichem Verhalten. Der gemeinsame Weg macht Unterschiede sichtbar, beseitigt aber keine persönlichen Ansprüche.",
-      "anchor": "Die Aussicht auf Gold bringt verschiedene gesellschaftliche Rollen unter dasselbe Begehren.",
       "interest": "Erklärt die Funktion der gemischten Reisegruppe.",
       "sources": [
         "sony"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Aussicht auf Gold bringt verschiedene gesellschaftliche Rollen unter dasselbe Begehren."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Colorado träumt von Reichtum in Paris.",
       "context": "Colorado (Omar Sharif) zeigt MacKenna (Gregory Peck) eine französische Zeitschrift und erklärt seinen Traum vom reichen Leben in Paris. Das Gold ist für ihn ein Mittel zur Veränderung der eigenen Existenz. Der ferne Wunsch steht gegen die konkrete Gewalt, mit der er seinen Zugang dazu erzwingt.",
-      "anchor": "Colorados Pariser Traum verbindet fernes Wunschleben mit unmittelbarer Gewalt.",
       "interest": "Erklärt die individuelle Vorstellung hinter der Besitzgier.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Colorados Pariser Traum verbindet fernes Wunschleben mit unmittelbarer Gewalt."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Der Schatten am Morgen macht den Zugang erkennbar.",
       "context": "Am Morgen bewegt sich der Schatten von Shaking Rock und weist auf den verborgenen Durchgang. Die gesuchte Route hängt damit von Licht, Zeit und Landschaft zusammen. Reines Vorankommen genügt nicht: Der richtige Ort muss im richtigen Augenblick gelesen werden, bevor sich der Zugang erschließt.",
-      "anchor": "Der Weg erschließt sich erst aus dem Felsenschattenspiel zur richtigen Tageszeit.",
       "interest": "Verbindet Landschaft und Zeit als Ursache der Entdeckung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Weg erschließt sich erst aus dem Felsenschattenspiel zur richtigen Tageszeit."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "MacKenna nimmt unwissentlich Gold mit.",
       "context": "MacKenna (Gregory Peck) reitet mit Inga (Camilla Sparv) davon und weiß nicht, dass seine Satteltaschen Gold enthalten. Der zerstörte Zugang hat die Hoffnungen der Suchenden zunichtegemacht. Ausgerechnet der Mann, der dem Goldstreben misstraute, trägt einen Gewinn fort, den er im Schlussbild noch nicht erkennt.",
-      "anchor": "Der skeptische Überlebende erhält einen Goldgewinn, ohne ihn selbst zu bemerken.",
       "interest": "Erklärt die Schlussironie zwischen Wissen und Besitz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der skeptische Überlebende erhält einen Goldgewinn, ohne ihn selbst zu bemerken."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "1969 liegt acht Jahre nach 1961.",
       "context": "The Guns of Navarone erschien 1961. Mackenna’s Gold folgte 1969, acht Jahre später, erneut mit Gregory Peck und Regisseur J. Lee Thompson. AFI nennt außerdem wiederkehrende Produktionsbeteiligte. Der Zeitanker verbindet damit diese konkrete Abenteuerproduktion mit einem früheren gemeinsamen Filmteam.",
-      "anchor": "1961 Navarone, 1969 die Goldsuche: Peck und Thompson arbeiten acht Jahre später wieder zusammen.",
       "interest": "Verankert das Jahr in einer belegten früheren Zusammenarbeit.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1961 Navarone, 1969 die Goldsuche: Peck und Thompson arbeiten acht Jahre später wieder zusammen."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Thompson inszenierte die Produktion.",
       "context": "J. Lee Thompson führte Regie, Carl Foreman schrieb und produzierte. Die geplante aufwendige Präsentation wurde vor dem Verleih verändert. AFI trennt die ursprünglichen Cinerama- und Roadshow-Pläne von der tatsächlichen Veröffentlichung. Der Regiecredit ist dabei ebenso eindeutig wie die Notwendigkeit, Planung und fertigen Verleih auseinanderzuhalten.",
-      "anchor": "Thompsons Regie gehört zu einer Produktion, deren große Vorführpläne vor dem Start geändert wurden.",
       "interest": "Verbindet den Credit mit einer belegten Produktionsbesonderheit.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Thompsons Regie gehört zu einer Produktion, deren große Vorführpläne vor dem Start geändert wurden."
     }
   ]
 }

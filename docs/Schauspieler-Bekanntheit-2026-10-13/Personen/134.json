@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Uehara spielt den freundlichen Busfahrer auf einer Überlandstrecke.",
       "context": "Auf der Fahrt vom ländlichen Izu in Richtung Tokio begegnet der Fahrer Menschen mit sehr unterschiedlichen Hoffnungen und Sorgen. Die Fahrgäste bilden einen kleinen Ausschnitt der japanischen Gesellschaft während der wirtschaftlichen Krise. Seine Aufmerksamkeit für ihre Nöte verbindet die einzelnen Begegnungen; hinter dem leichten Ton der Reise stehen auch drohender sozialer Abstieg und Existenzangst.",
-      "anchor": "Eine Busfahrt verbindet Menschen aus unterschiedlichen Lebenslagen.",
       "interest": "Der Beruf erklärt die episodische Begegnungsstruktur des Films.",
       "feedback": [
         "Uehara spielt den freundlichen Busfahrer auf einer Überlandstrecke.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/1087-mr-thank-you"
-      ]
+      ],
+      "objective": "Eine Busfahrt verbindet Menschen aus unterschiedlichen Lebenslagen."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Hatsunosuke arbeitet als Angestellter im Büro.",
       "context": "Hatsunosuke und Michiyo (Setsuko Hara) leben in Osaka. Während er zur Arbeit geht, bleibt sie in einem Alltag aus Haushalt und Mahlzeiten zurück. Seine müde Heimkehr und die selbstverständliche Erwartung, versorgt zu werden, machen ihre Enttäuschung sichtbar. Der Besuch der jungen Satoko bringt schließlich Bewegung in die festgefahrene Ehe und verschärft Michiyos Unzufriedenheit.",
-      "anchor": "Seinem Büroalltag steht Michiyos unbeachtete Hausarbeit gegenüber.",
       "interest": "Die Arbeitsteilung erschließt den sozialen Hintergrund der Ehekrise.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.tcm.com/articles/021418/repast-1951"
-      ]
+      ],
+      "objective": "Seinem Büroalltag steht Michiyos unbeachtete Hausarbeit gegenüber."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Shūichi ist Kikukos Ehemann.",
       "context": "Das Ehepaar lebt im Haus von Shūichis Eltern. Seine Kälte und Untreue belasten Kikuko, während sein Vater Shingo (Sō Yamamura) ihre Verletzung wahrnimmt. Die Fürsorge des älteren Mannes steht damit innerhalb desselben Haushalts dem Verhalten seines Sohnes gegenüber. Ueharas Figur gehört zu einer Familie, deren äußeres Zusammenleben ihre wachsende Entfremdung kaum verdeckt.",
-      "anchor": "Der untreue Sohn und der aufmerksame Vater stehen derselben Frau sehr verschieden gegenüber.",
       "interest": "Die Beziehung ordnet den zentralen Familienkonflikt eindeutig zu.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://rijs.fas.harvard.edu/events/film-screening-sound-mountain-yama-no-oto-0"
-      ]
+      ],
+      "objective": "Der untreue Sohn und der aufmerksame Vater stehen derselben Frau sehr verschieden gegenüber."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Hiroshi ist Setsukos frühere Liebe.",
       "context": "Setsuko hält an ihrer Ehe mit dem arbeitslosen, häufig betrunkenen Mimura (Sō Yamamura) fest. Ihre jüngere Schwester Mariko (Hideko Takamine) sieht darin keinen zwingenden Grund, eine andere Zukunft auszuschließen. Als Hiroshi aus Frankreich zurückkehrt, versucht sie, die frühere Verbindung wiederzubeleben. Die unterschiedliche Haltung der Schwestern zu Tradition und persönlichem Glück wird dadurch zum konkreten Beziehungskonflikt.",
-      "anchor": "Mariko setzt auf die Rückkehr einer alten Liebe ihrer Schwester.",
       "interest": "Die Figur verbindet den Generationenkonflikt mit einer möglichen neuen Lebensentscheidung.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://www.festival-cannes.com/en/f/munekata-kyodai/"
-      ]
+      ],
+      "objective": "Mariko setzt auf die Rückkehr einer alten Liebe ihrer Schwester."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 0,
       "short": "Toichis Frau konfrontiert Fusako; daraufhin beendet diese die Beziehung.",
       "context": "Toichi und die verwitwete Fusako (Yatsuko Tan’ami) kommen einander näher und verbringen während einer Geschäftsreise eine Nacht zusammen. Seine Frau (Mieko Takamine) akzeptiert keine Scheidung. Nachdem sie Fusakos Adresse gefunden hat, sucht sie die Rivalin auf. Fusako teilt Toichi anschließend schriftlich mit, dass sie ihn nicht mehr sehen werde; die bestehende Ehe ist damit gerettet, ihre Unzufriedenheit aber nicht gelöst.",
-      "anchor": "Die Konfrontation beendet die Affäre, ohne die Ehekrise zu heilen.",
       "interest": "Die konkrete Folge unterscheidet das Ende der Außenbeziehung von einer Versöhnung.",
       "feedback": [
         "Toichis Frau konfrontiert Fusako; daraufhin beendet diese die Beziehung.",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Wife_(film)"
-      ]
+      ],
+      "objective": "Die Konfrontation beendet die Affäre, ohne die Ehekrise zu heilen."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 2,
       "short": "Kikuko lässt die Schwangerschaft abbrechen.",
       "context": "Shingo begleitet seine Schwiegertochter zum Krankenhaus und erfährt erst später, was dort geschehen ist. Während er auch die Geliebte seines Sohnes aufsucht, löst sich Kikuko zunehmend aus der gescheiterten Ehe. Bei der abschließenden Begegnung im Park spricht sie vom Wunsch nach einem eigenen Leben. Ihre Entscheidung gehört damit zu einem Trennungsprozess, den die Fürsorge des Schwiegervaters nicht einfach rückgängig macht.",
-      "anchor": "Kikukos Entscheidung führt aus der Ehe, nicht zurück in den gemeinsamen Haushalt.",
       "interest": "Ein konkreter Schritt macht ihre zunehmende Selbstbestimmung verständlich.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Sound_of_the_Mountain"
-      ]
+      ],
+      "objective": "Kikukos Entscheidung führt aus der Ehe, nicht zurück in den gemeinsamen Haushalt."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Shimizu entwickelte die Szene nach einer tatsächlichen Begegnung während der Außenaufnahmen.",
       "context": "Der Film entstand an Originalschauplätzen ohne ausgearbeitetes Drehbuch. Als Shimizu dort koreanischen Arbeitskräften begegnete, nahm er ein Gespräch des Fahrers mit einer jungen Tunnelarbeiterin in den Film auf. Die Reise öffnet sich dadurch für eine in Japan ausgegrenzte Bevölkerungsgruppe. Die Szene verknüpft die Freundlichkeit des Fahrers mit der Arbeit jener Menschen, die die Verkehrswege überhaupt erst schaffen.",
-      "anchor": "Eine reale Begegnung erweitert die soziale Perspektive der Filmreise.",
       "interest": "Der Produktionsvorgang zeigt, wie Shimizus offene Arbeitsweise das Thema des Films beeinflusst.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/1038-eclipse-series-15-travels-with-hiroshi-shimizu"
-      ]
+      ],
+      "objective": "Eine reale Begegnung erweitert die soziale Perspektive der Filmreise."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 1,
       "short": "Der Schluss wiederholt die Morgenroutine und die getrennten inneren Monologe des Anfangs.",
       "context": "Die Affäre ist beendet, doch Naruse belohnt den Fortbestand der Ehe nicht mit einer großen Wiederannäherung. Toichi geht zur Arbeit, seine Frau bleibt bei den häuslichen Aufgaben. Die erneut hörbaren Gedanken beider lassen ihre Entfremdung bestehen. Der formale Rückgriff auf den Anfang stellt deshalb die Frage, was sich durch die Abwehr der Rivalin im gemeinsamen Leben überhaupt verändert hat.",
-      "anchor": "Die Wiederholung des Anfangs lässt die ungelöste Ehekrise hörbar werden.",
       "interest": "Die Erzählform erklärt, weshalb das Ende der Affäre kein einfaches glückliches Ende ergibt.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/features/mikio-naruses-wife-married-mainstream"
-      ]
+      ],
+      "objective": "Die Wiederholung des Anfangs lässt die ungelöste Ehekrise hörbar werden."
     }
   ]
 }

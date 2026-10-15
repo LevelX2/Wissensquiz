@@ -9,17 +9,29 @@
     {
       "code": "L1",
       "question": "Welche Figur spielt Charles Laughton in „Der Glöckner von Notre Dame“ von 1939?",
-      "answers": ["Frollo", "Gringoire", "Phoebus", "Quasimodo"],
+      "answers": [
+        "Frollo",
+        "Gringoire",
+        "Phoebus",
+        "Quasimodo"
+      ],
       "correct": 3,
       "short": "Charles Laughton spielt den Glöckner Quasimodo.",
       "context": "Quasimodo (Charles Laughton) lebt als Glöckner an Notre Dame. Als Esmeralda (Maureen O’Hara) zum Tod verurteilt wird, bringt er sie in die Kirche und beansprucht für sie Schutz. Frollo (Cedric Hardwicke) verfolgt die junge Frau weiter. Laughtons äußerlich stark verwandelte Figur wird damit zum Beschützer eines Menschen, den die vermeintlichen Hüter der Ordnung bedrohen.",
-      "anchor": "Laughtons Quasimodo sucht für Esmeralda Schutz in Notre Dame.",
       "interest": "Eine bekannte Figurenrolle wird durch ihren moralischen Gegensatz zur offiziellen Macht verständlich.",
-      "feedback": ["", "", "", "Laughton verkörpert Quasimodo, den Glöckner."],
-      "films": ["The Hunchback of Notre Dame|1939"],
+      "feedback": [
+        "",
+        "",
+        "",
+        "Laughton verkörpert Quasimodo, den Glöckner."
+      ],
+      "films": [
+        "The Hunchback of Notre Dame|1939"
+      ],
       "extraSources": [
         "https://catalog.afi.com/Film/5097-THE-HUNCHBACK-OF-NOTRE-DAME"
-      ]
+      ],
+      "objective": "Laughtons Quasimodo sucht für Esmeralda Schutz in Notre Dame."
     },
     {
       "code": "L2",
@@ -33,7 +45,6 @@
       "correct": 0,
       "short": "Charles Laughton spielt Kapitän William Bligh.",
       "context": "Charles Laughton spielt Bligh als grausamen Kapitän, dessen Strafen und Versorgungspolitik die Mannschaft gegen ihn aufbringen. Fletcher Christian (Clark Gable) führt schließlich die Meuterei an und setzt ihn mit seinen Anhängern in einem offenen Boot aus. Diese Fassung von 1935 stellt Laughtons Autoritätsfigur ins Zentrum des Konflikts; sie ist von späteren Verfilmungen mit anderen Bligh-Darstellern zu unterscheiden.",
-      "anchor": "Laughton ist Bligh in der Bounty-Fassung von 1935.",
       "interest": "Der Rollenanker verbindet ein bekanntes Gesicht mit dem Machtkonflikt und einer bestimmten Verfilmung.",
       "feedback": [
         "Laughton spielt Kapitän Bligh; Clark Gable ist Fletcher Christian.",
@@ -41,8 +52,13 @@
         "",
         ""
       ],
-      "films": ["Mutiny on the Bounty|1935"],
-      "extraSources": ["https://catalog.afi.com/Film/7072-MUTINY-ON-THE-BOUNTY"]
+      "films": [
+        "Mutiny on the Bounty|1935"
+      ],
+      "extraSources": [
+        "https://catalog.afi.com/Film/7072-MUTINY-ON-THE-BOUNTY"
+      ],
+      "objective": "Laughton ist Bligh in der Bounty-Fassung von 1935."
     },
     {
       "code": "M1",
@@ -56,7 +72,6 @@
       "correct": 1,
       "short": "Sir Wilfrid Robarts ist der Strafverteidiger des angeklagten Leonard Vole.",
       "context": "Sir Wilfrid Robarts (Charles Laughton) kehrt nach einem schweren Herzinfarkt in seinen Beruf zurück. Trotz ärztlicher Warnungen übernimmt er die Verteidigung von Leonard Vole (Tyrone Power), der unter Mordverdacht steht. Dessen Frau Christine (Marlene Dietrich) erweist sich als schwer durchschaubare Zeugin. Laughtons Verteidiger muss sowohl die Aussagen im Gerichtssaal als auch sein eigenes Vertrauen in die Beteiligten überprüfen.",
-      "anchor": "Robarts verteidigt Leonard Vole und muss dessen Umfeld durchschauen.",
       "interest": "Die Berufsrolle erschließt Laughtons Position im Gerichtsdrama und den Konflikt zwischen Erfahrung und Täuschung.",
       "feedback": [
         "",
@@ -64,13 +79,16 @@
         "",
         ""
       ],
-      "films": ["Witness for the Prosecution|1957"],
+      "films": [
+        "Witness for the Prosecution|1957"
+      ],
       "extraSources": [
         "https://catalog.afi.com/Film/52448-WITNESS-FOR-THE-PROSECUTION"
       ],
       "knowledge_id": "K-CLA-11-01",
       "variant_of": "CLA-L-021",
-      "knowledge_note": "Umgekehrter Besetzungs-/Berufsrollen-Zusammenhang Charles Laughton als Strafverteidiger Sir Wilfrid Robarts."
+      "knowledge_note": "Umgekehrter Besetzungs-/Berufsrollen-Zusammenhang Charles Laughton als Strafverteidiger Sir Wilfrid Robarts.",
+      "objective": "Robarts verteidigt Leonard Vole und muss dessen Umfeld durchschauen."
     },
     {
       "code": "M2",
@@ -84,7 +102,6 @@
       "correct": 2,
       "short": "Gracchus ist der politische Rivale des Crassus im römischen Senat.",
       "context": "Gracchus (Charles Laughton) bekämpft den Machtanspruch von Crassus (Laurence Olivier) mit politischen Manövern. Der Sklavenaufstand unter Spartacus (Kirk Douglas) berührt deshalb auch die Rivalität innerhalb Roms. Am Ende hilft Gracchus, Varinia (Jean Simmons) und ihrem Kind die Freiheit zu ermöglichen. Seine Figur gehört zum politischen Handlungsstrang des Films; dieser gestaltet die antike Geschichte ausdrücklich dramatisch um.",
-      "anchor": "Gracchus führt den politischen Gegenkampf zu Crassus.",
       "interest": "Die Frage macht neben den Gladiatorenkämpfen den politischen Konflikt des Epos sichtbar.",
       "feedback": [
         "",
@@ -92,11 +109,14 @@
         "Gracchus ist Crassus’ politischer Rivale im Senat.",
         ""
       ],
-      "films": ["Spartacus|1960"],
+      "films": [
+        "Spartacus|1960"
+      ],
       "extraSources": [
         "https://www.criterion.com/films/449-spartacus",
         "https://catalog.afi.com/Film/53291-SPARTACUS"
-      ]
+      ],
+      "objective": "Gracchus führt den politischen Gegenkampf zu Crassus."
     },
     {
       "code": "S1",
@@ -110,7 +130,6 @@
       "correct": 0,
       "short": "Dr. Moreau versucht, Tiere durch grausame Eingriffe in menschenähnliche Wesen zu verwandeln.",
       "context": "Auf seiner abgelegenen Insel verwandelt Dr. Moreau (Charles Laughton) Tiere durch brutale medizinische Eingriffe in menschenähnliche Wesen. Der Gestrandete Edward Parker (Richard Arlen) entdeckt eine Welt, in der der Wissenschaftler zugleich experimentiert und herrscht. Die H.-G.-Wells-Verfilmung verbindet Körperhorror mit der Frage, was menschliches Verhalten ausmacht, wenn ausgerechnet der vermeintlich zivilisierte Forscher grausam handelt.",
-      "anchor": "Moreau formt Tiere zu Menschenwesen und behandelt sie grausam.",
       "interest": "Das Experiment erschließt die ethische Umkehrung des Horrorfilms statt nur den Namen einer Schurkenrolle.",
       "feedback": [
         "Moreau will Tiere zu menschenähnlichen Wesen umformen.",
@@ -118,11 +137,14 @@
         "",
         ""
       ],
-      "films": ["Island of Lost Souls|1932"],
+      "films": [
+        "Island of Lost Souls|1932"
+      ],
       "extraSources": [
         "https://www.criterion.com/films/27861-island-of-lost-souls",
         "https://www.criterion.com/current/posts/2034-island-of-lost-souls-the-beast-flesh-creeping-back"
-      ]
+      ],
+      "objective": "Moreau formt Tiere zu Menschenwesen und behandelt sie grausam."
     },
     {
       "code": "S2",
@@ -136,7 +158,6 @@
       "correct": 1,
       "short": "Janoth lässt George Stroud nach dem unbekannten Mann suchen, dessen Spuren zu Stroud selbst führen.",
       "context": "Verleger Earl Janoth (Charles Laughton) ermordet seine Geliebte und hat zuvor nur flüchtig einen Mann beim Verlassen ihrer Wohnung gesehen. Er beauftragt Redakteur George Stroud (Ray Milland), diesen Unbekannten zu finden. Stroud begreift, dass er selbst gesucht wird, und muss die Ermittlungen seiner Mitarbeiter lenken, ohne sich zu verraten. Janoths Verlagsapparat wird so zum Werkzeug einer Jagd im eigenen Haus.",
-      "anchor": "Stroud leitet eine Suche, deren Ziel er selbst ist.",
       "interest": "Die besondere Spannungskonstruktion verbindet Laughtons Machtfigur mit der Arbeitswelt des Verlags.",
       "feedback": [
         "",
@@ -144,8 +165,13 @@
         "",
         ""
       ],
-      "films": ["The Big Clock|1948"],
-      "extraSources": ["https://catalog.afi.com/Film/25465-THE-BIG-CLOCK"]
+      "films": [
+        "The Big Clock|1948"
+      ],
+      "extraSources": [
+        "https://catalog.afi.com/Film/25465-THE-BIG-CLOCK"
+      ],
+      "objective": "Stroud leitet eine Suche, deren Ziel er selbst ist."
     },
     {
       "code": "E1",
@@ -162,7 +188,6 @@
       "correct": 2,
       "short": "Charles Laughton führte bei „Die Nacht des Jägers“ Regie.",
       "context": "In „Die Nacht des Jägers“ verfolgt Harry Powell (Robert Mitchum) eine Witwe und ihre Kinder, um an verborgenes Geld zu gelangen. Charles Laughton gestaltete den Film als Regisseur und arbeitete mit Kameramann Stanley Cortez. Nach dem damaligen Misserfolg bei Kritik und Publikum folgte kein weiterer eigener Regiefilm. Der später zum Klassiker gewordene Film bildet deshalb einen besonderen Seitenzweig seiner Schauspielkarriere.",
-      "anchor": "„Die Nacht des Jägers“ zeigt Laughton hinter der Kamera.",
       "interest": "Das bekannte Schauspielergesicht wird mit einem eigenständigen, zunächst erfolglosen Regiewerk verbunden.",
       "feedback": [
         "",
@@ -170,10 +195,13 @@
         "Laughton inszenierte „Die Nacht des Jägers“ mit Robert Mitchum.",
         ""
       ],
-      "films": ["The Night of the Hunter|1955"],
+      "films": [
+        "The Night of the Hunter|1955"
+      ],
       "extraSources": [
         "https://www.bfi.org.uk/features/behind-scenes-night-hunter"
-      ]
+      ],
+      "objective": "„Die Nacht des Jägers“ zeigt Laughton hinter der Kamera."
     },
     {
       "code": "E2",
@@ -187,7 +215,6 @@
       "correct": 3,
       "short": "Charles Laughton arbeitete mit Brecht an „Leben des Galilei“ und spielte Galilei.",
       "context": "Brecht und Charles Laughton entwickelten die englische Galilei-Fassung auch durch gemeinsames Vorspielen einzelner Sätze. Laughton war damit an der sprachlichen und darstellerischen Gestalt beteiligt, bevor er 1947 die Titelrolle übernahm. Nach den Atombombenabwürfen von 1945 rückte die Verantwortung des Wissenschaftlers stärker in den Mittelpunkt. Die Zusammenarbeit verbindet Laughtons Bühnenarbeit mit einer konkreten politischen und moralischen Neubearbeitung des Stücks.",
-      "anchor": "Laughton erarbeitet und spielt Brechts englischen Galilei.",
       "interest": "Die Bühnenarbeit zeigt Schauspiel als Mitarbeit am Text und an der Deutung eines historischen Stoffes.",
       "feedback": [
         "",
@@ -199,7 +226,8 @@
       "extraSources": [
         "https://www.bpb.de/themen/deutschlandarchiv/325483/brecht-galilei-ideologiezertruemmerung/",
         "https://www.hansottotheater.de/digitale-programmhefte-2024_25/digitales_programmheft_galilei/"
-      ]
+      ],
+      "objective": "Laughton erarbeitet und spielt Brechts englischen Galilei."
     }
   ]
 }

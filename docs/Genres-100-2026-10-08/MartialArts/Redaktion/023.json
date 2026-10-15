@@ -36,11 +36,11 @@
       ],
       "short": "Bart kontrolliert Danny mit einem metallischen Halsband.",
       "context": "Bart (Bob Hoskins) hat Danny (Jet Li) seit der Kindheit zu einem gewalttätigen Werkzeug erzogen. Das metallische Halsband gehört zu dieser Konditionierung: Solange es angelegt ist, verhält Danny sich unterwürfig; nach dem Abnehmen setzt Bart ihn zum Angriff ein. Der Gegenstand macht die Entmenschlichung sichtbar. Seine Wirkung beruht innerhalb der Geschichte auf erlernter Unterordnung, nicht auf einer technischen Fernsteuerung.",
-      "anchor": "Das Halsband macht Barts erlernte Kontrolle sichtbar.",
       "interest": "Das zentrale Kontrollmittel erschließt die Ausgangssituation des Films.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Halsband macht Barts erlernte Kontrolle sichtbar."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Sam ist ein blinder Klavierstimmer.",
       "context": "Sam (Morgan Freeman) nimmt Danny (Jet Li) nach dessen Flucht bei sich auf. Als blinder Klavierstimmer hat er eine enge Beziehung zur Musik, die auch seine Stieftochter Victoria (Kerry Condon) pflegt. Das neue Zuhause bietet Danny eine andere Form menschlicher Nähe als Barts (Bob Hoskins) Gewalt. Die Arbeit des Helfers verbindet Fürsorge mit einer Klangwelt, die später Erinnerungen an Dannys Kindheit weckt.",
-      "anchor": "Der Klavierstimmer öffnet Danny eine Welt außerhalb der Gewalt.",
       "interest": "Der Beruf einer zentralen Helferfigur ist unabhängig vom Kontrollmittel.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Klavierstimmer öffnet Danny eine Welt außerhalb der Gewalt."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Danny bleibt Victoria gegenüber friedlich.",
       "context": "Victoria (Kerry Condon) entfernt Danny (Jet Li) das Halsband, ohne dass er sie angreift. In Sams (Morgan Freeman) Haushalt erlebt er Fürsorge und beginnt, seine bisherige Konditionierung zu überwinden. Der Vorgang verändert die Bedeutung des Gegenstands: Das Abnehmen muss nicht zwangsläufig Gewalt auslösen. Damit zeigt der Film einen konkreten Schritt seiner Entwicklung, bevor spätere Begegnungen ihn wieder mit Bart (Bob Hoskins) konfrontieren.",
-      "anchor": "Fürsorge verändert die Reaktion auf das bisherige Angriffssignal.",
       "interest": "Die konkrete neue Reaktion ist nicht die bloße Benennung des Halsbands.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Fürsorge verändert die Reaktion auf das bisherige Angriffssignal."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Bart ist für den Tod von Dannys Mutter verantwortlich.",
       "context": "Bart (Bob Hoskins) behauptet zunächst, Dannys Mutter habe ihn verlassen. Danny (Jet Li) findet jedoch Spuren und gewinnt mit Sams (Morgan Freeman) und Victorias (Kerry Condon) Hilfe Erinnerungen zurück. Seine Mutter war eine Musikstudentin, die finanziell von Bart abhängig wurde; als sie sich widersetzte, erschoss er sie. Die Wahrheit zerstört die Geschichte, mit der Bart seine spätere Herrschaft über das Kind begründet hatte.",
-      "anchor": "Die wiedergewonnene Erinnerung widerlegt Barts Geschichte vom Verlassenwerden.",
       "interest": "Die Herkunft der Gewalt ist von Dannys neuer Lebensweise getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die wiedergewonnene Erinnerung widerlegt Barts Geschichte vom Verlassenwerden."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Danny verweigert die Tötung seiner besiegten Gegner.",
       "context": "Nach der Rückkehr in Barts (Bob Hoskins) Gewalt muss Danny (Jet Li) erneut in einem illegalen Ring antreten. Er setzt sich gegen mehrere Gegner durch, weigert sich aber, sie zu töten. Die erlernten körperlichen Fähigkeiten sind geblieben, während sich sein Umgang mit ihnen verändert hat. Bart reagiert wütend, weil Danny erstmals eine moralische Grenze gegen den Zweck seiner Ausbildung behauptet.",
-      "anchor": "Danny kann gewinnen und trotzdem den Tötungsauftrag verweigern.",
       "interest": "Eine bewusste Grenze unterscheidet Befähigung zum Kampf von erzwungener Gewalt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Danny kann gewinnen und trotzdem den Tötungsauftrag verweigern."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Sam schlägt Bart mit einem Blumentopf bewusstlos.",
       "context": "Danny (Jet Li) hat Bart (Bob Hoskins) im letzten Kampf besiegt, doch dieser fordert ihn weiter zum Töten auf. Sam (Morgan Freeman) und Victoria (Kerry Condon) bitten Danny, die Grenze nicht zu überschreiten. Schließlich schlägt Sam Bart mit einem Blumentopf bewusstlos. Die Auflösung trennt damit die Abwehr des Angreifers von der geforderten Tötung und ermöglicht dem Trio, wieder zueinanderzufinden.",
-      "anchor": "Der Blumentopf beendet die Bedrohung ohne den geforderten Mord.",
       "interest": "Das eingesetzte Objekt ergänzt die moralische Entscheidung um eine konkrete Schlussaktion.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Blumentopf beendet die Bedrohung ohne den geforderten Mord."
     },
     {
       "code": "Y",
@@ -174,13 +174,13 @@
       ],
       "short": "2001 Kiss of the Dragon, 2005 Unleashed: vier Jahre.",
       "context": "Unleashed wurde in Frankreich 2005 als Danny the Dog veröffentlicht; Unifrance nennt ausdrücklich den 2. Februar als Startdatum. Vier Jahre zuvor erschien 2001 Kiss of the Dragon, eine weitere Jet-Li-Produktion aus Luc Bessons Umfeld. Die Verbindung zeigt eine konkrete Strecke in Lis europäischen Actionrollen. Produktionsjahre einzelner Register ersetzen dabei nicht das für die Frage maßgebliche Jahr der ersten Veröffentlichung.",
-      "anchor": "2001 und 2005 verbinden zwei Jet-Li-Filme über vier Jahre.",
       "interest": "Der Vergleich verankert das Erscheinungsjahr und trennt es von Produktionsangaben.",
       "sources": [
         "veroeffentlichung",
         "vergleich",
         "handlung"
-      ]
+      ],
+      "objective": "2001 und 2005 verbinden zwei Jet-Li-Filme über vier Jahre."
     },
     {
       "code": "D",
@@ -199,13 +199,13 @@
       ],
       "short": "Louis Leterrier führte die Hauptregie.",
       "context": "Louis Leterrier inszeniert Jet Li als Danny, dessen Gewaltausbildung durch die Begegnung mit Sam (Morgan Freeman) und Victoria (Kerry Condon) in Frage gestellt wird. Luc Besson verantwortet das Drehbuch und gehört zu den Produzenten; Pierre Morel führt die Kamera. Film France-CNC nennt Leterrier ausdrücklich als Regisseur. Die prominenten Beteiligten an Produktion und Kampfgestaltung werden dadurch vom Hauptregiecredit unterschieden.",
-      "anchor": "Leterrier inszeniert, Besson schreibt und produziert, Morel führt die Kamera.",
       "interest": "Die unterschiedlichen Hauptaufgaben werden anhand eines institutionellen Credits zugeordnet.",
       "sources": [
         "credits",
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "Leterrier inszeniert, Besson schreibt und produziert, Morel führt die Kamera."
     }
   ],
   "director_note": "Louis Leterrier ist Hauptregisseur. Luc Besson schrieb und produzierte; Yuen Woo-ping verantwortet die Action-Choreografie."

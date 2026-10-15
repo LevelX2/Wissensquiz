@@ -38,12 +38,12 @@
       ],
       "short": "Die Bathtub-Gemeinschaft liegt im Bayou und ist vom Deichschutz ausgeschlossen.",
       "context": "Hushpuppy (Quvenzhané Wallis) lebt mit ihrem Vater Wink (Dwight Henry) außerhalb der schützenden Deiche. Der Ort bietet Zusammenhalt, ist aber dem Wasser ausgesetzt. Heimat und Gefahr sind dadurch räumlich eng verbunden: Die Gemeinschaft liebt gerade den Platz, dessen Schutz die übrige Gesellschaft nicht mit ihr teilt.",
-      "anchor": "Die geliebte Heimat liegt außerhalb des schützenden Deichs.",
       "interest": "Der Schauplatz verbindet Zugehörigkeit und materielle Verletzbarkeit.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die geliebte Heimat liegt außerhalb des schützenden Deichs."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Der Sturm gefährdet das Zuhause, während Winks Gesundheit abnimmt.",
       "context": "Hushpuppy (Quvenzhané Wallis) muss sich auf eine überflutete Heimat und einen kranken Vater einstellen. Beide Verluste betreffen ihre bisherige Sicherheit. Ihre Vorstellung von einer geordneten Welt wird deshalb gleichzeitig durch eine Naturkatastrophe und durch eine Veränderung ihrer engsten Beziehung herausgefordert.",
-      "anchor": "Die Heimat gerät unter Wasser, der Vater verliert seine Kraft.",
       "interest": "Zwei gleichzeitig wirksame Gefahren erklären die kindliche Bewährungsprobe.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Heimat gerät unter Wasser, der Vater verliert seine Kraft."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Das zeitliche Zusammentreffen erscheint ihr als eigene Schuld am kosmischen Ungleichgewicht.",
       "context": "Als Hushpuppy (Quvenzhané Wallis) Wink (Dwight Henry) im Streit schlägt, fällt er zusammen und Donner ist zu hören. Sie verbindet die Ereignisse zu eigener Schuld am Weltzustand. Die kindliche Sicht gibt einem unüberschaubaren Geschehen einen Zusammenhang, der für sie erschreckend persönlich ist.",
-      "anchor": "Ein Streit, ein Zusammenbruch und Donner werden zur gefühlten Weltschuld.",
       "interest": "Die Frage erklärt eine konkrete Wirkung der kindlichen Perspektive.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Streit, ein Zusammenbruch und Donner werden zur gefühlten Weltschuld."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Die Sprengung soll das eingeschlossene Wasser abführen.",
       "context": "Wink (Dwight Henry) und die Bewohner greifen den Deich an, damit Wasser aus der Bathtub abfließen kann. Das Bauwerk schützt andere Gebiete, verschärft aber ihre eigene Lage. Die Aktion verdeutlicht somit, dass dieselbe Infrastruktur Sicherheit ungleich verteilt und gegensätzliche Interessen erzeugt.",
-      "anchor": "Der schützende Deich muss für die ungeschützte Gemeinschaft geöffnet werden.",
       "interest": "Eine konkrete Handlung legt den Konflikt um ungleich verteilten Schutz offen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der schützende Deich muss für die ungeschützte Gemeinschaft geöffnet werden."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Hushpuppy begegnet den Tieren ohne wegzulaufen und bewahrt ihren Standpunkt.",
       "context": "Hushpuppy (Quvenzhané Wallis) hält den riesigen Tieren stand, während andere fliehen. Danach wendet sie sich wieder ihrem sterbenden Vater Wink (Dwight Henry) zu. Die fantastische Begegnung zeigt ihre gewachsene Fähigkeit, Angst auszuhalten, bevor sie den sehr realen Abschied bewältigen muss.",
-      "anchor": "Den gewaltigen Tieren standhalten bereitet den Abschied vom Vater vor.",
       "interest": "Eine fantastische Begegnung wird mit einer konkreten Entwicklung verbunden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Den gewaltigen Tieren standhalten bereitet den Abschied vom Vater vor."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Dwight Henry betrieb eine Bäckerei; das Castingteam suchte ihn während seiner Nachtarbeit auf.",
       "context": "Dwight Henry, der Wink spielt, führte im wirklichen Leben eine Bäckerei. Das Castingteam musste ihn während seiner nächtlichen Arbeit besuchen. Seine eigene familiäre Bindung brachte er in die Vaterrolle ein. Die Besetzung verbindet dadurch einen zuvor unerfahrenen Darsteller mit einer konkret gelebten Verantwortung.",
-      "anchor": "Der Bäcker wird bei der Nachtarbeit für eine Vaterrolle gefunden.",
       "interest": "Die Produktionsgeschichte erklärt einen individuellen Beitrag zur Glaubwürdigkeit.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Bäcker wird bei der Nachtarbeit für eine Vaterrolle gefunden."
     },
     {
       "code": "Y",
@@ -182,13 +182,13 @@
       ],
       "short": "Der Film wurde 2012 veröffentlicht und im selben Jahr in Cannes ausgezeichnet.",
       "context": "Die erste Veröffentlichung erfolgte 2012 bei Sundance; im selben Jahr gewann der Film die Caméra d’Or in Cannes. Der Preis würdigt einen ersten Langfilm. Das Produktionsjahr 2011 auf der Festivaldatenseite bezeichnet eine andere Datumsart und darf deshalb nicht mit dem Erscheinungsjahr vertauscht werden.",
-      "anchor": "2011 Produktionsangabe, 2012 Veröffentlichung und Cannes-Debütpreis.",
       "interest": "Ein konkreter Preisanker erklärt zugleich unterschiedliche Jahresangaben.",
       "sources": [
         "cannes",
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2011 Produktionsangabe, 2012 Veröffentlichung und Cannes-Debütpreis."
     },
     {
       "code": "D",
@@ -207,14 +207,14 @@
       ],
       "short": "Benh Zeitlin inszenierte den Film und schrieb mit Lucy Alibar.",
       "context": "Benh Zeitlin entwickelte den Film mit Lucy Alibar auf Grundlage ihrer Theaterarbeit. Sein Interesse an Wasser, Tieren und selbst gebauten Gemeinschaften prägt die Schauplätze. Die kindliche Fantasie wird dadurch in eine konkret gestaltete Lebenswelt eingebettet, deren Bewohner mit wenig Mitteln ihren eigenen Alltag erhalten.",
-      "anchor": "Zeitlin und Alibar verbinden Theatergrundlage mit einer selbst gebauten Wasserwelt.",
       "interest": "Die Zusammenarbeit verbindet Ausgangstext und individuellen Gestaltungsschwerpunkt.",
       "sources": [
         "cannes",
         "interview",
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zeitlin und Alibar verbinden Theatergrundlage mit einer selbst gebauten Wasserwelt."
     }
   ]
 }

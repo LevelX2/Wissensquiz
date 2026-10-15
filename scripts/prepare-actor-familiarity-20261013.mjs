@@ -193,7 +193,7 @@ try {
       );
       goals.add(goal);
       assert(
-        q.question && q.short && q.context && q.anchor && q.interest,
+        q.question && q.short && q.context && q.interest,
         `Texte ${id}`,
       );
       assert(
@@ -268,7 +268,6 @@ try {
             feedback,
           ]),
         ),
-        memory_anchor: q.anchor,
         source_urls: [...new Set([...q.extraSources, person.articleUrl])].join(
           "|",
         ),
@@ -282,7 +281,7 @@ try {
     assert.equal(goals.size, 8);
   }
   const fields =
-    "question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,memory_anchor,spoiler_level,source_urls,verification_status,person_id,person_name,person_name_before_answer,film_refs".split(
+    "question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,spoiler_level,source_urls,verification_status,person_id,person_name,person_name_before_answer,film_refs".split(
       ",",
     );
   const csv =
@@ -308,7 +307,6 @@ try {
   for (const [i, q] of imported.questions.entries()) {
     assert.equal(q.question, rows[i].question);
     assert.equal(q.context, rows[i].explanation_context);
-    assert.equal(q.anchor, rows[i].memory_anchor);
     assert.equal(q.metadata.film_refs, rows[i].film_refs);
     assert.equal(q.metadata.person_id, rows[i].person_id);
     assert.equal(
@@ -344,7 +342,6 @@ try {
         ),
         q.short + "\n",
         q.context + "\n",
-        `Merksatz: ${q.anchor}\n`,
       );
       const feedback = q.feedback
         .map((value, i) => value && `- ${q.answers[i]}: ${value}\n`)

@@ -45,13 +45,13 @@
       ],
       "short": "Die beiden Freundinnen haben gemeinsam eine kleine Schule aufgebaut.",
       "context": "Karen (Audrey Hepburn) und Martha (Shirley MacLaine) haben lange in die eigene Schule investiert. Gerade als sie tragfähig wird, setzt eine Anschuldigung ihre Existenz aufs Spiel. Beruf und Privatleben befinden sich am selben Ort. Die spätere Isolation betrifft deshalb gleichzeitig die gemeinsame Arbeit, die sozialen Beziehungen und den Rückzug in die leeren Räume.",
-      "anchor": "Die gemeinsame Schule verbindet Lebenswerk, Arbeitsplatz und späteren Rückzugsraum.",
       "interest": "Die Einrichtung erklärt die umfassende Wirkung des Rufverlusts.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die gemeinsame Schule verbindet Lebenswerk, Arbeitsplatz und späteren Rückzugsraum."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Mary benutzt das Gerücht, um sich der Schule zu entziehen.",
       "context": "Mary (Karen Balkin) greift eine gehörte Bemerkung auf und erzählt ihrer Großmutter eine belastende Geschichte. Die Nachricht wird an weitere Eltern gegeben. Das Gerücht erhält seine Wirkung dadurch nicht allein durch die Schülerin, sondern durch die Erwachsenen, die darauf handeln. Die Ausgangslüge und ihre Verbreitung sind verschiedene Schritte derselben Zerstörung.",
-      "anchor": "Marys Behauptung wird durch die Reaktionen der Erwachsenen zur wirksamen Verleumdung.",
       "interest": "Die Frage benennt den Ursprung und erklärt den Weg seiner Wirkung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Marys Behauptung wird durch die Reaktionen der Erwachsenen zur wirksamen Verleumdung."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Das Wissen über die gestohlenen Gegenstände dient als Druckmittel.",
       "context": "Rosalie (Veronica Cartwright) weiß, dass Marys (Karen Balkin) Darstellung nicht wahr ist. Mary besitzt jedoch Wissen über ihre Diebstähle und zwingt sie damit zur Bestätigung. Die scheinbar zweite unabhängige Zeugin verstärkt die Glaubwürdigkeit der Lüge. Tatsächlich beruhen beide Aussagen auf derselben Manipulation und auf Rosalies Angst vor der eigenen Entlarvung.",
-      "anchor": "Die erpresste zweite Aussage erzeugt nur den Anschein unabhängiger Bestätigung.",
       "interest": "Der Zusammenhang erklärt den Mechanismus der falschen Glaubwürdigkeit.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die erpresste zweite Aussage erzeugt nur den Anschein unabhängiger Bestätigung."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Die Abmeldungen entziehen den Lehrerinnen den gemeinsamen Betrieb.",
       "context": "Die Eltern reagieren auf die Nachricht, bevor die Lehrerinnen die Ursache vollständig kennen. Die Schule leert sich und verliert ihre wirtschaftliche Grundlage. Die soziale Sanktion setzt damit früher ein als das spätere Gerichtsverfahren. Selbst eine formale Prüfung könnte nur noch auf Schäden reagieren, die bereits durch die Verbreitung der Behauptung entstanden sind.",
-      "anchor": "Der Entzug der Schülerinnen zerstört den Betrieb vor einer belastbaren Klärung.",
       "interest": "Die Frage erklärt den zeitlichen Vorsprung der sozialen Sanktion.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Entzug der Schülerinnen zerstört den Betrieb vor einer belastbaren Klärung."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Martha erkennt und benennt ihre eigenen lange verdrängten Gefühle.",
       "context": "Martha (Shirley MacLaine) spricht nach dem öffentlichen Zusammenbruch über ihre Gefühle für Karen (Audrey Hepburn). Dieses Geständnis macht Marys erfundene Beobachtung nicht nachträglich wahr. Es zeigt vielmehr, dass die zerstörerische Anschuldigung und Marthas eigenes Empfinden unterschiedliche Sachverhalte sind. Der Druck lässt sie eine persönliche Erkenntnis als weitere Schuld erleben.",
-      "anchor": "Marthas wirkliche Gefühle bestätigen nicht Marys erfundene Beobachtung.",
       "interest": "Die Frage trennt eine innere Erkenntnis von der behaupteten und erzwungenen Beweisgeschichte.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Marthas wirkliche Gefühle bestätigen nicht Marys erfundene Beobachtung."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Die Berichtigung kann Marthas Tod und die zerstörte Beziehung nicht rückgängig machen.",
       "context": "Die Diebstähle machen Rosalies (Veronica Cartwright) erzwungene Bestätigung und damit Marys (Karen Balkin) Lüge nachvollziehbar. Karens (Audrey Hepburn) Aussicht auf einen neuen Beginn kommt jedoch zu spät für Martha (Shirley MacLaine). Die öffentliche Berichtigung kann Tatsachen korrigieren, aber die persönlichen Folgen nicht vollständig umkehren. Karens einsamer Abschied bleibt deshalb ohne einfache Versöhnung.",
-      "anchor": "Die Wahrheit wird berichtigt, Marthas Tod bleibt unwiderruflich.",
       "interest": "Das Ende erklärt die Grenze nachträglicher Anerkennung und Wiedergutmachung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Wahrheit wird berichtigt, Marthas Tod bleibt unwiderruflich."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1961.",
       "context": "William Wyler hatte Lillian Hellmans Stück schon 1936 als These Three verfilmt, damals mit verändertem Kern der Anschuldigung. Infam folgte 1961, 25 Jahre später, und konnte das Thema der unterstellten lesbischen Beziehung behandeln. Miriam Hopkins wechselte dabei von der Rolle Martha in der ersten Verfilmung zu deren Tante in der zweiten. Die Folge verbindet Veröffentlichungsjahr, Darstellerin und veränderte Darstellungsmöglichkeiten.",
-      "anchor": "Wyler-Adaption 1936 → Infam 1961: 25 Jahre; Hopkins nun als Tante statt Martha.",
       "interest": "Die Verbindung erklärt einen konkreten Unterschied zwischen zwei Fassungen desselben Bühnenstoffs.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wyler-Adaption 1936 → Infam 1961: 25 Jahre; Hopkins nun als Tante statt Martha."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "William Wyler führte bei diesem Film Regie.",
       "context": "William Wyler produzierte und inszenierte die erneute Adaption. John Michael Hayes schrieb das Drehbuch, Lillian Hellman ist für die Bearbeitung genannt. Die Geschichte zeigt die Wirkung einer Anschuldigung vor einer gesicherten Prüfung. Mit Audrey Hepburn und Shirley MacLaine konzentriert sie sich zugleich auf zwei Freundinnen, deren unterschiedliche Gefühle unter dem öffentlichen Druck nicht dieselbe Entwicklung nehmen.",
-      "anchor": "Wyler verbindet die soziale Wirkung der Verleumdung mit zwei unterschiedlichen inneren Erfahrungen.",
       "interest": "Der Regiehintergrund erklärt den gemeinsamen äußeren Konflikt und die ungleichen persönlichen Folgen.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wyler verbindet die soziale Wirkung der Verleumdung mit zwei unterschiedlichen inneren Erfahrungen."
     }
   ],
   "category": "Classics"

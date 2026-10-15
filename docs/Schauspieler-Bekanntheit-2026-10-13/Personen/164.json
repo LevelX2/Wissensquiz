@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Pickford wurde als America’s Sweetheart bekannt.",
       "context": "Der Name begleitete ihre enorme Popularität in der Stummfilmzeit. Ihre häufigen Kinder- und Jugendrollen prägten das öffentliche Bild der zugänglichen, gefühlvollen Darstellerin.",
-      "anchor": "America’s Sweetheart war Mary Pickford.",
       "interest": "Der Beiname erklärt ihre besondere Stellung im frühen Starsystem.",
       "feedback": [
         "",
@@ -29,7 +28,8 @@
       "films": [],
       "extraSources": [
         "https://marypickford.org/mary-pickford-chronology/"
-      ]
+      ],
+      "objective": "America’s Sweetheart war Mary Pickford."
     },
     {
       "code": "L2",
@@ -43,7 +43,6 @@
       "correct": 2,
       "short": "Molly beschützt Kinder, die auf einer Kinderfarm ausgebeutet werden.",
       "context": "Sie übernimmt die Verantwortung für die Jüngeren. Die Flucht durch den bedrohlichen Sumpf verbindet ihre fürsorgliche Rolle mit einer körperlichen Mutprobe.",
-      "anchor": "Molly führt die Kinder aus der Gewalt ihres Ausbeuters.",
       "interest": "Die Aufgabe erklärt die Mischung aus Fürsorge und Abenteuer in Pickfords Rollenbild.",
       "feedback": [
         "",
@@ -56,7 +55,8 @@
       ],
       "extraSources": [
         "https://www.tcm.com/articles/86468/sparrows"
-      ]
+      ],
+      "objective": "Molly führt die Kinder aus der Gewalt ihres Ausbeuters."
     },
     {
       "code": "M1",
@@ -70,7 +70,6 @@
       "correct": 1,
       "short": "Annies Vater ist Polizist.",
       "context": "Die Kinderstreiche und die Konflikte älterer Jugendbanden spielen im selben Viertel. Als der Vater bei einem Streit getötet wird, verwandelt sich die Alltagskomödie in ein Familiendrama.",
-      "anchor": "Annies Viertel ist zugleich das Revier ihres Vaters.",
       "interest": "Der Beruf verbindet Familiengeschichte und Straßenleben des Films.",
       "feedback": [
         "",
@@ -83,7 +82,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Little_Annie_Rooney_(1925_film)"
-      ]
+      ],
+      "objective": "Annies Viertel ist zugleich das Revier ihres Vaters."
     },
     {
       "code": "M2",
@@ -97,7 +97,6 @@
       "correct": 0,
       "short": "Joe arbeitet unerkannt im Warenhaus seines Vaters.",
       "context": "Maggie hilft dem vermeintlich gewöhnlichen Anfänger. Die Liebesgeschichte entwickelt sich deshalb zunächst ohne das Wissen um den tatsächlichen sozialen Abstand.",
-      "anchor": "Der neue Kollege gehört zur Eigentümerfamilie.",
       "interest": "Das Geheimnis erklärt den Klassenkonflikt innerhalb der romantischen Komödie.",
       "feedback": [
         "",
@@ -111,7 +110,8 @@
       "extraSources": [
         "https://www.capa.com/productions/my-best-girl/",
         "https://catalog.afi.com/Film/10882-MY-BESTGIRL"
-      ]
+      ],
+      "objective": "Der neue Kollege gehört zur Eigentümerfamilie."
     },
     {
       "code": "S1",
@@ -125,7 +125,6 @@
       "correct": 3,
       "short": "Pickford spielt die behütete Stella und die ausgebeutete Unity.",
       "context": "Maskenbild, Haltung und Auftreten unterscheiden die beiden Lebenswelten deutlich. Die Doppelrolle erlaubte ihr, das vertraute Bild der schönen jungen Heldin bewusst zu durchbrechen.",
-      "anchor": "Stella und Unity zeigen zwei Seiten derselben Darstellerin.",
       "interest": "Die Rollenanlage macht ihre Wandlungsfähigkeit an einem konkreten Vergleich sichtbar.",
       "feedback": [
         "",
@@ -138,7 +137,8 @@
       ],
       "extraSources": [
         "https://marypickford.org/wp-content/uploads/2025/11/12-page-booklet-Stella-Maris-web.pdf"
-      ]
+      ],
+      "objective": "Stella und Unity zeigen zwei Seiten derselben Darstellerin."
     },
     {
       "code": "S2",
@@ -152,7 +152,6 @@
       "correct": 3,
       "short": "Die Beteiligten wollten ihre eigenen Produktionen kontrollieren.",
       "context": "Pickford, Fairbanks, Chaplin und Griffith reagierten auf die Macht wachsender Studiounternehmen. Ihr gemeinsamer Vertrieb schuf einen Rahmen für selbstständig produzierte Filme.",
-      "anchor": "Die Stars wollten auch über das eigene Produkt entscheiden.",
       "interest": "Die Gründung erklärt Pickfords Bedeutung als Unternehmerin und Mitgestalterin der Branche.",
       "feedback": [
         "",
@@ -164,7 +163,8 @@
       "extraSources": [
         "https://marypickford.org/about-mary/",
         "https://marypickford.org/mary-pickford-chronology/"
-      ]
+      ],
+      "objective": "Die Stars wollten auch über das eigene Produkt entscheiden."
     },
     {
       "code": "E1",
@@ -178,7 +178,6 @@
       "correct": 0,
       "short": "Ein Baby-Spot-Licht unterstützte die jugendliche Gesichtserscheinung.",
       "context": "Pickford war beim Dreh bereits erwachsen und spielte eine junge Teenagerin. Beleuchtung und ihr körperlich lebhaftes Spiel arbeiteten gemeinsam an diesem Altersunterschied.",
-      "anchor": "Ein kleiner Lichtakzent unterstützte eine große Altersverwandlung.",
       "interest": "Das Verfahren verbindet Kameraarbeit mit der bewusst gestalteten Wirkung einer Schauspielerin.",
       "feedback": [
         "",
@@ -191,7 +190,8 @@
       ],
       "extraSources": [
         "https://marypickford.org/caris-articles/story-behind-making-little-annie-rooney/"
-      ]
+      ],
+      "objective": "Ein kleiner Lichtakzent unterstützte eine große Altersverwandlung."
     },
     {
       "code": "E2",
@@ -205,7 +205,6 @@
       "correct": 2,
       "short": "Der Film wurde in der Reihenfolge seiner Handlung gedreht.",
       "context": "Als Produzentin konnte Pickford diese Arbeitsweise bestimmen. Sie hielt den fortlaufenden Aufbau für hilfreich, um ihre Figur durch die Geschichte hindurch zu entwickeln.",
-      "anchor": "Die Reihenfolge der Dreharbeiten folgte Annies Geschichte.",
       "interest": "Die Entscheidung zeigt, wie Produktionsmacht eine schauspielerische Methode ermöglichen kann.",
       "feedback": [
         "",
@@ -218,7 +217,8 @@
       ],
       "extraSources": [
         "https://marypickford.org/caris-articles/story-behind-making-little-annie-rooney/"
-      ]
+      ],
+      "objective": "Die Reihenfolge der Dreharbeiten folgte Annies Geschichte."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Johnnie Gray ist Lokomotivführer.",
       "context": "Johnnies große Bindungen gelten seiner Lokomotive und Annabelle Lee (Marion Mack). Als gegnerische Soldaten den Zug im amerikanischen Bürgerkrieg entführen, setzt er ihnen nach. Seine praktische Vertrautheit mit der Maschine wird dabei entscheidend: Der vermeintlich unmilitärische Eisenbahner bewährt sich durch Improvisation und Beharrlichkeit.",
-      "anchor": "Der Lokomotivführer kennt seine Maschine besser als die Entführer.",
       "interest": "Keatons Berufswahl für die Figur verbindet den Liebeskonflikt mit der Eisenbahnverfolgung.",
       "feedback": [
         "",
@@ -35,7 +34,8 @@
       ],
       "knowledge_id": "K-KOM-202609-P02-L-075",
       "variant_of": "KOM-202609-P02-L-075",
-      "knowledge_note": "Umgekehrter Zugang zum vorhandenen Besetzungsziel Buster Keaton als Lokomotivführer Johnnie Gray."
+      "knowledge_note": "Umgekehrter Zugang zum vorhandenen Besetzungsziel Buster Keaton als Lokomotivführer Johnnie Gray.",
+      "objective": "Der Lokomotivführer kennt seine Maschine besser als die Entführer."
     },
     {
       "code": "L2",
@@ -49,7 +49,6 @@
       "correct": 0,
       "short": "Die Hauptfigur arbeitet als Filmvorführer in einem Kino.",
       "context": "Der junge Vorführer liest ein Detektivhandbuch und versucht auch im wirklichen Leben, einen Diebstahl aufzuklären. Dabei gerät er selbst unter Verdacht. Während einer Vorstellung schläft er ein und träumt sich als erfolgreicher Ermittler in den Film hinein. Das Kino ist damit zugleich sein Arbeitsplatz und der Ort seiner ersehnten Verwandlung.",
-      "anchor": "Aus der Vorführkabine führt der Traum auf die Leinwand.",
       "interest": "Der Beruf schafft die unmittelbare Verbindung zwischen Alltag und Filmphantasie.",
       "feedback": [
         "Die Hauptfigur arbeitet als Filmvorführer in einem Kino.",
@@ -62,7 +61,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Sherlock_Jr."
-      ]
+      ],
+      "objective": "Aus der Vorführkabine führt der Traum auf die Leinwand."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 3,
       "short": "Die Väter sind Konkurrenten im Dampfschiffgeschäft.",
       "context": "Willie kehrt als wenig seemännisch wirkender junger Mann zu seinem Vater zurück. Dieser möchte aus dem Sohn einen passenden Nachfolger machen und stößt sich an dessen Erscheinung. Die Beziehung zu Kitty, der Tochter des mächtigen Konkurrenten, verschärft den Familienkonflikt. Erst die Katastrophe des abschließenden Wirbelsturms gibt Willie Gelegenheit, seine Fähigkeiten unter Beweis zu stellen.",
-      "anchor": "Die Rivalität auf dem Fluss belastet auch die Liebe der Kinder.",
       "interest": "Der Film verschränkt einen Vater-Sohn-Konflikt mit einer Liebesgeschichte.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       ],
       "extraSources": [
         "https://player.bfi.org.uk/subscription/film/watch-steamboat-bill-jr-1928-online"
-      ]
+      ],
+      "objective": "Die Rivalität auf dem Fluss belastet auch die Liebe der Kinder."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 0,
       "short": "Das Erbe ist an eine fristgerechte Heirat gebunden.",
       "context": "Jimmies Firma steht vor dem Ruin, als ein Anwalt ihm die ungewöhnliche Erbbedingung eröffnet. Seine erste Erklärung gegenüber Mary Jones (Ruth Dwyer) klingt so ungeschickt, dass sie den Antrag zurücknimmt. Die Suche nach einer anderen Braut wächst durch eine Zeitungsanzeige zur Massenverfolgung an. Jimmie muss schließlich nicht nur seine Liebe, sondern auch die Uhrzeit richtig verstehen.",
-      "anchor": "Aus einer Erbbedingung wird eine immer größere Jagd nach einer Hochzeit.",
       "interest": "Die Frist setzt die komische Eskalation des Films in Gang.",
       "feedback": [
         "Das Erbe ist an eine fristgerechte Heirat gebunden.",
@@ -116,7 +115,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Seven_Chances"
-      ]
+      ],
+      "objective": "Aus einer Erbbedingung wird eine immer größere Jagd nach einer Hochzeit."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 2,
       "short": "Die wechselnden Einstellungen ändern den Raum um ihn herum, ohne Rücksicht auf seine Bewegung.",
       "context": "Keaton behandelt den Filmschnitt wie eine körperlich erfahrbare Gefahr: Die Traumfigur befindet sich scheinbar im Bild, kann aber dessen Ortswechsel nicht kontrollieren. Aus einer Bewegung wird dadurch ein Hindernis, weil die nächste Einstellung eine andere Umgebung bietet. Erst später beherrscht der geträumte Detektiv die Filmwelt mit jener Sicherheit, die dem Vorführer im Alltag fehlt.",
-      "anchor": "Der Schnitt wechselt die Welt unter Keatons Füßen.",
       "interest": "Eine grundlegende Technik des Kinos wird selbst zum Gegenstand der Komik.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/film/4f7add12-c2af-5c5c-bb49-1647ce3240df/sherlock-jr"
-      ]
+      ],
+      "objective": "Der Schnitt wechselt die Welt unter Keatons Füßen."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 1,
       "short": "Die beiden an Bedienung gewöhnten Menschen müssen auf dem verlassenen Ozeandampfer selbst zurechtkommen.",
       "context": "Rollo geht versehentlich auf das falsche Schiff, während Betsy dort ihren entführten Vater sucht. Der Dampfer treibt davon, und die beiden entdecken einander zunächst nicht einmal. Nun müssen sie in Anlagen für Hunderte von Menschen ihren Alltag zu zweit organisieren. Besonders die überdimensionierte Küche verwandelt alltägliche Verrichtungen in technische und körperliche Probleme.",
-      "anchor": "Ein schwimmender Großbetrieb wird zum Haushalt zweier völlig Ungeübter.",
       "interest": "Die Größenverhältnisse erklären, wie Keaton aus einem einzigen Schauplatz zahlreiche Gags entwickelt.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://blogs.loc.gov/now-see-hear/2023/02/remembering-buster-keaton-and-the-navigator-1924/"
-      ]
+      ],
+      "objective": "Ein schwimmender Großbetrieb wird zum Haushalt zweier völlig Ungeübter."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 2,
       "short": "Die offene Fensteröffnung fällt genau über Keatons Körper hinweg.",
       "context": "Der Gag verlangt einen präzisen Standpunkt: Während die schwere Fassade nach vorn kippt, bleibt Keaton unbewegt, und die Öffnung umschließt ihn beim Aufschlag. Ausstatter Fred Gabourie konstruierte die Vorrichtung; verdeckte Helfer lösten die Halteseile. Die sichtbare Ruhe des Darstellers steht im scharfen Gegensatz zu dem Aufwand und Risiko hinter der Einstellung.",
-      "anchor": "Keatons Standpunkt und die Fensteröffnung müssen exakt zusammentreffen.",
       "interest": "Der Stunt verbindet Raumplanung, Bühnentechnik und körperliche Kontrolle.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       ],
       "extraSources": [
         "https://silentfilm.org/steamboat-bill-jr-2/"
-      ]
+      ],
+      "objective": "Keatons Standpunkt und die Fensteröffnung müssen exakt zusammentreffen."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 3,
       "short": "Bei MGM verlor Keaton die zuvor weitgehende kreative Selbstständigkeit seiner eigenen Produktion.",
       "context": "Zuvor hatte Keaton mit einem vertrauten Team eigene Filme entwickelt und Joseph Schenck als Produzenten hinter sich gehabt. MGM bot einen großen Studioapparat, bestand aber zunehmend auf der Auswahl von Stoffen und Material durch seine Abteilungen. „The Cameraman“ bewahrt noch viel von Keatons eigener Filmkunst; die Schwierigkeiten des Wechsels sind deshalb am Ergebnis dieses ersten Films weniger deutlich als an seiner Arbeitsweise.",
-      "anchor": "Der Studiovertrag verändert, wer über Keatons Komik entscheidet.",
       "interest": "Der Übergang erklärt die berufliche Zäsur jenseits des bloßen Wechsels zum Tonfilm.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       ],
       "extraSources": [
         "https://busterkeaton.org/about-buster/part-3-the-worst-mistake/"
-      ]
+      ],
+      "objective": "Der Studiovertrag verändert, wer über Keatons Komik entscheidet."
     }
   ]
 }

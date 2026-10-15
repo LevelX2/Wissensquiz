@@ -32,11 +32,11 @@
       ],
       "short": "Jason beginnt als jugendlicher Kung-Fu-Filmfan.",
       "context": "Jason Tripitikas (Michael Angarano) lebt in Boston und begeistert sich für chinesische Kampfkunstfilme. Seine Besuche in einem Laden mit entsprechenden DVDs führen ihn an einen Gegenstand, der seine bisherige Welt verändert. Er bringt zunächst die Vorstellungskraft eines Zuschauers mit, nicht die Fähigkeiten eines erfahrenen Kämpfers. Die spätere Reise verlangt deshalb, dass er das Beobachten durch tatsächliches Lernen und eigenes Handeln ersetzt.",
-      "anchor": "Der Zuschauer von Kung-Fu-Filmen muss selbst zum Lernenden werden.",
       "interest": "Die Ausgangsrolle des Helden ist ohne Mythologiekenntnisse verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Zuschauer von Kung-Fu-Filmen muss selbst zum Lernenden werden."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Jason soll den Stab dem Affenkönig zurückbringen.",
       "context": "Der goldene Stab führt Jason Tripitikas (Michael Angarano) in eine Welt, in der Sun Wukong, der Affenkönig (Jet Li), zur Statue geworden ist. Die Rückgabe des Gegenstands verspricht seine Befreiung. Lu Yan (Jackie Chan) hilft dem unerfahrenen Besucher, die Bedeutung des Auftrags zu verstehen. Die Reise verbindet damit ein konkretes Objekt mit einer bedrohten Figur und einem größeren Konflikt um Herrschaft.",
-      "anchor": "Der verlorene Stab ist der Weg zurück zum gefangenen Besitzer.",
       "interest": "Das zentrale Reiseziel ist ein anderer Sachverhalt als Jasons Ausgangsrolle.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der verlorene Stab ist der Weg zurück zum gefangenen Besitzer."
     },
     {
       "code": "M1",
@@ -78,11 +78,11 @@
       ],
       "short": "Jason bietet den Stab an, um Lu Yans Leben zu retten.",
       "context": "Lu Yan (Jackie Chan) wird von einem Pfeil der weißhaarigen Hexe Ni Chang (Li Bingbing) schwer verletzt. Im Kloster erfährt Jason Tripitikas (Michael Angarano), dass nur das Elixier des Jade-Warlords (Collin Chou) helfen kann. Daraufhin geht er allein zum Palast und bietet den Stab an. Sein Handeln setzt das gemeinsame Ziel aufs Spiel, weil die Sorge um seinen Lehrer Vorrang gewinnt.",
-      "anchor": "Jason riskiert den Auftrag zugunsten des verletzten Lehrers.",
       "interest": "Ein konkreter Zielkonflikt erklärt die Entscheidung zum Tausch.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Jason riskiert den Auftrag zugunsten des verletzten Lehrers."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Golden Sparrow sucht Vergeltung für ihre getötete Familie.",
       "context": "Golden Sparrow (Liu Yifei) unterstützt Jason Tripitikas (Michael Angarano) und Lu Yan (Jackie Chan), verfolgt aber zugleich ein eigenes Ziel. Der Jade-Warlord (Collin Chou) hat ihre Familie töten lassen. Dadurch erhält die gemeinsame Reise für sie eine persönliche Richtung, die über die Befreiung des Affenkönigs (Jet Li) hinausgeht. Ihre Unterstützung und ihr Wunsch nach Rache gehören zusammen, sind jedoch nicht dasselbe Motiv.",
-      "anchor": "Die gemeinsame Reise trägt auch Golden Sparrows persönliche Vergeltung.",
       "interest": "Das Motiv einer Begleiterin ist von den Aufgaben des Helden unabhängig.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die gemeinsame Reise trägt auch Golden Sparrows persönliche Vergeltung."
     },
     {
       "code": "S1",
@@ -124,11 +124,11 @@
       ],
       "short": "Der schweigsame Mönch ist ein Doppelgänger des Affenkönigs.",
       "context": "Der schweigsame Mönch (Jet Li) begleitet Jason Tripitikas (Michael Angarano) und hilft ihm bei der Ausbildung. Erst gegen Ende wird seine besondere Verbindung zum Affenkönig (ebenfalls Jet Li) deutlich: Er ist eine von ihm geschaffene Gestalt. Die ähnliche Besetzung hat damit eine Bedeutung innerhalb der Handlung. Aus dem zunächst rätselhaften Begleiter wird ein Teil der Rettung des ursprünglichen Wesens.",
-      "anchor": "Jet Lis zwei Figuren verbindet eine innerhalb der Geschichte erklärte Herkunft.",
       "interest": "Die späte Enthüllung unterscheidet sich vom bekannten Ziel der Reise.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Jet Lis zwei Figuren verbindet eine innerhalb der Geschichte erklärte Herkunft."
     },
     {
       "code": "S2",
@@ -147,11 +147,11 @@
       ],
       "short": "Jason bittet um die Heimkehr in seine eigene Welt.",
       "context": "Nach dem erfolgreichen Kampf erkennt der Jadekaiser (Wang Deshun) Jason Tripitikas' (Michael Angarano) Beitrag an und gewährt ihm einen Wunsch. Jason entscheidet sich für die Rückkehr nach Hause. Dort muss er die gewonnenen Fähigkeiten im eigenen Leben anwenden. Die Belohnung macht ihn deshalb nicht zum dauerhaften Herrscher einer fremden Welt, sondern bringt seine Entwicklung an den ursprünglichen Ausgangspunkt zurück.",
-      "anchor": "Die Belohnung beendet die Reise durch eine bewusst gewählte Heimkehr.",
       "interest": "Der geäußerte Wunsch ist ein konkreter Schlussentscheid des Helden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Belohnung beendet die Reise durch eine bewusst gewählte Heimkehr."
     },
     {
       "code": "Y",
@@ -170,13 +170,13 @@
       ],
       "short": "2005 Unleashed, 2008 Forbidden Kingdom: drei Jahre.",
       "context": "Forbidden Kingdom erschien 2008 und verbindet Jackie Chan und Jet Li in einer Fantasygeschichte. Drei Jahre zuvor war 2005 Unleashed veröffentlicht worden, in dem Jet Li einen unter Gewalt aufgewachsenen Mann spielt. Der Vergleich setzt zwei unterschiedliche Rollen in eine zeitliche Beziehung: Die gemeinsame Märchenreise folgt auf die moderne Geschichte über erlernte Gewalt, ohne dass die Filme eine Fortsetzung bilden.",
-      "anchor": "2005 und 2008 trennen zwei unterschiedliche Jet-Li-Rollen um drei Jahre.",
       "interest": "Die Verbindung zu einem anderen Film gibt dem Jahr einen konkreten Rahmen.",
       "sources": [
         "archiv",
         "vergleich",
         "handlung"
-      ]
+      ],
+      "objective": "2005 und 2008 trennen zwei unterschiedliche Jet-Li-Rollen um drei Jahre."
     },
     {
       "code": "D",
@@ -195,12 +195,12 @@
       ],
       "short": "Rob Minkoff führte Regie.",
       "context": "Rob Minkoff inszeniert die Reise von Jason Tripitikas (Michael Angarano) in die Welt des Affenkönigs (Jet Li). John Fusco schrieb das Drehbuch, während Yuen Woo-ping die Action-Choreografie übernahm. Der BFI-Eintrag führt Minkoff ausdrücklich als Regisseur der amerikanisch-chinesischen Produktion. Die verschiedenen Credits erklären, warum die Gestaltung der Kämpfe nicht automatisch die Hauptregie des gesamten Fantasyfilms bedeutet.",
-      "anchor": "Minkoffs Hauptregie bleibt von Yuen Woo-pings Action-Choreografie getrennt.",
       "interest": "Der Credit wird trotz der prominenten Kampfkunstbeteiligten eindeutig zugeordnet.",
       "sources": [
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "Minkoffs Hauptregie bleibt von Yuen Woo-pings Action-Choreografie getrennt."
     }
   ],
   "director_note": "Rob Minkoff führt Hauptregie; Yuen Woo-ping ist für die Action-Choreografie zuständig und wird nicht als weiterer Hauptregisseur ergänzt."

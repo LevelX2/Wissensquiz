@@ -40,11 +40,11 @@
       ],
       "short": "D’Artagnan will Musketier werden.",
       "context": "D’Artagnan (François Civil) reist als ehrgeiziger junger Mann aus der Gascogne nach Paris. Hauptmann Tréville (Marc Barbé) kannte seinen Vater und rät ihm zum Einstieg als Kadett. Der Aufbruch führt also nicht unmittelbar zur fertigen Heldenrolle. Erst Begegnungen, Konflikte und bewährte Loyalität machen aus dem Bewerber einen Angehörigen der königlichen Truppe.",
-      "anchor": "Der Gasconer kommt als Bewerber nach Paris.",
       "interest": "Ein zugänglicher Einstieg in die Laufbahn der Hauptfigur.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Gasconer kommt als Bewerber nach Paris."
     },
     {
       "code": "L2",
@@ -63,11 +63,11 @@
       ],
       "short": "Kardinalsgarden machen aus geplanten Gegnern eine Kampfgemeinschaft.",
       "context": "D’Artagnan (François Civil) beleidigt nacheinander Athos (Vincent Cassel), Porthos (Pio Marmaï) und Aramis (Romain Duris). Drei verabredete Duelle führen sie an denselben Ort. Als die Kardinalsgarden einschreiten, stellen sich die Männer gemeinsam gegen sie. Der Wechsel von gekränkter Ehre zu Solidarität ist damit nicht nur ein Motto, sondern entsteht aus einer konkreten Gefahr.",
-      "anchor": "Aus drei Duellen wird ein gemeinsamer Kampf.",
       "interest": "Erklärt den Wandel von Rivalität zu Zusammenhalt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Aus drei Duellen wird ein gemeinsamer Kampf."
     },
     {
       "code": "M1",
@@ -86,11 +86,11 @@
       ],
       "short": "Eine ermordete Frau in seinem Bett führt zu einer falschen Mordanklage.",
       "context": "Athos (Vincent Cassel) wird durch den Fund einer erstochenen Frau in seinem Bett belastet. D’Artagnan (François Civil) erkennt in ihr die junge Frau, deren Entführung er auf seiner Reise nach Paris verhindern wollte. Die Verbindung zwischen dem frühen Angriff und der späteren Anklage gibt den Freunden einen Ermittlungsansatz. Ihr Zusammenhalt verlangt nun mehr als Geschick mit dem Degen.",
-      "anchor": "Der scheinbar private Mordfund führt zurück zum Reiseauftakt.",
       "interest": "Verbindet einen frühen Vorfall mit der späteren Intrige.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der scheinbar private Mordfund führt zurück zum Reiseauftakt."
     },
     {
       "code": "M2",
@@ -109,11 +109,11 @@
       ],
       "short": "Die Königin soll die verschenkten Diamanten bei einer Hochzeit tragen.",
       "context": "Königin Anne (Vicky Krieps) gibt Buckingham (Jacob Fortune-Lloyd) die Diamanten, die ihr der König geschenkt hat, als Erinnerung. Als Louis XIII. (Louis Garrel) verlangt, sie bei der Hochzeit seines Bruders zu tragen, droht ihre Beziehung sichtbar zu werden. Constance (Lyna Khoudri) schickt D’Artagnan (François Civil) deshalb nach England. Ein privates Geschenk wird zu einer Gefahr am Hof.",
-      "anchor": "Die verschenkten Diamanten müssen vor der Hochzeit zurück.",
       "interest": "Erklärt Auftrag, Frist und drohende Konsequenz zusammen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die verschenkten Diamanten müssen vor der Hochzeit zurück."
     },
     {
       "code": "S1",
@@ -132,11 +132,11 @@
       ],
       "short": "Athos wird von seinem Bruder und dessen protestantischen Verbündeten befreit.",
       "context": "Athos (Vincent Cassel) entkommt auf dem Weg zur Hinrichtung durch das Eingreifen seines jüngeren Bruders und protestantischer Verbündeter. Die familiäre Rettung verknüpft ihn mit einer Partei des politischen Konflikts. Später gehört diese Verbindung zur Gefahr für den König. Der Film lässt persönliche Loyalität und staatliche Treue dadurch nicht einfach deckungsgleich werden.",
-      "anchor": "Brüderliche Hilfe zieht Athos in den religiösen Machtkonflikt.",
       "interest": "Eröffnet den Konflikt zwischen Familie und königlicher Loyalität.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Brüderliche Hilfe zieht Athos in den religiösen Machtkonflikt."
     },
     {
       "code": "S2",
@@ -155,11 +155,11 @@
       ],
       "short": "Der König will die früheren Religionskriege nicht wiederholen.",
       "context": "Louis XIII. (Louis Garrel) wird von Beratern und seinem Bruder Gaston (Julien Frison) zum Krieg gegen die protestantische Hochburg La Rochelle gedrängt. Er verweigert die Zustimmung mit Blick auf die Religionskriege seiner Vorgänger. Die Intrige spielt daher vor einem ernsthaften politischen Konflikt. Die Abenteuerhelden verteidigen nicht nur eine Person, sondern auch deren Entscheidung gegen eine neue Eskalation.",
-      "anchor": "Louis’ Zögern verweist auf die Erfahrung früherer Religionskriege.",
       "interest": "Zeigt den historischen Konfliktrahmen der persönlichen Abenteuer.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Louis’ Zögern verweist auf die Erfahrung früherer Religionskriege."
     },
     {
       "code": "Y",
@@ -178,12 +178,12 @@
       ],
       "short": "D’Artagnan erschien 2023.",
       "context": "D’Artagnan kam im April 2023 ins Kino; Milady folgte im Dezember desselben Jahres. Beide Teile des von Martin Bourboulon inszenierten Zweiteilers teilen sich somit ein Veröffentlichungsjahr. François Civil spielt D’Artagnan und Eva Green Milady. Der Abstand von rund acht Monaten ordnet die offene Fortsetzung unmittelbar dem ersten Abenteuer zu und macht 2023 als gemeinsames Jahr beider Teile merkbar.",
-      "anchor": "2023 beginnt mit D’Artagnan und endet mit Milady.",
       "interest": "Individueller Zeitanker zur Struktur des Zweiteilers.",
       "sources": [
         "studio",
         "sequel"
-      ]
+      ],
+      "objective": "2023 beginnt mit D’Artagnan und endet mit Milady."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "Martin Bourboulon führte Regie.",
       "context": "Martin Bourboulon inszeniert den ersten Teil einer zusammenhängenden Dumas-Adaption. Auch die Fortsetzung Milady gehört zu seiner Regiearbeit. François Civil, Vincent Cassel, Romain Duris und Pio Marmaï bilden die Musketiergruppe; Eva Green spielt ihre gefährliche Gegenspielerin. Der Auftrag verbindet damit zwei Kinofilme, deren Abenteuer und Figurenkonflikte als fortgesetzte Geschichte angelegt sind.",
-      "anchor": "Bourboulon führt D’Artagnan und Milady durch beide Kinoteile.",
       "interest": "Ordnet die filmische Verantwortung dem konkreten Zweiteiler zu.",
       "sources": [
         "studio",
         "sequel"
-      ]
+      ],
+      "objective": "Bourboulon führt D’Artagnan und Milady durch beide Kinoteile."
     }
   ]
 }

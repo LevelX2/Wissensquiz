@@ -36,12 +36,12 @@
       ],
       "short": "Clayton möchte die Gorillas fangen und verkaufen.",
       "context": "Clayton (Originalstimme: Brian Blessed) reist als bewaffneter Begleiter der Forscher mit. Sein Interesse an den Tieren ist jedoch wirtschaftlich. Wenn Tarzan (Originalstimme: Tony Goldwyn) den Menschen vertraut, gefährdet er deshalb unwissentlich die eigene Familie. Der Konflikt entsteht durch unterschiedliche Absichten innerhalb derselben Expedition: Die wissenschaftliche Neugier der Porters schützt noch nicht vor Claytons Ausbeutung.",
-      "anchor": "Clayton sieht in der Affenfamilie eine Ware.",
       "interest": "Das zentrale Gegnermotiv erklärt die Gefahr hinter der Begegnung mit Menschen.",
       "sources": [
         "handlung",
         "archiv"
-      ]
+      ],
+      "objective": "Clayton sieht in der Affenfamilie eine Ware."
     },
     {
       "code": "L2",
@@ -60,11 +60,11 @@
       ],
       "short": "Tarzan rettet Jane vor den Pavianen.",
       "context": "Jane (Originalstimme: Minnie Driver) gerät bei ihrer Erkundung in Schwierigkeiten mit Pavianen. Tarzan (Originalstimme: Tony Goldwyn) hilft ihr und entdeckt an ihr Ähnlichkeiten zu sich selbst. Aus dem gefährlichen Zwischenfall wird eine Begegnung, die beiden Neues zeigt: Jane trifft einen ungewöhnlichen Menschen, während Tarzan erstmals einer ihm körperlich ähnlichen Erwachsenen nahekommt.",
-      "anchor": "Janes Rettung eröffnet Tarzan eine neue Verwandtschaftswelt.",
       "interest": "Die Begegnung erklärt den Beginn der Beziehung statt nur Namen abzufragen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Janes Rettung eröffnet Tarzan eine neue Verwandtschaftswelt."
     },
     {
       "code": "M1",
@@ -83,11 +83,11 @@
       ],
       "short": "Clayton benutzt Tarzans Gefühle für Jane als Druckmittel.",
       "context": "Tarzan (Originalstimme: Tony Goldwyn) möchte Jane (Originalstimme: Minnie Driver) nicht verlieren. Clayton (Originalstimme: Brian Blessed) stellt ihre mögliche Entscheidung zu bleiben in Aussicht, wenn sie die Gorillas sieht. So verleitet er ihn zum Bruch mit Kerchaks (Originalstimme: Lance Henriksen) Schutzregel. Ein Versprechen über die Liebesbeziehung wird zur Methode, sich Zugang zu den bisher geschützten Tieren zu verschaffen.",
-      "anchor": "Die Hoffnung auf Jane öffnet Clayton den Weg zu den Gorillas.",
       "interest": "Die Manipulation verbindet den Liebeswunsch mit dem späteren Vertrauensbruch.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Hoffnung auf Jane öffnet Clayton den Weg zu den Gorillas."
     },
     {
       "code": "M2",
@@ -106,11 +106,11 @@
       ],
       "short": "Kala führt Tarzan zum Baumhaus seiner menschlichen Eltern.",
       "context": "Kala (Originalstimme: Glenn Close) hat Tarzan (Originalstimme: Tony Goldwyn) aufgezogen und lange vor dem Wissen um seinen Ursprung geschützt. Jetzt führt sie ihn zu den Spuren der verstorbenen Eltern. Sie lässt ihm die Entscheidung über seinen weiteren Weg, ohne ihre mütterliche Liebe davon abhängig zu machen. Die Aufklärung hebt seine Zugehörigkeit zur Affenfamilie deshalb nicht einfach auf.",
-      "anchor": "Kala erklärt die Herkunft, ohne die Bindung aufzugeben.",
       "interest": "Die Szene unterscheidet biologische Herkunft und gelebte Familie.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Kala erklärt die Herkunft, ohne die Bindung aufzugeben."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Deep Canvas macht gemalt wirkende Umgebungen räumlich durchfahrbar.",
       "context": "Wenn Tarzan (Originalstimme: Tony Goldwyn) durch den Wald gleitet, bewegt sich die Kamera durch eine Umgebung, die wie ein gemaltes Bild wirken soll. Deep Canvas hält dafür Pinselspuren in einem räumlichen Modell fest. Die Technik verbindet somit die Tiefe einer digitalen Szene mit der Gestaltungstradition des Zeichentricks; sie erklärt einen wesentlichen Teil der dynamischen Dschungelbilder.",
-      "anchor": "Deep Canvas lässt die Kamera durch ein Gemälde reisen.",
       "interest": "Das technische Ziel erklärt die sichtbare Gestaltung statt einen bloßen Softwarebegriff abzufragen.",
       "sources": [
         "siggraph",
         "archiv"
-      ]
+      ],
+      "objective": "Deep Canvas lässt die Kamera durch ein Gemälde reisen."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Keane ließ sich von Extremsportarten und der Begeisterung seines Sohnes anregen.",
       "context": "Glen Keane machte Tarzans Körperbewegung zu einem eigenen Gestaltungsthema. Die Begeisterung seines Sohnes für Skateboarden und andere riskante Sportarten gab ihm Anregungen für das Gleiten über Äste. Tarzan (Originalstimme: Tony Goldwyn) bewegt sich dadurch nicht nur wie ein Mensch, der an Lianen hängt: Die Bewegung bekommt Schwung und eine ungewöhnlich fließende Verbindung zur Oberfläche der Bäume.",
-      "anchor": "Tarzans Äste werden zu Bahnen einer Extremsportbewegung.",
       "interest": "Die Familienanekdote erklärt einen prägenden Bewegungsstil des Films.",
       "sources": [
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "Tarzans Äste werden zu Bahnen einer Extremsportbewegung."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Disneys Zeichentrickfassung erschien 1999.",
       "context": "1999 verbindet Disney den alten Abenteuerstoff mit Phil Collins’ Liedern und räumlich bewegten Dschungelbildern. Für diese Bilder wurde Deep Canvas entwickelt: Gemalte Pinselstriche werden in einem räumlichen Modell festgehalten. Vier Jahre nach dem Filmstart, 2003, erhielt die technische Entwicklung eine Auszeichnung der Academy. Das Erscheinungsjahr gehört zum Film; die spätere Ehrung würdigt das Verfahren hinter seiner Gestaltung.",
-      "anchor": "1999: Tarzan; 2003: Academy-Auszeichnung für die Deep-Canvas-Technik.",
       "interest": "Der Abstand zwischen Veröffentlichung und technischer Ehrung liefert einen individuellen zeitlichen Anker.",
       "sources": [
         "archiv",
         "studio",
         "siggraph"
-      ]
+      ],
+      "objective": "1999: Tarzan; 2003: Academy-Auszeichnung für die Deep-Canvas-Technik."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "Kevin Lima und Chris Buck führten gemeinsam Regie.",
       "context": "Kevin Lima und Chris Buck tragen beide den offiziellen Regiecredit. Ihr Film hält den Streit um Tarzans (Originalstimme: Tony Goldwyn) Zugehörigkeit im Mittelpunkt: Die Begegnung mit Jane (Originalstimme: Minnie Driver) erweitert seine Welt, ohne die Bindung an Kala (Originalstimme: Glenn Close) bedeutungslos zu machen. Animation, Musik und Handlung führen diesen Familienkonflikt gemeinsam voran.",
-      "anchor": "Lima und Buck erzählen Tarzans Entscheidung zwischen zwei Welten.",
       "interest": "Der vollständige gemeinsame Credit wird am konkreten Kern der Adaption verankert.",
       "sources": [
         "studio",
         "archiv"
-      ]
+      ],
+      "objective": "Lima und Buck erzählen Tarzans Entscheidung zwischen zwei Welten."
     }
   ]
 }

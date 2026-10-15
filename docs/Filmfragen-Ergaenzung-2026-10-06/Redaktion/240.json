@@ -36,12 +36,12 @@
       ],
       "short": "John McCabe (Warren Beatty) gründet ein Bordell; Constance Miller (Julie Christie) organisiert es professionell.",
       "context": "John McCabe (Warren Beatty) gründet ein Bordell; Constance Miller (Julie Christie) organisiert es professionell. Ihr wirtschaftlicher Erfolg macht den Ort attraktiv für größere Interessen.",
-      "anchor": "Mrs. Millers Organisation macht McCabes improvisiertes Geschäft erfolgreich.",
       "interest": "Mrs. Millers Organisation macht McCabes improvisiertes Geschäft erfolgreich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mrs. Millers Organisation macht McCabes improvisiertes Geschäft erfolgreich."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Agenten der Harrison Shaughnessy Mining Company wollen McCabes (Warren Beatty) Geschäft und umliegende Minen kaufen.",
       "context": "Agenten der Harrison Shaughnessy Mining Company wollen McCabes (Warren Beatty) Geschäft und umliegende Minen kaufen. Der scheinbare Aufstieg trifft auf eine Organisation, die bei Widerstand Gewalt einsetzt.",
-      "anchor": "Der lokale Erfolg gerät unter den Druck eines größeren Unternehmens.",
       "interest": "Der lokale Erfolg gerät unter den Druck eines größeren Unternehmens.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der lokale Erfolg gerät unter den Druck eines größeren Unternehmens."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "McCabe (Warren Beatty) überschätzt seine Verhandlungsposition und verlangt einen zu hohen Preis.",
       "context": "McCabe (Warren Beatty) überschätzt seine Verhandlungsposition und verlangt einen zu hohen Preis. Mrs. Miller (Julie Christie) warnt, dass die Vertreter nicht zum weiteren Feilschen zurückkommen werden.",
-      "anchor": "McCabe verwechselt den Abbruch mit einer normalen Verhandlungsrunde.",
       "interest": "McCabe verwechselt den Abbruch mit einer normalen Verhandlungsrunde.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "McCabe verwechselt den Abbruch mit einer normalen Verhandlungsrunde."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Anwalt Samuels (William Devane) bestärkt McCabe (Warren Beatty), dem Unternehmen standzuhalten.",
       "context": "Anwalt Samuels (William Devane) bestärkt McCabe (Warren Beatty), dem Unternehmen standzuhalten. Die politische Rhetorik hilft ihm gegen die bereits beauftragten Männer jedoch praktisch nicht.",
-      "anchor": "Das ermutigende Rechtsgespräch lässt die unmittelbare Gewalt ungebremst.",
       "interest": "Das ermutigende Rechtsgespräch lässt die unmittelbare Gewalt ungebremst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das ermutigende Rechtsgespräch lässt die unmittelbare Gewalt ungebremst."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Die Einwohner kämpfen gegen den Kirchenbrand, während McCabe (Warren Beatty) seine Gegner abwehrt.",
       "context": "Die Einwohner kämpfen gegen den Kirchenbrand, während McCabe (Warren Beatty) seine Gegner abwehrt. Der gemeinschaftliche Rettungserfolg läuft neben seinem einsamen Tod, ohne ihn zum öffentlichen Helden zu machen.",
-      "anchor": "Der gemeinschaftliche Brandkampf lässt McCabes Kampf am Rand verschwinden.",
       "interest": "Der gemeinschaftliche Brandkampf lässt McCabes Kampf am Rand verschwinden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der gemeinschaftliche Brandkampf lässt McCabes Kampf am Rand verschwinden."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "McCabe (Warren Beatty) stirbt allein im Schnee; Mrs.",
       "context": "McCabe (Warren Beatty) stirbt allein im Schnee; Mrs. Miller (Julie Christie) ist im Opiumhaus sediert. Geschäftliche und persönliche Nähe schaffen keinen gemeinsamen Ausweg aus dem gewaltsamen Ende.",
-      "anchor": "Der einsame Tod und die Betäubung ersetzen den gemeinsamen Neuanfang.",
       "interest": "Der einsame Tod und die Betäubung ersetzen den gemeinsamen Neuanfang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der einsame Tod und die Betäubung ersetzen den gemeinsamen Neuanfang."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1971 erschien der Film.",
       "context": "1971 erschien der Film. Edmund Naughtons Roman McCabe wurde 1959 veröffentlicht; zwölf Jahre später entstand eine Verfilmung, die den Geschäftserfolg im Westen als verwundbare Zwischenstufe zeigt.",
-      "anchor": "Roman 1959, Film 1971: Zwölf Jahre führen vom Text zu Altmans winterlicher Geschichte eines bedrohten Geschäfts.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1959, Film 1971: Zwölf Jahre führen vom Text zu Altmans winterlicher Geschichte eines bedrohten Geschäfts."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Robert Altman führte Regie und schrieb mit Brian McKay.",
       "context": "Robert Altman führte Regie und schrieb mit Brian McKay. Vilmos Zsigmonds Kamera, überlappende Gespräche und Leonard Cohens Lieder schaffen eine gedämpfte Welt, in der der vermeintliche Held zuletzt unbeachtet stirbt.",
-      "anchor": "Robert Altman führte Regie und schrieb mit Brian McKay.",
       "interest": "Robert Altman führte Regie und schrieb mit Brian McKay.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Robert Altman führte Regie und schrieb mit Brian McKay."
     }
   ]
 }

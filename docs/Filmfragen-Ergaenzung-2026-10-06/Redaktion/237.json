@@ -40,12 +40,12 @@
       ],
       "short": "George (Jesse Plemons) heiratet Rose (Kirsten Dunst) und bringt sie auf die Ranch.",
       "context": "George (Jesse Plemons) heiratet Rose (Kirsten Dunst) und bringt sie auf die Ranch. Phil (Benedict Cumberbatch) reagiert auf den Verlust seiner bisherigen Nähe und Kontrolle mit Demütigungen.",
-      "anchor": "Die Heirat verändert die Macht und Nähe im Brüderhaushalt.",
       "interest": "Die Heirat verändert die Macht und Nähe im Brüderhaushalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Heirat verändert die Macht und Nähe im Brüderhaushalt."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Peter (Kodi Smit-McPhee) studiert Medizin und seziert ein Kaninchen.",
       "context": "Peter (Kodi Smit-McPhee) studiert Medizin und seziert ein Kaninchen. Sein Interesse an Körpern wirkt auf Phil fremd, wird aber später entscheidend für seinen überlegten Umgang mit gefährlichem Material.",
-      "anchor": "Die medizinische Genauigkeit ergänzt Peters unterschätzte Entschlossenheit.",
       "interest": "Die medizinische Genauigkeit ergänzt Peters unterschätzte Entschlossenheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die medizinische Genauigkeit ergänzt Peters unterschätzte Entschlossenheit."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Phil (Benedict Cumberbatch) verspottet Rose (Kirsten Dunst) und demonstriert die Melodie auf dem Banjo.",
       "context": "Phil (Benedict Cumberbatch) verspottet Rose (Kirsten Dunst) und demonstriert die Melodie auf dem Banjo. Bei Georges Gesellschaft kann sie schließlich nicht spielen; die private Einschüchterung wirkt im öffentlichen Moment weiter.",
-      "anchor": "Phils musikalische Demonstration verwandelt Üben in Demütigung.",
       "interest": "Phils musikalische Demonstration verwandelt Üben in Demütigung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Phils musikalische Demonstration verwandelt Üben in Demütigung."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Phil (Benedict Cumberbatch) bietet Peter (Kodi Smit-McPhee) ein geflochtenes Rohhautseil an und zeigt ihm Ranchfähigkeiten.",
       "context": "Phil (Benedict Cumberbatch) bietet Peter (Kodi Smit-McPhee) ein geflochtenes Rohhautseil an und zeigt ihm Ranchfähigkeiten. Die scheinbar freundliche Annäherung liefert Peter zugleich den Weg zu einem tödlichen Eingriff.",
-      "anchor": "Das geplante Seil verbindet Annäherung mit verborgener Gefahr.",
       "interest": "Das geplante Seil verbindet Annäherung mit verborgener Gefahr.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das geplante Seil verbindet Annäherung mit verborgener Gefahr."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Peter (Kodi Smit-McPhee) schneidet mit Schutzhandschuhen Haut von einer toten Kuh.",
       "context": "Peter (Kodi Smit-McPhee) schneidet mit Schutzhandschuhen Haut von einer toten Kuh. Phil (Benedict Cumberbatch) verarbeitet die Streifen mit einer offenen Handwunde und stirbt später vermutlich an Milzbrand.",
-      "anchor": "Peters Schutz und Phils offene Wunde erklären die ungleiche Wirkung.",
       "interest": "Peters Schutz und Phils offene Wunde erklären die ungleiche Wirkung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Peters Schutz und Phils offene Wunde erklären die ungleiche Wirkung."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Peter (Kodi Smit-McPhee) fasst das Seil mit Handschuhen an und verstaut es unter dem Bett.",
       "context": "Peter (Kodi Smit-McPhee) fasst das Seil mit Handschuhen an und verstaut es unter dem Bett. Die Vorsicht bestätigt die verborgene Gefahr, während der Blick auf Rose und George sein Schutzmotiv erkennen lässt.",
-      "anchor": "Der vorsichtige Umgang bestätigt Peters Wissen um das gefährliche Seil.",
       "interest": "Der vorsichtige Umgang bestätigt Peters Wissen um das gefährliche Seil.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der vorsichtige Umgang bestätigt Peters Wissen um das gefährliche Seil."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "2021 erschien der Film.",
       "context": "2021 erschien der Film. Die Handlung spielt 1925, also 96 Jahre zuvor; die spätere Perspektive untersucht die Abhängigkeiten, die unter der rauen öffentlichen Männlichkeit der Ranch verborgen bleiben.",
-      "anchor": "Handlung 1925, Film 2021: 96 Jahre trennen Ranchwelt und Campions Untersuchung ihrer versteckten Abhängigkeiten.",
       "interest": "Der Abstand zwischen erzählter Zeit und Veröffentlichung macht den rückblickenden Blick des Films sichtbar.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Handlung 1925, Film 2021: 96 Jahre trennen Ranchwelt und Campions Untersuchung ihrer versteckten Abhängigkeiten."
     },
     {
       "code": "D",
@@ -209,13 +209,13 @@
       ],
       "short": "Jane Campion schrieb und inszenierte die Romanadaption.",
       "context": "Jane Campion schrieb und inszenierte die Romanadaption. Ari Wegners Kamera beobachtet Körper, Räume und kleine Gesten, durch die Macht und Verwundbarkeit der Figuren sichtbar werden.",
-      "anchor": "Jane Campion schrieb und inszenierte die Romanadaption.",
       "interest": "Jane Campion schrieb und inszenierte die Romanadaption.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jane Campion schrieb und inszenierte die Romanadaption."
     }
   ]
 }

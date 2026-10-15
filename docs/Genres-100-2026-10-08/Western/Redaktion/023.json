@@ -35,12 +35,12 @@
       ],
       "short": "Quigley ist ein außergewöhnlicher Fernschütze.",
       "context": "Matthew Quigley (Tom Selleck) reist aufgrund eines Arbeitsangebots mit seinem besonderen Gewehr nach Australien. Elliott Marston (Alan Rickman) verlangt eine Demonstration seiner Treffgenauigkeit auf große Entfernung. Die Fähigkeit erscheint zunächst als berufliche Qualifikation. Erst im folgenden Gespräch zeigt sich, für welche Zwecke der Auftraggeber sie einsetzen möchte. Das ungewöhnliche Können wird dadurch zum Ausgangspunkt einer Entscheidung über die Verantwortung des Schützen.",
-      "anchor": "Die Treffgenauigkeit ist Quigleys Arbeitsangebot und später sein Konflikt.",
       "interest": "Die Kernfähigkeit erschließt die Hauptfigur ohne eine zufällige Entfernungszahl.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Die Treffgenauigkeit ist Quigleys Arbeitsangebot und später sein Konflikt."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Quigley verweigert die Ermordung indigener Menschen.",
       "context": "Elliott Marston (Alan Rickman) erklärt Matthew Quigley (Tom Selleck), dass seine große Schussreichweite gegen indigene Menschen eingesetzt werden soll. Quigley verweigert die Aufgabe und greift den Auftraggeber an. Marston lässt ihn daraufhin überwältigen und aussetzen. Der Film macht aus dem Arbeitsangebot einen offenen moralischen Konflikt. Die Entscheidung kostet Quigley seinen sicheren Aufenthalt und führt ihn zu den Menschen, deren Tötung er abgelehnt hat.",
-      "anchor": "Quigley verweigert den Auftrag und wird selbst zum Gejagten.",
       "interest": "Die zentrale Ablehnung erklärt den Wechsel vom Angestellten zum Gegner.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Quigley verweigert den Auftrag und wird selbst zum Gejagten."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Cora nennt Quigley zunächst Roy.",
       "context": "Cora (Laura San Giacomo) spricht Matthew Quigley (Tom Selleck) immer wieder mit Roy an, dem Namen ihres Ehemanns. Ihre Erzählung über den Verlust ihres Kindes und die Trennung erklärt den belastenden Hintergrund. Quigley besteht darauf, als eigene Person wahrgenommen zu werden. Die wiederholte Anrede verbindet so Coras Vergangenheit mit der entstehenden neuen Beziehung und erhält im späteren Wiedersehen eine veränderte Bedeutung.",
-      "anchor": "Roy gehört zu Coras Vergangenheit, Matthew zu ihrer neuen Begegnung.",
       "interest": "Die bedeutsame Ersatzanrede erschließt den persönlichen Konflikt.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Roy gehört zu Coras Vergangenheit, Matthew zu ihrer neuen Begegnung."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Indigene Menschen retten die Ausgesetzten.",
       "context": "Matthew Quigley (Tom Selleck) und Cora (Laura San Giacomo) werden ohne ausreichende Versorgung im Outback zurückgelassen. Indigene Menschen finden und versorgen sie. Die Hilfe begründet eine persönliche Verbindung zu der Gemeinschaft, die Marstons Gewalt bedroht. Als Elliott Marstons (Alan Rickman) Männer später angreifen, verteidigt Quigley seine Helfer. Die Beziehung beruht damit auf gegenseitigem Handeln innerhalb der erzählten Filmgeschichte.",
-      "anchor": "Die bedrohte Gemeinschaft wird zuerst zur rettenden Gemeinschaft.",
       "interest": "Der Rettungsschritt erklärt Quigleys spätere persönliche Bindung.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Die bedrohte Gemeinschaft wird zuerst zur rettenden Gemeinschaft."
     },
     {
       "code": "S1",
@@ -131,13 +131,13 @@
       ],
       "short": "Cora lässt das Kind schreien und verteidigt es.",
       "context": "Cora (Laura San Giacomo) hat zuvor erzählt, dass sie ihr eigenes Kind beim Versuch, es stillzuhalten, versehentlich erstickte. Mit dem geretteten Baby in der Höhle droht sich die Bewegung zu wiederholen. Sie nimmt jedoch die Hand vom Mund, erlaubt dem Kind zu schreien und wehrt die Dingos bewaffnet ab. Der Film verbindet eine konkrete Rettung mit der Veränderung einer durch Angst geprägten Reaktion.",
-      "anchor": "Diesmal schützt Cora das schreiende Kind, statt es stillzuhalten.",
       "interest": "Die Szene gewinnt Bedeutung aus der ausdrücklich erzählten Vorgeschichte.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Diesmal schützt Cora das schreiende Kind, statt es stillzuhalten."
     },
     {
       "code": "S2",
@@ -156,13 +156,13 @@
       ],
       "short": "Wenig Verwendung für einen Colt bedeutet keine fehlende Fähigkeit.",
       "context": "Elliott Marston (Alan Rickman) zwingt Matthew Quigley (Tom Selleck) zum Duell mit einem Colt. Er glaubt, der Gewehrspezialist könne diese Waffe nicht beherrschen. Quigley zieht jedoch schneller und erklärt anschließend den Unterschied: Er hatte nur gesagt, wenig Verwendung für einen Colt zu haben. Die Auflösung knüpft an das frühere Gespräch an und macht Marstons selbstsichere Fehlinterpretation zu seinem entscheidenden Nachteil.",
-      "anchor": "Quigley braucht den Colt selten, kann ihn aber benutzen.",
       "interest": "Der Schluss greift eine zuvor eingeführte sprachliche Unterscheidung auf.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Quigley braucht den Colt selten, kann ihn aber benutzen."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "1988 Stirb langsam, 1990 Quigley: zwei Jahre zwischen Rickmans Gegenspielern.",
       "context": "Alan Rickman spielte 1988 Hans Gruber in „Stirb langsam“. In „Quigley der Australier“ von 1990 verkörpert er Elliott Marston, zwei Jahre später. Die beiden Filme stellen seine Gegenspielerrollen in unterschiedliche Genres und Schauplätze: den besetzten Bürohochhauskomplex und eine australische Ranch. Der Vergleich ist ein konkreter Karriereanker. Er bedeutet weder eine gemeinsame Handlung noch, dass Australiens späterer Kinostart das Erstjahr von Quigley verändert.",
-      "anchor": "1988 Gruber, 1990 Marston: zwei Jahre Abstand.",
       "interest": "Zwei belegte Gegenspielerrollen verbinden den Western mit einem bekannteren Werk.",
       "sources": [
         "afi",
         "anker"
-      ]
+      ],
+      "objective": "1988 Gruber, 1990 Marston: zwei Jahre Abstand."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Simon Wincer führte Hauptregie.",
       "context": "Simon Wincer inszenierte den Western nach John Hills Drehbuch. Tom Selleck spielt Matthew Quigley, Laura San Giacomo Cora und Alan Rickman Elliott Marston. AFI führt Adrian Carr als Regisseur der zweiten Einheit gesondert auf. Lewis Gilbert gehörte zu einer früheren, später aufgegebenen Projektphase. Der vollständige Hauptcredit der veröffentlichten Fassung bleibt daher Wincer; weder zusätzliche Dreharbeit noch ausgeschiedene Planung ergibt ein Regieteam.",
-      "anchor": "Wincer ist Hauptregisseur, Carr zweite Einheit.",
       "interest": "Die Credits grenzen veröffentlichte Hauptregie und frühere Projektgeschichte ab.",
       "sources": [
         "afi",
         "classification"
-      ]
+      ],
+      "objective": "Wincer ist Hauptregisseur, Carr zweite Einheit."
     }
   ]
 }

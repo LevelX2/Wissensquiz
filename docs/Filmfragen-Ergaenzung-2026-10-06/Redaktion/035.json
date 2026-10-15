@@ -36,12 +36,12 @@
       ],
       "short": "Bullitt (Steve McQueen) soll für Chalmers (Robert Vaughn) einen Zeugen schützen.",
       "context": "Bullitt (Steve McQueen) soll für Chalmers (Robert Vaughn) einen Zeugen schützen. Der begrenzte Wochenendauftrag bringt den Ermittler in einen Konflikt zwischen tatsächlicher Aufklärung und politischem Erfolgsdruck.",
-      "anchor": "Die Bewachung verbindet Polizeiarbeit mit einem politischen Auftritt.",
       "interest": "Die Bewachung verbindet Polizeiarbeit mit einem politischen Auftritt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Bewachung verbindet Polizeiarbeit mit einem politischen Auftritt."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Bullitt (Steve McQueen) fährt durch San Franciscos Straßen.",
       "context": "Bullitt (Steve McQueen) fährt durch San Franciscos Straßen. Die Steigungen und Gefälle prägen die Verfolgung körperlich; das Stadtbild wird zu einem aktiven Bestandteil der Aktion.",
-      "anchor": "Die Hügel San Franciscos bestimmen die Verfolgungsfahrt.",
       "interest": "Die Hügel San Franciscos bestimmen die Verfolgungsfahrt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Hügel San Franciscos bestimmen die Verfolgungsfahrt."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Bullitt (Steve McQueen) lässt den Toten als Unbekannten registrieren.",
       "context": "Bullitt (Steve McQueen) lässt den Toten als Unbekannten registrieren. Damit gewinnt er Zeit gegen Chalmers’ (Robert Vaughn) Druck; die eigene Dienstregelverletzung soll eine manipulierte Geschichte hinter dem Schutzauftrag aufdecken.",
-      "anchor": "Die verschleierte Todesmeldung hält den Fall gegen politischen Druck offen.",
       "interest": "Die verschleierte Todesmeldung hält den Fall gegen politischen Druck offen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die verschleierte Todesmeldung hält den Fall gegen politischen Druck offen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Die Passunterlagen zeigen Albert Renick (Felice Orlandi) statt Johnny Ross.",
       "context": "Die Passunterlagen zeigen Albert Renick (Felice Orlandi) statt Johnny Ross. Bullitt (Steve McQueen) erkennt, dass der gesuchte Ross (Pat Renella) den Politiker und dessen Bewacher mit einem Doppelgänger getäuscht hat.",
-      "anchor": "Der Passabgleich entlarvt die falsche Identität des vermeintlichen Zeugen.",
       "interest": "Der Passabgleich entlarvt die falsche Identität des vermeintlichen Zeugen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Passabgleich entlarvt die falsche Identität des vermeintlichen Zeugen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Cathy (Jacqueline Bisset) sieht die tote Dorothy Renick (Brandy Carroll).",
       "context": "Cathy (Jacqueline Bisset) sieht die tote Dorothy Renick (Brandy Carroll). Bullitts (Steve McQueen) beruflicher Umgang mit Gewalt wird damit auch für ihre Beziehung spürbar; sie fragt, welchen Platz ihr gemeinsames Leben darin noch hat.",
-      "anchor": "Der Anblick des Opfers bringt den Polizeiberuf in die private Beziehung.",
       "interest": "Der Anblick des Opfers bringt den Polizeiberuf in die private Beziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Anblick des Opfers bringt den Polizeiberuf in die private Beziehung."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Ross (Pat Renella) benutzt Renicks Pass für einen früheren Londonflug.",
       "context": "Ross (Pat Renella) benutzt Renicks Pass für einen früheren Londonflug. Bullitt (Steve McQueen) lässt das Flugzeug zurückrufen; die veränderte Buchung erklärt, warum die anfängliche Überwachung des Romgates ihn verfehlt.",
-      "anchor": "Die falsche Identität wird mit einem geänderten Flugziel verbunden.",
       "interest": "Die falsche Identität wird mit einem geänderten Flugziel verbunden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die falsche Identität wird mit einem geänderten Flugziel verbunden."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Der Film wurde 1968 erstmals veröffentlicht.",
       "context": "1968 erschien die freie Bearbeitung von Mute Witness. Robert L. Fish veröffentlichte den Roman unter dem Namen Robert L. Pike 1963, fünf Jahre zuvor; die Filmfassung verlegt den Stoff nach San Francisco.",
-      "anchor": "Mute Witness von 1963 wurde fünf Jahre später, 1968, für San Francisco bearbeitet.",
       "interest": "Mute Witness von 1963 wurde fünf Jahre später, 1968, für San Francisco bearbeitet.",
       "sources": [
         "katalog",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mute Witness von 1963 wurde fünf Jahre später, 1968, für San Francisco bearbeitet."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Regie: Peter Yates.",
       "context": "Yates erhielt den Auftrag, nachdem McQueen seinen britischen Film Robbery gesehen hatte. Dessen Autoverfolgung machte ihn für Bullitt interessant; es wurde Yates’ erster amerikanischer Spielfilm.",
-      "anchor": "Yates’ Verfolgungsfahrt in Robbery überzeugte McQueen für seinen ersten US-Film.",
       "interest": "Yates’ Verfolgungsfahrt in Robbery überzeugte McQueen für seinen ersten US-Film.",
       "sources": [
         "katalog",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Yates’ Verfolgungsfahrt in Robbery überzeugte McQueen für seinen ersten US-Film."
     }
   ]
 }

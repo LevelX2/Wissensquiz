@@ -38,12 +38,12 @@
       ],
       "short": "Evelyn betreibt einen Waschsalon.",
       "context": "Evelyn betreibt einen Waschsalon. Ihr Alltag ist durch Familie, Geldsorgen und eine Steuerprüfung belastet; die Multiversumsgeschichte beginnt in dieser konkreten Überforderung und verlässt ihren familiären Kern trotz aller fantastischen Möglichkeiten nicht.",
-      "anchor": "Das unübersichtliche Universum beginnt im überforderten Waschsalon.",
       "interest": "Das unübersichtliche Universum beginnt im überforderten Waschsalon.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das unübersichtliche Universum beginnt im überforderten Waschsalon."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Eine Steuerprüfung bringt Evelyn zur Steuerbehörde.",
       "context": "Eine Steuerprüfung bringt Evelyn zur Steuerbehörde. Deirdre (Jamie Lee Curtis) verkörpert den Druck dieser alltäglichen Aufgabe; gerade dort bricht die außerordentliche Multiversumshandlung in den scheinbar bürokratischen Alltag ein.",
-      "anchor": "Das Steuerbüro wird zur Multiversumskampfzone.",
       "interest": "Das Steuerbüro wird zur Multiversumskampfzone.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Steuerbüro wird zur Multiversumskampfzone."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Ungewöhnliche, statistisch unwahrscheinliche Handlungen öffnen einen anderen Lebenspfad.",
       "context": "Ungewöhnliche, statistisch unwahrscheinliche Handlungen öffnen einen anderen Lebenspfad. Evelyn (Michelle Yeoh) kann so Fähigkeiten alternativer Versionen nutzen; die absurde Komik erhält damit eine konkrete Funktion innerhalb der fantastischen Regeln.",
-      "anchor": "Der unwahrscheinliche Schritt öffnet eine andere Möglichkeit.",
       "interest": "Der unwahrscheinliche Schritt öffnet eine andere Möglichkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der unwahrscheinliche Schritt öffnet eine andere Möglichkeit."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Jobu ist Alpha-Joy aus einem anderen Universum.",
       "context": "Jobu ist Alpha-Joy aus einem anderen Universum. Ihre gleichzeitige Wahrnehmung aller Möglichkeiten hat zu einem zerstörerischen Gefühl der Sinnlosigkeit geführt; Evelyns (Michelle Yeoh) Gegenspielerin trägt so zugleich das Gesicht ihrer eigenen Tochter.",
-      "anchor": "Die Gegenspielerin ist die überforderte alternative Tochter.",
       "interest": "Die Gegenspielerin ist die überforderte alternative Tochter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gegenspielerin ist die überforderte alternative Tochter."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Waymond fordert Freundlichkeit trotz der verwirrenden Welt.",
       "context": "Waymond fordert Freundlichkeit trotz der verwirrenden Welt. Evelyn (Michelle Yeoh) nimmt diese Haltung auf und begegnet Gegnern mit Empathie; der Sieg entsteht dadurch nicht nur aus größerer Kampfkraft.",
-      "anchor": "Waymonds Freundlichkeit verändert die Form des Kampfes.",
       "interest": "Waymonds Freundlichkeit verändert die Form des Kampfes.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Waymonds Freundlichkeit verändert die Form des Kampfes."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Jobu sucht eine Evelyn (Michelle Yeoh), die wie sie alle Möglichkeiten und deren Leere erkennt.",
       "context": "Jobu sucht eine Evelyn (Michelle Yeoh), die wie sie alle Möglichkeiten und deren Leere erkennt. Der Bagel steht für ihr Verlangen nach Auslöschung; hinter der scheinbaren Welteroberung liegt das Bedürfnis, mit dieser Erfahrung nicht allein zu sein.",
-      "anchor": "Hinter dem zerstörerischen Bagel liegt eine Suche nach Verständnis.",
       "interest": "Hinter dem zerstörerischen Bagel liegt eine Suche nach Verständnis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Hinter dem zerstörerischen Bagel liegt eine Suche nach Verständnis."
     },
     {
       "code": "Y",
@@ -182,13 +182,13 @@
       ],
       "short": "2022 wurde der Film beim SXSW-Festival erstmals gezeigt.",
       "context": "2022 wurde der Film beim SXSW-Festival erstmals gezeigt. Das Regieduo hatte zuvor „Swiss Army Man“ von 2016 geschaffen; sechs Jahre trennen die beiden Langfilme. Hier verbindet es eine ungewöhnliche fantastische Idee erneut mit einem sehr persönlichen Beziehungskonflikt.",
-      "anchor": "Swiss Army Man 2016, Everything Everywhere All at Once 2022: Sechs Jahre später verbinden die Daniels erneut Fantastik und Beziehungen.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Swiss Army Man 2016, Everything Everywhere All at Once 2022: Sechs Jahre später verbinden die Daniels erneut Fantastik und Beziehungen."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch.",
       "context": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch. Sie werden als Daniels bezeichnet. Michelle Yeohs Evelyn trifft alternative Lebenswege, doch die emotionale Grundlage bleibt ihre Beziehung zu Mann und Tochter.",
-      "anchor": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch.",
       "interest": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch.",
       "sources": [
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Daniel Kwan und Daniel Scheinert führten gemeinsam Regie und schrieben das Drehbuch."
     }
   ]
 }

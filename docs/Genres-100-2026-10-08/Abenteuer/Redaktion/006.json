@@ -30,11 +30,11 @@
       ],
       "short": "Im Gestein findet sich ein beschriftetes Senklot.",
       "context": "Professor Lindenbrook (James Mason) entdeckt in einem ungewöhnlich schweren Stein ein beschriftetes Senklot. Der Gegenstand verweist auf Arne Saknussemm und einen Weg ins Erdinnere. Ein naturwissenschaftliches Geschenk wird dadurch zum historischen Hinweis auf eine frühere Reise.",
-      "anchor": "Schwerer Stein birgt Saknussemm-Spur.",
       "interest": "Ein greifbarer Fund verbindet wissenschaftliche Neugier und Reisebeginn.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Schwerer Stein birgt Saknussemm-Spur."
     },
     {
       "code": "L2",
@@ -53,11 +53,11 @@
       ],
       "short": "Die Gruppe steigt durch einen isländischen Vulkan hinab.",
       "context": "Professor Lindenbrook (James Mason) und Alec McEwan (Pat Boone) reisen von Edinburgh nach Island. Der Zugang liegt im Vulkan Snæfellsjökull. Vorbereitung und tatsächlicher Einstieg sind damit verschiedene Stationen; die Reise beginnt nicht direkt unter der schottischen Universität.",
-      "anchor": "Edinburgh plant – Island öffnet den Weg.",
       "interest": "Der Schauplatz wird von der Ausgangsstadt des Films unterschieden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Edinburgh plant – Island öffnet den Weg."
     },
     {
       "code": "M1",
@@ -76,11 +76,11 @@
       ],
       "short": "Carla verlangt, mitzureisen.",
       "context": "Carla Göteborg (Arlene Dahl) will den Ruf ihres verstorbenen Mannes schützen und die Forschung selbst begleiten. Ihre Ausrüstung hilft Professor Lindenbrook (James Mason), bindet ihn aber an eine neue Mitreisende. Die Gruppe wächst durch eine ausgehandelte Bedingung, nicht bloß durch zufällige Begegnung.",
-      "anchor": "Carlas Ausrüstung gibt es nur mit Carla.",
       "interest": "Die Entscheidung erklärt, wie eine eigenständige Figur die Expedition mitgestaltet.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Carlas Ausrüstung gibt es nur mit Carla."
     },
     {
       "code": "M2",
@@ -99,11 +99,11 @@
       ],
       "short": "Der Graf beruft sich auf seine Abstammung vom früheren Entdecker.",
       "context": "Graf Saknussemm (Thayer David) behandelt die Entdeckung seines Vorfahren wie einen persönlichen Besitzanspruch. Professor Lindenbrook (James Mason) folgt dagegen den überlieferten Zeichen als Forscher. Die gleiche Spur führt damit zu einem Konflikt über das Recht auf Entdeckung.",
-      "anchor": "Nachfahre macht aus Entdeckung einen Besitzanspruch.",
       "interest": "Der Gegner erhält eine konkrete Motivation im Verhältnis zur Expedition.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Nachfahre macht aus Entdeckung einen Besitzanspruch."
     },
     {
       "code": "S1",
@@ -122,11 +122,11 @@
       ],
       "short": "Die Expedition entdeckt die Ruinen von Atlantis.",
       "context": "Die Ruinen von Atlantis erweitern die Expedition um eine verlorene Kultur. Professor Lindenbrook (James Mason) findet dort auch die letzte Spur des früheren Forschers. Der Schauplatz verbindet eine fantastische Erdlandschaft mit dem Gedanken, dass eine versunkene Vergangenheit noch lesbar ist.",
-      "anchor": "Im Erdinneren liegt Atlantis.",
       "interest": "Der Fund verbindet Reise- und Entdeckungsstoff mit einem Kulturmythos.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Im Erdinneren liegt Atlantis."
     },
     {
       "code": "S2",
@@ -145,11 +145,11 @@
       ],
       "short": "Der vulkanische Auftrieb schleudert das Gefährt nach oben.",
       "context": "Professor Lindenbrook (James Mason) lässt eine Blockade des Schachts sprengen. Die Reisenden schützen sich in einer steinernen Schale, die von vulkanischer Kraft nach oben getragen wird. Die Natur ist somit auf dem Rückweg zugleich Gefahr und Transportmittel.",
-      "anchor": "Vulkanische Kraft bringt die Forscher zurück.",
       "interest": "Die Rückkehr nutzt eine vorher erschlossene Eigenschaft des Schauplatzes.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Vulkanische Kraft bringt die Forscher zurück."
     },
     {
       "code": "Y",
@@ -168,12 +168,12 @@
       ],
       "short": "Diese Verfilmung erschien 1959.",
       "context": "1959 begibt sich James Mason als Professor ins Erdinnere. Fünf Jahre zuvor war er in „20.000 Meilen unter dem Meer“ Kapitän Nemo. Der Darsteller verbindet damit zwei große Verne-Verfilmungen, deren Reihenfolge einen anschaulichen zeitlichen Anker bildet.",
-      "anchor": "1954 Nemo – 1959 Lindenbrook.",
       "interest": "Die belegte Darstellerverbindung verankert die beiden Verne-Filme zeitlich.",
       "sources": [
         "handlung",
         "archiv"
-      ]
+      ],
+      "objective": "1954 Nemo – 1959 Lindenbrook."
     },
     {
       "code": "D",
@@ -192,11 +192,11 @@
       ],
       "short": "Regie führte Henry Levin.",
       "context": "Henry Levin inszeniert die Gruppe zwischen Forschung, Rivalität und fantastischen Landschaften. Der Film verändert Figuren und Ausgangsort gegenüber dem Roman. Die Regiefrage betrifft diese konkrete Fassung mit James Mason und Pat Boone, nicht spätere Verne-Verfilmungen gleichen Titels.",
-      "anchor": "Levin führt Mason ins Erdinnere.",
       "interest": "Der Credit wird einer klar identifizierten Filmfassung zugeordnet.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Levin führt Mason ins Erdinnere."
     }
   ]
 }

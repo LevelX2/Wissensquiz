@@ -45,14 +45,14 @@
       ],
       "short": "Ihre Visionen helfen der Polizei, nach Jessica zu suchen.",
       "context": "Annie Wilson (Cate Blanchett) verdient ihren Lebensunterhalt mit Kartenlegen und Beratungen. Als Jessica King (Katie Holmes) verschwindet, bittet die Polizei sie trotz Zweifeln um Hilfe. Die belastenden Bilder verbinden ihr privates Talent mit einer öffentlichen Ermittlung, deren Ergebnis sie zugleich selbst in Gefahr bringt.",
-      "anchor": "Jessicas Verschwinden macht Annies Visionen zur Ermittlungsquelle.",
       "interest": "Die Ausgangslage verbindet übernatürliche Wahrnehmung und kriminalistische Suche.",
       "sources": [
         "wiki",
         "de",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jessicas Verschwinden macht Annies Visionen zur Ermittlungsquelle."
     },
     {
       "code": "L2",
@@ -71,13 +71,13 @@
       ],
       "short": "Annie unterstützt Valerie (Hilary Swank) gegen die Gewalt ihres Mannes.",
       "context": "Valerie Barksdale (Hilary Swank) sucht Hilfe bei Annie Wilson (Cate Blanchett), weil ihr Mann sie misshandelt. Donnie (Keanu Reeves) reagiert auf den Rat zur Trennung mit Drohungen. Sein offen aggressives Verhalten macht ihn später als Mordverdächtigen überzeugend, beweist aber noch nicht, dass er auch Jessica getötet hat.",
-      "anchor": "Der Rat zur Trennung macht Annie zum Ziel Donnies.",
       "interest": "Die Szene erklärt, weshalb ein späterer Verdacht zunächst plausibel wirkt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Rat zur Trennung macht Annie zum Ziel Donnies."
     },
     {
       "code": "M1",
@@ -96,13 +96,13 @@
       ],
       "short": "Die Visionen führen zum Teich auf seinem Grundstück, wo die Leiche liegt.",
       "context": "Annie Wilson (Cate Blanchett) sieht bruchstückhafte Bilder eines Gewässers. Die Polizei findet dort Jessica King (Katie Holmes), und der Teich gehört Donnie (Keanu Reeves). Zusammen mit seinem Verhalten und seiner Affäre ergibt das einen starken Verdacht. Der Fundort erweist sich jedoch später nicht als zuverlässige Zuordnung des tatsächlichen Mörders.",
-      "anchor": "Der Leichenfund auf Donnies Grundstück erzeugt einen irreführenden Tatverdacht.",
       "interest": "Die Frage trennt einen belastenden Fund von gesicherter Täterschaft.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Leichenfund auf Donnies Grundstück erzeugt einen irreführenden Tatverdacht."
     },
     {
       "code": "M2",
@@ -121,13 +121,13 @@
       ],
       "short": "Die Bilder zeigen ihr, dass der eigentliche Mörder noch frei ist.",
       "context": "Nach dem scheinbar abgeschlossenen Prozess bleiben Annies (Cate Blanchett) verstörende Wahrnehmungen bestehen. Sie widersprechen der beruhigenden Vorstellung, der Täter sei gefasst. Ihre neue Suche zwingt sie, auch Personen zu misstrauen, die wesentlich weniger bedrohlich auftreten als Donnie (Keanu Reeves). Die Ermittlung beginnt deshalb gerade nach der Verurteilung erneut.",
-      "anchor": "Fortgesetzte Visionen widerlegen Annies vermeintliche Sicherheit nach dem Urteil.",
       "interest": "Die Frage verfolgt die Ursache der zweiten Ermittlungsphase.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Fortgesetzte Visionen widerlegen Annies vermeintliche Sicherheit nach dem Urteil."
     },
     {
       "code": "S1",
@@ -146,13 +146,13 @@
       ],
       "short": "Die Vision am Teich entlarvt Jessica Kings Verlobten als Mörder.",
       "context": "Wayne Collins (Greg Kinnear) begleitet Annie Wilson (Cate Blanchett) scheinbar hilfreich zum Teich. Dort erkennt sie seine Verantwortung für Jessica Kings (Katie Holmes) Tod. Der Vertraute wird unmittelbar zum Angreifer. Seine gekränkte Eifersucht erklärt die Tat, während Annies Annäherung an ihn sie gerade in den gefährlichsten Moment geführt hat.",
-      "anchor": "Die gemeinsame Teichfahrt entlarvt den vermeintlichen Helfer als Mörder.",
       "interest": "Die Auflösung zeigt die Gefahr eines unverdient vertrauenswürdigen Auftretens.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gemeinsame Teichfahrt entlarvt den vermeintlichen Helfer als Mörder."
     },
     {
       "code": "S2",
@@ -171,13 +171,13 @@
       ],
       "short": "Der Sheriff erklärt, dass Buddy schon vor seinem Eingreifen Suizid begangen hatte.",
       "context": "Buddy Cole (Giovanni Ribisi) rettet Annie Wilson (Cate Blanchett) vor Wayne (Greg Kinnear) und gibt ihr einen früher erhaltenen Waschlappen zurück. Erst auf der Polizeistation erfährt sie, dass er bereits tot war. Der greifbare Gegenstand verbindet eine frühere Fürsorgehandlung mit einer Hilfe, die sich nicht als normaler Krankenhausausbruch erklären lässt.",
-      "anchor": "Der zurückgegebene Waschlappen bleibt als Spur des bereits verstorbenen Retters.",
       "interest": "Das Ende bindet die übernatürliche Wendung an eine konkrete Figurenbeziehung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der zurückgegebene Waschlappen bleibt als Spur des bereits verstorbenen Retters."
     },
     {
       "code": "Y",
@@ -196,13 +196,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2000.",
       "context": "The Gift erschien 2000. Billy Bob Thornton und Tom Epperson hatten das Drehbuch bereits vor Thorntons Durchbruch mit Sling Blade von 1996 geschrieben. Zwischen diesem Erfolg und der Veröffentlichung des früher entwickelten Stoffes liegen vier Jahre. Die Reihenfolge macht deutlich, dass Bekanntwerden und tatsächliche Entstehung eines Projekts nicht dieselben Zeitpunkte sind.",
-      "anchor": "Thorntons Sling-Blade-Erfolg 1996 → Veröffentlichung The Gift 2000: vier Jahre; dessen Stoff entstand früher.",
       "interest": "Die Verbindung erklärt den verzögerten Weg eines bereits vorhandenen Drehbuchs ins Kino.",
       "sources": [
         "wiki",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Thorntons Sling-Blade-Erfolg 1996 → Veröffentlichung The Gift 2000: vier Jahre; dessen Stoff entstand früher."
     },
     {
       "code": "D",
@@ -221,13 +221,13 @@
       ],
       "short": "Sam Raimi führte bei diesem Film Regie.",
       "context": "Sam Raimi führte Regie, während Billy Bob Thornton und Tom Epperson das Originaldrehbuch schrieben. Die Bedrohung entwickelt sich aus dem Alltag einer Witwe und ihrer Klienten. Annie Wilson (Cate Blanchett) erhält keine vollständig lesbare Erklärung, sondern bruchstückhafte Visionen. Die Regie verbindet diese unsichere Wahrnehmung mit einer konkret untersuchten Mordgeschichte.",
-      "anchor": "Raimi inszeniert das Originaldrehbuch von Thornton und Epperson.",
       "interest": "Die Credits unterscheiden die Regie von der persönlichen Stoffquelle der Autoren.",
       "sources": [
         "wiki",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Raimi inszeniert das Originaldrehbuch von Thornton und Epperson."
     }
   ]
 }

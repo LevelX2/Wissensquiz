@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Katharine ist mit Geoffrey Clifton verheiratet.",
       "context": "Das Ehepaar kommt zu einer Expedition in die Sahara. Katharine begegnet dort dem Forscher László Almásy (Ralph Fiennes) und beginnt mit ihm eine Affäre. Die spätere Erzählung des schwer verbrannten Almásy verbindet diese Liebe mit dem Krieg und ihrem tragischen Ende. Scott Thomas spielt Katharine vor allem in jener Vergangenheit, die der Patient nur nach und nach preisgibt.",
-      "anchor": "Die Liebesgeschichte beginnt innerhalb einer bestehenden Ehe.",
       "interest": "Die Beziehung erklärt den Konflikt zwischen Begehren, Loyalität und Verrat.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/film/fb428f8a-5d2a-5604-9993-c136e1a7d6a4/the-english-patient",
         "https://www.irishtimes.com/news/patient-endeavours-1.50462"
-      ]
+      ],
+      "objective": "Die Liebesgeschichte beginnt innerhalb einer bestehenden Ehe."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 2,
       "short": "Fiona liebt ihren Freund Charles, ohne dass er ihre Gefühle erwidert.",
       "context": "Bei den wiederkehrenden Feiern begleitet Fiona den Freundeskreis mit scharfem Witz. Hinter ihrer souveränen Haltung verbirgt sich eine unerwiderte Liebe zu Charles (Hugh Grant), der seinerseits Carrie (Andie MacDowell) nachgeht. Als Fiona ihre Gefühle schließlich ausspricht, zeigt die Komödie eine andere Art von Liebesgeschichte: langes stilles Warten innerhalb einer Freundschaft.",
-      "anchor": "Fionas Schlagfertigkeit verdeckt ihre unerwiderte Liebe zu Charles.",
       "interest": "Die Frage erschließt eine emotionale Nebenlinie neben dem zentralen Liebespaar.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       ],
       "knowledge_id": "K-ROM-06-03",
       "variant_of": "ROM-M-011",
-      "knowledge_note": "Dasselbe unerwiderte Liebesziel, nun mit Fiona als vorgegebener Figur statt als gesuchter Freundin."
+      "knowledge_note": "Dasselbe unerwiderte Liebesziel, nun mit Fiona als vorgegebener Figur statt als gesuchter Freundin.",
+      "objective": "Fionas Schlagfertigkeit verdeckt ihre unerwiderte Liebe zu Charles."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 0,
       "short": "Juliette tötete ihren schwer und unheilbar kranken Sohn, um sein Leiden zu beenden.",
       "context": "Nach ihrer Haft zieht Juliette bei ihrer Schwester Léa (Elsa Zylberstein) ein. Die Familie kennt ihre Verurteilung wegen des Todes ihres Kindes, aber nicht den entscheidenden Hintergrund. Juliette hat ihre Gründe auch im Prozess verschwiegen und sich selbst für die Existenz und das Leiden ihres Sohnes bestraft. Erst das Gespräch mit Léa verbindet die lange Isolation mit einer erklärbaren, weiterhin schmerzhaften Vergangenheit.",
-      "anchor": "Die verschwiegene Krankheit verändert Léas Verständnis der Tat.",
       "interest": "Die Enthüllung zeigt, warum das Urteil der Umgebung auf unvollständigem Wissen beruht.",
       "feedback": [
         "Juliette tötete ihren schwer und unheilbar kranken Sohn, um sein Leiden zu beenden.",
@@ -89,7 +88,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/I%27ve_Loved_You_So_Long"
-      ]
+      ],
+      "objective": "Die verschwiegene Krankheit verändert Léas Verständnis der Tat."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 1,
       "short": "Hélène ist mit Alex’ Schwester Anne zusammen.",
       "context": "Alex erhält nach Jahren der Trauer Hinweise, dass seine Frau noch leben könnte, und gerät selbst unter Mordverdacht. Hélène gehört über Anne (Marina Hands) zu seiner Familie. Die beiden Frauen verschaffen ihm über eine Anwältin ein Alibi. Ihre Hilfe steht neben der Unterstützung anderer Personen, denen Alex früher geholfen hat, während Polizei und Verfolger seinen Bewegungsraum immer weiter einschränken.",
-      "anchor": "Hélène und Anne gehören zu Alex’ familiären Unterstützerinnen.",
       "interest": "Die Beziehung ordnet eine wichtige Helferin im verwickelten Thriller ein.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Tell_No_One"
-      ]
+      ],
+      "objective": "Hélène und Anne gehören zu Alex’ familiären Unterstützerinnen."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 3,
       "short": "Die Wohnung der Familie ihres Mannes war zuvor Sarahs Familienwohnung.",
       "context": "Julia recherchiert die Pariser Deportationsrazzia von 1942. Zugleich soll sie in eine Wohnung ziehen, die aus der Familie ihres Mannes stammt. Dort lebte einst Sarah (Mélusine Mayance), die ihren kleinen Bruder vor der Polizei in einem Schrank versteckt hatte. Julias Schwiegervater (Michel Duchaussoy) war der Junge, der Sarah bei ihrer Rückkehr die Tür öffnete. Historische Recherche greift so in eine scheinbar vertraute Familiengeschichte ein.",
-      "anchor": "Die geplante Familienwohnung wird zum Ort einer verdrängten Geschichte.",
       "interest": "Das Ziel verbindet die beiden Zeitebenen über einen konkreten gemeinsamen Raum.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Sarah%27s_Key_(film)"
-      ]
+      ],
+      "objective": "Die geplante Familienwohnung wird zum Ort einer verdrängten Geschichte."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 0,
       "short": "Crystal verlangt Vergeltung, während Julian den Vater von Billys Opfer zunächst verschont.",
       "context": "Billy hat ein Mädchen ermordet und wird von dessen Vater getötet. Julian hört die Hintergründe und lässt den Vater leben. Seine Mutter Crystal, die zugleich das Familienverbrechen beherrscht, akzeptiert diese Entscheidung nicht. Sie organisiert selbst weitere Gewalt und setzt Julian unter Druck. Der Konflikt beruht somit auch auf unterschiedlichen Maßstäben dafür, wessen Tod gerächt werden soll.",
-      "anchor": "Crystals Familienloyalität verlangt eine Rache, die Julian zunächst verweigert.",
       "interest": "Der Gegensatz erklärt, wie die mütterliche Autorität die Gewaltspirale antreibt.",
       "feedback": [
         "Crystal verlangt Vergeltung, während Julian den Vater von Billys Opfer zunächst verschont.",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Only_God_Forgives"
-      ]
+      ],
+      "objective": "Crystals Familienloyalität verlangt eine Rache, die Julian zunächst verweigert."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 3,
       "short": "20th Century Fox bevorzugte aus geschäftlichen Gründen eine stärker mit Stars besetzte Produktion.",
       "context": "Scott Thomas berichtete, Fox habe geglaubt, der Stoff brauche eine besonders prominente Besetzung. Anthony Minghella hielt jedoch an den vorgesehenen Darstellern fest; schließlich übernahm Miramax die Unterstützung. Der Konflikt betraf damit die wirtschaftliche Einschätzung einer Besetzung, die später als passend zum Film wahrgenommen wurde. Für Scott Thomas war Katharine zudem eine bewusst offenere Rolle als viele ihrer zuvor reservierten Figuren.",
-      "anchor": "Minghella hielt an seiner Besetzung fest und fand eine andere Finanzierung.",
       "interest": "Die Frage zeigt, wie kommerzielle Erwartungen konkrete Schauspielmöglichkeiten bestimmen.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       ],
       "extraSources": [
         "https://www.irishtimes.com/news/patient-endeavours-1.50462"
-      ]
+      ],
+      "objective": "Minghella hielt an seiner Besetzung fest und fand eine andere Finanzierung."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 2,
       "short": "Sie lernte die Aussprache des Textes intensiv und ist im fertigen Film mit eigener Stimme zu hören.",
       "context": "In ihrem BAFTA-Gespräch beschrieb Scott Thomas tägliche Arbeit am Drehbuch über mehrere Wochen. Die komplizierte Aussprache lernte sie nach Gehör. Sie hatte mit einer späteren Synchronisation gerechnet, entdeckte aber ihre eigene Stimme im Film. Die Aufgabe ging über ihre vertraute Arbeit auf Englisch und Französisch hinaus und verlangte eine besondere sprachliche Vorbereitung.",
-      "anchor": "Der rumänische Text wurde nach Gehör erarbeitet und mit ihrer eigenen Stimme verwendet.",
       "interest": "Das Beispiel zeigt die konkrete Arbeit hinter einer Darstellung in einer nicht beherrschten Sprache.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       ],
       "extraSources": [
         "https://static.bafta.org/uploads_pre_202411/transcripts/baftaalifeinpictureskristinscottthomas.pdf"
-      ]
+      ],
+      "objective": "Der rumänische Text wurde nach Gehör erarbeitet und mit ihrer eigenen Stimme verwendet."
     }
   ]
 }

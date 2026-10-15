@@ -34,7 +34,7 @@ for(const q of parsed.questions){
     const a=q.answers.find(answer=>answer.id===`${q.id}:${l}`)!;
     if(a.text!==row[`answer_${l}`]||a.feedback!==row[`feedback_${l}`]) throw new Error(`${q.id}: answer/feedback lost`);
   }
-  if(q.explanation!==row.explanation_short||q.context!==row.explanation_context||q.anchor!==row.memory_anchor) throw new Error(`${q.id}: editorial context lost`);
+  if(q.explanation!==row.explanation_short||q.context!==row.explanation_context) throw new Error(`${q.id}: editorial context lost`);
   if(questionSourceOf(q)!=='film') throw new Error(`${q.id}: wrong source group`);
 }
 const simulated=[...state.questions,...parsed.questions];

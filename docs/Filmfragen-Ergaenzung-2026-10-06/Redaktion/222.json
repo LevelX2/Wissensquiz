@@ -36,12 +36,12 @@
       ],
       "short": "Die Figuren reisen in einer Postkutsche nach Lordsburg.",
       "context": "Die Figuren reisen in einer Postkutsche nach Lordsburg. Der begrenzte Raum zwingt Menschen verschiedener sozialer Stellung zusammen, während eine äußere Bedrohung ihre Zusammenarbeit verlangt.",
-      "anchor": "Die Kutsche macht gesellschaftliche Gegensätze zu einer gemeinsamen Reise.",
       "interest": "Die Kutsche macht gesellschaftliche Gegensätze zu einer gemeinsamen Reise.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Kutsche macht gesellschaftliche Gegensätze zu einer gemeinsamen Reise."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Doc Boone (Thomas Mitchell) und Dallas (Claire Trevor) helfen bei Lucy Mallorys (Louise Platt) Geburt.",
       "context": "Doc Boone (Thomas Mitchell) und Dallas (Claire Trevor) helfen bei Lucy Mallorys (Louise Platt) Geburt. Gerade die gesellschaftlich Ausgegrenzten übernehmen Verantwortung für die angesehene Reisende.",
-      "anchor": "Bei der Geburt bewähren sich die Ausgegrenzten.",
       "interest": "Bei der Geburt bewähren sich die Ausgegrenzten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bei der Geburt bewähren sich die Ausgegrenzten."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Ringo (John Wayne) ist aus dem Gefängnis ausgebrochen, um die Plummer-Brüder zur Rede zu stellen.",
       "context": "Ringo (John Wayne) ist aus dem Gefängnis ausgebrochen, um die Plummer-Brüder zur Rede zu stellen. Curley (George Bancroft) kennt ihn, muss ihn aber zunächst als entflohenen Gefangenen festhalten.",
-      "anchor": "Persönliches Vertrauen hebt Curleys Amtspflicht zunächst nicht auf.",
       "interest": "Persönliches Vertrauen hebt Curleys Amtspflicht zunächst nicht auf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Persönliches Vertrauen hebt Curleys Amtspflicht zunächst nicht auf."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Ringo (John Wayne) sieht Rauchzeichen und erkennt die Gefahr.",
       "context": "Ringo (John Wayne) sieht Rauchzeichen und erkennt die Gefahr. Er verzichtet auf seine Flucht, um Dallas (Claire Trevor) und die anderen Reisenden bei dem drohenden Angriff zu schützen.",
-      "anchor": "Die Entscheidung zu bleiben zeigt Loyalität vor persönlicher Freiheit.",
       "interest": "Die Entscheidung zu bleiben zeigt Loyalität vor persönlicher Freiheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Entscheidung zu bleiben zeigt Loyalität vor persönlicher Freiheit."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Gatewood (Berton Churchill) wird in Lordsburg wegen der mitgenommenen Bankgelder verhaftet.",
       "context": "Gatewood (Berton Churchill) wird in Lordsburg wegen der mitgenommenen Bankgelder verhaftet. Sein betont respektables Auftreten steht damit im Gegensatz zu seinem tatsächlichen Verhalten.",
-      "anchor": "Die respektable Fassade des Bankiers verdeckt die Unterschlagung.",
       "interest": "Die respektable Fassade des Bankiers verdeckt die Unterschlagung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die respektable Fassade des Bankiers verdeckt die Unterschlagung."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Curley (George Bancroft) und Doc Boone (Thomas Mitchell) treiben die Pferde an und lassen Ringo (John Wayne) mit Dallas (Claire Trevor) entkommen.",
       "context": "Curley (George Bancroft) und Doc Boone (Thomas Mitchell) treiben die Pferde an und lassen Ringo (John Wayne) mit Dallas (Claire Trevor) entkommen. Die Männer ermöglichen beiden einen Neuanfang außerhalb der verurteilenden Stadt.",
-      "anchor": "Der Neuanfang gelingt durch eine bewusst gewährte Flucht.",
       "interest": "Der Neuanfang gelingt durch eine bewusst gewährte Flucht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Neuanfang gelingt durch eine bewusst gewährte Flucht."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1939 erschien der Film.",
       "context": "1939 erschien der Film. Ernest Haycox’ Erzählung The Stage to Lordsburg wurde 1937 veröffentlicht; Ford brachte den Stoff zwei Jahre später als gesellschaftliches Gruppenporträt in die Kinos.",
-      "anchor": "Erzählung 1937, Film 1939: Zwei Jahre später trägt die Kutsche ein gesellschaftliches Gruppenporträt.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Erzählung 1937, Film 1939: Zwei Jahre später trägt die Kutsche ein gesellschaftliches Gruppenporträt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "John Ford führte Regie.",
       "context": "John Ford führte Regie. Die Reise führt unterschiedlich angesehene Menschen in dieselbe Kutsche und lässt ihre Taten die moralischen Rangordnungen der Ausgangsstadt widerlegen.",
-      "anchor": "John Ford führte Regie.",
       "interest": "John Ford führte Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "John Ford führte Regie."
     }
   ]
 }

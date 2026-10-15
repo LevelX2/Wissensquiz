@@ -37,12 +37,12 @@
       ],
       "short": "Gu beginnt als Gelehrter und Porträtmaler.",
       "context": "Gu Shengzhai (Shih Chun) lebt mit seiner Mutter in einem abgelegenen Ort. Er ist ein wenig ehrgeiziger Gelehrter und malt Porträts, statt eine Beamtenlaufbahn einzuschlagen. Ein fremder Kunde zieht ihn in eine Verfolgung hinein, deren Umfang er zunächst nicht erkennt. Der Film betrachtet den Konflikt dadurch anfangs aus der Perspektive eines gewöhnlichen Beobachters. Erst später wird seine Fähigkeit zum Planen für die kämpfenden Flüchtlinge entscheidend.",
-      "anchor": "Der Porträtmaler wird vom Beobachter zum Beteiligten.",
       "interest": "Erkennt den Ausgangspunkt eines Helden ohne anfängliche Kampfstärke.",
       "sources": [
         "film",
         "essay"
-      ]
+      ],
+      "objective": "Der Porträtmaler wird vom Beobachter zum Beteiligten."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Yang wird wegen der Opposition ihres Vaters gegen einen Eunuchen gejagt.",
       "context": "Yang Huizhen (Hsu Feng) ist auf der Flucht, nachdem ihr Vater die korrupten Machenschaften eines mächtigen Eunuchen beanstandet hat und hingerichtet wurde. Der Geheimdienst verfolgt auch seine Familie. Ihre Gefährdung ist damit eine Folge politischer Vergeltung gegen Angehörige. Loyal gebliebene Beschützer helfen ihr weiter. Hinter den scheinbar privaten Begegnungen im Ort steht eine Macht, deren Zugriff weit über die unmittelbaren Gegner hinausreicht.",
-      "anchor": "Die Kritik des Vaters gefährdet die ganze Familie.",
       "interest": "Verankert die Flucht in einer konkreten politischen Vorgeschichte.",
       "sources": [
         "film",
         "tfai"
-      ]
+      ],
+      "objective": "Die Kritik des Vaters gefährdet die ganze Familie."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Gu verwandelt den Ruf eines Geisterortes in eine taktische Falle.",
       "context": "Gu Shengzhai (Shih Chun) plant eine Falle an einem Ort, der als heimgesucht gilt. Die Angreifer sollen glauben, dass Geister gegen sie tätig werden, während die Verteidiger den Schrecken für ihren Angriff nutzen. Der Gelehrte bringt dadurch seine Planungsgabe in die Auseinandersetzung ein. Nach dem Erfolg freut er sich zunächst über seinen Einfall, bis ihn die vielen Toten mit dem Preis dieser gelungenen Strategie konfrontieren.",
-      "anchor": "Der Spuk wird von Gu als taktische Täuschung inszeniert.",
       "interest": "Verbindet strategische Erfindungskraft mit ihrer menschlichen Konsequenz.",
       "sources": [
         "film",
         "essay"
-      ]
+      ],
+      "objective": "Der Spuk wird von Gu als taktische Täuschung inszeniert."
     },
     {
       "code": "M2",
@@ -109,11 +109,11 @@
       ],
       "short": "Ouyangs Siegel hilft, die weiteren Verfolger in die Falle zu führen.",
       "context": "Ouyang Nian (Tien Peng) wird im Kampf im Bambuswald getötet. Die Verteidiger verwenden anschließend sein Siegel, um weitere Leute des Geheimdienstes in die vorbereitete Falle zu locken. Ein Zeichen offizieller Autorität wird gegen die Organisation gewendet, die ihm vertraut. Damit geht der Widerstand über den unmittelbar gewonnenen Zweikampf hinaus: Aus dem Besitz des getöteten Verfolgers entsteht ein Mittel, auch dessen nachrückende Kräfte zu lenken.",
-      "anchor": "Das Siegel des Verfolgers wird gegen dessen eigene Organisation eingesetzt.",
       "interest": "Fragt nach dem konkreten Bindeglied zwischen Bambuskampf und Hinterhalt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Siegel des Verfolgers wird gegen dessen eigene Organisation eingesetzt."
     },
     {
       "code": "S1",
@@ -132,11 +132,11 @@
       ],
       "short": "Ouyang trägt das biegsame Schwert im Gürtel.",
       "context": "Ouyang Nian (Tien Peng) erscheint als Fremder, der ein Porträt anfertigen lassen möchte, ist aber ein gefährlicher Geheimdienstmann. Sein besonderes Schwert lässt sich biegen und im Gürtel tragen. Die Waffe bleibt dadurch in seiner gewöhnlichen Erscheinung verborgen. Der Gegensatz zwischen dem scheinbar unbewaffneten Besucher und seiner tatsächlichen Kampfkraft passt zur vorsichtigen Enthüllung der Rollen: Der Alltag des Ortes enthält mehr Bedrohung, als zunächst erkennbar ist.",
-      "anchor": "Ein alltäglicher Gürtel verbirgt die flexible Klinge.",
       "interest": "Eine konkrete Waffenform erläutert die unauffällige Erscheinung des Verfolgers.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein alltäglicher Gürtel verbirgt die flexible Klinge."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Vorgetäuschte Reue eröffnet den Angriff auf Huiyuan.",
       "context": "Xu Xianchun (Han Ying-chieh) setzt die Verfolgung fort und trifft schließlich auf den Abt Huiyuan (Roy Chiao). Er täuscht Reue vor, um den Mönch unerwartet verletzen zu können. Das scheinbare Einlenken dient als Waffe gegen dessen Bereitschaft zur Nachsicht. In der letzten Auseinandersetzung verschiebt sich der Film von der taktischen List zur religiösen Bildwelt. Der Angriff verbindet diese beiden Ebenen durch einen bewusst missbrauchten Vertrauensmoment.",
-      "anchor": "Xu nutzt scheinbare Reue als Tarnung seines Angriffs.",
       "interest": "Erklärt den konkreten Übergang zum letzten, religiös geprägten Konflikt.",
       "sources": [
         "film",
         "essay"
-      ]
+      ],
+      "objective": "Xu nutzt scheinbare Reue als Tarnung seines Angriffs."
     },
     {
       "code": "Y",
@@ -179,7 +179,6 @@
       ],
       "short": "1970 erster Teil, 1971 zweiter Teil; 1975 Cannes: fünf Jahre nach dem Beginn.",
       "context": "Die ursprüngliche Veröffentlichung begann 1970 in Taiwan; der zweite Teil folgte 1971. Später wurde der Film als zusammenhängendes Werk gezeigt, weshalb Criterion das Jahr 1971 verwendet. 1975 erhielt er in Cannes den technischen Grand Prix, fünf Jahre nach dem Beginn der Veröffentlichung. Der Festivalerfolg datiert somit weder die Produktion noch den ersten Kinostart. Die ausdrücklich zweiteilige Ausgangsfassung erklärt, warum mehrere verbreitete Jahresangaben nebeneinander stehen.",
-      "anchor": "1970 Beginn, 1971 Fortsetzung, 1975 Cannes: fünf Jahre nach dem Beginn.",
       "interest": "Trennt den ersten Veröffentlichungsteil von späterer Gesamtfassung und Festivalerfolg.",
       "sources": [
         "goldenhorse",
@@ -188,7 +187,8 @@
         "archiv_presskit",
         "criterion",
         "bfi"
-      ]
+      ],
+      "objective": "1970 Beginn, 1971 Fortsetzung, 1975 Cannes: fünf Jahre nach dem Beginn."
     },
     {
       "code": "D",
@@ -207,7 +207,6 @@
       ],
       "short": "King Hu inszenierte Ein Hauch von Zen.",
       "context": "King Hu gestaltete den Film als Übergang von alltäglichen Beobachtungen über politische Verfolgung zu einer religiös aufgeladenen Auseinandersetzung. Golden Horse und TFAI nennen ihn als Regisseur. Die lange, ursprünglich zweiteilige Form ermöglicht unterschiedliche Perspektiven auf Heldentum: Der Gelehrte wird zum Strategen, während die Schwertkämpferin und die Mönche andere Formen der Gegenwehr verkörpern. Die verschiedenen späteren Jahres- und Laufzeitangaben verändern diesen Hauptregiecredit nicht.",
-      "anchor": "King Hu führt durch die wechselnden Perspektiven des langen Films.",
       "interest": "Ordnet die formale Entwicklung einem eindeutig belegten Hauptregisseur zu.",
       "sources": [
         "goldenhorse",
@@ -215,7 +214,8 @@
         "essay",
         "criterion",
         "bfi"
-      ]
+      ],
+      "objective": "King Hu führt durch die wechselnden Perspektiven des langen Films."
     }
   ]
 }

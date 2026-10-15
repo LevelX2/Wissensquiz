@@ -30,12 +30,12 @@
       ],
       "short": "Naritsugus Gewalt und bevorstehender Aufstieg machen ihn zur politischen Gefahr.",
       "context": "Lord Naritsugu (Gorō Inagaki) begeht schwere Gewaltverbrechen, wird aber durch seine Nähe zum Shōgun geschützt. Shinzaemon (Kōji Yakusho) soll seinen weiteren politischen Aufstieg verhindern. Der Auftrag richtet sich daher gegen einen mächtigen Mann, dessen formelle Stellung die normalen Wege der Bestrafung blockiert.",
-      "anchor": "Naritsugus Herrschaftsschutz macht den geheimen Anschlag zur politischen Entscheidung.",
       "interest": "Naritsugus Herrschaftsschutz macht den geheimen Anschlag zur politischen Entscheidung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Naritsugus Herrschaftsschutz macht den geheimen Anschlag zur politischen Entscheidung."
     },
     {
       "code": "L2",
@@ -54,12 +54,12 @@
       ],
       "short": "Die Männer bauen Ochiai zu einem Gefechtsraum mit Fallen um.",
       "context": "Shinzaemon (Kōji Yakusho) kennt den Nachteil einer kleinen Gruppe gegenüber Naritsugus Gefolge. Eine Ortschaft wird deshalb gezielt vorbereitet. Die räumliche Planung soll den Gegner in Teilkämpfe zwingen, seine Bewegung hemmen und die verfügbare Stärke der Angreifer vervielfachen. Die Umgebung ersetzt dadurch einen Teil der fehlenden Zahl.",
-      "anchor": "Die vorbereitete Stadt wird zur Waffe der kleinen Gruppe.",
       "interest": "Die vorbereitete Stadt wird zur Waffe der kleinen Gruppe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die vorbereitete Stadt wird zur Waffe der kleinen Gruppe."
     },
     {
       "code": "M1",
@@ -78,12 +78,12 @@
       ],
       "short": "Koyata kennt das Gelände und wird der zusätzliche Begleiter.",
       "context": "Die Männer verlassen die gefährdeten Straßen und verirren sich im Gebirge. Sie retten Kiga Koyata (Yūsuke Iseya), einen Jäger, der sie weiterführt. Er gehört nicht zur gleichen Standeswelt wie die Samurai. Seine Geländekenntnis und sein eigener Wunsch mitzuziehen erweitern daher sowohl die Fähigkeiten als auch die soziale Zusammensetzung der Gruppe.",
-      "anchor": "Der Jäger ergänzt die Samurai durch eine andere Erfahrung.",
       "interest": "Der Jäger ergänzt die Samurai durch eine andere Erfahrung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Jäger ergänzt die Samurai durch eine andere Erfahrung."
     },
     {
       "code": "M2",
@@ -102,12 +102,12 @@
       ],
       "short": "Naritsugu verbindet standesbezogenen Stolz mit Lust an der Gefahr.",
       "context": "Hanbei (Masachika Ichimura) erkennt die Wahrscheinlichkeit eines Anschlags. Naritsugu (Gorō Inagaki) will den angekündigten Besuch trotzdem durchführen. Sein Wunsch, nicht schwach zu erscheinen, trifft auf Freude an gewaltsamer Spannung. Die Falle funktioniert damit auch, weil die Angreifer nicht nur das Gelände, sondern das Verhalten des Zieles einschätzen.",
-      "anchor": "Naritsugus Stolz hilft, ihn in die vorbereitete Falle zu führen.",
       "interest": "Naritsugus Stolz hilft, ihn in die vorbereitete Falle zu führen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Naritsugus Stolz hilft, ihn in die vorbereitete Falle zu führen."
     },
     {
       "code": "S1",
@@ -126,12 +126,12 @@
       ],
       "short": "Hanbei schützt seinen Herrn, Shinzaemon will dessen Gewalt verhindern.",
       "context": "Shinzaemon (Kōji Yakusho) und Hanbei (Masachika Ichimura) kennen und respektieren einander. Trotzdem stehen sie auf entgegengesetzten Seiten. Der Konflikt prüft damit Loyalität selbst: Gute Kampfkünste und persönlicher Respekt entscheiden nicht, ob Gehorsam auch gegenüber einem grausamen Herrn moralisch bindend bleibt.",
-      "anchor": "Die früheren Weggefährten trennen sich an der Grenze legitimer Loyalität.",
       "interest": "Die früheren Weggefährten trennen sich an der Grenze legitimer Loyalität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die früheren Weggefährten trennen sich an der Grenze legitimer Loyalität."
     },
     {
       "code": "S2",
@@ -150,12 +150,12 @@
       ],
       "short": "Miikes Film ist ein Remake von Kudōs 13 Assassins.",
       "context": "Der ältere Film von 1963 lieferte die Grundlage für die Fassung 2010. Die große Schlussauseinandersetzung und die Gruppe gegen einen politisch geschützten Gewalttäter stehen im Mittelpunkt der Neubearbeitung. Der Zusammenhang ist eine erzählerische Adaption, keine Restaurierung mit neuen Credits und keine bloße Zusammenstellung älterer Bilder.",
-      "anchor": "Neues Team und neue Inszenierung bearbeiten denselben Samurai-Auftrag.",
       "interest": "Neues Team und neue Inszenierung bearbeiten denselben Samurai-Auftrag.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Neues Team und neue Inszenierung bearbeiten denselben Samurai-Auftrag."
     },
     {
       "code": "Y",
@@ -174,13 +174,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2010.",
       "context": "13 Assassins wurde 2010 in Venedig vorgestellt und im selben September in Japan veröffentlicht. Die Vorlage ist der gleichnamige Film von Eiichi Kudō aus 1963. Die Geschichte liegt 1844. Original, Remake und historische Handlung benötigen daher getrennte Zeitangaben; für diese Fassung zählt 2010. Zwischen dem älteren Original und dieser Fassung liegen 47 Jahre.",
-      "anchor": "Kudōs Original 1963, Miikes Remake 2010: 47 Jahre zwischen den Attentatsfilmen.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Kudōs Original 1963, Miikes Remake 2010: 47 Jahre zwischen den Attentatsfilmen.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kudōs Original 1963, Miikes Remake 2010: 47 Jahre zwischen den Attentatsfilmen."
     },
     {
       "code": "D",
@@ -199,13 +199,13 @@
       ],
       "short": "Der Regiecredit lautet Takashi Miike.",
       "context": "Takashi Miike inszenierte die Neubearbeitung von Eiichi Kudōs älterem Film. Kōji Yakusho spielt Shinzaemon, Masachika Ichimura seinen früheren Weggefährten Hanbei. Der Film stellt ihre Fähigkeiten nebeneinander und trennt sie durch gegensätzliche Vorstellungen davon, wann Loyalität zur Herrschaft Unrecht schützt.",
-      "anchor": "Takashi Miike: Kōji Yakusho spielt Shinzaemon, Masachika Ichimura seinen früheren Weggefährten Hanbei.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Takashi Miike: Kōji Yakusho spielt Shinzaemon, Masachika Ichimura seinen früheren Weggefährten Hanbei."
     }
   ]
 }

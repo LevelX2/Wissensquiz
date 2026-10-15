@@ -34,11 +34,11 @@
       ],
       "short": "Bourne und Marie leben zurückgezogen in Goa.",
       "context": "Jason Bourne (Matt Damon) und Marie Kreutz (Franka Potente) haben sich nach Goa zurückgezogen, um dem früheren Agentenleben zu entkommen. Bourne leidet weiterhin unter Erinnerungsfragmenten und hält sie schriftlich fest. Der warme, alltägliche Rückzugsort wirkt damit nur äußerlich wie ein Neubeginn. Als ein Verfolger auftaucht, kann die räumliche Entfernung zu Europa die Verbindung mit seiner Vergangenheit nicht mehr abschirmen.",
-      "anchor": "Goa ist ein Rückzug, aber kein endgültiger Ausweg aus der Vergangenheit.",
       "interest": "Ein gut erkennbarer Ausgangsort wird mit der Situation des Paars verbunden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Goa ist ein Rückzug, aber kein endgültiger Ausweg aus der Vergangenheit."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Marie wird durch den auf Bourne zielenden Verfolger getötet.",
       "context": "Jason Bourne (Matt Damon) und Marie Kreutz (Franka Potente) wechseln während der Flucht die Plätze im Wagen. Kirill (Karl Urban) bemerkt den Wechsel nicht und trifft Marie, die nun am Steuer sitzt. Ihr Tod macht den Versuch eines gemeinsamen Rückzugs endgültig zunichte. Bournes weitere Reise entsteht damit nicht aus einer freiwilligen Rückkehr zum Agentenberuf, sondern aus einem erneuten Angriff auf sein Leben.",
-      "anchor": "Der unbemerkte Platzwechsel macht Marie zum Opfer des Angriffs.",
       "interest": "Der Verlust wird über den konkreten Ablauf verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der unbemerkte Platzwechsel macht Marie zum Opfer des Angriffs."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Gezielt platzierte Fingerabdrücke lenken den Verdacht auf Bourne.",
       "context": "Kirill (Karl Urban) unterbricht in Berlin eine Übergabe, tötet die Beteiligten und hinterlässt eine Spur zu Jason Bourne (Matt Damon). Pamela Landy (Joan Allen) behandelt den Fund zunächst als belastbaren Hinweis. Der frühere Attentäter wird dadurch zugleich gejagt und als Täter eines neuen Verbrechens gesucht. Die Manipulation verbindet seinen realen gewaltsamen Hintergrund mit einer Tat, die er diesmal nicht begangen hat.",
-      "anchor": "Echte Identitätsdaten werden zum Werkzeug einer falschen Beschuldigung.",
       "interest": "Die Frage trennt den neuen Tatverdacht von Bournes tatsächlicher früherer Schuld.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Echte Identitätsdaten werden zum Werkzeug einer falschen Beschuldigung."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Bourne übergibt belastende Gesprächsaufnahmen.",
       "context": "Jason Bourne (Matt Damon) belauscht und konfrontiert Ward Abbott (Brian Cox), statt ihn einfach zu töten. Er zeichnet die Gespräche auf und macht sie Pamela Landy (Joan Allen) zugänglich. Seine Erkenntnis kann damit von einer anderen Person überprüft werden. Das unterscheidet die Szene von einer privaten Vergeltung: Bourne bringt die Wahrheit in den Dienst zurück, dessen verdächtige Leitung sie zuvor verborgen hatte.",
-      "anchor": "Die Aufnahme verwandelt private Erkenntnis in überprüfbaren Beweis.",
       "interest": "Das Beweismittel und seine Übergabe bilden ein eigenes Ziel neben der falschen Spur.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Aufnahme verwandelt private Erkenntnis in überprüfbaren Beweis."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Bourne gesteht Irena die Ermordung ihrer Eltern.",
       "context": "Irena Neski (Oksana Akinshina) lebt mit einer falschen Erklärung für den Tod ihrer Eltern. Jason Bourne (Matt Damon) erkennt in seinen Erinnerungen, dass er beide getötet und den Tatort als familiären Mord mit anschließendem Suizid inszeniert hatte. Er sucht die Tochter auf und sagt ihr die Wahrheit. Die Vergangenheit ist damit nicht nur ein Rätsel seiner Identität, sondern eine Schuld gegenüber anderen Menschen.",
-      "anchor": "Die wiedergewonnene Erinnerung verlangt Verantwortung gegenüber Irena.",
       "interest": "Der Schluss erschließt moralische Konsequenzen der Erinnerung statt eine weitere Jagdstation.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die wiedergewonnene Erinnerung verlangt Verantwortung gegenüber Irena."
     },
     {
       "code": "S2",
@@ -149,12 +149,12 @@
       ],
       "short": "Handkamera und belebte reale Schauplätze erzeugen die unmittelbare Unruhe.",
       "context": "Paul Greengrass gestaltet die Action so, dass die Kamera wie ein Beteiligter im unübersichtlichen Geschehen wirkt. Das BFI beschreibt handgeführte Aufnahmen und belebte reale Schauplätze als wesentliche Grundlage dieser Wirkung. Jason Bourne (Matt Damon) erscheint dadurch innerhalb einer bedrängenden Umgebung, die nie völlig geordnet wirkt. Die Gestaltung gibt seinem Erleben von Verfolgung und Unsicherheit eine sichtbare, körperlich spürbare Form.",
-      "anchor": "Die bewegte Kamera im belebten Schauplatz macht die Verfolgung als Unruhe erfahrbar.",
       "interest": "Die Gestaltung wird als Wirkung erklärt, nicht nur mit einem Regienamen bezeichnet.",
       "sources": [
         "stil",
         "handlung"
-      ]
+      ],
+      "objective": "Die bewegte Kamera im belebten Schauplatz macht die Verfolgung als Unruhe erfahrbar."
     },
     {
       "code": "Y",
@@ -173,13 +173,13 @@
       ],
       "short": "2002 Die Bourne Identität, 2004 die Fortsetzung: zwei Jahre Abstand.",
       "context": "Die Bourne Identität erschien 2002 und führte Matt Damon als den erinnerungslosen früheren CIA-Attentäter ins Kino ein. Zwei Jahre später folgte 2004 Die Bourne Verschwörung. Die gemeinsame Reise mit Marie Kreutz (Franka Potente) bildet eine direkte Verbindung, bevor der neue Angriff ihr Ende herbeiführt. Der Vergleich verankert das Erstjahr über den konkreten Vorgänger und den fortgeführten persönlichen Konflikt.",
-      "anchor": "2002 Die Bourne Identität, 2004 Die Bourne Verschwörung: zwei Jahre Abstand.",
       "interest": "Der vorherige Kinofilm liefert einen konkreten zweiten Zeitanker.",
       "sources": [
         "archiv",
         "handlung",
         "reihenstart"
-      ]
+      ],
+      "objective": "2002 Die Bourne Identität, 2004 Die Bourne Verschwörung: zwei Jahre Abstand."
     },
     {
       "code": "D",
@@ -198,12 +198,12 @@
       ],
       "short": "Paul Greengrass übernahm die Regie des zweiten Bourne-Films.",
       "context": "Paul Greengrass folgt bei der Kinoreihe auf Doug Liman. Der Regiewechsel betrifft die Inszenierung, während Jason Bourne (Matt Damon) und Marie Kreutz (Franka Potente) ihre gemeinsame Geschichte fortsetzen. Das BFI bestätigt Greengrass als Regisseur und nennt Tony Gilroy unter den Drehbuchautoren. Ein Autor der Vorlage oder des Drehbuchs ist deshalb von demjenigen zu unterscheiden, der die konkrete Filmfassung inszeniert hat.",
-      "anchor": "Greengrass übernimmt die Regie, die Figuren setzen ihre Geschichte fort.",
       "interest": "Der konkrete Credit wird von Vorgängerregie und Drehbucharbeit getrennt.",
       "sources": [
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "Greengrass übernimmt die Regie, die Figuren setzen ihre Geschichte fort."
     }
   ]
 }

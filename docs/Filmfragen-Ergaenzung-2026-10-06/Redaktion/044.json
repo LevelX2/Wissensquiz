@@ -36,12 +36,12 @@
       ],
       "short": "Jacob baut eine Gemüsefarm auf.",
       "context": "Jacob (Steven Yeun) baut eine Gemüsefarm auf. Er möchte koreanische Erzeugnisse verkaufen; die eigenständige Landwirtschaft belastet jedoch die knappen Mittel und die Beziehung zu Monica (Han Ye-ri).",
-      "anchor": "Jacobs Selbstständigkeit soll auf dem Feld wachsen.",
       "interest": "Jacobs Selbstständigkeit soll auf dem Feld wachsen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jacobs Selbstständigkeit soll auf dem Feld wachsen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Die Familie zieht nach Arkansas.",
       "context": "Die Familie zieht nach Arkansas. Der Umzug aus Kalifornien führt sie in ein ländliches Umfeld; die Entfernung zu gewohnten Einrichtungen verunsichert Monica (Han Ye-ri).",
-      "anchor": "Der Neuanfang liegt im ländlichen Arkansas.",
       "interest": "Der Neuanfang liegt im ländlichen Arkansas.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Neuanfang liegt im ländlichen Arkansas."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Soon-ja entspricht nicht Davids Großmutterbild.",
       "context": "Soon-ja (Youn Yuh-jung) entspricht nicht Davids Großmutterbild. Ihr Verhalten irritiert ihn zunächst; Spiel, Pflege und gemeinsame Zeit am Bach schaffen später eine eigene Beziehung zwischen ihnen.",
-      "anchor": "David lernt eine Großmutter jenseits seiner Erwartungen kennen.",
       "interest": "David lernt eine Großmutter jenseits seiner Erwartungen kennen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "David lernt eine Großmutter jenseits seiner Erwartungen kennen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Soon-ja ermutigt David, sich mehr zuzutrauen.",
       "context": "Soon-ja (Youn Yuh-jung) ermutigt David (Alan Kim), sich mehr zuzutrauen. Während die Eltern häufig vor dem Laufen warnen, vermittelt sie ihm Zuversicht; ihre Nähe verändert seine Angst vor dem eigenen Körper.",
-      "anchor": "Soon-ja stärkt Davids Vertrauen in sich selbst.",
       "interest": "Soon-ja stärkt Davids Vertrauen in sich selbst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Soon-ja stärkt Davids Vertrauen in sich selbst."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Jacob (Steven Yeun) und Monica (Han Ye-ri) retten schließlich einander.",
       "context": "Jacob (Steven Yeun) und Monica (Han Ye-ri) retten schließlich einander. Der Versuch, die Ernte zu bewahren, scheitert; die unmittelbare Lebensgefahr stellt ihre Bindung vor den wirtschaftlichen Traum.",
-      "anchor": "Beim Brand zählt das Gegenüber mehr als die Ernte.",
       "interest": "Beim Brand zählt das Gegenüber mehr als die Ernte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Beim Brand zählt das Gegenüber mehr als die Ernte."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Jacob nimmt die zuvor abgelehnte Hilfe bei der Wassersuche an.",
       "context": "Jacob (Steven Yeun) nimmt die zuvor abgelehnte Hilfe bei der Wassersuche an. Damit ändert sich sein Anspruch, alles allein zu bestimmen; der Schluss zeigt einen weiteren Versuch, auf dem Land zu bleiben.",
-      "anchor": "Der neue Brunnen beginnt mit angenommener Hilfe.",
       "interest": "Der neue Brunnen beginnt mit angenommener Hilfe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der neue Brunnen beginnt mit angenommener Hilfe."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "Der Film wurde 2020 erstmals veröffentlicht.",
       "context": "2020 feierte der Film in Sundance Premiere. Die Geschichte spielt 1983 und beruht auf Erinnerungen des Regisseurs an seine Kindheit. Zwischen dargestelltem Neuanfang und Festivalfilm liegen somit 37 Jahre.",
-      "anchor": "Die 1983 angesiedelte Kindheit wurde 37 Jahre später, 2020, zum Film.",
       "interest": "Die 1983 angesiedelte Kindheit wurde 37 Jahre später, 2020, zum Film.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die 1983 angesiedelte Kindheit wurde 37 Jahre später, 2020, zum Film."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Regie: Lee Isaac Chung.",
       "context": "Chung schrieb aus Erinnerungen an seine Kindheit in Arkansas. Obwohl viel Koreanisch gesprochen wird, ist der Film eine US-Produktion; Sprache, Herkunft der Familie und Produktionsland beschreiben unterschiedliche Ebenen.",
-      "anchor": "Chung schrieb aus Erinnerungen an seine Kindheit in Arkansas.",
       "interest": "Chung schrieb aus Erinnerungen an seine Kindheit in Arkansas.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Chung schrieb aus Erinnerungen an seine Kindheit in Arkansas."
     }
   ]
 }

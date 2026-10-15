@@ -39,12 +39,12 @@
       ],
       "short": "Der Film verbindet die große Konzertproduktion mit einer persönlichen Reise Waters’.",
       "context": "Der Film verbindet die große Konzertproduktion mit einer persönlichen Reise Waters’. Die Reiseszenen unterbrechen den Bühnenablauf und führen die dort behandelten Themen in Lebens- und Erinnerungsräume. Die Musik bleibt erhalten, wird aber durch einen anderen zeitlichen Rhythmus ergänzt. Dadurch entsteht ein Film, dessen Bedeutung nicht allein aus dem dokumentierten Auftritt hervorgeht.",
-      "anchor": "Konzert und Erinnerungsreise tragen gemeinsam den Film.",
       "interest": "Die dokumentarische Grundform erkennen.",
       "sources": [
         "universal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Konzert und Erinnerungsreise tragen gemeinsam den Film."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Waters fährt einen alten Bentley.",
       "context": "Waters fährt einen alten Bentley. Die Fahrt verbindet verschiedene Stationen der persönlichen Recherche und schafft einen ruhigen Gegenrhythmus zu den großen Konzertbildern. Das Fahrzeug gehört zur tatsächlichen Reiseebene des Films. Seine Bewegung führt nicht einfach von einem Auftritt zum nächsten, sondern durch Orte, an denen Erinnerungen und Gespräche Platz erhalten.",
-      "anchor": "Der alte Bentley trägt Waters’ europäische Erinnerungsfahrt.",
       "interest": "Ein wiederkehrendes Bild der Reise erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der alte Bentley trägt Waters’ europäische Erinnerungsfahrt."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Die Mauer wächst während des ersten Konzertteils vor den Musikern.",
       "context": "Die Mauer wächst während des ersten Konzertteils vor den Musikern. Schließlich trennt sie die Band vollständig vom Blick des Publikums. Das sichtbare Bauwerk macht Abgrenzung und Isolation zu einem räumlichen Erlebnis. Zugleich wird seine Fläche für Bilder genutzt; die Zuschauer erleben eine Grenze, auf der weitere Botschaften und Erinnerungen erscheinen.",
-      "anchor": "Die wachsende Mauer macht Isolation vor den Musikern sichtbar.",
       "interest": "Bühnengestaltung und Bedeutung verbinden.",
       "sources": [
         "interview"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die wachsende Mauer macht Isolation vor den Musikern sichtbar."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Die Reise führt zu Erinnerungen an Verluste, die Krieg in Waters’ Familie hinterlassen hat.",
       "context": "Die Reise führt zu Erinnerungen an Verluste, die Krieg in Waters’ Familie hinterlassen hat. Sie ergänzt die großen öffentlichen Aussagen der Show durch einen persönlichen Zusammenhang. Der Film trennt deshalb die politischen Bilder nicht vollständig vom privaten Leben des Musikers. Die Stationen zeigen, wie ein musikalisches Thema aus biografischer Erfahrung hervorgeht und später weitere Zuschauer erreicht.",
-      "anchor": "Die Reise führt vom Bühnenmotiv zu familiären Kriegsverlusten.",
       "interest": "Persönlichen Hintergrund und öffentlichen Auftritt verbinden.",
       "sources": [
         "universal"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Reise führt vom Bühnenmotiv zu familiären Kriegsverlusten."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Die Bombenbilder werden durch Zeichen von Religion, Unternehmen und Geld gestaltet.",
       "context": "Die Bombenbilder werden durch Zeichen von Religion, Unternehmen und Geld gestaltet. Waters und Evans aktualisieren damit ältere Bildmotive des Werks. Die Montage verbindet Krieg mit Macht- und Wirtschaftszeichen, ohne den Song in eine gewöhnliche Konzertansicht aufzulösen. Diese Deutung ist die Perspektive der Show; sie macht aus der Projektionsfläche einen Teil der politischen Aussage.",
-      "anchor": "Die Bomber lassen Zeichen von Religion, Wirtschaft und Geld fallen.",
       "interest": "Ein konkretes Projektionsmotiv einordnen.",
       "sources": [
         "interview"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Bomber lassen Zeichen von Religion, Wirtschaft und Geld fallen."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Waters liest aus John Bergers Einleitung zu „Fear“, der englischen Ausgabe von Gabriel Chevalliers „La Peur“.",
       "context": "Waters liest aus John Bergers Einleitung zu „Fear“, der englischen Ausgabe von Gabriel Chevalliers „La Peur“. Die literarische Passage erweitert den musikalischen Film um eine weitere Stimme über Krieg und menschliche Erfahrung. Das Lesen gehört zu den ruhigeren Momenten der Reise. Es setzt Gedanken neben die spektakulären Konzertbilder, statt deren Wirkung lediglich durch weitere Musik zu verstärken.",
-      "anchor": "Berger führt zu Chevalliers „Fear“ als literarischer Reisebegleiter.",
       "interest": "Den konkreten Textbezug des Films erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Berger führt zu Chevalliers „Fear“ als literarischer Reisebegleiter."
     },
     {
       "code": "Y",
@@ -183,14 +183,14 @@
       ],
       "short": "Weltpremiere am 6. September 2014 in Toronto; reguläre Kino-/Homevideo-Veröffentlichung 2015. Konzert- und Reise-Dokumentation, nicht Alan Parkers Spielfilm von 1982.",
       "context": "Pink Floyd veröffentlichten das Album „The Wall“ 1979. Diese Konzert- und Reisedokumentation wurde 2014 erstmals gezeigt, fünfunddreißig Jahre später. Sie greift das ältere Werk in Waters’ neuer Livegestaltung auf und ergänzt eine persönliche Reise. Das häufig genannte Jahr 2015 beschreibt die spätere reguläre Veröffentlichung; für die Erstveröffentlichung zählt die Toronto-Premiere.",
-      "anchor": "1979 das Album, 2014 die Film-Premiere: fünfunddreißig Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "festival"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1979 das Album, 2014 die Film-Premiere: fünfunddreißig Jahre später."
     },
     {
       "code": "D",
@@ -209,7 +209,6 @@
       ],
       "short": "Roger Waters und Sean Evans führten gemeinsam Regie.",
       "context": "Roger Waters und Sean Evans führten gemeinsam Regie. Waters bringt die Musik und die persönliche Erinnerungsreise ein; Evans war bereits an der visuellen Konzeption der Tournee beteiligt. Der Film verbindet daher Bühnengestaltung und dokumentarische Begegnung. Die Doppelarbeit erklärt, warum eine große Konzertproduktion und ruhige Reisemomente denselben Blick auf Verlust, Abgrenzung und Krieg tragen können.",
-      "anchor": "Waters und Evans verbinden gemeinsame Regie mit Musik und Tournee-Bildern.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "festival",
@@ -217,7 +216,8 @@
       ],
       "spoiler": "gering",
       "difficulty": "mittel",
-      "title_in_question": false
+      "title_in_question": false,
+      "objective": "Waters und Evans verbinden gemeinsame Regie mit Musik und Tournee-Bildern."
     }
   ]
 }

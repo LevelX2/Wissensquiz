@@ -40,12 +40,12 @@
       ],
       "short": "Der Haushalt lebt in Tokio.",
       "context": "Der Haushalt lebt in Tokio. Die enge Wohnung verbindet Menschen in Armut; die Großstadtgeschichte stellt alltägliche Nähe neben die Unsicherheit ihrer Lebensgrundlagen. Osamu (Lily Franky) und Nobuyo (Sakura Ando) halten die Gemeinschaft trotz unsicherer Einnahmen zusammen.",
-      "anchor": "Die Familiengemeinschaft lebt im engen Tokioer Haus.",
       "interest": "Die Familiengemeinschaft lebt im engen Tokioer Haus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Familiengemeinschaft lebt im engen Tokioer Haus."
     },
     {
       "code": "L2",
@@ -64,13 +64,13 @@
       ],
       "short": "Das ausgesperrte Kind zeigt Spuren von Misshandlung.",
       "context": "Das ausgesperrte Kind zeigt Spuren von Misshandlung. Yuri (Miyu Sasaki) bleibt daher im Haushalt; aus einer kurzfristigen Hilfe wird eine nicht offiziell geregelte Familienbindung.",
-      "anchor": "Ein ausgesperrtes Kind erhält einen Platz im Haushalt.",
       "interest": "Ein ausgesperrtes Kind erhält einen Platz im Haushalt.",
       "sources": [
         "familie",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein ausgesperrtes Kind erhält einen Platz im Haushalt."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Hatsues Rente unterstützt den Haushalt.",
       "context": "Hatsues (Kirin Kiki) Rente unterstützt den Haushalt. Damit verbindet sich ihre alltägliche Fürsorge mit einem konkreten wirtschaftlichen Fundament, auf das die übrigen Bewohner angewiesen sind.",
-      "anchor": "Die Rente trägt zum gemeinsamen Überleben bei.",
       "interest": "Die Rente trägt zum gemeinsamen Überleben bei.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Rente trägt zum gemeinsamen Überleben bei."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Shota wird absichtlich auffällig, um Yuris Diebstahl zu unterbrechen.",
       "context": "Shota (Kairi Jō) wird absichtlich auffällig, um Yuris (Miyu Sasaki) Diebstahl zu unterbrechen. Seine wachsenden Skrupel führen damit zu einer Handlung, die schließlich die gesamte verborgene Haushaltsordnung gefährdet.",
-      "anchor": "Shotas Gewissen bringt den Haushalt ans Licht.",
       "interest": "Shotas Gewissen bringt den Haushalt ans Licht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Shotas Gewissen bringt den Haushalt ans Licht."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Osamu (Lily Franky) und Nobuyo (Sakura Ando) verbergen Hatsues Tod.",
       "context": "Osamu (Lily Franky) und Nobuyo (Sakura Ando) verbergen Hatsues Tod. Die fortgesetzte Rentenzahlung zeigt, wie Fürsorge und finanzielle Abhängigkeit miteinander verknüpft sind.",
-      "anchor": "Hatsues Tod bleibt für die Rentenzahlung verborgen.",
       "interest": "Hatsues Tod bleibt für die Rentenzahlung verborgen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Hatsues Tod bleibt für die Rentenzahlung verborgen."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Osamu bestätigt die geplante Flucht ohne Shota (Kairi Jō).",
       "context": "Osamu (Lily Franky) bestätigt die geplante Flucht ohne Shota (Kairi Jō). Der schmerzliche Bruch lässt ihre gelebte Nähe nicht verschwinden, zerstört aber den einfachen Anspruch, ihm ein verlässlicher Vater zu sein.",
-      "anchor": "Nähe schützt Shota nicht vor dem geplanten Verlassenwerden.",
       "interest": "Nähe schützt Shota nicht vor dem geplanten Verlassenwerden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Nähe schützt Shota nicht vor dem geplanten Verlassenwerden."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "Der Film wurde 2018 erstmals veröffentlicht.",
       "context": "2018 wurde der Film in Cannes vorgestellt. Kore-eda hatte Familienbindungen bereits in Like Father, Like Son untersucht, der 2013 in Cannes ausgezeichnet wurde. Fünf Jahre später verschiebt sich sein Blick auf einen Haushalt, dessen Zugehörigkeit nicht durch Abstammung gesichert ist.",
-      "anchor": "Nach Like Father, Like Son von 2013 folgte fünf Jahre später, 2018, eine andere Familiengeschichte.",
       "interest": "Nach Like Father, Like Son von 2013 folgte fünf Jahre später, 2018, eine andere Familiengeschichte.",
       "sources": [
         "festival",
         "familie"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Nach Like Father, Like Son von 2013 folgte fünf Jahre später, 2018, eine andere Familiengeschichte."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Regie: Hirokazu Kore-eda.",
       "context": "Kore-eda schrieb, inszenierte und montierte den Film. Die Aufnahme eines misshandelten Kindes erweitert seine wiederkehrende Frage nach Familie; die Gesellschaft und die prekäre Lebenslage bleiben dabei Teil des Haushaltsbildes.",
-      "anchor": "Kore-eda schrieb, inszenierte und montierte den Film.",
       "interest": "Kore-eda schrieb, inszenierte und montierte den Film.",
       "sources": [
         "familie",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kore-eda schrieb, inszenierte und montierte den Film."
     }
   ]
 }

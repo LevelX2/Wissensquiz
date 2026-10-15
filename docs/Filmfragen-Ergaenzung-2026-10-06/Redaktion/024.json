@@ -30,13 +30,13 @@
       ],
       "short": "Maverick trainiert ausgewählte Absolventen für einen schwierigen Einsatz.",
       "context": "Maverick ist inzwischen ein erfahrener Testpilot. Seine neue Aufgabe verlangt, andere Piloten auf eine enge und gefährliche Angriffsroute vorzubereiten. Der Konflikt entsteht auch daraus, dass er zunächst unterrichten soll, statt den Einsatz nach seinen eigenen Vorstellungen selbst anzuführen.",
-      "anchor": "Der erfahrene Testpilot muss andere auf die Spezialmission vorbereiten.",
       "interest": "Die Ausgangsaufgabe lässt sich von der späteren Missionsführung unterscheiden.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der erfahrene Testpilot muss andere auf die Spezialmission vorbereiten."
     },
     {
       "code": "L2",
@@ -55,13 +55,13 @@
       ],
       "short": "Rooster ist der Sohn von Goose.",
       "context": "Goose (Anthony Edwards) starb im ersten Top Gun als Mavericks Flugpartner. Sein Sohn kehrt nun als erwachsener Pilot zurück. Damit ist Rooster für Maverick (Tom Cruise) nicht nur ein Kandidat der Mission, sondern verbindet die neue Verantwortung mit einem persönlichen Verlust aus der Vergangenheit.",
-      "anchor": "Gooses Sohn Rooster bringt Mavericks Vergangenheit in die neue Ausbildung.",
       "interest": "Das Verhältnis erklärt den emotionalen Kern der Fortsetzung.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gooses Sohn Rooster bringt Mavericks Vergangenheit in die neue Ausbildung."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Maverick hielt Roosters Bewerbung zurück.",
       "context": "Maverick hatte Roosters sterbender Mutter versprochen, ihren Sohn nicht zum Piloten werden zu lassen. Rooster kennt dieses Versprechen zunächst nicht und deutet den Eingriff als persönliche Blockade. Die Fürsorge aus Mavericks Sicht erscheint für den Betroffenen dadurch als ungerechtfertigte Kontrolle seiner eigenen Zukunft.",
-      "anchor": "Ein verborgenes Versprechen macht Mavericks Schutzversuch zu Roosters Kränkung.",
       "interest": "Die Motivation zeigt, warum beide dieselbe Handlung unterschiedlich beurteilen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein verborgenes Versprechen macht Mavericks Schutzversuch zu Roosters Kränkung."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Maverick demonstriert den schwierigen Flug selbst.",
       "context": "Cyclone (Jon Hamm) hat ihn zuvor als Ausbilder abgelöst und will die Parameter ändern. Maverick zeigt mit einem nicht genehmigten Flug, dass sein anspruchsvollerer Plan gelingt. Das praktische Ergebnis verschiebt die Entscheidung: Er wird schließlich zum Anführer der Mission gemacht.",
-      "anchor": "Der unerlaubte Demonstrationsflug macht Mavericks Plan glaubwürdig.",
       "interest": "Die Szene verbindet Regelbruch mit dem konkreten Nachweis der Machbarkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der unerlaubte Demonstrationsflug macht Mavericks Plan glaubwürdig."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Die beiden starten mit einer F-14 Tomcat.",
       "context": "Nach dem Verlust ihrer eigenen Flugzeuge treffen Maverick (Tom Cruise) und Rooster (Miles Teller) am Boden wieder zusammen. Auf dem angegriffenen Stützpunkt finden sie eine F-14. Der ältere Flugzeugtyp verbindet die improvisierte Flucht mit Mavericks Erfahrung aus der Zeit des ersten Films.",
-      "anchor": "Die Flucht gelingt zunächst in Mavericks altem Flugzeugtyp, der F-14.",
       "interest": "Die Technik schafft eine konkrete Verbindung zwischen beiden Filmen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Flucht gelingt zunächst in Mavericks altem Flugzeugtyp, der F-14."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Hangman schießt den letzten Verfolger ab.",
       "context": "Hangman (Glen Powell) wartet zunächst als Reserve für einen Notfalleinsatz. Als Maverick (Tom Cruise) und Rooster (Miles Teller) keine Munition und Gegenmaßnahmen mehr haben, erreicht er sie rechtzeitig. Der anfangs provozierende Konkurrent trägt damit entscheidend zur Rückkehr seiner Kameraden bei.",
-      "anchor": "Der zurückgehaltene Hangman wird zum rettenden Reservepiloten.",
       "interest": "Die Rettung löst die Rivalität in tatsächliche Zusammenarbeit auf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der zurückgehaltene Hangman wird zum rettenden Reservepiloten."
     },
     {
       "code": "Y",
@@ -176,13 +176,13 @@
       ],
       "short": "Das erste Veröffentlichungsjahr ist 2022.",
       "context": "Die erste Vorführung der Fortsetzung fand 2022 statt. Zwischen dem ersten Top Gun von 1986 und diesem Film liegen sechsunddreißig Jahre. Tom Cruise kehrt in derselben Rolle zurück, während mit Rooster auch die nächste Generation der Bradshaw-Familie in das Pilotenmilieu eintritt.",
-      "anchor": "Von Top Gun 1986 bis Maverick 2022 vergehen 36 Jahre.",
       "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Von Top Gun 1986 bis Maverick 2022 vergehen 36 Jahre."
     },
     {
       "code": "D",
@@ -201,13 +201,13 @@
       ],
       "short": "Die gesuchte Regie stammt von Joseph Kosinski.",
       "context": "Joseph Kosinski inszenierte die Fortsetzung. Die Handlung verbindet Mavericks Testpilotenrolle mit der Verantwortung als Lehrer und dem späteren gemeinsamen Einsatz. Tony Scott führte beim ersten Top Gun Regie; die beiden Filme teilen Hauptfigur und Darsteller, aber nicht denselben Regisseur.",
-      "anchor": "Joseph Kosinski inszenierte diese Filmfassung.",
       "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Joseph Kosinski inszenierte diese Filmfassung."
     }
   ]
 }

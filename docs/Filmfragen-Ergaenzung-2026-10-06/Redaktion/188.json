@@ -36,12 +36,12 @@
       ],
       "short": "Die Ingenieure experimentieren in Aarons Garage.",
       "context": "Die Ingenieure experimentieren in Aarons Garage. Ihr technisches Nebenprojekt führt zufällig zur Zeitreise; der gewöhnliche Arbeitsraum bildet den bewussten Gegenpol zur außerordentlichen Wirkung des Geräts.",
-      "anchor": "Das Zeitreiseproblem beginnt in einer alltäglichen Garage.",
       "interest": "Das Zeitreiseproblem beginnt in einer alltäglichen Garage.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Zeitreiseproblem beginnt in einer alltäglichen Garage."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Abe und Aaron nutzen Wissen über Kursbewegungen für Börsengeschäfte.",
       "context": "Abe und Aaron nutzen Wissen über Kursbewegungen für Börsengeschäfte. Die erste Anwendung ist persönlicher Gewinn; bald geht der Versuch, Ereignisse zu kontrollieren, weit über diesen überschaubaren Nutzen hinaus.",
-      "anchor": "Zunächst soll die Zeitmaschine Börsengewinn ermöglichen.",
       "interest": "Zunächst soll die Zeitmaschine Börsengewinn ermöglichen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zunächst soll die Zeitmaschine Börsengewinn ermöglichen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Abe hält sich von Kontakten fern, um Eingriffe während der zeitlichen Überlappung zu vermeiden.",
       "context": "Abe hält sich von Kontakten fern, um Eingriffe während der zeitlichen Überlappung zu vermeiden. Seine Vorsicht soll die Reise kontrollierbar machen; Aarons (Shane Carruth) späteres Handeln untergräbt gerade diese selbstgesetzten Grenzen.",
-      "anchor": "Isolation soll unbeabsichtigte Veränderungen verhindern.",
       "interest": "Isolation soll unbeabsichtigte Veränderungen verhindern.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Isolation soll unbeabsichtigte Veränderungen verhindern."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Abe und Aaron bemerken Ohrbluten und eine sich verschlechternde Handschrift.",
       "context": "Abe und Aaron bemerken Ohrbluten und eine sich verschlechternde Handschrift. Die zusätzlichen Zeiträume sind nicht folgenlos; die Körper zeigen ein Problem, während beide weiterhin glauben, den Ablauf kontrollieren zu können.",
-      "anchor": "Der Körper widerspricht dem vermeintlich kontrollierten Verfahren.",
       "interest": "Der Körper widerspricht dem vermeintlich kontrollierten Verfahren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Körper widerspricht dem vermeintlich kontrollierten Verfahren."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Abe (David Sullivan) hält eine früh gestartete Box bereit, um die Experimente rückgängig machen zu können.",
       "context": "Abe (David Sullivan) hält eine früh gestartete Box bereit, um die Experimente rückgängig machen zu können. Aaron (Shane Carruth) entdeckt sie jedoch ebenfalls; der vermeintliche Sicherheitsplan schafft damit eine weitere Ebene konkurrierender Eingriffe.",
-      "anchor": "Die Rückfallmöglichkeit erzeugt selbst neue Konflikte.",
       "interest": "Die Rückfallmöglichkeit erzeugt selbst neue Konflikte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rückfallmöglichkeit erzeugt selbst neue Konflikte."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Aaron spielt Gesprächsaufzeichnungen über einen unauffälligen Ohrhörer ab.",
       "context": "Aaron spielt Gesprächsaufzeichnungen über einen unauffälligen Ohrhörer ab. Er kann so bereits bekannte Begegnungen erneut scheinbar natürlich durchlaufen; das Wissen seiner anderen Versionen wird zum Werkzeug der verdeckten Kontrolle.",
-      "anchor": "Das Tonband liefert den Ablauf für wiederholte Begegnungen.",
       "interest": "Das Tonband liefert den Ablauf für wiederholte Begegnungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Tonband liefert den Ablauf für wiederholte Begegnungen."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2004 wurde der Film erstmals gezeigt.",
       "context": "2004 wurde der Film erstmals gezeigt. Shane Carruth entwickelte ihn nach seinem vorherigen Ingenieurberuf und gewann in Sundance den großen Jurypreis. Das Jahr verbindet eine technisch alltägliche Garage mit der Anerkennung einer ungewöhnlichen unabhängigen Filmkonstruktion.",
-      "anchor": "2004 verbindet Carruths Garagenexperiment mit dem großen Sundance-Jurypreis für einen unabhängigen Film.",
       "interest": "Die Folge trennt den Film von seiner späteren Anerkennung.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2004 verbindet Carruths Garagenexperiment mit dem großen Sundance-Jurypreis für einen unabhängigen Film."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron.",
       "context": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron. David Sullivan spielt Abe. Die Technik bleibt äußerlich unspektakulär; die eigentliche Komplexität entsteht aus den Entscheidungen und überlappenden Versionen der beiden Partner.",
-      "anchor": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron.",
       "interest": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Shane Carruth übernahm Regie, Drehbuch, Produktion, Schnitt und Musik und spielte Aaron."
     }
   ]
 }

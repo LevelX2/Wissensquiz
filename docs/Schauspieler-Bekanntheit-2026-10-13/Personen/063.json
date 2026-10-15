@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Im Mittelpunkt steht die Entstehung von „Kaltblütig“.",
       "context": "Truman Capote recherchiert den Mord an einer Familie in Kansas und sucht Zugang zu den Tätern. Besonders die Beziehung zu Perry Smith bringt literarischen Ehrgeiz und persönliche Anteilnahme in einen Konflikt. Hoffman spielt einen Autor, der Nähe herstellen kann und sie zugleich für sein Werk benötigt. Der Film untersucht dadurch auch, was ein erfolgreicher Erzähler anderen Menschen und sich selbst abverlangt.",
-      "anchor": "Der Autor braucht die Geschichte eines Verbrechens und die Nähe zu einem Täter.",
       "interest": "Die Frage ordnet die Biografie ihrem konkreten literarischen Projekt zu.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.sonyclassics.com/capote/presskit.pdf"
-      ]
+      ],
+      "objective": "Der Autor braucht die Geschichte eines Verbrechens und die Nähe zu einem Täter."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Plutarch wird oberster Spielemacher.",
       "context": "Nach außen arbeitet Plutarch für die Inszenierung der Macht des Kapitols. Hinter dieser Funktion steht jedoch seine Beteiligung an einem Plan der Rebellen, Katniss zu retten. Die Figur muss daher zwei Ebenen gleichzeitig bedienen: ihre glaubwürdige Stellung im System und ein verborgenes Ziel gegen dessen Führung. Hoffman stellt diese Doppelrolle zunächst vor allem durch kontrollierte Gespräche dar.",
-      "anchor": "Der offizielle Spielemacher arbeitet im Verborgenen gegen das Kapitol.",
       "interest": "Die Stellung erklärt die Tarnung und den Handlungsspielraum der Figur.",
       "feedback": [
         "Plutarch wird oberster Spielemacher.",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Hunger_Games:_Catching_Fire"
-      ]
+      ],
+      "objective": "Der offizielle Spielemacher arbeitet im Verborgenen gegen das Kapitol."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Dodd benutzt intensive Befragungen und Übungen, die er als „Processing“ bezeichnet.",
       "context": "Der heimgekehrte Kriegsveteran Freddie Quell (Joaquin Phoenix) sucht Halt, bleibt aber unberechenbar. Dodd bietet ihm ein System, das auch Erfahrungen aus angeblich früheren Leben erklären soll. Die Sitzungen erzeugen Nähe, Abhängigkeit und Widerstand. Hoffmans Figur erscheint dabei als charismatischer Lehrer, dessen Anspruch auf umfassende Menschenkenntnis an seinem eigenen schwierigen Schüler geprüft wird.",
-      "anchor": "Dodd verspricht Ordnung durch Befragung und Selbstbeobachtung.",
       "interest": "Die Methode erschließt das Machtverhältnis zwischen Lehrer und Anhänger.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-master"
-      ]
+      ],
+      "objective": "Dodd verspricht Ordnung durch Befragung und Selbstbeobachtung."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Sie verdächtigt Flynn des sexuellen Missbrauchs eines Schülers.",
       "context": "Aloysius deutet mehrere Beobachtungen als Zeichen eines Übergriffs. Flynn bestreitet die Anschuldigung und erklärt sein Verhalten als Schutz für den Schüler. Der Film liefert keinen abschließenden Beweis, der alle Zweifel aufhebt. Hoffmans Darstellung muss deshalb zwischen möglicher Fürsorge, institutioneller Macht und dem Verdacht stehen bleiben, statt die Figur eindeutig als unschuldig oder schuldig festzulegen.",
-      "anchor": "Ein schwerer Verdacht trifft auf fehlende abschließende Gewissheit.",
       "interest": "Das Ziel benennt die Anklage und erhält die bewusst offene Beurteilung des Films.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Doubt_(2008_film)"
-      ]
+      ],
+      "objective": "Ein schwerer Verdacht trifft auf fehlende abschließende Gewissheit."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 0,
       "short": "Caden lässt sein Leben in einer wachsenden Theaterwelt nachbilden.",
       "context": "Die Produktion soll etwas vollkommen Wahres über menschliches Leben zeigen. Schauspieler übernehmen reale Menschen, später kommen weitere Ebenen der Darstellung hinzu. Das Projekt wächst, während Cadens eigenes Leben verstreicht. Hoffman spielt einen Künstler, dessen Wunsch nach vollständiger Erfassung immer weniger zwischen Arbeit und Existenz unterscheiden kann. Die riesige Nachbildung wird dadurch zum Bild eines grundsätzlich unerreichbaren Anspruchs.",
-      "anchor": "Der Versuch, alles darzustellen, verschlingt das Leben des Darstellenden.",
       "interest": "Die Frage erschließt das zentrale Formprinzip statt nur Cadens Berufsbezeichnung.",
       "feedback": [
         "Caden lässt sein Leben in einer wachsenden Theaterwelt nachbilden.",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Synecdoche,_New_York"
-      ]
+      ],
+      "objective": "Der Versuch, alles darzustellen, verschlingt das Leben des Darstellenden."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 2,
       "short": "Gust hilft, afghanische Kämpfer gegen die sowjetischen Truppen zu bewaffnen.",
       "context": "Charlie Wilson (Tom Hanks) beschafft politische Unterstützung und Geld; Gust organisiert die Umsetzung auf Geheimdienstseite. Ihr Bündnis verbindet parlamentarisches Taktieren mit praktischen Fragen verdeckter Hilfe. Der Film behandelt den Erfolg dabei nicht als Ende aller Verantwortung: Die spätere Zukunft Afghanistans bleibt ein Problem. Hoffmans trockene, oft scharfe Gesprächsführung macht Gust zum Gegenpol des gesellschaftlich gewandten Abgeordneten.",
-      "anchor": "Wilson organisiert Geld und Zustimmung, Gust die verdeckte Umsetzung.",
       "interest": "Das Ziel erklärt die Zusammenarbeit und ihren historischen Handlungskontext.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Charlie_Wilson%27s_War_(film)"
-      ]
+      ],
+      "objective": "Wilson organisiert Geld und Zustimmung, Gust die verdeckte Umsetzung."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 3,
       "short": "Hoffman führte Regie und war gemeinsam mit John Ortiz künstlerischer Leiter.",
       "context": "Die Theaterarbeit blieb neben dem Film ein dauerhafter Teil seiner Laufbahn. Bei LAByrinth inszenierte Hoffman unter anderem neue Stücke von Stephen Adly Guirgis. Er arbeitete dort nicht nur als prominenter Gast vor Publikum, sondern auch an der Entwicklung und Gestaltung von Produktionen. Diese kontinuierliche Ensemblearbeit ergänzt das Bild des Darstellers, der im Kino oft in markanten Einzelrollen wahrgenommen wird.",
-      "anchor": "Hoffman gestaltete Theater auch hinter und neben der Bühne.",
       "interest": "Die Frage erschließt seine dauerhafte Arbeit als Regisseur und künstlerischer Leiter.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "extraSources": [
         "https://labtheater.org/history",
         "https://en.wikipedia.org/wiki/Philip_Seymour_Hoffman"
-      ]
+      ],
+      "objective": "Hoffman gestaltete Theater auch hinter und neben der Bühne."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 1,
       "short": "Der Film wechselt die zeitliche Reihenfolge und die Blickwinkel der Figuren.",
       "context": "Titelkarten benennen, wessen Perspektive folgt und wie weit die Szene vom Überfall entfernt liegt. Dadurch wird derselbe familiäre Konflikt schrittweise anders verständlich. Andys scheinbar berechneter Plan erscheint nicht isoliert, sondern neben den Nöten seines Bruders und den Folgen für die Eltern. Die Erzählordnung verteilt das Wissen des Publikums bewusst neu, während die Katastrophe bereits eingesetzt hat.",
-      "anchor": "Zeitsprünge machen aus einem Überfall mehrere miteinander verbundene Familiengeschichten.",
       "interest": "Das Ziel verbindet eine konkrete Erzähltechnik mit der Beurteilung von Hoffmans Figur.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/55182-BEFORE-THE-DEVIL-KNOWS-YOU%27RE-DEAD"
-      ]
+      ],
+      "objective": "Zeitsprünge machen aus einem Überfall mehrere miteinander verbundene Familiengeschichten."
     }
   ]
 }

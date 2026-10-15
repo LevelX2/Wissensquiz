@@ -41,12 +41,12 @@
       ],
       "short": "Thomas Dunson (John Wayne) braucht nach dem Bürgerkrieg einen Markt für seine Rinder.",
       "context": "Thomas Dunson (John Wayne) braucht nach dem Bürgerkrieg einen Markt für seine Rinder. Der weite Treck soll seine finanziell bedrohte Ranch retten und stellt seine Führungsweise auf die Probe.",
-      "anchor": "Der Absatzmarkt macht den Treck wirtschaftlich notwendig.",
       "interest": "Der Absatzmarkt macht den Treck wirtschaftlich notwendig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Absatzmarkt macht den Treck wirtschaftlich notwendig."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Dunson (John Wayne) nimmt den jungen Matt nach dem Angriff auf einen Wagenzug auf.",
       "context": "Dunson (John Wayne) nimmt den jungen Matt nach dem Angriff auf einen Wagenzug auf. Der erwachsene Matt Garth (Montgomery Clift) steht ihm dadurch wie ein Sohn gegenüber, ohne seine Härte unbegrenzt zu akzeptieren.",
-      "anchor": "Die Ersatzvaterbeziehung verschärft den Konflikt um Führung.",
       "interest": "Die Ersatzvaterbeziehung verschärft den Konflikt um Führung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Ersatzvaterbeziehung verschärft den Konflikt um Führung."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Dunsons (John Wayne) Härte steigert sich bis zur geplanten Hinrichtung weiterer Männer.",
       "context": "Dunsons (John Wayne) Härte steigert sich bis zur geplanten Hinrichtung weiterer Männer. Matt (Montgomery Clift) widersetzt sich und übernimmt mit Unterstützung der Cowboys den Treck.",
-      "anchor": "Matt beendet die Führung, deren Härte die Mannschaft bedroht.",
       "interest": "Matt beendet die Führung, deren Härte die Mannschaft bedroht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Matt beendet die Führung, deren Härte die Mannschaft bedroht."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Matt Garth (Montgomery Clift) führt die Herde nach Abilene, wo eine Bahnverbindung den Verkauf ermöglicht.",
       "context": "Matt Garth (Montgomery Clift) führt die Herde nach Abilene, wo eine Bahnverbindung den Verkauf ermöglicht. Dunson (John Wayne) hatte trotz Warnungen an Sedalia festgehalten.",
-      "anchor": "Abilene bietet den Absatz, den Dunsons Starrsinn nicht anerkennt.",
       "interest": "Abilene bietet den Absatz, den Dunsons Starrsinn nicht anerkennt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Abilene bietet den Absatz, den Dunsons Starrsinn nicht anerkennt."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Matt (Montgomery Clift) weigert sich, auf Dunson (John Wayne) zu schießen.",
       "context": "Matt (Montgomery Clift) weigert sich, auf Dunson (John Wayne) zu schießen. Der Streit wird zum Faustkampf, den Tess (Joanne Dru) beendet; die Konfrontation lässt Versöhnung statt Vatermord zu.",
-      "anchor": "Matts Schussverzicht verschiebt den Kampf von Vernichtung zu Versöhnung.",
       "interest": "Matts Schussverzicht verschiebt den Kampf von Vernichtung zu Versöhnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Matts Schussverzicht verschiebt den Kampf von Vernichtung zu Versöhnung."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Dunson (John Wayne) erklärt, dass Matts M zum D der Ranch hinzugefügt werden soll.",
       "context": "Dunson (John Wayne) erklärt, dass Matts M zum D der Ranch hinzugefügt werden soll. Die gemeinsame Marke bestätigt die Anerkennung, die er dem aufgenommenen Jungen früher nur in Aussicht gestellt hatte.",
-      "anchor": "Das ergänzte Brandzeichen macht Matt zum anerkannten Partner.",
       "interest": "Das ergänzte Brandzeichen macht Matt zum anerkannten Partner.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das ergänzte Brandzeichen macht Matt zum anerkannten Partner."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "1948 erschien der Film, obwohl er 1946 gedreht worden war.",
       "context": "1948 erschien der Film, obwohl er 1946 gedreht worden war. Zwei Jahre zwischen Dreh und Veröffentlichung erklären, weshalb Produktionsjahr und Kinostart bei diesem Western auseinanderfallen.",
-      "anchor": "Dreh 1946, Veröffentlichung 1948: Zwei Jahre erklären die unterschiedlichen Produktions- und Filmjahre.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Dreh 1946, Veröffentlichung 1948: Zwei Jahre erklären die unterschiedlichen Produktions- und Filmjahre."
     },
     {
       "code": "D",
@@ -210,14 +210,14 @@
       ],
       "short": "Howard Hawks führte Regie; Arthur Rosson ist als Co-Regisseur im Vorspann ausgewiesen und inszenierte Treck- und Actionszenen.",
       "context": "Howard Hawks führte Regie; Arthur Rosson ist als Co-Regisseur im Vorspann ausgewiesen und inszenierte Treck- und Actionszenen. Das vollständige Regieteam verbindet Figurenkonflikt und die körperliche Dimension der riesigen Herde.",
-      "anchor": "Howard Hawks führte Regie; Arthur Rosson ist als Co-Regisseur im Vorspann ausgewiesen und inszenierte Treck- und Actionszenen.",
       "interest": "Howard Hawks führte Regie; Arthur Rosson ist als Co-Regisseur im Vorspann ausgewiesen und inszenierte Treck- und Actionszenen.",
       "sources": [
         "eckdaten",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Howard Hawks führte Regie; Arthur Rosson ist als Co-Regisseur im Vorspann ausgewiesen und inszenierte Treck- und Actionszenen."
     }
   ],
   "director_note": "Arthur Rosson wird als Co-Regisseur im Vorspann geführt; nicht auf Howard Hawks allein verkürzt."

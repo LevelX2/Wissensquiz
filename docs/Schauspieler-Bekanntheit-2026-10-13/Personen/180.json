@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Die Französin ist Schauspielerin.",
       "context": "In Hiroshima begegnet sie einem japanischen Architekten (Eiji Okada). Aus der kurzen Affäre entstehen Gespräche, in denen persönliche Liebeserfahrungen und die Folgen des Krieges einander berühren. Alain Resnais verbindet Gegenwart und Erinnerung, während Marguerite Duras den Figuren eine stark rhythmisierte Sprache gibt. Rivas Darstellung trägt die Spannung zwischen dem Bedürfnis zu erzählen und der Angst, durch das Erzählen etwas unwiederbringlich zu verlieren.",
-      "anchor": "Eine französische Schauspielerin und ein japanischer Architekt begegnen einander.",
       "interest": "Die Ausgangskonstellation verbindet die beiden Lebenswelten des Films.",
       "feedback": [
         "Die Französin ist Schauspielerin.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/217"
-      ]
+      ],
+      "objective": "Eine französische Schauspielerin und ein japanischer Architekt begegnen einander."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Anne war Musiklehrerin.",
       "context": "Anne und Georges (Jean-Louis Trintignant) sind ein kultiviertes Paar in ihren Achtzigern. Auch ihre Tochter Eva (Isabelle Huppert) ist Musikerin, lebt aber mit ihrer Familie im Ausland. Als Anne einen Anfall erleidet, wird die lange gewachsene Bindung des Paares auf eine schwere Probe gestellt. Der gemeinsame musikalische Hintergrund gehört zu jener vertrauten Lebenswelt, deren Selbstverständlichkeit nun verloren geht.",
-      "anchor": "Die ehemalige Musiklehrerin verliert die Sicherheit ihres vertrauten Alltags.",
       "interest": "Der Beruf erklärt die kulturelle Lebenswelt des Paares vor Annes Erkrankung.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "knowledge_id": "K-E20261007-F-044-L1",
       "variant_of": "E20261007-F-044-L1",
-      "knowledge_note": "Annes früherer Beruf ist Teil des bereits abgefragten gemeinsamen Musiklehrerberufs des Paares; auch 058/L1 nutzt dieses Ziel."
+      "knowledge_note": "Annes früherer Beruf ist Teil des bereits abgefragten gemeinsamen Musiklehrerberufs des Paares; auch 058/L1 nutzt dieses Ziel.",
+      "objective": "Die ehemalige Musiklehrerin verliert die Sicherheit ihres vertrauten Alltags."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 3,
       "short": "Barny begegnet dem Priester zunächst als Atheistin.",
       "context": "Die verwitwete Mutter lebt im besetzten Frankreich. Ihr Kontakt mit dem Priester Léon Morin (Jean-Paul Belmondo) führt zu Gesprächen über Glauben und zu einer zunehmenden persönlichen Anziehung. Religiöse Auseinandersetzung und Begehren lassen sich für sie immer weniger trennen. Jean-Pierre Melville erzählt die Begegnungen aus der Nähe ihrer Erfahrungen, während Morins geistliches Selbstverständnis eine Grenze zwischen beiden aufrechterhält.",
-      "anchor": "Aus atheistischer Distanz entstehen Gespräche über Glauben und Begehren.",
       "interest": "Die Ausgangshaltung macht Barnys innere Veränderung und den Beziehungskonflikt verständlich.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       "extraSources": [
         "https://cineuropa.org/en/film/401054/",
         "https://www.criterion.com/films/27660-leon-morin-priest"
-      ]
+      ],
+      "objective": "Aus atheistischer Distanz entstehen Gespräche über Glauben und Begehren."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 0,
       "short": "Bernard will verhindern, dass der Familienname durch den Prozess beschmutzt wird.",
       "context": "Seine Aussage bewirkt, dass das Verfahren gegen Thérèse nicht weitergeführt wird. Der juristische Ausgang bedeutet jedoch keine freie oder versöhnte Beziehung. Auf dem Heimweg erinnert sie sich an die Vorgeschichte und überlegt, wie sie ihrem Mann begegnen soll. Georges Franjus Verfilmung des Romans von François Mauriac stellt damit das gesellschaftliche Ansehen der Familie neben eine Ehe, in der die persönliche Verständigung misslingt.",
-      "anchor": "Die Familie rettet ihren Namen, ohne den Ehekonflikt zu lösen.",
       "interest": "Der Beweggrund unterscheidet äußere Entlastung von tatsächlicher Versöhnung.",
       "feedback": [
         "Bernard will verhindern, dass der Familienname durch den Prozess beschmutzt wird.",
@@ -116,7 +115,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/film/48627.html"
-      ]
+      ],
+      "objective": "Die Familie rettet ihren Namen, ohne den Ehekonflikt zu lösen."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 1,
       "short": "Sie wird wegen ihrer Liebe zu einem deutschen Besatzungssoldaten geschoren.",
       "context": "Der junge Soldat wird bei der Befreiung von Nevers tödlich getroffen. Nach der öffentlichen Demütigung wird die junge Frau von ihren Eltern zu Hause verborgen. Die neue Begegnung in Japan ruft diesen verdrängten Verlust wieder auf. Ihre Erzählung verbindet Liebe, Scham und die Angst vor dem Vergessen; sie erklärt, weshalb eine gegenwärtige Nähe zugleich als Gefahr einer erneuten schmerzhaften Trennung erscheint.",
-      "anchor": "Die neue Liebe ruft die bestrafte Liebe aus der Besatzungszeit zurück.",
       "interest": "Die Erinnerung verbindet die private Verletzung der Figur mit der Geschichte der Befreiung.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Hiroshima_mon_amour"
-      ]
+      ],
+      "objective": "Die neue Liebe ruft die bestrafte Liebe aus der Besatzungszeit zurück."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 2,
       "short": "Die Taufe soll ihre Tochter vor der Verfolgung als jüdisches Kind schützen.",
       "context": "Barnys verstorbener Mann war Jude; die Herkunft der Tochter wird während der Besatzung zur Gefahr. Die äußerlich religiöse Handlung entspringt daher zunächst einem Schutzbedürfnis der Mutter. Das unterscheidet sie von Barnys späterer persönlicher Auseinandersetzung mit dem Glauben. Der Film verknüpft ihre Gespräche mit dem Priester mit einem Alltag, in dem politische Gewalt selbst intime Entscheidungen über Familie und Zugehörigkeit bestimmt.",
-      "anchor": "Die Taufe ist zunächst ein Versuch, ein gefährdetes Kind zu schützen.",
       "interest": "Der konkrete Anlass hält die religiösen Gespräche in der historischen Wirklichkeit der Besatzung verankert.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/L%C3%A9on_Morin,_Priest",
         "https://cineuropa.org/en/film/401054/"
-      ]
+      ],
+      "objective": "Die Taufe ist zunächst ein Versuch, ein gefährdetes Kind zu schützen."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 2,
       "short": "Rivette kritisierte die vorwärtsfahrende Kamera und die gezielte Komposition der Leiche.",
       "context": "Rivas Figur wirft sich an den elektrischen Lagerzaun. Rivette wandte sich dagegen, wie Gillo Pontecorvos Inszenierung den toten Körper anschließend ins Bild setzt: Die Fahrt und die Platzierung der erhobenen Hand erschienen ihm moralisch verwerflich. Aus der konkreten Einstellung entstand eine anhaltende Debatte darüber, ob filmische Gestaltung historisches Leiden verständlich macht oder es zu einem wirkungsvollen ästhetischen Gegenstand formt.",
-      "anchor": "Eine Kamerabewegung wird zur Frage des moralischen Blicks auf Leiden.",
       "interest": "Das Ziel erschließt einen wichtigen Zusammenhang zwischen Darstellung und Verantwortung.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/features/so-nobody-can-lie-sam-fullers-falkenau-morality-tracking-shots"
-      ]
+      ],
+      "objective": "Eine Kamerabewegung wird zur Frage des moralischen Blicks auf Leiden."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 3,
       "short": "Riva fotografierte die Stadt und ihre Menschen, besonders die Flussviertel und Kinder.",
       "context": "Mit einer in Japan gekauften Kamera erkundete Riva die Stadt zu Fuß. Sie erklärte später, die Begegnungen hätten ihr intuitiv auch beim Aufbau ihrer Figur geholfen. Ihre Bilder zeigen unter anderem Holzhaussiedlungen am Fluss, die bald verschwanden. Jahrzehnte später wurden die Aufnahmen aus ihrem privaten Bestand ausgestellt und veröffentlicht. Aus einem persönlichen Blick während der Filmarbeit wurde so ein seltenes Zeugnis einer Stadt im Wandel.",
-      "anchor": "Der eigene Blick der Schauspielerin bewahrt einen verschwundenen städtischen Alltag.",
       "interest": "Die Fotografien verbinden Rollenarbeit, persönliche Wahrnehmung und historische Erinnerung.",
       "feedback": [
         "",
@@ -226,7 +225,8 @@
       "extraSources": [
         "https://www.cinematheque.fr/article/987.html",
         "https://www.mfj.gr.jp/evenement/hiroshima-1958-traces/"
-      ]
+      ],
+      "objective": "Der eigene Blick der Schauspielerin bewahrt einen verschwundenen städtischen Alltag."
     }
   ]
 }

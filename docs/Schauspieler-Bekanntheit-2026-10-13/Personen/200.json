@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Kyōko ist die jüngste Tochter des Ehepaars Hirayama.",
       "context": "Sie bleibt in Onomichi, während die Eltern ihre anderen Kinder besuchen. Anders als die verheirateten Geschwister lebt sie noch am Heimatort. Nach der Rückkehr und dem Tod der Mutter tritt ihre Enttäuschung über das Verhalten der älteren Geschwister offen hervor.",
-      "anchor": "Kyōko bleibt als jüngste Tochter in Onomichi.",
       "interest": "Unterscheidung von Tochter und Schwiegertochter im Familienensemble.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/301-tokyo-story-compassionate-detachment",
         "https://www.criterion.com/current/posts/9249-kyoko-kagawa-rarities"
-      ]
+      ],
+      "objective": "Kyōko bleibt als jüngste Tochter in Onomichi."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 1,
       "short": "Sie spielt Reiko, die Ehefrau des Unternehmers Kingo Gondo.",
       "context": "Gondo (Toshirō Mifune) glaubt zunächst, sein Sohn sei entführt worden. Als sich herausstellt, dass der Täter das Kind des Chauffeurs erwischt hat, bleibt die Lösegeldforderung bestehen. Die Krise dringt damit in den häuslichen Raum ein und zwingt die Familie zur Auseinandersetzung mit ihrer gesellschaftlichen Stellung.",
-      "anchor": "Reiko gehört zur Familie des bedrohten Unternehmers.",
       "interest": "Zentrale Rolle im häuslichen Teil des Thrillers.",
       "feedback": [
         "",
@@ -60,7 +59,8 @@
       "extraSources": [
         "https://www.criterion.com/films/543-high-and-low",
         "https://whatson.bfi.org.uk/Online/article/high-and-low-2024"
-      ]
+      ],
+      "objective": "Reiko gehört zur Familie des bedrohten Unternehmers."
     },
     {
       "code": "M1",
@@ -74,7 +74,6 @@
       "correct": 3,
       "short": "Anju opfert sich, um die Flucht ihres Bruders Zushiō zu schützen.",
       "context": "Die Geschwister sind als Kinder in die Sklaverei verkauft worden. Während Zushiō (Yoshiaki Hanayagi) sich zeitweise den brutalen Regeln des Lagers anpasst, bewahrt Anju die Erinnerung an die Menschlichkeit ihres Vaters. Ihr Opfer ermöglicht dem Bruder den Weg aus der Gefangenschaft.",
-      "anchor": "Anju schützt Zushiōs Weg in die Freiheit.",
       "interest": "Konkrete Wirkung des Opfers innerhalb der Geschwistergeschichte.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/960-sansho-the-bailiff"
-      ]
+      ],
+      "objective": "Anju schützt Zushiōs Weg in die Freiheit."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 1,
       "short": "Moheis Liebesgeständnis weckt in Osan den Wunsch weiterzuleben.",
       "context": "Osan und Mohei (Kazuo Hasegawa) werden als Ehebrecher verfolgt, obwohl ihre Beziehung bis dahin platonisch war. Im Boot bereiten sie ihren Tod vor. Erst dort gesteht Mohei seine lange verborgene Liebe; Osan erwidert sie und entscheidet sich für ein gemeinsames Leben auf der Flucht.",
-      "anchor": "Am Rand des Todes entsteht der Wille zum gemeinsamen Leben.",
       "interest": "Wendepunkt zwischen falscher Beschuldigung und tatsächlicher Liebe.",
       "feedback": [
         "",
@@ -114,7 +113,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/6021-a-story-from-chikamatsu-from-a-distance"
-      ]
+      ],
+      "objective": "Am Rand des Todes entsteht der Wille zum gemeinsamen Leben."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 0,
       "short": "Die Figuren stehen an entgegengesetzten Bildrändern; Kerzenlicht belebt die dunkle Mitte.",
       "context": "Kagawas abgesondert untergebrachte Patientin weckt den Ehrgeiz Yasumotos (Yūzō Kayama), gerade diesen schwierigen Fall zu behandeln. Die Begegnung wird für ihn gefährlich und erschüttert seine Selbstüberschätzung. Die feste Kamera hält beide Figuren in einem gemeinsamen, spannungsvoll geteilten Raum.",
-      "anchor": "Zwei Figuren am Rand, unruhiges Licht dazwischen.",
       "interest": "Konkrete Bildgestaltung einer Begegnung statt einer bloßen Rollenabfrage.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       ],
       "extraSources": [
         "https://bfidatadigipres.github.io/kurosawa/2023/02/11/red-beard/"
-      ]
+      ],
+      "objective": "Zwei Figuren am Rand, unruhiges Licht dazwischen."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 2,
       "short": "Frau Watanabe war vor Mochizukis Kriegstod seine Verlobte.",
       "context": "Mochizuki (Arata) hilft dem verstorbenen Ichirō Watanabe (Taketoshi Naitō), eine Erinnerung für die Ewigkeit auszuwählen. Auf dessen Lebensbändern erkennt er seine frühere Verlobte wieder. Die Archivbilder verbinden so die Lebenswege der beiden Männer und erschüttern die Distanz des vermeintlich unbeteiligten Beraters.",
-      "anchor": "Das Lebensarchiv zeigt Mochizukis verlorene Verlobte.",
       "interest": "Erinnerungsbilder enthüllen eine persönliche Beziehung zwischen Berater und Verstorbenem.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       "extraSources": [
         "https://peripherfilm.de/afterlife/heft1.PDF",
         "https://www.criterion.com/films/29081-after-life"
-      ]
+      ],
+      "objective": "Das Lebensarchiv zeigt Mochizukis verlorene Verlobte."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 3,
       "short": "Sie wählte „Chikamatsu monogatari“, auch „A Story from Chikamatsu“ genannt.",
       "context": "Die Auswahl begründete Kagawa mit ihrer besonders guten, unvergesslichen Erinnerung an die Produktion und an Kenji Mizoguchi. Die Ehrung in Tokyo stellte damit nicht nur ihre lange Laufbahn aus, sondern ließ sie selbst einen wichtigen Film und eine prägende Zusammenarbeit hervorheben.",
-      "anchor": "Kagawa erinnert an ihre Arbeit mit Mizoguchi.",
       "interest": "Persönliche Werkauswahl als Zeugnis einer künstlerischen Zusammenarbeit.",
       "feedback": [
         "",
@@ -199,7 +198,8 @@
       ],
       "extraSources": [
         "https://www.fiafnet.org/images/tinyUpload/Publications/FIAF-Bulletin-Online_/FBO1_EN.pdf"
-      ]
+      ],
+      "objective": "Kagawa erinnert an ihre Arbeit mit Mizoguchi."
     },
     {
       "code": "E2",
@@ -213,7 +213,6 @@
       "correct": 0,
       "short": "Die Auszeichnung würdigt den Einsatz für Bewahrung und Zugänglichkeit des Filmerbes.",
       "context": "Die FIAF ehrt Persönlichkeiten außerhalb der eigentlichen Archivarbeit, deren Erfahrung und Engagement ihre Aufgaben unterstützen. Kagawas lebenslanges Interesse an Filmarchiven und Filmerhaltung wurde im Verbandsbericht eigens hervorgehoben. Der Preis verbindet ihre Arbeit vor der Kamera mit dem Fortbestehen dieser Filme für spätere Generationen.",
-      "anchor": "Kagawas Filme sollen auch künftig gesehen werden können.",
       "interest": "Schauspielkarriere und Verantwortung für kulturelles Gedächtnis.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       "extraSources": [
         "https://www.fiafnet.org/is/2/Events/old-version-FIAF-Award.html",
         "https://www.fiafnet.org/images/tinyUpload/E-Resources/Official-Documents/Protected_Files/Congress-Reports/2011_Pretoria_Congress_Report_LR.pdf"
-      ]
+      ],
+      "objective": "Kagawas Filme sollen auch künftig gesehen werden können."
     }
   ]
 }

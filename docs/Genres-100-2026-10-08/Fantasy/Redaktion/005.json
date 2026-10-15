@@ -35,11 +35,11 @@
       ],
       "short": "Willow beginnt als Bauer.",
       "context": "Willow Ufgood (Warwick Davis) lebt mit seiner Familie als Bauer und möchte zugleich die Zauberkunst erlernen. Seine Reise beginnt nicht als Auftrag an einen bereits berühmten Helden. Als ein Baby in die Gemeinschaft gelangt, muss er Verantwortung übernehmen, obwohl ihm Erfahrung und sichere magische Fähigkeiten fehlen. Der Film verbindet damit eine vertraute häusliche Lebenswelt mit einer Aufgabe von weit größerer Bedeutung.",
-      "anchor": "Ein Bauer wächst in eine gefährliche Aufgabe hinein.",
       "interest": "Erkennt die zugängliche Ausgangslage des noch unerfahrenen Helden.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein Bauer wächst in eine gefährliche Aufgabe hinein."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Das Baby bedroht Bavmordas Herrschaft.",
       "context": "Bavmorda (Jean Marsh) lässt schwangere Frauen festhalten, weil sie die Geburt eines Kindes fürchtet, das ihre Herrschaft beenden soll. Dennoch wird das Baby gerettet und gelangt auf dem Fluss zu Willows (Warwick Davis) Familie. Die Verfolgung beruht deshalb nicht auf einer bereits ausgeübten Macht des Kindes. Die Königin versucht vielmehr, eine angekündigte Zukunft durch Gewalt schon im Voraus zu verhindern.",
-      "anchor": "Die Königin verfolgt eine angekündigte Zukunft.",
       "interest": "Erklärt den Grundkonflikt und die Verfolgung des Babys.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Königin verfolgt eine angekündigte Zukunft."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Die Übernahme des Babys soll Madmartigan befreien.",
       "context": "Willow (Warwick Davis) trifft Madmartigan (Val Kilmer) an einer Wegkreuzung im Krähenkäfig. Der Söldner bietet an, das Baby zu übernehmen, wenn man ihn freilässt. Für die Reisegruppe wäre das eine einfache Übergabe an einen großen Menschen, doch Willow misstraut dem Angebot zunächst. Die spätere Zusammenarbeit entsteht somit aus einem zweifelhaften Handel, bevor sich zwischen den beiden echtes Vertrauen entwickelt.",
-      "anchor": "Erst Freilassung gegen Baby, später Zusammenarbeit.",
       "interest": "Erfasst die anfänglich eigennützige Bedingung des späteren Begleiters.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Erst Freilassung gegen Baby, später Zusammenarbeit."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Fin Raziel lebt zunächst als Beuteltier.",
       "context": "Fin Raziel (Patricia Hayes) ist eine erfahrene Zauberin, die Bavmorda (Jean Marsh) in Tiergestalt verbannt hat. Willow (Warwick Davis) begegnet ihr zunächst als Beuteltier und versucht, ihr die menschliche Form zurückzugeben. Die ersten Versuche führen aber nur zu weiteren Tiergestalten. Seine Entwicklung als Zauberer wird dadurch an einer konkreten Aufgabe sichtbar, bei der ein guter Wille noch keine sichere Ausführung garantiert.",
-      "anchor": "Die Zauberin wartet in Beuteltiergestalt auf Befreiung.",
       "interest": "Unterscheidet den Ausgangsfluch von den späteren missglückten Verwandlungen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Zauberin wartet in Beuteltiergestalt auf Befreiung."
     },
     {
       "code": "S1",
@@ -127,12 +127,12 @@
       ],
       "short": "Bavmorda verwandelt das Heer in Schweine.",
       "context": "Vor Nockmaar hilft zahlenmäßige Stärke zunächst wenig: Bavmorda (Jean Marsh) verwandelt das angreifende Heer in Schweine. Willow (Warwick Davis) schützt sich mit dem Zauberstab und kann weiter handeln. Erst nachdem er Fin Raziel (Patricia Hayes) ihre menschliche Gestalt zurückgegeben hat, hebt sie den Heereszauber auf. Die Szene verbindet daher zwei Aufgaben, deren Reihenfolge für den weiteren Angriff entscheidend ist.",
-      "anchor": "Das Schweineheer braucht die wiederhergestellte Zauberin.",
       "interest": "Verknüpft den Gegenzauber mit der zuvor aufgebauten Verwandlungsaufgabe.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Schweineheer braucht die wiederhergestellte Zauberin."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "Ein Taschenspielertrick täuscht die Königin.",
       "context": "Willow (Warwick Davis) lässt Bavmorda (Jean Marsh) glauben, er habe das Baby auf magische Weise verschwinden lassen. Tatsächlich nutzt er einen Taschenspielertrick. Die verunsicherte Königin greift ihn an und vollendet dabei versehentlich ihr eigenes Verbannungsritual gegen sich selbst. Der Sieg verlangt somit keinen stärkeren Zauber als den der Gegnerin, sondern eine Täuschung, die deren Handeln im entscheidenden Moment verändert.",
-      "anchor": "Der kleine Trick lenkt den großen Zauber gegen seine Urheberin.",
       "interest": "Erklärt die besondere Ursache der Schlusswendung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der kleine Trick lenkt den großen Zauber gegen seine Urheberin."
     },
     {
       "code": "Y",
@@ -175,12 +175,12 @@
       ],
       "short": "Willow erschien erstmals 1988.",
       "context": "Der Kinofilm Willow erschien 1988; die gleichnamige Fortsetzungsserie begann 2022, also 34 Jahre später. Lucasfilm dokumentiert beide Produktionen und beschreibt bei der ersten Serienfolge den späteren Zustand derselben Welt. Das große Zeitintervall gehört zur Produktionsgeschichte. Es ist von der innerhalb der Geschichte vergangenen Zeit zu unterscheiden und macht aus der Serie keine neue Erstveröffentlichung des ursprünglichen Films.",
-      "anchor": "Film 1988, Serie 2022: 34 Jahre.",
       "interest": "Trennt den ursprünglichen Film von seiner deutlich späteren Serienfortsetzung.",
       "sources": [
         "lucasfilm",
         "series"
-      ]
+      ],
+      "objective": "Film 1988, Serie 2022: 34 Jahre."
     },
     {
       "code": "D",
@@ -199,13 +199,13 @@
       ],
       "short": "Ron Howard führte die Hauptregie.",
       "context": "Lucasfilm nennt Ron Howard als Regisseur, während George Lucas den Stoff entwickelte und die Produktion maßgeblich prägte. Diese Aufgaben sind nicht gleichzusetzen. Im Film wird Willow (Warwick Davis) als unerfahrener Helfer mit einem übermächtigen Gegner konfrontiert. Seine Fortschritte und Fehler tragen das Abenteuer ebenso wie die spektakulären Verwandlungen. Die Regie gestaltet diese Entwicklung innerhalb einer von Lucas erdachten Fantasywelt.",
-      "anchor": "Howard inszeniert die von Lucas entwickelte Fantasywelt.",
       "interest": "Unterscheidet den belegten Hauptcredit von Stoffschöpfung und Produktion.",
       "sources": [
         "lucasfilm",
         "bfi",
         "film"
-      ]
+      ],
+      "objective": "Howard inszeniert die von Lucas entwickelte Fantasywelt."
     }
   ]
 }

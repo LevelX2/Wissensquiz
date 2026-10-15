@@ -33,11 +33,11 @@
       ],
       "short": "Thomas arbeitet als Modefotograf.",
       "context": "Thomas (David Hemmings) kontrolliert im Studio die Körper und Posen seiner Modelle. Der zufällige Parkbesuch führt ihn dagegen zu Bildern, deren Bedeutung er zunächst nicht beherrscht. Sein Beruf erklärt, warum er die Aufnahmen technisch untersuchen kann. Zugleich wird dieses routinierte Bildwissen auf die Probe gestellt: Ein professioneller Blick garantiert noch keine sichere Deutung dessen, was auf dem Foto erscheint.",
-      "anchor": "Der Bildprofi gerät an ein Bild, das ihm keine Sicherheit gibt.",
       "interest": "Die berufliche Ausgangslage eröffnet den Konflikt über Wahrnehmung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Bildprofi gerät an ein Bild, das ihm keine Sicherheit gibt."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Jane fordert das Material der Parkfotos zurück.",
       "context": "Jane (Vanessa Redgrave) reagiert auf Thomas’ (David Hemmings) Fotos zunächst mit Wut und später mit einem Besuch im Studio. Er gibt ihr jedoch eine andere Filmrolle. Die Aufnahme, die sie aus dem Verkehr ziehen möchte, bleibt damit bei ihm und wird zum Gegenstand seiner Nachforschungen. Ihr Verhalten erzeugt einen Verdacht, ohne dem Publikum schon eindeutig zu erklären, was sie weiß.",
-      "anchor": "Janes Rückforderung macht die beiläufige Aufnahme verdächtig.",
       "interest": "Das Verhalten der rätselhaften Frau wird als Handlungsmotor verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Janes Rückforderung macht die beiläufige Aufnahme verdächtig."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Er erkennt eine möglicherweise bewaffnete Gestalt zwischen den Bäumen.",
       "context": "Thomas (David Hemmings) betrachtet seine Parkfotos nicht mehr als fertige Bilder, sondern als mögliche Spuren. Die Richtung von Janes (Vanessa Redgrave) Blick lenkt seine Aufmerksamkeit auf das Gebüsch. Durch weitere Ausschnitte vermutet er dort einen bewaffneten Menschen. Was beim Fotografieren nebensächlich blieb, verändert rückwirkend den Sinn der Begegnung und bringt ihn auf die Idee eines verhinderten oder begangenen Verbrechens.",
-      "anchor": "Janes Blick lenkt Thomas auf einen verborgenen Bildrand.",
       "interest": "Die Schlussfolgerung entsteht aus dem Zusammenhang von Blickrichtung und Bildausschnitt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Janes Blick lenkt Thomas auf einen verborgenen Bildrand."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Negative und fast alle Abzüge sind nach dem Einbruch weg.",
       "context": "Thomas (David Hemmings) hatte im Park einen Körper gefunden, aber keine Kamera dabeigehabt. Als er zurückkommt, fehlen die fotografischen Belege im Studio. Nur ein besonders grobkörniges Bild bleibt. Die scheinbare Bestätigung durch einen realen Fund führt damit nicht zu dauerhafter Beweissicherheit: Ausgerechnet jetzt verliert er die Möglichkeit, anderen seine Beobachtung nachvollziehbar zu zeigen.",
-      "anchor": "Der Fund wird deutlicher, seine Beweise werden schwächer.",
       "interest": "Die Szenenfolge erklärt den Verlust überprüfbarer Gewissheit.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Fund wird deutlicher, seine Beweise werden schwächer."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Thomas wirft den nur vorgestellten Ball zurück.",
       "context": "Nach dem Verschwinden des Körpers trifft Thomas (David Hemmings) auf eine Pantomimengruppe. Ihr Tennis hat zunächst keinen sichtbaren Ball; dennoch folgt er dem Spiel und beteiligt sich schließlich daran. Später ist dessen Klang zu hören. Die Szene führt das Wahrnehmungsrätsel in einer anderen Form fort: Wirklichkeit wird durch gemeinsames Verhalten und den filmischen Ton erfahrbar, obwohl das zentrale Objekt fehlt.",
-      "anchor": "Am Ende spielt Thomas mit, was er nicht sehen kann.",
       "interest": "Die konkrete Schlussgeste erschließt das offene Wahrnehmungsmotiv.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Am Ende spielt Thomas mit, was er nicht sehen kann."
     },
     {
       "code": "S2",
@@ -148,11 +148,11 @@
       ],
       "short": "Draußen wird der zuvor umkämpfte Gitarrenhals achtlos weggeworfen.",
       "context": "Jeff Beck zertrümmert während des Yardbirds-Auftritts seine Gitarre. Die Menge kämpft um den Hals, den Thomas (David Hemmings) schließlich davonträgt. Außerhalb des Clubs wirft er ihn fort; auch ein Passant behält ihn nicht. Die Szene macht den Wert des Gegenstands vom Kontext abhängig. Das begehrte Objekt besitzt deshalb nicht unabhängig von der Situation dieselbe Bedeutung für jeden Betrachter.",
-      "anchor": "Der Konzertkontext macht den Gitarrenrest zum begehrten Objekt.",
       "interest": "Ein auffälliges Nebenereignis erhält eine nachvollziehbare Funktion statt bloß Bandwissen abzufragen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Konzertkontext macht den Gitarrenrest zum begehrten Objekt."
     },
     {
       "code": "Y",
@@ -171,12 +171,12 @@
       ],
       "short": "Die Erstveröffentlichung erfolgte 1966.",
       "context": "1966 macht Antonioni fotografische Bilder zur unsicheren Spur eines möglichen Verbrechens. Fünfzehn Jahre später, 1981, greift Brian De Palma in Blow Out eine verwandte Idee über aufgenommene Geräusche auf. Der BFI-Nachweis stellt die Verbindung ausdrücklich her. Der Abstand verankert den Film zeitlich und zeigt zugleich den Medienwechsel: Ein Bildrand wird zum Vorläufer eines entscheidenden Tons.",
-      "anchor": "1966 Bildspur, 1981 Tonspur: fünfzehn Jahre bis Blow Out.",
       "interest": "Eine belegte spätere filmische Hommage liefert einen konkreten Zeitanker.",
       "sources": [
         "bfi",
         "handlung"
-      ]
+      ],
+      "objective": "1966 Bildspur, 1981 Tonspur: fünfzehn Jahre bis Blow Out."
     },
     {
       "code": "D",
@@ -195,14 +195,14 @@
       ],
       "short": "Michelangelo Antonioni führte Regie.",
       "context": "Michelangelo Antonioni verlegt sein Rätsel in das moderne London. Der Film folgt Thomas’ (David Hemmings) Blick, liefert aber keine verlässliche Schlussaufklärung des vermuteten Verbrechens. Der BFI-Credit nennt Antonioni; seine beschriebenen Wahrnehmungsfragen erklären, warum das Werk die Form eines Thrillers annimmt und dessen gewohntes Versprechen eindeutiger Beweise zugleich offenhält. Die Kamera führte Carlo Di Palma.",
-      "anchor": "Antonioni lässt den professionellen Blick an Gewissheit scheitern.",
       "interest": "Der Credit wird als notwendige Filmvariante eines bereits vorhandenen Personen-Regieziels weitergeführt.",
       "sources": [
         "bfi",
         "handlung"
       ],
       "knowledge_id": "K-SCHAUSPIELER-202610-P03-153-M-1",
-      "variant_of": "SCHAUSPIELER-202610-P03-153-M-1"
+      "variant_of": "SCHAUSPIELER-202610-P03-153-M-1",
+      "objective": "Antonioni lässt den professionellen Blick an Gewissheit scheitern."
     }
   ]
 }

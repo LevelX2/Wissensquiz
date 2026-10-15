@@ -38,12 +38,12 @@
       ],
       "short": "Hank ist Seans Stiefvater.",
       "context": "Sean Anderson (Josh Hutcherson) reagiert zunächst abweisend auf Hank Parsons (Dwayne Johnson). Die gemeinsame Suche führt sie aus dem Alltag in eine riskante Umgebung. Hank muss Sean nicht nur schützen, sondern dessen Interessen ernst nehmen. Die Reise bildet damit eine neue familiäre Zusammenarbeit, ohne den verschwundenen leiblichen Vater durch dieselbe Figur zu ersetzen.",
-      "anchor": "Das gemeinsame Abenteuer gibt Stiefvater und Sohn eine neue Beziehung.",
       "interest": "Das gemeinsame Abenteuer gibt Stiefvater und Sohn eine neue Beziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das gemeinsame Abenteuer gibt Stiefvater und Sohn eine neue Beziehung."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Sean sucht seinen Großvater Alexander.",
       "context": "Sean Anderson (Josh Hutcherson) ist überzeugt, dass ein Signal von seinem Großvater Alexander (Michael Caine) stammt. Hank Parsons (Dwayne Johnson) hilft ihm bei der Entschlüsselung. Das Zeichen aus der Ferne ist daher doppelt wichtig: Es gibt der Reise ein Ziel und ermöglicht eine Zusammenarbeit zwischen Menschen, die zuhause noch Schwierigkeiten miteinander haben.",
-      "anchor": "Alexanders Signal bringt Sean und Hank erstmals auf eine gemeinsame Spur.",
       "interest": "Alexanders Signal bringt Sean und Hank erstmals auf eine gemeinsame Spur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Alexanders Signal bringt Sean und Hank erstmals auf eine gemeinsame Spur."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Die Insel zeigt vertraute Tiere in unerwarteten Größen.",
       "context": "Die Gruppe begegnet Miniaturelefanten und riesigen Insekten. Was im Alltag klein oder groß erscheint, ist hier keine zuverlässige Vorbereitung. Die veränderten Größen schaffen Chancen und Gefahren: Eine Biene kann zum Transportmittel werden, während ein sonst überschaubares Tier eine lebensbedrohliche Begegnung auslöst. Die Reisenden müssen ihre gewohnten Maßstäbe neu prüfen.",
-      "anchor": "Auf der Insel taugt Alltagsgröße nicht als Gefahrenmaßstab.",
       "interest": "Auf der Insel taugt Alltagsgröße nicht als Gefahrenmaßstab.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Auf der Insel taugt Alltagsgröße nicht als Gefahrenmaßstab."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Captain Nemos Nautilus soll die Gruppe retten.",
       "context": "Die Insel beginnt schneller zu sinken, als Alexander (Michael Caine) erwartet hat. Die Reisenden suchen deshalb nach der Nautilus in einer unterirdischen Wasserhöhle. Das vertraute Verne-Fahrzeug wird nicht nur als Zitat gezeigt: Es erfüllt eine konkrete Rettungsfunktion. Seine Wiederinbetriebnahme entscheidet darüber, ob die Entdeckung überhaupt verlassen werden kann.",
-      "anchor": "Die Nautilus wird vom Literaturzeichen zum notwendigen Rettungsboot.",
       "interest": "Die Nautilus wird vom Literaturzeichen zum notwendigen Rettungsboot.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Nautilus wird vom Literaturzeichen zum notwendigen Rettungsboot."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Die elektrische Entladung des Zitteraals startet die Nautilus.",
       "context": "Hank Parsons (Dwayne Johnson) und Sean Anderson (Josh Hutcherson) finden das U-Boot, müssen es aber unter Zeitdruck wieder betreiben. Ein riesiger Zitteraal ist zunächst eine Bedrohung und zugleich eine Energiequelle. Die Rettung verlangt daher, eine gefährliche Eigenschaft gezielt zu nutzen. Das Abenteuer macht aus einer Begegnung mit einem Tier einen technischen Lösungsweg.",
-      "anchor": "Der gefährliche Zitteraal liefert die rettende Startenergie.",
       "interest": "Der gefährliche Zitteraal liefert die rettende Startenergie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der gefährliche Zitteraal liefert die rettende Startenergie."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Die Botschaft verbindet drei unterschiedliche Abenteuerbücher.",
       "context": "Die verschlüsselte Spur verweist nicht nur auf Jules Verne. Sean Anderson (Josh Hutcherson) und Hank Parsons (Dwayne Johnson) müssen auch Stevensons Schatzinsel und Swifts Gulliver berücksichtigen. Der Film macht die Verbindung verschiedener Reisegeschichten zu einer Suchmethode. Lesen bedeutet hier nicht bloß Vorbereitung, sondern das praktische Zusammenführen einzelner Hinweise zu einer neuen Route.",
-      "anchor": "Drei literarische Reisen ergeben eine gemeinsame Kartenroute.",
       "interest": "Drei literarische Reisen ergeben eine gemeinsame Kartenroute.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Drei literarische Reisen ergeben eine gemeinsame Kartenroute."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Die Fortsetzung erschien 2012.",
       "context": "Josh Hutcherson kehrt als Sean zurück, während Dwayne Johnson den neuen erwachsenen Reisebegleiter spielt. Zwischen dem ersten modernen Journey-Film und dieser Inselgeschichte liegen vier Jahre. Der Zeitabstand hilft auch innerhalb der Erzählung: Sean ist inzwischen älter und befindet sich in einer veränderten Familiensituation. Das neue Filmjahr kennzeichnet daher eine eigenständige Abenteueretappe.",
-      "anchor": "Vier Jahre nach der Erdreise: 2012 auf die Insel.",
       "interest": "Vier Jahre nach der Erdreise: 2012 auf die Insel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Vier Jahre nach der Erdreise: 2012 auf die Insel."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Brad Peyton inszenierte das zweite Journey-Kinoabenteuer.",
       "context": "Brad Peyton führt eine neu zusammengestellte Gruppe durch die fantastische Insel. Josh Hutcherson verbindet die Geschichte mit dem vorherigen Film, während Dwayne Johnson und Michael Caine neue Generationen der Familie verkörpern. Eine wiederkehrende Hauptfigur bedeutet daher kein unverändertes Produktionsteam. Die Fortsetzung hat einen eigenen Regisseur und einen anderen räumlichen Schwerpunkt.",
-      "anchor": "Peyton übernimmt die Inselreise, Hutcherson verbindet beide Filme.",
       "interest": "Peyton übernimmt die Inselreise, Hutcherson verbindet beide Filme.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Peyton übernimmt die Inselreise, Hutcherson verbindet beide Filme."
     }
   ]
 }

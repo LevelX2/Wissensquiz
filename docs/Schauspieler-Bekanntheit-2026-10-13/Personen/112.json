@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Der junge Mann arbeitet als Verkäufer in einem Kaufhaus.",
       "context": "Ein junger Mann vom Land sucht sein Glück in der Großstadt und findet zunächst eine untergeordnete Stelle im Kaufhaus. Um Aufmerksamkeit für das Geschäft zu gewinnen, entwickelt er eine spektakuläre Werbeaktion: Ein Mann soll die hohe Fassade erklimmen. Der ehrgeizige Angestellte wird dabei selbst zum Kletterer, und aus dem Wunsch nach beruflichem Aufstieg entsteht die lange Schlusssequenz.",
-      "anchor": "Der soziale Aufsteiger muss am Ende wirklich hinaufklettern.",
       "interest": "Lloyd verbindet alltäglichen Arbeitsdruck mit einer außergewöhnlichen Bewährungsprobe.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28446-safety-last"
-      ]
+      ],
+      "objective": "Der soziale Aufsteiger muss am Ende wirklich hinaufklettern."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Harold versucht sich in der Footballmannschaft des Colleges zu etablieren.",
       "context": "Der Studienanfänger möchte unbedingt beliebt werden und übernimmt dafür sogar die Gesten eines Filmidols. Seine Anstrengungen machen ihn zunächst zum Gegenstand von Spott. Das Footballfeld bietet ihm schließlich eine wirkliche Gelegenheit, sich zu bewähren. Neben der Anerkennung der Mitstudenten zählt für ihn die Zuneigung von Peggy (Jobyna Ralston).",
-      "anchor": "Der Wunsch nach Beliebtheit führt Harold ins Footballteam.",
       "interest": "Der Film verknüpft sportlichen Erfolg mit dem Lernen einer eigenen Haltung.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       "extraSources": [
         "https://www.criterion.com/films/28510-the-freshman",
         "https://www.criterion.com/current/posts/3112-the-freshman-speedy-saves-the-day-a-harold-lamb-adventure"
-      ]
+      ],
+      "objective": "Der Wunsch nach Beliebtheit führt Harold ins Footballteam."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Bills Verfolgung durch einen Polizisten vereitelt den geplanten Austausch auf der Fassade.",
       "context": "Harold hat die Werbeaktion organisiert, weil Bill Gebäude erklettern kann. Doch aus einem früheren Streich hat dieser noch einen Polizisten gegen sich. Harold soll nur den Anfang machen; der Wechsel scheitert dann auf immer neuen Stockwerken. So bleibt der ungeübte Organisator selbst draußen und muss die Hindernisse bewältigen, mit denen er eigentlich seinen Freund beauftragt hatte.",
-      "anchor": "Jede verpasste Ablösung zwingt Harold ein Stockwerk höher.",
       "interest": "Die Handlung erklärt, weshalb der Held die riskante Aufgabe trotz seines Plans selbst erfüllen muss.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Safety_Last!"
-      ]
+      ],
+      "objective": "Jede verpasste Ablösung zwingt Harold ein Stockwerk höher."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 0,
       "short": "Babe Ruth tritt als er selbst auf und fährt in Speedys Taxi mit.",
       "context": "Speedys Begeisterung für die Yankees lenkt ihn immer wieder von seiner Arbeit ab. Ausgerechnet bei der Fahrt mit Babe Ruth verwandelt sich diese Schwärmerei in eine turbulente Begegnung mit dem Idol. Der Gastauftritt gehört zu den vielen Verbindungen des Films mit dem damaligen New York, dessen Straßen und Vergnügungsorte weit mehr als austauschbare Kulissen bilden.",
-      "anchor": "Der Yankees-Fan chauffiert sein eigenes Idol.",
       "interest": "Ein realer Sportstar verbindet Lloyds Komödie mit der Großstadtkultur ihrer Entstehungszeit.",
       "feedback": [
         "Babe Ruth tritt als er selbst auf und fährt in Speedys Taxi mit.",
@@ -114,7 +113,8 @@
       "extraSources": [
         "https://www.criterion.com/films/28497-speedy",
         "https://www.criterion.com/current/posts/3826-speedy-the-comic-figure-of-the-average-man"
-      ]
+      ],
+      "objective": "Der Yankees-Fan chauffiert sein eigenes Idol."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 2,
       "short": "Man lässt Harold als Wasserträger bleiben, ohne ihm die wirkliche Stellung klarzumachen.",
       "context": "Im Training wird Harold nach dem Ausfall der Übungspuppe selbst zum ständig umgerissenen Ziel. Sein ungebrochener Eifer beeindruckt den Trainer, reicht aber zunächst nicht für einen Mannschaftsplatz. Der Kapitän schlägt vor, ihn als Wasserträger zu behalten und im Glauben an seine Aufnahme zu lassen. Erst als im entscheidenden Spiel die Ersatzspieler ausgehen, bekommt Harold die erhoffte echte Chance.",
-      "anchor": "Die vermeintliche Aufnahme ist zunächst eine höflich verpackte Zurücksetzung.",
       "interest": "Der Unterschied zwischen Selbstbild und tatsächlicher Stellung trägt die spätere Bewährung.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Freshman_(1925_film)"
-      ]
+      ],
+      "objective": "Die vermeintliche Aufnahme ist zunächst eine höflich verpackte Zurücksetzung."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 3,
       "short": "Ein Affe läuft in Harolds Schuhen über ihm und erzeugt die irreführenden Schritte.",
       "context": "Auf dem Schiff entdeckt Harold die Diebe des Geldes für den neuen Staudamm. Gegen den kräftigen Sandoni setzt er Einfallsreichtum ein: Während der Affe oben vermeintliche menschliche Schritte erzeugt, versteckt er sich selbst unten in einem Schrank. Der Stummfilm macht den gedachten Klang durch die sichtbare Ursache verständlich und nutzt ihn als Bestandteil des Versteckspiels.",
-      "anchor": "Sichtbare Schuhe erzeugen einen Ton, den das Publikum innerlich ergänzt.",
       "interest": "Die Szene zeigt, wie ein Stummfilm mit Geräuschen erzählen kann, ohne sie hörbar abzuspielen.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/6239-the-kid-brother-mettle-is-stronger-than-muscle"
-      ]
+      ],
+      "objective": "Sichtbare Schuhe erzeugen einen Ton, den das Publikum innerlich ergänzt."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 0,
       "short": "Lloyd hatte Daumen und Zeigefinger der rechten Hand verloren.",
       "context": "Bei einem Fototermin explodierte eine vermeintliche Requisitenbombe in Lloyds Hand. Nach der Genesung verdeckte ein Handschuh mit künstlichen Fingern die bleibende Verletzung vor der Kamera. Die späteren körperlich anspruchsvollen Auftritte, darunter „Safety Last!“, entstanden damit unter einer Einschränkung, die aus der Erscheinung des unauffälligen Brillenträgers kaum abzulesen ist.",
-      "anchor": "Die scheinbar unversehrte Filmhand enthält zwei künstliche Finger.",
       "interest": "Der Hintergrund verändert den Blick auf Lloyds körperliche Kontrolle, ohne Filmfigur und Darsteller gleichzusetzen.",
       "feedback": [
         "Lloyd hatte Daumen und Zeigefinger der rechten Hand verloren.",
@@ -195,7 +194,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/2804-safety-last-high-flying-harold"
-      ]
+      ],
+      "objective": "Die scheinbar unversehrte Filmhand enthält zwei künstliche Finger."
     },
     {
       "code": "E2",
@@ -209,7 +209,6 @@
       "correct": 3,
       "short": "Kulissen auf mehreren Gebäudedächern und sorgfältige Bildausschnitte erzeugen die scheinbar zusammenhängende Fassade.",
       "context": "Die Produktion errichtete Kletterkulissen auf unterschiedlich hohen Dächern in Los Angeles. Ein benachbarter Kameraturm ermöglichte den Blick auf Lloyd und die echte Stadt darunter, während das unmittelbar unter ihm liegende Dach aus dem Bild blieb. Die tatsächliche Höhe und die begrenzte Sturztiefe gehörten so zur selben Aufnahme. Ergänzend zeigen Fernaufnahmen den professionellen Kletterer Bill Strother.",
-      "anchor": "Das ausgesparte Dach lässt eine Kulisse wie die Fortsetzung der ganzen Hauswand erscheinen.",
       "interest": "Die Wirkung entsteht aus realem Stadtraum, gebauter Fassade und genauer Kameraposition.",
       "feedback": [
         "",
@@ -222,7 +221,8 @@
       ],
       "extraSources": [
         "https://www.laconservancy.org/wp-content/uploads/2022/10/HaroldLloydSafetyLastTour.pdf"
-      ]
+      ],
+      "objective": "Das ausgesparte Dach lässt eine Kulisse wie die Fortsetzung der ganzen Hauswand erscheinen."
     }
   ]
 }

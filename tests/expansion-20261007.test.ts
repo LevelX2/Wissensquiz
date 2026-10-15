@@ -12,13 +12,14 @@ import { validateBackup } from "../src/backupValidation";
 import films from "../docs/Erweiterung-2026-10-07/Filmdaten.json";
 import persons from "../docs/Erweiterung-2026-10-07/Personenfragen_20261007.json";
 import awards from "../docs/Erweiterung-2026-10-07/Preisefragen_20261007.json";
-import { originalQuestionId } from "./editorialSource";
+import { latestCsvRevision, originalQuestionId } from "./editorialSource";
 
 const contents = packages
   .filter(
     (p) =>
       !p.filename.startsWith("Genre100_") &&
-      !p.filename.startsWith("Schauspieler-Bekanntheit-"),
+      !p.filename.startsWith("Schauspieler-Bekanntheit-") &&
+      p.filename !== "Action-Drama-Ergaenzungen-2026-10-15.csv",
   )
   .map((p) => ({
     filename: p.filename,
@@ -40,9 +41,9 @@ const added = full.questions.filter((q) =>
 const get = (id: string) => full.questions.find((q) => q.id === id)!;
 
 it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Importkonflikte", () => {
-  expect(before.questions).toHaveLength(8409);
+  expect(before.questions).toHaveLength(8408);
   expect(incoming).toHaveLength(3);
-  expect(full.questions).toHaveLength(10889);
+  expect(full.questions).toHaveLength(10888);
   expect(full.imports).toHaveLength(24);
   expect(full.imports.slice(-3).map((r) => r.accepted)).toEqual([
     2240, 160, 80,
@@ -61,7 +62,7 @@ it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Im
   expect(full.questions.slice(0, before.questions.length)).toEqual(
     before.questions,
   );
-  expect(new Set(full.questions.map((q) => q.id)).size).toBe(10889);
+  expect(new Set(full.questions.map((q) => q.id)).size).toBe(10888);
   expect(added.filter((q) => questionSourceOf(q) === "film")).toHaveLength(
     2240,
   );
@@ -98,14 +99,19 @@ it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Im
       ["L", "leicht"],
       ["M", "mittel"],
       ["S", "schwer"],
-    ])
-      expect(
-        group.filter(
-          (q) =>
-            originalQuestionId(q.id).split("-").at(-1)?.startsWith(prefix) &&
-            q.difficulty === difficulty,
-        ),
-      ).toHaveLength(2);
+    ]) {
+      const targets = group.filter((q) =>
+        originalQuestionId(q.id).split("-").at(-1)?.startsWith(prefix),
+      );
+      expect(targets).toHaveLength(2);
+      for (const q of targets) {
+        const edited = latestCsvRevision(
+          "public/film-erweiterung-20261007-fragen.csv",
+          originalQuestionId(q.id),
+        );
+        expect(q.difficulty, q.id).toBe(edited?.after.difficulty ?? difficulty);
+      }
+    }
     expect(
       group.filter((q) => q.metadata.question_type === "Filmjahr"),
     ).toHaveLength(1);
@@ -176,7 +182,7 @@ it("teilt gleiche Wissensziele über Paketgrenzen und erzeugt beim Nachladen kei
   addPackages(full, contents);
   expect(full).toEqual(once);
   expect(addFilmFacts(full.questions).added).toEqual([]);
-  expect(validateBackup(structuredClone(full)).questions).toHaveLength(10889);
+  expect(validateBackup(structuredClone(full)).questions).toHaveLength(10888);
 }, 30000);
 
 it("erhält beantwortete und aktive Runden, Lerntermine, Rekorde und erworbene Rechte bei zwei wiederholten Nachladevorgängen", async () => {
@@ -214,7 +220,7 @@ it("erhält beantwortete und aktive Runden, Lerntermine, Rekorde und erworbene R
   expect(result.questions.slice(0, before.questions.length)).toEqual(
     before.questions,
   );
-  expect(result.questions).toHaveLength(10889);
+  expect(result.questions).toHaveLength(10888);
   expect(result.imports.slice(-3).map((r) => r.filename)).toEqual(
     incoming.map((p) => p.filename),
   );

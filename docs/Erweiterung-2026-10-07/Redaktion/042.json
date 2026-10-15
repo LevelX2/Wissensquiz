@@ -38,12 +38,12 @@
       ],
       "short": "Treves ist Chirurg und nimmt Merrick in ein Krankenhaus auf.",
       "context": "Frederick Treves (Anthony Hopkins) begegnet John Merrick (John Hurt) bei dessen öffentlicher Zurschaustellung. Zunächst interessiert er sich medizinisch für ihn. Im Krankenhaus entwickelt sich daraus eine persönliche Beziehung: Der Arzt muss lernen, den Menschen hinter dem außergewöhnlichen Körper wahrzunehmen.",
-      "anchor": "Der Chirurg lernt seinen Patienten als Menschen kennen.",
       "interest": "Die berufliche Ausgangslage eröffnet den zentralen Beziehungskonflikt.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Chirurg lernt seinen Patienten als Menschen kennen."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Der Film wurde in Schwarzweiß fotografiert.",
       "context": "Freddie Francis fotografierte das historische London in Schwarzweiß. Licht, Schatten und die Oberflächen von Kleidung, Haut und Industriebauten prägen dadurch die Bilder. Die Darstellung vermeidet eine farbenfrohe Kostümwelt und verbindet den Blick auf John Merrick (John Hurt) mit einer bedrückenden städtischen Umgebung.",
-      "anchor": "Schwarzweiß prägt Merricks London.",
       "interest": "Die sichtbare Gestaltung ist ein leichter Zugang zur Filmform.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Schwarzweiß prägt Merricks London."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Merrick kennt mehr vom Psalm, als Treves ihm beigebracht hat.",
       "context": "Treves (Anthony Hopkins) übt vor dem Besuch des Krankenhausleiters einige Sätze mit Merrick (John Hurt). Das wirkt zunächst einstudiert. Erst als Merrick den Psalm selbständig fortsetzt, zeigt sich seine Lesefähigkeit und Erinnerung; die Ärzte müssen ihre aus seinem Aussehen abgeleitete Einschätzung korrigieren.",
-      "anchor": "Der weitergesprochene Psalm zeigt selbständiges Wissen.",
       "interest": "Die Szene trennt einen scheinbaren Lernerfolg von wirklichem Verständnis.",
       "sources": [
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der weitergesprochene Psalm zeigt selbständiges Wissen."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Der Portier macht Merrick erneut zur zahlenden Schaulust angebotenen Attraktion.",
       "context": "Das Krankenhaus bietet John Merrick (John Hurt) Schutz, aber seine Mauern verhindern nicht jede Demütigung. Der Nachtportier (Michael Elphick) bringt zahlende Schaulustige zu ihm. Dadurch kehrt die Logik der Jahrmarktvorführung innerhalb des vermeintlichen Zufluchtsorts wieder: Ein Ortswechsel allein schafft noch keine Achtung vor seiner Würde.",
-      "anchor": "Der sichere Ort wird durch verkauften Zutritt erneut zur Schau.",
       "interest": "Ein Nebenkonflikt stellt die behauptete Sicherheit des Krankenhauses infrage.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der sichere Ort wird durch verkauften Zutritt erneut zur Schau."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Christopher Tucker entwickelte die Merrick-Maske.",
       "context": "Die Darstellung verbindet John Hurts Spiel mit Christopher Tuckers aufwendigen Prothesen. Freddie Francis fotografiert die Gestalt, Stuart Craig schafft ihre Umgebung und John Morris komponiert die Musik. Diese Credits bezeichnen verschiedene Beiträge; die sichtbare Verwandlung des Darstellers entsteht aus der besonderen Maskenarbeit.",
-      "anchor": "Tucker verwandelt Hurt; Francis fotografiert die Verwandlung.",
       "interest": "Ein konkreter handwerklicher Credit erklärt die körperliche Darstellung.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tucker verwandelt Hurt; Francis fotografiert die Verwandlung."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Der Film behandelt Merricks Leben unabhängig vom Bühnenstück.",
       "context": "Der bekannte Titel kann eine direkte Theaterverfilmung vermuten lassen. Tatsächlich bearbeitet der Film John Merricks Leben unabhängig von Bernard Pomerances Stück. Film und Bühne haben denselben historischen Menschen zum Gegenstand; diese Verbindung macht ihre Erzählungen noch nicht zu demselben Werk oder zu Vorlage und Adaption.",
-      "anchor": "Gleicher historischer Mensch, eigenständige Film- und Bühnenfassungen.",
       "interest": "Das Ziel verhindert eine naheliegende Verwechslung der Vorlagen.",
       "sources": [
         "ebert"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gleicher historischer Mensch, eigenständige Film- und Bühnenfassungen."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Die ersten New Yorker und Los-Angeles-Kinostarts lagen 1980.",
       "context": "Der Dreh begann am 15. Oktober 1979 in England. Am 3. Oktober 1980 startete der fertige Film in New York und Los Angeles, also knapp ein Jahr später. Diese Abfolge verbindet das Filmjahr mit der praktischen Herstellung, statt es mit dem historischen Leben des dargestellten Merrick zu verwechseln.",
-      "anchor": "1979 Drehbeginn, knapp ein Jahr später 1980 Veröffentlichung.",
       "interest": "Die belegte Produktionsfolge verankert das Filmjahr.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1979 Drehbeginn, knapp ein Jahr später 1980 Veröffentlichung."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "David Lynch führte Regie.",
       "context": "David Lynch inszeniert das historische Drama; Mel Brooks ist mit seiner Produktionsfirma mit dem Projekt verbunden. Die Regie verbindet Merricks Lebensgeschichte mit stilisierten Bildern am Anfang und Ende. Das Autorenprofil bleibt dadurch auch in einer Erzählung sichtbar, deren Figuren überwiegend in einer konkreten historischen Welt handeln.",
-      "anchor": "Lynch inszeniert das Drama, Brooks unterstützt die Produktion.",
       "interest": "Ein überraschender Produktionsname wird von der Regie unterschieden.",
       "sources": [
         "ebert",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Lynch inszeniert das Drama, Brooks unterstützt die Produktion."
     }
   ]
 }

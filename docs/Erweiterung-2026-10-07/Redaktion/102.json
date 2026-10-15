@@ -36,12 +36,12 @@
       ],
       "short": "John beginnt als Jurist mit Vertrauen in das Gesetz.",
       "context": "John Reid (Armie Hammer) beginnt als Jurist. Er vertraut auf die Ordnung des Gesetzes, bevor er ihre Grenzen erlebt. Seine spätere Rolle verlangt daher eine Veränderung der Mittel. Die Frage nach Gerechtigkeit bleibt bestehen, während seine anfängliche Vorstellung von ihrem sicheren institutionellen Weg zerbricht.",
-      "anchor": "Johns Anfang als Jurist macht die spätere Maskierung zu einer Veränderung seiner Mittel.",
       "interest": "Erfasst die Ausgangshaltung des Helden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Johns Anfang als Jurist macht die spätere Maskierung zu einer Veränderung seiner Mittel."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Ihre Gegner bringen sie zur Zusammenarbeit.",
       "context": "Tonto (Johnny Depp) und John Reid (Armie Hammer) verbinden ihre Wege gegen dieselben Gegner. Tonto bringt eine eigene Vorgeschichte mit; John muss erst verstehen, wie wenig seine üblichen Verfahren helfen. Ihre Partnerschaft entsteht aus einer gemeinsamen Gefahr und bleibt von verschiedenen Erfahrungen geprägt.",
-      "anchor": "Gleiche Gegner verbinden zwei Männer mit unterschiedlichen Vorgeschichten.",
       "interest": "Erklärt den Anlass der Partnerschaft.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gleiche Gegner verbinden zwei Männer mit unterschiedlichen Vorgeschichten."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Maske schützt das Geheimnis seines Überlebens.",
       "context": "John Reid (Armie Hammer) soll nach dem Angriff als tot gelten. Die Maske macht sein weiteres Handeln möglich, ohne dieses Wissen preiszugeben. Sie trennt die öffentliche Vorstellung von seiner Person von der tatsächlich handelnden Figur und erhält so einen Vorteil gegenüber den Tätern.",
-      "anchor": "Die Maske bewahrt das Geheimnis, dass der für tot gehaltene John überlebt hat.",
       "interest": "Erklärt die konkrete taktische Funktion des Kostüms.",
       "sources": [
         "disney"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Maske bewahrt das Geheimnis, dass der für tot gehaltene John überlebt hat."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Korruption verhindert die erwartete gesetzliche Hilfe.",
       "context": "John Reid (Armie Hammer) erwartet zunächst, dass die zuständige Macht gegen Verbrechen vorgeht. Verbindungen zwischen dieser Macht und seinen Gegnern erschüttern die Erwartung. Sein Konflikt betrifft deshalb mehr als fehlenden Mut: Er muss entscheiden, wie Gerechtigkeit verfolgt werden kann, wenn offizielle Verfahren den Tätern dienen.",
-      "anchor": "Die Verbindung von Amt und Verbrechen untergräbt Johns Vertrauen in den üblichen Weg.",
       "interest": "Erklärt die moralische Veränderung hinter dem Abenteuer.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Verbindung von Amt und Verbrechen untergräbt Johns Vertrauen in den üblichen Weg."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ein alter Tonto führt durch die Rückschau.",
       "context": "Der alte Tonto (Johnny Depp) erzählt einem Jungen (Mason Cook) von den früheren Ereignissen. Die Rahmenhandlung verleiht der Geschichte eine erkennbare erzählende Person. Das Publikum hört das Abenteuer somit als Rückblick, in dem Erinnerung, Selbstbild und die Weitergabe einer Legende zusammenkommen.",
-      "anchor": "Ein alter Beteiligter vermittelt das Abenteuer als erinnerte Legende.",
       "interest": "Erklärt die Bedeutung der Rahmenhandlung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein alter Beteiligter vermittelt das Abenteuer als erinnerte Legende."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Er erhielt eine Uhr, nachdem er die Silberstelle verraten hatte.",
       "context": "Als Kind erhielt Tonto eine Taschenuhr für den Hinweis auf Silber. Die Männer, die von dem Wissen profitierten, vernichteten anschließend seinen Stamm. Der kleine persönliche Gewinn steht so einer gewaltigen Folge gegenüber. Tontos späteres Handeln trägt die Last eines Tauschs, dessen Bedeutung er damals nicht überblickte.",
-      "anchor": "Die kleine Uhr erinnert an den Hinweis, der den Tätern den Zugang zum Silber gab.",
       "interest": "Verbindet das Erinnerungsobjekt mit der persönlichen Schuld.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die kleine Uhr erinnert an den Hinweis, der den Tätern den Zugang zum Silber gab."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2013 liegt achtzig Jahre nach 1933.",
       "context": "Die Rahmenhandlung versetzt den alten Tonto (Johnny Depp) in das Jahr 1933. Die Kinoadaption erschien 2013, achtzig Jahre später. Der doppelte Zeitabstand ist hilfreich: Innerhalb des Films erinnert sich Tonto an den Westen, während das Publikum eine wesentlich später hergestellte Bearbeitung sieht.",
-      "anchor": "1933 erzählt Tonto; 2013 erscheint die Bearbeitung dieser erzählten Legende.",
       "interest": "Verknüpft Veröffentlichung und konkreten Erzählrahmen.",
       "sources": [
         "kritik",
         "disney"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1933 erzählt Tonto; 2013 erscheint die Bearbeitung dieser erzählten Legende."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Verbinski inszenierte diese Fassung.",
       "context": "Gore Verbinski inszenierte die Kinoadaption nach dem Drehbuch von Justin Haythe, Ted Elliott und Terry Rossio. Die Filmcredits trennen damit Inszenierung und Schreiben. Der Wechsel zwischen der Begegnung mit dem alten Tonto (Johnny Depp) und dem großen Westernabenteuer gibt der Regie zwei unterschiedliche zeitliche Räume zu verbinden.",
-      "anchor": "Verbinski verbindet den Rückblick des alten Tonto mit dem erzählten Western.",
       "interest": "Verbindet den Credit mit der zweistufigen Erzählung.",
       "sources": [
         "disney"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Verbinski verbindet den Rückblick des alten Tonto mit dem erzählten Western."
     }
   ]
 }

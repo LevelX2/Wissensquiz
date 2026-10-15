@@ -36,12 +36,12 @@
       ],
       "short": "Kiki (Originalstimme Minami Takayama) beginnt das selbstständige Jahr einer jungen Hexe.",
       "context": "Kiki (Originalstimme Minami Takayama) beginnt das selbstständige Jahr einer jungen Hexe. Der Aufbruch verlangt nicht nur Magie, sondern ein Zuhause, Einkommen und Beziehungen in einer neuen Stadt.",
-      "anchor": "Das Hexenjahr ist Kikis Schritt in die Selbstständigkeit.",
       "interest": "Das Hexenjahr ist Kikis Schritt in die Selbstständigkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Hexenjahr ist Kikis Schritt in die Selbstständigkeit."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Osono (Originalstimme Keiko Toda) bietet Kiki (Originalstimme Minami Takayama) ein Zimmer bei ihrer Bäckerei.",
       "context": "Osono (Originalstimme Keiko Toda) bietet Kiki (Originalstimme Minami Takayama) ein Zimmer bei ihrer Bäckerei. Ihre Gastfreundschaft schafft die Grundlage, auf der Kiki ihren eigenen Dienst aufbauen kann.",
-      "anchor": "Die Bäckerei wird Kikis neuer Ausgangspunkt.",
       "interest": "Die Bäckerei wird Kikis neuer Ausgangspunkt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Bäckerei wird Kikis neuer Ausgangspunkt."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Jiji (Originalstimme Rei Sakuma) ersetzt vorübergehend das verlorene Katzenstofftier.",
       "context": "Jiji (Originalstimme Rei Sakuma) ersetzt vorübergehend das verlorene Katzenstofftier. Kiki (Originalstimme Minami Takayama) muss das echte Geschenk zurückholen, damit der Helfer aus seiner Rolle befreit werden kann.",
-      "anchor": "Der lebende Jiji spielt das verlorene Stofftier.",
       "interest": "Der lebende Jiji spielt das verlorene Stofftier.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der lebende Jiji spielt das verlorene Stofftier."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Kiki (Originalstimme Minami Takayama) kann nicht mehr fliegen.",
       "context": "Kiki (Originalstimme Minami Takayama) kann nicht mehr fliegen. Auch die Verständigung mit Jiji (Originalstimme Rei Sakuma) verändert sich; die praktische Arbeitskrise ist zugleich eine Krise ihres Selbstvertrauens.",
-      "anchor": "Ohne Flugkraft gerät Kikis Unabhängigkeit ins Stocken.",
       "interest": "Ohne Flugkraft gerät Kikis Unabhängigkeit ins Stocken.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ohne Flugkraft gerät Kikis Unabhängigkeit ins Stocken."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ursula (Originalstimme Minami Takayama) vergleicht die Krise mit einer Blockade beim Malen.",
       "context": "Ursula (Originalstimme Minami Takayama) vergleicht die Krise mit einer Blockade beim Malen. Sie gibt Kiki damit einen verständlichen Zugang zur Erschöpfung, ohne eine äußere Wunderlösung zu versprechen.",
-      "anchor": "Die Malerin erkennt in Kikis Krise eine kreative Blockade.",
       "interest": "Die Malerin erkennt in Kikis Krise eine kreative Blockade.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Malerin erkennt in Kikis Krise eine kreative Blockade."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Kiki (Originalstimme Minami Takayama) leiht einen Besen und gewinnt ihre Flugkraft zurück.",
       "context": "Kiki (Originalstimme Minami Takayama) leiht einen Besen und gewinnt ihre Flugkraft zurück. Tombo (Originalstimme Kappei Yamaguchi) hängt nach einem Luftschiffunfall an einem Seil; die akute Hilfe ersetzt ihr bisheriges Grübeln durch Handeln.",
-      "anchor": "Der geliehene Besen wird zum Werkzeug der Rettung.",
       "interest": "Der geliehene Besen wird zum Werkzeug der Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der geliehene Besen wird zum Werkzeug der Rettung."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "Der Film wurde 1989 erstmals veröffentlicht.",
       "context": "1989 wurde Kikis Geschichte verfilmt. Eiko Kadonos Buch erschien 1985, vier Jahre zuvor. Der Film fügte unter anderem den Verlust der Flugkraft und das Luftschiff-Finale hinzu, um die Krise der Selbstständigkeit deutlicher auszuarbeiten.",
-      "anchor": "Kadonos Buch von 1985 wurde vier Jahre später, 1989, mit einer zusätzlichen Flugkrise verfilmt.",
       "interest": "Kadonos Buch von 1985 wurde vier Jahre später, 1989, mit einer zusätzlichen Flugkrise verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kadonos Buch von 1985 wurde vier Jahre später, 1989, mit einer zusätzlichen Flugkrise verfilmt."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Regie: Hayao Miyazaki.",
       "context": "Miyazaki begann als Produzent und übernahm später selbst die Regie. Aus Kadonos eher episodischer Vorlage entwickelte er einen stärkeren Bogen von Aufbruch, Erschöpfung und wiedergefundenem Zutrauen.",
-      "anchor": "Miyazaki begann als Produzent und übernahm später selbst die Regie.",
       "interest": "Miyazaki begann als Produzent und übernahm später selbst die Regie.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Miyazaki begann als Produzent und übernahm später selbst die Regie."
     }
   ]
 }

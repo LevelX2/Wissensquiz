@@ -36,12 +36,12 @@
       ],
       "short": "Nam-yi (Park Hae-il) setzt vor allem den Bogen ein.",
       "context": "Nam-yi (Park Hae-il) setzt vor allem den Bogen ein. Distanz, Zielrichtung und verfügbare Pfeile bestimmen dadurch die Auseinandersetzungen. Stärke allein entscheidet nicht, wenn der Gegner verfolgt und aus der Deckung schießt. Der Rettungsweg verlangt, Raum und Bewegungen vorauszudenken, statt jede Begegnung im direkten Nahkampf zu lösen.",
-      "anchor": "Nam-yis wichtigste Waffe verlangt Distanz und Voraussicht.",
       "interest": "Die Waffe bestimmt die Form der Verfolgung.",
       "sources": [
         "kofic"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Nam-yis wichtigste Waffe verlangt Distanz und Voraussicht."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Nam-yi (Park Hae-il) sucht seine Schwester Ja-in (Moon Chae-won).",
       "context": "Nam-yi (Park Hae-il) sucht seine Schwester Ja-in (Moon Chae-won). Der militärische Angriff erhält damit einen konkreten persönlichen Einsatz. Sein Ziel ist nicht, eine Armee als Ganzes zu besiegen. Er muss eine einzelne Person finden und aus einem weit größeren Machtapparat herausführen.",
-      "anchor": "Der Krieg wird für Nam-yi zur Suche nach seiner Schwester.",
       "interest": "Die Beziehung erklärt den persönlichen Einsatz.",
       "sources": [
         "kofic"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Krieg wird für Nam-yi zur Suche nach seiner Schwester."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Invasion fällt in die Hochzeit von Ja-in (Moon Chae-won) und Seo-goon (Kim Mu-yeol).",
       "context": "Die Invasion fällt in die Hochzeit von Ja-in (Moon Chae-won) und Seo-goon (Kim Mu-yeol). Ein geplanter Neubeginn wird dadurch unmittelbar zur Trennung. Die Geschichte muss keinen langen Übergang zwischen häuslichem Glück und Krieg erzählen. Das gemeinsame Fest trägt bereits die Personen zusammen, deren Wege anschließend auseinandergerissen werden.",
-      "anchor": "Die Hochzeit wird durch den Angriff zur Trennung.",
       "interest": "Der Anlass gibt der Gewalttat ein konkretes Vorher.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Hochzeit wird durch den Angriff zur Trennung."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Nam-yi (Park Hae-il) nimmt den Prinzen Dorgon (Park Ki-woong) als Geisel.",
       "context": "Nam-yi (Park Hae-il) nimmt den Prinzen Dorgon (Park Ki-woong) als Geisel. Die vorübergehende Kontrolle über eine wichtige Person soll den Gefangenen einen Vorsprung geben. Der Plan ersetzt keine dauerhafte militärische Überlegenheit. Er schafft einen begrenzten Zeitraum, den Ja-in (Moon Chae-won) und Seo-goon (Kim Mu-yeol) nutzen müssen.",
-      "anchor": "Die Geisel verschafft den Flüchtenden einen Vorsprung.",
       "interest": "Ein begrenzter Vorteil ermöglicht die Rettung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Geisel verschafft den Flüchtenden einen Vorsprung."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ja-in (Moon Chae-won) schießt auf Nam-yis Pferd, sodass er aus der Schusslinie fällt.",
       "context": "Ja-in (Moon Chae-won) schießt auf Nam-yis Pferd, sodass er aus der Schusslinie fällt. Die Gerettete greift damit selbst in den Ausgang der Verfolgung ein. Ihre Hilfe wirkt zunächst wie ein Angriff auf den eigenen Bruder. Entscheidend ist die Folge der Handlung, nicht ihr isolierter Anschein.",
-      "anchor": "Der Schuss auf das Pferd schützt den Reiter.",
       "interest": "Die Gerettete wird selbst zur handelnden Retterin.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Schuss auf das Pferd schützt den Reiter."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Nam-yi (Park Hae-il) zieht den Pfeil aus seiner eigenen Wunde und schießt damit auf Jyuushinta (Ryu Seung-ryong).",
       "context": "Nam-yi (Park Hae-il) zieht den Pfeil aus seiner eigenen Wunde und schießt damit auf Jyuushinta (Ryu Seung-ryong). Die Waffe des Gegners wird so zum Mittel der letzten Gegenwehr. Die Handlung hebt die Verletzung jedoch nicht auf. Sieg und eigener Tod liegen in diesem Moment unmittelbar nebeneinander.",
-      "anchor": "Der treffende Pfeil wird zur letzten Gegenwehr.",
       "interest": "Das Mittel des Gegners kehrt zu ihm zurück.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der treffende Pfeil wird zur letzten Gegenwehr."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Erstveröffentlichung 2011; Korean Film Council nennt den 10. August, Wikipedia den 11. August. Das Filmjahr ist übereinstimmend 2011.",
       "context": "„War of the Arrows“ erschien 2011. Kim Han-mins „Roaring Currents“ folgte 2014, drei Jahre später. Der Korean Film Council verbindet beide Filme als Entwicklung seiner historischen Actionarbeit. Die Folge 2011–2014 führt vom einzelnen Bogenschützen zur großen Seeschlacht. Das zeitliche Paar ordnet die Regiearbeit ein, ohne ihre unterschiedlichen historischen Ereignisse zusammenzuziehen.",
-      "anchor": "Pfeile 2011, Seeschlacht 2014: drei Jahre zwischen Kim Han-mins Historienfilmen.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "hintergrund"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Pfeile 2011, Seeschlacht 2014: drei Jahre zwischen Kim Han-mins Historienfilmen."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Kim Han-min schrieb und inszenierte „War of the Arrows“.",
       "context": "Kim Han-min schrieb und inszenierte „War of the Arrows“. Park Hae-il spielt den Bogenschützen, dessen Aufgabe eine familiäre Rettung ist. Der Korean Film Council beschreibt den Film als frühen Schritt in Kims historische Actionarbeit. Die Kriegsumgebung wird dadurch nicht allein als Schlachtordnung erzählt, sondern als Hindernis auf einem persönlichen Such- und Fluchtweg.",
-      "anchor": "Kim Han-min führt die historische Invasion auf einen familiären Rettungsweg zurück.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "hintergrund"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kim Han-min führt die historische Invasion auf einen familiären Rettungsweg zurück."
     }
   ]
 }

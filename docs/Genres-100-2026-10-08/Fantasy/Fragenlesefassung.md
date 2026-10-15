@@ -19,7 +19,6 @@ Welches Reisegeschenk wünscht sich Belle (Josette Day) in „Es war einmal“?
 
 Belle (Josette Day) verlangt im Gegensatz zu ihren Schwestern ein bescheidenes Geschenk. Doch gerade diese kleine Bitte wird folgenreich: Ihr Vater (Marcel André) pflückt im fremden Schlossgarten eine Rose und zieht damit den Zorn des Biests (Jean Marais) auf sich. Der Film macht aus einem scheinbar harmlosen Familienwunsch den Auslöser einer gefährlichen Begegnung.
 
-Merksatz: Die bescheidene Rose hat große Folgen.
 
 - Eine Perlenkette: Eine Perlenkette gehört nicht zu Belles Wunsch.
 - Eine Rose: Belle erbittet nur eine Rose.
@@ -41,7 +40,6 @@ Welche Bitte richtet das Biest (Jean Marais) beim Abendessen wiederholt an Belle
 
 Belle (Josette Day) begegnet dem Biest (Jean Marais) nicht nur als Gefangene einer Drohung. Bei den Mahlzeiten stellt es ihr immer wieder dieselbe Heiratsfrage, die sie zunächst ablehnt. Ihre Antwort wird nicht durch einen Befehl ersetzt. So bekommen die wiederholten Abendessen eine eigene Spannung: Zwischen äußerem Schrecken, höflicher Zuwendung und wachsendem Vertrauen verändert sich ihre Beziehung.
 
-Merksatz: Eine wiederkehrende Frage am Tisch.
 
 - Sie möge seinen Schatz bewachen.: Die Bewachung des Schatzes ist nicht seine wiederkehrende Bitte.
 - Sie möge seinen Namen erraten.: Ein Namenrätsel gehört nicht zu diesen Abendessen.
@@ -63,7 +61,6 @@ Wodurch gelangt Belle (Josette Day) in „Es war einmal“ unmittelbar vom Schlo
 
 Das Biest (Jean Marais) überlässt Belle (Josette Day) mehrere kostbare Dinge, deren Funktionen verschieden sind. Der Spiegel zeigt ihr den kranken Vater (Marcel André), während der Handschuh die unmittelbare Reise zu ihm ermöglicht. Der Schlüssel öffnet dagegen den Schatzpavillon. Diese Trennung ist wichtig: Sehen, Reisen und Zutritt werden durch unterschiedliche Zaubermittel ermöglicht, die später nicht alle in sicheren Händen bleiben.
 
-Merksatz: Der Handschuh reist, der Spiegel zeigt.
 
 - Durch einen goldenen Schlüssel: Der Schlüssel gehört zum Pavillon, nicht zum Ortswechsel.
 - Durch einen verzauberten Spiegel: Der Spiegel zeigt Entferntes; für die Reise nutzt sie den Handschuh.
@@ -85,7 +82,6 @@ Wie verzögern Belles (Josette Day) Schwestern in „Es war einmal“ ihre verei
 
 Belle (Josette Day) darf nur für eine Woche zu ihrer Familie zurückkehren. Félicie (Mila Parély) und Adélaïde (Nane Germon) beneiden jedoch ihr neues Leben und spielen ihr größere Herzlichkeit vor, als sie empfinden. Belle lässt sich dadurch zum längeren Bleiben bewegen. Die Verzögerung gefährdet das Biest (Jean Marais), während die scheinbare familiäre Nähe einen eigennützigen Plan verdeckt.
 
-Merksatz: Falsche Herzlichkeit verlängert die Woche.
 
 - Sie täuschen besonders herzliche Zuneigung vor.: Vorgespielte Zuneigung bewegt Belle zum längeren Bleiben.
 - Sie drohen, den Vater allein zu lassen.: Eine Drohung, den Vater zu verlassen, ist nicht ihr Mittel.
@@ -107,7 +103,6 @@ Was trifft Avenant (Jean Marais) beim Einbruch in den Schatzpavillon in „Es wa
 
 Avenant (Jean Marais) und Ludovic (Michel Auclair) wollen den Schatz des Biests (ebenfalls Jean Marais) an sich bringen. Aus Misstrauen gegenüber dem Schlüssel dringen sie über das Glasdach ein. Doch der Pavillon hat einen eigenen Schutz: Die Statue der Diana wird lebendig und trifft Avenant mit einem Pfeil. Zugleich verschiebt das Finale die monströse Gestalt zwischen den von Marais gespielten Figuren.
 
-Merksatz: Diana bewacht den Pavillon.
 
 - Ein Hieb einer lebendig gewordenen Ritterrüstung: Eine Ritterrüstung führt den Angriff nicht aus.
 - Ein Pfeil der lebendig gewordenen Diana-Statue: Die Diana-Statue erwacht und schießt auf Avenant.
@@ -129,7 +124,6 @@ Wie wurden die sich scheinbar selbst entzündenden Kerzen in „Es war einmal“
 
 Die scheinbar selbst entzündeten Kerzen gehören zur belebten Architektur des Schlosses. Geoffrey O’Brien erläutert im Criterion-Essay das einfache Aufnahmeprinzip: Ausgeblasene Kerzen werden rückwärts gezeigt und scheinen dadurch von selbst aufzuleuchten. René Clément war an dieser Passage beteiligt. Der Zauber entsteht somit aus einer Umkehr gewöhnlicher Bewegung, die im fertigen Bild wie eine selbständige Handlung der Dinge wirkt.
 
-Merksatz: Ausblasen rückwärts wird Entzünden.
 
 - Durch Einzelbildaufnahmen kleiner Flammenmodelle: Flammenmodelle in Einzelbildaufnahme erklären diesen Trick nicht.
 - Durch optische Mehrfachbelichtung: Die Passage beruht nicht auf einer Flammen-Mehrfachbelichtung.
@@ -151,7 +145,6 @@ In welchem Jahr wurde „Es war einmal“ mit Josette Day erstmals veröffentlic
 
 Es war einmal erschien 1946; Jean Cocteaus Orpheus folgte 1950, vier Jahre später. Beide Filme verbinden vertraute Erzählstoffe mit einer eigens erfundenen Bildwelt, setzen aber unterschiedliche Schauplätze ein. Hier bestimmen das Schloss und seine belebten Gegenstände das Märchen. Im späteren Film geraten moderne Straßen, Autos und Spiegel in eine Geschichte zwischen Alltag und Jenseits.
 
-Merksatz: Märchen 1946, Orpheus 1950: vier Jahre.
 
 - 1942: 1942 liegt vier Jahre vor dem Film.
 - 1950: 1950 gehört zu Cocteaus Orpheus, nicht zu diesem Film.
@@ -173,7 +166,6 @@ Wer ist für die Hauptregie von „Es war einmal“ mit Josette Day offiziell ge
 
 Criterion führt Jean Cocteau als Regisseur dieser französischen Märchenfassung. René Clément ist als technischer Berater genannt und wirkte bei konkreten Aufnahmen praktisch mit. Diese Beiträge sind auseinanderzuhalten, ohne den Berater zum zweiten offiziellen Hauptregisseur zu machen. Die Inszenierung verwandelt das Schloss mit bewegten Händen, Gesichtern und Leuchtern in einen Raum, dessen Gegenstände selbst auf die Besucher reagieren.
 
-Merksatz: Cocteau als Regisseur, Clément als Berater.
 
 - Jean Cocteau: Jean Cocteau trägt den Hauptregiecredit.
 - Marcel Carné: Marcel Carné führte bei diesem Film nicht Regie.
@@ -199,7 +191,6 @@ Welchen Beruf hat Orpheus (Jean Marais) in „Orpheus“?
 
 Orpheus (Jean Marais) gehört zur literarischen Öffentlichkeit des modernen Frankreichs. Schon der Besuch im Café der Dichter verbindet den antiken Namen mit einem gegenwärtigen Milieu. Seine späteren Erfahrungen betreffen daher nicht nur Liebe und Tod, sondern auch die Suche nach dichterischer Sprache. Der Film verschiebt die bekannte Unterweltreise in eine Welt mit Autos, Polizei und konkurrierenden jungen Autoren.
 
-Merksatz: Der antike Name gehört einem modernen Dichter.
 
 - Maler: Er ist hier kein Maler.
 - Komponist: Der moderne Titelheld arbeitet nicht als Komponist.
@@ -221,7 +212,6 @@ Was verkörpert die geheimnisvolle Prinzessin (María Casares) in „Orpheus“?
 
 Die Prinzessin (María Casares) tritt zunächst als rätselhafte Frau mit Chauffeur und Begleitern auf. Ihre eigentliche Funktion ist jedoch Orpheus’ (Jean Marais) Tod. Dass er sich zu ihr hingezogen fühlt, macht die Unterweltreise komplizierter als eine reine Rettungsmission. Im Criterion-Essay erläutert Mark Polizzotti diese Verbindung von Todesfigur und Begehren als Kern der besonderen Liebeskonstellation des Films.
 
-Merksatz: Eine Todesfigur wird zur begehrten Frau.
 
 - Die Hüterin seiner Erinnerungen: Sie ist keine bloße Hüterin seiner Erinnerungen.
 - Die Herrscherin seiner Träume: Ihre Funktion ist die Todesgestalt, nicht nur eine Herrschaft über Träume.
@@ -243,7 +233,6 @@ Was fesselt Orpheus (Jean Marais) in „Orpheus“ an dem abgestellten Rolls-Roy
 
 Orpheus (Jean Marais) lässt den Wagen in seiner Garage stehen und verbringt immer mehr Zeit beim Radio. Die ausgestrahlten Sätze erscheinen ihm als Zugang zu einer besonderen dichterischen Sprache. Während Eurydice (Marie Déa) versucht, ihn an ihrem Leben teilhaben zu lassen, zieht er sich in dieses Hören zurück. Eine alltägliche technische Einrichtung wird so zum Medium zwischen Kunst, Geheimnis und Vernachlässigung.
 
-Merksatz: Das Radio verdrängt das Gespräch zu Hause.
 
 - Rätselhafte Dichtungen aus dem Autoradio: Orpheus hört besessen die rätselhaften Radiosendungen.
 - Verborgene Manuskripte im Handschuhfach: Versteckte Manuskripte sind nicht die Quelle seiner Obsession.
@@ -265,7 +254,6 @@ Welche Grenze durchschreitet Orpheus (Jean Marais) mit besonderen Handschuhen in
 
 Heurtebise (François Périer) führt Orpheus (Jean Marais) auf den Weg ins Jenseits. Dazu legt der Dichter besondere Handschuhe an und tritt durch einen Spiegel. Ein Gegenstand, der normalerweise nur das eigene Bild zurückwirft, wird damit zum begehbaren Übergang. Dahinter liegt die Zone, deren Ruinen und unklare Bewohner die Reise räumlich erfahrbar machen, ohne die Regeln der anderen Welt vollständig zu erklären.
 
-Merksatz: Der Spiegel reflektiert nicht nur: Er öffnet sich.
 
 - Eine geschlossene Garagentür: Eine Garagentür ist nicht der Übergang ins Jenseits.
 - Die Oberfläche eines Spiegels: Mit den Handschuhen durchschreitet er den Spiegel.
@@ -287,7 +275,6 @@ Welcher unbeabsichtigte Blick lässt Eurydice (Marie Déa) in „Orpheus“ erne
 
 Orpheus (Jean Marais) darf Eurydice (Marie Déa) nach ihrer Rückkehr nicht ansehen. Diese Bedingung wird in der modernen Alltagswelt besonders schwer einzuhalten. Als sie hinten im Wagen sitzt, fällt sein Blick unbeabsichtigt in den Rückspiegel, und sie verschwindet erneut. Cocteau ersetzt die direkte Wendung des antiken Helden durch einen technisch vermittelten Blick, der dieselbe unerbittliche Folge hat.
 
-Merksatz: Der Rückspiegel verletzt das Blickverbot.
 
 - Ein Blick durch die Windschutzscheibe: Die Windschutzscheibe ist nicht die entscheidende Blickfläche.
 - Ein Blick auf ein Foto: Ein Foto löst ihr erneutes Verschwinden nicht aus.
@@ -309,7 +296,6 @@ In welchem Zustand kehren Orpheus (Jean Marais) und Eurydice (Marie Déa) am End
 
 Die Prinzessin (María Casares) verzichtet auf Orpheus (Jean Marais) und nimmt das drohende Urteil auf sich. Er und Eurydice (Marie Déa) erhalten ihr gemeinsames Leben zurück, ohne sich an die Ereignisse zu erinnern. Ihre Rettung ist damit kein bewusster Triumph über die andere Welt. Der Neubeginn beruht auf einem Opfer, dessen Bedeutung die Geretteten selbst nicht mehr kennen.
 
-Merksatz: Ein Neubeginn ohne Wissen um das Opfer.
 
 - Mit Erinnerung nur an die Unterwelt: Eine isolierte Erinnerung an die Unterwelt bleibt ihnen nicht.
 - Ohne die Fähigkeit, einander zu sehen: Das frühere Blickverbot ist nicht ihr endgültiger Lebenszustand.
@@ -331,7 +317,6 @@ In welchem Jahr wurde „Orpheus“ mit Jean Marais erstmals veröffentlicht?
 
 Jean Cocteau hatte den Orpheus-Stoff bereits 1926 für das Theater bearbeitet. Der Film folgte 1950, also 24 Jahre später. Mark Polizzotti erläutert diesen Vorlauf im Criterion-Essay. Die spätere Bearbeitung nutzt die Möglichkeiten des Kinos für Übergänge, Rückwärtsbewegung und moderne Alltagsgegenstände. Ein früherer Bühnenstoff wird dadurch nicht einfach abgefilmt, sondern mit anderen Mitteln erneut erfunden.
 
-Merksatz: Bühnenstück 1926, Film 1950: 24 Jahre.
 
 - 1950: Orpheus erschien 1950.
 - 1946: 1946 ist das Jahr von Cocteaus Es war einmal.
@@ -353,7 +338,6 @@ Wer führte bei „Orpheus“ mit Jean Marais die Hauptregie?
 
 Jean Cocteau verbindet in seiner Inszenierung eine antike Unterweltgeschichte mit dem Frankreich seiner Gegenwart. Orpheus (Jean Marais) bewegt sich zwischen Café, Garage und einer Zone aus Ruinen. Der Wechsel der Räume hält die Grenze zwischen Alltag und Todeswelt zugleich sichtbar und unsicher. Die offiziell belegte Regie gehört damit zu einer Gestaltung, die den Mythos durch konkrete filmische Übergänge erneuert.
 
-Merksatz: Cocteaus Mythos lebt zwischen Garage und Jenseits.
 
 - Robert Bresson: Robert Bresson inszenierte diesen Film nicht.
 - Jean Cocteau: Jean Cocteau ist der Hauptregisseur.
@@ -379,7 +363,6 @@ Welche Stellung hatte Ahmad (John Justin) vor seiner Gefangenschaft in „Der Di
 
 Ahmad (John Justin) erscheint zunächst als blinder Bettler, erzählt aber eine andere Vergangenheit. Als König wollte er sein Volk aus der Nähe kennenlernen. Sein Wesir Jaffar (Conrad Veidt) nutzte den verkleideten Ausflug, um ihn verhaften zu lassen und selbst die Macht zu übernehmen. Die Rückblende trennt damit den sichtbaren Zustand des Erzählers von der politischen Stellung, die er verloren hat.
 
-Merksatz: Hinter dem Bettler steckt der entmachtete König.
 
 - Kaufmann aus Basra: Er war nicht als Kaufmann aus Basra tätig.
 - Hauptmann der Palastwache: Die Palastwache war nicht seine frühere Stellung.
@@ -401,7 +384,6 @@ Welche Gestalt erhält Abu (Sabu) durch Jaffars (Conrad Veidt) Zauber in „Der 
 
 Jaffar (Conrad Veidt) trennt die Freunde nicht einfach durch Gefangenschaft: Ahmad (John Justin) wird blind, Abu (Sabu) erhält die Gestalt eines Hundes. Die Folgen der Machtübernahme sind dadurch auch körperlich sichtbar. Wenn der blinde Erzähler mit seinem Hund auftritt, hat diese scheinbar gewöhnliche Begleitung bereits eine verborgene Vorgeschichte. Erst später werden die beiden Zauber wieder aufgehoben.
 
-Merksatz: Der Hund ist der verwandelte Abu.
 
 - Die eines Hundes: Jaffar verwandelt Abu in einen Hund.
 - Die eines Affen: Ein Affe ist nicht Abus verwandelte Gestalt.
@@ -423,7 +405,6 @@ Was bietet Jaffar (Conrad Veidt) dem Sultan (Miles Malleson) in „Der Dieb von 
 
 Der Sultan (Miles Malleson) begeistert sich für Spielzeuge und technische Wunder. Jaffar (Conrad Veidt) bietet ihm deshalb ein mechanisches Pferd, das fliegen kann, und verlangt im Gegenzug die Hand der Prinzessin (June Duprez). Der Handel zeigt, wie leicht sich der Herrscher durch seine Sammelleidenschaft lenken lässt. Die Tochter wird dabei wie ein weiterer verfügbarer Besitz behandelt, obwohl sie andere Wünsche hat.
 
-Merksatz: Das Wunderpferd kauft die Zustimmung des Sultans.
 
 - Eine Uhr mit sprechenden Figuren: Eine Figuren-Uhr ist nicht das angebotene Wunderwerk.
 - Ein mechanisches fliegendes Pferd: Das fliegende mechanische Pferd verführt den Sultan zum Handel.
@@ -445,7 +426,6 @@ Wie wird der Sultan (Miles Malleson) durch die Silberne Jungfrau (Mary Morris) i
 
 Jaffar (Conrad Veidt) hat die Spielzeugliebe des Sultans (Miles Malleson) bereits für sich genutzt. Die Silberne Jungfrau (Mary Morris) setzt diesen Zusammenhang tödlich fort: Ihre Umarmung verbirgt einen Stich in den Rücken. Der Herrscher verwechselt das technische Wunder mit harmloser Unterhaltung. Was ihn zuvor für einen Handel empfänglich machte, öffnet nun auch den Weg zu seiner Beseitigung.
 
-Merksatz: Die Automatenumarmung verbirgt den Stich.
 
 - Ihr Gesang versetzt ihn in einen tödlichen Schlaf.: Gesang und Schlaf sind nicht ihr Tötungsmechanismus.
 - Ihr Kuss überträgt ein langsam wirkendes Gift.: Ein vergifteter Kuss ist nicht die Falle.
@@ -467,7 +447,6 @@ Was ermöglicht der aus dem Tempel geholte magische Edelstein in „Der Dieb von
 
 Abu (Sabu) verliert Ahmad (John Justin) nach dem Schiffbruch aus den Augen. Mithilfe des Dschinns (Rex Ingram) gelangt er an den gefährlich bewachten Edelstein, dessen Bilder die räumliche Trennung überwinden. Der Gegenstand bringt die Freunde wieder zusammen und zeigt später ihre Gegner. Er ermöglicht Wissen über entfernte Ereignisse, ohne dadurch schon die nötige Handlung zu ersetzen.
 
-Merksatz: Das Auge zeigt, was außerhalb der eigenen Reichweite liegt.
 
 - Er lässt seinen Besitzer unsichtbar werden.: Unsichtbarkeit ist nicht seine Funktion.
 - Er macht fremde Gedanken hörbar.: Der Edelstein überträgt keine fremden Gedanken als Stimmen.
@@ -489,7 +468,6 @@ Wie verbraucht Abu (Sabu) in „Der Dieb von Bagdad“ unbeabsichtigt seinen let
 
 Ahmad (John Justin) sieht durch das Allsehende Auge, wie die Prinzessin (June Duprez) verzaubert wird, und gerät mit Abu (Sabu) in Streit. Abus zorniger Wunsch schickt den Freund nach Bagdad, obwohl der Junge dies nicht als wohlüberlegte Nutzung seiner letzten Möglichkeit geplant hat. Magische Macht nimmt die unbedachte Äußerung wörtlich. Aus einem persönlichen Konflikt entsteht dadurch eine neue Gefangenschaft.
 
-Merksatz: Der unbedachte Satz ist schon der letzte Wunsch.
 
 - Er wünscht Ahmad (John Justin) im Zorn nach Bagdad.: Seine zornige Äußerung versetzt Ahmad nach Bagdad.
 - Er wünscht sich im Hunger ein Festmahl.: Das Festmahl gehört nicht zum unbeabsichtigten letzten Wunsch.
@@ -511,7 +489,6 @@ In welchem Jahr wurde „Der Dieb von Bagdad“ mit Sabu erstmals veröffentlich
 
 Die frühere Stummfilmfassung Der Dieb von Bagdad erschien 1924; die Technicolor-Neugestaltung folgte 1940, 16 Jahre später. AFI nennt den Vorgänger in seiner Produktionsgeschichte. Der neue Film ist keine bloße Farbkopie: Andere Figurenkonstellationen und spektakuläre Zauberbilder prägen seine eigene Abenteuerhandlung. Die Verbindung der Titel bezeichnet deshalb eine Stoffgeschichte, während die Filmfassungen weiterhin getrennt identifiziert werden müssen.
 
-Merksatz: Stummfilm 1924, Technicolor 1940: 16 Jahre.
 
 - 1936: 1936 liegt vier Jahre vor dieser Veröffentlichung.
 - 1940: Die Technicolor-Fassung erschien 1940.
@@ -533,7 +510,6 @@ Welches Team trägt die drei offiziellen Hauptregiecredits von „Der Dieb von B
 
 AFI und Criterion nennen Ludwig Berger, Michael Powell und Tim Whelan für die Hauptregie. Die Produktionsgeschichte berichtet darüber hinaus regieführende Beiträge von Alexander und Zoltan Korda sowie William Cameron Menzies. Eine Frage nach dem offiziellen Team muss deshalb präziser sein als eine pauschale Frage nach jeder beteiligten Regiearbeit. Der zusammengesetzte Credit spiegelt die aufwendige Entstehung dieses Technicolor-Abenteuers wider.
 
-Merksatz: Drei Hauptcredits: Berger, Powell, Whelan.
 
 - Victor Fleming, King Vidor und George Cukor: Dieses Team ist nicht für die Hauptregie der Sabu-Fassung genannt.
 - Merian C. Cooper, Ernest B. Schoedsack und Irving Pichel: Cooper, Schoedsack und Pichel sind nicht ihr Hauptregieteam.
@@ -559,7 +535,6 @@ Was trägt Achmed zu Beginn von „Die Abenteuer des Prinzen Achmed“ unerwarte
 
 Ein Zauberer präsentiert am Hof ein Pferd, das fliegen kann. Achmed widerspricht dessen Forderung und lässt sich anschließend zum Ausprobieren überreden. Weil er die Steuerung noch nicht kennt, trägt ihn das Tier immer höher und weit vom Hof weg. Der Aufbruch ist dadurch kein geplanter Abenteuerzug, sondern entsteht aus einem Konflikt und dem leichtfertigen Umgang mit einem unbekannten Wunderding.
 
-Merksatz: Das unbekannte Wunderpferd beginnt die Reise.
 
 - Ein fliegendes Pferd: Achmed wird vom fliegenden Pferd fortgetragen.
 - Ein fliegender Teppich: Ein Teppich beginnt seine Reise nicht.
@@ -581,7 +556,6 @@ Welchen Gegenstand nimmt Achmed der badenden Pari Banu in „Die Abenteuer des P
 
 Pari Banu kommt mit ihren Begleiterinnen zum Baden an einen See. Als sie Achmed entdecken, fliegen die anderen davon. Ihr selbst fehlt jedoch das Federgewand, das er zurückhält, weshalb sie zunächst nur zu Fuß fliehen kann. Erst als er es ihr zurückgibt, gewinnt er ihr Vertrauen. Das Liebesmotiv beginnt also mit einer problematischen Wegnahme, die später rückgängig gemacht wird.
 
-Merksatz: Ohne Federgewand kann Pari Banu nicht fortfliegen.
 
 - Ihren Zauberspiegel: Ein Spiegel ist nicht der weggenommene Gegenstand.
 - Ihr Federgewand: Achmed nimmt ihr das magische Federgewand.
@@ -603,7 +577,6 @@ Welche Gegenleistung fordert der Zauberer für sein Wunderpferd in „Die Abente
 
 Der Hof bewundert das Wunderpferd, doch der Zauberer lässt sich nicht mit Gold bezahlen. Er verlangt Dinarsade, die Tochter des Kalifen und Schwester Achmeds. Damit verwandelt er eine Vorführung in eine Forderung über einen Menschen. Achmeds Einspruch führt unmittelbar zu seinem gefährlichen Probeflug. Die getrennten Abenteuerstränge beginnen so mit einem Handel, dessen Bedingungen die Betroffenen nicht selbst gewählt haben.
 
-Merksatz: Für das Pferd verlangt er die Tochter.
 
 - Die Hälfte des Königreichs: Ein halbes Königreich ist nicht seine Forderung.
 - Das Amt des Großwesirs: Das Wesirsamt ist nicht der geforderte Preis.
@@ -625,7 +598,6 @@ Wohin verkauft der Zauberer Pari Banu in „Die Abenteuer des Prinzen Achmed“?
 
 Während Achmed mit den Fallen des Zauberers kämpft, bringt dieser Pari Banu nach China und verkauft sie dem Kaiser. Die Entfernung verschärft die Trennung des Paares. Achmed kann sie deshalb nicht allein durch das Verfolgen seines Gegners zurückgewinnen, sondern benötigt die Unterstützung der Hexe vom Flammenberg. Der Film erweitert das Abenteuer vom ersten Inselaufenthalt um eine weitere Herrschafts- und Gefangenschaftssituation.
 
-Merksatz: Die Trennung führt an den chinesischen Kaiserhof.
 
 - An den Sultan von Persien: Der Sultan von Persien ist nicht der Käufer.
 - An den König von Indien: Ein indischer König ist nicht die gesuchte Figur.
@@ -647,7 +619,6 @@ Welchen Beruf hat Aladdin vor seinen Abenteuern in „Die Abenteuer des Prinzen 
 
 Aladdin erzählt Achmed von seiner eigenen Vorgeschichte. Er war ein armer Schneider, bevor der Zauberer ihn zur Lampensuche in eine Höhle schickte. Seine Erzählung führt einen weiteren bekannten Märchenstoff in Achmeds Reise ein und verbindet beide Männer über denselben Gegner. Die Figur sollte deshalb anhand dieser konkreten Fassung erinnert werden, statt Beruf und Lebensweise aus späteren populären Adaptionen zu übernehmen.
 
-Merksatz: Dieser Aladdin ist Schneider.
 
 - Schneider: Aladdin ist hier ein armer Schneider.
 - Schuster: Ein Schuster ist er in dieser Fassung nicht.
@@ -669,7 +640,6 @@ Welche entscheidende Hilfe leistet die Hexe beim Kampf gegen das vielköpfige Un
 
 Achmeds Schwerthiebe reichen zunächst nicht aus: Für einen abgeschlagenen Kopf wachsen dem Ungeheuer zwei neue. Mehr vom gleichen Angriff verschlimmert damit die Gefahr. Die Hexe greift ein und verhindert dieses Nachwachsen, sodass Achmed den Gegner besiegen und Pari Banu retten kann. Der Sieg beruht auf der Verbindung körperlichen Kampfes mit einer Hilfe, die die besondere Regel des Gegners verändert.
 
-Merksatz: Erst die Hexe macht den Kopfschlag wirksam.
 
 - Sie macht sämtliche Köpfe unsichtbar.: Unsichtbarkeit der Köpfe wäre nicht die entscheidende Hilfe.
 - Sie verhindert das Nachwachsen abgeschlagener Köpfe.: Die Hexe stoppt das Nachwachsen und ermöglicht den Sieg.
@@ -691,7 +661,6 @@ In welchem Jahr wurde „Die Abenteuer des Prinzen Achmed“ erstmals vorgeführ
 
 Die Abenteuer des Prinzen Achmed wurde 1926 erstmals vorgeführt. Lotte Reinigers kurzer Silhouettenfilm Papageno folgte 1935, neun Jahre später. Filmportal belegt beide Werke und ihre Vorführungsdaten. Die spätere Arbeit greift auf Mozarts Zauberflöte zurück, während der Langfilm orientalische Märchen verbindet. Der zeitliche Vergleich zeigt eine fortgesetzte Arbeit mit bewegten Silhouetten an unterschiedlichen bekannten Erzählstoffen.
 
-Merksatz: Achmed 1926, Papageno 1935: neun Jahre.
 
 - 1922: 1922 liegt vier Jahre vor dem Erstjahr.
 - 1930: 1930 ist vier Jahre zu spät.
@@ -713,7 +682,6 @@ Wer trägt den Hauptregiecredit von „Die Abenteuer des Prinzen Achmed“?
 
 Lotte Reiniger gestaltet den Film aus bewegten Silhouetten, deren Gelenke und Formen sorgfältig für die Aufnahme angelegt sind. Filmportal führt sie als Hauptregisseurin, während Carl Koch für Kamera und Produktionsleitung genannt wird. Die Zusammenarbeit mit weiteren Künstlern macht aus dem Regiecredit kein gemeinsames Hauptregieteam. Die Märchenhandlung erhält ihre besondere Körperlichkeit durch das Wechselspiel von Umriss, Bewegung und Hintergrund.
 
-Merksatz: Reiniger führt Regie, Koch verantwortet andere Arbeitsbereiche.
 
 - Germaine Dulac: Germaine Dulac führte bei diesem Silhouettenfilm nicht Regie.
 - Mary Ellen Bute: Mary Ellen Bute führte bei diesem Werk nicht Regie.
@@ -739,7 +707,6 @@ Welche Tätigkeit übt Willow (Warwick Davis) zu Beginn von „Willow“ aus?
 
 Willow Ufgood (Warwick Davis) lebt mit seiner Familie als Bauer und möchte zugleich die Zauberkunst erlernen. Seine Reise beginnt nicht als Auftrag an einen bereits berühmten Helden. Als ein Baby in die Gemeinschaft gelangt, muss er Verantwortung übernehmen, obwohl ihm Erfahrung und sichere magische Fähigkeiten fehlen. Der Film verbindet damit eine vertraute häusliche Lebenswelt mit einer Aufgabe von weit größerer Bedeutung.
 
-Merksatz: Ein Bauer wächst in eine gefährliche Aufgabe hinein.
 
 - Dorfschmied: Als Dorfschmied wird er nicht vorgestellt.
 - Bauer: Willow ist ein Bauer mit magischen Ambitionen.
@@ -761,7 +728,6 @@ Welche Zukunft sagt die Prophezeiung dem gefundenen Baby in „Willow“ voraus?
 
 Bavmorda (Jean Marsh) lässt schwangere Frauen festhalten, weil sie die Geburt eines Kindes fürchtet, das ihre Herrschaft beenden soll. Dennoch wird das Baby gerettet und gelangt auf dem Fluss zu Willows (Warwick Davis) Familie. Die Verfolgung beruht deshalb nicht auf einer bereits ausgeübten Macht des Kindes. Die Königin versucht vielmehr, eine angekündigte Zukunft durch Gewalt schon im Voraus zu verhindern.
 
-Merksatz: Die Königin verfolgt eine angekündigte Zukunft.
 
 - Es wird Sorshas (Joanne Whalley) Heer führen.: Die Führung von Sorshas Heer ist nicht die Prophezeiung.
 - Es wird Fin Raziels (Patricia Hayes) Fluch erben.: Fin Raziels Fluch soll nicht auf das Baby übergehen.
@@ -783,7 +749,6 @@ Wofür erklärt sich Madmartigan (Val Kilmer) in „Willow“ bereit, das Baby z
 
 Willow (Warwick Davis) trifft Madmartigan (Val Kilmer) an einer Wegkreuzung im Krähenkäfig. Der Söldner bietet an, das Baby zu übernehmen, wenn man ihn freilässt. Für die Reisegruppe wäre das eine einfache Übergabe an einen großen Menschen, doch Willow misstraut dem Angebot zunächst. Die spätere Zusammenarbeit entsteht somit aus einem zweifelhaften Handel, bevor sich zwischen den beiden echtes Vertrauen entwickelt.
 
-Merksatz: Erst Freilassung gegen Baby, später Zusammenarbeit.
 
 - Für die Rückgabe seines gestohlenen Schwerts: Ein gestohlenes Schwert ist nicht die vereinbarte Gegenleistung.
 - Für einen Anteil an einem gefundenen Schatz: Ein Schatzanteil wird bei dieser Begegnung nicht vereinbart.
@@ -805,7 +770,6 @@ In welcher Tiergestalt begegnet Willow (Warwick Davis) Fin Raziel (Patricia Haye
 
 Fin Raziel (Patricia Hayes) ist eine erfahrene Zauberin, die Bavmorda (Jean Marsh) in Tiergestalt verbannt hat. Willow (Warwick Davis) begegnet ihr zunächst als Beuteltier und versucht, ihr die menschliche Form zurückzugeben. Die ersten Versuche führen aber nur zu weiteren Tiergestalten. Seine Entwicklung als Zauberer wird dadurch an einer konkreten Aufgabe sichtbar, bei der ein guter Wille noch keine sichere Ausführung garantiert.
 
-Merksatz: Die Zauberin wartet in Beuteltiergestalt auf Befreiung.
 
 - Als Beuteltier: Fin Raziel erscheint zuerst als Beuteltier.
 - Als Rabe: Eine Vogelgestalt folgt erst einem späteren Verwandlungsversuch.
@@ -827,7 +791,6 @@ Was richtet Bavmordas (Jean Marsh) Zauber vor Nockmaar in „Willow“ mit dem a
 
 Vor Nockmaar hilft zahlenmäßige Stärke zunächst wenig: Bavmorda (Jean Marsh) verwandelt das angreifende Heer in Schweine. Willow (Warwick Davis) schützt sich mit dem Zauberstab und kann weiter handeln. Erst nachdem er Fin Raziel (Patricia Hayes) ihre menschliche Gestalt zurückgegeben hat, hebt sie den Heereszauber auf. Die Szene verbindet daher zwei Aufgaben, deren Reihenfolge für den weiteren Angriff entscheidend ist.
 
-Merksatz: Das Schweineheer braucht die wiederhergestellte Zauberin.
 
 - Er macht die Soldaten zu steinernen Statuen.: Eine Versteinerung ist nicht die Wirkung des Zaubers.
 - Er verwandelt die Soldaten in Schweine.: Das Heer wird in Schweine verwandelt.
@@ -849,7 +812,6 @@ Womit entzieht Willow (Warwick Davis) das Baby bei der letzten Konfrontation in 
 
 Willow (Warwick Davis) lässt Bavmorda (Jean Marsh) glauben, er habe das Baby auf magische Weise verschwinden lassen. Tatsächlich nutzt er einen Taschenspielertrick. Die verunsicherte Königin greift ihn an und vollendet dabei versehentlich ihr eigenes Verbannungsritual gegen sich selbst. Der Sieg verlangt somit keinen stärkeren Zauber als den der Gegnerin, sondern eine Täuschung, die deren Handeln im entscheidenden Moment verändert.
 
-Merksatz: Der kleine Trick lenkt den großen Zauber gegen seine Urheberin.
 
 - Mit einem echten Teleportationszauber: Das Baby wird nicht wirklich an einen anderen Ort teleportiert.
 - Mit einer Verwandlung in Rauch: Es verwandelt sich nicht in Rauch.
@@ -871,7 +833,6 @@ In welchem Jahr wurde „Willow“ mit Warwick Davis erstmals veröffentlicht?
 
 Der Kinofilm Willow erschien 1988; die gleichnamige Fortsetzungsserie begann 2022, also 34 Jahre später. Lucasfilm dokumentiert beide Produktionen und beschreibt bei der ersten Serienfolge den späteren Zustand derselben Welt. Das große Zeitintervall gehört zur Produktionsgeschichte. Es ist von der innerhalb der Geschichte vergangenen Zeit zu unterscheiden und macht aus der Serie keine neue Erstveröffentlichung des ursprünglichen Films.
 
-Merksatz: Film 1988, Serie 2022: 34 Jahre.
 
 - 1984: 1984 liegt vier Jahre vor der Veröffentlichung.
 - 1992: 1992 ist vier Jahre zu spät.
@@ -893,7 +854,6 @@ Wer führte bei „Willow“ mit Warwick Davis die Hauptregie?
 
 Lucasfilm nennt Ron Howard als Regisseur, während George Lucas den Stoff entwickelte und die Produktion maßgeblich prägte. Diese Aufgaben sind nicht gleichzusetzen. Im Film wird Willow (Warwick Davis) als unerfahrener Helfer mit einem übermächtigen Gegner konfrontiert. Seine Fortschritte und Fehler tragen das Abenteuer ebenso wie die spektakulären Verwandlungen. Die Regie gestaltet diese Entwicklung innerhalb einer von Lucas erdachten Fantasywelt.
 
-Merksatz: Howard inszeniert die von Lucas entwickelte Fantasywelt.
 
 - Ron Howard: Ron Howard führte die Hauptregie.
 - Richard Donner: Richard Donner ist nicht der Regisseur dieser Fassung.
@@ -919,7 +879,6 @@ Warum landen zahlreiche Märchenwesen in Shreks (Originalstimme: Mike Myers) Sum
 
 Shrek (Originalstimme: Mike Myers) möchte allein in seinem Sumpf leben. Doch Farquaad (Originalstimme: John Lithgow) lässt die Märchenwesen aus seinem Gebiet entfernen, und sie landen ausgerechnet dort. Ihre Zuflucht wird für den Einzelgänger zur unerwünschten Besetzung seines Zuhauses. Seine Reise beginnt daher aus dem Wunsch, die frühere Ruhe zurückzugewinnen, und führt ihn gerade dadurch in Beziehungen, denen er bisher ausgewichen ist.
 
-Merksatz: Farquaads Vertreibung beendet Shreks Ruhe.
 
 - Farquaad (John Lithgow) hat sie für einen Festzug bestellt.: Ein bestellter Festzug ist nicht der Grund ihres Aufenthalts.
 - Der Esel (Eddie Murphy) hat ihnen eine Herberge versprochen.: Der Esel hat die Gruppe nicht als Herbergsgäste hergeführt.
@@ -941,7 +900,6 @@ Weshalb will Farquaad (Originalstimme: John Lithgow) in „Shrek – Der tollkü
 
 Farquaad (Originalstimme: John Lithgow) beherrscht Duloc, gilt aber noch nicht als König. Der Zauberspiegel erklärt ihm, dass die Heirat mit einer Prinzessin diesen Status ermöglichen würde. Seine Brautwahl folgt daher einem Herrschaftsplan, während er die gefährliche Rettung anderen überlassen möchte. Der Film stellt das vertraute Märchenmotiv der Prinzessinnenbefreiung damit in den Dienst eines eigennützigen politischen Aufstiegs.
 
-Merksatz: Die Braut soll den Herrscher zum König machen.
 
 - Damit er ein Nachbarreich erbt.: Ein geerbtes Nachbarreich ist nicht das erklärte Ziel.
 - Damit ein Fluch über seinem Schloss endet.: Ein Schlossfluch treibt seine Brautwahl nicht an.
@@ -963,7 +921,6 @@ Warum verfolgt die Drachin den Esel (Originalstimme: Eddie Murphy) in „Shrek �
 
 Der Esel (Originalstimme: Eddie Murphy) begegnet der Drachin zunächst wie einem gefährlichen Bewacher. Seine Worte führen jedoch zu einer unerwarteten Annäherung: Sie verliebt sich in ihn. Damit ist das Hindernis nicht nur durch Kampf zu überwinden. Die neue Beziehung bekommt später erneut Bedeutung, weil der scheinbare Gegner als Helferin zurückkehrt und die Reise zur Hochzeit überhaupt erst ermöglicht.
 
-Merksatz: Die Bewacherin wird zur verliebten Helferin.
 
 - Sie hat sich in ihn verliebt.: Die Drachin verliebt sich in den Esel.
 - Sie hält ihn für einen Schatzdieb.: Ein Schatzdiebstahl ist nicht ihr besonderer Antrieb.
@@ -985,7 +942,6 @@ Wann wird Fiona (Originalstimme: Cameron Diaz) in „Shrek – Der tollkühne He
 
 Fiona (Originalstimme: Cameron Diaz) erscheint am Tag als Mensch und verwandelt sich bei Sonnenuntergang in einen Oger. Deshalb zieht sie sich abends zurück und drängt später auf eine Hochzeit vor Einbruch der Nacht. Der Esel (Originalstimme: Eddie Murphy) entdeckt ihr Geheimnis in der Mühle. Diese zeitliche Regel erklärt mehrere Entscheidungen, die ohne sie wie bloße Abwehr oder Ungeduld wirken.
 
-Merksatz: Der Sonnenuntergang erklärt Fionas Eile.
 
 - Bei Sonnenaufgang: Sonnenaufgang ist nicht der Beginn ihrer nächtlichen Gestalt.
 - Bei Sonnenuntergang: Fiona verwandelt sich bei Sonnenuntergang in einen Oger.
@@ -1007,7 +963,6 @@ Welche Schlussfolgerung zieht Shrek (Originalstimme: Mike Myers) aus Fionas (Ori
 
 Fiona (Originalstimme: Cameron Diaz) spricht mit dem Esel (Originalstimme: Eddie Murphy) über ihre eigene Ogergestalt. Shrek (Originalstimme: Mike Myers) hört nur einen Teil und hält ihre Selbstbeschreibung für eine Abwertung seiner Person. Seine frühere Erfahrung mit Zurückweisung macht den Irrtum für ihn überzeugend. Statt nachzufragen, zieht er sich zurück und liefert sie an den vorgesehenen Bräutigam aus.
 
-Merksatz: Fionas Selbstkritik wird für Shrek zur vermeintlichen Kränkung.
 
 - Sie plane Verrat an ihrem Retter.: Eine konkrete Verratsplanung hört er nicht heraus.
 - Sie halte ihn für einen bezahlten Entführer.: Er versteht das Gespräch nicht als Vorwurf einer bezahlten Entführung.
@@ -1029,7 +984,6 @@ Welche Gestalt behält Fiona (Originalstimme: Cameron Diaz) nach dem erlösenden
 
 Fiona (Originalstimme: Cameron Diaz) erwartet vom Kuss der wahren Liebe die Aufhebung ihres Fluchs. Als sie Shrek (Originalstimme: Mike Myers) küsst, endet der tägliche Wechsel tatsächlich, doch sie bleibt ein Oger. Ihre Liebe führt damit nicht zur Rückkehr in das erwartete menschliche Schönheitsbild. Das Finale beantwortet die Frage nach ihrer wahren Gestalt durch Zugehörigkeit und Zuneigung statt gesellschaftlicher Anerkennung.
 
-Merksatz: Der Fluch endet, die Ogergestalt bleibt.
 
 - Dauerhaft die menschliche Gestalt: Der Kuss macht sie nicht dauerhaft zum Menschen.
 - Weiterhin täglich beide Gestalten: Der tägliche Wechsel endet.
@@ -1051,7 +1005,6 @@ In welchem Jahr wurde der erste Film „Shrek – Der tollkühne Held“ erstmal
 
 Shrek erschien 2001; Shrek 2 folgte 2004, drei Jahre später. Die DreamWorks-Filmseiten bestätigen beide Jahre. Der erste Film führt die Beziehungen und die besondere Umkehr vertrauter Märchenregeln ein. Die Fortsetzung setzt bei dem bereits verheirateten Paar an. Der Abstand hilft, den ursprünglichen Film von der späteren Familien- und Hofgeschichte zu trennen, die auf seinen Entscheidungen aufbaut.
 
-Merksatz: Shrek 2001, Shrek 2 2004: drei Jahre.
 
 - 2001: Der erste Shrek-Film erschien 2001.
 - 1997: 1997 liegt vier Jahre davor.
@@ -1073,7 +1026,6 @@ Welches vollständige Team führte bei „Shrek – Der tollkühne Held“ die H
 
 Cannes und DreamWorks nennen Andrew Adamson und Vicky Jenson als Regieteam des ersten Shrek-Films. Die gemeinsame Inszenierung verbindet ein Rettungsabenteuer mit der Umkehr vertrauter Märchenbilder. Shrek (Originalstimme: Mike Myers) gewinnt Nähe nicht durch die Verwandlung in einen herkömmlichen Prinzen. Der vollständige Credit gehört zu diesem ersten Film und darf nicht mit den wechselnden Teams späterer Folgen zusammengezogen werden.
 
-Merksatz: Zwei Hauptregisseure für den ersten Shrek.
 
 - Pete Docter und David Silverman: Docter und Silverman sind nicht das Hauptteam von Shrek.
 - Andrew Adamson und Vicky Jenson: Andrew Adamson und Vicky Jenson teilen den Hauptregiecredit.
@@ -1099,7 +1051,6 @@ Welches Tier gibt dem Einhorn (Originalstimme: Mia Farrow) vor seiner Suche in �
 
 Das Einhorn (Originalstimme: Mia Farrow) hört zunächst von Jägern, dass die anderen seiner Art verschwunden seien. Ein Schmetterling (Originalstimme: Robert Klein) gibt ihm den entscheidenden Hinweis auf den Roten Stier. Zwischen Liedfragmenten und verwirrenden Worten steckt damit eine konkrete Spur. Die Reise beginnt aus dem Versuch, diesen Hinweis zu verstehen und die behauptete Einsamkeit nicht einfach als endgültige Wahrheit hinzunehmen.
 
-Merksatz: In den Worten des Schmetterlings steckt die Spur.
 
 - Eine Katze: Die Katze hilft in einer späteren Situation, nicht vor der Suche.
 - Eine Eule: Eine Eule nennt diesen entscheidenden Hinweis nicht.
@@ -1121,7 +1072,6 @@ Wo hält Mommy Fortuna (Originalstimme: Angela Lansbury) das Einhorn (Originalst
 
 Mommy Fortuna (Originalstimme: Angela Lansbury) führt eine fahrende Schau vermeintlicher Fabelwesen. Das Einhorn (Originalstimme: Mia Farrow) gerät in ihre Gefangenschaft und wird dort wie eine weitere Attraktion vorgeführt. Die anderen Käfige mischen gewöhnliche Tiere mit Täuschungen und echter Gefahr. Schmendrick (Originalstimme: Alan Arkin) arbeitet bei der Schau, erkennt aber die Besonderheit der Gefangenen und ermöglicht später ihre Flucht.
 
-Merksatz: Die Schaustellung macht echte Magie zur Ware.
 
 - In einer fahrenden Schaustellung: Fortuna zeigt es in ihrer fahrenden Schaustellung.
 - In einem königlichen Tiergarten: Ein königlicher Tiergarten ist nicht der Ort der Gefangenschaft.
@@ -1143,7 +1093,6 @@ Warum versieht Fortuna (Originalstimme: Angela Lansbury) das Einhorn (Originalst
 
 Mommy Fortuna (Originalstimme: Angela Lansbury) verfügt tatsächlich über ein Einhorn (Originalstimme: Mia Farrow), doch gewöhnliche Menschen erkennen dessen wahre Gestalt nicht. Deshalb fügt sie einen künstlichen Hornzauber hinzu, damit das Publikum die beworbene Attraktion überhaupt sieht. Der Film trennt hier wirkliche Magie von ihrer vorführbaren Erscheinung. Eine echte Besonderheit muss für die Schau erst in ein verständliches Zeichen übersetzt werden.
 
-Merksatz: Ein falsches Horn macht das echte Einhorn erkennbar.
 
 - Damit es sein echtes Horn nicht als Waffe nutzt.: Der Zusatzzauber dient nicht der Entwaffnung.
 - Damit gewöhnliche Besucher es als Einhorn erkennen.: Die Besucher können die echte Einhornmagie nicht erkennen.
@@ -1165,7 +1114,6 @@ Weshalb schützt Schmendricks (Originalstimme: Alan Arkin) Verwandlung das Einho
 
 Schmendrick (Originalstimme: Alan Arkin) verwandelt das Einhorn (Originalstimme: Mia Farrow) in eine junge Frau, als der Rote Stier es bedroht. Der Gegner verliert zunächst das Interesse an dieser menschlichen Gestalt. Die Rettung hat jedoch einen Preis: Als Amalthea erfährt sie Sterblichkeit und beginnt, ihre frühere Existenz zu vergessen. Schutz vor einer äußeren Gefahr verändert so zugleich ihr Verhältnis zu sich selbst.
 
-Merksatz: Amaltheas Gestalt schützt und entfremdet zugleich.
 
 - Die Verwandlung macht es vollständig unsichtbar.: Unsichtbar wird das Einhorn durch die Verwandlung nicht.
 - Die neue Gestalt kann durch feste Mauern gehen.: Durch Mauern zu gehen ist nicht die Schutzwirkung.
@@ -1187,7 +1135,6 @@ Wo hält Haggard (Originalstimme: Christopher Lee) die übrigen Einhörner in �
 
 Haggard (Originalstimme: Christopher Lee) besitzt die anderen Einhörner nicht als gewöhnliche Hofattraktion. Der Rote Stier hat sie ins Meer vor seinem Schloss getrieben, wo der König sie betrachten kann. Ihre Schönheit verschafft ihm Freude, doch diese Freude beruht auf ihrer Gefangenschaft. Der Blick vom Schloss aus verbindet deshalb eine ästhetische Sehnsucht mit einer Herrschaft, die anderen Wesen ihre Freiheit nimmt.
 
-Merksatz: Haggards Freude beruht auf den Einhörnern im Meer.
 
 - In einer Höhle unter dem Wald: Die Waldhöhle ist nicht ihr Gefängnis.
 - In den Wolken über seinem Reich: Sie werden nicht in den Wolken festgehalten.
@@ -1209,7 +1156,6 @@ Womit gewinnt Schmendrick (Originalstimme: Alan Arkin) den sprechenden Schädel 
 
 Schmendrick (Originalstimme: Alan Arkin) muss dem sprechenden Schädel (Originalstimme: René Auberjonois) einen Hinweis zum verborgenen Zugang entlocken. Dafür gibt er ihm vermeintlichen Wein aus einer leeren Flasche. Die Täuschung wirkt, weil der Schädel das angebotene Vergnügen selbst ergänzt. Eine kleine Darbietung ersetzt hier große Zaubermacht und eröffnet den Weg zum verborgenen Aufenthaltsort des Gegners. Was die Gruppe sucht, liegt hinter einer zunächst verschlossenen Grenze.
 
-Merksatz: Der Schädel schmeckt den Wein, den er sich vorstellt.
 
 - Mit vorgetäuschtem Wein aus einer leeren Flasche: Er lässt den Schädel vermeintlichen Wein aus einer leeren Flasche genießen.
 - Mit vorgetäuschtem Gold in einem leeren Beutel: Gold im Beutel ist nicht das Lockmittel.
@@ -1231,7 +1177,6 @@ In welchem Jahr wurde der Animationsfilm „Das letzte Einhorn“ erstmals verö
 
 Peter S. Beagles Roman Das letzte Einhorn erschien 1968; die Verfilmung folgte 1982, 14 Jahre später. AFI dokumentiert die literarische Quelle und das Veröffentlichungsjahr. Beagle schrieb auch das Drehbuch, sodass der Stoff nicht ohne Beteiligung seines Autors übertragen wurde. Der zeitliche Abstand und die personelle Verbindung zeigen zwei verschiedene Ebenen der Adaption: eine spätere Filmproduktion und die fortgesetzte Arbeit am eigenen Text.
 
-Merksatz: Roman 1968, Film 1982: 14 Jahre.
 
 - 1978: 1978 liegt vier Jahre davor.
 - 1982: Der Film erschien erstmals 1982.
@@ -1253,7 +1198,6 @@ Welches vollständige Team führte bei „Das letzte Einhorn“ die Hauptregie?
 
 AFI führt Arthur Rankin Jr. und Jules Bass als Hauptregisseure. Die Animation entstand bei Topcraft in Tokio, wie der BFI-Beitrag erläutert. Katsuhisa Yamada wird im AFI-Katalog für Storyboard und Animationsregie genannt, ohne deshalb dem Hauptregieteam zugerechnet zu werden. Die Produktion verbindet somit verschiedene Arbeitsbereiche und Standorte, deren konkrete Credits bei einer vollständigen Regieantwort sorgfältig auseinanderzuhalten sind.
 
-Merksatz: Rankin und Bass: Hauptregie; Topcraft: Animation.
 
 - Don Bluth und Gary Goldman: Bluth und Goldman sind nicht das Regieteam dieses Films.
 - Ron Clements und John Musker: Clements und Musker inszenierten andere Animationsfilme.
@@ -1279,7 +1223,6 @@ Welchen Beruf übt der erwachsene Peter Banning (Robin Williams) in „Hook“ a
 
 Peter Banning (Robin Williams) ist ein beruflich stark beanspruchter Unternehmensanwalt. Seine Arbeit und ständige Erreichbarkeit belasten das Verhältnis zu seiner Familie. Das Abenteuer setzt deshalb nicht bei einem unbeschwerten Kind an, sondern bei einem Erwachsenen, der den Zugang zu seiner früheren Lebenswelt verloren hat. Der Gegensatz zwischen Geschäftsroutine und wiedergewonnener Vorstellungskraft wird für seine Entwicklung im Verlauf entscheidend.
 
-Merksatz: Der frühere Junge lebt als beschäftigter Anwalt.
 
 - Unternehmensanwalt: Peter Banning arbeitet als Unternehmensanwalt.
 - Kinderarzt: Kinderarzt ist nicht sein Beruf.
@@ -1301,7 +1244,6 @@ Wie ist Peters (Robin Williams) Frau Moira (Caroline Goodall) mit Wendy (Maggie 
 
 Moira (Caroline Goodall) ist die Enkelin der erwachsenen Wendy (Maggie Smith). Peter Banning (Robin Williams) hat sich für ein Leben mit ihr entschieden und blieb dadurch in der Menschenwelt. Die Verwandtschaft verbindet die frühere Peter-Pan-Geschichte mit seiner heutigen Familie. Beim Besuch in London begegnet er deshalb nicht nur einer freundlichen alten Bekannten, sondern einer Person, die seine verdrängte Vergangenheit und seinen Lebenswechsel kennt.
 
-Merksatz: Wendys Enkelin verbindet beide Lebensphasen.
 
 - Sie ist ihre Tochter.: Wendys Tochter ist sie nicht.
 - Sie ist ihre Enkelin.: Moira ist Wendys Enkelin.
@@ -1323,7 +1265,6 @@ Wer führt die verlorenen Jungen vor Peters (Robin Williams) Rückkehr in „Hoo
 
 Rufio (Dante Basco) leitet die verlorenen Jungen, als der erwachsene Peter (Robin Williams) zu ihnen kommt. Für die Gruppe ist der unbeholfene Besucher zunächst kaum als früherer Held zu erkennen. Der vorhandene Anführer muss sich daher mit einem Anspruch auf Zugehörigkeit auseinandersetzen, der nicht durch die sichtbaren Fähigkeiten gedeckt ist. Anerkennung entsteht erst im Verlauf des gemeinsamen Trainings und der wiederkehrenden Erinnerung.
 
-Merksatz: Rufio regiert die Gruppe vor der Rückkehr des Helden.
 
 - Thud Butt (Raushan Hammond): Thud Butt übernimmt erst später die Führung.
 - Ace (Jasen Fisher): Ace ist nicht der anfängliche Anführer.
@@ -1345,7 +1286,6 @@ Womit gewinnt Hook (Dustin Hoffman) Jack (Charlie Korsmo) in „Hook“ für sic
 
 Jack (Charlie Korsmo) fühlt sich von seinem Vater Peter (Robin Williams) wiederholt enttäuscht. Hook (Dustin Hoffman) nutzt diese Verletzung, nimmt eine väterliche Rolle an und veranstaltet ein Baseballspiel. Die Zuwendung trifft damit auf einen konkreten Mangel im Familienleben. Peters Aufgabe ist deshalb größer als eine bloße Befreiung aus Gefangenschaft: Er muss auch das Vertrauen seines Sohnes zurückgewinnen.
 
-Merksatz: Hook nutzt Jacks Enttäuschung für seine Zuwendung.
 
 - Mit einem Fest und der Ernennung zum Piratenkapitän: Eine Ernennung zum Piratenkapitän ist nicht der entscheidende Köder.
 - Mit einem Wettschießen und eigenen Pistolen: Wettschießen und eigene Pistolen ersetzen das Baseballspiel nicht.
@@ -1367,7 +1307,6 @@ Welche Erinnerung gibt Peter (Robin Williams) in „Hook“ den glücklichen Ged
 
 Peter (Robin Williams) findet beim Wiedergewinnen seiner Vergangenheit nicht einfach eine beliebige Kindheitserinnerung. Der entscheidende glückliche Gedanke ist die Geburt seines Sohnes. Gerade ein Erlebnis aus seinem erwachsenen Familienleben lässt ihn wieder fliegen. Seine Entwicklung verlangt dadurch keine vollständige Absage an das Erwachsensein. Die lange vernachlässigte Vaterrolle wird vielmehr zur Verbindung zwischen früherer Fähigkeit und gegenwärtiger Verantwortung.
 
-Merksatz: Vaterglück bringt die frühere Flugfähigkeit zurück.
 
 - Die Geburt seines Sohnes: Die Erinnerung an die Geburt seines Sohnes ermöglicht das Fliegen.
 - Ein gemeinsames Kindheitsspiel: Ein Kindheitsspiel ist nicht der entscheidende Glücksgedanke.
@@ -1389,7 +1328,6 @@ Was findet Tootles (Arthur Malet) in „Hook“ neben seinen Murmeln im zurückg
 
 Tootles (Arthur Malet) hat als alter Mann seine Murmeln verloren. Peter (Robin Williams) bringt den Beutel aus Nimmerland zurück, nachdem Thud Butt (Raushan Hammond) ihn übergeben hat. Darin befindet sich auch Feenstaub, mit dem Tootles wieder fortfliegen kann. Ein früher scheinbar nebensächlicher Verlust wird so zum konkreten Bindeglied zwischen dem Londoner Alltag und der Welt seiner eigenen Kindheit.
 
-Merksatz: Die verlorenen Murmeln kommen mit Feenstaub zurück.
 
 - Goldmünzen: Goldmünzen sind nicht die entscheidende zusätzliche Gabe.
 - Feenstaub: Im Beutel befindet sich auch Feenstaub.
@@ -1411,7 +1349,6 @@ In welchem Jahr wurde „Hook“ mit Robin Williams erstmals veröffentlicht?
 
 Hook erschien 1991; Steven Spielbergs Jurassic Park folgte 1993, zwei Jahre später. AFI belegt das erste Veröffentlichungsjahr, Universal das spätere Werk in seiner Studiogeschichte. Beide Filme führen Familienpublikum in außergewöhnliche Welten, setzen aber andere Grundsituationen ein. Hier kehrt ein erwachsener Vater in seine verdrängte Märchenvergangenheit zurück. Der Zeitvergleich verortet diese Arbeit unmittelbar vor Spielbergs Dinosaurierabenteuer.
 
-Merksatz: Hook 1991, Jurassic Park 1993: zwei Jahre.
 
 - 1987: 1987 liegt vier Jahre vor der Veröffentlichung.
 - 1993: 1993 gehört zum späteren Jurassic Park.
@@ -1433,7 +1370,6 @@ Wer führte bei „Hook“ mit Robin Williams die Hauptregie?
 
 AFI und Sony führen Steven Spielberg als Regisseur. Die Geschichte stellt Peter Pan als erwachsenen Peter Banning (Robin Williams) vor, der seine Familie und seine frühere Identität miteinander verbinden muss. Nick Castle war an einer früheren Entwicklungsphase beteiligt, ist aber nicht der Hauptregisseur des veröffentlichten Films. Der Credit gehört zu einer Forterzählung, die den bekannten Helden aus der Perspektive verlorener Erinnerung betrachtet.
 
-Merksatz: Spielberg inszeniert den erwachsenen Peter Pan.
 
 - Robert Zemeckis: Robert Zemeckis ist nicht der Regisseur dieses Films.
 - Joe Dante: Joe Dante trägt hier keinen Hauptregiecredit.
@@ -1459,7 +1395,6 @@ Welche Art von Tier ist die Hauptfigur in „Mrs. Brisby und das Geheimnis von N
 
 Mrs. Brisby (Originalstimme Elizabeth Hartman) lebt mit ihren Kindern auf einem Bauernhof. Als Feldmaus ist sie klein genug, um sich zwischen menschlichen Geräten und Gebäuden zu bewegen, bleibt dabei jedoch vielen Gefahren ausgesetzt. Ihre Rettungsaufgabe beginnt im eigenen Haushalt. Der Film erweitert diese alltägliche Sorge später um die ungewöhnliche Gemeinschaft der Ratten, deren Fähigkeiten weit über das normale Tierleben hinausgehen.
 
-Merksatz: Eine kleine Feldmaus trägt eine große Rettungsaufgabe.
 
 - Eine Spitzmaus: Eine Spitzmaus gehört ebenfalls zur Tierwelt, ist aber nicht die Hauptfigur.
 - Eine Feldmaus: Mrs. Brisby ist eine Feldmaus.
@@ -1481,7 +1416,6 @@ Warum kann Mrs. Brisby (Originalstimme Elizabeth Hartman) ihre Familie in „Mrs
 
 Mrs. Brisby (Originalstimme Elizabeth Hartman) muss ihre Kinder vor dem bevorstehenden Pflügen schützen. Ihr Sohn Timothy (Originalstimme Ina Fried, als Ian Fried kreditiert) ist jedoch an einer Lungenentzündung erkrankt und benötigt Ruhe und Wärme. Das sichere Verlassen des Feldes ist deshalb gerade für ihn gefährlich. Aus diesem Widerspruch entsteht die eigentliche Rettungsaufgabe: Die Mutter muss Hilfe finden, die nicht nur die gesunden Familienmitglieder berücksichtigt.
 
-Merksatz: Das Feld muss geräumt werden, das kranke Kind darf nicht hinaus.
 
 - Ihr Sohn hat ein gebrochenes Bein.: Ein Beinbruch ist nicht das Hindernis für den Sohn.
 - Ihre Tochter ist nach einem Unfall blind.: Eine erblindete Tochter bestimmt den Umzug nicht.
@@ -1503,7 +1437,6 @@ Welchen Zukunftsplan verfolgt die Rattengemeinschaft in „Mrs. Brisby und das G
 
 Nicodemus (Originalstimme Derek Jacobi) führt eine Gemeinschaft ungewöhnlich intelligenter Ratten. Ihre technische Versorgung auf der Farm beruht bisher auf menschlichen Ressourcen. Der geplante Umzug ins Thorn Valley soll diese Abhängigkeit beenden. Jenner (Originalstimme Paul Shenar) widersetzt sich dem Vorhaben. Der Konflikt betrifft damit nicht nur den Wohnort, sondern die Frage, ob die Gemeinschaft ihre Fähigkeiten für ein eigenständiges Leben einsetzen will.
 
-Merksatz: Thorn Valley steht für Selbstständigkeit statt gestohlener Versorgung.
 
 - Das vorhandene Farmversteck weiter ausbauen.: Der Plan zielt auf einen Umzug und eigenständige Versorgung, nicht auf den Ausbau des Farmverstecks.
 - Andere Versuchstiere aus dem Labor befreien.: Eine neue Laborbefreiung ist nicht der gemeinsame Zukunftsplan.
@@ -1525,7 +1458,6 @@ Warum muss gerade Mrs. Brisby (Originalstimme Elizabeth Hartman) in „Mrs. Bris
 
 Die Katze des Bauern gefährdet die geplante Arbeit am Haus. Mrs. Brisby (Originalstimme Elizabeth Hartman) soll deshalb ein Schlafmittel in deren Schüssel geben. Entscheidend ist ihre geringe Körpergröße: Sie erreicht die Schüssel durch einen Zugang, der für die Helfer zu eng ist. Die Aufgabe verwandelt einen vermeintlichen Nachteil in einen Nutzen, beseitigt aber das persönliche Risiko nicht. Die Mutter muss in den gefährlichen menschlichen Wohnbereich eindringen.
 
-Merksatz: Klein genug für den Zugang, mutig genug für die Katze.
 
 - Sie passt durch den engen Zugang zur Schüssel der Katze.: Die kleine Maus passt durch den Zugang, den die Ratten nicht benutzen können.
 - Sie kennt als Einzige den Weg durch die Küche.: Entscheidend ist der enge Zugang zur Schüssel, nicht exklusives Wissen über die Küche.
@@ -1547,7 +1479,6 @@ Wie sabotiert Jenner (Originalstimme Paul Shenar) den Hausumzug in „Mrs. Brisb
 
 Jenner (Originalstimme Paul Shenar) will den Aufbruch der Ratten verhindern. Während des Hausumzugs manipuliert er den Hebemechanismus, sodass die Last auf Nicodemus (Originalstimme Derek Jacobi) stürzt und ihn tötet. Die Hilfe für die Mäuse wird damit zum Schauplatz eines Machtkampfs. Justin (Originalstimme Peter Strauss) erkennt die Gefahr, doch der Konflikt zwischen den Ratten ist bereits in offene Gewalt umgeschlagen.
 
-Merksatz: Das gerissene Seil verbirgt einen gezielten Machtwechsel.
 
 - Er löst die Verankerung der Winde.: Eine gelöste Windenverankerung ist nicht die gezeigte Sabotage.
 - Er durchtrennt ein Seil des Hebemechanismus.: Das durchtrennte Seil lässt die Last auf Nicodemus fallen.
@@ -1569,7 +1500,6 @@ Was rettet in „Mrs. Brisby und das Geheimnis von NIMH“ das schließlich im S
 
 Als das Haus im Schlamm versinkt, scheinen die technischen Bemühungen gescheitert. Mrs. Brisby (Originalstimme Elizabeth Hartman) konzentriert ihren Willen auf das Amulett, das ihr Nicodemus (Originalstimme Derek Jacobi) gegeben hat. Seine Magie hebt das Haus an einen sicheren Ort. Die Rettung verbindet damit die zuvor organisierte Hilfe mit einer fantastischen Kraft, deren Einsatz an die Entschlossenheit der Mutter gebunden ist.
 
-Merksatz: Die Technik reicht nicht aus; der Wille aktiviert die Magie.
 
 - Ein von den Ratten verlegtes Entwässerungsrohr: Ein Entwässerungsrohr löst die Schlusskrise nicht.
 - Ein zusätzlich gebauter Flaschenzug: Ein zusätzlicher Flaschenzug beendet das Versinken nicht.
@@ -1591,7 +1521,6 @@ In welchem Jahr wurde „Mrs. Brisby und das Geheimnis von NIMH“ erstmals ver�
 
 The Secret of NIMH erschien 1982. Die Romanvorlage Mrs. Frisby and the Rats of NIMH von Robert C. O’Brien wurde 1971 veröffentlicht; zwischen Buch und Film liegen elf Jahre. AFI dokumentiert sowohl die Vorlage als auch den ersten Kinostart. Die Verfilmung übernimmt die Gemeinschaft intelligenter Ratten, ergänzt ihre Geschichte jedoch um einen ausgeprägten magischen Rettungsweg für die bedrohte Mäusefamilie.
 
-Merksatz: Roman 1971, Film 1982: elf Jahre bis zur Verfilmung.
 
 - 1978: 1978 liegt vier Jahre vor dem Erststart.
 - 1985: 1985 liegt drei Jahre nach dem Erststart.
@@ -1613,7 +1542,6 @@ Wer führte bei „Mrs. Brisby und das Geheimnis von NIMH“ die Hauptregie?
 
 Don Bluth führte die Hauptregie von The Secret of NIMH. John Pomeroy und Gary Goldman gehören ebenfalls zum zentralen Herstellungsteam, werden aber nicht als weitere Hauptregisseure geführt. Für die Zuordnung zählt der konkrete Credit des fertigen Films. Die Verbindung aus sorgfältiger Zeichentrickarbeit, bedrohlicher Tierwelt und fantastischer Rettung prägt eine Inszenierung, deren Schauplätze aus menschlicher Sicht klein, für die Figuren jedoch gewaltig erscheinen.
 
-Merksatz: Don Bluth führt die Hauptregie der kleinen, gefährlichen Tierwelt.
 
 - Don Bluth: Don Bluth trägt den alleinigen Hauptregiecredit.
 - Ralph Bakshi: Ralph Bakshi führte bei diesem Film nicht Regie.
@@ -1639,7 +1567,6 @@ In welcher Gestalt begegnet die Titelfigur Sōsuke (Originalstimme Hiroki Doi) z
 
 Ponyo (japanische Originalstimme Yuria Nara) verlässt heimlich die Unterwasserwelt ihres Vaters und gerät in ein Glasgefäß. Sōsuke (Originalstimme Hiroki Doi) findet und befreit den kleinen Fisch am Ufer. Ihr menschlich wirkendes Gesicht macht die Begegnung schon ungewöhnlich, bevor ihre weiteren Fähigkeiten sichtbar werden. Aus einer einfachen Rettung entwickelt sich eine Freundschaft, die die Grenze zwischen Land und Meer verändert.
 
-Merksatz: Ein befreiter kleiner Fisch wird zum ungewöhnlichen Freund.
 
 - Als kleine Möwe: Sie erscheint nicht als Möwe.
 - Als junge Schildkröte: Eine Schildkröte ist nicht ihre erste Gestalt.
@@ -1661,7 +1588,6 @@ Wo arbeitet Lisa (Originalstimme Tomoko Yamaguchi) in „Ponyo – Das große Ab
 
 Lisa (japanische Originalstimme Tomoko Yamaguchi) betreut ältere Menschen in einem Pflegeheim. Ihre Arbeit bleibt auch während der ungewöhnlichen Überschwemmung wichtig: Sie fährt zu den Bewohnerinnen, um nach ihnen zu sehen. Sōsuke (Originalstimme Hiroki Doi) und Ponyo (Originalstimme Yuria Nara) suchen sie später. Der Arbeitsplatz verbindet die private Sorge um die Mutter mit der Hilfsbedürftigkeit weiterer Menschen in derselben Küstengemeinschaft.
 
-Merksatz: Lisas Pflegearbeit bindet die Familie an die ältere Nachbarschaft.
 
 - In einer Grundschule: Eine Grundschule ist nicht ihr Arbeitsplatz.
 - In einer Kinderklinik: Sie arbeitet nicht in einer Kinderklinik.
@@ -1683,7 +1609,6 @@ Was ermöglicht Ponyo (Originalstimme Yuria Nara) in „Ponyo – Das große Abe
 
 Sōsuke (japanische Originalstimme Hiroki Doi) verletzt sich, als er das Glas zerbricht, in dem Ponyo (Originalstimme Yuria Nara) feststeckt. Sie leckt sein Blut und heilt die kleine Wunde. Der Kontakt wirkt zugleich auf sie selbst: Er eröffnet ihr die Möglichkeit, menschliche Gestalt anzunehmen. Die Rettungsbegegnung hat damit eine magische Folge, die später die Ordnung der Unterwasserwelt und des Küstenorts durcheinanderbringt.
 
-Merksatz: Das geheilte Fingerblut öffnet Ponyo den Weg zur Menschengestalt.
 
 - Sie leckt das Blut des Jungen.: Sōsukes Blut gibt ihr die Kraft zur menschlichen Verwandlung.
 - Sie berührt das Gesicht seiner Mutter.: Eine Berührung Lisas ist nicht der Auslöser.
@@ -1705,7 +1630,6 @@ Wie reisen die beiden Kinder in „Ponyo – Das große Abenteuer am Meer“ üb
 
 Sōsuke (japanische Originalstimme Hiroki Doi) und Ponyo (Originalstimme Yuria Nara) wollen nach der Überschwemmung Lisa (Originalstimme Tomoko Yamaguchi) finden. Ponyo vergrößert dafür das kleine Spielzeugboot des Jungen. Die vertraute Miniatur wird zu einem brauchbaren Verkehrsmittel auf dem veränderten Meer. Ihre Magie hält jedoch nicht unbegrenzt an: Als sie müde wird und einschläft, schrumpft das Boot wieder auf seine ursprüngliche Größe.
 
-Merksatz: Das Spielzeug wächst mit der Magie und schrumpft mit der Müdigkeit.
 
 - Auf einem aus Türen gebauten Floß: Die Kinder bauen kein Türfloß für diese Reise.
 - In einem magisch vergrößerten Spielzeugboot: Ponyo vergrößert Sōsukes Spielzeugboot.
@@ -1727,7 +1651,6 @@ Aus welcher Erdperiode stammen die urzeitlichen Meeresbewohner unter dem überfl
 
 Während ihrer Bootsfahrt sehen Sōsuke (japanische Originalstimme Hiroki Doi) und Ponyo (Originalstimme Yuria Nara) eine Unterwasserwelt mit urzeitlichen Meeresbewohnern. Der überflutete Küstenort ist dadurch nicht einfach dieselbe Landschaft unter Wasser. Die Reise führt an Lebensformen aus dem späten Devon vorbei und gibt dem fantastischen Naturwandel eine besondere zeitliche Dimension. Gegenwärtige Häuser, Menschen und Boote stehen neben einer viel älteren Meereswelt.
 
-Merksatz: Die neue Flut zeigt ein Meer aus dem Devon.
 
 - Aus der Trias: Die Trias ist nicht die dargestellte Periode.
 - Aus dem Jura: Die dargestellten Tiere gehören nicht zum Jura.
@@ -1749,7 +1672,6 @@ Worauf muss Ponyo (Originalstimme Yuria Nara) am Ende von „Ponyo – Das groß
 
 Gran Mamare (japanische Originalstimme Yūki Amami) eröffnet Ponyo (Originalstimme Yuria Nara) die Möglichkeit, dauerhaft als Mensch zu leben. Dafür muss sie ihre magischen Kräfte aufgeben. Sōsuke (Originalstimme Hiroki Doi) hat zuvor bestätigt, dass er sie als Fisch ebenso wie als Mensch annimmt. Die Entscheidung erhält so einen Preis und eine Beziehungsvoraussetzung; die Verwandlung ist keine bloße Fortsetzung ihrer bisherigen Zauberkraft.
 
-Merksatz: Das menschliche Leben kostet Ponyo ihre Magie.
 
 - Auf ihre Erinnerungen an den Jungen: Ihre Erinnerungen an den Jungen werden nicht gelöscht.
 - Auf jede Berührung mit Meerwasser: Ein absolutes Meerwasserverbot ist nicht die Bedingung.
@@ -1771,7 +1693,6 @@ In welchem Jahr wurde „Ponyo – Das große Abenteuer am Meer“ erstmals ver�
 
 Ponyo erschien 2008 in Japan. Miyazakis Das wandelnde Schloss stammt von 2004; zwischen diesen Erstjahrgängen liegen vier Jahre. Studio Ghibli dokumentiert die japanischen Veröffentlichungstermine beider Filme. Die Verbindung ordnet Ponyo innerhalb derselben Regiearbeit ein, obwohl die Geschichten unterschiedliche Welten entwickeln: eine vom Meer veränderte Küstengemeinschaft und eine Reise um ein bewegliches, magisches Schloss. Spätere Synchronstarts verändern den ursprünglichen Jahrgang nicht.
 
-Merksatz: Wandelndes Schloss 2004, Ponyo 2008: vier Jahre.
 
 - 2008: Der japanische Erststart war 2008.
 - 2004: 2004 ist der Jahrgang von Das wandelnde Schloss.
@@ -1793,7 +1714,6 @@ Wer führte die Hauptregie der japanischen Originalfassung von „Ponyo – Das 
 
 Hayao Miyazaki schrieb und inszenierte Ponyo. Die Hauptregie bezieht sich auf den ursprünglichen japanischen Animationsfilm, dessen Bildwelt und Handlung bereits vor internationalen Synchronfassungen entstanden. Später beteiligte Teams der englischen Sprachbearbeitung übernehmen damit keine zweite Hauptregie des Originalfilms. Studio Ghibli führt Miyazaki ausdrücklich für Drehbuch und Regie; das Verleihpresskit bestätigt dieselbe Zuordnung für die internationale Präsentation des Werks.
 
-Merksatz: Miyazakis Hauptregie gehört zur japanischen Originalfassung.
 
 - Isao Takahata: Isao Takahata ist nicht ihr Hauptregisseur.
 - Hayao Miyazaki: Hayao Miyazaki inszenierte die Originalfassung.
@@ -1819,7 +1739,6 @@ Wo arbeitet Pazu (Originalstimme Mayumi Tanaka) zu Beginn von „Das Schloss im 
 
 Pazu (japanische Originalstimme Mayumi Tanaka) lebt und arbeitet in einer Bergbaustadt. Seine Umgebung besteht aus Maschinen, Schächten und einer Gemeinschaft arbeitender Menschen. Als Sheeta (Originalstimme Keiko Yokozawa) vom Himmel herabkommt, begegnet das vertraute technische Leben einer ungewöhnlichen Magie. Pazu hilft ihr zunächst vor Ort, bevor die gemeinsame Suche ihn aus dieser erdgebundenen Welt in einen Konflikt um die schwebende Stadt führt.
 
-Merksatz: Bergbaumechanik am Boden, fantastische Reise in der Luft.
 
 - In einer Hafenstadt als Schiffskoch: Ein Schiffskoch im Hafen ist er nicht.
 - In einer Garnison als Funker: Er gehört nicht als Funker zur Garnison.
@@ -1841,7 +1760,6 @@ Welche Gruppe führt Dola (Originalstimme Kotoe Hatsui) in „Das Schloss im Him
 
 Dola (japanische Originalstimme Kotoe Hatsui) führt eine Gruppe von Luftpiraten, die Sheetas Kristall begehrt. Sheeta (Originalstimme Keiko Yokozawa) und Pazu (Originalstimme Mayumi Tanaka) geraten dadurch zunächst in Gefahr. Später verändert sich ihr Verhältnis zu der Bande. Die Piraten bleiben eigennützige Schatzsucher, bilden gegenüber der militärischen Verfolgung aber eine andere Art von Gemeinschaft und eröffnen den Kindern einen Weg zum gesuchten Ort.
 
-Merksatz: Die anfängliche Piratenverfolgerin wird zur wichtigen Verbündeten.
 
 - Eine Bande von Luftpiraten: Dola führt Luftpiraten an.
 - Eine Einheit der Luftwaffe: Sie ist keine Kommandantin der Luftwaffe.
@@ -1863,7 +1781,6 @@ Welches Fundstück seines Vaters bestärkt Pazu (Originalstimme Mayumi Tanaka) i
 
 Pazu (japanische Originalstimme Mayumi Tanaka) glaubt an die schwebende Stadt, weil sein Vater sie fotografiert hat. Dessen Aussage wurde dennoch angezweifelt. Das Bild ist für den Sohn deshalb mehr als eine Aussicht: Es verbindet eine eigene Hoffnung mit dem Wunsch, die Erfahrung seines Vaters zu bestätigen. Die Begegnung mit Sheeta (Originalstimme Keiko Yokozawa) macht aus diesem familiären Antrieb eine konkrete gemeinsame Suche.
 
-Merksatz: Die Fotografie verbindet Entdeckung und das Andenken an den Vater.
 
 - Eine Seekarte mit ihren Koordinaten: Eine genaue Seekarte ist nicht das entscheidende Andenken.
 - Eine Fotografie der schwebenden Stadt: Sein Vater fotografierte die schwebende Stadt.
@@ -1885,7 +1802,6 @@ Was bewirkt Sheetas (Originalstimme Keiko Yokozawa) überlieferter Spruch in der
 
 Sheeta (japanische Originalstimme Keiko Yokozawa) erinnert sich an einen Spruch ihrer Großmutter. In der Festung reagiert darauf der dort aufbewahrte Roboter und erwacht. Er schützt sie und verursacht schwere Zerstörung, während Muska (Originalstimme Minori Terada) weiterhin den Kristall verfolgt. Die Szene zeigt, dass die überlieferte Sprache tatsächlich auf die alte Technik wirkt und die staatliche Kontrolle über deren Kräfte begrenzt ist.
 
-Merksatz: Überlieferte Worte wecken die vermeintlich tote Maschine.
 
 - Er macht die Gefangenen unsichtbar.: Die Gefangenen werden nicht unsichtbar.
 - Er öffnet ein unterirdisches Tor zur Stadt.: Ein unterirdischer Stadtzugang öffnet sich nicht.
@@ -1907,7 +1823,6 @@ Welcher Teil des Piratenluftschiffs dient den Kindern in „Das Schloss im Himme
 
 Pazu (japanische Originalstimme Mayumi Tanaka) und Sheeta (Originalstimme Keiko Yokozawa) übernehmen auf dem Piratenluftschiff den Ausguck. Dieser Beobachtungsplatz besitzt eine zweite Funktion als Gleiter. Im Sturm reißt die Verbindung, sodass die Kinder getrennt vom größeren Schiff weiterfliegen. Die Konstruktion erklärt ihren besonderen Weg durch die gefährliche Wetterzone und verbindet einen alltäglichen Dienst an Bord mit einer entscheidenden technischen Eigenschaft.
 
-Merksatz: Der Ausguck beobachtet die Luft und kann selbst darin gleiten.
 
 - Die vordere Geschützkanzel: Die Geschützkanzel übernimmt diese Funktion nicht.
 - Die untere Ladeplattform: Die Ladeplattform wird nicht zum Gleiter.
@@ -1929,7 +1844,6 @@ Was bleibt nach dem gemeinsamen Zerstörungsspruch der Kinder in „Das Schloss 
 
 Pazu (japanische Originalstimme Mayumi Tanaka) und Sheeta (Originalstimme Keiko Yokozawa) sprechen gemeinsam die Zerstörungsformel. Dadurch zerfällt vor allem der untere Bereich der Stadt mit seiner militärischen Technik. Der riesige Baum hält den oberen Teil zusammen, der weiter aufsteigt. Die Schlussbilder trennen so die bewahrte lebendige Welt von dem Machtmittel, das Muska (Originalstimme Minori Terada) für seine Herrschaft einsetzen wollte.
 
-Merksatz: Die Waffen fallen, der Baum trägt die verbliebene Stadt.
 
 - Der obere Stadtteil mit dem riesigen Baum: Der baumbewachsene obere Teil bleibt erhalten und steigt weiter auf.
 - Der untere Waffenblock mit seinen Geschützen: Der untere Waffenbereich wird zerstört.
@@ -1951,7 +1865,6 @@ In welchem Jahr wurde „Das Schloss im Himmel“ erstmals veröffentlicht?
 
 Das Schloss im Himmel erschien 1986, zwei Jahre nach Nausicaä aus dem Jahr 1984. Studio Ghibli dokumentiert beide japanischen Kinostarts. Die Verbindung ordnet den Film in eine konkrete Folge von Miyazakis Arbeiten ein. Nausicaä entstand laut Studioangabe bei Topcraft; das spätere Luftabenteuer gehört zur frühen Ghibli-Produktion. Beide Werke verbinden eine fantastische Welt mit der Gefahr, große technische Kräfte zur Herrschaft einzusetzen.
 
-Merksatz: Nausicaä 1984, Schloss im Himmel 1986: zwei Jahre.
 
 - 1982: 1982 liegt vier Jahre zu früh.
 - 1986: Der Erstjahrgang ist 1986.
@@ -1973,7 +1886,6 @@ Wer führte die Hauptregie der japanischen Originalfassung von „Das Schloss im
 
 Hayao Miyazaki schrieb und inszenierte Das Schloss im Himmel. Isao Takahata wird als Produzent geführt und gehört damit ebenfalls zur Entstehung, übernimmt aber einen anderen Credit. Die Unterscheidung ist bei eng zusammenarbeitenden Studios besonders hilfreich. Der Regiearbeit wird der originale japanische Film zugeordnet, dessen technische Flugwelt, komische Piratengemeinschaft und zerstörerische Staatsmacht lange vor späteren internationalen Synchronfassungen bereits gestaltet waren.
 
-Merksatz: Miyazaki inszeniert, Takahata produziert das Luftabenteuer.
 
 - Isao Takahata: Isao Takahata ist hier Produzent, nicht Hauptregisseur.
 - Mamoru Hosoda: Mamoru Hosoda führte bei diesem Film nicht Regie.
@@ -1999,7 +1911,6 @@ Welche Sportart übt Merida (Originalstimme Kelly Macdonald) bei ihren Zielübun
 
 Merida (Originalstimme Kelly Macdonald) nutzt jede Gelegenheit, ihren Bogen einzusetzen. Die Fertigkeit passt zu ihrem Wunsch, selbst über ihr Leben zu bestimmen, und wird später im Wettbewerb um ihre Heirat wichtig. Königin Elinor (Originalstimme Emma Thompson) verbindet das Verhalten einer Prinzessin mit anderen Erwartungen. Der Sport zeigt deshalb früh einen Unterschied zwischen der eigenständigen Tochter und dem traditionellen Rollenbild ihrer Mutter.
 
-Merksatz: Meridas Bogen begleitet ihren Wunsch nach Selbstbestimmung.
 
 - Bogenschießen: Merida ist eine geübte Bogenschützin.
 - Speerwerfen: Speerwerfen ist nicht ihre hervorgehobene Fertigkeit.
@@ -2021,7 +1932,6 @@ Welche Gestalt nimmt Elinor (Originalstimme Emma Thompson) nach dem verzauberten
 
 Merida (Originalstimme Kelly Macdonald) wünscht sich eine Veränderung ihrer Mutter und beschafft dafür einen verzauberten Kuchen. Elinor (Originalstimme Emma Thompson) verwandelt sich nach dem Essen in einen Bären. Was als Ausweg aus familiären Regeln gedacht war, schafft ein gefährliches neues Problem. Die Mutter behält zunächst ihr menschliches Bewusstsein, muss sich jedoch gemeinsam mit der Tochter vor Menschen schützen, die nur das Tier erkennen.
 
-Merksatz: Ein gewünschter Sinneswandel wird zur körperlichen Bärenverwandlung.
 
 - Die eines Wolfes: Sie nimmt keine Wolfsgestalt an.
 - Die eines Bären: Elinor wird in einen Bären verwandelt.
@@ -2043,7 +1953,6 @@ Mit welchem Argument nimmt Merida (Originalstimme Kelly Macdonald) in „Merida 
 
 Die Söhne der Clanführer sollen um Meridas Hand antreten. Merida (Originalstimme Kelly Macdonald) nutzt jedoch die Formulierung der Regeln: Als Erstgeborene ihres eigenen Clans nimmt sie selbst am Bogenschießen teil und übertrifft die Bewerber. Elinor (Originalstimme Emma Thompson) erlebt diese Auslegung als offenen Bruch der Erwartungen. Die Tochter widerlegt die Regel nicht von außen, sondern verwendet ihren Wortlaut gegen die vorgesehene Heirat.
 
-Merksatz: Die Erstgeborenenregel lässt Merida für sich selbst antreten.
 
 - Sie ist bereits als neue Königin vereidigt.: Eine Vereidigung zur Königin begründet ihre Teilnahme nicht.
 - Sie vertritt ihren verletzten Vater im Turnier.: Eine Stellvertretung des Vaters ist nicht ihr Argument.
@@ -2065,7 +1974,6 @@ Welcher Tätigkeit geht die Hexe (Originalstimme Julie Walters) in „Merida –
 
 Merida (Originalstimme Kelly Macdonald) folgt den Irrlichtern zu einer Hütte. Die alte Frau dort, gesprochen von Julie Walters, präsentiert sich als Holzschnitzerin und bietet zahlreiche Figuren an. Erst der weitere Besuch macht ihre magischen Fähigkeiten entscheidend. Die scheinbar gewöhnliche handwerkliche Tätigkeit gibt dem Ort einen eigenen Charakter: Merida betritt keinen offen ausgewiesenen Zauberpalast, sondern eine Werkstatt, in der alltägliche Gegenstände und Magie ineinander übergehen.
 
-Merksatz: Die Zauberhilfe sitzt zwischen geschnitzten Holzfiguren.
 
 - Sie webt Wandteppiche.: Eine Teppichweberin ist sie nicht.
 - Sie töpfert Trinkgefäße.: Ihre scheinbare Werkstatt ist keine Töpferei.
@@ -2087,7 +1995,6 @@ Wer war Mor’du vor seiner Bärengestalt in „Merida – Legende der Highlands
 
 Elinor (Originalstimme Emma Thompson) erzählt Merida (Originalstimme Kelly Macdonald) von einem Prinzen, dessen Stolz das Königreich zugrunde richtete. In den Ruinen erkennen sie später den Zusammenhang mit Mor’du. Der bedrohliche Bär ist die verwandelte Gestalt dieses Prinzen. Die Geschichte ist damit keine bloß abstrakte Warnung; sie zeigt ein mögliches Ergebnis derselben Art von magischem Wunsch, dessen Folgen Mutter und Tochter bereits erleben.
 
-Merksatz: Die alte Stolzlegende steht als Bär vor den beiden.
 
 - Ein stolzer Prinz, der sein Königreich zerstörte: Mor’du war der stolze Prinz aus der warnenden Legende.
 - Ein verbannter Clanführer, der dem König die Krone überließ: Er wird nicht als Clanführer mit freiwilligem Thronverzicht enthüllt.
@@ -2109,7 +2016,6 @@ Was löst Elinors (Originalstimme Emma Thompson) Verwandlung am Ende von „Meri
 
 Merida (Originalstimme Kelly Macdonald) repariert den zerrissenen Wandteppich und legt ihn über Elinor (Originalstimme Emma Thompson). Zunächst bleibt die Mutter dennoch ein Bär. Erst die aufrichtige Entschuldigung und die erneuerte Verbindung zwischen beiden erfüllen die Bedeutung der Hexenbotschaft. Die sichtbare Stoffreparatur war also ein Schritt, aber nicht die vollständige Lösung. Das beschädigte familiäre Band verlangt eine tatsächliche Veränderung im Umgang miteinander.
 
-Merksatz: Der Stoff ist genäht, doch erst Versöhnung heilt das Band.
 
 - Allein das vollständige Zusammennähen des Wandteppichs: Der Wandteppich ist bereits repariert, während die Mutter noch ein Bär bleibt.
 - Die aufrichtige Entschuldigung und Versöhnung mit ihrer Tochter: Die Versöhnung erfüllt die wirkliche Bedeutung des beschädigten Bandes.
@@ -2131,7 +2037,6 @@ In welchem Jahr wurde „Merida – Legende der Highlands“ erstmals veröffent
 
 Merida erschien 2012 und wurde im Kino vom Kurzfilm La Luna begleitet. Pixar führt La Luna als Werk von 2011; zwischen den beiden Erstjahrgängen liegt ein Jahr. Die gemeinsame Kinopräsentation macht den älteren Kurzfilm nicht zum Werk desselben Erstjahrs. Beide Geschichten verbinden ein junges Familienmitglied mit Erwartungen älterer Generationen, bearbeiten diesen Zusammenhang aber in unterschiedlich langen, eigenständigen fantastischen Erzählungen.
 
-Merksatz: La Luna 2011, Merida 2012: ein Jahr, später ein Kinoprogramm.
 
 - 2009: 2009 liegt drei Jahre vor dem Start.
 - 2011: 2011 ist der Jahrgang des Kurzfilms La Luna.
@@ -2153,7 +2058,6 @@ Welches vollständige Team trägt bei „Merida – Legende der Highlands“ die
 
 Pixar führt Mark Andrews und Brenda Chapman unter dem Regiecredit und Steve Purcell ausdrücklich unter dem Co-Regiecredit. Deshalb umfasst eine Frage nach dem vollständigen Regieteam einschließlich Co-Regie alle drei Personen. Die wechselhafte Produktionsgeschichte hebt die veröffentlichten Credits nicht auf. Entscheidend ist die klare Zuordnung der fertigen Filmfassung, bei der ein zusätzlich genannter Co-Regisseur weder übergangen noch mit einem Produktionscredit verwechselt werden darf.
 
-Merksatz: Andrews und Chapman führen Regie, Purcell trägt Co-Regie.
 
 - Brad Bird, Peter Sohn und Angus MacLane: Bird, Sohn und MacLane tragen hier keine Regiecredits.
 - Pete Docter, Bob Peterson und Ronnie del Carmen: Dieses andere Pixar-Team ist nicht das Regieteam des Films.
@@ -2179,7 +2083,6 @@ Aus welchem Lebensumfeld stammt die Hauptfigur in „Eragon – Das Vermächtnis
 
 Eragon (Ed Speleers) lebt bei seinem Onkel Garrow (Alun Armstrong) und seinem Cousin Roran (Christopher Egan). Seine Ausgangswelt ist eine arme Bauernfamilie, fern vom königlichen Machtzentrum. Der ungewöhnliche Fund im Wald verändert deshalb nicht nur seine Aufgaben, sondern seine gesamte Stellung. Er begegnet einer verborgenen Geschichte von Drachenreitern, deren Konflikt für den Jungen zunächst außerhalb des vertrauten Alltags liegt.
 
-Merksatz: Ein Bauernjunge wird in die Geschichte der Drachenreiter gezogen.
 
 - Aus dem Haushalt des königlichen Schmieds: Der königliche Schmied bildet nicht seine familiäre Ausgangswelt.
 - Aus einer armen Bauernfamilie: Eragon wächst als armer Bauernjunge auf.
@@ -2201,7 +2104,6 @@ Wie verständigt sich Saphira (Originalstimme Rachel Weisz) mit ihrem Reiter in 
 
 Saphira (Originalstimme Rachel Weisz) wächst aus dem gefundenen Ei zu einem Drachen heran. Ihre Verbindung mit Eragon (Ed Speleers) schließt Gedankenübertragung ein. Dadurch ist sie kein bloßes Reittier: Sie kann sich mitteilen und auf seine Entscheidungen reagieren. Die Stimme ist im Originalfilm hörbar, gehört innerhalb der Handlung aber zur telepathischen Verbindung. Körperliche Nähe und gesprochene Worte aus dem Drachenmaul sind dafür nicht die gezeigte Voraussetzung.
 
-Merksatz: Die Drachenstimme gehört zur Gedankenverbindung.
 
 - Durch gesprochene Worte aus ihrem Maul: Ihre Verständigung wird nicht als gewöhnliches Sprechen aus dem Maul gezeigt.
 - Durch Gesten mit Kopf und Flügeln: Kopf- und Flügelgesten sind nicht die gezeigte Verständigungsform.
@@ -2223,7 +2125,6 @@ Was geschieht mit Eragons (Ed Speleers) Hand beim ersten Berühren des geschlüp
 
 Eragon (Ed Speleers) hält seinen Fund zunächst für einen ungewöhnlichen Stein. Als daraus Saphira (Originalstimme Rachel Weisz) schlüpft, berührt er den jungen Drachen. Auf seiner Handfläche erscheint ein magisches Zeichen. Die Bindung besitzt damit von Anfang an eine sichtbare körperliche Spur. Gleichzeitig reagieren andere Figuren auf das Schlüpfen, sodass das private Erlebnis rasch in den größeren Konflikt um die Rückkehr der Drachenreiter eingebunden wird.
 
-Merksatz: Die erste Berührung schreibt die Verbindung auf die Hand.
 
 - Seine Fingerspitzen beginnen dauerhaft blau zu leuchten.: Die Fingerspitzen leuchten nicht als Folge dieser Berührung dauerhaft blau.
 - Ein frischer Schnitt zieht sich über seinen Handrücken.: Die sichtbare Folge ist eine magische Markierung, kein Schnitt auf dem Handrücken.
@@ -2245,7 +2146,6 @@ Welche Gefahr zeigt Eragons (Ed Speleers) erster großer Feuerzauber in „Erago
 
 Eragon (Ed Speleers) versucht einen Feuerzauber nachzuahmen, den er bei Brom (Jeremy Irons) gesehen hat. Gegen die angreifenden Gegner entfaltet er dabei eine große Wirkung, bricht jedoch selbst vor Erschöpfung zusammen. Broms weitere Unterweisung betrifft deshalb die Kontrolle der Magie und ihre Verbindung mit Saphira (Originalstimme Rachel Weisz). Macht lässt sich hier nicht ohne Rücksicht auf die Belastbarkeit des Anwenders einsetzen.
 
-Merksatz: Große Zauberkraft verbraucht die Kraft des Zaubernden.
 
 - Magie verbraucht seine eigene Kraft bis zur Bewusstlosigkeit.: Er bricht nach dem übermäßigen Kraftverbrauch zusammen.
 - Das Feuer schlägt zurück und verbrennt seine Hände.: Verbrennungen an den Händen sind nicht die gezeigte unmittelbare Folge.
@@ -2267,7 +2167,6 @@ Warum sperren die Varden Murtagh (Garrett Hedlund) in „Eragon – Das Vermäch
 
 Murtagh (Garrett Hedlund) hilft Eragon (Ed Speleers), den Widerstand der Varden zu erreichen. Dort führt die Enthüllung, dass sein Vater Morzan ein abtrünniger Drachenreiter war, zu seiner Inhaftierung. Die Gemeinschaft bewertet ihn zunächst nach seiner Herkunft. Im folgenden Kampf unterstützt er sie dennoch. Damit stellt seine Handlung die Vermutung infrage, familiäre Abstammung lege automatisch die Loyalität eines Menschen fest.
 
-Merksatz: Murtaghs Herkunft erzeugt Misstrauen, sein Handeln zeigt seine eigene Seite.
 
 - Er hat ihren Stützpunkt an königliche Truppen verkauft.: Ein Verkauf des Stützpunkts wird ihm hier nicht als Ursache zugeschrieben.
 - Er ist der Sohn des abtrünnigen Morzan.: Die Abstammung von Morzan weckt ihr Misstrauen.
@@ -2289,7 +2188,6 @@ Welche frühere Stellung enthüllt Brom (Jeremy Irons) in „Eragon – Das Verm
 
 Brom (Jeremy Irons) unterrichtet Eragon (Ed Speleers) in Kampf und Magie. Seine Kenntnisse erhalten eine neue Bedeutung, als er die eigene Vergangenheit als Drachenreiter offenlegt. Sein Drache wurde von Morzan getötet. Der Mentor ist deshalb nicht lediglich ein kundiger Erzähler alter Geschichten, sondern persönlich von dem früheren Verrat betroffen. Seine Unterstützung verbindet Unterricht mit der Erfahrung eines Verlustes, der zur Geschichte des neuen Reiters gehört.
 
-Merksatz: Hinter Broms Lehre steht sein eigenes verlorenes Drachenleben.
 
 - Er war der frühere Herrscher der Varden.: Eine frühere Herrschaft über die Varden ist nicht seine Enthüllung.
 - Er war der leibliche Bruder des herrschenden Königs.: Er wird nicht als leiblicher Bruder des Königs enthüllt.
@@ -2311,7 +2209,6 @@ In welchem Jahr erschien die Filmveröffentlichung von „Eragon – Das Vermäc
 
 Eragon kam 2006 ins Kino. Christopher Paolinis Roman erschien nach seiner selbst verlegten Fassung 2003 bei Knopf; zwischen dieser ausdrücklich gemeinten Verlagsausgabe und dem Film liegen drei Jahre. Die Autorenbiografie dokumentiert beide Stationen. Der Anker meint nicht die früheste selbst veröffentlichte Fassung, sondern den Schritt zum großen Verlag. So bleiben Buchveröffentlichung, weitere Verbreitung und Filmjahr getrennt, obwohl sie denselben Titel tragen.
 
-Merksatz: Knopf-Ausgabe 2003, Film 2006: drei Jahre.
 
 - 2003: 2003 ist der Jahrgang der Knopf-Ausgabe des Romans.
 - 2005: 2005 liegt ein Jahr vor der Filmveröffentlichung.
@@ -2333,7 +2230,6 @@ Wer führte bei der Filmfassung von „Eragon – Das Vermächtnis der Drachenre
 
 Stefen Fangmeier trägt den Hauptregiecredit von Eragon. John Davis und Wyck Godfrey werden im BFI-Filmarchiv als Produzenten geführt und haben eine andere Aufgabe. Die Filmfassung steht als eigenes Werk neben der Romanreihe: Für ihr Regieziel zählt der Credit dieser Veröffentlichung. Der Bauernjunge, seine Bindung an einen Drachen und die gefährliche Unterweisung des Mentors werden damit einem konkreten inszenierenden Filmemacher zugeordnet.
 
-Merksatz: Stefen Fangmeier inszeniert die eigenständige Filmfassung.
 
 - Stefen Fangmeier: Stefen Fangmeier ist Hauptregisseur.
 - Rob Cohen: Rob Cohen inszenierte diese Filmfassung nicht.
@@ -2359,7 +2255,6 @@ Welche Gegenstände fertigt Maurice (Kevin Kline) in der Realverfilmung „Die S
 
 Maurice (Kevin Kline) fertigt in dieser Realverfilmung musikalische Spieluhren an. Sein Handwerk unterscheidet die konkrete Figur von anderen bekannten Fassungen des Märchens. Belle (Emma Watson) lebt mit einem Vater, dessen Gegenstände kleine bewegliche Welten zeigen. Die Tätigkeit verbindet technische Geschicklichkeit mit Erinnerung und Erzählung. Sie gehört zu ihrer vertrauten familiären Umgebung, bevor die Reise des Vaters die Begegnung mit dem verzauberten Schloss auslöst.
 
-Merksatz: Maurices kleine Musikwelten gehören zur Realverfilmung.
 
 - Mechanische Webstühle: Webstühle sind nicht seine gezeigten Arbeiten.
 - Präzise Sternenfernrohre: Sternenfernrohre sind nicht sein charakteristisches Handwerk.
@@ -2381,7 +2276,6 @@ In welchen Gegenstand ist Cadenza (Stanley Tucci) in der Realverfilmung „Die S
 
 Cadenza (Stanley Tucci) gehört zu den verzauberten Bewohnern des Schlosses. Der Hofmusiker besitzt die Gestalt eines Cembalos und setzt seine musikalische Funktion dadurch auf ungewöhnliche Weise fort. Seine Frau Madame Garderobe (Audra McDonald) ist ein Kleiderschrank. Die zusätzlichen Figuren verleihen der Realverfilmung eigene Beziehungen innerhalb des Haushalts; die Gegenstände stehen nicht nur für Ausstattung, sondern für Menschen mit einer Vorgeschichte und miteinander verbundenen Leben.
 
-Merksatz: Der Musiker bleibt als Cembalo Teil des Schlossklangs.
 
 - In eine Standuhr: Die Standuhr ist nicht Cadenzas Gestalt.
 - In eine Spielorgel: Eine Spielorgel ist nicht der Gegenstand seines Fluchs.
@@ -2403,7 +2297,6 @@ Was ermöglicht das magische Buch in der Realverfilmung „Die Schöne und das B
 
 Das Biest (Dan Stevens) zeigt Belle (Emma Watson) ein besonderes Buch, mit dem man an einen gewünschten Ort reisen kann. Sie wählen Paris und gelangen zum früheren Zuhause ihrer Familie. Das Buch ist deshalb kein gewöhnliches Erinnerungsalbum: Es macht einen Ort unmittelbar zugänglich. Die Reise eröffnet Belle eine neue Sicht auf die Vergangenheit, die ihr Vater Maurice (Kevin Kline) lange nur schwer erklären konnte.
 
-Merksatz: Das Buch zeigt Vergangenheit nicht nur, es bringt Belle an ihren Ort.
 
 - Die Reise an einen gewünschten Ort: Das Buch ermöglicht eine magische Reise an einen gewählten Ort.
 - Das Lesen noch ungeschriebener Geschichten: Noch ungeschriebene Geschichten sind nicht seine gezeigte Funktion.
@@ -2425,7 +2318,6 @@ Was tut Gaston (Luke Evans) mit Maurice (Kevin Kline) nach dessen Weigerung in d
 
 Maurice (Kevin Kline) verweigert Gaston (Luke Evans) die Zustimmung zu einer Heirat mit Belle (Emma Watson). Daraufhin lässt Gaston ihn im Wald gefesselt zurück und setzt ihn der Gefahr durch Wölfe aus. Agathe (Hattie Morahan) rettet den Vater. Die Szene zeigt ein Vorgehen, das über Gastons öffentlich gepflegtes Heldenbild hinausgeht: Der Widerstand eines Angehörigen wird nicht mit Überzeugung beantwortet, sondern gewaltsam beseitigt.
 
-Merksatz: Hinter dem Heldenbild steht die gewaltsame Aussetzung des Vaters.
 
 - Er verkauft ihn als Arbeiter an eine entfernte Mine.: Eine Mine ist nicht sein Ziel für Maurice.
 - Er fesselt ihn und überlässt ihn den Wölfen.: Gaston lässt den gefesselten Maurice im Wald zurück.
@@ -2447,7 +2339,6 @@ Was erfährt Belle (Emma Watson) über den Tod ihrer Mutter in der Realverfilmun
 
 Belle (Emma Watson) besucht mit dem Biest (Dan Stevens) die frühere Familienwohnung in Paris. Eine zurückgelassene Seuchenmaske macht den Zusammenhang mit der Pest deutlich. Ihre Mutter (Zoë Rainey) starb, während Maurice (Kevin Kline) mit dem kleinen Kind fortging, um es zu schützen. Die Enthüllung verändert Belles Verständnis der väterlichen Zurückhaltung: Hinter dem Schweigen steht der Verlust eines Menschen und eine damals notwendige Rettungsentscheidung.
 
-Merksatz: Die Seuchenmaske erklärt den Verlust und die Flucht des Vaters.
 
 - Sie starb bei einem Schlossbrand.: Ein Schlossbrand ist nicht die enthüllte Todesursache.
 - Sie ertrank bei einer Flussüberquerung.: Eine Flussüberquerung gehört nicht zur Erklärung.
@@ -2469,7 +2360,6 @@ Welche Identität besitzt Agathe (Hattie Morahan) in der Realverfilmung „Die S
 
 Agathe (Hattie Morahan) wird im Dorf als unscheinbare Außenseiterin behandelt. Sie hilft Maurice (Kevin Kline), nachdem er im Wald zurückgelassen wurde, und erscheint später im Schloss. Dort wird ihre Identität als Zauberin hinter dem Fluch deutlich. Die Schlussenthüllung verbindet die scheinbar machtlose Frau mit der Kraft, die das gesamte Schloss verändert hat. Ihre Stellung im Dorf sagt somit wenig über ihre tatsächliche Macht aus.
 
-Merksatz: Die übersehene Dorfbewohnerin steht hinter dem Schlossfluch.
 
 - Sie ist die verschwundene Mutter des Prinzen.: Sie wird nicht als Mutter des Prinzen enthüllt.
 - Sie ist die ehemalige Dienerin des Schlosses.: Eine ehemalige Schlossdienerin ist nicht die enthüllte Identität.
@@ -2491,7 +2381,6 @@ In welchem Jahr erschien die Realverfilmung „Die Schöne und das Biest“ mit 
 
 Die Schöne und das Biest erschien als Realverfilmung 2017. Die Disney-Zeichentrickfassung stammt von 1991; zwischen den beiden Filmjahrgängen liegen 26 Jahre. Disney bezeichnet den späteren Film ausdrücklich als Neubearbeitung seines Animationsklassikers. Der gemeinsame Titel verdeckt dabei unterschiedliche Besetzungen und ergänzte Handlungsdetails. Der Jahresanker trennt diese beiden Veröffentlichungen, ohne sie mit der noch älteren Märchenverfilmung von Jean Cocteau gleichzusetzen.
 
-Merksatz: Disney-Zeichentrick 1991, Realverfilmung 2017: 26 Jahre.
 
 - 2017: Die Realverfilmung stammt von 2017.
 - 2014: 2014 ist nicht das Erstjahr des fertigen Films.
@@ -2513,7 +2402,6 @@ Wer führte bei der Realverfilmung „Die Schöne und das Biest“ mit Emma Wats
 
 Bill Condon führte die Hauptregie der Realverfilmung mit Belle (Emma Watson) und dem Biest (Dan Stevens). Der Credit unterscheidet diese Veröffentlichung von den älteren Zeichentrick- und Spielfilmfassungen desselben Märchens. Die Inszenierung übernimmt bekannte Musicalelemente, ergänzt aber Figuren und Belles Familiengeschichte. Für das Regieziel zählt deshalb nicht allein der vertraute Titel, sondern die konkrete Fassung mit dieser Besetzung und ihren eigenen Erweiterungen.
 
-Merksatz: Bill Condon gehört zur Fassung mit Emma Watson und Dan Stevens.
 
 - Kenneth Branagh: Kenneth Branagh ist nicht der Regisseur dieser Fassung.
 - Bill Condon: Bill Condon führte Hauptregie.
@@ -2539,7 +2427,6 @@ Welche Stellung hat Dalia (Nasim Pedrad) in der Realverfilmung „Aladdin“?
 
 Dalia (Nasim Pedrad) begleitet Jasmin (Naomi Scott) im Palast und kennt ihre Wünsche und Schwierigkeiten. Als Hofdame und Vertraute besitzt sie einen anderen Zugang zur Prinzessin als die Bewerber um deren Hand. Die Figur gehört zu den Erweiterungen der Realverfilmung. Ihre eigenen Begegnungen mit dem Dschinni (Will Smith) entwickeln zugleich eine weitere Beziehung, die neben der Liebesgeschichte des Hauptpaares erzählt wird.
 
-Merksatz: Dalia steht der Prinzessin als Hofdame nah.
 
 - Sie ist eine königliche Leibwächterin.: Ihr Amt ist nicht die königliche Leibwache.
 - Sie ist die Verwalterin der Hofbibliothek.: Die Hofbibliothek ist nicht ihre gezeigte Aufgabe.
@@ -2561,7 +2448,6 @@ In welcher Rolle begleitet der Dschinni (Will Smith) den angeblichen Prinzen in 
 
 Der Dschinni (Will Smith) begleitet Aladdin (Mena Massoud) bei dessen Auftritt als angeblicher Prinz. Dafür nimmt er menschliche Gestalt an und spielt die Rolle eines Dieners. Die Tarnung erlaubt ihm, sich am Hof unmittelbar einzumischen, ohne offen als magisches Wesen aufzutreten. Dort begegnet er Dalia (Nasim Pedrad), mit der sich eine eigene Liebesgeschichte entwickelt. Der Helfer besitzt dadurch neben seiner Wunschmacht auch ein persönliches Interesse.
 
-Merksatz: Der magische Helfer mischt sich als menschlicher Diener unter den Hof.
 
 - Als dessen menschlicher Diener: Der Dschinni tritt in Menschengestalt als Begleiter und Diener auf.
 - Als dessen königlicher Bruder: Er gibt sich nicht als königlicher Bruder aus.
@@ -2583,7 +2469,6 @@ Wie versucht Jasmin (Naomi Scott) bei der erzwungenen Hochzeit in der Realverfil
 
 Jafar (Marwan Kenzari) erzwingt eine Hochzeit mit Jasmin (Naomi Scott), um seine Machtstellung weiter zu sichern. Als Aladdin (Mena Massoud) zurückkehrt, nimmt Jasmin selbst die Lampe an sich und springt auf den magischen Teppich. Ihr Versuch wird anschließend von Jafars Magie aufgehalten. Die Szene macht sie dennoch zur handelnden Beteiligten: Sie wartet nicht lediglich auf die Befreiung, sondern greift direkt nach dem entscheidenden Machtmittel.
 
-Merksatz: Die Braut greift selbst nach der Lampe und dem Fluchtweg.
 
 - Sie tauscht mit ihrer Hofdame die Hochzeitskleidung.: Ein Kleidertausch ist nicht ihr Fluchtversuch.
 - Sie nimmt die Lampe und springt auf den Teppich.: Jasmin nimmt Jafar die Lampe ab und springt auf den Teppich.
@@ -2605,7 +2490,6 @@ Wodurch beendet Aladdin (Mena Massoud) in der Realverfilmung „Aladdin“ zunä
 
 Aladdin (Mena Massoud) kehrt nach seiner Rettung in den Palast zurück. Dort zerstört er den Kobra-Stab von Jafar (Marwan Kenzari) und beendet damit dessen Bann über den Sultan (Navid Negahban). Jafars Manipulation wird sichtbar, und er verliert zunächst seine Stellung am Hof. Der Vorgang ist ein eigener Erfolg vor dem späteren Besitzwechsel der Lampe: Eine konkrete magische Kontrolle wird durch das Beschädigen ihres Werkzeugs unterbrochen.
 
-Merksatz: Der zerbrochene Stab beendet den Bann über den Herrscher.
 
 - Er verbrennt das königliche Siegel.: Ein königliches Siegel ist nicht das Zaubermittel.
 - Er zerschlägt den Spiegel im Thronsaal.: Ein Thronsaalspiegel wird nicht als Kontrollmittel zerstört.
@@ -2627,7 +2511,6 @@ Welche neue Stellung erhält Jasmin (Naomi Scott) am Ende der Realverfilmung „
 
 Jasmin (Naomi Scott) möchte Verantwortung für ihr Land übernehmen, wird aber zunächst auf eine königliche Heirat verwiesen. Nach dem Konflikt ernennt ihr Vater, der Sultan (Navid Negahban), sie selbst zur Herrscherin. Damit erfüllt die Realverfilmung einen eigenen politischen Handlungsbogen der Prinzessin. Ihre spätere Verbindung mit Aladdin (Mena Massoud) ist nicht einfach die alte Voraussetzung für eine Herrschaft, die allein einem männlichen Thronfolger zufallen soll.
 
-Merksatz: Jasmin heiratet nicht nur, sie regiert selbst.
 
 - Sie wird Botschafterin des Reichs.: Eine Botschafterstellung ist nicht die Schlusslösung.
 - Sie führt ausschließlich den königlichen Handel.: Ihr Amt ist nicht auf den Handel begrenzt.
@@ -2649,7 +2532,6 @@ Welches Leben führt der befreite Dschinni (Will Smith) am Ende der Realverfilmu
 
 Aladdin (Mena Massoud) befreit den Dschinni (Will Smith), der daraufhin als Mensch leben kann. Er heiratet Dalia (Nasim Pedrad), bekommt mit ihr Kinder und reist mit seiner Familie. So erklärt sich auch der Seefahrer, der in der Rahmenhandlung erzählt. Die Freiheit endet für diese Figur nicht bei der gelösten Bindung an eine Lampe, sondern eröffnet ein neues menschliches Leben mit eigenen Beziehungen.
 
-Merksatz: Der freie Dschinni wird zum menschlichen Vater und Seefahrer.
 
 - Als Mensch mit Frau und Kindern auf Reisen: Er lebt menschlich mit seiner Familie und bereist die Welt.
 - Als magischer Berater allein am Königshof: Er bleibt nicht als alleiniger magischer Hofberater zurück.
@@ -2671,7 +2553,6 @@ In welchem Jahr erschien die Realverfilmung „Aladdin“ mit Will Smith erstmal
 
 Aladdin erschien als Realverfilmung 2019, während die Disney-Zeichentrickfassung von 1992 stammt. Zwischen den beiden Filmjahrgängen liegen 27 Jahre. Der spätere Film verwendet vertraute Figuren und Musik, ergänzt jedoch etwa Dalia (Nasim Pedrad) und den menschlichen Familienweg des Dschinnis (Will Smith). Die zeitliche Verbindung hilft deshalb bei der Fassungszuordnung, ohne die späteren Darsteller und das neue Regieteam mit dem ursprünglichen Animationsfilm gleichzusetzen.
 
-Merksatz: Zeichentrick 1992, Realverfilmung 2019: 27 Jahre.
 
 - 2016: 2016 liegt drei Jahre vor dem Erststart.
 - 2019: Die Realverfilmung erschien 2019.
@@ -2693,7 +2574,6 @@ Wer führte bei der Realverfilmung „Aladdin“ mit Will Smith Hauptregie?
 
 Guy Ritchie führte die Hauptregie von Aladdin mit Aladdin (Mena Massoud), Jasmin (Naomi Scott) und dem Dschinni (Will Smith). Der Credit gehört zur Realverfilmung und ist vom Regieteam des Zeichentrickfilms getrennt. Die Inszenierung verbindet die bekannte Wunschgeschichte mit sichtbaren Darstellern und zusätzlichen Figuren. Für die richtige Zuordnung sind deshalb Titel und konkrete Filmfassung gemeinsam wichtig; der vertraute Stoff allein nennt noch keinen Regisseur.
 
-Merksatz: Guy Ritchie inszeniert die Fassung mit Will Smith.
 
 - Jon Favreau: Jon Favreau ist nicht der Regisseur dieser Realverfilmung.
 - Tim Burton: Tim Burton inszenierte diese Fassung nicht.
@@ -2719,7 +2599,6 @@ Wo wird das gesuchte Kind zu Beginn von „Auf der Suche nach dem goldenen Kind�
 
 Das Kind (J.L. Reate) lebt zu Beginn in einem tibetischen Tempel und zeigt ungewöhnliche Fähigkeiten. Sardo Numspa (Charles Dance) dringt mit seinen Helfern ein und entführt es. Die Rettungsaufgabe führt später nach Los Angeles, beginnt aber weit entfernt davon. Diese räumliche Trennung erklärt, warum Chandler Jarrell (Eddie Murphy) zunächst wenig über die Vorgeschichte seines neuen Auftrags weiß.
 
-Merksatz: Die Suche in Los Angeles beginnt mit einer Entführung in Tibet.
 
 - In Tibet: Die Entführung geschieht in einem tibetischen Tempel.
 - In Nepal: Nepal ist nicht der Handlungsort dieser Entführung.
@@ -2741,7 +2620,6 @@ Womit beschäftigt sich Chandler Jarrell (Eddie Murphy) schon vor seinem besonde
 
 Chandler Jarrell (Eddie Murphy) macht in Los Angeles auf den Fall einer vermissten Jugendlichen aufmerksam. Kee Nang (Charlotte Lewis) sieht ihn im Fernsehen und sucht ihn anschließend für die Rettung des besonderen Kindes auf. Die neue Aufgabe knüpft damit an seine vorhandene Arbeit an. Er beginnt nicht als eingeweihter Tempelkämpfer, sondern als Helfer, der Vermisstenfälle verfolgt und mit dem Übernatürlichen zunächst skeptisch umgeht.
 
-Merksatz: Die vorhandene Vermisstensuche führt zum außergewöhnlichen Auftrag.
 
 - Mit Streitigkeiten um große Erbschaften: Erbstreitigkeiten bestimmen seine gezeigte Arbeit nicht.
 - Mit der Suche nach vermissten Kindern und Jugendlichen: Chandler sucht bereits nach vermissten jungen Menschen.
@@ -2763,7 +2641,6 @@ Warum setzen die Entführer dem Kind in „Auf der Suche nach dem goldenen Kind�
 
 Die Helfer von Sardo Numspa (Charles Dance) versuchen, dem Kind (J.L. Reate) Blut im Essen zu geben. Dadurch soll seine Reinheit beeinträchtigt und seine besondere Schutzstellung aufgehoben werden. Das Kind weigert sich jedoch zu essen. Die Spur verbindet Chandler Jarrells (Eddie Murphy) Untersuchung des Todes einer Jugendlichen mit der Entführung: Das ungewöhnliche Essen gehört zu einem gezielten Versuch, das Opfer überhaupt töten zu können.
 
-Merksatz: Das verweigerte Essen bewahrt die Schutzstellung des Kindes.
 
 - Sie wollen seine Erinnerung an den Tempel löschen.: Eine Gedächtnislöschung ist nicht das Ziel.
 - Sie wollen seine magischen Fähigkeiten verstärken.: Die Entführer wollen seine Macht nicht verstärken.
@@ -2785,7 +2662,6 @@ Welchen Gegenstand soll Chandler (Eddie Murphy) in „Auf der Suche nach dem gol
 
 Sardo Numspa (Charles Dance) verlangt von Chandler Jarrell (Eddie Murphy), den Ajanti-Dolch zu beschaffen. Als Gegenleistung stellt er die Freigabe des Kindes (J.L. Reate) in Aussicht. Der Auftrag führt Chandler und Kee Nang (Charlotte Lewis) zum Tempel. Das Objekt verbindet somit zwei Handlungswege: die gefährliche Verhandlung mit dem Entführer und eine Prüfung, durch die Chandler die geforderte Waffe erst erlangen muss.
 
-Merksatz: Der Ajanti-Dolch verbindet Tauschforderung und Tempelprüfung.
 
 - Einen heiligen Gebetsring: Ein Gebetsring ist nicht der verlangte Gegenstand.
 - Eine geweihte Steintafel: Eine Steintafel gehört nicht zur Tauschforderung.
@@ -2807,7 +2683,6 @@ Welche Bedingung gilt für Chandlers (Eddie Murphy) Wasserglas beim Weg zum Dolc
 
 Chandler Jarrell (Eddie Murphy) muss im Tempel einen gefährlichen Weg mit einem gefüllten Wasserglas überwinden. Die Aufgabe verlangt, keinen Tropfen zu verschütten. Der Dolch lässt sich damit nicht einfach durch Stärke oder einen schnellen Zugriff gewinnen. Die Prüfung zwingt den gewöhnlich improvisierenden Helfer zu genauer Körperkontrolle unter unsicheren Bedingungen. Ein alltäglicher Gegenstand wird zur messbaren Grenze zwischen bloßer Kühnheit und einem bestandenen Zugang zum Heiligtum.
 
-Merksatz: Ein einziger verschütteter Tropfen würde die Prüfung verletzen.
 
 - Er darf keinen Tropfen verschütten.: Der Weg muss ohne verschütteten Tropfen bewältigt werden.
 - Er darf das Glas nicht mit den Händen berühren.: Ein Verbot der Handberührung ist nicht die Bedingung.
@@ -2829,7 +2704,6 @@ Warum hält Chandler (Eddie Murphy) Kee Nangs (Charlotte Lewis) Körper in „Au
 
 Kee Nang (Charlotte Lewis) schützt Chandler Jarrell (Eddie Murphy) vor einem Angriff und wird tödlich getroffen. Er hält ihren Körper im Sonnenlicht, weil das Kind (J.L. Reate) sie dort wiederbeleben kann. Die Rettung des Kindes erhält dadurch eine zusätzliche persönliche Dringlichkeit. Nachdem der Entführer besiegt ist, wird diese Hoffnung erfüllt. Die übernatürliche Fähigkeit des Kindes beendet so auch die zweite Verlustgefahr des Schlusskampfs.
 
-Merksatz: Das Sonnenlicht hält die Hoffnung auf Wiederbelebung offen.
 
 - Das Licht allein heilt ihre Wunde.: Die Wiederbelebung benötigt die Fähigkeit des Kindes; das Licht allein heilt sie nicht.
 - Das Kind kann sie dort wiederbeleben.: Das Sonnenlicht ist eine Voraussetzung für die erhoffte Wiederbelebung.
@@ -2851,7 +2725,6 @@ In welchem Jahr wurde „Auf der Suche nach dem goldenen Kind“ mit Eddie Murph
 
 The Golden Child erschien 1986. Beverly Hills Cop, ebenfalls mit Eddie Murphy und von Paramount veröffentlicht, stammt von 1984; zwischen diesen Erstjahrgängen liegen zwei Jahre. AFI beschreibt den früheren Erfolg als Hintergrund der neuen Zusammenarbeit. Der spätere Film verbindet Murphys komischen Hauptdarstellerstil mit einer übernatürlichen Rettungsgeschichte. Sein Filmjahr wird vom Kinostart bestimmt, nicht von der erst später erfolgten Copyrightregistrierung.
 
-Merksatz: Beverly Hills Cop 1984, Golden Child 1986: zwei Jahre.
 
 - 1984: 1984 ist der Jahrgang von Beverly Hills Cop.
 - 1987: 1987 betrifft unter anderem die spätere Copyrightregistrierung.
@@ -2873,7 +2746,6 @@ Wer führte bei „Auf der Suche nach dem goldenen Kind“ mit Eddie Murphy die 
 
 Michael Ritchie führte die Hauptregie von The Golden Child. AFI nennt im Überblick zusätzlich Peter Norman, erläutert dessen Credit im Detail aber als Second-Unit-Regie für Los Angeles und Nepal. Diese zusätzliche Einheit wird nicht zum zweiten Hauptregisseur umgedeutet. Auch Dennis Feldmans ursprüngliche Regieplanung änderte den veröffentlichten Credit nicht: Am fertigen Film ist er als Autor und Co-Produzent beteiligt.
 
-Merksatz: Michael Ritchie führt Hauptregie, Peter Norman leitet die Second Unit.
 
 - John Landis: John Landis ist nicht der Hauptregisseur dieses Films.
 - Martin Brest: Martin Brest inszenierte diesen Film nicht.
@@ -2899,7 +2771,6 @@ Was wollen die Gefährten in „Der gestiefelte Kater“ mithilfe der magischen 
 
 Der gestiefelte Kater (Originalstimme: Antonio Banderas), Kitty Samtpfote (Salma Hayek) und Humpty Dumpty (Zach Galifianakis) suchen magische Bohnen, die eine gewaltige Ranke wachsen lassen. Über sie gelangen sie zu einem Schloss oberhalb der Wolken. Dort hoffen sie auf goldene Eier. Die Reise verbindet den vertrauten Katzenhelden mit Motiven aus einem anderen Märchen und macht aus der Suche nach einem Gegenstand einen gemeinsamen Einbruch in eine fremde Welt.
 
-Merksatz: Bohnenranke und Wolkenschloss gehören zum Weg zu den goldenen Eiern.
 
 - Eine versunkene Stadt im Meer: Ihr Ziel liegt nicht unter dem Meer.
 - Ein Schloss über den Wolken: Die Bohnenranke führt zum Schloss über den Wolken.
@@ -2921,7 +2792,6 @@ Wo lernten sich der Kater (Antonio Banderas) und Humpty Dumpty (Zach Galifianaki
 
 Der gestiefelte Kater (Originalstimme: Antonio Banderas) erzählt Kitty Samtpfote (Salma Hayek) von seiner Kindheit mit Humpty Dumpty (Zach Galifianakis). Die beiden wachsen im Waisenhaus von San Ricardo auf und entwickeln eine enge Freundschaft. Imelda (Constance Marie) kümmert sich dort um den Kater. Diese gemeinsame Vergangenheit erklärt, weshalb eine spätere Zusammenarbeit trotz des gebrochenen Vertrauens überhaupt möglich wird: Der neue Gefährte ist zugleich jemand aus seiner früheren Familie.
 
-Merksatz: Die gemeinsame Kindheit verbindet die später zerstrittenen Gefährten.
 
 - Bei einer fahrenden Theatergruppe: Eine Theatergruppe verbindet ihre Kindheit nicht.
 - In der Schule eines Fechtmeisters: Sie begegnen sich nicht erstmals beim Fechtunterricht.
@@ -2943,7 +2813,6 @@ Wodurch wird der Kater (Antonio Banderas) in „Der gestiefelte Kater“ zum ges
 
 Humpty Dumpty (Originalstimme: Zach Galifianakis) täuscht den gestiefelten Kater (Antonio Banderas) darüber, dass ihre gemeinsame Fahrt einem Banküberfall dient. Als der Kater den Plan erkennt, ist er bereits verwickelt und muss fliehen. Humpty bleibt zurück und wird festgenommen. Aus dem ehemaligen Bündnis entstehen dadurch zwei verschiedene Verletzungen: Der Kater verliert seinen guten Ruf, während Humpty sich von seinem Freund im Stich gelassen fühlt.
 
-Merksatz: Ein vorgetäuschter gemeinsamer Plan zerstört Ruf und Freundschaft.
 
 - Kitty (Salma Hayek) belastet ihn mit gestohlenen Juwelen: Ein Juwelendiebstahl mit Kitty begründet die frühere Flucht nicht.
 - Jack (Billy Bob Thornton) lässt ihn wegen Viehdiebstahls verfolgen: Jack verursacht keinen solchen Viehdiebstahlsvorwurf.
@@ -2965,7 +2834,6 @@ Warum nehmen die Gefährten in „Der gestiefelte Kater“ die junge Goldgans st
 
 Im Wolkenschloss entdecken der gestiefelte Kater (Originalstimme: Antonio Banderas), Kitty Samtpfote (Salma Hayek) und Humpty Dumpty (Zach Galifianakis) die erhofften goldenen Eier. Ihr Gewicht macht den Abtransport schwierig. Als die Gefährten erkennen, dass die junge Gans weitere Eier legt, nehmen sie das Tier mit. Die praktische Lösung verändert den Charakter ihres Diebstahls: Mit der lebenden Beute schaffen sie zugleich eine Verbindung zu deren gefährlicher Beschützerin.
 
-Merksatz: Die zu schwere Beute wird durch ihre lebende Quelle ersetzt.
 
 - Die Eier sind zu schwer zum Transport: Die schwere Beute wird durch die Gans ersetzt, die weitere Eier legen kann.
 - Die Eier verlieren außerhalb des Schlosses ihren Wert: Ein Wertverlust außerhalb des Schlosses ist nicht das Problem.
@@ -2987,7 +2855,6 @@ Welche Beziehung erklärt in „Der gestiefelte Kater“, warum die gewaltige Ve
 
 Im Gefängnis erfährt der gestiefelte Kater (Originalstimme: Antonio Banderas), dass die gefürchtete Riesengans die Mutter der gestohlenen Goldgans ist. Ihr Angriff richtet sich auf die Rückholung ihres Jungen. Humpty Dumpty (Zach Galifianakis) hat diese Bedrohung in seine Rache an San Ricardo einbezogen. Die Enthüllung verbindet den anfänglichen Beutediebstahl mit der drohenden Zerstörung der Stadt und eröffnet zugleich eine Möglichkeit, die Verfolgerin von den Bewohnern wegzulocken.
 
-Merksatz: Die Verfolgerin handelt als Mutter des gestohlenen Jungen.
 
 - Sie ist die verwandelte Besitzerin der Bohnen: Die Verfolgerin ist keine verwandelte Bohnenbesitzerin.
 - Sie ist die Mutter der gestohlenen Goldgans: Die riesige Gans sucht ihr gestohlenes Junges.
@@ -3009,7 +2876,6 @@ Wie löst Humpty Dumpty (Zach Galifianakis) in „Der gestiefelte Kater“ das D
 
 An der einstürzenden Brücke hängen Humpty Dumpty (Originalstimme: Zach Galifianakis) und die junge Goldgans an einer Last, die der gestiefelte Kater (Antonio Banderas) nicht gemeinsam retten kann. Humpty lässt los. Die Entscheidung ermöglicht die Wiedervereinigung von Mutter und Jungem und wendet die Gefahr für San Ricardo ab. Sie beantwortet seinen früheren Verrat durch eine selbstlose Handlung; der spätere komische Epilog ist davon als eigener Schlussmoment zu unterscheiden.
 
-Merksatz: Loslassen macht die Rettung des Jungen möglich.
 
 - Er bietet die Gans gegen freies Geleit an: Er handelt dort keine Freilassung gegen die Gans aus.
 - Er wirft die Gans ins Wasser und hält sich fest: Er rettet sich nicht auf Kosten des Jungen.
@@ -3031,7 +2897,6 @@ In welchem Jahr erschien „Der gestiefelte Kater“ als eigenständiger animier
 
 Der gestiefelte Kater erschien 2011. Seine direkte Kinofortsetzung Der gestiefelte Kater: Der letzte Wunsch folgte 2022, elf Jahre später. DreamWorks benennt den späteren Film ausdrücklich als Nachfolger des ersten Abenteuers. Der Abstand trennt zwei eigenständige Questen derselben Figur: Hier stehen die gemeinsame Vergangenheit und goldene Eier im Mittelpunkt, später die verlorenen Katzenleben. Die dazwischen veröffentlichten Fernsehgeschichten verschieben das Erstjahr des Kinofilms nicht.
 
-Merksatz: 2011 erster Solofilm, 2022 Der letzte Wunsch: elf Jahre Abstand.
 
 - 2008: 2008 liegt drei Jahre davor.
 - 2014: 2014 liegt drei Jahre danach.
@@ -3053,7 +2918,6 @@ Wer führte bei „Der gestiefelte Kater“, dem ersten eigenständigen animiert
 
 Chris Miller führt den alleinigen Hauptregiecredit des Films. Die Geschichte stellt eine aus der Shrek-Welt bekannte Nebenfigur ins Zentrum und erzählt eine frühere Freundschaft, deren Folgen bis in das neue Abenteuer reichen. Guillermo del Toro ist als Executive Producer und Originalstimme beteiligt; diese Funktionen machen ihn nicht zum zweiten Hauptregisseur. Die Filmkarte von AFI und die Präsentation des MoMA bestätigen Millers Zuordnung zu dieser konkreten Fassung.
 
-Merksatz: Miller inszeniert die Vorgeschichte des eigenständigen Katzenhelden.
 
 - Chris Miller: Chris Miller trägt den alleinigen Hauptregiecredit.
 - Mike Mitchell: Mike Mitchell ist nicht der Hauptregisseur dieses Solofilms.
@@ -3079,7 +2943,6 @@ Welche Tiere helfen Aschenbrödel (Libuše Šafránková) in „Drei Haselnüsse
 
 Aschenbrödel (Libuše Šafránková) erhält von ihrer Stiefmutter (Carola Braunbock) aufwendige Sortierarbeiten, die sie im Haus festhalten sollen. Ihre Tauben helfen, die vermischten Bestandteile zu trennen. Dadurch gewinnt sie Zeit für eigene Wege. Die Tiere sind nicht bloß Schmuck der Märchenwelt: Ihre Hilfe durchkreuzt eine konkrete Form der Kontrolle. Aschenbrödel kann das Gut verlassen, obwohl die Stiefmutter sie durch Arbeit von den Begegnungen draußen fernhalten möchte.
 
-Merksatz: Die Tauben schaffen Zeit für Aschenbrödels eigene Wege.
 
 - Mäuse: Mäuse übernehmen diese Arbeit in der Filmfassung nicht.
 - Spatzen: Spatzen sind nicht die gezeigten Helfer.
@@ -3101,7 +2964,6 @@ Wie verhindert Aschenbrödel (Libuše Šafránková) in „Drei Haselnüsse für
 
 Aschenbrödel (Libuše Šafránková) begegnet dem Prinzen (Pavel Trávníček) zunächst im verschneiten Wald. Als er auf ein Reh zielt, stört sie ihn mit einem Schneeball. Die Begegnung beginnt deshalb mit Widerspruch und einer Verfolgung, nicht mit einem höfischen Kennenlernen. Sie behauptet sich gegenüber seinem Auftreten als Jäger und Prinz. Ihre spätere Verkleidung knüpft an diese frühe Auseinandersetzung an, ohne dass er ihre Identität bereits durchschaut.
 
-Merksatz: Der Schneeball macht das erste Treffen zu einer widerspenstigen Begegnung.
 
 - Sie reißt ihm die Armbrust weg: Sie entreißt dem Prinzen die Armbrust nicht.
 - Sie scheucht das Reh mit einem Horn fort: Ein Jagdhorn verscheucht das Reh in dieser Szene nicht.
@@ -3123,7 +2985,6 @@ Welche Kleidung erhält Aschenbrödel (Libuše Šafránková) aus der zuerst ge�
 
 Die erste geöffnete Nuss gibt Aschenbrödel (Libuše Šafránková) eine Jägerkleidung. In dieser Verkleidung beweist sie ihre Treffsicherheit vor dem Prinzen (Pavel Trávníček) und seinen Begleitern. Er bewundert einen vermeintlich jungen Jäger, ohne die Bekannte aus dem Wald zu erkennen. Die Gabe ermöglicht damit mehr als einen schönen Auftritt: Sie verschafft ihr eine Rolle, in der ihre Fähigkeiten sichtbar werden und die üblichen Erwartungen an sie vorübergehend entfallen.
 
-Merksatz: Die erste Verkleidung macht Aschenbrödels Jagdgeschick sichtbar.
 
 - Eine Jägerkleidung: Die erste Nuss liefert eine Jägerverkleidung.
 - Ein Ballkleid: Das Ballkleid stammt aus der zweiten Nuss.
@@ -3145,7 +3006,6 @@ Welche Bedingung stellt Aschenbrödel (Libuše Šafránková) beim Ball in „Dr
 
 Beim Ball begegnet Aschenbrödel (Libuše Šafránková) dem Prinzen (Pavel Trávníček) erneut in anderer Kleidung. Seine Bewunderung genügt ihr jedoch nicht: Sie stellt ein Rätsel, das auf ihre früheren Begegnungen verweist. Er soll die scheinbar verschiedenen Erscheinungen als dieselbe Person erkennen. Die Bedingung verbindet Zuneigung mit aufmerksamem Wiedererkennen. Der Tanz allein entscheidet die Verbindung deshalb noch nicht; der Prinz muss seine Erfahrungen außerhalb des höfischen Festes einbeziehen.
 
-Merksatz: Das Rätsel verbindet die verschiedenen Erscheinungen derselben Person.
 
 - Er muss ihre Stiefmutter um Erlaubnis bitten: Die Erlaubnis der Stiefmutter ist nicht ihre Bedingung beim Ball.
 - Er muss ein Rätsel über ihre Identität lösen: Ihr Rätsel verbindet die bisherigen Begegnungen und ihre Identität.
@@ -3167,7 +3027,6 @@ Warum wurde die ursprünglich sommerlich geplante Geschichte von „Drei Haseln�
 
 Die DEFA-Stiftung beschreibt, dass Václav Vorlíček zunächst eine sommerliche Handlung plante. Weil die DEFA bereits ausreichend Projekte für die Sommermonate vorgesehen hatte, wurde mit den Barrandov Studios ein Winterdreh vereinbart. Die heute prägende Schneelandschaft entstand somit aus einer Produktionsentscheidung. Wetter blieb dabei eine Herausforderung: An deutschen Drehorten musste Kunstschnee eingesetzt werden, während im Böhmerwald sehr viel echter Schnee die Arbeit erschwerte.
 
-Merksatz: Eine abgestimmte Produktionsplanung führt zur winterlichen Märchenwelt.
 
 - Die Schlossverwaltung erlaubte ausschließlich Winteraufnahmen: Eine ausschließliche Wintererlaubnis des Schlosses wird nicht als Grund genannt.
 - Die Darsteller waren nur in den Weihnachtsferien verfügbar: Weihnachtsferien der Besetzung erklären die Umstellung nicht.
@@ -3189,7 +3048,6 @@ Warum mussten bei den grenzüberschreitenden Dreharbeiten zu „Drei Haselnüsse
 
 Die Dreharbeiten fanden an deutschen und tschechischen Schauplätzen statt. Nach Darstellung der DEFA-Stiftung führte die in Tschechien ausgebrochene Maul- und Klauenseuche dazu, dass Pferde die Ländergrenze nicht passieren durften. Je nach Drehort mussten deshalb andere Tiere mitwirken. Der scheinbar durchgehende Ritt einer Figur kann im fertigen Film aus Aufnahmen mit verschiedenen Pferden bestehen. Die Produktionspraxis erhält so eine sichtbare Handlung trotz einer unsichtbaren logistischen Grenze.
 
-Merksatz: Die Ländergrenze erforderte Tierwechsel für zusammenhängend erzählte Ritte.
 
 - Die Besitzer erlaubten ihren Tieren keine langen Waldritte: Eine allgemeine Ablehnung langer Waldritte ist nicht der belegte Grund.
 - Die Schlossverwaltung untersagte fremde Pferde auf dem Gelände: Ein Schlossverbot für fremde Pferde erklärt den Austausch nicht.
@@ -3211,7 +3069,6 @@ In welchem Jahr erschien „Drei Haselnüsse für Aschenbrödel“ mit Libuše �
 
 Drei Haselnüsse für Aschenbrödel erschien 1973. Václav Vorlíček setzte seine Märchenfilmarbeit mit Wie man Dornröschen wachküßt von 1977 fort; zwischen beiden Filmen liegen vier Jahre. Die DEFA-Stiftung nennt diese spätere Arbeit im Regieporträt. Der Zeitanker verbindet zwei unterschiedliche Märchen aus derselben Laufbahn. Der spätere deutsche Kinostart von Aschenbrödel ist davon getrennt zu halten: Die erste Veröffentlichung des Films bleibt dem Jahr 1973 zugeordnet.
 
-Merksatz: 1973 Aschenbrödel, 1977 Dornröschen: vier Jahre zwischen Vorlíčeks Märchenfilmen.
 
 - 1973: 1973 ist das Erstjahr des Films.
 - 1970: 1970 liegt drei Jahre davor.
@@ -3233,7 +3090,6 @@ Wer führte bei „Drei Haselnüsse für Aschenbrödel“ mit Libuše Šafránko
 
 Václav Vorlíček inszenierte die Koproduktion der DEFA und der Barrandov Studios. Libuše Šafránková und Pavel Trávníček spielen die beiden Hauptfiguren; das Ensemble verbindet tschechische und deutsche Originaldarsteller. Die jeweilige Sprachfassung synchronisiert Teile dieser Besetzung und ist vom Darstellercredit zu unterscheiden. Vorlíčeks Regie verbindet die märchenhaften Kostümwechsel mit einer Heldin, die reiten, schießen und widersprechen kann, bevor ihr Auftritt im Ballsaal die höfische Aufmerksamkeit gewinnt.
 
-Merksatz: Vorlíček inszeniert eine aktive Heldin innerhalb der Märchenkoproduktion.
 
 - Juraj Herz: Juraj Herz ist nicht der Hauptregisseur dieses Films.
 - Václav Vorlíček: Václav Vorlíček inszenierte die Märchenverfilmung.
@@ -3259,7 +3115,6 @@ Was reizt Grendel (Crispin Glover) in „Die Legende von Beowulf“ zu seinen An
 
 Grendel (Crispin Glover) wird durch die lauten Feiern in Heorot gequält. Seine überempfindlichen Ohren machen das fröhliche Treiben der Menschen für ihn unerträglich. Hrothgar (Anthony Hopkins) lässt nach den Angriffen die Halle schließen und verbietet weitere Ausgelassenheit. Die Darstellung gibt dem Monster eine konkrete Wahrnehmung, die seine Gewalt auslöst. Später nutzt Beowulf (Ray Winstone) diese körperliche Schwäche im Kampf, statt nur größere Stärke einzusetzen.
 
-Merksatz: Was den Menschen Freude macht, quält Grendels Gehör.
 
 - Der Rauch der Herdfeuer: Herdrauch löst seine Angriffe nicht aus.
 - Die Bewachung der Küste: Die Küstenbewachung ist nicht der Auslöser.
@@ -3281,7 +3136,6 @@ Wie tritt Beowulf (Ray Winstone) in „Die Legende von Beowulf“ zum Kampf gege
 
 Beowulf (Ray Winstone) legt für den Kampf gegen Grendel (Crispin Glover) Kleidung und Waffen ab. Er will dem ebenfalls unbewaffneten Gegner ohne diesen Vorteil begegnen. Die auffällige Vorbereitung gehört zu seiner öffentlichen Selbstdarstellung als außergewöhnlicher Krieger. Der folgende Kampf bestätigt zunächst seinen Anspruch und steigert seinen Ruhm. Seine späteren Entscheidungen gegenüber anderen Gefahren müssen dagegen gesondert betrachtet werden: Dieser erste Sieg erklärt nicht bereits die gesamte Geschichte seiner Herrschaft.
 
-Merksatz: Beowulf sucht die unbewaffnete Kraftprobe mit Grendel.
 
 - Nackt und ohne Waffen: Er stellt sich Grendel nackt und unbewaffnet.
 - In Rüstung mit einer Lanze: Rüstung und Lanze verwendet er für diesen Kampf nicht.
@@ -3303,7 +3157,6 @@ Welches Geschenk erhält Beowulf (Ray Winstone) in „Die Legende von Beowulf“
 
 Hrothgar (Anthony Hopkins) belohnt Beowulf (Ray Winstone) nach Grendels Niederlage mit einem goldenen Trinkhorn. Der Gegenstand steht zunächst für königliche Anerkennung und einen erfolgreich bestandenen Kampf. Er bleibt jedoch nicht bloß ein dekoratives Zeichen des Ruhms. Auf Beowulfs nächstem Weg spielt er erneut eine Rolle und kehrt später in die Geschichte zurück. Das Geschenk verbindet dadurch verschiedene Abschnitte der Herrschaft und ihre zunächst verborgenen Verpflichtungen.
 
-Merksatz: Das goldene Trinkhorn trägt die Geschichte über den ersten Sieg hinaus.
 
 - Ein mit Edelsteinen besetztes Schwert: Ein Edelsteinschwert ist nicht dieses Siegesgeschenk.
 - Ein goldenes Trinkhorn: Hrothgar überreicht sein goldenes Trinkhorn.
@@ -3325,7 +3178,6 @@ Was verlangt Grendels Mutter (Angelina Jolie) in „Die Legende von Beowulf“ z
 
 Grendels Mutter (Angelina Jolie) begegnet Beowulf (Ray Winstone) in ihrer Höhle und bietet ihm eine Zukunft als König an. Dafür verlangt sie das Trinkhorn und einen Sohn. Der Handel ersetzt den erwarteten offenen Zweikampf durch eine Versuchung, die seinen Ehrgeiz anspricht. Beowulf nimmt an und verschweigt später die tatsächliche Begegnung. Die Filmfassung verbindet den Aufstieg des Helden damit ausdrücklich mit einer geheimen Verpflichtung und einer falschen öffentlichen Erzählung.
 
-Merksatz: Die versprochene Krone hat einen geheimen persönlichen Preis.
 
 - Er soll ihr die Königin ausliefern: Die Auslieferung der Königin ist nicht ihr verlangter Preis.
 - Er soll seinen Freund als Geisel zurücklassen: Eine Geiselhaft des Freundes gehört nicht zu diesem Handel.
@@ -3347,7 +3199,6 @@ Wie tötet Beowulf (Ray Winstone) in „Die Legende von Beowulf“ den Drachen i
 
 Der Drache bedroht Wealtheow (Robin Wright) und Ursula (Alison Lohman) am Schloss. Beowulf (Ray Winstone) erreicht im Kampf eine verwundbare Stelle und versucht, zum Herzen vorzudringen. Er muss dabei seinen eigenen Arm opfern und reißt das Herz schließlich mit der Hand heraus. Der Sieg ist deshalb keine folgenlose Bestätigung seiner alten Stärke. Er rettet die bedrohten Menschen durch eine letzte körperliche Anstrengung, die ihn selbst tödlich verletzt zurücklässt.
 
-Merksatz: Das erreichte Herz beendet den Kampf und kostet Beowulf das Leben.
 
 - Er schlägt ihm den Kopf ab: Er enthauptet den Drachen nicht.
 - Er durchstößt sein Gehirn mit einer Lanze: Eine Lanze durch das Gehirn beendet den Kampf nicht.
@@ -3369,7 +3220,6 @@ Wie entstand in „Die Legende von Beowulf“ die Grundlage für die Bewegungen 
 
 Die Darsteller spielten ihre Szenen mit Körpermarkern, deren Bewegungen Kameras erfassten. Diese Leistungen dienten als Grundlage der anschließenden digitalen Figurenanimation. Das Verfahren überträgt eine körperliche Darstellung in eine gestaltbare Bildwelt, ohne den Schauspieler einfach unverändert abzufilmen. Zusätzliche Animationsarbeit bleibt nötig, besonders für die Monster. Die Verbindung erklärt, weshalb Ray Winstones Beowulf zugleich eine gespielte Leistung und eine deutlich gestaltete digitale Erscheinung ist.
 
-Merksatz: Erfasste Darstellerbewegung und digitale Gestaltung wirken zusammen.
 
 - Durch erfasste Schauspielerleistungen mit Körpermarkern: Motion Capture erfasste die Leistungen der Schauspieler als Grundlage der Animation.
 - Durch Einzelbildaufnahmen beweglicher Modellpuppen: Die Hauptfiguren wurden nicht durch Stop-Motion-Puppen gespielt.
@@ -3391,7 +3241,6 @@ In welchem Jahr erschien „Die Legende von Beowulf“ in der digital animierten
 
 Robert Zemeckis veröffentlichte Der Polarexpress 2004 und Die Legende von Beowulf 2007, drei Jahre später. AFI beschreibt den Einsatz der zuvor verwendeten Motion-Capture-Technik für die spätere Produktion. Der Zeitanker verbindet zwei verschiedene Stoffe über ein konkretes filmisches Verfahren. Der Beginn der Schauspieleraufnahmen 2005 gehört dagegen zur Herstellung von Beowulf. Er bezeichnet weder dessen ersten Kinostart noch eine zusätzliche veröffentlichte Fassung des Films.
 
-Merksatz: 2004 Polarexpress, 2007 Beowulf: drei Jahre zwischen den Motion-Capture-Filmen.
 
 - 2004: 2004 ist das frühere Jahr von Der Polarexpress.
 - 2007: 2007 ist das Erstjahr dieser Fassung.
@@ -3413,7 +3262,6 @@ Wer führte bei „Die Legende von Beowulf“ mit Ray Winstone und Angelina Joli
 
 Robert Zemeckis inszenierte die veröffentlichte Fassung auf Grundlage des Drehbuchs von Neil Gaiman und Roger Avary. Sie erzählt den alten Heldenstoff mit digital gestalteten Figuren und verändert wesentliche Motive des Gedichts. Avary war früher als Regisseur vorgesehen, gehört im fertigen Film jedoch zum Autorenteam. Steve Starkey führte eine zusätzliche Einheit. Diese Tätigkeiten sind von Zemeckis’ alleinigem Hauptregiecredit zu unterscheiden und erklären die verschiedenen Namen in der Produktionsgeschichte.
 
-Merksatz: Zemeckis inszeniert; Gaiman und Avary schreiben die veränderte Heldengeschichte.
 
 - Peter Jackson: Peter Jackson ist nicht der Hauptregisseur dieser Beowulf-Fassung.
 - Guillermo del Toro: Guillermo del Toro inszenierte diese Fassung nicht.
@@ -3439,7 +3287,6 @@ Welche Einladung bringt Shrek und Fiona (Mike Myers, Cameron Diaz) in „Shrek 2
 
 Shrek (Originalstimme: Mike Myers) und Fiona (Cameron Diaz) kehren von ihrer Hochzeitsreise zurück und finden die Einladung von Fionas Eltern. König Harold (John Cleese) und Königin Lillian (Julie Andrews) wollen die Heirat am Hof feiern. Die Begegnung bringt jedoch Erwartungen zutage, die das Paar nicht erfüllt. Aus einem scheinbar gewöhnlichen Familienbesuch entsteht deshalb ein Konflikt darüber, wie ein königlicher Ehemann aussehen und welche Zukunft Fiona haben soll.
 
-Merksatz: Die Hochzeitsfeier am Hof wird zur Begegnung mit unerfüllten Erwartungen.
 
 - Fionas (Cameron Diaz) Eltern wollen ihre Heirat feiern: Das Königspaar lädt zur Feier der Heirat ein.
 - Ein Fechtturnier sucht neue Teilnehmer: Ein Fechtturnier ist nicht der Anlass der Reise.
@@ -3461,7 +3308,6 @@ Welchen Auftrag erhält der gestiefelte Kater (Antonio Banderas) zunächst in �
 
 König Harold (Originalstimme: John Cleese) heuert den gestiefelten Kater (Antonio Banderas) an, um Shrek (Mike Myers) loszuwerden. Der Angriff misslingt. Nachdem Shrek ihm das Leben lässt, erklärt der Kater den Hintergrund seines Auftrags und bietet seine Hilfe an. Die Figur beginnt damit nicht als selbstverständliches Mitglied der Reisegruppe. Eine verschonte Niederlage ermöglicht den Wechsel vom angeworbenen Gegner zum Verbündeten und verändert die Zusammensetzung des vertrauten Duos.
 
-Merksatz: Ein gescheiterter Mordauftrag führt zur neuen Freundschaft.
 
 - Fiona (Cameron Diaz) aus dem Schloss zu entführen: Eine Entführung Fionas ist nicht sein erster Auftrag.
 - Shrek (Mike Myers) zu töten: Harold heuert ihn zur Tötung Shreks an.
@@ -3483,7 +3329,6 @@ Welche Gestalt nimmt der Esel (Eddie Murphy) in „Shrek 2 – Der tollkühne He
 
 Shrek (Originalstimme: Mike Myers) stiehlt einen Trank aus der Fabrik der guten Fee (Jennifer Saunders). Er und der Esel (Eddie Murphy) trinken davon. Während Shrek als Mensch erwacht, wird sein Begleiter zu einem weißen Hengst. Die gemeinsame Verwandlung lässt beide mit einer neuen Erscheinung weiterreisen. Für den Esel ist die schöne Pferdegestalt zunächst ein Anlass zur Begeisterung; ihre Dauer hängt jedoch mit der zeitlich begrenzten Wirkung des Tranks zusammen.
 
-Merksatz: Derselbe Trank macht aus Shrek einen Menschen und aus dem Esel einen Hengst.
 
 - Die eines jungen Prinzen: Ein Prinz wird er durch den Trank nicht.
 - Die eines geflügelten Pferdes: Das verwandelte Pferd besitzt keine Flügel.
@@ -3505,7 +3350,6 @@ Welche Täuschung soll Prinz Charming (Rupert Everett) in „Shrek 2 – Der tol
 
 Die gute Fee (Originalstimme: Jennifer Saunders) schickt ihren Sohn Prinz Charming (Rupert Everett) zu Fiona (Cameron Diaz), nachdem Shrek (Mike Myers) durch den Trank menschlich geworden ist. Charming soll dessen neue Gestalt verkörpern. Die Verwechslung nutzt aus, dass die Prinzessin den verwandelten Ehemann noch nicht eindeutig erkennen kann. Fiona bleibt jedoch skeptisch. Die äußere Erscheinung allein ersetzt keine vertraute Beziehung, weshalb die Fee ihre Täuschung durch einen weiteren Zauber absichern will.
 
-Merksatz: Charming besetzt die vermeintlich neue Erscheinung eines anderen Mannes.
 
 - Er behauptet, Shrek (Mike Myers) sei sein verschollener Bruder: Eine angebliche Bruderschaft ist nicht die verwendete Täuschung.
 - Er erklärt sich zum Überbringer von Shreks (Mike Myers) Abschiedsbrief: Ein Abschiedsbrief bildet seine Rolle am Hof nicht.
@@ -3527,7 +3371,6 @@ Warum wirkt Fionas (Cameron Diaz) Liebestrank beim Ball in „Shrek 2 – Der to
 
 Die gute Fee (Originalstimme: Jennifer Saunders) will Fiona (Cameron Diaz) durch einen Liebestrank an Prinz Charming (Rupert Everett) binden. König Harold (John Cleese) soll den Trank in ihren Tee geben, vertauscht jedoch ihren Becher mit seinem eigenen. Charming erhält deshalb nicht die erhoffte Zuneigung. Harolds Eingriff bedeutet eine Entscheidung gegen den Plan, den er zuvor unterstützt hat. Er schützt damit die freie Wahl seiner Tochter statt den vorgesehenen königlichen Schwiegersohn.
 
-Merksatz: Der vertauschte Teebecher verhindert die erzwungene Zuneigung.
 
 - Ihr Vater tauscht ihren Becher gegen seinen: Harold hat die Becher vertauscht und verhindert die geplante Wirkung.
 - Der Inhalt wird durch Wasser ersetzt: Der Inhalt wird nicht durch Wasser ersetzt.
@@ -3549,7 +3392,6 @@ Welche ursprüngliche Gestalt Harolds (John Cleese) wird am Ende von „Shrek 2 
 
 König Harold (Originalstimme: John Cleese) wirft sich vor den Zauber der guten Fee (Jennifer Saunders) und kehrt anschließend zur Froschgestalt zurück. Seine menschliche Erscheinung beruhte auf einem früheren Trank. Königin Lillian (Julie Andrews) versichert ihm dennoch ihre Liebe. Die Enthüllung stellt seine vorherige Ablehnung von Shrek (Mike Myers) in einen neuen Zusammenhang: Auch der Vater hatte sein eigenes Glück mit einer verwandelten Erscheinung verbunden.
 
-Merksatz: Die Froschgestalt legt Harolds eigenen Wandel offen.
 
 - Ein Oger: Er ist kein ursprünglich verwandelter Oger.
 - Ein Frosch: Harold kehrt zur Gestalt eines Frosches zurück.
@@ -3571,7 +3413,6 @@ In welchem Jahr erschien „Shrek 2 – Der tollkühne Held kehrt zurück“ ers
 
 Shrek 2 kam 2004 ins Kino und gehörte in diesem Jahr zum Wettbewerb von Cannes. Universal kündigte für 2024 eine erneute US-Kinoauswertung zum zwanzigjährigen Jubiläum an. Die beiden Jahre liegen genau zwanzig Jahre auseinander. Der konkrete Wiederstart hilft, Erstveröffentlichung und spätere Auswertung zu unterscheiden. Das auf der Cannes-Karte genannte Produktionsjahr 2003 gehört zur Herstellung und ersetzt deshalb nicht das erste Kinojahr 2004.
 
-Merksatz: 2004 Erststart, 2024 Jubiläums-Wiederstart: zwanzig Jahre Abstand.
 
 - 2001: 2001 ist das Jahr des ersten Shrek-Films.
 - 2007: 2007 ist drei Jahre zu spät.
@@ -3593,7 +3434,6 @@ Welches vollständige Regieteam inszenierte „Shrek 2 – Der tollkühne Held k
 
 Andrew Adamson, Kelly Asbury und Conrad Vernon teilen den Hauptregiecredit von Shrek 2. Sowohl die Cannes-Filmkarte als auch die spätere Universal-Mitteilung nennen alle drei. Der Film erweitert die Märchensatire um einen höfischen Familienkonflikt, in dem vertraute Figuren gegen vorgegebene Vorstellungen vom glücklichen Ende handeln. Die gemeinsame Regie ist als vollständiges Team zu erfassen; ein einzelner bekannter Name würde die anderen beiden Hauptcredits unterschlagen.
 
-Merksatz: Adamson, Asbury und Vernon inszenieren gemeinsam den Besuch am Königshof.
 
 - Mike Mitchell, Walt Dohrn und Tim Johnson: Dieses Team ist nicht der veröffentlichte Regiecredit von Shrek 2.
 - Chris Miller, Raman Hui und Eric Darnell: Miller, Hui und Darnell sind nicht das hier gefragte Regieteam.
@@ -3619,7 +3459,6 @@ Was studiert Dave Stutler (Jay Baruchel) in „Duell der Magier“, bevor Baltha
 
 Dave Stutler (Jay Baruchel) studiert Physik und arbeitet in einem Labor, als Balthazar Blake (Nicolas Cage) nach langer Abwesenheit wieder erscheint. Dave hat die erste Begegnung mit der Zauberwelt als Kind nicht folgenlos überwunden. Sein Studium gibt ihm nun einen eigenen Zugang zu Kräften und Experimenten. Die spätere Ausbildung stellt deshalb nicht einfach Wissenschaft und Magie gegeneinander: Seine vertrauten physikalischen Kenntnisse helfen ihm, das neu Gelernte praktisch einzusetzen.
 
-Merksatz: Der Physikstudent bringt sein Laborwissen in die magische Ausbildung ein.
 
 - Medizin: Er studiert nicht Medizin.
 - Physik: Dave ist Physikstudent an der New York University.
@@ -3641,7 +3480,6 @@ Wozu dient die verschachtelte Puppe namens Grimhold in „Duell der Magier“?
 
 Balthazar Blake (Nicolas Cage) sperrt gefährliche Zauberer in eine verschachtelte Puppe, den Grimhold. Das Öffnen ihrer einzelnen Schichten kann Gefangene freisetzen und verändert die Bedrohung Schritt für Schritt. Dave Stutler (Jay Baruchel) erlebt bereits als Kind die Folgen einer unbedachten Öffnung. Die unscheinbare Form des Gegenstands verbirgt somit eine gefährliche Funktion. Seine Sicherung bleibt ein eigener Auftrag neben der Suche nach einem geeigneten Lehrling.
 
-Merksatz: Eine verschachtelte Puppe verbirgt ein gestuftes Zauberergefängnis.
 
 - Als Speicher für Balthazars (Nicolas Cage) Erinnerungen: Seine Erinnerungen sind nicht ihr eigentlicher Inhalt.
 - Als Wegweiser zu Merlins (James A. Stephens) Grab: Die Puppe weist keinen Weg zu Merlins Grab.
@@ -3663,7 +3501,6 @@ Wie zeigt die Drachenfigur in „Duell der Magier“, dass der junge Dave (Jake 
 
 Balthazar Blake (Nicolas Cage) sucht mit einer Drachenfigur nach Merlins (James A. Stephens) Erben. Als der junge Dave Stutler (Jake Cherry) in seinen Laden kommt, verwandelt sich die Figur an dessen Hand in einen Ring. Das sichtbare Zeichen beendet die Suche noch nicht als fertigen Erfolg. Der Junge besitzt das Potenzial, muss aber erst lernen, damit umzugehen. Die Erwachsenenfassung Daves (Jay Baruchel) trägt diese unerwartete Verpflichtung in ihren Studienalltag hinein.
 
-Merksatz: Die Verwandlung der Drachenfigur markiert den gefundenen Erben.
 
 - Sie spricht seinen vollständigen Namen aus: Sie spricht nicht seinen Namen als Erkennungszeichen aus.
 - Sie zeichnet Merlins (James A. Stephens) Zeichen auf seine Stirn: Ein Stirnzeichen ist nicht die gezeigte Bestätigung.
@@ -3685,7 +3522,6 @@ Welche Hilfe gerät Dave (Jay Baruchel) in „Duell der Magier“ bei der Vorber
 
 Dave Stutler (Jay Baruchel) möchte sein Labor für ein Treffen mit Becky Barnes (Teresa Palmer) in Ordnung bringen. Er belebt Putzgeräte, verliert aber die Kontrolle über sie und muss die Verabredung absagen. Balthazar Blake (Nicolas Cage) greift ein. Die Szene greift das bekannte Motiv des unbeherrschten Haushaltszaubers auf und verlegt es in Daves eigene Umgebung. Sein Wunsch nach einer schnellen Alltagshilfe zeigt, dass Begabung die notwendige Übung nicht ersetzt.
 
-Merksatz: Die magische Abkürzung beim Putzen macht das Labor unbrauchbar.
 
 - Magisch belebte Putzgeräte: Die belebten Putzgeräte überschwemmen sein Labor.
 - Ein selbstfahrender Wagen: Ein selbstfahrender Wagen verursacht diesen Fehlschlag nicht.
@@ -3707,7 +3543,6 @@ Wie behandelt Horvath (Alfred Molina) in „Duell der Magier“ seine Verbündet
 
 Maxim Horvath (Alfred Molina) nutzt die Unterstützung von Drake Stone (Toby Kebbell) und später Abigail Williams (Nicole Ehinger), verfolgt aber keinen gleichberechtigten gemeinsamen Plan. Er entzieht ihnen ihre magischen Kräfte. Die wiederholte Handlung zeigt, wie er vermeintliche Bündnisse als Mittel zur eigenen Stärkung behandelt. Für Dave Stutler (Jay Baruchel) verschärft sich damit die Gefahr: Der Gegner gewinnt nicht nur Helfer, sondern zieht deren Fähigkeiten schließlich in sich zusammen.
 
-Merksatz: Horvaths Bündnisse enden mit der Aneignung fremder Kräfte.
 
 - Er verwandelt sie in willenlose Diener: Er verwandelt sie nicht in willenlose Diener.
 - Er entzieht ihnen ihre Zauberkraft: Horvath eignet sich die Kräfte seiner Helfer an.
@@ -3729,7 +3564,6 @@ Wie bringt Dave (Jay Baruchel) Balthazar (Nicolas Cage) am Ende von „Duell der
 
 Balthazar Blake (Nicolas Cage) fängt einen Angriff ab, der Veronica Gorloisen (Monica Bellucci) treffen soll, und bricht tödlich getroffen zusammen. Nach der Niederlage Morganas (Alice Krige) verwendet Dave Stutler (Jay Baruchel) Plasmaimpulse, um sein Herz neu zu starten. Die Rettung verbindet seine physikalische Vorstellungskraft mit der erlernten Magie. Der frühere Lehrling handelt nun selbstständig und kann dem Meister helfen, statt in der entscheidenden Lage auf dessen Eingreifen angewiesen zu bleiben.
 
-Merksatz: Der Lehrling verbindet Physik und Magie, um den Meister zurückzuholen.
 
 - Er überträgt Merlins (James A. Stephens) gespeicherte Lebenskraft auf ihn: Eine gespeicherte Lebenskraft Merlins ist nicht die gezeigte Rettung.
 - Er bindet seine Seele an einen neuen Körper: Balthazar erhält keinen neuen Körper.
@@ -3751,7 +3585,6 @@ In welchem Jahr erschien „Duell der Magier“ mit Nicolas Cage und Jay Baruche
 
 Fantasia erschien 1940 und enthält den berühmten Zeichentrickabschnitt Der Zauberlehrling. Duell der Magier kam 2010 ins Kino, siebzig Jahre später. Das Motiv der selbstständig putzenden Geräte kehrt in der Laborsequenz wieder. Die Verbindung bezeichnet eine bewusst aufgenommene Idee, nicht dieselbe vollständige Handlung in neuer Besetzung. Disney bestätigt den Kinojahrgang des Realfilms; der Beitrag der Walt Disney Archives bei D23 datiert das frühere Werk eindeutig auf 1940.
 
-Merksatz: 1940 Fantasia, 2010 Duell der Magier: siebzig Jahre bis zum Realfilm.
 
 - 2007: 2007 liegt drei Jahre davor.
 - 2013: 2013 liegt drei Jahre danach.
@@ -3773,7 +3606,6 @@ Wer führte bei „Duell der Magier“ mit Nicolas Cage und Jay Baruchel Hauptre
 
 Jon Turteltaub führt den von Disney bestätigten Hauptregiecredit. Jerry Bruckheimer produziert; Nicolas Cage spielt den erfahrenen Lehrer und war an der Entwicklung beteiligt. Diese Funktionen sind voneinander zu unterscheiden. Die Regie bringt eine alte Lehrlingsidee in eine Geschichte über ein New Yorker Labor und eine verborgene magische Tradition. Der Film übernimmt deshalb nicht einfach die Abfolge eines kurzen Zeichentrickstücks, sondern verbindet dessen prägendes Motiv mit einem eigenen Figurenkonflikt.
 
-Merksatz: Turteltaub inszeniert die Verbindung von Laboralltag und magischer Ausbildung.
 
 - Jon Turteltaub: Jon Turteltaub ist der Hauptregisseur.
 - Gore Verbinski: Gore Verbinski führte bei diesem Magierfilm nicht Regie.
@@ -3799,7 +3631,6 @@ Welche Ausgangslage treibt die Orks in „Warcraft: The Beginning“ zur Suche n
 
 Die Heimatwelt der Orks, Draenor, zerfällt unter dem Einfluss verderblicher Magie. Gul’dan (Daniel Wu) führt die vereinten Clans in eine andere Welt, während Durotan (Toby Kebbell) seine Familie und sein Volk retten will. Der Beginn zeigt deshalb mehr als den Angriff einer fremden Armee. Hinter der Invasion steht auch eine Existenzkrise, deren Lösung andere Bewohner bedroht. Verschiedene Orks ziehen aus dieser Lage unterschiedliche Schlüsse über ihren Anführer.
 
-Merksatz: Die Flucht aus einer sterbenden Heimat wird für eine andere Welt zur Invasion.
 
 - Ihre Hauptstadt wird von Menschen besetzt: Eine menschliche Besetzung ihrer Hauptstadt ist nicht der Ausgangspunkt.
 - Ihre Handelswege werden von Zwergen blockiert: Blockierte Handelswege verursachen die Flucht nicht.
@@ -3821,7 +3652,6 @@ Wie gelangen die ersten Orks in „Warcraft: The Beginning“ von Draenor nach A
 
 Gul’dan (Daniel Wu) öffnet ein Portal, durch das eine erste Gruppe von Orks nach Azeroth gelangt. Die Verbindung benötigt Lebensenergie und ist zunächst nicht für die gesamte Horde ausreichend. Das Vorauskommando soll deshalb weitere Gefangene finden. Der Übergang ist kein gewöhnlicher Marsch in ein Nachbarland: Ein magisch hergestellter Zugang verbindet getrennte Welten und macht seine spätere Erweiterung zu einem entscheidenden militärischen und moralischen Konflikt.
 
-Merksatz: Das Portal verbindet Welten und verlangt Lebensenergie.
 
 - Auf einer Flotte über den Ozean: Eine Seeflotte überquert nicht die Grenze zwischen diesen Welten.
 - Auf fliegenden Reittieren über die Berge: Ein Gebirgsflug bringt die ersten Orks nicht nach Azeroth.
@@ -3843,7 +3673,6 @@ Welchen Plan verfolgt Durotan (Toby Kebbell) bei seinem geheimen Treffen mit den
 
 Durotan (Toby Kebbell) erkennt die Gefahr, die Gul’dan (Daniel Wu) für sein eigenes Volk darstellt. Er trifft König Llane Wrynn (Dominic Cooper) heimlich, um eine Zusammenarbeit der Menschen mit seinem Clan vorzuschlagen. Das Treffen überschreitet die offensichtliche Grenze zwischen Verteidigern und Eindringlingen. Der Versuch beruht auf einem gemeinsamen Gegner, nicht auf dem Ende aller Unterschiede. Widerstand innerhalb der Orks und ein anschließender Hinterhalt verhindern einen einfachen Friedensschluss.
 
-Merksatz: Ein gemeinsamer Gegner ermöglicht den Versuch eines Bündnisses über die Front hinweg.
 
 - Ein Bündnis gegen Gul’dan: Durotan sucht Verbündete gegen den verderblichen Anführer.
 - Die Auslieferung aller menschlichen Magier: Die Auslieferung der Magier ist nicht sein Vorschlag.
@@ -3865,7 +3694,6 @@ Welche Entdeckung macht Khadgar (Ben Schnetzer) über Medivh (Ben Foster) in „
 
 Khadgar (Ben Schnetzer) erkennt zunächst, dass Gul’dan (Daniel Wu) beim Öffnen des Portals Hilfe von Azeroth erhalten haben muss. Später entdeckt er, dass Medivh (Ben Foster) diese Rolle übernommen hat und selbst von der verderblichen Magie beeinflusst ist. Der Verdacht richtet sich dadurch gegen den vertrauten Beschützer. Die Menschen müssen ihre Gefahr nicht ausschließlich jenseits des Portals suchen, sondern auch innerhalb der eigenen magischen Ordnung erkennen.
 
-Merksatz: Der Beschützer Azeroths gehört heimlich zur Ursache der Invasion.
 
 - Er wurde durch ein orkisches Ebenbild ersetzt: Ein orkisches Ebenbild erklärt seine Rolle nicht.
 - Von Magie verderbt half er beim Öffnen des Portals: Der verderbte Medivh half von Azeroth aus beim Portal.
@@ -3887,7 +3715,6 @@ Warum bittet König Llane (Dominic Cooper) Garona (Paula Patton) im Schlusskampf
 
 Als der Rückzug zusammenbricht, bittet König Llane Wrynn (Dominic Cooper) Garona (Paula Patton), ihn zu töten. Er erwartet, dass die Tat ihr Ansehen unter den Orks verschafft und dadurch später einen Weg zum Frieden eröffnet. Garona handelt widerwillig. Für Außenstehende kann die Entscheidung wie ein Verrat erscheinen, obwohl sie einem geheimen Wunsch des Königs folgt. Die Schlussphase trennt damit sichtbare Handlung und verborgenes Motiv besonders deutlich.
 
-Merksatz: Der scheinbare Verrat folgt dem geheimen Friedensplan des Königs.
 
 - Sie soll einen Zauber lösen, der ihn an das Portal bindet: Ein bindender Portalzauber ist nicht der Anlass dieser Bitte.
 - Sie soll den Orks einen bereits vorbereiteten Doppelgänger vorführen: Ein vorbereiteter Doppelgänger gehört nicht zum Plan.
@@ -3909,7 +3736,6 @@ Warum darf Lothar (Travis Fimmel) nach seinem Sieg über Blackhand (Clancy Brown
 
 Lothar (Travis Fimmel) kehrt zurück, um den Leichnam König Llanes (Dominic Cooper) zu holen, und muss gegen Blackhand (Clancy Brown) kämpfen. Nach dessen Niederlage verlangt Gul’dan (Daniel Wu) weitere Gewalt. Die anwesenden Orks lassen Lothar dennoch abziehen, weil sie das Ergebnis des traditionellen Duells anerkennen. Ihre Entscheidung zeigt, dass der Anführer nicht jede gemeinsame Regel überschreiben kann. Ein Sieg im Zweikampf erhält so eine Bedeutung über die persönliche Vergeltung hinaus.
 
-Merksatz: Die anerkannte Duellregel begrenzt Gul’dans Macht über die Orks.
 
 - Garona (Paula Patton) hat alle Wachposten zuvor bestochen: Bestechungen der Wachposten ermöglichen den Abzug nicht.
 - Ein Zauber macht ihn für die Orks unantastbar: Ein Schutzzauber verhindert nicht ihre Gegenwehr.
@@ -3931,7 +3757,6 @@ In welchem Jahr erschien „Warcraft: The Beginning“ mit Travis Fimmel und Pau
 
 Warcraft: Orcs & Humans eröffnete die Spielreihe 1994; Warcraft: The Beginning erschien 2016, zweiundzwanzig Jahre später. Blizzard benennt das frühere Spiel ausdrücklich als Beginn des Franchises. Der Film greift den Konflikt zwischen Menschen und eindringenden Orks in einer eigenen filmischen Erzählung auf. Die Datumsverbindung betrifft deshalb die Entstehung der Spielwelt und ihre spätere Kinoverwendung, nicht die Behauptung, dass jedes Ereignis beider Fassungen genau übereinstimmt.
 
-Merksatz: 1994 erstes Warcraft-Spiel, 2016 Kinofilm: zweiundzwanzig Jahre Abstand.
 
 - 2016: 2016 ist das erste Filmjahr.
 - 2013: 2013 liegt drei Jahre davor.
@@ -3953,7 +3778,6 @@ Wer führte bei „Warcraft: The Beginning“ mit Travis Fimmel und Paula Patton
 
 Duncan Jones führt den Hauptregiecredit von Warcraft. Seine Erzählung verfolgt Figuren auf beiden Seiten der Invasion und stellt die Rettung der einen Heimat gegen die Bedrohung einer anderen. Die AFI-Watch-Filmkarte nennt Tom Struthers gesondert für die zweite Einheit. Auch frühere Projektpläne mit einem anderen Regisseur sind vom fertigen Film zu trennen. Die konkrete Fassung wird dadurch einem eindeutigen Hauptcredit zugeordnet, ohne weitere Produktionsarbeit zu unterschlagen.
 
-Merksatz: Jones inszeniert die gegensätzlichen Interessen auf beiden Seiten des Portals.
 
 - Peter Jackson: Peter Jackson inszenierte diese Spielverfilmung nicht.
 - Duncan Jones: Duncan Jones trägt den Hauptregiecredit.
@@ -3979,7 +3803,6 @@ Welchen Auftrag gibt die sterbende Varna (Janet Agren) ihrer Schwester in „Red
 
 Varna (Janet Agren) entkommt dem Überfall auf den Tempel, wird dabei aber tödlich verwundet. Kalidor (Arnold Schwarzenegger) bringt Sonja (Brigitte Nielsen) zu ihrer Schwester. Vor ihrem Tod warnt Varna vor der wachsenden Macht des geraubten Talismans und verlangt, ihn in die Dunkelheit zu bringen. Der Auftrag verbindet Sonjas persönliche Rache mit einer größeren Gefahr: Das Artefakt bedroht inzwischen auch Menschen außerhalb des angegriffenen Tempels.
 
-Merksatz: Der letzte Auftrag der Schwester macht die Beseitigung des Talismans zum Reiseziel.
 
 - Den verschleppten Prinzen aus einem Bergwerk befreien: Eine Bergwerksbefreiung ist nicht ihr letzter Auftrag.
 - Ein verlorenes Schwert zum Tempel zurückbringen: Sie verlangt nicht die Rückgabe eines verlorenen Schwertes.
@@ -4001,7 +3824,6 @@ Welche Aufgabe hat Falkon (Paul Smith) gegenüber Prinz Tarn (Ernie Reyes Jr.) i
 
 Prinz Tarn (Ernie Reyes Jr.) hat sein verwüstetes Reich verlassen und reist mit Falkon (Paul Smith). Der große Begleiter übernimmt sowohl praktische Dienste als auch den Schutz des unerfahrenen Jungen. Tarn tritt zunächst anspruchsvoll auf und will Sonja (Brigitte Nielsen) sogar als Köchin anwerben. Falkons Loyalität hält das ungleiche Paar zusammen. Auf der weiteren Reise lernt der Prinz, dass Rang allein weder gute Umgangsformen noch Kampferfahrung ersetzt.
 
-Merksatz: Der junge Prinz besitzt einen loyalen Beschützer, aber noch wenig eigene Erfahrung.
 
 - Er dient ihm und beschützt ihn: Falkon ist Tarns loyaler Diener und Beschützer.
 - Er hält ihn als politischen Gefangenen fest: Er bewacht Tarn nicht als politischen Gefangenen.
@@ -4023,7 +3845,6 @@ Wer darf den Talisman in „Red Sonja“ berühren, ohne dadurch zu verschwinden
 
 Der Talisman im Tempel ist an eine besondere körperliche Regel gebunden: Frauen können ihn berühren, während Männer dabei verschwinden. Diese Eigenschaft erklärt die Bewachung durch Priesterinnen und ermöglicht Königin Gedren (Sandahl Bergman), ihn selbst einzusetzen. Sonja (Brigitte Nielsen) kann das Artefakt ebenfalls aufnehmen. Die Regel betrifft den unmittelbaren Kontakt mit dem Gegenstand; politische Macht oder ein religiöser Titel ersetzen diese Voraussetzung in der Filmhandlung nicht.
 
-Merksatz: Der Zugang zum Artefakt hängt vom Geschlecht und nicht vom Herrschertitel ab.
 
 - Nur Männer: Die Berührung durch Männer ist gerade tödlich gefährlich.
 - Nur Frauen: Frauen können das Artefakt berühren; Männer verschwinden bei der Berührung.
@@ -4045,7 +3866,6 @@ Wie überwinden Sonja (Brigitte Nielsen) und Kalidor (Arnold Schwarzenegger) das
 
 Ein erzwungener Unterschlupf führt die Reisegruppe in eine wassergefüllte Höhle. Dort greift ein drachenähnliches mechanisches Wesen an, das Königin Gedren (Sandahl Bergman) gegen die Eindringlinge einsetzen lässt. Kalidor (Arnold Schwarzenegger) erscheint und hilft Sonja (Brigitte Nielsen), seine Augen zu zerstören. Die Rettung verlangt dadurch einen gezielten gemeinsamen Angriff auf eine Schwachstelle. Der Kampf verändert auch die praktische Bedeutung des Begleiters, dessen Hilfe Sonja zuvor abgelehnt hatte.
 
-Merksatz: Eine gezielt angegriffene Schwachstelle macht den gemeinsamen Ausweg möglich.
 
 - Sie blockieren seinen Antrieb mit einer Kette: Eine Kette im Antrieb ermöglicht die Flucht nicht.
 - Sie lassen das Wasser aus seiner Höhle ab: Sie legen die Höhle nicht durch Ablassen des Wassers trocken.
@@ -4067,7 +3887,6 @@ Welche Verbindung zum Talisman erklärt Kalidors (Arnold Schwarzenegger) besonde
 
 Kalidor (Arnold Schwarzenegger) ist nicht bloß ein zufällig hilfreicher Kämpfer. Seine Vorfahren gehören zu den Herren, die den Talisman dem Tempel anvertrauten. Als Sonja (Brigitte Nielsen) diese Verbindung erfährt, akzeptiert sie seine Begleitung. Seine Aufgabe erhält damit einen eigenen Grund neben dem Interesse an ihr. Die Herkunft ist außerdem ein Bestandteil dieser Filmfigur; ähnliche Kostüme und derselbe Darsteller machen Kalidor nicht zur Figur Conan aus anderen Filmen.
 
-Merksatz: Die Herkunft begründet Kalidors eigene Verpflichtung gegenüber dem Artefakt.
 
 - Er fertigte ihn für die Königin an: Er ist nicht der Hersteller des Talismans.
 - Er gewann ihn bei einem früheren Feldzug: Ein eigener früherer Raubzug begründet seine Verantwortung nicht.
@@ -4089,7 +3908,6 @@ Wie beseitigt Sonja (Brigitte Nielsen) am Ende von „Red Sonja“ den Talisman?
 
 Im letzten Kampf gegen Königin Gedren (Sandahl Bergman) bricht der Boden unter der Macht des Talismans auf und legt einen Lavaabgrund frei. Sonja (Brigitte Nielsen) besiegt ihre Gegnerin und wirft anschließend das Artefakt hinterher. Damit beendet sie die unmittelbare Bedrohung, löst aber zugleich die Zerstörung der Festung aus. Kalidor (Arnold Schwarzenegger) und die übrigen Begleiter müssen mit ihr fliehen. Die Beseitigung der Gefahr ist deshalb kein ruhiger Abschluss vor Ort.
 
-Merksatz: Die Lava vernichtet das Artefakt; die einstürzende Festung erzwingt die Flucht.
 
 - Sie wirft ihn in den Lavaabgrund: Nach dem letzten Kampf wirft sie ihn in die Lava.
 - Sie versenkt ihn im Meer vor dem Tempel: Eine Versenkung im Meer beendet seine Macht nicht im Film.
@@ -4111,7 +3929,6 @@ In welchem Jahr erschien „Red Sonja“ mit Brigitte Nielsen und Arnold Schwarz
 
 Richard Fleischer inszenierte Conan the Destroyer 1984 und Red Sonja 1985, also im Abstand von einem Jahr. Arnold Schwarzenegger spielt in beiden Filmen einen schwerttragenden Helden, jedoch verschiedene Figuren: zuerst Conan, danach Kalidor. Der konkrete Werkvergleich erklärt die nahe Produktionsumgebung, ohne daraus eine identische Filmrolle oder eine nummerierte Fortsetzung abzuleiten. Für Red Sonja bleibt das veröffentlichte Filmjahr 1985 maßgeblich, obwohl bereits 1984 gedreht wurde.
 
-Merksatz: 1984 Conan the Destroyer, 1985 Red Sonja: ein Jahr Abstand und verschiedene Rollen.
 
 - 1982: 1982 liegt drei Jahre davor.
 - 1985: 1985 ist das erste Veröffentlichungsjahr.
@@ -4133,7 +3950,6 @@ Wer führte bei „Red Sonja“ mit Brigitte Nielsen und Arnold Schwarzenegger H
 
 Richard Fleischer führte beim fertigen Red Sonja Hauptregie. Die frühe Planung sah zuvor Ralph Bakshi vor, der jedoch ersetzt wurde. Der veröffentlichte Credit ist deshalb von der Projektankündigung zu unterscheiden. Auch Vic Armstrongs gesonderte Arbeit an der Action-Einheit macht ihn nicht zu einem zweiten Hauptregisseur. Die Besetzung mit Brigitte Nielsen grenzt diese Fassung außerdem von der späteren Neuverfilmung ab, für die andere Produktionsentscheidungen und Credits gelten.
 
-Merksatz: Fleischers veröffentlichter Hauptcredit ersetzt die frühere Planung mit Bakshi.
 
 - John Milius: John Milius inszenierte diesen Film nicht.
 - Peter Yates: Peter Yates führte hier nicht Hauptregie.

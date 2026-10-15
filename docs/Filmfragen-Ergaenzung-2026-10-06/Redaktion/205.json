@@ -41,12 +41,12 @@
       ],
       "short": "Holly kommt auf Harry Limes (Orson Welles) Arbeitsangebot hin.",
       "context": "Holly kommt auf Harry Limes (Orson Welles) Arbeitsangebot hin. Er erfährt bei seiner Ankunft von dessen angeblichem Tod; der vertraute Freund wird damit zum Mittelpunkt einer Untersuchung über widersprüchliche Berichte.",
-      "anchor": "Das Arbeitsangebot führt Holly in den vermeintlichen Todesfall.",
       "interest": "Das Arbeitsangebot führt Holly in den vermeintlichen Todesfall.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Arbeitsangebot führt Holly in den vermeintlichen Todesfall."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Wien ist in alliierte Besatzungszonen geteilt.",
       "context": "Wien ist in alliierte Besatzungszonen geteilt. Grenzen und unterschiedliche Zuständigkeiten erleichtern das Verbergen und erschweren Ermittlungen; die Nachkriegslage ist daher ein aktiver Bestandteil des Kriminalfalls.",
-      "anchor": "Die geteilte Stadt schafft Räume für das Verbergen.",
       "interest": "Die geteilte Stadt schafft Räume für das Verbergen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die geteilte Stadt schafft Räume für das Verbergen."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Lime verdünnt gestohlenes Penicillin und verkauft es weiter.",
       "context": "Lime verdünnt gestohlenes Penicillin und verkauft es weiter. Die Folgen treffen Schwerkranke und Kinder; Holly Martins (Joseph Cotten) muss deshalb die Loyalität zum Freund gegen die konkrete Schädigung anderer abwägen.",
-      "anchor": "Das gestreckte Heilmittel richtet tödlichen Schaden an.",
       "interest": "Das gestreckte Heilmittel richtet tödlichen Schaden an.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das gestreckte Heilmittel richtet tödlichen Schaden an."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Lime spricht im Wiener Riesenrad über die Menschen unten als unbedeutende Punkte.",
       "context": "Lime spricht im Wiener Riesenrad über die Menschen unten als unbedeutende Punkte. Die erhöhte Perspektive macht seine moralische Distanz körperlich sichtbar; Holly erkennt den alten Freund als bewussten Nutznießer fremden Leids.",
-      "anchor": "Der Blick von oben verkleinert die Opfer zu Punkten.",
       "interest": "Der Blick von oben verkleinert die Opfer zu Punkten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Blick von oben verkleinert die Opfer zu Punkten."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Calloway (Trevor Howard) zeigt Holly die kranken Kinder.",
       "context": "Calloway (Trevor Howard) zeigt Holly die kranken Kinder. Holly kann Limes (Orson Welles) Opfer nun nicht mehr abstrakt halten; die konkrete Begegnung entscheidet den Konflikt zwischen alter Freundschaft und Verantwortung.",
-      "anchor": "Die sichtbaren Opfer überwinden Hollys Loyalitätsrest.",
       "interest": "Die sichtbaren Opfer überwinden Hollys Loyalitätsrest.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die sichtbaren Opfer überwinden Hollys Loyalitätsrest."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Anna geht an dem wartenden Holly vorbei.",
       "context": "Anna geht an dem wartenden Holly vorbei. Der Film belohnt seine Entscheidung gegen Lime (Orson Welles) nicht mit einer neuen Liebesbeziehung; das moralisch nötige Handeln bleibt von persönlichem Verlust begleitet.",
-      "anchor": "Die richtige Entscheidung erhält keine romantische Belohnung.",
       "interest": "Die richtige Entscheidung erhält keine romantische Belohnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die richtige Entscheidung erhält keine romantische Belohnung."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "1949 erschien der Film in Großbritannien, der US-Start folgte 1950.",
       "context": "1949 erschien der Film in Großbritannien, der US-Start folgte 1950. Graham Greene entwickelte zunächst eine Prosafassung als Arbeitsgrundlage, die später veröffentlicht wurde. Die Geschichte stammt also nicht einfach aus einem lange vorher populären Roman, sondern aus einer für den Film erschlossenen Nachkriegswelt.",
-      "anchor": "1949 entsteht Der dritte Mann für die Nachkriegswelt Wiens; Greenes Prosatext ist eine Film-Arbeitsgrundlage, keine lange vorher berühmte Vorlage.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1949 entsteht Der dritte Mann für die Nachkriegswelt Wiens; Greenes Prosatext ist eine Film-Arbeitsgrundlage, keine lange vorher berühmte Vorlage."
     },
     {
       "code": "D",
@@ -210,14 +210,14 @@
       ],
       "short": "Carol Reed führte Regie.",
       "context": "Carol Reed führte Regie. Graham Greene entwickelte den Stoff; Joseph Cotten spielt Holly Martins und Orson Welles Harry Lime. Robert Kraskers Kamera und Anton Karas’ Zithermusik prägen das Wienbild ebenso wie die Geschichte eines moralisch beschädigten Freundes.",
-      "anchor": "Carol Reed führte Regie.",
       "interest": "Carol Reed führte Regie.",
       "sources": [
         "eckdaten",
         "credits"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Carol Reed führte Regie."
     }
   ]
 }

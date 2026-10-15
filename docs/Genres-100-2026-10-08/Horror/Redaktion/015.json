@@ -39,11 +39,11 @@
       ],
       "short": "Trish und Darry sind Geschwister.",
       "context": "Trish Jenner (Gina Philips) und ihr Bruder Darry (Justin Long) fahren vom College nach Hause. Ihre Gespräche und kleinen Streitigkeiten zeigen eine vertraute Geschwisterbeziehung, bevor die Fahrt bedrohlich wird. Diese Bindung bleibt für ihre Entscheidungen wichtig: Sie widersprechen einander, helfen sich aber auch und wollen den anderen nicht zurücklassen. Der Film entwickelt seine spätere Verlustangst aus dieser zunächst alltäglichen gemeinsamen Reise.",
-      "anchor": "Eine gewöhnliche Geschwisterfahrt wird zur gemeinsamen Überlebensaufgabe.",
       "interest": "Erfasst die Grundbeziehung der beiden Hauptfiguren.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Eine gewöhnliche Geschwisterfahrt wird zur gemeinsamen Überlebensaufgabe."
     },
     {
       "code": "L2",
@@ -62,11 +62,11 @@
       ],
       "short": "Darry findet einen unterirdischen Raum mit zusammengenähten Leichen.",
       "context": "Darry Jenner (Justin Long) kehrt mit seiner Schwester Trish (Gina Philips) zur verlassenen Kirche zurück, weil sie dort einen verdächtigen Vorgang beobachtet haben. Durch ein Rohr gelangt er in einen unterirdischen Raum und entdeckt zahlreiche Leichen an Wänden und Decke. Die Nachforschung bestätigt eine wirkliche Gefahr. Zugleich macht die Rückkehr die Geschwister für den Verfolger auffällig und verwandelt Neugier in eine unmittelbare Bedrohung.",
-      "anchor": "Das Rohr führt zu einem grausigen Raum aus Körpern.",
       "interest": "Erklärt die Entdeckung, die aus Misstrauen eine Gewissheit macht.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Rohr führt zu einem grausigen Raum aus Körpern."
     },
     {
       "code": "M1",
@@ -85,11 +85,11 @@
       ],
       "short": "Jezelle warnt aufgrund ihrer übersinnlichen Visionen.",
       "context": "Jezelle Gay Hartman (Patricia Belcher) ruft die Geschwister an und warnt vor bestimmten Zeichen einer kommenden Gefahr. Ihre Informationen stammen aus Visionen, nicht aus einer polizeilichen Ermittlung. Darry Jenner (Justin Long) und Trish (Gina Philips) treffen sie später auf der Polizeiwache. Der Film stellt damit eine Warnung neben die sichtbaren Spuren, deren genauer Ablauf trotzdem nicht einfach verhindert werden kann.",
-      "anchor": "Jezelle kennt kommende Zeichen, aber keine sichere Rettung.",
       "interest": "Ordnet die Wissensquelle einer wichtigen Warnfigur ein.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Jezelle kennt kommende Zeichen, aber keine sichere Rettung."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Der Creeper regeneriert sich mit geraubten menschlichen Körperteilen.",
       "context": "Der Creeper (Jonathan Breck) jagt Menschen, weil er Teile ihrer Körper für die Erneuerung seines eigenen Körpers verwendet. Jezelle Gay Hartman (Patricia Belcher) erklärt den Geschwistern diese Funktion seines Fressens. Dadurch erhalten die Angriffe eine konkrete körperliche Logik. Verletzungen bieten nur begrenzte Sicherheit, solange weitere Opfer erreichbar sind. Die Jagd folgt deshalb nicht bloß dem Wunsch, Menschen zu erschrecken oder wahllos zu töten.",
-      "anchor": "Neue Opfer liefern dem verletzten Wesen Ersatzteile.",
       "interest": "Erklärt, warum Verletzungen die Gefahr nicht zuverlässig beenden.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Neue Opfer liefern dem verletzten Wesen Ersatzteile."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Trish kann Darry durch ihr Selbstopferangebot nicht retten.",
       "context": "Trish Jenner (Gina Philips) bietet dem Creeper (Jonathan Breck) an, sie statt ihres Bruders Darry (Justin Long) mitzunehmen. Das Wesen lehnt den Austausch ab und fliegt mit ihm davon. Die Entscheidung zeigt, dass die Geschwisterliebe zwar zu einem radikalen Rettungsversuch führt, die Auswahl des Monsters aber nicht kontrolliert. Die Szene beendet die gemeinsame Flucht mit einem Verlust, den Trish nicht durch Verhandeln verhindern kann.",
-      "anchor": "Das Selbstopferangebot verändert die Auswahl des Monsters nicht.",
       "interest": "Erfasst die gescheiterte Rettung in der Schlusskonfrontation.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Selbstopferangebot verändert die Auswahl des Monsters nicht."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Das Schlussbild zeigt Darrys entfernte Augen.",
       "context": "Darry Jenner (Justin Long) erscheint am Ende als verstümmelte Leiche. Seine Augen wurden entfernt, und das Wesen blickt durch die leeren Augenhöhlen. Das Bild beantwortet die während der Jagd offene Frage, welcher Körperteil begehrt wurde. Es bestätigt den Verlust des Bruders auf eine sichtbare Weise, ohne eine Rettung nachzureichen. Die Augen verbinden das Motiv des beobachtenden Verfolgers mit dem endgültigen Schicksal seines ausgewählten Opfers.",
-      "anchor": "Der begehrte Blick kostet Darry seine Augen.",
       "interest": "Erfasst die letzte Enthüllung über das ausgewählte Körperteil.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der begehrte Blick kostet Darry seine Augen."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "Jeepers Creepers erschien 2001.",
       "context": "The Hitcher erschien 1986; Jeepers Creepers folgte 2001. Zwischen den beiden Straßenhorrorfilmen liegen fünfzehn Jahre. Beide beginnen mit Reisenden, deren Begegnung unterwegs zur Verfolgung führt. Im späteren Film wächst die Bedrohung jedoch vom scheinbaren Gewalttäter zu einem übernatürlichen Körperjäger. Der Vergleich verankert das Erstjahr des ersten Jeepers-Creepers-Films, ohne Ereignisse oder Jahreszahlen seiner späteren Fortsetzungen hinzuzurechnen.",
-      "anchor": "The Hitcher 1986 → Jeepers Creepers 2001: fünfzehn Jahre.",
       "interest": "Verankert den Reihenauftakt über eine konkrete Genreverbindung.",
       "sources": [
         "bfi",
         "year_anchor"
-      ]
+      ],
+      "objective": "The Hitcher 1986 → Jeepers Creepers 2001: fünfzehn Jahre."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Victor Salva führte allein Hauptregie.",
       "context": "Victor Salva schrieb das Drehbuch und führte beim ersten Film Hauptregie. Die Geschichte hält die Natur des Verfolgers zunächst verborgen und entwickelt sie aus der Wahrnehmung zweier Geschwister. BFI trennt seinen Regiecredit von den Produzenten. Auch Francis Ford Coppolas Beteiligung an der Produktion macht ihn nicht zum Mitregisseur. Spätere Filme der Reihe dürfen für diesen ursprünglichen Hauptcredit nicht als Ersatz herangezogen werden.",
-      "anchor": "Salva führt den ersten Film; Produktionshilfe ist kein Regiecredit.",
       "interest": "Ordnet die Hauptregie des konkreten Reihenauftakts zu.",
       "sources": [
         "bfi",
         "film"
-      ]
+      ],
+      "objective": "Salva führt den ersten Film; Produktionshilfe ist kein Regiecredit."
     }
   ]
 }

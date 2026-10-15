@@ -33,11 +33,11 @@
       ],
       "short": "Bond verfolgt Sanchez aus persönlicher Rache für Felix Leiter.",
       "context": "Felix Leiter (David Hedison) hilft Bond (Timothy Dalton) zunächst bei Sanchez’ (Robert Davi) Festnahme. Nach dessen Flucht wird Leiter schwer verletzt, während seine Frau Della (Priscilla Barnes) ermordet wird. Bond will den Auftrag nicht abgeben und verweigert eine andere Mission. Aus der offiziellen Zusammenarbeit entsteht deshalb eine private Vergeltungsaktion, die ihn mit der eigenen Dienstleitung in Konflikt bringt.",
-      "anchor": "Leiters Schicksal macht aus einem Auftrag Bonds private Rache.",
       "interest": "Der persönliche Auslöser erklärt die Abweichung vom gewöhnlichen Agentenauftrag.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Leiters Schicksal macht aus einem Auftrag Bonds private Rache."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Pam unterstützt Bond als Pilotin aus der Luft.",
       "context": "Pam Bouvier (Carey Lowell) ist eine Informantin der Drogenbehörde und kann fliegen. Sie wird damit nicht nur zur Person, die Bond (Timothy Dalton) retten muss, sondern übernimmt bei seiner Jagd eigene Aufgaben. Besonders im Finale ist ihr Flugzeug Teil der Verfolgung der Tanklaster. Ihre praktische Kompetenz ermöglicht Bewegungen und Eingriffe, die Bond vom Boden aus allein nicht ausführen könnte.",
-      "anchor": "Pam verschafft der Verfolgung eine zweite Ebene in der Luft.",
       "interest": "Die Fähigkeit wird durch ihre tatsächliche Beteiligung an der Action erklärt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Pam verschafft der Verfolgung eine zweite Ebene in der Luft."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Das Kokain wird in Treibstoff gelöst und als Kraftstoff transportiert.",
       "context": "Das scheinbare Meditationsinstitut verbirgt Sanchez’ (Robert Davi) Produktionsanlage. Dort erfährt Bond (Timothy Dalton), wie die Droge in Treibstoff gelöst und für den Transport getarnt wird. Die Tanklaster im Schlusskampf sind deshalb nicht nur Fahrzeuge in einer beliebigen Verfolgung. Sie tragen das Produkt des Schmuggelverfahrens, sodass die Zerstörung der Anlage und die Verfolgung der Lieferungen unmittelbar zusammengehören.",
-      "anchor": "Die Kraftstoffladung ist zugleich die versteckte Drogenlieferung.",
       "interest": "Die Schmuggeltechnik erklärt die besondere Funktion der Tanklaster.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Kraftstoffladung ist zugleich die versteckte Drogenlieferung."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Bond pflanzt das gestohlene Geld auf Krests Schiff.",
       "context": "Bond (Timothy Dalton) nutzt Sanchez’ (Robert Davi) Misstrauen, um dessen Organisation von innen zu schwächen. Das zuvor gestohlene Geld taucht auf dem Schiff von Milton Krest (Anthony Zerbe) wieder auf. Sanchez sieht darin einen Beweis für Verrat und tötet seinen eigenen Helfer. Bond muss den Gegner hier nicht unmittelbar überwältigen: Er liefert ihm eine falsche Deutung, nach der er selbst handelt.",
-      "anchor": "Das platzierte Geld macht Sanchez zum Vollstrecker gegen den eigenen Mann.",
       "interest": "Die Frage erschließt Bonds Manipulation statt nur einen Helfernamen abzufragen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das platzierte Geld macht Sanchez zum Vollstrecker gegen den eigenen Mann."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Bond verwendet das Feuerzeug, das er als Trauzeuge erhalten hat.",
       "context": "Nach dem Tanklasterunfall ist Sanchez (Robert Davi) mit Benzin bedeckt und bedroht Bond (Timothy Dalton) weiter mit einer Machete. Bond zeigt ihm das Feuerzeug, das Felix Leiter (David Hedison) und Della (Priscilla Barnes) ihm geschenkt haben. Der Gegenstand verbindet die Hochzeit am Anfang mit der Vergeltung am Ende. Ein persönliches Andenken wird damit zur Waffe im letzten Zweikampf.",
-      "anchor": "Das Hochzeitsgeschenk kehrt als Werkzeug der Vergeltung wieder.",
       "interest": "Die Verbindung zwischen Beginn und Finale verleiht dem Gegenstand erzählerischen Wert.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Hochzeitsgeschenk kehrt als Werkzeug der Vergeltung wieder."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Die Produktion nutzte reale Lastwagen und eine gesperrte Bergstraße.",
       "context": "Die Tanklasterverfolgung wurde über viele Drehtage auf einer gefährlichen, bereits für den regulären Verkehr geschlossenen Bergstraße in Mexiko aufgenommen. Die reale Strecke erlaubte der zweiten Unit große Fahrzeugmanöver und Explosionen unter kontrollierten Bedingungen. Die offizielle Bond-Seite beschreibt auch einen tatsächlich entstandenen Fahrzeugunfall, dessen Aufnahmen in die Szene eingingen. Sichtbare Gefahr und geplante Stuntarbeit greifen dabei eng ineinander.",
-      "anchor": "Eine gesperrte reale Straße wurde zum kontrollierten Actionraum.",
       "interest": "Der Produktionsbeleg erklärt, wie die Verfolgung ihren körperlichen Eindruck erhält.",
       "sources": [
         "stunts",
         "handlung"
-      ]
+      ],
+      "objective": "Eine gesperrte reale Straße wurde zum kontrollierten Actionraum."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "1987 Daltons Bond-Debüt, 1989 sein zweiter Film: zwei Jahre Abstand.",
       "context": "Timothy Dalton begann seine Kinolaufbahn als James Bond 1987 in Der Hauch des Todes. Zwei Jahre später folgte 1989 sein zweites und letztes Bond-Abenteuer. Beide Filme wurden von John Glen inszeniert, unterscheiden sich aber deutlich in ihrem Handlungsschwerpunkt. Der erste ist stärker an einen regulären Geheimdienstauftrag gebunden; der zweite macht den Angriff auf Felix Leiter (David Hedison) zum persönlichen Ausgangspunkt.",
-      "anchor": "1987 Der Hauch des Todes, 1989 dieser Film: zwei Jahre Abstand.",
       "interest": "Daltons konkreter Vorgängerfilm liefert den zweiten Zeitanker.",
       "sources": [
         "vergleich",
         "regie",
         "handlung"
-      ]
+      ],
+      "objective": "1987 Der Hauch des Todes, 1989 dieser Film: zwei Jahre Abstand."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "John Glen führte Regie.",
       "context": "John Glen hatte bereits mehrere Bond-Filme als Hauptregisseur verantwortet und zuvor an Actionsequenzen und Schnitt gearbeitet. Hier inszeniert er Bond (Timothy Dalton) als Agenten, dessen persönliche Vergeltung den normalen Auftrag verdrängt. Seine letzte Bond-Regie verbindet die härtere Geschichte mit aufwendigen Fahrzeugstunts. Der offizielle Rückblick auf seine Laufbahn bestätigt den Credit und ordnet ihn innerhalb seiner fünf Bond-Regiearbeiten ein.",
-      "anchor": "Glen verbindet Bonds persönliche Rache mit groß angelegter Stuntarbeit.",
       "interest": "Der Credit erhält einen konkreten Bezug zur Erfahrung des Regisseurs.",
       "sources": [
         "regie",
         "handlung"
-      ]
+      ],
+      "objective": "Glen verbindet Bonds persönliche Rache mit groß angelegter Stuntarbeit."
     }
   ]
 }

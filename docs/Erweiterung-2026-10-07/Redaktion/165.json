@@ -38,13 +38,13 @@
       ],
       "short": "Bobby Darin steht im Mittelpunkt.",
       "context": "Bobby Darin steht im Mittelpunkt. Kevin Spacey verkörpert den erwachsenen Sänger, William Ullrich dessen jüngeres Selbst. Die Lebensgeschichte umfasst unterschiedliche musikalische Phasen. Der Film setzt Erfolg deshalb nicht mit einem einzigen unveränderten Stil gleich, sondern zeigt die Suche nach Publikum und einem passenden öffentlichen Bild.",
-      "anchor": "Darins Lebensgeschichte führt durch verschiedene musikalische Rollen.",
       "interest": "Die Person bestimmt den biografischen Gegenstand.",
       "sources": [
         "artikel",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Darins Lebensgeschichte führt durch verschiedene musikalische Rollen."
     },
     {
       "code": "L2",
@@ -63,13 +63,13 @@
       ],
       "short": "Kevin Spacey verkörpert den erwachsenen Bobby Darin und singt die Rolle selbst.",
       "context": "Kevin Spacey verkörpert den erwachsenen Bobby Darin und singt die Rolle selbst. Die Darstellung verbindet Schauspiel mit musikalischer Arbeit. Bekannte Lieder werden dadurch Teil seiner Verkörperung der Figur. Die Stimme ist nicht lediglich ein getrenntes Originalband, zu dem die sichtbare Person die Bewegungen nachahmt.",
-      "anchor": "Spacey verbindet die Darin-Rolle mit eigener Gesangsleistung.",
       "interest": "Die Darstellung umfasst mehr als äußere Ähnlichkeit.",
       "sources": [
         "artikel",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Spacey verbindet die Darin-Rolle mit eigener Gesangsleistung."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Der erwachsene Darin begegnet seinem jüngeren Selbst, gespielt von William Ullrich.",
       "context": "Der erwachsene Darin begegnet seinem jüngeren Selbst, gespielt von William Ullrich. Die Filmform trennt Erinnerung und Lebensalter nicht strikt. Begegnungen können Entscheidungen kommentieren, die längst geschehen sind. Die biografische Geschichte erhält damit einen zweiten Blick innerhalb der Figur, statt nur auf äußere Ereignisse nacheinander zu zeigen.",
-      "anchor": "Das jüngere Selbst wird zum Gegenüber des Erwachsenen.",
       "interest": "Die Form erweitert den biografischen Rückblick.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das jüngere Selbst wird zum Gegenüber des Erwachsenen."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Darin (Kevin Spacey) begegnet Sandra Dee (Kate Bosworth) bei „Come September“.",
       "context": "Darin (Kevin Spacey) begegnet Sandra Dee (Kate Bosworth) bei „Come September“. Die Schauspielarbeit führt damit eine persönliche Beziehung in die musikalische Karriere. Öffentlicher Erfolg und privates Leben entwickeln sich nicht getrennt. Die anschließende Ehe verbindet zwei Laufbahnen, deren Erwartungen und Abwesenheiten später neue Spannungen erzeugen.",
-      "anchor": "Come September führt Darin und Sandra Dee zusammen.",
       "interest": "Eine gemeinsame Arbeit wird zum privaten Wendepunkt.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Come September führt Darin und Sandra Dee zusammen."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Nina (Caroline Aaron), die Darin für seine Schwester hält, ist seine Mutter.",
       "context": "Nina (Caroline Aaron), die Darin für seine Schwester hält, ist seine Mutter. Die Enthüllung verändert seine Deutung der eigenen Herkunft. Ein vertrautes Familienbild muss neu geordnet werden. Der Film verbindet diese persönliche Erschütterung mit der Frage, wie ein Künstler nach bisherigen Erfolgen noch ein stimmiges eigenes Leben finden kann.",
-      "anchor": "Die bekannte Familie erhält durch Ninas Geständnis neue Rollen.",
       "interest": "Die Enthüllung verändert die Vorstellung der eigenen Herkunft.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die bekannte Familie erhält durch Ninas Geständnis neue Rollen."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Darins bisheriges Publikum erwartet vertraute Unterhaltung.",
       "context": "Darins bisheriges Publikum erwartet vertraute Unterhaltung. Der neue musikalische Ausdruck findet deshalb nicht automatisch Zustimmung bei den früheren Anhängern. Erfolg kann einen Künstler auf das Bild festlegen, das er selbst verändern möchte. Die Szene zeigt eine Grenze der Erneuerung: Ein anderer eigener Wunsch benötigt auch eine neue Bereitschaft des Publikums.",
-      "anchor": "Das alte Erfolgsbild erschwert Darins neue musikalische Richtung.",
       "interest": "Die Reaktion verbindet Stilwechsel und Publikumserwartung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das alte Erfolgsbild erschwert Darins neue musikalische Richtung."
     },
     {
       "code": "Y",
@@ -184,7 +184,6 @@
       ],
       "short": "Erstveröffentlichung 2004 einschließlich Toronto-Aufführung; US-Eröffnung am 17. Dezember 2004. Produktionsländer nach AFI, nicht nur USA.",
       "context": "„Beyond the Sea“ erschien 2004. Bobby Darin war 1973 mit 37 Jahren gestorben, 31 Jahre zuvor. Kevin Spaceys Film blickt auf eine kurze Karriere zurück und verbindet die Erwachsenenrolle mit einem jüngeren Selbst. Das Jahrespaar ordnet die Veröffentlichung als spätere filmische Erinnerung ein, während der dargestellte Künstler innerhalb seines Lebens nur wenig Zeit für seine Entwicklung hatte.",
-      "anchor": "Darins Tod 1973, Film 2004: 31 Jahre bis zum biografischen Rückblick.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
@@ -192,7 +191,8 @@
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Darins Tod 1973, Film 2004: 31 Jahre bis zum biografischen Rückblick."
     },
     {
       "code": "D",
@@ -211,14 +211,14 @@
       ],
       "short": "Kevin Spacey führte Regie, schrieb am Drehbuch mit und spielt Bobby Darin.",
       "context": "Kevin Spacey führte Regie, schrieb am Drehbuch mit und spielt Bobby Darin. Die Gesangspassagen trägt er mit der eigenen Stimme vor. Seine Aufgaben verbinden damit die Sicht auf die Lebensgeschichte und deren musikalische Verkörperung. Die Filmform erlaubt Begegnungen des Erwachsenen mit dem jüngeren Selbst, statt ausschließlich eine chronologische Biografie zu erzählen.",
-      "anchor": "Spacey gestaltet Darins Lebensgeschichte und singt dessen Rolle selbst.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel",
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Spacey gestaltet Darins Lebensgeschichte und singt dessen Rolle selbst."
     }
   ]
 }

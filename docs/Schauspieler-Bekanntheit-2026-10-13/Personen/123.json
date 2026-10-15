@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Charnier organisiert den internationalen Drogenschmuggel.",
       "context": "Der elegante Franzose ist das Gegenüber der New Yorker Ermittler. William Friedkin hatte zunächst einen raueren Darsteller im Sinn; Rey gab dem Verbrecher stattdessen die beherrschte, kultivierte Erscheinung, die den Polizisten so fremd bleibt.",
-      "anchor": "Charnier organisiert das Geschäft hinter der Straßenkriminalität.",
       "interest": "Den Gegenspieler hinter einer berühmten Polizeigeschichte erkennen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.dga.org/Events/2003/04-April/The-French-Connection-William-Friedkin"
-      ]
+      ],
+      "objective": "Charnier organisiert das Geschäft hinter der Straßenkriminalität."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 2,
       "short": "Don Jaime ist Viridianas Onkel.",
       "context": "Die Novizin Viridiana (Silvia Pinal) besucht den Mann, der ihre Ausbildung unterstützt hat. Er bedrängt sie mit einem Heiratswunsch; nach seinem Tod versucht sie auf dem Anwesen, ihre christlichen Ideale durch Hilfe für Bedürftige zu verwirklichen.",
-      "anchor": "Viridianas Wohltäter ist ihr Onkel Don Jaime.",
       "interest": "Eine entscheidende Familienbeziehung des Buñuel-Films verstehen.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       "extraSources": [
         "https://www.criterion.com/films/373-viridiana",
         "https://www.criterion.com/current/posts/423-viridiana-the-human-comedy"
-      ]
+      ],
+      "objective": "Viridianas Wohltäter ist ihr Onkel Don Jaime."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 3,
       "short": "Don Lope ist Tristanas Vormund.",
       "context": "Die verwaiste Tristana (Catherine Deneuve) ist von ihm abhängig. Don Lope beansprucht für sich persönliche Freiheit, nutzt seine Stellung aber, um sie sexuell und emotional an sich zu binden; Fürsorge und Besitzanspruch fallen auseinander.",
-      "anchor": "Don Lopes Vormundschaft wird zum Machtverhältnis.",
       "interest": "Die widersprüchliche Stellung einer Buñuel-Figur erfassen.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-great-films-from-1970"
-      ]
+      ],
+      "objective": "Don Lopes Vormundschaft wird zum Machtverhältnis."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 0,
       "short": "Rafael Acosta ist Botschafter.",
       "context": "Er gehört zur eleganten Gesellschaft, deren gemeinsame Mahlzeiten immer wieder scheitern. Der diplomatische Rang schützt die Figur nicht vor Buñuels Spott: respektable Umgangsformen und fragwürdige Geschäfte bestehen nebeneinander.",
-      "anchor": "Rafael Acosta vertritt einen Staat als Botschafter.",
       "interest": "Die gesellschaftliche Stellung in einer surrealistischen Komödie zuordnen.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
-      ]
+      ],
+      "objective": "Rafael Acosta vertritt einen Staat als Botschafter."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 3,
       "short": "Carole Bouquet und Ángela Molina spielen beide Conchita.",
       "context": "Buñuel wechselt zwischen beiden Darstellerinnen, ohne daraus zwei Figuren zu machen. Mathieu erlebt eine einzige Geliebte, deren widersprüchliches Verhalten sich durch diesen sichtbaren Besetzungswechsel besonders schwer festlegen lässt.",
-      "anchor": "Zwei Darstellerinnen, eine Conchita.",
       "interest": "Ein ungewöhnliches Schauspiel- und Erzählverfahren erkennen.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       "extraSources": [
         "https://www.criterion.com/films/686-that-obscure-object-of-desire",
         "https://www.criterion.com/current/posts/895-that-obscure-object-of-desire"
-      ]
+      ],
+      "objective": "Zwei Darstellerinnen, eine Conchita."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 1,
       "short": "Luis schreibt an einer Erzählung.",
       "context": "Elisa (Geraldine Chaplin) besucht ihren Vater in dessen abgelegenem Haus. Erinnerungen, Gespräche und der geschriebene Text gehen ineinander über, sodass die Grenze zwischen Luis’ Erzählung und dem gemeinsamen Erleben unsicher wird.",
-      "anchor": "Luis’ Schreiben und Elisas Besuch durchdringen einander.",
       "interest": "Eine literarische Ebene innerhalb eines Familienfilms entdecken.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       "extraSources": [
         "https://www.festival-cannes.com/f/elisa-vida-mia/",
         "https://cultura.cervantes.es/frankfurt/es/elisa/181038"
-      ]
+      ],
+      "objective": "Luis’ Schreiben und Elisas Besuch durchdringen einander."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 0,
       "short": "Friedkin hatte Francisco Rabal gemeint.",
       "context": "Friedkin erinnerte sich an einen Darsteller aus „Belle de jour“, kannte aber dessen Namen nicht. Die Suche führte zunächst zu Rey; als der Irrtum auffiel, war Rabal nicht verfügbar. Rey blieb und wurde zu Charnier.",
-      "anchor": "Aus der Verwechslung mit Rabal entstand Reys Charnier.",
       "interest": "Einen belegten Castingirrtum mit seiner künstlerischen Folge verbinden.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       ],
       "extraSources": [
         "https://www.dga.org/Events/2003/04-April/The-French-Connection-William-Friedkin"
-      ]
+      ],
+      "objective": "Aus der Verwechslung mit Rabal entstand Reys Charnier."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 2,
       "short": "Alfredo Landa spielte Sancho Panza.",
       "context": "Landa stand früh als Sancho fest, während die Besetzung des Ritters zahlreiche Proben erforderte. Rey zögerte wegen der körperlichen Anforderungen des Reitens in Rüstung, übernahm die Rolle aber schließlich für Manuel Gutiérrez Aragóns Fernsehfassung.",
-      "anchor": "Reys Don Quijote wird von Landas Sancho begleitet.",
       "interest": "Eine späte Fernsehrolle mit ihrem zentralen Spielpartner verbinden.",
       "feedback": [
         "",
@@ -222,7 +221,8 @@
       "films": [],
       "extraSources": [
         "https://www.rtve.es/play/videos/el-quijote/"
-      ]
+      ],
+      "objective": "Reys Don Quijote wird von Landas Sancho begleitet."
     }
   ]
 }

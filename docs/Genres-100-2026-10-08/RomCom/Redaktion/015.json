@@ -33,11 +33,11 @@
       ],
       "short": "Jenna arbeitet für Poise.",
       "context": "Jenna Rink (Jennifer Garner) entdeckt in ihrem neuen erwachsenen Alltag eine Stelle beim Modemagazin Poise. Lucy Wyman (Judy Greer) arbeitet ebenfalls dort, und Richard Kneeland (Andy Serkis) ist ihr Vorgesetzter. Jenna muss Aufgaben und Beziehungen verstehen, an die sie keine Erinnerung besitzt. Der Arbeitsplatz liefert damit scheinbar den gewünschten Erfolg, lässt sie aber zugleich mit den Folgen einer ihr fremd gewordenen Persönlichkeit zusammentreffen.",
-      "anchor": "Poise ist Jennas Arbeitsplatz, Sparkle die Konkurrenz.",
       "interest": "Der Magazinname ist eine klare Orientierung im Erwachsenenalltag.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Poise ist Jennas Arbeitsplatz, Sparkle die Konkurrenz."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Matty arbeitet als Fotograf.",
       "context": "Jenna Rink (Jennifer Garner) findet ihren früheren Freund Matty Flamhaff (Mark Ruffalo) als erwachsenen Fotografen wieder. Sie braucht seine Arbeit später für eine neue Präsentation des Magazins. Beruflicher Auftrag und persönliche Annäherung überschneiden sich dadurch. Matty erklärt ihr zugleich, warum der Kontakt zwischen ihnen abgebrochen war. Seine Fotos sind deshalb nicht nur Material für die Redaktion, sondern Teil einer vorsichtigen Wiederbegegnung zweier entfremdeter Menschen.",
-      "anchor": "Der frühere Freund liefert Fotos für Jennas Projekt.",
       "interest": "Der Beruf verbindet Mattys eigene Lebenssituation mit dem Handlungsverlauf.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der frühere Freund liefert Fotos für Jennas Projekt."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Matty hat für Jenna ein Puppenhaus gebaut.",
       "context": "Der junge Matty Flamhaff (Sean Marquette) schenkt Jenna Rink (Christa B. Allen) ein selbstgemachtes Puppenhaus. Auf dessen Dach liegt der als magisch bezeichnete Wunschstaub. Das Geschenk steht für persönliche Aufmerksamkeit, während Jenna nach Anerkennung durch die beliebte Clique sucht. Der Gegenstand verbindet damit zwei Wünsche: die auffällige Zukunft, von der sie träumt, und die bereits vorhandene Nähe, die sie zunächst nicht entsprechend würdigt.",
-      "anchor": "Das handgemachte Haus trägt den Wunschstaub.",
       "interest": "Der Gegenstand ist ein eigenes konkretes Motiv und keine Altersfrage.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das handgemachte Haus trägt den Wunschstaub."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Jenna beginnt die gemeinsame Thriller-Tanzfolge.",
       "context": "Jenna Rink (Jennifer Garner) greift bei einer zunächst wenig lebendigen Feier auf die vertraute Choreografie von Michael Jacksons „Thriller“ zurück. Matty Flamhaff (Mark Ruffalo) und die übrigen Gäste schließen sich an. Ihre Erinnerung an die Jugendzeit wird hier zu einer sozialen Stärke. Sie gewinnt die Gesellschaft nicht durch das Auftreten einer perfekten Erwachsenen, sondern durch ein gemeinsames, überraschend spielerisches Ritual.",
-      "anchor": "Jugenderinnerung verwandelt eine steife Feier in gemeinsames Tanzen.",
       "interest": "Die bekannte Szene erhält ein präzises musikalisches Ziel.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Jugenderinnerung verwandelt eine steife Feier in gemeinsames Tanzen."
     },
     {
       "code": "S1",
@@ -125,12 +125,12 @@
       ],
       "short": "Jenna selbst hatte Poise zuvor sabotiert.",
       "context": "Lucy Wyman (Judy Greer) nimmt Jennas Präsentation zum Konkurrenzmagazin Sparkle mit. Als Jenna Rink (Jennifer Garner) sie zur Rede stellt, erfährt sie, dass ihre eigene erwachsene Vorgängerpersönlichkeit Poise bereits geschadet hatte, um dort eine neue Stelle zu bekommen. Die Enthüllung trennt Lucys aktuellen Verrat von Jennas früheren Entscheidungen. Jenna kann sich deshalb nicht allein als Opfer ihrer Kollegin verstehen, sondern muss ihre bisherige Lebensführung hinterfragen.",
-      "anchor": "Der aktuelle Verrat legt Jennas frühere Sabotage offen.",
       "interest": "Die überraschende Urheberschaft ist eine wichtige spätere Enthüllung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der aktuelle Verrat legt Jennas frühere Sabotage offen."
     },
     {
       "code": "S2",
@@ -149,12 +149,12 @@
       ],
       "short": "Jenna zerreißt die Hausaufgaben und beendet ihre Unterordnung unter die Clique.",
       "context": "Jenna Rink (Christa B. Allen) erhält die Gelegenheit, den Geburtstag noch einmal anders zu erleben. Sie begrüßt Matty Flamhaff (Sean Marquette) herzlich und weist die Clique um die junge Lucy Wyman (Alexandra Kyle) zurück. Das Zerreißen ihrer erledigten Hausaufgaben beendet den Handel um vermeintliche Beliebtheit. Die Schlussentscheidung verändert nicht nur eine spätere Partnerwahl, sondern das Verhalten, mit dem Jenna Anerkennung im eigenen Alltag sucht.",
-      "anchor": "Die erledigten Hausaufgaben verlieren ihren Wert als Eintrittskarte.",
       "interest": "Die konkrete neue Entscheidung löst die ursprüngliche Demütigung auf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die erledigten Hausaufgaben verlieren ihren Wert als Eintrittskarte."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Der Film erschien erstmals 2004.",
       "context": "„30 über Nacht“ erschien 2004, sechzehn Jahre nach „Big“ von 1988. In beiden Filmen steht ein plötzlich erwachsen erscheinender Mensch vor einer Welt, für die seine bisherigen Erfahrungen nicht ausreichen. Tom Hanks spielt in „Big“ Josh Baskin; Jennifer Garner übernimmt hier Jenna Rink. Die ähnliche Grundidee bietet einen Erinnerungsanker, während die datierten Veröffentlichungen verhindern, dass die Geschichten derselben Kinozeit zugerechnet werden.",
-      "anchor": "1988 Big, 2004 30 über Nacht: sechzehn Jahre.",
       "interest": "Eine verwandte Verwandlungsfantasie liefert einen konkreten und anschaulichen Zeitabstand.",
       "sources": [
         "bfi",
         "anker"
-      ]
+      ],
+      "objective": "1988 Big, 2004 30 über Nacht: sechzehn Jahre."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "Gary Winick führte Regie.",
       "context": "Gary Winick inszeniert Jenna Rinks (Jennifer Garner) Begegnung mit einem erwachsenen Leben, dessen Vergangenheit sie zunächst nicht kennt. Christa B. Allen spielt ihre jugendliche Fassung. Die beiden Darstellerinnen gehören zu einer Figur in unterschiedlichen Lebensabschnitten. Der BFI-Credit nennt Winick eindeutig als Regisseur. Die Fantasiegeschichte verbindet beruflichen Erfolg mit der Frage, welche Beziehungen Jenna auf dem Weg dorthin verloren hat.",
-      "anchor": "Winick verbindet die beiden Lebensabschnitte einer Figur.",
       "interest": "Der Regiecredit bleibt von Darstellerinnen und verwandten Verwandlungsfilmen getrennt.",
       "sources": [
         "bfi",
         "handlung"
-      ]
+      ],
+      "objective": "Winick verbindet die beiden Lebensabschnitte einer Figur."
     }
   ]
 }

@@ -74,10 +74,24 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
 });
 
 it("prüft den erwarteten Redaktionsumfang und lässt die offene Stativszene aus", () => {
-  expect(manifest.appliedOriginalIds).toBe(999);
-  expect(manifest.generated).toHaveLength(78);
+  expect(manifest.appliedOriginalIds).toBe(1590);
+  expect(manifest.generated).toHaveLength(120);
   expect(manifest.additions).toHaveLength(14);
   expect(manifest.changes.some((c) => c.id === manifest.excluded[0].id)).toBe(
     false,
   );
+});
+
+it("verknüpft die neue Rabal-Frage bereichsübergreifend und entfernt die überholte Brückenvariante", () => {
+  const state = emptyState();
+  addPackages(state, packages.map(p => ({filename:p.filename,text:readFileSync(`public${p.path}`,"utf8")})));
+  const byId = new Map(state.questions.map(q => [q.id,q]));
+  const variant = state.questions.find(q => q.metadata.variant_of === "SCHAUSPIELER-BG-20261013-123-E1")!;
+  expect(variant).toBeDefined();
+  expect(variant.knowledgeId).toBe(byId.get("SCHAUSPIELER-BG-20261013-123-E1")?.knowledgeId);
+  for (const removed of manifest.removals) {
+    expect(byId.has(removed.id)).toBe(false);
+    expect(byId.has(removed.replacementId)).toBe(true);
+  }
+  expect(state.questions.filter(q => q.id.startsWith("Q-20261015-"))).toHaveLength(109);
 });

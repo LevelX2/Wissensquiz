@@ -38,12 +38,12 @@
       ],
       "short": "Hanshiro (Ichikawa Ebizo) bittet um den Ort für einen rituellen Selbstmord.",
       "context": "Hanshiro (Ichikawa Ebizo) bittet um den Ort für einen rituellen Selbstmord. Seine Bitte ähnelt einem früheren Gesuch und weckt deshalb Misstrauen. Der scheinbar bekannte Fall erweist sich jedoch als persönlicher Zusammenhang. Die Gesprächssituation wird zur Auseinandersetzung darüber, wie das Haus seine eigene Ehre versteht.",
-      "anchor": "Die gleiche Bitte führt zu einem anderen Blick auf die Ehre.",
       "interest": "Das Gesuch eröffnet die Konfrontation.",
       "sources": [
         "cannes"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die gleiche Bitte führt zu einem anderen Blick auf die Ehre."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Motome (Eita) besitzt ein Schwert aus Bambus.",
       "context": "Motome (Eita) besitzt ein Schwert aus Bambus. Der äußere Anschein seiner Ausrüstung verdeckt die Not seiner Familie. Die erbarmungslose Durchführung des Rituals macht diesen Unterschied tödlich. Das Haus prüft die sichtbare Regel, ohne die Gründe für die fehlende echte Klinge als menschliches Problem anzuerkennen.",
-      "anchor": "Die Bambusklinge macht den Unterschied zwischen Ehrenbild und Not sichtbar.",
       "interest": "Die Ausrüstung trägt den Familienkonflikt.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Bambusklinge macht den Unterschied zwischen Ehrenbild und Not sichtbar."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Motome (Eita) verkauft das Schwert für die Bedürfnisse seiner kranken Familie.",
       "context": "Motome (Eita) verkauft das Schwert für die Bedürfnisse seiner kranken Familie. Der Verzicht ist daher keine bloße Geringschätzung seines Standes. Er setzt eine konkrete Verantwortung vor das sichtbare Statuszeichen. Die spätere Beurteilung des Hauses Ii übersieht gerade diesen Zusammenhang zwischen äußerem Mangel und familiärer Pflicht.",
-      "anchor": "Der Schwertverkauf dient der Familie statt einer Rangsteigerung.",
       "interest": "Die Not verändert die Bedeutung des Statuszeichens.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Schwertverkauf dient der Familie statt einer Rangsteigerung."
     },
     {
       "code": "M2",
@@ -110,13 +110,13 @@
       ],
       "short": "Motome (Eita) ist Hanshiros (Ichikawa Ebizo) Schwiegersohn.",
       "context": "Motome (Eita) ist Hanshiros (Ichikawa Ebizo) Schwiegersohn. Der Besucher erzählt somit keine fremde Geschichte aus sicherer Entfernung. Sein Wissen entspringt einer Familienbindung und ihren Verlusten. Die Bitte um das Ritual erhält dadurch eine verborgene Bedeutung, die der Hausherr am Anfang noch nicht einordnen kann.",
-      "anchor": "Hanshiro bringt die Geschichte seines Schwiegersohns ins Haus zurück.",
       "interest": "Die Verwandtschaft erklärt die persönliche Kenntnis.",
       "sources": [
         "artikel",
         "cannes"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Hanshiro bringt die Geschichte seines Schwiegersohns ins Haus zurück."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Hanshiro (Ichikawa Ebizo) hat den Männern die Haarknoten abgeschnitten.",
       "context": "Hanshiro (Ichikawa Ebizo) hat den Männern die Haarknoten abgeschnitten. Sie verbergen die sichtbare Schande, statt die eigenen Ehrenregeln konsequent gegen sich anzuwenden. Seine Vorführung macht dadurch ein doppeltes Maß sichtbar. Was sie einem armen Besucher unerbittlich abverlangten, wollen sie in der eigenen Lage vermeiden.",
-      "anchor": "Die fehlenden Haarknoten zeigen das doppelte Maß der Ehrenhüter.",
       "interest": "Ein sichtbares Zeichen entlarvt die Regelpraxis.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die fehlenden Haarknoten zeigen das doppelte Maß der Ehrenhüter."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Die Rüstung des Hauses wird wieder aufgerichtet und gepflegt.",
       "context": "Die Rüstung des Hauses wird wieder aufgerichtet und gepflegt. Das Statusbild bleibt bestehen, obwohl die Vorgeschichte seine moralische Grundlage erschüttert hat. Der Schluss verbindet daher äußere Wiederherstellung mit verdrängter Erfahrung. Was der zurückkehrende Herr wahrnimmt, muss nicht zeigen, was im Haus tatsächlich geschehen ist.",
-      "anchor": "Die gepflegte Rüstung verdeckt die beschädigte Ehrenordnung.",
       "interest": "Das Schlussbild zeigt die Grenze sichtbarer Wiederherstellung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gepflegte Rüstung verdeckt die beschädigte Ehrenordnung."
     },
     {
       "code": "Y",
@@ -183,7 +183,6 @@
       ],
       "short": "Festivalpremiere in Cannes am 19. Mai 2011, japanischer Kinostart am 15. Oktober 2011; 3D-Neuverfilmung, getrennt von 1962.",
       "context": "„Hara-Kiri – Tod eines Samurai“ erschien 2011. Masaki Kobayashis frühere Verfilmung „Harakiri“ stammt von 1962; zwischen beiden liegen 49 Jahre. Takashi Miike erzählt den Stoff in einer neuen 3D-Fassung. Das zeitliche Paar trennt daher zwei eigenständige Filmidentitäten, obwohl Grundkonflikt und zentrale Figuren miteinander verbunden sind.",
-      "anchor": "Harakiri 1962, Miikes Fassung 2011: 49 Jahre bis zur Neuverfilmung.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
@@ -191,7 +190,8 @@
         "cannes"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Harakiri 1962, Miikes Fassung 2011: 49 Jahre bis zur Neuverfilmung."
     },
     {
       "code": "D",
@@ -210,14 +210,14 @@
       ],
       "short": "Takashi Miike inszenierte die Neuverfilmung nach Kikumi Yamagishis Drehbuch.",
       "context": "Takashi Miike inszenierte die Neuverfilmung nach Kikumi Yamagishis Drehbuch. Ryuichi Sakamoto schrieb die Musik. Die Produzenten Jeremy Thomas und Toshiaki Nakazawa hatten bereits mit Miike an „13 Assassins“ gearbeitet. Die neue Zusammenarbeit untersucht Ehrenregeln über eine Familiengeschichte, in der Armut und die Durchsetzung eines Rituals unvereinbar aufeinander treffen.",
-      "anchor": "Miike führt das Produzententeam zu einer Familiengeschichte über Ehrenregeln.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel",
         "cannes"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Miike führt das Produzententeam zu einer Familiengeschichte über Ehrenregeln."
     }
   ]
 }

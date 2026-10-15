@@ -39,12 +39,12 @@
       ],
       "short": "Jong-goo untersucht die Ereignisse als Polizist.",
       "context": "Jong-goo (Kwak Do-won) soll die ungewöhnlichen Gewalttaten als Polizist aufklären. Seine Aufgabe verlangt eine überprüfbare Erklärung. Je näher der Fall an seine Familie rückt, desto schwieriger wird diese Distanz. Der Film verbindet so amtliche Untersuchung mit einem persönlichen Druck, der sichere Entscheidungen immer stärker erschwert.",
-      "anchor": "Der Polizist muss erklären, was bald seine eigene Familie bedroht.",
       "interest": "Verbindet die berufliche Ausgangsaufgabe mit dem späteren persönlichen Konflikt.",
       "sources": [
         "cannes"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Polizist muss erklären, was bald seine eigene Familie bedroht."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Hyo-jins Zustand macht aus der Untersuchung den Kampf um sein Kind.",
       "context": "Hyo-jin (Kim Hwan-hee), die Tochter von Jong-goo (Kwak Do-won), zeigt die bedrohlichen Veränderungen. Seine Suche nach der Ursache wird nun von Angst um sie bestimmt. Die Geschichte prüft dadurch, ob der Wunsch zu helfen klare Beobachtung ermöglicht oder ihn anfälliger für vorschnelle Erklärungen macht.",
-      "anchor": "Die Symptome der Tochter verwandeln den Fall in einen Rettungsversuch.",
       "interest": "Erklärt den Wechsel von beruflicher Untersuchung zu väterlicher Verzweiflung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Symptome der Tochter verwandeln den Fall in einen Rettungsversuch."
     },
     {
       "code": "M1",
@@ -87,13 +87,13 @@
       ],
       "short": "Die gesammelten Opferbezüge wirken wie belastende Hinweise.",
       "context": "In der Unterkunft des Fremden (Jun Kunimura) finden sich Fotos und persönliche Gegenstände der Opfer. Jong-goo (Kwak Do-won) erhält damit einen konkreten Anlass zum Verdacht. Der Fund beantwortet jedoch nicht unmittelbar, welche Funktion die Sammlung erfüllt. Beweisstücke und ihre Deutung bleiben unterschiedliche Schritte.",
-      "anchor": "Die Opferfotos verstärken den Verdacht, ohne ihn vollständig zu erklären.",
       "interest": "Unterscheidet einen auffälligen Fund von seiner endgültigen Deutung.",
       "sources": [
         "kritik",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Opferfotos verstärken den Verdacht, ohne ihn vollständig zu erklären."
     },
     {
       "code": "M2",
@@ -112,13 +112,13 @@
       ],
       "short": "Die Schmerzen und Reaktionen Hyo-jins bringen ihn zum Eingreifen.",
       "context": "Il-gwang (Hwang Jung-min) führt das Ritual aus, während Hyo-jin (Kim Hwan-hee) leidet. Jong-goo (Kwak Do-won) greift ein. Sein Schutzimpuls richtet sich gegen eine Maßnahme, die ebenfalls Hilfe verspricht. Die Szene macht die Entscheidung schwierig, weil sichtbarer Schmerz und behaupteter Rettungszweck nicht übereinstimmen.",
-      "anchor": "Hyo-jins sichtbares Leiden lässt den Vater das versprochene Heilritual stoppen.",
       "interest": "Erklärt den konkreten Widerspruch hinter der Unterbrechung.",
       "sources": [
         "handlung",
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Hyo-jins sichtbares Leiden lässt den Vater das versprochene Heilritual stoppen."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Moo-myeong verlangt, bis zum dritten Hahnenschrei zu warten.",
       "context": "Moo-myeong (Chun Woo-hee) fordert Jong-goo (Kwak Do-won) zum Warten auf. Gegenläufige Warnungen und die Gegenstände der Opfer lassen ihn ihr misstrauen. Er handelt zu früh. Die Szene verdichtet den Konflikt auf eine Zeitentscheidung, deren Folgen er erst erkennt, nachdem das verlangte Warten bereits abgebrochen ist.",
-      "anchor": "Misstrauen lässt Jong-goo die Wartefrist vor dem dritten Hahnenschrei brechen.",
       "interest": "Verbindet unsichere Vertrauensentscheidung mit einer konkreten Handlungsschwelle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Misstrauen lässt Jong-goo die Wartefrist vor dem dritten Hahnenschrei brechen."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Die Wetter- und Lichtbedingungen wurden bewusst in die Drehplanung eingebaut.",
       "context": "Das Team wartete auf Wolken und drehte wichtige Szenen bei tatsächlichem Regen oder Nebel. Für bestimmte Lichtstimmungen nutzte es kurze Zeitfenster am Tagesrand. Die Landschaft wirkt dadurch nicht wie eine neutrale Kulisse. Wetter und begrenzte Sicht tragen die Unsicherheit, die auch die Figuren erleben.",
-      "anchor": "Reales Wetter und kurze Lichtfenster formen die bedrohliche Landschaft.",
       "interest": "Erklärt eine belegte Produktionsentscheidung hinter der Atmosphäre.",
       "sources": [
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Reales Wetter und kurze Lichtfenster formen die bedrohliche Landschaft."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "The Chaser erschien 2008; The Wailing folgte 2016.",
       "context": "Na Hong-jins The Chaser erschien 2008; The Wailing folgte 2016, acht Jahre später. Das Presseheft verbindet beide mit präziser Raumgestaltung: In der früheren Geschichte prägen enge Stadtgassen die Verfolgung, im späteren Film die Dörfer und Berge. Der Abstand ordnet einen konkreten Wandel innerhalb seiner Arbeit ein.",
-      "anchor": "2008 enge Stadtgassen, acht Jahre später 2016 das bedrohte Dorf.",
       "interest": "Verknüpft das Erscheinungsjahr mit der Entwicklung der filmischen Räume.",
       "sources": [
         "vorfilm",
         "presse",
         "cannes"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2008 enge Stadtgassen, acht Jahre später 2016 das bedrohte Dorf."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Na Hong-jin schrieb und inszenierte den Film.",
       "context": "Na Hong-jin verantwortete Drehbuch und Regie. Das Presseheft beschreibt Gerüchte, Ungewissheit und väterliche Liebe als Kern des Projekts. Seine Geschichte macht die Suche nach Sicherheit selbst gefährlich: Der Vater muss handeln, obwohl ihm konkurrierende Erklärungen keine verlässliche Grundlage für die nächste Entscheidung geben.",
-      "anchor": "Na Hong-jin verbindet die Rettung der Tochter mit der Gefahr unsicherer Deutungen.",
       "interest": "Ordnet den Regiecredit in die ausdrücklich benannten Themen der Produktion ein.",
       "sources": [
         "cannes",
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Na Hong-jin verbindet die Rettung der Tochter mit der Gefahr unsicherer Deutungen."
     }
   ],
   "production_note": "Cannes führt Südkorea und USA; die Koproduktion ist dort und im Finecut-Presseheft mit Fox-Beteiligung belegt. Die enger gefasste Wikipedia-Länderangabe wird nicht als vollständige Koproduktionsliste verwendet."

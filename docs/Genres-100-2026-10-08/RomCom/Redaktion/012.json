@@ -31,11 +31,11 @@
       ],
       "short": "Pat will wieder mit Nikki zusammenkommen.",
       "context": "Pat Solitano Jr. (Bradley Cooper) kehrt nach einem Klinikaufenthalt zu seinen Eltern zurück. Er konzentriert sich auf Nikki (Brea Bee), obwohl sie Abstand von ihm verlangt und eine gerichtliche Schutzanordnung besteht. Seine Überzeugung, die alte Beziehung wiederherstellen zu können, bestimmt viele Entscheidungen. Der Film zeigt dabei die Spannung zwischen einem eigenen Wunsch und der Bereitschaft, Grenzen eines anderen Menschen tatsächlich anzuerkennen.",
-      "anchor": "Pat blickt zuerst auf die zerbrochene Ehe zurück.",
       "interest": "Das anfängliche Liebesziel ist von der späteren Entwicklung getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Pat blickt zuerst auf die zerbrochene Ehe zurück."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Tiffany verlangt Pat als Tanzpartner.",
       "context": "Tiffany Maxwell (Jennifer Lawrence) bietet Pat Solitano Jr. (Bradley Cooper) an, einen Brief an Nikki (Brea Bee) weiterzugeben. Dafür soll er mit ihr trainieren und an einem Tanzwettbewerb teilnehmen. Pat deutet den Tausch zunächst als Hilfe für seine alte Ehe. Die gemeinsamen Proben schaffen jedoch eine neue Beziehung im Alltag. Was als Mittel zu einem anderen Zweck beginnt, verändert seine Aufmerksamkeit und seine Bindung.",
-      "anchor": "Ein Brief wird gegen gemeinsame Tanzproben getauscht.",
       "interest": "Die konkrete Vereinbarung erklärt den Einstieg in die gemeinsame Aktivität.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein Brief wird gegen gemeinsame Tanzproben getauscht."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Pat Sr. ist Anhänger der Philadelphia Eagles.",
       "context": "Pat Solitano Sr. (Robert De Niro) verfolgt die Philadelphia Eagles mit großer Leidenschaft. Er verknüpft den Ausgang ihrer Spiele mit persönlichen Ritualen und der Anwesenheit seines Sohnes Pat Solitano Jr. (Bradley Cooper). Dadurch erhält Sport eine Wirkung auf die Familie, die weit über einen Fernsehabend hinausgeht. Die irrationalen Erwartungen des Vaters setzen den Sohn unter Druck und greifen in dessen neue Alltagspläne ein.",
-      "anchor": "Die Eagles bestimmen den familiären Footballalltag.",
       "interest": "Die Mannschaft ist ein präzises, wiederkehrendes Motiv.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Eagles bestimmen den familiären Footballalltag."
     },
     {
       "code": "M2",
@@ -100,12 +100,12 @@
       ],
       "short": "Die Tänzer müssen mindestens fünf von zehn Punkten erreichen.",
       "context": "Pat Solitano Sr. (Robert De Niro) verbindet eine Footballwette mit dem Ergebnis des Tanzwettbewerbs. Pat Solitano Jr. (Bradley Cooper) und Tiffany Maxwell (Jennifer Lawrence) müssen dafür nicht gewinnen, sondern die vereinbarte Grenze von fünf Punkten erreichen. Das erklärt die ungewöhnliche Reaktion ihrer Angehörigen auf die mäßige Wertung. Für die Familie zählt eine andere Erfolgsbedingung als für das übrige Publikum im Saal.",
-      "anchor": "Die Wette verlangt Mittelmaß statt Turniersieg.",
       "interest": "Die genaue Schwelle erklärt eine sonst überraschende Publikumsreaktion.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Wette verlangt Mittelmaß statt Turniersieg."
     },
     {
       "code": "S1",
@@ -124,12 +124,12 @@
       ],
       "short": "Eine typische Formulierung weist auf Tiffany hin.",
       "context": "Pat Solitano Jr. (Bradley Cooper) bemerkt im angeblichen Brief von Nikki (Brea Bee) eine Wendung, die er von Tiffany Maxwell (Jennifer Lawrence) kennt. Die Worte über das Lesen der Zeichen verbinden den Text mit ihrer eigenen Sprechweise. Er versteht damit, dass sie die Antwort verfasst hat. Diese Erkenntnis bleibt zunächst unausgesprochen und erhält Bedeutung, als er ihr später seine Gefühle offenbart.",
-      "anchor": "Die vertraute Sprache verrät die tatsächliche Autorin.",
       "interest": "Die Schlussenthüllung beruht auf einem konkreten sprachlichen Indiz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die vertraute Sprache verrät die tatsächliche Autorin."
     },
     {
       "code": "S2",
@@ -148,11 +148,11 @@
       ],
       "short": "Das musikalische Reizmotiv ist My Cherie Amour.",
       "context": "Pat Solitano Jr. (Bradley Cooper) reagiert heftig auf Stevie Wonders „My Cherie Amour“. Das Lied ist für ihn mit belastenden Erinnerungen an Nikki (Brea Bee) verbunden; er kann es auch hören, ohne dass es gerade tatsächlich gespielt wird. Die Musik dient deshalb nicht nur als stimmungsvolle Begleitung. Ein vertrauter romantischer Song wird innerhalb seiner subjektiven Wahrnehmung zu einem Zeichen überwältigender Vergangenheit.",
-      "anchor": "Ein Liebeslied wird zum belastenden Erinnerungsreiz.",
       "interest": "Die konkrete musikalische Verknüpfung ist ein anderes Ziel als Mannschaft oder Tanzwertung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein Liebeslied wird zum belastenden Erinnerungsreiz."
     },
     {
       "code": "Y",
@@ -171,11 +171,11 @@
       ],
       "short": "Silver Linings erschien erstmals 2012.",
       "context": "David O. Russells „The Fighter“ erschien 2010, „Silver Linings“ 2012: Zwischen den Filmen liegen zwei Jahre. Beide verknüpfen die Entwicklung ihrer Hauptfigur mit familiären Erwartungen und einer körperlichen Aktivität. Boxkampf und Tanzturnier erfüllen allerdings unterschiedliche Aufgaben. Die Daten geben einen konkreten Abstand innerhalb des Regiewerks und verhindern, dass ein ähnlicher Familienkonflikt die beiden Veröffentlichungen in der Erinnerung zusammenfallen lässt.",
-      "anchor": "2010 The Fighter, 2012 Silver Linings: zwei Jahre.",
       "interest": "Der Regisseur und das Familienmilieu verbinden zwei klar datierte Werke.",
       "sources": [
         "bfi"
-      ]
+      ],
+      "objective": "2010 The Fighter, 2012 Silver Linings: zwei Jahre."
     },
     {
       "code": "D",
@@ -194,13 +194,13 @@
       ],
       "short": "David O. Russell führte Regie.",
       "context": "David O. Russell inszeniert Pat Solitano Jr. (Bradley Cooper) und Tiffany Maxwell (Jennifer Lawrence) in einer Geschichte über Beziehungswünsche, Konflikte und gemeinsame Tanzproben. Er schrieb auch das Drehbuch nach Matthew Quicks Roman. Die Begegnungen wechseln zwischen streitenden Familienmitgliedern, privaten Gesprächen und einer öffentlichen Vorführung. Der Tanzwettbewerb führt diese Räume zusammen, weil Zuschauer und Beteiligte dasselbe Ergebnis aus unterschiedlichen Gründen bewerten.",
-      "anchor": "Russell inszeniert die Begegnung zwischen Pat und Tiffany.",
       "interest": "Der Credit verbindet die Regie und das Drehbuch dieser Romanverfilmung.",
       "sources": [
         "bfi"
       ],
       "knowledge_id": "K-SCHAUSPIELER-202610-P01-081-S-2",
-      "variant_of": "SCHAUSPIELER-202610-P01-081-S-2"
+      "variant_of": "SCHAUSPIELER-202610-P01-081-S-2",
+      "objective": "Russell inszeniert die Begegnung zwischen Pat und Tiffany."
     }
   ]
 }

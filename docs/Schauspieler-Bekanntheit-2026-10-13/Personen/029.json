@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Ihr internationaler Durchbruch kam mit „Und immer lockt das Weib“.",
       "context": "Roger Vadims Film stellte Bardot als Juliette in den Mittelpunkt. Ihr Auftreten und die Tanzszenen machten die Produktion weit über Frankreich hinaus bekannt. Die spätere Zusammenarbeit mit Godard und Malle folgte auf diesen Durchbruch; sie gehörte nicht zu ihren ersten Leinwandauftritten.",
-      "anchor": "Der Durchbruch von 1956 verbindet Bardot mit Vadims Juliette.",
       "interest": "Ein wichtiger Karriereschritt lässt sich einem konkreten Film zuordnen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.elysee.fr/emmanuel-macron/2025/12/28/disparition-de-brigitte-bardot"
-      ]
+      ],
+      "objective": "Der Durchbruch von 1956 verbindet Bardot mit Vadims Juliette."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Bardot widmete sich dem Tierschutz.",
       "context": "Die 1986 gegründete Fondation Brigitte Bardot unterstützt unter anderem Tiere in Not und setzt sich gegen Misshandlung und Aussetzung ein. Ihr Tätigkeitsfeld reicht von Frankreich bis zu internationalen Projekten. Das Engagement wurde nach dem Ende ihrer Filmkarriere zu einem dauerhaften Schwerpunkt ihres öffentlichen Lebens.",
-      "anchor": "Auf die Filmkarriere folgte der Einsatz für Tiere.",
       "interest": "Der Schwerpunkt erklärt eine weithin bekannte zweite Phase ihrer öffentlichen Tätigkeit.",
       "feedback": [
         "",
@@ -56,7 +55,8 @@
       "films": [],
       "extraSources": [
         "https://www.fondationbrigittebardot.fr/presentation-de-la-fbb/"
-      ]
+      ],
+      "objective": "Auf die Filmkarriere folgte der Einsatz für Tiere."
     },
     {
       "code": "M1",
@@ -70,7 +70,6 @@
       "correct": 3,
       "short": "Camille ist mit Paul Javal verheiratet.",
       "context": "Paul (Michel Piccoli) soll das Drehbuch einer Filmproduktion überarbeiten. Zugleich zerbricht seine Beziehung zu Camille. Der Konflikt um künstlerische Entscheidungen und Geld verläuft damit neben einem privaten Vertrauensverlust; Bardots Figur gehört nicht einfach zur professionellen Hierarchie am Filmset.",
-      "anchor": "Camilles Krise betrifft ihre Ehe mit Paul.",
       "interest": "Die Beziehung erschließt Bardots Stellung zwischen privatem Drama und Filmproduktion.",
       "feedback": [
         "",
@@ -83,7 +82,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/239-contempt"
-      ]
+      ],
+      "objective": "Camilles Krise betrifft ihre Ehe mit Paul."
     },
     {
       "code": "M2",
@@ -97,7 +97,6 @@
       "correct": 1,
       "short": "Bardots Partnerin ist Jeanne Moreau.",
       "context": "Zwei Sängerinnen einer reisenden Truppe geraten im frühen 20. Jahrhundert in Mittelamerika in eine Revolution. Ihre Bindung an einen Revolutionär führt sie dazu, dessen Sache auch nach seinem Tod fortzusetzen. Das Duo trägt deshalb sowohl die Musikkomödie als auch das politische Abenteuer.",
-      "anchor": "Bardot und Moreau ziehen gemeinsam von der Bühne in die Revolution.",
       "interest": "Eine zentrale Zusammenarbeit erweitert den Blick über Bardots einzelne Starauftritte.",
       "feedback": [
         "",
@@ -110,7 +109,8 @@
       ],
       "extraSources": [
         "https://www.festival-cannes.com/en/f/viva-maria/"
-      ]
+      ],
+      "objective": "Bardot und Moreau ziehen gemeinsam von der Bühne in die Revolution."
     },
     {
       "code": "S1",
@@ -124,7 +124,6 @@
       "correct": 2,
       "short": "Fritz Lang spielt sich selbst.",
       "context": "Der Film innerhalb des Films braucht einen europäischen Regisseur, der gegenüber einem amerikanischen Produzenten seine Vorstellung vom Kino behauptet. Lang übernimmt diese Figur unter dem eigenen Namen. Die tatsächliche Regie von „Die Verachtung“ liegt dagegen bei Jean-Luc Godard.",
-      "anchor": "Lang erscheint als Lang; Godard inszeniert die Begegnung.",
       "interest": "Das Selbstporträt als Filmfigur macht die Reflexion über das Filmemachen konkret.",
       "feedback": [
         "",
@@ -137,7 +136,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/239-contempt"
-      ]
+      ],
+      "objective": "Lang erscheint als Lang; Godard inszeniert die Begegnung."
     },
     {
       "code": "S2",
@@ -151,7 +151,6 @@
       "correct": 0,
       "short": "Dominique ist angeklagt, ihren Geliebten getötet zu haben.",
       "context": "Rückblenden erschließen das Leben der jungen Frau zwischen provinzieller Herkunft und Pariser Bohème. Im Gerichtssaal wird dabei auch ihr Lebenswandel bewertet. Bardots Rolle führt vom öffentlichen Bild einer begehrten jungen Frau zu einer Angeklagten, deren Beziehungen und Entscheidungen vor anderen zerlegt werden.",
-      "anchor": "Dominique steht wegen des Todes ihres Geliebten vor Gericht.",
       "interest": "Die Ausgangslage erklärt den Zusammenhang zwischen Kriminalfall und gesellschaftlichem Urteil.",
       "feedback": [
         "",
@@ -164,7 +163,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27913-la-v-rit"
-      ]
+      ],
+      "objective": "Dominique steht wegen des Todes ihres Geliebten vor Gericht."
     },
     {
       "code": "E1",
@@ -178,7 +178,6 @@
       "correct": 3,
       "short": "Das Duett entstand mit Serge Gainsbourg.",
       "context": "Das INA-Archiv führt den gemeinsamen Auftritt in seiner Dokumentation über Gainsbourg. Bardots Stimme gehört damit auch zur französischen Popgeschichte der 1960er-Jahre. Ihre musikalische Zusammenarbeit lässt sich von den Filmrollen unterscheiden, die ihr internationales Starbild begründet hatten.",
-      "anchor": "Bardot und Gainsbourg bilden das musikalische Bonnie-und-Clyde-Paar.",
       "interest": "Die Zusammenarbeit erschließt einen eigenständigen künstlerischen Bereich ihrer Laufbahn.",
       "feedback": [
         "",
@@ -190,7 +189,8 @@
       "extraSources": [
         "https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA94006914/serge-gainsbourg",
         "https://www.elysee.fr/emmanuel-macron/2025/12/28/disparition-de-brigitte-bardot"
-      ]
+      ],
+      "objective": "Bardot und Gainsbourg bilden das musikalische Bonnie-und-Clyde-Paar."
     },
     {
       "code": "E2",
@@ -204,7 +204,6 @@
       "correct": 1,
       "short": "Bardot war eines der Vorbilder für Marianne.",
       "context": "Marianne verkörpert die französische Republik und ist besonders durch Büsten in Rathäusern sowie offizielle Darstellungen bekannt. Die Élysée-Seite nennt Bardot unter mehreren berühmten Frauen, deren Gesicht für die Figur verwendet wurde. Es handelt sich dabei um eine staatliche Allegorie, nicht um eine Filmrolle.",
-      "anchor": "Bardots Gesicht wurde zum Gesicht der Republik: Marianne.",
       "interest": "Die Frage zeigt, wie ein Filmstar in die politische Bildsprache eines Landes eingeht.",
       "feedback": [
         "",
@@ -215,7 +214,8 @@
       "films": [],
       "extraSources": [
         "https://www.elysee.fr/en/french-presidency/marianne"
-      ]
+      ],
+      "objective": "Bardots Gesicht wurde zum Gesicht der Republik: Marianne."
     }
   ]
 }

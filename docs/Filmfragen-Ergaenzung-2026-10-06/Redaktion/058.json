@@ -36,12 +36,12 @@
       ],
       "short": "Moonee lebt mit Halley (Bria Vinaite) in einem günstigen Motel.",
       "context": "Moonee (Brooklynn Prince) lebt mit Halley (Bria Vinaite) in einem günstigen Motel. Das provisorische Zuhause wird zur dauernden Lebenswelt; die Nachbarschaft bietet Spielräume, aber wenig wirtschaftliche Sicherheit.",
-      "anchor": "Ein Motel ist Moonees Zuhause.",
       "interest": "Ein Motel ist Moonees Zuhause.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein Motel ist Moonees Zuhause."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Die Motels liegen nahe Walt Disney World.",
       "context": "Die Motels liegen nahe Walt Disney World. Die Kinderwelt ist farbig und voller Abenteuer, während die Eltern nahe einer teuren Freizeitwelt um Unterkunft und Einkommen kämpfen.",
-      "anchor": "Das Motel liegt im Schatten von Disney World.",
       "interest": "Das Motel liegt im Schatten von Disney World.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Motel liegt im Schatten von Disney World."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Halley verkauft nachgemachtes Parfüm.",
       "context": "Halley (Bria Vinaite) verkauft nachgemachtes Parfüm. Moonee (Brooklynn Prince) hilft ihr dabei; das Geldverdienen der Mutter wird so Teil des Sommeralltags der Tochter.",
-      "anchor": "Touristen sollen Halleys Parfüm und die nächste Miete bezahlen.",
       "interest": "Touristen sollen Halleys Parfüm und die nächste Miete bezahlen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Touristen sollen Halleys Parfüm und die nächste Miete bezahlen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Ashley (Mela Murder) verbietet Scooty (Christopher Rivera) den Umgang.",
       "context": "Ashley (Mela Murder) verbietet Scooty (Christopher Rivera) den Umgang. Der Brand zerstört zugleich die Unterstützung zwischen den Müttern, weil Ashley auch Halley (Bria Vinaite) nicht mehr hilft.",
-      "anchor": "Das Kinderfeuer zerreißt auch die Hilfe der Erwachsenen.",
       "interest": "Das Kinderfeuer zerreißt auch die Hilfe der Erwachsenen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Kinderfeuer zerreißt auch die Hilfe der Erwachsenen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Moonee (Brooklynn Prince) bleibt im Badezimmer bei lauter Musik.",
       "context": "Moonee (Brooklynn Prince) bleibt im Badezimmer bei lauter Musik. Die Inszenierung zeigt dadurch getrennte Wahrnehmungsräume innerhalb desselben kleinen Zimmers.",
-      "anchor": "Das Badezimmer trennt Moonees Alltag von Halleys Kunden.",
       "interest": "Das Badezimmer trennt Moonees Alltag von Halleys Kunden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Badezimmer trennt Moonees Alltag von Halleys Kunden."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Moonee (Brooklynn Prince) und Jancey (Valeria Cotto) laufen ins Magic Kingdom.",
       "context": "Moonee (Brooklynn Prince) und Jancey (Valeria Cotto) laufen ins Magic Kingdom. Der Schluss wechselt in eine andere Bildform und kann als kindliche Fluchtvorstellung gelesen werden; die soziale Not erhält keine ausgespielte behördliche Lösung.",
-      "anchor": "Die letzte Flucht führt in die benachbarte Fantasiewelt.",
       "interest": "Die letzte Flucht führt in die benachbarte Fantasiewelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die letzte Flucht führt in die benachbarte Fantasiewelt."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Der Film wurde 2017 erstmals veröffentlicht.",
       "context": "2017 erschien Bakers Motelgeschichte, zwei Jahre nach Tangerine von 2015. Beide Filme folgen Menschen in prekären Lebenslagen; der Wechsel von Los Angeles zu den Motels nahe Disney World gibt dem neuen Film einen eigenen Alltag.",
-      "anchor": "Zwei Jahre nach Tangerine von 2015 folgte 2017 ein weiterer Blick Bakers auf prekären US-Alltag.",
       "interest": "Zwei Jahre nach Tangerine von 2015 folgte 2017 ein weiterer Blick Bakers auf prekären US-Alltag.",
       "sources": [
         "zeitanker",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zwei Jahre nach Tangerine von 2015 folgte 2017 ein weiterer Blick Bakers auf prekären US-Alltag."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Regie: Sean Baker.",
       "context": "Baker schrieb mit Chris Bergoch. Dessen Beobachtungen von Kindern auf Motelparkplätzen trugen zur Geschichte bei; der Film hält kindliches Spielen und die wirtschaftliche Lage der Erwachsenen zugleich im Blick.",
-      "anchor": "Baker schrieb mit Chris Bergoch.",
       "interest": "Baker schrieb mit Chris Bergoch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Baker schrieb mit Chris Bergoch."
     }
   ]
 }

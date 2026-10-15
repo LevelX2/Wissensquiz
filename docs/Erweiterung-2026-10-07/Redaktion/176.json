@@ -34,12 +34,12 @@
       ],
       "short": "Die Filmgeschichte verortet Biggies frühes Leben in Brooklyn.",
       "context": "Die Filmgeschichte verortet Biggies frühes Leben in Brooklyn. Alltag, Freundschaften und die ersten musikalischen Schritte entstehen in diesem Umfeld. Der spätere Erfolg hebt diese Herkunft nicht auf; die Handlung kehrt immer wieder zu persönlichen Bindungen zurück. Der Stadtteil ist damit mehr als eine Ortsangabe, sondern der Ausgangsraum der erzählten sozialen Beziehungen.",
-      "anchor": "Biggies Weg beginnt in Brooklyn.",
       "interest": "Die Herkunft der zentralen Figur zuordnen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Biggies Weg beginnt in Brooklyn."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Puffy erkennt Biggies Möglichkeiten und fördert seine Aufnahme- und Plattenkarriere.",
       "context": "Puffy erkennt Biggies Möglichkeiten und fördert seine Aufnahme- und Plattenkarriere. Derek Luke stellt diese Filmfigur dar. Die Beziehung verbindet geschäftlichen Aufbau und persönliche Loyalität. Als frühere Möglichkeiten scheitern, wird der neue Vertrag bei Bad Boy Records wichtig. Biggies Weg erhält dadurch eine institutionelle Grundlage, während private Konflikte und Rivalitäten weiterhin bestehen bleiben.",
-      "anchor": "Puffy fördert Biggies Weg zu Bad Boy Records.",
       "interest": "Die zentrale Förderbeziehung erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Puffy fördert Biggies Weg zu Bad Boy Records."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "D-Roc übernimmt bei der Festnahme die Schuld, damit Biggie seine musikalische Chance verfolgen kann.",
       "context": "D-Roc übernimmt bei der Festnahme die Schuld, damit Biggie seine musikalische Chance verfolgen kann. Die Entscheidung verschafft dem Freund Freiheit auf Kosten des eigenen Weges. Ihre spätere Begegnung erhält dadurch einen Hintergrund von Opfer und Loyalität. Der Film zeigt den Erfolg nicht als reine individuelle Leistung, sondern auch als Ergebnis einer folgenreichen Entscheidung im Freundeskreis.",
-      "anchor": "D-Roc trägt die Schuld, damit Biggie seine Chance nutzen kann.",
       "interest": "Den Preis einer konkreten Freundesloyalität verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "D-Roc trägt die Schuld, damit Biggie seine Chance nutzen kann."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Nach den Schüssen in den Quad Studios vermutet Tupac eine Beteiligung von Biggie und dessen Umfeld.",
       "context": "Nach den Schüssen in den Quad Studios vermutet Tupac eine Beteiligung von Biggie und dessen Umfeld. Der Film zeigt, wie aus einer früheren Freundschaft Misstrauen und öffentliche Feindschaft entstehen. Die Ursache ist hier Tupacs Deutung des Überfalls. Sie darf nicht mit einer im Film gerichtsfest nachgewiesenen Täterschaft gleichgesetzt werden.",
-      "anchor": "Tupac deutet den Überfall als Falle aus Biggies Umfeld.",
       "interest": "Eine Figurenüberzeugung von bewiesener Täterschaft unterscheiden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Tupac deutet den Überfall als Falle aus Biggies Umfeld."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Tupac liest den Titel und Inhalt als gegen ihn gerichtete Provokation.",
       "context": "Tupac liest den Titel und Inhalt als gegen ihn gerichtete Provokation. Biggie und Puffy erklären dagegen, die Aufnahme habe schon vor dem Überfall bestanden. Der Film zeigt somit einen Konflikt um Deutung und zeitlichen Zusammenhang. Die Veröffentlichung verschärft eine Feindschaft, obwohl die Beteiligten gerade über die Bedeutung des Songs unterschiedliche Geschichten erzählen.",
-      "anchor": "Ein älterer Song wird als aktuelle Provokation verstanden.",
       "interest": "Die Eskalation durch unterschiedliche Songdeutungen verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein älterer Song wird als aktuelle Provokation verstanden."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Die Fans bewegen sich beim Abschied zu „Hypnotize“.",
       "context": "Die Fans bewegen sich beim Abschied zu „Hypnotize“. Das musikalische Schlussmoment steht neben Trauer und familiärem Verlust. Es führt die Erinnerung an den Rapper zu seinem Publikum zurück: Die Songs bleiben präsent, obwohl die erzählte Laufbahn endet. Der Film stellt damit den gewaltsamen Tod neben eine öffentliche Bindung, die durch die Musik weitergetragen wird.",
-      "anchor": "„Hypnotize“ verbindet den Abschied mit Biggies Publikum.",
       "interest": "Eine konkrete musikalische Schlussentscheidung erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "„Hypnotize“ verbindet den Abschied mit Biggies Publikum."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "US-Erstveröffentlichung am 16. Januar 2009.",
       "context": "Christopher Wallace wurde 1997 ermordet. Die Biografie erschien 2009, zwölf Jahre später. Sein Tod ist sowohl ein historischer Ausgangspunkt für die Rückschau als auch das Ende der erzählten Laufbahn. Der Abstand verbindet den realen Verlust mit einer späteren gespielten Rekonstruktion, an der unter anderem seine Mutter als Produzentin beteiligt war.",
-      "anchor": "1997 Wallaces Tod, 2009 die Filmbiografie: zwölf Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1997 Wallaces Tod, 2009 die Filmbiografie: zwölf Jahre später."
     },
     {
       "code": "D",
@@ -203,13 +203,13 @@
       ],
       "short": "George Tillman Jr.",
       "context": "George Tillman Jr. inszenierte nach dem Drehbuch von Reggie Rock Bythewood und Cheo Hodari Coker. Jamal Woolard verkörpert den erwachsenen Wallace; dessen tatsächlicher Sohn spielt die junge Filmfigur. Auch Mutter Voletta Wallace wirkte als Produzentin mit. Die Produktion verbindet damit professionelle Dramatisierung und Beiträge aus dem familiären Umfeld des porträtierten Musikers.",
-      "anchor": "Tillman verbindet Woolards Hauptrolle mit Beiträgen aus Wallaces Familie.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Tillman verbindet Woolards Hauptrolle mit Beiträgen aus Wallaces Familie."
     }
   ]
 }

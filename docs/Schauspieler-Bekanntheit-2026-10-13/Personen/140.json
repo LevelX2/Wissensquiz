@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Sugawara spricht Kamaji.",
       "context": "Die vielarmige Figur arbeitet im Heizraum des Badehauses. Die tiefe Stimme gehört damit zu einem Helfer Chihiros in einer besonders geschäftigen Arbeitswelt.",
-      "anchor": "Sugawaras Stimme gehört dem Kesselheizer Kamaji.",
       "interest": "Die Rolle erweitert sein Bild über die Realfilme hinaus.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.waltdisneystudios.jp/studio/ghibli/0252"
-      ]
+      ],
+      "objective": "Sugawaras Stimme gehört dem Kesselheizer Kamaji."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Momojiro fährt einen reich dekorierten Lastwagen.",
       "context": "Die Filme verbinden Fahrten durch Japan mit Freundschaft, Konkurrenz und Liebesgeschichten. Die Fahrzeuge werden dabei zu einem besonders sichtbaren Teil der Figurenwelt.",
-      "anchor": "Momojiros Lastwagen trägt seine Persönlichkeit nach außen.",
       "interest": "Das Fahrzeug erklärt eine andere, komische Seite des Gangsterfilmstars.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       "extraSources": [
         "https://shop.toei-video.co.jp/products/dutd02092",
         "https://www.toei-video.co.jp/catalog/bstd03710/"
-      ]
+      ],
+      "objective": "Momojiros Lastwagen trägt seine Persönlichkeit nach außen."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 3,
       "short": "Kuno ist Polizist und eng mit Gangstern verbunden.",
       "context": "Der Film verwischt die Grenze zwischen Strafverfolgung und organisierten Interessen. Kunos persönliche Beziehungen machen das amtliche Vorgehen gegen die Yakuza zu einem Loyalitätskonflikt.",
-      "anchor": "Kuno steht im Polizeidienst und im Gangstermilieu.",
       "interest": "Die berufliche Doppelbindung erklärt den zentralen Konflikt.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       "extraSources": [
         "https://s3.amazonaws.com/filmlinc/assets/uploads/2015Jul.AugCalendar-final-lowres.pdf",
         "https://en.wikipedia.org/wiki/Cops_vs._Thugs"
-      ]
+      ],
+      "objective": "Kuno steht im Polizeidienst und im Gangstermilieu."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 1,
       "short": "Der Gegner ist ein Lehrer mit einer selbst gebauten Atombombe.",
       "context": "Die Polizei kennt den Erpresser zunächst nur durch seine verfremdete Stimme. Sugawaras Inspektor ist dem Mann zuvor schon unter ganz anderen Umständen begegnet.",
-      "anchor": "Ein scheinbar gewöhnlicher Lehrer wird zum nuklearen Erpresser.",
       "interest": "Die Konstellation erklärt die ungewöhnliche Mischung aus Thriller und Satire.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Man_Who_Stole_the_Sun",
         "https://s3.amazonaws.com/filmlinc/assets/uploads/2015Jul.AugCalendar-final-lowres.pdf"
-      ]
+      ],
+      "objective": "Ein scheinbar gewöhnlicher Lehrer wird zum nuklearen Erpresser."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 2,
       "short": "Okitas Unabhängigkeitsdrang kollidiert mit den hierarchischen Gangsterorganisationen.",
       "context": "Nach der Haftentlassung findet er eine veränderte Unterwelt vor. Seine Lust am unmittelbaren Kampf passt zunehmend schlecht zu Geschäften, Bündnissen und den Forderungen mächtiger Organisationen.",
-      "anchor": "Okita kann sich als Geschäftsmann im Gangstersystem nicht einrichten.",
       "interest": "Die Entwicklung verbindet den Einzelgänger mit dem Wandel organisierter Kriminalität.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Street_Mobster"
-      ]
+      ],
+      "objective": "Okita kann sich als Geschäftsmann im Gangstersystem nicht einrichten."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 1,
       "short": "Er verlangt einen Auftritt der Rolling Stones.",
       "context": "Die Forderung verbindet eine extreme technische Bedrohung mit einem Wunsch der Popkultur. Der Film macht gerade aus diesem Missverhältnis einen Teil seiner Satire.",
-      "anchor": "Die Atombombe soll die Rolling Stones nach Japan holen.",
       "interest": "Die konkrete Forderung erklärt den eigenwilligen Ton des Films.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://s3.amazonaws.com/filmlinc/assets/uploads/2015Jul.AugCalendar-final-lowres.pdf"
-      ]
+      ],
+      "objective": "Die Atombombe soll die Rolling Stones nach Japan holen."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 2,
       "short": "Der Film nutzt eine an Nachrichtenbilder erinnernde Unmittelbarkeit.",
       "context": "Die Geschichte führt von der Nachkriegsruine zur organisierten Macht. Sugawaras Hirono steht in einer Welt, in der Loyalitätsrituale keine verlässliche moralische Ordnung schaffen.",
-      "anchor": "Die Gangstergeschichte wirkt wie eine gewaltsame Nachkriegschronik.",
       "interest": "Die Gestaltung erklärt, weshalb der Film ein früheres Bild ehrenhafter Gangster erschütterte.",
       "feedback": [
         "",
@@ -196,7 +195,8 @@
       ],
       "extraSources": [
         "https://www.filmlinc.org/films/battles-without-honor-and-humanity/"
-      ]
+      ],
+      "objective": "Die Gangstergeschichte wirkt wie eine gewaltsame Nachkriegschronik."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 0,
       "short": "Sugawara arbeitete zunächst als Model.",
       "context": "Er kam erst nach längerer Arbeit in unterschiedlichen Rollen zu seinem bekannten Gangsterbild. Der spätere raue Filmauftritt war damit das Ergebnis einer beruflichen Entwicklung.",
-      "anchor": "Vor dem rauen Leinwandimage stand Arbeit als Model.",
       "interest": "Die Station macht die Entstehung eines später scheinbar selbstverständlichen Starbildes sichtbar.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       "films": [],
       "extraSources": [
         "https://filmmovement.com/userFiles/uploads/films/violent-streets/ViolentStreets_press-kit.pdf"
-      ]
+      ],
+      "objective": "Vor dem rauen Leinwandimage stand Arbeit als Model."
     }
   ]
 }

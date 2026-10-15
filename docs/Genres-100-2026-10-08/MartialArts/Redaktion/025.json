@@ -31,12 +31,12 @@
       ],
       "short": "Chan Foh To ist Automechaniker.",
       "context": "Chan Foh To (Jackie Chan) arbeitet mit seiner Familie in einer Werkstatt und kennt sich mit schnellen Autos aus. Diese Fähigkeiten bringen ihn zugleich in Kontakt mit der Polizei, die gegen illegale Straßenrennen vorgeht. Der Film entwickelt seinen Konflikt somit aus einer gewöhnlichen Arbeit und einem besonderen Können. Der Mechaniker gerät nicht als hauptberuflicher Ermittler in die Auseinandersetzung mit dem kriminellen Fahrer.",
-      "anchor": "Der Werkstattberuf wird zur Grundlage einer gefährlichen Rennaufgabe.",
       "interest": "Die zivile Ausgangsrolle ist unabhängig von der späteren Erpressung.",
       "sources": [
         "handlung",
         "studio"
-      ]
+      ],
+      "objective": "Der Werkstattberuf wird zur Grundlage einer gefährlichen Rennaufgabe."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Cougar entführt Chan Foh Tos jüngere Schwestern.",
       "context": "Cougar (Thorsten Nickel) reagiert auf seine Festnahme mit Gewalt gegen Chan Foh Tos (Jackie Chan) Familie. Er verwüstet die Werkstatt, verletzt den Vater und entführt die beiden jüngeren Schwestern. Dadurch wird aus dem Konflikt mit einem gefährlichen Fahrer eine persönliche Erpressung. Chan muss sich auf dessen Forderung einlassen, während die Polizei versucht, die Gefangenen zu finden und den Täter erneut festzunehmen.",
-      "anchor": "Die Geiseln machen das Rennen zu einer Familienangelegenheit.",
       "interest": "Das persönliche Druckmittel erklärt, warum der Mechaniker antreten muss.",
       "sources": [
         "handlung",
         "studio"
-      ]
+      ],
+      "objective": "Die Geiseln machen das Rennen zu einer Familienangelegenheit."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Das geforderte Rennen findet in Japan statt.",
       "context": "Cougar (Thorsten Nickel) verlangt von Chan Foh To (Jackie Chan), sich mit ihm bei einem Rennen in Japan zu messen. Die Reise führt den Mechaniker aus der Hongkonger Ausgangssituation in eine neue Umgebung, während das Leben seiner Schwestern weiterhin bedroht ist. Für die Antwort zählt der Ort innerhalb der Geschichte; einzelne reale Drehorte der Produktion sind davon zu unterscheiden.",
-      "anchor": "Die Erpressung führt Chan von Hongkong zum Rennen nach Japan.",
       "interest": "Der Handlungsort wird von den realen Drehorten getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Erpressung führt Chan von Hongkong zum Rennen nach Japan."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Ein weißer Mitsubishi GTO ersetzt den zerstörten Rennwagen.",
       "context": "Chan Foh Tos (Jackie Chan) vorbereiteter Wagen wird bei einer Kollision zerstört, bevor er den entscheidenden Wettbewerb bewältigen kann. Miss Kenya (Marie Eguro), die Tochter eines Mitsubishi-Managers, hilft ihm mit neuen weißen GTO-Rennwagen und Reifen. Diese Unterstützung verhindert, dass der technische Rückschlag das Rennen vorzeitig beendet. Der spätere Sieg braucht deshalb neben seinem Fahrkönnen auch konkrete Hilfe außerhalb seiner eigenen Werkstatt.",
-      "anchor": "Ein weißer GTO ermöglicht nach dem Unfall einen neuen Start.",
       "interest": "Das Fahrzeugdetail ist unabhängig von Zielort und Erpressungsmotiv.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein weißer GTO ermöglicht nach dem Unfall einen neuen Start."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Chan setzt rückwärts an und dreht den Wagen vor dem Ziel.",
       "context": "Chan Foh To (Jackie Chan) und Cougar (Thorsten Nickel) geraten kurz vor Schluss nebeneinander in den Kies. Während beide den Weg zurück suchen, beschleunigt Chan rückwärts und erreicht den Zieleinlauf mit einer Drehung zurück in Vorwärtsrichtung. Sein Wagen berührt die Linie zuerst. Die ungewöhnliche Bewegung verbindet den technischen Rückschlag mit der konkreten Lösung des Rennens und macht den Sieg zu einer Frage des Improvisierens.",
-      "anchor": "Die Rückwärtsbewegung wird durch die Drehung zum entscheidenden Zieleinlauf.",
       "interest": "Die konkrete Fahrbewegung ist ein eigenständiges Detail des Rennfinales.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Rückwärtsbewegung wird durch die Drehung zum entscheidenden Zieleinlauf."
     },
     {
       "code": "S2",
@@ -148,11 +148,11 @@
       ],
       "short": "Chan rettet Cougar aus dem brennenden Wrack.",
       "context": "Nach dem verlorenen Rennen versucht Cougar (Thorsten Nickel), der Polizei zu entkommen. Chan Foh To (Jackie Chan) verfolgt ihn, bis dessen Wagen schwer verunglückt und brennt. Der Mechaniker zieht den Gegner aus dem Wrack und überlässt ihn den Beamten. Der Schluss verbindet damit die persönliche Auseinandersetzung mit einer Festnahme: Der besiegte Täter wird gerettet und muss sich anschließend der Polizei stellen.",
-      "anchor": "Der Mechaniker rettet den besiegten Täter für die Festnahme.",
       "interest": "Das Verhalten nach dem Rennen unterscheidet sich von dessen Siegmechanik.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Mechaniker rettet den besiegten Täter für die Festnahme."
     },
     {
       "code": "Y",
@@ -171,12 +171,12 @@
       ],
       "short": "1995 Thunderbolt, 2006 Rob-B-Hood: elf Jahre.",
       "context": "Thunderbolt erschien 1995 mit Jackie Chan als Mechaniker und Rennfahrer. Elf Jahre später folgte 2006 Rob-B-Hood, in dem er einen Einbrecher spielt, der ein entführtes Baby schützen muss. Miramax und das Hong Kong Film Archive bestätigen die beiden Werkjahre. Der Vergleich verbindet konkrete Stationen desselben Hauptdarstellers, deren Geschichten sich über Autos, Gefahr und Verantwortung entwickeln, ohne einen gemeinsamen Figurenzyklus zu bilden.",
-      "anchor": "1995 und 2006 trennen Rennfahrer und Einbrecherrolle um elf Jahre.",
       "interest": "Der spätere Film gibt dem Jahr einen konkreten Bezug im Werk des Hauptdarstellers.",
       "sources": [
         "studio",
         "vergleich"
-      ]
+      ],
+      "objective": "1995 und 2006 trennen Rennfahrer und Einbrecherrolle um elf Jahre."
     },
     {
       "code": "D",
@@ -195,12 +195,12 @@
       ],
       "short": "Gordon Chan führte die Hauptregie.",
       "context": "Gordon Chan inszeniert die Rennsportgeschichte um Chan Foh To (Jackie Chan) und Cougar (Thorsten Nickel). Jackie Chan und Sammo Hung wirken an der Actiongestaltung mit, während Miramax Gordon Chan als Regisseur nennt. Die Verfolgungen und Kämpfe sind dadurch in einen gesamten Film mit Familienkonflikt und Wettbewerb eingebunden. Der Hauptregiecredit bleibt von den spezialisierten Aufgaben an seinen Actionszenen getrennt.",
-      "anchor": "Gordon Chans Hauptregie bleibt von Jackie Chans und Sammo Hungs Actionarbeit getrennt.",
       "interest": "Die Credits trennen Gesamtinszenierung und Kampfgestaltung.",
       "sources": [
         "studio",
         "handlung"
-      ]
+      ],
+      "objective": "Gordon Chans Hauptregie bleibt von Jackie Chans und Sammo Hungs Actionarbeit getrennt."
     }
   ],
   "director_note": "Gordon Chan ist Hauptregisseur. Jackie Chan und Sammo Hung werden im Handlungscache als Action Directors genannt; deren Actionarbeit begründet hier keinen weiteren Hauptregiecredit."

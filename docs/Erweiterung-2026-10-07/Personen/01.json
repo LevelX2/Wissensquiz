@@ -15,7 +15,6 @@
       ],
       "context": "Andy Dufresne ist vor seiner Verurteilung Banker. Tim Robbins spielt ihn als stillen Beobachter, der sich im Gefängnis mit Red (Morgan Freeman) anfreundet. Seine Finanzkenntnisse werden für die Aufseher und den korrupten Direktor nützlich. Dadurch gewinnt er Handlungsspielraum, obwohl seine Haft scheinbar jeden eigenen Plan unmöglich macht.",
       "short": "Andy Dufresne ist vor seiner Verurteilung Banker.",
-      "anchor": "Andys Finanzwissen verschafft ihm im Gefängnis Spielraum.",
       "interest": "Andys früherer Beruf erklärt, wie fachliche Kompetenz unter Haftbedingungen Macht und Abhängigkeit schafft.",
       "feedback": [
         "Andy Dufresne ist vor seiner Verurteilung Banker.",
@@ -29,7 +28,8 @@
       "extraSources": [],
       "knowledge_id": "K-DRA-01-02",
       "variant_of": "DRA-L-002",
-      "knowledge_note": "Derselbe Beruf von Andy Dufresne im selben Film."
+      "knowledge_note": "Derselbe Beruf von Andy Dufresne im selben Film.",
+      "objective": "Andys Finanzwissen verschafft ihm im Gefängnis Spielraum."
     },
     {
       "code": "L2",
@@ -42,7 +42,6 @@
       ],
       "context": "Nuke LaLoosh ist ein talentierter, aber unerfahrener Baseball-Pitcher. Tim Robbins bildet mit Kevin Costners erfahrenem Catcher Crash Davis ein ungleiches Team. Annie Savoy (Susan Sarandon) interessiert sich ebenfalls für Nukes Entwicklung. Sportliche Begabung genügt hier nicht: Erst Disziplin und die Begegnung mit erfahreneren Menschen geben seinem Können eine Richtung.",
       "short": "Nuke LaLoosh ist ein talentierter, aber unerfahrener Baseball-Pitcher.",
-      "anchor": "Nukes Wurfarm braucht Erfahrung und Disziplin.",
       "interest": "Die Sportrolle verbindet körperliches Talent mit Lernen durch erfahrene Mitspieler.",
       "feedback": [
         "Nuke LaLoosh ist ein talentierter, aber unerfahrener Baseball-Pitcher.",
@@ -53,7 +52,8 @@
       "films": [
         "Bull Durham|1988"
       ],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Nukes Wurfarm braucht Erfahrung und Disziplin."
     },
     {
       "code": "M1",
@@ -66,7 +66,6 @@
       ],
       "context": "Griffin Mill ist ein Hollywood-Studiomanager, der über eingereichte Stoffe entscheidet. Tim Robbins spielt seine höfliche Oberfläche und seine zunehmende Panik zugleich. Robert Altman lässt Geschäftstreffen, Stars und Filmideen durch die Handlung ziehen. Die Satire richtet sich damit besonders auf eine Industrie, in der kreative Geschichten nach ihrem kommerziellen Nutzen bewertet werden.",
       "short": "Griffin Mill ist ein Hollywood-Studiomanager, der über eingereichte Stoffe entscheidet.",
-      "anchor": "Griffin Mill verwaltet Geschichten und Macht.",
       "interest": "Die Figur macht sichtbar, wer in Hollywood Geschichten auswählt und ihren Wert bestimmt.",
       "feedback": [
         "Griffin Mill ist ein Hollywood-Studiomanager, der über eingereichte Stoffe entscheidet.",
@@ -77,7 +76,8 @@
       "films": [
         "The Player|1992"
       ],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Griffin Mill verwaltet Geschichten und Macht."
     },
     {
       "code": "M2",
@@ -90,7 +90,6 @@
       ],
       "context": "Tim Robbins schreibt und inszeniert „Bob Roberts“ und spielt den Titelhelden. Der Film erscheint wie eine Dokumentation über den Wahlkampf eines konservativen Folk-Sängers. Diese Form nutzt Robbins, um politische Selbstdarstellung und Medienbilder vorzuführen. Schauspiel und Regie greifen ineinander: Die erfundene Kandidatenfigur muss innerhalb der scheinbar beobachtenden Filmform glaubwürdig auftreten.",
       "short": "Tim Robbins schreibt und inszeniert „Bob Roberts“ und spielt den Titelhelden.",
-      "anchor": "Robbins gestaltet Bob Roberts vor und hinter der Kamera.",
       "interest": "Die drei Funktionen erklären Robbins’ Kontrolle über die satirische Figur und ihre scheinbar dokumentarische Darstellung.",
       "feedback": [
         "Tim Robbins schreibt und inszeniert „Bob Roberts“ und spielt den Titelhelden.",
@@ -101,7 +100,8 @@
       "films": [
         "Bob Roberts|1992"
       ],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Robbins gestaltet Bob Roberts vor und hinter der Kamera."
     },
     {
       "code": "S1",
@@ -114,7 +114,6 @@
       ],
       "context": "Tim Robbins wurde für die Regie von „Dead Man Walking“ nominiert. Die zentralen Rollen spielen Susan Sarandon als Ordensschwester Helen Prejean und Sean Penn als zum Tode verurteilter Matthew Poncelet. Robbins gestaltet ihre Begegnungen als moralischen Konflikt zwischen Verantwortung, Schuld und Mitgefühl. Die Nominierung betrifft somit seine Arbeit hinter der Kamera.",
       "short": "Tim Robbins wurde für die Regie von „Dead Man Walking“ nominiert.",
-      "anchor": "Bei Dead Man Walking führt Robbins Regie; Penn und Sarandon spielen.",
       "interest": "Die Nominierung trennt Robbins’ Regieleistung von den Darstellungen Penns und Sarandons.",
       "feedback": [
         "Tim Robbins wurde für die Regie von „Dead Man Walking“ nominiert.",
@@ -125,7 +124,8 @@
       "films": [
         "Dead Man Walking|1995"
       ],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Bei Dead Man Walking führt Robbins Regie; Penn und Sarandon spielen."
     },
     {
       "code": "S2",
@@ -138,7 +138,6 @@
       ],
       "context": "Tim Robbins gehört zu den Gründern von The Actors’ Gang. Die Gruppe entstand 1981 in Los Angeles und widmete sich experimenteller Theaterarbeit. Robbins’ Laufbahn umfasst damit eine dauerhafte Bühnenpraxis neben seinen Kinorollen. Das Ensemble verbindet Schauspiel, Inszenierung und gesellschaftliche Themen; es ist keine nur für einen einzelnen Film zusammengestellte Produktionsgruppe.",
       "short": "Tim Robbins gehört zu den Gründern von The Actors’ Gang.",
-      "anchor": "The Actors’ Gang bildet Robbins’ Theaterbasis.",
       "interest": "Das Ensemble zeigt, dass Robbins’ Theaterarbeit neben den Filmrollen dauerhaft fortbesteht.",
       "feedback": [
         "Tim Robbins gehört zu den Gründern von The Actors’ Gang.",
@@ -147,7 +146,8 @@
         "Das AFI Conservatory wurde nicht von dieser Schauspielgruppe gegründet."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "The Actors’ Gang bildet Robbins’ Theaterbasis."
     },
     {
       "code": "E1",
@@ -160,7 +160,6 @@
       ],
       "context": "Tim Robbins inszenierte George Orwells „1984“ mit The Actors’ Gang. Die Bühnenbearbeitung stammte von Michael Gene Sullivan. Robbins übertrug damit die Beschäftigung mit Macht und öffentlicher Kontrolle aus seinem Filmwerk auf das Theater. Entscheidend ist die Arbeitsteilung: Er führte Regie bei einer vorhandenen Dramatisierung und war nicht der Verfasser von Orwells Roman.",
       "short": "Tim Robbins inszenierte George Orwells „1984“ mit The Actors’ Gang.",
-      "anchor": "Orwells Überwachungsstaat wurde unter Robbins zur Theaterarbeit.",
       "interest": "Die Bühnenadaption verbindet Literatur, Theaterregie und Robbins’ Beschäftigung mit politischer Kontrolle.",
       "feedback": [
         "Tim Robbins inszenierte George Orwells „1984“ mit The Actors’ Gang.",
@@ -169,7 +168,8 @@
         "Kafkas Roman ist nicht die hier inszenierte Vorlage."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Orwells Überwachungsstaat wurde unter Robbins zur Theaterarbeit."
     },
     {
       "code": "E2",
@@ -182,7 +182,6 @@
       ],
       "context": "Tim Robbins veröffentlichte 2010 ein Album mit der Rogues Gallery Band. Musik gehörte schon durch seinen Vater Gil Robbins, ein Mitglied der Folkgruppe The Highwaymen, zu seinem Umfeld. Nach „Bob Roberts“ hatte er ein früheres Albumangebot zunächst ausgeschlagen. Die spätere Veröffentlichung zeigt eine eigenständige musikalische Arbeit neben Theater, Schauspiel und Regie.",
       "short": "Tim Robbins veröffentlichte 2010 ein Album mit der Rogues Gallery Band.",
-      "anchor": "Rogues Gallery Band: Robbins’ Musik neben Film und Theater.",
       "interest": "Das Album eröffnet einen eigenständigen musikalischen Zweig seiner Arbeit und ihrer familiären Vorgeschichte.",
       "feedback": [
         "Tim Robbins veröffentlichte 2010 ein Album mit der Rogues Gallery Band.",
@@ -191,7 +190,8 @@
         "Robbins veröffentlichte sein Album nicht unter diesem Bandnamen."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Rogues Gallery Band: Robbins’ Musik neben Film und Theater."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Alicia befürchtet, dass die leiblichen Eltern ihrer Tochter Opfer der Militärdiktatur sind.",
       "context": "Die Geschichtslehrerin hatte die Adoption bislang ebenso wenig hinterfragt wie die offiziellen Darstellungen der politischen Wirklichkeit. Das Gespräch mit einer zurückgekehrten Freundin erschüttert diese Sicherheit. Die Suche nach Gabis Herkunft wird zur Untersuchung des eigenen Lebens.",
-      "anchor": "Die Frage nach Gabis Eltern öffnet Alicias Augen für das Land.",
       "interest": "Private Gewissheiten und die Verbrechen der Diktatur werden in derselben Geschichte erschüttert.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.festival-cannes.com/en/f/la-historia-oficial/",
         "https://studsterkel.wfmt.com/programs/interview-norma-aleandro-and-oscar-kramer"
-      ]
+      ],
+      "objective": "Die Frage nach Gabis Eltern öffnet Alicias Augen für das Land."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 1,
       "short": "Norma Belvedere hat Alzheimer.",
       "context": "Ihr Mann Nino (Héctor Alterio) besucht sie täglich im Pflegeheim. Er möchte ihr den alten Wunsch einer kirchlichen Hochzeit erfüllen. Sohn Rafael (Ricardo Darín) muss sich zugleich fragen, warum er seine Mutter so lange nicht besucht hat und seinen Beruf über seine Beziehungen stellt.",
-      "anchor": "Normas Gedächtnisverlust steht neben Ninos anhaltender Liebe.",
       "interest": "Die Krankheit prägt den Familienkonflikt und die Bedeutung der späten Hochzeit.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://cinenacional.com/pelicula/el-hijo-de-la-novia"
-      ]
+      ],
+      "objective": "Normas Gedächtnisverlust steht neben Ninos anhaltender Liebe."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Florencia Sánchez Morales unterstützt Gaby als Pflegerin.",
       "context": "Die Geschichte beruht auf dem Leben der mexikanischen Schriftstellerin Gabriela Brimmer. Gaby (Rachel Levin) lebt mit einer schweren Zerebralparese und kann ihren linken Fuß gezielt einsetzen. Florencias Unterstützung gehört zu den Voraussetzungen, unter denen sie Bildung und einen eigenen Ausdruck gewinnt.",
-      "anchor": "Florencia begleitet Gabys Alltag und Entwicklung.",
       "interest": "Die Rolle macht Unterstützung zu einem zentralen Teil einer künstlerischen Lebensgeschichte.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Gaby:_A_True_Story"
-      ]
+      ],
+      "objective": "Florencia begleitet Gabys Alltag und Entwicklung."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 0,
       "short": "Beba hält an der Hausangestellten fest, obwohl sie deren Lohn nicht mehr bezahlen kann.",
       "context": "Beba lebt nach Argentiniens Wirtschaftskrise vom Verkauf von Kosmetik. Dora (Norma Argentina) arbeitet seit Jahrzehnten für sie und spart für ein eigenes Haus. Die Beschäftigung bleibt für Beba ein Zeichen ihres früheren Status; für Dora geht es um Arbeit und eine unabhängige Zukunft.",
-      "anchor": "Das frühere Statussymbol wird zur unbezahlbaren Beschäftigung.",
       "interest": "Der Streit zeigt soziale Abhängigkeit aus der Perspektive beider Frauen.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://cinenacional.com/pelicula/cama-adentro"
-      ]
+      ],
+      "objective": "Das frühere Statussymbol wird zur unbezahlbaren Beschäftigung."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 0,
       "short": "Sie spielt Maria Callas.",
       "context": "Das Stück zeigt die weitgehend vom Singen zurückgezogene Künstlerin bei einem Meisterkurs an der Juilliard School. Die Arbeit mit jungen Stimmen ruft Erinnerungen an ihre eigene Laufbahn wach. Aleandro spielt damit die Autorität einer Lehrerin und die Verletzlichkeit hinter der großen öffentlichen Figur.",
-      "anchor": "Aleandros Meisterkurs wird von Maria Callas geleitet.",
       "interest": "Eine bedeutende Theaterrolle ergänzt das Bild der international vor allem durch Filme bekannten Darstellerin.",
       "feedback": [
         "",
@@ -138,7 +137,8 @@
       "films": [],
       "extraSources": [
         "https://cdn.teatroscanal.com/wp-content/uploads/2015/02/PROGRAMACION-TC-13-14.pdf"
-      ]
+      ],
+      "objective": "Aleandros Meisterkurs wird von Maria Callas geleitet."
     },
     {
       "code": "S2",
@@ -152,7 +152,6 @@
       "correct": 1,
       "short": "Sie schrieb mit David Stivel das Drehbuch.",
       "context": "Aleandro spielte zugleich María Concepción. Damit war sie an dem Film vor und während der Dreharbeiten beteiligt. Der Credit zeigt einen frühen Bereich ihres Berufslebens, der neben der späteren Bekanntheit als Darstellerin leicht übersehen wird.",
-      "anchor": "In „Los herederos“ spielte und schrieb Aleandro.",
       "interest": "Die Frage erschließt ihre Tätigkeit als Autorin statt einer weiteren bloßen Rollenidentifikation.",
       "feedback": [
         "",
@@ -165,7 +164,8 @@
       ],
       "extraSources": [
         "https://cinenacional.com/pelicula/los-herederos"
-      ]
+      ],
+      "objective": "In „Los herederos“ spielte und schrieb Aleandro."
     },
     {
       "code": "E1",
@@ -179,7 +179,6 @@
       "correct": 2,
       "short": "Sie strich die ausdrücklichen Bezüge zu Schweden.",
       "context": "Aleandro wollte die Beziehungsgeschichte nicht auf einen bestimmten Ort festlegen. Außerdem wählte sie einen weniger feierlichen Ton, in dem Komik in die dramatischen Auseinandersetzungen hineinwirkt. Die Eingriffe dienten ihrem Zugang zum Stück als Regisseurin.",
-      "anchor": "Aleandro löste Bergmans Ehegeschichte von der schwedischen Ortsbindung.",
       "interest": "Eine konkrete Bearbeitung zeigt, wie sie einen bekannten Stoff für ihre Bühne neu erschloss.",
       "feedback": [
         "",
@@ -190,7 +189,8 @@
       "films": [],
       "extraSources": [
         "https://www.rtve.es/noticias/20151030/norma-aleandro-director-enfrentarse-a-obra-como-si-fuera-primera-vez/1241101.shtml"
-      ]
+      ],
+      "objective": "Aleandro löste Bergmans Ehegeschichte von der schwedischen Ortsbindung."
     },
     {
       "code": "E2",
@@ -204,7 +204,6 @@
       "correct": 3,
       "short": "Ihre Arbeit beruhte auf dem Austausch unterschiedlicher Spielvorschläge.",
       "context": "Aleandro verglich die Regie mit der Hilfe bei einer Geburt: Die Darsteller sollten ihre Figuren hervorbringen können. Das Gespräch während der Proben veränderte die ursprünglichen Ideen. Erfahrung erschien dabei als Grundlage gemeinsamer Arbeit mit eigenständigen Schauspielern.",
-      "anchor": "Die Rollen entstanden im Gespräch über Spielvorschläge.",
       "interest": "Ihre eigene Beschreibung macht einen konkreten Teil des Regieberufs sichtbar.",
       "feedback": [
         "",
@@ -215,7 +214,8 @@
       "films": [],
       "extraSources": [
         "https://www.rtve.es/noticias/20151030/norma-aleandro-director-enfrentarse-a-obra-como-si-fuera-primera-vez/1241101.shtml"
-      ]
+      ],
+      "objective": "Die Rollen entstanden im Gespräch über Spielvorschläge."
     }
   ]
 }

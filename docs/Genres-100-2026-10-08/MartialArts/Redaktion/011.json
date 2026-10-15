@@ -33,11 +33,11 @@
       ],
       "short": "Ein entflohener Verbrecher nimmt einen Zwilling als Geisel mit.",
       "context": "Crazy Kung (Kirk Wong) entkommt im Krankenhaus und nimmt einen der neugeborenen Brüder mit. Ma Yau (Jackie Chan) wächst mit den Eltern in Amerika auf, Bok Min (Jackie Chan) bleibt in Hongkong zurück. Beide wissen zunächst nichts voneinander. Die gewaltsame Trennung erklärt ihre verschiedenen Lebenswege und bereitet die späteren Verwechslungen vor, ohne dass ihre Fähigkeiten tatsächlich austauschbar wären.",
-      "anchor": "Die Entführung trennt die Brüder vor ihren verschiedenen Lebenswegen.",
       "interest": "Die zentrale Ausgangslage bleibt ohne Kenntnis der Nebenfiguren zugänglich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Entführung trennt die Brüder vor ihren verschiedenen Lebenswegen."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Der Musiker kehrt für einen Konzertauftritt nach Hongkong zurück.",
       "context": "Ma Yau (Jackie Chan) ist ein erfolgreicher Pianist und Dirigent geworden. Seine Reise für ein Konzert führt ihn in dieselbe Stadt wie Bok Min (Jackie Chan), der ganz andere Fähigkeiten besitzt. Der Verleihtext von 88 Films betont, dass beide in die Angelegenheiten des anderen geraten. Das berufliche Ereignis wird zum Anlass, ihre bislang getrennten Lebensgeschichten zusammenzuführen.",
-      "anchor": "Das Konzert bringt den Musiker in die Welt seines Bruders.",
       "interest": "Die Reiseursache erklärt den Beginn der Verwechslungshandlung.",
       "sources": [
         "handlung",
         "fassung"
-      ]
+      ],
+      "objective": "Das Konzert bringt den Musiker in die Welt seines Bruders."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Bok Min muss das Konzert seines Bruders dirigieren.",
       "context": "Bok Min (Jackie Chan) kann kämpfen und fahren, verfügt jedoch nicht über die musikalische Ausbildung von Ma Yau (Jackie Chan). Trotzdem landet er am Dirigentenpult. Die Szene baut ihre Komik auf dem Unterschied zwischen ähnlichem Aussehen und fehlender Fachkenntnis auf. Während der Musiker anderswo in Schwierigkeiten gerät, wird die falsche Person vor einem Publikum für den richtigen Künstler gehalten.",
-      "anchor": "Gleiches Gesicht bedeutet nicht dieselben Fähigkeiten.",
       "interest": "Die Vertauschung zeigt die konkrete Funktionsweise der Doppelrolle.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Gleiches Gesicht bedeutet nicht dieselben Fähigkeiten."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Die Gangster machen Tarzan zur Geisel für den Koffer.",
       "context": "Ma Yau (Jackie Chan) hat einen für Crazy Kung (Kirk Wong) bestimmten Koffer versehentlich mitgenommen. Die Gangster entführen Tarzan (Teddy Robin), den Freund von Bok Min (Jackie Chan), um die Rückgabe zu erzwingen. Dadurch reichen die Folgen der Verwechslung über die Brüder hinaus. Sie müssen gemeinsam handeln, weil ihre getrennten Lebenswelten durch dieselbe Geiselnahme verbunden sind.",
-      "anchor": "Ein vertauschter Koffer bringt Bok Mins Freund in Gefahr.",
       "interest": "Die Frage verknüpft einen Verwechslungsfehler mit einer konkreten Folge.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein vertauschter Koffer bringt Bok Mins Freund in Gefahr."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Crazy Kung stirbt in einem unkontrolliert fahrenden Crashtestwagen.",
       "context": "Ma Yau und Bok Min (beide Jackie Chan) stellen sich den Gangstern in einem Fahrzeugtestzentrum. Die dort vorhandene Technik wird Teil des Kampfes und der Fluchtversuche. Crazy Kung (Kirk Wong) gerät in einen Crashtestwagen, dessen Fahrt tödlich endet. Der Schauplatz liefert damit die Auflösung des Gangsterkonflikts und verbindet die Fahrzeugwelt eines Bruders mit dem gemeinsamen Handeln beider.",
-      "anchor": "Im Testzentrum wird der Crashtestwagen zur letzten Falle.",
       "interest": "Das schwere Handlungsziel nutzt den Schauplatz als Teil der Auflösung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Im Testzentrum wird der Crashtestwagen zur letzten Falle."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "88 Films führt eine 104-minütige Hongkong- und eine 89-minütige Dimension-Fassung.",
       "context": "88 Films präsentiert beide Fassungen getrennt: Die Hongkong-Version enthält kantonesische Tonmischungen, die kürzere Dimension-Version eine englische Bearbeitung. Die identischen Gesichter der Brüder entstehen weiter durch Jackie Chans Doppelrolle. Der Fassungsvergleich erklärt, warum Zuschauer unterschiedliche Laufzeiten und Rollennamen erinnern können. Eine spätere internationale Bearbeitung ist dabei keine Neuverfilmung mit anderer Besetzung und verändert das Erstjahr des Originals nicht.",
-      "anchor": "Dieselbe Doppelrolle, verschiedene Schnitt- und Sprachfassungen.",
       "interest": "Ein Verleihbeleg macht konkrete Fassungsunterschiede verständlich.",
       "sources": [
         "fassung"
-      ]
+      ],
+      "objective": "Dieselbe Doppelrolle, verschiedene Schnitt- und Sprachfassungen."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "Twin Dragons erschien 1992, sieben Jahre nach Police Story von 1985.",
       "context": "Police Story von 1985 zeigt Jackie Chan als Polizisten, Twin Dragons von 1992 dagegen in zwei unterschiedlichen Lebenswelten zugleich. Zwischen diesen Filmen liegen sieben Jahre. Die Doppelrolle erweitert die körperliche Komik um Verwechslungen, deren Folgen beide Brüder zusammenführen. Der amerikanische Kinostart von 1999 liegt wiederum sieben Jahre nach dem Hongkong-Original und gilt nicht als erste Veröffentlichung.",
-      "anchor": "Police Story 1985 → Twin Dragons 1992: sieben Jahre.",
       "interest": "Der Anker verbindet unterschiedliche Aufgaben desselben Stars.",
       "sources": [
         "handlung",
         "credits",
         "archiv"
-      ]
+      ],
+      "objective": "Police Story 1985 → Twin Dragons 1992: sieben Jahre."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "Ringo Lam und Tsui Hark führten gemeinsam Regie.",
       "context": "Der spanische ICAA-Katalog nennt Ringo Lam und Tsui Hark als Regieteam und führt den Film unter Hongkong und 1992. Jackie Chan spielt beide Brüder. Mehrere bekannte Filmemacher haben Gastauftritte, darunter John Woo und Tsui Siu-ming als Geistliche. Diese Rollen sind vom Hauptregiecredit zu trennen; ihre Anwesenheit vor der Kamera erweitert das ausgewiesene Regieteam nicht.",
-      "anchor": "Twin Dragons: Ringo Lam und Tsui Hark führen gemeinsam Regie.",
       "interest": "Der Teamcredit vermeidet eine Verwechslung mit den vielen Cameos.",
       "sources": [
         "credits",
         "handlung"
-      ]
+      ],
+      "objective": "Twin Dragons: Ringo Lam und Tsui Hark führen gemeinsam Regie."
     }
   ]
 }

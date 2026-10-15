@@ -37,12 +37,12 @@
       ],
       "short": "Danny Roman ist ein Spezialist für Geiselverhandlungen.",
       "context": "Danny Roman (Samuel L. Jackson) kennt die Abläufe einer polizeilichen Geisellage von innen. Als er selbst unter Mord- und Korruptionsverdacht gerät, verwendet er dieses Wissen gegen den eigenen Apparat. Der Film kehrt seine berufliche Stellung um: Aus dem Menschen, der die Lage beruhigen soll, wird derjenige, der sie kontrolliert, um gehört zu werden.",
-      "anchor": "Der Geiselspezialist benutzt das eigene Einsatzwissen als Beschuldigter.",
       "interest": "Der Geiselspezialist benutzt das eigene Einsatzwissen als Beschuldigter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Geiselspezialist benutzt das eigene Einsatzwissen als Beschuldigter."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Danny sucht mit Sabian einen fachkundigen Gesprächspartner außerhalb seines Teams.",
       "context": "Danny Roman (Samuel L. Jackson) hält Teile seines eigenen Umfelds für an der Verschwörung beteiligt. Chris Sabian (Kevin Spacey) kommt aus einem anderen Bezirk und setzt Verhandlung vor den schnellen Zugriff. Danny kann ihm deshalb eine andere Möglichkeit zur Prüfung der Lage zutrauen. Vertrauen beginnt hier nicht mit Freundschaft, sondern mit nachvollziehbarem Abstand und beruflicher Haltung.",
-      "anchor": "Sabian bringt Können und Abstand zur verdächtigten Einheit.",
       "interest": "Sabian bringt Können und Abstand zur verdächtigten Einheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sabian bringt Können und Abstand zur verdächtigten Einheit."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der Betrug betrifft den Unterstützungsfonds für dienstunfähige Polizisten.",
       "context": "Nate Roenick warnt Danny Roman (Samuel L. Jackson) vor Geldmissbrauch innerhalb der Polizei. Nach Nates Tod belastete Belege erscheinen gegen Danny. Die Geisellage dient deshalb auch der Suche nach einem finanziellen Netzwerk. Der Film verknüpft Mordaufklärung mit der Frage, wer von gefälschten Ansprüchen profitiert und wer die Prüfung dieser Vorgänge kontrolliert.",
-      "anchor": "Hinter dem Mord liegt ein betrogener Polizeifonds.",
       "interest": "Hinter dem Mord liegt ein betrogener Polizeifonds.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Hinter dem Mord liegt ein betrogener Polizeifonds."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Danny täuscht Scotts Tod vor.",
       "context": "Danny Roman (Samuel L. Jackson) braucht nach dem Zugriff neue Kontrolle über die Außenwirkung der Lage. Er lässt die Gegenseite glauben, Scott sei erschossen worden. Später wird deutlich, dass der Polizist unverletzt geblieben ist. Der Film unterscheidet damit, was die Einsatzkräfte aus der Ferne annehmen, von dem, was im Raum tatsächlich geschieht.",
-      "anchor": "Die behauptete Erschießung ist ein Verhandlungsmanöver.",
       "interest": "Die behauptete Erschießung ist ein Verhandlungsmanöver.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die behauptete Erschießung ist ein Verhandlungsmanöver."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Sabian täuscht Bereitschaft zur bezahlten Vertuschung vor.",
       "context": "Chris Sabian (Kevin Spacey) spielt dem Verantwortlichen vor, er könnte Belege gegen einen Geldanteil beseitigen. Danny Roman (Samuel L. Jackson) ermöglicht, dass die Antwort nach außen übertragen wird. Die Lösung nutzt somit erneut Verhandlung und Informationskontrolle. Der Gegner verrät sich, weil er den angebotenen Vorteil für echt hält und entsprechend offen spricht.",
-      "anchor": "Sabians gespielte Käuflichkeit macht die echte Korruption hörbar.",
       "interest": "Sabians gespielte Käuflichkeit macht die echte Korruption hörbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sabians gespielte Käuflichkeit macht die echte Korruption hörbar."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die Geisellage und die Beweissuche besitzen verschiedene Innen- und Außenansichten.",
       "context": "Danny Roman (Samuel L. Jackson) wirkt von außen wie ein bewaffneter Täter. Innerhalb des Gebäudes sucht er zugleich nach Belegen und widersprüchlichen Aussagen. Chris Sabian (Kevin Spacey) muss zwischen beiden Sichtweisen vermitteln. Der Film erzeugt Spannung damit nicht allein durch drohende Schüsse, sondern durch die Frage, welche Deutung genug überprüfbare Informationen besitzt.",
-      "anchor": "Eine Lage, zwei Deutungen und ungleich verteiltes Wissen.",
       "interest": "Eine Lage, zwei Deutungen und ungleich verteiltes Wissen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine Lage, zwei Deutungen und ungleich verteiltes Wissen."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film erschien 1998.",
       "context": "Samuel L. Jackson war zuvor in mehreren sehr bekannten neunziger-Jahre-Filmen sichtbar geworden. Hier steht er einem ebenso erfahrenen zweiten Hauptdarsteller in einer langen Verhandlung gegenüber. Das Veröffentlichungsjahr gehört ans Ende dieser Dekade. Es ist zugleich die Datierung dieser amerikanischen Fassung, nicht gleichnamiger späterer Filme aus anderen Ländern.",
-      "anchor": "1998: Jackson und Spacey im amerikanischen Verhandlungsfilm.",
       "interest": "1998: Jackson und Spacey im amerikanischen Verhandlungsfilm.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "1998: Jackson und Spacey im amerikanischen Verhandlungsfilm."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "F. Gary Gray inszenierte den Film.",
       "context": "F. Gary Gray hält die Spannung zwischen einem begrenzten Innenraum und der großen Einsatzmaschinerie draußen aufrecht. Samuel L. Jackson und Kevin Spacey verkörpern zwei Fachleute, deren Worte taktische Folgen haben. Die Inszenierung muss deshalb Reaktionen und Informationswechsel ebenso präzise darstellen wie den Zugriff. Gray verantwortet die Form dieses Verhandlungskonflikts.",
-      "anchor": "Gray macht Gespräch und Zugriff zu zwei Seiten derselben Spannung.",
       "interest": "Gray macht Gespräch und Zugriff zu zwei Seiten derselben Spannung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gray macht Gespräch und Zugriff zu zwei Seiten derselben Spannung."
     }
   ]
 }

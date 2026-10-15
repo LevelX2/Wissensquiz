@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Hanshirō ist ein Rōnin, ein Samurai ohne Herrn.",
       "context": "Die Auflösung vieler Clans hat deren frühere Samurai ihrer Stellung und Lebensgrundlage beraubt. Hanshirō tritt deshalb als ein Mann auf, dem die bestehende Ordnung keinen Platz mehr bietet. Vor dem wohlhabenden Iyi-Clan erzählt er von einem weiteren verarmten Samurai und zwingt dessen Vertreter, ihre angebliche Ehrenhaftigkeit an den Folgen für eine konkrete Familie messen zu lassen.",
-      "anchor": "Der herrenlose Samurai konfrontiert die gesicherte Macht des Clans.",
       "interest": "Die soziale Ausgangslage erklärt den Gegensatz zwischen den Beteiligten.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-F240-20261006-125-L2",
       "variant_of": "F240-20261006-125-L2",
-      "knowledge_note": "Vorhandene soziale Ausgangslage der nach der Clanauflösung herrenlosen Samurai."
+      "knowledge_note": "Vorhandene soziale Ausgangslage der nach der Clanauflösung herrenlosen Samurai.",
+      "objective": "Der herrenlose Samurai konfrontiert die gesicherte Macht des Clans."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 3,
       "short": "Nakadai spielt Takeda Shingen und den Dieb, der ihn als Doppelgänger ersetzen soll.",
       "context": "Die Ähnlichkeit erlaubt es dem Clan, den Tod seines Herrschers zu verbergen. Für den Dieb bedeutet die neue Aufgabe mehr als Verkleidung: Er muss sich in die Gesten, Beziehungen und Erwartungen einer fremden Stellung einfügen. Nakadais Doppelrolle lässt den Unterschied zwischen dem anerkannten Herrscher und dem Mann sichtbar werden, dessen Autorität von der gelungenen Nachahmung abhängt.",
-      "anchor": "Eine Ähnlichkeit des Gesichts soll die Autorität des Fürsten erhalten.",
       "interest": "Die Doppelrolle verbindet eine politische Täuschung mit schauspielerischer Nachahmung.",
       "feedback": [
         "",
@@ -64,7 +63,8 @@
       ],
       "knowledge_id": "K-E20261007-F-266-L1",
       "variant_of": "E20261007-F-266-L1",
-      "knowledge_note": "Der Stand des Doppelgängers als Dieb wird in der vorhandenen Frage bereits eigenständig geprüft; hier über Nakadais Doppelrolle erschlossen."
+      "knowledge_note": "Der Stand des Doppelgängers als Dieb wird in der vorhandenen Frage bereits eigenständig geprüft; hier über Nakadais Doppelrolle erschlossen.",
+      "objective": "Eine Ähnlichkeit des Gesichts soll die Autorität des Fürsten erhalten."
     },
     {
       "code": "M1",
@@ -78,7 +78,6 @@
       "correct": 0,
       "short": "Die Personalstelle im Bergbaulager verspricht Kaji eine Befreiung vom Militärdienst.",
       "context": "Kaji lehnt die militärische Ordnung ab, akzeptiert für seine eigene Sicherheit aber eine Tätigkeit in einem System chinesischer Zwangsarbeit. Er versucht, die Behandlung der Arbeiter zu verbessern, und macht sich dadurch bei Vorgesetzten und Aufsehern unbeliebt. Der Film zeigt seine moralische Verstrickung schon vor der späteren Einberufung: Gute Absichten beseitigen nicht die Verantwortung für die Institution, in der er arbeitet.",
-      "anchor": "Die Befreiung vom Militär führt Kaji zunächst in eine andere Form von Unterdrückung.",
       "interest": "Der erste berufliche Kompromiss legt die Grundspannung seiner Entwicklung offen.",
       "feedback": [
         "Die Personalstelle im Bergbaulager verspricht Kaji eine Befreiung vom Militärdienst.",
@@ -91,7 +90,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/7415-the-human-condition-the-prisoner"
-      ]
+      ],
+      "objective": "Die Befreiung vom Militär führt Kaji zunächst in eine andere Form von Unterdrückung."
     },
     {
       "code": "M2",
@@ -105,7 +105,6 @@
       "correct": 0,
       "short": "Die präparierten Koffer können beim Verbrennen rosa Rauch erzeugen.",
       "context": "Gondō (Toshirō Mifune) muss das Lösegeld aus einem fahrenden Zug werfen. Die Polizei bereitet die Koffer deshalb so vor, dass ihre spätere Beseitigung einen Hinweis geben kann. Als rosa Rauch auftaucht, führt er die Ermittlungen zum Umfeld eines Krankenhauses. In dem überwiegend schwarzweißen Film wird diese Spur auch durch ihren Farbeindruck besonders auffällig.",
-      "anchor": "Die Vernichtung der Koffer soll gerade ihre Spur sichtbar machen.",
       "interest": "Polizeiliche Vorbereitung und filmische Farbgestaltung greifen in demselben Hinweis ineinander.",
       "feedback": [
         "Die präparierten Koffer können beim Verbrennen rosa Rauch erzeugen.",
@@ -118,7 +117,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/High_and_Low_(1963_film)"
-      ]
+      ],
+      "objective": "Die Vernichtung der Koffer soll gerade ihre Spur sichtbar machen."
     },
     {
       "code": "S1",
@@ -132,7 +132,6 @@
       "correct": 1,
       "short": "Ryūnosuke erkennt in Shimadas siegreichem Kampf einen Schwertkämpfer, der ihn übertreffen könnte.",
       "context": "Ryūnosuke tötet mit einer erschreckend ruhigen Selbstverständlichkeit. Shimada setzt ihm eine andere Haltung entgegen und verbindet den Umgang mit dem Schwert mit dem Zustand der Seele. Als Ryūnosuke dessen tödliche Überlegenheit gegen eine ganze Gruppe beobachtet, wird die eigene Unbesiegbarkeit fraglich. Nakadai zeigt die Erschütterung mit einer kaum sichtbaren Veränderung seines sonst beherrschten Ausdrucks.",
-      "anchor": "Der scheinbar sichere Töter erblickt eine mögliche Grenze seiner Gewalt.",
       "interest": "Die Gegenfigur macht Ryūnosukes Haltung durch einen konkreten Vergleich erkennbar.",
       "feedback": [
         "",
@@ -145,7 +144,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/932-the-sword-of-doom"
-      ]
+      ],
+      "objective": "Der scheinbar sichere Töter erblickt eine mögliche Grenze seiner Gewalt."
     },
     {
       "code": "S2",
@@ -159,7 +159,6 @@
       "correct": 1,
       "short": "Seine Frau erklärt, dass sie seine Identität von Anfang an erkannt habe.",
       "context": "Nach einem entstellenden Unfall erhält Okuyama eine täuschend echte Gesichtsmaske. Mit ihr nähert er sich der eigenen Frau als vermeintlich fremder Mann und reagiert eifersüchtig auf ihren Erfolg. Ihre Antwort entzieht seinem Versuch die Grundlage: Die Täuschung war nicht so vollkommen, wie er glaubte. Sie weist vielmehr seinen unehrlichen Umgang mit ihrer Beziehung zurück.",
-      "anchor": "Die angeblich Getäuschte durchschaut den Mann hinter der Maske.",
       "interest": "Die Szene verschiebt die Frage von äußerer Identität zu Vertrauen und Selbsttäuschung.",
       "feedback": [
         "",
@@ -172,7 +171,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Face_of_Another_(film)"
-      ]
+      ],
+      "objective": "Die angeblich Getäuschte durchschaut den Mann hinter der Maske."
     },
     {
       "code": "E1",
@@ -186,7 +186,6 @@
       "correct": 3,
       "short": "Naruse verlangte ein zurückgenommenes, natürliches Spiel und wollte die Wirkung durch den Schnitt herstellen.",
       "context": "Nakadai kam vom Theater und war gewohnt, eine Situation aktiv auszugestalten. Naruse forderte ihn nach seiner Erinnerung auf, einfach dazustehen, statt ständig etwas zu tun. Er werde das Nötige durch den Schnitt vermitteln. Für den Darsteller bedeutete dies, seine Ausdrucksmittel an eine andere Regieauffassung anzupassen als in den kraftvolleren Rollen bei Kurosawa.",
-      "anchor": "Naruses Montage verlangt vom Darsteller auch das Vertrauen ins Nichtstun.",
       "interest": "Der Vergleich zeigt, weshalb Nakadai seine Technik je nach Regisseur veränderte.",
       "feedback": [
         "",
@@ -199,7 +198,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/8988-tatsuya-nakadai-superstar-craftsman"
-      ]
+      ],
+      "objective": "Naruses Montage verlangt vom Darsteller auch das Vertrauen ins Nichtstun."
     },
     {
       "code": "E2",
@@ -213,7 +213,6 @@
       "correct": 2,
       "short": "Hidetoras Erscheinung und die stilisierten Gesten greifen auf das Nō-Theater zurück.",
       "context": "Nakadais maskenhaft gestaltetes Gesicht begleitet den Absturz des alten Herrschers in Wahnsinn und Schutzlosigkeit. Der Criterion-Essay beschreibt sein Spiel als Balance zwischen wirklicher Emotion und Nō-artiger Geste. Die Stilisierung entfernt die Figur vom alltäglichen Realismus und fügt sie in eine Inszenierung ein, die Machtverlust und Krieg als kaum noch aufzuhaltendes Verhängnis zeigt.",
-      "anchor": "Hidetoras Gesicht wirkt wie eine lebendig gewordene Nō-Maske.",
       "interest": "Die Form des Spiels gehört zur tragischen Weltsicht des Films.",
       "feedback": [
         "",
@@ -226,7 +225,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/402-ran-apocalypse-song"
-      ]
+      ],
+      "objective": "Hidetoras Gesicht wirkt wie eine lebendig gewordene Nō-Maske."
     }
   ]
 }

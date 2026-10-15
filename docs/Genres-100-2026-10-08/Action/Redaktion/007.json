@@ -32,11 +32,11 @@
       ],
       "short": "Ryback arbeitet auf dem Schlachtschiff als Koch.",
       "context": "Casey Ryback (Steven Seagal) arbeitet an Bord der USS Missouri als Koch. Sein Streit mit Commander Krill (Gary Busey) führt dazu, dass er vor der Feier eingesperrt wird. Die Angreifer unterschätzen deshalb zunächst einen Mann, dessen aktuelle Aufgabe seine frühere Ausbildung nicht erkennen lässt. Erst während der Besetzung wird deutlich, dass Ryback als ehemaliger Navy SEAL über weitreichende Kampferfahrung verfügt.",
-      "anchor": "Ryback arbeitet auf dem Schlachtschiff als Koch.",
       "interest": "Die scheinbar unspektakuläre Bordaufgabe erklärt die anfängliche Unterschätzung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ryback arbeitet auf dem Schlachtschiff als Koch."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Die Geburtstagsfeier des Kapitäns tarnt das Eintreffen der Angreifer.",
       "context": "Captain Adams (Patrick O’Neal) soll mit einer Feier überrascht werden. Ein Hubschrauber bringt Musiker, Bewirtung und Jordan Tate (Erika Eleniak) an Bord. Hinter Band und Catering verbergen sich jedoch die Männer von Strannix (Tommy Lee Jones). Die vorbereitete Feier verschafft ihnen Zugang und verteilt sie auf dem Schiff. Ein vertrauter festlicher Ablauf wird dadurch zum Mittel, die Besatzung zu überrumpeln.",
-      "anchor": "Die Geburtstagsfeier des Kapitäns tarnt das Eintreffen der Angreifer.",
       "interest": "Der konkrete Anlass erklärt die Tarnung der Übernahme.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Geburtstagsfeier des Kapitäns tarnt das Eintreffen der Angreifer."
     },
     {
       "code": "M1",
@@ -78,11 +78,11 @@
       ],
       "short": "Die Angreifer wollen die Tomahawk-Marschflugkörper stehlen.",
       "context": "Strannix (Tommy Lee Jones) und Krill (Gary Busey) wollen die Kontrolle über das Schiff nutzen, um Tomahawk-Marschflugkörper auf ein gekapertes U-Boot zu bringen. Der Plan dient dem Weiterverkauf der Waffen und verbindet Gewinnabsicht mit Strannix’ Rache an seinem ehemaligen Arbeitgeber. Der Diebstahl ist vom späteren Raketenangriff zu unterscheiden: Erst als die Flucht scheitert, setzt Strannix verbliebene Waffen zur unmittelbaren Vergeltung ein.",
-      "anchor": "Die Angreifer wollen die Tomahawk-Marschflugkörper stehlen.",
       "interest": "Unterscheidet das ursprüngliche Diebstahlziel vom späteren Einsatz derselben Waffen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Angreifer wollen die Tomahawk-Marschflugkörper stehlen."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Krill benutzt die drohende Überflutung der Gefangenen als Köder.",
       "context": "Krill (Gary Busey) aktiviert ein System, das den Raum mit der eingeschlossenen Besatzung unter Wasser setzt. Er rechnet damit, dass Ryback (Steven Seagal) die Männer retten will, und bereitet einen Hinterhalt vor. Die Geiseln sind damit nicht nur festgehaltene Zeugen der Übernahme, sondern werden aktiv als Druckmittel eingesetzt. Ryback muss die Rettung organisieren und zugleich vermeiden, genau in die erwartete Falle zu laufen.",
-      "anchor": "Krill benutzt die drohende Überflutung der Gefangenen als Köder.",
       "interest": "Verknüpft eine Geisellage mit der taktischen Absicht des Gegenspielers.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Krill benutzt die drohende Überflutung der Gefangenen als Köder."
     },
     {
       "code": "S1",
@@ -124,11 +124,11 @@
       ],
       "short": "Die schweren Geschütze der Missouri zerstören das U-Boot.",
       "context": "Calaway (Sandy Ward) ist ein ehemaliger Geschützbediener, der das Schiff aus dem Zweiten Weltkrieg kennt. Zusammen mit Ryback (Steven Seagal) setzt er die schweren Bordgeschütze gegen das U-Boot ein. Dieses hatte zuvor den herannahenden Hubschrauber der Navy SEALs abgeschossen. Die ältere Waffentechnik wird damit zur entscheidenden Antwort auf die Fluchtmöglichkeit der Angreifer, während externe Hilfe bereits gescheitert ist.",
-      "anchor": "Die schweren Geschütze der Missouri zerstören das U-Boot.",
       "interest": "Ein Veteran und die vorhandene Schiffstechnik verändern das Kräfteverhältnis.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die schweren Geschütze der Missouri zerstören das U-Boot."
     },
     {
       "code": "S2",
@@ -147,11 +147,11 @@
       ],
       "short": "Die Startcode-Diskette ermöglicht das Stoppen des verbliebenen Tomahawks.",
       "context": "Strannix (Tommy Lee Jones) startet zwei nuklear bestückte Tomahawks gegen Honolulu. Ryback (Steven Seagal) erreicht den Kontrollraum und besiegt ihn im Messerkampf. Ein Flugzeug zerstört einen der Flugkörper; für den anderen braucht Ryback die Diskette mit den Startcodes. Der Sieg über den Täter allein beseitigt die Gefahr also noch nicht. Erst der Zugriff auf die Steuerung verhindert den verbleibenden Raketenangriff.",
-      "anchor": "Die Startcode-Diskette ermöglicht das Stoppen des verbliebenen Tomahawks.",
       "interest": "Unterscheidet das körperliche Duell von der anschließenden technischen Gefahrenabwehr.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Startcode-Diskette ermöglicht das Stoppen des verbliebenen Tomahawks."
     },
     {
       "code": "Y",
@@ -170,12 +170,12 @@
       ],
       "short": "1992 Alarmstufe: Rot, 1993 Auf der Flucht: ein Jahr Abstand.",
       "context": "Alarmstufe: Rot erschien 1992. Ein Jahr später, 1993, kam Auf der Flucht heraus: erneut eine Inszenierung von Andrew Davis mit Tommy Lee Jones in einer wichtigen Rolle. Der Wechsel vom besetzten Schlachtschiff zur Jagd auf einen entflohenen Arzt macht die beiden konkreten Projekte leicht unterscheidbar. Der Abstand von einem Jahr verankert den Seagal-Film vor dem späteren Erfolg derselben Regisseur-Darsteller-Zusammenarbeit.",
-      "anchor": "1992 Alarmstufe: Rot, 1993 Auf der Flucht: ein Jahr Abstand.",
       "interest": "Zeitanker über eine unmittelbar folgende, konkrete Zusammenarbeit.",
       "sources": [
         "archiv",
         "aufderflucht"
-      ]
+      ],
+      "objective": "1992 Alarmstufe: Rot, 1993 Auf der Flucht: ein Jahr Abstand."
     },
     {
       "code": "D",
@@ -194,12 +194,12 @@
       ],
       "short": "Andrew Davis inszenierte Alarmstufe: Rot.",
       "context": "Andrew Davis führte Regie nach einem Drehbuch von J. F. Lawton. Steven Seagal spielte die Hauptrolle und gehörte außerdem zu den Produzenten. Seine starke Präsenz im Film ist deshalb von der Regieleistung zu unterscheiden. Davis inszeniert die Kämpfe in den begrenzten Räumen des Schlachtschiffs und wechselt zwischen Rybacks (Steven Seagal) Widerstand an Bord und den Entscheidungen der militärischen Führung an Land.",
-      "anchor": "Andrew Davis inszenierte Alarmstufe: Rot.",
       "interest": "Trennt Star- und Produzentenrolle vom offiziellen Regiecredit.",
       "sources": [
         "archiv",
         "film"
-      ]
+      ],
+      "objective": "Andrew Davis inszenierte Alarmstufe: Rot."
     }
   ]
 }

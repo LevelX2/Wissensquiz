@@ -35,11 +35,11 @@
       ],
       "short": "Sie wird Kapitänin der Morning Star.",
       "context": "Morgans Vater Black Harry (Harris Yulin) stirbt nach einem Angriff. Morgan (Geena Davis) führt danach seine Männer und das Schiff. Die Schatzsuche ist damit auch ein Kampf um anerkannte Führung: Sie muss sich gegen andere Piraten und später gegen Verrat aus der eigenen Mannschaft behaupten.",
-      "anchor": "Morgan erbt Verantwortung auf der Morning Star.",
       "interest": "Der Anfang verbindet Familienverlust und Führungsaufgabe.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Morgan erbt Verantwortung auf der Morning Star."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Sie benötigt seine Sprachkenntnisse.",
       "context": "Morgan (Geena Davis) versteht die Sprache ihrer Schatzkarte nicht. William Shaw (Matthew Modine) wird für seine Übersetzungskünste gebraucht. Die Zusammenarbeit entsteht deshalb aus einer konkreten Fähigkeit und wird später zu einer Beziehung, in der beide einander wiederholt retten.",
-      "anchor": "Die Schatzsuche braucht zuerst einen Übersetzer.",
       "interest": "Eine Fähigkeit begründet den Eintritt der zweiten Hauptfigur.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Schatzsuche braucht zuerst einen Übersetzer."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Dawg gehört als Onkel zur Familie ihres Vaters.",
       "context": "Dawg (Frank Langella) jagt nicht nur eine fremde Schatzsucherin. Die Kartenstücke sind auf Männer derselben Familie verteilt, und Morgan (Geena Davis) gerät gegen ihren eigenen Onkel in den Kampf. Die Schatzgier zerreißt somit bereits die Familie, bevor sie die Mannschaft spaltet.",
-      "anchor": "Der Schatzkampf beginnt innerhalb der Familie.",
       "interest": "Die Beziehung erklärt den persönlichen Charakter des Gegners.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Schatzkampf beginnt innerhalb der Familie."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Rückwärts gelesen ergeben die Wörter Koordinaten.",
       "context": "Die Sprache allein reicht für die Karte nicht aus. Morgan (Geena Davis) entdeckt eine zweite Ebene ihrer Hinweise: Die Wörter müssen in umgekehrter Richtung gelesen werden. Damit ergänzt ihre eigene Schlussfolgerung Williams (Matthew Modine) Übersetzungswissen.",
-      "anchor": "Übersetzen hilft – rückwärts lesen entschlüsselt.",
       "interest": "Die Lösung trennt Sprachkenntnis von einer zusätzlichen Denkaufgabe.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Übersetzen hilft – rückwärts lesen entschlüsselt."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Reed schickt heimlich eine Brieftaube.",
       "context": "Reed (Maury Chaykin) fährt auf Morgans Schiff mit, arbeitet aber für Ainslee (Patrick Malahide). Während der Fahrt verschickt er die Position heimlich. Die Bedrohung von außen hängt somit mit einer Informationsquelle zusammen, die sich mitten in der eigenen Gruppe befindet.",
-      "anchor": "Reeds Taube verbindet Schiff und Verfolger.",
       "interest": "Der Ablauf erklärt, wie der Gegner an verborgenes Wissen kommt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Reeds Taube verbindet Schiff und Verfolger."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Das Fass macht den gesunkenen Schatz wieder auffindbar.",
       "context": "Morgan (Geena Davis) muss William (Matthew Modine) vom sinkenden Schiff retten und den Schatz zurücklassen. Ihre vorherige Markierung verhindert jedoch den endgültigen Verlust. Die letzte Lösung beruht somit auf Vorbereitung und einer Entscheidung für einen Menschen im Moment der Gefahr.",
-      "anchor": "Das Markierungsfass erlaubt Rettung vor Gold.",
       "interest": "Die Vorbereitung löst den scheinbaren Gegensatz zwischen Menschenrettung und Schatzgewinn.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Markierungsfass erlaubt Rettung vor Gold."
     },
     {
       "code": "Y",
@@ -173,13 +173,13 @@
       ],
       "short": "Das Piratenabenteuer erschien 1995.",
       "context": "Der rote Korsar mit Burt Lancaster erschien 1952. Die Piratenbraut folgte 1995, 43 Jahre später, mit Geena Davis als Kapitänin Morgan. Die beiden Jahre verbinden unterschiedliche Generationen des großen Piratenabenteuers. Der spätere Film greift die Welt von Segelschiffen, Schatzsuche und wechselnden Bündnissen wieder auf und stellt dabei eine Frau an die Spitze der Mannschaft.",
-      "anchor": "1952 Lancasters Korsar – 1995 Davis’ Piratenbraut: 43 Jahre Abstand.",
       "interest": "Die Hauptfigur verankert das Filmjahr ohne bloße Jahresliste.",
       "sources": [
         "handlung",
         "archiv",
         "zeitanker"
-      ]
+      ],
+      "objective": "1952 Lancasters Korsar – 1995 Davis’ Piratenbraut: 43 Jahre Abstand."
     },
     {
       "code": "D",
@@ -198,11 +198,11 @@
       ],
       "short": "Renny Harlin führte Regie.",
       "context": "Renny Harlin inszeniert die Jagd von Morgan und William mit großen Land- und Seeschlachten. Der BFI-Credit ordnet ihm diese Produktion zu. Die Regiefrage gilt dem Film mit Geena Davis und Matthew Modine, unabhängig von späteren Wiederbelebungen des Piratenkinos.",
-      "anchor": "Harlin inszeniert Morgans Schatzjagd.",
       "interest": "Der Credit bleibt an das konkrete Piratenpaar gebunden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Harlin inszeniert Morgans Schatzjagd."
     }
   ]
 }

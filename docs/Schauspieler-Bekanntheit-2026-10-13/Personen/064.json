@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Walter bezieht sich immer wieder auf den Vietnamkrieg.",
       "context": "Walter deutet auch alltägliche Konflikte aus der Perspektive seiner militärischen Vergangenheit. Auf der Bowlingbahn und beim angeblichen Entführungsfall geraten seine Gewissheiten mit der Gelassenheit des Dude aneinander. Goodman spielt ihn als Mann, der Regeln mit großer Lautstärke verteidigt und durch eigenes Handeln häufig neues Chaos erzeugt. Seine Kriegserinnerung ist damit zugleich Selbstbild und wiederkehrendes Gesprächsmuster.",
-      "anchor": "Walter trägt Vietnam in fast jede Auseinandersetzung hinein.",
       "interest": "Die Frage erschließt eine prägende Eigenschaft der Figur.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-KOM-01-04",
       "variant_of": "KOM-M-002",
-      "knowledge_note": "Variante desselben Wissensziels mit unveränderter Lösung."
+      "knowledge_note": "Variante desselben Wissensziels mit unveränderter Lösung.",
+      "objective": "Walter trägt Vietnam in fast jede Auseinandersetzung hinein."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 0,
       "short": "Goodman spricht James P. Sullivan, genannt Sulley.",
       "context": "Sulley ist ein erfolgreicher Schrecker, dessen Leben sich durch die Begegnung mit dem Menschenkind Boo verändert. Seine körperliche Größe und zunächst einschüchternde Erscheinung stehen zunehmend neben Fürsorge. Goodmans warme Stimme unterstützt diesen Wechsel. Billy Crystal spricht seinen Kollegen Mike; das ungleiche Duo trägt einen großen Teil der Komik und der emotionalen Wirkung des Films.",
-      "anchor": "Goodmans Stimme gehört zum großen, behaarten Sulley.",
       "interest": "Die ausdrücklich benannte Originalfassung verhindert eine Verwechslung mit der deutschen Synchronbesetzung.",
       "feedback": [
         "Goodman spricht James P. Sullivan, genannt Sulley.",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://d23.com/a-to-z/monsters-inc/"
-      ]
+      ],
+      "objective": "Goodmans Stimme gehört zum großen, behaarten Sulley."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 1,
       "short": "Charlie stellt sich als Versicherungsvertreter vor.",
       "context": "Charlie wohnt im Hotelzimmer neben Barton und wirkt zunächst wie ein geselliger Mann mit alltäglichen Sorgen. Barton redet begeistert vom gewöhnlichen Menschen, ohne seinem Nachbarn wirklich zuzuhören. Dessen spätere Enthüllung verändert den freundlichen ersten Eindruck radikal. Goodmans Darstellung nutzt gerade die scheinbar beruhigende Nähe, um Bartons Vorstellung von Menschenkenntnis und die Sicherheit des Publikums zu unterlaufen.",
-      "anchor": "Der freundliche Hotelnachbar erzählt von einem unscheinbaren Vertreterberuf.",
       "interest": "Die Selbstbeschreibung bildet den Ausgangspunkt einer bewusst trügerischen Figurenwirkung.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/58764-BARTON-FINK"
-      ]
+      ],
+      "objective": "Der freundliche Hotelnachbar erzählt von einem unscheinbaren Vertreterberuf."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 0,
       "short": "Barney vertauscht seinen sehr guten Test mit Freds schlechtem Ergebnis.",
       "context": "Barney möchte sich dafür bedanken, dass Fred ihm bei der Adoption eines Kindes geholfen hat. Die Beförderung führt jedoch in einen Betrugsplan des Vorgesetzten und beschädigt die Freundschaft. Goodmans Fred hält den Aufstieg zunächst für seinen eigenen Verdienst. Der Film macht aus dem vermeintlichen Glücksfall einen Konflikt über Dankbarkeit, soziale Stellung und die Versuchung, andere nach einem Karrieresprung geringer zu behandeln.",
-      "anchor": "Barneys Dank verschafft Fred eine Stellung, für die er nicht ausgewählt worden wäre.",
       "interest": "Der Auslöser erklärt den Zusammenhang zwischen Freundschaft und beruflichem Aufstieg.",
       "feedback": [
         "Barney vertauscht seinen sehr guten Test mit Freds schlechtem Ergebnis.",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Flintstones_(film)"
-      ]
+      ],
+      "objective": "Barneys Dank verschafft Fred eine Stellung, für die er nicht ausgewählt worden wäre."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 3,
       "short": "Chambers hilft, eine glaubwürdige Scheinproduktion als Tarnung für die Ausreise aufzubauen.",
       "context": "Sechs Amerikaner sollen den Iran unter der Identität eines kanadischen Filmteams verlassen. Damit die Geschichte glaubhaft wirkt, braucht die angebliche Produktion mehr als ein Drehbuch: Sie muss auch außerhalb des Einsatzortes überprüfbar erscheinen. Der Film nutzt Chambers’ berufliche Erfahrung daher für eine Täuschung, die Menschen schützen soll. Das reale Vorbild arbeitete tatsächlich mit dem Geheimdienst zusammen.",
-      "anchor": "Hollywoods Fähigkeit, eine Produktion glaubwürdig erscheinen zu lassen, wird zur Fluchthilfe.",
       "interest": "Das Ziel verbindet die Filmfigur mit dem praktischen Zweck der Scheinproduktion.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Argo_(2012_film)",
         "https://www.cia.gov/stories/story/argo-the-ingenious-exfiltration-of-the-canadian-six/"
-      ]
+      ],
+      "objective": "Hollywoods Fähigkeit, eine Produktion glaubwürdig erscheinen zu lassen, wird zur Fluchthilfe."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 2,
       "short": "Howard behauptet, ein Angriff habe die Luft außerhalb des Bunkers tödlich verseucht.",
       "context": "Michelle erwacht nach einem Unfall in Howards unterirdischem Schutzraum. Seine behauptete Fürsorge ist mit strengen Regeln, Drohungen und einer unsicheren Geschichte über die Außenwelt verbunden. Der Film zwingt sie, Gefahr und Schutz immer wieder neu zu beurteilen. Goodman nutzt dabei das Schwanken zwischen scheinbar väterlicher Autorität und Kontrollbedürfnis: Selbst eine wirkliche Bedrohung würde nicht jede seiner Handlungen rechtfertigen.",
-      "anchor": "Howard begründet seine Kontrolle mit einer angeblich tödlichen Außenwelt.",
       "interest": "Die Behauptung erklärt das Machtgefälle und erhält die Ungewissheit der frühen Handlung.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/10_Cloverfield_Lane"
-      ]
+      ],
+      "objective": "Howard begründet seine Kontrolle mit einer angeblich tödlichen Außenwelt."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 1,
       "short": "Sie schrieben die Figur für Goodman auch wegen seiner warmen, freundlichen Ausstrahlung.",
       "context": "Diese Wirkung macht Charlies erste Besuche bei Barton beruhigend und plausibel. Umso stärker verändert sich der Blick auf ihn, sobald die verborgene Gewalt sichtbar wird. Die Besetzung arbeitet deshalb mit einer Erwartung an den Darsteller, nicht nur mit Eigenschaften der Filmfigur. Goodman kann Nähe herstellen und dieselbe Nähe später bedrohlich werden lassen.",
-      "anchor": "Die vertraute Freundlichkeit des Darstellers ermöglicht die spätere Irritation.",
       "interest": "Die Frage erschließt die bewusste Nutzung eines Schauspielerimages bei der Besetzung.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Barton_Fink"
-      ]
+      ],
+      "objective": "Die vertraute Freundlichkeit des Darstellers ermöglicht die spätere Irritation."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 2,
       "short": "Goodman und Crystal nahmen gemeinsame Szenen zusammen auf.",
       "context": "Bei Animationsfilmen entstehen Stimmen häufig in getrennten Sitzungen. Die gemeinsame Arbeit erlaubte hier unmittelbare Reaktionen, komisches Timing und Improvisationen zwischen den beiden Darstellern. Das ergänzt die zeichnerisch ungleichen Figuren um ein tatsächlich gespieltes Zusammenspiel. Goodmans Sulley und Crystals Mike wirken dadurch nicht nur als einzeln gestaltete Charaktere, sondern auch als eingespieltes Paar.",
-      "anchor": "Die Stimmen des Duos konnten schon im Studio miteinander spielen.",
       "interest": "Das Ziel erklärt einen konkreten Beitrag der Schauspielarbeit zur Wirkung von Animation.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       "extraSources": [
         "https://www.disneydigitalstudio.com/doc-kane-receives-cas-career-achievement-award/",
         "https://www.etonline.com/movies/133002_Monsters_Inc_Flashback_Billy_Crystal_John_Goodman_on_Childhood_Fears"
-      ]
+      ],
+      "objective": "Die Stimmen des Duos konnten schon im Studio miteinander spielen."
     }
   ]
 }

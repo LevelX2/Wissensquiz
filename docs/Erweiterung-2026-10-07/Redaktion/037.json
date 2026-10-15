@@ -37,12 +37,12 @@
       ],
       "short": "Sam Gerard übernimmt erneut die Fahndung.",
       "context": "Sam Gerard (Tommy Lee Jones) und mehrere bekannte Teammitglieder kehren aus der früheren Kimble-Geschichte zurück. Diesmal verfolgen sie Mark Sheridan (Wesley Snipes). Die Fortsetzung hält damit die Seite der Ermittler fest und tauscht die gesuchte Hauptfigur aus. Eine bekannte Filmwelt kann durch wiederkehrende Nebenfiguren fortgesetzt werden, ohne den früheren Flüchtigen erneut zum Mittelpunkt zu machen.",
-      "anchor": "Die Ermittler bleiben, der gesuchte Mann ist neu.",
       "interest": "Die Ermittler bleiben, der gesuchte Mann ist neu.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Ermittler bleiben, der gesuchte Mann ist neu."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ein abgestürztes Transportflugzeug eröffnet die Flucht.",
       "context": "Mark Sheridan (Wesley Snipes) befindet sich unter einer anderen Identität in einem Gefangenentransport. Ein Anschlag auf ihn beschädigt das Flugzeug; es stürzt in den Ohio River. Sam Gerard (Tommy Lee Jones) rettet Überlebende, während Sheridan entkommt. Der Film beginnt die Fahndung damit in einer Lage, in der Rettung und Kontrolle über die Gefangenen unmittelbar miteinander konkurrieren.",
-      "anchor": "Der Rettungseinsatz nach dem Absturz lässt zugleich die Flucht zu.",
       "interest": "Der Rettungseinsatz nach dem Absturz lässt zugleich die Flucht zu.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Rettungseinsatz nach dem Absturz lässt zugleich die Flucht zu."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Sheridan ist ein früherer CIA-Agent mit militärischer Erfahrung.",
       "context": "Der zunächst als Mark Warren beziehungsweise Mark Roberts bekannte Mann ist in Wirklichkeit Mark Sheridan (Wesley Snipes). Seine frühere Geheimdiensttätigkeit erklärt Ausbildung und Tarnung. Gleichzeitig verändert sie die Bedeutung der Fahndung: Sam Gerard (Tommy Lee Jones) muss nicht nur einen gefährlichen Flüchtigen fassen, sondern prüfen, welche vertraulichen Angaben über ihn tatsächlich stimmen.",
-      "anchor": "Die Identitätsenthüllung macht die offizielle Fallbeschreibung fragwürdig.",
       "interest": "Die Identitätsenthüllung macht die offizielle Fallbeschreibung fragwürdig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Identitätsenthüllung macht die offizielle Fallbeschreibung fragwürdig."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die Handschuhe machen die behauptete Fingerabdruckidentifizierung zweifelhaft.",
       "context": "Sam Gerard (Tommy Lee Jones) prüft das Material eines tödlichen Treffens in einer Parkgarage. Die Aufnahme zeigt, dass Sheridan (Wesley Snipes) Handschuhe trug. Eine zuvor als gesichert behandelte Fingerabdruckspur kann so nicht einfach stimmen. Der Film bindet den Erkenntniswechsel an eine konkret sichtbare Unstimmigkeit, statt Gerards Misstrauen nur als Gefühl oder Loyalität zur Hauptfigur zu erklären.",
-      "anchor": "Ein sichtbares Detail widerspricht einem angeblich sicheren Beweis.",
       "interest": "Ein sichtbares Detail widerspricht einem angeblich sicheren Beweis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein sichtbares Detail widerspricht einem angeblich sicheren Beweis."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Royce tötet Newman und belastet den Flüchtigen.",
       "context": "Noah Newman (Tom Wood) trifft auf John Royce (Robert Downey Jr.), der Sheridan (Wesley Snipes) töten will. Royce erschießt den Kollegen und gibt Sheridan die Schuld. Sam Gerard (Tommy Lee Jones) reagiert zunächst auf den Verlust mit verschärfter Verfolgung. Der Verräter verwendet den Tod damit auch dazu, einen persönlichen Racheimpuls in die falsche Richtung zu lenken.",
-      "anchor": "Royce nutzt den ermordeten Kollegen als falschen Grund für Gerards Vergeltung.",
       "interest": "Royce nutzt den ermordeten Kollegen als falschen Grund für Gerards Vergeltung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Royce nutzt den ermordeten Kollegen als falschen Grund für Gerards Vergeltung."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die Waffe entlarvt Royce als Täter.",
       "context": "Sam Gerard (Tommy Lee Jones) hatte Newmans (Tom Wood) Tod auf Grundlage von Royces (Robert Downey Jr.) Erklärung dem Flüchtigen zugeschrieben. Die Identifizierung der Waffe macht diese Deutung unhaltbar. Er prüft seine eigene Schlussfolgerung erneut und schützt Sheridan (Wesley Snipes) im Krankenhaus. Die Aufklärung verlangt deshalb auch die Korrektur einer emotional verständlichen, aber falschen Überzeugung.",
-      "anchor": "Der Schlussbeweis zwingt Gerard, die eigene Rachedeutung zu korrigieren.",
       "interest": "Der Schlussbeweis zwingt Gerard, die eigene Rachedeutung zu korrigieren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Schlussbeweis zwingt Gerard, die eigene Rachedeutung zu korrigieren."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film erschien 1998.",
       "context": "Die Ermittler um Sam Gerard kehren mehrere Jahre nach der früheren Fahndung zurück. Die neue Hauptfigur des Flüchtigen wird von Wesley Snipes gespielt. Das Veröffentlichungsjahr bezeichnet diese konkrete Fortsetzung und ist deshalb vom Jahr des Films mit Harrison Ford zu trennen. Wiederkehrende Teammitglieder sorgen für Kontinuität, ohne daraus denselben einzelnen Film zu machen.",
-      "anchor": "1993 beginnt die Filmwelt, 1998 folgt die neue Fahndung.",
       "interest": "1993 beginnt die Filmwelt, 1998 folgt die neue Fahndung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "1993 beginnt die Filmwelt, 1998 folgt die neue Fahndung."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Stuart Baird führte Regie.",
       "context": "Stuart Baird übernimmt die Fortsetzung einer Filmwelt, deren frühere Kinogeschichte Andrew Davis inszeniert hatte. John Pogue schreibt den neuen Text. Tommy Lee Jones und mehrere Teammitglieder bleiben vor der Kamera wiedererkennbar. Gerade diese Kontinuität kann einen falschen Regieschluss nahelegen; die neue Produktion besitzt trotz der übernommenen Figuren einen eigenen Regiecredit.",
-      "anchor": "Bekannte Ermittler kehren unter Bairds neuer Regie zurück.",
       "interest": "Bekannte Ermittler kehren unter Bairds neuer Regie zurück.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bekannte Ermittler kehren unter Bairds neuer Regie zurück."
     }
   ]
 }

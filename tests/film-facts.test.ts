@@ -119,7 +119,7 @@ it("zeigt alle 412 Regiehintergründe ohne allgemeine Nachsätze und erhält his
 it("ergänzt jedes der 425 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {
   expect(facts).toHaveLength(425);
   expect(extra).toHaveLength(837);
-  expect(complete.questions).toHaveLength(3727);
+  expect(complete.questions).toHaveLength(3726);
   expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(3248);
   expect(new Set(complete.questions.map((q) => q.topic)).size).toBe(378);
   expect(complete.questions.slice(0, originals.length)).toEqual(originals);

@@ -33,11 +33,11 @@
       ],
       "short": "Leamas spielt einen verbitterten ehemaligen Agenten mit Alkoholproblemen.",
       "context": "Control (Cyril Cusack) lässt Alec Leamas (Richard Burton) scheinbar aus dem britischen Dienst fallen. Der sichtbare soziale Abstieg soll ostdeutsche Werber überzeugen, dass Leamas gegen Geld Geheimnisse verraten könnte. Sein schlechtes Ansehen ist deshalb Teil einer geplanten Rolle. Das Publikum folgt einem Mann, dessen Verhalten öffentlich glaubwürdig wirken muss, obwohl seine Auftraggeber ihm den gesamten Zweck des Plans nicht erklären.",
-      "anchor": "Der inszenierte Absturz macht Leamas für die Gegenseite interessant.",
       "interest": "Die zentrale Tarnung erklärt die Anwerbung statt nur seine Nationalität abzufragen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der inszenierte Absturz macht Leamas für die Gegenseite interessant."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Die beiden lernen sich bei der Arbeit in einer Bibliothek kennen.",
       "context": "Nan Perry (Claire Bloom) arbeitet mit Alec Leamas (Richard Burton) in einer Bibliothek und beginnt eine Beziehung mit ihm. Ihr politischer Idealismus steht neben seiner Müdigkeit und seinem misstrauischen Blick auf den Dienst. Die scheinbar zivile Begegnung schafft eine Bindung, die seine Auftraggeber später in den Plan hineinziehen. Sein privates Verhältnis lässt sich dadurch nicht zuverlässig von den Interessen der Geheimdienste abschirmen.",
-      "anchor": "Die zivile Bibliotheksbegegnung wird in den Spionageplan hineingezogen.",
       "interest": "Der Beziehungsbeginn bietet eine einfache konkrete Ausgangsfrage.",
       "sources": [
         "handlung",
         "criterion"
-      ]
+      ],
+      "objective": "Die zivile Bibliotheksbegegnung wird in den Spionageplan hineingezogen."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Fiedler baut einen Verdacht gegen Mundt auf.",
       "context": "Jens Fiedler (Oskar Werner) setzt Leamas’ (Richard Burton) Angaben zu Hans-Dieter Mundt (Peter van Eyck) zusammen. Er prüft, ob sein eigener Vorgesetzter von den Briten bezahlt wird. Leamas liefert das Material, bestätigt die Schlussfolgerung aber zunächst nicht offen. Die Befragung wird dadurch zu einem Machtkonflikt innerhalb des ostdeutschen Dienstes, in dem ein vermeintlicher Überläufer als Belastungszeuge gegen einen mächtigen Funktionär dient.",
-      "anchor": "Die Aussage des Überläufers richtet sich gegen Fiedlers eigenen Chef.",
       "interest": "Die untersuchte Loyalität erklärt den unmittelbaren Verhörkonflikt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Aussage des Überläufers richtet sich gegen Fiedlers eigenen Chef."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Nan bestätigt eine Zahlung aus dem Umfeld des britischen Dienstes.",
       "context": "Nan Perry (Claire Bloom) glaubt, zu einem kulturellen Austausch in die DDR zu reisen. Vor dem Tribunal erzählt sie jedoch von der Unterstützung durch einen britischen Geheimdienstmann. Ihre gutgläubige Aussage beschädigt Leamas’ (Richard Burton) behaupteten Bruch mit seinen Auftraggebern. Ein privater Hilfsakt wird zum Gegenbeweis in einem Verhör, dessen politische Funktion sie nicht überblickt und dessen Ausgang bereits von anderen vorbereitet wurde.",
-      "anchor": "Die private Unterstützung wird im Tribunal zum Beweis gegen die Tarnung.",
       "interest": "Eine konkrete Aussage erklärt den Umschwung des Verfahrens.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die private Unterstützung wird im Tribunal zum Beweis gegen die Tarnung."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Der Plan schützt Mundt, indem er Fiedler beseitigt.",
       "context": "Alec Leamas (Richard Burton) glaubt, belastendes Material gegen Mundt (Peter van Eyck) in den ostdeutschen Dienst einzuschleusen. Erst nach dem Tribunal versteht er, dass seine eigene Seite Mundt als Informanten schützen will. Fiedler (Oskar Werner) ist gefährlich geworden, weil er der Wahrheit zu nahe kommt. Leamas’ vermeintliches Scheitern gehört zum gewünschten Ergebnis. Die Enthüllung zeigt, wie wenig der eingesetzte Agent selbst von den Interessen seiner Auftraggeber weiß.",
-      "anchor": "Der scheinbar gescheiterte Auftrag ist für die Auftraggeber erfolgreich.",
       "interest": "Die verdeckte Absicht unterscheidet sich vom unmittelbar untersuchten Verdacht.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der scheinbar gescheiterte Auftrag ist für die Auftraggeber erfolgreich."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Leamas kehrt auf die Ostseite zu Nan zurück.",
       "context": "Alec Leamas (Richard Burton) hat den höchsten Punkt der Berliner Mauer erreicht, als Nan Perry (Claire Bloom) im Licht der Grenzsicherung erschossen wird. Er könnte weiter in den Westen gelangen. Stattdessen steigt er zu ihr hinab und stirbt ebenfalls. Seine letzte Bewegung beendet die Logik eines Auftrags, der Menschen nach ihrem Nutzen behandelt: Er entscheidet sich für die verlorene private Bindung statt für die vorgesehene Rettung.",
-      "anchor": "Der mögliche Weg in den Westen wird zugunsten Nans aufgegeben.",
       "interest": "Die konkrete Schlussentscheidung erschließt den persönlichen Endpunkt der Intrige.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der mögliche Weg in den Westen wird zugunsten Nans aufgegeben."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "Die Erstveröffentlichung erfolgte 1965.",
       "context": "1965 kommt Martin Ritts Verfilmung auf die Leinwand. John le Carrés Roman war 1963 erschienen; nur zwei Jahre trennen Buch und Film. Die offizielle Autorenseite nennt beide Veröffentlichungen. Der kurze Abstand verankert das Werk mitten im Kalten Krieg: Die Handlung blickt nicht aus Jahrzehnten Entfernung auf die Berliner Grenze, sondern macht eine zeitgenössische politische Wirklichkeit zum Schauplatz moralischer Verstrickung.",
-      "anchor": "1963 Roman, 1965 Film: zwei Jahre bis zur Verfilmung.",
       "interest": "Die vom Autor dokumentierte Vorlage liefert den Zeitanker.",
       "sources": [
         "autor",
         "criterion"
-      ]
+      ],
+      "objective": "1963 Roman, 1965 Film: zwei Jahre bis zur Verfilmung."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "Martin Ritt führte Regie.",
       "context": "Martin Ritt gestaltet Leamas’ (Richard Burton) Einsatz als nüchternen und tragischen Auftrag. Criterion nennt den Regiecredit und hebt den politischen und sozialen Blick der Inszenierung hervor. Die Geheimdienste erscheinen durch ihre Behandlung der Beteiligten, deren private Beziehungen sich ihren Plänen nicht entziehen können. Der einzelne Mann besitzt dabei deutlich weniger Kontrolle als das Bild eines souveränen, stets bestens informierten Filmagenten erwarten ließe.",
-      "anchor": "Ritt zeigt den Agenten als abhängigen Beteiligten einer größeren Intrige.",
       "interest": "Der offizielle Credit verbindet sich mit dem sozialen Blick des Films.",
       "sources": [
         "criterion",
         "handlung"
-      ]
+      ],
+      "objective": "Ritt zeigt den Agenten als abhängigen Beteiligten einer größeren Intrige."
     }
   ]
 }

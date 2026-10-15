@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Katie wird Kandidatin für den US-Kongress.",
       "context": "Die junge Frau wollte eigentlich eine Krankenpflegeausbildung beginnen. Geldnot führt sie vorübergehend in den Haushalt eines Kongressabgeordneten. Ihre klare Haltung zu sozialen Fragen fällt dort auf; aus einer als Dienstmädchen unterschätzten Frau wird eine politische Konkurrentin etablierter Kräfte.",
-      "anchor": "Katie geht vom Abgeordnetenhaushalt in die Politik.",
       "interest": "Sozialer Aufstieg mit eigener politischer Stimme.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25160-THE-FARMER%27S-DAUGHTER"
-      ]
+      ],
+      "objective": "Katie geht vom Abgeordnetenhaushalt in die Politik."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Dudley ist ein Engel in menschlicher Gestalt.",
       "context": "Julias Mann, ein Bischof, verliert sich in der Finanzierung einer neuen Kathedrale und vernachlässigt das gemeinsame Leben. Dudley kommt auf dessen Bitte um Hilfe, bringt aber mehr als Geld ins Spiel. Er schenkt Julia Aufmerksamkeit und erinnert den Bischof an die Menschen, für die er verantwortlich ist.",
-      "anchor": "Dudley hilft als Engel in Menschengestalt.",
       "interest": "Die übernatürliche Figur und ihr menschlicher Auftrag.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25469-THE-BISHOPS-WIFE"
-      ]
+      ],
+      "objective": "Dudley hilft als Engel in Menschengestalt."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Marys Mann ist Franz Kindler, ein gesuchter NS-Kriegsverbrecher.",
       "context": "Unter dem Namen Charles Rankin hat er sich in einer amerikanischen Kleinstadt als Lehrer etabliert. Mary hält zunächst zu ihm und akzeptiert seine Erklärungen, während Ermittler Wilson seine Tarnung aufdeckt. Der private Vertrauensbruch macht die Verfolgung des Kriegsverbrechers zugleich zu einer Geschichte gefährlicher Verdrängung.",
-      "anchor": "Marys angesehener Mann verbirgt Kindlers Verbrechen.",
       "interest": "Verdeckte Identität aus der Perspektive der unwissenden Ehefrau.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "knowledge_id": "K-E20261007-F-252-L1",
       "variant_of": "E20261007-F-252-L1",
-      "knowledge_note": "Personenbezogene Variante der verborgenen Kriegsverbrecheridentität des gesuchten Franz Kindler; hier als Wahrheit über Marys Ehemann."
+      "knowledge_note": "Personenbezogene Variante der verborgenen Kriegsverbrecheridentität des gesuchten Franz Kindler; hier als Wahrheit über Marys Ehemann.",
+      "objective": "Marys angesehener Mann verbirgt Kindlers Verbrechen."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 0,
       "short": "Sie wollen ein Kinderkrankenhaus bauen.",
       "context": "Schwester Margaret hatte während des Krieges in der Normandie Kinder versorgt. Ein amerikanischer General verschonte das von Deutschen militärisch genutzte Krankenhaus auf ihre Bitte, wobei amerikanische Soldaten starben. Aus Dankbarkeit versprach sie, später ein Kinderkrankenhaus in Amerika zu gründen.",
-      "anchor": "Ein Kriegsversprechen führt zum Kinderkrankenhaus.",
       "interest": "Konkrete Vorgeschichte eines scheinbar unmöglichen Bauvorhabens.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25883-COME-TOTHESTABLE"
-      ]
+      ],
+      "objective": "Ein Kriegsversprechen führt zum Kinderkrankenhaus."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 2,
       "short": "Der Witwer übernimmt Rachels Dienstverpflichtung und heiratet sie, um seinen Haushalt und Sohn versorgen zu lassen.",
       "context": "Big Davey behandelt Rachel zunächst als Arbeitskraft und Ersatz für die verstorbene Mutter seines Sohnes. Erst als sein Freund Jim echtes Interesse an ihr zeigt, verändert sich die Lage. Der Film führt die Zweckgemeinschaft zur Anerkennung einer Frau, deren Wünsche anfangs kaum berücksichtigt werden.",
-      "anchor": "Rachel kommt als verpflichtete Arbeitskraft und wird erst später als Frau wahrgenommen.",
       "interest": "Abhängige Dienstverhältnisse und Ehe an der amerikanischen Siedlungsgrenze.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25688-RACHEL-AND-THE-STRANGER"
-      ]
+      ],
+      "objective": "Rachel kommt als verpflichtete Arbeitskraft und wird erst später als Frau wahrgenommen."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 1,
       "short": "Mabel ist gehörlos und unterstützt Bells Arbeit.",
       "context": "Bell lernt sie als Tochter eines möglichen Geldgebers kennen. Als er wegen seiner finanziellen Lage seine Experimente aufgeben will, ermutigt Mabel ihn zum Weitermachen. Später hilft sie im Patentstreit mit entscheidendem Beweismaterial. Die Filmfigur ist damit mehr als die romantische Belohnung des Erfinders.",
-      "anchor": "Mabel bestärkt Bell und hilft im Patentstreit.",
       "interest": "Die konkrete Mitwirkung der Frau an der Seite des Film-Erfinders.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/4229-THE-STORY-OF-ALEXANDER-GRAHAM-BELL"
-      ]
+      ],
+      "objective": "Mabel bestärkt Bell und hilft im Patentstreit."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 1,
       "short": "Young stellte einzelne abgeschlossene Geschichten vor und spielte in vielen Folgen wechselnde Rollen.",
       "context": "Die Anthologie begann als „Letter to Loretta“ mit dramatisierten Zuschauerbriefen. Auch nach der Aufgabe dieses Rahmens eröffnete und schloss Young die Geschichten. Ihr inszenierter Auftritt im Abendkleid wurde dabei ebenso zum Markenzeichen wie die kurzen Dramen und Komödien.",
-      "anchor": "Eine Gastgeberin, viele Geschichten und Figuren.",
       "interest": "Ein prägendes Fernsehformat einer ehemaligen Kinodarstellerin.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       "films": [],
       "extraSources": [
         "https://interviews.televisionacademy.com/shows/loretta-young-show-the"
-      ]
+      ],
+      "objective": "Eine Gastgeberin, viele Geschichten und Figuren."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 2,
       "short": "Die letzten drei Staffeln wurden von Toreto Enterprises produziert.",
       "context": "Die ersten fünf Staffeln entstanden unter Lewislor Enterprises, der gemeinsamen Firma von Young und Thomas Lewis. Nach ihrer persönlichen und geschäftlichen Trennung gründete sie Toreto. In der ersten Staffel hatte Desilu die Dreharbeiten übernommen; Produzentenfirma und ausführendes Studio sind daher zu unterscheiden.",
-      "anchor": "Auf Lewislor folgt Youngs Toreto.",
       "interest": "Eigene Produktionsverantwortung und sauber getrennte Firmencredits.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       "films": [],
       "extraSources": [
         "https://interviews.televisionacademy.com/shows/loretta-young-show-the"
-      ]
+      ],
+      "objective": "Auf Lewislor folgt Youngs Toreto."
     }
   ]
 }

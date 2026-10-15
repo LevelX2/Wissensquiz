@@ -34,13 +34,13 @@
       ],
       "short": "Die Gruppe soll Geld in einer Lage anhaltender Arbeitslosigkeit verdienen.",
       "context": "Gaz (Robert Carlyle) und Dave (Mark Addy) finden nach dem Niedergang der Stahlindustrie keinen verlässlichen Lebensunterhalt. Eine erfolgreiche Chippendales-Vorstellung bringt Gaz auf die Idee. Der komische Plan ist damit mit einer konkreten sozialen Not verbunden, die für die Männer auch ihre Selbstachtung und ihre Beziehungen belastet.",
-      "anchor": "Der Stripplan entsteht aus fehlender Arbeit und Geldnot.",
       "interest": "Der Stripplan entsteht aus fehlender Arbeit und Geldnot.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Stripplan entsteht aus fehlender Arbeit und Geldnot."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Die Männer leben im vom Stahl geprägten Sheffield.",
       "context": "Sheffield war von der Stahlproduktion geprägt; die geschlossenen Werke hinterlassen Arbeitslosigkeit und leer stehende Räume. Gaz (Robert Carlyle) und Dave (Mark Addy) stehlen dort zunächst Schrott. Die Stadt ist deshalb kein austauschbarer Hintergrund: Ihr wirtschaftlicher Wandel erklärt, warum eine Gruppe ehemaliger Arbeiter einen so ungewöhnlichen Erwerbsweg versucht.",
-      "anchor": "Sheffields stillgelegte Stahlwerke stehen hinter dem neuen Bühnenplan.",
       "interest": "Sheffields stillgelegte Stahlwerke stehen hinter dem neuen Bühnenplan.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sheffields stillgelegte Stahlwerke stehen hinter dem neuen Bühnenplan."
     },
     {
       "code": "M1",
@@ -83,13 +83,13 @@
       ],
       "short": "Gaz fürchtet, wegen unbezahlten Unterhalts seinen Sohn nicht mehr sehen zu können.",
       "context": "Gaz (Robert Carlyle) ist mit Zahlungen im Rückstand. Seine frühere Frau Mandy (Emily Woof) will die Sorgerechtslage ändern, während Sohn Nathan (William Snape) weiterhin an ihn glaubt. Der geplante Auftritt soll daher nicht nur ein Einkommen liefern; er ist mit Gaz’ Platz im Leben des Kindes verknüpft.",
-      "anchor": "Gaz’ Geldnot bedroht auch seine Rolle als Vater.",
       "interest": "Gaz’ Geldnot bedroht auch seine Rolle als Vater.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gaz’ Geldnot bedroht auch seine Rolle als Vater."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Sie erkennen bei einem Tanzkurs, dass Gerald ihnen Bewegungen beibringen kann.",
       "context": "Gerald (Tom Wilkinson) ist der frühere Vorarbeiter der Männer und verheimlicht seiner Frau die Arbeitslosigkeit. Gaz (Robert Carlyle) und Dave (Mark Addy) entdecken ihn beim Tanzen mit ihr. Eine private Fähigkeit ersetzt nun die frühere betriebliche Autorität; aus dem alten Chef wird ein Trainer für eine gemeinsame ungewöhnliche Aufgabe.",
-      "anchor": "Der frühere Vorarbeiter bekommt durch den Tanz eine neue Rolle.",
       "interest": "Der frühere Vorarbeiter bekommt durch den Tanz eine neue Rolle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der frühere Vorarbeiter bekommt durch den Tanz eine neue Rolle."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Nathan finanziert die nötige Anzahlung aus seinen Ersparnissen.",
       "context": "Gaz (Robert Carlyle) kann die 100 Pfund Anzahlung für den Auftrittsort nicht aufbringen. Nathan (William Snape) stellt ihm sein gespartes Geld zur Verfügung. Der Sohn ist dadurch keine bloße Begründung der väterlichen Sorge: Er handelt selbst und zeigt Vertrauen, während Gaz noch an der Durchführung zweifelt.",
-      "anchor": "Der Sohn setzt eigenes Geld auf den zweifelnden Vater.",
       "interest": "Der Sohn setzt eigenes Geld auf den zweifelnden Vater.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Sohn setzt eigenes Geld auf den zweifelnden Vater."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Jean ermutigt Dave trotz seiner Sorge um den eigenen Körper.",
       "context": "Dave (Mark Addy) steigt zunächst aus, weil er sich für seinen Körper schämt. Jean (Lesley Sharp) hält ihm entgegen, dass diese Selbstabwertung nicht ihrem Blick auf ihn entspricht. Der Weg zurück auf die Bühne hängt daher nicht allein von perfekten Tanzschritten ab, sondern vom Vertrauen in eine Beziehung und in den eigenen Wert.",
-      "anchor": "Jeans Blick hilft Dave, die eigene Scham zu überwinden.",
       "interest": "Jeans Blick hilft Dave, die eigene Scham zu überwinden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jeans Blick hilft Dave, die eigene Scham zu überwinden."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1997.",
       "context": "Ganz oder gar nicht erschien 1997. Anne Dudley gewann 1998 den Oscar für die Musik in der damaligen Kategorie Original Musical or Comedy Score, ein Jahr später. Die Stripauftritte nutzen bekannte Lieder; die Auszeichnung betrifft jedoch Dudleys komponierte Filmmusik und nicht einfach die Sammlung dieser Songs.",
-      "anchor": "Film 1997, Musik-Oscar für Anne Dudley 1998: ein Jahr bis zur Auszeichnung.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Film 1997, Musik-Oscar für Anne Dudley 1998: ein Jahr bis zur Auszeichnung.",
       "sources": [
         "handlung",
         "academy"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Film 1997, Musik-Oscar für Anne Dudley 1998: ein Jahr bis zur Auszeichnung."
     },
     {
       "code": "D",
@@ -206,14 +206,14 @@
       ],
       "short": "Der Regiecredit lautet Peter Cattaneo.",
       "context": "Peter Cattaneo inszenierte das Drehbuch von Simon Beaufoy. Robert Carlyle spielt Gaz, Mark Addy dessen Freund Dave und Tom Wilkinson den früheren Vorarbeiter Gerald. Der Film bindet den komischen Auftritt an Geldnot, Würde und familiäre Verantwortung, statt den Stripplan allein als lose Folge von Bühnengags zu behandeln.",
-      "anchor": "Peter Cattaneo: Robert Carlyle spielt Gaz, Mark Addy dessen Freund Dave und Tom Wilkinson den früheren Vorarbeiter Gerald.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Peter Cattaneo: Robert Carlyle spielt Gaz, Mark Addy dessen Freund Dave und Tom Wilkinson den früheren Vorarbeiter Gerald."
     }
   ]
 }

@@ -33,11 +33,11 @@
       ],
       "short": "Der bewachte Wagen transportiert Goldstaub.",
       "context": "Taw Jackson (John Wayne) plant den Überfall auf einen schwer geschützten Goldtransport. Frank Pierce (Bruce Cabot) hat ihn zuvor um sein Land gebracht und nutzt dessen Vorkommen zu seinem eigenen Vorteil. Die Wagenladung verbindet daher einen großen möglichen Gewinn mit einer persönlichen Vorgeschichte. Der Angriff ist kein zufälliger Raub auf der Straße, sondern ein vorbereiteter Zugriff auf Vermögen, das aus dem verlorenen Besitz des Planers gewonnen wird.",
-      "anchor": "Die Goldladung verbindet Beute und geraubten Landbesitz.",
       "interest": "Verankert das konkrete Ziel des Überfalls.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Goldladung verbindet Beute und geraubten Landbesitz."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Lomax ist auch ein Safeknacker.",
       "context": "Lomax (Kirk Douglas) ist ein gefährlicher Schütze, besitzt aber zugleich die Fähigkeit, Safes zu öffnen. Taw Jackson (John Wayne) braucht deshalb mehr von ihm als bewaffnete Unterstützung. Der geplante Überfall verlangt Zugang zu Material und eine Zusammenarbeit verschiedener Spezialisten. Ihre persönliche Vorgeschichte macht das Bündnis unsicher: Lomax hat bereits im Dienst des Gegners gehandelt. Seine praktische Nützlichkeit ist einer der Gründe, weshalb Jackson dennoch mit ihm arbeitet.",
-      "anchor": "Lomax liefert Schießkunst und Zugang zu verschlossenen Safes.",
       "interest": "Erkennt den handwerklichen Beitrag eines Hauptpartners.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Lomax liefert Schießkunst und Zugang zu verschlossenen Safes."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Billy setzt Nitroglycerin ein.",
       "context": "Billy Hyatt (Robert Walker Jr.) wird wegen seiner Erfahrung mit Sprengstoff in die Gruppe aufgenommen. Er will Nitroglycerin einsetzen und beschafft es zusammen mit Taw Jackson (John Wayne) und Lomax (Kirk Douglas) auf dem früheren Besitz des Planers. Das gefährliche Material erhält eine bestimmte Funktion im Ablauf: Die Explosion soll den Transport und seine bewaffneten Begleiter voneinander trennen. Billys besondere Fähigkeit ergänzt damit die Aufgaben der übrigen Beteiligten.",
-      "anchor": "Nitroglycerin ermöglicht die geplante Trennung von Wagen und Eskorte.",
       "interest": "Verbindet den Sprengstoff mit seiner konkreten Funktion.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Nitroglycerin ermöglicht die geplante Trennung von Wagen und Eskorte."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Ein gefällter Baum lenkt den Transport in die Schlucht.",
       "context": "Die Gruppe plant den Überfall als Folge mehrerer Eingriffe in den Weg des Transports. Levi Walking Bear (Howard Keel) blockiert die Route mit einem gefällten Baum, sodass der Wagen in eine enge Schlucht ausweichen muss. Dort warten Taw Jackson (John Wayne) und Lomax (Kirk Douglas) mit ihrer Falle. Die Geländewahl ersetzt damit einen offenen Angriff auf jede einzelne Wache: Der Gegner soll selbst an den vorbereiteten Ort gelangen.",
-      "anchor": "Die Wegsperre führt den gepanzerten Wagen in das ausgewählte Gelände.",
       "interest": "Erfasst ein bestimmtes Glied des abgestimmten Überfallplans.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Wegsperre führt den gepanzerten Wagen in das ausgewählte Gelände."
     },
     {
       "code": "S1",
@@ -125,12 +125,12 @@
       ],
       "short": "Das Gold liegt im Mehl, das die Hungrigen einsammeln.",
       "context": "Nach dem Überfall wird Goldstaub in Mehlfässern verborgen. Als der Wagen mit diesen Fässern außer Kontrolle gerät, zerbrechen sie und verteilen ihren Inhalt. Kiowa-Frauen und Kinder sammeln das Mehl zum Essen, ohne den darin enthaltenen Goldstaub als Beute zu erkennen. Der raffinierte Tarnplan führt damit zu einem ungeplanten Verlust. Die Bedürfnisse der Hungrigen und das Gewinnziel der Räuber treffen im selben Material aufeinander, ohne dass die Sammler um dessen Geldwert wissen.",
-      "anchor": "Die Mehltarnung lässt Gold und Nahrung gemeinsam verschwinden.",
       "interest": "Verbindet Tarnmittel und unbeabsichtigte Schlussfolge.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Mehltarnung lässt Gold und Nahrung gemeinsam verschwinden."
     },
     {
       "code": "S2",
@@ -149,13 +149,13 @@
       ],
       "short": "Taws Wissen um die Goldreserve schützt ihn vor seinem Partner.",
       "context": "Taw Jackson (John Wayne) verfügt am Ende über eine zurückgehaltene Goldreserve und behält deren Versteck für sich. Er erklärt Lomax (Kirk Douglas), dass die Aufteilung erst nach sechs Monaten erfolgen soll. Bis dahin hängt Lomax’ eigener Gewinn davon ab, dass sein Partner lebt. Der Schluss ersetzt gegenseitiges Vertrauen durch ein praktisches Druckmittel. Das unsichere Bündnis wird nicht vollkommen versöhnt, sondern durch eine fortbestehende wirtschaftliche Abhängigkeit zusammengehalten.",
-      "anchor": "Das geheime Versteck macht Taws Leben zur Voraussetzung von Lomax’ Gewinn.",
       "interest": "Erfasst die Logik des abschließenden Machtwechsels.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das geheime Versteck macht Taws Leben zur Voraussetzung von Lomax’ Gewinn."
     },
     {
       "code": "Y",
@@ -174,11 +174,11 @@
       ],
       "short": "Die ersten Kinoaufführungen fanden 1967 statt.",
       "context": "Clair Huffakers Roman Badman erschien 1957. Die Filmfassung The War Wagon folgte 1967, zehn Jahre später, ebenfalls mit Huffaker als Drehbuchautor. AFI beschreibt einen früheren, nicht verwirklichten Adaptionsversuch und die spätere Produktion. Der zeitliche Zusammenhang unterscheidet deshalb den Erwerb und die Bearbeitung eines Stoffes von seiner tatsächlichen Kinofassung. Der erste Chicagoer Start lag vor den späteren Premieren in Dallas und Fort Worth, aber innerhalb desselben Jahres.",
-      "anchor": "1957 Badman, 1967 The War Wagon: zehn Jahre bis zum Film.",
       "interest": "Verbindet Erstjahr und konkrete Romanvorlage.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1957 Badman, 1967 The War Wagon: zehn Jahre bis zum Film."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Burt Kennedy führte Hauptregie.",
       "context": "Burt Kennedy ist der Hauptregisseur von The War Wagon. Cliff Lyons wird von AFI ausdrücklich als Regisseur der zweiten Einheit geführt. John Wayne spielt und ist Executive Producer; diese zusätzliche Funktion begründet keinen gemeinsamen Hauptregiecredit. Der Film benötigt die Abstimmung von Gruppenhandlungen, Wagenbewegungen, Gelände und Explosionen. Die getrennten Credits machen sichtbar, dass verschiedene Aufgaben während der Herstellung erfüllt werden, ohne die Hauptregie als beliebige Liste aller Beteiligten zu behandeln.",
-      "anchor": "Kennedy führt Hauptregie, Lyons die zweite Einheit.",
       "interest": "Grenzt Hauptregie und belegte zweite Einheit ab.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Kennedy führt Hauptregie, Lyons die zweite Einheit."
     }
   ]
 }

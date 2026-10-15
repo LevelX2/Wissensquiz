@@ -35,11 +35,11 @@
       ],
       "short": "Robin hat ihm bei der Flucht das Leben gerettet.",
       "context": "Robin (Kevin Costner) rettet Azeem (Morgan Freeman) bei der Flucht aus Gefangenschaft. Azeem folgt ihm, bis er die Hilfe erwidern kann. Die gemeinsame Reise gründet damit auf einer selbst gewählten Verpflichtung, die im späteren Kampf praktische Bedeutung erhält.",
-      "anchor": "Azeem reist wegen einer Lebensschuld mit.",
       "interest": "Das Motiv erklärt, warum ein Fremder Robins gefährlichen Weg teilt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Azeem reist wegen einer Lebensschuld mit."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Robins Gesetzlose berauben reiche Reisende und teilen die Beute mit Armen.",
       "context": "Robin (Kevin Costner) organisiert die Menschen im Sherwood Forest zu einer Gruppe, die dem Sheriff (Alan Rickman) Widerstand leistet. Ihre Überfälle versorgen verarmte Bewohner mit Geld und Nahrung. Diese Hilfe verschafft ihnen Rückhalt in der Bevölkerung und macht aus Robins persönlichem Konflikt eine gemeinschaftliche Rebellion.",
-      "anchor": "Robins Beute hilft den Armen.",
       "interest": "Das zentrale Handlungsprinzip verbindet Gesetzesbruch und soziale Hilfe.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Robins Beute hilft den Armen."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Will fühlt sich als Halbbruder zurückgesetzt.",
       "context": "Will Scarlet (Christian Slater) begegnet Robin (Kevin Costner) zunächst mit Misstrauen. Seine spätere Offenbarung legt eine alte familiäre Kränkung frei. Der Streit innerhalb der Gesetzlosen entsteht somit aus einer persönlichen Vorgeschichte und nicht aus einer einfachen Loyalität zum Sheriff.",
-      "anchor": "Wills Zorn wurzelt in der Familie.",
       "interest": "Die Enthüllung erklärt rückwirkend das Verhalten eines Verbündeten.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Wills Zorn wurzelt in der Familie."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Die Heirat soll ihre königliche Verwandtschaft nutzbar machen.",
       "context": "Marian (Mary Elizabeth Mastrantonio) ist mit König Richard verwandt. Der Sheriff (Alan Rickman) möchte diesen Zusammenhang politisch ausnutzen und setzt Gefangene als Druckmittel ein. Die erzwungene Hochzeit verbindet deshalb Gewalt gegen Einzelne mit seinem Versuch, die Ordnung des Landes zu übernehmen.",
-      "anchor": "Der Sheriff will durch Heirat nach oben.",
       "interest": "Das Heiratsmotiv wird als Machtinstrument verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Sheriff will durch Heirat nach oben."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Azeem rettet Robin vor Mortiannas Angriff.",
       "context": "Mortianna (Geraldine McEwan) bedroht Robin (Kevin Costner) im entscheidenden Kampf. Azeem (Morgan Freeman) greift ein und rettet ihn. Der Film schließt damit den Bogen zur gemeinsamen Flucht: Die einst empfangene Lebensrettung wird durch eine eigene Tat erwidert.",
-      "anchor": "Azeems Lebensschuld endet mit einer Lebensrettung.",
       "interest": "Eine konkrete Schlusstat beantwortet das Motiv des Anfangs.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Azeems Lebensschuld endet mit einer Lebensrettung."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Sein Pulver hilft bei der Befreiung.",
       "context": "Robin (Kevin Costner) und seine Verbündeten dringen in Nottingham ein, während Hinrichtungen drohen. Azeems (Morgan Freeman) Wissen liefert zusätzliche Mittel für die Rettung. Die Gruppe gewinnt nicht nur durch Schwertkampf: Unterschiedliche Fähigkeiten tragen zu ihrem gemeinsamen Erfolg bei.",
-      "anchor": "Azeems Wissen sprengt die Gefangenschaft.",
       "interest": "Der Beitrag eines Mitstreiters wird jenseits des Fechtkampfs erschlossen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Azeems Wissen sprengt die Gefangenschaft."
     },
     {
       "code": "Y",
@@ -173,13 +173,13 @@
       ],
       "short": "Die Costner-Fassung erschien 1991.",
       "context": "Kevin Costners Der mit dem Wolf tanzt erschien 1990; Robin Hood – König der Diebe folgte 1991, ein Jahr später. Costner wechselte damit von seinem eigenen Western als Regisseur und Hauptdarsteller zu einem europäischen Sagenhelden unter Kevin Reynolds’ Regie. Die benachbarten Jahre verbinden zwei große Kostümabenteuer, in denen derselbe Star eine Verbindung zu einer bedrohten Gemeinschaft aufbaut.",
-      "anchor": "1990 Costners Western – 1991 sein Robin Hood: ein Jahr Abstand.",
       "interest": "Der Fassungsvergleich verhindert die Verwechslung gleichzeitiger Filme.",
       "sources": [
         "handlung",
         "credit",
         "zeitanker"
-      ]
+      ],
+      "objective": "1990 Costners Western – 1991 sein Robin Hood: ein Jahr Abstand."
     },
     {
       "code": "D",
@@ -198,12 +198,12 @@
       ],
       "short": "Kevin Reynolds führte Regie.",
       "context": "Kevin Reynolds inszeniert die Reise von der Gefangenschaft zur Gemeinschaft im Sherwood Forest. Die Regieangabe gehört zur Costner-Fassung mit Morgan Freeman. Gerade bei einem oft verfilmten Helden muss der Credit über Besetzung und Untertitel eindeutig einer Produktion zugeordnet werden.",
-      "anchor": "Reynolds inszeniert Costners Robin Hood.",
       "interest": "Der Credit schützt vor Fassungsverwechslungen.",
       "sources": [
         "edition",
         "credit"
-      ]
+      ],
+      "objective": "Reynolds inszeniert Costners Robin Hood."
     }
   ]
 }

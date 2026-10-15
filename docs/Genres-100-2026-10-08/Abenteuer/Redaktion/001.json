@@ -31,11 +31,11 @@
       ],
       "short": "Blood ist Arzt und behandelt einen Verwundeten.",
       "context": "Peter Blood (Errol Flynn) gerät durch die Behandlung eines verletzten Rebellen in die politische Verfolgung. Sein Beruf steht zunächst für Hilfe unabhängig von der Seite eines Patienten. Die Verurteilung macht gerade diesen Dienst am Menschen zum Ausgangspunkt seiner Flucht.",
-      "anchor": "Arzt hilft – Staat bestraft.",
       "interest": "Der ursprüngliche Beruf erklärt den moralischen Konflikt des Abenteuerhelden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Arzt hilft – Staat bestraft."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Ein spanischer Angriff bietet die Gelegenheit zur Kaperung.",
       "context": "Die Flucht gelingt Peter Blood (Errol Flynn), weil ein Angriff die koloniale Ordnung kurz außer Kraft setzt. Die Gefangenen nutzen das Durcheinander und gewinnen mit dem Schiff auch ein neues gemeinsames Leben. So beginnt ihre Karriere als Freibeuter.",
-      "anchor": "Angriff auf Port Royal – Flucht auf spanischem Schiff.",
       "interest": "Die Flucht verbindet äußere Gefahr mit der Entstehung der Piratengemeinschaft.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Angriff auf Port Royal – Flucht auf spanischem Schiff."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Blood löst Arabella aus und stellt sich Levasseur im Duell.",
       "context": "Arabella Bishop (Olivia de Havilland) fällt dem Freibeuter Levasseur (Basil Rathbone) in die Hände. Peter Blood (Errol Flynn) kauft sie zunächst frei; als Levasseur die Vereinbarung missachtet, folgt ein Duell. Die Szene trennt Bloods Ehrenkodex von bloßer Beutegier.",
-      "anchor": "Blood schützt Arabella vor Levasseur.",
       "interest": "Das Duell zeigt, wodurch sich Blood innerhalb der Piratenwelt unterscheidet.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Blood schützt Arabella vor Levasseur."
     },
     {
       "code": "M2",
@@ -100,11 +100,11 @@
       ],
       "short": "Der Herrscherwechsel und die Begnadigung ändern die Lage.",
       "context": "Lord Willoughby (Henry Stephenson) berichtet Peter Blood (Errol Flynn) vom Sturz Jakobs II. und dem Angebot des neuen Königs. Die Mannschaft muss damit nicht mehr für den Herrscher kämpfen, der sie versklavt hat. Das politische Unrecht am Anfang erhält eine neue Antwort.",
-      "anchor": "Neuer König – neue Entscheidung.",
       "interest": "Die Entscheidung folgt einem veränderten politischen Verhältnis, nicht bloßer Abenteuerlust.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Neuer König – neue Entscheidung."
     },
     {
       "code": "S1",
@@ -123,11 +123,11 @@
       ],
       "short": "Die Vorlage stammt von Rafael Sabatini.",
       "context": "Rafael Sabatini verbindet im Roman historische Machtkämpfe mit einem erfundenen Arzt und Freibeuter. Die Verfilmung gibt diesem Stoff das Gesicht Peter Bloods (Errol Flynn). Literatur und Starpersona treffen damit in einem prägenden Mantel-und-Degen-Abenteuer zusammen.",
-      "anchor": "Sabatini schreibt Bloods Abenteuer.",
       "interest": "Die Vorlage ordnet das Werk innerhalb der Abenteuerliteratur ein.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Sabatini schreibt Bloods Abenteuer."
     },
     {
       "code": "S2",
@@ -146,11 +146,11 @@
       ],
       "short": "AFI nennt Miniaturen, Prozessaufnahmen und Material aus The Sea Hawk von 1924.",
       "context": "Die Größe der Seeschlacht entsteht aus zusammengesetzten Bildern. Miniaturen und Prozessaufnahmen ergänzen Material aus dem älteren „The Sea Hawk“. Das Beispiel macht sichtbar, dass eindrucksvolle Abenteuerbilder schon im Studiokino aus mehreren technischen und historischen Schichten bestehen konnten.",
-      "anchor": "Große Seeschlacht aus kleinen Modellen und älteren Bildern.",
       "interest": "Der belegte Trickaufbau erklärt die Wirkung des Studioabenteuers.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Große Seeschlacht aus kleinen Modellen und älteren Bildern."
     },
     {
       "code": "Y",
@@ -169,12 +169,12 @@
       ],
       "short": "Der Film erschien erstmals 1935.",
       "context": "1935 beginnt die Filmzusammenarbeit von Errol Flynn und Olivia de Havilland. Drei Jahre später stehen beide auch in „Robin Hood, König der Vagabunden“ vor der Kamera. Dieser Abstand verbindet zwei zentrale Abenteuerklassiker und hilft, den früheren Piratenfilm zeitlich einzuordnen.",
-      "anchor": "1935 Blood – drei Jahre später Robin Hood.",
       "interest": "Ein verwandter Klassiker liefert einen konkreten zeitlichen Erinnerungsanker.",
       "sources": [
         "handlung",
         "einordnung"
-      ]
+      ],
+      "objective": "1935 Blood – drei Jahre später Robin Hood."
     },
     {
       "code": "D",
@@ -193,11 +193,11 @@
       ],
       "short": "Michael Curtiz führte Regie.",
       "context": "Michael Curtiz setzt die Handlung zwischen medizinischem Pflichtgefühl, kolonialer Willkür und Freibeutertum in Szene. Die Verfilmung wurde zugleich ein entscheidender Karriereschritt für Errol Flynn. Der Regiecredit gehört zu Curtiz; die literarische Vorlage und das Drehbuch sind davon getrennte Leistungen.",
-      "anchor": "Curtiz führt Blood ins Abenteuer.",
       "interest": "Die Regieleistung wird mit dem konkreten Start der Abenteuerkarriere verbunden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Curtiz führt Blood ins Abenteuer."
     }
   ]
 }

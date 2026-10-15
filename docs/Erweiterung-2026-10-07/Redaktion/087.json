@@ -38,12 +38,12 @@
       ],
       "short": "Trent arbeitet als Versicherungsdetektiv.",
       "context": "John Trent (Sam Neill) ist daran gewöhnt, Täuschungen zu erkennen. Der Verlagsauftrag nutzt genau diese Haltung. Seine professionelle Skepsis bildet zunächst eine Stärke, wird jedoch zunehmend zu einer Grenze: Er hält lange an einer inszenierten Erklärung fest, obwohl die Ereignisse seine gewohnten Voraussetzungen untergraben.",
-      "anchor": "Der Betrugsermittler bringt eine skeptische Sicht in eine unzuverlässige Welt.",
       "interest": "Erklärt den beruflichen Ursprung der entscheidenden Haltung des Helden.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Betrugsermittler bringt eine skeptische Sicht in eine unzuverlässige Welt."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Er soll den verschwundenen Sutter Cane finden.",
       "context": "Sutter Cane (Jürgen Prochnow) verschwindet vor dem Erscheinen seines neuen Romans. Der Verlag schickt Trent (Sam Neill) auf die Suche. Der wirtschaftlich vertraute Auftrag führt ihn aus der überprüfbaren Verlagswelt in einen Ort, dessen Gestalt sich bereits in den Büchern finden lässt.",
-      "anchor": "Die Suche nach dem Autor führt aus dem Verlag in dessen erzählte Welt.",
       "interest": "Zeigt die Bewegung vom konkreten Auftrag in die fantastische Bedrohung.",
       "sources": [
         "regisseur"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Suche nach dem Autor führt aus dem Verlag in dessen erzählte Welt."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Die Umschlagbilder bilden zusammengesetzt eine Karte.",
       "context": "Trent (Sam Neill) betrachtet die Umschläge nicht nur als Werbung, sondern als zusammengehörige Bildinformationen. Die Karte weist auf Hobb’s End. Bereits dieser Fund verschiebt die Funktion der Bücher: Ihre äußere Gestaltung liefert einen Zugang zu einer Welt, deren Existenz er zunächst für unmöglich hält.",
-      "anchor": "Zusammengesetzte Buchumschläge werden zur Karte nach Hobb’s End.",
       "interest": "Verbindet grafische Gestaltung mit dem konkreten Fortgang der Suche.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zusammengesetzte Buchumschläge werden zur Karte nach Hobb’s End."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Sein Betrugsverdacht richtet sich auf eine Verkaufsaktion des Verlags.",
       "context": "Trent (Sam Neill) deutet Canes Verschwinden zunächst als Werbung. Linda Styles (Julie Carmen) begleitet ihn als Lektorin. Die plausible Annahme hilft ihm, einzelne Auffälligkeiten zu erklären. Gerade ihre Plausibilität hält ihn aber davon ab, früh zu akzeptieren, dass die Ursache außerhalb dieses gewöhnlichen Geschäftsmodells liegen könnte.",
-      "anchor": "Der vermutete Werbetrick hält Trent an einer vertrauten Erklärung fest.",
       "interest": "Zeigt, wie ein beruflich plausibles Modell neue Beobachtungen verzerren kann.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der vermutete Werbetrick hält Trent an einer vertrauten Erklärung fest."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Cane erklärt die Wirklichkeit mit der Macht des massenhaften Glaubens.",
       "context": "Cane (Jürgen Prochnow) behauptet, dass die große Zahl gläubiger Leser die Wirklichkeit seiner Texte trägt. Trent (Sam Neill) soll selbst eine geschriebene Figur sein. Die Behauptung greift damit seine stärkste Sicherheit an: Er kann nicht mehr voraussetzen, unabhängig von der Erzählung zu urteilen.",
-      "anchor": "Canes Leser machen seine Erzählung zur Welt, in der Trent urteilt.",
       "interest": "Erklärt die Bedrohung für die Unabhängigkeit des Helden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Canes Leser machen seine Erzählung zur Welt, in der Trent urteilt."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Der Film auf der Leinwand wiederholt seine eigene Geschichte.",
       "context": "Trent (Sam Neill) sieht seine Geschichte als Kinofilm und beginnt hysterisch zu lachen. Seine Versuche, eine unabhängige Wirklichkeit festzuhalten, erscheinen nun selbst als Teil eines fertigen Werks. Das Kino bildet deshalb keine sichere Außenposition; es zeigt ihm die Erzählung, aus der er nicht herauskam.",
-      "anchor": "Die Kinoleinwand macht Trents eigenes Erleben zum fertigen Film.",
       "interest": "Verknüpft das Medium im Finale mit dem verlorenen Außenstandpunkt des Helden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Kinoleinwand macht Trents eigenes Erleben zum fertigen Film."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "Die Festival-Weltpremiere war 1994; der US-Kinostart folgte 1995.",
       "context": "Prince of Darkness erschien 1987. Die Mächte des Wahnsinns wurde beim Fantasy Filmfest am 10. August 1994 als Weltpremiere gezeigt, sieben Jahre später. Der US-Kinostart folgte erst am 3. Februar 1995. Der Festivalnachweis verhindert, dass das spätere, oft genannte US-Jahr zur ersten Veröffentlichung wird.",
-      "anchor": "1987 Prince of Darkness, 1994 Weltpremiere, 1995 US-Kinostart.",
       "interest": "Verankert das Jahr in einem früheren Film und klärt die belegte Jahresabweichung.",
       "sources": [
         "programm",
         "vorfilm",
         "regisseur"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1987 Prince of Darkness, 1994 Weltpremiere, 1995 US-Kinostart."
     },
     {
       "code": "D",
@@ -208,12 +208,12 @@
       ],
       "short": "John Carpenter inszenierte den Film.",
       "context": "John Carpenter führte Regie und komponierte die Musik gemeinsam mit Jim Lang. Michael De Luca schrieb das Drehbuch, Sandy King produzierte. Die Verbindung von filmischer Inszenierung und eigener Musikarbeit gehört hier zu Carpenters belegten Aufgaben, während die erzählte Verlagswelt aus einem Drehbuch eines anderen Autors stammt.",
-      "anchor": "Carpenter führt Regie und komponiert; De Luca schreibt das Drehbuch.",
       "interest": "Unterscheidet die konkreten kreativen Aufgaben in diesem Filmteam.",
       "sources": [
         "regisseur"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Carpenter führt Regie und komponiert; De Luca schreibt das Drehbuch."
     }
   ]
 }

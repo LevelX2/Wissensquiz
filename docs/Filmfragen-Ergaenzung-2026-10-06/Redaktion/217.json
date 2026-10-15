@@ -37,12 +37,12 @@
       ],
       "short": "Hae-mi (Jeon Jong-seo) bittet Jong-su (Yoo Ah-in), ihre Katze während der Afrikareise zu füttern.",
       "context": "Hae-mi (Jeon Jong-seo) bittet Jong-su (Yoo Ah-in), ihre Katze während der Afrikareise zu füttern. Obwohl er das Tier zunächst nie sieht, werden Wohnung und Katze später zu wichtigen Spuren.",
-      "anchor": "Die unsichtbare Katze wird später zur sichtbaren Spur.",
       "interest": "Die unsichtbare Katze wird später zur sichtbaren Spur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die unsichtbare Katze wird später zur sichtbaren Spur."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ben (Steven Yeun) fährt einen Porsche und lebt in einer wohlhabenden Gegend Seouls.",
       "context": "Ben (Steven Yeun) fährt einen Porsche und lebt in einer wohlhabenden Gegend Seouls. Jong-su (Yoo Ah-in) übernimmt dagegen den Hof seines Vaters; Bens nicht erklärter Wohlstand verschärft den sozialen Abstand.",
-      "anchor": "Bens unerklärter Wohlstand macht den sozialen Abstand zum Rätsel.",
       "interest": "Bens unerklärter Wohlstand macht den sozialen Abstand zum Rätsel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bens unerklärter Wohlstand macht den sozialen Abstand zum Rätsel."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Ben (Steven Yeun) behauptet, alle zwei Monate ein verlassenes Gewächshaus anzuzünden.",
       "context": "Ben (Steven Yeun) behauptet, alle zwei Monate ein verlassenes Gewächshaus anzuzünden. Jong-su (Yoo Ah-in) überwacht daraufhin die Umgebung seines Hofs und verbindet die Aussage später mit Hae-mis Verschwinden.",
-      "anchor": "Die Gewächshäuser lenken Jong-sus Suche und Verdacht.",
       "interest": "Die Gewächshäuser lenken Jong-sus Suche und Verdacht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gewächshäuser lenken Jong-sus Suche und Verdacht."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Jong-su (Yoo Ah-in) findet Frauenschmuck und eine rosa Uhr wie das Geschenk an Hae-mi (Jeon Jong-seo).",
       "context": "Jong-su (Yoo Ah-in) findet Frauenschmuck und eine rosa Uhr wie das Geschenk an Hae-mi (Jeon Jong-seo). Die Gegenstände nähren seinen Verdacht, liefern aber keine vollständige Erklärung ihres Verschwindens.",
-      "anchor": "Die rosa Uhr verbindet Bens Wohnung mit Jong-sus Erinnerung.",
       "interest": "Die rosa Uhr verbindet Bens Wohnung mit Jong-sus Erinnerung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die rosa Uhr verbindet Bens Wohnung mit Jong-sus Erinnerung."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Bens Katze reagiert auf den Namen Boil, den Jong-su (Yoo Ah-in) von Hae-mi kennt.",
       "context": "Bens Katze reagiert auf den Namen Boil, den Jong-su (Yoo Ah-in) von Hae-mi kennt. Der Wiedererkennungsmoment ergänzt die Uhr als Indiz, ohne eine Tat unmittelbar zu zeigen.",
-      "anchor": "Die Reaktion auf den Namen macht aus einem Haustier ein Indiz.",
       "interest": "Die Reaktion auf den Namen macht aus einem Haustier ein Indiz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Reaktion auf den Namen macht aus einem Haustier ein Indiz."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Jong-su (Yoo Ah-in) behauptet am Telefon, er sei mit Hae-mi zusammen.",
       "context": "Jong-su (Yoo Ah-in) behauptet am Telefon, er sei mit Hae-mi zusammen. Ben (Steven Yeun) kommt in die ländliche Gegend, wo Jong-su ihn tötet; die Täuschung ersetzt eine gesicherte Aufklärung.",
-      "anchor": "Jong-su macht die Vermisste zum Vorwand für eine tödliche Begegnung.",
       "interest": "Jong-su macht die Vermisste zum Vorwand für eine tödliche Begegnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jong-su macht die Vermisste zum Vorwand für eine tödliche Begegnung."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2018 erschien der Film.",
       "context": "2018 erschien der Film. Die Dreharbeiten begannen im September 2017 und endeten im Januar 2018; die Geschichte gegenwärtiger junger Menschen kam noch im selben Jahr nach Cannes.",
-      "anchor": "Drehbeginn 2017, Abschluss und Film 2018: Die Arbeit in Paju führt im nächsten Jahr nach Cannes.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Drehbeginn 2017, Abschluss und Film 2018: Die Arbeit in Paju führt im nächsten Jahr nach Cannes."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Lee Chang-dong führte Regie und schrieb mit Oh Jung-mi das Drehbuch.",
       "context": "Lee Chang-dong führte Regie und schrieb mit Oh Jung-mi das Drehbuch. Murakamis kurze Erzählung wird zu einer langen Untersuchung von sozialem Abstand und unsicheren Wahrnehmungen.",
-      "anchor": "Lee Chang-dong führte Regie und schrieb mit Oh Jung-mi das Drehbuch.",
       "interest": "Lee Chang-dong führte Regie und schrieb mit Oh Jung-mi das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Lee Chang-dong führte Regie und schrieb mit Oh Jung-mi das Drehbuch."
     }
   ]
 }

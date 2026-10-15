@@ -1,5 +1,6 @@
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
+import Papa from "papaparse";
 import { packages } from "../src/packages";
 import { fingerprint, importCsv } from "../src/importer";
 import { filmDetails } from "../src/filmDetails";
@@ -16,15 +17,27 @@ const reviewedPackages = packages.filter((p) =>
     "Fantasy_Quiz_180_Fragen.csv",
   ].includes(p.filename),
 );
-const questions = reviewedPackages.flatMap(
-  (p) =>
-    importCsv(
-      catalogBeforeReview(
-        `public${p.path}`,
-        readFileSync(`public${p.path}`, "utf8"),
-      ),
-    ).questions,
-);
+const originalVersions = new Map<string, string>();
+const questions = reviewedPackages.flatMap((p) => {
+  const text = catalogBeforeReview(
+    `public${p.path}`,
+    readFileSync(`public${p.path}`, "utf8"),
+  );
+  const rows = Papa.parse<Record<string, string>>(text, {
+    header: true,
+    skipEmptyLines: "greedy",
+  }).data;
+  for (const row of rows) {
+    const original = Object.fromEntries(
+      Object.entries(row).map(([key, value]) => [key, value.trim()]),
+    );
+    originalVersions.set(
+      row.question_id,
+      `csv-${fingerprint(JSON.stringify(original))}`,
+    );
+  }
+  return importCsv(text).questions;
+});
 const reviewed = audit.questions as Record<
   string,
   (typeof audit.questions)["HOR-L-045"]
@@ -37,7 +50,7 @@ it("deckt alle 720 Originalfragen versionsgenau ab und erhält deren Inhalt", ()
   expect(Object.keys(audit.films)).toHaveLength(125);
   for (const q of questions) {
     const entry = reviewed[q.id];
-    expect(entry.version, q.id).toBe(q.version);
+    expect(entry.version, q.id).toBe(originalVersions.get(q.id));
     expect(entry.content, q.id).toBe(
       fingerprint(JSON.stringify([q.question, q.explanation, q.context])),
     );

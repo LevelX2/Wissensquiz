@@ -45,13 +45,13 @@
       ],
       "short": "Die Neuverfilmung macht Bowden zum früheren Verteidiger Cadys.",
       "context": "Max Cady (Robert De Niro) verfolgt seinen früheren Pflichtverteidiger Sam Bowden (Nick Nolte). Diese Beziehung verändert den Grundkonflikt des Originals: Bowden steht nicht nur für eine richtige Zeugenaussage, sondern hat im Verfahren selbst eine berufliche Pflicht verletzt. Cadys Rache bleibt verbrecherisch, trifft jedoch einen tatsächlich angreifbaren Gegner.",
-      "anchor": "Im Remake ist der Verfolgte Cadys früherer Pflichtverteidiger.",
       "interest": "Die Ausgangsbeziehung erklärt den moralisch veränderten Konflikt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Im Remake ist der Verfolgte Cadys früherer Pflichtverteidiger."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Die Lehrerrolle verschafft ihm ein Treffen im Theaterraum.",
       "context": "Cady (Robert De Niro) nutzt Danielle Bowdens (Juliette Lewis) Wunsch nach Aufmerksamkeit und Verständnis. Die angenommene Lehrerrolle schafft einen zunächst plausiblen Kontakt. Das Gespräch bedroht den Schutzraum der Familie, weil er eine bestehende Unsicherheit ihrer Tochter für seine eigenen Ziele verwendet, statt nur durch offene Gewalt aufzutreten.",
-      "anchor": "Die falsche Lehrerrolle führt Cady an Danielle heran.",
       "interest": "Die Szene erklärt Manipulation über vorgetäuschte Aufmerksamkeit.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die falsche Lehrerrolle führt Cady an Danielle heran."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Der verschwiegene Bericht hätte die Verteidigung beeinflussen können.",
       "context": "Sam Bowden (Nick Nolte) war von Cadys (Robert De Niro) Tat so abgestoßen, dass er einen für die Verteidigung möglicherweise günstigen Bericht unterdrückte. Cady entdeckt dies während seiner Haft. Der Film stellt damit keine Unschuld des Täters her, sondern einen Pflichtverstoß des Anwalts, den der Verfolger als Rechtfertigung seines eigenen Terrors benutzt.",
-      "anchor": "Ein unterdrückter Bericht macht Bowden als Verteidiger angreifbar.",
       "interest": "Die Frage trennt Täterschuld von der eigenständigen beruflichen Pflichtverletzung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein unterdrückter Bericht macht Bowden als Verteidiger angreifbar."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Die Aufnahme stützt seine rechtlichen Schritte gegen Bowden.",
       "context": "Sam Bowden (Nick Nolte) warnt Max Cady (Robert De Niro) vor Gewalt und lässt ihn anschließend angreifen. Cady hat die Warnung aufgezeichnet. So entsteht aus Bowdens Versuch, ihn zu vertreiben, ein Beweis gegen den Verfolgten. Der Täter verwendet juristische Verfahren nicht zur Aufklärung, sondern als zusätzlichen Schutz für seine fortgesetzte Bedrohung.",
-      "anchor": "Die aufgezeichnete Drohung wird zur rechtlichen Waffe gegen Bowden.",
       "interest": "Die Wendung zeigt die Verbindung von Gewalt und kalkulierter Verfahrensnutzung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die aufgezeichnete Drohung wird zur rechtlichen Waffe gegen Bowden."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Die versteckte Mitfahrt am Fahrzeug bringt ihn mit der Familie zum Boot.",
       "context": "Die Bowdens fliehen nach den Tötungen im Haus zum Boot. Max Cady (Robert De Niro) hat sich jedoch an ihrem Fahrzeug verborgen. Der Fluchtweg transportiert den Verfolger selbst mit. Damit scheitert die Vorstellung, allein durch den Wechsel an einen abgelegenen Ort könne die Familie wieder einen sicheren Abstand gewinnen.",
-      "anchor": "Der Verfolger reist im Versteck unter dem Fluchtwagen mit.",
       "interest": "Der Zusammenhang erklärt, warum die scheinbar sichere Flucht unmittelbar ins Finale führt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Verfolger reist im Versteck unter dem Fluchtwagen mit."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Das entzündete Benzin zwingt ihn zunächst ins Wasser.",
       "context": "Max Cady (Robert De Niro) hat die Familie an Bord unter seine Gewalt gebracht. Danielle (Juliette Lewis) nutzt den Moment, in dem er seine Zigarre entzündet, für das Feuerzeugbenzin. Die Attacke verschafft eine kurze Unterbrechung, beendet aber die Gefahr nicht: Der verletzte Cady kehrt zurück, bevor das zerbrechende Boot ihn schließlich mitreißt.",
-      "anchor": "Die Zigarre eröffnet Danielle einen kurzen Moment körperlicher Gegenwehr.",
       "interest": "Die Szene zeigt die konkrete Initiative der zuvor manipulierten Tochter.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Zigarre eröffnet Danielle einen kurzen Moment körperlicher Gegenwehr."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1991.",
       "context": "Kap der Angst wurde 1991 veröffentlicht, 29 Jahre nach dem Original von 1962. Gregory Peck und Robert Mitchum spielen erneut mit, aber nicht wieder den Anwalt und dessen Verfolger. Peck ist nun Cadys Anwalt, Mitchum ein Polizeiermittler. Die zeitliche Verbindung ist deshalb zugleich ein bewusstes Spiel mit der Erinnerung an die frühere Besetzung.",
-      "anchor": "Original 1962 → Scorseses Remake 1991: 29 Jahre; die früheren Hauptdarsteller wechseln die Rollen.",
       "interest": "Die Verbindung erklärt die Bedeutung der Gastauftritte und trennt die Fassungen.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Original 1962 → Scorseses Remake 1991: 29 Jahre; die früheren Hauptdarsteller wechseln die Rollen."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "Martin Scorsese führte bei diesem Film Regie.",
       "context": "Martin Scorsese inszenierte Wesley Stricks Drehbuch und arbeitete erneut mit Robert De Niro. Der Film war seine erste Arbeit im breiten Scope-Format 2,35:1. Die Familie erscheint nicht als ungebrochen harmonischer Gegenpol: Sam Bowden (Nick Nolte) ist durch sein früheres Fehlverhalten angreifbar, sodass Verfolgung und verschwiegenes Familienmisstrauen ineinandergreifen.",
-      "anchor": "Scorseses erster Scope-Film verbindet Cadys Terror mit Bowdens eigener Schuld.",
       "interest": "Der Produktionshintergrund führt vom Regiecredit zur veränderten Perspektive des Remakes.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Scorseses erster Scope-Film verbindet Cadys Terror mit Bowdens eigener Schuld."
     }
   ]
 }

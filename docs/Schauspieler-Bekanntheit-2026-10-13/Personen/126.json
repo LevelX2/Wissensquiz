@@ -21,7 +21,6 @@
       "correct": 0,
       "short": "Cesare ist ein Schlafwandler.",
       "context": "Dr. Caligari (Werner Krauß) präsentiert ihn als Jahrmarktsattraktion, die die Zukunft vorhersagen soll. Die unheimliche Verbindung zwischen dem Schausteller und dem willenlosen Cesare gehört zum Zentrum der Mordgeschichte.",
-      "anchor": "Cesare ist Caligaris somnambuler Gehilfe.",
       "interest": "Eine zentrale Figur des expressionistischen Kinos wiedererkennen.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30"
-      ]
+      ],
+      "objective": "Cesare ist Caligaris somnambuler Gehilfe."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 1,
       "short": "Strasser ist ein deutscher Major.",
       "context": "Er vertritt die nationalsozialistische Macht, die den Widerstandskämpfer Victor Laszlo (Paul Henreid) festsetzen möchte. Veidt, selbst ein Gegner des Regimes, verkörperte im Exil wiederholt deutsche Täterfiguren.",
-      "anchor": "Veidt spielt den deutschen Major, der Laszlo aufhalten will.",
       "interest": "Darsteller und politische Funktion seiner Filmfigur unterscheiden.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30"
-      ]
+      ],
+      "objective": "Veidt spielt den deutschen Major, der Laszlo aufhalten will."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 2,
       "short": "Er glaubt, mit den transplantierten Händen auch die Gewaltneigung ihres früheren Besitzers erhalten zu haben.",
       "context": "Nach einem Unfall soll die Operation Orlacs musikalische Existenz retten. Doch seine Kunst kehrt nicht zurück; Drohungen verstärken seine Angst. Als sein Vater getötet wird, gerät er unter Verdacht und zweifelt selbst an seiner Unschuld.",
-      "anchor": "Orlac verwechselt transplantierte Hände mit übertragener Schuld.",
       "interest": "Die psychologische Angst hinter einem frühen Körperhorrorfilm verstehen.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/orlacs-haende_d7d072b79116451394a3a7d36b497916"
-      ]
+      ],
+      "objective": "Orlac verwechselt transplantierte Hände mit übertragener Schuld."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 1,
       "short": "Der Erpresser droht, Körners Homosexualität anzuzeigen.",
       "context": "Körner wehrt sich mit einer Anzeige gegen den Erpresser. Der damalige § 175 führt aber auch zu seiner eigenen Verurteilung; der Film zeigt, wie die Strafbarkeit gleichgeschlechtlicher Beziehungen Erpressung begünstigt und das Leben des Musikers zerstört.",
-      "anchor": "Die gesetzliche Verfolgung ermöglicht Körners Erpressung.",
       "interest": "Den gesellschaftlichen Konflikt einer frühen queeren Filmrolle erfassen.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/anders-als-die-andern_825fa647845a4ece8ac65a580b3387ee"
-      ]
+      ],
+      "objective": "Die gesetzliche Verfolgung ermöglicht Körners Erpressung."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 3,
       "short": "Er spielt den amerikanischen Buchhändler Otto Becker und dessen Zwillingsbruder, den deutschen Konsul Hugo von Detner.",
       "context": "Der vor den Nationalsozialisten geflohene Otto soll seinen Laden für Spione zur Verfügung stellen. Nach dem Tod Hugos nimmt er dessen Identität an und versucht, aus dem gegnerischen Netzwerk heraus Sabotage zu verhindern.",
-      "anchor": "Zwei Brüder, zwei politische Seiten, ein Identitätswechsel.",
       "interest": "Doppelrolle und Verkleidung innerhalb derselben Spionagehandlung unterscheiden.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/27372-NAZI-AGENT"
-      ]
+      ],
+      "objective": "Zwei Brüder, zwei politische Seiten, ein Identitätswechsel."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 0,
       "short": "Sein Gesicht wurde als Kind auf königlichen Befehl chirurgisch entstellt.",
       "context": "Die grausame Strafe galt seinem Vater, einem Gegner des Königs. Gwynplaine verdient später als Schausteller seinen Lebensunterhalt; sein lächelndes Gesicht drückt deshalb nicht sein inneres Empfinden aus, sondern eine ihm angetane Verletzung.",
-      "anchor": "Gwynplaines Grinsen ist eine erzwungene Maske.",
       "interest": "Äußeren Ausdruck und Gefühl in einer berühmten Stummfilmgestaltung unterscheiden.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/10606-THE-MAN-WHO-LAUGHS"
-      ]
+      ],
+      "objective": "Gwynplaines Grinsen ist eine erzwungene Maske."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 2,
       "short": "Mendes verfilmte Lion Feuchtwangers Roman.",
       "context": "Die britische Adaption entstand mit Veidt im Exil und gilt dem jüdischen Protagonisten mit Sympathie. Der historische Stoff erlaubte zugleich Anspielungen auf die Verfolgung unter den Nationalsozialisten; diese Fassung ist von Harlans späterem antisemitischem Propagandafilm zu unterscheiden.",
-      "anchor": "Mendes und Veidt verfilmten Feuchtwangers „Jud Süß“.",
       "interest": "Literarische Vorlage und politische Ausrichtung einer Exilproduktion verbinden.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       "extraSources": [
         "https://replay.bfi.org.uk/video/e6b25b27-5d06-5c1a-abfe-acb8698454d8",
         "https://catalog.afi.com/Film/8717-POWER"
-      ]
+      ],
+      "objective": "Mendes und Veidt verfilmten Feuchtwangers „Jud Süß“."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 3,
       "short": "Veidts Rolle wurde aus der deutschen Fassung entfernt.",
       "context": "Der deutsche Kinostart erfolgte mit einer stark veränderten Bearbeitung. Major Strasser fehlte darin vollständig; erst eine spätere Neufassung machte Veidts Auftritt wieder für das deutsche Publikum sichtbar.",
-      "anchor": "Der deutsche „Casablanca“-Start fand ohne Veidts Strasser statt.",
       "interest": "Die Wirkung einer nachträglichen nationalen Filmbearbeitung erkennen.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/person/conrad-veidt_b591556003274a50a97caba1e0536c30"
-      ]
+      ],
+      "objective": "Der deutsche „Casablanca“-Start fand ohne Veidts Strasser statt."
     }
   ]
 }

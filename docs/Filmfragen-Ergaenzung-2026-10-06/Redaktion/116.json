@@ -33,13 +33,13 @@
       ],
       "short": "Sie sind in derselben Hochzeitsfeier am 9. November gefangen.",
       "context": "Nyles (Andy Samberg) kennt den Wiederholungstag bereits, bevor Sarah (Cristin Milioti) hineingerät. Die Hochzeit bleibt der feste Rahmen, während sie unterschiedliche Verhaltensweisen ausprobieren. Gerade weil die äußeren Ereignisse zurückgesetzt werden, bekommen ihre Erinnerungen und ihre wachsende Beziehung einen besonderen Stellenwert.",
-      "anchor": "Der Tag wird zurückgesetzt, ihre Erfahrungen bleiben.",
       "interest": "Der Tag wird zurückgesetzt, ihre Erfahrungen bleiben.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Tag wird zurückgesetzt, ihre Erfahrungen bleiben."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Sarah folgt dem verletzten Nyles in die Höhle.",
       "context": "Nyles (Andy Samberg) wird in der Wüste von einem Pfeil getroffen und flüchtet in eine Höhle. Trotz seiner Warnung folgt Sarah (Cristin Milioti) ihm und wird in den Zeitwirbel gezogen. Ihr Eintritt entspringt also einer konkreten Begegnung und Sorge, keiner bewussten Entscheidung, den Hochzeitstag immer wieder zu erleben.",
-      "anchor": "Die Hilfe für Nyles führt Sarah in den Zeitwirbel.",
       "interest": "Die Hilfe für Nyles führt Sarah in den Zeitwirbel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Hilfe für Nyles führt Sarah in den Zeitwirbel."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Auch der Tod führt nur zum erneuten Erwachen am gleichen Tag.",
       "context": "Sarah (Cristin Milioti) probiert, die Bedingungen der Schleife zu verändern. Nyles (Andy Samberg) kennt die Regel schon: Schlaf und Tod lösen denselben Neustart aus. Das verhindert einen einfachen Fluchtweg und macht die Frage nach einem tatsächlichen Übergang aus der Schleife wichtiger als das bloße Überstehen eines einzelnen Tages.",
-      "anchor": "Sterben ist in der Schleife ein Neustart und kein Ausgang.",
       "interest": "Sterben ist in der Schleife ein Neustart und kein Ausgang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sterben ist in der Schleife ein Neustart und kein Ausgang."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Roy macht Nyles für seine Gefangenschaft in der Schleife verantwortlich.",
       "context": "Roy (J. K. Simmons) kann sein früheres Leben nicht wieder erreichen, nachdem Nyles (Andy Samberg) ihn in den Zeitwirbel gebracht hat. Er rächt sich an ihm mit wiederholten Angriffen. Die Unsterblichkeit nimmt dem Schmerz nicht die Bedeutung; eine spätere Verletzung lässt Roy die Leiden seines Opfers neu verstehen.",
-      "anchor": "Roy rächt den Verlust seiner Zukunft durch wiederholten Schmerz.",
       "interest": "Roy rächt den Verlust seiner Zukunft durch wiederholten Schmerz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Roy rächt den Verlust seiner Zukunft durch wiederholten Schmerz."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Sarah nutzt die Wiederholungen zum Physikstudium und entwickelt einen Plan für die Höhle.",
       "context": "Sarah (Cristin Milioti) verlässt die bloße gemeinsame Vergnügung mit Nyles (Andy Samberg) und lernt Quantenphysik sowie Relativitätstheorie. Experimente führen sie zu einem Explosionsversuch im Zeitwirbel. Der Film stellt dadurch zwei Antworten auf Stillstand gegenüber: resigniertes Einrichten oder der mühsame Aufbau von Wissen für einen möglichen Ausweg.",
-      "anchor": "Sarah macht aus endloser Zeit eine Lernzeit für den Ausstieg.",
       "interest": "Sarah macht aus endloser Zeit eine Lernzeit für den Ausstieg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sarah macht aus endloser Zeit eine Lernzeit für den Ausstieg."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Der nun nicht mehr gefangene Nyles kennt Roy nicht.",
       "context": "Roy (J. K. Simmons) spricht Nyles (Andy Samberg) auf Sarahs Plan an. Doch der Nyles dieses Tages erkennt ihn nicht, anders als der erinnernde Schleifen-Nyles zuvor. Roy versteht daraus, dass das Paar entkommen sein muss. Eine veränderte soziale Reaktion liefert die Bestätigung, statt ein technisches Diagramm über den Zeitwirbel zu zeigen.",
-      "anchor": "Der unbekannte Roy verrät den Ausstieg des erinnernden Nyles.",
       "interest": "Der unbekannte Roy verrät den Ausstieg des erinnernden Nyles.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der unbekannte Roy verrät den Ausstieg des erinnernden Nyles."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2020.",
       "context": "Palm Springs wurde 2020 in Sundance erstmals gezeigt. Und täglich grüßt das Murmeltier von 1993 war 27 Jahre früher ein wichtiges Vorbild für die romantische Zeitschleifenkomödie. Palm Springs verändert diesen Ausgangspunkt: Nyles erlebt Wiederholungen schon vor Sarahs Einstieg, sodass nicht beide gleichzeitig die Regeln entdecken.",
-      "anchor": "Murmeltier 1993, Palm Springs 2020: 27 Jahre später kennt einer die Zeitschleife schon.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Murmeltier 1993, Palm Springs 2020: 27 Jahre später kennt einer die Zeitschleife schon.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Murmeltier 1993, Palm Springs 2020: 27 Jahre später kennt einer die Zeitschleife schon."
     },
     {
       "code": "D",
@@ -203,14 +203,14 @@
       ],
       "short": "Der Regiecredit lautet Max Barbakow.",
       "context": "Max Barbakow führte Regie, Andy Siara schrieb das Drehbuch. Andy Samberg und Cristin Milioti spielen Nyles und Sarah. Die Geschichte beginnt mit einem Mann, der die Schleife bereits kennt; der Eintritt einer zweiten Hauptfigur verändert deshalb nicht nur den Wiederholungstag, sondern seine bisherige resignierte Haltung dazu.",
-      "anchor": "Max Barbakow: Andy Samberg und Cristin Milioti spielen Nyles und Sarah.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Max Barbakow: Andy Samberg und Cristin Milioti spielen Nyles und Sarah."
     }
   ]
 }

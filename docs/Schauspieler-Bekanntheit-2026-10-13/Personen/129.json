@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Montag ist Feuerwehrmann in einem Staat, der seine Feuerwehr zum Verbrennen von Büchern einsetzt.",
       "context": "Die Feuerwehr dieser Zukunft löscht keine Häuserbrände, sondern spürt verbotene Bücher auf. Montag verrichtet den Dienst zunächst selbstverständlich. Seine Begegnung mit Clarisse (Julie Christie) weckt jedoch die Neugier auf das, was er vernichten soll. So gerät der Mann, der die Unterdrückung praktisch ausführt, selbst in Konflikt mit ihrem Verbot des Lesens.",
-      "anchor": "Montags berufliche Pflicht richtet sich gegen die Bücher.",
       "interest": "Die Umkehrung eines vertrauten Berufs macht die Ordnung des Zukunftsstaates unmittelbar verständlich.",
       "feedback": [
         "Montag ist Feuerwehrmann in einem Staat, der seine Feuerwehr zum Verbrennen von Büchern einsetzt.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Apermalink=fahrenheit4512022"
-      ]
+      ],
+      "objective": "Montags berufliche Pflicht richtet sich gegen die Bücher."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 2,
       "short": "Jules stammt aus Österreich.",
       "context": "Jules lebt als österreichischer Schriftsteller in Paris, wo ihn Kunst und gemeinsame Unternehmungen mit Jim verbinden. Im Ersten Weltkrieg dienen die Freunde auf entgegengesetzten Seiten und fürchten, einander töten zu müssen.",
-      "anchor": "Die Freundschaft überspannt die spätere Kriegsgrenze.",
       "interest": "Die Herkunft wird für den Verlauf ihrer Beziehung bedeutsam.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Jules_and_Jim"
-      ]
+      ],
+      "objective": "Die Freundschaft überspannt die spätere Kriegsgrenze."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Fiedler vermutet, dass sein Vorgesetzter Mundt ein britischer Informant ist.",
       "context": "Leamas (Richard Burton) liefert Fiedler Angaben, die dessen Verdacht gegen den eigenen Chef stützen. Der angebliche Überläufer bestätigt die Schlussfolgerung zunächst nicht offen. Fiedler setzt die Indizien selbst zusammen und macht daraus einen Fall für ein Tribunal. Sein analytischer Erfolg bringt ihn jedoch in Gefahr, weil die britischen Auftraggeber andere Interessen verfolgen, als Leamas annimmt.",
-      "anchor": "Fiedlers Ermittlung richtet sich gegen den eigenen Vorgesetzten.",
       "interest": "Die Befragung ist zugleich ein Machtkampf innerhalb des ostdeutschen Dienstes.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "knowledge_id": "K-G100-20261008-THRILLER-016-M1",
       "variant_of": "G100-20261008-THRILLER-016-M1",
-      "knowledge_note": "Gleicher Wissenskern wie die vorhandene Untersuchung der Loyalität Mundts durch Fiedler."
+      "knowledge_note": "Gleicher Wissenskern wie die vorhandene Untersuchung der Loyalität Mundts durch Fiedler.",
+      "objective": "Fiedlers Ermittlung richtet sich gegen den eigenen Vorgesetzten."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 2,
       "short": "Schumann behandelt die drogenabhängige La Condesa (Simone Signoret).",
       "context": "La Condesa soll wegen ihres Einsatzes für soziale Reformen inhaftiert werden. Auf der Überfahrt entsteht zwischen ihr und dem Schiffsarzt eine Liebesbeziehung. Schumann leidet selbst an einem tödlichen Herzleiden; die Nähe bietet ihm deshalb keine einfache neue Zukunft. Während andere Passagiere ihre Vorurteile und gesellschaftlichen Ansprüche ausleben, begegnen sich hier zwei Menschen in sehr unterschiedlichen Formen von Ausweglosigkeit.",
-      "anchor": "Arzt und Patientin finden Nähe auf einer Reise ohne gemeinsame Zukunft.",
       "interest": "Die Beziehung verbindet körperliche Gefährdung mit politischer Gefangenschaft.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/22671-SHIP-OF-FOOLS"
-      ]
+      ],
+      "objective": "Arzt und Patientin finden Nähe auf einer Reise ohne gemeinsame Zukunft."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 0,
       "short": "Jules bleibt als Überlebender zurück, nachdem Catherine und Jim mit dem Auto sterben.",
       "context": "Catherine (Jeanne Moreau) bittet Jules zuzusehen, fährt mit Jim (Henri Serre) auf eine zerstörte Brücke und stürzt in den Fluss. Jules bleibt zurück und wohnt später der Beisetzung ihrer Asche bei.",
-      "anchor": "Der Beobachter überlebt die beiden anderen.",
       "interest": "Der Schluss trennt das Trio unwiderruflich.",
       "feedback": [
         "Jules bleibt als Überlebender zurück, nachdem Catherine und Jim mit dem Auto sterben.",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Jules_and_Jim"
-      ]
+      ],
+      "objective": "Der Beobachter überlebt die beiden anderen."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 3,
       "short": "Happy liefert sich den Deutschen aus und ermöglicht so Rennicks Flucht.",
       "context": "Der deutsche Kriegsgefangene hat sich freiwillig für einen amerikanischen Nachrichtendiensteinsatz gemeldet. Nach der Rückkehr ins noch kämpfende Deutschland sammelt er Informationen und sucht mit Lieutenant Rennick (Richard Basehart) den Weg zurück. Am Rhein werden die beiden entdeckt. Happy zieht die Aufmerksamkeit auf sich, obwohl ihm als übergelaufenem Deutschen Folter und Hinrichtung drohen; Rennick erreicht dadurch die andere Seite.",
-      "anchor": "Der als Verräter betrachtete Helfer rettet den amerikanischen Offizier.",
       "interest": "Die Entscheidung zwingt Rennick, sein pauschales Urteil über deutsche Überläufer zu revidieren.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Decision_Before_Dawn",
         "https://catalog.afi.com/Film/50075-DECISION-BEFORE-DAWN"
-      ]
+      ],
+      "objective": "Der als Verräter betrachtete Helfer rettet den amerikanischen Offizier."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 1,
       "short": "Truffaut wollte Montags Unsicherheit zeigen; Werner hatte nach seiner Darstellung ein ausgeprägteres Heldenbild.",
       "context": "Die Cinémathèque française dokumentiert Truffauts rückblickende Kritik an dieser Zusammenarbeit. Er beschreibt Montag als verborgen, ungewiss und stellenweise kindlich, während Werner mit festeren Vorstellungen vom Helden angetreten sei. Der Gegensatz betraf damit die Grundhaltung der Figur. Truffaut schätzte Werners frühere Arbeit in „Jules und Jim“ ausdrücklich, sah dessen neuen Ansatz aber als Hindernis für Montags tastende Entwicklung.",
-      "anchor": "Die Kontroverse betrifft die Figur zwischen Heldensicherheit und Unsicherheit.",
       "interest": "Der belegte Konflikt zeigt, wie Schauspieler und Regisseur dieselbe Rolle grundsätzlich anders verstehen können.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/expositions-virtuelles/truffaut-par-truffaut/index.php?id=9"
-      ]
+      ],
+      "objective": "Die Kontroverse betrifft die Figur zwischen Heldensicherheit und Unsicherheit."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 3,
       "short": "Roeg beschreibt die steife Sprache als bewusstes Zeichen einer Welt, die ihren literarischen Sprachreichtum verliert.",
       "context": "Nach Roegs Erinnerung ließ Truffaut den französisch geschriebenen Dialog mehrfach zwischen Französisch und Englisch übertragen, um vertraute englische Wendungen zu entfernen. Auch die Schauspieler sollten eine gewisse Fremdheit im Verhalten zeigen. Die Zukunft entsteht dadurch in der Sprache und in gewöhnlichen Beziehungen ebenso wie in technischen Geräten. Roegs Erläuterung ist eine konkrete Erinnerung des Kameramanns an die beabsichtigte Gestaltung.",
-      "anchor": "Die fremd gewordene Alltagssprache gehört zur entworfenen Zukunft.",
       "interest": "Eine häufig kritisierte Eigenschaft wird anhand einer beteiligten Stimme als Inszenierungsabsicht eingeordnet.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       ],
       "extraSources": [
         "https://bfidatadigipres.github.io/fran%C3%A7ois%20truffaut%3Cbr%3Efor%20the%20love%20of%20films/2022/02/05/fahrenheit-451/"
-      ]
+      ],
+      "objective": "Die fremd gewordene Alltagssprache gehört zur entworfenen Zukunft."
     }
   ]
 }

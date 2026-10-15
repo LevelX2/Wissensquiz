@@ -37,12 +37,12 @@
       ],
       "short": "Wyatt wird Marshal.",
       "context": "Wyatt Earp (Henry Fonda) übernimmt das Marshalamt in Tombstone. Der Auftrag verbindet seinen persönlichen Verlust mit einer öffentlichen Ordnungspflicht. Seine Präsenz soll eine Stadt verändern, in der Gewalt leicht die Regeln setzt. Der Film hält private Motive und das sichtbare Amt dabei eng beieinander.",
-      "anchor": "Wyatts Marshalamt verbindet persönlichen Verlust mit öffentlicher Ordnung.",
       "interest": "Erfasst die neue Rolle in der Stadt.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wyatts Marshalamt verbindet persönlichen Verlust mit öffentlicher Ordnung."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Doc leidet an Tuberkulose.",
       "context": "Doc Holliday (Victor Mature) leidet an Tuberkulose. Seine körperliche Bedrohung begleitet die Konflikte mit den anderen Figuren. Die Krankheit begrenzt die Aussicht auf einen gewöhnlichen neuen Alltag und legt über die scheinbar freie Entscheidung des Revolvermannes bereits die Erfahrung einer gefährdeten persönlichen Zukunft.",
-      "anchor": "Docs gefährdete Gesundheit begrenzt die Zukunft hinter seinem selbstbestimmten Auftreten.",
       "interest": "Verbindet die Krankheit mit dem Handlungsspielraum.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Docs gefährdete Gesundheit begrenzt die Zukunft hinter seinem selbstbestimmten Auftreten."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Chihuahua nennt Doc zunächst als Geber des Kreuzes.",
       "context": "Wyatt (Henry Fonda) erkennt bei Chihuahua (Linda Darnell) das Kreuz seines getöteten Bruders. Ihre erste Erklärung verbindet es mit Doc (Victor Mature). Ein richtiger Gegenstand führt dadurch zunächst zu einer falschen Person. Die Ermittlung muss zwischen Besitz der Spur und tatsächlichem Verlauf ihrer Weitergabe unterscheiden.",
-      "anchor": "Das richtige Kreuz führt durch eine falsche Erklärung zunächst zum falschen Verdächtigen.",
       "interest": "Erklärt den Unterschied zwischen Gegenstandsspur und zuverlässiger Zurechnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das richtige Kreuz führt durch eine falsche Erklärung zunächst zum falschen Verdächtigen."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Clementine folgt der früheren Beziehung zu Doc.",
       "context": "Clementine Carter (Cathy Downs) kommt wegen Doc Holliday (Victor Mature) aus Boston. Ihre Anwesenheit bringt eine frühere Lebenswelt in seinen gegenwärtigen Rückzug. Die Begegnung prüft damit, ob sich verlorene Nähe durch Suche zurückholen lässt, wenn der Gesuchte selbst diese Vergangenheit nicht wieder aufnehmen möchte.",
-      "anchor": "Clementines Suche bringt Docs frühere Bindung in seinen gegenwärtigen Rückzug.",
       "interest": "Erklärt die Beziehung hinter ihrer Ankunft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Clementines Suche bringt Docs frühere Bindung in seinen gegenwärtigen Rückzug."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die Feier zeigt die Möglichkeit gemeinsamen Stadtlebens.",
       "context": "Wyatt (Henry Fonda) begleitet Clementine (Cathy Downs) zum Tanz bei der neuen Kirche. Die Szene eröffnet einen gemeinsamen Alltag außerhalb der Gewalt. Die noch unfertige städtische Ordnung wird dabei als Möglichkeit sichtbar: Das Fest lässt eine Zukunft erahnen, die der spätere Kampf allein nicht hervorbringen kann.",
-      "anchor": "Der Tanz zeigt die zivile Zukunft, auf die die Stadt erst zugeht.",
       "interest": "Verbindet Gemeinschaftsszene und mögliche Stadtentwicklung.",
       "sources": [
         "essay"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Tanz zeigt die zivile Zukunft, auf die die Stadt erst zugeht."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die Staubwolke verändert seinen taktischen Blickschutz.",
       "context": "Eine Kutsche kreuzt den Raum des letzten Gefechts und wirbelt Staub auf. Wyatt (Henry Fonda) nutzt die vorübergehende Deckung. Die Szene lässt damit den gewöhnlichen Verkehr und den tödlichen Konflikt im selben Raum bestehen. Die Stadt setzt ihren Alltag fort, während einzelne Männer um ihren Ausgang kämpfen.",
-      "anchor": "Der alltägliche Kutschenverkehr erzeugt im Gefecht einen kurzen taktischen Schutz.",
       "interest": "Erklärt eine konkrete Wechselwirkung von Stadtalltag und Kampf.",
       "sources": [
         "essay"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der alltägliche Kutschenverkehr erzeugt im Gefecht einen kurzen taktischen Schutz."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "1946 liegt fünfzehn Jahre nach 1931.",
       "context": "Stuart N. Lakes Wyatt Earp: Frontier Marshal erschien 1931. Die Filmfassung folgte 1946, fünfzehn Jahre später. AFI führt das Buch als Vorlage. Die Verbindung bezeichnet eine filmische Bearbeitung der Earp-Legende; sie ist deshalb nicht gleichbedeutend mit dem Nachweis, dass jede dargestellte Szene historisch genau so geschah.",
-      "anchor": "1931 die Buchfassung der Earp-Legende, 1946 ihre neue Filmadaption: fünfzehn Jahre Abstand.",
       "interest": "Verankert das Jahr in der Vorlage und unterscheidet Adaption von historischer Dokumentation.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1931 die Buchfassung der Earp-Legende, 1946 ihre neue Filmadaption: fünfzehn Jahre Abstand."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Ford inszenierte die Fassung.",
       "context": "John Ford inszenierte die Geschichte mit Henry Fonda als Wyatt Earp und Victor Mature als Doc Holliday. Criterion beschreibt die Verbindung von Stadtordnung und persönlicher Legende. Die Regie muss daher beides erfahrbar machen: die gefährliche Begegnung einzelner Männer und eine Gemeinschaft, die eine dauerhaftere Ordnung sucht.",
-      "anchor": "Ford verbindet die persönliche Earp-Legende mit dem Entstehen einer städtischen Ordnung.",
       "interest": "Ordnet den Regiecredit der konkreten Doppelaufgabe zu.",
       "sources": [
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ford verbindet die persönliche Earp-Legende mit dem Entstehen einer städtischen Ordnung."
     }
   ]
 }

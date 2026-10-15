@@ -40,12 +40,12 @@
       ],
       "short": "Cecilia ist Brionys ältere Schwester.",
       "context": "Cecilia Tallis (Keira Knightley) und die junge Briony (Saoirse Ronan) leben im selben wohlhabenden Haushalt. Die Nähe gibt Briony Zugang zu privaten Momenten, aber keinen sicheren Einblick in deren Bedeutung. Ihr Missverständnis trifft deshalb Menschen, deren Leben unmittelbar mit ihrem eigenen verbunden ist.",
-      "anchor": "Briony beobachtet ihre ältere Schwester Cecilia.",
       "interest": "Die Familienbeziehung erklärt, weshalb Beobachtung und Einmischung so folgenreich werden.",
       "sources": [
         "film"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Briony beobachtet ihre ältere Schwester Cecilia."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Robbies Kriegsweg führt als Soldat nach Dünkirchen.",
       "context": "Robbie Turner (James McAvoy) wandert mit Kameraden durch das verwüstete Frankreich. Die erhoffte Heimkehr zu Cecilia (Keira Knightley) hält ihn aufrecht. Der Krieg ist damit kein losgelöster Hintergrund: Er verlängert die Trennung, die schon durch die falsche Beschuldigung begonnen hat, und bedroht jede Aussicht auf Wiedersehen.",
-      "anchor": "Robbies Weg führt aus dem Gefängnis zum Rückzug nach Dünkirchen.",
       "interest": "Das Liebesdrama wird durch die Kriegserfahrung weitergeführt.",
       "sources": [
         "produktion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Robbies Weg führt aus dem Gefängnis zum Rückzug nach Dünkirchen."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Robbie versendet den ausdrücklich formulierten Entwurf statt seiner geplanten Entschuldigung.",
       "context": "Robbie (James McAvoy) beauftragt Briony (Saoirse Ronan) mit der Zustellung. Sie liest den Brief und ordnet später Gesehenes in das dadurch entstandene Bild ein. Die falsche Briefversion ist ein kleines Versehen mit großer Wirkung: Sie liefert scheinbare Bestätigung für eine Deutung, die bereits in die falsche Richtung geht.",
-      "anchor": "Ein falscher Briefentwurf stützt Brionys falsche Gewissheit.",
       "interest": "Das Versehen zeigt, wie ein Dokument durch seinen Deutungsrahmen belastend wird.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein falscher Briefentwurf stützt Brionys falsche Gewissheit."
     },
     {
       "code": "M2",
@@ -112,13 +112,13 @@
       ],
       "short": "Marianelli bindet Schreibmaschinentasten in den musikalischen Rhythmus ein.",
       "context": "Die Schreibmaschine verbindet hörbar das Schreiben mit dem Erzählen. Ihre Anschläge erhalten im Orchester eine rhythmische Funktion. Das passt zu Brionys Bedürfnis, Geschehen in eine Geschichte zu verwandeln. Der Klang bleibt damit zugleich Teil einer konkreten Tätigkeit und Hinweis auf die Macht, die erzählerische Ordnung über die Ereignisse gewinnt.",
-      "anchor": "Die Schreibmaschine schreibt und taktet die Geschichte.",
       "interest": "Die Musik verbindet Gegenstand, Figur und Erzählidee.",
       "sources": [
         "musik",
         "rueckblick"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Schreibmaschine schreibt und taktet die Geschichte."
     },
     {
       "code": "S1",
@@ -137,13 +137,13 @@
       ],
       "short": "Eine aufwendige kontinuierliche Aufnahme verbindet viele Vorgänge am Strand.",
       "context": "Die Kamerafahrt folgt Robbie (James McAvoy) zwischen erschöpften Soldaten, zerstörtem Gerät und absurden Momenten des Wartens. Aus der ursprünglich geplanten Montage wurde eine zusammenhängende Aufnahme. Sie verbindet räumliche Größe mit einer individuellen Erfahrung: Der Zuschauer bewegt sich durch das Chaos, statt es nur in Einzelbildern zu überblicken.",
-      "anchor": "Ein zusammenhängender Blick führt durch das zerfallende Heer.",
       "interest": "Eine praktische Produktionsentscheidung wird zur wirkungsvollen Erzählform.",
       "sources": [
         "produktion",
         "rueckblick"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein zusammenhängender Blick führt durch das zerfallende Heer."
     },
     {
       "code": "S2",
@@ -162,12 +162,12 @@
       ],
       "short": "Das Wiedersehen ist eine erzählerische Korrektur, keine historische Begebenheit ihrer Geschichte.",
       "context": "Die alte Briony (Vanessa Redgrave) erklärt, dass Robbie (James McAvoy) und Cecilia (Keira Knightley) im Krieg starben. Die versöhnliche Szene gehörte ihrer Fiktion. Das Schreiben schenkt ihnen ein mögliches Glück, kann aber den angerichteten Schaden nicht rückgängig machen. Der Schluss verändert rückwirkend den Wahrheitsstatus vorheriger Bilder.",
-      "anchor": "Brionys erfundenes Glück ersetzt keine wirkliche Wiedergutmachung.",
       "interest": "Die Enthüllung stellt die Verantwortung des Erzählens zur Diskussion.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Brionys erfundenes Glück ersetzt keine wirkliche Wiedergutmachung."
     },
     {
       "code": "Y",
@@ -186,12 +186,12 @@
       ],
       "short": "Die Romanveröffentlichung 2001 und der Film 2007 liegen sechs Jahre auseinander.",
       "context": "Ian McEwans Roman erschien 2001; Christopher Hamptons filmische Bearbeitung kam 2007 ins Kino. Sechs Jahre trennen Vorlage und Film. Die Adaption muss den Wechsel zwischen Erleben und späterem Schreiben mit Bildern und Ton ausdrücken, während der Roman diese Unsicherheit durch Sprache organisiert.",
-      "anchor": "Roman 2001, Film 2007: sechs Jahre zwischen zwei Erzählformen.",
       "interest": "Der Zeitanker verbindet die Vorlage mit der Herausforderung ihrer Verfilmung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Roman 2001, Film 2007: sechs Jahre zwischen zwei Erzählformen."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Joe Wright führte Regie und arbeitete erneut mit Knightley.",
       "context": "Joe Wright übernahm zahlreiche Mitarbeiter aus „Stolz und Vorurteil“, darunter Komponist Dario Marianelli und Ausstatterin Sarah Greenwood. Die vertraute Zusammenarbeit unterstützt einen Film mit sehr unterschiedlichen Zeiträumen und Schauplätzen. Christopher Hampton bearbeitete sein Drehbuch nach Wrights Übernahme erneut, statt beim ersten Entwurf zu bleiben.",
-      "anchor": "Wright führt das vertraute Team in eine neue Literaturverfilmung.",
       "interest": "Regie entsteht hier aus fortgesetzter Zusammenarbeit und einer veränderten Drehbuchkonzeption.",
       "sources": [
         "produktion",
         "film"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wright führt das vertraute Team in eine neue Literaturverfilmung."
     }
   ]
 }

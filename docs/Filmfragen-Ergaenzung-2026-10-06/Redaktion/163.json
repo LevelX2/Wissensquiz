@@ -37,12 +37,12 @@
       ],
       "short": "Tracy Lord (Katharine Hepburn) bereitet ihre Hochzeit mit George Kittredge (John Howard) vor.",
       "context": "Tracy Lord (Katharine Hepburn) bereitet ihre Hochzeit mit George Kittredge (John Howard) vor. Ihr Exmann Dexter Haven (Cary Grant) und zwei Pressevertreter kommen hinzu. Die geplante Feier gerät dadurch unter privaten und öffentlichen Druck.",
-      "anchor": "Tracys Hochzeit zieht Vergangenheit und Presse an.",
       "interest": "Tracys Hochzeit zieht Vergangenheit und Presse an.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tracys Hochzeit zieht Vergangenheit und Presse an."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Mike Connor ist Reporter, Liz Imbrie Fotografin einer Zeitschrift.",
       "context": "Mike Connor ist Reporter, Liz Imbrie Fotografin einer Zeitschrift. Sie sollen Tracys Hochzeit dokumentieren und werden als Bekannte der Familie eingeschleust. So treffen deren Anspruch auf Privatsphäre und das Geschäftsinteresse der Presse aufeinander.",
-      "anchor": "Reporter und Fotografin dringen in die private Feier ein.",
       "interest": "Reporter und Fotografin dringen in die private Feier ein.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Reporter und Fotografin dringen in die private Feier ein."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der Verleger droht mit einem Artikel über die Affäre von Tracys Vater.",
       "context": "Der Verleger droht mit einem Artikel über die Affäre von Tracys Vater. Tracy Lord (Katharine Hepburn) akzeptiert deshalb Mike Connor (James Stewart) und Liz Imbrie (Ruth Hussey) im Haus. Ihre unerwünschte Anwesenheit soll den größeren Rufschaden verhindern.",
-      "anchor": "Der Vater-Skandal öffnet den Reportern die Tür.",
       "interest": "Der Vater-Skandal öffnet den Reportern die Tür.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Vater-Skandal öffnet den Reportern die Tür."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Tracy erkennt, dass George sie als makelloses Ideal liebt.",
       "context": "Tracy erkennt, dass George sie als makelloses Ideal liebt. Nach der nächtlichen Begegnung mit Mike Connor (James Stewart) verlangt er eine Rechtfertigung. Sie sagt die Hochzeit ab, weil sein Bild von ihr keinen Platz für Fehler und Menschlichkeit lässt.",
-      "anchor": "Tracy verweigert die Rolle des vollkommenen Engels.",
       "interest": "Tracy verweigert die Rolle des vollkommenen Engels.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Tracy verweigert die Rolle des vollkommenen Engels."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Tracy bemerkt, dass Liz Imbrie (Ruth Hussey) Mike Connor (James Stewart) liebt.",
       "context": "Tracy bemerkt, dass Liz Imbrie (Ruth Hussey) Mike Connor (James Stewart) liebt. Sie nimmt seinen improvisierten Antrag nicht an. Statt die wartenden Hochzeitsgäste zum einzigen Maßstab zu machen, berücksichtigt sie damit eine andere, bisher übersehene Beziehung.",
-      "anchor": "Tracy erkennt die Verbindung zwischen Mike und Liz.",
       "interest": "Tracy erkennt die Verbindung zwischen Mike und Liz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Tracy erkennt die Verbindung zwischen Mike und Liz."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Tracy Lord (Katharine Hepburn) und Dexter Haven (Cary Grant) heiraten erneut.",
       "context": "Tracy Lord (Katharine Hepburn) und Dexter Haven (Cary Grant) heiraten erneut. Die Gäste sind bereits versammelt, doch der ursprüngliche Bräutigam wird ersetzt. Das Ende schließt den Film als Wiederverheiratungskomödie: Eine bestehende Beziehung erhält nach veränderten Einsichten eine neue Chance.",
-      "anchor": "Die geplante neue Ehe wird zur erneuerten alten Ehe.",
       "interest": "Die geplante neue Ehe wird zur erneuerten alten Ehe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die geplante neue Ehe wird zur erneuerten alten Ehe."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "1940 wurde der Film erstmals in New York gezeigt, der breite US-Start folgte 1941.",
       "context": "1940 wurde der Film erstmals in New York gezeigt, der breite US-Start folgte 1941. Philip Barrys Bühnenstück war 1939 herausgekommen. Der Abstand von einem Jahr verbindet Hepburns Bühnenerfolg mit seiner Kinoadaption, ohne den späteren Landesstart zum Filmjahr zu machen.",
-      "anchor": "Bühnenstück 1939, Film 1940: Ein Jahr verbindet Hepburns Bühnenerfolg mit der Kinoadaption.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bühnenstück 1939, Film 1940: Ein Jahr verbindet Hepburns Bühnenerfolg mit der Kinoadaption."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück.",
       "context": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück. Katharine Hepburn spielt Tracy Lord, Cary Grant ihren Exmann und James Stewart den Reporter Mike Connor. Die Besetzung stellt drei verschiedene Vorstellungen von Tracy nebeneinander.",
-      "anchor": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück.",
       "interest": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück.",
       "sources": [
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "George Cukor inszenierte die Verfilmung von Philip Barrys Bühnenstück."
     }
   ]
 }

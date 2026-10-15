@@ -30,12 +30,12 @@
       ],
       "short": "Die Parteien kämpfen um Benzin.",
       "context": "Max (Mel Gibson) bewegt sich durch eine zusammengebrochene Gesellschaft, in der Treibstoff über Mobilität entscheidet. Eine funktionierende Raffinerie wird deshalb zum Ziel bewaffneter Angreifer. Der Rohstoff verbindet die Suche des Einzelgängers mit der Notlage der Siedler.",
-      "anchor": "Benzin bedeutet Bewegung und Macht in der zerstörten Welt.",
       "interest": "Der Rohstoff erklärt unmittelbar, warum die Raffinerie umkämpft ist.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Benzin bedeutet Bewegung und Macht in der zerstörten Welt."
     },
     {
       "code": "L2",
@@ -54,12 +54,12 @@
       ],
       "short": "Er fliegt einen Tragschrauber.",
       "context": "Der Gyro Captain kann das Gelände aus der Luft beobachten und weist Max (Mel Gibson) auf die Raffinerie hin. Sein improvisiert wirkendes Fluggerät erweitert die sonst von Autos und Motorrädern beherrschte Welt. Später ermöglicht es auch Max’ Rettung nach dem Unfall.",
-      "anchor": "Der Gyro Captain verschafft sich mit dem Tragschrauber Überblick.",
       "interest": "Das Fahrzeug macht die Funktion eines wichtigen Verbündeten anschaulich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Gyro Captain verschafft sich mit dem Tragschrauber Überblick."
     },
     {
       "code": "M1",
@@ -78,12 +78,12 @@
       ],
       "short": "Max besorgt eine Zugmaschine für den Tankauflieger.",
       "context": "Max hat zuvor einen liegen gebliebenen Lastwagen entdeckt. Er bietet Pappagallo (Mike Preston) an, ihn zurückzuholen, verlangt dafür aber sein Auto und Treibstoff. Die Zusammenarbeit beginnt als Tauschgeschäft; erst nach dem Verlust seines eigenen Fahrzeugs übernimmt Max selbst die Fluchtfahrt.",
-      "anchor": "Max tauscht die benötigte Zugmaschine gegen Auto und Treibstoff.",
       "interest": "Das Geschäft erklärt den Übergang vom Einzelgänger zum Helfer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Max tauscht die benötigte Zugmaschine gegen Auto und Treibstoff."
     },
     {
       "code": "M2",
@@ -102,12 +102,12 @@
       ],
       "short": "Der Benzindieb aktiviert die Sprengfalle.",
       "context": "Nach Max’ Unfall wollen die Verfolger den Treibstoff seines zerstörten Autos nutzen. Der Zugriff aktiviert dessen Sicherung und vernichtet das Fahrzeug endgültig. Der Gyro Captain (Bruce Spence) bringt den verletzten Max (Mel Gibson) zurück, sodass eine unabhängige Flucht für ihn nun kaum möglich ist.",
-      "anchor": "Der Griff nach Max’ Benzin aktiviert die Sprengfalle.",
       "interest": "Die Szene verändert Max’ Möglichkeiten und erklärt seine Rückkehr zur Gemeinschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Griff nach Max’ Benzin aktiviert die Sprengfalle."
     },
     {
       "code": "S1",
@@ -126,12 +126,12 @@
       ],
       "short": "Der Tankauflieger ist mit Sand gefüllt.",
       "context": "Die Angreifer konzentrieren sich auf den vermeintlichen Treibstofftransport. Während sie Max (Mel Gibson) verfolgen, entkommen die übrigen Siedler mit dem Benzin in ihren Fahrzeugen. Erst am umgestürzten Tankzug erkennt Max an der herausrieselnden Ladung, dass auch er über die Täuschung nicht informiert war.",
-      "anchor": "Sand im Tankzug verdeckt die wirkliche Flucht mit dem Benzin.",
       "interest": "Die Enthüllung verändert rückwirkend den Sinn der langen Verfolgung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sand im Tankzug verdeckt die wirkliche Flucht mit dem Benzin."
     },
     {
       "code": "S2",
@@ -150,12 +150,12 @@
       ],
       "short": "Der erwachsene Feral Kid erzählt die Geschichte.",
       "context": "Der Junge (Emil Minty) begleitet Max bei der Fahrt und überlebt den Unfall. Die spätere Erzählerstimme macht aus der Begegnung eine Erinnerung der neuen Gemeinschaft. Max bleibt für sie eine legendäre Gestalt, obwohl der Erzähler ausdrücklich sagt, ihn danach nie wieder gesehen zu haben.",
-      "anchor": "Aus dem wilden Jungen wird der Erzähler der Road-Warrior-Legende.",
       "interest": "Die Erzählperspektive erklärt, warum Max zugleich realer Helfer und Legende erscheint.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Aus dem wilden Jungen wird der Erzähler der Road-Warrior-Legende."
     },
     {
       "code": "Y",
@@ -174,13 +174,13 @@
       ],
       "short": "Das erste Veröffentlichungsjahr ist 1981.",
       "context": "Der zweite Film erschien 1981, zwei Jahre nach Mad Max von 1979. Mel Gibson kehrt als Max zurück, doch die Welt hat sich von der noch bestehenden Polizeigesellschaft des ersten Films zur offenen Wüstenanarchie verändert. Die kurze Veröffentlichungsfolge begleitet damit einen deutlichen Wandel des Szenarios.",
-      "anchor": "1979 begann Mad Max; zwei Jahre später folgte 1981 der zweite Film.",
       "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1979 begann Mad Max; zwei Jahre später folgte 1981 der zweite Film."
     },
     {
       "code": "D",
@@ -199,13 +199,13 @@
       ],
       "short": "Die gesuchte Regie stammt von George Miller.",
       "context": "George Miller kehrte nach dem ersten Mad Max zur Figur zurück und schrieb auch am Drehbuch mit. Die Inszenierung erweitert die Straßenkämpfe zur Belagerung und langen Tankzugverfolgung. Der US-Titel The Road Warrior betont den einsamen Helfer, obwohl es sich um den zweiten Film der Reihe handelt.",
-      "anchor": "George Miller inszenierte diese Filmfassung.",
       "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "George Miller inszenierte diese Filmfassung."
     }
   ]
 }

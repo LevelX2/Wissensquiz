@@ -36,12 +36,12 @@
       ],
       "short": "Shane (Alan Ladd) arbeitet bei Joe Starrett (Van Heflin) und dessen Familie.",
       "context": "Shane (Alan Ladd) arbeitet bei Joe Starrett (Van Heflin) und dessen Familie. Der Fremde wird in ihren Alltag aufgenommen, während der Konflikt um das Land Gewalt in diese häusliche Welt trägt.",
-      "anchor": "Die Familie gibt dem Fremden einen möglichen friedlichen Platz.",
       "interest": "Die Familie gibt dem Fremden einen möglichen friedlichen Platz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Familie gibt dem Fremden einen möglichen friedlichen Platz."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Joey Starrett (Brandon deWilde) bewundert Shane (Alan Ladd).",
       "context": "Joey Starrett (Brandon deWilde) bewundert Shane (Alan Ladd). Sein Blick macht aus dem Fremden einen Helden, während seine Mutter Marian (Jean Arthur) dessen Waffengebrauch skeptischer beurteilt.",
-      "anchor": "Joeys Bewunderung steht neben Marians Sorge um die Gewalt.",
       "interest": "Joeys Bewunderung steht neben Marians Sorge um die Gewalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Joeys Bewunderung steht neben Marians Sorge um die Gewalt."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Rufus Ryker (Emile Meyer) will die Siedler aus dem Tal vertreiben.",
       "context": "Rufus Ryker (Emile Meyer) will die Siedler aus dem Tal vertreiben. Einschüchterung und ein angeheuerter Schütze sollen seinen Anspruch gegen ihre rechtmäßig bewirtschafteten Grundstücke durchsetzen.",
-      "anchor": "Der Landkonflikt macht Einschüchterung zum Geschäftsmodell.",
       "interest": "Der Landkonflikt macht Einschüchterung zum Geschäftsmodell.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Landkonflikt macht Einschüchterung zum Geschäftsmodell."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Shane (Alan Ladd) erfährt, dass das vorgeschlagene Gespräch eine Falle ist.",
       "context": "Shane (Alan Ladd) erfährt, dass das vorgeschlagene Gespräch eine Falle ist. Er setzt Joe (Van Heflin) außer Gefecht und übernimmt selbst die gefährliche Begegnung, um den Familienvater zu bewahren.",
-      "anchor": "Der Schlag gegen den Freund verhindert dessen Gang in die Falle.",
       "interest": "Der Schlag gegen den Freund verhindert dessen Gang in die Falle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Schlag gegen den Freund verhindert dessen Gang in die Falle."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Chris Calloway (Ben Johnson), zuvor ein Gegner, warnt Shane (Alan Ladd) vor Rykers Hinterhalt.",
       "context": "Chris Calloway (Ben Johnson), zuvor ein Gegner, warnt Shane (Alan Ladd) vor Rykers Hinterhalt. Die Warnung zeigt seinen Bruch mit dem Auftraggeber und gibt Shane die Möglichkeit, Joe zurückzuhalten.",
-      "anchor": "Ein Seitenwechsel liefert die Warnung vor dem Hinterhalt.",
       "interest": "Ein Seitenwechsel liefert die Warnung vor dem Hinterhalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Seitenwechsel liefert die Warnung vor dem Hinterhalt."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der verwundete Shane (Alan Ladd) verabschiedet sich von Joey (Brandon deWilde).",
       "context": "Der verwundete Shane (Alan Ladd) verabschiedet sich von Joey (Brandon deWilde). Die Rettung der Familie verlangt Gewalt, mit deren Folgen Shane keinen unbelasteten Platz in ihrem Alltag beanspruchen kann.",
-      "anchor": "Die Gewalt rettet das Zuhause, verhindert aber Shanes Bleiben.",
       "interest": "Die Gewalt rettet das Zuhause, verhindert aber Shanes Bleiben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Gewalt rettet das Zuhause, verhindert aber Shanes Bleiben."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1953 erschien der Film.",
       "context": "1953 erschien der Film. Jack Schaefers Roman wurde 1949 veröffentlicht; vier Jahre später übertrug die Kinofassung den Blick des Kindes auf den vorübergehenden Retter der Siedler.",
-      "anchor": "Roman 1949, Film 1953: Vier Jahre führen vom Text zum kindlichen Blick auf den gewaltsamen Retter.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1949, Film 1953: Vier Jahre führen vom Text zum kindlichen Blick auf den gewaltsamen Retter."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "George Stevens führte Regie.",
       "context": "George Stevens führte Regie. Die Erzählung lässt die Bewunderung des Jungen mit den Kosten der Gewalt kollidieren; die Landschaft bei den Grand Tetons bildet den Raum für diese widersprüchliche Heldengeschichte.",
-      "anchor": "George Stevens führte Regie.",
       "interest": "George Stevens führte Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "George Stevens führte Regie."
     }
   ]
 }

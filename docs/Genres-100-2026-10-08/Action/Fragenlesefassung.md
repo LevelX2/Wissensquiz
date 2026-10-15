@@ -19,7 +19,6 @@ Welchen Revolver benutzt Harry Callahan (Clint Eastwood) in „Dirty Harry“ al
 
 Harry Callahan (Clint Eastwood) unterbricht beim Mittagessen einen Banküberfall. Ein verwundeter Räuber muss entscheiden, ob der Polizist noch eine Patrone im Revolver hat. Harry verbindet dabei die Bedrohung durch seine .44 Magnum mit einem Bluff über die abgegebenen Schüsse. Die Waffe steht für seine demonstrative Härte und erscheint später erneut im entscheidenden Duell mit Scorpio (Andy Robinson).
 
-Merksatz: Harrys charakteristischer Revolver ist eine .44 Magnum.
 
 - Eine .38 Special: Eine .38 Special ist nicht der bezeichnete Revolver.
 - Eine .44 Magnum: Die .44 Magnum prägt seine Drohung und das Bild der Figur.
@@ -41,7 +40,6 @@ Was fordert Scorpio (Andy Robinson) in „Dirty Harry“ von der Stadt, damit er
 
 Scorpio (Andy Robinson) schießt zunächst auf eine Frau und hinterlässt einen Erpresserbrief. Die Stadt soll zahlen, damit er keine weiteren Menschen tötet. Harry Callahan (Clint Eastwood) misstraut dem Versuch, den Täter mit Geld zu besänftigen. Die späteren Lösegeldforderungen verlängern diesen Konflikt: Für die Stadt geht es um Zeitgewinn, während Harry darin eine gefährliche Unterwerfung unter den Täter sieht.
 
-Merksatz: Scorpio erpresst die Stadt mit Geldforderungen und Morddrohungen.
 
 - Die Freilassung eines Gefangenen: Ein Gefangener soll nicht im Austausch freikommen.
 - Ein öffentliches Schuldeingeständnis: Ein Schuldeingeständnis ist nicht seine Forderung.
@@ -63,7 +61,6 @@ Warum wird Scorpio (Andy Robinson) in „Dirty Harry“ nach Harrys (Clint Eastw
 
 Harry Callahan (Clint Eastwood) verfolgt Scorpio (Andy Robinson) ins Stadion und erzwingt gewaltsam die Information über ein entführtes Mädchen. Für den Staatsanwalt sind Harrys Methoden jedoch kein zulässiger Ermittlungsweg. Die Durchsuchung und das erzwungene Geständnis beschädigen den Fall. Die Freilassung verschärft deshalb den Grundkonflikt des Films: Harrys Gewissheit über den Täter ersetzt keine rechtlich verwertbare Beweislage.
 
-Merksatz: Rechtswidrig beschaffte Beweise führen zu Scorpios Freilassung.
 
 - Ein Zeuge bestätigt sein Alibi: Ein bestätigtes Alibi ist nicht der Grund.
 - Die Tatwaffe gehört einem anderen Verdächtigen: Die Freilassung folgt nicht aus einer anderen Zuordnung der Tatwaffe.
@@ -85,7 +82,6 @@ Wie versucht Scorpio (Andy Robinson) in „Dirty Harry“, Harrys (Clint Eastwoo
 
 Nachdem Scorpio (Andy Robinson) freigelassen wurde, folgt ihm Harry Callahan (Clint Eastwood) auf eigene Faust. Der Täter bezahlt einen Mann dafür, ihn zusammenzuschlagen, und behauptet anschließend, Harry habe ihn misshandelt. So macht er aus der tatsächlichen Beschattung eine fingierte Gewalttat. Harrys bereits umstrittene Methoden erleichtern die Intrige, obwohl diese konkrete Verletzung nicht von ihm stammt.
 
-Merksatz: Scorpio inszeniert eine Misshandlung und schiebt Harry die Verantwortung zu.
 
 - Er lässt sich verprügeln und beschuldigt Harry: Die bezahlte Misshandlung soll Harry als brutalen Verfolger erscheinen lassen.
 - Er fälscht einen richterlichen Haftbefehl gegen Harry: Einen solchen Haftbefehl fälscht er nicht.
@@ -107,7 +103,6 @@ Welchen beruflichen Neuanfang erwägt Chico Gonzalez (Reni Santoni) in „Dirty 
 
 Chico Gonzalez (Reni Santoni) wird bei der Lösegeldübergabe angeschossen, als er Harry Callahan (Clint Eastwood) zu Hilfe kommt. Im Krankenhaus erklärt er, dass er den Polizeidienst aufgeben und Lehrer werden möchte. Seine Entscheidung zeigt die persönlichen Kosten der Jagd. Neben Harrys fortgesetzter Eskalation steht damit eine andere Antwort auf die erlebte Gewalt: den gefährlichen Beruf bewusst zu verlassen.
 
-Merksatz: Chico möchte nach seiner Verwundung Lehrer werden.
 
 - Privatdetektiv zu werden: Eine Detektei ist nicht sein angekündigter Neuanfang.
 - Lehrer zu werden: Chico will die Polizei verlassen und Lehrer werden.
@@ -129,7 +124,6 @@ Was macht Harry Callahan (Clint Eastwood) in „Dirty Harry“ unmittelbar nach 
 
 Im Steinbruch stellt Harry Callahan (Clint Eastwood) Scorpio (Andy Robinson) ein letztes Mal. Nach dem tödlichen Schuss zieht er seine Marke hervor und wirft sie ins Wasser. Der Film endet mit dieser Handlung, statt Harry bei einer offiziellen Anerkennung zu zeigen. Das sichtbare Ablegen des Amtszeichens verdichtet seinen Bruch mit der Institution, deren Regeln er schon zuvor wiederholt überschritten hat.
 
-Merksatz: Harry wirft seine Polizeimarke ins Wasser.
 
 - Er legt sie auf Scorpios Leiche: Er legt sie nicht auf die Leiche.
 - Er steckt sie in die Revolvertasche: Er verstaut sie nicht bei seiner Waffe.
@@ -151,7 +145,6 @@ In welchem Jahr wurde „Dirty Harry“ mit Clint Eastwood erstmals veröffentli
 
 Dirty Harry begann 1971 die Filmreihe um Harry Callahan (Clint Eastwood). Bereits 1973 folgte Magnum Force, also zwei Jahre später. In dieser Fortsetzung gerät der Ermittler selbst mit Polizisten aneinander, die Verdächtige töten. Der zeitliche Abstand verbindet zwei unterschiedliche Zuspitzungen derselben Figur. Für den Beginn der Reihe zählt die Weltpremiere von 1971, auch wenn der breite Kinoerfolg 1972 folgte.
 
-Merksatz: 1971 Dirty Harry, 1973 Magnum Force: zwei Jahre Abstand.
 
 - 1968: 1968 liegt vor dem ersten Dirty-Harry-Film.
 - 1973: 1973 erschien bereits die Fortsetzung Magnum Force.
@@ -173,7 +166,6 @@ Wer führte bei „Dirty Harry“ mit Clint Eastwood Regie?
 
 Don Siegel führte Regie und war zugleich Produzent des Films. Clint Eastwood spielte die Hauptrolle und seine Firma Malpaso gehörte zur Produktion. Der Regiecredit darf deshalb nicht aus Eastwoods späterer Laufbahn als Regisseur abgeleitet werden. Siegel lässt die Jagd durch konkrete San-Francisco-Schauplätze führen und verbindet die städtischen Räume mit dem zunehmend persönlichen Konflikt zwischen Harry Callahan (Clint Eastwood) und Scorpio (Andy Robinson).
 
-Merksatz: Don Siegel inszenierte Dirty Harry.
 
 - Don Siegel: Don Siegel ist als Regisseur und Produzent genannt.
 - Ted Post: Ted Post inszenierte später Magnum Force.
@@ -199,7 +191,6 @@ Welche Situation kennzeichnet die Polizeiwache in „Assault – Anschlag bei Na
 
 Ethan Bishop (Austin Stoker) soll in seiner ersten Nacht als Lieutenant eine Wache beaufsichtigen, die gerade stillgelegt wird. Personal und Ausstattung sind bereits reduziert. Dann kommen ein Gefangenentransport und ein verfolgter Vater hinzu. Der scheinbar unspektakuläre Dienst wird zur Belagerung. Die bevorstehende Schließung erklärt, warum ein Polizeigebäude hier überraschend wenig Schutz und kaum Reserven für die Eingeschlossenen bietet.
 
-Merksatz: Die belagerte Polizeiwache steht kurz vor ihrer Schließung.
 
 - Sie wird gerade neu eröffnet: Eine Neueröffnung ist nicht geplant.
 - Sie beherbergt eine Großrazzia: Eine Großrazzia erklärt die Besetzung nicht.
@@ -221,7 +212,6 @@ Mit wem muss Lieutenant Bishop (Austin Stoker) in „Assault – Anschlag bei Na
 
 Napoleon Wilson (Darwin Joston) und Wells (Tony Burton) sitzen zunächst als Gefangene in der Wache. Der Angriff der Gang verändert die Fronten: Lieutenant Bishop (Austin Stoker) braucht ihre Hilfe, um die Eingeschlossenen zu verteidigen. Waffen und Vertrauen ersetzen vorübergehend die übliche Beziehung zwischen Bewachern und Bewachten. Diese Zweckgemeinschaft trägt die Handlung und stellt das Verhalten der Figuren über ihren amtlichen Status.
 
-Merksatz: Polizist und Gefangene bilden eine gemeinsame Verteidigung.
 
 - Mit eintreffenden Streifenpolizisten: Verstärkung durch weitere Streifen bildet nicht das Team während der Belagerung.
 - Mit bewaffneten Nachbarn: Bewaffnete Nachbarn kommen nicht zur gemeinsamen Verteidigung hinzu.
@@ -243,7 +233,6 @@ Warum flieht Lawson (Martin West) in „Assault – Anschlag bei Nacht“ vor de
 
 Kathy (Kim Richards) wird beim Eiswagen von einem Gangführer erschossen. Ihr Vater Lawson (Martin West) verfolgt die Täter und erschießt den Mörder. Als seine Munition ausgeht, flieht er zur Polizeiwache und kann den dortigen Beamten vor Schock kaum erklären, was geschehen ist. Die Gang verfolgt ihn weiter. So verbindet eine persönliche Vergeltungstat die zunächst getrennten Handlungsstränge.
 
-Merksatz: Lawson sucht nach seiner Vergeltung am Mörder seiner Tochter Schutz.
 
 - Er hat den Mörder seiner Tochter erschossen: Nach dem Mord an seiner Tochter erschießt er einen Gangführer und wird verfolgt.
 - Er hat ihre gestohlenen Waffen entdeckt: Ein Waffenfund ist nicht der Anlass seiner Flucht.
@@ -265,7 +254,6 @@ Wie verbergen die Angreifer in „Assault – Anschlag bei Nacht“ zwischen den
 
 Nach einer Angriffswelle sieht Lieutenant Bishop (Austin Stoker), dass die Toten vor der Wache verschwunden sind. Die Gang arbeitet außerdem mit Schalldämpfern; Telefon und Strom sind ausgefallen. Für die Eingeschlossenen ist die Gefahr unmittelbar, von außen bleibt sie schwer erkennbar. Die Spurenbeseitigung erklärt mit, warum das Polizeigebäude nicht rasch Verstärkung erhält und die Verteidiger immer stärker auf sich selbst gestellt sind.
 
-Merksatz: Die Gang entfernt die Leichen, um Aufmerksamkeit von außen zu vermeiden.
 
 - Sie verkleiden sich als Feuerwehrleute: Eine Feuerwehrverkleidung ist nicht ihre Täuschung.
 - Sie entfernen die Leichen vor der Wache: Die entfernten Leichen lassen die Straße wieder unauffällig erscheinen.
@@ -287,7 +275,6 @@ Woran scheitert Wells’ (Tony Burton) Versuch, in „Assault – Anschlag bei N
 
 Wells (Tony Burton) kriecht durch einen Tunnel zu einem Schacht außerhalb der Wache. Er schließt ein Auto kurz und scheint der Belagerung entkommen zu sein. Doch ein Gangmitglied hat sich auf dem Rücksitz versteckt und erschießt ihn, bevor er Hilfe holen kann. Der Rettungsversuch scheitert dadurch außerhalb des Gebäudes. Die übrigen Verteidiger erfahren nichts von seinem Tod und können weiterhin auf Hilfe hoffen.
 
-Merksatz: Wells entkommt dem Gebäude, aber im Auto wartet ein Angreifer.
 
 - Die Gang hat das Zündkabel entfernt: Ein entferntes Zündkabel verhindert die Fahrt nicht.
 - Der Wagen ist mit Sprengstoff präpariert: Eine Autobombe beendet seinen Versuch nicht.
@@ -309,7 +296,6 @@ Womit sprengt Bishop (Austin Stoker) in „Assault – Anschlag bei Nacht“ den
 
 Die Verteidiger ziehen sich in den Keller zurück, weil der schmale Zugang leichter zu halten ist. Bishop (Austin Stoker) bereitet dort einen Acetylenbehälter vor. Als die Angreifer den Gang füllen, löst er mit einem Schuss die Explosion aus. Zusammen mit Wilson (Darwin Joston) schützt er sich hinter einem großen Metallschild. Die letzte Abwehr nutzt damit den engen Raum und einen improvisierten Schutz.
 
-Merksatz: Ein Acetylenbehälter wird zur letzten Verteidigungswaffe.
 
 - Mit einer Handgranate: Eine Handgranate ist nicht die entscheidende Sprengquelle.
 - Mit einer Benzinbombe: Keine geworfene Benzinbombe beendet den Angriff.
@@ -331,7 +317,6 @@ In welchem Jahr wurde „Assault – Anschlag bei Nacht“ mit Austin Stoker und
 
 Assault – Anschlag bei Nacht erschien 1976. Seine Belagerungsidee greift Rio Bravo von 1959 auf, also einen siebzehn Jahre älteren Western. Dort verteidigen ebenfalls wenige Verbündete einen begrenzten Raum gegen eine Übermacht. Carpenter überträgt diese Konstellation in eine ausgedünnte Polizeiwache in Los Angeles. Der Zeitanker verbindet zwei konkrete Werke und macht die Verbindung zwischen Westerntradition und modernem Stadtthriller nachvollziehbar.
 
-Merksatz: 1959 Rio Bravo, 1976 Assault: siebzehn Jahre Abstand.
 
 - 1976: Der erste US-Kinostart lag im November 1976.
 - 1973: 1973 ist für diesen Film zu früh.
@@ -353,7 +338,6 @@ Wer führte bei „Assault – Anschlag bei Nacht“ mit Austin Stoker und Darwi
 
 John Carpenter schrieb das Drehbuch, inszenierte den Film und komponierte dessen Musik. Er schnitt ihn außerdem unter dem Namen John T. Chance, einer Anspielung auf John Waynes Figur in Rio Bravo. Die wenigen Räume und wiederkehrenden Angriffswellen erlauben ihm eine stark konzentrierte Spannungsgestaltung. Der offizielle Regiecredit lautet trotzdem schlicht John Carpenter; der andere Name gehört zur Arbeit am Schnitt.
 
-Merksatz: John Carpenter inszenierte Assault – Anschlag bei Nacht.
 
 - Walter Hill: Hill führte hier nicht Regie.
 - John Carpenter: Carpenter verantwortet Regie, Drehbuch und Musik.
@@ -379,7 +363,6 @@ Welche Gegenleistung schuldet Doc McCoy (Steve McQueen) in „Getaway“ für se
 
 Doc McCoy (Steve McQueen) erhält zunächst keine Bewährung, obwohl er sich im Gefängnis gut geführt hat. Seine Frau Carol (Ali MacGraw) vermittelt einen Handel mit Jack Beynon (Ben Johnson), einem einflussreichen Mitglied des Bewährungsgremiums. Für die Freilassung muss Doc eine Bank überfallen. Die neue Freiheit beginnt deshalb als Abhängigkeit von einem anderen Kriminellen und führt direkt in den nächsten gefährlichen Auftrag.
 
-Merksatz: Docs Freiheit wird mit einem Bankraub erkauft.
 
 - Einen Kronzeugen zu entführen: Eine Zeugenentführung ist nicht der vereinbarte Auftrag.
 - Ein Gefängnis auszukundschaften: Das Auskundschaften eines Gefängnisses ist nicht die Gegenleistung.
@@ -401,7 +384,6 @@ In welches Land wollen Doc und Carol (Steve McQueen, Ali MacGraw) in „Getaway�
 
 Nach dem Bankraub müssen Doc und Carol McCoy (Steve McQueen, Ali MacGraw) sowohl der Polizei als auch anderen Kriminellen entkommen. Ihre Route führt durch Texas nach El Paso und schließlich über die Grenze nach Mexiko. Am Ende bezahlen sie einen Cowboy (Slim Pickens) für seinen Pickup. Das Fluchtziel gibt der langen Reise eine Richtung, während der gemeinsame Weg ihre beschädigte Ehe belastet.
 
-Merksatz: Doc und Carol wollen mit der Beute nach Mexiko.
 
 - Mexiko: Die Flucht führt über El Paso nach Mexiko.
 - Kanada: Kanada ist nicht ihr Ziel.
@@ -423,7 +405,6 @@ Wen erschießt Carol (Ali MacGraw) in „Getaway“ bei der Auseinandersetzung a
 
 Jack Beynon (Ben Johnson) hat Carol McCoy (Ali MacGraw) dazu bringen wollen, ihren Mann Doc (Steve McQueen) zu töten. Als alle zusammentreffen, richtet sie die Waffe jedoch gegen Beynon. Doc erfährt anschließend, dass Carol für seine Freilassung auch eine sexuelle Beziehung mit dem Vermittler eingegangen war. Die Entscheidung rettet Doc, beseitigt aber nicht sein Misstrauen gegenüber seiner Frau.
 
-Merksatz: Carol erschießt Beynon und wendet sich gegen seinen Plan.
 
 - Doc McCoy (Steve McQueen): Beynon hatte seinen Tod verlangt; Carol erschießt jedoch Beynon.
 - Jack Beynon (Ben Johnson): Sie entscheidet sich gegen Beynon und erschießt ihn.
@@ -445,7 +426,6 @@ Warum überlebt Rudy Butler (Al Lettieri) in „Getaway“ die Schüsse, mit den
 
 Rudy Butler (Al Lettieri) bedroht nach dem Bankraub die McCoys. Doc McCoy (Steve McQueen) schießt auf ihn und hält ihn anschließend für tot. Eine schusssichere Weste bewahrt Rudy jedoch vor den tödlichen Treffern. Er muss seine verletzte Schulter behandeln lassen und nimmt die Verfolgung auf. So wird ein scheinbar erledigter Verräter erneut zur Gefahr auf der Fluchtroute.
 
-Merksatz: Rudys schusssichere Weste lässt ihn den vermeintlich tödlichen Angriff überleben.
 
 - Doc benutzt Platzpatronen: Die Munition ist nicht als Platzmunition präpariert.
 - Ein Geldkoffer fängt die Kugeln ab: Ein Geldkoffer ist nicht der schützende Gegenstand.
@@ -467,7 +447,6 @@ Wie gelangt ein Dieb (Richard Bright) in „Getaway“ am Bahnhof an den Koffer 
 
 Carol McCoy (Ali MacGraw) soll die Beute am Bahnhof sichern. Ein Dieb (Richard Bright) täuscht sie und vertauscht die Schließfachschlüssel, sodass er den Geldkoffer an sich nehmen kann. Doc (Steve McQueen) verfolgt ihn bis in einen Zug und holt das Geld zurück. Die Episode erweitert die Flucht um eine weitere Betrugsgefahr: Auch außerhalb des ursprünglichen Komplotts ist die Beute nicht sicher.
 
-Merksatz: Der Dieb stiehlt die Beute durch vertauschte Schließfachschlüssel.
 
 - Er tauscht zwei gleichartige Koffer aus: Kein Doppelgänger-Koffer ist die entscheidende Täuschung.
 - Er schneidet den Griffriemen durch: Der Koffer wird nicht durch Zerschneiden eines Riemens gestohlen.
@@ -489,7 +468,6 @@ Welche Beobachtung macht Doc (Steve McQueen) in „Getaway“ misstrauisch, als 
 
 Doc McCoy (Steve McQueen) kennt das Hotel in El Paso als Unterschlupf für Kriminelle. Als er mit Carol (Ali MacGraw) ankommt, bemerkt er, dass der Betreiber Laughlin (Dub Taylor) seine Familie weggeschickt hat. Er deutet dies als Vorbereitung auf eine gefährliche Auseinandersetzung und fordert Carol zur Fluchtbereitschaft auf. Tatsächlich sammeln sich Verfolger im Hotel. Eine häusliche Abweichung wird damit zum Warnsignal.
 
-Merksatz: Die fortgeschickte Familie des Hotelbetreibers lässt Doc eine Falle vermuten.
 
 - Der Betreiber hat seine Familie fortgeschickt: Die abwesende Familie weist für Doc auf eine erwartete Gefahr hin.
 - Der Betreiber hat die Fenster verbarrikadiert: Verbarrikadierte Fenster sind nicht das beobachtete Warnsignal.
@@ -511,7 +489,6 @@ In welchem Jahr wurde „Getaway“ mit Steve McQueen und Ali MacGraw erstmals v
 
 Getaway erschien 1972, vier Jahre nach Bullitt von 1968. In Bullitt spielte Steve McQueen einen Polizeiermittler, hier den verurteilten Bankräuber Doc McCoy. Die beiden Filme verbinden seine Präsenz mit Flucht, Verfolgung und präzise beobachteten Handlungen, stellen ihn aber auf unterschiedliche Seiten des Gesetzes. Der Abstand von vier Jahren bietet einen konkreten Zeitanker innerhalb seiner Laufbahn, ohne den späteren Getaway-Neuverfilmungen zu folgen.
 
-Merksatz: 1968 Bullitt, 1972 Getaway: vier Jahre Abstand.
 
 - 1968: 1968 erschien McQueens Polizeifilm Bullitt.
 - 1972: Der Film kam im Dezember 1972 heraus.
@@ -533,7 +510,6 @@ Wer führte bei „Getaway“ mit Steve McQueen und Ali MacGraw Regie?
 
 Sam Peckinpah führte bei dieser Verfilmung Regie; Walter Hill schrieb das Drehbuch nach Jim Thompsons Roman. Die Handlung folgt einem Ehepaar auf der Flucht und verschränkt den äußeren Druck der Verfolger mit dem verletzten Vertrauen zwischen Doc und Carol McCoy (Steve McQueen, Ali MacGraw). Regie und Drehbuch sind hier unterschiedliche Leistungen. Gerade Hills spätere eigene Regiearbeit kann diese Zuordnung leicht verwischen.
 
-Merksatz: Sam Peckinpah inszenierte Getaway.
 
 - Walter Hill: Walter Hill schrieb das Drehbuch.
 - Peter Yates: Peter Yates inszenierte Bullitt, nicht diesen Film.
@@ -559,7 +535,6 @@ Welchen Beruf übt Max Rockatansky (Mel Gibson) zu Beginn von „Mad Max“ aus?
 
 Max Rockatansky (Mel Gibson) ist zunächst Angehöriger einer noch bestehenden Straßenpolizei. Die Main Force Patrol verfolgt gewalttätige Fahrer und Motorradbanden in einer zunehmend zerfallenden Gesellschaft. Max steht damit am Anfang auf der Seite einer öffentlichen Ordnung, deren Mittel und Zusammenhalt schwinden. Erst die weiteren Angriffe auf Kollegen und Familie treiben ihn in die private Vergeltung außerhalb seines ursprünglichen Dienstauftrags.
 
-Merksatz: Max beginnt als Polizist der Main Force Patrol.
 
 - Verkehrspolizist: Er verfolgt Straftäter als Beamter der Main Force Patrol.
 - Lastwagenfahrer: Er wird nicht als Lastwagenfahrer eingeführt.
@@ -581,7 +556,6 @@ Womit wollen Max’ (Mel Gibson) Vorgesetzte ihn in „Mad Max“ zum Bleiben be
 
 Max Rockatansky (Mel Gibson) zweifelt an seinem Beruf. Seine Vorgesetzten präsentieren ihm deshalb einen besonders schnellen schwarzen V8-Pursuit-Special. Das Fahrzeug soll ihn zum Bleiben bewegen und spricht seine Begeisterung für leistungsstarke Autos an. Später benutzt er gerade diesen Wagen für seine persönliche Jagd. Eine Requisite, die ihn an die Institution binden sollte, begleitet so seine Abkehr von deren Grenzen.
 
-Merksatz: Ein neuer schwarzer V8-Einsatzwagen soll Max an den Polizeidienst binden.
 
 - Mit der Leitung einer neuen Wache: Eine neue Wache bekommt er nicht angeboten.
 - Mit einem besonders leistungsstarken Einsatzwagen: Der schwarze V8-Pursuit-Special soll ihn an den Dienst binden.
@@ -603,7 +577,6 @@ Warum muss Johnny the Boy (Tim Burns) in „Mad Max“ nach seiner Festnahme wie
 
 Johnny the Boy (Tim Burns) bleibt nach einem Überfall am Tatort zurück und wird von der Polizei festgenommen. Doch die Opfer und weitere Zeugen stehen für das Verfahren nicht zur Verfügung. Goose (Steve Bisley) reagiert wütend auf die Freilassung und bedroht Johnny. Die Begegnung verschärft den Konflikt mit der Gang und bereitet die spätere, gezielt gegen Goose gerichtete Vergeltung vor.
 
-Merksatz: Fehlende Zeugenaussagen führen zu Johnnys Freilassung.
 
 - Ein anderer gesteht die Tat: Ein Geständnis eines anderen ist nicht der Grund.
 - Ein bestochener Zeuge bestätigt sein Alibi: Ein erkauftes Alibi bildet nicht die Ursache seiner Freilassung.
@@ -625,7 +598,6 @@ Welche Sorge bringt Max (Mel Gibson) in „Mad Max“ nach Gooses (Steve Bisley)
 
 Nach dem Brandanschlag besucht Max Rockatansky (Mel Gibson) seinen schwer verletzten Kollegen Goose (Steve Bisley) im Krankenhaus. Der Anblick erschüttert ihn. Er erklärt seinem Vorgesetzten Fifi (Roger Ward), dass er aufhören möchte, weil er selbst zu einem der gewalttätigen Menschen werden könnte, die er verfolgt. Fifi bewegt ihn zunächst zu einem Urlaub. Der Film benennt dadurch Max’ spätere Grenzüberschreitung schon als Angst.
 
-Merksatz: Max fürchtet, durch seine Arbeit selbst zum brutalen Täter zu werden.
 
 - Seine Familie durch weitere Einsätze zu vernachlässigen: Er begründet den Rückzug mit der Sorge um seine eigene Menschlichkeit, nicht vor allem mit Zeit für die Familie.
 - Für Gooses Verletzung persönlich verantwortlich gemacht zu werden: Eine drohende persönliche Anschuldigung ist nicht seine erklärte Sorge.
@@ -647,7 +619,6 @@ Wie unterscheidet „Mad Max“ die Folgen des Angriffs auf Max’ Frau Jessie (
 
 Die Motorradgang verfolgt Jessie (Joanne Samuel) und ihr Kind während des Familienurlaubs. Als das Auto ausfällt, versucht sie zu Fuß zu entkommen und wird angefahren. Max (Mel Gibson) erfährt, dass sein Sohn tot ist und seine Frau im Koma liegt. Diese Unterscheidung ist wesentlich: Der Film bestätigt an dieser Stelle keinen Tod Jessies. Die Nachricht führt Max endgültig in seine private Rachejagd.
 
-Merksatz: Max verliert seinen Sohn; Jessie bleibt schwer verletzt im Koma.
 
 - Der Sohn stirbt; Jessie liegt im Koma: Der Film nennt den Tod des Kindes und Jessies kritischen Zustand im Koma.
 - Jessie stirbt; der Sohn bleibt unverletzt: Das Kind bleibt nicht unverletzt; Jessies Tod wird nicht bestätigt.
@@ -669,7 +640,6 @@ Welche Entscheidung zwingt Max (Mel Gibson) Johnny (Tim Burns) im Finale von „
 
 Max Rockatansky (Mel Gibson) findet Johnny the Boy (Tim Burns) bei einem verunglückten Wagen. Er kettet ihn am Wrack fest und bereitet eine zeitverzögerte Brandfalle vor. Dann lässt er eine Säge zurück und erklärt die unterschiedlichen Zeiten zum Durchtrennen von Fessel oder Fuß. Max fährt davon, bevor die Explosion zu sehen ist. Seine Gewalt hat damit die Form einer grausamen, selbst gesetzten Bestrafung angenommen.
 
-Merksatz: Max stellt Johnny vor die Wahl zwischen dem langsamen Durchsägen der Fessel und dem eigenen Fuß.
 
 - Den Arm oder die Fessel eines Komplizen durchzusägen: Es geht um Johnnys eigene Fessel und seinen Fuß, nicht um einen Komplizen.
 - Die Handschelle oder den eigenen Fuß durchzusägen: Max lässt eine Säge zurück, während eine vorbereitete Brandfalle droht.
@@ -691,7 +661,6 @@ In welchem Jahr wurde „Mad Max“ mit Mel Gibson erstmals veröffentlicht?
 
 Mad Max wurde 1979 in Australien veröffentlicht. Schon 1981 folgte Mad Max 2, international auch The Road Warrior genannt: zwei Jahre später. Mel Gibson blieb als Max verbunden, während die Welt der Fortsetzung stärker auf den Kampf um Treibstoff ausgerichtet wurde. Für den Reihenbeginn zählt die australische Veröffentlichung von 1979. Der US-Start von 1980 gehört zu seiner späteren internationalen Verbreitung.
 
-Merksatz: 1979 Mad Max, 1981 Mad Max 2: zwei Jahre Abstand.
 
 - 1976: 1976 liegt vor der fertigen Filmfassung.
 - 1980: 1980 kam der Film erst in die US-Kinos.
@@ -713,7 +682,6 @@ Wer führte bei „Mad Max“ mit Mel Gibson und Joanne Samuel Regie?
 
 George Miller entwickelte den Film gemeinsam mit Produzent Byron Kennedy und schrieb mit James McCausland das Drehbuch. Seine Erfahrungen als Arzt und Beobachter schwerer Straßenunfälle gehörten zum Hintergrund der gewalttätigen Fahrzeugwelt. Das NFSA nennt ihn allein als Regisseur. Die rasanten Bilder verbinden eine Begeisterung für Geschwindigkeit mit deren zerstörerischen Folgen; diese Spannung reicht über die reine Darstellung spektakulärer Verfolgungen hinaus.
 
-Merksatz: George Miller inszenierte den ersten Mad Max.
 
 - Peter Weir: Weir inszenierte diesen Film nicht.
 - Bruce Beresford: Beresford steht nicht im Regiecredit.
@@ -739,7 +707,6 @@ Warum werden Manny und Buck (Jon Voight, Eric Roberts) in „Express in die Höl
 
 Manny (Jon Voight) wird nach einem erfolgreichen Rechtsstreit aus jahrelanger Isolation innerhalb des Gefängnisses entlassen. Für ihn bedeutet das noch keine Freiheit. Nach einem weiteren Angriff plant er die Flucht und nimmt Buck (Eric Roberts) mit. Die Männer überwinden die winterliche Umgebung und verstecken sich in Lokomotiven. Gefängnisdirektor Ranken (John P. Ryan) verfolgt sie, während aus ihrer Flucht eine neue Gefangenschaft im fahrenden Zug wird.
 
-Merksatz: Manny und Buck sind entflohene Gefangene.
 
 - Sie haben einen Geldtransport überfallen: Ein überfallener Geldtransport ist nicht der Anlass ihrer Verfolgung.
 - Sie sind aus der Haft ausgebrochen: Beide fliehen aus dem Gefängnis in Alaska.
@@ -761,7 +728,6 @@ Welche Rolle hat Sara (Rebecca De Mornay), die Manny und Buck (Jon Voight, Eric 
 
 Sara (Rebecca De Mornay) ist auf dem Lokomotivverband, weil sie bei der Eisenbahn arbeitet. Manny (Jon Voight) und Buck (Eric Roberts) treffen sie erst, als die Fahrt bereits außer Kontrolle geraten ist. Ihre Anwesenheit erweitert die Geschichte über eine reine Gefangenenflucht hinaus. Sie kann technische Zusammenhänge erklären und widerspricht der Bereitschaft, für den eigenen Vorteil das Leben eines anderen aufs Spiel zu setzen.
 
-Merksatz: Sara ist Eisenbahnarbeiterin und zufällig auf dem Zug geblieben.
 
 - Sie ist eine mitreisende Gefängnisbeamtin: Sie begleitet keinen Gefangenentransport.
 - Sie ist eine verdeckte Ermittlerin: Eine verdeckte Ermittlungsmission wird nicht enthüllt.
@@ -783,7 +749,6 @@ Was setzt in „Express in die Hölle“ die unkontrollierte Fahrt der Lokomotiv
 
 Der Lokführer erleidet einen Herzinfarkt, nachdem er den Lokomotivverband in Bewegung gesetzt hat. Er fällt vom Zug, während der Antrieb weiterarbeitet. Die zunächst angelegten Bremsen halten der Belastung nicht stand. Manny und Buck (Jon Voight, Eric Roberts) haben ein Versteck gesucht, aber keine Fahrt ohne Fahrer geplant. Die technische Katastrophe entsteht unabhängig von ihrem Ausbruch und macht plötzlich alle Beteiligten zu möglichen Opfern.
 
-Merksatz: Der Zusammenbruch des Lokführers macht aus der Flucht eine Fahrt ohne Kontrolle.
 
 - Ein Wärter manipuliert die Steuerung: Der Wärter sabotiert nicht die Steuerung.
 - Die Flüchtlinge zerstören den Führerstand: Die Flüchtlinge lösen die Fahrt nicht durch Zerstörung des Führerstands aus.
@@ -805,7 +770,6 @@ Welches Zeichen veranlasst die Leitstelle in „Express in die Hölle“, eine g
 
 Die Bahnmitarbeiter erwägen, den offenbar führerlosen Zug entgleisen zu lassen, um andere Züge und Anlagen zu schützen. Dann hören sie die Lokomotivhupe. Sara (Rebecca De Mornay) hat sie betätigt, wodurch die Leitstelle erkennt, dass sich Menschen auf dem Zug befinden. Der Eingriff wird zunächst abgesagt. Das Geräusch verändert damit die Abwägung: Eine technische Gefahrenquelle muss nun zugleich als Ort eingeschlossener Menschen behandelt werden.
 
-Merksatz: Eine betätigte Hupe verrät der Leitstelle, dass Menschen an Bord sind.
 
 - Die Lokomotivhupe ertönt: Die Hupe zeigt, dass noch Menschen an Bord sind.
 - Eine Taschenlampe blinkt aus einem Führerstand: Ein sichtbares Lampensignal löst den Abbruch nicht aus.
@@ -827,7 +791,6 @@ Wie vermindert Sara (Rebecca De Mornay) in „Express in die Hölle“ gemeinsam
 
 Sara (Rebecca De Mornay) erklärt Manny und Buck (Jon Voight, Eric Roberts), wie die Lokomotiven gekoppelt gesteuert werden. Sie trennen die Kabel zwischen dem zweiten und dritten Fahrzeug, sodass die hinteren beiden keinen Antrieb mehr liefern. Der Verband wird langsamer, bleibt aber gefährlich in Bewegung. Das Manöver zeigt den Unterschied zwischen verringerter Leistung und wirklichem Anhalten: Die entscheidende Kontrolle der führenden Lokomotive ist noch nicht erreicht.
 
-Merksatz: Getrennte Steuerkabel schalten die hinteren beiden Lokomotiven aus dem Antrieb.
 
 - Sie sperren die Treibstoffleitung im hinteren Führerstand: Eine dort gesperrte Treibstoffleitung ist nicht das gezeigte Manöver.
 - Sie trennen Steuerkabel zwischen den Lokomotiven: Die getrennten Steuerkabel nehmen die hinteren beiden Lokomotiven aus dem Antrieb.
@@ -849,7 +812,6 @@ Warum kuppelt Manny (Jon Voight) in „Express in die Hölle“ zuletzt die füh
 
 Manny (Jon Voight) gelangt auf die führende Lokomotive, wo auch Ranken (John P. Ryan) ankommt. Er fesselt seinen Verfolger und lehnt dessen Forderung ab, den Zug anzuhalten. Als Buck und Sara (Eric Roberts, Rebecca De Mornay) aus dem restlichen Verband auf sich aufmerksam machen, trennt Manny die vordere Lokomotive ab. Seine letzte Entscheidung bewahrt ihre Chance zu überleben, während er selbst weiterfährt.
 
-Merksatz: Manny trennt die führende Lokomotive ab und lässt Buck und Sara zurück.
 
 - Um den hinteren Verband gezielt entgleisen zu lassen: Der hintere Verband soll gerade nicht absichtlich entgleisen.
 - Um mit geringerem Gewicht die nächste Kurve zu schaffen: Eine schnellere Kurvenfahrt ist nicht der Zweck seiner letzten Entscheidung.
@@ -871,7 +833,6 @@ In welchem Jahr wurde „Express in die Hölle“ mit Jon Voight erstmals veröf
 
 Express in die Hölle erschien 1985. Bereits 1966 war ein Runaway-Train-Projekt mit Akira Kurosawa öffentlich angekündigt worden, also neunzehn Jahre zuvor. Dieses Vorhaben wurde nicht damals realisiert. Der Stoff durchlief weitere Produktionspläne, bis die spätere Verfilmung zustande kam. Der Zeitanker verbindet deshalb eine konkrete Ankündigung mit dem tatsächlichen Kinostart und erklärt die lange Vorgeschichte hinter dem scheinbar geradlinigen Actionfilm.
 
-Merksatz: 1966 Projektankündigung, 1985 Express in die Hölle: neunzehn Jahre Abstand.
 
 - 1982: 1982 war das Projekt noch in einer früheren Entwicklungsphase.
 - 1986: Die breite Auswertung 1986 ist nicht der erste Start.
@@ -893,7 +854,6 @@ Wer führte bei „Express in die Hölle“ mit Jon Voight und Eric Roberts Regi
 
 Andrei Konchalovsky inszenierte die tatsächlich veröffentlichte Fassung für Cannon. Akira Kurosawas Beteiligung gehört zur älteren Entwicklung des Stoffes und ist kein gemeinsamer Regiecredit des fertigen Films. Konchalovsky verbindet die technische Bedrohung mit Mannys (Jon Voight) Konflikt um Freiheit, Gewalt und Würde. Die Zuordnung trennt damit zwei leicht verwechselte Leistungen: die Vorgeschichte eines Projekts und die Regie der später realisierten Verfilmung.
 
-Merksatz: Andrei Konchalovsky inszenierte Express in die Hölle.
 
 - Andrei Konchalovsky: Konchalovsky inszenierte die veröffentlichte Filmfassung.
 - Akira Kurosawa: Kurosawa war an der früheren Stoffentwicklung beteiligt.
@@ -919,7 +879,6 @@ Für welche Behörde arbeiten Chance und Vukovich (William Petersen, John Pankow
 
 Richard Chance (William Petersen) und John Vukovich (John Pankow) arbeiten für den Secret Service. Ihr Tätigkeitsfeld umfasst den Schutz des Präsidenten und die Bekämpfung von Geldfälschung. Die Handlung beginnt mit einer Schutzaufgabe, verlagert sich dann aber auf ein Falschgeldgeschäft. Die Behördenzugehörigkeit erklärt diesen Wechsel: Der Film begleitet keine gewöhnliche Mordkommission, sondern Agenten, deren Aufgaben beide Bereiche miteinander verbinden.
 
-Merksatz: Chance und Vukovich arbeiten für den Secret Service.
 
 - FBI: Sie gehören nicht zum FBI.
 - Los Angeles Police Department: Sie sind keine Beamten des LAPD.
@@ -941,7 +900,6 @@ Womit verdient Rick Masters (Willem Dafoe) in „Leben und Sterben in L.A.“ se
 
 Rick Masters (Willem Dafoe) ist Künstler und Geldfälscher. Sein eigentliches kriminelles Geschäft besteht im Herstellen und Verkaufen falscher Banknoten, abgesichert durch Helfer und Gewalt. Richard Chance (William Petersen) will ihn nach dem Tod seines Kollegen unbedingt überführen. Für die Ermittlung werden deshalb Kontakte zu Käufern, Kurieren und Anwälten wichtig. Das Verbrechen beruht auf einem Vertriebsnetz, das nicht mit dem Fälschen allein beendet ist.
 
-Merksatz: Masters produziert und handelt mit Falschgeld.
 
 - Mit gestohlenen Gemälden: Seine Kunsttätigkeit ist nicht das abgefragte Geschäft mit gestohlenen Gemälden.
 - Mit geschmuggelten Waffen: Waffenschmuggel ist nicht der zentrale Handel.
@@ -963,7 +921,6 @@ Warum überfallen Chance und Vukovich (William Petersen, John Pankow) in „Lebe
 
 Masters (Willem Dafoe) verlangt 30.000 Dollar Vorschuss für das angebliche Geschäft der verdeckt ermittelnden Agenten. Die Behörde stellt das Geld nicht bereit. Chance (William Petersen) drängt seinen Partner Vukovich (John Pankow) deshalb zu einem illegalen Raub an einem vermeintlichen Teilnehmer eines Diamantengeschäfts. Der Versuch, die Ermittlung zum Erfolg zu zwingen, verwandelt die Ermittler selbst in Täter und setzt eine folgenreiche Verfolgung in Gang.
 
-Merksatz: Die Agenten beschaffen Geld für den verdeckten Kauf durch einen Raub.
 
 - Sie brauchen echtes Geld für einen verdeckten Falschgeldkauf: Die geforderten 30.000 Dollar Vorschuss sollen den verdeckten Kauf ermöglichen.
 - Sie wollen einen Informanten für belastende Aussagen bezahlen: Das Geld ist kein Honorar für die Aussage eines Informanten.
@@ -985,7 +942,6 @@ Was erfahren die Agenten in „Leben und Sterben in L.A.“ nach ihrem Raub übe
 
 Chance und Vukovich (William Petersen, John Pankow) glauben, bei ihrem Raub Geld aus einem illegalen Diamantengeschäft zu erbeuten. Der Mann wird während der Schüsse getötet, und die beiden fliehen vor bewaffneten Verfolgern. Erst bei einer Dienstbesprechung erfahren sie, dass das Opfer ein verdeckter FBI-Agent war. Die vermeintliche Beschaffung von Einsatzgeld hat damit eine andere Ermittlung zerstört und einen Kollegen das Leben gekostet.
 
-Merksatz: Das Opfer des illegalen Raubs war ein verdeckt arbeitender FBI-Agent.
 
 - Er war Masters’ persönlicher Buchhalter: Die Enthüllung betrifft kein Buchhalterverhältnis zu Masters.
 - Er war ein verdeckter FBI-Agent: Bei der Dienstbesprechung erfahren sie von seiner FBI-Zugehörigkeit.
@@ -1007,7 +963,6 @@ Welche Verbindung Grimes’ (Dean Stockwell) zu Masters (Willem Dafoe) wird gege
 
 Anwalt Grimes (Dean Stockwell) vermittelt den Kontakt zu Masters (Willem Dafoe) und scheint mit den Agenten zusammenzuarbeiten. Vukovich (John Pankow) erwägt sogar, seinem Rat zu folgen und gegen Chance (William Petersen) auszusagen. Später offenbart Masters, dass Grimes weiterhin für ihn arbeitet. Die vermeintliche Ausstiegshilfe war Teil der Gegenstrategie. Vertrauen in einen Mittelsmann wird dadurch zu einem weiteren Risiko der verdeckten Ermittlung.
 
-Merksatz: Grimes’ scheinbare Hilfe gehört zur Täuschung zugunsten von Masters.
 
 - Er kooperiert mit den Agenten hinter Masters’ Rücken: Masters weiß über Grimes’ Angebot an Vukovich Bescheid.
 - Er vermittelt neutral einen Handel zwischen beiden Seiten: Grimes steht nicht als neutraler Vermittler zwischen den Parteien.
@@ -1029,7 +984,6 @@ Wie behandelt Vukovich (John Pankow) Ruth (Darlanne Fluegel) im Schluss von „L
 
 Ruth (Darlanne Fluegel) möchte Los Angeles verlassen. Nach Chances (William Petersen) Tod sucht Vukovich (John Pankow) sie auf und erklärt, dass sie künftig für ihn arbeiten werde. Er knüpft dabei an die Drohungen an, mit denen Chance ihre Bewährung und ihre Informantentätigkeit kontrolliert hatte. Das Ende zeigt also keinen unbelasteten Neuanfang des zurückhaltenderen Partners. Er setzt ein zuvor abgelehntes Verhalten selbst fort.
 
-Merksatz: Vukovich übernimmt gegenüber Ruth die Zwangsmethoden seines toten Partners.
 
 - Er finanziert ihren Neuanfang außerhalb der Stadt: Er unterstützt ihren geplanten Wegzug nicht.
 - Er übergibt sie dem Zeugenschutz des FBI: Ein Zeugenschutzprogramm wird nicht eingerichtet.
@@ -1051,7 +1005,6 @@ In welchem Jahr wurde „Leben und Sterben in L.A.“ mit William Petersen und W
 
 Leben und Sterben in L.A. erschien 1985, ein Jahr nach Gerald Petievichs Roman von 1984. Petievich war zusammen mit William Friedkin auch am Drehbuch beteiligt. Der knappe Abstand verbindet die Buchveröffentlichung mit einer zeitnahen filmischen Bearbeitung desselben Stoffes. Der Kinostart war im November 1985. Die Beteiligung des Romanautors erklärt außerdem, weshalb sein Name sowohl bei der Vorlage als auch beim Drehbuch auftaucht.
 
-Merksatz: 1984 Roman, 1985 Leben und Sterben in L.A.: ein Jahr Abstand.
 
 - 1985: Der US-Kinostart lag am 1. November 1985.
 - 1981: 1981 ist nicht das Veröffentlichungsjahr.
@@ -1073,7 +1026,6 @@ Wer führte bei „Leben und Sterben in L.A.“ mit William Petersen und Willem 
 
 William Friedkin führte Regie und schrieb mit dem Romanautor Gerald Petievich das Drehbuch. Die Kameraarbeit stammt von Robby Müller. Die Ermittlung gegen einen Geldfälscher verbindet Friedkin mit einem Partnerkonflikt, riskanten verdeckten Geschäften und einer Verfolgung entgegen der Verkehrsrichtung. Die offizielle Zuordnung macht zugleich unterschiedliche Beiträge sichtbar: Petievichs Vorlage und Mitarbeit am Drehbuch sind ebenso wenig ein Regiecredit wie Müllers Kameraarbeit.
 
-Merksatz: William Friedkin inszenierte Leben und Sterben in L.A.
 
 - Michael Mann: Mann inszenierte diesen Film nicht.
 - William Friedkin: Friedkin ist als Regisseur und Drehbuchautor genannt.
@@ -1099,7 +1051,6 @@ Welche Aufgabe erfüllt Casey Ryback (Steven Seagal) an Bord des Schlachtschiffs
 
 Casey Ryback (Steven Seagal) arbeitet an Bord der USS Missouri als Koch. Sein Streit mit Commander Krill (Gary Busey) führt dazu, dass er vor der Feier eingesperrt wird. Die Angreifer unterschätzen deshalb zunächst einen Mann, dessen aktuelle Aufgabe seine frühere Ausbildung nicht erkennen lässt. Erst während der Besetzung wird deutlich, dass Ryback als ehemaliger Navy SEAL über weitreichende Kampferfahrung verfügt.
 
-Merksatz: Ryback arbeitet auf dem Schlachtschiff als Koch.
 
 - Er dient als Waffenoffizier: Er ist nicht als Waffenoffizier an Bord.
 - Er arbeitet als Funktechniker: Die Funktechnik ist nicht seine zugewiesene Aufgabe.
@@ -1121,7 +1072,6 @@ Welcher Anlass ermöglicht den Angreifern in „Alarmstufe: Rot“, als Unterhal
 
 Captain Adams (Patrick O’Neal) soll mit einer Feier überrascht werden. Ein Hubschrauber bringt Musiker, Bewirtung und Jordan Tate (Erika Eleniak) an Bord. Hinter Band und Catering verbergen sich jedoch die Männer von Strannix (Tommy Lee Jones). Die vorbereitete Feier verschafft ihnen Zugang und verteilt sie auf dem Schiff. Ein vertrauter festlicher Ablauf wird dadurch zum Mittel, die Besatzung zu überrumpeln.
 
-Merksatz: Die Geburtstagsfeier des Kapitäns tarnt das Eintreffen der Angreifer.
 
 - Der Geburtstag des Kapitäns: Band und Bewirtung werden für Captain Adams’ Geburtstag erwartet.
 - Die Vereidigung neuer Offiziere: Eine Offiziersvereidigung ist nicht die getarnte Veranstaltung.
@@ -1143,7 +1093,6 @@ Welche militärische Ladung wollen Strannix und Krill (Tommy Lee Jones, Gary Bus
 
 Strannix (Tommy Lee Jones) und Krill (Gary Busey) wollen die Kontrolle über das Schiff nutzen, um Tomahawk-Marschflugkörper auf ein gekapertes U-Boot zu bringen. Der Plan dient dem Weiterverkauf der Waffen und verbindet Gewinnabsicht mit Strannix’ Rache an seinem ehemaligen Arbeitgeber. Der Diebstahl ist vom späteren Raketenangriff zu unterscheiden: Erst als die Flucht scheitert, setzt Strannix verbliebene Waffen zur unmittelbaren Vergeltung ein.
 
-Merksatz: Die Angreifer wollen die Tomahawk-Marschflugkörper stehlen.
 
 - Patriot-Flugabwehrraketen: Patriot-Raketen sind nicht die begehrte Ladung.
 - Tomahawk-Marschflugkörper: Die Tomahawks sollen gestohlen und weiterverkauft werden.
@@ -1165,7 +1114,6 @@ Wie versucht Krill (Gary Busey) in „Alarmstufe: Rot“, Ryback (Steven Seagal)
 
 Krill (Gary Busey) aktiviert ein System, das den Raum mit der eingeschlossenen Besatzung unter Wasser setzt. Er rechnet damit, dass Ryback (Steven Seagal) die Männer retten will, und bereitet einen Hinterhalt vor. Die Geiseln sind damit nicht nur festgehaltene Zeugen der Übernahme, sondern werden aktiv als Druckmittel eingesetzt. Ryback muss die Rettung organisieren und zugleich vermeiden, genau in die erwartete Falle zu laufen.
 
-Merksatz: Krill benutzt die drohende Überflutung der Gefangenen als Köder.
 
 - Er droht mit der Hinrichtung mehrerer Matrosen: Eine angekündigte Erschießung bildet nicht diese konkrete Falle.
 - Er legt einen Brand im Maschinenraum: Ein Maschinenraumbrand wird nicht als dieses Lockmittel eingesetzt.
@@ -1187,7 +1135,6 @@ Mit welcher Waffe zerstören Ryback und Calaway (Steven Seagal, Sandy Ward) in �
 
 Calaway (Sandy Ward) ist ein ehemaliger Geschützbediener, der das Schiff aus dem Zweiten Weltkrieg kennt. Zusammen mit Ryback (Steven Seagal) setzt er die schweren Bordgeschütze gegen das U-Boot ein. Dieses hatte zuvor den herannahenden Hubschrauber der Navy SEALs abgeschossen. Die ältere Waffentechnik wird damit zur entscheidenden Antwort auf die Fluchtmöglichkeit der Angreifer, während externe Hilfe bereits gescheitert ist.
 
-Merksatz: Die schweren Geschütze der Missouri zerstören das U-Boot.
 
 - Mit den eigenen Torpedos des U-Boots: Die Torpedos des U-Boots werden nicht gegen es gewendet.
 - Mit Harpoon-Raketen des Schlachtschiffs: Harpoon-Raketen sind nicht die hierbei eingesetzte Waffe.
@@ -1209,7 +1156,6 @@ Was ermöglicht Ryback (Steven Seagal) in „Alarmstufe: Rot“ nach dem Kampf i
 
 Strannix (Tommy Lee Jones) startet zwei nuklear bestückte Tomahawks gegen Honolulu. Ryback (Steven Seagal) erreicht den Kontrollraum und besiegt ihn im Messerkampf. Ein Flugzeug zerstört einen der Flugkörper; für den anderen braucht Ryback die Diskette mit den Startcodes. Der Sieg über den Täter allein beseitigt die Gefahr also noch nicht. Erst der Zugriff auf die Steuerung verhindert den verbleibenden Raketenangriff.
 
-Merksatz: Die Startcode-Diskette ermöglicht das Stoppen des verbliebenen Tomahawks.
 
 - Die Diskette mit den Startcodes: Mit den Codes lässt sich der verbliebene Marschflugkörper deaktivieren.
 - Das Kennwort für die Satellitensteuerung: Ein separat beschafftes Satellitenkennwort ist nicht das Hilfsmittel.
@@ -1231,7 +1177,6 @@ In welchem Jahr wurde „Alarmstufe: Rot“ mit Steven Seagal erstmals veröffen
 
 Alarmstufe: Rot erschien 1992. Ein Jahr später, 1993, kam Auf der Flucht heraus: erneut eine Inszenierung von Andrew Davis mit Tommy Lee Jones in einer wichtigen Rolle. Der Wechsel vom besetzten Schlachtschiff zur Jagd auf einen entflohenen Arzt macht die beiden konkreten Projekte leicht unterscheidbar. Der Abstand von einem Jahr verankert den Seagal-Film vor dem späteren Erfolg derselben Regisseur-Darsteller-Zusammenarbeit.
 
-Merksatz: 1992 Alarmstufe: Rot, 1993 Auf der Flucht: ein Jahr Abstand.
 
 - 1989: 1989 liegt vor dieser Produktion.
 - 1992: Der erste US-Kinostart lag im Oktober 1992.
@@ -1253,7 +1198,6 @@ Wer führte bei „Alarmstufe: Rot“ mit Steven Seagal und Tommy Lee Jones Regi
 
 Andrew Davis führte Regie nach einem Drehbuch von J. F. Lawton. Steven Seagal spielte die Hauptrolle und gehörte außerdem zu den Produzenten. Seine starke Präsenz im Film ist deshalb von der Regieleistung zu unterscheiden. Davis inszeniert die Kämpfe in den begrenzten Räumen des Schlachtschiffs und wechselt zwischen Rybacks (Steven Seagal) Widerstand an Bord und den Entscheidungen der militärischen Führung an Land.
 
-Merksatz: Andrew Davis inszenierte Alarmstufe: Rot.
 
 - John McTiernan: McTiernan führte bei dieser Produktion nicht Regie.
 - Peter Hyams: Hyams steht nicht im Regiecredit.
@@ -1279,7 +1223,6 @@ Welche Art Gerät soll Bond (Sean Connery) in „James Bond 007 – Liebesgrüß
 
 Tatiana Romanova (Daniela Bianchi) bietet an, bei der Beschaffung des Lektors zu helfen, wenn Bond (Sean Connery) sie in den Westen begleitet. Das Gerät könnte dem britischen Geheimdienst Zugang zu sowjetischen Nachrichten verschaffen und ist deshalb ein glaubhafter Köder. Bond und seine Vorgesetzten rechnen durchaus mit einer Falle. Der mögliche Gewinn erklärt trotzdem, warum sie das Angebot prüfen und den Einsatz fortsetzen.
 
-Merksatz: Der Lektor ist eine Chiffriermaschine.
 
 - Eine Chiffriermaschine: Der Lektor ist eine sowjetische Chiffriermaschine.
 - Ein tragbares Radar: Ein Radar ist nicht das begehrte Gerät.
@@ -1301,7 +1244,6 @@ Mit welchem Verkehrsmittel verlassen Bond und Tatiana (Sean Connery, Daniela Bia
 
 Nach dem Diebstahl des Lektors steigen Bond und Tatiana (Sean Connery, Daniela Bianchi) zusammen mit Kerim Bey (Pedro Armendáriz) in den Orient-Express. Die Reise soll sie nach Westen bringen. Doch die Abteile und Zwischenhalte eröffnen dem Verfolger neue Möglichkeiten. Der vermeintlich sichere Transport wird zum engen Schauplatz einer weiteren Täuschung, in dem Bond einen Verbündeten verliert und einem falschen Kontaktmann begegnet.
 
-Merksatz: Die Flucht aus Istanbul beginnt im Orient-Express.
 
 - Mit einer Fähre über das Schwarze Meer: Eine Schwarzmeerfähre ist nicht dieser erste Fluchtweg.
 - Mit dem Orient-Express: Sie fahren mit dem Orient-Express Richtung Westen.
@@ -1323,7 +1265,6 @@ Wessen Auftrag glaubt Tatiana (Daniela Bianchi) in „James Bond 007 – Liebesg
 
 Rosa Klebb (Lotte Lenya) hat den sowjetischen Dienst verlassen und arbeitet für SPECTRE. Tatiana Romanova (Daniela Bianchi) weiß davon jedoch nichts. Klebb nutzt ihre frühere Autorität, um die junge Angestellte als ahnungslosen Köder für Bond (Sean Connery) einzusetzen. Tatianas tatsächliche Gefühle und ihr vermeintlicher dienstlicher Auftrag geraten dadurch in einen Konflikt, dessen wahre Auftraggeber sie anfangs gar nicht kennt.
 
-Merksatz: Tatiana hält Klebbs Operation für einen sowjetischen Geheimdienstauftrag.
 
 - Einen direkten Auftrag des britischen Geheimdienstes: Tatiana glaubt nicht, bereits für die Briten zu arbeiten.
 - Einen Auftrag der privaten Organisation SPECTRE: SPECTRE steht tatsächlich hinter der Operation; Tatiana weiß davon jedoch nichts.
@@ -1345,7 +1286,6 @@ Als was gibt sich Grant (Robert Shaw) in „James Bond 007 – Liebesgrüße aus
 
 Grant (Robert Shaw) hört mit, welchen britischen Kontaktmann Bond (Sean Connery) bei einem Zwischenhalt erwartet. Er tötet diesen Mann und nimmt seine Stelle ein. Im Zug kann er dadurch als vermeintlicher Verbündeter auftreten, Tatiana (Daniela Bianchi) betäuben und Bond überwältigen. Die Tarnung nutzt keine zufällige Verwechslung, sondern Bonds vorherige Erwartung, endlich Unterstützung durch den eigenen Dienst zu erhalten.
 
-Merksatz: Grant übernimmt die Identität des erwarteten britischen Kontaktagenten.
 
 - Als sowjetischer Überläufer: Ein sowjetischer Überläufer ist nicht seine Tarnrolle.
 - Als französischer Polizeibeamter: Er behauptet nicht, der französischen Polizei anzugehören.
@@ -1367,7 +1307,6 @@ Welchen scheinbaren Todeshergang soll SPECTREs Film von Bond und Tatiana (Sean C
 
 Klebb und Grant (Lotte Lenya, Robert Shaw) haben Bond und Tatiana (Sean Connery, Daniela Bianchi) heimlich im Hotel gefilmt. Grant erklärt im Zug, dass beide getötet werden sollen und die Aufnahmen eine angebliche Erpressungsgeschichte stützen würden. So könnte der Tod wie Mord mit anschließendem Selbstmord wirken und den britischen Geheimdienst beschämen. SPECTRE plant also zugleich einen Anschlag und eine falsche öffentliche Deutung.
 
-Merksatz: SPECTRE will die Tötung als kompromittierendes Mord-und-Selbstmord-Drama tarnen.
 
 - Mord mit anschließendem Selbstmord: Die Aufnahmen sollen eine kompromittierende Mord-und-Selbstmord-Geschichte stützen.
 - Einen sowjetischen Geheimdienstanschlag: Die Inszenierung soll gerade nicht als sowjetischer Geheimdienstanschlag erscheinen.
@@ -1389,7 +1328,6 @@ Wie endet Klebbs (Lotte Lenya) letzter Angriff auf Bond (Sean Connery) im venezi
 
 Rosa Klebb (Lotte Lenya) erscheint im Hotel als Zimmermädchen und greift Bond (Sean Connery) mit einer vergifteten Klinge im Schuh an. Tatiana (Daniela Bianchi) muss sich nun sichtbar gegen die Frau entscheiden, deren vermeintlichem dienstlichen Auftrag sie zunächst gefolgt war. Sie erschießt Klebb und rettet Bond. Der letzte Angriff schließt damit nicht nur eine Actionfolge ab, sondern löst Tatianas ursprüngliche Abhängigkeit von ihrer falschen Auftraggeberin.
 
-Merksatz: Tatiana erschießt Klebb und rettet Bond.
 
 - Bond (Sean Connery) wendet Klebbs Giftklinge gegen sie: Er tötet sie nicht mit der Klinge aus ihrem Schuh.
 - Tatiana (Daniela Bianchi) erschießt Klebb: Tatiana wendet die Waffe gegen ihre frühere Auftraggeberin.
@@ -1411,7 +1349,6 @@ In welchem Jahr wurde „James Bond 007 – Liebesgrüße aus Moskau“ mit Sean
 
 Liebesgrüße aus Moskau erschien 1963, ein Jahr nach Dr. No von 1962. Sean Connery kehrte als Bond zurück; der zweite Film führte die zuvor begonnene Kinoreihe weiter und verdichtete den Konflikt mit SPECTRE. Der spätere amerikanische Kinostart 1964 ist für das Erstjahr nicht maßgeblich. Der konkrete Abstand von einem Jahr verankert den Film am Anfang der Reihe, unmittelbar nach Bonds erstem Kinoabenteuer.
 
-Merksatz: 1962 Dr. No, 1963 Liebesgrüße aus Moskau: ein Jahr Abstand.
 
 - 1962: 1962 erschien zuvor Dr. No.
 - 1964: 1964 bezeichnet hier den späteren US-Start.
@@ -1433,7 +1370,6 @@ Wer führte bei „James Bond 007 – Liebesgrüße aus Moskau“ mit Sean Conne
 
 Terence Young führte bei der veröffentlichten Filmfassung Regie. Peter Hunt war für den Schnitt verantwortlich und wurde erst später selbst Bond-Regisseur. Richard Maibaum schrieb das Drehbuch; Johanna Harwood erhielt den Adaptionscredit. Die Verbindung aus Täuschungen, Zugreise und Nahkampf verdichtet Bonds (Sean Connery) Einsatz zu einer Spionagegeschichte, in der der Gegner lange als vermeintlicher Helfer auftreten kann. Die Credits trennen diese unterschiedlichen Gestaltungsleistungen.
 
-Merksatz: Terence Young inszenierte Liebesgrüße aus Moskau.
 
 - Guy Hamilton: Hamilton inszenierte den nachfolgenden Goldfinger.
 - Lewis Gilbert: Gilbert führte bei dieser Filmfassung nicht Regie.
@@ -1459,7 +1395,6 @@ Als welche Einrichtung tarnt Blofeld (Telly Savalas) in „James Bond 007 – Im
 
 Auf Piz Gloria betreibt Blofeld (Telly Savalas) angeblich ein Institut zur Behandlung von Allergien. Junge Frauen erscheinen als Patientinnen, deren Beschwerden erfolgreich behandelt worden seien. Bond (George Lazenby) erhält unter einer falschen Identität Zugang. Die medizinische Fassade verdeckt ein Programm, das mit Heilung nichts zu tun hat. Der abgelegene Ort und die kontrollierten Abläufe erleichtern es, den tatsächlichen Zweck vor Besuchern zu verbergen.
 
-Merksatz: Blofeld tarnt Piz Gloria als Allergieklinik.
 
 - Als Kurklinik für Kriegsverletzte: Kriegsverletzte bilden nicht die behauptete Patientengruppe.
 - Als Klinik für Allergiebehandlung: Die Patientinnen sollen dort angeblich von Allergien geheilt werden.
@@ -1481,7 +1416,6 @@ Wie sind Draco (Gabriele Ferzetti) und Tracy (Diana Rigg) in „James Bond 007 �
 
 Tracy (Diana Rigg) ist die Tochter des Verbrechersyndikat-Chefs Draco (Gabriele Ferzetti). Ihr Vater möchte, dass Bond (George Lazenby) ihr Halt gibt, und bietet ihm zunächst sogar Geld für eine Heirat. Bond lehnt diesen Handel ab, sucht aber Dracos Hilfe bei der Verfolgung Blofelds (Telly Savalas). Die Beziehung erklärt, wie die zunächst getrennten Liebes- und Ermittlungsstränge über ein persönliches Interesse miteinander verbunden werden.
 
-Merksatz: Draco ist Tracys Vater.
 
 - Er ist ihr Onkel: Die Verbindung ist enger als die zwischen Onkel und Nichte.
 - Er ist ihr früherer Ehemann: Er war nicht mit ihr verheiratet.
@@ -1503,7 +1437,6 @@ Wozu sollen Blofelds (Telly Savalas) Patientinnen in „James Bond 007 – Im Ge
 
 Bond (George Lazenby) bemerkt, dass die vermeintlichen Patientinnen auf Piz Gloria nachts hypnotische Anweisungen erhalten. Blofeld (Telly Savalas) will sie nach Hause schicken, damit sie biologische Kampfstoffe verbreiten und die Landwirtschaft bedrohen. Die Frauen wissen dabei nicht bewusst, welche Rolle sie spielen sollen. Ihre gewöhnlichen Reisewege werden als unauffällige Verteilung genutzt, während die angekündigte Behandlung lediglich die Vorbereitung des Angriffs verdeckt.
 
-Merksatz: Die Patientinnen werden als Trägerinnen biologischer Angriffe vorbereitet.
 
 - Zum Stehlen geheimer Rüstungspläne: Rüstungspläne sind nicht das Ziel ihrer Rückreise.
 - Zum Einschleusen gefälschter Banknoten: Ein Falschgeldnetz wird nicht vorbereitet.
@@ -1525,7 +1458,6 @@ Wie verändert Moneypenny (Lois Maxwell) in „James Bond 007 – Im Geheimdiens
 
 M (Bernard Lee) entzieht Bond (George Lazenby) die weitere Jagd auf Blofeld. Bond reagiert zornig und diktiert Moneypenny (Lois Maxwell) seine Kündigung. Sie reicht stattdessen einen Urlaubsantrag ein. Damit kann er vorübergehend aus dem Dienst gehen, ohne seine Stellung vollständig aufzugeben. Die Sekretärin entschärft einen institutionellen Bruch durch eine konkrete Änderung des Schriftstücks und hält ihm den Weg zurück offen.
 
-Merksatz: Moneypenny verwandelt Bonds Kündigung in einen Urlaubsantrag.
 
 - Sie macht daraus einen Urlaubsantrag: Moneypenny beantragt Urlaub und verhindert so den sofortigen Abschied.
 - Sie macht daraus ein Versetzungsgesuch: Eine Versetzung ist nicht ihre Lösung.
@@ -1547,7 +1479,6 @@ Welche persönliche Forderung verbindet Blofeld (Telly Savalas) in „James Bond
 
 Blofeld (Telly Savalas) möchte sich als Graf de Bleuchamp anerkennen lassen und für frühere Verbrechen straffrei bleiben. Deshalb steht seine Korrespondenz mit dem College of Arms in Verbindung zur Erpressung. Bond (George Lazenby) nutzt diese Titelforschung zunächst als Zugang zu Piz Gloria. Die Drohung gegen die Landwirtschaft dient also nicht allein dem Geldgewinn, sondern soll Blofeld eine neue gesellschaftliche und rechtliche Stellung verschaffen.
 
-Merksatz: Blofeld verlangt Amnestie und Anerkennung als Graf de Bleuchamp.
 
 - Ein Ministeramt und britische Staatsbürgerschaft: Ein Ministeramt fordert er nicht.
 - Amnestie und Anerkennung seines Adelstitels: Blofeld verlangt Straffreiheit und die Anerkennung als Graf de Bleuchamp.
@@ -1569,7 +1500,6 @@ Wessen bewaffnete Hilfe nutzt Bond (George Lazenby) in „James Bond 007 – Im 
 
 M (Bernard Lee) untersagt Bond (George Lazenby) eine eigene Rettungsaktion. Tracy (Diana Rigg) befindet sich inzwischen in Blofelds (Telly Savalas) Gewalt. Bond wendet sich deshalb an ihren Vater Draco (Gabriele Ferzetti), dessen Männer mit Hubschraubern Piz Gloria angreifen. Das zuvor für Informationen genutzte Bündnis wird zu einer bewaffneten Operation. Die persönliche Bindung ermöglicht eine Rettung, die Bonds eigener Dienst zu diesem Zeitpunkt nicht unterstützt.
 
-Merksatz: Bond greift mit Dracos Männern trotz des Verbots seines Vorgesetzten an.
 
 - Eine Einheit der Schweizer Armee: Die Schweizer Armee führt den Angriff nicht aus.
 - Ein britisches Fallschirmjägerkommando: Ein britisches Fallschirmjägerkommando wird ihm nicht bewilligt.
@@ -1591,7 +1521,6 @@ In welchem Jahr wurde „James Bond 007 – Im Geheimdienst Ihrer Majestät“ m
 
 Im Geheimdienst Ihrer Majestät erschien 1969. Ian Flemings gleichnamiger Roman war bereits 1963 veröffentlicht worden, also sechs Jahre früher. Anders als manche früheren Bondvorlagen entstand dieses Buch schon während der laufenden Kinoreihe. Die Verfilmung verbindet eine globale Erpressungsmission mit Bonds Liebesgeschichte. Der Abstand von sechs Jahren trennt die konkret datierte Buchveröffentlichung von Lazenbys Film und bietet einen Anker unabhängig vom Wechsel des Hauptdarstellers.
 
-Merksatz: 1963 Roman, 1969 Im Geheimdienst Ihrer Majestät: sechs Jahre Abstand.
 
 - 1965: 1965 ist nicht das Erstjahr dieser Fassung.
 - 1967: 1967 erschien zuvor Man lebt nur zweimal.
@@ -1613,7 +1542,6 @@ Wer führte bei „James Bond 007 – Im Geheimdienst Ihrer Majestät“ mit Geo
 
 Peter R. Hunt übernahm die Regie, nachdem er zuvor an anderen Bondfilmen vor allem im Schnitt gearbeitet hatte. John Glen verantwortete bei dieser Produktion Schnitt und zweite Einheit; Anthony Squire inszenierte die Stock-Car-Sequenz. Diese Arbeitsaufteilung ist kein gemeinsamer Hauptregiecredit. Hunt verbindet die alpine Jagd mit der Beziehung zwischen Bond und Tracy (George Lazenby, Diana Rigg), deren tragisches Ende dem Abenteuer eine ungewöhnliche persönliche Konsequenz gibt.
 
-Merksatz: Peter R. Hunt inszenierte Im Geheimdienst Ihrer Majestät.
 
 - Peter R. Hunt: Peter R. Hunt ist als Hauptregisseur genannt.
 - Terence Young: Young ist nicht der Regisseur dieser Fassung.
@@ -1639,7 +1567,6 @@ Welches rätselhafte Ereignis bringt Bond (Roger Moore) und die sowjetische Seit
 
 Bond (Roger Moore) untersucht zunächst den Verlust eines britischen U-Boots. Anya Amasova (Barbara Bach) verfolgt einen ähnlichen Fall für die sowjetische Seite. Beide suchen ein System, das die normalerweise schwer auffindbaren Boote orten kann. Aus konkurrierenden Ermittlungen entsteht eine gemeinsame Aufgabe, weil die Bedrohung beide Staaten trifft und ihre bisherigen Feindbilder dafür nicht ausreichen.
 
-Merksatz: Eine gemeinsame U-Boot-Bedrohung verbindet die Gegenspieler des Kalten Kriegs.
 
 - Der Diebstahl britischer und sowjetischer Satellitencodes: Satellitencodes sind hier nicht der gemeinsame Ermittlungsanlass.
 - Das Verschwinden zweier Geheimdienstchefs: Die Geheimdienstchefs sind nicht die Vermissten.
@@ -1661,7 +1588,6 @@ Welche besondere Funktion hilft Bonds Lotus Esprit in „James Bond 007 – Der 
 
 Bond (Roger Moore) und Anya Amasova (Barbara Bach) werden auf der Küstenstraße von mehreren Angreifern verfolgt. Der Sprung ins Meer wirkt zunächst wie ein verzweifelter Ausweg. Dann werden Räder eingezogen und der Lotus setzt seine Fahrt unter Wasser fort. Das Fahrzeug wechselt damit den Schauplatz der Verfolgung und gibt den Agenten zugleich Waffen für die neue Umgebung.
 
-Merksatz: Der Lotus wechselt die Verfolgung von der Straße ins Meer.
 
 - Er entfaltet Flügel für einen kurzen Gleitflug.: Ausklappbare Flügel gehören nicht zu dieser Flucht.
 - Er setzt einen fahrfähigen zweiten Wagen ab.: Ein zweiter Wagen wird nicht als Fluchtmittel abgesetzt.
@@ -1683,7 +1609,6 @@ Warum kündigt Anya Amasova (Barbara Bach) in „James Bond 007 – Der Spion, d
 
 Sergei Barsov (Michael Billington) verfolgt Bond (Roger Moore) in der Eröffnung auf Skiern und wird von ihm getötet. Erst später erfährt Anya Amasova (Barbara Bach), wer dafür verantwortlich war. Ihr Rachewunsch entsteht damit aus einem Ereignis, das das Publikum schon kennt. Die nötige Zusammenarbeit wird zur persönlichen Belastungsprobe, deren Auflösung bis nach der gemeinsamen Mission verschoben bleibt.
 
-Merksatz: Der frühere Skikampf bedroht die spätere Agentenpartnerschaft.
 
 - Er hat ihren Geliebten bei der Skiverfolgung erschossen.: Der getötete Verfolger war Anyas Geliebter Sergei Barsov.
 - Er hat ihre Identität an den britischen Dienst verraten.: Ein Verrat ihrer Identität ist nicht der Grund für ihre Drohung.
@@ -1705,7 +1630,6 @@ Was soll der von Stromberg (Curd Jürgens) geplante Angriff in „James Bond 007
 
 Karl Stromberg (Curd Jürgens) verbindet die entführten U-Boote mit seiner abgeschlossenen Unterwasserbasis. Die geplanten Angriffe auf New York und Moskau sollen einen globalen Krieg auslösen. Sein Rückzugsort ist deshalb mehr als ein luxuriöses Versteck: Er soll zum Ausgangspunkt einer neuen Zivilisation werden. Bond (Roger Moore) muss die Abschüsse verhindern, bevor eine technische Entführung zur weltweiten Vernichtung führt.
 
-Merksatz: Die Unterwasserbasis ist Teil eines Plans gegen die ganze Oberfläche.
 
 - Ein begrenzter Angriff soll den Verkauf seiner Ortungstechnik erzwingen.: Der Plan beschränkt sich nicht auf erpresste Technikverkäufe.
 - Ein Atomkrieg soll den Weg für seine Unterwasserzivilisation freimachen.: Stromberg will die Oberfläche zerstören und unter Wasser neu beginnen.
@@ -1727,7 +1651,6 @@ Wie verhindert Bond (Roger Moore) in „James Bond 007 – Der Spion, der mich l
 
 Nach dem Kampf im Tanker erreicht Bond (Roger Moore) den Kontrollraum, doch die eroberten Boote sind bereits zur Durchführung des Angriffs unterwegs. Er kann die Katastrophe nicht durch eine bloße Festnahme des Gegners verhindern. Stattdessen verändert er die Zielkoordinaten. Die Angriffswaffen werden dadurch gegeneinander gerichtet, bevor die vorgesehenen Städte getroffen werden können; die militärische Bedrohung wird technisch umgekehrt.
 
-Merksatz: Bond richtet den vorbereiteten Angriff gegen dessen Träger.
 
 - Er lässt beide Boote mit gefälschten Hafenbefehlen zurückkehren.: Die Besatzungen kehren nicht aufgrund fingierter Hafenbefehle zurück.
 - Er überträgt einen Abschaltcode an ihre Raketensteuerungen.: Ein zentraler Abschaltcode löst den Konflikt nicht.
@@ -1749,7 +1672,6 @@ Warum entstand für „James Bond 007 – Der Spion, der mich liebte“ eine neu
 
 Ken Adam entwarf einen Tankerinnenraum, in dem mehrere entführte U-Boote sichtbar werden sollten. Keine vorhandene Halle bot dafür genügend Platz. Für die Produktion entstand deshalb in Pinewood eine neue permanente Bühne samt großem Tank. Der fiktive Maßstab des Gegners hatte damit eine reale bauliche Folge: Die Filmarchitektur veränderte die Infrastruktur des Studios und wurde für spätere Produktionen weitergenutzt.
 
-Merksatz: Strombergs Tanker machte aus einer Filmidee eine neue Studiohalle.
 
 - Das Unterwasserlabor sollte komplett in einem Studiotank aufgenommen werden.: Die Größe des Tankerinnenraums, nicht ein alleiniger Labortank, begründete den Neubau.
 - Die ägyptischen Tempelanlagen sollten in voller Größe als Innenset entstehen.: Nicht ein Tempelinnenset gab den Ausschlag für die neue Halle.
@@ -1771,7 +1693,6 @@ In welchem Jahr wurde „James Bond 007 – Der Spion, der mich liebte“ mit Ro
 
 Lewis Gilbert hatte 1967 bereits Man lebt nur zweimal inszeniert. Zehn Jahre später kehrte er 1977 für diesen Bond-Film zurück. Beim früheren Abenteuer spielte Sean Connery den Agenten, beim späteren Roger Moore. Der Vergleich verbindet das Veröffentlichungsjahr mit einer konkreten Wiederkehr hinter der Kamera und dem Wechsel der Hauptbesetzung. Die Londoner Premiere fand im Juli 1977 statt.
 
-Merksatz: 1967 Man lebt nur zweimal, 1977 dieser Bond: zehn Jahre Abstand.
 
 - 1977: Die erste Veröffentlichung erfolgte 1977.
 - 1973: 1973 liegt vier Jahre davor.
@@ -1793,7 +1714,6 @@ Wer führte bei „James Bond 007 – Der Spion, der mich liebte“ mit Roger Mo
 
 Lewis Gilbert bringt das weltpolitische Bedrohungsszenario und die persönliche Agentenbeziehung zusammen. Bond (Roger Moore) und Anya Amasova (Barbara Bach) müssen ihre Konkurrenz überwinden, obwohl ihre Zusammenarbeit später von einem privaten Konflikt belastet wird. Die offizielle Bond-Seite bestätigt Gilbert als Regisseur. John Glen war als Cutter und zusätzlicher Unit-Regisseur beteiligt; diese Aufgaben ersetzen den führenden Regiecredit nicht.
 
-Merksatz: Gilbert verbindet großes Spektakel mit einer belasteten Partnerschaft.
 
 - Guy Hamilton: Guy Hamilton war in der Entwicklung beteiligt, führte aber nicht Regie.
 - Lewis Gilbert: Lewis Gilbert trägt den Regiecredit.
@@ -1819,7 +1739,6 @@ Warum verfolgt Bond (Timothy Dalton) Franz Sanchez (Robert Davi) in „James Bon
 
 Felix Leiter (David Hedison) hilft Bond (Timothy Dalton) zunächst bei Sanchez’ (Robert Davi) Festnahme. Nach dessen Flucht wird Leiter schwer verletzt, während seine Frau Della (Priscilla Barnes) ermordet wird. Bond will den Auftrag nicht abgeben und verweigert eine andere Mission. Aus der offiziellen Zusammenarbeit entsteht deshalb eine private Vergeltungsaktion, die ihn mit der eigenen Dienstleitung in Konflikt bringt.
 
-Merksatz: Leiters Schicksal macht aus einem Auftrag Bonds private Rache.
 
 - Er will einen verschwundenen britischen Botschafter finden.: Ein vermisster Botschafter ist nicht der Anlass seiner eigenmächtigen Jagd.
 - Er will seine frühere Tarnidentität vor Sanchez schützen.: Der Schutz einer alten Tarnidentität treibt die Handlung nicht an.
@@ -1841,7 +1760,6 @@ Welchen praktischen Beitrag leistet Pam Bouvier (Carey Lowell) in „James Bond 
 
 Pam Bouvier (Carey Lowell) ist eine Informantin der Drogenbehörde und kann fliegen. Sie wird damit nicht nur zur Person, die Bond (Timothy Dalton) retten muss, sondern übernimmt bei seiner Jagd eigene Aufgaben. Besonders im Finale ist ihr Flugzeug Teil der Verfolgung der Tanklaster. Ihre praktische Kompetenz ermöglicht Bewegungen und Eingriffe, die Bond vom Boden aus allein nicht ausführen könnte.
 
-Merksatz: Pam verschafft der Verfolgung eine zweite Ebene in der Luft.
 
 - Sie unterstützt Bond mit einem selbst gesteuerten Flugzeug.: Pam steuert ein Flugzeug und hilft Bond aus der Luft.
 - Sie legt Sprengladungen auf der Route der Tanklaster.: Eine von Pam vorbereitete Sprengstrecke ist nicht ihre Hilfe.
@@ -1863,7 +1781,6 @@ Wie tarnt Sanchez (Robert Davi) in „James Bond 007 – Lizenz zum Töten“ se
 
 Das scheinbare Meditationsinstitut verbirgt Sanchez’ (Robert Davi) Produktionsanlage. Dort erfährt Bond (Timothy Dalton), wie die Droge in Treibstoff gelöst und für den Transport getarnt wird. Die Tanklaster im Schlusskampf sind deshalb nicht nur Fahrzeuge in einer beliebigen Verfolgung. Sie tragen das Produkt des Schmuggelverfahrens, sodass die Zerstörung der Anlage und die Verfolgung der Lieferungen unmittelbar zusammengehören.
 
-Merksatz: Die Kraftstoffladung ist zugleich die versteckte Drogenlieferung.
 
 - Er presst es in hohle Maschinenteile.: Hohle Maschinenteile sind nicht das gezeigte Verfahren.
 - Er löst das Kokain in Treibstoff auf.: Der Treibstoff dient als Träger des aufgelösten Kokains.
@@ -1885,7 +1802,6 @@ Wie bringt Bond (Timothy Dalton) in „James Bond 007 – Lizenz zum Töten“ S
 
 Bond (Timothy Dalton) nutzt Sanchez’ (Robert Davi) Misstrauen, um dessen Organisation von innen zu schwächen. Das zuvor gestohlene Geld taucht auf dem Schiff von Milton Krest (Anthony Zerbe) wieder auf. Sanchez sieht darin einen Beweis für Verrat und tötet seinen eigenen Helfer. Bond muss den Gegner hier nicht unmittelbar überwältigen: Er liefert ihm eine falsche Deutung, nach der er selbst handelt.
 
-Merksatz: Das platzierte Geld macht Sanchez zum Vollstrecker gegen den eigenen Mann.
 
 - Er fälscht eine Tonaufnahme von Krests Geständnis.: Eine gefälschte Tonaufnahme ist nicht Bonds Methode.
 - Er lässt einen Informanten Krest als Polizeispitzel identifizieren.: Ein aufgebotener Informant übernimmt die Beschuldigung nicht.
@@ -1907,7 +1823,6 @@ Welcher Gegenstand beendet in „James Bond 007 – Lizenz zum Töten“ Bonds (
 
 Nach dem Tanklasterunfall ist Sanchez (Robert Davi) mit Benzin bedeckt und bedroht Bond (Timothy Dalton) weiter mit einer Machete. Bond zeigt ihm das Feuerzeug, das Felix Leiter (David Hedison) und Della (Priscilla Barnes) ihm geschenkt haben. Der Gegenstand verbindet die Hochzeit am Anfang mit der Vergeltung am Ende. Ein persönliches Andenken wird damit zur Waffe im letzten Zweikampf.
 
-Merksatz: Das Hochzeitsgeschenk kehrt als Werkzeug der Vergeltung wieder.
 
 - Die im Zigarettenetui versteckte Sprengkapsel: Die letzte Zündung kommt nicht aus einer Sprengkapsel im Etui.
 - Der ferngesteuerte Zünder aus Qs Reisetasche: Ein fernbedienter Zünder beendet diesen Zweikampf nicht.
@@ -1929,7 +1844,6 @@ Worauf beruht die Tanklaster-Action im Finale von „James Bond 007 – Lizenz z
 
 Die Tanklasterverfolgung wurde über viele Drehtage auf einer gefährlichen, bereits für den regulären Verkehr geschlossenen Bergstraße in Mexiko aufgenommen. Die reale Strecke erlaubte der zweiten Unit große Fahrzeugmanöver und Explosionen unter kontrollierten Bedingungen. Die offizielle Bond-Seite beschreibt auch einen tatsächlich entstandenen Fahrzeugunfall, dessen Aufnahmen in die Szene eingingen. Sichtbare Gefahr und geplante Stuntarbeit greifen dabei eng ineinander.
 
-Merksatz: Eine gesperrte reale Straße wurde zum kontrollierten Actionraum.
 
 - Fahrfähige Lastwagen auf einer gesperrten mexikanischen Bergstraße: Die zweite Unit drehte mit echten Fahrzeugen auf der alten Rumorosa-Straße.
 - Ferngesteuerte Miniaturen auf einer nachgebauten Modellstraße: Miniaturen bilden nicht die wesentliche Grundlage dieser Verfolgung.
@@ -1951,7 +1865,6 @@ In welchem Jahr erschien „James Bond 007 – Lizenz zum Töten“ mit Timothy 
 
 Timothy Dalton begann seine Kinolaufbahn als James Bond 1987 in Der Hauch des Todes. Zwei Jahre später folgte 1989 sein zweites und letztes Bond-Abenteuer. Beide Filme wurden von John Glen inszeniert, unterscheiden sich aber deutlich in ihrem Handlungsschwerpunkt. Der erste ist stärker an einen regulären Geheimdienstauftrag gebunden; der zweite macht den Angriff auf Felix Leiter (David Hedison) zum persönlichen Ausgangspunkt.
 
-Merksatz: 1987 Der Hauch des Todes, 1989 dieser Film: zwei Jahre Abstand.
 
 - 1985: 1985 liegt vier Jahre davor.
 - 1989: Die erste Veröffentlichung erfolgte 1989.
@@ -1973,7 +1886,6 @@ Wer inszenierte „James Bond 007 – Lizenz zum Töten“ mit Timothy Dalton un
 
 John Glen hatte bereits mehrere Bond-Filme als Hauptregisseur verantwortet und zuvor an Actionsequenzen und Schnitt gearbeitet. Hier inszeniert er Bond (Timothy Dalton) als Agenten, dessen persönliche Vergeltung den normalen Auftrag verdrängt. Seine letzte Bond-Regie verbindet die härtere Geschichte mit aufwendigen Fahrzeugstunts. Der offizielle Rückblick auf seine Laufbahn bestätigt den Credit und ordnet ihn innerhalb seiner fünf Bond-Regiearbeiten ein.
 
-Merksatz: Glen verbindet Bonds persönliche Rache mit groß angelegter Stuntarbeit.
 
 - Lewis Gilbert: Lewis Gilbert inszenierte andere Bond-Abenteuer, aber dieses nicht.
 - Martin Campbell: Martin Campbell trägt diesen Regiecredit nicht.
@@ -1999,7 +1911,6 @@ Welche Beziehung zu Marcus (Martin Lawrence) macht Mikes (Will Smith) Romanze mi
 
 Mike Lowrey (Will Smith) verschweigt seinem Partner Marcus Burnett (Martin Lawrence), dass er mit dessen Schwester Syd (Gabrielle Union) zusammen ist. Damit gelangt der sonst berufliche Streit der beiden in Marcus’ Familie. Zugleich verfolgt Syd ihren eigenen verdeckten Einsatz für die Drogenbehörde. Die private Geheimhaltung und die dienstliche Geheimhaltung bestehen nebeneinander und bringen unterschiedliche Spannungen in dieselbe Ermittlungsgruppe.
 
-Merksatz: Syd verbindet die Partner dienstlich und familiär.
 
 - Syd ist Marcus’ jüngere Schwester.: Mike geht eine Beziehung mit der Schwester seines Partners ein.
 - Syd ist Marcus’ Tochter.: Marcus’ Tochter ist eine andere Figur.
@@ -2021,7 +1932,6 @@ In welches Land flieht Johnny Tapia (Jordi Mollà) in „Bad Boys II“ mit der 
 
 Als Syds (Gabrielle Union) Tarnung auffliegt, verschleppt Johnny Tapia (Jordi Mollà) sie auf sein kubanisches Anwesen. Mike Lowrey (Will Smith) und Marcus Burnett (Martin Lawrence) müssen nun über ihre gewöhnliche Zuständigkeit in Miami hinausgehen. Die Rettung wird zu einem grenzüberschreitenden Einsatz mit Unterstützung weiterer Kräfte. Damit vergrößert sich der Schauplatz, während der Anlass für die beiden Polizisten zugleich persönlicher wird.
 
-Merksatz: Die Geiselnahme verlagert die Action von Miami nach Kuba.
 
 - Jamaika: Die Rettungsaktion führt nicht nach Jamaika.
 - Kuba: Tapia bringt Syd auf sein Anwesen in Kuba.
@@ -2043,7 +1953,6 @@ Wie nutzt Tapia (Jordi Mollà) in „Bad Boys II“ sein Bestattungsunternehmen 
 
 Mike Lowrey (Will Smith) und Marcus Burnett (Martin Lawrence) verfolgen Hinweise bis in Tapias (Jordi Mollà) Bestattungsunternehmen. Die Einrichtung bietet ihm eine besonders makabre Tarnung, weil Leichen und Särge für Transporte benutzt werden. Die Entdeckung verbindet die groteske Komik der Szenen mit einem konkreten Ermittlungsfortschritt. Erst durch diesen Einblick wird aus dem Verdacht ein Zusammenhang, der eine größere Razzia rechtfertigt.
 
-Merksatz: Das Bestattungsunternehmen ist ein Transportweg der Drogenorganisation.
 
 - Er versteckt Lieferungen ausschließlich in Kränzen und Blumen.: Die Blumen sind nicht die zentrale Tarnung der Lieferungen.
 - Er verteilt präparierte Urnen an ahnungslose Angehörige.: Ein Verteilnetz über Angehörige und Urnen wird nicht aufgedeckt.
@@ -2065,7 +1974,6 @@ Welche Veränderung plant Marcus (Martin Lawrence) in „Bad Boys II“ für sei
 
 Marcus Burnett (Martin Lawrence) erlebt Mikes (Will Smith) riskanten Arbeitsstil zunehmend als Belastung. Schon der missglückte Zugriff am Anfang verstärkt seine Zweifel. Er plant eine Versetzung aus ihrer Einheit, erzählt seinem Partner zunächst aber nichts davon. Die gemeinsame Jagd verhandelt deshalb neben dem Kriminalfall auch die Frage, ob die berufliche Bindung der beiden trotz ihrer unterschiedlichen Grenzen fortbestehen kann.
 
-Merksatz: Marcus stellt die Fortsetzung der Partnerschaft infrage.
 
 - Er will Mike in eine andere Einheit versetzen lassen.: Er will selbst die Einheit verlassen, nicht Mike abschieben.
 - Er will die Leitung des gemeinsamen Teams übernehmen.: Er strebt nicht die gemeinsame Teamleitung an.
@@ -2087,7 +1995,6 @@ Wo kommt es in „Bad Boys II“ zur letzten Konfrontation mit Johnny Tapia (Jor
 
 Nach der Flucht vom Anwesen geraten Mike Lowrey (Will Smith), Marcus Burnett (Martin Lawrence) und Syd (Gabrielle Union) in den Bereich vor Guantánamo. Der scheinbare Weg zur Sicherheit führt in ein Minenfeld. Johnny Tapia (Jordi Mollà) verfolgt sie weiter. Die Gefahr kommt nun nicht nur vom Gegner, sondern vom Boden selbst; das Finale ersetzt freie Bewegung durch eine räumlich eng begrenzte Konfrontation.
 
-Merksatz: Der letzte Fluchtweg wird durch Minen zum gefährlichen Stillstand.
 
 - In einem Minenfeld vor Guantánamo: Das Minenfeld vor Guantánamo bildet den Ort der letzten Konfrontation.
 - In einem brennenden Munitionsdepot: Das Finale findet nicht in einem brennenden Munitionsdepot statt.
@@ -2109,7 +2016,6 @@ Mit welchem Jackie-Chan-Film vergleicht das BFI die Hummer-Flucht durch Häuser 
 
 Im Finale durchbricht die Fluchtgruppe mit einem Hummer die Häuser einer Siedlung. Elena Lazic stellt diese Sequenz in der BFI-Genrerückschau ausdrücklich neben Jackie Chans Police Story und beschreibt eine weitgehende Übernahme der älteren Szene. Diese Einordnung macht eine konkrete Ähnlichkeit zwischen zwei Actionfilmen sichtbar. Sie ist eine filmkritische Zuordnung; eine eigene Aussage der Bad-Boys-Filmemacher über ihren kreativen Einfluss wird damit nicht behauptet.
 
-Merksatz: Der BFI-Vergleich verbindet zwei Verfolgungen, die Siedlungshäuser zum Fluchtweg machen.
 
 - Project A: Project A ist nicht der im Vergleich genannte Film.
 - Police Story: Die BFI-Rückschau nennt Police Story ausdrücklich.
@@ -2131,7 +2037,6 @@ In welchem Jahr wurde „Bad Boys II“ mit Will Smith und Martin Lawrence erstm
 
 Bad Boys – Harte Jungs startete 1995 mit Will Smith und Martin Lawrence als ungleichen Polizistenpartnern. Die Fortsetzung erschien 2003, acht Jahre später. Sie behält die Hauptbesetzung und Michael Bay als Regisseur bei, vergrößert aber den Schauplatz bis nach Kuba. Die Premiere wurde am 9. Juli 2003 in Westwood fotografisch dokumentiert; der reguläre US-Kinostart folgte im selben Monat.
 
-Merksatz: 1995 Bad Boys, 2003 Bad Boys II: acht Jahre Abstand.
 
 - 1997: 1997 liegt sechs Jahre davor.
 - 2000: 2000 liegt drei Jahre davor.
@@ -2153,7 +2058,6 @@ Wer führte bei „Bad Boys II“ mit Will Smith und Martin Lawrence Regie?
 
 Michael Bay führt die bereits im ersten Film angelegte Verbindung aus Polizistenstreit, schneller Bewegung und großer Zerstörung weiter. Mike Lowrey (Will Smith) und Marcus Burnett (Martin Lawrence) bleiben das komische Zentrum, während die Verfolgungen den Stadtraum immer stärker zerlegen. Sonys Filmseite bestätigt den Regiecredit. Die Fortsetzung hält damit den inszenatorischen Zusammenhang zur früheren Besetzung der Reihe aufrecht.
 
-Merksatz: Bays Fortsetzung verbindet das Partnerduo mit eskalierender Fahrzeug-Action.
 
 - Tony Scott: Tony Scott trägt diesen Regiecredit nicht.
 - John Woo: John Woo war nicht der Regisseur dieser Produktion.
@@ -2179,7 +2083,6 @@ Welche Person macht Owen Davian (Philip Seymour Hoffman) in „Mission: Impossib
 
 Ethan Hunt (Tom Cruise) versucht, sein Agentenleben von seiner Beziehung zu Julia Meade (Michelle Monaghan) getrennt zu halten. Owen Davian (Philip Seymour Hoffman) greift genau diese Grenze an, indem er Julia entführen lässt. Der Auftrag wird damit zu einer persönlichen Erpressung. Ethan muss nicht nur ein gefährliches Objekt beschaffen, sondern zugleich erklären und bewältigen, was seine geheime Tätigkeit für seine Ehe bedeutet.
 
-Merksatz: Davian trifft Ethan über dessen bislang abgeschirmtes Privatleben.
 
 - Ethans Vater: Ethans Vater ist nicht die Geisel dieser Erpressung.
 - Ethans Ehefrau: Davian entführt Julia und bedroht ihr Leben.
@@ -2201,7 +2104,6 @@ Welche Aufgabe übernimmt Ethan Hunt (Tom Cruise) zu Beginn von „Mission: Impo
 
 Ethan Hunt (Tom Cruise) beginnt den Film in einer veränderten beruflichen Lage. Er trainiert neue Agenten und möchte ein gemeinsames Leben mit Julia Meade (Michelle Monaghan) aufbauen. Die Gefangennahme seiner ehemaligen Schülerin Lindsey Farris (Keri Russell) zieht ihn wieder in einen Einsatz. Seine Ausbilderrolle ist deshalb kein bloßer Hintergrund: Sie begründet seine persönliche Verantwortung für die erste Rettungsmission.
 
-Merksatz: Die Verantwortung für eine Schülerin zieht den Ausbilder zurück ins Feld.
 
 - Er leitet eine ständige Überwachungsgruppe.: Eine feste Überwachungsgruppe ist nicht seine neue Hauptaufgabe.
 - Er führt die gesamte IMF als Direktor.: Er hat nicht die Leitung der gesamten Organisation übernommen.
@@ -2223,7 +2125,6 @@ Warum überlebt Lindsey Farris (Keri Russell) ihre zunächst gelungene Befreiung
 
 Ethan Hunt (Tom Cruise) und sein Team bekommen Lindsey Farris (Keri Russell) zunächst aus der Gefangenschaft. Während der Flucht entdeckt Ethan jedoch den implantierten Sprengsatz und versucht, ihn mit einem Defibrillator auszuschalten. Er kommt zu spät. Die Szene verändert die Bedeutung der Befreiung: Körperliche Entfernung vom Gegner genügt nicht, wenn dessen Waffe im Opfer bleibt und den Einsatz überdauert.
 
-Merksatz: Die Gefahr bleibt im befreiten Körper verborgen.
 
 - Ein versteckter Schütze trifft sie im Rettungshubschrauber.: Ein Schütze im Hubschrauber ist nicht die Ursache.
 - Eine vergiftete Injektion wirkt erst während des Rückflugs.: Keine verzögert wirkende Giftinjektion erklärt ihren Tod.
@@ -2245,7 +2146,6 @@ Wer erweist sich in „Mission: Impossible III“ als der Verräter innerhalb de
 
 John Musgrave (Billy Crudup) tritt zunächst als derjenige auf, der Ethan Hunt (Tom Cruise) für die Rettung seiner Schülerin zurückholt. Später wird seine Zusammenarbeit mit Owen Davian (Philip Seymour Hoffman) deutlich. Die scheinbare Unterstützung bei Ethans Flucht erhält dadurch einen anderen Sinn. Der Helfer in der Organisation lenkt den Agenten auf ein Ziel, das er selbst für einen größeren politischen Plan benötigt.
 
-Merksatz: Musgraves Hilfe führt Ethan tiefer in den Verratsplan.
 
 - John Musgrave (Billy Crudup): Musgrave arbeitet mit Davian zusammen.
 - Theodore Brassel (Laurence Fishburne): Brassel wird verdächtigt, ist aber nicht der enthüllte Verräter.
@@ -2267,7 +2167,6 @@ Wer wird in „Mission: Impossible III“ bei der scheinbaren Hinrichtung Julias
 
 Owen Davian (Philip Seymour Hoffman) lässt Ethan Hunt (Tom Cruise) glauben, seine Frau Julia (Michelle Monaghan) werde vor seinen Augen erschossen. Tatsächlich trägt Davians Übersetzerin (Bahar Soomekh) eine Maske. Julia lebt noch. Die Täuschung richtet sich damit nicht nur an andere Figuren, wie bei einer gewöhnlichen Infiltration: Sie soll Ethan emotional brechen und seine Einschätzung der verbleibenden Rettungsmöglichkeiten zerstören.
 
-Merksatz: Die Maske täuscht Ethan über den Tod seiner Frau.
 
 - Eine als Julia verkleidete IMF-Rekrutin: Eine IMF-Rekrutin nimmt hier nicht Julias Platz ein.
 - Davians als Julia maskierte Übersetzerin: Die getötete Frau ist Davians Übersetzerin in einer Julia-Maske.
@@ -2289,7 +2188,6 @@ Wie wird Ethan Hunt (Tom Cruise) in „Mission: Impossible III“ von der implan
 
 Ethan Hunt (Tom Cruise) erklärt Julia Meade (Michelle Monaghan), wie sie einen starken elektrischen Impuls auslösen und ihn danach wiederbeleben soll. Die eigene Rettung verlangt somit, dass er die Kontrolle vorübergehend an sie abgibt. Julia muss zusätzlich mit einer Waffe handeln, während Ethan bewusstlos ist. Ihre bisher geschützte Position verändert sich: Sie wird zur entscheidenden Handelnden in einer akuten Agentensituation.
 
-Merksatz: Ethan kann nur über Julias Handeln aus der implantierten Gefahr entkommen.
 
 - Julia (Michelle Monaghan) entfernt die Kapsel durch einen Eingriff.: Eine operative Entfernung wird nicht durchgeführt.
 - Benji (Simon Pegg) unterbricht aus der Ferne das auslösende Signal.: Benji kann die Gefahr nicht durch eine ferngesteuerte Funkunterbrechung beseitigen.
@@ -2311,7 +2209,6 @@ In welchem Jahr wurde „Mission: Impossible III“ mit Tom Cruise erstmals ver�
 
 Die erste Mission: Impossible für das Kino erschien 1996 mit Tom Cruise als Ethan Hunt. Zehn Jahre später folgte 2006 der dritte Teil. Die Reihe hatte inzwischen mehrere unterschiedliche Regiehandschriften erhalten und richtete den Einsatz hier besonders auf Ethans Privatleben. Die Weltpremiere fand am 24. April 2006 in Rom statt, bevor der Film im Mai regulär in den USA anlief.
 
-Merksatz: 1996 Kinostart der Reihe, 2006 Teil III: zehn Jahre Abstand.
 
 - 2000: 2000 liegt sechs Jahre davor.
 - 2003: 2003 liegt drei Jahre davor.
@@ -2333,7 +2230,6 @@ Wer inszenierte „Mission: Impossible III“ mit Tom Cruise und Philip Seymour 
 
 J. J. Abrams führte bei diesem Film erstmals Spielfilmregie. Er verbindet das Teamabenteuer mit Ethan Hunts (Tom Cruise) Ehe und der Bedrohung durch Owen Davian (Philip Seymour Hoffman). Damit erhält der fortgeführte Agent eine stärker persönliche Ausgangslage, die bereits seine Rückkehr aus der Ausbilderrolle bestimmt. Paramount nennt Abrams als Regisseur und gemeinsam mit Alex Kurtzman und Roberto Orci als Drehbuchautor.
 
-Merksatz: Abrams macht Ethans Privatleben zum Kern der dritten Mission.
 
 - J. J. Abrams: J. J. Abrams führte Regie.
 - Brian De Palma: De Palma inszenierte den ersten Kinofilm der Reihe.
@@ -2359,7 +2255,6 @@ Welche Entscheidung erschwert Ethan Hunts (Tom Cruise) Arbeit zu Beginn von „M
 
 CIA-Direktor Alan Hunley (Alec Baldwin) erreicht die Auflösung der IMF. Ethan Hunt (Tom Cruise) will seine Jagd nach dem Syndikat trotzdem fortsetzen und entzieht sich der neuen Befehlslage. Seine bisherigen Kollegen müssen nun innerhalb einer anderen Behörde arbeiten oder ausscheiden. Die Unterstützung des vertrauten Teams wird dadurch schwieriger, weil sich der Agent gegen eine Entscheidung der eigenen staatlichen Seite stellt.
 
-Merksatz: Der Agent verliert zuerst seine organisatorische Rückendeckung.
 
 - Die IMF darf nur noch innerhalb der USA ermitteln.: Eine reine Beschränkung auf US-Einsätze ist nicht der Beschluss.
 - Die IMF muss sämtliche Einsätze gemeinsam mit dem MI6 durchführen.: Eine Pflichtpartnerschaft mit dem MI6 wird nicht eingerichtet.
@@ -2381,7 +2276,6 @@ Für welchen Dienst arbeitet Ilsa Faust (Rebecca Ferguson) in „Mission: Imposs
 
 Ilsa Faust (Rebecca Ferguson) hilft Ethan Hunt (Tom Cruise) bei der Flucht, bleibt aber in die Arbeit des Syndikats eingebunden. Ihr MI6-Auftrag erklärt diese scheinbar wechselnden Seiten, ohne jede ihrer Entscheidungen eindeutig zu machen. Besonders ihr Verhältnis zu Atlee (Simon McBurney) zeigt, dass die Zugehörigkeit zu einem staatlichen Dienst keine verlässliche Sicherheit bietet, solange dessen Leitung eigene Geheimnisse schützt.
 
-Merksatz: Ilsas MI6-Auftrag macht ihre wechselnden Positionen verständlich.
 
 - CIA: Die CIA ist nicht ihr eigener Auftraggeber.
 - BND: Sie arbeitet nicht im Auftrag des deutschen BND.
@@ -2403,7 +2297,6 @@ Was enthält die gesuchte verschlüsselte Datensammlung in „Mission: Impossibl
 
 Ethan Hunt (Tom Cruise) und sein Team halten die Datensammlung zunächst für eine Liste der Syndikatsmitglieder. Nach der Entschlüsselung geht es jedoch um den Zugang zu enormen Geldreserven. Solomon Lane (Sean Harris) will damit seine Organisation finanzieren. Der Fund verschiebt deshalb den Konflikt: Nicht die unmittelbare Enttarnung einzelner Agenten, sondern die künftige Handlungsfähigkeit des Netzwerks steht auf dem Spiel.
 
-Merksatz: Die vermeintliche Agentenliste ist die finanzielle Zukunft des Syndikats.
 
 - Zugang zu Milliardenbeträgen auf geheimen Konten: Die Kontozugänge können das Syndikat dauerhaft finanzieren.
 - Die vollständige Namensliste aller Syndikatsagenten: Die angenommene Agentenliste ist nicht der tatsächliche Inhalt.
@@ -2425,7 +2318,6 @@ Welche Oper wird während der Anschlagssequenz in der Wiener Staatsoper in „Mi
 
 Ethan Hunt (Tom Cruise) und Benji Dunn (Simon Pegg) verfolgen das Syndikat in die Wiener Staatsoper. Während Turandot auf der Bühne weiterläuft, bewegen sich mehrere Angreifer durch die verborgenen Bereiche des Hauses. Die Aufführung gibt der Szene einen eigenen zeitlichen und akustischen Rahmen. Musik, Publikumsaufmerksamkeit und der Kampf oberhalb der Bühne laufen gleichzeitig, wodurch der Anschlag hinter dem sichtbaren Kunstereignis verborgen bleibt.
 
-Merksatz: Turandot verbindet den sichtbaren Opernabend mit der verdeckten Action.
 
 - Tosca: Tosca ist nicht die Aufführung dieser Sequenz.
 - Turandot: Das Bühnengeschehen zeigt Puccinis Turandot.
@@ -2447,7 +2339,6 @@ Wie wird Solomon Lane (Sean Harris) im Finale von „Mission: Impossible – Rog
 
 Ethan Hunt (Tom Cruise) bringt Solomon Lane (Sean Harris) dazu, ihm in einen vorbereiteten Raum zu folgen. Die gläserne Begrenzung ist kugelsicher und verhindert den letzten Ausweg. Dann wird Lane mit Gas betäubt. Der Schluss kehrt damit die Gefangenschaft vom Beginn um: Nun kontrolliert Ethans Team den abgeschlossenen Raum und setzt die Methode gegen denjenigen ein, der zuvor die Falle gestellt hatte.
 
-Merksatz: Lanes Gefangennahme spiegelt die Falle vom Beginn.
 
 - Er wird mit einer manipulierten Bombe in Benjis Weste getäuscht.: Benjis Bombenweste ist nicht das Werkzeug seiner späteren Festnahme.
 - Er wird durch eine gefälschte MI6-Verstärkung zum Aufgeben gebracht.: Eine falsche MI6-Verstärkung erzwingt nicht die Kapitulation.
@@ -2469,7 +2360,6 @@ Wie entstand für „Mission: Impossible – Rogue Nation“ die Aufnahme von To
 
 Tom Cruise wurde für die Flugaufnahme am Airbus A400M gesichert und flog tatsächlich außen mit. Visual-Effects-Supervisor David Vickery beschreibt, wie die Sicherungsseile danach aus dem Bild entfernt und der Hintergrund angepasst wurden. Der physisch ausgeführte Stunt bedeutete also keinen Verzicht auf digitale Arbeit. Das Ergebnis verbindet eine reale darstellerische Leistung mit gezielten Veränderungen, die ihre Absicherung unsichtbar machen.
 
-Merksatz: Cruise fliegt real mit; digitale Arbeit entfernt die Sicherung.
 
 - Eine Studiokabine mit Cruise vor projiziertem Flugmaterial.: Die Flugaufnahme beruht nicht nur auf einer Studiokabine.
 - Ein Stuntdouble am Flugzeug mit digital eingesetztem Cruise-Gesicht.: Für diese Flugaufnahme wurde Cruise nicht durch ein entsprechend ersetztes Double dargestellt.
@@ -2491,7 +2381,6 @@ In welchem Jahr wurde „Mission: Impossible – Rogue Nation“ mit Tom Cruise 
 
 Rogue Nation erschien 2015 und führte Ilsa Faust (Rebecca Ferguson) in die Kinoreihe ein. Drei Jahre später folgte 2018 Fallout, das Figuren und Konflikte des Syndikat-Abenteuers weiterführt. Beide Filme wurden von Christopher McQuarrie inszeniert, bleiben aber unterschiedliche Veröffentlichungen. Die Weltpremiere des früheren Films fand am 23. Juli 2015 in der Wiener Staatsoper statt, einem auch in der Handlung wichtigen Schauplatz.
 
-Merksatz: 2015 Rogue Nation, 2018 Fallout: drei Jahre Abstand.
 
 - 2015: Die Wiener Weltpremiere fand 2015 statt.
 - 2009: 2009 liegt sechs Jahre davor.
@@ -2513,7 +2402,6 @@ Wer inszenierte „Mission: Impossible – Rogue Nation“ mit Tom Cruise und Re
 
 Christopher McQuarrie inszeniert die Jagd nach dem Syndikat und zeichnet auch für das Drehbuch verantwortlich. Ethan Hunt (Tom Cruise) muss eine Organisation bekämpfen, während ihm die eigene entzogen wird. Ilsa Faust (Rebecca Ferguson) bringt dabei eine zusätzliche Unsicherheit über Bündnisse und Aufträge ein. Paramount unterscheidet McQuarries Regie von den Produzentencredits, unter denen etwa J. J. Abrams aufgeführt wird.
 
-Merksatz: McQuarrie verbindet Organisationsverlust mit einer unsicheren neuen Partnerschaft.
 
 - Brad Bird: Brad Bird inszenierte den vorherigen Kinoteil, nicht diesen.
 - Christopher McQuarrie: Christopher McQuarrie führte Regie und schrieb das Drehbuch.
@@ -2539,7 +2427,6 @@ Wo versuchen Bourne (Matt Damon) und Marie (Franka Potente) zu Beginn von „Die
 
 Jason Bourne (Matt Damon) und Marie Kreutz (Franka Potente) haben sich nach Goa zurückgezogen, um dem früheren Agentenleben zu entkommen. Bourne leidet weiterhin unter Erinnerungsfragmenten und hält sie schriftlich fest. Der warme, alltägliche Rückzugsort wirkt damit nur äußerlich wie ein Neubeginn. Als ein Verfolger auftaucht, kann die räumliche Entfernung zu Europa die Verbindung mit seiner Vergangenheit nicht mehr abschirmen.
 
-Merksatz: Goa ist ein Rückzug, aber kein endgültiger Ausweg aus der Vergangenheit.
 
 - Havanna: Havanna ist nicht ihr Rückzugsort.
 - Casablanca: Casablanca ist nicht der Ort des gemeinsamen Verstecks.
@@ -2561,7 +2448,6 @@ Was geschieht mit Marie (Franka Potente) bei der Flucht in „Die Bourne Verschw
 
 Jason Bourne (Matt Damon) und Marie Kreutz (Franka Potente) wechseln während der Flucht die Plätze im Wagen. Kirill (Karl Urban) bemerkt den Wechsel nicht und trifft Marie, die nun am Steuer sitzt. Ihr Tod macht den Versuch eines gemeinsamen Rückzugs endgültig zunichte. Bournes weitere Reise entsteht damit nicht aus einer freiwilligen Rückkehr zum Agentenberuf, sondern aus einem erneuten Angriff auf sein Leben.
 
-Merksatz: Der unbemerkte Platzwechsel macht Marie zum Opfer des Angriffs.
 
 - Ein für Bourne bestimmter Schuss trifft sie tödlich.: Nach dem Wechsel der Fahrplätze trifft der Schuss Marie.
 - Sie wird verletzt und von den Verfolgern gefangen genommen.: Sie wird nicht verletzt gefangen genommen, sondern stirbt.
@@ -2583,7 +2469,6 @@ Wodurch wird Bourne (Matt Damon) in „Die Bourne Verschwörung“ fälschlich m
 
 Kirill (Karl Urban) unterbricht in Berlin eine Übergabe, tötet die Beteiligten und hinterlässt eine Spur zu Jason Bourne (Matt Damon). Pamela Landy (Joan Allen) behandelt den Fund zunächst als belastbaren Hinweis. Der frühere Attentäter wird dadurch zugleich gejagt und als Täter eines neuen Verbrechens gesucht. Die Manipulation verbindet seinen realen gewaltsamen Hintergrund mit einer Tat, die er diesmal nicht begangen hat.
 
-Merksatz: Echte Identitätsdaten werden zum Werkzeug einer falschen Beschuldigung.
 
 - Auf einer Überwachungskamera wird ein Doppelgänger gezeigt.: Ein gefilmter Doppelgänger ist nicht die Methode.
 - Am Tatort werden seine Fingerabdrücke platziert.: Die platzierten Fingerabdrücke geben der falschen Spur scheinbar forensisches Gewicht.
@@ -2605,7 +2490,6 @@ Wie macht Bourne (Matt Damon) in „Die Bourne Verschwörung“ Ward Abbotts (Br
 
 Jason Bourne (Matt Damon) belauscht und konfrontiert Ward Abbott (Brian Cox), statt ihn einfach zu töten. Er zeichnet die Gespräche auf und macht sie Pamela Landy (Joan Allen) zugänglich. Seine Erkenntnis kann damit von einer anderen Person überprüft werden. Das unterscheidet die Szene von einer privaten Vergeltung: Bourne bringt die Wahrheit in den Dienst zurück, dessen verdächtige Leitung sie zuvor verborgen hatte.
 
-Merksatz: Die Aufnahme verwandelt private Erkenntnis in überprüfbaren Beweis.
 
 - Er verschafft ihr das schriftliche Geständnis des russischen Auftraggebers.: Ein schriftliches Geständnis des Auftraggebers ist nicht der übergebene Beweis.
 - Er führt sie zu einem versteckten Konto mit Abbotts Unterschrift.: Ein signiertes Kontodokument bildet nicht diese Beweisübergabe.
@@ -2627,7 +2511,6 @@ Welche Wahrheit erklärt Bourne (Matt Damon) Irena Neski (Oksana Akinshina) am E
 
 Irena Neski (Oksana Akinshina) lebt mit einer falschen Erklärung für den Tod ihrer Eltern. Jason Bourne (Matt Damon) erkennt in seinen Erinnerungen, dass er beide getötet und den Tatort als familiären Mord mit anschließendem Suizid inszeniert hatte. Er sucht die Tochter auf und sagt ihr die Wahrheit. Die Vergangenheit ist damit nicht nur ein Rätsel seiner Identität, sondern eine Schuld gegenüber anderen Menschen.
 
-Merksatz: Die wiedergewonnene Erinnerung verlangt Verantwortung gegenüber Irena.
 
 - Ihr Vater hat den Tod ihrer Mutter inszeniert und lebt noch.: Ein überlebender Vater ist nicht die Wahrheit.
 - Ihre Mutter wurde von ihrem Vater ermordet.: Gerade diese falsche Familiengeschichte wird durch sein Geständnis widerlegt.
@@ -2649,7 +2532,6 @@ Welche Kombination prägt laut BFI-Beschreibung die Action von „Die Bourne Ver
 
 Paul Greengrass gestaltet die Action so, dass die Kamera wie ein Beteiligter im unübersichtlichen Geschehen wirkt. Das BFI beschreibt handgeführte Aufnahmen und belebte reale Schauplätze als wesentliche Grundlage dieser Wirkung. Jason Bourne (Matt Damon) erscheint dadurch innerhalb einer bedrängenden Umgebung, die nie völlig geordnet wirkt. Die Gestaltung gibt seinem Erleben von Verfolgung und Unsicherheit eine sichtbare, körperlich spürbare Form.
 
-Merksatz: Die bewegte Kamera im belebten Schauplatz macht die Verfolgung als Unruhe erfahrbar.
 
 - Handkamera in belebten realen Schauplätzen: BFI nennt Handkamera und belebte reale Schauplätze als prägende Kombination.
 - Starre Kameras in sorgfältig abgeschlossenen Studiosets: Abgeschlossene Studiosets mit starrer Kamera bestimmen diesen beschriebenen Stil nicht.
@@ -2671,7 +2553,6 @@ In welchem Jahr wurde „Die Bourne Verschwörung“ mit Matt Damon erstmals ver
 
 Die Bourne Identität erschien 2002 und führte Matt Damon als den erinnerungslosen früheren CIA-Attentäter ins Kino ein. Zwei Jahre später folgte 2004 Die Bourne Verschwörung. Die gemeinsame Reise mit Marie Kreutz (Franka Potente) bildet eine direkte Verbindung, bevor der neue Angriff ihr Ende herbeiführt. Der Vergleich verankert das Erstjahr über den konkreten Vorgänger und den fortgeführten persönlichen Konflikt.
 
-Merksatz: 2002 Die Bourne Identität, 2004 Die Bourne Verschwörung: zwei Jahre Abstand.
 
 - 2000: 2000 liegt vier Jahre davor.
 - 2004: Die erste Veröffentlichung erfolgte 2004.
@@ -2693,7 +2574,6 @@ Wer inszenierte „Die Bourne Verschwörung“ mit Matt Damon und Franka Potente
 
 Paul Greengrass folgt bei der Kinoreihe auf Doug Liman. Der Regiewechsel betrifft die Inszenierung, während Jason Bourne (Matt Damon) und Marie Kreutz (Franka Potente) ihre gemeinsame Geschichte fortsetzen. Das BFI bestätigt Greengrass als Regisseur und nennt Tony Gilroy unter den Drehbuchautoren. Ein Autor der Vorlage oder des Drehbuchs ist deshalb von demjenigen zu unterscheiden, der die konkrete Filmfassung inszeniert hat.
 
-Merksatz: Greengrass übernimmt die Regie, die Figuren setzen ihre Geschichte fort.
 
 - Doug Liman: Doug Liman inszenierte den Vorgänger, nicht diesen Teil.
 - Tony Gilroy: Tony Gilroy arbeitete am Drehbuch, trägt hier aber nicht den Regiecredit.
@@ -2719,7 +2599,6 @@ An welchem Londoner Bahnhof trifft Bourne (Matt Damon) in „Das Bourne Ultimatu
 
 Simon Ross (Paddy Considine) hat über die verdeckten CIA-Programme recherchiert und wird dadurch zum Ziel. Jason Bourne (Matt Damon) versucht, ihn im belebten Bahnhof Waterloo durch unauffällige Anweisungen vor den Verfolgern zu schützen. Die Menge bietet dabei Deckung und erschwert die Übersicht. Ross verliert dennoch die Nerven. Die Szene zeigt, wie rasch ein öffentlicher Alltagsort zum gefährlichen Raum einer verdeckten Operation werden kann.
 
-Merksatz: Waterloo verbindet einen gewöhnlichen Reiseort mit einer heimlichen Jagd.
 
 - Waterloo: Das Treffen findet im Bahnhof Waterloo statt.
 - King’s Cross: King’s Cross ist nicht der Treffpunkt.
@@ -2741,7 +2620,6 @@ Wie verhält sich Nicky Parsons (Julia Stiles) in „Das Bourne Ultimatum“, al
 
 Nicky Parsons (Julia Stiles) arbeitet in Madrid für die CIA, als Jason Bourne (Matt Damon) dort nach einer Informationsquelle sucht. Sie teilt ihr Wissen mit ihm und unterstützt seine Flucht. Damit überschreitet sie die Grenze zwischen institutioneller Loyalität und persönlicher Hilfe. Diese Entscheidung hat Folgen: Ihre eigenen Zugriffe auf Informationen werden überwacht, und der Dienst stuft sie anschließend ebenfalls als Ziel ein.
 
-Merksatz: Aus einer Kontaktperson innerhalb des Dienstes wird eine Verbündete außerhalb seiner Befehle.
 
 - Sie sperrt ihn bis zum Eintreffen der CIA ein.: Sie hält Bourne nicht für die eintreffende Einheit fest.
 - Sie hilft ihm, der eintreffenden CIA-Einheit zu entkommen.: Nicky entscheidet sich für Bourne und unterstützt seine Flucht.
@@ -2763,7 +2641,6 @@ Welches Programm folgt in „Das Bourne Ultimatum“ auf das Attentäterprogramm
 
 Jason Bourne (Matt Damon) sucht nach den Ursprüngen seiner Ausbildung, während Blackbriar die verdeckten Operationen des Dienstes fortführt. Noah Vosen (David Strathairn) behandelt mögliche Zeugen als Sicherheitsrisiken und lässt sie ausschalten. Das Problem endet daher nicht mit einem alten Programmnamen oder einem einzelnen Verantwortlichen. Der Film zeigt eine Organisation, die ihre Methoden unter neuer Bezeichnung weiterführt und deren aktuelle Tätigkeit aufgedeckt werden muss.
 
-Merksatz: Blackbriar ist die Fortsetzung der Struktur unter einem neuen Namen.
 
 - Outcome: Outcome gehört zu einem anderen Bourne-Film.
 - Iron Hand: Iron Hand ist nicht das hier auf Treadstone folgende Programm.
@@ -2785,7 +2662,6 @@ Wie öffnet Bourne (Matt Damon) in „Das Bourne Ultimatum“ den gesicherten Tr
 
 Jason Bourne (Matt Damon) bringt Noah Vosen (David Strathairn) dazu, das Büro zu verlassen, und ruft ihn von dort aus an. Die Aufnahme des Gesprächs wird zugleich zu einem Zugangswerkzeug: Bourne verwendet Vosens Stimme für die Sicherung des Tresors. So gewinnt er die vertraulichen Blackbriar-Unterlagen. Der Einbruch beruht damit auf der Verbindung von Täuschung, Telefontechnik und dem ausgenutzten Vertrauen in ein persönliches Erkennungsmerkmal.
 
-Merksatz: Das Gespräch liefert den Schlüssel zu den versteckten Unterlagen.
 
 - Mit einem nachgebildeten Fingerabdruck Vosens: Eine Fingerabdrucknachbildung öffnet diesen Tresor nicht.
 - Mit Vosens entwendeter Zugangskarte: Eine gestohlene Karte ist nicht die verwendete Zugangsmethode.
@@ -2807,7 +2683,6 @@ Was erfährt Bourne (Matt Damon) in „Das Bourne Ultimatum“ von Dr. Albert Hi
 
 Dr. Albert Hirsch (Albert Finney) konfrontiert Jason Bourne (Matt Damon) mit einer unbequemen Erinnerung. Bourne wurde zum Attentäter geformt, hatte der Teilnahme jedoch selbst zugestimmt und einen unbekannten Mann getötet, um seine Bereitschaft zu beweisen. Der Fund seiner ursprünglichen Identität bietet deshalb keine einfache Entlastung. Er muss sich auch mit eigener Mitwirkung auseinandersetzen, bevor er die frühere Rolle hinter sich lassen kann.
 
-Merksatz: Die Erinnerung bringt neben Manipulation auch eigene Verantwortung ans Licht.
 
 - Er meldete sich freiwillig und tötete einen Unbekannten als Loyalitätsbeweis.: Hirsch erinnert ihn an die eigene Zustimmung und den geforderten Mord.
 - Er wurde entführt und ohne eigene Zustimmung ausgebildet.: Die Erklärung lautet nicht, dass er entführt worden sei.
@@ -2829,7 +2704,6 @@ Welche frühere Handlung Bournes (Matt Damon) beschäftigt Paz (Édgar Ramírez)
 
 Jason Bourne (Matt Damon) könnte Paz (Édgar Ramírez) nach ihrem Zusammenstoß töten, tut es aber nicht. Später fragt Paz nach dem Grund und lässt auf dem Dach seine Waffe sinken. Bournes Verhalten unterbricht damit für einen Moment die eingeübte Logik von Auftrag und Tötung. Der frühere Attentäter wirkt nicht allein durch überlegene Kampffähigkeit, sondern auch durch eine Entscheidung, die sein Gegenüber zum Nachdenken bringt.
 
-Merksatz: Die verschonte Begegnung verändert die letzte Konfrontation.
 
 - Bourne hat ihm die Blackbriar-Unterlagen zur Flucht übergeben.: Die Unterlagen gehen nicht an Paz.
 - Bourne hat ihn nach einem Autounfall am Leben gelassen.: Paz fragt, warum Bourne ihn nach dem Unfall verschont hat.
@@ -2851,7 +2725,6 @@ In welchem Jahr wurde „Das Bourne Ultimatum“ mit Matt Damon erstmals veröff
 
 Die Bourne Verschwörung erschien 2004; drei Jahre später folgte 2007 Das Bourne Ultimatum. Beide Filme wurden von Paul Greengrass inszeniert und führen Jason Bournes (Matt Damon) Suche durch eine Geschichte institutioneller Vertuschung. Der dritte Teil greift sogar Ereignisse des zweiten erneut auf, bevor er die Handlung weiterführt. Der Abstand der Kinoveröffentlichungen ist daher von der teilweise überlappenden erzählten Zeit zu unterscheiden.
 
-Merksatz: 2004 Vorgänger, 2007 dritter Teil: drei Jahre Abstand.
 
 - 2003: 2003 liegt vier Jahre vor der Veröffentlichung.
 - 2011: 2011 liegt vier Jahre nach der Veröffentlichung.
@@ -2873,7 +2746,6 @@ Wer inszenierte „Das Bourne Ultimatum“ mit Matt Damon und Julia Stiles?
 
 Paul Greengrass setzt die Arbeit mit Jason Bourne (Matt Damon) im dritten Teil fort. Das BFI bestätigt den Regiecredit und beschreibt die nervöse Handkamera, die schnelle Montage und das Misstrauen gegenüber Überwachung als zusammengehörige Gestaltung. Die drei genannten Drehbuchautoren sind Tony Gilroy, Scott Z. Burns und George Nolfi. Ihr Beitrag ist von Greengrass’ Verantwortung für die filmische Inszenierung zu unterscheiden.
 
-Merksatz: Greengrass verbindet die Verfolgung mit einem Stil permanenter Unruhe.
 
 - Doug Liman: Doug Liman inszenierte den ersten Bourne-Kinofilm.
 - Tony Gilroy: Tony Gilroy gehört hier zu den Drehbuchautoren.
@@ -2899,7 +2771,6 @@ Welcher persönliche Abschied steht für Murtaugh (Danny Glover) zu Beginn von �
 
 Roger Murtaugh (Danny Glover) zählt die verbleibenden Tage bis zum Ruhestand und will sein Haus verkaufen. Martin Riggs (Mel Gibson) verliert dadurch nicht nur einen Kollegen, sondern seinen vertrauten Partner. Der neue Fall trifft das Duo also in einer Phase des geplanten Abschieds. Am Ende entscheidet Murtaugh sich, weiterzuarbeiten. Die Ermittlungen und die Freundschaft machen seine zunächst feste Entscheidung wieder offen.
 
-Merksatz: Der geplante Ruhestand stellt auch die Zukunft der Partnerschaft infrage.
 
 - Sein Wechsel zur Bundespolizei: Ein Wechsel zur Bundespolizei ist nicht sein Plan.
 - Sein Ruhestand bei der Polizei: Murtaugh steht kurz vor dem Ruhestand.
@@ -2921,7 +2792,6 @@ Für welchen Polizeibereich arbeitet Lorna Cole (Rene Russo), die in „Lethal W
 
 Lorna Cole (Rene Russo) beansprucht die Zuständigkeit für den Fall, weil die Spur zu Vorgängen innerhalb des Polizeiapparats führt. Martin Riggs (Mel Gibson) und Roger Murtaugh (Danny Glover) müssen deshalb mit ihr zusammenarbeiten. Sie ist dabei eine eigenständige, durchsetzungsfähige Ermittlerin. Ihr Dienstbereich begründet den anfänglichen Konflikt um Informationen und Zuständigkeiten, bevor die Beteiligten sich auf die gemeinsame Verfolgung des Waffenhändlers konzentrieren.
 
-Merksatz: Coles Zuständigkeit verbindet den Fall mit möglichen Verbrechen innerhalb des Dienstes.
 
 - Drogenfahndung: Sie wird nicht als Drogenfahnderin in das Team eingeführt.
 - Mordkommission: Ihre Zuständigkeit ist nicht die Mordkommission.
@@ -2943,7 +2813,6 @@ Warum erschüttert Murtaugh (Danny Glover) der tödliche Schusswechsel mit einem
 
 Darryl (Bobby Wynn) schießt während einer Auseinandersetzung auf die Polizisten und wird von Roger Murtaugh (Danny Glover) getötet. Erst danach erkennt Murtaugh in ihm einen Freund seines Sohnes Nick (Damon Hines). Der rechtfertigende Ablauf des Einsatzes beseitigt seine persönliche Erschütterung nicht. Sein Rückzug und das Gespräch mit Martin Riggs (Mel Gibson) zeigen, dass polizeiliche Routine keinen Schutz vor dieser Nähe des Verlusts bietet.
 
-Merksatz: Ein Einsatz trifft Murtaugh unmittelbar in seinem familiären Umfeld.
 
 - Der Getötete ist der Sohn seines Partners.: Der Jugendliche ist nicht Riggs’ Sohn.
 - Der Getötete ist sein verdeckt eingesetzter Informant.: Er wird nicht als Murtaughs verdeckter Informant enthüllt.
@@ -2965,7 +2834,6 @@ Woher stammen die Waffen, mit denen Jack Travis (Stuart Wilson) in „Lethal Wea
 
 Lorna Cole (Rene Russo) verbindet die gefundenen Waffen mit beschlagnahmten Beständen, die längst hätten vernichtet werden sollen. Jack Travis (Stuart Wilson) nutzt seine Kenntnis des Polizeisystems, um daraus ein Geschäft zu machen. Die Gefahr stammt somit aus Material, das der Staat bereits aus dem Verkehr gezogen hatte. Die Untersuchung muss nicht nur den Händler finden, sondern den Weg zurück aus behördlicher Verwahrung rekonstruieren.
 
-Merksatz: Zur Vernichtung bestimmte Waffen werden durch den früheren Polizisten wieder zur Bedrohung.
 
 - Aus Polizeibeständen, die vernichtet werden sollten: Die beschlagnahmten Polizeiwaffen waren zur Vernichtung vorgesehen.
 - Aus Lieferungen für eine ausländische Armee: Eine ausländische Militärlieferung ist nicht die Quelle.
@@ -2987,7 +2855,6 @@ Wie beendet Riggs (Mel Gibson) in „Lethal Weapon 3 – Die Profis sind zurück
 
 Jack Travis (Stuart Wilson) nutzt ein Baufahrzeug als beweglichen Schutz, gegen den gewöhnliche Schüsse wirkungslos bleiben. Roger Murtaugh (Danny Glover) wirft Martin Riggs (Mel Gibson) eine Waffe mit der panzerbrechenden Munition zu. Damit kann Riggs das Metall durchschießen und Travis töten. Die besondere Munition ist also nicht bloß ein früher Gefahrenhinweis: Dasselbe Material bestimmt auch die konkrete Auflösung der letzten Auseinandersetzung.
 
-Merksatz: Die gefährliche Spezialmunition wird zum Mittel, den Händler zu stoppen.
 
 - Mit einer Sprengladung am Fahrzeug: Riggs bringt keine Sprengladung am Schutzschild an.
 - Mit panzerbrechenden Geschossen: Die zuvor eingeführte Spezialmunition durchschlägt das Metall.
@@ -3009,7 +2876,6 @@ Warum steht Jeffrey Boam im Drehbuchcredit von „Lethal Weapon 3 – Die Profis
 
 Jeffrey Boam schrieb zunächst einen eigenen Drehbuchentwurf und arbeitete danach mit Robert Mark Kamen an einer weiteren Fassung. Nach einem Schiedsverfahren der Writers Guild of America blieben ausreichend Beiträge aus beiden Arbeitszusammenhängen im Film, um beide Nennungen zu rechtfertigen. Der doppelte Drehbuchcredit bildet somit die Entstehungsgeschichte ab. Boams zusätzliche Nennung für die Story ist eine andere Creditkategorie und erklärt die Dopplung nicht.
 
-Merksatz: Der ungewöhnliche Credit unterscheidet Einzelarbeit von gemeinsamer Überarbeitung.
 
 - Zwei getrennt geschriebene Drehbuchhälften wurden zu einem Film verbunden.: Die doppelte Nennung beruht nicht auf zwei selbständigen Filmhälften.
 - Drehbuch und separate Dialogbearbeitung erhielten jeweils eine Drehbuchnennung.: Eine separat kreditierte Dialogbearbeitung erklärt die Nennung nicht.
@@ -3031,7 +2897,6 @@ In welchem Jahr wurde „Lethal Weapon 3 – Die Profis sind zurück“ mit Mel 
 
 Lethal Weapon erschien 1987 und begründete die Partnerschaft zwischen Martin Riggs (Mel Gibson) und Roger Murtaugh (Danny Glover). Fünf Jahre später, 1992, folgte der dritte Film. Der geplante Ruhestand gibt der inzwischen vertrauten Zusammenarbeit eine neue persönliche Spannung. Das AFI bestätigt beide Erstjahre; die fortgeführte Besetzung und die erneut von Richard Donner übernommene Regie verbinden die konkreten Filme miteinander.
 
-Merksatz: 1987 erster Film, 1992 dritter Film: fünf Jahre Abstand.
 
 - 1988: 1988 liegt vier Jahre davor.
 - 1996: 1996 liegt vier Jahre danach.
@@ -3053,7 +2918,6 @@ Wer inszenierte „Lethal Weapon 3 – Die Profis sind zurück“ mit Mel Gibson
 
 Richard Donner übernahm bei diesem Film sowohl Regie als auch eine Produktionsfunktion. Das AFI trennt diese Credits und nennt außerdem Joel Silver als Produzenten sowie Jeffrey Boam und Robert Mark Kamen als Drehbuchautoren. Die ursprünglichen Figuren stammen von Shane Black. Die konkrete Regiearbeit betrifft somit eine weitere Filmgeschichte mit bekannten Figuren, deren unterschiedliche schöpferische Beiträge im Abspann jeweils eigene Nennungen erhalten.
 
-Merksatz: Donners Regiecredit ist von Produktion und Figurenurheberschaft zu unterscheiden.
 
 - Richard Donner: Richard Donner führte Regie.
 - Shane Black: Shane Black schuf die ursprünglichen Figuren, führte hier jedoch nicht Regie.
@@ -3079,7 +2943,6 @@ Wo bringt Roger Murtaugh (Danny Glover) in „Lethal Weapon 4 – Zwei Profis r�
 
 Roger Murtaugh (Danny Glover) entdeckt die versteckte Familie Hong nach einem Einsatz gegen Menschenschmuggler. Er nimmt sie in sein Haus auf, wo die beiden Familien einander näherkommen. Diese persönliche Entscheidung zieht die Ermittlung direkt in sein Privatleben: Die Triaden gelangen später zu seinem Zuhause. Der Familienanschluss ist damit sowohl ein solidarischer Schritt als auch eine neue Gefahr.
 
-Merksatz: Murtaughs Haus wird Zuflucht und später Angriffsziel.
 
 - In einem Polizeiversteck: Er organisiert kein polizeiliches Versteck.
 - In Leo Getz’ (Joe Pesci) Wohnung: Leo Getz übernimmt die Familie nicht in seiner Wohnung.
@@ -3101,7 +2964,6 @@ Welche Verbindung hat Lee Butters (Chris Rock) in „Lethal Weapon 4 – Zwei Pr
 
 Rianne Murtaugh (Traci Wolfe) und Lee Butters (Chris Rock) halten ihre Beziehung vor Roger Murtaugh (Danny Glover) geheim. Rianne weiß, dass ihr Vater eine Verbindung mit einem Polizisten ablehnen würde. Butters’ auffällige Fürsorge für Roger erhält durch die Enthüllung einen familiären Grund. Im Krankenhaus akzeptiert Roger ihn schließlich als Schwiegersohn, während die nächste Generation geboren wird.
 
-Merksatz: Butters’ Sorge um Murtaugh hat einen familiären Hintergrund.
 
 - Er ist ihr Cousin.: Butters ist nicht Riannes Cousin.
 - Er ist der Bruder ihres Partners.: Butters ist selbst Riannes Partner, nicht dessen Bruder.
@@ -3123,7 +2985,6 @@ Welche Arbeit muss der Onkel von Hong (Eddy Ko) für die Triaden in „Lethal We
 
 Der Großvater Hong (Eddy Ko) sucht seinen Onkel, der die Überfahrt seiner Familie ermöglicht hat. Dessen Können als Graveur wird von den Triaden für Druckplatten ausgenutzt. Wah Sing Ku (Jet Li) braucht das Falschgeld für einen Handel mit einem korrupten General. Die Hoffnung auf Familienzusammenführung wird so zur Abhängigkeit von einer kriminellen Finanzoperation.
 
-Merksatz: Die bezahlte Überfahrt bindet den Graveur an die Fälscher.
 
 - Druckplatten für Falschgeld gravieren: Sein handwerkliches Können dient der Herstellung von Falschgeld.
 - Gefälschte Einreiseunterlagen übersetzen: Er soll keine Dokumente übersetzen.
@@ -3145,7 +3006,6 @@ Wie entlocken die Ermittler Uncle Benny (Kim Chan) in „Lethal Weapon 4 – Zwe
 
 Martin Riggs (Mel Gibson) und die anderen Ermittler suchen Uncle Benny Chan (Kim Chan) bei einem Zahnarzttermin auf. Unter Lachgas gibt er Hinweise auf die sogenannten Four Fathers preis. Dieselbe Situation lässt Riggs und Lee Butters (Chris Rock) unabsichtlich das Familiengeheimnis verraten. Die Szene verschränkt damit einen Fortschritt der Ermittlung mit der privaten Enthüllung vor Roger Murtaugh (Danny Glover).
 
-Merksatz: Beim Zahnarzt fallen Ermittlungs- und Familiengeheimnisse.
 
 - Mit einem vorgetäuschten Abschiebungsbescheid: Ein Abschiebungsbescheid ist nicht der eingesetzte Trick.
 - Beim Zahnarzt unter Lachgas: Die Befragung findet unter Lachgas beim Zahnarzt statt.
@@ -3167,7 +3027,6 @@ Welche persönliche Verbindung hat Wah Sing Ku (Jet Li) in „Lethal Weapon 4 �
 
 Detective Ng (Calvin Jung) erkennt hinter den Four Fathers hochrangige Triadenmitglieder, deren Freilassung Wah Sing Ku (Jet Li) aushandeln will. Unter ihnen ist Kus Bruder. Dadurch wird aus der großen Geldoperation auch eine persönliche Rettungsmission. Als der Austausch eskaliert, versucht Ku mit ihm zu fliehen; Roger Murtaugh (Danny Glover) erschießt den Bruder während der Konfrontation.
 
-Merksatz: Four Fathers bezeichnet eine Triadengruppe; Ku sucht darunter seinen Bruder.
 
 - Einer von ihnen ist sein Vater.: Die Bezeichnung Four Fathers bezeichnet hier keinen leiblichen Vater Kus.
 - Einer von ihnen ist sein Schwiegervater.: Ein Schwiegervater wird nicht als persönliche Verbindung genannt.
@@ -3189,7 +3048,6 @@ Wer führt kurz vor der Geburt in „Lethal Weapon 4 – Zwei Profis räumen auf
 
 Martin Riggs (Mel Gibson) und Lorna Cole (Rene Russo) haben ihre Heirat lange aufgeschoben. Als Lorna kurz vor der Entbindung steht, kommt es im Krankenhaus zu einer improvisierten symbolischen Trauung durch einen Rabbi. Die Szene schließt den Wandel von Riggs vom selbstzerstörerischen Einzelgänger zum Familienvater ab. Parallel wird Roger Murtaugh (Danny Glover) Großvater und nimmt Lee Butters (Chris Rock) in die Familie auf.
 
-Merksatz: Die improvisierte Krankenhaustrauung besiegelt Riggs’ Familienanschluss.
 
 - Ein katholischer Priester: Ein katholischer Priester ist nicht der Trauende.
 - Ein Standesbeamter: Es findet keine vorbereitete standesamtliche Zeremonie statt.
@@ -3211,7 +3069,6 @@ In welchem Jahr erschien „Lethal Weapon 4 – Zwei Profis räumen auf“ erstm
 
 Lethal Weapon startete 1987; Lethal Weapon 4 folgte 1998. Zwischen dem Beginn der Filmreihe und ihrem vierten Kinofilm liegen elf Jahre. Richard Donner blieb für beide Filme verantwortlich, während die Figuren inzwischen eine neue Familienphase erreichen. AFI nennt für den vierten Teil den US-Kinostart am 10. Juli 1998 und ordnet ihn damit eindeutig dem späten Jahrzehnt zu.
 
-Merksatz: 1987 erster Film, 1998 vierter Film: elf Jahre Abstand.
 
 - 1998: AFI verzeichnet den Kinostart 1998.
 - 1992: 1992 erschien der dritte Teil.
@@ -3233,7 +3090,6 @@ Wer führte bei „Lethal Weapon 4 – Zwei Profis räumen auf“ Regie?
 
 Richard Donner ist im AFI-Katalog als Regisseur und zusammen mit Joel Silver als Produzent verzeichnet. Channing Gibson schrieb das Drehbuch; die Figuren gehen auf Shane Black zurück. Diese unterschiedlichen Aufgaben erklären, warum mehrere bekannte Namen mit der Reihe verbunden sind. Der Regiecredit gehört bei diesem vierten Kinofilm dennoch eindeutig Donner, der Mel Gibson und Danny Glover erneut zusammenführt.
 
-Merksatz: Donner führt Regie, Silver produziert, Black schuf die Figuren.
 
 - Shane Black: Shane Black schuf die Figuren, führte hier aber nicht Regie.
 - Richard Donner: AFI nennt Richard Donner als Regisseur.
@@ -3259,7 +3115,6 @@ In welche japanische Stadt eskortiert Nick Conklin (Michael Douglas) den Gefange
 
 Nick Conklin (Michael Douglas) und Charlie Vincent (Andy García) eskortieren den festgenommenen Koji Sato (Yūsaku Matsuda) von New York nach Osaka. Dort sind die Amerikaner auf die Zusammenarbeit mit der örtlichen Polizei angewiesen. Masahiro Matsumoto (Ken Takakura) wird ihr Begleiter. Der Ortswechsel macht sprachliche, kulturelle und dienstliche Missverständnisse zu einem wesentlichen Teil des Falles.
 
-Merksatz: Der New Yorker Fall setzt sich in Osaka fort.
 
 - Tokio: Die Überstellung führt nicht nach Tokio.
 - Kyoto: Kyoto ist nicht der Zielort dieser Ermittlung.
@@ -3281,7 +3136,6 @@ Wie entkommt Sato (Yūsaku Matsuda) bei seiner Ankunft in Japan in „Black Rain
 
 Nick Conklin (Michael Douglas) und Charlie Vincent (Andy García) halten die Männer am Flughafen für die zuständige japanische Polizei. Tatsächlich gehören sie zur Yakuza und nehmen Koji Sato (Yūsaku Matsuda) mit. Als die echten Beamten eintreffen, ist der Gefangene bereits fort. Der Fehler demütigt die Besucher und liefert den Anlass für ihre schwierige Zusammenarbeit mit Masahiro Matsumoto (Ken Takakura).
 
-Merksatz: Eine vermeintlich korrekte Übergabe wird zur Befreiung.
 
 - Gangster übernehmen ihn als angebliche Polizisten.: Die Empfangsgruppe ist eine als Polizei verkleidete Yakuza-Gruppe.
 - Er tauscht im Flugzeug die Kleidung mit einem Passagier.: Ein Kleidertausch im Flugzeug ist nicht seine Fluchtmethode.
@@ -3303,7 +3157,6 @@ Womit wird Charlie Vincent (Andy García) in „Black Rain“ in die tödliche G
 
 Nach einem gemeinsamen Abend mit Masahiro Matsumoto (Ken Takakura) laufen Nick Conklin (Michael Douglas) und Charlie Vincent (Andy García) zurück zum Hotel. Ein Motorradfahrer stiehlt Charlies Mantel und zieht ihn in eine Tiefgarage. Dort wartet eine Gruppe von Angreifern, bevor Koji Sato (Yūsaku Matsuda) ihn tötet. Der scheinbar kleine Diebstahl erweist sich als gezielte Vorbereitung eines Mordes.
 
-Merksatz: Der Manteldiebstahl führt Charlie in die vorbereitete Falle.
 
 - Ein Unbekannter stiehlt seine Dienstwaffe.: Ein Dienstwaffendiebstahl löst diese Verfolgung nicht aus.
 - Ein Motorradfahrer stiehlt seinen Mantel.: Der Manteldiebstahl veranlasst Charlie zur Verfolgung.
@@ -3325,7 +3178,6 @@ Welches eigene Fehlverhalten gesteht Nick Conklin (Michael Douglas) Matsumoto (K
 
 Zu Beginn steht Nick Conklin (Michael Douglas) bereits unter Verdacht der internen Ermittler in New York. Nach Charlie Vincents (Andy García) Tod bestätigt er gegenüber Masahiro Matsumoto (Ken Takakura), Geld bei einem Drogeneinsatz genommen zu haben. Das Eingeständnis entzieht ihm die Rolle eines moralisch unangreifbaren Beobachters. Die spätere Zusammenarbeit verlangt deshalb auch eine Änderung seiner eigenen Haltung.
 
-Merksatz: Nick muss die Korruption bei sich selbst anerkennen.
 
 - Er hat einem Yakuza-Boss Informationen verkauft.: Er gesteht keinen Informationsverkauf an die Yakuza.
 - Er hat eine Zeugenaussage in einem Mordfall gefälscht.: Eine gefälschte Zeugenaussage ist nicht das eingeräumte Fehlverhalten.
@@ -3347,7 +3199,6 @@ Wie beendet Nick Conklin (Michael Douglas) in „Black Rain“ die letzte direkt
 
 Nach dem Motorradrennen und dem Kampf hat Nick Conklin (Michael Douglas) Koji Sato (Yūsaku Matsuda) in seiner Gewalt. Trotz Charlie Vincents (Andy García) Ermordung tötet er ihn nicht. Zusammen mit Masahiro Matsumoto (Ken Takakura) bringt er den gefesselten Gefangenen ins Polizeipräsidium. Der Verzicht auf unmittelbare Rache bildet den entscheidenden Gegensatz zu Nicks früherer Regelmissachtung und seinem emotionalen Ausnahmezustand.
 
-Merksatz: Der Rachekonflikt endet mit einer Festnahme.
 
 - Er erschießt ihn nach seiner Entwaffnung.: Nick vollstreckt keine persönliche Hinrichtung.
 - Er überlässt ihn der rivalisierenden Gang zur Bestrafung.: Er übergibt den Gefangenen nicht der Yakuza.
@@ -3369,7 +3220,6 @@ Was findet Matsumoto (Ken Takakura) in „Black Rain“ unter dem Hemd in Nick C
 
 Vor Nick Conklins (Michael Douglas) Rückflug erwähnt Masahiro Matsumoto (Ken Takakura), dass die Druckplatten nicht gefunden wurden. Nick schenkt ihm ein Hemd; darunter liegen beide Platten. Die scheinbar beiläufige Übergabe löst den Verdacht, Nick habe das Beweisstück für sich behalten. Zugleich erlaubt sie ihm, Dankbarkeit und neu gewonnenes Vertrauen auszudrücken, ohne seine gewohnte raue Haltung vollständig abzulegen.
 
-Merksatz: Unter dem Abschiedshemd liegt die Rückgabe der Beweise.
 
 - Die gesuchten Falschgeld-Druckplatten: Nick hat beide Druckplatten in der Geschenkbox zurückgegeben.
 - Die Polizeimarke seines getöteten Partners: Die Marke des getöteten Partners bildet nicht den versteckten Inhalt.
@@ -3391,7 +3241,6 @@ In welchem Jahr erschien „Black Rain“ mit Michael Douglas erstmals?
 
 Ridley Scotts Blade Runner kam 1982 heraus, Black Rain folgte 1989: Sieben Jahre liegen zwischen den beiden Filmen. In beiden spielen dichte nächtliche Stadtbilder eine markante Rolle, doch hier führen sie in einen Polizeifall in Osaka. AFI verzeichnet den US-Kinostart am 22. September 1989. Die Verbindung ordnet den Film zeitlich innerhalb von Scotts Arbeit ein.
 
-Merksatz: 1982 Blade Runner, 1989 Black Rain: sieben Jahre Abstand.
 
 - 1982: 1982 erschien Blade Runner, nicht dieser Polizeifilm.
 - 1989: AFI nennt den Kinostart 1989.
@@ -3413,7 +3262,6 @@ Wer inszenierte „Black Rain“ mit Michael Douglas und Ken Takakura?
 
 Der AFI-Katalog nennt Ridley Scott als Regisseur, Craig Bolotin und Warren Lewis als Autoren sowie Stanley R. Jaffe und Sherry Lansing als Produzenten. Michael Douglas und Ken Takakura verkörpern Ermittler mit unterschiedlichen beruflichen Maßstäben. Die nebligen Industrie- und Nachtbilder gehören zur konkreten Inszenierung dieses Polizeifilms. Der Credit ist von Tony Scott und anderen zeitgenössischen Actionregisseuren zu unterscheiden.
 
-Merksatz: Ridley Scott führt Douglas und Takakura durch den Osaka-Fall.
 
 - Tony Scott: Sein Bruder Tony Scott inszenierte diesen Film nicht.
 - John Woo: John Woo hat keinen Regiecredit bei Black Rain.
@@ -3439,7 +3287,6 @@ Welchen Beruf übt Chev Chelios (Jason Statham) in „Crank“ für Carlito (Car
 
 Chev Chelios (Jason Statham) arbeitet für den Gangsterboss Carlito (Carlos Sanz) in Los Angeles. Ein Auftrag gegen Don Kim (Keone Young) gerät zum Ausgangspunkt eines Machtwechsels, bei dem Chev selbst beseitigt werden soll. Seine Freundin Eve Lydon (Amy Smart) kennt seinen wirklichen Beruf zunächst nicht. Diese verborgen gehaltene Tätigkeit erklärt, warum ihn sowohl alte Auftraggeber als auch neue Rivalen bedrohen.
 
-Merksatz: Der beauftragte Killer wird selbst zum Ziel.
 
 - Auftragskiller: Chev nimmt bezahlte Mordaufträge an.
 - Personenschützer: Seine Aufgabe ist nicht der Schutz von Carlitos Kunden.
@@ -3461,7 +3308,6 @@ Was muss Chev Chelios (Jason Statham) in „Crank“ nach der Vergiftung aufrech
 
 Ricky Verona (Jose Pablo Cantillo) lässt Chev Chelios (Jason Statham) ein synthetisches Gift injizieren. Doc Miles (Dwight Yoakam) erklärt ihm, dass er seinen Adrenalinspiegel hoch halten muss, um den Kreislauf nicht zusammenbrechen zu lassen. Daraus entwickelt der Film seine erfundene Aktionslogik: Tempo, Angst, Wut und körperliche Risiken werden zu immer neuen Möglichkeiten, Zeit gegen das Gift zu gewinnen.
 
-Merksatz: Stillstand bedroht Chev; Anregung hält ihn im Rennen.
 
 - Einen hohen Blutzuckerspiegel: Ein erhöhter Blutzucker ist nicht der genannte Mechanismus gegen das Gift.
 - Einen hohen Adrenalinspiegel: Nach der erfundenen Filmprämisse hält Adrenalin Chevs Kreislauf in Gang.
@@ -3483,7 +3329,6 @@ Warum unterstützt Don Kim (Keone Young) Chev Chelios (Jason Statham) beim Treff
 
 Chev Chelios (Jason Statham) sollte Don Kim (Keone Young) für Carlito (Carlos Sanz) töten. Er ließ ihn jedoch am Leben. Als Carlito beim Treffen auf dem Hoteldach erneut mit dem Gift droht, erscheint Kim mit seinen Männern und greift ein. Eine zunächst verborgene Entscheidung Chevs verändert dadurch das Kräfteverhältnis. Der vermeintlich erledigte Auftrag kehrt als unerwartete Unterstützung zurück.
 
-Merksatz: Der verschonte Gegner wird zum Helfer.
 
 - Chev hat ihm einen rivalisierenden Boss ausgeliefert.: Die Hilfe beruht nicht auf der Übergabe eines rivalisierenden Bosses.
 - Chev hat ihm für seine Hilfe Geld versprochen.: Eine zugesagte Bezahlung erklärt diesen Beistand nicht.
@@ -3505,7 +3350,6 @@ Warum verrät Carlito (Carlos Sanz) seinen Auftragskiller Chev (Jason Statham) i
 
 Carlito (Carlos Sanz) hat den Auftrag gegen Don Kim (Keone Young) selbst vergeben. Danach verschwört er sich mit Ricky Verona (Jose Pablo Cantillo), um Chev Chelios (Jason Statham) zu beseitigen und die Reaktion der Triaden abzufangen. Als Chev Hilfe sucht, erklärt Carlito, dass es kein Gegenmittel gebe. Der Auftraggeber benutzt seinen eigenen Mann somit als austauschbaren Schutzschild.
 
-Merksatz: Carlito gibt den Auftrag und opfert anschließend dessen Ausführer.
 
 - Er will Chevs Anteil an einem Bankraub behalten.: Ein zu verteilender Bankraubertrag ist nicht Carlitos Motiv.
 - Er will Chevs Deal mit der Polizei verhindern.: Ein bekannt gewordener Polizeideal treibt den Verrat nicht an.
@@ -3527,7 +3371,6 @@ Was entdeckt Chev (Jason Statham) in „Crank“ über die Nachricht seines Info
 
 Kaylo (Efren Ramirez) wird von Carlitos (Carlos Sanz) Männern entführt und muss Chev Chelios (Jason Statham) zum Lagerhaus locken. Dort findet Chev den Informanten tot; die bewaffneten Männer offenbaren Carlitos Auftrag gegen ihn. Der bekannte Kontakt hatte damit nur scheinbar eine verlässliche Spur geliefert. Chev und Eve Lydon (Amy Smart) müssen sich aus einem Hinterhalt befreien, dessen Nachricht unter Zwang entstanden war.
 
-Merksatz: Eine vertraute Stimme macht die erzwungene Nachricht noch nicht zuverlässig.
 
 - Sie wurde erzwungen und sollte ihn in einen Hinterhalt locken.: Entführer haben Kaylo zur falschen Treffpunktnachricht gezwungen.
 - Sie war ein freiwilliger Verrat gegen Bezahlung.: Kaylo hat Chev nicht freiwillig gegen Geld verraten.
@@ -3549,7 +3392,6 @@ Was tut Chev Chelios (Jason Statham) in „Crank“ während seines Falls aus de
 
 Chev Chelios (Jason Statham) reißt Ricky Verona (Jose Pablo Cantillo) aus dem Hubschrauber und tötet ihn während des Falls. Danach ruft er Eve Lydon (Amy Smart) an und entschuldigt sich, dass er nicht zurückkommt. Der letzte Moment unterbricht die reine Jagd mit einem persönlichen Abschied. Die extreme körperliche Situation verbindet so die Action mit Chevs zuvor verborgener Liebesbeziehung.
 
-Merksatz: Im freien Fall gilt Chevs letzter Anruf Eve.
 
 - Er verabschiedet sich telefonisch bei Doc Miles (Dwight Yoakam).: Sein letzter Abschiedsanruf gilt seiner Freundin, nicht seinem Arzt.
 - Er entschuldigt sich telefonisch bei Eve (Amy Smart).: Chev ruft Eve an und entschuldigt sich, dass er nicht zurückkehrt.
@@ -3571,7 +3413,6 @@ In welchem Jahr erschien „Crank“ mit Jason Statham erstmals?
 
 The Transporter erschien 2002 und etablierte Jason Statham als Fahrer Frank Martin. Crank folgte 2006, vier Jahre später, mit Chev Chelios (Jason Statham) als gejagtem Auftragskiller. Die beiden Rollen verbinden Körperbeherrschung und extreme Bewegung mit unterschiedlichen Geschichten. BFI nennt für Crank das Jahr 2006. Die Fortsetzung Crank: High Voltage kam erst 2009 und gehört deshalb nicht zu diesem Jahresziel.
 
-Merksatz: 2002 Transporter, 2006 Crank: vier Jahre Abstand.
 
 - 2002: 2002 gehört zu The Transporter.
 - 2004: 2004 liegt zwei Jahre vor Crank.
@@ -3593,7 +3434,6 @@ Welches Regieteam inszenierte „Crank“?
 
 Crank trägt den gemeinsamen Regie- und Drehbuchcredit von Mark Neveldine und Brian Taylor. Der BFI-Datensatz nennt beide Namen ausdrücklich. Die schnelle, körpernahe Inszenierung begleitet Chev Chelios (Jason Statham) durch eine Handlung, in der Pausen zur Gefahr werden. Bei der Zuordnung ist das vollständige Team entscheidend: Eine verkürzte Angabe nur eines Namens würde den offiziellen gemeinsamen Credit unvollständig wiedergeben.
 
-Merksatz: Crank gehört zum gemeinsamen Werk von Neveldine und Taylor.
 
 - Joe Russo und Anthony Russo: Die Russo-Brüder inszenierten diesen Film nicht.
 - David Leitch und Chad Stahelski: Leitch und Stahelski sind nicht das Crank-Regieteam.
@@ -3619,7 +3459,6 @@ Welchen Beruf hat Paul Kersey (Charles Bronson) zu Beginn von „Ein Mann sieht 
 
 Paul Kersey (Charles Bronson) lebt als Architekt mit seiner Frau Joanna Kersey (Hope Lange) in Manhattan. Er ist zunächst ein ziviler Berufstätiger, dessen Leben durch den Überfall auf seine Familie zerstört wird. Eine Dienstreise zu einem Wohnbauprojekt in Tucson führt ihn später zum Schießen. Der Beruf verbindet seine anfängliche Normalität mit dem Kontakt, durch den er an eine Waffe gelangt.
 
-Merksatz: Kersey beginnt als ziviler Architekt.
 
 - Buchhalter: Der Buchhalterberuf gehört zur Romanfigur, nicht zu dieser Filmfassung.
 - Architekt: Kersey arbeitet als Architekt.
@@ -3641,7 +3480,6 @@ Welchen Verlust erleidet Paul Kersey (Charles Bronson) nach dem Wohnungsüberfal
 
 Joanna Kersey (Hope Lange) und Carol Kersey-Toby (Kathleen Tolan) werden nach dem Einkauf bis in ihre Wohnung verfolgt und angegriffen. Joanna stirbt im Krankenhaus; Carol bleibt schwer traumatisiert. Paul Kersey (Charles Bronson) muss deshalb gleichzeitig einen Todesfall und die anhaltenden Folgen für seine Tochter bewältigen. Der Film baut seinen späteren Weg in die Selbstjustiz auf dieser familiären Katastrophe auf.
 
-Merksatz: Joanna stirbt, Carol überlebt mit schweren Folgen.
 
 - Seine Tochter stirbt noch am Tatort.: Carol überlebt den Angriff, bleibt aber schwer traumatisiert.
 - Sein Schwiegersohn wird auf der Flucht erschossen.: Jack wird nicht bei diesem Überfall erschossen.
@@ -3663,7 +3501,6 @@ Wie erhält Paul Kersey (Charles Bronson) in „Ein Mann sieht rot“ den Revolv
 
 In Tucson arbeitet Paul Kersey (Charles Bronson) mit dem Immobilienentwickler Ames Jainchill (Stuart Margolin) zusammen. Beim gemeinsamen Schießen zeigt Paul seine Erfahrung. Vor dem Rückflug steckt Ames ihm ein Geschenk ins Gepäck: einen Revolver samt Munition. In New York öffnet Paul das Paket. Die Waffe gelangt damit durch einen beruflichen Kontakt in seine Hände und wird zum Werkzeug seiner Selbstjustiz.
 
-Merksatz: Das Tucson-Geschenk wird in New York zur Tatwaffe.
 
 - Er kauft ihn bei einem New Yorker Straßenhändler.: Ein illegaler Straßenkauf ist nicht die Herkunft dieser Waffe.
 - Er nimmt ihn einem der ursprünglichen Angreifer ab.: Paul nimmt den Revolver nicht einem Familienangreifer ab.
@@ -3685,7 +3522,6 @@ Gegen wen richtet Paul Kersey (Charles Bronson) seine nächtlichen Schüsse in �
 
 Paul Kersey (Charles Bronson) sucht nach dem ersten tödlichen Zwischenfall weitere gefährliche Begegnungen in der Stadt. Er verfolgt dabei keine erfolgreich identifizierten Täter des ursprünglichen Familienüberfalls. Stattdessen schießt er auf andere Straßenräuber oder greift bei neuen Überfällen ein. Diese Verschiebung ist für das Selbstjustizthema entscheidend: Aus dem persönlichen Verlust entsteht ein allgemeiner privater Krieg gegen Kriminalität.
 
-Merksatz: Seine Selbstjustiz trifft neue Täter, nicht die aufgeklärten Familienangreifer.
 
 - Gegen später angetroffene Straßenräuber: Er schießt auf Räuber aus neuen Begegnungen.
 - Gegen die gezielt aufgespürten Angreifer seiner Familie: Die ursprünglichen Angreifer werden nicht systematisch gefunden und bestraft.
@@ -3707,7 +3543,6 @@ Warum wollen die Verantwortlichen Paul Kersey (Charles Bronson) in „Ein Mann s
 
 Inspector Frank Ochoa (Vincent Gardenia) nähert sich Paul Kersey (Charles Bronson) als Verdächtigem. Die Behördenleitung bremst ihn, weil sie öffentliche Aufmerksamkeit für die gesunkene Straßenkriminalität und für Kerseys Taten fürchtet. Eine Festnahme könnte den Täter zum Märtyrer machen und Nachahmer hervorbringen. Das Kalkül führt deshalb zu einer inoffiziellen Vertreibung statt zu einer offen ausgetragenen Strafverfolgung.
 
-Merksatz: Der gefürchtete Märtyrer verhindert die öffentliche Festnahme.
 
 - Sie wollen ihn als Informanten gegen eine Bande einsetzen.: Ein geplanter Einsatz als Informant begründet die Entscheidung nicht.
 - Sie fürchten einen Märtyrer und weitere Selbstjustiz.: Eine öffentliche Festnahme könnte ihn zum Vorbild und Märtyrer für Nachahmer machen.
@@ -3729,7 +3564,6 @@ Welcher Jazzmusiker komponierte die Filmmusik zu „Ein Mann sieht rot“?
 
 Der AFI-Katalog nennt Herbie Hancock für Komposition und musikalische Leitung von Death Wish. Damit verbindet sich der urbane Selbstjustizfilm mit einem bedeutenden Jazzmusiker. Der Filmartikel beschreibt den Einsatz von Synthesizern und orchestralen Teilen; diese Angaben ergänzen den offiziellen Credit. Die Musikzuordnung ist vom Regisseur Michael Winner und vom Schauspieler Charles Bronson zu unterscheiden.
 
-Merksatz: Bronsons Stadtthriller hat Musik von Herbie Hancock.
 
 - Quincy Jones: Quincy Jones komponierte diese Filmmusik nicht.
 - Lalo Schifrin: Lalo Schifrin ist nicht der hier kredierte Komponist.
@@ -3751,7 +3585,6 @@ In welchem Jahr erschien „Ein Mann sieht rot“ mit Charles Bronson erstmals?
 
 Dirty Harry erschien 1971, Death Wish folgte 1974: Drei Jahre liegen zwischen den beiden kontroversen Filmen über Gewalt und den Umgang mit Kriminalität. Anders als der Polizist Harry Callahan (Clint Eastwood) ist Paul Kersey (Charles Bronson) ein Privatmann. AFI nennt die New Yorker Eröffnung am 24. Juli 1974. Die erste Fortsetzung erschien erst 1982 und gehört nicht zum Jahr dieser ursprünglichen Filmfassung.
 
-Merksatz: 1971 Dirty Harry, 1974 Death Wish: drei Jahre Abstand.
 
 - 1971: 1971 erschien Dirty Harry.
 - 1978: 1978 liegt vier Jahre nach dem ersten Film.
@@ -3773,7 +3606,6 @@ Wer inszenierte „Ein Mann sieht rot“ mit Charles Bronson?
 
 Michael Winner ist bei AFI als Regisseur von Death Wish verzeichnet. Wendell Mayes schrieb das Drehbuch auf Grundlage des Romans von Brian Garfield. Charles Bronson spielt Paul Kersey, dessen Beruf und Vorgeschichte für die Filmfassung verändert wurden. Die Verbindung zwischen Winner und Bronson gehört zu ihrer konkreten Zusammenarbeit, während Regie, Romanvorlage und Drehbuch unterschiedliche kreative Leistungen bleiben.
 
-Merksatz: Winner inszeniert Bronson als Paul Kersey.
 
 - Michael Winner: Michael Winner trägt den offiziellen Regiecredit.
 - Don Siegel: Don Siegel inszenierte Dirty Harry, nicht diesen Film.
@@ -3799,7 +3631,6 @@ Welches Auto fährt Kowalski (Barry Newman) während der großen Verfolgung in �
 
 Kowalski (Barry Newman) übernimmt in Denver einen weißen Dodge Challenger für einen Überführungsauftrag. Der Wagen trägt ihn durch mehrere Staaten und bleibt das sichtbare Zentrum der Verfolgung. Ein Jaguar-Fahrer fordert ihn unterwegs zu einem Rennen heraus, doch Kowalskis Fahrzeug wechselt dadurch nicht. Der auffällige weiße Wagen verbindet die räumlich weit auseinanderliegenden Episoden des Roadmovies.
 
-Merksatz: Der weiße Challenger hält die gesamte Jagd zusammen.
 
 - Einen schwarzen Ford Mustang: Ein schwarzer Mustang ist nicht sein Verfolgungsfahrzeug.
 - Eine rote Chevrolet Corvette: Kowalski fährt keine rote Corvette.
@@ -3821,7 +3652,6 @@ Wie unterstützt Super Soul (Cleavon Little) Kowalski (Barry Newman) in „Fluch
 
 Der blinde Discjockey Super Soul (Cleavon Little) hört den Polizeifunk ab und richtet seine Sendung an Kowalski (Barry Newman). Er wird dadurch zu dessen räumlich entferntem Begleiter und macht ihn für andere zum rebellischen Helden. Die Hilfe erreicht den Fahrer über den Autoradio-Lautsprecher. Als das Studio angegriffen wird, ist deshalb auch dieser wichtige Kommunikationsweg gefährdet.
 
-Merksatz: Das Autoradio verbindet Fahrer und unsichtbaren Helfer.
 
 - Er fährt vor ihm und räumt Straßensperren frei.: Er fährt keinen Begleitwagen durch die Sperren.
 - Er versteckt ihn in einer Werkstatt vor den Fahndern.: Eine Werkstatt ist nicht sein Unterstützungsweg.
@@ -3843,7 +3673,6 @@ Wie unterscheidet sich Kowalskis (Barry Newman) private Wette in „Fluchtpunkt 
 
 Kowalski (Barry Newman) soll den Challenger regulär nach San Francisco überführen. Bei seinem Kontakt Jake (Lee Weaver) wettet er jedoch auf eine frühere Ankunft als vertraglich vorgesehen. Die private Herausforderung verkürzt also die verfügbare Zeit eines normalen Arbeitsauftrags. Der zusätzliche Zeitdruck erklärt seinen Drang zu Tempo und Aufputschmitteln, bevor die Polizeiverfolgung die Fahrt in eine öffentliche Flucht verwandelt.
 
-Merksatz: Die Wette zieht den Ankunftstermin vor.
 
 - Er wettet auf eine Ankunft vor dem regulären Liefertermin.: Die Wette verspricht eine frühere Ankunft als der reguläre Liefertermin.
 - Er wettet auf eine Fahrt ohne jede Pause.: Die Wette verlangt keine vollständig pausenlose Fahrt.
@@ -3865,7 +3694,6 @@ Wie hilft Angel (Timothy Scott) Kowalski (Barry Newman) in „Fluchtpunkt San Fr
 
 Kowalski (Barry Newman) bemerkt, dass Super Souls (Cleavon Little) Hinweise verdächtig geworden sind. Angel (Timothy Scott) bestätigt, dass die Polizei an der Grenze auf ihn wartet, und hilft mit einem Umbau des Challengers. Der Wagen soll wie ein Polizeifahrzeug erscheinen. Die Szene verbindet die manipulierte Radiospur mit einer praktischen Täuschung, die Kowalski eine weitere Etappe ermöglicht.
 
-Merksatz: Die Polizeitarnung durchbricht die vorbereitete Grenzfalle.
 
 - Er lenkt ihn durch einen stillgelegten Eisenbahntunnel.: Ein Eisenbahntunnel ist nicht der gewählte Weg.
 - Er lässt den Challenger wie einen Polizeiwagen wirken.: Angel verändert den Wagen für eine vorgetäuschte Polizeidurchfahrt.
@@ -3887,7 +3715,6 @@ Warum verlor Kowalski (Barry Newman) laut Rückblende in „Fluchtpunkt San Fran
 
 Rückblenden und die Auswertung seiner Akte zeigen Kowalski (Barry Newman) als früheren Soldaten, Rennfahrer und Polizisten. Seine Polizeilaufbahn endete, nachdem er die Vergewaltigung einer jungen Frau durch einen Vorgesetzten verhindert hatte. Die Vorgeschichte gibt der Jagd eine zusätzliche Bedeutung: Die Polizei verfolgt einen Mann, der zuvor innerhalb derselben Institution gegen deren Machtmissbrauch gehandelt hat.
 
-Merksatz: Der gejagte Ex-Polizist hatte sich gegen Gewalt im eigenen Dienst gestellt.
 
 - Er verkaufte beschlagnahmte Drogen an einen Rennfahrer.: Drogenverkauf ist nicht die gezeigte Ursache seines Ausscheidens.
 - Er verursachte betrunken einen Unfall mit einem Dienstwagen.: Ein betrunkener Dienstwagenunfall erklärt die Entlassung nicht.
@@ -3909,7 +3736,6 @@ Wie verbindet „Fluchtpunkt San Francisco“ seine Eröffnung mit Kowalskis (Ba
 
 Der AFI-Katalog erläutert den ungewöhnlichen Aufbau: Die erste Sequenz zeigt bereits die spätere Straßensperre für Kowalski (Barry Newman). Nach einem eingefrorenen Bild springt ein Zwischentitel zum Beginn der Fahrt in Denver zurück. Die Reise läuft anschließend chronologisch auf diese vorausgenommene Lage zu. Dazwischen ergänzen kürzere Erinnerungen Kowalskis Vorgeschichte. Der Anfang macht das drohende Ende sichtbar, bevor dessen Entstehung erzählt wird.
 
-Merksatz: Die erste Sperre gehört zeitlich ans Ende der Fahrt.
 
 - Die Verfolgung wird rückwärts vom Unfall zum Fahrtbeginn erzählt.: Nach dem Rücksprung läuft die eigentliche Fahrt chronologisch ab.
 - Zwei parallele Verfolgungen treffen erst an der Sperre zusammen.: Es werden keine zwei unabhängigen Verfolgungen im Finale zusammengeführt.
@@ -3931,7 +3757,6 @@ In welchem Jahr erschien „Fluchtpunkt San Francisco“ mit Barry Newman erstma
 
 Bullitt erschien 1968 und machte die Verfolgungsfahrt durch San Francisco zu einem zentralen Kinomoment. Vanishing Point folgte 1971, drei Jahre später, mit einer Jagd über mehrere US-Staaten. AFI verzeichnet die Erstveröffentlichung im März 1971. Die Verbindung ordnet zwei unterschiedliche Auto-Actionfilme zeitlich ein: den städtischen Polizeifall und das ausgedehnte Roadmovie mit Kowalski (Barry Newman).
 
-Merksatz: 1968 Bullitt, 1971 Vanishing Point: drei Jahre Abstand.
 
 - 1971: AFI nennt die Erstveröffentlichung im März 1971.
 - 1968: 1968 erschien Bullitt.
@@ -3953,7 +3778,6 @@ Wer führte bei „Fluchtpunkt San Francisco“ mit Barry Newman Regie?
 
 Richard C. Sarafian ist im AFI-Katalog als Regisseur verzeichnet, Norman Spencer als Produzent. Das Drehbuch schrieb Guillermo Cabrera Infante unter dem Pseudonym Guillermo Cain. Der Film verbindet Kowalskis (Barry Newman) aktuelle Verfolgung mit Rückblenden auf seine Vorgeschichte und der Radiosendung von Super Soul (Cleavon Little). Die Zuordnung bleibt gegenüber anderen Regisseuren wichtiger Auto- und Roadmovies eigenständig.
 
-Merksatz: Sarafian inszeniert Kowalskis staatenübergreifende Fahrt.
 
 - Peter Yates: Peter Yates inszenierte Bullitt, nicht diesen Film.
 - Richard C. Sarafian: AFI nennt Richard C. Sarafian als Regisseur.
@@ -3979,7 +3803,6 @@ Warum sucht Nascimento (Wagner Moura) in „Tropa de Elite“ einen Nachfolger f
 
 Roberto Nascimento (Wagner Moura) führt Einsätze der Spezialeinheit BOPE, während seine Frau Rosane Nascimento (Maria Ribeiro) ihr erstes Kind erwartet. Er sucht deshalb einen geeigneten Nachfolger, damit er in eine sicherere Tätigkeit wechseln kann. Die Prüfung junger Beamter hat damit zugleich einen persönlichen Grund. Sein Wunsch nach einem familiären Leben kollidiert mit der fortdauernden Gewalt seiner beruflichen Umgebung.
 
-Merksatz: Die bevorstehende Vaterschaft treibt die Nachfolgersuche an.
 
 - Er möchte als Politiker für das Bürgermeisteramt kandidieren.: Eine Kandidatur ist nicht sein persönliches Ausstiegsziel.
 - Er möchte als Sicherheitschef ins Ausland wechseln.: Ein Auslandsvertrag ist nicht der Anlass der Nachfolgersuche.
@@ -4001,7 +3824,6 @@ Was studiert der junge Polizist André Matias (André Ramiro) neben seinem Diens
 
 André Matias (André Ramiro) verbindet Polizeidienst und Jurastudium. An der Universität lernt er Maria (Fernanda Machado) und deren Freunde kennen, die eine NGO in der Favela unterstützen. Sein verdeckter Polizeiberuf führt in diesem Umfeld zu Konflikten. Das Studium öffnet ihm zugleich die Aussicht auf eine andere berufliche Zukunft, während sein Eintritt in die Spezialeinheit ihn tiefer in deren Gewaltpraxis hineinzieht.
 
-Merksatz: Matias lebt zwischen Polizeidienst und juristischer Ausbildung.
 
 - Rechtswissenschaft: Matias besucht die juristische Fakultät.
 - Medizin: Ein Medizinstudium gehört nicht zu seinem zweiten Lebensbereich.
@@ -4023,7 +3845,6 @@ Wofür verwenden Neto (Caio Junqueira) und Matias (André Ramiro) in „Tropa de
 
 Neto Gouveia (Caio Junqueira) arbeitet zunächst in der heruntergewirtschafteten Polizeifahrzeugwerkstatt, André Matias (André Ramiro) im Beschwerdearchiv. Sie entwenden Bestechungsgelder ihrer korrupten Vorgesetzten und setzen damit Fahrzeuge instand. Die vermeintliche Verbesserung löst dienstliche Vergeltung aus. Der Vorgang zeigt, dass nicht nur mangelnde Ausstattung, sondern ein von persönlichen Einnahmen bestimmtes System den normalen Polizeidienst behindert.
 
-Merksatz: Die Wagenreparatur greift in das Bestechungssystem ein.
 
 - Für neue Waffen ihrer Einheit: Eine neue Waffenbeschaffung ist nicht ihre Verwendung des Geldes.
 - Für die Reparatur der Polizeifahrzeuge: Sie wollen mit dem Geld möglichst viele Polizeiautos instand setzen.
@@ -4045,7 +3866,6 @@ Wodurch erfährt Baiano (Fábio Lago) in „Tropa de Elite“, dass André Matia
 
 Nach dem chaotischen Schusswechsel wird André Matias (André Ramiro) von der Presse fotografiert. Baiano (Fábio Lago) legt Maria (Fernanda Machado) und ihren Freunden später die Zeitung vor und bedroht sie wegen des Polizeikontakts. Die zunächst getrennten Lebensbereiche sind damit öffentlich verbunden. Das Foto wird zum Auslöser von Misstrauen und Gefahr für die Menschen, mit denen Matias außerhalb des Dienstes verkehrt.
 
-Merksatz: Das Zeitungsfoto zerstört die Trennung zwischen Studium und Polizei.
 
 - Durch ein abgehörtes Telefonat mit seinem Vorgesetzten: Ein abgehörtes Telefonat ist nicht der enthüllende Beleg.
 - Durch seine offen getragene Dienstwaffe an der Universität: Eine offen getragene Waffe führt hier nicht zur Enttarnung.
@@ -4067,7 +3887,6 @@ Warum gerät Neto (Caio Junqueira) statt Matias (André Ramiro) in „Tropa de E
 
 André Matias (André Ramiro) will einem kurzsichtigen Jungen eine Brille bringen. Edu (Paulo Vilela) verrät den Termin an Baiano (Fábio Lago). Weil Matias ein Vorstellungsgespräch wahrnehmen kann, übernimmt Neto Gouveia (Caio Junqueira) die Übergabe. Eine freundschaftliche Vertretung setzt somit den falschen Mann in die vorbereitete Falle. Netos tödliche Verwundung verändert den weiteren Verlauf der Polizeieinsätze.
 
-Merksatz: Die übernommene Brillenübergabe führt Neto in die für Matias gelegte Falle.
 
 - Er benutzt Matias’ Polizeiausweis für einen verdeckten Einsatz.: Ein vertauschter Polizeiausweis verursacht diesen Hinterhalt nicht.
 - Er begleitet NGO-Helfer zu einem Treffen.: Die Begleitung einer NGO-Gruppe führt ihn nicht in die Falle.
@@ -4089,7 +3908,6 @@ Was verlangt Nascimento (Wagner Moura) im Finale von „Tropa de Elite“ von Ma
 
 BOPE findet Baiano (Fábio Lago) nach einer Folge gewaltsamer Verhöre. Roberto Nascimento (Wagner Moura) überlässt André Matias (André Ramiro) den letzten Schuss auf den gefangenen Mann. Diese Handlung verbindet die Rache für Neto Gouveia (Caio Junqueira) mit Matias’ endgültiger Aufnahme in die Gewaltlogik der Einheit. Der Schluss zeigt gerade die Überschreitung eines regulären polizeilichen Verfahrens.
 
-Merksatz: Die letzte Bewährungsprobe ist eine außergerichtliche Tötung.
 
 - Den Gefangenen außergerichtlich zu erschießen: Nascimento überlässt Matias die außergerichtliche Tötung des Gefangenen.
 - Ihn als Kronzeugen zur Staatsanwaltschaft zu bringen: Eine rechtsstaatliche Zeugenübergabe bildet nicht den Filmschluss.
@@ -4111,7 +3929,6 @@ In welchem Jahr wurde „Tropa de Elite“ erstmals veröffentlicht?
 
 City of God erschien 2002, Tropa de Elite folgte 2007: Fünf Jahre liegen zwischen den beiden brasilianischen Filmen über Gewalt in Rio de Janeiro. ANCINE bestätigt den regulären brasilianischen Kinostart im Oktober 2007. Die Berlinale-Auswertung und der französische Kinostart im Presseheft gehören zu 2008. Diese späteren internationalen Termine ändern das erste Veröffentlichungsjahr nicht.
 
-Merksatz: 2002 City of God, 2007 Tropa de Elite: fünf Jahre Abstand.
 
 - 2002: 2002 ist das Erscheinungsjahr von City of God.
 - 2007: Die brasilianische Erstveröffentlichung erfolgte 2007.
@@ -4133,7 +3950,6 @@ Wer führte beim ersten Film „Tropa de Elite“ mit Wagner Moura Regie?
 
 Das französische Verleihpresseheft nennt José Padilha ausdrücklich als Regisseur und führt Wagner Moura, Caio Junqueira und André Ramiro als zentrale Darsteller auf. Die Filmhandlung verbindet Nascimentos (Wagner Moura) Nachfolgersuche mit den unterschiedlichen Wegen zweier junger Polizisten. Der Credit gehört zu diesem ersten Film und bleibt von anderen prägenden Namen des brasilianischen Kinos sowie von der späteren Fortsetzung zu unterscheiden.
 
-Merksatz: Padilha inszeniert Nascimento und die beiden Polizeianwärter.
 
 - Fernando Meirelles: Fernando Meirelles führte bei diesem Film nicht Regie.
 - Walter Salles: Walter Salles ist nicht der Regisseur von Tropa de Elite.
@@ -4159,7 +3975,6 @@ Wen muss Smith (Clive Owen) in „Shoot ’Em Up“ nach dem Tod einer verfolgte
 
 Smith (Clive Owen) sieht eine schwangere Frau vor einem bewaffneten Verfolger fliehen und greift ein. Während weiterer Schüsse bringt er ihr Kind zur Welt; die Mutter wird getötet. Smith muss den Jungen nun am Leben halten. Seine zunächst spontane Hilfe entwickelt sich dadurch zu einer dauerhaften Schutzmission gegen Hertz (Paul Giamatti) und dessen bewaffnete Männer.
 
-Merksatz: Aus einer spontanen Rettung wird der Schutz eines Neugeborenen.
 
 - Ihr neugeborenes Kind: Smith bringt das Kind zur Welt und flieht mit ihm.
 - Ihre erwachsene Schwester: Die Schutzmission gilt keiner erwachsenen Schwester.
@@ -4181,7 +3996,6 @@ Welchen Gegenstand benutzt Smith (Clive Owen) in „Shoot ’Em Up“ gleich bei
 
 Smith (Clive Owen) isst regelmäßig Karotten und benutzt eine davon beim ersten Eingreifen gegen den Verfolger der schwangeren Frau als Waffe. Das alltägliche Nahrungsmittel wird zum wiederkehrenden Motiv der überzeichneten Action. Es kehrt am Ende erneut in einer Waffenhandlung wieder. Die Eröffnung stellt damit früh klar, dass der Film physische Gewalt mit absurder Improvisation verbindet.
 
-Merksatz: Smiths Karotte ist zugleich Snack und improvisiertes Actionmotiv.
 
 - Eine Essgabel: Eine Essgabel ist nicht die hier eingesetzte Alltagswaffe.
 - Eine Karotte: Smith tötet den ersten Angreifer mit einer Karotte.
@@ -4203,7 +4017,6 @@ Welche Beobachtung bringt Smith (Clive Owen) in „Shoot ’Em Up“ auf eine Sp
 
 Smith (Clive Owen) bemerkt mit Donna Quintano (Monica Bellucci), dass der Junge bei Heavy-Metal-Musik nicht mehr weint. Er vermutet, dass die Mutter in der Nähe eines solchen Clubs gelebt hat. Oberhalb des passenden Lokals finden sie die medizinische Einrichtung. Ein scheinbar komischer Betreuungseffekt wird damit zum konkreten Ermittlungshinweis, der die Herkunft des Kindes und die Bedrohung verständlicher macht.
 
-Merksatz: Die beruhigende Musik wird zur Spur zum Geburtsprojekt.
 
 - Bei Glockenklang beginnt es zu lachen.: Glockenklang ist nicht die ausschlaggebende Reaktion.
 - Bei Sirenengeräuschen schläft es sofort ein.: Eine Sirene lenkt ihn nicht zum Club.
@@ -4225,7 +4038,6 @@ Warum wurden in der medizinischen Einrichtung in „Shoot ’Em Up“ gezielt Ki
 
 In der Einrichtung über dem Club entdeckt Smith (Clive Owen) Hinweise auf künstliche Befruchtungen mit Proben eines einzigen Mannes. Er verbindet sie mit Senator Rutledge (Daniel Pilon), einem krebskranken Präsidentschaftskandidaten. Die Kinder sollen als passende Knochenmarkspender dienen. Das überlebende Baby wird deshalb zum Ziel einer politischen Machtoperation, deren Beteiligte Gesundheit, Waffenpolitik und persönliche Interessen miteinander verknüpfen.
 
-Merksatz: Das bedrohte Kind hängt mit Rutledges Spenderprojekt zusammen.
 
 - Als Erben eines kinderlosen Waffenherstellers: Eine private Erbfolge ist nicht der Zweck der Einrichtung.
 - Als Tarnung für einen internationalen Adoptionsring: Ein Adoptionsring ist nicht die aufgedeckte Operation.
@@ -4247,7 +4059,6 @@ Welcher Hinweis verrät Smith (Clive Owen) in „Shoot ’Em Up“ Rutledges (Da
 
 Smith (Clive Owen) hat in Hammersons (Stephen McHattie) Fabrik dessen Schäferhund Duchess gesehen. Bei der Begegnung mit Senator Rutledge (Daniel Pilon) bemerkt er passende Hundehaare auf dessen Hose. Daraus folgert er, dass der Politiker bereits mit dem Waffenhersteller verhandelt hat. Der scheinbar nebensächliche materielle Hinweis widerlegt das erwartete Bild eines von den Verfolgern getrennten möglichen Verbündeten.
 
-Merksatz: Duchess’ Haare verbinden den Senator mit dem Waffenhersteller.
 
 - Hundehaare auf seiner Hose: Die Haare verbinden Rutledge mit Hammersons Hund Duchess.
 - Eine Patronenhülse in seiner Manteltasche: Eine mitgeführte Patronenhülse ist nicht der enthüllende Hinweis.
@@ -4269,7 +4080,6 @@ Wie schießt Smith (Clive Owen) in „Shoot ’Em Up“ trotz gebrochener Finger
 
 Hertz (Paul Giamatti) bricht Smiths (Clive Owen) Finger, um das Versteck von Donna Quintano (Monica Bellucci) und dem Kind zu erfahren. Smith kann seine Pistole deshalb nicht mehr gewöhnlich bedienen. Im weiteren Kampf hält er Patronen zwischen den verletzten Fingern und zündet sie mit Kaminhitze. Die Szene setzt die durchgehende Improvisationslogik des Films unter einer neuen körperlichen Einschränkung fort.
 
-Merksatz: Gebrochene Finger führen zur extremen Patronenimprovisation.
 
 - Er bedient eine Pistole mit dem Fuß.: Smith feuert hier nicht mit einer vom Fuß gehaltenen Pistole.
 - Er zündet Patronen zwischen seinen Fingern am Kamin.: Die Kaminhitze zündet die zwischen den Fingern gehaltenen Patronen.
@@ -4291,7 +4101,6 @@ In welchem Jahr erschien „Shoot ’Em Up“ mit Clive Owen erstmals?
 
 Children of Men erschien 2006; Shoot ’Em Up folgte 2007, nur ein Jahr später. In beiden Filmen spielt Clive Owen einen Mann, der ein Kind in einer gewalttätigen Umgebung beschützt. Die unterschiedlichen Erzählwelten machen die Verbindung besonders einprägsam. BFI verzeichnet für Shoot ’Em Up das Jahr 2007; der Filmartikel nennt den US-Kinostart am 7. September.
 
-Merksatz: 2006 Children of Men, 2007 Shoot ’Em Up: ein Jahr Abstand.
 
 - 2004: 2004 liegt drei Jahre vor diesem Film.
 - 2006: 2006 erschien Children of Men.
@@ -4313,7 +4122,6 @@ Wer schrieb und inszenierte „Shoot ’Em Up“?
 
 Der BFI-Datensatz nennt Michael Davis für Drehbuch und Regie sowie Clive Owen, Paul Giamatti und Monica Bellucci als zentrale Darsteller. Die Handlung verbindet einen verfolgten Säugling mit ständig neuen Waffenimprovisationen. Davis entwickelt damit sowohl die Geschichte als auch ihre filmische Umsetzung. Sein gemeinsamer Credit ordnet die konkrete Action ihrem verantwortlichen Filmemacher zu und unterscheidet ihn von anderen zeitgenössischen Genreregisseuren.
 
-Merksatz: Michael Davis verantwortet Drehbuch und Regie.
 
 - Antoine Fuqua: Antoine Fuqua hat hier keinen Drehbuch- oder Regiecredit.
 - Jonathan Mostow: Jonathan Mostow inszenierte diesen Film nicht.
@@ -4339,7 +4147,6 @@ Welche frühere Tätigkeit hat Jack Reacher (Tom Cruise) im Kinofilm „Jack Rea
 
 Jack Reacher (Tom Cruise) lebt ohne feste Adresse, nachdem er als Major der US-Militärpolizei gearbeitet hat. Seine frühere Ermittlungserfahrung erklärt, warum der Verdächtige James Barr (Joseph Sikora) nach ihm verlangt. Reacher kennt Barr aus dessen Militärzeit und kommt zunächst keineswegs mit blindem Vertrauen in seine Unschuld. Der Fall verlangt von ihm, alte Erfahrungen gegen neue Beweise abzuwägen.
 
-Merksatz: Der rastlose Zivilist bringt Militärpolizei-Erfahrung mit.
 
 - Er war Staatsanwalt in Pittsburgh.: Er arbeitete nicht als Pittsburgher Staatsanwalt.
 - Er war Ermittler der US-Militärpolizei.: Reacher war Major und Ermittler der Militärpolizei.
@@ -4361,7 +4168,6 @@ Welche familiäre Verbindung besteht in „Jack Reacher“ zwischen Helen Rodin 
 
 Helen Rodin (Rosamund Pike) verteidigt James Barr (Joseph Sikora), während ihr Vater Alex Rodin (Richard Jenkins) als Staatsanwalt einen sicheren Schuldspruch anstrebt. Die beruflichen Rollen verschärfen ihre bereits belastete Beziehung. Jack Reacher (Tom Cruise) muss deshalb auch einschätzen, wem Helen ihre Erkenntnisse anvertrauen kann. Die familiäre Verbindung macht aus dem Verfahren zugleich einen persönlichen Loyalitätskonflikt.
 
-Merksatz: Vater klagt an, Tochter verteidigt.
 
 - Sie ist seine Ehefrau.: Die beiden sind nicht miteinander verheiratet.
 - Sie ist seine Schwester.: Helen ist nicht Alex’ Schwester.
@@ -4383,7 +4189,6 @@ Welcher Fund verbindet James Barr (Joseph Sikora) in „Jack Reacher“ zunächs
 
 Die Polizei findet nach dem Schussangriff eine Patronenhülse und die Münze, mit der der Schütze den Parkplatz bezahlt hat. Der Fingerabdruck auf der Münze verweist auf James Barr (Joseph Sikora). Weitere Funde scheinen das Bild zunächst zu bestätigen. Jack Reacher (Tom Cruise) untersucht später, ob diese auffällig geschlossene Beweiskette tatsächlich zum Vorgehen eines erfahrenen Schützen passt.
 
-Merksatz: Der Münzabdruck macht Barr zum scheinbar eindeutigen Verdächtigen.
 
 - Seine Handflächenabdrücke am Parkgeländer: Handflächenabdrücke am Geländer liefern nicht diese Identifizierung.
 - Seine DNA an einer zurückgelassenen Trinkflasche: DNA an einer Trinkflasche ist nicht das zentrale Beweisstück.
@@ -4405,7 +4210,6 @@ Welchen Zweck erkennt Reacher (Tom Cruise) hinter dem scheinbar wahllosen Mehrfa
 
 Helen Rodin (Rosamund Pike) besucht auf Reachers (Tom Cruise) Wunsch die Angehörigen der Opfer. Daraus ergibt sich eine Verbindung zu einer Witwe, die das Bauunternehmen ihres verstorbenen Mannes nicht verkaufen wollte. Die anderen Getöteten lassen den Anschlag wahllos erscheinen. Hinter der scheinbaren Zufälligkeit erkennt Reacher somit eine gezielte Beseitigung im Interesse eines kriminell kontrollierten Unternehmens.
 
-Merksatz: Mehrere Opfer verdecken das eine wirtschaftliche Hauptziel.
 
 - Die Ermordung einer Firmenbesitzerin soll verdeckt werden.: Unter den Opfern steckt ein gezielt gewähltes wirtschaftliches Ziel.
 - Ein weiterer Anschlag auf eine Bank soll vorbereitet werden.: Ein anschließender Banküberfall ist nicht der aufgedeckte Zweck.
@@ -4427,7 +4231,6 @@ Was macht den gewählten Schützenstand in „Jack Reacher“ für Reacher (Tom 
 
 Jack Reacher (Tom Cruise) prüft die Tat nicht nur anhand der gefundenen Gegenstände. Ein Schütze mit James Barrs (Joseph Sikora) Erfahrung hätte nach seiner Einschätzung von der nahen Brücke aus mit der Sonne im Rücken geschossen. Der ungünstigere Parkplatz wirkt deshalb wie ein Teil der Inszenierung gegen Barr. Militärisches Erfahrungswissen bringt die scheinbar eindeutige Beweislage ins Wanken.
 
-Merksatz: Die bessere Schussposition widerspricht dem angeblich erfahrenen Täter.
 
 - Vom Parkplatz aus hätte er bei jedem Schuss das Auto umstellen müssen.: Ein notwendiges Umstellen des Wagens ist nicht sein Einwand.
 - Von der Brücke aus hätte er leichter mit Sonne im Rücken geschossen.: Reacher verweist auf die günstigere Position an der nahen Brücke und die Sonne im Rücken.
@@ -4449,7 +4252,6 @@ Warum erschießt Reacher (Tom Cruise) den Zek (Werner Herzog) am Ende von „Jac
 
 Im letzten Gespräch erklärt der Zek (Werner Herzog) Jack Reacher (Tom Cruise), dass die Belastungszeugen tot seien und er Reacher für die Verbrechen verantwortlich machen werde. Selbst ein amerikanisches Gefängnis würde ihn kaum schrecken. Reacher erschießt ihn daraufhin. Die Entscheidung bildet einen harten Bruch zwischen der sorgfältigen Untersuchung des Falls und einer selbst vollzogenen Tötung außerhalb eines Gerichtsverfahrens.
 
-Merksatz: Die angekündigte Straflosigkeit führt Reacher zur Selbstjustiz.
 
 - Er kündigt einen neuen Anschlag auf Reachers Helfer an.: Die Entscheidung wird nicht durch einen neu angekündigten Anschlag ausgelöst.
 - Er droht mit belastenden Fotos aus Reachers Militärzeit.: Er erpresst Reacher in diesem letzten Gespräch nicht mit Militärfotos.
@@ -4471,7 +4273,6 @@ In welchem Jahr erschien der Kinofilm „Jack Reacher“ mit Tom Cruise erstmals
 
 Mission: Impossible – Phantom Protokoll erschien 2011; Jack Reacher folgte 2012, ein Jahr später. Tom Cruise wechselte dabei vom Agenten Ethan Hunt zum ehemaligen Militärpolizisten und unabhängigen Ermittler. Paramount bestätigt das Filmjahr 2012. Die Londoner Premiere fand im Dezember dieses Jahres statt, ebenso der US-Kinostart. Die spätere Fortsetzung und die Fernsehserie gehören zu anderen Veröffentlichungen.
 
-Merksatz: 2011 Phantom Protokoll, 2012 Jack Reacher: ein Jahr Abstand.
 
 - 2008: 2008 liegt vier Jahre vor diesem Kinofilm.
 - 2011: 2011 erschien Mission: Impossible – Phantom Protokoll.
@@ -4493,7 +4294,6 @@ Wer schrieb und inszenierte den Kinofilm „Jack Reacher“ mit Tom Cruise?
 
 Paramount nennt Christopher McQuarrie als Regisseur und Autor der Filmadaption von Lee Childs Roman One Shot. Tom Cruise spielt die Titelfigur, Rosamund Pike die Verteidigerin Helen Rodin. Der Credit bezieht sich auf den ersten Reacher-Kinofilm und ist von der späteren Fortsetzung sowie der Fernsehserie zu unterscheiden. Die Verbindung von Drehbuch und Regie umfasst hier Ermittlung und Actionszenen gleichermaßen.
 
-Merksatz: McQuarrie verantwortet die erste Reacher-Kinoadaption.
 
 - Christopher McQuarrie: Paramount nennt Christopher McQuarrie für Drehbuch und Regie.
 - Brad Bird: Brad Bird inszenierte Phantom Protokoll, nicht diesen Film.

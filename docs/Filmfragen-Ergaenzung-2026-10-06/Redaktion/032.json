@@ -36,12 +36,12 @@
       ],
       "short": "Kate Macer (Emily Blunt) findet mit ihrem Team eingemauerte Leichen.",
       "context": "Kate Macer (Emily Blunt) findet mit ihrem Team eingemauerte Leichen. Der Einsatz macht die Gewalt des Kartells sichtbar; eine nachfolgende Sprengfalle erweitert die unmittelbare Gefahr für die Ermittler.",
-      "anchor": "Die scheinbare Hausdurchsuchung legt eine Massentötung offen.",
       "interest": "Die scheinbare Hausdurchsuchung legt eine Massentötung offen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die scheinbare Hausdurchsuchung legt eine Massentötung offen."
     },
     {
       "code": "L2",
@@ -60,13 +60,13 @@
       ],
       "short": "Kate (Emily Blunt), Matt Graver (Josh Brolin) und Alejandro (Benicio del Toro) fahren nach Ciudad Juárez.",
       "context": "Kate (Emily Blunt), Matt Graver (Josh Brolin) und Alejandro (Benicio del Toro) fahren nach Ciudad Juárez. Die Rückkehr über den Grenzübergang wird zum bewaffneten Konflikt; Kate erlebt dort Methoden, die ihren Regeln widersprechen.",
-      "anchor": "Der Grenzübergang macht den Regelkonflikt der Operation sichtbar.",
       "interest": "Der Grenzübergang macht den Regelkonflikt der Operation sichtbar.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Grenzübergang macht den Regelkonflikt der Operation sichtbar."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Matt Graver (Josh Brolin) erklärt Kate (Emily Blunt) die juristische Hilfsfunktion ihrer Anwesenheit.",
       "context": "Matt Graver (Josh Brolin) erklärt Kate (Emily Blunt) die juristische Hilfsfunktion ihrer Anwesenheit. Ihr Mitwirken schafft einen behördlichen Rahmen, während sie über Ziel und Ablauf nur unvollständig informiert wird.",
-      "anchor": "Die Agentin liefert die formale Legitimation ohne entsprechende Kontrolle.",
       "interest": "Die Agentin liefert die formale Legitimation ohne entsprechende Kontrolle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Agentin liefert die formale Legitimation ohne entsprechende Kontrolle."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Matt strebt eine kontrollierbare Bündelung des Drogengeschäfts an.",
       "context": "Matt Graver (Josh Brolin) erklärt Kate (Emily Blunt), dass ein einziges kolumbianisch geführtes Geschäft für die USA leichter zu kontrollieren wäre. Die Beseitigung Alarcóns soll deshalb eine Machtordnung verändern, statt den Drogenhandel vollständig zu beenden.",
-      "anchor": "Der Zugriff soll das Geschäft kontrollierbarer machen statt es vollständig beenden.",
       "interest": "Der Zugriff soll das Geschäft kontrollierbarer machen statt es vollständig beenden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Zugriff soll das Geschäft kontrollierbarer machen statt es vollständig beenden."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Alejandro (Benicio del Toro) verfolgt den Mörder seiner Frau und Tochter.",
       "context": "Alejandro (Benicio del Toro) verfolgt den Mörder seiner Frau und Tochter. Matt (Josh Brolin) benutzt diese Rache zugleich für eine geplante Neuordnung der Kartelle; das persönliche und das strategische Motiv fallen zusammen.",
-      "anchor": "Alejandros Familienverlust dient zugleich Matts Machtstrategie.",
       "interest": "Alejandros Familienverlust dient zugleich Matts Machtstrategie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Alejandros Familienverlust dient zugleich Matts Machtstrategie."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Alejandro (Benicio del Toro) bedroht Kate (Emily Blunt) mit einer Waffe.",
       "context": "Alejandro (Benicio del Toro) bedroht Kate (Emily Blunt) mit einer Waffe. Ihre Unterschrift liefert die nachträgliche Bestätigung einer Operation, deren Ablauf sie zuvor gerade nicht selbst bestimmen durfte.",
-      "anchor": "Die erzwungene Unterschrift vollendet die Instrumentalisierung der Agentin.",
       "interest": "Die erzwungene Unterschrift vollendet die Instrumentalisierung der Agentin.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die erzwungene Unterschrift vollendet die Instrumentalisierung der Agentin."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Der Film wurde 2015 erstmals veröffentlicht.",
       "context": "2015 erschien der erste Film. Sicario: Day of the Soldado folgte 2018, drei Jahre später, unter Stefano Sollimas Regie; Villeneuves Film und die Fortsetzung sind daher bei Regie und Jahr getrennt zuzuordnen.",
-      "anchor": "Auf Sicario von 2015 folgte 2018, drei Jahre später, Soldado mit einem anderen Regisseur.",
       "interest": "Auf Sicario von 2015 folgte 2018, drei Jahre später, Soldado mit einem anderen Regisseur.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Auf Sicario von 2015 folgte 2018, drei Jahre später, Soldado mit einem anderen Regisseur."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Regie: Denis Villeneuve.",
       "context": "Villeneuve inszenierte Taylor Sheridans Drehbuch mit Roger Deakins an der Kamera und Jóhann Jóhannssons Musik. Der eingeschränkte Blick der FBI-Agentin verbindet eine militärische Operation mit wachsendem Zweifel an deren Rechtfertigung.",
-      "anchor": "Villeneuve macht die Grenzoperation über Kates eingeschränkten Informationsstand erfahrbar.",
       "interest": "Villeneuve macht die Grenzoperation über Kates eingeschränkten Informationsstand erfahrbar.",
       "sources": [
         "festival",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Villeneuve macht die Grenzoperation über Kates eingeschränkten Informationsstand erfahrbar."
     }
   ]
 }

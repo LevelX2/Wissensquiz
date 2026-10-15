@@ -138,7 +138,6 @@ Die Schauspielerfrage `SCHAUSPIELER-202610-P01-049-L-2` ist lokal redigiert und 
 
 **Vertiefung:** Sanjuro (Toshirō Mifune) kommt in eine Kleinstadt, in der zwei rivalisierende Banden die Bewohner einschüchtern. Als herrenloser Samurai ist er keinem Fürsten verpflichtet. Statt sich dauerhaft einer Seite anzuschließen, spielt er die Banden gegeneinander aus. Seine Fähigkeiten mit dem Schwert machen ihn für beide Seiten interessant; seine Unabhängigkeit gibt ihm dabei den Spielraum, ihre Rivalität für seine eigenen Pläne zu nutzen.
 
-**Merksatz:** Sanjuro: Samurai ohne Herrn, zwischen zwei Banden.
 
 Die am 12.10.2026 gelesenen Quellen [Criterion](https://www.criterion.com/films/597-yojimbo) und [BFI](https://player.bfi.org.uk/subscription/film/watch-yojimbo-1961-online) belegen Mifunes Rolle, Sanjuros Status als herrenloser Samurai und das Gegeneinanderausspielen der Banden. Der [BFI-Überblick zu Samurai-Filmen](https://www.bfi.org.uk/lists/10-great-samurai-films), ebenfalls am 12.10.2026 gelesen, erläutert Rōnin ausdrücklich als herrenlose Samurai und ordnet Sanjuro diesem Typus zu. Die vier Optionen fragen denselben Stand ab; die drei anderen Stände passen zum historischen Umfeld, treffen aber nicht auf Sanjuro zu. Falschantwortfeedback bleibt leer, da kein zusätzlicher belegter Zusammenhang benötigt wird.
 

@@ -35,13 +35,13 @@
       ],
       "short": "Gérard sucht das spielerische Leben mit Hulot.",
       "context": "Gérard (Alain Bécourt) lebt in der streng modernen Villa Arpel. Monsieur Hulot (Jacques Tati) eröffnet ihm eine spielerische Gegenwelt. Der Junge fühlt sich im ungezwungenen Leben wohler als zwischen den Regeln und Statussymbolen seiner Eltern. So macht ein kindlicher Blick sichtbar, welchen menschlichen Preis die vorzeigbare Ordnung haben kann.",
-      "anchor": "Hulot bietet dem Neffen eine spielerische Gegenwelt.",
       "interest": "Hulot bietet dem Neffen eine spielerische Gegenwelt.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hulot bietet dem Neffen eine spielerische Gegenwelt."
     },
     {
       "code": "L2",
@@ -60,14 +60,14 @@
       ],
       "short": "Die Villa ist eine hochmoderne, durchgestaltete Wohnwelt.",
       "context": "Die Familie Arpel präsentiert ein geometrisches Haus mit Gartenwegen, technischen Geräten und auffälliger Möblierung. Vieles sieht beeindruckend aus, ist aber unpraktisch. In Hulots altem Viertel bleibt dagegen Raum für Zufälle und Begegnungen. Der Gegensatz betrifft deshalb den täglichen Umgang miteinander ebenso wie den architektonischen Stil.",
-      "anchor": "Die Villa glänzt als Statussymbol und behindert den Alltag.",
       "interest": "Die Villa glänzt als Statussymbol und behindert den Alltag.",
       "sources": [
         "handlung",
         "criterion",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Villa glänzt als Statussymbol und behindert den Alltag."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Der Brunnen wird als Begrüßung für wichtige Gäste eingesetzt.",
       "context": "Madame Arpel (Adrienne Servantie) behandelt den Fischbrunnen als Zeichen des Ansehens. Bei vermeintlich bedeutenden Besuchern läuft er, für alltägliche Personen muss der Effekt nicht gezeigt werden. Die kleine Bedienhandlung entlarvt damit die soziale Rangordnung hinter einer dekorativen Gartenanlage; Technik dient hier auch der Beurteilung anderer Menschen.",
-      "anchor": "Am Fischbrunnen lässt sich der Rang des Besuchers ablesen.",
       "interest": "Am Fischbrunnen lässt sich der Rang des Besuchers ablesen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Am Fischbrunnen lässt sich der Rang des Besuchers ablesen."
     },
     {
       "code": "M2",
@@ -110,13 +110,13 @@
       ],
       "short": "Hulot soll in der Kunststofffabrik Plastac arbeiten.",
       "context": "Monsieur Arpel (Jean-Pierre Zola) will den vermeintlich unproduktiven Hulot (Jacques Tati) in die geregelte Arbeitswelt integrieren. Die Fabrik verlängert die mechanisierte Ordnung des Hauses. Hulots unpassender Umgang mit ihr lässt erkennbar werden, dass technische Effizienz und menschliche Spontaneität im Film nach verschiedenen Regeln funktionieren.",
-      "anchor": "Plastac soll Hulot ordnen und wird durch ihn gestört.",
       "interest": "Plastac soll Hulot ordnen und wird durch ihn gestört.",
       "sources": [
         "handlung",
         "criterion"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Plastac soll Hulot ordnen und wird durch ihn gestört."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Die Gestaltung charakterisiert unterschiedliche Formen des Zusammenlebens.",
       "context": "Die Villa Arpel und die Fabrik erhalten eine kalte, mechanische Wirkung. Hulots Viertel besitzt lebendige Musik, Bewegung und Unordnung. Farbe und Klang liefern damit Hinweise auf die Lebensweise der Menschen, auch wenn kaum erklärende Dialoge zu hören sind. Der Kontrast wird vom Publikum gesehen und gehört, statt in einer Rede begründet zu werden.",
-      "anchor": "Die Lebenswelten unterscheiden sich im Rhythmus von Bild und Ton.",
       "interest": "Die Lebenswelten unterscheiden sich im Rhythmus von Bild und Ton.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Lebenswelten unterscheiden sich im Rhythmus von Bild und Ton."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Die Statuswirkung des Designs verdrängt die Alltagstauglichkeit.",
       "context": "Umständliche Gartenwege, unbequeme Möbel und laute Küchengeräte ergeben eine glänzende, aber wenig gastliche Umgebung. Tatis Komik prüft nicht einfach, ob eine Maschine funktioniert. Sie zeigt, wie die Arpels ihr Verhalten den Dingen unterordnen, die eigentlich das Leben erleichtern sollten. Der Wunsch nach Modernität wird dadurch zum eigenen Zwang.",
-      "anchor": "Die Menschen dienen ihrem vorzeigbaren Haus.",
       "interest": "Die Menschen dienen ihrem vorzeigbaren Haus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Menschen dienen ihrem vorzeigbaren Haus."
     },
     {
       "code": "Y",
@@ -183,14 +183,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1958.",
       "context": "Mein Onkel erschien 1958. Tatis Schützenfest von 1949 war neun Jahre zuvor trotz mitgedrehter Farbaufnahmen zunächst nur schwarzweiß veröffentlicht worden. Mein Onkel wurde damit sein erster in Farbe veröffentlichter Kinolangfilm. Die Farben helfen, die sterile Villa und das lebendige alte Viertel voneinander zu unterscheiden.",
-      "anchor": "Schützenfest 1949 blieb schwarzweiß; neun Jahre später erschien Mein Onkel 1958 in Farbe.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Schützenfest 1949 blieb schwarzweiß; neun Jahre später erschien Mein Onkel 1958 in Farbe.",
       "sources": [
         "handlung",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Schützenfest 1949 blieb schwarzweiß; neun Jahre später erschien Mein Onkel 1958 in Farbe."
     },
     {
       "code": "D",
@@ -209,7 +209,6 @@
       ],
       "short": "Der Regiecredit lautet Jacques Tati.",
       "context": "Jacques Tati inszeniert und spielt Monsieur Hulot. Jacques Lagrange und Jean L’Hôte arbeiteten am Drehbuch mit. Die genaue Gestaltung von Haus, Garten und Fabrik verwandelt das moderne Design in einen Mitspieler: Bewegungen, Türen und Geräusche erzeugen Komik auch ohne ausführliche Dialoge.",
-      "anchor": "Jacques Tati: Jacques Lagrange und Jean L’Hôte arbeiteten am Drehbuch mit.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "criterion",
@@ -217,7 +216,8 @@
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jacques Tati: Jacques Lagrange und Jean L’Hôte arbeiteten am Drehbuch mit."
     }
   ]
 }

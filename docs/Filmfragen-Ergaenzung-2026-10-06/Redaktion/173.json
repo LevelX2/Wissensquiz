@@ -36,12 +36,12 @@
       ],
       "short": "Jerry und Lucy beginnen ein Scheidungsverfahren.",
       "context": "Jerry und Lucy beginnen ein Scheidungsverfahren. Gegenseitiger Verdacht treibt sie auseinander; ihre anschließenden neuen Beziehungen zeigen jedoch, dass beide emotional weiterhin aneinander gebunden sind.",
-      "anchor": "Die geplante Trennung legt die fortbestehende Bindung offen.",
       "interest": "Die geplante Trennung legt die fortbestehende Bindung offen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die geplante Trennung legt die fortbestehende Bindung offen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Sie streiten um ihren Hund Mr.",
       "context": "Sie streiten um ihren Hund Mr. Smith. Das gerichtliche Besuchsrecht gibt Jerry einen Anlass, Lucy weiter zu sehen; die vermeintliche Trennung enthält damit eine regelmäßige Verbindung.",
-      "anchor": "Das Hundebesuchsrecht hält das Paar zusammen.",
       "interest": "Das Hundebesuchsrecht hält das Paar zusammen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Hundebesuchsrecht hält das Paar zusammen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die angeblich aus Florida mitgebrachten Orangen tragen eine kalifornische Herkunftsangabe.",
       "context": "Die angeblich aus Florida mitgebrachten Orangen tragen eine kalifornische Herkunftsangabe. Lucy entdeckt daran Jerrys Lüge; ihre eigene verdächtige Nacht und sein falsches Alibi verstärken das gegenseitige Misstrauen.",
-      "anchor": "Die Herkunft der Orangen widerlegt den Reisebericht.",
       "interest": "Die Herkunft der Orangen widerlegt den Reisebericht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Herkunft der Orangen widerlegt den Reisebericht."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Jerry platzt in Lucys Gesangsrecital.",
       "context": "Jerry platzt in Lucys Gesangsrecital. Lucy (Irene Dunne) ist wirklich Schülerin Armand Duvalle (Alexander D’Arcy); sein Eifersuchtsverdacht führt somit zu einer peinlichen Störung einer öffentlichen Aufführung.",
-      "anchor": "Die vermeintliche Affäre entpuppt sich als Gesangsunterricht.",
       "interest": "Die vermeintliche Affäre entpuppt sich als Gesangsunterricht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die vermeintliche Affäre entpuppt sich als Gesangsunterricht."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Lucy spielt auf einer Gesellschaftsfeier Jerrys angebliche Schwester und benimmt sich demonstrativ anstößig.",
       "context": "Lucy spielt auf einer Gesellschaftsfeier Jerrys angebliche Schwester und benimmt sich demonstrativ anstößig. So beschädigt sie sein sorgfältiges Auftreten vor der vornehmen Familie, ohne offen als seine Noch-Ehefrau aufzutreten.",
-      "anchor": "Lucys gespielte Verwandtschaft zerstört Jerrys Gesellschaftsbild.",
       "interest": "Lucys gespielte Verwandtschaft zerstört Jerrys Gesellschaftsbild.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Lucys gespielte Verwandtschaft zerstört Jerrys Gesellschaftsbild."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Das Paar versöhnt sich kurz vor Mitternacht, ehe die Scheidung endgültig wird.",
       "context": "Das Paar versöhnt sich kurz vor Mitternacht, ehe die Scheidung endgültig wird. Jerry (Cary Grant) und Lucy (Irene Dunne) überwinden ihre gekränkte Eitelkeit; die juristische Frist bündelt den emotionalen Schluss.",
-      "anchor": "Die Versöhnung kommt vor dem endgültigen Scheidungstermin.",
       "interest": "Die Versöhnung kommt vor dem endgültigen Scheidungstermin.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Versöhnung kommt vor dem endgültigen Scheidungstermin."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1937 erschien die Komödie.",
       "context": "1937 erschien die Komödie. Ihre Bühnenvorlage war 1922 veröffentlicht worden, also fünfzehn Jahre zuvor. Der Stoff erhielt im Tonfilm neue Wirkung durch Irene Dunnes und Cary Grants Dialog- und Körperspiel, während der Ehekonflikt im Mittelpunkt blieb.",
-      "anchor": "Bühnenvorlage 1922, Film 1937: Nach fünfzehn Jahren gewinnt der Ehekonflikt durch das Tonfilmspiel neue Gestalt.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bühnenvorlage 1922, Film 1937: Nach fünfzehn Jahren gewinnt der Ehekonflikt durch das Tonfilmspiel neue Gestalt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch.",
       "context": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch. Irene Dunne und Cary Grant spielen ein Paar, das seine Scheidung betreibt und zugleich neue Beziehungen gegenseitig sabotiert. Der Hund hält beide auch praktisch in Kontakt.",
-      "anchor": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch.",
       "interest": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Leo McCarey führte Regie, Viña Delmar schrieb das Drehbuch."
     }
   ]
 }

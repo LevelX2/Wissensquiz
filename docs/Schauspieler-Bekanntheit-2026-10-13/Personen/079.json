@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Mildred Pierce baut eine Restaurantkette auf.",
       "context": "Nach der Trennung von ihrem Mann beginnt Mildred als Kellnerin und verdient zusätzlich mit gebackenen Kuchen Geld. Ihr Aufstieg dient besonders dem Wunsch, Tochter Veda (Ann Blyth) jeden gesellschaftlichen Vorteil zu verschaffen. Vedas Verachtung für die Herkunft der Familie macht aus dem Erfolg jedoch keine glückliche Mutter-Tochter-Beziehung.",
-      "anchor": "Mildreds Restaurantaufstieg soll Veda ein besseres Leben verschaffen.",
       "interest": "Die Frage verbindet beruflichen Erfolg und den emotionalen Motor des Dramas.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/29025-mildred-pierce"
-      ]
+      ],
+      "objective": "Mildreds Restaurantaufstieg soll Veda ein besseres Leben verschaffen."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Vienna betreibt einen Saloon.",
       "context": "Sie hat den Standort mit Blick auf den erwarteten Eisenbahnbau gewählt. Ihre wirtschaftliche Selbstständigkeit und ihre Verbindung zu Männern außerhalb der örtlichen Ordnung machen sie zum Ziel einer feindseligen Gruppe. Der Saloon ist deshalb sowohl Geschäftsprojekt als auch Schauplatz des Machtkampfs.",
-      "anchor": "Viennas Saloon steht für ihren Anspruch auf wirtschaftliche Unabhängigkeit.",
       "interest": "Eine prägende Westernfigur wird über ihr eigenes Unternehmen erschlossen.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "knowledge_id": "K-G100-20261008-WESTERN-001-L1",
       "variant_of": "G100-20261008-WESTERN-001-L1",
-      "knowledge_note": "Identisches Wissensziel Vienna betreibt einen Saloon."
+      "knowledge_note": "Identisches Wissensziel Vienna betreibt einen Saloon.",
+      "objective": "Viennas Saloon steht für ihren Anspruch auf wirtschaftliche Unabhängigkeit."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 1,
       "short": "Blanche plant den Hausverkauf und möglicherweise Janes Unterbringung.",
       "context": "Die Schwestern leben seit Jahren abgeschieden zusammen. Blanche ist auf Hilfe angewiesen, während Jane ihre Pflege mit Demütigungen und Gewalt verbindet. Als Jane von den Plänen erfährt, fürchtet sie den Verlust dieser gemeinsamen Lebensordnung und hält Blanche immer brutaler gefangen.",
-      "anchor": "Blanches Auszugsplan bedroht Janes Kontrolle über das gemeinsame Leben.",
       "interest": "Eine konkrete Ursache macht die Eskalation des Schwesternkonflikts verständlich.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/23131-WHAT-EVER-HAPPENED-TO-BABY-JANE"
-      ]
+      ],
+      "objective": "Blanches Auszugsplan bedroht Janes Kontrolle über das gemeinsame Leben."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 0,
       "short": "Ein unbeabsichtigt aufgezeichnetes Gespräch verrät den Mordplan.",
       "context": "Myra hat das Gerät für Änderungen an ihrem Testament benutzt. Später bleiben Lester und Irene Nevis (Gloria Grahame) im selben Arbeitszimmer unbeobachtet und besprechen ihren Plan. Beim Abhören wird Myra klar, dass ihre Ehe auf Täuschung beruht. Sie muss handeln, obwohl die Aufnahme anschließend zerbricht.",
-      "anchor": "Myra hört auf dem Diktiergerät, was Lester vor ihr verbirgt.",
       "interest": "Ein alltägliches Arbeitsgerät löst den entscheidenden Wendepunkt aus.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/50678-SUDDEN-FEAR"
-      ]
+      ],
+      "objective": "Myra hört auf dem Diktiergerät, was Lester vor ihr verbirgt."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 2,
       "short": "Die Artistin fürchtet die Berührung durch Männerhände.",
       "context": "Der scheinbar armlose Messerwerfer Alonzo (Lon Chaney) erscheint ihr deshalb zunächst als ungefährlich. Tatsächlich verbirgt er seine Arme, um sich der Polizei zu entziehen. Seine Besessenheit von der jungen Frau führt schließlich dazu, dass er sie wirklich amputieren lässt – nur um festzustellen, dass sie einen anderen liebt.",
-      "anchor": "Ihre Angst vor Männerhänden treibt Alonzos zerstörerischen Plan an.",
       "interest": "Die ungewöhnliche Ausgangslage erklärt den Körperhorror des Stummfilms.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       "extraSources": [
         "https://www.criterion.com/films/31173-the-unknown",
         "https://catalog.afi.com/Film/12955-THE-UNKNOWN"
-      ]
+      ],
+      "objective": "Ihre Angst vor Männerhänden treibt Alonzos zerstörerischen Plan an."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 3,
       "short": "Crystal arbeitet an einer Parfümtheke und hat eine Affäre mit einem reichen Mann.",
       "context": "Ihr Verhältnis mit Stephen Haines bedroht dessen Ehe mit Mary (Norma Shearer). Die Komödie zeigt das Geschehen ausschließlich mit Frauen vor der Kamera; die Männer bleiben Gegenstand ihrer Gespräche und Entscheidungen. Crawford kämpfte bewusst um die bissige Nebenrolle statt um die sympathische Hauptfigur.",
-      "anchor": "Crystal steigt vom Parfümverkauf in den Ehekonflikt der reichen Gesellschaft ein.",
       "interest": "Eine Rollenwahl zeigt Crawfords Interesse an einer unsympathischen, aber wirkungsvollen Figur.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       "extraSources": [
         "https://catalog.afi.com/Film/5135-THE-WOMEN",
         "https://www.bfi.org.uk/features/5-things-know-about-joan-crawford"
-      ]
+      ],
+      "objective": "Crystal steigt vom Parfümverkauf in den Ehekonflikt der reichen Gesellschaft ein."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 2,
       "short": "Crawford arbeitete auf Beteiligungsbasis.",
       "context": "Das AFI beschreibt, dass sowohl Crawford als auch Regisseur David Miller finanziell am Erfolg beteiligt waren. Für Crawford waren außerdem Einfluss auf Drehbuch und Besetzung wichtig. Der Thriller war damit auch ein Projekt, bei dem sie ihre Erfahrung und ihren Namen mit unternehmerischem Risiko verband.",
-      "anchor": "Crawford verband „Maskierte Herzen“ mit Beteiligung statt Festgage.",
       "interest": "Die Vereinbarung zeigt einen konkreten Weg zu Einfluss und finanzieller Mitverantwortung.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/50678-SUDDEN-FEAR"
-      ]
+      ],
+      "objective": "Crawford verband „Maskierte Herzen“ mit Beteiligung statt Festgage."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 0,
       "short": "Adrian prägte diesen Stil.",
       "context": "Der MGM-Designer entwickelte für Crawford kraftvolle Silhouetten, deren Wirkung weit über die Leinwand hinausging. Das Metropolitan Museum beschreibt die Kostüme als wichtigen Einfluss auf amerikanische Frauenmode. Die Zusammenarbeit zeigt, wie sich Starimage und Kleidergestaltung gegenseitig verstärken konnten.",
-      "anchor": "Crawfords breite Schultern und schmale Taille gehören zu Adrians Stil.",
       "interest": "Die Frage verbindet Schauspielerimage und die Arbeit eines maßgeblichen Gestalters.",
       "feedback": [
         "",
@@ -223,7 +222,8 @@
       "films": [],
       "extraSources": [
         "https://www.metmuseum.org/exhibitions/listings/2002/adrian"
-      ]
+      ],
+      "objective": "Crawfords breite Schultern und schmale Taille gehören zu Adrians Stil."
     }
   ]
 }

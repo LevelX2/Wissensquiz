@@ -33,13 +33,13 @@
       ],
       "short": "Molly erkennt, dass Verzicht aufs Feiern kein exklusiver Weg zu guten Zukunftschancen war.",
       "context": "Molly (Beanie Feldstein) hat ihren schulischen Einsatz als Gegensatz zum Spaß der anderen verstanden. Als sie erfährt, dass auch die feiernden Mitschüler an gute Hochschulen kommen, bricht dieses Selbstbild auf. Mit Amy (Kaitlyn Dever) will sie die versäumten Erfahrungen nachholen und versucht, Jahre sozialer Zurückhaltung in eine Nacht zu packen.",
-      "anchor": "Molly entdeckt, dass Leistung und Party kein Entweder-oder waren.",
       "interest": "Molly entdeckt, dass Leistung und Party kein Entweder-oder waren.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Molly entdeckt, dass Leistung und Party kein Entweder-oder waren."
     },
     {
       "code": "L2",
@@ -58,13 +58,13 @@
       ],
       "short": "Der Film begleitet die besten Freundinnen Molly und Amy.",
       "context": "Molly (Beanie Feldstein) und Amy (Kaitlyn Dever) kennen sich seit langem. Die gemeinsame Nacht prüft nicht erst, ob sie einander mögen, sondern ob ihre Freundschaft Raum für eigene Wünsche lässt. Der bevorstehende Schulabschluss macht die Frage dringlich, weil ihre gemeinsame Alltagsordnung bald aufhört.",
-      "anchor": "Die letzte Schulnacht prüft eine bereits enge Freundschaft.",
       "interest": "Die letzte Schulnacht prüft eine bereits enge Freundschaft.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die letzte Schulnacht prüft eine bereits enge Freundschaft."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Schulleiter Jordan Brown arbeitet als Fahrer des bestellten Wagens.",
       "context": "Molly (Beanie Feldstein) und Amy (Kaitlyn Dever) bestellen einen Fahrdienst und treffen auf ihren Schulleiter Jordan Brown (Jason Sudeikis). Eine vermeintlich private Auswärtsnacht bleibt damit mit der Schule verbunden. Die Begegnung nimmt der Autorität zugleich ihren institutionellen Rahmen: Der Schulleiter steht plötzlich als Dienstleister vor ihnen.",
-      "anchor": "Der Fahrdienst macht den Schulleiter zum Chauffeur.",
       "interest": "Der Fahrdienst macht den Schulleiter zum Chauffeur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Fahrdienst macht den Schulleiter zum Chauffeur."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Pizzakartons im Video führen zum Lieferfahrer und zur Adresse.",
       "context": "Molly (Beanie Feldstein) und Amy (Kaitlyn Dever) landen zunächst auf falschen Partys. Ein online sichtbares Detail liefert schließlich einen praktischen Hinweis: Der Pizzalieferdienst kennt das Ziel. Der Weg entsteht aus einer Verbindung zwischen digitalem Bild und örtlicher Lieferung, nicht aus einer bereits vorhandenen Einladung.",
-      "anchor": "Der Pizzakarton im Video liefert die richtige Spur.",
       "interest": "Der Pizzakarton im Video liefert die richtige Spur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Pizzakarton im Video liefert die richtige Spur."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Amy plant ein ganzes Jahr in Botswana.",
       "context": "Amy (Kaitlyn Dever) hat Molly (Beanie Feldstein) nur von einem Sommer in Botswana erzählt. Tatsächlich möchte sie ein ganzes Jahr fortbleiben, auch weil sie sich von Molly zu stark gelenkt fühlt. Der Streit zeigt daher mehr als ein misslungenes Partygespräch: Die eine Freundin verlangt Eigenständigkeit, die andere muss Kontrolle als Grenze erkennen.",
-      "anchor": "Amys Auslandsjahr fordert Raum außerhalb der gemeinsamen Pläne.",
       "interest": "Amys Auslandsjahr fordert Raum außerhalb der gemeinsamen Pläne.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Amys Auslandsjahr fordert Raum außerhalb der gemeinsamen Pläne."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Die Halluzination zeigt beide als Modepuppen.",
       "context": "Molly (Beanie Feldstein) und Amy (Kaitlyn Dever) essen unwissentlich halluzinogene Erdbeeren. Während der Party erleben sie sich als glatte Modepuppen. Der Bildwechsel macht eine Körper- und Identitätsverunsicherung anschaulich: Ihre vermeintlich kontrollierbaren Selbstbilder werden buchstäblich künstlich, bevor die Nacht wieder zu realen Beziehungen zurückkehrt.",
-      "anchor": "Der Puppenrausch macht das eigene Körperbild fremd.",
       "interest": "Der Puppenrausch macht das eigene Körperbild fremd.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Puppenrausch macht das eigene Körperbild fremd."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2019.",
       "context": "Booksmart feierte 2019 beim South by Southwest Festival Premiere und wurde im Mai in den USA veröffentlicht. Olivia Wilde gab damit ihr Regiedebüt bei einem Kinolangfilm. Die Handlung verdichtet den Übergang zur Zeit nach der Schule auf die Nacht vor dem Abschluss und den folgenden Tag.",
-      "anchor": "Booksmart 2019 ist Olivia Wildes erster inszenierter Kinolangfilm.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Booksmart 2019 ist Olivia Wildes erster inszenierter Kinolangfilm.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Booksmart 2019 ist Olivia Wildes erster inszenierter Kinolangfilm."
     },
     {
       "code": "D",
@@ -204,14 +204,14 @@
       ],
       "short": "Der Regiecredit lautet Olivia Wilde.",
       "context": "Olivia Wilde inszenierte hier erstmals einen Kinolangfilm. Beanie Feldstein und Kaitlyn Dever spielen Molly und Amy. Das Drehbuch entstand mit Emily Halpern, Sarah Haskins, Susanna Fogel und Katie Silberman. Die Regie legt den Schwerpunkt auf die vertraute Freundschaft, deren eingespielte Rollen sich in einer Nacht als zu eng erweisen.",
-      "anchor": "Olivia Wilde: Beanie Feldstein und Kaitlyn Dever spielen Molly und Amy.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Olivia Wilde: Beanie Feldstein und Kaitlyn Dever spielen Molly und Amy."
     }
   ]
 }

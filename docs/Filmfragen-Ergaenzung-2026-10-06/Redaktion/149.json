@@ -41,12 +41,12 @@
       ],
       "short": "Die Geschichte spielt in Dublin.",
       "context": "Der Straßenmusiker (Glen Hansard) tritt auf der Grafton Street auf. Die junge tschechische Frau (Markéta Irglová) kommt durch seine Musik mit ihm ins Gespräch. Die Stadt ist keine austauschbare Konzertkulisse: Geschäfte, Wege und Wohnungen prägen ihren kurzen gemeinsamen Alltag.",
-      "anchor": "Dublins Straßen führen vom Zuhören zum gemeinsamen Spielen.",
       "interest": "Dublins Straßen führen vom Zuhören zum gemeinsamen Spielen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dublins Straßen führen vom Zuhören zum gemeinsamen Spielen."
     },
     {
       "code": "L2",
@@ -65,13 +65,13 @@
       ],
       "short": "Sie bittet ihn um eine Staubsaugerreparatur.",
       "context": "Der Musiker (Glen Hansard) arbeitet im Reparaturgeschäft seines Vaters. Die junge Frau (Markéta Irglová) knüpft an diese Tätigkeit an. Das alltägliche Problem schafft einen zweiten Anlass zur Begegnung neben der Musik, bevor beide im Instrumentengeschäft zusammen spielen.",
-      "anchor": "Der Staubsauger verlängert die Begegnung über den Straßenauftritt hinaus.",
       "interest": "Der Staubsauger verlängert die Begegnung über den Straßenauftritt hinaus.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Staubsauger verlängert die Begegnung über den Straßenauftritt hinaus."
     },
     {
       "code": "M1",
@@ -90,12 +90,12 @@
       ],
       "short": "Ein Bankkredit ermöglicht die Aufnahme.",
       "context": "Der Musiker (Glen Hansard) möchte mit einer Demoaufnahme nach London gehen. Die junge Frau (Markéta Irglová) hilft bei der Vorbereitung. Die Finanzierung bleibt Teil der praktischen Arbeit: Für ihre Musik müssen sie Zeit, Mitspieler und Geld organisieren, bevor das Studio zum Ort gemeinsamer Konzentration wird.",
-      "anchor": "Das gemeinsame Album braucht neben Talent einen Kredit und Mitspieler.",
       "interest": "Das gemeinsame Album braucht neben Talent einen Kredit und Mitspieler.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das gemeinsame Album braucht neben Talent einen Kredit und Mitspieler."
     },
     {
       "code": "M2",
@@ -114,12 +114,12 @@
       ],
       "short": "Sie sagt auf Tschechisch, dass sie den fragenden Musiker liebt.",
       "context": "Die junge Frau (Markéta Irglová) antwortet dem Musiker (Glen Hansard) in ihrer Sprache, übersetzt aber nicht. Für ihn bleibt ihre Aussage unzugänglich. Die Szene gibt dem Publikum einen Wissensvorsprung und bewahrt zugleich die Unsicherheit ihrer Beziehung.",
-      "anchor": "Ein Liebesbekenntnis bleibt für seinen Empfänger unübersetzt.",
       "interest": "Ein Liebesbekenntnis bleibt für seinen Empfänger unübersetzt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Liebesbekenntnis bleibt für seinen Empfänger unübersetzt."
     },
     {
       "code": "S1",
@@ -138,12 +138,12 @@
       ],
       "short": "Die Musik selbst gewinnt den Toningenieur für die Aufnahme.",
       "context": "Éamon (Geoff Minogue) begegnet der Gruppe zunächst ohne besondere Erwartungen. Bei When Your Mind’s Made Up hört er konzentriert zu und beginnt mitzuarbeiten. Die Wendung entsteht durch das tatsächlich gespielte Stück; der Film setzt kreative Überzeugungskraft an die Stelle eines großen Karriereversprechens.",
-      "anchor": "Eine gespielte Nummer verwandelt Routine in Aufmerksamkeit.",
       "interest": "Eine gespielte Nummer verwandelt Routine in Aufmerksamkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine gespielte Nummer verwandelt Routine in Aufmerksamkeit."
     },
     {
       "code": "S2",
@@ -162,12 +162,12 @@
       ],
       "short": "Er kauft ihr ein Klavier.",
       "context": "Der Musiker (Glen Hansard) reist nach London, während die junge Frau (Markéta Irglová) ihre Familie in Dublin wieder zusammenführt. Das Klavier bleibt als Erinnerung und als Möglichkeit eigener Musik. Die Trennung hebt ihre künstlerische Verbindung damit nicht auf.",
-      "anchor": "Das Klavier bleibt, obwohl der gemeinsame Weg endet.",
       "interest": "Das Klavier bleibt, obwohl der gemeinsame Weg endet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Klavier bleibt, obwohl der gemeinsame Weg endet."
     },
     {
       "code": "Y",
@@ -186,7 +186,6 @@
       ],
       "short": "Der öffentliche Rohschnitt wurde 2006 in Galway gezeigt; die fertige Fassung folgte 2007.",
       "context": "Once wurde am 15. Juli 2006 in Galway als öffentlicher Rohschnitt vorgeführt. Die Festivalbroschüre nennt dies ausdrücklich die Weltpremiere; die fertige Sundance- und Kinofassung folgte 2007. Im Jahr 2008 gewannen Glen Hansard und Markéta Irglová für Falling Slowly den Song-Oscar, zwei Jahre nach der ersten öffentlichen Vorführung und ein Jahr nach der fertigen Festivalfassung.",
-      "anchor": "Galway-Rohschnitt 2006, fertige Fassung 2007, Song-Oscar 2008: zwei Jahre von der ersten Vorführung zum Preis.",
       "interest": "Der Festivalbeginn und die spätere Anerkennung des Songs bilden eine konkrete, fassungsbewusste Zeitleiste.",
       "sources": [
         "handlung",
@@ -194,7 +193,8 @@
         "academy"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Galway-Rohschnitt 2006, fertige Fassung 2007, Song-Oscar 2008: zwei Jahre von der ersten Vorführung zum Preis."
     },
     {
       "code": "D",
@@ -213,7 +213,6 @@
       ],
       "short": "Der Regiecredit lautet John Carney.",
       "context": "John Carney schrieb und inszenierte. Seine Hauptdarsteller Glen Hansard und Markéta Irglová sind Musiker und entwickelten die Songs. Carney hatte selbst in Hansards Band The Frames gespielt; die Musikbeziehungen hinter der Produktion stützen den Eindruck unmittelbarer gemeinsamer Arbeit im Film.",
-      "anchor": "John Carney: Seine Hauptdarsteller Glen Hansard und Markéta Irglová sind Musiker und entwickelten die Songs.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
@@ -221,7 +220,8 @@
         "galway"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "John Carney: Seine Hauptdarsteller Glen Hansard und Markéta Irglová sind Musiker und entwickelten die Songs."
     }
   ]
 }

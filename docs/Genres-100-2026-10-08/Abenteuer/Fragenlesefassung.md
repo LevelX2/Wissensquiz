@@ -19,7 +19,6 @@ Welchen Beruf übt Peter Blood (Errol Flynn) in „Unter Piratenflagge“ aus, b
 
 Peter Blood (Errol Flynn) gerät durch die Behandlung eines verletzten Rebellen in die politische Verfolgung. Sein Beruf steht zunächst für Hilfe unabhängig von der Seite eines Patienten. Die Verurteilung macht gerade diesen Dienst am Menschen zum Ausgangspunkt seiner Flucht.
 
-Merksatz: Arzt hilft – Staat bestraft.
 
 - Richter: Blood steht vor Gericht; er leitet es nicht.
 - Arzt: Blood ist Arzt und behandelt einen Verwundeten.
@@ -41,7 +40,6 @@ Wie gewinnen Peter Blood (Errol Flynn) und seine Mitgefangenen in „Unter Pirat
 
 Die Flucht gelingt Peter Blood (Errol Flynn), weil ein Angriff die koloniale Ordnung kurz außer Kraft setzt. Die Gefangenen nutzen das Durcheinander und gewinnen mit dem Schiff auch ein neues gemeinsames Leben. So beginnt ihre Karriere als Freibeuter.
 
-Merksatz: Angriff auf Port Royal – Flucht auf spanischem Schiff.
 
 - Sie kaufen ihre Freiheit mit einem verborgenen Schatz.: Ein Schatzkauf befreit die Gefangenen nicht.
 - Sie werden nach einer königlichen Amnestie freigelassen.: Die Begnadigung gehört zu einem späteren Handlungsabschnitt.
@@ -63,7 +61,6 @@ Was setzt Peter Blood (Errol Flynn) in „Unter Piratenflagge“ gegen den Pirat
 
 Arabella Bishop (Olivia de Havilland) fällt dem Freibeuter Levasseur (Basil Rathbone) in die Hände. Peter Blood (Errol Flynn) kauft sie zunächst frei; als Levasseur die Vereinbarung missachtet, folgt ein Duell. Die Szene trennt Bloods Ehrenkodex von bloßer Beutegier.
 
-Merksatz: Blood schützt Arabella vor Levasseur.
 
 - Er handelt ein dauerhaftes Bündnis mit Levasseur aus.: Das Duell beendet statt festigt ihr Bündnis.
 - Er liefert Arabella gegen Straffreiheit an England aus.: Eine Auslieferung an England ist nicht seine Forderung.
@@ -85,7 +82,6 @@ Welche Nachricht bewegt Bloods Mannschaft in „Unter Piratenflagge“ dazu, Por
 
 Lord Willoughby (Henry Stephenson) berichtet Peter Blood (Errol Flynn) vom Sturz Jakobs II. und dem Angebot des neuen Königs. Die Mannschaft muss damit nicht mehr für den Herrscher kämpfen, der sie versklavt hat. Das politische Unrecht am Anfang erhält eine neue Antwort.
 
-Merksatz: Neuer König – neue Entscheidung.
 
 - Der verhasste König wurde gestürzt; der neue bietet Begnadigung.: Der Herrscherwechsel und die Begnadigung ändern die Lage.
 - Colonel Bishop hat Blood persönlich Straffreiheit zugesagt.: Die entscheidende Begnadigung geht vom neuen König aus.
@@ -107,7 +103,6 @@ Auf welchem literarischen Stoff beruht „Unter Piratenflagge“?
 
 Rafael Sabatini verbindet im Roman historische Machtkämpfe mit einem erfundenen Arzt und Freibeuter. Die Verfilmung gibt diesem Stoff das Gesicht Peter Bloods (Errol Flynn). Literatur und Starpersona treffen damit in einem prägenden Mantel-und-Degen-Abenteuer zusammen.
 
-Merksatz: Sabatini schreibt Bloods Abenteuer.
 
 - Robert Louis Stevensons Roman über die Schatzinsel: Stevensons Schatzinsel ist ein anderes Piratenabenteuer.
 - Rafael Sabatinis Roman über Captain Blood: Die Vorlage stammt von Rafael Sabatini.
@@ -129,7 +124,6 @@ Wie entstand laut AFI ein Teil der Seeschlachtbilder in „Unter Piratenflagge�
 
 Die Größe der Seeschlacht entsteht aus zusammengesetzten Bildern. Miniaturen und Prozessaufnahmen ergänzen Material aus dem älteren „The Sea Hawk“. Das Beispiel macht sichtbar, dass eindrucksvolle Abenteuerbilder schon im Studiokino aus mehreren technischen und historischen Schichten bestehen konnten.
 
-Merksatz: Große Seeschlacht aus kleinen Modellen und älteren Bildern.
 
 - Mit vollständig nachgebauten Kriegsschiffen auf offener See: AFI vermerkt ausdrücklich, dass keine Schiffe in voller Größe eingesetzt wurden.
 - Mit durchgehend von Hand gezeichneten Schiffen: Die Schlacht ist keine durchgehend gezeichnete Animation.
@@ -151,7 +145,6 @@ In welchem Jahr wurde „Unter Piratenflagge“ mit Errol Flynn erstmals veröff
 
 1935 beginnt die Filmzusammenarbeit von Errol Flynn und Olivia de Havilland. Drei Jahre später stehen beide auch in „Robin Hood, König der Vagabunden“ vor der Kamera. Dieser Abstand verbindet zwei zentrale Abenteuerklassiker und hilft, den früheren Piratenfilm zeitlich einzuordnen.
 
-Merksatz: 1935 Blood – drei Jahre später Robin Hood.
 
 - 1931: 1931 liegt vier Jahre vor der Premiere.
 - 1939: 1939 liegt vier Jahre nach der Premiere.
@@ -173,7 +166,6 @@ Wer führte bei „Unter Piratenflagge“ mit Errol Flynn Regie?
 
 Michael Curtiz setzt die Handlung zwischen medizinischem Pflichtgefühl, kolonialer Willkür und Freibeutertum in Szene. Die Verfilmung wurde zugleich ein entscheidender Karriereschritt für Errol Flynn. Der Regiecredit gehört zu Curtiz; die literarische Vorlage und das Drehbuch sind davon getrennte Leistungen.
 
-Merksatz: Curtiz führt Blood ins Abenteuer.
 
 - Michael Curtiz: Michael Curtiz führte Regie.
 - John Huston: Huston verantwortete diesen Film nicht.
@@ -199,7 +191,6 @@ Womit will Kapitän Vallo (Burt Lancaster) in „Der rote Korsar“ zunächst Ge
 
 Kapitän Vallo (Burt Lancaster) beginnt als Geschäftsmann der Piraterie. Baron Gruda (Leslie Bradley) bietet Geld für den Rebellenführer El Libre (Frederick Leister). Die Aussicht auf Beute steht später gegen die Bindung an die Aufständischen und ihre Sache.
 
-Merksatz: Vallo will zuerst am Verrat verdienen.
 
 - Mit dem Verkauf erbeuteter Waffen an die Rebellen: Er handelt zunächst über die Auslieferung des Rebellenführers.
 - Mit einem Lösegeld für Baron Gruda: Der Baron wird freigelassen, um den anderen Handel zu ermöglichen.
@@ -221,7 +212,6 @@ Wie tritt Ojo (Nick Cravat) in „Der rote Korsar“ hauptsächlich auf?
 
 Ojo (Nick Cravat) und Kapitän Vallo (Burt Lancaster) bilden ein körperlich eingespieltes Duo. Die gemeinsame Zirkuserfahrung ihrer Darsteller zeigt sich in Sprüngen und Kletterkunst. Wortwitz ist nur ein Teil des Films; viele seiner Pointen werden mit Bewegung erzählt.
 
-Merksatz: Vallo und Ojo: Piratenkunst als Akrobatik.
 
 - Als wortgewandter Unterhändler bei den königlichen Behörden: Ojos Darstellung setzt auf stumme Bewegung, nicht Verhandlungsgeschick.
 - Als erzählender Chronist der Reise: Er erzählt das Geschehen nicht als Chronist.
@@ -243,7 +233,6 @@ Welche Verkleidung nutzt Vallo (Burt Lancaster) in „Der rote Korsar“, um Gef
 
 Kapitän Vallo (Burt Lancaster) verwendet die Stellung seines Gegenspielers Baron Gruda (Leslie Bradley) als Werkzeug. Wer für den Mächtigen gehalten wird, kann dessen Befehlsgewalt nutzen. Die Befreiung gelingt deshalb durch eine Identitätsverwechslung statt durch einen direkten Angriff.
 
-Merksatz: Grudas Auftreten öffnet die Gefängnistür.
 
 - Er gibt sich als Baron Gruda aus.: Vallo nutzt die Identität des königlichen Gesandten Gruda.
 - Er gibt sich als Gefängnisarzt aus.: Eine Arztrolle verschafft ihm nicht den Zugang.
@@ -265,7 +254,6 @@ Welche Forderung wird Consuelo (Eva Bartok) in „Der rote Korsar“ aufgezwunge
 
 Consuelo (Eva Bartok) wird nach dem Tod ihres Vaters zum Druckmittel. Baron Gruda (Leslie Bradley) versucht, sie durch eine erzwungene Heirat an die Herrschaft zu binden. Die Befreiung betrifft deshalb zugleich eine Person und die politische Ordnung der Insel.
 
-Merksatz: Consuelos Hochzeit soll Herrschaft sichern.
 
 - Sie soll Vallo an die königlichen Soldaten ausliefern.: Die erzwungene Zusage betrifft die Hochzeit.
 - Sie soll den Gouverneur von Cobra heiraten.: Gruda will Consuelo zur Heirat mit dem Gouverneur zwingen.
@@ -287,7 +275,6 @@ Wie verschafft Professor Prudence (James Hayter) den Aufständischen in „Der r
 
 Professor Prudence (James Hayter) bringt Technik in den historischen Piratenraum. Die Rebellen setzen unter anderem ungewöhnliche Fahrzeuge und Waffen ein. Der Film nimmt diese Anachronismen bewusst als Abenteuerkomik: Der Einfallsreichtum der Unterlegenen wird sichtbar größer als die Macht ihrer Gegner.
 
-Merksatz: Prudence liefert Technik gegen Übermacht.
 
 - Durch einen Plan, die Küstenfestung auszuhungern: Der entscheidende Vorteil entsteht durch ungewöhnliche technische Erfindungen.
 - Durch gefälschte Befehle für die königlichen Soldaten: Gefälschte Befehle sind nicht Prudences Beitrag.
@@ -309,7 +296,6 @@ Welche gemeinsame berufliche Erfahrung prägte Lancasters und Cravats Auftritte 
 
 Burt Lancaster und Nick Cravat hatten schon vor dem Film zusammen im Zirkus gearbeitet. „Der rote Korsar“ nutzt ihre eingespielte Beweglichkeit für das Duo Vallo und Ojo. Körperliche Komik und Stunts werden so zum zentralen Gestaltungsmittel dieses Abenteuerfilms.
 
-Merksatz: Vom Zirkus auf das Piratenschiff.
 
 - Ihre Ausbildung als Kunstturner im Nationalteam: Der konkrete gemeinsame Hintergrund liegt im Zirkus.
 - Ihre gemeinsame Arbeit in einer Tanzrevue: Eine Tanzrevue ist nicht die genannte gemeinsame Arbeit.
@@ -331,7 +317,6 @@ Wann kam „Der rote Korsar“ mit Burt Lancaster erstmals heraus?
 
 1952 zeigt Burt Lancaster seine artistische Seite im Piratenfilm. Robert Siodmak hatte ihn bereits 1946 in „Die Killer“ inszeniert. Zwischen dem düsteren Kriminalfilm und diesem farbigen Abenteuer liegen sechs Jahre – ein markanter Wechsel des Tons bei demselben Regisseur und Hauptdarsteller.
 
-Merksatz: 1946 Die Killer – 1952 der Korsar.
 
 - 1952: Die erste Veröffentlichung erfolgte 1952.
 - 1947: 1947 liegt fünf Jahre vor der Veröffentlichung.
@@ -353,7 +338,6 @@ Wer inszenierte „Der rote Korsar“ mit Burt Lancaster und Nick Cravat?
 
 Robert Siodmak gestaltet den Film als farbige Mischung aus Aufstand, Verkleidung und akrobatischer Komik. Die Zusammenarbeit mit Burt Lancaster knüpft an „Die Killer“ an, wechselt aber den erzählerischen Ton. Der Regiecredit ist deshalb nicht automatisch aus dem Piratengenre abzuleiten.
 
-Merksatz: Siodmak inszeniert den akrobatischen Korsaren.
 
 - Michael Curtiz: Curtiz führte bei diesem Piratenfilm nicht Regie.
 - Robert Siodmak: Regie führte Robert Siodmak.
@@ -379,7 +363,6 @@ Was steckt in „20.000 Meilen unter dem Meer“ mit James Mason hinter dem verm
 
 Professor Aronnax (Paul Lukas) geht von einer Naturerscheinung aus. Die Begegnung mit Kapitän Nemo (James Mason) verschiebt die Erklärung zur Technik. Das Schiff ist zugleich Forschungsraum und Waffe: Der technische Fortschritt löst nicht automatisch den moralischen Konflikt.
 
-Merksatz: Seeungeheuer entpuppt sich als Nautilus.
 
 - Ein ungewöhnlich großer Wal: Die vermeintliche Naturerscheinung ist ein technisches Schiff.
 - Ein gepanzertes Kriegsschiff an der Wasseroberfläche: Die Nautilus kann tauchen und bewegt sich nicht nur an der Oberfläche.
@@ -401,7 +384,6 @@ Welche Haltung vertritt Ned Land (Kirk Douglas) in „20.000 Meilen unter dem Me
 
 Ned Land (Kirk Douglas) sieht in Nemos technischen Möglichkeiten keinen Ersatz für persönliche Freiheit. Professor Aronnax (Paul Lukas) ist dagegen von den Entdeckungen beeindruckt. Die Gefährten reagieren damit unterschiedlich auf denselben Ort zwischen Wunder und Gefangenschaft.
 
-Merksatz: Ned will Freiheit, Aronnax will Erkenntnis.
 
 - Er sucht eine Möglichkeit zur Flucht.: Ned Land will die Gefangenschaft verlassen.
 - Er will Nemos Mannschaft dauerhaft beitreten.: Ned sucht den Weg aus der Gefangenschaft.
@@ -423,7 +405,6 @@ Wie versucht Ned Land (Kirk Douglas) in „20.000 Meilen unter dem Meer“, Hilf
 
 Ned Land (Kirk Douglas) findet die Lage von Vulcania heraus und nutzt Flaschenpost. Das verschafft einer Außenwelt Zugang, von der Kapitän Nemo (James Mason) unabhängig sein will. Die Hoffnung auf Rettung bedroht damit zugleich Nemos Geheimnis.
 
-Merksatz: Vulcanias Koordinaten verlassen das Schiff in Flaschen.
 
 - Er entzündet an Land ein Signalfeuer für vorbeifahrende Schiffe.: Die entscheidende Botschaft wird als Flaschenpost verschickt.
 - Er schickt die Koordinaten des Stützpunkts in Flaschen fort.: Ned verschickt die entdeckten Koordinaten als Flaschenpost.
@@ -445,7 +426,6 @@ Warum zerstört Nemo (James Mason) in „20.000 Meilen unter dem Meer“ ein Sch
 
 Kapitän Nemo (James Mason) versteht seinen Angriff als Kampf gegen Krieg und Unterdrückung. Professor Aronnax (Paul Lukas) erlebt dabei aber auch die tödliche Seite der Nautilus. Der Film stellt Nemos Absicht und seine gewaltsamen Mittel nebeneinander, ohne die Technik als neutralen Schutzraum zu zeigen.
 
-Merksatz: Nemos Friedensabsicht führt zum Angriff.
 
 - Er will die Ladung für seinen eigenen Stützpunkt erbeuten.: Seine erklärte Absicht ist die Unterbrechung der Kriegsversorgung.
 - Er verwechselt das Schiff mit einem Verfolger der Nautilus.: Nemo kennt den Zweck der Ladung und greift bewusst an.
@@ -467,7 +447,6 @@ Wer rettet Nemo (James Mason) beim Kampf gegen den Riesenkalmar in „20.000 Mei
 
 Ned Land (Kirk Douglas) handelt beim Angriff, obwohl er Kapitän Nemo (James Mason) nicht vertraut. Gegnerschaft und Hilfe schließen sich damit nicht aus. Die Rettung verändert Nemos Blick auf seine Gefangenen und unterbricht für einen Moment seine Abkehr von der Menschheit.
 
-Merksatz: Fluchtwilliger Ned rettet seinen Gefangenhalter.
 
 - Conseil (Peter Lorre): Conseil ist nicht derjenige, der Nemo aus dem Angriff rettet.
 - Professor Aronnax (Paul Lukas): Aronnax übernimmt diese Rettung nicht.
@@ -489,7 +468,6 @@ Warum wurde die Riesenkalmar-Szene für „20.000 Meilen unter dem Meer“ neu u
 
 Der erste Versuch in ruhiger, heller Umgebung ließ zu viel vom technischen Aufbau erkennen. Die neue Fassung setzt auf Sturm, Dunkelheit und bewegtes Wasser. Das macht die Konstruktion weniger sichtbar und steigert zugleich die Gefahr, die die Szene vermittelt.
 
-Merksatz: Sturm versteckt Technik und verstärkt Gefahr.
 
 - Die bewegte, dunkle Umgebung verbarg die Mechanik besser.: Sturm und Dunkelheit kaschierten die Mechanik des Effektmodells.
 - Die neue Fassung sollte ausschließlich kürzer werden.: Die neue Umgebung sollte vor allem den mechanischen Aufbau kaschieren.
@@ -511,7 +489,6 @@ In welchem Jahr erschien Disneys „20.000 Meilen unter dem Meer“ mit Kirk Dou
 
 1954 veröffentlicht Disney das Unterwasserabenteuer. Im folgenden Jahr eröffnet Disneyland in Kalifornien. Die zwei aufeinanderfolgenden Jahre markieren unterschiedliche Formen derselben Unterhaltungskultur: ein aufwendiger Kinofilm und der neue Themenpark. Die zeitliche Nähe ist eine Merkhilfe, keine behauptete Ursache des Films.
 
-Merksatz: 1954 Nautilus – 1955 Disneyland.
 
 - 1950: 1950 liegt vier Jahre vor der Veröffentlichung.
 - 1954: Disneys Verfilmung erschien 1954.
@@ -533,7 +510,6 @@ Wer führte bei Disneys „20.000 Meilen unter dem Meer“ mit James Mason Regie
 
 Richard Fleischer inszeniert die Begegnung zwischen Forschung, Freiheitswillen und Nemos Rache. Walt Disney verantwortet die Produktion, übernimmt damit aber nicht den Regiecredit. Die Namen markieren verschiedene Aufgaben bei einem Film, dessen Unterwasserwelt und Effektarbeit besondere Planung erforderten.
 
-Merksatz: Disney produziert – Fleischer inszeniert.
 
 - Henry Levin: Levin führte bei dieser Disney-Verfilmung nicht Regie.
 - Nathan Juran: Juran führte bei dieser Disney-Verfilmung nicht Regie.
@@ -559,7 +535,6 @@ Warum bricht Phileas Fogg (David Niven) in „In 80 Tagen um die Welt“ zu sein
 
 Phileas Fogg (David Niven) behandelt die Reise zunächst als beweisbare Leistung. Die Wette im Reform Club setzt einen genauen Rahmen, während die Begegnungen unterwegs immer neue Hindernisse und Bindungen schaffen. Aus einer Zeitrechnung wird damit ein persönliches Abenteuer.
 
-Merksatz: Fogg reist wegen einer Clubwette.
 
 - Um eine Wette mit Mitgliedern seines Clubs zu gewinnen: Fogg setzt sein Vermögen auf die Reisewette.
 - Um vor einem bestätigten Haftbefehl zu fliehen: Die Reise beginnt nicht als Flucht vor einem bestätigten Haftbefehl.
@@ -581,7 +556,6 @@ Welche Aufgabe hat Passepartout (Cantinflas) auf der Reise in „In 80 Tagen um 
 
 Passepartout (Cantinflas) reagiert beweglicher auf die verschiedenen Stationen als Phileas Fogg (David Niven). Ihr Verhältnis verbindet die formale Planung des Herrn mit der praktischen Hilfe des Dieners. Gerade die unterschiedlichen Temperamente geben der Reise ihren komischen Ton.
 
-Merksatz: Fogg plant – Passepartout begleitet und improvisiert.
 
 - Er begleitet ihn als sein Privatsekretär.: Passepartout ist Foggs Diener, kein Privatsekretär.
 - Er begleitet Fogg als dessen Diener.: Passepartout ist Foggs Diener und Reisebegleiter.
@@ -603,7 +577,6 @@ Weshalb verfolgt Inspektor Fix (Robert Newton) Phileas Fogg (David Niven) in „
 
 Inspektor Fix (Robert Newton) liest Phileas Foggs (David Niven) schnelle Abreise und großzügige Ausgaben als Hinweise auf einen Bankraub. Die Zuschauer erleben eine Reise, die für den Polizisten gleichzeitig wie eine Flucht aussieht. Derselbe Vorgang erhält dadurch zwei verschiedene Erklärungen.
 
-Merksatz: Foggs Reisekasse wirkt auf Fix wie Bankbeute.
 
 - Er verdächtigt ihn der Entführung Aoudas.: Aoudas Rettung ist nicht der Grund der Verfolgung.
 - Er sucht einen desertierten Schiffskapitän.: Fogg ist kein desertierter Kapitän.
@@ -625,7 +598,6 @@ Wie löst Fogg (David Niven) in „In 80 Tagen um die Welt“ auf der letzten Se
 
 Phileas Fogg (David Niven) setzt seinen Besitz zunehmend für die Wette ein. Die letzte Überfahrt verlangt eine besonders radikale Entscheidung: Teile des Verkehrsmittels werden selbst zum Brennstoff. Der genaue Plan muss erneut einer improvisierten Lösung weichen.
 
-Merksatz: Schiff gekauft – Schiffsteile verheizt.
 
 - Er bezahlt ein schnelleres Begleitschiff für die letzte Strecke.: Er übernimmt und zerlegt das bisherige Schiff als Brennstoffquelle.
 - Er lässt die Besatzung auf Segelantrieb umstellen.: Der Kohlemangel wird nicht einfach durch Segel ausgeglichen.
@@ -647,7 +619,6 @@ Welche Erkenntnis gibt Fogg (David Niven) in „In 80 Tagen um die Welt“ am En
 
 Passepartout (Cantinflas) entdeckt bei den Vorbereitungen einer Hochzeit den Irrtum im Wochentag. Phileas Fogg (David Niven) hat die Datumsänderung auf seiner Ostwärtsreise nicht richtig berücksichtigt. Die Lösung liegt deshalb in der Reise selbst und nicht in einem nachträglichen Entgegenkommen der Wettpartner.
 
-Merksatz: Einmal ostwärts herum – ein Kalendertag gewonnen.
 
 - Die Ostwärtsreise hat seinen Kalender um einen Tag verschoben.: Durch die Weltreise nach Osten hat Fogg einen Tag gewonnen.
 - Der Club rechnet eine Unterbrechung durch Fix nicht auf die Reisezeit an.: Eine nachträgliche Ausnahme für Fix rettet die Wette nicht.
@@ -669,7 +640,6 @@ Welche berühmte Reiseepisode aus „In 80 Tagen um die Welt“ wurde laut AFI f
 
 Das Bild des Ballons ist besonders eng mit diesem Reiseabenteuer verbunden. Die filmische Ergänzung nutzt den freien Himmel als Schauplatz eines großen Bildspektakels. Sie zeigt, dass ein vertrautes Motiv einer Verfilmung nicht automatisch ein Motiv ihrer literarischen Vorlage sein muss.
 
-Merksatz: Der ikonische Ballon kommt aus der Verfilmung.
 
 - Die Rettung Aoudas in Indien: Aoudas Rettung gehört schon zum Romanstoff.
 - Die Fahrt im Ballon: AFI bezeichnet die Ballonfahrt als Erfindung für die Verfilmung.
@@ -691,7 +661,6 @@ In welchem Jahr erschien „In 80 Tagen um die Welt“ mit David Niven als Phile
 
 1956 bringt Mike Todd die Reise im Großbildverfahren Todd-AO ins Kino. Dieses Verfahren war im Jahr zuvor mit „Oklahoma!“ eingesetzt worden. Der Abstand von einem Jahr verbindet das Reiseabenteuer mit der damaligen Suche nach besonders eindrucksvollen Kinoformaten.
 
-Merksatz: 1955 Oklahoma! – 1956 Foggs Großbildreise.
 
 - 1952: 1952 liegt vier Jahre vor der Premiere.
 - 1960: 1960 liegt vier Jahre nach der Premiere.
@@ -713,7 +682,6 @@ Wer trägt den offiziellen Regiecredit der Fassung von „In 80 Tagen um die Wel
 
 Michael Anderson übernahm die Regie während einer aufwendigen internationalen Produktion. AFI dokumentiert einen vorausgehenden Regiewechsel und eigene Sequenzarbeit des Produzenten Mike Todd. Diese zusätzliche Mitwirkung wird erläutert; die Frage zielt ausdrücklich auf den offiziellen Credit Andersons.
 
-Merksatz: Offiziell Anderson – Produktion mit mehreren Mitwirkungen.
 
 - Henry Hathaway: Hathaway trägt diesen Credit nicht.
 - Richard Thorpe: Thorpe trägt diesen Credit nicht.
@@ -739,7 +707,6 @@ Was geschieht Prinzessin Parisa (Kathryn Grant) in „Sindbads 7. Reise“?
 
 Prinzessin Parisa (Kathryn Grant) bleibt dieselbe Person, verliert aber ihre normale Größe. Dadurch wird die geplante Hochzeit gefährdet und eine neue Expedition notwendig. Die äußerlich kleine Figur erhält zugleich eine wichtige Handlungsmacht, wenn ihre Größe an anderen Stellen zum Vorteil wird.
 
-Merksatz: Parisa wird klein – das Abenteuer wird größer.
 
 - Sie wird in eine Schlangenfrau verwandelt.: Die vorübergehende Schlangenverwandlung betrifft eine Dienerin.
 - Sie wird durch einen Zauber winzig klein.: Sokurah verkleinert Parisa durch einen Zauber.
@@ -761,7 +728,6 @@ Wohin muss Sindbad (Kerwin Mathews) in „Sindbads 7. Reise“ zurückkehren, um
 
 Sindbad (Kerwin Mathews) soll eine Schale des Vogels Roch beschaffen, die für den Gegenzauber benötigt wird. Die Rückkehr nach Colossa führt ihn erneut zu den Wesen, vor denen er schon einmal entkommen ist. Ein Rettungsziel bindet die Reise an einen konkret gefährlichen Ort.
 
-Merksatz: Parisahs Heilmittel führt nach Colossa.
 
 - Auf die Insel der Sirenen: Die Sireneninsel ist eine Gefahr auf der Fahrt, nicht der Fundort der benötigten Eierschale.
 - Zur Küste von Chandra: Die Eierschale wird nicht in Parisas Heimat gesucht.
@@ -783,7 +749,6 @@ Warum will der Magier Sokurah (Torin Thatcher) in „Sindbads 7. Reise“ unbedi
 
 Sokurah (Torin Thatcher) hat beim ersten Aufenthalt auf Colossa seine Lampe verloren. Seine scheinbare Hilfe bei Parisas (Kathryn Grant) Verkleinerung dient deshalb einem eigenen Plan. Die Rettung der Prinzessin und das Interesse des Magiers führen zwar an denselben Ort, verfolgen aber unterschiedliche Ziele.
 
-Merksatz: Sokurah braucht Colossa wegen der Lampe.
 
 - Er will die Eierschale allein als Waffe gegen Bagdad nutzen.: Die Eierschale dient dem Gegenzauber; sein eigenes Ziel ist die Lampe.
 - Er möchte den Zyklopen als Wächter für den Kalifen gewinnen.: Eine Wächterrolle für den Kalifen ist nicht sein Plan.
@@ -805,7 +770,6 @@ Was verspricht Parisa (Kathryn Grant) dem Lampengeist Barani (Richard Eyer) in �
 
 Die verkleinerte Parisa (Kathryn Grant) kann die Lampe betreten und begegnet Barani (Richard Eyer). Ihre Bindung an ihn beruht auf einem Freiheitsversprechen. Der Geist ist damit eine Figur mit eigenem Wunsch und nicht nur ein beliebig verfügbares Zauberwerkzeug.
 
-Merksatz: Barani hilft, weil Parisa Freiheit verspricht.
 
 - Ihn aus der Lampe zu befreien: Parisa verspricht Barani die Freiheit.
 - Ihn zum Nachfolger Sokurahs zu machen: Das Versprechen gilt seiner Freiheit statt einer Magierrolle.
@@ -827,7 +791,6 @@ Wie erfüllt Sindbad (Kerwin Mathews) in „Sindbads 7. Reise“ Baranis (Richar
 
 Sindbad (Kerwin Mathews) und Parisa (Kathryn Grant) verzichten auf die weitere Verfügung über die Wunderlampe. Sie halten das Versprechen gegenüber Barani (Richard Eyer), indem sie das mächtige Objekt zerstören. Hilfe wird hier mit Freiheit beantwortet und nicht mit dauerhafter Unterordnung.
 
-Merksatz: Lampe zerstört – Barani frei.
 
 - Er zerbricht die Lampe mit dem Schwert.: Die Lampe wird durch den Wurf in die Lava zerstört.
 - Er wirft die Wunderlampe in flüssige Lava.: Die Zerstörung der Lampe in Lava befreit Barani.
@@ -849,7 +812,6 @@ Welche frühe Disney-Animation inspirierte Harryhausens Idee eines kämpfenden S
 
 Ray Harryhausen hatte Disneys The Skeleton Dance als Kind gesehen. Später fragte er sich, wie ein animiertes Skelett gegen einen echten Darsteller kämpfen könnte. Das Duell mit Sindbad (Kerwin Mathews) verbindet so eine Kindheitserfahrung mit der Kombination von Modellanimation und Realfilm.
 
-Merksatz: Disneys Skeletttanz führt zu Harryhausens Skelettduell.
 
 - Die drei kleinen Schweinchen: Die Schweinchen-Geschichte ist nicht dieser belegte Ausgangspunkt.
 - Dumbo: Dumbos Flug ist nicht die genannte Inspiration.
@@ -871,7 +833,6 @@ Wann wurde „Sindbads 7. Reise“ mit Kerwin Mathews und Kathryn Grant erstmals
 
 1958 erscheint das erste von drei Sindbad-Abenteuern mit Ray Harryhausens Effekten. „Sindbads gefährliche Abenteuer“ folgt erst 1973, also fünfzehn Jahre später. Der große Abstand zeigt, dass diese Reihe nicht im jährlichen Fortsetzungsrhythmus entstand.
 
-Merksatz: 1958 beginnt Harryhausens Sindbad-Reihe.
 
 - 1954: 1954 liegt vier Jahre vor der Veröffentlichung.
 - 1962: 1962 liegt vier Jahre nach der Veröffentlichung.
@@ -893,7 +854,6 @@ Wer führte bei „Sindbads 7. Reise“ mit Kerwin Mathews die Regie?
 
 Nathan Juran ist für die Regie des Films verantwortlich. Ray Harryhausen entwickelt und animiert die berühmten Kreaturen; seine Effektarbeit wird dadurch nicht zum Regiecredit. Die Unterscheidung hilft, die Zusammenarbeit hinter einem Film mit besonders sichtbarer Trickgestaltung richtig zuzuordnen.
 
-Merksatz: Juran führt Regie – Harryhausen gestaltet Kreaturen.
 
 - Nathan Juran: Regie führte Nathan Juran.
 - Henry Levin: Levin trägt diesen Regiecredit nicht.
@@ -919,7 +879,6 @@ Was bringt Professor Lindenbrook (James Mason) in „Die Reise zum Mittelpunkt d
 
 Professor Lindenbrook (James Mason) entdeckt in einem ungewöhnlich schweren Stein ein beschriftetes Senklot. Der Gegenstand verweist auf Arne Saknussemm und einen Weg ins Erdinnere. Ein naturwissenschaftliches Geschenk wird dadurch zum historischen Hinweis auf eine frühere Reise.
 
-Merksatz: Schwerer Stein birgt Saknussemm-Spur.
 
 - Ein Brief eines ehemaligen Assistenten: Der Hinweis liegt im vulkanischen Gestein.
 - Ein verschlüsseltes Tagebuch aus einem Nachlass: Ein Tagebuch ist nicht der erste Fund.
@@ -941,7 +900,6 @@ In welchem Land beginnt der Abstieg der Expedition in „Die Reise zum Mittelpun
 
 Professor Lindenbrook (James Mason) und Alec McEwan (Pat Boone) reisen von Edinburgh nach Island. Der Zugang liegt im Vulkan Snæfellsjökull. Vorbereitung und tatsächlicher Einstieg sind damit verschiedene Stationen; die Reise beginnt nicht direkt unter der schottischen Universität.
 
-Merksatz: Edinburgh plant – Island öffnet den Weg.
 
 - Italien: Italien ist nicht der Ausgangsort dieses Abstiegs.
 - Schottland: Die Vorbereitung beginnt in Schottland, der Abstieg nicht.
@@ -963,7 +921,6 @@ Unter welcher Bedingung stellt Carla Göteborg (Arlene Dahl) in „Die Reise zum
 
 Carla Göteborg (Arlene Dahl) will den Ruf ihres verstorbenen Mannes schützen und die Forschung selbst begleiten. Ihre Ausrüstung hilft Professor Lindenbrook (James Mason), bindet ihn aber an eine neue Mitreisende. Die Gruppe wächst durch eine ausgehandelte Bedingung, nicht bloß durch zufällige Begegnung.
 
-Merksatz: Carlas Ausrüstung gibt es nur mit Carla.
 
 - Sie muss selbst an der Expedition teilnehmen dürfen.: Carla verlangt, mitzureisen.
 - Lindenbrook muss Göteborg als alleinigen Entdecker anerkennen.: Sie verlangt ihre eigene Teilnahme, nicht alleinige Entdeckerehre.
@@ -985,7 +942,6 @@ Warum verfolgt Graf Saknussemm (Thayer David) die Gruppe in „Die Reise zum Mit
 
 Graf Saknussemm (Thayer David) behandelt die Entdeckung seines Vorfahren wie einen persönlichen Besitzanspruch. Professor Lindenbrook (James Mason) folgt dagegen den überlieferten Zeichen als Forscher. Die gleiche Spur führt damit zu einem Konflikt über das Recht auf Entdeckung.
 
-Merksatz: Nachfahre macht aus Entdeckung einen Besitzanspruch.
 
 - Er soll als staatlicher Arzt die Gruppe überwachen.: Ein medizinischer Aufsichtsposten ist nicht sein Auftrag.
 - Er beansprucht als Nachfahre des früheren Entdeckers ein Vorrecht.: Der Graf beruft sich auf seine Abstammung vom früheren Entdecker.
@@ -1007,7 +963,6 @@ Welche versunkene Stadt findet die Expedition in „Die Reise zum Mittelpunkt de
 
 Die Ruinen von Atlantis erweitern die Expedition um eine verlorene Kultur. Professor Lindenbrook (James Mason) findet dort auch die letzte Spur des früheren Forschers. Der Schauplatz verbindet eine fantastische Erdlandschaft mit dem Gedanken, dass eine versunkene Vergangenheit noch lesbar ist.
 
-Merksatz: Im Erdinneren liegt Atlantis.
 
 - Troja: Troja liegt nicht an dieser Stelle der Filmreise.
 - Pompeji: Pompeji ist nicht die unterirdische Ruinenstadt dieses Films.
@@ -1029,7 +984,6 @@ Wie gelangt die Gruppe in „Die Reise zum Mittelpunkt der Erde“ schließlich 
 
 Professor Lindenbrook (James Mason) lässt eine Blockade des Schachts sprengen. Die Reisenden schützen sich in einer steinernen Schale, die von vulkanischer Kraft nach oben getragen wird. Die Natur ist somit auf dem Rückweg zugleich Gefahr und Transportmittel.
 
-Merksatz: Vulkanische Kraft bringt die Forscher zurück.
 
 - Sie kehrt auf demselben Schachtweg nach Island zurück.: Der Rückweg verläuft über einen anderen vulkanischen Ausgang.
 - Sie folgt einem unterirdischen Fluss bis zum offenen Meer.: Ein Flussweg zum Meer bringt sie nicht an die Oberfläche.
@@ -1051,7 +1005,6 @@ Wann erschien die Fassung von „Die Reise zum Mittelpunkt der Erde“ mit James
 
 1959 begibt sich James Mason als Professor ins Erdinnere. Fünf Jahre zuvor war er in „20.000 Meilen unter dem Meer“ Kapitän Nemo. Der Darsteller verbindet damit zwei große Verne-Verfilmungen, deren Reihenfolge einen anschaulichen zeitlichen Anker bildet.
 
-Merksatz: 1954 Nemo – 1959 Lindenbrook.
 
 - 1959: Diese Verfilmung erschien 1959.
 - 1955: 1955 liegt vier Jahre vor der Veröffentlichung.
@@ -1073,7 +1026,6 @@ Wer inszenierte „Die Reise zum Mittelpunkt der Erde“ mit James Mason und Pat
 
 Henry Levin inszeniert die Gruppe zwischen Forschung, Rivalität und fantastischen Landschaften. Der Film verändert Figuren und Ausgangsort gegenüber dem Roman. Die Regiefrage betrifft diese konkrete Fassung mit James Mason und Pat Boone, nicht spätere Verne-Verfilmungen gleichen Titels.
 
-Merksatz: Levin führt Mason ins Erdinnere.
 
 - Richard Fleischer: Fleischer führte bei dieser Fassung nicht Regie.
 - Henry Levin: Regie führte Henry Levin.
@@ -1099,7 +1051,6 @@ Wofür setzt sich Ivanhoe (Robert Taylor) in „Ivanhoe – Der schwarze Ritter�
 
 Ivanhoe (Robert Taylor) findet König Richard in Gefangenschaft und will das Lösegeld aufbringen. Dessen Bruder John profitiert dagegen von der Abwesenheit des Königs. Die Rittergeschichte beginnt damit mit einer politischen Aufgabe, die über persönliche Ehre hinausgeht.
 
-Merksatz: Ivanhoe sammelt für Richards Freiheit.
 
 - Für die dauerhafte Herrschaft Prinz Johns: Er versucht gerade Richards Rückkehr auf den Thron zu ermöglichen.
 - Für die Wiedereroberung einer Burg seiner Familie: Zu Beginn sucht er den gefangenen König.
@@ -1121,7 +1072,6 @@ Welche beiden Bevölkerungsgruppen stehen sich im England von „Ivanhoe – Der
 
 Ivanhoe (Robert Taylor) steht als Sachse zwischen den Lagern. Sein Vater Cedric (Finlay Currie) lehnt die Hilfe für den normannischen König zunächst ab. Die Handlung verlangt damit, Herkunftsfeindschaft und gemeinsames politisches Interesse miteinander zu vereinbaren.
 
-Merksatz: Englands Spaltung: Sachsen gegen Normannen.
 
 - Sachsen und Normannen: Der Film erzählt die Spannungen zwischen Sachsen und Normannen.
 - Sachsen und Dänen: Das Hauptgegensatzpaar ist hier Sachsen und Normannen.
@@ -1143,7 +1093,6 @@ Wie unterstützt Rebecca (Elizabeth Taylor) Ivanhoe (Robert Taylor) vor dem Turn
 
 Rebecca (Elizabeth Taylor) hilft Ivanhoe (Robert Taylor), als für einen Turnierauftritt die Mittel fehlen. Ihr Schmuck verwandelt private Unterstützung in öffentlich sichtbare Ritterausrüstung. Die Beziehung entwickelt sich deshalb durch eine konkrete Hilfeleistung und nicht nur durch Worte.
 
-Merksatz: Rebeccas Schmuck finanziert Ivanhoes Turnierauftritt.
 
 - Mit einem von Isaac gekauften Turniersieg: Sie stellt Schmuck für seine Ausrüstung zur Verfügung, keinen erkauften Sieg.
 - Mit Schmuck, der Pferd und Rüstung ermöglicht: Rebecca stellt ihren Schmuck für seine Ausrüstung bereit.
@@ -1165,7 +1114,6 @@ Wie will Ivanhoe (Robert Taylor) in „Ivanhoe – Der schwarze Ritter“ die Ve
 
 Rebecca (Elizabeth Taylor) wird als Hexe angeklagt. Ivanhoe (Robert Taylor) stellt sich dem vorgesehenen Kampf, um das Urteil anzufechten. Der Film zeigt damit eine Justizvorstellung, in der körperlicher Sieg als Beweis dienen soll – deutlich entfernt von moderner Rechtsprüfung.
 
-Merksatz: Ivanhoe ficht das Urteil im Zweikampf an.
 
 - Durch einen Antrag auf Begnadigung bei Prinz John: Er verlangt die Entscheidung im gerichtlichen Zweikampf.
 - Durch den heimlichen Austausch mit einer anderen Gefangenen: Ein Gefangenenaustausch ist nicht sein Plan.
@@ -1187,7 +1135,6 @@ Welches Dilemma stellt Prinz John (Guy Rolfe) Rebeccas Vater Isaac (Felix Aylmer
 
 Isaac (Felix Aylmer) hat zur Befreiung König Richards beigetragen. Prinz John (Guy Rolfe) setzt Rebeccas (Elizabeth Taylor) Leben gegen dieses Lösegeld ein. Persönliche Bindung und ein gemeinsames politisches Ziel werden so absichtlich gegeneinander ausgespielt.
 
-Merksatz: John stellt Tochter gegen König.
 
 - Er muss Rebecca gegen die öffentliche Lossagung von Richard tauschen.: Die unmittelbare Falle betrifft die Verwendung derselben Lösegeldmittel.
 - Er soll Rebecca nur gegen Ivanhoes Auslieferung freikaufen.: Die Auslieferung Ivanhoes ist nicht die verlangte Alternative.
@@ -1209,7 +1156,6 @@ Wie beendet König Richard (Norman Wooland) in „Ivanhoe – Der schwarze Ritte
 
 König Richard (Norman Wooland) kehrt zurück und richtet den Blick über Sachsen und Normannen hinaus. Das Schlussbild beantwortet den Gruppenstreit des Anfangs mit einem gemeinsamen politischen Namen. Der Film setzt so eine versöhnende Vorstellung an das Ende der Ritterkämpfe.
 
-Merksatz: Aus zwei Lagern werden Engländer.
 
 - Er spricht sie gemeinsam als Engländer an.: Richard fordert eine gemeinsame englische Identität.
 - Er fordert jeden Sachsen zum Eid als Normanne auf.: Richard löst die Trennung durch die gemeinsame Bezeichnung als Engländer.
@@ -1231,7 +1177,6 @@ In welchem Jahr wurde „Ivanhoe – Der schwarze Ritter“ mit Robert Taylor er
 
 1952 führt Richard Thorpe Robert Taylor als Ivanhoe ins Ritterabenteuer. Im nächsten Jahr folgt „Die Ritter der Tafelrunde“ mit demselben Regisseur und Star. Die aufeinanderfolgenden Filme bilden einen nützlichen Anker für diese Phase des historischen MGM-Abenteuerkinos.
 
-Merksatz: 1952 Ivanhoe – 1953 Tafelrunde.
 
 - 1948: 1948 liegt vier Jahre davor.
 - 1952: Die erste Aufführung liegt 1952.
@@ -1253,7 +1198,6 @@ Wer führte bei „Ivanhoe – Der schwarze Ritter“ mit Robert Taylor und Eliz
 
 Richard Thorpe inszeniert Walter Scotts Roman als farbiges Ritterabenteuer. Turnier, Belagerung und Zweikampf ordnen den politischen und persönlichen Streit in unterschiedliche Aktionsräume ein. Der Film gehört zu einer Reihe historischer Arbeiten mit Robert Taylor, nicht zu den Robin-Hood-Filmen Michael Curtiz’.
 
-Merksatz: Thorpe inszeniert Taylors Ivanhoe.
 
 - Henry Levin: Levin trägt diesen Regiecredit nicht.
 - Michael Curtiz: Curtiz trägt diesen Regiecredit nicht.
@@ -1279,7 +1223,6 @@ Welcher Truppe möchte D’Artagnan (Gene Kelly) in „Die drei Musketiere“ be
 
 D’Artagnan (Gene Kelly) kommt als unerfahrener junger Mann aus der Gascogne nach Paris. Seine Hoffnungen richten sich auf den königlichen Dienst. Dass er die berühmten Soldaten zunächst beleidigt, macht aus dem angestrebten Eintritt eine Reihe gefährlicher Begegnungen.
 
-Merksatz: D’Artagnans Ziel ist der königliche Dienst.
 
 - Den Musketieren des Königs: Er reist nach Paris, um königlicher Musketier zu werden.
 - Der Leibgarde des englischen Herzogs: Buckingham ist nicht sein Dienstherr.
@@ -1301,7 +1244,6 @@ Wohin reisen die Freunde in „Die drei Musketiere“, um Königin Anne (Angela 
 
 Königin Anne (Angela Lansbury) hat Schmuck an Buckingham (John Sutton) gegeben. Richelieu (Vincent Price) will dessen Fehlen öffentlich sichtbar machen. Die Freunde müssen deshalb eine Reise bewältigen, deren Gelingen über die Stellung der Königin entscheidet.
 
-Merksatz: Die Schmuckmission führt über den Kanal.
 
 - Nach Spanien: Spanien ist nicht das Ziel dieser Mission.
 - Nach England: Sie holen den Schmuck aus England zurück.
@@ -1323,7 +1265,6 @@ Warum werden die zunächst verabredeten Duelle D’Artagnans (Gene Kelly) mit de
 
 D’Artagnan (Gene Kelly) hat mit drei Männern nacheinander Streit begonnen. Als Richelieus Wachen erscheinen, entscheidet er sich, an ihrer Seite zu kämpfen. Aus den geplanten Gegnern werden Verbündete: Die Freundschaft entsteht in einer gemeinsamen Entscheidung unter Gefahr.
 
-Merksatz: Die Wachen machen aus Gegnern Verbündete.
 
 - Der König lässt die Verabredungen ausdrücklich aufheben.: Die Wachen unterbrechen die Duelle durch ihren Eingriff.
 - D’Artagnan erkennt einen der drei als seinen Verwandten.: Eine Verwandtschaft beendet die Auseinandersetzungen nicht.
@@ -1345,7 +1286,6 @@ Wie kann Buckingham (John Sutton) in „Die drei Musketiere“ den unvollständi
 
 Milady (Lana Turner) hat zwei Stücke des königlichen Schmucks gestohlen. Buckingham (John Sutton) kann den ursprünglichen Satz deshalb nicht einfach herausgeben. Ein Juwelier gleicht den Verlust aus, während die Zeit für D’Artagnans (Gene Kelly) Rückreise knapp wird.
 
-Merksatz: Zwei fehlende Stücke werden ersetzt.
 
 - Er leiht gleich aussehenden Schmuck aus der königlichen Sammlung.: Zwei Stücke werden neu angefertigt, nicht bloß ausgeliehen.
 - Er sendet ein Schreiben, das den fehlenden Schmuck erklärt.: Ein Schreiben ersetzt die fehlenden Teile nicht.
@@ -1367,7 +1307,6 @@ Woran erkennt D’Artagnan (Gene Kelly) in „Die drei Musketiere“, dass Athos
 
 Athos (Van Heflin) kennt Milady (Lana Turner) aus seiner Vergangenheit. D’Artagnan (Gene Kelly) zweifelt zunächst an seiner Darstellung. Das Brandzeichen macht die persönliche Warnung überprüfbar und verändert sein Vertrauen in die Frau, die ihn für Richelieu gewinnen soll.
 
-Merksatz: Das Brandzeichen bestätigt Athos.
 
 - An einem Brandzeichen auf ihrer Schulter: Das Brandzeichen bestätigt die Warnung.
 - An einem tätowierten königlichen Wappen am Fuß: Ein Fußwappen ist nicht der Beweis.
@@ -1389,7 +1328,6 @@ Was schützt D’Artagnan (Gene Kelly) und seine Freunde in „Die drei Musketie
 
 Richelieu (Vincent Price) hatte Milady (Lana Turner) weitreichende Handlungsfreiheit schriftlich gewährt. Die Freunde besitzen nun dieses Dokument. D’Artagnan (Gene Kelly) nutzt es bei der Anklage: Ein Instrument der Intrige blockiert die Bestrafung jener Männer, die sie vereitelt haben.
 
-Merksatz: Richelieus Schriftstück fällt auf ihn zurück.
 
 - Ein königlicher Brief aus der Gascogne: Ein Gasconer Königsbrief ist nicht der entscheidende Schutz.
 - Eine von Richelieu selbst ausgestellte Vollmacht: Die Vollmacht kann gegen ihren eigenen Aussteller verwendet werden.
@@ -1411,7 +1349,6 @@ Wann erschien „Die drei Musketiere“ mit Gene Kelly und Lana Turner erstmals?
 
 Alexandre Dumas veröffentlichte Die drei Musketiere 1844; die MGM-Verfilmung mit Gene Kelly als D’Artagnan folgte 1948, 104 Jahre später. Der Zeitanker verbindet den Abenteuerroman mit einer großen farbigen Studiofassung. Kellys körperliche Beweglichkeit, die auch seine Tanzauftritte prägt, wird hier für Fechtkämpfe eingesetzt. Der Film überträgt damit einen längst etablierten Stoff in ein neues Schauformat.
 
-Merksatz: 1844 Dumas’ Roman – 1948 Kellys Degenabenteuer: 104 Jahre Abstand.
 
 - 1944: 1944 liegt vier Jahre davor.
 - 1952: 1952 liegt vier Jahre danach.
@@ -1433,7 +1370,6 @@ Wer inszenierte „Die drei Musketiere“ mit Gene Kelly als D’Artagnan?
 
 George Sidney inszeniert den Dumas-Stoff für MGM mit Gene Kelly. Der offizielle Credit trennt diese farbige Studiofassung von Richard Lesters späteren Arbeiten. Die Frage betrifft den Film mit Kelly und Lana Turner, nicht den mehrfach verfilmten Roman im Allgemeinen.
 
-Merksatz: Sidney führt Kelly zu den Musketieren.
 
 - Richard Thorpe: Thorpe inszenierte diese Fassung nicht.
 - Michael Curtiz: Curtiz inszenierte diese Fassung nicht.
@@ -1459,7 +1395,6 @@ Wer betreibt in „Die vier Musketiere“ die Racheintrige gegen D’Artagnan (M
 
 Milady de Winter (Faye Dunaway) macht aus einem politischen Auftrag einen persönlichen Racheplan. D’Artagnan (Michael York) und Constance (Raquel Welch) geraten deshalb zwischen Hofintrigen und die Feindschaft einer einzelnen Frau. Der zweite Film setzt einen deutlich bedrohlicheren Schwerpunkt.
 
-Merksatz: Milady macht Politik zur persönlichen Rache.
 
 - Königin Anne (Geraldine Chaplin): Die Königin ist nicht die Urheberin dieser Rache.
 - Milady de Winter (Faye Dunaway): Milady verfolgt die beiden mit ihrer Rache.
@@ -1481,7 +1416,6 @@ Wo bringen die Freunde Constance (Raquel Welch) in „Die vier Musketiere“ zun
 
 Nach der Befreiung Constances (Raquel Welch) suchen die Freunde einen geschützten Ort. Das Kloster von Armentières scheint diese Sicherheit zu bieten. Der weitere Verlauf zeigt jedoch, dass räumlicher Rückzug die Verfolgung durch Milady (Faye Dunaway) und Rochefort (Christopher Lee) nicht beendet.
 
-Merksatz: Constance sucht Schutz im Kloster.
 
 - In einem versteckten Haus in Paris: Sie wird ins Kloster von Armentières gebracht.
 - In einem Gasthof bei La Rochelle: Ein Gasthof ist nicht ihr Schutzort.
@@ -1503,7 +1437,6 @@ Mit welchem scheinbar harmlosen Geschenk versucht Milady (Faye Dunaway) in „Di
 
 Milady (Faye Dunaway) verbindet den Wein mit einer Nachricht, die D’Artagnan (Michael York) aus dem sicheren Umfeld locken soll. Ein gefangener Gegner trinkt später davon und stirbt. Erst dieses Ereignis macht sichtbar, welche Gefahr sich hinter dem vermeintlichen Geschenk verbarg.
 
-Merksatz: Miladys Geschenk ist eine Giftfalle.
 
 - Ein präparierter Schmuckring: Das konkrete Giftgeschenk ist Wein statt Schmuck.
 - Ein versiegelter Brief mit vergiftetem Papier: Die Nachricht enthält eine List, doch das Gift befindet sich im Wein.
@@ -1525,7 +1458,6 @@ Wie bringt Milady (Faye Dunaway) in „Die vier Musketiere“ Buckingham (Simon 
 
 Buckingham (Simon Ward) lässt Milady (Faye Dunaway) einsperren. Sie beeinflusst ihren Bewacher Felton (Michael Gothard) und entkommt. Felton tötet den Herzog, bevor Planchet (Roy Kinnear) ihn warnen kann. Gefangenschaft stoppt ihre Intrige deshalb nicht, sondern eröffnet einen neuen Weg.
 
-Merksatz: Milady macht den Bewacher zum Werkzeug.
 
 - Sie gewinnt ihren Bewacher Felton für einen Mord.: Felton wird von ihr zum Täter gemacht.
 - Sie nutzt seine Einladung zu einem vertraulichen Gespräch für einen Dolchangriff.: Ein früher direkter Mordversuch scheitert; Felton führt den späteren Mord aus.
@@ -1547,7 +1479,6 @@ Warum kann D’Artagnan (Michael York) in „Die vier Musketiere“ Richelieus (
 
 Richelieu (Charlton Heston) will Milady (Faye Dunaway) freie Hand geben, ohne sich auf Einzelheiten festzulegen. Genau diese Unbestimmtheit nutzt D’Artagnan (Michael York). Die Vollmacht schützt schließlich die Verfolger der Frau, für deren Machenschaften sie ursprünglich gedacht war.
 
-Merksatz: Die offene Vollmacht schützt unerwartete Handlungen.
 
 - Die Vollmacht ist nur auf den König anwendbar und macht ihn zum Richter.: Es wirkt wegen seiner unbestimmten Autorisierung, nicht einer solchen Zuständigkeitsregel.
 - Die Vollmacht benennt ihre erlaubten Handlungen absichtlich nicht genau.: Die offene Formulierung lässt eine Umdeutung zu.
@@ -1569,7 +1500,6 @@ Welche Entstehungsweise erklärt, dass „Die vier Musketiere“ unmittelbar an 
 
 Richard Lester und sein Ensemble drehten den Dumas-Stoff zunächst als zusammenhängendes Projekt. Daraus wurden zwei Veröffentlichungen. Die direkte Fortsetzung beruht deshalb auf gemeinsamen Dreharbeiten und einer anschließenden Aufteilung, nicht auf einem erst viel später neu entwickelten Stoff.
 
-Merksatz: Ein Drehprojekt wurde zu zwei Filmen.
 
 - Er wurde Jahre später mit einem neu zusammengesetzten Ensemble gedreht.: Die beiden Filme entstanden im selben zusammenhängenden Drehprojekt.
 - Er war eine Wiederverfilmung mit derselben Besetzung statt einer Fortsetzung.: Die Veröffentlichung setzt die Handlung fort statt sie neu zu beginnen.
@@ -1591,7 +1521,6 @@ In welchem Jahr erschien „Die vier Musketiere“ mit Michael York erstmals?
 
 Der erste Lester-Musketierfilm erschien 1973, der zweite 1974. Das gemeinsam gedrehte Abenteuer erreichte das Publikum damit in zwei aufeinanderfolgenden Jahren. Die britische Auswertung des zweiten Films folgte später; das Filmjahr richtet sich nach der ersten Veröffentlichung.
 
-Merksatz: 1973 drei – 1974 vier Musketiere.
 
 - 1970: 1970 liegt vier Jahre davor.
 - 1978: 1978 liegt vier Jahre danach.
@@ -1613,7 +1542,6 @@ Wer führte bei „Die vier Musketiere“ mit Michael York und Faye Dunaway Regi
 
 Richard Lester führt die Komik seines ersten Musketierfilms in einen ernsteren Rachekonflikt. Die gemeinsame Besetzung und Produktion verbinden beide Teile. Der Regiecredit betrifft diese Fassung mit Michael York und Faye Dunaway, während George Sidney die ältere MGM-Adaption inszenierte.
 
-Merksatz: Lester inszeniert beide Hälften.
 
 - Richard Lester: Richard Lester inszenierte beide Teile.
 - George Sidney: Sidney inszenierte die ältere Gene-Kelly-Fassung.
@@ -1639,7 +1567,6 @@ Warum begleitet Azeem (Morgan Freeman) Robin (Kevin Costner) in „Robin Hood �
 
 Robin (Kevin Costner) rettet Azeem (Morgan Freeman) bei der Flucht aus Gefangenschaft. Azeem folgt ihm, bis er die Hilfe erwidern kann. Die gemeinsame Reise gründet damit auf einer selbst gewählten Verpflichtung, die im späteren Kampf praktische Bedeutung erhält.
 
-Merksatz: Azeem reist wegen einer Lebensschuld mit.
 
 - Er will die Familie des Sheriffs als Arzt behandeln.: Die Verpflichtung beruht auf der zuvor empfangenen Lebensrettung.
 - Er will Robin für ein Lösegeld ausliefern.: Sein Motiv ist keine Auslieferung gegen Geld.
@@ -1661,7 +1588,6 @@ Wie begegnet Robin (Kevin Costner) in „Robin Hood – König der Diebe“ der 
 
 Robin (Kevin Costner) organisiert die Menschen im Sherwood Forest zu einer Gruppe, die dem Sheriff (Alan Rickman) Widerstand leistet. Ihre Überfälle versorgen verarmte Bewohner mit Geld und Nahrung. Diese Hilfe verschafft ihnen Rückhalt in der Bevölkerung und macht aus Robins persönlichem Konflikt eine gemeinschaftliche Rebellion.
 
-Merksatz: Robins Beute hilft den Armen.
 
 - Er führt für alle Dorfbewohner eine neue Waldsteuer ein.: Die Gruppe erhebt keine solche Waldsteuer.
 - Er verpflichtet die Bauern zum Dienst auf Kreuzzügen.: Robin schickt die Bauern nicht in einen Kreuzzug.
@@ -1683,7 +1609,6 @@ Welche persönliche Verbindung erklärt Will Scarlets (Christian Slater) Feindse
 
 Will Scarlet (Christian Slater) begegnet Robin (Kevin Costner) zunächst mit Misstrauen. Seine spätere Offenbarung legt eine alte familiäre Kränkung frei. Der Streit innerhalb der Gesetzlosen entsteht somit aus einer persönlichen Vorgeschichte und nicht aus einer einfachen Loyalität zum Sheriff.
 
-Merksatz: Wills Zorn wurzelt in der Familie.
 
 - Will ist Robins Halbbruder.: Will fühlt sich als Halbbruder zurückgesetzt.
 - Will ist Robins Stiefvater.: Will und Robin sind Halbbrüder, nicht Stiefvater und Sohn.
@@ -1705,7 +1630,6 @@ Wozu will der Sheriff (Alan Rickman) Marian (Mary Elizabeth Mastrantonio) in „
 
 Marian (Mary Elizabeth Mastrantonio) ist mit König Richard verwandt. Der Sheriff (Alan Rickman) möchte diesen Zusammenhang politisch ausnutzen und setzt Gefangene als Druckmittel ein. Die erzwungene Hochzeit verbindet deshalb Gewalt gegen Einzelne mit seinem Versuch, die Ordnung des Landes zu übernehmen.
 
-Merksatz: Der Sheriff will durch Heirat nach oben.
 
 - Zu einem öffentlichen Verzicht auf ihre Verwandtschaft mit Richard: Die erzwungene Ehe soll gerade ihre königliche Verwandtschaft ausnutzen.
 - Zu einer Ehe, die seinen Anspruch auf Macht stützt: Die Heirat soll ihre königliche Verwandtschaft nutzbar machen.
@@ -1727,7 +1651,6 @@ Wie wird Azeems (Morgan Freeman) Verpflichtung gegenüber Robin (Kevin Costner) 
 
 Mortianna (Geraldine McEwan) bedroht Robin (Kevin Costner) im entscheidenden Kampf. Azeem (Morgan Freeman) greift ein und rettet ihn. Der Film schließt damit den Bogen zur gemeinsamen Flucht: Die einst empfangene Lebensrettung wird durch eine eigene Tat erwidert.
 
-Merksatz: Azeems Lebensschuld endet mit einer Lebensrettung.
 
 - Er rettet Robin vor der Hinrichtung am Galgen.: Die entscheidende Erfüllung der Lebensschuld geschieht bei Mortiannas Angriff.
 - Er stellt sich im letzten Duell zwischen Robin und den Sheriff.: Er schützt Robin vor Mortianna, nicht durch die Übernahme des Sheriff-Duells.
@@ -1749,7 +1672,6 @@ Welche Hilfe Azeems (Morgan Freeman) erleichtert in „Robin Hood – König der
 
 Robin (Kevin Costner) und seine Verbündeten dringen in Nottingham ein, während Hinrichtungen drohen. Azeems (Morgan Freeman) Wissen liefert zusätzliche Mittel für die Rettung. Die Gruppe gewinnt nicht nur durch Schwertkampf: Unterschiedliche Fähigkeiten tragen zu ihrem gemeinsamen Erfolg bei.
 
-Merksatz: Azeems Wissen sprengt die Gefangenschaft.
 
 - Ein Brand der Vorratslager als Ablenkung: Das zusätzliche Mittel ist Azeems explosives Pulver.
 - Ein unter der Mauer gegrabener Fluchttunnel: Ein unterirdischer Fluchtweg ist nicht sein entscheidender Beitrag.
@@ -1771,7 +1693,6 @@ Wann erschien „Robin Hood – König der Diebe“ mit Kevin Costner erstmals i
 
 Kevin Costners Der mit dem Wolf tanzt erschien 1990; Robin Hood – König der Diebe folgte 1991, ein Jahr später. Costner wechselte damit von seinem eigenen Western als Regisseur und Hauptdarsteller zu einem europäischen Sagenhelden unter Kevin Reynolds’ Regie. Die benachbarten Jahre verbinden zwei große Kostümabenteuer, in denen derselbe Star eine Verbindung zu einer bedrohten Gemeinschaft aufbaut.
 
-Merksatz: 1990 Costners Western – 1991 sein Robin Hood: ein Jahr Abstand.
 
 - 1991: Die Costner-Fassung erschien 1991.
 - 1987: 1987 liegt vier Jahre davor.
@@ -1793,7 +1714,6 @@ Wer inszenierte „Robin Hood – König der Diebe“ mit Kevin Costner und Morg
 
 Kevin Reynolds inszeniert die Reise von der Gefangenschaft zur Gemeinschaft im Sherwood Forest. Die Regieangabe gehört zur Costner-Fassung mit Morgan Freeman. Gerade bei einem oft verfilmten Helden muss der Credit über Besetzung und Untertitel eindeutig einer Produktion zugeordnet werden.
 
-Merksatz: Reynolds inszeniert Costners Robin Hood.
 
 - Ridley Scott: Scott führte bei dieser Fassung nicht Regie.
 - Kevin Reynolds: Kevin Reynolds führte Regie.
@@ -1819,7 +1739,6 @@ Welchen militärischen Dienst verrichtet Robin (Russell Crowe) zu Beginn von „
 
 Robin Longstride (Russell Crowe) kehrt als Kriegsveteran aus Richards Heer zurück. Er startet damit nicht als der bereits etablierte Waldrebell. Die Geschichte entwickelt die spätere Legende aus dem Weg eines Soldaten, der den Kriegsdienst hinter sich lässt.
 
-Merksatz: Vor dem Wald steht Robins Kriegsdienst.
 
 - Er führt die französische Flotte.: Er kämpft nicht für die französische Flotte.
 - Er ist Befehlshaber der königlichen Leibgarde.: Er beginnt nicht als Befehlshaber der Leibgarde.
@@ -1841,7 +1760,6 @@ Welche Identität übernimmt Robin (Russell Crowe) in „Robin Hood“ bei seine
 
 Robin (Russell Crowe) begegnet dem sterbenden Robert Loxley (Douglas Hodge). Aus dessen letzter Bitte entsteht eine neue Rolle. In England hält er die fremde Identität aufrecht und wird so mit einer Familie und deren gefährdetem Besitz verbunden.
 
-Merksatz: Longstride kehrt als Loxley zurück.
 
 - Die des verstorbenen Robert Loxley: Er gibt sich als Robert Loxley aus.
 - Die des getöteten Königs Richard: Er übernimmt Loxleys Identität, nicht die Richards.
@@ -1863,7 +1781,6 @@ Warum bittet Sir Walter Loxley (Max von Sydow) Robin (Russell Crowe) in „Robin
 
 Sir Walter (Max von Sydow) weiß, dass sein Sohn tot ist. Robin (Russell Crowe) soll dennoch dessen Platz einnehmen, damit das Gut geschützt bleibt. Marian (Cate Blanchett) muss damit einen Fremden in der Rolle ihres Ehemannes dulden; das politische Problem verändert das private Leben.
 
-Merksatz: Die falsche Identität schützt Loxleys Land.
 
 - Damit Robin die Vollmacht für den königlichen Steuerzug erhält: Der Schein eines lebenden Erben schützt das Familiengut.
 - Damit die Krone den Familienbesitz nicht einzieht: Ein lebender Erbe soll die Einziehung des Besitzes verhindern.
@@ -1885,7 +1802,6 @@ Was fordert Robin (Russell Crowe) in „Robin Hood“ von König John (Oscar Isa
 
 Die englischen Barone sind über königliche Willkür zerstritten. Robin (Russell Crowe) verlangt von John (Oscar Isaac) Rechte als Grundlage eines gemeinsamen Widerstands. Der Film verbindet die Verteidigung gegen äußere Gefahr damit mit einer Forderung nach einer anderen inneren Ordnung.
 
-Merksatz: Gemeinsamer Kampf braucht zugesicherte Rechte.
 
 - Die unmittelbare Abdankung zugunsten eines anderen Königs: Robin verlangt garantierte Rechte, keine sofortige Abdankung.
 - Die Übergabe der Kriegsführung an die französische Krone: Die Vereinbarung soll gerade einen gemeinsamen Kampf gegen Frankreich ermöglichen.
@@ -1907,7 +1823,6 @@ Welchen Zweck verfolgen Godfreys (Mark Strong) gewaltsame Steuerzüge in „Robi
 
 Godfrey (Mark Strong) handelt scheinbar im Auftrag König Johns (Oscar Isaac). Seine französischen Helfer verschärfen aber den Streit mit den Baronen. Die Übergriffe sollen das Land so schwächen, dass König Philip (Jonathan Zaccaï) leichter eindringen kann.
 
-Merksatz: Godfreys Steuern sind ein Spaltungswerkzeug.
 
 - Das Heer für einen Feldzug zur Befreiung Richards bezahlen: Richard ist bereits tot; der wirkliche Plan ist die französische Invasion.
 - Die Adligen zum Verkauf ihres Landes an die Krone zwingen: Die gezielte Spaltung geht über königlichen Landgewinn hinaus.
@@ -1929,7 +1844,6 @@ Warum endet Robin (Russell Crowe) in „Robin Hood“ trotz seines Erfolgs gegen
 
 John (Oscar Isaac) hatte Rechte zugesagt, um Unterstützung gegen Frankreich zu gewinnen. Nach dem Sieg sieht er Robin (Russell Crowe) als Bedrohung und widerruft die Zusage. Erst diese Wendung führt die Gruppe in den Wald und schafft den vertrauten Zustand der Legende.
 
-Merksatz: Der gebrochene Vertrag macht Robin zum Gesetzlosen.
 
 - John bricht sein Versprechen und erklärt ihn zum Feind.: Der König verweigert die versprochenen Rechte und ächtet Robin.
 - Die Barone machen Robin für ihre Verluste verantwortlich.: John ächtet ihn aus Angst vor seiner gewachsenen Bedeutung.
@@ -1951,7 +1865,6 @@ In welchem Jahr erschien „Robin Hood“ mit Russell Crowe und Cate Blanchett?
 
 Ridley Scott und Russell Crowe hatten 2000 Gladiator ins Kino gebracht. Robin Hood folgte 2010, zehn Jahre später, erneut mit Scott als Regisseur und Crowe als Hauptdarsteller. Der zeitliche Abstand verbindet zwei historische Großabenteuer derselben Zusammenarbeit. Statt eines römischen Kämpfers steht nun ein Mann im mittelalterlichen England im Zentrum, dessen Erfahrungen ihn gegen die bestehende Machtordnung führen.
 
-Merksatz: 2000 Gladiator – 2010 Robin Hood: zehn Jahre Scott und Crowe.
 
 - 2006: 2006 liegt vier Jahre davor.
 - 2010: Diese Vorgeschichte erschien 2010.
@@ -1973,7 +1886,6 @@ Wer inszenierte „Robin Hood“ mit Russell Crowe als heimkehrendem Bogenschüt
 
 Ridley Scott verlegt den Schwerpunkt auf Krieg, Identitätswechsel und die politische Vorgeschichte des Waldrebellen. Der Regiecredit gehört zum Film mit Russell Crowe. Scotts Fassung ist daher über Besetzung und erzählerischen Ausgangspunkt von anderen Robin-Hood-Adaptionen zu trennen.
 
-Merksatz: Scott erzählt Crowes Robin-Vorgeschichte.
 
 - Kevin Reynolds: Reynolds inszenierte die Costner-Fassung.
 - John Irvin: Irvin inszenierte die Bergin-Fassung.
@@ -1999,7 +1911,6 @@ Was treibt Kapitän Ahab (Gregory Peck) in „Moby Dick“ auf seiner Fahrt beso
 
 Ahab (Gregory Peck) hat ein Bein durch den weißen Wal verloren. Er macht die Fahrt der Pequod zu einer persönlichen Vergeltungsjagd. Die Mannschaft befindet sich dadurch auf einem Walfangschiff, dessen Kapitän wirtschaftlichen Erfolg und Sicherheit einem anderen Ziel unterordnet.
 
-Merksatz: Ahab macht Walfang zur Rache.
 
 - Rache an dem Wal, der ihm ein Bein genommen hat: Ahabs persönliche Rache bestimmt die Jagd.
 - Der Wunsch, die höchste Ölmenge aller Walfangschiffe zu gewinnen: Er stellt die persönliche Rache über den wirtschaftlichen Walfang.
@@ -2021,7 +1932,6 @@ Aus wessen Erinnerung wird die Seereise in „Moby Dick“ erzählt?
 
 Ismael (Richard Basehart) heuert mit Queequeg (Friedrich von Ledebur) auf der Pequod an. Seine Erzählung führt das Publikum zu einem Kapitän, den es zunächst nur aus Warnungen kennt. Dass er später als einziger überlebt, gibt diesem Bericht seine besondere Perspektive.
 
-Merksatz: Ismael trägt die Erinnerung der Fahrt.
 
 - Aus der Erinnerung Ahabs (Gregory Peck): Ahab überlebt die Fahrt nicht.
 - Aus der Erinnerung Ismaels (Richard Basehart): Ismael berichtet als Überlebender.
@@ -2043,7 +1953,6 @@ Wie reagieren Starbucks (Leo Genn) Mitoffiziere in „Moby Dick“, als er sie f
 
 Starbuck (Leo Genn) sieht die Sicherheit der Pequod durch Ahabs (Gregory Peck) Jagd gefährdet. Er schlägt den Offizieren Stubb (Harry Andrews) und Flask (Seamus Kelly) vor, dem Kapitän das Kommando zu entziehen. Sie lehnen ab. Seine Erkenntnis der Gefahr führt daher nicht zu einer gemeinsam getragenen Gegenmacht: Die Loyalitätsordnung bleibt bestehen, obwohl ihr Kurs immer bedrohlicher wird.
 
-Merksatz: Starbuck erkennt die Gefahr, findet aber keine Verbündeten für die Absetzung.
 
 - Sie nehmen Ahab noch in derselben Nacht fest.: Die gemeinsame Verhaftung findet nicht statt.
 - Sie wollen nur Ismael zum neuen Kapitän machen.: Sie beschließen keine Einsetzung Ismaels als Kapitän.
@@ -2065,7 +1974,6 @@ Worin liegt Ahabs (Gregory Peck) Entscheidung bei der Begegnung mit der Rachel i
 
 Kapitän Gardiner (Francis de Wolff) sucht seinen verschwundenen Sohn und bittet um Hilfe. Ahab (Gregory Peck) setzt die eigene Verfolgung fort. Die Begegnung zeigt seine Prioritäten anhand einer konkreten menschlichen Bitte; später rettet gerade die Rachel Ismael (Richard Basehart).
 
-Merksatz: Ahab verweigert Hilfe – die Rachel rettet später.
 
 - Er nimmt den Kapitän als neuen Harpunier auf sein Schiff auf.: Er nimmt ihn nicht als Harpunier auf.
 - Er vereinbart ein Treffen nach dem Ende der Waljagd.: Er verschiebt die Hilfe nicht durch eine konkrete Treffensabsprache.
@@ -2087,7 +1995,6 @@ Wie wird Queequegs (Friedrich von Ledebur) erwarteter Tod in „Moby Dick“ une
 
 Queequeg (Friedrich von Ledebur) lässt einen Sarg bauen, weil er seinen Tod erwartet. Er überlebt zunächst, doch das Objekt bleibt an Bord. Nach dem Untergang hält es Ismael (Richard Basehart) über Wasser: Ein Zeichen des erwarteten Todes wird zum Mittel des Überlebens.
 
-Merksatz: Queequegs Sarg trägt Ismael ins Leben.
 
 - Sein angefertigter Sarg wird zur schwimmenden Rettung.: Ismael hält sich nach dem Untergang am Sarg fest.
 - Sein hinterlassenes Boot trägt Ismael aus den Trümmern.: Ismael rettet sich am schwimmenden Sarg statt in einem hinterlassenen Boot.
@@ -2109,7 +2016,6 @@ Was macht Starbuck (Leo Genn) in „Moby Dick“ nach Ahabs Tod im Kampf gegen d
 
 Starbuck (Leo Genn) hatte Ahabs (Gregory Peck) Fixierung kritisiert. Als der Kapitän auf dem Wal stirbt, führt er die Männer dennoch weiter in den Kampf. Die Filmfassung zeigt so, wie Ahabs Besessenheit über seinen Tod hinaus die Entscheidungen der Mannschaft bestimmt.
 
-Merksatz: Ahabs Jagd dauert nach Ahab an.
 
 - Er stellt die Überlebenden für eine sofortige Rückkehr zusammen.: Starbuck setzt die Verfolgung fort.
 - Er lässt die Männer die Jagd fortsetzen.: Auch Starbuck ordnet jetzt die weitere Verfolgung an.
@@ -2131,7 +2037,6 @@ Wann kam „Moby Dick“ mit Gregory Peck als Ahab erstmals ins Kino?
 
 Herman Melvilles Roman Moby-Dick erschien 1851. John Hustons Verfilmung mit Gregory Peck als Kapitän Ahab wurde 1956 veröffentlicht, 105 Jahre später. Die beiden Jahreszahlen verbinden den amerikanischen Literaturklassiker mit seiner farbigen Kinobearbeitung. Der Abstand erinnert zugleich daran, dass das Erscheinungsjahr der Vorlage und das des Films verschiedene Daten sind, auch wenn beide dieselbe besessene Waljagd erzählen.
 
-Merksatz: 1851 Melvilles Roman – 1956 Hustons Waljagd: 105 Jahre Abstand.
 
 - 1952: 1952 liegt vier Jahre davor.
 - 1960: 1960 liegt vier Jahre danach.
@@ -2153,7 +2058,6 @@ Wer inszenierte „Moby Dick“ mit Gregory Peck, Richard Basehart und Orson Wel
 
 John Huston inszeniert Melvilles Roman und beteiligt sich am Drehbuch. Gregory Peck verkörpert den Kapitän, Orson Welles tritt als Pater Mapple auf. Welles’ markanter Auftritt ist ein Schauspielcredit und darf bei dieser Fassung nicht mit der Regie verwechselt werden.
 
-Merksatz: Huston inszeniert, Welles spielt den Prediger.
 
 - David Lean: Lean inszenierte diese Fassung nicht.
 - Carol Reed: Reed inszenierte diese Fassung nicht.
@@ -2179,7 +2083,6 @@ Welche Ladung soll die Bounty in „Die Bounty“ von Tahiti in die Karibik brin
 
 Bligh (Anthony Hopkins) führt eine wirtschaftlich gedachte Expedition nach Tahiti. Die Pflanzen sollen in der Karibik nutzbar werden. Der ursprüngliche Auftrag ist deshalb von jener Meuterei zu unterscheiden, die später das Schiff und die Beziehungen seiner Männer beherrscht.
 
-Merksatz: Brotfrucht ist der Auftrag, Meuterei der Bruch.
 
 - Tabakpflanzen: Tabak ist nicht die vorgesehene Nutzpflanze.
 - Brotfruchtpflanzen: Die Expedition dient dem Transport von Brotfruchtpflanzen.
@@ -2201,7 +2104,6 @@ Wo finden die Meuterer um Christian (Mel Gibson) in „Die Bounty“ schließlic
 
 Christian (Mel Gibson) sucht nach der Rückkehr nach Tahiti einen Ort außerhalb des Zugriffs der Marine. Pitcairn bietet diese Hoffnung. Der Rückzug ist zugleich eine Entscheidung, die Verbindung zum früheren Leben zu kappen, statt einfach einen neuen Hafen anzulaufen.
 
-Merksatz: Pitcairn steht für einen endgültigen Rückzug.
 
 - Auf Tahiti: Tahiti verlassen sie, weil sie dort nicht sicher bleiben können.
 - Auf Tofua: Tofua gehört zu Blighs Notfahrt.
@@ -2223,7 +2125,6 @@ Wie gliedert „Die Bounty“ die Geschichte um Bligh (Anthony Hopkins)?
 
 Bligh (Anthony Hopkins) muss den Verlust der Bounty erklären. Die Rückblenden erschließen zunächst die Reise und dann den wachsenden Konflikt. Das Publikum sieht den Kommandanten damit zugleich in den Ereignissen und in einer Situation, in der sein Verhalten beurteilt wird.
 
-Merksatz: Die Untersuchung öffnet die Rückblenden.
 
 - Christians Bericht wird als ausschließlich lineare Erinnerung erzählt.: Die Untersuchung Blighs rahmt die Rückblenden.
 - Ein Erzähler verfolgt nur die letzten Tage auf Pitcairn.: Der Film zeigt weit mehr als nur Pitcairn.
@@ -2245,7 +2146,6 @@ Was geschieht mit Bligh (Anthony Hopkins) unmittelbar nach Christians (Mel Gibso
 
 Christian (Mel Gibson) nimmt das Schiff in seine Gewalt. Bligh (Anthony Hopkins) und die loyalen Männer werden mit knappen Vorräten ausgesetzt. Der Film trennt danach zwei Reisen: die Suche der Meuterer nach einem Versteck und Blighs Kampf, seine Gruppe lebend in Sicherheit zu bringen.
 
-Merksatz: Die Meuterei teilt eine Reise in zwei.
 
 - Er wird mit loyalen Männern in einem offenen Boot ausgesetzt.: Die Meuterer setzen ihn in einer Barkasse aus.
 - Er bleibt als Gefangener in seiner eigenen Kajüte.: Bligh verliert das Schiff und kommt in das offene Boot.
@@ -2267,7 +2167,6 @@ Warum wird Blighs (Anthony Hopkins) Führung in „Die Bounty“ nach der Meuter
 
 Der strenge Bligh (Anthony Hopkins) muss in der Barkasse seine Kräfte und die knappen Mittel anders einsetzen. Navigation und Führung bringen die Überlebenden in Sicherheit. Die Filmfassung lässt ihn dadurch nicht auf das Bild eines bloß grausamen Gegners Christians (Mel Gibson) reduzieren.
 
-Merksatz: Blighs Disziplin kann auch Leben retten.
 
 - Er beendet die Notfahrt durch einen Handel mit Christian.: Ein Handel mit Christian beendet die Fahrt nicht.
 - Seine Navigation und Selbstdisziplin helfen den Ausgesetzten zu überleben.: In der Notfahrt zeigt Bligh Fähigkeiten, die Leben erhalten.
@@ -2289,7 +2188,6 @@ Warum verbrennen Christian (Mel Gibson) und seine Männer in „Die Bounty“ di
 
 Die Bounty brachte die Meuterer nach Pitcairn. Dort wird sie zum Risiko: Ein sichtbares Schiff könnte ihren Aufenthaltsort verraten. Das Verbrennen schützt die neue Zuflucht und macht zugleich anschaulich, wie endgültig Christian (Mel Gibson) den bisherigen Weg hinter sich lässt.
 
-Merksatz: Die Bounty brennt, damit ihre Spur endet.
 
 - Um ein Notsignal an einen britischen Suchtrupp zu senden: Der Brand soll gerade eine spätere Entdeckung erschweren.
 - Um einen Brand nach dem Ausladen der Vorräte zu bekämpfen: Das Schiff wird absichtlich zerstört, nicht vor einem Unfall gerettet.
@@ -2311,7 +2209,6 @@ In welchem Jahr erschien „Die Bounty“ mit Anthony Hopkins und Mel Gibson?
 
 Die bekannte Meuterei-Verfilmung mit Marlon Brando und Trevor Howard erschien 1962. Die Bounty mit Mel Gibson und Anthony Hopkins folgte 1984, 22 Jahre später. Derselbe historische Konflikt erhält damit eine weitere Besetzung und eine neue filmische Gewichtung. Der Zeitanker hilft, die Fassungen zu unterscheiden, ohne das Datum der tatsächlichen Meuterei mit einem dieser Filmjahre zu verwechseln.
 
-Merksatz: 1962 Brando und Howard – 1984 Gibson und Hopkins: 22 Jahre Abstand.
 
 - 1980: 1980 liegt vier Jahre davor.
 - 1988: 1988 liegt vier Jahre danach.
@@ -2333,7 +2230,6 @@ Wer führte bei „Die Bounty“ mit Anthony Hopkins als Bligh Regie?
 
 Roger Donaldson inszeniert den Konflikt mit Anthony Hopkins und Mel Gibson. Der offizielle BFI-Credit bezeichnet den tatsächlich realisierten Film. Die klare Zuordnung ist bei einem historischen Stoff mit mehreren Verfilmungen und einer langen Entwicklungsgeschichte besonders wichtig.
 
-Merksatz: Donaldson inszeniert Hopkins’ Bounty-Fassung.
 
 - Roger Donaldson: Der ausgeführte Film trägt Roger Donaldsons Regiecredit.
 - David Lean: Lean trägt nicht den Credit dieser fertigen Fassung.
@@ -2359,7 +2255,6 @@ Zwischen welchen beiden Männern steht Guinevere (Julia Ormond) in „Der erste 
 
 Guinevere (Julia Ormond) entscheidet sich für Arthur (Sean Connery), dessen Schutz ihrem Land hilft. Lancelot (Richard Gere) weckt andere Gefühle. Die Handlung verbindet ihre persönliche Zuneigung dadurch mit Verantwortung für die Menschen, über die sie herrscht.
 
-Merksatz: Guinevere verbindet Pflicht mit Arthur, Leidenschaft mit Lancelot.
 
 - Arthur und Merlin: Merlin ist nicht der andere Mann dieses Dreiecks.
 - Lancelot und Galahad: Galahad ist nicht der zweite Partner.
@@ -2381,7 +2276,6 @@ Welche Stellung hatte Malagant (Ben Cross) in „Der erste Ritter“ früher?
 
 Malagant (Ben Cross) stellt Arthurs (Sean Connery) Herrschaft infrage, obwohl er selbst zur Tafelrunde gehörte. Der Gegner kommt damit aus dem früheren Umfeld des Königs. Sein Angriff ist ein Bruch mit der Idee gemeinsamen Dienstes, die Arthur seinen Rittern vermittelt.
 
-Merksatz: Malagant bricht mit der eigenen Tafelrunde.
 
 - Er war ein benachbarter König und Arthurs Verbündeter.: Malagant gehörte zu Arthurs Tafelrunde.
 - Er war der frühere Herrscher von Lyonesse.: Guinevere ist die Herrscherin von Lyonesse; dies erklärt nicht seine frühere Stellung.
@@ -2403,7 +2297,6 @@ Wie begründet Lancelot (Richard Gere) in „Der erste Ritter“ zunächst seine
 
 Lancelot (Richard Gere) lebt zunächst als wandernder Kämpfer ohne festen Platz. Seine Furchtlosigkeit beruht auf Verlust und mangelnder Bindung. Arthur (Sean Connery) fordert ihn dagegen heraus, etwas zu finden, das sein Leben und seinen Dienst wertvoll macht.
 
-Merksatz: Lancelot muss erst etwas zu verlieren finden.
 
 - Sein eigenes Leben bedeutet ihm wenig.: Er erklärt seinen Mut mit fehlender Bindung an das Leben.
 - Er vertraut auf eine geheime Ausbildung bei Arthurs Rittern.: Seine Erklärung betrifft fehlende Lebensbindung statt einer Ausbildung.
@@ -2425,7 +2318,6 @@ Mit welcher Täuschung gelangt Lancelot (Richard Gere) in „Der erste Ritter“
 
 Malagant (Ben Cross) hält Guinevere (Julia Ormond) gefangen. Lancelot (Richard Gere) verlangt als vermeintlicher Bote erst einen Beweis, dass sie lebt. Die List bringt ihn in ihre Nähe; anschließend kann er die Bewacher überwältigen und mit ihr entkommen.
 
-Merksatz: Der falsche Bote kommt zur echten Gefangenen.
 
 - Er meldet sich als neuer Wachmann Malagants.: Er tritt als Bote aus Camelot auf.
 - Er gibt sich als Bote aus Camelot aus.: Als angeblicher Bote verlangt er, die Gefangene lebend zu sehen.
@@ -2447,7 +2339,6 @@ Warum wendet sich Arthurs (Sean Connery) Prozess gegen Guinevere und Lancelot in
 
 Arthur (Sean Connery) will den entdeckten Kuss Guineveres (Julia Ormond) und Lancelots (Richard Gere) öffentlich verhandeln. Malagant (Ben Cross) nutzt diese Situation für seinen Angriff. Der private Vertrauensbruch wird von einer Gefahr überlagert, die die ganze Gemeinschaft betrifft.
 
-Merksatz: Malagants Angriff überlagert den Ehekonflikt.
 
 - Die Ritter versuchen Guinevere heimlich aus dem Verfahren zu befreien.: Malagants bewaffneter Angriff verändert die Lage.
 - Der öffentliche Prozess löst eine Meuterei der königlichen Wachen aus.: Die Gefahr kommt durch Malagant statt durch eine Wachmeuterei.
@@ -2469,7 +2360,6 @@ Welche Aufgabe überträgt der sterbende Arthur (Sean Connery) Lancelot (Richard
 
 Lancelot (Richard Gere) hat Malagant (Ben Cross) besiegt. Arthur (Sean Connery) vertraut ihm vor seinem Tod die Verantwortung für Camelot und Guinevere (Julia Ormond) an. Damit erhält der frühere Wanderer endgültig jene Bindung, die seinem Mut zu Beginn gefehlt hatte.
 
-Merksatz: Lancelots Mut bekommt Verantwortung.
 
 - Guinevere nach Lyonesse zu begleiten und dort zu bleiben: Der Schutzauftrag gilt gemeinsam Guinevere und Camelot, nicht einer dauerhaften Rückkehr nach Lyonesse.
 - Die Ritter vom Hof zu entlassen und das Heer aufzulösen: Arthur setzt die gemeinsame Schutzaufgabe fort statt sie aufzulösen.
@@ -2491,7 +2381,6 @@ Wann erschien „Der erste Ritter“ mit Sean Connery und Richard Gere im Kino?
 
 Sean Connerys erster James-Bond-Kinofilm James Bond jagt Dr. No erschien 1962. Der erste Ritter folgte 1995, 33 Jahre später, mit Connery als König Arthur und Richard Gere als Lancelot. Die weit auseinanderliegenden Jahre verbinden zwei unterschiedliche Heldenbilder desselben Stars: den aktiven Geheimagenten und den älteren Herrscher, dessen politische und persönliche Ordnung in Gefahr gerät.
 
-Merksatz: 1962 Connerys erster Bond – 1995 sein Arthur: 33 Jahre Abstand.
 
 - 1995: Der Film erschien 1995.
 - 1991: 1991 liegt vier Jahre davor.
@@ -2513,7 +2402,6 @@ Wer inszenierte „Der erste Ritter“ mit Sean Connery, Richard Gere und Julia 
 
 Jerry Zucker inszeniert den Artus-Stoff mit einem Schwerpunkt auf Liebe, Vertrauen und Verantwortung. Die Regiefrage gilt dem Film mit Connery, Gere und Ormond. Andere Artus-Verfilmungen können ähnliche Figuren zeigen, besitzen aber eigene Besetzungen und Regiecredits.
 
-Merksatz: Zucker inszeniert das Ritterdreieck.
 
 - John Boorman: Boorman inszenierte diese Fassung nicht.
 - Jerry Zucker: Jerry Zucker führte Regie.
@@ -2539,7 +2427,6 @@ Welche Verbindung besteht in „Der Mann in der eisernen Maske“ zwischen Köni
 
 Leonardo DiCaprio spielt Louis und Philippe als zwei verschiedene Menschen. Louis herrscht, Philippe wird verborgen gehalten. Ihre Ähnlichkeit ermöglicht den Austauschplan; die Doppelrolle des Darstellers bedeutet also keine tatsächliche Verwandlung einer einzigen Figur.
 
-Merksatz: Ein Darsteller, zwei Zwillingsfiguren.
 
 - Sie sind Halbbrüder mit verschiedenen Müttern.: Die Filmhandlung bezeichnet sie als Zwillinge.
 - Philippe ist ein eigens ausgebildeter Doppelgänger ohne Verwandtschaft.: Die Ähnlichkeit beruht in der Geschichte auf Verwandtschaft.
@@ -2561,7 +2448,6 @@ Was wollen Athos, Porthos und Aramis in „Der Mann in der eisernen Maske“ mit
 
 Athos (John Malkovich), Porthos (Gérard Depardieu) und Aramis (Jeremy Irons) befreien Philippe (Leonardo DiCaprio). Sie wollen die äußere Ähnlichkeit der Brüder nutzen, aber eine andere Art zu herrschen ermöglichen. Die Identitätstäuschung dient einem politischen Wechsel hinter unverändertem Erscheinungsbild.
 
-Merksatz: Gleiches Gesicht soll andere Herrschaft bringen.
 
 - Den grausamen König durch seinen Bruder ersetzen: Philippe soll Louis heimlich auf dem Thron ersetzen.
 - Philippe als offenen Gegenkönig mit eigenem Hof ausrufen: Der Wechsel soll heimlich hinter derselben königlichen Identität erfolgen.
@@ -2583,7 +2469,6 @@ Warum wendet sich Athos (John Malkovich) in „Der Mann in der eisernen Maske“
 
 Louis (Leonardo DiCaprio) begehrt Christine (Judith Godrèche), die Verlobte Raouls (Peter Sarsgaard). Er lässt den jungen Mann an die Front schicken, wo er stirbt. Für dessen Vater Athos (John Malkovich) wird aus dem missbrauchten königlichen Befehl eine persönliche Schuld des Herrschers.
 
-Merksatz: Raouls Tod zerbricht Athos’ Treue.
 
 - Louis nimmt ihm den Besitz und überträgt ihn Aramis.: Der konkrete Bruch entsteht durch Raouls Tod.
 - Louis schickt seinen Sohn Raoul in den Tod.: Raouls Tod löst den persönlichen Bruch aus.
@@ -2605,7 +2490,6 @@ Wodurch bemerkt D’Artagnan (Gabriel Byrne) in „Der Mann in der eisernen Mask
 
 Christine (Judith Godrèche) klagt den vermeintlichen König öffentlich an. Philippe (Leonardo DiCaprio) reagiert gütiger, als D’Artagnan (Gabriel Byrne) es von Louis kennt. Gerade die gewünschte menschliche Verbesserung macht den heimlichen Wechsel daher erkennbar.
 
-Merksatz: Philippes Güte verrät den Austausch.
 
 - Er verweigert ohne Begründung die Ansprache an die Gäste.: Sein Mitgefühl für Christine ist das entscheidende Signal.
 - Er erkennt den Namen seines früheren Ministers nicht wieder.: Ein vergessener Ministername verrät den Wechsel nicht.
@@ -2627,7 +2511,6 @@ Welche Verantwortung belastet Aramis (Jeremy Irons) gegenüber Philippe (Leonard
 
 Aramis (Jeremy Irons) kennt die verborgene Familiengeschichte und seine eigene Rolle darin. Mit der Befreiung Philippes (Leonardo DiCaprio) will er einen früheren königlichen Auftrag wiedergutmachen. Seine politische Intrige hat dadurch auch eine persönliche Seite: Er versucht, eigenes Unrecht zu korrigieren.
 
-Merksatz: Aramis befreit den Mann, den er selbst einsperren ließ.
 
 - Er hatte Philippe die falsche Nachricht vom Tod seiner Mutter gebracht.: Sein Schuldanteil betrifft Maskierung und Haft.
 - Er hatte Philippe als Jungen an einen ausländischen Hof verkauft.: Ein Verkauf an einen fremden Hof ist nicht sein Auftrag gewesen.
@@ -2649,7 +2532,6 @@ Was erklärt D’Artagnans (Gabriel Byrne) besondere Verbindung zu beiden Brüde
 
 D’Artagnan (Gabriel Byrne) hat lange die Königin Anne (Anne Parillaud) geliebt. Die Filmfassung macht ihn zum Vater von Louis und Philippe (Leonardo DiCaprio). Diese erfundene Enthüllung erklärt seine zerrissene Loyalität; sie ist als Filmsachverhalt zu behandeln, nicht als belegte französische Geschichte.
 
-Merksatz: D’Artagnans Treue ist auch väterliche Bindung.
 
 - Er ist ihr leiblicher Vater.: Die Filmhandlung enthüllt ihn als Vater der Zwillinge.
 - Er hatte beide im Auftrag ihres Vaters heimlich erzogen.: Die enthüllte Bindung ist biologische Vaterschaft.
@@ -2671,7 +2553,6 @@ Wann erschien „Der Mann in der eisernen Maske“ mit Leonardo DiCaprio in der 
 
 Titanic mit Leonardo DiCaprio erschien 1997. Der Mann in der eisernen Maske folgte 1998, ein Jahr später, und gab ihm eine Doppelrolle als König Louis XIV. und dessen verborgener Bruder Philippe. Der enge Abstand verbindet den romantischen Passagier des Atlantikdampfers mit zwei gegensätzlichen Figuren im französischen Königsdrama. Derselbe Darsteller trägt hier den politischen Gegensatz auch durch sein doppeltes Gesicht.
 
-Merksatz: 1997 Titanic – 1998 die königliche Doppelrolle: ein Jahr Abstand.
 
 - 1994: 1994 liegt vier Jahre davor.
 - 1998: Diese Fassung erschien 1998.
@@ -2693,7 +2574,6 @@ Wer inszenierte „Der Mann in der eisernen Maske“ mit Leonardo DiCaprio und G
 
 Randall Wallace schrieb und inszenierte diese freie Weiterführung der Musketierwelt. Die Doppelrolle Leonardo DiCaprios steht im Mittelpunkt einer Geschichte über Herrschaft und Loyalität. Die Regieangabe gilt der United-Artists-Produktion mit Gabriel Byrne und nicht allen Verfilmungen der Maskenlegende.
 
-Merksatz: Wallace führt DiCaprio hinter die Maske.
 
 - Richard Lester: Lester inszenierte andere Musketierfilme.
 - Jerry Zucker: Zucker inszenierte diese Dumas-Fassung nicht.
@@ -2719,7 +2599,6 @@ Welche öffentliche Rolle nimmt Diego (Alain Delon) in „Zorro“ an, während 
 
 Diego (Alain Delon) tritt unter dem Namen des ermordeten Miguel (Marino Masé) als Gouverneur auf. Parallel schafft er Zorro als maskierten Kämpfer. Die Filmhandlung enthält damit mehrere Rollen desselben Menschen: Die sichtbare Amtsfigur und der geheime Held verfolgen gemeinsam ein Ziel.
 
-Merksatz: Diego regiert getarnt und kämpft maskiert.
 
 - Die eines neuen Gouverneurs: Diego übernimmt das Amt unter der Identität seines Freundes.
 - Die eines Wanderpredigers: Er gibt sich nicht als Prediger aus.
@@ -2741,7 +2620,6 @@ Welcher Gegenspieler will in „Zorro“ neben seiner militärischen Macht auch 
 
 Huerta (Stanley Baker) verbindet militärische Kontrolle mit dem Wunsch nach ziviler Herrschaft. Diego (Alain Delon) täuscht ihn durch seine scheinbar hilflose Amtsführung. Der Widerstand richtet sich daher gegen einen Gegner, dessen Macht auf Angst und persönlicher Einschüchterung beruht.
 
-Merksatz: Huerta will Macht durch Angst.
 
 - Miguel de la Serna (Marino Masé): Miguel ist der ermordete rechtmäßige Amtsnachfolger, nicht der diktatorische Rivale.
 - Colonel Huerta (Stanley Baker): Huerta kontrolliert die Region mit Gewalt.
@@ -2763,7 +2641,6 @@ Welches Versprechen an Miguel (Marino Masé) belastet Diego (Alain Delon) in „
 
 Der sterbende Miguel (Marino Masé) überträgt Diego (Alain Delon) nicht nur seine Identität, sondern auch eine moralische Verpflichtung. Der Kampf gegen Huerta (Stanley Baker) muss zunächst mit diesem Verzicht vereinbar bleiben. Die erfolgreiche Täuschung schafft somit eine neue Grenze für den Helden.
 
-Merksatz: Das fremde Amt bringt ein Tötungsverbot mit.
 
 - Der neue Gouverneur soll auf eine eigene Armee verzichten.: Der Schwur betrifft das Töten, nicht die Größe einer eigenen Truppe.
 - Der neue Gouverneur soll keine Steuern erhöhen.: Steuerpolitik ist nicht der Inhalt des Versprechens.
@@ -2785,7 +2662,6 @@ Wozu spielt Diego (Alain Delon) in „Zorro“ den unfähigen, eitlen Gouverneur
 
 Diego (Alain Delon) wirkt im Amt absichtlich harmlos. Huerta (Stanley Baker) soll keinen ebenbürtigen Gegner vermuten. Die Schwertkünste Zorros und das Auftreten des Gouverneurs passen dadurch scheinbar nicht zusammen, obwohl beide Rollen von demselben Mann ausgefüllt werden.
 
-Merksatz: Diego tarnt Stärke als Schwäche.
 
 - Damit er Zugang zu Huertas geheimer Kriegskasse erhält: Eine Kriegskasse ist nicht das Ziel dieser gespielten Schwäche.
 - Damit die spanische Krone ihn wegen Unfähigkeit zurückruft: Er will seinen Handlungsspielraum behalten, nicht abberufen werden.
@@ -2807,7 +2683,6 @@ Was erreicht Diego (Alain Delon) in „Zorro“ mit der inszenierten Entführung
 
 Diego (Alain Delon) setzt seine beiden Erscheinungsformen innerhalb einer einzigen Täuschung ein. Huerta (Stanley Baker) glaubt, die störenden Gegner seien verschwunden. Das verschafft dem Helden Handlungsspielraum und macht deutlich, wie die Doppelidentität auch als Werkzeug einer Inszenierung genutzt wird.
 
-Merksatz: Zwei scheinbare Opfer verbergen einen lebenden Gegner.
 
 - Huerta hält schließlich Gouverneur und Zorro für beseitigt.: Die Inszenierung täuscht Huerta über beide Identitäten.
 - Huerta legt deshalb freiwillig sein militärisches Amt nieder.: Huerta fühlt sich nach dem vermeintlichen Tod sicherer in seiner Macht.
@@ -2829,7 +2704,6 @@ Welches Ereignis führt in „Zorro“ zum entscheidenden tödlichen Duell mit H
 
 Bruder Francisco (Giampiero Albertini) führt Protestierende zur Kirche. Huerta (Stanley Baker) erschießt ihn. Diego (Alain Delon) betrachtet den Mord als Ende seiner bisherigen Bindung an den Gewaltverzicht und stellt sich dem Gegner im letzten Duell.
 
-Merksatz: Franciscos Tod führt zum letzten Duell.
 
 - Huerta nimmt Hortensia als Geisel mit nach Spanien.: Die tödliche Eskalation beginnt hier mit dem Mord an Francisco.
 - Huerta erschießt Bruder Francisco.: Der Mord an Francisco löst den letzten Kampf aus.
@@ -2851,7 +2725,6 @@ Wann erschien „Zorro“ mit Alain Delon erstmals im Kino?
 
 Alain Delon spielte bereits 1964 im Mantel-und-Degen-Film Die schwarze Tulpe. Zorro folgte 1975, elf Jahre später. Der Zeitanker verbindet zwei historische Abenteuer mit demselben Hauptdarsteller und verhindert die Verwechslung der Fassungen mit anderen Zorro-Filmen. Delons europäische Zorro-Bearbeitung stellt eine maskierte Widerstandsfigur in den Mittelpunkt, während die frühere Rolle seine Verbindung zum Genre schon zuvor sichtbar machte.
 
-Merksatz: 1964 Schwarze Tulpe – 1975 Zorro: elf Jahre Delons Degenabenteuer.
 
 - 1971: 1971 liegt vier Jahre davor.
 - 1979: 1979 liegt vier Jahre danach.
@@ -2873,7 +2746,6 @@ Wer führte bei „Zorro“ mit Alain Delon und Stanley Baker Regie?
 
 Duccio Tessari inszeniert Alain Delons wechselnde Rollen zwischen Amtsmann und maskiertem Kämpfer. Der Titanus-Katalog ordnet ihm diese italienisch-französische Produktion zu. Die Regiefrage betrifft damit die Delon-Fassung und nicht die späteren Abenteuer mit Antonio Banderas.
 
-Merksatz: Tessari führt Delon unter die Maske.
 
 - Sergio Leone: Leone inszenierte diese Delon-Fassung nicht.
 - Sergio Corbucci: Corbucci trägt diesen Credit nicht.
@@ -2899,7 +2771,6 @@ Welches familiäre Geheimnis belastet Alejandro (Antonio Banderas) in „Die Leg
 
 Alejandro (Antonio Banderas) kämpft weiter als Zorro, obwohl seine Familie die Folgen trägt. Joaquín (Adrián Alonso) weiß zunächst nichts von der zweiten Identität seines Vaters. Die Gefahr für die Familie entsteht daher nicht nur durch Gegner, sondern auch durch das Verbergen einer zentralen Wahrheit.
 
-Merksatz: Zorros Sohn kennt Zorro im Vater nicht.
 
 - Sein Sohn hält Elena für eine Gefangene des Gouverneurs.: Joaquín kennt zunächst vor allem die geheime Rolle seines Vaters nicht.
 - Sein Sohn weiß nicht, dass er Zorro ist.: Die geheime Heldenrolle wird vor Joaquín verborgen.
@@ -2921,7 +2792,6 @@ Welche politische Entscheidung steht in „Die Legende des Zorro“ für Kalifor
 
 Zorro (Antonio Banderas) schützt bereits am Anfang die Stimmzettel einer Abstimmung. Die Handlung setzt das Familienabenteuer in die Zeit vor Kaliforniens US-Beitritt. Diese Übergangslage erklärt zugleich, warum fremde Interessen versuchen, den politischen Wechsel gewaltsam zu beeinflussen.
 
-Merksatz: Kaliforniens Beitritt steht auf dem Spiel.
 
 - Die Rückkehr unter französische Herrschaft: Eine französische Rückkehr steht nicht zur Abstimmung.
 - Die Krönung eines eigenen Kaisers: Ein Kaiser soll nicht gekrönt werden.
@@ -2943,7 +2813,6 @@ Warum trennt sich Elena (Catherine Zeta-Jones) in „Die Legende des Zorro“ ta
 
 Die Trennung erscheint Alejandro (Antonio Banderas) zunächst als persönlicher Bruch. Elena (Catherine Zeta-Jones) wird jedoch mit dem Wissen um seine Identität erpresst. Sie soll Armand (Rufus Sewell) ausforschen; ihr Verhalten hat einen verborgenen Auftrag, den ihr Mann noch nicht kennt.
 
-Merksatz: Elenas Trennung verbirgt einen erzwungenen Auftrag.
 
 - Sie will Alejandro durch eine vorgetäuschte neue Liebe zur Aufgabe Zorros bewegen.: Ihre Annäherung an Armand dient dem von Agenten erzwungenen Auftrag.
 - Armand droht ihr selbst mit der Entführung ihres Sohnes.: Zu Beginn zwingen Pinkerton-Agenten sie in die Trennung, nicht eine solche Drohung Armands.
@@ -2965,7 +2834,6 @@ Welche Tarnung nutzt Armand (Rufus Sewell) in „Die Legende des Zorro“ für g
 
 Alejandro (Antonio Banderas) entdeckt zunächst eine scheinbar harmlose Seifenladung. Die Verbindung zu Armands (Rufus Sewell) Organisation verändert ihre Bedeutung: Glycerin kann zur Herstellung des im Film eingesetzten Nitroglycerins dienen. Das Alltagsprodukt verschleiert damit eine militärisch gedachte Lieferung.
 
-Merksatz: Harmlose Seife verbirgt die Sprengstofflieferung.
 
 - Seifenstücke verbergen den Rohstoff für Sprengstoff.: Die Seifenladung enthält Glycerin für Sprengstoff.
 - Weinfässer tarnen gestohlene Gewehre.: Das Weingut dient als Deckung, doch die gefragte Fracht ist Seife.
@@ -2987,7 +2855,6 @@ Warum gelingt es Padre Felipe (Julio Oscar Mechoso) in „Die Legende des Zorro�
 
 McGivens (Nick Chinlund) schießt auf Padre Felipe (Julio Oscar Mechoso). Der Priester überlebt, weil sein Kreuz die Kugel aufhält. Sein späteres Eingreifen löst deshalb eine zuvor scheinbar abgeschlossene Bedrohung auf und ermöglicht Alejandro (Antonio Banderas) die Flucht.
 
-Merksatz: Felipes Kreuz ermöglicht seine Rückkehr als Helfer.
 
 - Alejandro hat die Waffe vor dem Angriff heimlich entladen.: Die Kugel wird von seinem Kreuz gestoppt, die Waffe ist nicht zuvor entladen worden.
 - Sein getragenes Kreuz hat die Kugel aufgehalten.: Das Kreuz schützt ihn vor der tödlichen Wirkung.
@@ -3009,7 +2876,6 @@ Wie schützt Joaquín (Adrián Alonso) in „Die Legende des Zorro“ die Beitri
 
 Der Zug steuert mit seiner gefährlichen Ladung auf die politische Feier zu. Joaquín (Adrián Alonso) übernimmt selbst eine aktive Rolle und nutzt Tornado. Das Familiengeheimnis führt so nicht bloß zu einer Enthüllung: Der Sohn trägt konkret zum Gelingen der Rettung bei.
 
-Merksatz: Zorros Sohn lenkt die Gefahr von der Feier weg.
 
 - Er trennt den Sprengstoffwagen während der Fahrt ab.: Er verändert den Kurs des Zuges statt den Sprengstoffwagen abzukoppeln.
 - Er löst die Kupplung zwischen Lokomotive und den übrigen Wagen.: Eine gelöste Lokomotivkupplung ist nicht seine Rettungsaktion.
@@ -3031,7 +2897,6 @@ Wann erschien „Die Legende des Zorro“ als Fortsetzung mit Antonio Banderas u
 
 2005 kehren Banderas und Zeta-Jones nach ihrem gemeinsamen Zorro-Film von 1998 zurück. Das Familienabenteuer liegt damit sieben Jahre nach dem ersten Teil. Amblin beschreibt ausdrücklich diese Fortsetzung und identifiziert den erneuten Einsatz derselben beiden Hauptdarsteller.
 
-Merksatz: 1998 die Maske – 2005 die Legende.
 
 - 2001: 2001 liegt vier Jahre davor.
 - 2009: 2009 liegt vier Jahre danach.
@@ -3053,7 +2918,6 @@ Wer inszenierte „Die Legende des Zorro“ mit Antonio Banderas und Catherine Z
 
 Martin Campbell führt das gemeinsame Abenteuer von Banderas und Zeta-Jones weiter. Amblin nennt die erneute Zusammenarbeit ausdrücklich. Neben der Besetzung bleibt damit auch die Regie ein verbindendes Element der beiden Filme, während sich der Schwerpunkt zur Familie verschiebt.
 
-Merksatz: Campbell führt das Zorro-Paar weiter.
 
 - Martin Campbell: Martin Campbell kehrte auch als Regisseur zurück.
 - Duccio Tessari: Tessari führte bei der Delon-Fassung Regie.
@@ -3079,7 +2943,6 @@ Was übernimmt Morgan Adams (Geena Davis) in „Die Piratenbraut“ nach dem Tod
 
 Morgans Vater Black Harry (Harris Yulin) stirbt nach einem Angriff. Morgan (Geena Davis) führt danach seine Männer und das Schiff. Die Schatzsuche ist damit auch ein Kampf um anerkannte Führung: Sie muss sich gegen andere Piraten und später gegen Verrat aus der eigenen Mannschaft behaupten.
 
-Merksatz: Morgan erbt Verantwortung auf der Morning Star.
 
 - Das Kommando über die Flotte des Gouverneurs: Sie übernimmt ein Piratenschiff, nicht die Flotte des Gouverneurs.
 - Die Verwaltung des gemeinsamen Familienschatzes: Der Schatz muss erst noch gefunden werden.
@@ -3101,7 +2964,6 @@ Warum nimmt Morgan (Geena Davis) in „Die Piratenbraut“ William Shaw (Matthew
 
 Morgan (Geena Davis) versteht die Sprache ihrer Schatzkarte nicht. William Shaw (Matthew Modine) wird für seine Übersetzungskünste gebraucht. Die Zusammenarbeit entsteht deshalb aus einer konkreten Fähigkeit und wird später zu einer Beziehung, in der beide einander wiederholt retten.
 
-Merksatz: Die Schatzsuche braucht zuerst einen Übersetzer.
 
 - Er kann ihren verletzten Vater noch retten.: Ihr Vater ist bereits tot; sie sucht einen Übersetzer.
 - Er kennt als früherer Inselbewohner die Schatzhöhle.: Shaw kennt das Versteck noch nicht aus eigener Erfahrung.
@@ -3123,7 +2985,6 @@ Wie stehen Morgan (Geena Davis) und ihr Gegner Dawg (Frank Langella) in „Die P
 
 Dawg (Frank Langella) jagt nicht nur eine fremde Schatzsucherin. Die Kartenstücke sind auf Männer derselben Familie verteilt, und Morgan (Geena Davis) gerät gegen ihren eigenen Onkel in den Kampf. Die Schatzgier zerreißt somit bereits die Familie, bevor sie die Mannschaft spaltet.
 
-Merksatz: Der Schatzkampf beginnt innerhalb der Familie.
 
 - Er ist ihr Onkel.: Dawg gehört als Onkel zur Familie ihres Vaters.
 - Er ist ihr Bruder.: Er ist nicht ihr Bruder.
@@ -3145,7 +3006,6 @@ Welche Lesart erschließt Morgan (Geena Davis) in „Die Piratenbraut“ einen T
 
 Die Sprache allein reicht für die Karte nicht aus. Morgan (Geena Davis) entdeckt eine zweite Ebene ihrer Hinweise: Die Wörter müssen in umgekehrter Richtung gelesen werden. Damit ergänzt ihre eigene Schlussfolgerung Williams (Matthew Modine) Übersetzungswissen.
 
-Merksatz: Übersetzen hilft – rückwärts lesen entschlüsselt.
 
 - Sie setzt die Wörter in alphabetischer Reihenfolge zusammen.: Die alphabetische Sortierung liefert nicht die gesuchten Koordinaten.
 - Sie liest die Kartenwörter rückwärts.: Rückwärts gelesen ergeben die Wörter Koordinaten.
@@ -3167,7 +3027,6 @@ Wie verrät John Reed (Maury Chaykin) in „Die Piratenbraut“ Morgans Position
 
 Reed (Maury Chaykin) fährt auf Morgans Schiff mit, arbeitet aber für Ainslee (Patrick Malahide). Während der Fahrt verschickt er die Position heimlich. Die Bedrohung von außen hängt somit mit einer Informationsquelle zusammen, die sich mitten in der eigenen Gruppe befindet.
 
-Merksatz: Reeds Taube verbindet Schiff und Verfolger.
 
 - Mit vereinbarten Laternenzeichen: Reed nutzt kein sichtbares Laternenzeichen, sondern eine Brieftaube.
 - Mit einem versteckten Boten im nächsten Hafen: Die Nachricht verlässt das Schiff bereits während der Fahrt.
@@ -3189,7 +3048,6 @@ Warum kann Morgan (Geena Davis) in „Die Piratenbraut“ den Schatz nach dem Un
 
 Morgan (Geena Davis) muss William (Matthew Modine) vom sinkenden Schiff retten und den Schatz zurücklassen. Ihre vorherige Markierung verhindert jedoch den endgültigen Verlust. Die letzte Lösung beruht somit auf Vorbereitung und einer Entscheidung für einen Menschen im Moment der Gefahr.
 
-Merksatz: Das Markierungsfass erlaubt Rettung vor Gold.
 
 - Sie hat die genaue Stelle des Wracks auf ihrer Karte markiert.: Nicht eine Kartenmarkierung, sondern das mit dem Schatz verbundene Fass hilft beim Auffinden.
 - Dawg hat das Gold vor dem Kampf heimlich an Land gebracht.: Der Schatz sinkt mit dem gegnerischen Schiff.
@@ -3211,7 +3069,6 @@ Wann erschien „Die Piratenbraut“ mit Geena Davis erstmals im Kino?
 
 Der rote Korsar mit Burt Lancaster erschien 1952. Die Piratenbraut folgte 1995, 43 Jahre später, mit Geena Davis als Kapitänin Morgan. Die beiden Jahre verbinden unterschiedliche Generationen des großen Piratenabenteuers. Der spätere Film greift die Welt von Segelschiffen, Schatzsuche und wechselnden Bündnissen wieder auf und stellt dabei eine Frau an die Spitze der Mannschaft.
 
-Merksatz: 1952 Lancasters Korsar – 1995 Davis’ Piratenbraut: 43 Jahre Abstand.
 
 - 1995: Das Piratenabenteuer erschien 1995.
 - 1991: 1991 liegt vier Jahre davor.
@@ -3233,7 +3090,6 @@ Wer inszenierte „Die Piratenbraut“ mit Geena Davis und Matthew Modine?
 
 Renny Harlin inszeniert die Jagd von Morgan und William mit großen Land- und Seeschlachten. Der BFI-Credit ordnet ihm diese Produktion zu. Die Regiefrage gilt dem Film mit Geena Davis und Matthew Modine, unabhängig von späteren Wiederbelebungen des Piratenkinos.
 
-Merksatz: Harlin inszeniert Morgans Schatzjagd.
 
 - Gore Verbinski: Verbinski inszenierte dieses Piratenabenteuer nicht.
 - Renny Harlin: Renny Harlin führte Regie.
@@ -3259,7 +3115,6 @@ Wen sucht Allan Quatermain (Richard Chamberlain) in „Quatermain II – Auf der
 
 Quatermain (Richard Chamberlain) erfährt von einem sterbenden Bekannten, dass sein vermisster Bruder Robeson (Martin Rabbett) noch lebt. Die Nachricht unterbricht seine Hochzeitspläne mit Jesse (Sharon Stone). Die neue Reise beginnt deshalb mit einer familiären Verpflichtung und nicht nur mit Schatzgier.
 
-Merksatz: Quatermains Bruder bringt ihn wieder auf Reisen.
 
 - Seinen verschollenen Vater: Gesucht wird Quatermains Bruder Robeson, nicht der Vater.
 - Einen früheren Expeditionsleiter: Eine Nachricht über den Bruder löst die Reise aus.
@@ -3281,7 +3136,6 @@ Womit kämpft Umslopogaas (James Earl Jones) in „Quatermain II – Auf der Suc
 
 Umslopogaas (James Earl Jones) begleitet Quatermain (Richard Chamberlain) als erfahrener Freund und Kämpfer. Die Axt hilft der Gruppe in gefährlichen Begegnungen. Sie erhält später noch eine zusätzliche Funktion, sodass sein charakteristisches Werkzeug über einzelne Kampfszenen hinaus Bedeutung behält.
 
-Merksatz: Umslopogaas bringt die Axt mit.
 
 - Mit einer großen Axt: Seine große Axt gehört zu seinem charakteristischen Auftreten.
 - Mit zwei Revolvern: Zwei Revolver sind nicht sein markantes Werkzeug.
@@ -3303,7 +3157,6 @@ Welcher Gegensatz kennzeichnet in „Quatermain II – Auf der Suche nach der ge
 
 In der gefundenen Stadt begegnet Quatermain (Richard Chamberlain) Nyleptha (Aileen Marson) und Sorais (Cassandra Peterson). Die Schwestern stehen für verschiedene Interessen. Die Stadt ist daher kein konfliktfreies Ziel der Reise: Die Ankommenden geraten in einen bereits bestehenden Machtkampf.
 
-Merksatz: Zwei Königinnen, gegensätzliche Interessen.
 
 - Nyleptha will den Tempel schließen, Sorais will ihn als Heiligtum bewahren.: Der gezeigte Gegensatz betrifft Beliebtheit und Machtstreben, nicht diese Tempelreform.
 - Nyleptha ist beliebt, Sorais strebt nach Macht.: Der Konflikt betrifft unterschiedliche Herrschaftsabsichten.
@@ -3325,7 +3178,6 @@ Wer beherrscht in „Quatermain II – Auf der Suche nach der geheimnisvollen St
 
 Agon (Henry Silva) übt Macht hinter der sichtbaren königlichen Ordnung aus. Quatermain (Richard Chamberlain) und seine Freunde müssen deshalb mehr als den Weg zur verlorenen Stadt bewältigen. Die Befreiung von einer bestehenden Gewaltordnung wird zum zweiten Ziel nach der Suche des Bruders.
 
-Merksatz: Hinter den Königinnen steht Agons Furchtherrschaft.
 
 - Quatermains Bruder Robeson (Martin Rabbett): Robeson ist nicht der Gewaltherrscher.
 - Der Begleiter Swarma (Robert Donner): Swarma begleitet die Expedition.
@@ -3347,7 +3199,6 @@ Wie verändert sich Quatermains (Richard Chamberlain) Aufgabe in „Quatermain I
 
 Quatermain (Richard Chamberlain) findet Robeson (Martin Rabbett) lebend vor. Die anfängliche Suche ist damit erfüllt, doch die Gewalt Agons (Henry Silva) bleibt bestehen. Der Film erweitert die Rettungsreise zu einem Kampf für andere Menschen, statt beim persönlichen Wiedersehen zu enden.
 
-Merksatz: Bruder gefunden – Verantwortung noch offen.
 
 - Er führt Robeson heimlich aus der Stadt, ohne einzugreifen.: Quatermain bleibt und unterstützt den Widerstand.
 - Er bietet Agon seine Hilfe gegen die beiden Königinnen an.: Er stellt sich gegen Agons Macht statt in dessen Dienst.
@@ -3369,7 +3220,6 @@ Welche zusätzliche Funktion erhält Umslopogaas’ Axt im Finale von „Quaterm
 
 Quatermain (Richard Chamberlain) nutzt die Axt im Gewitter auf dem Tempel. Das Gold fließt im fantastischen Finale über die Angreifer. Der Gegenstand eines Begleiters wird damit zum Mittel, den Machtkampf zu entscheiden; die Szene folgt ausdrücklich der überhöhten Abenteuerlogik des Films.
 
-Merksatz: Die Axt verbindet Blitz und flüssiges Gold.
 
 - Sie leitet einen Blitz, der Gold schmelzen lässt.: Quatermain verwendet die Axt zur Blitzableitung.
 - Sie durchtrennt das Tor und öffnet der Bevölkerung den Fluchtweg.: Die entscheidende Nutzung ist die Leitung eines Blitzes, nicht ein aufgeschlagenes Tor.
@@ -3391,7 +3241,6 @@ In welchem Jahr wurde „Quatermain II – Auf der Suche nach der geheimnisvolle
 
 Quatermain – Auf der Suche nach dem Schatz der Könige erschien 1985. Das zweite Abenteuer mit Richard Chamberlain und Sharon Stone wurde bereits 1986 in Deutschland veröffentlicht, ein Jahr später. Sein US-Start folgte erst 1987. Für das Filmjahr zählt hier die frühere Veröffentlichung; der eigentliche Erinnerungsanker ist aber die rasche Rückkehr desselben Abenteuerduos nach dem ersten Film.
 
-Merksatz: 1985 erster Chamberlain-Quatermain – 1986 die Fortsetzung: ein Jahr Abstand.
 
 - 1982: 1982 liegt vier Jahre davor.
 - 1986: Die deutsche Erstveröffentlichung liegt 1986.
@@ -3413,7 +3262,6 @@ Wer führte bei „Quatermain II – Auf der Suche nach der geheimnisvollen Stad
 
 Gary Nelson inszeniert den zweiten Film mit Richard Chamberlain und Sharon Stone. Der neue Reiseanlass führt die wiederkehrenden Hauptfiguren in eine andere Geschichte. Der offizielle AFI-Credit ist deshalb getrennt vom Regiecredit des ersten Quatermain-Abenteuers zu führen.
 
-Merksatz: Nelson inszeniert Quatermains zweite Reise.
 
 - J. Lee Thompson: Thompson trägt nicht den Credit dieses zweiten Films.
 - Richard Fleischer: Fleischer führte hier nicht Regie.
@@ -3439,7 +3287,6 @@ Wo tritt der Baron (John Neville) zu Beginn von „Die Abenteuer des Baron Münc
 
 Ein Theater zeigt Münchhausens Abenteuer in einer belagerten Stadt. Der alte Baron (John Neville) widerspricht dieser Darstellung und erzählt selbst. Schon der Beginn stellt damit zwei Versionen nebeneinander: die Bühnenfigur und einen Mann, der behauptet, die Ereignisse wirklich erlebt zu haben.
 
-Merksatz: Münchhausen widerspricht seinem eigenen Bühnenbild.
 
 - In einer Theateraufführung über seine Abenteuer: Er unterbricht die Bühnenversion seines Lebens.
 - In einem Gericht in London: Ein Londoner Gericht ist nicht dieser Schauplatz.
@@ -3461,7 +3308,6 @@ Wer reist in „Die Abenteuer des Baron Münchhausen“ heimlich mit dem Baron (
 
 Sally (Sarah Polley), die Tochter des Theaterleiters, hält den alten Baron (John Neville) am Leben und reist heimlich mit. Ihre Neugier trägt die Geschichte weiter. Die Reise gewinnt durch sie einen Blick, der die erstaunlichen Behauptungen nicht einfach mit erwachsener Vernunft abweist.
 
-Merksatz: Sally trägt Münchhausens Neugier weiter.
 
 - Sallys Vater Henry Salt (Bill Paterson): Ihr Vater reist nicht als heimlicher Passagier mit.
 - Sally (Sarah Polley): Sally wird zur jungen Begleiterin.
@@ -3483,7 +3329,6 @@ Aus welchem Material fertigt der Baron (John Neville) in „Die Abenteuer des Ba
 
 Der Baron (John Neville) will seine außergewöhnlichen Freunde zurückholen. Für die Flucht nutzt er einen Ballon aus ungewöhnlichem Material, während Sally (Sarah Polley) mitfährt. Ein alltäglicher Gegenstand wird dabei zum fantastischen Reisegerät, das unmittelbar den Ton der weiteren Abenteuer setzt.
 
-Merksatz: Unterwäsche hebt den Baron über die Mauern.
 
 - Aus zusammengenähten Theaterkulissen: Theaterkulissen sind nicht das Material des Ballons.
 - Aus erbeuteten türkischen Fahnen: Die Hülle entsteht nicht aus erbeuteten Fahnen.
@@ -3505,7 +3350,6 @@ Was ist am Mondkönig in „Die Abenteuer des Baron Münchhausen“ besonders un
 
 Der Mondkönig (Robin Williams) erscheint mit getrennt handelndem Kopf und Körper. Die Teilung macht Wünsche und Streit innerhalb einer einzigen Gestalt sichtbar. Münchhausens Reise durchbricht damit nicht nur Naturgesetze, sondern verwandelt innere Widersprüche buchstäblich in räumliche Figuren.
 
-Merksatz: Der Mondkönig streitet mit seinem eigenen Körper.
 
 - Er übernimmt beim Sprechen die Gedanken seiner Gäste.: Der Film trennt Kopf und Körper, nicht seine Gedanken von fremden Besuchern.
 - Er schrumpft und wächst je nach Stimmung.: Ein stimmungsabhängiger Größenwechsel ist nicht die gefragte Besonderheit.
@@ -3527,7 +3371,6 @@ Wie entkommen die Reisenden in „Die Abenteuer des Baron Münchhausen“ aus de
 
 Im Inneren des Tieres findet der Baron (John Neville) weitere Freunde wieder. Die Flucht beruht schließlich auf einem winzigen Mittel mit riesiger Wirkung: Schnupftabak löst ein Niesen aus. Der Größenunterschied verbindet den grotesken Schauplatz mit einem ganz alltäglichen körperlichen Vorgang.
 
-Merksatz: Eine Prise Tabak bewegt ein Meerestier.
 
 - Sie bringen es mit Schnupftabak zum Niesen.: Das Niesen schleudert die Gruppe hinaus.
 - Sie entzünden im Inneren ein Feuer, das den Magen reizt.: Schnupftabak und Niesen ermöglichen die Flucht, nicht ein Feuer.
@@ -3549,7 +3392,6 @@ Wie wird der gezeigte Tod des Barons (John Neville) am Ende von „Die Abenteuer
 
 Nach Rettung, Tod und Beerdigung zeigt der Film wieder den erzählenden Baron (John Neville). Das vermeintliche Ende war Teil seines Berichts. Ob alle fantastischen Vorgänge wirklich geschahen, bleibt offen; sicher ist die Rückkehr zur Erzählebene des Anfangs.
 
-Merksatz: Münchhausen erzählt sogar seinen eigenen Tod.
 
 - Sally erkennt ihn als Schluss der ursprünglichen Theateraufführung.: Es ist der lebende Baron, der diese Geschichte dem Publikum erzählt.
 - Er gehört zu einer weiteren von ihm erzählten Geschichte.: Der Film kehrt zum lebenden erzählenden Baron zurück.
@@ -3571,7 +3413,6 @@ Wann wurde „Die Abenteuer des Baron Münchhausen“ mit John Neville erstmals 
 
 Terry Gilliams Brazil erschien 1985; Die Abenteuer des Baron Münchhausen folgten 1988, drei Jahre später. Die Jahresfolge verbindet zwei Filme, die Wirklichkeit, Macht und fantastische Gegenwelten gegeneinanderstellen. Der spätere Film startet zuerst in Deutschland, während andere Länder erst 1989 folgen. Für den Zeitanker bleibt entscheidend, dass Gilliams barockes Abenteuer drei Jahre nach seinem dystopischen Film erschien.
 
-Merksatz: 1985 Brazil – 1988 Münchhausen: drei Jahre Gilliams fantastische Gegenwelten.
 
 - 1984: 1984 liegt vier Jahre davor.
 - 1992: 1992 liegt vier Jahre danach.
@@ -3593,7 +3434,6 @@ Wer inszenierte „Die Abenteuer des Baron Münchhausen“ mit John Neville und 
 
 Terry Gilliam inszeniert die Begegnung von vermeintlicher Vernunft und fantastischer Erzählung. Die Fassung mit John Neville und Sarah Polley verbindet ein Theater mit übergroßen Reisebildern. Der Regiecredit gehört zu dieser Produktion, nicht zur gesamten Geschichte der Münchhausen-Verfilmungen.
 
-Merksatz: Gilliam lässt Nevilles Baron die Vernunft sprengen.
 
 - Karel Zeman: Zeman inszenierte eine andere Münchhausen-Fassung.
 - Jean-Pierre Jeunet: Jeunet trägt diesen Credit nicht.
@@ -3619,7 +3459,6 @@ Welche Aufgabe hat Stephen Maturin (Paul Bettany) an Bord in „Master and Comma
 
 Stephen Maturin (Paul Bettany) ist Arzt und Naturforscher. Seine Interessen unterscheiden sich dadurch von der militärischen Aufgabe des Kapitäns Jack Aubrey (Russell Crowe). Die Freundschaft der beiden verbindet enges Vertrauen mit wiederkehrenden Auseinandersetzungen über die Ziele der Reise.
 
-Merksatz: Maturin heilt und erforscht.
 
 - Er ist der Steuermann.: Er ist nicht der Steuermann.
 - Er ist der Schiffsarzt.: Maturin versorgt als Arzt die Besatzung.
@@ -3641,7 +3480,6 @@ Weshalb jagt Jack Aubrey (Russell Crowe) in „Master and Commander – Bis ans 
 
 Die Acheron greift die Surprise an und bedroht weitere britische Schiffe. Aubrey (Russell Crowe) verfolgt sie trotz Schäden und großer Risiken. Sein Auftrag wird dabei zur Frage, wie weit ein Kommandant eine gefährdete Mannschaft für den militärischen Erfolg einsetzen darf.
 
-Merksatz: Aubrey verfolgt eine Gefahr für britische Schiffe.
 
 - Er will einen britischen Gefangenen von Bord befreien.: Ein einzelner Gefangener ist nicht der Auftrag der Jagd.
 - Er soll gestohlenen Sold für seine Mannschaft zurückholen.: Ein gestohlener Mannschaftssold ist nicht ihr Anlass.
@@ -3663,7 +3501,6 @@ Wie entkommt die Surprise in „Master and Commander – Bis ans Ende der Welt�
 
 Aubrey (Russell Crowe) kann den stärkeren Gegner nicht allein durch Feuerkraft überwinden. Ein als Schiffsspur erscheinendes Floß lenkt dessen Verfolgung um. Die Szene etabliert Täuschung als Mittel gegen technische Überlegenheit, das später in anderer Form wiederkehrt.
 
-Merksatz: Ein Floß führt das stärkere Schiff auf eine falsche Spur.
 
 - Sie versteckt sich im Schatten eines Eisbergs.: Das Ablenkungsmanöver besteht aus einem Floß, nicht einem Eisberg.
 - Sie überquert ein Riff, dem das schwerere Schiff nicht folgen kann.: Ein zu flaches Riff ist nicht die Lösung dieser Verfolgung.
@@ -3685,7 +3522,6 @@ Warum kehrt Aubrey (Russell Crowe) in „Master and Commander – Bis ans Ende d
 
 Maturin (Paul Bettany) wird bei einer Vogeljagd versehentlich angeschossen. Die Versorgung auf See ist schwierig, sodass Aubrey (Russell Crowe) zurückkehrt. Die Freundschaft stellt den militärischen Auftrag damit vor eine konkrete Grenze: Für die Behandlung eines Menschen muss die Jagd unterbrochen werden.
 
-Merksatz: Maturins Verletzung unterbricht Aubreys Jagd.
 
 - Maturin wurde angeschossen und braucht eine Operation an Land.: Maturins Verletzung zwingt zu einer anderen Priorität.
 - Sein Schiff braucht Ersatzmasten aus den dortigen Wäldern.: Der entscheidende Anlass ist Maturins Schussverletzung.
@@ -3707,7 +3543,6 @@ Welche Beobachtung Maturins (Paul Bettany) regt in „Master and Commander – B
 
 Aubrey (Russell Crowe) betrachtet ein Insekt aus Maturins (Paul Bettany) Sammlung, das wie ein Zweig wirkt. Er lässt die Surprise anschließend als harmlosen Walfänger erscheinen. Das zunächst konkurrierende Forschungsinteresse trägt so unerwartet zum Gelingen des militärischen Plans bei.
 
-Merksatz: Naturtarnung wird zur Schiffstarnung.
 
 - Die Wanderung einer Schildkröte ins offene Meer: Die Schildkrötenwanderung begründet die Tarnung nicht.
 - Die Tarnung eines Insekts als Zweig: Das getarnte Insekt liefert das Vorbild.
@@ -3729,7 +3564,6 @@ Welche Entdeckung löst in „Master and Commander – Bis ans Ende der Welt“ 
 
 Der vermeintliche französische Arzt (Thierry Segall) meldet den Tod seines Kapitäns. Maturin (Paul Bettany) erkennt später anhand der Unterlagen, dass der wirkliche Arzt bereits früher gestorben war. Aubrey (Russell Crowe) durchschaut die Rollenlüge und nimmt die Jagd wieder auf.
 
-Merksatz: Ein falscher Arzt verbirgt einen lebenden Kapitän.
 
 - Die französischen Gefangenen haben einen geheimen Angriff vereinbart.: Der konkrete Auslöser ist die aufgedeckte falsche Arztidentität.
 - Die Acheron führt eine zweite unbekannte Kanonenreihe.: Eine neue Kanonenreihe wird im Schluss nicht entdeckt.
@@ -3751,7 +3585,6 @@ Wann erschien „Master and Commander – Bis ans Ende der Welt“ mit Russell C
 
 Russell Crowes Gladiator erschien 2000. Master and Commander folgte 2003, drei Jahre später, mit Crowe als Kapitän Jack Aubrey und Paul Bettany als Arzt Stephen Maturin. Der Zeitanker verbindet zwei historische Abenteuer desselben Hauptdarstellers, jedoch unter unterschiedlicher Regie. Aus dem römischen Arenakampf wird eine Seereise, deren Entscheidungen zwischen militärischer Jagd und persönlicher Verantwortung liegen.
 
-Merksatz: 2000 Gladiator – 2003 Crowe auf der Surprise: drei Jahre Abstand.
 
 - 1999: 1999 liegt vier Jahre davor.
 - 2007: 2007 liegt vier Jahre danach.
@@ -3773,7 +3606,6 @@ Wer inszenierte „Master and Commander – Bis ans Ende der Welt“ mit Russell
 
 Peter Weir inszeniert den Schiffsalltag und den Gegensatz zwischen Kapitän und Naturforscher. Seine Regie verbindet den militärischen Auftrag mit engen Räumen, körperlicher Arbeit und der Freundschaft der Hauptfiguren. Der Studiokatalog bestätigt den Credit für diese konkrete O’Brian-Adaption.
 
-Merksatz: Weir führt Aubrey und Maturin auf See.
 
 - Peter Weir: Peter Weir führte Regie.
 - Ridley Scott: Scott trägt diesen Regiecredit nicht.
@@ -3799,7 +3631,6 @@ Welche Aufgabe erfüllt die Albatross für die Jungen in „White Squall – Rei
 
 Skipper Sheldon (Jeff Bridges) führt Jugendliche auf eine Ausbildungsreise. Seemannschaft wird dabei zum Weg, Verantwortung und Zusammenarbeit zu lernen. Der spätere Untergang trifft deshalb eine Gemeinschaft, die erst während der Fahrt aus sehr unterschiedlichen Jungen entsteht.
 
-Merksatz: Auf der Albatross lernt man mehr als Segeln.
 
 - Sie ist ein geheimes Kriegsschiff.: Ein geheimer Kriegseinsatz ist nicht ihr Auftrag.
 - Sie ist ein schwimmendes Gefängnis.: Die Jungen sind keine Gefangenen.
@@ -3821,7 +3652,6 @@ Woran leidet Gil (Ryan Phillippe), als er in „White Squall – Reißende Strö
 
 Gil (Ryan Phillippe) kann in der Höhe nicht so handeln, wie die Mannschaft es braucht. Sheldon (Jeff Bridges) muss selbst eingreifen. Die Angst ist ein Ausgangspunkt für Gils Entwicklung: Später zeigt der Junge an derselben Takelage einen Schritt über seine bisherige Grenze hinaus.
 
-Merksatz: Gils Grenze liegt in der Höhe.
 
 - An Seekrankheit: Sein Problem ist die Höhe in der Takelage, nicht der Seegang.
 - An einer Knieverletzung: Keine Knieverletzung verhindert den geforderten Aufstieg.
@@ -3843,7 +3673,6 @@ Warum wird Frank (Jeremy Sisto) in „White Squall – Reißende Strömung“ vo
 
 Nach einem Konflikt mit seinem Vater lässt Frank (Jeremy Sisto) seine Wut an einem Delfin aus. Sheldon (Jeff Bridges) muss das leidende Tier töten und schickt den Jungen von Bord. Der Film verbindet die private Verletzung damit mit einer Handlung, für die Frank Verantwortung übernehmen muss.
 
-Merksatz: Frank trifft mit seiner Wut das falsche Wesen.
 
 - Er verletzt aus Wut einen Delfin mit einer Harpune.: Der Angriff auf den Delfin führt zu seinem Ausschluss.
 - Er greift Sheldon nach einer Disziplinarmaßnahme körperlich an.: Der Ausschluss folgt auf den Harpunenangriff gegen den Delfin.
@@ -3865,7 +3694,6 @@ Welche Handlung Gils (Ryan Phillippe) gibt Franks Abschied in „White Squall �
 
 Frank (Jeremy Sisto) verlässt die Gruppe. Gil (Ryan Phillippe) klettert zum Läuten der Glocke hinauf und schafft damit, was ihm anfangs unmöglich erschien. Der Abschied verbindet eine persönliche Entwicklung mit dem Zeichen, dass Frank trotz seiner Verfehlung zur entstandenen Gemeinschaft gehört.
 
-Merksatz: Gil steigt für einen anderen über seine Angst hinaus.
 
 - Er übergibt ihm die von den Jungen unterschriebene Seekarte.: Der Abschied erhält seine Bedeutung durch Gils Aufstieg zur Glocke.
 - Er steigt hinauf und läutet die Schiffsglocke.: Gil überwindet seine Höhenangst für den Abschied.
@@ -3887,7 +3715,6 @@ Wie reagieren die überlebenden Schüler in „White Squall – Reißende Ström
 
 Sheldon (Jeff Bridges) nimmt die Verantwortung für den Untergang auf sich. Die überlebenden Jungen treten jedoch für ihn ein. Was auf See als Zusammenhalt gelernt wurde, wird nun an Land sichtbar: Die Gemeinschaft endet nicht mit dem Ende der Fahrt.
 
-Merksatz: Die Schüler tragen den Zusammenhalt in die Anhörung.
 
 - Sie verlangen die Verurteilung des Skippers wegen bewusster Gefährdung.: Die Überlebenden treten für Sheldon ein.
 - Sie einigen sich darauf, vor dem Untersuchungsausschuss zu schweigen.: Sie machen ihren Zusammenhalt öffentlich statt gemeinsam zu schweigen.
@@ -3909,7 +3736,6 @@ Was verändert Frank (Jeremy Sisto) im Schluss von „White Squall – Reißende
 
 Franks Eltern treiben die Vorwürfe gegen Sheldon (Jeff Bridges) voran. Frank (Jeremy Sisto) stellt sich ihnen entgegen und unterstützt den Mann, der ihn von Bord geschickt hatte. Seine Entwicklung zeigt sich damit in einer selbstständigen Entscheidung, die persönliche Kränkung und Verantwortung auseinanderhält.
 
-Merksatz: Frank steht zu Sheldon statt unter dem Vater.
 
 - Er nimmt öffentlich jede Verantwortung für den Delfinvorfall zurück.: Sein Eintreten für Sheldon löscht seine eigene Verfehlung nicht aus.
 - Er entschuldigt sich bei den Eltern für sein Vertrauen in Sheldon.: Er widerspricht ihren Vorwürfen statt sich ihrem Urteil zu unterwerfen.
@@ -3931,7 +3757,6 @@ Wann erschien „White Squall – Reißende Strömung“ mit Jeff Bridges als Sk
 
 Ridley Scotts Thelma & Louise erschien 1991. White Squall folgte 1996, fünf Jahre später, und verlegte das Reiseabenteuer von der Straße auf ein Segelschulschiff. Jeff Bridges spielt den verantwortlichen Skipper. Die zwei Filmjahre verbinden unterschiedliche Reisegeschichten desselben Regisseurs: In beiden gerät eine zunächst auf Aufbruch angelegte Fahrt in einen Konflikt mit Gefahr und ihren Folgen.
 
-Merksatz: 1991 Straßenreise – 1996 Segelreise: fünf Jahre zwischen Scotts Reiseabenteuern.
 
 - 1996: Der Film erschien 1996.
 - 1992: 1992 liegt vier Jahre davor.
@@ -3953,7 +3778,6 @@ Wer inszenierte „White Squall – Reißende Strömung“ mit Jeff Bridges und 
 
 Ridley Scott inszeniert die Albatross zunächst als engen Lernraum und später als Ort einer Katastrophe. Der Regiecredit betrifft den Film mit Jeff Bridges. Die Verbindung von Abenteuer und Erziehung unterscheidet diese Arbeit innerhalb seines oft stärker militärisch oder fantastisch geprägten Werks.
 
-Merksatz: Scott schickt Bridges auf die Ausbildungsfahrt.
 
 - Peter Weir: Weir trägt diesen Credit nicht.
 - Ridley Scott: Ridley Scott führte Regie.
@@ -3979,7 +3803,6 @@ Wo stranden die Überlebenden in „Der Flug des Phönix“ nach der Notlandung?
 
 Pilot Frank Towns (James Stewart) landet nach einem Sandsturm abseits der Route. In der Wüste fehlen Wasser und funktionierender Funk. Die Gruppe kann daher nicht darauf vertrauen, dass Suchmannschaften ihren tatsächlichen Standort kennen, und muss eine eigene Lösung finden.
 
-Merksatz: Die Sahara verlangt eine Rettung aus eigener Kraft.
 
 - In der Antarktis: Eine Polarlandschaft ist nicht der Schauplatz.
 - In den Anden: Die Anden gehören zu einem anderen Überlebensfilm.
@@ -4001,7 +3824,6 @@ Welchen Rettungsplan entwickelt Dorfmann (Hardy Krüger) in „Der Flug des Phö
 
 Dorfmann (Hardy Krüger) sieht im zerstörten Flugzeug nicht nur eine verlorene Maschine, sondern nutzbare Bauteile. Towns (James Stewart) zweifelt an dem Vorschlag. Die Handlung entwickelt sich aus der Frage, ob technische Planung und praktische Erfahrung gemeinsam eine zweite Chance schaffen können.
 
-Merksatz: Das Wrack enthält die Teile der Rettung.
 
 - Aus dem Wrack ein kleineres Flugzeug bauen: Er schlägt einen flugfähigen Neubau aus erhaltenen Teilen vor.
 - Das ursprüngliche Flugzeug vollständig an Ort und Stelle reparieren: Er baut aus Resten eine neue kleinere Maschine.
@@ -4023,7 +3845,6 @@ Welche Erfahrung Dorfmanns (Hardy Krüger) erschüttert in „Der Flug des Phön
 
 Towns (James Stewart) und Moran (Richard Attenborough) erwarten Erfahrung mit großen Flugzeugen. Dorfmann (Hardy Krüger) erklärt jedoch, dass er Modelle konstruiert. Er verteidigt die Übertragbarkeit der aerodynamischen Prinzipien; die anderen müssen zwischen ungewohnter Qualifikation und tatsächlichem Wissen unterscheiden.
 
-Merksatz: Modellbau ist Dorfmanns unerwartete Fachpraxis.
 
 - Er hat bisher nur Motoren, aber keine Flugzeuge konstruiert.: Sein überraschendes Fachgebiet ist der Modellflugzeugbau.
 - Er konstruiert beruflich Modellflugzeuge.: Seine berufliche Praxis stammt aus dem Modellflugzeugbau.
@@ -4045,7 +3866,6 @@ Warum unterstützt Arzt Renaud (Christian Marquand) in „Der Flug des Phönix�
 
 Renaud (Christian Marquand) betrachtet nicht nur die technische Erfolgschance. Die gemeinsame Arbeit gibt den Männern eine Aufgabe, während Warten und Hoffnungslosigkeit sie schwächen würden. Sein Argument erweitert die Rettungsplanung um die psychische Wirkung, die ein konkretes Ziel in der Not hat.
 
-Merksatz: Bauen gibt Hoffnung eine Tätigkeit.
 
 - Die Arbeiten sollen ein Signal für vorbeifliegende Suchflugzeuge bilden.: Renaud betont die Wirkung von Tätigkeit und Hoffnung auf die Männer.
 - Die Gruppe soll dabei nach einer verborgenen Wasserquelle graben.: Die Montage ist kein getarntes Wassergrabungsprojekt.
@@ -4067,7 +3887,6 @@ Warum müssen Towns (James Stewart) und Dorfmann (Hardy Krüger) in „Der Flug 
 
 Die neue Maschine ist fertig, doch ihr Motor muss noch anspringen. Die vorhandenen Startpatronen können nicht beliebig ersetzt werden. Towns (James Stewart) entscheidet sich trotz Dorfmanns (Hardy Krüger) Einwand für einen Versuch ohne Zündung, um die Zylinder zu reinigen, bevor der Start gelingt.
 
-Merksatz: Jede Startpatrone ist eine begrenzte Chance.
 
 - Jeder Fehlstart verbraucht das letzte verbliebene Trinkwasser.: Die knappe Ressource sind die Startpatronen, nicht Wasser für den Motor.
 - Der Motor muss vor jedem Start wieder ausgebaut werden.: Ein wiederholter Motorausbau ist nicht das Problem.
@@ -4089,7 +3908,6 @@ Wie verändert der erfolgreiche Flug in „Der Flug des Phönix“ das Verhältn
 
 Towns (James Stewart) bringt Flugpraxis mit, Dorfmann (Hardy Krüger) die Konstruktion. Beide haben einander misstraut, sind aber für die Rettung aufeinander angewiesen. Die Ankunft an der Oase beendet deshalb nicht nur die Notlage, sondern verändert auch ihre gegenseitige Beurteilung.
 
-Merksatz: Konstruktion und Flugpraxis retten gemeinsam.
 
 - Sie erkennen die Beiträge des jeweils anderen an.: Der Erfolg führt zur Versöhnung.
 - Towns spricht den Erfolg nur seiner eigenen Flugpraxis zu.: Der Erfolg führt zu gegenseitiger Anerkennung.
@@ -4111,7 +3929,6 @@ Wann erschien „Der Flug des Phönix“ mit James Stewart und Hardy Krüger ers
 
 Der Flug des Phönix mit James Stewart und Hardy Krüger erschien 1965. Die Neuverfilmung mit Dennis Quaid und Giovanni Ribisi folgte 2004, 39 Jahre später. Beide Fassungen erzählen von Überlebenden, die aus dem abgestürzten Flugzeug ein neues bauen wollen. Der lange Abstand verbindet die ursprüngliche Aldrich-Verfilmung mit einer späteren Wiederaufnahme desselben ungewöhnlichen technischen Rettungsplans.
 
-Merksatz: 1965 der erste Phönix – 2004 die Neuverfilmung: 39 Jahre Abstand.
 
 - 1961: 1961 liegt vier Jahre davor.
 - 1965: Diese Fassung erschien 1965.
@@ -4133,7 +3950,6 @@ Wer inszenierte „Der Flug des Phönix“ mit James Stewart als Pilot Frank Tow
 
 Robert Aldrich inszeniert Elleston Trevors Roman als Gruppenabenteuer in einem begrenzten Raum. Das Flugzeugwrack wird Werkstatt, Unterkunft und Streitort zugleich. Der Regiecredit betrifft die Stewart-Krüger-Fassung und muss von der späteren Adaption des gleichen Stoffes getrennt werden.
 
-Merksatz: Aldrich macht das Wrack zum Rettungsraum.
 
 - Robert Wise: Wise inszenierte diese Fassung nicht.
 - David Lean: Lean trägt diesen Credit nicht.
@@ -4159,7 +3975,6 @@ Welcher Sport verbindet viele Reisende in „Überleben!“ vor dem Absturz?
 
 Das uruguayische Team fliegt mit Angehörigen und Freunden nach Chile. Nach dem Absturz werden sportliche Bekanntschaften zu einer Überlebensgemeinschaft. Der Film beginnt deshalb nicht mit beliebigen Fremden, sondern mit Beziehungen, auf denen Hilfe und gemeinsame Entscheidungen aufbauen können.
 
-Merksatz: Das Rugbyteam wird zur Überlebensgruppe.
 
 - Rugby: Viele Reisende gehören einem Rugbyteam an.
 - Fußball: Eine Fußballmannschaft ist nicht die zentrale Gruppe.
@@ -4181,7 +3996,6 @@ In welcher Landschaft kämpfen die Überlebenden in „Überleben!“ um Rettung
 
 Das Wrack liegt hoch in den verschneiten Bergen. Kälte, Verletzungen und Nahrungsknappheit erschweren das Warten auf Hilfe. Die Landschaft ist kein bloßer Hintergrund: Sie begrenzt die verfügbaren Mittel und zwingt die Überlebenden zu Entscheidungen, die außerhalb dieser Notlage kaum vorstellbar wären.
 
-Merksatz: Die Anden machen Warten lebensgefährlich.
 
 - In einer tropischen Mangrove: Eine Mangrove ist nicht der Schauplatz.
 - In den verschneiten Anden: Der Absturz geschieht in den Anden.
@@ -4203,7 +4017,6 @@ Welche Nachricht verändert in „Überleben!“ die Hoffnung der Gruppe auf Ret
 
 Die Gruppe hört über ein Radio, dass die Suche beendet wird. Damit verlieren die Überlebenden die Erwartung, einfach entdeckt zu werden. Die Nachricht macht aus passivem Warten ein Problem eigener Initiative: Eine Rettung muss nun durch jemanden aus der Gruppe angestoßen werden.
 
-Merksatz: Das Ende der Suche erzwingt eigene Schritte.
 
 - Die Flugroute sei noch nicht als Suchgebiet bestätigt.: Gemeldet wird die Einstellung der Suche, nicht eine bloße Gebietsklärung.
 - Die Suche werde auf eine andere Bergregion verlagert.: Nicht nur das Suchgebiet wird gewechselt, die Aktion endet.
@@ -4225,7 +4038,6 @@ Warum scheitert in „Überleben!“ zunächst der Plan, das Funkgerät am Flugz
 
 Nando (Ethan Hawke), Canessa (Josh Hamilton) und ihre Helfer suchen das abgetrennte Heck. Sie hoffen auf Strom für eine eigene Nachricht. Auch mit Roys (Kevin Breznahan) technischem Versuch gelingt dies nicht, sodass der schwierige Fußweg als letzte aktive Rettungsmöglichkeit an Bedeutung gewinnt.
 
-Merksatz: Das Funkgerät ersetzt den Fußweg nicht.
 
 - Das Team findet die benötigten Batterien nicht.: Batterien werden gefunden, führen aber nicht zu einer funktionierenden Verbindung.
 - Das Heck ist für die Überlebenden überhaupt nicht erreichbar.: Die Überlebenden erreichen das Heck tatsächlich.
@@ -4247,7 +4059,6 @@ Welche Entscheidung verlängert in „Überleben!“ die mögliche Reichweite vo
 
 Nando (Ethan Hawke), Canessa (Josh Hamilton) und Tintin (John Haymes Newton) beginnen die Expedition gemeinsam. Zwei Männer setzen den langen Weg fort, während Tintin umkehrt. Die knappen Lebensmittel können dadurch länger reichen; eine Trennung der Gruppe dient ihrer gemeinsamen Rettung.
 
-Merksatz: Ein Mann kehrt um, damit zwei weiterkommen.
 
 - Tintin kehrt zurück und überlässt ihnen seine Verpflegung.: Die Rückkehr des dritten Mannes verteilt die Vorräte auf zwei Wanderer.
 - Sie legen Vorratsdepots an und kehren jede Nacht zum Wrack zurück.: Ein Wechsel zwischen Wrack und Depots ist nicht die Lösung für den langen Marsch.
@@ -4269,7 +4080,6 @@ Wie legten Disney und Paramount bei der gemeinsamen Produktion von „Überleben
 
 Disney und Paramount vereinbarten eine gemeinsame Finanzierung der Produktion. Davon getrennt musste der Verleih aufgeteilt werden. Laut AFI entschied darüber ein Münzwurf: Disney bekam die US-Rechte, Paramount die Auslandsrechte. Die ungewöhnliche Regel löste also die Verteilung der Veröffentlichung, nicht die Frage, ob der Film finanziert wurde. Die Zusammenarbeit großer Studios galt damals als selten.
 
-Merksatz: Gemeinsam finanziert, Verleihrechte per Münzwurf verteilt.
 
 - Durch eine Aufteilung nach den gesprochenen Filmsprachen: Die Rechte wurden nicht nach gesprochenen Sprachen verteilt.
 - Durch einen Münzwurf: Ein Münzwurf ordnete die US-Rechte Disney und die Auslandsrechte Paramount zu.
@@ -4291,7 +4101,6 @@ Wann erschien „Überleben!“ mit Ethan Hawke als Nando erstmals?
 
 1993 bringt die Touchstone-Paramount-Produktion das Andenunglück als großen Spielfilm ins Kino. Das erzählte Unglück liegt dagegen im Jahr 1972. Der zeitliche Abstand ist ein konkreter Anker und verhindert, das Datum des historischen Ereignisses als Filmjahr einzutragen.
 
-Merksatz: 1972 das Unglück – 1993 die Verfilmung.
 
 - 1989: 1989 liegt vier Jahre davor.
 - 1997: 1997 liegt vier Jahre danach.
@@ -4313,7 +4122,6 @@ Wer inszenierte „Überleben!“ mit Ethan Hawke und Josh Hamilton?
 
 Frank Marshall inszeniert die Entscheidungen der eingeschlossenen Gruppe und den späteren Fußweg zur Hilfe. Disney dokumentiert den Credit der Koproduktion mit Paramount. Die Frage betrifft diese Fassung mit Ethan Hawke und nicht alle späteren Darstellungen des realen Andenunglücks.
 
-Merksatz: Marshall inszeniert Hawkes Weg aus den Anden.
 
 - Robert Zemeckis: Zemeckis inszenierte diese Fassung nicht.
 - Robert Aldrich: Aldrich trägt diesen Credit nicht.
@@ -4339,7 +4147,6 @@ Welchen Beruf hat Chuck Noland (Tom Hanks) vor dem Absturz in „Cast Away – V
 
 Chuck (Tom Hanks) organisiert weltweit zeitkritische Arbeitsabläufe. Der Absturz nimmt ihm plötzlich alle vertrauten Mittel der Kontrolle. Sein früheres Leben macht den Gegensatz besonders deutlich: Auf der Insel zählen nicht Termine und Produktivität, sondern Nahrung, Schutz und die Dauer des Wartens.
 
-Merksatz: Der Zeitmanager verliert jede planbare Zeit.
 
 - Er organisiert medizinische Transporte als Rettungspilot.: Chuck optimiert Paketdienstabläufe, er ist kein Rettungspilot.
 - Er optimiert Abläufe bei einem Paketdienst.: Chuck arbeitet für FedEx an effizienten Abläufen.
@@ -4361,7 +4168,6 @@ Was ist Wilson, Chucks Begleiter auf der Insel in „Cast Away – Verschollen�
 
 Nach einer Handverletzung bleibt Chucks (Tom Hanks) blutiger Abdruck auf einem Volleyball zurück. Er ergänzt ein Gesicht und spricht mit dem Gegenstand. Wilson ersetzt damit keinen wirklichen Menschen, gibt aber der Einsamkeit einen sichtbaren Gegenüber.
 
-Merksatz: Ein Ball bekommt für Chuck ein Gegenüber.
 
 - Ein geretteter Hund: Ein Hund begleitet ihn nicht.
 - Ein anderes Mitglied der Flugzeugbesatzung: Kein zweiter Mensch überlebt mit ihm auf der Insel.
@@ -4383,7 +4189,6 @@ Welche Sendung öffnet Chuck (Tom Hanks) in „Cast Away – Verschollen“ bewu
 
 Chuck (Tom Hanks) nutzt den Inhalt angeschwemmter Pakete für sein Überleben. Eine Sendung behält er jedoch geschlossen. Das Flügelmotiv wird für ihn zu einem Zeichen von Hoffnung und einer noch möglichen Aufgabe, die über die Insel hinausweist.
 
-Merksatz: Das verschlossene Paket hält eine Zukunft offen.
 
 - Das Paket mit den Schlittschuhen: Die Schlittschuhe werden aus ihrem Paket genommen.
 - Das Paket mit dem Volleyball: Der Volleyball wird ausgepackt.
@@ -4405,7 +4210,6 @@ Welcher angeschwemmte Gegenstand ermöglicht Chuck (Tom Hanks) in „Cast Away �
 
 Chucks (Tom Hanks) erster Versuch scheitert an der Brandung. Jahre später kann er eine angeschwemmte Kunststoffwand als Segel einsetzen. Er verbindet den Fund mit dem passenden Windwechsel und einem gebauten Floß; die Rettung entsteht aus Erfahrung, Planung und einer zufälligen neuen Möglichkeit.
 
-Merksatz: Die Kunststoffwand macht Wind zur Fluchthilfe.
 
 - Eine Kunststoffwand, die als Segel dient: Die Wand liefert dem Floß ein wirksames Segel.
 - Ein funktionsfähiger Außenbordmotor: Ein Außenbordmotor wird nicht gefunden.
@@ -4427,7 +4231,6 @@ Warum kann Chuck (Tom Hanks) in „Cast Away – Verschollen“ nach seiner Rüc
 
 Chuck (Tom Hanks) und Kelly (Helen Hunt) lieben einander noch. Die Jahre seiner Abwesenheit haben aber auch ihr Leben verändert. Seine körperliche Rettung stellt deshalb den alten Zustand nicht wieder her; beide erkennen, dass Kellys neue Familie nicht einfach rückgängig gemacht werden kann.
 
-Merksatz: Gerettet zurückkehren heißt nicht unverändert zurückkehren.
 
 - Kelly hatte schon vor dem Absturz Schluss gemacht.: Vor dem Absturz waren ihre gemeinsamen Zukunftspläne noch offen.
 - Kelly hat inzwischen geheiratet und ein Kind.: Kelly hat nach seinem vermeintlichen Tod eine neue Familie.
@@ -4449,7 +4252,6 @@ Welche offene Möglichkeit zeigt die letzte Wegkreuzung in „Cast Away – Vers
 
 Chuck (Tom Hanks) hat das verschlossene Paket zurückgebracht. An der Kreuzung trifft er die Absenderin Bettina (Lari White), deren Flügelmotiv ihn begleitet hat. Der Film beendet seine Geschichte mit möglichen Wegen und einem Blick, ohne eine neue Beziehung oder einen Lebensplan endgültig festzuschreiben.
 
-Merksatz: Nach dem Überleben stehen wieder Wege offen.
 
 - Chuck folgt endgültig Kelly zurück nach Memphis.: Der Schluss schreibt keine Rückkehr zu Kelly fest.
 - Chuck entscheidet sich sichtbar für eine sofortige Rückkehr auf die Insel.: Eine neue Inselreise wird nicht beschlossen.
@@ -4471,7 +4273,6 @@ Wann erschien „Cast Away – Verschollen“ mit Tom Hanks erstmals im Kino?
 
 Robert Zemeckis und Tom Hanks hatten 1994 Forrest Gump ins Kino gebracht. Cast Away folgte 2000, sechs Jahre später, erneut mit Zemeckis als Regisseur und Hanks als Hauptdarsteller. Der Zeitanker verbindet zwei Filme dieser Zusammenarbeit, die ihre Figuren über lange Lebensabschnitte beobachten. Im späteren Film macht die Isolation den Wechsel der Lebensbedingungen besonders drastisch sichtbar.
 
-Merksatz: 1994 Forrest Gump – 2000 Cast Away: sechs Jahre Zemeckis und Hanks.
 
 - 1996: 1996 liegt vier Jahre davor.
 - 2004: 2004 liegt vier Jahre danach.
@@ -4493,7 +4294,6 @@ Wer inszenierte „Cast Away – Verschollen“ mit Tom Hanks als Chuck Noland?
 
 Robert Zemeckis inszeniert Chuck zunächst zwischen internationalen Arbeitsorten und später fast allein auf der Insel. Die wechselnden Räume machen Zeit und Kontrolle unterschiedlich erfahrbar. Der offizielle BFI-Credit ordnet ihm diese Hanks-Produktion zu, unabhängig von den anderen bekannten Regiepartnerschaften des Darstellers.
 
-Merksatz: Zemeckis schickt Hanks aus dem Zeitplan auf die Insel.
 
 - Robert Zemeckis: Robert Zemeckis führte Regie.
 - Frank Marshall: Marshall trägt diesen Credit nicht.
@@ -4519,7 +4319,6 @@ Welche Tiere stehen in „Zwei Brüder“ als getrennte und später wiederverein
 
 Kumal und Sangha wachsen zunächst gemeinsam in einem Tempel im Dschungel auf. Menschen trennen sie und bringen sie in verschiedene Formen der Gefangenschaft. Die Geschwisterbeziehung gibt dem Tierabenteuer einen Mittelpunkt, der auch ohne erklärende Gespräche der Hauptfiguren verständlich bleibt.
 
-Merksatz: Zwei Tiger tragen eine Geschwistergeschichte.
 
 - Löwen: Die Geschichte handelt nicht von Löwen.
 - Leoparden: Leoparden sind nicht die beiden Haupttiere.
@@ -4541,7 +4340,6 @@ Wohin wird Kumal in „Zwei Brüder“ nach seiner Gefangennahme gebracht?
 
 Die Brüder erleben unterschiedliche Gefangenschaft. Kumal gelangt in einen Zirkus, wo er für Vorstellungen trainiert wird. Sangha kommt zunächst zu einem Jungen. Diese Trennung zeigt verschiedene menschliche Ansprüche an ein wildes Tier, bevor die Brüder wieder aufeinandertreffen.
 
-Merksatz: Kumals Weg führt in die Zirkusmanege.
 
 - In eine private Menagerie am Hof: Die Hofmenagerie gehört zu Sanghas anderem Weg.
 - In das Haus eines Kolonialbeamten: Sangha lebt zunächst beim Sohn des Kolonialbeamten.
@@ -4563,7 +4361,6 @@ Welche Verbindung hat Raoul (Freddie Highmore) in „Zwei Brüder“ zu Sangha?
 
 Raoul (Freddie Highmore) hält Sangha zunächst in der häuslichen Umgebung. Seine Zuneigung schützt den Tiger aber nicht dauerhaft vor den Entscheidungen der Erwachsenen. Der Junge entwickelt später ein anderes Verständnis: Liebe zum Tier kann bedeuten, ihm den Weg zurück in die Wildnis zu ermöglichen.
 
-Merksatz: Raouls Freundschaft muss über ein Haustier hinauswachsen.
 
 - Er nimmt den jungen Tiger zunächst als Haustier auf.: Raoul freundet sich mit dem Jungtier an.
 - Er ist der Dompteur des Zirkus.: Die Zirkusführung liegt nicht beim Jungen.
@@ -4585,7 +4382,6 @@ Was verändert den erzwungenen Kampf der beiden Tiger in „Zwei Brüder“?
 
 Menschen wollen die erwachsenen Tiere gegeneinander antreten lassen. Kumal und Sangha erkennen jedoch ihren Bruder und kehren zum vertrauten Spiel zurück. Die Szene stellt die Bindung der Tiere gegen die Rolle, die ihre Besitzer und Zuschauer ihnen zugedacht haben.
 
-Merksatz: Die Brüder verweigern durch Wiedererkennen den Kampf.
 
 - McRory beendet den Kampf durch einen Warnschuss.: Das Wiedererkennen der Brüder unterbricht ihre Feindschaft.
 - Sie erkennen einander und beginnen wieder zu spielen.: Das Wiedererkennen unterbricht den Kampf.
@@ -4607,7 +4403,6 @@ Woran wird die Mutter der Tiger bei der Wiedervereinigung in „Zwei Brüder“ 
 
 Der Jäger McRory (Guy Pearce) hatte die Tigermutter früher am Ohr verletzt. Beim späteren Wiedersehen wird diese Spur zum Beleg ihrer Identität. Ein Zeichen menschlicher Gewalt erhält damit eine zweite Funktion: Es lässt die Rückkehr zur ursprünglichen Familie nachvollziehbar werden.
 
-Merksatz: Das verletzte Ohr verbindet Anfang und Wiederkehr.
 
 - An einem goldenen Halsband: Ein Goldhalsband trägt sie dafür nicht.
 - An vollständig weißen Pfoten: Weiße Pfoten sind nicht das Wiedererkennungszeichen.
@@ -4629,7 +4424,6 @@ Warum wurden die Tigerfiguren in „Zwei Brüder“ bei manchen Aufnahmen von un
 
 Das Presseheft beschreibt eine Besetzung mit Tierdoubles: Ein Tiger konnte einen besonders ausdrucksvollen Blick haben, aber wenig geeignet zum Rennen sein. Für eine Verfolgung übernahm dann ein ähnliches Tier mit dieser Fähigkeit. Die Figuren Kumal und Sangha wirken als jeweils ein Tier, obwohl mehrere Tiere ihre unterschiedlichen Handlungen darstellen.
 
-Merksatz: Ein Tigercharakter kann mehrere tierische Darsteller haben.
 
 - Die zwei Rollen wurden für jede Kameraeinstellung neu ausgelost.: Die Besetzung folgte passenden Fähigkeiten, nicht einer Auslosung.
 - Die Tiere mussten ständig ersetzt werden, weil jede Aufnahme nur einmal möglich war.: Die Tierdoubles werden im Presseheft über besondere Eignung erklärt.
@@ -4651,7 +4445,6 @@ Wann erschien „Zwei Brüder“ unter dem Originaltitel „Deux Frères“ erst
 
 Jean-Jacques Annauds Der Bär erschien 1988. Zwei Brüder folgte 2004, sechzehn Jahre später, und rückte nun zwei Tiger in den Mittelpunkt. Der Zeitanker verbindet zwei Tierabenteuer desselben Regisseurs. Die Geschichten geben den Tieren eigene Bindungen und Gefahren, statt sie nur als Hintergrund für menschliche Helden zu verwenden. Die Jahre markieren unterschiedliche Kapitel dieser wiederkehrenden filmischen Perspektive.
 
-Merksatz: 1988 Der Bär – 2004 Zwei Brüder: sechzehn Jahre Annauds Tierabenteuer.
 
 - 2004: Der französische Kinostart liegt 2004.
 - 2000: 2000 liegt vier Jahre davor.
@@ -4673,7 +4466,6 @@ Wer inszenierte „Zwei Brüder“ mit Guy Pearce und Freddie Highmore?
 
 Jean-Jacques Annaud erzählt die Trennung und Rückkehr der Tiger mit lebenden Tieren und menschlichen Nebenfiguren. Die offizielle Studioseite nennt ihn als Regisseur. Der Film verbindet die Tierperspektive mit einer Geschichte über Gefangenschaft, Zuneigung und die Möglichkeit eines Lebens in Freiheit.
 
-Merksatz: Annaud lässt die Tigerbrüder zurückfinden.
 
 - Luc Besson: Besson trägt diesen Credit nicht.
 - Jean-Jacques Annaud: Jean-Jacques Annaud führte Regie.
@@ -4699,7 +4491,6 @@ Welches Reiseziel verfolgt Kolumbus (Gérard Depardieu) zu Beginn von „1492 �
 
 Kolumbus (Gérard Depardieu) wirbt für eine Fahrt nach Westen. Er erwartet, damit Asien zu erreichen. Die später gefundenen Inseln stehen deshalb am Ende eines Plans mit einem anderen ursprünglichen Ziel; der Film entwickelt sein Abenteuer aus Wagnis und Irrtum zugleich.
 
-Merksatz: Kolumbus segelt westwärts und erwartet Asien.
 
 - Indien über eine Fahrt um Afrika erreichen: Kolumbus will gerade die westliche Alternative nach Asien erproben.
 - Eine Route zu den nördlichen Fischgründen erkunden: Nordische Fischgründe sind nicht sein Reiseprojekt.
@@ -4721,7 +4512,6 @@ Wer gewährt Kolumbus (Gérard Depardieu) in „1492 – Die Eroberung des Parad
 
 Isabella (Sigourney Weaver) lässt sich vom Reiseprojekt überzeugen, erwartet aber auch Reichtum. Kolumbus (Gérard Depardieu) erhält damit die notwendigen Mittel und eine Verpflichtung gegenüber der Krone. Seine persönliche Vision bleibt von politischen und wirtschaftlichen Erwartungen abhängig.
 
-Merksatz: Isabellas Unterstützung verlangt Ergebnisse.
 
 - Königin Isabella (Sigourney Weaver): Isabella ermöglicht die Expedition.
 - Gabriel Sánchez (Armand Assante): Sánchez ist nicht die gewährende Herrscherin.
@@ -4743,7 +4533,6 @@ Wie verschärft Kolumbus (Gérard Depardieu) in „1492 – Die Eroberung des Pa
 
 Kolumbus (Gérard Depardieu) stellt den Männern eine begrenzte Dauer in Aussicht. Als lange danach noch kein Land sichtbar ist, droht Meuterei. Der Film zeigt die Führungsfrage damit auch als Vertrauensproblem: Die gewonnene Zustimmung beruht auf einer Aussage, die sich nicht erfüllt.
 
-Merksatz: Das Zeitversprechen wird auf See zur Belastung.
 
 - Er unterschlägt vor der Mannschaft die zugesagte Bezahlung.: Der zentrale Vertrauensbruch betrifft die angekündigte Reisedauer.
 - Er nennt eine kürzere Reisedauer, als die Fahrt dann dauert.: Die verstrichene versprochene Zeit fördert das Misstrauen.
@@ -4765,7 +4554,6 @@ Welche Handlung Moxicas (Michael Wincott) beschleunigt in „1492 – Die Erober
 
 Moxica (Michael Wincott) beantwortet fehlende Goldlieferungen mit grausamer Gewalt. Die Nachricht verbreitet sich und die Bewohner ziehen sich zurück. Die ursprüngliche Vorstellung friedlicher Ankunft wird damit durch die koloniale Praxis der Eindringlinge untergraben; die Frage beschreibt die Filmszene, nicht eine vollständige historische Bilanz.
 
-Merksatz: Moxicas Gewalt zerbricht das Vertrauen.
 
 - Er lässt bei der Ankunft sämtliche Nahrungsvorräte beschlagnahmen.: Der im Film hervorgehobene Auslöser ist die Verstümmelung wegen fehlenden Goldes.
 - Er brennt das gemeinsame Handelshaus wegen eines Diebstahls nieder.: Nicht ein niedergebranntes Handelshaus führt hier zum Rückzug.
@@ -4787,7 +4575,6 @@ Warum verändert die zweite große Expedition in „1492 – Die Eroberung des P
 
 Kolumbus (Gérard Depardieu) kehrt mit viel mehr Schiffen und Menschen zurück. Siedlungsbau, Goldforderungen und innere Machtkämpfe treten nun in den Vordergrund. Der Film verschiebt den Blick von einer gefährlichen Fahrt auf die Folgen des europäischen Bleibens für die bestehende Bevölkerung.
 
-Merksatz: Nach der Fahrt beginnt die koloniale Herrschaft.
 
 - Die neuen Schiffe dienen ausschließlich der Rückholung der ersten Besatzung.: Die größere Expedition bringt Siedler und dauerhafte Herrschaftsansprüche.
 - Die zweite Fahrt verzichtet auf Siedler und beschränkt sich auf die Vermessung.: Gerade die Besiedlung verändert die Lage nach der ersten Ankunft.
@@ -4809,7 +4596,6 @@ Welche Funktion hat Ferdinand (Loren Dean) am Ende von „1492 – Die Eroberung
 
 Der ältere Kolumbus (Gérard Depardieu) steht nicht mehr im Mittelpunkt der Macht. Ferdinand (Loren Dean) bittet ihn, seine Geschichte zu erzählen, um sie festzuhalten. Die letzte Szene zeigt damit, wie persönliche Erinnerung zur überlieferten Erzählung werden kann, deren Blick an einen Beteiligten gebunden bleibt.
 
-Merksatz: Ferdinand macht Erinnerung zu einem Bericht.
 
 - Er will dessen Geschichte aufschreiben.: Ferdinand bittet um den Bericht seines Vaters.
 - Er bittet ihn, eine letzte gemeinsame Expedition zu finanzieren.: Die Schlussszene führt zum Aufschreiben der Lebensgeschichte.
@@ -4831,7 +4617,6 @@ In welchem Jahr erschien „1492 – Die Eroberung des Paradieses“ mit Gérard
 
 1992 fiel mit dem fünfhundertsten Jahrestag von Kolumbus’ Atlantikfahrt zusammen. Der BFI beschreibt diesen Anlass für Scotts Produktion. Die titelgebende Zahl bezeichnet daher ein historisches Reisejahr, während das Jubiläum einen individuellen Anker für das tatsächliche Filmjahr liefert.
 
-Merksatz: 1492 plus 500 Jahre: der Film von 1992.
 
 - 1988: 1988 liegt vier Jahre davor.
 - 1992: Der Film erschien 1992.
@@ -4853,7 +4638,6 @@ Wer inszenierte „1492 – Die Eroberung des Paradieses“ mit Gérard Depardie
 
 Ridley Scott inszeniert den Weg von der Reisevision zu den Konflikten der Kolonisation. Gérard Depardieu und Sigourney Weaver verkörpern Entdecker und Förderin. Der BFI-Credit ordnet diese Produktion eindeutig Scott zu; andere Filme über Kolumbus besitzen eigene Besetzungen und Regieangaben.
 
-Merksatz: Scott führt Depardieus Kolumbus über den Atlantik.
 
 - Roland Joffé: Joffé trägt diesen Credit nicht.
 - Hugh Hudson: Hudson inszenierte diesen Film nicht.
@@ -4879,7 +4663,6 @@ Wen versucht Jaguar Pranke (Rudy Youngblood) in „Apocalypto“ vor allem zu re
 
 Jaguar Pranke (Rudy Youngblood) wird bei einem Überfall gefangen genommen. Vorher hat er seine Familie verborgen. Sein Weg aus der Gefangenschaft ist deshalb nicht nur eine Flucht um das eigene Leben: Er muss rechtzeitig zu den Menschen zurückkehren, die weiterhin auf ihn angewiesen sind.
 
-Merksatz: Die Flucht führt zurück zur Familie.
 
 - Seine Frau und seine Kinder: Seine Rückkehr gilt der Familie.
 - Den Priester der eroberten Stadt: Der Priester ist nicht sein Rettungsziel.
@@ -4901,7 +4684,6 @@ Wo versteckt Jaguar Pranke (Rudy Youngblood) seine Frau und seinen Sohn in „Ap
 
 Sieben (Dalia Hernández) und der kleine Sohn steigen in den Schacht. Ein Angreifer kappt jedoch das Seil. Der geschützte Ort wird dadurch zur Falle, und später erhöht Regen die Gefahr: Jaguar Prankes (Rudy Youngblood) Rückkehr ist für ihr Entkommen nötig.
 
-Merksatz: Das Versteck wird durch das gekappte Seil zur Falle.
 
 - In einer Höhle oberhalb des Dorfes: Das gezeigte Versteck liegt unten in einem Schacht.
 - In einem tiefen Brunnenschacht: Der trockene Schacht bietet zunächst Schutz.
@@ -4923,7 +4705,6 @@ Welches Ereignis verhindert in „Apocalypto“ unmittelbar Jaguar Prankes (Rudy
 
 Der Priester (Fernando Hernández) deutet die Sonnenfinsternis als Zeichen, dass die Götter zufriedengestellt seien. Jaguar Pranke (Rudy Youngblood) bleibt deshalb vorerst am Leben. Die Freilassung bedeutet jedoch keine Sicherheit, denn die Gefangenen werden anschließend erneut einer tödlichen Verfolgung ausgesetzt.
 
-Merksatz: Die Finsternis stoppt das Ritual, nicht die Gefahr.
 
 - Ein Erdbeben: Ein Erdbeben stoppt das Ritual nicht.
 - Ein Angriff der Spanier auf die Pyramide: Die Spanier greifen dort nicht ein.
@@ -4945,7 +4726,6 @@ Was verschafft Jaguar Pranke (Rudy Youngblood) in „Apocalypto“ während der 
 
 Jaguar Pranke (Rudy Youngblood) kehrt in vertrautes Gelände zurück. Tiere, Wege und Fallen kann er nun gegen seine Verfolger einsetzen. Das Wissen, das zu Beginn den Lebensunterhalt seiner Gruppe sicherte, wird zur Überlebenstechnik gegen einen zahlenmäßig stärkeren Gegner.
 
-Merksatz: Der Jäger macht seinen Wald zum Vorteil.
 
 - Eine verdeckte Vereinbarung mit Männern seiner Verfolger: Sein Vorteil stammt aus eigenem Wissen um das Gelände.
 - Ein erbeuteter Plan der Wege durch den Wald: Er benötigt keinen fremden Wegeplan für seinen vertrauten Wald.
@@ -4967,7 +4747,6 @@ Wie besiegt Jaguar Pranke (Rudy Youngblood) in „Apocalypto“ den Anführer Ze
 
 Zero Wolf (Raoul Trujillo) treibt die Verfolgung nach dem Tod seines Sohnes weiter. Jaguar Pranke (Rudy Youngblood) nutzt eine vertraute Falle, wie sie seine Gruppe für die Jagd gebaut hatte. Die Verhältnisse kehren sich um: Der Gejagte entscheidet nun über die Wege seines Verfolgers.
 
-Merksatz: Der Gejagte führt den Verfolger in die Falle.
 
 - Er lockt ihn in eine Jagdfalle.: Eine für die Tierjagd gedachte Falle entscheidet den Kampf.
 - Er besiegt ihn in einem vereinbarten Zweikampf auf dem Dorfplatz.: Die eigentliche Entscheidung fällt durch die vorbereitete Jagdfalle.
@@ -4989,7 +4768,6 @@ Wie reagiert Jaguar Pranke (Rudy Youngblood) in „Apocalypto“ auf die fremden
 
 Die Verfolger wenden ihre Aufmerksamkeit den spanischen Ankommenden zu. Jaguar Pranke (Rudy Youngblood) nutzt den Moment für die Rettung Siebens (Dalia Hernández) und der Kinder. Der Schluss setzt die neue Gefahr und den Familienweg nebeneinander, ohne die Schiffe als seine einfache Rettung zu behandeln.
 
-Merksatz: Die Schiffe öffnen einen Ausweg, keine sichere Zukunft.
 
 - Er sucht mit der Familie bei den Neuankömmlingen Schutz.: Er hält Abstand und wählt mit der Familie den Wald.
 - Er kehrt zur Familie zurück und sucht ein neues Leben im Wald.: Er wählt den Rückweg und schließlich den Wald.
@@ -5011,7 +4789,6 @@ Wann erschien „Apocalypto“ mit Rudy Youngblood erstmals im Kino?
 
 Mel Gibsons Die Passion Christi erschien 2004. Apocalypto folgte 2006, zwei Jahre später, wiederum als seine Regiearbeit. Der Zeitanker verbindet zwei historische Stoffe, die Gibson sehr unterschiedlich erzählt: Auf die Darstellung der letzten Stunden Jesu folgt ein Flucht- und Rettungsabenteuer in einer mesoamerikanischen Welt. Das Filmjahr bezeichnet jeweils die moderne Veröffentlichung und nicht die dargestellte Epoche.
 
-Merksatz: 2004 Die Passion Christi – 2006 Apocalypto: zwei Jahre Gibsons Regiearbeiten.
 
 - 2002: 2002 liegt vier Jahre davor.
 - 2010: 2010 liegt vier Jahre danach.
@@ -5033,7 +4810,6 @@ Wer inszenierte „Apocalypto“ mit Rudy Youngblood und Dalia Hernández?
 
 Mel Gibson inszeniert Jaguar Prankes Weg von der Gefangennahme zur Rückkehr in den Wald. Der BFI-Katalog bestätigt den Regiecredit. Die Fragen beziehen sich auf die konkrete Filmhandlung; deren zugespitzte historische Darstellung ersetzt keine umfassende Geschichte der Maya.
 
-Merksatz: Gibson inszeniert Jaguar Prankes Rückkehr.
 
 - Terrence Malick: Malick inszenierte diesen Film nicht.
 - Alejandro González Iñárritu: Iñárritu trägt diesen Credit nicht.
@@ -5059,7 +4835,6 @@ Welche familiäre Beziehung hat Hawkeye (Daniel Day-Lewis) in „Der letzte Mohi
 
 Hawkeye (Daniel Day-Lewis) reist mit Chingachgook (Russell Means) und dessen Sohn Uncas (Eric Schweig). Die Männer bilden eine Familie trotz unterschiedlicher Herkunft. Dieser Zusammenhang erklärt ihre gegenseitige Bindung jenseits der militärischen Lager, die die Landschaft in Kriegsgebiet verwandeln.
 
-Merksatz: Hawkeye gehört durch Adoption zur Familie.
 
 - Er ist dessen Schwiegersohn.: Die Bindung beruht auf Adoption, nicht auf einer Heirat.
 - Er ist dessen Adoptivsohn.: Chingachgook hat Hawkeye als Sohn angenommen.
@@ -5081,7 +4856,6 @@ Warum reisen Cora (Madeleine Stowe) und Alice (Jodhi May) in „Der letzte Mohik
 
 Cora (Madeleine Stowe) und Alice (Jodhi May) sind Töchter Colonel Munros (Maurice Roëves). Ihre Reise führt sie gerade dorthin, wo eine Belagerung droht. Der Familienbesuch wird damit zum Weg in den Krieg und bringt die Frauen mit Hawkeyes (Daniel Day-Lewis) Gruppe zusammen.
 
-Merksatz: Der Weg zum Vater führt in die Belagerung.
 
 - Sie sollen dort auf eine Überfahrt nach England warten.: Der unmittelbare Reiseanlass ist der Besuch bei ihrem Vater.
 - Sie wollen einen gefangenen Verwandten auslösen.: Ein Gefangenenaustausch ist nicht ihr Auftrag.
@@ -5103,7 +4877,6 @@ Welche gebrochene Vereinbarung veranlasst Hawkeye (Daniel Day-Lewis) in „Der l
 
 Die Milizionäre hatten nur unter einer Bedingung Dienst zugesagt: Bei Gefahr sollten sie ihre eigenen Höfe schützen dürfen. Munro (Maurice Roëves) hält sich nicht daran. Hawkeye (Daniel Day-Lewis) unterstützt ihre Rückkehr und gerät dadurch selbst unter den Vorwurf des Aufruhrs.
 
-Merksatz: Die Heimatpflicht widerspricht dem Befehl im Fort.
 
 - Ihnen wird der zugesagte Sold für den Dienst vorenthalten.: Der Vertragsbruch betrifft die verweigerte Rückkehr zu ihren bedrohten Familien.
 - Ihr Dienst wird entgegen der Zusage auf mehrere Jahre verlängert.: Eine mehrjährige Dienstverlängerung ist nicht die strittige Vereinbarung.
@@ -5125,7 +4898,6 @@ Welche Vorgeschichte erklärt Maguas (Wes Studi) besonderen Hass auf Munro (Maur
 
 Magua (Wes Studi) verfolgt eigene Ziele innerhalb des Krieges. Er gibt Munro (Maurice Roëves) die Schuld an Familienverlust und Versklavung. Sein Angriff auf die Töchter richtet sich deshalb gegen die Familie seines Gegners und geht über einen bloßen militärischen Seitenkonflikt hinaus.
 
-Merksatz: Magua führt eine persönliche Rache im Krieg.
 
 - Er macht Munro für den Verlust seiner Familie und seine Versklavung verantwortlich.: Magua verbindet Munro mit seinen schweren persönlichen Verlusten.
 - Er macht Munro für den Tod eines französischen Offiziers verantwortlich.: Der persönliche Verlust betrifft seine Familie und seine Versklavung.
@@ -5147,7 +4919,6 @@ Wie verändert Heyward (Steven Waddington) in „Der letzte Mohikaner“ Hawkeye
 
 Hawkeye (Daniel Day-Lewis) will sich für Cora (Madeleine Stowe) einsetzen. Heyward (Steven Waddington) übersetzt die Verhandlung, verändert aber den entscheidenden Inhalt. Der zuvor eifersüchtige Mann rettet sie so durch den eigenen Tod; seine Handlung korrigiert das frühere Bild seiner Rivalität.
 
-Merksatz: Heywards Übersetzung wird zu seinem Opfer.
 
 - Er verspricht, Cora erst nach Zahlung eines Lösegelds mitzunehmen.: Heyward verändert das angebotene Menschenopfer, nicht eine Geldforderung.
 - Er übersetzt es so, dass er selbst an Coras Stelle sterben soll.: Heyward ersetzt Hawkeyes Opferangebot durch sein eigenes.
@@ -5169,7 +4940,6 @@ Welche Aufgabe übernimmt Chingachgook (Russell Means) im letzten Kampf von „D
 
 Magua (Wes Studi) hat Uncas (Eric Schweig) getötet. Hawkeye (Daniel Day-Lewis) hält die übrigen Gegner in Schach, während Chingachgook (Russell Means) Magua begegnet. Der Schlusskampf wird dadurch als Tat des Vaters gestaltet und führt zum anschließenden Abschied von seinem Sohn.
 
-Merksatz: Chingachgook führt den letzten persönlichen Kampf.
 
 - Er lenkt die Verfolger ab, während Uncas Magua bekämpft.: Uncas ist bereits getötet; sein Vater übernimmt den letzten Zweikampf.
 - Er nimmt Magua lebend gefangen und liefert ihn den Briten aus.: Magua wird nicht lebend an die Briten ausgeliefert.
@@ -5191,7 +4961,6 @@ Wann erschien „Der letzte Mohikaner“ mit Daniel Day-Lewis erstmals im Kino?
 
 James Fenimore Coopers Roman Der letzte Mohikaner erschien 1826. Michael Manns Verfilmung mit Daniel Day-Lewis wurde 1992 veröffentlicht, 166 Jahre später. Die Vorlage erzählt dagegen von Ereignissen während des Krieges im Jahr 1757. Der Zeitanker trennt damit drei Ebenen: die erzählte Vergangenheit, das Erscheinen des Romans und die spätere Bearbeitung als historisches Kinoabenteuer.
 
-Merksatz: 1826 Coopers Roman – 1992 Manns Film: 166 Jahre Abstand.
 
 - 1988: 1988 liegt vier Jahre davor.
 - 1996: 1996 liegt vier Jahre danach.
@@ -5213,7 +4982,6 @@ Wer inszenierte „Der letzte Mohikaner“ mit Daniel Day-Lewis und Madeleine St
 
 Michael Mann verbindet die gefährliche Reise der Familie mit militärischen und persönlichen Loyalitätskonflikten. Der BFI-Credit bezeichnet die Fassung mit Daniel Day-Lewis. Die Romanvorlage wurde mehrfach verfilmt; dieser Besetzungsbezug hält die Regiefrage bei einer eindeutig bestimmten Produktion.
 
-Merksatz: Mann führt Day-Lewis durch den Krieg im Wald.
 
 - Michael Mann: Michael Mann führte Regie.
 - Kevin Costner: Costner trägt diesen Regiecredit nicht.
@@ -5239,7 +5007,6 @@ Welche Stellung hat Edmond Dantès (Jean Marais) zu Beginn von „Der Graf von M
 
 Dantès (Jean Marais) kehrt als neuer Kapitän nach Marseille zurück und möchte Mercédès (Lia Amanda) heiraten. Die Intrige zerstört deshalb mehrere Zukunftsaussichten zugleich. Sein späterer Reichtum beantwortet zunächst einen Verlust von Freiheit, Beruf und persönlichem Glück.
 
-Merksatz: Dantès verliert eine gerade beginnende Zukunft.
 
 - Er ist der königliche Staatsanwalt.: Das Staatsanwaltsamt hat ein anderer Mann.
 - Er ist ein verurteilter Pirat.: Er beginnt nicht als verurteilter Pirat.
@@ -5261,7 +5028,6 @@ Was ermöglicht Dantès (Jean Marais) in „Der Graf von Monte Christo“ nach s
 
 Nach der Haft findet Dantès (Jean Marais) den Schatz, dessen Lage er erfahren hat. Geld erlaubt ihm, in der Gesellschaft anders aufzutreten und seine Gegner aus einer neuen Position zu verfolgen. Der Graf ist seine gewählte Identität nach der Rückkehr, kein zweiter Mensch.
 
-Merksatz: Der Schatz finanziert Dantès’ neue Identität.
 
 - Eine Erbschaft von seinem Vater: Sein Vater hinterlässt ihm nicht das entscheidende Vermögen.
 - Ein gewinnbringender Verkauf der Pharao: Der Reichtum entsteht nicht aus einem Schiffsverkauf.
@@ -5283,7 +5049,6 @@ Welche Rolle spielt Abbé Faria (Gualtiero Tumiati) für Dantès (Jean Marais) i
 
 Faria (Gualtiero Tumiati) ist für den Gefangenen Dantès (Jean Marais) Freund und Helfer. Vor seinem Tod gibt er das Wissen um den Schatz weiter. Die spätere scheinbar unabhängige Macht des Grafen beruht damit auf der Hilfe eines Menschen aus seiner dunkelsten Lebensphase.
 
-Merksatz: Farias Hilfe reicht über seinen Tod hinaus.
 
 - Er wird zum Mitgefangenen und weist den Weg zum Schatz.: Faria hilft ihm in der Gefangenschaft und verrät das Schatzgeheimnis.
 - Er verurteilt Dantès als königlicher Richter.: Er ist nicht sein Richter.
@@ -5305,7 +5070,6 @@ Welchen politischen Vorwurf nutzen Dantès’ Gegner in „Der Graf von Monte Ch
 
 Dantès (Jean Marais) hatte auf der Rückreise einen letzten Auftrag seines Vorgängers auf Elba erfüllt. Die Gegner verwandeln diesen Zwischenstopp in eine politische Anklage. Der Film zeigt so, wie private Neid- und Liebesmotive mithilfe staatlicher Verdächtigung wirksam werden.
 
-Merksatz: Ein Zwischenstopp wird zur politischen Falle.
 
 - Er habe Waffen an englische Kriegsschiffe verkauft.: Die Anklage nutzt seine Verbindung zu Elba und Napoleon.
 - Er sei ein Agent Napoleons.: Die Denunziation stellt ihn als bonapartistischen Agenten dar.
@@ -5327,7 +5091,6 @@ Welche Grenze zeigt „Der Graf von Monte Christo“ trotz der erfolgreichen Rac
 
 Dantès (Jean Marais) kann den sozialen Aufstieg seiner Gegner zerstören. Mercédès (Lia Amanda) bleibt jedoch nicht als wiedergewonnene Zukunft bei ihm. Die Filmfassung trennt den Erfolg der Vergeltung damit von der Wiederherstellung des früheren Glücks: Gewonnene Macht macht die verlorenen Jahre nicht ungeschehen.
 
-Merksatz: Rache holt das frühere Glück nicht zurück.
 
 - Er kann Villeforts frühere Machenschaften nicht offenlegen.: Villeforts Verbrechen werden tatsächlich aufgedeckt.
 - Er findet keinen Beweis für Fernands Verbrechen.: Auch Fernands Verbrechen bringt Dantès ans Licht.
@@ -5349,7 +5112,6 @@ Welche Besonderheit hat Robert Vernays Fassung von „Der Graf von Monte Christo
 
 Robert Vernay hatte die Geschichte bereits in einer Schwarzweißfassung umgesetzt. Für den Film mit Jean Marais kehrte er zum selben Stoff zurück und gestaltete ihn als Farbproduktion. Die Adaption ist damit auch ein Beispiel für einen Regisseur, der eine eigene frühere Arbeit neu interpretiert.
 
-Merksatz: Vernay verfilmt den eigenen früheren Stoff neu.
 
 - Er verfilmte den Stoff zum ersten Mal nach mehreren Bühnenerfolgen.: Vernay hatte den Stoff bereits selbst als Schwarzweißfilm verfilmt.
 - Er setzte seine frühere Fassung mit Jean Marais als demselben Darsteller fort.: Die frühere Fassung hatte Pierre Richard-Willm in der Hauptrolle.
@@ -5371,7 +5133,6 @@ Wann erschien „Der Graf von Monte Christo“ mit Jean Marais erstmals im Kino?
 
 Robert Vernay hatte den Monte-Christo-Stoff bereits 1943 mit Pierre Richard-Willm verfilmt. Seine neue Fassung mit Jean Marais erschien 1954, elf Jahre später. Beide Bearbeitungen wurden als Zweiteiler angelegt. Der Zeitanker verbindet somit nicht nur denselben Dumas-Roman, sondern auch die erneute Arbeit desselben Regisseurs, der die Geschichte von Verrat und Rache mit einem anderen Hauptdarsteller aufgriff.
 
-Merksatz: 1943 Vernay mit Richard-Willm – 1954 mit Marais: elf Jahre Abstand.
 
 - 1954: Die beiden Teile erschienen 1954.
 - 1950: 1950 liegt vier Jahre davor.
@@ -5393,7 +5154,6 @@ Wer inszenierte „Der Graf von Monte Christo“ mit Jean Marais als Edmond Dant
 
 Robert Vernay inszeniert Jean Marais’ Wechsel vom jungen Kapitän zum reichen Grafen. Der Sendernachweis führt ihn als Regisseur der französisch-italienischen Produktion. Die Frage gilt beiden Teilen dieser Fassung; spätere Monte-Christo-Filme müssen über ihre jeweilige Besetzung getrennt identifiziert werden.
 
-Merksatz: Vernay führt Marais vom Kapitän zum Grafen.
 
 - André Hunebelle: Hunebelle trägt diesen Credit nicht.
 - Robert Vernay: Robert Vernay führte Regie.
@@ -5419,7 +5179,6 @@ Welches persönliche Motiv treibt D’Artagnan (Justin Chambers) in „The Muske
 
 D’Artagnan (Justin Chambers) begegnet dem Schwertkämpfer Febre (Tim Roth) bereits als Kind. Der Junge überlebt dessen Angriff und verwundet ihn am Auge. Später verbindet sich seine Suche nach einem Platz bei den königlichen Musketieren mit dieser persönlichen Rechnung. Der Film legt den Rachekonflikt damit lange vor die politische Intrige am Hof.
 
-Merksatz: D’Artagnans Abenteuer beginnt mit dem Verlust seiner Eltern.
 
 - Seinen verschollenen Bruder finden: Eine Brudersuche bildet nicht seinen persönlichen Antrieb.
 - Die Hochzeit seiner Schwester verhindern: Eine bedrohte Hochzeit der Schwester steht nicht am Anfang.
@@ -5441,7 +5200,6 @@ Welche Lage findet D’Artagnan (Justin Chambers) bei den königlichen Musketier
 
 D’Artagnan (Justin Chambers) erwartet in Paris eine intakte königliche Elitetruppe. Stattdessen ist ihr Zusammenhalt zerstört, und ihr Hauptmann Tréville (Michael Byrne) sitzt im Gefängnis. Der Neuankömmling muss sich deshalb nicht nur bewähren. Er hilft auch dabei, eine ausgeschaltete Institution wieder handlungsfähig zu machen, während der Hof von inneren Machtkämpfen bedroht wird.
 
-Merksatz: Der neue Bewerber muss die ausgeschalteten Musketiere wieder sammeln.
 
 - Die Truppe ist aufgelöst worden: Die Musketiere wurden aufgelöst.
 - Die Truppe wartet auf ihren Einsatz in Spanien: Sie warten nicht als bestehende Truppe auf einen spanischen Einsatz.
@@ -5463,7 +5221,6 @@ Wozu reist die Königin (Catherine Deneuve) in „The Musketeer“ heimlich an d
 
 Die Königin (Catherine Deneuve) reist mit Hilfe von D’Artagnan (Justin Chambers) zu Buckingham (Jeremy Clyde). Der geheime Kontakt soll Feindschaft zwischen Frankreich und England verhindern. Gerade diese Verständigung macht sie für die Intriganten gefährlich. Febre (Tim Roth) versucht, aus der diplomatischen Begegnung eine Falle zu machen, die beide Seiten gegeneinander aufbringen kann.
 
-Merksatz: Die heimliche Küstenreise soll einen Krieg verhindern.
 
 - Zur Anwerbung englischer Soldaten: Sie will keine englischen Soldaten anwerben.
 - Zu Friedensgesprächen mit Buckingham: Sie will mit Buckingham den Frieden sichern.
@@ -5485,7 +5242,6 @@ Warum bittet Richelieu (Stephen Rea) in „The Musketeer“ ausgerechnet D’Art
 
 Richelieu (Stephen Rea) setzt zunächst Gewalt als Werkzeug seiner Politik ein. Febre (Tim Roth) entwickelt jedoch einen eigenen Plan für einen offenen Krieg. Der Kardinal sucht deshalb heimlich den Mann auf, dessen Gegner er bislang war. D’Artagnan (Justin Chambers) stimmt der Hilfe wegen der gefangenen Francesca (Mena Suvari) zu, nicht aus neu gewonnener Treue zum Kardinal.
 
-Merksatz: Der Intrigant braucht Hilfe gegen sein eigenes Werkzeug.
 
 - Die Königin verweigert Richelieu jeden direkten Kontakt: Eine Kontaktsperre der Königin erklärt die Bitte nicht.
 - Richelieus eigene Wachen liegen außerhalb von Paris: Eine bloße Entfernung seiner Wachen ist nicht der Anlass.
@@ -5507,7 +5263,6 @@ Womit macht Febre (Tim Roth) die erzwungene Einladung an Buckingham (Jeremy Clyd
 
 Febre (Tim Roth) hält die Königin (Catherine Deneuve) fest und zwingt sie, Buckingham (Jeremy Clyde) zu einem Treffen einzuladen. Ihr Ring verleiht dem Brief scheinbare Echtheit. Ein Zeichen königlicher Vertrauenswürdigkeit wird so zum Instrument der Täuschung. Der Adressat soll gerade wegen der vertrauten Absenderin in die militärisch vorbereitete Falle kommen.
 
-Merksatz: Das echte königliche Zeichen deckt eine falsche Absicht.
 
 - Mit dem Schwert Trévilles: Trévilles Schwert legitimiert den Brief nicht.
 - Mit einer päpstlichen Bulle: Eine päpstliche Bulle wird dafür nicht eingesetzt.
@@ -5529,7 +5284,6 @@ Wie schafft Planchet (Jean-Pierre Castaldi) beim Angriff auf die Festung in „T
 
 Während die Musketiere die Festung angreifen, bringt Planchet (Jean-Pierre Castaldi) seinen Wagen dicht vor das Tor. Die Fahrt nutzt den Bereich unter dem Schussfeld der Verteidiger. Aus dem scheinbaren Transportmittel wird eine mobile Feuerstellung. Sein versteckter Mörser schafft die Öffnung, die die Angreifer für die Rettung der Gefangenen benötigen.
 
-Merksatz: Planchets Wagen liefert den entscheidenden Durchbruch.
 
 - Mit einem im Wagen verborgenen Mörser: Der Wagen bringt den versteckten Mörser vor die Festung.
 - Mit einem unterirdischen Sprengstollen: Ein unterirdischer Stollen ist nicht sein Zugang.
@@ -5551,7 +5305,6 @@ In welchem Jahr erschien „The Musketeer“ mit Justin Chambers und Tim Roth er
 
 Alexandre Dumas’ Roman Die drei Musketiere erschien 1844. Peter Hyams’ freie Bearbeitung folgte 2001, also 157 Jahre später. Justin Chambers spielt D’Artagnan, Tim Roth dessen Gegenspieler Febre. Der große Abstand macht diese Verfilmung als neuerliche Umformung eines lange etablierten Abenteuerstoffs merkbar: Die persönliche Rache und die akrobatischen Kämpfe rücken hier besonders in den Vordergrund.
 
-Merksatz: 1844 Roman, 2001 Hyams’ akrobatische Bearbeitung: 157 Jahre Abstand.
 
 - 1994: 1994 ist für diese Verfilmung zu früh.
 - 2001: 2001 ist die erste Veröffentlichung dieser Fassung.
@@ -5573,7 +5326,6 @@ Wer führte bei „The Musketeer“ mit Justin Chambers Regie?
 
 Peter Hyams übernahm bei diesem Film auch die Kameraarbeit. Die Inszenierung verbindet das historische Kostümabenteuer mit körperbetonten, akrobatischen Kämpfen. Justin Chambers spielt D’Artagnan und Tim Roth den gefährlichen Febre. Der Name Hyams bezeichnet damit die Verantwortung für diese konkrete Bearbeitung; die berühmte literarische Vorlage wird durch die filmische Gestaltung neu gewichtet.
 
-Merksatz: Hyams inszeniert und fotografiert das akrobatische Musketier-Abenteuer.
 
 - Richard Lester: Lester inszenierte andere Musketier-Verfilmungen.
 - Paul W. S. Anderson: Anderson führte nicht bei dieser Fassung Regie.
@@ -5599,7 +5351,6 @@ Welche Tätigkeit prägt Phileas Fogg (Steve Coogan) in „In 80 Tagen um die We
 
 Phileas Fogg (Steve Coogan) glaubt an neue technische Möglichkeiten und wird von den etablierten Wissenschaftlern verspottet. Seine Reise ist deshalb auch ein öffentlicher Versuch, ernst genommen zu werden. Die Figur unterscheidet sich vom streng geregelten Gentleman anderer Fassungen. Apparate und Improvisation gehören hier zur Weltreise, auf der seine Ideen praktisch auf die Probe gestellt werden.
 
-Merksatz: Fogg will seine Erfindungskraft öffentlich beweisen.
 
 - Er entwickelt technische Erfindungen: Fogg ist ein exzentrischer Erfinder, der Anerkennung sucht.
 - Er leitet eine Operntruppe: Eine Operntruppe ist nicht sein Beruf.
@@ -5621,7 +5372,6 @@ Wozu möchte Lau Xing (Jackie Chan) den Jade-Buddha in „In 80 Tagen um die Wel
 
 Lau Xing (Jackie Chan) nennt sich auf der Reise Passepartout und verschweigt Phileas Fogg (Steve Coogan) zunächst seine Absicht. Die Statue aus der Bank of England gehört zu seinem Heimatdorf. Der vermeintliche Diebstahl enthält damit eine Rückgabeabsicht. Seine persönliche Mission kreuzt Foggs Wette und erklärt, warum er sich dem reisenden Erfinder anschließt.
 
-Merksatz: Die gestohlene Statue soll nach Hause.
 
 - Um ihn in Hongkong zu versteigern: Eine Versteigerung ist nicht sein Ziel.
 - Um ihn seinem Dorf zurückzugeben: Der Buddha wurde seinem Dorf gestohlen.
@@ -5643,7 +5393,6 @@ Was verbindet Monique La Roche (Cécile de France) in „In 80 Tagen um die Welt
 
 Monique La Roche (Cécile de France) begegnet den Reisenden in Paris und schließt sich ihnen an. Als Malerin bringt sie eine eigene Perspektive in das zunächst männliche Duo. Sie erfährt außerdem den wahren Grund für Lau Xings (Jackie Chan) Reise und behält ihn vorerst für sich. Ihre Beteiligung geht daher über eine zufällige Begleitung hinaus.
 
-Merksatz: Monique bringt Malerei und eine eigene Entscheidung in die Reise.
 
 - Sie handelt als Auktionatorin: Sie leitet keine Auktion.
 - Sie arbeitet als Bildhauerin: Bildhauerei ist nicht ihr Beruf.
@@ -5665,7 +5414,6 @@ Was soll Fogg (Steve Coogan) nach Lord Kelvins (Jim Broadbent) Wettbedingungen a
 
 Lord Kelvin (Jim Broadbent) will Phileas Fogg (Steve Coogan) als wissenschaftlichen Außenseiter ausschalten. Der Einsatz betrifft daher dessen Lebensaufgabe. Umgekehrt soll Kelvin bei Foggs Erfolg sein eigenes Amt räumen. Die Wette verbindet eine Reise mit einem Streit über die Zukunft der Wissenschaft: Etablierte Autorität und neue Ideen messen sich an einem praktisch überprüfbaren Vorhaben.
 
-Merksatz: Fogg setzt seine wissenschaftliche Zukunft auf die Weltreise.
 
 - Seine britische Staatsangehörigkeit: Die Staatsangehörigkeit steht nicht auf dem Spiel.
 - Sein gesamtes Personal: Die Wette verlangt nicht die Entlassung aller Bediensteten.
@@ -5687,7 +5435,6 @@ Warum verpassen Fogg (Steve Coogan) und Monique (Cécile de France) in „In 80 
 
 Lau Xing (Jackie Chan) will General Fang (Karen Mok) aufhalten, damit Phileas Fogg (Steve Coogan) und Monique (Cécile de France) das Schiff erreichen können. Beide kehren jedoch zu ihm zurück. Die Verspätung entsteht somit aus einer bewussten Entscheidung für Zusammenhalt. Foggs Ziel bleibt wichtig, aber er behandelt den Freund nicht mehr als austauschbares Mittel seiner Wette.
 
-Merksatz: Freundschaft kostet die geplante Abfahrt.
 
 - Sie kehren zurück, um Lau Xing im Kampf zu helfen: Sie entscheiden sich für ihren Freund statt für die rechtzeitige Abfahrt.
 - Sie suchen stundenlang verlorene Fahrkarten: Die Ursache sind nicht verlorene Fahrkarten.
@@ -5709,7 +5456,6 @@ Warum hat Fogg (Steve Coogan) die Wette in „In 80 Tagen um die Welt“ trotz s
 
 Phileas Fogg (Steve Coogan) hält seine Rückkehr zunächst für zu spät. Erst dann berücksichtigt er die Datumsgrenze: Sein eigener Reisetagezähler und der Kalender in London stimmen nach der ostwärtigen Umrundung nicht überein. Der scheinbare Misserfolg wird dadurch zum Erfolg. Diese Pointe verbindet den fantastischen Technikeinsatz der Adaption mit dem berühmten Kalendertrick der Vorlage.
 
-Merksatz: Ostwärts um die Erde bringt einen zusätzlichen Kalendertag.
 
 - Kelvin hat versehentlich zwei verschiedene Uhren benutzt: Ein Uhrenfehler Kelvins erklärt den Sieg nicht.
 - Er hat beim ostwärtigen Umlauf einen Kalendertag gewonnen: Die Datumsgrenze erklärt den zusätzlichen Tag in London.
@@ -5731,7 +5477,6 @@ In welchem Jahr erschien „In 80 Tagen um die Welt“ mit Jackie Chan und Steve
 
 Die bekannte Verfilmung mit David Niven und Cantinflas erschien 1956. Die freie Neufassung mit Steve Coogan und Jackie Chan folgte 2004, also 48 Jahre später. D23 nennt die ältere Produktion ausdrücklich als Vorgänger der Neuverfilmung. Der Zeitanker verbindet denselben Reisegrundgedanken mit einer veränderten Ausgestaltung: technische Erfindungen, Kampfkunst und Lau Xings eigene Mission bestimmen nun das Abenteuer.
 
-Merksatz: 1956 klassische Weltreise, 2004 freie Neufassung: 48 Jahre Abstand.
 
 - 1996: 1996 liegt vor ihrer Premiere.
 - 2000: 2000 ist zu früh für diesen Film.
@@ -5753,7 +5498,6 @@ Wer führte bei „In 80 Tagen um die Welt“ mit Jackie Chan und Steve Coogan R
 
 Frank Coraci inszeniert diese Weltreise als Familienabenteuer mit Komik, Erfindungen und Kampfkunst. Steve Coogan spielt den exzentrischen Phileas Fogg, Jackie Chan den Begleiter mit einer geheimen Rückgabemission. Die Besetzung und die Regie gehören zu dieser freien Bearbeitung. Der bekannte Reiseplan aus Jules Vernes Roman bleibt der Rahmen, während die Figuren neue Konflikte und Fähigkeiten erhalten.
 
-Merksatz: Coraci führt die Weltreise mit Coogan und Chan.
 
 - Michael Anderson: Anderson gehört zur älteren David-Niven-Fassung.
 - Stephen Sommers: Sommers führte nicht bei dieser realisierten Fassung Regie.
@@ -5779,7 +5523,6 @@ Welche ungewöhnliche Technik prägt die Kämpfe in „Die drei Musketiere“ mi
 
 Die Handlung versetzt ein bekanntes Kostümabenteuer in eine fantastische Technikwelt. Pläne, die Leonardo da Vinci zugeschrieben werden, ermöglichen bewaffnete Luftschiffe. Athos (Matthew Macfadyen), Porthos (Ray Stevenson) und Aramis (Luke Evans) müssen sich deshalb auch in der Luft behaupten. Historische Kleidung und Fechtkämpfe bilden hier keinen Anspruch auf realistische Technikgeschichte, sondern einen Rahmen für spektakuläre Abenteuerbilder.
 
-Merksatz: Die Musketiere kämpfen diesmal auch auf Luftschiffen.
 
 - Druckluftbetriebene Tauchboote: Tauchboote sind nicht das prägende Kampfgerät.
 - Bewaffnete Luftschiffe: Luftschiffe tragen die Kämpfe über die Stadt.
@@ -5801,7 +5544,6 @@ Welchen Gegenstand müssen die Helden in „Die drei Musketiere“ rechtzeitig z
 
 Königin Anne (Juno Temple) soll ihr Halsband bei einem Ball tragen. Fehlt es, will Richelieu (Christoph Waltz) daraus einen Verdacht gegen sie entstehen lassen. Constance (Gabriella Wilde) bittet die Musketiere um Hilfe. Der Rettungsauftrag gilt damit einem Schmuckstück, dessen Anwesenheit oder Abwesenheit am Hof politische Folgen für die Beziehung zwischen Frankreich und England haben kann.
 
-Merksatz: Das Halsband muss rechtzeitig zum Ball zurück.
 
 - Ihr königliches Siegel: Ein fehlendes Siegel ist nicht die Grundlage dieser Intrige.
 - Ihre Hochzeitskrone: Die Krone ist nicht das nach London gebrachte Beweisstück.
@@ -5823,7 +5565,6 @@ Wie gerät Milady (Milla Jovovich) in London in „Die drei Musketiere“ in die
 
 Milady (Milla Jovovich) glaubt nach ihrem Einsatz in London, mit der Kutsche entkommen zu können. Der Fahrer ist jedoch Planchet (James Corden), der Diener der Musketiere. Er liefert sie seinen Herren aus. Die Szene verändert die Bedeutung einer vermeintlichen Fluchtmöglichkeit: Nicht nur die spektakulären Kämpfer, sondern auch ihr unauffälliger Helfer kann den Ablauf entscheidend lenken.
 
-Merksatz: Miladys Fluchtkutsche fährt zu ihren Gegnern.
 
 - Buckingham übergibt sie öffentlich an den König: Buckingham liefert sie nicht auf diese Weise aus.
 - Richelieu schickt ihr einen gefälschten Haftbefehl: Ein Haftbefehl des Kardinals führt nicht zur Gefangennahme.
@@ -5845,7 +5586,6 @@ Welche Rolle spielen die Liebesbriefe bei Richelieus (Christoph Waltz) Intrige g
 
 Richelieu (Christoph Waltz) lässt Milady (Milla Jovovich) falsche Liebesbriefe unter den Sachen von Königin Anne (Juno Temple) verstecken. Zusammen mit dem gestohlenen Halsband sollen sie eine Affäre mit Buckingham (Orlando Bloom) glaubhaft machen. Die vermeintlich private Verfehlung wird als politischer Hebel benutzt. Der junge König soll zu einer Entscheidung gedrängt werden, die den Kardinal stärkt.
 
-Merksatz: Falsche private Beweise dienen einem öffentlichen Machtplan.
 
 - Sie werden als falsche Beweise bei ihr platziert: Die gefälschten Briefe sollen eine Affäre mit Buckingham beweisen.
 - Sie enthalten echte Friedensangebote Englands: Ein Friedensangebot ist nicht ihr Inhalt oder Zweck.
@@ -5867,7 +5607,6 @@ Warum lässt sich D’Artagnan (Logan Lerman) in London in „Die drei Musketier
 
 Milady (Milla Jovovich) erklärt Buckingham (Orlando Bloom), wie die Musketiere vermutlich angreifen werden. D’Artagnan (Logan Lerman) erfüllt diese Erwartung scheinbar und wird gefangen. Seine Freunde nutzen die Ablenkung, um das Luftschiff zu übernehmen und ihn zu befreien. Die Helden gewinnen hier nicht durch völlige Unberechenbarkeit, sondern indem sie ein bekanntes Bild ihres Vorgehens bewusst gegen den Gegner wenden.
 
-Merksatz: Der erwartete Angreifer ist nur der Köder.
 
 - Er will den Kardinal durch ein Geständnis belasten: Ein Geständnis gegen Richelieu ist nicht sein Auftrag.
 - Er lenkt Buckingham mit dem erwarteten Plan ab: Seine Gefangennahme bindet Buckingham an den erwarteten Plan.
@@ -5889,7 +5628,6 @@ Womit rechtfertigen die Musketiere in „Die drei Musketiere“ vor dem König d
 
 Richelieu (Christoph Waltz) hat Milady (Milla Jovovich) eine schriftliche Autorisierung ausgestellt. Athos (Matthew Macfadyen) legt sie später dem König vor und verbindet sie mit einer erfundenen Erklärung des Luftschiffkampfs. Das Dokument soll die Tötung Rocheforts (Mads Mikkelsen) als Dienst an Frankreich absichern. Die Intrige scheitert damit auch an einem Schriftstück, das der Kardinal selbst geschaffen hat.
 
-Merksatz: Die Vollmacht des Intriganten deckt die Gegenintrige.
 
 - Mit Buckinghams Adelsurkunde: Buckinghams Adelsurkunde legitimiert das Geschehen nicht.
 - Mit einem geheimen Brief des Papstes: Ein päpstlicher Brief ist nicht ihr Beleg.
@@ -5911,7 +5649,6 @@ In welchem Jahr erschien „Die drei Musketiere“ mit Logan Lerman und Milla Jo
 
 Logan Lerman spielte 2010 den jungen Helden in Percy Jackson: Diebe im Olymp. Ein Jahr später, 2011, erschien Die drei Musketiere mit ihm als D’Artagnan. Der Zeitanker verbindet zwei benachbarte Abenteuerrollen aus unterschiedlichen Vorlagen: moderne Götterfantasie auf der einen Seite, ein frei erweitertes historisches Fechtabenteuer auf der anderen. Beide zeigen einen jungen Neuankömmling in einer gefährlichen Welt.
 
-Merksatz: 2010 Percy Jackson, 2011 D’Artagnan: ein Jahr zwischen den Abenteuerrollen.
 
 - 2004: 2004 liegt vor dieser Neuverfilmung.
 - 2007: 2007 ist für diese Fassung zu früh.
@@ -5933,7 +5670,6 @@ Wer inszenierte „Die drei Musketiere“ mit Logan Lerman und den bewaffneten L
 
 Filmportal nennt Paul W. S. Anderson als Regisseur und trennt davon die Produzenten Jeremy Bolt und Robert Kulzer. Diese Abgrenzung ist bei der ähnlich zusammengefassten Constantin-Webseite hilfreich. Der Film erweitert den Dumas-Stoff um bewaffnete Luftschiffe und große dreidimensionale Actionszenen. Die Regiefrage meint die Hauptinszenierung des Films, nicht die Mitarbeit des zweiten Stabs oder die Produktion.
 
-Merksatz: Paul W. S. Anderson führt die Musketiere in die Luft.
 
 - Paul W. S. Anderson: Paul W. S. Anderson ist der einzige Hauptregisseur im Filmportal-Credit.
 - Paul Thomas Anderson: Paul Thomas Anderson ist ein anderer Filmemacher.
@@ -5959,7 +5695,6 @@ Mit welchem Ziel kommt D’Artagnan (François Civil) in „Die drei Musketiere:
 
 D’Artagnan (François Civil) reist als ehrgeiziger junger Mann aus der Gascogne nach Paris. Hauptmann Tréville (Marc Barbé) kannte seinen Vater und rät ihm zum Einstieg als Kadett. Der Aufbruch führt also nicht unmittelbar zur fertigen Heldenrolle. Erst Begegnungen, Konflikte und bewährte Loyalität machen aus dem Bewerber einen Angehörigen der königlichen Truppe.
 
-Merksatz: Der Gasconer kommt als Bewerber nach Paris.
 
 - Er will in Richelieus Kardinalsgarde eintreten: Der Kardinalsgarde will er nicht beitreten.
 - Er sucht eine Stelle als Fechtlehrer am Hof: Er kommt nicht mit dem Plan, Hoflehrer zu werden.
@@ -5981,7 +5716,6 @@ Was verbindet D’Artagnan (François Civil) in „Die drei Musketiere: D’Arta
 
 D’Artagnan (François Civil) beleidigt nacheinander Athos (Vincent Cassel), Porthos (Pio Marmaï) und Aramis (Romain Duris). Drei verabredete Duelle führen sie an denselben Ort. Als die Kardinalsgarden einschreiten, stellen sich die Männer gemeinsam gegen sie. Der Wechsel von gekränkter Ehre zu Solidarität ist damit nicht nur ein Motto, sondern entsteht aus einer konkreten Gefahr.
 
-Merksatz: Aus drei Duellen wird ein gemeinsamer Kampf.
 
 - Der König ordnet ein Fechtturnier gegen Spanien an: Ein offizielles Turnier bringt sie nicht zusammen.
 - Ein Schiffbruch zwingt sie zum gemeinsamen Überleben: Die erste Kampfgemeinschaft entsteht nicht durch einen Schiffbruch.
@@ -6003,7 +5737,6 @@ Weshalb wird Athos (Vincent Cassel) in „Die drei Musketiere: D’Artagnan“ z
 
 Athos (Vincent Cassel) wird durch den Fund einer erstochenen Frau in seinem Bett belastet. D’Artagnan (François Civil) erkennt in ihr die junge Frau, deren Entführung er auf seiner Reise nach Paris verhindern wollte. Die Verbindung zwischen dem frühen Angriff und der späteren Anklage gibt den Freunden einen Ermittlungsansatz. Ihr Zusammenhalt verlangt nun mehr als Geschick mit dem Degen.
 
-Merksatz: Der scheinbar private Mordfund führt zurück zum Reiseauftakt.
 
 - Eine ermordete Frau wird in seinem Bett gefunden: Der Fund belastet ihn als vermeintlichen Mörder, obwohl er falsch beschuldigt wird.
 - Er gesteht einen Anschlag auf Buckingham: Ein gestandener Anschlag auf Buckingham ist nicht die Anklage.
@@ -6025,7 +5758,6 @@ Warum muss D’Artagnan (François Civil) in „Die drei Musketiere: D’Artagna
 
 Königin Anne (Vicky Krieps) gibt Buckingham (Jacob Fortune-Lloyd) die Diamanten, die ihr der König geschenkt hat, als Erinnerung. Als Louis XIII. (Louis Garrel) verlangt, sie bei der Hochzeit seines Bruders zu tragen, droht ihre Beziehung sichtbar zu werden. Constance (Lyna Khoudri) schickt D’Artagnan (François Civil) deshalb nach England. Ein privates Geschenk wird zu einer Gefahr am Hof.
 
-Merksatz: Die verschenkten Diamanten müssen vor der Hochzeit zurück.
 
 - Buckingham hat sie als Lösegeld für Athos gefordert: Athos wird nicht durch dieses Lösegeld gerettet.
 - Die Königin muss das Geschenk des Königs bei einer Hochzeit tragen: Sie muss die verschenkten Diamanten bei der Hochzeit tragen.
@@ -6047,7 +5779,6 @@ Wer befreit Athos (Vincent Cassel) in „Die drei Musketiere: D’Artagnan“ au
 
 Athos (Vincent Cassel) entkommt auf dem Weg zur Hinrichtung durch das Eingreifen seines jüngeren Bruders und protestantischer Verbündeter. Die familiäre Rettung verknüpft ihn mit einer Partei des politischen Konflikts. Später gehört diese Verbindung zur Gefahr für den König. Der Film lässt persönliche Loyalität und staatliche Treue dadurch nicht einfach deckungsgleich werden.
 
-Merksatz: Brüderliche Hilfe zieht Athos in den religiösen Machtkonflikt.
 
 - Der König mit seiner persönlichen Leibwache: Der König führt diese Befreiung nicht persönlich aus.
 - Buckingham mit englischen Matrosen: Eine englische Marineeinheit rettet Athos hier nicht.
@@ -6069,7 +5800,6 @@ Warum lehnt Louis XIII. (Louis Garrel) in „Die drei Musketiere: D’Artagnan�
 
 Louis XIII. (Louis Garrel) wird von Beratern und seinem Bruder Gaston (Julien Frison) zum Krieg gegen die protestantische Hochburg La Rochelle gedrängt. Er verweigert die Zustimmung mit Blick auf die Religionskriege seiner Vorgänger. Die Intrige spielt daher vor einem ernsthaften politischen Konflikt. Die Abenteuerhelden verteidigen nicht nur eine Person, sondern auch deren Entscheidung gegen eine neue Eskalation.
 
-Merksatz: Louis’ Zögern verweist auf die Erfahrung früherer Religionskriege.
 
 - Er will zunächst die Hilfe Englands gegen Spanien abwarten: Die Wartezeit auf englische Hilfe erklärt seine Haltung nicht.
 - Er will erst die Zustimmung der Königin zum Feldzug erhalten: Eine ausstehende Zustimmung der Königin ist nicht sein Grund.
@@ -6091,7 +5821,6 @@ In welchem Jahr wurde „Die drei Musketiere: D’Artagnan“ mit François Civi
 
 D’Artagnan kam im April 2023 ins Kino; Milady folgte im Dezember desselben Jahres. Beide Teile des von Martin Bourboulon inszenierten Zweiteilers teilen sich somit ein Veröffentlichungsjahr. François Civil spielt D’Artagnan und Eva Green Milady. Der Abstand von rund acht Monaten ordnet die offene Fortsetzung unmittelbar dem ersten Abenteuer zu und macht 2023 als gemeinsames Jahr beider Teile merkbar.
 
-Merksatz: 2023 beginnt mit D’Artagnan und endet mit Milady.
 
 - 2023: 2023 ist das erste Veröffentlichungsjahr.
 - 2015: 2015 liegt vor dieser Produktion.
@@ -6113,7 +5842,6 @@ Wer führte bei „Die drei Musketiere: D’Artagnan“ mit François Civil und 
 
 Martin Bourboulon inszeniert den ersten Teil einer zusammenhängenden Dumas-Adaption. Auch die Fortsetzung Milady gehört zu seiner Regiearbeit. François Civil, Vincent Cassel, Romain Duris und Pio Marmaï bilden die Musketiergruppe; Eva Green spielt ihre gefährliche Gegenspielerin. Der Auftrag verbindet damit zwei Kinofilme, deren Abenteuer und Figurenkonflikte als fortgesetzte Geschichte angelegt sind.
 
-Merksatz: Bourboulon führt D’Artagnan und Milady durch beide Kinoteile.
 
 - Richard Lester: Lester gehört zu einer früheren englischsprachigen Bearbeitung.
 - Martin Bourboulon: Martin Bourboulon inszenierte diesen französischen Zweiteiler.
@@ -6139,7 +5867,6 @@ Auf welchem Fernwanderweg ist Cheryl (Reese Witherspoon) in „Der große Trip �
 
 Cheryl Strayed (Reese Witherspoon) macht sich ohne große Wandererfahrung allein auf den Pacific Crest Trail. Sie geht nur einen Teil des langen Fernwanderwegs, beginnend in der südkalifornischen Wüste. Die wechselnden Landschaften stellen unterschiedliche Anforderungen. Das Abenteuer entsteht dabei aus dem eigenen Weitergehen und den Begegnungen unterwegs, während ihre Erinnerungen immer wieder in die Gegenwart hineinreichen.
 
-Merksatz: Cheryls Weg liegt am westlichen Rand der USA.
 
 - Appalachian Trail: Der Appalachian Trail liegt im Osten der USA.
 - Camino Francés: Der Camino Francés ist ein europäischer Jakobsweg.
@@ -6161,7 +5888,6 @@ Welcher Verlust löst Cheryls (Reese Witherspoon) tiefe Lebenskrise vor der Wand
 
 Cheryl (Reese Witherspoon) verarbeitet den Tod von Bobbi (Laura Dern) zunächst durch selbstzerstörerisches Verhalten. Drogen und wechselnde sexuelle Begegnungen lindern ihre Trauer nicht dauerhaft; auch die Ehe zerbricht. Die Wanderung beginnt deshalb mit einem beschädigten Lebensgefühl. Der äußere Weg ist ein selbst gewählter Versuch, wieder zu der Person zu finden, die ihre Mutter in ihr gesehen hatte.
 
-Merksatz: Der Verlust der Mutter steht vor dem Neubeginn zu Fuß.
 
 - Der Tod ihrer Mutter: Der Tod ihrer Mutter geht der schweren Krise voraus.
 - Der Brand ihres Elternhauses: Ein Hausbrand ist nicht der auslösende Verlust.
@@ -6183,7 +5909,6 @@ Warum kann Cheryl (Reese Witherspoon) zu Beginn ihrer Wanderung in „Der große
 
 Cheryl (Reese Witherspoon) besitzt zwar eine umfangreiche Ausrüstung, kann sie aber noch nicht sicher einsetzen. Der falsche Brennstoff zwingt sie zunächst zu kaltem Essen. Später hilft ihr der Farmer Frank (W. Earl Brown), passenden Brennstoff zu besorgen. Das Missgeschick zeigt den Abstand zwischen gekauftem Material und praktischer Erfahrung, zugleich aber auch den Wert konkreter Hilfe unterwegs.
 
-Merksatz: Viel Ausrüstung ersetzt keinen passenden Brennstoff.
 
 - Sie darf im gesamten Bundesstaat kein Feuer verwenden: Ein flächendeckendes Feuerverbot verursacht das konkrete Problem nicht.
 - Sie hat den falschen Brennstoff für den Kocher dabei: Ihr Brennstoff passt nicht zu ihrem Kocher.
@@ -6205,7 +5930,6 @@ Warum umgeht Cheryl (Reese Witherspoon) in „Der große Trip – Wild“ einen 
 
 Cheryl (Reese Witherspoon) folgt dem Rat des Wanderers Greg (Kevin Rankin) und nimmt einen Bus, um einen schneereichen Abschnitt zu umgehen. Sie will dafür weiter bis zur Bridge of the Gods in Oregon gehen. Die Anpassung ist kein vollständiger Abbruch ihres Vorhabens. Sie reagiert auf die Bedingungen und erhält zugleich einen eigenen Maßstab für den Umfang ihrer Reise.
 
-Merksatz: Schnee verändert den Weg, nicht den Entschluss weiterzugehen.
 
 - Eine Knieverletzung zwingt sie zu einer längeren Erholung: Eine Knieverletzung ist nicht der Auslöser dieses Umwegs.
 - Eine gesperrte Brücke zwingt sie zu einem anderen Abschnitt: Eine gesperrte Brücke erklärt diese Änderung nicht.
@@ -6227,7 +5951,6 @@ Womit ist Simon & Garfunkels „El Cóndor Pasa“ in „Der große Trip – Wil
 
 Die Musik in Wild gehört eng zu Cheryls (Reese Witherspoon) Erinnerungswelt. El Cóndor Pasa kehrt als Verbindung zu Bobbi (Laura Dern) wieder. Dadurch erhält die körperlich anstrengende Reise eine zweite Ebene: Vergangenes bleibt in der Gegenwart hörbar. Der Klang ist keine bloße Landschaftsuntermalung, sondern unterstützt das wiederholte Zurückdenken an die wichtigste verlorene Bezugsperson.
 
-Merksatz: El Cóndor Pasa hält die Erinnerung an Bobbi hörbar.
 
 - Mit Cheryls Erinnerungen an ihre Ehe: Die Ehe ist nicht der maßgebliche Erinnerungszusammenhang dieses Lieds.
 - Mit Cheryls Begegnung mit Greg auf dem Weg: Die Begegnung mit Greg ist nicht sein Hauptbezug.
@@ -6249,7 +5972,6 @@ Wie erscheint die wirkliche Cheryl Strayed zu Beginn von „Der große Trip – 
 
 Cheryl Strayed hat einen kurzen Gastauftritt als Frau, die Cheryl (Reese Witherspoon) zum Motel vor dem Wanderbeginn bringt. Die reale Person und ihre gespielte Fassung begegnen sich damit an der Schwelle zum Abenteuer. Der Cameo ist eine kleine sichtbare Verbindung zwischen autobiografischer Erfahrung und filmischer Bearbeitung, ohne dass die Autorin die Hauptrolle selbst übernimmt.
 
-Merksatz: Die wirkliche Cheryl bringt ihre Filmfigur an den Start.
 
 - Sie bringt die Film-Cheryl zum Motel: Die Autorin tritt als die Frau auf, die Cheryl am Motel absetzt.
 - Sie verkauft der Film-Cheryl neue Schuhe: Sie spielt nicht die Schuhverkäuferin.
@@ -6271,7 +5993,6 @@ In welchem Jahr wurde „Der große Trip – Wild“ mit Reese Witherspoon und L
 
 Die im Film erzählte Wanderung beginnt 1995. Die Verfilmung wurde 2014 erstmals beim Telluride Film Festival gezeigt, neunzehn Jahre nach diesem Lebensabschnitt. Reese Witherspoon spielt die wandernde Cheryl; die Rückblenden führen noch weiter in ihre Vergangenheit. Der Zeitanker unterscheidet damit die Ebene der erzählten Erfahrung von dem späteren Moment, in dem diese Erfahrung als Kinofilm öffentlich wurde.
 
-Merksatz: 1995 Wanderung, 2014 Film: neunzehn Jahre Abstand.
 
 - 2006: 2006 liegt vor dieser Verfilmung.
 - 2014: Die Festivalpremiere fand 2014 statt.
@@ -6293,7 +6014,6 @@ Wer führte bei „Der große Trip – Wild“ mit Reese Witherspoon und Laura D
 
 Jean-Marc Vallée inszeniert Cheryls (Reese Witherspoon) Wanderung als Wechsel zwischen körperlicher Gegenwart und aufbrechenden Erinnerungen. Nick Hornby schrieb das Drehbuch, das die autobiografische Vorlage für diese Form bearbeitet. Die Regie verbindet so eine konkrete Strecke mit Bildern früherer Beziehungen und Entscheidungen. Das Ziel des Films lässt sich deshalb nicht allein auf die Ankunft an einem geografischen Ort reduzieren.
 
-Merksatz: Vallée verbindet den äußeren Weg mit inneren Erinnerungen.
 
 - Sean Penn: Penn führte bei Into the Wild Regie, nicht bei Wild.
 - Debra Granik: Granik ist nicht die Regisseurin dieser Verfilmung.
@@ -6319,7 +6039,6 @@ Aus welcher Gefangenschaft entkommt Janusz (Jim Sturgess) in „The Way Back –
 
 Janusz (Jim Sturgess) wurde aufgrund einer unter Folter erzwungenen Aussage seiner Frau verurteilt. Im Lager schließt er sich mit anderen Gefangenen zusammen. Ein Schneesturm hilft beim Ausbruch, weil er die Spuren verdeckt. Hinter dem Stacheldraht endet jedoch nur die erste Gefahr: Ohne Nahrung und Ausrüstung wird die weite Landschaft selbst zur Bedrohung.
 
-Merksatz: Das Lager liegt hinter ihnen, Sibirien noch vor ihnen.
 
 - Aus einem sowjetischen Arbeitslager in Sibirien: Janusz flieht aus einem sibirischen Gulag.
 - Aus einem britischen Kriegsgefangenenlager in Indien: Indien wird zum Zufluchtsziel, nicht zum Ausgangslager.
@@ -6341,7 +6060,6 @@ Welches Land wird in „The Way Back – Der lange Weg“ schließlich zum Zuflu
 
 Anfangs erscheint die Mongolei als erreichbarer Ausweg. Dort bemerken die Flüchtenden jedoch ebenfalls die kommunistische Herrschaft. Janusz (Jim Sturgess) und seine Begleiter müssen den Fluchtplan ändern. Die Fortsetzung über Wüste und Himalaya macht aus dem Ausbruch einen langen Marsch; erst in Indien liegt das Ziel außerhalb des Machtbereichs, dem sie entkommen wollen.
 
-Merksatz: Die erste Grenze reicht noch nicht zur Freiheit.
 
 - Die Mongolei: Die Mongolei ist der erste geplante Ausweg, wird aber wegen ihrer kommunistischen Herrschaft nicht zum endgültigen Ziel.
 - Britisch-Indien: Die Überlebenden suchen Sicherheit in Britisch-Indien.
@@ -6363,7 +6081,6 @@ Warum trennt sich Valka (Colin Farrell) in „The Way Back – Der lange Weg“ 
 
 Valka (Colin Farrell) ist ein gewalttätiger Krimineller und verehrt Stalin. Er kann gegen die Lagerordnung handeln, ohne deshalb das ganze Land abzulehnen. An der Grenze kommt dieser Widerspruch zum Vorschein. Die anderen setzen ihren Weg fort, während er zurückbleibt. Gemeinsame Flucht bedeutet somit keineswegs, dass alle dasselbe unter Freiheit verstehen.
 
-Merksatz: Valka will aus dem Lager, aber nicht aus dem Land.
 
 - Er erhält einen Auftrag von einer britischen Botschaft.: Ein britischer Auftrag führt nicht zur Trennung.
 - Er muss eine verlorene Landkarte aus dem Lager holen.: Eine vergessene Karte ist nicht der Anlass.
@@ -6385,7 +6102,6 @@ Welche wahre Vorgeschichte gesteht Irena (Saoirse Ronan) in „The Way Back – 
 
 Irena (Saoirse Ronan) erzählt zunächst eine Geschichte über sowjetische Soldaten und einen Aufenthalt auf einem Bauernkollektiv bei Warschau. Mr. Smith (Ed Harris) bemerkt einen Widerspruch zur Besatzung der Stadt. Daraufhin erklärt sie, dass ihre kommunistischen Eltern getötet wurden und sie als Waise aufwuchs. Er erkennt ihre Lüge, begegnet der allein reisenden Jugendlichen aber dennoch mit Fürsorge.
 
-Merksatz: Hinter Irenas erfundener Fluchtgeschichte steht die wirkliche Einsamkeit einer Waise.
 
 - Sie lief nach einem Familienstreit von zu Hause fort.: Sie gesteht nicht einen Streit mit lebenden Eltern.
 - Ihr Vater schickte sie als Spitzel zur Gruppe.: Eine Spitzelrolle im Auftrag ihres Vaters wird nicht offenbart.
@@ -6407,7 +6123,6 @@ Welche andere Ausreisemöglichkeit wählt Mr. Smith (Ed Harris) in „The Way Ba
 
 Nachdem ein tibetisches Kloster der erschöpften Gruppe Erholung ermöglicht, eröffnet sich Mr. Smith (Ed Harris) eine andere Chance. Ein Kontakt soll ihn von Lhasa aus über China zu amerikanischen Stellen bringen. Janusz (Jim Sturgess) zieht mit zwei Begleitern weiter. Das Ende der gemeinsamen Wanderung bedeutet deshalb nicht für jeden Überlebenden dasselbe Ziel oder denselben Heimweg.
 
-Merksatz: Eine gemeinsame Rettung kann verschiedene Heimwege haben.
 
 - Er nutzt einen Kontakt in Lhasa für eine Weiterreise über China.: Ein Kontakt des tibetischen Mönchs soll ihm die Ausreise über China ermöglichen.
 - Er kehrt freiwillig ins sowjetische Lager zurück.: Eine Rückkehr ins Gulag wählt er nicht.
@@ -6429,7 +6144,6 @@ Welche politische Veränderung ermöglicht Janusz (Jim Sturgess) am Ende von „
 
 Janusz (Jim Sturgess) hat die Naturgefahren überstanden, doch die Trennung von seiner Frau dauert noch Jahrzehnte. Der Film schließt mit seiner Rückkehr nach dem Ende der kommunistischen Herrschaft in Polen. Jetzt erreicht er endlich den zuvor nur vorgestellten Schlüssel am Haus. Die persönliche Versöhnung wird dadurch mit einer historischen Veränderung verbunden, die der Fußmarsch allein nicht herbeiführen konnte.
 
-Merksatz: Der Marsch rettet ihn; der Umbruch ermöglicht die Heimkehr.
 
 - Die deutsche Besetzung Polens: Die deutsche Besetzung liegt am Anfang des historischen Umfelds.
 - Das Ende der kommunistischen Herrschaft in Polen: Er kehrt nach dem Umbruch in Polen 1989 heim.
@@ -6451,7 +6165,6 @@ In welchem Jahr wurde „The Way Back – Der lange Weg“ mit Jim Sturgess und 
 
 2010 blickt Peter Weir auf einen Fluchtbeginn im Zweiten Weltkrieg zurück. Die BFI-Anmerkungen setzen den Lagerausbruch 1940 an: Zwischen Handlungsbeginn und Filmjahr liegen rund siebzig Jahre. So bleiben die historische Zeit der Figuren und der Zeitpunkt der Verfilmung unterscheidbar. Die spätere Heimkehr verlängert die erzählte Lebensgeschichte weit über die eigentliche Wanderung hinaus.
 
-Merksatz: 2010: ein Film siebzig Jahre nach seinem Fluchtbeginn.
 
 - 2003: 2003 liegt sieben Jahre davor.
 - 2007: 2007 liegt drei Jahre davor.
@@ -6473,7 +6186,6 @@ Wer inszenierte „The Way Back – Der lange Weg“ mit Jim Sturgess, Ed Harris
 
 Peter Weir setzt die Figuren einer Reise aus, bei der jede Entscheidung Folgen für die anderen hat. Seine in den BFI-Anmerkungen erläuterte Absicht richtet sich auf gegenseitige Abhängigkeit: Im Lager schützt Selbstbehauptung, unterwegs wird Vertrauen lebenswichtig. Der Regiecredit verbindet deshalb ein großes Landschaftsabenteuer mit der Beobachtung menschlichen Verhaltens unter extremer Belastung.
 
-Merksatz: Weirs Fluchtgeschichte prüft, wer sich auf wen verlassen kann.
 
 - Danny Boyle: Boyle inszenierte diesen Film nicht.
 - John Hillcoat: Hillcoat trägt diesen Regiecredit nicht.
@@ -6499,7 +6211,6 @@ Welche Hilfe erhält der verletzte d’Arnot (Ian Holm) in „Greystoke – Die 
 
 D’Arnot (Ian Holm) hat den Angriff auf seine Reisegruppe überlebt. John (Christopher Lambert) kümmert sich um ihn, obwohl er kaum mit Menschen vertraut ist. Aus der Rettung entwickelt sich eine Verbindung, durch die Sprache, Herkunft und eine mögliche Rückkehr zur menschlichen Familie zugänglich werden. Der Reisende ist also zunächst der Schutzbedürftige, bevor er selbst zum Vermittler wird.
 
-Merksatz: Erst rettet John d’Arnot, dann öffnet d’Arnot ihm eine andere Welt.
 
 - John liefert ihn an eine Militärpatrouille aus.: Er liefert ihn nicht an Soldaten aus.
 - John pflegt ihn im Dschungel gesund.: John versorgt den Verletzten und rettet ihm damit das Leben.
@@ -6521,7 +6232,6 @@ In welche Gesellschaft führt d’Arnot (Ian Holm) John (Christopher Lambert) in
 
 D’Arnot (Ian Holm) erkennt Johns (Christopher Lambert) familiäre Herkunft und bringt ihn zum Besitz seiner Verwandten. Dort erwarten ihn Wohlstand und gesellschaftliche Regeln, die ihm fremd sind. Der Film erzählt die Ankunft nicht einfach als Heimkehr: Biologische Abstammung erklärt seinen Platz in der Erbfolge, ersetzt aber nicht die Erfahrungen, die ihn im Dschungel geprägt haben.
 
-Merksatz: Herkunft gibt John einen Titel, noch kein Zuhause.
 
 - In eine belgische Bergarbeitergemeinde: Eine Bergarbeitergemeinde wird nicht seine neue Umgebung.
 - In die französische Fremdenlegion: Er wird nicht zur Fremdenlegion gebracht.
@@ -6543,7 +6253,6 @@ Welche Entdeckung im Baumhaus macht John als Jungen in „Greystoke – Die Lege
 
 Im Baumhaus findet der junge John (Eric Langlois) Dinge aus dem Leben seiner Eltern. Spielzeug und Spiegel geben ihm neue Bilder seiner selbst. Entscheidend ist die Wahrnehmung des eigenen Körpers: Er gehört zu seiner Affenfamilie, sieht aber anders aus. Lange bevor d’Arnot (Ian Holm) seine Herkunft erklärt, beginnt deshalb eine Suche nach der eigenen Identität.
 
-Merksatz: Das erste Herkunftsrätsel erscheint im eigenen Spiegelbild.
 
 - Ein Foto eines Jägers am Tisch: Ein solches Jägerfoto ist nicht die entscheidende Entdeckung.
 - Der Abdruck seiner Hand in Lehm: Ein Handabdruck ist nicht das Gegenüber, an dem er den Unterschied erkennt.
@@ -6565,7 +6274,6 @@ Welche Verwandtschaft verbindet John (Christopher Lambert) in „Greystoke – D
 
 Der Earl (Ralph Richardson) freut sich über John (Christopher Lambert), verwechselt ihn aber zeitweise mit seinem verlorenen Sohn. Das macht die Begrüßung zugleich herzlich und schmerzlich. John erhält durch den Großvater Anerkennung innerhalb der Familie. Die gelegentliche Verwechslung verändert seine wirkliche Abstammung nicht; sie zeigt, wie stark Trauer und Erinnerung die Begegnung des alten Mannes bestimmen.
 
-Merksatz: Der Großvater sieht im Enkel den verlorenen Sohn.
 
 - John ist sein Enkel.: Der Earl empfängt den Sohn seines verstorbenen Sohnes.
 - John ist sein Bruder.: Die beiden sind keine Brüder.
@@ -6587,7 +6295,6 @@ Welche Entdeckung im Londoner Museum erschüttert John (Christopher Lambert) in 
 
 John (Christopher Lambert) erlebt im Museum die vermeintlich zivilisierte Welt aus Sicht ihrer gefangenen Tiere. Er befreit Silverbeard (Peter Elliott), doch die Verfolgung endet mit dessen Erschießung. Für John ist das kein abstrakter Streit über Natur: Die Menschenwelt zerstört eine konkrete familiäre Bindung. Die Begegnung trägt wesentlich zu seiner Entscheidung bei, wieder nach Afrika zu gehen.
 
-Merksatz: Im Museum wird Johns Familie zum Ausstellungsobjekt.
 
 - Kala ist dort als ausgestopftes Tier ausgestellt.: John findet Silverbeard lebend im Käfig, nicht Kala als Präparat.
 - Sein Affenvater Silverbeard wird dort in einem Käfig gehalten.: Er erkennt Silverbeard unter den gefangenen Affen wieder.
@@ -6609,7 +6316,6 @@ Was geschieht mit Jane (Andie MacDowell), als John (Christopher Lambert) am Ende
 
 Jane (Andie MacDowell) und d’Arnot (Ian Holm) begleiten John (Christopher Lambert) nach Afrika. Er kehrt zu seiner Affenfamilie zurück; Jane folgt ihm nicht in deren Lebensraum. Der Schluss hält Nähe und Trennung zugleich fest. Die romantische Beziehung beseitigt damit nicht automatisch den Konflikt zwischen den Welten, in denen die beiden jeweils leben könnten.
 
-Merksatz: Nähe zu Jane und Rückkehr zur Affenfamilie bleiben verschiedene Wege.
 
 - Sie beginnt mit ihm ein dauerhaftes Dschungelleben.: Ein gemeinsames dauerhaftes Dschungelleben bildet nicht den Schluss.
 - Sie verhindert die Rückreise und hält ihn fest.: Jane ermöglicht die Reise statt ihn festzuhalten.
@@ -6631,7 +6337,6 @@ Wann erschien „Greystoke – Die Legende von Tarzan, Herr der Affen“ mit Chr
 
 1984 kehrt Hugh Hudson zu einem Stoff zurück, den Edgar Rice Burroughs bereits 1912 veröffentlicht hatte. Rund sieben Jahrzehnte später legt die Adaption besonderes Gewicht auf Herkunft, Erziehung und die irritierende Begegnung mit der Adelswelt. Das Filmjahr gehört zur Fassung mit Christopher Lambert und Andie MacDowell; der Roman und die historische Umgebung der Handlung sind deutlich älter.
 
-Merksatz: 1984: Tarzans Herkunft neu erzählt, sieben Jahrzehnte nach dem Roman.
 
 - 1976: 1976 liegt acht Jahre davor.
 - 1980: 1980 liegt vier Jahre davor.
@@ -6653,7 +6358,6 @@ Wer führte bei „Greystoke – Die Legende von Tarzan, Herr der Affen“ mit C
 
 Hugh Hudson inszeniert den Wechsel zwischen Dschungel und britischer Gesellschaft. Der ausführliche Credit der Cinémathèque führt ihn zugleich als einen der Produzenten. Die Regiefrage bezieht sich auf die Fassung mit Christopher Lambert: Andere Tarzan-Verfilmungen erzählen denselben Stoff mit anderen Darstellern und Verantwortlichen. Hier steht Johns schwierige Zugehörigkeit zwischen zwei Familienwelten im Zentrum.
 
-Merksatz: Hudsons Tarzan muss seine Zugehörigkeit neu bestimmen.
 
 - Hugh Hudson: Hugh Hudson inszenierte diese Fassung.
 - John Boorman: Boorman trägt diesen Regiecredit nicht.
@@ -6679,7 +6383,6 @@ Welches geheime Ziel verfolgt Clayton (Originalstimme: Brian Blessed) in Disneys
 
 Clayton (Originalstimme: Brian Blessed) reist als bewaffneter Begleiter der Forscher mit. Sein Interesse an den Tieren ist jedoch wirtschaftlich. Wenn Tarzan (Originalstimme: Tony Goldwyn) den Menschen vertraut, gefährdet er deshalb unwissentlich die eigene Familie. Der Konflikt entsteht durch unterschiedliche Absichten innerhalb derselben Expedition: Die wissenschaftliche Neugier der Porters schützt noch nicht vor Claytons Ausbeutung.
 
-Merksatz: Clayton sieht in der Affenfamilie eine Ware.
 
 - Er will seltene Pflanzen als Heilmittel vermarkten.: Sein Geschäftsziel sind die Gorillas, keine Heilpflanzen.
 - Er will einen verschollenen Forscher finden.: Er reist nicht als Retter eines verschollenen Forschers.
@@ -6701,7 +6404,6 @@ Wie entsteht Janes (Originalstimme: Minnie Driver) erster näherer Kontakt zu Ta
 
 Jane (Originalstimme: Minnie Driver) gerät bei ihrer Erkundung in Schwierigkeiten mit Pavianen. Tarzan (Originalstimme: Tony Goldwyn) hilft ihr und entdeckt an ihr Ähnlichkeiten zu sich selbst. Aus dem gefährlichen Zwischenfall wird eine Begegnung, die beiden Neues zeigt: Jane trifft einen ungewöhnlichen Menschen, während Tarzan erstmals einer ihm körperlich ähnlichen Erwachsenen nahekommt.
 
-Merksatz: Janes Rettung eröffnet Tarzan eine neue Verwandtschaftswelt.
 
 - Sie befreit ihn aus Claytons Gefangenschaft.: Eine solche Befreiung ist nicht ihre erste Begegnung.
 - Er zieht sie aus einem tiefen Sumpf.: Die Rettung gilt der Verfolgung durch Paviane.
@@ -6723,7 +6425,6 @@ Womit bringt Clayton (Originalstimme: Brian Blessed) Tarzan in „Tarzan“ dazu
 
 Tarzan (Originalstimme: Tony Goldwyn) möchte Jane (Originalstimme: Minnie Driver) nicht verlieren. Clayton (Originalstimme: Brian Blessed) stellt ihre mögliche Entscheidung zu bleiben in Aussicht, wenn sie die Gorillas sieht. So verleitet er ihn zum Bruch mit Kerchaks (Originalstimme: Lance Henriksen) Schutzregel. Ein Versprechen über die Liebesbeziehung wird zur Methode, sich Zugang zu den bisher geschützten Tieren zu verschaffen.
 
-Merksatz: Die Hoffnung auf Jane öffnet Clayton den Weg zu den Gorillas.
 
 - Er behauptet, Jane würde dann vielleicht bleiben.: Er nutzt Tarzans Hoffnung auf Janes Bleiben aus.
 - Er verspricht Kala eine freie Passage nach London.: Eine Passage für Kala ist nicht sein Angebot.
@@ -6745,7 +6446,6 @@ Was zeigt Kala (Originalstimme: Glenn Close) Tarzan in „Tarzan“, als er zwis
 
 Kala (Originalstimme: Glenn Close) hat Tarzan (Originalstimme: Tony Goldwyn) aufgezogen und lange vor dem Wissen um seinen Ursprung geschützt. Jetzt führt sie ihn zu den Spuren der verstorbenen Eltern. Sie lässt ihm die Entscheidung über seinen weiteren Weg, ohne ihre mütterliche Liebe davon abhängig zu machen. Die Aufklärung hebt seine Zugehörigkeit zur Affenfamilie deshalb nicht einfach auf.
 
-Merksatz: Kala erklärt die Herkunft, ohne die Bindung aufzugeben.
 
 - Eine alte Karte mit dem Weg zum nächsten Hafen: Eine Hafenkarte ist nicht ihre Offenbarung.
 - Das Baumhaus mit den Spuren seiner menschlichen Eltern: Im Baumhaus erklärt Kala ihm seine menschliche Herkunft.
@@ -6767,7 +6467,6 @@ Welche Aufgabe erfüllt das für „Tarzan“ entwickelte Verfahren Deep Canvas?
 
 Wenn Tarzan (Originalstimme: Tony Goldwyn) durch den Wald gleitet, bewegt sich die Kamera durch eine Umgebung, die wie ein gemaltes Bild wirken soll. Deep Canvas hält dafür Pinselspuren in einem räumlichen Modell fest. Die Technik verbindet somit die Tiefe einer digitalen Szene mit der Gestaltungstradition des Zeichentricks; sie erklärt einen wesentlichen Teil der dynamischen Dschungelbilder.
 
-Merksatz: Deep Canvas lässt die Kamera durch ein Gemälde reisen.
 
 - Es erzeugt aus einzelnen Zeichnungen nur perspektivfreie Silhouetten.: Das Verfahren erweitert gerade die räumliche Wirkung der Hintergründe.
 - Es legt unbewegte Gemälde als reale Kulissen hinter die Figuren.: Die Kamera kann sich durch räumlich konstruierte Umgebungen bewegen.
@@ -6789,7 +6488,6 @@ Welche Bewegungswelt regte Animator Glen Keane für Tarzans Gleiten über Äste 
 
 Glen Keane machte Tarzans Körperbewegung zu einem eigenen Gestaltungsthema. Die Begeisterung seines Sohnes für Skateboarden und andere riskante Sportarten gab ihm Anregungen für das Gleiten über Äste. Tarzan (Originalstimme: Tony Goldwyn) bewegt sich dadurch nicht nur wie ein Mensch, der an Lianen hängt: Die Bewegung bekommt Schwung und eine ungewöhnlich fließende Verbindung zur Oberfläche der Bäume.
 
-Merksatz: Tarzans Äste werden zu Bahnen einer Extremsportbewegung.
 
 - Die Bewegungen klassischer Zirkusartisten: Die konkret belegte Anregung stammt von der Extremsportbegeisterung seines Sohnes.
 - Die Schrittabläufe von Hürdenläufern: Hürdenlauf ist nicht das genannte Vorbild.
@@ -6811,7 +6509,6 @@ In welchem Jahr kam Disneys gezeichneter „Tarzan“ mit den Liedern von Phil C
 
 1999 verbindet Disney den alten Abenteuerstoff mit Phil Collins’ Liedern und räumlich bewegten Dschungelbildern. Für diese Bilder wurde Deep Canvas entwickelt: Gemalte Pinselstriche werden in einem räumlichen Modell festgehalten. Vier Jahre nach dem Filmstart, 2003, erhielt die technische Entwicklung eine Auszeichnung der Academy. Das Erscheinungsjahr gehört zum Film; die spätere Ehrung würdigt das Verfahren hinter seiner Gestaltung.
 
-Merksatz: 1999: Tarzan; 2003: Academy-Auszeichnung für die Deep-Canvas-Technik.
 
 - 1999: Diese Zeichentrickfassung erschien 1999.
 - 1995: 1995 liegt vier Jahre davor.
@@ -6833,7 +6530,6 @@ Welches vollständige Regieteam verantwortete Disneys gezeichneten „Tarzan“ 
 
 Kevin Lima und Chris Buck tragen beide den offiziellen Regiecredit. Ihr Film hält den Streit um Tarzans (Originalstimme: Tony Goldwyn) Zugehörigkeit im Mittelpunkt: Die Begegnung mit Jane (Originalstimme: Minnie Driver) erweitert seine Welt, ohne die Bindung an Kala (Originalstimme: Glenn Close) bedeutungslos zu machen. Animation, Musik und Handlung führen diesen Familienkonflikt gemeinsam voran.
 
-Merksatz: Lima und Buck erzählen Tarzans Entscheidung zwischen zwei Welten.
 
 - Ron Clements und John Musker: Clements und Musker inszenierten diese Fassung nicht.
 - Kevin Lima und Chris Buck: Kevin Lima und Chris Buck teilen den Regiecredit.
@@ -6859,7 +6555,6 @@ Welche besondere Fähigkeit macht Milo Thatch (Originalstimme: Michael J. Fox) i
 
 Milo (Originalstimme: Michael J. Fox) wird zunächst von seinen Kollegen belächelt. Auf der Reise bekommt sein Fachwissen jedoch praktischen Wert: Er versteht Hinweise, mit denen sich die verlorene Stadt finden lässt. Später hilft ihm dieselbe Fähigkeit beim Zugang zu ihrer Vergangenheit. Körperliche Stärke ersetzt dieses Wissen nicht; der unscheinbare Forscher wird deshalb zum Schlüssel für die ganze Gruppe.
 
-Merksatz: Milos Wissen öffnet Wege, die Waffen nicht öffnen.
 
 - Er kann die Antriebsmaschinen des U-Boots reparieren.: Maschinenreparaturen gehören nicht zu seinem entscheidenden Fachwissen.
 - Er kann Sprengladungen für die Felspassagen berechnen.: Sprengstoff ist das Fach eines anderen Teammitglieds.
@@ -6881,7 +6576,6 @@ Welches große Transportmittel trägt die Expedition zu Beginn von „Atlantis �
 
 Das U-Boot Ulysses bringt Milo (Originalstimme: Michael J. Fox) und die Mannschaft in eine zunächst technisch beherrschbar wirkende Unterwasserwelt. Der Angriff eines gewaltigen Wächters zerstört jedoch das Schiff. Danach muss die Gruppe mit kleineren Fahrzeugen und zu Fuß weiterkommen. Das prächtige Transportmittel garantiert also weder Sicherheit noch die Kontrolle über den weiteren Verlauf der Suche.
 
-Merksatz: Die Ulysses bringt das Team hinein, aber nicht sicher hindurch.
 
 - Mit einem U-Boot: Die Mannschaft startet an Bord der Ulysses.
 - Mit einem Segelschiff: Die Ulysses ist kein Segelschiff.
@@ -6903,7 +6597,6 @@ Warum wendet sich Milo (Originalstimme: Michael J. Fox) in „Atlantis – Das G
 
 Rourke (Originalstimme: James Garner) betrachtet den Fund als gewinnbringende Beute. Milo (Originalstimme: Michael J. Fox) hat dagegen verstanden, dass der Kristall die Bewohner am Leben hält. Die Forschungsexpedition wird so zum Versuch einer Ausplünderung. Milo muss seine Loyalität neu bestimmen und schützt die Menschen, deren Kultur er zunächst nur finden und verstehen wollte.
 
-Merksatz: Ein Forschungsfund wird für Rourke zur Beute.
 
 - Rourke will die Stadt militärisch besetzen und dort bleiben.: Er möchte die Beute zur Oberfläche bringen, nicht dort herrschen.
 - Rourke will die Lebensenergie der Stadt als Beute verkaufen.: Der geplante Raub bedroht die Bewohner existenziell.
@@ -6925,7 +6618,6 @@ Was geschieht mit Kida (Originalstimme: Cree Summer) in „Atlantis – Das Gehe
 
 Der Kristall von Atlantis reagiert auf die Gefahr, indem er Kida (Originalstimme: Cree Summer) in sich aufnimmt. Damit wiederholt sich ein Vorgang aus der Vergangenheit ihrer Familie. Rourke (Originalstimme: James Garner) kann nun nicht nur Energie, sondern zugleich die Prinzessin als Beute fortschaffen. Die Rettungsaufgabe verbindet daher das Leben einer Figur mit dem Überleben der gesamten Stadt.
 
-Merksatz: Kidas Rettung und die Rettung der Stadt gehören zusammen.
 
 - Sie versteckt den Kristall in einer versiegelten Höhle.: Kida verbirgt den Kristall nicht eigenhändig in einer Höhle.
 - Sie zerschlägt den Kristall, um seinen Raub zu verhindern.: Sie zerstört die Energiequelle nicht.
@@ -6947,7 +6639,6 @@ Welche frühere Entscheidung des Königs (Originalstimme: Leonard Nimoy) erklär
 
 Der sterbende König (Originalstimme: Leonard Nimoy) offenbart Milo (Originalstimme: Michael J. Fox), dass Atlantis nicht einfach zufällig unterging. Sein eigener Versuch, die Energie militärisch zu nutzen, verursachte die Katastrophe. Der Kristall rettete den Stadtkern durch die Verbindung mit Kidas Mutter. Die spätere Geheimhaltung dient deshalb auch dem Versuch, die Tochter vor demselben persönlichen Verlust zu bewahren.
 
-Merksatz: Die Macht des Kristalls rettet die Stadt vor dem Missbrauch seiner Macht.
 
 - Er wollte mit seiner Kraft den Meeresspiegel absenken.: Das Absenken des Meeresspiegels war nicht der genannte Versuch.
 - Er hatte den Kristall dauerhaft außer Betrieb gesetzt.: Die Katastrophe entstand durch den Versuch einer militärischen Nutzung.
@@ -6969,7 +6660,6 @@ Wie entstand für „Atlantis – Das Geheimnis der verlorenen Stadt“ die Spra
 
 Milos (Originalstimme: Michael J. Fox) Verständigung soll innerhalb der Filmwelt mehr sein als das Deuten beliebiger Fantasiesymbole. Für die Bewohner wurde deshalb eine Sprache mit lesbarer Schrift und sprechbaren Wörtern geschaffen. Marc Okrands sprachwissenschaftliche Arbeit unterstützt einen zentralen Handlungsgedanken: Wissen über Sprache ermöglicht eine Begegnung, die den übrigen Reisenden zunächst verschlossen bleibt.
 
-Merksatz: Eine erfundene Sprache gibt Milos Fachwissen etwas zu erschließen.
 
 - Linguist Marc Okrand entwickelte eine eigens sprech- und lesbare Sprache.: Marc Okrand entwarf eine eigenständige Sprache für die Filmwelt.
 - Das Team übernahm unverändert altgriechische Dialoge.: Es ist eine eigens konstruierte Sprache statt unveränderter altgriechischer Dialoge.
@@ -6991,7 +6681,6 @@ In welchem Jahr wurde Disneys „Atlantis – Das Geheimnis der verlorenen Stadt
 
 2001 richtet Disney ein gezeichnetes Abenteuer auf eine ganze Expeditionsmannschaft aus. Zwei Jahre zuvor war Tarzan 1999 erschienen und hatte die Reise zwischen menschlicher und tierischer Familie ins Zentrum gestellt. Der zeitliche Nachbar hilft bei der Einordnung: Beide Filme verbinden klassische Zeichnung mit dynamischem Abenteuer, wählen aber unterschiedliche Gruppen und Konflikte als Motor ihrer Geschichten.
 
-Merksatz: 2001: die Atlantis-Expedition folgt zwei Jahre nach Disneys Tarzan.
 
 - 1995: 1995 liegt sechs Jahre davor.
 - 2001: Der Film erschien 2001.
@@ -7013,7 +6702,6 @@ Welches vollständige Regieteam inszenierte Disneys „Atlantis – Das Geheimni
 
 Gary Trousdale und Kirk Wise leiten eine Geschichte, die aus einer Suche eine Schutzaufgabe macht. Die offizielle Studioseite nennt beide Regisseure. Zum Erscheinungsbild trägt außerdem Comiczeichner Mike Mignola als künstlerischer Berater bei. Diese Aufgaben gehören zusammen, sind aber verschiedene Credits: Mignolas Stil prägt die Bilder, während das gemeinsame Regieteam den Film inszeniert.
 
-Merksatz: Trousdale und Wise führen die Expedition; Mignola prägt ihren Look.
 
 - Kevin Lima und Chris Buck: Lima und Buck verantworten einen anderen Disney-Abenteuerfilm.
 - Ron Clements und John Musker: Clements und Musker inszenierten diese Produktion nicht.
@@ -7039,7 +6727,6 @@ Was sucht Jack Conroy (Ethan Hawke) auf seiner Reise in „Wolfsblut“?
 
 Jack Conroy (Ethan Hawke) kommt als unerfahrener junger Mann in die Goldgräberwelt. Alex Larson (Klaus Maria Brandauer), der seinen Vater kannte, hilft ihm auf dem Weg zum Claim. Die Reise verbindet eine wirtschaftliche Hoffnung mit einem persönlichen Erbe: Jack möchte fortsetzen, was der Vater begonnen hat. Erst unterwegs wird die Beziehung zum Tier zum zweiten Mittelpunkt.
 
-Merksatz: Der Claim verbindet Jack mit seinem Vater.
 
 - Den Goldclaim seines verstorbenen Vaters: Er will den Claim seines Vaters finden und dort Gold suchen.
 - Die Schuldigen am Tod seines Vaters: Jack sucht einen Claim, nicht die Täter eines Mordes.
@@ -7061,7 +6748,6 @@ Wodurch gewinnt Jack Conroy (Ethan Hawke) in „Wolfsblut“ das Vertrauen des m
 
 Beauty Smith (James Remar) hat Wolfsblut für Hundekämpfe abgerichtet und misshandelt. Nach der Rettung ist das Tier deshalb zunächst misstrauisch und wehrhaft. Jack Conroy (Ethan Hawke) gewinnt seine Nähe allmählich. Die Freundschaft entsteht durch einen anderen Umgang mit derselben Verletzlichkeit; sie ist weder angeborener Gehorsam noch eine sofortige Belohnung für die Rettung.
 
-Merksatz: Vertrauen wächst nach der Rettung langsam.
 
 - Durch gezielte Angriffsübungen mit Belohnung nach jedem Erfolg: Jack will die Kampfabrichtung beenden, statt Erfolge beim Angriff zu belohnen.
 - Durch geduldige, fürsorgliche Behandlung: Nach der Rettung baut Jack geduldig eine Beziehung auf.
@@ -7083,7 +6769,6 @@ In welcher Gefahr hilft Wolfsblut Jack Conroy (Ethan Hawke) in „Wolfsblut“ s
 
 Jack Conroy (Ethan Hawke) gerät in der Nähe der Siedlung in die Gewalt eines Grizzlys und sucht Schutz unter einem Holzstapel. Wolfsblut greift ein, bis der Bär sich zurückzieht. Später wird Jack seinerseits zum Retter des Tieres. Die beiden Begegnungen verteilen Hilfe auf beide Seiten und bereiten eine Freundschaft vor, die mehr ist als bloßer Tierbesitz.
 
-Merksatz: Erst hilft das Tier Jack, später hilft Jack dem Tier.
 
 - Bei einer Lawine am Goldclaim: Eine Lawine ist nicht diese frühe Rettungsszene.
 - Bei einem Schiffsuntergang vor San Francisco: Jack wird hier nicht aus einem Schiffswrack gerettet.
@@ -7105,7 +6790,6 @@ Mit welchem Vorwand bringt Beauty Smith (James Remar) in „Wolfsblut“ Grey Be
 
 Grey Beaver (Pius Savage) hat Wolfsblut aufgezogen. Beauty Smith (James Remar) gelangt nicht durch eine frei gewachsene Bindung an das Tier, sondern durch Druck auf dessen bisherigen Halter. Der Verweis auf das angebliche Besitzverbot verschleiert seine eigentliche Absicht: Er will Wolfsblut bei Hundekämpfen ausbeuten. Eine rechtlich klingende Behauptung ermöglicht so die folgende Gewalt.
 
-Merksatz: Smith tarnt Ausbeutung als Rechtsfrage.
 
 - Grey Beaver habe Wettschulden bei ihm.: Smiths Druckmittel ist die behauptete Rechtswidrigkeit des Wolfsbesitzes.
 - Das Tier müsse wegen einer Tollwutgefahr sofort eingezogen werden.: Eine amtliche Tollwutmaßnahme ist nicht sein Vorwand.
@@ -7127,7 +6811,6 @@ Warum bedroht Jack Conroy (Ethan Hawke) Wolfsblut gegen Ende von „Wolfsblut“
 
 Alex Larson (Klaus Maria Brandauer) erklärt Jack Conroy (Ethan Hawke), dass ein Wolf in San Francisco keinen passenden Lebensraum hätte. Jack greift deshalb zu einem Stock, vor dem das Tier durch Beauty Smiths (James Remar) Misshandlungen Angst hat. Die Szene wirkt wie ein Rückfall in Gewalt, entspringt aber dem fehlgeleiteten Versuch, die Bindung zugunsten eines freien Lebens zu lösen.
 
-Merksatz: Der Stock soll trennen, nicht wieder abrichten.
 
 - Er will das Tier vor seiner geplanten Abreise in die Wildnis vertreiben.: Jack glaubt, die schmerzhafte Trennung müsse das Tier ins freie Leben führen.
 - Er will es für einen weiteren Hundekampf scharfmachen.: Die Hundekämpfe sind nicht sein Ziel.
@@ -7149,7 +6832,6 @@ Welche Entscheidung verändert Jack Conroys (Ethan Hawke) Zukunft im Schluss von
 
 Jack Conroy (Ethan Hawke) steht vor der Abfahrt, erkennt aber, dass sein neuer Lebensort im Norden liegt. Alex Larson (Klaus Maria Brandauer) bestärkt diese Entscheidung mit dem Hinweis auf Jacks Vater. Nach der Rückkehr zum Hüttenplatz findet auch Wolfsblut wieder zu ihm. Der Schluss bewahrt die Freundschaft, weil Jack seine eigenen Zukunftspläne ändert, statt das Tier der Stadt anzupassen.
 
-Merksatz: Jack kehrt um – Wolfsblut kehrt zurück.
 
 - Er verkauft den Claim und zieht in eine neue Goldgräberstadt.: Er entscheidet sich für seinen Lebensort im Yukon, nicht für den Verkauf.
 - Er bleibt im Yukon, statt nach San Francisco zurückzureisen.: Jack entscheidet sich noch vor der Abfahrt für das Leben im Yukon.
@@ -7171,7 +6853,6 @@ In welchem Jahr erschien „Wolfsblut“ mit Ethan Hawke und Klaus Maria Brandau
 
 1991 kam Ethan Hawkes Goldgräberabenteuer in die Kinos. Drei Jahre später folgte Disneys White Fang 2 mit einer anderen menschlichen Hauptfigur. Das Tierabenteuer bildet damit den Ausgangspunkt einer kurzen Kinoreihe. Disney nennt für den ersten Teil den 18. Januar als US-Start; das Klondike-Milieu der Handlung gehört dagegen ins ausgehende 19. Jahrhundert.
 
-Merksatz: 1991: Wolfsblut vor der Fortsetzung von 1994.
 
 - 1986: 1986 liegt fünf Jahre vor dieser Veröffentlichung.
 - 1996: 1996 liegt fünf Jahre nach dieser Veröffentlichung.
@@ -7193,7 +6874,6 @@ Wer führte bei der Disney-Fassung von „Wolfsblut“ mit Ethan Hawke Regie?
 
 Der offizielle Disney-Credit nennt Randal Kleiser. Sein Film verbindet Jack Conroys (Ethan Hawke) Suche nach dem Goldclaim mit dem langsamen Vertrauen eines misshandelten Tieres. Die Besetzungsangabe identifiziert gerade diese Adaption von Jack Londons Roman. Sie verhindert, dass der Regiecredit einer anderen Wolfsblut-Verfilmung oder des späteren Disney-Films auf die erste Produktion übertragen wird.
 
-Merksatz: Kleiser inszeniert Hawkes Wolfsblut-Abenteuer.
 
 - Carroll Ballard: Carroll Ballard ist nicht der Regisseur dieser Produktion.
 - Joe Johnston: Joe Johnston trägt hier nicht den Regiecredit.
@@ -7219,7 +6899,6 @@ Wie beginnt Bucks unfreiwillige Reise nach Norden in „Ruf der Wildnis“?
 
 Buck lebt zunächst behütet bei Judge Miller (Bradley Whitford). Der Diebstahl beendet dieses vertraute Zuhause, ohne dass das Tier selbst eine Reise gewählt hätte. Im Norden wird es zur Arbeitskraft für andere Menschen. Seine spätere Hinwendung zur Wildnis ist deshalb nicht mit dem Anfang gleichzusetzen: Zunächst verliert Buck die Sicherheit seines alten Lebens gegen seinen Willen.
 
-Merksatz: Bucks Reise beginnt mit einem Diebstahl.
 
 - Er folgt freiwillig einer Wolfsfamilie aus seinem Garten.: Eine freiwillige Wolfswanderung ist nicht der Beginn.
 - Er wird aus seinem Zuhause in Kalifornien gestohlen.: Buck wird entführt und für den Transport verkauft.
@@ -7241,7 +6920,6 @@ Welche Aufgabe hat das Gespann von Perrault (Omar Sy) und Françoise (Cara Gee),
 
 Perrault (Omar Sy) und Françoise (Cara Gee) führen Buck in die Arbeit eines Schlittenhundes ein. Der Postdienst verlangt Tempo, Zusammenarbeit und die Bewältigung gefährlicher Wege. Buck ist zunächst ein ungeschickter Neuling, wächst aber an dieser Verantwortung. Die Strecke wird so zu einer Schule des Handelns, bevor er später ganz andere Formen menschlicher Herrschaft erlebt.
 
-Merksatz: Das Postgespann wird Bucks erste Schule im Norden.
 
 - Es transportiert Erz aus einem Bergwerk.: Ein Erztransport ist nicht die Aufgabe dieser Strecke.
 - Es zieht einen Schlitten für Jahrmarktsauftritte.: Perrault und Françoise betreiben keine Jahrmarktsnummer.
@@ -7263,7 +6941,6 @@ Warum steht Buck in „Ruf der Wildnis“ schließlich an der Spitze des Postges
 
 Spitz betrachtet Bucks wachsende Anerkennung als Bedrohung seiner Führungsrolle. Im Kampf wird die Unterstützung der anderen Hunde entscheidend; anschließend lassen sie den alten Platz nicht einfach unbesetzt. Perrault (Omar Sy) muss Bucks neue Stellung akzeptieren. Der Wechsel entsteht damit innerhalb des Gespanns, bevor der Mensch ihn bestätigt, und zeigt Bucks gewachsene Fähigkeit zur Führung.
 
-Merksatz: Das Gespann trägt Bucks Aufstieg mit.
 
 - Perrault bestimmt ihn ohne eine Auseinandersetzung mit Spitz.: Die Hunde tragen einen Führungswechsel nach dem Kampf mit.
 - Spitz wird bei einer Postfahrt verletzt und scheidet aus.: Spitz verliert seinen Platz im Konflikt mit Buck, nicht durch eine Fahrverletzung.
@@ -7285,7 +6962,6 @@ Weshalb endet Perraults (Omar Sy) Arbeit mit dem Gespann in „Ruf der Wildnis�
 
 Buck und das Gespann haben ihren Auftrag bewältigt, doch der Erfolg garantiert keine Fortsetzung. Perrault (Omar Sy) erfährt, dass die Telegraphie ihre Arbeit ersetzt. Die Hunde werden verkauft und gelangen an Hal (Dan Stevens). Dieser Übergang beruht auf einer Veränderung außerhalb des Gespanns; seine neue Notlage ist keine Folge mangelnder Leistung auf der bisherigen Route.
 
-Merksatz: Erfolgreiche Hunde verlieren ihre Arbeit an den Telegraphen.
 
 - Die Telegraphie ersetzt die Postroute.: Eine neue Kommunikationsform macht die Route überflüssig.
 - Perrault nimmt einen neuen Auftrag ohne Hundegespann in Europa an.: Der Film begründet das Ende mit der Ablösung durch Telegraphie.
@@ -7307,7 +6983,6 @@ Wie behandelt John Thornton (Harrison Ford) in „Ruf der Wildnis“ das gefunde
 
 John Thornton (Harrison Ford) findet mit Buck einen abgeschiedenen Lebensraum und tatsächlich Gold. Sein Umgang damit widerspricht Hals (Dan Stevens) Annahme, jeder sei vor allem auf Reichtum aus. Thornton braucht etwas für die Heimkehr, hält aber am Schatz nicht fest. Das Abenteuer hat ihm einen anderen Wert erschlossen: die gemeinsame Zeit und die Bereitschaft, sich seiner eigenen Vergangenheit wieder zuzuwenden.
 
-Merksatz: Thornton findet Gold, aber keinen neuen Lebenszweck darin.
 
 - Er vergräbt alles für eine spätere Expedition.: Thornton trennt sich bewusst vom meisten Gold.
 - Er wirft fast alles zurück und behält einen Lebensunterhalt.: Thornton gibt das meiste Gold wieder an den Fluss zurück.
@@ -7329,7 +7004,6 @@ Welche Aufgabe übernahm Terry Notary bei der Gestaltung Bucks in „Ruf der Wil
 
 Harrison Ford konnte beim Dreh auf einen anwesenden Partner reagieren, obwohl der fertige Buck digital entstand. Terry Notary lieferte dafür eine lebende Referenz. Die Filmeditoren unterscheiden diesen Ablauf ausdrücklich von einer vollständig übernommenen Motion-Capture-Performance: Menschen- und Hundekörper bewegen sich verschieden. Die Animation entwickelte die endgültige Tierdarstellung, während Notary den Darstellern und der Kamera Orientierung gab.
 
-Merksatz: Notary am Set – Buck aus der Animation.
 
 - Er lieferte eine komplett aufgezeichnete Motion-Capture-Performance für den fertigen Hund.: Die Editoren unterscheiden die Referenz ausdrücklich von der vollständig übernommenen Motion-Capture-Performance.
 - Er führte am Set die echten Hunde, die Buck in den Nahaufnahmen darstellen.: Buck ist digital animiert; Notary führte keine Tierdoubles der Hauptfigur.
@@ -7351,7 +7025,6 @@ Wann wurde „Ruf der Wildnis“ in der Fassung mit Harrison Ford als John Thorn
 
 2020 kam die Harrison-Ford-Fassung in die Kinos. Chris Sanders hatte schon 2002 die Figur Stitch mitgeschaffen und gesprochen; nun führte er reale Schauspieler und eine digitale Tierhauptfigur zusammen. Der Abstand von achtzehn Jahren verbindet zwei sehr verschiedene Produktionsformen seiner Arbeit. Disneys Bericht kündigte für Ruf der Wildnis den US-Start am 21. Februar an.
 
-Merksatz: 2020: Sanders verbindet Ford mit dem digitalen Buck.
 
 - 2015: 2015 liegt fünf Jahre vor dieser Fassung.
 - 2010: 2010 liegt zehn Jahre vor dieser Fassung.
@@ -7373,7 +7046,6 @@ Wer führte bei „Ruf der Wildnis“ mit Harrison Ford und Omar Sy Regie?
 
 Chris Sanders bringt seine Erfahrung im Animationsfilm in die Begegnung zwischen Harrison Ford und Buck ein. Der sichtbare Hund wurde animiert, während Menschen ihre Rollen in realen Aufnahmen spielten. Die Regie musste diese beiden Ebenen zu glaubwürdigen Beziehungen verbinden. Der offizielle Disney-Bericht nennt Sanders als Regisseur und grenzt seine Arbeit damit eindeutig von anderen Jack-London-Adaptionen ab.
 
-Merksatz: Sanders führt Menschen und digitalen Hund zusammen.
 
 - Chris Sanders: Chris Sanders inszenierte diese Fassung.
 - Dean DeBlois: DeBlois teilt diesen Regiecredit nicht.
@@ -7399,7 +7071,6 @@ Warum ist Marcus Aquila (Channing Tatum) in „Der Adler der neunten Legion“ d
 
 Marcus Aquila (Channing Tatum) beginnt seinen Dienst in Britannien unter dem Schatten einer verschwundenen Legion. Sein Vater gehörte zu deren Führung; die Niederlage belastet die Familie. Marcus’ spätere Suche ist deshalb kein bloßer militärischer Auftrag. Er setzt die eigene Sicherheit für eine Sache aufs Spiel, die für ihn zugleich öffentliche Anerkennung und eine persönliche Beziehung zum Vater bedeutet.
 
-Merksatz: Die Legion belastet auch den Namen Aquila.
 
 - Er will einen früheren Gegner als Mörder seines Vaters überführen.: Die Suche zielt auf die Wiederherstellung seines Rufes, nicht auf einen Prozess gegen einen bestimmten Mörder.
 - Er will mit einem reichen Fund seine neue militärische Karriere finanzieren.: Ein Vermögen für die Karriere ist nicht das Motiv.
@@ -7421,7 +7092,6 @@ Welche römische Grenze überschreiten Marcus (Channing Tatum) und Esca (Jamie B
 
 Marcus (Channing Tatum) will den Gerüchten über das verlorene Feldzeichen folgen. Gemeinsam mit Esca (Jamie Bell) verlässt er die römisch kontrollierte Welt jenseits des Hadrianswalls. Dort gelten seine Befehlsgewalt und seine militärische Zugehörigkeit nicht als Schutz. Der Grenzübertritt markiert deshalb zugleich einen Wechsel der Machtverhältnisse, auf den sich Marcus erst unterwegs einstellen muss.
 
-Merksatz: Jenseits des Walls trägt Rom nicht mehr die Reise.
 
 - Die Stadtmauer Roms: Die Reise findet in Britannien statt, nicht in Rom.
 - Den Rheinlimes: Der Rhein liegt nicht auf dieser britischen Route.
@@ -7443,7 +7113,6 @@ Wie verschafft Esca (Jamie Bell) sich und Marcus (Channing Tatum) in „Der Adle
 
 Esca (Jamie Bell) gehört zu den von Rom unterworfenen Menschen, kann aber im Norden seine eigene Herkunft nutzen. Vor den Seal People wird Marcus (Channing Tatum) zum vermeintlichen Sklaven. Die Umkehr ist eine Tarnung, lässt den Römer aber Abhängigkeit selbst erleben. Er muss Esca vertrauen, obwohl dessen Verhalten zunächst wie ein tatsächlicher Verrat an ihm aussieht.
 
-Merksatz: Die Tarnung macht den Herrn zum Sklaven.
 
 - Esca spielt einen flüchtenden Häuptlingssohn, Marcus seinen Sklaven.: Esca kehrt ihre bisherige soziale Rollenverteilung für die Tarnung um.
 - Esca stellt Marcus als Deserteur dar, der Asyl sucht.: Marcus wird in der Tarnung zum Sklaven Escas, nicht zum Asylsuchenden.
@@ -7465,7 +7134,6 @@ Was tut Esca (Jamie Bell) in „Der Adler der neunten Legion“, nachdem der ver
 
 Marcus (Channing Tatum) kann wegen seiner alten Verwundung kaum weiter. Er entlässt Esca (Jamie Bell) und will ihm ermöglichen, ohne ihn zu entkommen. Escas Rückkehr mit römischen Überlebenden lässt sich nun nicht mehr als Pflicht eines Sklaven erklären. Die Hilfe wird zu einer freiwilligen Entscheidung und macht sichtbar, dass aus dem erzwungenen Verhältnis eine Freundschaft geworden ist.
 
-Merksatz: Der freie Esca kommt aus eigener Entscheidung zurück.
 
 - Er bringt das Feldzeichen allein zur Garnison.: Esca entscheidet sich für Hilfe statt für das Zurücklassen seines Freundes.
 - Er holt Überlebende der Legion zu Hilfe.: Esca kommt freiwillig mit Verstärkung zurück.
@@ -7487,7 +7155,6 @@ Welche Bedeutung hat Guerns (Mark Strong) Bericht über Marcus’ Vater im Schlu
 
 Der Stammesführer hatte den Vater als einen Mann dargestellt, der um sein Leben bettelte. Guern (Mark Strong), ein Überlebender der Legion, berichtet Marcus (Channing Tatum) dagegen, dass er bis zuletzt gekämpft habe. Neben dem zurückgewonnenen Feldzeichen erhält Marcus damit ein menschliches Zeugnis. Die Reise kann den Vater nicht zurückbringen, aber die Vorstellung von dessen Ende verändern.
 
-Merksatz: Guerns Zeugnis ergänzt das gerettete Feldzeichen.
 
 - Der Vater hat sich den Gegnern angeschlossen.: Guern beschreibt einen kämpfenden Mann bis zu dessen Tod.
 - Der Vater hat seine Soldaten verlassen.: Er widerspricht gerade dem beschämenden Bild eines Feiglings.
@@ -7509,7 +7176,6 @@ Welche bewusste Besetzungs- und Sprachidee erläuterte Kevin Macdonald für die 
 
 Kevin Macdonald erklärte, die Römer von Anfang an als Amerikaner gedacht zu haben. Marcus’ (Channing Tatum) Überzeugung von den Vorzügen Roms trifft auf Menschen mit eigenen Wertvorstellungen. Der Regisseur verband diese Konstellation ausdrücklich mit zeitgenössischen Fragen kultureller Vorherrschaft. Die Akzente sind daher nicht nur eine zufällige Folge der Besetzung, sondern Teil seiner Perspektive auf das historische Abenteuer.
 
-Merksatz: Amerikanische Römer: ein absichtlicher Blick auf Herrschaft.
 
 - Britische Adelsakzente als Gegensatz zu einfachen Soldaten: Macdonald erklärte die amerikanische Prägung als Ausgangsidee.
 - Schottische Akzente als Zeichen einheimischer Herkunft: Die amerikanische Färbung markiert gerade die römische Außenmacht.
@@ -7531,7 +7197,6 @@ In welchem Jahr kam „Der Adler der neunten Legion“ mit Channing Tatum und Ja
 
 2011 kam das gemeinsame Abenteuer von Channing Tatum und Jamie Bell in die Kinos. Die Handlung spielt im römischen Britannien des Jahres 140; diese Jahreszahl gehört zur erzählten Welt und nicht zum Erscheinungsdatum. Focus Features nennt den US-Start am 11. Februar. Der Film blickt so aus dem frühen 21. Jahrhundert auf eine Reise jenseits der römischen Reichsgrenze.
 
-Merksatz: 2011 im Kino – 140 in der Handlung.
 
 - 2011: Die erste Kinoveröffentlichung war 2011.
 - 2006: 2006 liegt fünf Jahre vor dem Kinostart.
@@ -7553,7 +7218,6 @@ Wer inszenierte „Der Adler der neunten Legion“ mit Channing Tatum als Marcus
 
 Kevin Macdonald führte die Adaption von Rosemary Sutcliffs Roman nach dem Drehbuch von Jeremy Brock. Die Reise stellt Marcus (Channing Tatum) und Esca (Jamie Bell) zunehmend aufeinander angewiesen dar. Der offizielle Focus-Credit trennt die Regie von Romanvorlage, Drehbuch und Duncan Kenworthys Produktion. Diese Leistungen wirken an demselben Film mit, sind aber unterschiedliche Aufgaben.
 
-Merksatz: Macdonald inszeniert die Reise von Marcus und Esca.
 
 - Neil Marshall: Neil Marshall inszenierte diese Fassung nicht.
 - Kevin Macdonald: Kevin Macdonald führte Regie.
@@ -7579,7 +7243,6 @@ Welchen Beruf übt Balian (Orlando Bloom) zu Beginn von „Königreich der Himme
 
 Balian (Orlando Bloom) lebt nach dem Verlust seiner Frau zunächst als Handwerker in Frankreich. Die Begegnung mit Godfrey (Liam Neeson) eröffnet ihm einen Weg nach Jerusalem. Der Film stellt seine spätere Verantwortung dadurch als Veränderung eines Mannes dar, der nicht bereits als Herrscher eingeführt wird. Handwerkliches Können bleibt auch bei seinen späteren Aufgaben von Nutzen.
 
-Merksatz: Aus dem Schmied wird ein Verteidiger Jerusalems.
 
 - Hofarzt: Er beginnt nicht als Arzt am Hof.
 - Buchhändler: Eine Buchhandlung führt er nicht.
@@ -7601,7 +7264,6 @@ Welche Beziehung offenbart Godfrey (Liam Neeson) Balian (Orlando Bloom) in „K�
 
 Godfrey (Liam Neeson) kehrt nach Frankreich zurück und begegnet Balian (Orlando Bloom), der bisher ohne diese Vaterbeziehung gelebt hat. Seine Einladung ins Heilige Land bekommt dadurch mehr als einen religiösen oder militärischen Hintergrund. Auf dem Weg gibt er Balian seine Verantwortung für Schutzlose weiter. Die späte familiäre Begegnung wird damit zur Grundlage eines neuen Lebensabschnitts.
 
-Merksatz: Godfrey bringt Balian eine Herkunft und eine Verantwortung.
 
 - Er ist sein Vater.: Godfrey erklärt Balian, dass er dessen Vater ist.
 - Er ist sein jüngerer Bruder.: Die Männer sind keine Brüder.
@@ -7623,7 +7285,6 @@ Warum trägt König Balduin IV. (Edward Norton) in „Königreich der Himmel“ 
 
 Balduin IV. (Edward Norton) bemüht sich trotz seiner Krankheit um Frieden mit Saladin (Ghassan Massoud). Die Maske ist ein auffälliges Mittel der Filmgestaltung und verdeckt sein Gesicht. Sie verändert nicht seine politische Identität. Die Frage betrifft ausdrücklich die Darstellung im Film; die Maske ist nicht als verlässliches Merkmal historischer Porträts des wirklichen Königs zu verstehen.
 
-Merksatz: Balduins Maske gehört zur filmischen Darstellung seiner Lepra.
 
 - Er verbirgt die Verletzungen eines früheren Gefechts.: Der Film führt die Maske im Zusammenhang mit Lepra ein.
 - Er ist an Lepra erkrankt.: Die Maske gehört zur Darstellung seiner schweren Erkrankung.
@@ -7645,7 +7306,6 @@ Warum lehnt Balian (Orlando Bloom) in „Königreich der Himmel“ den vorgeschl
 
 Balduin IV. (Edward Norton) möchte Balian (Orlando Bloom) an Sibyllas (Eva Green) Seite in eine entscheidende Machtposition bringen. Guy (Marton Csokas), ihr Ehemann, müsste dafür sterben. Balian lehnt ab, obwohl seine Übernahme auch den Frieden schützen könnte. Das Angebot stellt ihn vor einen konkreten Gewissenskonflikt: Soll ein persönliches Verbrechen erlaubt sein, wenn es eine größere Katastrophe verhindern könnte?
 
-Merksatz: Balian lehnt Macht um den Preis eines Mordes ab.
 
 - Dafür müsste Balian das Land sofort an Saladin verkaufen.: Ein Verkauf des Königreichs ist nicht die Bedingung.
 - Dafür müsste Sibylla ihre gesamte Familie ins Exil schicken.: Das Exil der gesamten Familie wird nicht verlangt.
@@ -7667,7 +7327,6 @@ Welche Zusage erreicht Balian (Orlando Bloom) bei der Übergabe Jerusalems in �
 
 Die Verteidigung Jerusalems kann Saladins (Ghassan Massoud) Angriff nicht auf Dauer aufhalten. Balian (Orlando Bloom) nutzt deshalb die Verhandlung, um das Überleben der Bewohner zu sichern. Sein Erfolg besteht im Schutz von Menschen, obwohl die Stadt verloren geht. Der Film trennt damit den Sieg über einen Gegner von der Verantwortung für diejenigen, die einen militärischen Sieg nicht mehr erwarten können.
 
-Merksatz: Die Stadt fällt, die Bewohner dürfen gehen.
 
 - Schutz nur für die Ritter, während einfache Bewohner als Gefangene bleiben: Balian erreicht sicheres Geleit für die christlichen Bewohner, nicht bloß für die Ritter.
 - Die Wiederherstellung der christlichen Königsherrschaft unter Saladins Aufsicht: Die Stadt wird Saladin übergeben; das christliche Königreich wird nicht erneuert.
@@ -7689,7 +7348,6 @@ Quellen: [Beleg 1](https://en.wikipedia.org/wiki/Kingdom_of_Heaven_(film)), [Bel
 
 Nach dem Schiffbruch begegnet Balian (Orlando Bloom) einem Mann, den er für einen Sklaven hält und später freilässt. Nach der Niederlage bei Kerak erkennt er diesen als Imad ad-Din (Alexander Siddig), einen hochgestellten Vertrauten Saladins (Ghassan Massoud), wieder. Die frühere Verschonung erhält nun eine konkrete Antwort. Eine scheinbar nebensächliche Entscheidung wirkt über die Grenzen der beiden Kriegsparteien hinaus.
 
-Merksatz: Balians frühere Gnade kehrt als Freiheit zu ihm zurück.
 
 - Balian hatte ihn nach ihrer früheren Begegnung verschont.: Imad erwidert Balians früher gewährte Verschonung.
 - Saladin hat Balian bereits als Gesandten zu Balduin bestimmt.: Die Freilassung erwidert die frühere Gnade, nicht eine schon vereinbarte Gesandtschaft.
@@ -7711,7 +7369,6 @@ Wann wurde „Königreich der Himmel“ mit Orlando Bloom als Balian erstmals ve
 
 2005 führte Ridley Scott Orlando Bloom ins mittelalterliche Jerusalem. Fünf Jahre zuvor hatte Scott mit Gladiator bereits ein großes historisches Kinoepos inszeniert. Der Zeitabstand verbindet die beiden Produktionen, ohne ihre Schauplätze gleichzusetzen. Die Premiere von Königreich der Himmel fand im Mai in London statt; der japanische Studioeintrag nennt den dortigen Kinostart ebenfalls im selben Jahr.
 
-Merksatz: 2005: Scotts Jerusalem-Epos fünf Jahre nach Gladiator.
 
 - 2000: 2000 liegt fünf Jahre davor.
 - 2005: Der Film wurde 2005 erstmals veröffentlicht.
@@ -7733,7 +7390,6 @@ Wer führte bei „Königreich der Himmel“ mit Orlando Bloom, Eva Green und Li
 
 Ridley Scott inszenierte die Geschichte Balians (Orlando Bloom) nach dem Drehbuch von William Monahan. Neben dem ursprünglichen Kinofilm verantwortete er einen längeren Director’s Cut. Beide Fassungen gehören zur selben Produktion und teilen den Regiecredit. Die Inhaltsfragen dieses Pakets beziehen sich auf Ereignisse der Kinofassung, sodass zusätzliche Handlungsstränge der späteren Fassung nicht still vorausgesetzt werden.
 
-Merksatz: Ridley Scott verantwortet Kinofilm und Director’s Cut.
 
 - Tony Scott: Tony Scott ist nicht der Regisseur dieses Films.
 - Peter Jackson: Peter Jackson führte hier nicht Regie.

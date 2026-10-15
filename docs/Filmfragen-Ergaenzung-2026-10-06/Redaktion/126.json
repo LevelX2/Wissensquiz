@@ -33,13 +33,13 @@
       ],
       "short": "Die Bewohner leiden unter Banden und überhöhten Schutzgeldforderungen.",
       "context": "Zatoichi (Takeshi Kitano) kommt in eine von konkurrierenden Banden kontrollierte Ortschaft. Seine Hilfe verbindet sich mit den Bewohnern, die ihm Unterkunft und Begegnungen anbieten. Die Gewalt entsteht dadurch nicht aus einem bloßen Wunsch nach Duellen, sondern aus einer sozialen Lage, in der Schutz angeblich verkauft und tatsächlich verweigert wird.",
-      "anchor": "Zatoichi bekämpft das Geschäft mit der Unsicherheit des Dorfes.",
       "interest": "Zatoichi bekämpft das Geschäft mit der Unsicherheit des Dorfes.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zatoichi bekämpft das Geschäft mit der Unsicherheit des Dorfes."
     },
     {
       "code": "L2",
@@ -58,13 +58,13 @@
       ],
       "short": "Die Geschwister wollen den Angriff auf ihre Familie rächen.",
       "context": "O-sei (Daigoro Tachibana) und O-kinu (Yūko Daike) haben den Überfall auf ihre Familie überlebt. Ihre Spur trifft auf dieselben Kriminellen, die den Ort beherrschen. Die Begegnung mit Zatoichi (Takeshi Kitano) verschränkt dadurch zwei Motive: die aktuelle Hilfe für Bewohner und eine alte private Suche nach Vergeltung.",
-      "anchor": "Die neue Dorfgewalt und die alte Familientragödie führen zu denselben Tätern.",
       "interest": "Die neue Dorfgewalt und die alte Familientragödie führen zu denselben Tätern.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die neue Dorfgewalt und die alte Familientragödie führen zu denselben Tätern."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Der vermeintlich unbedeutende alte Bedienstete verbirgt die Machtposition.",
       "context": "Zatoichi (Takeshi Kitano) dringt bis zu dem Mann vor, der hinter der Gangsterordnung steht. Die vorher unscheinbare Rolle verdeckt dessen Verantwortung. Der Film nutzt die Enthüllung, um Sichtbarkeit und Macht auseinanderzuhalten: Wer auf den ersten Blick am wenigsten wichtig wirkt, kann die Gewalt am stärksten lenken.",
-      "anchor": "Die unscheinbare Bedienung verdeckt den eigentlichen Machthaber.",
       "interest": "Die unscheinbare Bedienung verdeckt den eigentlichen Machthaber.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die unscheinbare Bedienung verdeckt den eigentlichen Machthaber."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Die gemeinsam als Geishas auftretenden Figuren sind Bruder und Schwester.",
       "context": "O-sei (Daigoro Tachibana) tritt in einer weiblichen Bühnenrolle auf, O-kinu (Yūko Daike) ist seine Schwester. Die gemeinsame Erscheinung ersetzt nicht ihre tatsächliche Verwandtschaft. Beide teilen die Geschichte der ermordeten Eltern; ihr Auftreten gehört zur Überlebensstrategie und zur Suche nach den Tätern.",
-      "anchor": "Gemeinsame Bühnenrolle und wirkliche Familienbeziehung sind verschiedene Ebenen.",
       "interest": "Gemeinsame Bühnenrolle und wirkliche Familienbeziehung sind verschiedene Ebenen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gemeinsame Bühnenrolle und wirkliche Familienbeziehung sind verschiedene Ebenen."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Ein Ensemble führt einen rhythmischen Stepptanz auf.",
       "context": "Die Stepptanzgruppe The Stripes prägt die Schlussnummer. Die Gemeinschaft bekommt nach den Kämpfen eine andere Form gemeinsamer Bewegung. Der deutliche Bruch mit einem rein realistischen Schluss macht den Rhythmus selbst zum Ausdruck von Befreiung: Körper, die zuvor bedroht waren, organisieren sich nun in einem Tanz.",
-      "anchor": "Am Schluss werden die Bewegungen der Gewalt zu gemeinschaftlichem Rhythmus.",
       "interest": "Am Schluss werden die Bewegungen der Gewalt zu gemeinschaftlichem Rhythmus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Am Schluss werden die Bewegungen der Gewalt zu gemeinschaftlichem Rhythmus."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Suzuki komponierte die Musik.",
       "context": "Kitano arbeitete bei diesem Film erstmals mit Keiichi Suzuki als Komponisten zusammen. Die Schlagwerkorientierung passt zu den sichtbaren Arbeitsbewegungen und zum abschließenden Tanz. Der Musikcredit hilft deshalb, die besondere rhythmische Form zu verstehen, ohne die Leistung des Komponisten mit der Hauptrolle oder der Regie zu verwechseln.",
-      "anchor": "Suzukis Musik gibt Alltagsbewegung und Tanz einen gemeinsamen Puls.",
       "interest": "Suzukis Musik gibt Alltagsbewegung und Tanz einen gemeinsamen Puls.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Suzukis Musik gibt Alltagsbewegung und Tanz einen gemeinsamen Puls."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2003.",
       "context": "Kitanos Zatoichi wurde 2003 in Venedig erstmals gezeigt und dort mit dem Silbernen Löwen für Regie ausgezeichnet. Die neue Fassung kehrte zu einer bereits lange im Kino und Fernsehen erzählten Figur zurück. Premiere und Regiepreis gehören in diesem Fall beide ins Jahr 2003; die ältere Seriengeschichte ist keine frühere Veröffentlichung dieses Films.",
-      "anchor": "Kitanos neue Zatoichi-Fassung erschien 2003 und erhielt noch 2003 den venezianischen Regiepreis.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Kitanos neue Zatoichi-Fassung erschien 2003 und erhielt noch 2003 den venezianischen Regiepreis.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kitanos neue Zatoichi-Fassung erschien 2003 und erhielt noch 2003 den venezianischen Regiepreis."
     },
     {
       "code": "D",
@@ -204,14 +204,14 @@
       ],
       "short": "Der Regiecredit lautet Takeshi Kitano.",
       "context": "Takeshi Kitano führte Regie, schrieb das Drehbuch und spielt Zatoichi. Der Film nahm die ältere Reihenfigur neu auf. Keiichi Suzuki schrieb die Musik; die ungewöhnliche Verbindung aus Gewalt, alltäglichen Rhythmen und einem abschließenden Tanz verleiht dem vertrauten Stoff eine eigene Form.",
-      "anchor": "Takeshi Kitano: Der Film nahm die ältere Reihenfigur neu auf.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Takeshi Kitano: Der Film nahm die ältere Reihenfigur neu auf."
     }
   ]
 }

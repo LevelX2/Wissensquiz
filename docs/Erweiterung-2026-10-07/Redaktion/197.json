@@ -36,12 +36,12 @@
       ],
       "short": "Henri ist französischer Offizier.",
       "context": "Henri ist französischer Offizier. Seine Zusammenarbeit mit einer amerikanischen Offizierin wird später auch zu einer Frage unterschiedlicher Zuständigkeiten. Die Liebesgeschichte muss damit persönliche Nähe in Regeln einordnen, die für gewöhnliche militärische Aufgaben gemacht wurden. Seine Nationalität bleibt für die Reise wichtig, selbst nachdem das Paar sich für die Heirat entschieden hat.",
-      "anchor": "Der französische Offizier gerät in amerikanische Zuständigkeitsregeln.",
       "interest": "Die militärische Ausgangszugehörigkeit erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der französische Offizier gerät in amerikanische Zuständigkeitsregeln."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Catherine fährt das Motorrad, Henri muss den Beiwagen benutzen.",
       "context": "Catherine fährt das Motorrad, Henri muss den Beiwagen benutzen. Die militärischen Regeln bestimmen damit schon zu Beginn die praktische Verteilung der Rollen. Der französische Offizier kann die gemeinsame Fahrt nicht einfach kontrollieren. Das Transportmittel schafft zahlreiche Gelegenheiten, ihre Gegensätze sichtbar zu machen, bevor aus dem streitenden Auftragspaar eine Beziehung wird.",
-      "anchor": "Catherine lenkt, Henri bleibt im Beiwagen.",
       "interest": "Die konkrete Rollenverteilung beim Transport erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Catherine lenkt, Henri bleibt im Beiwagen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Henri hatte Catherine angewiesen, seine Tarnung durch eine scheinbare Unbekanntschaft zu unterstützen.",
       "context": "Henri hatte Catherine angewiesen, seine Tarnung durch eine scheinbare Unbekanntschaft zu unterstützen. Als er nach der Razzia ihre Hilfe benötigt, hält sie sich weiter daran. Die eigene Anordnung bekommt damit eine für ihn unangenehme Folge. Die Komödie verschiebt den Streit von der gemeinsamen Fahrt in eine Situation, in der wörtlicher Gehorsam seine Kontrolle unterläuft.",
-      "anchor": "Catherine befolgt ausgerechnet die Anweisung, die Henri nun nicht mehr hilft.",
       "interest": "Eine vorherige Anordnung mit ihrer späteren Folge verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Catherine befolgt ausgerechnet die Anweisung, die Henri nun nicht mehr hilft."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Zuerst ist die standesamtliche Eheschließung nötig.",
       "context": "Zuerst ist die standesamtliche Eheschließung nötig. Danach erfüllen beide ihre unterschiedlichen Wünsche nach einem Militärgeistlichen und einer französischen Kirche. Die Beziehung bekommt dadurch mehrere formale Bestätigungen, ohne dass das Paar endlich ungestört sein kann. Die Folge weiterer Zuständigkeiten verlagert den bisherigen Reisestreit in einen komischen Ablauf offizieller Anerkennungen.",
-      "anchor": "Eine Ehe muss drei unterschiedliche Zeremonien durchlaufen.",
       "interest": "Die verschiedenen formalen Stationen der Heirat verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine Ehe muss drei unterschiedliche Zeremonien durchlaufen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Henri zieht eine weibliche Militäruniform an, um die Einschiffung zu erreichen.",
       "context": "Henri zieht eine weibliche Militäruniform an, um die Einschiffung zu erreichen. Die äußere Erscheinung soll in eine Verwaltungskategorie passen, deren Ehegattenbezeichnung seinen tatsächlichen Fall schlecht erfasst. Die Täuschung überwindet die Kontrolle zunächst, wird später aber entdeckt. Sein persönlicher Reiseanspruch bleibt dadurch von der Frage abhängig, welche Rolle die zuständige Stelle überhaupt anerkennt.",
-      "anchor": "Die Pflegerinnenuniform bringt Henri zunächst durch die Einschiffungskontrolle.",
       "interest": "Die konkrete Verkleidung und ihren Zweck erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Pflegerinnenuniform bringt Henri zunächst durch die Einschiffungskontrolle."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der verständige Kapitän ermöglicht dem Paar Privatsphäre in der Arrestzelle.",
       "context": "Der verständige Kapitän ermöglicht dem Paar Privatsphäre in der Arrestzelle. Gerade der Raum für militärische Festhaltung wird damit zum Ort des ersehnten Zusammenseins. Das Ende führt die widersprüchlichen Regeln in ein letztes komisches Bild. Nach den vielen Hindernissen bedeutet die geschlossene Tür erstmals auch Schutz vor weiteren Unterbrechungen.",
-      "anchor": "Die Arrestzelle wird zum endlich privaten Raum der frisch Verheirateten.",
       "interest": "Die ironische räumliche Auflösung erinnern.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Arrestzelle wird zum endlich privaten Raum der frisch Verheirateten."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Premiere am 9. August 1949 laut AFI; reguläre Veröffentlichung ab 11. August, späterer New-York-Start am 26. August 1949.",
       "context": "„Ich war eine männliche Kriegsbraut“ erschien 1949. Der zugrunde liegende Bericht war am 28. September 1947 in der „Baltimore Sun“ erschienen, zwei Jahre früher. Henri Rochard war dabei ein Pseudonym des Autors Roger Charlier. Der Zeitanker verbindet die Komödie mit einem konkreten Nachkriegsbericht, dessen bürokratisches Problem in eine gemeinsame Reisegeschichte verwandelt wurde.",
-      "anchor": "1947 der Zeitungsbericht, 1949 die Hawks-Komödie: zwei Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "afi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1947 der Zeitungsbericht, 1949 die Hawks-Komödie: zwei Jahre später."
     },
     {
       "code": "D",
@@ -205,14 +205,14 @@
       ],
       "short": "Howard Hawks inszenierte Cary Grant und Ann Sheridan nach dem Buch von Charles Lederer, Leonard Spigelgass und Hagar Wilde.",
       "context": "Howard Hawks inszenierte Cary Grant und Ann Sheridan nach dem Buch von Charles Lederer, Leonard Spigelgass und Hagar Wilde. Gedreht wurde in Deutschland, Großbritannien und schließlich den USA. Die Reise des Paars nutzt reale Nachkriegsorte und anschließend bürokratische Räume. Hawks hält den Konflikt körperlich sichtbar, wenn Transportmittel, Türgriffe und Vorschriften das gemeinsame Weiterkommen erschweren.",
-      "anchor": "Hawks lässt Grant und Sheridan an Fahrzeugen und Vorschriften zugleich aneinandergeraten.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "afi",
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Hawks lässt Grant und Sheridan an Fahrzeugen und Vorschriften zugleich aneinandergeraten."
     }
   ]
 }

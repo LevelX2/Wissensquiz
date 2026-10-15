@@ -37,12 +37,12 @@
       ],
       "short": "Die vermeintliche Waffe erscheint als robotisches Mädchen Alphie (Madeleine Yuna Voyles).",
       "context": "Die vermeintliche Waffe erscheint als robotisches Mädchen Alphie (Madeleine Yuna Voyles). Joshua Taylor (John David Washington) muss dadurch seine militärische Aufgabe an einem schutzbedürftig wirkenden Gegenüber prüfen.",
-      "anchor": "Die Waffe begegnet Joshua als Kind.",
       "interest": "Die Waffe begegnet Joshua als Kind.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Waffe begegnet Joshua als Kind."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Alphie kann technische Systeme kontrollieren.",
       "context": "Alphie kann technische Systeme kontrollieren. Diese Fähigkeit bedroht NOMADs militärische Überlegenheit und erklärt, warum Joshua Taylor (John David Washington) sie zunächst als Ziel eines Vernichtungsauftrags findet.",
-      "anchor": "Alphies technische Macht bedroht die Kriegsmaschine.",
       "interest": "Alphies technische Macht bedroht die Kriegsmaschine.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Alphies technische Macht bedroht die Kriegsmaschine."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "NOMAD ist eine orbitale Angriffsplattform.",
       "context": "NOMAD ist eine orbitale Angriffsplattform. Ihre Reichweite hält New Asia unter Bedrohung; die persönliche Flucht von Joshua (John David Washington) und Alphie (Madeleine Yuna Voyles) führt deshalb zu einer strategischen Auseinandersetzung um dieses System.",
-      "anchor": "Die Orbitalplattform verbindet lokale Verfolgung und großräumigen Krieg.",
       "interest": "Die Orbitalplattform verbindet lokale Verfolgung und großräumigen Krieg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Orbitalplattform verbindet lokale Verfolgung und großräumigen Krieg."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Maya selbst ist Nirmata, die gesuchte KI-Schöpferin.",
       "context": "Maya selbst ist Nirmata, die gesuchte KI-Schöpferin. Joshua Taylor (John David Washington) erfährt, dass militärische Verantwortliche diesen Zusammenhang verschwiegen hatten; die Suche nach seiner Frau und die Feindmission gehören damit zusammen.",
-      "anchor": "Die gesuchte Schöpferin ist Joshuas eigene Frau.",
       "interest": "Die gesuchte Schöpferin ist Joshuas eigene Frau.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gesuchte Schöpferin ist Joshuas eigene Frau."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Harun (Ken Watanabe) erklärt, menschliches Versagen sei der KI angelastet worden.",
       "context": "Harun (Ken Watanabe) erklärt, menschliches Versagen sei der KI angelastet worden. Das widerspricht der offiziellen Kriegsbegründung; Joshua (John David Washington) muss deshalb die angebliche Eindeutigkeit seiner Seite neu bewerten.",
-      "anchor": "Die Rechtfertigung des Kriegs wird durch eine andere Ursache erschüttert.",
       "interest": "Die Rechtfertigung des Kriegs wird durch eine andere Ursache erschüttert.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rechtfertigung des Kriegs wird durch eine andere Ursache erschüttert."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Alphie verwendet Mayas gespeicherte Erinnerungen für einen Simulanten.",
       "context": "Alphie verwendet Mayas gespeicherte Erinnerungen für einen Simulanten. Joshua (John David Washington) kann Maya (Gemma Chan) dadurch nochmals begegnen; die Szene verbindet die zuvor als Feindtechnik behandelte KI mit einem sehr persönlichen Abschied.",
-      "anchor": "KI-Technik ermöglicht den letzten persönlichen Abschied.",
       "interest": "KI-Technik ermöglicht den letzten persönlichen Abschied.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "KI-Technik ermöglicht den letzten persönlichen Abschied."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2023 erschien der Film.",
       "context": "2023 erschien der Film. Gareth Edwards’ „Rogue One“ stammt von 2016, sieben Jahre zuvor. Die neue Geschichte führt seine Verbindung großräumiger Science-Fiction-Kriegsbilder mit einer überschaubaren persönlichen Mission außerhalb des Star-Wars-Universums fort.",
-      "anchor": "Rogue One 2016, The Creator 2023: Sieben Jahre später gestaltet Edwards einen weiteren persönlichen Auftrag im Science-Fiction-Krieg.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Rogue One 2016, The Creator 2023: Sieben Jahre später gestaltet Edwards einen weiteren persönlichen Auftrag im Science-Fiction-Krieg."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz.",
       "context": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz. John David Washington spielt Joshua Taylor, Madeleine Yuna Voyles Alphie. Der Auftrag zur Zerstörung einer vermeintlichen Waffe wird durch deren kindliche Gestalt zu einem Loyalitätskonflikt.",
-      "anchor": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz.",
       "interest": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz.",
       "sources": [
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Gareth Edwards führte Regie und entwickelte die Geschichte; das Drehbuch schrieb er mit Chris Weitz."
     }
   ]
 }

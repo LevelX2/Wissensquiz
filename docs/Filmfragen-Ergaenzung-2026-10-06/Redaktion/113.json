@@ -39,13 +39,13 @@
       ],
       "short": "Winfried ist Ines’ Vater.",
       "context": "Winfried (Peter Simonischek) möchte mehr Kontakt zu Ines (Sandra Hüller), die als Unternehmensberaterin arbeitet. Die Reise zu ihr beginnt daher nicht als zufällige Begegnung zweier Fremder. Ein vertrautes familiäres Verhältnis muss sich in einer Umgebung bewähren, deren Leistungsregeln und Zeitpläne kaum Platz für den Vater lassen.",
-      "anchor": "Vater und Tochter begegnen sich im fremden Takt der Arbeitswelt.",
       "interest": "Vater und Tochter begegnen sich im fremden Takt der Arbeitswelt.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vater und Tochter begegnen sich im fremden Takt der Arbeitswelt."
     },
     {
       "code": "L2",
@@ -64,13 +64,13 @@
       ],
       "short": "Ines arbeitet in Bukarest.",
       "context": "Ines (Sandra Hüller) berät in Bukarest Unternehmen im Umfeld der Ölindustrie. Winfried (Peter Simonischek) kommt aus Deutschland zu ihr. Hotelbars, Büros und Empfänge geben ihrer Arbeit einen austauschbar internationalen Rahmen; seine ungeplante Nähe stört besonders deutlich den Versuch, dort jedes Auftreten beruflich kontrollieren zu können.",
-      "anchor": "Bukarest ist Ines’ Arbeitswelt und Winfrieds fremder Besuchsort.",
       "interest": "Bukarest ist Ines’ Arbeitswelt und Winfrieds fremder Besuchsort.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bukarest ist Ines’ Arbeitswelt und Winfrieds fremder Besuchsort."
     },
     {
       "code": "M1",
@@ -89,13 +89,13 @@
       ],
       "short": "Eine auffällige Perücke und falsche Zähne gehören zur Verkleidung.",
       "context": "Winfried (Peter Simonischek) kündigt scheinbar seine Abreise an und kehrt als Toni Erdmann zurück. Die Verkleidung ist durchschaubar, doch Ines (Sandra Hüller) lässt ihn vor ihren Bekannten zunächst gewähren. Die Komik entsteht damit nicht aus einer perfekten Täuschung, sondern aus den unterschiedlichen Regeln, nach denen beide das offenkundige Spiel behandeln.",
-      "anchor": "Die schlechte Verkleidung eröffnet ein erstaunlich wirksames Rollenspiel.",
       "interest": "Die schlechte Verkleidung eröffnet ein erstaunlich wirksames Rollenspiel.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die schlechte Verkleidung eröffnet ein erstaunlich wirksames Rollenspiel."
     },
     {
       "code": "M2",
@@ -114,12 +114,12 @@
       ],
       "short": "Ines singt Greatest Love of All.",
       "context": "Winfried (Peter Simonischek) bringt Ines (Sandra Hüller) zu einer Osterfeier und drängt sie zu einem Auftritt. Sie singt das durch Whitney Houston bekannte Greatest Love of All. Der lange Moment zeigt eine Seite ihrer Person jenseits der Geschäftssprache; danach verlässt sie die Situation abrupt, statt die plötzlich entstandene Offenheit entspannt fortzusetzen.",
-      "anchor": "Der Whitney-Houston-Song öffnet kurz eine andere Ines.",
       "interest": "Der Whitney-Houston-Song öffnet kurz eine andere Ines.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Whitney-Houston-Song öffnet kurz eine andere Ines."
     },
     {
       "code": "S1",
@@ -138,12 +138,12 @@
       ],
       "short": "Ines empfängt die Gäste ohne Kleidung und verlangt dieselbe Regel.",
       "context": "Ines (Sandra Hüller) kämpft beim Anziehen mit ihrem Kleid und gibt schließlich die ganze Kleiderordnung auf. Die Gäste müssen sich entscheiden, ob sie gehen oder sich ausziehen. Der geplante berufliche Teambuilding-Brunch verliert so seine verlässlichen Formen; die auf Leistung und Kontrolle ausgerichtete Gastgeberin setzt selbst eine radikale neue Regel.",
-      "anchor": "Der Brunch verliert die Kleidung und damit seine eingeübte Förmlichkeit.",
       "interest": "Der Brunch verliert die Kleidung und damit seine eingeübte Förmlichkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Brunch verliert die Kleidung und damit seine eingeübte Förmlichkeit."
     },
     {
       "code": "S2",
@@ -162,12 +162,12 @@
       ],
       "short": "Im großen Kukeri-Kostüm wird Winfried von Ines im Park umarmt.",
       "context": "Winfried (Peter Simonischek) erscheint in einem bulgarischen Kukeri-Kostüm, das seinen Körper vollständig verdeckt. Ines (Sandra Hüller) folgt ihm nach draußen und umarmt die zottige Gestalt. Gerade weil das Gesicht und die gewöhnlichen familiären Rollen verborgen bleiben, gelingt eine direkte körperliche Nähe nach vielen konflikthaften Gesprächsversuchen.",
-      "anchor": "Das große Kostüm ermöglicht die kleine, direkte Nähe.",
       "interest": "Das große Kostüm ermöglicht die kleine, direkte Nähe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das große Kostüm ermöglicht die kleine, direkte Nähe."
     },
     {
       "code": "Y",
@@ -186,14 +186,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2016.",
       "context": "Toni Erdmann feierte 2016 in Cannes Premiere und kam im Juli in Deutschland ins Kino. Der Film wurde noch im selben Jahr bei den Europäischen Filmpreisen vielfach ausgezeichnet. Die Arbeitsszenen spielen hauptsächlich in Bukarest; Rumänien ist hier Handlungs- und Drehort, nicht automatisch ein weiteres Produktionsland.",
-      "anchor": "Toni Erdmann erschien 2016 und wurde noch 2016 bei den Europäischen Filmpreisen ausgezeichnet.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Toni Erdmann erschien 2016 und wurde noch 2016 bei den Europäischen Filmpreisen ausgezeichnet.",
       "sources": [
         "handlung",
         "efa"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Toni Erdmann erschien 2016 und wurde noch 2016 bei den Europäischen Filmpreisen ausgezeichnet."
     },
     {
       "code": "D",
@@ -212,7 +212,6 @@
       ],
       "short": "Der Regiecredit lautet Maren Ade.",
       "context": "Maren Ade schrieb und inszenierte Toni Erdmann. Peter Simonischek spielt Winfried und dessen erfundenes Alter Ego, Sandra Hüller seine Tochter Ines. Die Doppelbezeichnung meint keine zwei Schauspieler oder Personen: Winfried verschiebt durch eine selbst geschaffene Rolle die Regeln der Begegnung mit seiner Tochter.",
-      "anchor": "Maren Ade: Peter Simonischek spielt Winfried und dessen erfundenes Alter Ego, Sandra Hüller seine Tochter Ines.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "studio",
@@ -220,7 +219,8 @@
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Maren Ade: Peter Simonischek spielt Winfried und dessen erfundenes Alter Ego, Sandra Hüller seine Tochter Ines."
     }
   ]
 }

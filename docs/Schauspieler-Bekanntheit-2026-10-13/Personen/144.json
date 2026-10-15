@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Khan spielt den vernehmenden Polizeiinspektor.",
       "context": "Jamal muss erklären, wie er die Quizantworten wissen konnte. Das Verhör bildet den Rahmen, in dem sich seine Lebensgeschichte Stück für Stück entfaltet.",
-      "anchor": "Der Inspektor hört die Lebensgeschichte hinter den Antworten.",
       "interest": "Die Nebenrolle trägt wesentlich zur Erzählstruktur des Films bei.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Slumdog_Millionaire"
-      ]
+      ],
+      "objective": "Der Inspektor hört die Lebensgeschichte hinter den Antworten."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 2,
       "short": "Masrani ist Eigentümer von Jurassic World.",
       "context": "Der Unternehmer vertraut auf die Faszination einer neuen Attraktion. Als das künstlich geschaffene Raubtier entkommt, geraten wirtschaftliche Interessen und Sicherheitsversprechen in Konflikt.",
-      "anchor": "Masrani besitzt den Park, dessen Risiken er unterschätzt.",
       "interest": "Die Stellung erklärt seine Verantwortung in der Katastrophe.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Jurassic_World"
-      ]
+      ],
+      "objective": "Masrani besitzt den Park, dessen Risiken er unterschätzt."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 0,
       "short": "Khan verkörpert den erwachsenen Pi.",
       "context": "Suraj Sharma spielt den Jugendlichen auf dem Meer. Khans ruhige Erzählerfigur führt dagegen in die Erinnerung hinein und stellt die Deutung des Erzählten zur Diskussion.",
-      "anchor": "Sharma erlebt die Fahrt, Khan erzählt von ihr.",
       "interest": "Die Besetzung erklärt die zwei zeitlichen Ebenen der Hauptfigur.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Life_of_Pi_(film)"
-      ]
+      ],
+      "objective": "Sharma erlebt die Fahrt, Khan erzählt von ihr."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Saajan steht kurz vor seiner Pensionierung.",
       "context": "Der Abschied vom Arbeitsplatz verstärkt seine Einsamkeit. Die unerwarteten Nachrichten einer fremden Frau erreichen ihn deshalb in einer Phase, in der seine Zukunft bereits abgeschlossen scheint.",
-      "anchor": "Die Briefe treffen Saajan kurz vor dem Ruhestand.",
       "interest": "Die Lebensphase erklärt seine zurückgezogene Haltung und die Bedeutung der neuen Verbindung.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "knowledge_id": "K-F240-20261006-056-M1",
       "variant_of": "F240-20261006-056-M1",
-      "knowledge_note": "Dasselbe Wissensziel zum bevorstehenden Ruhestand, als Personenvariante formuliert."
+      "knowledge_note": "Dasselbe Wissensziel zum bevorstehenden Ruhestand, als Personenvariante formuliert.",
+      "objective": "Die Briefe treffen Saajan kurz vor dem Ruhestand."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 0,
       "short": "Der Sohn erhält den Namen des russischen Schriftstellers Nikolai Gogol.",
       "context": "Für Ashoke verbindet sich der Name mit einem überlebten Zugunglück. Sein amerikanisch aufgewachsener Sohn empfindet ihn zunächst als Last und versteht die persönliche Geschichte dahinter erst später.",
-      "anchor": "Ein ungeliebter Vorname bewahrt die Erinnerung des Vaters.",
       "interest": "Der literarische Bezug verbindet Migration, Familiengedächtnis und Identität.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Namesake_(film)"
-      ]
+      ],
+      "objective": "Ein ungeliebter Vorname bewahrt die Erinnerung des Vaters."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 3,
       "short": "Maqbool entspricht Macbeth.",
       "context": "Die Geschichte verlegt den Machtkampf in die Unterwelt von Mumbai. Khans Gefolgsmann ermordet seinen Förderer und wird danach von Schuld und Bedrohung verfolgt.",
-      "anchor": "Macbeths Ehrgeiz lebt in Mumbais Unterwelt weiter.",
       "interest": "Die Zuordnung macht die literarische Konstruktion hinter dem Gangsterdrama sichtbar.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Maqbool",
         "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/shubhra-gupta"
-      ]
+      ],
+      "objective": "Macbeths Ehrgeiz lebt in Mumbais Unterwelt weiter."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 2,
       "short": "Khan beteiligte sich an der Beschaffung des Budgets.",
       "context": "Ihn überzeugte die emotionale Welt des Projekts. Sein Engagement trug dazu bei, dass Ritesh Batras erster Langfilm realisiert werden konnte.",
-      "anchor": "Der Hauptdarsteller half auch, den Film möglich zu machen.",
       "interest": "Die Aufgabe zeigt den praktischen Einfluss eines etablierten Schauspielers auf ein Regiedebüt.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       "extraSources": [
         "https://www.sbs.com.au/whats-on/article/irrfan-khan-opens-up-about-the-lunchbox-love-letters-and-his-favourite-foods-interview/bntmbh8q0",
         "https://www.sonyclassics.com/downloads/TheLunchbox-Release.pdf"
-      ]
+      ],
+      "objective": "Der Hauptdarsteller half auch, den Film möglich zu machen."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 3,
       "short": "Saajan erhielt Züge von Khans Onkel, einem Büroangestellten.",
       "context": "Khan erinnerte sich an dessen frühen Aufbruch und den langen Arbeitsweg mit Bus und Bahn. Solche beobachteten Alltagsabläufe halfen ihm, die ältere Figur körperlich und innerlich zu entwickeln.",
-      "anchor": "Der Onkel auf dem Weg ins Büro wurde zu einem Vorbild für Saajan.",
       "interest": "Das konkrete Vorbild erklärt die Verbindung zwischen persönlicher Beobachtung und zurückhaltendem Spiel.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       ],
       "extraSources": [
         "https://www.sbs.com.au/whats-on/article/irrfan-khan-opens-up-about-the-lunchbox-love-letters-and-his-favourite-foods-interview/bntmbh8q0"
-      ]
+      ],
+      "objective": "Der Onkel auf dem Weg ins Büro wurde zu einem Vorbild für Saajan."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Waalkes’ Elefantenfiguren heißen Ottifanten.",
       "context": "Die Figuren gehören zu seinem zeichnerischen Werk und begleiteten früh auch seine Fernsehshows. Später setzte er sie in eigene Bearbeitungen bekannter Kunstwerke ein. Das wiedererkennbare Tier verbindet damit Bühne, Fernsehen, Buchillustration und Malerei innerhalb seines vielseitigen öffentlichen Werks.",
-      "anchor": "Der Ottifant verbindet Ottos Komik mit seiner Zeichnerei.",
       "interest": "Die bekannte Figur eröffnet einen Zugang zu seiner bildenden Kunst.",
       "feedback": [
         "",
@@ -30,7 +29,8 @@
       "extraSources": [
         "https://www.albertina.at/ausstellungen/otto-meets-albertina/",
         "https://www.filmportal.de/en/person/otto-waalkes_ef764d2dc6ef2394e03053d50b371c7c"
-      ]
+      ],
+      "objective": "Der Ottifant verbindet Ottos Komik mit seiner Zeichnerei."
     },
     {
       "code": "L2",
@@ -44,7 +44,6 @@
       "correct": 1,
       "short": "Otto lieh dem Schimpansen Ronny seine Stimme.",
       "context": "Die Videoshow verband Musikclips mit einem sprechenden Tier als Vermittler. Ottos Stimme übernahm dabei die komische Kommentierung, während sein eigener Körper nicht im Mittelpunkt des Bildes stand. Der Auftritt zeigt eine frühe Form seiner Arbeit als Sprecher neben den bekannten Bühnen- und Filmrollen.",
-      "anchor": "Ronny ist der Schimpanse mit Ottos Stimme.",
       "interest": "Ein weiterer Arbeitsbereich wird an einer konkreten Fernsehfigur verständlich.",
       "feedback": [
         "",
@@ -56,7 +55,8 @@
       "extraSources": [
         "https://www.ndr.de/kultur/film/Otto-Waalkes-ein-Komiker-und-Kult-Ostfriese%2Cwaalkes111.html",
         "https://www.filmportal.de/en/person/otto-waalkes_ef764d2dc6ef2394e03053d50b371c7c"
-      ]
+      ],
+      "objective": "Ronny ist der Schimpanse mit Ottos Stimme."
     },
     {
       "code": "M1",
@@ -70,7 +70,6 @@
       "correct": 2,
       "short": "Die komischen Zwischentexte wurden erfolgreicher als die ursprünglichen Musiknummern.",
       "context": "Otto trat zunächst als Musiker mit seiner Band und in kleinen Lokalen auf. Gerade die Scherze zwischen den Liedern kamen beim Publikum an. Daraus entwickelte sich ein Programm, das Parodien, Musik und Pointen verband. Der Wechsel zum Komiker wuchs aus einer bereits vorhandenen Auftrittspraxis.",
-      "anchor": "Aus Ottos musikalischen Pausen wurde das Hauptprogramm.",
       "interest": "Der Berufswechsel wird aus den Reaktionen auf seine ersten Programme erklärt.",
       "feedback": [
         "",
@@ -81,7 +80,8 @@
       "films": [],
       "extraSources": [
         "https://www.filmportal.de/en/person/otto-waalkes_ef764d2dc6ef2394e03053d50b371c7c"
-      ]
+      ],
+      "objective": "Aus Ottos musikalischen Pausen wurde das Hauptprogramm."
     },
     {
       "code": "M2",
@@ -95,7 +95,6 @@
       "correct": 3,
       "short": "Otto Waalkes und Xaver Schwarzenberger führten gemeinsam Regie.",
       "context": "Der erste Otto-Kinofilm übertrug eine bereits aus Bühne, Schallplatte und Fernsehen bekannte Komik auf eine längere Filmhandlung. Schwarzenberger führte nicht nur mit Regie, sondern übernahm auch die Kamera. Hinter dem zentralen Darsteller stand somit eine Zusammenarbeit mit einem erfahrenen visuellen Gestalter.",
-      "anchor": "Der erste Otto-Kinofilm verbindet Waalkes mit Schwarzenbergers Regie und Kamera.",
       "interest": "Die geteilte Gestaltung wird vom bloßen Starauftritt unterschieden.",
       "feedback": [
         "",
@@ -108,7 +107,8 @@
       ],
       "extraSources": [
         "https://www.filmportal.de/film/otto-der-film_c60bdf4f8fe94676ad579bbbc86f0344"
-      ]
+      ],
+      "objective": "Der erste Otto-Kinofilm verbindet Waalkes mit Schwarzenbergers Regie und Kamera."
     },
     {
       "code": "S1",
@@ -122,7 +122,6 @@
       "correct": 0,
       "short": "Das Autorentrio bestand aus Gernhardt, Eilert und Knorr.",
       "context": "Die drei Autoren kamen aus dem Umfeld der Satirezeitschriften Pardon und Titanic. Ihre Texte trugen zum Erfolg der Fernsehshows und Bücher bei. Filmportal führt sie auch beim Drehbuch des ersten Otto-Films. Das unverwechselbare Auftreten des Komikers entstand somit in einer längerfristigen Zusammenarbeit.",
-      "anchor": "Hinter Otto schrieben auch Gernhardt, Eilert und Knorr.",
       "interest": "Die Frage macht die Autorenarbeit hinter einer scheinbar allein getragenen Komik sichtbar.",
       "feedback": [
         "",
@@ -136,7 +135,8 @@
       "extraSources": [
         "https://www.filmportal.de/en/person/otto-waalkes_ef764d2dc6ef2394e03053d50b371c7c",
         "https://www.filmportal.de/film/otto-der-film_c60bdf4f8fe94676ad579bbbc86f0344"
-      ]
+      ],
+      "objective": "Hinter Otto schrieben auch Gernhardt, Eilert und Knorr."
     },
     {
       "code": "S2",
@@ -150,7 +150,6 @@
       "correct": 1,
       "short": "Die erfolglose Suche nach einer Plattenfirma führte zur eigenen Veröffentlichung.",
       "context": "Manager Hans Otto Mertens hatte eine Aufnahme zunächst erfolglos bei Plattenfirmen angeboten. Mit dem eigenen Unternehmen gelangte das Programm dennoch auf den Markt. Die erfolgreiche erste LP zeigt, wie ein Vertriebsproblem zu einem unternehmerischen Schritt führte; der Bühnenauftritt wurde dadurch auch zu Hause hörbar.",
-      "anchor": "Rüssl Räckords brachte Ottos Bühnenprogramm auf eigene Platte.",
       "interest": "Der Firmenname wird über eine konkrete Funktion verständlich.",
       "feedback": [
         "",
@@ -161,7 +160,8 @@
       "films": [],
       "extraSources": [
         "https://www.ndr.de/kultur/film/Otto-Waalkes-ein-Komiker-und-Kult-Ostfriese%2Cwaalkes111.html"
-      ]
+      ],
+      "objective": "Rüssl Räckords brachte Ottos Bühnenprogramm auf eigene Platte."
     },
     {
       "code": "E1",
@@ -175,7 +175,6 @@
       "correct": 2,
       "short": "Otto studierte Kunstpädagogik an der Hamburger Hochschule für bildende Künste.",
       "context": "Die bildende Kunst blieb neben der Bühnenarbeit ein eigener Teil seiner Laufbahn. Später setzte er Ottifanten in Bearbeitungen bekannter Kunstwerke ein. Die Albertina beschreibt diese Aneignungen als humorvolle Huldigung an die Vorbilder. Das Studium gehört damit zu einem beruflichen Weg, dessen zeichnerischer Anteil über bloßes Begleitmaterial zu den Shows hinausgeht.",
-      "anchor": "Ottos Kunststudium steht hinter einer eigenen Laufbahn als Zeichner und Maler.",
       "interest": "Die Ausbildung verbindet seine frühe Berufswahl mit der späteren eigenständigen Bildarbeit.",
       "feedback": [
         "",
@@ -187,7 +186,8 @@
       "extraSources": [
         "https://www.albertina.at/ausstellungen/otto-meets-albertina/",
         "https://www.ndr.de/kultur/film/Otto-Waalkes-ein-Komiker-und-Kult-Ostfriese%2Cwaalkes111.html"
-      ]
+      ],
+      "objective": "Ottos Kunststudium steht hinter einer eigenen Laufbahn als Zeichner und Maler."
     },
     {
       "code": "E2",
@@ -201,7 +201,6 @@
       "correct": 3,
       "short": "Waalkes war Darsteller, Mitautor und Produzent.",
       "context": "Die Märchenkomödie führt mehrere bekannte Komiker als Zwergengruppe zusammen. Waalkes spielte Bubi und arbeitete zugleich am Drehbuch und an der Produktion mit. Der Regiecredit gehört Sven Unterwaldt. Ein prominentes „von und mit Otto“ darf daher nicht dazu verleiten, alle Aufgaben hinter der Kamera derselben Person zuzuschreiben.",
-      "anchor": "Otto spielte und entwickelte „7 Zwerge“ mit; Unterwaldt inszenierte.",
       "interest": "Die Aufgabenverteilung erklärt seine Mitgestaltung ohne einen falschen Regiecredit.",
       "feedback": [
         "",
@@ -215,7 +214,8 @@
       "extraSources": [
         "https://www.filmportal.de/film/7-zwerge-maenner-allein-im-wald_ba36faab58164e1698f4a774f665aeb6",
         "https://www.filmportal.de/en/person/otto-waalkes_ef764d2dc6ef2394e03053d50b371c7c"
-      ]
+      ],
+      "objective": "Otto spielte und entwickelte „7 Zwerge“ mit; Unterwaldt inszenierte."
     }
   ]
 }

@@ -36,12 +36,12 @@
       ],
       "short": "Steve Judd (Joel McCrea) soll Gold von einem Bergbaulager in die Stadt bringen.",
       "context": "Steve Judd (Joel McCrea) soll Gold von einem Bergbaulager in die Stadt bringen. Der gealterte frühere Gesetzeshüter gewinnt damit eine Aufgabe zurück, in der er sich wieder als verlässlich beweisen kann.",
-      "anchor": "Der Goldtransport bietet Judd eine letzte Bewährung.",
       "interest": "Der Goldtransport bietet Judd eine letzte Bewährung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Goldtransport bietet Judd eine letzte Bewährung."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Elsa Knudsen (Mariette Hartley) will Billy Hammond im Bergbaulager heiraten.",
       "context": "Elsa Knudsen (Mariette Hartley) will Billy Hammond (James Drury) im Bergbaulager heiraten. Die Reise soll sie vom strengen Vater lösen, führt sie aber in eine neue gewaltsame Abhängigkeit.",
-      "anchor": "Die geplante Hochzeit verspricht Flucht und bringt neue Gefahr.",
       "interest": "Die geplante Hochzeit verspricht Flucht und bringt neue Gefahr.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die geplante Hochzeit verspricht Flucht und bringt neue Gefahr."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Gil Westrum (Randolph Scott) und Heck Longtree (Ron Starr) planen, das Gold zu nehmen.",
       "context": "Gil Westrum (Randolph Scott) und Heck Longtree (Ron Starr) planen, das Gold zu nehmen. Judds (Joel McCrea) Pflichtgefühl passt nicht zu ihrem Vorhaben und wird zum inneren Konflikt der Begleitung.",
-      "anchor": "Die größte Gefahr des Transports reist in der eigenen Gruppe.",
       "interest": "Die größte Gefahr des Transports reist in der eigenen Gruppe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die größte Gefahr des Transports reist in der eigenen Gruppe."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Billy Hammond und seine Brüder greifen Elsa (Mariette Hartley) nach der Trauung an.",
       "context": "Billy Hammond (James Drury) und seine Brüder greifen Elsa (Mariette Hartley) nach der Trauung an. Judd (Joel McCrea) und Heck (Ron Starr) holen sie heraus; die formale Ehe schützt sie nicht vor Gewalt.",
-      "anchor": "Die rechtliche Bindung bietet Elsa keinen Schutz vor den Männern.",
       "interest": "Die rechtliche Bindung bietet Elsa keinen Schutz vor den Männern.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die rechtliche Bindung bietet Elsa keinen Schutz vor den Männern."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Gil (Randolph Scott) nimmt dem Trauenden die Lizenz ab.",
       "context": "Gil (Randolph Scott) nimmt dem Trauenden die Lizenz ab. Dieser muss danach sagen, er habe keine; der wörtliche Trick lässt die Männer mit Elsa (Mariette Hartley) abreisen, obwohl die Ehe weiterhin gilt.",
-      "anchor": "Die entzogene Lizenz erzeugt eine vorläufig wirksame Worttäuschung.",
       "interest": "Die entzogene Lizenz erzeugt eine vorläufig wirksame Worttäuschung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die entzogene Lizenz erzeugt eine vorläufig wirksame Worttäuschung."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Gil (Randolph Scott) kehrt im letzten Kampf zu Judd (Joel McCrea) zurück.",
       "context": "Gil (Randolph Scott) kehrt im letzten Kampf zu Judd (Joel McCrea) zurück. Judd stirbt nach dem gemeinsamen Widerstand und vergibt ihm; die verspätete Treue stellt ihre alte Verbundenheit wieder her.",
-      "anchor": "Gils Rückkehr beantwortet Judds Ehre mit wiedergewonnener Treue.",
       "interest": "Gils Rückkehr beantwortet Judds Ehre mit wiedergewonnener Treue.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Gils Rückkehr beantwortet Judds Ehre mit wiedergewonnener Treue."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1962 erschien der Film.",
       "context": "1962 erschien der Film. Sieben Jahre später folgte 1969 Peckinpahs The Wild Bunch: Schon der frühere Western verbindet eine alternde Männergruppe mit dem Ende überkommener Vorstellungen von Ehre.",
-      "anchor": "Sacramento 1962, The Wild Bunch 1969: Sieben Jahre verbinden Peckinpahs alternde Männergruppen und ihre Ehrenfragen.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Sacramento 1962, The Wild Bunch 1969: Sieben Jahre verbinden Peckinpahs alternde Männergruppen und ihre Ehrenfragen."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Sam Peckinpah führte Regie.",
       "context": "Sam Peckinpah führte Regie. Zwei ältere Westernstars verkörpern gegensätzliche Antworten auf den Verlust ihrer früheren Stellung; die Goldbegleitung wird zum Test, ob Selbstachtung noch möglich ist.",
-      "anchor": "Sam Peckinpah führte Regie.",
       "interest": "Sam Peckinpah führte Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Sam Peckinpah führte Regie."
     }
   ]
 }

@@ -36,12 +36,12 @@
       ],
       "short": "Babe ist Geschichtsstudent und Läufer.",
       "context": "Babe ist Geschichtsstudent und Läufer. Er möchte die Erinnerung an seinen Vater rehabilitieren; über seinen Bruder gerät er zugleich in einen geheimen Konflikt, für den sein normaler Alltag ihn nicht vorbereitet hat.",
-      "anchor": "Der Student gerät aus seinem Alltag in einen Geheimkonflikt.",
       "interest": "Der Student gerät aus seinem Alltag in einen Geheimkonflikt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Student gerät aus seinem Alltag in einen Geheimkonflikt."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Szell benutzt seine zahnmedizinischen Kenntnisse zur Folter.",
       "context": "Szell benutzt seine zahnmedizinischen Kenntnisse zur Folter. Ein eigentlich heilender Beruf wird zum Instrument der Gewalt; die konkrete Bedrohung sitzt dadurch im verletzlichen Körper des völlig unvorbereiteten Babe (Dustin Hoffman).",
-      "anchor": "Die Heilfertigkeit wird zur Foltermethode.",
       "interest": "Die Heilfertigkeit wird zur Foltermethode.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Heilfertigkeit wird zur Foltermethode."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Doc arbeitet für eine verdeckte Regierungsorganisation und transportiert Diamanten.",
       "context": "Doc arbeitet für eine verdeckte Regierungsorganisation und transportiert Diamanten. Babe (Dustin Hoffman) hält ihn zunächst für einen Firmenangestellten; die falsche Berufsannahme verschleiert die Gefahr, die der Bruder in seine Wohnung trägt.",
-      "anchor": "Der gewöhnliche Berufsbericht verdeckt den geheimen Kurier.",
       "interest": "Der gewöhnliche Berufsbericht verdeckt den geheimen Kurier.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der gewöhnliche Berufsbericht verdeckt den geheimen Kurier."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Szell glaubt, der sterbende Doc (Roy Scheider) habe Babe Informationen gegeben.",
       "context": "Szell glaubt, der sterbende Doc (Roy Scheider) habe Babe Informationen gegeben. Tatsächlich kann Babe nichts erklären; die Folter beruht damit auf einer falschen Wissensannahme, die ihn gerade nicht zum nützlichen Beteiligten macht.",
-      "anchor": "Die vermutete Mitteilung macht den Unwissenden zum Opfer.",
       "interest": "Die vermutete Mitteilung macht den Unwissenden zum Opfer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die vermutete Mitteilung macht den Unwissenden zum Opfer."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Janeway (William Devane) gibt sich als rettender Kollege Docs aus, arbeitet aber als Doppelagent.",
       "context": "Janeway (William Devane) gibt sich als rettender Kollege Docs aus, arbeitet aber als Doppelagent. Die scheinbare Befreiung dient erneut dem Verhör; Babe kann nicht allein aus behördlich klingender Zugehörigkeit Vertrauen ableiten.",
-      "anchor": "Die erste Rettung ist Teil der weiteren Gefangenschaft.",
       "interest": "Die erste Rettung ist Teil der weiteren Gefangenschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die erste Rettung ist Teil der weiteren Gefangenschaft."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Babe (Dustin Hoffman) wirft den Diamantenkoffer Richtung Wasser.",
       "context": "Babe (Dustin Hoffman) wirft den Diamantenkoffer Richtung Wasser. Szell greift danach, stürzt und verletzt sich tödlich an seiner eigenen Klinge; seine Gier und sein verstecktes Gewaltmittel bestimmen gemeinsam den letzten Moment.",
-      "anchor": "Der Griff nach dem Schatz endet an der eigenen Waffe.",
       "interest": "Der Griff nach dem Schatz endet an der eigenen Waffe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Griff nach dem Schatz endet an der eigenen Waffe."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1976 erschien der Film, zwei Jahre nach William Goldmans Roman von 1974.",
       "context": "1976 erschien der Film, zwei Jahre nach William Goldmans Roman von 1974. Goldman adaptierte sein eigenes Buch. Im selben Veröffentlichungsjahr lief auch seine Drehbucharbeit „Die Unbestechlichen“ an; Dustin Hoffman spielte in beiden Filmen.",
-      "anchor": "Roman 1974, Film 1976: Zwei Jahre später steht Goldman im selben Filmjahr auch hinter Die Unbestechlichen mit Hoffman.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1974, Film 1976: Zwei Jahre später steht Goldman im selben Filmjahr auch hinter Die Unbestechlichen mit Hoffman."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "John Schlesinger inszenierte William Goldmans Adaption.",
       "context": "John Schlesinger inszenierte William Goldmans Adaption. Dustin Hoffman spielt den Studenten Babe, Laurence Olivier den ehemaligen KZ-Arzt Szell und Roy Scheider Babes Bruder. Die Regie verbindet körperliche Flucht mit einem politischen Verbrechen, dessen Ursprung lange vor Babes Alltag liegt.",
-      "anchor": "John Schlesinger inszenierte William Goldmans Adaption.",
       "interest": "John Schlesinger inszenierte William Goldmans Adaption.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "John Schlesinger inszenierte William Goldmans Adaption."
     }
   ]
 }

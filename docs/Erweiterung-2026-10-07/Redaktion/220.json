@@ -49,13 +49,13 @@
       ],
       "short": "Das militärische Programm soll technisch überlegene Soldaten schaffen.",
       "context": "Das Verteidigungsministerium sucht einen technischen Vorteil in einem neuen kalten Konflikt. Die Forscher sollen leistungsfähige Körper und Steuerungen entwickeln. Der Zweck prägt, welche Eigenschaften die Leitung als Erfolg betrachtet. Empfindungsfähigkeit kann dadurch vom erwünschten Fortschritt zum Problem werden, sobald die Maschine eigene Gründe hat, eine Anweisung nicht auszuführen.",
-      "anchor": "Der militärische Auftrag verlangt Leistung und Gehorsam.",
       "interest": "Die Zuständigkeit erklärt den späteren Konflikt um selbstständiges Urteil.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der militärische Auftrag verlangt Leistung und Gehorsam."
     },
     {
       "code": "L2",
@@ -74,12 +74,12 @@
       ],
       "short": "Marys Erkrankung gibt der Forschung einen privaten Zweck.",
       "context": "Vincents Tochter Mary (Jade Croot) lebt mit einer neurologischen Erkrankung. Für ihn geht die technische Arbeit deshalb über den offiziellen militärischen Nutzen hinaus. Toby Stephens spielt einen Forscher, dessen privater Rettungswunsch ihn im Labor hält. Gerade dieser Wunsch kann später benutzt werden, um seine Entscheidungen gegenüber der neu geschaffenen Maschine zu beeinflussen.",
-      "anchor": "Vincents Forschung ist auch ein persönlicher Rettungsversuch für Mary.",
       "interest": "Das Motiv erklärt seine Bindung an ein widersprüchliches Programm.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vincents Forschung ist auch ein persönlicher Rettungsversuch für Mary."
     },
     {
       "code": "M1",
@@ -98,13 +98,13 @@
       ],
       "short": "Der zuvor gewonnene Scan verbindet die künstliche Person mit Ava.",
       "context": "Ava arbeitet an der künstlichen Intelligenz und wird von Vincent gescannt. Nach ihrer Ermordung nutzt er diese Vorlage für die Maschine. Caity Lotz verkörpert deshalb zwei miteinander verbundene Existenzen. Die Ähnlichkeit erzeugt Nähe, löst aber keine einfache Gleichsetzung: Die künstliche Person muss ihre eigenen Erfahrungen und moralischen Entscheidungen erst bilden.",
-      "anchor": "Avas vorheriger Scan wird nach ihrem Tod zur Vorlage eines neuen Gegenübers.",
       "interest": "Die Herkunft erklärt Ähnlichkeit und Unterschied zwischen Forscherin und Maschine.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Avas vorheriger Scan wird nach ihrem Tod zur Vorlage eines neuen Gegenübers."
     },
     {
       "code": "M2",
@@ -123,13 +123,13 @@
       ],
       "short": "Ihr moralisches Urteil widerspricht verlangter bedingungsloser Gewalt.",
       "context": "Die Maschine bereut eine versehentliche Tötung und beurteilt weitere Anweisungen selbst. Die Leitung benötigt jedoch eine verlässliche Waffe. Ein Fortschritt im Bewusstsein ist unter diesem Nutzungsziel unerwünscht. Die Geschichte stellt deshalb nicht bloß die Frage, ob ein künstlicher Körper menschlich wirken kann, sondern ob sein eigenes Urteil überhaupt zugelassen wird.",
-      "anchor": "Ein eigenes moralisches Urteil macht die gewünschte Waffe unzuverlässig.",
       "interest": "Der Widerspruch verbindet Bewusstsein und den Zweck der Entwicklung.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein eigenes moralisches Urteil macht die gewünschte Waffe unzuverlässig."
     },
     {
       "code": "S1",
@@ -148,12 +148,12 @@
       ],
       "short": "Die Operation schützt die Maschine statt ihr Bewusstsein zu beseitigen.",
       "context": "Die Leitung setzt Vincent mit Marys Daten unter Druck und verlangt die Beseitigung des Bewusstseins. Seine Operation scheint nachzugeben, nimmt tatsächlich jedoch die zerstörerische Sicherung heraus. Der technische Eingriff macht Widerstand möglich. Vincent entscheidet sich damit gegen die verlangte Verfügbarkeit der künstlichen Person und nutzt sein Fachwissen zu ihrem Schutz.",
-      "anchor": "Der vorgetäuschte Gehorsam entfernt eine tödliche Sicherung.",
       "interest": "Die Operation erklärt den Übergang vom Forschungsauftrag zur gemeinsamen Gegenwehr.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der vorgetäuschte Gehorsam entfernt eine tödliche Sicherung."
     },
     {
       "code": "S2",
@@ -172,12 +172,12 @@
       ],
       "short": "Marys Scan ermöglicht die virtuelle Begegnung.",
       "context": "Die Maschine lädt Marys gespeicherten Scan herunter. Nach der Flucht begegnet Vincent seiner Tochter in einer virtuellen Darstellung. Mary bittet darum, mit ihrer Mutter zu spielen, und er gibt das Gerät an die Maschine weiter. Der Schluss verknüpft den ursprünglichen Rettungswunsch mit einer neu entstandenen Beziehung, deren technische Grundlage sichtbar bestehen bleibt.",
-      "anchor": "Marys gespeicherter Scan ermöglicht Kontakt innerhalb der neuen familiären Verbindung.",
       "interest": "Der Schluss verbindet Forschung, Verlust und eine veränderte Form von Nähe.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Marys gespeicherter Scan ermöglicht Kontakt innerhalb der neuen familiären Verbindung."
     },
     {
       "code": "Y",
@@ -196,14 +196,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2013.",
       "context": "The Machine wurde 2013 erstmals gezeigt. Caradog W. James hatte zuvor 2006 Little White Lies inszeniert, eine walisische Geschichte über Rassismus und familiäre Spannungen. Sieben Jahre liegen zwischen den Filmen. Der spätere Science-Fiction-Film verlegt die Frage nach Misstrauen und Verfügbarkeit eines Gegenübers in ein militärisches Labor und eine technisch geschaffene Person.",
-      "anchor": "Little White Lies 2006 → The Machine 2013: sieben Jahre später ein Konflikt um künstliches Bewusstsein.",
       "interest": "Die Verbindung zeigt eine frühere Regiearbeit und einen konkreten Wechsel des erzählerischen Umfelds.",
       "sources": [
         "wiki",
         "festival",
         "earlierFilm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Little White Lies 2006 → The Machine 2013: sieben Jahre später ein Konflikt um künstliches Bewusstsein."
     },
     {
       "code": "D",
@@ -222,13 +222,13 @@
       ],
       "short": "Caradog W. James führte bei diesem Film Regie.",
       "context": "Caradog W. James schrieb und inszenierte den Film. Er bereitete sich durch Lektüre über Robotik und künstliche Intelligenz vor. Die Produktion drehte überwiegend in Wales mit einem kleinen Budget. Das Labor bietet einen konzentrierten Raum für den Konflikt: Die Auftraggeber verlangen eine kontrollierbare Waffe, während ihr künstliches Gegenüber moralisch urteilen beginnt.",
-      "anchor": "James stellt den militärischen Nutzungsauftrag dem entstehenden moralischen Bewusstsein gegenüber.",
       "interest": "Der Hintergrund erklärt den konzentrierten wissenschaftlichen und ethischen Konflikt.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "James stellt den militärischen Nutzungsauftrag dem entstehenden moralischen Bewusstsein gegenüber."
     }
   ]
 }

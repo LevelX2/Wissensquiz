@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Die Familie betreibt einen Fisch-und-Chips-Imbiss.",
       "context": "Der aus Pakistan stammende Vater und seine englische Frau Ella leben mit ihren Kindern in Salford. Zwischen seiner Vorstellung von Familienpflicht und den Wünschen der Kinder entstehen heftige Konflikte.",
-      "anchor": "Georges Familie arbeitet im britischen Imbiss.",
       "interest": "Der Alltag des Geschäfts verankert die kulturellen Spannungen in einer konkreten Lebenswelt.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-great-films-about-south-asian-britain"
-      ]
+      ],
+      "objective": "Georges Familie arbeitet im britischen Imbiss."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Papa Kadam eröffnet das Restaurant Maison Mumbai.",
       "context": "Gegenüber liegt ein angesehenes französisches Restaurant. Aus der anfänglichen Konkurrenz entsteht eine Geschichte über Ehrgeiz, Geschmack und die Möglichkeit gegenseitigen Lernens.",
-      "anchor": "Maison Mumbai steht der französischen Spitzengastronomie gegenüber.",
       "interest": "Die Aufgabe des Vaters erklärt den Ausgangspunkt des kulinarischen Konflikts.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://amblin.com/movie/the-hundred-foot-journey/"
-      ]
+      ],
+      "objective": "Maison Mumbai steht der französischen Spitzengastronomie gegenüber."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Anant scheitert an einem System politisch geschützter Kriminalität.",
       "context": "Sein anfänglicher Idealismus trifft auf Vorgesetzte, die einflussreiche Täter schützen. Dabei verschärfen sich auch seine eigene Gewaltbereitschaft und sein Alkoholproblem.",
-      "anchor": "Der Ordnungshüter wird durch die Ordnung selbst beschädigt.",
       "interest": "Der Konflikt erklärt den Film als Untersuchung von Macht und persönlicher Verantwortung.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Ardh_Satya"
-      ]
+      ],
+      "objective": "Der Ordnungshüter wird durch die Ordnung selbst beschädigt."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 0,
       "short": "Lahanya Bhiku verweigert nahezu jedes Gespräch.",
       "context": "Der Mann aus einer unterdrückten Gemeinschaft steht wegen des Todes seiner Frau vor Gericht. Sein Schweigen ist Ausdruck einer Erfahrung von Gewalt und Aussichtslosigkeit, kein fehlendes sprachliches Vermögen.",
-      "anchor": "Das Schweigen zeigt die Grenzen des juristischen Gesprächs.",
       "interest": "Die Darstellung macht Unterdrückung durch zurückgehaltene Sprache erfahrbar.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Aakrosh_(1980_film)",
         "https://www.bfi.org.uk/sight-and-sound/news/om-puri-obituary-indias-face-world"
-      ]
+      ],
+      "objective": "Das Schweigen zeigt die Grenzen des juristischen Gesprächs."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 0,
       "short": "Farid wendet sich einem fundamentalistischen Islam zu.",
       "context": "Der säkular lebende Taxifahrer erkennt seinen Sohn immer weniger wieder. Beide reagieren auf gesellschaftliche Ausgrenzung, finden aber gegensätzliche Antworten darauf.",
-      "anchor": "Der Sohn lehnt den Lebensweg seines Vaters ab.",
       "interest": "Der Konflikt durchbricht die einfache Erwartung, die jüngere Generation sei immer stärker säkularisiert.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       "extraSources": [
         "https://bfidatadigipres.github.io/pdf/2023-04-30-my-son-the-fanatic.pdf",
         "https://mediacommons.org/imr/2017/05/17/om-puri-diaspora-and-radicalization-father-losing-his-son"
-      ]
+      ],
+      "objective": "Der Sohn lehnt den Lebensweg seines Vaters ab."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 2,
       "short": "Dukhi braucht die Festlegung eines günstigen Hochzeitstermins.",
       "context": "Der Priester verlangt dafür immer neue körperliche Arbeiten. Aus der Bitte des armen Dalit entsteht eine tödliche Ausbeutung, die religiöse Autorität und Kastenhierarchie miteinander verbindet.",
-      "anchor": "Eine Hochzeitsbitte führt in unbezahlte Schwerstarbeit.",
       "interest": "Der Anlass erklärt, weshalb Dukhi sich trotz Krankheit nicht einfach entziehen kann.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Sadgati"
-      ]
+      ],
+      "objective": "Eine Hochzeitsbitte führt in unbezahlte Schwerstarbeit."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 2,
       "short": "Er beschrieb im kommerziellen Hindi-Kino oft lange Pausen zwischen Drehblöcken.",
       "context": "Bei seinen westlichen Arbeiten erlebte er eher zusammenhängende Dreharbeiten. Die Unterbrechungen konnten dagegen die körperliche und spielerische Kontinuität einer Rolle erschweren.",
-      "anchor": "Lange Drehpausen verlangen, eine Figur immer wieder aufzunehmen.",
       "interest": "Der Erfahrungsbericht verbindet Produktionsorganisation mit einer konkreten schauspielerischen Herausforderung.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       "films": [],
       "extraSources": [
         "https://freshairarchive.org/segments/actor-om-puri-0"
-      ]
+      ],
+      "objective": "Lange Drehpausen verlangen, eine Figur immer wieder aufzunehmen."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 1,
       "short": "Die Stimme allein vermittelt den Zustand des betrunkenen Polizisten.",
       "context": "Shah erinnerte sich, die Figur auch ohne sichtbares Gesicht genau zu verstehen. Puri habe dafür keinen Alkohol getrunken; die Wirkung entstand durch seine Darstellung.",
-      "anchor": "Auch ohne Bild bleibt der Zustand der Figur hörbar.",
       "interest": "Die Erinnerung eines Kollegen zeigt die eigenständige Ausdruckskraft von Stimme und Sprechweise.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.bollywoodhungama.com/news/features/cant-believe-om-puri-gone-naseeruddin-shah/"
-      ]
+      ],
+      "objective": "Auch ohne Bild bleibt der Zustand der Figur hörbar."
     }
   ]
 }

@@ -33,12 +33,12 @@
       ],
       "short": "Dragon und Cowboy sind seit ihrer Kindheit befreundet.",
       "context": "Dragon (Jackie Chan) und Cowboy (Mars) verbringen ihre Zeit lieber mit Spielen und der Suche nach Abenteuer als mit den Erwartungen ihrer Väter. Miramax beschreibt sie als lebenslange Freunde, die auch um dieselbe junge Frau konkurrieren. Ihre Rivalität hebt die Freundschaft nicht auf. Als sie mit einem Schmugglerring zusammenstoßen, müssen sie sich gemeinsam gegen einen deutlich gefährlicheren Gegner behaupten.",
-      "anchor": "Freundschaft besteht vor Rivalität und Schmuggelkonflikt.",
       "interest": "Das leichte Ziel erschließt die zentrale Beziehung.",
       "sources": [
         "handlung",
         "studio"
-      ]
+      ],
+      "objective": "Freundschaft besteht vor Rivalität und Schmuggelkonflikt."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Der Schmugglerring will chinesische Antiquitäten ins Ausland verkaufen.",
       "context": "Dragon (Jackie Chan) und Cowboy (Mars) geraten in die Geschäfte einer Bande, die chinesische Antiquitäten an ausländische Käufer verkaufen will. Die Verleihbeschreibung von 88 Films hebt den Abtransport kultureller Gegenstände hervor. Dadurch wächst die Gefahr über eine persönliche Rivalität hinaus. Der Gegner verteidigt ein lukratives Geschäft und verfolgt auch Menschen aus den eigenen Reihen, die sich dagegen stellen.",
-      "anchor": "Gestohlene Antiquitäten machen aus einem Abenteuer einen Schmuggelkonflikt.",
       "interest": "Die Ware bestimmt den Einsatz der Handlung.",
       "sources": [
         "handlung",
         "studio",
         "fassung"
-      ]
+      ],
+      "objective": "Gestohlene Antiquitäten machen aus einem Abenteuer einen Schmuggelkonflikt."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Ein Liebesbrief an einem Flugdrachen führt Dragon zum Hauptquartier der Bande.",
       "context": "Dragon (Jackie Chan) will einen Liebesbrief mithilfe eines Flugdrachen zustellen. Der Drachen entgleitet ihm und landet auf dem Dach des Verstecks der Schmuggler. Beim Versuch, ihn zurückzuholen, entdeckt Dragon deren Vorhaben. Eine private Liebeswerbung löst damit die Begegnung mit dem Verbrechen aus. Die Entdeckung erfolgt zufällig, bevor er die Tragweite des geplanten Antiquitätendiebstahls vollständig überblicken kann.",
-      "anchor": "Der Liebesbrief nimmt einen Umweg zum Schmugglerversteck.",
       "interest": "Der konkrete Auslöser verbindet Komik und Kriminalhandlung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Liebesbrief nimmt einen Umweg zum Schmugglerversteck."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Hoi stellt sich gegen den Antiquitätenverkauf und soll zum Schweigen gebracht werden.",
       "context": "Hoi (Chan Wai-man) gehört zum Umfeld der Schmuggler, unterstützt den Verkauf chinesischer Antiquitäten jedoch nicht. Nach der Beschreibung von 88 Films schickt der Anführer deshalb Männer aus, um ihn zum Schweigen zu bringen. Dragon (Jackie Chan) und Cowboy (Mars) geraten auf seine Seite. Der Konflikt zeigt, dass die Bande nicht geschlossen hinter ihrem Geschäft steht und Widerstand auch von innen kommt.",
-      "anchor": "Widerspruch im Schmugglerring bringt Hoi in Gefahr.",
       "interest": "Die Motivation unterscheidet einen Abtrünnigen vom äußeren Gegner.",
       "sources": [
         "fassung"
-      ]
+      ],
+      "objective": "Widerspruch im Schmugglerring bringt Hoi in Gefahr."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Die Szene zeigt Jianzi, ein Spiel mit einem Federball.",
       "context": "88 Films führt für die Mannschaftsszene ausdrücklich eine Untertiteloption zum Jianzi- beziehungsweise Shuttlecock-Spiel auf. Sie erlaubt, die Beschriftungen zu reduzieren und dem Bewegungsablauf leichter zu folgen. Dragon (Jackie Chan) und Cowboy (Mars) stehen dabei im Mittelpunkt einer sportlichen Vorführung. Der Verleih behandelt die Szene als eigenständigen Bestandteil der Choreografie und nicht bloß als Übergang zur späteren Schmuggelhandlung.",
-      "anchor": "Der Federball verbindet Mannschaftsspiel und Bewegungsinszenierung.",
       "interest": "Das schwere Ziel erschließt eine konkrete sportliche Sequenz.",
       "sources": [
         "fassung"
-      ]
+      ],
+      "objective": "Der Federball verbindet Mannschaftsspiel und Bewegungsinszenierung."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "Der 96-minütige Hongkong-Schnitt ist laut 88 Films die endgültig genehmigte Fassung.",
       "context": "88 Films unterscheidet den 96-minütigen Hongkong-Schnitt von einer 103-minütigen früheren Arbeitsfassung. Die längere Version enthält zusätzliches beziehungsweise alternatives Material und kam in ausgewählten Gebieten heraus. Jackie Chans endgültige Freigabe schreibt der Verleih dem kürzeren Hongkong-Schnitt zu. Der Vergleich zeigt, warum eine längere Laufzeit allein kein verlässlicher Hinweis auf eine spätere Regiefassung oder einen bevorzugten Endschnitt ist.",
-      "anchor": "Länger bedeutet hier früherer Arbeitsstand, nicht endgültige Freigabe.",
       "interest": "Die belegte Fassungszuordnung vermeidet einen verbreiteten Fehlschluss.",
       "sources": [
         "fassung",
         "fassungsvarianten"
-      ]
+      ],
+      "objective": "Länger bedeutet hier früherer Arbeitsstand, nicht endgültige Freigabe."
     },
     {
       "code": "Y",
@@ -175,13 +175,13 @@
       ],
       "short": "Dragon Lord erschien 1982, zwei Jahre nach The Young Master von 1980.",
       "context": "The Young Master von 1980 und Dragon Lord von 1982 gehören zu Jackie Chans frühen Regiearbeiten. Zwischen beiden liegen zwei Jahre. Der zweite Film kombiniert Mannschaftsspiele und eine Schmuggelhandlung mit körperlicher Komik. Das Hong Kong Film Archive nennt The Young Master ausdrücklich als Werk von 1980; die Miramax-Filmseite weist Dragon Lord mit 1982 und Jackie Chan als Regisseur aus.",
-      "anchor": "The Young Master 1980 → Dragon Lord 1982: zwei Jahre.",
       "interest": "Zwei frühe Chan-Regiearbeiten bilden den zeitlichen Zusammenhang.",
       "sources": [
         "handlung",
         "studio",
         "archiv"
-      ]
+      ],
+      "objective": "The Young Master 1980 → Dragon Lord 1982: zwei Jahre."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Jackie Chan führte Regie und spielte Dragon.",
       "context": "Miramax weist Jackie Chan als Regisseur aus und nennt ihn zugleich unter den Hauptdarstellern. Der Film verbindet seine Rolle als Dragon mit der Gestaltung von Spielsequenzen, Verfolgungen und Kämpfen. Der Verleih 88 Films dokumentiert außerdem einen von Chan endgültig genehmigten Hongkong-Schnitt. Regiecredit, Hauptrolle und Schnittfreigabe sind unterschiedliche Aufgaben, die hier denselben Filmemacher betreffen.",
-      "anchor": "Jackie Chan verantwortet Hauptrolle und Hauptregie.",
       "interest": "Die Regiefrage wird durch die offizielle Studiofilmseite gesichert.",
       "sources": [
         "studio",
         "fassung"
-      ]
+      ],
+      "objective": "Jackie Chan verantwortet Hauptrolle und Hauptregie."
     }
   ]
 }

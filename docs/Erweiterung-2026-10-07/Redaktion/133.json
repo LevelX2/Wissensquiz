@@ -35,12 +35,12 @@
       ],
       "short": "Professor Dorr (Tom Hanks) gibt seine Bande als Ensemble für alte Musik aus.",
       "context": "Professor Dorr (Tom Hanks) gibt seine Bande als Ensemble für alte Musik aus. Marva Munson (Irma P. Hall) erlaubt deshalb Proben im Keller. Die kulturelle Erklärung verschafft den Männern einen geschützten Arbeitsraum. Dort entsteht kein Konzert, sondern der Zugang zu einer kriminellen Unternehmung.",
-      "anchor": "Die Musikprobe tarnt die Arbeit im Keller.",
       "interest": "Die gemeinsame Tarnung eröffnet den Raubplan.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Musikprobe tarnt die Arbeit im Keller."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Der Tunnel führt zum Tresor eines Flusscasinos.",
       "context": "Der Tunnel führt zum Tresor eines Flusscasinos. Professor Dorr (Tom Hanks) und seine Helfer nutzen den Keller als unauffälligen Ausgangspunkt. Damit wird die harmlose Vermietung zur räumlichen Voraussetzung des Raubes. Die Gastgeberin ahnt zunächst nicht, dass die Männer unter ihrem Haus eine Verbindung zur Geldquelle schaffen.",
-      "anchor": "Der Keller öffnet den Weg zum Flusscasino.",
       "interest": "Die räumliche Anlage erklärt die Tarnung des Vorhabens.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Keller öffnet den Weg zum Flusscasino."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Marva Munson (Irma P.",
       "context": "Marva Munson (Irma P. Hall) verlangt die Rückgabe des Geldes und den Kirchgang. Professor Dorrs (Tom Hanks) Argumente über Versicherung und geringe Schäden ändern ihren Maßstab nicht. Die Entdeckung verwandelt sie daher nicht in eine neue Geschäftspartnerin. Die Bande muss sich einer moralischen Forderung stellen, die sie nicht wegverhandeln kann.",
-      "anchor": "Marva lässt sich nicht mit Versicherungslogik kaufen.",
       "interest": "Die Forderung macht die ethische Gegenspielerin konkret.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Marva lässt sich nicht mit Versicherungslogik kaufen."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Die Bande lost aus, wer Marva Munson (Irma P.",
       "context": "Die Bande lost aus, wer Marva Munson (Irma P. Hall) töten soll. Der erfolgreiche Raub hat ihr Problem also nicht gelöst: Die Gastgeberin kann sie anzeigen. Aus der gemeinsamen Tat wird ein Streit um eine weitere, persönlich unangenehme Tat. Die Auslosung verhindert weder Skrupel noch den Zerfall der Gruppe.",
-      "anchor": "Der Raub gelingt; der Mordauftrag zerlegt die Bande.",
       "interest": "Ein Entscheidungsverfahren offenbart die innere Schwäche der Täter.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Raub gelingt; der Mordauftrag zerlegt die Bande."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Ein Müllschiff fährt unter der Brücke vorbei und nimmt die herabfallenden Toten auf.",
       "context": "Ein Müllschiff fährt unter der Brücke vorbei und nimmt die herabfallenden Toten auf. Die Coen-Fassung überträgt damit ein Motiv des britischen Films in die Flusslandschaft von Mississippi. Der wiederkehrende Weg der Leichen verbindet einzelne Todesfälle zu einer makabren räumlichen Folge.",
-      "anchor": "Der Zug des Vorbilds wird zum Müllschiff am Fluss.",
       "interest": "Eine Adaption verändert die Kulisse eines bekannten Erzählmotivs.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Zug des Vorbilds wird zum Müllschiff am Fluss."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Marva Munson (Irma P.",
       "context": "Marva Munson (Irma P. Hall) will das Geld der Bob Jones University geben. Die Polizei glaubt ihrer ungewöhnlichen Geschichte nicht und rät ihr, die Summe zu behalten. Die Bande verschwindet damit aus der Verfügung über die Beute. Der Schluss ordnet das Raubgeld wieder der moralischen Welt zu, die die Täter unterschätzt hatten.",
-      "anchor": "Die Beute endet bei Marvas Bildungs- und Glaubensziel.",
       "interest": "Das Ende beantwortet die Frage nach der Verfügung über die Beute.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Beute endet bei Marvas Bildungs- und Glaubensziel."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "US-Erstveröffentlichung am 26. März 2004; neue Coen-Fassung mit Tom Hanks und Irma P. Hall, gegenüber dem britischen Film von 1955 abgegrenzt.",
       "context": "2004 erschien die Coen-Neuverfilmung, neunundvierzig Jahre nach dem britischen „Ladykillers“ von 1955. Die Handlung wandert dabei nach Mississippi, und der geplante Raub betrifft ein Flusscasino. Der Zeitanker verbindet zwei eigenständige Filmfassungen desselben Ausgangsstoffs. Er erklärt zugleich, warum die Besetzung mit Tom Hanks für die Identifikation wichtig ist.",
-      "anchor": "Ladykillers 1955, Coen-Neufassung 2004: neunundvierzig Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ladykillers 1955, Coen-Neufassung 2004: neunundvierzig Jahre später."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Joel und Ethan Coen führten gemeinsam Regie.",
       "context": "Joel und Ethan Coen führten gemeinsam Regie. Barry Sonnenfeld war zunächst als Regisseur vorgesehen und blieb anschließend Produzent. Die beiden Brüder bearbeiteten William Roses Stoff für ein amerikanisches Südstaatenmilieu. Tom Hanks’ Professorenfigur nutzt Bildung als Tarnung, während die Gastgeberin von Irma P. Hall eine ganz andere moralische Ordnung verteidigt.",
-      "anchor": "Die Coens inszenieren; der zunächst vorgesehene Sonnenfeld produziert.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Die Coens inszenieren; der zunächst vorgesehene Sonnenfeld produziert."
     }
   ]
 }

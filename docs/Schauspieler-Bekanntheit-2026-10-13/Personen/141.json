@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Chatterjee spielt den erwachsenen Apu.",
       "context": "Mit dem letzten Teil begann seine Zusammenarbeit mit Ray. Der junge Mann versucht, vom Schreiben zu leben, und erlebt Liebe, Verlust und Vaterschaft.",
-      "anchor": "Apu erhält als Erwachsener Chatterjees Gesicht.",
       "interest": "Die Rolle verbindet sein Debüt mit einer der großen Entwicklungsgeschichten des Kinos.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/7184-the-world-of-soumitra-chatterjee"
-      ]
+      ],
+      "objective": "Apu erhält als Erwachsener Chatterjees Gesicht."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Feluda ist Privatdetektiv.",
       "context": "Er begleitet einen Jungen, dessen Erinnerungen an ein früheres Leben Schatzsucher anlocken. Die Reise nach Rajasthan wird damit zugleich Ermittlung und Abenteuer.",
-      "anchor": "Feluda ermittelt auf der Reise nach Rajasthan.",
       "interest": "Der Beruf führt in eine zweite bekannte Figurenwelt des Schauspielers.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Sonar_Kella"
-      ]
+      ],
+      "objective": "Feluda ermittelt auf der Reise nach Rajasthan."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Amal ist Bhupatis Cousin.",
       "context": "Der literarisch interessierte Gast bringt Bewegung in Charulatas einsamen Alltag. Ihre geistige Nähe wird zur Gefahr für das Vertrauen innerhalb der Familie.",
-      "anchor": "Der vertraute Cousin wird zum unerwarteten Rivalen.",
       "interest": "Die Familienbeziehung erklärt, weshalb Nähe und Vertrauensbruch so eng verbunden sind.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28447-charulata"
-      ]
+      ],
+      "objective": "Der vertraute Cousin wird zum unerwarteten Rivalen."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Die Geschichte spielt während der bengalischen Hungersnot von 1943.",
       "context": "Gangacharan lebt als brahmanischer Lehrer und Heiler im Dorf. Der zunehmende Hunger erschüttert die alltäglichen Beziehungen und seine bisher sichere gesellschaftliche Stellung.",
-      "anchor": "Der Hunger verändert Gangacharans Blick auf sein Dorf.",
       "interest": "Die historische Einordnung erschließt den Wandel der Hauptfigur.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Distant_Thunder_(1973_film)"
-      ]
+      ],
+      "objective": "Der Hunger verändert Gangacharans Blick auf sein Dorf."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 1,
       "short": "Sandip mobilisiert für den Swadeshi-Boykott.",
       "context": "Seine mitreißenden Reden beeindrucken Bimala. Zugleich trifft der politische Druck arme Händler, und sein Auftreten steht in Spannung zu den eigenen Interessen.",
-      "anchor": "Sandips Freiheitsrhetorik hat einen Preis für andere.",
       "interest": "Die Rolle macht den Unterschied zwischen politischem Ideal und persönlichem Machtstreben sichtbar.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       "extraSources": [
         "https://www.nfdcindia.com/catalogue/NFDC%20-%20Feature%20Films%20Catalogue%202024.pdf",
         "https://en.wikipedia.org/wiki/Ghare_Baire_(film)"
-      ]
+      ],
+      "objective": "Sandips Freiheitsrhetorik hat einen Preis für andere."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 2,
       "short": "Der Arzt weist eine Verunreinigung des Tempelwassers nach.",
       "context": "Seine Warnung bedroht Einnahmen und religiöse Gewissheiten. Die Gemeinde richtet sich deshalb gegen den Mann, der sie schützen will; Ray überträgt Ibsens Konflikt in eine indische Tempelstadt.",
-      "anchor": "Der medizinische Befund wird zum öffentlichen Ärgernis.",
       "interest": "Der konkrete Streit zeigt, wie Wissen an wirtschaftlichen und religiösen Interessen scheitern kann.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Ganashatru"
-      ]
+      ],
+      "objective": "Der medizinische Befund wird zum öffentlichen Ärgernis."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 2,
       "short": "Er übte die von Ray gewünschte Handschrift.",
       "context": "Sandip Ray erinnerte sich an die gezielte Vorbereitung für die geschriebenen Zeilen im Film. Auch kleine sichtbare Handlungen wurden so Teil der sorgfältigen Figurenarbeit.",
-      "anchor": "Amals Schrift wurde ebenso gestaltet wie sein Auftreten.",
       "interest": "Das Detail zeigt, wie Schauspiel auch Gegenstände und Bewegungen im Bild prägt.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://timesofindia.indiatimes.com/city/kolkata/soumitra-chatterjee-the-stalwart-with-an-aura-whom-i-was-scared-to-direct/amp_articleshow/79245043.cms"
-      ]
+      ],
+      "objective": "Amals Schrift wurde ebenso gestaltet wie sein Auftreten."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 0,
       "short": "Chatterjee erfand für Apu ein persönliches Tagebuch.",
       "context": "Darin ergänzte er Lebensmomente, die das Drehbuch nicht zeigte. Als Ray davon erfuhr, beteiligte er sich am Weiterdenken dieses Lebens außerhalb der Szenen.",
-      "anchor": "Das erfundene Tagebuch gab Apu ein Leben zwischen den Szenen.",
       "interest": "Die Methode erklärt, wie Schauspieler und Regisseur gemeinsam eine Figur über den Text hinaus entwickeln.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       ],
       "extraSources": [
         "https://timesofindia.indiatimes.com/city/kolkata/actors-relive-moments-spent-with-ray/articleshow/11430042.cms"
-      ]
+      ],
+      "objective": "Das erfundene Tagebuch gab Apu ein Leben zwischen den Szenen."
     }
   ]
 }

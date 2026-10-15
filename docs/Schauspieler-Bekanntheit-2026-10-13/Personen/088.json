@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Sarah soll den späteren Widerstandsanführer John Connor zur Welt bringen.",
       "context": "Sarah lebt zunächst als Kellnerin ohne Kenntnis des kommenden Maschinenkriegs. Der Terminator (Arnold Schwarzenegger) soll ihre spätere Mutterschaft verhindern; Kyle Reese (Michael Biehn) kommt, um sie zu schützen. Damit wird ein Zukunftskonflikt auf einen Menschen konzentriert, der seine zugeschriebene Bedeutung erst verstehen muss. Sarah überlebt nicht als bereits ausgebildete Kämpferin, sondern lernt unter dem Druck der Verfolgung.",
-      "anchor": "Sarahs zukünftiger Sohn macht ihr gegenwärtiges Leben zum Angriffsziel.",
       "interest": "Das Ziel der Maschine erklärt den Kern der Zeitreisehandlung.",
       "feedback": [
         "Sarah soll den späteren Widerstandsanführer John Connor zur Welt bringen.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Terminator"
-      ]
+      ],
+      "objective": "Sarahs zukünftiger Sohn macht ihr gegenwärtiges Leben zum Angriffsziel."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Rachel Wando ist Bürgermeisterin von Dante’s Peak.",
       "context": "Als der Vulkanologe Harry Dalton (Pierce Brosnan) Warnzeichen untersucht, begegnet er Rachel sowohl als Vertreterin der Stadt als auch als Mutter zweier Kinder. Ein möglicher Ausbruch betrifft den Tourismus und das Vertrauen der Bevölkerung. Während die wissenschaftlichen Einschätzungen zunächst auseinandergehen, wird aus der öffentlichen Entscheidung über Vorsorge eine unmittelbare Flucht- und Rettungsaufgabe für ihre Familie.",
-      "anchor": "Rachel trägt Verantwortung für die Stadt und ihre eigenen Kinder.",
       "interest": "Das Amt verbindet das Katastrophengeschehen mit einer persönlichen Entscheidungsperspektive.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Dante%27s_Peak"
-      ]
+      ],
+      "objective": "Rachel trägt Verantwortung für die Stadt und ihre eigenen Kinder."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Sarah befindet sich in der psychiatrischen Klinik Pescadero.",
       "context": "Sarah hat versucht, den bevorstehenden Maschinenkrieg zu verhindern, und gilt mit ihren Warnungen als wahnkrank. Ihr Sohn John (Edward Furlong) lebt bei Pflegeeltern und zweifelt ebenfalls an ihr. Als ein neuer Terminator ihn verfolgt, besteht John darauf, Sarah zu retten. Bei ihrer Flucht muss sie ausgerechnet einer Maschine vertrauen, die wie ihr früherer Verfolger aussieht.",
-      "anchor": "Sarahs Wissen um die Zukunft erscheint ihrer Umwelt als Wahn.",
       "interest": "Der Ausgangspunkt erklärt die Trennung von Mutter und Sohn sowie ihre schwierige Wiederannäherung.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/67074"
-      ]
+      ],
+      "objective": "Sarahs Wissen um die Zukunft erscheint ihrer Umwelt als Wahn."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Catherine verlässt die Kanzlei ihres Vaters und wechselt zur Staatsanwaltschaft.",
       "context": "Vincent (Ron Perlman) rettet Catherine nach einem brutalen Angriff und pflegt sie in einer verborgenen Gemeinschaft unter New York. Zurück an der Oberfläche richtet sie ihr Leben neu aus und verlässt die komfortable Arbeit in der väterlichen Kanzlei. Ihre Tätigkeit bei der Staatsanwaltschaft verbindet die Liebesgeschichte mit Kriminalfällen; Vincent spürt über ihre besondere Bindung, wenn Catherine in Gefahr ist.",
-      "anchor": "Die Begegnung mit Vincent geht mit einem Wechsel in den öffentlichen Justizdienst einher.",
       "interest": "Der Berufswechsel zeigt, wie die Märchenvorlage zu einer modernen Kriminalserie erweitert wird.",
       "feedback": [
         "",
@@ -110,7 +109,8 @@
       "films": [],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1987_TV_series)"
-      ]
+      ],
+      "objective": "Die Begegnung mit Vincent geht mit einem Wechsel in den öffentlichen Justizdienst einher."
     },
     {
       "code": "S1",
@@ -124,7 +124,6 @@
       "correct": 1,
       "short": "Sarah bringt es nicht über sich, Dyson zu töten; er wird anschließend zum Verbündeten.",
       "context": "Sarah hält den Entwickler Miles Dyson (Joe Morton) für den entscheidenden Ansatzpunkt, um Skynet zu verhindern. Sie greift ihn zu Hause an, vollendet den Mord aber nicht. John (Edward Furlong) und der T-800 (Arnold Schwarzenegger) klären Dyson über die Zukunft auf. Statt den unwissenden Forscher zu beseitigen, zerstört die Gruppe nun gemeinsam die Grundlagen seiner Arbeit bei Cyberdyne.",
-      "anchor": "Der vorgesehene Mord wird durch Aufklärung und gemeinsame Zerstörung der Forschung ersetzt.",
       "interest": "Die Wende erschließt Sarahs Konflikt zwischen dem Retten künftiger Opfer und eigener tödlicher Gewalt.",
       "feedback": [
         "",
@@ -137,7 +136,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
-      ]
+      ],
+      "objective": "Der vorgesehene Mord wird durch Aufklärung und gemeinsame Zerstörung der Forschung ersetzt."
     },
     {
       "code": "S2",
@@ -151,7 +151,6 @@
       "correct": 0,
       "short": "Vicky erkennt, dass das Maisfeld verbrannt werden muss.",
       "context": "In Gatlin haben Kinder im Namen einer grausamen Macht die Erwachsenen ermordet. Vicky und Burt (Peter Horton) geraten in den Kult, können aber die Kinder schließlich zum Fortlaufen bewegen. Als die übernatürliche Bedrohung bleibt, findet Vicky in Jobs Bibel den Hinweis auf Feuer. Burt entzündet das Feld; das Paar schützt die Kinder, anstatt sie zusammen mit dem Kult zu bekämpfen.",
-      "anchor": "Die Kinder werden gerettet, während das Feld als Ort der Bedrohung brennt.",
       "interest": "Die Lösung unterscheidet die verführten Kinder von der Macht, der sie gefolgt sind.",
       "feedback": [
         "Vicky erkennt, dass das Maisfeld verbrannt werden muss.",
@@ -164,7 +163,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Children_of_the_Corn_(1984_film)"
-      ]
+      ],
+      "objective": "Die Kinder werden gerettet, während das Feld als Ort der Bedrohung brennt."
     },
     {
       "code": "E1",
@@ -178,7 +178,6 @@
       "correct": 2,
       "short": "Hamiltons Zwillingsschwester Leslie spielte die vermeintliche Spiegelung in einem zweiten Set.",
       "context": "Die Einstellung führt von einem künstlichen Terminator-Kopf zu einem Rahmen ohne Spiegelglas. Hinter dem Rahmen sitzt Arnold Schwarzenegger selbst; Leslie Hamilton Gearren ahmt dort die Bewegungen ihrer Schwester nach, während Linda vor der Kopfattrappe arbeitet. Das zweite Set ist spiegelverkehrt eingerichtet. So verbindet die Szene mechanische Effekte mit zwei körperlich synchronisierten Darstellungen, obwohl sie wie ein einziger Blick in einen Spiegel wirkt.",
-      "anchor": "Ein leerer Spiegelrahmen, zwei Sets und die Zwillingsschwestern erzeugen die Spiegelillusion.",
       "interest": "Das Beispiel macht die Zusammenarbeit von Schauspiel und praktischer Effekttechnik sichtbar.",
       "feedback": [
         "",
@@ -192,7 +191,8 @@
       "extraSources": [
         "https://www.screenglobalproduction.com/news/2013/11/29/Five-Scenes-youll-never-believe-arent-CGI",
         "https://en.wikipedia.org/wiki/Special_effects_of_Terminator_2:_Judgment_Day"
-      ]
+      ],
+      "objective": "Ein leerer Spiegelrahmen, zwei Sets und die Zwillingsschwestern erzeugen die Spiegelillusion."
     },
     {
       "code": "E2",
@@ -206,7 +206,6 @@
       "correct": 2,
       "short": "Andere Waffentypen erforderten andere Haltungen, Bedienung und Schussbewegungen.",
       "context": "Hamilton beschrieb im Interview, wie die körperlich gespeicherten Bewegungen aus ihrer früheren Arbeit zunächst im Weg standen. Für die neuen Waffen musste sie vertraute Abläufe verlernen und andere einüben. Ein Ausbilder mit Erfahrung bei den Army Rangers trainierte intensiv mit ihr. Auf der Leinwand sollte der Umgang mit der schweren Ausrüstung schließlich beiläufig und selbstverständlich wirken.",
-      "anchor": "Erfahrung ersetzte die Vorbereitung nicht: Vertraute Handgriffe mussten neuen Waffen angepasst werden.",
       "interest": "Der Hintergrund zeigt Actionspiel als präzise erlernte körperliche Arbeit.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       ],
       "extraSources": [
         "https://www.fitforfun.de/news/so-hat-sich-linda-hamilton-fuer-terminator-dark-fate-fit-gemacht-390830.html"
-      ]
+      ],
+      "objective": "Erfahrung ersetzte die Vorbereitung nicht: Vertraute Handgriffe mussten neuen Waffen angepasst werden."
     }
   ]
 }

@@ -39,12 +39,12 @@
       ],
       "short": "Jon und Peter sind Dänen.",
       "context": "Jon (Mads Mikkelsen) lebt als dänischer Einwanderer im amerikanischen Westen. Die Herkunft verbindet seine neue Existenz mit einer früheren Erfahrung außerhalb Amerikas. Der Film beginnt daher mit dem Versuch eines Neubeginns, dessen familiäre Hoffnung sich erst nach Jahren der Trennung wieder erfüllen soll.",
-      "anchor": "Der dänische Einwanderer sucht im Westen einen neuen gemeinsamen Alltag.",
       "interest": "Erfasst die Ausgangslage des Siedlers.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der dänische Einwanderer sucht im Westen einen neuen gemeinsamen Alltag."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Jon erwartet seine nachreisende Familie.",
       "context": "Jon (Mads Mikkelsen) empfängt seine Frau Marie (Nanna Øland Fabricius) und den Sohn Kresten (Toke Lars Bjarke). Das Wiedersehen verspricht gemeinsamen Alltag nach langer Trennung. Gerade dieser hoffnungsvolle Anfang macht die nachfolgende Gewalt zu einer Zerstörung bereits greifbar gewordener Zukunft, nicht nur zu einem abstrakten Verlust.",
-      "anchor": "Die bedrohte Zukunft wird zuerst als glückliches Wiedersehen sichtbar.",
       "interest": "Erklärt die Funktion des Familienanfangs.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die bedrohte Zukunft wird zuerst als glückliches Wiedersehen sichtbar."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Einer der getöteten Familienmörder ist Delarues Bruder.",
       "context": "Jon (Mads Mikkelsen) tötet die Mörder seiner Familie. Einer von ihnen ist der Bruder Delarues (Jeffrey Dean Morgan). Die erste Vergeltung beendet deshalb die Gefahr nicht. Sie löst eine neue Verfolgung durch einen Mann aus, dessen Macht auch die übrige Gemeinschaft einschüchtert.",
-      "anchor": "Die erste Vergeltung trifft den Bruder eines Mächtigen und erzeugt eine neue Jagd.",
       "interest": "Erklärt die Eskalationskette nach dem anfänglichen Verlust.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die erste Vergeltung trifft den Bruder eines Mächtigen und erzeugt eine neue Jagd."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Peter zieht die Verfolger von Jon weg.",
       "context": "Peter (Mikael Persbrandt) verbirgt den geschwächten Jon (Mads Mikkelsen) und lenkt die Verfolger auf sich. Seine Hilfe gewinnt dem Bruder Zeit, kostet ihn aber das eigene Leben. Die Rettung beruht damit auf einer Trennung der Wege, bei der das Risiko bewusst auf den Helfenden übergeht.",
-      "anchor": "Peter rettet den Bruder, indem er die Gefahr auf seinen eigenen Weg zieht.",
       "interest": "Erklärt den Preis der brüderlichen Hilfe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Peter rettet den Bruder, indem er die Gefahr auf seinen eigenen Weg zieht."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Das Land ist wegen seiner Erdölvorkommen begehrt.",
       "context": "Delarue (Jeffrey Dean Morgan) arbeitet mit einer Ölgesellschaft zusammen. Die Einschüchterung der Bewohner dient damit auch dem Zugriff auf wirtschaftlich wertvollen Boden. Das Ende zeigt, dass der Tod einzelner Gewalttäter die größere Besitzbewegung nicht einfach beendet: Das Unternehmen kann vom geschaffenen Machtverhältnis weiter profitieren.",
-      "anchor": "Die Gewalt öffnet den Weg zu Land, dessen eigentlicher Wert im Erdöl liegt.",
       "interest": "Verbindet persönliche Bedrohung mit strukturellem Gewinn.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Gewalt öffnet den Weg zu Land, dessen eigentlicher Wert im Erdöl liegt."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Ihre Schüsse geben Jon die entscheidende Chance.",
       "context": "Madelaine (Eva Green) schießt auf Delarue (Jeffrey Dean Morgan), als er Jon (Mads Mikkelsen) töten will. Die zuvor misshandelte Frau gewinnt so eine entscheidende eigene Handlung. Ihre Hilfe verändert den Ausgang des Zweikampfs und ermöglicht ihr anschließend den gemeinsamen Aufbruch mit Jon.",
-      "anchor": "Die misshandelte Madelaine greift selbst ein und verändert den Ausgang des Kampfes.",
       "interest": "Erklärt ihre Handlungsmacht im Finale.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die misshandelte Madelaine greift selbst ein und verändert den Ausgang des Kampfes."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "2014 liegt vierzehn Jahre nach 2000.",
       "context": "The King Is Alive wurde 2000 in Cannes gezeigt. The Salvation folgte dort 2014, vierzehn Jahre später. Beide Arbeiten gehören zu Kristian Levrings Filmografie, greifen aber unterschiedliche Formen auf. Der Zeitanker verbindet den Western mit einer früheren, im Festivalarchiv ausgewiesenen Regiearbeit.",
-      "anchor": "2000 The King Is Alive, 2014 The Salvation: vierzehn Jahre zwischen den Cannes-Arbeiten.",
       "interest": "Verankert das Jahr in einem belegten früheren Film desselben Regisseurs.",
       "sources": [
         "regie",
         "cannes"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2000 The King Is Alive, 2014 The Salvation: vierzehn Jahre zwischen den Cannes-Arbeiten."
     },
     {
       "code": "D",
@@ -208,12 +208,12 @@
       ],
       "short": "Levring inszenierte den Western.",
       "context": "Kristian Levring führte Regie und schrieb gemeinsam mit Anders Thomas Jensen. Seine Laufbahn begann nach einer Ausbildung im Schnitt; später gehörte er zu den Mitbegründern von Dogme 95. Dieser Western zeigt eine weitere Genreentscheidung innerhalb einer Filmografie, die sich nicht auf eine einzige Produktionsform beschränkt.",
-      "anchor": "Levrings Western ergänzt eine Laufbahn mit Schnittausbildung und Dogme-95-Hintergrund.",
       "interest": "Verbindet den Credit mit dem individuellen beruflichen Weg.",
       "sources": [
         "regie"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Levrings Western ergänzt eine Laufbahn mit Schnittausbildung und Dogme-95-Hintergrund."
     }
   ]
 }

@@ -36,12 +36,12 @@
       ],
       "short": "Samuel ist Maggies Vater.",
       "context": "Maggie (Cate Blanchett) begegnet ihrem Vater Samuel (Tommy Lee Jones) nach langer Abwesenheit. Seine Rückkehr beseitigt die frühere Verletzung nicht. Die Geschichte stellt damit zwei verschiedene Aufgaben nebeneinander: Eine aktuelle Gefahr verlangt Zusammenarbeit, während die familiäre Nähe erst wieder verdient werden müsste.",
-      "anchor": "Die Rückkehr des Vaters stellt Nähe und Vertrauen vor unterschiedliche Aufgaben.",
       "interest": "Erfasst den familiären Grundkonflikt.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Rückkehr des Vaters stellt Nähe und Vertrauen vor unterschiedliche Aufgaben."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Lilly wird entführt.",
       "context": "Lilly (Evan Rachel Wood), die ältere Tochter von Maggie (Cate Blanchett), wird entführt. Die Gefahr verändert Maggies Alltag schlagartig und drängt den alten Streit mit ihrem Vater in den Hintergrund. Eine belastete Familie muss handlungsfähig werden, obwohl ihre inneren Verletzungen weiterbestehen.",
-      "anchor": "Die Entführung macht aus dem Familienkonflikt eine dringende gemeinsame Suche.",
       "interest": "Verbindet Anlass und verschobene Prioritäten.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Entführung macht aus dem Familienkonflikt eine dringende gemeinsame Suche."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Seine Erfahrungen machen ihn für die Suche wichtig.",
       "context": "Samuel (Tommy Lee Jones) hat lange außerhalb von Maggies (Cate Blanchett) Lebenswelt gelebt. Was seine Tochter als Trennung erfahren hat, liefert nun Kenntnisse für die Verfolgung. Ihre Entscheidung ist deshalb kein einfacher Ausdruck von Vergebung: Sie braucht eine Fähigkeit, deren Vorgeschichte sie zugleich verletzt.",
-      "anchor": "Die Erfahrung aus der Trennung wird zur Hilfe bei der Rettung.",
       "interest": "Erklärt die widersprüchliche Grundlage der Zusammenarbeit.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Erfahrung aus der Trennung wird zur Hilfe bei der Rettung."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Die Soldaten leisten die benötigte Rettungshilfe nicht.",
       "context": "Maggie (Cate Blanchett) begegnet Soldaten, deren Aufgaben ihre Suche nicht aufnehmen. Der Kontakt bringt daher keine zuverlässige institutionelle Hilfe. Die Familie muss selbst weiterziehen. Die Begegnung verschärft den Unterschied zwischen vorhandener bewaffneter Macht und dem konkreten Schutz, den eine entführte Person benötigt.",
-      "anchor": "Eine bewaffnete Institution ist noch keine Hilfe für die konkrete Rettung.",
       "interest": "Erklärt die erzwungene Eigeninitiative.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Eine bewaffnete Institution ist noch keine Hilfe für die konkrete Rettung."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Der schmale Zugang erleichtert die Verteidigung.",
       "context": "Maggie (Cate Blanchett) und Samuel (Tommy Lee Jones) suchen mit den Befreiten eine erhöhte Stellung. Der Zugang verengt die Möglichkeiten der Angreifer. Der Ort bietet Schutz durch seine Form, verlangt aber weiterhin Gegenwehr. Flucht und Verteidigung werden dadurch zwei aufeinanderfolgende Teile derselben Rettung.",
-      "anchor": "Der enge Aufstieg begrenzt den Angriff auf die erhöht liegende Gruppe.",
       "interest": "Erklärt die Funktion der Landschaft für das Finale.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der enge Aufstieg begrenzt den Angriff auf die erhöht liegende Gruppe."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Samuel reißt Chidin in den tödlichen Sturz.",
       "context": "Samuel (Tommy Lee Jones) stürzt mit Chidin (Eric Schweig) über die Kante. Seine Hilfe erhält damit einen endgültigen Preis. Die Rettung bringt nicht die Möglichkeit einer neuen gemeinsamen Alltagsbeziehung zurück. Sie verändert jedoch, was Maggie (Cate Blanchett) von der letzten Handlung ihres Vaters erfährt.",
-      "anchor": "Die Rettung ermöglicht keine gemeinsame Zukunft mehr, erhält aber eine letzte Tat.",
       "interest": "Verbindet das Opfer mit dem unvollendeten Familienverhältnis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rettung ermöglicht keine gemeinsame Zukunft mehr, erhält aber eine letzte Tat."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2003 liegt acht Jahre nach der Romanveröffentlichung.",
       "context": "Thomas Eidsons The Last Ride erschien 1995. Die Filmfassung folgte 2003, acht Jahre später. Der Abstand hilft, die Vorlage und ihre spätere Bearbeitung auseinanderzuhalten. Die Adaption trägt einen anderen Titel und verbindet den Western mit der Rettung einer entführten Tochter.",
-      "anchor": "1995 The Last Ride, 2003 The Missing: acht Jahre bis zur Filmadaption.",
       "interest": "Verankert das Jahr in der konkreten Vorlage.",
       "sources": [
         "handlung",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1995 The Last Ride, 2003 The Missing: acht Jahre bis zur Filmadaption."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Howard inszenierte den Film.",
       "context": "Ron Howard inszenierte den von Brian Grazer produzierten Film. Die Zusammenarbeit hatte zuvor auch A Beautiful Mind hervorgebracht. Hier muss die Regie eine gefährliche Verfolgung mit einer beschädigten Vater-Tochter-Beziehung verbinden: Die gemeinsame Handlung führt die Figuren zusammen, ohne ihre Vorgeschichte einfach zu beseitigen.",
-      "anchor": "Howard verbindet die äußere Suche mit der schwierigen Annäherung innerhalb der Familie.",
       "interest": "Ordnet die Regie dem konkreten dramatischen Problem zu.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Howard verbindet die äußere Suche mit der schwierigen Annäherung innerhalb der Familie."
     }
   ]
 }

@@ -34,12 +34,12 @@
       ],
       "short": "Die Blähgeräusche locken den Besucher an.",
       "context": "Die Blähgeräusche locken den Besucher an. Claude Ratinier (Louis de Funès) und Francis Chérasse (Jean Carmet) senden das Signal unabsichtlich. Der groteske Kontakt entsteht dadurch unmittelbar aus ihrem alltäglichen Essen und Trinken; er folgt keiner wissenschaftlichen Suche nach fremdem Leben.",
-      "anchor": "Ein unfreiwilliges Körpersignal führt zum Erstkontakt.",
       "interest": "Die Begegnung beginnt mit einem markanten komischen Auslöser.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein unfreiwilliges Körpersignal führt zum Erstkontakt."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Claude Ratinier (Louis de Funès) und Francis Chérasse (Jean Carmet) leben auf benachbarten ländlichen Anwesen.",
       "context": "Claude Ratinier (Louis de Funès) und Francis Chérasse (Jean Carmet) leben auf benachbarten ländlichen Anwesen. Ihr gemeinsamer Rhythmus steht der Modernisierung entgegen. Die ruhige räumliche Nähe erklärt, warum später nicht nur einzelne Menschen, sondern ihre ganze vertraute Umgebung auf dem Spiel steht.",
-      "anchor": "Zwei Nachbarn verteidigen ihre ländliche Lebenswelt.",
       "interest": "Der Schauplatz erklärt das gemeinsame Interesse der Freunde.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zwei Nachbarn verteidigen ihre ländliche Lebenswelt."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Der Besucher (Jacques Villeret) hat Französisch gelernt.",
       "context": "Der Besucher (Jacques Villeret) hat Französisch gelernt. Beim ersten Kontakt verständigt er sich noch mit Lauten und Gesten. Seine Rückkehr setzt also eine Annäherung fort: Aus bloßem Staunen über das Fremde wird ein Gespräch, in dem Wünsche und Angebote verständlich ausgetauscht werden können.",
-      "anchor": "Erst Laute und Gesten, später Französisch.",
       "interest": "Kommunikation verändert die Figurenbeziehung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Erst Laute und Gesten, später Französisch."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Die zurückgekehrte Francine (Christine Dejoux) ist wieder zwanzig Jahre alt.",
       "context": "Die zurückgekehrte Francine (Christine Dejoux) ist wieder zwanzig Jahre alt. Claude Ratinier (Louis de Funès) erhält damit keine unveränderte Wiederherstellung seines früheren Ehelebens. Die Frau hat eine eigene Zukunft vor sich und verlässt ihn. Der erfüllte Wunsch offenbart die Grenze eines rückwärtsgewandten Lebensentwurfs.",
-      "anchor": "Eine junge Rückkehrerin will ein neues Leben.",
       "interest": "Die Wunscherfüllung hat eine unerwartete persönliche Konsequenz.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine junge Rückkehrerin will ein neues Leben."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Ein Bauprojekt zerstört die Ruhe ihres Zuhauses.",
       "context": "Ein Bauprojekt zerstört die Ruhe ihres Zuhauses. Claude Ratinier (Louis de Funès) und Francis Chérasse (Jean Carmet) werden inmitten der neuen Umgebung zu belächelten Außenseitern. Der Weg ins All wird dadurch zur Möglichkeit, ihren vertrauten Lebensstil zu retten. Das fantastische Angebot beantwortet eine sehr irdische Verdrängung.",
-      "anchor": "Die Zukunft auf der Erde verdrängt ihren Alltag; Oxo bietet einen Ausweg.",
       "interest": "Die Schlussentscheidung folgt aus dem sozialen Konflikt.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Zukunft auf der Erde verdrängt ihren Alltag; Oxo bietet einen Ausweg."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Die Anwesen werden ebenfalls nach Oxo gebracht.",
       "context": "Die Anwesen werden ebenfalls nach Oxo gebracht. Claude Ratinier (Louis de Funès) und Francis Chérasse (Jean Carmet) verlassen damit die Erde, ohne ihren ganzen Lebensraum zurückzulassen. Der Schluss verwandelt die Flucht in eine räumliche Rettung: Die vertraute Umgebung kann jenseits der irdischen Modernisierung fortbestehen.",
-      "anchor": "Die Bewohner reisen mit ihrem Zuhause.",
       "interest": "Das Finale beantwortet auch den Konflikt um den Lebensraum.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Bewohner reisen mit ihrem Zuhause."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Französische Erstveröffentlichung am 2. Dezember 1981.",
       "context": "1981 wurde René Fallets Roman „La Soupe aux choux“ verfilmt; das Buch war erst 1980 erschienen. Zwischen Roman und Leinwandfassung liegt also nur ein Jahr. Louis de Funès verbindet darin ländliche Lebensart mit einem Besuch aus dem All. Die schnelle Folge von Buch und Film ist ein konkreter Anker für das Veröffentlichungsjahr der Komödie.",
-      "anchor": "Fallets Roman 1980, Kohlköpfe im Kino 1981: ein Jahr später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Fallets Roman 1980, Kohlköpfe im Kino 1981: ein Jahr später."
     },
     {
       "code": "D",
@@ -203,13 +203,13 @@
       ],
       "short": "Jean Girault inszenierte die Komödie; Louis de Funès und Jean Halain schrieben die Filmfassung nach René Fallets Roman.",
       "context": "Jean Girault inszenierte die Komödie; Louis de Funès und Jean Halain schrieben die Filmfassung nach René Fallets Roman. De Funès steht dadurch nicht nur als Hauptdarsteller vor der Kamera. Jacques Villeret spielt den außerirdischen Besucher, dessen Begegnung mit dem ländlichen Alltag den vertrauten Komödienstoff ins Fantastische verschiebt.",
-      "anchor": "Girault inszeniert, de Funès wirkt auch am Drehbuch mit.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Girault inszeniert, de Funès wirkt auch am Drehbuch mit."
     }
   ]
 }

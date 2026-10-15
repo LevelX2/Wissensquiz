@@ -31,12 +31,12 @@
       ],
       "short": "Die Freunde planen eine Wildwasserfahrt mit Kanus.",
       "context": "Lewis Medlock (Burt Reynolds) überredet die Freunde zum Flussabenteuer. Die Städter rechnen mit einer anspruchsvollen Freizeitfahrt, unterschätzen aber die Gefahren. Die Kanus verbinden alle Etappen: Sie eröffnen den Zugang zur Landschaft und werden später zum unsicheren Mittel, um aus ihr wieder herauszukommen.",
-      "anchor": "Der geplante Kanuausflug wird zum Kampf ums Überleben.",
       "interest": "Die Ausgangsaktivität erklärt die räumliche Situation des gesamten Films.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der geplante Kanuausflug wird zum Kampf ums Überleben."
     },
     {
       "code": "L2",
@@ -55,13 +55,13 @@
       ],
       "short": "Sie möchten den Fluss vor seinem Aufstauen erleben.",
       "context": "Lewis Medlock (Burt Reynolds) beklagt, dass der ungebändigte Fluss bald einem Stausee weichen soll. Der Ausflug soll eine Landschaft vor ihrer Veränderung festhalten. So steckt bereits im Beginn ein Verlustmotiv: Die Männer suchen Naturerfahrung, während Bauarbeiten die Gegend verändern und später auch die Spuren ihres Abenteuers verdecken können.",
-      "anchor": "Noch einmal den Fluss erleben, bevor der Stausee kommt.",
       "interest": "Der Anlass verknüpft Landschaftswandel mit der späteren Handlung.",
       "sources": [
         "afi",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Noch einmal den Fluss erleben, bevor der Stausee kommt."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Das musikalische Duell findet zwischen Gitarre und Banjo statt.",
       "context": "Drew Ballinger (Ronny Cox) antwortet mit seiner Gitarre auf das Banjo eines Jungen. Die Spieler übernehmen Motive und steigern das Tempo. Die kurze musikalische Verständigung steht neben der sonst spannungsreichen Begegnung von Städtern und Einheimischen. Der geläufige Stücktitel kann täuschen: Im Bild sind keine zwei Banjos zu sehen.",
-      "anchor": "„Dueling Banjos“: Im Film antwortet eine Gitarre dem Banjo.",
       "interest": "Ein vertrauter Musiktitel wird durch genaues Beobachten differenziert.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "„Dueling Banjos“: Im Film antwortet eine Gitarre dem Banjo."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Lewis bricht sich bei der Wildwasserfahrt schwer das Bein.",
       "context": "Lewis Medlock (Burt Reynolds) tritt zunächst als erfahrener Überlebenskünstler auf. Nach dem Unfall kann er kaum noch handeln. Ed Gentry (Jon Voight) muss Aufgaben übernehmen, denen er zuvor ausweicht. Die Verletzung verändert damit mehr als die Beweglichkeit eines Mannes: Sie verschiebt Verantwortung und Macht innerhalb der Gruppe.",
-      "anchor": "Der Beinbruch macht aus dem Anführer einen Schutzbedürftigen.",
       "interest": "Eine konkrete Verletzung erklärt den Wechsel der Gruppenrollen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Beinbruch macht aus dem Anführer einen Schutzbedürftigen."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Ob Drew erschossen wurde, bleibt im Film ungewiss.",
       "context": "Lewis Medlock (Burt Reynolds) hält einen Schuss für die Erklärung von Drews Sturz. Das Publikum erhält dafür aber keinen eindeutigen Beweis. Die Unsicherheit ist wichtig, weil die Männer weitere Gewalt mit der angenommenen Bedrohung begründen. Eine Figur kann etwas überzeugt behaupten, ohne dass der Film dieselbe Gewissheit liefert.",
-      "anchor": "Lewis’ Erklärung ist kein sicherer Beweis für Drews Tod.",
       "interest": "Die Frage unterscheidet Figurenwissen von dem, was der Film tatsächlich bestätigt.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Lewis’ Erklärung ist kein sicherer Beweis für Drews Tod."
     },
     {
       "code": "S2",
@@ -152,13 +152,13 @@
       ],
       "short": "James Dickey spielt den Sheriff, dem die Überlebenden ihre Geschichte erzählen.",
       "context": "James Dickey schrieb die Romanvorlage und deren Drehbuchbearbeitung. Als Sheriff Bullard erscheint er außerdem selbst im Film. Die Rolle sitzt an einer wichtigen Grenze der Geschichte: Nach den Ereignissen in der Wildnis müssen die Männer ihre Aussagen vor einer Autorität rechtfertigen. Der Autor begegnet damit seinen Figuren als Befrager.",
-      "anchor": "Der Autor der Geschichte spielt den Sheriff, der ihre Version befragt.",
       "interest": "Ein begründeter Autorenauftritt verbindet Produktion und Schlüsselsituation.",
       "sources": [
         "afi",
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Autor der Geschichte spielt den Sheriff, der ihre Version befragt."
     },
     {
       "code": "Y",
@@ -177,14 +177,14 @@
       ],
       "short": "Die Verfilmung erschien 1972, zwei Jahre nach dem Roman.",
       "context": "James Dickeys Roman erschien 1970; die Filmfassung folgte 1972. Der Abstand von zwei Jahren ist ein übersichtlicher Zeitanker. Im selben Filmjahr startete auch „Die Höllenfahrt der Poseidon“: Zwei sehr verschiedene Abenteuer verwandeln einen vermeintlich überschaubaren Ausflug in einen Überlebenskampf. Der Vergleich ist eine Merkhilfe, keine Produktionsursache.",
-      "anchor": "Roman 1970, Film 1972: zwei Jahre bis zur Verfilmung.",
       "interest": "Der belegte Abstand zur Vorlage hilft beim Erinnern des Filmjahres.",
       "sources": [
         "afi",
         "handlung",
         "poseidon"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Roman 1970, Film 1972: zwei Jahre bis zur Verfilmung."
     },
     {
       "code": "D",
@@ -203,13 +203,13 @@
       ],
       "short": "John Boorman führte Regie und produzierte den Film.",
       "context": "John Boorman inszenierte die Geschichte an realen Schauplätzen in Georgia und am Chattooga River. Im Film trägt der Fluss einen anderen Namen. Die reale Landschaft hilft, Anstrengung und räumliche Gefahr sichtbar zu machen; sie ersetzt aber nicht die erfundene Handlung. James Dickey bleibt der ausgewiesene Drehbuchautor.",
-      "anchor": "Boorman inszeniert im echten Flussgebiet; Dickey schreibt das Drehbuch.",
       "interest": "Der Regiecredit wird mit der konkreten Arbeit in der Landschaft verbunden.",
       "sources": [
         "afi",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Boorman inszeniert im echten Flussgebiet; Dickey schreibt das Drehbuch."
     }
   ]
 }

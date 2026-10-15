@@ -34,11 +34,11 @@
       ],
       "short": "Jerrys Stepptanzen stört ihren Schlaf; sie beschwert sich.",
       "context": "Jerry Travers (Fred Astaire) übt in seinem Londoner Hotelzimmer einen Steppauftritt. Eine Etage tiefer kann Dale Tremont (Ginger Rogers) wegen des Lärms nicht schlafen und geht hinauf, um sich zu beschweren. Jerry verliebt sich sofort in sie. Der erste Kontakt entsteht somit aus einer Störung, nicht aus einer verabredeten Vorstellung. Seine Freude am Tanzen wird zunächst zum Ärgernis für die Person, die er anschließend umwerben möchte.",
-      "anchor": "Lautes Stepptanzen bringt die Nachbarin zur Beschwerde.",
       "interest": "Erkennt den konkreten Anlass des ersten Kontakts.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Lautes Stepptanzen bringt die Nachbarin zur Beschwerde."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Sie hält Jerry für den Ehemann ihrer Freundin.",
       "context": "Dale Tremont (Ginger Rogers) hält Jerry Travers (Fred Astaire) für Horace Hardwick (Edward Everett Horton), den Ehemann ihrer Freundin Madge (Helen Broderick). Deshalb wirken seine romantischen Annäherungen auf sie wie der Verrat eines verheirateten Mannes. Jerry versteht ihre Abwehr nicht, weil er von der falschen Zuordnung nichts weiß. Die Komik entsteht aus zwei unterschiedlichen Erklärungen derselben Begegnungen, nicht aus einer offen ausgesprochenen Meinungsverschiedenheit.",
-      "anchor": "Dale hält den Werbenden für den Mann ihrer Freundin.",
       "interest": "Verankert den zentralen Irrtum ohne bloße Rollennamenprüfung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Dale hält den Werbenden für den Mann ihrer Freundin."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Dale führt Beddinis Kleider als Model vor.",
       "context": "Dale Tremont (Ginger Rogers) arbeitet für den Modedesigner Alberto Beddini (Erik Rhodes), dessen Kleider sie präsentiert. Beddini ist zugleich ein Rivale um ihre Zuneigung. Ihre Verbindung besteht daher bereits vor der späteren überstürzten Hochzeit aus einem beruflichen Verhältnis. Der Film bewegt seine beiden Hauptfiguren in einer wohlhabenden Gesellschaft, lässt sie aber selbst als arbeitende Menschen auftreten: Er ist Bühnenkünstler, sie verdient ihr Geld mit Modepräsentationen.",
-      "anchor": "Dales Verbindung zu Beddini beginnt als Arbeit für einen Modedesigner.",
       "interest": "Unterscheidet berufliche Bindung und spätere Heiratsentscheidung.",
       "sources": [
         "film",
         "loc"
-      ]
+      ],
+      "objective": "Dales Verbindung zu Beddini beginnt als Arbeit für einen Modedesigner."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Jerry folgt Dale nach Venedig.",
       "context": "Nach dem erfolgreichen Beginn seiner Londoner Show folgt Jerry Travers (Fred Astaire) Dale Tremont (Ginger Rogers) nach Venedig. Dort besucht sie Madge Hardwick (Helen Broderick), wodurch die Verwechslung mit deren Ehemann besonders verwickelt wird. Die Reise löst den Irrtum also nicht sofort auf. Hotelräume, gesellschaftliche Begegnungen und Gondeln verlagern den Konflikt in eine neue Umgebung, in der Jerry weiterhin wirbt, ohne Dales eigentlichen Verdacht zu kennen.",
-      "anchor": "Die Verwechslung setzt sich in Venedig fort.",
       "interest": "Erkennt den konkreten Ortswechsel innerhalb der Handlung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Verwechslung setzt sich in Venedig fort."
     },
     {
       "code": "S1",
@@ -127,12 +127,12 @@
       ],
       "short": "Bates ist als Geistlicher verkleidet und vollzieht keine gültige Trauung.",
       "context": "Dale Tremont (Ginger Rogers) stimmt aus Empörung über den vermeintlich verheirateten Jerry Travers (Fred Astaire) einer Hochzeit mit Alberto Beddini (Erik Rhodes) zu. Die Zeremonie leitet jedoch Bates (Eric Blore), ein Diener, der sich als Geistlicher verkleidet hat. Nachdem die Identitäten geklärt sind, erweist sich auch die Ehe als ungültig. Ein weiterer Rollenwechsel löst damit das Hindernis, das aus der ersten Verwechslung entstanden war.",
-      "anchor": "Die Trauung wird von einem verkleideten Diener vorgenommen.",
       "interest": "Erkennt die genaue Auflösung des vermeintlichen Ehehindernisses.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Trauung wird von einem verkleideten Diener vorgenommen."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "Die Federn lösten sich und störten die Aufnahme.",
       "context": "Ginger Rogers trug für Cheek to Cheek ein mit Federn besetztes Kleid. Nach Fred Astaires vom AFI wiedergegebenem Bericht lösten sich beim Tanzen so viele Federn, dass die Aufnahme wiederholt unterbrochen wurde. Erst als der Verlust nachließ, konnte die Nummer gefilmt werden. Das Kostüm unterstützt die schwebende Wirkung des Tanzes, stellte die Arbeit aber zugleich vor ein sehr konkretes materielles Problem, das aus seiner Bewegung entstand.",
-      "anchor": "Das Federnkleid verliert bei der Bewegung Teile seines Schmucks.",
       "interest": "Verbindet die Wirkung eines Kostüms mit seiner Produktionsschwierigkeit.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Das Federnkleid verliert bei der Bewegung Teile seines Schmucks."
     },
     {
       "code": "Y",
@@ -175,13 +175,13 @@
       ],
       "short": "Top Hat erschien 1935.",
       "context": "Ich tanz mich in dein Herz hinein wurde als Top Hat 1935 veröffentlicht. 1990 nahm die Library of Congress den Film in das National Film Registry auf, 55 Jahre später. Die Bibliothek nennt den Zeitpunkt ausdrücklich als zweites Jahr des Registers. Der lange Abstand verbindet die ursprüngliche Unterhaltung mit ihrer späteren institutionellen Bewahrung. Eine solche Auswahl ist ein neues Ereignis in der Rezeptionsgeschichte, aber keine erste Veröffentlichung des Films.",
-      "anchor": "1935 Film, 1990 Registry-Auswahl: 55 Jahre Abstand.",
       "interest": "Verbindet Erstjahr und spätere Bewahrung.",
       "sources": [
         "afi",
         "film",
         "loc"
-      ]
+      ],
+      "objective": "1935 Film, 1990 Registry-Auswahl: 55 Jahre Abstand."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Mark Sandrich inszenierte den Film.",
       "context": "Mark Sandrich führte Regie, während Irving Berlin die Lieder und Hermes Pan wesentliche Teile der Tanzgestaltung beitrugen. Das AFI führt diese Verantwortlichkeiten getrennt. Die Verfilmung verbindet eine Verwechslungskomödie mit Nummern, in denen Annäherung und Abwehr körperlich sichtbar werden. Die Zusammenarbeit erklärt, weshalb ein Musical mehrere prägende Gestalter hat, ohne dass alle denselben Regiecredit tragen. Hier bezeichnet die Hauptregie die Arbeit Sandrichs an der gesamten Produktion.",
-      "anchor": "Hauptregie Mark Sandrich; Lieder Irving Berlin.",
       "interest": "Ordnet die musikalische Zusammenarbeit dem korrekten Hauptcredit zu.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Hauptregie Mark Sandrich; Lieder Irving Berlin."
     }
   ]
 }

@@ -37,12 +37,12 @@
       ],
       "short": "Jared entdeckt Arthur Spiderwicks Handbuch.",
       "context": "Jared Grace (Freddie Highmore) fühlt sich nach dem Umzug zunächst unwohl. Ein verstecktes Buch macht das fremde Haus jedoch zum Zentrum einer Entdeckung. Es enthält Wissen über Wesen, die seine Familie anfangs nicht sieht. Der Fund bedeutet zugleich Gefahr: Das Wissen ist so wertvoll, dass ein Gegner es an sich bringen will.",
-      "anchor": "Ein verborgenes Handbuch macht das neue Haus zum Abenteuerort.",
       "interest": "Ein verborgenes Handbuch macht das neue Haus zum Abenteuerort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein verborgenes Handbuch macht das neue Haus zum Abenteuerort."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Freddie Highmore verkörpert Jared und Simon Grace.",
       "context": "Jared und Simon Grace sind Zwillinge, reagieren aber unterschiedlich auf ihr neues Umfeld. Freddie Highmore spielt beide Figuren. Die Doppelbesetzung macht aus zwei Jungen nicht dieselbe Person innerhalb der Handlung: Ihre getrennten Erfahrungen und Entscheidungen bleiben wichtig. Gerade die Gefangennahme eines Bruders verlangt, zu unterscheiden, wer etwas weiß und wer gerade in Gefahr ist.",
-      "anchor": "Ein Darsteller, zwei Brüder mit verschiedenen Erfahrungen.",
       "interest": "Ein Darsteller, zwei Brüder mit verschiedenen Erfahrungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Darsteller, zwei Brüder mit verschiedenen Erfahrungen."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der Stein mit einem Loch lässt Jared die verborgenen Wesen sehen.",
       "context": "Thimbletack, im Original von Martin Short gesprochen, hilft Jared Grace (Freddie Highmore) mit einem besonderen Stein. Die Welt ist damit schon vorhanden, bevor Jared sie wahrnehmen kann. Der Gegenstand verändert seinen Zugang zu ihr. Aus scheinbar unerklärlichen Vorgängen werden erkennbare Handlungen, doch andere Familienmitglieder teilen diese neue Sicht zunächst nicht.",
-      "anchor": "Nicht die Welt entsteht neu, sondern Jareds Blick auf sie.",
       "interest": "Nicht die Welt entsteht neu, sondern Jareds Blick auf sie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Nicht die Welt entsteht neu, sondern Jareds Blick auf sie."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Ein Pilzkreis schützt das Haus vor den Angreifern.",
       "context": "Der Schutzkreis macht das Haus zunächst zu einem Zufluchtsort. Jared und Simon Grace (Freddie Highmore) sowie Mallory (Sarah Bolger) können aber nicht jede Gefahr innerhalb dieser Grenze lösen. Als der Gegner Wissen aus dem Handbuch gewinnt, kann er den Schutz angreifen. Eine sichere Grenze bleibt damit abhängig davon, welches Wissen die andere Seite besitzt.",
-      "anchor": "Das Handbuch verrät auch, wie der Schutzkreis gefährdet werden kann.",
       "interest": "Das Handbuch verrät auch, wie der Schutzkreis gefährdet werden kann.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Handbuch verrät auch, wie der Schutzkreis gefährdet werden kann."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Mulgarath erscheint in der Gestalt des Vaters.",
       "context": "Jared Grace (Freddie Highmore) vermisst seinen Vater und möchte zunächst lieber bei ihm leben. Mulgarath nutzt gerade diese empfindliche Beziehung für seine Tarnung. Die Bedrohung erreicht die Familie daher nicht nur körperlich, sondern auch über Sehnsucht und Vertrauen. Jared muss sein Wunschbild prüfen und erkennen, dass vertrautes Aussehen keine verlässliche Identität garantiert.",
-      "anchor": "Der Gestaltwandler benutzt Jareds Sehnsucht nach dem Vater.",
       "interest": "Der Gestaltwandler benutzt Jareds Sehnsucht nach dem Vater.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Gestaltwandler benutzt Jareds Sehnsucht nach dem Vater."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die von den Sylphen angehaltene Alterung macht einen dauerhaften Rückweg unmöglich.",
       "context": "Arthur Spiderwick (David Strathairn) hat die lange vergangene Zeit im Reich der Sylphen nicht wie seine Tochter Lucinda erlebt. Ein dauerhafter Aufenthalt in der gewöhnlichen Welt würde seine reale Lebensspanne wieder wirksam machen. Die Wiederbegegnung ist deshalb bittersüß: Nähe wird möglich, doch die Jahre lassen sich nicht einfach als gewöhnliches Familienleben zurückholen.",
-      "anchor": "Die Sylphen bewahren Arthur, aber halten ihn von normaler Zeit fern.",
       "interest": "Die Sylphen bewahren Arthur, aber halten ihn von normaler Zeit fern.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Sylphen bewahren Arthur, aber halten ihn von normaler Zeit fern."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Kinofilm erschien 2008.",
       "context": "Die Bücher von Tony DiTerlizzi und Holly Black waren schon zuvor erschienen. Der Kinofilm verdichtet ihre magische Welt zu einem Abenteuer der Familie Grace. Das Filmjahr gehört in die Zeit großer Jugendfantasyverfilmungen der zweitausender Jahre. Die ältere Geschichte Arthur Spiderwicks innerhalb der Handlung ist davon zu unterscheiden; sie beschreibt eine andere Zeitstufe des Stoffes.",
-      "anchor": "Die Buchwelt der frühen 2000er kommt 2008 ins Kino.",
       "interest": "Die Buchwelt der frühen 2000er kommt 2008 ins Kino.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Buchwelt der frühen 2000er kommt 2008 ins Kino."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Mark Waters inszenierte die Familie Grace und ihre magische Umgebung.",
       "context": "Mark Waters verbindet das Familienproblem des Umzugs mit dem Abenteuer einer unsichtbaren Welt. Freddie Highmore muss zwei Brüder getrennt verkörpern, während viele Wesen durch Effekte und Originalstimmen entstehen. Die Inszenierung koordiniert damit menschliche Beziehungen, Doppelrolle und fantastische Bedrohung. Der Filmcredit Waters bezeichnet diese Gesamtaufgabe, nicht die Autorenschaft der vorausgehenden Bücher.",
-      "anchor": "Waters führt zwei Highmore-Brüder durch eine gemeinsame magische Welt.",
       "interest": "Waters führt zwei Highmore-Brüder durch eine gemeinsame magische Welt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Waters führt zwei Highmore-Brüder durch eine gemeinsame magische Welt."
     }
   ]
 }

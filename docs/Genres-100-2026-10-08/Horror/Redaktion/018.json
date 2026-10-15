@@ -35,13 +35,13 @@
       ],
       "short": "Christine arbeitet in der Kreditabteilung einer Bank.",
       "context": "Christine Brown (Alison Lohman) bearbeitet Kreditanträge und strebt eine Beförderung an. Der berufliche Wettbewerb bildet die Ausgangslage ihres Konflikts. Eine Entscheidung am Schreibtisch betrifft für die Antragstellerin jedoch den Verlust ihres Zuhauses. Der Film verbindet deshalb ein alltägliches Machtgefälle mit dem späteren übernatürlichen Schrecken: Die Hauptfigur hat zunächst institutionelle Entscheidungsmacht und verliert danach zunehmend die Kontrolle über ihr eigenes Leben.",
-      "anchor": "Die Kreditentscheidung verbindet Karriere und existenzielle Not.",
       "interest": "Der Horror beginnt in einer gewöhnlichen beruflichen Situation.",
       "sources": [
         "film",
         "studio",
         "press"
-      ]
+      ],
+      "objective": "Die Kreditentscheidung verbindet Karriere und existenzielle Not."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Die Bitte betrifft mehr Zeit zur Bedienung des Hauskredits.",
       "context": "Sylvia Ganush (Lorna Raver) bittet Christine Brown (Alison Lohman) um eine weitere Verlängerung ihres Hauskredits. Christine entscheidet sich gegen die Bitte, um ihrem Vorgesetzten Entschlusskraft zu zeigen. Die öffentliche Zurückweisung verstärkt den Konflikt zwischen beiden Frauen. Für die Bankangestellte ist es ein Karriereschritt, für die Antragstellerin eine Bedrohung ihres Zuhauses; diese gegensätzlichen Perspektiven begründen den folgenden persönlichen Angriff.",
-      "anchor": "Die abgelehnte Frist betrifft Ganushs Zuhause.",
       "interest": "Eine konkrete Bitte macht die Ausgangsentscheidung verständlich.",
       "sources": [
         "film",
         "press"
-      ]
+      ],
+      "objective": "Die abgelehnte Frist betrifft Ganushs Zuhause."
     },
     {
       "code": "M1",
@@ -84,11 +84,11 @@
       ],
       "short": "Der Fluch wird an einen Mantelknopf gebunden.",
       "context": "Beim Angriff im Parkhaus reißt Sylvia Ganush (Lorna Raver) einen Knopf von Christine Browns (Alison Lohman) Mantel ab. Sie legt den Fluch darauf und gibt ihn zurück. Dadurch erhält die Bedrohung einen unscheinbaren materiellen Träger. Später kann die Hauptfigur versuchen, diesen Gegenstand weiterzugeben. Der kleine Kleidungsbestandteil verbindet so den körperlichen Angriff mit einer Regel, die für die weiteren Rettungsversuche entscheidend wird.",
-      "anchor": "Ein abgerissener Mantelknopf trägt die Bedrohung weiter.",
       "interest": "Ein gewöhnlicher Gegenstand strukturiert die Fluchhandlung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein abgerissener Mantelknopf trägt die Bedrohung weiter."
     },
     {
       "code": "M2",
@@ -107,11 +107,11 @@
       ],
       "short": "Die Ziege soll den Dämon aufnehmen.",
       "context": "Shaun San Dena (Adriana Barraza) versucht bei einer Séance, die Lamia in eine Ziege zu bannen. Das Tier soll anschließend getötet werden, um die Bedrohung zu zerstören. Die Sitzung gerät jedoch außer Kontrolle und der Geist wechselt seine Erscheinungsformen. Christine Brown (Alison Lohman) erlebt dadurch, dass selbst die erfahrene Helferin keine einfache Sicherheit versprechen kann; der vorbereitete Plan und sein tatsächlicher Verlauf fallen auseinander.",
-      "anchor": "Die Ziege ist das geplante Gefäß des Bannversuchs.",
       "interest": "Der misslingende Plan verbindet Ritual und unkontrollierbaren Verlauf.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Ziege ist das geplante Gefäß des Bannversuchs."
     },
     {
       "code": "S1",
@@ -130,11 +130,11 @@
       ],
       "short": "Christine gibt ihren geplanten Fluchtransfer aus Mitleid auf.",
       "context": "Christine Brown (Alison Lohman) will den verfluchten Gegenstand zunächst an ihren intrigierenden Kollegen Stu Rubin (Reggie Lee) weitergeben. Beim Treffen fleht er jedoch um Nachsicht, und sie verschont ihn. Die Szene zeigt eine Entscheidung unter äußerstem Eigendruck: Eine Gelegenheit zur Rettung bedeutet zugleich, einen anderen Menschen bewusst zu opfern. Ihr Verzicht führt zur Suche nach einem weiteren Empfänger und ist keine Bestätigung ihrer eigenen Rettung.",
-      "anchor": "Mitleid stoppt den geplanten Transfer an den Kollegen.",
       "interest": "Die Rettungssuche wird zur moralischen Entscheidung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Mitleid stoppt den geplanten Transfer an den Kollegen."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Der falsche Umschlag lässt den Fluch bei Christine.",
       "context": "Christine Brown (Alison Lohman) glaubt, den verfluchten Knopf im Grab abgelegt zu haben. Am Bahnhof zeigt Clay Dalton (Justin Long) ihr jedoch den noch vorhandenen Knopfumschlag. Sie hatte stattdessen den ähnlichen Umschlag mit einer seltenen Münze ins Grab gegeben. Diese Verwechslung erklärt, weshalb die scheinbar abgeschlossene Rettung scheitert: Die richtige Handlungsidee hilft nicht, wenn der tatsächliche Fluchträger nie den vorgesehenen Empfänger erreicht.",
-      "anchor": "Münze und Knopf liegen in ähnlichen, vertauschten Umschlägen.",
       "interest": "Die Auflösung verbindet ein kleines Requisit mit dem Ausgang.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Münze und Knopf liegen in ähnlichen, vertauschten Umschlägen."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Raimis Horrorfilm erschien 2009.",
       "context": "Drag Me to Hell erschien 2009. Justin Long hatte bereits 2007 in Stirb langsam 4.0 mitgewirkt, zwei Jahre zuvor; das Presseheft nennt diese frühere Zusammenarbeit mit Bruce Willis ausdrücklich. Hier spielt er dagegen den Partner einer bedrohten Bankangestellten. Der Abstand verbindet zwei unterschiedliche Filmrollen desselben Darstellers und hilft, den eigenständigen Horrorfilm zeitlich von seinem vorherigen großen Actionauftritt zu unterscheiden.",
-      "anchor": "Stirb langsam 4.0: 2007; Drag Me to Hell: 2009, zwei Jahre später.",
       "interest": "Eine belegte frühere Rolle dient als Zeitanker.",
       "sources": [
         "studio",
         "press"
-      ]
+      ],
+      "objective": "Stirb langsam 4.0: 2007; Drag Me to Hell: 2009, zwei Jahre später."
     },
     {
       "code": "D",
@@ -201,13 +201,13 @@
       ],
       "short": "Sam Raimi kehrt hier zum Horror zurück.",
       "context": "Sam Raimi führt Hauptregie und schreibt das Drehbuch gemeinsam mit seinem Bruder Ivan Raimi. Die Universal-Seite ordnet den Film ausdrücklich seiner Rückkehr zum Horror nach den Spider-Man-Arbeiten zu. Der Film verbindet Bedrohung, körperlich groteske Situationen und schwarzen Humor. Die Zusammenarbeit am Drehbuch begründet keinen gemeinsamen Regiecredit; auch die langjährige Produktionsbeteiligung Robert Taperts ist von Raimis Inszenierung zu unterscheiden.",
-      "anchor": "Raimi verbindet seine Horrorerfahrung mit einer neuen Fluchgeschichte.",
       "interest": "Credits unterscheiden Inszenierung, Mitautorschaft und Produktion.",
       "sources": [
         "studio",
         "afi",
         "press"
-      ]
+      ],
+      "objective": "Raimi verbindet seine Horrorerfahrung mit einer neuen Fluchgeschichte."
     }
   ]
 }

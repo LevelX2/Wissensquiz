@@ -30,11 +30,11 @@
       ],
       "short": "Turner ist ein literarischer Analyst der CIA.",
       "context": "Joe Turner (Robert Redford) arbeitet in einer Einrichtung, die nach außen wie eine literarische Gesellschaft wirkt. Tatsächlich werden dort für die CIA veröffentlichte Texte ausgewertet. Turner sucht mögliche Ideen und Hinweise, die für den Dienst wichtig sein könnten. Er ist damit ein Analyst, dessen gewohnte Arbeit am Schreibtisch stattfindet, bevor ihn ein Angriff in eine unmittelbare Überlebenskrise zwingt.",
-      "anchor": "Turner ist ein literarischer Analyst der CIA.",
       "interest": "Erklärt den ungewöhnlichen Beruf des späteren Verfolgten.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Turner ist ein literarischer Analyst der CIA."
     },
     {
       "code": "L2",
@@ -53,11 +53,11 @@
       ],
       "short": "Turners Gang zum Mittagessen rettet ihm das Leben.",
       "context": "Turner (Robert Redford) verlässt das Büro, um Essen für seine Kollegen zu holen. Bei seiner Rückkehr findet er die Mitarbeiter ermordet vor. Seine alltägliche Abwesenheit hat ihn zufällig gerettet und macht ihn zum einzigen verfügbaren Zeugen aus der Arbeitsgruppe. Ohne vorbereitete Flucht und ohne Kenntnis des Hintergrunds muss er nun entscheiden, wem er innerhalb seiner eigenen Organisation noch vertrauen kann.",
-      "anchor": "Turners Gang zum Mittagessen rettet ihm das Leben.",
       "interest": "Verbindet den alltäglichen Zufall mit dem Beginn der Verfolgung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Turners Gang zum Mittagessen rettet ihm das Leben."
     },
     {
       "code": "M1",
@@ -76,11 +76,11 @@
       ],
       "short": "Die vereinbarte Abholung ist eine Falle gegen Turner.",
       "context": "Turner (Robert Redford) meldet die Toten und folgt den Anweisungen des Dienstes. Um der Abholung vertrauen zu können, verlangt er die Anwesenheit seines Bekannten Sam Barber (Walter McGinn). Doch auch das vereinbarte Treffen wird zum Angriff; Barber kommt dabei ums Leben. Die vertraute Person schützt Turner nicht. Sein Versuch, Sicherheit über die Organisation herzustellen, vergrößert vielmehr seine Gefahr.",
-      "anchor": "Die vereinbarte Abholung ist eine Falle gegen Turner.",
       "interest": "Zeigt den Zusammenbruch einer vermeintlich verlässlichen Vertrauenskette.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die vereinbarte Abholung ist eine Falle gegen Turner."
     },
     {
       "code": "M2",
@@ -99,11 +99,11 @@
       ],
       "short": "Turner verfolgt als Telefontechniker Jouberts Anruf zu Atwood.",
       "context": "Ein Hotelschlüssel des getöteten Angreifers bringt Turner (Robert Redford) zu Jouberts (Max von Sydow) Unterkunft. Dort nutzt er die Tarnung als Telefontechniker, um einen Anruf über die Telefonanlage zu verfolgen. So findet er Leonard Atwood (Addison Powell), den CIA-Verantwortlichen hinter der Operation. Erst das Zusammenspiel von Fundstück und technischer Nachforschung führt ihn vom einzelnen Täter zum Auftraggeber.",
-      "anchor": "Turner verfolgt als Telefontechniker Jouberts Anruf zu Atwood.",
       "interest": "Verbindet improvisierte Ermittlungsarbeit mit einem konkreten Fortschritt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Turner verfolgt als Telefontechniker Jouberts Anruf zu Atwood."
     },
     {
       "code": "S1",
@@ -122,11 +122,11 @@
       ],
       "short": "Ein neuer Auftrag macht Atwood statt Turner zu Jouberts Ziel.",
       "context": "Joubert (Max von Sydow) arbeitet als Auftragsmörder. Gegen Ende tötet er Atwood (Addison Powell), den Verantwortlichen hinter der Operation, anstatt Turner (Robert Redford) zu erschießen. Ein neuer Auftrag hat die Seiten neu geordnet. Turners Überleben beruht dadurch nicht auf einer moralischen Bekehrung des Killers. Die geschäftliche Logik derselben Gewalt, die ihn bedrohte, wirkt nun vorübergehend zu seinen Gunsten.",
-      "anchor": "Ein neuer Auftrag macht Atwood statt Turner zu Jouberts Ziel.",
       "interest": "Erklärt den pragmatischen Seitenwechsel des Killers.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein neuer Auftrag macht Atwood statt Turner zu Jouberts Ziel."
     },
     {
       "code": "S2",
@@ -145,11 +145,11 @@
       ],
       "short": "Der Film bestätigt die Veröffentlichung durch die New York Times nicht.",
       "context": "Turner (Robert Redford) erklärt Higgins (Cliff Robertson), dass er seine Erkenntnisse der New York Times gegeben hat. Er verbindet Öffentlichkeit mit Schutz vor weiteren Angriffen. Higgins stellt jedoch infrage, ob die Geschichte überhaupt gedruckt wird. Der Film endet damit vor einer gesicherten Veröffentlichung. Die Übergabe an eine Redaktion ist ein Versuch, Macht zu begrenzen, aber noch kein bestätigter Sieg über die Organisation.",
-      "anchor": "Der Film bestätigt die Veröffentlichung durch die New York Times nicht.",
       "interest": "Verhindert die falsche Erinnerung an eine vollständig gesicherte Aufklärung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Film bestätigt die Veröffentlichung durch die New York Times nicht."
     },
     {
       "code": "Y",
@@ -168,12 +168,12 @@
       ],
       "short": "1974 sechs Tage im Romantitel, 1975 drei Tage im Film: ein Jahr Abstand.",
       "context": "James Gradys Roman Six Days of the Condor erschien 1974. Die Verfilmung folgte 1975, ein Jahr später, und verkürzte bereits im Titel die sechs Tage auf drei. Robert Redford spielt den verfolgten CIA-Analysten Joe Turner. Der nahe zeitliche Anschluss zwischen Roman und Film macht das Erscheinungsjahr merkbar und zeigt zugleich, dass die Kinobearbeitung den Ablauf des Ausgangsstoffs neu verdichtet.",
-      "anchor": "1974 sechs Tage im Romantitel, 1975 drei Tage im Film: ein Jahr Abstand.",
       "interest": "Verbindet das Erscheinungsjahr mit einer sichtbaren Veränderung der Vorlage.",
       "sources": [
         "film",
         "archiv"
-      ]
+      ],
+      "objective": "1974 sechs Tage im Romantitel, 1975 drei Tage im Film: ein Jahr Abstand."
     },
     {
       "code": "D",
@@ -192,12 +192,12 @@
       ],
       "short": "Sydney Pollack inszenierte Die drei Tage des Condor.",
       "context": "Sydney Pollack inszenierte den politischen Thriller mit Robert Redford als Joe Turner und Faye Dunaway als Kathy Hale. Der Film folgt einem Analysten, der nach der Ermordung seiner Kollegen seine eigene Organisation fürchten muss. Die Regie führt seine improvisierte Flucht und die Suche nach Auftraggebern zusammen. Der Versuch, Sicherheit durch öffentliche Aufklärung zu erhalten, bleibt bis zum Schluss mit Unsicherheit verbunden.",
-      "anchor": "Sydney Pollack inszenierte Die drei Tage des Condor.",
       "interest": "Ordnet den Film innerhalb des politischen Thrillers der 1970er-Jahre zu.",
       "sources": [
         "film",
         "archiv"
-      ]
+      ],
+      "objective": "Sydney Pollack inszenierte Die drei Tage des Condor."
     }
   ]
 }

@@ -33,12 +33,12 @@
       ],
       "short": "Das Kind wird aus einem Tempel in Tibet entführt.",
       "context": "Das Kind (J.L. Reate) lebt zu Beginn in einem tibetischen Tempel und zeigt ungewöhnliche Fähigkeiten. Sardo Numspa (Charles Dance) dringt mit seinen Helfern ein und entführt es. Die Rettungsaufgabe führt später nach Los Angeles, beginnt aber weit entfernt davon. Diese räumliche Trennung erklärt, warum Chandler Jarrell (Eddie Murphy) zunächst wenig über die Vorgeschichte seines neuen Auftrags weiß.",
-      "anchor": "Die Suche in Los Angeles beginnt mit einer Entführung in Tibet.",
       "interest": "Verankert den ursprünglichen Schauplatz des Falls.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Suche in Los Angeles beginnt mit einer Entführung in Tibet."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Chandler sucht nach vermissten Kindern und Jugendlichen.",
       "context": "Chandler Jarrell (Eddie Murphy) macht in Los Angeles auf den Fall einer vermissten Jugendlichen aufmerksam. Kee Nang (Charlotte Lewis) sieht ihn im Fernsehen und sucht ihn anschließend für die Rettung des besonderen Kindes auf. Die neue Aufgabe knüpft damit an seine vorhandene Arbeit an. Er beginnt nicht als eingeweihter Tempelkämpfer, sondern als Helfer, der Vermisstenfälle verfolgt und mit dem Übernatürlichen zunächst skeptisch umgeht.",
-      "anchor": "Die vorhandene Vermisstensuche führt zum außergewöhnlichen Auftrag.",
       "interest": "Erfasst die Verbindung zwischen Alltag und neuem Fall.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die vorhandene Vermisstensuche führt zum außergewöhnlichen Auftrag."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Die Entführer versuchen, das Kind durch Blut im Essen verwundbar zu machen.",
       "context": "Die Helfer von Sardo Numspa (Charles Dance) versuchen, dem Kind (J.L. Reate) Blut im Essen zu geben. Dadurch soll seine Reinheit beeinträchtigt und seine besondere Schutzstellung aufgehoben werden. Das Kind weigert sich jedoch zu essen. Die Spur verbindet Chandler Jarrells (Eddie Murphy) Untersuchung des Todes einer Jugendlichen mit der Entführung: Das ungewöhnliche Essen gehört zu einem gezielten Versuch, das Opfer überhaupt töten zu können.",
-      "anchor": "Das verweigerte Essen bewahrt die Schutzstellung des Kindes.",
       "interest": "Erfasst Absicht und Scheitern eines konkreten Entführerplans.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Das verweigerte Essen bewahrt die Schutzstellung des Kindes."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Die Tauschforderung betrifft den Ajanti-Dolch.",
       "context": "Sardo Numspa (Charles Dance) verlangt von Chandler Jarrell (Eddie Murphy), den Ajanti-Dolch zu beschaffen. Als Gegenleistung stellt er die Freigabe des Kindes (J.L. Reate) in Aussicht. Der Auftrag führt Chandler und Kee Nang (Charlotte Lewis) zum Tempel. Das Objekt verbindet somit zwei Handlungswege: die gefährliche Verhandlung mit dem Entführer und eine Prüfung, durch die Chandler die geforderte Waffe erst erlangen muss.",
-      "anchor": "Der Ajanti-Dolch verbindet Tauschforderung und Tempelprüfung.",
       "interest": "Erfasst das konkrete verlangte Tauschobjekt.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der Ajanti-Dolch verbindet Tauschforderung und Tempelprüfung."
     },
     {
       "code": "S1",
@@ -129,11 +129,11 @@
       ],
       "short": "Chandler muss den Weg mit dem Glas bewältigen, ohne Wasser zu verschütten.",
       "context": "Chandler Jarrell (Eddie Murphy) muss im Tempel einen gefährlichen Weg mit einem gefüllten Wasserglas überwinden. Die Aufgabe verlangt, keinen Tropfen zu verschütten. Der Dolch lässt sich damit nicht einfach durch Stärke oder einen schnellen Zugriff gewinnen. Die Prüfung zwingt den gewöhnlich improvisierenden Helfer zu genauer Körperkontrolle unter unsicheren Bedingungen. Ein alltäglicher Gegenstand wird zur messbaren Grenze zwischen bloßer Kühnheit und einem bestandenen Zugang zum Heiligtum.",
-      "anchor": "Ein einziger verschütteter Tropfen würde die Prüfung verletzen.",
       "interest": "Erfasst die genaue Regel einer konkreten Tempelprüfung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein einziger verschütteter Tropfen würde die Prüfung verletzen."
     },
     {
       "code": "S2",
@@ -152,13 +152,13 @@
       ],
       "short": "Chandler hält ihren Körper im Sonnenlicht, damit das Kind sie wiederbeleben kann.",
       "context": "Kee Nang (Charlotte Lewis) schützt Chandler Jarrell (Eddie Murphy) vor einem Angriff und wird tödlich getroffen. Er hält ihren Körper im Sonnenlicht, weil das Kind (J.L. Reate) sie dort wiederbeleben kann. Die Rettung des Kindes erhält dadurch eine zusätzliche persönliche Dringlichkeit. Nachdem der Entführer besiegt ist, wird diese Hoffnung erfüllt. Die übernatürliche Fähigkeit des Kindes beendet so auch die zweite Verlustgefahr des Schlusskampfs.",
-      "anchor": "Das Sonnenlicht hält die Hoffnung auf Wiederbelebung offen.",
       "interest": "Verbindet konkrete Handlung und magische Schlussrettung.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Sonnenlicht hält die Hoffnung auf Wiederbelebung offen."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Der Film wurde 1986 veröffentlicht.",
       "context": "The Golden Child erschien 1986. Beverly Hills Cop, ebenfalls mit Eddie Murphy und von Paramount veröffentlicht, stammt von 1984; zwischen diesen Erstjahrgängen liegen zwei Jahre. AFI beschreibt den früheren Erfolg als Hintergrund der neuen Zusammenarbeit. Der spätere Film verbindet Murphys komischen Hauptdarstellerstil mit einer übernatürlichen Rettungsgeschichte. Sein Filmjahr wird vom Kinostart bestimmt, nicht von der erst später erfolgten Copyrightregistrierung.",
-      "anchor": "Beverly Hills Cop 1984, Golden Child 1986: zwei Jahre.",
       "interest": "Verbindet den Erstjahrgang mit einem konkreten vorherigen Murphy-Film.",
       "sources": [
         "afi",
         "bfi"
-      ]
+      ],
+      "objective": "Beverly Hills Cop 1984, Golden Child 1986: zwei Jahre."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Die Hauptregie stammt von Michael Ritchie.",
       "context": "Michael Ritchie führte die Hauptregie von The Golden Child. AFI nennt im Überblick zusätzlich Peter Norman, erläutert dessen Credit im Detail aber als Second-Unit-Regie für Los Angeles und Nepal. Diese zusätzliche Einheit wird nicht zum zweiten Hauptregisseur umgedeutet. Auch Dennis Feldmans ursprüngliche Regieplanung änderte den veröffentlichten Credit nicht: Am fertigen Film ist er als Autor und Co-Produzent beteiligt.",
-      "anchor": "Michael Ritchie führt Hauptregie, Peter Norman leitet die Second Unit.",
       "interest": "Grenzt Hauptregie, frühere Planung und zusätzliche Einheit ab.",
       "sources": [
         "afi",
         "bfi"
-      ]
+      ],
+      "objective": "Michael Ritchie führt Hauptregie, Peter Norman leitet die Second Unit."
     }
   ]
 }

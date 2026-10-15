@@ -47,7 +47,7 @@ describe("CSV und Inhalte", () => {
     expect(questions.filter((q) => q.metadata.variant_of)).toHaveLength(30);
     expect(imported.report.warnings).toEqual([]);
     expect(
-      questions.every((q) => q.context && q.anchor && q.sources.length),
+      questions.every((q) => q.context && q.sources.length),
     ).toBe(true);
     writeFileSync(
       testReportPath("importbericht.json"),
@@ -98,7 +98,7 @@ describe("CSV und Inhalte", () => {
       importCsv("question_id,question\nx,Hallo").report.issues[0],
     ).toContain("Pflichtspalten");
     expect(
-      importCsv(demoText.replace(',a,"Die Montage', ',Z,"Die Montage')).report
+      importCsv(demoText.replace('"a","Die Montage', '"Z","Die Montage')).report
         .rejected,
     ).toBe(1);
   });

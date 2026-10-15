@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Burton verkörpert Marcus Antonius.",
       "context": "Antonius steht im Schatten Caesars und gerät zunehmend in den Bann Kleopatras. Burton gibt dem politischen Machtmenschen auch Unsicherheit und Abhängigkeit. Der aufwendige Historienfilm war damit zugleich eine Bühne für das Zusammenspiel zweier Stars, deren Beziehung die öffentliche Wahrnehmung der Produktion stark mitprägte.",
-      "anchor": "Burtons Antonius verbindet Machtanspruch mit persönlicher Abhängigkeit.",
       "interest": "Eine bekannte Großproduktion erschließt seine wichtigste historische Filmrolle.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/features/richard-burton-power-was-his-weakness",
         "https://www.biography.wales/article/s8-BURT-RIC-1925.html"
-      ]
+      ],
+      "objective": "Burtons Antonius verbindet Machtanspruch mit persönlicher Abhängigkeit."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 1,
       "short": "George ist Geschichtsprofessor.",
       "context": "George arbeitet an der Universität, die der Vater seiner Frau Martha leitet. Sein beruflicher und familiärer Status sind deshalb eng verknüpft. Im nächtlichen Streit mit Martha und ihren Gästen wird das Gefühl gescheiterter Erwartungen immer wieder zum Angriffspunkt. Der Beruf gehört zur Machtverteilung des Ehekonflikts.",
-      "anchor": "George lehrt Geschichte an der Universität seines Schwiegervaters.",
       "interest": "Die berufliche Stellung erklärt die Spannungen hinter dem Wortgefecht.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/features/richard-burton-power-was-his-weakness"
-      ]
+      ],
+      "objective": "George lehrt Geschichte an der Universität seines Schwiegervaters."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Leamas soll wie ein enttäuschter und gescheiterter Ex-Agent wirken.",
       "context": "Sein scheinbarer Absturz soll ihn für die Gegenseite als käufliche Informationsquelle interessant machen. Das müde, misstrauische Auftreten unterscheidet diesen Spion deutlich von einem eleganten Abenteurer. Burton spielt zugleich eine Figur, die selbst nicht alle Absichten ihres eigenen Dienstes überblickt.",
-      "anchor": "Leamas’ sichtbarer Verfall gehört zu seiner Tarnung.",
       "interest": "Die Darstellung wird mit dem Mechanismus der Geheimdienstoperation verbunden.",
       "feedback": [
         "",
@@ -90,7 +89,8 @@
       ],
       "knowledge_id": "K-G100-20261008-THRILLER-016-L1",
       "variant_of": "G100-20261008-THRILLER-016-L1",
-      "knowledge_note": "Gleiches Ziel: das für die Anwerbung inszenierte Erscheinungsbild."
+      "knowledge_note": "Gleiches Ziel: das für die Anwerbung inszenierte Erscheinungsbild.",
+      "objective": "Leamas’ sichtbarer Verfall gehört zu seiner Tarnung."
     },
     {
       "code": "M2",
@@ -104,7 +104,6 @@
       "correct": 3,
       "short": "O’Brien ist ein Funktionär und Verhörer des Regimes.",
       "context": "Winston setzt zunächst Hoffnung in einen Mann, der zur inneren Machtstruktur gehört. Burtons ruhiges, beherrschtes Auftreten wird schließlich zum Werkzeug der Unterwerfung. Gerade weil O’Brien seine Gewalt mit gedanklicher Präzision verbindet, entsteht eine andere Form von Bedrohung als durch einen bloß tobenden Tyrannen.",
-      "anchor": "Burtons O’Brien macht geistige Kontrolle zur Form der Gewalt.",
       "interest": "Die Rolle wird in den Kernkonflikt dieser konkreten Verfilmung eingeordnet.",
       "feedback": [
         "",
@@ -118,7 +117,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/features/nineteen-eighty-four-adaptations",
         "https://bfidatadigipres.github.io/muse%20of%20fire%3Cbr%3Erichard%20burton/2025/12/15/nineteen-eighty-four/"
-      ]
+      ],
+      "objective": "Burtons O’Brien macht geistige Kontrolle zur Form der Gewalt."
     },
     {
       "code": "S1",
@@ -132,7 +132,6 @@
       "correct": 0,
       "short": "Er übernahm den Namen seines Lehrers Philip Burton.",
       "context": "Philip Burton förderte den Schüler in Port Talbot, arbeitete an seiner Stimme und wurde sein Vormund. Der Namenswechsel macht eine konkrete berufliche und persönliche Förderung sichtbar. Die Zusammenarbeit ging später weiter: Auch als Richard bereits auf großen Bühnen stand, blieb sein früherer Lehrer ein wichtiger Ratgeber.",
-      "anchor": "Hinter dem Namen Burton steht ein prägender Lehrer.",
       "interest": "Die Namensgeschichte erklärt den Zugang zur Ausbildung und Bühnenpraxis.",
       "feedback": [
         "",
@@ -144,7 +143,8 @@
       "extraSources": [
         "https://www.biography.wales/article/s8-BURT-RIC-1925.html",
         "https://biography.wales/article/s12-BURT-HEN-1904.html"
-      ]
+      ],
+      "objective": "Hinter dem Namen Burton steht ein prägender Lehrer."
     },
     {
       "code": "S2",
@@ -158,7 +158,6 @@
       "correct": 1,
       "short": "John Gielgud führte Regie.",
       "context": "Gielgud hatte den Prinzen selbst wiederholt gespielt und war für seine sprachliche Gestaltung berühmt. Burton arbeitete damit unter einem Regisseur, der die Rolle aus jahrzehntelanger eigener Erfahrung kannte. Die Produktion steht für einen Austausch zwischen zwei Schauspielergenerationen innerhalb der Shakespeare-Tradition.",
-      "anchor": "Burtons New Yorker Hamlet entstand unter Gielguds Regie.",
       "interest": "Eine wichtige Bühnenarbeit erschließt die Weitergabe schauspielerischer Erfahrung.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       "films": [],
       "extraSources": [
         "https://www.rsc.org.uk/hamlet/about-the-play/stage-history"
-      ]
+      ],
+      "objective": "Burtons New Yorker Hamlet entstand unter Gielguds Regie."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 2,
       "short": "Burton sprach die First Voice.",
       "context": "Die erste Stimme führt in die verborgenen Gedanken und Träume der Dorfbewohner. Philip Burton spielte dagegen Reverend Eli Jenkins. Der Erfolg zeigt, wie viel Richard allein mit Sprachrhythmus, Klang und Bildern in der Vorstellung des Publikums erreichen konnte. Die Stimme wurde unabhängig von seiner sichtbaren Starpräsenz zum zentralen Gestaltungsmittel.",
-      "anchor": "Burtons First Voice öffnet die Gedankenwelt von Llareggub.",
       "interest": "Der Rundfunk macht einen wesentlichen Teil seiner Schauspielkunst hörbar.",
       "feedback": [
         "",
@@ -195,7 +194,8 @@
       "extraSources": [
         "https://biography.wales/article/s12-BURT-HEN-1904.html",
         "https://www.oldvictheatre.com/news/under-milk-wood/"
-      ]
+      ],
+      "objective": "Burtons First Voice öffnet die Gedankenwelt von Llareggub."
     },
     {
       "code": "E2",
@@ -209,7 +209,6 @@
       "correct": 3,
       "short": "Der Vertrag ließ Raum für Film und Theater.",
       "context": "Burton kam mit starken Shakespeare-Erfolgen zum Hollywoodstudio. Die Vereinbarung zwang ihn zunächst nicht, diese Bühnenlaufbahn vollständig gegen den Film einzutauschen. Seine Karriere entwickelte sich damit über zwei unterschiedliche Arbeitswelten: die direkte Wirkung des gesprochenen Textes im Theater und die technische Gestaltung einer aufgenommenen Rolle.",
-      "anchor": "Burtons frühe Hollywoodbindung ließ die Bühne als zweites Arbeitsfeld offen.",
       "interest": "Ein Vertragsdetail erklärt die Verbindung zweier zentraler Karrierewege.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       "films": [],
       "extraSources": [
         "https://www.biography.wales/article/s8-BURT-RIC-1925.html"
-      ]
+      ],
+      "objective": "Burtons frühe Hollywoodbindung ließ die Bühne als zweites Arbeitsfeld offen."
     }
   ]
 }

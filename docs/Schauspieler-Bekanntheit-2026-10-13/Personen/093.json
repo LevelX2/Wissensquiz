@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Sie gewann für Hannah und ihre Schwestern sowie Bullets over Broadway.",
       "context": "Beide Rollen entstanden unter Woody Allens Regie, unterscheiden sich aber deutlich. Holly sucht unsicher nach einem eigenen Platz im Leben; Helen Sinclair beherrscht als große Bühnendiva ihre Umgebung. Die zwei Auszeichnungen würdigen damit verschiedene Ausdrucksweisen derselben Darstellerin.",
-      "anchor": "Wiest gewann mit Holly und Helen Sinclair.",
       "interest": "Die Preisfrage stellt zwei gegensätzliche Rollen nebeneinander.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
         "https://www.televisionacademy.com/bios/dianne-wiest",
         "https://www.oscars.org/oscars/ceremonies/1987",
         "https://www.oscars.org/oscars/ceremonies/1995"
-      ]
+      ],
+      "objective": "Wiest gewann mit Holly und Helen Sinclair."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 3,
       "short": "Peg ist eine Kosmetikvertreterin von Avon.",
       "context": "Bei ihrer Verkaufstour gelangt sie zu dem abgelegenen Haus, in dem Edward allein lebt. Sie nimmt ihn mit in ihre Familie und öffnet ihm so den Weg in die Vorstadt. Aus ihrer alltäglichen Kontaktfreude entsteht die zentrale Begegnung der Geschichte.",
-      "anchor": "Pegs Haustürgeschäft führt sie zu Edward.",
       "interest": "Der Beruf erklärt, warum die beiden Welten überhaupt zusammentreffen.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Edward_Scissorhands",
         "https://www.20thcenturystudios.com/movies/edward-scissorhands"
-      ]
+      ],
+      "objective": "Pegs Haustürgeschäft führt sie zu Edward."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 0,
       "short": "Sie spielt Louise Keeley, die Frau des Senators.",
       "context": "Die Tochter der Keeleys will den Sohn eines schwulen Paares heiraten. Beim Kennenlernen sollen deshalb die wirklichen Verhältnisse im Haushalt verborgen werden. Wiest gehört zu der konservativen Besucherseite, deren Erwartungen die Verwechslungen und Verkleidungen auslösen.",
-      "anchor": "Louise kommt mit dem Senator als zukünftige Schwiegermutter zu Besuch.",
       "interest": "Die Familienposition macht die Komödienkonstellation verständlich.",
       "feedback": [
         "",
@@ -90,7 +89,8 @@
       "extraSources": [
         "https://www.afi.com/news/pride-month-movie-guide/?campaign=751954",
         "https://catalog.afi.com/Film/59998-THE-BIRDCAGE"
-      ]
+      ],
+      "objective": "Louise kommt mit dem Senator als zukünftige Schwiegermutter zu Besuch."
     },
     {
       "code": "M2",
@@ -104,7 +104,6 @@
       "correct": 1,
       "short": "Auch der Therapeut Paul geht bei Gina in Therapie.",
       "context": "Die Serie zeigt nicht nur Pauls Arbeit mit seinen Patienten, sondern auch seine eigenen Gespräche. Dabei steht er selbst unter Beobachtung und muss sich beruflichen wie privaten Konflikten stellen. Gina kann außerdem auf eine lange gemeinsame Vorgeschichte zurückgreifen.",
-      "anchor": "Bei Gina wird der Therapeut selbst zum Patienten.",
       "interest": "Die Rollenbeziehung erklärt die zusätzliche Perspektive der Serie.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       "extraSources": [
         "https://www.televisionacademy.com/bios/dianne-wiest",
         "https://en.wikipedia.org/wiki/In_Treatment"
-      ]
+      ],
+      "objective": "Bei Gina wird der Therapeut selbst zum Patienten."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 3,
       "short": "Holly wendet sich dem Schreiben zu.",
       "context": "Ihr erster Text verwendet das Leben ihrer Familie so unmittelbar, dass Hannah sich bloßgestellt fühlt. Später entwickelt Holly einen anderen Stoff, den Mickey überzeugend findet. Die berufliche Suche verändert dadurch auch ihre Beziehungen: Eigenes Erleben wird erst zum Konfliktstoff und dann zum Ausgangspunkt neuer Nähe.",
-      "anchor": "Holly findet über das Schreiben eine neue Ausdrucksform.",
       "interest": "Die Entwicklung verbindet künstlerische Arbeit mit familiären Grenzen.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/57340"
-      ]
+      ],
+      "objective": "Holly findet über das Schreiben eine neue Ausdrucksform."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 0,
       "short": "Helen Sinclair ist eine große Theaterdiva.",
       "context": "Der junge Autor und Regisseur David will mit ihrem Namen seine Inszenierung aufwerten. Helen wiederum nutzt ihre Stellung, um Einfluss auf Stück und Regisseur zu gewinnen. Wiests ausladendes Auftreten macht die Macht einer erfahrenen Darstellerin gegenüber einem aufstrebenden Anfänger sichtbar.",
-      "anchor": "Helen Sinclair betritt die Probe bereits als Autorität.",
       "interest": "Die Rolle erschließt das Machtgefüge der Theaterkomödie.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       "extraSources": [
         "https://www.televisionacademy.com/bios/dianne-wiest",
         "https://en.wikipedia.org/wiki/Bullets_Over_Broadway"
-      ]
+      ],
+      "objective": "Helen Sinclair betritt die Probe bereits als Autorität."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 2,
       "short": "Winnie versinkt zunehmend im Erdhügel.",
       "context": "Die Figur hält trotzdem an Sprache, Gewohnheiten und einem demonstrativen Optimismus fest. Für Wiest bedeutete die Rolle, ein lebhaftes inneres Geschehen mit immer weniger sichtbaren Bewegungsmöglichkeiten zu vermitteln. Im zweiten Akt bleiben nur Kopf und Gesicht frei.",
-      "anchor": "Winnies eingeschränkter Körper verlangt ein besonders aktives inneres Spiel.",
       "interest": "Die Bühnenanordnung erklärt die ungewöhnliche darstellerische Aufgabe.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       "extraSources": [
         "https://news.yale.edu/2016/04/22/next-yale-rep-production-stars-award-winning-two-person-cast-happy-days",
         "https://www.americantheatre.org/2017/04/24/stillness-is-the-move-coaching-dianne-wiest-for-happy-days/"
-      ]
+      ],
+      "objective": "Winnies eingeschränkter Körper verlangt ein besonders aktives inneres Spiel."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 1,
       "short": "Wolf arbeitete besonders mit Prinzipien der Alexander-Technik.",
       "context": "Die scheinbare Bewegungslosigkeit durfte Atmung und Stimme nicht blockieren. Wolf und Wiest suchten daher nach einer tragfähigen Haltung und möglichst freiem Zusammenspiel von Kopf, Hals und Rumpf. Weitere Bewegungs- und Atemansätze ergänzten diese Arbeit; die Methode war keine alleinige Lösung für die Rolle.",
-      "anchor": "Auch eine fast unbewegliche Rolle braucht körperliche Vorbereitung.",
       "interest": "Der Bericht der beteiligten Trainerin macht die praktische Arbeit hinter der Aufführung sichtbar.",
       "feedback": [
         "",
@@ -222,7 +221,8 @@
       "films": [],
       "extraSources": [
         "https://www.americantheatre.org/2017/04/24/stillness-is-the-move-coaching-dianne-wiest-for-happy-days/"
-      ]
+      ],
+      "objective": "Auch eine fast unbewegliche Rolle braucht körperliche Vorbereitung."
     }
   ]
 }

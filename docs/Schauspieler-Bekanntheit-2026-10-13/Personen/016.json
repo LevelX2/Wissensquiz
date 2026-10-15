@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Johns Teddybär ist durch einen Kindheitswunsch lebendig geworden.",
       "context": "John ist längst erwachsen, doch die enge Bindung an Ted bestimmt weiterhin seinen Alltag. Seine Beziehung zu Lori, gespielt von Mila Kunis, gerät dadurch unter Druck. Seth MacFarlane führt Regie und spricht den Bären im Original. Wahlberg spielt den Menschen, für den eine fantastische Kindheitsfreundschaft zu einer sehr konkreten Frage nach Verantwortung und Erwachsenwerden wird.",
-      "anchor": "John muss seine Kindheitsfreundschaft mit seinem Erwachsenenleben vereinbaren.",
       "interest": "Die Komödie verbindet eine absurde Figur mit einem nachvollziehbaren Beziehungskonflikt.",
       "feedback": [
         "Johns Teddybär ist durch einen Kindheitswunsch lebendig geworden.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.universalpicturesathome.com/movies/ted"
-      ]
+      ],
+      "objective": "John muss seine Kindheitsfreundschaft mit seinem Erwachsenenleben vereinbaren."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Eddie wird als Dirk Diggler ein Pornodarsteller.",
       "context": "Jack Horner (Burt Reynolds) entdeckt Eddie in einem Nachtclub und nimmt ihn in seinen Kreis von Filmschaffenden auf. Der neue Name Dirk Diggler gehört zu einem Aufstieg, der beruflichen Erfolg mit dem Gefühl einer Ersatzfamilie verbindet. Paul Thomas Anderson erzählt anschließend auch die Brüche dieser Gemeinschaft. Ruhm, Drogen und Selbstüberschätzung verändern den anfangs verheißungsvollen Zusammenhalt.",
-      "anchor": "Dirk Digglers Aufstieg führt in eine Filmfamilie und deren Krise.",
       "interest": "Die Rolle verbindet Wahlbergs Durchbruch mit einem Ensemblefilm über Ruhm und Zugehörigkeit.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://player.bfi.org.uk/rentals/film/watch-boogie-nights-1997-online"
-      ]
+      ],
+      "objective": "Dirk Digglers Aufstieg führt in eine Filmfamilie und deren Krise."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Dignam gehört zur Polizei und betreut Billy Costigans Undercover-Arbeit.",
       "context": "Billy Costigan (Leonardo DiCaprio) schleust sich in die Organisation von Frank Costello (Jack Nicholson) ein. Dignam und Captain Queenan (Martin Sheen) kennen seine wirkliche Aufgabe. Gleichzeitig arbeitet Colin Sullivan (Matt Damon) als Verräter innerhalb der Polizei. Dignams Stellung ist deshalb für das Verständnis der gegeneinander laufenden Infiltrationen wichtig: Sein ruppiges Auftreten allein sagt noch nichts über seine Loyalität aus.",
-      "anchor": "Dignam schützt den echten Undercover-Mann auf Polizeiseite.",
       "interest": "Die Zuordnung hilft, die gegensätzlichen verdeckten Rollen des Gangsterfilms auseinanderzuhalten.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Departed"
-      ]
+      ],
+      "objective": "Dignam schützt den echten Undercover-Mann auf Polizeiseite."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Wahlberg spielt Micky Ward.",
       "context": "Micky versucht, als Boxer aus dem Schatten seines älteren Halbbruders Dicky Eklund (Christian Bale) herauszutreten. Dicky ist zugleich Trainer und durch seine Drogensucht ein schwer berechenbarer Begleiter. Die Mutter Alice (Melissa Leo) mischt sich als Managerin ein. Der sportliche Aufstieg verlangt deshalb auch eine Neuordnung der familiären Abhängigkeiten, ohne dass Micky jede Bindung an seine Herkunft abbricht.",
-      "anchor": "Micky Wards Karriere hängt auch an der Neuordnung seiner Familie.",
       "interest": "Die Boxerrolle führt zum persönlichen Konflikt hinter dem sportlichen Erfolg.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "knowledge_id": "K-DRA-202610-P01-L-019",
       "variant_of": "DRA-202610-P01-L-019",
-      "knowledge_note": "Gleiche Zuordnung Mark Wahlbergs zu Micky Ward."
+      "knowledge_note": "Gleiche Zuordnung Mark Wahlbergs zu Micky Ward.",
+      "objective": "Micky Wards Karriere hängt auch an der Neuordnung seiner Familie."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 1,
       "short": "Wahlbergs damaliger Künstlername war Marky Mark.",
       "context": "Vor den bekannten Filmrollen trat Wahlberg als Frontmann von Marky Mark and the Funky Bunch auf. „Good Vibrations“ gehörte zu den erfolgreichen Aufnahmen der Gruppe. Seine spätere Schauspielkarriere entwickelte sich damit aus einer bereits vorhandenen öffentlichen Bekanntheit. Musikauftritt und Filmrolle sind unterschiedliche Arbeiten, doch beide Phasen gehören zu seiner beruflichen Entwicklung vom Popstar zum Darsteller und Produzenten.",
-      "anchor": "Marky Mark war Wahlbergs Name vor den großen Filmrollen.",
       "interest": "Die Musikphase erschließt einen eigenständigen Teil seiner Laufbahn.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       "films": [],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Mark_Wahlberg"
-      ]
+      ],
+      "objective": "Marky Mark war Wahlbergs Name vor den großen Filmrollen."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 2,
       "short": "Wahlberg spielt Marcus Luttrell.",
       "context": "Peter Bergs Film verarbeitet Luttrells Bericht über einen Einsatz in Afghanistan. Das vierköpfige SEAL-Team gerät in einen Hinterhalt; der verletzte Luttrell erhält später Schutz durch den Dorfbewohner Mohammad Gulab (Ali Suliman). Die Figur steht damit zwischen militärischer Kameradschaft und Hilfe durch Menschen außerhalb der eigenen Einheit. Die konkrete Filmhandlung ist dabei eine dramatisierte Darstellung und kein unverändertes Protokoll des realen Einsatzes.",
-      "anchor": "Luttrells Überleben hängt im Film auch an Gulabs Hilfe.",
       "interest": "Die biografische Rolle verbindet Kriegsgeschehen mit einer Begegnung über die Fronten hinweg.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       "extraSources": [
         "https://www.universalpicturesathome.com/movies/lone-survivor",
         "https://en.wikipedia.org/wiki/Lone_Survivor"
-      ]
+      ],
+      "objective": "Luttrells Überleben hängt im Film auch an Gulabs Hilfe."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 3,
       "short": "Wahlberg gehörte zu den Executive Producers von „Entourage“.",
       "context": "Die Serie begleitet den jungen Schauspieler Vince Chase, gespielt von Adrian Grenier, und seine Freunde im Hollywoodbetrieb. Ihre Grundlage ist eine fiktionalisierte Welt des Aufstiegs und der beruflichen Beziehungen. Doug Ellin entwickelte die Serie; Wahlberg wirkte auf Produzentenseite mit. Die Television Academy führt ihn in dieser Funktion bei den Emmy-Nominierungen der Serie, wodurch seine Arbeit hinter der Kamera konkret belegt ist.",
-      "anchor": "Wahlberg produzierte die Hollywoodserie, Adrian Grenier spielte ihren Star.",
       "interest": "Die Rollenverteilung zeigt seinen Übergang vom Darsteller zur Serienproduktion.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       "extraSources": [
         "https://www.televisionacademy.com/bios/mark-wahlberg",
         "https://ir.paramount.com/static-files/ff5ef90c-540b-48cd-814d-e4d163602b95"
-      ]
+      ],
+      "objective": "Wahlberg produzierte die Hollywoodserie, Adrian Grenier spielte ihren Star."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 0,
       "short": "Wahlberg wurde mit David Hoberman und Todd Lieberman als Produzent für den besten Film nominiert.",
       "context": "Die Schauspiel-Oscars des Films gingen an Christian Bale und Melissa Leo. Wahlbergs eigene Nominierung gehörte dagegen zur Kategorie Bester Film, weil er zum Produzententeam zählte. Bereits für „Departed“ war er als Nebendarsteller nominiert worden. Diese beiden Nennungen betreffen unterschiedliche berufliche Leistungen; die Hauptrolle in „The Fighter“ brachte ihm keine zusätzliche Darstellernominierung ein.",
-      "anchor": "Bei „The Fighter“ war Wahlberg als Produzent Oscar-nominiert.",
       "interest": "Die Nominierung trennt Schauspiel und Produktion innerhalb derselben Filmkarriere.",
       "feedback": [
         "Wahlberg wurde mit David Hoberman und Todd Lieberman als Produzent für den besten Film nominiert.",
@@ -223,7 +222,8 @@
       "extraSources": [
         "https://www.oscars.org/oscars/ceremonies/2011",
         "https://www.oscars.org/oscars/ceremonies/2007"
-      ]
+      ],
+      "objective": "Bei „The Fighter“ war Wahlberg als Produzent Oscar-nominiert."
     }
   ]
 }

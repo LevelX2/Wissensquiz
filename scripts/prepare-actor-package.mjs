@@ -67,7 +67,6 @@ try {
       correct_answer: q.correct_answer,
       explanation_short: `Gesucht ist: ${correct}${/[.!?]$/.test(correct) ? "" : "."}`,
       explanation_context: q.additional_info,
-      memory_anchor: "",
       topic_tags: `Schauspieler;${q.question_type}`,
       badge_tags: "Schauspieler",
       source_urls: q.source_urls.join("|"),

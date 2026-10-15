@@ -34,14 +34,14 @@
       ],
       "short": "Sanjuro schützt junge Samurai, die die Korruption aufdecken wollen.",
       "context": "Die jungen Männer setzen auf klare Urteile und heldenhafte Aktionen. Sanjuro (Toshirō Mifune) erkennt dagegen, dass ihre Informationen und ihr Vertrauen falsch gelenkt werden. Der Unterschied zwischen gutem Willen und Erfahrung trägt die Handlung: Hilfe bedeutet hier oft, einen voreiligen Angriff zu verhindern.",
-      "anchor": "Die jungen Idealisten brauchen Erfahrung statt weiteren Mut.",
       "interest": "Die jungen Idealisten brauchen Erfahrung statt weiteren Mut.",
       "sources": [
         "handlung",
         "criterion",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die jungen Idealisten brauchen Erfahrung statt weiteren Mut."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Die jungen Männer haben die Rollen von Helfer und Verdächtigem vertauscht.",
       "context": "Die jungen Samurai halten den Kammerherrn Mutsuta (Yūnosuke Itō) für schuldig. Sanjuro (Toshirō Mifune) warnt vor dem Superintendenten Kikui (Masao Shimizu), dem sie vertrauen. Ein drohender Hinterhalt bestätigt seine Einschätzung. Die Erzählung fordert damit früh, gesellschaftliches Auftreten und tatsächliche Absichten auseinanderzuhalten.",
-      "anchor": "Gepflegtes Auftreten macht den scheinbaren Helfer nicht vertrauenswürdig.",
       "interest": "Gepflegtes Auftreten macht den scheinbaren Helfer nicht vertrauenswürdig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gepflegtes Auftreten macht den scheinbaren Helfer nicht vertrauenswürdig."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Sanjuro plant Kamelien im Wasser als Angriffssignal.",
       "context": "Sanjuro (Toshirō Mifune) nutzt den Bach zwischen den Grundstücken. Blüten können die jungen Samurai erreichen, ohne dass ein Bote die bewachte Grenze passieren muss. Die örtliche Landschaft wird so Teil der Täuschung: Ein unauffälliger Wasserlauf trägt Informationen, während der Gegner seine Aufmerksamkeit auf die falsche Stelle richtet.",
-      "anchor": "Der Bach transportiert das Blumensignal über die bewachte Grenze.",
       "interest": "Der Bach transportiert das Blumensignal über die bewachte Grenze.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Bach transportiert das Blumensignal über die bewachte Grenze."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Sie kritisiert seine schnelle Gewalt und spricht für Zurückhaltung.",
       "context": "Die Frau des Kammerherrn (Takako Irie) dankt Sanjuro (Toshirō Mifune), stellt aber seinen häufigen Einsatz tödlicher Gewalt infrage. Ihre Vorstellung vom besten Schwert verknüpft Fähigkeit mit Selbstbegrenzung. Der Film nimmt diese Bemerkung später wieder auf, wenn ein gewonnener Zweikampf keineswegs als ungetrübter Triumph gefeiert wird.",
-      "anchor": "Die beste Klinge muss ihre Stärke nicht ständig zeigen.",
       "interest": "Die beste Klinge muss ihre Stärke nicht ständig zeigen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die beste Klinge muss ihre Stärke nicht ständig zeigen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Das Misstrauen der jungen Männer gefährdet seine verdeckte Arbeit.",
       "context": "Sanjuro (Toshirō Mifune) nähert sich dem Gegner Hanbei (Tatsuya Nakadai), um ihn zu täuschen. Die jungen Samurai folgen ihm und werden gefasst. Ihre Beobachtung zwingt Sanjuro zu Gewalt und beschädigt den ruhigeren Plan. Der Film macht dadurch eine konkrete Folge ungeprüften Misstrauens sichtbar, selbst wenn dessen Ausgangspunkt die Angst vor Verrat ist.",
-      "anchor": "Die misstrauische Kontrolle erzeugt genau die Gefahr, die sie vermeiden soll.",
       "interest": "Die misstrauische Kontrolle erzeugt genau die Gefahr, die sie vermeiden soll.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die misstrauische Kontrolle erzeugt genau die Gefahr, die sie vermeiden soll."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Sanjuro sieht den Sieg als traurige Folge einer unbeherrschten Klinge.",
       "context": "Hanbei (Tatsuya Nakadai) lässt sich von Sanjuro (Toshirō Mifune) nicht vom Duell abbringen. Nach dem tödlichen Schlag feiern die jungen Männer die Überlegenheit ihres Vorbilds. Sanjuro widerspricht: Beide Kämpfer waren ungeschützte, gezogene Schwerter. Der Schluss verlangt daher ein anderes Heldentum als das bloße Gewinnen eines Kampfes.",
-      "anchor": "Das gewonnene Duell beweist Stärke und zugleich fehlende Zurückhaltung.",
       "interest": "Das gewonnene Duell beweist Stärke und zugleich fehlende Zurückhaltung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das gewonnene Duell beweist Stärke und zugleich fehlende Zurückhaltung."
     },
     {
       "code": "Y",
@@ -180,14 +180,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1962.",
       "context": "Sanjuro erschien am Neujahrstag 1962 in Japan. Yojimbo, mit dem der Film die von Toshirō Mifune gespielte Hauptfigur verbindet, war im Jahr zuvor veröffentlicht worden. Die rasche Rückkehr ist daher ein unmittelbarer Werkzusammenhang, während die historische Handlung keine Geschichte aus dem Erscheinungsjahr erzählt.",
-      "anchor": "Yojimbo 1961, Sanjuro 1962: die Hauptfigur kehrt im folgenden Jahr zurück.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Yojimbo 1961, Sanjuro 1962: die Hauptfigur kehrt im folgenden Jahr zurück.",
       "sources": [
         "handlung",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Yojimbo 1961, Sanjuro 1962: die Hauptfigur kehrt im folgenden Jahr zurück."
     },
     {
       "code": "D",
@@ -206,7 +206,6 @@
       ],
       "short": "Der Regiecredit lautet Akira Kurosawa.",
       "context": "Akira Kurosawa inszenierte Sanjuro und arbeitete am Drehbuch sowie am Schnitt. Toshirō Mifune kehrt als erfahrener Rōnin zurück. Anders als der alleinige Machtspieler in Yojimbo muss er hier eine Gruppe idealistischer junger Männer schützen, deren Vorstellungen von heldenhaftem Verhalten häufig selbst Gefahr erzeugen.",
-      "anchor": "Akira Kurosawa: Toshirō Mifune kehrt als erfahrener Rōnin zurück.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "criterion",
@@ -214,7 +213,8 @@
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Akira Kurosawa: Toshirō Mifune kehrt als erfahrener Rōnin zurück."
     }
   ]
 }

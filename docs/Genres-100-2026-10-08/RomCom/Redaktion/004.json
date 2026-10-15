@@ -34,12 +34,12 @@
       ],
       "short": "Alvy tritt als Komiker auf.",
       "context": "Alvy Singer (Woody Allen) arbeitet als Komiker und verwendet auch seine Beziehungen als Stoff für Beobachtungen und Witze. Die berufliche Rolle erklärt seine Sicherheit im Sprechen, ohne ihn im persönlichen Leben sicher zu machen. Er kommentiert Ereignisse, wendet sich direkt ans Publikum und erinnert sich an die Beziehung zu Annie Hall (Diane Keaton). Seine Erzählerstimme gehört deshalb zu einem Mann, der Erfahrungen in Worte verwandelt, sie damit aber nicht unbedingt bewältigt.",
-      "anchor": "Alvy kann Beziehungen kommentieren, ohne sie sicher zu führen.",
       "interest": "Verankert die Erzählerstimme in seinem Beruf.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Alvy kann Beziehungen kommentieren, ohne sie sicher zu führen."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Annie möchte als Sängerin auftreten.",
       "context": "Annie Hall (Diane Keaton) möchte singen und tritt in einem Nachtclub auf. Ihr erstes Auftreten verläuft unsicher, während spätere Auftritte mehr Selbstvertrauen zeigen. Alvy Singer (Woody Allen) ermutigt sie, reagiert aber zugleich widersprüchlich auf ihre wachsende Eigenständigkeit. Die künstlerische Entwicklung gehört deshalb zu ihrer persönlichen Veränderung. Sie findet eine Stimme, die nicht nur Teil der gemeinsamen Beziehung ist, sondern auch neue Kontakte und Möglichkeiten außerhalb davon eröffnet.",
-      "anchor": "Annies Gesang steht für wachsende Eigenständigkeit.",
       "interest": "Verfolgt ihr eigenes Ziel neben Alvys Erzählung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Annies Gesang steht für wachsende Eigenständigkeit."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Sie begegnen sich beim Tennis.",
       "context": "Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) lernen sich beim Tennis kennen. Nach dem Spiel entwickeln sich ein verlegenes Gespräch und eine gemeinsame Fahrt. Das Treffen beginnt in einer gewöhnlichen Freizeitgruppe und führt erst allmählich in eine persönliche Annäherung. Dadurch erscheint die Beziehung nicht als sofortige sichere Übereinstimmung: Unsicherheit, unterschiedliche Ausdrucksweisen und das Bemühen, einen guten Eindruck zu machen, prägen schon ihre ersten Gespräche.",
-      "anchor": "Eine Tennisrunde wird zum Beginn der Beziehung.",
       "interest": "Fragt die konkrete Ausgangssituation ihrer Annäherung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Eine Tennisrunde wird zum Beginn der Beziehung."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Annie ruft wegen einer Spinne an.",
       "context": "Annie Hall (Diane Keaton) bittet Alvy Singer (Woody Allen) nachts um Hilfe wegen einer Spinne. Der scheinbar kleine häusliche Anlass bringt die bereits getrennten Partner wieder zusammen. Ihre Nähe erneuert sich dabei nicht durch ein ausführlich ausgehandeltes Beziehungsmodell, sondern durch eine vertraute Form von Hilfe und gemeinsame Reaktionen. Die Szene zeigt, wie eine praktische Bitte Gefühle wieder aktiviert, obwohl die früheren Schwierigkeiten damit noch nicht gelöst sind.",
-      "anchor": "Die Spinne öffnet den Weg zurück in die Beziehung.",
       "interest": "Verbindet einen konkreten Anlass mit der Wiederannäherung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Spinne öffnet den Weg zurück in die Beziehung."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Die Untertitel machen die Gedanken hinter dem Gespräch sichtbar.",
       "context": "Alvy Singer (Woody Allen) und Annie Hall (Diane Keaton) sprechen über Fotografie, während Untertitel ihre nicht ausgesprochenen Gedanken zeigen. Der höfliche Austausch und die inneren Erwartungen laufen dadurch nebeneinander. Das Publikum erhält mehr Informationen als die Figuren im Gespräch voneinander bekommen. Diese Gestaltung macht das erste gegenseitige Abtasten sichtbar: Die Worte beschäftigen sich mit Kunst, während Unsicherheit, Anziehung und die Angst vor einem ungünstigen Eindruck eine andere Ebene bilden.",
-      "anchor": "Untertitel zeigen, was das höfliche Gespräch verschweigt.",
       "interest": "Prüft eine konkrete Erzähltechnik statt weiterer Plotprämissen.",
       "sources": [
         "film",
         "loc"
-      ]
+      ],
+      "objective": "Untertitel zeigen, was das höfliche Gespräch verschweigt."
     },
     {
       "code": "S2",
@@ -154,13 +154,13 @@
       ],
       "short": "Im Stück erhält die Beziehung den gewünschten glücklichen Ausgang.",
       "context": "Alvy Singer (Woody Allen) verarbeitet seine Beziehung zu Annie Hall (Diane Keaton) in einem Theaterstück. Dort endet die Begegnung anders als in seinem Leben: Das Paar findet zusammen. Die Veränderung macht den Abstand zwischen Erfahrung und künstlerischer Bearbeitung sichtbar. Alvy kann in einer geschriebenen Szene eine gewünschte Antwort erzeugen, die er in der tatsächlichen Beziehung nicht erhält. Sein Erzählen wird damit ausdrücklich auch zu einem Versuch, Verlust nachträglich zu ordnen.",
-      "anchor": "Das Theaterstück gibt Alvy das verweigerte glückliche Ende.",
       "interest": "Erfasst die bewusste Umgestaltung der Schlussgeschichte.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Theaterstück gibt Alvy das verweigerte glückliche Ende."
     },
     {
       "code": "Y",
@@ -179,11 +179,11 @@
       ],
       "short": "Die Erstveröffentlichung war 1977.",
       "context": "Der Stadtneurotiker erschien 1977. Zwei Jahre später, 1979, veröffentlichten Ralph Rosenblum und Robert Karen When the Shooting Stops…The Cutting Begins. Das AFI zieht diese Schnittmemoiren für die Entstehungsgeschichte des Films heran. Der Abstand verbindet das fertige Werk mit einer späteren Darstellung seiner Bearbeitung: Rosenblum beschreibt, wie das Material im Schnitt zur konzentrierten Beziehungsgeschichte wurde. Das Buchjahr ist damit eine zusätzliche Station der Werkgeschichte, nicht das Filmjahr.",
-      "anchor": "1977 Film, 1979 Schnittmemoiren: zwei Jahre.",
       "interest": "Verbindet Veröffentlichung und spätere Darstellung des Schnittprozesses.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1977 Film, 1979 Schnittmemoiren: zwei Jahre."
     },
     {
       "code": "D",
@@ -202,13 +202,13 @@
       ],
       "short": "Woody Allen führte selbst Hauptregie.",
       "context": "Woody Allen führte bei Der Stadtneurotiker Regie und spielte Alvy Singer. Diane Keaton verkörpert Annie Hall. Gemeinsam mit Marshall Brickman schrieb Allen außerdem das Drehbuch, dessen Autorencredit von der Regie zu unterscheiden ist. Die Inszenierung verbindet direkte Publikumsansprache, Rückblenden und sichtbar gemachte Gedanken zu einer Erinnerung an die Beziehung. Alvys Darstellung erhält dadurch mehrere Formen, ohne dass seine persönliche Sicht zur einzigen möglichen Wahrnehmung der Ereignisse wird.",
-      "anchor": "Woody Allen inszeniert die Zusammenarbeit mit Diane Keaton.",
       "interest": "Ordnet die Regiezusammenarbeit mit Diane Keaton ein.",
       "sources": [
         "afi"
       ],
       "knowledge_id": "K-SCHAUSPIELER-202610-P01-070-S-1",
-      "variant_of": "SCHAUSPIELER-202610-P01-070-S-1"
+      "variant_of": "SCHAUSPIELER-202610-P01-070-S-1",
+      "objective": "Woody Allen inszeniert die Zusammenarbeit mit Diane Keaton."
     }
   ]
 }

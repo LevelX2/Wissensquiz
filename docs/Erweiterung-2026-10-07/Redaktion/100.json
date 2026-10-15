@@ -40,12 +40,12 @@
       ],
       "short": "Der neue Fall soll seinen früheren Bucherfolg erneuern.",
       "context": "Ellison Oswalt (Ethan Hawke) schreibt über reale Verbrechen. Er hofft, mit dem Fall einen früheren Erfolg zu wiederholen. Seine Familie wird dadurch Teil einer beruflichen Rechercheentscheidung. Die mögliche Anerkennung als Autor erschwert ihm, rechtzeitig zu erkennen, welchen Preis andere für seine Arbeit zahlen könnten.",
-      "anchor": "Ellisons Hoffnung auf den nächsten Bucherfolg bestimmt den Wohnort der Familie.",
       "interest": "Verbindet die Ausgangsentscheidung mit beruflichem Ehrgeiz und familiärer Verantwortung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ellisons Hoffnung auf den nächsten Bucherfolg bestimmt den Wohnort der Familie."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Die als Familienfilme beschrifteten Rollen zeigen die Verbrechen.",
       "context": "Ellison (Ethan Hawke) findet Schmalfilmrollen und einen Projektor. Die vertraute Form privater Familienaufnahmen enthält Bilder von Mord. Der Fund verbindet Dokument und Bedrohung: Er liefert Material für das geplante Buch, zieht den Betrachter aber zugleich immer weiter in die dargestellten Ereignisse hinein.",
-      "anchor": "Die Familienfilmform verbirgt Bilder von Verbrechen und verlockt zur weiteren Sichtung.",
       "interest": "Erklärt den Widerspruch zwischen häuslichem Filmformat und mörderischem Inhalt.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Familienfilmform verbirgt Bilder von Verbrechen und verlockt zur weiteren Sichtung."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Tracy kennt den tödlichen Hintergrund des Hauses zunächst nicht.",
       "context": "Tracy (Juliet Rylance) weiß zunächst nicht, dass Ellison (Ethan Hawke) sie an den Tatort gebracht hat. Sein Wissensvorsprung verhindert eine gemeinsam abgewogene Entscheidung. Wenn die Wahrheit bekannt wird, betrifft der Streit deshalb sowohl die gegenwärtige Gefahr als auch das bereits verletzte Vertrauen innerhalb der Familie.",
-      "anchor": "Ellisons verborgenes Tatortwissen verhindert die gemeinsame Entscheidung über den Einzug.",
       "interest": "Verbindet die verschwiegene Information mit dem Vertrauensbruch.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ellisons verborgenes Tatortwissen verhindert die gemeinsame Entscheidung über den Einzug."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Die Bilder sind nach der Erklärung mehr als harmlose Aufzeichnungen.",
       "context": "Professor Jonas (Vincent D’Onofrio) verbindet Bughuul (Nicholas King) mit Bildern, die Kinder betrachten. Die Filme besitzen dadurch nicht nur Beweiswert. Ellisons (Ethan Hawke) Suche nach genauer Sicht kann selbst den Weg der Bedrohung erweitern. Die Erklärung verändert die Rolle seines Forschungsmaterials grundlegend.",
-      "anchor": "Die Bilder können Zugang eröffnen, statt nur vergangene Taten zu dokumentieren.",
       "interest": "Erklärt die kausale Rolle des Mediums innerhalb der Bedrohung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Bilder können Zugang eröffnen, statt nur vergangene Taten zu dokumentieren."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Der Wegzug setzt die Kette fort.",
       "context": "Der Polizist (James Ransone) erkennt, dass die Familien erst nach ihrem Wegzug aus dem vorherigen Tatort ermordet werden. Ellison (Ethan Hawke) hat den Rückzug bereits als Schutz verstanden. Die neue Information kehrt diese Entscheidung um: Das Verlassen des gefährlichen Hauses erfüllt gerade die Bedingung der nächsten Tat.",
-      "anchor": "Der vermeintlich rettende Wegzug setzt die tödliche Wohnortkette fort.",
       "interest": "Erklärt die Umkehr einer plausiblen Schutzentscheidung durch das aufgedeckte Muster.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der vermeintlich rettende Wegzug setzt die tödliche Wohnortkette fort."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Die fehlenden Kinder werden als Täter unter Bughuuls Einfluss sichtbar.",
       "context": "Die ergänzten Enden zeigen die zuvor verschwundenen Kinder als Täter. Ellison (Ethan Hawke) muss damit sein Ausgangsbild der Fälle ändern: Die Abwesenheit markierte nicht nur ein weiteres Opfer, sondern eine verborgene Beteiligung. Bughuuls Einfluss macht den Familienzusammenhang selbst zum Mittel ihrer Vernichtung.",
-      "anchor": "Die verschwundenen Kinder sind die verborgenen Täter der Familienmorde.",
       "interest": "Erklärt die Neubewertung eines wiederkehrenden Ermittlungsdetails.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die verschwundenen Kinder sind die verborgenen Täter der Familienmorde."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Sinister erschien 2012, zehn Jahre nach The Ring.",
       "context": "The Ring erschien 2002. C. Robert Cargill berichtete, dass der Film einen Albtraum über einen Dachboden und Schmalfilme auslöste. Sinister erschien 2012, zehn Jahre später. Der Vergleich erklärt ein konkretes wiederkehrendes Horrormotiv: Ein angesehenes Filmbild bleibt nicht bloß eine Beobachtung, sondern bringt die Bedrohung näher.",
-      "anchor": "2002 The Ring, 2012 Sinister: zehn Jahre von der Filmanregung zur eigenen Geschichte.",
       "interest": "Verbindet das Jahr mit einer belegten Entstehungsidee.",
       "sources": [
         "autor",
         "ring"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2002 The Ring, 2012 Sinister: zehn Jahre von der Filmanregung zur eigenen Geschichte."
     },
     {
       "code": "D",
@@ -209,12 +209,12 @@
       ],
       "short": "Derrickson inszenierte den Film.",
       "context": "Scott Derrickson führte Regie und entwickelte das Drehbuch mit C. Robert Cargill. Im Interview erklärt er, wie aus einer Wertschätzung für Cargills Filmkritiken der Kontakt und später die Zusammenarbeit entstand. Die Filmidee stammt aus dessen Albtraum; die gemeinsame Arbeit formte daraus Ellisons (Ethan Hawke) gefährliche Recherche.",
-      "anchor": "Derricksons Kontakt zum Filmkritiker Cargill wurde zur gemeinsamen Drehbucharbeit.",
       "interest": "Gibt dem Regiecredit einen konkreten Entstehungs- und Zusammenarbeitskontext.",
       "sources": [
         "regie"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Derricksons Kontakt zum Filmkritiker Cargill wurde zur gemeinsamen Drehbucharbeit."
     }
   ]
 }

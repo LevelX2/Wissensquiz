@@ -35,12 +35,12 @@
       ],
       "short": "Der Film parodiert die Edgar-Wallace-Verfilmungen.",
       "context": "Der Film parodiert die Edgar-Wallace-Verfilmungen. Maskierte Verbrecher, Scotland Yard und ein unheimliches Schloss liefern das vertraute Repertoire. Die Ermittlung benutzt diese Elemente für komische Übertreibung. Das Verständnis der Parodie setzt keinen einzelnen bekannten Roman voraus, wohl aber die Wiedererkennung dieser Filmwelt.",
-      "anchor": "Die Wallace-Welt liefert das Material für den Wixxer.",
       "interest": "Die Genretradition erklärt die Grundform der Komödie.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Wallace-Welt liefert das Material für den Wixxer."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Rather Short (Thomas Heinze) gilt als getötet.",
       "context": "Rather Short (Thomas Heinze) gilt als getötet. Even Longer (Oliver Kalkofe) bekommt deshalb Very Long (Bastian Pastewka) zugeteilt. Die neue Zusammenarbeit entsteht aus einem Verlust, dessen Wahrheitsgehalt später eine entscheidende Rolle spielt. Der Anfang legt damit sowohl die komische Ermittlerpaarung als auch den späteren Identitätskonflikt an.",
-      "anchor": "Der vermeintliche Verlust schafft das neue Ermittlerpaar.",
       "interest": "Die Partnerzuteilung besitzt eine Funktion für den ganzen Fall.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der vermeintliche Verlust schafft das neue Ermittlerpaar."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Schloss BlackWhite bildet eine Schwarzweißwelt im sonst farbigen Film.",
       "context": "Schloss BlackWhite bildet eine Schwarzweißwelt im sonst farbigen Film. Die Gestaltung lässt die ältere Kriminalfilmtradition buchstäblich in die neue Komödie hineinragen. Das Schloss ist daher nicht bloß ein weiterer Schauplatz: Sein Aussehen macht den historischen Filmverweis schon sichtbar, bevor ein konkretes Zitat erkannt wird.",
-      "anchor": "Im farbigen Wixxer bleibt BlackWhite schwarzweiß.",
       "interest": "Die Gestaltung übersetzt Filmgeschichte in einen Schauplatz.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Im farbigen Wixxer bleibt BlackWhite schwarzweiß."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Der Wixxer will die Londoner Unterwelt beherrschen.",
       "context": "Der Wixxer will die Londoner Unterwelt beherrschen. Er lässt konkurrierende Gangster ausschalten, sodass auch der verdächtige Earl of Cockwood (Thomas Fritsch) selbst gefährdet ist. Die Ermittler müssen deshalb zwischen möglichem Täter und bedrohtem Rivalen unterscheiden. Nicht jede kriminelle Figur gehört automatisch zur Seite des gesuchten Verbrechers.",
-      "anchor": "Andere Gangster sind zugleich Verdächtige und Opfer.",
       "interest": "Das Machtziel erklärt die Folge der Verbrechen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Andere Gangster sind zugleich Verdächtige und Opfer."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Rather Short (Thomas Heinze) hat den ursprünglichen Wixxer getötet und dessen Identität übernommen.",
       "context": "Rather Short (Thomas Heinze) hat den ursprünglichen Wixxer getötet und dessen Identität übernommen. Sein angenommener Tod war damit Teil der falschen Orientierung der Ermittler. Der Abschluss führt zum Anfang zurück: Der Verlust des Partners und die Suche nach dem maskierten Gegner betreffen tatsächlich dieselbe Person.",
-      "anchor": "Der verschwundene Partner steckt hinter der übernommenen Maske.",
       "interest": "Die Täteridentität verändert die Bedeutung des Auftakts.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der verschwundene Partner steckt hinter der übernommenen Maske."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Eine frühere Wixxer-Fassung war ein Hörspiel bei radio ffn.",
       "context": "Eine frühere Wixxer-Fassung war ein Hörspiel bei radio ffn. Die spätere Kinokomödie hatte damit schon eine komische Vorgeschichte außerhalb des Films. Die Figurenwelt wurde nicht zuerst als bloßes Kinoplakat entwickelt, sondern in einem Medium, das Stimmen und Erzählung ohne sichtbare Kulissen einsetzen musste.",
-      "anchor": "Der Wixxer hatte vor dem Kino eine Hörspielgeschichte.",
       "interest": "Der Medienwechsel erklärt die Vorgeschichte des Stoffes.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Wixxer hatte vor dem Kino eine Hörspielgeschichte."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Premiere in München am 10. Mai 2004; deutscher Kinostart am 20. Mai 2004.",
       "context": "2004 erschien „Der Wixxer“, vierzig Jahre nach dem Edgar-Wallace-Film „Der Hexer“ von 1964. Die Parodie greift dessen Kriminalfilmwelt auf, erzählt aber eine eigene komische Ermittlung. Die Verbindung zwischen „Hexer“ und „Wixxer“ ist deshalb ein zeitlicher Genreanker, keine Behauptung einer unveränderten Neuverfilmung. Die ältere Filmtradition und ihr späterer Kommentar bleiben getrennte Werke.",
-      "anchor": "Der Hexer 1964, Der Wixxer 2004: vierzig Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Der Hexer 1964, Der Wixxer 2004: vierzig Jahre später."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Tobi Baumann führte Regie, Oliver Kalkofe, Oliver Welke und Bastian Pastewka schrieben das Drehbuch.",
       "context": "Tobi Baumann führte Regie, Oliver Kalkofe, Oliver Welke und Bastian Pastewka schrieben das Drehbuch. Kalkofe und Pastewka spielen auch die Ermittler. Die bekannte Autoren- und Darstellergruppe ist damit von der Regie zu unterscheiden. Der Film verbindet die Kriminalfilmmotive mit einer bereits zuvor entwickelten komischen Figurenwelt.",
-      "anchor": "Baumann inszeniert das Drehbuch der drei Comedy-Autoren.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Baumann inszeniert das Drehbuch der drei Comedy-Autoren."
     }
   ]
 }

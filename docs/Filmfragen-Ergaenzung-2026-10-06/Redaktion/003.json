@@ -37,13 +37,13 @@
       ],
       "short": "Ann Darrow ist eine arbeitslos gewordene Varietékünstlerin.",
       "context": "Ann Darrow (Naomi Watts) verliert mit der Schließung ihrer Revue ihr Einkommen. Carl Denham (Jack Black) bietet ihr daraufhin eine Filmrolle an. Ihre Bühnenfertigkeiten bleiben für die Reise bedeutsam: Ann ist keine Forscherin, sondern eine Darstellerin, die später mit Bewegung und Komik Kontakt zu Kong aufnehmen kann.",
-      "anchor": "Naomi Watts’ Ann bringt Varietéfertigkeiten auf die Insel mit.",
       "interest": "Der Beruf verbindet die soziale Ausgangslage mit dem späteren Kontakt zur Kreatur.",
       "sources": [
         "tiere",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Naomi Watts’ Ann bringt Varietéfertigkeiten auf die Insel mit."
     },
     {
       "code": "L2",
@@ -62,14 +62,14 @@
       ],
       "short": "Jack Driscoll ist in dieser Fassung ein Dramatiker und Drehbuchautor.",
       "context": "Ann Darrow (Naomi Watts) kennt die Arbeiten von Jack Driscoll (Adrien Brody), bevor sie ihm begegnet. Sein Name hilft Carl Denham (Jack Black), sie für die Reise zu gewinnen. Der Autor fährt schließlich mit. Damit erhält Jack einen anderen Ausgangspunkt als der gleichnamige Seemann in der ursprünglichen Filmfassung.",
-      "anchor": "Brodys Jack schreibt; der Jack des Originals fährt als Offizier.",
       "interest": "Eine wichtige Rollenänderung grenzt die Neuverfilmung vom Original ab.",
       "sources": [
         "afi",
         "handlung",
         "original"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Brodys Jack schreibt; der Jack des Originals fährt als Offizier."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Ann setzt ihre Varietékomik ein und unterhält Kong.",
       "context": "Ann Darrow (Naomi Watts) kann Kong nicht mit gewöhnlichen Argumenten erreichen. Sie beginnt stattdessen, ihn mit ihrer körperlichen Bühnenkunst zu beschäftigen. Die Begegnung knüpft an ihren früheren Beruf an und verändert das Verhältnis zwischen beiden: Aus bloßer Gefangenschaft entsteht ein wechselseitiger Kontakt, der spätere Rettungen verständlicher macht.",
-      "anchor": "Anns Varietékomik öffnet einen Zugang zu Kong.",
       "interest": "Eine Handlung erklärt den Wandel einer Figurenbeziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Anns Varietékomik öffnet einen Zugang zu Kong."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Ann lehnt die Mitwirkung an Denhams Kong-Schau ab.",
       "context": "Carl Denham (Jack Black) will Kong am Broadway als Attraktion vermarkten. Ann Darrow (Naomi Watts) macht dabei nicht mit; eine andere Frau übernimmt auf der Bühne ihre Rolle. Der Film trennt dadurch Anns Beziehung zur Kreatur von Denhams Geschäftsinteresse. Das Publikum sieht eine nachgestellte Rettung, während das gefangene Tier Ann selbst sucht.",
-      "anchor": "Ann verweigert die Show; Denham ersetzt sie auf der Bühne.",
       "interest": "Die unterschiedliche Haltung der Figuren verdeutlicht den Konflikt um die Schaustellung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ann verweigert die Show; Denham ersetzt sie auf der Bühne."
     },
     {
       "code": "S1",
@@ -136,13 +136,13 @@
       ],
       "short": "Andy Serkis liefert die Performance für Kong.",
       "context": "Kong ist bei Wētā eine digitale Figur. Seine Darstellung verbindet aufgezeichnetes Schauspiel mit zusätzlicher Animation, statt allein automatisch Bewegungen zu kopieren. Andy Serkis trägt zur körperlichen und emotionalen Gestaltung bei. Das Ergebnis erklärt, wie ein Wesen ohne gesprochenen Dialog zugleich als riesiges Tier und als handelnde Figur wirken kann.",
-      "anchor": "Serkis’ Spiel und Wētās Animation formen den digitalen Kong.",
       "interest": "Die Frage verbindet Schauspiel mit dem Verständnis digitaler Figuren.",
       "sources": [
         "serkis",
         "weta"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Serkis’ Spiel und Wētās Animation formen den digitalen Kong."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Die Kreaturen im Abgrund erweitern die bekannte verworfene Spinnenidee des Originals.",
       "context": "Die Männer geraten nach dem Sturz in die Schlucht zwischen riesige kriechende Kreaturen. Diese Passage greift Material auf, das mit einer verworfenen Spinnenszene des ursprünglichen „King Kong“ verbunden ist. Der Bezug betrifft eine zusätzliche Gefahr für die Suchtruppe; er bedeutet nicht, dass die Szene in der regulären Originalfassung enthalten wäre.",
-      "anchor": "Jackson baut die verworfene Abgrundidee als neue Kreaturenszene aus.",
       "interest": "Ein konkreter Vergleich erklärt, wie eine Neuverfilmung fehlendes Material neu gestaltet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jackson baut die verworfene Abgrundidee als neue Kreaturenszene aus."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "Die Neuverfilmung mit Naomi Watts wurde 2005 veröffentlicht.",
       "context": "2005 erschien diese „King Kong“-Fassung, 72 Jahre nach dem Original von 1933. Trotz des großen technischen Abstands bleibt die Geschichte in der alten Epoche angesiedelt. Der zeitliche Anker liegt deshalb zwischen den Veröffentlichungen, nicht zwischen den Handlungen: Moderne digitale Effekte erzählen erneut ein Abenteuer im New York der 1930er-Jahre.",
-      "anchor": "2005 folgt der neue Kong dem Original von 1933 mit 72 Jahren Abstand.",
       "interest": "Der Abstand der Neuverfilmung schafft einen verständlichen zeitlichen Anker.",
       "sources": [
         "studio",
         "original",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2005 folgt der neue Kong dem Original von 1933 mit 72 Jahren Abstand."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Peter Jackson führte bei dieser Neuverfilmung Regie.",
       "context": "Peter Jackson arbeitet für „King Kong“ erneut mit einem großen digitalen Effektapparat. Die Geschichte folgt dem ursprünglichen Abenteuer, gestaltet den Kontakt von Ann Darrow (Naomi Watts) und Kong aber ausführlicher. Jacksons Hauptregie und Wētās Figurenarbeit erfüllen dabei verschiedene Aufgaben: Die Inszenierung führt die Geschichte, die Animation macht die Kreatur sichtbar.",
-      "anchor": "Jackson inszeniert die Neuverfilmung; Wētā gestaltet die digitale Kreatur.",
       "interest": "Regie und Effektarbeit werden mit einem konkreten Filmzusammenhang verbunden.",
       "sources": [
         "studio",
         "weta"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jackson inszeniert die Neuverfilmung; Wētā gestaltet die digitale Kreatur."
     }
   ]
 }

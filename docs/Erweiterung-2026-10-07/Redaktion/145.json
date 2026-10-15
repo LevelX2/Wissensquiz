@@ -35,12 +35,12 @@
       ],
       "short": "Die Gruppe soll drei mit Toyotomi verbündete Kriegsherren töten.",
       "context": "Die Gruppe soll drei mit Toyotomi verbündete Kriegsherren töten. Die Ausbildung dient einem politischen Zweck und einem geplanten Frieden. Das macht die jungen Kämpfer nicht zu frei handelnden Abenteurern. Ihr Auftraggeber entscheidet, wessen Tod als notwendig gelten soll; persönliche Erfahrungen während der Reise passen nicht immer zu dieser Vorgabe.",
-      "anchor": "Die Ausbildung mündet in eine politische Tötungsmission.",
       "interest": "Der Auftrag definiert die Reise.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Ausbildung mündet in eine politische Tötungsmission."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Die Schüler werden paarweise verbunden und müssen den jeweils engsten Partner töten.",
       "context": "Die Schüler werden paarweise verbunden und müssen den jeweils engsten Partner töten. Azumi (Aya Ueto) verliert so Nachi (Shun Oguri). Die Prüfung beseitigt persönliche Bindungen schon vor dem eigentlichen Auftrag. Sie fordert nicht lediglich Können, sondern Bereitschaft, den Befehl über das eigene Gefühl zu stellen.",
-      "anchor": "Die letzte Prüfung zerstört gerade die engste Bindung.",
       "interest": "Die Ausbildung zeigt früh ihren persönlichen Preis.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die letzte Prüfung zerstört gerade die engste Bindung."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Die politische Hauptmission erhält Vorrang vor der unmittelbaren Hilfe.",
       "context": "Die politische Hauptmission erhält Vorrang vor der unmittelbaren Hilfe. Azumi (Aya Ueto) erlebt dadurch einen Widerspruch zwischen angekündigtem Frieden und konkretem Leid. Der Befehl verlangt, eine sichtbare Gewalttat hinzunehmen. Die Szene prüft nicht ihre Kampffähigkeit, sondern die moralische Bedeutung des Gehorsams.",
-      "anchor": "Der Friedensauftrag verlangt zunächst, den Überfall hinzunehmen.",
       "interest": "Eine konkrete Situation macht den Zweck-Mittel-Konflikt sichtbar.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Friedensauftrag verlangt zunächst, den Überfall hinzunehmen."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Der erste Erfolg betrifft einen Doppelgänger von Kato Kiyomasa (Naoto Takenaka).",
       "context": "Der erste Erfolg betrifft einen Doppelgänger von Kato Kiyomasa (Naoto Takenaka). Das sichtbare Ergebnis bestätigt deshalb nicht den tatsächlichen Erfolg des Auftrags. Die Täuschung zwingt Azumi (Aya Ueto), den Gegner später erneut zu suchen. Eine überstandene Auseinandersetzung und ein erfülltes Ziel sind hier zwei verschiedene Dinge.",
-      "anchor": "Der scheinbare Erfolg trifft nur den Doppelgänger.",
       "interest": "Die Täuschung verschiebt das zentrale Ziel.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der scheinbare Erfolg trifft nur den Doppelgänger."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Bijomaru (Joe Odagiri) führt ein Schwert ohne Handschutz und behauptet, niemals verteidigen zu müssen.",
       "context": "Bijomaru (Joe Odagiri) führt ein Schwert ohne Handschutz und behauptet, niemals verteidigen zu müssen. Azumi (Aya Ueto) zwingt ihn schließlich dazu. Der Kampf widerlegt damit die Selbstdarstellung des Gegners durch eine konkrete Handlung. Seine Ausrüstung ist zugleich Zeichen seiner Überlegenheit und der Angriffspunkt dieser demonstrierten Gewissheit.",
-      "anchor": "Azumi zwingt den angeblich unangreifbaren Gegner zur Abwehr.",
       "interest": "Eine Behauptung wird im Kampf praktisch widerlegt.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Azumi zwingt den angeblich unangreifbaren Gegner zur Abwehr."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Gessai (Yoshio Harada) rät Azumi (Aya Ueto), den Weg des Tötens zu verlassen.",
       "context": "Gessai (Yoshio Harada) rät Azumi (Aya Ueto), den Weg des Tötens zu verlassen. Damit verändert er am Ende die Orientierung, die er ihr während der Ausbildung gegeben hat. Der Rat öffnet die Möglichkeit eines eigenen Lebens. Azumis anschließendes Handeln lässt jedoch erkennen, wie schwer die erlernte Mission abzulegen ist.",
-      "anchor": "Der Ausbilder empfiehlt zuletzt ein Leben jenseits seines Auftrags.",
       "interest": "Die letzte Anweisung widerspricht der bisherigen Ausbildung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Ausbilder empfiehlt zuletzt ein Leben jenseits seines Auftrags."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Japanischer Kinostart am 10. Mai 2003; erste Realverfilmung der Manga-Reihe.",
       "context": "„Azumi“ erschien 2003, die Fortsetzung „Azumi 2: Death or Love“ folgte 2005. Zwischen beiden Filmen liegen zwei Jahre. Aya Ueto spielt in beiden die Titelheldin, während die Regie wechselt. Die Folge verbindet das Jahr des ersten Einsatzes mit der späteren Weiterführung ihrer Geschichte, ohne die Fortsetzung als dieselbe Veröffentlichung zu behandeln.",
-      "anchor": "Azumi 2003, Azumi 2 2005: zwei Jahre bis zur Fortsetzung.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Azumi 2003, Azumi 2 2005: zwei Jahre bis zur Fortsetzung."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "Ryuhei Kitamura inszenierte die erste „Azumi“-Verfilmung.",
       "context": "Ryuhei Kitamura inszenierte die erste „Azumi“-Verfilmung. Aya Ueto verkörpert eine junge Kämpferin, deren Ausbildung Gehorsam und persönliche Bindung gegeneinander ausspielt. Die Kamera führte Takumi Furuya. Kitamuras Film legt die politische Tötungsmission neben die Folgen dieser Ausbildung: Ein gelungener Auftrag beantwortet nicht automatisch die Frage nach dem eigenen Leben.",
-      "anchor": "Kitamura verbindet die Tötungsmission mit dem Preis der Ausbildung.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kitamura verbindet die Tötungsmission mit dem Preis der Ausbildung."
     }
   ]
 }

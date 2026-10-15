@@ -35,12 +35,12 @@
       ],
       "short": "Allan nimmt den Koffer mit dem Geld der Gangster mit.",
       "context": "Allan Karlsson (Robert Gustafsson) soll kurz auf einen fremden Koffer achten. Als sein Bus kommt, nimmt er ihn mit. Der Zufall macht aus seinem ungeplanten Aufbruch eine Verfolgungsgeschichte. Allan begreift die Tragweite nicht sofort; für die Besitzer hängt dagegen eine große Summe an dem scheinbar harmlosen Reisenden.",
-      "anchor": "Ein wartender Koffer verwandelt die Reise in eine Gangsterjagd.",
       "interest": "Ein wartender Koffer verwandelt die Reise in eine Gangsterjagd.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein wartender Koffer verwandelt die Reise in eine Gangsterjagd."
     },
     {
       "code": "L2",
@@ -59,13 +59,13 @@
       ],
       "short": "Allan besitzt eine große Leidenschaft und praktische Erfahrung für Sprengungen.",
       "context": "Allan Karlsson (Robert Gustafsson) begegnet der Welt ohne ausgefeilte politische Pläne. Seine Freude an Sprengstoff bringt ihn jedoch wiederholt an Orte, an denen Geschichte gemacht wird. Die Rückblicke stellen eine technische Fähigkeit neben sein unbekümmertes Verhalten und erzeugen daraus unwahrscheinliche Begegnungen und Folgen.",
-      "anchor": "Allans Sprengkenntnisse führen ihn mitten in die Weltgeschichte.",
       "interest": "Allans Sprengkenntnisse führen ihn mitten in die Weltgeschichte.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Allans Sprengkenntnisse führen ihn mitten in die Weltgeschichte."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Gunilla lebt mit dem Elefanten Sonja.",
       "context": "Allan Karlsson (Robert Gustafsson), Julius (Iwar Wiklander) und Benny (David Wiberg) erreichen Gunillas (Mia Skäringer) Hof. Sonja ist dort kein bloß exotisches Dekor: Der Elefant gehört zur neuen Reisegemeinschaft und verschärft die Unwahrscheinlichkeit ihrer Flucht. Die Gegenwartsgeschichte nimmt dadurch ebenso absurde Formen an wie die historischen Rückblicke.",
-      "anchor": "Sonja macht aus der Flucht eine Elefantenreise.",
       "interest": "Sonja macht aus der Flucht eine Elefantenreise.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Sonja macht aus der Flucht eine Elefantenreise."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Nach der Sprengung des Fuchses greifen die Behörden ein.",
       "context": "Allan Karlsson (Robert Gustafsson) verliert seine Katze Molotov an einen Fuchs. Seine Rache mit Dynamit hat eine unerwartete persönliche Folge: Die Behörden bringen ihn ins Heim. So bereitet eine vertraute Eigenschaft der Figur ihren späteren Aufbruch vor, lange bevor der Geldkoffer die Gangsterhandlung eröffnet.",
-      "anchor": "Die Dynamitrache am Fuchs führt Allan ins Altersheim.",
       "interest": "Die Dynamitrache am Fuchs führt Allan ins Altersheim.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Dynamitrache am Fuchs führt Allan ins Altersheim."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Allan stoppt Francos Wagen vor der Brücke, die er zuvor zur Sprengung vorbereitet hat.",
       "context": "Allan Karlsson (Robert Gustafsson) soll im Spanischen Bürgerkrieg Brücken sprengen. Kurz vor der Explosion hält er Francos Wagen an. Damit erscheint er ausgerechnet dem gegnerischen General als Lebensretter. Die Szene zeigt, wie sein praktisch-unpolitisches Handeln eine Rolle erhält, die er nicht aus einer bewussten Parteientscheidung gewählt hat.",
-      "anchor": "Die vorbereitete Explosion macht den Sprenger zum unerwarteten Retter.",
       "interest": "Die vorbereitete Explosion macht den Sprenger zum unerwarteten Retter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die vorbereitete Explosion macht den Sprenger zum unerwarteten Retter."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die aktuelle Flucht wird mit Rückblicken durch ein Jahrhundert verschränkt.",
       "context": "Allan Karlsson (Robert Gustafsson) trägt eine lange Vergangenheit in die kurze Reise nach seinem Geburtstag hinein. Die wechselnden Zeitebenen zeigen, wie dieselbe Gelassenheit und dieselbe Sprengstoffbegeisterung in neuen politischen Umständen wirken. Es sind Lebensphasen einer Figur, keine gleichzeitig existierenden Doppelgänger.",
-      "anchor": "Der aktuelle Reisende und der historische Zufallsheld sind derselbe Allan.",
       "interest": "Der aktuelle Reisende und der historische Zufallsheld sind derselbe Allan.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der aktuelle Reisende und der historische Zufallsheld sind derselbe Allan."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2013.",
       "context": "Die Verfilmung erschien 2013, vier Jahre nach Jonas Jonassons Roman von 2009. Die Berlinale-Vorführung folgte erst 2014, ein Jahr nach dem Filmstart. Die Adaption verbindet Allans Gegenwartsreise mit historischen Rückblicken; die ältere Buchvorlage und das spätere Festivaldatum begründen deshalb keine anderen Filmjahre.",
-      "anchor": "Roman 2009, Film 2013, Berlinale 2014: vier Jahre zur Adaption, ein weiteres zum Festival.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Roman 2009, Film 2013, Berlinale 2014: vier Jahre zur Adaption, ein weiteres zum Festival.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 2009, Film 2013, Berlinale 2014: vier Jahre zur Adaption, ein weiteres zum Festival."
     },
     {
       "code": "D",
@@ -205,14 +205,14 @@
       ],
       "short": "Der Regiecredit lautet Felix Herngren.",
       "context": "Felix Herngren inszenierte die Verfilmung des Romans von Jonas Jonasson. Robert Gustafsson spielt Allan Karlsson in verschiedenen Lebensphasen. Die Verbindung aus aktueller Fluchtgeschichte und historischen Rückblicken macht die Figur zugleich zum Flüchtigen und zum unwahrscheinlichen Zeugen weltpolitischer Ereignisse.",
-      "anchor": "Felix Herngren: Robert Gustafsson spielt Allan Karlsson in verschiedenen Lebensphasen.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Felix Herngren: Robert Gustafsson spielt Allan Karlsson in verschiedenen Lebensphasen."
     }
   ]
 }

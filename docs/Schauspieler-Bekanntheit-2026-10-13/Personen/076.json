@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Maria ist Bernardos jüngere Schwester.",
       "context": "Bernardo möchte, dass Maria seinen Freund Chino heiratet. Beim Tanzabend verliebt sie sich jedoch in Tony (Richard Beymer), der mit den rivalisierenden Jets verbunden ist. Die Geschwisterbeziehung bindet Marias Liebesgeschichte unmittelbar an den Konflikt der beiden Gruppen.",
-      "anchor": "Maria liebt Tony und ist zugleich die Schwester des Sharks-Anführers.",
       "interest": "Die familiäre Beziehung erklärt einen entscheidenden Teil des Liebeskonflikts.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-MUS-202609-P01-M-016",
       "variant_of": "MUS-202609-P01-M-016",
-      "knowledge_note": "Identisches Geschwisterverhältnis Maria/Bernardo in der Fassung von 1961."
+      "knowledge_note": "Identisches Geschwisterverhältnis Maria/Bernardo in der Fassung von 1961.",
+      "objective": "Maria liebt Tony und ist zugleich die Schwester des Sharks-Anführers."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 1,
       "short": "Susan wünscht sich ein richtiges Haus.",
       "context": "Ihre Mutter Doris (Maureen O’Hara) erzieht Susan zu nüchternem Denken und lehnt Weihnachtsmannmärchen ab. Susan zeigt Kris ein Bild ihres Traumhauses. Als sie später genau dieses Haus entdeckt, bekommt die Frage nach seinem Weihnachtsmannsein für sie eine ganz persönliche Bedeutung.",
-      "anchor": "Susans Weihnachtswunsch ist ein Haus.",
       "interest": "Der Kinderauftritt wird über einen konkreten Wunsch statt über einen Besetzungsnamen erschlossen.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25270-MIRACLE-ON-34TH-STREET"
-      ]
+      ],
+      "objective": "Susans Weihnachtswunsch ist ein Haus."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 0,
       "short": "Judy erlebt die Zurückweisung ihrer Zuneigung durch den Vater.",
       "context": "Bereits auf der Polizeiwache erzählt Judy von der Kälte zu Hause. Ihr Vater reagiert abweisend, wenn sie ihn küsst, weil er ihre Entwicklung zur jungen Frau nicht akzeptiert. Bei Jim (James Dean) und Plato (Sal Mineo) findet sie andere Jugendliche, denen ihre Familien ebenfalls wenig Halt geben.",
-      "anchor": "Judy sucht die väterliche Nähe, die ihr plötzlich verweigert wird.",
       "interest": "Das Familiendrama erklärt die Verletzlichkeit hinter der Jugendlichenrolle.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/51633-REBEL-WITHOUT-A-CAUSE"
-      ]
+      ],
+      "objective": "Judy sucht die väterliche Nähe, die ihr plötzlich verweigert wird."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 3,
       "short": "Die frühere Liebe lässt sich nicht wiederherstellen.",
       "context": "Deanie hat nach dem Ende der Beziehung einen Zusammenbruch und eine lange Behandlung erlebt. Bud musste ebenfalls schwere Verluste hinnehmen und lebt inzwischen mit Frau und Kind auf einer Farm. Das Wiedersehen bedeutet für Deanie keine Rückkehr zum alten Glück, sondern die Möglichkeit, eine andere Zukunft anzunehmen.",
-      "anchor": "Deanie und Bud begegnen sich wieder, aber ihre gemeinsame Vergangenheit ist vorbei.",
       "interest": "Der Blick auf das Ende vertieft die tragische Jugendliebe.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/19329-SPLENDOR-IN-THE-GRASS"
-      ]
+      ],
+      "objective": "Deanie und Bud begegnen sich wieder, aber ihre gemeinsame Vergangenheit ist vorbei."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 1,
       "short": "Louise wird als Gypsy Rose Lee im Burlesque berühmt.",
       "context": "Ihre Mutter Rose (Rosalind Russell) hat zunächst Schwester June zum Kinderstar machen wollen. Nach Junes Weggang steht Louise im Mittelpunkt, doch die alten Auftritte finden kaum noch Publikum. In einem Burlesquetheater ersetzt Louise eine ausgefallene Stripperin und entwickelt eine eigene, erfolgreiche Bühnenpersönlichkeit.",
-      "anchor": "Louise findet als Gypsy Rose Lee ihren eigenen Bühnenweg.",
       "interest": "Der Berufswechsel erklärt zugleich die Loslösung von der ehrgeizigen Mutter.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/22805-GYPSY"
-      ]
+      ],
+      "objective": "Louise findet als Gypsy Rose Lee ihren eigenen Bühnenweg."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 2,
       "short": "Das Gerät macht fremde Sinnesempfindungen nacherlebbar.",
       "context": "Karen verkleinert die zunächst sperrige Kopfausrüstung. Die Technik überträgt nicht bloß Bilder und Töne, sondern auch körperliche Erfahrungen. Sie hilft Karen und Michael Brace (Christopher Walken), einander emotional wieder näherzukommen, wird jedoch zugleich für militärische Manipulation missbraucht.",
-      "anchor": "Brainstorm zeichnet Erleben auf und lässt andere daran teilhaben.",
       "interest": "Die technische Idee wird mit Woods Figur und der Beziehungshandlung verbunden.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/57864"
-      ]
+      ],
+      "objective": "Brainstorm zeichnet Erleben auf und lässt andere daran teilhaben."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 3,
       "short": "Marni Nixon sang überwiegend für Maria.",
       "context": "Die Filmfassung trennt bei dieser Rolle sichtbare Darstellung und Gesangsstimme. Wood verkörpert Maria vor der Kamera, Nixon trägt den überwiegenden Teil ihrer Gesangspartien bei. Das AFI dokumentiert diese stimmliche Mitarbeit ebenso wie die Gesangsdoubles weiterer Hauptrollen.",
-      "anchor": "Maria hat Natalie Woods Gesicht und überwiegend Marni Nixons Gesangsstimme.",
       "interest": "Die Unterscheidung klärt eine wichtige musikalische Produktionsleistung.",
       "feedback": [
         "",
@@ -199,7 +198,8 @@
       ],
       "knowledge_id": "K-MUS-202609-P01-S-015",
       "variant_of": "MUS-202609-P01-S-015",
-      "knowledge_note": "Identisches Wissensziel Maria/Natalie Wood/englische Gesangsstimme Marni Nixon."
+      "knowledge_note": "Identisches Wissensziel Maria/Natalie Wood/englische Gesangsstimme Marni Nixon.",
+      "objective": "Maria hat Natalie Woods Gesicht und überwiegend Marni Nixons Gesangsstimme."
     },
     {
       "code": "E2",
@@ -213,7 +213,6 @@
       "correct": 0,
       "short": "Die Produktion verwendete ihre vorhandenen Szenen und passte das Drehbuch an.",
       "context": "Regisseur Douglas Trumbull setzte sich gegen einen Abbruch ein. Wood hatte den größten Teil ihrer wichtigen Szenen bereits gedreht. Nach Verhandlungen mit den Versicherern wurden 1982 weitere Aufnahmen finanziert; Beziehungen und Aufgaben einzelner Figuren wurden geändert. Der Film kam 1983 heraus.",
-      "anchor": "Brainstorm wurde mit Woods bereits gedrehten Szenen und gezielten Änderungen vollendet.",
       "interest": "Die Produktionsgeschichte zeigt den Umgang mit einem schwerwiegenden Ausfall.",
       "feedback": [
         "",
@@ -226,7 +225,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/57864"
-      ]
+      ],
+      "objective": "Brainstorm wurde mit Woods bereits gedrehten Szenen und gezielten Änderungen vollendet."
     }
   ]
 }

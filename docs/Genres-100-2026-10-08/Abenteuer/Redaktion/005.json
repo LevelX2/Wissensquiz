@@ -31,12 +31,12 @@
       ],
       "short": "Sokurah verkleinert Parisa durch einen Zauber.",
       "context": "Prinzessin Parisa (Kathryn Grant) bleibt dieselbe Person, verliert aber ihre normale Größe. Dadurch wird die geplante Hochzeit gefährdet und eine neue Expedition notwendig. Die äußerlich kleine Figur erhält zugleich eine wichtige Handlungsmacht, wenn ihre Größe an anderen Stellen zum Vorteil wird.",
-      "anchor": "Parisa wird klein – das Abenteuer wird größer.",
       "interest": "Der Zauber setzt die neue Reise in Gang.",
       "sources": [
         "handlung",
         "studio"
-      ]
+      ],
+      "objective": "Parisa wird klein – das Abenteuer wird größer."
     },
     {
       "code": "L2",
@@ -55,11 +55,11 @@
       ],
       "short": "Die benötigte Eierschale gibt es auf Colossa.",
       "context": "Sindbad (Kerwin Mathews) soll eine Schale des Vogels Roch beschaffen, die für den Gegenzauber benötigt wird. Die Rückkehr nach Colossa führt ihn erneut zu den Wesen, vor denen er schon einmal entkommen ist. Ein Rettungsziel bindet die Reise an einen konkret gefährlichen Ort.",
-      "anchor": "Parisahs Heilmittel führt nach Colossa.",
       "interest": "Die Reise hat einen nachvollziehbaren Zweck jenseits bloßer Schatzsuche.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Parisahs Heilmittel führt nach Colossa."
     },
     {
       "code": "M1",
@@ -78,11 +78,11 @@
       ],
       "short": "Sokurah will die Lampe zurückholen, die beim Zyklopen blieb.",
       "context": "Sokurah (Torin Thatcher) hat beim ersten Aufenthalt auf Colossa seine Lampe verloren. Seine scheinbare Hilfe bei Parisas (Kathryn Grant) Verkleinerung dient deshalb einem eigenen Plan. Die Rettung der Prinzessin und das Interesse des Magiers führen zwar an denselben Ort, verfolgen aber unterschiedliche Ziele.",
-      "anchor": "Sokurah braucht Colossa wegen der Lampe.",
       "interest": "Der verborgene Zweck erklärt die Manipulation der Reisegruppe.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Sokurah braucht Colossa wegen der Lampe."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Parisa verspricht Barani die Freiheit.",
       "context": "Die verkleinerte Parisa (Kathryn Grant) kann die Lampe betreten und begegnet Barani (Richard Eyer). Ihre Bindung an ihn beruht auf einem Freiheitsversprechen. Der Geist ist damit eine Figur mit eigenem Wunsch und nicht nur ein beliebig verfügbares Zauberwerkzeug.",
-      "anchor": "Barani hilft, weil Parisa Freiheit verspricht.",
       "interest": "Das Versprechen gibt der magischen Hilfe eine eigene Motivation.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Barani hilft, weil Parisa Freiheit verspricht."
     },
     {
       "code": "S1",
@@ -124,11 +124,11 @@
       ],
       "short": "Die Zerstörung der Lampe in Lava befreit Barani.",
       "context": "Sindbad (Kerwin Mathews) und Parisa (Kathryn Grant) verzichten auf die weitere Verfügung über die Wunderlampe. Sie halten das Versprechen gegenüber Barani (Richard Eyer), indem sie das mächtige Objekt zerstören. Hilfe wird hier mit Freiheit beantwortet und nicht mit dauerhafter Unterordnung.",
-      "anchor": "Lampe zerstört – Barani frei.",
       "interest": "Der Schluss dieser Beziehung setzt eine moralische Entscheidung vor magischen Besitz.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Lampe zerstört – Barani frei."
     },
     {
       "code": "S2",
@@ -147,11 +147,11 @@
       ],
       "short": "The Skeleton Dance lieferte einen frühen Anstoß für das Skelettduell.",
       "context": "Ray Harryhausen hatte Disneys The Skeleton Dance als Kind gesehen. Später fragte er sich, wie ein animiertes Skelett gegen einen echten Darsteller kämpfen könnte. Das Duell mit Sindbad (Kerwin Mathews) verbindet so eine Kindheitserfahrung mit der Kombination von Modellanimation und Realfilm.",
-      "anchor": "Disneys Skeletttanz führt zu Harryhausens Skelettduell.",
       "interest": "Die belegte Entstehungsgeschichte erklärt eine prägende Trickidee.",
       "sources": [
         "filmgeschichte"
-      ]
+      ],
+      "objective": "Disneys Skeletttanz führt zu Harryhausens Skelettduell."
     },
     {
       "code": "Y",
@@ -170,11 +170,11 @@
       ],
       "short": "Die erste Veröffentlichung war 1958.",
       "context": "1958 erscheint das erste von drei Sindbad-Abenteuern mit Ray Harryhausens Effekten. „Sindbads gefährliche Abenteuer“ folgt erst 1973, also fünfzehn Jahre später. Der große Abstand zeigt, dass diese Reihe nicht im jährlichen Fortsetzungsrhythmus entstand.",
-      "anchor": "1958 beginnt Harryhausens Sindbad-Reihe.",
       "interest": "Die zeitliche Stellung innerhalb einer bekannten Reihe verankert das Jahr.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "1958 beginnt Harryhausens Sindbad-Reihe."
     },
     {
       "code": "D",
@@ -193,12 +193,12 @@
       ],
       "short": "Regie führte Nathan Juran.",
       "context": "Nathan Juran ist für die Regie des Films verantwortlich. Ray Harryhausen entwickelt und animiert die berühmten Kreaturen; seine Effektarbeit wird dadurch nicht zum Regiecredit. Die Unterscheidung hilft, die Zusammenarbeit hinter einem Film mit besonders sichtbarer Trickgestaltung richtig zuzuordnen.",
-      "anchor": "Juran führt Regie – Harryhausen gestaltet Kreaturen.",
       "interest": "Die Frage trennt die künstlerischen Aufgaben des Teams.",
       "sources": [
         "studio",
         "filmgeschichte"
-      ]
+      ],
+      "objective": "Juran führt Regie – Harryhausen gestaltet Kreaturen."
     }
   ]
 }

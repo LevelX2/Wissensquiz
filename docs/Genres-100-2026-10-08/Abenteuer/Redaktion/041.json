@@ -32,11 +32,11 @@
       ],
       "short": "Buck wird in Kalifornien gestohlen und in den Norden verschifft.",
       "context": "Buck lebt zunächst behütet bei Judge Miller (Bradley Whitford). Der Diebstahl beendet dieses vertraute Zuhause, ohne dass das Tier selbst eine Reise gewählt hätte. Im Norden wird es zur Arbeitskraft für andere Menschen. Seine spätere Hinwendung zur Wildnis ist deshalb nicht mit dem Anfang gleichzusetzen: Zunächst verliert Buck die Sicherheit seines alten Lebens gegen seinen Willen.",
-      "anchor": "Bucks Reise beginnt mit einem Diebstahl.",
       "interest": "Der Einstieg unterscheidet erzwungene Ortsveränderung von der späteren eigenen Orientierung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Bucks Reise beginnt mit einem Diebstahl."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Perraults und Françoises Gespann stellt Post zu.",
       "context": "Perrault (Omar Sy) und Françoise (Cara Gee) führen Buck in die Arbeit eines Schlittenhundes ein. Der Postdienst verlangt Tempo, Zusammenarbeit und die Bewältigung gefährlicher Wege. Buck ist zunächst ein ungeschickter Neuling, wächst aber an dieser Verantwortung. Die Strecke wird so zu einer Schule des Handelns, bevor er später ganz andere Formen menschlicher Herrschaft erlebt.",
-      "anchor": "Das Postgespann wird Bucks erste Schule im Norden.",
       "interest": "Die Arbeitsaufgabe erklärt den Lern- und Reiseabschnitt als zusammenhängenden Teil seiner Entwicklung.",
       "sources": [
         "handlung",
         "studio"
-      ]
+      ],
+      "objective": "Das Postgespann wird Bucks erste Schule im Norden."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Buck setzt sich gegen Spitz durch und wird Leithund.",
       "context": "Spitz betrachtet Bucks wachsende Anerkennung als Bedrohung seiner Führungsrolle. Im Kampf wird die Unterstützung der anderen Hunde entscheidend; anschließend lassen sie den alten Platz nicht einfach unbesetzt. Perrault (Omar Sy) muss Bucks neue Stellung akzeptieren. Der Wechsel entsteht damit innerhalb des Gespanns, bevor der Mensch ihn bestätigt, und zeigt Bucks gewachsene Fähigkeit zur Führung.",
-      "anchor": "Das Gespann trägt Bucks Aufstieg mit.",
       "interest": "Der Führungswechsel verbindet persönlichen Konflikt mit dem Verhalten der Gruppe.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Gespann trägt Bucks Aufstieg mit."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Die Poststrecke wird durch die Telegraphie ersetzt.",
       "context": "Buck und das Gespann haben ihren Auftrag bewältigt, doch der Erfolg garantiert keine Fortsetzung. Perrault (Omar Sy) erfährt, dass die Telegraphie ihre Arbeit ersetzt. Die Hunde werden verkauft und gelangen an Hal (Dan Stevens). Dieser Übergang beruht auf einer Veränderung außerhalb des Gespanns; seine neue Notlage ist keine Folge mangelnder Leistung auf der bisherigen Route.",
-      "anchor": "Erfolgreiche Hunde verlieren ihre Arbeit an den Telegraphen.",
       "interest": "Technischer Wandel erklärt den Besitzerwechsel jenseits eines persönlichen Versagens.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Erfolgreiche Hunde verlieren ihre Arbeit an den Telegraphen."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Thornton behält nur einen kleinen Bedarf und wirft das meiste Gold zurück.",
       "context": "John Thornton (Harrison Ford) findet mit Buck einen abgeschiedenen Lebensraum und tatsächlich Gold. Sein Umgang damit widerspricht Hals (Dan Stevens) Annahme, jeder sei vor allem auf Reichtum aus. Thornton braucht etwas für die Heimkehr, hält aber am Schatz nicht fest. Das Abenteuer hat ihm einen anderen Wert erschlossen: die gemeinsame Zeit und die Bereitschaft, sich seiner eigenen Vergangenheit wieder zuzuwenden.",
-      "anchor": "Thornton findet Gold, aber keinen neuen Lebenszweck darin.",
       "interest": "Der Umgang mit dem Schatz grenzt zwei menschliche Lebenshaltungen konkret voneinander ab.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Thornton findet Gold, aber keinen neuen Lebenszweck darin."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Notary war Bucks Referenzdarsteller am Set; der sichtbare Hund entstand durch Animation.",
       "context": "Harrison Ford konnte beim Dreh auf einen anwesenden Partner reagieren, obwohl der fertige Buck digital entstand. Terry Notary lieferte dafür eine lebende Referenz. Die Filmeditoren unterscheiden diesen Ablauf ausdrücklich von einer vollständig übernommenen Motion-Capture-Performance: Menschen- und Hundekörper bewegen sich verschieden. Die Animation entwickelte die endgültige Tierdarstellung, während Notary den Darstellern und der Kamera Orientierung gab.",
-      "anchor": "Notary am Set – Buck aus der Animation.",
       "interest": "Der Produktionszusammenhang korrigiert die naheliegende Verwechslung von Referenzspiel und fertiger Tierperformance.",
       "sources": [
         "studio",
         "schnitt"
-      ]
+      ],
+      "objective": "Notary am Set – Buck aus der Animation."
     },
     {
       "code": "Y",
@@ -172,11 +172,11 @@
       ],
       "short": "Die erste Veröffentlichung erfolgte 2020.",
       "context": "2020 kam die Harrison-Ford-Fassung in die Kinos. Chris Sanders hatte schon 2002 die Figur Stitch mitgeschaffen und gesprochen; nun führte er reale Schauspieler und eine digitale Tierhauptfigur zusammen. Der Abstand von achtzehn Jahren verbindet zwei sehr verschiedene Produktionsformen seiner Arbeit. Disneys Bericht kündigte für Ruf der Wildnis den US-Start am 21. Februar an.",
-      "anchor": "2020: Sanders verbindet Ford mit dem digitalen Buck.",
       "interest": "Sanders’ Weg vom Animationsfilm zur Mischproduktion gibt dem Jahr einen filmbezogenen Anker.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "2020: Sanders verbindet Ford mit dem digitalen Buck."
     },
     {
       "code": "D",
@@ -195,11 +195,11 @@
       ],
       "short": "Chris Sanders trägt den Regiecredit.",
       "context": "Chris Sanders bringt seine Erfahrung im Animationsfilm in die Begegnung zwischen Harrison Ford und Buck ein. Der sichtbare Hund wurde animiert, während Menschen ihre Rollen in realen Aufnahmen spielten. Die Regie musste diese beiden Ebenen zu glaubwürdigen Beziehungen verbinden. Der offizielle Disney-Bericht nennt Sanders als Regisseur und grenzt seine Arbeit damit eindeutig von anderen Jack-London-Adaptionen ab.",
-      "anchor": "Sanders führt Menschen und digitalen Hund zusammen.",
       "interest": "Der Regiecredit wird mit der konkreten Gestaltungsaufgabe dieser Fassung verbunden.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "Sanders führt Menschen und digitalen Hund zusammen."
     }
   ]
 }

@@ -39,13 +39,13 @@
       ],
       "short": "Burton und Speke suchen die Quelle des Nils.",
       "context": "Richard Burton (Patrick Bergin) und John Speke (Iain Glen) dringen gemeinsam ins Innere Afrikas vor. Die Expedition verbindet körperliche Gefahren mit einer wissenschaftlichen Frage. Nach der Reise wird gerade die Deutung des gefundenen Wassers zum Streitpunkt. Die Entdeckung beendet die Geschichte deshalb nicht, sondern eröffnet einen Konflikt über Belege und Anerkennung.",
-      "anchor": "Die Nilquelle verbindet die Reisenden und trennt ihre Deutungen.",
       "interest": "Die Nilquelle verbindet die Reisenden und trennt ihre Deutungen.",
       "sources": [
         "handlung",
         "verleih"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Nilquelle verbindet die Reisenden und trennt ihre Deutungen."
     },
     {
       "code": "L2",
@@ -64,13 +64,13 @@
       ],
       "short": "Patrick Bergin und Iain Glen spielen Burton und Speke.",
       "context": "Die gemeinsame Expedition bildet nur einen Teil des Verhältnisses zwischen Richard Burton (Patrick Bergin) und John Speke (Iain Glen). Die Männer erleben Gefahren zusammen und sind zeitweise voneinander abhängig. Zurück in England verändern Ehrgeiz und die öffentliche Deutung ihrer Reise diese Nähe. Ihre Beziehung trägt das Abenteuer über die Landschaftsbilder hinaus.",
-      "anchor": "Bergin ist Burton; Glen ist Speke.",
       "interest": "Bergin ist Burton; Glen ist Speke.",
       "sources": [
         "handlung",
         "verleih"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bergin ist Burton; Glen ist Speke."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Sidi Bombay führt und vermittelt für die Karawane.",
       "context": "Die Reise hängt nicht allein von den beiden britischen Hauptfiguren ab. Sidi Bombay (Paul Onsongo) kennt Sprachen und Wege; Träger und weitere lokale Helfer ermöglichen überhaupt den Transport. Der Film macht damit die Zusammenarbeit sichtbar, die hinter einer später auf wenige Namen verkürzten Entdeckungsgeschichte steht. Ohne diese Menschen käme die Expedition nicht ans Ziel.",
-      "anchor": "Eine britische Entdeckungsgeschichte braucht afrikanische Wegkenntnis.",
       "interest": "Eine britische Entdeckungsgeschichte braucht afrikanische Wegkenntnis.",
       "sources": [
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine britische Entdeckungsgeschichte braucht afrikanische Wegkenntnis."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Burton wirbt bei der Gesellschaft um Unterstützung für die Expedition.",
       "context": "Richard Burton (Patrick Bergin) benötigt für sein Vorhaben Geld und Rückhalt. Die wissenschaftliche Gesellschaft ist zugleich ein Ort, an dem Wissen öffentlich behauptet und bewertet wird. So verbinden sich Reise und Institution: Wer ins Unbekannte aufbrechen will, muss zuerst Menschen zuhause überzeugen; wer zurückkommt, muss seine Ergebnisse dort ebenfalls vertreten.",
-      "anchor": "Vor der Reise Finanzierung, nach der Reise Anerkennung.",
       "interest": "Vor der Reise Finanzierung, nach der Reise Anerkennung.",
       "sources": [
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Vor der Reise Finanzierung, nach der Reise Anerkennung."
     },
     {
       "code": "S1",
@@ -137,13 +137,13 @@
       ],
       "short": "Die gemeinsame Erfahrung zerbricht am Streit um die richtige Deutung und ihren Ruhm.",
       "context": "Richard Burton (Patrick Bergin) und John Speke (Iain Glen) teilen Entbehrungen, doch öffentliche Ansprüche auf Entdeckung verändern ihr Verhältnis. Der Film zeigt, wie ein wissenschaftliches Ergebnis auch eine gesellschaftliche Geschichte bekommt: Wer darf es verkünden, wem wird geglaubt und wem gehört die Anerkennung? Die Rückkehr ist deshalb ebenso konfliktreich wie die Expedition.",
-      "anchor": "Gemeinsam gereist, getrennt um Anerkennung gestritten.",
       "interest": "Gemeinsam gereist, getrennt um Anerkennung gestritten.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gemeinsam gereist, getrennt um Anerkennung gestritten."
     },
     {
       "code": "S2",
@@ -162,13 +162,13 @@
       ],
       "short": "Der Film beruht auf William Harrisons „Burton and Speke“.",
       "context": "William Harrison verarbeitete die historische Beziehung in einem biografischen Roman und arbeitete anschließend mit Bob Rafelson am Drehbuch. Dadurch stehen zwischen dem historischen Ereignis und dem Kinofilm mehrere Erzählentscheidungen. Die Frage nach der Vorlage hilft, das Werk als gestaltete Biografie zu verstehen, statt jede Szene als unmittelbar dokumentierte Expeditionserfahrung anzusehen.",
-      "anchor": "Harrisons Forscherroman wird mit Rafelson zum Kinodrehbuch.",
       "interest": "Harrisons Forscherroman wird mit Rafelson zum Kinodrehbuch.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Harrisons Forscherroman wird mit Rafelson zum Kinodrehbuch."
     },
     {
       "code": "Y",
@@ -187,13 +187,13 @@
       ],
       "short": "Der Film kam 1990 ins Kino.",
       "context": "Die Romanvorlage erschien bereits einige Jahre vor dem Film. Bob Rafelson beschäftigte sich lange mit dem Expeditionsstoff, bevor die Produktion schließlich verwirklicht wurde. Das Veröffentlichungsjahr gehört daher an den Beginn der neunziger Jahre. Die dargestellten Expeditionen sind dagegen ein Stoff des neunzehnten Jahrhunderts; Produktionszeit und Reisezeit liegen weit auseinander.",
-      "anchor": "Roman 1982, Kinofilm 1990.",
       "interest": "Roman 1982, Kinofilm 1990.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Roman 1982, Kinofilm 1990."
     },
     {
       "code": "D",
@@ -212,13 +212,13 @@
       ],
       "short": "Bob Rafelson schrieb mit am Drehbuch und führte Regie.",
       "context": "Bob Rafelson verbindet die große Landschaft mit einer intimen Rivalitätsgeschichte. Die Kameraarbeit stammt von Roger Deakins; Drehbuchautor William Harrison bringt seine Romanvorlage ein. Der Film entsteht so aus mehreren genau zu unterscheidenden Beiträgen. Für die Regiefrage zählt Rafelsons Verantwortung für die gesamte Inszenierung, nicht der Name hinter Vorlage oder Kamera.",
-      "anchor": "Rafelson inszeniert die Reise; Harrison liefert die Romanbasis.",
       "interest": "Rafelson inszeniert die Reise; Harrison liefert die Romanbasis.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Rafelson inszeniert die Reise; Harrison liefert die Romanbasis."
     }
   ]
 }

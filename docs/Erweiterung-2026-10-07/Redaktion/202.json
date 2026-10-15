@@ -49,13 +49,13 @@
       ],
       "short": "Die neue Welt spiegelt die Erde und ihre Bewohner.",
       "context": "Die zweite Erde eröffnet die Vorstellung, dem eigenen Ebenbild zu begegnen. Der große astronomische Fund erhält dadurch eine private Bedeutung: Eine andere Version des eigenen Lebens könnte existieren. Die Handlung bleibt bei Rhoda (Brit Marling) und John (William Mapother), statt die Entdeckung nur als technische Raumfahrtaufgabe zu behandeln.",
-      "anchor": "Der zweite Planet macht ein alternatives eigenes Leben vorstellbar.",
       "interest": "Das Grundmotiv verbindet kosmische Größe mit persönlichen Entscheidungen.",
       "sources": [
         "wiki",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der zweite Planet macht ein alternatives eigenes Leben vorstellbar."
     },
     {
       "code": "L2",
@@ -74,13 +74,13 @@
       ],
       "short": "Rhoda erfindet das Angebot eines Reinigungsdienstes.",
       "context": "Rhoda möchte John (William Mapother) die Wahrheit sagen, verliert jedoch den Mut. Das erfundene Reinigungsangebot erlaubt ihr, in seinem verwahrlosten Haus zu bleiben. Ihre Arbeit schafft regelmäßig Nähe, ohne den ursprünglichen Anlass offenzulegen. Eine scheinbar alltägliche Dienstleistung wird damit zur Grundlage einer Beziehung, in der eine entscheidende Information fehlt.",
-      "anchor": "Das kostenlose Putzen verschafft Nähe, ohne Rhodas Schuld offenzulegen.",
       "interest": "Der Vorwand erklärt, wie eine alltägliche Handlung die Beziehung in Gang setzt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das kostenlose Putzen verschafft Nähe, ohne Rhodas Schuld offenzulegen."
     },
     {
       "code": "M1",
@@ -99,13 +99,13 @@
       ],
       "short": "Die vertraute Frau ist die Verursacherin seines Verlustes.",
       "context": "John hat begonnen, Rhoda (Brit Marling) zu vertrauen. Erst danach erfährt er ihre Verantwortung für den Unfall, bei dem seine schwangere Frau und sein Sohn starben. Das Geständnis verändert rückwirkend die Bedeutung ihrer Besuche. Ihre hilfreiche Gegenwart und seine Trauer lassen sich nicht mehr voneinander trennen.",
-      "anchor": "Vertraute Helferin und Unfallverursacherin sind dieselbe Person.",
       "interest": "Die Enthüllung erklärt den Bruch aus der gemeinsamen Vorgeschichte.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Vertraute Helferin und Unfallverursacherin sind dieselbe Person."
     },
     {
       "code": "M2",
@@ -124,13 +124,13 @@
       ],
       "short": "Ein ausgeschriebener Essaywettbewerb vergibt den Platz.",
       "context": "Der ausgeschriebene Reiseplatz verlangt einen persönlichen Aufsatz. Für Rhoda (Brit Marling) wird die Bewerbung zur Frage, ob sie einen Neubeginn verdient. Die Auswahl bietet ihr eine reale Fluchtmöglichkeit aus dem bisherigen Leben. Gerade deshalb hat die spätere Entscheidung, den gewonnenen Platz einem anderen zu überlassen, Gewicht.",
-      "anchor": "Ein persönlicher Aufsatz öffnet Rhoda den Weg zur anderen Erde.",
       "interest": "Das Auswahlverfahren verbindet die Raumfahrtchance mit Selbstbewertung und Verantwortung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein persönlicher Aufsatz öffnet Rhoda den Weg zur anderen Erde."
     },
     {
       "code": "S1",
@@ -149,13 +149,13 @@
       ],
       "short": "Die abweichende Geschichte könnte Johns Verlust ungeschehen machen.",
       "context": "Die Theorie des gebrochenen Spiegels erlaubt unterschiedliche Ereignisse auf den beiden Erden. Rhoda folgert daraus, dass Johns Familie dort vielleicht lebt. Sie kann diese Möglichkeit nicht beweisen. Dennoch gibt sie ihren eigenen Reiseplatz ab: Aus ihrem Wunsch nach Flucht wird eine Handlung, die dem von ihr verletzten Menschen eine Hoffnung eröffnet.",
-      "anchor": "Mögliche abweichende Ereignisse geben John Hoffnung auf seine Familie.",
       "interest": "Das Opfer erhält seinen Sinn durch die konkrete Hypothese über beide Welten.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Mögliche abweichende Ereignisse geben John Hoffnung auf seine Familie."
     },
     {
       "code": "S2",
@@ -174,13 +174,13 @@
       ],
       "short": "Vor Rhodas Haus steht die andere Rhoda.",
       "context": "Vier Monate nach der Abreise steht Rhoda (Brit Marling) vor ihrem Ebenbild. Der Film zeigt damit eine Begegnung, die vorher nur denkbar war. Was auf der anderen Erde genau geschehen ist, bleibt offen. Das Bild lässt aber erkennen, dass auch Rhodas zweite Version Entscheidungen getroffen hat, die zu diesem Besuch führten.",
-      "anchor": "Die andere Rhoda tritt aus der Vermutung in eine sichtbare Begegnung.",
       "interest": "Das offene Schlussbild führt das Doppelgängermotiv auf die Hauptfigur zurück.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die andere Rhoda tritt aus der Vermutung in eine sichtbare Begegnung."
     },
     {
       "code": "Y",
@@ -199,14 +199,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2011.",
       "context": "Another Earth wurde 2011 veröffentlicht. Die Darstellung des zweiten Planeten sollte an den Mond erinnern; Mike Cahill verband diese Bildidee mit der Apollo-11-Mondlandung von 1969. Zwischen dem historischen Ereignis und dem Film liegen 42 Jahre. Das kosmische Bild dient dabei einer Geschichte über Schuld und die Möglichkeit eines anderen Lebens.",
-      "anchor": "Apollo 11 1969 → Another Earth 2011: 42 Jahre später wird der Mond zum Bildvorbild.",
       "interest": "Der Zeitanker verbindet die Filmidee mit einer konkreten Erfahrung der Raumfahrtgeschichte.",
       "sources": [
         "wiki",
         "studio",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Apollo 11 1969 → Another Earth 2011: 42 Jahre später wird der Mond zum Bildvorbild."
     },
     {
       "code": "D",
@@ -225,14 +225,14 @@
       ],
       "short": "Mike Cahill führte bei diesem Film Regie.",
       "context": "Mike Cahill führte Regie, bediente die Kamera und schnitt den Film. Mit Hauptdarstellerin Brit Marling schrieb er außerdem das Drehbuch. Der AFI-Creditnachweis zeigt diese gebündelte Arbeit ausdrücklich. Die intime Begegnung zweier Menschen und der große kosmische Hintergrund entstehen somit aus einem kleinen Team mit eng verzahnten Aufgaben.",
-      "anchor": "Cahill vereint Regie, Kamera und Schnitt; das Drehbuch entstand mit Brit Marling.",
       "interest": "Die Credits machen den persönlichen Arbeitszusammenhang des unabhängigen Films sichtbar.",
       "sources": [
         "wiki",
         "studio",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Cahill vereint Regie, Kamera und Schnitt; das Drehbuch entstand mit Brit Marling."
     }
   ]
 }

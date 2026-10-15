@@ -33,12 +33,12 @@
       ],
       "short": "Sie kann nicht sehen.",
       "context": "Die Blumenverkäuferin (Virginia Cherrill) kann den Tramp (Charlie Chaplin) nicht sehen. Deshalb entsteht ihre Vorstellung von ihm durch Geräusche, Berührungen und seine Hilfe. Er wird für sie zu einem großzügigen Mann, dessen tatsächliche Armut sie zunächst nicht kennt. Die Blindheit schafft so die Voraussetzung für ein Missverständnis, das später seine Bemühungen um ihre Behandlung und die besondere Form des Wiedererkennens miteinander verbindet.",
-      "anchor": "Sie kennt den Helfer zunächst ohne dessen sichtbare Erscheinung.",
       "interest": "Erklärt die Voraussetzung der Beziehung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Sie kennt den Helfer zunächst ohne dessen sichtbare Erscheinung."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Im betrunkenen Zustand erkennt er den Tramp als Freund an.",
       "context": "Der Millionär (Harry Myers) wird vom Tramp (Charlie Chaplin) vor einem Suizid bewahrt und nimmt ihn betrunken als Freund auf. Sobald er nüchtern ist, erkennt er den Besucher jedoch nicht mehr an. Diese wechselnde Behandlung öffnet und verschließt dem armen Mann den Zugang zu Geld, Haus und Gesellschaft. Aus einer rettenden Begegnung entsteht dadurch keine verlässliche Freundschaft, sondern eine Bindung, die immer wieder unvermittelt abbricht.",
-      "anchor": "Die Freundschaft verschwindet mit der Nüchternheit.",
       "interest": "Erfasst eine zentrale wiederkehrende Handlungsregel.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Freundschaft verschwindet mit der Nüchternheit."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Er nimmt eine Stelle als Straßenkehrer an.",
       "context": "Der Tramp (Charlie Chaplin) arbeitet als Straßenkehrer, damit er die Blumenverkäuferin (Virginia Cherrill) unterstützen kann. Der Lohn soll ihre bedrängte Lage verbessern, ohne dass sie seine eigene Armut erfährt. Die Arbeit ist jedoch keine dauerhafte Lösung: Er verliert die Stelle. Der Versuch, durch gewöhnliche Erwerbsarbeit zu helfen, führt deshalb weiter zu einer riskanteren Möglichkeit, Geld zu verdienen, dem geplanten Boxkampf um ein Preisgeld.",
-      "anchor": "Die Hilfe beginnt mit Straßenkehrerlohn.",
       "interest": "Verbindet Erwerbsarbeit und spätere Geldsuche.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Hilfe beginnt mit Straßenkehrerlohn."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Der Ersatzgegner macht beim verabredeten Kampf nicht mit.",
       "context": "Der Tramp (Charlie Chaplin) hofft auf einen Boxkampf mit einem abgesprochenen Ausgang und geteiltem Preisgeld. Sein ursprünglicher Partner verschwindet jedoch, und der neue Gegner (Hank Mann) lässt sich auf die Abmachung nicht ein. Der scheinbar sichere Verdienst wird damit zu einem echten Kampf gegen einen überlegenen Mann. Die komischen Ausweichbewegungen entstehen aus diesem Wechsel: Er versucht, eine nun unkontrollierbare Situation mit Einfallsreichtum zu überstehen.",
-      "anchor": "Der Ersatzgegner macht aus dem Geldplan einen echten Kampf.",
       "interest": "Prüft den Umschlag einer konkreten Vereinbarung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der Ersatzgegner macht aus dem Geldplan einen echten Kampf."
     },
     {
       "code": "S1",
@@ -129,11 +129,11 @@
       ],
       "short": "Sie deutet die Autotür als Hinweis auf seinen Besitz.",
       "context": "Die Blumenverkäuferin (Virginia Cherrill) hört eine Autotür und verbindet dieses Geräusch mit dem Tramp (Charlie Chaplin), der gerade eine Blume kauft. Sie hält ihn deshalb für einen Mann mit eigenem Wagen. Für das Publikum ist die tatsächliche Situation sichtbar; die junge Frau erschließt sie allein über das Gehör. Der Film nutzt so dieselbe Begegnung für zwei unterschiedliche Wahrnehmungen und begründet das spätere Missverständnis über seine gesellschaftliche Stellung.",
-      "anchor": "Die Autotür erzeugt ein Bild von Wohlstand.",
       "interest": "Untersucht die präzise Entstehung des Missverständnisses.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Autotür erzeugt ein Bild von Wohlstand."
     },
     {
       "code": "S2",
@@ -152,13 +152,13 @@
       ],
       "short": "Die Berührung seiner Hand führt zum Wiedererkennen.",
       "context": "Die Blumenverkäuferin (Virginia Cherrill) sieht nun und begegnet dem Tramp (Charlie Chaplin), ohne ihn zunächst als ihren früheren Wohltäter einzuordnen. Erst als sie seine Hand berührt, verbindet sie den sichtbaren armen Mann mit dem ihr vertrauten Helfer. Die Szene löst die Identitätsfrage durch eine Wahrnehmung, die bereits während ihrer Blindheit möglich war. Wie sich die Beziehung danach entwickelt, bleibt offen; das Wiedererkennen selbst ist eindeutig gezeigt.",
-      "anchor": "Die vertraute Hand verbindet das frühere und das neue Bild.",
       "interest": "Erfasst die Schlussauflösung ohne das offene Danach festzulegen.",
       "sources": [
         "film",
         "loc"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die vertraute Hand verbindet das frühere und das neue Bild."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Die erste Veröffentlichung war 1931.",
       "context": "Lichter der Großstadt wurde 1931 uraufgeführt, vier Jahre nach The Jazz Singer von 1927. Obwohl sich der Tonfilm inzwischen durchgesetzt hatte, verzichtete Charlie Chaplin weiterhin auf gesprochenen Dialog seiner Figuren. Musik und Geräusche gehören dennoch zur Tonspur. Der Abstand zeigt eine bewusste gestalterische Entscheidung innerhalb eines technischen Umbruchs: Der Film verwendet Ton, bewahrt aber die Verständigung durch sichtbares Spiel und Zwischentitel.",
-      "anchor": "1927 The Jazz Singer, 1931 City Lights: vier Jahre.",
       "interest": "Ordnet die Form in den Übergang zum Tonfilm ein.",
       "sources": [
         "afi",
         "loc"
-      ]
+      ],
+      "objective": "1927 The Jazz Singer, 1931 City Lights: vier Jahre."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Charlie Chaplin trägt den Hauptregiecredit.",
       "context": "Charlie Chaplin führte bei Lichter der Großstadt Regie und spielte den Tramp. Die Verbindung von Darstellung und Inszenierung ist für die genaue Abstimmung der Körperkomik bedeutsam: Ein Missverständnis kann aus einer Bewegung entstehen und durch eine weitere Bewegung aufgelöst werden. Der offizielle Regiecredit bezeichnet dabei die Verantwortung für den Film als Ganzes. Virginia Cherrill und Harry Myers verkörpern die beiden wichtigsten Begegnungen seiner Hauptfigur.",
-      "anchor": "Chaplin gestaltet den Film und spielt den Tramp.",
       "interest": "Verknüpft Hauptcredit und Darstellungsform.",
       "sources": [
         "afi",
         "loc"
-      ]
+      ],
+      "objective": "Chaplin gestaltet den Film und spielt den Tramp."
     }
   ]
 }

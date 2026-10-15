@@ -49,13 +49,13 @@
       ],
       "short": "Seine Ermittlungsarbeit und eigene Abhängigkeit greifen ineinander.",
       "context": "Arctor soll das Drogenmilieu von innen erschließen. Dabei wird er selbst abhängig und kann die Rollen nicht mehr sicher trennen. Keanu Reeves spielt einen Ermittler, dessen berufliche Nähe zum Gegenstand seine Urteilskraft beschädigt. Die Gefahr betrifft deshalb nicht nur eine Entdeckung durch andere, sondern auch sein eigenes Verständnis des Auftrags.",
-      "anchor": "Die verdeckte Ermittlung beschädigt den Ermittler durch seine eigene Abhängigkeit.",
       "interest": "Der Grundkonflikt erklärt die Verletzlichkeit der Hauptfigur.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die verdeckte Ermittlung beschädigt den Ermittler durch seine eigene Abhängigkeit."
     },
     {
       "code": "L2",
@@ -74,13 +74,13 @@
       ],
       "short": "Der Anzug anonymisiert die Identität.",
       "context": "Die Anzüge verändern Gesicht, Körperbild und Stimme fortlaufend. Auch Kollegen können dadurch die Person hinter einer Rolle nicht zuverlässig erkennen. Der Schutz der verdeckten Ermittler schafft zugleich Distanz und Misstrauen. Eine Technik, die Identität sichern soll, macht Identität in den Begegnungen gerade unlesbar.",
-      "anchor": "Der Schutzanzug versteckt die Person sogar vor ihren eigenen Kollegen.",
       "interest": "Die Funktion der Technik erklärt ihre paradoxe Wirkung auf Vertrauen.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Schutzanzug versteckt die Person sogar vor ihren eigenen Kollegen."
     },
     {
       "code": "M1",
@@ -99,13 +99,13 @@
       ],
       "short": "Der anonymisierte Ermittler wird auf seine eigene Identität angesetzt.",
       "context": "Der als Fred auftretende Arctor erhält Bilder seiner eigenen Lebenswelt als Ermittlungsgegenstand. Was normalerweise Distanz schaffen soll, verstärkt seine Identitätskrise. Er sieht das eigene Verhalten von außen und muss es zugleich als Beteiligter erleben. Die Überwachung bietet daher keinen neutralen Standpunkt mehr, sondern macht die Spaltung seiner Rollen anschaulich.",
-      "anchor": "Der Beobachter soll die Person überwachen, die er selbst ist.",
       "interest": "Der Auftrag verbindet Überwachung und verlorene Selbstzuordnung.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Beobachter soll die Person überwachen, die er selbst ist."
     },
     {
       "code": "M2",
@@ -124,13 +124,13 @@
       ],
       "short": "Rotoskopie baut auf den gefilmten Darstellern auf.",
       "context": "Die Produktion filmte die Darsteller zunächst real. Animatoren zeichneten anschließend über diese Grundlage. Rotoskopie bewahrt Bewegungen und Spiel, verändert aber Konturen und Oberflächen. Die Figuren bleiben erkennbar, ohne dauerhaft stabil zu wirken. Das passt zu einer Geschichte, in der die Menschen ihren Wahrnehmungen und ihrer eigenen Zuordnung immer weniger vertrauen können.",
-      "anchor": "Gefilmte Körper bleiben unter den gezeichneten, beweglichen Konturen erhalten.",
       "interest": "Das Verfahren erklärt die konkrete Verbindung von Darstellerspiel und Bildwirkung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gefilmte Körper bleiben unter den gezeichneten, beweglichen Konturen erhalten."
     },
     {
       "code": "S1",
@@ -149,13 +149,13 @@
       ],
       "short": "Die Behandlungsorganisation gehört zugleich zur Drogenproduktion.",
       "context": "Arctor gelangt als geschädigter Patient in die Organisation, die Hilfe verspricht. Dort liegt zugleich die gesuchte Herstellung der Droge. Der Ermittlungsplan nutzt gerade seinen beschädigten Zustand, weil er dadurch unverdächtig erscheint. Behandlung und Ausbeutung fallen damit zusammen; auch die Polizei nimmt seine Zerstörung als Mittel zum Zweck in Kauf.",
-      "anchor": "Der angebliche Ausweg aus der Sucht verbirgt ihre Produktionsquelle.",
       "interest": "Die Enthüllung erklärt die doppelte Ausbeutung der Hauptfigur.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der angebliche Ausweg aus der Sucht verbirgt ihre Produktionsquelle."
     },
     {
       "code": "S2",
@@ -174,13 +174,13 @@
       ],
       "short": "Die mitgenommene Pflanze kann als konkreter Hinweis dienen.",
       "context": "Auf der Farm entdeckt der schwer geschädigte Arctor (Keanu Reeves) blaue Pflanzen zwischen den Nutzpflanzen. Eine davon steckt er ein, um sie seinen Freunden zu zeigen. Der Film zeigt keinen abgeschlossenen Ermittlungssieg. Ein kleiner körperlicher Griff lässt aber erkennen, dass die zuvor ausgebeutete Person noch einen möglichen Beleg aus der abgeschirmten Umgebung tragen kann.",
-      "anchor": "Eine Pflanze im Stiefel ist der mögliche Beleg aus dem verborgenen Anbau.",
       "interest": "Das offene Ende verbindet eingeschränkte Handlungsfähigkeit mit einer konkreten Spur.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine Pflanze im Stiefel ist der mögliche Beleg aus dem verborgenen Anbau."
     },
     {
       "code": "Y",
@@ -199,14 +199,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2006.",
       "context": "Der Film wurde 2006 erstmals gezeigt. Philip K. Dicks zugrunde liegender Roman erschien 1977, also 29 Jahre früher. Linklater übernahm dessen Verbindung von Drogenabhängigkeit und zersplitterter Identität in eine animierte Wahrnehmungswelt. Das Festival führt außerdem 2005 als Produktionsjahr; diese Angabe liegt vor der öffentlichen Aufführung von 2006.",
-      "anchor": "Dicks Roman 1977 → Film 2006: 29 Jahre später; Produktionsjahr 2005 ist gesondert.",
       "interest": "Die Reihenfolge verbindet Literatur und Film und klärt die Produktionsjahresabweichung.",
       "sources": [
         "wiki",
         "festival",
         "festivalDate"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dicks Roman 1977 → Film 2006: 29 Jahre später; Produktionsjahr 2005 ist gesondert."
     },
     {
       "code": "D",
@@ -225,14 +225,14 @@
       ],
       "short": "Richard Linklater führte bei diesem Film Regie.",
       "context": "Richard Linklater schrieb das Drehbuch und führte Regie. Er wollte die komischen Gespräche der Figuren und die tragische Drogengeschichte miteinander erhalten. Die reale Aufnahme der Darsteller wurde anschließend animiert. Die Regie entscheidet damit sowohl über ihr Spiel als auch über eine Bildwelt, in der vertraute Gesichter ihren festen visuellen Halt verlieren.",
-      "anchor": "Linklater verbindet die komischen Gespräche mit der tragischen Auflösung einer Identität.",
       "interest": "Der Hintergrund erklärt, warum die Animation mehr als eine äußere Dekoration ist.",
       "sources": [
         "wiki",
         "festival",
         "festivalDate"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Linklater verbindet die komischen Gespräche mit der tragischen Auflösung einer Identität."
     }
   ]
 }

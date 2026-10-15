@@ -36,12 +36,12 @@
       ],
       "short": "Jan und Brad teilen eine Telefonleitung.",
       "context": "Jan und Brad teilen eine Telefonleitung. Brad blockiert sie mit Liebesgesprächen, während Jan beruflich telefonieren muss. Die technische Verbindung zwingt zwei Menschen zur Auseinandersetzung, die einander zunächst nur als Stimme kennen.",
-      "anchor": "Eine Telefonleitung verbindet zwei getrennte Wohnungen.",
       "interest": "Eine Telefonleitung verbindet zwei getrennte Wohnungen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Eine Telefonleitung verbindet zwei getrennte Wohnungen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Jan arbeitet als Innenarchitektin.",
       "context": "Jan arbeitet als Innenarchitektin. Ihr Beruf erklärt, warum sie eine zuverlässige Telefonverbindung braucht, und wird später zum Mittel ihrer Vergeltung. Brad Allen (Rock Hudson) kann sich nicht darauf verlassen, dass ihre Arbeit nur eine neutrale Dienstleistung bleibt.",
-      "anchor": "Jans Beruf wird zum Werkzeug ihrer Reaktion.",
       "interest": "Jans Beruf wird zum Werkzeug ihrer Reaktion.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jans Beruf wird zum Werkzeug ihrer Reaktion."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Brad erfindet den texanischen Rancher Rex Stetson.",
       "context": "Brad erfindet den texanischen Rancher Rex Stetson. Jan erkennt darin nicht ihren ungeliebten Telefonpartner. Die Tarnung lässt Brad zugleich als zwei Männer auftreten: den anstößigen Bekannten aus der Leitung und den vermeintlich rücksichtsvollen neuen Verehrer.",
-      "anchor": "Rex Stetson ist Brads erfundene Gegenfigur.",
       "interest": "Rex Stetson ist Brads erfundene Gegenfigur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Rex Stetson ist Brads erfundene Gegenfigur."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Jan erkennt auf einem Notenblatt Brads wiederverwendetes Liebeslied.",
       "context": "Jan erkennt auf einem Notenblatt Brads wiederverwendetes Liebeslied. Die Musik verbindet den angeblichen Rex Stetson mit Brad Allen (Rock Hudson). Ein zunächst charmantes Mittel seiner Verführung wird damit zum Beweis, dass beide Männer dieselbe Person sind.",
-      "anchor": "Das wiederverwendete Lied verrät den erfundenen Rancher.",
       "interest": "Das wiederverwendete Lied verrät den erfundenen Rancher.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das wiederverwendete Lied verrät den erfundenen Rancher."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Jan gestaltet Brads Wohnung absichtlich grell und geschmacklos.",
       "context": "Jan gestaltet Brads Wohnung absichtlich grell und geschmacklos. Brad Allen (Rock Hudson) wollte durch den Auftrag wieder mit ihr zusammenarbeiten. Seine Idee gibt ihr jedoch die Möglichkeit, ihre Verletzung beruflich auszudrücken und ihn mit den Folgen seiner Täuschung zu konfrontieren.",
-      "anchor": "Brads Versöhnungsauftrag wird zur gestalterischen Abrechnung.",
       "interest": "Brads Versöhnungsauftrag wird zur gestalterischen Abrechnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Brads Versöhnungsauftrag wird zur gestalterischen Abrechnung."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Brad äußert am Telefon Verdächtigungen über Rex und widerlegt sie anschließend in seiner Tarnrolle.",
       "context": "Brad äußert am Telefon Verdächtigungen über Rex und widerlegt sie anschließend in seiner Tarnrolle. Jan erlebt scheinbar zwei voneinander unabhängige Einschätzungen. Tatsächlich kontrolliert derselbe Mann beide Seiten und erzeugt so künstlich Vertrauen in die von ihm erfundene Person.",
-      "anchor": "Eine Person lenkt beide Seiten des Gesprächs.",
       "interest": "Eine Person lenkt beide Seiten des Gesprächs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine Person lenkt beide Seiten des Gesprächs."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1959 erschien der Film.",
       "context": "1959 erschien der Film. Das gemeinsam genutzte Telefon ist sein charakteristischer Zeitanker: Zwei Wohnungen müssen sich eine Leitung teilen, wodurch private Liebesgespräche und berufliche Anrufe kollidieren. Aus diesem damals gebräuchlichen Anschlussmodell entsteht die gesamte Täuschungs- und Liebeskonstruktion.",
-      "anchor": "1959 macht eine geteilte Telefonleitung aus Technikmangel eine Liebeskomödie.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1959 macht eine geteilte Telefonleitung aus Technikmangel eine Liebeskomödie."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Michael Gordon inszenierte Doris Day und Rock Hudson.",
       "context": "Michael Gordon inszenierte Doris Day und Rock Hudson. Jan Morrow ist Innenarchitektin, Brad Allen Komponist und Erfinder einer falschen Identität. Die geteilte Telefonleitung erlaubt der Regie, räumlich getrennte Figuren gemeinsam im Bild zu zeigen und ihre widersprüchlichen Perspektiven zu verbinden.",
-      "anchor": "Michael Gordon inszenierte Doris Day und Rock Hudson.",
       "interest": "Michael Gordon inszenierte Doris Day und Rock Hudson.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Michael Gordon inszenierte Doris Day und Rock Hudson."
     }
   ]
 }

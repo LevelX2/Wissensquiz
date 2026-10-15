@@ -35,11 +35,11 @@
       ],
       "short": "Diego übernimmt das Amt unter der Identität seines Freundes.",
       "context": "Diego (Alain Delon) tritt unter dem Namen des ermordeten Miguel (Marino Masé) als Gouverneur auf. Parallel schafft er Zorro als maskierten Kämpfer. Die Filmhandlung enthält damit mehrere Rollen desselben Menschen: Die sichtbare Amtsfigur und der geheime Held verfolgen gemeinsam ein Ziel.",
-      "anchor": "Diego regiert getarnt und kämpft maskiert.",
       "interest": "Die öffentliche und geheime Identität werden auseinandergehalten.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Diego regiert getarnt und kämpft maskiert."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Huerta kontrolliert die Region mit Gewalt.",
       "context": "Huerta (Stanley Baker) verbindet militärische Kontrolle mit dem Wunsch nach ziviler Herrschaft. Diego (Alain Delon) täuscht ihn durch seine scheinbar hilflose Amtsführung. Der Widerstand richtet sich daher gegen einen Gegner, dessen Macht auf Angst und persönlicher Einschüchterung beruht.",
-      "anchor": "Huerta will Macht durch Angst.",
       "interest": "Der Gegner wird mit seiner konkreten Herrschaftsform verbunden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Huerta will Macht durch Angst."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Diego hat zugesagt, als neuer Gouverneur nicht zu töten.",
       "context": "Der sterbende Miguel (Marino Masé) überträgt Diego (Alain Delon) nicht nur seine Identität, sondern auch eine moralische Verpflichtung. Der Kampf gegen Huerta (Stanley Baker) muss zunächst mit diesem Verzicht vereinbar bleiben. Die erfolgreiche Täuschung schafft somit eine neue Grenze für den Helden.",
-      "anchor": "Das fremde Amt bringt ein Tötungsverbot mit.",
       "interest": "Der Held erhält eine konkrete moralische Einschränkung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das fremde Amt bringt ein Tötungsverbot mit."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Die vermeintliche Schwäche schützt seine geheime Handlungsfreiheit.",
       "context": "Diego (Alain Delon) wirkt im Amt absichtlich harmlos. Huerta (Stanley Baker) soll keinen ebenbürtigen Gegner vermuten. Die Schwertkünste Zorros und das Auftreten des Gouverneurs passen dadurch scheinbar nicht zusammen, obwohl beide Rollen von demselben Mann ausgefüllt werden.",
-      "anchor": "Diego tarnt Stärke als Schwäche.",
       "interest": "Die Täuschung funktioniert über gegensätzliche Verhaltensweisen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Diego tarnt Stärke als Schwäche."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Die Inszenierung täuscht Huerta über beide Identitäten.",
       "context": "Diego (Alain Delon) setzt seine beiden Erscheinungsformen innerhalb einer einzigen Täuschung ein. Huerta (Stanley Baker) glaubt, die störenden Gegner seien verschwunden. Das verschafft dem Helden Handlungsspielraum und macht deutlich, wie die Doppelidentität auch als Werkzeug einer Inszenierung genutzt wird.",
-      "anchor": "Zwei scheinbare Opfer verbergen einen lebenden Gegner.",
       "interest": "Der Plan wird ohne Annahme zweier verschiedener Helden verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Zwei scheinbare Opfer verbergen einen lebenden Gegner."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Der Mord an Francisco löst den letzten Kampf aus.",
       "context": "Bruder Francisco (Giampiero Albertini) führt Protestierende zur Kirche. Huerta (Stanley Baker) erschießt ihn. Diego (Alain Delon) betrachtet den Mord als Ende seiner bisherigen Bindung an den Gewaltverzicht und stellt sich dem Gegner im letzten Duell.",
-      "anchor": "Franciscos Tod führt zum letzten Duell.",
       "interest": "Ein konkreter Gewaltakt verschiebt die moralische Grenze des Helden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Franciscos Tod führt zum letzten Duell."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Die Delon-Fassung erschien 1975.",
       "context": "Alain Delon spielte bereits 1964 im Mantel-und-Degen-Film Die schwarze Tulpe. Zorro folgte 1975, elf Jahre später. Der Zeitanker verbindet zwei historische Abenteuer mit demselben Hauptdarsteller und verhindert die Verwechslung der Fassungen mit anderen Zorro-Filmen. Delons europäische Zorro-Bearbeitung stellt eine maskierte Widerstandsfigur in den Mittelpunkt, während die frühere Rolle seine Verbindung zum Genre schon zuvor sichtbar machte.",
-      "anchor": "1964 Schwarze Tulpe – 1975 Zorro: elf Jahre Delons Degenabenteuer.",
       "interest": "Darsteller und Produktionsraum verankern das Jahr.",
       "sources": [
         "studio",
         "zeitanker"
-      ]
+      ],
+      "objective": "1964 Schwarze Tulpe – 1975 Zorro: elf Jahre Delons Degenabenteuer."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Duccio Tessari trägt den Regiecredit.",
       "context": "Duccio Tessari inszeniert Alain Delons wechselnde Rollen zwischen Amtsmann und maskiertem Kämpfer. Der Titanus-Katalog ordnet ihm diese italienisch-französische Produktion zu. Die Regiefrage betrifft damit die Delon-Fassung und nicht die späteren Abenteuer mit Antonio Banderas.",
-      "anchor": "Tessari führt Delon unter die Maske.",
       "interest": "Der Credit unterscheidet die europäische von späteren US-Fassungen.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "Tessari führt Delon unter die Maske."
     }
   ]
 }

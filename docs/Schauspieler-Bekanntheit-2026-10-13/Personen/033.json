@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Kane wird zum mächtigen Zeitungsverleger.",
       "context": "Kane besitzt zunächst ein großes Vermögen und wendet sich dann einer Zeitung zu. Der Anspruch, für die einfachen Leser einzutreten, verbindet sich zunehmend mit persönlichem Machtstreben. Welles spielt diese Figur über verschiedene Lebensalter und führte zugleich Regie. Der Film lässt andere Menschen rückblickend von Kane erzählen, sodass sein öffentlicher Erfolg neben den beschädigten privaten Beziehungen sichtbar wird.",
-      "anchor": "Kanes Zeitungsmacht erklärt nicht sein privates Glück.",
       "interest": "Die Tätigkeit erschließt die Spannung zwischen öffentlichem Einfluss und persönlichem Scheitern.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "knowledge_id": "K-CLA-02-03",
       "variant_of": "CLA-M-003",
-      "knowledge_note": "Gleiches Wissensziel zu Kanes Zeitungsimperium."
+      "knowledge_note": "Gleiches Wissensziel zu Kanes Zeitungsimperium.",
+      "objective": "Kanes Zeitungsmacht erklärt nicht sein privates Glück."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 0,
       "short": "Lime handelt mit gestrecktem Penicillin.",
       "context": "Holly Martins (Joseph Cotten) kommt nach Wien und hält seinen alten Freund zunächst für ein Opfer. Die Nachforschungen legen jedoch ein Geschäft offen, dessen beschädigte Medikamente schwere Folgen für Kranke haben. Limes charmantes Auftreten steht damit gegen die Rücksichtslosigkeit seiner Taten. Für Holly wird die Freundschaft zu einer Entscheidung darüber, ob persönliche Loyalität die Opfer ausblenden darf.",
-      "anchor": "Hinter Limes Charme steht ein tödliches Medikamentengeschäft.",
       "interest": "Die Enthüllung verändert die moralische Bedeutung der alten Freundschaft.",
       "feedback": [
         "Lime handelt mit gestrecktem Penicillin.",
@@ -65,7 +64,8 @@
       ],
       "knowledge_id": "K-F240-20261006-205-M1",
       "variant_of": "F240-20261006-205-M1",
-      "knowledge_note": "Gleicher Schwarzhandel mit gestrecktem Penicillin."
+      "knowledge_note": "Gleicher Schwarzhandel mit gestrecktem Penicillin.",
+      "objective": "Hinter Limes Charme steht ein tödliches Medikamentengeschäft."
     },
     {
       "code": "M1",
@@ -79,7 +79,6 @@
       "correct": 2,
       "short": "Quinlan manipuliert Beweise, um seine Verdächtigen zu überführen.",
       "context": "Nach einer Bombenexplosion an der Grenze ermittelt Quinlan gemeinsam mit dem mexikanischen Beamten Vargas (Charlton Heston). Vargas entdeckt Unstimmigkeiten bei gefundenem Sprengstoff und beginnt, frühere Fälle zu prüfen. Quinlan hält seine Überzeugung von der Schuld eines Menschen für wichtiger als rechtsstaatliche Beweise. Welles verbindet in der Figur berufliche Erfahrung mit Machtmissbrauch und einer Verteidigung der eigenen Unfehlbarkeit.",
-      "anchor": "Quinlan ersetzt Beweise durch seine Gewissheit.",
       "interest": "Der Konflikt zeigt, wie Ermittlungsintuition zum Vorwand für Rechtsbruch werden kann.",
       "feedback": [
         "",
@@ -95,7 +94,8 @@
       ],
       "knowledge_id": "K-E20261007-F-244-L2",
       "variant_of": "E20261007-F-244-L2",
-      "knowledge_note": "Gleiche korrupte Rolle Quinlans in der Ermittlung."
+      "knowledge_note": "Gleiche korrupte Rolle Quinlans in der Ermittlung.",
+      "objective": "Quinlan ersetzt Beweise durch seine Gewissheit."
     },
     {
       "code": "M2",
@@ -109,7 +109,6 @@
       "correct": 3,
       "short": "Michael O’Hara ist ein Handelsmatrose.",
       "context": "Michael rettet Elsa Bannister (Rita Hayworth) in New York vor Angreifern. Ihr Mann Arthur (Everett Sloane) bietet ihm anschließend Arbeit auf seiner Yacht an. Während der Reise gerät Michael zwischen die Interessen des Ehepaars und von Arthurs Partner Grisby (Glenn Anders). Seine Hoffnung auf eine gemeinsame Zukunft mit Elsa macht ihn für einen Plan empfänglich, in dem eine bezahlte falsche Mordbeichte plötzlich gefährlich wird.",
-      "anchor": "Eine Arbeit auf der Yacht zieht Michael in das Spiel der Bannisters.",
       "interest": "Die Ausgangsrolle erklärt, wie der Außenseiter Zugang zu einer wohlhabenden, gefährlichen Gesellschaft erhält.",
       "feedback": [
         "",
@@ -122,7 +121,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25611-THE-LADY-FROM-SHANGHAI"
-      ]
+      ],
+      "objective": "Eine Arbeit auf der Yacht zieht Michael in das Spiel der Bannisters."
     },
     {
       "code": "S1",
@@ -136,7 +136,6 @@
       "correct": 2,
       "short": "Das Hörspiel verwendete fingierte Nachrichten und Augenzeugenberichte.",
       "context": "Die Mercury-Theatre-Sendung von 1938 übertrug H. G. Wells’ Invasionsgeschichte in eine vertraute Radioform. Hinweise auf den fiktionalen Charakter waren vorhanden, trotzdem hielten manche Hörer die Meldungen für echt. Die Library of Congress unterscheidet diese Irrtümer von der später verbreiteten Vorstellung einer landesweiten Massenpanik. Die Inszenierung wirkte realistisch; das tatsächliche Ausmaß der Reaktion ist eine andere Frage.",
-      "anchor": "Die erfundenen Meldungen klangen wie vertraute Radionachrichten.",
       "interest": "Das Ziel verbindet Welles’ Radiokunst mit einem kritischen Blick auf die spätere Legende.",
       "feedback": [
         "",
@@ -147,7 +146,8 @@
       "films": [],
       "extraSources": [
         "https://blogs.loc.gov/loc/2016/10/lcm-page-from-the-past-war-of-the-worlds/"
-      ]
+      ],
+      "objective": "Die erfundenen Meldungen klangen wie vertraute Radionachrichten."
     },
     {
       "code": "S2",
@@ -161,7 +161,6 @@
       "correct": 0,
       "short": "RKO entfernte viel Material und fügte ein optimistischeres Ende hinzu.",
       "context": "Welles erzählt den Niedergang einer reichen Familie, während technische und gesellschaftliche Veränderungen ihre frühere Stellung untergraben. RKO entfernte über vierzig Minuten und ersetzte den vorgesehenen Schluss. Das ausgeschiedene Material gilt als verloren. Die erhaltene Fassung zeigt deshalb zugleich Welles’ Gestaltung und einen einschneidenden Eingriff des Studios, der gerade die Schlusswirkung der Familiengeschichte verändert.",
-      "anchor": "Die Amberson-Fassung trägt die Spuren eines starken Studioeingriffs.",
       "interest": "Der Fall macht den Unterschied zwischen Regiearbeit und Kontrolle über die veröffentlichte Fassung deutlich.",
       "feedback": [
         "RKO entfernte viel Material und fügte ein optimistischeres Ende hinzu.",
@@ -174,7 +173,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28711-the-magnificent-ambersons"
-      ]
+      ],
+      "objective": "Die Amberson-Fassung trägt die Spuren eines starken Studioeingriffs."
     },
     {
       "code": "E1",
@@ -188,7 +188,6 @@
       "correct": 3,
       "short": "Welles verspricht Wahrheit ausdrücklich nur für die nächste Stunde.",
       "context": "Am Ende erzählt Welles eine Geschichte über Oja Kodar, Picasso und einen angeblichen Bildertausch. Erst danach legt er offen, dass diese Episode erfunden ist: Die versprochene Stunde war bereits abgelaufen. Die Täuschung beruht also auch darauf, dass das Publikum eine genau formulierte Zusicherung unbemerkt auf den ganzen Film ausdehnt. Seine Darbietung als vertrauenswürdiger Erzähler wird selbst zum Experiment.",
-      "anchor": "Eine zeitliche Einschränkung macht den Erzählertrick möglich.",
       "interest": "Das Ziel betrifft die konkrete Struktur des Filmessays und die Aufmerksamkeit für ein Wahrheitsversprechen.",
       "feedback": [
         "",
@@ -202,7 +201,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/F_for_Fake",
         "https://www.criterion.com/current/posts/364-f-for-fake-orson-welles-s-purloined-letter"
-      ]
+      ],
+      "objective": "Eine zeitliche Einschränkung macht den Erzählertrick möglich."
     },
     {
       "code": "E2",
@@ -216,7 +216,6 @@
       "correct": 1,
       "short": "Welles verbindet Material aus mehreren Shakespeare-Stücken und rückt Falstaff ins Zentrum.",
       "context": "Falstaff ist in den Königsdramen meist eine Nebenfigur; Welles macht ihn zum tragikomischen Mittelpunkt. Material aus den beiden Heinrich-IV.-Stücken und weiteren Shakespeare-Werken wird dafür neu verbunden. Keith Baxter spielt den Prinzen Hal, dessen Weg zur Königswürde die Freundschaft verändert. Welles’ eigene Falstaff-Darstellung steht so im Zentrum einer Bearbeitung, die Textauswahl und Perspektive bewusst neu ordnet.",
-      "anchor": "Aus mehreren Königsdramen entsteht Falstaffs eigene Tragikomödie.",
       "interest": "Die Bearbeitung zeigt Welles zugleich als Shakespeare-Darsteller und gestaltenden Autor.",
       "feedback": [
         "",
@@ -229,7 +228,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/28756-chimes-at-midnight"
-      ]
+      ],
+      "objective": "Aus mehreren Königsdramen entsteht Falstaffs eigene Tragikomödie."
     }
   ]
 }

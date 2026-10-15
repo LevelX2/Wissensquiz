@@ -33,12 +33,12 @@
       ],
       "short": "Calum (Paul Mescal) verbringt Urlaub mit seiner Tochter Sophie (Frankie Corio).",
       "context": "Calum (Paul Mescal) verbringt Urlaub mit seiner Tochter Sophie (Frankie Corio). Ihre Nähe und seine schwer greifbare innere Belastung stehen nebeneinander.",
-      "anchor": "Ein gemeinsamer Urlaub wird zur Vater-Tochter-Erinnerung.",
       "interest": "Ein gemeinsamer Urlaub wird zur Vater-Tochter-Erinnerung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein gemeinsamer Urlaub wird zur Vater-Tochter-Erinnerung."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Der Urlaub findet in der Türkei statt.",
       "context": "Der Urlaub findet in der Türkei statt. Hotel, Pool und organisierte Freizeit schaffen eine scheinbar unbeschwerte Oberfläche, während Calum (Paul Mescal) seine Probleme vor Sophie (Frankie Corio) verbirgt.",
-      "anchor": "Der Ferienort liegt an der türkischen Küste.",
       "interest": "Der Ferienort liegt an der türkischen Küste.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Ferienort liegt an der türkischen Küste."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Sophie sieht private MiniDV-Aufnahmen wieder.",
       "context": "Sophie (Celia Rowlson-Hall) sieht private MiniDV-Aufnahmen wieder. Die Bilder bewahren die Urlaubstage, geben aber keinen vollständigen Zugang zu Calums (Paul Mescal) damaligem Innenleben.",
-      "anchor": "Die Kamera bewahrt Bilder, keine vollständige Gewissheit.",
       "interest": "Die Kamera bewahrt Bilder, keine vollständige Gewissheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Kamera bewahrt Bilder, keine vollständige Gewissheit."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Calum (Paul Mescal) verweigert das gemeinsame Singen.",
       "context": "Calum (Paul Mescal) verweigert das gemeinsame Singen. Sophie (Frankie Corio) singt allein Losing My Religion; die enttäuschte Erwartung macht einen Riss innerhalb des vertrauten Ferienalltags sichtbar.",
-      "anchor": "Beim Karaoke bleibt Sophie allein vor dem Publikum.",
       "interest": "Beim Karaoke bleibt Sophie allein vor dem Publikum.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Beim Karaoke bleibt Sophie allein vor dem Publikum."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Der Teppich liegt später in Sophies Wohnung.",
       "context": "Der Teppich liegt später in Sophies Wohnung. Calum (Paul Mescal) kauft ihn nach anfänglichem Zögern; der alltägliche Gegenstand überdauert den Urlaub und verbindet verschiedene Lebenszeiten.",
-      "anchor": "Der Teppich wandert vom Urlaub in die Erinnerung.",
       "interest": "Der Teppich wandert vom Urlaub in die Erinnerung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Teppich wandert vom Urlaub in die Erinnerung."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Die Montage verbindet den Urlaubstanz mit Rave-Bildern der erwachsenen Sophie.",
       "context": "Die Montage verbindet den Urlaubstanz mit Rave-Bildern der erwachsenen Sophie (Celia Rowlson-Hall). Paul Mescal als Calum (Paul Mescal) und Celia Rowlson-Hall als Sophie begegnen sich in einer Form, die ausdrücklich nicht wie einfache Urlaubsaufzeichnung wirkt.",
-      "anchor": "„Under Pressure“ verbindet Erinnerung und imaginierte Begegnung.",
       "interest": "„Under Pressure“ verbindet Erinnerung und imaginierte Begegnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "„Under Pressure“ verbindet Erinnerung und imaginierte Begegnung."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Der Film wurde 2022 erstmals veröffentlicht.",
       "context": "2022 feierte Wells’ erster Langfilm Premiere. Ihr Kurzfilm Tuesday war bereits 2015 entstanden und behandelte ebenfalls eine Vater-Tochter-Beziehung. Sieben Jahre trennen diesen frühen Film und die neue Arbeit.",
-      "anchor": "Der Vater-Tochter-Kurzfilm Tuesday von 2015 ging dem Langfilm von 2022 sieben Jahre voraus.",
       "interest": "Der Vater-Tochter-Kurzfilm Tuesday von 2015 ging dem Langfilm von 2022 sieben Jahre voraus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Vater-Tochter-Kurzfilm Tuesday von 2015 ging dem Langfilm von 2022 sieben Jahre voraus."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Regie: Charlotte Wells.",
       "context": "Wells bezeichnete den Film als emotional autobiografisch. Für das Verhältnis von Calum (Paul Mescal) und Sophie (Frankie Corio) verbrachten die Darsteller während der Vorbereitung gemeinsam Zeit im Ferienort.",
-      "anchor": "Wells bezeichnete den Film als emotional autobiografisch.",
       "interest": "Wells bezeichnete den Film als emotional autobiografisch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wells bezeichnete den Film als emotional autobiografisch."
     }
   ]
 }

@@ -40,12 +40,12 @@
       ],
       "short": "Will Lockhart (James Stewart) sucht die Männer, die Apachen Repetiergewehre verkauft haben.",
       "context": "Will Lockhart (James Stewart) sucht die Männer, die Apachen Repetiergewehre verkauft haben. Sein Bruder starb beim damit ausgeführten Angriff auf eine Kavallerieeinheit.",
-      "anchor": "Der Waffenhandel verbindet persönliche Rache mit lokaler Macht.",
       "interest": "Der Waffenhandel verbindet persönliche Rache mit lokaler Macht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Waffenhandel verbindet persönliche Rache mit lokaler Macht."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Lockhart (James Stewart) liefert Waren nach Coronado.",
       "context": "Lockhart (James Stewart) liefert Waren nach Coronado. Die scheinbar gewöhnliche Frachtfahrt lässt ihn nach dem illegalen Waffenhandel suchen, ohne sein Motiv sofort offenzulegen.",
-      "anchor": "Die Warenfahrt verdeckt die gezielte Untersuchung.",
       "interest": "Die Warenfahrt verdeckt die gezielte Untersuchung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Warenfahrt verdeckt die gezielte Untersuchung."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Dave Waggoman (Alex Nicol) erklärt das Salz zum Eigentum seiner Familie und zerstört Lockharts (James Stewart) Transportmittel.",
       "context": "Dave Waggoman (Alex Nicol) erklärt das Salz zum Eigentum seiner Familie und zerstört Lockharts (James Stewart) Transportmittel. Seine maßlose Gewalt macht den Machtanspruch der Ranch unmittelbar sichtbar.",
-      "anchor": "Die Gewalt am Salzsee zeigt Daves unkontrollierten Besitzanspruch.",
       "interest": "Die Gewalt am Salzsee zeigt Daves unkontrollierten Besitzanspruch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gewalt am Salzsee zeigt Daves unkontrollierten Besitzanspruch."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Vic Hansbro (Arthur Kennedy) erwartet einen Anteil an Alec Waggomans (Donald Crisp) Ranch.",
       "context": "Vic Hansbro (Arthur Kennedy) erwartet einen Anteil an Alec Waggomans (Donald Crisp) Ranch. Die Aussicht auf Eigentum bindet ihn an den alten Mann und dessen gefährlichen Sohn.",
-      "anchor": "Das erhoffte Erbe macht Vic vom Familienpatriarchen abhängig.",
       "interest": "Das erhoffte Erbe macht Vic vom Familienpatriarchen abhängig.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das erhoffte Erbe macht Vic vom Familienpatriarchen abhängig."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Alec Waggoman (Donald Crisp) entdeckt einen unnötigen Zaundrahtkauf und vermutet die Tarnung eines Gewehrkaufs.",
       "context": "Alec Waggoman (Donald Crisp) entdeckt einen unnötigen Zaundrahtkauf und vermutet die Tarnung eines Gewehrkaufs. Er sucht das Versteck auf und gefährdet damit Vics (Arthur Kennedy) Beteiligung am Geschäft.",
-      "anchor": "Die nutzlose Drahtrechnung lässt das Waffengeschäft durchsichtig werden.",
       "interest": "Die nutzlose Drahtrechnung lässt das Waffengeschäft durchsichtig werden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die nutzlose Drahtrechnung lässt das Waffengeschäft durchsichtig werden."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Lockhart (James Stewart) zwingt Vic (Arthur Kennedy), die Gewehre über eine Klippe zu werfen.",
       "context": "Lockhart (James Stewart) zwingt Vic (Arthur Kennedy), die Gewehre über eine Klippe zu werfen. Das zerstört die Lieferung; Vic wird anschließend von den um ihre Ware gebrachten Käufern getötet.",
-      "anchor": "Die zerstörte Lieferung beendet den Handel und besiegelt Vics Ende.",
       "interest": "Die zerstörte Lieferung beendet den Handel und besiegelt Vics Ende.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die zerstörte Lieferung beendet den Handel und besiegelt Vics Ende."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "1955 erschien der Film.",
       "context": "1955 erschien der Film. Die Western-Zusammenarbeit von Anthony Mann und James Stewart begann 1950 mit Winchester ’73; fünf Jahre später schloss dieser Film die Reihe ihrer gemeinsamen Western ab.",
-      "anchor": "Winchester ’73 1950, Der Mann aus Laramie 1955: Fünf Jahre umspannen Manns und Stewarts gemeinsame Westernreihe.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Winchester ’73 1950, Der Mann aus Laramie 1955: Fünf Jahre umspannen Manns und Stewarts gemeinsame Westernreihe."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Anthony Mann führte Regie.",
       "context": "Anthony Mann führte Regie. Der Racheplot trifft auf eine von Erbansprüchen, väterlicher Blindheit und Konkurrenz bestimmte Rancherfamilie, deren Konflikte die Gewalttaten erst ermöglichen.",
-      "anchor": "Anthony Mann führte Regie.",
       "interest": "Anthony Mann führte Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Anthony Mann führte Regie."
     }
   ]
 }

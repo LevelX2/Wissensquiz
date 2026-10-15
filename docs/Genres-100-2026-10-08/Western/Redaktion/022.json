@@ -32,12 +32,12 @@
       ],
       "short": "Horn soll den Viehdiebstahl eindämmen.",
       "context": "John Coble (Richard Farnsworth) hilft dem verletzten Tom Horn (Steve McQueen) und bietet ihm später Arbeit an. Die Rancher leiden unter Viehdiebstahl und wollen den erfahrenen Fährtenleser gegen die Täter einsetzen. Horn versteht den Auftrag zunehmend als Erlaubnis zu eigenmächtiger Gewalt. Der Film entwickelt daraus einen Konflikt zwischen den Interessen seiner Auftraggeber, seinen Methoden und der öffentlichen Reaktion.",
-      "anchor": "Der Auftrag gegen Viehdiebe öffnet Horn den Weg zur Selbstjustiz.",
       "interest": "Die konkrete Arbeit erklärt den Beginn des zentralen Konflikts.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Der Auftrag gegen Viehdiebe öffnet Horn den Weg zur Selbstjustiz."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Glendolene ist die örtliche Lehrerin.",
       "context": "Glendolene Kimmel (Linda Evans) arbeitet als Lehrerin und lernt Tom Horn (Steve McQueen) bei einer gesellschaftlichen Zusammenkunft kennen. Zwischen beiden entsteht eine persönliche Beziehung. Ihr Interesse am Westen bedeutet aber nicht, dass sie Horns gewaltsame Lebensweise dauerhaft akzeptiert. Die Figur bietet ihm Nähe und zugleich einen Blick auf die Veränderung seiner Umgebung, die seine bisherigen Fähigkeiten immer weniger selbstverständlich benötigt.",
-      "anchor": "Die Lehrerin verbindet Nähe zu Horn mit Abstand zu seiner Gewalt.",
       "interest": "Die zentrale Beziehung wird über eine konkrete gesellschaftliche Rolle erschlossen.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Die Lehrerin verbindet Nähe zu Horn mit Abstand zu seiner Gewalt."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Horns Auftraggeber fürchten um ihren Ruf.",
       "context": "Tom Horn (Steve McQueen) beendet den Viehdiebstahl durch brutale Maßnahmen. Nach einem öffentlichen Schusswechsel wächst jedoch die Empörung. Die Rancher erkennen, dass ihre Unterstützung bekannt werden und ihnen schaden könnte. John Coble (Richard Farnsworth) erlebt, wie sie sich von ihrem Helfer lösen wollen. Der Konflikt beruht auf dem Widerspruch zwischen den stillschweigend gewünschten Methoden und der Verantwortung, die die Auftraggeber dafür öffentlich übernehmen würden.",
-      "anchor": "Der nützliche Helfer wird zum Risiko für seine Auftraggeber.",
       "interest": "Das Motiv erklärt die Umkehr vom Auftrag zur Beseitigung des Beauftragten.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Der nützliche Helfer wird zum Risiko für seine Auftraggeber."
     },
     {
       "code": "M2",
@@ -104,13 +104,13 @@
       ],
       "short": "Belle versteckt einen mitschreibenden Reporter.",
       "context": "Marshal Joe Belle (Billy Green Bush) lockt Tom Horn (Steve McQueen) in sein Büro und versucht, ein Geständnis zum Tod des Jungen zu erhalten. Ein Reporter sitzt verborgen im angrenzenden Raum und hält das Gespräch fest. Horn kennt diese Vorbereitung nicht. Der Film stellt damit eine Gesprächssituation dar, deren Zweck zwischen den Beteiligten ungleich verteilt ist und die später als belastendes Material verwendet wird.",
-      "anchor": "Das scheinbare Bürogespräch hat einen verborgenen Mitschreiber.",
       "interest": "Die Inszenierung der Beweiserhebung ist ein eigenes Handlungsglied.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das scheinbare Bürogespräch hat einen verborgenen Mitschreiber."
     },
     {
       "code": "S1",
@@ -129,13 +129,13 @@
       ],
       "short": "Die Zeugenaussage verfälscht eine hypothetische Bemerkung zum Geständnis.",
       "context": "Tom Horn (Steve McQueen) hat im Büro erklärt, falls er den Jungen erschossen hätte, wäre es ein außergewöhnlicher Schuss und eine besonders niederträchtige Tat gewesen. Im Prozess behauptet der Reporter dagegen, Horn habe mit dem Mord geprahlt. Der Film zeigt diese Aussage als Meineid. Damit geht es um eine konkrete Verfälschung der Filmfigur, nicht um einen Beweis für Schuld oder Unschuld des historischen Horn.",
-      "anchor": "Aus dem Wenn-Satz wird vor Gericht ein behauptetes Geständnis.",
       "interest": "Der Bedeutungswechsel erklärt die Wirkung des manipulierten Gesprächs.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Aus dem Wenn-Satz wird vor Gericht ein behauptetes Geständnis."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Der Schlussschriftzug gibt Cobles Überzeugung wieder.",
       "context": "Nach Tom Horns (Steve McQueen) Hinrichtung folgt ein Text, der John Coble (Richard Farnsworth) zugeschrieben wird. Er erinnert an Horn als Freund und bekundet seine Überzeugung von dessen Unschuld. Der Film schließt damit auf einer persönlichen Stellungnahme. Diese Form ist von einem Gerichtsurteil oder einer nachträglich belegten Begnadigung zu unterscheiden; sie macht die Perspektive des Freundes sichtbar, ohne einen historischen Schuldnachweis zu liefern.",
-      "anchor": "Der Schluss spricht mit Cobles Stimme, nicht mit einem neuen Gerichtsurteil.",
       "interest": "Das Gestaltungsziel hält Filmstandpunkt und historische Beweisfrage auseinander.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Schluss spricht mit Cobles Stimme, nicht mit einem neuen Gerichtsurteil."
     },
     {
       "code": "Y",
@@ -178,11 +178,11 @@
       ],
       "short": "1904 Horns Buch, 1980 die Verfilmung: 76 Jahre.",
       "context": "„Ich, Tom Horn“ erschien 1980. AFI nennt Horns Buch „Life of Tom Horn, Government Scout and Interpreter“ von 1904 als Vorlage. Zwischen Buchveröffentlichung und Film liegen 76 Jahre. Der Vergleich verbindet eine frühe Selbstdarstellung mit einer viel späteren filmischen Bearbeitung. Steve McQueen spielt Tom Horn, doch seine Darstellung und der Standpunkt des Films ersetzen keine unabhängige historische Prüfung der geschilderten Ereignisse.",
-      "anchor": "1904 Buch, 1980 Film: 76 Jahre Abstand.",
       "interest": "Die belegte Buchvorlage liefert einen konkreten Anker jenseits abweichender Kinotage.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1904 Buch, 1980 Film: 76 Jahre Abstand."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "William Wiard ist der offizielle Hauptregisseur.",
       "context": "William Wiard übernahm die Inszenierung während einer schwierigen Produktion. AFI dokumentiert frühere Regiepläne sowie die Ablösung von James William Guercio und führt Wiard als Hauptregisseur. Steve McQueen spielt Tom Horn. Die wechselnde Projektgeschichte begründet kein gemeinsames Regieteam der veröffentlichten Fassung. Der Filmcredit bleibt auch dann eindeutig, wenn Quellen die Dauer einer vorherigen Mitarbeit unterschiedlich beschreiben.",
-      "anchor": "Die wechselnde Produktion endet mit Wiards Hauptregiecredit.",
       "interest": "Der fertige Credit wird von ausgeschiedenen Regisseuren und unsicheren Mitwirkungsbehauptungen getrennt.",
       "sources": [
         "afi",
         "handlung"
-      ]
+      ],
+      "objective": "Die wechselnde Produktion endet mit Wiards Hauptregiecredit."
     }
   ]
 }

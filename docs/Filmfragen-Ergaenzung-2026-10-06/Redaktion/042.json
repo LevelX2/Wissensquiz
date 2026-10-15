@@ -32,12 +32,12 @@
       ],
       "short": "Das Team arbeitet beim Boston Globe.",
       "context": "Das Team arbeitet beim Boston Globe. Die Zeitung untersucht Missbrauch und Vertuschung innerhalb der katholischen Kirche in ihrer eigenen Stadt, wodurch berufliche Recherche auch persönliche Bindungen belastet.",
-      "anchor": "Die Bostoner Lokalrecherche wächst zum großen Skandal.",
       "interest": "Die Bostoner Lokalrecherche wächst zum großen Skandal.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Bostoner Lokalrecherche wächst zum großen Skandal."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Das Team untersucht sexuellen Kindesmissbrauch durch Priester und seine Vertuschung.",
       "context": "Das Team untersucht sexuellen Kindesmissbrauch durch Priester und seine Vertuschung. Der Film folgt der Suche nach Belegen, die über einzelne Täter hinaus auf ein institutionelles Muster weisen.",
-      "anchor": "Die Recherche gilt Missbrauch und systematischer Vertuschung.",
       "interest": "Die Recherche gilt Missbrauch und systematischer Vertuschung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Recherche gilt Missbrauch und systematischer Vertuschung."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Robinson will das System hinter einzelnen Fällen belegen.",
       "context": "Robinson (Michael Keaton) will das System hinter einzelnen Fällen belegen. Ein Bericht nur über einen Täter könnte als Ausnahme abgetan werden; Dokumente sollen daher das Wissen und Handeln der Kirchenleitung zeigen.",
-      "anchor": "Erst das System belegen, dann veröffentlichen.",
       "interest": "Erst das System belegen, dann veröffentlichen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Erst das System belegen, dann veröffentlichen."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Die Anschläge vom 11.",
       "context": "Die Anschläge vom 11. September unterbrechen die Recherche. Die Redaktion muss ihre Kräfte auf die akute Nachrichtenlage richten, bevor das Team zum noch unveröffentlichten Material zurückkehrt.",
-      "anchor": "Die Weltlage unterbricht die lokale Recherche.",
       "interest": "Die Weltlage unterbricht die lokale Recherche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Weltlage unterbricht die lokale Recherche."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Robinson hatte eine frühere Liste nicht weiterverfolgt.",
       "context": "Robinson (Michael Keaton) hatte eine frühere Liste nicht weiterverfolgt. Die neue Recherche macht auch ein Versäumnis der eigenen Zeitung sichtbar; die Redaktion steht deshalb nicht vollständig außerhalb des untersuchten Schweigens.",
-      "anchor": "Die Zeitung muss auch ihr eigenes Wegsehen prüfen.",
       "interest": "Die Zeitung muss auch ihr eigenes Wegsehen prüfen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Zeitung muss auch ihr eigenes Wegsehen prüfen."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Weitere Betroffene melden sich telefonisch.",
       "context": "Weitere Betroffene melden sich telefonisch. Der veröffentlichte Bericht und die Kontaktmöglichkeit öffnen den Raum für zusätzliche Zeugnisse; das Ende zeigt den Beginn einer größeren Aufarbeitung.",
-      "anchor": "Die Veröffentlichung bringt neue Stimmen zum Telefon.",
       "interest": "Die Veröffentlichung bringt neue Stimmen zum Telefon.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Veröffentlichung bringt neue Stimmen zum Telefon."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 2015 erstmals veröffentlicht.",
       "context": "2015 kam die Verfilmung einer Recherche an die Öffentlichkeit. Die dargestellte Veröffentlichung des Boston Globe liegt im Januar 2002; der Pulitzer-Preis folgte 2003. Diese Recherche ging dem Kinofilm um dreizehn Jahre voraus.",
-      "anchor": "Die Rechercheveröffentlichung von 2002 wurde dreizehn Jahre später, 2015, verfilmt.",
       "interest": "Die Rechercheveröffentlichung von 2002 wurde dreizehn Jahre später, 2015, verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Rechercheveröffentlichung von 2002 wurde dreizehn Jahre später, 2015, verfilmt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Tom McCarthy.",
       "context": "McCarthy schrieb das Drehbuch gemeinsam mit Josh Singer. Das Ensemble zeigt journalistische Arbeit als langwierigen Prozess: Aussagen müssen gesammelt, Dokumente geprüft und institutionelle Zusammenhänge nachgewiesen werden.",
-      "anchor": "McCarthy schrieb das Drehbuch gemeinsam mit Josh Singer.",
       "interest": "McCarthy schrieb das Drehbuch gemeinsam mit Josh Singer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "McCarthy schrieb das Drehbuch gemeinsam mit Josh Singer."
     }
   ]
 }

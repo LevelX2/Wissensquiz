@@ -36,14 +36,14 @@
       ],
       "short": "Jojo entdeckt die versteckte Elsa.",
       "context": "Rosie Betzler (Scarlett Johansson) versteckt Elsa Korr (Thomasin McKenzie) vor der nationalsozialistischen Verfolgung. Ihr Sohn Jojo (Roman Griffin Davis) wurde in gegensätzlichen Vorstellungen erzogen. Die Begegnung im eigenen Haus zwingt ihn, das gelernte Feindbild mit einem tatsächlichen Menschen abzugleichen.",
-      "anchor": "Elsa im Haus widerspricht Jojos erlerntem Feindbild.",
       "interest": "Elsa im Haus widerspricht Jojos erlerntem Feindbild.",
       "sources": [
         "handlung",
         "studio",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Elsa im Haus widerspricht Jojos erlerntem Feindbild."
     },
     {
       "code": "L2",
@@ -62,14 +62,14 @@
       ],
       "short": "Der Hitler des Films ist Jojos imaginärer Freund.",
       "context": "Adolf (Taika Waititi) verkörpert die nationalsozialistischen Vorstellungen im Kopf von Jojo (Roman Griffin Davis). Er ist weder ein realer Besucher noch eine historische private Begegnung. Je stärker Jojo an der Ideologie zweifelt, desto aggressiver wird der eingebildete Freund; eine kindliche Fantasie bekommt dadurch eine bedrohliche Funktion.",
-      "anchor": "Der Fantasie-Hitler macht Jojos innere Indoktrination sichtbar.",
       "interest": "Der Fantasie-Hitler macht Jojos innere Indoktrination sichtbar.",
       "sources": [
         "handlung",
         "studio",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Fantasie-Hitler macht Jojos innere Indoktrination sichtbar."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Jojo kann das Kaninchen im Lager nicht töten.",
       "context": "Im Ausbildungslager soll Jojo (Roman Griffin Davis) Härte beweisen, indem er ein wehrloses Tier tötet. Seine Weigerung führt zu Spott. Der Spitzname entsteht gerade aus einem Rest von Mitgefühl, den die Erziehung verdrängen will; später wird diese Fähigkeit auch in seiner Beziehung zu Elsa wichtig.",
-      "anchor": "Der Spitzname entsteht aus verweigerter Grausamkeit.",
       "interest": "Der Spitzname entsteht aus verweigerter Grausamkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Spitzname entsteht aus verweigerter Grausamkeit."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Klenzendorf entfernt Jojos Uniform und verstellt sich gegenüber den Soldaten.",
       "context": "Jojo (Roman Griffin Davis) wird wegen seiner Uniform mit Erwachsenen festgehalten. Hauptmann Klenzendorf (Sam Rockwell) reißt ihm die Jacke ab und beschimpft ihn als Juden, damit die sowjetischen Soldaten ihn gehen lassen. Eine äußerlich verletzende Geste schützt hier den Jungen; die Bedeutung erschließt sich aus der lebensgefährlichen Lage.",
-      "anchor": "Klenzendorfs Beschimpfung tarnt eine Rettung.",
       "interest": "Klenzendorfs Beschimpfung tarnt eine Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Klenzendorfs Beschimpfung tarnt eine Rettung."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Jojo will Elsa aus Angst vor dem Alleinsein bei sich behalten.",
       "context": "Jojo (Roman Griffin Davis) weiß, dass die Alliierten gewonnen haben. Elsa Korr (Thomasin McKenzie) müsste sich daher nicht weiter verstecken. Seine Lüge ist keine politisch überzeugte Nachricht, sondern ein Versuch, ihre Freiheit zu verzögern. Erst draußen erkennt sie die Wahrheit; der gemeinsame Tanz lässt die geschlossene Welt des Hauses hinter sich.",
-      "anchor": "Jojo verwechselt Nähe zunächst mit dem Festhalten an Elsas Gefangenschaft.",
       "interest": "Jojo verwechselt Nähe zunächst mit dem Festhalten an Elsas Gefangenschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jojo verwechselt Nähe zunächst mit dem Festhalten an Elsas Gefangenschaft."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Jojo befördert den Fantasie-Hitler aus dem Fenster.",
       "context": "Adolf (Taika Waititi) versucht noch einmal, Jojo (Roman Griffin Davis) an die alte Ideologie zu binden. Der Junge weist ihn körperlich aus seiner Welt. Weil Adolf eine Fantasiefigur ist, beschreibt die Szene keine historische Tötung, sondern einen sichtbar gemachten inneren Bruch mit der bisherigen Verehrung.",
-      "anchor": "Der Tritt aus dem Fenster ist Jojos sichtbarer Bruch mit der Ideologie.",
       "interest": "Der Tritt aus dem Fenster ist Jojos sichtbarer Bruch mit der Ideologie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Tritt aus dem Fenster ist Jojos sichtbarer Bruch mit der Ideologie."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 2019.",
       "context": "Jojo Rabbit wurde 2019 in Toronto erstmals gezeigt. Seine Handlung führt bis zum Kriegsende 1945, 74 Jahre vor der Premiere. Der Gegensatz verbindet den kindlichen Fantasie-Hitler mit der Auflösung seines erlernten Weltbilds: Die Figuren müssen weiterleben, nachdem das System hinter dieser Vorstellung zusammengebrochen ist.",
-      "anchor": "Kriegsende 1945, Filmsatire 2019: 74 Jahre Abstand.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Kriegsende 1945, Filmsatire 2019: 74 Jahre Abstand.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Kriegsende 1945, Filmsatire 2019: 74 Jahre Abstand."
     },
     {
       "code": "D",
@@ -209,7 +209,6 @@
       ],
       "short": "Der Regiecredit lautet Taika Waititi.",
       "context": "Taika Waititi führte Regie, schrieb das Drehbuch und spielt den eingebildeten Hitler. Die Vorlage ist Christine Leunens’ Roman Caging Skies. Der groteske Freund ist eine Ergänzung der Adaption: Durch ihn wird sichtbar, wie ein indoktrinierter Junge seine Ideologie als persönliche Beziehung erlebt.",
-      "anchor": "Taika Waititi: Die Vorlage ist Christine Leunens’ Roman Caging Skies.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "studio",
@@ -217,7 +216,8 @@
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Taika Waititi: Die Vorlage ist Christine Leunens’ Roman Caging Skies."
     }
   ]
 }

@@ -37,12 +37,12 @@
       ],
       "short": "Nach dem Unfall entdeckt Jack eine Welt, in der niemand um ihn herum die Beatles kennt.",
       "context": "Nach dem Unfall entdeckt Jack eine Welt, in der niemand um ihn herum die Beatles kennt. Die vertrauten Lieder erscheinen seinen Freunden als neue Kompositionen. Daraus entsteht seine außergewöhnliche Chance, aber auch ein Problem der Ehrlichkeit. Der Film setzt eine bekannte Musikkultur voraus und fragt, was geschieht, wenn nur eine einzelne Person ihre Erinnerung bewahrt.",
-      "anchor": "Jack erinnert die Beatles, seine Umgebung kennt sie nicht.",
       "interest": "Die zentrale fantastische Voraussetzung erkennen.",
       "sources": [
         "universal"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jack erinnert die Beatles, seine Umgebung kennt sie nicht."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ellie arbeitet als Lehrerin und unterstützt Jack schon vor seinem Erfolg.",
       "context": "Ellie arbeitet als Lehrerin und unterstützt Jack schon vor seinem Erfolg. Ihr eigener Alltag steht später neben der immer größeren musikalischen Karriere. Als ein schulischer Termin ihre Mitreise verhindert, wird diese unterschiedliche Lebenswelt konkret. Die Beziehung wird nicht erst durch den Ruhm begründet; ihre Bedeutung liegt gerade in der gemeinsamen Zeit davor.",
-      "anchor": "Ellie bleibt Lehrerin und Jacks frühe Unterstützerin.",
       "interest": "Die Figur außerhalb ihrer Liebesrolle erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ellie bleibt Lehrerin und Jacks frühe Unterstützerin."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Jack spielt die Lieder als vermeintlich eigene Songs.",
       "context": "Jack spielt die Lieder als vermeintlich eigene Songs. Sein Publikum kann die tatsächliche Herkunft nicht erkennen, sodass die Erinnerung zum Karrierevorteil wird. Die fiktive Welt macht sein Verhalten möglich, beseitigt aber nicht seinen persönlichen Konflikt. Je größer der Erfolg wird, desto schwerer lässt sich die ausgelassene Urheberschaft von den neuen Beziehungen und Verpflichtungen trennen.",
-      "anchor": "Er erinnert fremde Songs und beansprucht sie als eigene.",
       "interest": "Chance und Täuschung der Karriere verbinden.",
       "sources": [
         "home"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Er erinnert fremde Songs und beansprucht sie als eigene."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Jack besucht Liverpool, weil er Teile von „Eleanor Rigby“ nicht mehr sicher erinnert.",
       "context": "Jack besucht Liverpool, weil er Teile von „Eleanor Rigby“ nicht mehr sicher erinnert. Bekannte Beatles-Orte sollen seine eigene Erinnerung anregen. Die Szene setzt seinem Vorteil eine Grenze: Auch der einzige vermeintliche Kenner besitzt kein vollständiges Archiv im Kopf. Seine Karriere hängt von einer unsicheren persönlichen Erinnerung ab, während das Publikum präzise fertige Songs erwartet.",
-      "anchor": "Liverpool soll Jacks lückenhafte Lied-Erinnerung anregen.",
       "interest": "Die Grenze seines außergewöhnlichen Wissens erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Liverpool soll Jacks lückenhafte Lied-Erinnerung anregen."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Die beiden erinnern ebenfalls die Beatles, reagieren aber dankbar auf die wieder hörbaren Lieder.",
       "context": "Die beiden erinnern ebenfalls die Beatles, reagieren aber dankbar auf die wieder hörbaren Lieder. Sie zerstören Jacks Geheimnis nicht öffentlich, obwohl sie die tatsächliche Herkunft kennen. Die Begegnung verändert den moralischen Druck: Die Musik hat für sie einen Wert unabhängig von Jacks falschem Anspruch. Ihre Dankbarkeit löst seine eigene Frage nach Ehrlichkeit trotzdem nicht vollständig.",
-      "anchor": "Die Mitwisser danken für die gerettete Musik.",
       "interest": "Eine unerwartete Reaktion von Entdeckern der Täuschung verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Mitwisser danken für die gerettete Musik."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Jack erklärt öffentlich, dass die Songs nicht von ihm stammen, und lässt Rocky sie frei zugänglich hochladen.",
       "context": "Jack erklärt öffentlich, dass die Songs nicht von ihm stammen, und lässt Rocky sie frei zugänglich hochladen. Damit unterläuft er die geplante kommerzielle Veröffentlichung. Seine Entscheidung verbindet die Aufgabe des falschen Urheberanspruchs mit einer anderen Verbreitung der Musik. Der Schluss richtet den Blick anschließend auf sein persönliches Leben und die Beziehung zu Ellie.",
-      "anchor": "Das Geständnis führt zur kostenlosen Veröffentlichung durch Rocky.",
       "interest": "Die praktische Folge seiner Entscheidung erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Geständnis führt zur kostenlosen Veröffentlichung durch Rocky."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Weltpremiere am 4. Mai 2019 beim Tribeca Film Festival.",
       "context": "Die Dreharbeiten begannen 2018; der fertige Film wurde 2019 erstmals gezeigt. Ein Jahr liegt damit zwischen dem Drehbeginn und der Veröffentlichung. Die Produktion nutzte reale Konzertorte und Auftritte für die fiktive Erfolgsgeschichte. Der Zeitanker verbindet die Aufnahmephase mit dem späteren Film, ohne die alternative Filmwelt mit tatsächlicher Beatles-Geschichte gleichzusetzen.",
-      "anchor": "2018 Drehbeginn, 2019 Veröffentlichung: ein Jahr bis Jacks Beatles-Welt.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2018 Drehbeginn, 2019 Veröffentlichung: ein Jahr bis Jacks Beatles-Welt."
     },
     {
       "code": "D",
@@ -206,14 +206,14 @@
       ],
       "short": "Danny Boyle führte Regie; Richard Curtis schrieb das Drehbuch nach einer Geschichte von Jack Barth und Curtis.",
       "context": "Danny Boyle führte Regie; Richard Curtis schrieb das Drehbuch nach einer Geschichte von Jack Barth und Curtis. Himesh Patel sang und spielte für die Rolle selbst. Die Kombination verbindet Boyles musikalische Filmgestaltung mit Curtis’ romantischer Handlung. Jack erhält eine außergewöhnliche Karrierechance, während die Beziehung zur Person, die ihn schon vorher unterstützte, auf dem Spiel steht.",
-      "anchor": "Boyle inszeniert Curtis’ Beatles-Fantasie mit Patels eigener Musikdarstellung.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel",
         "universal"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Boyle inszeniert Curtis’ Beatles-Fantasie mit Patels eigener Musikdarstellung."
     }
   ]
 }

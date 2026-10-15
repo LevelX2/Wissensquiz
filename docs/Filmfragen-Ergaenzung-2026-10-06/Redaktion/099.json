@@ -36,12 +36,12 @@
       ],
       "short": "André (David Hedison, damals Al Hedison) erprobt Materietransport.",
       "context": "André (David Hedison, damals Al Hedison) erprobt Materietransport. Die Versuche reichen von Gegenständen zu Lebewesen; die eigene Teilnahme überschreitet schließlich die bis dahin erprobte Sicherheit.",
-      "anchor": "Der Selbstversuch erweitert den Gegenstandstransport auf den eigenen Körper.",
       "interest": "Der Selbstversuch erweitert den Gegenstandstransport auf den eigenen Körper.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Selbstversuch erweitert den Gegenstandstransport auf den eigenen Körper."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Hélène (Patricia Owens) bekennt sich zur Tötung.",
       "context": "Hélène (Patricia Owens) bekennt sich zur Tötung. Sie verschweigt zunächst das Motiv; erst die Suche nach der ungewöhnlichen Fliege führt François (Vincent Price) zu ihrer ausführlichen Erklärung.",
-      "anchor": "Das Tatgeständnis lässt die Ursache zunächst offen.",
       "interest": "Das Tatgeständnis lässt die Ursache zunächst offen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Tatgeständnis lässt die Ursache zunächst offen."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Fliege trägt die vertauschten menschlichen Teile.",
       "context": "Die Fliege trägt die vertauschten menschlichen Teile. Hélène (Patricia Owens) muss sie für einen erneuten Transport finden; Andrés (David Hedison) Heilungsmöglichkeit hängt damit an einem entkommenden kleinen Tier.",
-      "anchor": "Die Umkehrung braucht beide vertauschten Körper.",
       "interest": "Die Umkehrung braucht beide vertauschten Körper.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Umkehrung braucht beide vertauschten Körper."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "André nutzt Schrift und Klopfzeichen.",
       "context": "André (David Hedison) nutzt Schrift und Klopfzeichen. André (David Hedison) verhüllt seinen Kopf; die eingeschränkte Kommunikation hält seine Veränderung zunächst vom direkten Blick seiner Frau Hélène (Patricia Owens) fern.",
-      "anchor": "Die Schrift hält einen menschlichen Austausch trotz des fremden Kopfes aufrecht.",
       "interest": "Die Schrift hält einen menschlichen Austausch trotz des fremden Kopfes aufrecht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Schrift hält einen menschlichen Austausch trotz des fremden Kopfes aufrecht."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "André fürchtet den Verlust seines menschlichen Willens.",
       "context": "André (David Hedison) fürchtet den Verlust seines menschlichen Willens. André (David Hedison) zerstört die Technik, solange er noch handeln kann, und verlangt anschließend den Tod durch die Presse.",
-      "anchor": "Die Technik wird vor dem drohenden Verlust der Kontrolle vernichtet.",
       "interest": "Die Technik wird vor dem drohenden Verlust der Kontrolle vernichtet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Technik wird vor dem drohenden Verlust der Kontrolle vernichtet."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Charas (Herbert Marshall) sieht die Fliege mit Andrés Kopf.",
       "context": "Charas (Herbert Marshall) sieht die Fliege mit Andrés Kopf. Gemeinsam mit François (Vincent Price) erkennt er die Wahrheit; ihr Entschluss, den Tod anders zu erklären, schützt Hélène (Patricia Owens) vor einer Mordverurteilung.",
-      "anchor": "Das winzige Wesen bestätigt die zuvor unglaubhafte Erklärung.",
       "interest": "Das winzige Wesen bestätigt die zuvor unglaubhafte Erklärung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das winzige Wesen bestätigt die zuvor unglaubhafte Erklärung."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Der Film wurde 1958 erstmals veröffentlicht.",
       "context": "1958 erschien die Verfilmung von Langelaans Erzählung aus dem Jahr 1957, ein Jahr nach der Vorlage. David Cronenbergs Neuverfilmung kam 1986 heraus, 28 Jahre später, und hat einen anderen Regisseur und Hauptdarsteller.",
-      "anchor": "Langelaans Geschichte von 1957 wurde 1958 verfilmt; die Neuverfilmung folgte 1986, 28 Jahre später.",
       "interest": "Langelaans Geschichte von 1957 wurde 1958 verfilmt; die Neuverfilmung folgte 1986, 28 Jahre später.",
       "sources": [
         "katalog",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Langelaans Geschichte von 1957 wurde 1958 verfilmt; die Neuverfilmung folgte 1986, 28 Jahre später."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Regie: Kurt Neumann.",
       "context": "Neumann führte Regie und produzierte den Film. Das Labor nutzte nach den Produktionsunterlagen militärische Altbestände; die Apparatur wirkt dadurch technisch konkret, obwohl der Stoff einen unmöglichen Transportvorgang erzählt.",
-      "anchor": "Neumann führte Regie und produzierte den Film.",
       "interest": "Neumann führte Regie und produzierte den Film.",
       "sources": [
         "katalog",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Neumann führte Regie und produzierte den Film."
     }
   ]
 }

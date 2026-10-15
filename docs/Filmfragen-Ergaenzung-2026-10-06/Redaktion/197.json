@@ -36,12 +36,12 @@
       ],
       "short": "Kaneda (Originalstimme Mitsuo Iwata) führt eine Motorradgang.",
       "context": "Kaneda (Originalstimme Mitsuo Iwata) führt eine Motorradgang. Die Rivalität auf den Straßen steht neben politischen Unruhen; Tetsuos (Nozomu Sasaki) Unfall führt dieses Jugendmilieu in die staatlichen Experimente hinein.",
-      "anchor": "Die Motorradwelt führt in den staatlichen Versuchskomplex.",
       "interest": "Die Motorradwelt führt in den staatlichen Versuchskomplex.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Motorradwelt führt in den staatlichen Versuchskomplex."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Tetsuo entwickelt psychische Kräfte, die an die des früheren Akira erinnern.",
       "context": "Tetsuo entwickelt psychische Kräfte, die an die des früheren Akira erinnern. Seine neue Macht übersteigt seine Kontrollfähigkeit; aus einem bisher untergeordneten Gangmitglied wird eine Gefahr für die gesamte Stadt.",
-      "anchor": "Tetsuos neue Macht wächst schneller als seine Kontrolle.",
       "interest": "Tetsuos neue Macht wächst schneller als seine Kontrolle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tetsuos neue Macht wächst schneller als seine Kontrolle."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Akiras Überreste werden unter dem im Bau befindlichen Olympiastadion verwahrt.",
       "context": "Akiras Überreste werden unter dem im Bau befindlichen Olympiastadion verwahrt. Die öffentliche Zukunftsvision der Stadt steht damit buchstäblich über ihrer verdrängten experimentellen Vergangenheit.",
-      "anchor": "Die Stadionbaustelle bedeckt das alte Experiment.",
       "interest": "Die Stadionbaustelle bedeckt das alte Experiment.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Stadionbaustelle bedeckt das alte Experiment."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Kiyoko nutzt Kei als Medium, um Tetsuo (Originalstimme Nozomu Sasaki) entgegenzutreten.",
       "context": "Kiyoko nutzt Kei als Medium, um Tetsuo (Originalstimme Nozomu Sasaki) entgegenzutreten. Die Widerstandsaktivistin wird damit zum Vermittlungsweg einer anderen Kraft; ihr Kampf ist nicht ausschließlich eine eigene körperliche Überlegenheit.",
-      "anchor": "Kei vermittelt die Kräfte der anderen Begabten.",
       "interest": "Kei vermittelt die Kräfte der anderen Begabten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Kei vermittelt die Kräfte der anderen Begabten."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Tetsuos Körper wächst zu einer zerstörerischen Masse.",
       "context": "Tetsuos Körper wächst zu einer zerstörerischen Masse. Die Macht, mit der er seine frühere Unterlegenheit überwinden wollte, lässt sich nicht mehr beherrschen; die äußerliche Entgrenzung macht seine innere Überforderung unmittelbar sichtbar.",
-      "anchor": "Die unbeherrschte Kraft sprengt Tetsuos körperliche Grenzen.",
       "interest": "Die unbeherrschte Kraft sprengt Tetsuos körperliche Grenzen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die unbeherrschte Kraft sprengt Tetsuos körperliche Grenzen."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Begabten holen Kaneda (Originalstimme Mitsuo Iwata) aus der Singularität zurück, obwohl sie selbst nicht zurückkehren werden.",
       "context": "Die Begabten holen Kaneda (Originalstimme Mitsuo Iwata) aus der Singularität zurück, obwohl sie selbst nicht zurückkehren werden. Seine Rettung entsteht durch einen bewussten Verzicht anderer, während Tetsuos Weg außerhalb der vertrauten Welt weiterführt.",
-      "anchor": "Kanedas Rückkehr kostet die Retter ihren eigenen Rückweg.",
       "interest": "Kanedas Rückkehr kostet die Retter ihren eigenen Rückweg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Kanedas Rückkehr kostet die Retter ihren eigenen Rückweg."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1988 erschien der Film.",
       "context": "1988 erschien der Film. Die erste Manga-Veröffentlichung Katsuhiro Otomos begann 1982, sechs Jahre zuvor; der Manga war bei Entstehung des Films noch nicht abgeschlossen. Die Verfilmung entwickelt deshalb eine eigene komprimierte Handlungsfassung.",
-      "anchor": "Manga-Beginn 1982, Film 1988: Sechs Jahre später komprimiert Otomo den noch laufenden Stoff fürs Kino.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Manga-Beginn 1982, Film 1988: Sechs Jahre später komprimiert Otomo den noch laufenden Stoff fürs Kino."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch.",
       "context": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch. Die originalen Stimmen Mitsuo Iwata und Nozomu Sasaki gehören Kaneda und Tetsuo. Der Film verbindet Jugendgangs, staatliche Experimente und eine zerstörerische Überforderung psychischer Kräfte.",
-      "anchor": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch.",
       "interest": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Katsuhiro Otomo adaptierte seinen eigenen Manga und schrieb mit Izo Hashimoto das Drehbuch."
     }
   ]
 }

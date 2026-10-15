@@ -35,11 +35,11 @@
       ],
       "short": "Tevje ist Milchmann.",
       "context": "Tevje (Chaim Topol) versorgt das Dorf mit Milch und ringt zugleich darum, seine große Familie zu ernähren. Seine Arbeit verankert die Handlung im Alltag einer armen jüdischen Gemeinschaft. Während er unterwegs ist, trifft er Menschen mit anderen politischen und religiösen Vorstellungen. Die Gespräche auf diesen Wegen verbinden seine sehr persönlichen Sorgen mit den Veränderungen, die das ganze Dorf bedrohen.",
-      "anchor": "Tevjes Milchwagen verbindet Familie und Dorf.",
       "interest": "Der Beruf verortet die zentrale Figur im Alltag.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Tevjes Milchwagen verbindet Familie und Dorf."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Die jüdischen Bewohner werden vertrieben.",
       "context": "Die Behörden setzen den jüdischen Bewohnern eine kurze Frist zum Fortgehen. Tevje (Chaim Topol), Golde (Norma Crane) und ihre jüngeren Töchter verlassen damit ihre vertraute Umgebung. Die Nachbarn verteilen sich auf unterschiedliche Reiseziele. Der Schluss erweitert die familiären Auseinandersetzungen um Tradition und Heirat zu einem Verlust der gesamten Lebenswelt: Nicht nur einzelne Beziehungen, sondern die Gemeinschaft selbst wird auseinandergerissen.",
-      "anchor": "Die Familie verliert mit dem Dorf ihren gemeinsamen Lebensraum.",
       "interest": "Der Schluss macht den politischen Rahmen der Familiengeschichte sichtbar.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Familie verliert mit dem Dorf ihren gemeinsamen Lebensraum."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Chava heiratet den Christen Fedja.",
       "context": "Tevje (Chaim Topol) versucht, die Liebesentscheidungen seiner Töchter mit seinen Überzeugungen zu vereinbaren. Chava (Neva Small) heiratet jedoch Fedja (Raymond Lovelock), einen Christen. Hier verweigert der Vater seine Zustimmung und erklärt sie für die Familie als verloren. Der Konflikt führt vor Augen, dass seine Bereitschaft zum Nachgeben nicht grenzenlos ist: Was bei anderen Heiraten möglich war, scheitert an der religiösen Trennlinie.",
-      "anchor": "Tevjes Nachgeben endet an der Ehe außerhalb des Glaubens.",
       "interest": "Die dritte Ehe stellt eine eigene Grenze der Tradition dar.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Tevjes Nachgeben endet an der Ehe außerhalb des Glaubens."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Hodel folgt Perchik nach Sibirien.",
       "context": "Perchik (Paul Michael Glaser) wird nach seiner politischen Tätigkeit festgenommen und nach Sibirien verbannt. Hodel (Michèle Marsh) beschließt, zu ihm zu reisen. Tevje (Chaim Topol) begleitet sie zum Bahnhof und muss eine Tochter loslassen, deren Zukunft weit von ihm entfernt liegt. Das Abschiedslied verbindet ihre entschlossene Liebe mit seinem Schmerz; die politischen Folgen werden hier als Trennung innerhalb der Familie erfahrbar.",
-      "anchor": "Der Bahnhof trennt Hodel von ihrem Vater.",
       "interest": "Das Reiseziel verbindet politische Verfolgung mit einer Liebesentscheidung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Bahnhof trennt Hodel von ihrem Vater."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Tevje erfindet einen Traum über die Heirat.",
       "context": "Tzeitel (Rosalind Harris) möchte Motel (Leonard Frey) heiraten. Tevje (Chaim Topol) hat bereits eingewilligt, muss aber Golde (Norma Crane) überzeugen. Er erzählt von einem Traum, in dem die verstorbene Fruma-Sarah (Ruth Madoc) gegen eine Ehe mit ihrem Witwer droht. Die aufwendig dargestellte Traumsequenz ist deshalb kein übernatürlicher Beweis, sondern Tevjes erfundene Begründung für eine längst getroffene Entscheidung.",
-      "anchor": "Ein erfundener Traum macht den Sinneswandel akzeptabel.",
       "interest": "Die Frage unterscheidet erzählte Fantasie und tatsächliche Handlung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein erfundener Traum macht den Sinneswandel akzeptabel."
     },
     {
       "code": "S2",
@@ -151,12 +151,12 @@
       ],
       "short": "Die Violinsoli stammen von Isaac Stern.",
       "context": "Der sichtbare Geiger wird von Tutte Lemkow verkörpert, die Solopassagen der Filmmusik spielt dagegen Isaac Stern. John Williams bearbeitet und dirigiert die Musik von Jerry Bock und ergänzt eigenes Material. Bildfigur, musikalische Ausführung und Bearbeitung haben somit unterschiedliche Urheber. Die Zuordnung verhindert, dass die sichtbare Rolle mit der tatsächlich auf der Tonspur zu hörenden instrumentalen Leistung verwechselt wird.",
-      "anchor": "Tutte Lemkow im Bild, Isaac Stern an der Violine.",
       "interest": "Die instrumentale Besetzung erklärt die Zusammenarbeit von Bild und Ton.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Tutte Lemkow im Bild, Isaac Stern an der Violine."
     },
     {
       "code": "Y",
@@ -175,12 +175,12 @@
       ],
       "short": "Das Erstjahr ist 1971.",
       "context": "Die Filmfassung von „Anatevka“ wurde 1971 öffentlich gezeigt, sieben Jahre nach der Broadwaypremiere von „Fiddler on the Roof“ im Jahr 1964. Dieser Abstand führt von einem außergewöhnlich erfolgreichen Bühnenstück zu einer aufwendig an Schauplätzen gedrehten Kinoadaption. Die Landschaft und das Dorf gewinnen im Film sichtbare Räume, während die Heiratskonflikte und die Vertreibung weiterhin das dramatische Gerüst bilden.",
-      "anchor": "1964 Broadway → 1971 Film: sieben Jahre.",
       "interest": "Der Jahresanker verbindet die Bühnenvorlage mit ihrer Kinoadaption.",
       "sources": [
         "afi",
         "buehne"
-      ]
+      ],
+      "objective": "1964 Broadway → 1971 Film: sieben Jahre."
     },
     {
       "code": "D",
@@ -199,11 +199,11 @@
       ],
       "short": "Norman Jewison führte Regie.",
       "context": "Norman Jewison übertrug das Bühnenmusical ins Kino und war zugleich an der Produktion beteiligt. Er verband die musikalischen Nummern mit einem greifbaren Dorfleben und der Landschaft, die die Bühne nur andeuten konnte. Der Hauptregiecredit betrifft Jewison. Die Herkunft der Choreografie und die musikalische Bearbeitung sind eigenständige Aufgaben und machen ihre Urheber nicht automatisch zu weiteren Regisseuren des Films.",
-      "anchor": "Jewison führt die Bühnenhandlung in eine sichtbare Dorfwelt.",
       "interest": "Der Regiecredit bleibt von Musik und Choreografie getrennt.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Jewison führt die Bühnenhandlung in eine sichtbare Dorfwelt."
     }
   ]
 }

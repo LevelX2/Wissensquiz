@@ -50,13 +50,13 @@
       ],
       "short": "Der Verdienst soll die erhoffte Auswanderung ermöglichen.",
       "context": "Laura sieht auf Rhea eine bessere Zukunft und hofft, ihre Schwester dort zu erreichen. Die Arbeit auf dem Frachter soll die Reise finanzieren. Anna Katharina Schwabroh spielt eine Ärztin, die für diese Hoffnung eine lange Abwesenheit akzeptiert. Der persönliche Beweggrund macht die späteren Zweifel am Ziel der Reise für sie besonders schwerwiegend.",
-      "anchor": "Die Frachterarbeit finanziert Lauras Hoffnung auf das Leben bei ihrer Schwester.",
       "interest": "Das Motiv erklärt, warum das Versprechen von Rhea sie bindet.",
       "sources": [
         "wiki",
         "swiss"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Frachterarbeit finanziert Lauras Hoffnung auf das Leben bei ihrer Schwester."
     },
     {
       "code": "L2",
@@ -75,13 +75,13 @@
       ],
       "short": "Nur einzelne Besatzungsmitglieder überwachen jeweils das Schiff.",
       "context": "Die lange Reise wird durch Tiefschlaf überbrückt. Eine wache Person übernimmt jeweils die Kontrolle, während die anderen aus dem Alltag verschwinden. Die leeren Räume lassen Laura besonders deutlich auf Geräusche und Spuren reagieren. Die Organisation des Fluges erklärt damit sowohl die praktische Dauer der Mission als auch die erlebte Einsamkeit an Bord.",
-      "anchor": "Wechselnde Einzelwachen machen den großen Frachter zu einem einsamen Arbeitsort.",
       "interest": "Der Rhythmus verbindet Raumfahrtroutine und Spannung.",
       "sources": [
         "wiki",
         "swiss"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wechselnde Einzelwachen machen den großen Frachter zu einem einsamen Arbeitsort."
     },
     {
       "code": "M1",
@@ -100,13 +100,13 @@
       ],
       "short": "Die Container transportieren Menschen mit neuronalen Anschlüssen.",
       "context": "Die Entdeckung eines Kindes in einer Kapsel widerspricht der angegebenen Fracht. Laura untersucht einen neuronalen Anschluss und erkennt, dass hier Menschen transportiert werden. Der Arbeitsauftrag muss deshalb neu gelesen werden. Die vermeintlich technische Lieferung an eine Station steht nun in einem direkten Zusammenhang mit den Lebenshoffnungen anderer Menschen.",
-      "anchor": "Bau-Fracht wird als Transport schlafender Menschen entlarvt.",
       "interest": "Die konkrete Entdeckung verändert den Sinn des Auftrags.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bau-Fracht wird als Transport schlafender Menschen entlarvt."
     },
     {
       "code": "M2",
@@ -125,13 +125,13 @@
       ],
       "short": "Die kurze Laufzeit widerspricht der angegebenen Entfernung.",
       "context": "Rhea soll sehr weit entfernt sein. Die zunehmend schnellen Antworten passen jedoch nicht zu der erwarteten Übertragungszeit. Laura erhält keinen vollständigen Beweis, aber eine messbare Unstimmigkeit. Sie beginnt deshalb, die tatsächlichen Koordinaten des Frachters zu hinterfragen. Die private Korrespondenz liefert damit einen Hinweis, den der offizielle Auftrag nicht erklärt.",
-      "anchor": "Die zu kurze Nachrichtenlaufzeit stellt den angegebenen Reiseweg infrage.",
       "interest": "Der Zusammenhang verbindet persönliche Kommunikation und überprüfbare Navigation.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die zu kurze Nachrichtenlaufzeit stellt den angegebenen Reiseweg infrage."
     },
     {
       "code": "S1",
@@ -150,13 +150,13 @@
       ],
       "short": "Die Hoffnung wird durch ein simuliertes Leben aufrechterhalten.",
       "context": "Das angebotene Leben auf Rhea findet in einer Simulation statt. Die schlafenden Körper werden mit einer technischen Infrastruktur verbunden, während ihre Besitzer eine andere Welt erleben. Lauras Auswanderungswunsch beruhte somit auf einer falschen Vorstellung vom Ort. Die Enthüllung zwingt sie, Hoffnung und tatsächlich verfügbare Lebensmöglichkeiten voneinander zu trennen.",
-      "anchor": "Das versprochene Wohnziel ist eine simulierte Welt für ruhende Körper.",
       "interest": "Die Enthüllung erklärt Fracht, Implantate und irreführende Auswanderungshoffnung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das versprochene Wohnziel ist eine simulierte Welt für ruhende Körper."
     },
     {
       "code": "S2",
@@ -175,13 +175,13 @@
       ],
       "short": "Sie soll das falsche Zukunftsversprechen öffentlich auflösen.",
       "context": "Laura muss die Verbindung zur simulierten Welt nutzen, um ihre Täuschung sichtbar zu machen. Ihre letzte Nachricht soll außerdem eine reale Alternative benennen: Teile der Erde sind wieder bewohnbar. Eine künstliche Übertragung dient damit zur Aufklärung über die künstliche Umgebung. Der Abschied von der Schwester erhält eine politische Wirkung über die eigene Reise hinaus.",
-      "anchor": "Die letzte Nachricht benutzt Rhea, um Rheas Täuschung und eine reale Alternative offenzulegen.",
       "interest": "Der Plan verbindet private Trennung und öffentliche Aufklärung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die letzte Nachricht benutzt Rhea, um Rheas Täuschung und eine reale Alternative offenzulegen."
     },
     {
       "code": "Y",
@@ -200,14 +200,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2009.",
       "context": "Cargo wurde 2009 erstmals veröffentlicht. Ivan Englers Filmografie bei Swiss Films führt zuvor den Kurzfilm Nomina Domini von 2000. Neun Jahre liegen zwischen diesem früheren Regieprojekt und dem Langfilm. Die Verbindung macht den Raumfrachterfilm als späteren Schritt eines Filmemachers kenntlich, der hier gemeinsam mit Ralph Etter arbeitet.",
-      "anchor": "Nomina Domini 2000 → Cargo 2009: neun Jahre bis zu Englers gemeinsamem Langfilmprojekt.",
       "interest": "Der Zeitanker verbindet das Veröffentlichungsjahr mit einer belegten früheren Regiearbeit.",
       "sources": [
         "wiki",
         "swiss",
         "engler"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Nomina Domini 2000 → Cargo 2009: neun Jahre bis zu Englers gemeinsamem Langfilmprojekt."
     },
     {
       "code": "D",
@@ -226,14 +226,14 @@
       ],
       "short": "Ivan Engler und Ralph Etter führten bei diesem Film Regie.",
       "context": "Ivan Engler und Ralph Etter bilden das vollständige Regieteam. Die Filmwebsite bezeichnet Etter genauer als Co-Regisseur; Swiss Films nennt beide unter Regie. Engler arbeitete außerdem am Drehbuch und Schnitt. Die doppelte Creditangabe gehört deshalb zum Film, auch wenn eine kurze Werbezeile allein Englers Namen hervorhebt.",
-      "anchor": "Engler und Etter gehören beide zum Regiecredit des Schweizer Cargo.",
       "interest": "Die Quellenzuordnung erklärt, warum ein hervorgehobener Name den vollständigen Credit nicht ersetzt.",
       "sources": [
         "wiki",
         "swiss",
         "engler"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Engler und Etter gehören beide zum Regiecredit des Schweizer Cargo."
     }
   ]
 }

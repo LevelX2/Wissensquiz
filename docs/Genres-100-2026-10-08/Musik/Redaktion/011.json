@@ -35,11 +35,11 @@
       ],
       "short": "Sie möchte studieren, obwohl Frauen der Zugang verwehrt wird.",
       "context": "Yentl (Barbra Streisand) lernt schon bei ihrem Vater heimlich religiöse Texte. Nach seinem Tod sucht sie eine Möglichkeit, dieses Lernen fortzusetzen. Dafür nimmt sie eine männliche Identität an und wird an einer Jeschiwa aufgenommen. Ihre Verkleidung ist somit mit einem konkreten Bildungswunsch verbunden. Erst im Verlauf entstehen daraus die persönlichen Verwicklungen mit einem Studienfreund und dessen früherer Verlobten.",
-      "anchor": "Die Verkleidung öffnet eine sonst verschlossene Schule.",
       "interest": "Der Bildungswunsch erklärt den zentralen Handlungsantrieb.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Verkleidung öffnet eine sonst verschlossene Schule."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Sie reist in die Vereinigten Staaten.",
       "context": "Yentl (Barbra Streisand) verlässt Europa auf einem Schiff in Richtung Vereinigte Staaten. Ihre Entscheidung eröffnet die Hoffnung auf ein Leben, in dem sie als Frau weiterlernen kann. Der Schluss löst die Liebesgeschichte nicht durch eine gemeinsame Ehe auf. Stattdessen wird die Reise zum Ausdruck ihres eigenen Zukunftsentwurfs; die bislang zur Freiheit benötigte Verkleidung soll ihr Leben nicht dauerhaft bestimmen.",
-      "anchor": "Das Schiff nach Amerika trägt den Wunsch nach einem eigenen Leben.",
       "interest": "Das offene Ende zeigt die Konsequenz ihres Bildungswunsches.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Schiff nach Amerika trägt den Wunsch nach einem eigenen Leben."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Sie nennt sich nach ihrem verstorbenen Bruder Anshel.",
       "context": "Yentl (Barbra Streisand) nimmt den Namen ihres verstorbenen Bruders Anshel an. Als vermeintlicher junger Mann wird sie Studienpartnerin von Avigdor (Mandy Patinkin), der ihre tatsächliche Identität nicht kennt. Die Namenswahl verbindet den Neubeginn mit ihrer eigenen Familie. Zugleich erhält die Täuschung eine feste gesellschaftliche Form, weil die anderen Figuren Anshel als selbstverständlichen männlichen Teilnehmer ihres Alltags behandeln.",
-      "anchor": "Der Brudername Anshel wird zur neuen Identität.",
       "interest": "Die Herkunft des Alias ist ein eigener Teil der Verkleidungsgeschichte.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Brudername Anshel wird zur neuen Identität."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Die Familie reagiert auf den Suizid von Avigdors Bruder.",
       "context": "Avigdor (Mandy Patinkin) hat die tatsächliche Todesursache seines Bruders verschwiegen. Als Hadass’ (Amy Irving) Familie davon erfährt, deutet sie den Suizid als Hinweis auf eine mögliche familiäre psychische Belastung und löst die Verlobung. Der Film zeigt hier die Befürchtungen der Figuren, keine medizinische Diagnose. Die Trennung schafft die Voraussetzung dafür, dass die Familie nun Anshel (Barbra Streisand) als passenden Ehepartner betrachtet.",
-      "anchor": "Das Familienvorurteil trennt ein verlobtes Paar.",
       "interest": "Die konkrete Ursache erklärt die spätere Eheverwicklung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Familienvorurteil trennt ein verlobtes Paar."
     },
     {
       "code": "S1",
@@ -129,11 +129,11 @@
       ],
       "short": "Sie entscheidet sich gegen eine Ehe, die ihr Studium begrenzen würde.",
       "context": "Nachdem Yentl (Barbra Streisand) Avigdor (Mandy Patinkin) ihre Identität offenbart hat, wird eine gemeinsame Zukunft denkbar. Doch er erwartet von einer Frau eine andere Lebensrolle als von seinem männlichen Studienpartner. Yentl erkennt, dass eine Ehe ihren Lernmöglichkeiten Grenzen setzen würde. Sie trennt sich deshalb trotz ihrer Liebe von ihm. Der Schlusskonflikt betrifft die Bedingungen dieser Beziehung und nicht das Fehlen von Zuneigung.",
-      "anchor": "Liebe allein garantiert keinen Platz für das Studium.",
       "interest": "Die Entscheidung unterscheidet romantische Nähe und persönliche Freiheit.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Liebe allein garantiert keinen Platz für das Studium."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Die Vorlage stammt von Isaac Bashevis Singer.",
       "context": "Isaac Bashevis Singers Erzählung „Yentl, the Yeshiva Boy“ bildet die literarische Grundlage. Barbra Streisand und Jack Rosenthal bearbeiten sie für einen Film, der die inneren Fragen der Hauptfigur auch durch Lieder ausdrückt. Vorlage und Adaption sind eigenständige Werke. Besonders das hoffnungsvolle Filmende gehört zu einer Deutung der Geschichte, die nicht einfach unverändert aus dem literarischen Text übernommen wird.",
-      "anchor": "Singer erzählt die Vorlage, Streisand gestaltet die Filmfassung.",
       "interest": "Die Herkunft erschließt den Weg von Literatur zum Musical.",
       "sources": [
         "afi",
         "handlung"
-      ]
+      ],
+      "objective": "Singer erzählt die Vorlage, Streisand gestaltet die Filmfassung."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Das Erstjahr ist 1983.",
       "context": "„Yentl“ kam 1983 heraus, sieben Jahre nach der „A Star Is Born“-Fassung von 1976 mit Barbra Streisand. In der früheren Produktion war sie Hauptdarstellerin und an der Produktion beteiligt; bei „Yentl“ übernahm sie zusätzlich die Regie. Der Abstand verbindet zwei unterschiedliche Formen ihres Musicalschauspiels und markiert den Schritt zu einer Filmgestaltung, die sie selbst auch als Regisseurin verantwortete.",
-      "anchor": "1976 „A Star Is Born“ → 1983 Regiedebüt: sieben Jahre.",
       "interest": "Der Anker verbindet Streisands Filmrollen mit ihrer Regiearbeit.",
       "sources": [
         "afi",
         "star"
-      ]
+      ],
+      "objective": "1976 „A Star Is Born“ → 1983 Regiedebüt: sieben Jahre."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Barbra Streisand führte Regie.",
       "context": "Barbra Streisand spielt die Hauptrolle und führt bei ihrem Regiedebüt zugleich Regie. Außerdem ist sie am Drehbuch und an der Produktion beteiligt. AFI und BFI nennen sie eindeutig als Regisseurin. Die Verbindung dieser Aufgaben prägt einen Film, in dem Bildung, Geschlechterrollen und die innere Stimme der Hauptfigur zusammenkommen. Andere Personen aus früheren Entwicklungsphasen sind keine zusätzlichen Hauptregisseure der veröffentlichten Fassung.",
-      "anchor": "Streisand spielt, schreibt mit und inszeniert.",
       "interest": "Der Credit beschreibt ihre tatsächlich ausgeübte kreative Verantwortung.",
       "sources": [
         "afi",
         "bfi"
-      ]
+      ],
+      "objective": "Streisand spielt, schreibt mit und inszeniert."
     }
   ]
 }

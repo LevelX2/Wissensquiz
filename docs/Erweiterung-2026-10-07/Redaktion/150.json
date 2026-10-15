@@ -36,12 +36,12 @@
       ],
       "short": "Dragon Tiger Gate ist eine Kampfkunstschule.",
       "context": "Dragon Tiger Gate ist eine Kampfkunstschule. Ihre Aufgabe verbindet Ausbildung mit Schutz vor krimineller Gewalt. Die Schule ist deshalb nicht nur Kulisse für Wettkämpfe. Ihre Gemeinschaft steht einem Machtapparat gegenüber, der Kämpfer und Geschäfte abhängig hält. Der Konflikt betrifft auch die Frage, wofür erlernte Stärke eingesetzt wird.",
-      "anchor": "Die Schule bildet eine Gemeinschaft gegen kriminelle Gewalt.",
       "interest": "Die Einrichtung erklärt den gemeinsamen Ausgangspunkt.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Schule bildet eine Gemeinschaft gegen kriminelle Gewalt."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Dragon (Donnie Yen) und Tiger (Nicholas Tse) sind Halbbrüder.",
       "context": "Dragon (Donnie Yen) und Tiger (Nicholas Tse) sind Halbbrüder. Unterschiedliche Lebenswege haben ihre gemeinsame Herkunft verdeckt. Ihr Wiedersehen kann deshalb zunächst als gegnerische Begegnung erscheinen. Die spätere Erkenntnis ändert die Bedeutung des Kampfes: Aus zwei unbekannten Rivalen werden Angehörige einer getrennten Familie.",
-      "anchor": "Die Gegner entdecken ihre gemeinsame Familie.",
       "interest": "Die Verwandtschaft verändert die erste Begegnung.",
       "sources": [
         "archiv"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Gegner entdecken ihre gemeinsame Familie."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Tiger (Nicholas Tse) erkennt die andere Hälfte eines Jadeanhängers bei Dragon (Donnie Yen).",
       "context": "Tiger (Nicholas Tse) erkennt die andere Hälfte eines Jadeanhängers bei Dragon (Donnie Yen). Das geteilte Stück stellt eine Verbindung her, die Erinnerung und bloßes Aussehen nicht gesichert haben. Der Gegenstand trägt die gemeinsame Vergangenheit in die Gegenwart. Seine Bedeutung ergibt sich aus dem Zusammenpassen der Hälften.",
-      "anchor": "Die Jadehälften machen die getrennte Familie erkennbar.",
       "interest": "Ein Gegenstand übernimmt die Funktion eines Herkunftshinweises.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Jadehälften machen die getrennte Familie erkennbar."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Master Wong (Yuen Wah) besiegt Turbo (Shawn Yue) und macht dessen Überheblichkeit sichtbar.",
       "context": "Master Wong (Yuen Wah) besiegt Turbo (Shawn Yue) und macht dessen Überheblichkeit sichtbar. Die Aufnahme verlangt damit eine veränderte Haltung, nicht nur vorhandene Technik. Turbo muss anerkennen, dass Lernen einen Lehrer und eigene Grenzen voraussetzt. Der verlorene Kampf ermöglicht den Eintritt, statt ihn endgültig auszuschließen.",
-      "anchor": "Die Niederlage macht Turbo lernbereit.",
       "interest": "Die Prüfung betrifft die Haltung zur Ausbildung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Niederlage macht Turbo lernbereit."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Ma Kun (Chen Kuan-tai) will sich aus der Organisation zurückziehen.",
       "context": "Ma Kun (Chen Kuan-tai) will sich aus der Organisation zurückziehen. Shibumi (Yu Kang) wertet diesen Schritt als Angriff auf seine Macht. Ein scheinbar persönlicher Rückzug zeigt dadurch die Grenzen freiwilliger Mitgliedschaft. Die Abhängigkeit endet nicht mit einer erklärten Entscheidung; sie wird mit Gewalt aufrechterhalten.",
-      "anchor": "Der gewünschte Rückzug provoziert die tödliche Machtdemonstration.",
       "interest": "Der Mord zeigt die Unfreiheit innerhalb der Organisation.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der gewünschte Rückzug provoziert die tödliche Machtdemonstration."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Tony Wong Yuk-long, der Zeichner des ursprünglichen Comics, spielt Master Qi.",
       "context": "Tony Wong Yuk-long, der Zeichner des ursprünglichen Comics, spielt Master Qi. Die Vorlage erscheint damit durch ihren Urheber selbst in der Adaption. Der Gastauftritt betrifft eine Figur, die weitere Ausbildung ermöglicht. Die Verbindung ist für Zuschauer mit Comicwissen erkennbar, während die Handlung auch ohne dieses Hintergrundwissen verständlich bleibt.",
-      "anchor": "Der Comiczeichner übernimmt selbst die Meisterrolle.",
       "interest": "Ein Gastauftritt verbindet Vorlage und Film.",
       "sources": [
         "archiv"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Comiczeichner übernimmt selbst die Meisterrolle."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Erste Veröffentlichung 2006; Filmadaption von Tony Wong Yuk-longs Comic.",
       "context": "„Dragon Tiger Gate“ erschien 2006, ein Jahr nach „SPL“ von 2005. Das Hong Kong Film Archive bezeichnet ihn als nächste Zusammenarbeit von Wilson Yip und Donnie Yen. Die Jahresfolge verbindet damit zwei unterschiedliche Actionstoffe desselben Teams. Nach dem Polizeifilm wenden sie sich einer Comicwelt zu, in der Familienbeziehungen und überhöhte Kampftechniken zusammenlaufen.",
-      "anchor": "SPL 2005, Dragon Tiger Gate 2006: ein Jahr bis zur Comicadaption.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "archiv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "SPL 2005, Dragon Tiger Gate 2006: ein Jahr bis zur Comicadaption."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Wilson Yip führte Regie; Donnie Yen übernahm die Kampfchoreografie und eine Hauptrolle.",
       "context": "Wilson Yip führte Regie; Donnie Yen übernahm die Kampfchoreografie und eine Hauptrolle. Das Hong Kong Film Archive hebt diese Arbeitsteilung hervor: Familienbeziehungen und Bewegungsdesign passen zusammen. Edmond Wong schrieb das Drehbuch nach Tony Wong Yuk-longs Comic. Dessen Gastauftritt als Master Qi verbindet die Leinwandadaption zusätzlich mit ihrem ursprünglichen Zeichner.",
-      "anchor": "Yip inszeniert; Yen gestaltet die Kämpfe; der Comiczeichner tritt als Meister auf.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "archiv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Yip inszeniert; Yen gestaltet die Kämpfe; der Comiczeichner tritt als Meister auf."
     }
   ]
 }

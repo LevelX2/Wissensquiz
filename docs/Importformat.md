@@ -20,6 +20,12 @@ Aktueller lokaler Gesamtstand (02.10.2026): [Preisträger](Preistraeger.md) erg�
 
 Vorherige lokale Ergänzung (02.10.2026): [Alle-Genres-Paket](Alle-Genres-Ergaenzung.md) mit 960 gelieferten Fragen zu 120 Filmen integriert, darunter je 120 bereits enthaltene Regie- und Jahresfragen. Die nachgelieferte Filmdaten-JSON versorgt nun auch diese 120 Filme mit dem aufklappbaren Filmdatenbereich, ohne zusätzliche Fragen anzulegen. 15 CSV-Pakete: 3.840 Fragen/3.360 Ziele; einschließlich 837 älterer, separat generierter Jahres-/Regieergänzungen 4.677 Fragen/4.197 Ziele. Die folgenden Paketabschnitte dokumentieren ihren jeweiligen historischen Importstand.
 
+## Aktuelles Fragenformat
+
+Seit der Nutzerpräzisierung vom 15.10.2026 entfallen Merksätze vollständig. Die Film-CSV hat 30 Spalten, der Gesamtkatalog mit seinen zusätzlichen Kontextfeldern 53. `memory_anchor` ist kein Schemafeld und kein Qualitätskriterium mehr. Enthält eine eingehende CSV dieses frühere Zusatzfeld, wird es bei der Übernahme verworfen und nicht in Metadaten oder aktuelle Frageobjekte übernommen. Originalquellen und Archive bleiben unverändert.
+
+Die folgenden Angaben zu gelieferten 31-Spalten-Dateien und damaligen Importständen sind historische Nachweise, keine Vorgaben für neue Pakete.
+
 ## Tatsächlich gelieferte Quelle
 
 `SciFi_Quiz_180_Fragen.csv`: UTF-8, 31 Spalten, Komma und vollständig gequotete Felder. Alle 180 Datensätze wurden mit dem tatsächlichen App-Parser ausgewertet. Kein Datensatz musste ausgeschlossen werden; 150 Wissensziel-IDs, 30 explizite Varianten, 39 Themen, 50 leichte Wissensziele für die begrenzte Auszeichnung. Alle vier Antwortfeedbacks, Vertiefungen, Merksätze und Quellenfelder sind vorhanden. Vollständiger struktureller Bericht: [importbericht.json](importbericht.json).
@@ -51,11 +57,10 @@ Ebenfalls am 26.09.2026 geliefert: `Fantasy_Quiz_180_Fragen.csv`, 31 Spalten. Vo
 | `feedback_a` bis `feedback_d` | Feedback am jeweiligen Antwortobjekt, bleibt beim Mischen erhalten. Fehlende Texte bleiben leer. |
 | `explanation_short` | `explanation`; verpflichtend, nach der Antwort sichtbar. Bei „Keine Ahnung“ folgt die Erklärung auf die kurze Hervorhebung der richtigen Lösung. |
 | `explanation_context` | Optionale Vertiefung; fehlt sie, entfällt der Abschnitt. |
-| `memory_anchor` | Optionaler Merksatz in den Quelldaten; seit 11.10.2026 lokal nicht mehr angezeigt. |
 | `spoiler_level` | Original in `metadata`; vor jeder Runde allgemeiner Spoilerhinweis. |
 | `source_urls` | HTTP-/HTTPS-URLs; Pipe, Semikolon oder Leerraum als Trenner. Ungültige/andere Protokolle schließen den Datensatz aus. |
 | `verification_status` | Unverändert in `metadata`. „redaktionell_geprueft“ wird nicht als eigene Faktenprüfung ausgegeben. „demo-redaktionell“ kennzeichnet das separate Beispielpaket. |
-| Unbekannte zusätzliche Spalten | Werden in `metadata` erhalten. |
+| Unbekannte zusätzliche Spalten | Werden in `metadata` erhalten; das gestrichene Alt-Feld `memory_anchor` wird verworfen. |
 
 Die zusätzliche UI-Auswahl „Keine Ahnung“ gehört nicht zu `answer_a`–`answer_d`. Importierte und gespeicherte Fragen behalten genau vier Antworten und denselben Lösungsschlüssel; die ausdrückliche Nichtwissensantwort wird ausschließlich als Ereignis gespeichert. [Antwortvertrag](Lernregeln.md#keine-ahnung-als-antwortoption).
 

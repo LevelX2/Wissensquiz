@@ -36,12 +36,12 @@
       ],
       "short": "Joe Burdette (Claude Akins) erschießt einen unbewaffneten Mann.",
       "context": "Joe Burdette (Claude Akins) erschießt einen unbewaffneten Mann. Sheriff Chance (John Wayne) nimmt ihn fest und muss ihn gegen dessen mächtigen Bruder im Gefängnis halten.",
-      "anchor": "Ein beobachteter Mord begründet den Widerstand des Sheriffs.",
       "interest": "Ein beobachteter Mord begründet den Widerstand des Sheriffs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein beobachteter Mord begründet den Widerstand des Sheriffs."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Dude (Dean Martin) war ein guter Deputy und wurde zum Trinker.",
       "context": "Dude (Dean Martin) war ein guter Deputy und wurde zum Trinker. Seine Rückkehr in Chances (John Wayne) Gruppe hängt davon ab, wieder verlässlich handeln zu können.",
-      "anchor": "Dudes Rückkehr verlangt mehr als bloße Schießkunst.",
       "interest": "Dudes Rückkehr verlangt mehr als bloße Schießkunst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dudes Rückkehr verlangt mehr als bloße Schießkunst."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Dude (Dean Martin) sieht Blut in ein Glas tropfen und erkennt den Verfolger auf der Empore.",
       "context": "Dude (Dean Martin) sieht Blut in ein Glas tropfen und erkennt den Verfolger auf der Empore. Die aufmerksame Beobachtung erlaubt ihm, den Schützen zu töten und seine Fähigkeiten wieder zu beweisen.",
-      "anchor": "Die Blutspur lässt Dude seine frühere Sicherheit zurückgewinnen.",
       "interest": "Die Blutspur lässt Dude seine frühere Sicherheit zurückgewinnen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Blutspur lässt Dude seine frühere Sicherheit zurückgewinnen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Nathan Burdettes Musiker spielen El Deguello als Drohung.",
       "context": "Nathan Burdettes Musiker spielen El Deguello als Drohung. Colorado (Ricky Nelson) erklärt den Bezug zur Belagerung des Alamo: Die Melodie kündigt Gnadenlosigkeit an.",
-      "anchor": "Die Melodie macht die Belagerung auch akustisch bedrohlich.",
       "interest": "Die Melodie macht die Belagerung auch akustisch bedrohlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Melodie macht die Belagerung auch akustisch bedrohlich."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Chance (John Wayne) verweigert ungeübten Helfern den gefährlichen Dienst.",
       "context": "Chance (John Wayne) verweigert ungeübten Helfern den gefährlichen Dienst. Er bevorzugt eine kleine Gruppe verlässlicher Männer gegenüber Unterstützung, die er gegen bewaffnete Profis nicht schützen könnte.",
-      "anchor": "Verlässliche Fähigkeit wiegt für Chance mehr als die Zahl der Helfer.",
       "interest": "Verlässliche Fähigkeit wiegt für Chance mehr als die Zahl der Helfer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Verlässliche Fähigkeit wiegt für Chance mehr als die Zahl der Helfer."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Stumpy (Walter Brennan) wirft Dynamit, Chance (John Wayne) entzündet es durch Schüsse.",
       "context": "Stumpy (Walter Brennan) wirft Dynamit, Chance (John Wayne) entzündet es durch Schüsse. Die Explosionen zwingen Nathan zur Aufgabe; der ältere Helfer erweist sich erneut als entscheidend.",
-      "anchor": "Das Finale macht abgestimmte Zusammenarbeit zum Vorteil.",
       "interest": "Das Finale macht abgestimmte Zusammenarbeit zum Vorteil.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Finale macht abgestimmte Zusammenarbeit zum Vorteil."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1959 erschien der Film.",
       "context": "1959 erschien der Film. Hawks und Wayne hatten zuletzt 1948 Red River gedreht: Elf Jahre später steht statt eines zerfallenden Trecks die belastbare Zusammenarbeit einer kleinen Gruppe im Zentrum.",
-      "anchor": "Red River 1948, Rio Bravo 1959: Elf Jahre trennen Hawks’ und Waynes Treckkonflikt von der verlässlichen Belagerungsgruppe.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Red River 1948, Rio Bravo 1959: Elf Jahre trennen Hawks’ und Waynes Treckkonflikt von der verlässlichen Belagerungsgruppe."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Howard Hawks führte Regie.",
       "context": "Howard Hawks führte Regie. Zwischen Belagerung und Schießerei zeigen Gespräche, Gesang und Dudes Rückkehr zur Selbstachtung, wie aus ungleichen Männern eine verlässliche Gruppe wird.",
-      "anchor": "Howard Hawks führte Regie.",
       "interest": "Howard Hawks führte Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Howard Hawks führte Regie."
     }
   ]
 }

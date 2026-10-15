@@ -37,12 +37,12 @@
       ],
       "short": "Alpha 60 beherrscht die Gesellschaft.",
       "context": "Alpha 60 beherrscht die Gesellschaft. Freies Denken und Gefühle gelten als störend; Lemmy Caution (Eddie Constantine) bringt eine Haltung in die Stadt, die sich diesen Regeln nicht vollständig unterordnet.",
-      "anchor": "Die Herrschaft reduziert Menschen auf angebliche Logik.",
       "interest": "Die Herrschaft reduziert Menschen auf angebliche Logik.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Herrschaft reduziert Menschen auf angebliche Logik."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Die Ordnung unterdrückt Liebe und andere emotionale Begriffe.",
       "context": "Die Ordnung unterdrückt Liebe und andere emotionale Begriffe. Natacha (Anna Karina) kennt ihre Bedeutung zunächst kaum; Lemmy Cautions (Eddie Constantine) Begegnung eröffnet ihr eine Sprache für persönliche Wünsche.",
-      "anchor": "Natacha muss die Sprache der Gefühle wiederfinden.",
       "interest": "Natacha muss die Sprache der Gefühle wiederfinden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Natacha muss die Sprache der Gefühle wiederfinden."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die angebliche Bibel ist ein Wörterbuch, aus dem unerwünschte emotionale Begriffe entfernt werden.",
       "context": "Die angebliche Bibel ist ein Wörterbuch, aus dem unerwünschte emotionale Begriffe entfernt werden. Die Herrschaft kontrolliert damit nicht nur Handlungen, sondern die sprachlichen Möglichkeiten, in denen Menschen ihre Erfahrungen überhaupt ausdrücken können.",
-      "anchor": "Das bereinigte Wörterbuch verkleinert das Denkbare.",
       "interest": "Das bereinigte Wörterbuch verkleinert das Denkbare.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das bereinigte Wörterbuch verkleinert das Denkbare."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Godard drehte in vorhandenen Pariser Gebäuden ohne eigens gebaute Zukunftswelt.",
       "context": "Godard drehte in vorhandenen Pariser Gebäuden ohne eigens gebaute Zukunftswelt. Bürohäuser und Hotels wirken durch Bild, Ton und Handlung fremd; das Bedrohliche wird damit aus der bereits bestehenden Gegenwart entwickelt.",
-      "anchor": "Die fremde Zukunft steckt in der vorhandenen Architektur.",
       "interest": "Die fremde Zukunft steckt in der vorhandenen Architektur.",
       "sources": [
         "eckdaten"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die fremde Zukunft steckt in der vorhandenen Architektur."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Caution konfrontiert Alpha 60 mit einem poetischen Rätsel über das individuelle Selbst.",
       "context": "Caution konfrontiert Alpha 60 mit einem poetischen Rätsel über das individuelle Selbst. Der Computer kann diesen Zugang nicht in seine Regeln fassen; der Widerstand beruht auf etwas, das seine Ordnung zuvor aus dem Denken verbannt hatte.",
-      "anchor": "Poetisches Selbstverständnis widersteht der totalen Rechenordnung.",
       "interest": "Poetisches Selbstverständnis widersteht der totalen Rechenordnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Poetisches Selbstverständnis widersteht der totalen Rechenordnung."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Natacha sagt „Ich liebe Sie“.",
       "context": "Natacha sagt „Ich liebe Sie“. Sie findet damit Worte für eine eigene emotionale Beziehung; die Flucht bedeutet nicht nur das Verlassen einer Stadt, sondern das Wiedergewinnen eines persönlichen Ausdrucks.",
-      "anchor": "Der eigene Liebessatz beendet die sprachliche Fremdbestimmung.",
       "interest": "Der eigene Liebessatz beendet die sprachliche Fremdbestimmung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der eigene Liebessatz beendet die sprachliche Fremdbestimmung."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "1965 erschien der Film.",
       "context": "1965 erschien der Film. Lemmy Caution war zuvor bereits in konventionellen Kriminalfilmen als Figur bekannt; Godard versetzte ihn nun in eine von einem Computer beherrschte Welt. Das bestehende Paris wurde dabei ohne futuristische Spezialbauten zum Schauplatz der Zukunft.",
-      "anchor": "1965 versetzt Godard den bekannten Kriminalhelden Lemmy Caution in ein bestehendes Paris als Computerzukunft.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1965 versetzt Godard den bekannten Kriminalhelden Lemmy Caution in ein bestehendes Paris als Computerzukunft."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Jean-Luc Godard schrieb und inszenierte den Film.",
       "context": "Jean-Luc Godard schrieb und inszenierte den Film. Eddie Constantine spielt seinen bekannten Lemmy Caution, Anna Karina Natacha. Godard verwendet moderne Pariser Architektur statt gebauter Zukunftskulissen und setzt Sprache und Gefühle gegen die behauptete reine Logik des Systems.",
-      "anchor": "Jean-Luc Godard schrieb und inszenierte den Film.",
       "interest": "Jean-Luc Godard schrieb und inszenierte den Film.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jean-Luc Godard schrieb und inszenierte den Film."
     }
   ]
 }

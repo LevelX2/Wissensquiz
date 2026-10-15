@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Fontaine spielt die zweite Mrs. de Winter.",
       "context": "Die junge Frau heiratet den verwitweten Maxim de Winter (Laurence Olivier) und zieht nach Manderley. Dort begegnet ihr überall das idealisierte Bild ihrer Vorgängerin. Besonders die Haushälterin Mrs. Danvers (Judith Anderson) lässt sie ihre vermeintliche Unterlegenheit spüren. Dass Fontaines Figur keinen Vornamen erhält, passt zu einer Geschichte, in der sie zunächst fast nur durch den Vergleich mit einer anderen Frau bestimmt wird.",
-      "anchor": "Die neue Mrs. de Winter lebt im Schatten ihrer Vorgängerin.",
       "interest": "Die Rollenunterscheidung erklärt die besondere Perspektive der Geschichte.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "variant_of": "CLA-L-029",
       "knowledge_id": "K-CLA-15-01",
-      "knowledge_note": "Gleicher Sachverhalt aus der Perspektive der Personenfrage."
+      "knowledge_note": "Gleicher Sachverhalt aus der Perspektive der Personenfrage.",
+      "objective": "Die neue Mrs. de Winter lebt im Schatten ihrer Vorgängerin."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 3,
       "short": "Lina fürchtet, Johnnie könne sie ermorden.",
       "context": "Johnnies Charme lässt die Ehe zunächst wie eine Befreiung erscheinen. Seine Lügen und sein Umgang mit Geld verändern jedoch Linas Wahrnehmung. Hitchcock bindet die Spannung an ihre Unsicherheit: Eine vertraute Person kann plötzlich als mögliche Gefahr erscheinen. Fontaine muss deshalb Liebe und Angst gleichzeitig spielen, während das Publikum mit ihr versucht, aus beobachteten Zeichen Gewissheit zu gewinnen.",
-      "anchor": "Charme und Angst gehören für Lina bald zu derselben Person.",
       "interest": "Das Ziel erschließt den inneren Konflikt der Hauptdarstellung.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/film/fd5d73a8-b1ac-5d1c-b878-1a6bc5fbc346/suspicion"
-      ]
+      ],
+      "objective": "Charme und Angst gehören für Lina bald zu derselben Person."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 1,
       "short": "Rochester ist bereits mit Bertha verheiratet.",
       "context": "Jane hat als Gouvernante in Thornfield eine Stellung und eine Liebe gefunden. Bei der Trauung erklärt Berthas Bruder, dass Rochester bereits verheiratet ist. Die verborgene Frau im Haus gibt den früheren nächtlichen Vorfällen einen neuen Zusammenhang. Jane verlässt Rochester trotz ihrer Gefühle. Erst nach dem Brand von Thornfield und Berthas Tod wird eine gemeinsame Zukunft möglich.",
-      "anchor": "Eine bestehende Ehe macht Janes erhoffte Hochzeit unmöglich.",
       "interest": "Die Enthüllung verbindet das Liebesdrama mit dem Geheimnis des Hauses.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/712-JANE-EYRE"
-      ]
+      ],
+      "objective": "Eine bestehende Ehe macht Janes erhoffte Hochzeit unmöglich."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 2,
       "short": "Stefan erinnert sich nicht an die frühere Beziehung.",
       "context": "Für Lisa ist die Begegnung mit dem Pianisten zum Mittelpunkt ihres Lebens geworden. Für Stefan war sie eine Episode, deren Bedeutung ihm entgangen ist. Erst ihr Brief zwingt ihn, die gemeinsame Vergangenheit aus ihrer Sicht zu lesen. Der Film erzählt diese zeitlich ungleiche Bindung in einer langen Rückblende: Was für einen Menschen alles bedeutet, kann im Gedächtnis des anderen beinahe fehlen.",
-      "anchor": "Lisas Lebensgeschichte fehlt in Stefans Erinnerung.",
       "interest": "Die Frage betrifft den Kern der ungleichen Beziehung statt bloß ihren Schauplatz.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/835-letter-from-an-unknown-woman"
-      ]
+      ],
+      "objective": "Lisas Lebensgeschichte fehlt in Stefans Erinnerung."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 3,
       "short": "Tessa ermutigt Lewis, wieder Gefühl in seine Musik zu legen.",
       "context": "Lewis Dodd (Charles Boyer) hat eine Melodie aus Tessas Kindheit in ein neues Werk aufgenommen. Sie findet das Ergebnis enttäuschend und hilft ihm, den emotionalen Kern wiederzugewinnen. Die Arbeit macht zugleich sichtbar, wie tief beide einander verbunden sind. Seine Ehefrau Florence (Alexis Smith) erkennt in Tessa eine Rivalin; die erfolgreiche Uraufführung kommt für die herzkranke junge Frau zu spät.",
-      "anchor": "Tessa versteht den Gefühlskern, den Lewis in seiner Musik verloren hat.",
       "interest": "Das Ziel zeigt, wie künstlerische und persönliche Beziehungen im Melodram ineinandergreifen.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/364-THE-CONSTANT-NYMPH"
-      ]
+      ],
+      "objective": "Tessa versteht den Gefühlskern, den Lewis in seiner Musik verloren hat."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 0,
       "short": "Rowena ist Cedrics Mündel.",
       "context": "Rowena lebt in Cedrics sächsischem Haushalt und liebt dessen Sohn Ivanhoe (Robert Taylor). Der politische Streit um König Richard trennt Ivanhoe von seinem Vater, aber nicht von ihr. Neben dieser standesgemäß möglichen Verbindung steht Rebeccas (Elizabeth Taylor) Liebe zu dem Ritter. Der Film stellt damit zwei Frauen gegenüber, deren Gefühle unter sehr unterschiedlichen gesellschaftlichen Bedingungen stehen.",
-      "anchor": "Rowena gehört als Mündel zu Cedrics Haushalt.",
       "interest": "Die Beziehung ordnet die Liebeshandlung in die familiäre und gesellschaftliche Ordnung ein.",
       "feedback": [
         "Rowena ist Cedrics Mündel.",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Ivanhoe_(1952_film)"
-      ]
+      ],
+      "objective": "Rowena gehört als Mündel zu Cedrics Haushalt."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 0,
       "short": "Fontaine und ihr damaliger Mann William Dozier gründeten Rampart Productions.",
       "context": "Fontaine gründete die unabhängige Firma mit ihrem damaligen Mann William Dozier. „Brief einer Unbekannten“ entstand in diesem Rahmen unter der Regie von Max Ophüls, produziert von John Houseman. Ihre Beteiligung reichte damit über das Schauspiel hinaus: Sie half, eine Produktionsmöglichkeit außerhalb eines dauerhaften Studiovertrags zu schaffen.",
-      "anchor": "Fontaine schuf mit Rampart auch einen Produktionsrahmen.",
       "interest": "Das Ziel erweitert das Starporträt um eine konkrete unternehmerische Tätigkeit.",
       "feedback": [
         "Fontaine und ihr damaliger Mann William Dozier gründeten Rampart Productions.",
@@ -196,7 +195,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Joan_Fontaine"
-      ]
+      ],
+      "objective": "Fontaine schuf mit Rampart auch einen Produktionsrahmen."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 1,
       "short": "Die Zensurstelle wollte ein reumütiges Urteil über die Beziehung statt Lisas fortbestehender Liebe.",
       "context": "Die Prüfer hielten den ursprünglichen Brief für eine romantische Verklärung einer unerlaubten Beziehung. Vorgeschlagen wurden Selbsterniedrigung und eine ausdrückliche moralische Verurteilung. William Dozier legte dagegen Einspruch ein; schließlich erhielt der Film mit den ursprünglichen Zeilen die Freigabe. Der Streit betraf somit direkt, ob Lisas eigene Erfahrung oder eine nachgereichte moralische Vorschrift das Ende bestimmen sollte.",
-      "anchor": "Lisas Liebesbekenntnis überstand den Zensurstreit.",
       "interest": "Die Produktionsgeschichte erklärt, weshalb der Ton des Schlussbriefs künstlerisch entscheidend war.",
       "feedback": [
         "",
@@ -223,7 +222,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25618-LETTER-FROM-AN-UNKNOWN-WOMAN"
-      ]
+      ],
+      "objective": "Lisas Liebesbekenntnis überstand den Zensurstreit."
     }
   ]
 }

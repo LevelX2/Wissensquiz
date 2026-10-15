@@ -41,12 +41,12 @@
       ],
       "short": "Harper und Charlie hoffen, dass verliebte Chefs sie weniger überarbeiten.",
       "context": "Harper und Charlie hoffen, dass verliebte Chefs sie weniger überarbeiten. Der Plan entsteht aus ihrem Arbeitsdruck; während sie eine fremde Beziehung arrangieren, lernen sie einander selbst näher kennen.",
-      "anchor": "Die Chef-Romanze soll den Assistenten Freizeit verschaffen.",
       "interest": "Die Chef-Romanze soll den Assistenten Freizeit verschaffen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Chef-Romanze soll den Assistenten Freizeit verschaffen."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Harper möchte Sportjournalistin werden.",
       "context": "Harper möchte Sportjournalistin werden. Ihre Chefin Kirsten (Lucy Liu) ist ihr Vorbild; der Assistentenjob kostet jedoch die Zeit, die Harper für eigenes Schreiben benötigen würde.",
-      "anchor": "Harper muss von der Zuarbeit zum eigenen Schreiben finden.",
       "interest": "Harper muss von der Zuarbeit zum eigenen Schreiben finden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Harper muss von der Zuarbeit zum eigenen Schreiben finden."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Die Assistenten bestechen den Kiss-Cam-Bediener beim Baseball.",
       "context": "Die Assistenten bestechen den Kiss-Cam-Bediener beim Baseball. Kirsten (Lucy Liu) und Rick (Taye Diggs) geraten damit vor Publikum unter romantischen Erwartungsdruck; ein öffentliches Ritual ersetzt die zufällige private Annäherung.",
-      "anchor": "Die Stadionkamera setzt die arrangierte Romanze in Gang.",
       "interest": "Die Stadionkamera setzt die arrangierte Romanze in Gang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Stadionkamera setzt die arrangierte Romanze in Gang."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Ein zusätzlicher klaustrophobischer Fahrgast gerät in Panik.",
       "context": "Ein zusätzlicher klaustrophobischer Fahrgast gerät in Panik. Statt einer entspannten Begegnung entsteht eine unangenehme Situation; Harper (Zoey Deutch) und Charlie (Glen Powell) müssen daher einen anderen Zugang finden.",
-      "anchor": "Der ungeplante Fahrgast zerstört die arrangierte Fahrstuhlromantik.",
       "interest": "Der ungeplante Fahrgast zerstört die arrangierte Fahrstuhlromantik.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der ungeplante Fahrgast zerstört die arrangierte Fahrstuhlromantik."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Rick will mit der Hochzeit seine Exfrau provozieren, mit der er weiterhin intim verbunden ist.",
       "context": "Rick will mit der Hochzeit seine Exfrau provozieren, mit der er weiterhin intim verbunden ist. Harper (Zoey Deutch) erkennt, dass das arrangierte Glück Kirsten (Lucy Liu) täuscht; Charlie (Glen Powell) muss Karriereinteresse und Verantwortung abwägen.",
-      "anchor": "Die Assistenten dürfen ihre Freizeit nicht auf Kirstens Täuschung bauen.",
       "interest": "Die Assistenten dürfen ihre Freizeit nicht auf Kirstens Täuschung bauen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Assistenten dürfen ihre Freizeit nicht auf Kirstens Täuschung bauen."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Kirsten bietet Harper Hilfe beim Redigieren ihres Artikels an.",
       "context": "Kirsten bietet Harper Hilfe beim Redigieren ihres Artikels an. Harper nimmt den alten Assistentenjob nicht zurück; die Beziehung kann stattdessen ihre eigene journalistische Arbeit fördern. Abhängige Zuarbeit wird damit zu fachlicher Unterstützung.",
-      "anchor": "Kirsten unterstützt Harpers Schreiben statt ihre dauernde Zuarbeit.",
       "interest": "Kirsten unterstützt Harpers Schreiben statt ihre dauernde Zuarbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Kirsten unterstützt Harpers Schreiben statt ihre dauernde Zuarbeit."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "2018 wurde der Film veröffentlicht.",
       "context": "2018 wurde der Film veröffentlicht. Im selben Jahr erschien auch „Crazy Rich Asians“ im Kino; beide verbinden Liebesgeschichten mit Machtgefällen, hier zwischen Chefs und Assistenten. Diese Parallelität ist eine zeitliche Merkhilfe und keine Behauptung einer gemeinsamen Produktion.",
-      "anchor": "2018 erscheinen Set It Up und Crazy Rich Asians: Zwei Liebeskomödien untersuchen unterschiedliche Machtgefälle.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2018 erscheinen Set It Up und Crazy Rich Asians: Zwei Liebeskomödien untersuchen unterschiedliche Machtgefälle."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch.",
       "context": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch. Zoey Deutch und Glen Powell spielen die Assistenten Harper und Charlie, Lucy Liu und Taye Diggs deren Chefs. Ihr Arrangement erzeugt Freizeit, setzt aber zugleich neue Arbeit zur Pflege der arrangierten Beziehung voraus.",
-      "anchor": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch.",
       "interest": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch.",
       "sources": [
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Claire Scanlon führte Regie, Katie Silberman schrieb das Drehbuch."
     }
   ]
 }

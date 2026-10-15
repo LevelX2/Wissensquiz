@@ -104,6 +104,7 @@ it.each([
   "importiert $name vollständig ohne Konflikte und erhält Lösungen, Feedback und Varianten",
   ({ imported, previous, path, ...options }) => {
     const baseSize = "size" in options ? options.size : 180;
+    const removedVariants = path === "classics" ? 1 : 0;
     const additions: Record<string, number> = {
       arthouse: 3,
       drama: 1,
@@ -111,7 +112,7 @@ it.each([
       "scifi-ergaenzung": 1,
     };
     const added = additions[path] ?? 0;
-    const size = baseSize + added;
+    const size = baseSize + added - removedVariants;
     expect(imported.report.accepted).toBe(size);
     expect(imported.report.rejected).toBe(0);
     expect(imported.report.duplicates).toBe(0);
@@ -121,7 +122,7 @@ it.each([
     );
     expect(
       imported.questions.filter((q) => q.metadata.variant_of),
-    ).toHaveLength(baseSize / 6 - (path === "komoedie" ? 1 : 0));
+    ).toHaveLength(baseSize / 6 - (path === "komoedie" ? 1 : 0) - removedVariants);
     const raw = readFileSync(
       `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
     );
@@ -135,7 +136,7 @@ it.each([
       expect(mixed.find((a) => a.id === q.correctId)?.text).toBe(
         q.metadata[`answer_${q.metadata.correct_answer.toLowerCase()}`],
       );
-      expect(q.context && q.anchor && q.sources.length).toBeTruthy();
+      expect(q.context && q.sources.length).toBeTruthy();
       for (const a of mixed)
         expect(a.feedback).toBe(q.metadata[`feedback_${a.id.slice(-1)}`]);
       if (q.metadata.variant_of)

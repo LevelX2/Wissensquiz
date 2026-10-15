@@ -41,13 +41,13 @@
       ],
       "short": "Ángela (Manuela Velasco) begleitet die Feuerwehr in der Nachtschicht.",
       "context": "Ángela (Manuela Velasco) begleitet die Feuerwehr in der Nachtschicht. Die geplante Alltagsreportage führt das Team bei einem Einsatz in ein Wohnhaus, dessen gewöhnliche Umgebung die Gefahr zunächst verdeckt.",
-      "anchor": "Der alltägliche Nachteinsatz wird zur eingeschlossenen Katastrophe.",
       "interest": "Der alltägliche Nachteinsatz wird zur eingeschlossenen Katastrophe.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der alltägliche Nachteinsatz wird zur eingeschlossenen Katastrophe."
     },
     {
       "code": "L2",
@@ -66,12 +66,12 @@
       ],
       "short": "Die Behörden riegeln das Gebäude ab.",
       "context": "Die Behörden riegeln das Gebäude ab. Ángela (Manuela Velasco), Einsatzkräfte und Bewohner sitzen dadurch gemeinsam fest; die Schutzmaßnahme für draußen nimmt ihnen innen den Fluchtweg.",
-      "anchor": "Der Schutz der Außenwelt schließt die Innenwelt ein.",
       "interest": "Der Schutz der Außenwelt schließt die Innenwelt ein.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Schutz der Außenwelt schließt die Innenwelt ein."
     },
     {
       "code": "M1",
@@ -90,12 +90,12 @@
       ],
       "short": "Der Beamte spricht von einer tollwutähnlichen Infektion.",
       "context": "Der Beamte spricht von einer tollwutähnlichen Infektion. Das medizinische Erklärungsmodell passt zunächst zu den Bissen; später erweitert der Dachbodenfund die Ursache um einen religiösen Zusammenhang.",
-      "anchor": "Die medizinische Deutung geht der religiösen Enthüllung voraus.",
       "interest": "Die medizinische Deutung geht der religiösen Enthüllung voraus.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die medizinische Deutung geht der religiösen Enthüllung voraus."
     },
     {
       "code": "M2",
@@ -114,12 +114,12 @@
       ],
       "short": "Pablo (Pablo Rosso) schaltet auf Nachtsicht.",
       "context": "Pablo (Pablo Rosso) schaltet auf Nachtsicht. Die technische Funktion macht die versteckte Gestalt sichtbar, während Ángela (Manuela Velasco) selbst nur eingeschränkt erkennen kann, was sie bedroht.",
-      "anchor": "Nachtsicht macht sichtbar, ohne einen sicheren Weg zu schaffen.",
       "interest": "Nachtsicht macht sichtbar, ohne einen sicheren Weg zu schaffen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Nachtsicht macht sichtbar, ohne einen sicheren Weg zu schaffen."
     },
     {
       "code": "S1",
@@ -138,12 +138,12 @@
       ],
       "short": "Die Unterlagen verweisen auf Tristana Medeiros und eine Besessenheitsuntersuchung.",
       "context": "Die Unterlagen verweisen auf Tristana Medeiros (Javier Botet) und eine Besessenheitsuntersuchung. Tristana (Javier Botet) wurde im Haus eingeschlossen; die vermeintlich kontrollierte Forschung steht damit am Ursprung der ausbrechenden Gefahr.",
-      "anchor": "Die eingeschlossene Patientin verbindet Infektion und Besessenheit.",
       "interest": "Die eingeschlossene Patientin verbindet Infektion und Besessenheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die eingeschlossene Patientin verbindet Infektion und Besessenheit."
     },
     {
       "code": "S2",
@@ -162,12 +162,12 @@
       ],
       "short": "Die fallengelassene Kamera zeichnet Ángelas Verschwinden auf.",
       "context": "Die fallengelassene Kamera zeichnet Ángelas Verschwinden auf. Ángela (Manuela Velasco) verliert damit zugleich ihr Sichtmittel und die aktive Reportageposition; die letzte Aufnahme bleibt als Zeugnis ihres Verschwindens zurück.",
-      "anchor": "Das Bild überlebt die Kontrolle der Reporterin über ihre Geschichte.",
       "interest": "Das Bild überlebt die Kontrolle der Reporterin über ihre Geschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Bild überlebt die Kontrolle der Reporterin über ihre Geschichte."
     },
     {
       "code": "Y",
@@ -186,14 +186,14 @@
       ],
       "short": "Der Film wurde 2007 erstmals veröffentlicht.",
       "context": "2007 erschien das spanische Original. Die US-Neuverfilmung Quarantine folgte 2008, ein Jahr später; REC 2 setzte die ursprüngliche Reihe 2009 fort, zwei Jahre nach dem ersten Film.",
-      "anchor": "2007 erschien das Original; Quarantine folgte 2008, REC 2 im Jahr 2009.",
       "interest": "2007 erschien das Original; Quarantine folgte 2008, REC 2 im Jahr 2009.",
       "sources": [
         "festival",
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2007 erschien das Original; Quarantine folgte 2008, REC 2 im Jahr 2009."
     },
     {
       "code": "D",
@@ -212,13 +212,13 @@
       ],
       "short": "Regie: Jaume Balagueró und Paco Plaza.",
       "context": "Balagueró und Plaza inszenierten gemeinsam. Der Kameramann Pablo Rosso führt zugleich die Kamera und verkörpert den aufnehmenden Pablo (Pablo Rosso); so bindet die sichtbare Reportage das Publikum an den eingeschränkten Zugang des Filmteams.",
-      "anchor": "Balagueró und Plaza inszenierten gemeinsam.",
       "interest": "Balagueró und Plaza inszenierten gemeinsam.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Balagueró und Plaza inszenierten gemeinsam."
     }
   ]
 }

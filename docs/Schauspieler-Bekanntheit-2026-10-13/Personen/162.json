@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Brooks spielt Lulu.",
       "context": "Die lebensfrohe Frau zieht sehr unterschiedliche Menschen an. Ihr Weg durch Theater, bürgerliche Gesellschaft und Armut macht sie zu einer prägenden Figur des späten Stummfilms.",
-      "anchor": "Louise Brooks wurde als Lulu zur Filmikone.",
       "interest": "Der Figurenname öffnet den Zugang zu ihrem bekanntesten Werk.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/362-pandora-s-box"
-      ]
+      ],
+      "objective": "Louise Brooks wurde als Lulu zur Filmikone."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Ihr glatter Bob mit Pony wurde vielfach nachgeahmt.",
       "context": "Die klare Form rahmt ihr Gesicht und macht es unmittelbar wiedererkennbar. Das Bild wurde über ihre eigenen Filme hinaus zu einem Zeichen moderner Weiblichkeit.",
-      "anchor": "Der Lulu-Bob gehört zu Brooks’ filmischem Markenzeichen.",
       "interest": "Ein sichtbares Gestaltungsmerkmal verbindet Schauspiel, Mode und die Geschichte von Filmikonen.",
       "feedback": [
         "",
@@ -56,7 +55,8 @@
       "films": [],
       "extraSources": [
         "https://www.bfi.org.uk/features/louise-brooks-lulu-bob-haircut"
-      ]
+      ],
+      "objective": "Der Lulu-Bob gehört zu Brooks’ filmischem Markenzeichen."
     },
     {
       "code": "M1",
@@ -70,7 +70,6 @@
       "correct": 3,
       "short": "Thymian kommt in eine brutale Erziehungsanstalt.",
       "context": "Die Familie bestraft die junge Frau für eine Schwangerschaft, die auf sexuelle Gewalt zurückgeht. Die angebliche Fürsorge der Institution setzt ihre Entmündigung fort.",
-      "anchor": "Die Erziehungsanstalt schützt die gesellschaftliche Moral statt Thymian.",
       "interest": "Der Handlungsweg erschließt die Kritik des Films an respektablen Institutionen.",
       "feedback": [
         "",
@@ -84,7 +83,8 @@
       "extraSources": [
         "https://www.tcm.com/articles/1196072/diary-of-a-lost-girl",
         "https://en.wikipedia.org/wiki/Diary_of_a_Lost_Girl"
-      ]
+      ],
+      "objective": "Die Erziehungsanstalt schützt die gesellschaftliche Moral statt Thymian."
     },
     {
       "code": "M2",
@@ -98,7 +98,6 @@
       "correct": 2,
       "short": "Nancy flieht in Jungenkleidung.",
       "context": "Nach dem Tod ihres gewalttätigen Pflegevaters hilft ihr ein junger Wanderarbeiter. Die Verkleidung ermöglicht ihr, sich durch eine gefährliche, überwiegend männliche Welt zu bewegen.",
-      "anchor": "Jungenkleidung wird für Nancy zum Schutz auf der Flucht.",
       "interest": "Die Aufgabe zeigt Brooks in einer sozialen Abenteuerrolle abseits des glamourösen Showgirls.",
       "feedback": [
         "",
@@ -111,7 +110,8 @@
       ],
       "extraSources": [
         "https://www.pandorasbox.com/films-of-louise-brooks/beggars_of_life/"
-      ]
+      ],
+      "objective": "Jungenkleidung wird für Nancy zum Schutz auf der Flucht."
     },
     {
       "code": "S1",
@@ -125,7 +125,6 @@
       "correct": 0,
       "short": "André fordert den Verzicht auf die neue Karriere.",
       "context": "Lucienne kehrt zunächst zu ihm zurück. Das alltägliche Leben und seine wachsende Eifersucht lassen den gewonnenen Freiraum jedoch immer wichtiger erscheinen.",
-      "anchor": "Die gewonnene Freiheit trifft auf Andrés Besitzanspruch.",
       "interest": "Der Konflikt verbindet beruflichen Aufstieg mit der Frage nach weiblicher Selbstbestimmung.",
       "feedback": [
         "",
@@ -138,7 +137,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/media/pdf/hollywood-prix-beaute.pdf"
-      ]
+      ],
+      "objective": "Die gewonnene Freiheit trifft auf Andrés Besitzanspruch."
     },
     {
       "code": "S2",
@@ -152,7 +152,6 @@
       "correct": 1,
       "short": "Frank Wedekind schrieb die beiden Lulu-Stücke.",
       "context": "Pabst verband Erdgeist und Die Büchse der Pandora für die Verfilmung. Brooks’ Darstellung gab der bereits umstrittenen Bühnenfigur eine neue filmische Präsenz.",
-      "anchor": "Wedekinds Lulu wurde durch Brooks zur Leinwandfigur.",
       "interest": "Die Vorlage erklärt die Verbindung von Theatergeschichte und Weimarer Kino.",
       "feedback": [
         "",
@@ -165,7 +164,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/362-pandora-s-box"
-      ]
+      ],
+      "objective": "Wedekinds Lulu wurde durch Brooks zur Leinwandfigur."
     },
     {
       "code": "E1",
@@ -179,7 +179,6 @@
       "correct": 0,
       "short": "Die Archivierung und Wiederaufführung machten ihre Filme neu zugänglich.",
       "context": "Zusammen mit James Card gehörte Langlois zu den entscheidenden Fürsprechern. Die Retrospektive in Paris machte aus einer lange vergessenen Darstellerin wieder einen Gegenstand lebhafter Filmdebatten.",
-      "anchor": "Brooks’ zweiter Ruhm entstand durch das Wiedersehen mit ihren Filmen.",
       "interest": "Das Beispiel zeigt, wie Archive den Rang einer Schauspielerin in der Filmgeschichte verändern können.",
       "feedback": [
         "",
@@ -191,7 +190,8 @@
       "extraSources": [
         "https://www.cinematheque.fr/media/pdf/hollywood-prix-beaute.pdf",
         "https://www.pandorasbox.com/life_and_times_of_louise_brooks/louise-brooks-and-henri-langlois/"
-      ]
+      ],
+      "objective": "Brooks’ zweiter Ruhm entstand durch das Wiedersehen mit ihren Filmen."
     },
     {
       "code": "E2",
@@ -205,7 +205,6 @@
       "correct": 3,
       "short": "Das Buch versammelt autobiografische Essays über das Filmgeschäft.",
       "context": "Nach ihrer Schauspielkarriere entwickelte Brooks eine eigene schriftstellerische Stimme. Ihre Beobachtungen verbanden persönliche Erfahrung mit kritischen Urteilen über Menschen und Arbeitsweisen des Kinos.",
-      "anchor": "Lulu wurde auch zur kritischen Beobachterin Hollywoods.",
       "interest": "Die Texte erweitern ihre Bedeutung vom sichtbaren Starbild zur reflektierenden Zeitzeugin.",
       "feedback": [
         "",
@@ -217,7 +216,8 @@
       "extraSources": [
         "https://www.pandorasbox.com/life_and_times_of_louise_brooks/",
         "https://www.bfi.org.uk/sight-and-sound/features/humphrey-bogey-bogart-louise-brooks"
-      ]
+      ],
+      "objective": "Lulu wurde auch zur kritischen Beobachterin Hollywoods."
     }
   ]
 }

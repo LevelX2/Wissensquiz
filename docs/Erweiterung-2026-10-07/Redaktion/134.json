@@ -36,12 +36,12 @@
       ],
       "short": "Sinclair (John Cleese) verspricht zwei Millionen Dollar.",
       "context": "Sinclair (John Cleese) verspricht zwei Millionen Dollar. Die Summe soll in einem Bahnhofsschließfach in Silver City liegen. Das Geld bringt sehr unterschiedliche Personen dazu, gleichzeitig loszureisen. Hinter dem Angebot steht allerdings ein zweites Spiel: Sinclair und seine Gäste wetten auf den Verlauf des Rennens.",
-      "anchor": "Der versprochene Schließfachgewinn startet das Rennen.",
       "interest": "Die zentrale Belohnung erschließt die Ausgangslage.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der versprochene Schließfachgewinn startet das Rennen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Sinclair (John Cleese) organisiert das Rennen zur Unterhaltung seiner wohlhabenden Gäste.",
       "context": "Sinclair (John Cleese) organisiert das Rennen zur Unterhaltung seiner wohlhabenden Gäste. Die Teilnehmenden kennen diesen Blick auf ihre Reise zunächst nicht. Ihre improvisierten Fluchten werden für andere zu Wettmaterial. Dadurch besitzt der Wettlauf neben der Geldsuche eine zweite Ebene: Menschen werden zu Figuren im Spiel der Reichen.",
-      "anchor": "Die Rennenden suchen Geld, die Zuschauer suchen Wettspaß.",
       "interest": "Die verborgene Perspektive erklärt den Veranstalter.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Rennenden suchen Geld, die Zuschauer suchen Wettspaß."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Enrico Pollini (Rowan Atkinson) schläft durch seine Narkolepsie unvermittelt ein.",
       "context": "Enrico Pollini (Rowan Atkinson) schläft durch seine Narkolepsie unvermittelt ein. Die Verzögerung wirkt besonders am Ziel: Obwohl er zuerst am Schließfach ist, kann er den Vorsprung nicht sofort nutzen. Die Figur kehrt damit die Logik des Rennens um, nach der die früheste Ankunft automatisch den Sieg bedeuten müsste.",
-      "anchor": "Der Erste am Ziel schläft vor dem Gewinn ein.",
       "interest": "Ein Figurenmerkmal verändert die Rennlogik.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Erste am Ziel schläft vor dem Gewinn ein."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Owen Templeton (Cuba Gooding Jr.) übernimmt einen Bus mit Lucille-Ball-Fans.",
       "context": "Owen Templeton (Cuba Gooding Jr.) übernimmt einen Bus mit Lucille-Ball-Fans. Sie fahren zu einem Treffen in passenden Kostümen, er braucht ein Fahrzeug für seinen Wettlauf. Die beiden Reiseziele passen nicht zusammen. Als der Betrug und ein Unfall auffliegen, verliert Owen den vermeintlich bequemen Weg zum Gewinn.",
-      "anchor": "Owens Bus voller Lucys fährt für ein fremdes Ziel.",
       "interest": "Die falsche Fahrerrolle verschränkt zwei Reisen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Owens Bus voller Lucys fährt für ein fremdes Ziel."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Sinclairs Assistent Harold Grisham (Dave Thomas) hat das Geld mit Vicki (Brandy Ledford) an sich genommen.",
       "context": "Sinclairs Assistent Harold Grisham (Dave Thomas) hat das Geld mit Vicki (Brandy Ledford) an sich genommen. Der Wettlauf bringt somit nicht den vorgesehenen direkten Sieg. Die Konkurrenz muss nach dem leeren Schließfach der wandernden Beute folgen. Das Geld verbindet nun die bisherigen Reisewege mit einem letzten gemeinsamen Abschnitt.",
-      "anchor": "Am Ziel ist die Beute schon wieder unterwegs.",
       "interest": "Der Befund verändert das Ziel des Rennens.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Am Ziel ist die Beute schon wieder unterwegs."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Teilnehmer spenden den Gewinn bei einem Benefizkonzert.",
       "context": "Die Teilnehmer spenden den Gewinn bei einem Benefizkonzert. Der Wettlauf um persönlichen Reichtum kippt dadurch in einen gemeinsamen Zweck. Sinclair (John Cleese) und seine Wettgäste sollen die Spenden noch verdoppeln. Ausgerechnet die Zuschauer, die andere als Spielmaterial benutzt haben, geraten damit selbst unter öffentlichen Druck.",
-      "anchor": "Das private Wettrennen endet als öffentliche Spende.",
       "interest": "Der Schluss kehrt die Beziehung von Teilnehmern und reichen Zuschauern um.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das private Wettrennen endet als öffentliche Spende."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "US-Erstveröffentlichung am 17. August 2001.",
       "context": "2001 erschien „Rat Race“, achtunddreißig Jahre nach „Eine total, total verrückte Welt“ von 1963, das als Vorbild genannt wird. Beide Komödien organisieren ihre Ensembles um einen Wettlauf nach Geld. Die Verbindung ist ein Erinnerungsanker für die spätere Variante, während Schauplätze und einzelne Figuren eigenständig bleiben. Die Filmfolge lautet 1963, dann 2001.",
-      "anchor": "Verrückte Welt 1963, Rat Race 2001: achtunddreißig Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Verrückte Welt 1963, Rat Race 2001: achtunddreißig Jahre später."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Jerry Zucker inszenierte Andy Breckmans Drehbuch.",
       "context": "Jerry Zucker inszenierte Andy Breckmans Drehbuch. Das große Ensemble bewegt sich in mehreren getrennten Reisegeschichten auf dieselbe Beute zu. Die Komödie braucht deshalb eine Regie, die viele gleichzeitig laufende Hindernisse zusammenführt. Der Casinobesitzer und seine wohlhabenden Gäste sehen den Wettlauf als Unterhaltung, während die Teilnehmenden selbst um ihren vermeintlichen Gewinn kämpfen.",
-      "anchor": "Zucker führt Breckmans getrennte Reisewege beim gemeinsamen Ziel zusammen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Zucker führt Breckmans getrennte Reisewege beim gemeinsamen Ziel zusammen."
     }
   ]
 }

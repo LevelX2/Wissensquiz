@@ -25,7 +25,6 @@
       ],
       "context": "„Midnight Cowboy“, deutsch „Asphalt-Cowboy“, gewann 1970 den Film-Oscar. Joe Buck (Jon Voight) und Ratso Rizzo (Dustin Hoffman) begegnen sich in New York und entwickeln eine unwahrscheinliche Freundschaft. Das Versprechen eines neuen Lebens trifft auf Armut, Krankheit und Enttäuschung. Der Titel führt damit nicht zu einem klassischen Western, sondern zu einem Großstadtdrama über gegenseitige Abhängigkeit.",
       "short": "„Midnight Cowboy“, deutsch „Asphalt-Cowboy“, gewann 1970 den Film-Oscar.",
-      "anchor": "Der Cowboy gelangt nach New York und findet einen anderen verlorenen Menschen.",
       "interest": "Der Cowboy gelangt nach New York und findet einen anderen verlorenen Menschen.",
       "feedback": [
         "„Midnight Cowboy“, deutsch „Asphalt-Cowboy“, gewann 1970 den Film-Oscar.",
@@ -34,7 +33,8 @@
         "Z gewann nicht den Best-Picture-Preis dieser Verleihung."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Der Cowboy gelangt nach New York und findet einen anderen verlorenen Menschen."
     },
     {
       "code": "M",
@@ -47,7 +47,6 @@
       ],
       "context": "John Schlesinger erhielt den Regie-Oscar für „Midnight Cowboy“. Der Film konzentriert sich auf die Beziehung zweier Männer, deren Vorstellungen von Erfolg sich in New York kaum erfüllen. Schlesinger verbindet beobachteten Alltag mit Erinnerungsbildern und der Erfahrung von Isolation. Die Auszeichnung ergänzt den Film-Oscar und das ausgezeichnete adaptierte Drehbuch, während beide Hauptdarsteller nominiert blieben.",
       "short": "John Schlesinger erhielt den Regie-Oscar für „Midnight Cowboy“.",
-      "anchor": "Schlesingers Regie macht die Großstadt zum Raum einer schwierigen Freundschaft.",
       "interest": "Schlesingers Regie macht die Großstadt zum Raum einer schwierigen Freundschaft.",
       "feedback": [
         "John Schlesinger erhielt den Regie-Oscar für „Midnight Cowboy“.",
@@ -56,7 +55,8 @@
         "Bob Fosse erhielt diesen Regiepreis nicht."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Schlesingers Regie macht die Großstadt zum Raum einer schwierigen Freundschaft."
     },
     {
       "code": "S",
@@ -69,7 +69,6 @@
       ],
       "context": "Waldo Salt adaptierte James Leo Herlihys Roman „Midnight Cowboy“. Der Oscar 1970 würdigt die Übertragung des literarischen Stoffs in eine Geschichte, die von Blicken, Gesprächen und unzuverlässigen Erwartungen lebt. Der Film gewann insgesamt drei Oscars: Film, Regie und Drehbuch. Die Auszeichnung für Schreiben ist dabei von der dargestellten Freundschaft und den Leistungen der Schauspieler zu unterscheiden.",
       "short": "Waldo Salt adaptierte James Leo Herlihys Roman „Midnight Cowboy“.",
-      "anchor": "Salt übersetzt Herlihys Roman in eine ausgezeichnete Großstadtgeschichte.",
       "interest": "Salt übersetzt Herlihys Roman in eine ausgezeichnete Großstadtgeschichte.",
       "feedback": [
         "Waldo Salt adaptierte James Leo Herlihys Roman „Midnight Cowboy“.",
@@ -78,7 +77,8 @@
         "Trumbo erhielt diesen Preis nicht für Midnight Cowboy."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Salt übersetzt Herlihys Roman in eine ausgezeichnete Großstadtgeschichte."
     },
     {
       "code": "E",
@@ -91,7 +91,6 @@
       ],
       "context": "Dustin Hoffman und Jon Voight waren beide in der Hauptdarstellerkategorie nominiert. Der Preis ging an John Wayne für „True Grit“. Der gemeinsame Film gewann dennoch den Hauptpreis. Beide Figuren tragen die Erzählung und ihre Beziehung; ihre Konkurrenz in derselben Kategorie zeigt, dass die Preisstruktur nicht zwingend eine Haupt- und eine Nebenrolle aus jedem Paar machen muss.",
       "short": "Dustin Hoffman und Jon Voight waren beide in der Hauptdarstellerkategorie nominiert.",
-      "anchor": "Hoffman und Voight konkurrierten in derselben Hauptdarstellerkategorie.",
       "interest": "Hoffman und Voight konkurrierten in derselben Hauptdarstellerkategorie.",
       "feedback": [
         "Dustin Hoffman und Jon Voight waren beide in der Hauptdarstellerkategorie nominiert.",
@@ -100,7 +99,8 @@
         "Beide waren nominiert und keiner gewann."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Hoffman und Voight konkurrierten in derselben Hauptdarstellerkategorie."
     }
   ],
   "genre": "Drama"

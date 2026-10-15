@@ -37,12 +37,12 @@
       ],
       "short": "Das Lösen der rätselhaften Box öffnet den Zugang.",
       "context": "Frank (Sean Chapman) sucht in dem Rätselwürfel eine neue körperliche Erfahrung. Das Öffnen führt jedoch zu den Cenobiten. Der Gegenstand verbindet geistige Beschäftigung mit körperlichen Folgen: Wer die Form richtig verändert, erhält keinen bloßen Hinweis, sondern setzt eine Begegnung in Gang, deren Bedingungen er nicht beherrscht.",
-      "anchor": "Das gelöste Rätsel öffnet ein Tor zu körperlich wirksamen Folgen.",
       "interest": "Zeigt die Verbindung zwischen Verlockung, Handlung und Konsequenz.",
       "sources": [
         "autor"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das gelöste Rätsel öffnet ein Tor zu körperlich wirksamen Folgen."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Ihre frühere Affäre macht sie empfänglich für seinen Plan.",
       "context": "Julia (Clare Higgins) ist mit Larry (Andrew Robinson) verheiratet, fühlt sich aber weiterhin zu dessen Bruder Frank (Sean Chapman) hingezogen. Ihr Verlangen gibt dem übernatürlichen Vorgang menschliche Unterstützung. Der Film lässt die Bedrohung dadurch nicht nur von außen eindringen; sie wird innerhalb einer Beziehung bewusst gefördert.",
-      "anchor": "Julias unerfülltes Verlangen macht sie zu Franks Helferin.",
       "interest": "Erklärt die menschliche Motivation hinter der Wiederkehr der Bedrohung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Julias unerfülltes Verlangen macht sie zu Franks Helferin."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Das Blut des verletzten Larry erreicht die Überreste im Haus.",
       "context": "Larry (Andrew Robinson) verletzt sich beim Einzug. Sein Blut erreicht die Stelle, an der Franks Überreste liegen. Der harmlose häusliche Unfall bekommt dadurch eine zweite Bedeutung. Die Familie bringt unwissentlich die Voraussetzung für eine Rückkehr hervor, deren Ursprung im eigenen Haus verborgen geblieben war.",
-      "anchor": "Das Blut eines Einzugsunfalls erreicht Franks verborgene Überreste.",
       "interest": "Verbindet einen alltäglichen Vorgang mit der fantastischen Ursache.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Blut eines Einzugsunfalls erreicht Franks verborgene Überreste."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die gesuchte Grenzerfahrung umfasst unerträglichen Schmerz.",
       "context": "Frank (Sean Chapman) will Erfahrungen jenseits gewöhnlicher Grenzen. Die Cenobiten bieten solche Empfindungen, trennen dabei aber Lust und Schmerz nicht nach seinen Erwartungen. Sein Fehler liegt deshalb im Verständnis des Versprechens. Er öffnet den Zugang zu einer Ordnung, deren Begriffe nicht dieselben sind wie seine Wünsche.",
-      "anchor": "Franks Wunsch nach extremer Lust führt in eine Ordnung ohne seine Schmerzgrenze.",
       "interest": "Erklärt den Widerspruch zwischen einem Versprechen und dessen tatsächlicher Bedeutung.",
       "sources": [
         "autor"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Franks Wunsch nach extremer Lust führt in eine Ordnung ohne seine Schmerzgrenze."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Frank ist der entkommene Gefangene, den sie zurückholen wollen.",
       "context": "Kirsty (Ashley Laurence) erkennt, dass die Cenobiten einen eigenen Anspruch auf Frank haben. Sie nutzt dieses Ziel als Verhandlungsmöglichkeit. Die Rettung beruht daher zunächst nicht auf Stärke, sondern auf Information: Sie kennt einen Vorgang, den die mächtigen Wesen verfolgen wollen und nicht selbst überblicken.",
-      "anchor": "Kirstys Wissen um Franks Flucht ermöglicht den vorläufigen Handel.",
       "interest": "Zeigt den taktischen Wert einer Information gegenüber einem überlegenen Gegner.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Kirstys Wissen um Franks Flucht ermöglicht den vorläufigen Handel."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die umgekehrte Manipulation schließt den zuvor geöffneten Zugang.",
       "context": "Kirsty (Ashley Laurence) verwendet den Würfel selbst, als die Cenobiten sie dennoch holen wollen. Die Umkehrung des Öffnens gibt ihr Handlungsmacht über den Zugang. Der Gegenstand bleibt gefährlich, aber seine Funktionsweise lässt sich nutzen. Verstehen ersetzt hier ein Vertrauen auf die Zusagen der Gegner.",
-      "anchor": "Die umgekehrte Würfelbewegung schließt den gefährlichen Zugang.",
       "interest": "Verbindet die Rettung mit dem zuvor eingeführten Mechanismus des Gegenstands.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die umgekehrte Würfelbewegung schließt den gefährlichen Zugang."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Die Erzählung erschien 1986 in Night Visions 3; der Film folgte 1987.",
       "context": "The Hellbound Heart wurde 1986 in der US-Anthologie Night Visions 3 veröffentlicht. Hellraiser folgte 1987, nur ein Jahr später. Clive Barker übertrug damit einen frisch erschienenen eigenen Stoff selbst auf die Leinwand. Spätere Buchausgaben dürfen nicht mit diesem ersten Veröffentlichungszeitpunkt verwechselt werden.",
-      "anchor": "1986 die Anthologie-Erzählung, schon 1987 Barkers Verfilmung.",
       "interest": "Verankert das Filmjahr in der raschen Bearbeitung der eigenen Vorlage.",
       "sources": [
         "buch",
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1986 die Anthologie-Erzählung, schon 1987 Barkers Verfilmung."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "Clive Barker schrieb und inszenierte den ersten Film.",
       "context": "Clive Barker wollte seine eigenen Drehbuchbilder selbst auf die Leinwand bringen und übernahm die Regie. Er beschrieb die Wirkung als gemeinschaftliche Arbeit, besonders mit dem Masken- und Effektteam um Bob Keen. Die monströsen Körper entstanden dadurch aus Zeichnungen, handwerklicher Entwicklung und der filmischen Präsentation dieser Gestalten.",
-      "anchor": "Barker übernimmt die Regie, um seine eigenen Bilder mit dem Effektteam umzusetzen.",
       "interest": "Verbindet den Regiecredit mit einer belegten Motivation und Arbeitsweise.",
       "sources": [
         "autor"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Barker übernimmt die Regie, um seine eigenen Bilder mit dem Effektteam umzusetzen."
     }
   ],
   "series": "Hellraiser"

@@ -33,12 +33,12 @@
       ],
       "short": "Hirayama reinigt öffentliche Toiletten in Tokio.",
       "context": "Hirayama (Kōji Yakusho) reinigt öffentliche Toiletten in Tokio. Er arbeitet sorgfältig und wiederholt feste Abläufe; der Film beobachtet gerade in dieser alltäglichen Arbeit seine Aufmerksamkeit.",
-      "anchor": "Hirayamas Alltag beginnt mit sorgfältiger Reinigungsarbeit.",
       "interest": "Hirayamas Alltag beginnt mit sorgfältiger Reinigungsarbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hirayamas Alltag beginnt mit sorgfältiger Reinigungsarbeit."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Hirayama hört Musik von Kassetten.",
       "context": "Hirayama (Kōji Yakusho) hört Musik von Kassetten. Die Sammlung begleitet seine Fahrten; einzelne Lieder erhalten dadurch einen Platz innerhalb des immer wiederkehrenden Tagesablaufs.",
-      "anchor": "Die Fahrt klingt nach Hirayamas Kassetten.",
       "interest": "Die Fahrt klingt nach Hirayamas Kassetten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Fahrt klingt nach Hirayamas Kassetten."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Hirayama fotografiert Bäume und das durch Blätter fallende Licht.",
       "context": "Hirayama (Kōji Yakusho) fotografiert Bäume und das durch Blätter fallende Licht. Er verwendet analogen Film; die kleinen Unterschiede einer wiederkehrenden Aussicht werden damit zu einer eigenen Sammlung.",
-      "anchor": "Die Mittagspause bewahrt wechselndes Licht im Baum.",
       "interest": "Die Mittagspause bewahrt wechselndes Licht im Baum.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Mittagspause bewahrt wechselndes Licht im Baum."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Niko ist von ihrer Mutter Keiko (Yumi Asō) weggelaufen.",
       "context": "Niko (Arisa Nakano) ist von ihrer Mutter Keiko (Yumi Asō) weggelaufen. Bei ihrem Onkel Hirayama (Kōji Yakusho) erlebt sie seinen Tagesablauf mit; ihr Besuch öffnet zugleich einen Blick auf die getrennten Familienwelten.",
-      "anchor": "Die Nichte bringt Familie in den geregelten Alltag.",
       "interest": "Die Nichte bringt Familie in den geregelten Alltag.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Nichte bringt Familie in den geregelten Alltag."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Ein Papier mit Tic-Tac-Toe-Zügen vermittelt den Kontakt.",
       "context": "Ein Papier mit Tic-Tac-Toe-Zügen vermittelt den Kontakt. Hirayama (Kōji Yakusho) und ein unbekannter Mensch ergänzen abwechselnd das Spiel; Begegnung entsteht ohne sichtbares Gespräch.",
-      "anchor": "Papier und Spielzüge ersetzen ein Gespräch.",
       "interest": "Papier und Spielzüge ersetzen ein Gespräch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Papier und Spielzüge ersetzen ein Gespräch."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Feeling Good begleitet die Schlussfahrt.",
       "context": "Feeling Good begleitet die Schlussfahrt. Hirayamas Gesicht zeigt nacheinander verschiedene Gefühle; die musikalische Zuversicht erzeugt deshalb keinen einfach gleichförmig glücklichen Abschluss.",
-      "anchor": "Die letzte Fahrt verbindet „Feeling Good“ mit wechselnden Gefühlen.",
       "interest": "Die letzte Fahrt verbindet „Feeling Good“ mit wechselnden Gefühlen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die letzte Fahrt verbindet „Feeling Good“ mit wechselnden Gefühlen."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Der Film wurde 2023 erstmals veröffentlicht.",
       "context": "2023 erschien der Film, nachdem Wenders eine Einladung zum Projekt The Tokyo Toilet erhalten hatte. Die zunächst angedachten Kurzfilme wurden zu einem Spielfilm über den Alltag eines Reinigers. Das reale Architekturprojekt ist der konkrete Hintergrund seiner Veröffentlichung.",
-      "anchor": "2023 wurde aus dem realen Architekturprojekt The Tokyo Toilet ein Spielfilm über einen Reiniger.",
       "interest": "2023 wurde aus dem realen Architekturprojekt The Tokyo Toilet ein Spielfilm über einen Reiniger.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2023 wurde aus dem realen Architekturprojekt The Tokyo Toilet ein Spielfilm über einen Reiniger."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Regie: Wim Wenders.",
       "context": "Wenders und Takuma Takasaki entwickelten statt einzelner Kurzfilme über Toilettenanlagen eine Figurengeschichte. Die realen Anlagen des Tokyo-Toilet-Projekts bilden den Arbeitsort von Hirayama (Kōji Yakusho).",
-      "anchor": "Wenders und Takuma Takasaki entwickelten statt einzelner Kurzfilme über Toilettenanlagen eine Figurengeschichte.",
       "interest": "Wenders und Takuma Takasaki entwickelten statt einzelner Kurzfilme über Toilettenanlagen eine Figurengeschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Wenders und Takuma Takasaki entwickelten statt einzelner Kurzfilme über Toilettenanlagen eine Figurengeschichte."
     }
   ]
 }

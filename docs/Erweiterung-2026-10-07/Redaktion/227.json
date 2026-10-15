@@ -49,14 +49,14 @@
       ],
       "short": "Samuel sieht den Mord auf der Toilette des Bahnhofs in Philadelphia.",
       "context": "Samuel (Lukas Haas) reist mit seiner verwitweten Mutter Rachel (Kelly McGillis) aus der amischen Gemeinde. Beim Warten auf den Anschlusszug sieht er zufällig einen Mord. Der Kontakt mit der städtischen Außenwelt wird so unmittelbar gefährlich, weil sein Wissen ihn zum Zeugen gegen einen bewaffneten Täter macht.",
-      "anchor": "Der Bahnhofsmord macht den reisenden Jungen zum bedrohten Zeugen.",
       "interest": "Die Frage erklärt die Ausgangssituation des Schutzfalls.",
       "sources": [
         "wiki",
         "de",
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Bahnhofsmord macht den reisenden Jungen zum bedrohten Zeugen."
     },
     {
       "code": "L2",
@@ -75,13 +75,13 @@
       ],
       "short": "Die Lapps gehören zu einer amischen Gemeinde in Pennsylvania.",
       "context": "John Book (Harrison Ford) bringt Rachel (Kelly McGillis) und Samuel (Lukas Haas) nach Hause. Nach seiner Verletzung muss er dort ebenfalls bleiben. Die Gemeinde bietet Abstand von der korrumpierten Polizei, doch ihre Gewaltlosigkeit und Lebensregeln widersprechen seiner bisherigen Arbeitsweise. Das Versteck wird deshalb zugleich zu einer kulturellen Begegnung.",
-      "anchor": "Die amische Gemeinde schützt die Zeugen und fordert Books Gewohnheiten heraus.",
       "interest": "Der Schauplatz erklärt den Gegensatz zwischen Schutz und Gewalt.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die amische Gemeinde schützt die Zeugen und fordert Books Gewohnheiten heraus."
     },
     {
       "code": "M1",
@@ -100,13 +100,13 @@
       ],
       "short": "Das Foto des ausgezeichneten Polizisten McFee liefert die Wiedererkennung.",
       "context": "Die üblichen Verdächtigenfotos helfen Samuel (Lukas Haas) nicht. Erst das öffentlich ausgestellte Bild des Polizisten McFee (Danny Glover) ermöglicht die Identifikation. John Book (Harrison Ford) muss damit den Fall gegen die eigene Institution wenden: Das Zeichen beruflicher Anerkennung weist ausgerechnet auf einen Mörder in ihren Reihen.",
-      "anchor": "Ein Bild eines ausgezeichneten Polizisten führt zum Täter.",
       "interest": "Die Szene kehrt die erwartete Bedeutung einer polizeilichen Ehrung um.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Bild eines ausgezeichneten Polizisten führt zum Täter."
     },
     {
       "code": "M2",
@@ -125,13 +125,13 @@
       ],
       "short": "Book zeigt praktische Fähigkeiten beim gemeinschaftlichen Scheunenbau.",
       "context": "John Book (Harrison Ford) ist als bewaffneter Stadtpolizist zunächst ein Fremder. Seine handwerklichen Fähigkeiten schaffen jedoch einen Zugang, der nicht über die Polizei führt. Beim Scheunenbau arbeitet er mit den anderen zusammen. Diese sichtbare Leistung vertieft auch den Gegensatz zur gefährlichen Macht seiner korrupten Kollegen.",
-      "anchor": "Books Handwerk macht ihn im gemeinschaftlichen Scheunenbau brauchbar.",
       "interest": "Die Szene zeigt Zugehörigkeit durch gemeinsame Arbeit.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Books Handwerk macht ihn im gemeinschaftlichen Scheunenbau brauchbar."
     },
     {
       "code": "S1",
@@ -150,13 +150,13 @@
       ],
       "short": "Die gemeldete Schlägerei setzt die Suche auf die richtige Spur.",
       "context": "John Book (Harrison Ford) erfährt vom Tod seines Kollegen Carter (Brent Jennings). Kurz darauf lässt er sich bei einer Provokation zu Gewalt hinreißen. Der Vorfall widerspricht den Regeln der Amischen und wird der örtlichen Polizei gemeldet. So öffnet ausgerechnet seine gewohnte Art der Gegenwehr den Verfolgern den Weg zur Gemeinde.",
-      "anchor": "Die öffentliche Schlägerei legt Books Versteck offen.",
       "interest": "Die Ursache verbindet seinen kulturellen Konflikt mit der erneuten Gefahr.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die öffentliche Schlägerei legt Books Versteck offen."
     },
     {
       "code": "S2",
@@ -175,13 +175,13 @@
       ],
       "short": "Die versammelte Gemeinde macht eine weitere verdeckte Tötung unmöglich.",
       "context": "Samuel (Lukas Haas) läutet die Hofglocke, sodass die Nachbarn zusammenkommen. Paul Schaeffer (Josef Sommer) kann die Geiselsituation nun nicht mehr ohne zahlreiche Beobachter lösen. Die Gemeinde ist nicht bewaffnet; ihre Anwesenheit verändert dennoch das Kräfteverhältnis. Der bedrohte einzelne Zeuge wird durch eine öffentlich sichtbare Gemeinschaft ergänzt.",
-      "anchor": "Viele Zeugen beenden den Versuch einer verdeckten Tat.",
       "interest": "Der Schluss verbindet den Filmtitel mit einer gemeinschaftlichen Form der Gegenwehr.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Viele Zeugen beenden den Versuch einer verdeckten Tat."
     },
     {
       "code": "Y",
@@ -200,14 +200,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1985.",
       "context": "Der Film erschien 1985 und wurde bei den Oscars 1986 ausgezeichnet. Den Schnittpreis erhielt Thom Noble; der Drehbuchpreis ging an Earl W. Wallace, William Kelley und Pamela Wallace für ihre jeweiligen Drehbuch- und Storycredits. Die einjährige Verschiebung ist ein nützlicher Anker: Das Jahr einer Preisverleihung ersetzt nicht das ursprüngliche Veröffentlichungsjahr.",
-      "anchor": "Filmveröffentlichung 1985 → Oscars für Drehbuch und Schnitt 1986: ein Jahr.",
       "interest": "Der Zusammenhang unterscheidet Filmjahr und Auszeichnungsjahr an einem konkreten Beispiel.",
       "sources": [
         "wiki",
         "studio",
         "academy"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Filmveröffentlichung 1985 → Oscars für Drehbuch und Schnitt 1986: ein Jahr."
     },
     {
       "code": "D",
@@ -226,14 +226,14 @@
       ],
       "short": "Peter Weir führte bei diesem Film Regie.",
       "context": "Peter Weir inszeniert die Begegnung eines städtischen Polizisten mit der amischen Lebenswelt. John Book (Harrison Ford) wird nicht nur versteckt, sondern muss sich in Arbeitsabläufe und Regeln der Gemeinde einfügen. Die gemeinsame Scheunenerrichtung zeigt diese Annäherung sichtbar, während die bedrohte Gemeinschaft dem kriminalistischen Konflikt eine andere Form von Gegenwehr entgegensetzt.",
-      "anchor": "Weir verbindet Kriminalhandlung und Begegnung mit amischer Gemeinschaft.",
       "interest": "Die Regiefrage führt zur Bedeutung der ruhigen Gemeinschaftsszenen.",
       "sources": [
         "wiki",
         "studio",
         "academy"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Weir verbindet Kriminalhandlung und Begegnung mit amischer Gemeinschaft."
     }
   ]
 }

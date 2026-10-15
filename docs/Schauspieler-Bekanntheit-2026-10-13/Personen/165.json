@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Marian Starrett ist Joes Frau und Joeys Mutter.",
       "context": "Die Familie nimmt den fremden Reiter auf. Marians Fürsorge und ihre Abneigung gegen Gewalt bilden ein Gegengewicht zur Faszination, die Shane auf ihren Sohn ausübt.",
-      "anchor": "Marian gehört zur Siedlerfamilie Starrett.",
       "interest": "Die Beziehung ordnet ihre Rolle zwischen häuslicher Sicherheit und Westernheld ein.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/51022-SHANE"
-      ]
+      ],
+      "objective": "Marian gehört zur Siedlerfamilie Starrett."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 2,
       "short": "Saunders arbeitet als Sekretärin im politischen Washington.",
       "context": "Sie kennt das parlamentarische Geschäft weit besser als der neue Senator. Ihre Erfahrung wird wichtig, als Smith sich gegen die eingespielten Interessen seiner Umgebung wehrt.",
-      "anchor": "Saunders kennt den Senat aus dem Arbeitsalltag.",
       "interest": "Der Beruf erklärt ihren Informationsvorsprung gegenüber Smith.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington"
-      ]
+      ],
+      "objective": "Saunders kennt den Senat aus dem Arbeitsalltag."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 0,
       "short": "Bonnie setzt sich ans Klavier und spielt für die Gruppe.",
       "context": "Nach dem Tod eines Piloten führt die Szene musikalisches Können und gesellschaftliche Aufnahme zusammen. Bonnie beobachtet die Männer nicht nur von außen, sondern behauptet sich als unterhaltsame, eigenständige Partnerin.",
-      "anchor": "Bonnies Klavierspiel schafft Nähe.",
       "interest": "Musik zeigt hier, wie ein neu hinzugekommener Mensch Teil einer Gruppe wird.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://bfidatadigipres.github.io/pdf/2023-06-03-only-angels-have-wings.pdf"
-      ]
+      ],
+      "objective": "Bonnies Klavierspiel schafft Nähe."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Die Wohnungsnot im Washington des Zweiten Weltkriegs führt zur Untervermietung.",
       "context": "Der erste Untermieter nimmt seinerseits einen jungen Soldaten auf. Aus der beengten Wohnung entsteht eine Komödie über Zeitpläne, Privatsphäre und eine allmähliche Annäherung.",
-      "anchor": "Wohnungsnot bringt das ungewöhnliche Zusammenleben zustande.",
       "interest": "Ein alltägliches Kriegsproblem liefert den Motor der Liebeskomödie.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/574"
-      ]
+      ],
+      "objective": "Wohnungsnot bringt das ungewöhnliche Zusammenleben zustande."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 2,
       "short": "Phoebe Frost ist eine Kongressabgeordnete aus Iowa.",
       "context": "Sie soll die Moral der amerikanischen Besatzungssoldaten untersuchen. Ihre strengen Maßstäbe geraten mit Schwarzmarkt, Liebesbeziehungen und der widersprüchlichen Nachkriegswirklichkeit in Konflikt.",
-      "anchor": "Frost kommt als politische Kontrolleurin nach Berlin.",
       "interest": "Die Ausgangsposition erklärt die Reibung zwischen amerikanischer Selbstgewissheit und Besatzungsalltag.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25544-A-FOREIGNAFFAIR"
-      ]
+      ],
+      "objective": "Frost kommt als politische Kontrolleurin nach Berlin."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 1,
       "short": "Der inkognito arbeitende Kollege ist der Kaufhauseigentümer Merrick.",
       "context": "Er will die gewerkschaftliche Organisation in seinem Betrieb bekämpfen. Marys Umgang mit ihm konfrontiert den reichen Unternehmer jedoch mit dem Leben der Menschen, über die er entscheidet.",
-      "anchor": "Mary freundet sich mit dem unerkannten Eigentümer an.",
       "interest": "Der Rollentausch verbindet eine Arbeitsweltkomödie mit einer Kritik an sozialer Distanz.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://www.siskelfilmcenter.org/devil-and-miss-jones"
-      ]
+      ],
+      "objective": "Mary freundet sich mit dem unerkannten Eigentümer an."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 0,
       "short": "Arthur arbeitete auf Gewinnbeteiligung statt gegen eine feste Gage.",
       "context": "Auch Regisseur Sam Wood und Autor Norman Krasna beteiligten sich auf dieser Grundlage. Die Vereinbarung gehörte zum Produktionsmodell von Frank Ross; RKO übernahm den Vertrieb.",
-      "anchor": "Gewinnbeteiligung verband Darstellerin und unabhängige Produktion.",
       "interest": "Der Vertrag zeigt, wie ein Star auch wirtschaftlich an einem Filmprojekt beteiligt sein konnte.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/26668-THE-DEVIL-AND-MISS-JONES"
-      ]
+      ],
+      "objective": "Gewinnbeteiligung verband Darstellerin und unabhängige Produktion."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 3,
       "short": "Capra beschrieb eine tiefe, raue Stimme, die in höhere Lagen wechseln konnte.",
       "context": "Arthur konnte innerhalb weniger Sätze zwischen souveräner Schlagfertigkeit und verletzlicher Wärme wechseln. Die auffällige Stimmführung, anfangs als mögliches Karrierehindernis betrachtet, wurde so zu einem wesentlichen Bestandteil ihrer Komik.",
-      "anchor": "Die Stimme verbindet Rauheit mit überraschender Helligkeit.",
       "interest": "Ein akustisches Merkmal erklärt die besondere Wirkung ihrer Tonfilmrollen.",
       "feedback": [
         "",
@@ -218,7 +217,8 @@
       "films": [],
       "extraSources": [
         "https://www.criterion.com/current/posts/6930-jean-arthur-the-nonconformist"
-      ]
+      ],
+      "objective": "Die Stimme verbindet Rauheit mit überraschender Helligkeit."
     }
   ]
 }

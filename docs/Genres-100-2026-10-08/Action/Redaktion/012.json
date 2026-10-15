@@ -33,11 +33,11 @@
       ],
       "short": "Mike trifft sich heimlich mit der Schwester seines Partners.",
       "context": "Mike Lowrey (Will Smith) verschweigt seinem Partner Marcus Burnett (Martin Lawrence), dass er mit dessen Schwester Syd (Gabrielle Union) zusammen ist. Damit gelangt der sonst berufliche Streit der beiden in Marcus’ Familie. Zugleich verfolgt Syd ihren eigenen verdeckten Einsatz für die Drogenbehörde. Die private Geheimhaltung und die dienstliche Geheimhaltung bestehen nebeneinander und bringen unterschiedliche Spannungen in dieselbe Ermittlungsgruppe.",
-      "anchor": "Syd verbindet die Partner dienstlich und familiär.",
       "interest": "Der leichte Einstieg erschließt eine zentrale Beziehung des Buddy-Cop-Films.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Syd verbindet die Partner dienstlich und familiär."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Tapia nimmt Syd als Geisel mit nach Kuba.",
       "context": "Als Syds (Gabrielle Union) Tarnung auffliegt, verschleppt Johnny Tapia (Jordi Mollà) sie auf sein kubanisches Anwesen. Mike Lowrey (Will Smith) und Marcus Burnett (Martin Lawrence) müssen nun über ihre gewöhnliche Zuständigkeit in Miami hinausgehen. Die Rettung wird zu einem grenzüberschreitenden Einsatz mit Unterstützung weiterer Kräfte. Damit vergrößert sich der Schauplatz, während der Anlass für die beiden Polizisten zugleich persönlicher wird.",
-      "anchor": "Die Geiselnahme verlagert die Action von Miami nach Kuba.",
       "interest": "Der Ortswechsel ist mit einer klaren Handlungskonsequenz verbunden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Geiselnahme verlagert die Action von Miami nach Kuba."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Leichen und Särge verbergen Drogen beziehungsweise Geld.",
       "context": "Mike Lowrey (Will Smith) und Marcus Burnett (Martin Lawrence) verfolgen Hinweise bis in Tapias (Jordi Mollà) Bestattungsunternehmen. Die Einrichtung bietet ihm eine besonders makabre Tarnung, weil Leichen und Särge für Transporte benutzt werden. Die Entdeckung verbindet die groteske Komik der Szenen mit einem konkreten Ermittlungsfortschritt. Erst durch diesen Einblick wird aus dem Verdacht ein Zusammenhang, der eine größere Razzia rechtfertigt.",
-      "anchor": "Das Bestattungsunternehmen ist ein Transportweg der Drogenorganisation.",
       "interest": "Die Tarnung erklärt den Zusammenhang zwischen groteskem Schauplatz und Ermittlung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Bestattungsunternehmen ist ein Transportweg der Drogenorganisation."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Marcus erwägt eine Versetzung und damit das Ende der bisherigen Partnerschaft.",
       "context": "Marcus Burnett (Martin Lawrence) erlebt Mikes (Will Smith) riskanten Arbeitsstil zunehmend als Belastung. Schon der missglückte Zugriff am Anfang verstärkt seine Zweifel. Er plant eine Versetzung aus ihrer Einheit, erzählt seinem Partner zunächst aber nichts davon. Die gemeinsame Jagd verhandelt deshalb neben dem Kriminalfall auch die Frage, ob die berufliche Bindung der beiden trotz ihrer unterschiedlichen Grenzen fortbestehen kann.",
-      "anchor": "Marcus stellt die Fortsetzung der Partnerschaft infrage.",
       "interest": "Der Konflikt betrifft eine Entscheidung, nicht nochmals Syds Familienbeziehung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Marcus stellt die Fortsetzung der Partnerschaft infrage."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Die letzte Konfrontation findet in einem Minenfeld statt.",
       "context": "Nach der Flucht vom Anwesen geraten Mike Lowrey (Will Smith), Marcus Burnett (Martin Lawrence) und Syd (Gabrielle Union) in den Bereich vor Guantánamo. Der scheinbare Weg zur Sicherheit führt in ein Minenfeld. Johnny Tapia (Jordi Mollà) verfolgt sie weiter. Die Gefahr kommt nun nicht nur vom Gegner, sondern vom Boden selbst; das Finale ersetzt freie Bewegung durch eine räumlich eng begrenzte Konfrontation.",
-      "anchor": "Der letzte Fluchtweg wird durch Minen zum gefährlichen Stillstand.",
       "interest": "Die räumliche Bedingung erklärt die besondere Spannung des Schlusskampfs.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der letzte Fluchtweg wird durch Minen zum gefährlichen Stillstand."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Das BFI vergleicht die Verfolgung mit Police Story.",
       "context": "Im Finale durchbricht die Fluchtgruppe mit einem Hummer die Häuser einer Siedlung. Elena Lazic stellt diese Sequenz in der BFI-Genrerückschau ausdrücklich neben Jackie Chans Police Story und beschreibt eine weitgehende Übernahme der älteren Szene. Diese Einordnung macht eine konkrete Ähnlichkeit zwischen zwei Actionfilmen sichtbar. Sie ist eine filmkritische Zuordnung; eine eigene Aussage der Bad-Boys-Filmemacher über ihren kreativen Einfluss wird damit nicht behauptet.",
-      "anchor": "Der BFI-Vergleich verbindet zwei Verfolgungen, die Siedlungshäuser zum Fluchtweg machen.",
       "interest": "Der Vergleich ist ausdrücklich seiner Quelle zugeordnet und setzt keine belegte Absicht der Filmemacher voraus.",
       "sources": [
         "vorbild",
         "handlung"
-      ]
+      ],
+      "objective": "Der BFI-Vergleich verbindet zwei Verfolgungen, die Siedlungshäuser zum Fluchtweg machen."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "1995 der erste Bad Boys, 2003 die Fortsetzung: acht Jahre Abstand.",
       "context": "Bad Boys – Harte Jungs startete 1995 mit Will Smith und Martin Lawrence als ungleichen Polizistenpartnern. Die Fortsetzung erschien 2003, acht Jahre später. Sie behält die Hauptbesetzung und Michael Bay als Regisseur bei, vergrößert aber den Schauplatz bis nach Kuba. Die Premiere wurde am 9. Juli 2003 in Westwood fotografisch dokumentiert; der reguläre US-Kinostart folgte im selben Monat.",
-      "anchor": "1995 Bad Boys, 2003 Bad Boys II: acht Jahre Abstand.",
       "interest": "Der erste Reihenfilm macht den langen Abstand zur Fortsetzung greifbar.",
       "sources": [
         "studio",
         "premiere",
         "reihenstart"
-      ]
+      ],
+      "objective": "1995 Bad Boys, 2003 Bad Boys II: acht Jahre Abstand."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "Michael Bay inszenierte den Film.",
       "context": "Michael Bay führt die bereits im ersten Film angelegte Verbindung aus Polizistenstreit, schneller Bewegung und großer Zerstörung weiter. Mike Lowrey (Will Smith) und Marcus Burnett (Martin Lawrence) bleiben das komische Zentrum, während die Verfolgungen den Stadtraum immer stärker zerlegen. Sonys Filmseite bestätigt den Regiecredit. Die Fortsetzung hält damit den inszenatorischen Zusammenhang zur früheren Besetzung der Reihe aufrecht.",
-      "anchor": "Bays Fortsetzung verbindet das Partnerduo mit eskalierender Fahrzeug-Action.",
       "interest": "Ein filmbezogener Credit unterscheidet die konkrete Fortsetzung von anderen Buddy-Cop-Filmen.",
       "sources": [
         "studio",
         "handlung"
-      ]
+      ],
+      "objective": "Bays Fortsetzung verbindet das Partnerduo mit eskalierender Fahrzeug-Action."
     }
   ]
 }

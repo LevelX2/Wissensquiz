@@ -25,7 +25,6 @@
       ],
       "context": "Dustin Hoffman gewann für Raymond Babbitt den Hauptdarsteller-Oscar. Tom Cruise spielt dessen Bruder Charlie, der ihn zunächst wegen eines Erbes aufsucht. Ihre gemeinsame Reise verändert Charlies Haltung zu Raymond: Er entdeckt hinter dessen Gewohnheiten einen Bruder mit eigenen Bedürfnissen. Der Schauspielpreis ist eine der vier ausgezeichneten Kategorien von „Rain Man“.",
       "short": "Dustin Hoffman gewann für Raymond Babbitt den Hauptdarsteller-Oscar.",
-      "anchor": "Hoffmans Raymond brachte ihm den Hauptdarsteller-Oscar 1989.",
       "interest": "Hoffmans Raymond brachte ihm den Hauptdarsteller-Oscar 1989.",
       "feedback": [
         "Dustin Hoffman gewann für Raymond Babbitt den Hauptdarsteller-Oscar.",
@@ -37,7 +36,8 @@
       "extraSources": [],
       "variant_of": "DRA-L-015",
       "knowledge_id": "K-DRA-08-01",
-      "knowledge_note": "Die Zuordnung Raymond Babbitt zu Dustin Hoffman wird bereits abgefragt; der Preiszusatz teilt dieses Darstellerziel."
+      "knowledge_note": "Die Zuordnung Raymond Babbitt zu Dustin Hoffman wird bereits abgefragt; der Preiszusatz teilt dieses Darstellerziel.",
+      "objective": "Hoffmans Raymond brachte ihm den Hauptdarsteller-Oscar 1989."
     },
     {
       "code": "M",
@@ -50,7 +50,6 @@
       ],
       "context": "Barry Levinson gewann für die Regie von „Rain Man“. Die Geschichte beginnt mit Charlies eigennützigem Interesse am Vermögen seines Vaters und entwickelt sich zu einer Begegnung zweier Brüder. Levinson gestaltet den Wandel über Situationen auf ihrer Reise und die Reaktionen der Darsteller. Der Regiepreis ergänzt Film, Hauptdarstellung und Originaldrehbuch als die vier Siege der Produktion.",
       "short": "Barry Levinson gewann für die Regie von „Rain Man“.",
-      "anchor": "Levinsons Regie macht aus einer Erbschaftsabsicht eine Annäherung der Brüder.",
       "interest": "Levinsons Regie macht aus einer Erbschaftsabsicht eine Annäherung der Brüder.",
       "feedback": [
         "Barry Levinson gewann für die Regie von „Rain Man“.",
@@ -62,7 +61,8 @@
       "extraSources": [],
       "variant_of": "FF-083-DIRECTOR",
       "knowledge_id": "K-FF-083-DIRECTOR",
-      "knowledge_note": "Die Regiezuordnung Rain Man zu Barry Levinson ist bereits vorhanden; der Preiszusatz teilt das Regieziel."
+      "knowledge_note": "Die Regiezuordnung Rain Man zu Barry Levinson ist bereits vorhanden; der Preiszusatz teilt das Regieziel.",
+      "objective": "Levinsons Regie macht aus einer Erbschaftsabsicht eine Annäherung der Brüder."
     },
     {
       "code": "S",
@@ -75,7 +75,6 @@
       ],
       "context": "Ronald Bass und Barry Morrow erhielten den Originaldrehbuch-Oscar. Die Academy führt Morrow zusätzlich als Autor der zugrunde liegenden Filmgeschichte auf. Bass und Morrow gehören damit zum Schreiben des Werks; Barry Levinson verantwortet die Regie und Mark Johnson die Produktion. Die genaue Nennung verhindert, dass der Erfolg der Darstellung oder der Regie mit der Autorschaft verwechselt wird.",
       "short": "Ronald Bass und Barry Morrow erhielten den Originaldrehbuch-Oscar.",
-      "anchor": "Bass und Morrow schreiben; Levinson inszeniert und Johnson produziert.",
       "interest": "Bass und Morrow schreiben; Levinson inszeniert und Johnson produziert.",
       "feedback": [
         "Ronald Bass und Barry Morrow erhielten den Originaldrehbuch-Oscar.",
@@ -84,7 +83,8 @@
         "Cruise war Darsteller und nicht der ausgezeichnete Mitautor."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Bass und Morrow schreiben; Levinson inszeniert und Johnson produziert."
     },
     {
       "code": "E",
@@ -97,7 +97,6 @@
       ],
       "context": "Hans Zimmer war für die Originalfilmmusik von „Rain Man“ nominiert und gewann nicht. Der Film erhielt vier andere Oscars. Zimmers Nominierung betrifft den musikalischen Beitrag zur Reise der Brüder, nicht das Schreiben des Drehbuchs oder die Produktion. Die Bilanz unterscheidet somit den Gesamterfolg des Films von der einzelnen Kategorie eines beteiligten Komponisten.",
       "short": "Hans Zimmer war für die Originalfilmmusik von „Rain Man“ nominiert und gewann nicht.",
-      "anchor": "Rain Man gewann vier Oscars; Zimmers Musik blieb nominiert.",
       "interest": "Rain Man gewann vier Oscars; Zimmers Musik blieb nominiert.",
       "feedback": [
         "Hans Zimmer war für die Originalfilmmusik von „Rain Man“ nominiert und gewann nicht.",
@@ -106,7 +105,8 @@
         "Mark Johnson erhielt den Film-Oscar als Produzent."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Rain Man gewann vier Oscars; Zimmers Musik blieb nominiert."
     }
   ],
   "genre": "Drama"

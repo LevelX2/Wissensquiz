@@ -37,12 +37,12 @@
       ],
       "short": "Carlin untersucht den Anschlag auf eine Fähre.",
       "context": "Doug Carlin (Denzel Washington) sucht als ATF-Ermittler nach der Ursache einer tödlichen Fährenexplosion. Dabei fällt ihm eine Leiche auf, die schon vor der Explosion gefunden wurde. Die Untersuchung verbindet deshalb die Katastrophe mit einer zeitlichen Unstimmigkeit. Der Film beginnt mit gewöhnlichen Spuren und erweitert ihre Auswertung erst später um ein außergewöhnliches technisches Verfahren.",
-      "anchor": "Eine zeitliche Unstimmigkeit verbindet den Anschlag mit einem früheren Mord.",
       "interest": "Eine zeitliche Unstimmigkeit verbindet den Anschlag mit einem früheren Mord.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine zeitliche Unstimmigkeit verbindet den Anschlag mit einem früheren Mord."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Claires Tod gehört zur Vorbereitung und soll als Anschlagsfolge erscheinen.",
       "context": "Claire Kuchever (Paula Patton) ist vor der Fährenexplosion getötet worden. Ihr Körper soll trotzdem so erscheinen, als sei sie ein Opfer derselben Katastrophe. Doug Carlin (Denzel Washington) entdeckt den zeitlichen Widerspruch und beginnt, ihre früheren Tage zu untersuchen. Die vermeintliche Nebenfrage wird dadurch zum Zugang zur Vorbereitung des Anschlags.",
-      "anchor": "Claires falsche Opferzuordnung öffnet den Weg zur Anschlagsvorbereitung.",
       "interest": "Claires falsche Opferzuordnung öffnet den Weg zur Anschlagsvorbereitung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Claires falsche Opferzuordnung öffnet den Weg zur Anschlagsvorbereitung."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Snow White ist ein Zeitfenster statt bloßer Bildrekonstruktion.",
       "context": "Doug Carlin (Denzel Washington) erhält zunächst die Erklärung, das System setze ältere Satellitenaufnahmen zusammen. Seine Beobachtungen lassen diese Darstellung zweifelhaft werden. Als das Verfahren als Zeitfenster verstanden wird, verändert sich die Aufgabe: Die Vergangenheit ist nicht mehr ausschließlich gespeicherte Information, sondern ein Bereich, in den Nachrichten und schließlich ein Mensch gelangen können.",
-      "anchor": "Aus vermeintlich gespeicherten Bildern wird ein Zugang in die Vergangenheit.",
       "interest": "Aus vermeintlich gespeicherten Bildern wird ein Zugang in die Vergangenheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Aus vermeintlich gespeicherten Bildern wird ein Zugang in die Vergangenheit."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die Nachricht setzt Larry statt Doug in Bewegung.",
       "context": "Doug Carlin (Denzel Washington) will sein früheres Selbst vor den nächsten Schritten des Täters warnen. Larry Minuti (Matt Craven) findet jedoch den Zettel und versucht die Festnahme. Sein Tod zeigt die Gefahr eines begrenzten Eingriffs: Eine korrekt gemeinte Information kann in derselben Vergangenheit eine andere Person erreichen und einen nicht beabsichtigten Ablauf auslösen.",
-      "anchor": "Ein Hinweis kann stimmen und trotzdem den falschen Menschen zum Handeln bringen.",
       "interest": "Ein Hinweis kann stimmen und trotzdem den falschen Menschen zum Handeln bringen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Hinweis kann stimmen und trotzdem den falschen Menschen zum Handeln bringen."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Claires Kontrollanruf wird durch Dougs späteren Besuch verständlich.",
       "context": "Claire Kuchever (Paula Patton) misstraut dem verletzten Doug Carlin (Denzel Washington) und ruft dessen Dienststelle an. Das ist der Anruf, den Doug in der ersten Untersuchung bereits kannte. Die Szene schließt einen zuvor offenen Zusammenhang. Was zunächst als ältere Spur erschien, entsteht aus seiner späteren Handlung innerhalb der Vergangenheit.",
-      "anchor": "Die frühere Spur entsteht durch den späteren Ermittlerbesuch.",
       "interest": "Die frühere Spur entsteht durch den späteren Ermittlerbesuch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die frühere Spur entsteht durch den späteren Ermittlerbesuch."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Claire begegnet einem Doug aus der veränderten Gegenwart.",
       "context": "Der zurückgereiste Doug Carlin (Denzel Washington) verhindert den Anschlag, stirbt aber selbst im explodierenden Fahrzeug unter Wasser. Claire Kuchever (Paula Patton) wird gerettet. Danach tritt ihr der Doug dieser veränderten Gegenwart gegenüber. Die Filmwelt trennt damit zwei Versionen derselben Person: Der bekannte Schauspieler verkörpert keine neu eingeführten Zwillinge und keine einfache Wiederauferstehung.",
-      "anchor": "Gleicher Mensch, anderer Verlauf: Der gerettete Alltag enthält einen nicht zurückgereisten Doug.",
       "interest": "Gleicher Mensch, anderer Verlauf: Der gerettete Alltag enthält einen nicht zurückgereisten Doug.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Gleicher Mensch, anderer Verlauf: Der gerettete Alltag enthält einen nicht zurückgereisten Doug."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film erschien 2006.",
       "context": "Die Dreharbeiten in New Orleans fanden nach Hurricane Katrina statt und banden sichtbare Folgen der Zerstörung in das Umfeld ein. Die Veröffentlichung folgte mit einer Premiere in New York und einem regulären Start wenige Tage später. Das Jahr ordnet die konkrete Washington-Patton-Geschichte ein; die im Film beweglichen Zeitlinien sind keine alternativen Produktionsjahre.",
-      "anchor": "Die Filmzeit bewegt sich; das erste Veröffentlichungsjahr bleibt 2006.",
       "interest": "Die Filmzeit bewegt sich; das erste Veröffentlichungsjahr bleibt 2006.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Filmzeit bewegt sich; das erste Veröffentlichungsjahr bleibt 2006."
     },
     {
       "code": "D",
@@ -205,7 +205,6 @@
       ],
       "short": "Tony Scott führte Regie.",
       "context": "Tony Scott setzt die Verbindung aus Ermittlungsfilm, Überwachung und Zeitreise mit Denzel Washington um. Bill Marsilii und Terry Rossio schreiben das Drehbuch; Jerry Bruckheimer produziert. Der Regiecredit lässt sich weder mit dem bekannten Bruder des Regisseurs noch mit den ebenfalls prominenten Autoren und Produzenten austauschen. Die konkrete Aufgabenverteilung gehört zur Einordnung dieses Films.",
-      "anchor": "Tony Scott inszeniert den Zeitreise-Ermittlungsstoff.",
       "interest": "Tony Scott inszeniert den Zeitreise-Ermittlungsstoff.",
       "sources": [
         "handlung"
@@ -213,7 +212,8 @@
       "spoiler": "mittel",
       "variant_of": "SCHAUSPIELER-202610-P01-008-M-1",
       "knowledge_id": "K-SCHAUSPIELER-202610-P01-008-M-1",
-      "knowledge_note": "Der Bestand fragt bereits Tony Scotts Zusammenarbeit mit Denzel Washington bei Man on Fire und Déjà Vu ab; die neue Regiefrage teilt die Déjà-Vu-Zuordnung."
+      "knowledge_note": "Der Bestand fragt bereits Tony Scotts Zusammenarbeit mit Denzel Washington bei Man on Fire und Déjà Vu ab; die neue Regiefrage teilt die Déjà-Vu-Zuordnung.",
+      "objective": "Tony Scott inszeniert den Zeitreise-Ermittlungsstoff."
     }
   ]
 }

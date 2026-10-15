@@ -37,12 +37,12 @@
       ],
       "short": "Ge Li (Andy Lau) organisiert die Verteidigung von Liang.",
       "context": "Ge Li (Andy Lau) organisiert die Verteidigung von Liang. Er erscheint von außen und muss den Herrscher zunächst von Widerstand überzeugen. Sein Erfolg hängt daher an zwei Fronten: an der militärischen Lage und am Vertrauen innerhalb der Stadt. Eine gute Verteidigung allein garantiert ihm später keinen sicheren Platz.",
-      "anchor": "Der fremde Helfer muss Liang außen und innen schützen.",
       "interest": "Die Hauptaufgabe erschließt das historische Abenteuer.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der fremde Helfer muss Liang außen und innen schützen."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Die Zhao-Armee bedroht Liang auf ihrem Weg gegen Yan.",
       "context": "Die Zhao-Armee bedroht Liang auf ihrem Weg gegen Yan. Die kleinere Stadt ist damit zugleich Opfer und Zwischenstation eines größeren Feldzuges. Ge Li (Andy Lau) nutzt diesen Zusammenhang: Wenn der Angriff zu lange dauert, kann die Verzögerung für den Gegner wichtiger werden als der Gewinn der Stadt.",
-      "anchor": "Liang steht einem Zhao-Feldzug nach Yan im Weg.",
       "interest": "Das größere Ziel des Gegners erklärt die Verteidigungsstrategie.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Liang steht einem Zhao-Feldzug nach Yan im Weg."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der König (Wang Zhiwen) fürchtet Ge Lis (Andy Lau) Beliebtheit.",
       "context": "Der König (Wang Zhiwen) fürchtet Ge Lis (Andy Lau) Beliebtheit. Der militärische Helfer wird für ihn zum möglichen politischen Rivalen. Die Stadtverteidigung gerät dadurch in Widerspruch zur Herrschaftssicherung. Der König riskiert den Schutz der Bevölkerung, um die eigene Autorität vor einem erfolgreichen Fremden zu bewahren.",
-      "anchor": "Der rettende Held wird dem Herrscher zu beliebt.",
       "interest": "Erfolg erzeugt eine neue Gefahr innerhalb der eigenen Seite.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der rettende Held wird dem Herrscher zu beliebt."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "General Niu Zizhang (Chin Siu-ho) lässt die Gefangenen töten, obwohl ihnen Schonung zugesagt wurde.",
       "context": "General Niu Zizhang (Chin Siu-ho) lässt die Gefangenen töten, obwohl ihnen Schonung zugesagt wurde. Ge Lis (Andy Lau) Schutzpolitik wird damit durch einen eigenen Verbündeten verletzt. Der Film trennt einen taktischen Sieg von der Frage, wie mit besiegten Menschen umgegangen wird. Die eigene Seite ist nicht automatisch die moralisch einheitliche Seite.",
-      "anchor": "Das gebrochene Schonungsversprechen beschädigt den eigenen Sieg.",
       "interest": "Eine Handlung erklärt den ethischen Konflikt der Verteidigung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das gebrochene Schonungsversprechen beschädigt den eigenen Sieg."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Ge Li (Andy Lau) und Xiang Yanzhong (Ahn Sung-ki) treffen sich zum Brettspiel.",
       "context": "Ge Li (Andy Lau) und Xiang Yanzhong (Ahn Sung-ki) treffen sich zum Brettspiel. Die strategischen Gegner können sich so unmittelbar einschätzen, ohne dass ihre Armeen bereits zusammenprallen. Später kehrt die Begegnungsform in einer belagerten Lage zurück. Das Spiel verbindet persönliche Anerkennung mit einem weiterhin tödlichen äußeren Konflikt.",
-      "anchor": "Die Feldherren erkennen einander am Spielbrett.",
       "interest": "Eine wiederkehrende Begegnungsform ergänzt den Krieg.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Feldherren erkennen einander am Spielbrett."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Yiyue (Fan Bingbing) kann nach der Bestrafung durch den König nicht mehr sprechen.",
       "context": "Yiyue (Fan Bingbing) kann nach der Bestrafung durch den König nicht mehr sprechen. In der überfluteten Haft kann sie Ge Li (Andy Lau) deshalb nicht auf sich aufmerksam machen. Die frühere innere Gewalt des Herrschers hat eine spätere tödliche Folge. Der militärische Sieg hebt diesen persönlichen Verlust nicht auf.",
-      "anchor": "Die zum Schweigen gebrachte Gefangene kann keine Hilfe rufen.",
       "interest": "Eine frühere Strafe erklärt die tragische Rettungslücke.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die zum Schweigen gebrachte Gefangene kann keine Hilfe rufen."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Erste Veröffentlichung 2006; internationale Koproduktion, Handlung im China des Jahres 370 v. Chr.",
       "context": "„Battle of Kingdoms“ erschien 2006 und blickt in das Jahr 370 v. Chr. zurück. Zwischen der Epoche der kämpfenden Staaten und der Verfilmung liegen damit mehr als zwei Jahrtausende. Die Geschichte fragt, ob ein erfolgreicher Verteidiger auch die innere Machtpolitik eines Herrschers übersteht. Der historische Anker ordnet die Handlung ein, ohne sie mit dem modernen Produktionsjahr zu verwechseln.",
-      "anchor": "370 v. Chr. die belagerte Stadt, 2006 der Film: mehr als zwei Jahrtausende Abstand.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "370 v. Chr. die belagerte Stadt, 2006 der Film: mehr als zwei Jahrtausende Abstand."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Jacob Cheung inszenierte die internationale Koproduktion nach einem japanischen Roman und dessen Manga-Bearbeitung.",
       "context": "Jacob Cheung inszenierte die internationale Koproduktion nach einem japanischen Roman und dessen Manga-Bearbeitung. Andy Lau spielt den Verteidiger Ge Li, Ahn Sung-ki den gegnerischen Kommandeur. Die Zusammenarbeit verbindet chinesische Geschichte mit einer Vorlage und einem Ensemble aus mehreren Filmkulturen. Die Produktionsländer sind deshalb nicht mit dem einzelnen historischen Handlungsschauplatz gleichzusetzen.",
-      "anchor": "Cheung verbindet chinesische Geschichte mit japanischer Vorlage und internationalem Ensemble.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Cheung verbindet chinesische Geschichte mit japanischer Vorlage und internationalem Ensemble."
     }
   ]
 }

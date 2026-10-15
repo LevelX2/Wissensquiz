@@ -37,12 +37,12 @@
       ],
       "short": "Peter Vincent ist Horrorfilm-Moderator und Schauspieler.",
       "context": "Peter Vincent (Roddy McDowall) lebt von seinem früheren Image als filmischer Vampirjäger und präsentiert Horrorfilme im Fernsehen. Charley Brewster (William Ragsdale) erwartet deshalb von ihm praktische Hilfe gegen einen echten Vampir. Die Verwechslung von gespieltem Heldentum und tatsächlichem Mut bildet einen wichtigen komischen Konflikt. Vincent muss erst lernen, außerhalb seiner Fernsehrolle Verantwortung für eine reale Gefahr zu übernehmen.",
-      "anchor": "Der Fernsehheld muss sich einer echten Gefahr stellen.",
       "interest": "Erklärt die zentrale Erwartung an den ungewöhnlichen Helfer.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der Fernsehheld muss sich einer echten Gefahr stellen."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Charleys Mutter lädt den Nachbarn ins Haus ein.",
       "context": "Charley Brewster (William Ragsdale) hält seinen neuen Nachbarn Jerry Dandridge (Chris Sarandon) für einen Vampir. Seine Mutter Judy Brewster (Dorothy Fielding) sieht dagegen einen attraktiven und höflichen Mann und lädt ihn ein. Damit wird das eigene Zuhause für Charley unsicher. Der Film nutzt die Einladung als konkrete Schwelle: Misstrauen allein kann ihn nicht schützen, wenn ein anderes Familienmitglied den Gast hereinbittet.",
-      "anchor": "Die freundliche Einladung macht das eigene Haus unsicher.",
       "interest": "Verbindet eine Familienentscheidung mit einer Vampirregel.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die freundliche Einladung macht das eigene Haus unsicher."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der vermeintliche Test verwendet ungesegnetes Leitungswasser.",
       "context": "Peter Vincent (Roddy McDowall) soll Charley Brewster (William Ragsdale) davon überzeugen, dass dessen Nachbar harmlos sei. Jerry Dandridge (Chris Sarandon) spielt bei der Inszenierung mit und trinkt die angebotene Flüssigkeit ohne Folgen. Das beruhigende Ergebnis sagt jedoch nichts über seine Natur aus, weil das vermeintliche Weihwasser nur Leitungswasser ist. Der Versuch zeigt zunächst die Täuschung der Helfer, nicht eine widerlegte Vampirregel.",
-      "anchor": "Der Test ist beruhigend, weil das Prüfmittel gefälscht ist.",
       "interest": "Unterscheidet einen gespielten Beweis von einer echten Prüfung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der Test ist beruhigend, weil das Prüfmittel gefälscht ist."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Der zurückgebliebene Spiegelsplitter verrät die Entdeckung.",
       "context": "Peter Vincent (Roddy McDowall) bemerkt, dass Jerry Dandridge (Chris Sarandon) kein Spiegelbild besitzt, und lässt sein Spiegel-Zigarettenetui erschrocken fallen. Beim Verlassen des Hauses bleibt ein Splitter zurück. Jerry findet ihn und erkennt daran, dass seine Besucher die Wahrheit entdeckt haben. Der Beweis schützt die Helfer deshalb nicht automatisch: Das zerbrochene Etui gibt zugleich dem Gegner eine Information und löst seine Verfolgung aus.",
-      "anchor": "Der Spiegelsplitter verrät dem Vampir, dass seine Tarnung aufgeflogen ist.",
       "interest": "Erfasst die gefährliche Folge einer Entdeckung statt nur eine allgemeine Vampirregel.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der Spiegelsplitter verrät dem Vampir, dass seine Tarnung aufgeflogen ist."
     },
     {
       "code": "S1",
@@ -133,11 +133,11 @@
       ],
       "short": "Dem Kreuz fehlt Peters wirklicher Glaube.",
       "context": "Peter Vincent (Roddy McDowall) kennt die Gesten des Vampirjägers aus seinen Filmen. Gegen Jerry Dandridge (Chris Sarandon) genügt das Nachspielen einer Pose jedoch nicht: Seine Angst und sein fehlender Glaube machen den ersten Versuch unwirksam. Später wächst seine Überzeugung. Die Szene macht aus einem bekannten Horror-Requisit eine Prüfung der Figur und unterscheidet bloße Schauspielroutine von der Haltung, die tatsächlich Schutz ermöglichen soll.",
-      "anchor": "Das Kreuz ist keine verlässliche Waffe ohne Peters Überzeugung.",
       "interest": "Erfasst den Zusammenhang zwischen Glauben und Schutzregel.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Kreuz ist keine verlässliche Waffe ohne Peters Überzeugung."
     },
     {
       "code": "S2",
@@ -156,13 +156,13 @@
       ],
       "short": "Peter benutzt ein abgebrochenes Tischbein als Pfahl.",
       "context": "Edward „Evil Ed“ Thompson (Stephen Geoffreys) greift Peter Vincent (Roddy McDowall) in Wolfsgestalt an. Der zunächst ängstliche Fernsehmoderator verteidigt sich mit einem abgebrochenen Tischbein und trifft den Angreifer. Der improvisierte Gegenstand macht die Szene zu einem praktischen Überlebenskampf. Ed nimmt wieder menschliche Gestalt an. Das spätere Lachen im Schlussbild lässt seine mögliche Rückkehr jedoch offen und untergräbt eine einfache endgültige Entwarnung.",
-      "anchor": "Aus einem Tischbein wird eine improvisierte Vampirwaffe.",
       "interest": "Belegt Peters Handlungsfähigkeit ohne Eds endgültiges Schicksal zu behaupten.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Aus einem Tischbein wird eine improvisierte Vampirwaffe."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Fright Night erschien 1985.",
       "context": "Fright Night erschien 1985; Child’s Play kam 1988 heraus. Zwischen den Erstjahren liegen drei Jahre. Tom Holland inszenierte zunächst den Vorstadtvampirfilm und später den Film um die mörderische Puppe Chucky. Die Verbindung hilft, die beiden Originale zeitlich einzuordnen, ohne die spätere Fright-Night-Neuverfilmung mitzuzählen. Das Drehjahr vor dem ersten Kinostart ist ebenfalls kein Ersatz für das Veröffentlichungsjahr.",
-      "anchor": "Fright Night 1985 → Child’s Play 1988: drei Jahre.",
       "interest": "Verbindet zwei konkrete Horrorwerke in Hollands Filmografie.",
       "sources": [
         "afi",
         "year_anchor"
-      ]
+      ],
+      "objective": "Fright Night 1985 → Child’s Play 1988: drei Jahre."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Tom Holland führte allein Hauptregie.",
       "context": "Tom Holland schrieb das Drehbuch und inszenierte die Geschichte eines Jugendlichen, dem Erwachsene seine bedrohliche Entdeckung nicht glauben. Die komische Helferfigur Peter Vincent (Roddy McDowall) steht zwischen einer professionell gespielten Heldenrolle und echter Angst. Der Regiecredit gehört zum Original mit William Ragsdale als Charley Brewster. Die Fortsetzung und die spätere Neuverfilmung sind eigenständige Produktionen mit anderen Regisseuren.",
-      "anchor": "Holland bringt den Filmvampirjäger in eine wirkliche Vampirgeschichte.",
       "interest": "Sichert den Hauptcredit des Originals gegenüber späteren Fassungen.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Holland bringt den Filmvampirjäger in eine wirkliche Vampirgeschichte."
     }
   ]
 }

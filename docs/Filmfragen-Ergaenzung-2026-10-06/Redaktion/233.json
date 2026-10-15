@@ -37,12 +37,12 @@
       ],
       "short": "Sechs eigenständige Geschichten bilden die Anthologie.",
       "context": "Sechs eigenständige Geschichten bilden die Anthologie. Wiederkehrende Motive wie Tod, Zufall und Geschäfte verbinden sie, ohne dass dieselben Figuren eine fortlaufende Handlung tragen.",
-      "anchor": "Die Anthologie variiert den Western in sechs eigenständigen Geschichten.",
       "interest": "Die Anthologie variiert den Western in sechs eigenständigen Geschichten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Anthologie variiert den Western in sechs eigenständigen Geschichten."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Buster (Tim Blake Nelson) und der junge Cowboy (Willie Watson) sind beide Sänger.",
       "context": "Buster (Tim Blake Nelson) und der junge Cowboy (Willie Watson) sind beide Sänger. Nach dem tödlichen Duell wird ihr gemeinsames Lied zum bitteren Kommentar auf Busters verlorene Vormachtstellung.",
-      "anchor": "Das Duett setzt die musikalische Gemeinsamkeit über den Tod fort.",
       "interest": "Das Duett setzt die musikalische Gemeinsamkeit über den Tod fort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Duett setzt die musikalische Gemeinsamkeit über den Tod fort."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Der Impresario (Liam Neeson) kauft ein Huhn, das scheinbar rechnet.",
       "context": "Der Impresario (Liam Neeson) kauft ein Huhn, das scheinbar rechnet. Das gewinnträchtigere Spektakel verdrängt den körperlich abhängigen Rezitator (Harry Melling); dessen Fortgang wird auf bedrückende Weise ausgespart.",
-      "anchor": "Das neue Spektakel macht den abhängigen Künstler wirtschaftlich entbehrlich.",
       "interest": "Das neue Spektakel macht den abhängigen Künstler wirtschaftlich entbehrlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das neue Spektakel macht den abhängigen Künstler wirtschaftlich entbehrlich."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Der Goldsucher (Tom Waits) überlebt den Schuss und stellt sich tot.",
       "context": "Der Goldsucher (Tom Waits) überlebt den Schuss und stellt sich tot. Als der Angreifer in die Grube steigt, nimmt er ihm die Waffe ab; sorgfältige Arbeit und körperliche Erfahrung tragen seinen Erfolg.",
-      "anchor": "Die scheinbare Niederlage ermöglicht den Gegenangriff.",
       "interest": "Die scheinbare Niederlage ermöglicht den Gegenangriff.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die scheinbare Niederlage ermöglicht den Gegenangriff."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Alice (Zoe Kazan) hält Mr.",
       "context": "Alice (Zoe Kazan) hält Mr. Arthur (Grainger Hines) für tot und erschießt sich, wie er es für den Fall einer Niederlage empfohlen hat. Er überlebt und entdeckt den verhängnisvollen Irrtum.",
-      "anchor": "Eine Schutzanweisung wird durch falsche Wahrnehmung tödlich.",
       "interest": "Eine Schutzanweisung wird durch falsche Wahrnehmung tödlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine Schutzanweisung wird durch falsche Wahrnehmung tödlich."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Der Fahrer hält trotz der Bitte eines Reisenden nicht an.",
       "context": "Der Fahrer hält trotz der Bitte eines Reisenden nicht an. Die Gespräche mit den beiden Kopfgeldjägern und der unaufhaltsame Weg zum Hotel geben der Fahrt eine bedrohliche, möglicherweise jenseitige Bedeutung.",
-      "anchor": "Die unaufhaltsame Fahrt lässt die Reise wie einen letzten Übergang erscheinen.",
       "interest": "Die unaufhaltsame Fahrt lässt die Reise wie einen letzten Übergang erscheinen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die unaufhaltsame Fahrt lässt die Reise wie einen letzten Übergang erscheinen."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2018 wurde der Film veröffentlicht.",
       "context": "2018 wurde der Film veröffentlicht. Die Produktion wurde 2017 angekündigt; statt der vielfach erwarteten Serie entstand eine gemeinsame Filmfolge aus sechs Western-Erzählungen.",
-      "anchor": "Ankündigung 2017, Film 2018: Im folgenden Jahr wird aus den erwarteten Serienkapiteln eine gemeinsame Westernanthologie.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ankündigung 2017, Film 2018: Im folgenden Jahr wird aus den erwarteten Serienkapiteln eine gemeinsame Westernanthologie."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Joel Coen und Ethan Coen führten gemeinsam Regie.",
       "context": "Joel Coen und Ethan Coen führten gemeinsam Regie. Das Projekt war ihr erster vollständig digital gedrehter Film; sechs Kapitel verbinden komische Überraschungen mit tödlicher Endgültigkeit.",
-      "anchor": "Joel Coen und Ethan Coen führten gemeinsam Regie.",
       "interest": "Joel Coen und Ethan Coen führten gemeinsam Regie.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Joel Coen und Ethan Coen führten gemeinsam Regie."
     }
   ]
 }

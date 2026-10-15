@@ -34,11 +34,11 @@
       ],
       "short": "Chuck arbeitet für FedEx an effizienten Abläufen.",
       "context": "Chuck (Tom Hanks) organisiert weltweit zeitkritische Arbeitsabläufe. Der Absturz nimmt ihm plötzlich alle vertrauten Mittel der Kontrolle. Sein früheres Leben macht den Gegensatz besonders deutlich: Auf der Insel zählen nicht Termine und Produktivität, sondern Nahrung, Schutz und die Dauer des Wartens.",
-      "anchor": "Der Zeitmanager verliert jede planbare Zeit.",
       "interest": "Der Beruf erhält durch die spätere Lage einen konkreten Sinn.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Zeitmanager verliert jede planbare Zeit."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Chuck macht den Ball zu einem Gesprächspartner.",
       "context": "Nach einer Handverletzung bleibt Chucks (Tom Hanks) blutiger Abdruck auf einem Volleyball zurück. Er ergänzt ein Gesicht und spricht mit dem Gegenstand. Wilson ersetzt damit keinen wirklichen Menschen, gibt aber der Einsamkeit einen sichtbaren Gegenüber.",
-      "anchor": "Ein Ball bekommt für Chuck ein Gegenüber.",
       "interest": "Die Frage erklärt die Funktion des bekannten Gegenstands.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein Ball bekommt für Chuck ein Gegenüber."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Das Flügelpaket bleibt als Hoffnungsträger verschlossen.",
       "context": "Chuck (Tom Hanks) nutzt den Inhalt angeschwemmter Pakete für sein Überleben. Eine Sendung behält er jedoch geschlossen. Das Flügelmotiv wird für ihn zu einem Zeichen von Hoffnung und einer noch möglichen Aufgabe, die über die Insel hinausweist.",
-      "anchor": "Das verschlossene Paket hält eine Zukunft offen.",
       "interest": "Der Gegenstand besitzt eine psychologische statt rein praktische Funktion.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das verschlossene Paket hält eine Zukunft offen."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Die Wand liefert dem Floß ein wirksames Segel.",
       "context": "Chucks (Tom Hanks) erster Versuch scheitert an der Brandung. Jahre später kann er eine angeschwemmte Kunststoffwand als Segel einsetzen. Er verbindet den Fund mit dem passenden Windwechsel und einem gebauten Floß; die Rettung entsteht aus Erfahrung, Planung und einer zufälligen neuen Möglichkeit.",
-      "anchor": "Die Kunststoffwand macht Wind zur Fluchthilfe.",
       "interest": "Der zweite Versuch wird vom ersten durch ein konkretes Mittel unterschieden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Kunststoffwand macht Wind zur Fluchthilfe."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Kelly hat nach seinem vermeintlichen Tod eine neue Familie.",
       "context": "Chuck (Tom Hanks) und Kelly (Helen Hunt) lieben einander noch. Die Jahre seiner Abwesenheit haben aber auch ihr Leben verändert. Seine körperliche Rettung stellt deshalb den alten Zustand nicht wieder her; beide erkennen, dass Kellys neue Familie nicht einfach rückgängig gemacht werden kann.",
-      "anchor": "Gerettet zurückkehren heißt nicht unverändert zurückkehren.",
       "interest": "Die Rettung wird von der Wiederherstellung früherer Beziehungen getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Gerettet zurückkehren heißt nicht unverändert zurückkehren."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Die Kreuzung stellt seine Zukunft als offen dar.",
       "context": "Chuck (Tom Hanks) hat das verschlossene Paket zurückgebracht. An der Kreuzung trifft er die Absenderin Bettina (Lari White), deren Flügelmotiv ihn begleitet hat. Der Film beendet seine Geschichte mit möglichen Wegen und einem Blick, ohne eine neue Beziehung oder einen Lebensplan endgültig festzuschreiben.",
-      "anchor": "Nach dem Überleben stehen wieder Wege offen.",
       "interest": "Das Schlussbild wird als offene Entscheidung verstanden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Nach dem Überleben stehen wieder Wege offen."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "Der Film erschien 2000.",
       "context": "Robert Zemeckis und Tom Hanks hatten 1994 Forrest Gump ins Kino gebracht. Cast Away folgte 2000, sechs Jahre später, erneut mit Zemeckis als Regisseur und Hanks als Hauptdarsteller. Der Zeitanker verbindet zwei Filme dieser Zusammenarbeit, die ihre Figuren über lange Lebensabschnitte beobachten. Im späteren Film macht die Isolation den Wechsel der Lebensbedingungen besonders drastisch sichtbar.",
-      "anchor": "1994 Forrest Gump – 2000 Cast Away: sechs Jahre Zemeckis und Hanks.",
       "interest": "Die charakteristischen Inselmotive verankern das Jahr.",
       "sources": [
         "handlung",
         "archiv",
         "zeitanker"
-      ]
+      ],
+      "objective": "1994 Forrest Gump – 2000 Cast Away: sechs Jahre Zemeckis und Hanks."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Robert Zemeckis führte Regie.",
       "context": "Robert Zemeckis inszeniert Chuck zunächst zwischen internationalen Arbeitsorten und später fast allein auf der Insel. Die wechselnden Räume machen Zeit und Kontrolle unterschiedlich erfahrbar. Der offizielle BFI-Credit ordnet ihm diese Hanks-Produktion zu, unabhängig von den anderen bekannten Regiepartnerschaften des Darstellers.",
-      "anchor": "Zemeckis schickt Hanks aus dem Zeitplan auf die Insel.",
       "interest": "Der Credit wird mit dem erzählerischen Gegensatz verbunden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Zemeckis schickt Hanks aus dem Zeitplan auf die Insel."
     }
   ]
 }

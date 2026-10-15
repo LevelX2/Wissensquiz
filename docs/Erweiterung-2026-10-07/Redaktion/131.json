@@ -37,12 +37,12 @@
       ],
       "short": "Fantomas (Jean Marais) erhebt eine angebliche „Steuer auf Lebensrecht“.",
       "context": "Fantomas (Jean Marais) erhebt eine angebliche „Steuer auf Lebensrecht“. Wer nicht zahlt, soll sterben. Die Sprache von Mahnungen und Vollstreckung tarnt eine Schutzgelderpressung als Verwaltung. Damit erweitert der Verbrecher sein übliches Raubgeschäft zu einer Herrschaftsbehauptung über wohlhabende Opfer.",
-      "anchor": "Fantomas tarnt die Todesdrohung als Steuerforderung.",
       "interest": "Das neue Geschäftsmodell eröffnet den Film.",
       "sources": [
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fantomas tarnt die Todesdrohung als Steuerforderung."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Die Ermittler reisen zum schottischen Lord McRashley (Jean-Roger Caussimon).",
       "context": "Die Ermittler reisen zum schottischen Lord McRashley (Jean-Roger Caussimon). Dessen Schloss bietet Quartier und soll bei der Falle für Fantomas helfen. Zugleich schaffen Räume, Geheimwege und eine Gesellschaft voller eigener Interessen neue Möglichkeiten für Maskerade. Der sichere Zufluchtsort wird selbst zum Schauplatz der Bedrohung.",
-      "anchor": "Das schottische Schloss ist Quartier und Falle zugleich.",
       "interest": "Der Schauplatz verändert die Kriminalkomödie.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das schottische Schloss ist Quartier und Falle zugleich."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Juve (Louis de Funès) findet scheinbar Tote, die bei den alarmierten Zeugen wieder lebendig sind.",
       "context": "Juve (Louis de Funès) findet scheinbar Tote, die bei den alarmierten Zeugen wieder lebendig sind. Fantomas (Jean Marais) nutzt diesen makaberen Wechsel, um den Kommissar unglaubwürdig zu machen. Die Täuschung funktioniert deshalb auch sozial: Jede nicht bestätigte Meldung schwächt Juves Autorität für den nächsten echten Verdacht.",
-      "anchor": "Die verschwundene Leiche macht den Warner unglaubwürdig.",
       "interest": "Das Maskenspiel beschädigt die Glaubwürdigkeit des Ermittlers.",
       "sources": [
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die verschwundene Leiche macht den Warner unglaubwürdig."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Fantomas (Jean Marais) trägt die Maske von Lord McRashley.",
       "context": "Fantomas (Jean Marais) trägt die Maske von Lord McRashley. Der Sekretär plant einen Mord an diesem Lord und greift deshalb den verkleideten Verbrecher an. Die Tarnung schützt Fantomas vor Erkennung, übernimmt aber auch die Gefahren der fremden Person. Erst sein entblößtes Gesicht beendet den Angriff.",
-      "anchor": "Die fremde Identität bringt auch die fremden Feinde mit.",
       "interest": "Eine Maskerade hat eine unbeabsichtigte Gegenwirkung.",
       "sources": [
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die fremde Identität bringt auch die fremden Feinde mit."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Fantomas (Jean Marais) unterstützt als falscher Lord die geplante Geldübergabe.",
       "context": "Fantomas (Jean Marais) unterstützt als falscher Lord die geplante Geldübergabe. Juve (Louis de Funès) hält die Zustimmung damit für die Kooperation eines Opfers. Tatsächlich hilft der Verbrecher, die Diamanten an einen gemeinsamen Ort zu bringen. Die Falle ist vorbereitet, doch ihr vermeintlicher Verbündeter kontrolliert einen entscheidenden Teil davon.",
-      "anchor": "Der falsche Lord hilft, die Beute für sich zu sammeln.",
       "interest": "Der Plan scheitert an der Identität des Verbündeten.",
       "sources": [
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der falsche Lord hilft, die Beute für sich zu sammeln."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Der Raketenabschuss täuscht eine erfolgreiche Festnahme vor.",
       "context": "Der Raketenabschuss täuscht eine erfolgreiche Festnahme vor. Fantomas (Jean Marais) entfernt sich währenddessen als Lord McRashley mit den Diamanten auf dem Landweg. Die spektakuläre Aktion lenkt also gerade von der unscheinbaren Flucht ab. Der Schluss stellt Sichtbarkeit und tatsächlichen Erfolg der Verfolgung erneut gegeneinander.",
-      "anchor": "Die Rakete fällt, der Verbrecher fährt mit der Beute davon.",
       "interest": "Der Ausgang trennt sichtbares Spektakel von wirklicher Flucht.",
       "sources": [
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rakete fällt, der Verbrecher fährt mit der Beute davon."
     },
     {
       "code": "Y",
@@ -181,14 +181,14 @@
       ],
       "short": "Französische Erstveröffentlichung am 16. März 1967.",
       "context": "1967 erschien der dritte Fantomas-Film. Er beendet die mit „Fantomas“ 1964 begonnene Trilogie, also drei Jahre nach dem ersten Film. Jean Marais und Louis de Funès bleiben in ihren gegensätzlichen Rollen verbunden, während die Erpressung diesmal in eine schottische Schlossgesellschaft führt. Die Folge 1964–1967 ist der Zeitanker für den Abschluss dieser konkreten Reihe.",
-      "anchor": "1964 beginnt die Fantomas-Trilogie, 1967 endet sie: drei Jahre.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "reihe"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1964 beginnt die Fantomas-Trilogie, 1967 endet sie: drei Jahre."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "André Hunebelle inszenierte auch den Abschluss der Fantomas-Trilogie.",
       "context": "André Hunebelle inszenierte auch den Abschluss der Fantomas-Trilogie. Jean Marais spielt den Verbrecher und dessen Gegenspieler Fandor, Louis de Funès den Kommissar Juve. Das Schlossmilieu verändert den Schauplatz, die zentrale Mechanik bleibt bestehen: Verkleidungen schaffen falsche Gewissheit, und der selbstsichere Polizist erkennt die jeweilige Situation zu spät.",
-      "anchor": "Hunebelle führt das bekannte Trio in die Schlossgesellschaft.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Hunebelle führt das bekannte Trio in die Schlossgesellschaft."
     }
   ]
 }

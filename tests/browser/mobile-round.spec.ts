@@ -128,13 +128,13 @@ for (const viewport of [
       readFileSync("public/western-fragen.csv", "utf8"),
     ).questions;
     const qs = questions
-      .filter((q) => q.difficulty === "leicht" && q.context && q.anchor)
+      .filter((q) => q.difficulty === "leicht" && q.context)
       .sort(
         (a, b) =>
           a.question.length +
           a.explanation.length +
-          a.anchor.length -
-          (b.question.length + b.explanation.length + b.anchor.length),
+          a.context.length -
+          (b.question.length + b.explanation.length + b.context.length),
       )
       .slice(0, 3);
     const state = emptyState(questions);

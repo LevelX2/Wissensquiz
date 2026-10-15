@@ -36,12 +36,12 @@
       ],
       "short": "Morgan verfolgt die Mörder seiner Frau.",
       "context": "Matt Morgan (Kirk Douglas) sucht die Männer, die seine Frau ermordet haben. Sein Sohn konnte entkommen und bringt eine Spur mit. Die Suche verbindet deshalb eine persönliche Verletzung mit dem beruflichen Anspruch des Marshals, die Täter einer rechtlichen Verantwortung zuzuführen, statt den Verlust einfach vergessen zu können.",
-      "anchor": "Morgans persönlicher Verlust führt den Marshal zur Verfolgung der Täter.",
       "interest": "Erfasst den Anlass und die Doppelrolle des Verfolgers.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Morgans persönlicher Verlust führt den Marshal zur Verfolgung der Täter."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Belden schützt seinen Sohn Rick.",
       "context": "Craig Belden (Anthony Quinn) will seinen Sohn Rick (Earl Holliman) nicht herausgeben. Die alte Freundschaft mit Morgan (Kirk Douglas) stößt dadurch auf einen stärkeren familiären Schutzanspruch. Der Konflikt entsteht nicht aus unbekannten Gegnern, sondern aus der Frage, welche Bindung eine bekannte Person über das Gesetz stellt.",
-      "anchor": "Beldens Schutz des eigenen Sohnes bricht die frühere Freundschaft mit dem Marshal auf.",
       "interest": "Erklärt die familiäre Ursache des Gegners.",
       "sources": [
         "afi"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Beldens Schutz des eigenen Sohnes bricht die frühere Freundschaft mit dem Marshal auf."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Morgan erkennt den Sattel seines alten Freundes.",
       "context": "Morgans Sohn entkommt auf einem Pferd mit einem auffälligen Sattel. Morgan (Kirk Douglas) erkennt dessen Verbindung zu Craig Belden (Anthony Quinn). Der Gegenstand liefert zunächst nur eine Herkunftsspur. Erst die Begegnung mit dem Freund macht daraus den belastenden Zusammenhang zu dessen Sohn.",
-      "anchor": "Der Sattel führt zu einem bekannten Haushalt, bevor der konkrete Täter erkannt wird.",
       "interest": "Erklärt die Abstufung von Spur und Tätererkenntnis.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Sattel führt zu einem bekannten Haushalt, bevor der konkrete Täter erkannt wird."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Linda beschafft die benötigte Waffe.",
       "context": "Linda (Carolyn Jones) bringt Morgan (Kirk Douglas) heimlich eine Waffe. Ihre Beziehung zu Belden (Anthony Quinn) garantiert damit keine feste Loyalität zu dessen Interessen. Die Hilfe entsteht aus einem eigenen Urteil über die Lage. Eine einzelne Person ermöglicht Handeln, das die übrige Ortsgesellschaft verweigert.",
-      "anchor": "Linda löst ihre Hilfe vom Besitzanspruch Beldens und trifft ein eigenes Urteil.",
       "interest": "Erklärt die eigenständige Entscheidung der Helferin.",
       "sources": [
         "tcm"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Linda löst ihre Hilfe vom Besitzanspruch Beldens und trifft ein eigenes Urteil."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Lees Angriff auf Morgan trifft Rick.",
       "context": "Lee (Brian G. Hutton) schießt auf Morgan (Kirk Douglas), trifft aber Rick (Earl Holliman). Die Rettungsabsicht der Täterseite vernichtet damit gerade den Menschen, den sie befreien will. Das Ereignis verschärft Beldens (Anthony Quinn) Verlust und führt den vorherigen Kampf um Kontrolle in eine endgültige persönliche Katastrophe.",
-      "anchor": "Der Befreiungsangriff der Täterseite trifft den eigenen Gefangenen tödlich.",
       "interest": "Erklärt die tragische Umkehr der beabsichtigten Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Befreiungsangriff der Täterseite trifft den eigenen Gefangenen tödlich."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die unmittelbare Bedrohung Ricks hält die Angreifer zurück.",
       "context": "Morgan (Kirk Douglas) führt Rick (Earl Holliman) unter unmittelbarer Waffenbedrohung aus dem brennenden Hotel. Der Gefangene wird zugleich zum Schutz gegen einen Angriff. Das Vorgehen hält die Gegner nur so lange zurück, wie sie dessen Leben bewahren wollen. Der Weg zum Bahnhof bleibt deshalb äußerst verletzlich.",
-      "anchor": "Der Gefangene schützt den Marshal nur durch das Interesse der Gegner an seinem Leben.",
       "interest": "Erklärt die bedingte Sicherheit der letzten Wegstrecke.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Gefangene schützt den Marshal nur durch das Interesse der Gegner an seinem Leben."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "1959 folgt zwei Jahre nach 1957.",
       "context": "Gunfight at the O.K. Corral erschien 1957. Last Train from Gun Hill folgte 1959, zwei Jahre später, erneut mit John Sturges, Kirk Douglas und Produzent Hal Wallis. AFI benennt diese Verbindung ausdrücklich. Der Zeitanker verbindet zwei Western, die aus einer wiederholten Zusammenarbeit mehrerer Beteiligter hervorgingen.",
-      "anchor": "1957 O.K. Corral, 1959 Gun Hill: dasselbe Regie-Hauptdarsteller-Produzenten-Team.",
       "interest": "Verankert das Jahr in einer belegten vorherigen Teamarbeit.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1957 O.K. Corral, 1959 Gun Hill: dasselbe Regie-Hauptdarsteller-Produzenten-Team."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Sturges inszenierte den Film.",
       "context": "John Sturges führte Regie. Der Ort Gun Hill wurde auf dem Paramount-Gelände aufgebaut; zusätzliche Aufnahmen entstanden an anderen Schauplätzen. AFI trennt diese Herstellungsorte. Die Inszenierung musste daraus einen zusammenhängenden Raum machen, in dem Hotel, Straßen und Bahnhof die Fluchtmöglichkeiten und den zunehmenden Druck bestimmen.",
-      "anchor": "Sturges verbindet gebaute und weitere Schauplätze zur räumlichen Falle von Gun Hill.",
       "interest": "Verknüpft den Credit mit der konkreten räumlichen Herstellung.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sturges verbindet gebaute und weitere Schauplätze zur räumlichen Falle von Gun Hill."
     }
   ]
 }

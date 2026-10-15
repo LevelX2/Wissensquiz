@@ -36,12 +36,12 @@
       ],
       "short": "McCall (Denzel Washington) arbeitet im Baumarkt.",
       "context": "McCall (Denzel Washington) arbeitet im Baumarkt. Die dort verfügbaren Werkzeuge werden im Schlusskampf zu Waffen; sein gewöhnlicher Arbeitsort erhält dadurch eine zweite Funktion.",
-      "anchor": "Der zivile Arbeitsort liefert später die Mittel zum Schutz der Kollegen.",
       "interest": "Der zivile Arbeitsort liefert später die Mittel zum Schutz der Kollegen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der zivile Arbeitsort liefert später die Mittel zum Schutz der Kollegen."
     },
     {
       "code": "L2",
@@ -60,13 +60,13 @@
       ],
       "short": "Alina (Chloë Grace Moretz) wird nach Slavis (David Meunier) Angriff ins Krankenhaus gebracht.",
       "context": "Alina (Chloë Grace Moretz) wird nach Slavis (David Meunier) Angriff ins Krankenhaus gebracht. McCall (Denzel Washington) versucht zunächst, ihre Freiheit zu kaufen; Slavis Weigerung führt zur gewaltsamen Eskalation.",
-      "anchor": "Die verweigerte Freigabe macht aus dem Hilfsangebot einen Angriff auf das Syndikat.",
       "interest": "Die verweigerte Freigabe macht aus dem Hilfsangebot einen Angriff auf das Syndikat.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die verweigerte Freigabe macht aus dem Hilfsangebot einen Angriff auf das Syndikat."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Susan Plummer (Melissa Leo) identifiziert Teddy als Nicolai Itchenko (Marton Csokas).",
       "context": "Susan Plummer (Melissa Leo) identifiziert Teddy als Nicolai Itchenko (Marton Csokas). Ihr Wissen macht für McCall (Denzel Washington) aus einem unbekannten Verfolger einen Gegner mit geheimdienstlicher Ausbildung.",
-      "anchor": "McCalls frühere Kollegin entschlüsselt den Hintergrund seines Verfolgers.",
       "interest": "McCalls frühere Kollegin entschlüsselt den Hintergrund seines Verfolgers.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "McCalls frühere Kollegin entschlüsselt den Hintergrund seines Verfolgers."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "McCall (Denzel Washington) zwingt den korrupten Polizisten Masters (David Harbour) zur Mithilfe.",
       "context": "McCall (Denzel Washington) zwingt den korrupten Polizisten Masters (David Harbour) zur Mithilfe. Die Polizei findet anschließend das Geldwäschelager; McCalls Hinweis lenkt die Ermittlungen auf die wirtschaftliche Struktur des Syndikats.",
-      "anchor": "Das Geldlager führt von einzelnen Gewalttätern zur Struktur hinter ihnen.",
       "interest": "Das Geldlager führt von einzelnen Gewalttätern zur Struktur hinter ihnen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Geldlager führt von einzelnen Gewalttätern zur Struktur hinter ihnen."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Nicolai (Marton Csokas) benutzt die Kollegen als Druckmittel.",
       "context": "Nicolai (Marton Csokas) benutzt die Kollegen als Druckmittel. McCall (Denzel Washington) verlagert den Kampf in seine vertraute Umgebung und setzt Werkzeuge ein; die Geiseln bestimmen dabei sein unmittelbares Schutzmotiv.",
-      "anchor": "Die Kollegen werden zum Druckmittel an McCalls vertrautem Arbeitsort.",
       "interest": "Die Kollegen werden zum Druckmittel an McCalls vertrautem Arbeitsort.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Kollegen werden zum Druckmittel an McCalls vertrautem Arbeitsort."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "McCall (Denzel Washington) benutzt eine Nagelpistole gegen Nicolai (Marton Csokas).",
       "context": "McCall (Denzel Washington) benutzt eine Nagelpistole gegen Nicolai (Marton Csokas). Ralphie (Johnny Skourtis) hatte McCall zuvor beim Befreien der Kollegen geholfen; die letzte Rettung setzt den Schutz des Arbeitsumfelds fort.",
-      "anchor": "Das Baumarktwerkzeug beendet die Bedrohung des Kollegen.",
       "interest": "Das Baumarktwerkzeug beendet die Bedrohung des Kollegen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Baumarktwerkzeug beendet die Bedrohung des Kollegen."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film wurde 2014 erstmals veröffentlicht.",
       "context": "2014 begann die Kinoreihe mit Denzel Washington. The Equalizer 2 erschien 2018, vier Jahre später; der erste Film etabliert McCalls Hilfsangebote als Grundlage weiterer Geschichten.",
-      "anchor": "The Equalizer erschien 2014; die Fortsetzung folgte 2018, vier Jahre später.",
       "interest": "The Equalizer erschien 2014; die Fortsetzung folgte 2018, vier Jahre später.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "The Equalizer erschien 2014; die Fortsetzung folgte 2018, vier Jahre später."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Regie: Antoine Fuqua.",
       "context": "Fuqua inszeniert McCalls Rückkehr aus dem selbst gewählten ruhigen Leben. Die körperliche Präzision steht neben Denzel Washingtons zurückhaltendem Auftreten; aus einem scheinbar gewöhnlichen Kunden wird im Baumarkt ein Gegner, der seine Umgebung genau beherrscht.",
-      "anchor": "Fuqua verbindet McCalls ruhiges Alltagsleben mit präzise genutzter Gewalt.",
       "interest": "Fuqua verbindet McCalls ruhiges Alltagsleben mit präzise genutzter Gewalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fuqua verbindet McCalls ruhiges Alltagsleben mit präzise genutzter Gewalt."
     }
   ]
 }

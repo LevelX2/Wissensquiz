@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Hisako ist Lehrerin in einer ländlichen Inselgemeinde.",
       "context": "Der Film begleitet ihre ersten zwölf Schulkinder vom Ende der 1920er Jahre durch Krieg und Nachkriegszeit. Hisako nimmt die familiären Sorgen der Kinder ernst. Viele Lebenswege verändern sich durch Armut und Krieg; ihre Verbundenheit mit den ehemaligen Schülern reicht weit über den Unterricht hinaus.",
-      "anchor": "Hisako begleitet ihre Schulkinder durch die Zeit.",
       "interest": "Zugänglicher Einstieg in eine zentrale Lehrerinnenrolle.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.criterion.com/films/745-twenty-",
         "https://www.criterion.com/current/posts/582-twenty-four-eyes-growing-pains"
-      ]
+      ],
+      "objective": "Hisako begleitet ihre Schulkinder durch die Zeit."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 0,
       "short": "Keiko arbeitet als Barhostess im Tokioter Ginza-Viertel.",
       "context": "Nach dem Tod ihres Mannes bestreitet sie als geschätzte Gastgeberin ihren Lebensunterhalt. Sie unterhält Geschäftsleute nach Feierabend, möchte aber über ihre Zukunft selbst bestimmen. Ihr Ansehen schützt sie kaum vor den Erwartungen der Männer, von denen ihr Einkommen abhängt.",
-      "anchor": "Keiko arbeitet in Ginzas nächtlicher Barwelt.",
       "interest": "Beruflicher Rahmen und Spannung zwischen Einkommen und Unabhängigkeit.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/816"
-      ]
+      ],
+      "objective": "Keiko arbeitet in Ginzas nächtlicher Barwelt."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 3,
       "short": "Okoma will die Busfahrt durch einen gesprochenen Reisekommentar aufwerten.",
       "context": "Die kleine Busgesellschaft verliert Kunden an eine beliebtere Konkurrenz. Okoma bereitet deshalb Erklärungen zu den Stationen und Landschaften der Strecke vor und übt Stimme und Gesten. Ihr Engagement richtet sich auf den bedrohten Betrieb, während die Entscheidung über dessen Zukunft bei anderen liegt.",
-      "anchor": "Aus der Busfahrt soll eine kleine Besichtigungstour werden.",
       "interest": "Eigeninitiative als konkrete Handlung der jungen Berufstätigen.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/7394-step-by-step-hideko-takamine-in-when-a-woman-ascends-the-stairs",
         "https://harvardfilmarchive.org/public/upload/print/6862c621a7f6a.pdf"
-      ]
+      ],
+      "objective": "Aus der Busfahrt soll eine kleine Besichtigungstour werden."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 1,
       "short": "Kōji ist Reikos Schwager, der Bruder ihres verstorbenen Mannes.",
       "context": "Reiko führt den Laden der Familie ihres gefallenen Mannes. Während dessen Schwestern ihre weitere Beschäftigung infrage stellen, fordert Kōji (Yūzō Kayama), dass sie sich mit seiner Liebe auseinandersetzt. Familiäre Pflicht, wirtschaftliche Zukunft und verdrängtes Begehren geraten miteinander in Konflikt.",
-      "anchor": "Der Schwager stellt Reikos familiäre Bindung auf die Probe.",
       "interest": "Konkrete Beziehung hinter der verbotenen Liebesgeschichte.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       "extraSources": [
         "https://rijs.fas.harvard.edu/events/film-screening-yearning-midareru",
         "https://jffau.jpf.go.jp/film/yearning/"
-      ]
+      ],
+      "objective": "Der Schwager stellt Reikos familiäre Bindung auf die Probe."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 2,
       "short": "Sie wirbt bei mehreren reichen Kunden um Geld für die eigene Bar.",
       "context": "Ein einzelner Patron würde zwar die Eröffnung ermöglichen, aber persönliche Gegenleistungen erwarten. Keiko sucht deshalb eine andere Finanzierung. Die Alternative einer Ehe erscheint ebenfalls unsicher: Ihr scheinbar zuverlässiger Bewerber Sekine (Daisuke Katō) entpuppt sich als bereits verheirateter Mann.",
-      "anchor": "Mehrere Geldgeber sollen den persönlichen Patron ersetzen.",
       "interest": "Finanzierung und intime Abhängigkeit als zusammenhängendes Dilemma.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/471-when-a-woman-ascends-the-stairs-they-endure"
-      ]
+      ],
+      "objective": "Mehrere Geldgeber sollen den persönlichen Patron ersetzen."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 3,
       "short": "Die Beziehung begann während ihrer Arbeit in Französisch-Indochina.",
       "context": "Yukiko arbeitete dort als Schreibkraft, Kengo (Masayuki Mori) als verheirateter Mitarbeiter des Forstministeriums. Im zerstörten Nachkriegsjapan suchen sie Anschluss an die frühere Beziehung. Die Rückblenden an den hellen kolonialen Schauplatz stehen gegen die bedrückende Gegenwart und die Aussichtslosigkeit ihrer Wiederannäherung.",
-      "anchor": "Die helle Kriegsvergangenheit liegt in Französisch-Indochina.",
       "interest": "Koloniale Vergangenheit und Nachkriegsbeziehung als Erzählstruktur.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://rijs.fas.harvard.edu/events/film-screening-floating-clouds-ukigumo"
-      ]
+      ],
+      "objective": "Die helle Kriegsvergangenheit liegt in Französisch-Indochina."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 2,
       "short": "Sie strich Sätze und ersetzte sie durch Blicke oder Gesten.",
       "context": "Takamines ausdrucksstarkes Gesicht trug die Darstellung, ohne große Gefühlsausbrüche zu benötigen. Naruse gab ihr nach ihrer eigenen Erinnerung kaum direkte Spielanweisungen. Dass sie an den Texten mitarbeitete, erklärt einen Teil der präzisen stummen Reaktionen in ihren gemeinsamen Filmen.",
-      "anchor": "Weniger gesprochene Worte, mehr darstellerische Präzision.",
       "interest": "Konkrete Zusammenarbeit an Text und Schauspiel.",
       "feedback": [
         "",
@@ -196,7 +195,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/news/takamine-hideko-1924-2010"
-      ]
+      ],
+      "objective": "Weniger gesprochene Worte, mehr darstellerische Präzision."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 0,
       "short": "Sie verließ das Studio Shintōhō und wurde freiberufliche Schauspielerin.",
       "context": "Diese Entscheidung erweiterte ihre Wahlmöglichkeiten über die Bindung an ein einzelnes Studio hinaus. Auch nach ihrer Heirat mit dem Drehbuchautor und Regisseur Zenzō Matsuyama blieb sie berufstätig. Takamine verstand die arbeitende Ehefrau ausdrücklich als ein Lebensmodell, das sie selbst verwirklichen wollte.",
-      "anchor": "Freie Rollenwahl statt Bindung an Shintōhō.",
       "interest": "Selbstständigkeit im Studiosystem und in der Ehe.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       "films": [],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/news/takamine-hideko-1924-2010"
-      ]
+      ],
+      "objective": "Freie Rollenwahl statt Bindung an Shintōhō."
     }
   ]
 }

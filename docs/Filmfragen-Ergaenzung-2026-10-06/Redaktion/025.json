@@ -30,13 +30,13 @@
       ],
       "short": "Farrell ist ein Hacker mit Computerkenntnissen.",
       "context": "John McClane (Bruce Willis) soll Farrell zunächst nur zum FBI bringen. Ein Mordversuch verbindet die beiden mit dem umfassenden Angriff auf die Infrastruktur. McClanes praktische Polizeierfahrung und Farrells Verständnis der Netzwerke ergänzen sich, obwohl sie anfangs sehr unterschiedlich an Probleme herangehen.",
-      "anchor": "McClanes Polizeierfahrung trifft auf Farrells Hackerwissen.",
       "interest": "Die Ergänzung erklärt die Funktion des zentralen Duos.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "McClanes Polizeierfahrung trifft auf Farrells Hackerwissen."
     },
     {
       "code": "L2",
@@ -55,13 +55,13 @@
       ],
       "short": "Gabriel lässt Lucy, McClanes Tochter, entführen.",
       "context": "Lucy (Mary Elizabeth Winstead) hat ein angespanntes Verhältnis zu ihrem Vater. Gabriel nutzt die familiäre Bindung, als McClane seine Angriffe behindert. Dadurch wird der Konflikt um öffentliche Systeme zugleich persönlich: McClane muss die Entführung mit der Suche nach Gabriel und Farrells Rettung verbinden.",
-      "anchor": "Lucy macht Gabriels Angriff für McClane persönlich.",
       "interest": "Das Druckmittel erklärt die Verbindung von Familienkonflikt und Actionhandlung.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Lucy macht Gabriels Angriff für McClane persönlich."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Fire Sale bezeichnet den umfassenden Angriff auf vernetzte Infrastruktur.",
       "context": "Farrell erkennt im Ausfall mehrerer Systeme ein zusammenhängendes Muster. Gabriel (Timothy Olyphant) greift Verkehr und Finanzmärkte an und weitet die Störung aus. Der Ausdruck macht McClane (Bruce Willis) deutlich, dass sie nicht bloß einen isolierten Hacker oder lokalen Zwischenfall verfolgen.",
-      "anchor": "Fire Sale legt vernetzte Systeme eines ganzen Landes lahm.",
       "interest": "Der Begriff erläutert die Größenordnung des digitalen Angriffs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Fire Sale legt vernetzte Systeme eines ganzen Landes lahm."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Warlock hilft, den Code und den Standort Woodlawn zuzuordnen.",
       "context": "Warlock arbeitet von seinem Haus aus und versteht die Verbindung zwischen dem verwendeten Code und dem angeblichen Sozialversicherungsgebäude. Dahinter liegt eine Einrichtung zur Sicherung persönlicher und finanzieller Daten. Seine Auskunft bringt die allgemeine Sabotage mit Gabriels konkretem Diebstahlsziel zusammen.",
-      "anchor": "Warlocks Codeanalyse führt zum Datenstandort Woodlawn.",
       "interest": "Die Hilfe erklärt den Übergang von Störungen zum eigentlichen Raubplan.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Warlocks Codeanalyse führt zum Datenstandort Woodlawn."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Farrell verschlüsselt Gabriels Datenbeute.",
       "context": "Gabriels Angriff soll die Sicherung der Daten auslösen und anschließend deren Diebstahl ermöglichen. Farrell erreicht den Server und setzt eine technische Gegenmaßnahme. Als Gabriel (Timothy Olyphant) ihn gefangen nimmt, verlangt er deshalb die Entschlüsselung und bedroht ihn und Lucy (Mary Elizabeth Winstead).",
-      "anchor": "Farrells Verschlüsselung macht die gestohlenen Daten zunächst unbrauchbar.",
       "interest": "Die Maßnahme zeigt, wie der Hacker die Handlung aktiv verändert.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Farrells Verschlüsselung macht die gestohlenen Daten zunächst unbrauchbar."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "McClane schießt durch seine Schulter auf den hinter ihm stehenden Gabriel.",
       "context": "Gabriel (Timothy Olyphant) benutzt den verletzten McClane als Deckung und setzt die Waffe an dessen Schulterwunde. McClane betätigt selbst den Abzug und nimmt die erneute Verletzung in Kauf. Farrell (Justin Long) erschießt danach den verbliebenen Angreifer und hilft so, Lucy zu retten.",
-      "anchor": "McClane nimmt den Schuss durch die eigene Schulter in Kauf.",
       "interest": "Die konkrete Handlung erklärt die ungewöhnliche Auflösung der Geiselsituation.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "McClane nimmt den Schuss durch die eigene Schulter in Kauf."
     },
     {
       "code": "Y",
@@ -176,13 +176,13 @@
       ],
       "short": "Das erste Veröffentlichungsjahr ist 2007.",
       "context": "Der vierte Stirb-langsam-Film erschien 2007, zwölf Jahre nach Stirb langsam: Jetzt erst recht von 1995. Der neue Konflikt verlagert die Bedrohung von einem einzelnen Gebäude oder örtlichen Plan auf vernetzte Infrastruktur. Bruce Willis kehrt als McClane zurück und bekommt mit Farrell einen technisch versierten Partner.",
-      "anchor": "1995 kam der dritte Film; zwölf Jahre später folgte 2007 Stirb langsam 4.0.",
       "interest": "Die zeitliche Verbindung hilft, diese Filmfassung in der Filmgeschichte einzuordnen.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1995 kam der dritte Film; zwölf Jahre später folgte 2007 Stirb langsam 4.0."
     },
     {
       "code": "D",
@@ -201,13 +201,13 @@
       ],
       "short": "Die gesuchte Regie stammt von Len Wiseman.",
       "context": "Len Wiseman inszenierte den vierten Stirb-langsam-Film. Die Figur McClane bleibt ein praktisch handelnder Polizist, während digitale Systeme den Maßstab des Angriffs erweitern. Der Regiecredit ist von Mark Bombacks und David Marconis Arbeit am Drehbuch beziehungsweise an der Geschichte zu unterscheiden.",
-      "anchor": "Len Wiseman inszenierte diese Filmfassung.",
       "interest": "Die Zuordnung verbindet die Inszenierung mit ihrem verantwortlichen Filmschaffenden.",
       "sources": [
         "handlung",
         "primaer"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Len Wiseman inszenierte diese Filmfassung."
     }
   ]
 }

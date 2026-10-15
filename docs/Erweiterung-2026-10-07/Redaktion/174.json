@@ -40,12 +40,12 @@
       ],
       "short": "Judy reist nach London und tritt dort im Talk of the Town auf.",
       "context": "Judy reist nach London und tritt dort im Talk of the Town auf. Das Engagement soll ihr neue Einnahmen verschaffen, verlangt aber zuverlässige Auftritte trotz Erschöpfung und persönlicher Belastung. Die Bühne liegt zudem weit entfernt von ihren Kindern. Der Ortswechsel ist deshalb zugleich eine berufliche Chance und eine zusätzliche Form privater Trennung.",
-      "anchor": "London bietet Judy Arbeit und trennt sie von den Kindern.",
       "interest": "Den zentralen Schauplatz erkennen.",
       "sources": [
         "pathe"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "London bietet Judy Arbeit und trennt sie von den Kindern."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Judy möchte genug Geld für ein Zuhause mit Lorna und Joey verdienen.",
       "context": "Judy möchte genug Geld für ein Zuhause mit Lorna und Joey verdienen. Die finanziellen Schwierigkeiten sind daher eng mit ihrem Wunsch nach einem Familienalltag verbunden. Das Engagement hilft möglicherweise materiell, entfernt sie aber gleichzeitig von den Kindern. Der Film erzählt ihre Arbeit aus diesem Widerspruch heraus: Sie singt, um Nähe zu ermöglichen, und muss dafür zunächst fernbleiben.",
-      "anchor": "Die Londoner Arbeit soll ein Zuhause mit Lorna und Joey ermöglichen.",
       "interest": "Das persönliche Ziel hinter der Arbeit verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Londoner Arbeit soll ein Zuhause mit Lorna und Joey ermöglichen."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Die Rückblenden zeigen eine fremdbestimmte junge Darstellerin.",
       "context": "Die Rückblenden zeigen eine fremdbestimmte junge Darstellerin. Das Studio regelt ihren Alltag und setzt Medikamente ein, damit sie den Anforderungen folgt. Damit wird die spätere Erschöpfung mit einer früh begonnenen beruflichen Kontrolle verbunden. Der Film stellt die glänzende öffentliche Rolle neben die Bedingungen ihrer Herstellung und macht die verlorene Selbstbestimmung zum Teil des Porträts.",
-      "anchor": "Der frühe Star wird vom Studio bis in den Alltag kontrolliert.",
       "interest": "Rückblende und spätere Erschöpfung verbinden.",
       "sources": [
         "tiff"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der frühe Star wird vom Studio bis in den Alltag kontrolliert."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Mickey Deans wird Judys fünfter Ehemann.",
       "context": "Mickey Deans wird Judys fünfter Ehemann. Die Beziehung bietet während der Londoner Phase zunächst Nähe und Hoffnung. Sie steht jedoch neben den beruflichen und finanziellen Problemen, die dadurch nicht verschwinden. Der Film verbindet die erneute Liebesgeschichte mit einer verletzlichen Lebenssituation; die Hochzeit bildet keine einfache Lösung für die Schwierigkeiten des Engagements.",
-      "anchor": "Mickey Deans wird Judys fünfter Ehemann.",
       "interest": "Die neue Beziehung innerhalb ihrer späten Lebensphase einordnen.",
       "sources": [
         "pathe"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Mickey Deans wird Judys fünfter Ehemann."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Judy besucht die beiden Fans nach einem Auftritt in ihrer Wohnung.",
       "context": "Judy besucht die beiden Fans nach einem Auftritt in ihrer Wohnung. Im Gespräch entstehen Nähe und Verständnis für unterschiedliche Formen von Ausgrenzung und Belastung. Die Musik wird dabei zu einer Verbindung zwischen Star und Publikum. Die kleine private Begegnung ergänzt die großen Bühnenbilder: Anerkennung besteht hier weniger im Jubel als im gemeinsamen Erleben und Zuhören.",
-      "anchor": "Bei Dan und Stan entsteht Nähe jenseits des großen Applauses.",
       "interest": "Die Bedeutung einer privaten Begegnung erklären.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bei Dan und Stan entsteht Nähe jenseits des großen Applauses."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Judy bricht während des Liedes emotional ein, doch die Fans unterstützen sie und helfen ihr weiterzusingen.",
       "context": "Judy bricht während des Liedes emotional ein, doch die Fans unterstützen sie und helfen ihr weiterzusingen. Der Schlussmoment verbindet ihre Verletzlichkeit mit der Bindung zum Publikum. Der bekannte Song bleibt damit keine glatte Vorführung. Er wird zu einer gemeinsamen Erfahrung, in der die Zuhörer vorübergehend etwas von der Last des Auftritts mittragen.",
-      "anchor": "Die Fans tragen das letzte Lied mit Judy weiter.",
       "interest": "Die Beziehung zum Publikum im Schlussmoment verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Fans tragen das letzte Lied mit Judy weiter."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "Weltpremiere in Telluride am 30. August 2019.",
       "context": "Die Hauptgeschichte spielt während Judy Garlands Londoner Engagement von 1968. Der Film erschien 2019, einundfünfzig Jahre später. Die Rückblenden reichen noch weiter in ihre Jugend zurück, doch der konkrete Anker ist die Londoner Arbeitsphase. Damit verbindet sich das Veröffentlichungsjahr mit dem Zeitraum, in dem das Porträt den Gegensatz zwischen öffentlichem Auftritt und privater Erschöpfung konzentriert.",
-      "anchor": "1968 die Londoner Auftritte, 2019 der Film: einundfünfzig Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "pathe"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1968 die Londoner Auftritte, 2019 der Film: einundfünfzig Jahre später."
     },
     {
       "code": "D",
@@ -210,14 +210,14 @@
       ],
       "short": "Rupert Goold inszenierte Tom Edges Drehbuch nach Peter Quilters Bühnenstück „End of the Rainbow“.",
       "context": "Rupert Goold inszenierte Tom Edges Drehbuch nach Peter Quilters Bühnenstück „End of the Rainbow“. Renée Zellweger verkörpert die erwachsene Judy, Darci Shaw die jüngere Figur in Rückblenden. Die beiden Zeitebenen zeigen gegenwärtige Erschöpfung zusammen mit früherer Fremdbestimmung. Goold verbindet eine späte Bühnenphase mit der Herkunft des Stars aus dem Studiosystem.",
-      "anchor": "Goold verbindet Zellwegers späte Judy mit Shaws Studio-Rückblenden.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel",
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Goold verbindet Zellwegers späte Judy mit Shaws Studio-Rückblenden."
     }
   ]
 }

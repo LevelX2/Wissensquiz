@@ -41,12 +41,12 @@
       ],
       "short": "Alice und Ben begleiten einander während der Hochzeitssaison.",
       "context": "Alice und Ben begleiten einander während der Hochzeitssaison. Sie wollen die Feiern nicht mehr allein bewältigen; die pragmatische Abmachung schafft jedoch Raum für eine Veränderung ihrer alten Freundschaft.",
-      "anchor": "Die Hochzeitsbegleitung verändert eine Freundschaft.",
       "interest": "Die Hochzeitsbegleitung verändert eine Freundschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Hochzeitsbegleitung verändert eine Freundschaft."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Ben sucht eine perfekte Beziehung ohne Fehlerrisiko.",
       "context": "Ben sucht eine perfekte Beziehung ohne Fehlerrisiko. Diese Haltung hängt mit den gescheiterten Ehen seines Vaters zusammen; sie erschwert auch die Anerkennung seiner Gefühle für Alice (Maya Erskine).",
-      "anchor": "Die Angst vor Fehlern wird zur Angst vor Bindung.",
       "interest": "Die Angst vor Fehlern wird zur Angst vor Bindung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Angst vor Fehlern wird zur Angst vor Bindung."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Ben misstraut der neuen Ehe seines Vaters Chuck (Ed Begley Jr.), weil zwei frühere scheiterten.",
       "context": "Ben misstraut der neuen Ehe seines Vaters Chuck (Ed Begley Jr.), weil zwei frühere scheiterten. Alice (Maya Erskine) hält ihm entgegen, dass unglückliches Zusammenbleiben ebenfalls kein gutes Vorbild sein muss.",
-      "anchor": "Die Familienerfahrung bestimmt Bens Maßstab.",
       "interest": "Die Familienerfahrung bestimmt Bens Maßstab.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Familienerfahrung bestimmt Bens Maßstab."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Alice (Maya Erskine) und Ben (Jack Quaid) nehmen einen Weg durch einen Friedhof.",
       "context": "Alice (Maya Erskine) und Ben (Jack Quaid) nehmen einen Weg durch einen Friedhof. Als Alice stürzt, hilft Ben ihr; aus dem Moment gegenseitiger Fürsorge entwickelt sich die Annäherung.",
-      "anchor": "Der verpasste Shuttle führt vom gemeinsamen Weg zur Nähe.",
       "interest": "Der verpasste Shuttle führt vom gemeinsamen Weg zur Nähe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der verpasste Shuttle führt vom gemeinsamen Weg zur Nähe."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Als Alice ihre Liebe ausdrückt, antwortet Ben mit Ungewissheit.",
       "context": "Als Alice ihre Liebe ausdrückt, antwortet Ben mit Ungewissheit. Sein Wunsch nach absoluter Sicherheit verletzt sie und beendet die Beziehung. Die Zweifel werden damit selbst zum Risiko, vor dem er sich schützen wollte.",
-      "anchor": "Der Anspruch auf Sicherheit zerstört die vorhandene Beziehung.",
       "interest": "Der Anspruch auf Sicherheit zerstört die vorhandene Beziehung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Anspruch auf Sicherheit zerstört die vorhandene Beziehung."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Chuck nennt Ben selbst als etwas Wertvolles, das aus einer gescheiterten Ehe entstand.",
       "context": "Chuck nennt Ben selbst als etwas Wertvolles, das aus einer gescheiterten Ehe entstand. Damit löst er Erfolg von makelloser Dauer; Ben (Jack Quaid) kann seine Angst vor dem unvollkommenen Lebensweg neu betrachten.",
-      "anchor": "Eine gescheiterte Ehe kann dennoch Wertvolles hinterlassen.",
       "interest": "Eine gescheiterte Ehe kann dennoch Wertvolles hinterlassen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine gescheiterte Ehe kann dennoch Wertvolles hinterlassen."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "2019 wurde der Film beim Tribeca-Festival erstmals gezeigt.",
       "context": "2019 wurde Plus One beim Tribeca-Festival erstmals gezeigt. Man Up war 2015 erschienen: Vier Jahre trennen zwei Komödien, in denen eine praktische Datingrolle ungeplant in echte Nähe übergeht. Die Hochzeitsbegleitung entwickelt hier aus wiederholten Begegnungen eine Beziehung.",
-      "anchor": "Man Up 2015, Plus One 2019: Vier Jahre trennen Datingverwechslung und vereinbarte Hochzeitsbegleitung als Wege zur Nähe.",
       "interest": "Die Verbindung ordnet zwei unterschiedliche Liebesarrangements in ihrer zeitlichen Reihenfolge ein.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Man Up 2015, Plus One 2019: Vier Jahre trennen Datingverwechslung und vereinbarte Hochzeitsbegleitung als Wege zur Nähe."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
       "context": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam. Maya Erskine und Jack Quaid spielen langjährige Freunde, die sich zunächst nur als Hochzeitsbegleitung helfen wollen. Die Regie verfolgt, wie der wiederholte Auftritt als Paar ihre tatsächliche Beziehung verändert.",
-      "anchor": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
       "interest": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Jeff Chan und Andrew Rhymer schrieben und inszenierten gemeinsam."
     }
   ]
 }

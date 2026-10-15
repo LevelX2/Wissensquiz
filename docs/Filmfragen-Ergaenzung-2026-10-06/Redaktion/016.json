@@ -32,13 +32,13 @@
       ],
       "short": "Fawcett sucht im Amazonasgebiet.",
       "context": "Fawcett stößt dort auf Hinweise, die seinen Vorstellungen von der Geschichte der Region widersprechen. Die Suche führt ihn immer wieder von seiner Familie in Großbritannien weg. Die geografische Entfernung bekommt so persönliche Folgen.",
-      "anchor": "Fawcetts Suche zieht ihn immer wieder in den Amazonas.",
       "interest": "Der Suchraum verbindet Abenteuer und Lebenskonflikt.",
       "sources": [
         "verleih",
         "nyff"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fawcetts Suche zieht ihn immer wieder in den Amazonas."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Fawcett ist ein britischer Offizier.",
       "context": "Seine militärische Laufbahn führt ihn zu einem Vermessungsauftrag. Die spätere Suche wächst aus dieser Aufgabe heraus. Der Film zeigt damit keinen Abenteurer, der von Beginn an ausschließlich eine sagenhafte Stadt verfolgt.",
-      "anchor": "Vom britischen Offizier führt Fawcetts Weg zur Expedition.",
       "interest": "Der Beruf ordnet den Beginn seines ungewöhnlichen Lebenswegs ein.",
       "sources": [
         "nyff",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vom britischen Offizier führt Fawcetts Weg zur Expedition."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Er soll die Grenze zwischen Bolivien und Brasilien vermessen.",
       "context": "Wirtschaftliche Interessen am Kautschuk verschärfen den Grenzstreit. Auf der Vermessungsreise begegnet Fawcett materiellen Spuren, die sein Interesse an einer älteren Zivilisation wecken. Aus dem Auftrag entsteht ein eigenes Forschungsziel.",
-      "anchor": "Der Grenzauftrag führt Fawcett zu seiner späteren Suche.",
       "interest": "Der offizielle Zweck wird vom daraus entstandenen persönlichen Ziel unterschieden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Grenzauftrag führt Fawcett zu seiner späteren Suche."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Paraffin hat die Vorräte zerstört.",
       "context": "Der erkrankte Murray wird mit einem Führer zurückgeschickt. Fawcett (Charlie Hunnam) entdeckt anschließend den Schaden an den Lebensmitteln. Körperliche Belastung und Konflikte innerhalb der Gruppe gefährden die Expedition ebenso wie die Landschaft.",
-      "anchor": "Murrays beschädigte Vorräte stoppen die Expedition.",
       "interest": "Eine konkrete Entscheidung im Team hat entscheidende Folgen für die Reise.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Murrays beschädigte Vorräte stoppen die Expedition."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Das Schlussbild verbindet Ninas Spiegelbild mit dem Amazonas.",
       "context": "Nina hält an der Möglichkeit fest, Percy (Charlie Hunnam) und Jack (Tom Holland) könnten noch leben. Der Bildübergang liefert keinen dokumentarischen Beweis dafür. Er lässt die Suche in der Gestaltung des Films fortbestehen.",
-      "anchor": "Ninas Spiegelbild trägt die Suche aus England in den Dschungel.",
       "interest": "Ein präzise beschreibbares Schlussbild wird von historischen Beweisen unterschieden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ninas Spiegelbild trägt die Suche aus England in den Dschungel."
     },
     {
       "code": "S2",
@@ -154,13 +154,13 @@
       ],
       "short": "James Gray adaptierte David Granns Sachbuch.",
       "context": "Das Buch behandelt Fawcetts Expeditionen und das Rätsel seines Verschwindens. Der Film konzentriert sich auf den Lebensweg und die Beziehungen des Entdeckers. Eine Sachbuchvorlage macht die inszenierten Szenen nicht zu unveränderten historischen Aufnahmen.",
-      "anchor": "Granns Sachbuch wird bei Gray zur inszenierten Lebensgeschichte.",
       "interest": "Die Vorlage klärt den Status zwischen Geschichte und filmischer Darstellung.",
       "sources": [
         "premiere",
         "verleih"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Granns Sachbuch wird bei Gray zur inszenierten Lebensgeschichte."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Die erste Veröffentlichung lag 2016.",
       "context": "David Granns Buch erschien 2009, die Verfilmung wurde 2016 erstmals gezeigt. Sieben Jahre liegen dazwischen. Die Festivalpremiere ging dem breiten US-Kinostart 2017 voraus; für die Einordnung zählt der frühere Filmtermin.",
-      "anchor": "2009 das Buch, 2016 die Weltpremiere: sieben Jahre bis zur Verfilmung.",
       "interest": "Die Buchverbindung gibt dem wichtigen Premierenjahr einen inhaltlichen Anker.",
       "sources": [
         "handlung",
         "premiere"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2009 das Buch, 2016 die Weltpremiere: sieben Jahre bis zur Verfilmung."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "James Gray führte Regie.",
       "context": "Gray schrieb die Adaption von David Granns Buch. Kameramann Darius Khondji gestaltete mit ihm die historische Expedition und die englischen Innenräume. Das Festival stellte den Film als Grays groß angelegte Lebens- und Expeditionsgeschichte vor.",
-      "anchor": "Gray adaptiert Grann; Khondji gestaltet die Bildwelt mit ihm.",
       "interest": "Die Regie wird mit der konkreten Adaption und Bildarbeit verbunden.",
       "sources": [
         "premiere",
         "nyff"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gray adaptiert Grann; Khondji gestaltet die Bildwelt mit ihm."
     }
   ]
 }

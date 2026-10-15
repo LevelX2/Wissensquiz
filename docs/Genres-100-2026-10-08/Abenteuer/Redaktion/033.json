@@ -36,11 +36,11 @@
       ],
       "short": "Bewaffnete Luftschiffe erweitern das Mantel-und-Degen-Abenteuer.",
       "context": "Die Handlung versetzt ein bekanntes Kostümabenteuer in eine fantastische Technikwelt. Pläne, die Leonardo da Vinci zugeschrieben werden, ermöglichen bewaffnete Luftschiffe. Athos (Matthew Macfadyen), Porthos (Ray Stevenson) und Aramis (Luke Evans) müssen sich deshalb auch in der Luft behaupten. Historische Kleidung und Fechtkämpfe bilden hier keinen Anspruch auf realistische Technikgeschichte, sondern einen Rahmen für spektakuläre Abenteuerbilder.",
-      "anchor": "Die Musketiere kämpfen diesmal auch auf Luftschiffen.",
       "interest": "Erschließt das besondere Gestaltungskonzept dieser Fassung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Musketiere kämpfen diesmal auch auf Luftschiffen."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Sie müssen das Diamantenhalsband der Königin zurückbringen.",
       "context": "Königin Anne (Juno Temple) soll ihr Halsband bei einem Ball tragen. Fehlt es, will Richelieu (Christoph Waltz) daraus einen Verdacht gegen sie entstehen lassen. Constance (Gabriella Wilde) bittet die Musketiere um Hilfe. Der Rettungsauftrag gilt damit einem Schmuckstück, dessen Anwesenheit oder Abwesenheit am Hof politische Folgen für die Beziehung zwischen Frankreich und England haben kann.",
-      "anchor": "Das Halsband muss rechtzeitig zum Ball zurück.",
       "interest": "Zeigt die konkrete Aufgabe hinter dem politischen Abenteuer.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Halsband muss rechtzeitig zum Ball zurück."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Der Kutscher ihrer Flucht ist Planchet.",
       "context": "Milady (Milla Jovovich) glaubt nach ihrem Einsatz in London, mit der Kutsche entkommen zu können. Der Fahrer ist jedoch Planchet (James Corden), der Diener der Musketiere. Er liefert sie seinen Herren aus. Die Szene verändert die Bedeutung einer vermeintlichen Fluchtmöglichkeit: Nicht nur die spektakulären Kämpfer, sondern auch ihr unauffälliger Helfer kann den Ablauf entscheidend lenken.",
-      "anchor": "Miladys Fluchtkutsche fährt zu ihren Gegnern.",
       "interest": "Verbindet eine Helferrolle mit einer erfolgreichen Täuschung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Miladys Fluchtkutsche fährt zu ihren Gegnern."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Gefälschte Liebesbriefe sollen die Königin diskreditieren.",
       "context": "Richelieu (Christoph Waltz) lässt Milady (Milla Jovovich) falsche Liebesbriefe unter den Sachen von Königin Anne (Juno Temple) verstecken. Zusammen mit dem gestohlenen Halsband sollen sie eine Affäre mit Buckingham (Orlando Bloom) glaubhaft machen. Die vermeintlich private Verfehlung wird als politischer Hebel benutzt. Der junge König soll zu einer Entscheidung gedrängt werden, die den Kardinal stärkt.",
-      "anchor": "Falsche private Beweise dienen einem öffentlichen Machtplan.",
       "interest": "Unterscheidet tatsächliche Beziehung und konstruierte Beweisführung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Falsche private Beweise dienen einem öffentlichen Machtplan."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "D’Artagnan dient als Köder für Buckinghams erwarteten Abwehrplan.",
       "context": "Milady (Milla Jovovich) erklärt Buckingham (Orlando Bloom), wie die Musketiere vermutlich angreifen werden. D’Artagnan (Logan Lerman) erfüllt diese Erwartung scheinbar und wird gefangen. Seine Freunde nutzen die Ablenkung, um das Luftschiff zu übernehmen und ihn zu befreien. Die Helden gewinnen hier nicht durch völlige Unberechenbarkeit, sondern indem sie ein bekanntes Bild ihres Vorgehens bewusst gegen den Gegner wenden.",
-      "anchor": "Der erwartete Angreifer ist nur der Köder.",
       "interest": "Verlangt das Verständnis einer Täuschung über vertraute Verhaltensmuster.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der erwartete Angreifer ist nur der Köder."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Sie nutzen die Vollmacht, die Richelieu Milady gegeben hatte.",
       "context": "Richelieu (Christoph Waltz) hat Milady (Milla Jovovich) eine schriftliche Autorisierung ausgestellt. Athos (Matthew Macfadyen) legt sie später dem König vor und verbindet sie mit einer erfundenen Erklärung des Luftschiffkampfs. Das Dokument soll die Tötung Rocheforts (Mads Mikkelsen) als Dienst an Frankreich absichern. Die Intrige scheitert damit auch an einem Schriftstück, das der Kardinal selbst geschaffen hat.",
-      "anchor": "Die Vollmacht des Intriganten deckt die Gegenintrige.",
       "interest": "Erschließt die politische Bedeutung des abschließenden Dokumententricks.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Vollmacht des Intriganten deckt die Gegenintrige."
     },
     {
       "code": "Y",
@@ -174,12 +174,12 @@
       ],
       "short": "Die Luftschiff-Fassung erschien 2011.",
       "context": "Logan Lerman spielte 2010 den jungen Helden in Percy Jackson: Diebe im Olymp. Ein Jahr später, 2011, erschien Die drei Musketiere mit ihm als D’Artagnan. Der Zeitanker verbindet zwei benachbarte Abenteuerrollen aus unterschiedlichen Vorlagen: moderne Götterfantasie auf der einen Seite, ein frei erweitertes historisches Fechtabenteuer auf der anderen. Beide zeigen einen jungen Neuankömmling in einer gefährlichen Welt.",
-      "anchor": "2010 Percy Jackson, 2011 D’Artagnan: ein Jahr zwischen den Abenteuerrollen.",
       "interest": "Filmbezogener Zeitanker über den gemeinsamen Hauptdarsteller.",
       "sources": [
         "archiv",
         "percy"
-      ]
+      ],
+      "objective": "2010 Percy Jackson, 2011 D’Artagnan: ein Jahr zwischen den Abenteuerrollen."
     },
     {
       "code": "D",
@@ -198,11 +198,11 @@
       ],
       "short": "Paul W. S. Anderson führte Regie.",
       "context": "Filmportal nennt Paul W. S. Anderson als Regisseur und trennt davon die Produzenten Jeremy Bolt und Robert Kulzer. Diese Abgrenzung ist bei der ähnlich zusammengefassten Constantin-Webseite hilfreich. Der Film erweitert den Dumas-Stoff um bewaffnete Luftschiffe und große dreidimensionale Actionszenen. Die Regiefrage meint die Hauptinszenierung des Films, nicht die Mitarbeit des zweiten Stabs oder die Produktion.",
-      "anchor": "Paul W. S. Anderson führt die Musketiere in die Luft.",
       "interest": "Sichert die eindeutige Regiezuordnung trotz missverständlicher Quellenanzeige.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Paul W. S. Anderson führt die Musketiere in die Luft."
     }
   ]
 }

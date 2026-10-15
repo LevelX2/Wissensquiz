@@ -40,12 +40,12 @@
       ],
       "short": "Saoirse (Originalstimme: Lucy O’Connell) ist eine Selkie.",
       "context": "Saoirse (Originalstimme: Lucy O’Connell) ist eine Selkie. Ihr weißer Mantel ermöglicht die Robbengestalt; die lange verschwiegene Herkunft verbindet sie mit ihrer Mutter Bronagh (Originalstimme: Lisa Hannigan).",
-      "anchor": "Der weiße Mantel verbindet Mädchen und Robbe.",
       "interest": "Der weiße Mantel verbindet Mädchen und Robbe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der weiße Mantel verbindet Mädchen und Robbe."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Die Familie lebt am Leuchtturm.",
       "context": "Die Familie lebt am Leuchtturm. Conor (Originalstimme: Brendan Gleeson) zieht dort Ben (Originalstimme: David Rawle) und Saoirse (Originalstimme: Lucy O’Connell) auf; das Meer bleibt zugleich Lebensraum und Erinnerung an Bronagh (Originalstimme: Lisa Hannigan).",
-      "anchor": "Der Leuchtturm liegt zwischen Familienalltag und Selkiewelt.",
       "interest": "Der Leuchtturm liegt zwischen Familienalltag und Selkiewelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Leuchtturm liegt zwischen Familienalltag und Selkiewelt."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Ben (Originalstimme: David Rawle) möchte zu Cú zurück.",
       "context": "Ben (Originalstimme: David Rawle) möchte zu Cú zurück. Das konkrete Vermissen des Hundes setzt die Reise in Gang, auf der seine zunächst abgelehnte Schwester immer stärker auf ihn angewiesen ist.",
-      "anchor": "Die Rückreise beginnt mit Bens Sehnsucht nach Cú.",
       "interest": "Die Rückreise beginnt mit Bens Sehnsucht nach Cú.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Rückreise beginnt mit Bens Sehnsucht nach Cú."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Saoirses Lied soll die Wesen befreien und heimführen.",
       "context": "Saoirses Lied soll die Wesen befreien und heimführen. Saoirse (Originalstimme: Lucy O’Connell) muss dazu ihre Stimme finden; ihre persönliche Entwicklung trägt deshalb auch die Zukunft der magischen Gemeinschaft.",
-      "anchor": "Die gefundene Stimme öffnet den Wesen den Heimweg.",
       "interest": "Die gefundene Stimme öffnet den Wesen den Heimweg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die gefundene Stimme öffnet den Wesen den Heimweg."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Macha (Originalstimme: Fionnula Flanagan) will Schmerz ausschließen.",
       "context": "Macha (Originalstimme: Fionnula Flanagan) will Schmerz ausschließen. Die Geschichte ihres trauernden Sohnes Mac Lir (Originalstimme: Brendan Gleeson) zeigt jedoch, dass die geraubten Gefühle zu Versteinerung führen und auch Freude unmöglich machen.",
-      "anchor": "Machas Schutz vor Trauer erstarrt das Leben.",
       "interest": "Machas Schutz vor Trauer erstarrt das Leben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Machas Schutz vor Trauer erstarrt das Leben."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Saoirse bleibt bei Ben und Conor.",
       "context": "Saoirse (Originalstimme: Lucy O’Connell) bleibt bei Ben (Originalstimme: David Rawle) und Conor (Originalstimme: Brendan Gleeson). Bronagh (Originalstimme: Lisa Hannigan) nimmt den Selkiemantel zurück; Saoirses (Originalstimme: Lucy O’Connell) Entscheidung ermöglicht Nähe zu den Lebenden trotz des erneuten Abschieds von der Mutter.",
-      "anchor": "Das Bleiben schließt einen bewussten Abschied ein.",
       "interest": "Das Bleiben schließt einen bewussten Abschied ein.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Bleiben schließt einen bewussten Abschied ein."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Der Film wurde 2014 erstmals veröffentlicht.",
       "context": "2014 wurde der Film in Toronto vorgestellt, fünf Jahre nach Das Geheimnis von Kells von 2009. Die spätere irische Sprachfassung erschien 2015; sie verändert nicht das Erstveröffentlichungsjahr der englischen Originalfassung.",
-      "anchor": "Fünf Jahre nach Kells von 2009 wurde 2014 die Selkiefamilie zum Film.",
       "interest": "Fünf Jahre nach Kells von 2009 wurde 2014 die Selkiefamilie zum Film.",
       "sources": [
         "handlung",
         "zeitvergleich78"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fünf Jahre nach Kells von 2009 wurde 2014 die Selkiefamilie zum Film."
     },
     {
       "code": "D",
@@ -209,12 +209,12 @@
       ],
       "short": "Regie: Tomm Moore.",
       "context": "Moore verknüpft Selkie-Erzählungen mit dem Verlust innerhalb einer Familie. Die Sage betrifft nicht nur eine ferne Vergangenheit: Ben (Originalstimme: David Rawle) muss über sie das Verschwinden seiner Mutter und seine Beziehung zu Saoirse (Originalstimme: Lucy O’Connell) neu verstehen.",
-      "anchor": "Moore verknüpft Selkie-Erzählungen mit dem Verlust innerhalb einer Familie.",
       "interest": "Moore verknüpft Selkie-Erzählungen mit dem Verlust innerhalb einer Familie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Moore verknüpft Selkie-Erzählungen mit dem Verlust innerhalb einer Familie."
     }
   ]
 }

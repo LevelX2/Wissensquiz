@@ -38,12 +38,12 @@
       ],
       "short": "Die Königin (Originalstimme Lucille La Verne) ist eifersüchtig auf Schneewittchens Schönheit.",
       "context": "Die Königin (Originalstimme Lucille La Verne) ist eifersüchtig auf Schneewittchens Schönheit. Ihr Spiegel macht aus dem Vergleich eine Bedrohung ihrer eigenen Stellung.",
-      "anchor": "Die Königin kann den Vorrang einer anderen Schönheit nicht ertragen.",
       "interest": "Die Königin kann den Vorrang einer anderen Schönheit nicht ertragen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Königin kann den Vorrang einer anderen Schönheit nicht ertragen."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Schneewittchen (Originalstimme Adriana Caselotti) beißt in einen vergifteten Apfel.",
       "context": "Schneewittchen (Originalstimme Adriana Caselotti) beißt in einen vergifteten Apfel. Die Königin (Originalstimme Lucille La Verne) nutzt eine harmlose Verkaufsfigur, um ihre tödliche Absicht zu verbergen.",
-      "anchor": "Der Apfel verbindet Verlockung und Gift.",
       "interest": "Der Apfel verbindet Verlockung und Gift.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Apfel verbindet Verlockung und Gift."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Der Jäger (Originalstimme Stuart Buchanan) warnt Schneewittchen (Originalstimme Adriana Caselotti).",
       "context": "Der Jäger (Originalstimme Stuart Buchanan) warnt Schneewittchen (Originalstimme Adriana Caselotti). Sein Mitleid setzt die Flucht in Gang; die Königin erhält damit zunächst einen falschen Eindruck vom ausgeführten Auftrag.",
-      "anchor": "Der Jäger entscheidet sich gegen die Tötung.",
       "interest": "Der Jäger entscheidet sich gegen die Tötung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Jäger entscheidet sich gegen die Tötung."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Die Zwerge finden ein gereinigtes und verändertes Haus.",
       "context": "Die Zwerge finden ein gereinigtes und verändertes Haus. Schneewittchen (Originalstimme Adriana Caselotti) hat es für ein Kinderhaus gehalten; zwei verschiedene Annahmen treffen beim ersten Kennenlernen aufeinander.",
-      "anchor": "Die hilfreiche Reinigung wirkt zunächst wie ein fremder Eingriff.",
       "interest": "Die hilfreiche Reinigung wirkt zunächst wie ein fremder Eingriff.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die hilfreiche Reinigung wirkt zunächst wie ein fremder Eingriff."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Die Zwerge legen Schneewittchen (Originalstimme Adriana Caselotti) in einen Glassarg.",
       "context": "Die Zwerge legen Schneewittchen (Originalstimme Adriana Caselotti) in einen Glassarg. So bleibt sie sichtbar und zugänglich; die Befürchtung der Königin über eine schnelle Beerdigung trifft nicht ein.",
-      "anchor": "Der Glassarg erhält die Möglichkeit der späteren Rettung.",
       "interest": "Der Glassarg erhält die Möglichkeit der späteren Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Glassarg erhält die Möglichkeit der späteren Rettung."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Ein Blitz trifft die Klippe und die Königin (Originalstimme Lucille La Verne) stürzt ab.",
       "context": "Ein Blitz trifft die Klippe und die Königin (Originalstimme Lucille La Verne) stürzt ab. Ihr Versuch, einen Felsen auf die Verfolger zu rollen, scheitert an der zerstörten eigenen Standfläche.",
-      "anchor": "Der Blitz nimmt der Königin den Boden unter den Füßen.",
       "interest": "Der Blitz nimmt der Königin den Boden unter den Füßen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Blitz nimmt der Königin den Boden unter den Füßen."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Der Film wurde 1937 erstmals veröffentlicht.",
       "context": "1937 wurde der Film erstmals gezeigt. 1939 erhielt Walt Disney dafür einen besonderen Ehren-Oscar mit einer großen und sieben kleinen Figuren. Zwei Jahre trennen Premiere und diesen auf die Zwergenwelt bezogenen Preis.",
-      "anchor": "Dem Film von 1937 folgte 1939, zwei Jahre später, der besondere Oscar mit sieben kleinen Figuren.",
       "interest": "Dem Film von 1937 folgte 1939, zwei Jahre später, der besondere Oscar mit sieben kleinen Figuren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dem Film von 1937 folgte 1939, zwei Jahre später, der besondere Oscar mit sieben kleinen Figuren."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "Regie: David Hand und Perce Pearce und William Cottrell und Larry Morey und Wilfred Jackson und Ben Sharpsteen.",
       "context": "David Hand führte die Gesamtregie; Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson und Ben Sharpsteen inszenierten Sequenzen. Das arbeitsteilige Team übertrug einen zuvor kurzfilmgeprägten Studiobetrieb auf die Langfilmform.",
-      "anchor": "David Hand führte die Gesamtregie; Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson und Ben Sharpsteen inszenierten Sequenzen.",
       "interest": "David Hand führte die Gesamtregie; Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson und Ben Sharpsteen inszenierten Sequenzen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "David Hand führte die Gesamtregie; Perce Pearce, William Cottrell, Larry Morey, Wilfred Jackson und Ben Sharpsteen inszenierten Sequenzen."
     }
   ]
 }

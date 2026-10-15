@@ -41,12 +41,12 @@
       ],
       "short": "Die Draags halten manche Menschen als Haustiere und bekämpfen wilde Gruppen.",
       "context": "Die Draags halten manche Menschen als Haustiere und bekämpfen wilde Gruppen. Die ungleiche Körpergröße erhält eine gesellschaftliche Entsprechung; die Menschen werden nicht als selbstbestimmte Gegenüber anerkannt.",
-      "anchor": "Der Größenunterschied wird zum Herrschaftsverhältnis.",
       "interest": "Der Größenunterschied wird zum Herrschaftsverhältnis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Größenunterschied wird zum Herrschaftsverhältnis."
     },
     {
       "code": "L2",
@@ -65,13 +65,13 @@
       ],
       "short": "Tiwa (Originalstimme Jennifer Drake) und ihr Vater Sinh (Jean Topart) nehmen Terr auf.",
       "context": "Tiwa (Originalstimme Jennifer Drake) und ihr Vater Sinh (Jean Topart) nehmen Terr auf. Sie behandelt ihn als Haustier; Fürsorge und Kontrolle sind dabei eng verbunden, statt seine Freiheit anzuerkennen.",
-      "anchor": "Tiwas Fürsorge hält Terr zugleich unter Kontrolle.",
       "interest": "Tiwas Fürsorge hält Terr zugleich unter Kontrolle.",
       "sources": [
         "handlung",
         "credits"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Tiwas Fürsorge hält Terr zugleich unter Kontrolle."
     },
     {
       "code": "M1",
@@ -90,13 +90,13 @@
       ],
       "short": "Ein Defekt in Terrs Halsband lässt ihn Tiwas Lehrwissen empfangen.",
       "context": "Ein Defekt in Terrs Halsband lässt ihn Tiwas Lehrwissen empfangen. Terr (Originalstimmen Eric Baugin als Kind und Jean Valmont als Erwachsener) nimmt das Lernkopfband bei seiner Flucht mit; Bildung wird damit zum Mittel seiner späteren Befreiung.",
-      "anchor": "Mitgehörtes Wissen wird zur Befreiungsressource.",
       "interest": "Mitgehörtes Wissen wird zur Befreiungsressource.",
       "sources": [
         "handlung",
         "credits"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Mitgehörtes Wissen wird zur Befreiungsressource."
     },
     {
       "code": "M2",
@@ -115,13 +115,13 @@
       ],
       "short": "Die Menschen können die Ankündigung einer Vernichtungsaktion lesen.",
       "context": "Die Menschen können die Ankündigung einer Vernichtungsaktion lesen. Terrs (Originalstimme Jean Valmont) Wissenszugang liefert daher nicht bloß abstrakte Kultur, sondern konkrete Vorwarnung gegen die überlegene Gewalt der Draags.",
-      "anchor": "Schriftkenntnis ermöglicht das Erkennen der Bedrohung.",
       "interest": "Schriftkenntnis ermöglicht das Erkennen der Bedrohung.",
       "sources": [
         "handlung",
         "credits"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Schriftkenntnis ermöglicht das Erkennen der Bedrohung."
     },
     {
       "code": "S1",
@@ -140,12 +140,12 @@
       ],
       "short": "Die Draags nutzen die Statuen in ihrer Meditation für ein Fortpflanzungsritual.",
       "context": "Die Draags nutzen die Statuen in ihrer Meditation für ein Fortpflanzungsritual. Als Terrs Gruppe einige zerstört, entsteht erstmals ein Druckmittel gegen die Herrscher; deren eigene Verletzlichkeit eröffnet Verhandlungen.",
-      "anchor": "Die geistige Reise hängt an verletzlichen Statuen.",
       "interest": "Die geistige Reise hängt an verletzlichen Statuen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die geistige Reise hängt an verletzlichen Statuen."
     },
     {
       "code": "S2",
@@ -164,12 +164,12 @@
       ],
       "short": "Menschen und Draags schließen Frieden.",
       "context": "Menschen und Draags schließen Frieden. Die Menschen erhalten einen eigenen künstlichen Satelliten; die Lösung beruht auf erkannter gegenseitiger Verwundbarkeit und einem veränderten Zusammenleben, nicht auf der vollständigen Vernichtung des anderen.",
-      "anchor": "Gegenseitige Verletzlichkeit macht Koexistenz möglich.",
       "interest": "Gegenseitige Verletzlichkeit macht Koexistenz möglich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Gegenseitige Verletzlichkeit macht Koexistenz möglich."
     },
     {
       "code": "Y",
@@ -188,13 +188,13 @@
       ],
       "short": "1973 wurde der Film in Cannes erstmals gezeigt.",
       "context": "1973 wurde der Film in Cannes erstmals gezeigt. Stefan Wuls Roman „Oms en série“ stammt von 1957; sechzehn Jahre trennen Vorlage und animierte Adaption. Die Gestaltung von Roland Topor macht aus dem Science-Fiction-Stoff eine sichtbar eigenständige fantastische Welt.",
-      "anchor": "Roman 1957, Film 1973: Sechzehn Jahre später erhält Wuls Welt Topors eigenständige Zeichengestalt.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1957, Film 1973: Sechzehn Jahre später erhält Wuls Welt Topors eigenständige Zeichengestalt."
     },
     {
       "code": "D",
@@ -213,14 +213,14 @@
       ],
       "short": "René Laloux führte Regie und schrieb mit Roland Topor.",
       "context": "René Laloux führte Regie und schrieb mit Roland Topor. Die Koproduktion entstand in Frankreich und der Tschechoslowakei; der Größenunterschied zwischen Draags und Menschen schafft eine fremdartige Welt, die zugleich Machtverhältnisse anschaulich macht.",
-      "anchor": "René Laloux führte Regie und schrieb mit Roland Topor.",
       "interest": "René Laloux führte Regie und schrieb mit Roland Topor.",
       "sources": [
         "eckdaten",
         "credits"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "René Laloux führte Regie und schrieb mit Roland Topor."
     }
   ]
 }

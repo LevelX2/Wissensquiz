@@ -25,7 +25,6 @@ export const runState = (): State =>
         correctId: "a",
         explanation: "Erklärung",
         context: "",
-        anchor: "",
         sources: [],
         tags: [],
         badgeTags: [],

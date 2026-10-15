@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Ellie ist die Tochter eines reichen Mannes und Erbin.",
       "context": "Die Flucht aus dem Einflussbereich ihres Vaters bringt sie in eine ihr fremde Alltagswelt. Unterwegs muss sie sich mit dem arbeitslosen Reporter Peter Warne arrangieren.",
-      "anchor": "Die reiche Ellie lernt unterwegs ein anderes Leben kennen.",
       "interest": "Der Klassenunterschied trägt die Reibung zwischen den beiden Hauptfiguren.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.sonypictures.com/movies/ithappenedonenight"
-      ]
+      ],
+      "objective": "Die reiche Ellie lernt unterwegs ein anderes Leben kennen."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Colbert spielte die ägyptische Königin Kleopatra.",
       "context": "DeMille verbindet politische Machtkämpfe mit ihren Beziehungen zu Julius Caesar und Marcus Antonius. Die Inszenierung setzt dabei auf prunkvolle Bauten, Kostüme und den Star im Zentrum des Bildes.",
-      "anchor": "Colbert war DeMilles Kleopatra.",
       "interest": "Die Rolle zeigt eine andere Seite derselben Darstellerin als ihre berühmten Alltagskomödien.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/7710-CLEOPATRA"
-      ]
+      ],
+      "objective": "Colbert war DeMilles Kleopatra."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Beatrice vermarktet Delilahs Pfannkuchen und später die zugehörige Backmischung.",
       "context": "Der wirtschaftliche Aufstieg beider Frauen beseitigt die rassistischen Machtverhältnisse ihrer Welt nicht. Delilahs Arbeit, ihr Bild auf der Verpackung und ihre fortbestehende Stellung im Haushalt machen den Erfolg widersprüchlich.",
-      "anchor": "Delilahs Rezept trägt Beatrices Unternehmen.",
       "interest": "Die konkrete Geschäftsidee eröffnet den Blick auf Arbeit, Anerkennung und ungleich verteilten Wohlstand.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/1130-IMITATION-OF-LIFE"
-      ]
+      ],
+      "objective": "Delilahs Rezept trägt Beatrices Unternehmen."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 1,
       "short": "Gerry hofft, durch eine neue wohlhabende Verbindung die Geldprobleme zu lösen.",
       "context": "Auch ihr bisheriger Mann Tom soll davon profitieren und seine Erfindung finanzieren können. Die vermeintlich vernünftige Lösung führt Liebe und ökonomisches Kalkül in eine höchst unvernünftige Konstellation.",
-      "anchor": "Gerry versucht, die Liebe über eine finanzielle Umordnung zu retten.",
       "interest": "Die Komödie nimmt die Abhängigkeit romantischer Pläne von Geld ernst.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3438-the-palm-beach-story-love-in-a-warm-climate"
-      ]
+      ],
+      "objective": "Gerry versucht, die Liebe über eine finanzielle Umordnung zu retten."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 1,
       "short": "Charles Laughton spielt Nero, Colbert die Kaiserin Poppaea.",
       "context": "DeMilles Film stellt die römische Herrschaft einer verfolgten christlichen Gemeinschaft gegenüber. Poppaeas Begehren und Eifersucht greifen in den Konflikt zwischen dem Präfekten Marcus und der Christin Mercia ein.",
-      "anchor": "Laughton und Colbert bilden das römische Herrscherpaar.",
       "interest": "Die Besetzung ordnet zwei markante Starauftritte innerhalb des Monumentalfilms ein.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/3859"
-      ]
+      ],
+      "objective": "Laughton und Colbert bilden das römische Herrscherpaar."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 2,
       "short": "Anne bewältigt mit ihren Töchtern das Familienleben an der amerikanischen Heimatfront.",
       "context": "Ein Untermieter hilft gegen Geldknappheit; Rationierung und die Sorgen um Angehörige prägen den Alltag. Der Film betrachtet den Krieg aus der Perspektive der Menschen, die zu Hause auf Nachricht warten.",
-      "anchor": "Anne Hilton trägt die Verantwortung an der Heimatfront.",
       "interest": "Die Rolle macht zivile Arbeit und emotionale Belastung im Krieg sichtbar.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://watch.afi.com/movie/since-you-went-away-1944"
-      ]
+      ],
+      "objective": "Anne Hilton trägt die Verantwortung an der Heimatfront."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Capra reduzierte die Beleuchtung; das Fensterlicht zeichnet Colberts Gestalt im Halbdunkel.",
       "context": "Die Schauspielerin hatte gegen die ursprünglich freizügigere Aufnahme Einwände. Capra empfand die zurückhaltendere Inszenierung später als reizvoller: Das Bild verlagert die Wirkung von deutlicher Sichtbarkeit auf Andeutung.",
-      "anchor": "Weniger Licht verstärkte die Andeutung.",
       "interest": "Die Änderung zeigt den Einfluss einer Darstellerin auf die visuelle Gestaltung einer berühmten Szene.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3369-it-happened-one-night-all-aboard"
-      ]
+      ],
+      "objective": "Weniger Licht verstärkte die Andeutung."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 0,
       "short": "Hatchitt hatte als Armeekrankenschwester auf Bataan und Corregidor gearbeitet.",
       "context": "Sie beriet die Produktion und trug auch zur Geschichte bei. Colberts Figur Davey steht an der Spitze einer Gruppe von Krankenschwestern; hinter der dramatisierten Handlung liegen Erfahrungen des Army Nurse Corps auf den Philippinen.",
-      "anchor": "Eine beteiligte Krankenschwester brachte Kriegserfahrung in die Produktion ein.",
       "interest": "Der Zusammenhang erklärt, worauf sich der historische Anspruch des Kriegsdramas stützte.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/674-"
-      ]
+      ],
+      "objective": "Eine beteiligte Krankenschwester brachte Kriegserfahrung in die Produktion ein."
     }
   ]
 }

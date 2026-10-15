@@ -33,13 +33,13 @@
       ],
       "short": "Jerry versucht, als Maler erfolgreich zu werden.",
       "context": "Jerry Mulligan (Gene Kelly) ist ein amerikanischer Kriegsveteran in Paris. Er stellt seine Bilder in Montmartre zum Verkauf aus. Seine finanzielle Unsicherheit macht das Angebot der wohlhabenden Milo Roberts (Nina Foch) verlockend, bindet die Förderung aber zugleich an persönliche Erwartungen.",
-      "anchor": "Jerrys Bilder verbinden künstlerischen Ehrgeiz und Abhängigkeit.",
       "interest": "Jerrys Bilder verbinden künstlerischen Ehrgeiz und Abhängigkeit.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jerrys Bilder verbinden künstlerischen Ehrgeiz und Abhängigkeit."
     },
     {
       "code": "L2",
@@ -58,13 +58,13 @@
       ],
       "short": "Milo unterstützt Jerry durch Bildkäufe und Karriereangebote.",
       "context": "Milo Roberts (Nina Foch) bezahlt zwei Gemälde von Jerry Mulligan (Gene Kelly) und organisiert weitere Förderung. Ihre Zuneigung geht über das Interesse an Kunst hinaus. Jerry versucht deshalb, Unterstützung anzunehmen, ohne sich als bezahlter Begleiter behandeln zu lassen.",
-      "anchor": "Milos Mäzenatentum ist mit persönlichen Wünschen verbunden.",
       "interest": "Milos Mäzenatentum ist mit persönlichen Wünschen verbunden.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Milos Mäzenatentum ist mit persönlichen Wünschen verbunden."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Lise fühlt sich Henri wegen seines Schutzes im Krieg verpflichtet.",
       "context": "Lise Bouvier (Leslie Caron) liebt Jerry Mulligan (Gene Kelly), empfindet aber Dankbarkeit und Pflicht gegenüber Henri Baurel (Georges Guétary). Die geplante Ehe entsteht deshalb nicht allein aus romantischer Neigung. Henri muss die Bindung schließlich selbst freigeben, damit sie ihrem Wunsch folgen kann.",
-      "anchor": "Dankbarkeit bindet Lise an Henri, Liebe zieht sie zu Jerry.",
       "interest": "Dankbarkeit bindet Lise an Henri, Liebe zieht sie zu Jerry.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Dankbarkeit bindet Lise an Henri, Liebe zieht sie zu Jerry."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Adam erkennt, dass Henri und Jerry beide Lise lieben.",
       "context": "Jerry Mulligan (Gene Kelly) bringt Lise Bouvier (Leslie Caron) zum Haus. Adam Cook (Oscar Levant) erkennt den Zusammenhang. Die beiden Männer unterhalten sich anschließend ahnungslos über ihre jeweilige Liebe; das Wissen des Freundes und des Publikums macht ihren glücklichen Gleichklang ironisch.",
-      "anchor": "Adam erkennt das Dreieck, während beide Männer von Glück sprechen.",
       "interest": "Adam erkennt das Dreieck, während beide Männer von Glück sprechen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Adam erkennt das Dreieck, während beide Männer von Glück sprechen."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Adam vervielfacht sich in seiner eigenen Konzertvorstellung.",
       "context": "Adam Cook (Oscar Levant) träumt sich in Gershwins Klavierkonzert. Sein Bild taucht nicht nur am Klavier auf, sondern auch als Dirigent, Orchestermusiker und begeisterter Zuhörer. Der Musiker liefert sich im Kopf sowohl den Auftritt als auch die ersehnte Anerkennung.",
-      "anchor": "Adams Traum besetzt sogar den Beifall mit ihm selbst.",
       "interest": "Adams Traum besetzt sogar den Beifall mit ihm selbst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Adams Traum besetzt sogar den Beifall mit ihm selbst."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Das Ballett ist Jerrys Fantasie nach Lises Abschied.",
       "context": "Jerry Mulligan (Gene Kelly) hat Lise Bouvier (Leslie Caron) scheinbar verloren. Seine Vorstellung verwandelt Paris in wechselnde malerische Bühnenräume. Ein Autohupen beendet die Fantasie: Henri bringt Lise zurück. Die reale Entscheidung ihres Verlobten schließt damit an Jerrys imaginierte Vereinigung an.",
-      "anchor": "Die malerische Fantasie endet, als Lise wirklich zurückkommt.",
       "interest": "Die malerische Fantasie endet, als Lise wirklich zurückkommt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die malerische Fantasie endet, als Lise wirklich zurückkommt."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1951.",
       "context": "Ein Amerikaner in Paris erschien 1951. Gershwins gleichnamige Orchesterkomposition entstand 1928, also 23 Jahre früher. Der Film übernimmt keine Handlung aus einer Erzählvorlage: Er baut eine neue Geschichte um Gershwins Musik und macht die ältere Komposition zum ausgedehnten Schlussballett.",
-      "anchor": "Gershwins Komposition 1928, Musicalfilm 1951: 23 Jahre bis zur neuen Geschichte um die Musik.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Gershwins Komposition 1928, Musicalfilm 1951: 23 Jahre bis zur neuen Geschichte um die Musik.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Gershwins Komposition 1928, Musicalfilm 1951: 23 Jahre bis zur neuen Geschichte um die Musik."
     },
     {
       "code": "D",
@@ -204,14 +204,14 @@
       ],
       "short": "Der Regiecredit lautet Vincente Minnelli.",
       "context": "Vincente Minnelli führte Regie, Gene Kelly choreografierte und spielte Jerry. Die lange Ballettsequenz wurde nach einer Produktionsunterbrechung gedreht. Ihre Dekorationen beziehen sich auf französische Maler; so verbindet der Regisseur Jerrys Beruf, Paris und musikalische Fantasie in einem eigenen Bildraum.",
-      "anchor": "Vincente Minnelli: Die lange Ballettsequenz wurde nach einer Produktionsunterbrechung gedreht.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Vincente Minnelli: Die lange Ballettsequenz wurde nach einer Produktionsunterbrechung gedreht."
     }
   ]
 }

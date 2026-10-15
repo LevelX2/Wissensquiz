@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Nicole ist Lehrerin am Internat.",
       "context": "Nicole arbeitet an der Schule, die Michel Delassalle (Paul Meurisse) zusammen mit seiner Frau Christina (Véra Clouzot) führt. Zugleich ist Nicole seine Geliebte. Die berufliche Nähe hält die drei Figuren in derselben abgeschlossenen Umgebung zusammen. Nicoles scheinbares Bündnis mit Christina lässt die beiden Frauen zunächst als Opfer desselben herrischen Mannes erscheinen.",
-      "anchor": "Nicole gehört als Lehrerin zum engen Kreis der Schule.",
       "interest": "Der Beruf verankert die Figur in der gemeinsamen Lebens- und Arbeitsumgebung.",
       "feedback": [
         "Nicole ist Lehrerin am Internat.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/53-diabolique"
-      ]
+      ],
+      "objective": "Nicole gehört als Lehrerin zum engen Kreis der Schule."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Madame Rosa betreut vor allem Kinder von Prostituierten.",
       "context": "Rosa war selbst Prostituierte und lebt in einem alten Haus im Pariser Viertel Belleville. Zu ihren Schützlingen gehört Momo (Samy Ben Youb), ein algerischer Junge. Die jüdische Überlebende der Verfolgung wird für ihn zur wichtigsten Bezugsperson, obwohl ihre Verbindung voller Reibungen ist. Mit Rosas zunehmender Krankheit kehrt sich das Verhältnis um: Der Junge muss nun für die Frau sorgen, die ihn aufgezogen hat.",
-      "anchor": "Die ehemalige Prostituierte wird zur Ersatzmutter von Kindern aus demselben Milieu.",
       "interest": "Die Arbeit erklärt die Herkunft der ungewöhnlichen Familie.",
       "feedback": [
         "Madame Rosa betreut vor allem Kinder von Prostituierten.",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://boutique.arte.tv/detail/la-vie-devant-soi-moshe-mizrahi"
-      ]
+      ],
+      "objective": "Die ehemalige Prostituierte wird zur Ersatzmutter von Kindern aus demselben Milieu."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Joe soll die schwangere Susan heiraten und dafür im Unternehmen ihres Vaters aufsteigen.",
       "context": "Joe schwankt zwischen Alice und Susan (Heather Sears), der Tochter eines wohlhabenden Industriellen. Mit Alice verbindet ihn eine leidenschaftliche Beziehung, doch ihr Mann verweigert die Scheidung. Susan ist von Joe schwanger. Das Angebot ihres Vaters verbindet eine Heirat mit dem gesellschaftlichen Aufstieg, den Joe gesucht hat. Er entscheidet sich dafür; Alices anschließender Tod bleibt als Schuld hinter seinem äußeren Erfolg.",
-      "anchor": "Joe erhält die erhoffte Stellung, verliert aber die Frau, die er liebt.",
       "interest": "Die Entscheidung verknüpft den privaten Verrat mit dem Klassenkonflikt des Films.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Room_at_the_Top_(1959_film)"
-      ]
+      ],
+      "objective": "Joe erhält die erhoffte Stellung, verliert aber die Frau, die er liebt."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Marie verliebt sich in Manda, den Serge Reggiani spielt.",
       "context": "Bei einem Ausflug trifft Marie den aus dem kriminellen Leben ausgestiegenen Manda (Serge Reggiani). Ihr bisheriger Gefährte Roland fühlt sich herausgefordert, während auch Bandenchef Leca (Claude Dauphin) Marie besitzen möchte. Die kurze Nähe des neuen Paares steht deshalb unter dem Druck einer Umgebung, in der Begehren und Machtanspruch in Gewalt umschlagen. Becker stellt dem die verletzlichen, ruhigen Momente der beiden gegenüber.",
-      "anchor": "Maries neue Liebe gerät in die Machtkämpfe ihres bisherigen Milieus.",
       "interest": "Das Ziel erschließt den Auslöser der tragischen Rivalität.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       "extraSources": [
         "https://www.criterion.com/films/942-casque-d-or",
         "https://en.wikipedia.org/wiki/Casque_d%27Or"
-      ]
+      ],
+      "objective": "Maries neue Liebe gerät in die Machtkämpfe ihres bisherigen Milieus."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 3,
       "short": "Die Gestapo bedroht Mathildes Tochter, um Informationen zu erzwingen.",
       "context": "Mathilde hat die Widerstandsgruppe mit außergewöhnlicher Umsicht unterstützt und Gerbier (Lino Ventura) sogar vor einer Erschießung gerettet. Nach ihrer Festnahme macht ihre Familie sie verwundbar. Die Gruppe fürchtet, dass die Drohung gegen die Tochter sie zu weiteren Aussagen zwingen wird. Ihre Gefährten entscheiden sich schließlich, die verdiente Mitstreiterin zu töten, bevor noch mehr Personen verraten werden können.",
-      "anchor": "Die Helferin wird über ihre Tochter selbst zum Sicherheitsrisiko der Gruppe.",
       "interest": "Der Vorgang zeigt den grausamen Konflikt zwischen persönlicher Bindung und clandestinem Überleben.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Army_of_Shadows"
-      ]
+      ],
+      "objective": "Die Helferin wird über ihre Tochter selbst zum Sicherheitsrisiko der Gruppe."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 1,
       "short": "Rosa zieht sich in ihr verborgenes jüdisches Refugium unter der Treppe zurück, um dort zu sterben.",
       "context": "Rosas Erinnerungen an Auschwitz und die Verfolgung kehren im Alter zunehmend als Angst und Verwirrung zurück. Ihr versteckter Raum bietet ihr einen eigenen Rückzugspunkt. Sie lehnt eine Einweisung ins Krankenhaus ab. Momo (Samy Ben Youb) begleitet sie in das Refugium und bleibt auch nach ihrem Tod bei ihr, bis beide gefunden werden. Die Ersatzmutter wird von ihrem Schützling bis zuletzt nicht verlassen.",
-      "anchor": "Momo bleibt bei Rosa in dem Raum, der ihr Sicherheit geben sollte.",
       "interest": "Der Rückzugsort verbindet ihre Verfolgungserfahrung mit dem Wunsch nach einem selbst bestimmten Lebensende.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Madame_Rosa"
-      ]
+      ],
+      "objective": "Momo bleibt bei Rosa in dem Raum, der ihr Sicherheit geben sollte."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 2,
       "short": "Die Darsteller sollten sich wie Bewohner der Epoche verhalten.",
       "context": "Becker legte großen Wert auf die Dinge, Räume und alltäglichen Umgangsformen seiner Figuren. Historische Kleidung allein sollte das Milieu nicht herstellen. Signoret und Serge Reggiani bewegen sich als Marie und Manda in einer detaillierten Welt, die auch abseits des zentralen Paares weiterzuleben scheint. Das Spiel sollte diese Vertrautheit ausdrücken, anstatt den Zuschauern eine historische Ausstattung vorzuführen.",
-      "anchor": "Die Epoche wird durch selbstverständliches Verhalten innerhalb einer vollständigen Lebenswelt erfahrbar.",
       "interest": "Die Frage zeigt eine konkrete Regievorstellung vom Spiel in einem historischen Film.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/679-casque-d-or-tenderness-and-violence"
-      ]
+      ],
+      "objective": "Die Epoche wird durch selbstverständliches Verhalten innerhalb einer vollständigen Lebenswelt erfahrbar."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 2,
       "short": "Der Film gehörte zu ihrer kritischen Auseinandersetzung mit der früher unterstützten sowjetischen Politik.",
       "context": "Signoret und Montand waren öffentlich engagierte Linke und hatten gemeinsam den Ostblock bereist. Nach der Niederschlagung des Prager Frühlings waren sie von der sowjetischen Politik erschüttert. Costa-Gavras’ Film über einen kommunistischen Funktionär, dem ein Geständnis abgepresst wird, machte diese Kritik sichtbar. Signoret spielt die Frau des Verfolgten. Gerade innerhalb der französischen Linken war das Projekt deshalb umstritten.",
-      "anchor": "Die Kritik an stalinistischen Schauprozessen kam auch aus dem eigenen politischen Lager.",
       "interest": "Der Kontext verbindet Schauspielarbeit mit einer schwierigen öffentlichen Selbstkorrektur.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3578-the-confession-enthralling-absurdity"
-      ]
+      ],
+      "objective": "Die Kritik an stalinistischen Schauprozessen kam auch aus dem eigenen politischen Lager."
     }
   ]
 }

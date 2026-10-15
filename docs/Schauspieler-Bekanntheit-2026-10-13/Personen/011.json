@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Bronsons namenloser Revolverheld spielt Mundharmonika.",
       "context": "Bereits am Bahnhof kündigt die Mundharmonika den fremden Mann an. Bronson spielt einen schweigsamen Revolverhelden, dessen Beziehung zu Frank (Henry Fonda) zunächst rätselhaft bleibt. Sergio Leone lässt das Instrument zu einem wiederkehrenden Zeichen werden. Erst die spätere Erinnerung erklärt, dass sein Klang mit einer früheren Gewalttat verbunden ist. Musik und Figur tragen somit gemeinsam die verzögerte Enthüllung seiner Vergangenheit.",
-      "anchor": "Die Mundharmonika ist das hörbare Kennzeichen von Bronsons Fremdem.",
       "interest": "Ein leichter Wiedererkennungsanker führt zur Verbindung von Musik und Erinnerung im Western.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/21519-ONCE-UPON-A-TIME-IN-THE-WEST"
-      ]
+      ],
+      "objective": "Die Mundharmonika ist das hörbare Kennzeichen von Bronsons Fremdem."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Paul Kersey ist Architekt.",
       "context": "Kersey beginnt als ziviler Berufstätiger mit Familie. Nach einem brutalen Überfall, bei dem seine Frau stirbt und seine Tochter schwer traumatisiert wird, geht er nachts bewaffnet durch New York. Michael Winners Film macht aus diesem Wandel eine umstrittene Selbstjustizgeschichte. Der Architektenberuf ist dabei ein Gegenpol zum späteren Handeln: Ein Mann, der Lebensräume plant, wird zum gewalttätigen Akteur auf den Straßen.",
-      "anchor": "Kersey kommt aus einem zivilen Beruf und wird zum Selbstjustiztäter.",
       "interest": "Der Ausgangsberuf erklärt die Entfernung zwischen früherem Alltag und späterem Handeln.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "knowledge_id": "K-G100-20261008-ACTION-021-L1",
       "variant_of": "G100-20261008-ACTION-021-L1",
-      "knowledge_note": "Gleicher Architektenberuf von Paul Kersey."
+      "knowledge_note": "Gleicher Architektenberuf von Paul Kersey.",
+      "objective": "Kersey kommt aus einem zivilen Beruf und wird zum Selbstjustiztäter."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 0,
       "short": "Danny leidet unter Klaustrophobie.",
       "context": "Danny ist für den Tunnelbau des Fluchtplans besonders wichtig, leidet aber unter Angst in engen Räumen. John Sturges besetzte Bronson damit als körperlich fähigen Mann mit einer verletzlichen Seite. Die Flucht verlangt nicht nur technische Vorbereitung und Mut gegenüber den Bewachern. Für Danny bedeutet sie zusätzlich, gegen eine eigene Angst anzukämpfen, während andere Gefangene auf seine Arbeit angewiesen sind.",
-      "anchor": "Der Tunnelbauer fürchtet die Enge des Tunnels.",
       "interest": "Die widersprüchliche Aufgabe erschließt Bronsons verletzliche Darstellung im Ensemble.",
       "feedback": [
         "Danny leidet unter Klaustrophobie.",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/6941-the-great-escape-not-caught"
-      ]
+      ],
+      "objective": "Der Tunnelbauer fürchtet die Enge des Tunnels."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 1,
       "short": "Bernardo verteidigt den Mut der Väter, die Verantwortung für ihre Familien tragen.",
       "context": "Die Jungen bewundern Bernardo als Revolverhelden und setzen ihre eigenen Väter herab. Er weist diese Vorstellung zurück: Ein Leben mit Verantwortung für Frau und Kinder verlange einen Mut, den er selbst nie aufgebracht habe. Bronson gibt dem Kämpfer damit eine Sehnsucht nach häuslichem Leben. Die Szene stellt das Heldenbild der Kinder neben eine weniger auffällige Form von Tapferkeit.",
-      "anchor": "Bernardo erklärt Familienverantwortung zu einer Form des Muts.",
       "interest": "Die Szene erweitert den Westernhelden um eine Kritik an der Bewunderung bloßer Waffengewalt.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       "extraSources": [
         "https://catalog.afi.com/Film/53218-THE-MAGNIFICENT-SEVEN",
         "https://www.criterion.com/current/posts/6941-the-great-escape-not-caught"
-      ]
+      ],
+      "objective": "Bernardo erklärt Familienverantwortung zu einer Form des Muts."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 2,
       "short": "Chaney tritt in bezahlten Kämpfen mit bloßen Fäusten an.",
       "context": "Der umherziehende Chaney findet in der Wirtschaftskrise kaum Halt. Er überzeugt den Veranstalter Speed (James Coburn) von seiner Schlagkraft und steigt in dessen Kampfgeschäft ein. Walter Hills Regiedebüt betrachtet körperliche Stärke damit als etwas, das sich verkaufen lässt. Hinter der scheinbar einfachen Zusammenarbeit stehen Wetten, Abhängigkeiten und die Frage, wie lange Chaney sich von anderen vermarkten lassen will.",
-      "anchor": "Chaneys Körper wird in der Krise zur Einnahmequelle.",
       "interest": "Die Tätigkeit verbindet Bronsons körperliches Spiel mit Arbeit und wirtschaftlicher Abhängigkeit.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/55560-HARD-TIMES"
-      ]
+      ],
+      "objective": "Chaneys Körper wird in der Krise zur Einnahmequelle."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 3,
       "short": "Bishop bildet den Sohn eines Mannes aus, den er selbst getötet hat.",
       "context": "Arthur Bishop tötet Harry McKenna (Keenan Wynn) und kommt danach dessen Sohn Steve näher. Schließlich bildet er ihn zum Auftragskiller aus. Die scheinbare Weitergabe professionellen Wissens entwickelt sich zu gegenseitigem Misstrauen: Beide legen Dossiers über den anderen an. Der Film von 1972 lässt die Beziehung zwischen Lehrer und Schüler so an der Logik eines Berufs zerbrechen, in dem Vertrauen gefährlich sein kann.",
-      "anchor": "Bishops Schüler ist der Sohn eines früheren Opfers.",
       "interest": "Die Beziehung erklärt die Spannung hinter der Weitergabe tödlichen Fachwissens.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/54529"
-      ]
+      ],
+      "objective": "Bishops Schüler ist der Sohn eines früheren Opfers."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 0,
       "short": "Bronson arbeitete als junger Mann in Kohlebergwerken in Pennsylvania.",
       "context": "Bronson wuchs in einer armen Bergarbeiterfamilie auf. Nach dem Tod des Vaters arbeitete auch er im Kohlebergbau, bevor er während des Zweiten Weltkriegs zur Luftwaffe ging. Sein Weg zur Schauspielerei führte später über Theaterarbeit und Unterricht am Pasadena Playhouse. Das öffentliche Bild des wortkargen Kraftmenschen verdeckt deshalb eine Laufbahn, die mit körperlicher Lohnarbeit begann und anschließend eine schauspielerische Ausbildung einschloss.",
-      "anchor": "Vor Hollywood standen für Bronson Bergwerk, Militär und Schauspielunterricht.",
       "interest": "Die berufliche Herkunft macht den Weg hinter seiner späteren Leinwandpräsenz sichtbar.",
       "feedback": [
         "Bronson arbeitete als junger Mann in Kohlebergwerken in Pennsylvania.",
@@ -195,7 +194,8 @@
       "films": [],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Charles_Bronson"
-      ]
+      ],
+      "objective": "Vor Hollywood standen für Bronson Bergwerk, Militär und Schauspielunterricht."
     },
     {
       "code": "E2",
@@ -209,7 +209,6 @@
       "correct": 1,
       "short": "Nach seinen Europaerfolgen drehte Bronson mit „Kalter Hauch“ wieder hauptsächlich in den USA.",
       "context": "Bronson war nach amerikanischen Ensemblefilmen besonders in europäischen Produktionen zum großen Star geworden. „Adieu l’ami“ mit Alain Delon und Sergio Leones Western gehören zu diesem Aufstieg. Laut AFI war „Kalter Hauch“ sein erster überwiegend in den USA gedrehter Film seit „Dieses Mädchen ist für alle“. Seine internationale Karriere wirkte damit auf seine Stellung in Hollywood zurück.",
-      "anchor": "Der Europastar Bronson kehrt als Hauptdarsteller in eine US-Produktion zurück.",
       "interest": "Der Produktionswechsel erklärt internationale Wechselwirkungen in seiner Starwerdung.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/54529",
         "https://en.wikipedia.org/wiki/Charles_Bronson"
-      ]
+      ],
+      "objective": "Der Europastar Bronson kehrt als Hauptdarsteller in eine US-Produktion zurück."
     }
   ]
 }

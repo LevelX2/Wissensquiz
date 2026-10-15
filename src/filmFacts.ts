@@ -467,10 +467,6 @@ export function addFilmFacts(questions: Question[]) {
           kind === "year"
             ? f.yearContext
             : `${f.directorContext ? f.directorContext + " " : ""}${f.directorNote || (f.directors.length > 1 ? "Die richtige Antwort umfasst das gesamte genannte Regieteam." : "Gefragt ist die Regie dieses Films, nicht Drehbuch, Produktion oder die Regie einer anderen Folge.")} Originaltitel: ${ref.metadata.film_title_original}. Erste Veröffentlichung: ${f.year}.`,
-        anchor:
-          kind === "year"
-            ? `${f.title} → ${f.year}`
-            : `${f.title} → ${directors}`,
         sources: [...new Set([f.source, ...(f.additionalSources ?? [])])],
         tags,
         badgeTags: [...tags],

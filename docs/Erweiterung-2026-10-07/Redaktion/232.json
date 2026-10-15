@@ -49,13 +49,13 @@
       ],
       "short": "Die tödliche Attacke findet im Aufzug des Wohnhauses statt.",
       "context": "Kate Miller (Angie Dickinson) hat das Haus ihres neuen Bekannten verlassen, bemerkt aber den vergessenen Ehering. Bei der Rückkehr öffnet sich der Aufzug zur tödlichen Begegnung. Ein alltäglicher Rückweg verwandelt sich so in den Angriff, der die bisherige Hauptfigur aus der Erzählung nimmt und Liz Blake (Nancy Allen) in den Fall zieht.",
-      "anchor": "Die Rückkehr wegen des Rings führt zur Mordattacke im Aufzug.",
       "interest": "Der konkrete Ort erklärt den abrupten Wechsel der Handlung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rückkehr wegen des Rings führt zur Mordattacke im Aufzug."
     },
     {
       "code": "L2",
@@ -74,13 +74,13 @@
       ],
       "short": "Das Rasiermesser ist die sichtbare Mordwaffe.",
       "context": "Das Rasiermesser bleibt nach dem Angriff als wichtiges sichtbares Zeichen bestehen. Liz Blake (Nancy Allen) entdeckt die sterbende Kate (Angie Dickinson) und hebt die Waffe auf. Damit gerät die Zeugin selbst unter Verdacht. Ein Gegenstand verbindet also die eigentliche Tat mit einer irreführenden Spur gegen eine unbeteiligte Beobachterin.",
-      "anchor": "Das Rasiermesser verbindet den Angriff mit dem falschen Verdacht gegen Liz.",
       "interest": "Das prägnante Objekt erklärt den Beginn der zweiten Tätersuche.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Rasiermesser verbindet den Angriff mit dem falschen Verdacht gegen Liz."
     },
     {
       "code": "M1",
@@ -99,13 +99,13 @@
       ],
       "short": "Beide haben Gründe für eine eigene Suche und ergänzen sich dabei.",
       "context": "Liz Blake (Nancy Allen) ist zugleich Zeugin, Verdächtige und neues Ziel. Peter (Keith Gordon) hat seine Mutter verloren und verfügt über selbst gebaute technische Hilfsmittel. Ihre gemeinsame Suche entsteht deshalb aus unterschiedlichen Bedürfnissen. Kameras und Abhörgeräte sollen ihnen Informationen geben, die ihnen die skeptische offizielle Ermittlung nicht liefert.",
-      "anchor": "Die misstraute Zeugin und der Sohn des Opfers bilden eine eigene Ermittlungsallianz.",
       "interest": "Die Frage verbindet die Motive beider Hauptfiguren.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die misstraute Zeugin und der Sohn des Opfers bilden eine eigene Ermittlungsallianz."
     },
     {
       "code": "M2",
@@ -124,13 +124,13 @@
       ],
       "short": "Die Ablenkung soll ihr Zugang zum Terminbuch und zur gesuchten Identität geben.",
       "context": "Liz Blake (Nancy Allen) nutzt eine inszenierte Annäherung an Dr. Elliott (Michael Caine). Während seine Aufmerksamkeit gebunden ist, sucht sie nach einer Spur zu Bobbi. Peter (Keith Gordon) beobachtet von außen. Die Szene verteilt Wissen und Sichtbarkeit auf mehrere Positionen, sodass weder die Figur drinnen noch der Beobachter draußen den gesamten Vorgang kontrolliert.",
-      "anchor": "Liz’ Ablenkung soll einen Namen aus dem Terminbuch zugänglich machen.",
       "interest": "Der konkrete Plan erklärt die räumliche Anordnung der Schlusskonfrontation.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Liz’ Ablenkung soll einen Namen aus dem Terminbuch zugänglich machen."
     },
     {
       "code": "S1",
@@ -149,13 +149,13 @@
       ],
       "short": "Unter der Perücke erscheint Elliott, den die Ermittlung zuvor als Arzt behandelte.",
       "context": "Die Praxis wird zum Ort einer visuellen Entlarvung. Der Schuss einer Polizistin bringt die blonde Gestalt zu Fall, und die Perücke legt Dr. Elliott (Michael Caine) frei. Damit wird eine zuvor angenommene Trennung zwischen behandelndem Arzt und gesuchter Person aufgehoben. Die Darstellung ist die fiktionale Konstruktion dieses Films, keine Erklärung realer geschlechtlicher Identität.",
-      "anchor": "Die Perücke verbirgt den zuvor als Helfer wahrgenommenen Psychiater.",
       "interest": "Die Auflösung zeigt, wie eine scheinbar sichere Figurenordnung zusammenbricht.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Perücke verbirgt den zuvor als Helfer wahrgenommenen Psychiater."
     },
     {
       "code": "S2",
@@ -174,13 +174,13 @@
       ],
       "short": "Liz erwacht schreiend; der vermeintliche neue Angriff gehört zu ihrem Traum.",
       "context": "Nach der Verhaftung scheint die Gefahr beendet. Der Film zeigt dann eine erneute Flucht und Attacke, bevor Liz Blake (Nancy Allen) schreiend erwacht. Peter (Keith Gordon) kommt zu ihr. Die letzte Bedrohung liegt damit in ihrer Erinnerung und Angst: Eine aufgeklärte Tat garantiert noch keine ungestörte Wahrnehmung oder einen ruhigen Schlaf.",
-      "anchor": "Das Erwachen verwandelt den letzten Angriff in eine fortdauernde Angst.",
       "interest": "Das Ende unterscheidet äußere Aufklärung von innerer Sicherheit.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Erwachen verwandelt den letzten Angriff in eine fortdauernde Angst."
     },
     {
       "code": "Y",
@@ -199,14 +199,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1980.",
       "context": "Dressed to Kill erschien 1980, zwanzig Jahre nach Hitchcocks Psycho von 1960. Brian De Palma greift unter anderem den abrupten Verlust einer zunächst zentralen Frauenfigur und den überraschenden Wechsel der Tätersuche auf. Der Abstand hilft, die bewusste Auseinandersetzung mit einem älteren Thriller einzuordnen; es handelt sich um einen eigenen Stoff.",
-      "anchor": "Psycho 1960 → Dressed to Kill 1980: zwanzig Jahre.",
       "interest": "Der Zeitanker macht den Einfluss eines früheren Films auf eine spätere eigene Erzählung sichtbar.",
       "sources": [
         "wiki",
         "criterion",
         "essay"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Psycho 1960 → Dressed to Kill 1980: zwanzig Jahre."
     },
     {
       "code": "D",
@@ -225,14 +225,14 @@
       ],
       "short": "Brian De Palma führte bei diesem Film Regie.",
       "context": "Brian De Palma schrieb und inszenierte den Film. Pino Donaggios Musik und ausgedehnte Blickwechsel verbinden die Figuren auch ohne ausführlichen Dialog. Kate Miller (Angie Dickinson) folgt im Museum einem Fremden; später müssen Liz Blake (Nancy Allen) und Peter (Keith Gordon) beobachtete Bilder neu deuten. Zuschauen wird dadurch selbst zu einer gefährlichen Tätigkeit.",
-      "anchor": "De Palma verbindet Begehren, Beobachtung und eine falsche Lesart sichtbarer Spuren.",
       "interest": "Der Regiestil erklärt die Bedeutung der langen Museumsfolge und der späteren Überwachung.",
       "sources": [
         "wiki",
         "criterion",
         "essay"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "De Palma verbindet Begehren, Beobachtung und eine falsche Lesart sichtbarer Spuren."
     }
   ]
 }

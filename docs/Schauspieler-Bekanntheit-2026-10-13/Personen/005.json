@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Beide Filme gehören zu Setsuko Haras Zusammenarbeit mit Yasujirō Ozu.",
       "context": "Ozu besetzte Hara in sechs Filmen. Besonders bekannt wurden ihre Darstellungen von Frauen, deren eigene Wünsche mit Erwartungen innerhalb der Familie zusammentreffen. In „Später Frühling“ steht eine Tochter unter Heiratsdruck; in „Die Reise nach Tokio“ schenkt eine verwitwete Schwiegertochter den alten Eltern Aufmerksamkeit. Hara arbeitete daneben auch mit anderen bedeutenden Regisseuren, darunter Kurosawa und Naruse.",
-      "anchor": "Hara und Ozu: Familienbindungen zwischen Fürsorge und eigenem Leben.",
       "interest": "Ein zugänglicher Einstieg in Haras prägende Zusammenarbeit, ohne ihre gesamte Laufbahn auf einen Regisseur zu reduzieren.",
       "feedback": [
         "",
@@ -36,7 +35,8 @@
         "https://www.criterionchannel.com/collections/FvcBzyks/starring-setsuko-hara",
         "https://www.criterion.com/films/298-late-spring",
         "https://www.criterion.com/films/284-tokyo-story"
-      ]
+      ],
+      "objective": "Hara und Ozu: Familienbindungen zwischen Fürsorge und eigenem Leben."
     },
     {
       "code": "L2",
@@ -50,14 +50,21 @@
       "correct": 1,
       "short": "Noriko ist die Witwe eines Sohnes des Ehepaars.",
       "context": "Shūkichi (Chishū Ryū) und Tomi (Chieko Higashiyama) besuchen ihre erwachsenen Kinder in Tokio. Diese haben wenig Zeit für sie. Ausgerechnet Noriko, deren Mann im Krieg gestorben ist, begegnet ihnen mit besonderer Herzlichkeit. Ihre Aufmerksamkeit steht dem Verhalten der leiblichen Kinder gegenüber. Die Verbindung zur Familie besteht für sie über den Tod ihres Mannes hinaus.",
-      "anchor": "Norikos Fürsorge gilt den Eltern ihres verstorbenen Mannes.",
       "interest": "Die Familienbeziehung erklärt, warum Norikos Zuwendung einen besonderen Kontrast zu den leiblichen Kindern bildet.",
-      "feedback": ["", "", "", ""],
-      "films": ["Tōkyō monogatari|1953"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Tōkyō monogatari|1953"
+      ],
       "extraSources": [
         "https://www.bfi.org.uk/features/tokyo-story-anatomy-classic",
         "https://www.criterion.com/films/284-tokyo-story"
-      ]
+      ],
+      "objective": "Norikos Fürsorge gilt den Eltern ihres verstorbenen Mannes."
     },
     {
       "code": "M1",
@@ -71,14 +78,21 @@
       "correct": 2,
       "short": "Noriko möchte ihren verwitweten Vater nicht allein zurücklassen.",
       "context": "Noriko und ihr Vater Shūkichi Somiya (Chishū Ryū) leben in einer vertrauten Gemeinschaft. Die Forderung ihrer Tante, Noriko müsse bald heiraten, bedroht dieses eingespielte Zusammenleben. Der Vater gibt schließlich vor, selbst wieder heiraten zu wollen, damit seine Tochter ohne Schuldgefühl gehen kann. Die angestrebte gesellschaftliche Normalität verlangt hier den Verlust eines bereits als glücklich erlebten Alltags.",
-      "anchor": "Norikos Heiratskonflikt beginnt mit der Bindung an ihren Vater.",
       "interest": "Die Frage erschließt ihre Motivation statt nur einen Namen aus dem Film abzufragen.",
-      "feedback": ["", "", "", ""],
-      "films": ["Banshun|1949"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Banshun|1949"
+      ],
       "extraSources": [
         "https://www.bfi.org.uk/film/797ab4f5-e457-5b07-9ca6-63d347f7da5a/late-spring",
         "https://www.criterion.com/films/298-late-spring"
-      ]
+      ],
+      "objective": "Norikos Heiratskonflikt beginnt mit der Bindung an ihren Vater."
     },
     {
       "code": "M2",
@@ -92,15 +106,22 @@
       "correct": 3,
       "short": "Noriko entscheidet sich für ihren verwitweten Jugendfreund Kenkichi.",
       "context": "Die Familie möchte Norikos Zukunft über einen geeigneten Ehemann sichern. Noriko wählt jedoch Kenkichi Yabe (Hiroshi Nihonyanagi), einen vertrauten Mann aus ihrer Umgebung, der bereits ein Kind hat. Sie erfüllt damit zwar die Erwartung, zu heiraten, bestimmt den Partner aber selbst. Ihre Entscheidung erschüttert das bisherige Familiengefüge und verbindet persönliche Selbstständigkeit mit dem Abschied vom gemeinsamen Haushalt.",
-      "anchor": "Noriko heiratet nach eigener Wahl und verändert damit die Familie.",
       "interest": "Eine eigenständige Entscheidung wird von einer bloßen Erfüllung des familiären Heiratswunsches unterschieden.",
-      "feedback": ["", "", "", ""],
-      "films": ["Bakushū|1951"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Bakushū|1951"
+      ],
       "extraSources": [
         "https://www.criterion.com/films/875-early-summer",
         "https://www.criterion.com/current/posts/675-early-summer",
         "https://www.eastman.org/sites/default/files/GEM-2022_NPS-catalogue-wBlindDate_web.pdf"
-      ]
+      ],
+      "objective": "Noriko heiratet nach eigener Wahl und verändert damit die Familie."
     },
     {
       "code": "S1",
@@ -114,14 +135,21 @@
       "correct": 0,
       "short": "Yukie verlässt ihre privilegierte Ausgangslage und entwickelt gesellschaftliches Engagement.",
       "context": "Akira Kurosawas erster Nachkriegsfilm begleitet Yukie über ein Jahrzehnt japanischer Geschichte. Die Professorentochter muss ihre bisherige Lebenshaltung überprüfen und lernt ein Leben außerhalb ihrer geschützten Herkunft kennen. Ihre Entwicklung führt zur Auseinandersetzung mit dem japanischen Kriegsstaat. Hara verkörpert damit eine aktive, sich verändernde Hauptfigur und nicht nur die Angehörige eines männlichen Helden.",
-      "anchor": "Haras Yukie gewinnt Haltung, indem sie ihre geschützte Welt verlässt.",
       "interest": "Die Rolle erweitert den Blick auf Hara über die vertrauten Ozu-Familienfiguren hinaus.",
-      "feedback": ["", "", "", ""],
-      "films": ["Waga seishun ni kui nashi|1946"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Waga seishun ni kui nashi|1946"
+      ],
       "extraSources": [
         "https://www.criterion.com/films/887-no-regrets-for-our-youth",
         "https://player.bfi.org.uk/subscription/film/watch-no-regrets-for-our-youth-1946-online"
-      ]
+      ],
+      "objective": "Haras Yukie gewinnt Haltung, indem sie ihre geschützte Welt verlässt."
     },
     {
       "code": "S2",
@@ -135,14 +163,21 @@
       "correct": 1,
       "short": "Michiyo geht zu ihrer Mutter und prüft durch Arbeitssuche ein selbstständiges Leben.",
       "context": "Nach fünf Ehejahren ist Michiyos Alltag in Osaka von Haushalt und Monotonie geprägt. Der Besuch der jungen Nichte Satoko (Yukiko Shimazaki) verschärft die Spannungen mit ihrem Mann Hatsunosuke (Ken Uehara). Bei ihrer Mutter versucht Michiyo, die Ehe aus anderer Entfernung zu betrachten und eine eigene Existenz aufzubauen. Am Ende kehrt sie mit ihrem Mann zurück; der vorübergehende Aufbruch bleibt ein wesentlicher Teil ihrer Entscheidung.",
-      "anchor": "Michiyo sucht außerhalb des Ehehaushalts nach einer eigenen Möglichkeit.",
       "interest": "Der konkrete Versuch der Selbstständigkeit erklärt die Ehekrise besser als ein allgemeines Etikett wie unglücklich.",
-      "feedback": ["", "", "", ""],
-      "films": ["Meshi|1951"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Meshi|1951"
+      ],
       "extraSources": [
         "https://www.3continents.com/en/film/le-repas/",
         "https://www.criterionchannel.com/videos/repast"
-      ]
+      ],
+      "objective": "Michiyo sucht außerhalb des Ehehaushalts nach einer eigenen Möglichkeit."
     },
     {
       "code": "E1",
@@ -156,14 +191,22 @@
       "correct": 2,
       "short": "In „Später Frühling“ spielt Hara die Tochter, in „Spätherbst“ die verwitwete Mutter.",
       "context": "Ozu greift den Konflikt um Heirat und Trennung vom Elternhaus elf Jahre später erneut auf. Nun spielt Hara Akiko, deren Tochter Ayako (Yōko Tsukasa) bei ihr bleiben möchte. Die Schauspielerin steht damit auf der anderen Seite einer verwandten Familienkonstellation. Die Filme erzählen keine fortlaufende Biografie derselben Figur; die veränderte Besetzungsperspektive macht vielmehr zwei Generationenrollen miteinander vergleichbar.",
-      "anchor": "Hara erlebt den verwandten Heiratskonflikt erst als Tochter, später als Mutter.",
       "interest": "Ein Vergleich der Rollen erschließt Ozus Variation eines Stoffes und schützt vor einer falschen Fortsetzungsannahme.",
-      "feedback": ["", "", "", ""],
-      "films": ["Banshun|1949", "Akibiyori|1960"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Banshun|1949",
+        "Akibiyori|1960"
+      ],
       "extraSources": [
         "https://www.criterion.com/current/posts/634",
         "https://www.criterion.com/films/298-late-spring"
-      ]
+      ],
+      "objective": "Hara erlebt den verwandten Heiratskonflikt erst als Tochter, später als Mutter."
     },
     {
       "code": "E2",
@@ -177,14 +220,21 @@
       "correct": 3,
       "short": "Kikuko findet eine enge Beziehung zu ihrem Schwiegervater Shingo (Sō Yamamura).",
       "context": "Kikuko lebt mit ihrem Mann und dessen Eltern zusammen. Während ihr Mann Shuichi (Ken Uehara) sie mit anderen Frauen betrügt, entwickelt sich zwischen ihr und seinem Vater eine tiefe, komplizierte Nähe. Mikio Naruses Film verlagert damit Aufmerksamkeit innerhalb derselben Familie. Die gemeinsame Wohnung hält die Ehe äußerlich zusammen, bietet Kikuko aber auch einen anderen Menschen, der ihre Einsamkeit wahrnimmt.",
-      "anchor": "In Kikukos Ehekrise wird der Schwiegervater zur wichtigen Bezugsperson.",
       "interest": "Der Familienzusammenhang erschließt eine prägende Naruse-Rolle und deren ungewöhnlichen emotionalen Mittelpunkt.",
-      "feedback": ["", "", "", ""],
-      "films": ["Yama no oto|1954"],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "films": [
+        "Yama no oto|1954"
+      ],
       "extraSources": [
         "https://bampfa.org/event/sound-mountain",
         "https://www.tcm.com/articles/1303369/sound-of-the-mountain"
-      ]
+      ],
+      "objective": "In Kikukos Ehekrise wird der Schwiegervater zur wichtigen Bezugsperson."
     }
   ]
 }

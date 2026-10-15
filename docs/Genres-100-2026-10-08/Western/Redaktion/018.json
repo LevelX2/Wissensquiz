@@ -35,12 +35,12 @@
       ],
       "short": "Die Verbündeten kämpfen gegen französische Truppen in Mexiko.",
       "context": "Hogan (Clint Eastwood) begegnet Sara (Shirley MacLaine) während der französischen Intervention in Mexiko. Sie unterstützt die Juaristen, die gegen die Besatzung kämpfen. Hogan hat zunächst vor allem seinen eigenen Vorteil im Blick, lässt sich aber auf die Zusammenarbeit ein. Ihre Reise führt deshalb nicht nur zu persönlichen Auseinandersetzungen, sondern zu einem gemeinsamen Angriff auf eine französische Garnison.",
-      "anchor": "Die Reise mündet in einen Angriff auf die französische Besatzung.",
       "interest": "Die konkrete Gegenseite macht die zentrale Konfliktlage zugänglich.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Die Reise mündet in einen Angriff auf die französische Besatzung."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Hogan hilft gegen eine Beteiligung an der Beute.",
       "context": "Hogan (Clint Eastwood) unterstützt die mexikanischen Revolutionäre nicht zunächst aus derselben Überzeugung wie Sara (Shirley MacLaine). Er vereinbart eine Beteiligung am Geld der französischen Garnison. Die Aussicht auf Beute verbindet sein Vorhaben mit Saras Wissen über die Festung. So entsteht eine Zusammenarbeit zwischen persönlichem Gewinninteresse und politischem Engagement, bei der beide zunächst nicht alle Absichten und Hintergründe des anderen kennen.",
-      "anchor": "Für Hogan ist der Angriff zunächst ein bezahlter Auftrag.",
       "interest": "Die Bezahlung unterscheidet sein Motiv von Saras Engagement.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Für Hogan ist der Angriff zunächst ein bezahlter Auftrag."
     },
     {
       "code": "M1",
@@ -83,11 +83,11 @@
       ],
       "short": "Sara versorgt den verletzten Hogan mithilfe von Whiskey.",
       "context": "Hogan (Clint Eastwood) wird auf dem Weg zu einem Sabotageeinsatz von einem Pfeil in die Schulter getroffen. Sara (Shirley MacLaine) muss die Verletzung versorgen und gibt ihm dafür reichlich Whiskey. Seine Betrunkenheit lockert zugleich die Kontrolle über seine Worte: Er spricht seine Anziehung zu ihr aus. Die Versorgung bringt die beiden einander näher, obwohl seine Vorstellungen über ihre Identität noch nicht stimmen.",
-      "anchor": "Whiskey verbindet die Notversorgung mit Hogans ungeschütztem Reden.",
       "interest": "Die konkrete Versorgung erklärt eine Veränderung ihrer Beziehung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Whiskey verbindet die Notversorgung mit Hogans ungeschütztem Reden."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Der verletzte Hogan ist auf Saras Klettereinsatz angewiesen.",
       "context": "Die geplante Zerstörung eines französischen Munitionszugs verlangt, dass die Sprengladung hoch am Eisenbahngerüst angebracht wird. Hogan (Clint Eastwood) kann mit seiner verletzten Schulter nicht hinaufklettern. Sara (Shirley MacLaine) hat Angst vor der Höhe, übernimmt die Aufgabe aber dennoch. Die Szene kehrt ihre anfängliche Schutzbeziehung um: Der bewaffnete Begleiter braucht nun ihre konkrete Hilfe, damit der gemeinsame Einsatz gelingen kann.",
-      "anchor": "Die Schulterverletzung macht Saras Mut zum entscheidenden Beitrag.",
       "interest": "Die körperliche Einschränkung verändert die Aufgabenverteilung.",
       "sources": [
         "handlung",
         "afi"
-      ]
+      ],
+      "objective": "Die Schulterverletzung macht Saras Mut zum entscheidenden Beitrag."
     },
     {
       "code": "S1",
@@ -130,13 +130,13 @@
       ],
       "short": "Saras Nonnentracht ist eine Tarnung.",
       "context": "Sara (Shirley MacLaine) hat Hogan (Clint Eastwood) in dem Glauben gelassen, sie sei eine Nonne. Tatsächlich arbeitet sie als Prostituierte und hilft den Juaristen. Die Kleidung schützt sie auf ihrer gefährlichen Reise und beeinflusst Hogans Bereitschaft, sie zu begleiten. Mit der Offenbarung ändern sich auch seine Vorstellungen über die mögliche Beziehung. Ihr Einsatz gegen die französische Besatzung war dagegen keine erfundene Rolle.",
-      "anchor": "Die Tracht ist erfunden, das Engagement für die Rebellen nicht.",
       "interest": "Die Enthüllung unterscheidet äußere Rolle und wirkliche Motivation.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Tracht ist erfunden, das Engagement für die Rebellen nicht."
     },
     {
       "code": "S2",
@@ -155,13 +155,13 @@
       ],
       "short": "Die vermeintliche Auslieferung öffnet den Zugang zur Festung.",
       "context": "Hogan (Clint Eastwood) bringt Sara (Shirley MacLaine) scheinbar als gefangene Gesuchte zur französischen Festung. Die Wachmannschaft soll glauben, er wolle die Belohnung kassieren. Dadurch gelangen beide ins Innere, während die Revolutionäre den Angriff vorbereiten. Der Plan nutzt also Saras tatsächliche Verfolgung für eine falsche Auslieferung. Ihr Zusammenwirken verbindet die Täuschung der Bewacher mit dem anschließenden militärischen Zugriff.",
-      "anchor": "Eine gesuchte Frau wird zur Schlüsselrolle der falschen Auslieferung.",
       "interest": "Die Schlusslist erklärt den Übergang vom Wissen über das Fort zum Angriff.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine gesuchte Frau wird zur Schlüsselrolle der falschen Auslieferung."
     },
     {
       "code": "Y",
@@ -180,12 +180,12 @@
       ],
       "short": "1968 Coogans großer Bluff, 1970 Ein Fressen für die Geier: zwei Jahre.",
       "context": "Don Siegel und Clint Eastwood arbeiteten 1968 bei „Coogans großer Bluff“ erstmals zusammen. „Ein Fressen für die Geier“ erschien 1970, zwei Jahre später. Der erste Film versetzt einen Gesetzeshüter aus Arizona nach New York; der spätere Western bringt einen eigennützigen Schützen mit einer Unterstützerin mexikanischer Revolutionäre zusammen. Die beiden belegten Veröffentlichungsjahre machen den frühen Abschnitt ihrer Zusammenarbeit zeitlich greifbar.",
-      "anchor": "1968 erste Siegel-Eastwood-Zusammenarbeit, 1970 mexikanischer Western.",
       "interest": "Eine konkrete Werkverbindung trägt den Jahresanker.",
       "sources": [
         "afi",
         "anker"
-      ]
+      ],
+      "objective": "1968 erste Siegel-Eastwood-Zusammenarbeit, 1970 mexikanischer Western."
     },
     {
       "code": "D",
@@ -204,11 +204,11 @@
       ],
       "short": "Don Siegel führte Hauptregie.",
       "context": "Don Siegel inszenierte den Film nach Albert Maltz’ Drehbuch und einer ursprünglichen Geschichte von Budd Boetticher. AFI unterscheidet diese Urheberschaften ebenso wie Joseph Cavalier und René Cardona als Regisseure der zweiten Einheit. Clint Eastwood spielt Hogan, Shirley MacLaine Sara. Boettichers früherer Plan, selbst Regie zu führen, gehört zur Entwicklung des Projekts und macht ihn nicht zum Hauptregisseur der veröffentlichten Fassung.",
-      "anchor": "Siegel inszeniert, Maltz adaptiert, Boetticher liefert die Geschichte.",
       "interest": "Die Produktionsgeschichte verlangt eine klare Trennung der Credits.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Siegel inszeniert, Maltz adaptiert, Boetticher liefert die Geschichte."
     }
   ]
 }

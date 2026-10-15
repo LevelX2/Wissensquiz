@@ -35,12 +35,12 @@
       ],
       "short": "Renfields Auftrag betrifft die Pacht von Carfax Abbey in England.",
       "context": "Renfield (Dwight Frye) kommt zunächst als geschäftlicher Besucher zu Dracula (Bela Lugosi). Er soll die Pacht von Carfax Abbey in England regeln. Die Reise ist deshalb kein freiwilliger Besuch bei einem bekannten Vampir. Das gewöhnliche Immobiliengeschäft schafft den Kontakt, aus dem seine Abhängigkeit entsteht. In dieser Fassung übernimmt Renfield die Schlossreise, während John Harker (David Manners) später in England zur Handlung gehört.",
-      "anchor": "Eine Immobilienpacht führt Renfield zum Grafen.",
       "interest": "Erfasst den konkreten Ausgangsauftrag dieser Filmfassung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Eine Immobilienpacht führt Renfield zum Grafen."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Renfield ist von Fliegen und Spinnen als Nahrung besessen.",
       "context": "Renfield (Dwight Frye) fällt in der Anstalt durch seine Jagd auf Fliegen und Spinnen auf. Das Verhalten macht seine veränderte Verfassung sichtbar, bevor alle Beteiligten die Verbindung zum Grafen verstehen. Dr. Seward (Herbert Bunston) untersucht ihn als Patienten. Van Helsing (Edward Van Sloan) betrachtet seine Auffälligkeiten hingegen im Zusammenhang mit dem Vampirverdacht, der sich auch durch andere Ereignisse im Haus verdichtet.",
-      "anchor": "Fliegen und Spinnen verraten Renfields verändertes Verhalten.",
       "interest": "Bietet einen konkreten Einstieg in die Anstaltsgeschichte.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Fliegen und Spinnen verraten Renfields verändertes Verhalten."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Der Spiegel im Deckel einer Zigarettenschachtel zeigt den Grafen nicht.",
       "context": "Van Helsing (Edward Van Sloan) beobachtet Dracula (Bela Lugosi) während eines Besuchs im Haus. Der verspiegelte Deckel einer Zigarettenschachtel liefert einen handfesten Hinweis: Der Gast erscheint darin nicht. Als der Professor ihn damit konfrontiert, zerstört der Graf den Spiegel. Ein kleines gesellschaftliches Gebrauchsobjekt verändert somit die Bedeutung der höflichen Begegnung und stützt den zuvor nur vermuteten Zusammenhang zwischen dem Besucher und den Angriffen.",
-      "anchor": "Die Zigarettenschachtel wird zum Beweisstück.",
       "interest": "Fragt den konkreten Gegenstand statt einer allgemeinen Vampirregel.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die Zigarettenschachtel wird zum Beweisstück."
     },
     {
       "code": "M2",
@@ -106,11 +106,11 @@
       ],
       "short": "Mina wird mit Wolfsbann geschützt.",
       "context": "Van Helsing (Edward Van Sloan) lässt Mina (Helen Chandler) beim Schlafen durch Wolfsbann schützen. Der Schutz funktioniert nur, solange er am vorgesehenen Ort bleibt. Dracula (Bela Lugosi) beeinflusst die betreuende Frau und lässt ihn entfernen, um wieder Zugang zu erhalten. Die Bedrohung durchbricht damit nicht einfach eine feste magische Grenze: Sie benutzt einen Menschen im Haus, um die Vorsichtsmaßnahme außer Kraft zu setzen.",
-      "anchor": "Wolfsbann schützt Mina, solange niemand ihn entfernt.",
       "interest": "Erfasst die konkrete Schutzmaßnahme dieser Fassung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Wolfsbann schützt Mina, solange niemand ihn entfernt."
     },
     {
       "code": "S1",
@@ -129,11 +129,11 @@
       ],
       "short": "Dracula lockt Renfield mit einer ungeheuren Menge Ratten.",
       "context": "Renfield (Dwight Frye) berichtet vom Versprechen des Grafen, ihm zahlreiche Ratten zu geben. Für den Patienten, der kleinere Lebewesen als Nahrung sucht, ist dieses Angebot ein wirksames Lockmittel. Dracula (Bela Lugosi) nutzt also nicht nur unmittelbare Hypnose, sondern auch ein Begehren seines Helfers. Die Erzählung erklärt dadurch einen weiteren Weg, auf dem die Abhängigkeit den Zugang zum Haus ermöglicht.",
-      "anchor": "Das Rattenversprechen macht Renfields Begehren zur Falle.",
       "interest": "Erfasst ein konkretes Verführungsmittel neben der unmittelbaren Kontrolle.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Rattenversprechen macht Renfields Begehren zur Falle."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Dracula hält die Verfolgung für Renfields Verrat.",
       "context": "Van Helsing (Edward Van Sloan) und John Harker (David Manners) folgen Renfield (Dwight Frye) nach Carfax Abbey. Als Dracula (Bela Lugosi) ihre Anwesenheit bemerkt, nimmt er an, sein Helfer habe sie absichtlich dorthin gebracht. Er stößt Renfield die Treppe hinunter. Die Verfolgung führt damit nicht nur zur Konfrontation mit dem Vampir: Sie löst auch eine tödliche Fehlinterpretation innerhalb seines eigenen Abhängigkeitsverhältnisses aus.",
-      "anchor": "Die Verfolger kommen, der Graf vermutet Verrat.",
       "interest": "Erklärt die unmittelbare Ursache einer zentralen Todesfolge.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Verfolger kommen, der Graf vermutet Verrat."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Die englische Universal-Fassung erschien 1931.",
       "context": "Bela Lugosi spielte Dracula bereits bei der amerikanischen Bühnenpremiere von 1927. Der englischsprachige Universal-Film erschien 1931, vier Jahre später. AFI dokumentiert diesen Bühnenvorlauf. Der zeitliche Zusammenhang erklärt, warum die Darstellung nicht erst am Filmset begann: Lugosi brachte Erfahrung mit der Rolle mit. Die gleichzeitig entstandene spanische Filmfassung besitzt eine andere Besetzung und einen anderen Regisseur, gehört also nicht zu dieser Zuordnung.",
-      "anchor": "Lugosis US-Bühnenrolle 1927, Film 1931: vier Jahre.",
       "interest": "Verbindet das Erstjahr mit dem belegten Bühnenvorlauf.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Lugosis US-Bühnenrolle 1927, Film 1931: vier Jahre."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Tod Browning führte bei der englischen Fassung Hauptregie.",
       "context": "Tod Browning inszenierte die englische Universal-Fassung. Parallel entstand eine spanische Version unter George Melfords Regie, die ebenfalls Studiodekorationen nutzte, aber eine andere Besetzung hatte. Karl Freund ist beim englischen Film als Kameramann geführt. Für die Regiezuordnung zählt deshalb die konkrete Sprachfassung und ihr veröffentlichter Hauptcredit, nicht die gemeinsame Studioproduktion oder eine Verwechslung zwischen Kameraarbeit und Hauptregie.",
-      "anchor": "Englische Fassung: Tod Browning; spanische Fassung: George Melford.",
       "interest": "Grenzt die gleichzeitigen Sprachproduktionen fachlich ab.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Englische Fassung: Tod Browning; spanische Fassung: George Melford."
     }
   ],
   "rank": 2

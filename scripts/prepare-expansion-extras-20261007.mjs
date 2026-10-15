@@ -129,7 +129,7 @@ const filmFor = (reference) => {
   };
 };
 const fields =
-  "question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,memory_anchor,spoiler_level,source_urls,verification_status,person_id,person_name,person_name_before_answer,film_refs".split(
+  "question_id,knowledge_id,variant_of,language,domain,subdomain,film_title_de,film_title_original,film_year,franchise,difficulty,question_type,topic_tags,badge_tags,learning_objective,question,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation_short,explanation_context,feedback_a,feedback_b,feedback_c,feedback_d,spoiler_level,source_urls,verification_status,person_id,person_name,person_name_before_answer,film_refs".split(
     ",",
   );
 const editorial = { reviewedOn: "2026-10-07", questions: {} },
@@ -186,7 +186,6 @@ function assemble(entries, kind) {
       );
       assert(
         q.short &&
-          q.anchor &&
           q.interest &&
           q.context.split(/\s+/).length >= 35,
         "Editorial depth " + id,
@@ -240,12 +239,11 @@ function assemble(entries, kind) {
           q.type ?? (person ? "Personenwissen" : "Preisgeschichte"),
         topic_tags: person ? "Schauspieler" : "Preisträger",
         badge_tags: person ? "Schauspieler" : "Preisträger",
-        learning_objective: q.objective ?? q.anchor,
+        learning_objective: q.objective ?? q.short,
         question: q.question,
         correct_answer: "ABCD"[offset],
         explanation_short: q.short,
         explanation_context: q.context,
-        memory_anchor: q.anchor,
         spoiler_level: q.spoiler ?? "mittel",
         source_urls: sources.join("|"),
         verification_status: "redaktionell_quellengeprueft",

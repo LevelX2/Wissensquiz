@@ -34,11 +34,11 @@
       ],
       "short": "Gray übernachtet zunächst in einem Gasthof.",
       "context": "Allan Gray (Julian West) kommt am Abend in die Gegend von Courtempierre und mietet ein Zimmer in einem Gasthof. Ein gewöhnlicher Reisehalt wird dort zum Ausgangspunkt verstörender Ereignisse. Ein älterer Mann betritt später trotz verschlossener Tür sein Zimmer. Die Unterkunft bietet damit keine sichere Grenze gegen das Fremde. Der Film beginnt mit einem überschaubaren Ort, dessen vertraute Regeln schon in der Nacht unsicher werden.",
-      "anchor": "Der Gasthof bietet ein Zimmer, aber keine sichere Grenze.",
       "interest": "Verankert den konkreten Einstieg ohne eine Titelantwort abzufragen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Gasthof bietet ein Zimmer, aber keine sichere Grenze."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Das Paket soll erst nach dem Tod des Überbringers geöffnet werden.",
       "context": "Der Gutsherr (Maurice Schutz) hinterlässt Allan Gray (Julian West) ein Paket mit einer ungewöhnlichen Anweisung: Es soll erst nach seinem Tod geöffnet werden. Später erkennt Gray den Mann wieder, als dieser auf seinem Anwesen erschossen wird. Die Übergabe verbindet dadurch die zunächst rätselhafte nächtliche Begegnung mit dem weiteren Geschehen. Aus einem verschlossenen Gegenstand wird ein Hilfsmittel, dessen Bedeutung erst nach dem Todesfall zugänglich ist.",
-      "anchor": "Der Tod des Überbringers öffnet den Weg zum Paket.",
       "interest": "Verbindet eine frühe Anweisung mit dem späteren Handlungsablauf.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Tod des Überbringers öffnet den Weg zum Paket."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Gray spendet Blut für Léones Transfusion.",
       "context": "Léone (Sybille Schmitz) ist schwer geschwächt. Der Arzt (Jan Hieronimko) fordert eine Bluttransfusion, und Allan Gray (Julian West) stellt sein eigenes Blut zur Verfügung. Danach ist er erschöpft und schläft ein. Die Hilfsbereitschaft bringt ihn damit selbst in einen Zustand verminderter Aufmerksamkeit. Während er ruht, liest der alte Diener (Albert Bras) das Vampirbuch und findet darin Hinweise für das weitere Vorgehen.",
-      "anchor": "Die Blutspende hilft Léone und erschöpft Gray.",
       "interest": "Erfasst einen konkreten Hilfsbeitrag mit einer unmittelbaren Folge.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Blutspende hilft Léone und erschöpft Gray."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Die Vision zeigt den Blick aus einem Sarg mit Fenster.",
       "context": "Allan Gray (Julian West) erlebt eine Vision, in der er sich selbst als Toten im Sarg sieht. Ein Fenster im Deckel erlaubt den Blick nach außen, während der Sarg getragen wird. Die Bildfolge versetzt das Publikum dadurch in die Position des scheinbar Begrabenen. Die Frage behandelt diese besondere Wahrnehmung, nicht die Behauptung, Gray sei innerhalb der weiteren Handlung tatsächlich dauerhaft gestorben.",
-      "anchor": "Das Sargfenster macht die eigene Beerdigung von innen sichtbar.",
       "interest": "Erschließt ein präzises visuelles Mittel der unheimlichen Perspektive.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Sargfenster macht die eigene Beerdigung von innen sichtbar."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Der Schatten bewegt sich unabhängig von seinem Körper.",
       "context": "Allan Gray (Julian West) folgt dem Schatten eines Mannes mit Holzbein bis in eine verlassene Fabrik. Dort sieht er, wie Schatten und Körper wieder zusammenkommen. Die gewöhnliche Beziehung zwischen Mensch und Schatten wird damit aufgehoben. Der Vorgang erklärt keine allgemeingültige Traumtheorie, sondern zeigt eine konkrete Störung der sichtbaren Welt. Gray und das Publikum müssen einem Bild folgen, das sich nicht an die gewohnte räumliche Ordnung hält.",
-      "anchor": "Der Schatten geht voraus und findet seinen Körper wieder.",
       "interest": "Erfasst eine konkrete Gestaltung statt einer pauschalen Traumdeutung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Schatten geht voraus und findet seinen Körper wieder."
     },
     {
       "code": "S2",
@@ -149,12 +149,12 @@
       ],
       "short": "Der Arzt erstickt in einer mit Mehl gefüllten Kammer.",
       "context": "Der Arzt (Jan Hieronimko) versucht sich in der Mühle zu verstecken. Der alte Diener (Albert Bras) schließt ihn in einer Kammer ein und setzt die Anlage in Gang. Das herabströmende Mehl füllt den Raum und erstickt den Eingeschlossenen. Die Sequenz wurde für einige historische Auswertungen gekürzt. In der restaurierten deutschen Fassung lässt sich ihr Ablauf wieder verfolgen; die Länge einzelner Kopien bleibt davon zu unterscheiden.",
-      "anchor": "Das Mehl der Mühle wird zur tödlichen Füllung.",
       "interest": "Verbindet Schauplatzfunktion und Schlussfolge unter klarer Fassungsgrenze.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Mehl der Mühle wird zur tödlichen Füllung."
     },
     {
       "code": "Y",
@@ -173,13 +173,13 @@
       ],
       "short": "Vampyr wurde erstmals 1932 öffentlich gezeigt.",
       "context": "Sheridan Le Fanus Erzählung Carmilla erschien 1872 und gehört zu den literarischen Quellen des Films. Vampyr wurde 1932 öffentlich gezeigt, 60 Jahre später. Criterion führt die Erzählung ausdrücklich als Quelle in der Editionsbeschreibung an. Der Film übernimmt daraus keinen bloß vollständig abgefilmten Handlungsverlauf. Der Anker verbindet vielmehr einen datierten literarischen Vorlauf mit Dreyers eigenständiger, durch Schatten, Geräusche und Visionen geprägter Filmwelt.",
-      "anchor": "Carmilla 1872, Vampyr 1932: 60 Jahre.",
       "interest": "Verbindet das Erstjahr mit einer konkret datierten Stoffquelle.",
       "sources": [
         "criterion",
         "bfi_program",
         "film"
-      ]
+      ],
+      "objective": "Carmilla 1872, Vampyr 1932: 60 Jahre."
     },
     {
       "code": "D",
@@ -198,13 +198,13 @@
       ],
       "short": "Carl Theodor Dreyer führte allein Hauptregie.",
       "context": "Carl Theodor Dreyer inszenierte den Film und schrieb gemeinsam mit Christen Jul das Drehbuch. Die veröffentlichten Credits trennen diese Mitarbeit von der Hauptregie. Der Film organisiert den Schrecken nicht nur über einen sichtbaren Gegner, sondern über Schatten, ungewöhnliche Blickrichtungen und eine unsichere Wahrnehmung. Die Sprachfassungen und späteren Bearbeitungen besitzen unterschiedliche Präsentationen; sie machen aus dem ursprünglichen Hauptcredit jedoch kein gemeinsames Regieteam.",
-      "anchor": "Dreyer führt Regie in einer Welt unsicherer Wahrnehmung.",
       "interest": "Ordnet den Hauptcredit und die gemeinsame Schreibarbeit auseinander.",
       "sources": [
         "criterion",
         "bfi_program",
         "film"
-      ]
+      ],
+      "objective": "Dreyer führt Regie in einer Welt unsicherer Wahrnehmung."
     }
   ],
   "rank": 7

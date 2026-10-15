@@ -32,12 +32,12 @@
       ],
       "short": "Asa und Katia gehören zur selben Familienlinie und gleichen einander.",
       "context": "Asa und Katia gehören zur selben Familienlinie und gleichen einander. Barbara Steele spielt beide Frauen; diese Ähnlichkeit ermöglicht später Asas Versuch, Katias Lebenskraft zu rauben und als sie aufzutreten.",
-      "anchor": "Die gleiche Erscheinung bereitet den Austauschversuch vor.",
       "interest": "Die gleiche Erscheinung bereitet den Austauschversuch vor.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die gleiche Erscheinung bereitet den Austauschversuch vor."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Die Masken werden als Hinrichtungswerkzeug eingeschlagen.",
       "context": "Die Masken werden als Hinrichtungswerkzeug eingeschlagen. Asa (Barbara Steele) verflucht ihre Familie; die körperliche Strafe eröffnet damit die spätere Rachegeschichte.",
-      "anchor": "Die Maske verbindet Hinrichtung und Fluch.",
       "interest": "Die Maske verbindet Hinrichtung und Fluch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Maske verbindet Hinrichtung und Fluch."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Kruvajans (Andrea Checchi) Blut trifft den Körper.",
       "context": "Kruvajans (Andrea Checchi) Blut trifft den Körper. Der Arzt hatte Schutzglas und Kreuz beschädigt; seine Untersuchung schafft dadurch den Zugang, den er als medizinisch neugieriger Besucher nicht beabsichtigt.",
-      "anchor": "Die unbedachte Untersuchung liefert Asa Blut und Zugang.",
       "interest": "Die unbedachte Untersuchung liefert Asa Blut und Zugang.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die unbedachte Untersuchung liefert Asa Blut und Zugang."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Der verwandelte Kruvajan (Andrea Checchi) beseitigt das schützende Kreuz.",
       "context": "Der verwandelte Kruvajan (Andrea Checchi) beseitigt das schützende Kreuz. Er tarnt den Eingriff als Sorge um den Kranken; die scheinbare ärztliche Hilfe bereitet dessen Ermordung vor.",
-      "anchor": "Die medizinisch begründete Entfernung beseitigt den Schutz.",
       "interest": "Die medizinisch begründete Entfernung beseitigt den Schutz.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die medizinisch begründete Entfernung beseitigt den Schutz."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Asa (Barbara Steele) beansprucht Katias Jugend.",
       "context": "Asa (Barbara Steele) beansprucht Katias Jugend. Katia (ebenfalls Steele) ist deshalb mehr als eine zufällige Gegnerin: Ihre Ähnlichkeit macht sie zum passenden Träger eines geraubten Lebens.",
-      "anchor": "Die Ähnlichkeit bestimmt das Opfer für Asas Körpererneuerung.",
       "interest": "Die Ähnlichkeit bestimmt das Opfer für Asas Körpererneuerung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Ähnlichkeit bestimmt das Opfer für Asas Körpererneuerung."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Katia trägt das Kreuz ohne Schaden.",
       "context": "Katia (Barbara Steele) trägt das Kreuz ohne Schaden. Gorobec (John Richardson) erkennt dadurch den Widerspruch in Asas Behauptung; erst anschließend enthüllt er Asas skelettartigen Körper unter dem Gewand.",
-      "anchor": "Der Kreuztest widerspricht der behaupteten Rollenvertauschung.",
       "interest": "Der Kreuztest widerspricht der behaupteten Rollenvertauschung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Kreuztest widerspricht der behaupteten Rollenvertauschung."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 1960 erstmals veröffentlicht.",
       "context": "1960 erschien Bavas offizielles Regiedebüt. Gogols Erzählung Wij von 1835 liegt 125 Jahre davor; Bava übernahm sie frei und machte die Wiederkehr einer hingerichteten Hexe zum Zentrum der Filmhandlung.",
-      "anchor": "Gogols Erzählung von 1835 wurde 125 Jahre später, 1960, frei als Bavas Regiedebüt bearbeitet.",
       "interest": "Gogols Erzählung von 1835 wurde 125 Jahre später, 1960, frei als Bavas Regiedebüt bearbeitet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gogols Erzählung von 1835 wurde 125 Jahre später, 1960, frei als Bavas Regiedebüt bearbeitet."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Mario Bava.",
       "context": "Bava führte Regie und verantwortete auch die Kamera. Barbara Steele spielt die verfluchte Asa und die bedrohte Katia; die doppelte Besetzung macht die beanspruchte Ähnlichkeit der Frauen unmittelbar sichtbar.",
-      "anchor": "Bava führte Regie und verantwortete auch die Kamera.",
       "interest": "Bava führte Regie und verantwortete auch die Kamera.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bava führte Regie und verantwortete auch die Kamera."
     }
   ]
 }

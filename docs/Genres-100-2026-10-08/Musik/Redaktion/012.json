@@ -33,11 +33,11 @@
       ],
       "short": "John hört Esther in einem kleinen Club.",
       "context": "John Norman Howard (Kris Kristofferson) erlebt Esther Hoffman (Barbra Streisand) als Sängerin in einem kleinen Club. Er kommt nach einem misslungenen eigenen Konzert dorthin und stört ihren Auftritt. Ein Streit mit einem Gast führt dazu, dass sie ihm hinaushelfen muss. Die Begegnung verbindet die musikalische Entdeckung mit Johns unberechenbarem Verhalten, das auch später ihre gemeinsame Geschichte belasten wird.",
-      "anchor": "Ihr Clubauftritt trifft auf seinen schlechten Konzertabend.",
       "interest": "Die erste Begegnung zeigt zugleich Talent und problematisches Verhalten.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ihr Clubauftritt trifft auf seinen schlechten Konzertabend."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "John kommt bei einem Autounfall ums Leben.",
       "context": "John Norman Howard (Kris Kristofferson) fährt am Morgen allein von der Ranch fort und verunglückt mit seinem Auto. Esther Hoffman (Barbra Streisand) wird zum Unfallort gebracht und versucht noch, Nähe zu dem toten Mann herzustellen. Für diese Fassung ist der Autounfall der konkrete Befund. Die Frage legt keine zusätzliche Absicht fest und verwechselt ihn auch nicht mit Todesarten aus anderen Verfilmungen.",
-      "anchor": "Das Auto beendet Johns Geschichte, die Musik bleibt.",
       "interest": "Die konkrete Todesart unterscheidet diese Filmfassung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Auto beendet Johns Geschichte, die Musik bleibt."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "John stört Esthers Grammy-Ehrung.",
       "context": "Esther Hoffman (Barbra Streisand) erhält einen Grammy, während John Norman Howard (Kris Kristofferson) beruflich immer weiter scheitert. Er erscheint betrunken, greift zum Mikrofon und fordert spöttisch eine Auszeichnung für die schlechteste Leistung. Ihr öffentlicher Erfolg wird so zum Schauplatz seiner Krise. Die Szene zeigt nicht bloß ungleich verlaufende Karrieren, sondern wie seine Selbstzerstörung einen für sie wichtigen Moment beschädigt.",
-      "anchor": "Ihr Preisabend wird von seiner Krise überschattet.",
       "interest": "Die Auszeichnung verbindet beruflichen Aufstieg und privaten Konflikt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ihr Preisabend wird von seiner Krise überschattet."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Esther nimmt einen Werbejingle auf.",
       "context": "John Norman Howard (Kris Kristofferson) besucht den Radiosender nach seinem Konflikt mit dem Moderator Bebe Jesus (M. G. Kelly). Dort trifft er Esther Hoffman (Barbra Streisand) bei der Aufnahme eines Werbejingles mit ihrer Gruppe wieder. Die Szene zeigt ihren musikalischen Arbeitsalltag vor dem großen Durchbruch. Zugleich führt der Besuch, der eigentlich Johns beschädigtes Verhältnis zum Sender reparieren soll, die Liebesgeschichte weiter.",
-      "anchor": "Der Werbejingle führt die beiden wieder zusammen.",
       "interest": "Eine konkrete Arbeitssituation ergänzt die erste Clubbegegnung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Werbejingle führt die beiden wieder zusammen."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Sie wird als Esther Hoffman-Howard angekündigt.",
       "context": "Beim Gedenkkonzert für John Norman Howard (Kris Kristofferson) tritt Esther Hoffman (Barbra Streisand) unter dem verbundenen Namen Esther Hoffman-Howard auf. Sie bewahrt damit ihre eigene Identität und trägt zugleich die Beziehung zu dem verstorbenen Mann in den öffentlichen Auftritt. Die anschließende Musik übernimmt Material seiner Geschichte in ihre Stimme. Der Name gehört somit zum persönlichen Rahmen dieses letzten Bühnenmoments.",
-      "anchor": "Der Schlussname verbindet ihre Identität mit der gemeinsamen Geschichte.",
       "interest": "Die konkrete Ansage verdeutlicht die Bedeutung des Gedenkauftritts.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Schlussname verbindet ihre Identität mit der gemeinsamen Geschichte."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Streisands Kleidung stammt laut Credit aus ihrem eigenen Kleiderschrank.",
       "context": "AFI dokumentiert den ungewöhnlichen Hinweis, dass Barbra Streisands Kleidung aus ihrem eigenen Kleiderschrank stammt. Damit ist ein sichtbarer Teil der Figur Esther Hoffman (Barbra Streisand) von der persönlichen Garderobe ihrer Darstellerin geprägt. Der Credit beschreibt die Herkunft der Kleidungsstücke und keine allgemeine Behauptung über sämtliche Kostüme des Films. Er macht nachvollziehbar, warum Esthers Auftreten eine Nähe zu Streisands eigenem Stil besitzt.",
-      "anchor": "Der Kleiderschrank der Darstellerin wird Teil der Figur.",
       "interest": "Ein konkreter Credit erklärt die persönliche Gestaltung der Kleidung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Der Kleiderschrank der Darstellerin wird Teil der Figur."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Die Streisand-Kristofferson-Fassung erschien 1976.",
       "context": "„A Star Is Born“ mit Barbra Streisand erschien 1976; ihr eigenes Regiedebüt „Yentl“ folgte 1983, sieben Jahre später. Die beiden Filme zeigen unterschiedliche Formen des Musicals: Hier entsteht die Musik überwiegend in Auftritts- und Arbeitssituationen, dort drückt Gesang die innere Stimme der Hauptfigur aus. Der zeitliche Abstand verbindet Streisands Künstlerdrama mit ihrem später selbst inszenierten Bildungs- und Liebesdrama.",
-      "anchor": "1976 Künstlerdrama → 1983 „Yentl“: sieben Jahre.",
       "interest": "Der Anker ordnet diese Fassung in Streisands Filmkarriere ein.",
       "sources": [
         "afi",
         "yentl"
-      ]
+      ],
+      "objective": "1976 Künstlerdrama → 1983 „Yentl“: sieben Jahre."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Frank Pierson führte Regie.",
       "context": "Frank Pierson inszeniert die Musikfassung und ist zugleich einer der Drehbuchautoren. Barbra Streisand übernimmt die weibliche Hauptrolle und wird als ausführende Produzentin geführt; das macht sie nicht zur Hauptregisseurin. AFI trennt diese Credits ausdrücklich. Ebenso gehören die Regisseure anderer Verfilmungen jeweils zu ihren eigenen Fassungen. Die Zuordnung zu Pierson verhindert, dass der gleiche Titel unterschiedliche Produktionsgeschichten vermischt.",
-      "anchor": "Pierson inszeniert die Streisand-Kristofferson-Fassung.",
       "interest": "Der Regiecredit trennt Hauptrolle, Produktion und verschiedene Adaptionen.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Pierson inszeniert die Streisand-Kristofferson-Fassung."
     }
   ]
 }

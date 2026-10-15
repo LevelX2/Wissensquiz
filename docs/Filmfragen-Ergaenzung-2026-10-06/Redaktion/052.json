@@ -32,12 +32,12 @@
       ],
       "short": "Das Fahrrad ist Voraussetzung für Antonios Arbeit als Plakatkleber.",
       "context": "Das Fahrrad ist Voraussetzung für Antonios Arbeit als Plakatkleber. Sein Verlust gefährdet daher unmittelbar den erhofften Lebensunterhalt der Familie.",
-      "anchor": "Das Fahrrad ist Antonios Arbeitsmittel.",
       "interest": "Das Fahrrad ist Antonios Arbeitsmittel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Fahrrad ist Antonios Arbeitsmittel."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Sein Sohn Bruno (Enzo Staiola) begleitet Antonio.",
       "context": "Sein Sohn Bruno (Enzo Staiola) begleitet Antonio (Lamberto Maggiorani). Das Kind erlebt die wachsende Verzweiflung des Vaters mit; die Suche prüft deshalb auch ihre Beziehung.",
-      "anchor": "Die Fahrradsuche wird zur gemeinsamen Erfahrung von Vater und Sohn.",
       "interest": "Die Fahrradsuche wird zur gemeinsamen Erfahrung von Vater und Sohn.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Fahrradsuche wird zur gemeinsamen Erfahrung von Vater und Sohn."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Maria verpfändet die Bettwäsche.",
       "context": "Maria (Lianella Carell) verpfändet die Bettwäsche. Der Verzicht schafft das Geld für Antonios (Lamberto Maggiorani) Arbeitsmittel; die Hoffnung auf Lohn beginnt mit einem Verlust im eigenen Haushalt.",
-      "anchor": "Bettwäsche wird gegen die Chance auf Arbeit getauscht.",
       "interest": "Bettwäsche wird gegen die Chance auf Arbeit getauscht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Bettwäsche wird gegen die Chance auf Arbeit getauscht."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Die Beweislage reicht nicht aus und die Nachbarschaft schützt den Verdächtigen.",
       "context": "Die Beweislage reicht nicht aus und die Nachbarschaft schützt den Verdächtigen. Antonios Überzeugung allein genügt nicht; sein tatsächlicher Verlust lässt sich im konkreten Fall nicht in einen sicheren Nachweis verwandeln.",
-      "anchor": "Den Täter zu erkennen bedeutet noch nicht, ihn überführen zu können.",
       "interest": "Den Täter zu erkennen bedeutet noch nicht, ihn überführen zu können.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Den Täter zu erkennen bedeutet noch nicht, ihn überführen zu können."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Antonio versucht selbst einen Fahrraddiebstahl.",
       "context": "Antonio (Lamberto Maggiorani) versucht selbst einen Fahrraddiebstahl. Die wirtschaftliche Not führt ihn zu derselben Tat, unter der er leidet; Bruno (Enzo Staiola) muss die öffentliche Demütigung mitansehen.",
-      "anchor": "Der Bestohlene wird selbst zum Dieb.",
       "interest": "Der Bestohlene wird selbst zum Dieb.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Bestohlene wird selbst zum Dieb."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Der Besitzer sieht Bruno (Enzo Staiola) weinen und verzichtet auf die Verfolgung.",
       "context": "Der Besitzer sieht Bruno (Enzo Staiola) weinen und verzichtet auf die Verfolgung. Die Freilassung beseitigt weder die Armut noch die beschämende Erfahrung; Vater und Sohn gehen gemeinsam weiter.",
-      "anchor": "Brunos Tränen verhindern die Verhaftung des Vaters.",
       "interest": "Brunos Tränen verhindern die Verhaftung des Vaters.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Brunos Tränen verhindern die Verhaftung des Vaters."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 1948 erstmals veröffentlicht.",
       "context": "1948 erschien der Film im Nachkriegsitalien. Luigi Bartolinis gleichnamiger Roman war 1946 veröffentlicht worden, zwei Jahre davor. Die Verfilmung übernimmt den Ausgangspunkt, gestaltet aber eine eigene Geschichte über Arbeit und familiäre Not.",
-      "anchor": "Bartolinis Roman von 1946 wurde zwei Jahre später, 1948, frei verfilmt.",
       "interest": "Bartolinis Roman von 1946 wurde zwei Jahre später, 1948, frei verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Bartolinis Roman von 1946 wurde zwei Jahre später, 1948, frei verfilmt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Vittorio De Sica.",
       "context": "De Sica arbeitete mit Cesare Zavattini am Drehbuch und drehte auf realen Schauplätzen. Lamberto Maggiorani war Fabrikarbeiter; die Besetzung mit Laiendarstellern verbindet sich mit dem neorealistischen Blick auf den Alltag.",
-      "anchor": "De Sica arbeitete mit Cesare Zavattini am Drehbuch und drehte auf realen Schauplätzen.",
       "interest": "De Sica arbeitete mit Cesare Zavattini am Drehbuch und drehte auf realen Schauplätzen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "De Sica arbeitete mit Cesare Zavattini am Drehbuch und drehte auf realen Schauplätzen."
     }
   ]
 }

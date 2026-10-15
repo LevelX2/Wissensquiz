@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Rico ist ein ehrgeiziger Gangster.",
       "context": "Rico will sich in der Unterwelt einen Namen machen und drängt auf eine führende Stellung. Sein Freund Joe Massara (Douglas Fairbanks Jr.) möchte dagegen Tänzer werden und das kriminelle Milieu verlassen. Die unterschiedlichen Ziele belasten die Freundschaft. Robinsons energischer Auftritt als Rico prägte einen Typ des frühen Tonfilmgangsters, dessen Machtstreben jede sichere Bindung gefährdet.",
-      "anchor": "Rico will Macht; Joe möchte der Gang entkommen.",
       "interest": "Die Rolle erschließt den Konflikt zwischen kriminellem Aufstieg und persönlicher Bindung.",
       "feedback": [
         "Rico ist ein ehrgeiziger Gangster.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/1125-LITTLE-CAESAR"
-      ]
+      ],
+      "objective": "Rico will Macht; Joe möchte der Gang entkommen."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Keyes prüft Versicherungsansprüche und spürt Betrugsfälle auf.",
       "context": "Walter Neff (Fred MacMurray) verkauft Versicherungen, während Keyes verdächtige Schadensfälle untersucht. Neff glaubt, die Arbeitsweise seines Freundes und Vorgesetzten für einen perfekten Mordplan nutzen zu können. Gerade die Nähe zu Keyes macht die Täuschung aber persönlich belastet. Robinson spielt hier den scharfsinnigen Gegenpol zum Täter, dessen berufliches Können den Plan zunehmend bedroht.",
-      "anchor": "Keyes erkennt Unstimmigkeiten hinter scheinbar plausiblen Schadensfällen.",
       "interest": "Die Funktion ordnet Robinson innerhalb des Betrugs- und Freundschaftskonflikts ein.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/2201-DOUBLE-INDEMNITY"
-      ]
+      ],
+      "objective": "Keyes erkennt Unstimmigkeiten hinter scheinbar plausiblen Schadensfällen."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Die Mordgeschichte erweist sich als Traum des Professors.",
       "context": "Wanley bewundert das Porträt einer Frau und scheint anschließend das Modell Alice Reed (Joan Bennett) zu treffen. Aus der Begegnung entwickelt sich eine Geschichte von Tötung, Vertuschung und Erpressung. Erst das Erwachen im Club ordnet diese Ereignisse neu ein. Vertraute Gesichter tauchen in der Wirklichkeit wieder auf; der sonst ordentliche Professor hat seine Wunschvorstellung als bedrohliches Abenteuer durchlebt.",
-      "anchor": "Wanleys Abenteuer kippt am Schluss in eine Traumdeutung.",
       "interest": "Die Auflösung erklärt, wie der Film Verlangen und Angst miteinander verbindet.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/24256-THE-WOMAN-IN-THE-WINDOW"
-      ]
+      ],
+      "objective": "Wanleys Abenteuer kippt am Schluss in eine Traumdeutung."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Ein Hurrikan schneidet das Hotel von der Außenwelt ab.",
       "context": "Rocco und seine Männer beherrschen das Hotel, in dem Kriegsveteran Frank McCloud (Humphrey Bogart) die Familie eines gefallenen Kameraden besucht. Der Sturm verdichtet die Bedrohung auf einen abgeschlossenen Raum. Rocco demonstriert Macht über Menschen, fürchtet aber selbst die Naturgewalt. Nach dem Unwetter ist sein Fluchtboot verschwunden, und er zwingt Frank zu einem neuen Transportplan.",
-      "anchor": "Der Sturm schließt Täter und Gefangene gemeinsam ein.",
       "interest": "Die Situation macht sichtbar, wo Roccos behauptete Überlegenheit ihre Grenzen erreicht.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25605-KEY-LARGO"
-      ]
+      ],
+      "objective": "Der Sturm schließt Täter und Gefangene gemeinsam ein."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 0,
       "short": "Dathan ist ein Hebräer, der als Aufseher auf Seiten der Unterdrücker arbeitet.",
       "context": "Dathan hilft dabei, die versklavten Arbeiter zu kontrollieren, und verfolgt eigene Vorteile. Auch nach dem Auszug widersetzt er sich Moses (Charlton Heston). Als dessen Rückkehr vom Berg ausbleibt, drängt Dathan die Menschen zur Rückkehr nach Ägypten und zum Götzenkult. Robinson spielt so einen Gegner innerhalb der Gemeinschaft, der Unsicherheit ausnutzt und Freiheit gegen vermeintliche Versorgungssicherheit ausspielt.",
-      "anchor": "Dathan bekämpft Moses aus den Reihen der Hebräer.",
       "interest": "Die Figur ergänzt den äußeren Konflikt mit dem Pharao um einen inneren Machtkampf.",
       "feedback": [
         "Dathan ist ein Hebräer, der als Aufseher auf Seiten der Unterdrücker arbeitet.",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/52028"
-      ]
+      ],
+      "objective": "Dathan bekämpft Moses aus den Reihen der Hebräer."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 1,
       "short": "Kitty March wird als Schöpferin von Chris’ Bildern ausgegeben.",
       "context": "Chris arbeitet als Kassierer und malt in seiner Freizeit. Kitty (Joan Bennett) und ihr Freund Johnny (Dan Duryea) nutzen sein Vertrauen aus und bringen die Bilder auf den Markt. Der Erfolg entsteht unter Kittys Namen, während Chris weiterhin für einen unbeachteten Amateur gehalten wird. Die Täuschung betrifft deshalb nicht nur Geld und Liebe, sondern auch die Anerkennung seiner tatsächlichen schöpferischen Arbeit.",
-      "anchor": "Chris malt, Kitty erhält den Künstlernamen auf den Bildern.",
       "interest": "Der Betrug verbindet persönliche Ausbeutung mit der Aneignung künstlerischer Leistung.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/24568-SCARLET-STREET"
-      ]
+      ],
+      "objective": "Chris malt, Kitty erhält den Künstlernamen auf den Bildern."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Sol ist ein Book, ein erfahrener Rechercheur für die Polizei.",
       "context": "Thorn (Charlton Heston) teilt seine Wohnung mit dem älteren Sol, dessen Wissen an eine frühere Welt anschließt. Bei der Mordermittlung arbeitet Sol mit anderen Rechercheuren und entdeckt eine erschütternde Wahrheit über die Nahrungsmittelproduktion. Seine Kenntnisse stehen gegen die verarmte Gegenwart der Stadt. Die Figur macht Erinnerung und sorgfältige Nachforschung zu einem Gegenpol der industriell verwalteten Versorgung.",
-      "anchor": "Sol bewahrt Wissen, das die Gegenwart verheimlichen möchte.",
       "interest": "Die Rolle zeigt den Wert älterer Erfahrung innerhalb einer dystopischen Gesellschaft.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Soylent_Green"
-      ]
+      ],
+      "objective": "Sol bewahrt Wissen, das die Gegenwart verheimlichen möchte."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 3,
       "short": "Das MoMA zeigte Gemälde aus Robinsons privater Kunstsammlung.",
       "context": "Ein zeitgenössischer Museumsplan kündigt vierzig ausgewählte Werke aus Robinsons Sammlung an. Begleitende Galeriegespräche behandelten unter anderem französische Kunst des 19. Jahrhunderts. Der Schauspieler war damit auch als ernsthafter Sammler sichtbar. Diese Tätigkeit erweitert den Blick auf eine Person, die im Kino häufig auf die energischen Gangsterrollen reduziert wird, außerhalb der Leinwand aber intensiv mit bildender Kunst verbunden war.",
-      "anchor": "Robinsons Kunstsammlung fand Eingang ins MoMA-Ausstellungsprogramm.",
       "interest": "Der Museumsbeleg erschließt eine eigenständige kulturelle Tätigkeit des Schauspielers.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       "extraSources": [
         "https://www.moma.org/docs/press_archives/1700/releases/MOMA_1953_0030_29.pdf",
         "https://en.wikipedia.org/wiki/Edward_G._Robinson"
-      ]
+      ],
+      "objective": "Robinsons Kunstsammlung fand Eingang ins MoMA-Ausstellungsprogramm."
     }
   ]
 }

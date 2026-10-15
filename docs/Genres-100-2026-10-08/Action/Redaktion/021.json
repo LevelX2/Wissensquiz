@@ -31,11 +31,11 @@
       ],
       "short": "Paul Kersey ist Architekt.",
       "context": "Paul Kersey (Charles Bronson) lebt als Architekt mit seiner Frau Joanna Kersey (Hope Lange) in Manhattan. Er ist zunächst ein ziviler Berufstätiger, dessen Leben durch den Überfall auf seine Familie zerstört wird. Eine Dienstreise zu einem Wohnbauprojekt in Tucson führt ihn später zum Schießen. Der Beruf verbindet seine anfängliche Normalität mit dem Kontakt, durch den er an eine Waffe gelangt.",
-      "anchor": "Kersey beginnt als ziviler Architekt.",
       "interest": "Der Beruf grenzt den Filmhelden von einem Polizisten oder Berufskiller ab.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Kersey beginnt als ziviler Architekt."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Joanna Kersey stirbt an den Folgen des Überfalls.",
       "context": "Joanna Kersey (Hope Lange) und Carol Kersey-Toby (Kathleen Tolan) werden nach dem Einkauf bis in ihre Wohnung verfolgt und angegriffen. Joanna stirbt im Krankenhaus; Carol bleibt schwer traumatisiert. Paul Kersey (Charles Bronson) muss deshalb gleichzeitig einen Todesfall und die anhaltenden Folgen für seine Tochter bewältigen. Der Film baut seinen späteren Weg in die Selbstjustiz auf dieser familiären Katastrophe auf.",
-      "anchor": "Joanna stirbt, Carol überlebt mit schweren Folgen.",
       "interest": "Die Unterscheidung ordnet den konkreten Verlust innerhalb der Familie.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Joanna stirbt, Carol überlebt mit schweren Folgen."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Ames Jainchill schenkt Paul den Revolver.",
       "context": "In Tucson arbeitet Paul Kersey (Charles Bronson) mit dem Immobilienentwickler Ames Jainchill (Stuart Margolin) zusammen. Beim gemeinsamen Schießen zeigt Paul seine Erfahrung. Vor dem Rückflug steckt Ames ihm ein Geschenk ins Gepäck: einen Revolver samt Munition. In New York öffnet Paul das Paket. Die Waffe gelangt damit durch einen beruflichen Kontakt in seine Hände und wird zum Werkzeug seiner Selbstjustiz.",
-      "anchor": "Das Tucson-Geschenk wird in New York zur Tatwaffe.",
       "interest": "Die Herkunft der Waffe verbindet Dienstreise und spätere Eskalation.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Tucson-Geschenk wird in New York zur Tatwaffe."
     },
     {
       "code": "M2",
@@ -100,11 +100,11 @@
       ],
       "short": "Kersey überträgt seine Vergeltung auf später angetroffene Straßenräuber.",
       "context": "Paul Kersey (Charles Bronson) sucht nach dem ersten tödlichen Zwischenfall weitere gefährliche Begegnungen in der Stadt. Er verfolgt dabei keine erfolgreich identifizierten Täter des ursprünglichen Familienüberfalls. Stattdessen schießt er auf andere Straßenräuber oder greift bei neuen Überfällen ein. Diese Verschiebung ist für das Selbstjustizthema entscheidend: Aus dem persönlichen Verlust entsteht ein allgemeiner privater Krieg gegen Kriminalität.",
-      "anchor": "Seine Selbstjustiz trifft neue Täter, nicht die aufgeklärten Familienangreifer.",
       "interest": "Der Zusammenhang unterscheidet Selbstjustiz von der Auflösung eines konkreten Rachefalls.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Seine Selbstjustiz trifft neue Täter, nicht die aufgeklärten Familienangreifer."
     },
     {
       "code": "S1",
@@ -123,11 +123,11 @@
       ],
       "short": "Die Behörden fürchten, Kersey könne zum Märtyrer für Nachahmer werden.",
       "context": "Inspector Frank Ochoa (Vincent Gardenia) nähert sich Paul Kersey (Charles Bronson) als Verdächtigem. Die Behördenleitung bremst ihn, weil sie öffentliche Aufmerksamkeit für die gesunkene Straßenkriminalität und für Kerseys Taten fürchtet. Eine Festnahme könnte den Täter zum Märtyrer machen und Nachahmer hervorbringen. Das Kalkül führt deshalb zu einer inoffiziellen Vertreibung statt zu einer offen ausgetragenen Strafverfolgung.",
-      "anchor": "Der gefürchtete Märtyrer verhindert die öffentliche Festnahme.",
       "interest": "Die Entscheidung zeigt den institutionellen Widerspruch im Umgang mit Selbstjustiz.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der gefürchtete Märtyrer verhindert die öffentliche Festnahme."
     },
     {
       "code": "S2",
@@ -146,12 +146,12 @@
       ],
       "short": "Herbie Hancock schrieb die Filmmusik.",
       "context": "Der AFI-Katalog nennt Herbie Hancock für Komposition und musikalische Leitung von Death Wish. Damit verbindet sich der urbane Selbstjustizfilm mit einem bedeutenden Jazzmusiker. Der Filmartikel beschreibt den Einsatz von Synthesizern und orchestralen Teilen; diese Angaben ergänzen den offiziellen Credit. Die Musikzuordnung ist vom Regisseur Michael Winner und vom Schauspieler Charles Bronson zu unterscheiden.",
-      "anchor": "Bronsons Stadtthriller hat Musik von Herbie Hancock.",
       "interest": "Die ungewöhnliche Zusammenarbeit erschließt eine Gestaltungsebene des Films.",
       "sources": [
         "afi",
         "handlung"
-      ]
+      ],
+      "objective": "Bronsons Stadtthriller hat Musik von Herbie Hancock."
     },
     {
       "code": "Y",
@@ -170,13 +170,13 @@
       ],
       "short": "Der erste Death-Wish-Film erschien 1974.",
       "context": "Dirty Harry erschien 1971, Death Wish folgte 1974: Drei Jahre liegen zwischen den beiden kontroversen Filmen über Gewalt und den Umgang mit Kriminalität. Anders als der Polizist Harry Callahan (Clint Eastwood) ist Paul Kersey (Charles Bronson) ein Privatmann. AFI nennt die New Yorker Eröffnung am 24. Juli 1974. Die erste Fortsetzung erschien erst 1982 und gehört nicht zum Jahr dieser ursprünglichen Filmfassung.",
-      "anchor": "1971 Dirty Harry, 1974 Death Wish: drei Jahre Abstand.",
       "interest": "Der Vergleich ordnet den Film in die damalige Gewaltdebatte ein.",
       "sources": [
         "afi",
         "anker",
         "handlung"
-      ]
+      ],
+      "objective": "1971 Dirty Harry, 1974 Death Wish: drei Jahre Abstand."
     },
     {
       "code": "D",
@@ -195,12 +195,12 @@
       ],
       "short": "Michael Winner führte Regie.",
       "context": "Michael Winner ist bei AFI als Regisseur von Death Wish verzeichnet. Wendell Mayes schrieb das Drehbuch auf Grundlage des Romans von Brian Garfield. Charles Bronson spielt Paul Kersey, dessen Beruf und Vorgeschichte für die Filmfassung verändert wurden. Die Verbindung zwischen Winner und Bronson gehört zu ihrer konkreten Zusammenarbeit, während Regie, Romanvorlage und Drehbuch unterschiedliche kreative Leistungen bleiben.",
-      "anchor": "Winner inszeniert Bronson als Paul Kersey.",
       "interest": "Der Credit ordnet die berühmte Bronson-Rolle der richtigen Zusammenarbeit zu.",
       "sources": [
         "afi",
         "handlung"
-      ]
+      ],
+      "objective": "Winner inszeniert Bronson als Paul Kersey."
     }
   ]
 }

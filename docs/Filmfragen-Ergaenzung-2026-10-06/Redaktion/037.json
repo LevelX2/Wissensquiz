@@ -40,12 +40,12 @@
       ],
       "short": "Von Waldheim (Paul Scofield) lässt Gemälde aus Paris verladen.",
       "context": "Von Waldheim (Paul Scofield) lässt Gemälde aus Paris verladen. Labiche (Burt Lancaster) und die Eisenbahner sollen den Abtransport verhindern; der Wert der Kunst steht dabei gegen das Risiko für Menschenleben.",
-      "anchor": "Der Kunstraub macht die Eisenbahn zum Schauplatz eines Wertkonflikts.",
       "interest": "Der Kunstraub macht die Eisenbahn zum Schauplatz eines Wertkonflikts.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Kunstraub macht die Eisenbahn zum Schauplatz eines Wertkonflikts."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Labiche (Burt Lancaster) weigert sich zunächst, Leben für Gemälde einzusetzen.",
       "context": "Labiche (Burt Lancaster) weigert sich zunächst, Leben für Gemälde einzusetzen. Villard (Suzanne Flon) bewertet die Werke als nationales Kulturgut; der Widerstand muss damit nicht nur Technik, sondern unterschiedliche Schutzgüter gegeneinander abwägen.",
-      "anchor": "Labiche stellt Menschenleben vor den Besitz der Kunstwerke.",
       "interest": "Labiche stellt Menschenleben vor den Besitz der Kunstwerke.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Labiche stellt Menschenleben vor den Besitz der Kunstwerke."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Labiche (Burt Lancaster) und seine Helfer organisieren falsche Stationsbezeichnungen.",
       "context": "Labiche (Burt Lancaster) und seine Helfer organisieren falsche Stationsbezeichnungen. Der deutsche Begleitschutz erkennt den Rundkurs zunächst nicht; die Täuschung gewinnt Zeit, ohne die Gemälde bei einem offenen Angriff zu zerstören.",
-      "anchor": "Veränderte Ortsnamen machen einen Rundkurs zur scheinbaren Ausreise.",
       "interest": "Veränderte Ortsnamen machen einen Rundkurs zur scheinbaren Ausreise.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Veränderte Ortsnamen machen einen Rundkurs zur scheinbaren Ausreise."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Didont (Albert Rémy) und Robert (Christian Fuin) helfen, die Dächer zu markieren.",
       "context": "Didont (Albert Rémy) und Robert (Christian Fuin) helfen, die Dächer zu markieren. Die Sicherung gegen deutsche Abfahrt genügt nicht: Auch ein alliierter Angriff könnte die zu rettende Ladung vernichten.",
-      "anchor": "Der Widerstand muss die Kunst zugleich vor Abtransport und eigener Seite schützen.",
       "interest": "Der Widerstand muss die Kunst zugleich vor Abtransport und eigener Seite schützen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Widerstand muss die Kunst zugleich vor Abtransport und eigener Seite schützen."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Labiche (Burt Lancaster) erkennt die von den Deutschen mitgeführten Geiseln.",
       "context": "Labiche (Burt Lancaster) erkennt die von den Deutschen mitgeführten Geiseln. Er verlegt die Wirkung auf die Strecke; der Schutz von Menschen zwingt ihn erneut, eine wirksame Sabotageform zu begrenzen.",
-      "anchor": "Die Geiseln verändern den Angriff vom Zug auf die vorausliegenden Gleise.",
       "interest": "Die Geiseln verändern den Angriff vom Zug auf die vorausliegenden Gleise.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Geiseln verändern den Angriff vom Zug auf die vorausliegenden Gleise."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Von Waldheim (Paul Scofield) fordert eine Erklärung für Labiches (Burt Lancaster) Kunstrettung.",
       "context": "Von Waldheim (Paul Scofield) fordert eine Erklärung für Labiches (Burt Lancaster) Kunstrettung. Labiche blickt auf die getöteten Geiseln und erschießt ihn; die wortlose Antwort führt zum ursprünglichen Konflikt um den Wert von Leben zurück.",
-      "anchor": "Der letzte Blick gilt den Menschen statt den geretteten Bildern.",
       "interest": "Der letzte Blick gilt den Menschen statt den geretteten Bildern.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der letzte Blick gilt den Menschen statt den geretteten Bildern."
     },
     {
       "code": "Y",
@@ -184,13 +184,13 @@
       ],
       "short": "Der Film wurde 1964 erstmals veröffentlicht.",
       "context": "1964 erschien die Bearbeitung von Rose Vallands Sachbuch Le front de l’art aus dem Jahr 1961, drei Jahre nach dem Buch. Vallands Dokumentation des NS-Kunstraubs wurde zu einer Handlung über den Preis der Rettung von Gemälden verdichtet.",
-      "anchor": "Vallands Dokumentation von 1961 wurde drei Jahre später, 1964, zum Widerstandsthriller.",
       "interest": "Vallands Dokumentation von 1961 wurde drei Jahre später, 1964, zum Widerstandsthriller.",
       "sources": [
         "katalog",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vallands Dokumentation von 1961 wurde drei Jahre später, 1964, zum Widerstandsthriller."
     },
     {
       "code": "D",
@@ -209,12 +209,12 @@
       ],
       "short": "Regie: John Frankenheimer und Bernard Farrel.",
       "context": "Frankenheimer ersetzte Arthur Penn während der Produktion. Bernard Farrel erhielt in französischsprachigen Kopien einen Co-Regiecredit aufgrund der Förderbestimmungen; Frankenheimer bestritt dessen eigenständigen Regieanteil. Der Credit und die tatsächliche Produktionsrolle sind deshalb ausdrücklich zu unterscheiden.",
-      "anchor": "Frankenheimer übernahm die Produktion; Farrels zusätzlicher französischer Credit folgte Fördervorgaben.",
       "interest": "Frankenheimer übernahm die Produktion; Farrels zusätzlicher französischer Credit folgte Fördervorgaben.",
       "sources": [
         "katalog"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Frankenheimer übernahm die Produktion; Farrels zusätzlicher französischer Credit folgte Fördervorgaben."
     }
   ]
 }

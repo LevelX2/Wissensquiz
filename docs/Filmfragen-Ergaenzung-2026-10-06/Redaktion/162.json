@@ -37,12 +37,12 @@
       ],
       "short": "Hildy Johnson arbeitet als Zeitungsreporterin.",
       "context": "Hildy Johnson arbeitet als Zeitungsreporterin. Sie möchte mit Bruce Baldwin (Ralph Bellamy) ein anderes Leben beginnen; ihr früherer Mann und Chefredakteur Walter Burns (Cary Grant) lockt sie jedoch mit einer wichtigen Geschichte zurück.",
-      "anchor": "Hildys neuer Lebensplan konkurriert mit ihrem Reporterinstinkt.",
       "interest": "Hildys neuer Lebensplan konkurriert mit ihrem Reporterinstinkt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hildys neuer Lebensplan konkurriert mit ihrem Reporterinstinkt."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Hildy und Walter sind ein geschiedenes Ehepaar.",
       "context": "Hildy und Walter sind ein geschiedenes Ehepaar. Deshalb verfolgt Walters letzter Arbeitsauftrag ein zweites Ziel: Er möchte sie auch privat zurückgewinnen. Die Zeitungsredaktion ist zugleich Arbeitsplatz und Schauplatz ihrer fortgesetzten Beziehungskämpfe.",
-      "anchor": "Walter kämpft um seine beste Reporterin und seine Exfrau.",
       "interest": "Walter kämpft um seine beste Reporterin und seine Exfrau.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Walter kämpft um seine beste Reporterin und seine Exfrau."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Hildy verbirgt Earl Williams in einem Rollschreibtisch des Presseraums.",
       "context": "Hildy verbirgt Earl Williams in einem Rollschreibtisch des Presseraums. Der Arbeitsplatz wird damit zum Versteck eines gesuchten Mannes. Während andere Reporter um Informationen konkurrieren, befinden sie sich unmittelbar neben der Geschichte, nach der sie suchen.",
-      "anchor": "Die exklusive Geschichte sitzt im Schreibtisch.",
       "interest": "Die exklusive Geschichte sitzt im Schreibtisch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die exklusive Geschichte sitzt im Schreibtisch."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Bürgermeister und Sheriff wollen mit der Hinrichtung politisch punkten.",
       "context": "Bürgermeister und Sheriff wollen mit der Hinrichtung politisch punkten. Eine Begnadigungsbotschaft stört diesen Plan; sie versuchen den Boten zum Schweigen zu bringen. Hildy Johnson (Rosalind Russell) und Walter Burns (Cary Grant) erhalten dadurch ein Druckmittel gegen die Verantwortlichen.",
-      "anchor": "Politischer Eigennutz bedroht die rechtzeitige Begnadigung.",
       "interest": "Politischer Eigennutz bedroht die rechtzeitige Begnadigung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Politischer Eigennutz bedroht die rechtzeitige Begnadigung."
     },
     {
       "code": "S1",
@@ -133,14 +133,14 @@
       ],
       "short": "Die Filmfassung macht Hildy Johnson (Rosalind Russell) zur Frau und Expartnerin Walter Burns’ (Cary Grant).",
       "context": "Die Filmfassung macht Hildy Johnson (Rosalind Russell) zur Frau und Expartnerin Walter Burns’ (Cary Grant). Im Stück sind Reporter und Chefredakteur Männer. Die Änderung ergänzt den Pressekonflikt um Wiederverheiratung und Hildys Entscheidung über ihr Berufsleben.",
-      "anchor": "Der Rollenwechsel verbindet Pressekomödie und Liebesgeschichte.",
       "interest": "Der Rollenwechsel verbindet Pressekomödie und Liebesgeschichte.",
       "sources": [
         "handlung",
         "eckdaten",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Rollenwechsel verbindet Pressekomödie und Liebesgeschichte."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Walter Burns (Cary Grant) erfährt von einem Streik in Albany und lenkt die Flitterwochen dorthin.",
       "context": "Walter Burns (Cary Grant) erfährt von einem Streik in Albany und lenkt die Flitterwochen dorthin. Hildy Johnson (Rosalind Russell) stimmt zu. Die neue Hochzeit beendet also nicht ihre gemeinsame Bindung an Nachrichten; der nächste berufliche Anlass steht schon bereit.",
-      "anchor": "Die Flitterwochen werden zur nächsten Reportage.",
       "interest": "Die Flitterwochen werden zur nächsten Reportage.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Flitterwochen werden zur nächsten Reportage."
     },
     {
       "code": "Y",
@@ -183,13 +183,13 @@
       ],
       "short": "1940 erschien die Komödie.",
       "context": "1940 erschien die Komödie. Ihre Bühnenvorlage „The Front Page“ stammt von 1928; zwölf Jahre später machte die Verfilmung aus dem männlichen Reporter eine Frau und Expartnerin des Chefredakteurs. Der zeitliche Abstand verbindet einen älteren Pressekonflikt mit einer neuen Liebeskonstellation.",
-      "anchor": "The Front Page 1928, Film 1940: Zwölf Jahre später wird der Reporter zur Exfrau des Chefredakteurs.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "The Front Page 1928, Film 1940: Zwölf Jahre später wird der Reporter zur Exfrau des Chefredakteurs."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "Howard Hawks führte Regie.",
       "context": "Howard Hawks führte Regie. Charles Lederer adaptierte das Stück „The Front Page“: Hildy Johnson (Rosalind Russell) ist nun Reporterin und Walter Burns’ (Cary Grant) Exfrau. So verbinden sich die berufliche Rivalität und Walters Versuch, eine Wiederheirat zu erreichen.",
-      "anchor": "Howard Hawks führte Regie.",
       "interest": "Howard Hawks führte Regie.",
       "sources": [
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Howard Hawks führte Regie."
     }
   ]
 }

@@ -35,12 +35,12 @@
       ],
       "short": "Henry arbeitet in einem alten Wachturm im Gebirge.",
       "context": "Henry Frankenstein (Colin Clive) zieht sich für seine Versuche in einen abgelegenen Wachturm zurück. Fritz (Dwight Frye) hilft ihm dort bei der Vorbereitung. Der Ort trennt die wissenschaftliche Arbeit vom Familienleben und ermöglicht, Geräte bis unter das offene Turmdach zu bewegen. Als Elizabeth (Mae Clarke) und die anderen Besucher eintreffen, betreten sie eine abgeschlossene Versuchswelt, deren Zweck ihnen bisher nur unvollständig bekannt war.",
-      "anchor": "Der Wachturm trennt das Experiment vom Alltag.",
       "interest": "Verbindet den markanten Schauplatz mit seiner Handlungsfunktion.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der Wachturm trennt das Experiment vom Alltag."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Fritz quält die Kreatur mit einer brennenden Fackel.",
       "context": "Die Kreatur (Boris Karloff) reagiert zunächst auf Licht und Anweisungen ihres Schöpfers. Als Fritz (Dwight Frye) mit der Fackel auftaucht, zeigt sie dagegen große Angst. Er benutzt diesen Reiz später, um das gefesselte Wesen weiter zu quälen. Die Aggression entsteht somit in einer konkreten Situation der Bedrohung. Der Film zeigt mehr als bloße Gefährlichkeit: Er macht auch sichtbar, wie andere Menschen die Kreatur behandeln.",
-      "anchor": "Fritz macht das gefürchtete Feuer zum Mittel der Quälerei.",
       "interest": "Erschließt den konkreten Auslöser einer wichtigen Reaktion.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Fritz macht das gefürchtete Feuer zum Mittel der Quälerei."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Waldman ist Henrys ehemaliger Hochschullehrer.",
       "context": "Dr. Waldman (Edward Van Sloan) kennt Henry Frankenstein (Colin Clive) aus dessen Studium. Als Elizabeth (Mae Clarke) sich wegen seines Rückzugs sorgt, kann der frühere Lehrer die wissenschaftliche Vorgeschichte erläutern. Er begleitet die Besucher zum Labor und erlebt den Versuch. Seine Stellung verbindet Fachwissen mit persönlicher Kenntnis des Forschers; die Bedenken entstehen nicht erst aus dem Anblick eines unbekannten Experiments.",
-      "anchor": "Der frühere Lehrer kennt den Forscher vor dem Versuch.",
       "interest": "Ordnet den wissenschaftlichen Gesprächspartner konkret ein.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der frühere Lehrer kennt den Forscher vor dem Versuch."
     },
     {
       "code": "M2",
@@ -106,13 +106,13 @@
       ],
       "short": "Die Kreatur wirft Maria wie zuvor die Blumen in den See.",
       "context": "Maria (Marilyn Harris) begegnet der Kreatur (Boris Karloff) ohne die Angst der Erwachsenen. Gemeinsam werfen sie Blumen ins Wasser und beobachten, wie diese schwimmen. Als keine Blumen mehr übrig sind, wirft das Wesen auch das Kind hinein. Die Szene verbindet seine begrenzte Erfahrung mit einer tödlichen Folge. Historische Zensurkopien entfernten gerade diesen entscheidenden Moment; die Frage bezieht sich auf die vollständige, wiederhergestellte Handlung.",
-      "anchor": "Blumen schwimmen; das Kind wird tödlich in dasselbe Spiel einbezogen.",
       "interest": "Erklärt den konkreten Ablauf und seine Fassungsgrenze.",
       "sources": [
         "film",
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Blumen schwimmen; das Kind wird tödlich in dasselbe Spiel einbezogen."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Ein Mühlenflügel fängt Henrys Sturz ab.",
       "context": "Die Kreatur (Boris Karloff) trägt den bewusstlosen Henry Frankenstein (Colin Clive) auf die alte Windmühle. Sie wirft ihn hinunter, doch ein Flügel des Bauwerks fängt den Sturz ab. Die Dorfbewohner können den Verletzten fortbringen, während sie die Mühle in Brand setzen. Der Schauplatz besitzt damit zwei gegensätzliche Funktionen: Er schließt das verfolgte Wesen ein und bietet zugleich einen zufälligen Schutz für seinen Schöpfer.",
-      "anchor": "Die Mühle wird Falle und Lebensretter zugleich.",
       "interest": "Erfasst die konkrete räumliche Ursache von Henrys Überleben.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Mühle wird Falle und Lebensretter zugleich."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Der Anfangscredit verbirgt den Namen; der Schluss nennt Boris Karloff.",
       "context": "Die anfängliche Besetzungsliste setzt neben die Kreatur ein Fragezeichen. Erst am Ende erscheint Boris Karloffs Name an dieser Stelle. Das ist eine bewusst unterschiedliche Präsentation innerhalb desselben Films, keine Umbesetzung während der Handlung. AFI dokumentiert diesen Wechsel ausdrücklich. Der Abspann löst damit eine zuvor in der Namensliste gesetzte Leerstelle auf. Beide Angaben beziehen sich auf denselben Darsteller und dieselbe Kreatur.",
-      "anchor": "Erst das Fragezeichen, am Schluss Boris Karloff.",
       "interest": "Erschließt eine belegte Besonderheit der Titelgestaltung.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Erst das Fragezeichen, am Schluss Boris Karloff."
     },
     {
       "code": "Y",
@@ -179,12 +179,12 @@
       ],
       "short": "Der Universal-Film erschien erstmals 1931.",
       "context": "Mary Shelleys Roman Frankenstein erschien 1818. Die Universal-Verfilmung mit Colin Clive kam 1931 heraus, 113 Jahre später. Zwischen dem literarischen Ursprung und diesem Film liegen auch Bühnenbearbeitungen, darunter Peggy Weblings Stück von 1927. Der Film ist deshalb kein unmittelbares Abbild nur einer Quelle. Der Jahresanker verbindet den langen Weg des Stoffes mit dem konkreten Erstjahr einer eigenständigen filmischen Ausprägung.",
-      "anchor": "Roman 1818, Universal-Film 1931: 113 Jahre.",
       "interest": "Verbindet Erstjahr und datierten literarischen Ursprung.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Roman 1818, Universal-Film 1931: 113 Jahre."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "James Whale führte bei dieser Universal-Fassung Hauptregie.",
       "context": "James Whale übernahm das Projekt nach einer früheren Entwicklungsphase mit Robert Florey. Die Filmcredits und der detaillierte AFI-Eintrag weisen Whale als Hauptregisseur aus. Die Unterscheidung ist wichtig, weil frühere Treatments und geplante Besetzungen zur Entstehungsgeschichte gehören, aber nicht automatisch einen gemeinsamen Regiecredit erzeugen. Die fertige Fassung verbindet die Versuchsanordnung im Turm mit einer Kreatur, deren Verhalten zwischen Bedrohung, Angst und Unerfahrenheit wechselt.",
-      "anchor": "Der fertige Universal-Film trägt James Whales Regiecredit.",
       "interest": "Trennt veröffentlichte Hauptregie und frühere Projektentwicklung.",
       "sources": [
         "afi",
         "film"
-      ]
+      ],
+      "objective": "Der fertige Universal-Film trägt James Whales Regiecredit."
     }
   ],
   "rank": 3

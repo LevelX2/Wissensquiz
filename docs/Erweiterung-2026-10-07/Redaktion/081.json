@@ -37,12 +37,12 @@
       ],
       "short": "Sand dämpft die Schritte auf den vorbereiteten Wegen.",
       "context": "Die Familie legt Sand auf ihre Wege und bewegt sich vorsichtig. Alltägliche Fortbewegung braucht dadurch Planung. Der Film macht Sicherheit räumlich sichtbar: Ein vertrauter Weg ist nur dann verlässlich, wenn sein Untergrund keine verräterischen Geräusche erzeugt. Jeder Schritt kann eine Entscheidung über das Überleben werden.",
-      "anchor": "Die Sandwege machen vorsichtige Schritte möglich.",
       "interest": "Zeigt eine konkrete Anpassung des Alltags an die Bedrohung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Sandwege machen vorsichtige Schritte möglich."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Evelyn ist hochschwanger; ein Säugling kann seine Geräusche nicht kontrollieren.",
       "context": "Evelyn (Emily Blunt) erwartet ein weiteres Kind. Ein Neugeborenes versteht keine Regeln der Vorsicht und lässt sich nicht zuverlässig zum Schweigen bringen. Die Schwangerschaft verschärft deshalb den zentralen Elternkonflikt: Ein neues Leben schützen zu wollen bedeutet zugleich, zusätzliche Gefahr für die ganze Familie einzuplanen.",
-      "anchor": "Die bevorstehende Geburt verlangt Schutz für ein Kind ohne Selbstkontrolle.",
       "interest": "Verbindet die Bedrohung mit einer konkreten familiären Zukunftsfrage.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die bevorstehende Geburt verlangt Schutz für ein Kind ohne Selbstkontrolle."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Das Spielzeug erzeugt das Geräusch, das die Kreatur anlockt.",
       "context": "Beau (Cade Woodward) nimmt heimlich die Batterien für das Spielzeug an sich. Regan (Millicent Simmonds) hatte ihm das zuvor stillgelegte Gerät zurückgegeben. Die Szene verbindet kindliche Neugier mit einer übersehenen Sicherheitslücke. Für die Schwester bleibt danach eine Schuldfrage, obwohl sie das Geräusch nicht beabsichtigt hatte.",
-      "anchor": "Die heimlich eingesetzten Batterien verwandeln das Spielzeug in Gefahr.",
       "interest": "Erklärt die Ursache eines Ereignisses, das die Familie lange belastet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die heimlich eingesetzten Batterien verwandeln das Spielzeug in Gefahr."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Die sichtbaren Gegenstände wecken Erwartungen an Schmerz und Geräusch.",
       "context": "Der Film zeigt Dinge, deren mögliche Geräusche das Publikum kennt, bevor diese erklingen. Ein Nagel kündigt Schmerz an, ein Wecker ein Signal. Die Spannung entsteht so aus Erwartung und Beobachtung. Wenig gesprochener Dialog bedeutet deshalb nicht wenig Information; die sichtbare Umgebung erzählt entscheidend mit.",
-      "anchor": "Sichtbare Gegenstände lassen drohende Geräusche schon vorher hörbar werden.",
       "interest": "Erschließt eine konkrete Technik des Spannungsaufbaus.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sichtbare Gegenstände lassen drohende Geräusche schon vorher hörbar werden."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Sein Schrei zieht die Kreatur von den Kindern weg.",
       "context": "Lee (John Krasinski) versichert Regan (Millicent Simmonds) seine Liebe und schreit dann, um die Kreatur abzulenken. Er setzt die Regel, die sonst alle schützt, bewusst außer Kraft. Seine Entscheidung ermöglicht den Kindern die Flucht und macht elterlichen Schutz als unwiderrufliches persönliches Opfer sichtbar.",
-      "anchor": "Lee bricht die Schutzregel, damit seine Kinder ihr folgen können.",
       "interest": "Verbindet eine bewusste Entscheidung mit der zuvor etablierten Gefahr.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Lee bricht die Schutzregel, damit seine Kinder ihr folgen können."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Das verstärkte Pfeifen bringt die Kreatur in einen verwundbaren Zustand.",
       "context": "Regan (Millicent Simmonds) erkennt die Wirkung des fehlerhaften Hörgeräts und verstärkt das Pfeifen über ein Mikrofon. Evelyn (Emily Blunt) kann die geöffnete Kopfpartie treffen. Ein zuvor enttäuschendes Hilfsmittel gewinnt einen neuen Zweck; Beobachtung und Zusammenarbeit ermöglichen erstmals wirksame Gegenwehr.",
-      "anchor": "Die Hörgeräte-Rückkopplung öffnet die schützende Panzerung.",
       "interest": "Erklärt die Verbindung von technischem Fehler und gemeinsamer Rettung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Hörgeräte-Rückkopplung öffnet die schützende Panzerung."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Der Film erschien 2018; die Nominierung folgte 2019.",
       "context": "A Quiet Place erschien 2018. Bei den Oscars 2019 wurden Ethan Van der Ryn und Erik Aadahl für den Tonschnitt nominiert. Die Folge von Film und Nominierung passt zu seinem besonderen Spannungsprinzip: Geräusche werden sorgfältig vorbereitet, zurückgehalten und schließlich als Gefahr oder Rettungsmittel eingesetzt.",
-      "anchor": "2018 der Film, 2019 die Oscar-Nominierung für seinen Tonschnitt.",
       "interest": "Verknüpft das Filmjahr mit einer fachlich passenden späteren Anerkennung.",
       "sources": [
         "academy",
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2018 der Film, 2019 die Oscar-Nominierung für seinen Tonschnitt."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "John Krasinski führte Regie und spielte Lee.",
       "context": "John Krasinski verband die Regie mit der Rolle des Vaters Lee (John Krasinski). Die ursprüngliche Geschichte stammt von Scott Beck und Bryan Woods; Krasinski arbeitete am Drehbuch mit. Das Team übersetzte den Schutz einer Familie in eine Inszenierung, die Verständigung und Gefahr vielfach über Bilder statt Gespräche organisiert.",
-      "anchor": "Krasinski führt Regie und spielt den Vater; Beck und Woods liefern die Geschichte.",
       "interest": "Ordnet die verschiedenen belegten Aufgaben im Filmteam ein.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Krasinski führt Regie und spielt den Vater; Beck und Woods liefern die Geschichte."
     }
   ],
   "series": "A Quiet Place"

@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Rochefort war als Don Quijote vorgesehen.",
       "context": "Die Dokumentation begleitet eine Produktion, in der technische, meteorologische und gesundheitliche Probleme zusammenkommen. Der Film mit dieser Besetzung konnte damals nicht fertiggestellt werden.",
-      "anchor": "Rochefort war Gilliams erster gedrehter Don Quijote.",
       "interest": "Die Frage verbindet einen geplanten Auftritt mit einem tatsächlich veröffentlichten Dokumentarfilm.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/interviews/terry-gilliam-on-set-man-who-killed-don-quixote-adaptation-jonathan-pryce-adam-driver",
         "https://en.wikipedia.org/wiki/Lost_in_La_Mancha"
-      ]
+      ],
+      "objective": "Rochefort war Gilliams erster gedrehter Don Quijote."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 1,
       "short": "Toulouse ist Chef eines französischen Geheimdienstes.",
       "context": "Er täuscht seinem rivalisierenden Stellvertreter vor, ein zufällig ausgewählter Reisender sei ein Spitzenagent. Die Täuschung verwandelt gewöhnliches Verhalten in scheinbar bedeutsame Spionagezeichen.",
-      "anchor": "Toulouse organisiert die Falle für seinen Stellvertreter.",
       "interest": "Die Machtposition erklärt, wer die Verwechslung bewusst in Gang setzt.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://fr.wikipedia.org/wiki/Le_Grand_Blond_avec_une_chaussure_noire"
-      ]
+      ],
+      "objective": "Toulouse organisiert die Falle für seinen Stellvertreter."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Mortez moderiert eine Radiospielsendung auf Tournee.",
       "context": "Mit seinem Tontechniker fährt er von Ort zu Ort. Hinter den routinierten Auftritten wachsen berufliche Unsicherheit und die Abhängigkeit der beiden voneinander.",
-      "anchor": "Mortez und sein Techniker reisen für ein Radioquiz.",
       "interest": "Die Tätigkeit erklärt die wiederkehrenden Bühnen und die enge Zweierbeziehung.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       "extraSources": [
         "https://www.canalplus.com/cinema/tandem/h/8023120_40099/resume-casting/",
         "https://fr.wikipedia.org/wiki/Tandem_(film)"
-      ]
+      ],
+      "objective": "Mortez und sein Techniker reisen für ein Radioquiz."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 0,
       "short": "Antoine tanzt immer wieder Bauchtanz.",
       "context": "Die eigentümlichen Bewegungen gehören zu seiner ganz eigenen Welt der Freude. Seine Liebe zu Mathilde und zum Friseursalon wird auch durch solche körperlichen Ausbrüche erzählt.",
-      "anchor": "Antoines Begeisterung nimmt die Form eines Tanzes an.",
       "interest": "Die Frage richtet den Blick auf Rocheforts körperliche Komik.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       "extraSources": [
         "https://www.lemonde.fr/archives/article/1990/10/05/l-amour-tricote-main-avec-le-mari-de-la-coiffeuse-son-dixieme-film-patrice-leconte-reussit-l-impossible-traduire-un-fantasme-en-images_3982444_1819218.html",
         "https://scholar.lib.vt.edu/InterNews/LeMonde/issues/2000/monde.20001231.pdf"
-      ]
+      ],
+      "objective": "Antoines Begeisterung nimmt die Form eines Tanzes an."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 3,
       "short": "Die Erinnerungen führen nach Indochina und Algerien.",
       "context": "Auf dem Kriegsschiff wird der abwesende Willsdorff zur beherrschenden Gestalt. Die Männer sprechen zugleich über Kameradschaft, frühere Entscheidungen und das, was sie einander schuldig geblieben sind.",
-      "anchor": "Willsdorffs Erinnerung verbindet zwei französische Kolonialkriege.",
       "interest": "Der historische Bezug erklärt den moralischen Druck der Gespräche.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/film/51222.html"
-      ]
+      ],
+      "objective": "Willsdorffs Erinnerung verbindet zwei französische Kolonialkriege."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 0,
       "short": "Bellegarde beherbergt Grégoire und führt ihn am Hof ein.",
       "context": "Für den jungen Mann wird gesellschaftlicher Witz zu einer Voraussetzung politischen Gehörs. Rocheforts Figur vermittelt zwischen dem Anliegen des Besuchers und den Spielregeln von Versailles.",
-      "anchor": "Bellegarde öffnet die Türen der höfischen Gesellschaft.",
       "interest": "Die Helferrolle erschließt den Zusammenhang von Sprache, Rang und Einfluss.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://fr.wikipedia.org/wiki/Ridicule"
-      ]
+      ],
+      "objective": "Bellegarde öffnet die Türen der höfischen Gesellschaft."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 1,
       "short": "Ein doppelter Bandscheibenvorfall verhinderte die Weiterarbeit.",
       "context": "Nach Fluglärm und Unwetterschäden fehlte damit auch der Hauptdarsteller. Die Dokumentation hält fest, wie mehrere Probleme einen bereits begonnenen Dreh zum Stillstand bringen.",
-      "anchor": "Die Erkrankung des Hauptdarstellers entschied das Ende des Drehs mit.",
       "interest": "Das Produktionswissen ergänzt die geplante Rolle um eine konkrete Ursache des Scheiterns.",
       "feedback": [
         "",
@@ -196,7 +195,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/interviews/terry-gilliam-on-set-man-who-killed-don-quixote-adaptation-jonathan-pryce-adam-driver"
-      ]
+      ],
+      "objective": "Die Erkrankung des Hauptdarstellers entschied das Ende des Drehs mit."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 2,
       "short": "Lehrer und Räuber beneiden einander um ihre unterschiedlichen Leben.",
       "context": "Manesquier stellt sich Abenteuer vor, während Milan Ruhe und Kultur anziehen. Rocheforts bürgerliche Figur und Johnny Hallydays Gangster lassen dadurch sichtbar werden, was ihren bisherigen Lebenswegen fehlt.",
-      "anchor": "Der Lehrer träumt vom Abenteuer, der Räuber von Ruhe.",
       "interest": "Die Gegenüberstellung erklärt den Reiz der ungewöhnlichen Besetzung und Freundschaft.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Man_on_the_Train_(2002_film)",
         "https://www.rottentomatoes.com/m/the_man_on_the_train"
-      ]
+      ],
+      "objective": "Der Lehrer träumt vom Abenteuer, der Räuber von Ruhe."
     }
   ]
 }

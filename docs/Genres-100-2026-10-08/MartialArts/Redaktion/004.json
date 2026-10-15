@@ -32,11 +32,11 @@
       ],
       "short": "Der Vater opfert sich für den Meister, der darauf seinen Sohn ausbildet.",
       "context": "Fang Cheng (Ku Feng) ist ein Diener, der seinen Meister Qi Rufeng (Tien Feng) bei einem Angriff verteidigt und dabei stirbt. Aus Dankbarkeit nimmt der Meister dessen Sohn Fang Gang (Jimmy Wang Yu) als Schüler auf. Andere Mitglieder behandeln ihn dennoch wegen seiner Herkunft herablassend. Die Ausbildung beginnt somit als Anerkennung einer geleisteten Rettung, schafft aber keine vollständige gesellschaftliche Zugehörigkeit innerhalb der Schule.",
-      "anchor": "Die Rettung des Meisters begründet die Aufnahme des Dienersohns.",
       "interest": "Erklärt Herkunft und soziale Spannung des Helden.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Rettung des Meisters begründet die Aufnahme des Dienersohns."
     },
     {
       "code": "L2",
@@ -55,12 +55,12 @@
       ],
       "short": "Die Tochter seines Lehrers verletzt Fang Gang.",
       "context": "Fang Gang (Jimmy Wang Yu) will die Schule verlassen, um den Spannungen mit den anderen Schülern auszuweichen. Bei einer anschließenden Auseinandersetzung trennt Qi Pei (Pan Yin-tze), die Tochter seines Lehrers, ihm den rechten Arm ab. Schwer verletzt fällt er von einer Brücke in ein vorbeifahrendes Boot. Der entscheidende Einschnitt entsteht also innerhalb seines bisherigen Umfelds und zwingt ihn, seine Kampfkunst außerhalb der Schule neu aufzubauen.",
-      "anchor": "Die Verletzung kommt aus dem eigenen Ausbildungsumfeld.",
       "interest": "Fragt nach dem Täter, statt die bereits im Titel genannte Einarmigkeit zu wiederholen.",
       "sources": [
         "film",
         "hkfa"
-      ]
+      ],
+      "objective": "Die Verletzung kommt aus dem eigenen Ausbildungsumfeld."
     },
     {
       "code": "M1",
@@ -79,12 +79,12 @@
       ],
       "short": "Ein halb verbranntes Handbuch ermöglicht das neue Training.",
       "context": "Xiaoman (Lisa Chiao Chiao) pflegt Fang Gang (Jimmy Wang Yu) und gibt ihm ein halb verbranntes Kampfkunsthandbuch, das aus ihrer Familie stammt. Das unvollständige Wissen eröffnet ihm einen neuen Weg, nachdem seine frühere Ausbildung mit dem verlorenen Arm unbrauchbar geworden scheint. Er muss die überlieferten Techniken selbst erarbeiten und anpassen. Lernen bedeutet hier deshalb weder vollständige Anleitung noch bloße Wiederholung, sondern die eigenständige Nutzung eines beschädigten Erbes.",
-      "anchor": "Ein beschädigtes Lehrbuch öffnet einen neuen Ausbildungsweg.",
       "interest": "Verbindet materiell unvollständige Überlieferung mit selbstständigem Lernen.",
       "sources": [
         "film",
         "hkfa"
-      ]
+      ],
+      "objective": "Ein beschädigtes Lehrbuch öffnet einen neuen Ausbildungsweg."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Fang Gang verzichtet auf die Schulnachfolge und wählt Xiaoman.",
       "context": "Fang Gang (Jimmy Wang Yu) kehrt zum Kampf zurück, um seinen früheren Lehrer Qi Rufeng (Tien Feng) zu retten. Der dankbare Meister bietet ihm anschließend die Nachfolge als Leiter der Schule an. Fang lehnt ab und entscheidet sich für ein einfaches Leben mit Xiaoman (Lisa Chiao Chiao). Der Sieg stellt seine Fähigkeiten wieder unter Beweis, verpflichtet ihn aber nicht dazu, auch die Machtstruktur seines früheren Umfelds zu übernehmen.",
-      "anchor": "Der Sieg führt zum Rückzug, nicht zur Übernahme der Schule.",
       "interest": "Erkennt die bewusste Lebensentscheidung nach dem letzten Kampf.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Sieg führt zum Rückzug, nicht zur Übernahme der Schule."
     },
     {
       "code": "S1",
@@ -126,12 +126,12 @@
       ],
       "short": "Die Schwertsperre versagt gegen die gebrochene Klinge.",
       "context": "Fang Gang (Jimmy Wang Yu) verwendet ein gebrochenes Schwert. Sein Gegner hat eine Schwertsperre entwickelt, die gegen gewöhnliche vollständige Klingen eingesetzt werden kann. Gerade die ungewöhnliche Form von Fangs Waffe entzieht sich diesem Prinzip. Das Hong Kong Film Archive hebt diesen Zusammenhang ausdrücklich hervor. Ein vermeintlicher Mangel wird dadurch zur taktischen Stärke: Die Gegenmaßnahme beruht auf Annahmen, die für den anders kämpfenden Helden nicht mehr gelten.",
-      "anchor": "Die für vollständige Klingen gebaute Sperre scheitert am Bruchstück.",
       "interest": "Erklärt einen konkreten technischen Vorteil der unüblichen Waffe.",
       "sources": [
         "hkfa",
         "film"
-      ]
+      ],
+      "objective": "Die für vollständige Klingen gebaute Sperre scheitert am Bruchstück."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Lau Kar-leung und Tong Kai choreografierten die Kämpfe.",
       "context": "Das Hong Kong Film Archive führt Lau Kar-leung und Tong Kai als Kampfchoreografen auf, während Chang Cheh den Hauptregiecredit trägt. Die ungewöhnliche Waffe und der veränderte körperliche Bewegungsraum des Helden brauchen konkrete filmische Kampfgestaltung. Der Credit macht diese Arbeit sichtbar, ohne sie der Hauptregie gleichzusetzen. Die zwei Namen stehen damit für eine eigene gestalterische Aufgabe innerhalb einer Produktion, deren Handlung durch besondere Schwerttechniken bestimmt wird.",
-      "anchor": "Kampfchoreografie: Lau Kar-leung und Tong Kai.",
       "interest": "Macht einen präzisen gestalterischen Teamcredit sichtbar.",
       "sources": [
         "hkfa"
-      ]
+      ],
+      "objective": "Kampfchoreografie: Lau Kar-leung und Tong Kai."
     },
     {
       "code": "Y",
@@ -173,13 +173,13 @@
       ],
       "short": "1967 Original, 1969 Return of the One-Armed Swordsman: zwei Jahre Abstand.",
       "context": "Der einarmige Schwertkämpfer erschien 1967. Return of the One-Armed Swordsman folgte 1969, also zwei Jahre später. Die BBFC beschreibt den Nachfolger als Rückkehr eines bereits zurückgezogenen Schwertkämpfers zum Kampf. Das macht den Abstand zugleich erzählerisch anschaulich: Die erste Geschichte endet mit dem gewählten einfachen Leben, während die Fortsetzung dieses Ende wieder öffnet. Die ähnlichen Titel bezeichnen somit unterschiedliche Veröffentlichungen und nicht alternative Jahresangaben derselben Produktion.",
-      "anchor": "1967 erster Film, 1969 Rückkehr: zwei Jahre Abstand.",
       "interest": "Trennt Original und konkret datierte Fortsetzung.",
       "sources": [
         "film",
         "hkfa",
         "folge"
-      ]
+      ],
+      "objective": "1967 erster Film, 1969 Rückkehr: zwei Jahre Abstand."
     },
     {
       "code": "D",
@@ -198,12 +198,12 @@
       ],
       "short": "Chang Cheh inszenierte Der einarmige Schwertkämpfer.",
       "context": "Chang Cheh führte bei diesem Shaw-Brothers-Film Regie und schrieb gemeinsam mit Ni Kuang das Drehbuch. Das Hong Kong Film Archive nennt Hauptregie und Kampfchoreografie getrennt. Die Geschichte richtet ihre Aufmerksamkeit auf einen körperlich versehrten Außenseiter, der seine Fähigkeiten neu entwickelt und sein früheres Umfeld dennoch rettet. Sein Erfolg eröffnet ihm eine Machtposition, die er bewusst ablehnt. Der Regiecredit bezieht sich auf diesen Originalfilm mit Jimmy Wang Yu.",
-      "anchor": "Hauptregie Chang Cheh, Drehbuch Chang Cheh und Ni Kuang.",
       "interest": "Ordnet den Originalfilm und seine getrennten kreativen Aufgaben ein.",
       "sources": [
         "hkfa",
         "film"
-      ]
+      ],
+      "objective": "Hauptregie Chang Cheh, Drehbuch Chang Cheh und Ni Kuang."
     }
   ]
 }

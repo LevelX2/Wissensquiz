@@ -18,7 +18,6 @@
       "correct": 3,
       "short": "Nana gerät in die Prostitution.",
       "context": "Die junge Pariserin träumt zunächst davon, Schauspielerin zu werden. Godard erzählt ihren Abstieg in getrennten Bildern und Episoden; neben Gesprächen stehen alltägliche Gesten und Tanz.",
-      "anchor": "Nanas Schauspieltraum zerbricht.",
       "interest": "Die Rolle verbindet eine persönliche Hoffnung mit wirtschaftlicher Abhängigkeit.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/3060-vivre-sa-vie"
-      ]
+      ],
+      "objective": "Nanas Schauspieltraum zerbricht."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Angéla möchte Mutter werden.",
       "context": "Ihr Partner Émile (Jean-Claude Brialy) will diesen Wunsch nicht erfüllen. Sein Freund Alfred (Jean-Paul Belmondo) macht aus dem Streit eine Dreieckskonstellation, die Godard mit Musik und spielerischen Unterbrechungen inszeniert.",
-      "anchor": "Angélas Kinderwunsch bringt das Dreieck in Bewegung.",
       "interest": "Ein einfaches Lebensziel erklärt den Konflikt hinter dem formalen Spiel.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/854-a-woman-is-a-woman"
-      ]
+      ],
+      "objective": "Angélas Kinderwunsch bringt das Dreieck in Bewegung."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Das Trio rennt durch den Louvre.",
       "context": "Die Kriminalgeschichte handelt von einer jungen Frau und zwei Verehrern, die einen Raub planen. Der Museumslauf unterbricht diesen Plan ebenso spielerisch wie der gemeinsame Tanz in einer Bar.",
-      "anchor": "Ein Raubfilm macht einen Umweg durchs Museum.",
       "interest": "Die Szene zeigt die Bewegungsfreiheit der Figuren jenseits ihrer Verbrechenspläne.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/film/3db2a35f-aa01-5b9e-a6d8-2ab5a148a5bc/bande-a-part"
-      ]
+      ],
+      "objective": "Ein Raubfilm macht einen Umweg durchs Museum."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 2,
       "short": "Natacha bringt eine Liebeserklärung hervor.",
       "context": "Die von einem Computer beherrschte Gesellschaft richtet sich gegen selbstständiges Denken und Gefühle. Natachas eigener Liebessatz setzt am Ende ein menschliches Zeichen gegen diese Ordnung.",
-      "anchor": "Natacha findet Worte für ihre Liebe.",
       "interest": "Die Schlusszeile macht ihre Befreiung sprachlich hörbar.",
       "feedback": [
         "",
@@ -115,7 +114,8 @@
       ],
       "knowledge_id": "K-F240-20261006-195-S2",
       "variant_of": "F240-20261006-195-S2",
-      "knowledge_note": "Dasselbe Wissensziel wie die vorhandene Filmfrage: Natachas Liebeserklärung im Finale."
+      "knowledge_note": "Dasselbe Wissensziel wie die vorhandene Filmfrage: Natachas Liebeserklärung im Finale.",
+      "objective": "Natacha findet Worte für ihre Liebe."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 1,
       "short": "Sie sieht Dreyers „Die Passion der Jungfrau von Orléans“.",
       "context": "Godard zeigt Nana als Zuschauerin eines anderen Films. Die Begegnung mit dem leidenden Gesicht der Jeanne d’Arc unterbricht ihre eigene Geschichte und gehört zu den bekanntesten Momenten dieser Rolle.",
-      "anchor": "Nana begegnet Jeanne d’Arc im Kino.",
       "interest": "Ein Filmzitat wird zur Begegnung zwischen zwei weiblichen Leinwandfiguren.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/3060-vivre-sa-vie"
-      ]
+      ],
+      "objective": "Nana begegnet Jeanne d’Arc im Kino."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 0,
       "short": "Karina hatte Suzanne zuvor unter Rivettes Regie am Theater gespielt.",
       "context": "Sie kannte den klassischen Text daher bereits genau. Im Interview beschreibt sie Rivettes ausdauernde Probenarbeit; die Verfilmung folgte erst Jahre nach der Bühnenfassung.",
-      "anchor": "Suzanne führte von der Bühne zum Film.",
       "interest": "Die Zusammenarbeit mit Rivette begann vor der berühmten Verfilmung.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/article/1502.html"
-      ]
+      ],
+      "objective": "Suzanne führte von der Bühne zum Film."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 3,
       "short": "Die natürlich wirkenden Dialoge waren weitgehend genau vorgegeben.",
       "context": "Karina widerspricht dem Eindruck freier Improvisation. Gute Einfälle konnten übernommen werden, ansonsten galt der Wortlaut; selbst spät übergebene Texte mussten mit Bewegungen und Kameraführung zusammenspielen.",
-      "anchor": "Natürliche Wirkung konnte genaue Arbeit verlangen.",
       "interest": "Die Aussage unterscheidet den Eindruck spontanen Spiels von der tatsächlichen Herstellung.",
       "feedback": [
         "",
@@ -196,7 +195,8 @@
       "extraSources": [
         "https://www.cinematheque.fr/article/1502.html",
         "https://www.bfi.org.uk/features/anna-karina-2-3-things-we-now-know-about-her"
-      ]
+      ],
+      "objective": "Natürliche Wirkung konnte genaue Arbeit verlangen."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 0,
       "short": "Ein Teil der Produktion entstand in ihrer eigenen Wohnung.",
       "context": "Kameramann Claude Agostini richtete dort ein Studio ein. Karina beteiligte sich mit eigenem Geld an dem kleinen Projekt und war danach nach eigener Aussage lange finanziell erschöpft.",
-      "anchor": "Die eigene Wohnung trug den Regieanfang.",
       "interest": "Räumliche Improvisation und persönliches Geld machten den Wechsel hinter die Kamera möglich.",
       "feedback": [
         "",
@@ -223,7 +222,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/article/1502.html"
-      ]
+      ],
+      "objective": "Die eigene Wohnung trug den Regieanfang."
     }
   ]
 }

@@ -32,12 +32,12 @@
       ],
       "short": "Doc wehrt Baileys Angriff mit einem Messerwurf ab.",
       "context": "Ed Bailey (Lee Van Cleef) sucht Doc Holliday (Kirk Douglas) auf, um den Tod seines Bruders zu rächen. Doc fordert ihn zum Duell, doch Bailey versucht stattdessen, ihm in den Rücken zu schießen. Ein geworfenes Messer beendet den Angriff. Die Szene zeigt Docs Gefährlichkeit außerhalb eines gewöhnlichen Revolverduells. Seine anschließende Festnahme macht die Tat zum Ausgangspunkt einer weiteren Gefahr, aus der andere ihm helfen müssen.",
-      "anchor": "Baileys Schussversuch endet durch Docs Messerwurf.",
       "interest": "Die auffällige Abwehrhandlung ist von der späteren Rettung vor dem Mob getrennt.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Baileys Schussversuch endet durch Docs Messerwurf."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Doc droht nach seiner Festnahme eine Lynchjustiz.",
       "context": "Doc Holliday (Kirk Douglas) tötet einen Angreifer und wird daraufhin festgenommen. Wyatt Earp (Burt Lancaster) und Kate Fisher (Jo Van Fleet) helfen ihm, der drohenden Lynchjustiz zu entkommen. Diese Rettung liegt vor ihrer späteren Zusammenarbeit in Dodge City. Wyatts Eingreifen zeigt, dass er zwischen einem geregelten Verfahren und einer gewalttätigen Menschenmenge unterscheidet, auch wenn der bedrohte Mann zuvor wenig Bereitschaft gezeigt hat, ihm selbst zu helfen.",
-      "anchor": "Die Rettung vor dem Mob begründet eine spätere Verbundenheit.",
       "interest": "Die Rettung erklärt, wie aus anfänglicher Ablehnung eine persönliche Verbundenheit entsteht.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Rettung vor dem Mob begründet eine spätere Verbundenheit."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Das Glücksspiel wird ihr in den Nebenräumen gestattet.",
       "context": "Laura Denbow (Rhonda Fleming) wird wegen ihres Kartenspiels festgenommen, weil Frauen dort nicht am Glücksspiel teilnehmen sollen. Anschließend erhält sie die Erlaubnis, in den Nebenräumen des Saloons weiterzuspielen. Die Ausnahme beseitigt die ungleiche Regel nicht vollständig, sondern verlagert ihre Tätigkeit aus dem öffentlichen Hauptraum. Ihre Begegnung mit Wyatt Earp (Burt Lancaster) beginnt dadurch bereits mit einem Konflikt zwischen persönlicher Selbstbestimmung und der Ordnung, die er vertritt.",
-      "anchor": "Laura darf spielen, wird aber räumlich ausgegrenzt.",
       "interest": "Erkennt die genaue Form einer ausgehandelten Ausnahme.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Laura darf spielen, wird aber räumlich ausgegrenzt."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Er soll den Bahntransport gestohlener Rinder ermöglichen.",
       "context": "In Tombstone kontrollieren die Earps den Bahnhof und behindern damit die wirtschaftlichen Pläne von Ike Clanton (Lyle Bettger). Sheriff Cotton Wilson (Frank Faylen) bietet Wyatt Earp (Burt Lancaster) Geld an, damit gestohlene mexikanische Rinder verschickt werden können. Die Auseinandersetzung betrifft somit nicht nur persönliche Beleidigungen oder die Bereitschaft zum Duell. Hinter der Gewalt steht ein Geschäft, dessen Durchführung von der Kontrolle eines konkreten Verkehrswegs abhängt.",
-      "anchor": "Der Bahnhof wird zum Hebel gegen den Handel mit gestohlenen Rindern.",
       "interest": "Verknüpft Korruption und wirtschaftlichen Konflikt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Bahnhof wird zum Hebel gegen den Handel mit gestohlenen Rindern."
     },
     {
       "code": "S1",
@@ -125,12 +125,12 @@
       ],
       "short": "James Earp wird anstelle seines Bruders Wyatt getötet.",
       "context": "Die Gegner planen, Wyatt Earp (Burt Lancaster) auf seiner nächtlichen Runde zu überfallen. Stattdessen töten sie seinen jüngeren Bruder James Earp (Martin Milner). Der Angriff verschiebt den Konflikt von beruflicher Gegnerschaft zu einem Verlust innerhalb der Familie. Er gehört zur dramatisierten Handlung dieser Filmfassung und darf nicht ohne Weiteres als genaue Rekonstruktion der historischen Ereignisse gelesen werden. Andere Earp-Verfilmungen ordnen die familiären Opfer anders an.",
-      "anchor": "Ein gegen Wyatt gerichteter Anschlag trifft James.",
       "interest": "Unterscheidet den konkreten Filmablauf von anderen Earp-Erzählungen.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein gegen Wyatt gerichteter Anschlag trifft James."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Doc hält zunächst sein Versprechen an Wyatt.",
       "context": "Doc Holliday (Kirk Douglas) darf in Dodge City bleiben, nachdem er Wyatt Earp (Burt Lancaster) zugesagt hat, keinen Streit anzufangen. Als Johnny Ringo (John Ireland) ihn wegen Kate Fisher (Jo Van Fleet) verhöhnt, lässt er sich zunächst nicht auf eine Schießerei ein. Die Zurückhaltung ist damit eine bewusste Reaktion auf eine persönliche Verpflichtung. Sie bedeutet weder allgemeine Gewaltlosigkeit noch fehlende Gefährlichkeit, sondern zeigt die Wirkung der neuen Freundschaft auf sein Verhalten.",
-      "anchor": "Ein gegebenes Wort hält Doc zunächst vom provozierten Schusswechsel ab.",
       "interest": "Fragt die Ursache einer auffälligen Selbstbeherrschung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ein gegebenes Wort hält Doc zunächst vom provozierten Schusswechsel ab."
     },
     {
       "code": "Y",
@@ -172,11 +172,11 @@
       ],
       "short": "Die Lancaster/Douglas-Fassung erschien 1957.",
       "context": "Gunfight at the O.K. Corral erschien 1957. John Sturges griff die Earp/Holliday-Geschichte 1967 mit Hour of the Gun erneut auf; der Abstand beträgt zehn Jahre. Dort spielen James Garner und Jason Robards die Rollen, die hier Burt Lancaster und Kirk Douglas übernehmen. AFI benennt diesen Zusammenhang ausdrücklich. Der Zeitanker verbindet somit zwei Fassungen aus der Arbeit desselben Regisseurs und macht zugleich den Wechsel der Hauptbesetzung sichtbar.",
-      "anchor": "1957 O.K. Corral, 1967 Hour of the Gun: zehn Jahre bis Sturges’ neuer Earp-Fassung.",
       "interest": "Verbindet Erstjahr und konkrete spätere Bearbeitung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1957 O.K. Corral, 1967 Hour of the Gun: zehn Jahre bis Sturges’ neuer Earp-Fassung."
     },
     {
       "code": "D",
@@ -195,11 +195,11 @@
       ],
       "short": "John Sturges führte Hauptregie.",
       "context": "John Sturges inszenierte die Lancaster/Douglas-Fassung. Der Film entwickelt seine zentrale Zusammenarbeit über mehrere Städte und unterschiedliche Situationen, bevor die Gegner in Tombstone offen aufeinandertreffen. Persönliche Loyalität und Ordnungspflicht werden dabei schrittweise miteinander verknüpft. Hal B. Wallis ist als Produzent und Leon Uris als Drehbuchautor zu unterscheiden. Diese Funktionen gehören zur Herstellung des Films, erweitern aber nicht den alleinigen Hauptregiecredit von Sturges.",
-      "anchor": "Sturges baut das Bündnis über mehrere Stationen bis zum offenen Konflikt auf.",
       "interest": "Ordnet die konkrete Fassung ihrem Hauptregisseur zu.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Sturges baut das Bündnis über mehrere Stationen bis zum offenen Konflikt auf."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Sookie ist Köchin.",
       "context": "Ihre Freundschaft mit Lorelai ist eng mit der Arbeit im Gasthof verbunden. Später führen die beiden gemeinsam das Dragonfly Inn. Sookies Perfektionismus beim Kochen und ihre Herzlichkeit sorgen dabei sowohl für komische Schwierigkeiten als auch für Verlässlichkeit.",
-      "anchor": "Sookie verbindet Kochkunst und Freundschaft mit Lorelai.",
       "interest": "Die Serienfigur wird über eine tragende Tätigkeit erkannt.",
       "feedback": [
         "",
@@ -30,7 +29,8 @@
       "extraSources": [
         "https://groundlings.com/people/melissa-mccarthy",
         "https://en.wikipedia.org/wiki/Sookie_St._James"
-      ]
+      ],
+      "objective": "Sookie verbindet Kochkunst und Freundschaft mit Lorelai."
     },
     {
       "code": "L2",
@@ -44,7 +44,6 @@
       "correct": 1,
       "short": "McCarthy spielt Megan Price.",
       "context": "Megan gehört zur Hochzeitsgesellschaft und tritt Annie mit einer ungewöhnlich direkten Mischung aus Selbstbewusstsein und Hilfsbereitschaft gegenüber. Der große Kinoerfolg dieser Nebenrolle führte auch zu einer Oscar-Nominierung. McCarthy war zuvor bereits eine erfahrene Fernsehdarstellerin.",
-      "anchor": "McCarthys Brautalarm-Figur heißt Megan.",
       "interest": "Die bekannte Komödienleistung wird einer Figur zugeordnet.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       "extraSources": [
         "https://groundlings.com/people/melissa-mccarthy",
         "https://www.timeout.com/film/melissa-mccarthy-on-bridesmaids-interview"
-      ]
+      ],
+      "objective": "McCarthys Brautalarm-Figur heißt Megan."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Susan verlässt die Unterstützung am Schreibtisch und ermittelt selbst draußen.",
       "context": "Sie hat die Arbeit eines Feldagenten bisher aus der Zentrale begleitet. Als bekannte Agenten enttarnt sind, wird ihre Unauffälligkeit zum Vorteil. Die Komödie lässt damit eine zuvor übersehene Mitarbeiterin Fähigkeiten einsetzen, die andere ihr nicht zugetraut haben.",
-      "anchor": "Susan tritt aus dem Hintergrund in die eigene Mission.",
       "interest": "Der Berufswechsel erklärt das besondere Heldinnenmodell des Films.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       "extraSources": [
         "https://www.allisonbjanney.com/spy",
         "https://en.wikipedia.org/wiki/Spy_(2015_film)"
-      ]
+      ],
+      "objective": "Susan tritt aus dem Hintergrund in die eigene Mission."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 1,
       "short": "Israel fälscht und verkauft literarische Briefe.",
       "context": "Die frühere Biografin findet mit neuen Büchern keinen Erfolg mehr. Sie verwendet ihr Gespür für fremde Stimmen nun für vermeintliche Sammlerstücke und arbeitet mit Jack Hock zusammen. McCarthys Rolle verbindet komisches Sprachgefühl mit Isolation und einer wachsenden kriminellen Abhängigkeit.",
-      "anchor": "Lee Israels Talent für fremde Stimmen wird zum Werkzeug der Fälschung.",
       "interest": "Die Tat wird mit dem früheren Beruf der historischen Figur verbunden.",
       "feedback": [
         "",
@@ -114,7 +113,8 @@
       "extraSources": [
         "https://www.searchlightpictures.com/canyoueverforgiveme/",
         "https://en.wikipedia.org/wiki/Can_You_Ever_Forgive_Me"
-      ]
+      ],
+      "objective": "Lee Israels Talent für fremde Stimmen wird zum Werkzeug der Fälschung."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 0,
       "short": "Molly unterrichtet an einer Grundschule.",
       "context": "Sie begegnet dem Polizisten Mike bei einer Selbsthilfegruppe. Die Serie entwickelt daraus eine Beziehungskomödie im Arbeits- und Familienalltag Chicagos. Die Berufe verankern das Paar in einer anderen Umgebung als viele Sitcoms über junge Großstadtkarrieren.",
-      "anchor": "Molly startet als Lehrerin, Mike als Polizist.",
       "interest": "Die Rollen werden in ihrem sozialen Alltag eingeordnet.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       "films": [],
       "extraSources": [
         "https://interviews.televisionacademy.com/shows/mike-molly"
-      ]
+      ],
+      "objective": "Molly startet als Lehrerin, Mike als Polizist."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 2,
       "short": "Sie gehörte zu den Groundlings in Los Angeles.",
       "context": "Die Bühne verbindet Improvisation und ausgearbeitete Sketche. Solche Arbeit schult das unmittelbare Reagieren auf Mitspieler ebenso wie das Entwickeln eigener Figuren. McCarthy gehört zu den zahlreichen späteren Film- und Fernsehkomikern aus diesem Umfeld.",
-      "anchor": "McCarthys Komödienarbeit führte über die Groundlings.",
       "interest": "Die berufliche Herkunft erklärt einen wichtigen Teil ihres Handwerks.",
       "feedback": [
         "",
@@ -165,7 +164,8 @@
       "extraSources": [
         "https://groundlings.com/people/melissa-mccarthy",
         "https://groundlings.com/about"
-      ]
+      ],
+      "objective": "McCarthys Komödienarbeit führte über die Groundlings."
     },
     {
       "code": "E1",
@@ -179,7 +179,6 @@
       "correct": 3,
       "short": "Guy Fieri war ein Ausgangspunkt für die Figur.",
       "context": "McCarthy schlug sogar eine kurze, helle Stachelfrisur vor, die für den Film zu nah am Vorbild gewesen wäre. Die fertige Megan blieb eine eigene Mischung. Das Beispiel zeigt, wie Beobachtungen einer realen öffentlichen Person in eine erfundene Komödienfigur eingehen können.",
-      "anchor": "Megan entstand teilweise aus McCarthys Blick auf Guy Fieri.",
       "interest": "Ein konkreter Entwurf macht die Entwicklung einer komischen Figur nachvollziehbar.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       "extraSources": [
         "https://www.youtube.com/watch?v=TCyxaUt_TTY",
         "https://www.eater.com/2011/5/25/6678643/guy-fieri-was-the-inspiration-for-a-character-in-bridesmaids"
-      ]
+      ],
+      "objective": "Megan entstand teilweise aus McCarthys Blick auf Guy Fieri."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 3,
       "short": "McCarthy schrieb gemeinsam mit Ben Falcone.",
       "context": "Falcone führte zudem Regie, während McCarthy die Hauptrolle spielte und mitproduzierte. Die Geschichte einer chaotischen Reise mit der Großmutter war damit auch ein gemeinsames Autorenprojekt. Ihre Beteiligung reichte deutlich über die Ausgestaltung einer bereits angebotenen Rolle hinaus.",
-      "anchor": "Tammy verband McCarthys Schauspiel mit eigener Drehbucharbeit.",
       "interest": "Die Zusammenarbeit zeigt ihren Einfluss auf die Entstehung eines Films.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.warnerbros.it/scheda-film/genere-commedia/tammy/"
-      ]
+      ],
+      "objective": "Tammy verband McCarthys Schauspiel mit eigener Drehbucharbeit."
     }
   ]
 }

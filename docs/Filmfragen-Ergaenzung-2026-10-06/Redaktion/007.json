@@ -32,12 +32,12 @@
       ],
       "short": "Die Gala dient der Einweihung des neuen Hochhauses.",
       "context": "Das neue Gebäude soll mit einer großen Feier seine Modernität und seinen Erfolg zeigen. Der Brand beginnt, während sich zahlreiche Gäste weit oben versammeln. Die Feier macht aus einer Gebäudestörung eine Rettungsaufgabe für viele Menschen; der Stolz auf die Höhe verwandelt sich dabei in eine räumliche Falle.",
-      "anchor": "Die Einweihungsgala wird im neuen Hochhaus zur Falle.",
       "interest": "Der Festanlass erklärt, weshalb so viele Menschen hoch über den Fluchtwegen eingeschlossen sind.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Einweihungsgala wird im neuen Hochhaus zur Falle."
     },
     {
       "code": "L2",
@@ -56,13 +56,13 @@
       ],
       "short": "Doug Roberts ist der Architekt des Hochhauses.",
       "context": "Doug Roberts (Paul Newman) kennt die Konstruktion, doch das Gebäude entspricht nicht in allen Ausführungsdetails seinen Erwartungen. Feuerwehrchef Mike O’Hallorhan (Steve McQueen) bringt eine andere Erfahrung ein. Die Rettung verbindet so Wissen über den Bau mit Wissen über Brände; keiner der beiden kann die Aufgabe allein lösen.",
-      "anchor": "Newman kennt den Bau, McQueen kennt die Brandbekämpfung.",
       "interest": "Der Beruf erklärt die Arbeitsteilung der beiden Hauptfiguren.",
       "sources": [
         "handlung",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Newman kennt den Bau, McQueen kennt die Brandbekämpfung."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "An der Verkabelung wurde gespart; die elektrische Belastung führt zum Brand.",
       "context": "Doug Roberts (Paul Newman) entdeckt zu schwach ausgelegte Leitungen. Roger Simmons (Richard Chamberlain), der verantwortliche Auftragnehmer, hat Kosten gedrückt. Die Katastrophe entspringt damit keinem unerklärlichen Zufall. Zwischen Planung und Ausführung liegt eine Entscheidung, deren Folgen erst sichtbar werden, als das Gebäude voll genutzt wird.",
-      "anchor": "Gesparte Kabel machen die große Eröffnung zur Brandgefahr.",
       "interest": "Der konkrete Konstruktionsfehler verknüpft wirtschaftliche Entscheidung und Katastrophe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Gesparte Kabel machen die große Eröffnung zur Brandgefahr."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Die Wassertanks werden gesprengt, damit ihr Inhalt das Feuer bekämpft.",
       "context": "Mike O’Hallorhan (Steve McQueen) und Doug Roberts (Paul Newman) nutzen die vorhandenen Dachbehälter. Die eingeschlossenen Menschen müssen sich gegen den gewaltigen Wasserschwall sichern. Aus einer Gebäudeeinrichtung wird ein riskantes Löschmittel; die Rettung hängt nun davon ab, Konstruktion und Brandverlauf gemeinsam zu verstehen.",
-      "anchor": "Das Wasser über den Gästen wird zum letzten Löschmittel.",
       "interest": "Die finale Entscheidung nutzt einen konkreten Teil des Gebäudes auf ungewöhnliche Weise.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Wasser über den Gästen wird zum letzten Löschmittel."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "20th Century-Fox und Warner Bros. kooperierten bei dieser Produktion.",
       "context": "Fox und Warner besaßen Rechte an unterschiedlichen Stoffen über brennende Hochhäuser. Statt zwei konkurrierende Großproduktionen zu drehen, verbanden sie ihre Vorhaben. Die Kooperation erklärt die ungewöhnliche Studiokonstellation. Sie ist eine konkrete Antwort auf die Kosten und Überschneidungen der Projekte, keine allgemeine Regel für Katastrophenfilme.",
-      "anchor": "Fox und Warner machen aus konkurrierenden Hochhausprojekten einen Film.",
       "interest": "Die Produktionsgeschichte erklärt eine ungewöhnliche wirtschaftliche Zusammenarbeit.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fox und Warner machen aus konkurrierenden Hochhausprojekten einen Film."
     },
     {
       "code": "S2",
@@ -153,13 +153,13 @@
       ],
       "short": "Der Film kombiniert „The Tower“ und „The Glass Inferno“.",
       "context": "Richard Martin Stern schrieb „The Tower“; Thomas N. Scortia und Frank M. Robinson schrieben „The Glass Inferno“. Das Drehbuch führt Stoff aus beiden Büchern zusammen. Für die Einordnung reicht deshalb kein einzelner Romanautor. Die Adaption ist eine bewusste Verbindung zweier eigenständiger Vorlagen mit ähnlichem Katastrophenszenario.",
-      "anchor": "Zwei Hochhausromane werden zu einem gemeinsamen Filmstoff.",
       "interest": "Die besondere Adaption zeigt, dass eine Verfilmung mehrere Vorlagen verbinden kann.",
       "sources": [
         "afi",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zwei Hochhausromane werden zu einem gemeinsamen Filmstoff."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "„Flammendes Inferno“ wurde 1974 erstmals veröffentlicht.",
       "context": "„Die Höllenfahrt der Poseidon“ war 1972 erschienen; „Flammendes Inferno“ folgte 1974 aus der Produktion von Irwin Allen. Zwei Jahre trennen die Rettung aus dem umgedrehten Schiff von der Rettung aus dem Hochhaus. Die Reihenfolge lässt sich als Wechsel von Wasser zu Feuer merken, ohne die Regisseure der beiden Filme gleichzusetzen.",
-      "anchor": "1972 Poseidon, 1974 Hochhausbrand: zwei Jahre von Wasser zu Feuer.",
       "interest": "Eine verwandte Produktion bildet einen konkreten zeitlichen Erinnerungsanker.",
       "sources": [
         "afi",
         "poseidon"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1972 Poseidon, 1974 Hochhausbrand: zwei Jahre von Wasser zu Feuer."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "John Guillermin ist der Hauptregisseur; Irwin Allen inszenierte Actionsequenzen.",
       "context": "John Guillermin führte die Hauptregie, während Produzent Irwin Allen zusätzlich Actionsequenzen inszenierte. Der Hochhausbrand verbindet dadurch Guillermins Führung der Figurenhandlung mit Allens Arbeit an den spektakulären Gefahrenszenen. Die Credits unterscheiden Hauptregie und zusätzliche Actionregie ausdrücklich.",
-      "anchor": "Hauptregie Guillermin; zusätzliche Actionregie Allen.",
       "interest": "Ein konkret belegter Sonderfall verhindert eine vereinfachende Credit-Zuordnung.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hauptregie Guillermin; zusätzliche Actionregie Allen."
     }
   ]
 }

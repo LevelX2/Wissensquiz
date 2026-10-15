@@ -33,11 +33,11 @@
       ],
       "short": "Zwei verschwundene Atom-U-Boote führen die rivalisierenden Dienste zusammen.",
       "context": "Bond (Roger Moore) untersucht zunächst den Verlust eines britischen U-Boots. Anya Amasova (Barbara Bach) verfolgt einen ähnlichen Fall für die sowjetische Seite. Beide suchen ein System, das die normalerweise schwer auffindbaren Boote orten kann. Aus konkurrierenden Ermittlungen entsteht eine gemeinsame Aufgabe, weil die Bedrohung beide Staaten trifft und ihre bisherigen Feindbilder dafür nicht ausreichen.",
-      "anchor": "Eine gemeinsame U-Boot-Bedrohung verbindet die Gegenspieler des Kalten Kriegs.",
       "interest": "Die zentrale Ausgangslage erklärt, warum die Agenten überhaupt zusammenarbeiten.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Eine gemeinsame U-Boot-Bedrohung verbindet die Gegenspieler des Kalten Kriegs."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Der Lotus kann nach dem Sprung ins Meer unter Wasser weiterfahren.",
       "context": "Bond (Roger Moore) und Anya Amasova (Barbara Bach) werden auf der Küstenstraße von mehreren Angreifern verfolgt. Der Sprung ins Meer wirkt zunächst wie ein verzweifelter Ausweg. Dann werden Räder eingezogen und der Lotus setzt seine Fahrt unter Wasser fort. Das Fahrzeug wechselt damit den Schauplatz der Verfolgung und gibt den Agenten zugleich Waffen für die neue Umgebung.",
-      "anchor": "Der Lotus wechselt die Verfolgung von der Straße ins Meer.",
       "interest": "Das bekannte Gadget wird über seine konkrete Funktion im Ablauf verankert.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Lotus wechselt die Verfolgung von der Straße ins Meer."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Anya erkennt, dass Bond ihren Geliebten getötet hat.",
       "context": "Sergei Barsov (Michael Billington) verfolgt Bond (Roger Moore) in der Eröffnung auf Skiern und wird von ihm getötet. Erst später erfährt Anya Amasova (Barbara Bach), wer dafür verantwortlich war. Ihr Rachewunsch entsteht damit aus einem Ereignis, das das Publikum schon kennt. Die nötige Zusammenarbeit wird zur persönlichen Belastungsprobe, deren Auflösung bis nach der gemeinsamen Mission verschoben bleibt.",
-      "anchor": "Der frühere Skikampf bedroht die spätere Agentenpartnerschaft.",
       "interest": "Die Frage verbindet zwei weit auseinanderliegende Szenen über eine persönliche Ursache.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der frühere Skikampf bedroht die spätere Agentenpartnerschaft."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Stromberg will einen Weltkrieg auslösen und unter Wasser überleben.",
       "context": "Karl Stromberg (Curd Jürgens) verbindet die entführten U-Boote mit seiner abgeschlossenen Unterwasserbasis. Die geplanten Angriffe auf New York und Moskau sollen einen globalen Krieg auslösen. Sein Rückzugsort ist deshalb mehr als ein luxuriöses Versteck: Er soll zum Ausgangspunkt einer neuen Zivilisation werden. Bond (Roger Moore) muss die Abschüsse verhindern, bevor eine technische Entführung zur weltweiten Vernichtung führt.",
-      "anchor": "Die Unterwasserbasis ist Teil eines Plans gegen die ganze Oberfläche.",
       "interest": "Das Ziel des Gegners erklärt den Zusammenhang zwischen U-Booten und Basis.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Unterwasserbasis ist Teil eines Plans gegen die ganze Oberfläche."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Die umprogrammierten Raketen treffen die beiden U-Boote selbst.",
       "context": "Nach dem Kampf im Tanker erreicht Bond (Roger Moore) den Kontrollraum, doch die eroberten Boote sind bereits zur Durchführung des Angriffs unterwegs. Er kann die Katastrophe nicht durch eine bloße Festnahme des Gegners verhindern. Stattdessen verändert er die Zielkoordinaten. Die Angriffswaffen werden dadurch gegeneinander gerichtet, bevor die vorgesehenen Städte getroffen werden können; die militärische Bedrohung wird technisch umgekehrt.",
-      "anchor": "Bond richtet den vorbereiteten Angriff gegen dessen Träger.",
       "interest": "Die konkrete Auflösung verlangt mehr als die Kenntnis des Bösewichtsplans.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Bond richtet den vorbereiteten Angriff gegen dessen Träger."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Die 007 Stage wurde für Ken Adams gewaltiges Tankerset gebaut.",
       "context": "Ken Adam entwarf einen Tankerinnenraum, in dem mehrere entführte U-Boote sichtbar werden sollten. Keine vorhandene Halle bot dafür genügend Platz. Für die Produktion entstand deshalb in Pinewood eine neue permanente Bühne samt großem Tank. Der fiktive Maßstab des Gegners hatte damit eine reale bauliche Folge: Die Filmarchitektur veränderte die Infrastruktur des Studios und wurde für spätere Produktionen weitergenutzt.",
-      "anchor": "Strombergs Tanker machte aus einer Filmidee eine neue Studiohalle.",
       "interest": "Eine belegte Produktionsentscheidung erklärt den ungewöhnlichen Maßstab des Schauplatzes.",
       "sources": [
         "buehne",
         "handlung"
-      ]
+      ],
+      "objective": "Strombergs Tanker machte aus einer Filmidee eine neue Studiohalle."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "1967 Man lebt nur zweimal, 1977 dieser Bond: zehn Jahre Abstand.",
       "context": "Lewis Gilbert hatte 1967 bereits Man lebt nur zweimal inszeniert. Zehn Jahre später kehrte er 1977 für diesen Bond-Film zurück. Beim früheren Abenteuer spielte Sean Connery den Agenten, beim späteren Roger Moore. Der Vergleich verbindet das Veröffentlichungsjahr mit einer konkreten Wiederkehr hinter der Kamera und dem Wechsel der Hauptbesetzung. Die Londoner Premiere fand im Juli 1977 statt.",
-      "anchor": "1967 Man lebt nur zweimal, 1977 dieser Bond: zehn Jahre Abstand.",
       "interest": "Ein bestimmter früherer Bond-Film bietet einen nachvollziehbaren Zeitanker.",
       "sources": [
         "regie",
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "1967 Man lebt nur zweimal, 1977 dieser Bond: zehn Jahre Abstand."
     },
     {
       "code": "D",
@@ -197,13 +197,13 @@
       ],
       "short": "Lewis Gilbert inszenierte den Film.",
       "context": "Lewis Gilbert bringt das weltpolitische Bedrohungsszenario und die persönliche Agentenbeziehung zusammen. Bond (Roger Moore) und Anya Amasova (Barbara Bach) müssen ihre Konkurrenz überwinden, obwohl ihre Zusammenarbeit später von einem privaten Konflikt belastet wird. Die offizielle Bond-Seite bestätigt Gilbert als Regisseur. John Glen war als Cutter und zusätzlicher Unit-Regisseur beteiligt; diese Aufgaben ersetzen den führenden Regiecredit nicht.",
-      "anchor": "Gilbert verbindet großes Spektakel mit einer belasteten Partnerschaft.",
       "interest": "Der Credit wird von der zusätzlichen Action- und Schnittarbeit abgegrenzt.",
       "sources": [
         "regie",
         "archiv",
         "handlung"
-      ]
+      ],
+      "objective": "Gilbert verbindet großes Spektakel mit einer belasteten Partnerschaft."
     }
   ]
 }

@@ -45,13 +45,13 @@
       ],
       "short": "Biologische Waffen führen zur verheerenden Erkrankung.",
       "context": "Biologische Kriegsführung vernichtet den größten Teil der Bevölkerung. Die wenigen Überlebenden reagieren unterschiedlich auf die Erkrankung. Robert Neville (Charlton Heston) verfügt über eine besondere Immunität und bleibt der Wissenschaft verbunden. Die Katastrophe bildet daher nicht nur eine leere Kulisse, sondern bestimmt, wer weiterleben kann und wie die Gruppen einander begegnen.",
-      "anchor": "Die menschenleere Stadt ist die Folge biologischer Kriegsführung.",
       "interest": "Die Ursache erklärt Immunität und die veränderten Gegner.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die menschenleere Stadt ist die Folge biologischer Kriegsführung."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Ihre Lichtempfindlichkeit bestimmt den nächtlichen Angriff.",
       "context": "Die erkrankten Mitglieder der Familie meiden Licht. Neville kann die Stadt tagsüber durchstreifen, während er nachts seine Wohnung verteidigen muss. Sein beleuchteter Schutzraum beruht auf technischer Versorgung. Die Tageszeiten organisieren dadurch den Alltag und machen den Stromgenerator zu einem wichtigen Teil seiner Sicherheit.",
-      "anchor": "Licht schützt Neville; die Nacht öffnet seinen Gegnern den Weg.",
       "interest": "Die Handlungsregel erklärt Tagesrhythmus und Verteidigung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Licht schützt Neville; die Nacht öffnet seinen Gegnern den Weg."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Die Familie verbindet die Katastrophe mit der technisch geprägten alten Welt.",
       "context": "Matthias deutet Wissenschaft als Ursache des Untergangs. Seine Familie bekämpft deshalb gerade die Mittel, mit denen Neville (Charlton Heston) Schutz und Heilung sucht. Beide Seiten betrachten dieselbe Vergangenheit unterschiedlich. Der Konflikt führt über das unmittelbare Überleben hinaus: Ein mögliches Gegenmittel muss Menschen erreichen, die seine wissenschaftliche Herkunft grundsätzlich ablehnen.",
-      "anchor": "Die Katastrophe macht Wissenschaft für Matthias zum Feind, für Neville zum Rettungsweg.",
       "interest": "Die gegensätzliche Deutung erklärt mehr als den äußeren Kampf.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Katastrophe macht Wissenschaft für Matthias zum Feind, für Neville zum Rettungsweg."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Seine Immunität macht das Blut zur Grundlage des Serums.",
       "context": "Neville hat sich mit einem experimentellen Mittel immunisiert. Sein Blut kann nun zur Behandlung eines anderen Überlebenden dienen. Richies (Eric Laneuville) Heilung verwandelt die persönliche Ausnahme in eine übertragbare Hoffnung. Der Film verknüpft deshalb Nevilles isolierten Körper mit der Frage, ob weitere Menschen eine Zukunft erhalten können.",
-      "anchor": "Nevilles eigenes Blut macht persönliche Immunität zur Hoffnung für andere.",
       "interest": "Die Behandlung erklärt den Übergang von Einzelüberleben zu möglicher Rettung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Nevilles eigenes Blut macht persönliche Immunität zur Hoffnung für andere."
     },
     {
       "code": "S1",
@@ -145,12 +145,12 @@
       ],
       "short": "Richie versucht die Heilung auf die Gegner auszuweiten.",
       "context": "Die eigene Genesung lässt Richie eine Aussöhnung für möglich halten. Er glaubt, dass auch die Familie das Serum annehmen könnte. Matthias (Anthony Zerbe) versteht den Besuch jedoch als Täuschung und lässt ihn töten. Die gleiche Behandlung, die Neville als Rettung betrachtet, überwindet das Misstrauen seiner Gegner deshalb nicht automatisch.",
-      "anchor": "Richies Hoffnung auf gemeinsame Heilung scheitert an Matthias’ Misstrauen.",
       "interest": "Die Entscheidung erklärt eine tragische Folge des gescheiterten Verständigungsversuchs.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Richies Hoffnung auf gemeinsame Heilung scheitert an Matthias’ Misstrauen."
     },
     {
       "code": "S2",
@@ -169,13 +169,13 @@
       ],
       "short": "Das Serum bleibt als Rettungsmöglichkeit nach seinem Tod erhalten.",
       "context": "Dutch (Paul Koslo) und die anderen Überlebenden finden Neville sterbend am Brunnen. Er übergibt ihnen das Serum, bevor sie die Stadt verlassen. Sein eigenes Leben endet, doch das daraus gewonnene Mittel bleibt verfügbar. Der Schluss verbindet daher seinen persönlichen Untergang mit einer Zukunftschance, die nun andere weitertragen müssen.",
-      "anchor": "Neville stirbt; das aus seinem Blut gewonnene Serum verlässt mit den Überlebenden die Stadt.",
       "interest": "Das Vermächtnis erklärt die Hoffnung innerhalb des tragischen Endes.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Neville stirbt; das aus seinem Blut gewonnene Serum verlässt mit den Überlebenden die Stadt."
     },
     {
       "code": "Y",
@@ -194,13 +194,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1971.",
       "context": "Der Omega-Mann erschien 1971, siebzehn Jahre nach Richard Mathesons Roman I Am Legend von 1954. Die Verfilmung verändert unter anderem die Art der Katastrophe und der Gegner. Die zeitliche Verbindung ordnet Charlton Hestons Fassung innerhalb der Bearbeitungen desselben Stoffes ein, ohne ihre Einzelheiten mit anderen Versionen gleichzusetzen.",
-      "anchor": "Mathesons Roman 1954 → Der Omega-Mann 1971: siebzehn Jahre später.",
       "interest": "Die Buchverbindung erklärt den gemeinsamen Ausgangsstoff verschiedener Filmfassungen.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mathesons Roman 1954 → Der Omega-Mann 1971: siebzehn Jahre später."
     },
     {
       "code": "D",
@@ -219,13 +219,13 @@
       ],
       "short": "Boris Sagal führte bei diesem Film Regie.",
       "context": "Boris Sagal inszenierte die von John William und Joyce Hooper Corrington geschriebene Fassung. Die Drehbuchautoren ersetzten die vampirähnlichen Gegner des Romans durch Opfer biologischer Kriegsführung. Sagal setzt den Gegensatz zwischen Nevilles technisch geschütztem Alltag und der technikfeindlichen Gemeinschaft ins Bild. Der Kampf handelt damit auch von unterschiedlichen Antworten auf die Katastrophe.",
-      "anchor": "Sagals Fassung verbindet den biologischen Krieg mit einem Konflikt um Wissenschaft und Technik.",
       "interest": "Der Regiehintergrund führt die konkrete Bearbeitung des Romans zur Gestaltung des Konflikts.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Sagals Fassung verbindet den biologischen Krieg mit einem Konflikt um Wissenschaft und Technik."
     }
   ]
 }

@@ -34,11 +34,11 @@
       ],
       "short": "Nascimento sucht wegen seiner Familie einen sichereren Dienstposten.",
       "context": "Roberto Nascimento (Wagner Moura) führt Einsätze der Spezialeinheit BOPE, während seine Frau Rosane Nascimento (Maria Ribeiro) ihr erstes Kind erwartet. Er sucht deshalb einen geeigneten Nachfolger, damit er in eine sicherere Tätigkeit wechseln kann. Die Prüfung junger Beamter hat damit zugleich einen persönlichen Grund. Sein Wunsch nach einem familiären Leben kollidiert mit der fortdauernden Gewalt seiner beruflichen Umgebung.",
-      "anchor": "Die bevorstehende Vaterschaft treibt die Nachfolgersuche an.",
       "interest": "Der Familienwunsch erschließt Nascimentos persönliches Dilemma.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die bevorstehende Vaterschaft treibt die Nachfolgersuche an."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Matias studiert Rechtswissenschaft.",
       "context": "André Matias (André Ramiro) verbindet Polizeidienst und Jurastudium. An der Universität lernt er Maria (Fernanda Machado) und deren Freunde kennen, die eine NGO in der Favela unterstützen. Sein verdeckter Polizeiberuf führt in diesem Umfeld zu Konflikten. Das Studium öffnet ihm zugleich die Aussicht auf eine andere berufliche Zukunft, während sein Eintritt in die Spezialeinheit ihn tiefer in deren Gewaltpraxis hineinzieht.",
-      "anchor": "Matias lebt zwischen Polizeidienst und juristischer Ausbildung.",
       "interest": "Das Studium erklärt den Konflikt zwischen zwei sozialen Umgebungen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Matias lebt zwischen Polizeidienst und juristischer Ausbildung."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Das Geld wird zur Reparatur der Polizeiautos eingesetzt.",
       "context": "Neto Gouveia (Caio Junqueira) arbeitet zunächst in der heruntergewirtschafteten Polizeifahrzeugwerkstatt, André Matias (André Ramiro) im Beschwerdearchiv. Sie entwenden Bestechungsgelder ihrer korrupten Vorgesetzten und setzen damit Fahrzeuge instand. Die vermeintliche Verbesserung löst dienstliche Vergeltung aus. Der Vorgang zeigt, dass nicht nur mangelnde Ausstattung, sondern ein von persönlichen Einnahmen bestimmtes System den normalen Polizeidienst behindert.",
-      "anchor": "Die Wagenreparatur greift in das Bestechungssystem ein.",
       "interest": "Der zweckgebundene Geldgebrauch macht die institutionelle Korruption greifbar.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Wagenreparatur greift in das Bestechungssystem ein."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Ein Pressefoto enttarnt Matias als Polizisten.",
       "context": "Nach dem chaotischen Schusswechsel wird André Matias (André Ramiro) von der Presse fotografiert. Baiano (Fábio Lago) legt Maria (Fernanda Machado) und ihren Freunden später die Zeitung vor und bedroht sie wegen des Polizeikontakts. Die zunächst getrennten Lebensbereiche sind damit öffentlich verbunden. Das Foto wird zum Auslöser von Misstrauen und Gefahr für die Menschen, mit denen Matias außerhalb des Dienstes verkehrt.",
-      "anchor": "Das Zeitungsfoto zerstört die Trennung zwischen Studium und Polizei.",
       "interest": "Die öffentliche Sichtbarkeit verwandelt einen Einsatz in eine persönliche Bedrohung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Zeitungsfoto zerstört die Trennung zwischen Studium und Polizei."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Neto übernimmt Matias’ Brillenübergabe und wird an dessen Stelle angegriffen.",
       "context": "André Matias (André Ramiro) will einem kurzsichtigen Jungen eine Brille bringen. Edu (Paulo Vilela) verrät den Termin an Baiano (Fábio Lago). Weil Matias ein Vorstellungsgespräch wahrnehmen kann, übernimmt Neto Gouveia (Caio Junqueira) die Übergabe. Eine freundschaftliche Vertretung setzt somit den falschen Mann in die vorbereitete Falle. Netos tödliche Verwundung verändert den weiteren Verlauf der Polizeieinsätze.",
-      "anchor": "Die übernommene Brillenübergabe führt Neto in die für Matias gelegte Falle.",
       "interest": "Der Zusammenhang erklärt die tragische Folge einer kleinen Hilfsentscheidung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die übernommene Brillenübergabe führt Neto in die für Matias gelegte Falle."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Nascimento verlangt von Matias die außergerichtliche Tötung Baianos.",
       "context": "BOPE findet Baiano (Fábio Lago) nach einer Folge gewaltsamer Verhöre. Roberto Nascimento (Wagner Moura) überlässt André Matias (André Ramiro) den letzten Schuss auf den gefangenen Mann. Diese Handlung verbindet die Rache für Neto Gouveia (Caio Junqueira) mit Matias’ endgültiger Aufnahme in die Gewaltlogik der Einheit. Der Schluss zeigt gerade die Überschreitung eines regulären polizeilichen Verfahrens.",
-      "anchor": "Die letzte Bewährungsprobe ist eine außergerichtliche Tötung.",
       "interest": "Das Finale verdichtet den moralischen Konflikt des Polizeifilms.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die letzte Bewährungsprobe ist eine außergerichtliche Tötung."
     },
     {
       "code": "Y",
@@ -172,13 +172,13 @@
       ],
       "short": "Der erste Tropa-de-Elite-Film erschien 2007.",
       "context": "City of God erschien 2002, Tropa de Elite folgte 2007: Fünf Jahre liegen zwischen den beiden brasilianischen Filmen über Gewalt in Rio de Janeiro. ANCINE bestätigt den regulären brasilianischen Kinostart im Oktober 2007. Die Berlinale-Auswertung und der französische Kinostart im Presseheft gehören zu 2008. Diese späteren internationalen Termine ändern das erste Veröffentlichungsjahr nicht.",
-      "anchor": "2002 City of God, 2007 Tropa de Elite: fünf Jahre Abstand.",
       "interest": "Der Anker unterscheidet brasilianischen Start und spätere Festivalauswertung.",
       "sources": [
         "ancine",
         "presse",
         "anker"
-      ]
+      ],
+      "objective": "2002 City of God, 2007 Tropa de Elite: fünf Jahre Abstand."
     },
     {
       "code": "D",
@@ -197,12 +197,12 @@
       ],
       "short": "José Padilha inszenierte Tropa de Elite.",
       "context": "Das französische Verleihpresseheft nennt José Padilha ausdrücklich als Regisseur und führt Wagner Moura, Caio Junqueira und André Ramiro als zentrale Darsteller auf. Die Filmhandlung verbindet Nascimentos (Wagner Moura) Nachfolgersuche mit den unterschiedlichen Wegen zweier junger Polizisten. Der Credit gehört zu diesem ersten Film und bleibt von anderen prägenden Namen des brasilianischen Kinos sowie von der späteren Fortsetzung zu unterscheiden.",
-      "anchor": "Padilha inszeniert Nascimento und die beiden Polizeianwärter.",
       "interest": "Der Credit ordnet den Film innerhalb des brasilianischen Kinos ein.",
       "sources": [
         "presse",
         "handlung"
-      ]
+      ],
+      "objective": "Padilha inszeniert Nascimento und die beiden Polizeianwärter."
     }
   ]
 }

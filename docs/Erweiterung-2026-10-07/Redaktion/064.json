@@ -38,12 +38,12 @@
       ],
       "short": "Fünf zufällig verteilte goldene Tickets öffnen die Fabrik.",
       "context": "Wonka (Johnny Depp) kündigt fünf Einladungen an, die in seinen Schokoladentafeln verborgen sind. Für Charlie (Freddie Highmore) ist die Suche wegen der Armut seiner Familie besonders schwierig. Dieselbe Chance trifft damit auf sehr unterschiedliche finanzielle Möglichkeiten und auf entsprechend ungleiche Strategien der anderen Kinder.",
-      "anchor": "Fünf goldene Tickets öffnen eine lange geschlossene Fabrik.",
       "interest": "Ein einfacher Eintrittsmechanismus macht soziale Unterschiede sichtbar.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Fünf goldene Tickets öffnen eine lange geschlossene Fabrik."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Großvater Joe nimmt gemeinsam mit Charlie an der Führung teil.",
       "context": "Großvater Joe (David Kelly) begleitet Charlie (Freddie Highmore). Er kennt die Fabrik aus seiner früheren Arbeit und gewinnt durch die Einladung neue Energie. Für das Kind ist die Führung eine erste Entdeckung; für den Großvater verbindet sie das gegenwärtige Wunder mit einer verlorenen Lebensphase.",
-      "anchor": "Charlie entdeckt die Fabrik, Joe kehrt an seinen alten Arbeitsplatz zurück.",
       "interest": "Zwei Generationen erleben denselben Ort mit verschiedenen Erinnerungen.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Charlie entdeckt die Fabrik, Joe kehrt an seinen alten Arbeitsplatz zurück."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Dr. Wilbur Wonka ist Zahnarzt und verbietet seinem Sohn Süßigkeiten.",
       "context": "Wilbur Wonka (Christopher Lee) untersagt seinem Sohn aus Sorge um die Zähne Süßigkeiten. Willy Wonkas (Johnny Depp) späteres Lebenswerk entsteht gerade in dem Bereich, der ihm als Kind verwehrt wurde. Die Rückblenden geben seiner Distanz zu Familien eine persönliche Vorgeschichte.",
-      "anchor": "Der Süßwarenfabrikant wächst beim Zahnarzt mit Süßigkeitenverbot auf.",
       "interest": "Die neue Vatergeschichte erklärt einen inneren Widerspruch der Hauptfigur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Süßwarenfabrikant wächst beim Zahnarzt mit Süßigkeitenverbot auf."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Wonka möchte einen Nachfolger ohne dessen Familienbindung.",
       "context": "Charlie (Freddie Highmore) möchte die Fabrik, aber nicht um den Preis des Zusammenlebens mit seiner Familie. Wonka (Johnny Depp) muss deshalb seine Vorstellung von einem geeigneten Erben ändern. Die materielle Belohnung bleibt hinter einer Beziehung zurück, deren Wert der Fabrikant erst verstehen lernt.",
-      "anchor": "Die Fabrik ist weniger wert als ein Leben mit der Familie.",
       "interest": "Eine verweigerte Belohnung verändert auch den vermeintlichen Wohltäter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Fabrik ist weniger wert als ein Leben mit der Familie."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Die Tiere übertragen ihre Qualitätsprüfung auf Veruca und werfen sie weg.",
       "context": "Veruca (Julia Winter) will eines der arbeitenden Eichhörnchen besitzen und greift in deren Ablauf ein. Die Tiere prüfen daraufhin sie selbst wie eine Nuss. Ihr ungezügelter Besitzanspruch führt so zu einer Strafe, deren Form unmittelbar aus der Funktion dieses Fabrikraums entsteht.",
-      "anchor": "Wer ein Eichhörnchen besitzen will, wird selbst zur geprüften Nuss.",
       "interest": "Die Strafe folgt der konkreten Arbeitslogik des Schauplatzes.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Wer ein Eichhörnchen besitzen will, wird selbst zur geprüften Nuss."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Deep Roy spielte die verschiedenen Positionen und Bewegungen einzeln; die Aufnahmen wurden kombiniert.",
       "context": "Deep Roy spielte die Oompa-Loompas in vielen Einzelaufnahmen mit veränderten Positionen, Gesten und Ausdrücken. Diese wurden digital kombiniert und verkleinert; zusätzliche Modelle ergänzten die Effekte. Die scheinbar einheitliche Gemeinschaft beruht somit auf bewusst variiertem Schauspiel statt nur auf der Kopie einer einzigen Bewegung.",
-      "anchor": "Viele Oompa-Loompas entstehen aus vielen Darbietungen eines Schauspielers.",
       "interest": "Die Herstellung erklärt Individualität innerhalb einer scheinbar gleichen Gruppe.",
       "sources": [
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Viele Oompa-Loompas entstehen aus vielen Darbietungen eines Schauspielers."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Die Burton-Fassung erschien 2005, 41 Jahre nach dem Roman.",
       "context": "Roald Dahls Roman erschien 1964, diese Fassung 2005. Nach 41 Jahren blieb die Fabrikbesichtigung der Ausgangspunkt, doch der Film ergänzte Wonkas (Johnny Depp) Kindheit. Der Zeitanker verbindet somit die langlebige Vorlage mit einer Adaption, die eine zusätzliche Erklärung für ihren eigentümlichen Gastgeber sucht.",
-      "anchor": "1964 Roman, 2005 neue Fassung: 41 Jahre später.",
       "interest": "Der Abstand ordnet die Buchvorlage und ihre spätere Erweiterung ein.",
       "sources": [
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1964 Roman, 2005 neue Fassung: 41 Jahre später."
     },
     {
       "code": "D",
@@ -206,12 +206,12 @@
       ],
       "short": "Tim Burton führte hier Regie und war bei der früheren Dahl-Adaption Produzent.",
       "context": "Tim Burton kannte die Zusammenarbeit mit Roald Dahls Nachlass bereits aus seiner Produzentenrolle bei „James und der Riesenpfirsich“ von 1996. Für diese Adaption führte er selbst Regie nach John Augusts Drehbuch. Die frühere Verbindung zur Vorlage ergänzt damit seine Zusammenarbeit mit Hauptdarsteller Johnny Depp.",
-      "anchor": "Vom Produzenten einer Dahl-Adaption zum Regisseur einer weiteren.",
       "interest": "Eine konkrete frühere Zusammenarbeit erklärt die Regiewahl.",
       "sources": [
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vom Produzenten einer Dahl-Adaption zum Regisseur einer weiteren."
     }
   ],
   "production_note": "US-amerikanische, britische und australische Koproduktion; Village Roadshow Pictures gehört zum Produktionsteam."

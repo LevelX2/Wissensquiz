@@ -40,11 +40,11 @@
       ],
       "short": "Vertriebene Märchenwesen suchen Zuflucht im Sumpf.",
       "context": "Shrek (Originalstimme: Mike Myers) möchte allein in seinem Sumpf leben. Doch Farquaad (Originalstimme: John Lithgow) lässt die Märchenwesen aus seinem Gebiet entfernen, und sie landen ausgerechnet dort. Ihre Zuflucht wird für den Einzelgänger zur unerwünschten Besetzung seines Zuhauses. Seine Reise beginnt daher aus dem Wunsch, die frühere Ruhe zurückzugewinnen, und führt ihn gerade dadurch in Beziehungen, denen er bisher ausgewichen ist.",
-      "anchor": "Farquaads Vertreibung beendet Shreks Ruhe.",
       "interest": "Erkennt die politische Ursache des persönlichen Ausgangskonflikts.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Farquaads Vertreibung beendet Shreks Ruhe."
     },
     {
       "code": "L2",
@@ -63,11 +63,11 @@
       ],
       "short": "Farquaad braucht die Prinzessin für seinen Königstitel.",
       "context": "Farquaad (Originalstimme: John Lithgow) beherrscht Duloc, gilt aber noch nicht als König. Der Zauberspiegel erklärt ihm, dass die Heirat mit einer Prinzessin diesen Status ermöglichen würde. Seine Brautwahl folgt daher einem Herrschaftsplan, während er die gefährliche Rettung anderen überlassen möchte. Der Film stellt das vertraute Märchenmotiv der Prinzessinnenbefreiung damit in den Dienst eines eigennützigen politischen Aufstiegs.",
-      "anchor": "Die Braut soll den Herrscher zum König machen.",
       "interest": "Unterscheidet den ausdrücklich genannten Heiratszweck von einer Liebesmotivation.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Braut soll den Herrscher zum König machen."
     },
     {
       "code": "M1",
@@ -86,11 +86,11 @@
       ],
       "short": "Die Drachin verliebt sich in den Esel.",
       "context": "Der Esel (Originalstimme: Eddie Murphy) begegnet der Drachin zunächst wie einem gefährlichen Bewacher. Seine Worte führen jedoch zu einer unerwarteten Annäherung: Sie verliebt sich in ihn. Damit ist das Hindernis nicht nur durch Kampf zu überwinden. Die neue Beziehung bekommt später erneut Bedeutung, weil der scheinbare Gegner als Helferin zurückkehrt und die Reise zur Hochzeit überhaupt erst ermöglicht.",
-      "anchor": "Die Bewacherin wird zur verliebten Helferin.",
       "interest": "Erkennt den Rollenwechsel einer zunächst bedrohlichen Figur.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Bewacherin wird zur verliebten Helferin."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Bei Sonnenuntergang wird Fiona zum Oger.",
       "context": "Fiona (Originalstimme: Cameron Diaz) erscheint am Tag als Mensch und verwandelt sich bei Sonnenuntergang in einen Oger. Deshalb zieht sie sich abends zurück und drängt später auf eine Hochzeit vor Einbruch der Nacht. Der Esel (Originalstimme: Eddie Murphy) entdeckt ihr Geheimnis in der Mühle. Diese zeitliche Regel erklärt mehrere Entscheidungen, die ohne sie wie bloße Abwehr oder Ungeduld wirken.",
-      "anchor": "Der Sonnenuntergang erklärt Fionas Eile.",
       "interest": "Verbindet die Verwandlungsregel mit ihren konkreten Handlungsentscheidungen.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Sonnenuntergang erklärt Fionas Eile."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Shrek glaubt, Fiona verachte sein Aussehen.",
       "context": "Fiona (Originalstimme: Cameron Diaz) spricht mit dem Esel (Originalstimme: Eddie Murphy) über ihre eigene Ogergestalt. Shrek (Originalstimme: Mike Myers) hört nur einen Teil und hält ihre Selbstbeschreibung für eine Abwertung seiner Person. Seine frühere Erfahrung mit Zurückweisung macht den Irrtum für ihn überzeugend. Statt nachzufragen, zieht er sich zurück und liefert sie an den vorgesehenen Bräutigam aus.",
-      "anchor": "Fionas Selbstkritik wird für Shrek zur vermeintlichen Kränkung.",
       "interest": "Erklärt das konkrete Missverständnis hinter der Trennung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Fionas Selbstkritik wird für Shrek zur vermeintlichen Kränkung."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Fiona bleibt ein Oger.",
       "context": "Fiona (Originalstimme: Cameron Diaz) erwartet vom Kuss der wahren Liebe die Aufhebung ihres Fluchs. Als sie Shrek (Originalstimme: Mike Myers) küsst, endet der tägliche Wechsel tatsächlich, doch sie bleibt ein Oger. Ihre Liebe führt damit nicht zur Rückkehr in das erwartete menschliche Schönheitsbild. Das Finale beantwortet die Frage nach ihrer wahren Gestalt durch Zugehörigkeit und Zuneigung statt gesellschaftlicher Anerkennung.",
-      "anchor": "Der Fluch endet, die Ogergestalt bleibt.",
       "interest": "Erfasst die konkrete Umkehr der erwarteten Märchenverwandlung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Fluch endet, die Ogergestalt bleibt."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Shrek wurde 2001 erstmals veröffentlicht.",
       "context": "Shrek erschien 2001; Shrek 2 folgte 2004, drei Jahre später. Die DreamWorks-Filmseiten bestätigen beide Jahre. Der erste Film führt die Beziehungen und die besondere Umkehr vertrauter Märchenregeln ein. Die Fortsetzung setzt bei dem bereits verheirateten Paar an. Der Abstand hilft, den ursprünglichen Film von der späteren Familien- und Hofgeschichte zu trennen, die auf seinen Entscheidungen aufbaut.",
-      "anchor": "Shrek 2001, Shrek 2 2004: drei Jahre.",
       "interest": "Ordnet den Auftakt zur konkreten ersten Fortsetzung ein.",
       "sources": [
         "studio",
         "sequel",
         "film"
-      ]
+      ],
+      "objective": "Shrek 2001, Shrek 2 2004: drei Jahre."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Andrew Adamson und Vicky Jenson führten gemeinsam Regie.",
       "context": "Cannes und DreamWorks nennen Andrew Adamson und Vicky Jenson als Regieteam des ersten Shrek-Films. Die gemeinsame Inszenierung verbindet ein Rettungsabenteuer mit der Umkehr vertrauter Märchenbilder. Shrek (Originalstimme: Mike Myers) gewinnt Nähe nicht durch die Verwandlung in einen herkömmlichen Prinzen. Der vollständige Credit gehört zu diesem ersten Film und darf nicht mit den wechselnden Teams späterer Folgen zusammengezogen werden.",
-      "anchor": "Zwei Hauptregisseure für den ersten Shrek.",
       "interest": "Sichert den vollständigen gemeinsamen Credit und seine Filmzuordnung.",
       "sources": [
         "cannes",
         "studio",
         "film"
-      ]
+      ],
+      "objective": "Zwei Hauptregisseure für den ersten Shrek."
     }
   ]
 }

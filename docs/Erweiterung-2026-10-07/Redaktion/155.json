@@ -39,12 +39,12 @@
       ],
       "short": "Der Kämpfer soll den Anführer einer Geheimgesellschaft töten.",
       "context": "Der Kämpfer soll den Anführer einer Geheimgesellschaft töten. Der Auftrag eröffnet einen Machtkampf, dessen Verhältnisse er erst kennenlernen muss. Das Ziel ist bestimmbar, die Interessen dahinter aber nicht sofort durchschaubar. Sein Weg führt nicht geradlinig zum entscheidenden Zweikampf.",
-      "anchor": "Ein Tötungsauftrag führt in einen verdeckten Machtkampf.",
       "interest": "Der Auftrag eröffnet das Geschehen.",
       "sources": [
         "archiv"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein Tötungsauftrag führt in einen verdeckten Machtkampf."
     },
     {
       "code": "L2",
@@ -63,12 +63,12 @@
       ],
       "short": "Die Frau ist die Tochter des vorgesehenen Opfers.",
       "context": "Die Frau ist die Tochter des vorgesehenen Opfers. Die Bindung verändert den Auftrag. Der Kämpfer kann das Ziel nicht mehr isoliert betrachten. Seine Entscheidung betrifft jemanden, der mit dem geplanten Tod eng verbunden ist, und stellt die berufliche Loyalität gegen eine neue Beziehung.",
-      "anchor": "Die Liebe bindet den Kämpfer an die Familie seines Ziels.",
       "interest": "Die Beziehung verändert die Bedeutung des Auftrags.",
       "sources": [
         "chinesisch"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Liebe bindet den Kämpfer an die Familie seines Ziels."
     },
     {
       "code": "M1",
@@ -87,12 +87,12 @@
       ],
       "short": "Ein bedeutend aufgebautes Brückenduell endet sehr schnell tödlich.",
       "context": "Ein bedeutend aufgebautes Brückenduell endet sehr schnell tödlich. Der Ausgang nimmt der angekündigten Überlegenheit ihre Dauer. Celestial Pictures beschreibt den Auftakt als Bild des vergehenden Ruhms. Ein beeindruckender Ruf bietet keinen verlässlichen Schutz vor dem nächsten Gegner.",
-      "anchor": "Das kurze Duell lässt den aufgebauten Ruhm vergehen.",
       "interest": "Die Eröffnung setzt ein Bild für Vergänglichkeit.",
       "sources": [
         "celestial"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das kurze Duell lässt den aufgebauten Ruhm vergehen."
     },
     {
       "code": "M2",
@@ -111,12 +111,12 @@
       ],
       "short": "Die Tode seines Sohnes und seines Auftragskämpfers lassen den Clanführer einen Verräter vermuten.",
       "context": "Die Tode seines Sohnes und seines Auftragskämpfers lassen den Clanführer einen Verräter vermuten. Die Gefahr liegt nicht ausschließlich außerhalb der Gruppe. Nähe und vertraute Rollen garantieren keine Sicherheit. Die Suche richtet sich auf das eigene Umfeld und prüft vermeintliche Loyalitäten neu.",
-      "anchor": "Die Verluste führen den Verdacht ins eigene Umfeld.",
       "interest": "Die Tode verändern die Richtung der Untersuchung.",
       "sources": [
         "chinesisch"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Verluste führen den Verdacht ins eigene Umfeld."
     },
     {
       "code": "S1",
@@ -135,12 +135,12 @@
       ],
       "short": "Han Tang, gespielt von Lo Lieh, trägt einen Hut mit Klingen.",
       "context": "Han Tang, gespielt von Lo Lieh, trägt einen Hut mit Klingen. Ein Bestandteil seines Erscheinungsbildes wird zur Waffe. Celestial Pictures hebt diese Gestaltung hervor. Sie hilft, den Kämpfer innerhalb des großen Ensembles wiederzuerkennen, ohne seine Rolle nur über den gesprochenen Namen zu erklären.",
-      "anchor": "Han Tangs Hut verbindet Wiedererkennbarkeit und Waffenfunktion.",
       "interest": "Die Ausrüstung prägt eine konkrete Figur.",
       "sources": [
         "celestial"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Han Tangs Hut verbindet Wiedererkennbarkeit und Waffenfunktion."
     },
     {
       "code": "S2",
@@ -159,12 +159,12 @@
       ],
       "short": "Feinde sind leichter einzuordnen, weil ihre Stellung bekannt ist.",
       "context": "Feinde sind leichter einzuordnen, weil ihre Stellung bekannt ist. Der Clanführer benennt die Unsicherheit hinter vertrauten Beziehungen. Loyalität wird zur Prüfaufgabe. Eine offen gegnerische Position kann berechenbarer sein als ein freundlicher Auftritt mit verborgenem Ziel.",
-      "anchor": "Der offene Feind ist berechenbarer als die verborgene Loyalität.",
       "interest": "Die Aussage benennt den Kern der Intrigen.",
       "sources": [
         "celestial"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der offene Feind ist berechenbarer als die verborgene Loyalität."
     },
     {
       "code": "Y",
@@ -183,7 +183,6 @@
       ],
       "short": "Erste Veröffentlichung 1976; Gu-Long-Adaption von Shaw Brothers, keine Erstveröffentlichung beim späteren IFFR 2011.",
       "context": "„Killer Clans“ erschien 1976. Gu Longs Roman „Liuxing Hudie Jian“ war 1973 veröffentlicht worden, drei Jahre zuvor. Die Folge führt vom Buch zur Verfilmung. Das Hong Kong Film Archive und IFFR ordnen den Film als wichtigen Anstoß für weitere Gu-Long-Adaptionen ein; die Festivalaufführung von 2011 verändert sein Filmjahr nicht.",
-      "anchor": "Roman 1973, Film 1976: drei Jahre vom Buch zur Leinwand.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
@@ -191,7 +190,8 @@
         "archiv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1973, Film 1976: drei Jahre vom Buch zur Leinwand."
     },
     {
       "code": "D",
@@ -210,14 +210,14 @@
       ],
       "short": "Chor Yuen inszenierte nach Ni Kuangs Drehbuch eine Vorlage von Gu Long.",
       "context": "Chor Yuen inszenierte nach Ni Kuangs Drehbuch eine Vorlage von Gu Long. IFFR hebt den Gegensatz zwischen heftigen Kämpfen und poetischen Schauplätzen hervor. Beziehungen und verdeckte Interessen tragen eine Ermittlungsstruktur innerhalb der Kampfkunstwelt. Eine sichtbare Gruppenzugehörigkeit genügt nicht, um die tatsächliche Loyalität einer Figur zu kennen.",
-      "anchor": "Chor Yuen verbindet Gu Longs Intrigen mit poetischen Schauplätzen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "archiv",
         "iffr"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Chor Yuen verbindet Gu Longs Intrigen mit poetischen Schauplätzen."
     }
   ]
 }

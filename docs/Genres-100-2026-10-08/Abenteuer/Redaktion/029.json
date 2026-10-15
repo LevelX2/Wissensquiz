@@ -34,11 +34,11 @@
       ],
       "short": "Chingachgook hat Hawkeye als Sohn angenommen.",
       "context": "Hawkeye (Daniel Day-Lewis) reist mit Chingachgook (Russell Means) und dessen Sohn Uncas (Eric Schweig). Die Männer bilden eine Familie trotz unterschiedlicher Herkunft. Dieser Zusammenhang erklärt ihre gegenseitige Bindung jenseits der militärischen Lager, die die Landschaft in Kriegsgebiet verwandeln.",
-      "anchor": "Hawkeye gehört durch Adoption zur Familie.",
       "interest": "Die Beziehung wird klar von Herkunft und militärischer Loyalität getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Hawkeye gehört durch Adoption zur Familie."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Ihr Vater kommandiert das Fort.",
       "context": "Cora (Madeleine Stowe) und Alice (Jodhi May) sind Töchter Colonel Munros (Maurice Roëves). Ihre Reise führt sie gerade dorthin, wo eine Belagerung droht. Der Familienbesuch wird damit zum Weg in den Krieg und bringt die Frauen mit Hawkeyes (Daniel Day-Lewis) Gruppe zusammen.",
-      "anchor": "Der Weg zum Vater führt in die Belagerung.",
       "interest": "Der einfache Reiseanlass erklärt den Eintritt in den größeren Konflikt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Weg zum Vater führt in die Belagerung."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Die zugesagte Rückkehr zu den bedrohten Höfen wird verweigert.",
       "context": "Die Milizionäre hatten nur unter einer Bedingung Dienst zugesagt: Bei Gefahr sollten sie ihre eigenen Höfe schützen dürfen. Munro (Maurice Roëves) hält sich nicht daran. Hawkeye (Daniel Day-Lewis) unterstützt ihre Rückkehr und gerät dadurch selbst unter den Vorwurf des Aufruhrs.",
-      "anchor": "Die Heimatpflicht widerspricht dem Befehl im Fort.",
       "interest": "Der Streit wird als Konflikt zweier Verpflichtungen verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Heimatpflicht widerspricht dem Befehl im Fort."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Magua verbindet Munro mit seinen schweren persönlichen Verlusten.",
       "context": "Magua (Wes Studi) verfolgt eigene Ziele innerhalb des Krieges. Er gibt Munro (Maurice Roëves) die Schuld an Familienverlust und Versklavung. Sein Angriff auf die Töchter richtet sich deshalb gegen die Familie seines Gegners und geht über einen bloßen militärischen Seitenkonflikt hinaus.",
-      "anchor": "Magua führt eine persönliche Rache im Krieg.",
       "interest": "Die Gegnerschaft wird über eine konkrete Verlustgeschichte erklärt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Magua führt eine persönliche Rache im Krieg."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Heyward ersetzt Hawkeyes Opferangebot durch sein eigenes.",
       "context": "Hawkeye (Daniel Day-Lewis) will sich für Cora (Madeleine Stowe) einsetzen. Heyward (Steven Waddington) übersetzt die Verhandlung, verändert aber den entscheidenden Inhalt. Der zuvor eifersüchtige Mann rettet sie so durch den eigenen Tod; seine Handlung korrigiert das frühere Bild seiner Rivalität.",
-      "anchor": "Heywards Übersetzung wird zu seinem Opfer.",
       "interest": "Die Entscheidung zeigt Entwicklung anhand einer konkreten sprachlichen Handlung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Heywards Übersetzung wird zu seinem Opfer."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Er nimmt die Rache für Uncas selbst auf sich.",
       "context": "Magua (Wes Studi) hat Uncas (Eric Schweig) getötet. Hawkeye (Daniel Day-Lewis) hält die übrigen Gegner in Schach, während Chingachgook (Russell Means) Magua begegnet. Der Schlusskampf wird dadurch als Tat des Vaters gestaltet und führt zum anschließenden Abschied von seinem Sohn.",
-      "anchor": "Chingachgook führt den letzten persönlichen Kampf.",
       "interest": "Die Aufgabenverteilung erklärt die Vaterperspektive des Finales.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Chingachgook führt den letzten persönlichen Kampf."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "Die Mann-Fassung erschien 1992.",
       "context": "James Fenimore Coopers Roman Der letzte Mohikaner erschien 1826. Michael Manns Verfilmung mit Daniel Day-Lewis wurde 1992 veröffentlicht, 166 Jahre später. Die Vorlage erzählt dagegen von Ereignissen während des Krieges im Jahr 1757. Der Zeitanker trennt damit drei Ebenen: die erzählte Vergangenheit, das Erscheinen des Romans und die spätere Bearbeitung als historisches Kinoabenteuer.",
-      "anchor": "1826 Coopers Roman – 1992 Manns Film: 166 Jahre Abstand.",
       "interest": "Der Wechsel des Regisseurs zum historischen Abenteuer verankert das Jahr.",
       "sources": [
         "archiv",
         "zeitanker"
-      ]
+      ],
+      "objective": "1826 Coopers Roman – 1992 Manns Film: 166 Jahre Abstand."
     },
     {
       "code": "D",
@@ -196,11 +196,11 @@
       ],
       "short": "Michael Mann führte Regie.",
       "context": "Michael Mann verbindet die gefährliche Reise der Familie mit militärischen und persönlichen Loyalitätskonflikten. Der BFI-Credit bezeichnet die Fassung mit Daniel Day-Lewis. Die Romanvorlage wurde mehrfach verfilmt; dieser Besetzungsbezug hält die Regiefrage bei einer eindeutig bestimmten Produktion.",
-      "anchor": "Mann führt Day-Lewis durch den Krieg im Wald.",
       "interest": "Der Credit bleibt an eine bestimmte Adaption gebunden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Mann führt Day-Lewis durch den Krieg im Wald."
     }
   ]
 }

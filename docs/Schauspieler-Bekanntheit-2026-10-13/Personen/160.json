@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Marie verliebt sich in Roy und begleitet ihn nach dem Überfall auf der Flucht.",
       "context": "Marie kommt zunächst als Freundin eines jüngeren Bandenmitglieds ins Versteck. Sie fühlt sich jedoch zu Roy (Humphrey Bogart) hingezogen, der anfangs auf eine andere Zukunft hofft. Nach dem gescheiterten Überfall bleibt Marie an seiner Seite. Als die Polizei ihn in den Bergen einkreist, verweigert sie die Aufforderung, ihn aus dem Versteck zu locken: Sie weiß, dass er nicht ins Gefängnis zurückkehren will.",
-      "anchor": "Marie hält auch während Roys aussichtsloser Flucht zu ihm.",
       "interest": "Die Beziehung erschließt Lupinos Anteil an der tragischen Gangstergeschichte.",
       "feedback": [
         "Marie verliebt sich in Roy und begleitet ihn nach dem Überfall auf der Flucht.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/26738"
-      ]
+      ],
+      "objective": "Marie hält auch während Roys aussichtsloser Flucht zu ihm."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Lily tritt als Sängerin auf und begleitet sich am Klavier.",
       "context": "Jefty Robbins (Richard Widmark) bringt Lily in seinen Nachtclub und erwartet auch ihre Zuneigung. Sie interessiert sich jedoch für den Geschäftsführer Pete Morgan (Cornel Wilde). Aus dem Engagement wird ein Dreieckskonflikt, in dem Jefty Liebe mit Besitz verwechselt. Seine falsche Diebstahlsbeschuldigung gegen Pete bindet den Rivalen sogar gerichtlich an ihn und verschärft Lilys bedrängte Lage.",
-      "anchor": "Lilys Auftritt im Nachtclub steht am Anfang eines gewaltsamen Dreieckskonflikts.",
       "interest": "Der berufliche Einstieg zeigt die eigenständige Figur hinter der begehrten Sängerin.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25699-ROAD-HOUSE"
-      ]
+      ],
+      "objective": "Lilys Auftritt im Nachtclub steht am Anfang eines gewaltsamen Dreieckskonflikts."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Lana reagiert auf Joes Heiratspläne mit Cassie.",
       "context": "Lana hat ihren betrunkenen Mann Ed (Alan Hale) mit laufendem Motor in der Garage zurückgelassen. Nach dessen Tod bietet sie Joe (George Raft) eine geschäftliche Partnerschaft an und hofft auf eine gemeinsame Zukunft. Seine geplante Ehe mit Cassie (Ann Sheridan) zerstört diese Hoffnung. Erst Lanas Zusammenbruch im Zeugenstand befreit Joe von der falschen Anschuldigung.",
-      "anchor": "Die verschmähte Hoffnung auf Joe schlägt in eine falsche Mordbeschuldigung um.",
       "interest": "Der Auslöser verbindet Liebesanspruch, Geschäft und den Wechsel zum Gerichtsdrama.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/4635-THEY-DRIVE-BY-NIGHT"
-      ]
+      ],
+      "objective": "Die verschmähte Hoffnung auf Joe schlägt in eine falsche Mordbeschuldigung um."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 2,
       "short": "Harry erfährt, dass Phyllis von ihm schwanger ist.",
       "context": "Harry (Edmond O’Brien) hat Phyllis in Los Angeles kennengelernt, während er mit Eve (Joan Fontaine) in San Francisco verheiratet bleibt. Phyllis möchte zunächst keine Heirat aus Pflichtgefühl; erst seine Liebesversicherung überzeugt sie. Der Film verteilt das Wissen über Harrys Doppelleben ungleich. Als eine Adoptionsprüfung die zweite Familie aufdeckt, müssen beide Frauen mit einer Wahrheit umgehen, die ihnen vorenthalten wurde.",
-      "anchor": "Die Schwangerschaft verstärkt Harrys Verantwortungsgefühl, ohne sein Doppelleben zu lösen.",
       "interest": "Der Zusammenhang unterscheidet die beiden Ehen und vermeidet ein bloßes Urteil über den Titelhelden.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/50764"
-      ]
+      ],
+      "objective": "Die Schwangerschaft verstärkt Harrys Verantwortungsgefühl, ohne sein Doppelleben zu lösen."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 0,
       "short": "Mary blieb nach dem Tod der Mutter bei ihrem Bruder Danny.",
       "context": "Mary verbirgt Danny (Sumner Williams), der wegen eines Mordes gesucht wird. Dem Polizisten Jim Wilson (Robert Ryan) gelingt es zunächst, ihr Vertrauen zu gewinnen und eine freiwillige Übergabe anzubahnen. Danny flieht dennoch und erzählt Jim von Marys Verzicht auf die Operation. Ihre Fürsorge steht dem von Rache getriebenen Vater des Opfers gegenüber und verändert auch Jims bisherigen Umgang mit Menschen.",
-      "anchor": "Marys Fürsorge hat sie eine mögliche Behandlung ihrer eigenen Blindheit gekostet.",
       "interest": "Der Verzicht macht die enge Bindung und die moralische Gegenposition zur Polizeigewalt verständlich.",
       "feedback": [
         "Mary blieb nach dem Tod der Mutter bei ihrem Bruder Danny.",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/50230"
-      ]
+      ],
+      "objective": "Marys Fürsorge hat sie eine mögliche Behandlung ihrer eigenen Blindheit gekostet."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 1,
       "short": "Marion will nicht zurückkehren, wenn Charlie erneut beim Studioboss unterschreibt.",
       "context": "Marion hält das Filmgeschäft für die Ursache von Charlie Castles (Jack Palance) verlorenem Anstand. Der Studioboss Hoff (Rod Steiger) hat einen tödlichen Unfall gedeckt und nutzt dieses Wissen, um den Star zu binden. Charlie steht damit zwischen der erhofften familiären Erneuerung und seiner erpresserischen beruflichen Abhängigkeit. Die Vertragsentscheidung betrifft seine Ehe ebenso wie seine Karriere.",
-      "anchor": "Der neue Studiovertrag gefährdet zugleich Charlies Chance auf eine erneuerte Ehe.",
       "interest": "Die Bedingung verbindet den privaten Konflikt mit der Kritik am Studiosystem.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/51444-THE-BIG-KNIFE"
-      ]
+      ],
+      "objective": "Der neue Studiovertrag gefährdet zugleich Charlies Chance auf eine erneuerte Ehe."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Lupino sprang für den erkrankten Elmer Clifton ein.",
       "context": "Lupino war bereits als Autorin und Produzentin an dem Projekt beteiligt. Nach Cliftons Erkrankung führte sie Regie, ließ ihm aber den offiziellen Regiecredit. Die mit geringen Mitteln gedrehte Geschichte einer unverheirateten Mutter nutzte Straßen und umfunktionierte Räume statt aufwendiger Studiobauten. Der praktische Einstieg verband sich damit unmittelbar mit ihrem Interesse an gesellschaftlichen Problemen außerhalb üblicher Starvehikel.",
-      "anchor": "Die Produzentin und Autorin übernimmt die praktische Regie, während Clifton den Credit behält.",
       "interest": "Der konkrete Wechsel erklärt Lupinos Weg von der Schauspielerin zur unabhängigen Filmemacherin.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       "extraSources": [
         "https://www.bfi.org.uk/lists/ida-lupino-director",
         "https://en.wikipedia.org/wiki/Not_Wanted"
-      ]
+      ],
+      "objective": "Die Produzentin und Autorin übernimmt die praktische Regie, während Clifton den Credit behält."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 1,
       "short": "Die Wörter „rape“ und „rapist“ wurden aus dem Drehbuch entfernt.",
       "context": "Die PCA hatte eine frühe Fassung wegen ihrer Behandlung sexueller Gewalt abgelehnt. Nach Überarbeitungen billigte Joseph Breen das Drehbuch und verlangte weiterhin Zurückhaltung bei der Darstellung. Die Tat und ihre Folgen bleiben dennoch der Kern des Films: Ann (Mala Powers) flieht vor ihrer vertrauten Umgebung und muss mit anhaltender Angst leben. Die Einschränkung betrifft also die Benennung eines Geschehens, das die Erzählung vollständig prägt.",
-      "anchor": "Der Film erzählt die Folgen einer Vergewaltigung, ohne das Wort auszusprechen.",
       "interest": "Die dokumentierte Zensurentscheidung zeigt die Arbeitsbedingungen von Lupinos sozialem Kino.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/26441-OUTRAGE"
-      ]
+      ],
+      "objective": "Der Film erzählt die Folgen einer Vergewaltigung, ohne das Wort auszusprechen."
     }
   ]
 }

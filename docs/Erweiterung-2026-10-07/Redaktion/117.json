@@ -41,12 +41,12 @@
       ],
       "short": "Die Suche gilt dem entlaufenen Pferd.",
       "context": "Jim Craig (Tom Burlinson) muss sich bei der Rückholung eines wertvollen entlaufenen Pferdes bewähren. Die Aufgabe verbindet seine Fähigkeiten mit dem Urteil anderer Menschen. Der Film zeigt damit einen jungen Mann, dessen Platz in der Gemeinschaft noch nicht allein durch seine Herkunft oder Absicht gesichert ist.",
-      "anchor": "Die Rückholung des Pferdes soll aus vermuteter Fähigkeit öffentlich anerkannte Bewährung machen.",
       "interest": "Erfasst die konkrete Bewährungsaufgabe.",
       "sources": [
         "aso"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Rückholung des Pferdes soll aus vermuteter Fähigkeit öffentlich anerkannte Bewährung machen."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Jim und Jessica kommen einander näher.",
       "context": "Jim (Tom Burlinson) liebt Jessica (Sigrid Thornton), die Tochter Harrisons (Kirk Douglas). Die Beziehung macht seine Stellung beim Arbeitgeber zugleich zu einer persönlichen Frage. Anerkennung für Fähigkeiten und Zustimmung zur Verbindung müssen deshalb nicht automatisch zusammenfallen, obwohl beides von demselben mächtigen Mann abhängt.",
-      "anchor": "Jim sucht Anerkennung als Reiter und als Partner der Tochter seines Arbeitgebers.",
       "interest": "Verbindet berufliche und persönliche Abhängigkeit.",
       "sources": [
         "aso"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jim sucht Anerkennung als Reiter und als Partner der Tochter seines Arbeitgebers."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Die Brüder waren auch Liebesrivalen.",
       "context": "Harrison und Spur (beide Kirk Douglas) sind Brüder, deren frühere Rivalität um Jessicas Mutter ihre Beziehung belastet. Die doppelte Besetzung macht Nähe und Gegensatz sichtbar. Jessica (Sigrid Thornton) muss daher nicht allein den eigenen Vater verstehen, sondern auch die verdrängte Familiengeschichte, die seine Haltung mitbestimmt.",
-      "anchor": "Die beiden Brüder tragen eine alte Liebesrivalität in die gegenwärtige Familie.",
       "interest": "Erklärt die Vorgeschichte des Familienstreits.",
       "sources": [
         "aso"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die beiden Brüder tragen eine alte Liebesrivalität in die gegenwärtige Familie."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Curly setzt das Pferd frei, damit Jim verdächtigt wird.",
       "context": "Curly (Chris Haywood) lässt das wertvolle Pferd frei und hofft auf einen Verdacht gegen Jim (Tom Burlinson). Die neue Suche ist deshalb nicht bloß ein weiterer Zufall der Landschaft. Sie entsteht aus einer Intrige, die Jims ohnehin unsichere soziale Stellung gezielt gegen ihn verwendet.",
-      "anchor": "Curlys Intrige verwandelt die unsichere Anerkennung Jims in einen neuen Verdacht.",
       "interest": "Erklärt den absichtlichen Anlass der letzten Suche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Curlys Intrige verwandelt die unsichere Anerkennung Jims in einen neuen Verdacht."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Jim setzt die Verfolgung am Steilhang fort.",
       "context": "Jim (Tom Burlinson) folgt der Herde den Steilhang hinunter, als die anderen die Verfolgung aufgeben. Die Bewährung entsteht aus einer konkreten räumlichen Entscheidung. Der riskante Ritt zeigt eine Fähigkeit, die zuvor angezweifelt wurde, und verändert dadurch seine Stellung gegenüber den beobachtenden erfahrenen Reitern.",
-      "anchor": "Jim bewährt sich dort, wo die erfahrenen Reiter den Weg für unpassierbar halten.",
       "interest": "Verbindet Landschaft, Risiko und öffentliche Anerkennung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Jim bewährt sich dort, wo die erfahrenen Reiter den Weg für unpassierbar halten."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Jim lehnt die angebotene Belohnung ab.",
       "context": "Jim (Tom Burlinson) lehnt die Belohnung nach der Rückholung ab. Sein Erfolg hat den Verdacht gegen ihn beseitigt und seine Fähigkeit sichtbar gemacht. Die Entscheidung trennt damit materielle Auszahlung von dem persönlichen Ziel, den eigenen Platz und die eigene Verlässlichkeit vor der Gemeinschaft zu beweisen.",
-      "anchor": "Die geklärte Ehre und Anerkennung sind Jim wichtiger als die ausgezahlte Belohnung.",
       "interest": "Erklärt den eigenen Maßstab nach der Bewährung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die geklärte Ehre und Anerkennung sind Jim wichtiger als die ausgezahlte Belohnung."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "1982 liegt 102 Jahre nach 1880.",
       "context": "ASO verortet die Handlung in den australischen Alpen des Jahres 1880. Der Film erschien 1982, 102 Jahre später. Der Abstand verbindet das historische Bewährungsmilieu mit einer späteren australischen Filmproduktion. Die Landschaft erscheint dabei als eigener Lebensraum mit Erwartungen, die der junge Reiter erst erfüllen muss.",
-      "anchor": "1880 Jims Bewährung, 1982 die Filmfassung: 102 Jahre zwischen Handlung und Herstellung.",
       "interest": "Verankert das Jahr im konkret belegten Handlungsmilieu.",
       "sources": [
         "aso",
         "screen"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1880 Jims Bewährung, 1982 die Filmfassung: 102 Jahre zwischen Handlung und Herstellung."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "George T. Miller inszenierte den Film.",
       "context": "George T. Miller führte Regie; Geoff Burrowes produzierte, Simon Wincer war ausführender Produzent. Die ähnlichen Namen können verwirren: Hier ist ein anderer George Miller als der Mad-Max-Regisseur gemeint. Die Filmcredits trennen zudem die Gesamtinszenierung von der Verantwortung der beiden Produzenten für die Herstellung.",
-      "anchor": "George T. Miller inszeniert; Burrowes produziert und Wincer ist ausführender Produzent.",
       "interest": "Verbindet den eindeutigen Personencredit mit der Adaption.",
       "sources": [
         "screen",
         "regieidentitaet"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "George T. Miller inszeniert; Burrowes produziert und Wincer ist ausführender Produzent."
     }
   ],
   "director_note": "George T. Miller ist eine andere Person als der Mad-Max-Regisseur George Miller."

@@ -45,14 +45,14 @@
       ],
       "short": "Graham kehrt als Berater und Profiler zur Ermittlung zurück.",
       "context": "Will Graham (William Petersen) hat sich nach einer traumatischen Begegnung mit Hannibal Lecktor (Brian Cox) zurückgezogen. Jack Crawford (Dennis Farina) bittet ihn dennoch um Hilfe gegen einen Familienmörder. Die Rückkehr verlangt nicht nur Fachwissen: Graham muss erneut eine Denkweise betreten, von der er sich gerade schützen wollte.",
-      "anchor": "Der zurückgezogene Profiler wird für einen neuen Serienmordfall gebraucht.",
       "interest": "Der Beruf erklärt die besondere Belastung des Protagonisten.",
       "sources": [
         "wiki",
         "de",
         "bfi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der zurückgezogene Profiler wird für einen neuen Serienmordfall gebraucht."
     },
     {
       "code": "L2",
@@ -71,13 +71,13 @@
       ],
       "short": "Die Presse und Ermittler nennen ihn Zahnfee beziehungsweise Tooth Fairy.",
       "context": "Der Spitzname Zahnfee fasst einen Teil der verstörenden Spuren zusammen, hinter denen sich Francis Dollarhyde (Tom Noonan) verbirgt. Will Graham (William Petersen) muss von diesen Zeichen zu einem nachvollziehbaren Täterprofil gelangen. Die Ermittlungen zeigen dabei den Abstand zwischen einer griffigen öffentlichen Bezeichnung und der psychischen Struktur des Gesuchten.",
-      "anchor": "Tooth Fairy ist die öffentliche Bezeichnung des Familienmörders.",
       "interest": "Die Frage erleichtert die Orientierung in den verschiedenen Namen des Falls.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Tooth Fairy ist die öffentliche Bezeichnung des Familienmörders."
     },
     {
       "code": "M1",
@@ -96,13 +96,13 @@
       ],
       "short": "Sein Arbeitsplatz im Filmlabor gibt ihm Zugriff auf die privaten Aufnahmen.",
       "context": "Die Familien haben private Filme zur Entwicklung gegeben. Francis Dollarhyde (Tom Noonan) sieht deshalb ihr häusliches Leben, ohne ihnen persönlich begegnen zu müssen. Will Graham (William Petersen) erkennt aus den Aufnahmen, wie der Täter Details der Häuser kennen konnte. Die gemeinsame Bildquelle wird schließlich wichtiger als eine zufällige persönliche Bekanntschaft.",
-      "anchor": "Private Familienfilme führen zum gemeinsamen Entwicklungslabor.",
       "interest": "Die Lösung erklärt den entscheidenden Übergang von Profilbildung zur überprüfbaren Spur.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Private Familienfilme führen zum gemeinsamen Entwicklungslabor."
     },
     {
       "code": "M2",
@@ -121,13 +121,13 @@
       ],
       "short": "Eine codierte Anzeige übermittelt dem Täter Angaben zu Grahams Familie.",
       "context": "Hannibal Lecktor (Brian Cox) erschließt sich trotz Haft Informationen über Will Graham (William Petersen). Eine codierte Mitteilung soll den anderen Täter gegen dessen Familie lenken. Damit schlägt die scheinbar hilfreiche Konsultation in eine private Bedrohung um. Der Kontakt zu einem Fachmann des Bösen bleibt Teil der Gefahr, die Graham lösen soll.",
-      "anchor": "Lecktors codierte Anzeige richtet die Tätersuche gegen Grahams Familie.",
       "interest": "Der Zusammenhang macht die doppelbödige Hilfe des Gefangenen deutlich.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Lecktors codierte Anzeige richtet die Tätersuche gegen Grahams Familie."
     },
     {
       "code": "S1",
@@ -146,13 +146,13 @@
       ],
       "short": "Seine Eifersucht entsteht aus einer Fehlinterpretation der Begegnung mit dem Kollegen.",
       "context": "Reba McClane (Joan Allen) nimmt Francis Dollarhyde (Tom Noonan) zunächst ohne seine eigene Angst vor Zurückweisung an. Als sie mit einem Kollegen zusammensteht, liest er daraus einen Verrat. Die kurze Aussicht auf Nähe endet deshalb in einer gewalttätigen Fehlinterpretation. Der Film verbindet seine Bedrohlichkeit mit einer beschädigten Wahrnehmung gewöhnlicher sozialer Situationen.",
-      "anchor": "Dollarhydes Eifersucht beruht auf falsch gedeuteter Nähe zu einem Kollegen.",
       "interest": "Die Frage verfolgt die Ursache des Rückfalls statt nur einen weiteren Mord.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Dollarhydes Eifersucht beruht auf falsch gedeuteter Nähe zu einem Kollegen."
     },
     {
       "code": "S2",
@@ -171,12 +171,12 @@
       ],
       "short": "Der Täter kannte das frühere Schloss aus den Filmen und brachte dafür Werkzeug mit.",
       "context": "Will Graham (William Petersen) vergleicht die privaten Aufnahmen mit den Tatorten. Der Täter bereitete sich auf einen Verschluss vor, den die Familie inzwischen entfernt hatte. Sein Wissen ist also genau, aber veraltet. Diese zeitliche Abweichung macht sichtbar, dass die Vorbereitung auf Bildern beruhte und nicht auf einer unmittelbar vorherigen Besichtigung.",
-      "anchor": "Das verschwundene Schloss verrät ein veraltetes Bild als Informationsquelle.",
       "interest": "Die Schlussfolgerung verbindet einen kleinen Widerspruch mit dem zentralen Ermittlungsdurchbruch.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das verschwundene Schloss verrät ein veraltetes Bild als Informationsquelle."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1986.",
       "context": "Thomas Harris veröffentlichte Red Dragon 1981; Michael Manns erste Verfilmung erschien 1986, fünf Jahre später. Brian Cox spielte dabei Hannibal Lecktor. Die Schreibweise weicht vom Roman und späteren Filmen ab. Das Filmjahr gehört somit zur ersten Kinofassung des Stoffes und nicht zur erneuten Verfilmung unter dem Romantitel.",
-      "anchor": "Harris’ Red Dragon 1981 → Manhunter 1986: fünf Jahre.",
       "interest": "Der Zeitanker ordnet die erste Verfilmung vor die später berühmt gewordenen Lecter-Filme ein.",
       "sources": [
         "wiki",
         "bfi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Harris’ Red Dragon 1981 → Manhunter 1986: fünf Jahre."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "Michael Mann führte bei diesem Film Regie.",
       "context": "Michael Mann schrieb das Drehbuch nach Thomas Harris und führte Regie. Er verbindet technische Ermittlungsarbeit mit Will Grahams (William Petersen) gefährlicher Einfühlung in den Täter. Brian Cox spielt Hannibal Lecktor als bedrückend normalen Gesprächspartner. Die Figur hilft beim Profil, nutzt dieselbe Begegnung aber zugleich für einen Angriff auf Grahams Familie.",
-      "anchor": "Mann verbindet die Tätersuche mit der Gefährdung des Profilers.",
       "interest": "Der Regiecredit führt zu einer konkreten Verbindung zwischen Stil und Ermittlungsmodell.",
       "sources": [
         "wiki",
         "bfi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mann verbindet die Tätersuche mit der Gefährdung des Profilers."
     }
   ]
 }

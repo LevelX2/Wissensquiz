@@ -25,7 +25,6 @@
       ],
       "context": "„Annie Hall“, deutsch „Der Stadtneurotiker“, gewann 1978 den Film-Oscar. Alvy Singer (Woody Allen) versucht rückblickend zu verstehen, weshalb seine Beziehung zu Annie (Diane Keaton) scheiterte. Der Film nutzt Zeitsprünge, Fantasie und direkte Ansprache für diese Untersuchung. Sein Sieg gehörte zu derselben Verleihung, bei der „Star Wars“ mehrere technische Kategorien gewann.",
       "short": "„Annie Hall“, deutsch „Der Stadtneurotiker“, gewann 1978 den Film-Oscar.",
-      "anchor": "Annie Hall untersucht eine gescheiterte Beziehung und gewann 1978 den Hauptpreis.",
       "interest": "Annie Hall untersucht eine gescheiterte Beziehung und gewann 1978 den Hauptpreis.",
       "feedback": [
         "„Annie Hall“, deutsch „Der Stadtneurotiker“, gewann 1978 den Film-Oscar.",
@@ -34,7 +33,8 @@
         "Am Wendepunkt gewann diesen Hauptpreis nicht."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Annie Hall untersucht eine gescheiterte Beziehung und gewann 1978 den Hauptpreis."
     },
     {
       "code": "M",
@@ -47,7 +47,6 @@
       ],
       "context": "Diane Keaton gewann für Annie Hall den Hauptdarstellerinnen-Oscar. Ihre Figur entwickelt sich innerhalb der Beziehung und sucht eine eigene berufliche wie persönliche Richtung. Woody Allens Alvy erzählt vieles aus seiner Erinnerung, doch Keatons Darstellung lässt Annie darüber hinaus als eigenständige Person erscheinen. Der Schauspielpreis ergänzt Film, Regie und Drehbuch als die vier Siege des Werks.",
       "short": "Diane Keaton gewann für Annie Hall den Hauptdarstellerinnen-Oscar.",
-      "anchor": "Keatons Annie besitzt ein eigenes Leben jenseits von Alvys Erinnerung.",
       "interest": "Keatons Annie besitzt ein eigenes Leben jenseits von Alvys Erinnerung.",
       "feedback": [
         "Diane Keaton gewann für Annie Hall den Hauptdarstellerinnen-Oscar.",
@@ -59,7 +58,8 @@
       "extraSources": [],
       "variant_of": "SCHAUSPIELER-202610-P01-070-L-1",
       "knowledge_id": "K-SCHAUSPIELER-202610-P01-070-L-1",
-      "knowledge_note": "Die Titelrollen-Darstellerin wird bereits abgefragt; der Preiszusatz erzeugt dafür kein zweites Personenziel."
+      "knowledge_note": "Die Titelrollen-Darstellerin wird bereits abgefragt; der Preiszusatz erzeugt dafür kein zweites Personenziel.",
+      "objective": "Keatons Annie besitzt ein eigenes Leben jenseits von Alvys Erinnerung."
     },
     {
       "code": "S",
@@ -72,7 +72,6 @@
       ],
       "context": "Woody Allen und Marshall Brickman gewannen für das Originaldrehbuch von „Annie Hall“. Die Geschichte ordnet eine Beziehung durch Erinnerungen und wechselnde Erzählformen, statt nur chronologisch einen gemeinsamen Alltag zu verfolgen. Der Drehbuchpreis betrifft diese Konstruktion und die Dialoge. Charles H. Joffe erhielt dagegen als Produzent den Film-Oscar und war nicht Allens Mitautor.",
       "short": "Woody Allen und Marshall Brickman gewannen für das Originaldrehbuch von „Annie Hall“.",
-      "anchor": "Allen und Brickman schreiben; Joffe empfängt den Film-Oscar als Produzent.",
       "interest": "Allen und Brickman schreiben; Joffe empfängt den Film-Oscar als Produzent.",
       "feedback": [
         "Woody Allen und Marshall Brickman gewannen für das Originaldrehbuch von „Annie Hall“.",
@@ -81,7 +80,8 @@
         "Wilder gehörte nicht zum Autorenteam dieses Films."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Allen und Brickman schreiben; Joffe empfängt den Film-Oscar als Produzent."
     },
     {
       "code": "E",
@@ -94,7 +94,6 @@
       ],
       "context": "„Annie Hall“ war in Film, Regie, beiden Hauptdarstellerkategorien und Drehbuch nominiert. Vier Bereiche gewann der Film; Woody Allen blieb als Hauptdarsteller ohne Sieg. Den Preis erhielt Richard Dreyfuss für „The Goodbye Girl“. Das Ergebnis zeigt, dass eine Person als Regisseur und Autor gewinnen und in derselben Verleihung als Darsteller dennoch unterliegen kann.",
       "short": "„Annie Hall“ war in Film, Regie, beiden Hauptdarstellerkategorien und Drehbuch nominiert.",
-      "anchor": "Allen gewinnt für Regie und Schreiben, Dreyfuss für die Hauptdarstellung.",
       "interest": "Allen gewinnt für Regie und Schreiben, Dreyfuss für die Hauptdarstellung.",
       "feedback": [
         "„Annie Hall“ war in Film, Regie, beiden Hauptdarstellerkategorien und Drehbuch nominiert.",
@@ -103,7 +102,8 @@
         "Allen und Brickman gewannen den Drehbuchpreis."
       ],
       "films": [],
-      "extraSources": []
+      "extraSources": [],
+      "objective": "Allen gewinnt für Regie und Schreiben, Dreyfuss für die Hauptdarstellung."
     }
   ],
   "genre": "Rom-Com"

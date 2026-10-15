@@ -34,11 +34,11 @@
       ],
       "short": "Maturin versorgt als Arzt die Besatzung.",
       "context": "Stephen Maturin (Paul Bettany) ist Arzt und Naturforscher. Seine Interessen unterscheiden sich dadurch von der militärischen Aufgabe des Kapitäns Jack Aubrey (Russell Crowe). Die Freundschaft der beiden verbindet enges Vertrauen mit wiederkehrenden Auseinandersetzungen über die Ziele der Reise.",
-      "anchor": "Maturin heilt und erforscht.",
       "interest": "Die Bordfunktion erklärt die zweite Perspektive der Geschichte.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Maturin heilt und erforscht."
     },
     {
       "code": "L2",
@@ -57,11 +57,11 @@
       ],
       "short": "Die militärische Bedrohung bestimmt die Verfolgung.",
       "context": "Die Acheron greift die Surprise an und bedroht weitere britische Schiffe. Aubrey (Russell Crowe) verfolgt sie trotz Schäden und großer Risiken. Sein Auftrag wird dabei zur Frage, wie weit ein Kommandant eine gefährdete Mannschaft für den militärischen Erfolg einsetzen darf.",
-      "anchor": "Aubrey verfolgt eine Gefahr für britische Schiffe.",
       "interest": "Der Auftrag erklärt den anhaltenden Konflikt um Risiko.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Aubrey verfolgt eine Gefahr für britische Schiffe."
     },
     {
       "code": "M1",
@@ -80,11 +80,11 @@
       ],
       "short": "Das Floß lenkt die Verfolger ab.",
       "context": "Aubrey (Russell Crowe) kann den stärkeren Gegner nicht allein durch Feuerkraft überwinden. Ein als Schiffsspur erscheinendes Floß lenkt dessen Verfolgung um. Die Szene etabliert Täuschung als Mittel gegen technische Überlegenheit, das später in anderer Form wiederkehrt.",
-      "anchor": "Ein Floß führt das stärkere Schiff auf eine falsche Spur.",
       "interest": "Die List zeigt einen Ausweg jenseits direkter Überlegenheit.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein Floß führt das stärkere Schiff auf eine falsche Spur."
     },
     {
       "code": "M2",
@@ -103,11 +103,11 @@
       ],
       "short": "Maturins Verletzung zwingt zu einer anderen Priorität.",
       "context": "Maturin (Paul Bettany) wird bei einer Vogeljagd versehentlich angeschossen. Die Versorgung auf See ist schwierig, sodass Aubrey (Russell Crowe) zurückkehrt. Die Freundschaft stellt den militärischen Auftrag damit vor eine konkrete Grenze: Für die Behandlung eines Menschen muss die Jagd unterbrochen werden.",
-      "anchor": "Maturins Verletzung unterbricht Aubreys Jagd.",
       "interest": "Die Entscheidung macht den Konflikt zwischen Auftrag und Fürsorge konkret.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Maturins Verletzung unterbricht Aubreys Jagd."
     },
     {
       "code": "S1",
@@ -126,11 +126,11 @@
       ],
       "short": "Das getarnte Insekt liefert das Vorbild.",
       "context": "Aubrey (Russell Crowe) betrachtet ein Insekt aus Maturins (Paul Bettany) Sammlung, das wie ein Zweig wirkt. Er lässt die Surprise anschließend als harmlosen Walfänger erscheinen. Das zunächst konkurrierende Forschungsinteresse trägt so unerwartet zum Gelingen des militärischen Plans bei.",
-      "anchor": "Naturtarnung wird zur Schiffstarnung.",
       "interest": "Forschung und militärische Aufgabe finden einen konkreten gemeinsamen Nutzen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Naturtarnung wird zur Schiffstarnung."
     },
     {
       "code": "S2",
@@ -149,11 +149,11 @@
       ],
       "short": "Der Kapitän hat sich unter einer fremden Funktion verborgen.",
       "context": "Der vermeintliche französische Arzt (Thierry Segall) meldet den Tod seines Kapitäns. Maturin (Paul Bettany) erkennt später anhand der Unterlagen, dass der wirkliche Arzt bereits früher gestorben war. Aubrey (Russell Crowe) durchschaut die Rollenlüge und nimmt die Jagd wieder auf.",
-      "anchor": "Ein falscher Arzt verbirgt einen lebenden Kapitän.",
       "interest": "Die Wendung wird über widersprüchliche Informationen nachvollziehbar.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein falscher Arzt verbirgt einen lebenden Kapitän."
     },
     {
       "code": "Y",
@@ -172,12 +172,12 @@
       ],
       "short": "Das Seeabenteuer erschien 2003.",
       "context": "Russell Crowes Gladiator erschien 2000. Master and Commander folgte 2003, drei Jahre später, mit Crowe als Kapitän Jack Aubrey und Paul Bettany als Arzt Stephen Maturin. Der Zeitanker verbindet zwei historische Abenteuer desselben Hauptdarstellers, jedoch unter unterschiedlicher Regie. Aus dem römischen Arenakampf wird eine Seereise, deren Entscheidungen zwischen militärischer Jagd und persönlicher Verantwortung liegen.",
-      "anchor": "2000 Gladiator – 2003 Crowe auf der Surprise: drei Jahre Abstand.",
       "interest": "Die Hauptbeziehung verankert das Jahr.",
       "sources": [
         "studio",
         "zeitanker"
-      ]
+      ],
+      "objective": "2000 Gladiator – 2003 Crowe auf der Surprise: drei Jahre Abstand."
     },
     {
       "code": "D",
@@ -196,11 +196,11 @@
       ],
       "short": "Peter Weir führte Regie.",
       "context": "Peter Weir inszeniert den Schiffsalltag und den Gegensatz zwischen Kapitän und Naturforscher. Seine Regie verbindet den militärischen Auftrag mit engen Räumen, körperlicher Arbeit und der Freundschaft der Hauptfiguren. Der Studiokatalog bestätigt den Credit für diese konkrete O’Brian-Adaption.",
-      "anchor": "Weir führt Aubrey und Maturin auf See.",
       "interest": "Der Regiecredit wird mit der zentralen Beziehung verbunden.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "Weir führt Aubrey und Maturin auf See."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Chow Mo-wan ist Journalist.",
       "context": "Er mietet ein Zimmer neben Su Li-zhen (Maggie Cheung), einer Sekretärin. Die beruflich häufig abwesenden Ehepartner beider Figuren werden zum Anlass für die wachsende Nähe zwischen den Nachbarn.",
-      "anchor": "Chow schreibt als Journalist; Su arbeitet als Sekretärin.",
       "interest": "Die Lebenswelt eines bekannten Filmpaars auseinanderhalten.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-great-films-set-hong-kong"
-      ]
+      ],
+      "objective": "Chow schreibt als Journalist; Su arbeitet als Sekretärin."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Chan ist ein in die Triade eingeschleuster Polizist.",
       "context": "Ihm steht Lau Kin-ming (Andy Lau) gegenüber, der für die Unterwelt in der Polizei arbeitet. Die beiden entgegengesetzten Tarnexistenzen machen die Suche nach dem jeweiligen Informanten zu einem Kampf um die eigene Identität.",
-      "anchor": "Chan ist Polizist unter Gangstern.",
       "interest": "Die gegensätzlichen verdeckten Aufträge präzise zuordnen.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "knowledge_id": "K-F240-20261006-139-L1",
       "variant_of": "F240-20261006-139-L1",
-      "knowledge_note": "Die Filmfrage enthält bereits die Zuordnung der beiden entgegengesetzten Einschleusungen; diese Personenvariante fokussiert Chans Seite."
+      "knowledge_note": "Die Filmfrage enthält bereits die Zuordnung der beiden entgegengesetzten Einschleusungen; diese Personenvariante fokussiert Chans Seite.",
+      "objective": "Chan ist Polizist unter Gangstern."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 1,
       "short": "Er spricht mit einem Stück Seife.",
       "context": "Nach der Trennung von seiner Freundin behandelt Polizist 663 die Dinge seiner Wohnung wie fühlende Gegenüber. Während er in diesen Selbstgesprächen versinkt, verändert Faye (Faye Wong) heimlich seine Umgebung, ohne dass er den Grund bemerkt.",
-      "anchor": "Polizist 663 spricht seinen Kummer mit der Seife durch.",
       "interest": "Ein komisches Verhalten als Ausdruck von Einsamkeit verstehen.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/766-chungking-express-electric-youth"
-      ]
+      ],
+      "objective": "Polizist 663 spricht seinen Kummer mit der Seife durch."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 3,
       "short": "Sie tanzen Tango.",
       "context": "Die Figuren Lai Yiu-fai und Ho Po-wing leben während ihrer zerrütteten Beziehung in Argentinien. Der kurze gemeinsame Tanz hält körperliche Nähe und Freude fest, die mit ihren wiederkehrenden Trennungen und Verletzungen im Widerstreit stehen.",
-      "anchor": "Die Küchenbegegnung findet ihre Nähe im Tango.",
       "interest": "Eine prägnante körperliche Szene mit dem Beziehungsfilm verbinden.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/7448-the-stars-in-wong-kar-wais-universe",
         "https://www.criterion.com/films/28843-happy-together"
-      ]
+      ],
+      "objective": "Die Küchenbegegnung findet ihre Nähe im Tango."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 0,
       "short": "Wenqing ist gehörlos und spricht nicht.",
       "context": "Hou Hsiao-hsien verfolgt die Familie Lin nach dem Ende der japanischen Herrschaft über Taiwan. Wenqings eingeschränkte mündliche Verständigung steht in einer Erzählung über politische Gewalt, in der auch das öffentliche Sprechen lange unterdrückt war.",
-      "anchor": "Wenqing nimmt die Umbrüche ohne Hören und Sprechen wahr.",
       "interest": "Eine besondere Schauspielsituation mit dem historischen Erzählrahmen verbinden.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/film/989a6349-4d1c-54da-8ea1-0abd2a558d8a/a-city-of-sadness"
-      ]
+      ],
+      "objective": "Wenqing nimmt die Umbrüche ohne Hören und Sprechen wahr."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 0,
       "short": "Er beschrieb einen Zugang von außen nach innen.",
       "context": "Die Maske ließ ihn älter aussehen und half ihm, in Mr. Yee hineinzufinden. Gleichzeitig musste er sich von dem vertrauten Rhythmus seiner früheren historischen Filme lösen, obwohl die Kostüme ihn zunächst an diese erinnert hatten.",
-      "anchor": "Die äußere Gestaltung half Leung, Yees Innenleben zu erschließen.",
       "interest": "Eine vom Schauspieler selbst beschriebene Arbeitsmethode kennenlernen.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://www.focusfeatures.com/article/production_notes___lust__caution?film=lu"
-      ]
+      ],
+      "objective": "Die äußere Gestaltung half Leung, Yees Innenleben zu erschließen."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 1,
       "short": "Der Preis galt „In the Mood for Love“.",
       "context": "Die Auszeichnung würdigte seine Darstellung von Chow Mo-wan. Sie war ein Schauspielpreis; die Goldene Palme desselben Festivals ging an „Dancer in the Dark“, sodass beide Ehrungen unterschiedliche Leistungen betrafen.",
-      "anchor": "Leungs Cannes-Darstellerpreis gehört zu Chow Mo-wan.",
       "interest": "Eine Schauspielauszeichnung einem konkreten Auftritt zuordnen.",
       "feedback": [
         "",
@@ -201,7 +200,8 @@
       ],
       "knowledge_id": "K-PRZ-202610-P01-M-029",
       "variant_of": "PRZ-202610-P01-M-029",
-      "knowledge_note": "Derselbe Cannes-Darstellerpreis wird bereits als Preisfrage behandelt."
+      "knowledge_note": "Derselbe Cannes-Darstellerpreis wird bereits als Preisfrage behandelt.",
+      "objective": "Leungs Cannes-Darstellerpreis gehört zu Chow Mo-wan."
     },
     {
       "code": "E2",
@@ -215,7 +215,6 @@
       "correct": 2,
       "short": "Ang Lee hielt die Laudatio.",
       "context": "Lee hatte mit ihm „Lust, Caution“ gedreht, einen Gewinner des Goldenen Löwen für den besten Film. Die Ehrung 2023 galt nun Leungs Lebenswerk; ein früherer gemeinsamer Film bildete so eine Verbindung zwischen Laudator und Geehrtem.",
-      "anchor": "Ang Lee würdigte seinen „Lust, Caution“-Hauptdarsteller.",
       "interest": "Eine Festivalwürdigung mit einer konkreten Zusammenarbeit verbinden.",
       "feedback": [
         "",
@@ -228,7 +227,8 @@
       ],
       "extraSources": [
         "https://www.labiennale.org/en/news/director-liliana-cavani-and-actor-tony-leung-chiu-wai-golden-lions-lifetime-achievement"
-      ]
+      ],
+      "objective": "Ang Lee würdigte seinen „Lust, Caution“-Hauptdarsteller."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Alfredo ist der Filmvorführer des Dorfkinos.",
       "context": "Der kleine Salvatore darf ihm bei der Arbeit zusehen und lernt die technische Seite der Bilder kennen. Aus dieser Begegnung entsteht eine lebenslange Bindung an das Kino.",
-      "anchor": "Alfredo öffnet Salvatore die Vorführkabine.",
       "interest": "Der Beruf erklärt die besondere Form ihrer Freundschaft.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.miramax.com/movie/cinema-paradiso/"
-      ]
+      ],
+      "objective": "Alfredo öffnet Salvatore die Vorführkabine."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Noiret verkörpert den chilenischen Dichter Pablo Neruda.",
       "context": "Im italienischen Exil freundet er sich mit seinem Postboten Mario an. Die Gespräche über Dichtung verändern Marios Blick auf die eigene Umgebung und seine Liebe.",
-      "anchor": "Noiret bringt Neruda auf die italienische Insel.",
       "interest": "Die historische Person verbindet Literatur, Exil und die fiktive Freundschaft.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.miramax.com/movie/the-postman-il-postino/"
-      ]
+      ],
+      "objective": "Noiret bringt Neruda auf die italienische Insel."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 2,
       "short": "Alexander verweigert die bisherige Arbeitshetze.",
       "context": "Die Witwerschaft befreit ihn von den unablässigen Aufträgen seiner Frau. Sein demonstrativer Müßiggang stört die Ordnung des Dorfes und findet zugleich Nachahmer.",
-      "anchor": "Alexander entdeckt die Freiheit des Nichtstuns.",
       "interest": "Eine konkrete Entscheidung erschließt die soziale Komik der Figur.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       "extraSources": [
         "https://fr.wikipedia.org/wiki/Alexandre_le_Bienheureux",
         "https://www.cinematheque.qc.ca/fr/cinema/alexandre-le-bienheureux/"
-      ]
+      ],
+      "objective": "Alexander entdeckt die Freiheit des Nichtstuns."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 2,
       "short": "Deutsche Soldaten haben seine Frau und seine Tochter ermordet.",
       "context": "Der zuvor friedfertige Chirurg Julien Dandieu findet die beiden im vermeintlich sicheren Familienanwesen. Die Rückblenden auf ihr gemeinsames Leben stehen neben seiner Gewalt gegen die Täter.",
-      "anchor": "Der Chirurg verliert Frau und Tochter.",
       "interest": "Die Frage erklärt den Bruch zwischen der früheren Person und dem Rächer.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://fr.wikipedia.org/wiki/Le_Vieux_Fusil"
-      ]
+      ],
+      "objective": "Der Chirurg verliert Frau und Tochter."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 1,
       "short": "Cordier ist ein kolonialer Polizeichef in Französisch-Westafrika.",
       "context": "Seine scheinbare Trägheit verbirgt eine wachsende Fähigkeit zur Manipulation. Wenn er gegen seine Gegner vorgeht, benutzt er die Gewalt jener Ordnung, für die er selbst steht.",
-      "anchor": "Cordiers Amt gehört zum kolonialen System.",
       "interest": "Die Position macht verständlich, weshalb die Satire individuelle Bosheit mit institutioneller Macht verbindet.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       "extraSources": [
         "https://www.criterion.com/films/647-coup-de-torchon",
         "https://www.criterion.com/current/posts/9248-coup-de-torchon-all-crimes-are-collective"
-      ]
+      ],
+      "objective": "Cordiers Amt gehört zum kolonialen System."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 3,
       "short": "René führt den Kollegen in seinen korrupten Polizeialltag ein.",
       "context": "Er behandelt lokale Rechtsverstöße als verhandelbare Geschäfte und finanziert damit seine Gewohnheiten. Der unerfahrene François gerät zwischen anfängliche Prinzipien und die Bequemlichkeit dieses Systems.",
-      "anchor": "René unterrichtet Korruption als Alltagsroutine.",
       "interest": "Die Beziehung erklärt, wie eine Polizeikomödie moralische Gewöhnung erzählt.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       ],
       "extraSources": [
         "https://fr.wikipedia.org/wiki/Les_Ripoux"
-      ]
+      ],
+      "objective": "René unterrichtet Korruption als Alltagsroutine."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 3,
       "short": "Noiret gehörte zu Jean Vilars Théâtre National Populaire.",
       "context": "Die Truppe verband ein anspruchsvolles Repertoire mit dem Ziel, neue Zuschauer zu erreichen. Zu ihrem Ensemble gehörten Darsteller, die später auch das französische Kino prägten.",
-      "anchor": "Noirets Bühne war Vilars TNP.",
       "interest": "Die Theaterstation erschließt die berufliche Herkunft hinter dem vertrauten Filmgesicht.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       "films": [],
       "extraSources": [
         "https://www.tnp-villeurbanne.com/app/uploads/2021/07/21-22-bref-4-format-print-planche2.pdf"
-      ]
+      ],
+      "objective": "Noirets Bühne war Vilars TNP."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 0,
       "short": "Die US-Kleinstadt wird zur französischen Kolonialgesellschaft.",
       "context": "Tavernier versetzt die Handlung in die Zeit vor dem Zweiten Weltkrieg. Die Anpassung bewahrt die Verbindung von persönlicher Gewalt und rassistischer Ordnung und verändert ihren historischen Bezug.",
-      "anchor": "Thompsons amerikanischer Sheriff wird ein französischer Kolonialpolizist.",
       "interest": "Die Adaption zeigt, wie ein Stoff in einem anderen Machtsystem neu lesbar wird.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/9248-coup-de-torchon-all-crimes-are-collective"
-      ]
+      ],
+      "objective": "Thompsons amerikanischer Sheriff wird ein französischer Kolonialpolizist."
     }
   ]
 }

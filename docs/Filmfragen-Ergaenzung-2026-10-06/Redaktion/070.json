@@ -32,12 +32,12 @@
       ],
       "short": "Coraline (Originalstimme Dakota Fanning) erhält Aufmerksamkeit und ein scheinbar ideales Zuhause.",
       "context": "Coraline (Originalstimme Dakota Fanning) erhält Aufmerksamkeit und ein scheinbar ideales Zuhause. Die andere Mutter (Originalstimme Teri Hatcher) nutzt damit ihre Unzufriedenheit mit den beschäftigten wirklichen Eltern.",
-      "anchor": "Die Verlockung antwortet genau auf Coralines Einsamkeit.",
       "interest": "Die Verlockung antwortet genau auf Coralines Einsamkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Verlockung antwortet genau auf Coralines Einsamkeit."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Coraline (Originalstimme Dakota Fanning) soll Knöpfe statt Augen erhalten.",
       "context": "Coraline (Originalstimme Dakota Fanning) soll Knöpfe statt Augen erhalten. Der scheinbar liebevolle Aufenthalt wird so an eine irreversible Unterwerfung gebunden.",
-      "anchor": "Die besseren Eltern verlangen Coralines Augen.",
       "interest": "Die besseren Eltern verlangen Coralines Augen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die besseren Eltern verlangen Coralines Augen."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Die Katze (Originalstimme Keith David) wechselt zwischen den Welten und kann drüben sprechen.",
       "context": "Die Katze (Originalstimme Keith David) wechselt zwischen den Welten und kann drüben sprechen. Sie dient Coraline (Originalstimme Dakota Fanning) als unabhängiger Helfer innerhalb einer täuschenden Umgebung.",
-      "anchor": "Die Katze gehört nicht einfach zur Täuschung der anderen Mutter.",
       "interest": "Die Katze gehört nicht einfach zur Täuschung der anderen Mutter.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Katze gehört nicht einfach zur Täuschung der anderen Mutter."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Die Puppe ermöglicht der anderen Mutter (Originalstimme Teri Hatcher), Coraline (Originalstimme Dakota Fanning) zu beobachten.",
       "context": "Die Puppe ermöglicht der anderen Mutter (Originalstimme Teri Hatcher), Coraline (Originalstimme Dakota Fanning) zu beobachten. Die passende Verlockung entsteht also nicht zufällig, sondern aus ihrem ausspionierten Alltag.",
-      "anchor": "Die Puppe sammelt das Wissen für die perfekte Falle.",
       "interest": "Die Puppe sammelt das Wissen für die perfekte Falle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Puppe sammelt das Wissen für die perfekte Falle."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Die Augen stehen für die geraubten Seelen der Kinder.",
       "context": "Die Augen stehen für die geraubten Seelen der Kinder. Coraline (Originalstimme Dakota Fanning) muss sie zurückgewinnen; die Spielaufgabe erhält dadurch einen Einsatz jenseits ihrer eigenen Rückkehr.",
-      "anchor": "Die Augensuche soll auch frühere Opfer befreien.",
       "interest": "Die Augensuche soll auch frühere Opfer befreien.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Augensuche soll auch frühere Opfer befreien."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Coraline (Originalstimme Dakota Fanning) erkennt ihre Eltern in einer Schneekugel.",
       "context": "Coraline (Originalstimme Dakota Fanning) erkennt ihre Eltern in einer Schneekugel. Statt der anderen Mutter (Originalstimme Teri Hatcher) zu vertrauen, verbindet sie einen Ablenkungsversuch mit der tatsächlichen Befreiung.",
-      "anchor": "Die Schneekugel verbirgt die wirklichen Eltern.",
       "interest": "Die Schneekugel verbirgt die wirklichen Eltern.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Schneekugel verbirgt die wirklichen Eltern."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 2009 erstmals veröffentlicht.",
       "context": "2009 wurde Coraline erstmals gezeigt. Neil Gaimans Buch erschien 2002, sieben Jahre zuvor. Die filmische Adaption erweitert die Vorlage und nutzt reale Puppen, um eine scheinbar bessere Parallelwelt sichtbar werden zu lassen.",
-      "anchor": "Gaimans Buch von 2002 wurde sieben Jahre später, 2009, als Puppenanimation verfilmt.",
       "interest": "Gaimans Buch von 2002 wurde sieben Jahre später, 2009, als Puppenanimation verfilmt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gaimans Buch von 2002 wurde sieben Jahre später, 2009, als Puppenanimation verfilmt."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Henry Selick.",
       "context": "Selick erweiterte Gaimans Vorlage unter anderem um Wybie als Gesprächspartner. Die Produktion kombinierte Stop-Motion-Puppen mit austauschbaren Gesichtsteilen und stereoskopischer Aufnahme.",
-      "anchor": "Selick erweiterte Gaimans Vorlage unter anderem um Wybie als Gesprächspartner.",
       "interest": "Selick erweiterte Gaimans Vorlage unter anderem um Wybie als Gesprächspartner.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Selick erweiterte Gaimans Vorlage unter anderem um Wybie als Gesprächspartner."
     }
   ]
 }

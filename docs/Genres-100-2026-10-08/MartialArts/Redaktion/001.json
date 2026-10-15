@@ -32,12 +32,12 @@
       ],
       "short": "Cheng arbeitet in einer Eisfabrik.",
       "context": "Cheng Chao-an (Bruce Lee) zieht zu seinen Verwandten nach Thailand und arbeitet mit ihnen in einer Eisfabrik. Der neue Arbeitsplatz verspricht zunächst einen gewöhnlichen Lebensunterhalt. Als Arbeiter verschwinden, wird jedoch die scheinbar harmlose Produktion zum Zentrum der Bedrohung. Der Film führt seinen Helden damit über eine konkrete Arbeits- und Familiengemeinschaft in den Konflikt hinein, bevor er die kriminellen Geschäfte hinter dem Betrieb offenlegt.",
-      "anchor": "Ein gewöhnlicher Fabrikjob führt Cheng in die Gefahr.",
       "interest": "Verankert das Abenteuer in Arbeit und Migration.",
       "sources": [
         "film",
         "criterion"
-      ]
+      ],
+      "objective": "Ein gewöhnlicher Fabrikjob führt Cheng in die Gefahr."
     },
     {
       "code": "L2",
@@ -56,11 +56,11 @@
       ],
       "short": "Cheng hat seiner Mutter Gewaltverzicht versprochen.",
       "context": "Cheng Chao-an (Bruce Lee) bleibt zunächst zurück, obwohl er Gewalt gegen andere sieht und helfen möchte. Er hat seiner Mutter versprochen, nicht zu kämpfen, und trägt zur Erinnerung ein Jadeamulett. Seine Zurückhaltung entsteht aus einer persönlichen Verpflichtung. Als das Amulett während der Auseinandersetzung an der Fabrik zerbricht, fällt auch diese sichtbare Hemmung weg. Das Schmuckstück macht einen inneren Konflikt als konkreten Gegenstand verständlich.",
-      "anchor": "Das Jadeamulett erinnert an Chengs Versprechen.",
       "interest": "Erklärt die anfängliche Passivität eines offensichtlich kampffähigen Helden.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Jadeamulett erinnert an Chengs Versprechen."
     },
     {
       "code": "M1",
@@ -79,11 +79,11 @@
       ],
       "short": "Die Eisproduktion dient dem Drogenschmuggel.",
       "context": "Als ein Eisblock zerbricht, entdecken zwei Arbeiter einen Beutel mit weißem Pulver. Die Fabrik dient dem Drogenschmuggel; die Entdeckung gefährdet das Geheimnis des Betriebs. Die Männer werden beseitigt, nachdem sie eine Beteiligung ablehnen. Damit verbindet der Film das Verschwinden der Arbeiter mit der alltäglichen Ware, die sie selbst herstellen. Das Eis wird vom Arbeitsprodukt zum Versteck und später auch zum schrecklichen Beweismittel.",
-      "anchor": "In den Eisblöcken steckt die Schmuggelware.",
       "interest": "Zeigt, wie ein Material der alltäglichen Arbeit die Kriminalhandlung trägt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "In den Eisblöcken steckt die Schmuggelware."
     },
     {
       "code": "M2",
@@ -102,11 +102,11 @@
       ],
       "short": "Die Beförderung soll den Widerstand der Arbeiter beschwichtigen.",
       "context": "Nach der Auseinandersetzung an der Fabrik wird Cheng Chao-an (Bruce Lee) zum Vorarbeiter befördert und zu einem Essen eingeladen. Die Leitung versucht dadurch, die aufgebrachte Gemeinschaft zu beruhigen und den erfolgreichen Kämpfer einzubinden. Die Verwandten hoffen zunächst auf Vorteile, während die Suche nach den Vermissten zurücktritt. Die neue Stellung bringt Cheng also Anerkennung, gefährdet aber zugleich das Vertrauen der Menschen, denen er helfen wollte.",
-      "anchor": "Die Beförderung ist eine Maßnahme zur Beschwichtigung.",
       "interest": "Macht die Manipulation durch beruflichen Aufstieg sichtbar.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Beförderung ist eine Maßnahme zur Beschwichtigung."
     },
     {
       "code": "S1",
@@ -125,11 +125,11 @@
       ],
       "short": "Hsus angekündigter Gang zu den Behörden löst den Mord aus.",
       "context": "Hsu Chien (James Tien) sucht im Haus von Hsiao Mi (Han Ying-chieh) nach Auskunft über die verschwundenen Verwandten. Er bezweifelt die Unwissenheit des Chefs und kündigt an, die Behörden einzuschalten. Darauf lässt der Chef seine Männer auf ihn los. Die Nachforschung endet somit ebenfalls im Verschwinden. Für die Arbeiter entsteht eine immer längere Kette vermisster Angehöriger, deren gemeinsamer Ursprung zunächst verborgen bleibt.",
-      "anchor": "Die Drohung mit den Behörden macht Hsu zur Gefahr für den Chef.",
       "interest": "Fragt nach dem konkreten Wendepunkt innerhalb der Nachforschung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die Drohung mit den Behörden macht Hsu zur Gefahr für den Chef."
     },
     {
       "code": "S2",
@@ -148,11 +148,11 @@
       ],
       "short": "Cheng ergibt sich der Polizei.",
       "context": "Cheng Chao-an (Bruce Lee) hat Hsiao Mi (Han Ying-chieh) im letzten Kampf getötet. Die entführte Chow Mei (Maria Yi) wird zuvor aus ihrem Versteck befreit und holt die Polizei. Als Cheng erfährt, dass sie sicher ist, stellt er sich den eintreffenden Beamten. Der Schluss verbindet die erfolgreiche Rettung mit den Folgen seiner Gewalt: Der Sieger verschwindet nicht einfach ungestraft aus der Geschichte.",
-      "anchor": "Auf den Sieg folgt Chengs Übergabe an die Polizei.",
       "interest": "Das Ende begrenzt den Triumph der Rache durch eine rechtliche Konsequenz.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Auf den Sieg folgt Chengs Übergabe an die Polizei."
     },
     {
       "code": "Y",
@@ -171,13 +171,13 @@
       ],
       "short": "1971 Die Todesfaust des Cheng Li, 1972 Fist of Fury: ein Jahr Abstand.",
       "context": "Die Todesfaust des Cheng Li erschien 1971 und machte Bruce Lee zum Star. Bereits 1972 folgte Fist of Fury, im Deutschen Todesgrüße aus Shanghai, also ein Jahr später. Criterion beschreibt diesen zweiten Film ausdrücklich als Nachfolger seines Durchbruchs. Der kurze Abstand zeigt, wie rasch die erfolgreiche erste Zusammenarbeit fortgesetzt wurde. Beide Jahreszahlen helfen, Lees frühe Hauptrollen voneinander zu trennen, deren amerikanische Filmtitel später häufig verwechselt wurden.",
-      "anchor": "1971 Durchbruch, 1972 nächster Film: ein Jahr Abstand.",
       "interest": "Verbindet das Erstjahr mit einem konkret datierten Nachfolgewerk.",
       "sources": [
         "film",
         "criterion",
         "folge"
-      ]
+      ],
+      "objective": "1971 Durchbruch, 1972 nächster Film: ein Jahr Abstand."
     },
     {
       "code": "D",
@@ -196,12 +196,12 @@
       ],
       "short": "Der bei Criterion ausgewiesene Hauptregisseur ist Lo Wei.",
       "context": "Criterion führt Lo Wei als Regisseur und Han Ying-chieh als Action-Regisseur. Wu Chia-hsiang war nach dem Produktionsbericht zunächst mit der Regie betraut, wurde jedoch früh ersetzt. Das erklärt den zusätzlichen Namen in manchen Zusammenstellungen, ohne daraus einen gemeinsamen Hauptregiecredit zu machen. Die Frage bezieht sich auf den ausdrücklich genannten Credit. Hauptregie, vorangegangene Produktionsbeteiligung und Kampfgestaltung werden dadurch klar voneinander getrennt.",
-      "anchor": "Hauptregiecredit Lo Wei; Wu Chia-hsiang wurde abgelöst.",
       "interest": "Klärt einen dokumentierten Unterschied zwischen Produktionsgeschichte und ausgewiesenem Credit.",
       "sources": [
         "criterion",
         "film"
-      ]
+      ],
+      "objective": "Hauptregiecredit Lo Wei; Wu Chia-hsiang wurde abgelöst."
     }
   ]
 }

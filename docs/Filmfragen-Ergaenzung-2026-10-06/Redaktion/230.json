@@ -41,12 +41,12 @@
       ],
       "short": "Hondo Lane (John Wayne) hat bei einer Begegnung mit Apachen sein Pferd verloren.",
       "context": "Hondo Lane (John Wayne) hat bei einer Begegnung mit Apachen sein Pferd verloren. Bei Angie Lowe (Geraldine Page) bietet er Arbeit gegen ein neues Pferd an und begegnet einer ungeschützten Familie.",
-      "anchor": "Der verlorene Transport führt Hondo in Angies häusliche Welt.",
       "interest": "Der verlorene Transport führt Hondo in Angies häusliche Welt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der verlorene Transport führt Hondo in Angies häusliche Welt."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Angie (Geraldine Page) vertraut auf ihre bisher freundlichen Beziehungen zu den Apachen.",
       "context": "Angie (Geraldine Page) vertraut auf ihre bisher freundlichen Beziehungen zu den Apachen. Hondo (John Wayne) warnt, dass der gebrochene Vertrag die Lage verändert und die Familie gefährdet.",
-      "anchor": "Persönliches Vertrauen kollidiert mit einem veränderten Kriegskonflikt.",
       "interest": "Persönliches Vertrauen kollidiert mit einem veränderten Kriegskonflikt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Persönliches Vertrauen kollidiert mit einem veränderten Kriegskonflikt."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Johnny (Lee Aaker) schießt zum Schutz Angies (Geraldine Page), als Silva sie bedrängt.",
       "context": "Johnny (Lee Aaker) schießt zum Schutz Angies (Geraldine Page), als Silva (Rodolfo Acosta) sie bedrängt. Vittorio (Michael Pate) bewundert seinen Mut und nennt ihn Kleiner Krieger; die Anerkennung schützt vorerst die Familie.",
-      "anchor": "Der Schutz der Mutter wird von Vittorio als Mut anerkannt.",
       "interest": "Der Schutz der Mutter wird von Vittorio als Mut anerkannt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Schutz der Mutter wird von Vittorio als Mut anerkannt."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Hondo (John Wayne) tötet Ed Lowe (Leo Gordon), als dieser ihn angreift.",
       "context": "Hondo (John Wayne) tötet Ed Lowe (Leo Gordon), als dieser ihn angreift. Erst danach wird die Nähe zu Angie (Geraldine Page) zur Frage, wann und wem er diese Wahrheit offenlegen muss.",
-      "anchor": "Die entstehende Familie beruht zunächst auf einer verschwiegenen Gewalttat.",
       "interest": "Die entstehende Familie beruht zunächst auf einer verschwiegenen Gewalttat.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die entstehende Familie beruht zunächst auf einer verschwiegenen Gewalttat."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Hondo (John Wayne) besiegt Silva (Rodolfo Acosta) im Zweikampf, verschont ihn jedoch.",
       "context": "Hondo (John Wayne) besiegt Silva (Rodolfo Acosta) im Zweikampf, verschont ihn jedoch. Der Sieg genügt zur Freilassung; Silva tötet später Hondos Hund und bleibt sein Gegner.",
-      "anchor": "Der gewonnene Zweikampf verlangt für Hondo keinen tödlichen Abschluss.",
       "interest": "Der gewonnene Zweikampf verlangt für Hondo keinen tödlichen Abschluss.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der gewonnene Zweikampf verlangt für Hondo keinen tödlichen Abschluss."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Angie (Geraldine Page) weiß, wie ihr Mann lebte, und akzeptiert Hondos (John Wayne) Erklärung.",
       "context": "Angie (Geraldine Page) weiß, wie ihr Mann lebte, und akzeptiert Hondos (John Wayne) Erklärung. Sie hält die sofortige Mitteilung an Johnny für unnötig grausam und denkt an eine gemeinsame Zukunft anderswo.",
-      "anchor": "Angie trennt notwendige Wahrheit für sich von Schonung des Kindes.",
       "interest": "Angie trennt notwendige Wahrheit für sich von Schonung des Kindes.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Angie trennt notwendige Wahrheit für sich von Schonung des Kindes."
     },
     {
       "code": "Y",
@@ -185,13 +185,13 @@
       ],
       "short": "1953 erschien der Film.",
       "context": "1953 erschien der Film. Louis L’Amours Erzählung The Gift of Cochise wurde 1952 veröffentlicht; nur ein Jahr später kam die 3D-Verfilmung ins Kino.",
-      "anchor": "Erzählung 1952, Film 1953: Ein Jahr führt von L’Amours Stoff zum 3D-Western.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Erzählung 1952, Film 1953: Ein Jahr führt von L’Amours Stoff zum 3D-Western."
     },
     {
       "code": "D",
@@ -210,14 +210,14 @@
       ],
       "short": "John Farrow führte die Hauptregie; John Ford übernahm die letzten Angriffsszenen ohne Namensnennung.",
       "context": "John Farrow führte die Hauptregie. Weil sich der Dreh verzögerte und Farrow bereits zu einem anderen Film verpflichtet war, übernahm John Ford die letzten Szenen des Wagenzugangriffs ohne Namensnennung.",
-      "anchor": "Hauptregie Farrow, letzte Szenen Ford ohne Namensnennung.",
       "interest": "Die Regiearbeit am Abschluss ergänzt den im Vorspann sichtbaren Hauptcredit.",
       "sources": [
         "eckdaten",
         "studio"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Hauptregie Farrow, letzte Szenen Ford ohne Namensnennung."
     }
   ],
   "director_note": "Hauptregie John Farrow; John Ford übernahm ohne Vorspanncredit die letzten Szenen."

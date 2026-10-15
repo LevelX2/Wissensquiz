@@ -33,12 +33,12 @@
       ],
       "short": "Anthony lebt mit Demenz.",
       "context": "Anthony (Anthony Hopkins) lebt mit Demenz. Vertraute Menschen und Räume werden für ihn widersprüchlich; die Erzählung lässt das Publikum diese Unsicherheit unmittelbar miterleben.",
-      "anchor": "Die Wirklichkeit wird aus Anthonys Demenz erlebt.",
       "interest": "Die Wirklichkeit wird aus Anthonys Demenz erlebt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Wirklichkeit wird aus Anthonys Demenz erlebt."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Anne versucht Pflege für ihren Vater zu organisieren.",
       "context": "Anne (Olivia Colman) versucht Pflege für ihren Vater zu organisieren. Anthony (Anthony Hopkins) weist Hilfe wiederholt zurück; sein Wunsch nach Selbstständigkeit erschwert damit auch ihren Alltag.",
-      "anchor": "Anne sucht Hilfe, Anthony wehrt sie ab.",
       "interest": "Anne sucht Hilfe, Anthony wehrt sie ab.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Anne sucht Hilfe, Anthony wehrt sie ab."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Anthony verdächtigt eine Pflegekraft des Diebstahls.",
       "context": "Anthony (Anthony Hopkins) verdächtigt eine Pflegekraft des Diebstahls. Der verlorene Gegenstand gibt seiner Verunsicherung eine greifbare Ursache; die Anschuldigung zeigt, wie er Erinnerungslücken auf andere Menschen zurückführt.",
-      "anchor": "Die fehlende Uhr wird zum vermeintlichen Diebstahl.",
       "interest": "Die fehlende Uhr wird zum vermeintlichen Diebstahl.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die fehlende Uhr wird zum vermeintlichen Diebstahl."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Laura erinnert Anthony (Anthony Hopkins) an Lucy.",
       "context": "Laura (Imogen Poots) erinnert Anthony (Anthony Hopkins) an Lucy. Seine zweite Tochter ist in seiner Erinnerung präsent, obwohl er ihr Unfallgeschehen nicht zuverlässig einordnen kann; Gegenwart und Verlust überlagern sich.",
-      "anchor": "Laura ruft die Erinnerung an Lucy wach.",
       "interest": "Laura ruft die Erinnerung an Lucy wach.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Laura ruft die Erinnerung an Lucy wach."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Vertraute Rollen erscheinen mit wechselnden Gesichtern.",
       "context": "Vertraute Rollen erscheinen mit wechselnden Gesichtern. Olivia Colman und Olivia Williams wirken etwa beide zeitweise wie Anthonys Tochter; der Film vermittelt damit seine Perspektive statt einen stabilen Überblick.",
-      "anchor": "Wechselnde Gesichter lösen die vertraute Ordnung auf.",
       "interest": "Wechselnde Gesichter lösen die vertraute Ordnung auf.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Wechselnde Gesichter lösen die vertraute Ordnung auf."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Anthony (Anthony Hopkins) lebt in einem Pflegeheim.",
       "context": "Anthony (Anthony Hopkins) lebt in einem Pflegeheim. Catherine (Olivia Williams) erklärt ihm Annes Aufenthalt in Paris und tröstet ihn; der erkennbare Ort beendet seine emotionale Orientierungslosigkeit nicht.",
-      "anchor": "Am Ende wird das Pflegeheim sichtbar.",
       "interest": "Am Ende wird das Pflegeheim sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Am Ende wird das Pflegeheim sichtbar."
     },
     {
       "code": "Y",
@@ -177,12 +177,12 @@
       ],
       "short": "Der Film wurde 2020 erstmals veröffentlicht.",
       "context": "2020 wurde das Drama erstmals in Sundance gezeigt. Zellers Theaterstück Le Père stammt von 2012; die Verfilmung folgt acht Jahre später. Der pandemiebedingt spätere breite Kinostart gehört zu 2021, nicht zur ersten Veröffentlichung.",
-      "anchor": "Das Theaterstück von 2012 wurde acht Jahre später, 2020, erstmals als Film gezeigt.",
       "interest": "Das Theaterstück von 2012 wurde acht Jahre später, 2020, erstmals als Film gezeigt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Theaterstück von 2012 wurde acht Jahre später, 2020, erstmals als Film gezeigt."
     },
     {
       "code": "D",
@@ -201,12 +201,12 @@
       ],
       "short": "Regie: Florian Zeller.",
       "context": "Zeller verfilmte sein eigenes Theaterstück als Regiedebüt. Christopher Hampton arbeitete am Drehbuch mit; wechselnde Darsteller und Veränderungen der Wohnung versetzen das Publikum in eine unsichere Wahrnehmung.",
-      "anchor": "Zeller verfilmte sein eigenes Theaterstück als Regiedebüt.",
       "interest": "Zeller verfilmte sein eigenes Theaterstück als Regiedebüt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Zeller verfilmte sein eigenes Theaterstück als Regiedebüt."
     }
   ]
 }

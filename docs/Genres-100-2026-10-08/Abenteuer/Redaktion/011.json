@@ -35,11 +35,11 @@
       ],
       "short": "Robin dient als gewöhnlicher Bogenschütze.",
       "context": "Robin Longstride (Russell Crowe) kehrt als Kriegsveteran aus Richards Heer zurück. Er startet damit nicht als der bereits etablierte Waldrebell. Die Geschichte entwickelt die spätere Legende aus dem Weg eines Soldaten, der den Kriegsdienst hinter sich lässt.",
-      "anchor": "Vor dem Wald steht Robins Kriegsdienst.",
       "interest": "Die Frage erschließt die besondere Ausgangslage dieser Fassung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Vor dem Wald steht Robins Kriegsdienst."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Er gibt sich als Robert Loxley aus.",
       "context": "Robin (Russell Crowe) begegnet dem sterbenden Robert Loxley (Douglas Hodge). Aus dessen letzter Bitte entsteht eine neue Rolle. In England hält er die fremde Identität aufrecht und wird so mit einer Familie und deren gefährdetem Besitz verbunden.",
-      "anchor": "Longstride kehrt als Loxley zurück.",
       "interest": "Der Rollenwechsel wird klar von einer tatsächlichen Verwandtschaft getrennt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Longstride kehrt als Loxley zurück."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Ein lebender Erbe soll die Einziehung des Besitzes verhindern.",
       "context": "Sir Walter (Max von Sydow) weiß, dass sein Sohn tot ist. Robin (Russell Crowe) soll dennoch dessen Platz einnehmen, damit das Gut geschützt bleibt. Marian (Cate Blanchett) muss damit einen Fremden in der Rolle ihres Ehemannes dulden; das politische Problem verändert das private Leben.",
-      "anchor": "Die falsche Identität schützt Loxleys Land.",
       "interest": "Der rechtliche Anlass macht das ungewöhnliche Zusammenleben verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die falsche Identität schützt Loxleys Land."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Er fordert eine verbindliche Garantie von Rechten.",
       "context": "Die englischen Barone sind über königliche Willkür zerstritten. Robin (Russell Crowe) verlangt von John (Oscar Isaac) Rechte als Grundlage eines gemeinsamen Widerstands. Der Film verbindet die Verteidigung gegen äußere Gefahr damit mit einer Forderung nach einer anderen inneren Ordnung.",
-      "anchor": "Gemeinsamer Kampf braucht zugesicherte Rechte.",
       "interest": "Die politische Bedingung erklärt den Zusammenschluss der Lager.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Gemeinsamer Kampf braucht zugesicherte Rechte."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Godfrey arbeitet auf eine Invasion Frankreichs hin.",
       "context": "Godfrey (Mark Strong) handelt scheinbar im Auftrag König Johns (Oscar Isaac). Seine französischen Helfer verschärfen aber den Streit mit den Baronen. Die Übergriffe sollen das Land so schwächen, dass König Philip (Jonathan Zaccaï) leichter eindringen kann.",
-      "anchor": "Godfreys Steuern sind ein Spaltungswerkzeug.",
       "interest": "Die Frage unterscheidet Auftrag und verborgenes Ziel.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Godfreys Steuern sind ein Spaltungswerkzeug."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Der König verweigert die versprochenen Rechte und ächtet Robin.",
       "context": "John (Oscar Isaac) hatte Rechte zugesagt, um Unterstützung gegen Frankreich zu gewinnen. Nach dem Sieg sieht er Robin (Russell Crowe) als Bedrohung und widerruft die Zusage. Erst diese Wendung führt die Gruppe in den Wald und schafft den vertrauten Zustand der Legende.",
-      "anchor": "Der gebrochene Vertrag macht Robin zum Gesetzlosen.",
       "interest": "Das Ende erklärt die Entstehung der bekannten Legende.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der gebrochene Vertrag macht Robin zum Gesetzlosen."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Diese Vorgeschichte erschien 2010.",
       "context": "Ridley Scott und Russell Crowe hatten 2000 Gladiator ins Kino gebracht. Robin Hood folgte 2010, zehn Jahre später, erneut mit Scott als Regisseur und Crowe als Hauptdarsteller. Der zeitliche Abstand verbindet zwei historische Großabenteuer derselben Zusammenarbeit. Statt eines römischen Kämpfers steht nun ein Mann im mittelalterlichen England im Zentrum, dessen Erfahrungen ihn gegen die bestehende Machtordnung führen.",
-      "anchor": "2000 Gladiator – 2010 Robin Hood: zehn Jahre Scott und Crowe.",
       "interest": "Die ungewöhnliche Vorgeschichte bildet den Jahresanker.",
       "sources": [
         "studio",
         "zeitanker"
-      ]
+      ],
+      "objective": "2000 Gladiator – 2010 Robin Hood: zehn Jahre Scott und Crowe."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Ridley Scott führte Regie.",
       "context": "Ridley Scott verlegt den Schwerpunkt auf Krieg, Identitätswechsel und die politische Vorgeschichte des Waldrebellen. Der Regiecredit gehört zum Film mit Russell Crowe. Scotts Fassung ist daher über Besetzung und erzählerischen Ausgangspunkt von anderen Robin-Hood-Adaptionen zu trennen.",
-      "anchor": "Scott erzählt Crowes Robin-Vorgeschichte.",
       "interest": "Der Regiecredit wird an die Besonderheit der Fassung gebunden.",
       "sources": [
         "studio"
-      ]
+      ],
+      "objective": "Scott erzählt Crowes Robin-Vorgeschichte."
     }
   ]
 }

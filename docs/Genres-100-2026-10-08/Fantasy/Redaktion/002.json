@@ -34,11 +34,11 @@
       ],
       "short": "Orpheus ist ein Dichter.",
       "context": "Orpheus (Jean Marais) gehört zur literarischen Öffentlichkeit des modernen Frankreichs. Schon der Besuch im Café der Dichter verbindet den antiken Namen mit einem gegenwärtigen Milieu. Seine späteren Erfahrungen betreffen daher nicht nur Liebe und Tod, sondern auch die Suche nach dichterischer Sprache. Der Film verschiebt die bekannte Unterweltreise in eine Welt mit Autos, Polizei und konkurrierenden jungen Autoren.",
-      "anchor": "Der antike Name gehört einem modernen Dichter.",
       "interest": "Erkennt Cocteaus konkrete Modernisierung des mythischen Titelhelden.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der antike Name gehört einem modernen Dichter."
     },
     {
       "code": "L2",
@@ -57,13 +57,13 @@
       ],
       "short": "Die Prinzessin ist eine Gestalt von Orpheus’ Tod.",
       "context": "Die Prinzessin (María Casares) tritt zunächst als rätselhafte Frau mit Chauffeur und Begleitern auf. Ihre eigentliche Funktion ist jedoch Orpheus’ (Jean Marais) Tod. Dass er sich zu ihr hingezogen fühlt, macht die Unterweltreise komplizierter als eine reine Rettungsmission. Im Criterion-Essay erläutert Mark Polizzotti diese Verbindung von Todesfigur und Begehren als Kern der besonderen Liebeskonstellation des Films.",
-      "anchor": "Eine Todesfigur wird zur begehrten Frau.",
       "interest": "Erfasst die zentrale Funktion der Prinzessin.",
       "sources": [
         "film",
         "essay"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine Todesfigur wird zur begehrten Frau."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Das Autoradio sendet rätselhafte Dichtungen.",
       "context": "Orpheus (Jean Marais) lässt den Wagen in seiner Garage stehen und verbringt immer mehr Zeit beim Radio. Die ausgestrahlten Sätze erscheinen ihm als Zugang zu einer besonderen dichterischen Sprache. Während Eurydice (Marie Déa) versucht, ihn an ihrem Leben teilhaben zu lassen, zieht er sich in dieses Hören zurück. Eine alltägliche technische Einrichtung wird so zum Medium zwischen Kunst, Geheimnis und Vernachlässigung.",
-      "anchor": "Das Radio verdrängt das Gespräch zu Hause.",
       "interest": "Verbindet ein modernes Objekt mit der dichterischen Obsession und ihrem persönlichen Preis.",
       "sources": [
         "film",
         "essay"
-      ]
+      ],
+      "objective": "Das Radio verdrängt das Gespräch zu Hause."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Der Spiegel wird zum Durchgang.",
       "context": "Heurtebise (François Périer) führt Orpheus (Jean Marais) auf den Weg ins Jenseits. Dazu legt der Dichter besondere Handschuhe an und tritt durch einen Spiegel. Ein Gegenstand, der normalerweise nur das eigene Bild zurückwirft, wird damit zum begehbaren Übergang. Dahinter liegt die Zone, deren Ruinen und unklare Bewohner die Reise räumlich erfahrbar machen, ohne die Regeln der anderen Welt vollständig zu erklären.",
-      "anchor": "Der Spiegel reflektiert nicht nur: Er öffnet sich.",
       "interest": "Erkennt das konkrete Übergangsmittel der Unterweltreise.",
       "sources": [
         "film",
         "essay"
-      ]
+      ],
+      "objective": "Der Spiegel reflektiert nicht nur: Er öffnet sich."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Der Rückspiegel macht das Blickverbot zur Falle.",
       "context": "Orpheus (Jean Marais) darf Eurydice (Marie Déa) nach ihrer Rückkehr nicht ansehen. Diese Bedingung wird in der modernen Alltagswelt besonders schwer einzuhalten. Als sie hinten im Wagen sitzt, fällt sein Blick unbeabsichtigt in den Rückspiegel, und sie verschwindet erneut. Cocteau ersetzt die direkte Wendung des antiken Helden durch einen technisch vermittelten Blick, der dieselbe unerbittliche Folge hat.",
-      "anchor": "Der Rückspiegel verletzt das Blickverbot.",
       "interest": "Erfasst die moderne Umgestaltung eines entscheidenden Mythosereignisses.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Rückspiegel verletzt das Blickverbot."
     },
     {
       "code": "S2",
@@ -154,13 +154,13 @@
       ],
       "short": "Die Rückkehr löscht ihre Erinnerung an das Geschehen.",
       "context": "Die Prinzessin (María Casares) verzichtet auf Orpheus (Jean Marais) und nimmt das drohende Urteil auf sich. Er und Eurydice (Marie Déa) erhalten ihr gemeinsames Leben zurück, ohne sich an die Ereignisse zu erinnern. Ihre Rettung ist damit kein bewusster Triumph über die andere Welt. Der Neubeginn beruht auf einem Opfer, dessen Bedeutung die Geretteten selbst nicht mehr kennen.",
-      "anchor": "Ein Neubeginn ohne Wissen um das Opfer.",
       "interest": "Erklärt den besonderen Preis und Zustand der Schlussrettung.",
       "sources": [
         "film",
         "essay"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Ein Neubeginn ohne Wissen um das Opfer."
     },
     {
       "code": "Y",
@@ -179,12 +179,12 @@
       ],
       "short": "Der Film wurde 1950 erstmals veröffentlicht.",
       "context": "Jean Cocteau hatte den Orpheus-Stoff bereits 1926 für das Theater bearbeitet. Der Film folgte 1950, also 24 Jahre später. Mark Polizzotti erläutert diesen Vorlauf im Criterion-Essay. Die spätere Bearbeitung nutzt die Möglichkeiten des Kinos für Übergänge, Rückwärtsbewegung und moderne Alltagsgegenstände. Ein früherer Bühnenstoff wird dadurch nicht einfach abgefilmt, sondern mit anderen Mitteln erneut erfunden.",
-      "anchor": "Bühnenstück 1926, Film 1950: 24 Jahre.",
       "interest": "Verbindet das Erstjahr mit einer konkreten früheren Bearbeitung desselben Stoffes.",
       "sources": [
         "criterion",
         "essay"
-      ]
+      ],
+      "objective": "Bühnenstück 1926, Film 1950: 24 Jahre."
     },
     {
       "code": "D",
@@ -203,13 +203,13 @@
       ],
       "short": "Jean Cocteau führte die Hauptregie.",
       "context": "Jean Cocteau verbindet in seiner Inszenierung eine antike Unterweltgeschichte mit dem Frankreich seiner Gegenwart. Orpheus (Jean Marais) bewegt sich zwischen Café, Garage und einer Zone aus Ruinen. Der Wechsel der Räume hält die Grenze zwischen Alltag und Todeswelt zugleich sichtbar und unsicher. Die offiziell belegte Regie gehört damit zu einer Gestaltung, die den Mythos durch konkrete filmische Übergänge erneuert.",
-      "anchor": "Cocteaus Mythos lebt zwischen Garage und Jenseits.",
       "interest": "Verknüpft den Hauptcredit mit der besonderen räumlichen Erzählweise.",
       "sources": [
         "criterion",
         "film",
         "essay"
-      ]
+      ],
+      "objective": "Cocteaus Mythos lebt zwischen Garage und Jenseits."
     }
   ]
 }

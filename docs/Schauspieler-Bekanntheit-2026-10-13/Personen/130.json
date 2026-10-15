@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Remigio ist der Kellermeister des Klosters.",
       "context": "Qualtinger spielt einen Mönch, dessen Verbindung zu Salvatore (Ron Perlman) und zur Vergangenheit einer ketzerischen Bewegung verdächtig wird. Die Klostermorde geraten unter dem Inquisitor Bernardo Gui (F. Murray Abraham) zu einem Verfahren, in dem Drohung und Geständnis die Untersuchung verdrängen. William von Baskerville (Sean Connery) widerspricht dabei der angeblichen Schuld Remigios an den Morden.",
-      "anchor": "Der Kellermeister gerät vor ein von der Inquisition bestimmtes Tribunal.",
       "interest": "Die Rolle verbindet den Alltag des Klosters mit der Verfolgung vermeintlicher Ketzer.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.suhrkamp.de/person/helmut-qualtinger-p-14457",
         "https://en.wikipedia.org/wiki/The_Name_of_the_Rose_(film)"
-      ]
+      ],
+      "objective": "Der Kellermeister gerät vor ein von der Inquisition bestimmtes Tribunal."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 3,
       "short": "Qualtinger erzählt als Herr Karl in einem Monolog einem unsichtbaren jüngeren Gegenüber von seinem Leben.",
       "context": "Im Keller einer Delikatessenhandlung beginnt der Lagerarbeiter zu erzählen, bevor er eine Kiste anhebt. Die Kamera übernimmt den Platz des unhörbaren Zuhörers. Karl präsentiert seine Lebensgeschichte als harmloses Durchkommen durch schwierige Zeiten. Gerade weil kein sichtbarer Gesprächspartner seine Ausreden zurechtrückt, muss das Publikum die Widersprüche seiner Selbstdarstellung selbst erkennen.",
-      "anchor": "Ein einzelner Erzähler redet sich vor der Kamera um seine Verantwortung herum.",
       "interest": "Die Form macht das Publikum zum Gegenüber eines unzuverlässigen Selbstdarstellers.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://oe1.orf.at/artikel/293807/Der-Herr-Karl"
-      ]
+      ],
+      "objective": "Ein einzelner Erzähler redet sich vor der Kamera um seine Verantwortung herum."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 2,
       "short": "Der Zauberkönig ist Mariannes Vater.",
       "context": "Der Besitzer einer Puppenklinik möchte seine Tochter mit dem Fleischhauer Oskar (Götz Kauffmann) verheiraten. Die Verbindung verspricht auch ihm eine gesicherte Altersversorgung. Als Marianne sich stattdessen Alfred (Hanno Pöschl) zuwendet, verstößt er sie. Der Vater gehört damit zu jener vermeintlich anständigen Umgebung, deren wirtschaftliche Interessen und Doppelmoral Mariannes Spielraum immer enger machen.",
-      "anchor": "Hinter dem Heiratswunsch des Vaters steckt auch seine eigene Versorgung.",
       "interest": "Die Verwandtschaft erklärt, weshalb die soziale Kontrolle Marianne unmittelbar trifft.",
       "feedback": [
         "",
@@ -87,7 +86,8 @@
       "extraSources": [
         "https://de.wikipedia.org/wiki/Geschichten_aus_dem_Wienerwald_(1979)",
         "https://www.filmarchiv.at/de/kino/film/sc_02zS2Sj6CJGSTMPfsXH2EV"
-      ]
+      ],
+      "objective": "Hinter dem Heiratswunsch des Vaters steckt auch seine eigene Versorgung."
     },
     {
       "code": "M2",
@@ -101,7 +101,6 @@
       "correct": 3,
       "short": "Pokorny ist aus Wien in die Provinz strafversetzt worden.",
       "context": "Pokorny fühlt sich in der engen Kleinstadt fremd und begegnet ihrer Ordnung mit mürrischer Gegenwehr. Seine deprimierte, trinkende Erscheinung lässt zunächst keinen glanzvollen Ermittler erwarten. Qualtinger gibt dem Inspektor jedoch eine Mischung aus Ungelenkheit und plötzlich aufflammender Energie. So entsteht ein Polizist, dessen Unzufriedenheit auch auf die bedrückenden Verhältnisse seiner Umgebung verweist.",
-      "anchor": "Die Provinzstelle ist für Pokorny eine Strafe.",
       "interest": "Der berufliche Hintergrund erklärt seine Haltung gegenüber dem neuen Arbeitsort.",
       "feedback": [
         "",
@@ -114,7 +113,8 @@
       ],
       "extraSources": [
         "https://info.filmarchiv.at/program/film/kurzer-prozess/"
-      ]
+      ],
+      "objective": "Die Provinzstelle ist für Pokorny eine Strafe."
     },
     {
       "code": "S1",
@@ -128,7 +128,6 @@
       "correct": 0,
       "short": "Eibenschütz erfährt vom Verhältnis seiner Frau mit seinem Sekretär.",
       "context": "Der neue Eichmeister will im galizischen Grenzort seine Vorstellungen von kaiserlicher Dienstmoral durchsetzen. Der Zusammenbruch seiner ehelichen Gewissheit untergräbt auch die private Ordnung, an der er festhält. Qualtinger spielt die Vereinsamung mit sparsamen Gesten und knappen Sätzen. Eibenschütz findet weder im Amt noch im persönlichen Leben jene Sicherheit wieder, die er aus der Kaserne kennt.",
-      "anchor": "Mit der Ehe zerbricht auch Eibenschütz’ Vorstellung einer verlässlichen Ordnung.",
       "interest": "Privater Verrat und dienstliche Starrheit werden als zusammengehörige Krise der Figur verständlich.",
       "feedback": [
         "Eibenschütz erfährt vom Verhältnis seiner Frau mit seinem Sekretär.",
@@ -141,7 +140,8 @@
       ],
       "extraSources": [
         "https://info.filmarchiv.at/program/film/das-falsche-gewicht/"
-      ]
+      ],
+      "objective": "Mit der Ehe zerbricht auch Eibenschütz’ Vorstellung einer verlässlichen Ordnung."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 1,
       "short": "Er verharmlost sein Mittun und reklamiert für sich selbst einen Opferstatus.",
       "context": "Karl erzählt, dass er Tennenbaum zu den auf dem Gehsteig zu entfernenden Parolen geführt habe. Den Zwang und die Demütigung behandelt er wie eine alltägliche Angelegenheit. Gegenüber anderen, die durch die Verfolgung reich geworden seien, erscheint ihm seine eigene Rolle sogar benachteiligend. Qualtingers gemütlicher Erzählton macht die Selbstentlastung besonders beklemmend, weil Karl keinerlei Bruch in seiner Logik erkennt.",
-      "anchor": "Karl erzählt von der Demütigung eines anderen und erklärt sich selbst zum Opfer.",
       "interest": "Der konkrete Rückblick macht die Kritik am österreichischen Mitläufertum fassbar.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       "extraSources": [
         "https://de.wikipedia.org/wiki/Der_Herr_Karl",
         "https://oe1.orf.at/hoerspiel/suche/15952"
-      ]
+      ],
+      "objective": "Karl erzählt von der Demütigung eines anderen und erklärt sich selbst zum Opfer."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 0,
       "short": "Merz fand, Qualtinger habe durch seine Darstellung mehr für das Stück getan.",
       "context": "Qualtinger und Merz hatten den Text gemeinsam geschaffen. Bei den Verlagsverhandlungen bestand Merz nach der Erinnerung des Verlegers Ulrich Schulenburg dennoch auf einer Verteilung von 60 zu 40 zugunsten Qualtingers. Die Begründung war dessen Leistung als Darsteller. Der Vorgang verbindet literarische Autorschaft mit der eigenständigen schöpferischen Bedeutung einer Aufführung.",
-      "anchor": "Der Mitautor erkannte das besondere Gewicht der schauspielerischen Verkörperung an.",
       "interest": "Die Tantiemenentscheidung macht die Zusammenarbeit von Autor und Interpret konkret.",
       "feedback": [
         "Merz fand, Qualtinger habe durch seine Darstellung mehr für das Stück getan.",
@@ -196,7 +195,8 @@
       ],
       "extraSources": [
         "https://radiokulturhaus.orf.at/artikel/284847/Aus-dem-Archiv-Helmut-Qualtinger"
-      ]
+      ],
+      "objective": "Der Mitautor erkannte das besondere Gewicht der schauspielerischen Verkörperung an."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 2,
       "short": "Der Vortrag legt das Pathos des stets Gekränkten und die hohlen Phrasen des Texts frei.",
       "context": "Der Essay von Willi Winkler beschreibt Qualtinger als Sprechschauspieler, der ohne hinzugefügte Witze die sprachliche Selbstinszenierung des Autors sichtbar macht. Im Wechsel von Größenanspruch, Kränkung und Ressentiment liegt dabei mehr als ein Anlass zum Lachen. Die Lesung richtet die Aufmerksamkeit auf den tatsächlichen Wortlaut und darauf, wie eine scheinbare persönliche Leidensgeschichte zur Rechtfertigung von Hass wird.",
-      "anchor": "Die Entlarvung entsteht im Sprechen des vorhandenen Texts.",
       "interest": "Das Beispiel erschließt eine Form kritischer Schauspielkunst jenseits einer Filmrolle.",
       "feedback": [
         "",
@@ -221,7 +220,8 @@
       "films": [],
       "extraSources": [
         "https://res.cloudinary.com/suhrkamp/image/upload/v1742125805/38902.pdf"
-      ]
+      ],
+      "objective": "Die Entlarvung entsteht im Sprechen des vorhandenen Texts."
     }
   ]
 }

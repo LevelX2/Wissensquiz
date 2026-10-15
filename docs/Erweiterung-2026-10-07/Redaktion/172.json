@@ -40,12 +40,12 @@
       ],
       "short": "Die Suche gilt dem US-amerikanischen Musiker Rodriguez.",
       "context": "Die Suche gilt dem US-amerikanischen Musiker Rodriguez. Seine Musik war in der Heimat kommerziell kaum erfolgreich, entwickelte aber anderswo eine große Anhängerschaft. Der Film erzählt diesen Abstand aus der Perspektive von Hörern, die nur die Platten und Geschichten kannten. Ihr Interesse richtet sich deshalb nicht bloß auf neue Aufnahmen, sondern auf den Menschen hinter der Musik.",
-      "anchor": "Gesucht wird Rodriguez, der unbekannt gebliebene Star.",
       "interest": "Den Gegenstand der filmischen Recherche erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gesucht wird Rodriguez, der unbekannt gebliebene Star."
     },
     {
       "code": "L2",
@@ -64,12 +64,12 @@
       ],
       "short": "Die Musik gewinnt in Südafrika eine große Anhängerschaft.",
       "context": "Die Musik gewinnt in Südafrika eine große Anhängerschaft. Der Erfolg entsteht weit entfernt vom Alltag des Künstlers in den USA und bleibt ihm lange verborgen. Der Film verbindet diesen räumlichen Abstand mit der politischen Situation der Apartheidzeit. Für die Fans sind die Platten ein fester Teil ihrer Erfahrung, während Informationen über den Musiker kaum verfügbar sind.",
-      "anchor": "Der weit entfernte Kult entsteht in Südafrika.",
       "interest": "Die zweite musikalische Lebenswelt erkennen.",
       "sources": [
         "sony"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der weit entfernte Kult entsteht in Südafrika."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Unter den Fans kursiert die Geschichte eines dramatischen Todes auf der Bühne.",
       "context": "Unter den Fans kursiert die Geschichte eines dramatischen Todes auf der Bühne. Verlässliche Informationen fehlen, sodass die Erzählung den verschwundenen Musiker zum Mythos macht. Die Recherche setzt genau dort an: Aus einer vielfach wiederholten Behauptung soll überprüfbares Wissen werden. Der Film zeigt dadurch, wie leicht fehlender Kontakt eine Lebensgeschichte durch eine Legende ersetzen kann.",
-      "anchor": "Das vermeintliche Bühnenende wird zum Ausgangspunkt der Suche.",
       "interest": "Das Motiv der Recherche verstehen.",
       "sources": [
         "synopsis"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das vermeintliche Bühnenende wird zum Ausgangspunkt der Suche."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Eine inoffizielle Aufnahme findet ihren Weg nach Südafrika und wird weitergegeben.",
       "context": "Eine inoffizielle Aufnahme findet ihren Weg nach Südafrika und wird weitergegeben. Mundpropaganda trägt zur wachsenden Anhängerschaft bei, obwohl der Künstler dort zunächst nicht auftritt. Die Verbreitung ist deshalb von seiner eigenen Karrierewahrnehmung getrennt. Der Film macht deutlich, dass Musik auch außerhalb geplanter Vertriebs- und Werbewegungen eine dauerhafte Bedeutung gewinnen kann.",
-      "anchor": "Eine inoffizielle Kopie eröffnet den zweiten Weg der Musik.",
       "interest": "Die Verbreitung vom persönlichen Auftritt unterscheiden.",
       "sources": [
         "sony"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine inoffizielle Kopie eröffnet den zweiten Weg der Musik."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Die Fans entdecken Rodriguez lebend in Detroit.",
       "context": "Die Fans entdecken Rodriguez lebend in Detroit. Er hatte dort als Tagelöhner gearbeitet, während seine Musik auf einem anderen Kontinent berühmt wurde. Diese Gleichzeitigkeit löst den vermeintlichen Todesmythos auf. Die Überraschung entsteht nicht aus einem erfundenen Identitätswechsel, sondern aus zwei Lebenswelten, die über Jahre kaum miteinander in Verbindung standen.",
-      "anchor": "Der totgeglaubte Musiker lebt in Detroit.",
       "interest": "Die zentrale Auflösung der Recherche erkennen.",
       "sources": [
         "cbs"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der totgeglaubte Musiker lebt in Detroit."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Bendjelloul erklärt, dass für Rodriguez’ frühere Lebensphase keine passenden Filmaufnahmen vorlagen.",
       "context": "Bendjelloul erklärt, dass für Rodriguez’ frühere Lebensphase keine passenden Filmaufnahmen vorlagen. Animationen füllen diese Lücke und halten zugleich die Spannung vor der tatsächlichen Begegnung aufrecht. Die Form macht die Vergangenheit sichtbar, ohne den Musiker schon durchgehend real im Bild zu zeigen. Archivmangel und erzählerische Zurückhaltung greifen in derselben Gestaltung ineinander.",
-      "anchor": "Animationen erzählen die Zeit vor den erhaltenen Begegnungsbildern.",
       "interest": "Die Bildform aus Materiallage und Dramaturgie erklären.",
       "sources": [
         "presse"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Animationen erzählen die Zeit vor den erhaltenen Begegnungsbildern."
     },
     {
       "code": "Y",
@@ -184,14 +184,14 @@
       ],
       "short": "Weltpremiere als Sundance-Eröffnungsfilm am 19. Januar 2012.",
       "context": "Der im Film gezeigte Höhepunkt von Rodriguez’ Rückkehr nach Südafrika fällt in das Jahr 1998. Die Dokumentation erschien 2012, vierzehn Jahre später. Sie erzählt somit eine Entdeckung nach, die bereits vor dem Film Publikum fand. Der zeitliche Bezug trennt den damaligen Durchbruch beim südafrikanischen Publikum von der späteren internationalen Verbreitung der Geschichte durch das Kino.",
-      "anchor": "1998 die Südafrika-Rückkehr, 2012 der Film: vierzehn Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "presse"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1998 die Südafrika-Rückkehr, 2012 der Film: vierzehn Jahre später."
     },
     {
       "code": "D",
@@ -210,13 +210,13 @@
       ],
       "short": "Malik Bendjelloul schrieb, inszenierte und montierte den Film.",
       "context": "Malik Bendjelloul schrieb, inszenierte und montierte den Film. Mit Kamerafrau Camilla Skagerström setzte er Detroit und Kapstadt in unterschiedliche Licht- und Jahreszeitenbilder. Die persönliche Recherche wird dadurch auch räumlich erzählt. Bendjelloul übernahm aus knappen Mitteln weitere Gestaltungsarbeiten selbst; die begrenzten Möglichkeiten führten unter anderem zu eigenen Animationen und ergänzenden Smartphone-Aufnahmen.",
-      "anchor": "Bendjelloul verbindet Recherche mit dem Bildgegensatz Detroit–Kapstadt.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "presse"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Bendjelloul verbindet Recherche mit dem Bildgegensatz Detroit–Kapstadt."
     }
   ]
 }

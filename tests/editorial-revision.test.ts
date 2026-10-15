@@ -11,6 +11,7 @@ import {
   editorialCsvIds,
   editorialRevisions,
   latestCsvRevision,
+  currentQuestionId,
 } from "./editorialSource";
 
 it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen Darstellertexten", () => {
@@ -27,17 +28,19 @@ it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen 
     catalogCounts.goals,
   );
   for (const entry of revision.changes) {
-    const q = state.questions.find((q) => q.id === entry.id)!;
-    expect(q.knowledgeId, q.id).toBe(entry.knowledgeId);
+    const q = state.questions.find((q) => q.id === currentQuestionId(entry.id))!;
+    expect(q, entry.id).toBeDefined();
     if (entry.kind === "actor_presentation") {
+      expect(q.knowledgeId, q.id).toBe(entry.knowledgeId);
       expect(questionTitleParts(q), q.id).toBeNull();
       expect(actorPresentation(q), q.id).toEqual(entry.after);
       expect(presentedQuestion(q), q.id).toBe(entry.after.question);
     } else {
       const latest = latestCsvRevision(entry.file, entry.id)!;
+      expect(q.knowledgeId, q.id).toBe(latest.after.knowledge_id);
       expect(q.question, q.id).toBe(latest.after.question);
       expect(q.context, q.id).toBe(latest.after.explanation_context);
-      expect(q.metadata.variant_of, q.id).toBe(entry.before.variant_of);
+      expect(q.metadata.variant_of, q.id).toBe(latest.after.variant_of);
     }
   }
 });

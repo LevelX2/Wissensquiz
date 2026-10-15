@@ -45,13 +45,13 @@
       ],
       "short": "Das Grand Hotel bildet einen Berliner Begegnungsraum.",
       "context": "Gäste mit sehr verschiedenen Absichten kommen im Berliner Grand Hotel zusammen. Geschäft, Geldnot, Krankheit und künstlerische Erschöpfung führen sie an denselben Ort. Ihre Aufenthalte überschneiden sich nur kurz, verändern aber gegenseitig ihre Wege. Die große Stadt bleibt im Hintergrund; das Hotel verdichtet die Begegnungen auf wenige gemeinsame Räume.",
-      "anchor": "Das Berliner Hotel verdichtet getrennte Lebenswege zu kurzen, folgenreichen Begegnungen.",
       "interest": "Der Ort erklärt die Struktur der Ensemblehandlung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Berliner Hotel verdichtet getrennte Lebenswege zu kurzen, folgenreichen Begegnungen."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Sie ist eine russische Ballerina in einer beruflichen Krise.",
       "context": "Grusinskaya (Greta Garbo) kann die Erwartungen an ihre Auftritte nicht mehr erfüllen und zieht sich verzweifelt zurück. Der Baron (John Barrymore) trifft sie deshalb in einem Moment großer Verletzlichkeit. Ihre künstlerische Krise ermöglicht die persönliche Annäherung. Das Hotelzimmer wird für sie vom Rückzugsraum zu einem Ort neuer Zukunftshoffnung.",
-      "anchor": "Die erschöpfte Ballerina findet im privaten Gespräch neuen Lebensmut.",
       "interest": "Der Beruf erklärt ihre konkrete Krise vor der Begegnung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die erschöpfte Ballerina findet im privaten Gespräch neuen Lebensmut."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Er will seine vermeintlich letzten Tage jenseits des sparsamen Angestelltenlebens verbringen.",
       "context": "Kringelein (Lionel Barrymore) war ein kleiner Angestellter von Preysing (Wallace Beery). Die Nachricht von seiner schweren Krankheit verändert den Umgang mit den eigenen Ersparnissen. Im Hotel erlaubt er sich Dinge, die ihm zuvor unerreichbar schienen. Seine Geldmittel bedeuten daher keine gewöhnliche Großzügigkeit, sondern einen bewussten Einsatz der noch erwarteten Lebenszeit.",
-      "anchor": "Kringelein verwendet seine Ersparnisse als Antwort auf eine begrenzte Zukunft.",
       "interest": "Die Motivation erklärt seinen ungewöhnlichen sozialen Ortswechsel.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Kringelein verwendet seine Ersparnisse als Antwort auf eine begrenzte Zukunft."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Er entscheidet sich aus Mitgefühl gegen die geplante Ausnutzung.",
       "context": "Der Baron (John Barrymore) braucht Geld, um sich aus kriminellen Abhängigkeiten zu lösen. Kringeleins (Lionel Barrymore) Börse böte eine schnelle Möglichkeit. Dessen sichtbare Verzweiflung lässt ihn jedoch umkehren und den Fund vortäuschen. Die Szene zeigt seine Fähigkeit zur Rücksicht, ohne seine bestehende Not und den späteren riskanten Einbruch aufzuheben.",
-      "anchor": "Der Baron verzichtet aus Mitgefühl auf eine naheliegende Ausbeutung.",
       "interest": "Die Entscheidung erklärt seine widersprüchliche moralische Stellung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Baron verzichtet aus Mitgefühl auf eine naheliegende Ausbeutung."
     },
     {
       "code": "S1",
@@ -145,12 +145,12 @@
       ],
       "short": "Beim ertappten Einbruch wird das Telefon zur tödlichen Schlagwaffe.",
       "context": "Preysing (Wallace Beery) überrascht den Baron (John Barrymore) beim Einbruch und erschlägt ihn. Danach beansprucht er Notwehr und versucht, Kringelein (Lionel Barrymore) auf seine Seite zu bringen. Der frühere Angestellte widersetzt sich jedoch und holt die Polizei. Der Geschäftsmann verliert damit gerade bei dem Menschen seine Autorität, den er bislang sozial übergeordnet behandelte.",
-      "anchor": "Preysings Telefonmord endet mit Kringeleins Weigerung, ihn zu decken.",
       "interest": "Die Szene verbindet eine Tat mit der veränderten Machtbeziehung der beiden Männer.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Preysings Telefonmord endet mit Kringeleins Weigerung, ihn zu decken."
     },
     {
       "code": "S2",
@@ -169,13 +169,13 @@
       ],
       "short": "Ihr Umfeld verschweigt den Tod, während sie ein Wiedersehen erwartet.",
       "context": "Grusinskaya (Greta Garbo) reist mit erneuter Zuversicht zum nächsten Auftritt. Sie erwartet, den Baron (John Barrymore) wiederzusehen, weil sein Tod ihr verschwiegen wird. Andere Figuren verlassen denselben Ort mit anderem Wissen und anderen Hoffnungen. Der Schluss hält diese ungleichen Perspektiven nebeneinander, statt die Hotelereignisse für alle gemeinsam aufzulösen.",
-      "anchor": "Grusinskayas Zukunftshoffnung besteht fort, weil ihr die entscheidende Nachricht fehlt.",
       "interest": "Das Ende erklärt die ungleich verteilte Information innerhalb des Ensembles.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Grusinskayas Zukunftshoffnung besteht fort, weil ihr die entscheidende Nachricht fehlt."
     },
     {
       "code": "Y",
@@ -194,13 +194,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1932.",
       "context": "Vicki Baums Roman Menschen im Hotel erschien 1929. Nach einer Bühnenbearbeitung von 1930 entstand der MGM-Film von 1932, drei Jahre nach dem Buch. Das Hotel bleibt dabei der Ort, an dem voneinander unabhängige Lebensläufe kurz zusammenkommen. Die Folge von Roman, Bühne und Film erklärt die Übertragung einer bereits bewährten Ensembleanlage in eine große Starproduktion.",
-      "anchor": "Baums Roman 1929 → Bühne 1930 → MGM-Film 1932: drei Jahre vom Buch zum Film.",
       "interest": "Der Zeitanker erklärt die konkrete Entwicklung des mehrteiligen Erzählstoffs.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Baums Roman 1929 → Bühne 1930 → MGM-Film 1932: drei Jahre vom Buch zum Film."
     },
     {
       "code": "D",
@@ -219,13 +219,13 @@
       ],
       "short": "Edmund Goulding führte bei diesem Film Regie.",
       "context": "Edmund Goulding führte Regie bei einer Produktion mit Greta Garbo, Joan Crawford sowie John und Lionel Barrymore. Die Figuren besitzen unterschiedliche soziale Rollen und Ziele, treffen aber an demselben Ort aufeinander. Die Hotelhalle und angrenzenden Räume tragen diese Begegnungsstruktur. Die prominente Besetzung unterstützt damit eine Geschichte, die ihre Bedeutung aus mehreren miteinander verbundenen Lebenswegen gewinnt.",
-      "anchor": "Goulding führt ein großes Starensemble durch sich kreuzende Wege im Berliner Hotel.",
       "interest": "Der Hintergrund erklärt den Zusammenhang zwischen Besetzung und Ensembleerzählung.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Goulding führt ein großes Starensemble durch sich kreuzende Wege im Berliner Hotel."
     }
   ],
   "category": "Classics"

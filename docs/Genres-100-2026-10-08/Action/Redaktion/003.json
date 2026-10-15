@@ -31,11 +31,11 @@
       ],
       "short": "Docs Freiheit wird mit einem Bankraub erkauft.",
       "context": "Doc McCoy (Steve McQueen) erhält zunächst keine Bewährung, obwohl er sich im Gefängnis gut geführt hat. Seine Frau Carol (Ali MacGraw) vermittelt einen Handel mit Jack Beynon (Ben Johnson), einem einflussreichen Mitglied des Bewährungsgremiums. Für die Freilassung muss Doc eine Bank überfallen. Die neue Freiheit beginnt deshalb als Abhängigkeit von einem anderen Kriminellen und führt direkt in den nächsten gefährlichen Auftrag.",
-      "anchor": "Docs Freiheit wird mit einem Bankraub erkauft.",
       "interest": "Die korrupte Grundlage der vermeintlich neuen Freiheit.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Docs Freiheit wird mit einem Bankraub erkauft."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Doc und Carol wollen mit der Beute nach Mexiko.",
       "context": "Nach dem Bankraub müssen Doc und Carol McCoy (Steve McQueen, Ali MacGraw) sowohl der Polizei als auch anderen Kriminellen entkommen. Ihre Route führt durch Texas nach El Paso und schließlich über die Grenze nach Mexiko. Am Ende bezahlen sie einen Cowboy (Slim Pickens) für seinen Pickup. Das Fluchtziel gibt der langen Reise eine Richtung, während der gemeinsame Weg ihre beschädigte Ehe belastet.",
-      "anchor": "Doc und Carol wollen mit der Beute nach Mexiko.",
       "interest": "Ein klarer Handlungsrahmen für die Flucht und den Beziehungskonflikt.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Doc und Carol wollen mit der Beute nach Mexiko."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Carol erschießt Beynon und wendet sich gegen seinen Plan.",
       "context": "Jack Beynon (Ben Johnson) hat Carol McCoy (Ali MacGraw) dazu bringen wollen, ihren Mann Doc (Steve McQueen) zu töten. Als alle zusammentreffen, richtet sie die Waffe jedoch gegen Beynon. Doc erfährt anschließend, dass Carol für seine Freilassung auch eine sexuelle Beziehung mit dem Vermittler eingegangen war. Die Entscheidung rettet Doc, beseitigt aber nicht sein Misstrauen gegenüber seiner Frau.",
-      "anchor": "Carol erschießt Beynon und wendet sich gegen seinen Plan.",
       "interest": "Ein Wendepunkt verbindet Verrat, Loyalität und die Folgen des korrupten Handels.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Carol erschießt Beynon und wendet sich gegen seinen Plan."
     },
     {
       "code": "M2",
@@ -100,11 +100,11 @@
       ],
       "short": "Rudys schusssichere Weste lässt ihn den vermeintlich tödlichen Angriff überleben.",
       "context": "Rudy Butler (Al Lettieri) bedroht nach dem Bankraub die McCoys. Doc McCoy (Steve McQueen) schießt auf ihn und hält ihn anschließend für tot. Eine schusssichere Weste bewahrt Rudy jedoch vor den tödlichen Treffern. Er muss seine verletzte Schulter behandeln lassen und nimmt die Verfolgung auf. So wird ein scheinbar erledigter Verräter erneut zur Gefahr auf der Fluchtroute.",
-      "anchor": "Rudys schusssichere Weste lässt ihn den vermeintlich tödlichen Angriff überleben.",
       "interest": "Erklärt die Rückkehr eines totgeglaubten Gegenspielers.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Rudys schusssichere Weste lässt ihn den vermeintlich tödlichen Angriff überleben."
     },
     {
       "code": "S1",
@@ -123,11 +123,11 @@
       ],
       "short": "Der Dieb stiehlt die Beute durch vertauschte Schließfachschlüssel.",
       "context": "Carol McCoy (Ali MacGraw) soll die Beute am Bahnhof sichern. Ein Dieb (Richard Bright) täuscht sie und vertauscht die Schließfachschlüssel, sodass er den Geldkoffer an sich nehmen kann. Doc (Steve McQueen) verfolgt ihn bis in einen Zug und holt das Geld zurück. Die Episode erweitert die Flucht um eine weitere Betrugsgefahr: Auch außerhalb des ursprünglichen Komplotts ist die Beute nicht sicher.",
-      "anchor": "Der Dieb stiehlt die Beute durch vertauschte Schließfachschlüssel.",
       "interest": "Eine konkrete Täuschung setzt eine zusätzliche Verfolgung in Gang.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Dieb stiehlt die Beute durch vertauschte Schließfachschlüssel."
     },
     {
       "code": "S2",
@@ -146,11 +146,11 @@
       ],
       "short": "Die fortgeschickte Familie des Hotelbetreibers lässt Doc eine Falle vermuten.",
       "context": "Doc McCoy (Steve McQueen) kennt das Hotel in El Paso als Unterschlupf für Kriminelle. Als er mit Carol (Ali MacGraw) ankommt, bemerkt er, dass der Betreiber Laughlin (Dub Taylor) seine Familie weggeschickt hat. Er deutet dies als Vorbereitung auf eine gefährliche Auseinandersetzung und fordert Carol zur Fluchtbereitschaft auf. Tatsächlich sammeln sich Verfolger im Hotel. Eine häusliche Abweichung wird damit zum Warnsignal.",
-      "anchor": "Die fortgeschickte Familie des Hotelbetreibers lässt Doc eine Falle vermuten.",
       "interest": "Ein beobachtbares Indiz zeigt Docs Erfahrung und erklärt seine Vorbereitung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die fortgeschickte Familie des Hotelbetreibers lässt Doc eine Falle vermuten."
     },
     {
       "code": "Y",
@@ -169,12 +169,12 @@
       ],
       "short": "1968 Bullitt, 1972 Getaway: vier Jahre Abstand.",
       "context": "Getaway erschien 1972, vier Jahre nach Bullitt von 1968. In Bullitt spielte Steve McQueen einen Polizeiermittler, hier den verurteilten Bankräuber Doc McCoy. Die beiden Filme verbinden seine Präsenz mit Flucht, Verfolgung und präzise beobachteten Handlungen, stellen ihn aber auf unterschiedliche Seiten des Gesetzes. Der Abstand von vier Jahren bietet einen konkreten Zeitanker innerhalb seiner Laufbahn, ohne den späteren Getaway-Neuverfilmungen zu folgen.",
-      "anchor": "1968 Bullitt, 1972 Getaway: vier Jahre Abstand.",
       "interest": "Zeitanker durch zwei unterschiedliche Hauptrollen McQueens.",
       "sources": [
         "archiv",
         "bullitt"
-      ]
+      ],
+      "objective": "1968 Bullitt, 1972 Getaway: vier Jahre Abstand."
     },
     {
       "code": "D",
@@ -193,12 +193,12 @@
       ],
       "short": "Sam Peckinpah inszenierte Getaway.",
       "context": "Sam Peckinpah führte bei dieser Verfilmung Regie; Walter Hill schrieb das Drehbuch nach Jim Thompsons Roman. Die Handlung folgt einem Ehepaar auf der Flucht und verschränkt den äußeren Druck der Verfolger mit dem verletzten Vertrauen zwischen Doc und Carol McCoy (Steve McQueen, Ali MacGraw). Regie und Drehbuch sind hier unterschiedliche Leistungen. Gerade Hills spätere eigene Regiearbeit kann diese Zuordnung leicht verwischen.",
-      "anchor": "Sam Peckinpah inszenierte Getaway.",
       "interest": "Trennt Peckinpahs Inszenierung von Hills Drehbuchcredit.",
       "sources": [
         "archiv",
         "film"
-      ]
+      ],
+      "objective": "Sam Peckinpah inszenierte Getaway."
     }
   ],
   "source_note": "AFI datiert die Romanvorlage bibliografisch New York 1959, Wikipedia nennt 1958. Kein Wissensziel fragt das strittige Romanjahr ab; Y verwendet Bullitt 1968 als geprüften Zweitanker."

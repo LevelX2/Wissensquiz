@@ -35,12 +35,12 @@
       ],
       "short": "Die Jellicle-Katzen kommen zu ihrem Ball zusammen.",
       "context": "Die Jellicle-Katzen kommen zu ihrem Ball zusammen. Verschiedene Auftritte stellen Einzelne und ihre Geschichten vor, während ein gemeinsames Ritual den Abend zusammenhält. Der Film nutzt die versammelte Gruppe als Rahmen für sehr unterschiedliche musikalische Figurenporträts. Die Nummern sind dadurch weder zufällige Solostücke noch Teile einer gewöhnlichen menschlichen Wettbewerbsgeschichte.",
-      "anchor": "Der Jellicle-Ball rahmt die Katzenporträts.",
       "interest": "Die gemeinsame Ausgangssituation erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Jellicle-Ball rahmt die Katzenporträts."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Old Deuteronomy wählt eine Katze für die Reise zur Heaviside Layer und für ein neues Leben aus.",
       "context": "Old Deuteronomy wählt eine Katze für die Reise zur Heaviside Layer und für ein neues Leben aus. Sein Auftreten verleiht den Einzelgeschichten einen gemeinsamen Horizont. Die Auswahl ist von gewöhnlichem Gewinnen oder Verlieren zu unterscheiden. Sie verbindet die Vorstellung verschiedener Lebenswege mit einem Ritual, dessen Bedeutung der musikalische Abend schrittweise entfaltet.",
-      "anchor": "Old Deuteronomy entscheidet über die Reise in ein neues Leben.",
       "interest": "Das zentrale Ritual verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Old Deuteronomy entscheidet über die Reise in ein neues Leben."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Grizabella möchte wieder angenommen werden, doch die anderen reagieren zunächst abweisend.",
       "context": "Grizabella möchte wieder angenommen werden, doch die anderen reagieren zunächst abweisend. Ihr gealterter Zustand steht neben der Erinnerung an eine frühere Erscheinung. Der Film entwickelt daraus eine Geschichte über Zugehörigkeit und Mitgefühl innerhalb der versammelten Gruppe. Ihr Gesang richtet sich deshalb nicht nur an ein abstraktes Publikum, sondern an die Katzen, deren Nähe sie sucht.",
-      "anchor": "Grizabella sucht Aufnahme in die verlorene Gemeinschaft.",
       "interest": "Das persönliche Ziel hinter dem Auftritt verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Grizabella sucht Aufnahme in die verlorene Gemeinschaft."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Mistoffelees nutzt seine Zauberkraft, um den verschwundenen Old Deuteronomy zurückzubringen.",
       "context": "Mistoffelees nutzt seine Zauberkraft, um den verschwundenen Old Deuteronomy zurückzubringen. Damit kann die unterbrochene Auswahl wieder stattfinden. Die Filmfassung verbindet seine tänzerische Präsentation mit einer konkreten Handlungslösung. Seine Fähigkeiten werden nicht nur angekündigt, sondern verändern die Lage der Gemeinschaft nach Macavitys Eingriff sichtbar.",
-      "anchor": "Mistoffelees macht mit Magie die Fortsetzung des Rituals möglich.",
       "interest": "Figurenauftritt und Handlungsfunktion verbinden.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Mistoffelees macht mit Magie die Fortsetzung des Rituals möglich."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Gus erinnert sich an sein früheres Theaterleben.",
       "context": "Gus erinnert sich an sein früheres Theaterleben. Die alte, inzwischen eingeschränkte Figur blickt auf künstlerische Leistungen zurück, die sie nicht mehr in derselben Weise vorführen kann. John Mills’ Darstellung verleiht dem Rückblick eine andere Bewegungsqualität als den großen Tanznummern. Der Film stellt damit Erinnerung und gegenwärtige körperliche Möglichkeiten nebeneinander.",
-      "anchor": "Gus bewahrt die Erinnerung an sein Theaterleben.",
       "interest": "Ein Figurenporträt über seinen Rückblick erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Gus bewahrt die Erinnerung an sein Theaterleben."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Die Katzen setzen Gegenstände des Schrottplatzes zu einer Lokomotive zusammen.",
       "context": "Die Katzen setzen Gegenstände des Schrottplatzes zu einer Lokomotive zusammen. Damit entsteht Skimbleshanks’ Eisenbahnwelt aus dem vorhandenen Bühnenraum. Die Filmkamera kann diese theatrale Verwandlung aus verschiedenen Blickwinkeln zeigen. Der Vorgang verbindet das individuelle Porträt der Bahnkatze mit dem gemeinsamen Spiel der Gruppe, statt den Fantasieraum durch einen realen Bahnhof zu ersetzen.",
-      "anchor": "Der Zug wächst aus gemeinsam bewegten Schrottplatzteilen.",
       "interest": "Eine konkrete Bühnenverwandlung erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Zug wächst aus gemeinsam bewegten Schrottplatzteilen."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Video-Erstveröffentlichung am 5. Oktober 1998. Gefilmte Bühnenfassung am Adelphi Theatre, von der Kinoneuverfilmung 2019 abzugrenzen.",
       "context": "Das Bühnenmusical „Cats“ wurde 1981 erstmals aufgeführt. Diese gefilmte Fassung erschien 1998, siebzehn Jahre später. Die Aufnahmen entstanden bereits 1997 mit Darstellern unterschiedlicher internationaler Produktionen. Das Veröffentlichungsjahr gehört zur zugänglich gemachten Filmfassung; es ist weder der ursprüngliche Bühnenstart noch das Jahr der späteren Kinoneuverfilmung.",
-      "anchor": "1981 die Bühne, 1998 die gefilmte Fassung: siebzehn Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1981 die Bühne, 1998 die gefilmte Fassung: siebzehn Jahre später."
     },
     {
       "code": "D",
@@ -204,13 +204,13 @@
       ],
       "short": "David Mallet führte bei der Filmaufnahme Regie.",
       "context": "David Mallet führte bei der Filmaufnahme Regie. Andrew Lloyd Webber betreute die Musik, und Gillian Lynne arbeitete mit der Besetzung an ihrer ursprünglichen Choreografie. Mehrere Kameras und ergänzende Nahaufnahmen übersetzen den Bühnenabend in eine eigene Filmfassung. Die Inszenierung nutzt damit Theaterarbeit als Grundlage, bestimmt Blickwinkel und Ausschnitte aber für das Bildschirm-Publikum neu.",
-      "anchor": "Mallet filmt die Bühnenarbeit von Lloyd Webber und Lynne mit mehreren Blickwinkeln.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Mallet filmt die Bühnenarbeit von Lloyd Webber und Lynne mit mehreren Blickwinkeln."
     }
   ]
 }

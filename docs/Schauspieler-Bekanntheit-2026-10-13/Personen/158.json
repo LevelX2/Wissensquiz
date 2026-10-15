@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Jesús Gris betreibt einen Antiquitätenhandel.",
       "context": "In einer alten Statue entdeckt Gris einen goldenen Mechanismus in Käferform. Das Gerät verspricht neue Lebenskraft, bindet den alternden Mann aber an ein wachsendes Verlangen nach Blut. Ein kranker Geschäftsmann will es ebenfalls besitzen und lässt ihn verfolgen. Der Fund im alltäglichen Laden eröffnet so eine Geschichte über die verführerische und zerstörerische Aussicht auf Unsterblichkeit.",
-      "anchor": "Der Antiquitätenhändler findet das Versprechen ewiger Jugend in einem alten Gegenstand.",
       "interest": "Ein zugänglicher Berufseinstieg erschließt die ungewöhnliche Vampirgeschichte.",
       "feedback": [
         "Jesús Gris betreibt einen Antiquitätenhandel.",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27534-cronos"
-      ]
+      ],
+      "objective": "Der Antiquitätenhändler findet das Versprechen ewiger Jugend in einem alten Gegenstand."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 2,
       "short": "Casares ist der Arzt des Waisenhauses.",
       "context": "Das abgelegene Haus nimmt während des Spanischen Bürgerkriegs Kinder der republikanischen Seite auf. Casares und Carmen (Marisa Paredes) versuchen, ihnen Schutz zu geben. Mit der Ankunft von Carlos (Fernando Tielve) treten die verborgenen Konflikte des Hauses und die Geschichte eines getöteten Jungen hervor. Die Erwachsenen können den Krieg und die Gewalt auch an diesem Zufluchtsort nicht dauerhaft fernhalten.",
-      "anchor": "Casares versucht, in einem bedrohten Waisenhaus für die Kinder zu sorgen.",
       "interest": "Die Funktion stellt Luppis Figur in den historischen und familiären Zusammenhang.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27914-the-devil-s-backbone"
-      ]
+      ],
+      "objective": "Casares versucht, in einem bedrohten Waisenhaus für die Kinder zu sorgen."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Bengoa täuscht vor, durch die Explosion stumm geworden zu sein.",
       "context": "Bengoa und sein Kollege Bruno Di Toro (Ulises Dumont) planen einen fingierten Arbeitsunfall, um den korrupten Konzern zu einer Zahlung zu zwingen. Die Explosion tötet jedoch Di Toro. Bengoa führt den Plan allein weiter und muss sein Schweigen aufrechterhalten. Als das Unternehmen schließlich einen Vergleich anbietet, genügt ihm das Geld nicht mehr: Er will den Konflikt vor Gericht austragen.",
-      "anchor": "Das vorgetäuschte Verstummen wird zur dauernden Verpflichtung im Kampf gegen den Konzern.",
       "interest": "Der konkrete Plan erklärt, wie aus einem Betrug ein Konflikt um Gerechtigkeit wird.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Time_for_Revenge"
-      ]
+      ],
+      "objective": "Das vorgetäuschte Verstummen wird zur dauernden Verpflichtung im Kampf gegen den Konzern."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 2,
       "short": "Der Literaturprofessor wird vorzeitig in den Ruhestand versetzt.",
       "context": "Fernando und Liliana (Mercedes Sampietro) müssen ihre bisherige Lebensführung aufgeben. Sie versuchen einen Neuanfang auf einer kleinen Lavendelfarm in Córdoba und setzen sich zugleich mit ihrem nach Spanien ausgewanderten Sohn auseinander. Fernando hält Gedanken für einen Roman fest. Nach seinem Tod entscheidet Liliana, auf dem Hof zu bleiben und das begonnene Leben weiterzuführen.",
-      "anchor": "Der erzwungene Ruhestand führt von der Universität auf die Lavendelfarm.",
       "interest": "Die Entscheidung verbindet Alter, wirtschaftliche Unsicherheit und die Beziehung des Paares.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Common_Ground_(2002_film)"
-      ]
+      ],
+      "objective": "Der erzwungene Ruhestand führt von der Universität auf die Lavendelfarm."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 3,
       "short": "Gris verschont Aurora und zerstört den Mechanismus.",
       "context": "Aurora (Tamara Shanath) hat ihren Großvater auch nach seiner körperlichen Verwandlung beschützt. Als sie ihn mit dem Gerät wieder zu sich bringt, sieht er ihre blutende Hand und spürt erneut seinen Durst. Er widersteht und zerstört die Quelle der versprochenen Unsterblichkeit, obwohl er vor den tödlichen Folgen gewarnt wurde. Zuletzt liegt er zu Hause bei seiner Frau und der Enkelin.",
-      "anchor": "Gris gibt die versprochene Unsterblichkeit auf, um Aurora zu schützen.",
       "interest": "Die Schlussentscheidung macht den menschlichen Kern der Monsterfigur konkret.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Cronos_(film)"
-      ]
+      ],
+      "objective": "Gris gibt die versprochene Unsterblichkeit auf, um Aurora zu schützen."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 0,
       "short": "Mario reagiert auf den drohenden Ausverkauf der Genossenschaft mit der Zerstörung der Wolle.",
       "context": "Mario hat die Wollgenossenschaft gegründet, damit die Bauern gemeinsam bessere Bedingungen erreichen. Unter dem Druck des örtlichen Machthabers wollen sie dennoch billig verkaufen. Seine Brandstiftung soll diese Aufgabe des gemeinsamen Widerstands verhindern und zeigt zugleich die problematische Härte seiner Überzeugungen. Der erwachsene Ernesto erinnert die Ereignisse seiner Kindheit, während wirtschaftliche Macht und ein geplantes Staudammprojekt die Zukunft des Ortes verändern.",
-      "anchor": "Mario zerstört die Ware, um die Aufgabe des gemeinsamen Widerstands zu verhindern.",
       "interest": "Die drastische Handlung erschließt die Spannung zwischen Solidarität und Bevormundung.",
       "feedback": [
         "Mario reagiert auf den drohenden Ausverkauf der Genossenschaft mit der Zerstörung der Wolle.",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/A_Place_in_the_World_(film)"
-      ]
+      ],
+      "objective": "Mario zerstört die Ware, um die Aufgabe des gemeinsamen Widerstands zu verhindern."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 3,
       "short": "Die Sprachbarrieren machen die Unkenntnis des Arztes erfahrbar.",
       "context": "Dr. Fuentes sucht frühere Schüler, die er für die medizinische Arbeit auf dem Land ausgebildet hat. Außerhalb der Hauptstadt kann er sich oft nicht ohne einen Übersetzer verständigen und weiß nicht, ob er die Antworten richtig erhält. Sayles verband diese Unsicherheit mit kulturellen und sozialen Unterschieden. Auch das Publikum soll die Grenzen des vermeintlich kundigen, wohlmeinenden Arztes erleben.",
-      "anchor": "Die Reise durch das eigene Land wird auch zu einer Reise an sprachliche Grenzen.",
       "interest": "Die bewusste Sprachgestaltung verbindet Produktion und Perspektive der Hauptfigur.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://bombmagazine.org/articles/1998/04/01/john-sayles/"
-      ]
+      ],
+      "objective": "Die Reise durch das eigene Land wird auch zu einer Reise an sprachliche Grenzen."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 1,
       "short": "Die ursprüngliche Anlage vor dem Hintergrund der Mexikanischen Revolution wich dem Spanischen Bürgerkrieg.",
       "context": "Del Toro sah im Schicksal der Waisen eine Parallele zu einem Spanien, das von Europa dem Faschismus überlassen worden war. Die Verlegung gab seiner Geistergeschichte einen anderen politischen Rahmen. Casares und Carmen schützen Kinder der republikanischen Seite, während Gefahr auch innerhalb des Hauses entsteht. Das Fantastische und die historische Bedrohung entwickeln sich damit aus demselben Schauplatz.",
-      "anchor": "Der Wechsel nach Spanien verbindet das Waisenhaus mit einem verlassenen Land.",
       "interest": "Der Produktionshintergrund erklärt den historischen Rahmen einer zentralen Zusammenarbeit Luppis mit del Toro.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/2850-the-devil-s-backbone-the-past-is-never-dead"
-      ]
+      ],
+      "objective": "Der Wechsel nach Spanien verbindet das Waisenhaus mit einem verlassenen Land."
     }
   ]
 }

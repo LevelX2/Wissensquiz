@@ -34,13 +34,13 @@
       ],
       "short": "Vaiana soll Te Fitis Herz zurückbringen.",
       "context": "Der Verlust des Herzens bedroht die Inseln. Vaianas Reise soll dieses Ungleichgewicht beheben. Maui (Dwayne Johnson), der das Herz einst nahm, wird zum schwierigen Begleiter auf dem Rückweg.",
-      "anchor": "Vaianas Auftrag ist die Rückgabe von Te Fitis Herz.",
       "interest": "Die Aufgabe führt direkt in den zentralen Konflikt.",
       "sources": [
         "handlung",
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vaianas Auftrag ist die Rückgabe von Te Fitis Herz."
     },
     {
       "code": "L2",
@@ -59,13 +59,13 @@
       ],
       "short": "Maui ist ein Halbgott.",
       "context": "Vaiana (Auliʻi Cravalho) sucht einen Begleiter mit Fähigkeiten, die ihr selbst fehlen. Maui kann Gestalten wechseln, ist aber zunächst mehr an seiner eigenen Macht interessiert. Die Begegnung verlangt deshalb mehr als das Finden eines starken Helfers.",
-      "anchor": "Maui ist der Halbgott, den Vaiana zur Rückgabe bewegen muss.",
       "interest": "Die Figurenstellung erklärt sein Können und die schwierige Zusammenarbeit.",
       "sources": [
         "disney",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Maui ist der Halbgott, den Vaiana zur Rückgabe bewegen muss."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Die Höhle enthält Boote der früheren Seefahrer.",
       "context": "Großmutter Tala (Rachel House) zeigt Vaiana die verborgene Flotte. Damit wird aus ihrer persönlichen Sehnsucht eine Verbindung zur Geschichte ihres Volkes. Die Vorfahren waren Reisende, bevor die Gemeinschaft sich hinter das Riff zurückzog.",
-      "anchor": "Die versteckten Boote zeigen: Vaianas Volk war früher auf dem Meer unterwegs.",
       "interest": "Der Fund verändert das Verständnis der eigenen Herkunft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die versteckten Boote zeigen: Vaianas Volk war früher auf dem Meer unterwegs."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Te Kā und Te Fiti sind dieselbe Gestalt in verändertem Zustand.",
       "context": "Vaiana betrachtet die Bedrohung neu, als sie Te Fiti nicht am erwarteten Ort findet. Die Rückgabe des Herzens ersetzt den Versuch, den Gegner zu besiegen. Die Auflösung verbindet ihr Reiseauftrag mit einer überraschenden Identität.",
-      "anchor": "Te Kā ist die verletzte Te Fiti; das Herz beendet den Konflikt.",
       "interest": "Die Erkenntnis erklärt die ungewöhnliche Lösung des Endkampfs.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Te Kā ist die verletzte Te Fiti; das Herz beendet den Konflikt."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Mini Maui verbindet handgezeichnete Animation mit der Computeranimation.",
       "context": "Eric Goldberg betreute den kleinen Tattoo-Charakter. Die Zeichnungen wurden eingescannt und in die digitale Bildwelt übernommen. Eine eigene bewegte Figur sitzt damit auf der Oberfläche eines anderen animierten Körpers.",
-      "anchor": "Mini Maui ist Zeichentrick auf dem computeranimierten Maui.",
       "interest": "Ein sichtbar ungewöhnliches Gestaltungsmittel wird technisch verständlich.",
       "sources": [
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Mini Maui ist Zeichentrick auf dem computeranimierten Maui."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der Ozean musste ohne gewöhnliche Gesichtszüge als Figur funktionieren.",
       "context": "Animation und Effektabteilung arbeiteten gemeinsam an Bewegung und glaubwürdigem Wasser. Der Ozean hilft Vaiana (Auliʻi Cravalho), soll ihr aber nicht jede Aufgabe abnehmen. Gestaltung und Erzählfunktion mussten deshalb aufeinander abgestimmt werden.",
-      "anchor": "Der Ozean handelt als Figur, obwohl er kein menschliches Gesicht hat.",
       "interest": "Der Produktionszusammenhang erklärt eine prägende Besonderheit der Bildwelt.",
       "sources": [
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Ozean handelt als Figur, obwohl er kein menschliches Gesicht hat."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Die erste Veröffentlichung lag 2016.",
       "context": "„Vaiana“ kam 2016 heraus, im selben Jahr wie Disneys „Zoomania“. Das Produktionsteam beschreibt, wie Animatoren von „Zoomania“ zu „Vaiana“ wechselten. Zwei sehr unterschiedliche Bildwelten verbinden sich so mit einem gemeinsamen Arbeitsjahr.",
-      "anchor": "2016: Zoomania und Vaiana, Stadtgeschichte und Seereise aus demselben Studiojahr.",
       "interest": "Eine dokumentierte Produktionsverbindung bildet den Zeitanker.",
       "sources": [
         "disney",
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2016: Zoomania und Vaiana, Stadtgeschichte und Seereise aus demselben Studiojahr."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Das vollständige Team besteht aus Ron Clements, John Musker, Don Hall und Chris Williams.",
       "context": "Clements und Musker betreuten die Gesamtinszenierung. Hall und Williams konzentrierten sich laut dem Produktionsteam stärker auf die Struktur der Geschichte. Disneys Filmseite führt alle vier im Regiecredit.",
-      "anchor": "Clements und Musker führen die Gesamtinszenierung; Hall und Williams arbeiten an der Erzählstruktur.",
       "interest": "Die vollständige Teamzuordnung erklärt die unterschiedlichen Regieaufgaben.",
       "sources": [
         "disney",
         "interview"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Clements und Musker führen die Gesamtinszenierung; Hall und Williams arbeiten an der Erzählstruktur."
     }
   ],
   "director_note": "Disney führt vier Regisseure. In anderen Quellen werden Don Hall und Chris Williams als Co-Regisseure getrennt aufgeführt; das vollständige offizielle Team wird hier erhalten."

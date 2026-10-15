@@ -35,11 +35,11 @@
       ],
       "short": "Kolumbus sucht einen westlichen Weg nach Asien.",
       "context": "Kolumbus (Gérard Depardieu) wirbt für eine Fahrt nach Westen. Er erwartet, damit Asien zu erreichen. Die später gefundenen Inseln stehen deshalb am Ende eines Plans mit einem anderen ursprünglichen Ziel; der Film entwickelt sein Abenteuer aus Wagnis und Irrtum zugleich.",
-      "anchor": "Kolumbus segelt westwärts und erwartet Asien.",
       "interest": "Das ursprüngliche Ziel wird von der späteren Ankunft unterschieden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Kolumbus segelt westwärts und erwartet Asien."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Isabella ermöglicht die Expedition.",
       "context": "Isabella (Sigourney Weaver) lässt sich vom Reiseprojekt überzeugen, erwartet aber auch Reichtum. Kolumbus (Gérard Depardieu) erhält damit die notwendigen Mittel und eine Verpflichtung gegenüber der Krone. Seine persönliche Vision bleibt von politischen und wirtschaftlichen Erwartungen abhängig.",
-      "anchor": "Isabellas Unterstützung verlangt Ergebnisse.",
       "interest": "Förderung und Gegenleistung werden gemeinsam verständlich.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Isabellas Unterstützung verlangt Ergebnisse."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Die verstrichene versprochene Zeit fördert das Misstrauen.",
       "context": "Kolumbus (Gérard Depardieu) stellt den Männern eine begrenzte Dauer in Aussicht. Als lange danach noch kein Land sichtbar ist, droht Meuterei. Der Film zeigt die Führungsfrage damit auch als Vertrauensproblem: Die gewonnene Zustimmung beruht auf einer Aussage, die sich nicht erfüllt.",
-      "anchor": "Das Zeitversprechen wird auf See zur Belastung.",
       "interest": "Die Frage verbindet Kommunikation und wachsenden Widerstand.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Das Zeitversprechen wird auf See zur Belastung."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Die gewaltsame Bestrafung verschärft den Widerstand.",
       "context": "Moxica (Michael Wincott) beantwortet fehlende Goldlieferungen mit grausamer Gewalt. Die Nachricht verbreitet sich und die Bewohner ziehen sich zurück. Die ursprüngliche Vorstellung friedlicher Ankunft wird damit durch die koloniale Praxis der Eindringlinge untergraben; die Frage beschreibt die Filmszene, nicht eine vollständige historische Bilanz.",
-      "anchor": "Moxicas Gewalt zerbricht das Vertrauen.",
       "interest": "Ein konkreter Übergriff erklärt die Eskalation.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Moxicas Gewalt zerbricht das Vertrauen."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Die größere Ankunft bringt dauerhafte Besiedlung und Konflikte.",
       "context": "Kolumbus (Gérard Depardieu) kehrt mit viel mehr Schiffen und Menschen zurück. Siedlungsbau, Goldforderungen und innere Machtkämpfe treten nun in den Vordergrund. Der Film verschiebt den Blick von einer gefährlichen Fahrt auf die Folgen des europäischen Bleibens für die bestehende Bevölkerung.",
-      "anchor": "Nach der Fahrt beginnt die koloniale Herrschaft.",
       "interest": "Der Wechsel des Handlungsmaßstabs wird erschlossen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Nach der Fahrt beginnt die koloniale Herrschaft."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Ferdinand bittet um den Bericht seines Vaters.",
       "context": "Der ältere Kolumbus (Gérard Depardieu) steht nicht mehr im Mittelpunkt der Macht. Ferdinand (Loren Dean) bittet ihn, seine Geschichte zu erzählen, um sie festzuhalten. Die letzte Szene zeigt damit, wie persönliche Erinnerung zur überlieferten Erzählung werden kann, deren Blick an einen Beteiligten gebunden bleibt.",
-      "anchor": "Ferdinand macht Erinnerung zu einem Bericht.",
       "interest": "Der Schluss reflektiert die Perspektive der erzählten Geschichte.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ferdinand macht Erinnerung zu einem Bericht."
     },
     {
       "code": "Y",
@@ -173,12 +173,12 @@
       ],
       "short": "Der Film erschien 1992.",
       "context": "1992 fiel mit dem fünfhundertsten Jahrestag von Kolumbus’ Atlantikfahrt zusammen. Der BFI beschreibt diesen Anlass für Scotts Produktion. Die titelgebende Zahl bezeichnet daher ein historisches Reisejahr, während das Jubiläum einen individuellen Anker für das tatsächliche Filmjahr liefert.",
-      "anchor": "1492 plus 500 Jahre: der Film von 1992.",
       "interest": "Das Jubiläum erklärt statt nur wiederholt die Jahreszahl.",
       "sources": [
         "archiv",
         "einordnung"
-      ]
+      ],
+      "objective": "1492 plus 500 Jahre: der Film von 1992."
     },
     {
       "code": "D",
@@ -197,11 +197,11 @@
       ],
       "short": "Ridley Scott führte Regie.",
       "context": "Ridley Scott inszeniert den Weg von der Reisevision zu den Konflikten der Kolonisation. Gérard Depardieu und Sigourney Weaver verkörpern Entdecker und Förderin. Der BFI-Credit ordnet diese Produktion eindeutig Scott zu; andere Filme über Kolumbus besitzen eigene Besetzungen und Regieangaben.",
-      "anchor": "Scott führt Depardieus Kolumbus über den Atlantik.",
       "interest": "Die Regie wird der konkreten Jubiläumsproduktion zugeordnet.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Scott führt Depardieus Kolumbus über den Atlantik."
     }
   ]
 }

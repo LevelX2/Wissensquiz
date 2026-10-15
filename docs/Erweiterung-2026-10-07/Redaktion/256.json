@@ -45,13 +45,13 @@
       ],
       "short": "Die wertvolle Schmuckbeute liegt in einem Pariser Juweliergeschäft.",
       "context": "Tony (Jean Servais) ändert den zunächst kleineren Plan seiner Freunde. Statt einzelne Stücke aus dem Schaufenster zu nehmen, will er den gesamten Tresorinhalt erbeuten. Das größere Ziel verlangt zusätzliche Vorbereitung und einen Spezialisten. Die späteren Verluste entstehen somit nach einer Tat, die handwerklich erfolgreich ausgeführt wurde und dennoch keine sichere Zukunft eröffnet.",
-      "anchor": "Tony macht aus einem kleinen Schmuckraub einen sorgfältig vorbereiteten Tresoreinbruch.",
       "interest": "Das Ziel erklärt Umfang und Anforderungen der Planung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Tony macht aus einem kleinen Schmuckraub einen sorgfältig vorbereiteten Tresoreinbruch."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Die Gangstergeschichte spielt in Paris.",
       "context": "Die Männer bewegen sich zwischen Wohnungen, Juwelierladen und Nachtlokal in Paris. Diese Orte sind eng miteinander verbunden: Ein privat verschenkter Beutering erreicht gerade das Umfeld der rivalisierenden Bande. Der erfolgreiche Rückzug vom Tatort beendet deshalb die Gefahr nicht. Die sozialen Verbindungen innerhalb der Stadt tragen sie in die vermeintlich sichere Zeit nach dem Einbruch weiter.",
-      "anchor": "Das Pariser Beziehungsnetz verbindet Tatort, Beute und gegnerisches Nachtlokal.",
       "interest": "Der Schauplatz erklärt die Nähe der scheinbar getrennten Handlungsräume.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Pariser Beziehungsnetz verbindet Tatort, Beute und gegnerisches Nachtlokal."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Sie arbeiten sich vorsichtig durch den Boden der oberen Wohnung.",
       "context": "Die Bande nutzt den Raum oberhalb des Geschäfts und bohrt vorsichtig durch den Boden. Der Alarm reagiert auf Erschütterung, weshalb die Arbeit langsam und kontrolliert ablaufen muss. Die räumliche Lösung ist damit an eine technische Schwierigkeit gebunden. Einbruch und Sicherung werden nicht getrennt, sondern als gleichzeitig zu bewältigende Aufgaben gezeigt.",
-      "anchor": "Der Zugang von oben verlangt Rücksicht auf den erschütterungsempfindlichen Alarm.",
       "interest": "Die Frage erklärt die Verbindung zwischen Raum und Einbruchsmethode.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Zugang von oben verlangt Rücksicht auf den erschütterungsempfindlichen Alarm."
     },
     {
       "code": "M2",
@@ -120,13 +120,13 @@
       ],
       "short": "Die natürlichen Geräusche tragen die Spannung ohne Gespräche oder Musik.",
       "context": "Während des Einbruchs bleiben Worte und Musik aus. Das Publikum folgt Werkzeugen, Atem, Bewegung und dem Risiko jedes Geräuschs. Die Dauer wird dadurch spürbar, ohne dass eine Figur den Plan nochmals erläutert. Technische Vorbereitung muss sich im tatsächlichen Ablauf bewähren, und die beobachtete Arbeit selbst übernimmt die Funktion einer ausführlichen Erklärung.",
-      "anchor": "Der Einbruch erklärt sich durch beobachtete Arbeit und natürliche Geräusche.",
       "interest": "Die Gestaltung macht die Quelle der Spannung konkret verständlich.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Einbruch erklärt sich durch beobachtete Arbeit und natürliche Geräusche."
     },
     {
       "code": "S1",
@@ -145,13 +145,13 @@
       ],
       "short": "Der erkennbare Beutering verrät die Verbindung zum Einbruch.",
       "context": "César (Jules Dassin) nimmt einen Ring zusätzlich zur vereinbarten Beute und schenkt ihn Viviane (Magali Noël). Sie arbeitet im Lokal der Gegner. Das private Geschenk verlässt dadurch die kontrollierte Verwertung und macht die Beute sichtbar. Der sorgfältige technische Plan wird von einer persönlichen Entscheidung nach dem gelungenen Einbruch zerstört.",
-      "anchor": "Césars Liebesgeschenk macht kontrollierte Beute im gegnerischen Umfeld sichtbar.",
       "interest": "Der Zusammenhang erklärt die individuelle Ursache der späteren Katastrophe.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Césars Liebesgeschenk macht kontrollierte Beute im gegnerischen Umfeld sichtbar."
     },
     {
       "code": "S2",
@@ -170,13 +170,13 @@
       ],
       "short": "Sie holt Tonio heraus und lässt Geld und Tonys Körper zurück.",
       "context": "Der tödlich verwundete Tony (Jean Servais) fährt Tonio zur Mutter zurück. Louise (Janine Darcey) nimmt den Jungen aus dem Wagen, während der Geldkoffer im Auto bleibt. Der erfolgreiche Raub wird damit am Ende nicht über die Beute bewertet. Das gerettete Leben erhält Vorrang vor dem Geld, für das die Männer ihre Sicherheit und Beziehungen verloren haben.",
-      "anchor": "Louise rettet ihr Kind aus dem Wagen und lässt die Beute liegen.",
       "interest": "Der Schluss zeigt eine konkrete Verschiebung des Werts vom Geld zum geretteten Menschen.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Louise rettet ihr Kind aus dem Wagen und lässt die Beute liegen."
     },
     {
       "code": "Y",
@@ -195,13 +195,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1955.",
       "context": "Jules Dassin wurde 1951 im Umfeld der amerikanischen Kommunistenverfolgung auf die schwarze Liste gesetzt. Rififi erschien 1955, vier Jahre später, als sein neuer Film in Frankreich. Das erste Filmjahr erhält damit einen konkreten Karriereanker: Der amerikanische Regisseur konnte seine Arbeit unter anderen Produktionsbedingungen fortsetzen und gewann in Cannes den geteilten Regiepreis.",
-      "anchor": "Dassin auf der schwarzen Liste 1951 → französischer Film Rififi 1955: vier Jahre.",
       "interest": "Die Verbindung ordnet die Datierung in die erzwungene Verlagerung einer Regielaufbahn ein.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dassin auf der schwarzen Liste 1951 → französischer Film Rififi 1955: vier Jahre."
     },
     {
       "code": "D",
@@ -220,13 +220,13 @@
       ],
       "short": "Jules Dassin führte bei diesem Film Regie.",
       "context": "Jules Dassin inszenierte den Film und spielte César unter dem Namen Perlo Vita. Er veränderte Auguste Le Bretons Roman erheblich und gab dem detaillierten Einbruch viel Raum. Die knapp bemessene Produktion arbeitete ohne große Stars. Das macht die Wirkung der präzisen Gesten, Werkzeuge und natürlichen Geräusche besonders deutlich: Spannung entsteht aus dem beobachteten Verfahren.",
-      "anchor": "Dassin gestaltet den Einbruch durch Arbeitsschritte und Geräusche und spielt zugleich César.",
       "interest": "Der Hintergrund verbindet Personalunion und konkrete Gestaltung der berühmten Überfallszene.",
       "sources": [
         "wiki",
         "festival"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dassin gestaltet den Einbruch durch Arbeitsschritte und Geräusche und spielt zugleich César."
     }
   ],
   "category": "Classics"

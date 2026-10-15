@@ -37,12 +37,12 @@
       ],
       "short": "Jay Cavendish (Kodi Smit-McPhee) reist Rose Ross (Caren Pistorius) nach.",
       "context": "Jay Cavendish (Kodi Smit-McPhee) reist Rose Ross (Caren Pistorius) nach. Seine romantische Hoffnung bestimmt den Weg, obwohl Rose seine Liebe nicht in gleicher Weise erwidert.",
-      "anchor": "Jays Reise folgt einer Liebe, deren Gegenseitigkeit er überschätzt.",
       "interest": "Jays Reise folgt einer Liebe, deren Gegenseitigkeit er überschätzt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Jays Reise folgt einer Liebe, deren Gegenseitigkeit er überschätzt."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Jay (Kodi Smit-McPhee) engagiert Silas Selleck (Michael Fassbender) als Beschützer.",
       "context": "Jay (Kodi Smit-McPhee) engagiert Silas Selleck (Michael Fassbender) als Beschützer. Dessen Erfahrung bietet Sicherheit, aber ein eigener finanzieller Plan macht die Begleitung zunächst unehrlich.",
-      "anchor": "Der bezahlte Schutz verbirgt ein zweites Interesse.",
       "interest": "Der bezahlte Schutz verbirgt ein zweites Interesse.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der bezahlte Schutz verbirgt ein zweites Interesse."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Silas (Michael Fassbender) sieht den Steckbrief für Rose und ihren Vater und will Jay (Kodi Smit-McPhee) als Wegweiser zur Belohnung nutzen.",
       "context": "Silas (Michael Fassbender) sieht den Steckbrief für Rose und ihren Vater und will Jay (Kodi Smit-McPhee) als Wegweiser zur Belohnung nutzen. Die Schutzbeziehung ist damit zugleich ein verdeckter Zugriff auf die Gesuchten.",
-      "anchor": "Der Steckbrief verwandelt Jays Liebessuche in eine fremde Jagd.",
       "interest": "Der Steckbrief verwandelt Jays Liebessuche in eine fremde Jagd.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Steckbrief verwandelt Jays Liebessuche in eine fremde Jagd."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Der Schriftsteller Werner (Andrew Robertt) verschwindet mit Jays (Kodi Smit-McPhee) Pferd und Ausrüstung.",
       "context": "Der Schriftsteller Werner (Andrew Robertt) verschwindet mit Jays (Kodi Smit-McPhee) Pferd und Ausrüstung. Silas (Michael Fassbender) bringt beides zurück; Jays Urteil über verlässliche Begleiter wird erneut korrigiert.",
-      "anchor": "Der höfliche Begleiter erweist sich als Dieb, der raue als Helfer.",
       "interest": "Der höfliche Begleiter erweist sich als Dieb, der raue als Helfer.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der höfliche Begleiter erweist sich als Dieb, der raue als Helfer."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Silas (Michael Fassbender) bindet Jay (Kodi Smit-McPhee) fest, um ihn zu schützen, während er Rose warnen will.",
       "context": "Silas (Michael Fassbender) bindet Jay (Kodi Smit-McPhee) fest, um ihn zu schützen, während er Rose warnen will. Jay befreit sich und gerät gerade dadurch in die tödliche Verwirrung des Kampfes.",
-      "anchor": "Die gewaltsame Schutzmaßnahme scheitert an Jays eigener Befreiung.",
       "interest": "Die gewaltsame Schutzmaßnahme scheitert an Jays eigener Befreiung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die gewaltsame Schutzmaßnahme scheitert an Jays eigener Befreiung."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Silas (Michael Fassbender) bleibt bei Rose (Caren Pistorius) und den verwaisten Kindern.",
       "context": "Silas (Michael Fassbender) bleibt bei Rose (Caren Pistorius) und den verwaisten Kindern. Jay stirbt; sein romantisches Ziel erfüllt sich nicht, während aus den Überlebenden eine unerwartete Familie entsteht.",
-      "anchor": "Die verlorene Liebesreise hinterlässt eine andere Form von Familie.",
       "interest": "Die verlorene Liebesreise hinterlässt eine andere Form von Familie.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die verlorene Liebesreise hinterlässt eine andere Form von Familie."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "2015 erschien der Film.",
       "context": "2015 erschien der Film. Die Dreharbeiten begannen 2013 in Neuseeland, das für Colorado steht; zwei Jahre später war der amerikanische Westen aus Landschaften am anderen Ende der Welt gestaltet.",
-      "anchor": "Drehbeginn 2013, Film 2015: Zwei Jahre später steht Neuseeland als amerikanischer Westen im Kino.",
       "interest": "Die Verbindung trennt die Herstellung vom Zeitpunkt, an dem das Publikum den Film erstmals sehen konnte.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Drehbeginn 2013, Film 2015: Zwei Jahre später steht Neuseeland als amerikanischer Westen im Kino."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "John Maclean schrieb und inszenierte sein Langfilmdebüt.",
       "context": "John Maclean schrieb und inszenierte sein Langfilmdebüt. Die Reise eines naiven Liebenden trifft auf einen erfahrenen Kopfgeldjäger; kurze Gewaltausbrüche unterlaufen die romantische Vorstellung vom Westen.",
-      "anchor": "John Maclean schrieb und inszenierte sein Langfilmdebüt.",
       "interest": "John Maclean schrieb und inszenierte sein Langfilmdebüt.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "John Maclean schrieb und inszenierte sein Langfilmdebüt."
     }
   ]
 }

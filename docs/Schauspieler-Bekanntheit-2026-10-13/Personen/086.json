@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Das Kind wird als Satans Sohn enthüllt.",
       "context": "Rosemary hat die Schwangerschaft zunächst als privaten Neuanfang innerhalb ihrer Ehe verstanden. Die Nachbarn und ihr Mann Guy (John Cassavetes) greifen jedoch immer stärker in ihr Leben ein. Am Ende findet sie eine Gemeinschaft, die das Kind für ihren eigenen Kult beansprucht. Farrows Darstellung hält diese große Verschwörung eng an die körperliche Angst und das Misstrauen einer einzelnen Frau gebunden.",
-      "anchor": "Rosemarys Schwangerschaft wurde für einen satanistischen Plan benutzt.",
       "interest": "Die Frage erschließt den grundlegenden Bruch zwischen ihrer Hoffnung und dem Plan der anderen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Rosemary%27s_Baby_(film)"
-      ]
+      ],
+      "objective": "Rosemarys Schwangerschaft wurde für einen satanistischen Plan benutzt."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 3,
       "short": "Daisy ist mit Tom Buchanan verheiratet.",
       "context": "Gatsby (Robert Redford) besitzt inzwischen großen Reichtum und hofft, seine frühere Beziehung mit Daisy wiederherzustellen. Ihre Ehe mit Tom (Bruce Dern) steht dieser Vorstellung im Weg. Für Gatsby scheint die Vergangenheit korrigierbar, wenn nur die äußeren Bedingungen stimmen. Daisy bleibt dagegen in einer gesellschaftlich abgesicherten Welt, deren Bindungen sich nicht allein durch romantische Entschlossenheit lösen lassen.",
-      "anchor": "Daisys Ehe und Gatsbys Vergangenheitstraum geraten gegeneinander.",
       "interest": "Das Ziel ordnet die zentrale Beziehung der konkreten Verfilmung zu.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/54022"
-      ]
+      ],
+      "objective": "Daisys Ehe und Gatsbys Vergangenheitstraum geraten gegeneinander."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Tom Baxter verlässt den Film auf der Leinwand und begegnet Cecilia in ihrer Welt.",
       "context": "Cecilia flieht vor einer unglücklichen Ehe und einer bedrückenden Arbeit ins Kino. Als Tom sie anspricht und herauskommt, wird diese Fluchtmöglichkeit wörtlich. Später erscheint auch Gil Shepherd (ebenfalls Jeff Daniels), der Schauspieler hinter der Figur. Cecilia muss sich zwischen einer erfundenen Person und einem wirklichen Darsteller entscheiden; dieselbe Gestalt bietet zwei sehr unterschiedliche Versprechen.",
-      "anchor": "Der ersehnte Filmheld tritt in Cecilias Alltag.",
       "interest": "Die Frage erschließt das fantastische Grundprinzip und trennt Figur und Darsteller.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Purple_Rose_of_Cairo"
-      ]
+      ],
+      "objective": "Der ersehnte Filmheld tritt in Cecilias Alltag."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 0,
       "short": "Jacqueline tritt als Simons verlassene Verlobte auf.",
       "context": "Simon hat die reiche Linnet (Lois Chiles) geheiratet, eine frühere Freundin Jacquelines. Jacqueline verfolgt das Paar demonstrativ auf seiner Reise und erscheint dadurch als offen eifersüchtige Bedrohung. Poirot (Peter Ustinov) muss später erkennen, dass dieses sichtbare Drama einen gemeinsamen Plan verdeckt: Simon und Jacqueline sind weiterhin verbunden und wollen Linnets Vermögen erlangen.",
-      "anchor": "Die verlassene Verlobte spielt ihre öffentliche Rolle für einen gemeinsamen Plan.",
       "interest": "Das Ziel unterscheidet die vorgeführte Beziehung von ihrer Funktion im Kriminalfall.",
       "feedback": [
         "Jacqueline tritt als Simons verlassene Verlobte auf.",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Death_on_the_Nile_(1978_film)"
-      ]
+      ],
+      "objective": "Die verlassene Verlobte spielt ihre öffentliche Rolle für einen gemeinsamen Plan."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 1,
       "short": "Fletcher setzt Hypnose ein.",
       "context": "Leonard Zelig (Woody Allen) nimmt die Eigenschaften seiner jeweiligen Umgebung an, um akzeptiert zu werden. Unter Hypnose spricht er über seine Angst, als ungebildet oder anders aufzufallen. Fletcher versucht, ihm eine eigene Persönlichkeit und zugleich das Gefühl bedingungsloser Annahme zu geben. Die Beziehung zeigt damit, wie ein Wunsch nach Zugehörigkeit bis zur vollständigen Selbstverleugnung führen kann.",
-      "anchor": "Zelig passt sich an, um geliebt und anerkannt zu werden.",
       "interest": "Die Frage verbindet die Behandlung mit dem psychologischen Kern der Satire.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Zelig"
-      ]
+      ],
+      "objective": "Zelig passt sich an, um geliebt und anerkannt zu werden."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 0,
       "short": "Es kennt nun Liebe und Bedauern, die ihm zuvor fremd waren.",
       "context": "Die Verwandlung in die menschliche Amalthea schützt das Einhorn zunächst vor dem Roten Stier. Zugleich bindet sie es an Prinz Lír (Jeff Bridges) und an ein sterbliches Leben. Nach der Befreiung der anderen Einhörner kehrt es in seine eigene Gestalt zurück. Die Rückkehr macht die Erfahrung jedoch nicht ungeschehen: Es verlässt die Menschen als verändertes Wesen.",
-      "anchor": "Die Rückverwandlung bewahrt die Erinnerung an Liebe und Verlust.",
       "interest": "Das Ziel fragt nach der Bedeutung der Verwandlung und nicht nach ihrem bloßen Schutzmechanismus.",
       "feedback": [
         "Es kennt nun Liebe und Bedauern, die ihm zuvor fremd waren.",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Last_Unicorn_(film)"
-      ]
+      ],
+      "objective": "Die Rückverwandlung bewahrt die Erinnerung an Liebe und Verlust."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 2,
       "short": "Der Film imitiert eine historische Dokumentation mit Wochenschauen, Fotos und Interviews.",
       "context": "Die Darsteller werden in ein Bild des frühen 20. Jahrhunderts eingebettet, das wie überliefertes Material erscheint. Zeitgenössische Kommentare und vermeintliche Erinnerungen stützen diese Wirkung. Selbst der Dank an Dr. Fletcher im Vorspann gehört zur Erfindung. Die Form führt damit vor, wie vertraute dokumentarische Zeichen Glaubwürdigkeit erzeugen können, obwohl das porträtierte Leben nicht stattgefunden hat.",
-      "anchor": "Die erfundene Lebensgeschichte trägt die Zeichen historischer Dokumentation.",
       "interest": "Das Ziel betrifft die Wirkung der Inszenierung und die Rolle des Publikums beim Glauben an Bilder.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/58167-ZELIG"
-      ]
+      ],
+      "objective": "Die erfundene Lebensgeschichte trägt die Zeichen historischer Dokumentation."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 2,
       "short": "Farrow wurde Mitglied der Royal Shakespeare Company.",
       "context": "Ihre Laufbahn führte neben Fernsehen und Film auch auf britische und amerikanische Bühnen. Die Royal Shakespeare Company gehört zu diesem beruflichen Hintergrund, lange bevor ihr öffentliches Bild hauptsächlich mit bestimmten Filmzusammenarbeiten verbunden wurde. Später übernahm Farrow zusätzlich humanitäre Aufgaben für UNICEF. Das offizielle UNICEF-Porträt erinnert ausdrücklich auch an ihre frühe Theaterarbeit.",
-      "anchor": "Farrows Arbeit führte auch in ein britisches Shakespeare-Ensemble.",
       "interest": "Das Ziel erweitert das Personenporträt um einen eigenständigen beruflichen Weg.",
       "feedback": [
         "",
@@ -218,7 +217,8 @@
       "films": [],
       "extraSources": [
         "https://www.unicef.org/goodwill-ambassadors/mia-farrow"
-      ]
+      ],
+      "objective": "Farrows Arbeit führte auch in ein britisches Shakespeare-Ensemble."
     }
   ]
 }

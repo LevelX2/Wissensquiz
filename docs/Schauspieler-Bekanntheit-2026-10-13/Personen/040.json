@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Will Kane ist der Marshal des Ortes.",
       "context": "Kane hat gerade geheiratet und will seinen Dienst hinter sich lassen. Die angekündigte Rückkehr des Verbrechers Frank Miller verändert den geplanten Aufbruch. Statt mit Amy fortzufahren, kehrt er um und sucht Unterstützung. Coopers Gesetzeshüter wird dabei zunehmend auf sich selbst zurückgeworfen: Das Amt bedeutet für ihn eine Verantwortung, die seine Mitbürger nicht gleichermaßen übernehmen wollen.",
-      "anchor": "Der ausscheidende Marshal kehrt wegen einer drohenden Gefahr um.",
       "interest": "Die Dienststellung erklärt den Ausgangspunkt des Westernkonflikts.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/53629-HIGH-NOON"
-      ]
+      ],
+      "objective": "Der ausscheidende Marshal kehrt wegen einer drohenden Gefahr um."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Deeds spielt Tuba.",
       "context": "Der Mann aus einem kleinen Ort in Vermont erbt ein Vermögen und gerät in New York zwischen Anwälte und sensationshungrige Zeitungen. Zu seinem bisherigen Leben gehören Gelegenheitsgedichte und das Tubaspielen. Diese unspektakulären Tätigkeiten bilden einen Gegenpol zu dem Bild des vermeintlichen Sonderlings, das die Großstadtpresse aus ihm macht. Der Film prüft dadurch auch, wer hier eigentlich den klareren Blick auf seine Umgebung besitzt.",
-      "anchor": "Der Millionenerbe bringt seine Tuba aus dem Kleinstadtleben mit.",
       "interest": "Ein charakteristisches Detail erschließt Coopers Darstellung des unterschätzten Außenseiters.",
       "feedback": [
         "Deeds spielt Tuba.",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Mr._Deeds_Goes_to_Town"
-      ]
+      ],
+      "objective": "Der Millionenerbe bringt seine Tuba aus dem Kleinstadtleben mit."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 1,
       "short": "Sein religiöser Glaube steht dem Töten entgegen.",
       "context": "Nach seiner Bekehrung versucht York, sein Leben an der Bibel auszurichten. Als die USA in den Ersten Weltkrieg eintreten, beantragt er den Status eines Kriegsdienstverweigerers, der ihm verweigert wird. Seine militärischen Fähigkeiten beseitigen den Gewissenskonflikt nicht. Erst nach weiteren Gesprächen und einer Zeit des Nachdenkens entscheidet er sich anders. Der Film verbindet das spätere Heldentum daher mit einer vorausgehenden moralischen Auseinandersetzung.",
-      "anchor": "Yorks Schießkunst und sein Glaube führen zunächst in verschiedene Richtungen.",
       "interest": "Das Ziel betrifft den zentralen Gewissenskonflikt statt lediglich den militärischen Rang.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/27041-SERGEANT-YORK"
-      ]
+      ],
+      "objective": "Yorks Schießkunst und sein Glaube führen zunächst in verschiedene Richtungen."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Gary Cooper spielt Lou Gehrig.",
       "context": "Der Film zeichnet Gehrigs Weg zu den New York Yankees nach und endet mit seiner berühmten Abschiedsrede. Mehrere frühere Mitspieler treten als sie selbst auf, darunter Babe Ruth. Im Mittelpunkt steht damit ein Sportler, dessen Laufbahn durch eine schwere Krankheit endet. Coopers Darstellung verbindet sportlichen Ruhm mit einer Haltung von Bescheidenheit und Tapferkeit außerhalb des Spielfelds.",
-      "anchor": "Coopers Sportler verabschiedet sich im Yankee Stadium.",
       "interest": "Die Frage ordnet die Sportbiografie einer konkreten historischen Person zu.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/27411-THE-PRIDE-OF-THE-YANKEES"
-      ]
+      ],
+      "objective": "Coopers Sportler verabschiedet sich im Yankee Stadium."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 0,
       "short": "Er soll den Verfasser eines erfundenen Protestbriefs darstellen.",
       "context": "Journalistin Ann Mitchell (Barbara Stanwyck) hat einen Brief erfunden, dessen angeblicher Autor aus Protest gegen gesellschaftliche Zustände seinen Selbstmord ankündigt. Die Zeitung braucht nun einen Menschen, der dieser Figur ein Gesicht gibt. Willoughby nimmt die Rolle wegen seiner Geldnot an. Aus der Inszenierung entsteht jedoch eine Bewegung, deren Hoffnungen nicht mehr bloß als Werbeeffekt behandelt werden können.",
-      "anchor": "Eine erfundene Stimme erhält durch Willoughby ein öffentliches Gesicht.",
       "interest": "Das Ziel betrifft seine aktive Beteiligung an einer Medieninszenierung.",
       "feedback": [
         "Er soll den Verfasser eines erfundenen Protestbriefs darstellen.",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/27680"
-      ]
+      ],
+      "objective": "Eine erfundene Stimme erhält durch Willoughby ein öffentliches Gesicht."
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 2,
       "short": "Als Quäker lehnen die Birdwells Gewalt aus religiöser Überzeugung ab.",
       "context": "Jess Birdwell lebt mit seiner Familie nach Quäkergrundsätzen. Der Krieg macht aus einem vertrauten Gebot eine drängende Entscheidung: Wie soll man sich verhalten, wenn die eigene Umgebung bedroht wird? Im Unterschied zu einer bloßen Heldengeschichte beschäftigt sich der Film auch mit den Spannungen innerhalb der Familie. Coopers Vaterfigur muss ihre Regeln mit unterschiedlichen Ängsten, Wünschen und Verantwortlichkeiten zusammenbringen.",
-      "anchor": "Der Krieg prüft den friedfertigen Glauben im Alltag einer Familie.",
       "interest": "Die Frage erschließt den historischen und religiösen Hintergrund der Figur.",
       "feedback": [
         "",
@@ -166,7 +165,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/51836-FRIENDLY-PERSUASION"
-      ]
+      ],
+      "objective": "Der Krieg prüft den friedfertigen Glauben im Alltag einer Familie."
     },
     {
       "code": "E1",
@@ -180,7 +180,6 @@
       "correct": 1,
       "short": "Roark verweigert klassische Verzierungen an seinem modernen Entwurf.",
       "context": "Obwohl Roark dringend Arbeit braucht, will er seine Architektur nicht an den Geschmack eines Baukomitees anpassen. Die verlangten Zusätze stehen für einen Kompromiss, den er als Verfälschung seiner Arbeit versteht. Der Film nach Ayn Rand macht aus der Auftragsfrage eine grundsätzliche Auseinandersetzung über schöpferische Unabhängigkeit. Coopers Figur wird dabei durch Entscheidungen charakterisiert, die ihre berufliche Existenz gefährden können.",
-      "anchor": "Roark verzichtet auf den Auftrag, um die Gestalt seines Entwurfs zu erhalten.",
       "interest": "Die konkrete Auftragsentscheidung erschließt die kontroverse Idee künstlerischer Unabhängigkeit.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/25929-THE-FOUNTAINHEAD"
-      ]
+      ],
+      "objective": "Roark verzichtet auf den Auftrag, um die Gestalt seines Entwurfs zu erhalten."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 3,
       "short": "Eine verbreitete Lesart verbindet Kanes Isolation mit Foremans Erfahrungen unter dem antikommunistischen Druck.",
       "context": "Foreman geriet ins Visier des Ausschusses für unamerikanische Aktivitäten und wurde in Hollywood ausgegrenzt. Dass Kanes Mitbürger ihre Unterstützung verweigern, lässt sich vor diesem Hintergrund lesen. Die Deutung ist verbreitet, aber kein unstrittiger Schlüssel aller Beteiligten: Regisseur Fred Zinnemann widersprach einer eindeutigen politischen Absicht. Der Produktionskontext eröffnet somit eine Lesart, ohne die Handlung auf eine einzige Bedeutung festzulegen.",
-      "anchor": "Kanes fehlende Unterstützung wurde als Bild politischer Ausgrenzung gelesen.",
       "interest": "Das Ziel unterscheidet eine belegte historische Lesart von einer behaupteten einheitlichen Autorenabsicht.",
       "feedback": [
         "",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/53629-HIGH-NOON"
-      ]
+      ],
+      "objective": "Kanes fehlende Unterstützung wurde als Bild politischer Ausgrenzung gelesen."
     }
   ]
 }

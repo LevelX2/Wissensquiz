@@ -33,13 +33,13 @@
       ],
       "short": "Die Geschichte spielt in Hamburg.",
       "context": "Peter Müller (Robert Sean Leonard), Thomas Berger (Christian Bale) und Arvid (Frank Whaley) teilen ihre Begeisterung für Swingmusik. Clubs und die Straßen der Stadt werden zunehmend von nationalsozialistischen Organisationen kontrolliert. Ihr Freizeitmilieu bleibt deshalb nicht außerhalb der politischen Entwicklung.",
-      "anchor": "Hamburgs Swingclubs geraten in den politischen Zugriff.",
       "interest": "Hamburgs Swingclubs geraten in den politischen Zugriff.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hamburgs Swingclubs geraten in den politischen Zugriff."
     },
     {
       "code": "L2",
@@ -58,12 +58,12 @@
       ],
       "short": "Die Jungen glauben, HJ-Mitgliedschaft und Swingleben nebeneinander führen zu können.",
       "context": "Thomas Berger (Christian Bale) folgt Peter Müller (Robert Sean Leonard) in die Hitlerjugend. Er meint, die Vorteile der Mitgliedschaft und ihre Musik zugleich behalten zu können. Die weitere Handlung zeigt, wie der ideologische Anspruch diese zunächst angenommene Trennung auflöst.",
-      "anchor": "Die politische Organisation lässt sich nicht dauerhaft auf den Tagesdienst begrenzen.",
       "interest": "Die politische Organisation lässt sich nicht dauerhaft auf den Tagesdienst begrenzen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die politische Organisation lässt sich nicht dauerhaft auf den Tagesdienst begrenzen."
     },
     {
       "code": "M1",
@@ -82,12 +82,12 @@
       ],
       "short": "Die Hilfe nach dem Diebstahl hat den HJ-Beitritt als Gegenleistung.",
       "context": "Peter Müller (Robert Sean Leonard) stiehlt mit Thomas ein Radio als Ersatz für Arvids zerstörte Platte. Herr Knopp (Kenneth Branagh) sorgt dafür, dass Peter geschont wird, verlangt aber den Beitritt. Ein kleiner privater Versuch der Wiedergutmachung führt so in institutionelle Abhängigkeit.",
-      "anchor": "Das gestohlene Radio wird zum Hebel für Peters HJ-Beitritt.",
       "interest": "Das gestohlene Radio wird zum Hebel für Peters HJ-Beitritt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das gestohlene Radio wird zum Hebel für Peters HJ-Beitritt."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Die verletzte Hand bedroht Arvids Fähigkeit zu spielen.",
       "context": "Arvid (Frank Whaley) wird unter anderem von einem früheren Freund angegriffen. Die körperliche Gewalt zielt damit auf das Mittel seiner Musik. Später spielt er wieder, kann seine Ablehnung der politischen Anpassung aber nicht mit den Erwartungen der Clubbetreiber vereinbaren.",
-      "anchor": "Die Gewalt gegen Arvid trifft auch seine musikalische Handlungsfreiheit.",
       "interest": "Die Gewalt gegen Arvid trifft auch seine musikalische Handlungsfreiheit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Gewalt gegen Arvid trifft auch seine musikalische Handlungsfreiheit."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Thomas’ Denunziation führt zur Abholung seines Vaters.",
       "context": "Thomas Berger (Christian Bale) meldet eine kritische Äußerung seines Vaters (David Robb). Als die Behörden kommen, wird die Konsequenz der eingeübten Überwachung greifbar. Der Anspruch, auch Familie zu kontrollieren, verwandelt einen privaten Konflikt in einen staatlichen Zugriff.",
-      "anchor": "Die gelernte Denunziation kehrt als Verhaftung in Thomas’ Familie zurück.",
       "interest": "Die gelernte Denunziation kehrt als Verhaftung in Thomas’ Familie zurück.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gelernte Denunziation kehrt als Verhaftung in Thomas’ Familie zurück."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Peter bleibt und wird von der Polizei abgeführt.",
       "context": "Thomas Berger (Christian Bale) versucht nach ihrem Kampf, Peter Müller (Robert Sean Leonard) zum Weglaufen zu bewegen. Peter lehnt ab. Sein jüngerer Bruder Willi (David Tom) ruft ihm Swing Heil nach; die Entscheidung für die Musik und gegen Anpassung wird im Abschied sichtbar.",
-      "anchor": "Peters Bleiben wird durch Willis Zuruf als Widerstand verstanden.",
       "interest": "Peters Bleiben wird durch Willis Zuruf als Widerstand verstanden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Peters Bleiben wird durch Willis Zuruf als Widerstand verstanden."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1993.",
       "context": "Swing Kids erschien 1993. Die Handlung beginnt in Hamburg 1939, 54 Jahre vor dem Filmstart. Das jugendliche Interesse an englischer und amerikanischer Swingmusik steht in dieser erzählten Zeit im Konflikt mit nationalsozialistischer Kontrolle. Die große zeitliche Entfernung verbindet ein modernes Jugenddrama mit einem historischen Konflikt um kulturelle Selbstbestimmung.",
-      "anchor": "Hamburger Handlung 1939, Film 1993: 54 Jahre bis zur Erinnerung an die Swingjugend.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Hamburger Handlung 1939, Film 1993: 54 Jahre bis zur Erinnerung an die Swingjugend.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Hamburger Handlung 1939, Film 1993: 54 Jahre bis zur Erinnerung an die Swingjugend."
     },
     {
       "code": "D",
@@ -203,14 +203,14 @@
       ],
       "short": "Der Regiecredit lautet Thomas Carter.",
       "context": "Thomas Carter führte Regie nach Jonathan Marc Feldmans Drehbuch. Er hatte auch als Schauspieler gearbeitet und kam aus der Fernsehregie. Der Film nutzt Tanzszenen, Freundschaft und familiäre Konflikte, um den wachsenden politischen Anpassungsdruck für junge Figuren konkret erfahrbar zu machen.",
-      "anchor": "Thomas Carter: Er hatte auch als Schauspieler gearbeitet und kam aus der Fernsehregie.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Thomas Carter: Er hatte auch als Schauspieler gearbeitet und kam aus der Fernsehregie."
     }
   ]
 }

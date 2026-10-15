@@ -37,12 +37,12 @@
       ],
       "short": "Sparkle, Sister und Dee sind Schwestern und bilden gemeinsam ein Gesangstrio.",
       "context": "Sparkle, Sister und Dee sind Schwestern und bilden gemeinsam ein Gesangstrio. Ihre familiäre Nähe begründet die Gruppe, verhindert aber keine unterschiedlichen Wünsche und Konflikte. Die Karriere berührt daher immer auch das gemeinsame Zuhause. Der Film erzählt musikalischen Erfolg durch Beziehungen, die schon vor dem ersten Auftritt bestanden und sich unter öffentlichem Druck verändern.",
-      "anchor": "Drei Schwestern bilden das Trio.",
       "interest": "Die zentrale Gruppenkonstellation erkennen.",
       "sources": [
         "sony"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Drei Schwestern bilden das Trio."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Die neue Filmfassung spielt im Detroit der Motown-Zeit.",
       "context": "Die neue Filmfassung spielt im Detroit der Motown-Zeit. Clubs und Musikgeschäft bieten den Schwestern Möglichkeiten, über ihr bisheriges Umfeld hinauszukommen. Der Schauplatz unterscheidet diese Fassung von der älteren Vorlage. Die Handlung verbindet den lokalen musikalischen Aufbruch mit einem Familienkonflikt um die Frage, ob und unter welchen Bedingungen die jungen Frauen außerhalb der Kirche singen sollen.",
-      "anchor": "Die Neuverfilmung führt die Schwestern nach Detroit.",
       "interest": "Den zentralen Musikort erkennen.",
       "sources": [
         "klassifikation"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Neuverfilmung führt die Schwestern nach Detroit."
     },
     {
       "code": "M1",
@@ -85,13 +85,13 @@
       ],
       "short": "Emma kennt eine gescheiterte musikalische Laufbahn und möchte ihre Töchter vor den Risiken bewahren.",
       "context": "Emma kennt eine gescheiterte musikalische Laufbahn und möchte ihre Töchter vor den Risiken bewahren. Ihr Schutzwunsch schlägt in Kontrolle um und führt zu Spannungen. Der Film verbindet diese Haltung mit eigener Erfahrung, nicht nur mit einer abstrakten Ablehnung von Musik. Als die Töchter selbst Erfolg suchen, müssen sie deshalb zugleich eine familiäre Grenze überschreiten.",
-      "anchor": "Emmas eigene Musikgeschichte wird zum warnenden Hintergrund.",
       "interest": "Die Schutzabsicht hinter dem Widerstand verstehen.",
       "sources": [
         "artikel",
         "sony"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Emmas eigene Musikgeschichte wird zum warnenden Hintergrund."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Dee sieht die Gruppe auch als Mittel, ein Medizinstudium zu finanzieren.",
       "context": "Dee sieht die Gruppe auch als Mittel, ein Medizinstudium zu finanzieren. Ihr Ziel unterscheidet sich damit von einer dauerhaften Gesangskarriere. Der gemeinsame Auftritt bedeutet für die Schwestern nicht automatisch dieselbe Zukunft. Die Handlung macht diese unterschiedlichen Wünsche sichtbar und führt Dee später zu einer Studienmöglichkeit, während Sparkle ihren musikalischen Weg fortsetzt.",
-      "anchor": "Dee singt auch für den Weg ins Medizinstudium.",
       "interest": "Unterschiedliche Ziele innerhalb des Trios erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Dee singt auch für den Weg ins Medizinstudium."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Dee trifft Satin im Kampf mit einem Schürhaken.",
       "context": "Dee trifft Satin im Kampf mit einem Schürhaken. Nach seinem Tod schickt Sister die beiden anderen fort und übernimmt die Verantwortung. Ihr Handeln verbindet die Katastrophe einer gewaltsamen Beziehung mit familiärem Schutz. Die Folgen trennen die Schwestern und beenden die Gruppe in ihrer bisherigen Form; für Sparkles späteren Weg bleibt Sisters Opfer ein wichtiger Bezugspunkt.",
-      "anchor": "Sister trägt die Verantwortung, damit Dee und Sparkle gehen können.",
       "interest": "Die Schutzentscheidung nach der Eskalation verstehen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Sister trägt die Verantwortung, damit Dee und Sparkle gehen können."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Ein Nasenbluten ruiniert Sparkles Kleid kurz vor dem Auftritt.",
       "context": "Ein Nasenbluten ruiniert Sparkles Kleid kurz vor dem Auftritt. Emma erscheint mit einem neuen Kleid und zeigt Stolz auf den selbst gewählten Weg ihrer Tochter. Die praktische Hilfe macht die veränderte Haltung sichtbar. Der Film löst den früheren Familienwiderstand nicht nur durch Worte, sondern durch eine konkrete Unterstützung im Moment beruflicher Verletzlichkeit.",
-      "anchor": "Das Ersatzkleid zeigt Emmas neue Unterstützung.",
       "interest": "Eine alltägliche Geste als Beziehungswende erkennen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Ersatzkleid zeigt Emmas neue Unterstützung."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "US-Erstveröffentlichung am 17. August 2012; gemeint ist die Neuverfilmung, nicht der Film von 1976.",
       "context": "Die erste „Sparkle“-Verfilmung erschien 1976. Diese neue Fassung wurde 2012 veröffentlicht, sechsunddreißig Jahre später. Sie verschiebt den Schauplatz nach Detroit in die Motown-Zeit und erzählt erneut den Weg dreier singender Schwestern. Der Zeitanker macht die beiden Filmidentitäten unterscheidbar und verbindet die Neuinterpretation mit ihrer älteren Vorlage.",
-      "anchor": "1976 die erste Fassung, 2012 das Remake: sechsunddreißig Jahre später.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "regisseur"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1976 die erste Fassung, 2012 das Remake: sechsunddreißig Jahre später."
     },
     {
       "code": "D",
@@ -208,14 +208,14 @@
       ],
       "short": "Salim Akil führte Regie, Mara Brock Akil schrieb das Drehbuch.",
       "context": "Salim Akil führte Regie, Mara Brock Akil schrieb das Drehbuch. Whitney Houston wirkt als Mutter Emma vor der Kamera und gehörte zur Produktion. Jordin Sparks übernahm die Titelrolle. Die Zusammenarbeit verbindet erfahrene Musikdarstellung mit dem Spielfilmdebüt der jüngeren Sängerin und entwickelt die Familiengeschichte in einer neuen Motown-Umgebung.",
-      "anchor": "Salim inszeniert, Mara schreibt; Houston und Sparks tragen zwei Generationen.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel",
         "regisseur"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Salim inszeniert, Mara schreibt; Houston und Sparks tragen zwei Generationen."
     }
   ]
 }

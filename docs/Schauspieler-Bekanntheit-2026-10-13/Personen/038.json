@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Warden ist ein Sergeant der US-Armee.",
       "context": "Warden übernimmt in seiner Einheit auf Hawaii viele praktische Führungsaufgaben. Sein Vorgesetzter Captain Holmes vernachlässigt seine Pflichten, während Warden eine Beziehung zu dessen Frau Karen (Deborah Kerr) beginnt. Karen wünscht sich eine gemeinsame Zukunft und einen Wechsel in die Offizierslaufbahn. Warden steht damit zwischen militärischem Rangsystem, seiner eigenen Haltung und einer Beziehung, deren Voraussetzungen er nicht erfüllen will.",
-      "anchor": "Warden führt praktisch viel, will aber kein Offizier werden.",
       "interest": "Die Stellung erklärt den Zusammenhang zwischen Berufsidentität und privatem Konflikt.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/50845-FROM-HERE-TO-ETERNITY"
-      ]
+      ],
+      "objective": "Warden führt praktisch viel, will aber kein Offizier werden."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Gantry wird zum mitreißenden Prediger einer Erweckungsbewegung.",
       "context": "Der redegewandte Verkäufer schließt sich der Predigerin Sharon Falconer (Jean Simmons) an. Seine Fähigkeit, ein Publikum zu gewinnen, macht ihn für ihre Veranstaltungen wertvoll. Zugleich passen seine Vergangenheit und seine persönlichen Bedürfnisse nicht bruchlos zum moralischen Anspruch des Auftritts. Lancaster spielt eine Figur, bei der Glaube, Show und Geschäft kaum voneinander zu trennen sind.",
-      "anchor": "Gantry überträgt das Verkaufen auf religiöse Überzeugung.",
       "interest": "Die Rolle erschließt den Zusammenhang zwischen öffentlicher Begeisterung und persönlichem Widerspruch.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/53136-ELMER-GANTRY"
-      ]
+      ],
+      "objective": "Gantry überträgt das Verkaufen auf religiöse Überzeugung."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Mike bildet Tino aus und arbeitet mit ihm am Trapez.",
       "context": "Mike war ein Star, wurde aber bei einem Sturz schwer verletzt. Tino will von seinem Können lernen und selbst einen besonders gefährlichen Sprung schaffen. Aus der Zusammenarbeit entwickelt sich ein Konflikt, als Lola (Gina Lollobrigida) zwischen die Männer tritt. Die Weitergabe von Erfahrung wird so mit Ehrgeiz, Vertrauen und der Angst verbunden, durch einen jüngeren Partner verdrängt zu werden.",
-      "anchor": "Der verletzte Altstar gibt sein Können an Tino weiter.",
       "interest": "Die Mentorschaft verbindet körperliche Arbeit mit einer persönlichen Bewährungsprobe.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Trapeze_(film)"
-      ]
+      ],
+      "objective": "Der verletzte Altstar gibt sein Können an Tino weiter."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 0,
       "short": "Hunsecker will die Beziehung seiner Schwester zu Dallas zerstören.",
       "context": "Hunsecker besitzt als Klatschkolumnist großen Einfluss auf Karrieren. Den Presseagenten Sidney Falco (Tony Curtis) zwingt er, gegen den Freund seiner Schwester vorzugehen. Ein privater Besitzanspruch wird damit durch ein öffentliches Mediennetz ausgetragen. Lancaster spielt den scheinbar souveränen Mann, dessen Macht auf Abhängigkeiten beruht und der die Selbstständigkeit eines nahen Menschen nicht ertragen will.",
-      "anchor": "Hunsecker benutzt öffentliche Macht für einen privaten Besitzanspruch.",
       "interest": "Die Handlung verbindet Medienmacht mit der Kontrolle familiärer Beziehungen.",
       "feedback": [
         "Hunsecker will die Beziehung seiner Schwester zu Dallas zerstören.",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/27542-sweet-smell-of-success"
-      ]
+      ],
+      "objective": "Hunsecker benutzt öffentliche Macht für einen privaten Besitzanspruch."
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 3,
       "short": "Fabrizio gehört zum alten Adel Siziliens.",
       "context": "Die Einigung Italiens verändert die Grundlagen der Macht seiner Schicht. Fabrizio erkennt, dass sich neue Interessen mit den alten Familien verbinden werden. Die Heirat seines Neffen Tancredi (Alain Delon) mit Angelica (Claudia Cardinale) macht diesen Übergang greifbar. Lancasters Figur beobachtet den Wandel mit Einsicht, ohne ihm selbst eine Zukunft entgegensetzen zu können.",
-      "anchor": "Fabrizio versteht den Wandel, gehört aber zur schwindenden alten Ordnung.",
       "interest": "Die gesellschaftliche Stellung erklärt seine Mischung aus Anpassung und Abschied.",
       "feedback": [
         "",
@@ -142,7 +141,8 @@
       ],
       "knowledge_id": "K-E20261007-F-262-L2",
       "variant_of": "E20261007-F-262-L2",
-      "knowledge_note": "Gleiche soziale Zuordnung Fabrizios zum Adel."
+      "knowledge_note": "Gleiche soziale Zuordnung Fabrizios zum Adel.",
+      "objective": "Fabrizio versteht den Wandel, gehört aber zur schwindenden alten Ordnung."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 1,
       "short": "Stroud beginnt seine Arbeit mit Vögeln in Leavenworth.",
       "context": "Stroud entdeckt einen verletzten Vogel und entwickelt in der Haft Kenntnisse über Pflege und Krankheiten. Später schreibt er darüber und arbeitet mit Stella Johnson (Betty Field) an Heilmitteln. Bei der Verlegung nach Alcatraz darf er die Vögel nicht behalten. Der Filmtitel darf deshalb nicht so verstanden werden, als habe die gesamte Forschung auf der berühmten Gefängnisinsel stattgefunden.",
-      "anchor": "Die Vögel gehören zu Leavenworth, bevor Stroud nach Alcatraz wechselt.",
       "interest": "Die Frage korrigiert eine naheliegende Verwechslung zwischen Titel und Handlungsabschnitt.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/22974-BIRDMAN-OF-ALCATRAZ"
-      ]
+      ],
+      "objective": "Die Vögel gehören zu Leavenworth, bevor Stroud nach Alcatraz wechselt."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 0,
       "short": "Lancaster und Harold Hecht produzierten „Marty“ über Hecht-Lancaster Productions.",
       "context": "Paddy Chayefskys Fernsehstoff wurde von Delbert Mann fürs Kino inszeniert. Lancaster übernahm die Hauptrolle nicht, setzte seine Bekanntheit aber auch im Trailer für den kleineren Film ein. Der Erfolg zeigte, dass seine Produktionsarbeit über Filme mit ihm selbst als Star hinausging. Für die Oscar-Auszeichnung als bester Film wurde Harold Hecht genannt; Lancaster gehört deshalb nicht automatisch zu deren persönlichen Empfängern.",
-      "anchor": "Lancasters Firma ermöglichte „Marty“, Borgnine spielte die Hauptrolle.",
       "interest": "Das Projekt erschließt seine Arbeit als unabhängiger Produzent jenseits der eigenen Leinwandrollen.",
       "feedback": [
         "Lancaster und Harold Hecht produzierten „Marty“ über Hecht-Lancaster Productions.",
@@ -197,7 +196,8 @@
       "extraSources": [
         "https://www.tcm.com/articles/behind-the-classics/960549/behind-the-classics-marty-1955",
         "https://www.oscars.org/oscars/ceremonies/1956"
-      ]
+      ],
+      "objective": "Lancasters Firma ermöglichte „Marty“, Borgnine spielte die Hauptrolle."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 2,
       "short": "Lancaster arbeitete als Zirkusakrobat, unter anderem gemeinsam mit Nick Cravat.",
       "context": "Lancaster und sein langjähriger Partner Nick Cravat entwickelten in den 1930er Jahren ein gemeinsames Akrobatikprogramm. Eine Verletzung beendete diesen Abschnitt seiner Laufbahn. Die körperliche Ausbildung blieb für spätere Abenteuerrollen und „Trapez“ nützlich. Der Film verwendete dennoch für besonders gefährliche Nummern Spezialisten; die frühere Zirkusarbeit bedeutet nicht, dass Lancaster jede auf der Leinwand sichtbare Artistik selbst ausführte.",
-      "anchor": "Vor dem Filmstar stand der Akrobat Lancaster.",
       "interest": "Die Herkunft erklärt körperliches Können und die Grenzen vorschneller Behauptungen über eigene Stunts.",
       "feedback": [
         "",
@@ -225,7 +224,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Burt_Lancaster",
         "https://en.wikipedia.org/wiki/Trapeze_(film)"
-      ]
+      ],
+      "objective": "Vor dem Filmstar stand der Akrobat Lancaster."
     }
   ]
 }

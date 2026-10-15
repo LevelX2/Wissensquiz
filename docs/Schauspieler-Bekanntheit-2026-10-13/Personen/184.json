@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Sie braucht Geld zur Begleichung von Schulden.",
       "context": "Die Ohrringe sind ein Geschenk ihres Mannes (Charles Boyer). Ihr zunächst praktischer Verkauf löst eine Folge von Besitzerwechseln aus, die schließlich in ihre Ehe und eine neue Liebe eingreift.",
-      "anchor": "Ein Schmuckverkauf setzt die Tragödie in Gang.",
       "interest": "Der Anlass verbindet die gesellschaftliche Fassade mit privaten Folgen.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/571-the-earrings-of-madame-de"
-      ]
+      ],
+      "objective": "Ein Schmuckverkauf setzt die Tragödie in Gang."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 1,
       "short": "Darrieux spricht Marjanes Großmutter.",
       "context": "Die Figur spricht offen, eigensinnig und mit großer Zuneigung zur Enkelin. Darrieux nahm Satrapis Bücher als Ausgangspunkt und folgte im Studio deren unmittelbarer Anleitung.",
-      "anchor": "Die Großmutter spricht mit Darrieuxs Stimme.",
       "interest": "Die Rolle zeigt ihre Wirkung auch ohne sichtbaren Auftritt.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.sonyclassics.com/persepolis/presskit/Persepolis.pdf"
-      ]
+      ],
+      "objective": "Die Großmutter spricht mit Darrieuxs Stimme."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 0,
       "short": "Bébé hat ihren Mann vergiftet.",
       "context": "Der Unternehmer François Donge (Jean Gabin) liegt im Krankenhaus, während sie ihn täglich besucht. Er erinnert sich an ihre gemeinsame Ehe und versucht zu begreifen, wie es zu ihrer Tat kommen konnte.",
-      "anchor": "Die Krankenbesuche stehen im Schatten der Vergiftung.",
       "interest": "Rückblicke machen aus dem Verbrechen die Untersuchung einer gescheiterten Ehe.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.cinematheque.fr/seance/18770.html"
-      ]
+      ],
+      "objective": "Die Krankenbesuche stehen im Schatten der Vergiftung."
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 3,
       "short": "Sie beseitigt die Einladungen, statt sie aufzugeben.",
       "context": "Darrieuxs frühe Filmrolle ist ein aufmüpfiges Mädchen, das den gesellschaftlichen Ehrgeiz der Eltern sabotiert. Aus dem kleinen postalischen Auftrag wird eine wirksame Gegenwehr gegen das geplante Fest.",
-      "anchor": "Ohne Einladungen bleibt der Ball leer.",
       "interest": "Der frühe Auftritt zeigt ihren komischen Eigensinn in einer konkreten Handlung.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/5600-look-at-that-girl",
         "https://www.bfi.org.uk/sight-and-sound/news/danielle-darrieux-obituary-from-pre-war-modernity-epitome-parisian-chic"
-      ]
+      ],
+      "objective": "Ohne Einladungen bleibt der Ball leer."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 0,
       "short": "Durch die Heirat hätte sie „Madame Dame“ geheißen.",
       "context": "Der Musikgeschäftbesitzer Simon Dame (Michel Piccoli) ist der Vater ihres jüngsten Kindes. Ein sprachlicher Einwand trennte das Paar; während alle in Rochefort nach Liebe suchen, bleibt auch ihre alte Geschichte offen.",
-      "anchor": "Ein Name stand Yvonnes Heirat im Weg.",
       "interest": "Die ungewöhnliche Trennung gehört zu Demys Verknüpfung von Sprachwitz und Liebessehnsucht.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       ],
       "knowledge_id": "K-F240-20261006-147-S1",
       "variant_of": "F240-20261006-147-S1",
-      "knowledge_note": "Dasselbe Ziel wie im Filmbestand: Yvonnes Ablehnung des Ehenamens Madame Dame."
+      "knowledge_note": "Dasselbe Ziel wie im Filmbestand: Yvonnes Ablehnung des Ehenamens Madame Dame.",
+      "objective": "Ein Name stand Yvonnes Heirat im Weg."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 3,
       "short": "Der Diplomat Donati schenkt sie ihr.",
       "context": "Donati (Vittorio De Sica) hat den Schmuck auf dessen Reise durch verschiedene Hände erworben. Für die Gräfin verändert sich damit sein Wert: Aus einem entbehrlichen Hochzeitsgeschenk wird ein Zeichen ihrer neuen Leidenschaft.",
-      "anchor": "Dieselben Ohrringe tragen eine andere Liebe.",
       "interest": "Ein wiederkehrender Gegenstand verbindet äußere Handlung und veränderte Gefühle.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/547-the-earrings-of-madame-de-the-cost-of-living"
-      ]
+      ],
+      "objective": "Dieselben Ohrringe tragen eine andere Liebe."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 2,
       "short": "Darrieux singt Yvonnes Part mit ihrer eigenen Stimme.",
       "context": "Viele sichtbare Darsteller erhielten für den Gesang eine andere Stimme. So singt Anne Germain für Catherine Deneuve und Claude Parent für Françoise Dorléac; bei Yvonne bleiben Schauspiel und Gesang bei derselben Künstlerin.",
-      "anchor": "Yvonne bleibt auch singend Darrieux.",
       "interest": "Die Frage macht eine oft unsichtbare Aufteilung der Musicalarbeit hörbar.",
       "feedback": [
         "",
@@ -198,7 +197,8 @@
       "extraSources": [
         "https://www.ville-rochefort.fr/sites/default/files/Mediatheque/Services/Culture/service%20patrimoine/FOCUS%20demoiselles%202026.pdf?time=1769665017",
         "https://cine-tamaris.fr/jacques-demy/les-parapluies-de-cherbourg-1963/"
-      ]
+      ],
+      "objective": "Yvonne bleibt auch singend Darrieux."
     },
     {
       "code": "E2",
@@ -212,7 +212,6 @@
       "correct": 1,
       "short": "Darrieux übernahm die Rolle von Katharine Hepburn.",
       "context": "Sie spielte Coco Chanel von August bis Oktober 1970. Das Musical von André Previn und Alan Jay Lerner verband die Biografie der Modeschöpferin mit einer Aufgabe für Darrieux als Schauspielerin und ausgebildete Sängerin.",
-      "anchor": "Von Hepburn zu Darrieux: Coco am Broadway.",
       "interest": "Der Auftritt erschließt einen amerikanischen Bühnenabschnitt ihrer langen Karriere.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       "extraSources": [
         "https://www.ibdb.com/broadway-production/coco-3309",
         "https://playbill.com/article/french-film-star-danielle-darrieux-who-replaced-katharine-hepburn-in-coco-dies-at-100"
-      ]
+      ],
+      "objective": "Von Hepburn zu Darrieux: Coco am Broadway."
     }
   ]
 }

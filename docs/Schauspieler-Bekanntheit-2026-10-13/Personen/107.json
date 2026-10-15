@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Moreau spielt Catherine, die beide Freunde anzieht.",
       "context": "Jules (Oskar Werner) und Jim (Henri Serre) verbindet eine enge Freundschaft, als sie Catherine begegnen. Sie heiratet Jules, doch ihre Beziehung zu Jim bleibt ebenfalls entscheidend. Der Film folgt über viele Jahre den Versuchen, Freundschaft, Ehe und Freiheit miteinander zu vereinbaren. Catherine ist dabei nicht nur der Anlass für einen Streit zwischen Männern, sondern treibt die wechselnden Bindungen selbst voran.",
-      "anchor": "Catherine steht zwischen den Freunden und handelt nach ihren eigenen Wünschen.",
       "interest": "Das Ziel benennt die zentrale Figur des Beziehungsgeflechts.",
       "feedback": [
         "",
@@ -32,7 +31,8 @@
       "extraSources": [
         "https://www.criterion.com/films/218-jules-and-jim",
         "https://en.wikipedia.org/wiki/Jules_and_Jim"
-      ]
+      ],
+      "objective": "Catherine steht zwischen den Freunden und handelt nach ihren eigenen Wünschen."
     },
     {
       "code": "L2",
@@ -46,7 +46,6 @@
       "correct": 3,
       "short": "Die beiden Marias bilden ein Gesangs- und Tanzduo in einer reisenden Truppe.",
       "context": "Maria (Jeanne Moreau) hat bereits Bühnenerfahrung, als die von Brigitte Bardot gespielte zweite Maria bei der Truppe Zuflucht findet. Eine gemeinsame Nummer bringt den Frauen Erfolg. Auf der Reise werden sie jedoch mit der Gewalt eines Großgrundbesitzers konfrontiert. Aus dem Auftreten vor Publikum entwickelt sich eine politische Rolle, bis die beiden selbst einen Aufstand anführen.",
-      "anchor": "Aus dem Bühnenduo werden Anführerinnen einer Revolution.",
       "interest": "Die gemeinsame Arbeit bildet den Ausgangspunkt der ungewöhnlichen Abenteuerpartnerschaft.",
       "feedback": [
         "",
@@ -59,7 +58,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Viva_Maria!"
-      ]
+      ],
+      "objective": "Aus dem Bühnenduo werden Anführerinnen einer Revolution."
     },
     {
       "code": "M1",
@@ -73,7 +73,6 @@
       "correct": 1,
       "short": "Florence sieht eine andere Frau in Juliens Wagen und deutet dies als Untreue.",
       "context": "Florence wartet nach dem geplanten Mord an ihrem Mann auf Julien (Maurice Ronet). Sein Wagen fährt mit Véronique (Yori Bertin) vorbei; tatsächlich haben die junge Frau und ihr Freund das Auto gestohlen. Julien selbst steckt im abgeschalteten Aufzug des Bürohauses fest. Florences nächtliche Suche entsteht damit aus einem Missverständnis, während der Autodiebstahl eine weitere Verbrechenskette auslöst.",
-      "anchor": "Der gestohlene Wagen liefert Florence ein irreführendes Bild.",
       "interest": "Die Frage erklärt, warum die Liebenden dieselbe Nacht getrennt und mit ungleichem Wissen durchleben.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Elevator_to_the_Gallows"
-      ]
+      ],
+      "objective": "Der gestohlene Wagen liefert Florence ein irreführendes Bild."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 1,
       "short": "Jackie und Jean spielen Roulette.",
       "context": "Jackie und der jüngere Jean erleben ihre Annäherung zwischen Gewinnen und Verlusten an der Riviera. Das Geld erlaubt zeitweise ein luxuriöses Leben, verschwindet aber ebenso rasch wieder. Jackie fasziniert das Spiel von Zahlen und Zufall. Der Film baut ihre Beziehung als Folge von Wiederholungen und wechselnden Glückslagen auf, statt sie auf einen geplanten großen Gewinn hinzuführen.",
-      "anchor": "Die Beziehung folgt dem Wechsel von Gewinnen und Verlusten am Roulettetisch.",
       "interest": "Das zentrale Spiel erklärt den Rhythmus und die Unsicherheit der Liebesgeschichte.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/3234-bay-of-angels-walking-on-sand"
-      ]
+      ],
+      "objective": "Die Beziehung folgt dem Wechsel von Gewinnen und Verlusten am Roulettetisch."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 2,
       "short": "Jeanne fährt mit Bernard fort und lässt ihr bisheriges bürgerliches Leben zurück.",
       "context": "Jeanne hat bereits einen Liebhaber, Raoul (José Luis de Villalonga), als der fremde Archäologe Bernard (Jean-Marc Bory) ihr nach einer Autopanne hilft. Ihr Mann Henri (Alain Cuny) lädt auch ihn ins Haus ein. Nach einer gemeinsamen Nacht trifft Jeanne eine Entscheidung, die über die bisherige diskrete Affäre hinausgeht. Die Abfahrt eröffnet eine gemeinsame Zukunft, ohne deren Gelingen zu versprechen.",
-      "anchor": "Jeanne ersetzt die heimliche Affäre durch einen offenen, ungewissen Aufbruch.",
       "interest": "Die Schlussentscheidung unterscheidet zwei Formen des Ausbruchs aus ihrer Ehe.",
       "feedback": [
         "",
@@ -140,7 +139,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/545-the-lovers-succ-s-de-scandale"
-      ]
+      ],
+      "objective": "Jeanne ersetzt die heimliche Affäre durch einen offenen, ungewissen Aufbruch."
     },
     {
       "code": "S2",
@@ -154,7 +154,6 @@
       "correct": 3,
       "short": "Giovanni selbst hatte den Brief vor ihrer Hochzeit an Lidia geschrieben.",
       "context": "Nach einem langen Tag und einer Gesellschaftsnacht sprechen Lidia und Giovanni (Marcello Mastroianni) über ihre zerfallende Ehe. Lidia erzählt von Tommaso (Bernhard Wicki), der sie früher unterstützt hatte und nun gestorben ist. Anschließend liest sie Giovannis alten Brief. Die Worte einer einst intensiven Liebe stehen neben ihrer gegenwärtigen Feststellung, dass sie ihn nicht mehr liebt.",
-      "anchor": "Giovannis frühere Liebesworte treffen auf Lidias gegenwärtige Entfremdung.",
       "interest": "Das Schriftstück verbindet die Vergangenheit der Ehe mit dem Gespräch über ihr Ende.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/La_Notte"
-      ]
+      ],
+      "objective": "Giovannis frühere Liebesworte treffen auf Lidias gegenwärtige Entfremdung."
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 0,
       "short": "„Lumière“ erzählt von vier Schauspielerinnen und ihren beruflichen wie persönlichen Beziehungen.",
       "context": "Moreau schrieb das Drehbuch und übernahm neben der Regie selbst die Rolle der Sarah. Die Frauen sind in verschiedenen Lebensphasen, doch ihr Beruf hat sie zusammengeführt. Über Jahre entwickelte Moreau ihre Figuren in Notizbüchern und mehreren Drehbuchfassungen. Ihr erster eigener Spielfilm nutzt die Erfahrung vor der Kamera für eine Geschichte über Nähe, Verletzlichkeit und Entscheidungen innerhalb dieses Milieus.",
-      "anchor": "Moreau blickt als Regisseurin auf Frauen in ihrem eigenen Beruf.",
       "interest": "Der Schritt hinter die Kamera erweitert ihren Beitrag vom einzelnen Spiel zur Gestaltung eines ganzen Films.",
       "feedback": [
         "„Lumière“ erzählt von vier Schauspielerinnen und ihren beruflichen wie persönlichen Beziehungen.",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://2022.festival-lumiere.org/manifestations/lumiere.html"
-      ]
+      ],
+      "objective": "Moreau blickt als Regisseurin auf Frauen in ihrem eigenen Beruf."
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 0,
       "short": "Louis Malle ließ Moreau ohne starkes Make-up und mit wenig Licht durch Paris gehen.",
       "context": "Moreaus nächtlicher Gang durch Paris wurde mit dem Licht der Straßen und Schaufenster aufgenommen. Malle und Kameramann Henri Decaë verzichteten dabei auf die zuvor übliche starke Ausleuchtung und schweres Make-up. Die Entscheidung änderte das sichtbare Schauspielerbild: Florences innere Unruhe wird durch ihren Blick, ihren Gang und die Umgebung erfahrbar, während sie nach Julien sucht.",
-      "anchor": "Die reduzierte Ausleuchtung bringt Moreaus Gesicht anders zur Geltung als die übliche Starbeleuchtung.",
       "interest": "Das Beispiel zeigt, wie Kameragestaltung und Darstellung ein öffentliches Schauspielerbild verändern.",
       "feedback": [
         "Louis Malle ließ Moreau ohne starkes Make-up und mit wenig Licht durch Paris gehen.",
@@ -222,7 +221,8 @@
       "extraSources": [
         "https://www.criterion.com/films/539-the-lovers",
         "https://en.wikipedia.org/wiki/Elevator_to_the_Gallows"
-      ]
+      ],
+      "objective": "Die reduzierte Ausleuchtung bringt Moreaus Gesicht anders zur Geltung als die übliche Starbeleuchtung."
     }
   ]
 }

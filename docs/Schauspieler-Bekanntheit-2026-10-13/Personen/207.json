@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Sie gewann für „Minari“ den Oscar als beste Nebendarstellerin.",
       "context": "Die Auszeichnung von 2021 galt ihrer Darstellung von Soonja. Nach einer jahrzehntelangen Laufbahn in Südkorea brachte ihr diese amerikanische Familiengeschichte eine neue internationale Aufmerksamkeit.",
-      "anchor": "Oscar für Soonja",
       "interest": "Der Preis bietet einen bekannten Einstieg in ein viel älteres Werk.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.oscars.org/oscars/ceremonies/2021"
-      ]
+      ],
+      "objective": "Oscar für Soonja"
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Soonja ist die Großmutter der Kinder.",
       "context": "Monicas Mutter reist aus Korea nach Arkansas. David findet zunächst, dass sie sich ganz anders verhält als eine erwartete Großmutter: Sie spielt Karten und sieht Wrestling. Aus anfänglicher Ablehnung wächst eine wichtige Bindung.",
-      "anchor": "Eine ungewöhnliche Großmutter",
       "interest": "Die Familienposition erklärt zugleich Nähe und Fremdheit zwischen zwei Generationen.",
       "feedback": [
         "",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/sight-and-sound/interviews/lee-isaac-chung-minari-faith-farming-family-ties"
-      ]
+      ],
+      "objective": "Eine ungewöhnliche Großmutter"
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Byeong-sik ist die erfahrene Hausangestellte.",
       "context": "Sie kennt die Gewohnheiten und Machtverhältnisse der Familie. Die junge Eun-yi kommt als zusätzliche Hilfe ins Haus. Youn spielt damit eine Beobachterin und Beteiligte des Geschehens, deren Stellung sich deutlich von derjenigen der neu eingestellten Frau unterscheidet.",
-      "anchor": "Die ältere Angestellte im Remake",
       "interest": "Die Unterscheidung der beiden Dienerinnen verhindert eine häufige Rollenverwechslung.",
       "feedback": [
         "",
@@ -85,7 +84,8 @@
       ],
       "extraSources": [
         "https://www.koreanfilm.co.uk/films/the-housemaid-2/"
-      ]
+      ],
+      "objective": "Die ältere Angestellte im Remake"
     },
     {
       "code": "M2",
@@ -99,7 +99,6 @@
       "correct": 2,
       "short": "So-young arbeitet als Prostituierte für ältere Männer.",
       "context": "In öffentlichen Parks bietet sie zunächst ein Energiegetränk an, das als Erkennungszeichen dient. Der Film verbindet ihre Erwerbsnot mit der Einsamkeit ihrer Kunden. Seine ältere Hauptfigur steht damit weit außerhalb eines bequem idealisierten Altersbildes.",
-      "anchor": "Erwerbsnot im Alter",
       "interest": "Die konkrete Tätigkeit öffnet den Blick auf eine selten gezeigte soziale Lebenslage.",
       "feedback": [
         "",
@@ -112,7 +111,8 @@
       ],
       "extraSources": [
         "https://eng.koreafilm.or.kr/movie/PM_008605"
-      ]
+      ],
+      "objective": "Erwerbsnot im Alter"
     },
     {
       "code": "S1",
@@ -126,7 +126,6 @@
       "correct": 1,
       "short": "Sie spielt eine Variante ihrer eigenen öffentlichen Person.",
       "context": "Sechs bekannte Schauspielerinnen treffen sich für ein Fotoshooting. Die weitgehend improvisierte Situation lässt Konkurrenz, Unsicherheit und persönliche Erfahrungen ineinandergreifen. Youn erzählte im Interview, dass sie dabei auch über ihre Scheidung sprach.",
-      "anchor": "Das eigene Starbild als Material",
       "interest": "Die Darstellungsform verschiebt die Grenze zwischen Rolle, Improvisation und öffentlicher Biografie.",
       "feedback": [
         "",
@@ -139,7 +138,8 @@
       ],
       "extraSources": [
         "https://editorial.rottentomatoes.com/article/the-essentials-youn-yuh-jung-breaks-down-her-freshest-and-defining-roles/"
-      ]
+      ],
+      "objective": "Das eigene Starbild als Material"
     },
     {
       "code": "S2",
@@ -153,7 +153,6 @@
       "correct": 0,
       "short": "Einige Männer bitten sie um Hilfe beim Sterben.",
       "context": "So-young begegnet Kunden, die von Krankheit und Einsamkeit gezeichnet sind. Youn beschrieb die Tötungen ihrer Figur als Handeln aus Mitgefühl, zugleich ausdrücklich nicht als Lösung des gesellschaftlichen Problems. Der Film stellt die Vernachlässigung alter Menschen zur Diskussion.",
-      "anchor": "Mitgefühl an einer moralischen Grenze",
       "interest": "Die zweite Ebene der Rolle geht über ihre Erwerbstätigkeit hinaus und erklärt den bedrückenden Titel im Original.",
       "feedback": [
         "",
@@ -167,7 +166,8 @@
       "extraSources": [
         "https://www.koreanfilm.or.kr/eng/news/interview.jsp?blbdComCd=601019&mode=INTERVIEW_VIEW&pageRowSize=10&seq=209",
         "https://m.koreanfilm.or.kr/eng/news/news.jsp?blbdComCd=601006&mode=VIEW&pageRowSize=10&seq=4007"
-      ]
+      ],
+      "objective": "Mitgefühl an einer moralischen Grenze"
     },
     {
       "code": "E1",
@@ -181,7 +181,6 @@
       "correct": 2,
       "short": "Die Erinnerung an ihre Urgroßmutter begleitete die Rolle.",
       "context": "Als Kind hatte Youn deren Verhalten in der Mangelzeit nach dem Krieg missverstanden. Erst später begriff sie, wie sehr die alte Frau zugunsten der Familie verzichtet hatte. Die Darstellung wurde auch zu einer späten gedanklichen Annäherung.",
-      "anchor": "Die eigene Kindheit als Rollenquelle",
       "interest": "Der persönliche Bezug erklärt die Wärme hinter der ungeschliffenen Figur.",
       "feedback": [
         "",
@@ -194,7 +193,8 @@
       ],
       "extraSources": [
         "https://www.motionpictures.org/2021/04/yuh-jung-youn-on-creating-family-in-minari-2/"
-      ]
+      ],
+      "objective": "Die eigene Kindheit als Rollenquelle"
     },
     {
       "code": "E2",
@@ -208,7 +208,6 @@
       "correct": 3,
       "short": "Mit jeder Wiederholung findet sie weitere Darstellungsmöglichkeiten.",
       "context": "Youn begann diese intensive Vorbereitung aus dem Gefühl, anderen Schauspielern an Ausbildung nachzustehen. Daraus entwickelte sich eine dauerhafte Arbeitsweise. Das sichere Beherrschen des Textes eröffnete ihr Varianten der Figur und machte die Darstellung beweglicher.",
-      "anchor": "Wiederholung schafft Möglichkeiten",
       "interest": "Die Frage zeigt Vorbereitung als Quelle von Freiheit im Spiel.",
       "feedback": [
         "",
@@ -219,7 +218,8 @@
       "films": [],
       "extraSources": [
         "https://www.motionpictures.org/2021/04/yuh-jung-youn-on-creating-family-in-minari-2/"
-      ]
+      ],
+      "objective": "Wiederholung schafft Möglichkeiten"
     }
   ]
 }

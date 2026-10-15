@@ -37,12 +37,12 @@
       ],
       "short": "Ein Seeungeheuer greift die Flotte an und zerstört Schiffe.",
       "context": "Ein Seeungeheuer greift die Flotte an und zerstört Schiffe. Der Hof muss daher eine Bedrohung untersuchen, die zunächst außerhalb gewöhnlicher Verwaltung erscheint. Die Verluste machen den Auftrag dringend. Das fantastischen Wesen stellt nicht nur einzelne Reisende vor eine Gefahr, sondern betrifft die militärische Handlungsfähigkeit des Reiches.",
-      "anchor": "Der Angriff auf die Flotte erzwingt eine Untersuchung.",
       "interest": "Die Bedrohung eröffnet den Fall.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Angriff auf die Flotte erzwingt eine Untersuchung."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Yin Ruiji (Angelababy) soll dem Seeungeheuer als Opfer angeboten werden.",
       "context": "Yin Ruiji (Angelababy) soll dem Seeungeheuer als Opfer angeboten werden. Die Angst vor dem Wesen erzeugt damit eine zusätzliche menschliche Gefahr. Dee (Mark Chao) begegnet nicht nur dem rätselhaften Angriff, sondern einem Plan, der einen vermeintlichen Ausweg auf Kosten einer Unbeteiligten sucht.",
-      "anchor": "Die Angst vor dem Ungeheuer bedroht auch die geplante Opfergabe.",
       "interest": "Ein Rettungsversuch verbindet Dee mit einer wichtigen Zeugin.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Angst vor dem Ungeheuer bedroht auch die geplante Opfergabe."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Yin Ruiji (Angelababy) erkennt in dem Wesen ihren vermissten Geliebten Yuan Zhen (Ian Kim).",
       "context": "Yin Ruiji (Angelababy) erkennt in dem Wesen ihren vermissten Geliebten Yuan Zhen (Ian Kim). Die scheinbare Fremdheit verbirgt somit einen bekannten Menschen. Ihre Bindung liefert einen Zugang, den reine Verfolgung nicht eröffnet. Zugleich muss die Untersuchung erklären, wie ein Mensch diese Gestalt annehmen konnte.",
-      "anchor": "Hinter dem Wesen erkennt Ruiji ihren Geliebten.",
       "interest": "Eine persönliche Beziehung verändert die Deutung des Fundes.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Hinter dem Wesen erkennt Ruiji ihren Geliebten."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Vergifteter Tee soll den Hof treffen.",
       "context": "Vergifteter Tee soll den Hof treffen. Yuan Zhen (Ian Kim) wird wegen seiner Arbeit als Teehersteller in den Plan einbezogen. Die Bedrohung bewegt sich damit von einem auffälligen Angriff auf See zu einer vertrauten Gewohnheit im Palast. Die Ermittler müssen einen unscheinbaren Zugang zur Macht schützen.",
-      "anchor": "Der Anschlagsplan erreicht den Hof durch Tee.",
       "interest": "Der gefährliche Gegenstand gehört zum vertrauten Alltag.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Anschlagsplan erreicht den Hof durch Tee."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Das Ungeheuer ist ein durch Parasiten und Gift veränderter Rochen.",
       "context": "Das Ungeheuer ist ein durch Parasiten und Gift veränderter Rochen. Die Erklärung verknüpft das Wesen mit den menschlichen Gegenspielern. Das ungewöhnliche Aussehen beendet also nicht die Frage nach einem Verantwortlichen. Dieselbe Untersuchung muss sowohl das Tier als auch den Plan hinter seiner Veränderung berücksichtigen.",
-      "anchor": "Das Seeungeheuer ist ein manipuliertes Tier.",
       "interest": "Eine fantastische Erscheinung erhält eine konkrete Herkunft.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Seeungeheuer ist ein manipuliertes Tier."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Vergifteter Fischköder tötet das Seeungeheuer.",
       "context": "Vergifteter Fischköder tötet das Seeungeheuer. Die Gruppe nutzt damit das Wissen über einen lebenden Gegner statt nur die Stärke ihrer Schiffe. Das Verfahren ist gefährlich, weil das Tier während der Wirkung weiter angreift. Die Rettung hängt davon ab, dass der Köder angenommen wird und rechtzeitig wirkt.",
-      "anchor": "Der Köder erreicht den Gegner dort, wo Waffen versagen.",
       "interest": "Die Lösung setzt Erkenntnis über das Wesen praktisch um.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Köder erreicht den Gegner dort, wo Waffen versagen."
     },
     {
       "code": "Y",
@@ -181,14 +181,14 @@
       ],
       "short": "Erste Veröffentlichung 2013; Vorgeschichte zum 2010 veröffentlichten Phantomflammen-Film.",
       "context": "„Der Fluch des Seeungeheuers“ erschien 2013, drei Jahre nach dem Detective-Dee-Film von 2010. Der Film erzählt jedoch die Vorgeschichte des Ermittlers. Mark Chao übernimmt den jüngeren Dee anstelle von Andy Lau. Die Jahresfolge hilft deshalb doppelt: Sie ordnet die Veröffentlichung und erklärt, warum eine neue Hauptbesetzung trotzdem dieselbe Figur weiterführt.",
-      "anchor": "2010 Andy Lau, 2013 Mark Chao: drei Jahre später beginnt die Vorgeschichte.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "erster"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2010 Andy Lau, 2013 Mark Chao: drei Jahre später beginnt die Vorgeschichte."
     },
     {
       "code": "D",
@@ -207,13 +207,13 @@
       ],
       "short": "Tsui Hark inszenierte auch die Vorgeschichte und schrieb am Drehbuch mit.",
       "context": "Tsui Hark inszenierte auch die Vorgeschichte und schrieb am Drehbuch mit. Carina Lau kehrt als Wu Zetian zurück, während Mark Chao den jüngeren Ermittler spielt. Die Kontinuität entsteht damit sowohl hinter der Kamera als auch bei einer zentralen Hofrolle. Der neue Fall kann eine frühere Entwicklungsstufe zeigen, ohne das gesamte Figurenumfeld neu zu begründen.",
-      "anchor": "Tsui und Carina Lau bleiben; Mark Chao spielt den jüngeren Dee.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "artikel"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Tsui und Carina Lau bleiben; Mark Chao spielt den jüngeren Dee."
     }
   ]
 }

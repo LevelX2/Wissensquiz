@@ -36,12 +36,12 @@
       ],
       "short": "Reggie kehrt nach Paris zurück und erfährt, dass ihr Mann ermordet wurde.",
       "context": "Reggie kehrt nach Paris zurück und erfährt, dass ihr Mann ermordet wurde. Ihre Wohnung ist leergeräumt, und mehrere Männer suchen nach einem verschwundenen Vermögen. Die vertraute Stadt wird dadurch zur Umgebung eines persönlichen Rätsels und wechselnder Bedrohungen.",
-      "anchor": "Reggies Pariser Alltag wird zur gefährlichen Geldsuche.",
       "interest": "Reggies Pariser Alltag wird zur gefährlichen Geldsuche.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Reggies Pariser Alltag wird zur gefährlichen Geldsuche."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Der Helfer gibt Reggie Lampert (Audrey Hepburn) mehrfach einen anderen Namen und Hintergrund.",
       "context": "Der Helfer gibt Reggie Lampert (Audrey Hepburn) mehrfach einen anderen Namen und Hintergrund. Seine Hilfe wirkt überzeugend, seine Selbstauskunft bleibt unzuverlässig. Der romantische Reiz und die Gefahr entstehen daher aus derselben Unsicherheit über seine tatsächliche Rolle.",
-      "anchor": "Hilfe und wechselnde Identität gehören zu derselben Person.",
       "interest": "Hilfe und wechselnde Identität gehören zu derselben Person.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Hilfe und wechselnde Identität gehören zu derselben Person."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Das Gold sollte die französische Résistance im Zweiten Weltkrieg unterstützen.",
       "context": "Das Gold sollte die französische Résistance im Zweiten Weltkrieg unterstützen. Die Beteiligten unterschlagen es stattdessen, und Charles Lampert hintergeht später seine Komplizen. Reggie (Audrey Hepburn) gerät somit in eine Auseinandersetzung, deren eigentlicher Ursprung lange vor ihrer Suche liegt.",
-      "anchor": "Der private Schatz stammt aus unterschlagenem Widerstandsgeld.",
       "interest": "Der private Schatz stammt aus unterschlagenem Widerstandsgeld.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der private Schatz stammt aus unterschlagenem Widerstandsgeld."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Das Vermögen steckt in seltenen Briefmarken auf einem Umschlag.",
       "context": "Das Vermögen steckt in seltenen Briefmarken auf einem Umschlag. Reggie Lampert (Audrey Hepburn) hat sie einem Kind gegeben, ohne ihren Wert zu erkennen. Der entscheidende Gegenstand war also sichtbar, aber seine Bedeutung blieb hinter seinem alltäglichen Erscheinungsbild verborgen.",
-      "anchor": "Der Schatz klebt auf einem alltäglichen Umschlag.",
       "interest": "Der Schatz klebt auf einem alltäglichen Umschlag.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Schatz klebt auf einem alltäglichen Umschlag."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Hamilton Bartholomew ist in Wahrheit Carson Dyle.",
       "context": "Hamilton Bartholomew ist in Wahrheit Carson Dyle. Der totgeglaubte Beteiligte am Goldraub benutzt eine behördliche Tarnung, um Reggie Lampert (Audrey Hepburn) zu lenken. Die scheinbar verlässlichste Autorität entpuppt sich dadurch als Teil der alten Bedrohung.",
-      "anchor": "Die Behördenfassade verbirgt den alten Komplizen.",
       "interest": "Die Behördenfassade verbirgt den alten Komplizen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Behördenfassade verbirgt den alten Komplizen."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Grants Figur betätigt im Theater eine Falltür unter Carson Dyle (Walter Matthau).",
       "context": "Grants Figur betätigt im Theater eine Falltür unter Carson Dyle (Walter Matthau). Reggie Lampert (Audrey Hepburn) versteckt sich im Souffleurkasten. Das Bühnengebäude liefert also keine bloße Kulisse: Seine Vorrichtungen ermöglichen die konkrete Rettung und beenden die Verfolgung.",
-      "anchor": "Die Theatertechnik entscheidet die Verfolgung.",
       "interest": "Die Theatertechnik entscheidet die Verfolgung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Theatertechnik entscheidet die Verfolgung."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1963 wurde der Film erstmals gezeigt.",
       "context": "1963 wurde der Film erstmals gezeigt. Das Rätsel verweist innerhalb der Handlung auf während des Zweiten Weltkriegs gestohlenes Gold: Die Gegenwartskomödie öffnet so einen Konflikt aus einer früheren Epoche. Die Benefizvorführung im September geht dem regulären Dezemberstart desselben Jahres voraus.",
-      "anchor": "1963 wird in Paris um Gold aus dem Zweiten Weltkrieg gestritten: Der Gegenwartsfall hat eine ältere Kriegsursache.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1963 wird in Paris um Gold aus dem Zweiten Weltkrieg gestritten: Der Gegenwartsfall hat eine ältere Kriegsursache."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Stanley Donen inszenierte das Drehbuch von Peter Stone.",
       "context": "Stanley Donen inszenierte das Drehbuch von Peter Stone. Audrey Hepburn und Cary Grant verbinden romantische Annäherung mit wechselnden Identitäten und einer Geldsuche. Henry Mancinis Musik gehört zum eleganten Ton, während die Hauptfigur wiederholt prüfen muss, wem sie überhaupt vertrauen kann.",
-      "anchor": "Stanley Donen inszenierte das Drehbuch von Peter Stone.",
       "interest": "Stanley Donen inszenierte das Drehbuch von Peter Stone.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Stanley Donen inszenierte das Drehbuch von Peter Stone."
     }
   ]
 }

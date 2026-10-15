@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Diesel spielt Dominic Toretto.",
       "context": "Dom gehört zum Kern der Reihe, die mit Straßenrennen und verdeckten Ermittlungen beginnt. Paul Walker spielt Brian O’Conner, dessen Verhältnis zu Dom zwischen Polizeiauftrag und persönlicher Loyalität steht. Spätere Filme erweitern die Geschichten zu internationalen Raubzügen und Missionen. Diesel blieb nicht nur als Darsteller der Figur beteiligt, sondern übernahm bei mehreren Folgen auch Produzentenaufgaben.",
-      "anchor": "Diesel ist Dom; Paul Walker ist Brian.",
       "interest": "Die zentrale Figur führt vom Rennfilm zu Diesels Arbeit an einer langjährigen Filmreihe.",
       "feedback": [
         "",
@@ -33,7 +32,8 @@
       "extraSources": [
         "https://en.wikipedia.org/wiki/Vin_Diesel",
         "https://en.wikipedia.org/wiki/Fast_Five"
-      ]
+      ],
+      "objective": "Diesel ist Dom; Paul Walker ist Brian."
     },
     {
       "code": "L2",
@@ -47,7 +47,6 @@
       "correct": 1,
       "short": "Diesel spricht Groot.",
       "context": "Groot ist ein baumartiges Wesen und Rockets Gefährte. Obwohl sein gesprochener Wortschatz stark begrenzt ist, vermittelt die Stimme unterschiedliche Gefühle und Absichten. Regisseur James Gunn erklärte, dass er Diesel für die einzelnen Äußerungen jeweils den gemeinten Inhalt erläuterte. Die Wirkung der Figur hängt dadurch auch an Betonung und Rhythmus, nicht nur an ihrer digitalen Gestalt.",
-      "anchor": "Groot sagt wenig, doch Diesels Stimme verändert die Bedeutung.",
       "interest": "Die Rolle zeigt, wie Schauspiel auch mit sehr wenigen Worten funktioniert.",
       "feedback": [
         "",
@@ -60,7 +59,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)"
-      ]
+      ],
+      "objective": "Groot sagt wenig, doch Diesels Stimme verändert die Bedeutung."
     },
     {
       "code": "M1",
@@ -74,7 +74,6 @@
       "correct": 3,
       "short": "Riddick kann bei sehr wenig Licht sehen.",
       "context": "Nach einem Raumschiffabsturz sitzen die Überlebenden auf einem fremden Planeten fest. Eine Finsternis setzt nachtaktive Raubtiere frei und verändert den Wert der Fähigkeiten innerhalb der Gruppe. Der gefangene Riddick wird durch sein Sehvermögen zum wichtigen Helfer. Sein Nutzen beseitigt jedoch nicht automatisch das Misstrauen gegenüber ihm: Schutz und Abhängigkeit verbinden sich mit der Frage, ob er sich für andere einsetzen wird.",
-      "anchor": "In der Finsternis wird der Gefangene zum möglichen Retter.",
       "interest": "Die Fähigkeit erklärt Riddicks wechselnde Stellung in der bedrohten Gruppe.",
       "feedback": [
         "",
@@ -91,7 +90,8 @@
       ],
       "knowledge_id": "K-SF-202609-P02-L-034",
       "variant_of": "SF-202609-P02-L-034",
-      "knowledge_note": "Gleiches Wissensziel zu Riddicks Sehvermögen."
+      "knowledge_note": "Gleiches Wissensziel zu Riddicks Sehvermögen.",
+      "objective": "In der Finsternis wird der Gefangene zum möglichen Retter."
     },
     {
       "code": "M2",
@@ -105,7 +105,6 @@
       "correct": 0,
       "short": "Xander Cage ist ein Extremsportler und risikofreudiger Stuntstar.",
       "context": "Die NSA setzt nicht auf einen unauffälligen Berufsagenten, sondern auf einen Mann, der durch spektakuläre Aktionen auffällt und sich über Regeln hinwegsetzt. Cage soll einen russischen Verbrecherring unterwandern. Der Film überträgt damit Eigenschaften des Extremsports auf den Agentenfilm: Risikobereitschaft und körperliche Improvisation werden zu Werkzeugen der Mission, während Samuel L. Jacksons Agent Gibbons ihn anleitet.",
-      "anchor": "Cage bringt seine Extremsport-Erfahrung in den Agenteneinsatz mit.",
       "interest": "Die Ausgangsfigur erklärt die besondere Ausrichtung dieses Agentenfilms.",
       "feedback": [
         "Xander Cage ist ein Extremsportler und risikofreudiger Stuntstar.",
@@ -118,7 +117,8 @@
       ],
       "extraSources": [
         "https://www.sonypictures.com/movies/xxx"
-      ]
+      ],
+      "objective": "Cage bringt seine Extremsport-Erfahrung in den Agenteneinsatz mit."
     },
     {
       "code": "S1",
@@ -132,7 +132,6 @@
       "correct": 3,
       "short": "Der Riese orientiert sich an Superman.",
       "context": "Hogarth hat dem außerirdischen Roboter erklärt, dass er selbst entscheiden kann, wer er sein möchte. Als eine Atomrakete die Stadt bedroht, fliegt der Riese ihr entgegen und schützt damit die Menschen. Das Superman-Vorbild verbindet die zuvor betrachteten Comics mit dieser Entscheidung. Die Stimme Diesels begleitet so den Wandel einer gefürchteten Maschine zu einem Wesen, das Verantwortung für andere übernimmt.",
-      "anchor": "Der Riese entscheidet sich für Superman und gegen die Rolle als Waffe.",
       "interest": "Das Finale verbindet die Freundschaftsgeschichte mit der Frage nach freier Entscheidung.",
       "feedback": [
         "",
@@ -145,7 +144,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Iron_Giant"
-      ]
+      ],
+      "objective": "Der Riese entscheidet sich für Superman und gegen die Rolle als Waffe."
     },
     {
       "code": "S2",
@@ -159,7 +159,6 @@
       "correct": 1,
       "short": "Diesel schrieb und inszenierte „Multi-Facial“ selbst; Spielberg wurde auf seine Arbeit aufmerksam.",
       "context": "Diesel beschrieb den Kurzfilm als Möglichkeit, sich mit begrenzten Mitteln selbst Arbeit zu schaffen. Ein zunächst geplantes längeres Projekt war nicht finanzierbar; deshalb drehte er den kürzeren Film. Nach dessen Präsentation in Cannes sah Spielberg ihn und besetzte Diesel in seinem Kriegsfilm. Der Weg nach Hollywood beruhte somit auch auf eigenem Schreiben und Inszenieren.",
-      "anchor": "Ein selbst gedrehter Kurzfilm öffnete Diesel die Tür zu Spielberg.",
       "interest": "Der Karriereschritt zeigt Eigeninitiative jenseits späterer Franchise-Hauptrollen.",
       "feedback": [
         "",
@@ -174,7 +173,8 @@
       "extraSources": [
         "https://www.blackfilm.com/20040604/features/vindiesel.shtml",
         "https://www.blackfilm.com/20050225/features/vindiesel.shtml"
-      ]
+      ],
+      "objective": "Ein selbst gedrehter Kurzfilm öffnete Diesel die Tür zu Spielberg."
     },
     {
       "code": "E1",
@@ -188,7 +188,6 @@
       "correct": 0,
       "short": "Tigon Studios entwickelte Videospiele und erweiterte darin Riddicks Geschichte.",
       "context": "Im Interview zu „Riddick: Chroniken eines Kriegers“ erklärte Diesel, dass ein Spiel zusätzliche Geschichte zeigen konnte. Dazu gehörten Riddicks Vergangenheit und sein Verhältnis zu Johns. Damit beschränkte er seine Beteiligung nicht auf einen einzelnen Film. Die Figur wurde über verschiedene Medien weiterentwickelt, und ein Spiel konnte Zusammenhänge behandeln, die im Kinofilm keinen entsprechenden Raum hatten.",
-      "anchor": "Tigon verlängerte Riddicks Geschichte ins Videospiel.",
       "interest": "Das Ziel erschließt Diesels kreative Arbeit über das Schauspiel hinaus.",
       "feedback": [
         "Tigon Studios entwickelte Videospiele und erweiterte darin Riddicks Geschichte.",
@@ -201,7 +200,8 @@
       ],
       "extraSources": [
         "https://www.blackfilm.com/20040604/features/vindiesel.shtml"
-      ]
+      ],
+      "objective": "Tigon verlängerte Riddicks Geschichte ins Videospiel."
     },
     {
       "code": "E2",
@@ -215,7 +215,6 @@
       "correct": 2,
       "short": "Diesel trainierte Kali mit einem Schwerpunkt auf beidhändigem Kämpfen.",
       "context": "Diesel reiste vor Drehbeginn an, um mit Kämpfern zu trainieren. Im damaligen Interview betonte er besonders das beidhändige Arbeiten des Kali. Die Vorbereitung zielte damit auf einen bestimmten Bewegungsstil für Riddick. Das ergänzt die digitale Welt des Science-Fiction-Films um eine körperlich erarbeitete Darstellungsleistung: Waffenführung und Koordination mussten zunächst eingeübt werden, bevor sie vor der Kamera eingesetzt werden konnten.",
-      "anchor": "Riddicks Bewegungsstil wurde durch beidhändiges Kali-Training vorbereitet.",
       "interest": "Die Frage richtet den Blick auf konkrete körperliche Rollenarbeit.",
       "feedback": [
         "",
@@ -228,7 +227,8 @@
       ],
       "extraSources": [
         "https://www.blackfilm.com/20040604/features/vindiesel.shtml"
-      ]
+      ],
+      "objective": "Riddicks Bewegungsstil wurde durch beidhändiges Kali-Training vorbereitet."
     }
   ]
 }

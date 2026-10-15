@@ -37,12 +37,12 @@
       ],
       "short": "Bandagen und Brille verdecken die fehlende sichtbare Gestalt.",
       "context": "Griffin (Claude Rains) erscheint mit Bandagen und dunkler Brille. Die Verhüllung ermöglicht ihm, wie ein verletzter gewöhnlicher Gast zu wirken. Zugleich macht sie ihn auffällig und weckt die Neugier des Gasthauses. Sein Versuch, ungestört zu forschen, erzeugt so selbst den Anlass für weitere Nachfragen.",
-      "anchor": "Die Verhüllung verbirgt Griffin und zieht zugleich die Aufmerksamkeit auf ihn.",
       "interest": "Erklärt den widersprüchlichen Effekt seines anfänglichen Auftretens.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Verhüllung verbirgt Griffin und zieht zugleich die Aufmerksamkeit auf ihn."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Er sucht ein Gegenmittel für die Folge seines Experiments.",
       "context": "Griffin (Claude Rains) arbeitet im Gasthaus an der Umkehr seiner Unsichtbarkeit. Der scheinbare wissenschaftliche Erfolg hat ihn in eine Lage gebracht, die er selbst nicht vollständig beherrscht. Er braucht Ruhe und Material, verliert jedoch durch sein Verhalten die Möglichkeit, mit seiner Umgebung verlässlich zusammenzuarbeiten.",
-      "anchor": "Griffin sucht die Umkehr eines Erfolgs, dessen Folgen er nicht beherrscht.",
       "interest": "Unterscheidet erreichte Unsichtbarkeit von ihrer kontrollierten Anwendung.",
       "sources": [
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Griffin sucht die Umkehr eines Erfolgs, dessen Folgen er nicht beherrscht."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Monokain wird mit gefährlicher geistiger Veränderung verbunden.",
       "context": "Dr. Cranley (Henry Travers) entdeckt Monokain in Griffins (Claude Rains) Aufzeichnungen. Er kennt eine gefährliche Wirkung auf den Verstand. Die Unsichtbarkeit ist deshalb nicht das einzige Resultat des Versuchs. Die Geschichte verbindet die neue körperliche Macht mit einer Veränderung der Person, die darüber entscheiden soll.",
-      "anchor": "Die neue Macht trifft auf einen durch das Mittel veränderten Verstand.",
       "interest": "Erklärt die Verbindung zwischen Experiment und eskalierendem Verhalten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die neue Macht trifft auf einen durch das Mittel veränderten Verstand."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Sichtbare Kleidungsstücke würden weiterhin seine Position zeigen.",
       "context": "Griffin (Claude Rains) kann seine sichtbaren Kleidungsstücke nicht einfach mit verschwinden lassen. Sein Körper allein trägt die Wirkung des Experiments. Diese Regel gibt der Unsichtbarkeit eine praktische Grenze: Tarnung und Schutz vor dem Wetter passen nicht ohne Weiteres zusammen, obwohl sein Körper den Blicken entgeht.",
-      "anchor": "Der unsichtbare Körper macht sichtbare Kleidung nicht unsichtbar.",
       "interest": "Erklärt eine konkrete Grenze der scheinbar unbegrenzten Fähigkeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der unsichtbare Körper macht sichtbare Kleidung nicht unsichtbar."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Der Schnee macht seine Bewegung am Boden sichtbar.",
       "context": "Die Polizei zwingt Griffin (Claude Rains) aus der Scheune. Seine Fußspuren im Schnee zeigen, wo er sich bewegt. Die Unsichtbarkeit verbirgt seine Gestalt, beseitigt aber seine Berührung mit der Umgebung nicht. Der Schluss nutzt deshalb eine Grenze, die innerhalb der körperlichen Regeln der Geschichte liegt.",
-      "anchor": "Unsichtbarkeit verhindert nicht den Abdruck des Körpers im Schnee.",
       "interest": "Verbindet die Lösung mit einer materiellen Grenze des Experiments.",
       "sources": [
         "afi"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Unsichtbarkeit verhindert nicht den Abdruck des Körpers im Schnee."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Der Körper wird im Sterben wieder sichtbar.",
       "context": "Griffin (Claude Rains) wird im Sterben wieder sichtbar, während Flora (Gloria Stuart) bei ihm ist. Der Film zeigt damit seine menschliche Gestalt erst nach dem Zusammenbruch seines Machtanspruchs. Die Sichtbarkeit kommt zu spät, um den Alltag zurückzubringen, lässt aber den Menschen hinter der spektakulären Fähigkeit erkennen.",
-      "anchor": "Erst am Ende seiner Macht und seines Lebens wird Griffin wieder sichtbar.",
       "interest": "Erklärt die Bedeutung der späten sichtbaren Gestalt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Erst am Ende seiner Macht und seines Lebens wird Griffin wieder sichtbar."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "1933 liegt 75 Jahre vor der Aufnahme von 2008.",
       "context": "Der Unsichtbare erschien 1933. Die Library of Congress nahm den Film 2008 in das National Film Registry auf, 75 Jahre später. Der zeitliche Abstand verbindet eine frühe Tonfilm-Horrorproduktion mit ihrer langfristigen kulturellen Anerkennung. Die historische Würdigung betrifft diese konkrete Fassung mit Claude Rains.",
-      "anchor": "1933 der Film, 2008 das Registry: 75 Jahre bis zur historischen Würdigung.",
       "interest": "Verbindet das Veröffentlichungsjahr mit einer späteren belegten kulturellen Anerkennung.",
       "sources": [
         "registry"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "1933 der Film, 2008 das Registry: 75 Jahre bis zur historischen Würdigung."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Whale inszenierte diese Universal-Fassung.",
       "context": "James Whale inszenierte die Verfilmung des Stoffes von H. G. Wells. Claude Rains vermittelt die Hauptfigur lange über Stimme, Bewegung und Verhüllung. Die Inszenierung muss dadurch eine Person erfahrbar halten, deren Gesicht größtenteils fehlt. Der Regiecredit gehört zu dieser frühen Universal-Produktion und ihrem besonderen Schauspielproblem.",
-      "anchor": "Whale inszeniert einen Helden, dessen Stimme lange sein sichtbares Gesicht ersetzt.",
       "interest": "Verbindet die Regie mit dem konkreten Darstellungsproblem des Films.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Whale inszeniert einen Helden, dessen Stimme lange sein sichtbares Gesicht ersetzt."
     }
   ]
 }

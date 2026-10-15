@@ -18,7 +18,6 @@
       "correct": 1,
       "short": "Bancroft spielt Mrs. Robinson.",
       "context": "Benjamin Braddock (Dustin Hoffman) kehrt vom College zurück und weiß wenig mit seiner Zukunft anzufangen. Mrs. Robinson, eine Freundin seiner Eltern, beginnt eine Affäre mit ihm. Als Benjamin sich für ihre Tochter Elaine (Katharine Ross) interessiert, wird aus der zunächst scheinbar kontrollierten Beziehung ein Konflikt zwischen den Generationen und innerhalb derselben Familie.",
-      "anchor": "Mrs. Robinson verführt den Sohn befreundeter Eltern.",
       "interest": "Das Ziel erschließt eine prägende Rolle und ihre Stellung im Beziehungsgefüge.",
       "feedback": [
         "",
@@ -34,7 +33,8 @@
       ],
       "variant_of": "DRA-202610-P01-L-006",
       "knowledge_id": "K-DRA-202610-P01-L-006",
-      "knowledge_note": "Umgekehrte Perspektive auf das vorhandene Besetzungsziel."
+      "knowledge_note": "Umgekehrte Perspektive auf das vorhandene Besetzungsziel.",
+      "objective": "Mrs. Robinson verführt den Sohn befreundeter Eltern."
     },
     {
       "code": "L2",
@@ -48,7 +48,6 @@
       "correct": 2,
       "short": "Annie Sullivan unterrichtet Helen Keller.",
       "context": "Helen (Patty Duke) kann weder sehen noch hören. Annie muss eine Verbindung zwischen tastbaren Zeichen und der Welt herstellen. Dafür widerspricht sie auch der nachgiebigen Behandlung innerhalb der Familie. Der Film macht Lernen zu einer körperlich anstrengenden Zusammenarbeit, in der Zuneigung allein noch keine Verständigung schafft.",
-      "anchor": "Annie Sullivan öffnet Helen Keller einen Zugang zur Sprache.",
       "interest": "Die Frage benennt das Verhältnis der beiden Hauptfiguren.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "extraSources": [
         "https://watch.afi.com/movie/the-miracle-worker"
-      ]
+      ],
+      "objective": "Annie Sullivan öffnet Helen Keller einen Zugang zur Sprache."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 1,
       "short": "Sie sprechen miteinander aus „Romeo und Julia“.",
       "context": "Die Schauspielerin besucht Merrick im Krankenhaus und bringt Bücher und ein Porträt mit. Beim gemeinsamen Sprechen nimmt sie ihn als gleichberechtigten Spielpartner wahr. Später ermöglicht sie ihm einen Theaterabend, bei dem das Publikum ihm Beifall spendet. Diese Begegnungen stehen den bezahlten Schaustellungen gegenüber, in denen sein Körper vorgeführt wurde, während seine Persönlichkeit kaum zählen durfte.",
-      "anchor": "Mrs. Kendal macht Merrick zum Spielpartner statt zum Schauobjekt.",
       "interest": "Die Szene zeigt gesellschaftliche Anerkennung durch gemeinsames kulturelles Handeln.",
       "feedback": [
         "",
@@ -88,7 +87,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Catalog/moviedetails/56402"
-      ]
+      ],
+      "objective": "Mrs. Kendal macht Merrick zum Spielpartner statt zum Schauobjekt."
     },
     {
       "code": "M2",
@@ -102,7 +102,6 @@
       "correct": 0,
       "short": "Emma setzte ihre Ballettkarriere fort, während Deedee sich für ein Familienleben entschied.",
       "context": "Als die frühere Kompanie nach Oklahoma kommt, begegnen sich die beiden alten Freundinnen wieder. Emmas Laufbahn nähert sich dem Ende; Deedees Tochter Emilia (Leslie Browne) steht dagegen am Anfang einer Tanzkarriere. Jede Frau sieht in der anderen das nicht gelebte Leben. Erfolg und Verzicht lassen sich deshalb weder eindeutig der Karriere noch eindeutig der Familie zuschreiben.",
-      "anchor": "Emma und Deedee begegnen einander als mögliche Gegenleben.",
       "interest": "Die Frage erschließt den zentralen Vergleich zweier weiblicher Lebenswege.",
       "feedback": [
         "Emma setzte ihre Ballettkarriere fort, während Deedee sich für ein Familienleben entschied.",
@@ -115,7 +114,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/55915-THE-TURNINGPOINT"
-      ]
+      ],
+      "objective": "Emma und Deedee begegnen einander als mögliche Gegenleben."
     },
     {
       "code": "S1",
@@ -129,7 +129,6 @@
       "correct": 0,
       "short": "Agnes ist Mutter Miriams Nichte.",
       "context": "Die Psychiaterin Martha Livingston (Jane Fonda) untersucht den Tod von Agnes’ Neugeborenem. Die Oberin will die junge Frau vor der Untersuchung schützen und beruft sich auf ihre Unschuld. Erst die Klosterakten enthüllen die Verwandtschaft. Damit erhält Miriams Widerstand eine persönliche Vorgeschichte; die Auseinandersetzung zwischen Glauben und psychiatrischer Aufklärung betrifft zugleich ihre eigene Familie.",
-      "anchor": "Der Schutz der Novizin ist auch eine persönliche Familienangelegenheit.",
       "interest": "Die Enthüllung verändert das Verständnis der scheinbar rein geistlichen Autorität.",
       "feedback": [
         "Agnes ist Mutter Miriams Nichte.",
@@ -142,7 +141,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/55720-AGNES-OFGOD"
-      ]
+      ],
+      "objective": "Der Schutz der Novizin ist auch eine persönliche Familienangelegenheit."
     },
     {
       "code": "S2",
@@ -156,7 +156,6 @@
       "correct": 3,
       "short": "Jo lässt eine vorsichtige, keineswegs unbeschwerte Versöhnung zu.",
       "context": "Jo hat unter Jakes Untreue gelitten und sich in eine renovierte Mühle zurückgezogen. Am Morgen bringt er mit den Kindern Essen. Sie nimmt die angebotene Bierdose an; die Geste erinnert an eine glücklichere Zeit. Bancrofts Darstellung lässt dabei Enttäuschung und Bindung nebeneinander bestehen. Das Ende löst die Eheprobleme nicht durch eine plötzliche Verwandlung ihres Mannes auf.",
-      "anchor": "Die angenommene Bierdose markiert einen vorsichtigen Schritt zurück.",
       "interest": "Das Ziel fragt nach dem offenen emotionalen Zustand des Endes.",
       "feedback": [
         "",
@@ -169,7 +168,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Pumpkin_Eater"
-      ]
+      ],
+      "objective": "Die angenommene Bierdose markiert einen vorsichtigen Schritt zurück."
     },
     {
       "code": "E1",
@@ -183,7 +183,6 @@
       "correct": 2,
       "short": "Sie studierte das Fingeralphabet, simulierte Blindheit und beobachtete Kinder mit Behinderungen.",
       "context": "Bancroft und Patty Duke hatten ihre Rollen bereits auf der Bühne gespielt. Für den Film überprüfte Bancroft die Grundlagen ihrer Darstellung weiter. Die Vorbereitung betraf sowohl Kommunikation als auch räumliche Wahrnehmung. Annie selbst hatte eine schwere Sehbeeinträchtigung erlebt; die Lehrerin ist daher keine vollkommen außenstehende Helferin in Helens Welt.",
-      "anchor": "Die körperliche Vorbereitung ergänzte die Erfahrung aus der Bühnenrolle.",
       "interest": "Das Ziel zeigt konkrete Recherchewerkzeuge für eine anspruchsvolle Darstellung.",
       "feedback": [
         "",
@@ -196,7 +195,8 @@
       ],
       "extraSources": [
         "https://catalog.afi.com/Film/23284-THE-MIRACLE-WORKER"
-      ]
+      ],
+      "objective": "Die körperliche Vorbereitung ergänzte die Erfahrung aus der Bühnenrolle."
     },
     {
       "code": "E2",
@@ -210,7 +210,6 @@
       "correct": 3,
       "short": "Bancroft wollte möglichst viele Schlüsselpositionen mit Frauen besetzen.",
       "context": "Nach ihrer Teilnahme am AFI Directing Workshop for Women schrieb und inszenierte Bancroft die Komödie mit Dom DeLuise. Produzent Jonathan Sanger erinnerte sich an ihre entsprechende Vorgabe für das Team. Brianne Murphy übernahm die Kamera. Das Projekt eröffnete damit auch anderen Frauen Arbeitsmöglichkeiten in Bereichen, in denen sie im amerikanischen Studiobetrieb selten vertreten waren.",
-      "anchor": "Bancrofts Regiedebüt schuf auch Arbeitsmöglichkeiten hinter der Kamera.",
       "interest": "Der Produktionskontext zeigt ihre praktische Gestaltungsmacht über die eigene Rolle hinaus.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       "extraSources": [
         "https://www.afi.com/news/mel-brooks-and-the-elephant-man-afi-catalog-spotlight/",
         "https://catalog.afi.com/Catalog/MovieDetails/56408"
-      ]
+      ],
+      "objective": "Bancrofts Regiedebüt schuf auch Arbeitsmöglichkeiten hinter der Kamera."
     }
   ]
 }

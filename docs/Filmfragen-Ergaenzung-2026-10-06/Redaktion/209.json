@@ -36,12 +36,12 @@
       ],
       "short": "Beide arbeiten für die Washington Post.",
       "context": "Beide arbeiten für die Washington Post. Die Redaktion hält ihre Arbeit zunächst für eine kleine Lokalgeschichte; die wachsende Verknüpfung der Quellen macht daraus eine Recherche mit nationalen politischen Folgen.",
-      "anchor": "Die Lokalgeschichte wächst innerhalb der Washington Post.",
       "interest": "Die Lokalgeschichte wächst innerhalb der Washington Post.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Lokalgeschichte wächst innerhalb der Washington Post."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Ein Einbruch in die Parteibüros im Watergate-Komplex eröffnet die Recherche.",
       "context": "Ein Einbruch in die Parteibüros im Watergate-Komplex eröffnet die Recherche. Die zunächst kleinen Auffälligkeiten bei Tätern und Rechtsvertretung führen Woodward (Robert Redford) und Bernstein (Dustin Hoffman) über den einzelnen Tatort hinaus.",
-      "anchor": "Der Einbruch öffnet die Verbindung zu größerer politischer Macht.",
       "interest": "Der Einbruch öffnet die Verbindung zu größerer politischer Macht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Einbruch öffnet die Verbindung zu größerer politischer Macht."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Woodward trifft Deep Throat (Hal Holbrook) nachts in einer Tiefgarage.",
       "context": "Woodward trifft Deep Throat (Hal Holbrook) nachts in einer Tiefgarage. Die heimliche Form schützt die Quelle; ihre Andeutungen ersetzen jedoch nicht die zusätzlichen Belege, die die Redaktion für eine Veröffentlichung verlangt.",
-      "anchor": "Die vertrauliche Quelle weist den Weg, ersetzt aber keine Bestätigung.",
       "interest": "Die vertrauliche Quelle weist den Weg, ersetzt aber keine Bestätigung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die vertrauliche Quelle weist den Weg, ersetzt aber keine Bestätigung."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Bradlee verlangt belastbare Bestätigung.",
       "context": "Bradlee verlangt belastbare Bestätigung. Die Recherche darf nicht allein von einer geheimen Quelle abhängen; die mühsame Suche nach zusätzlichen Aussagen macht journalistische Sorgfalt zu einem wesentlichen Konflikt des Films.",
-      "anchor": "Die große Behauptung braucht mehr als den einzelnen vertraulichen Hinweis.",
       "interest": "Die große Behauptung braucht mehr als den einzelnen vertraulichen Hinweis.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die große Behauptung braucht mehr als den einzelnen vertraulichen Hinweis."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Woodward (Robert Redford) und Bernstein (Dustin Hoffman) verfolgen Geldflüsse zu Wahlkampfmitteln.",
       "context": "Woodward (Robert Redford) und Bernstein (Dustin Hoffman) verfolgen Geldflüsse zu Wahlkampfmitteln. Die Zahlungen verbinden scheinbar getrennte Täter und Einrichtungen; finanzielle Dokumente machen die organisatorische Struktur hinter einzelnen Aussagen überprüfbar.",
-      "anchor": "Die Geldspur verbindet Tat und Wahlkampfapparat.",
       "interest": "Die Geldspur verbindet Tat und Wahlkampfapparat.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Geldspur verbindet Tat und Wahlkampfapparat."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Die Reporter arbeiten weiter, während Nixons zweite Amtseinführung im Fernsehen läuft.",
       "context": "Die Reporter arbeiten weiter, während Nixons zweite Amtseinführung im Fernsehen läuft. Spätere Fernschreiber-Schlagzeilen führen bis zum Rücktritt; der Film trennt den langen Rechercheprozess von einem einzelnen triumphalen Konfrontationsmoment.",
-      "anchor": "Die laufende Recherche steht neben dem sichtbaren politischen Erfolg.",
       "interest": "Die laufende Recherche steht neben dem sichtbaren politischen Erfolg.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die laufende Recherche steht neben dem sichtbaren politischen Erfolg."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1976 erschien die Verfilmung.",
       "context": "1976 erschien die Verfilmung. Woodward und Bernsteins Buch war 1974 veröffentlicht worden, im Jahr von Nixons Rücktritt. Zwei Jahre trennen Bericht und Film; der auslösende Einbruch liegt bereits 1972 und gehört zur recherchierten Vergangenheit.",
-      "anchor": "Einbruch 1972, Buch und Nixons Rücktritt 1974, Film 1976: Zwei Zweijahresschritte ordnen Recherche und Rückblick.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Einbruch 1972, Buch und Nixons Rücktritt 1974, Film 1976: Zwei Zweijahresschritte ordnen Recherche und Rückblick."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Alan J.",
       "context": "Alan J. Pakula inszenierte William Goldmans Drehbuch. Robert Redford spielt Bob Woodward, Dustin Hoffman Carl Bernstein. Die Regie macht Telefonate, Akten und Quellenbestätigung zur dramatischen Handlung, statt die Aufklärung allein durch einen spektakulären persönlichen Zugriff zu erzählen.",
-      "anchor": "Alan J.",
       "interest": "Alan J.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Alan J."
     }
   ]
 }

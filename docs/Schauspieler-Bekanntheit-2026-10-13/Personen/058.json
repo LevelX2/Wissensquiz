@@ -18,7 +18,6 @@
       "correct": 0,
       "short": "Georges war Musiklehrer.",
       "context": "Georges und Anne leben als kultiviertes älteres Paar in Paris. Nach Annes Erkrankung verwandelt sich ihr gemeinsamer Alltag in eine Situation zunehmender Pflege und Abhängigkeit. Musik verweist auf ein langes geteiltes Leben, dessen Selbstverständlichkeit verloren geht. Trintignant stellt Georges’ Verantwortung mit kleinen Handlungen und Reaktionen dar, während der Film weitgehend in der Wohnung des Paares bleibt.",
-      "anchor": "Das Paar teilt eine musikalische Vergangenheit und einen zunehmend schwierigen Alltag.",
       "interest": "Der frühere Beruf verankert die gemeinsame Lebenswelt der Figuren.",
       "feedback": [
         "Georges war Musiklehrer.",
@@ -35,7 +34,8 @@
       ],
       "knowledge_id": "K-E20261007-F-044-L1",
       "variant_of": "E20261007-F-044-L1",
-      "knowledge_note": "Neu formulierte Variante desselben vorhandenen Wissensziels."
+      "knowledge_note": "Neu formulierte Variante desselben vorhandenen Wissensziels.",
+      "objective": "Das Paar teilt eine musikalische Vergangenheit und einen zunehmend schwierigen Alltag."
     },
     {
       "code": "L2",
@@ -49,7 +49,6 @@
       "correct": 1,
       "short": "Jean-Louis Duroc ist Rennfahrer.",
       "context": "Duroc und Anne Gauthier (Anouk Aimée) sind verwitwet und begegnen einander über ihre Kinder. Seine beruflichen Reisen und ihre Erinnerungen an den verstorbenen Mann beeinflussen die Annäherung. Die Liebesgeschichte verbindet so die Möglichkeit eines Neubeginns mit einer Vergangenheit, die nicht einfach verschwindet. Trintignants zurückhaltendes Spiel steht neben den wechselnden Bildern von Fahrten, Begegnungen und Erinnerungen.",
-      "anchor": "Ein Rennfahrer sucht nach dem Verlust seiner Frau eine neue Nähe.",
       "interest": "Die Berufsfrage ordnet die Figur innerhalb der Liebesgeschichte ein.",
       "feedback": [
         "",
@@ -62,7 +61,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/A_Man_and_a_Woman"
-      ]
+      ],
+      "objective": "Ein Rennfahrer sucht nach dem Verlust seiner Frau eine neue Nähe."
     },
     {
       "code": "M1",
@@ -76,7 +76,6 @@
       "correct": 3,
       "short": "Der Auftrag richtet sich gegen seinen früheren Professor, einen Antifaschisten im Pariser Exil.",
       "context": "Clerici nutzt die Hochzeitsreise als Deckung für eine Mission der faschistischen Geheimpolizei. Professor Quadri steht für eine geistige Vergangenheit, von der Clerici sich zugunsten vermeintlicher Normalität lösen will. Trintignants Figur führt den Mord nicht selbst aus, lässt die Gewalt aber geschehen. Der Film macht Anpassung dadurch als aktives Versagen erkennbar, auch wenn sie sich hinter Passivität verbirgt.",
-      "anchor": "Die Hochzeitsreise verbirgt den Verrat am früheren Lehrer.",
       "interest": "Das Ziel konkretisiert den Zusammenhang zwischen Anpassung, persönlicher Geschichte und politischem Mord.",
       "feedback": [
         "",
@@ -89,7 +88,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Conformist_(1970_film)"
-      ]
+      ],
+      "objective": "Die Hochzeitsreise verbirgt den Verrat am früheren Lehrer."
     },
     {
       "code": "M2",
@@ -103,7 +103,6 @@
       "correct": 1,
       "short": "Der Untersuchungsrichter verfolgt die Verantwortlichkeit bis zu hohen Offizieren.",
       "context": "Die Behörden möchten den Anschlag als Unfall behandeln und die Verbindung zwischen den Tätern und dem Staatsapparat verdecken. Der Richter hält an der Auswertung von Zeugenaussagen und Belegen fest. Sein Erfolg bedeutet allerdings keinen dauerhaften Sieg der Justiz: Der Nachspann berichtet von der späteren Unterdrückung der Aufklärung. Trintignants sachliche Beharrlichkeit steht damit einer politisch organisierten Gewalt gegenüber.",
-      "anchor": "Die Untersuchung endet nicht bei den Männern, die den Schlag ausgeführt haben.",
       "interest": "Die Frage erschließt die Reichweite seiner Ermittlungsarbeit und ihre politischen Grenzen.",
       "feedback": [
         "",
@@ -116,7 +115,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Z_(1969_film)"
-      ]
+      ],
+      "objective": "Die Untersuchung endet nicht bei den Männern, die den Schlag ausgeführt haben."
     },
     {
       "code": "S1",
@@ -130,7 +130,6 @@
       "correct": 2,
       "short": "Kern hört die Telefongespräche seiner Nachbarn ab.",
       "context": "Valentine (Irène Jacob) begegnet Kern, nachdem sie seinen Hund angefahren hat. Seine Kenntnis fremder Leben beruht auf einem Übergriff, den sie nicht hinnehmen will. Aus diesem Konflikt entwickelt sich dennoch eine Beziehung. Der ehemalige Richter muss sich selbst einer moralischen Prüfung stellen: Wissen über andere Menschen ersetzt weder Anteilnahme noch das Recht, über ihr Leben zu verfügen.",
-      "anchor": "Der frühere Richter beobachtet fremde Leben durch illegales Mithören.",
       "interest": "Das Ziel betrifft den moralischen Ausgangspunkt einer ungewöhnlichen Freundschaft.",
       "feedback": [
         "",
@@ -144,7 +143,8 @@
       "extraSources": [
         "https://www.criterion.com/films/27733-three-colors-red",
         "https://en.wikipedia.org/wiki/Three_Colours:_Red"
-      ]
+      ],
+      "objective": "Der frühere Richter beobachtet fremde Leben durch illegales Mithören."
     },
     {
       "code": "S2",
@@ -158,7 +158,6 @@
       "correct": 2,
       "short": "Silence und Pauline werden getötet; die Kopfgeldjäger behalten die Oberhand.",
       "context": "Der verletzte Silence tritt den Kopfgeldjägern trotz seiner schlechten Aussichten entgegen. Corbucci verweigert dem Helden den rettenden Sieg und lässt anschließend auch die Gefangenen töten. Es existieren anders montierte oder zusätzlich gedrehte Schlussvarianten, doch sie ändern nicht den Ausgang der regulären Kinofassung. Trintignants Figur gehört damit zu einem Western, der den Trost einer wiederhergestellten Ordnung ausdrücklich zurückweist.",
-      "anchor": "Dieser Western lässt seinen Beschützer scheitern und die Täter gewinnen.",
       "interest": "Das Ende erklärt die bewusste Umkehr einer vertrauten Genreerwartung.",
       "feedback": [
         "",
@@ -171,7 +170,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/The_Great_Silence"
-      ]
+      ],
+      "objective": "Dieser Western lässt seinen Beschützer scheitern und die Täter gewinnen."
     },
     {
       "code": "E1",
@@ -185,7 +185,6 @@
       "correct": 0,
       "short": "Die Gespräche beziehen sich auf Blaise Pascal und seine Wette.",
       "context": "Jean-Louis ist ein katholischer Ingenieur, Vidal ein atheistischer Marxist. Ihre Gespräche verbinden Wahrscheinlichkeit, religiösen Glauben und Entscheidungen, deren Folgen nicht sicher vorhersehbar sind. Die spätere Begegnung mit Maud führt diese Fragen in eine private Situation. Trintignants Figur formuliert Grundsätze, die durch Anziehung, Zufall und Selbstrechtfertigung auf ihre Belastbarkeit geprüft werden.",
-      "anchor": "Pascals Wette verbindet Glaubensentscheidung und unsicheren Ausgang.",
       "interest": "Das philosophische Bezugssystem erklärt, weshalb die Gespräche zur Handlung gehören.",
       "feedback": [
         "Die Gespräche beziehen sich auf Blaise Pascal und seine Wette.",
@@ -199,7 +198,8 @@
       "extraSources": [
         "https://www.criterion.com/films/791",
         "https://en.wikipedia.org/wiki/My_Night_at_Maud%27s"
-      ]
+      ],
+      "objective": "Pascals Wette verbindet Glaubensentscheidung und unsicheren Ausgang."
     },
     {
       "code": "E2",
@@ -213,7 +213,6 @@
       "correct": 3,
       "short": "Lelouch flüsterte Text während der Aufnahme zu und verzichtete für die Wiederbegegnung auf Vorproben.",
       "context": "Der Regisseur wollte die Reaktion des lange vertrauten Filmpaars unmittelbar mit der Kamera erfassen. Die Szene folgte einem genauen Text, sollte aber die Frische einer neu erlebten Begegnung behalten. Die Methode verbindet daher Vorbereitung mit Überraschung. Trintignant und Aimée kehrten zu Figuren aus „Ein Mann und eine Frau“ zurück; frühere Filmbilder machten ihre gemeinsame Vergangenheit zusätzlich sichtbar.",
-      "anchor": "Vorbereitete Worte sollten wie eine gerade entstehende Begegnung wirken.",
       "interest": "Die Frage gibt Einblick in eine konkrete Methode der Schauspielerführung.",
       "feedback": [
         "",
@@ -227,7 +226,8 @@
       ],
       "extraSources": [
         "https://cdn.festival-cannes.com/media/uploads/2023/03/96004.pdf"
-      ]
+      ],
+      "objective": "Vorbereitete Worte sollten wie eine gerade entstehende Begegnung wirken."
     }
   ]
 }

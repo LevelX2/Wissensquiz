@@ -49,13 +49,13 @@
       ],
       "short": "Er will die Einnahmen des großen Renntags rauben.",
       "context": "Johnny Clay (Sterling Hayden) nutzt Insider, die an der Rennbahn arbeiten. Die hohen Einnahmen eines Renntags und der gleichzeitige Publikumsbetrieb sollen den Raub ermöglichen. Der scheinbar präzise Plan verteilt begrenzte Aufgaben auf mehrere Männer. Sein Gelingen hängt deshalb nicht allein von Johnnys Können, sondern auch von deren Verhalten und Verschwiegenheit ab.",
-      "anchor": "Die Rennbahnkasse verlangt einen abgestimmten Plan mit mehreren Beteiligten.",
       "interest": "Das Ziel erklärt die besonderen Voraussetzungen des Überfalls.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Rennbahnkasse verlangt einen abgestimmten Plan mit mehreren Beteiligten."
     },
     {
       "code": "L2",
@@ -74,13 +74,13 @@
       ],
       "short": "Der Raub soll ihre gemeinsame Abreise finanzieren.",
       "context": "Fay (Coleen Gray) wartet auf ein gemeinsames Leben mit Johnny Clay (Sterling Hayden). Für ihn soll der Überfall die finanziellen Voraussetzungen dieser Zukunft schaffen. Der Plan besitzt dadurch ein persönliches Ziel außerhalb der Gruppe. Am Flughafen treffen schließlich die private Hoffnung und die materiellen Folgen des Raubs unmittelbar aufeinander.",
-      "anchor": "Der Raub soll Johnnys und Fays gemeinsamen Aufbruch ermöglichen.",
       "interest": "Die Beziehung erklärt, weshalb die Flucht mehr als ein letzter technischer Schritt ist.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Raub soll Johnnys und Fays gemeinsamen Aufbruch ermöglichen."
     },
     {
       "code": "M1",
@@ -99,13 +99,13 @@
       ],
       "short": "Die Schlägerei zieht Bewacher von der Geldkammer weg.",
       "context": "Maurice (Kola Kwariani) kennt nur seine eigene Aufgabe und erhält dafür einen festen Betrag. Sein Tumult bindet die Sicherheitspersonen, während Johnny (Sterling Hayden) den Geldraum erreicht. Diese Arbeitsteilung begrenzt das Wissen der angeworbenen Helfer. Der Gesamtraub funktioniert durch die zeitliche Verbindung von Vorgängen, die einzeln wie voneinander unabhängige Störungen wirken.",
-      "anchor": "Maurices Barszene zieht die Bewacher zur passenden Zeit ab.",
       "interest": "Der Zusammenhang erklärt die Funktion einer vorbereiteten Ablenkung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Maurices Barszene zieht die Bewacher zur passenden Zeit ab."
     },
     {
       "code": "M2",
@@ -124,13 +124,13 @@
       ],
       "short": "George vertraut seiner Frau; sie gibt das Wissen an ihren Liebhaber weiter.",
       "context": "George Peatty (Elisha Cook Jr.) will Sherry (Marie Windsor) mit dem kommenden Geld beeindrucken. Sie teilt die Information mit Val (Vince Edwards), der den Räubern die Beute abnehmen will. Die Sicherheitslücke liegt damit nicht in der Organisation der Rennbahn, sondern in einer Beziehung außerhalb des Plans. Georges Wunsch nach Anerkennung wird zum Zugang für den zweiten Überfall.",
-      "anchor": "Georges erhoffte Anerkennung öffnet über Sherry den Zugang für Val.",
       "interest": "Die Frage erklärt die private Ursache einer organisatorischen Katastrophe.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Georges erhoffte Anerkennung öffnet über Sherry den Zugang für Val."
     },
     {
       "code": "S1",
@@ -149,12 +149,12 @@
       ],
       "short": "Der zuvor beleidigte Wachmann hatte das Hufeisen auf den Boden geworfen.",
       "context": "Der Wachmann (James Edwards) will Nikki (Timothy Carey) mit einem Hufeisen Glück wünschen. Nikki weist ihn rassistisch zurück; der Mann wirft das Geschenk fort. Später fährt Nikki darüber und verliert seine Fluchtmöglichkeit. Die Störung des großen Plans entsteht hier aus seinem eigenen Verhalten gegenüber einem Menschen, der ihm zunächst geholfen hatte.",
-      "anchor": "Nikkis Beleidigung macht das Glücksgeschenk zur Ursache seines Fluchtversagens.",
       "interest": "Die Szene verbindet eine persönliche Handlung mit einer materiellen Folge.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Nikkis Beleidigung macht das Glücksgeschenk zur Ursache seines Fluchtversagens."
     },
     {
       "code": "S2",
@@ -173,13 +173,13 @@
       ],
       "short": "Der schlecht geschlossene Koffer platzt auf dem Rollfeld auf.",
       "context": "Johnny (Sterling Hayden) darf den großen Koffer nicht als Handgepäck mitnehmen. Auf dem Rollfeld gerät der Gepäcktransport außer Kontrolle; der Koffer fällt und öffnet sich. Der Propellerwind verteilt das Geld. Nach der sorgfältigen Planung scheitert seine Zukunft dadurch an einem alltäglichen Transportvorgang, den er weder vorbereitet noch beherrscht hat.",
-      "anchor": "Der unbeeinflussbare Gepäcktransport vernichtet die Kontrolle über die Beute.",
       "interest": "Der Schluss verbindet Planung mit einer banalen, endgültigen Zufallsfolge.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der unbeeinflussbare Gepäcktransport vernichtet die Kontrolle über die Beute."
     },
     {
       "code": "Y",
@@ -198,14 +198,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1956.",
       "context": "The Killing erschien 1956 als erste gemeinsame Langfilmproduktion von Stanley Kubrick und James B. Harris. Im folgenden Jahr entstand Paths of Glory von 1957. Die Folge verbindet eine genau geplante kriminelle Operation mit einem militärischen Unternehmen, dessen Verantwortung nach dem Scheitern verschoben wird. Beide Projekte gehören zur frühen Zusammenarbeit desselben Regie- und Produktionsteams.",
-      "anchor": "The Killing 1956 → Paths of Glory 1957: im folgenden Filmjahr, mit Kubrick und Harris.",
       "interest": "Die Verbindung ordnet den Film in eine konkrete frühe Zusammenarbeit ein.",
       "sources": [
         "wiki",
         "afi",
         "paths"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "The Killing 1956 → Paths of Glory 1957: im folgenden Filmjahr, mit Kubrick und Harris."
     },
     {
       "code": "D",
@@ -224,13 +224,13 @@
       ],
       "short": "Stanley Kubrick führte bei diesem Film Regie.",
       "context": "Stanley Kubrick inszenierte die Adaption, Jim Thompson schrieb die Dialoge, James B. Harris produzierte. Die Handlung kehrt mehrfach zu denselben Zeitpunkten zurück und folgt dann anderen Beteiligten. Ein Erzähler nennt die zeitlichen Abstände. Das Verfahren macht den Ablauf einer koordinierten Operation nachvollziehbar und lässt zugleich sichtbar werden, wo private Entscheidungen die gemeinsame Planung gefährden.",
-      "anchor": "Kubrick rekonstruiert den Überfall durch zeitlich versetzte Perspektiven auf denselben Ablauf.",
       "interest": "Der Regiehintergrund erklärt eine zentrale Eigenschaft der Erzählstruktur.",
       "sources": [
         "wiki",
         "afi"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Kubrick rekonstruiert den Überfall durch zeitlich versetzte Perspektiven auf denselben Ablauf."
     }
   ],
   "category": "Classics"

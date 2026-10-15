@@ -31,11 +31,11 @@
       ],
       "short": "Jamie arbeitet im Außendienst eines Pharmaunternehmens.",
       "context": "Jamie Randall (Jake Gyllenhaal) findet nach dem Verlust seiner vorherigen Arbeit eine Stelle im Arzneimittelvertrieb. Er soll Ärzte dazu bewegen, die Produkte seines Unternehmens zu verschreiben. Sein Charme und seine Verkaufsstrategien verschaffen ihm Zugang zu den Praxen. In diesem beruflichen Umfeld begegnet er Maggie Murdock (Anne Hathaway); die Romanze entsteht damit mitten in einer von Wettbewerb geprägten Branche.",
-      "anchor": "Der Verkäufer gelangt über Arztpraxen in Maggies Leben.",
       "interest": "Der Beruf verbindet Liebesgeschichte und Geschäftswelt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Verkäufer gelangt über Arztpraxen in Maggies Leben."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Maggie lebt mit früh einsetzender Parkinson-Erkrankung.",
       "context": "Maggie Murdock (Anne Hathaway) lebt schon als junge Frau mit Parkinson. Die Erkrankung beeinflusst ihren Alltag und ihre Erwartungen an eine Partnerschaft. Jamie Randall (Jake Gyllenhaal) muss lernen, dass seine berufliche Nähe zur Arzneimittelbranche ihm keine einfache Lösung für ihre Situation verschafft. Für die Handlung ist entscheidend, wie beide mit Unsicherheit und möglichen Belastungen einer gemeinsamen Zukunft umgehen.",
-      "anchor": "Die Erkrankung stellt die gemeinsame Zukunft infrage.",
       "interest": "Die Diagnose erklärt den Grundkonflikt der Beziehung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Erkrankung stellt die gemeinsame Zukunft infrage."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Jamie beseitigt die Arzneimittelmuster seines Konkurrenten.",
       "context": "Jamie Randall (Jake Gyllenhaal) soll sein eigenes Produkt gegen eine bereits etablierte Konkurrenz durchsetzen. In den Praxen wirft er deshalb die dort vorhandenen Prozac-Muster weg. Der Eingriff zeigt, wie wenig zurückhaltend er den Vertrieb zunächst betreibt. Die Szene macht den Wettbewerb konkret: Es geht um den Platz im Praxisalltag und um die Entscheidung der Ärzte, welche Mittel sie verschreiben.",
-      "anchor": "Freier Platz für eigene Muster entsteht durch das Wegwerfen fremder.",
       "interest": "Die konkrete Verkaufstaktik zeigt Jamies anfängliche Skrupellosigkeit.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Freier Platz für eigene Muster entsteht durch das Wegwerfen fremder."
     },
     {
       "code": "M2",
@@ -100,11 +100,11 @@
       ],
       "short": "Die Reisenden wollen in Kanada günstiger Medikamente kaufen.",
       "context": "Maggie Murdock (Anne Hathaway) unterstützt ältere Menschen bei einer Fahrt nach Kanada, wo diese preiswerter an ihre Medikamente kommen. Jamie Randall (Jake Gyllenhaal) wartet auf ihre Rückkehr und macht dadurch seine Nähe zu ihr sichtbar. Die Reise erweitert zugleich den Blick auf die Arzneimittelwelt: Neben dem Verkaufserfolg stehen Menschen, für die die Kosten der Versorgung ein ganz praktisches Problem sind.",
-      "anchor": "Der Grenzübertritt dient einem günstigeren Einkauf.",
       "interest": "Die Episode verbindet den sozialen Blick mit der zentralen Branche.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Grenzübertritt dient einem günstigeren Einkauf."
     },
     {
       "code": "S1",
@@ -123,11 +123,11 @@
       ],
       "short": "Maggie fühlt sich nur unter der Bedingung einer Heilung angenommen.",
       "context": "Jamie Randall (Jake Gyllenhaal) sucht zunehmend nach Ärzten und Behandlungen für Maggie Murdock (Anne Hathaway). Was für ihn als Hilfe gedacht ist, erlebt sie als Bedingung für ihre gemeinsame Zukunft. Sie befürchtet, dass er mit ihr nur leben könne, wenn ihre Krankheit verschwindet. Die Trennung verlangt daher eine Veränderung seiner Haltung zur Beziehung und zu der Unsicherheit, die sie begleitet.",
-      "anchor": "Die Suche nach Heilung wird als Bedingung der Liebe empfunden.",
       "interest": "Die Frage erschließt den emotionalen Wendepunkt jenseits der Diagnose.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Die Suche nach Heilung wird als Bedingung der Liebe empfunden."
     },
     {
       "code": "S2",
@@ -146,12 +146,12 @@
       ],
       "short": "Jamie sieht eine Videoaufnahme ihrer Beziehung wieder.",
       "context": "Jamie Randall (Jake Gyllenhaal) begegnet auf einer Videoaufnahme den glücklichen Augenblicken mit Maggie Murdock (Anne Hathaway) erneut. Das wiedergefundene Bild ihrer Nähe hilft ihm, seine Zukunft nicht allein nach einem beruflichen Aufstieg zu bestimmen. Am Ende entscheidet er sich für sie und für einen anderen Lebensweg. Die Aufnahme verbindet einen früheren gemeinsamen Moment mit der späteren Entscheidung, trotz der Krankheit zusammenzubleiben.",
-      "anchor": "Die gespeicherte Nähe verändert den Blick auf die Zukunft.",
       "interest": "Ein konkretes Erinnerungsmedium trägt die Schlussentscheidung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die gespeicherte Nähe verändert den Blick auf die Zukunft."
     },
     {
       "code": "Y",
@@ -170,11 +170,11 @@
       ],
       "short": "2005 das Buch Hard Sell, 2010 der Film: fünf Jahre.",
       "context": "Love and Other Drugs erschien 2010. Jamie Reidys Buch Hard Sell wurde 2005 veröffentlicht, also fünf Jahre zuvor; der AFI-Katalog führt es als literarische Quelle auf. Die Verbindung hilft, die Satire auf den Arzneimittelvertrieb zeitlich einzuordnen. Der Film entwickelt daraus seine romantische Geschichte, während das Buch den Bezug zur persönlichen Erfahrung eines Verkäufers in dieser Branche herstellt.",
-      "anchor": "2005 Buch, 2010 Film: fünf Jahre Abstand.",
       "interest": "Die literarische Quelle gibt einen konkreten Jahresanker.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "2005 Buch, 2010 Film: fünf Jahre Abstand."
     },
     {
       "code": "D",
@@ -193,11 +193,11 @@
       ],
       "short": "Edward Zwick führte Regie.",
       "context": "Edward Zwick führte bei Love and Other Drugs Regie und arbeitete auch am Drehbuch mit. Der AFI-Katalog nennt neben ihm Charles Randolph und Marshall Herskovitz als Drehbuchautoren. Jake Gyllenhaal spielt Jamie Randall, Anne Hathaway Maggie Murdock. Die Credits unterscheiden damit die gemeinsame Arbeit am Text von der eindeutig Zwick zugeordneten Regie der Verbindung aus Liebesgeschichte und Satire auf den Arzneimittelvertrieb.",
-      "anchor": "Zwick inszeniert und gehört zugleich zum Autorenteam.",
       "interest": "Der Regiecredit wird von der gemeinsamen Drehbucharbeit abgegrenzt.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Zwick inszeniert und gehört zugleich zum Autorenteam."
     }
   ]
 }

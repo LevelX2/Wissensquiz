@@ -36,13 +36,13 @@
       ],
       "short": "C (Casey Affleck) bleibt als Geist im früheren Haus.",
       "context": "C (Casey Affleck) bleibt als Geist im früheren Haus. M (Rooney Mara) trauert dort und lebt weiter; seine Nähe ermöglicht keinen gewöhnlichen gemeinsamen Alltag mehr.",
-      "anchor": "Der Geist bleibt dort, wo das gemeinsame Leben war.",
       "interest": "Der Geist bleibt dort, wo das gemeinsame Leben war.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Geist bleibt dort, wo das gemeinsame Leben war."
     },
     {
       "code": "L2",
@@ -61,13 +61,13 @@
       ],
       "short": "Der Geist trägt ein weißes Tuch.",
       "context": "Der Geist trägt ein weißes Tuch. C (Casey Affleck) verliert dadurch individuelle Gesichtszüge; langsame Haltung und Bewegung ersetzen den gewöhnlichen Ausdruck eines Gesichts.",
-      "anchor": "Ein einfaches Tuch macht den Menschen zur wartenden Gestalt.",
       "interest": "Ein einfaches Tuch macht den Menschen zur wartenden Gestalt.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein einfaches Tuch macht den Menschen zur wartenden Gestalt."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "M versteckt einen Zettel in der Wand.",
       "context": "M (Rooney Mara) versteckt einen Zettel in der Wand. C (Casey Affleck) versucht später, ihn freizulegen; ein kleines schriftliches Zeichen bindet ihn über den Auszug hinaus an den Ort.",
-      "anchor": "Der Zettel bleibt im Haus, nachdem M gegangen ist.",
       "interest": "Der Zettel bleibt im Haus, nachdem M gegangen ist.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Zettel bleibt im Haus, nachdem M gegangen ist."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Das Haus wird abgerissen.",
       "context": "Das Haus wird abgerissen. C (Casey Affleck) bleibt dennoch am Ort; seine Bindung überdauert damit selbst das Gebäude, an das seine Erinnerung geknüpft war.",
-      "anchor": "Der Ort bleibt, obwohl das Haus verschwindet.",
       "interest": "Der Ort bleibt, obwohl das Haus verschwindet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Ort bleibt, obwohl das Haus verschwindet."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "C (Casey Affleck) erzeugt als späterer Geist den Schlag am Klavier.",
       "context": "C (Casey Affleck) erzeugt als späterer Geist den Schlag am Klavier. Die zeitliche Schleife verbindet ein früher unerklärliches Geräusch mit seiner eigenen späteren Anwesenheit.",
-      "anchor": "Das frühe Geräusch stammt aus der späteren Geisterschleife.",
       "interest": "Das frühe Geräusch stammt aus der späteren Geisterschleife.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das frühe Geräusch stammt aus der späteren Geisterschleife."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "C (Casey Affleck) verschwindet nach dem Lesen.",
       "context": "C (Casey Affleck) verschwindet nach dem Lesen. Der Inhalt des Zettels bleibt dem Publikum verborgen; das Ende zeigt das Loslassen, ohne die private Botschaft als allgemeine Erklärung preiszugeben.",
-      "anchor": "Der gelesene Zettel beendet das Warten.",
       "interest": "Der gelesene Zettel beendet das Warten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der gelesene Zettel beendet das Warten."
     },
     {
       "code": "Y",
@@ -182,12 +182,12 @@
       ],
       "short": "Der Film wurde 2017 erstmals veröffentlicht.",
       "context": "2017 wurde das Geisterdrama in Sundance gezeigt. 2016, ein Jahr zuvor, kam Lowerys Disney-Film Elliot, der Drache heraus. Der Gegensatz zwischen größerer Studioproduktion und kleinem Geisterfilm verankert die benachbarten Filmjahre.",
-      "anchor": "Auf Lowerys Elliot, der Drache von 2016 folgte ein Jahr später, 2017, das kleine Geisterdrama.",
       "interest": "Auf Lowerys Elliot, der Drache von 2016 folgte ein Jahr später, 2017, das kleine Geisterdrama.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Auf Lowerys Elliot, der Drache von 2016 folgte ein Jahr später, 2017, das kleine Geisterdrama."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Regie: David Lowery.",
       "context": "Lowery verband die Idee eines einfachen Gespensterkostüms mit eigener Bindung an Wohnorte. Das nahezu quadratische Bildformat verstärkt nach seiner Erklärung den Eindruck, im Raum festgehalten zu sein.",
-      "anchor": "Lowery verband die Idee eines einfachen Gespensterkostüms mit eigener Bindung an Wohnorte.",
       "interest": "Lowery verband die Idee eines einfachen Gespensterkostüms mit eigener Bindung an Wohnorte.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Lowery verband die Idee eines einfachen Gespensterkostüms mit eigener Bindung an Wohnorte."
     }
   ]
 }

@@ -35,12 +35,12 @@
       ],
       "short": "Ilas Mahlzeit landet irrtümlich bei Saajan.",
       "context": "Ilas Mahlzeit landet irrtümlich bei Saajan (Irrfan Khan). Ila (Nimrat Kaur) will eigentlich ihren Mann erreichen; Saajan (Irrfan Khan) wird dadurch zum unerwarteten Empfänger ihrer Aufmerksamkeit.",
-      "anchor": "Eine Fehlzustellung eröffnet eine neue Verbindung.",
       "interest": "Eine Fehlzustellung eröffnet eine neue Verbindung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Eine Fehlzustellung eröffnet eine neue Verbindung."
     },
     {
       "code": "L2",
@@ -59,12 +59,12 @@
       ],
       "short": "Die beiden tauschen Briefe in der Essensbox aus.",
       "context": "Die beiden tauschen Briefe in der Essensbox aus. Das alltägliche Liefersystem transportiert damit nicht nur Nahrung, sondern vertrauliche Gedanken und Erinnerungen.",
-      "anchor": "Die Essensbox trägt auch Briefe.",
       "interest": "Die Essensbox trägt auch Briefe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Essensbox trägt auch Briefe."
     },
     {
       "code": "M1",
@@ -83,12 +83,12 @@
       ],
       "short": "Saajan steht vor der Pensionierung.",
       "context": "Saajan (Irrfan Khan) steht vor der Pensionierung. Er soll seinen Nachfolger Shaikh (Nawazuddin Siddiqui) einarbeiten; der bevorstehende Abschied aus dem Arbeitsalltag verstärkt seine zunächst abweisende Haltung.",
-      "anchor": "Saajan soll vor dem Ruhestand einen Nachfolger einarbeiten.",
       "interest": "Saajan soll vor dem Ruhestand einen Nachfolger einarbeiten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Saajan soll vor dem Ruhestand einen Nachfolger einarbeiten."
     },
     {
       "code": "M2",
@@ -107,12 +107,12 @@
       ],
       "short": "Saajan sieht Ila (Nimrat Kaur), fühlt sich aber zu alt für sie.",
       "context": "Saajan (Irrfan Khan) sieht Ila (Nimrat Kaur), fühlt sich aber zu alt für sie. Sein Ausbleiben ist deshalb keine fehlende Einladung, sondern eine Entscheidung aus Unsicherheit.",
-      "anchor": "Saajan kommt zum Treffpunkt und bleibt auf Abstand.",
       "interest": "Saajan kommt zum Treffpunkt und bleibt auf Abstand.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Saajan kommt zum Treffpunkt und bleibt auf Abstand."
     },
     {
       "code": "S1",
@@ -131,12 +131,12 @@
       ],
       "short": "Die Nachbarin wird von Bharti Achrekar als Stimme gespielt.",
       "context": "Die Nachbarin wird von Bharti Achrekar als Stimme gespielt. Ihre Ratschläge kommen aus der Wohnung darüber; räumliche Nähe entsteht hier ohne eine sichtbare Begegnung im Bild.",
-      "anchor": "Die Nachbarin ist eine hörbare Präsenz über Ila.",
       "interest": "Die Nachbarin ist eine hörbare Präsenz über Ila.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Nachbarin ist eine hörbare Präsenz über Ila."
     },
     {
       "code": "S2",
@@ -155,12 +155,12 @@
       ],
       "short": "Saajan kehrt nach Mumbai zurück und sucht Ila (Nimrat Kaur).",
       "context": "Saajan (Irrfan Khan) kehrt nach Mumbai zurück und sucht Ila (Nimrat Kaur). Die letzte Bewegung korrigiert seinen Rückzug, zeigt aber noch kein sicher vollzogenes gemeinsames Leben.",
-      "anchor": "Saajan wendet sich vom Rückzug zurück zur Begegnung.",
       "interest": "Saajan wendet sich vom Rückzug zurück zur Begegnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Saajan wendet sich vom Rückzug zurück zur Begegnung."
     },
     {
       "code": "Y",
@@ -179,12 +179,12 @@
       ],
       "short": "Der Film wurde 2013 erstmals veröffentlicht.",
       "context": "2013 wurde der Film in Cannes gezeigt. Batra begann 2007 mit Recherchen für einen Dokumentarfilm über Mumbais Essenslieferanten. Sechs Jahre später erschien aus dieser Beschäftigung eine fiktionale Geschichte über eine Fehlzustellung.",
-      "anchor": "Aus Batras Lieferdienstrecherche von 2007 entstand sechs Jahre später, 2013, die Briefgeschichte.",
       "interest": "Aus Batras Lieferdienstrecherche von 2007 entstand sechs Jahre später, 2013, die Briefgeschichte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Aus Batras Lieferdienstrecherche von 2007 entstand sechs Jahre später, 2013, die Briefgeschichte."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "Regie: Ritesh Batra.",
       "context": "Batra wollte zunächst die Dabbawalas dokumentieren. Geschichten aus ihrer Arbeit führten ihn zur fiktionalen Briefbeziehung; einige der während der Recherche kennengelernten Lieferanten übernahmen kleine Rollen.",
-      "anchor": "Batra wollte zunächst die Dabbawalas dokumentieren.",
       "interest": "Batra wollte zunächst die Dabbawalas dokumentieren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Batra wollte zunächst die Dabbawalas dokumentieren."
     }
   ]
 }

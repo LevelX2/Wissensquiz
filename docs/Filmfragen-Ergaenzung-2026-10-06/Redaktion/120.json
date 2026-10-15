@@ -30,13 +30,13 @@
       ],
       "short": "Louis beseitigt die Menschen vor ihm in der Erbfolge.",
       "context": "Louis Mazzini (Dennis Price) sieht sich und seine Mutter durch die aristokratische Familie ausgegrenzt. Er entscheidet, den Titel von Chalfont durch die Beseitigung der vorrangigen Erben zu erreichen. Der soziale Aufstieg erhält dadurch eine buchstäblich mörderische Logik, die hinter gepflegter Sprache und gesellschaftlichen Manieren verborgen bleibt.",
-      "anchor": "Louis behandelt die Erbfolge wie eine mörderische Aufstiegsleiter.",
       "interest": "Louis behandelt die Erbfolge wie eine mörderische Aufstiegsleiter.",
       "sources": [
         "handlung",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Louis behandelt die Erbfolge wie eine mörderische Aufstiegsleiter."
     },
     {
       "code": "L2",
@@ -55,13 +55,13 @@
       ],
       "short": "Alec Guinness verkörpert acht unterschiedliche Familienmitglieder.",
       "context": "Alec Guinness erscheint unter anderem als Herzog, Geistlicher, Admiral und Lady Agatha. Die Rollen sind verschiedene Menschen, nicht Verkleidungen einer einzigen Figur. Louis Mazzini (Dennis Price) begegnet damit einer ganzen Familienordnung, deren wiederkehrendes Gesicht die satirische Ähnlichkeit ihrer gesellschaftlichen Positionen verstärkt.",
-      "anchor": "Guinness gibt acht getrennten Aristokraten ein gemeinsames Gesicht.",
       "interest": "Guinness gibt acht getrennten Aristokraten ein gemeinsames Gesicht.",
       "sources": [
         "handlung",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Guinness gibt acht getrennten Aristokraten ein gemeinsames Gesicht."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Ihre Ehe mit einem Opernsänger galt als nicht standesgemäß.",
       "context": "Louis’ Mutter (Audrey Fildes) heiratet einen italienischen Sänger und verliert dadurch die Unterstützung ihrer Verwandten. Louis Mazzini (Dennis Price) wächst mit dem Wissen um diese Ausgrenzung auf. Als der Familie sogar ihr gewünschtes Begräbnis im eigenen Gewölbe verweigert wird, verbindet er den eigenen Ehrgeiz mit einer Vergeltung für die Mutter.",
-      "anchor": "Die nicht standesgemäße Ehe legt den Grund für Louis’ Vergeltung.",
       "interest": "Die nicht standesgemäße Ehe legt den Grund für Louis’ Vergeltung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die nicht standesgemäße Ehe legt den Grund für Louis’ Vergeltung."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Louis trifft den Ballon, aus dem Lady Agatha Flugblätter wirft.",
       "context": "Lady Agatha (Alec Guinness) setzt einen Ballon für ihre politische Werbung ein. Louis Mazzini (Dennis Price) verwendet Pfeil und Bogen, um sie abzuschießen. Der Anschlag wächst aus der jeweiligen sozialen Tätigkeit des Opfers; die höfliche Beobachtung ihrer Eigenheiten wird zur Planung einer tödlichen Gelegenheit.",
-      "anchor": "Lady Agathas Flugblattballon wird zum Ziel von Louis’ Pfeil.",
       "interest": "Lady Agathas Flugblattballon wird zum Ziel von Louis’ Pfeil.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Lady Agathas Flugblattballon wird zum Ziel von Louis’ Pfeil."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Louis wird ausgerechnet für Lionel Hollands Tod verurteilt, den er nicht herbeigeführt hat.",
       "context": "Louis Mazzini (Dennis Price) hat mehrere Menschen gezielt getötet. Vor Gericht steht jedoch der Tod von Lionel Holland (John Penrose), den er gar nicht geplant hat. Sibella (Joan Greenwood) belastet ihn. Das Urteil ist deshalb moralisch keineswegs Entlastung, aber juristisch eine groteske Verschiebung zwischen tatsächlicher Schuld und beweisbarer Anklage.",
-      "anchor": "Der vielfache Mörder wird für den nicht begangenen Mord verurteilt.",
       "interest": "Der vielfache Mörder wird für den nicht begangenen Mord verurteilt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der vielfache Mörder wird für den nicht begangenen Mord verurteilt."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Die zurückgelassenen Memoiren enthalten sein Geständnis.",
       "context": "Louis Mazzini (Dennis Price) hat in Erwartung seiner Hinrichtung die Wahrheit aufgeschrieben. Nach seiner Rettung erinnert ihn ein Reporter an die Möglichkeit, diese Erinnerungen zu veröffentlichen. Nun fällt ihm das Manuskript in der Zelle ein. Sein eigenes Erzählen wird damit zur letzten Gefahr; der Film endet am Rand einer neuen Enthüllung.",
-      "anchor": "Der frei gewordene Erzähler hat sein Geständnis in der Zelle vergessen.",
       "interest": "Der frei gewordene Erzähler hat sein Geständnis in der Zelle vergessen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der frei gewordene Erzähler hat sein Geständnis in der Zelle vergessen."
     },
     {
       "code": "Y",
@@ -176,14 +176,14 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1949.",
       "context": "Adel verpflichtet erschien 1949 in Großbritannien. Roy Hornimans Roman Israel Rank war bereits 1907 veröffentlicht worden. Die Edwardianische Handlungswelt gehört wiederum zur erzählten Epoche, nicht zum Filmstart. Gerade die Distanz zwischen kultivierter gesellschaftlicher Oberfläche und mörderischem Aufstieg prägt die spätere Ealing-Komödie. Zwischen Buch und Film liegen 42 Jahre.",
-      "anchor": "Hornimans Roman 1907, Ealing-Film 1949: 42 Jahre bis zur schwarzen Komödie.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Hornimans Roman 1907, Ealing-Film 1949: 42 Jahre bis zur schwarzen Komödie.",
       "sources": [
         "handlung",
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Hornimans Roman 1907, Ealing-Film 1949: 42 Jahre bis zur schwarzen Komödie."
     },
     {
       "code": "D",
@@ -202,13 +202,13 @@
       ],
       "short": "Der Regiecredit lautet Robert Hamer.",
       "context": "Robert Hamer inszenierte den Film und arbeitete mit John Dighton am Drehbuch. Alec Guinness verkörpert acht Mitglieder der Familie D’Ascoyne, Dennis Price den aufsteigenden Louis Mazzini. Die Mehrfachbesetzung lässt die aristokratische Familie wie Variationen eines abgeschlossenen sozialen Systems erscheinen.",
-      "anchor": "Robert Hamer: Alec Guinness verkörpert acht Mitglieder der Familie D’Ascoyne, Dennis Price den aufsteigenden Louis Mazzini.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Robert Hamer: Alec Guinness verkörpert acht Mitglieder der Familie D’Ascoyne, Dennis Price den aufsteigenden Louis Mazzini."
     }
   ]
 }

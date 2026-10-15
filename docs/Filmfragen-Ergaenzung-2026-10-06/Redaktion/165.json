@@ -36,12 +36,12 @@
       ],
       "short": "Die Handlung spielt in Budapest.",
       "context": "Die Handlung spielt in Budapest. Alfred Kralik (James Stewart) und Klara Novak (Margaret Sullavan) arbeiten im selben Geschäft. Der überschaubare Laden und sein Mitarbeiterkreis bilden den sozialen Raum, in dem wirtschaftliche Sorgen, Liebeshoffnungen und Missverständnisse zusammenkommen.",
-      "anchor": "Die Briefromanze entsteht im Budapester Laden.",
       "interest": "Die Briefromanze entsteht im Budapester Laden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Briefromanze entsteht im Budapester Laden."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Alfred und Klara führen eine anonyme Briefkorrespondenz.",
       "context": "Alfred und Klara führen eine anonyme Briefkorrespondenz. Im Laden streiten sie miteinander, während sie den unbekannten Briefpartner idealisieren. Gerade diese Gleichzeitigkeit erzeugt die romantische Spannung: Die geschätzte Person befindet sich längst in ihrem unmittelbaren Alltag.",
-      "anchor": "Briefliebe und Arbeitsstreit betreffen dasselbe Paar.",
       "interest": "Briefliebe und Arbeitsstreit betreffen dasselbe Paar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Briefliebe und Arbeitsstreit betreffen dasselbe Paar."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Klara verkauft eine musikalische Zigarettendose als Behälter für Süßigkeiten.",
       "context": "Klara verkauft eine musikalische Zigarettendose als Behälter für Süßigkeiten. Sie zeigt damit Verkaufstalent und überzeugt Hugo Matuschek (Frank Morgan), sie einzustellen. Der Streit um das Produkt führt zugleich ihre Gegensätze mit Alfred Kralik (James Stewart) ein.",
-      "anchor": "Eine neue Produktidee verschafft Klara die Stelle.",
       "interest": "Eine neue Produktidee verschafft Klara die Stelle.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine neue Produktidee verschafft Klara die Stelle."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Matuschek vermutet, Alfred habe eine Affäre mit seiner Frau.",
       "context": "Matuschek vermutet, Alfred habe eine Affäre mit seiner Frau. Der Verdacht erklärt die sonst rätselhafte Härte gegenüber seinem bewährten Mitarbeiter. Erst ein Ermittlungsbericht nennt den tatsächlichen Beteiligten und ermöglicht die Korrektur dieser ungerechtfertigten Entlassung.",
-      "anchor": "Privater Verdacht zerstört zunächst berufliches Vertrauen.",
       "interest": "Privater Verdacht zerstört zunächst berufliches Vertrauen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Privater Verdacht zerstört zunächst berufliches Vertrauen."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Alfred erkennt Klara als seine Briefpartnerin, verrät seine Identität jedoch zunächst nicht.",
       "context": "Alfred erkennt Klara als seine Briefpartnerin, verrät seine Identität jedoch zunächst nicht. Klara wartet weiter auf den idealisierten Unbekannten und behandelt Alfred kühl. Der Wissensvorsprung verändert ihre Begegnungen: Für ihn gehören beide Seiten nun zusammen, für sie bleiben sie getrennt.",
-      "anchor": "Alfred erkennt die Einheit von Kollegin und Briefpartnerin.",
       "interest": "Alfred erkennt die Einheit von Kollegin und Briefpartnerin.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Alfred erkennt die Einheit von Kollegin und Briefpartnerin."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Alfred zitiert Klaras Brief und steckt eine rote Nelke an.",
       "context": "Alfred zitiert Klaras Brief und steckt eine rote Nelke an. Klara Novak (Margaret Sullavan) erkennt daran den erwarteten Briefpartner. Die Enthüllung erfolgt im vertrauten Geschäft: Der ersehnte Fremde ist der Kollege, dessen tatsächliche Persönlichkeit sie neu beurteilen muss.",
-      "anchor": "Briefzitat und Nelke machen den Unbekannten sichtbar.",
       "interest": "Briefzitat und Nelke machen den Unbekannten sichtbar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Briefzitat und Nelke machen den Unbekannten sichtbar."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "1940 erschien der Film.",
       "context": "1940 erschien der Film. Miklós Lászlós Bühnenstück „Parfumerie“ war 1937 entstanden; drei Jahre später wurde aus diesem Stoff die Budapester Ladenromanze. Der Film nutzt handgeschriebene Briefe als Liebesmedium, lange vor der digitalen Neuinterpretation „E-m@il für Dich“ von 1998.",
-      "anchor": "Parfumerie 1937, Film 1940, E-m@il für Dich 1998: Drei Jahre zur ersten Adaption, danach 58 Jahre bis zur digitalen Liebespost.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Parfumerie 1937, Film 1940, E-m@il für Dich 1998: Drei Jahre zur ersten Adaption, danach 58 Jahre bis zur digitalen Liebespost."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László.",
       "context": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László. James Stewart und Margaret Sullavan spielen Kollegen, die ihre gemeinsame Briefbeziehung nicht erkennen. Die Regie stellt alltäglichen Streit und idealisierte private Sprache unmittelbar nebeneinander.",
-      "anchor": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László.",
       "interest": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ernst Lubitsch inszenierte das Drehbuch von Samson Raphaelson nach Miklós László."
     }
   ]
 }

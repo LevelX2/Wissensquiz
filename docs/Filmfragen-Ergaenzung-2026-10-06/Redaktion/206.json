@@ -37,12 +37,12 @@
       ],
       "short": "Die Lastwagen transportieren Nitroglycerin.",
       "context": "Die Lastwagen transportieren Nitroglycerin. Der Sprengstoff soll einen Ölbrand beenden, reagiert aber empfindlich auf Erschütterungen; aus schlechter Straße und gewöhnlicher Fahrzeugbewegung entsteht deshalb unmittelbare Todesgefahr.",
-      "anchor": "Der lebensrettende Sprengstoff bedroht seine Transporteure.",
       "interest": "Der lebensrettende Sprengstoff bedroht seine Transporteure.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der lebensrettende Sprengstoff bedroht seine Transporteure."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Die Männer sitzen mittellos in Las Piedras fest.",
       "context": "Die Männer sitzen mittellos in Las Piedras fest. Der hohe Lohn kann die Abreise ermöglichen; ihre scheinbar freie Entscheidung steht deshalb unter dem Druck fehlender anderer Chancen.",
-      "anchor": "Armut macht den lebensgefährlichen Lohn attraktiv.",
       "interest": "Armut macht den lebensgefährlichen Lohn attraktiv.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Armut macht den lebensgefährlichen Lohn attraktiv."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Die Fahrer halten Abstand, um die Folgen einer möglichen Explosion zu begrenzen.",
       "context": "Die Fahrer halten Abstand, um die Folgen einer möglichen Explosion zu begrenzen. Die Trennung zeigt, dass der Auftrag mit dem Tod bereits rechnet; sie ersetzt jedoch keine sichere Straße oder geeignete Transportausrüstung.",
-      "anchor": "Der Sicherheitsabstand kalkuliert den möglichen Verlust eines Teams.",
       "interest": "Der Sicherheitsabstand kalkuliert den möglichen Verlust eines Teams.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Sicherheitsabstand kalkuliert den möglichen Verlust eines Teams."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Jo wirkt zunächst dominant, verliert aber unterwegs seine Nerven.",
       "context": "Jo wirkt zunächst dominant, verliert aber unterwegs seine Nerven. Mario (Yves Montand) muss ihn immer stärker antreiben; die äußere Gefahr stellt den selbstbewussten Auftritt des älteren Mannes auf die Probe.",
-      "anchor": "Der harte Auftritt hält der tatsächlichen Gefahr nicht stand.",
       "interest": "Der harte Auftritt hält der tatsächlichen Gefahr nicht stand.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der harte Auftritt hält der tatsächlichen Gefahr nicht stand."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Im Ölkrater droht der Wagen festzusitzen.",
       "context": "Im Ölkrater droht der Wagen festzusitzen. Mario überfährt Jo bei der verzweifelten Weiterfahrt; der erfolgreiche Transport wird damit durch eine tödliche Entscheidung innerhalb des eigenen Teams erkauft.",
-      "anchor": "Die Weiterfahrt durch den Krater kostet Jo das Leben.",
       "interest": "Die Weiterfahrt durch den Krater kostet Jo das Leben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Weiterfahrt durch den Krater kostet Jo das Leben."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Mario fährt nach dem Erfolg ausgelassen zurück und stürzt mit dem Wagen ab.",
       "context": "Mario fährt nach dem Erfolg ausgelassen zurück und stürzt mit dem Wagen ab. Die Ladung ist weg, aber die Überheblichkeit nach überstandener Gefahr bleibt; die vermeintliche Rettung aus der Armut endet ohne Heimkehr.",
-      "anchor": "Nach der überstandenen Gefahr zerstört die Rückfahrt den Gewinn.",
       "interest": "Nach der überstandenen Gefahr zerstört die Rückfahrt den Gewinn.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Nach der überstandenen Gefahr zerstört die Rückfahrt den Gewinn."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "1953 erschien der Film.",
       "context": "1953 erschien der Film. Georges Arnauds Roman stammt von 1950; drei Jahre später erhielt Clouzots Adaption in Cannes den Hauptpreis. Die Verbindung ordnet Buch, Film und Festivalerfolg in eine klare Folge ein.",
-      "anchor": "Roman 1950, Film und Cannes-Erfolg 1953: Drei Jahre führen vom Buch zur prämierten Gefahrengeschichte.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 1950, Film und Cannes-Erfolg 1953: Drei Jahre führen vom Buch zur prämierten Gefahrengeschichte."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud.",
       "context": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud. Yves Montand und Charles Vanel spielen Mario und Jo. Der Transport konzentriert Gefahr in alltäglichen Straßenhindernissen, die bei normaler Ladung kaum den gleichen Schrecken hätten.",
-      "anchor": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud.",
       "interest": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Henri-Georges Clouzot inszenierte und schrieb mit Jérome Geronimi nach Georges Arnaud."
     }
   ]
 }

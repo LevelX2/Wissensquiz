@@ -36,12 +36,12 @@
       ],
       "short": "Der namenlose Fahrer (Ryan Gosling) übernimmt Fluchtfahrten.",
       "context": "Der namenlose Fahrer (Ryan Gosling) übernimmt Fluchtfahrten. Daneben arbeitet er als Mechaniker und Filmstuntfahrer; seine Fahrkunst verbindet legale und illegale Beschäftigungen.",
-      "anchor": "Die Fahrkunst verbindet Filmstunts und Verbrechen.",
       "interest": "Die Fahrkunst verbindet Filmstunts und Verbrechen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Fahrkunst verbindet Filmstunts und Verbrechen."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Irene (Carey Mulligan) und ihr Sohn Benicio werden dem Fahrer (Ryan Gosling) wichtig.",
       "context": "Irene (Carey Mulligan) und ihr Sohn Benicio (Kaden Leos) werden dem Fahrer (Ryan Gosling) wichtig. Ihre Nähe eröffnet ihm eine Möglichkeit familiärer Zugehörigkeit, die er später um jeden Preis schützen will.",
-      "anchor": "Irene und Benicio geben dem Fahrer einen Grund zu bleiben.",
       "interest": "Irene und Benicio geben dem Fahrer einen Grund zu bleiben.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Irene und Benicio geben dem Fahrer einen Grund zu bleiben."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Standard (Oscar Isaac) wird wegen Schutzgeldschulden aus seiner Haftzeit bedroht.",
       "context": "Standard (Oscar Isaac) wird wegen Schutzgeldschulden aus seiner Haftzeit bedroht. Der Fahrer (Ryan Gosling) hilft beim Pfandhausraub, um Irene und Benicio zu schützen, und gerät damit in eine größere Falle.",
-      "anchor": "Der Schutz der Familie zieht den Fahrer in das Verbrechen.",
       "interest": "Der Schutz der Familie zieht den Fahrer in das Verbrechen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Schutz der Familie zieht den Fahrer in das Verbrechen."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Der Fahrer (Ryan Gosling) küsst Irene (Carey Mulligan), bevor er den bewaffneten Angreifer im Aufzug brutal tötet.",
       "context": "Der Fahrer (Ryan Gosling) küsst Irene (Carey Mulligan), bevor er den bewaffneten Angreifer im Aufzug brutal tötet. Schutz und Schrecken fallen zusammen; Irene sieht eine Seite, die ihre Nähe zerstört.",
-      "anchor": "Die Rettung offenbart eine Gewalt, die Irene entfremdet.",
       "interest": "Die Rettung offenbart eine Gewalt, die Irene entfremdet.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Rettung offenbart eine Gewalt, die Irene entfremdet."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Das Geld ist für eine neue Operation eines Philadelphia-Gangsters bestimmt.",
       "context": "Das Geld ist für eine neue Operation eines Philadelphia-Gangsters bestimmt. Nino (Ron Perlman) und Bernie (Albert Brooks) fürchten die Vergeltung der Ostküstenmafia, wenn der Raub zu ihnen zurückverfolgt wird.",
-      "anchor": "Die fremde Mafia-Beute macht sämtliche Mitwisser gefährlich.",
       "interest": "Die fremde Mafia-Beute macht sämtliche Mitwisser gefährlich.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die fremde Mafia-Beute macht sämtliche Mitwisser gefährlich."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Der Fahrer (Ryan Gosling) lässt das Geld bei dem getöteten Bernie (Albert Brooks) zurück.",
       "context": "Der Fahrer (Ryan Gosling) lässt das Geld bei dem getöteten Bernie (Albert Brooks) zurück. Er fährt verwundet davon; sein Ziel war Irenes Sicherheit, nicht die Bereicherung durch den Raub.",
-      "anchor": "Die zurückgelassene Beute trennt Schutzmotiv und Gewinn.",
       "interest": "Die zurückgelassene Beute trennt Schutzmotiv und Gewinn.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die zurückgelassene Beute trennt Schutzmotiv und Gewinn."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "2011 wurde der Film in Cannes vorgestellt.",
       "context": "2011 wurde der Film in Cannes vorgestellt. Die Romanvorlage von James Sallis erschien 2005; sechs Jahre später wurde aus dem lakonischen Text ein stark von Musik und Bildern geprägter Film.",
-      "anchor": "Roman 2005, Film 2011: Nach sechs Jahren wird Sallis’ knappe Geschichte zur Musik- und Bilderwelt.",
       "interest": "Die Verbindung zeigt, wie ein literarischer Stoff in eine zeitlich getrennte Filmfassung übergeht.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Roman 2005, Film 2011: Nach sechs Jahren wird Sallis’ knappe Geschichte zur Musik- und Bilderwelt."
     },
     {
       "code": "D",
@@ -205,13 +205,13 @@
       ],
       "short": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch.",
       "context": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch. Der wortkarge Fahrer und Cliff Martinez’ elektronische Musik verbinden eine romantische Schutzfantasie mit plötzlich ausbrechender Gewalt.",
-      "anchor": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch.",
       "interest": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Nicolas Winding Refn führte Regie nach Hossein Aminis Drehbuch."
     }
   ]
 }

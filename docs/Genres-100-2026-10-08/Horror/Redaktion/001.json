@@ -31,11 +31,11 @@
       ],
       "short": "Caligaris Attraktion gehört zum Jahrmarkt.",
       "context": "Dr. Caligari (Werner Krauß) beantragt zunächst die Erlaubnis für seinen Auftritt auf dem Jahrmarkt. Dort verspricht seine Attraktion dem Publikum einen Blick auf etwas Außergewöhnliches. Francis (Friedrich Fehér) und Alan (Hans Heinrich von Twardowski) kommen als Besucher hinzu. Der zunächst alltägliche Ausflug öffnet damit den Zugang zum unheimlichen Geschehen, das ihre Umgebung bald nicht mehr als bloße Unterhaltung erleben kann.",
-      "anchor": "Der Jahrmarkt führt vom Ausflug ins Unheimliche.",
       "interest": "Verankert den leicht erkennbaren Beginn der Begegnung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Der Jahrmarkt führt vom Ausflug ins Unheimliche."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Cesare ist der von Caligari vorgeführte Somnambuler.",
       "context": "Cesare (Conrad Veidt) liegt in einer schrankartigen Kiste und wird von Dr. Caligari (Werner Krauß) vor dem Publikum geweckt. Als Somnambuler erscheint er zwischen Schlaf und Wachsein gefangen. Seine starre Haltung und sein ungewöhnliches Auftreten unterscheiden ihn von einem gewöhnlichen Jahrmarktsdarsteller. Die Vorführung vermittelt zugleich, dass der Schausteller über ihn verfügen kann, bevor die Erzählung diese Abhängigkeit auf beunruhigende Weise weiterentwickelt.",
-      "anchor": "Cesare erwacht auf Caligaris Befehl.",
       "interest": "Erschließt die besondere Vorführungsrolle statt nur einen Namen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Cesare erwacht auf Caligaris Befehl."
     },
     {
       "code": "M1",
@@ -77,12 +77,12 @@
       ],
       "short": "Alan soll nur bis zum nächsten Morgen leben.",
       "context": "Alan (Hans Heinrich von Twardowski) fragt Cesare (Conrad Veidt) nach seiner verbleibenden Lebenszeit. Die knappe Antwort verändert die Stimmung der Vorführung: Aus einer Attraktion wird eine persönliche Drohung. Francis (Friedrich Fehér) hatte seinen Freund von der Frage abhalten wollen. Der anschließende Mord verknüpft die öffentliche Prophezeiung mit einem Verbrechen und gibt der Untersuchung eine Verbindung zum vorher scheinbar harmlosen Jahrmarktsbesuch.",
-      "anchor": "Die Vorhersage reicht nur bis zum nächsten Morgen.",
       "interest": "Verbindet Vorführung und den Anlass der späteren Untersuchung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Vorhersage reicht nur bis zum nächsten Morgen."
     },
     {
       "code": "M2",
@@ -101,11 +101,11 @@
       ],
       "short": "Cesare bricht den Messerangriff ab und entführt Jane.",
       "context": "Cesare (Conrad Veidt) nähert sich der schlafenden Jane (Lil Dagover) zunächst mit einem Messer. Doch der erwartete Angriff nimmt einen anderen Verlauf: Er trägt sie nach einem Kampf aus dem Haus. Die Verfolgung zwingt ihn schließlich, sie zurückzulassen. Für Francis (Friedrich Fehér) entsteht dadurch ein neues Rätsel, weil die von ihm beobachtete Gestalt zur selben Zeit scheinbar reglos in ihrer Kiste gelegen hatte.",
-      "anchor": "Aus dem Messerangriff wird eine Entführung.",
       "interest": "Erfasst einen konkreten Bruch im erwarteten Handlungsablauf.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Aus dem Messerangriff wird eine Entführung."
     },
     {
       "code": "S1",
@@ -124,12 +124,12 @@
       ],
       "short": "Eine Puppe täuscht Cesares Anwesenheit vor.",
       "context": "Francis (Friedrich Fehér) hat Dr. Caligari (Werner Krauß) und die scheinbar schlafende Gestalt beobachtet. Trotzdem wurde Jane (Lil Dagover) in dieser Nacht angegriffen. Erst die Untersuchung der Kiste erklärt diesen Widerspruch: Eine Puppe nahm Cesares (Conrad Veidt) Platz ein. Die Beobachtung war somit nicht erfunden, ihre Deutung aber falsch. Ein scheinbar überzeugendes Alibi hängt an einem Gegenstand, dessen Echtheit niemand zuvor überprüft hatte.",
-      "anchor": "Die Beobachtung stimmt, doch die Gestalt ist eine Puppe.",
       "interest": "Erklärt die konkrete Täuschung hinter dem vermeintlichen Alibi.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Beobachtung stimmt, doch die Gestalt ist eine Puppe."
     },
     {
       "code": "S2",
@@ -148,12 +148,12 @@
       ],
       "short": "Der Erzähler ist selbst Patient einer psychiatrischen Anstalt.",
       "context": "Francis (Friedrich Fehér) erzählt zunächst eine Geschichte, in der Dr. Caligari (Werner Krauß) zum gefährlichen Anstaltsleiter wird. Am Schluss erscheint der Erzähler selbst als Patient, während der Leiter ihm helfen will. Auch Jane (Lil Dagover) und Cesare (Conrad Veidt) werden innerhalb der Anstalt gezeigt. Der Rahmen verändert damit die Stellung der Erzählung: Das Publikum muss die berichteten Ereignisse aus einer neuen Perspektive beurteilen.",
-      "anchor": "Der Rahmen macht den Ermittler zum Patienten.",
       "interest": "Erschließt die zentrale Umwertung der Erzählerposition.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Rahmen macht den Ermittler zum Patienten."
     },
     {
       "code": "Y",
@@ -172,11 +172,11 @@
       ],
       "short": "Die erste Veröffentlichung erfolgte 1920.",
       "context": "Das Cabinet des Dr. Caligari wurde 1920 im Berliner Marmorhaus uraufgeführt. 2014 wurde die restaurierte und digitalisierte Fassung bei den Berlinale Classics präsentiert; zwischen beiden Vorführungen liegen 94 Jahre. filmportal führt diese Fassungen getrennt. Der zeitliche Abstand zeigt, wie spätere Restaurierungsarbeit einen frühen Film wieder zugänglich macht, ohne aus der neuen Präsentation ein anderes ursprüngliches Veröffentlichungsjahr werden zu lassen.",
-      "anchor": "Premiere 1920, restaurierte Berlinale-Fassung 2014: 94 Jahre.",
       "interest": "Verbindet Erstjahr und einen konkreten Restaurierungsauftritt.",
       "sources": [
         "portal"
-      ]
+      ],
+      "objective": "Premiere 1920, restaurierte Berlinale-Fassung 2014: 94 Jahre."
     },
     {
       "code": "D",
@@ -195,12 +195,12 @@
       ],
       "short": "Die Hauptregie stammt von Robert Wiene.",
       "context": "Robert Wiene ist auf der Filmkarte als Regisseur geführt. Die schiefen Räume und gemalten Schatten gehören zur Gestaltung einer Welt, deren Wahrnehmung unsicher bleibt. filmportal nennt Hermann Warm, Walter Reimann und Walter Röhrig bei den Bauten; diese Leistung ist vom Hauptregiecredit zu unterscheiden. Rochus Gliese steht ausdrücklich unter Regieassistenz. Ein prägender gemeinsamer Stil hebt die einzelnen Aufgaben im Herstellungsteam nicht auf.",
-      "anchor": "Robert Wiene führt Regie in der verzerrten Bildwelt.",
       "interest": "Ordnet die Hauptregie ein und trennt sie von Ausstattung und Assistenz.",
       "sources": [
         "portal",
         "film"
-      ]
+      ],
+      "objective": "Robert Wiene führt Regie in der verzerrten Bildwelt."
     }
   ],
   "rank": 1

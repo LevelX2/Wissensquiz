@@ -36,12 +36,12 @@
       ],
       "short": "Eine falsche Missbrauchsbehauptung trifft Lucas.",
       "context": "Eine falsche Missbrauchsbehauptung trifft Lucas (Mads Mikkelsen). Die Gemeinschaft behandelt den Verdacht zunehmend als Gewissheit; seine bisherigen Beziehungen bieten deshalb keinen zuverlässigen Schutz.",
-      "anchor": "Ein Verdacht verändert Lucas’ gesamten Alltag.",
       "interest": "Ein Verdacht verändert Lucas’ gesamten Alltag.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein Verdacht verändert Lucas’ gesamten Alltag."
     },
     {
       "code": "L2",
@@ -60,12 +60,12 @@
       ],
       "short": "Marcus (Lasse Fogelstrøm) möchte bei seinem Vater Lucas (Mads Mikkelsen) bleiben.",
       "context": "Marcus (Lasse Fogelstrøm) möchte bei seinem Vater Lucas (Mads Mikkelsen) bleiben. Seine Loyalität setzt ihn selbst dem Druck der Gemeinschaft aus.",
-      "anchor": "Marcus hält zu seinem Vater.",
       "interest": "Marcus hält zu seinem Vater.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Marcus hält zu seinem Vater."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Suggestivfragen verstärken Klaras (Annika Wedderkopp) Geschichte.",
       "context": "Suggestivfragen verstärken Klaras (Annika Wedderkopp) Geschichte. Als sie später widerspricht, deuten Erwachsene auch das als Folge eines angenommenen Missbrauchs; ihre Überzeugung wird schwer korrigierbar.",
-      "anchor": "Die Befragung setzt voraus, was sie prüfen sollte.",
       "interest": "Die Befragung setzt voraus, was sie prüfen sollte.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Befragung setzt voraus, was sie prüfen sollte."
     },
     {
       "code": "M2",
@@ -108,12 +108,12 @@
       ],
       "short": "Die Kinder beschreiben einen nicht vorhandenen Keller.",
       "context": "Die Kinder beschreiben einen nicht vorhandenen Keller. Der überprüfbare räumliche Widerspruch schwächt die Aussagen; die rechtliche Entlastung beendet die soziale Ausgrenzung jedoch nicht automatisch.",
-      "anchor": "Der erfundene Keller liefert einen konkreten Widerspruch.",
       "interest": "Der erfundene Keller liefert einen konkreten Widerspruch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der erfundene Keller liefert einen konkreten Widerspruch."
     },
     {
       "code": "S1",
@@ -132,12 +132,12 @@
       ],
       "short": "Lucas erinnert Theo an dessen behauptete Menschenkenntnis.",
       "context": "Lucas (Mads Mikkelsen) erinnert Theo (Thomas Bo Larsen) an dessen behauptete Menschenkenntnis. Der öffentliche Blickkontakt verlangt vom ehemaligen Freund, seine Sicherheit über den Verdacht an der konkreten Beziehung zu prüfen.",
-      "anchor": "Lucas stellt Theos vermeintliche Gewissheit persönlich auf die Probe.",
       "interest": "Lucas stellt Theos vermeintliche Gewissheit persönlich auf die Probe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Lucas stellt Theos vermeintliche Gewissheit persönlich auf die Probe."
     },
     {
       "code": "S2",
@@ -156,12 +156,12 @@
       ],
       "short": "Ein Schuss verfehlt Lucas (Mads Mikkelsen) knapp.",
       "context": "Ein Schuss verfehlt Lucas (Mads Mikkelsen) knapp. Die scheinbar wiederhergestellte Gemeinschaft bleibt damit unsicher; die Bedrohung erhält kein identifiziertes, bequem erklärbares Gesicht.",
-      "anchor": "Der letzte Schuss lässt das Misstrauen fortbestehen.",
       "interest": "Der letzte Schuss lässt das Misstrauen fortbestehen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der letzte Schuss lässt das Misstrauen fortbestehen."
     },
     {
       "code": "Y",
@@ -180,13 +180,13 @@
       ],
       "short": "Der Film wurde 2012 erstmals veröffentlicht.",
       "context": "2012 wurde der Film in Cannes gezeigt. Vinterbergs Festen hatte dort 1998 den Jury-Preis erhalten, vierzehn Jahre früher. Beide Filme untersuchen eine enge Gemeinschaft und den Umgang mit einer belastenden Anschuldigung.",
-      "anchor": "Vierzehn Jahre nach Festen von 1998 folgte 2012 Vinterbergs neuer Film über eine Gemeinschaft und eine Anschuldigung.",
       "interest": "Vierzehn Jahre nach Festen von 1998 folgte 2012 Vinterbergs neuer Film über eine Gemeinschaft und eine Anschuldigung.",
       "sources": [
         "zeitanker",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vierzehn Jahre nach Festen von 1998 folgte 2012 Vinterbergs neuer Film über eine Gemeinschaft und eine Anschuldigung."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Regie: Thomas Vinterberg.",
       "context": "Vinterberg schrieb gemeinsam mit Tobias Lindholm. Statt nur einen juristischen Fall abzubilden, folgt der Film einer engen Gemeinschaft, in der ein Verdacht Freundschaften, Beruf und Familienleben verändert.",
-      "anchor": "Vinterberg schrieb gemeinsam mit Tobias Lindholm.",
       "interest": "Vinterberg schrieb gemeinsam mit Tobias Lindholm.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Vinterberg schrieb gemeinsam mit Tobias Lindholm."
     }
   ]
 }

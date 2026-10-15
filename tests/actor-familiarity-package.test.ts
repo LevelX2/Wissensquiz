@@ -15,12 +15,14 @@ import familiarity from "../src/personFamiliarity.json";
 import portraitData from "../src/actorPortraits.json";
 import selectedTmdb from "../src/actorFamiliarityTmdbPortraits.json";
 import referenceData from "../src/actorFamiliarityFilmFacts.json";
+import { assertEditorialSource } from "./editorialSource";
 
 const source = "docs/Schauspieler-Bekanntheit-2026-10-13";
 const filename = "Schauspieler-Bekanntheit-2026-10-13.csv";
 const publicPath = "public/schauspieler-bekanntheit-20261013-fragen.csv";
 const baseline = emptyState();
-const files = packages.map((p) => ({
+const packageIndex = packages.findIndex(p => p.filename === filename);
+const files = packages.slice(0, packageIndex + 1).map((p) => ({
   filename: p.filename,
   text: readFileSync("public" + p.path, "utf8"),
 }));
@@ -65,11 +67,13 @@ const evidence = JSON.parse(
   tmdbId: number;
 }>;
 
-it("installiert die geprüfte CSV unverändert und erhält alle gemeinsamen Wissensziele", () => {
-  expect(readFileSync(publicPath)).toEqual(
-    readFileSync(source + "/Fragen.csv"),
+it("installiert die geprüften Fragefelder und erhält alle gemeinsamen Wissensziele", () => {
+  assertEditorialSource(
+    readFileSync(publicPath, "utf8"),
+    readFileSync(source + "/Fragen.csv", "utf8"),
+    publicPath,
   );
-  expect(packages.at(-1)?.filename).toBe(filename);
+  expect(packages[packageIndex]?.filename).toBe(filename);
   expect(questions).toHaveLength(1664);
   expect(
     state.imports.every(
@@ -88,7 +92,6 @@ it("installiert die geprüfte CSV unverändert und erhält alle gemeinsamen Wiss
       expect(byId.get(row.variant_of)?.knowledgeId, q.id).toBe(q.knowledgeId);
     expect(q.question).toBe(row.question);
     expect(q.context).toBe(row.explanation_context);
-    expect(q.anchor).toBe(row.memory_anchor);
     expect(q.sources).toEqual(row.source_urls.split("|"));
     expect(q.answers.map((a) => a.text)).toEqual([
       row.answer_a,

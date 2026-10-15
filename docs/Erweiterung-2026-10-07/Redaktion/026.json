@@ -37,12 +37,12 @@
       ],
       "short": "Die Geiseln werden in einem Passagierflugzeug festgehalten.",
       "context": "Dr. David Grant (Kurt Russell) untersucht eine Flugzeugentführung, bei der die öffentlich gestellte Forderung das tatsächliche Ziel verbergen könnte. Ein Einsatzteam muss unbemerkt an Bord gelangen. Der geschlossene Raum über dem Atlantik verbindet die Geisellage mit einer zusätzlichen Schwierigkeit: Ein gewöhnlicher Zugriff von außen steht nicht zur Verfügung.",
-      "anchor": "Die Geisellage bleibt während der ganzen Vorbereitung in Bewegung.",
       "interest": "Die Geisellage bleibt während der ganzen Vorbereitung in Bewegung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Geisellage bleibt während der ganzen Vorbereitung in Bewegung."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Jean ist Flugbegleiterin und wird zur Verbündeten.",
       "context": "Jean (Halle Berry) bemerkt Dr. David Grant (Kurt Russell), nachdem das Team verborgen in das Flugzeug gelangt ist. Sie hilft ihm trotz der Aufmerksamkeit der Entführer. Ihre Tätigkeit in der Kabine gibt ihr Zugang und Beobachtungsmöglichkeiten, die dem Team fehlen. Der Film macht damit eine zivile Mitarbeiterin zur entscheidenden Verbindung zwischen den versteckten Helfern und den Passagieren.",
-      "anchor": "Jeans Kabinenwissen verbindet das versteckte Team mit der Geisellage.",
       "interest": "Jeans Kabinenwissen verbindet das versteckte Team mit der Geisellage.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Jeans Kabinenwissen verbindet das versteckte Team mit der Geisellage."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Ein Spezialflugzeug ermöglicht einen heimlichen Zugang während des Flugs.",
       "context": "Die Remora soll unterhalb der Boeing 747 andocken und einen Verbindungstunnel herstellen. Dr. David Grant (Kurt Russell) und mehrere Teammitglieder gelangen hinüber, doch starke Turbulenzen gefährden die Verbindung. Der technisch aufwendige Plan bringt sie an Bord, trennt sie anschließend aber von der Außenwelt und nimmt ihnen die vorgesehene Führung.",
-      "anchor": "Der Zugang gelingt, aber der Abbruch lässt das Team ohne seine ursprüngliche Sicherung.",
       "interest": "Der Zugang gelingt, aber der Abbruch lässt das Team ohne seine ursprüngliche Sicherung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Zugang gelingt, aber der Abbruch lässt das Team ohne seine ursprüngliche Sicherung."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Der geforderte Gefangene ist nicht das tatsächliche Ziel des Plans.",
       "context": "Nagi Hassan (David Suchet) fordert die Freilassung eines Terroristenführers. Dr. David Grant (Kurt Russell) vermutet jedoch einen Anschlag mit einer Giftgasbombe an Bord. Als der Freigelassene anruft und Hassan das Gespräch abrupt beendet, wird die Täuschung deutlich. Die scheinbar verhandelbare Geisellage dient einem Ziel, das durch die Zugeständnisse der Behörden gar nicht erfüllt werden kann.",
-      "anchor": "Die erfüllte Forderung löst nichts, weil sie den wirklichen Plan verdeckt.",
       "interest": "Die erfüllte Forderung löst nichts, weil sie den wirklichen Plan verdeckt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die erfüllte Forderung löst nichts, weil sie den wirklichen Plan verdeckt."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Baker sendet Morsezeichen mit den Heckleuchten.",
       "context": "Nach dem Verlust der Remora weiß das Pentagon nicht, ob das Einsatzteam überlebt hat. Kampfflugzeuge sollen die Boeing abschießen, bevor die vermutete Giftgasbombe die USA erreicht. Baker (Whip Hubley) verwendet die Heckleuchten für Morsezeichen und bittet um zehn Minuten. Eine einfache optische Nachricht ersetzt damit die zerstörte Funkverbindung und verschafft Zeit für die Bombenentschärfung.",
-      "anchor": "Die Heckleuchten werden zur letzten Verbindung mit der Außenwelt.",
       "interest": "Die Heckleuchten werden zur letzten Verbindung mit der Außenwelt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Heckleuchten werden zur letzten Verbindung mit der Außenwelt."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Grant muss nach dem frühen Tod des vorgesehenen Anführers handeln.",
       "context": "Austin Travis (Steven Seagal) schließt bei der gefährdeten Andockverbindung die Luke und stirbt mit dem zurückbleibenden Spezialflugzeug. Dr. David Grant (Kurt Russell) steht nun zusammen mit den überlebenden Soldaten im entführten Flugzeug. Der Film nimmt dem Publikum früh eine erwartbare Actionführung und verlangt von seinem beratenden Protagonisten Entscheidungen, für die er zunächst nicht vorgesehen war.",
-      "anchor": "Der Berater wird durch den Verlust der Führung zum verantwortlichen Handelnden.",
       "interest": "Der Berater wird durch den Verlust der Führung zum verantwortlichen Handelnden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Berater wird durch den Verlust der Führung zum verantwortlichen Handelnden."
     },
     {
       "code": "Y",
@@ -181,12 +181,12 @@
       ],
       "short": "Der Film erschien 1996.",
       "context": "Kurt Russell und Halle Berry stehen im Zentrum einer Flugzeugrettung, deren Einstieg den erwarteten Anführer früh aus der Handlung nimmt. Die Veröffentlichung gehört zum amerikanischen Actionkino der mittleren neunziger Jahre. Die im Film zunächst gezeigte Vorgeschichte ist früher angesiedelt; ihre Datierung ist nicht mit dem tatsächlichen Kinostart gleichzusetzen.",
-      "anchor": "Die erzählte Vorgeschichte liegt vor dem Kinostart von 1996.",
       "interest": "Die erzählte Vorgeschichte liegt vor dem Kinostart von 1996.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die erzählte Vorgeschichte liegt vor dem Kinostart von 1996."
     },
     {
       "code": "D",
@@ -205,12 +205,12 @@
       ],
       "short": "Stuart Baird führte Regie.",
       "context": "Stuart Baird hatte zuvor als Filmeditor gearbeitet und wurde dafür für Oscars nominiert. Bei dieser Flugzeuggeschichte übernimmt er erstmals die Kinoregie. Seine frühere Tätigkeit betrifft die Montage von Filmen, während die Regie den gesamten Ablauf der Dreharbeiten und Inszenierung verantwortet. Joel Silver ist der Produzent dieser Arbeit und übernimmt eine andere Aufgabe.",
-      "anchor": "Der erfahrene Editor Baird wird hier zum Kinoregisseur.",
       "interest": "Der erfahrene Editor Baird wird hier zum Kinoregisseur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der erfahrene Editor Baird wird hier zum Kinoregisseur."
     }
   ]
 }

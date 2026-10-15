@@ -34,13 +34,13 @@
       ],
       "short": "Slade hat einen Mord an sich als Werbeaktion vorgetäuscht.",
       "context": "Brian Slade (Jonathan Rhys Meyers) bricht seine öffentliche Karriere mit einer inszenierten Tötung ab. Die Enttäuschung der Fans über die Täuschung führt zum Niedergang. Das spätere Verschwinden wird deshalb nicht als einfacher ungelöster Mordfall untersucht, sondern als Folge einer zerstörten Starrolle.",
-      "anchor": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
       "interest": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der inszenierte Tod zerstört Slades Glaubwürdigkeit."
     },
     {
       "code": "L2",
@@ -59,13 +59,13 @@
       ],
       "short": "Arthur recherchiert für einen Zeitungsartikel über Brian Slade.",
       "context": "Arthur Stuart (Christian Bale) arbeitet als Journalist in New York. Die Recherche führt ihn zu früheren Weggefährten Brian Slades (Jonathan Rhys Meyers). Weil Arthur selbst Fan war, rufen ihre Erzählungen auch seine eigenen Erinnerungen und Konflikte hervor.",
-      "anchor": "Der Reporter sucht einen Star und findet seine eigene Vergangenheit.",
       "interest": "Der Reporter sucht einen Star und findet seine eigene Vergangenheit.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Reporter sucht einen Star und findet seine eigene Vergangenheit."
     },
     {
       "code": "M1",
@@ -84,12 +84,12 @@
       ],
       "short": "Slades androgynes Alter Ego heißt Maxwell Demon.",
       "context": "Brian Slade (Jonathan Rhys Meyers) wechselt vom wenig erfolgreichen Folksänger zur künstlichen Weltraumfigur. Kleidung, Auftreten und offene Bisexualität werden Bestandteil der öffentlichen Rolle. Der Aufstieg entsteht damit aus einer bewusst entworfenen Identität, deren Verhältnis zur Person hinter ihr unsicher bleibt.",
-      "anchor": "Maxwell Demon macht aus Slade eine gestaltete Weltraumfigur.",
       "interest": "Maxwell Demon macht aus Slade eine gestaltete Weltraumfigur.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Maxwell Demon macht aus Slade eine gestaltete Weltraumfigur."
     },
     {
       "code": "M2",
@@ -108,13 +108,13 @@
       ],
       "short": "Arthur hat die Szene als jugendlicher Fan erlebt.",
       "context": "Arthur Stuart (Christian Bale) erinnert sich an seine Begeisterung für Brian Slade und Curt Wild. Der Reporter rekonstruiert daher keinen völlig fremden Gegenstand. Interviews und Erinnerungen überlagern sich; die Musik hatte ihm früher eine Möglichkeit eröffnet, die Enge des Elternhauses zu verlassen.",
-      "anchor": "Arthurs Fanerinnerung gehört zu der Geschichte, die er recherchiert.",
       "interest": "Arthurs Fanerinnerung gehört zu der Geschichte, die er recherchiert.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Arthurs Fanerinnerung gehört zu der Geschichte, die er recherchiert."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Arthur erkennt hinter Tommy Stone den verschwundenen Brian Slade.",
       "context": "Brian Slade (Jonathan Rhys Meyers) wird mit einer neuen, angepassten Popfigur verbunden. Der Wechsel vom provokanten Glamrockimage zum konservativen Starbild legt die Veränderbarkeit öffentlicher Identität offen. Die verschwundene Person ist damit nicht einfach verschwunden, sondern unter einem anderen Bild präsent.",
-      "anchor": "Slades Verschwinden endet in einer neu erfundenen Staridentität.",
       "interest": "Slades Verschwinden endet in einer neu erfundenen Staridentität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Slades Verschwinden endet in einer neu erfundenen Staridentität."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Die Brosche wird als früheres Eigentum Oscar Wildes erzählt.",
       "context": "Curt Wild (Ewan McGregor) gibt Arthur Stuart (Christian Bale) die grüne Brosche. Das Objekt verbindet verschiedene Zeiten und Künstlerbilder miteinander. Statt die Spur des Stars nur durch berufliche Daten zu schließen, lässt der Film einen symbolischen Gegenstand von einer Person zur nächsten wandern.",
-      "anchor": "Die grüne Brosche verbindet Glamrock mit einer älteren Geschichte von Abweichung und Kunst.",
       "interest": "Die grüne Brosche verbindet Glamrock mit einer älteren Geschichte von Abweichung und Kunst.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die grüne Brosche verbindet Glamrock mit einer älteren Geschichte von Abweichung und Kunst."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1998.",
       "context": "Velvet Goldmine erschien 1998. Die Recherchehandlung spielt 1984, vierzehn Jahre vor der Veröffentlichung, und blickt wiederum auf die Glamrockzeit der frühen 1970 er zurück. Die verschachtelten Zeiträume machen Erinnerung selbst zum Thema: Ein Reporter untersucht nicht nur einen verschwundenen Star, sondern auch die eigene Jugend.",
-      "anchor": "Recherchehandlung 1984, Film 1998: vierzehn Jahre Abstand zu Arthurs Erinnerungssuche.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Recherchehandlung 1984, Film 1998: vierzehn Jahre Abstand zu Arthurs Erinnerungssuche.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Recherchehandlung 1984, Film 1998: vierzehn Jahre Abstand zu Arthurs Erinnerungssuche."
     },
     {
       "code": "D",
@@ -206,14 +206,14 @@
       ],
       "short": "Der Regiecredit lautet Todd Haynes.",
       "context": "Todd Haynes schrieb und führte Regie. Die Musikerfiguren sind fiktional, obwohl sie erkennbare Bezüge zur Glamrockgeschichte besitzen. Er erzählt den Star durch Interviews und Rückblenden eines Journalisten; dessen persönliche Erinnerung verhindert eine scheinbar neutrale, vollständige Musikerbiografie.",
-      "anchor": "Todd Haynes: Die Musikerfiguren sind fiktional, obwohl sie erkennbare Bezüge zur Glamrockgeschichte besitzen.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Todd Haynes: Die Musikerfiguren sind fiktional, obwohl sie erkennbare Bezüge zur Glamrockgeschichte besitzen."
     }
   ]
 }

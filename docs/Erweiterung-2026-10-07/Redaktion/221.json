@@ -45,13 +45,13 @@
       ],
       "short": "Tromsø ist der Schauplatz der Mordermittlung.",
       "context": "Die beiden auswärtigen Ermittler sollen den Tod der siebzehnjährigen Tanja aufklären. Tromsø liegt nördlich des Polarkreises. Der Ort ist deshalb mehr als Kulisse: Die Mitternachtssonne dringt in die Erzählung ein und erschwert Jonas Engström (Stellan Skarsgård) die Erholung, während sein eigener Anteil am Geschehen wächst.",
-      "anchor": "Tromsø verbindet den Mordfall mit der Mitternachtssonne.",
       "interest": "Der geografische Ausgangspunkt erklärt die ungewöhnliche Lichtgestaltung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Tromsø verbindet den Mordfall mit der Mitternachtssonne."
     },
     {
       "code": "L2",
@@ -70,13 +70,13 @@
       ],
       "short": "Der Schuss tötet seinen Kollegen Erik Vik (Sverre Anker Ousdal).",
       "context": "Die Falle für den Mörder scheitert in schlechter Sicht. Jonas Engström (Stellan Skarsgård) schießt auf eine Gestalt und tötet Erik Vik (Sverre Anker Ousdal). Andere halten den Flüchtigen für den Schützen. Engström nutzt diesen Irrtum, sodass die Aufklärung des ersten Mordes zunehmend der Verdeckung seines eigenen Schusses dient.",
-      "anchor": "Die Verfolgung endet mit dem Tod des eigenen Kollegen.",
       "interest": "Der Unfall erklärt den Wechsel vom Ermittler zum Vertuscher.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Verfolgung endet mit dem Tod des eigenen Kollegen."
     },
     {
       "code": "M1",
@@ -95,13 +95,13 @@
       ],
       "short": "Holt kennt die Wahrheit über den Schuss und kann Engström damit erpressen.",
       "context": "Jon Holt (Bjørn Floberg) ist nicht nur Gegenstand der Ermittlung. Er hat gesehen, dass Jonas Engström (Stellan Skarsgård) selbst seinen Kollegen erschoss. Damit kann der Verdächtige den Ermittler unter Druck setzen. Der Film verschränkt zwei Schuldgeschichten, weil eine korrekte Aufklärung zugleich Engströms eigenes Verhalten offenlegen könnte.",
-      "anchor": "Der Mörder erpresst den Ermittler mit dessen eigener Tat.",
       "interest": "Die Frage macht das wechselseitige Abhängigkeitsverhältnis verständlich.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der Mörder erpresst den Ermittler mit dessen eigener Tat."
     },
     {
       "code": "M2",
@@ -120,12 +120,12 @@
       ],
       "short": "Die platzierte Waffe soll Eilert (Bjørn Moan) mit dem Mord verbinden.",
       "context": "Der Schriftsteller Jon Holt (Bjørn Floberg) will die Ermittlungen von sich weglenken. Jonas Engström (Stellan Skarsgård) lässt sich auf eine falsche Belastung von Eilert (Bjørn Moan) ein. Die Waffe im Zimmer des Freundes zeigt, wie eine vermeintliche Beweisführung zum Werkzeug privater Selbstrettung wird.",
-      "anchor": "Eine platzierte Waffe lenkt die Ermittlung auf Eilert.",
       "interest": "Der Zusammenhang unterscheidet Beweise von absichtlich erzeugten Spuren.",
       "sources": [
         "wiki"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Eine platzierte Waffe lenkt die Ermittlung auf Eilert."
     },
     {
       "code": "S1",
@@ -144,13 +144,13 @@
       ],
       "short": "Engström lässt Holt nach dem Sturz von den morschen Planken ertrinken.",
       "context": "Am verfallenen Bootshaus versucht Jonas Engström (Stellan Skarsgård), Jon Holt (Bjørn Floberg) zu stellen. Der Verdächtige bricht durch den morschen Steg. Engström greift nicht ein. Dadurch verschwindet der Zeuge seiner eigenen Tat, während das später gefundene Kleid die Verbindung zu Tanjas Mord absichert.",
-      "anchor": "Holts Ertrinken beseitigt zugleich einen belastenden Zeugen.",
       "interest": "Das Unterlassen verlängert die Vertuschung über den ursprünglichen Unfall hinaus.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Holts Ertrinken beseitigt zugleich einen belastenden Zeugen."
     },
     {
       "code": "S2",
@@ -169,13 +169,13 @@
       ],
       "short": "Die Hülse passt zur üblichen schwedischen Polizeimunition und belastet Engström.",
       "context": "Jonas Engström (Stellan Skarsgård) erwartet nach dem Fund seine Verhaftung. Hilde Hagen (Gisken Armand) legt die Patronenhülse auf den Tisch und geht. Die sichtbare Handlung schließt den Fall nicht mit einer eindeutigen Bestrafung ab. Sie lässt jedoch erkennen, dass die Kollegin einen entscheidenden Widerspruch in seiner Darstellung gefunden hat.",
-      "anchor": "Die schwedische Hülse verrät die Herkunft des Schusses.",
       "interest": "Das offene Ende trennt erkannte Schuld von einer ausgesprochenen Sanktion.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die schwedische Hülse verrät die Herkunft des Schusses."
     },
     {
       "code": "Y",
@@ -194,13 +194,13 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 1997.",
       "context": "Das norwegische Original erschien 1997. Christopher Nolan übertrug die Geschichte 2002 mit Al Pacino als Ermittler in eine amerikanische Produktion. Der Abstand beträgt fünf Jahre. Beide Fassungen verbinden eine Mordermittlung mit dem verschwiegenen Tod eines Kollegen; diese Frage gilt der früheren Version mit Stellan Skarsgård.",
-      "anchor": "Norwegisches Original 1997 → Nolans Neuverfilmung 2002: fünf Jahre.",
       "interest": "Die Reihenfolge trennt zwei eigenständige Fassungen derselben Ausgangsgeschichte.",
       "sources": [
         "wiki",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Norwegisches Original 1997 → Nolans Neuverfilmung 2002: fünf Jahre."
     },
     {
       "code": "D",
@@ -219,13 +219,13 @@
       ],
       "short": "Erik Skjoldbjærg führte bei diesem Film Regie.",
       "context": "Erik Skjoldbjærg inszenierte seinen ersten Langfilm und schrieb das Drehbuch gemeinsam mit Nikolaj Frobenius. Die unablässige Helligkeit Nordnorwegens ersetzt die vertraute Dunkelheit vieler Kriminalfilme. Jonas Engström (Stellan Skarsgård) kann seine Schuld verbergen, findet jedoch weder in seinem Zimmer noch in seiner Wahrnehmung einen ruhigen Rückzugsort.",
-      "anchor": "Skjoldbjærgs Langfilmdebüt macht Tageslicht zur Belastung.",
       "interest": "Die Regie verbindet Schauplatz, psychischen Zustand und kriminalistische Handlung.",
       "sources": [
         "wiki",
         "criterion"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Skjoldbjærgs Langfilmdebüt macht Tageslicht zur Belastung."
     }
   ]
 }

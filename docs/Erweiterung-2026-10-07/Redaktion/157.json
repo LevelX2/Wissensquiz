@@ -38,12 +38,12 @@
       ],
       "short": "Yang Luchan (Jayden Yuan) sucht Unterricht in der Kampfkunst des Chen-Dorfes.",
       "context": "Yang Luchan (Jayden Yuan) sucht Unterricht in der Kampfkunst des Chen-Dorfes. Sein Wunsch trifft auf eine Gemeinschaft mit festen Zugehörigkeitsregeln. Begabung allein schafft noch keinen Zugang. Der Film stellt deshalb das Lernen und die Frage nach Aufnahme nebeneinander: Um Können zu erwerben, muss er zunächst eine soziale Grenze überwinden.",
-      "anchor": "Yang sucht Unterricht hinter einer Grenze für Außenseiter.",
       "interest": "Der Lernwunsch trägt die Reise.",
       "sources": [
         "vertrieb"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Yang sucht Unterricht hinter einer Grenze für Außenseiter."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Eine Eisenbahn soll durch das Dorf führen.",
       "context": "Eine Eisenbahn soll durch das Dorf führen. Die neue Technik erscheint nicht als neutraler Fortschritt, weil sie die bestehende Gemeinschaft unmittelbar gefährdet. Yang Luchan (Jayden Yuan) kann seine gewünschte Zugehörigkeit nun durch gemeinsamen Widerstand zeigen. Der Konflikt verbindet den Lernweg mit der Verteidigung eines konkreten Lebensraums.",
-      "anchor": "Die Eisenbahnplanung macht das Dorf zur bedrohten Gemeinschaft.",
       "interest": "Das Projekt verbindet Technik und Zugehörigkeit.",
       "sources": [
         "vertrieb"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Eisenbahnplanung macht das Dorf zur bedrohten Gemeinschaft."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Ein Schlag auf die auffällige Stelle seines Kopfes setzt Yang Luchans (Jayden Yuan) wilde Kraft frei.",
       "context": "Ein Schlag auf die auffällige Stelle seines Kopfes setzt Yang Luchans (Jayden Yuan) wilde Kraft frei. Die Fähigkeit ist zugleich eine Gefahr für seinen Körper. Mehr Energie bedeutet daher nicht automatisch einen besseren Zustand. Sein Lernwunsch benötigt eine andere Form der Beherrschung, statt nur immer neue Ausbrüche zu erzwingen.",
-      "anchor": "Die besondere Kraft belastet zugleich ihren Träger.",
       "interest": "Eine Begabung wird auch als körperliche Gefahr verständlich.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die besondere Kraft belastet zugleich ihren Träger."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Meister Chen (Tony Leung Ka-fai) verbirgt seine Stellung hinter einer unscheinbaren Erscheinung.",
       "context": "Meister Chen (Tony Leung Ka-fai) verbirgt seine Stellung hinter einer unscheinbaren Erscheinung. Yang Luchan (Jayden Yuan) kann seine Hilfe annehmen, bevor er die Autorität des Helfers erkennt. Der Unterricht beginnt somit außerhalb eines förmlichen Meister-Schüler-Verhältnisses. Der Blick auf eine Person muss sich von ihrem ersten äußeren Eindruck lösen.",
-      "anchor": "Der unscheinbare Helfer ist bereits der gesuchte Meister.",
       "interest": "Die Tarnung verändert die Form des Unterrichts.",
       "sources": [
         "vertrieb"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der unscheinbare Helfer ist bereits der gesuchte Meister."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Yuniang (Angelababy) heiratet Yang Luchan (Jayden Yuan).",
       "context": "Yuniang (Angelababy) heiratet Yang Luchan (Jayden Yuan). Die Eheschließung verändert seinen Status innerhalb der Familie und damit die Bedeutung seines Lernens. Der Ausweg löst das Problem durch Zugehörigkeit, nicht durch Verleugnung des erworbenen Könnens. Eine persönliche Bindung kann zunächst auch einen praktischen Schutz leisten.",
-      "anchor": "Die Ehe macht aus dem verbotenen Außenseiter einen Familienangehörigen.",
       "interest": "Eine soziale Regel erhält eine konkrete Umgehung.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Ehe macht aus dem verbotenen Außenseiter einen Familienangehörigen."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Fang Zijing (Eddie Peng) bricht nach der Ablehnung seines Bahnprojekts die Verlobung mit Yuniang (Angelababy).",
       "context": "Fang Zijing (Eddie Peng) bricht nach der Ablehnung seines Bahnprojekts die Verlobung mit Yuniang (Angelababy). Die persönliche Beziehung wird damit an die Anerkennung seines Vorhabens gebunden. Seine Kränkung verschiebt die Stellung im Dorf. Aus einem möglichen Angehörigen wird ein Gegner der Gemeinschaft, von der er Zustimmung erwartet hatte.",
-      "anchor": "Die Ablehnung des Projekts bricht auch die Verlobung.",
       "interest": "Technischer Ehrgeiz und persönliche Anerkennung hängen zusammen.",
       "sources": [
         "artikel"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Ablehnung des Projekts bricht auch die Verlobung."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "Festivalaufführungen und Erstveröffentlichung 2012; erster Teil der gemeinsam gedrehten Tai-Chi-Filme.",
       "context": "„Tai Chi Zero“ und „Tai Chi Hero“ erschienen beide 2012. Die Filme wurden unmittelbar nacheinander gedreht. Das Hong Kong Film Archive beschreibt sie als Auftakt von Stephen Fungs und Daniel Wus neuer Produktionsarbeit bei Diversion Pictures. Das gemeinsame Jahr verbindet deshalb einen zweiteiligen Ursprung des Helden mit einem konkreten unternehmerischen Neubeginn.",
-      "anchor": "2012: Zero und Hero bilden gemeinsam den Auftakt von Diversion Pictures.",
       "interest": "Die Erstveröffentlichung erhält einen konkreten zeitlichen Bezug.",
       "sources": [
         "artikel",
         "archiv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "2012: Zero und Hero bilden gemeinsam den Auftakt von Diversion Pictures."
     },
     {
       "code": "D",
@@ -208,13 +208,13 @@
       ],
       "short": "Stephen Fung inszenierte den Film; Sammo Hung gestaltete die Action.",
       "context": "Stephen Fung inszenierte den Film; Sammo Hung gestaltete die Action. Jayden Yuan, ein Wushu-Athlet, gibt als Yang Luchan sein Schauspieldebüt. Das Hong Kong Film Archive betont die Verbindung von Kampfkunst, Computerspielmotiven und westlicher Technik. Fungs Gestaltung setzt den Lernweg des Außenseiters in eine bewusst überhöhte Welt, deren Maschinen die traditionelle Gemeinschaft bedrohen.",
-      "anchor": "Fung verbindet Yuans Debüt mit Sammo Hungs Kämpfen und der Maschinenwelt.",
       "interest": "Die Regie wird anhand einer konkreten Zusammenarbeit eingeordnet.",
       "sources": [
         "archiv"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Fung verbindet Yuans Debüt mit Sammo Hungs Kämpfen und der Maschinenwelt."
     }
   ]
 }

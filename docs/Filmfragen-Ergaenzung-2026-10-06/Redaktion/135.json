@@ -33,12 +33,12 @@
       ],
       "short": "Yang Tianchun führt eine medizinische Praxis.",
       "context": "Yang Tianchun (Yu Rongguang) behandelt tagsüber Patienten und wird nachts zum maskierten Iron Monkey. Seine Hilfe für Arme ist in beiden Lebensbereichen verbunden. Die Maske schafft daher keine völlig andere moralische Person; sie verbirgt nur die zweite Art, in der derselbe Mann gegen die lokale Ungerechtigkeit handelt.",
-      "anchor": "Yang heilt am Tag und hilft maskiert in der Nacht.",
       "interest": "Yang heilt am Tag und hilft maskiert in der Nacht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Yang heilt am Tag und hilft maskiert in der Nacht."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Die Raubzüge nehmen den Reichen und helfen den Armen.",
       "context": "Yang Tianchun (Yu Rongguang) finanziert mit Geld der Wohlhabenden seine Hilfe für Bedürftige. Seine Praxis und die nächtlichen Raubzüge greifen ineinander. Der Konflikt ist damit sozial angelegt: Dieselbe Obrigkeit, die ihren Reichtum schützen will, verfolgt denjenigen, der den ausgeschlossenen Menschen einen Teil davon zurückgibt.",
-      "anchor": "Die Nachtbeute verlängert Yangs Hilfe für Arme.",
       "interest": "Die Nachtbeute verlängert Yangs Hilfe für Arme.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Nachtbeute verlängert Yangs Hilfe für Arme."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Der festgehaltene Sohn macht die Verfolgung zu einer erzwungenen Aufgabe.",
       "context": "Wong Kei-ying (Donnie Yen) reist mit seinem Sohn Wong Fei-hung (Angie Tsang). Der Gouverneur (James Wong) hält das Kind fest und setzt dem Vater eine Frist. Die erzwungene Jagd steht daher nicht für Wongs Zustimmung zur Herrschaft, sondern für die konkrete Möglichkeit, sein Kind zu retten.",
-      "anchor": "Die Geisel macht den Vater zum unfreiwilligen Jäger.",
       "interest": "Die Geisel macht den Vater zum unfreiwilligen Jäger.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Geisel macht den Vater zum unfreiwilligen Jäger."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Fox unterstützt Yang trotz seines offiziellen Verfolgungsauftrags.",
       "context": "Fox (Yuen Shun-yi) soll den Iron Monkey fangen. Seine Kenntnis von Yang Tianchuns (Yu Rongguang) Identität macht ihn aber nicht zum zuverlässigen Gegner. Er nutzt die Stellung vielmehr, um zu helfen und vor Gefahr zu warnen. Die äußere Rolle als unbeholfener Verfolger verdeckt somit eine bewusst andere Loyalität.",
-      "anchor": "Der offizielle Verfolger schützt heimlich den Gesuchten.",
       "interest": "Der offizielle Verfolger schützt heimlich den Gesuchten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der offizielle Verfolger schützt heimlich den Gesuchten."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Die Enthüllung verbindet den gejagten Gegner mit dem bereits erfahrenen Helfer.",
       "context": "Wong Kei-ying (Donnie Yen) ist bei Yang Tianchun (Yu Rongguang) aufgenommen worden. Erst später erkennt er dessen maskierte Identität. Die gemeinsame medizinische Hilfe und die Gewalt des neuen Gegners lassen daraus eine Allianz werden: Eine falsche politische Zuordnung wird durch konkrete persönliche Erfahrung korrigiert.",
-      "anchor": "Der gejagte Maskierte und der hilfreiche Arzt sind dieselbe Person.",
       "interest": "Der gejagte Maskierte und der hilfreiche Arzt sind dieselbe Person.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der gejagte Maskierte und der hilfreiche Arzt sind dieselbe Person."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Das Finale verbindet den Kampf mit schmalen, brennenden Pfählen.",
       "context": "Yang Tianchun (Yu Rongguang) und Wong Kei-ying (Donnie Yen) treffen auf Hin-hung (Yen Shi-kwan). Die brennenden Pfähle geben ihnen kaum festen Stand. Die Choreografie prüft damit nicht nur Schläge, sondern räumliche Kooperation und Balance; der gemeinsame Gegner kann durch koordinierte Bewegungen beider Helfer überwunden werden.",
-      "anchor": "Auf den brennenden Pfählen braucht Stärke auch Balance und Zusammenarbeit.",
       "interest": "Auf den brennenden Pfählen braucht Stärke auch Balance und Zusammenarbeit.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Auf den brennenden Pfählen braucht Stärke auch Balance und Zusammenarbeit."
     },
     {
       "code": "Y",
@@ -177,13 +177,13 @@
       ],
       "short": "Die erste Veröffentlichung fällt ins Jahr 1993.",
       "context": "Iron Monkey erschien 1993 in Hongkong. Ein anderer Film mit demselben englischen Titel war bereits 1977 veröffentlicht worden,16 Jahre zuvor. Diese neue Fassung erzählt eine erfundene Episode um Wong Kei-ying und seinen jungen Sohn Wong Fei-hung; die bekannten Volkshelden machen die beiden Titel nicht zu derselben Filmidentität.",
-      "anchor": "Gleicher englischer Titel, andere Filme: 1977 und 1993 liegen 16 Jahre auseinander.",
       "interest": "Die zeitliche Verbindung macht den Veröffentlichungszeitpunkt anschaulich: Gleicher englischer Titel, andere Filme: 1977 und 1993 liegen 16 Jahre auseinander.",
       "sources": [
         "handlung"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Gleicher englischer Titel, andere Filme: 1977 und 1993 liegen 16 Jahre auseinander."
     },
     {
       "code": "D",
@@ -202,14 +202,14 @@
       ],
       "short": "Der Regiecredit lautet Yuen Woo-ping.",
       "context": "Yuen Woo-ping führte Regie, Tsui Hark schrieb und produzierte. Yu Rongguang spielt den maskierten Iron Monkey, Donnie Yen den Arzt Wong Kei-ying. Der Regiecredit ist deshalb weder mit dem prominenten Produzenten noch mit dem später besonders bekannten Darsteller gleichzusetzen.",
-      "anchor": "Yuen Woo-ping: Yu Rongguang spielt den maskierten Iron Monkey, Donnie Yen den Arzt Wong Kei-ying.",
       "interest": "Den Regiecredit über die konkrete künstlerische Arbeit einordnen.",
       "sources": [
         "handlung",
         "credits_rt"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Yuen Woo-ping: Yu Rongguang spielt den maskierten Iron Monkey, Donnie Yen den Arzt Wong Kei-ying."
     }
   ]
 }

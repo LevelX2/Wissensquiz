@@ -34,12 +34,12 @@
       ],
       "short": "Fogg ist ein erfinderischer Außenseiter.",
       "context": "Phileas Fogg (Steve Coogan) glaubt an neue technische Möglichkeiten und wird von den etablierten Wissenschaftlern verspottet. Seine Reise ist deshalb auch ein öffentlicher Versuch, ernst genommen zu werden. Die Figur unterscheidet sich vom streng geregelten Gentleman anderer Fassungen. Apparate und Improvisation gehören hier zur Weltreise, auf der seine Ideen praktisch auf die Probe gestellt werden.",
-      "anchor": "Fogg will seine Erfindungskraft öffentlich beweisen.",
       "interest": "Macht eine charakteristische Veränderung dieser Adaption greifbar.",
       "sources": [
         "film",
         "d23"
-      ]
+      ],
+      "objective": "Fogg will seine Erfindungskraft öffentlich beweisen."
     },
     {
       "code": "L2",
@@ -58,11 +58,11 @@
       ],
       "short": "Lau Xing will den Jade-Buddha seinem Dorf zurückbringen.",
       "context": "Lau Xing (Jackie Chan) nennt sich auf der Reise Passepartout und verschweigt Phileas Fogg (Steve Coogan) zunächst seine Absicht. Die Statue aus der Bank of England gehört zu seinem Heimatdorf. Der vermeintliche Diebstahl enthält damit eine Rückgabeabsicht. Seine persönliche Mission kreuzt Foggs Wette und erklärt, warum er sich dem reisenden Erfinder anschließt.",
-      "anchor": "Die gestohlene Statue soll nach Hause.",
       "interest": "Unterscheidet Rückführung und bloße Bereicherung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die gestohlene Statue soll nach Hause."
     },
     {
       "code": "M1",
@@ -81,11 +81,11 @@
       ],
       "short": "Monique La Roche ist Malerin.",
       "context": "Monique La Roche (Cécile de France) begegnet den Reisenden in Paris und schließt sich ihnen an. Als Malerin bringt sie eine eigene Perspektive in das zunächst männliche Duo. Sie erfährt außerdem den wahren Grund für Lau Xings (Jackie Chan) Reise und behält ihn vorerst für sich. Ihre Beteiligung geht daher über eine zufällige Begleitung hinaus.",
-      "anchor": "Monique bringt Malerei und eine eigene Entscheidung in die Reise.",
       "interest": "Gibt der dritten Hauptfigur ein eigenständiges Profil.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Monique bringt Malerei und eine eigene Entscheidung in die Reise."
     },
     {
       "code": "M2",
@@ -104,11 +104,11 @@
       ],
       "short": "Bei einer Niederlage soll Fogg seine Wissenschaft aufgeben.",
       "context": "Lord Kelvin (Jim Broadbent) will Phileas Fogg (Steve Coogan) als wissenschaftlichen Außenseiter ausschalten. Der Einsatz betrifft daher dessen Lebensaufgabe. Umgekehrt soll Kelvin bei Foggs Erfolg sein eigenes Amt räumen. Die Wette verbindet eine Reise mit einem Streit über die Zukunft der Wissenschaft: Etablierte Autorität und neue Ideen messen sich an einem praktisch überprüfbaren Vorhaben.",
-      "anchor": "Fogg setzt seine wissenschaftliche Zukunft auf die Weltreise.",
       "interest": "Zeigt die berufliche Konsequenz hinter der Reiseprämisse.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Fogg setzt seine wissenschaftliche Zukunft auf die Weltreise."
     },
     {
       "code": "S1",
@@ -127,11 +127,11 @@
       ],
       "short": "Sie helfen Lau Xing und verpassen deshalb die Abfahrt.",
       "context": "Lau Xing (Jackie Chan) will General Fang (Karen Mok) aufhalten, damit Phileas Fogg (Steve Coogan) und Monique (Cécile de France) das Schiff erreichen können. Beide kehren jedoch zu ihm zurück. Die Verspätung entsteht somit aus einer bewussten Entscheidung für Zusammenhalt. Foggs Ziel bleibt wichtig, aber er behandelt den Freund nicht mehr als austauschbares Mittel seiner Wette.",
-      "anchor": "Freundschaft kostet die geplante Abfahrt.",
       "interest": "Erschließt den konkreten Preis einer solidarischen Entscheidung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Freundschaft kostet die geplante Abfahrt."
     },
     {
       "code": "S2",
@@ -150,11 +150,11 @@
       ],
       "short": "Die ostwärtige Weltreise verschafft einen gewonnenen Kalendertag.",
       "context": "Phileas Fogg (Steve Coogan) hält seine Rückkehr zunächst für zu spät. Erst dann berücksichtigt er die Datumsgrenze: Sein eigener Reisetagezähler und der Kalender in London stimmen nach der ostwärtigen Umrundung nicht überein. Der scheinbare Misserfolg wird dadurch zum Erfolg. Diese Pointe verbindet den fantastischen Technikeinsatz der Adaption mit dem berühmten Kalendertrick der Vorlage.",
-      "anchor": "Ostwärts um die Erde bringt einen zusätzlichen Kalendertag.",
       "interest": "Verlangt das Verständnis der entscheidenden Zeitrechnung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Ostwärts um die Erde bringt einen zusätzlichen Kalendertag."
     },
     {
       "code": "Y",
@@ -173,13 +173,13 @@
       ],
       "short": "Die Jackie-Chan-Fassung erschien 2004.",
       "context": "Die bekannte Verfilmung mit David Niven und Cantinflas erschien 1956. Die freie Neufassung mit Steve Coogan und Jackie Chan folgte 2004, also 48 Jahre später. D23 nennt die ältere Produktion ausdrücklich als Vorgänger der Neuverfilmung. Der Zeitanker verbindet denselben Reisegrundgedanken mit einer veränderten Ausgestaltung: technische Erfindungen, Kampfkunst und Lau Xings eigene Mission bestimmen nun das Abenteuer.",
-      "anchor": "1956 klassische Weltreise, 2004 freie Neufassung: 48 Jahre Abstand.",
       "interest": "Vergleicht zwei konkret ausgewählte Fassungen desselben Stoffes.",
       "sources": [
         "film",
         "studio",
         "d23"
-      ]
+      ],
+      "objective": "1956 klassische Weltreise, 2004 freie Neufassung: 48 Jahre Abstand."
     },
     {
       "code": "D",
@@ -198,12 +198,12 @@
       ],
       "short": "Frank Coraci führte Regie.",
       "context": "Frank Coraci inszeniert diese Weltreise als Familienabenteuer mit Komik, Erfindungen und Kampfkunst. Steve Coogan spielt den exzentrischen Phileas Fogg, Jackie Chan den Begleiter mit einer geheimen Rückgabemission. Die Besetzung und die Regie gehören zu dieser freien Bearbeitung. Der bekannte Reiseplan aus Jules Vernes Roman bleibt der Rahmen, während die Figuren neue Konflikte und Fähigkeiten erhalten.",
-      "anchor": "Coraci führt die Weltreise mit Coogan und Chan.",
       "interest": "Ordnet die moderne Fassung eindeutig zu.",
       "sources": [
         "studio",
         "d23"
-      ]
+      ],
+      "objective": "Coraci führt die Weltreise mit Coogan und Chan."
     }
   ]
 }

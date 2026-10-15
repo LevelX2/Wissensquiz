@@ -39,12 +39,12 @@
       ],
       "short": "Ein Weltkrieg hat Paris zerstört.",
       "context": "Ein Weltkrieg hat Paris zerstört. Die Überlebenden leben unterirdisch und suchen Hilfe in anderen Zeiten; die Zeitreise ist hier zunächst ein Mittel, die zerstörte Gegenwart materiell zu retten.",
-      "anchor": "Die zerstörte Gegenwart sucht Hilfe aus anderen Zeiten.",
       "interest": "Die zerstörte Gegenwart sucht Hilfe aus anderen Zeiten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die zerstörte Gegenwart sucht Hilfe aus anderen Zeiten."
     },
     {
       "code": "L2",
@@ -63,13 +63,13 @@
       ],
       "short": "Der Film besteht überwiegend aus Fotografien.",
       "context": "Der Film besteht überwiegend aus Fotografien. Erzählerstimme, Musik und Montage erzeugen dennoch einen zeitlichen Ablauf; die Erinnerung wird dadurch nicht nur zum Gegenstand der Geschichte, sondern auch zur Form ihrer Bilder.",
-      "anchor": "Stehende Bilder erzählen eine Geschichte von Zeitbewegung.",
       "interest": "Stehende Bilder erzählen eine Geschichte von Zeitbewegung.",
       "sources": [
         "handlung",
         "cinematheque"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Stehende Bilder erzählen eine Geschichte von Zeitbewegung."
     },
     {
       "code": "M1",
@@ -88,12 +88,12 @@
       ],
       "short": "Die intensive Erinnerung an eine Frau am Flughafen macht den Mann zum geeigneten Versuchssubjekt.",
       "context": "Die intensive Erinnerung an eine Frau am Flughafen macht den Mann zum geeigneten Versuchssubjekt. Andere können die Reise psychisch nicht ertragen; seine persönliche Bindung bietet den Forschern einen Zugang zur früheren Welt.",
-      "anchor": "Die Kindheitserinnerung wird zum Anker der Zeitreise.",
       "interest": "Die Kindheitserinnerung wird zum Anker der Zeitreise.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Kindheitserinnerung wird zum Anker der Zeitreise."
     },
     {
       "code": "M2",
@@ -112,12 +112,12 @@
       ],
       "short": "Die zukünftigen Menschen geben eine Energiequelle, die die zerstörte Gesellschaft erneuern kann.",
       "context": "Die zukünftigen Menschen geben eine Energiequelle, die die zerstörte Gesellschaft erneuern kann. Die Reise erfüllt damit ihren technischen Auftrag; gerade nach dem Erfolg droht dem Versuchssubjekt jedoch die Beseitigung durch seine Bewacher.",
-      "anchor": "Der technische Missionserfolg schützt den Reisenden nicht.",
       "interest": "Der technische Missionserfolg schützt den Reisenden nicht.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der technische Missionserfolg schützt den Reisenden nicht."
     },
     {
       "code": "S1",
@@ -136,12 +136,12 @@
       ],
       "short": "Der Mann bittet um Rückkehr in die Zeit seiner Kindheit.",
       "context": "Der Mann bittet um Rückkehr in die Zeit seiner Kindheit. Er möchte die Frau (Hélène Châtelain) wiedersehen; sein persönlicher Erinnerungswunsch verdrängt die sicherer wirkende Flucht in eine ferne Zukunft.",
-      "anchor": "Er wählt die geliebte Vergangenheit statt der sicheren Zukunft.",
       "interest": "Er wählt die geliebte Vergangenheit statt der sicheren Zukunft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Er wählt die geliebte Vergangenheit statt der sicheren Zukunft."
     },
     {
       "code": "S2",
@@ -160,12 +160,12 @@
       ],
       "short": "Die verstörende Kindheitserinnerung zeigt den späteren Tod des Mannes selbst.",
       "context": "Die verstörende Kindheitserinnerung zeigt den späteren Tod des Mannes selbst. Ein Verfolger aus der zerstörten Gegenwart tötet ihn bei der Rückkehr; der vermeintliche Fluchtort war schon immer Teil seines zeitlichen Kreises.",
-      "anchor": "Die lebensprägende Erinnerung ist der eigene künftige Tod.",
       "interest": "Die lebensprägende Erinnerung ist der eigene künftige Tod.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die lebensprägende Erinnerung ist der eigene künftige Tod."
     },
     {
       "code": "Y",
@@ -184,7 +184,6 @@
       ],
       "short": "1962 ist die Einordnung bei BFI und Cinémathèque française.",
       "context": "1962 ist die Einordnung bei BFI und Cinémathèque française. Die Cinémathèque nennt den Jean-Vigo-Preis von 1963: Filmjahr zuerst, Anerkennung danach. Criterion verwendet abweichend 1963 als Katalogjahr; dieser Quellenunterschied ist im Veröffentlichungsnachweis ausdrücklich dokumentiert.",
-      "anchor": "Filmjahr 1962 bei BFI und Cinémathèque, Jean-Vigo-Preis 1963: Die Anerkennung folgt im nächsten Jahr.",
       "interest": "Die Folge trennt den Film von seiner späteren Anerkennung.",
       "sources": [
         "eckdaten",
@@ -192,7 +191,8 @@
         "bfi"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Filmjahr 1962 bei BFI und Cinémathèque, Jean-Vigo-Preis 1963: Die Anerkennung folgt im nächsten Jahr."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Chris Marker schrieb und inszenierte den Foto-Roman.",
       "context": "Chris Marker schrieb und inszenierte den Foto-Roman. Davos Hanich spielt den Mann, Hélène Châtelain die erinnerte Frau, Jean Négroni spricht den Erzähler. Die weitgehende Folge stehender Bilder verbindet das Thema Erinnerung mit der materiellen Form des Films.",
-      "anchor": "Chris Marker schrieb und inszenierte den Foto-Roman.",
       "interest": "Chris Marker schrieb und inszenierte den Foto-Roman.",
       "sources": [
         "cinematheque"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Chris Marker schrieb und inszenierte den Foto-Roman."
     }
   ]
 }

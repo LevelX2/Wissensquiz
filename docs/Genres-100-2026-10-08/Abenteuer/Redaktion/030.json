@@ -36,11 +36,11 @@
       ],
       "short": "Dantès führt die Pharao.",
       "context": "Dantès (Jean Marais) kehrt als neuer Kapitän nach Marseille zurück und möchte Mercédès (Lia Amanda) heiraten. Die Intrige zerstört deshalb mehrere Zukunftsaussichten zugleich. Sein späterer Reichtum beantwortet zunächst einen Verlust von Freiheit, Beruf und persönlichem Glück.",
-      "anchor": "Dantès verliert eine gerade beginnende Zukunft.",
       "interest": "Die Ausgangsstellung erklärt das Ausmaß des späteren Verlustes.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Dantès verliert eine gerade beginnende Zukunft."
     },
     {
       "code": "L2",
@@ -59,11 +59,11 @@
       ],
       "short": "Der gefundene Schatz verschafft ihm großen Reichtum.",
       "context": "Nach der Haft findet Dantès (Jean Marais) den Schatz, dessen Lage er erfahren hat. Geld erlaubt ihm, in der Gesellschaft anders aufzutreten und seine Gegner aus einer neuen Position zu verfolgen. Der Graf ist seine gewählte Identität nach der Rückkehr, kein zweiter Mensch.",
-      "anchor": "Der Schatz finanziert Dantès’ neue Identität.",
       "interest": "Der Rollenwechsel wird mit seiner materiellen Grundlage erklärt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Schatz finanziert Dantès’ neue Identität."
     },
     {
       "code": "M1",
@@ -82,11 +82,11 @@
       ],
       "short": "Faria hilft ihm in der Gefangenschaft und verrät das Schatzgeheimnis.",
       "context": "Faria (Gualtiero Tumiati) ist für den Gefangenen Dantès (Jean Marais) Freund und Helfer. Vor seinem Tod gibt er das Wissen um den Schatz weiter. Die spätere scheinbar unabhängige Macht des Grafen beruht damit auf der Hilfe eines Menschen aus seiner dunkelsten Lebensphase.",
-      "anchor": "Farias Hilfe reicht über seinen Tod hinaus.",
       "interest": "Die Verbindung erklärt die Herkunft von Dantès’ späterer Macht.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Farias Hilfe reicht über seinen Tod hinaus."
     },
     {
       "code": "M2",
@@ -105,11 +105,11 @@
       ],
       "short": "Die Denunziation stellt ihn als bonapartistischen Agenten dar.",
       "context": "Dantès (Jean Marais) hatte auf der Rückreise einen letzten Auftrag seines Vorgängers auf Elba erfüllt. Die Gegner verwandeln diesen Zwischenstopp in eine politische Anklage. Der Film zeigt so, wie private Neid- und Liebesmotive mithilfe staatlicher Verdächtigung wirksam werden.",
-      "anchor": "Ein Zwischenstopp wird zur politischen Falle.",
       "interest": "Private Intrige und offizieller Vorwurf werden miteinander verbunden.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ein Zwischenstopp wird zur politischen Falle."
     },
     {
       "code": "S1",
@@ -128,11 +128,11 @@
       ],
       "short": "Die frühere Liebe lässt sich nicht einfach wiederherstellen.",
       "context": "Dantès (Jean Marais) kann den sozialen Aufstieg seiner Gegner zerstören. Mercédès (Lia Amanda) bleibt jedoch nicht als wiedergewonnene Zukunft bei ihm. Die Filmfassung trennt den Erfolg der Vergeltung damit von der Wiederherstellung des früheren Glücks: Gewonnene Macht macht die verlorenen Jahre nicht ungeschehen.",
-      "anchor": "Rache holt das frühere Glück nicht zurück.",
       "interest": "Die Grenze des Erfolgs ist ein eigenständiges Schlussziel.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Rache holt das frühere Glück nicht zurück."
     },
     {
       "code": "S2",
@@ -151,11 +151,11 @@
       ],
       "short": "Vernay kehrte zum bereits von ihm verfilmten Stoff als Farbfilm zurück.",
       "context": "Robert Vernay hatte die Geschichte bereits in einer Schwarzweißfassung umgesetzt. Für den Film mit Jean Marais kehrte er zum selben Stoff zurück und gestaltete ihn als Farbproduktion. Die Adaption ist damit auch ein Beispiel für einen Regisseur, der eine eigene frühere Arbeit neu interpretiert.",
-      "anchor": "Vernay verfilmt den eigenen früheren Stoff neu.",
       "interest": "Die Produktionsgeschichte bietet mehr als einen bloßen Namenscredit.",
       "sources": [
         "fassung"
-      ]
+      ],
+      "objective": "Vernay verfilmt den eigenen früheren Stoff neu."
     },
     {
       "code": "Y",
@@ -174,13 +174,13 @@
       ],
       "short": "Die beiden Teile erschienen 1954.",
       "context": "Robert Vernay hatte den Monte-Christo-Stoff bereits 1943 mit Pierre Richard-Willm verfilmt. Seine neue Fassung mit Jean Marais erschien 1954, elf Jahre später. Beide Bearbeitungen wurden als Zweiteiler angelegt. Der Zeitanker verbindet somit nicht nur denselben Dumas-Roman, sondern auch die erneute Arbeit desselben Regisseurs, der die Geschichte von Verrat und Rache mit einem anderen Hauptdarsteller aufgriff.",
-      "anchor": "1943 Vernay mit Richard-Willm – 1954 mit Marais: elf Jahre Abstand.",
       "interest": "Die Veröffentlichungsform verankert das Jahr und erklärt die Zählweise.",
       "sources": [
         "fassung",
         "handlung",
         "zeitanker"
-      ]
+      ],
+      "objective": "1943 Vernay mit Richard-Willm – 1954 mit Marais: elf Jahre Abstand."
     },
     {
       "code": "D",
@@ -199,12 +199,12 @@
       ],
       "short": "Robert Vernay führte Regie.",
       "context": "Robert Vernay inszeniert Jean Marais’ Wechsel vom jungen Kapitän zum reichen Grafen. Der Sendernachweis führt ihn als Regisseur der französisch-italienischen Produktion. Die Frage gilt beiden Teilen dieser Fassung; spätere Monte-Christo-Filme müssen über ihre jeweilige Besetzung getrennt identifiziert werden.",
-      "anchor": "Vernay führt Marais vom Kapitän zum Grafen.",
       "interest": "Der Credit wird der zusammengehörigen zweiteiligen Fassung zugeordnet.",
       "sources": [
         "handlung",
         "credit"
-      ]
+      ],
+      "objective": "Vernay führt Marais vom Kapitän zum Grafen."
     }
   ]
 }

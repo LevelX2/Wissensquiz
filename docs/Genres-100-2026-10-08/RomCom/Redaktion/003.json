@@ -33,12 +33,12 @@
       ],
       "short": "Paul ist Schriftsteller.",
       "context": "Paul Varjak (George Peppard) zieht in dasselbe Haus wie Holly Golightly (Audrey Hepburn) und stellt sich als Schriftsteller vor. Sein beruflicher Erfolg liegt jedoch zurück, und seine finanzielle Lage hängt von einer privaten Beziehung ab. Damit begegnen sich zwei Menschen, deren Auftreten nicht einfach ihre tatsächlichen Lebensumstände verrät. Das Schreiben gibt Paul eine eigene Perspektive auf Holly, löst aber seine Unsicherheit über Geld und Unabhängigkeit zunächst nicht.",
-      "anchor": "Paul schreibt, lebt aber nicht allein von seiner Literatur.",
       "interest": "Ordnet den männlichen Protagonisten über seine Arbeit ein.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Paul schreibt, lebt aber nicht allein von seiner Literatur."
     },
     {
       "code": "L2",
@@ -57,12 +57,12 @@
       ],
       "short": "Die Katze hat keinen eigenen Namen.",
       "context": "Holly Golightly (Audrey Hepburn) lebt mit einer Katze zusammen, der sie keinen Namen gegeben hat. Sie erklärt diese Entscheidung mit ihrer Vorstellung, dass beide einander nicht gehören. Das Tier wird dadurch zu einem konkreten Ausdruck ihres Widerstands gegen feste Bindungen. Die Haltung betrifft mehr als einen ungewöhnlichen Haustiernamen: Holly möchte sich selbst als unabhängig verstehen, obwohl sie ständig auf andere Menschen und deren Unterstützung angewiesen ist.",
-      "anchor": "Die namenlose Katze verkörpert Hollys Widerstand gegen Zugehörigkeit.",
       "interest": "Verbindet ein sichtbares Detail mit ihrer Selbstbeschreibung.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Die namenlose Katze verkörpert Hollys Widerstand gegen Zugehörigkeit."
     },
     {
       "code": "M1",
@@ -81,12 +81,12 @@
       ],
       "short": "Die Meldungen dienen einem Drogenring als verschlüsselte Nachrichten.",
       "context": "Holly Golightly (Audrey Hepburn) besucht Sally Tomato (Alan Reed) im Gefängnis und gibt anschließend seine scheinbar harmlosen Wetterberichte weiter. Sie versteht zunächst nicht, dass die Meldungen zum Nachrichtenaustausch eines Drogenrings gehören. Der bezahlte Gefängnisbesuch verbindet deshalb ihre Suche nach Einkommen mit einer Gefahr, die sie unterschätzt. Als die Verbindung bekannt wird, hat sie Folgen für ihre gesellschaftlichen und persönlichen Pläne, obwohl sie sich selbst nicht als Beteiligte eines solchen Geschäfts sieht.",
-      "anchor": "Der harmlose Wetterbericht ist ein krimineller Code.",
       "interest": "Fragt die verborgene Funktion eines wiederkehrenden Auftrags.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Der harmlose Wetterbericht ist ein krimineller Code."
     },
     {
       "code": "M2",
@@ -105,12 +105,12 @@
       ],
       "short": "Doc ist Hollys früherer Ehemann.",
       "context": "Doc Golightly (Buddy Ebsen) erscheint in New York und erzählt Paul Varjak (George Peppard) von Hollys (Audrey Hepburn) früherem Leben. Er ist kein Vater, sondern ihr früherer Ehemann; sie lebte damals unter dem Namen Lula Mae. Sein Auftauchen macht die Entfernung zwischen ihrer New Yorker Selbstdarstellung und ihrer Herkunft sichtbar. Er möchte sie zurückbringen, während Holly an dem selbst gewählten Leben festhält, auch wenn dieses unsicher und widersprüchlich bleibt.",
-      "anchor": "Doc gehört zu Hollys früherer Ehe und Identität.",
       "interest": "Klärt die Beziehung hinter dem überraschenden Besuch.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Doc gehört zu Hollys früherer Ehe und Identität."
     },
     {
       "code": "S1",
@@ -129,12 +129,12 @@
       ],
       "short": "Der Ring war eine Beigabe in einer Cracker-Jack-Packung.",
       "context": "Paul Varjak (George Peppard) und Holly Golightly (Audrey Hepburn) besuchen das Schmuckgeschäft und suchen eine Möglichkeit, dort mit wenig Geld etwas Besonderes zu erhalten. Der Ring stammt aus einer Cracker-Jack-Packung und soll graviert werden. Der geringe materielle Wert widerspricht der persönlichen Bedeutung der Geste nicht. Die Szene zeigt, wie die beiden innerhalb einer Welt von Luxus und hohen Preisen eine eigene kleine Form von Verbindlichkeit herstellen.",
-      "anchor": "Ein billiger Packungsring bekommt eine persönliche Gravur.",
       "interest": "Prüft die konkrete Herkunft der ungewöhnlichen Liebesgabe.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Ein billiger Packungsring bekommt eine persönliche Gravur."
     },
     {
       "code": "S2",
@@ -153,12 +153,12 @@
       ],
       "short": "Das Geld gehört zur persönlichen Affäre.",
       "context": "Emily „2E“ Failenson (Patricia Neal) finanziert Paul Varjaks (George Peppard) Leben als Teil ihrer Affäre. Seine Unabhängigkeit als Schriftsteller ist deshalb zunächst ebenso fraglich wie Hollys (Audrey Hepburn) Selbstbild einer ungebundenen Frau. Als Paul sich Holly zuwendet, muss er auch diese finanzielle Bindung verändern. Das Geld ist kein neutraler Zuschuss zur Kunst, sondern verbindet Versorgung mit einer persönlichen Beziehung, aus der er sich lösen möchte.",
-      "anchor": "Pauls Geld hängt an seiner Affäre mit 2E.",
       "interest": "Zeigt die eigene Abhängigkeit hinter seiner Beobachterrolle.",
       "sources": [
         "film",
         "afi"
-      ]
+      ],
+      "objective": "Pauls Geld hängt an seiner Affäre mit 2E."
     },
     {
       "code": "Y",
@@ -177,11 +177,11 @@
       ],
       "short": "Die Weltpremiere fand 1961 statt.",
       "context": "Frühstück bei Tiffany wurde 1961 veröffentlicht, drei Jahre nach Truman Capotes gleichnamiger Novelle von 1958. Das AFI nennt die literarische Vorlage und die New Yorker Weltpremiere. Der zeitliche Abstand verbindet zwei eigenständige Fassungen des Stoffes: Die filmische Beziehung zwischen Holly Golightly (Audrey Hepburn) und Paul Varjak (George Peppard) folgt einer eigenen Bearbeitung. Das Vorlagenjahr gehört daher nicht zur Erstveröffentlichung der Verfilmung.",
-      "anchor": "1958 Novelle, 1961 Film: drei Jahre.",
       "interest": "Trennt literarische Veröffentlichung und Filmfassung.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "1958 Novelle, 1961 Film: drei Jahre."
     },
     {
       "code": "D",
@@ -200,11 +200,11 @@
       ],
       "short": "Blake Edwards inszenierte den fertigen Film.",
       "context": "Blake Edwards führte bei der Verfilmung Regie; George Axelrod schrieb das Drehbuch nach Truman Capotes Vorlage. Das AFI beschreibt zudem frühere Planungen mit John Frankenheimer, die vom fertigen Film zu unterscheiden sind. Eine Entwicklungsphase schafft keinen zusätzlichen Hauptregiecredit. Die endgültige Inszenierung verbindet Hollys (Audrey Hepburn) gesellschaftliches Auftreten mit Pauls (George Peppard) Beobachtung und einer Liebesgeschichte, deren Verlauf nicht einfach aus dem Buch übernommen wurde.",
-      "anchor": "Blake Edwards verantwortet die fertiggestellte Filmfassung.",
       "interest": "Unterscheidet Planung, Drehbuch und Hauptregie.",
       "sources": [
         "afi"
-      ]
+      ],
+      "objective": "Blake Edwards verantwortet die fertiggestellte Filmfassung."
     }
   ]
 }

@@ -36,13 +36,13 @@
       ],
       "short": "Ponyo begegnet Sōsuke zunächst als kleiner Fisch.",
       "context": "Ponyo (japanische Originalstimme Yuria Nara) verlässt heimlich die Unterwasserwelt ihres Vaters und gerät in ein Glasgefäß. Sōsuke (Originalstimme Hiroki Doi) findet und befreit den kleinen Fisch am Ufer. Ihr menschlich wirkendes Gesicht macht die Begegnung schon ungewöhnlich, bevor ihre weiteren Fähigkeiten sichtbar werden. Aus einer einfachen Rettung entwickelt sich eine Freundschaft, die die Grenze zwischen Land und Meer verändert.",
-      "anchor": "Ein befreiter kleiner Fisch wird zum ungewöhnlichen Freund.",
       "interest": "Verankert die Ausgangsgestalt der Hauptfigur.",
       "sources": [
         "film",
         "press",
         "original"
-      ]
+      ],
+      "objective": "Ein befreiter kleiner Fisch wird zum ungewöhnlichen Freund."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Lisa arbeitet in einem Pflegeheim.",
       "context": "Lisa (japanische Originalstimme Tomoko Yamaguchi) betreut ältere Menschen in einem Pflegeheim. Ihre Arbeit bleibt auch während der ungewöhnlichen Überschwemmung wichtig: Sie fährt zu den Bewohnerinnen, um nach ihnen zu sehen. Sōsuke (Originalstimme Hiroki Doi) und Ponyo (Originalstimme Yuria Nara) suchen sie später. Der Arbeitsplatz verbindet die private Sorge um die Mutter mit der Hilfsbedürftigkeit weiterer Menschen in derselben Küstengemeinschaft.",
-      "anchor": "Lisas Pflegearbeit bindet die Familie an die ältere Nachbarschaft.",
       "interest": "Erfasst einen leicht erkennbaren sozialen Handlungsort.",
       "sources": [
         "film",
         "press"
-      ]
+      ],
+      "objective": "Lisas Pflegearbeit bindet die Familie an die ältere Nachbarschaft."
     },
     {
       "code": "M1",
@@ -85,11 +85,11 @@
       ],
       "short": "Das Blut des Jungen eröffnet Ponyo die menschliche Verwandlung.",
       "context": "Sōsuke (japanische Originalstimme Hiroki Doi) verletzt sich, als er das Glas zerbricht, in dem Ponyo (Originalstimme Yuria Nara) feststeckt. Sie leckt sein Blut und heilt die kleine Wunde. Der Kontakt wirkt zugleich auf sie selbst: Er eröffnet ihr die Möglichkeit, menschliche Gestalt anzunehmen. Die Rettungsbegegnung hat damit eine magische Folge, die später die Ordnung der Unterwasserwelt und des Küstenorts durcheinanderbringt.",
-      "anchor": "Das geheilte Fingerblut öffnet Ponyo den Weg zur Menschengestalt.",
       "interest": "Verbindet frühe Rettung und spätere Verwandlung.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das geheilte Fingerblut öffnet Ponyo den Weg zur Menschengestalt."
     },
     {
       "code": "M2",
@@ -108,11 +108,11 @@
       ],
       "short": "Ponyo macht aus dem Spielzeugboot ein benutzbares Fahrzeug.",
       "context": "Sōsuke (japanische Originalstimme Hiroki Doi) und Ponyo (Originalstimme Yuria Nara) wollen nach der Überschwemmung Lisa (Originalstimme Tomoko Yamaguchi) finden. Ponyo vergrößert dafür das kleine Spielzeugboot des Jungen. Die vertraute Miniatur wird zu einem brauchbaren Verkehrsmittel auf dem veränderten Meer. Ihre Magie hält jedoch nicht unbegrenzt an: Als sie müde wird und einschläft, schrumpft das Boot wieder auf seine ursprüngliche Größe.",
-      "anchor": "Das Spielzeug wächst mit der Magie und schrumpft mit der Müdigkeit.",
       "interest": "Beschreibt ein konkretes Reisemittel und seine Grenze.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Das Spielzeug wächst mit der Magie und schrumpft mit der Müdigkeit."
     },
     {
       "code": "S1",
@@ -131,11 +131,11 @@
       ],
       "short": "Unter dem überschwemmten Ort erscheint Meeresleben aus dem späten Devon.",
       "context": "Während ihrer Bootsfahrt sehen Sōsuke (japanische Originalstimme Hiroki Doi) und Ponyo (Originalstimme Yuria Nara) eine Unterwasserwelt mit urzeitlichen Meeresbewohnern. Der überflutete Küstenort ist dadurch nicht einfach dieselbe Landschaft unter Wasser. Die Reise führt an Lebensformen aus dem späten Devon vorbei und gibt dem fantastischen Naturwandel eine besondere zeitliche Dimension. Gegenwärtige Häuser, Menschen und Boote stehen neben einer viel älteren Meereswelt.",
-      "anchor": "Die neue Flut zeigt ein Meer aus dem Devon.",
       "interest": "Erfasst eine konkrete, anspruchsvolle Beobachtung der Reise.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die neue Flut zeigt ein Meer aus dem Devon."
     },
     {
       "code": "S2",
@@ -154,12 +154,12 @@
       ],
       "short": "Das dauerhaft menschliche Leben verlangt den Verzicht auf Magie.",
       "context": "Gran Mamare (japanische Originalstimme Yūki Amami) eröffnet Ponyo (Originalstimme Yuria Nara) die Möglichkeit, dauerhaft als Mensch zu leben. Dafür muss sie ihre magischen Kräfte aufgeben. Sōsuke (Originalstimme Hiroki Doi) hat zuvor bestätigt, dass er sie als Fisch ebenso wie als Mensch annimmt. Die Entscheidung erhält so einen Preis und eine Beziehungsvoraussetzung; die Verwandlung ist keine bloße Fortsetzung ihrer bisherigen Zauberkraft.",
-      "anchor": "Das menschliche Leben kostet Ponyo ihre Magie.",
       "interest": "Erfasst die verbindliche Bedingung der Schlussverwandlung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das menschliche Leben kostet Ponyo ihre Magie."
     },
     {
       "code": "Y",
@@ -178,12 +178,12 @@
       ],
       "short": "Der japanische Kinostart erfolgte 2008.",
       "context": "Ponyo erschien 2008 in Japan. Miyazakis Das wandelnde Schloss stammt von 2004; zwischen diesen Erstjahrgängen liegen vier Jahre. Studio Ghibli dokumentiert die japanischen Veröffentlichungstermine beider Filme. Die Verbindung ordnet Ponyo innerhalb derselben Regiearbeit ein, obwohl die Geschichten unterschiedliche Welten entwickeln: eine vom Meer veränderte Küstengemeinschaft und eine Reise um ein bewegliches, magisches Schloss. Spätere Synchronstarts verändern den ursprünglichen Jahrgang nicht.",
-      "anchor": "Wandelndes Schloss 2004, Ponyo 2008: vier Jahre.",
       "interest": "Verbindet den Erstjahrgang mit einem konkreten Miyazaki-Werk.",
       "sources": [
         "studio",
         "howl"
-      ]
+      ],
+      "objective": "Wandelndes Schloss 2004, Ponyo 2008: vier Jahre."
     },
     {
       "code": "D",
@@ -202,12 +202,12 @@
       ],
       "short": "Die japanische Originalfassung inszenierte Hayao Miyazaki.",
       "context": "Hayao Miyazaki schrieb und inszenierte Ponyo. Die Hauptregie bezieht sich auf den ursprünglichen japanischen Animationsfilm, dessen Bildwelt und Handlung bereits vor internationalen Synchronfassungen entstanden. Später beteiligte Teams der englischen Sprachbearbeitung übernehmen damit keine zweite Hauptregie des Originalfilms. Studio Ghibli führt Miyazaki ausdrücklich für Drehbuch und Regie; das Verleihpresskit bestätigt dieselbe Zuordnung für die internationale Präsentation des Werks.",
-      "anchor": "Miyazakis Hauptregie gehört zur japanischen Originalfassung.",
       "interest": "Trennt Filmregie und spätere Synchronbearbeitung.",
       "sources": [
         "studio",
         "press"
-      ]
+      ],
+      "objective": "Miyazakis Hauptregie gehört zur japanischen Originalfassung."
     }
   ],
   "country_note": "Für die japanische Originalproduktion wird Japan nach dem Originalprogramm der Fondazione Prada geführt. BFI nennt abweichend Japan/USA und führt auch englische Synchronstimmen. Der dortige zusätzliche US-Anteil wird hier nicht auf die ausdrücklich gemeinte Originalproduktion übertragen. Ponyos Originalstimme heißt im Verleihpresskit und Originalprogramm Yuria Nara; die HTML-Tabelle schreibt abweichend Yuuri Nara."

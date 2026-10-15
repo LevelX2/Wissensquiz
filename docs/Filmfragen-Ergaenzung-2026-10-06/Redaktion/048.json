@@ -32,12 +32,12 @@
       ],
       "short": "Sandra steht wegen des Todes ihres Ehemanns vor Gericht.",
       "context": "Sandra (Sandra Hüller) steht wegen des Todes ihres Ehemanns vor Gericht. Die Ursachen seines Sturzes sind umstritten; der Prozess untersucht zugleich ihre Ehe und die Glaubwürdigkeit unterschiedlicher Aussagen.",
-      "anchor": "Der ungeklärte Tod des Mannes wird zum Eheprozess.",
       "interest": "Der ungeklärte Tod des Mannes wird zum Eheprozess.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der ungeklärte Tod des Mannes wird zum Eheprozess."
     },
     {
       "code": "L2",
@@ -56,12 +56,12 @@
       ],
       "short": "Daniel ist stark sehbehindert.",
       "context": "Daniel (Milo Machado-Graner) ist stark sehbehindert. Seine Wahrnehmungen werden im Prozess wichtig, obwohl keine einzelne Perspektive den gesamten Ablauf des Todes sicher rekonstruieren kann.",
-      "anchor": "Daniels eingeschränkter Blick bleibt eine zentrale Perspektive.",
       "interest": "Daniels eingeschränkter Blick bleibt eine zentrale Perspektive.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Daniels eingeschränkter Blick bleibt eine zentrale Perspektive."
     },
     {
       "code": "M1",
@@ -80,12 +80,12 @@
       ],
       "short": "Das Gericht hört eine Tonaufnahme eines Ehestreits.",
       "context": "Das Gericht hört eine Tonaufnahme eines Ehestreits. Sandra (Sandra Hüller) und Samuel (Samuel Theis) sprechen darin über Arbeit, Elternschaft und Verletzungen; der Ton lässt verschiedene Deutungen der späteren Gewalt zu.",
-      "anchor": "Ein privater Streit wird öffentlich ausgelegt.",
       "interest": "Ein privater Streit wird öffentlich ausgelegt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein privater Streit wird öffentlich ausgelegt."
     },
     {
       "code": "M2",
@@ -104,12 +104,12 @@
       ],
       "short": "Das Paar verständigt sich auf Englisch.",
       "context": "Das Paar verständigt sich auf Englisch. Sandra (Sandra Hüller) ist Deutsche, Samuel (Samuel Theis) Franzose; eine dritte Sprache vermittelt zwischen beiden und spielt auch im französischen Prozess eine Rolle.",
-      "anchor": "Die Paarsprache ist eine dritte Sprache.",
       "interest": "Die Paarsprache ist eine dritte Sprache.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Paarsprache ist eine dritte Sprache."
     },
     {
       "code": "S1",
@@ -128,12 +128,12 @@
       ],
       "short": "Daniel prüft, ob Aspirin die frühere Erkrankung des Hundes erklären könnte.",
       "context": "Daniel (Milo Machado-Graner) prüft, ob Aspirin die frühere Erkrankung des Hundes erklären könnte. Damit untersucht er Sandras (Sandra Hüller) Bericht über Samuels Überdosierung; sein gefährlicher Versuch beeinflusst seine Sicht auf den Fall.",
-      "anchor": "Daniels Versuch verbindet den Hund mit der Suizidhypothese.",
       "interest": "Daniels Versuch verbindet den Hund mit der Suizidhypothese.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Daniels Versuch verbindet den Hund mit der Suizidhypothese."
     },
     {
       "code": "S2",
@@ -152,12 +152,12 @@
       ],
       "short": "Der Freispruch entscheidet die Anklage, zeigt aber keinen zweifelsfreien tatsächlichen Ablauf.",
       "context": "Der Freispruch entscheidet die Anklage, zeigt aber keinen zweifelsfreien tatsächlichen Ablauf. Sandra (Sandra Hüller) und Daniel (Milo Machado-Graner) müssen nach dem Urteil wieder miteinander leben.",
-      "anchor": "Freispruch und vollständige Gewissheit sind verschieden.",
       "interest": "Freispruch und vollständige Gewissheit sind verschieden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Freispruch und vollständige Gewissheit sind verschieden."
     },
     {
       "code": "Y",
@@ -176,12 +176,12 @@
       ],
       "short": "Der Film wurde 2023 erstmals veröffentlicht.",
       "context": "2023 gewann der Film bei seiner Cannes-Premiere die Goldene Palme. Das Drehbuch erhielt 2024 den Oscar; zwischen Erstveröffentlichung und Oscar-Verleihung liegt ein Jahr. Dieser Abstand trennt das Filmjahr vom späteren Auszeichnungsjahr.",
-      "anchor": "Dem Cannes-Film von 2023 folgte ein Jahr später, 2024, der Drehbuch-Oscar.",
       "interest": "Dem Cannes-Film von 2023 folgte ein Jahr später, 2024, der Drehbuch-Oscar.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Dem Cannes-Film von 2023 folgte ein Jahr später, 2024, der Drehbuch-Oscar."
     },
     {
       "code": "D",
@@ -200,12 +200,12 @@
       ],
       "short": "Regie: Justine Triet.",
       "context": "Triet schrieb mit Arthur Harari und entwickelte die Hauptrolle für Sandra (Sandra Hüller) Hüller. Die beiden hatten zuvor bei Sibyl zusammengearbeitet; die neue Rolle verbindet fremde Sprache, Paarbeziehung und öffentlichen Prozess.",
-      "anchor": "Triet schrieb mit Arthur Harari und entwickelte die Hauptrolle für Sandra Hüller.",
       "interest": "Triet schrieb mit Arthur Harari und entwickelte die Hauptrolle für Sandra Hüller.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Triet schrieb mit Arthur Harari und entwickelte die Hauptrolle für Sandra Hüller."
     }
   ]
 }

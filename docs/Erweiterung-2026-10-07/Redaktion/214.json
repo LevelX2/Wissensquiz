@@ -49,13 +49,13 @@
       ],
       "short": "Digicorp wirbt ihn für geheime Informationsaufträge an.",
       "context": "Sullivan wünscht sich einen Ausweg aus seinem eintönigen Leben. Digicorp bietet ihm eine verdeckte Tätigkeit und eine neue Identität. Der berufliche Wechsel wirkt zunächst wie eine persönliche Befreiung. Jeremy Northam spielt jedoch einen Mann, dessen Wunsch nach Veränderung ihn für Aufträge verfügbar macht, deren tatsächlichen Zweck er nicht kennt.",
-      "anchor": "Der ersehnte neue Beruf liefert Sullivan an eine kontrollierte Identität aus.",
       "interest": "Die Tätigkeit erklärt seinen Einstieg in das Firmenrätsel.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der ersehnte neue Beruf liefert Sullivan an eine kontrollierte Identität aus."
     },
     {
       "code": "L2",
@@ -74,13 +74,13 @@
       ],
       "short": "Die scheinbare Spionageaufgabe betrifft die Kongressaufzeichnungen.",
       "context": "Digicorp schickt Sullivan zu Veranstaltungen mit der Anweisung, Inhalte verdeckt weiterzugeben. Der wiederholbare Ablauf vermittelt ihm eine plausible berufliche Routine. Die scheinbar kleinen technischen Aufgaben halten ihn beschäftigt. Erst ein Versuch, die Übertragung auszusetzen, erlaubt ihm zu prüfen, ob die Erklärungen seines Arbeitgebers mit den tatsächlichen Reaktionen übereinstimmen.",
-      "anchor": "Die Kongressroutine gibt dem neuen Agenten eine glaubhafte Beschäftigung.",
       "interest": "Der Auftrag erklärt, weshalb spätere Unstimmigkeiten zunächst verborgen bleiben.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die Kongressroutine gibt dem neuen Agenten eine glaubhafte Beschäftigung."
     },
     {
       "code": "M1",
@@ -99,13 +99,13 @@
       ],
       "short": "Die Bestätigung einer ausgebliebenen Übertragung widerspricht dem Auftrag.",
       "context": "Rita Foster (Lucy Liu) fordert Sullivan auf, das Gerät nicht einzuschalten. Dennoch meldet Digicorp anschließend eine erfolgreiche Übertragung. Die Aussage lässt sich mit seinem eigenen Handeln nicht vereinbaren. Der Versuch macht damit erstmals sichtbar, dass die Firma ihren Mitarbeiter nicht über das informiert, was sie an den Veranstaltungen tatsächlich interessiert.",
-      "anchor": "Eine nicht gesendete Aufnahme wird angeblich erfolgreich empfangen.",
       "interest": "Der kleine Kontrollversuch prüft die Firmenbehauptung anhand einer eigenen Entscheidung.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Eine nicht gesendete Aufnahme wird angeblich erfolgreich empfangen."
     },
     {
       "code": "M2",
@@ -124,13 +124,13 @@
       ],
       "short": "Die Veranstaltungen dienen verdeckter Identitätsprogrammierung.",
       "context": "Mit Ritas Gegenmittel kann Sullivan wach bleiben, während die anderen betäubt werden. Er beobachtet, dass die angebliche Firmenveranstaltung ihre Identitäten verändert. Seine eigene Tarnung soll zu einem für ihn scheinbar echten Leben werden. Der Betrug betrifft deshalb mehr als die Verwendung von Informationen: Er verändert, wer ein Mitarbeiter sich selbst zu sein glaubt.",
-      "anchor": "Der Kongress macht aus einer Tarnidentität eine eingepflanzte Selbstvorstellung.",
       "interest": "Die Methode erklärt die persönliche Reichweite der Firmenkontrolle.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Kongress macht aus einer Tarnidentität eine eingepflanzte Selbstvorstellung."
     },
     {
       "code": "S1",
@@ -149,13 +149,13 @@
       ],
       "short": "Die vertraute Konstruktion ruft seine Fähigkeiten als Rooks zurück.",
       "context": "Rita (Lucy Liu) kann den Helikopter nicht fliegen. Sullivan muss die Rolle verlassen, in der er sich bislang erlebt hat. Die Erinnerung an den eigenen Entwurf erschließt ihm seine Fähigkeiten als Sebastian Rooks. Die Wiedergewinnung der Identität zeigt sich damit in einer praktischen Handlung und nicht allein in einer weiteren fremden Erklärung.",
-      "anchor": "Der selbst entworfene Helikopter macht Rooks’ Erinnerung als Können wieder zugänglich.",
       "interest": "Eine konkrete Fähigkeit bestätigt das wiedergewonnene Selbstbild.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der selbst entworfene Helikopter macht Rooks’ Erinnerung als Können wieder zugänglich."
     },
     {
       "code": "S2",
@@ -174,13 +174,13 @@
       ],
       "short": "Die Vernichtung beendet den Zugriff auf Ritas Identität und Auftrag.",
       "context": "Die gestohlenen Daten betreffen Rita Foster (Lucy Liu) und enthalten einen Auftrag, sie zu töten. Ihre letzte Kopie wird vernichtet. Was zunächst wie ein Kampf um Firmenwissen wirkte, erhält dadurch einen persönlichen Zweck. Rooks’ vielschichtiger Plan zielte auf den Datensatz, der eine konkrete Person auffindbar und für ihre Gegner verfügbar machte.",
-      "anchor": "Die letzte Datenkopie verbindet Ritas Identität mit ihrer gezielten Tötung.",
       "interest": "Der Inhalt erklärt den persönlichen Zweck des gesamten Spionageplans.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die letzte Datenkopie verbindet Ritas Identität mit ihrer gezielten Tötung."
     },
     {
       "code": "Y",
@@ -199,14 +199,14 @@
       ],
       "short": "Die erste Veröffentlichung gehört ins Jahr 2002.",
       "context": "Cypher erschien 2002, fünf Jahre nach Vincenzo Natalis Debüt Cube von 1997. Der Regisseur beschreibt einen Unterschied: Cube verfolgt eine Gruppe, Cypher die subjektive Erfahrung eines einzelnen Mannes. Vom gemeinsamen räumlichen Rätsel führt der spätere Film deshalb zu einer Identität, deren scheinbar feste Grundlagen sich mit jedem Auftrag verändern.",
-      "anchor": "Cube 1997 → Cypher 2002: fünf Jahre später wechselt Natali vom Gruppenrätsel zur Einzelperspektive.",
       "interest": "Die zeitliche Verbindung zeigt zugleich eine konkrete Veränderung der Erzählperspektive.",
       "sources": [
         "wiki",
         "interview",
         "arrow"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Cube 1997 → Cypher 2002: fünf Jahre später wechselt Natali vom Gruppenrätsel zur Einzelperspektive."
     },
     {
       "code": "D",
@@ -225,13 +225,13 @@
       ],
       "short": "Vincenzo Natali führte bei diesem Film Regie.",
       "context": "Vincenzo Natali führte Regie nach einem Drehbuch von Brian King. Die vermeintlich alltägliche Arbeit als Industriespion führt schrittweise zu veränderten Identitäten. Jeremy Northams Figur erhält immer neue Erklärungen ihrer Aufgaben. Die Regie organisiert diese Enthüllungen so, dass jeder neue Auftrag zugleich das zuvor behauptete Selbstbild des Mannes unsicher macht.",
-      "anchor": "Natalis Industriespionagegeschichte lässt mit jedem Auftrag auch die Identität neu erscheinen.",
       "interest": "Die Struktur erklärt die Verbindung von Firmenkonflikt und persönlichem Rätsel.",
       "sources": [
         "wiki",
         "de"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Natalis Industriespionagegeschichte lässt mit jedem Auftrag auch die Identität neu erscheinen."
     }
   ]
 }

@@ -31,11 +31,11 @@
       ],
       "short": "Fogg setzt sein Vermögen auf die Reisewette.",
       "context": "Phileas Fogg (David Niven) behandelt die Reise zunächst als beweisbare Leistung. Die Wette im Reform Club setzt einen genauen Rahmen, während die Begegnungen unterwegs immer neue Hindernisse und Bindungen schaffen. Aus einer Zeitrechnung wird damit ein persönliches Abenteuer.",
-      "anchor": "Fogg reist wegen einer Clubwette.",
       "interest": "Das Ausgangsmotiv erklärt, warum Zeitdruck alle Etappen verbindet.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Fogg reist wegen einer Clubwette."
     },
     {
       "code": "L2",
@@ -54,11 +54,11 @@
       ],
       "short": "Passepartout ist Foggs Diener und Reisebegleiter.",
       "context": "Passepartout (Cantinflas) reagiert beweglicher auf die verschiedenen Stationen als Phileas Fogg (David Niven). Ihr Verhältnis verbindet die formale Planung des Herrn mit der praktischen Hilfe des Dieners. Gerade die unterschiedlichen Temperamente geben der Reise ihren komischen Ton.",
-      "anchor": "Fogg plant – Passepartout begleitet und improvisiert.",
       "interest": "Die Funktion der Figur erschließt das Zusammenspiel des Reise-Duos.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Fogg plant – Passepartout begleitet und improvisiert."
     },
     {
       "code": "M1",
@@ -77,11 +77,11 @@
       ],
       "short": "Fix verdächtigt Fogg eines Bankraubs in London.",
       "context": "Inspektor Fix (Robert Newton) liest Phileas Foggs (David Niven) schnelle Abreise und großzügige Ausgaben als Hinweise auf einen Bankraub. Die Zuschauer erleben eine Reise, die für den Polizisten gleichzeitig wie eine Flucht aussieht. Derselbe Vorgang erhält dadurch zwei verschiedene Erklärungen.",
-      "anchor": "Foggs Reisekasse wirkt auf Fix wie Bankbeute.",
       "interest": "Die Verfolgung beruht auf einer falschen Deutung erkennbarer Umstände.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Foggs Reisekasse wirkt auf Fix wie Bankbeute."
     },
     {
       "code": "M2",
@@ -100,11 +100,11 @@
       ],
       "short": "Fogg nutzt nach dem Kauf brennbare Teile des Schiffs.",
       "context": "Phileas Fogg (David Niven) setzt seinen Besitz zunehmend für die Wette ein. Die letzte Überfahrt verlangt eine besonders radikale Entscheidung: Teile des Verkehrsmittels werden selbst zum Brennstoff. Der genaue Plan muss erneut einer improvisierten Lösung weichen.",
-      "anchor": "Schiff gekauft – Schiffsteile verheizt.",
       "interest": "Ein materielles Problem erzwingt eine anschauliche improvisierte Entscheidung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Schiff gekauft – Schiffsteile verheizt."
     },
     {
       "code": "S1",
@@ -123,11 +123,11 @@
       ],
       "short": "Durch die Weltreise nach Osten hat Fogg einen Tag gewonnen.",
       "context": "Passepartout (Cantinflas) entdeckt bei den Vorbereitungen einer Hochzeit den Irrtum im Wochentag. Phileas Fogg (David Niven) hat die Datumsänderung auf seiner Ostwärtsreise nicht richtig berücksichtigt. Die Lösung liegt deshalb in der Reise selbst und nicht in einem nachträglichen Entgegenkommen der Wettpartner.",
-      "anchor": "Einmal ostwärts herum – ein Kalendertag gewonnen.",
       "interest": "Der Schluss führt ein geografisches Prinzip als Handlungsauflösung ein.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Einmal ostwärts herum – ein Kalendertag gewonnen."
     },
     {
       "code": "S2",
@@ -146,11 +146,11 @@
       ],
       "short": "AFI bezeichnet die Ballonfahrt als Erfindung für die Verfilmung.",
       "context": "Das Bild des Ballons ist besonders eng mit diesem Reiseabenteuer verbunden. Die filmische Ergänzung nutzt den freien Himmel als Schauplatz eines großen Bildspektakels. Sie zeigt, dass ein vertrautes Motiv einer Verfilmung nicht automatisch ein Motiv ihrer literarischen Vorlage sein muss.",
-      "anchor": "Der ikonische Ballon kommt aus der Verfilmung.",
       "interest": "Eine belegte Adaptionsentscheidung korrigiert eine verbreitete Verwechslung.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Der ikonische Ballon kommt aus der Verfilmung."
     },
     {
       "code": "Y",
@@ -169,11 +169,11 @@
       ],
       "short": "Die Premiere war 1956.",
       "context": "1956 bringt Mike Todd die Reise im Großbildverfahren Todd-AO ins Kino. Dieses Verfahren war im Jahr zuvor mit „Oklahoma!“ eingesetzt worden. Der Abstand von einem Jahr verbindet das Reiseabenteuer mit der damaligen Suche nach besonders eindrucksvollen Kinoformaten.",
-      "anchor": "1955 Oklahoma! – 1956 Foggs Großbildreise.",
       "interest": "Der belegte technische Zusammenhang liefert einen Jahresanker.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "1955 Oklahoma! – 1956 Foggs Großbildreise."
     },
     {
       "code": "D",
@@ -192,11 +192,11 @@
       ],
       "short": "Der offizielle Regiecredit lautet Michael Anderson.",
       "context": "Michael Anderson übernahm die Regie während einer aufwendigen internationalen Produktion. AFI dokumentiert einen vorausgehenden Regiewechsel und eigene Sequenzarbeit des Produzenten Mike Todd. Diese zusätzliche Mitwirkung wird erläutert; die Frage zielt ausdrücklich auf den offiziellen Credit Andersons.",
-      "anchor": "Offiziell Anderson – Produktion mit mehreren Mitwirkungen.",
       "interest": "Der Credit wird vom komplizierteren Produktionsablauf unterschieden.",
       "sources": [
         "archiv"
-      ]
+      ],
+      "objective": "Offiziell Anderson – Produktion mit mehreren Mitwirkungen."
     }
   ]
 }

@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Marcello arbeitet als Journalist.",
       "context": "Er bewegt sich zwischen Prominenten, Partys und den Hoffnungen auf ein anderes Leben. Als Berichterstatter ist er Teil des Betriebs, den er beobachtet. Fellinis Film folgt keiner geradlinigen Aufstiegsgeschichte, sondern reiht Begegnungen zu einem Bild des modernen Rom aneinander. Mastroiannis Müdigkeit und Eleganz machen den Widerspruch zwischen beruflicher Nähe zum Glanz und innerer Distanz sichtbar.",
-      "anchor": "Marcello beobachtet die römische Prominenz und gehört zugleich zu ihrem Betrieb.",
       "interest": "Der Beruf erklärt den besonderen Blickwinkel der Hauptfigur.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/film/85387dcd-04ae-50fe-b860-89be5a907115/la-dolce-vita"
-      ]
+      ],
+      "objective": "Marcello beobachtet die römische Prominenz und gehört zugleich zu ihrem Betrieb."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Guido ist Filmregisseur.",
       "context": "Sein neues Projekt ist bereits vorbereitet, doch Guido verliert den Zugriff darauf. Produzent, Darstellerinnen und private Beziehungen stellen Forderungen an ihn. Erinnerungen und Fantasien drängen in die Gegenwart. Mastroianni spielt daher zugleich einen beruflich Verantwortlichen und einen Mann, der sich vor Entscheidungen flüchtet. Fellini macht aus dieser Krise die Form des Films selbst.",
-      "anchor": "Ein Regisseur weiß nicht mehr, welchen Film er eigentlich drehen will.",
       "interest": "Die Frage erschließt den Zusammenhang zwischen Figur und selbstreflexiver Erzählung.",
       "feedback": [
         "Guido ist Filmregisseur.",
@@ -58,7 +57,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/8%C2%BD"
-      ]
+      ],
+      "objective": "Ein Regisseur weiß nicht mehr, welchen Film er eigentlich drehen will."
     },
     {
       "code": "M1",
@@ -72,7 +72,6 @@
       "correct": 3,
       "short": "Er will seine Frau töten und die Tat als Wiederherstellung seiner Ehre behandeln lassen.",
       "context": "Ferdinando möchte seine junge Cousine heiraten, kann seine bestehende Ehe aber nicht durch Scheidung lösen. Deshalb versucht er, seine Frau zu einer Affäre zu treiben. Die Komödie legt den Widerspruch einer Moral offen, die eine Trennung verbietet und zugleich männliche Gewalt milder beurteilt. Mastroianni nutzt sein elegantes Image für eine Figur voller Selbstmitleid und mörderischer Berechnung.",
-      "anchor": "Die verbotene Scheidung führt zum Plan eines angeblichen Ehrenmords.",
       "interest": "Das Ziel verbindet den individuellen Plan mit der gesellschaftlichen Satire.",
       "feedback": [
         "",
@@ -86,7 +85,8 @@
       "extraSources": [
         "https://www.criterion.com/films/877-divorce-italian-style",
         "https://en.wikipedia.org/wiki/Divorce_Italian_Style"
-      ]
+      ],
+      "objective": "Die verbotene Scheidung führt zum Plan eines angeblichen Ehrenmords."
     },
     {
       "code": "M2",
@@ -100,7 +100,6 @@
       "correct": 1,
       "short": "Filumena verrät nicht, welches ihrer drei Kinder Domenicos leibliches Kind ist.",
       "context": "Domenico versucht, aus Gewohnheiten und Ähnlichkeiten eine biologische Zugehörigkeit abzuleiten. Filumena beharrt dagegen darauf, dass ihre Kinder gleich behandelt werden. Die verweigerte Auskunft ist deshalb mehr als ein Rätsel um die Vaterschaft: Sie verhindert, dass ein Kind durch Domenicos Geld bevorzugt und die Brüder auseinandergebracht werden. Seine Entscheidung für die Familie muss ohne diesen Beweis auskommen.",
-      "anchor": "Filumena schützt die Gleichheit der Kinder durch ihr Schweigen.",
       "interest": "Die Frage erschließt den Familienkonflikt hinter dem Heiratsmanöver.",
       "feedback": [
         "",
@@ -113,7 +112,8 @@
       ],
       "extraSources": [
         "https://en.wikipedia.org/wiki/Marriage_Italian_Style"
-      ]
+      ],
+      "objective": "Filumena schützt die Gleichheit der Kinder durch ihr Schweigen."
     },
     {
       "code": "S1",
@@ -127,7 +127,6 @@
       "correct": 1,
       "short": "Gabriele wird wegen seiner Homosexualität verfolgt.",
       "context": "Während Rom Hitlers Besuch bei Mussolini feiert, bleiben Gabriele und die Hausfrau Antonietta im Wohnblock zurück. Der Rundfunk verbreitet unablässig die Propaganda des Festtags. Zwischen beiden entsteht eine Nähe, die Antoniettas bisherige Bewunderung für das Regime erschüttert. Mastroianni und Loren lösen sich hier von ihren glamourösen Leinwandbildern und zeigen Menschen, denen die herrschende Ordnung wenig Raum lässt.",
-      "anchor": "Der gefeierte Staat hat Gabriele aus seinem Beruf und seiner Gesellschaft ausgeschlossen.",
       "interest": "Die Frage verbindet eine gegen das Starimage besetzte Rolle mit politischer Verfolgung.",
       "feedback": [
         "",
@@ -141,7 +140,8 @@
       "extraSources": [
         "https://www.criterion.com/current/posts/3745-a-special-day-small-victories",
         "https://www.criterion.com/films/28659-a-special-day"
-      ]
+      ],
+      "objective": "Der gefeierte Staat hat Gabriele aus seinem Beruf und seiner Gesellschaft ausgeschlossen."
     },
     {
       "code": "S2",
@@ -155,7 +155,6 @@
       "correct": 2,
       "short": "Visconti ließ eine an Livorno angelehnte Stadtlandschaft im Studio bauen.",
       "context": "Visconti verlegte Dostojewskis Erzählung aus Petersburg in das zeitgenössische Italien. Die sichtbare Künstlichkeit der Kulisse und die Beleuchtung erzeugen eine Welt zwischen Alltag und Traum. Darin sucht Mastroiannis Mario Kontakt zu einer Frau, die auf einen anderen Mann wartet. Der Raum illustriert somit keine beliebige Stadt, sondern unterstützt den Gegensatz zwischen erfahrener Wirklichkeit und erhofftem Glück.",
-      "anchor": "Die Traumstadt wurde gebaut, um Wirklichkeit und Sehnsucht ineinanderzuschieben.",
       "interest": "Das Ziel verbindet die Spielumgebung mit der Wirkung der Darstellung.",
       "feedback": [
         "",
@@ -168,7 +167,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/374-le-notti-bianche"
-      ]
+      ],
+      "objective": "Die Traumstadt wurde gebaut, um Wirklichkeit und Sehnsucht ineinanderzuschieben."
     },
     {
       "code": "E1",
@@ -182,7 +182,6 @@
       "correct": 3,
       "short": "Visconti prägte Mastroianni in der Theaterarbeit.",
       "context": "Ende der 1940er Jahre arbeitete Mastroianni auf der Bühne unter Viscontis anspruchsvoller Anleitung. Später beschrieb er die Zusammenarbeit mit Fellini als spielerischer und weniger streng. Beide Erfahrungen gehören zu seiner Laufbahn: sorgfältige Vorbereitung und die Bereitschaft, sich in den Dienst eines Regisseurs zu stellen. Sein scheinbar müheloses Auftreten war deshalb keine bloße Verlängerung eines charmanten Privatmanns.",
-      "anchor": "Hinter dem mühelosen Filmstar steht anspruchsvolle Theaterarbeit.",
       "interest": "Die Frage öffnet den Blick auf seine Ausbildung und unterschiedliche Formen der Zusammenarbeit.",
       "feedback": [
         "",
@@ -193,7 +192,8 @@
       "films": [],
       "extraSources": [
         "https://www.bfi.org.uk/lists/marcello-mastroianni-10-essential-films"
-      ]
+      ],
+      "objective": "Hinter dem mühelosen Filmstar steht anspruchsvolle Theaterarbeit."
     },
     {
       "code": "E2",
@@ -207,7 +207,6 @@
       "correct": 0,
       "short": "Angelopoulos hielt Mastroianni zunächst für zu schön für die Figur.",
       "context": "Der Regisseur kannte vor allem die Komödien und Fellini-Filme des Stars. Mastroiannis starke Reaktion auf das Drehbuch überzeugte ihn dennoch. Daraus entstand eine zurückhaltende, melancholische Altersdarstellung. Der Besetzungsweg zeigt, wie ein festes öffentliches Bild den Blick auf schauspielerische Möglichkeiten begrenzen kann und wie eine konkrete Zusammenarbeit diese Erwartung verändert.",
-      "anchor": "Eine melancholische Altersrolle erweiterte das vertraute Bild des Stars.",
       "interest": "Der Produktionskontext erklärt eine Besetzung gegen eine zunächst angenommene Wirkung.",
       "feedback": [
         "Angelopoulos hielt Mastroianni zunächst für zu schön für die Figur.",
@@ -220,7 +219,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/marcello-mastroianni-10-essential-films"
-      ]
+      ],
+      "objective": "Eine melancholische Altersrolle erweiterte das vertraute Bild des Stars."
     }
   ]
 }

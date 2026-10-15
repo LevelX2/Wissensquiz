@@ -36,12 +36,12 @@
       ],
       "short": "Harkers Tarnrolle ist die eines Bibliothekars.",
       "context": "Jonathan Harker (John Van Eyssen) kommt mit den Unterlagen für eine Anstellung als Bibliothekar ins Schloss. In seinem Tagebuch wird dagegen deutlich, dass er den Vampir vernichten will. Dracula (Christopher Lee) empfängt somit einen Besucher, dessen sichtbarer Auftrag und wahre Absicht auseinanderfallen. Diese Fassung verändert den bekannten Stoff: Harker erledigt kein Immobiliengeschäft, sondern versucht unter einer beruflichen Tarnung Zugang zum Gegner zu gewinnen.",
-      "anchor": "Der Bibliothekarauftrag verbirgt Harkers eigentliche Absicht.",
       "interest": "Erschließt den besonderen Einstieg der Hammer-Fassung.",
       "sources": [
         "film",
         "essay"
-      ]
+      ],
+      "objective": "Der Bibliothekarauftrag verbirgt Harkers eigentliche Absicht."
     },
     {
       "code": "L2",
@@ -60,11 +60,11 @@
       ],
       "short": "Lucy ist Harkers Verlobte.",
       "context": "Lucy Holmwood (Carol Marsh) ist mit Jonathan Harker (John Van Eyssen) verlobt. Ihr Bruder Arthur (Michael Gough) ist dagegen mit Mina (Melissa Stribling) verheiratet. Diese Beziehungen sind für die Sorge um Lucy und die spätere Zusammenarbeit wichtig. Sie unterscheiden sich von anderen Dracula-Verfilmungen. Wer die Namen bereits kennt, muss deshalb trotzdem die konkrete Hammer-Fassung beachten, statt vertraute Paarbindungen aus einer anderen Geschichte zu übernehmen.",
-      "anchor": "Harker ist mit Lucy verlobt; Arthur ist mit Mina verheiratet.",
       "interest": "Ordnet die zentrale Beziehung ohne Stoffvarianten zu vermischen.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Harker ist mit Lucy verlobt; Arthur ist mit Mina verheiratet."
     },
     {
       "code": "M1",
@@ -83,11 +83,11 @@
       ],
       "short": "Gerda entfernt auf Lucys Bitte den schützenden Knoblauch.",
       "context": "Van Helsing (Peter Cushing) ordnet Knoblauch zum Schutz Lucys (Carol Marsh) an. Die Kranke bittet Gerda (Olga Dickie), die Sträuße zu entfernen, und die betreuende Frau folgt ihrer Bitte. Dadurch geht die Vorsichtsmaßnahme verloren. Der Vorgang verbindet die übernatürliche Gefahr mit einer alltäglichen Entscheidung im Krankenzimmer: Gut gemeinte Hilfe berücksichtigt nicht die Bedeutung des Schutzes, die der Arzt gerade erklärt hat.",
-      "anchor": "Die scheinbare Erleichterung beseitigt den Schutz.",
       "interest": "Erklärt die konkrete Handlung, durch die eine Vorsichtsmaßnahme scheitert.",
       "sources": [
         "film"
-      ]
+      ],
+      "objective": "Die scheinbare Erleichterung beseitigt den Schutz."
     },
     {
       "code": "M2",
@@ -106,12 +106,12 @@
       ],
       "short": "Das Kruzifix hinterlässt ein Brandmal an Minas Hand.",
       "context": "Mina (Melissa Stribling) kann nach ihrer Begegnung mit Dracula (Christopher Lee) ein Kruzifix nicht mehr ohne Verletzung halten. Das Brandmal macht die Veränderung für Arthur Holmwood (Michael Gough) sichtbar. Es ist ein konkreter Befund, der die zuvor unsichere Lage verschärft. Im Schlussverlauf verschwindet die kreuzförmige Spur wieder. Derselbe körperliche Hinweis begleitet damit zunächst die Bedrohung und später die Befreiung von deren Wirkung.",
-      "anchor": "Das Kreuz hinterlässt an Minas Hand eine sichtbare Spur.",
       "interest": "Verbindet Gegenstand, körperliches Zeichen und Handlungsfolge.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Kreuz hinterlässt an Minas Hand eine sichtbare Spur."
     },
     {
       "code": "S1",
@@ -130,12 +130,12 @@
       ],
       "short": "Der Gegner hat seinen Rückzugsort bereits im Keller des Hauses.",
       "context": "Arthur Holmwood (Michael Gough) und Van Helsing (Peter Cushing) bewachen das Haus, damit Dracula (Christopher Lee) nicht erneut zu Mina (Melissa Stribling) gelangt. Sie denken an ein Eindringen von außen. Doch sein Sarg steht bereits im Keller. Eine beiläufige Bemerkung Gerdas (Olga Dickie) über den gesperrten Raum führt zur Entdeckung. Der Schutzplan scheitert somit an einer falschen Annahme über den Aufenthaltsort des Gegners.",
-      "anchor": "Die Wachen sichern außen, der Sarg steht innen.",
       "interest": "Erklärt die räumliche Täuschung hinter der erfolglosen Bewachung.",
       "sources": [
         "film"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Wachen sichern außen, der Sarg steht innen."
     },
     {
       "code": "S2",
@@ -154,13 +154,13 @@
       ],
       "short": "Zwei Kerzenständer bilden Van Helsings improvisiertes Kreuz.",
       "context": "Van Helsing (Peter Cushing) kann Dracula (Christopher Lee) im direkten Kampf nicht allein durch Körperkraft überwinden. Er reißt den Vorhang herunter und hält zwei Kerzenständer als Kreuz vor sich. Damit drängt er den Vampir in die tödlichen Sonnenstrahlen. Der BFI-Artikel beschreibt dieses konkrete Finale. Die Lösung ist keine Pfählung: Zwei gewöhnliche Einrichtungsgegenstände ergänzen das Licht zu einem improvisierten Mittel der Gegenwehr.",
-      "anchor": "Kerzenständerkreuz und Sonnenlicht entscheiden den Schlusskampf.",
       "interest": "Erfasst den konkreten Einsatz gewöhnlicher Gegenstände.",
       "sources": [
         "film",
         "essay"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Kerzenständerkreuz und Sonnenlicht entscheiden den Schlusskampf."
     },
     {
       "code": "Y",
@@ -179,13 +179,13 @@
       ],
       "short": "Die Hammer-Fassung erschien erstmals 1958.",
       "context": "Terence Fisher inszenierte Frankensteins Fluch für Hammer 1957 und Dracula 1958, ein Jahr später. Der BFI-Artikel stellt die beiden Produktionen in diesen Zusammenhang. Der Jahresanker verbindet daher zwei konkrete Schritte desselben Regisseurs innerhalb von Hammers Horrorentwicklung. Er ersetzt jedoch nicht den Erststart durch das Produktionsjahr: Die Filmfassung mit Christopher Lee und Peter Cushing gehört eindeutig zum Veröffentlichungsjahr 1958.",
-      "anchor": "Frankensteins Fluch 1957, Dracula 1958: ein Jahr.",
       "interest": "Verbindet das Erstjahr mit einem unmittelbar vorausgehenden Hammer-Film.",
       "sources": [
         "essay",
         "bfi",
         "film"
-      ]
+      ],
+      "objective": "Frankensteins Fluch 1957, Dracula 1958: ein Jahr."
     },
     {
       "code": "D",
@@ -204,12 +204,12 @@
       ],
       "short": "Terence Fisher inszenierte den Hammer-Auftakt.",
       "context": "Terence Fisher führte bei dieser Hammer-Produktion Hauptregie. Jimmy Sangsters Drehbuch verändert Figurenbeziehungen und konzentriert die Wege der Handlung; diese Schreibarbeit ist vom Regiecredit getrennt. Der BFI-Artikel beschreibt Peter Cushings Van Helsing als besonders aktiven Gegenspieler. Die Zuordnung gilt dem Film mit Christopher Lee, nicht einem beliebigen Werk desselben Titels. Universal produzierte zuvor eine eigenständige englische Fassung mit einem anderen Regisseur.",
-      "anchor": "Der Hammer-Dracula mit Christopher Lee gehört zu Terence Fisher.",
       "interest": "Trennt den konkreten Hauptcredit von anderen Fassungen.",
       "sources": [
         "bfi",
         "film"
-      ]
+      ],
+      "objective": "Der Hammer-Dracula mit Christopher Lee gehört zu Terence Fisher."
     }
   ],
   "rank": 6

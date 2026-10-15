@@ -38,12 +38,12 @@
       ],
       "short": "Das Goldene Vlies besitzt die benötigte Heilungskraft.",
       "context": "Percy (Logan Lerman) und seine Freunde suchen das Goldene Vlies, um ihre bedrohte Heimat zu retten. Der Gegenstand gehört zur antiken Sagenwelt und wird hier mit einer neuen Aufgabe versehen. Sein Wert liegt weniger im Gold als in seiner Fähigkeit, eine beschädigte Schutzfunktion wiederherzustellen.",
-      "anchor": "Das Goldene Vlies wird als Heilmittel gebraucht.",
       "interest": "Ein bekannter Mythos erhält eine konkrete neue Funktion.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Goldene Vlies wird als Heilmittel gebraucht."
     },
     {
       "code": "L2",
@@ -62,12 +62,12 @@
       ],
       "short": "Tyson und Percy haben denselben göttlichen Vater, Poseidon.",
       "context": "Tyson (Douglas Smith) ist wie Percy (Logan Lerman) ein Sohn Poseidons. Percy reagiert zunächst unsicher auf seinen zyklopischen Halbbruder. Die Verwandtschaft fordert ihn deshalb heraus, auch einen äußerlich anderen Angehörigen anzunehmen, und verbindet die Abenteuerhandlung mit einer Frage familiärer Zugehörigkeit.",
-      "anchor": "Ein gemeinsamer Vater verbindet Percy mit dem zyklopischen Tyson.",
       "interest": "Die neue Familienbeziehung erweitert das Thema göttlicher Abstammung.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Ein gemeinsamer Vater verbindet Percy mit dem zyklopischen Tyson."
     },
     {
       "code": "M1",
@@ -86,12 +86,12 @@
       ],
       "short": "Der Baum sichert die Barriere um Camp Half-Blood.",
       "context": "Der magische Baum schützt Camp Half-Blood vor Monstern. Wird er beschädigt, ist das vermeintlich sichere Zuhause unmittelbar angreifbar. Percys (Logan Lerman) Reise ist deshalb keine Suche nach zusätzlichem Ruhm, sondern eine Reparaturmission für die gemeinsame Lebensgrundlage der Halbgötter.",
-      "anchor": "Ein kranker Baum lässt die Schutzbarriere zusammenbrechen.",
       "interest": "Die Verbindung von Landschaft und Sicherheit erklärt den Rettungsauftrag.",
       "sources": [
         "kritik"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein kranker Baum lässt die Schutzbarriere zusammenbrechen."
     },
     {
       "code": "M2",
@@ -110,12 +110,12 @@
       ],
       "short": "Luke will Kronos zurückholen und gegen den Olymp einsetzen.",
       "context": "Luke (Jake Abel) möchte mit dem Vlies Kronos (Originalstimme Robert Knepper) wiedererwecken. Derselbe Gegenstand soll also entweder das Lager heilen oder eine zerstörerische Macht zurückholen. Der Konflikt gilt nicht nur dem Besitz des Artefakts, sondern den gegensätzlichen Absichten, die seine Kraft nutzbar machen.",
-      "anchor": "Das Heilmittel kann auch Kronos zurückholen.",
       "interest": "Ein Gegenstand verbindet Rettung und Bedrohung durch seinen Gebrauch.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Heilmittel kann auch Kronos zurückholen."
     },
     {
       "code": "S1",
@@ -134,12 +134,12 @@
       ],
       "short": "Tysons Abstammung von Poseidon macht das Wasser zur Heilquelle.",
       "context": "Tyson (Douglas Smith) wird verletzt und fällt ins Wasser. Seine Verbindung zu Poseidon ermöglicht die Heilung. Die zunächst fremd wirkende Gestalt hat dadurch eine entscheidende Stärke mit Percy (Logan Lerman) gemeinsam: Ihr göttlicher Vater verbindet beide auch in der konkreten Wirkung ihrer Kräfte.",
-      "anchor": "Poseidons Wasser heilt den verletzten Halbbruder.",
       "interest": "Eine Rettung bestätigt eine zuvor schwierige Familienbindung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Poseidons Wasser heilt den verletzten Halbbruder."
     },
     {
       "code": "S2",
@@ -158,12 +158,12 @@
       ],
       "short": "Das Vlies holt auch die im Baum bewahrte Thalia ins Leben zurück.",
       "context": "Thalia (Paloma Kwiatkowski) war nach ihrem Opfer in den schützenden Baum verwandelt worden. Das Vlies heilt nicht nur den Baum, sondern bringt sie zurück. Damit existiert eine weitere menschliche Tochter der ältesten Götter, auf die die Prophezeiung neben Percy (Logan Lerman) zutreffen könnte.",
-      "anchor": "Die Heilung des Baums bringt eine weitere mögliche Erfüllung der Prophezeiung zurück.",
       "interest": "Der scheinbare Abschluss öffnet eine neue Deutung des zukünftigen Schicksals.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die Heilung des Baums bringt eine weitere mögliche Erfüllung der Prophezeiung zurück."
     },
     {
       "code": "Y",
@@ -182,14 +182,14 @@
       ],
       "short": "Die Fortsetzung erschien 2013, drei Jahre nach 2010.",
       "context": "Der erste Percy-Jackson-Kinofilm erschien 2010, die zweite Episode 2013. In den drei Jahren wechselte die Regie, während die vertrauten Hauptfiguren zurückkehrten. Logan Lerman spielt in beiden Filmen Percy. Der Zeitanker verbindet somit fortgesetzte Figurenbiografien mit einer veränderten Gestaltung des nächsten Abenteuers.",
-      "anchor": "2010 erste Episode, 2013 zweite Episode: drei Jahre und ein Regiewechsel.",
       "interest": "Der Abstand ordnet die Fortsetzung innerhalb ihrer Filmreihe ein.",
       "sources": [
         "studio",
         "vorgaenger",
         "kritik"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "2010 erste Episode, 2013 zweite Episode: drei Jahre und ein Regiewechsel."
     },
     {
       "code": "D",
@@ -208,12 +208,12 @@
       ],
       "short": "Thor Freudenthal inszenierte die zweite Episode.",
       "context": "Thor Freudenthal übernahm die Regie, Marc Guggenheim schrieb das neue Drehbuch. Die vertraute Besetzung um Logan Lerman blieb erhalten. Das Beispiel zeigt, wie eine Filmreihe ihre Figuren fortführen kann, obwohl die Verantwortung für Inszenierung und Drehbuch zwischen den Episoden neu verteilt wird.",
-      "anchor": "Die zweite Götterreise führt Thor Freudenthal mit neuem Drehbuch fort.",
       "interest": "Ein konkreter Teamwechsel unterscheidet Fortsetzung und Vorgänger.",
       "sources": [
         "studio"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die zweite Götterreise führt Thor Freudenthal mit neuem Drehbuch fort."
     }
   ],
   "series": "Percy Jackson"

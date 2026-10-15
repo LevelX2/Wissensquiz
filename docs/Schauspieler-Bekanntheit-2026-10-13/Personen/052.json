@@ -18,7 +18,6 @@
       "correct": 2,
       "short": "Guinness spielt Obi-Wan Kenobi.",
       "context": "Der ältere Jedi führt Luke Skywalker (Mark Hamill) in eine Welt ein, von der dieser bisher wenig weiß. Er gibt ihm das Lichtschwert seines Vaters und erste Anleitung im Umgang mit der Macht. Guinness’ Figur verbindet damit die Vorgeschichte des Ordens mit Lukes neuem Weg.",
-      "anchor": "Guinness ist Lukes erster Jedi-Lehrer Obi-Wan.",
       "interest": "Die populäre späte Rolle bildet einen Zugang zu seiner vielseitigen Laufbahn.",
       "feedback": [
         "",
@@ -31,7 +30,8 @@
       ],
       "extraSources": [
         "https://www.starwars.com/news/always-two-obi-wan-kenobi-and-luke-skywalker"
-      ]
+      ],
+      "objective": "Guinness ist Lukes erster Jedi-Lehrer Obi-Wan."
     },
     {
       "code": "L2",
@@ -45,7 +45,6 @@
       "correct": 0,
       "short": "Guinness spielt Oberst Nicholson.",
       "context": "Der britische Oberst gerät als Kriegsgefangener mit dem japanischen Lagerkommandanten Saito (Sessue Hayakawa) aneinander. Später setzt er seinen Stolz in die professionelle Ausführung des Brückenbaus. Die Figur verbindet militärische Prinzipien mit einer zunehmenden Verkennung dessen, wem das Bauwerk dient.",
-      "anchor": "Nicholson macht den Brückenbau zu seiner eigenen Bewährungsprobe.",
       "interest": "Die Hauptfigur eröffnet den zentralen Konflikt von Pflicht und Selbsttäuschung.",
       "feedback": [
         "",
@@ -61,7 +60,8 @@
       ],
       "knowledge_id": "K-CLA-08-01",
       "variant_of": "CLA-L-015",
-      "knowledge_note": "Umgekehrtes bestehendes Besetzungsziel Alec Guinness ↔ Oberst Nicholson."
+      "knowledge_note": "Umgekehrtes bestehendes Besetzungsziel Alec Guinness ↔ Oberst Nicholson.",
+      "objective": "Nicholson macht den Brückenbau zu seiner eigenen Bewährungsprobe."
     },
     {
       "code": "M1",
@@ -75,7 +75,6 @@
       "correct": 3,
       "short": "Guinness verkörpert acht Angehörige derselben Familie.",
       "context": "Louis Mazzini (Dennis Price) will nach der Ausgrenzung seiner Mutter den Herzogstitel erben. Die Verwandten, die ihm dabei im Weg stehen, erscheinen in verschiedenen Gestalten desselben Schauspielers. Dazu gehört auch Lady Agatha; die Vielgestaltigkeit verstärkt die schwarze Komik des Mordplans.",
-      "anchor": "Eine ganze adelige Verwandtschaft trägt Guinness’ Gesicht.",
       "interest": "Die Mehrfachbesetzung erklärt eine besondere darstellerische Leistung.",
       "feedback": [
         "",
@@ -91,7 +90,8 @@
       ],
       "knowledge_id": "K-F240-20261006-120-L2",
       "variant_of": "F240-20261006-120-L2",
-      "knowledge_note": "Gleiches bestehendes Ziel zur achtfachen Besetzungsleistung."
+      "knowledge_note": "Gleiches bestehendes Ziel zur achtfachen Besetzungsleistung.",
+      "objective": "Eine ganze adelige Verwandtschaft trägt Guinness’ Gesicht."
     },
     {
       "code": "M2",
@@ -105,7 +105,6 @@
       "correct": 1,
       "short": "Stratton erfindet ein schmutz- und verschleißfestes Gewebe.",
       "context": "Die Erfindung erscheint zunächst als wissenschaftlicher Triumph. Sobald Unternehmer und Arbeiter erkennen, dass kaum noch neue Kleidung gekauft werden müsste, sehen beide ihre Existenz bedroht. Der Erfinder gerät deshalb ausgerechnet mit den Gruppen in Konflikt, die vom Erfolg einer Textilfabrik leben.",
-      "anchor": "Strattons perfekter Stoff bedroht das Geschäft mit Kleidung.",
       "interest": "Die Erfindung erklärt den sozialen Konflikt hinter der Komödienfigur.",
       "feedback": [
         "",
@@ -118,7 +117,8 @@
       ],
       "extraSources": [
         "https://player.bfi.org.uk/rentals/film/watch-the-man-in-the-white-suit-1951-online"
-      ]
+      ],
+      "objective": "Strattons perfekter Stoff bedroht das Geschäft mit Kleidung."
     },
     {
       "code": "S1",
@@ -132,7 +132,6 @@
       "correct": 0,
       "short": "Guinness spielte George Smiley.",
       "context": "Die BBC-Verfilmungen führen die Figur aus John le Carrés Romanen durch eine Welt der Täuschung und langfristigen Gegnerschaft. In der ersten Serie sucht Smiley einen Maulwurf im eigenen Dienst, in der zweiten richtet sich sein Vorgehen gegen Karla. Guinness gestaltet die Ermittlungen vor allem durch Zuhören und genaue Beobachtung.",
-      "anchor": "Guinness’ stiller Spion heißt George Smiley.",
       "interest": "Die Fernsehrolle erschließt eine andere Darstellungsweise als seine großen Kinogestalten.",
       "feedback": [
         "",
@@ -143,7 +142,8 @@
       "films": [],
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-best-alec-guinness-performances"
-      ]
+      ],
+      "objective": "Guinness’ stiller Spion heißt George Smiley."
     },
     {
       "code": "S2",
@@ -157,7 +157,6 @@
       "correct": 2,
       "short": "Guinness schrieb das Drehbuch nach Joyce Carys Roman.",
       "context": "Ronald Neame führte Regie, während Guinness die literarische Vorlage für den Film bearbeitete und den eigensinnigen Künstler spielte. Die Suche Jimsons nach einer geeigneten Fläche für seine Bilder gehört zum komischen Blick auf schöpferischen Ehrgeiz. Guinness war hier also auch für die erzählerische Form verantwortlich.",
-      "anchor": "Guinness spielte Jimson und bearbeitete dessen Geschichte fürs Kino.",
       "interest": "Die Doppelfunktion zeigt eine Arbeit jenseits der bloßen Rolleninterpretation.",
       "feedback": [
         "",
@@ -170,7 +169,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/films/695-the-horse-s-mouth"
-      ]
+      ],
+      "objective": "Guinness spielte Jimson und bearbeitete dessen Geschichte fürs Kino."
     },
     {
       "code": "E1",
@@ -184,7 +184,6 @@
       "correct": 1,
       "short": "Die Gestaltung Fagins wurde als antisemitisch kritisiert.",
       "context": "Besonders die stark vergrößerte Nase der Maske rief Protest hervor. Der Film startete in London 1948, in den USA aber erst 1951 mit gestrichenen Passagen. Die Kontroverse betrifft die Wirkung einer Darstellung im historischen Kontext nach dem Holocaust und lässt sich nicht auf die schauspielerische Verwandlung allein reduzieren.",
-      "anchor": "Guinness’ Fagin wurde wegen antisemitischer Stereotype kontrovers aufgenommen.",
       "interest": "Die Rezeptionsgeschichte macht die gesellschaftliche Wirkung einer Filmgestaltung konkret.",
       "feedback": [
         "",
@@ -197,7 +196,8 @@
       ],
       "extraSources": [
         "https://www.criterion.com/current/posts/41-oliver-twist"
-      ]
+      ],
+      "objective": "Guinness’ Fagin wurde wegen antisemitischer Stereotype kontrovers aufgenommen."
     },
     {
       "code": "E2",
@@ -211,7 +211,6 @@
       "correct": 3,
       "short": "Guinness hatte Dickens’ Roman bereits für das Theater adaptiert.",
       "context": "Lean und Produzent Ronald Neame kannten und schätzten diese Bühnenfassung. Für den Film boten sie Guinness die Rolle des Herbert Pocket an, der Pip (John Mills) in London begegnet. Die Zusammenarbeit im Kino entstand damit aus einer konkreten vorherigen Theaterarbeit.",
-      "anchor": "Die Bühnenadaption bereitete Guinness’ Einstieg in Leans Dickens-Film vor.",
       "interest": "Der Zusammenhang erklärt, wie eine Theaterarbeit eine wichtige Filmzusammenarbeit eröffnete.",
       "feedback": [
         "",
@@ -224,7 +223,8 @@
       ],
       "extraSources": [
         "https://www.bfi.org.uk/lists/10-best-alec-guinness-performances"
-      ]
+      ],
+      "objective": "Die Bühnenadaption bereitete Guinness’ Einstieg in Leans Dickens-Film vor."
     }
   ]
 }

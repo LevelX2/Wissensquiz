@@ -26,15 +26,14 @@ it("erreicht alle 545 Bestands-Jahresfragen und lässt alle später ergänzten F
   expect(Object.keys(editorial)).toHaveLength(545);
   const before = JSON.stringify(state);
   const revised = state.questions.filter((q) => yearPresentation(q));
-  expect(revised).toHaveLength(495);
+  expect(revised).toHaveLength(catalogCounts.yearEditorialQuestions);
   expect(revised.filter((q) => q.metadata.fact_kind === "year")).toHaveLength(
-    384,
+    catalogCounts.yearEditorialGenerated,
   );
-  expect(revised.filter((q) => !q.metadata.fact_kind)).toHaveLength(111);
+  expect(revised.filter((q) => !q.metadata.fact_kind)).toHaveLength(catalogCounts.yearEditorialCsv);
   for (const q of revised) {
     const entry = yearPresentation(q)!;
     expect(entry.text, q.id).toContain(q.metadata.film_year);
-    expect(entry.anchor, q.id).toContain(q.metadata.film_year);
     expect(entry.text, q.id).not.toBe(q.context);
     expect(entry.sources.length, q.id).toBeGreaterThan(0);
     expect(new Set(entry.sources).size, q.id).toBe(entry.sources.length);
@@ -44,9 +43,9 @@ it("erreicht alle 545 Bestands-Jahresfragen und lässt alle später ergänzten F
     ).toBe(true);
     texts.add(entry.text);
   }
-  expect(texts.size).toBe(495);
+  expect(texts.size).toBe(catalogCounts.yearEditorialQuestions);
   expect(JSON.stringify(state)).toBe(before);
-  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(catalogCounts.numericYearQuestions - 495);
+  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(catalogCounts.numericYearQuestions - catalogCounts.yearEditorialQuestions);
 });
 
 it("liefert konkrete historische und wissenschaftliche Anker sowie Ergänzungen für CSV-Jahresfragen", () => {
@@ -107,7 +106,7 @@ it("hält Vorher/Nachher, Quellen und zeitliche Abstände für jede Frage nachvo
     interval: number;
     relatedQuestionId: string | null;
     before: { text: string };
-    after: { text: string; anchor: string };
+    after: { text: string };
     sources: string[];
   }[] = JSON.parse(
     readFileSync("docs/Jahresanker-2026-10-04/Redaktion.json", "utf8"),
@@ -122,10 +121,7 @@ it("hält Vorher/Nachher, Quellen und zeitliche Abstände für jede Frage nachvo
       continue;
     }
     expect(row.before.text, row.questionId).toBe(q.context);
-    expect(row.after, row.questionId).toEqual({
-      text: entry.text,
-      anchor: entry.anchor,
-    });
+    expect(row.after.text, row.questionId).toBe(entry.text);
     expect(row.sources, row.questionId).toEqual(entry.sources);
     expect(row.after.text, row.questionId).toContain(String(row.eventYear));
     expect(row.interval, row.questionId).toBe(row.year - row.eventYear);

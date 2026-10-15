@@ -41,12 +41,12 @@
       ],
       "short": "Jack hält Nancy für seine Blind-Date-Partnerin Jessica.",
       "context": "Jack hält Nancy für seine Blind-Date-Partnerin Jessica. Nancy korrigiert ihn nicht sofort und übernimmt die fremde Rolle; der Film beginnt ihre Beziehung damit als Zufall, der durch eine bewusste Entscheidung verlängert wird.",
-      "anchor": "Nancy lässt eine zufällige Verwechslung zur Verabredung werden.",
       "interest": "Nancy lässt eine zufällige Verwechslung zur Verabredung werden.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Nancy lässt eine zufällige Verwechslung zur Verabredung werden."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Nancy (Lake Bell) trägt Jessicas Selbsthilfebuch unter der Bahnhofsuhr.",
       "context": "Nancy (Lake Bell) trägt Jessicas Selbsthilfebuch unter der Bahnhofsuhr. Jack (Simon Pegg) erkennt daran vermeintlich seine Verabredung; ein ausgeliehener Gegenstand wird so zum falschen Identitätsbeweis.",
-      "anchor": "Das Buch identifiziert die falsche Person.",
       "interest": "Das Buch identifiziert die falsche Person.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Das Buch identifiziert die falsche Person."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Nancy ist zum vierzigsten Hochzeitstag ihrer Eltern unterwegs.",
       "context": "Nancy ist zum vierzigsten Hochzeitstag ihrer Eltern unterwegs. Ihre geplante Rede steht neben dem unerwarteten Date; die langjährige Beziehung der Eltern bietet einen Gegenpunkt zu ihrer eigenen Enttäuschung über Partnerschaften.",
-      "anchor": "Das Elternjubiläum bildet den Gegenpol zu Nancys Datingfrust.",
       "interest": "Das Elternjubiläum bildet den Gegenpol zu Nancys Datingfrust.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Das Elternjubiläum bildet den Gegenpol zu Nancys Datingfrust."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Sean (Rory Kinnear), ein früherer Schulkamerad, erkennt Nancy und versucht sie zu erpressen.",
       "context": "Sean (Rory Kinnear), ein früherer Schulkamerad, erkennt Nancy und versucht sie zu erpressen. Jack (Simon Pegg) erfährt daraufhin die Wahrheit; die private Vorgeschichte verhindert, dass ihre angenommene Identität stabil bleibt.",
-      "anchor": "Ein Bekannter durchschaut die fremde Identität.",
       "interest": "Ein Bekannter durchschaut die fremde Identität.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Ein Bekannter durchschaut die fremde Identität."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Jack gibt Nancy (Lake Bell) vor seiner Exfrau als Freundin aus.",
       "context": "Jack gibt Nancy (Lake Bell) vor seiner Exfrau als Freundin aus. Beide nutzen nun eine gespielte Beziehung; die ursprüngliche Täuschung wird zu einer gemeinsamen Strategie gegen alte Verletzungen.",
-      "anchor": "Aus Nancys Alleintäuschung wird ein gemeinsames Spiel.",
       "interest": "Aus Nancys Alleintäuschung wird ein gemeinsames Spiel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Aus Nancys Alleintäuschung wird ein gemeinsames Spiel."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Jack trifft schließlich Jessica, entdeckt aber wenig Gemeinsamkeit.",
       "context": "Jack trifft schließlich Jessica, entdeckt aber wenig Gemeinsamkeit. Das vertauschte Notizbuch erinnert ihn an Nancy; er sucht sie beim Elternjubiläum und formuliert dort seine eigene Erklärung für ihre Beziehung.",
-      "anchor": "Der korrekte Termin bestätigt die passende falsche Begegnung.",
       "interest": "Der korrekte Termin bestätigt die passende falsche Begegnung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der korrekte Termin bestätigt die passende falsche Begegnung."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "2015 wurde der Film beim Tribeca-Festival erstmals gezeigt.",
       "context": "2015 wurde der Film beim Tribeca-Festival erstmals gezeigt. Im selben Jahr erschien „Plus One“ noch nicht: Die spätere Hochzeitsbegleitungskomödie folgte erst 2019. Beide Stoffe verbinden pragmatische Datingrollen mit ungeplanter echter Nähe; vier Jahre trennen ihre Veröffentlichungen.",
-      "anchor": "Man Up 2015, Plus One 2019: Vier Jahre trennen zwei Komödien über pragmatische Datingrollen und echte Nähe.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten",
         "zeitbezug"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Man Up 2015, Plus One 2019: Vier Jahre trennen zwei Komödien über pragmatische Datingrollen und echte Nähe."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Ben Palmer inszenierte Tess Morris’ Drehbuch.",
       "context": "Ben Palmer inszenierte Tess Morris’ Drehbuch. Lake Bell spielt Nancy, Simon Pegg Jack. Ein Selbsthilfebuch als Erkennungszeichen löst die falsche Zuordnung aus; der gemeinsame Abend prüft anschließend, ob eine zufällige Täuschung dennoch eine passende Beziehung sichtbar machen kann.",
-      "anchor": "Ben Palmer inszenierte Tess Morris’ Drehbuch.",
       "interest": "Ben Palmer inszenierte Tess Morris’ Drehbuch.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Ben Palmer inszenierte Tess Morris’ Drehbuch."
     }
   ]
 }

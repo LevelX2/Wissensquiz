@@ -40,13 +40,13 @@
       ],
       "short": "Annie (Toni Collette) beerdigt ihre Mutter Ellen.",
       "context": "Annie (Toni Collette) beerdigt ihre Mutter Ellen. Die zahlreichen Trauergäste und das schwierige Verhältnis zur Verstorbenen machen den Abschied zugleich zum Beginn einer unbekannten Familiengeschichte.",
-      "anchor": "Die Beerdigung eröffnet Fragen über die verstorbene Mutter.",
       "interest": "Die Beerdigung eröffnet Fragen über die verstorbene Mutter.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Die Beerdigung eröffnet Fragen über die verstorbene Mutter."
     },
     {
       "code": "L2",
@@ -65,12 +65,12 @@
       ],
       "short": "Charlie (Milly Shapiro) reagiert auf Nüsse im Kuchen.",
       "context": "Charlie (Milly Shapiro) reagiert auf Nüsse im Kuchen. Peter (Alex Wolff) versucht, sie ins Krankenhaus zu fahren; seine vorherige Vernachlässigung und der folgende Unfall verschärfen die Schuld innerhalb der Familie.",
-      "anchor": "Der allergische Notfall führt zur verhängnisvollen Fahrt.",
       "interest": "Der allergische Notfall führt zur verhängnisvollen Fahrt.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der allergische Notfall führt zur verhängnisvollen Fahrt."
     },
     {
       "code": "M1",
@@ -89,12 +89,12 @@
       ],
       "short": "Joan (Ann Dowd) führt Annie (Toni Collette) an eine Séance heran.",
       "context": "Joan (Ann Dowd) führt Annie (Toni Collette) an eine Séance heran. Das Angebot beantwortet den Wunsch nach Nähe zu Charlie (Milly Shapiro), dient aber zugleich einem verdeckten Plan gegen die Familie.",
-      "anchor": "Die scheinbare Trauerhilfe öffnet eine gefährliche Verbindung.",
       "interest": "Die scheinbare Trauerhilfe öffnet eine gefährliche Verbindung.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die scheinbare Trauerhilfe öffnet eine gefährliche Verbindung."
     },
     {
       "code": "M2",
@@ -113,12 +113,12 @@
       ],
       "short": "Das Album zeigt Joan mit Ellen.",
       "context": "Das Album zeigt Joan (Ann Dowd) mit Ellen. Annie (Toni Collette) erkennt dadurch, dass Joan (Ann Dowd) keine zufällig kennengelernte Trauernde ist und ihre Mutter mit dem Kult verbunden war.",
-      "anchor": "Das Foto entlarvt die vermeintlich zufällige Bekanntschaft.",
       "interest": "Das Foto entlarvt die vermeintlich zufällige Bekanntschaft.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Das Foto entlarvt die vermeintlich zufällige Bekanntschaft."
     },
     {
       "code": "S1",
@@ -137,12 +137,12 @@
       ],
       "short": "Steve (Gabriel Byrne) fängt Feuer.",
       "context": "Steve (Gabriel Byrne) fängt Feuer. Annie (Toni Collette) hatte wegen des ersten Versuchs ihren eigenen Tod erwartet; die veränderte Wirkung zerstört ihre Hoffnung, das Geschehen kontrolliert beenden zu können.",
-      "anchor": "Die wiederholte Handlung trifft plötzlich einen anderen Menschen.",
       "interest": "Die wiederholte Handlung trifft plötzlich einen anderen Menschen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Die wiederholte Handlung trifft plötzlich einen anderen Menschen."
     },
     {
       "code": "S2",
@@ -161,12 +161,12 @@
       ],
       "short": "Paimon erhält Peter (Alex Wolff) als männlichen Wirt.",
       "context": "Paimon erhält Peter (Alex Wolff) als männlichen Wirt. Joans (Ann Dowd) abschließende Erklärung verbindet die frühere Bindung an Charlie (Milly Shapiro) mit dem zielgerichteten Angriff auf ihren Bruder.",
-      "anchor": "Der Kult will den Dämon aus dem weiblichen in einen männlichen Körper bringen.",
       "interest": "Der Kult will den Dämon aus dem weiblichen in einen männlichen Körper bringen.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Der Kult will den Dämon aus dem weiblichen in einen männlichen Körper bringen."
     },
     {
       "code": "Y",
@@ -185,14 +185,14 @@
       ],
       "short": "Der Film wurde 2018 erstmals veröffentlicht.",
       "context": "2018 erschien Asters erster Langfilm. Ein Jahr später, 2019, folgte Midsommar; beide Geschichten setzen bei Trauer und beschädigten Beziehungen an, entwickeln daraus aber unterschiedliche Formen des Horrors.",
-      "anchor": "Auf Asters Debüt von 2018 folgte ein Jahr später, 2019, Midsommar.",
       "interest": "Auf Asters Debüt von 2018 folgte ein Jahr später, 2019, Midsommar.",
       "sources": [
         "studio",
         "handlung",
         "zeitvergleich82"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Auf Asters Debüt von 2018 folgte ein Jahr später, 2019, Midsommar."
     },
     {
       "code": "D",
@@ -211,13 +211,13 @@
       ],
       "short": "Regie: Ari Aster.",
       "context": "Aster entwarf den Film zunächst als Familientragödie. Die gebauten Innenräume ließen entfernte Kamerapositionen und abnehmbare Wände zu; dadurch kann das Wohnhaus selbst wie eines von Annies Miniaturmodellen wirken.",
-      "anchor": "Aster entwarf den Film zunächst als Familientragödie.",
       "interest": "Aster entwarf den Film zunächst als Familientragödie.",
       "sources": [
         "studio",
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Aster entwarf den Film zunächst als Familientragödie."
     }
   ]
 }

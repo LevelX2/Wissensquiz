@@ -37,12 +37,12 @@
       ],
       "short": "Charles Pike ist ein Schlangenforscher und zugleich Erbe eines Brauereivermögens.",
       "context": "Charles Pike ist ein Schlangenforscher und zugleich Erbe eines Brauereivermögens. Jean Harrington (Barbara Stanwyck) begegnet ihm auf einem Schiff. Seine spezielle Sachkenntnis schützt ihn nicht davor, in sozialen und romantischen Situationen sehr leicht getäuscht zu werden.",
-      "anchor": "Der Schlangenexperte ist im Umgang mit Betrügern unerfahren.",
       "interest": "Der Schlangenexperte ist im Umgang mit Betrügern unerfahren.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der Schlangenexperte ist im Umgang mit Betrügern unerfahren."
     },
     {
       "code": "L2",
@@ -61,12 +61,12 @@
       ],
       "short": "Jean und ihr Vater planen, Charles beim Kartenspiel zu betrügen.",
       "context": "Jean und ihr Vater planen, Charles beim Kartenspiel zu betrügen. Sein Vermögen macht ihn zum Ziel, seine Unerfahrenheit zum vermeintlich leichten Opfer. Jeans entstehende Zuneigung gerät deshalb in direkten Konflikt mit dem ursprünglichen Geschäftsplan ihrer Familie.",
-      "anchor": "Der reiche Forscher ist zunächst ein Betrugsziel.",
       "interest": "Der reiche Forscher ist zunächst ein Betrugsziel.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "gering"
+      "spoiler": "gering",
+      "objective": "Der reiche Forscher ist zunächst ein Betrugsziel."
     },
     {
       "code": "M1",
@@ -85,12 +85,12 @@
       ],
       "short": "Charles erfährt, dass Jean als Betrügerin arbeitet, und weist sie zurück.",
       "context": "Charles erfährt, dass Jean als Betrügerin arbeitet, und weist sie zurück. Er kann ihre inzwischen echte Zuneigung nicht von ihrer ursprünglichen Absicht trennen. Die Kränkung treibt Jean dazu, ihn unter einer neuen gesellschaftlichen Identität erneut in ihr Spiel zu ziehen.",
-      "anchor": "Die aufgedeckte Betrügerrolle verdrängt die echte Liebe.",
       "interest": "Die aufgedeckte Betrügerrolle verdrängt die echte Liebe.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Die aufgedeckte Betrügerrolle verdrängt die echte Liebe."
     },
     {
       "code": "M2",
@@ -109,12 +109,12 @@
       ],
       "short": "Jeans Vater (Charles Coburn) gibt vor, den gewonnenen Scheck zu zerreißen, hat ihn aber heimlich beiseitegeschafft.",
       "context": "Jeans Vater (Charles Coburn) gibt vor, den gewonnenen Scheck zu zerreißen, hat ihn aber heimlich beiseitegeschafft. Jean (Barbara Stanwyck) möchte Charles schützen; der Vater hält am Gewinn fest.",
-      "anchor": "Der scheinbar zerrissene Scheck bleibt als Gewinn erhalten.",
       "interest": "Der scheinbar zerrissene Scheck bleibt als Gewinn erhalten.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "mittel"
+      "spoiler": "mittel",
+      "objective": "Der scheinbar zerrissene Scheck bleibt als Gewinn erhalten."
     },
     {
       "code": "S1",
@@ -133,12 +133,12 @@
       ],
       "short": "Jean erzählt Charles Pike (Henry Fonda) im Zug von angeblichen früheren Liebhabern.",
       "context": "Jean erzählt Charles Pike (Henry Fonda) im Zug von angeblichen früheren Liebhabern. Die Geschichten sollen ihn verletzen und die neue Ehe sprengen. Ihre Vergeltung trifft genau die Vorstellungen von Unschuld und moralischer Reinheit, mit denen er sie zuvor abgewertet hatte.",
-      "anchor": "Erfundene Vergangenheit wird zur Waffe gegen Charles’ Idealbild.",
       "interest": "Erfundene Vergangenheit wird zur Waffe gegen Charles’ Idealbild.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Erfundene Vergangenheit wird zur Waffe gegen Charles’ Idealbild."
     },
     {
       "code": "S2",
@@ -157,12 +157,12 @@
       ],
       "short": "Charles Pike (Henry Fonda) kehrt zu Jean Harrington (Barbara Stanwyck) zurück und erwähnt, dass er verheiratet sei.",
       "context": "Charles Pike (Henry Fonda) kehrt zu Jean Harrington (Barbara Stanwyck) zurück und erwähnt, dass er verheiratet sei. Jean ist bereits seine Frau unter dem Namen Lady Eve. Die Beziehung versöhnt sich, während seine zentrale Fehlannahme über ihre Identitäten noch fortbesteht.",
-      "anchor": "Charles kehrt zu der Frau zurück, die er schon geheiratet hat.",
       "interest": "Charles kehrt zu der Frau zurück, die er schon geheiratet hat.",
       "sources": [
         "handlung"
       ],
-      "spoiler": "hoch"
+      "spoiler": "hoch",
+      "objective": "Charles kehrt zu der Frau zurück, die er schon geheiratet hat."
     },
     {
       "code": "Y",
@@ -181,13 +181,13 @@
       ],
       "short": "1941 erschien der Film.",
       "context": "1941 erschien der Film. Im selben Jahr brachte Preston Sturges auch „Sullivan’s Travels“ heraus. Die beiden Werke zeigen zwei verschiedene Seiten seiner Komödienarbeit: Hier richtet sich die Täuschung gegen einen reichen Erben, dort wird das Verhältnis zwischen Unterhaltung und sozialem Ernst erkundet.",
-      "anchor": "1941: The Lady Eve und Sullivan’s Travels zeigen im selben Jahr Sturges’ Liebestäuschung und seine Reflexion über Komödie.",
       "interest": "Das Jahrpaar unterscheidet verwandte Filmprojekte und zeigt ihre zeitliche Reihenfolge.",
       "sources": [
         "eckdaten"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "1941: The Lady Eve und Sullivan’s Travels zeigen im selben Jahr Sturges’ Liebestäuschung und seine Reflexion über Komödie."
     },
     {
       "code": "D",
@@ -206,13 +206,13 @@
       ],
       "short": "Preston Sturges schrieb und inszenierte die Komödie.",
       "context": "Preston Sturges schrieb und inszenierte die Komödie. Barbara Stanwyck spielt Jean Harrington und deren erfundene aristokratische Identität, Henry Fonda den Schlangenforscher Charles Pike. Die scheinbare Doppelrolle gehört zur Täuschung einer einzigen Figur und ist keine Verwandlung in eine andere Person.",
-      "anchor": "Preston Sturges schrieb und inszenierte die Komödie.",
       "interest": "Preston Sturges schrieb und inszenierte die Komödie.",
       "sources": [
         "criterion"
       ],
       "spoiler": "gering",
-      "difficulty": "mittel"
+      "difficulty": "mittel",
+      "objective": "Preston Sturges schrieb und inszenierte die Komödie."
     }
   ]
 }

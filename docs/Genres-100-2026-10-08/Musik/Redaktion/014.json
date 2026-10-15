@@ -38,12 +38,12 @@
       ],
       "short": "Sophie bereitet die Wiedereröffnung des Hotel Bella Donna vor.",
       "context": "Sophie Sheridan (Amanda Seyfried) will das renovierte Hotel Bella Donna wiedereröffnen und damit ihre verstorbene Mutter ehren. Die Vorbereitungen bilden den Rahmen der Gegenwartshandlung. Gleichzeitig zeigen Rückblenden, wie die junge Donna Sheridan (Lily James) auf die Insel kam. Das Gebäude verbindet beide Zeitebenen: Es ist Sophies Zukunftsprojekt und zugleich ein sichtbares Ergebnis der Lebensentscheidungen ihrer Mutter.",
-      "anchor": "Das Hotel verbindet Donnas Vergangenheit mit Sophies Zukunft.",
       "interest": "Das zentrale Projekt ordnet die Gegenwartshandlung ein.",
       "sources": [
         "handlung",
         "bfi"
-      ]
+      ],
+      "objective": "Das Hotel verbindet Donnas Vergangenheit mit Sophies Zukunft."
     },
     {
       "code": "L2",
@@ -62,11 +62,11 @@
       ],
       "short": "Ruby ist Sophies Großmutter.",
       "context": "Ruby Sheridan (Cher) ist die Mutter von Donna Sheridan (Meryl Streep; in den Rückblenden Lily James) und die Großmutter von Sophie Sheridan (Amanda Seyfried). Ihre verspätete Ankunft führt eine weitere Generation in die Hotelgeschichte ein. Das Verhältnis zur Familie ist durch frühere Abwesenheit belastet. Ihr Besuch eröffnet deshalb die Möglichkeit einer Annäherung, ohne die jahrelange Distanz einfach aus der Vorgeschichte zu löschen.",
-      "anchor": "Ruby ist die dritte Generation der Sheridan-Familie.",
       "interest": "Die Verwandtschaft erschließt den überraschenden Familienbesuch.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Ruby ist die dritte Generation der Sheridan-Familie."
     },
     {
       "code": "M1",
@@ -85,11 +85,11 @@
       ],
       "short": "Donna entdeckt Sams bestehende Verlobung.",
       "context": "Die junge Donna Sheridan (Lily James) erlebt mit Sam Carmichael (Jeremy Irvine) eine intensive Beziehung auf der Insel. Als sie feststellt, dass er bereits verlobt ist, endet ihre Nähe schmerzhaft. Sam löst später die Verlobung und kehrt zurück, findet Donna aber nicht mehr an derselben Stelle ihrer Liebesgeschichte. Das Missverständnis entsteht aus tatsächlichen Entscheidungen und verspäteter Kommunikation, nicht aus mangelnder Anziehung.",
-      "anchor": "Sams verschwiegene Verlobung trennt die beiden.",
       "interest": "Ein konkretes Geheimnis erklärt den Bruch der Rückblendenhandlung.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Sams verschwiegene Verlobung trennt die beiden."
     },
     {
       "code": "M2",
@@ -108,11 +108,11 @@
       ],
       "short": "Ein Sturm verhindert die Überfahrt mit den Fähren.",
       "context": "Ein Sturm trifft Sophies geplante Feier und unterbricht die Fährverbindungen nach Kalokairi. Sophie Sheridan (Amanda Seyfried) fürchtet, dass die Wiedereröffnung ohne die erwarteten Gäste stattfinden muss. Die wetterbedingte Krise verändert ihre Vorbereitungen und verlangt Hilfe von den Anreisenden. Zugleich spiegelt sie einen früheren Sturm in der Geschichte ihrer Mutter, sodass äußere Unordnung die beiden Zeitebenen des Films miteinander verbindet.",
-      "anchor": "Der Sturm trennt die Insel vorübergehend von den Gästen.",
       "interest": "Die konkrete Reisestörung erklärt die spätere improvisierte Überfahrt.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Der Sturm trennt die Insel vorübergehend von den Gästen."
     },
     {
       "code": "S1",
@@ -132,11 +132,11 @@
       ],
       "short": "Alexio erwidert Bills frühere Hilfe für seine Beziehung.",
       "context": "Der junge Bill Anderson (Josh Dylan) hilft Alexio (Gerard Monaco), rechtzeitig zu seiner Geliebten zurückzukehren und ihre Hochzeit mit einem anderen Mann zu verhindern. Viele Jahre später erkennt Alexio den älteren Bill (Stellan Skarsgård) wieder. Er ermöglicht ihm und seinen Begleitern die Überfahrt, als die üblichen Verbindungen fehlen. Ein kurzer Rückblendenmoment hat damit eine konkrete Wirkung auf die spätere Hoteleröffnung.",
-      "anchor": "Eine gerettete Liebesgeschichte wird zur geretteten Überfahrt.",
       "interest": "Die Hilfe verbindet eine Nebenhandlung über beide Zeitebenen.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Eine gerettete Liebesgeschichte wird zur geretteten Überfahrt."
     },
     {
       "code": "S2",
@@ -155,11 +155,11 @@
       ],
       "short": "Die Eigentümerin Sofia bietet Donna an zu bleiben.",
       "context": "Sofia (Maria Vacratsis), eine Großtante von Bill Anderson (Josh Dylan), besitzt das Haus, in dem sich Donna Sheridan (Lily James) niedergelassen hat. Als sie Donnas Wunsch hört, auf der Insel zu bleiben, erlaubt sie ihr die Nutzung. Diese Unterstützung gibt der schwangeren Donna einen festen Ort. Das spätere Hotel erhält dadurch eine Vorgeschichte, die auch von der Hilfe einer Nebenfigur getragen wird.",
-      "anchor": "Sofias Hausangebot gibt Donna einen Ort zum Bleiben.",
       "interest": "Die Eigentumsfrage erklärt den Ursprung des späteren Hotels.",
       "sources": [
         "handlung"
-      ]
+      ],
+      "objective": "Sofias Hausangebot gibt Donna einen Ort zum Bleiben."
     },
     {
       "code": "Y",
@@ -178,13 +178,13 @@
       ],
       "short": "Die Fortsetzung erschien 2018.",
       "context": "„Mamma Mia! Here We Go Again“ erschien 2018, zehn Jahre nach „Mamma Mia!“ aus dem Jahr 2008. Der zweite Film erzählt sowohl die Gegenwart weiter als auch die Jugend der Muttergeneration. Die Rückblenden sind damit eine neue Ergänzung der Filmreihe und keine frühere Veröffentlichung. Der Abstand der beiden Kinofilme bietet einen klaren Jahresanker, während die Handlung selbst zwischen weit auseinanderliegenden Zeiten wechselt.",
-      "anchor": "2008 erster Film → 2018 Fortsetzung: zehn Jahre.",
       "interest": "Der Anker trennt Veröffentlichungsabstand und erzählte Rückblenden.",
       "sources": [
         "studio",
         "handlung",
         "bfi"
-      ]
+      ],
+      "objective": "2008 erster Film → 2018 Fortsetzung: zehn Jahre."
     },
     {
       "code": "D",
@@ -203,12 +203,12 @@
       ],
       "short": "Ol Parker führte Regie.",
       "context": "Ol Parker schreibt und inszeniert den zweiten Film. Universal unterscheidet seinen Regiecredit von der gemeinsamen Geschichte mit Richard Curtis und Catherine Johnson. Phyllida Lloyd, die Regisseurin des ersten Films, wird als ausführende Produzentin genannt. Die wiederkehrende Besetzung bedeutet somit keine unveränderte Regie. Parker verknüpft Sophies Gegenwart mit der Jugend ihrer Mutter und verteilt die musikalischen Nummern auf beide Generationen.",
-      "anchor": "Ol Parker führt die zwei Generationen zusammen.",
       "interest": "Die Credits trennen Regie, Story und Beteiligung der früheren Regisseurin.",
       "sources": [
         "studio",
         "bfi"
-      ]
+      ],
+      "objective": "Ol Parker führt die zwei Generationen zusammen."
     }
   ]
 }
