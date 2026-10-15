@@ -21,6 +21,7 @@ import {
   retainJourneyUnlocks,
   learningPathProgress,
   newlyUnlocked,
+  pathAreaOf,
 } from "./learningPath";
 import { familiarityOf, familiarities, selectionRule } from "./familiarity";
 import { discoveryContext, recentCorrectContext } from "./discovery";
@@ -162,45 +163,76 @@ export function selectQuestions(
     )
     .sort((a, b) => learning[a.knowledgeId].due - learning[b.knowledgeId].due);
   const result: Question[] = [];
-  const take = (list: Question[], n: number) => {
-    for (const q of list) {
-      if (n <= 0 || result.length >= options.size) break;
-      if (!result.includes(q)) {
-        result.push(q);
-        n--;
-      }
-    }
-  };
   if (options.mode === "entdecken") {
+    const draw = <T>(items: T[]) =>
+      items[Math.min(items.length - 1, Math.floor(random() * items.length))];
+    const used = new Set<string>();
+    // Keep due/age priority inside the drawn group and area, not across areas.
+    const take = (list: Question[], n: number) => {
+      const groups = new Map<
+        ReturnType<typeof familiarityOf>,
+        Map<string, Question[]>
+      >();
+      for (const q of list.filter((q) => !used.has(q.knowledgeId))) {
+        const group = familiarityOf(q);
+        if (!groups.has(group)) groups.set(group, new Map());
+        const areas = groups.get(group)!;
+        const area = pathAreaOf(q);
+        if (!areas.has(area)) areas.set(area, []);
+        areas.get(area)!.push(q);
+      }
+      while (n-- > 0 && result.length < options.size && groups.size) {
+        const areas = draw([...groups.values()]);
+        const q = draw([...areas.values()])[0];
+        result.push(q);
+        used.add(q.knowledgeId);
+        for (const [group, areas] of groups) {
+          for (const [area, candidates] of areas) {
+            const remaining = candidates.filter(
+              (q) => !used.has(q.knowledgeId),
+            );
+            if (remaining.length) areas.set(area, remaining);
+            else areas.delete(area);
+          }
+          if (!areas.size) groups.delete(group);
+        }
+      }
+    };
     // Reserve room for consolidation even while new goals remain available.
     take(due, Math.floor(options.size * 0.4));
     // Unlocked familiarity groups get equal chances, regardless of pool size.
     const groups = new Map<
       ReturnType<typeof familiarityOf>,
-      Map<Difficulty, Map<string, Question[]>>
+      Map<string, Map<Difficulty, Map<string, Question[]>>>
     >();
     for (const q of pool.filter((q) => !learning[q.knowledgeId])) {
       const group = familiarityOf(q);
       if (!groups.has(group)) groups.set(group, new Map());
-      const buckets = groups.get(group)!;
+      const areas = groups.get(group)!;
+      const area = pathAreaOf(q);
+      if (!areas.has(area)) areas.set(area, new Map());
+      const buckets = areas.get(area)!;
       if (!buckets.has(q.difficulty)) buckets.set(q.difficulty, new Map());
       const goals = buckets.get(q.difficulty)!;
       if (!goals.has(q.knowledgeId)) goals.set(q.knowledgeId, []);
       goals.get(q.knowledgeId)!.push(q);
     }
-    const draw = <T>(items: T[]) =>
-      items[Math.min(items.length - 1, Math.floor(random() * items.length))];
     while (result.length < options.size && groups.size) {
-      const buckets = draw([...groups.values()]);
+      const areas = draw([...groups.values()]);
+      const buckets = draw([...areas.values()]);
       const level = draw([...buckets.keys()]);
       const [goal, variants] = draw([...buckets.get(level)!.entries()]);
       result.push(draw(variants));
-      for (const [group, stages] of groups) {
-        for (const [difficulty, goals] of stages) {
-          goals.delete(goal);
-          if (!goals.size) stages.delete(difficulty);
+      used.add(goal);
+      for (const [group, areas] of groups) {
+        for (const [area, stages] of areas) {
+          for (const [difficulty, goals] of stages) {
+            goals.delete(goal);
+            if (!goals.size) stages.delete(difficulty);
+          }
+          if (!stages.size) areas.delete(area);
         }
-        if (!stages.size) groups.delete(group);
+        if (!areas.size) groups.delete(group);
       }
     }
     // A small remaining pool must not artificially shorten the round.

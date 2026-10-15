@@ -108,7 +108,8 @@ it("zieht neue Serverziele zuerst nach freigespielter Bekanntheit, unabhängig v
       expect(new Set(rows.map((q) => q.knowledge_id)).size).toBe(10);
       for (const q of rows) {
         counts[q.familiarity - 1]++;
-        if (q.familiarity === 1) stages[q.difficulty]++;
+        if (q.familiarity === 1 && q.source === "actors")
+          stages[q.difficulty]++;
       }
       mixes.add(rows.filter((q) => q.familiarity === 1).length);
     }
@@ -117,8 +118,8 @@ it("zieht neue Serverziele zuerst nach freigespielter Bekanntheit, unabhängig v
       expect(count).toBeLessThan(390);
     }
     for (const count of Object.values(stages)) {
-      expect(count).toBeGreaterThan(30);
-      expect(count).toBeLessThan(125);
+      expect(count).toBeGreaterThan(8);
+      expect(count).toBeLessThan(50);
     }
     expect(mixes.size).toBeGreaterThan(3);
     expect(
@@ -562,5 +563,122 @@ it("aktiviert neue Gruppen ohne Kontorevisionen, Lernbelege oder laufende Fragen
   } finally {
     await fixture.db.exec("rollback");
     await session.abort();
+  }
+}, 30000);
+
+it("verteilt Serverbereiche für neue und wiederholte Ziele und behält die ältesten Ziele je Bereich", async () => {
+  const { owner, generation } = await player();
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.exec(`
+      delete from quiz_game_internal.catalog_meta;
+      insert into quiz_game_internal.catalog_meta
+      select area||'-'||i,area||'-'||i,'Test',area,source,'leicht',1,'[]'
+      from (values ('Schauspieler','actors',200),('Abenteuer','film',30),('Drama','film',30),('Preisträger','awards',30)) sizes(area,source,n)
+      cross join lateral generate_series(0,n-1) i;
+      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    const selectedFilters = { ...filters, genres: ["Abenteuer", "Drama"] };
+    const catalog = new Map(
+      (
+        await fixture.db.query<{ id: string; genre: string }>(
+          "select id,genre from quiz_game_internal.catalog_meta",
+        )
+      ).rows.map((q) => [q.id, q]),
+    );
+    const setup = JSON.stringify({
+      mode: "entdecken",
+      topic: "Alle Themen",
+      filters: selectedFilters,
+    });
+    // Seed goal/variant draws only; area draws use gen_random_uuid().
+    await fixture.db.exec("select setseed(0.391)");
+    for (const phase of ["fresh", "due", "known"]) {
+      if (phase !== "fresh")
+        await fixture.db.query(
+          `
+        insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+        select $1,$2,'learning',id,0,jsonb_build_object('stage',1,'seen',1,
+          'due',case when $3='due' then age else 9999999999999 end,
+          'lastSeenAt',age,'lastSecure',age),0
+        from (select id,(case when source='actors' then 1 else 1000 end)+split_part(id,'-',2)::integer age
+          from quiz_game_internal.catalog_meta) q
+        on conflict(owner_id,generation,kind,id) do update set value=excluded.value`,
+          [owner, generation, phase],
+        );
+      const counts: Record<string, number> = {
+        Schauspieler: 0,
+        Abenteuer: 0,
+        Drama: 0,
+        Preisträger: 0,
+      };
+      const mixes = new Set<number>();
+      for (let round = 0; round < 100; round++) {
+        const ids = (
+          await fixture.db.query<{ ids: string[] }>(
+            "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+            [owner, generation, setup],
+          )
+        ).rows[0].ids;
+        expect(ids).toHaveLength(10);
+        expect(new Set(ids).size).toBe(10);
+        for (const id of ids) counts[catalog.get(id)!.genre]++;
+        mixes.add(
+          ids.filter((id) => catalog.get(id)!.genre === "Schauspieler").length,
+        );
+        if (phase !== "fresh")
+          for (const area of Object.keys(counts)) {
+            const positions = ids
+              .filter((id) => catalog.get(id)!.genre === area)
+              .map((id) => Number(id.split("-")[1]))
+              .sort((a, b) => a - b);
+            expect(positions).toEqual(
+              Array.from({ length: positions.length }, (_, i) => i),
+            );
+          }
+      }
+      for (const count of Object.values(counts)) {
+        expect(count).toBeGreaterThan(180);
+        expect(count).toBeLessThan(320);
+      }
+      expect(mixes.size).toBeGreaterThan(3);
+    }
+    // Group first: group 1 has four areas, group 2 only actors, both get half.
+    await fixture.db.exec(`
+      insert into quiz_game_internal.catalog_meta
+      select 'second-'||i,'second-'||i,'Test','Schauspieler','actors','leicht',2,'[]' from generate_series(0,49) i;
+      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    await fixture.db.query(
+      `
+      insert into quiz_game_internal.secure_goals
+      select $1,$2,knowledge_id,genre,difficulty from quiz_game_internal.catalog_meta where source='actors';
+      `,
+      [owner, generation],
+    );
+    await fixture.db.query(
+      `
+      insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+      select $1,$2,'learning',id,0,'{"stage":1,"due":1,"seen":1,"lastSeenAt":1,"lastSecure":1}',0
+      from quiz_game_internal.catalog_meta where familiarity=2;
+      `,
+      [owner, generation],
+    );
+    await fixture.db.query(
+      "update public.quiz_sync_entries set value=value||'{\"due\":1}' where owner_id=$1 and generation=$2 and kind='learning'",
+      [owner, generation],
+    );
+    let second = 0;
+    for (let round = 0; round < 100; round++) {
+      const ids = (
+        await fixture.db.query<{ ids: string[] }>(
+          "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+          [owner, generation, setup],
+        )
+      ).rows[0].ids;
+      second += ids.filter((id) => id.startsWith("second-")).length;
+    }
+    expect(second).toBeGreaterThan(420);
+    expect(second).toBeLessThan(580);
+  } finally {
+    await fixture.db.exec("rollback");
   }
 }, 30000);

@@ -9,7 +9,7 @@ import { familiarityOf } from "../src/familiarity";
 import filmCatalog from "../src/filmFamiliarity.json" with { type: "json" };
 import people from "../src/personFamiliarity.json" with { type: "json" };
 import { addPackages, packages } from "../src/packages";
-import { pathQuestions } from "../src/learningPath";
+import { pathQuestions, pathAreaOf } from "../src/learningPath";
 
 const questions = importCsv(
   readFileSync("public/fragen.csv", "utf8"),
@@ -219,7 +219,7 @@ it("zieht freigespielte Bekanntheitsgruppen gleichwahrscheinlich trotz ungleiche
     for (const q of selected) {
       const level = familiarityOf(q)!;
       counts[level - 1]++;
-      if (level === 1) stages[q.difficulty]++;
+      if (level === 1 && q.metadata.person_id) stages[q.difficulty]++;
     }
     roundGroupCounts.add(selected.filter((q) => familiarityOf(q) === 1).length);
   }
@@ -228,8 +228,8 @@ it("zieht freigespielte Bekanntheitsgruppen gleichwahrscheinlich trotz ungleiche
     expect(count).toBeLessThan(1150);
   }
   for (const count of Object.values(stages)) {
-    expect(count).toBeGreaterThan(180);
-    expect(count).toBeLessThan(320);
+    expect(count).toBeGreaterThan(50);
+    expect(count).toBeLessThan(120);
   }
   expect(roundGroupCounts.size).toBeGreaterThan(3); // Random mix, no fixed quarter quota.
 
@@ -372,4 +372,132 @@ it("reine Wiederholungen steigen trotz verfügbarer neuer Fragen bei sicherer An
     expect(s.learning[q.knowledgeId].stage).toBe(2);
     expect(s.learning[q.knowledgeId].due).toBe(at + 100 + 3 * 86_400_000);
   }
+});
+
+it("gewichtet Bereiche trotz großem Schauspielerbestand bei neuen, fälligen und bekannten Zielen gleich", () => {
+  const areas = ["Schauspieler", "Abenteuer", "Drama", "Preisträger"];
+  const pool = areas.flatMap((area, a) =>
+    Array.from({ length: a === 0 ? 200 : 30 }, (_, i) => {
+      const q = groupQuestion(1, area + "-" + i);
+      q.metadata.subdomain = area;
+      if (a === 0)
+        q.metadata.person_id = people.persons.find(
+          (p) => p.level === 1,
+        )!.person_id;
+      if (a === 3) q.tags = ["Preisträger"];
+      return q;
+    }),
+  );
+  let seed = 191;
+  const random = () =>
+    (seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296;
+  for (const phase of ["fresh", "due", "mixed", "known"]) {
+    const s = emptyState();
+    if (phase !== "fresh")
+      for (const q of pool) {
+        const i = Number(q.id.split("-").at(-1));
+        if (phase === "mixed" && i >= 20) continue;
+        // All actors are globally older; only age within the drawn area matters.
+        const age = (pathAreaOf(q) === "Schauspieler" ? 1 : 1000) + i;
+        s.learning[q.knowledgeId] = {
+          knowledgeId: q.knowledgeId,
+          status: "entdeckt",
+          stage: 1,
+          due: phase === "known" ? 9999999999999 : age,
+          seen: 1,
+          lastSeenAt: age,
+          lastSecure: age,
+          lastAdvancedDay: null,
+          secureDays: [],
+        };
+      }
+    const counts = Object.fromEntries(areas.map((a) => [a, 0]));
+    const mixes = new Set<number>();
+    for (let round = 0; round < 300; round++) {
+      const selected = selectQuestions(
+        pool,
+        s.learning,
+        { ...options, now: 2 * 86_400_000 },
+        random,
+      );
+      expect(selected).toHaveLength(10);
+      expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(10);
+      if (phase === "mixed")
+        expect(selected.filter((q) => s.learning[q.knowledgeId])).toHaveLength(
+          4,
+        );
+      for (const q of selected) counts[pathAreaOf(q)]++;
+      mixes.add(
+        selected.filter((q) => pathAreaOf(q) === "Schauspieler").length,
+      );
+      if (phase !== "fresh")
+        for (const area of areas) {
+          const ids = selected
+            .filter((q) => pathAreaOf(q) === area && s.learning[q.knowledgeId])
+            .map((q) => Number(q.id.split("-").at(-1)))
+            .sort((a, b) => a - b);
+          expect(ids).toEqual(Array.from({ length: ids.length }, (_, i) => i));
+        }
+    }
+    for (const count of Object.values(counts)) {
+      expect(count).toBeGreaterThan(650);
+      expect(count).toBeLessThan(850);
+    }
+    expect(mixes.size).toBeGreaterThan(3); // No fixed actor cap or area quota.
+    expect(
+      selectQuestions(
+        pool,
+        s.learning,
+        {
+          ...options,
+          filters: {
+            sources: ["actors"],
+            genres: [],
+            difficulties: ["leicht"],
+          },
+          now: 2 * 86_400_000,
+        },
+        random,
+      ),
+    ).toHaveLength(10);
+  }
+});
+
+it("zieht bei Wiederholungen zuerst die Gruppe, auch wenn diese verschieden viele Bereiche enthält", () => {
+  const pool = [1, 2].flatMap((level) =>
+    Array.from({ length: 100 }, (_, i) => {
+      const q = groupQuestion(level, level + "-" + i);
+      q.metadata.subdomain =
+        level === 1
+          ? ["Abenteuer", "Drama", "Horror", "Komödie"][i % 4]
+          : "Abenteuer";
+      return q;
+    }),
+  );
+  const s = emptyState();
+  for (const q of pool)
+    s.learning[q.knowledgeId] = {
+      knowledgeId: q.knowledgeId,
+      status: "entdeckt",
+      stage: 1,
+      due: 1,
+      seen: 1,
+      lastSeenAt: 1,
+      lastSecure: 1,
+      lastAdvancedDay: null,
+      secureDays: [],
+    };
+  let seed = 91;
+  const random = () =>
+    (seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296;
+  let first = 0;
+  for (let i = 0; i < 200; i++)
+    first += selectQuestions(
+      pool,
+      s.learning,
+      { ...options, now: 2 * 86_400_000 },
+      random,
+    ).filter((q) => familiarityOf(q) === 1).length;
+  expect(first).toBeGreaterThan(900);
+  expect(first).toBeLessThan(1100);
 });
