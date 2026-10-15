@@ -2,7 +2,7 @@
 
 ## Prüfung und Progressionsentscheidung – 15.10.2026
 
-**Lokal umgesetzt, noch nicht veröffentlicht:** zehn bis zwölf Meilensteine je wachsender Reihe und zwölf unterscheidbare Erfolgsstufen. [Auftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-15 Nutzerauftrag Erfolgsprogression.txt>). Die folgenden Tabellen sind der aktuelle lokale Vertrag; die Abschnitte ab „Veröffentlichter Ausgangsstand“ dokumentieren die ursprüngliche Fassung. Öffentlich bleibt Version 80 aktiv.
+**Seit Version 81 am 15.10.2026 veröffentlicht:** zehn bis zwölf Meilensteine je wachsender Reihe und zwölf unterscheidbare Erfolgsstufen. [Auftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-15 Nutzerauftrag Erfolgsprogression.txt>). Die folgenden Tabellen sind der aktuelle veröffentlichte Vertrag; die Abschnitte ab „Veröffentlichter Ausgangsstand“ dokumentieren die ursprüngliche Fassung. [Veröffentlichungsnachweis Version 81](Veroeffentlichung-2026-10-15-Version-81.json).
 
 Die Stufen sind **I Bronze, II Silber, III Gold, IV Platin, V Diamant, VI Saphir, VII Smaragd, VIII Rubin, IX Amethyst, X Meister, XI Legende, XII Film-Olymp**. Die Position des Meilensteins bestimmt den Rang; Reihen mit zehn Zielen enden bei Meister. Jede Entdecker-Medaille hat jetzt eine eigene Stufe. Rangpunkte sind für zwölf Stufen auf zwei Reihen verteilt; Signale bleiben auf höchstens fünf Feuerwerksimpulse begrenzt. Karrierelevel und Titelkurve ändern sich nicht.
 
@@ -28,7 +28,7 @@ Alle bisherigen Erfolgs-IDs und Schwellen bleiben enthalten. Zwischenziele bei G
 
 Ziele oberhalb des Bestands bleiben als Ausbauziele bestehen, darunter 15 Genres und 500 Personenthemen. Auch die nächste Zielüberschrift weist nun ausdrücklich auf benötigte weitere Inhalte hin. EXP und Runden sind unbegrenzt kumulierbar; höhere EXP-Abzeichen tragen deshalb nicht mehr irreführend „Mit weiteren Inhalten“. Die einmalige Nulltreffer-Auszeichnung und das bestehende besondere Sci-Fi-Abzeichen bleiben einzeln.
 
-Zähldimensionen bleiben getrennt: sichere Fakten, gefestigte Fakten, Begegnungen, vollständige leichte Themen, Genrebreite, Runden und EXP. Keine zusätzlichen EXP-Belohnungen, keine neue Datenbankmigration und keine produktive Aktivierung. Bedingungen, Höchststände, Kontotrennung und Vergabewege entsprechen dem bestehenden Vertrag unten. [Gezielte lokale Prüfung](Pruefbericht.md#15102026--erweiterte-erfolgsprogression-lokal).
+Zähldimensionen bleiben getrennt: sichere Fakten, gefestigte Fakten, Begegnungen, vollständige leichte Themen, Genrebreite, Runden und EXP. Keine zusätzlichen EXP-Belohnungen. Für die Erfolgsprogression war keine zusätzliche Datenbankänderung erforderlich; seit Version 81 veröffentlicht. Bedingungen, Höchststände, Kontotrennung und Vergabewege entsprechen dem bestehenden Vertrag unten. [Gezielte lokale Prüfung](Pruefbericht.md#15102026--erweiterte-erfolgsprogression-lokal).
 
 ## Veröffentlichter Ausgangsstand
 

@@ -1,6 +1,6 @@
 # Spielmodi und Bekanntheitsgruppen
 
-**15.10.2026 – Lokal umgesetzt, noch nicht veröffentlicht:** Die Filmreise zieht neue Ziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe, dann nach verfügbarer Schwierigkeit, Ziel und Variante. Je Bereich bleiben nur dessen eigene freigespielte Gruppen zulässig. Keine feste Viertelquote oder Bereichsgewichtung; fällige Wiederholungen bleiben termingesteuert. [Aktueller Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
+**15.10.2026 – Seit Version 81 veröffentlicht und produktiv aktiviert:** Die Filmreise zieht neue Ziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe, dann nach verfügbarer Schwierigkeit, Ziel und Variante. Je Bereich bleiben nur dessen eigene freigespielte Gruppen zulässig. Keine feste Viertelquote oder Bereichsgewichtung; fällige Wiederholungen bleiben termingesteuert. [Aktueller Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
 
 **13.10.2026 – Gemeinsame Bekanntheitsgruppen seit Version 80 veröffentlicht:** Sehr bekannt, Bekannt, Für Filmkenner und Entdeckungen gelten für Filme, Schauspieler und Preisfragen. Personen nach redaktioneller Personengruppe, Preise nach Filmfassung; nächste Gruppe in der Filmreise ab aufgerundet 50 Prozent der aktuellen leichten Ziele der vorherigen Gruppe. Schwierigkeiten bleiben unabhängig, Personen/Preise einschließlich Experte. [Vollständiger aktueller Vertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 

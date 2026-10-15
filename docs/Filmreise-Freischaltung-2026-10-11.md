@@ -1,6 +1,6 @@
 # Filmreise: 50-Prozent-Freischaltung und Fragenauswahl
 
-Stand: 15.10.2026. Die unten beschriebene Bekanntheitsauswahl ist lokal umgesetzt und geprüft, noch nicht veröffentlicht. Die Freischaltung ist seit Version 80 für alle drei Fragenbereiche produktiv.
+Stand: 15.10.2026. Die unten beschriebene Bekanntheitsauswahl ist seit Version 81 veröffentlicht und produktiv aktiviert. Die Freischaltung ist seit Version 80 für alle drei Fragenbereiche produktiv.
 
 ## Freischaltung
 
@@ -32,7 +32,7 @@ Der Client verwendet die vorhandene globale Serveransicht `summary`, dieselbe wi
 
 ## Auswahl neuer Ziele
 
-Auf [präzisierten Nutzerauftrag vom 15.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-15%20Nutzerauftrag%20Filmreise%20Bekanntheitsauswahl.txt) steuert zuerst die freigespielte Bekanntheitsgruppe die Auswahl neuer Ziele. Lokal umgesetzt, noch nicht produktiv aktiviert.
+Auf [präzisierten Nutzerauftrag vom 15.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-15%20Nutzerauftrag%20Filmreise%20Bekanntheitsauswahl.txt) steuert zuerst die freigespielte Bekanntheitsgruppe die Auswahl neuer Ziele. [Seit Version 81 veröffentlicht und produktiv aktiviert](Veroeffentlichung-2026-10-15-Version-81.json).
 
 Der Server begrenzt zuerst den Pool durch Themen-/Bereichsauswahl und die aktuellen Freigaben **je Filmgenre, Schauspieler- und Preisbereich**. Eine offene Filmgruppe macht keine gesperrte Schauspieler- oder Preisgruppe verfügbar. Für jeden neuen Platz zieht er anschließend gleichwahrscheinlich eine Bekanntheitsgruppe mit noch unbekannten geeigneten Zielen, darin gleichwahrscheinlich eine verfügbare Schwierigkeit, dann ein Wissensziel und zuletzt eine passende Variante. Bei zwei verfügbaren Gruppen jeweils 50 Prozent, bei drei je ein Drittel, bei vier je 25 Prozent; unabhängig von ihrer Zielzahl und Zahl offener Schwierigkeiten. Die Auslosung wird nach jeder Ziehung anhand der Restmengen wiederholt.
 
@@ -44,7 +44,7 @@ Bei ausreichendem Bestand weiterhin vier fällige Wiederholungen und sechs neue 
 
 ## Betrieb und Grenzen
 
-Die lokale Folgeänderung `20261015170544_journey_familiarity_balanced_new_questions.sql` ersetzt ausschließlich die private Auswahlfunktion; `src/engine.ts` folgt derselben Hierarchie. Keine neuen Tabellen, Fortschrittsfelder, Katalogimporte oder Änderungen bestehender Antworten und Runden. Für die produktive Aktivierung ist eine gesonderte Freigabe des aktuellen Stands erforderlich.
+Die seit Version 81 aktivierte Folgeänderung `20261015170544_journey_familiarity_balanced_new_questions.sql` (native Historie `20261015175708`) ersetzt ausschließlich die private Auswahlfunktion; `src/engine.ts` folgt derselben Hierarchie. Keine neuen Tabellen, Fortschrittsfelder, Katalogimporte oder Änderungen bestehender Antworten und Runden. Mit ausdrücklicher Freigabe des gesamten Main-Stands am 15.10.2026 aktiviert; acht private Quelltabellen atomar unverändert bestätigt.
 
 Private SQL-Funktionen berechnen Freigaben aus vorbereiteten aktuellen Zielmengen und inkrementell gepflegten sicheren Zielen. Auswahl bleibt auf dem Server; kein Vollkatalogabruf beim Kontostart, keine neue Clientablage und keine historischen Kataloge. Die lokale Proberunden-/Prüflogik folgt denselben Regeln. Datenbankänderungen: `20261011135954_journey_half_progress_and_balanced_new_questions.sql` für Schwierigkeiten und Auswahl sowie `20261011201651_journey_group_half_current_goals.sql` für Filmgruppen. Deren aktuelle leichte Zielmengen werden bei Inhaltsaktivierung in der privaten Tabelle `film_group_goals` vorbereitet; Kontoabfragen lesen diese kleinen Mengen und den bestehenden Cache. Kein Fragenbestand wird für jede Berechnung neu durchsucht. Bestehende Caches werden verworfen; die normale Revision informiert weitere Geräte über neu projizierte Freigaben. Bereits laufende Runden behalten ihre beim Start gezogene Folge, neue Starts verwenden die neue Regel.
 

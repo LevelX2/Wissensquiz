@@ -1,5 +1,19 @@
 # Sites-Veröffentlichung
 
+## Version 81: Bekanntheitsauswahl und langfristige Erfolgsprogression
+
+Am **15.10.2026 um 20:00:48 Uhr Europe/Berlin** aus Main (c8b13cff62c280e90562df72e3c427e9e0158dba) als **Version 81 öffentlich veröffentlicht**, nativer Status **succeeded**. Öffentlicher Zugriff **public, Revision 2** und bestehende Adresse erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-15-Version-81.json). [Freigabe](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-15 Nutzerauftrag Main veroeffentlichen.txt>).
+
+Enthält beide zuvor unveröffentlichten Funktionsblöcke: Filmreise zieht neue Ziele zuerst nach freigespielter Bekanntheitsgruppe, dann nach Schwierigkeit, Ziel und Variante; zwölf Erfolgsstufen und längere Meilensteinreihen. Getrennte Freischaltungen und fällige Wiederholungen erhalten. Keine feste Viertelquote oder zusätzliche Bereichsgewichtung. Bestehende Runden behalten ihre gezogene Folge.
+
+**483 Tests in 81 Dateien** (143,42 Sekunden), TypeScript/Build und Diff-Prüfung erfolgreich. Vollständiger Browserlauf mit 371 Fällen (2.358,83 Sekunden): 367 zunächst erfolgreich, drei veraltete Silber-Fanfaren-Erwartungen, ein geplanter Skip. Fünf gelernte Sci-Fi-Filme erreichen nach der neuen Genre-Reihe Gold. Testkorrektur prüft Gold, fünf Töne und passende Vibration ausdrücklich; alle **24 Erfolgsszenarien** in Chromium, Firefox und mobilem WebKit erfolgreich nachgeprüft (498,01 Sekunden). Insgesamt **370 unterschiedliche Fälle erfolgreich**, keine offenen Fehler. Anwendungscode unverändert durch diese Korrektur; finaler Main-Build in allen 919 Dateien bytegleich zum browsergeprüften Build. Erfolgreiche unveränderte Prüfteile wiederverwendet. Keine Abhängigkeitsänderung.
+
+Migration journey_familiarity_balanced_new_questions nativ unter 20261015175708 aktiviert. Ausschließlich die private Auswahlfunktion ersetzt, acht Quelltabellen einschließlich Spielständen, Lern-/Zeitrunden und Duellen atomar unverändert bestätigt. Funktion exakt gleich zur geprüften Fassung, Invoker mit leerem Suchpfad, kein direkter anon/authenticated-Aufruf. 24 synthetische Serverwarteschlangen vollständig zurückgerollt; Abwesenheit von Testkonto und Cache separat bestätigt. Fragenbestand unverändert bei 14.451 Fragen/13.781 Zielen; kein Inhaltsimport oder Reset. Advisors gegenüber Ausgangsstand unverändert.
+
+Archiv mit 920 Dateien, ausschließlich Build und Hostingmanifest; alle 919 Build-Dateien bytegleich. Öffentlich alle 918 Nicht-HTML-Dateien HTTP 200 und bytegleich; Startseite 200 mit richtigen Assets, /index.html regulär 307. Tatsächliche Versionszeit separat gespeichert, zurückgelesen und anonym über die Versions-RPC bestätigt; direkter Tabellenzugriff 401. Kein GitHub-Push.
+
+Eigene Quellkopie, Build, Kontrollentpackung, SQL-Prüfdateien, Browserausgaben und Transportarchiv nach Pfad-/Verknüpfungsprüfung entfernt; Abwesenheit bestätigt (**986.639.449 Bytes**, zehn eigene schreibgeschützte Dateien entsperrt). Keine geteilten Git-Objekte oder Verknüpfungen. Originalmetadaten, Abhängigkeiten und beide fremden Mifune-Konfigurationen erhalten.
+
 ## Version 80: vollständiger Schauspielerausbau und gemeinsame Bekanntheitsgruppen
 
 Am **13.10.2026 um 23:59:07 Uhr Europe/Berlin** aus Main (`270d911d2b55ad8b9a398d99f22d60e75cd88170`) als **Version 80 öffentlich veröffentlicht**, nativer Status **succeeded**. Projekt-ID und Besucherzugriff **public, Revision 2** erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-80.json).

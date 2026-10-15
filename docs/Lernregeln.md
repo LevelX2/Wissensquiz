@@ -1,6 +1,6 @@
 # Lern-, Runden- und Speichervertrag
 
-**15.10.2026 – Lokal umgesetzt, noch nicht veröffentlicht:** Die Filmreise zieht neue Ziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe, dann nach verfügbarer Schwierigkeit, Ziel und Variante. Je Bereich bleiben nur dessen eigene freigespielte Gruppen zulässig. Keine feste Viertelquote oder Bereichsgewichtung; fällige Wiederholungen bleiben termingesteuert. [Aktueller Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
+**15.10.2026 – Seit Version 81 veröffentlicht und produktiv aktiviert:** Die Filmreise zieht neue Ziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe, dann nach verfügbarer Schwierigkeit, Ziel und Variante. Je Bereich bleiben nur dessen eigene freigespielte Gruppen zulässig. Keine feste Viertelquote oder Bereichsgewichtung; fällige Wiederholungen bleiben termingesteuert. [Aktueller Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
 
 ## Schauspielerausbau und Bekanntheitsgruppen seit Version 80
 

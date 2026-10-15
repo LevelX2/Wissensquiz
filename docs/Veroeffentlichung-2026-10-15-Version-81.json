@@ -1,0 +1,161 @@
+{
+  "version": 81,
+  "sourceBranch": "main",
+  "sourceCommit": "c8b13cff62c280e90562df72e3c427e9e0158dba",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "changes": [
+    "Erfolgsprogression mit zwölf Stufen",
+    "Filmreise zuerst nach freigespielter Bekanntheitsgruppe"
+  ],
+  "checks": {
+    "unitTests": 483,
+    "unitFiles": 81,
+    "unitDurationSeconds": 143.42,
+    "typeScript": true,
+    "buildVersion": 81,
+    "fullBrowserSuite": true,
+    "dependencyChanges": false,
+    "browserPlannedCases": 371,
+    "browserWorkers": 3,
+    "fullBrowserInitialPassed": 367,
+    "fullBrowserInitialFailed": 3,
+    "browserSkipped": 1,
+    "fullBrowserDurationSeconds": 2358.8277030000004,
+    "correctiveBrowserCasesPassed": 24,
+    "correctiveBrowserDurationSeconds": 498.01233499999995,
+    "distinctBrowserCasesPassed": 370,
+    "unresolvedBrowserFailures": 0,
+    "applicationCodeUnchangedByBrowserCorrection": true,
+    "initialRuntimeCheckCommit": "c35ddc5592d3a663884ea505dcb0ee9dbebe7dc0",
+    "finalBuildByteIdenticalToBrowserTestedBuild": true,
+    "formatAndDiff": true
+  },
+  "data": {
+    "questions": 14451,
+    "goals": 13781,
+    "questionImport": false,
+    "reset": false,
+    "protectedTables": [
+      "public.quiz_account_heads",
+      "public.quiz_duels",
+      "public.quiz_sync_entries",
+      "public.quiz_sync_generations",
+      "quiz_game_internal.goal_rewards",
+      "quiz_game_internal.questions",
+      "quiz_game_internal.runs",
+      "quiz_ranked_internal.runs"
+    ],
+    "localMigration": "supabase/migrations/20261015170544_journey_familiarity_balanced_new_questions.sql"
+  },
+  "publishedAt": "2026-10-15T18:00:48.955736+00:00",
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_97d1368aabfc8191b8de8f984ac835e6",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 81,
+    "source": {
+      "commit_sha": "c8b13cff62c280e90562df72e3c427e9e0158dba"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000c214820b95ae786f79040809",
+      "content_hash": "sha256:fa7229868870e257534d615f805f9b6399f60e411a9904cf289d4d9b994a8397",
+      "size_bytes": 94863360,
+      "file_count": 920
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ad114acc5288191b8349d98658e8059",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_97d1368aabfc8191b8de8f984ac835e6",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-15T18:00:48.955736+00:00"
+  },
+  "sourcePushToSitesOnly": true,
+  "githubPush": false,
+  "nativeActivation": {
+    "migration": {
+      "version": "20261015175708",
+      "name": "journey_familiarity_balanced_new_questions"
+    },
+    "protectedSourceTablesAtomicallyUnchanged": true,
+    "protectedTableCount": 8,
+    "function": {
+      "function_body_md5": "4b5ceb4c152637ac41daf38639f214ef",
+      "invoker": true,
+      "proconfig": [
+        "search_path=\"\""
+      ],
+      "anon_denied": true,
+      "authenticated_denied": true
+    },
+    "syntheticProbe": {
+      "syntheticQueues": 24,
+      "initialGroupCounts": {
+        "1": 22,
+        "2": 35,
+        "3": 30,
+        "4": 33
+      },
+      "uniqueGoalsPerRound": true,
+      "lockedActorGroupsExcluded": true,
+      "syntheticUserAndCacheAbsentAfterRollback": true
+    },
+    "advisorsCategoriesUnchanged": true,
+    "advisorsCategories": {
+      "rls_enabled_no_policy": 1,
+      "anon_security_definer_function_executable": 1,
+      "authenticated_security_definer_function_executable": 1,
+      "auth_leaked_password_protection": 1
+    },
+    "contentHash": "f14fc7868a11cf79341ec79053d741ff192aca9a30e23ffaa50aa71a91ac8cb8",
+    "privatePlayerDataUsedForTests": false,
+    "rolloutFileSha256": "341601cd1594ad83f62c75de28bde53209bf577970d1b03d3287e9aae365f030"
+  },
+  "publicationMetadataSeparatelyReadBack": true,
+  "archive": {
+    "buildFiles": 919,
+    "archiveFiles": 920,
+    "sha256": "bb4f92393c06b42acdb5a3743078b904c7de6cf915c8b27ee6a0afb997e855d2",
+    "bytes": 78193704,
+    "allBuildFilesByteIdentical": true
+  },
+  "live": {
+    "checked": 919,
+    "failures": [],
+    "nonHtmlFileCount": 918,
+    "htmlStatus": 200,
+    "expectedAssetReferences": true,
+    "releaseRpcStatus": 200,
+    "publicRelease": [
+      {
+        "version": 81,
+        "published_at": "2026-10-15T18:00:48.955736+00:00"
+      }
+    ],
+    "releaseTableDirectStatus": 401,
+    "indexEndpointStatus": 307
+  },
+  "cleanup": {
+    "completed": true,
+    "removedBytes": 986639449,
+    "releaseDirectoryAbsent": true,
+    "ownReadOnlyFilesUnlocked": 10,
+    "sharedGitObjects": false,
+    "dependenciesPreserved": true,
+    "originalPortraitMetadataPreserved": true,
+    "foreignMifuneConfigurationsPreserved": true
+  }
+}

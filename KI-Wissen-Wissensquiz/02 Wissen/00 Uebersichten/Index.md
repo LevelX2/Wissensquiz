@@ -1,8 +1,8 @@
 # Wissensindex
 
-**15.10.2026 – Bekanntheitsauswahl lokal angepasst, noch nicht veröffentlicht:** Neue Filmreiseziele werden zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe gewählt, dann nach Schwierigkeit, Ziel und Variante. Freischaltung bleibt je Filmgenre, Schauspieler- und Preisbereich getrennt; keine Bereichsquote oder feste Viertelung kurzer Runden. 41 gezielte Tests und TypeScript erfolgreich. [Auswahlvertrag](../../../docs/Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
+**15.10.2026 – Gesamtstand aus Main als Version 81 veröffentlicht:** Neue Filmreiseziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe; zwölf Erfolgsstufen und erweiterte Meilensteine. 483 Tests, Build und 370 unterschiedliche Browserfälle einschließlich 24 erfolgreicher Nachprüfungen bestanden; ein geplanter Skip. Serverfunktion aktiviert, acht private Quelltabellen unverändert, synthetische Prüfungen zurückgerollt. Alle 919 öffentlichen Dateien geprüft, Versionszeit 20:00:48 Uhr Europe/Berlin bestätigt; eigene Veröffentlichungsartefakte vollständig entfernt. [Nachweis](../../../docs/Veroeffentlichung-2026-10-15-Version-81.json).
 
-- [Erfolgsprogression: zehn bis zwölf Stufen, Langzeitziele und Bestandsgrenzen – 15.10.2026, lokal](../../../docs/Erfolge.md#prüfung-und-progressionsentscheidung--15102026)
+- [Erfolgsprogression: zehn bis zwölf Stufen, Langzeitziele und Bestandsgrenzen – 15.10.2026, Version 81](../../../docs/Erfolge.md#prüfung-und-progressionsentscheidung--15102026)
 
 - [Version 80: 428 Schauspieler, 1.664 neue Fragen und vier Bekanntheitsgruppen in allen Bereichen – veröffentlicht](../../../docs/Bekanntheitsgruppen/App-Integration-2026-10-13.md)
 
