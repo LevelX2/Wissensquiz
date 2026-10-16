@@ -1,0 +1,70 @@
+Komödie – redaktionelle Übergabe, 15.10.2026
+
+Die 365 offenen Zeilen aus Komoedie.csv sind für sämtliche 42 betroffenen Filme bearbeitet. Die übrigen 856 bereits redigierten Zeilen des Ausgangsexports bleiben außerhalb dieser Rückgabe. Es wurden keine weiteren Filme ausgewählt.
+
+Umfang und Zählweise
+445 Rückgabezeilen: 365 Bestandszeilen, 77 Ergänzungen und 3 Ersatzfragen.
+3 ungeeignete Originalfragen bleiben zur Nachverfolgung erhalten und tragen verification_status=Entwurf. Ohne diese Zeilen bleiben 442 redaktionell geprüfte Fragenzeilen mit 413 eigenständigen Wissenszielen. 29 Zeilen sind Bestandsvarianten und zählen nicht als zusätzliche Wissensziele.
+Die Inhaltsziele verteilen sich auf 88 leichte, 157 mittlere und 84 schwere Ziele. Hinzu kommen 42 Jahres- und 42 Regieziele, jeweils genau eines pro Film. Sie sind in der CSV enthalten und zählen nicht zur Inhaltsabdeckung. Bei der späteren Integration keinen zusätzlichen Jahres-/Regiegenerator für dieselben Ziele verwenden.
+
+Ersatzzuordnung
+Diese Originalzeilen nicht als geprüfte Spielfragen übernehmen:
+KOM-202609-P02-L-054 – Hochzeiten werden bereits durch Die Hochzeits-Crasher verraten.
+KOM-202609-P02-L-028 – Der Geheimdiensteinsatz wird bereits durch Spione wie wir erkennbar.
+KOM-202609-P02-L-010 – Der Kabelanschluss wird bereits durch Cable Guy erkennbar.
+Jede Ersatzfrage ist über replaces_question_id eindeutig zugeordnet. Alle neuen Frage-, Wissensziel- und Varianten-IDs bleiben leer; keine Lernidentitäten wurden erfunden oder umgewidmet.
+
+Redaktion und Prüfung
+Fragen und Optionen wurden auf Eindeutigkeit, Hinweise auf die Lösung, plausible Alternativen und angemessene Schwierigkeit geprüft. Bekannte Handlungspointen wurden vielfach von schwer auf mittel umgestuft; die zusätzlichen schweren Ziele erschließen vor allem Produktionsgeschichte, Filmgestaltung, Musik und Zusammenhänge. Die Texte wurden als Filmgruppen gelesen; passende vorhandene Vertiefungen blieben erhalten. Quellen stehen jeweils in source_urls. Spoiler berücksichtigen auch Vertiefung und Feedback.
+Annas Instrument in Geschenkt ist noch zu teuer ist gemäß AFI und Amblin eine Bratsche. Bei Arizona Junior fragt das Regieziel ausdrücklich nach dem Credit Joel Coen; der Text erläutert die gemeinsame Arbeit mit Ethan Coen. Die Gagenfrage zu Twins ist auf den Verzicht auf übliche hohe Festgagen zugunsten einer Beteiligung begrenzt und behauptet keine vollständige Unentgeltlichkeit.
+
+Das originale 54-Spalten-Format, sämtliche 365 Frage- und Wissensziel-IDs, Variantenbezüge und alle nicht redaktionellen Kontextfelder sind unverändert. Die Werte in editorial_status und source_commit dokumentieren weiterhin den Ausgangsexport; sie besagen keinen inzwischen erfolgten App-Import. Die CSV wurde erneut eingelesen, auf IDs, Varianten, Ersatzzuordnung, vier unterschiedliche Optionen, Antwortschlüssel, Pflichttexte und Stufenabdeckung geprüft. Jede Frage einschließlich ihrer vier Optionen bleibt innerhalb von 60 Wörtern. Die neuen Antwortpositionen sind gleichmäßig verteilt. Ein erneuter Aufbau erzeugt dieselben Dateibytes.
+
+Bestandsabgleich und Grenze
+Der verfügbare vollständige Paketstand vom 13.10.2026 wurde als Kontext verwendet; 21 passende Zeilen anderer Personen-/Preispakete wurden inhaltlich berücksichtigt. Eine Dublettenfreiheit gegenüber späteren Änderungen oder parallel laufenden Chats wird nicht behauptet.
+Dies ist eine redaktionelle Übergabe. App-Parser, Import und Veröffentlichung wurden nicht ausgeführt. Bei der Integration den Lösungsschutz für Jahr, Regie und Besetzung anhand der tatsächlichen Anzeige prüfen; die übernommenen Kontext- und Filmdatenfelder bleiben dafür vollständig erhalten.
+
+Abdeckung je Film
+L/M/S = eigenständige Inhaltsziele; Jahr/Regie sind zusätzliche Ziele.
+Arizona Junior (1987): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Rat Race – Der nackte Wahnsinn (2001): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Nichts zu verzollen (2010): 4/2/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Robin Hood – Helden in Strumpfhosen (1993): 2/3/2; Jahr/Regie 1/1; 0 Varianten; 1 neue Zeilen.
+Shaun of the Dead (2004): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Manche mögen’s heiß (1959): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Spaceballs (1987): 2/3/2; Jahr/Regie 1/1; 0 Varianten; 1 neue Zeilen.
+Spione wie wir (1985): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 3 neue Zeilen.
+Superbad (2007): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Ricky Bobby – König der Rennfahrer (2006): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Thank You for Smoking (2005): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Das Apartment (1960): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+The Big Lebowski (1998): 2/4/2; Jahr/Regie 1/1; 3 Varianten; 2 neue Zeilen.
+The Blues Brothers (1980): 3/3/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Cable Guy – Die Nervensäge (1996): 2/4/2; Jahr/Regie 1/1; 2 Varianten; 3 neue Zeilen.
+The Death of Stalin (2017): 2/3/2; Jahr/Regie 1/1; 0 Varianten; 1 neue Zeilen.
+Ganz oder gar nicht (1997): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Der General (1926): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Goldrausch (1925): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Grand Budapest Hotel (2014): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Hangover (2009): 2/4/2; Jahr/Regie 1/1; 3 Varianten; 2 neue Zeilen.
+Ladykillers (1955): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Ladykillers (2004): 2/3/2; Jahr/Regie 1/1; 0 Varianten; 1 neue Zeilen.
+Geschenkt ist noch zu teuer (1986): 2/4/2; Jahr/Regie 1/1; 2 Varianten; 2 neue Zeilen.
+Die nackte Kanone (1988): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+The Nice Guys (2016): 2/3/2; Jahr/Regie 1/1; 0 Varianten; 1 neue Zeilen.
+Der Partyschreck (1968): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Der rosarote Panther (1963): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Frühling für Hitler (1967): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Der Clou (1973): 2/3/2; Jahr/Regie 1/1; 0 Varianten; 1 neue Zeilen.
+Tootsie (1982): 2/4/2; Jahr/Regie 1/1; 2 Varianten; 2 neue Zeilen.
+Top Secret! (1984): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Die Glücksritter (1983): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Tropic Thunder (2008): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Tucker & Dale vs. Evil (2010): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.
+Twins – Zwillinge (1988): 3/3/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Waiting for Guffman (1996): 2/3/2; Jahr/Regie 1/1; 0 Varianten; 1 neue Zeilen.
+Wayne’s World (1992): 2/4/2; Jahr/Regie 1/1; 2 Varianten; 2 neue Zeilen.
+Die Hochzeits-Crasher (2005): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 3 neue Zeilen.
+5 Zimmer Küche Sarg (2014): 2/4/2; Jahr/Regie 1/1; 0 Varianten; 2 neue Zeilen.
+Frankenstein Junior (1974): 2/4/2; Jahr/Regie 1/1; 3 Varianten; 2 neue Zeilen.
+Zombieland (2009): 2/4/2; Jahr/Regie 1/1; 1 Varianten; 2 neue Zeilen.

@@ -15,11 +15,11 @@ import awards from "../docs/Erweiterung-2026-10-07/Preisefragen_20261007.json";
 import { latestCsvRevision, originalQuestionId } from "./editorialSource";
 
 const contents = packages
+  .slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
   .filter(
     (p) =>
       !p.filename.startsWith("Genre100_") &&
-      !p.filename.startsWith("Schauspieler-Bekanntheit-") &&
-      p.filename !== "Action-Drama-Ergaenzungen-2026-10-15.csv",
+      !p.filename.startsWith("Schauspieler-Bekanntheit-"),
   )
   .map((p) => ({
     filename: p.filename,

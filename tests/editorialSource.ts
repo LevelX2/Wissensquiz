@@ -45,9 +45,11 @@ export function baselineCsvRow(file: string, originalId: string): Row {
   if (!rows) {
     const pkg = packages.find((entry) => `public${entry.path}` === file);
     assert(pkg, `${file}: ursprüngliches Fragenpaket`);
-    const sourcePath = pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
-      ? `docs/Filmfragen-Ergaenzung-2026-10-06/${pkg.filename}`
-      : `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`;
+    const sourcePath = pkg.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"
+      ? "docs/Schauspieler-Bekanntheit-2026-10-13/Fragen.csv"
+      : pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
+        ? `docs/Filmfragen-Ergaenzung-2026-10-06/${pkg.filename}`
+        : `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`;
     const parsed = Papa.parse<Row>(readFileSync(sourcePath, "utf8"), {
       header: true,
       skipEmptyLines: "greedy",
@@ -144,7 +146,15 @@ export function assertEditorialSource(
       if (id !== before.question_id) {
         assert(integrated.replacements.some((r) => r.id === before.question_id && r.replacementId === id && r.replacementKnowledgeId === row.knowledge_id), `${id}: ausdrücklicher Zielwechsel`);
       } else {
-        assert.equal(row.knowledge_id, before.knowledge_id, `${id}: stabiles Lernziel`);
+        const correction = integrated.goalLinks.find((entry) => entry.id === id);
+        if (correction) {
+          assert.equal(before.knowledge_id, correction.knowledgeId, `${id}: ursprüngliche Zielverknüpfung`);
+          assert.equal(before.variant_of, correction.variantOf, `${id}: ursprünglicher Variantenbezug`);
+          assert.equal(row.knowledge_id, correction.correctedKnowledgeId, `${id}: korrigierte Zielverknüpfung`);
+          assert.equal(row.variant_of, correction.correctedVariantOf, `${id}: korrigierter Variantenbezug`);
+        } else {
+          assert.equal(row.knowledge_id, before.knowledge_id, `${id}: stabiles Lernziel`);
+        }
       }
     }
     assert.deepEqual(row, activeRow(expected), `${id}: dokumentierter Endstand`);

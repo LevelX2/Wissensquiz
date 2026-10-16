@@ -26,13 +26,13 @@ import {
 
 // Keep this regression at the award package's original catalog stage.
 const contents = packages
+  .slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
   .filter(
     (p) =>
       !p.filename.startsWith("Schauspieler_") &&
       !p.filename.endsWith("fragen_20261007.csv") &&
       !p.filename.startsWith("Genre100_") &&
       !p.filename.startsWith("Schauspieler-Bekanntheit-") &&
-      p.filename !== "Action-Drama-Ergaenzungen-2026-10-15.csv" &&
       p.filename !== "Filmfragen_240_Filme_1920_Fragen.csv",
   )
   .map((p) => ({

@@ -78,12 +78,13 @@ it("ändert keine der 2.567 bestehenden Fragen oder Antwortvorlagen durch die Er
   const old = emptyState();
   addPackages(old, contents.slice(0, 11));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "a113a073a808fa410e06731cab5efe3c2f1ec7965f378858cc0afe29ffb26abb",
+    "578e2abd2f85a3d8ebb836a99435429f9bd36fbb057dc03bd533a52e779cf0cc",
   );
   const oldQuestions = structuredClone(old.questions);
   addPackages(old, contents);
   addPackages(old, contents);
-  expect(old.questions).toHaveLength(3727);
+  // The explicitly retired bridge variant no longer belongs to this stage.
+  expect(old.questions).toHaveLength(3726);
   expect(old.questions.slice(0, oldQuestions.length)).toEqual(oldQuestions);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

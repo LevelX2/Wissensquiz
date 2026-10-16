@@ -14,9 +14,9 @@ const contents = packages.map((p) => ({
   filename: p.filename,
   text: readFileSync(`public${p.path}`, "utf8"),
 }));
-const supplementFilename = "Action-Drama-Ergaenzungen-2026-10-15.csv";
-const supplement = contents.find(p => p.filename === supplementFilename)!;
-const historicalContents = contents.filter(p => p !== supplement);
+const actorIndex = contents.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv");
+const supplements = contents.slice(actorIndex + 1);
+const historicalContents = contents.slice(0, actorIndex + 1);
 const before = emptyState();
 addPackages(
   before,
@@ -37,7 +37,7 @@ addPackages(
   historicalContents.filter((p) => p.filename.startsWith("Schauspieler-Bekanntheit-")),
 );
 const beforeSupplementIds = new Set(state.questions.map(q => q.id));
-addPackages(state, [supplement]);
+addPackages(state, supplements);
 const supplementQuestions = state.questions.filter(q => !beforeSupplementIds.has(q.id));
 const newIds = new Set([
   ...state.questions.filter((q) => q.id.startsWith("G100-")).map((q) => q.id),

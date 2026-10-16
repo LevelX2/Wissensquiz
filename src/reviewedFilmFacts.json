@@ -5678,5 +5678,4968 @@
       "learning_objective": "In welchem Jahr wurde „Wilde Erdbeeren“ erstmals veröffentlicht?",
       "spoiler_level": "keine"
     }
+  },
+  "FF-119-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Der dunkle Kristall“ gemeinsam Regie?",
+    "answers": [
+      {
+        "id": "FF-119-DIRECTOR:a",
+        "text": "Jim Henson und Frank Oz",
+        "feedback": ""
+      },
+      {
+        "id": "FF-119-DIRECTOR:b",
+        "text": "Arthur Rankin Jr. und Jules Bass",
+        "feedback": ""
+      },
+      {
+        "id": "FF-119-DIRECTOR:c",
+        "text": "John Halas und Joy Batchelor",
+        "feedback": ""
+      },
+      {
+        "id": "FF-119-DIRECTOR:d",
+        "text": "Don Bluth und Gary Goldman",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-119-DIRECTOR:a",
+    "explanation": "Jim Henson und Frank Oz führten gemeinsam Regie.",
+    "context": "Jim Henson entwarf die Geschichte während eines eingeschneiten Hotelaufenthalts. David Odell entwickelte daraus das Drehbuch. Henson und Frank Oz strebten die düstere Wirkung ursprünglicher Grimm-Märchen an: Ihr Puppenfilm sollte Kindern auch Angst zumuten, statt die Gefahr nur komisch aufzulösen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Dark_Crystal",
+      "https://www.darkcrystal.com/the-making-of-the-dark-crystal/"
+    ],
+    "metadata": {
+      "film_title_de": "Der dunkle Kristall",
+      "film_title_original": "The Dark Crystal",
+      "film_year": "1982",
+      "subdomain": "Fantasy",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-119",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-037",
+      "learning_objective": "Vollständiges Regieteam",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-119-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der dunkle Kristall“: In welchem Jahr erschien der Film von Jim Henson und Frank Oz erstmals?",
+    "answers": [
+      {
+        "id": "FF-119-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-119-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-119-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-119-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-119-YEAR:y1982",
+    "explanation": "„Der dunkle Kristall“ wurde erstmals 1982 veröffentlicht.",
+    "context": "Die Aufnahmen fanden 1981 statt, die Filmmusik wurde im Januar 1982 vom London Symphony Orchestra eingespielt. Nach weiteren Arbeiten und Vorführungen folgten die Premieren und der US-Kinostart im Dezember 1982. Die lange Herstellung reichte damit über das eigentliche Drehjahr hinaus.",
+    "sources": [
+      "https://www.darkcrystal.com/the-making-of-the-dark-crystal/"
+    ],
+    "metadata": {
+      "film_title_de": "Der dunkle Kristall",
+      "film_title_original": "The Dark Crystal",
+      "film_year": "1982",
+      "subdomain": "Fantasy",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-119",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-037",
+      "learning_objective": "Erste Veröffentlichung",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-101-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Der Herr der Ringe: Die Gefährten“ mit Elijah Wood Regie?",
+    "answers": [
+      {
+        "id": "FF-101-DIRECTOR:a",
+        "text": "Peter Jackson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-101-DIRECTOR:b",
+        "text": "Chris Columbus",
+        "feedback": ""
+      },
+      {
+        "id": "FF-101-DIRECTOR:c",
+        "text": "Alfonso Cuarón",
+        "feedback": ""
+      },
+      {
+        "id": "FF-101-DIRECTOR:d",
+        "text": "Mike Newell",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-101-DIRECTOR:a",
+    "explanation": "Peter Jackson führte Regie.",
+    "context": "Peter Jackson ließ Mittelerde wie eine geschichtlich gewachsene Welt gestalten. Die Tolkien-Illustratoren Alan Lee und John Howe entwarfen Gebäude, Landschaften und Rüstungen; Weta und die Ausstattungsabteilung setzten sie um. Kostümbildnerin Ngila Dickson und ihre Näherinnen fertigten Tausende Kleidungsstücke und ließen sie bewusst gebraucht aussehen. Auch eine fantastische Welt sollte sichtbare Spuren ihrer Vergangenheit besitzen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+      "https://theasc.com/article/lord-of-the-rings-fellowship-of-the-ring/"
+    ],
+    "metadata": {
+      "film_title_de": "Der Herr der Ringe: Die Gefährten",
+      "film_title_original": "The Lord of the Rings: The Fellowship of the Ring",
+      "film_year": "2001",
+      "subdomain": "Fantasy",
+      "franchise": "Der Herr der Ringe",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-101",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-001",
+      "learning_objective": "Regie der Tolkien-Verfilmung",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-101-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Herr der Ringe: Die Gefährten“: In welchem Jahr erschien der Film von Peter Jackson erstmals?",
+    "answers": [
+      {
+        "id": "FF-101-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      },
+      {
+        "id": "FF-101-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-101-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      },
+      {
+        "id": "FF-101-YEAR:y2002",
+        "text": "2002",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-101-YEAR:y2001",
+    "explanation": "„Der Herr der Ringe: Die Gefährten“ wurde erstmals 2001 veröffentlicht.",
+    "context": "2001 kamen sowohl „Die Gefährten“ als auch „Harry Potter und der Stein der Weisen“ ins Kino. Beide eröffneten lange Fantasy-Kinoreihen. Die Fortsetzungen „Die zwei Türme“ und „Die Kammer des Schreckens“ folgten jeweils 2002.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring",
+      "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der Herr der Ringe: Die Gefährten",
+      "film_title_original": "The Lord of the Rings: The Fellowship of the Ring",
+      "film_year": "2001",
+      "subdomain": "Fantasy",
+      "franchise": "Der Herr der Ringe",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-101",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-001",
+      "learning_objective": "Erstes Veröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-103-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Der Herr der Ringe: Die Rückkehr des Königs“ mit Viggo Mortensen Regie?",
+    "answers": [
+      {
+        "id": "FF-103-DIRECTOR:a",
+        "text": "Peter Jackson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-103-DIRECTOR:b",
+        "text": "Chris Columbus",
+        "feedback": ""
+      },
+      {
+        "id": "FF-103-DIRECTOR:c",
+        "text": "Alfonso Cuarón",
+        "feedback": ""
+      },
+      {
+        "id": "FF-103-DIRECTOR:d",
+        "text": "Mike Newell",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-103-DIRECTOR:a",
+    "explanation": "Peter Jackson führte Regie.",
+    "context": "Peter Jacksons Team baute Minas Tirith teilweise aus der bereits verwendeten Helms-Klamm-Kulisse. Alte Bauteile erhielten neue Aufgaben, dazu kamen ein großes Stadttor und mehrere Straßenebenen. Siena regte die Gestaltung der Häuser an. Die riesige Hauptstadt Gondors entstand dadurch aus wiederverwendeten Kulissen, neuen Bauten und Perspektivtricks; ihre Architektur erhielt zugleich konkrete Vorbilder aus europäischen Städten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King"
+    ],
+    "metadata": {
+      "film_title_de": "Der Herr der Ringe: Die Rückkehr des Königs",
+      "film_title_original": "The Lord of the Rings: The Return of the King",
+      "film_year": "2003",
+      "subdomain": "Fantasy",
+      "franchise": "Der Herr der Ringe",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-103",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-005",
+      "learning_objective": "Regie des Trilogieabschlusses",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-103-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Herr der Ringe: Die Rückkehr des Königs“: In welchem Jahr erschien der Film von Peter Jackson erstmals?",
+    "answers": [
+      {
+        "id": "FF-103-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-103-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      },
+      {
+        "id": "FF-103-YEAR:y2002",
+        "text": "2002",
+        "feedback": ""
+      },
+      {
+        "id": "FF-103-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-103-YEAR:y2003",
+    "explanation": "„Der Herr der Ringe: Die Rückkehr des Königs“ wurde erstmals 2003 veröffentlicht.",
+    "context": "„Die Gefährten“ eröffnete die Kinotrilogie 2001, „Die zwei Türme“ folgte 2002 und „Die Rückkehr des Königs“ schloss sie 2003 ab. Die drei Starts liegen somit in aufeinanderfolgenden Jahren, obwohl große Teile gemeinsam gedreht wurden.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+    ],
+    "metadata": {
+      "film_title_de": "Der Herr der Ringe: Die Rückkehr des Königs",
+      "film_title_original": "The Lord of the Rings: The Return of the King",
+      "film_year": "2003",
+      "subdomain": "Fantasy",
+      "franchise": "Der Herr der Ringe",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-103",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-005",
+      "learning_objective": "Erstveröffentlichung innerhalb der Filmfolge",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-102-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Der Herr der Ringe: Die zwei Türme“ mit Viggo Mortensen Regie?",
+    "answers": [
+      {
+        "id": "FF-102-DIRECTOR:a",
+        "text": "Peter Jackson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-102-DIRECTOR:b",
+        "text": "Chris Columbus",
+        "feedback": ""
+      },
+      {
+        "id": "FF-102-DIRECTOR:c",
+        "text": "Alfonso Cuarón",
+        "feedback": ""
+      },
+      {
+        "id": "FF-102-DIRECTOR:d",
+        "text": "Mike Newell",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-102-DIRECTOR:a",
+    "explanation": "Peter Jackson führte Regie.",
+    "context": "Für Helms Klamm entstanden eine begehbare Festungsmauer und kleinere, perspektivisch angeschlossene Teile. Ein großes Modell half dem Kamerateam, das Licht vorab zu erproben. Die Nachtaufnahmen der Schlacht erstreckten sich über Monate.",
+    "sources": [
+      "https://theasc.com/article/a-fellowship-in-trouble-lord-of-the-rings-the-two-towers/"
+    ],
+    "metadata": {
+      "film_title_de": "Der Herr der Ringe: Die zwei Türme",
+      "film_title_original": "The Lord of the Rings: The Two Towers",
+      "film_year": "2002",
+      "subdomain": "Fantasy",
+      "franchise": "Der Herr der Ringe",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-102",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-003",
+      "learning_objective": "Regie des mittleren Trilogiefilms",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-102-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Herr der Ringe: Die zwei Türme“: In welchem Jahr erschien der Film von Peter Jackson erstmals?",
+    "answers": [
+      {
+        "id": "FF-102-YEAR:y2002",
+        "text": "2002",
+        "feedback": ""
+      },
+      {
+        "id": "FF-102-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-102-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      },
+      {
+        "id": "FF-102-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-102-YEAR:y2002",
+    "explanation": "„Der Herr der Ringe: Die zwei Türme“ wurde erstmals 2002 veröffentlicht.",
+    "context": "„Die zwei Türme“ erschien 2002, ein Jahr nach „Die Gefährten“ und ein Jahr vor „Die Rückkehr des Königs“. Der mittlere Film erzählt die Wege der getrennten Gemeinschaft parallel weiter. Die drei Veröffentlichungen bilden eine jährliche Folge.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers"
+    ],
+    "metadata": {
+      "film_title_de": "Der Herr der Ringe: Die zwei Türme",
+      "film_title_original": "The Lord of the Rings: The Two Towers",
+      "film_year": "2002",
+      "subdomain": "Fantasy",
+      "franchise": "Der Herr der Ringe",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-102",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-003",
+      "learning_objective": "Erstveröffentlichung innerhalb der Trilogie",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-106-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Der Hobbit: Die Schlacht der fünf Heere“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-106-DIRECTOR:a",
+        "text": "Peter Jackson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-106-DIRECTOR:b",
+        "text": "David Yates",
+        "feedback": ""
+      },
+      {
+        "id": "FF-106-DIRECTOR:c",
+        "text": "Michael Apted",
+        "feedback": ""
+      },
+      {
+        "id": "FF-106-DIRECTOR:d",
+        "text": "Andrew Adamson",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-106-DIRECTOR:a",
+    "explanation": "Peter Jackson führte Regie.",
+    "context": "Peter Jackson schloss mit dem Film seine zweite Mittelerde-Trilogie ab. Fran Walsh und Philippa Boyens gehören neben ihm und Guillermo del Toro zum Drehbuchteam. Der Abschluss führt den Streit um Erebor mit dem bereits in den Vorgängern aufgebauten Angriff der Orks zusammen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies"
+    ],
+    "metadata": {
+      "film_title_de": "Der Hobbit: Die Schlacht der fünf Heere",
+      "film_title_original": "The Hobbit: The Battle of the Five Armies",
+      "film_year": "2014",
+      "subdomain": "Fantasy",
+      "franchise": "Der Hobbit",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-106",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-011",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-106-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Hobbit: Die Schlacht der fünf Heere“: In welchem Jahr erschien der Film von Peter Jackson erstmals?",
+    "answers": [
+      {
+        "id": "FF-106-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      },
+      {
+        "id": "FF-106-YEAR:y2015",
+        "text": "2015",
+        "feedback": ""
+      },
+      {
+        "id": "FF-106-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      },
+      {
+        "id": "FF-106-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-106-YEAR:y2014",
+    "explanation": "„Der Hobbit: Die Schlacht der fünf Heere“ wurde erstmals 2014 veröffentlicht.",
+    "context": "2014 endete die Hobbit-Trilogie. „Eine unerwartete Reise“ war 2012 erschienen, „Smaugs Einöde“ 2013. Die jährliche Veröffentlichungsfolge setzte damit das Muster der früheren „Herr der Ringe“-Trilogie fort.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+      "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey",
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug"
+    ],
+    "metadata": {
+      "film_title_de": "Der Hobbit: Die Schlacht der fünf Heere",
+      "film_title_original": "The Hobbit: The Battle of the Five Armies",
+      "film_year": "2014",
+      "subdomain": "Fantasy",
+      "franchise": "Der Hobbit",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-106",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-011",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-104-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Der Hobbit: Eine unerwartete Reise“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-104-DIRECTOR:a",
+        "text": "Peter Jackson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-104-DIRECTOR:b",
+        "text": "David Yates",
+        "feedback": ""
+      },
+      {
+        "id": "FF-104-DIRECTOR:c",
+        "text": "Michael Apted",
+        "feedback": ""
+      },
+      {
+        "id": "FF-104-DIRECTOR:d",
+        "text": "Andrew Adamson",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-104-DIRECTOR:a",
+    "explanation": "Peter Jackson führte Regie.",
+    "context": "Peter Jackson inszenierte erneut in Neuseeland. Das Drehbuch schrieb er mit Fran Walsh, Philippa Boyens und Guillermo del Toro. Die Handlung spielt sechzig Jahre vor den Hauptereignissen von „Der Herr der Ringe“; die Rahmenhandlung führt jedoch zu Bilbos (Ian Holm) Geburtstag aus „Die Gefährten“ zurück.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey"
+    ],
+    "metadata": {
+      "film_title_de": "Der Hobbit: Eine unerwartete Reise",
+      "film_title_original": "The Hobbit: An Unexpected Journey",
+      "film_year": "2012",
+      "subdomain": "Fantasy",
+      "franchise": "Der Hobbit",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-104",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-007",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-104-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Hobbit: Eine unerwartete Reise“: In welchem Jahr erschien der Film von Peter Jackson erstmals?",
+    "answers": [
+      {
+        "id": "FF-104-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      },
+      {
+        "id": "FF-104-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-104-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-104-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-104-YEAR:y2012",
+    "explanation": "„Der Hobbit: Eine unerwartete Reise“ wurde erstmals 2012 veröffentlicht.",
+    "context": "2012 begann die Hobbit-Trilogie, elf Jahre nach „Die Gefährten“. Die literarische Vorlage „Der Hobbit“ war 1937 erschienen. Der Film eröffnet somit eine später produzierte, in der erzählten Welt aber früher angesiedelte Trilogie.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey"
+    ],
+    "metadata": {
+      "film_title_de": "Der Hobbit: Eine unerwartete Reise",
+      "film_title_original": "The Hobbit: An Unexpected Journey",
+      "film_year": "2012",
+      "subdomain": "Fantasy",
+      "franchise": "Der Hobbit",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-104",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-007",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-105-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Der Hobbit: Smaugs Einöde“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-105-DIRECTOR:a",
+        "text": "Peter Jackson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-105-DIRECTOR:b",
+        "text": "David Yates",
+        "feedback": ""
+      },
+      {
+        "id": "FF-105-DIRECTOR:c",
+        "text": "Michael Apted",
+        "feedback": ""
+      },
+      {
+        "id": "FF-105-DIRECTOR:d",
+        "text": "Andrew Adamson",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-105-DIRECTOR:a",
+    "explanation": "Peter Jackson führte Regie.",
+    "context": "Peter Jackson setzt die Reise aus „Eine unerwartete Reise“ fort. Parallel zur Expedition nach Erebor untersucht Gandalf (Ian McKellen) die Bedrohung in Dol Guldur. Diese zweite Handlung erweitert die Romanhandlung und verbindet die Vorgeschichte enger mit Saurons Rückkehr.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug"
+    ],
+    "metadata": {
+      "film_title_de": "Der Hobbit: Smaugs Einöde",
+      "film_title_original": "The Hobbit: The Desolation of Smaug",
+      "film_year": "2013",
+      "subdomain": "Fantasy",
+      "franchise": "Der Hobbit",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-105",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-009",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-105-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Hobbit: Smaugs Einöde“: In welchem Jahr erschien der Film von Peter Jackson erstmals?",
+    "answers": [
+      {
+        "id": "FF-105-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-105-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      },
+      {
+        "id": "FF-105-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      },
+      {
+        "id": "FF-105-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-105-YEAR:y2013",
+    "explanation": "„Der Hobbit: Smaugs Einöde“ wurde erstmals 2013 veröffentlicht.",
+    "context": "2013 erschien der mittlere Teil der Hobbit-Trilogie. „Eine unerwartete Reise“ hatte 2012 eröffnet, „Die Schlacht der fünf Heere“ folgte 2014. „Smaugs Einöde“ endet unmittelbar vor dem Angriff auf Seestadt, den der Abschlussfilm aufgreift.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Desolation_of_Smaug",
+      "https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies",
+      "https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey"
+    ],
+    "metadata": {
+      "film_title_de": "Der Hobbit: Smaugs Einöde",
+      "film_title_original": "The Hobbit: The Desolation of Smaug",
+      "film_year": "2013",
+      "subdomain": "Fantasy",
+      "franchise": "Der Hobbit",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-105",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-009",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-123-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Sternwanderer“: In welchem Jahr erschien der Film von Matthew Vaughn erstmals?",
+    "answers": [
+      {
+        "id": "FF-123-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      },
+      {
+        "id": "FF-123-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-123-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      },
+      {
+        "id": "FF-123-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-123-YEAR:y2007",
+    "explanation": "„Der Sternwanderer“ wurde erstmals 2007 veröffentlicht.",
+    "context": "2007 kamen „Der Sternwanderer“ nach Neil Gaiman und „Der Goldene Kompass“ nach Philip Pullman ins Kino. Beide Filme greifen britische Fantasyromane auf. Während Vaughns Film eine abgeschlossene Romanhandlung adaptiert, sollte „Der Goldene Kompass“ eine größere Filmreihe eröffnen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stardust_(2007_film)",
+      "https://en.wikipedia.org/wiki/The_Golden_Compass_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der Sternwanderer",
+      "film_title_original": "Stardust",
+      "film_year": "2007",
+      "subdomain": "Fantasy",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-123",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-045",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-123-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Der Sternwanderer“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-123-DIRECTOR:a",
+        "text": "Matthew Vaughn",
+        "feedback": ""
+      },
+      {
+        "id": "FF-123-DIRECTOR:b",
+        "text": "David Yates",
+        "feedback": ""
+      },
+      {
+        "id": "FF-123-DIRECTOR:c",
+        "text": "Andrew Adamson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-123-DIRECTOR:d",
+        "text": "Guillermo del Toro",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-123-DIRECTOR:a",
+    "explanation": "Matthew Vaughn führte Regie.",
+    "context": "Matthew Vaughn schrieb die Adaption mit Jane Goldman. Er wollte praktische Aufnahmen verwenden, soweit sie möglich waren, und Computereffekte für das darüber Hinausgehende einsetzen. Robert De Niro gefiel das Drehbuch und Vaughns vorheriger Film „Layer Cake“, bevor er Captain Shakespeare übernahm.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stardust_(2007_film)",
+      "https://www.chud.com/11382/exclusive-interview-matthew-vaughn-stardust/"
+    ],
+    "metadata": {
+      "film_title_de": "Der Sternwanderer",
+      "film_title_original": "Stardust",
+      "film_year": "2007",
+      "subdomain": "Fantasy",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-123",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-045",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-118-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die Braut des Prinzen“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-118-DIRECTOR:a",
+        "text": "Rob Reiner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-118-DIRECTOR:b",
+        "text": "Wim Wenders",
+        "feedback": ""
+      },
+      {
+        "id": "FF-118-DIRECTOR:c",
+        "text": "Jim Henson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-118-DIRECTOR:d",
+        "text": "Ridley Scott",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-118-DIRECTOR:a",
+    "explanation": "Rob Reiner führte Regie.",
+    "context": "Rob Reiner arbeitete eng mit William Goldman zusammen, der seinen eigenen Roman für das Kino adaptierte. Die Rahmenhandlung bewahrt dessen Spiel mit dem Erzählen einer Geschichte. Norman Lear, den Reiner aus „All in the Family“ kannte, half bei der Finanzierung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die Braut des Prinzen",
+      "film_title_original": "The Princess Bride",
+      "film_year": "1987",
+      "subdomain": "Fantasy",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-118",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-035",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-118-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die Braut des Prinzen“: In welchem Jahr erschien der Film von Rob Reiner erstmals?",
+    "answers": [
+      {
+        "id": "FF-118-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      },
+      {
+        "id": "FF-118-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      },
+      {
+        "id": "FF-118-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      },
+      {
+        "id": "FF-118-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-118-YEAR:y1987",
+    "explanation": "„Die Braut des Prinzen“ wurde erstmals 1987 veröffentlicht.",
+    "context": "1987 erschien „Die Braut des Prinzen“, nach Reiners „Stand by Me“ von 1986. Die Außenaufnahmen für das Märchenabenteuer entstanden bereits 1986 in England und Irland. Die Rahmenhandlung mit Großvater und Enkel wurde zuletzt im Studio gedreht.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Princess_Bride_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die Braut des Prinzen",
+      "film_title_original": "The Princess Bride",
+      "film_year": "1987",
+      "subdomain": "Fantasy",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-118",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-035",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-115-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die Chroniken von Narnia: Der König von Narnia“: In welchem Jahr erschien der Film von Andrew Adamson erstmals?",
+    "answers": [
+      {
+        "id": "FF-115-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      },
+      {
+        "id": "FF-115-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      },
+      {
+        "id": "FF-115-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-115-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-115-YEAR:y2005",
+    "explanation": "„Die Chroniken von Narnia: Der König von Narnia“ wurde erstmals 2005 veröffentlicht.",
+    "context": "2005 begann die Narnia-Kinoreihe mit der Verfilmung von C. S. Lewis’ erstem veröffentlichten Narnia-Roman. Andrew Adamson kam von den ersten beiden „Shrek“-Filmen. Hier verband er erstmals die Arbeit mit realen Hauptdarstellern mit einer großen digitalen Fantasywelt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe"
+    ],
+    "metadata": {
+      "film_title_de": "Die Chroniken von Narnia: Der König von Narnia",
+      "film_title_original": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "film_year": "2005",
+      "subdomain": "Fantasy",
+      "franchise": "Die Chroniken von Narnia",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-115",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-029",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-115-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die Chroniken von Narnia: Der König von Narnia“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-115-DIRECTOR:a",
+        "text": "Andrew Adamson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-115-DIRECTOR:b",
+        "text": "Mike Newell",
+        "feedback": ""
+      },
+      {
+        "id": "FF-115-DIRECTOR:c",
+        "text": "Alfonso Cuarón",
+        "feedback": ""
+      },
+      {
+        "id": "FF-115-DIRECTOR:d",
+        "text": "Guillermo del Toro",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-115-DIRECTOR:a",
+    "explanation": "Andrew Adamson führte Regie.",
+    "context": "Andrew Adamson bezeichnete die Geschichte als Familiendrama in epischem Maßstab. In England erleben die Kinder Krieg und Evakuierung ohne eigene Entscheidungsmacht. In Narnia werden sie dagegen zu Königen und Königinnen. Diesen Wechsel verstand der Regisseur als Ermächtigung seiner jungen Figuren.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe",
+      "https://www.blackfilm.com/20051202/features/andrewadamson1.shtml"
+    ],
+    "metadata": {
+      "film_title_de": "Die Chroniken von Narnia: Der König von Narnia",
+      "film_title_original": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "film_year": "2005",
+      "subdomain": "Fantasy",
+      "franchise": "Die Chroniken von Narnia",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-115",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-029",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-117-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die Chroniken von Narnia: Die Reise auf der Morgenröte“: In welchem Jahr erschien der Film von Michael Apted erstmals?",
+    "answers": [
+      {
+        "id": "FF-117-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-117-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-117-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-117-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-117-YEAR:y2010",
+    "explanation": "„Die Chroniken von Narnia: Die Reise auf der Morgenröte“ wurde erstmals 2010 veröffentlicht.",
+    "context": "2010 erschien der dritte Narnia-Kinofilm nach „Der König von Narnia“ von 2005 und „Prinz Kaspian von Narnia“ von 2008. Michael Apted übernahm die Regie von Andrew Adamson. Zugleich wechselte die Reihe nach Disneys Ausstieg zu 20th Century Fox.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader"
+    ],
+    "metadata": {
+      "film_title_de": "Die Chroniken von Narnia: Die Reise auf der Morgenröte",
+      "film_title_original": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "film_year": "2010",
+      "subdomain": "Fantasy",
+      "franchise": "Die Chroniken von Narnia",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-117",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-033",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-117-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die Chroniken von Narnia: Die Reise auf der Morgenröte“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-117-DIRECTOR:a",
+        "text": "Michael Apted",
+        "feedback": ""
+      },
+      {
+        "id": "FF-117-DIRECTOR:b",
+        "text": "David Yates",
+        "feedback": ""
+      },
+      {
+        "id": "FF-117-DIRECTOR:c",
+        "text": "Peter Jackson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-117-DIRECTOR:d",
+        "text": "Andrew Adamson",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-117-DIRECTOR:a",
+    "explanation": "Michael Apted führte Regie.",
+    "context": "Michael Apted kam aus dem Spiel- und Dokumentarfilm. In seiner Reihe „Up“ hatte er über Jahrzehnte das Erwachsenwerden derselben Menschen begleitet. Auch bei den jungen Narnia-Darstellern legte er Wert darauf, sie ernst zu nehmen und ihnen zuzuhören, statt von oben herab mit ihnen zu sprechen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader",
+      "https://www.cinemablend.com/new/Interview-Voyage-Dawn-Treader-Director-Michael-Apted-22076.html"
+    ],
+    "metadata": {
+      "film_title_de": "Die Chroniken von Narnia: Die Reise auf der Morgenröte",
+      "film_title_original": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "film_year": "2010",
+      "subdomain": "Fantasy",
+      "franchise": "Die Chroniken von Narnia",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-117",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-033",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-116-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die Chroniken von Narnia: Prinz Kaspian von Narnia“: In welchem Jahr erschien der Film von Andrew Adamson erstmals?",
+    "answers": [
+      {
+        "id": "FF-116-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-116-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      },
+      {
+        "id": "FF-116-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-116-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-116-YEAR:y2008",
+    "explanation": "„Die Chroniken von Narnia: Prinz Kaspian von Narnia“ wurde erstmals 2008 veröffentlicht.",
+    "context": "2008 setzte „Prinz Kaspian“ die 2005 begonnene Narnia-Kinoreihe fort. Andrew Adamson kehrte als Regisseur zurück, ebenso die vier Darsteller der Pevensie-Kinder. Der nächste Film, „Die Reise auf der Morgenröte“, folgte 2010 unter Michael Apted.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian",
+      "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader"
+    ],
+    "metadata": {
+      "film_title_de": "Die Chroniken von Narnia: Prinz Kaspian von Narnia",
+      "film_title_original": "The Chronicles of Narnia: Prince Caspian",
+      "film_year": "2008",
+      "subdomain": "Fantasy",
+      "franchise": "Die Chroniken von Narnia",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-116",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-031",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-116-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die Chroniken von Narnia: Prinz Kaspian von Narnia“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-116-DIRECTOR:a",
+        "text": "Andrew Adamson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-116-DIRECTOR:b",
+        "text": "David Yates",
+        "feedback": ""
+      },
+      {
+        "id": "FF-116-DIRECTOR:c",
+        "text": "Matthew Vaughn",
+        "feedback": ""
+      },
+      {
+        "id": "FF-116-DIRECTOR:d",
+        "text": "Michael Apted",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-116-DIRECTOR:a",
+    "explanation": "Andrew Adamson führte Regie.",
+    "context": "Andrew Adamson verschränkte die Geschichte Kaspians (Ben Barnes) früher mit der Rückkehr der Pevensies. Im Roman erfahren die Geschwister viel davon zunächst als Rückblick. Der Film macht die beiden jungen Anführer Kaspian und Peter (William Moseley) zudem stärker zu Rivalen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian",
+      "https://www.blackfilm.com/20080516/features/andrewadamson.shtml"
+    ],
+    "metadata": {
+      "film_title_de": "Die Chroniken von Narnia: Prinz Kaspian von Narnia",
+      "film_title_original": "The Chronicles of Narnia: Prince Caspian",
+      "film_year": "2008",
+      "subdomain": "Fantasy",
+      "franchise": "Die Chroniken von Narnia",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-116",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-031",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-120-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die unendliche Geschichte“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-120-DIRECTOR:a",
+        "text": "Wolfgang Petersen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-120-DIRECTOR:b",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-120-DIRECTOR:c",
+        "text": "Jim Henson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-120-DIRECTOR:d",
+        "text": "Wim Wenders",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-120-DIRECTOR:a",
+    "explanation": "Wolfgang Petersen führte Regie.",
+    "context": "Wolfgang Petersen drehte den Film überwiegend in den Bavaria-Studios bei München. Bastians (Barret Oliver) Schule und die Straßenszenen der Alltagswelt entstanden dagegen in Vancouver. Die Trennung der erzählten Welten beruht somit auch auf sehr verschiedenen Produktionsorten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_NeverEnding_Story_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die unendliche Geschichte",
+      "film_title_original": "The NeverEnding Story",
+      "film_year": "1984",
+      "subdomain": "Fantasy",
+      "franchise": "Die unendliche Geschichte",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-120",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-039",
+      "learning_objective": "Die Regie zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-120-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die unendliche Geschichte“: In welchem Jahr erschien der Film von Wolfgang Petersen erstmals?",
+    "answers": [
+      {
+        "id": "FF-120-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-120-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-120-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-120-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-120-YEAR:y1984",
+    "explanation": "„Die unendliche Geschichte“ wurde erstmals 1984 veröffentlicht.",
+    "context": "Michael Endes Roman erschien 1979, Wolfgang Petersens Film 1984. Die Verfilmung behandelt im Wesentlichen die erste Buchhälfte. Die Fortsetzung „Die unendliche Geschichte II“ folgte 1990 und griff Material aus der späteren Romanhandlung auf.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_NeverEnding_Story_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die unendliche Geschichte",
+      "film_title_original": "The NeverEnding Story",
+      "film_year": "1984",
+      "subdomain": "Fantasy",
+      "franchise": "Die unendliche Geschichte",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-120",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "FAN-L-039",
+      "learning_objective": "Das Erscheinungsjahr zuordnen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-194-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Psycho“ (1960): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-194-DIRECTOR:a",
+        "text": "Alfred Hitchcock",
+        "feedback": ""
+      },
+      {
+        "id": "FF-194-DIRECTOR:b",
+        "text": "William Friedkin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-194-DIRECTOR:c",
+        "text": "Tobe Hooper",
+        "feedback": ""
+      },
+      {
+        "id": "FF-194-DIRECTOR:d",
+        "text": "Brian De Palma",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-194-DIRECTOR:a",
+    "explanation": "Alfred Hitchcock führte Regie.",
+    "context": "Alfred Hitchcock und Drehbuchautor Joseph Stefano verschoben den Beginn von „Psycho“ gegenüber Robert Blochs Roman. Statt zuerst den Motelbesitzer Norman Bates (Anthony Perkins) zu zeigen, folgt der Film zunächst der Flucht mit gestohlenem Geld. Perkins’ Besetzung machte Bates außerdem für Stefano interessanter als die ältere, schwerere Romanfigur. Die Adaption veränderte damit früh die Nähe des Publikums zu den Figuren.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "franchise": "Psycho",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-194",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-037",
+      "learning_objective": "„Psycho“ (1960): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-194-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Psycho“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-194-YEAR:y1960",
+        "text": "1960",
+        "feedback": ""
+      },
+      {
+        "id": "FF-194-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      },
+      {
+        "id": "FF-194-YEAR:y1958",
+        "text": "1958",
+        "feedback": ""
+      },
+      {
+        "id": "FF-194-YEAR:y1962",
+        "text": "1962",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-194-YEAR:y1960",
+    "explanation": "„Psycho“ wurde erstmals 1960 veröffentlicht.",
+    "context": "1960 erschien auch Billy Wilders „Das Apartment“. Hitchcocks vorangegangener Film „Der unsichtbare Dritte“ war 1959 herausgekommen. Der Wechsel zum billigeren Schwarzweißfilm „Psycho“ erfolgte damit unmittelbar nach einem aufwendigen Farbthriller.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Psycho_(1960_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Psycho",
+      "film_title_original": "Psycho",
+      "film_year": "1960",
+      "subdomain": "Horror",
+      "franchise": "Psycho",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-194",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-037",
+      "learning_objective": "In welchem Jahr wurde „Psycho“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-199-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Saw“ (2004): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-199-DIRECTOR:a",
+        "text": "James Wan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-199-DIRECTOR:b",
+        "text": "Hideo Nakata",
+        "feedback": ""
+      },
+      {
+        "id": "FF-199-DIRECTOR:c",
+        "text": "Wes Craven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-199-DIRECTOR:d",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-199-DIRECTOR:a",
+    "explanation": "James Wan führte Regie.",
+    "context": "James Wan unterschied die beiden Gefangenen in „Saw“ auch durch die Kamera: Dr. Gordon (Cary Elwes) erhielt überwiegend ruhigere, kontrollierte Bilder, Adam (Leigh Whannell) unruhigere Handkameraaufnahmen. Die Badezimmerszenen wurden chronologisch gedreht, damit die Darsteller ihren Zustand fortführen konnten. Für zusätzliche Versuche blieb wenig Zeit; der enge Drehplan prägte den rauen Stil des fertigen Films.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Saw",
+      "film_title_original": "Saw",
+      "film_year": "2004",
+      "subdomain": "Horror",
+      "franchise": "Saw",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-199",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-047",
+      "learning_objective": "„Saw“ (2004): Wer ist für die Regie genannt?",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-199-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Saw“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-199-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      },
+      {
+        "id": "FF-199-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      },
+      {
+        "id": "FF-199-YEAR:y2002",
+        "text": "2002",
+        "feedback": ""
+      },
+      {
+        "id": "FF-199-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-199-YEAR:y2004",
+    "explanation": "„Saw“ wurde erstmals 2004 veröffentlicht.",
+    "context": "Der Film wurde 2004 in Sundance gezeigt. Ein kurzer Demonstrationsfilm von Wan und Whannell war bereits 2003 entstanden. Der Langfilm war zunächst für den Videomarkt vorgesehen; nach der Festivalreaktion erhielt er einen Kinostart.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saw_(2004_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Saw",
+      "film_title_original": "Saw",
+      "film_year": "2004",
+      "subdomain": "Horror",
+      "franchise": "Saw",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-199",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-047",
+      "learning_objective": "In welchem Jahr wurde „Saw“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-183-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Scream 2“ (1997): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-183-DIRECTOR:a",
+        "text": "Wes Craven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-183-DIRECTOR:b",
+        "text": "Hideo Nakata",
+        "feedback": ""
+      },
+      {
+        "id": "FF-183-DIRECTOR:c",
+        "text": "Rob Reiner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-183-DIRECTOR:d",
+        "text": "James Wan",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-183-DIRECTOR:a",
+    "explanation": "Wes Craven führte Regie.",
+    "context": "Wes Craven inszenierte „Scream 2“ mit verschiedenen realen Orten für das erfundene Windsor College. Agnes Scott College bei Atlanta und die UCLA in Los Angeles wurden kombiniert. Auch die Premiere des fiktiven Films „Stab“ entstand aus zwei Kinos: Innenaufnahmen im Vista Theater und Außenbilder am Rialto Theater. Die zusammenhängende Filmwelt wurde somit aus mehreren Schauplätzen montiert.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scream_2"
+    ],
+    "metadata": {
+      "film_title_de": "Scream 2",
+      "film_title_original": "Scream 2",
+      "film_year": "1997",
+      "subdomain": "Horror",
+      "franchise": "Scream",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-183",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-015",
+      "learning_objective": "„Scream 2“ (1997): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-183-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Scream 2“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-183-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-183-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      },
+      {
+        "id": "FF-183-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-183-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-183-YEAR:y1997",
+    "explanation": "„Scream 2“ wurde erstmals 1997 veröffentlicht.",
+    "context": "Der erste „Scream“ erschien 1996, die Fortsetzung 1997. Die Produktion wurde so rasch vorangetrieben, dass Kevin Williamson noch während der Dreharbeiten am Drehbuch arbeitete. Für Sidney (Neve Campbell) hat sich die Welt inzwischen vom Schulort zum College verlagert.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scream_2",
+      "https://ew.com/movies/scream-2-kevin-williamson-neve-campbell-wes-craven/"
+    ],
+    "metadata": {
+      "film_title_de": "Scream 2",
+      "film_title_original": "Scream 2",
+      "film_year": "1997",
+      "subdomain": "Horror",
+      "franchise": "Scream",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-183",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-015",
+      "learning_objective": "In welchem Jahr wurde „Scream 2“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-182-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Scream – Schrei!“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-182-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      },
+      {
+        "id": "FF-182-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      },
+      {
+        "id": "FF-182-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-182-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-182-YEAR:y1996",
+    "explanation": "„Scream – Schrei!“ wurde erstmals 1996 veröffentlicht.",
+    "context": "Der erste „Scream“ kam Ende 1996 in die Kinos. „Scream 2“ folgte bereits 1997. Die Fortsetzung machte die Geschehnisse des ersten Films selbst zum Gegenstand einer fiktiven Kinoproduktion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Scream_(1996_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Scream – Schrei!",
+      "film_title_original": "Scream",
+      "film_year": "1996",
+      "subdomain": "Horror",
+      "franchise": "Scream",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-182",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-013",
+      "learning_objective": "In welchem Jahr wurde „Scream – Schrei!“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-182-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Scream – Schrei!“ (1996): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-182-DIRECTOR:a",
+        "text": "Wes Craven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-182-DIRECTOR:b",
+        "text": "Hideo Nakata",
+        "feedback": ""
+      },
+      {
+        "id": "FF-182-DIRECTOR:c",
+        "text": "Rob Reiner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-182-DIRECTOR:d",
+        "text": "Mary Lambert",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-182-DIRECTOR:a",
+    "explanation": "Wes Craven führte Regie.",
+    "context": "Wes Craven inszenierte Kevin Williamsons Drehbuch. Williamson entwickelte die Ausgangsidee nach einer Fernsehsendung über einen Serienmörder und einem nächtlichen Schreck beim Hüten eines Hauses. Aus dem zunächst „Scary Movie“ genannten Drehbuch wurde „Scream“.",
+    "sources": [
+      "https://www.theringer.com/2021/12/20/movies/scream-oral-history-wes-craven-neve-campbell-drew-barrymore"
+    ],
+    "metadata": {
+      "film_title_de": "Scream – Schrei!",
+      "film_title_original": "Scream",
+      "film_year": "1996",
+      "subdomain": "Horror",
+      "franchise": "Scream",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-182",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-013",
+      "learning_objective": "„Scream – Schrei!“ (1996): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-195-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Die Vögel“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-195-YEAR:y1963",
+        "text": "1963",
+        "feedback": ""
+      },
+      {
+        "id": "FF-195-YEAR:y1959",
+        "text": "1959",
+        "feedback": ""
+      },
+      {
+        "id": "FF-195-YEAR:y1961",
+        "text": "1961",
+        "feedback": ""
+      },
+      {
+        "id": "FF-195-YEAR:y1965",
+        "text": "1965",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-195-YEAR:y1963",
+    "explanation": "„Die Vögel“ wurde erstmals 1963 veröffentlicht.",
+    "context": "Daphne du Mauriers gleichnamige Erzählung erschien 1952, elf Jahre vor dem Film von 1963. Evan Hunter entwickelte für Hitchcock eine neue Handlung mit anderen Figuren und einem amerikanischen Schauplatz. Die rätselhaften Vogelangriffe blieben die gemeinsame Ausgangsidee.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Birds_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die Vögel",
+      "film_title_original": "The Birds",
+      "film_year": "1963",
+      "subdomain": "Horror",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-195",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-039",
+      "learning_objective": "In welchem Jahr wurde „Die Vögel“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-198-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Conjuring – Die Heimsuchung“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-198-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-198-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      },
+      {
+        "id": "FF-198-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-198-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-198-YEAR:y2013",
+    "explanation": "„Conjuring – Die Heimsuchung“ wurde erstmals 2013 veröffentlicht.",
+    "context": "Der erste Film erschien 2013. „Conjuring 2“ folgte 2016, drei Jahre später, mit Patrick Wilson und Vera Farmiga erneut als Ed und Lorraine Warren. Der Auftakt führt sie zur Familie Perron, die Fortsetzung zu den Hodgsons in London.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Conjuring"
+    ],
+    "metadata": {
+      "film_title_de": "Conjuring – Die Heimsuchung",
+      "film_title_original": "The Conjuring",
+      "film_year": "2013",
+      "subdomain": "Horror",
+      "franchise": "Conjuring",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-198",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-045",
+      "learning_objective": "In welchem Jahr wurde „Conjuring – Die Heimsuchung“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-198-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Conjuring – Die Heimsuchung“ (2013): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-198-DIRECTOR:a",
+        "text": "James Wan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-198-DIRECTOR:b",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      },
+      {
+        "id": "FF-198-DIRECTOR:c",
+        "text": "Andy Muschietti",
+        "feedback": ""
+      },
+      {
+        "id": "FF-198-DIRECTOR:d",
+        "text": "Jordan Peele",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-198-DIRECTOR:a",
+    "explanation": "James Wan führte Regie.",
+    "context": "James Wan drehte „Conjuring“ überwiegend in North Carolina und ließ die Szenen in ihrer Handlungsreihenfolge aufnehmen. Als religiöse Beraterin wirkte die Religionswissenschaftlerin Diana Walsh Pasulka mit. Lorraine Warren beobachtete ebenfalls Teile der Produktion. Die Herstellung kombinierte damit eine gezielte Drehreihenfolge mit Beratung zur dargestellten Glaubenswelt und zur persönlichen Sicht der berichtenden Beteiligten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Conjuring"
+    ],
+    "metadata": {
+      "film_title_de": "Conjuring – Die Heimsuchung",
+      "film_title_original": "The Conjuring",
+      "film_year": "2013",
+      "subdomain": "Horror",
+      "franchise": "Conjuring",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-198",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-045",
+      "learning_objective": "„Conjuring – Die Heimsuchung“ (2013): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-192-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Tanz der Teufel“ (1981): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-192-DIRECTOR:a",
+        "text": "Sam Raimi",
+        "feedback": ""
+      },
+      {
+        "id": "FF-192-DIRECTOR:b",
+        "text": "Rick Rosenthal",
+        "feedback": ""
+      },
+      {
+        "id": "FF-192-DIRECTOR:c",
+        "text": "Steve Miner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-192-DIRECTOR:d",
+        "text": "Sean S. Cunningham",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-192-DIRECTOR:a",
+    "explanation": "Sam Raimi führte Regie.",
+    "context": "Sam Raimi entwickelte „Tanz der Teufel“ mit Freunden und früheren Mitstreitern. Bruce Campbell übernahm neben der Hauptrolle auch Produktionsaufgaben und blieb während der gesamten Herstellung verfügbar. Tom Sullivan setzte auf Schaumlatex und Kunstblut; der üblichen Mischung aus Sirup und Lebensmittelfarbe fügte er Kaffee hinzu. Die praktische Zusammenarbeit war für die begrenzten Mittel des Films entscheidend.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Evil_Dead"
+    ],
+    "metadata": {
+      "film_title_de": "Tanz der Teufel",
+      "film_title_original": "The Evil Dead",
+      "film_year": "1981",
+      "subdomain": "Horror",
+      "franchise": "Evil Dead",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-192",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-033",
+      "learning_objective": "„Tanz der Teufel“ (1981): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-192-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Tanz der Teufel“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-192-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      },
+      {
+        "id": "FF-192-YEAR:y1977",
+        "text": "1977",
+        "feedback": ""
+      },
+      {
+        "id": "FF-192-YEAR:y1979",
+        "text": "1979",
+        "feedback": ""
+      },
+      {
+        "id": "FF-192-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-192-YEAR:y1981",
+    "explanation": "„Tanz der Teufel“ wurde erstmals 1981 veröffentlicht.",
+    "context": "Die erste Vorführung in Detroit fand 1981 statt. Der breitere amerikanische Kinostart folgte erst 1983, zwei Jahre später. Deshalb tauchen beide Jahre in der Veröffentlichungsgeschichte auf; der frühere Termin erklärt die Zuordnung dieser Fassung zu 1981.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Evil_Dead"
+    ],
+    "metadata": {
+      "film_title_de": "Tanz der Teufel",
+      "film_title_original": "The Evil Dead",
+      "film_year": "1981",
+      "subdomain": "Horror",
+      "franchise": "Evil Dead",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-192",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-033",
+      "learning_objective": "In welchem Jahr wurde „Tanz der Teufel“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-189-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Der Exorzist“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-189-YEAR:y1973",
+        "text": "1973",
+        "feedback": ""
+      },
+      {
+        "id": "FF-189-YEAR:y1967",
+        "text": "1967",
+        "feedback": ""
+      },
+      {
+        "id": "FF-189-YEAR:y1969",
+        "text": "1969",
+        "feedback": ""
+      },
+      {
+        "id": "FF-189-YEAR:y1971",
+        "text": "1971",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-189-YEAR:y1973",
+    "explanation": "„Der Exorzist“ wurde erstmals 1973 veröffentlicht.",
+    "context": "Mike Oldfields Album „Tubular Bells“ und „Der Exorzist“ erschienen beide 1973. Der Film verwendet den Anfang des Instrumentalstücks als wiederkehrende Musik. Die Aufnahme war also ein eigenständiges Albumwerk und keine eigens für die Geschichte komponierte Filmmusik.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Exorcist_(film)",
+      "https://en.wikipedia.org/wiki/Tubular_Bells"
+    ],
+    "metadata": {
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "franchise": "Der Exorzist",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-189",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-027",
+      "learning_objective": "In welchem Jahr wurde „Der Exorzist“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-189-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Der Exorzist“ (1973): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-189-DIRECTOR:a",
+        "text": "William Friedkin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-189-DIRECTOR:b",
+        "text": "Tobe Hooper",
+        "feedback": ""
+      },
+      {
+        "id": "FF-189-DIRECTOR:c",
+        "text": "Brian De Palma",
+        "feedback": ""
+      },
+      {
+        "id": "FF-189-DIRECTOR:d",
+        "text": "Richard Donner",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-189-DIRECTOR:a",
+    "explanation": "William Friedkin führte Regie.",
+    "context": "Friedkin arbeitete erneut mit Owen Roizman, dem Kameramann von „The French Connection“. Für „Der Exorzist“ wünschte er einen natürlichen, aber stärker kontrollierten Bildeindruck. Die elegant eingerichteten Räume sollten ein normales Zuhause bleiben, dessen Beleuchtung allmählich etwas Unheilvolles vermittelt.",
+    "sources": [
+      "https://theasc.com/article/owen-roizman-on-filming-the-exorcist/"
+    ],
+    "metadata": {
+      "film_title_de": "Der Exorzist",
+      "film_title_original": "The Exorcist",
+      "film_year": "1973",
+      "subdomain": "Horror",
+      "franchise": "Der Exorzist",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-189",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-027",
+      "learning_objective": "„Der Exorzist“ (1973): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-190-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Das Omen“ (1976): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-190-DIRECTOR:a",
+        "text": "Richard Donner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-190-DIRECTOR:b",
+        "text": "Brian De Palma",
+        "feedback": ""
+      },
+      {
+        "id": "FF-190-DIRECTOR:c",
+        "text": "John Carpenter",
+        "feedback": ""
+      },
+      {
+        "id": "FF-190-DIRECTOR:d",
+        "text": "Tobe Hooper",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-190-DIRECTOR:a",
+    "explanation": "Richard Donner führte Regie.",
+    "context": "Richard Donner bevorzugte bei „Das Omen“ zunächst eine offenere Deutung: Das Publikum sollte überlegen können, ob die Todesfälle nur unglückliche Zufälle sind. Drehbuchautor David Seltzer wollte dagegen eindeutig den Antichristen und satanische Ursachen zeigen. Produzent Harvey Bernhard entschied sich für diese klare übernatürliche Lesart. Die Regiearbeit stand somit zwischen zwei unterschiedlichen Vorstellungen derselben Geschichte.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Omen"
+    ],
+    "metadata": {
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "franchise": "Das Omen",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-190",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-029",
+      "learning_objective": "„Das Omen“ (1976): Wer ist für die Regie genannt?",
+      "spoiler_level": "hoch"
+    }
+  },
+  "FF-190-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Das Omen“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-190-YEAR:y1976",
+        "text": "1976",
+        "feedback": ""
+      },
+      {
+        "id": "FF-190-YEAR:y1966",
+        "text": "1966",
+        "feedback": ""
+      },
+      {
+        "id": "FF-190-YEAR:y1968",
+        "text": "1968",
+        "feedback": ""
+      },
+      {
+        "id": "FF-190-YEAR:y1970",
+        "text": "1970",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-190-YEAR:y1976",
+    "explanation": "„Das Omen“ wurde erstmals 1976 veröffentlicht.",
+    "context": "„Das Omen“ erschien 1976. Die Fortsetzung „Damien – Omen II“ kam 1978 heraus, zwei Jahre später. Richard Donner inszenierte den ersten Film mit Gregory Peck; der zweite führt die Geschichte des Kindes mit einer anderen Erwachsenenbesetzung weiter.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Omen"
+    ],
+    "metadata": {
+      "film_title_de": "Das Omen",
+      "film_title_original": "The Omen",
+      "film_year": "1976",
+      "subdomain": "Horror",
+      "franchise": "Das Omen",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-190",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-029",
+      "learning_objective": "In welchem Jahr wurde „Das Omen“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-184-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Shining“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-184-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-184-YEAR:y1974",
+        "text": "1974",
+        "feedback": ""
+      },
+      {
+        "id": "FF-184-YEAR:y1976",
+        "text": "1976",
+        "feedback": ""
+      },
+      {
+        "id": "FF-184-YEAR:y1978",
+        "text": "1978",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-184-YEAR:y1980",
+    "explanation": "„Shining“ wurde erstmals 1980 veröffentlicht.",
+    "context": "Stephen Kings Roman erschien 1977, Kubricks Film folgte 1980, drei Jahre später. Kubrick schrieb das Drehbuch mit Diane Johnson. Für die amerikanischen und europäischen Kinos entstanden unterschiedlich lange Fassungen, die dennoch beide zur Veröffentlichung von 1980 gehören.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Shining_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Shining",
+      "film_title_original": "The Shining",
+      "film_year": "1980",
+      "subdomain": "Horror",
+      "franchise": "Shining",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-184",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-017",
+      "learning_objective": "In welchem Jahr wurde „Shining“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-184-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Shining“ (1980): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-184-DIRECTOR:a",
+        "text": "Stanley Kubrick",
+        "feedback": ""
+      },
+      {
+        "id": "FF-184-DIRECTOR:b",
+        "text": "Sean S. Cunningham",
+        "feedback": ""
+      },
+      {
+        "id": "FF-184-DIRECTOR:c",
+        "text": "Rick Rosenthal",
+        "feedback": ""
+      },
+      {
+        "id": "FF-184-DIRECTOR:d",
+        "text": "Steve Miner",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-184-DIRECTOR:a",
+    "explanation": "Stanley Kubrick führte Regie.",
+    "context": "Stanley Kubrick ließ die Hotelräume von „Shining“ auf mehreren Studiobühnen zugleich bereitstellen, damit die Handlung weitgehend in ihrer Reihenfolge gedreht werden konnte. Einige Innenräume orientierten sich am Ahwahnee Hotel im Yosemite-Nationalpark. Die große Overlook-Kulisse entstand jedoch in England. Ein Brand beschädigte während der Produktion die Colorado Lounge und verzögerte den Dreh.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Shining_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Shining",
+      "film_title_original": "The Shining",
+      "film_year": "1980",
+      "subdomain": "Horror",
+      "franchise": "Shining",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-184",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-017",
+      "learning_objective": "„Shining“ (1980): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-196-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Blutgericht in Texas“ (1974): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-196-DIRECTOR:a",
+        "text": "Tobe Hooper",
+        "feedback": ""
+      },
+      {
+        "id": "FF-196-DIRECTOR:b",
+        "text": "William Friedkin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-196-DIRECTOR:c",
+        "text": "Brian De Palma",
+        "feedback": ""
+      },
+      {
+        "id": "FF-196-DIRECTOR:d",
+        "text": "Richard Donner",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-196-DIRECTOR:a",
+    "explanation": "Tobe Hooper führte Regie.",
+    "context": "Tobe Hooper drehte „Blutgericht in Texas“ unter großer Hitze und mit sehr wenig Geld. Für Leatherface-Darsteller Gunnar Hansen stand nur ein Kostüm bereit, das aus Sorge um Farbe und Verlust nicht gewaschen wurde. Das Haus war kaum belüftet und voller Effektmaterialien. Die belastenden Bedingungen gehörten damit zur realen Entstehung der bedrückenden Filmwelt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre"
+    ],
+    "metadata": {
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "franchise": "Texas Chainsaw Massacre",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-196",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-041",
+      "learning_objective": "„Blutgericht in Texas“ (1974): Wer ist für die Regie genannt?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-196-YEAR": {
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Blutgericht in Texas“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-196-YEAR:y1974",
+        "text": "1974",
+        "feedback": ""
+      },
+      {
+        "id": "FF-196-YEAR:y1964",
+        "text": "1964",
+        "feedback": ""
+      },
+      {
+        "id": "FF-196-YEAR:y1966",
+        "text": "1966",
+        "feedback": ""
+      },
+      {
+        "id": "FF-196-YEAR:y1968",
+        "text": "1968",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-196-YEAR:y1974",
+    "explanation": "„Blutgericht in Texas“ wurde erstmals 1974 veröffentlicht.",
+    "context": "Der Film kam 1974 heraus, die Dreharbeiten in Texas fanden bereits 1973 statt. Im Vorspann wird auch das fiktive Geschehen auf den August 1973 datiert. Die Behauptung, einen wirklichen Fall nachzuerzählen, gehört zur Inszenierung; die Filmhandlung ist keine dokumentarische Rekonstruktion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre"
+    ],
+    "metadata": {
+      "film_title_de": "Blutgericht in Texas",
+      "film_title_original": "The Texas Chain Saw Massacre",
+      "film_year": "1974",
+      "subdomain": "Horror",
+      "franchise": "Texas Chainsaw Massacre",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-196",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "HOR-L-041",
+      "learning_objective": "In welchem Jahr wurde „Blutgericht in Texas“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-380-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Cable Guy – Die Nervensäge“ (1996): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-380-DIRECTOR:a",
+        "text": "Ben Stiller",
+        "feedback": ""
+      },
+      {
+        "id": "FF-380-DIRECTOR:b",
+        "text": "Dennis Dugan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-380-DIRECTOR:c",
+        "text": "Mel Smith",
+        "feedback": ""
+      },
+      {
+        "id": "FF-380-DIRECTOR:d",
+        "text": "Joel Coen",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-380-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Cable Guy – Die Nervensäge“ (1996) lautet: Ben Stiller.",
+    "context": "Ben Stiller entwickelte mit Jim Carrey und Produzent Judd Apatow die dunklere Richtung des Films. Das erste Drehbuch war noch eine leichtere Komödie über einen lästigen Freund. Die Beteiligten machten daraus eine Satire auf Bedrohungsthriller wie „Kap der Angst“. Ernie „Chip“ Douglas (Jim Carrey) dringt in Steven Kovacs’ (Matthew Broderick) Leben ein; seine technische Hilfe wird zum Mittel persönlicher Kontrolle.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Cable_Guy"
+    ],
+    "metadata": {
+      "film_title_de": "Cable Guy – Die Nervensäge",
+      "film_title_original": "The Cable Guy",
+      "film_year": "1996",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-380",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-009",
+      "learning_objective": "Die Regienennung für „Cable Guy – Die Nervensäge“ (1996) lautet: Ben Stiller.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-380-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Cable Guy – Die Nervensäge“: In welchem Jahr erschien der Film von Ben Stiller erstmals?",
+    "answers": [
+      {
+        "id": "FF-380-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      },
+      {
+        "id": "FF-380-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-380-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-380-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-380-YEAR:y1996",
+    "explanation": "„Cable Guy – Die Nervensäge“ wurde erstmals 1996 veröffentlicht.",
+    "context": "„Cable Guy“ erschien 1996, zwei Jahre nach Jim Carreys Durchbruchsjahr 1994 mit „Ace Ventura“, „Die Maske“ und „Dumm und Dümmer“. Die neue Rolle verwendete seine körperliche Komik in einer deutlich bedrohlicheren Geschichte: Ein zunächst hilfsbereiter Techniker kann die Zurückweisung seines Kunden nicht hinnehmen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Cable_Guy",
+      "https://en.wikipedia.org/wiki/Jim_Carrey"
+    ],
+    "metadata": {
+      "film_title_de": "Cable Guy – Die Nervensäge",
+      "film_title_original": "The Cable Guy",
+      "film_year": "1996",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-380",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-009",
+      "learning_objective": "„Cable Guy – Die Nervensäge“ wurde erstmals 1996 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-415-DIRECTOR": {
+    "difficulty": "leicht",
+    "question": "„Das Apartment“ (1960): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-415-DIRECTOR:a",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-415-DIRECTOR:b",
+        "text": "Howard Hawks",
+        "feedback": ""
+      },
+      {
+        "id": "FF-415-DIRECTOR:c",
+        "text": "George Cukor",
+        "feedback": ""
+      },
+      {
+        "id": "FF-415-DIRECTOR:d",
+        "text": "Blake Edwards",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-415-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Das Apartment“ (1960) lautet: Billy Wilder.",
+    "context": "Billy Wilder schrieb das Drehbuch mit I. A. L. Diamond. Der Film führt C. C. Baxter (Jack Lemmon) zunächst zu dem ersehnten beruflichen Aufstieg. Als er den Schlüssel zu seiner Wohnung schließlich verweigert, verliert er diese Karriere und kündigt selbst.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Apartment",
+      "https://www.bpb.de/lernen/filmbildung/filmkanon/43581/das-appartement/"
+    ],
+    "metadata": {
+      "film_title_de": "Das Apartment",
+      "film_title_original": "The Apartment",
+      "film_year": "1960",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-415",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-079",
+      "learning_objective": "Die Regienennung für „Das Apartment“ (1960) lautet: Billy Wilder.",
+      "spoiler_level": "hoch"
+    }
+  },
+  "FF-415-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Das Apartment“: In welchem Jahr erschien der Film von Billy Wilder erstmals?",
+    "answers": [
+      {
+        "id": "FF-415-YEAR:y1960",
+        "text": "1960",
+        "feedback": ""
+      },
+      {
+        "id": "FF-415-YEAR:y1959",
+        "text": "1959",
+        "feedback": ""
+      },
+      {
+        "id": "FF-415-YEAR:y1961",
+        "text": "1961",
+        "feedback": ""
+      },
+      {
+        "id": "FF-415-YEAR:y1962",
+        "text": "1962",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-415-YEAR:y1960",
+    "explanation": "„Das Apartment“ wurde erstmals 1960 veröffentlicht.",
+    "context": "„Das Apartment“ erschien 1960, ein Jahr nach „Manche mögen’s heiß“ von 1959. Billy Wilder, I. A. L. Diamond und Jack Lemmon arbeiteten erneut zusammen. An die Stelle der Musiker auf der Flucht trat ein Angestellter, dessen Karriere auf privaten Gefälligkeiten beruht. Der gemeinsame Darsteller und das unmittelbar folgende Filmjahr verbinden die beiden sehr unterschiedlichen Komödien.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Apartment",
+      "https://www.bpb.de/lernen/filmbildung/filmkanon/43581/das-appartement/"
+    ],
+    "metadata": {
+      "film_title_de": "Das Apartment",
+      "film_title_original": "The Apartment",
+      "film_year": "1960",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-415",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-079",
+      "learning_objective": "„Das Apartment“ wurde erstmals 1960 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-072-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Clou“: In welchem Jahr erschien der Film von George Roy Hill erstmals?",
+    "answers": [
+      {
+        "id": "FF-072-YEAR:y1973",
+        "text": "1973",
+        "feedback": ""
+      },
+      {
+        "id": "FF-072-YEAR:y1972",
+        "text": "1972",
+        "feedback": ""
+      },
+      {
+        "id": "FF-072-YEAR:y1974",
+        "text": "1974",
+        "feedback": ""
+      },
+      {
+        "id": "FF-072-YEAR:y1975",
+        "text": "1975",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-072-YEAR:y1973",
+    "explanation": "„Der Clou“ wurde erstmals 1973 veröffentlicht.",
+    "context": "„Der Clou“ erschien 1973. George Roy Hill brachte Paul Newman und Robert Redford damit vier Jahre nach „Butch Cassidy und Sundance Kid“ von 1969 erneut zusammen. Nach den Western-Outlaws spielen die beiden nun Betrüger im Amerika der Wirtschaftskrise. Dasselbe Darsteller-Regisseur-Team verbindet die Filme trotz der unterschiedlichen historischen Welten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Sting"
+    ],
+    "metadata": {
+      "film_title_de": "Der Clou",
+      "film_title_original": "The Sting",
+      "film_year": "1973",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-072",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-043",
+      "learning_objective": "„Der Clou“ wurde erstmals 1973 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-072-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Der Clou“ (1973): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-072-DIRECTOR:a",
+        "text": "George Roy Hill",
+        "feedback": ""
+      },
+      {
+        "id": "FF-072-DIRECTOR:b",
+        "text": "Mel Brooks",
+        "feedback": ""
+      },
+      {
+        "id": "FF-072-DIRECTOR:c",
+        "text": "Terry Jones",
+        "feedback": ""
+      },
+      {
+        "id": "FF-072-DIRECTOR:d",
+        "text": "John Landis",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-072-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Der Clou“ (1973) lautet: George Roy Hill.",
+    "context": "George Roy Hill gliederte „Der Clou“ mit gezeichneten Zwischentiteln in einzelne Abschnitte. Jaroslav Gebr gestaltete diese Bilder im Stil älterer amerikanischer Magazinillustrationen. Ein großer Teil der Stadtwelt entstand auf dem Universal-Studiogelände; einzelne Aufnahmen ergänzten reale Bahnhöfe in Chicago und andere Schauplätze. Die sorgfältig gebaute Vergangenheit unterstützt den Eindruck eines Betrugsspiels, dessen einzelne Phasen erst nach und nach ihre Bedeutung zeigen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Sting"
+    ],
+    "metadata": {
+      "film_title_de": "Der Clou",
+      "film_title_original": "The Sting",
+      "film_year": "1973",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-072",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-043",
+      "learning_objective": "Die Regienennung für „Der Clou“ (1973) lautet: George Roy Hill.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-413-DIRECTOR": {
+    "difficulty": "leicht",
+    "question": "„Der General“ (1926): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-413-DIRECTOR:a",
+        "text": "Buster Keaton und Clyde Bruckman",
+        "feedback": ""
+      },
+      {
+        "id": "FF-413-DIRECTOR:b",
+        "text": "Fred C. Newmeyer und Sam Taylor",
+        "feedback": ""
+      },
+      {
+        "id": "FF-413-DIRECTOR:c",
+        "text": "Buster Keaton und Donald Crisp",
+        "feedback": ""
+      },
+      {
+        "id": "FF-413-DIRECTOR:d",
+        "text": "Paul Wegener und Carl Boese",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-413-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Der General“ (1926) lautet: Buster Keaton und Clyde Bruckman.",
+    "context": "Buster Keaton und Clyde Bruckman führten gemeinsam Regie. Bruckman machte Keaton auf William Pittengers Bericht über den historischen Lokomotivraub aufmerksam. Für den Film wurden alte Bahnanlagen und Lokomotiven in Oregon gefunden. Die Handlung bleibt im amerikanischen Bürgerkrieg angesiedelt, obwohl diese Drehorte weit von den ursprünglichen Ereignissen in Georgia entfernt liegen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_General_(1926_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der General",
+      "film_title_original": "The General",
+      "film_year": "1926",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-413",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-075",
+      "learning_objective": "Die Regienennung für „Der General“ (1926) lautet: Buster Keaton und Clyde Bruckman.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-413-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der General“: In welchem Jahr erschien der Film von Buster Keaton und Clyde Bruckman erstmals?",
+    "answers": [
+      {
+        "id": "FF-413-YEAR:y1926",
+        "text": "1926",
+        "feedback": ""
+      },
+      {
+        "id": "FF-413-YEAR:y1925",
+        "text": "1925",
+        "feedback": ""
+      },
+      {
+        "id": "FF-413-YEAR:y1927",
+        "text": "1927",
+        "feedback": ""
+      },
+      {
+        "id": "FF-413-YEAR:y1928",
+        "text": "1928",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-413-YEAR:y1926",
+    "explanation": "„Der General“ wurde erstmals 1926 veröffentlicht.",
+    "context": "Der General wurde Ende 1926 erstmals veröffentlicht; der US-Kinostart folgte 1927. Die historische Vorlage ist der Eisenbahnraub von 1862 im amerikanischen Bürgerkrieg, 64 Jahre vor dem ersten Filmjahr. Keaton übernahm daraus Lokomotiven und Verfolgung, erzählte das Geschehen aber aus der Gegensicht eines Südstaaten-Lokführers und veränderte den Ablauf für die Komödie.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_General_(1926_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der General",
+      "film_title_original": "The General",
+      "film_year": "1926",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-413",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-075",
+      "learning_objective": "Das erste Veröffentlichungsjahr von Der General ist 1926.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-419-DIRECTOR": {
+    "difficulty": "leicht",
+    "question": "„Der Partyschreck“ (1968): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-419-DIRECTOR:a",
+        "text": "Blake Edwards",
+        "feedback": ""
+      },
+      {
+        "id": "FF-419-DIRECTOR:b",
+        "text": "Stanley Kramer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-419-DIRECTOR:c",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-419-DIRECTOR:d",
+        "text": "Joseph L. Mankiewicz",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-419-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Der Partyschreck“ (1968) lautet: Blake Edwards.",
+    "context": "Blake Edwards ließ die Musik erneut von Henry Mancini schreiben. Sie begleitet eine Feier, bei der Hrundi V. Bakshi (Peter Sellers) auch selbst zum unfreiwilligen Klangstörer wird: Über die Sprechanlage tönen seine Bemerkungen zum Papagei durch das Haus.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Party_(1968_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der Partyschreck",
+      "film_title_original": "The Party",
+      "film_year": "1968",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-419",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-087",
+      "learning_objective": "Die Regienennung für „Der Partyschreck“ (1968) lautet: Blake Edwards.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-419-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der Partyschreck“: In welchem Jahr erschien der Film von Blake Edwards erstmals?",
+    "answers": [
+      {
+        "id": "FF-419-YEAR:y1968",
+        "text": "1968",
+        "feedback": ""
+      },
+      {
+        "id": "FF-419-YEAR:y1967",
+        "text": "1967",
+        "feedback": ""
+      },
+      {
+        "id": "FF-419-YEAR:y1969",
+        "text": "1969",
+        "feedback": ""
+      },
+      {
+        "id": "FF-419-YEAR:y1970",
+        "text": "1970",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-419-YEAR:y1968",
+    "explanation": "„Der Partyschreck“ wurde erstmals 1968 veröffentlicht.",
+    "context": "„Der Partyschreck“ erschien 1968. Die Dreharbeiten hatten im Mai 1967 begonnen und dauerten über den Sommer. Nach den gemeinsamen „Panther“-Filmen entwickelten Blake Edwards und Peter Sellers diesmal einen eigenen Außenseiter: Hrundi V. Bakshi (Peter Sellers) zerstört zuerst unbeabsichtigt eine Filmkulisse und gerät danach ausgerechnet zur Feier des Studiochefs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Party_(1968_film)",
+      "https://catalog.afi.com/Film/18757-THE-PARTY"
+    ],
+    "metadata": {
+      "film_title_de": "Der Partyschreck",
+      "film_title_original": "The Party",
+      "film_year": "1968",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-419",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-087",
+      "learning_objective": "„Der Partyschreck“ wurde erstmals 1968 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-418-DIRECTOR": {
+    "difficulty": "leicht",
+    "question": "„Der rosarote Panther“ (1963): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-418-DIRECTOR:a",
+        "text": "Blake Edwards",
+        "feedback": ""
+      },
+      {
+        "id": "FF-418-DIRECTOR:b",
+        "text": "Stanley Donen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-418-DIRECTOR:c",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-418-DIRECTOR:d",
+        "text": "Richard Quine",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-418-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Der rosarote Panther“ (1963) lautet: Blake Edwards.",
+    "context": "Blake Edwards schrieb die Geschichte mit Maurice Richlin zunächst um den kultivierten Juwelendieb Sir Charles Lytton (David Niven). Zu dessen verborgenen Beziehungen gehört Simone Clouseau (Capucine), die Frau des Ermittlers Jacques Clouseau (Peter Sellers). Sie hilft dem Dieb und täuscht gleichzeitig ihren Mann. Der Kriminalfall ist dadurch von Anfang an mit einer privaten Verwechslung von Vertrauen und Täuschung verbunden.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Pink_Panther_(1963_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der rosarote Panther",
+      "film_title_original": "The Pink Panther",
+      "film_year": "1963",
+      "subdomain": "Komödie",
+      "franchise": "Der rosarote Panther",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-418",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-085",
+      "learning_objective": "Die Regienennung für „Der rosarote Panther“ (1963) lautet: Blake Edwards.",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-418-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Der rosarote Panther“: In welchem Jahr erschien der Film von Blake Edwards erstmals?",
+    "answers": [
+      {
+        "id": "FF-418-YEAR:y1963",
+        "text": "1963",
+        "feedback": ""
+      },
+      {
+        "id": "FF-418-YEAR:y1962",
+        "text": "1962",
+        "feedback": ""
+      },
+      {
+        "id": "FF-418-YEAR:y1964",
+        "text": "1964",
+        "feedback": ""
+      },
+      {
+        "id": "FF-418-YEAR:y1965",
+        "text": "1965",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-418-YEAR:y1963",
+    "explanation": "„Der rosarote Panther“ wurde erstmals 1963 veröffentlicht.",
+    "context": "„Der rosarote Panther“ erschien 1963. Die Dreharbeiten begannen im November 1962 in Rom, führten im Januar 1963 nach Cortina d’Ampezzo und endeten im März. Der Wechsel von Studios zu winterlichen Alpenaufnahmen gehörte damit bereits zum Produktionsablauf vor dem Kinostart.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Pink_Panther_(1963_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der rosarote Panther",
+      "film_title_original": "The Pink Panther",
+      "film_year": "1963",
+      "subdomain": "Komödie",
+      "franchise": "Der rosarote Panther",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-418",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-085",
+      "learning_objective": "„Der rosarote Panther“ wurde erstmals 1963 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-220-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die Glücksritter“ (1983): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-220-DIRECTOR:a",
+        "text": "John Landis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-220-DIRECTOR:b",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      },
+      {
+        "id": "FF-220-DIRECTOR:c",
+        "text": "John Hughes",
+        "feedback": ""
+      },
+      {
+        "id": "FF-220-DIRECTOR:d",
+        "text": "Terry Jones",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-220-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Die Glücksritter“ (1983) lautet: John Landis.",
+    "context": "John Landis setzte bei „Die Glücksritter“ auf Dan Aykroyd, dessen Zusammenarbeit er von „Blues Brothers“ kannte. Das Studio war bei dieser Besetzung zurückhaltend und zweifelte auch an Jamie Lee Curtis, die vor allem mit Horrorfilmen verbunden wurde. Landis gab beiden andere Aufgaben: Aykroyd spielt den wohlhabenden Winthorpe, Curtis dessen spätere Helferin Ophelia.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Trading_Places"
+    ],
+    "metadata": {
+      "film_title_de": "Die Glücksritter",
+      "film_title_original": "Trading Places",
+      "film_year": "1983",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-220",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-039",
+      "learning_objective": "Die Regienennung für „Die Glücksritter“ (1983) lautet: John Landis.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-220-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die Glücksritter“: In welchem Jahr erschien der Film von John Landis erstmals?",
+    "answers": [
+      {
+        "id": "FF-220-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-220-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-220-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-220-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-220-YEAR:y1983",
+    "explanation": "„Die Glücksritter“ wurde erstmals 1983 veröffentlicht.",
+    "context": "„Die Glücksritter“ erschien 1983, ein Jahr nach Eddie Murphys erstem Kinofilm „Nur 48 Stunden“ von 1982. Gute Testvorführungen dieses noch unveröffentlichten Films halfen dabei, das Studio von Murphy als Billy Ray Valentine zu überzeugen. John Landis kannte ihn zunächst vor allem über die ihm gezeigten Aufnahmen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Trading_Places",
+      "https://www.filmstrategy.com/2013/07/production-journal-oral-history-of.html"
+    ],
+    "metadata": {
+      "film_title_de": "Die Glücksritter",
+      "film_title_original": "Trading Places",
+      "film_year": "1983",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-220",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-039",
+      "learning_objective": "„Die Glücksritter“ wurde erstmals 1983 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-402-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die Hochzeits-Crasher“ (2005): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-402-DIRECTOR:a",
+        "text": "David Dobkin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-402-DIRECTOR:b",
+        "text": "Edgar Wright",
+        "feedback": ""
+      },
+      {
+        "id": "FF-402-DIRECTOR:c",
+        "text": "Adam McKay",
+        "feedback": ""
+      },
+      {
+        "id": "FF-402-DIRECTOR:d",
+        "text": "Larry Charles",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-402-DIRECTOR:a",
+    "explanation": "David Dobkin führte Regie.",
+    "context": "David Dobkin ließ seine Hauptdarsteller dreieinhalb Wochen proben. Owen Wilson und Vince Vaughn entwickelten dabei die Stimmen und das Zusammenspiel ihrer Figuren; aus den Proben wurde das Drehbuch überarbeitet. Am Set gab es außerdem zusätzliche freie Takes. Die scheinbar spontane Unterhaltung beruhte also auch auf umfangreicher gemeinsamer Vorbereitung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wedding_Crashers",
+      "https://melmagazine.com/en-us/story/the-oral-history-of-wedding-crashers"
+    ],
+    "metadata": {
+      "film_title_de": "Die Hochzeits-Crasher",
+      "film_title_original": "Wedding Crashers",
+      "film_year": "2005",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-402",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-053",
+      "learning_objective": "David Dobkin führte Regie.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-402-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die Hochzeits-Crasher“: In welchem Jahr erschien der Film von David Dobkin erstmals?",
+    "answers": [
+      {
+        "id": "FF-402-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      },
+      {
+        "id": "FF-402-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      },
+      {
+        "id": "FF-402-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      },
+      {
+        "id": "FF-402-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-402-YEAR:y2005",
+    "explanation": "„Die Hochzeits-Crasher“ wurde erstmals 2005 veröffentlicht.",
+    "context": "„Die Hochzeits-Crasher“ erschien 2005. New Line kaufte den Stoff 2003, gedreht wurde ab März 2004. Zunächst war Cape Cod als Schauplatz vorgesehen; der geplante Frühjahrsdreh führte jedoch zur Verlegung nach Washington und Maryland.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wedding_Crashers"
+    ],
+    "metadata": {
+      "film_title_de": "Die Hochzeits-Crasher",
+      "film_title_original": "Wedding Crashers",
+      "film_year": "2005",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-402",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-053",
+      "learning_objective": "Die Hochzeits-Crasher erschien 2005.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-206-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Die nackte Kanone“: In welchem Jahr erschien der Film von David Zucker erstmals?",
+    "answers": [
+      {
+        "id": "FF-206-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      },
+      {
+        "id": "FF-206-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      },
+      {
+        "id": "FF-206-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      },
+      {
+        "id": "FF-206-YEAR:y1990",
+        "text": "1990",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-206-YEAR:y1988",
+    "explanation": "„Die nackte Kanone“ wurde erstmals 1988 veröffentlicht.",
+    "context": "„Die nackte Kanone“ erschien 1988. Die Figur Frank Drebin (Leslie Nielsen) hatte bereits 1982 in der nur sechs Folgen langen Fernsehserie „Police Squad!“ ermittelt. Sechs Jahre nach der kurzen Serie kehrte das Konzept als Kinofilm zurück. Die Filmemacher entwickelten für den längeren Zusammenhang eine Liebesgeschichte und den Anschlagsplan im Baseballstadion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Naked_Gun:_From_the_Files_of_Police_Squad!",
+      "https://www.sportingnews.com/us/mlb/news/naked-gun-baseball-game-scene-national-anthem-angels-mariners-dodgers-stadium-enrico-pallazzo/zztjoa4obui818oo9waqjyf34"
+    ],
+    "metadata": {
+      "film_title_de": "Die nackte Kanone",
+      "film_title_original": "The Naked Gun: From the Files of Police Squad!",
+      "film_year": "1988",
+      "subdomain": "Komödie",
+      "franchise": "Die nackte Kanone",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-206",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-011",
+      "learning_objective": "„Die nackte Kanone“ wurde erstmals 1988 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-206-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Die nackte Kanone“ (1988): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-206-DIRECTOR:a",
+        "text": "David Zucker",
+        "feedback": ""
+      },
+      {
+        "id": "FF-206-DIRECTOR:b",
+        "text": "Charles Crichton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-206-DIRECTOR:c",
+        "text": "Jim Abrahams",
+        "feedback": ""
+      },
+      {
+        "id": "FF-206-DIRECTOR:d",
+        "text": "Mel Brooks",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-206-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Die nackte Kanone“ (1988) lautet: David Zucker.",
+    "context": "David Zucker gehörte mit seinem Bruder Jerry und Jim Abrahams zum Komödientrio ZAZ. Nach gemeinsamer Regie bei „Die unglaubliche Reise in einem verrückten Flugzeug“ inszenierte er „Die nackte Kanone“ allein.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Naked_Gun:_From_the_Files_of_Police_Squad!"
+    ],
+    "metadata": {
+      "film_title_de": "Die nackte Kanone",
+      "film_title_original": "The Naked Gun: From the Files of Police Squad!",
+      "film_year": "1988",
+      "subdomain": "Komödie",
+      "franchise": "Die nackte Kanone",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-206",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-011",
+      "learning_objective": "Die Regienennung für „Die nackte Kanone“ (1988) lautet: David Zucker.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-208-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Frankenstein Junior“ (1974): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-208-DIRECTOR:a",
+        "text": "Mel Brooks",
+        "feedback": ""
+      },
+      {
+        "id": "FF-208-DIRECTOR:b",
+        "text": "George Roy Hill",
+        "feedback": ""
+      },
+      {
+        "id": "FF-208-DIRECTOR:c",
+        "text": "Terry Jones",
+        "feedback": ""
+      },
+      {
+        "id": "FF-208-DIRECTOR:d",
+        "text": "John Landis",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-208-DIRECTOR:a",
+    "explanation": "Mel Brooks führte Regie.",
+    "context": "Mel Brooks schrieb den Film mit Gene Wilder, der Frederick Frankenstein spielt. Kameramann Gerald Hirschfeld schlug einen Wechsel von Schwarz-Weiß zu Farbe vor, doch Brooks blieb beim durchgehend monochromen Bild. Überblendungen und Kreisblenden vervollständigen die Anlehnung an die älteren Horrorfilme.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Young_Frankenstein"
+    ],
+    "metadata": {
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-208",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-015",
+      "learning_objective": "Mel Brooks führte Regie.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-208-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Frankenstein Junior“: In welchem Jahr erschien der Film von Mel Brooks erstmals?",
+    "answers": [
+      {
+        "id": "FF-208-YEAR:y1974",
+        "text": "1974",
+        "feedback": ""
+      },
+      {
+        "id": "FF-208-YEAR:y1973",
+        "text": "1973",
+        "feedback": ""
+      },
+      {
+        "id": "FF-208-YEAR:y1975",
+        "text": "1975",
+        "feedback": ""
+      },
+      {
+        "id": "FF-208-YEAR:y1976",
+        "text": "1976",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-208-YEAR:y1974",
+    "explanation": "„Frankenstein Junior“ wurde erstmals 1974 veröffentlicht.",
+    "context": "Frankenstein Junior erschien 1974 – im selben Jahr wie Mel Brooks’ Westernparodie Der wilde wilde Westen. Gene Wilder spielt in beiden Filmen. Bei der Oscarverleihung 1975 war Brooks für unterschiedliche Arbeiten an beiden Produktionen nominiert: mit Wilder für das Frankenstein-Drehbuch und für den Titelsong der Westernkomödie.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Young_Frankenstein",
+      "https://www.afi.com/news/afi-movie-club-young-frankenstein/"
+    ],
+    "metadata": {
+      "film_title_de": "Frankenstein Junior",
+      "film_title_original": "Young Frankenstein",
+      "film_year": "1974",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-208",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-015",
+      "learning_objective": "Frankenstein Junior erschien 1974.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-385-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Geschenkt ist noch zu teuer“ (1986): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-385-DIRECTOR:a",
+        "text": "Richard Benjamin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-385-DIRECTOR:b",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      },
+      {
+        "id": "FF-385-DIRECTOR:c",
+        "text": "John Hughes",
+        "feedback": ""
+      },
+      {
+        "id": "FF-385-DIRECTOR:d",
+        "text": "Francis Veber",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-385-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Geschenkt ist noch zu teuer“ (1986) lautet: Richard Benjamin.",
+    "context": "Richard Benjamin inszenierte David Gilers Drehbuch für Amblin. Walter Fielding (Tom Hanks) arbeitet als Anwalt für Musiker, Anna Crowley (Shelley Long) spielt Bratsche. Als Annas früherer Mann Max (Alexander Godunov) von seiner Reise zurückkehrt, müssen sie seine Wohnung verlassen. Die überstürzte Suche nach einem eigenen Zuhause macht das scheinbar günstige Haus besonders verführerisch.",
+    "sources": [
+      "https://amblin.com/movie/the-money-pit/"
+    ],
+    "metadata": {
+      "film_title_de": "Geschenkt ist noch zu teuer",
+      "film_title_original": "The Money Pit",
+      "film_year": "1986",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-385",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-019",
+      "learning_objective": "Die Regienennung für „Geschenkt ist noch zu teuer“ (1986) lautet: Richard Benjamin.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-385-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Geschenkt ist noch zu teuer“: In welchem Jahr erschien der Film von Richard Benjamin erstmals?",
+    "answers": [
+      {
+        "id": "FF-385-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      },
+      {
+        "id": "FF-385-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      },
+      {
+        "id": "FF-385-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      },
+      {
+        "id": "FF-385-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-385-YEAR:y1986",
+    "explanation": "„Geschenkt ist noch zu teuer“ wurde erstmals 1986 veröffentlicht.",
+    "context": "„Geschenkt ist noch zu teuer“ erschien 1986. David Giler hatte seinen Drehbuchentwurf schon 1980 als Arbeitsprobe bei Amblin eingereicht. Aus dieser Vorlage entwickelte sich über mehrere Jahre das Projekt mit Richard Benjamin, Tom Hanks und Shelley Long; die Hauptdreharbeiten fanden 1985 statt. Zwischen eingereichtem Stoff und fertigem Film liegen damit sechs Jahre.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Money_Pit",
+      "https://catalog.afi.com/Film/57410-THE-MONEY-PIT"
+    ],
+    "metadata": {
+      "film_title_de": "Geschenkt ist noch zu teuer",
+      "film_title_original": "The Money Pit",
+      "film_year": "1986",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-385",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-019",
+      "learning_objective": "„Geschenkt ist noch zu teuer“ wurde erstmals 1986 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-067-DIRECTOR": {
+    "difficulty": "leicht",
+    "question": "„Goldrausch“ (1925): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-067-DIRECTOR:a",
+        "text": "Charlie Chaplin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-067-DIRECTOR:b",
+        "text": "Buster Keaton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-067-DIRECTOR:c",
+        "text": "Fred C. Newmeyer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-067-DIRECTOR:d",
+        "text": "Sam Taylor",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-067-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Goldrausch“ (1925) lautet: Charlie Chaplin.",
+    "context": "Charlie Chaplin ließ für „Goldrausch“ zunächst im verschneiten Gelände bei Truckee drehen. Hunderte Komparsen bildeten die berühmte Reihe der Goldsucher nach, die auf historischen Bildern den Chilkoot-Pass hinaufsteigen. Von den dort aufgenommenen Szenen behielt er nur den Auftakt. Für die weibliche Hauptrolle gab es zudem eine Umbesetzung: Georgia Hale ersetzte die ursprünglich vorgesehene Lita Grey während der Produktion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Gold_Rush",
+      "https://www.charliechaplin.com/en/films/2-The-Gold-Rush/articles/5-Filming-The-Gold-Rush"
+    ],
+    "metadata": {
+      "film_title_de": "Goldrausch",
+      "film_title_original": "The Gold Rush",
+      "film_year": "1925",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-067",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-033",
+      "learning_objective": "Die Regienennung für „Goldrausch“ (1925) lautet: Charlie Chaplin.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-067-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Goldrausch“: In welchem Jahr erschien der Film von Charlie Chaplin erstmals?",
+    "answers": [
+      {
+        "id": "FF-067-YEAR:y1925",
+        "text": "1925",
+        "feedback": ""
+      },
+      {
+        "id": "FF-067-YEAR:y1924",
+        "text": "1924",
+        "feedback": ""
+      },
+      {
+        "id": "FF-067-YEAR:y1926",
+        "text": "1926",
+        "feedback": ""
+      },
+      {
+        "id": "FF-067-YEAR:y1927",
+        "text": "1927",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-067-YEAR:y1925",
+    "explanation": "„Goldrausch“ wurde erstmals 1925 veröffentlicht.",
+    "context": "„Goldrausch“ feierte am 26. Juni 1925 Premiere. Die Produktion hatte sich fast anderthalb Jahre hingezogen, darunter eine dreimonatige Unterbrechung. Nach Außenaufnahmen im Schnee von Truckee entstand der Großteil in Hollywood, wo Holz, Draht, Gips, Salz und Mehl eine verschneite Bergwelt bildeten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Gold_Rush",
+      "https://www.charliechaplin.com/en/films/2-The-Gold-Rush/articles/5-Filming-The-Gold-Rush"
+    ],
+    "metadata": {
+      "film_title_de": "Goldrausch",
+      "film_title_original": "The Gold Rush",
+      "film_year": "1925",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-067",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-033",
+      "learning_objective": "„Goldrausch“ wurde erstmals 1925 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-225-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Grand Budapest Hotel“ (2014): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-225-DIRECTOR:a",
+        "text": "Wes Anderson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-225-DIRECTOR:b",
+        "text": "Todd Phillips",
+        "feedback": ""
+      },
+      {
+        "id": "FF-225-DIRECTOR:c",
+        "text": "Ben Stiller",
+        "feedback": ""
+      },
+      {
+        "id": "FF-225-DIRECTOR:d",
+        "text": "Michel Gondry",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-225-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Grand Budapest Hotel“ (2014) lautet: Wes Anderson.",
+    "context": "Wes Anderson ließ gezeichnete Filmabläufe herstellen und sprach die vorläufigen Stimmen selbst ein. Ralph Fiennes und Willem Dafoe nutzten diese Animatics, um sich Andersons Vorstellung der Szenen zu erschließen. Die Planung betraf nicht nur die Dialoge: Bildausschnitt, Bewegungen und genaue Anschlüsse mussten zu den verschachtelten Erzählebenen und zur sorgfältig gebauten Hotelwelt passen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+    ],
+    "metadata": {
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-225",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-049",
+      "learning_objective": "Die Regienennung für „Grand Budapest Hotel“ (2014) lautet: Wes Anderson.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-225-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Grand Budapest Hotel“: In welchem Jahr erschien der Film von Wes Anderson erstmals?",
+    "answers": [
+      {
+        "id": "FF-225-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      },
+      {
+        "id": "FF-225-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-225-YEAR:y2015",
+        "text": "2015",
+        "feedback": ""
+      },
+      {
+        "id": "FF-225-YEAR:y2016",
+        "text": "2016",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-225-YEAR:y2014",
+    "explanation": "„Grand Budapest Hotel“ wurde erstmals 2014 veröffentlicht.",
+    "context": "„Grand Budapest Hotel“ eröffnete 2014 die Berlinale. Anderson hatte die Geschichte schon 2006 mit Hugo Guinness begonnen, bevor die Beschäftigung mit Stefan Zweigs Literatur ihr eine historische europäische Welt gab. Zwischen den frühen Entwürfen und der Premiere liegen damit acht Jahre.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+    ],
+    "metadata": {
+      "film_title_de": "Grand Budapest Hotel",
+      "film_title_original": "The Grand Budapest Hotel",
+      "film_year": "2014",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-225",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-049",
+      "learning_objective": "„Grand Budapest Hotel“ wurde erstmals 2014 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-213-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Hangover“: In welchem Jahr erschien der Film von Todd Phillips erstmals?",
+    "answers": [
+      {
+        "id": "FF-213-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-213-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-213-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-213-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-213-YEAR:y2009",
+    "explanation": "„Hangover“ wurde erstmals 2009 veröffentlicht.",
+    "context": "„Hangover“ erschien 2009. Zwei Jahre später setzte „Hangover Part II“ von 2011 die Geschichte mit denselben zentralen Freunden fort; 2013 folgte ein dritter Teil. Der erste Film verknüpft die verlorene Nacht mit dem bevorstehenden Hochzeitstermin des verschwundenen Doug (Justin Bartha).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hangover"
+    ],
+    "metadata": {
+      "film_title_de": "Hangover",
+      "film_title_original": "The Hangover",
+      "film_year": "2009",
+      "subdomain": "Komödie",
+      "franchise": "Hangover",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-213",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-025",
+      "learning_objective": "„Hangover“ wurde erstmals 2009 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-213-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Hangover“ (2009): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-213-DIRECTOR:a",
+        "text": "Todd Phillips",
+        "feedback": ""
+      },
+      {
+        "id": "FF-213-DIRECTOR:b",
+        "text": "Ben Stiller",
+        "feedback": ""
+      },
+      {
+        "id": "FF-213-DIRECTOR:c",
+        "text": "Judd Apatow",
+        "feedback": ""
+      },
+      {
+        "id": "FF-213-DIRECTOR:d",
+        "text": "Edgar Wright",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-213-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Hangover“ (2009) lautet: Todd Phillips.",
+    "context": "Todd Phillips überarbeitete „Hangover“ zusammen mit Jeremy Garelick und ergänzte mehrere zentrale Überraschungen des chaotischen Morgens. Die verwüstete Hotelsuite wurde im Studio gebaut, während viele andere Szenen tatsächlich im Caesars Palace entstanden. Das Klavier der wirklichen Suite brachte Phillips auf eine zusätzliche Szene: Ed Helms durfte daran improvisieren, woraus das Lied seiner Figur Stu wurde.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Hangover"
+    ],
+    "metadata": {
+      "film_title_de": "Hangover",
+      "film_title_original": "The Hangover",
+      "film_year": "2009",
+      "subdomain": "Komödie",
+      "franchise": "Hangover",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-213",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-025",
+      "learning_objective": "Die Regienennung für „Hangover“ (2009) lautet: Todd Phillips.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-417-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Ladykillers“ (1955): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-417-DIRECTOR:a",
+        "text": "Alexander Mackendrick",
+        "feedback": ""
+      },
+      {
+        "id": "FF-417-DIRECTOR:b",
+        "text": "Charles Crichton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-417-DIRECTOR:c",
+        "text": "Basil Dearden",
+        "feedback": ""
+      },
+      {
+        "id": "FF-417-DIRECTOR:d",
+        "text": "Charles Frend",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-417-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Ladykillers“ (1955) lautet: Alexander Mackendrick.",
+    "context": "Alexander Mackendrick inszeniert den Gegensatz zwischen der Vermieterin Louisa Wilberforce (Katie Johnson) und ihren gefährlichen Gästen über deren vorgetäuschte Musikproben. Die Bande gibt sich als Streichquintett aus und spielt während ihrer Planungen Schallplatten mit Boccherini und Haydn ab. Als Geldscheine aus einem Cellokoffer fallen, erkennt die Witwe den Betrug. Ihr Beharren auf der Polizei führt anschließend zum Zerfall der Bande.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Ladykillers_(1955_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Ladykillers",
+      "film_title_original": "The Ladykillers",
+      "film_year": "1955",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-417",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-083",
+      "learning_objective": "Die Regienennung für „Ladykillers“ (1955) lautet: Alexander Mackendrick.",
+      "spoiler_level": "hoch"
+    }
+  },
+  "FF-417-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Ladykillers“: In welchem Jahr erschien der Film von Alexander Mackendrick erstmals?",
+    "answers": [
+      {
+        "id": "FF-417-YEAR:y1955",
+        "text": "1955",
+        "feedback": ""
+      },
+      {
+        "id": "FF-417-YEAR:y1954",
+        "text": "1954",
+        "feedback": ""
+      },
+      {
+        "id": "FF-417-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      },
+      {
+        "id": "FF-417-YEAR:y1957",
+        "text": "1957",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-417-YEAR:y1955",
+    "explanation": "„Ladykillers“ wurde erstmals 1955 veröffentlicht.",
+    "context": "Die britischen „Ladykillers“ kamen 1955 heraus. Neunundvierzig Jahre später verlegten Joel und Ethan Coen den Stoff in ihrer Fassung von 2004 nach Mississippi. Dort ersetzt ein Müllschiff die Güterzüge, die im älteren Film die Leichen abtransportieren. Die beiden Jahre gehören zu eigenständigen Filmfassungen mit unterschiedlicher Besetzung und Umgebung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Ladykillers_(1955_film)",
+      "https://en.wikipedia.org/wiki/The_Ladykillers_(2004_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Ladykillers",
+      "film_title_original": "The Ladykillers",
+      "film_year": "1955",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-417",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-083",
+      "learning_objective": "„Ladykillers“ wurde erstmals 1955 veröffentlicht.",
+      "spoiler_level": "hoch"
+    }
+  },
+  "FF-414-DIRECTOR": {
+    "difficulty": "leicht",
+    "question": "„Manche mögen’s heiß“ (1959): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-414-DIRECTOR:a",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-414-DIRECTOR:b",
+        "text": "Howard Hawks",
+        "feedback": ""
+      },
+      {
+        "id": "FF-414-DIRECTOR:c",
+        "text": "George Cukor",
+        "feedback": ""
+      },
+      {
+        "id": "FF-414-DIRECTOR:d",
+        "text": "Blake Edwards",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-414-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Manche mögen’s heiß“ (1959) lautet: Billy Wilder.",
+    "context": "Billy Wilder drehte die Komödie 1958 in Kalifornien. Das Hotel del Coronado stellte dabei ein Hotel in Miami dar, weil es zur Handlungszeit der 1920er Jahre passte und nahe Hollywood lag. Tony Curtis und Jack Lemmon spielen Musiker, die sich in einem Frauenorchester verstecken. Der Ortswechsel ermöglicht zugleich Flucht vor den Gangstern und neue Begegnungen unter angenommenen Identitäten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Some_Like_It_Hot"
+    ],
+    "metadata": {
+      "film_title_de": "Manche mögen’s heiß",
+      "film_title_original": "Some Like It Hot",
+      "film_year": "1959",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-414",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-077",
+      "learning_objective": "Die Regienennung für „Manche mögen’s heiß“ (1959) lautet: Billy Wilder.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-414-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Manche mögen’s heiß“: In welchem Jahr erschien der Film von Billy Wilder erstmals?",
+    "answers": [
+      {
+        "id": "FF-414-YEAR:y1959",
+        "text": "1959",
+        "feedback": ""
+      },
+      {
+        "id": "FF-414-YEAR:y1958",
+        "text": "1958",
+        "feedback": ""
+      },
+      {
+        "id": "FF-414-YEAR:y1960",
+        "text": "1960",
+        "feedback": ""
+      },
+      {
+        "id": "FF-414-YEAR:y1961",
+        "text": "1961",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-414-YEAR:y1959",
+    "explanation": "„Manche mögen’s heiß“ wurde erstmals 1959 veröffentlicht.",
+    "context": "„Manche mögen’s heiß“ erschien 1959. Die Zusammenarbeit mit Jack Lemmon setzte Billy Wilder schon im folgenden Jahr mit „Das Apartment“ von 1960 fort. Nach dem Musiker in wechselnden Verkleidungen spielte Lemmon dort einen Versicherungsangestellten, der seine Wohnung an Vorgesetzte verleiht. Zwischen den beiden sehr unterschiedlichen Komödien liegt damit nur ein Jahr.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Some_Like_It_Hot",
+      "https://www.tcm.com/articles/afi-top-100/12759/some-like-it-hot-1959",
+      "https://en.wikipedia.org/wiki/The_Apartment"
+    ],
+    "metadata": {
+      "film_title_de": "Manche mögen’s heiß",
+      "film_title_original": "Some Like It Hot",
+      "film_year": "1959",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-414",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-077",
+      "learning_objective": "„Manche mögen’s heiß“ wurde erstmals 1959 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-404-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Nichts zu verzollen“ (2010): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-404-DIRECTOR:a",
+        "text": "Dany Boon",
+        "feedback": ""
+      },
+      {
+        "id": "FF-404-DIRECTOR:b",
+        "text": "Francis Veber",
+        "feedback": ""
+      },
+      {
+        "id": "FF-404-DIRECTOR:c",
+        "text": "Patrice Leconte",
+        "feedback": ""
+      },
+      {
+        "id": "FF-404-DIRECTOR:d",
+        "text": "Gad Elmaleh",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-404-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Nichts zu verzollen“ (2010) lautet: Dany Boon.",
+    "context": "Dany Boon schrieb und inszenierte „Nichts zu verzollen“ und spielt den französischen Zollbeamten Mathias Ducatel. Der meldet sich freiwillig zur gemeinsamen Streife, weil er heimlich Louise Vandevoorde (Julie Bernard) liebt, die Schwester seines belgischen Kollegen Ruben Vandevoorde (Benoît Poelvoorde). Boon erklärte, dass ihn für diese Liebesgeschichte die Beziehung seiner eigenen Eltern inspirierte. Der berufliche Konflikt erhält dadurch einen persönlichen Hintergrund.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nothing_to_Declare_(film)",
+      "https://medias.unifrance.org/medias/252/186/47868/presse/rien-a-declarer-dossier-de-presse-francais.pdf"
+    ],
+    "metadata": {
+      "film_title_de": "Nichts zu verzollen",
+      "film_title_original": "Rien à déclarer",
+      "film_year": "2010",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-404",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-057",
+      "learning_objective": "Die Regienennung für „Nichts zu verzollen“ (2010) lautet: Dany Boon.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-404-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Nichts zu verzollen“: In welchem Jahr erschien der Film von Dany Boon erstmals?",
+    "answers": [
+      {
+        "id": "FF-404-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-404-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-404-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-404-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-404-YEAR:y2010",
+    "explanation": "„Nichts zu verzollen“ wurde erstmals 2010 veröffentlicht.",
+    "context": "Der Film wurde 2010 erstmals gezeigt; die Handlung blickt auf den Binnenmarkt ab 1993 zurück. Zwischen diesen Zeitpunkten liegen siebzehn Jahre. Dany Boon kannte die früheren Grenzkontrollen aus seiner Jugend und fand später verlassene Kontrollhäuschen und geschlossene Geschäfte vor. Diese Veränderung brachte ihn auf die Filmidee; für die Recherche befragte er ehemalige Zöllner.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Nothing_to_Declare_(film)",
+      "https://medias.unifrance.org/medias/252/186/47868/presse/rien-a-declarer-dossier-de-presse-francais.pdf"
+    ],
+    "metadata": {
+      "film_title_de": "Nichts zu verzollen",
+      "film_title_original": "Rien à déclarer",
+      "film_year": "2010",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-404",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-057",
+      "learning_objective": "„Nichts zu verzollen“ wurde erstmals 2010 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-212-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Shaun of the Dead“ (2004): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-212-DIRECTOR:a",
+        "text": "Edgar Wright",
+        "feedback": ""
+      },
+      {
+        "id": "FF-212-DIRECTOR:b",
+        "text": "Greg Mottola",
+        "feedback": ""
+      },
+      {
+        "id": "FF-212-DIRECTOR:c",
+        "text": "Frank Oz",
+        "feedback": ""
+      },
+      {
+        "id": "FF-212-DIRECTOR:d",
+        "text": "Ben Stiller",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-212-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Shaun of the Dead“ (2004) lautet: Edgar Wright.",
+    "context": "Edgar Wright setzte in „Shaun of the Dead“ fröhliche Musik gegen brutale Bewegung. Die Kneipenschlägerei wurde bereits zu Queens „Don’t Stop Me Now“ choreografiert, bevor die Nutzungsrechte geklärt waren. Simon Pegg und das Team baten deshalb Brian May um Zustimmung. Der Kampf mit Billardqueues folgt dem Liedrhythmus und verbindet dadurch Zombiehorror mit einer auffällig beschwingten Komik.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaun_of_the_Dead"
+    ],
+    "metadata": {
+      "film_title_de": "Shaun of the Dead",
+      "film_title_original": "Shaun of the Dead",
+      "film_year": "2004",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-212",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-023",
+      "learning_objective": "Die Regienennung für „Shaun of the Dead“ (2004) lautet: Edgar Wright.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-212-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Shaun of the Dead“: In welchem Jahr erschien der Film von Edgar Wright erstmals?",
+    "answers": [
+      {
+        "id": "FF-212-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      },
+      {
+        "id": "FF-212-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-212-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      },
+      {
+        "id": "FF-212-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-212-YEAR:y2004",
+    "explanation": "„Shaun of the Dead“ wurde erstmals 2004 veröffentlicht.",
+    "context": "„Shaun of the Dead“ wurde 2004 veröffentlicht. Drei Jahre später folgte „Hot Fuzz“ von 2007, 2013 schließlich „The World’s End“. Die drei Filme bilden die lose Cornetto-Trilogie von Edgar Wright und Simon Pegg: Sie erzählen eigenständige Geschichten, verbinden aber britischen Alltag, Genrehandlung und wiederkehrende Darsteller.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Shaun_of_the_Dead"
+    ],
+    "metadata": {
+      "film_title_de": "Shaun of the Dead",
+      "film_title_original": "Shaun of the Dead",
+      "film_year": "2004",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-212",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-023",
+      "learning_objective": "„Shaun of the Dead“ wurde erstmals 2004 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-209-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Spaceballs“ (1987): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-209-DIRECTOR:a",
+        "text": "Mel Brooks",
+        "feedback": ""
+      },
+      {
+        "id": "FF-209-DIRECTOR:b",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      },
+      {
+        "id": "FF-209-DIRECTOR:c",
+        "text": "Charles Crichton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-209-DIRECTOR:d",
+        "text": "David Zucker",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-209-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Spaceballs“ (1987) lautet: Mel Brooks.",
+    "context": "Mel Brooks schrieb das Drehbuch mit Ronny Graham und Thomas Meehan. Er tritt außerdem selbst als Yogurt und Präsident Skroob auf. Die beiden Figuren verkörpern gegensätzliche Autoritäten: den vermarktungsfreudigen Lehrmeister und den überforderten Machthaber.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spaceballs",
+      "https://lithub.com/mel-brooks-on-the-making-of-spaceballs/"
+    ],
+    "metadata": {
+      "film_title_de": "Spaceballs",
+      "film_title_original": "Spaceballs",
+      "film_year": "1987",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-209",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-017",
+      "learning_objective": "Die Regienennung für „Spaceballs“ (1987) lautet: Mel Brooks.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-209-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Spaceballs“: In welchem Jahr erschien der Film von Mel Brooks erstmals?",
+    "answers": [
+      {
+        "id": "FF-209-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      },
+      {
+        "id": "FF-209-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      },
+      {
+        "id": "FF-209-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      },
+      {
+        "id": "FF-209-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-209-YEAR:y1987",
+    "explanation": "„Spaceballs“ wurde erstmals 1987 veröffentlicht.",
+    "context": "„Spaceballs“ erschien 1987, zehn Jahre nach „Star Wars“ von 1977. Mel Brooks parodierte dessen Weltraumwelt mit einem übergroßen Raumschiff und einem fliegenden Wohnmobil.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spaceballs",
+      "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+      "https://lithub.com/mel-brooks-on-the-making-of-spaceballs/"
+    ],
+    "metadata": {
+      "film_title_de": "Spaceballs",
+      "film_title_original": "Spaceballs",
+      "film_year": "1987",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-209",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-017",
+      "learning_objective": "„Spaceballs“ wurde erstmals 1987 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-389-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Spione wie wir“ (1985): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-389-DIRECTOR:a",
+        "text": "John Landis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-389-DIRECTOR:b",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      },
+      {
+        "id": "FF-389-DIRECTOR:c",
+        "text": "John Hughes",
+        "feedback": ""
+      },
+      {
+        "id": "FF-389-DIRECTOR:d",
+        "text": "Richard Benjamin",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-389-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Spione wie wir“ (1985) lautet: John Landis.",
+    "context": "John Landis ließ die vermeintliche Sowjetunion in norwegischen Landschaften am Sognefjord aufnehmen. Für Pakistan diente die Sahara. Der Film verbindet diese weit entfernten Drehgebiete zu einer zusammenhängenden Agentenreise, während die beiden Hauptfiguren kaum verstehen, welchem Auftrag sie tatsächlich folgen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spies_Like_Us"
+    ],
+    "metadata": {
+      "film_title_de": "Spione wie wir",
+      "film_title_original": "Spies Like Us",
+      "film_year": "1985",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-389",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-027",
+      "learning_objective": "Die Regienennung für „Spione wie wir“ (1985) lautet: John Landis.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-389-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Spione wie wir“: In welchem Jahr erschien der Film von John Landis erstmals?",
+    "answers": [
+      {
+        "id": "FF-389-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      },
+      {
+        "id": "FF-389-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-389-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      },
+      {
+        "id": "FF-389-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-389-YEAR:y1985",
+    "explanation": "„Spione wie wir“ wurde erstmals 1985 veröffentlicht.",
+    "context": "„Spione wie wir“ erschien 1985. Ursprünglich hatte Dan Aykroyd das Projekt mit Dave Thomas für ein Duo aus Aykroyd und John Belushi geschrieben. Nach Belushis Tod 1982 wechselte das Projekt später zu Warner Bros.; Chevy Chase übernahm die zweite Hauptrolle. Zwischen dem Tod des ursprünglich vorgesehenen Partners und der Veröffentlichung liegen drei Jahre.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Spies_Like_Us"
+    ],
+    "metadata": {
+      "film_title_de": "Spione wie wir",
+      "film_title_original": "Spies Like Us",
+      "film_year": "1985",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-389",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-027",
+      "learning_objective": "„Spione wie wir“ wurde erstmals 1985 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-214-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Superbad“: In welchem Jahr erschien der Film von Greg Mottola erstmals?",
+    "answers": [
+      {
+        "id": "FF-214-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      },
+      {
+        "id": "FF-214-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      },
+      {
+        "id": "FF-214-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-214-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-214-YEAR:y2007",
+    "explanation": "„Superbad“ wurde erstmals 2007 veröffentlicht.",
+    "context": "„Superbad“ erschien 2007. Gedreht wurde im Herbst 2006 im Raum Los Angeles. Die Schulszenen entstanden an der El Segundo High School, die Begegnung im Einkaufszentrum in Culver City. Die kalifornischen Drehorte spielen im Film eine andere Region der USA.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Superbad",
+      "https://en.wikipedia.org/wiki/Shaun_of_the_Dead"
+    ],
+    "metadata": {
+      "film_title_de": "Superbad",
+      "film_title_original": "Superbad",
+      "film_year": "2007",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-214",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-027",
+      "learning_objective": "„Superbad“ wurde erstmals 2007 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-214-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Superbad“ (2007): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-214-DIRECTOR:a",
+        "text": "Greg Mottola",
+        "feedback": ""
+      },
+      {
+        "id": "FF-214-DIRECTOR:b",
+        "text": "Edgar Wright",
+        "feedback": ""
+      },
+      {
+        "id": "FF-214-DIRECTOR:c",
+        "text": "Frank Oz",
+        "feedback": ""
+      },
+      {
+        "id": "FF-214-DIRECTOR:d",
+        "text": "Ben Stiller",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-214-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Superbad“ (2007) lautet: Greg Mottola.",
+    "context": "Greg Mottola drehte „Superbad“ an kalifornischen Alltagsorten. Der Spirituosenladen, in dem der falsche Ausweis geprüft wird, steht in Glendale. Für die wilden Kreise des Polizeiwagens nutzte die Produktion einen Parkplatz der California State University in Northridge. Die Fahrt der Polizisten Michaels (Seth Rogen) und Slater (Bill Hader) verbindet dadurch gewöhnliche Orte mit übertriebener Abenteuerkomik.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Superbad"
+    ],
+    "metadata": {
+      "film_title_de": "Superbad",
+      "film_title_original": "Superbad",
+      "film_year": "2007",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-214",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-027",
+      "learning_objective": "Die Regienennung für „Superbad“ (2007) lautet: Greg Mottola.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-201-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„The Big Lebowski“ (1998): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-201-DIRECTOR:a",
+        "text": "Joel Coen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-201-DIRECTOR:b",
+        "text": "Dean Parisot",
+        "feedback": ""
+      },
+      {
+        "id": "FF-201-DIRECTOR:c",
+        "text": "Harold Ramis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-201-DIRECTOR:d",
+        "text": "Edgar Wright",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-201-DIRECTOR:a",
+    "explanation": "Die Regienennung für „The Big Lebowski“ (1998) lautet: Joel Coen.",
+    "context": "Joel Coen erhielt den offiziellen Regiecredit; Ethan Coen schrieb und gestaltete den Film mit. Die Brüder orientierten den verschlungenen Weg durch Los Angeles an Raymond Chandlers Detektivgeschichten. Der Dude (Jeff Bridges) bewegt sich dabei durch ganz verschiedene soziale Welten, ohne die Souveränität eines klassischen Ermittlers zu besitzen. Der Erzähler kommentiert den Verlauf von außen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Big_Lebowski"
+    ],
+    "metadata": {
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-201",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-001",
+      "learning_objective": "Die Regienennung für „The Big Lebowski“ (1998) lautet: Joel Coen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-201-YEAR": {
+    "difficulty": "mittel",
+    "question": "„The Big Lebowski“: In welchem Jahr erschien der Film von Joel Coen erstmals?",
+    "answers": [
+      {
+        "id": "FF-201-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      },
+      {
+        "id": "FF-201-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-201-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      },
+      {
+        "id": "FF-201-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-201-YEAR:y1998",
+    "explanation": "„The Big Lebowski“ wurde erstmals 1998 veröffentlicht.",
+    "context": "„The Big Lebowski“ wurde 1998 veröffentlicht, zwei Jahre nach „Fargo“ von 1996. Die Coens hatten die Geschichte um den Dude schon früher begonnen, ließen das Drehbuch aber zwischenzeitlich liegen und drehten „Fargo“ zuerst. Die Reihenfolge der Veröffentlichungen entspricht daher nicht einfach der Reihenfolge ihrer ersten Ideen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Big_Lebowski"
+    ],
+    "metadata": {
+      "film_title_de": "The Big Lebowski",
+      "film_title_original": "The Big Lebowski",
+      "film_year": "1998",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-201",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-001",
+      "learning_objective": "„The Big Lebowski“ wurde erstmals 1998 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-207-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„The Blues Brothers“ (1980): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-207-DIRECTOR:a",
+        "text": "John Landis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-207-DIRECTOR:b",
+        "text": "Terry Jones",
+        "feedback": ""
+      },
+      {
+        "id": "FF-207-DIRECTOR:c",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      },
+      {
+        "id": "FF-207-DIRECTOR:d",
+        "text": "Mel Brooks",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-207-DIRECTOR:a",
+    "explanation": "Die Regienennung für „The Blues Brothers“ (1980) lautet: John Landis.",
+    "context": "John Landis hielt bei „Blues Brothers“ an den erfahrenen Musikstars fest, obwohl das Studio zusätzliche oder jüngere Künstler bevorzugte. So blieb die Rettungsmission der Brüder zugleich eine Bühne für Soul und Rhythm and Blues. Landis schrieb außerdem mit Dan Aykroyd das Drehbuch und ist selbst als Polizist in der Verfolgungsjagd durch das Einkaufszentrum zu sehen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Blues_Brothers_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "The Blues Brothers",
+      "film_title_original": "The Blues Brothers",
+      "film_year": "1980",
+      "subdomain": "Komödie",
+      "franchise": "Blues Brothers",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-207",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-013",
+      "learning_objective": "Die Regienennung für „The Blues Brothers“ (1980) lautet: John Landis.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-207-YEAR": {
+    "difficulty": "mittel",
+    "question": "„The Blues Brothers“: In welchem Jahr erschien der Film von John Landis erstmals?",
+    "answers": [
+      {
+        "id": "FF-207-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-207-YEAR:y1979",
+        "text": "1979",
+        "feedback": ""
+      },
+      {
+        "id": "FF-207-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      },
+      {
+        "id": "FF-207-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-207-YEAR:y1980",
+    "explanation": "„The Blues Brothers“ wurde erstmals 1980 veröffentlicht.",
+    "context": "„The Blues Brothers“ kam 1980 ins Kino. Schon 1978 hatten John Belushi und Dan Aykroyd mit der Band das Album „Briefcase Full of Blues“ veröffentlicht. Zwei Jahre später erhielt das musikalische Duo eine ausführliche Filmgeschichte: Die Wiedervereinigung der Band wird zur Rettungsmission für das frühere Waisenhaus.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Blues_Brothers_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "The Blues Brothers",
+      "film_title_original": "The Blues Brothers",
+      "film_year": "1980",
+      "subdomain": "Komödie",
+      "franchise": "Blues Brothers",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-207",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-013",
+      "learning_objective": "„The Blues Brothers“ wurde erstmals 1980 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-383-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Tootsie“ (1982): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-383-DIRECTOR:a",
+        "text": "Sydney Pollack",
+        "feedback": ""
+      },
+      {
+        "id": "FF-383-DIRECTOR:b",
+        "text": "John Landis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-383-DIRECTOR:c",
+        "text": "Harold Ramis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-383-DIRECTOR:d",
+        "text": "Robert Benton",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-383-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Tootsie“ (1982) lautet: Sydney Pollack.",
+    "context": "Sydney Pollack übernahm die Regie erst nach einer langen Entwicklung mit anderen vorgesehenen Regisseuren. Dick Richards blieb Produzent; Hal Ashby konnte seine Verpflichtungen bei einem anderen Film nicht rechtzeitig abschließen. Pollack erhielt schließlich die Kontrolle über Besetzung und Drehbuch. Die fertige Komödie verbindet den beruflichen Erfolg der erfundenen Dorothy mit Konflikten, die Michael Dorsey (Dustin Hoffman) privat nicht beherrschen kann.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tootsie"
+    ],
+    "metadata": {
+      "film_title_de": "Tootsie",
+      "film_title_original": "Tootsie",
+      "film_year": "1982",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-383",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-015",
+      "learning_objective": "Die Regienennung für „Tootsie“ (1982) lautet: Sydney Pollack.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-383-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Tootsie“: In welchem Jahr erschien der Film von Sydney Pollack erstmals?",
+    "answers": [
+      {
+        "id": "FF-383-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-383-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      },
+      {
+        "id": "FF-383-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-383-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-383-YEAR:y1982",
+    "explanation": "„Tootsie“ wurde erstmals 1982 veröffentlicht.",
+    "context": "„Tootsie“ erschien 1982. Sechsunddreißig Jahre später kam der Stoff 2018 als Bühnenmusical nach Chicago; 2019 folgte der Broadway. Die ursprüngliche Filmkomödie erzählt von Michael Dorseys (Dustin Hoffman) Engagement in einer Fernsehserie. Die spätere Musicalfassung ist eine neue Bearbeitung und verschiebt die Schauspielgeschichte auf die Bühne.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tootsie"
+    ],
+    "metadata": {
+      "film_title_de": "Tootsie",
+      "film_title_original": "Tootsie",
+      "film_year": "1982",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-383",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-015",
+      "learning_objective": "„Tootsie“ wurde erstmals 1982 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-388-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Top Secret!“ (1984): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-388-DIRECTOR:a",
+        "text": "Jim Abrahams, David Zucker und Jerry Zucker",
+        "feedback": ""
+      },
+      {
+        "id": "FF-388-DIRECTOR:b",
+        "text": "Enzo Barboni, John Landis und Jim Jarmusch",
+        "feedback": ""
+      },
+      {
+        "id": "FF-388-DIRECTOR:c",
+        "text": "John Hughes, Sydney Pollack und Richard Benjamin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-388-DIRECTOR:d",
+        "text": "Francis Veber, Mel Brooks und Charles Crichton",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-388-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Top Secret!“ (1984) lautet: Jim Abrahams, David Zucker und Jerry Zucker.",
+    "context": "Jim Abrahams, David Zucker und Jerry Zucker führten gemeinsam Regie. Zum Drehbuchteam gehörte außerdem Martyn Burke, der half, die bereits erdachten Pointen in eine Handlung zu bringen. Die Filmemacher verbanden Elvis-Musikfilme mit den Spionage- und Widerstandsbildern älterer Weltkriegsfilme. Die erzählte DDR ist entsprechend eine absichtlich widersprüchliche Genrewelt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Top_Secret!"
+    ],
+    "metadata": {
+      "film_title_de": "Top Secret!",
+      "film_title_original": "Top Secret!",
+      "film_year": "1984",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-388",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-025",
+      "learning_objective": "Die Regienennung für „Top Secret!“ (1984) lautet: Jim Abrahams, David Zucker und Jerry Zucker.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-388-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Top Secret!“: In welchem Jahr erschien der Film von Jim Abrahams, David Zucker und Jerry Zucker erstmals?",
+    "answers": [
+      {
+        "id": "FF-388-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-388-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-388-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      },
+      {
+        "id": "FF-388-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-388-YEAR:y1984",
+    "explanation": "„Top Secret!“ wurde erstmals 1984 veröffentlicht.",
+    "context": "„Top Secret!“ erschien 1984, vier Jahre nach „Die unglaubliche Reise in einem verrückten Flugzeug“ von 1980. Das Regietrio Jim Abrahams, David Zucker und Jerry Zucker parodierte diesmal kein Katastrophenszenario, sondern verband Sängerfilme und Kriegsabenteuer. Dazwischen lag 1982 die nur kurz laufende Fernsehserie „Police Squad!“.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Top_Secret!"
+    ],
+    "metadata": {
+      "film_title_de": "Top Secret!",
+      "film_title_original": "Top Secret!",
+      "film_year": "1984",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-388",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-025",
+      "learning_objective": "„Top Secret!“ wurde erstmals 1984 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-215-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Tropic Thunder“ (2008): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-215-DIRECTOR:a",
+        "text": "Ben Stiller",
+        "feedback": ""
+      },
+      {
+        "id": "FF-215-DIRECTOR:b",
+        "text": "Adam McKay",
+        "feedback": ""
+      },
+      {
+        "id": "FF-215-DIRECTOR:c",
+        "text": "Edgar Wright",
+        "feedback": ""
+      },
+      {
+        "id": "FF-215-DIRECTOR:d",
+        "text": "Todd Phillips",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-215-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Tropic Thunder“ (2008) lautet: Ben Stiller.",
+    "context": "Ben Stiller führte bei „Tropic Thunder“ Regie und entwickelte mit Tom Cruise dessen Studiochef Les Grossman. Ursprünglich war Cruise für einen kurzen Agentenauftritt vorgesehen; er schlug stattdessen die neue Figur vor. Auch die großen künstlichen Hände und die Tanzidee gingen auf Cruise zurück. Stiller wollte die ungewöhnliche Rolle bis zum Kinostart als Überraschung bewahren.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tropic_Thunder"
+    ],
+    "metadata": {
+      "film_title_de": "Tropic Thunder",
+      "film_title_original": "Tropic Thunder",
+      "film_year": "2008",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-215",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-029",
+      "learning_objective": "Die Regienennung für „Tropic Thunder“ (2008) lautet: Ben Stiller.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-215-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Tropic Thunder“: In welchem Jahr erschien der Film von Ben Stiller erstmals?",
+    "answers": [
+      {
+        "id": "FF-215-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-215-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      },
+      {
+        "id": "FF-215-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-215-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-215-YEAR:y2008",
+    "explanation": "„Tropic Thunder“ wurde erstmals 2008 veröffentlicht.",
+    "context": "„Tropic Thunder“ erschien 2008. Die Dreharbeiten hatten 2007 dreizehn Wochen auf Kauaʻi gedauert. Der Film über einen katastrophalen Dschungeldreh wurde selbst zu einer außergewöhnlich großen Produktion auf der hawaiianischen Insel.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tropic_Thunder"
+    ],
+    "metadata": {
+      "film_title_de": "Tropic Thunder",
+      "film_title_original": "Tropic Thunder",
+      "film_year": "2008",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-215",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-L-029",
+      "learning_objective": "„Tropic Thunder“ wurde erstmals 2008 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-421-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Tucker & Dale vs. Evil“ (2010): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-421-DIRECTOR:a",
+        "text": "Eli Craig",
+        "feedback": ""
+      },
+      {
+        "id": "FF-421-DIRECTOR:b",
+        "text": "Ruben Fleischer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-421-DIRECTOR:c",
+        "text": "Edgar Wright",
+        "feedback": ""
+      },
+      {
+        "id": "FF-421-DIRECTOR:d",
+        "text": "James Gunn",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-421-DIRECTOR:a",
+    "explanation": "Die Regienennung für „Tucker & Dale vs. Evil“ (2010) lautet: Eli Craig.",
+    "context": "Eli Craig führte Regie und schrieb mit Morgan Jurgenson das Drehbuch. Er wollte einen eigenständigen Film aus der Sicht der vermeintlichen Hinterwäldler-Killer entwickeln. „Wrong Turn“, „Beim Sterben ist jeder der Erste“ und verwandte Waldhorrorfilme lieferten vertraute Erwartungen. Tucker (Alan Tudyk) und Dale (Tyler Labine) sollten jedoch echte Gefühle spielen und sich selbst nicht als Witzfiguren behandeln.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tucker_%26_Dale_vs._Evil",
+      "https://www.comingsoon.net/horror/news/716968-excl-eli-craig-talks-tucker-and-dale-versus-evil",
+      "https://cine-vue.com/2011/09/interview-eli-craig-on-tucker-dale-vs-evil.html"
+    ],
+    "metadata": {
+      "film_title_de": "Tucker & Dale vs. Evil",
+      "film_title_original": "Tucker & Dale vs. Evil",
+      "film_year": "2010",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-421",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-091",
+      "learning_objective": "Die Regienennung für „Tucker & Dale vs. Evil“ (2010) lautet: Eli Craig.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-421-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Tucker & Dale vs. Evil“: In welchem Jahr erschien der Film von Eli Craig erstmals?",
+    "answers": [
+      {
+        "id": "FF-421-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-421-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-421-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-421-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-421-YEAR:y2010",
+    "explanation": "„Tucker & Dale vs. Evil“ wurde erstmals 2010 veröffentlicht.",
+    "context": "2009 erscheint „Zombieland“, 2010 „Tucker & Dale vs Evil“. Nur ein Jahr trennt die Zombiekomödie und das Spiel mit falsch verstandenen Hinterwäldler-Horrorregeln. Die beiden Horror-Komödien bilden ein kleines aufeinanderfolgendes Genre-Paar.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tucker_%26_Dale_vs._Evil",
+      "https://en.wikipedia.org/wiki/Zombieland"
+    ],
+    "metadata": {
+      "film_title_de": "Tucker & Dale vs. Evil",
+      "film_title_original": "Tucker & Dale vs. Evil",
+      "film_year": "2010",
+      "subdomain": "Komödie",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-421",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-091",
+      "learning_objective": "„Tucker & Dale vs. Evil“ wurde erstmals 2010 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-377-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Wayne’s World“ (1992): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-377-DIRECTOR:a",
+        "text": "Penelope Spheeris",
+        "feedback": ""
+      },
+      {
+        "id": "FF-377-DIRECTOR:b",
+        "text": "Harold Ramis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-377-DIRECTOR:c",
+        "text": "Amy Heckerling",
+        "feedback": ""
+      },
+      {
+        "id": "FF-377-DIRECTOR:d",
+        "text": "Chris Columbus",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-377-DIRECTOR:a",
+    "explanation": "Penelope Spheeris führte Regie.",
+    "context": "Penelope Spheeris hatte mit ihren Musikdokumentationen Erfahrung mit Rockkultur gesammelt. Lorne Michaels holte sie für die Verfilmung der Saturday-Night-Live-Figuren. Die Begeisterung von Wayne Campbell (Mike Myers) und Garth Algar (Dana Carvey) erhält dadurch ein Umfeld aus Clubauftritten, Fanritualen und kleinen Musikläden.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wayne%27s_World_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Wayne’s World",
+      "film_title_original": "Wayne's World",
+      "film_year": "1992",
+      "subdomain": "Komödie",
+      "franchise": "Wayne’s World",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-377",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-003",
+      "learning_objective": "Penelope Spheeris führte Regie.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-377-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Wayne’s World“: In welchem Jahr erschien der Film von Penelope Spheeris erstmals?",
+    "answers": [
+      {
+        "id": "FF-377-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      },
+      {
+        "id": "FF-377-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      },
+      {
+        "id": "FF-377-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      },
+      {
+        "id": "FF-377-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-377-YEAR:y1992",
+    "explanation": "„Wayne’s World“ wurde erstmals 1992 veröffentlicht.",
+    "context": "Freddie Mercury stirbt 1991; ein Jahr später, 1992, führt „Wayne’s World“ Queens „Bohemian Rhapsody“ einer neuen Kinogeneration vor. Die berühmte Mitsingfahrt verbindet den Abschied des Sängers mit dem erneuten Filmleben seines Songs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wayne%27s_World_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Wayne’s World",
+      "film_title_original": "Wayne's World",
+      "film_year": "1992",
+      "subdomain": "Komödie",
+      "franchise": "Wayne’s World",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-377",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-003",
+      "learning_objective": "„Wayne’s World“ wurde erstmals 1992 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-422-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "„Zombieland“ (2009): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-422-DIRECTOR:a",
+        "text": "Ruben Fleischer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-422-DIRECTOR:b",
+        "text": "Todd Phillips",
+        "feedback": ""
+      },
+      {
+        "id": "FF-422-DIRECTOR:c",
+        "text": "Ben Stiller",
+        "feedback": ""
+      },
+      {
+        "id": "FF-422-DIRECTOR:d",
+        "text": "Edgar Wright",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-422-DIRECTOR:a",
+    "explanation": "Ruben Fleischer führte Regie.",
+    "context": "Ruben Fleischer gab mit Zombieland sein Spielfilm-Regiedebüt. Er half, den ursprünglich für das Fernsehen entwickelten Stoff zu einer abgeschlossenen Kinogeschichte umzuarbeiten. Der Freizeitpark wurde zum gemeinsamen Ziel der Reise. Die gegensätzlichen Temperamente von Columbus (Jesse Eisenberg) und Tallahassee (Woody Harrelson) tragen die Begegnungen unterwegs.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zombieland"
+    ],
+    "metadata": {
+      "film_title_de": "Zombieland",
+      "film_title_original": "Zombieland",
+      "film_year": "2009",
+      "subdomain": "Komödie",
+      "franchise": "Zombieland",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-422",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-093",
+      "learning_objective": "Ruben Fleischer führte Regie.",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-422-YEAR": {
+    "difficulty": "mittel",
+    "question": "„Zombieland“: In welchem Jahr erschien der Film von Ruben Fleischer erstmals?",
+    "answers": [
+      {
+        "id": "FF-422-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-422-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-422-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-422-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-422-YEAR:y2009",
+    "explanation": "„Zombieland“ wurde erstmals 2009 veröffentlicht.",
+    "context": "Zombieland erschien 2009; die Fortsetzung Zombieland: Doppelt hält besser folgte 2019. Die zehn Jahre Abstand bilden einen einfachen zeitlichen Anker. Im ersten Film entstehen aus vorsichtig auf Abstand gehaltenen Fremden allmählich Reisegefährten – eine Beziehung, die die Fortsetzung mit demselben Hauptquartett wieder aufnimmt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zombieland"
+    ],
+    "metadata": {
+      "film_title_de": "Zombieland",
+      "film_title_original": "Zombieland",
+      "film_year": "2009",
+      "subdomain": "Komödie",
+      "franchise": "Zombieland",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-422",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "KOM-202609-P02-L-093",
+      "learning_objective": "Zombieland erschien 2009.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-054-DIRECTOR": {
+    "difficulty": "mittel",
+    "question": "Wer führte bei „African Queen“ mit Humphrey Bogart und Katharine Hepburn Regie?",
+    "answers": [
+      {
+        "id": "FF-054-DIRECTOR:a",
+        "text": "John Huston",
+        "feedback": ""
+      },
+      {
+        "id": "FF-054-DIRECTOR:b",
+        "text": "William Wyler",
+        "feedback": ""
+      },
+      {
+        "id": "FF-054-DIRECTOR:c",
+        "text": "David Lean",
+        "feedback": ""
+      },
+      {
+        "id": "FF-054-DIRECTOR:d",
+        "text": "Lewis Milestone",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-054-DIRECTOR:a",
+    "explanation": "Die Regienennung für „African Queen“ (1951) lautet: John Huston.",
+    "context": "John Huston ließ „African Queen“ sowohl in Afrika als auch in Großbritannien drehen. Die Außenproduktion am Albertsee und im damaligen Belgisch-Kongo bedeutete für die schwere Technicolor-Ausrüstung erheblichen Aufwand. Aufnahmen, bei denen Humphrey Bogart und Katharine Hepburn im Wasser zu sehen sind, wurden aus Sicherheitsgründen bei London hergestellt. Der Eindruck einer einzigen Flussreise beruht also auf sehr unterschiedlichen Produktionsbedingungen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_African_Queen_(film)",
+      "https://www.cinematheque.fr/film/32748.html"
+    ],
+    "metadata": {
+      "film_title_de": "African Queen",
+      "film_title_original": "The African Queen",
+      "film_year": "1951",
+      "subdomain": "Abenteuer",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-054",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-007",
+      "learning_objective": "Den offiziellen Regiecredit kennen",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-054-YEAR": {
+    "difficulty": "mittel",
+    "question": "„African Queen“: In welchem Jahr erschien der Film von John Huston erstmals?",
+    "answers": [
+      {
+        "id": "FF-054-YEAR:y1951",
+        "text": "1951",
+        "feedback": ""
+      },
+      {
+        "id": "FF-054-YEAR:y1947",
+        "text": "1947",
+        "feedback": ""
+      },
+      {
+        "id": "FF-054-YEAR:y1949",
+        "text": "1949",
+        "feedback": ""
+      },
+      {
+        "id": "FF-054-YEAR:y1952",
+        "text": "1952",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-054-YEAR:y1951",
+    "explanation": "„African Queen“ wurde erstmals 1951 veröffentlicht.",
+    "context": "„African Queen“ erschien 1951. Bei der Oscarverleihung 1952 erhielt Humphrey Bogart für Charlie Allnut den Hauptdarstellerpreis. Katharine Hepburn, John Huston und das Drehbuch waren ebenfalls nominiert. Die Begegnung des Bootsführers mit der Missionarsschwester lässt sich dadurch mit zwei aufeinanderfolgenden Jahren verbinden: Filmjahr 1951 und Preisverleihung 1952.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_African_Queen_(film)",
+      "https://www.oscars.org/oscars/ceremonies/1952"
+    ],
+    "metadata": {
+      "film_title_de": "African Queen",
+      "film_title_original": "The African Queen",
+      "film_year": "1951",
+      "subdomain": "Abenteuer",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-054",
+      "question_type": "Erscheinungsjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-007",
+      "learning_objective": "Erste Veröffentlichung von späteren Kinostarts unterscheiden",
+      "spoiler_level": "keine"
+    }
   }
 }

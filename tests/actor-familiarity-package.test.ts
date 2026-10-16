@@ -83,8 +83,8 @@ it("installiert die geprüften Fragefelder und erhält alle gemeinsamen Wissensz
   expect(
     new Set(state.questions.map((q) => q.knowledgeId)).size -
       new Set(baseline.questions.map((q) => q.knowledgeId)).size,
-  ).toBe(1559);
-  expect(rows.filter((row) => row.variant_of)).toHaveLength(105);
+  ).toBe(1560);
+  expect(rows.filter((row) => row.variant_of)).toHaveLength(104);
   for (const row of rows) {
     const q = byId.get(row.question_id)!;
     expect(q.knowledgeId, q.id).toBe(row.knowledge_id);
@@ -110,6 +110,15 @@ it("installiert die geprüften Fragefelder und erhält alle gemeinsamen Wissensz
     );
   }
 }, 15000);
+
+it("trennt Johnnie Grays Beruf vom Darstellerziel desselben Films", () => {
+  const occupation = byId.get("SCHAUSPIELER-BG-20261013-111-L1")!;
+  const casting = byId.get("KOM-202609-P02-L-075")!;
+  expect(occupation.question).toContain("Welchen Beruf");
+  expect(casting.question).toContain("Wer spielt");
+  expect(occupation.knowledgeId).not.toBe(casting.knowledgeId);
+  expect(occupation.metadata.variant_of).toBe("");
+});
 
 it("ordnet 428 Personen in vier gleich große Gruppen ein und erhält zwei Ziele je Schwierigkeit", () => {
   expect(familiarity.persons).toHaveLength(428);

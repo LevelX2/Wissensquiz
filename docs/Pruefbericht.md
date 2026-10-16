@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## 16.10.2026 – Fantasy, Horror, Komödie und Abenteuer, lokal
+
+Vier Rückgaben vollständig filmweise einschließlich aller Optionen und Vertiefungen gelesen, mit dem verwandten Film-/Personenbestand verglichen und konkrete offene Fakten anhand der verwendeten Fachtexte geprüft. Gezielt nachbearbeitet und lokal integriert: **1.741 Fragenfassungen zu 174 Filmen**, davon 452 Fantasy, 395 Horror, 450 Komödie und 444 Abenteuer. Enthalten sind sieben ausdrücklich ersetzte Wissensziele und 285 zusätzliche Fragen. Drei gelieferte neue Dubletten entfernt; 27 eigenständige schwere Ziele ergänzen die nach ehrlicher Neueinstufung entstandenen Lücken. Alle 174 Filmgruppen besitzen im tatsächlichen App-Katalog mindestens zwei eigenständige Inhaltsziele je leicht/mittel/schwer sowie genau eine Jahres- und Regiefrage.
+
+Alle **1.741 Fassungen gegen die tatsächlich vorbereitete App-Anzeige** abgeglichen: Frage, Optionen, Lösung, Kurzantwort, Vertiefung, Schwierigkeit und Wissensziel stimmen mit der Endredaktion überein. Gesamter Paketimport ohne abgelehnte Zeile, doppelte ID oder Warnung. Chaplins 1942-Neufassung teilt das vorhandene Schauspielerziel; Keatons Berufsfrage ist vom Besetzungsziel getrennt. Aktueller lokaler Bestand: **36 Pakete, 14.840 Fragen, 14.170 Ziele**. Die fünf Originalrückgaben einschließlich Komödienübergabe bytegleich gesichert; spielbare Film-CSV mit 30 Spalten, Merksätze weiterhin entfernt.
+
+**146 unterschiedliche Tests in 20 gezielt ausgewählten Dateien erfolgreich**, einschließlich erfolgreicher Nachprüfungen. Anfangs veraltete Paketgrenzen, ein bisher unbenutzter Originalquellenpfad, ein aktueller Textsnapshot und zwei Zähler für die bereits ausdrücklich entfernte Brückenvariante korrigiert. Die Inhaltsprüfungen bestätigen unter anderem beide verwendeten Wolfsblut-Kompositionen, die bereichsübergreifende Chaplin-Variante und die getrennten Keaton-Ziele. TypeScript und `git diff --check` erfolgreich. Keine vollständige Testsuite, kein Produktionsbuild oder neuer Browserlauf; keine produktiven Inhalte oder echten Spielstände geändert. Keine Veröffentlichung und kein Push.
+
+Fortschritt: 8.597 von 12.773 Original-IDs geprüft, 4.176 offen; Serienlauf nach Block 128 weiter pausiert. Keine Umstellungsprotokolle oder Einzelbewertungen gespeichert. [Aktueller Stand und Quellen](Fragenredaktion/README.md).
+
 ## 15.10.2026 – Audio-Sitzung nach Tab- und Appwechsel
 
 Lokal umgesetzt: Beim Ausblenden, `pagehide` oder Fenster-Fokusverlust wird die Audio-Sitzung freigegeben und erst beim nächsten Bedienimpuls neu erstellt. Die vorige, möglicherweise festhängende Instanz wird auch bei nicht abgeschlossenem `close()` nicht mehr verwendet. Veraltete Aktivierungen und vorgemerkte Signale werden verworfen; Rückkehr ohne Bedienaktion bleibt still, ausgeschalteter Ton bleibt aus. [Vertrag und Grenzen](Lernregeln.md#neue-audio-sitzung-nach-tab--und-appwechsel--15102026).

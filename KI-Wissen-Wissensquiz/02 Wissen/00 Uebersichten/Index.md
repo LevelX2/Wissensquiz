@@ -86,7 +86,7 @@
 
 - [Aktuelle Fragetexte und Quellen](../../../docs/Fragenredaktion/Fragen.json)
 - [Gesamtkatalog zur externen Redaktion: 13.684 Fragen mit Status, nach Genre und Fragenbereich – 13.10.2026](../../../docs/Fragenredaktion/Gesamtkatalog-2026-10-13/README.md)
-- [Redaktionsfortschritt: 7.141 Originalfragen geprüft, 5.632 offen; Block 128 abgeschlossen, Action/Drama zusätzlich lokal integriert](../../../docs/Fragenredaktion/Fortschritt.json)
+- [Redaktionsfortschritt: 8.597 Originalfragen geprüft, 4.176 offen; Block 128 pausiert, sechs Genre-Rückgaben lokal integriert](../../../docs/Fragenredaktion/Fortschritt.json)
 
 - [Version 64: gesamter Main-Stand einschließlich Proberunde, Serverzeit, Wettbewerbs-XP und Menüicons veröffentlicht](../../../docs/Sites-Betrieb.md)
 - [Version 64: Quellen-, Backend-, Archiv- und Live-Nachweis](../../../docs/Veroeffentlichung-2026-10-10-Version-64.json)

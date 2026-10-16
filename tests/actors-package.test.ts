@@ -26,6 +26,7 @@ import {
 
 // Keep this regression at the actor package's original catalog stage.
 const contents = packages
+  .slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
   .filter(
     (pkg) =>
       !pkg.filename.startsWith("Schauspieler-Bekanntheit-") &&
@@ -132,7 +133,8 @@ it("erhält bestehende Fragen, Ereignisse und Lernstände und nutzt 50 vorhanden
   const before = structuredClone(state);
   addPackages(state, [actorPackage]);
   addPackages(state, [actorPackage]);
-  expect(state.questions).toHaveLength(5689);
+  // The explicitly retired bridge variant no longer belongs to this stage.
+  expect(state.questions).toHaveLength(5688);
   expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(5160);
   expect(state.questions.slice(0, before.questions.length)).toEqual(
     before.questions,
