@@ -98,7 +98,7 @@ it("bewahrt alte Ereignisse und Lernstände bei beiden Ergänzungen und sichert 
     before,
   );
   expect(s.questions).toHaveLength(8408);
-  expect(new Set(s.questions.map((q) => q.knowledgeId)).size).toBe(7867);
+  expect(new Set(s.questions.map((q) => q.knowledgeId)).size).toBe(7868);
   expect(s.questions.filter((q) => q.metadata.person_id)).toHaveLength(1600);
   expect(s.bundledQuestionIds).toHaveLength(8408);
   expect(validateBackup(s).questions).toHaveLength(8408);

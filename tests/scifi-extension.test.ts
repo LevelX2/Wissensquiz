@@ -9,7 +9,7 @@ import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { answer, complete, startRound } from "../src/engine";
 import { validateBackup } from "../src/backupValidation";
 import source from "../KI-Wissen-Wissensquiz/01 Rohquellen/SciFi_Ergaenzung_Filmdaten.json";
-import { assertEditorialSource } from "./editorialSource";
+import { assertEditorialSource, currentQuestionId } from "./editorialSource";
 import reviewedFacts from "../src/reviewedFilmFacts.json";
 
 const editorial = JSON.parse(
@@ -57,10 +57,10 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
     (q) => q.metadata.subdomain === "Science-Fiction",
   );
   expect(qs).toHaveLength(772);
-  expect(new Set(qs.map((q) => q.knowledgeId)).size).toBe(676);
+  expect(new Set(qs.map((q) => q.knowledgeId)).size).toBe(677);
   expect(new Set(qs.map(filmIdentity)).size).toBe(103);
   for (const f of source.films) {
-    const q = qs.find((q) => q.id === f.reference_question_id)!;
+    const q = qs.find((q) => q.id === currentQuestionId(f.reference_question_id))!;
     const revision = editorial.generatedChanges.find(
       (entry) =>
         entry.before.film === `${f.film_title_original}|${f.film_year}`,
@@ -83,7 +83,7 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    const current = (reviewedFacts as Record<string, { context: string }>)[
+    const current = (reviewedFacts as Record<string, { context: string; metadata: Record<string, string> }>)[
       director.id
     ];
     expect(director.context).toContain(
@@ -91,7 +91,7 @@ it("erhält Sci-Fi-Rohquellen und bindet alle 50 Filme samt Zusatztexten, Bekann
     );
     expect(director.metadata.verification_status).toBe(
       current
-        ? "Redaktionsabgleich 2026-10-10"
+        ? current.metadata.verification_status
         : "Redaktionelle Quelle 2026-09-29",
     );
   }
@@ -107,7 +107,7 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "4039dfb907eb99da71ffccdc5addad477757c2c02e5fe2745c9323ff64a6b595",
+    "38845e4af7cd6fa9787ecce11ee502ee5875dfa8844be5a3c93508e022d36309",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);

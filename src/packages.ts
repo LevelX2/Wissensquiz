@@ -113,6 +113,7 @@ export const packages = [
   { path: "/genres-ergaenzungen-20261016-fragen.csv", filename: "Genres-Ergaenzungen-2026-10-16.csv" },
   { path: "/musik-romcom-ergaenzungen-20261016-fragen.csv", filename: "Musik-RomCom-Ergaenzungen-2026-10-16.csv" },
   { path: "/martial-arts-asia-ergaenzungen-20261016-fragen.csv", filename: "Martial-Arts-Asia-Ergaenzungen-2026-10-16.csv" },
+  { path: "/thriller-western-scifi-ergaenzungen-20261016-fragen.csv", filename: "Thriller-Western-Science-Fiction-Ergaenzungen-2026-10-16.csv" },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

@@ -1,0 +1,44 @@
+Science-Fiction – Redaktionelle Übergabe
+Stand: 16.10.2026
+
+Grundlage und Umfang
+Ausgangsdatei: Science-Fiction.csv, Export vom 13.10.2026, Katalog-Commit 35d324021ff585ee308e6bb9e0c82205d7208ee1. Auswahl: sämtliche 438 Zeilen mit editorial_status=offen, verteilt auf 58 Filme. Der übrige Exportbestand wurde als Kontext verwendet und gehört nicht zur Rückgabe. Die Auswahl enthält 39 bestehende Varianten.
+
+Ergebnis
+565 CSV-Datensätze: 438 erhaltene Ausgangszeilen, 117 Ergänzungen und 10 zugeordnete Ersatzfragen. Keine neuen Varianten. 555 Datensätze sind redaktionell_geprueft. Die 10 ungeeigneten Altfassungen bleiben als Entwurf erhalten; für jede liegt eine neue Ersatzfrage mit replaces_question_id vor. Die neuen Frage-, Wissensziel- und Varianten-IDs sind leer.
+
+Abdeckung und Prüfung
+Alle 58 Filmblöcke wurden vollständig bearbeitet und in einem zweiten eigenen Inhaltsdurchgang erneut gelesen. Nach der Neueinstufung besitzt jeder Film mindestens zwei unabhängige Inhaltsziele auf leicht, zwei auf mittel und zwei auf schwer, zusätzlich genau ein Jahres- und ein Regieziel. Varianten, ersetzte Altfassungen, Jahr und Regie wurden dabei nicht doppelt als Inhaltsziele gezählt. Es verbleibt keine Mindestabdeckungslücke. Ein unabhängiger zweiter Prüfer war nicht beteiligt.
+
+Der filmweise Abgleich berücksichtigte die vorliegenden Genre-, Schauspieler- und Preisträgerexporte sowie die bereits bearbeiteten verfügbaren Pakete. Dies ist keine Prüfung gegen unbekannte oder nachträglich veränderte Katalogstände. Quellen sind den einzelnen Fragen mit vollständigen URLs zugeordnet.
+
+Die gespeicherte CSV wurde erneut eingelesen und geprüft: 54 Spalten in Originalreihenfolge, vollständige Ausgangs-ID-Menge, unveränderte Identitäten und Kontext-/Herkunftsspalten, bestehende Antwort-IDs und Variantenbezüge, leere neue Identitäten, vier unterschiedliche Optionen, korrekte Lösungsspalten, UTF-8, vollständige Quotierung und CRLF. Frage und vier Optionen umfassen je Datensatz höchstens 60 Wörter.
+
+Ersatzzuordnungen
+Die folgenden Ausgangszeilen bei der gezielten Übernahme durch die jeweils genannte neue Frage ersetzen; die Altfassungen nicht zusätzlich aktivieren:
+
+- E20261007-F-219-L1 | Repo Man → „Repo Man“: Wer führt Otto (Emilio Estevez) in die Arbeit der Rücknahmefirma ein?
+
+- SF-L-042 | Star Trek II: Der Zorn des Khan → „Star Trek II: Der Zorn des Khan“: Welches Sternenflottenschiff bringt Khan (Ricardo Montalbán) unter seine Kontrolle?
+
+- SF-L-038 | Stargate → „Stargate“: Welche alte irdische Kultur prägt die Gesellschaft auf dem Planeten, den die Expedition erreicht?
+
+- SF-L-050 | Sunshine → „Sunshine“: Mit welchem Mittel soll die Besatzung die erlöschende Sonne wieder entzünden?
+
+- SF-202609-P02-L-068 | THX 1138 → „THX 1138“: Was verbindet THX (Robert Duvall) und LUH (Maggie McOmie) im Verlauf der Handlung?
+
+- SF-202609-P02-M-028 | Die Fliege → „Die Fliege“: Welches Versuchstier wird bei einem frühen Teleportationstest von Seth Brundle (Jeff Goldblum) tödlich verletzt?
+
+- SF-M-004 | Matrix Reloaded → „Matrix Reloaded“: Wer hilft Neo (Keanu Reeves) und seinen Begleitern aus Eifersucht auf den Merowinger?
+
+- SF-M-004-V1 | Matrix Reloaded → „Matrix Reloaded“: Warum geht Trinity (Carrie-Anne Moss) entgegen Neos Bitte erneut in die Matrix?
+
+- SF-202609-P02-S-011 | Die Zeitmaschine → „Die Zeitmaschine“: Welches Möbelstück bildete laut George Pal den Ausgangspunkt für den Entwurf der Maschine?
+
+- SF-202609-P02-L-074 | Timecop → „Timecop“: Welches Amt will McComb (Ron Silver) mithilfe seiner manipulierten Vergangenheit erlangen?
+
+
+Anzeige und Übernahme
+Die exportierten App-, Bearbeitungs- und Herkunftsangaben wurden unverändert erhalten. Filmstammdaten in display_films_json enthalten Jahr und Regie; bei Stalker nennen zusätzlich vorhandene Tags den Regisseur. Diese Angaben dürfen bei den entsprechenden Fragen vor der Antwort nicht angezeigt werden. Lernziele wurden lösungsneutral formuliert. Die tatsächliche App-Anzeige wurde hier nicht geprüft.
+
+Die Datei ist eine redaktionelle Übergabe. Bestehende IDs, neue Zeilen ohne IDs und die Ersatzzuordnungen benötigen eine gezielte Übernahme; der gewöhnliche App-Import erledigt dies nicht automatisch. Es erfolgten keine Integration und keine Veröffentlichung.

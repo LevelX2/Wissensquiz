@@ -13199,5 +13199,5050 @@
       "learning_objective": "Die Regienennung für „Rush Hour“ (1998) lautet: Brett Ratner.",
       "spoiler_level": "gering"
     }
+  },
+  "FF-062-DIRECTOR": {
+    "knowledgeId": "K-FF-062-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Das Fenster zum Hof“ Regie?",
+    "answers": [
+      {
+        "id": "FF-062-DIRECTOR:a",
+        "text": "Alfred Hitchcock",
+        "feedback": ""
+      },
+      {
+        "id": "FF-062-DIRECTOR:b",
+        "text": "Charles Laughton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-062-DIRECTOR:c",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-062-DIRECTOR:d",
+        "text": "Fritz Lang",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-062-DIRECTOR:a",
+    "explanation": "Alfred Hitchcock führte Regie.",
+    "context": "Alfred Hitchcock ließ Wohnung und Hof als zusammenhängendes Studioset bauen. Die Kamera blickt überwiegend von Jeffs (James Stewart) Wohnung aus zu den Nachbarn. Unterschiedliche Objektive erzeugen dabei wechselnde Distanzen: vom Überblick über den Hof bis zum engen Ausschnitt durch das Teleobjektiv.",
+    "sources": [
+      "https://catalog.afi.com/Film/51318-REAR-WINDOW"
+    ],
+    "metadata": {
+      "film_title_de": "Das Fenster zum Hof",
+      "film_title_original": "Rear Window",
+      "film_year": "1954",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-062",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-023",
+      "learning_objective": "Wer führte bei „Das Fenster zum Hof“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-062-YEAR": {
+    "knowledgeId": "K-FF-062-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Das Fenster zum Hof“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-062-YEAR:y1954",
+        "text": "1954",
+        "feedback": ""
+      },
+      {
+        "id": "FF-062-YEAR:y1951",
+        "text": "1951",
+        "feedback": ""
+      },
+      {
+        "id": "FF-062-YEAR:y1953",
+        "text": "1953",
+        "feedback": ""
+      },
+      {
+        "id": "FF-062-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-062-YEAR:y1954",
+    "explanation": "„Das Fenster zum Hof“ wurde erstmals 1954 veröffentlicht.",
+    "context": "„Das Fenster zum Hof“ erschien 1954. Cornell Woolrichs zugrunde liegende Erzählung war 1942 unter dem Titel „It Had to Be Murder“ veröffentlicht worden. Zwölf Jahre liegen zwischen der literarischen Vorlage und Hitchcocks Verfilmung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rear_Window",
+      "https://catalog.afi.com/Film/51318-REAR-WINDOW"
+    ],
+    "metadata": {
+      "film_title_de": "Das Fenster zum Hof",
+      "film_title_original": "Rear Window",
+      "film_year": "1954",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-062",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-023",
+      "learning_objective": "In welchem Jahr wurde „Das Fenster zum Hof“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-065-DIRECTOR": {
+    "knowledgeId": "K-FF-065-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Rebecca“ mit Joan Fontaine und Laurence Olivier Regie?",
+    "answers": [
+      {
+        "id": "FF-065-DIRECTOR:a",
+        "text": "Alfred Hitchcock",
+        "feedback": ""
+      },
+      {
+        "id": "FF-065-DIRECTOR:b",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-065-DIRECTOR:c",
+        "text": "Fritz Lang",
+        "feedback": ""
+      },
+      {
+        "id": "FF-065-DIRECTOR:d",
+        "text": "Charles Laughton",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-065-DIRECTOR:a",
+    "explanation": "Alfred Hitchcock führte Regie.",
+    "context": "„Rebecca“ war Hitchcocks erste Hollywoodproduktion unter Vertrag mit David O. Selznick. Joan Harrison und Robert E. Sherwood schrieben das Drehbuch nach Daphne du Mauriers Roman. Joan Fontaine spielt die namenlose zweite Mrs. de Winter, Laurence Olivier ihren Mann Maxim.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rebecca_(1940_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Rebecca",
+      "film_title_original": "Rebecca",
+      "film_year": "1940",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-065",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-029",
+      "learning_objective": "Wer führte bei „Rebecca“ mit Joan Fontaine und Laurence Olivier Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-065-YEAR": {
+    "knowledgeId": "K-FF-065-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde Hitchcocks „Rebecca“ mit Joan Fontaine erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-065-YEAR:y1940",
+        "text": "1940",
+        "feedback": ""
+      },
+      {
+        "id": "FF-065-YEAR:y1936",
+        "text": "1936",
+        "feedback": ""
+      },
+      {
+        "id": "FF-065-YEAR:y1938",
+        "text": "1938",
+        "feedback": ""
+      },
+      {
+        "id": "FF-065-YEAR:y1941",
+        "text": "1941",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-065-YEAR:y1940",
+    "explanation": "„Rebecca“ wurde erstmals 1940 veröffentlicht.",
+    "context": "Die Dreharbeiten begannen im September 1939; „Rebecca“ wurde 1940 veröffentlicht. Es war Hitchcocks erste Hollywoodproduktion. Die Arbeit für David O. Selznick verlagerte damit seine englische Filmkarriere im folgenden Jahr sichtbar in das amerikanische Studiosystem.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rebecca_(1940_film)",
+      "https://catalog.afi.com/Catalog/moviedetails/5132"
+    ],
+    "metadata": {
+      "film_title_de": "Rebecca",
+      "film_title_original": "Rebecca",
+      "film_year": "1940",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-065",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-029",
+      "learning_objective": "In welchem Jahr wurde Hitchcocks „Rebecca“ mit Joan Fontaine erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-059-DIRECTOR": {
+    "knowledgeId": "K-FF-059-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Die Nacht des Jägers“ Regie?",
+    "answers": [
+      {
+        "id": "FF-059-DIRECTOR:a",
+        "text": "Charles Laughton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-059-DIRECTOR:b",
+        "text": "Alfred Hitchcock",
+        "feedback": ""
+      },
+      {
+        "id": "FF-059-DIRECTOR:c",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-059-DIRECTOR:d",
+        "text": "Fritz Lang",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-059-DIRECTOR:a",
+    "explanation": "Charles Laughton führte Regie.",
+    "context": "Charles Laughton erhielt von James Agee zunächst ein Drehbuch mit fast dreihundert Seiten. Für einen Spielfilm war es zu lang, und Laughton überarbeitete es erheblich; der alleinige Autorencredit blieb dennoch bei Agee. Die Idee, Kindergesichter zwischen Sternen zu zeigen, wanderte dabei vom vorgesehenen Schluss an den Anfang. Auch die Reihenfolge einzelner Bilder wurde Teil der eigenständigen filmischen Bearbeitung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Night_of_the_Hunter_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-059",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-017",
+      "learning_objective": "Wer führte bei „Die Nacht des Jägers“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-059-YEAR": {
+    "knowledgeId": "K-FF-059-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Die Nacht des Jägers“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-059-YEAR:y1955",
+        "text": "1955",
+        "feedback": ""
+      },
+      {
+        "id": "FF-059-YEAR:y1951",
+        "text": "1951",
+        "feedback": ""
+      },
+      {
+        "id": "FF-059-YEAR:y1953",
+        "text": "1953",
+        "feedback": ""
+      },
+      {
+        "id": "FF-059-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-059-YEAR:y1955",
+    "explanation": "„Die Nacht des Jägers“ wurde erstmals 1955 veröffentlicht.",
+    "context": "Der Film hatte am 26. Juli 1955 in Des Moines Premiere. Davis Grubbs Romanvorlage war 1953 erschienen. Der Weg vom Buch zum Film dauerte damit nur zwei Jahre; Produzent Paul Gregory veranstaltete die Premiere in seiner Heimatstadt zugunsten des YMCA.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Night_of_the_Hunter_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die Nacht des Jägers",
+      "film_title_original": "The Night of the Hunter",
+      "film_year": "1955",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-059",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-017",
+      "learning_objective": "In welchem Jahr wurde „Die Nacht des Jägers“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-064-DIRECTOR": {
+    "knowledgeId": "K-FF-064-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Vertigo“ Regie?",
+    "answers": [
+      {
+        "id": "FF-064-DIRECTOR:a",
+        "text": "Alfred Hitchcock",
+        "feedback": ""
+      },
+      {
+        "id": "FF-064-DIRECTOR:b",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-064-DIRECTOR:c",
+        "text": "Charles Laughton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-064-DIRECTOR:d",
+        "text": "Fritz Lang",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-064-DIRECTOR:a",
+    "explanation": "Alfred Hitchcock führte Regie.",
+    "context": "Alfred Hitchcock veränderte bei „Vertigo“ den Zeitpunkt einer wichtigen Enthüllung aus der Romanvorlage. Das Publikum sollte den Zusammenhang früher kennen und die Unsicherheit von John „Scottie“ Ferguson (James Stewart) miterleben. Nach einer Voraufführung strich er die entsprechende Briefszene zunächst wieder. Erst eine Anweisung aus der Paramount-Leitung sorgte dafür, dass sie in die fertige Fassung zurückkehrte. Die Erzählstruktur war also selbst spät noch umstritten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Vertigo_(film)",
+      "https://catalog.afi.com/Catalog/moviedetails/52788"
+    ],
+    "metadata": {
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-064",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-027",
+      "learning_objective": "Wer führte bei „Vertigo“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-064-YEAR": {
+    "knowledgeId": "K-FF-064-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Vertigo“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-064-YEAR:y1958",
+        "text": "1958",
+        "feedback": ""
+      },
+      {
+        "id": "FF-064-YEAR:y1954",
+        "text": "1954",
+        "feedback": ""
+      },
+      {
+        "id": "FF-064-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      },
+      {
+        "id": "FF-064-YEAR:y1960",
+        "text": "1960",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-064-YEAR:y1958",
+    "explanation": "„Vertigo“ wurde erstmals 1958 veröffentlicht.",
+    "context": "Der Film wurde 1958 veröffentlicht. Kim Novak war für die Produktion von Columbia ausgeliehen worden. Zu der Vereinbarung gehörte, dass James Stewart anschließend mit ihr in „Meine Braut ist übersinnlich“ auftrat, das ebenfalls 1958 erschien.",
+    "sources": [
+      "https://catalog.afi.com/Catalog/moviedetails/52788"
+    ],
+    "metadata": {
+      "film_title_de": "Vertigo",
+      "film_title_original": "Vertigo",
+      "film_year": "1958",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-064",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-027",
+      "learning_objective": "In welchem Jahr wurde „Vertigo“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-061-DIRECTOR": {
+    "knowledgeId": "K-FF-061-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Zeugin der Anklage“ Regie?",
+    "answers": [
+      {
+        "id": "FF-061-DIRECTOR:a",
+        "text": "Billy Wilder",
+        "feedback": ""
+      },
+      {
+        "id": "FF-061-DIRECTOR:b",
+        "text": "Alfred Hitchcock",
+        "feedback": ""
+      },
+      {
+        "id": "FF-061-DIRECTOR:c",
+        "text": "Charles Laughton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-061-DIRECTOR:d",
+        "text": "Fritz Lang",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-061-DIRECTOR:a",
+    "explanation": "Billy Wilder führte Regie.",
+    "context": "Billy Wilder inszenierte „Zeugin der Anklage“ nach einem Drehbuch, an dem auch Harry Kurnitz beteiligt war. Der Film erweitert die Gerichtsverhandlung um eine Rückblende in einen deutschen Nachtclub. Der Name des Lokals, „Die blaue Laterne“, spielt auf Marlene Dietrichs „Der blaue Engel“ an. Auch ihre Hose verweist auf frühere Filmauftritte. Die Rückblende nutzt somit gezielt die Leinwandgeschichte der Hauptdarstellerin.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Zeugin der Anklage",
+      "film_title_original": "Witness for the Prosecution",
+      "film_year": "1957",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-061",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-021",
+      "learning_objective": "Wer führte bei „Zeugin der Anklage“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-061-YEAR": {
+    "knowledgeId": "K-FF-061-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Zeugin der Anklage“ mit Charles Laughton erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-061-YEAR:y1957",
+        "text": "1957",
+        "feedback": ""
+      },
+      {
+        "id": "FF-061-YEAR:y1954",
+        "text": "1954",
+        "feedback": ""
+      },
+      {
+        "id": "FF-061-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      },
+      {
+        "id": "FF-061-YEAR:y1959",
+        "text": "1959",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-061-YEAR:y1957",
+    "explanation": "„Zeugin der Anklage“ wurde erstmals 1957 veröffentlicht.",
+    "context": "„Zeugin der Anklage“ wurde erstmals 1957 veröffentlicht. Agatha Christies Bühnenfassung war 1953 in London und anschließend am Broadway gestartet. Die Verfilmung folgte vier Jahre später und verlagerte das Gewicht stärker auf den Verteidiger Sir Wilfrid (Charles Laughton).",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film)",
+      "https://catalog.afi.com/Catalog/MovieDetails/52448"
+    ],
+    "metadata": {
+      "film_title_de": "Zeugin der Anklage",
+      "film_title_original": "Witness for the Prosecution",
+      "film_year": "1957",
+      "subdomain": "Thriller",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-061",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-021",
+      "learning_objective": "In welchem Jahr wurde „Zeugin der Anklage“ mit Charles Laughton erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-294-DIRECTOR": {
+    "knowledgeId": "K-FF-294-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Der Mann, der Liberty Valance erschoss“: Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-294-DIRECTOR:a",
+        "text": "John Ford",
+        "feedback": ""
+      },
+      {
+        "id": "FF-294-DIRECTOR:b",
+        "text": "Sergio Leone",
+        "feedback": ""
+      },
+      {
+        "id": "FF-294-DIRECTOR:c",
+        "text": "Sergio Corbucci",
+        "feedback": ""
+      },
+      {
+        "id": "FF-294-DIRECTOR:d",
+        "text": "Howard Hawks",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-294-DIRECTOR:a",
+    "explanation": "John Ford führte Regie.",
+    "context": "John Ford inszenierte den Western in Schwarzweiß, überwiegend auf dem Paramount-Gelände. James Warner Bellah und Willis Goldbeck adaptierten Dorothy M. Johnsons Erzählung. John Wayne spielt den Rancher Doniphon, James Stewart den Anwalt und späteren Senator Stoddard.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Man_Who_Shot_Liberty_Valance"
+    ],
+    "metadata": {
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-294",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-037",
+      "learning_objective": "Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-294-YEAR": {
+    "knowledgeId": "K-FF-294-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Der Mann, der Liberty Valance erschoss“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-294-YEAR:y1962",
+        "text": "1962",
+        "feedback": ""
+      },
+      {
+        "id": "FF-294-YEAR:y1960",
+        "text": "1960",
+        "feedback": ""
+      },
+      {
+        "id": "FF-294-YEAR:y1961",
+        "text": "1961",
+        "feedback": ""
+      },
+      {
+        "id": "FF-294-YEAR:y1963",
+        "text": "1963",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-294-YEAR:y1962",
+    "explanation": "Der Film wurde erstmals 1962 veröffentlicht.",
+    "context": "John Fords Western erschien 1962. Im selben Jahr kamen John Wayne und James Stewart auch in Das war der Wilde Westen auf die Leinwand. Während jener Film die Besiedlung als großes Panorama erzählt, konzentriert sich Liberty Valance auf eine Kleinstadt und die widersprüchliche Erinnerung an einen Schusswechsel.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Man_Who_Shot_Liberty_Valance",
+      "https://en.wikipedia.org/wiki/How_the_West_Was_Won_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der Mann, der Liberty Valance erschoss",
+      "film_title_original": "The Man Who Shot Liberty Valance",
+      "film_year": "1962",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-294",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-037",
+      "learning_objective": "Erstveröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-296-DIRECTOR": {
+    "knowledgeId": "K-FF-296-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Der Scharfschütze“: Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-296-DIRECTOR:a",
+        "text": "Henry King",
+        "feedback": ""
+      },
+      {
+        "id": "FF-296-DIRECTOR:b",
+        "text": "John Ford",
+        "feedback": ""
+      },
+      {
+        "id": "FF-296-DIRECTOR:c",
+        "text": "Sergio Leone",
+        "feedback": ""
+      },
+      {
+        "id": "FF-296-DIRECTOR:d",
+        "text": "Sergio Corbucci",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-296-DIRECTOR:a",
+    "explanation": "Henry King führte Regie.",
+    "context": "Henry King und Gregory Peck hatten ein Jahr zuvor bereits bei Der Kommandeur zusammengearbeitet. In diesem Western fotografierte Arthur C. Miller die Saloonräume mit großer Tiefenschärfe. Ringos (Gregory Peck) Warten im Inneren und die wachsende Menschenmenge vor der Tür ersetzen lange Strecken einer klassischen Verfolgungsjagd.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Gunfighter",
+      "https://www.criterion.com/current/posts/7149-the-gunfighter-you-cant-go-home-again"
+    ],
+    "metadata": {
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-296",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-041",
+      "learning_objective": "Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-296-YEAR": {
+    "knowledgeId": "K-FF-296-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Der Scharfschütze“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-296-YEAR:y1950",
+        "text": "1950",
+        "feedback": ""
+      },
+      {
+        "id": "FF-296-YEAR:y1948",
+        "text": "1948",
+        "feedback": ""
+      },
+      {
+        "id": "FF-296-YEAR:y1949",
+        "text": "1949",
+        "feedback": ""
+      },
+      {
+        "id": "FF-296-YEAR:y1951",
+        "text": "1951",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-296-YEAR:y1950",
+    "explanation": "Der Film wurde erstmals 1950 veröffentlicht.",
+    "context": "Der Film erschien 1950, ein Jahr nach Der Kommandeur. Beide Filme inszenierte Henry King mit Gregory Peck. Acht Jahre später arbeiteten sie beim Rachewestern Bravados erneut zusammen: Dort verfolgt Pecks Figur vermeintliche Mörder, während Jimmy Ringo hier gerade ein Leben ohne weitere Gewalt sucht.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Gunfighter",
+      "https://en.wikipedia.org/wiki/The_Bravados"
+    ],
+    "metadata": {
+      "film_title_de": "Der Scharfschütze",
+      "film_title_original": "The Gunfighter",
+      "film_year": "1950",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-296",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-041",
+      "learning_objective": "Erstveröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-284-DIRECTOR": {
+    "knowledgeId": "K-FF-284-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Der Texaner“: Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-284-DIRECTOR:a",
+        "text": "Clint Eastwood",
+        "feedback": ""
+      },
+      {
+        "id": "FF-284-DIRECTOR:b",
+        "text": "Tonino Valerii",
+        "feedback": ""
+      },
+      {
+        "id": "FF-284-DIRECTOR:c",
+        "text": "Sydney Pollack",
+        "feedback": ""
+      },
+      {
+        "id": "FF-284-DIRECTOR:d",
+        "text": "Sergio Leone",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-284-DIRECTOR:a",
+    "explanation": "Clint Eastwood führte Regie.",
+    "context": "Clint Eastwood begann „Der Texaner“ als Hauptdarsteller unter der Regie von Philip Kaufman. Dieser hatte die Vorbereitung geleitet und an der Drehbuchfassung gearbeitet. Während der Aufnahmen kam es jedoch zum Bruch; Kaufman wurde entlassen, Eastwood übernahm die Regie. Er arbeitete anschließend mit Kaufmans bereits vorhandener Planung weiter. Der fertige Film trägt daher Eastwoods Regiecredit, obwohl Kaufman wesentliche Vorarbeit geleistet hatte.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Outlaw_Josey_Wales"
+    ],
+    "metadata": {
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-284",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-017",
+      "learning_objective": "Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-284-YEAR": {
+    "knowledgeId": "K-FF-284-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Der Texaner“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-284-YEAR:y1976",
+        "text": "1976",
+        "feedback": ""
+      },
+      {
+        "id": "FF-284-YEAR:y1974",
+        "text": "1974",
+        "feedback": ""
+      },
+      {
+        "id": "FF-284-YEAR:y1975",
+        "text": "1975",
+        "feedback": ""
+      },
+      {
+        "id": "FF-284-YEAR:y1977",
+        "text": "1977",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-284-YEAR:y1976",
+    "explanation": "Der Film wurde erstmals 1976 veröffentlicht.",
+    "context": "Der Texaner erschien 1976. Noch im selben Jahr kam mit Der letzte Scharfschütze John Waynes letzter Kinowestern heraus. Beide Filme folgen Männern, die ihre bisherige Gewaltgeschichte nicht einfach abstreifen können; Eastwoods Josey Wales findet während seiner Flucht eine neue Gemeinschaft.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Outlaw_Josey_Wales",
+      "https://en.wikipedia.org/wiki/The_Shootist"
+    ],
+    "metadata": {
+      "film_title_de": "Der Texaner",
+      "film_title_original": "The Outlaw Josey Wales",
+      "film_year": "1976",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-284",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-017",
+      "learning_objective": "Erstveröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-298-YEAR": {
+    "knowledgeId": "K-FF-298-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde Antoine Fuquas „Die glorreichen Sieben“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-298-YEAR:y2016",
+        "text": "2016",
+        "feedback": ""
+      },
+      {
+        "id": "FF-298-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      },
+      {
+        "id": "FF-298-YEAR:y2015",
+        "text": "2015",
+        "feedback": ""
+      },
+      {
+        "id": "FF-298-YEAR:y2017",
+        "text": "2017",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-298-YEAR:y2016",
+    "explanation": "Der Film wurde erstmals 2016 veröffentlicht.",
+    "context": "„Die glorreichen Sieben“ werden 1960 erstmals zum Hollywoodwestern; 2016 folgt Antoine Fuquas Neuverfilmung. 56 Jahre trennen die beiden Versionen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Magnificent_Seven_(2016_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die glorreichen Sieben",
+      "film_title_original": "The Magnificent Seven",
+      "film_year": "2016",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-298",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-045",
+      "learning_objective": "Erstveröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-298-DIRECTOR": {
+    "knowledgeId": "K-FF-298-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Die glorreichen Sieben“: Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-298-DIRECTOR:a",
+        "text": "Antoine Fuqua",
+        "feedback": ""
+      },
+      {
+        "id": "FF-298-DIRECTOR:b",
+        "text": "Ed Harris",
+        "feedback": ""
+      },
+      {
+        "id": "FF-298-DIRECTOR:c",
+        "text": "James Mangold",
+        "feedback": ""
+      },
+      {
+        "id": "FF-298-DIRECTOR:d",
+        "text": "Kevin Costner",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-298-DIRECTOR:a",
+    "explanation": "Antoine Fuqua führte Regie.",
+    "context": "Antoine Fuqua wollte Vincent D’Onofrios eigens entwickelte Stimme für Jack Horne vor dem Dreh nicht hören. Er bat den Darsteller, ihn erst in der ersten Szene damit zu überraschen. Die hohe, raue Stimme sollte an einen Mann erinnern, der lange ohne Gespräche in der Wildnis gelebt hat. Fuquas Reaktion fiel so heftig aus, dass sein Lachen beinahe die Aufnahme störte.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Magnificent_Seven_(2016_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die glorreichen Sieben",
+      "film_title_original": "The Magnificent Seven",
+      "film_year": "2016",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-298",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-045",
+      "learning_objective": "Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-283-DIRECTOR": {
+    "knowledgeId": "K-FF-283-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Erbarmungslos“: Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-283-DIRECTOR:a",
+        "text": "Clint Eastwood",
+        "feedback": ""
+      },
+      {
+        "id": "FF-283-DIRECTOR:b",
+        "text": "George P. Cosmatos",
+        "feedback": ""
+      },
+      {
+        "id": "FF-283-DIRECTOR:c",
+        "text": "Kevin Costner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-283-DIRECTOR:d",
+        "text": "Richard Donner",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-283-DIRECTOR:a",
+    "explanation": "Clint Eastwood führte Regie.",
+    "context": "Clint Eastwood besetzte Richard Harris in „Erbarmungslos“ als Revolverhelden English Bob. Der Anruf mit dem Rollenangebot traf den Schauspieler ausgerechnet beim Anschauen von Eastwoods früherem Western „Ein Fremder ohne Namen“; Harris hielt ihn deshalb zunächst für einen Scherz. Für den düsteren Look des neuen Films arbeiteten Kameramann Jack Green und Produktionsdesigner Henry Bumstead an den Aufnahmen in Alberta.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Unforgiven"
+    ],
+    "metadata": {
+      "film_title_de": "Erbarmungslos",
+      "film_title_original": "Unforgiven",
+      "film_year": "1992",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-283",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-015",
+      "learning_objective": "Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-283-YEAR": {
+    "knowledgeId": "K-FF-283-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Erbarmungslos“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-283-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      },
+      {
+        "id": "FF-283-YEAR:y1990",
+        "text": "1990",
+        "feedback": ""
+      },
+      {
+        "id": "FF-283-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      },
+      {
+        "id": "FF-283-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-283-YEAR:y1992",
+    "explanation": "Der Film wurde erstmals 1992 veröffentlicht.",
+    "context": "1964 wird Clint Eastwood in „Für eine Handvoll Dollar“ zum wortkargen Westernhelden. 1992 führt er bei „Erbarmungslos“ selbst Regie und spielt einen gealterten Revolvermann. 28 Jahre verbinden den Aufstieg dieser Leinwandfigur mit Eastwoods spätem Blick auf die Folgen ihrer Gewalt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Unforgiven",
+      "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars"
+    ],
+    "metadata": {
+      "film_title_de": "Erbarmungslos",
+      "film_title_original": "Unforgiven",
+      "film_year": "1992",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-283",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-015",
+      "learning_objective": "Erstveröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-287-DIRECTOR": {
+    "knowledgeId": "K-FF-287-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„The Wild Bunch – Sie kannten kein Gesetz“: Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-287-DIRECTOR:a",
+        "text": "Sam Peckinpah",
+        "feedback": ""
+      },
+      {
+        "id": "FF-287-DIRECTOR:b",
+        "text": "George Roy Hill",
+        "feedback": ""
+      },
+      {
+        "id": "FF-287-DIRECTOR:c",
+        "text": "Sergio Leone",
+        "feedback": ""
+      },
+      {
+        "id": "FF-287-DIRECTOR:d",
+        "text": "Sergio Corbucci",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-287-DIRECTOR:a",
+    "explanation": "Sam Peckinpah führte Regie.",
+    "context": "Sam Peckinpah führte Regie und schrieb mit Walon Green das Drehbuch. Die Geschichte spielt 1913 an der Grenze zu Mexiko. Der Waffenhandel mit General Mapache (Emilio Fernández) verknüpft den letzten Beutezug der amerikanischen Banditen mit dem mexikanischen Bürgerkrieg.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Wild_Bunch"
+    ],
+    "metadata": {
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-287",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-023",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-287-YEAR": {
+    "knowledgeId": "K-FF-287-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „The Wild Bunch – Sie kannten kein Gesetz“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-287-YEAR:y1969",
+        "text": "1969",
+        "feedback": ""
+      },
+      {
+        "id": "FF-287-YEAR:y1967",
+        "text": "1967",
+        "feedback": ""
+      },
+      {
+        "id": "FF-287-YEAR:y1968",
+        "text": "1968",
+        "feedback": ""
+      },
+      {
+        "id": "FF-287-YEAR:y1970",
+        "text": "1970",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-287-YEAR:y1969",
+    "explanation": "Der Film wurde erstmals 1969 veröffentlicht.",
+    "context": "„The Wild Bunch“ erschien 1969 und spielt 1913: Zwischen seiner späten Westernwelt und dem Erscheinungsjahr liegen 56 Jahre.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Wild_Bunch"
+    ],
+    "metadata": {
+      "film_title_de": "The Wild Bunch – Sie kannten kein Gesetz",
+      "film_title_original": "The Wild Bunch",
+      "film_year": "1969",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-287",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-023",
+      "learning_objective": "Erste Veröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-289-YEAR": {
+    "knowledgeId": "K-FF-289-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Tombstone“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-289-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      },
+      {
+        "id": "FF-289-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      },
+      {
+        "id": "FF-289-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      },
+      {
+        "id": "FF-289-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-289-YEAR:y1993",
+    "explanation": "Der Film wurde erstmals 1993 veröffentlicht.",
+    "context": "„Tombstone“ erschien 1993, Richard Donners Westernkomödie „Maverick“ 1994. Damit liegen Kurt Russells Wyatt Earp und Mel Gibsons Bret Maverick in aufeinanderfolgenden Kinojahrgängen. „Maverick“ dreht sich um die Teilnahme an einem großen Pokerturnier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tombstone_(film)",
+      "https://en.wikipedia.org/wiki/Maverick_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Tombstone",
+      "film_title_original": "Tombstone",
+      "film_year": "1993",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-289",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-027",
+      "learning_objective": "Erste Veröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-289-DIRECTOR": {
+    "knowledgeId": "K-FF-289-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer erhielt den offiziellen Regiecredit für „Tombstone“?",
+    "answers": [
+      {
+        "id": "FF-289-DIRECTOR:a",
+        "text": "George P. Cosmatos",
+        "feedback": ""
+      },
+      {
+        "id": "FF-289-DIRECTOR:b",
+        "text": "Clint Eastwood",
+        "feedback": ""
+      },
+      {
+        "id": "FF-289-DIRECTOR:c",
+        "text": "Richard Donner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-289-DIRECTOR:d",
+        "text": "Jim Jarmusch",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-289-DIRECTOR:a",
+    "explanation": "George P. Cosmatos führte Regie.",
+    "context": "George P. Cosmatos übernahm während der Dreharbeiten von Drehbuchautor Kevin Jarre, der nach vier Wochen abgelöst wurde. Kurt Russell berichtete später von seiner umfangreichen Mitwirkung an der Inszenierung. Der veröffentlichte Regiecredit nennt Cosmatos; Jarre bleibt als Drehbuchautor genannt.",
+    "sources": [
+      "https://catalog.afi.com/Film/59687-"
+    ],
+    "metadata": {
+      "film_title_de": "Tombstone",
+      "film_title_original": "Tombstone",
+      "film_year": "1993",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-289",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-027",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-290-DIRECTOR": {
+    "knowledgeId": "K-FF-290-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„True Grit“: Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-290-DIRECTOR:a",
+        "text": "Joel Coen und Ethan Coen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-290-DIRECTOR:b",
+        "text": "Lana Wachowski und Lilly Wachowski",
+        "feedback": ""
+      },
+      {
+        "id": "FF-290-DIRECTOR:c",
+        "text": "Jackie Chan und Eric Tsang",
+        "feedback": ""
+      },
+      {
+        "id": "FF-290-DIRECTOR:d",
+        "text": "Jim Henson und Frank Oz",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-290-DIRECTOR:a",
+    "explanation": "Joel Coen und Ethan Coen führten gemeinsam Regie.",
+    "context": "Joel und Ethan Coen teilen sich den Regiecredit und schrieben die Adaption von Charles Portis’ Roman. Dessen Ton und Matties Sichtweise waren ihnen besonders wichtig. Hailee Steinfeld erhielt die Hauptrolle nach einer Suche mit rund 15.000 Bewerbungen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/True_Grit_(2010_film)"
+    ],
+    "metadata": {
+      "film_title_de": "True Grit",
+      "film_title_original": "True Grit",
+      "film_year": "2010",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-290",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-029",
+      "learning_objective": "Gemeinsamer offizieller Regiecredit",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-290-YEAR": {
+    "knowledgeId": "K-FF-290-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde die Coen-Verfilmung „True Grit“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-290-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-290-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-290-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-290-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-290-YEAR:y2010",
+    "explanation": "Der Film wurde erstmals 2010 veröffentlicht.",
+    "context": "Die Coen-Verfilmung von „True Grit“ erschien 2010, 41 Jahre nach „Der Marshal“ von 1969. Jeff Bridges übernimmt Rooster Cogburn von John Wayne. Hailee Steinfeld spielt Mattie Ross, deren Perspektive die Coens erneut aus Charles Portis’ Roman erschlossen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/True_Grit_(2010_film)",
+      "https://en.wikipedia.org/wiki/True_Grit_(1969_film)"
+    ],
+    "metadata": {
+      "film_title_de": "True Grit",
+      "film_title_original": "True Grit",
+      "film_year": "2010",
+      "subdomain": "Western",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-290",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "WES-L-029",
+      "learning_objective": "Erste Veröffentlichung",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-375-DIRECTOR": {
+    "knowledgeId": "K-FF-375-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Andromeda – Tödlicher Staub aus dem All“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-375-DIRECTOR:a",
+        "text": "Robert Wise",
+        "feedback": ""
+      },
+      {
+        "id": "FF-375-DIRECTOR:b",
+        "text": "George Lucas",
+        "feedback": ""
+      },
+      {
+        "id": "FF-375-DIRECTOR:c",
+        "text": "Andrei Tarkovsky",
+        "feedback": ""
+      },
+      {
+        "id": "FF-375-DIRECTOR:d",
+        "text": "Douglas Trumbull",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-375-DIRECTOR:a",
+    "explanation": "Robert Wise führte Regie.",
+    "context": "Nelson Gidding bearbeitete Michael Crichtons Roman für den Film. Die Handlung wird als Rückblick des Wissenschaftlers Jeremy Stone (Arthur Hill) vor einem Senatsausschuss eröffnet. Dieser Rahmen gibt dem erfundenen Zwischenfall den Anschein einer amtlichen Rekonstruktion.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Andromeda_Strain_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Andromeda – Tödlicher Staub aus dem All",
+      "film_title_original": "The Andromeda Strain",
+      "film_year": "1971",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-375",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-099",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-375-YEAR": {
+    "knowledgeId": "K-FF-375-YEAR",
+    "difficulty": "mittel",
+    "question": "„Andromeda – Tödlicher Staub aus dem All“: In welchem Jahr erschien der Film von Robert Wise erstmals?",
+    "answers": [
+      {
+        "id": "FF-375-YEAR:y1971",
+        "text": "1971",
+        "feedback": ""
+      },
+      {
+        "id": "FF-375-YEAR:y1967",
+        "text": "1967",
+        "feedback": ""
+      },
+      {
+        "id": "FF-375-YEAR:y1969",
+        "text": "1969",
+        "feedback": ""
+      },
+      {
+        "id": "FF-375-YEAR:y1972",
+        "text": "1972",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-375-YEAR:y1971",
+    "explanation": "„Andromeda – Tödlicher Staub aus dem All“ wurde erstmals 1971 veröffentlicht.",
+    "context": "„Andromeda“ erschien 1971, zwei Jahre nach Michael Crichtons Roman von 1969. Buch und Film machten die Einschleppung eines unbekannten Organismus aus dem Weltraum zum wissenschaftlichen Krisenfall.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Andromeda_Strain_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Andromeda – Tödlicher Staub aus dem All",
+      "film_title_original": "The Andromeda Strain",
+      "film_year": "1971",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-375",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-099",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-338-DIRECTOR": {
+    "knowledgeId": "K-FF-338-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Das Ding aus einer anderen Welt“: Wer führte bei der Fassung mit Kurt Russell als MacReady Regie?",
+    "answers": [
+      {
+        "id": "FF-338-DIRECTOR:a",
+        "text": "John Carpenter",
+        "feedback": ""
+      },
+      {
+        "id": "FF-338-DIRECTOR:b",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-338-DIRECTOR:c",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      },
+      {
+        "id": "FF-338-DIRECTOR:d",
+        "text": "Nicholas Meyer",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-338-DIRECTOR:a",
+    "explanation": "John Carpenter führte Regie.",
+    "context": "Carpenter arbeitete erneut mit Kameramann Dean Cundey zusammen. Die Außenkulissen entstanden bei Stewart in British Columbia: Das Team errichtete sie im Sommer und wartete auf den Schnee. Die Antarktis wurde also an einem kanadischen Drehort dargestellt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Thing_(1982_film)",
+      "https://theasc.com/article/flashback-the-thing/"
+    ],
+    "metadata": {
+      "film_title_de": "Das Ding aus einer anderen Welt",
+      "film_title_original": "The Thing",
+      "film_year": "1982",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-338",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-025",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-338-YEAR": {
+    "knowledgeId": "K-FF-338-YEAR",
+    "difficulty": "mittel",
+    "question": "„Das Ding aus einer anderen Welt“: In welchem Jahr erschien der Film von John Carpenter erstmals?",
+    "answers": [
+      {
+        "id": "FF-338-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-338-YEAR:y1978",
+        "text": "1978",
+        "feedback": ""
+      },
+      {
+        "id": "FF-338-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-338-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-338-YEAR:y1982",
+    "explanation": "„Das Ding aus einer anderen Welt“ wurde erstmals 1982 veröffentlicht.",
+    "context": "„Das Ding“ erschien 1982, im selben Jahr wie Spielbergs „E.T.“. Die beiden Filme zeigen sehr unterschiedliche außerirdische Besucher: ein Wesen, das andere Körper übernimmt, und einen einzelnen Fremden, dem Kinder helfen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Thing_(1982_film)",
+      "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial"
+    ],
+    "metadata": {
+      "film_title_de": "Das Ding aus einer anderen Welt",
+      "film_title_original": "The Thing",
+      "film_year": "1982",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-338",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-025",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-149-DIRECTOR": {
+    "knowledgeId": "K-FF-149-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Das fünfte Element“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-149-DIRECTOR:a",
+        "text": "Luc Besson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-149-DIRECTOR:b",
+        "text": "Barry Sonnenfeld",
+        "feedback": ""
+      },
+      {
+        "id": "FF-149-DIRECTOR:c",
+        "text": "Andrew Niccol",
+        "feedback": ""
+      },
+      {
+        "id": "FF-149-DIRECTOR:d",
+        "text": "Robert Zemeckis",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-149-DIRECTOR:a",
+    "explanation": "Luc Besson führte Regie.",
+    "context": "Besson begann die Geschichte bereits als Jugendlicher. Neben Milla Jovovich und Bruce Willis spielen Gary Oldman den Industriellen Zorg und Chris Tucker den Moderator Ruby Rhod. Das Drehbuch schrieb Besson mit Robert Mark Kamen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Fifth_Element"
+    ],
+    "metadata": {
+      "film_title_de": "Das fünfte Element",
+      "film_title_original": "The Fifth Element",
+      "film_year": "1997",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-149",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-024",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-149-YEAR": {
+    "knowledgeId": "K-FF-149-YEAR",
+    "difficulty": "mittel",
+    "question": "„Das fünfte Element“: In welchem Jahr erschien der Film von Luc Besson erstmals?",
+    "answers": [
+      {
+        "id": "FF-149-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-149-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      },
+      {
+        "id": "FF-149-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-149-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-149-YEAR:y1997",
+    "explanation": "„Das fünfte Element“ wurde erstmals 1997 veröffentlicht.",
+    "context": "„Das fünfte Element“ erschien 1997, nachdem Bessons „Léon – Der Profi“ 1994 herausgekommen war. Zwischen dem Auftragsmörderfilm und der Weltraumgeschichte liegen drei Jahre.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Fifth_Element",
+      "https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional"
+    ],
+    "metadata": {
+      "film_title_de": "Das fünfte Element",
+      "film_title_original": "The Fifth Element",
+      "film_year": "1997",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-149",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-024",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-143-YEAR": {
+    "knowledgeId": "K-FF-143-YEAR",
+    "difficulty": "mittel",
+    "question": "„Der Marsianer – Rettet Mark Watney“: In welchem Jahr erschien der Film von Ridley Scott erstmals?",
+    "answers": [
+      {
+        "id": "FF-143-YEAR:y2015",
+        "text": "2015",
+        "feedback": ""
+      },
+      {
+        "id": "FF-143-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-143-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-143-YEAR:y2017",
+        "text": "2017",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-143-YEAR:y2015",
+    "explanation": "„Der Marsianer – Rettet Mark Watney“ wurde erstmals 2015 veröffentlicht.",
+    "context": "2015 flog die Sonde New Horizons an Pluto vorbei und lieferte die ersten Nahaufnahmen. Im selben Jahr wurde „Der Marsianer“ erstmals gezeigt. Die reale Erkundung und die erfundene Rettungsmission bieten einen gemeinsamen Raumfahrtanker.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Martian_(film)",
+      "https://science.nasa.gov/mission/new-horizons/"
+    ],
+    "metadata": {
+      "film_title_de": "Der Marsianer – Rettet Mark Watney",
+      "film_title_original": "The Martian",
+      "film_year": "2015",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-143",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-018",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-329-DIRECTOR": {
+    "knowledgeId": "K-FF-329-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Der Tag, an dem die Erde stillstand“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-329-DIRECTOR:a",
+        "text": "Robert Wise",
+        "feedback": ""
+      },
+      {
+        "id": "FF-329-DIRECTOR:b",
+        "text": "Byron Haskin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-329-DIRECTOR:c",
+        "text": "Fred M. Wilcox",
+        "feedback": ""
+      },
+      {
+        "id": "FF-329-DIRECTOR:d",
+        "text": "George Pal",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-329-DIRECTOR:a",
+    "explanation": "Robert Wise führte Regie.",
+    "context": "Edmund H. North schrieb das Drehbuch nach Harry Bates’ Erzählung. Klaatu (Michael Rennie) begegnet in Washington sowohl Militärs als auch dem Kind Bobby (Billy Gray) und dem Wissenschaftler Barnhardt (Sam Jaffe); jede Gruppe reagiert anders auf ihn.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still"
+    ],
+    "metadata": {
+      "film_title_de": "Der Tag, an dem die Erde stillstand",
+      "film_title_original": "The Day the Earth Stood Still",
+      "film_year": "1951",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-329",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-007",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-329-YEAR": {
+    "knowledgeId": "K-FF-329-YEAR",
+    "difficulty": "mittel",
+    "question": "„Der Tag, an dem die Erde stillstand“: In welchem Jahr erschien der Film von Robert Wise erstmals?",
+    "answers": [
+      {
+        "id": "FF-329-YEAR:y1951",
+        "text": "1951",
+        "feedback": ""
+      },
+      {
+        "id": "FF-329-YEAR:y1947",
+        "text": "1947",
+        "feedback": ""
+      },
+      {
+        "id": "FF-329-YEAR:y1949",
+        "text": "1949",
+        "feedback": ""
+      },
+      {
+        "id": "FF-329-YEAR:y1953",
+        "text": "1953",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-329-YEAR:y1951",
+    "explanation": "„Der Tag, an dem die Erde stillstand“ wurde erstmals 1951 veröffentlicht.",
+    "context": "„Der Tag, an dem die Erde stillstand“ erschien 1951, zwei Jahre vor „Kampf der Welten“ von 1953. Der Besucher mit seiner Warnung und die angreifenden Invasoren gehören damit in dieselbe frühe Phase des Science-Fiction-Kinos der fünfziger Jahre.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still",
+      "https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1953_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der Tag, an dem die Erde stillstand",
+      "film_title_original": "The Day the Earth Stood Still",
+      "film_year": "1951",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-329",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-007",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-339-DIRECTOR": {
+    "knowledgeId": "K-FF-339-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Die Fliege“: Wer führte bei der Fassung mit Jeff Goldblum als Seth Brundle Regie?",
+    "answers": [
+      {
+        "id": "FF-339-DIRECTOR:a",
+        "text": "David Cronenberg",
+        "feedback": ""
+      },
+      {
+        "id": "FF-339-DIRECTOR:b",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-339-DIRECTOR:c",
+        "text": "Leonard Nimoy",
+        "feedback": ""
+      },
+      {
+        "id": "FF-339-DIRECTOR:d",
+        "text": "Robert Zemeckis",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-339-DIRECTOR:a",
+    "explanation": "David Cronenberg führte Regie.",
+    "context": "Cronenberg und Effektgestalter Chris Walas hatten bereits bei „Scanners“ zusammengearbeitet. Für den neuen Film musste Walas die schrittweise Verwandlung vorausplanen, während der Dreh bereits näher rückte: Statt der von ihm benötigten sechs Monate standen nur drei zur Verfügung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Fly_(1986_film)",
+      "https://www.inverse.com/entertainment/the-fly-retrospective-chris-walas-interview"
+    ],
+    "metadata": {
+      "film_title_de": "Die Fliege",
+      "film_title_original": "The Fly",
+      "film_year": "1986",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-339",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-027",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-339-YEAR": {
+    "knowledgeId": "K-FF-339-YEAR",
+    "difficulty": "mittel",
+    "question": "„Die Fliege“: In welchem Jahr erschien der Film von David Cronenberg erstmals?",
+    "answers": [
+      {
+        "id": "FF-339-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      },
+      {
+        "id": "FF-339-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-339-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-339-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-339-YEAR:y1986",
+    "explanation": "„Die Fliege“ wurde erstmals 1986 veröffentlicht.",
+    "context": "Cronenbergs „Die Fliege“ erschien 1986, fünf Jahre nach seinem „Scanners“ von 1981. Effektgestalter Chris Walas arbeitete an beiden Filmen mit; die erneute Zusammenarbeit verbindet die beiden Daten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Fly_(1986_film)",
+      "https://www.inverse.com/entertainment/the-fly-retrospective-chris-walas-interview"
+    ],
+    "metadata": {
+      "film_title_de": "Die Fliege",
+      "film_title_original": "The Fly",
+      "film_year": "1986",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-339",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-027",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-157-DIRECTOR": {
+    "knowledgeId": "K-FF-157-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Die totale Erinnerung – Total Recall“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-157-DIRECTOR:a",
+        "text": "Paul Verhoeven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-157-DIRECTOR:b",
+        "text": "Robert Zemeckis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-157-DIRECTOR:c",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-157-DIRECTOR:d",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-157-DIRECTOR:a",
+    "explanation": "Paul Verhoeven führte Regie.",
+    "context": "Michael Ironside musste für Richter vorsprechen, obwohl Verhoeven ihn bereits kannte. Dabei filmte der Regisseur ihn selbst mit einer Videokamera. Die improvisierte Situation zeigte Ironside emotional aufgelöst am Boden; so wollte Verhoeven seine Eignung für die Rolle demonstrieren.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)",
+      "https://www.bfi.org.uk/interviews/total-recall-paul-verhoeven-michael-ironside"
+    ],
+    "metadata": {
+      "film_title_de": "Die totale Erinnerung – Total Recall",
+      "film_title_original": "Total Recall",
+      "film_year": "1990",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-157",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-032",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-157-YEAR": {
+    "knowledgeId": "K-FF-157-YEAR",
+    "difficulty": "mittel",
+    "question": "„Die totale Erinnerung – Total Recall“: In welchem Jahr erschien der Film von Paul Verhoeven erstmals?",
+    "answers": [
+      {
+        "id": "FF-157-YEAR:y1990",
+        "text": "1990",
+        "feedback": ""
+      },
+      {
+        "id": "FF-157-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      },
+      {
+        "id": "FF-157-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      },
+      {
+        "id": "FF-157-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-157-YEAR:y1990",
+    "explanation": "„Die totale Erinnerung – Total Recall“ wurde erstmals 1990 veröffentlicht.",
+    "context": "„Total Recall“ erschien 1990. Am 24. April desselben Jahres startete die Raumfähre Discovery mit dem Weltraumteleskop Hubble. Reale Raumfahrt und die erfundene Reise auf den Mars gehören damit in denselben Jahrgang.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Total_Recall_(1990_film)",
+      "https://science.nasa.gov/mission/hubble/overview/the-history-of-hubble/"
+    ],
+    "metadata": {
+      "film_title_de": "Die totale Erinnerung – Total Recall",
+      "film_title_original": "Total Recall",
+      "film_year": "1990",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-157",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-032",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-146-DIRECTOR": {
+    "knowledgeId": "K-FF-146-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Die Truman Show“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-146-DIRECTOR:a",
+        "text": "Peter Weir",
+        "feedback": ""
+      },
+      {
+        "id": "FF-146-DIRECTOR:b",
+        "text": "Alex Proyas",
+        "feedback": ""
+      },
+      {
+        "id": "FF-146-DIRECTOR:c",
+        "text": "Barry Sonnenfeld",
+        "feedback": ""
+      },
+      {
+        "id": "FF-146-DIRECTOR:d",
+        "text": "Luc Besson",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-146-DIRECTOR:a",
+    "explanation": "Peter Weir führte Regie.",
+    "context": "Weir und Kameramann Peter Biziou übernahmen den Glanz von Fernsehwerbung: helle Räume, kräftige Aufhellung und teilweise extreme Weitwinkel. Die Welt sollte leicht künstlich wirken, ohne so offensichtlich falsch auszusehen, dass Truman (Jim Carrey) sie sofort durchschauen müsste.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Truman_Show",
+      "https://theasc.com/article/the-truman-show-cinematography/"
+    ],
+    "metadata": {
+      "film_title_de": "Die Truman Show",
+      "film_title_original": "The Truman Show",
+      "film_year": "1998",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-146",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-021",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-146-YEAR": {
+    "knowledgeId": "K-FF-146-YEAR",
+    "difficulty": "mittel",
+    "question": "„Die Truman Show“: In welchem Jahr erschien der Film von Peter Weir erstmals?",
+    "answers": [
+      {
+        "id": "FF-146-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      },
+      {
+        "id": "FF-146-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-146-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      },
+      {
+        "id": "FF-146-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-146-YEAR:y1998",
+    "explanation": "„Die Truman Show“ wurde erstmals 1998 veröffentlicht.",
+    "context": "Andrew Niccol entwarf den Stoff 1991 zunächst als düsteren Science-Fiction-Thriller in New York. Sieben Jahre später erschien 1998 Peter Weirs Verfilmung. Der Regisseur hatte die Geschichte komischer angelegt und die künstliche Fernsehwelt in die helle Planstadt Seahaven verlegt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Truman_Show"
+    ],
+    "metadata": {
+      "film_title_de": "Die Truman Show",
+      "film_title_original": "The Truman Show",
+      "film_year": "1998",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-146",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-021",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-331-DIRECTOR": {
+    "knowledgeId": "K-FF-331-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Die Zeitmaschine“: Wer führte bei der Fassung mit Rod Taylor als George Regie?",
+    "answers": [
+      {
+        "id": "FF-331-DIRECTOR:a",
+        "text": "George Pal",
+        "feedback": ""
+      },
+      {
+        "id": "FF-331-DIRECTOR:b",
+        "text": "Fred M. Wilcox",
+        "feedback": ""
+      },
+      {
+        "id": "FF-331-DIRECTOR:c",
+        "text": "Byron Haskin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-331-DIRECTOR:d",
+        "text": "Stanley Kubrick",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-331-DIRECTOR:a",
+    "explanation": "George Pal führte Regie.",
+    "context": "David Duncan schrieb das Drehbuch nach H. G. Wells. Das Projekt gelangte über Pals Kontakte zum britischen MGM-Studio in die Produktion. Rod Taylor erhielt die Hauptrolle, nachdem zuvor etabliertere Darsteller wie James Mason erwogen worden waren.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)",
+      "https://www.tcm.com/articles/29934/the-time-machine-1960"
+    ],
+    "metadata": {
+      "film_title_de": "Die Zeitmaschine",
+      "film_title_original": "The Time Machine",
+      "film_year": "1960",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-331",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-011",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-331-YEAR": {
+    "knowledgeId": "K-FF-331-YEAR",
+    "difficulty": "mittel",
+    "question": "„Die Zeitmaschine“: In welchem Jahr erschien der Film von George Pal erstmals?",
+    "answers": [
+      {
+        "id": "FF-331-YEAR:y1960",
+        "text": "1960",
+        "feedback": ""
+      },
+      {
+        "id": "FF-331-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      },
+      {
+        "id": "FF-331-YEAR:y1958",
+        "text": "1958",
+        "feedback": ""
+      },
+      {
+        "id": "FF-331-YEAR:y1962",
+        "text": "1962",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-331-YEAR:y1960",
+    "explanation": "„Die Zeitmaschine“ wurde erstmals 1960 veröffentlicht.",
+    "context": "„Die Zeitmaschine“ erschien 1960, sieben Jahre nach „Kampf der Welten“ von 1953. Beide Filme bearbeiten H. G. Wells. George Pal produzierte den früheren Invasionsfilm; bei der Zeitreiseverfilmung übernahm er zusätzlich selbst die Regie.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)",
+      "https://www.tcm.com/articles/188880/the-war-of-the-worlds-1953-the-war-of-the-worlds-b-1953"
+    ],
+    "metadata": {
+      "film_title_de": "Die Zeitmaschine",
+      "film_title_original": "The Time Machine",
+      "film_year": "1960",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-331",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-011",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-330-DIRECTOR": {
+    "knowledgeId": "K-FF-330-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„Kampf der Welten“: Wer führte bei der Fassung mit Gene Barry als Forrester Regie?",
+    "answers": [
+      {
+        "id": "FF-330-DIRECTOR:a",
+        "text": "Byron Haskin",
+        "feedback": ""
+      },
+      {
+        "id": "FF-330-DIRECTOR:b",
+        "text": "Robert Wise",
+        "feedback": ""
+      },
+      {
+        "id": "FF-330-DIRECTOR:c",
+        "text": "Fred M. Wilcox",
+        "feedback": ""
+      },
+      {
+        "id": "FF-330-DIRECTOR:d",
+        "text": "George Pal",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-330-DIRECTOR:a",
+    "explanation": "Byron Haskin führte Regie.",
+    "context": "Produzent George Pal holte Haskin früh in die Stoffentwicklung. Dieser hatte zuvor die Trickabteilung von Warner Bros. geleitet. Seine Erfahrung war für einen Film besonders relevant, dessen Invasion weitgehend von Modellen und optischen Effekten getragen wird.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1953_film)",
+      "https://www.tcm.com/articles/188880/the-war-of-the-worlds-1953-the-war-of-the-worlds-b-1953"
+    ],
+    "metadata": {
+      "film_title_de": "Kampf der Welten",
+      "film_title_original": "The War of the Worlds",
+      "film_year": "1953",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-330",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-009",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-330-YEAR": {
+    "knowledgeId": "K-FF-330-YEAR",
+    "difficulty": "schwer",
+    "question": "„Kampf der Welten“: In welchem Jahr erschien der Film von Byron Haskin erstmals?",
+    "answers": [
+      {
+        "id": "FF-330-YEAR:y1953",
+        "text": "1953",
+        "feedback": ""
+      },
+      {
+        "id": "FF-330-YEAR:y1949",
+        "text": "1949",
+        "feedback": ""
+      },
+      {
+        "id": "FF-330-YEAR:y1951",
+        "text": "1951",
+        "feedback": ""
+      },
+      {
+        "id": "FF-330-YEAR:y1954",
+        "text": "1954",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-330-YEAR:y1953",
+    "explanation": "„Kampf der Welten“ wurde erstmals 1953 veröffentlicht.",
+    "context": "Der Roman von H. G. Wells erschien 1898, die erste Kinoverfilmung 1953. Zwischen Buch und Film liegen damit 55 Jahre; die Handlung wurde für die Verfilmung in die Gegenwart versetzt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1953_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Kampf der Welten",
+      "film_title_original": "The War of the Worlds",
+      "film_year": "1953",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-330",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-009",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-333-DIRECTOR": {
+    "knowledgeId": "K-FF-333-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Lautlos im Weltraum“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-333-DIRECTOR:a",
+        "text": "Douglas Trumbull",
+        "feedback": ""
+      },
+      {
+        "id": "FF-333-DIRECTOR:b",
+        "text": "Andrei Tarkovsky",
+        "feedback": ""
+      },
+      {
+        "id": "FF-333-DIRECTOR:c",
+        "text": "Richard Fleischer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-333-DIRECTOR:d",
+        "text": "George Lucas",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-333-DIRECTOR:a",
+    "explanation": "Douglas Trumbull führte Regie.",
+    "context": "Douglas Trumbull hatte zuvor an den Effekten von 2001: Odyssee im Weltraum und Andromeda mitgearbeitet. Für sein Regiedebüt erhielt er bei Universal ein begrenztes Budget und das Recht auf den endgültigen Schnitt.",
+    "sources": [
+      "https://catalog.afi.com/Film/54648-SILENT-RUNNING"
+    ],
+    "metadata": {
+      "film_title_de": "Lautlos im Weltraum",
+      "film_title_original": "Silent Running",
+      "film_year": "1972",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-333",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-015",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-333-YEAR": {
+    "knowledgeId": "K-FF-333-YEAR",
+    "difficulty": "mittel",
+    "question": "„Lautlos im Weltraum“: In welchem Jahr erschien der Film von Douglas Trumbull erstmals?",
+    "answers": [
+      {
+        "id": "FF-333-YEAR:y1972",
+        "text": "1972",
+        "feedback": ""
+      },
+      {
+        "id": "FF-333-YEAR:y1968",
+        "text": "1968",
+        "feedback": ""
+      },
+      {
+        "id": "FF-333-YEAR:y1970",
+        "text": "1970",
+        "feedback": ""
+      },
+      {
+        "id": "FF-333-YEAR:y1973",
+        "text": "1973",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-333-YEAR:y1972",
+    "explanation": "„Lautlos im Weltraum“ wurde erstmals 1972 veröffentlicht.",
+    "context": "Lautlos im Weltraum erschien 1972. Im Dezember desselben Jahres fand mit Apollo 17 die letzte Mondlandung des Apollo-Programms statt. Während die reale Mission Gesteine zur Erde brachte, zeigt der Film eine Zukunft, in der irdische Lebensräume ins All ausgelagert sind.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Silent_Running",
+      "https://www.nasa.gov/mission/apollo-17/"
+    ],
+    "metadata": {
+      "film_title_de": "Lautlos im Weltraum",
+      "film_title_original": "Silent Running",
+      "film_year": "1972",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-333",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-015",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-128-DIRECTOR": {
+    "knowledgeId": "K-FF-128-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Matrix“: Wer führte gemeinsam Regie?",
+    "answers": [
+      {
+        "id": "FF-128-DIRECTOR:a",
+        "text": "Lana Wachowski und Lilly Wachowski",
+        "feedback": ""
+      },
+      {
+        "id": "FF-128-DIRECTOR:b",
+        "text": "Joel Coen und Ethan Coen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-128-DIRECTOR:c",
+        "text": "Jackie Chan und Eric Tsang",
+        "feedback": ""
+      },
+      {
+        "id": "FF-128-DIRECTOR:d",
+        "text": "Jim Henson und Frank Oz",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-128-DIRECTOR:a",
+    "explanation": "Lana Wachowski und Lilly Wachowski führten Regie.",
+    "context": "Gedreht wurde in Sydney. Für die fiktive Großstadt ließ das Team im Hintergrund auffällige Wahrzeichen wie Opernhaus und Hafenbrücke entfernen. So sollte der Schauplatz als unbenannte Stadt funktionieren.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Matrix",
+      "https://www.matrixfans.net/movies/the-matrix/the-making-of-the-matrix/"
+    ],
+    "metadata": {
+      "film_title_de": "Matrix",
+      "film_title_original": "The Matrix",
+      "film_year": "1999",
+      "subdomain": "Science-Fiction",
+      "franchise": "Matrix",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-128",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-003",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-128-YEAR": {
+    "knowledgeId": "K-FF-128-YEAR",
+    "difficulty": "mittel",
+    "question": "„Matrix“: In welchem Jahr erschien der Film von Lana Wachowski und Lilly Wachowski erstmals?",
+    "answers": [
+      {
+        "id": "FF-128-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      },
+      {
+        "id": "FF-128-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-128-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-128-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-128-YEAR:y1999",
+    "explanation": "„Matrix“ wurde erstmals 1999 veröffentlicht.",
+    "context": "„Matrix“ erschien 1999 als erster Kinofilm der Reihe. Vier Jahre später folgten 2003 gleich zwei Fortsetzungen: „Matrix Reloaded“ und „Matrix Revolutions“. Der erste Film etablierte damit eine Welt, deren weitere Geschichte anschließend in zwei zusammenhängenden Kinofilmen ausgebaut wurde.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Matrix"
+    ],
+    "metadata": {
+      "film_title_de": "Matrix",
+      "film_title_original": "The Matrix",
+      "film_year": "1999",
+      "subdomain": "Science-Fiction",
+      "franchise": "Matrix",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-128",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-003",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-129-DIRECTOR": {
+    "knowledgeId": "K-FF-129-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Matrix Reloaded“: Wer führte gemeinsam Regie?",
+    "answers": [
+      {
+        "id": "FF-129-DIRECTOR:a",
+        "text": "Lana Wachowski und Lilly Wachowski",
+        "feedback": ""
+      },
+      {
+        "id": "FF-129-DIRECTOR:b",
+        "text": "Joel Coen und Ethan Coen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-129-DIRECTOR:c",
+        "text": "Jackie Chan und Eric Tsang",
+        "feedback": ""
+      },
+      {
+        "id": "FF-129-DIRECTOR:d",
+        "text": "Jim Henson und Frank Oz",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-129-DIRECTOR:a",
+    "explanation": "Lana Wachowski und Lilly Wachowski führten Regie.",
+    "context": "Die beiden Wachowskis schrieben auch das Drehbuch. Die Vorbereitung nutzte ausführliche Storyboards und vorab animierte Abläufe. Effektleiter Clay Pinney beschreibt, wie eng die spätere Fahrzeugaktion diesen Vorlagen folgte.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+      "https://www.matrixfans.net/interview-with-clay-pinney-special-effects-supervisor-from-the-matrix-reloaded-and-revolutions-2003/"
+    ],
+    "metadata": {
+      "film_title_de": "Matrix Reloaded",
+      "film_title_original": "The Matrix Reloaded",
+      "film_year": "2003",
+      "subdomain": "Science-Fiction",
+      "franchise": "Matrix",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-129",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-004",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-129-YEAR": {
+    "knowledgeId": "K-FF-129-YEAR",
+    "difficulty": "mittel",
+    "question": "„Matrix Reloaded“: In welchem Jahr erschien der Film von Lana Wachowski und Lilly Wachowski erstmals?",
+    "answers": [
+      {
+        "id": "FF-129-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-129-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      },
+      {
+        "id": "FF-129-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      },
+      {
+        "id": "FF-129-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-129-YEAR:y2003",
+    "explanation": "„Matrix Reloaded“ wurde erstmals 2003 veröffentlicht.",
+    "context": "„Matrix Reloaded“ erschien 2003, im Jahr der verkündeten Fertigstellung des Humangenomprojekts. Mit „Matrix Revolutions“ folgte die nächste Fortsetzung noch im November desselben Jahres.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Matrix_Reloaded",
+      "https://www.genome.gov/11006929/2003-release-international-consortium-completes-hgp"
+    ],
+    "metadata": {
+      "film_title_de": "Matrix Reloaded",
+      "film_title_original": "The Matrix Reloaded",
+      "film_year": "2003",
+      "subdomain": "Science-Fiction",
+      "franchise": "Matrix",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-129",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-004",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-347-DIRECTOR": {
+    "knowledgeId": "K-FF-347-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Prometheus – Dunkle Zeichen“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-347-DIRECTOR:a",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-347-DIRECTOR:b",
+        "text": "Rian Johnson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-347-DIRECTOR:c",
+        "text": "Andrew Stanton",
+        "feedback": ""
+      },
+      {
+        "id": "FF-347-DIRECTOR:d",
+        "text": "Bong Joon Ho",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-347-DIRECTOR:a",
+    "explanation": "Ridley Scott führte Regie.",
+    "context": "Ridley Scott kehrte mit diesem Film in das Universum von Alien zurück. Es war sein erster digital und mit 3D-Kameras gedrehter Film. Arthur Max entwarf überwiegend tatsächlich gebaute Kulissen.",
+    "sources": [
+      "https://d23.com/prometheus-10th-anniversary-celebration/"
+    ],
+    "metadata": {
+      "film_title_de": "Prometheus – Dunkle Zeichen",
+      "film_title_original": "Prometheus",
+      "film_year": "2012",
+      "subdomain": "Science-Fiction",
+      "franchise": "Alien",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-347",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-043",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-347-YEAR": {
+    "knowledgeId": "K-FF-347-YEAR",
+    "difficulty": "mittel",
+    "question": "„Prometheus – Dunkle Zeichen“: In welchem Jahr erschien der Film von Ridley Scott erstmals?",
+    "answers": [
+      {
+        "id": "FF-347-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      },
+      {
+        "id": "FF-347-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-347-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      },
+      {
+        "id": "FF-347-YEAR:y2016",
+        "text": "2016",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-347-YEAR:y2012",
+    "explanation": "„Prometheus – Dunkle Zeichen“ wurde erstmals 2012 veröffentlicht.",
+    "context": "Prometheus erschien 2012, 33 Jahre nach Scotts Alien von 1979. Die Geschichte führt in dieselbe Filmwelt zurück, spielt innerhalb ihrer Chronologie aber vor der Begegnung der Nostromo-Besatzung mit dem Alien.",
+    "sources": [
+      "https://d23.com/prometheus-10th-anniversary-celebration/"
+    ],
+    "metadata": {
+      "film_title_de": "Prometheus – Dunkle Zeichen",
+      "film_title_original": "Prometheus",
+      "film_year": "2012",
+      "subdomain": "Science-Fiction",
+      "franchise": "Alien",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-347",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-043",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-158-DIRECTOR": {
+    "knowledgeId": "K-FF-158-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„RoboCop“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-158-DIRECTOR:a",
+        "text": "Paul Verhoeven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-158-DIRECTOR:b",
+        "text": "John McTiernan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-158-DIRECTOR:c",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-158-DIRECTOR:d",
+        "text": "Leonard Nimoy",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-158-DIRECTOR:a",
+    "explanation": "Paul Verhoeven führte Regie.",
+    "context": "Paul Verhoeven inszenierte den Film mit Peter Weller als Alex Murphy. Weller entwickelte die körperliche Darstellung gemeinsam mit Moni Yakim. Die Rolle verlangte, trotz des Kostüms sowohl maschinelle Abläufe als auch Reste eines Menschen erkennbar zu machen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/RoboCop",
+      "https://www.starburstmagazine.com/features/peter-weller/"
+    ],
+    "metadata": {
+      "film_title_de": "RoboCop",
+      "film_title_original": "RoboCop",
+      "film_year": "1987",
+      "subdomain": "Science-Fiction",
+      "franchise": "RoboCop",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-158",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-033",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-158-YEAR": {
+    "knowledgeId": "K-FF-158-YEAR",
+    "difficulty": "mittel",
+    "question": "„RoboCop“: In welchem Jahr erschien der Film von Paul Verhoeven erstmals?",
+    "answers": [
+      {
+        "id": "FF-158-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      },
+      {
+        "id": "FF-158-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      },
+      {
+        "id": "FF-158-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      },
+      {
+        "id": "FF-158-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-158-YEAR:y1987",
+    "explanation": "„RoboCop“ wurde erstmals 1987 veröffentlicht.",
+    "context": "1987 erschüttert der Börsenkrach am sogenannten Schwarzen Montag die Finanzwelt. Im selben Jahr zeigt „RoboCop“ einen Konzern, der Polizeiarbeit und Menschenkörper zum Geschäft macht. Börsenpanik und Konzernsatire verbinden zwei Bilder der Macht des Geldes.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/RoboCop",
+      "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987"
+    ],
+    "metadata": {
+      "film_title_de": "RoboCop",
+      "film_title_original": "RoboCop",
+      "film_year": "1987",
+      "subdomain": "Science-Fiction",
+      "franchise": "RoboCop",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-158",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-033",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-374-DIRECTOR": {
+    "knowledgeId": "K-FF-374-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Sie leben“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-374-DIRECTOR:a",
+        "text": "John Carpenter",
+        "feedback": ""
+      },
+      {
+        "id": "FF-374-DIRECTOR:b",
+        "text": "Robert Zemeckis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-374-DIRECTOR:c",
+        "text": "Paul Verhoeven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-374-DIRECTOR:d",
+        "text": "John McTiernan",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-374-DIRECTOR:a",
+    "explanation": "John Carpenter führte Regie.",
+    "context": "Carpenter schrieb auch das Drehbuch, verwendete dafür jedoch das Pseudonym Frank Armitage. Die Musik entstand zusammen mit Alan Howarth. Damit bestimmte er neben der Inszenierung auch die sprachliche und musikalische Gestaltung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/They_Live"
+    ],
+    "metadata": {
+      "film_title_de": "Sie leben",
+      "film_title_original": "They Live",
+      "film_year": "1988",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-374",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-097",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-374-YEAR": {
+    "knowledgeId": "K-FF-374-YEAR",
+    "difficulty": "schwer",
+    "question": "„Sie leben“: In welchem Jahr erschien der Film von John Carpenter erstmals?",
+    "answers": [
+      {
+        "id": "FF-374-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      },
+      {
+        "id": "FF-374-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-374-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      },
+      {
+        "id": "FF-374-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-374-YEAR:y1988",
+    "explanation": "„Sie leben“ wurde erstmals 1988 veröffentlicht.",
+    "context": "„Sie leben“ erschien 1988, sechs Jahre nach Carpenters „Das Ding aus einer anderen Welt“ von 1982. Keith David spielte in beiden Filmen: dort Childs, hier Frank.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/They_Live",
+      "https://en.wikipedia.org/wiki/The_Thing_(1982_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Sie leben",
+      "film_title_original": "They Live",
+      "film_year": "1988",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-374",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-097",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-170-DIRECTOR": {
+    "knowledgeId": "K-FF-170-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Snowpiercer“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-170-DIRECTOR:a",
+        "text": "Bong Joon Ho",
+        "feedback": ""
+      },
+      {
+        "id": "FF-170-DIRECTOR:b",
+        "text": "Joseph Kosinski",
+        "feedback": ""
+      },
+      {
+        "id": "FF-170-DIRECTOR:c",
+        "text": "Christopher Nolan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-170-DIRECTOR:d",
+        "text": "Alex Garland",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-170-DIRECTOR:a",
+    "explanation": "Bong Joon Ho führte Regie.",
+    "context": "Bong Joon-ho führte Regie; Park Chan-wook gehörte zu den Produzenten. Bong hatte den französischen Comic in einer Seouler Buchhandlung entdeckt. Dessen Schwarzweißbilder waren ein Ausgangspunkt, während der Film besonders in den vorderen Wagen intensive Farben entwickelt.",
+    "sources": [
+      "https://screenanarchy.com/2013/11/exclusive-interview-bong-joon-ho-on-the-crew-and-influences-behind-snowpiercer-part-3-of-3.html"
+    ],
+    "metadata": {
+      "film_title_de": "Snowpiercer",
+      "film_title_original": "Snowpiercer",
+      "film_year": "2013",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-170",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-045",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-170-YEAR": {
+    "knowledgeId": "K-FF-170-YEAR",
+    "difficulty": "mittel",
+    "question": "„Snowpiercer“: In welchem Jahr erschien der Film von Bong Joon Ho erstmals?",
+    "answers": [
+      {
+        "id": "FF-170-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-170-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-170-YEAR:y2015",
+        "text": "2015",
+        "feedback": ""
+      },
+      {
+        "id": "FF-170-YEAR:y2017",
+        "text": "2017",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-170-YEAR:y2013",
+    "explanation": "„Snowpiercer“ wurde erstmals 2013 veröffentlicht.",
+    "context": "Snowpiercer wurde 2013 erstmals veröffentlicht. Bong Joon-ho hatte die Comicvorlage bereits 2005 entdeckt und Park Chan-wook gezeigt. Bevor er die Zuggeschichte verfilmte, stellte er noch The Host und Mother fertig.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Snowpiercer",
+      "https://screenanarchy.com/2013/11/exclusive-interview-bong-joon-ho-on-the-crew-and-influences-behind-snowpiercer-part-3-of-3.html"
+    ],
+    "metadata": {
+      "film_title_de": "Snowpiercer",
+      "film_title_original": "Snowpiercer",
+      "film_year": "2013",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-170",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-045",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-171-YEAR": {
+    "knowledgeId": "K-FF-171-YEAR",
+    "difficulty": "mittel",
+    "question": "„Source Code“: In welchem Jahr erschien der Film von Duncan Jones erstmals?",
+    "answers": [
+      {
+        "id": "FF-171-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-171-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-171-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-171-YEAR:y2015",
+        "text": "2015",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-171-YEAR:y2011",
+    "explanation": "„Source Code“ wurde erstmals 2011 veröffentlicht.",
+    "context": "Source Code hatte 2011 beim SXSW-Festival Premiere. Duncan Jones hatte 2009 mit Moon seinen ersten Kinolangfilm veröffentlicht. Zwei Jahre trennen die beiden Science-Fiction-Filme, die jeweils einen Mann in einer zunächst unverständlichen Lage zeigen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Source_Code",
+      "https://filmsandfestivals.britishcouncil.org/projects/moon"
+    ],
+    "metadata": {
+      "film_title_de": "Source Code",
+      "film_title_original": "Source Code",
+      "film_year": "2011",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-171",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-046",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-171-DIRECTOR": {
+    "knowledgeId": "K-FF-171-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„Source Code“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-171-DIRECTOR:a",
+        "text": "Duncan Jones",
+        "feedback": ""
+      },
+      {
+        "id": "FF-171-DIRECTOR:b",
+        "text": "Christopher Nolan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-171-DIRECTOR:c",
+        "text": "Rian Johnson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-171-DIRECTOR:d",
+        "text": "James Cameron",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-171-DIRECTOR:a",
+    "explanation": "Duncan Jones führte Regie.",
+    "context": "Duncan Jones kombinierte in Montreal gedrehte Innenräume mit Außenaufnahmen einer Bahnstrecke bei Chicago. Die Aussicht aus den Fenstern ist deshalb kein Beleg dafür, dass sich die Darsteller in einem real fahrenden Chicagoer Zug befanden.",
+    "sources": [
+      "https://www.slashfilm.com/513417/film-visits-editing-room-source-code-interviews-director-duncan-jones/"
+    ],
+    "metadata": {
+      "film_title_de": "Source Code",
+      "film_title_original": "Source Code",
+      "film_year": "2011",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-171",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-046",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-334-DIRECTOR": {
+    "knowledgeId": "K-FF-334-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Soylent Green – Jahr 2022… die überleben wollen“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-334-DIRECTOR:a",
+        "text": "Richard Fleischer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-334-DIRECTOR:b",
+        "text": "Andrei Tarkovsky",
+        "feedback": ""
+      },
+      {
+        "id": "FF-334-DIRECTOR:c",
+        "text": "Douglas Trumbull",
+        "feedback": ""
+      },
+      {
+        "id": "FF-334-DIRECTOR:d",
+        "text": "John Carpenter",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-334-DIRECTOR:a",
+    "explanation": "Richard Fleischer führte Regie.",
+    "context": "Richard Fleischer inszenierte die Verfilmung nach einem Drehbuch von Stanley R. Greenberg. Für die dargestellte Umweltkrise war Frank R. Bowman als technischer Berater genannt, ein Fachmann für Umweltingenieurwesen an der University of Southern California.",
+    "sources": [
+      "https://catalog.afi.com/Film/54405-SOYLENT-GREEN",
+      "https://www.afi.com/news/soylent-green-afi-catalog-spotlight/?campaign=751954"
+    ],
+    "metadata": {
+      "film_title_de": "Soylent Green – Jahr 2022… die überleben wollen",
+      "film_title_original": "Soylent Green",
+      "film_year": "1973",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-334",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-017",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-334-YEAR": {
+    "knowledgeId": "K-FF-334-YEAR",
+    "difficulty": "mittel",
+    "question": "„Soylent Green – Jahr 2022… die überleben wollen“: In welchem Jahr erschien der Film von Richard Fleischer erstmals?",
+    "answers": [
+      {
+        "id": "FF-334-YEAR:y1973",
+        "text": "1973",
+        "feedback": ""
+      },
+      {
+        "id": "FF-334-YEAR:y1971",
+        "text": "1971",
+        "feedback": ""
+      },
+      {
+        "id": "FF-334-YEAR:y1975",
+        "text": "1975",
+        "feedback": ""
+      },
+      {
+        "id": "FF-334-YEAR:y1977",
+        "text": "1977",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-334-YEAR:y1973",
+    "explanation": "„Soylent Green – Jahr 2022… die überleben wollen“ wurde erstmals 1973 veröffentlicht.",
+    "context": "Soylent Green erschien 1973. Harry Harrisons Roman Make Room! Make Room! war 1966 veröffentlicht worden, sieben Jahre zuvor. Der Film verlegt dessen Zukunft von 1999 auf 2022 und verändert wesentliche Teile der Geschichte.",
+    "sources": [
+      "https://catalog.afi.com/Film/54405-SOYLENT-GREEN",
+      "https://en.wikipedia.org/wiki/Soylent_Green"
+    ],
+    "metadata": {
+      "film_title_de": "Soylent Green – Jahr 2022… die überleben wollen",
+      "film_title_original": "Soylent Green",
+      "film_year": "1973",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-334",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-017",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-033-DIRECTOR": {
+    "knowledgeId": "K-FF-033-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Stalker“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-033-DIRECTOR:a",
+        "text": "Andrei Tarkovsky",
+        "feedback": ""
+      },
+      {
+        "id": "FF-033-DIRECTOR:b",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-033-DIRECTOR:c",
+        "text": "Irvin Kershner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-033-DIRECTOR:d",
+        "text": "George Lucas",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-033-DIRECTOR:a",
+    "explanation": "Andrei Tarkovsky führte Regie.",
+    "context": "Während der schwierigen Produktion wurde das Drehbuch immer weiter verändert. Kamerapraktikant Arvo Iho beschrieb den Wandel vom abenteuerlichen, gewalttätigen Führer zu einem Menschen, der Verzweifelten helfen möchte. Er verglich die spätere Gestalt mit Fürst Myschkin aus Dostojewskis „Der Idiot“.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stalker_(1979_film)",
+      "https://www.ulrichpolster.com/en/stalker/painted-with-light/"
+    ],
+    "metadata": {
+      "film_title_de": "Stalker",
+      "film_title_original": "Сталкер",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-033",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ART-L-015",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-033-YEAR": {
+    "knowledgeId": "K-FF-033-YEAR",
+    "difficulty": "mittel",
+    "question": "„Stalker“: In welchem Jahr erschien der Film von Andrei Tarkovsky erstmals?",
+    "answers": [
+      {
+        "id": "FF-033-YEAR:y1979",
+        "text": "1979",
+        "feedback": ""
+      },
+      {
+        "id": "FF-033-YEAR:y1975",
+        "text": "1975",
+        "feedback": ""
+      },
+      {
+        "id": "FF-033-YEAR:y1977",
+        "text": "1977",
+        "feedback": ""
+      },
+      {
+        "id": "FF-033-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-033-YEAR:y1979",
+    "explanation": "„Stalker“ wurde erstmals 1979 veröffentlicht.",
+    "context": "„Stalker“ kam 1979 nach einer schwierigen, über zwei Drehsommer verlaufenen Produktion heraus. Arvo Iho beobachtete den Dreh in Estland: Nach den frühen Aufnahmen wurde die Handlung weiter verändert und das Material erneut gedreht. Die endgültige Fassung entstand damit aus einer längeren Überarbeitung während der Herstellung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stalker_(1979_film)",
+      "https://www.ulrichpolster.com/en/stalker/painted-with-light/"
+    ],
+    "metadata": {
+      "film_title_de": "Stalker",
+      "film_title_original": "Сталкер",
+      "film_year": "1979",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-033",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ART-L-015",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-167-YEAR": {
+    "knowledgeId": "K-FF-167-YEAR",
+    "difficulty": "mittel",
+    "question": "„Star Trek II: Der Zorn des Khan“: In welchem Jahr erschien der Film von Nicholas Meyer erstmals?",
+    "answers": [
+      {
+        "id": "FF-167-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-167-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-167-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-167-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-167-YEAR:y1982",
+    "explanation": "„Star Trek II: Der Zorn des Khan“ wurde erstmals 1982 veröffentlicht.",
+    "context": "Der Zorn des Khan erschien 1982, drei Jahre nach Star Trek: Der Film von 1979. ILM übernahm für den zweiten Kinofilm die Effekte und verwendete unter anderem das bereits für den Vorgänger gebaute Enterprise-Modell weiter.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan",
+      "https://www.ilm.com/ilm-celebrates-60-years-star-trek-part-one/"
+    ],
+    "metadata": {
+      "film_title_de": "Star Trek II: Der Zorn des Khan",
+      "film_title_original": "Star Trek II: The Wrath of Khan",
+      "film_year": "1982",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Trek",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-167",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-SCIFI-027",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-167-DIRECTOR": {
+    "knowledgeId": "K-FF-167-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„Star Trek II: Der Zorn des Khan“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-167-DIRECTOR:a",
+        "text": "Nicholas Meyer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-167-DIRECTOR:b",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-167-DIRECTOR:c",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      },
+      {
+        "id": "FF-167-DIRECTOR:d",
+        "text": "John Badham",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-167-DIRECTOR:a",
+    "explanation": "Nicholas Meyer führte Regie.",
+    "context": "Nicholas Meyer führte Regie. Für die Ceti-Aale entwarf und formte Ken Ralston zunächst ein kleines Modell zur Freigabe. Anschließend führte er auch die größeren Kreaturen als Puppen und fotografierte ihre Nahaufnahmen.",
+    "sources": [
+      "https://www.ilm.com/ilm-celebrates-60-years-star-trek-part-one/"
+    ],
+    "metadata": {
+      "film_title_de": "Star Trek II: Der Zorn des Khan",
+      "film_title_original": "Star Trek II: The Wrath of Khan",
+      "film_year": "1982",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Trek",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-167",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-SCIFI-027",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-168-YEAR": {
+    "knowledgeId": "K-FF-168-YEAR",
+    "difficulty": "mittel",
+    "question": "„Star Trek IV: Zurück in die Gegenwart“: In welchem Jahr erschien der Film von Leonard Nimoy erstmals?",
+    "answers": [
+      {
+        "id": "FF-168-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      },
+      {
+        "id": "FF-168-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-168-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-168-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-168-YEAR:y1986",
+    "explanation": "„Star Trek IV: Zurück in die Gegenwart“ wurde erstmals 1986 veröffentlicht.",
+    "context": "Der vierte Star-Trek-Kinofilm erschien 1986. Das 1982 beschlossene Walfangmoratorium der Internationalen Walfangkommission galt ab der Saison 1985/86. Die Rettung der Filmwale steht damit zeitlich neben einer tatsächlichen internationalen Schutzmaßnahme.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home",
+      "https://iwc.int/management-and-conservation/whaling/commercial"
+    ],
+    "metadata": {
+      "film_title_de": "Star Trek IV: Zurück in die Gegenwart",
+      "film_title_original": "Star Trek IV: The Voyage Home",
+      "film_year": "1986",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Trek",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-168",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-043",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-169-YEAR": {
+    "knowledgeId": "K-FF-169-YEAR",
+    "difficulty": "mittel",
+    "question": "„Star Trek: Der erste Kontakt“: In welchem Jahr erschien der Film von Jonathan Frakes erstmals?",
+    "answers": [
+      {
+        "id": "FF-169-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      },
+      {
+        "id": "FF-169-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-169-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      },
+      {
+        "id": "FF-169-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-169-YEAR:y1996",
+    "explanation": "„Star Trek: Der erste Kontakt“ wurde erstmals 1996 veröffentlicht.",
+    "context": "Der erste Kontakt erschien 1996, im Jahr des dreißigsten Star-Trek-Jubiläums. Die ursprüngliche Fernsehserie hatte 1966 begonnen. Jonathan Frakes gab mit dem Film sein Kinoregie-Debüt, nachdem er bereits Episoden von Das nächste Jahrhundert inszeniert hatte.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Trek:_First_Contact",
+      "https://www.startrek.com/news/first-contacts-borg-queen-alice-krige"
+    ],
+    "metadata": {
+      "film_title_de": "Star Trek: Der erste Kontakt",
+      "film_title_original": "Star Trek: First Contact",
+      "film_year": "1996",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Trek",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-169",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-044",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-169-DIRECTOR": {
+    "knowledgeId": "K-FF-169-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„Star Trek: Der erste Kontakt“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-169-DIRECTOR:a",
+        "text": "Jonathan Frakes",
+        "feedback": ""
+      },
+      {
+        "id": "FF-169-DIRECTOR:b",
+        "text": "Roland Emmerich",
+        "feedback": ""
+      },
+      {
+        "id": "FF-169-DIRECTOR:c",
+        "text": "Barry Sonnenfeld",
+        "feedback": ""
+      },
+      {
+        "id": "FF-169-DIRECTOR:d",
+        "text": "Terry Gilliam",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-169-DIRECTOR:a",
+    "explanation": "Jonathan Frakes führte Regie.",
+    "context": "Jonathan Frakes, zugleich Darsteller von William Riker, gab hier sein Kinoregie-Debüt. Alice Krige, die Borg-Königin, erinnert sich daran, wie stark das eingespielte Ensemble seinen Kollegen bei diesem Schritt unterstützte.",
+    "sources": [
+      "https://www.startrek.com/news/first-contacts-borg-queen-alice-krige"
+    ],
+    "metadata": {
+      "film_title_de": "Star Trek: Der erste Kontakt",
+      "film_title_original": "Star Trek: First Contact",
+      "film_year": "1996",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Trek",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-169",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-044",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-164-DIRECTOR": {
+    "knowledgeId": "K-FF-164-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Star Wars: Episode IV – Eine neue Hoffnung“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-164-DIRECTOR:a",
+        "text": "George Lucas",
+        "feedback": ""
+      },
+      {
+        "id": "FF-164-DIRECTOR:b",
+        "text": "Andrei Tarkovsky",
+        "feedback": ""
+      },
+      {
+        "id": "FF-164-DIRECTOR:c",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-164-DIRECTOR:d",
+        "text": "Irvin Kershner",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-164-DIRECTOR:a",
+    "explanation": "George Lucas führte Regie.",
+    "context": "George Lucas wollte zunächst Flash Gordon verfilmen, erhielt die Rechte aber nicht. Für die eigene Weltraumoper griff er auch auf ältere Abenteuerliteratur zurück. Nach American Graffiti entwickelte er mehrere Fassungen des Stoffes, bevor 1976 die Dreharbeiten begannen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Wars_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Star Wars: Episode IV – Eine neue Hoffnung",
+      "film_title_original": "Star Wars",
+      "film_year": "1977",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Wars",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-164",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-039",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-164-YEAR": {
+    "knowledgeId": "K-FF-164-YEAR",
+    "difficulty": "leicht",
+    "question": "„Star Wars: Episode IV – Eine neue Hoffnung“: In welchem Jahr erschien der Film von George Lucas erstmals?",
+    "answers": [
+      {
+        "id": "FF-164-YEAR:y1977",
+        "text": "1977",
+        "feedback": ""
+      },
+      {
+        "id": "FF-164-YEAR:y1975",
+        "text": "1975",
+        "feedback": ""
+      },
+      {
+        "id": "FF-164-YEAR:y1979",
+        "text": "1979",
+        "feedback": ""
+      },
+      {
+        "id": "FF-164-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-164-YEAR:y1977",
+    "explanation": "„Star Wars: Episode IV – Eine neue Hoffnung“ wurde erstmals 1977 veröffentlicht.",
+    "context": "1977 starten die beiden Voyager-Sonden, während „Star Wars“ eine weit entfernte Galaxis ins Kino bringt. Reale Erkundung der äußeren Planeten und erfundener Weltraumaufbruch treffen sich in einem Jahr.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+      "https://www.jpl.nasa.gov/news/voyager-celebrates-its-10th-anniversary/"
+    ],
+    "metadata": {
+      "film_title_de": "Star Wars: Episode IV – Eine neue Hoffnung",
+      "film_title_original": "Star Wars",
+      "film_year": "1977",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Wars",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-164",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-039",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-165-YEAR": {
+    "knowledgeId": "K-FF-165-YEAR",
+    "difficulty": "mittel",
+    "question": "„Star Wars: Episode V – Das Imperium schlägt zurück“: In welchem Jahr erschien der Film von Irvin Kershner erstmals?",
+    "answers": [
+      {
+        "id": "FF-165-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-165-YEAR:y1976",
+        "text": "1976",
+        "feedback": ""
+      },
+      {
+        "id": "FF-165-YEAR:y1978",
+        "text": "1978",
+        "feedback": ""
+      },
+      {
+        "id": "FF-165-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-165-YEAR:y1980",
+    "explanation": "„Star Wars: Episode V – Das Imperium schlägt zurück“ wurde erstmals 1980 veröffentlicht.",
+    "context": "„Das Imperium schlägt zurück“ erschien 1980, drei Jahre nach „Krieg der Sterne“ von 1977. Die Handlung setzt ebenfalls nach einem mehrjährigen Abstand ein: Die Rebellen haben den Todesstern zerstört, müssen aber weiter vor dem Imperium fliehen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back"
+    ],
+    "metadata": {
+      "film_title_de": "Star Wars: Episode V – Das Imperium schlägt zurück",
+      "film_title_original": "The Empire Strikes Back",
+      "film_year": "1980",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Wars",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-165",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-040",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-165-DIRECTOR": {
+    "knowledgeId": "K-FF-165-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Das Imperium schlägt zurück“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-165-DIRECTOR:a",
+        "text": "Irvin Kershner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-165-DIRECTOR:b",
+        "text": "Andrei Tarkovsky",
+        "feedback": ""
+      },
+      {
+        "id": "FF-165-DIRECTOR:c",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-165-DIRECTOR:d",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-165-DIRECTOR:a",
+    "explanation": "Irvin Kershner führte Regie.",
+    "context": "George Lucas überließ Kershner die Regie, weil er zugleich Lucasfilm aufbauen und ILM nach Nordkalifornien verlegen wollte. Als die Produktion teurer und langsamer wurde als geplant, verbrachte er dennoch viel Zeit am Drehort in England.",
+    "sources": [
+      "https://www.starwars.com/news/empire-at-40-george-lucas-interview"
+    ],
+    "metadata": {
+      "film_title_de": "Star Wars: Episode V – Das Imperium schlägt zurück",
+      "film_title_original": "The Empire Strikes Back",
+      "film_year": "1980",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Wars",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-165",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-040",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-166-YEAR": {
+    "knowledgeId": "K-FF-166-YEAR",
+    "difficulty": "mittel",
+    "question": "„Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter“: In welchem Jahr erschien der Film von Richard Marquand erstmals?",
+    "answers": [
+      {
+        "id": "FF-166-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-166-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      },
+      {
+        "id": "FF-166-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      },
+      {
+        "id": "FF-166-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-166-YEAR:y1983",
+    "explanation": "„Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter“ wurde erstmals 1983 veröffentlicht.",
+    "context": "Die Rückkehr der Jedi-Ritter erschien 1983 und beendete die ursprüngliche Trilogie. Der Vorgänger Das Imperium schlägt zurück war 1980 erschienen. Zwischen dem zweiten und dritten Film lagen damit drei Jahre.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Return_of_the_Jedi"
+    ],
+    "metadata": {
+      "film_title_de": "Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter",
+      "film_title_original": "Return of the Jedi",
+      "film_year": "1983",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Wars",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-166",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-041",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-166-DIRECTOR": {
+    "knowledgeId": "K-FF-166-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-166-DIRECTOR:a",
+        "text": "Richard Marquand",
+        "feedback": ""
+      },
+      {
+        "id": "FF-166-DIRECTOR:b",
+        "text": "John Badham",
+        "feedback": ""
+      },
+      {
+        "id": "FF-166-DIRECTOR:c",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-166-DIRECTOR:d",
+        "text": "James Cameron",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-166-DIRECTOR:a",
+    "explanation": "Richard Marquand führte Regie.",
+    "context": "Richard Marquand führte Regie nach einem Drehbuch von Lawrence Kasdan und George Lucas. Für die aufwendigen Effekte teilte ILM die Arbeit in mehrere Bereiche auf: Dennis Muren betreute vor allem Wald- und Bodenszenen, Richard Edlund und Ken Ralston andere große Sequenzen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Return_of_the_Jedi",
+      "https://www.starwars.com/news/interview-dennis-muren-on-return-of-the-jedi"
+    ],
+    "metadata": {
+      "film_title_de": "Star Wars: Episode VI – Die Rückkehr der Jedi-Ritter",
+      "film_title_original": "Return of the Jedi",
+      "film_year": "1983",
+      "subdomain": "Science-Fiction",
+      "franchise": "Star Wars",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-166",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-041",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-163-DIRECTOR": {
+    "knowledgeId": "K-FF-163-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Stargate“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-163-DIRECTOR:a",
+        "text": "Roland Emmerich",
+        "feedback": ""
+      },
+      {
+        "id": "FF-163-DIRECTOR:b",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      },
+      {
+        "id": "FF-163-DIRECTOR:c",
+        "text": "Terry Gilliam",
+        "feedback": ""
+      },
+      {
+        "id": "FF-163-DIRECTOR:d",
+        "text": "Jonathan Frakes",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-163-DIRECTOR:a",
+    "explanation": "Roland Emmerich führte Regie.",
+    "context": "Roland Emmerich schrieb den Film gemeinsam mit Dean Devlin. Für die Wüstenstadt verband das Effektteam zwei tatsächlich gebaute Türme mit Miniaturen. Diese Modelle wurden in derselben Wüste vor Blau aufgenommen, damit die Beleuchtung zusammenpasste.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stargate_(film)",
+      "https://beforesandafters.com/2019/11/01/stargate-stories/"
+    ],
+    "metadata": {
+      "film_title_de": "Stargate",
+      "film_title_original": "Stargate",
+      "film_year": "1994",
+      "subdomain": "Science-Fiction",
+      "franchise": "Stargate",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-163",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-SCIFI-041",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-163-YEAR": {
+    "knowledgeId": "K-FF-163-YEAR",
+    "difficulty": "mittel",
+    "question": "„Stargate“: In welchem Jahr erschien der Film von Roland Emmerich erstmals?",
+    "answers": [
+      {
+        "id": "FF-163-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-163-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      },
+      {
+        "id": "FF-163-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      },
+      {
+        "id": "FF-163-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-163-YEAR:y1994",
+    "explanation": "„Stargate“ wurde erstmals 1994 veröffentlicht.",
+    "context": "1994 öffnet der Ärmelkanaltunnel; „Stargate“ öffnet im Kino ein Tor zu einer anderen Welt. Reale Eisenbahnverbindung und fantastischer Raumdurchgang geben zwei anschauliche Tunnelbilder für dasselbe Jahr.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Stargate_(film)",
+      "https://www.leshuttle.com/uk-en/discover/why-choose-leshuttle/build/the-channel-tunnel?viewmode=0"
+    ],
+    "metadata": {
+      "film_title_de": "Stargate",
+      "film_title_original": "Stargate",
+      "film_year": "1994",
+      "subdomain": "Science-Fiction",
+      "franchise": "Stargate",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-163",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-SCIFI-041",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-159-DIRECTOR": {
+    "knowledgeId": "K-FF-159-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Starship Troopers“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-159-DIRECTOR:a",
+        "text": "Paul Verhoeven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-159-DIRECTOR:b",
+        "text": "Barry Sonnenfeld",
+        "feedback": ""
+      },
+      {
+        "id": "FF-159-DIRECTOR:c",
+        "text": "Luc Besson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-159-DIRECTOR:d",
+        "text": "Andrew Niccol",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-159-DIRECTOR:a",
+    "explanation": "Paul Verhoeven führte Regie.",
+    "context": "Ein Test zeigte einen von einem digitalen Bug verfolgten Soldaten, gespielt vom Turner Mitch Gaylord. Phil Tippett und seine Mitstreiter führten ihn den Studioverantwortlichen vor. Damit konnten sie eine konkrete Vorstellung davon vermitteln, wie die geplanten Kreaturen auf der Leinwand funktionieren würden.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Starship_Troopers_(film)",
+      "https://www.cartoonbrew.com/feature-film/20-year-anniversary-creature-supervisor-phil-tippett-reflects-starship-troopers-153743.html"
+    ],
+    "metadata": {
+      "film_title_de": "Starship Troopers",
+      "film_title_original": "Starship Troopers",
+      "film_year": "1997",
+      "subdomain": "Science-Fiction",
+      "franchise": "Starship Troopers",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-159",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-034",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-159-YEAR": {
+    "knowledgeId": "K-FF-159-YEAR",
+    "difficulty": "mittel",
+    "question": "„Starship Troopers“: In welchem Jahr erschien der Film von Paul Verhoeven erstmals?",
+    "answers": [
+      {
+        "id": "FF-159-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-159-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-159-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      },
+      {
+        "id": "FF-159-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-159-YEAR:y1997",
+    "explanation": "„Starship Troopers“ wurde erstmals 1997 veröffentlicht.",
+    "context": "„Starship Troopers“ erschien 1997, zehn Jahre nach „RoboCop“ von 1987. Regisseur Paul Verhoeven arbeitete erneut mit Drehbuchautor Edward Neumeier. Die beiden griffen auch ihre früheren fingierten Nachrichten- und Werbesendungen wieder auf, diesmal für die Selbstdarstellung einer militarisierten Zukunftsgesellschaft.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Starship_Troopers_(film)",
+      "https://www.interviewmagazine.com/film/starship-troopers-fascist-satire-coming-true"
+    ],
+    "metadata": {
+      "film_title_de": "Starship Troopers",
+      "film_title_original": "Starship Troopers",
+      "film_year": "1997",
+      "subdomain": "Science-Fiction",
+      "franchise": "Starship Troopers",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-159",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-034",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-363-DIRECTOR": {
+    "knowledgeId": "K-FF-363-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Strange Days“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-363-DIRECTOR:a",
+        "text": "Kathryn Bigelow",
+        "feedback": ""
+      },
+      {
+        "id": "FF-363-DIRECTOR:b",
+        "text": "Terry Gilliam",
+        "feedback": ""
+      },
+      {
+        "id": "FF-363-DIRECTOR:c",
+        "text": "Roland Emmerich",
+        "feedback": ""
+      },
+      {
+        "id": "FF-363-DIRECTOR:d",
+        "text": "Jonathan Frakes",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-363-DIRECTOR:a",
+    "explanation": "Kathryn Bigelow führte Regie.",
+    "context": "Kathryn Bigelow entwickelte den Film mit James Cameron und Drehbuchautor Jay Cocks. Die Unruhen in Los Angeles von 1992 prägten ihre Vorstellung der Stadt. Bei den Aufräumarbeiten hatte sie selbst die zerstörten Straßenzüge und die militärische Präsenz erlebt.",
+    "sources": [
+      "https://cinephiliabeyond.org/strange-days-kathryn-bigelows-thrilling-sci-fi-doesnt-feel-strange/"
+    ],
+    "metadata": {
+      "film_title_de": "Strange Days",
+      "film_title_original": "Strange Days",
+      "film_year": "1995",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-363",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-075",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-363-YEAR": {
+    "knowledgeId": "K-FF-363-YEAR",
+    "difficulty": "mittel",
+    "question": "„Strange Days“: In welchem Jahr erschien der Film von Kathryn Bigelow erstmals?",
+    "answers": [
+      {
+        "id": "FF-363-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-363-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      },
+      {
+        "id": "FF-363-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      },
+      {
+        "id": "FF-363-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-363-YEAR:y1995",
+    "explanation": "„Strange Days“ wurde erstmals 1995 veröffentlicht.",
+    "context": "„Strange Days“ erschien 1995, spielt aber am Jahreswechsel 1999/2000. Bigelow rückte das erfundene Aufzeichnungsgerät damit in eine nur wenige Jahre entfernte Zukunft. Die angekündigte neue Jahrtausendwende ist zugleich ein konkreter Termin der Handlung: Auf den Straßen von Los Angeles versammeln sich die Menschen zur Feier.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Strange_Days_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Strange Days",
+      "film_title_original": "Strange Days",
+      "film_year": "1995",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-363",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-075",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-175-DIRECTOR": {
+    "knowledgeId": "K-FF-175-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Sunshine“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-175-DIRECTOR:a",
+        "text": "Danny Boyle",
+        "feedback": ""
+      },
+      {
+        "id": "FF-175-DIRECTOR:b",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-175-DIRECTOR:c",
+        "text": "Neill Blomkamp",
+        "feedback": ""
+      },
+      {
+        "id": "FF-175-DIRECTOR:d",
+        "text": "Duncan Jones",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-175-DIRECTOR:a",
+    "explanation": "Danny Boyle führte Regie.",
+    "context": "Danny Boyle und Kameramann Alwin H. Küchler beschränkten warme Farben im Schiffsinneren. Dadurch sollte der Wechsel zum Sonnenlicht stärker wirken. Feste Decken und zunehmend längere Brennweiten verdichteten den engen Raum der Icarus II.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sunshine_(2007_film)",
+      "https://theasc.com/article/sunshine-let-there-be-light/"
+    ],
+    "metadata": {
+      "film_title_de": "Sunshine",
+      "film_title_original": "Sunshine",
+      "film_year": "2007",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-175",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-SCIFI-050",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-175-YEAR": {
+    "knowledgeId": "K-FF-175-YEAR",
+    "difficulty": "mittel",
+    "question": "„Sunshine“: In welchem Jahr erschien der Film von Danny Boyle erstmals?",
+    "answers": [
+      {
+        "id": "FF-175-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      },
+      {
+        "id": "FF-175-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-175-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      },
+      {
+        "id": "FF-175-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-175-YEAR:y2007",
+    "explanation": "„Sunshine“ wurde erstmals 2007 veröffentlicht.",
+    "context": "„Sunshine“ erschien 2007. Kameramann Alwin Küchler hatte bereits 2002 einzelne Nachaufnahmen für Danny Boyles „28 Days Later“ übernommen. Fünf Jahre später gestaltete er erstmals einen ganzen Kinofilm mit Boyle – nun einen Weltraumflug, dessen Bilder die zunehmende Macht des Sonnenlichts vermitteln sollten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sunshine_(2007_film)",
+      "https://theasc.com/article/sunshine-let-there-be-light/"
+    ],
+    "metadata": {
+      "film_title_de": "Sunshine",
+      "film_title_original": "Sunshine",
+      "film_year": "2007",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-175",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-SCIFI-050",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-134-DIRECTOR": {
+    "knowledgeId": "K-FF-134-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Terminator“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-134-DIRECTOR:a",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-134-DIRECTOR:b",
+        "text": "Michael Radford",
+        "feedback": ""
+      },
+      {
+        "id": "FF-134-DIRECTOR:c",
+        "text": "Robert Zemeckis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-134-DIRECTOR:d",
+        "text": "John Badham",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-134-DIRECTOR:a",
+    "explanation": "James Cameron führte Regie.",
+    "context": "Cameron traf Schwarzenegger zunächst als möglichen Darsteller des menschlichen Beschützers Reese. Beim Gespräch interessierte sich der Schauspieler aber besonders für das Verhalten der Maschine. Schließlich spielte er den Terminator, während Michael Biehn Reese übernahm.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Terminator",
+      "https://www.bfi.org.uk/interviews/terminator-james-cameron"
+    ],
+    "metadata": {
+      "film_title_de": "Terminator",
+      "film_title_original": "The Terminator",
+      "film_year": "1984",
+      "subdomain": "Science-Fiction",
+      "franchise": "Terminator",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-134",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-009",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-134-YEAR": {
+    "knowledgeId": "K-FF-134-YEAR",
+    "difficulty": "mittel",
+    "question": "„Terminator“: In welchem Jahr erschien der Film von James Cameron erstmals?",
+    "answers": [
+      {
+        "id": "FF-134-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-134-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-134-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-134-YEAR:y1986",
+        "text": "1986",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-134-YEAR:y1984",
+    "explanation": "„Terminator“ wurde erstmals 1984 veröffentlicht.",
+    "context": "1984 stellte Apple den Macintosh vor; im selben Jahr erschien „Terminator“. Der neue persönliche Computer und die Maschine in Menschengestalt verankern zwei sehr unterschiedliche Technikbilder im Jahr 1984.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Terminator",
+      "https://www.computerhistory.org/timeline/1984/"
+    ],
+    "metadata": {
+      "film_title_de": "Terminator",
+      "film_title_original": "The Terminator",
+      "film_year": "1984",
+      "subdomain": "Science-Fiction",
+      "franchise": "Terminator",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-134",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-009",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-135-DIRECTOR": {
+    "knowledgeId": "K-FF-135-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„Terminator 2 – Tag der Abrechnung“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-135-DIRECTOR:a",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-135-DIRECTOR:b",
+        "text": "Robert Zemeckis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-135-DIRECTOR:c",
+        "text": "Paul Verhoeven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-135-DIRECTOR:d",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-135-DIRECTOR:a",
+    "explanation": "James Cameron führte Regie.",
+    "context": "James Cameron schrieb das Drehbuch mit William Wisher. Für den neuen Gegner verband ILM unter Dennis Muren Computeranimation mit digitaler Bildmontage. Muren hielt dabei konventionelle Ersatzlösungen bereit, falls einzelne digitale Einstellungen nicht gelingen sollten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day",
+      "https://theasc.com/article/terminator-2-fx/"
+    ],
+    "metadata": {
+      "film_title_de": "Terminator 2 – Tag der Abrechnung",
+      "film_title_original": "Terminator 2: Judgment Day",
+      "film_year": "1991",
+      "subdomain": "Science-Fiction",
+      "franchise": "Terminator",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-135",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-010",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-135-YEAR": {
+    "knowledgeId": "K-FF-135-YEAR",
+    "difficulty": "mittel",
+    "question": "„Terminator 2 – Tag der Abrechnung“: In welchem Jahr erschien der Film von James Cameron erstmals?",
+    "answers": [
+      {
+        "id": "FF-135-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      },
+      {
+        "id": "FF-135-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      },
+      {
+        "id": "FF-135-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      },
+      {
+        "id": "FF-135-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-135-YEAR:y1991",
+    "explanation": "„Terminator 2 – Tag der Abrechnung“ wurde erstmals 1991 veröffentlicht.",
+    "context": "„Terminator 2“ erschien 1991, sieben Jahre nach dem ersten „Terminator“ von 1984. In der Fortsetzung wird das zuvor mit Schwarzeneggers Erscheinungsbild verbundene Bedrohungsmuster zur Beschützerrolle umgekehrt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
+    ],
+    "metadata": {
+      "film_title_de": "Terminator 2 – Tag der Abrechnung",
+      "film_title_original": "Terminator 2: Judgment Day",
+      "film_year": "1991",
+      "subdomain": "Science-Fiction",
+      "franchise": "Terminator",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-135",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-010",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-371-DIRECTOR": {
+    "knowledgeId": "K-FF-371-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„The 13th Floor – Bist du, was du denkst?“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-371-DIRECTOR:a",
+        "text": "Josef Rusnak",
+        "feedback": ""
+      },
+      {
+        "id": "FF-371-DIRECTOR:b",
+        "text": "David Cronenberg",
+        "feedback": ""
+      },
+      {
+        "id": "FF-371-DIRECTOR:c",
+        "text": "Peter Weir",
+        "feedback": ""
+      },
+      {
+        "id": "FF-371-DIRECTOR:d",
+        "text": "Alex Proyas",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-371-DIRECTOR:a",
+    "explanation": "Josef Rusnak führte Regie.",
+    "context": "Rusnak arbeitete mit Ravel Centeno-Rodriguez am Drehbuch. Roland Emmerich gehörte zu den Produzenten. Die Hauptfigur wird durch Erinnerungslücken und belastende Spuren gezwungen, den Tod ihres Mentors in einer simulierten Vergangenheit zu untersuchen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Thirteenth_Floor"
+    ],
+    "metadata": {
+      "film_title_de": "The 13th Floor – Bist du, was du denkst?",
+      "film_title_original": "The Thirteenth Floor",
+      "film_year": "1999",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-371",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-091",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-371-YEAR": {
+    "knowledgeId": "K-FF-371-YEAR",
+    "difficulty": "mittel",
+    "question": "„The 13th Floor – Bist du, was du denkst?“: In welchem Jahr erschien der Film von Josef Rusnak erstmals?",
+    "answers": [
+      {
+        "id": "FF-371-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      },
+      {
+        "id": "FF-371-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-371-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-371-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-371-YEAR:y1999",
+    "explanation": "„The 13th Floor – Bist du, was du denkst?“ wurde erstmals 1999 veröffentlicht.",
+    "context": "„The Thirteenth Floor“ erschien 1999, im selben Jahr wie „Matrix“. Beide Filme hinterfragen eine zunächst selbstverständlich wirkende Gegenwart.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Thirteenth_Floor",
+      "https://en.wikipedia.org/wiki/The_Matrix"
+    ],
+    "metadata": {
+      "film_title_de": "The 13th Floor – Bist du, was du denkst?",
+      "film_title_original": "The Thirteenth Floor",
+      "film_year": "1999",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-371",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-091",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-340-DIRECTOR": {
+    "knowledgeId": "K-FF-340-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„The Abyss – Abgrund des Todes“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-340-DIRECTOR:a",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-340-DIRECTOR:b",
+        "text": "Robert Zemeckis",
+        "feedback": ""
+      },
+      {
+        "id": "FF-340-DIRECTOR:c",
+        "text": "Paul Verhoeven",
+        "feedback": ""
+      },
+      {
+        "id": "FF-340-DIRECTOR:d",
+        "text": "John Carpenter",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-340-DIRECTOR:a",
+    "explanation": "James Cameron führte Regie.",
+    "context": "Die Mannschaft von Deep Core muss mit einer Gruppe Navy SEALs zusammenarbeiten. Deren Anführer Coffey (Michael Biehn) betrachtet die unbekannten Wesen als militärische Bedrohung, während Lindsey Brigman (Mary Elizabeth Mastrantonio) nach Verständigung sucht.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Abyss"
+    ],
+    "metadata": {
+      "film_title_de": "The Abyss – Abgrund des Todes",
+      "film_title_original": "The Abyss",
+      "film_year": "1989",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-340",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-029",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-340-YEAR": {
+    "knowledgeId": "K-FF-340-YEAR",
+    "difficulty": "mittel",
+    "question": "„The Abyss – Abgrund des Todes“: In welchem Jahr erschien der Film von James Cameron erstmals?",
+    "answers": [
+      {
+        "id": "FF-340-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      },
+      {
+        "id": "FF-340-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      },
+      {
+        "id": "FF-340-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      },
+      {
+        "id": "FF-340-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-340-YEAR:y1989",
+    "explanation": "„The Abyss – Abgrund des Todes“ wurde erstmals 1989 veröffentlicht.",
+    "context": "„The Abyss“ erschien 1989, zwei Jahre vor Camerons „Terminator 2“ von 1991. Die computergestaltete Wassersonde des früheren Films gehört zu den Vorläufern des späteren Flüssigmetallgegners.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Abyss",
+      "https://theasc.com/article/terminator-2-fx/"
+    ],
+    "metadata": {
+      "film_title_de": "The Abyss – Abgrund des Todes",
+      "film_title_original": "The Abyss",
+      "film_year": "1989",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-340",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-029",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-359-DIRECTOR": {
+    "knowledgeId": "K-FF-359-DIRECTOR",
+    "difficulty": "leicht",
+    "question": "„THX 1138“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-359-DIRECTOR:a",
+        "text": "George Lucas",
+        "feedback": ""
+      },
+      {
+        "id": "FF-359-DIRECTOR:b",
+        "text": "Robert Wise",
+        "feedback": ""
+      },
+      {
+        "id": "FF-359-DIRECTOR:c",
+        "text": "Andrei Tarkovsky",
+        "feedback": ""
+      },
+      {
+        "id": "FF-359-DIRECTOR:d",
+        "text": "Douglas Trumbull",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-359-DIRECTOR:a",
+    "explanation": "George Lucas führte Regie.",
+    "context": "Lucas drehte viele Zukunftsräume an realen Orten rund um San Francisco. Dazu gehörten unfertige Tunnel der Bay Area Rapid Transit und Frank Lloyd Wrights Marin County Civic Center. Für die Verfolgungsjagd verwendete die Produktion umgebaute Rennwagen in bestehenden Straßentunneln.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/THX_1138"
+    ],
+    "metadata": {
+      "film_title_de": "THX 1138",
+      "film_title_original": "THX 1138",
+      "film_year": "1971",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-359",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-067",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-359-YEAR": {
+    "knowledgeId": "K-FF-359-YEAR",
+    "difficulty": "mittel",
+    "question": "„THX 1138“: In welchem Jahr erschien der Film von George Lucas erstmals?",
+    "answers": [
+      {
+        "id": "FF-359-YEAR:y1971",
+        "text": "1971",
+        "feedback": ""
+      },
+      {
+        "id": "FF-359-YEAR:y1967",
+        "text": "1967",
+        "feedback": ""
+      },
+      {
+        "id": "FF-359-YEAR:y1969",
+        "text": "1969",
+        "feedback": ""
+      },
+      {
+        "id": "FF-359-YEAR:y1972",
+        "text": "1972",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-359-YEAR:y1971",
+    "explanation": "„THX 1138“ wurde erstmals 1971 veröffentlicht.",
+    "context": "Lucas entwickelte „THX 1138“ von 1971 aus seinem studentischen Kurzfilm „Electronic Labyrinth: THX 1138 4EB“ von 1967. Vier Jahre liegen zwischen der experimentellen frühen Fassung und dem ersten Kinolangfilm. Bilder der überwachten Zukunftswelt wanderten dabei in eine längere Handlung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/THX_1138",
+      "https://www.loc.gov/static/programs/national-film-preservation-board/documents/THX.pdf"
+    ],
+    "metadata": {
+      "film_title_de": "THX 1138",
+      "film_title_original": "THX 1138",
+      "film_year": "1971",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-359",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-067",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-362-DIRECTOR": {
+    "knowledgeId": "K-FF-362-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Timecop“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-362-DIRECTOR:a",
+        "text": "Peter Hyams",
+        "feedback": ""
+      },
+      {
+        "id": "FF-362-DIRECTOR:b",
+        "text": "Roland Emmerich",
+        "feedback": ""
+      },
+      {
+        "id": "FF-362-DIRECTOR:c",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      },
+      {
+        "id": "FF-362-DIRECTOR:d",
+        "text": "Terry Gilliam",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-362-DIRECTOR:a",
+    "explanation": "Peter Hyams führte Regie.",
+    "context": "Hyams übernahm zugleich die Bildgestaltung. Das Drehbuch stammt von Mark Verheiden; die Story-Credits teilen sich Verheiden und Mike Richardson. Der Stoff ging aus einem Comic der beiden hervor.",
+    "sources": [
+      "https://catalog.afi.com/Film/60265-TIMECOP"
+    ],
+    "metadata": {
+      "film_title_de": "Timecop",
+      "film_title_original": "Timecop",
+      "film_year": "1994",
+      "subdomain": "Science-Fiction",
+      "franchise": "Timecop",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-362",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-073",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-362-YEAR": {
+    "knowledgeId": "K-FF-362-YEAR",
+    "difficulty": "mittel",
+    "question": "„Timecop“: In welchem Jahr erschien der Film von Peter Hyams erstmals?",
+    "answers": [
+      {
+        "id": "FF-362-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-362-YEAR:y1990",
+        "text": "1990",
+        "feedback": ""
+      },
+      {
+        "id": "FF-362-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      },
+      {
+        "id": "FF-362-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-362-YEAR:y1994",
+    "explanation": "„Timecop“ wurde erstmals 1994 veröffentlicht.",
+    "context": "„Timecop“ erschien 1994, dem Jahr, in dem auch Walkers (Jean-Claude Van Damme) Ausgangsgeschichte spielt. Die Zeitpolizei arbeitet dagegen im Jahr 2004. Gedreht wurde bereits ab September 1993 in Vancouver; die Stadt musste sowohl ältere Schauplätze als auch das Washington der nahen Zukunft darstellen.",
+    "sources": [
+      "https://catalog.afi.com/Film/60265-TIMECOP",
+      "https://www.kick24.info/movie/timecop-van-damme"
+    ],
+    "metadata": {
+      "film_title_de": "Timecop",
+      "film_title_original": "Timecop",
+      "film_year": "1994",
+      "subdomain": "Science-Fiction",
+      "franchise": "Timecop",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-362",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-073",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-367-YEAR": {
+    "knowledgeId": "K-FF-367-YEAR",
+    "difficulty": "mittel",
+    "question": "„Transcendence“: In welchem Jahr erschien der Film von Wally Pfister erstmals?",
+    "answers": [
+      {
+        "id": "FF-367-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      },
+      {
+        "id": "FF-367-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-367-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      },
+      {
+        "id": "FF-367-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-367-YEAR:y2014",
+    "explanation": "„Transcendence“ wurde erstmals 2014 veröffentlicht.",
+    "context": "Mit „Transcendence“ legte Wally Pfister 2014 seinen ersten Kinolangfilm als Regisseur vor. Aus seiner früheren Kameraarbeit brachte er eine vertraute Crew mit. Kameramann Jess Hall musste mit dieser eingespielten Gruppe zusammenfinden, während Pfister erstmals die gesamte Inszenierung verantwortete.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Transcendence_(2014_film)",
+      "https://theasc.com/post/parallax-view/wally-pfister-on-transcendence/"
+    ],
+    "metadata": {
+      "film_title_de": "Transcendence",
+      "film_title_original": "Transcendence",
+      "film_year": "2014",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-367",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-083",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-367-DIRECTOR": {
+    "knowledgeId": "K-FF-367-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„Transcendence“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-367-DIRECTOR:a",
+        "text": "Wally Pfister",
+        "feedback": ""
+      },
+      {
+        "id": "FF-367-DIRECTOR:b",
+        "text": "Christopher Nolan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-367-DIRECTOR:c",
+        "text": "Alex Garland",
+        "feedback": ""
+      },
+      {
+        "id": "FF-367-DIRECTOR:d",
+        "text": "Doug Liman",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-367-DIRECTOR:a",
+    "explanation": "Wally Pfister führte Regie.",
+    "context": "Jess Hall übernahm die Kamera bei Pfisters erstem langen Regiefilm. Pfister brachte vertraute Mitarbeiter aus seiner bisherigen Kameraarbeit mit. Hall sollte dabei weiterhin eigene Entscheidungen treffen können und sich innerhalb des bestehenden Teams nicht isoliert fühlen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Transcendence_(2014_film)",
+      "https://theasc.com/post/parallax-view/wally-pfister-on-transcendence/"
+    ],
+    "metadata": {
+      "film_title_de": "Transcendence",
+      "film_title_original": "Transcendence",
+      "film_year": "2014",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-367",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-083",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-356-YEAR": {
+    "knowledgeId": "K-FF-356-YEAR",
+    "difficulty": "mittel",
+    "question": "„Tron“: In welchem Jahr erschien der Film von Steven Lisberger erstmals?",
+    "answers": [
+      {
+        "id": "FF-356-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-356-YEAR:y1978",
+        "text": "1978",
+        "feedback": ""
+      },
+      {
+        "id": "FF-356-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      },
+      {
+        "id": "FF-356-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-356-YEAR:y1982",
+    "explanation": "„Tron“ wurde erstmals 1982 veröffentlicht.",
+    "context": "„Tron“ erschien im Juli 1982. Am 1. Oktober desselben Jahres brachte Sony den CDP-101 in Japan auf den Markt, seinen ersten kommerziellen CD-Player. Kino und Musikwiedergabe zeigten damals auf unterschiedliche Weise neue digitale Möglichkeiten.",
+    "sources": [
+      "https://d23.com/a-to-z/tron-film/",
+      "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html"
+    ],
+    "metadata": {
+      "film_title_de": "Tron",
+      "film_title_original": "Tron",
+      "film_year": "1982",
+      "subdomain": "Science-Fiction",
+      "franchise": "Tron",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-356",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-061",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-356-DIRECTOR": {
+    "knowledgeId": "K-FF-356-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„Tron“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-356-DIRECTOR:a",
+        "text": "Steven Lisberger",
+        "feedback": ""
+      },
+      {
+        "id": "FF-356-DIRECTOR:b",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-356-DIRECTOR:c",
+        "text": "Steven Spielberg",
+        "feedback": ""
+      },
+      {
+        "id": "FF-356-DIRECTOR:d",
+        "text": "Nicholas Meyer",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-356-DIRECTOR:a",
+    "explanation": "Steven Lisberger führte Regie.",
+    "context": "Lisberger entwickelte die Geschichte mit Bonnie MacBird. Für die Computerwelt verband das Team Realaufnahmen mit handbearbeiteten Einzelbildern und Computeranimation. Die Produktion war damit zugleich ein umfangreiches Animationsprojekt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tron",
+      "https://d23.com/celebrate-35-years-of-tron-downloading-us-into-the-world-of-computers/"
+    ],
+    "metadata": {
+      "film_title_de": "Tron",
+      "film_title_original": "Tron",
+      "film_year": "1982",
+      "subdomain": "Science-Fiction",
+      "franchise": "Tron",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-356",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-061",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-357-DIRECTOR": {
+    "knowledgeId": "K-FF-357-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Tron: Legacy“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-357-DIRECTOR:a",
+        "text": "Joseph Kosinski",
+        "feedback": ""
+      },
+      {
+        "id": "FF-357-DIRECTOR:b",
+        "text": "Christopher Nolan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-357-DIRECTOR:c",
+        "text": "James Cameron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-357-DIRECTOR:d",
+        "text": "Neill Blomkamp",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-357-DIRECTOR:a",
+    "explanation": "Joseph Kosinski führte Regie.",
+    "context": "Ein kurzer Effektfilm wurde 2008 überraschend am Ende einer Disney-Veranstaltung auf der Comic-Con gezeigt. Die begeisterte Reaktion half, die eigentliche Fortsetzung freizugeben. Der Test zeigte bereits das Gegenüber von einem jungen und einem gealterten Jeff Bridges.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tron:_Legacy",
+      "https://d23.com/celebrating-10-years-of-tron-legacy/"
+    ],
+    "metadata": {
+      "film_title_de": "Tron: Legacy",
+      "film_title_original": "Tron: Legacy",
+      "film_year": "2010",
+      "subdomain": "Science-Fiction",
+      "franchise": "Tron",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-357",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-063",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-357-YEAR": {
+    "knowledgeId": "K-FF-357-YEAR",
+    "difficulty": "mittel",
+    "question": "„Tron: Legacy“: In welchem Jahr erschien der Film von Joseph Kosinski erstmals?",
+    "answers": [
+      {
+        "id": "FF-357-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-357-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      },
+      {
+        "id": "FF-357-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-357-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-357-YEAR:y2010",
+    "explanation": "„Tron: Legacy“ wurde erstmals 2010 veröffentlicht.",
+    "context": "„Tron: Legacy“ erschien 2010, 28 Jahre nach „Tron“ von 1982. Jeff Bridges kehrte als Kevin Flynn zurück. Steven Lisberger erklärte die lange Pause mit einer herangewachsenen Generation: Kinder, die den ersten Film geliebt hatten, konnten nun selbst seine Fortsetzung auf den Weg bringen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tron:_Legacy",
+      "https://d23.com/celebrating-10-years-of-tron-legacy/"
+    ],
+    "metadata": {
+      "film_title_de": "Tron: Legacy",
+      "film_title_original": "Tron: Legacy",
+      "film_year": "2010",
+      "subdomain": "Science-Fiction",
+      "franchise": "Tron",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-357",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-063",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-372-DIRECTOR": {
+    "knowledgeId": "K-FF-372-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Under the Skin“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-372-DIRECTOR:a",
+        "text": "Jonathan Glazer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-372-DIRECTOR:b",
+        "text": "Bong Joon Ho",
+        "feedback": ""
+      },
+      {
+        "id": "FF-372-DIRECTOR:c",
+        "text": "Joseph Kosinski",
+        "feedback": ""
+      },
+      {
+        "id": "FF-372-DIRECTOR:d",
+        "text": "Neill Blomkamp",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-372-DIRECTOR:a",
+    "explanation": "Jonathan Glazer führte Regie.",
+    "context": "Glazer schrieb den Film mit Walter Campbell. Für die Straßenbegegnungen wollten sie eine möglichst unvorbereitete menschliche Umgebung aufnehmen. Kleine Kameras im Fahrzeug machten es möglich, dass Scarlett Johansson reale Passanten ansprechen konnte.",
+    "sources": [
+      "https://monsterminions.wordpress.com/wp-content/uploads/2014/09/b59e0-under20the20skin20production20notes20final.pdf"
+    ],
+    "metadata": {
+      "film_title_de": "Under the Skin",
+      "film_title_original": "Under the Skin",
+      "film_year": "2013",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-372",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-093",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-372-YEAR": {
+    "knowledgeId": "K-FF-372-YEAR",
+    "difficulty": "schwer",
+    "question": "„Under the Skin“: In welchem Jahr erschien der Film von Jonathan Glazer erstmals?",
+    "answers": [
+      {
+        "id": "FF-372-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      },
+      {
+        "id": "FF-372-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-372-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-372-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-372-YEAR:y2013",
+    "explanation": "„Under the Skin“ wurde erstmals 2013 veröffentlicht.",
+    "context": "„Under the Skin“ wurde 2013 beim Telluride Film Festival erstmals gezeigt; der britische Kinostart folgte 2014. Auch „Her“ erschien erstmals 2013. Scarlett Johansson ist dort die Originalstimme des Betriebssystems Samantha, hier verkörpert sie eine Außerirdische.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)",
+      "https://en.wikipedia.org/wiki/Her_(2013_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Under the Skin",
+      "film_title_original": "Under the Skin",
+      "film_year": "2013",
+      "subdomain": "Science-Fiction",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-372",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-202609-P02-L-093",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-162-YEAR": {
+    "knowledgeId": "K-FF-162-YEAR",
+    "difficulty": "mittel",
+    "question": "„WarGames – Kriegsspiele“: In welchem Jahr erschien der Film von John Badham erstmals?",
+    "answers": [
+      {
+        "id": "FF-162-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-162-YEAR:y1979",
+        "text": "1979",
+        "feedback": ""
+      },
+      {
+        "id": "FF-162-YEAR:y1981",
+        "text": "1981",
+        "feedback": ""
+      },
+      {
+        "id": "FF-162-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-162-YEAR:y1983",
+    "explanation": "„WarGames – Kriegsspiele“ wurde erstmals 1983 veröffentlicht.",
+    "context": "„WarGames“ erschien 1983. Am 1. Januar desselben Jahres stellte das ARPANET auf TCP/IP um. Die reale Vernetzung von Computern machte damit einen wichtigen Schritt, während der Film eine gefährliche Verbindung über die Telefonleitung erzählte.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/WarGames",
+      "https://www.internetsociety.org/news/press-releases/2013/new-years-day-marks-30th-anniversary-of-major-milestone-for-global-internet/"
+    ],
+    "metadata": {
+      "film_title_de": "WarGames – Kriegsspiele",
+      "film_title_original": "WarGames",
+      "film_year": "1983",
+      "subdomain": "Science-Fiction",
+      "franchise": "WarGames",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-162",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-037",
+      "learning_objective": "Die erste öffentliche Veröffentlichung zeitlich einordnen.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-162-DIRECTOR": {
+    "knowledgeId": "K-FF-162-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "„WarGames – Kriegsspiele“: Wer führte Regie?",
+    "answers": [
+      {
+        "id": "FF-162-DIRECTOR:a",
+        "text": "John Badham",
+        "feedback": ""
+      },
+      {
+        "id": "FF-162-DIRECTOR:b",
+        "text": "Richard Marquand",
+        "feedback": ""
+      },
+      {
+        "id": "FF-162-DIRECTOR:c",
+        "text": "Ridley Scott",
+        "feedback": ""
+      },
+      {
+        "id": "FF-162-DIRECTOR:d",
+        "text": "James Cameron",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-162-DIRECTOR:a",
+    "explanation": "John Badham führte Regie.",
+    "context": "Badham ersetzte Martin Brest während der Dreharbeiten. Im selben Jahr brachte er auch „Das fliegende Auge“ ins Kino. Beide Filme fragen nach den Folgen, wenn Menschen Technik immer mehr Macht überlassen.",
+    "sources": [
+      "https://www.tcm.com/articles/18610/war-games"
+    ],
+    "metadata": {
+      "film_title_de": "WarGames – Kriegsspiele",
+      "film_title_original": "WarGames",
+      "film_year": "1983",
+      "subdomain": "Science-Fiction",
+      "franchise": "WarGames",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-162",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "SF-L-037",
+      "learning_objective": "Die Regie des Films zuordnen.",
+      "spoiler_level": "gering"
+    }
   }
 }

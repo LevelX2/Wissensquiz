@@ -73,13 +73,16 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
   expect(deferred.question).toContain("beruflichen Funktion");
 });
 
-it("prüft den erwarteten Redaktionsumfang und lässt die offene Stativszene aus", () => {
-  expect(manifest.appliedOriginalIds).toBe(3993);
-  expect(manifest.generated).toHaveLength(281);
+it("prüft den Redaktionsumfang und ersetzt die unbelegte Stativbehauptung durch den belegten Jansen-Kontext", () => {
+  expect(manifest.appliedOriginalIds).toBe(5183);
+  expect(manifest.reviewedOriginalIds).toBe(5183);
+  expect(manifest.generated).toHaveLength(387);
   expect(manifest.additions).toHaveLength(14);
-  expect(manifest.changes.some((c) => c.id === manifest.excluded[0].id)).toBe(
-    false,
-  );
+  expect(manifest.excluded).toEqual([]);
+  const jansen = manifest.changes.find(c => c.id === "G100-20261008-THRILLER-025-M1")!;
+  expect(jansen.after.explanation_context).not.toContain("Stativ");
+  expect(jansen.after.explanation_context).toContain("Selbstachtung");
+  expect(jansen.after.source_urls).toContain("criterion.com/current/posts/303");
 });
 
 it("verknüpft die neue Rabal-Frage bereichsübergreifend und entfernt die überholte Brückenvariante", () => {
@@ -94,6 +97,18 @@ it("verknüpft die neue Rabal-Frage bereichsübergreifend und entfernt die über
     expect(byId.has(removed.replacementId)).toBe(true);
   }
   expect(state.questions.filter(q => q.id.startsWith("Q-20261015-"))).toHaveLength(109);
+});
+
+it("trennt Persephones Hilfe und Trinitys Rückkehr in Reloaded als unterschiedliche Lernziele", () => {
+  const state = emptyState();
+  addPackages(state, packages.map(p => ({filename:p.filename,text:readFileSync(`public${p.path}`,"utf8")})));
+  const replacements = ["SF-M-004", "SF-M-004-V1"].map(id => manifest.replacements.find(r => r.id === id)!);
+  const questions = replacements.map(r => state.questions.find(q => q.id === r.replacementId)!);
+  expect(questions[0].question).not.toContain("Persephone");
+  expect(questions[0].answers.find(a => a.id === questions[0].correctId)?.text).toContain("Persephone");
+  expect(questions[1].question).toContain("Trinity");
+  expect(questions[0].knowledgeId).not.toBe(questions[1].knowledgeId);
+  for (const q of questions) expect(q.metadata.variant_of).toBe("");
 });
 
 it("verknüpft Chaplins 1942-Fassung und erhält beide verwendeten Wolfsblut-Kompositionen", () => {

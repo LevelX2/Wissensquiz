@@ -10,7 +10,7 @@ import { questionSourceOf } from "../src/filters";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { validateBackup } from "../src/backupValidation";
 import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
-import { assertEditorialSource, originalQuestionId } from "./editorialSource";
+import { assertEditorialSource, originalQuestionId, currentQuestionId } from "./editorialSource";
 import integration from "./fixtures/appliedEditorial.json";
 
 const latest = packages.find(
@@ -130,7 +130,7 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
   addPackages(state, contents);
   expect(state).toEqual(once);
   expect(state.questions).toHaveLength(8208);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7667);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7668);
   expect(
     new Set(
       state.questions
@@ -217,7 +217,7 @@ it("zeigt die recherchierten Filmdaten fassungsgenau und erhält eine bestehende
   const state = structuredClone(before);
   addPackages(state, [incoming]);
   for (const film of source.films) {
-    const q = state.questions.find((q) => q.id === film.reference_question_id)!;
+    const q = state.questions.find((q) => q.id === currentQuestionId(film.reference_question_id))!;
     expect(filmData(q), film.film_title_original).toMatchObject({
       originalTitle: film.film_title_original,
       year: film.film_year,
