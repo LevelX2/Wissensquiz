@@ -74,8 +74,8 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
 });
 
 it("prüft den erwarteten Redaktionsumfang und lässt die offene Stativszene aus", () => {
-  expect(manifest.appliedOriginalIds).toBe(3046);
-  expect(manifest.generated).toHaveLength(227);
+  expect(manifest.appliedOriginalIds).toBe(3600);
+  expect(manifest.generated).toHaveLength(265);
   expect(manifest.additions).toHaveLength(14);
   expect(manifest.changes.some((c) => c.id === manifest.excluded[0].id)).toBe(
     false,
@@ -108,5 +108,30 @@ it("verknüpft Chaplins 1942-Fassung und erhält beide verwendeten Wolfsblut-Kom
   expect(whiteFang).toBeDefined();
   expect(whiteFang.answers.find(a => a.id === whiteFang.correctId)?.text).toBe("Basil Poledouris und Hans Zimmer");
   expect(whiteFang.context).toContain("viel von beiden");
-  expect(state.questions.filter(q => q.id.startsWith("Q-20261016-"))).toHaveLength(292);
+  expect(state.questions.filter(q => ["FANTASY", "HORROR", "KOMOEDIE", "ABENTEUER"].some(genre => q.id.startsWith(`Q-20261016-${genre}-`)))).toHaveLength(292);
+});
+
+it("trennt Stanwycks Figurentyp vom Trennungsgrund und übernimmt die Rom-Com-Regie ohne falsche Darstellerzusätze", () => {
+  const state = emptyState();
+  addPackages(state, packages.map(p => ({filename:p.filename,text:readFileSync(`public${p.path}`,"utf8")})));
+  const get = (id: string) => state.questions.find(q => q.id === id)!;
+  const actor = get("E20261007-P-018-M2");
+  const breakup = get("F240-20261006-169-M1");
+  expect(actor.knowledgeId).toBe("K-E20261007-P-018-M2");
+  expect(actor.knowledgeId).not.toBe(breakup.knowledgeId);
+  expect(actor.metadata.variant_of).toBe("");
+  expect(actor.question).toContain("Figurentyp");
+  expect(breakup.question).toContain("Charles");
+  for (const [title, director] of [["The Philadelphia Story", "George Cukor"], ["What's Up, Doc?", "Howard Hawks"]]) {
+    const questions = state.questions.filter(q => q.metadata.film_title_original === title);
+    expect(questions.length).toBeGreaterThan(0);
+    const contexts = questions.map(q => q.context).join(" ");
+    expect(contexts).toContain(director);
+    expect(contexts).not.toMatch(/George \(John Howard\) Cukor|Howard \(Ryan O’Neal\) Hawks/);
+  }
+  const original = manifest.replacements.find(q => q.id === "ROM-L-044")!;
+  const variant = manifest.replacements.find(q => q.id === "ROM-L-044-V1")!;
+  expect(get(original.replacementId).knowledgeId).not.toBe(get(variant.replacementId).knowledgeId);
+  expect(get(original.replacementId).tags).toContain("Classics");
+  expect(get(variant.replacementId).tags).toContain("Classics");
 });

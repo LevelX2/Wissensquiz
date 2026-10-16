@@ -118,11 +118,11 @@ it.each([
     expect(imported.report.duplicates).toBe(0);
     expect(imported.report.warnings).toEqual([]);
     expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(
-      (baseSize * 5) / 6 + added + (path === "komoedie" ? 1 : 0),
+      (baseSize * 5) / 6 + added + (["komoedie", "romcom"].includes(path) ? 1 : 0),
     );
     expect(
       imported.questions.filter((q) => q.metadata.variant_of),
-    ).toHaveLength(baseSize / 6 - (path === "komoedie" ? 1 : 0) - removedVariants);
+    ).toHaveLength(baseSize / 6 - (["komoedie", "romcom"].includes(path) ? 1 : 0) - removedVariants);
     const raw = readFileSync(
       `KI-Wissen-Wissensquiz/01 Rohquellen/${imported.report.filename}`,
     );

@@ -13,6 +13,8 @@ supabase/migrations/*.sql text eol=lf
 
 # Preserve immutable raw sources and the original editorial actor package.
 "KI-Wissen-Wissensquiz/01 Rohquellen/*" -text whitespace=cr-at-eol
+# The supplied note deliberately retains its original trailing blank line.
+"KI-Wissen-Wissensquiz/01 Rohquellen/Rom-Com-Fragen-Begleitnotiz-2026-10-16.txt" whitespace=cr-at-eol,-blank-at-eof
 docs/Schauspieler-Fragenpaket/* -text whitespace=cr-at-eol
 docs/Schauspieler-Ergaenzung-P02/* -text whitespace=cr-at-eol
 docs/Schauspieler-Ergaenzung-P03/* -text whitespace=cr-at-eol

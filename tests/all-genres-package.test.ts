@@ -98,7 +98,7 @@ it("ergänzt alte Spielstände idempotent und macht neue Film-Ikonen in der Film
   addPackages(state, contents);
   addPackages(state, contents);
   expect(state.questions).toHaveLength(4688);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4210);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4211);
   expect(state.questions.slice(0, before.length)).toEqual(before);
   expect(
     state.imports.filter((r) => r.filename === latest.filename),

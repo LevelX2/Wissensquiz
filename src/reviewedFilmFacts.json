@@ -10641,5 +10641,1806 @@
       "learning_objective": "Erste Veröffentlichung von späteren Kinostarts unterscheiden",
       "spoiler_level": "keine"
     }
+  },
+  "FF-313-DIRECTOR": {
+    "knowledgeId": "K-FF-313-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Rocketman“ Regie?",
+    "answers": [
+      {
+        "id": "FF-313-DIRECTOR:a",
+        "text": "Dexter Fletcher",
+        "feedback": ""
+      },
+      {
+        "id": "FF-313-DIRECTOR:b",
+        "text": "Bryan Singer",
+        "feedback": ""
+      },
+      {
+        "id": "FF-313-DIRECTOR:c",
+        "text": "Michael Gracey",
+        "feedback": ""
+      },
+      {
+        "id": "FF-313-DIRECTOR:d",
+        "text": "Damien Chazelle",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-313-DIRECTOR:a",
+    "explanation": "Dexter Fletcher führte Regie.",
+    "context": "Dexter Fletcher inszenierte Elton Johns Leben als Musicalfantasie. Giles Martin arrangierte die Lieder für die Handlung neu. Auch „(I’m Gonna) Love Me Again“ gehört zum Soundtrack: Das neue Stück singen Elton John und sein Darsteller Taron Egerton gemeinsam.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rocketman_(film)",
+      "https://www.eltonjohn.com/stories/rocketman-soundtrack"
+    ],
+    "metadata": {
+      "film_title_de": "Rocketman",
+      "film_title_original": "Rocketman",
+      "film_year": "2019",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-313",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-025",
+      "learning_objective": "Wer führte bei „Rocketman“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-313-YEAR": {
+    "knowledgeId": "K-FF-313-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Rocketman“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-313-YEAR:y2019",
+        "text": "2019",
+        "feedback": ""
+      },
+      {
+        "id": "FF-313-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-313-YEAR:y2011",
+        "text": "2011",
+        "feedback": ""
+      },
+      {
+        "id": "FF-313-YEAR:y2013",
+        "text": "2013",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-313-YEAR:y2019",
+    "explanation": "„Rocketman“ wurde erstmals 2019 veröffentlicht.",
+    "context": "Elton Johns Abschiedstour „Farewell Yellow Brick Road“ begann 2018 in Allentown. Im folgenden Jahr 2019 hatte „Rocketman“ in Cannes Premiere. Während John noch auf der Bühne stand, erzählte der Film bereits von seiner frühen Karriere und seinem Weg aus der Sucht.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rocketman_(film)",
+      "https://www.eltonjohn.com/stories/fybr-begins-in-allentown"
+    ],
+    "metadata": {
+      "film_title_de": "Rocketman",
+      "film_title_original": "Rocketman",
+      "film_year": "2019",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-313",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-025",
+      "learning_objective": "In welchem Jahr wurde „Rocketman“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-323-YEAR": {
+    "knowledgeId": "K-FF-323-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Saturday Night Fever“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-323-YEAR:y1977",
+        "text": "1977",
+        "feedback": ""
+      },
+      {
+        "id": "FF-323-YEAR:y1967",
+        "text": "1967",
+        "feedback": ""
+      },
+      {
+        "id": "FF-323-YEAR:y1969",
+        "text": "1969",
+        "feedback": ""
+      },
+      {
+        "id": "FF-323-YEAR:y1971",
+        "text": "1971",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-323-YEAR:y1977",
+    "explanation": "„Saturday Night Fever“ wurde erstmals 1977 veröffentlicht.",
+    "context": "„Saturday Night Fever“ erschien 1977. Ein Jahr später war John Travolta in „Grease“ zu sehen; beide Filme gehörten zu seiner Zusammenarbeit mit Produzent Robert Stigwood. 1983 kehrte Tony Manero in der Fortsetzung „Staying Alive“ zurück.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saturday_Night_Fever"
+    ],
+    "metadata": {
+      "film_title_de": "Saturday Night Fever",
+      "film_title_original": "Saturday Night Fever",
+      "film_year": "1977",
+      "subdomain": "Musik",
+      "franchise": "Saturday Night Fever",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-323",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-045",
+      "learning_objective": "In welchem Jahr wurde „Saturday Night Fever“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-323-DIRECTOR": {
+    "knowledgeId": "K-FF-323-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "Wer führte bei „Saturday Night Fever“ Regie?",
+    "answers": [
+      {
+        "id": "FF-323-DIRECTOR:a",
+        "text": "John Badham",
+        "feedback": ""
+      },
+      {
+        "id": "FF-323-DIRECTOR:b",
+        "text": "Randal Kleiser",
+        "feedback": ""
+      },
+      {
+        "id": "FF-323-DIRECTOR:c",
+        "text": "Jim Sharman",
+        "feedback": ""
+      },
+      {
+        "id": "FF-323-DIRECTOR:d",
+        "text": "Adrian Lyne",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-323-DIRECTOR:a",
+    "explanation": "John Badham führte Regie.",
+    "context": "John Badham übernahm kurz vor Drehbeginn von John G. Avildsen. Der Club 2001 Odyssey lag tatsächlich in Brooklyn. Die Tanzszenen verlangten mehr Zeit als die Außenaufnahmen: Jede Einstellung musste einzeln beleuchtet werden, damit die Discothek ihren dunklen Raum und die farbigen Lichter behielt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Saturday_Night_Fever",
+      "https://www.soundandvision.com/content/director-john-badham-reflects-40-years-saturday-night-fever"
+    ],
+    "metadata": {
+      "film_title_de": "Saturday Night Fever",
+      "film_title_original": "Saturday Night Fever",
+      "film_year": "1977",
+      "subdomain": "Musik",
+      "franchise": "Saturday Night Fever",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-323",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-045",
+      "learning_objective": "Wer führte bei „Saturday Night Fever“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-321-DIRECTOR": {
+    "knowledgeId": "K-FF-321-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Sing Street“ Regie?",
+    "answers": [
+      {
+        "id": "FF-321-DIRECTOR:a",
+        "text": "John Carney",
+        "feedback": ""
+      },
+      {
+        "id": "FF-321-DIRECTOR:b",
+        "text": "Damien Chazelle",
+        "feedback": ""
+      },
+      {
+        "id": "FF-321-DIRECTOR:c",
+        "text": "Michael Gracey",
+        "feedback": ""
+      },
+      {
+        "id": "FF-321-DIRECTOR:d",
+        "text": "Bryan Singer",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-321-DIRECTOR:a",
+    "explanation": "John Carney führte Regie.",
+    "context": "John Carney schrieb und inszenierte die Geschichte; an der Musik arbeitete er mit Gary Clark. Conor Lalor (Ferdia Walsh-Peelo) beginnt mit seiner Band zunächst mit Coverversionen. Sein älterer Bruder bestärkt ihn darin, eigene Lieder zu schreiben. Dadurch wächst aus dem Versuch, Raphina (Lucy Boynton) für ein Video zu gewinnen, auch eine Suche nach einer eigenen musikalischen Stimme.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sing_Street"
+    ],
+    "metadata": {
+      "film_title_de": "Sing Street",
+      "film_title_original": "Sing Street",
+      "film_year": "2016",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-321",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-041",
+      "learning_objective": "Wer führte bei „Sing Street“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-321-YEAR": {
+    "knowledgeId": "K-FF-321-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Sing Street“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-321-YEAR:y2016",
+        "text": "2016",
+        "feedback": ""
+      },
+      {
+        "id": "FF-321-YEAR:y2012",
+        "text": "2012",
+        "feedback": ""
+      },
+      {
+        "id": "FF-321-YEAR:y2014",
+        "text": "2014",
+        "feedback": ""
+      },
+      {
+        "id": "FF-321-YEAR:y2017",
+        "text": "2017",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-321-YEAR:y2016",
+    "explanation": "„Sing Street“ wurde erstmals 2016 veröffentlicht.",
+    "context": "„Sing Street“ wurde 2016 beim Sundance Film Festival uraufgeführt. John Carney hatte mit „Once“ 2007 bereits von Musikern in Dublin erzählt. Im späteren Film blickt er auf Jugendliche der 1980er-Jahre und auf den Einfluss von Musikvideos zurück.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sing_Street",
+      "https://www.wbur.org/hereandnow/2016/04/13/director-john-carney-sing-street"
+    ],
+    "metadata": {
+      "film_title_de": "Sing Street",
+      "film_title_original": "Sing Street",
+      "film_year": "2016",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-321",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-041",
+      "learning_objective": "In welchem Jahr wurde „Sing Street“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-055-YEAR": {
+    "knowledgeId": "K-FF-055-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Singin’ in the Rain“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-055-YEAR:y1952",
+        "text": "1952",
+        "feedback": ""
+      },
+      {
+        "id": "FF-055-YEAR:y1950",
+        "text": "1950",
+        "feedback": ""
+      },
+      {
+        "id": "FF-055-YEAR:y1954",
+        "text": "1954",
+        "feedback": ""
+      },
+      {
+        "id": "FF-055-YEAR:y1956",
+        "text": "1956",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-055-YEAR:y1952",
+    "explanation": "„Singin’ in the Rain“ wurde erstmals 1952 veröffentlicht.",
+    "context": "„Singin’ in the Rain“ erschien 1952. Gene Kelly und Stanley Donen hatten schon 1949 „On the Town“ gemeinsam inszeniert; 1955 folgte „It’s Always Fair Weather“. Die drei Filme verbinden ihre Zusammenarbeit als Regisseure mit aufwendig gestalteten Tanznummern.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Singin%27_in_the_Rain",
+      "https://www.afi.com/news/afi-movie-club-singin-in-the-rain/"
+    ],
+    "metadata": {
+      "film_title_de": "Singin’ in the Rain",
+      "film_title_original": "Singin' in the Rain",
+      "film_year": "1952",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-055",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-009",
+      "learning_objective": "In welchem Jahr wurde „Singin’ in the Rain“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-055-DIRECTOR": {
+    "knowledgeId": "K-FF-055-DIRECTOR",
+    "difficulty": "schwer",
+    "question": "Wer führte bei „Singin’ in the Rain“ Regie?",
+    "answers": [
+      {
+        "id": "FF-055-DIRECTOR:a",
+        "text": "Gene Kelly und Stanley Donen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-055-DIRECTOR:b",
+        "text": "Vincente Minnelli und Arthur Freed",
+        "feedback": ""
+      },
+      {
+        "id": "FF-055-DIRECTOR:c",
+        "text": "Charles Walters und George Sidney",
+        "feedback": ""
+      },
+      {
+        "id": "FF-055-DIRECTOR:d",
+        "text": "George Cukor und George Stevens",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-055-DIRECTOR:a",
+    "explanation": "Gene Kelly und Stanley Donen führten Regie.",
+    "context": "Gene Kelly und Stanley Donen teilten sich Regie und Choreografie. Die Handlung entstand um ältere Lieder von Arthur Freed und Nacio Herb Brown. Der Wechsel zum Tonfilm bot einen Rahmen, in dem diese Songs wieder als neue Filmnummern verwendet werden konnten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Singin%27_in_the_Rain",
+      "https://www.afi.com/news/afi-movie-club-singin-in-the-rain/"
+    ],
+    "metadata": {
+      "film_title_de": "Singin’ in the Rain",
+      "film_title_original": "Singin' in the Rain",
+      "film_year": "1952",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-055",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "CLA-L-009",
+      "learning_objective": "Wer führte bei „Singin’ in the Rain“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-316-DIRECTOR": {
+    "knowledgeId": "K-FF-316-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Die Commitments“ Regie?",
+    "answers": [
+      {
+        "id": "FF-316-DIRECTOR:a",
+        "text": "Alan Parker",
+        "feedback": ""
+      },
+      {
+        "id": "FF-316-DIRECTOR:b",
+        "text": "Emile Ardolino",
+        "feedback": ""
+      },
+      {
+        "id": "FF-316-DIRECTOR:c",
+        "text": "Miloš Forman",
+        "feedback": ""
+      },
+      {
+        "id": "FF-316-DIRECTOR:d",
+        "text": "Adrian Lyne",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-316-DIRECTOR:a",
+    "explanation": "Alan Parker führte Regie.",
+    "context": "Parker probte vor dem Dreh fünf Wochen lang: vormittags Dialoge, nachmittags Musik. Manchmal ließ er die Jungen und Mädchen ihre Texte tauschen, damit die unerfahrenen Darsteller verschiedene Betonungen hörten. Die Proben führten außerdem zu weiteren Drehbuchänderungen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Commitments_(film)",
+      "https://alanparker.com/film/the-commitments/making"
+    ],
+    "metadata": {
+      "film_title_de": "Die Commitments",
+      "film_title_original": "The Commitments",
+      "film_year": "1991",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-316",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-031",
+      "learning_objective": "Wer führte bei „Die Commitments“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-316-YEAR": {
+    "knowledgeId": "K-FF-316-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Die Commitments“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-316-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      },
+      {
+        "id": "FF-316-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      },
+      {
+        "id": "FF-316-YEAR:y1990",
+        "text": "1990",
+        "feedback": ""
+      },
+      {
+        "id": "FF-316-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-316-YEAR:y1991",
+    "explanation": "„Die Commitments“ wurde erstmals 1991 veröffentlicht.",
+    "context": "„Die Commitments“ erschien 1991. Roddy Doyles Roman war 1987 veröffentlicht worden. Mit „The Snapper“ (1993) und „The Van“ (1996) folgten weitere Verfilmungen aus seiner Barrytown-Welt, ohne die Bandgeschichte als Fortsetzung weiterzuerzählen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Commitments_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Die Commitments",
+      "film_title_original": "The Commitments",
+      "film_year": "1991",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-316",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-031",
+      "learning_objective": "In welchem Jahr wurde „Die Commitments“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-318-DIRECTOR": {
+    "knowledgeId": "K-FF-318-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „School of Rock“ Regie?",
+    "answers": [
+      {
+        "id": "FF-318-DIRECTOR:a",
+        "text": "Richard Linklater",
+        "feedback": ""
+      },
+      {
+        "id": "FF-318-DIRECTOR:b",
+        "text": "Rob Marshall",
+        "feedback": ""
+      },
+      {
+        "id": "FF-318-DIRECTOR:c",
+        "text": "Baz Luhrmann",
+        "feedback": ""
+      },
+      {
+        "id": "FF-318-DIRECTOR:d",
+        "text": "James Mangold",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-318-DIRECTOR:a",
+    "explanation": "Richard Linklater führte Regie.",
+    "context": "Richard Linklater führte Regie nach Mike Whites Drehbuch. Die jungen Bandmitglieder wurden auch nach ihren musikalischen Fähigkeiten ausgewählt. Jim O’Rourke arbeitete mit ihnen an der Musik, damit die Auftritte glaubwürdig aus dem Zusammenspiel der Kinder entstehen konnten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/School_of_Rock",
+      "https://web.library.yale.edu/film/notes/fn00058"
+    ],
+    "metadata": {
+      "film_title_de": "School of Rock",
+      "film_title_original": "The School of Rock",
+      "film_year": "2003",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-318",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-035",
+      "learning_objective": "Wer führte bei „School of Rock“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-318-YEAR": {
+    "knowledgeId": "K-FF-318-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „School of Rock“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-318-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-318-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      },
+      {
+        "id": "FF-318-YEAR:y2002",
+        "text": "2002",
+        "feedback": ""
+      },
+      {
+        "id": "FF-318-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-318-YEAR:y2003",
+    "explanation": "„School of Rock“ wurde erstmals 2003 veröffentlicht.",
+    "context": "„School of Rock“ erschien 2003. Jack Black hatte bereits 2002 in „Orange County“ nach einem Drehbuch von Mike White gespielt. White schrieb die neue Rolle gezielt für Blacks Begeisterung für Musik und seine kindliche Energie.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/School_of_Rock",
+      "https://web.library.yale.edu/film/notes/fn00058"
+    ],
+    "metadata": {
+      "film_title_de": "School of Rock",
+      "film_title_original": "The School of Rock",
+      "film_year": "2003",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-318",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-035",
+      "learning_objective": "In welchem Jahr wurde „School of Rock“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-309-YEAR": {
+    "knowledgeId": "K-FF-309-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Meine Lieder – meine Träume“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-309-YEAR:y1965",
+        "text": "1965",
+        "feedback": ""
+      },
+      {
+        "id": "FF-309-YEAR:y1963",
+        "text": "1963",
+        "feedback": ""
+      },
+      {
+        "id": "FF-309-YEAR:y1964",
+        "text": "1964",
+        "feedback": ""
+      },
+      {
+        "id": "FF-309-YEAR:y1966",
+        "text": "1966",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-309-YEAR:y1965",
+    "explanation": "„Meine Lieder – meine Träume“ wurde erstmals 1965 veröffentlicht.",
+    "context": "„Meine Lieder – meine Träume“ erschien 1965. Das Broadway-Musical hatte 1959 Premiere, nachdem die Familie von Trapp schon 1956 in einem deutschen Spielfilm porträtiert worden war. Robert Wise verfilmte das Bühnenmusical mit neuen Außenaufnahmen in Salzburg und Umgebung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Meine Lieder – meine Träume",
+      "film_title_original": "The Sound of Music",
+      "film_year": "1965",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-309",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-017",
+      "learning_objective": "In welchem Jahr wurde „Meine Lieder – meine Träume“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-309-DIRECTOR": {
+    "knowledgeId": "K-FF-309-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Meine Lieder – meine Träume“ Regie?",
+    "answers": [
+      {
+        "id": "FF-309-DIRECTOR:a",
+        "text": "Robert Wise",
+        "feedback": ""
+      },
+      {
+        "id": "FF-309-DIRECTOR:b",
+        "text": "Robert Stevenson",
+        "feedback": ""
+      },
+      {
+        "id": "FF-309-DIRECTOR:c",
+        "text": "Jim Sharman",
+        "feedback": ""
+      },
+      {
+        "id": "FF-309-DIRECTOR:d",
+        "text": "John Badham",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-309-DIRECTOR:a",
+    "explanation": "Robert Wise führte Regie.",
+    "context": "Wise entwickelte mit Zeichner Maurice Zuberano über zehn Wochen die Bildplanung jeder Szene. Zuberanos Storyboards und seine Salzburger Ortsfotos dienten Boris Leven als Grundlage für die Kulissen. Die Innenräume der Trapp-Villa entstanden im Fox-Studio, während mehrere österreichische Orte ihr Äußeres bildeten.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Meine Lieder – meine Träume",
+      "film_title_original": "The Sound of Music",
+      "film_year": "1965",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-309",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-017",
+      "learning_objective": "Wer führte bei „Meine Lieder – meine Träume“ Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-311-DIRECTOR": {
+    "knowledgeId": "K-FF-311-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Walk the Line“ Regie?",
+    "answers": [
+      {
+        "id": "FF-311-DIRECTOR:a",
+        "text": "James Mangold",
+        "feedback": ""
+      },
+      {
+        "id": "FF-311-DIRECTOR:b",
+        "text": "Bill Condon",
+        "feedback": ""
+      },
+      {
+        "id": "FF-311-DIRECTOR:c",
+        "text": "Richard Linklater",
+        "feedback": ""
+      },
+      {
+        "id": "FF-311-DIRECTOR:d",
+        "text": "Anton Corbijn",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-311-DIRECTOR:a",
+    "explanation": "James Mangold führte Regie.",
+    "context": "James Mangold schrieb mit Gill Dennis das Drehbuch nach autobiografischen Büchern von Johnny Cash (im Film: Joaquin Phoenix). Die Filmhandlung beginnt beim Folsom-Konzert und springt dann in die Kindheit zurück. Eine Säge hinter der Bühne führt in die Erinnerung an den Tod des Bruders Jack (Lucas Till); die musikalische Karriere ist dadurch früh mit der Familiengeschichte verbunden.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walk_the_Line"
+    ],
+    "metadata": {
+      "film_title_de": "Walk the Line",
+      "film_title_original": "Walk the Line",
+      "film_year": "2005",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-311",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-021",
+      "learning_objective": "Wer führte bei „Walk the Line“ Regie?",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-311-YEAR": {
+    "knowledgeId": "K-FF-311-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Walk the Line“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-311-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      },
+      {
+        "id": "FF-311-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-311-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      },
+      {
+        "id": "FF-311-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-311-YEAR:y2005",
+    "explanation": "„Walk the Line“ wurde erstmals 2005 veröffentlicht.",
+    "context": "Johnny Cash stirbt 2003; „Walk the Line“ erscheint 2005, zwei Jahre später. Joaquin Phoenix spielt den Musiker damit kurz nach dessen Tod. Die Zweijahresstrecke verbindet den realen Abschied mit der filmischen Erinnerung an seine frühe Karriere.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Walk_the_Line",
+      "https://www.johnnycash.com/marking-fifth-anniversary-johnnys-passing/"
+    ],
+    "metadata": {
+      "film_title_de": "Walk the Line",
+      "film_title_original": "Walk the Line",
+      "film_year": "2005",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-311",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-021",
+      "learning_objective": "In welchem Jahr wurde „Walk the Line“ erstmals veröffentlicht?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-308-DIRECTOR": {
+    "knowledgeId": "K-FF-308-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „West Side Story“ von 1961 Regie?",
+    "answers": [
+      {
+        "id": "FF-308-DIRECTOR:a",
+        "text": "Robert Wise und Jerome Robbins",
+        "feedback": ""
+      },
+      {
+        "id": "FF-308-DIRECTOR:b",
+        "text": "Vincente Minnelli und Stanley Donen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-308-DIRECTOR:c",
+        "text": "George Sidney und Charles Walters",
+        "feedback": ""
+      },
+      {
+        "id": "FF-308-DIRECTOR:d",
+        "text": "Richard Quine und Blake Edwards",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-308-DIRECTOR:a",
+    "explanation": "Robert Wise und Jerome Robbins führten Regie.",
+    "context": "Robert Wise und Jerome Robbins teilen den Regiecredit. Zunächst sollte Robbins die Tanznummern und Wise die dramatischen Szenen übernehmen. Als die Produktion erheblich hinter den Zeitplan geriet, wurde Robbins von den Dreharbeiten entlassen; seine Assistenten halfen bei den übrigen Tänzen. Wise erkannte seinen gestalterischen Beitrag an und befürwortete trotzdem den gemeinsamen Regiecredit.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Side_Story_(1961_film)",
+      "https://www.westsidestory.com/1961-original-film-credits"
+    ],
+    "metadata": {
+      "film_title_de": "West Side Story",
+      "film_title_original": "West Side Story",
+      "film_year": "1961",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-308",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-015",
+      "learning_objective": "Wer führte bei „West Side Story“ von 1961 Regie?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-308-YEAR": {
+    "knowledgeId": "K-FF-308-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr erschien „West Side Story“ mit Natalie Wood und Richard Beymer erstmals?",
+    "answers": [
+      {
+        "id": "FF-308-YEAR:y1961",
+        "text": "1961",
+        "feedback": ""
+      },
+      {
+        "id": "FF-308-YEAR:y1959",
+        "text": "1959",
+        "feedback": ""
+      },
+      {
+        "id": "FF-308-YEAR:y1960",
+        "text": "1960",
+        "feedback": ""
+      },
+      {
+        "id": "FF-308-YEAR:y1962",
+        "text": "1962",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-308-YEAR:y1961",
+    "explanation": "„West Side Story“ wurde erstmals 1961 veröffentlicht.",
+    "context": "Die Verfilmung mit Natalie Wood und Richard Beymer erschien 1961. Das Broadway-Musical war 1957 uraufgeführt worden. Für das Kino wurden Songs umgestellt und „America“ um die Stimmen der männlichen Sharks erweitert. Steven Spielbergs neue Filmadaption folgte erst 2021.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/West_Side_Story_(1961_film)",
+      "https://www.westsidestory.com/faqs"
+    ],
+    "metadata": {
+      "film_title_de": "West Side Story",
+      "film_title_original": "West Side Story",
+      "film_year": "1961",
+      "subdomain": "Musik",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-308",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MUS-202609-P01-L-015",
+      "learning_objective": "In welchem Jahr erschien „West Side Story“ mit Natalie Wood und Richard Beymer erstmals?",
+      "spoiler_level": "keine"
+    }
+  },
+  "FF-255-DIRECTOR": {
+    "knowledgeId": "K-FF-255-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „E-m@il für Dich“ Regie?",
+    "answers": [
+      {
+        "id": "FF-255-DIRECTOR:a",
+        "text": "Nora Ephron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-255-DIRECTOR:b",
+        "text": "Frank Coraci",
+        "feedback": ""
+      },
+      {
+        "id": "FF-255-DIRECTOR:c",
+        "text": "Roger Michell",
+        "feedback": ""
+      },
+      {
+        "id": "FF-255-DIRECTOR:d",
+        "text": "Gil Junger",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-255-DIRECTOR:a",
+    "explanation": "Nora Ephron führte Regie.",
+    "context": "Nora und Delia Ephron lebten selbst in der New Yorker Upper West Side. Nora verglich auch das scheinbar grenzenlose Internet mit kleinen Gemeinschaften, in denen Menschen gemeinsame Interessen finden. Der Film verbindet diese Vorstellung mit einem Viertel aus Stammläden, vertrauten Alltagswegen und neuen Geschäften, die um Platz konkurrieren.",
+    "sources": [
+      "https://bfidatadigipres.github.io/member%20picks/2024/05/18/youve-got-mail/"
+    ],
+    "metadata": {
+      "film_title_de": "E-m@il für Dich",
+      "film_title_original": "You've Got Mail",
+      "film_year": "1998",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-255",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-009",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-255-YEAR": {
+    "knowledgeId": "K-FF-255-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „E-m@il für Dich“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-255-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      },
+      {
+        "id": "FF-255-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-255-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      },
+      {
+        "id": "FF-255-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-255-YEAR:y1998",
+    "explanation": "1998 wurde der Film erstmals veröffentlicht.",
+    "context": "1998 erschien „E-m@il für Dich“, fünf Jahre nach „Schlaflos in Seattle“ von 1993. Nora Ephron inszenierte beide Filme mit Meg Ryan und Tom Hanks. Diesmal werden die Figuren durch anonyme E-Mails verbunden, während sie einander im New Yorker Buchhandel persönlich begegnen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/You%27ve_Got_Mail"
+    ],
+    "metadata": {
+      "film_title_de": "E-m@il für Dich",
+      "film_title_original": "You've Got Mail",
+      "film_year": "1998",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-255",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-009",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-272-DIRECTOR": {
+    "knowledgeId": "K-FF-272-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Ein Herz und eine Krone“ Regie?",
+    "answers": [
+      {
+        "id": "FF-272-DIRECTOR:a",
+        "text": "William Wyler",
+        "feedback": ""
+      },
+      {
+        "id": "FF-272-DIRECTOR:b",
+        "text": "Norman Jewison",
+        "feedback": ""
+      },
+      {
+        "id": "FF-272-DIRECTOR:c",
+        "text": "Rob Reiner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-272-DIRECTOR:d",
+        "text": "Garry Marshall",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-272-DIRECTOR:a",
+    "explanation": "William Wyler führte Regie.",
+    "context": "William Wyler bestand darauf, den Film in Rom zu drehen. Die Innenaufnahmen entstanden in den Cinecittà-Studios. Für den Botschaftsbereich wurden mehrere Palazzi eingesetzt, während Joes (Gregory Peck) Wohnung in der Via Margutta liegt. So stehen die privaten Räume und die offiziellen Auftritte der Prinzessin in derselben realen Stadt.",
+    "sources": [
+      "https://catalog.afi.com/Film/50997-ROMAN-HOLIDAY"
+    ],
+    "metadata": {
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-272",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-043",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-272-YEAR": {
+    "knowledgeId": "K-FF-272-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Ein Herz und eine Krone“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-272-YEAR:y1953",
+        "text": "1953",
+        "feedback": ""
+      },
+      {
+        "id": "FF-272-YEAR:y1952",
+        "text": "1952",
+        "feedback": ""
+      },
+      {
+        "id": "FF-272-YEAR:y1954",
+        "text": "1954",
+        "feedback": ""
+      },
+      {
+        "id": "FF-272-YEAR:y1951",
+        "text": "1951",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-272-YEAR:y1953",
+    "explanation": "1953 wurde der Film erstmals veröffentlicht.",
+    "context": "„Ein Herz und eine Krone“ wurde 1953 erstmals veröffentlicht. Die Dreharbeiten in Rom hatten 1952 stattgefunden. Audrey Hepburn kam über ihre Londoner Probeaufnahmen zur Hauptrolle; Wyler verschob den Dreh, damit sie zunächst ihr Broadway-Engagement in „Gigi“ erfüllen konnte.",
+    "sources": [
+      "https://catalog.afi.com/Film/50997-ROMAN-HOLIDAY"
+    ],
+    "metadata": {
+      "film_title_de": "Ein Herz und eine Krone",
+      "film_title_original": "Roman Holiday",
+      "film_year": "1953",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-272",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-043",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-267-YEAR": {
+    "knowledgeId": "K-FF-267-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Eine Hochzeit zum Verlieben“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-267-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      },
+      {
+        "id": "FF-267-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-267-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      },
+      {
+        "id": "FF-267-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-267-YEAR:y1998",
+    "explanation": "1998 wurde der Film erstmals veröffentlicht.",
+    "context": "„Eine Hochzeit zum Verlieben“ erschien 1998, spielt aber 1985. Drehbuchautor Tim Herlihy ließ sich für die zeitliche Verlegung von einer Radiosendung mit Achtzigerjahre-Musik anregen. Die Musik und die Ausstattung verweisen deshalb auf eine frühere Zeit als das Veröffentlichungsjahr.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Wedding_Singer"
+    ],
+    "metadata": {
+      "film_title_de": "Eine Hochzeit zum Verlieben",
+      "film_title_original": "The Wedding Singer",
+      "film_year": "1998",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-267",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-ROMCOM-021",
+      "learning_objective": "Erstveröffentlichungsjahr und Handlungszeit",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-267-DIRECTOR": {
+    "knowledgeId": "K-FF-267-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Eine Hochzeit zum Verlieben“ Regie?",
+    "answers": [
+      {
+        "id": "FF-267-DIRECTOR:a",
+        "text": "Frank Coraci",
+        "feedback": ""
+      },
+      {
+        "id": "FF-267-DIRECTOR:b",
+        "text": "Nora Ephron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-267-DIRECTOR:c",
+        "text": "Roger Michell",
+        "feedback": ""
+      },
+      {
+        "id": "FF-267-DIRECTOR:d",
+        "text": "Gil Junger",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-267-DIRECTOR:a",
+    "explanation": "Frank Coraci führte Regie.",
+    "context": "Frank Coraci führte Regie. Er kannte Adam Sandler bereits aus ihrer Studienzeit an der New York University. Tim Herlihy schrieb das Drehbuch; die Geschichte eines verlassenen Hochzeitssängers ging auf eine Idee Sandlers zurück.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Wedding_Singer"
+    ],
+    "metadata": {
+      "film_title_de": "Eine Hochzeit zum Verlieben",
+      "film_title_original": "The Wedding Singer",
+      "film_year": "1998",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-267",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-ROMCOM-021",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-251-YEAR": {
+    "knowledgeId": "K-FF-251-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Harry & Sally“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-251-YEAR:y1989",
+        "text": "1989",
+        "feedback": ""
+      },
+      {
+        "id": "FF-251-YEAR:y1988",
+        "text": "1988",
+        "feedback": ""
+      },
+      {
+        "id": "FF-251-YEAR:y1990",
+        "text": "1990",
+        "feedback": ""
+      },
+      {
+        "id": "FF-251-YEAR:y1987",
+        "text": "1987",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-251-YEAR:y1989",
+    "explanation": "1989 wurde der Film erstmals veröffentlicht.",
+    "context": "„Harry & Sally“ erschien 1989. Nora Ephron hatte über mehrere Jahre an Fassungen des Drehbuchs gearbeitet, während Rob Reiner unter anderem „Stand by Me“ von 1986 und „Die Braut des Prinzen“ von 1987 inszenierte. Die Gespräche für das Projekt begannen also deutlich vor dem Kinostart.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/When_Harry_Met_Sally..."
+    ],
+    "metadata": {
+      "film_title_de": "Harry & Sally",
+      "film_title_original": "When Harry Met Sally...",
+      "film_year": "1989",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-251",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-001",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-251-DIRECTOR": {
+    "knowledgeId": "K-FF-251-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Harry & Sally“ Regie?",
+    "answers": [
+      {
+        "id": "FF-251-DIRECTOR:a",
+        "text": "Rob Reiner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-251-DIRECTOR:b",
+        "text": "Garry Marshall",
+        "feedback": ""
+      },
+      {
+        "id": "FF-251-DIRECTOR:c",
+        "text": "Norman Jewison",
+        "feedback": ""
+      },
+      {
+        "id": "FF-251-DIRECTOR:d",
+        "text": "Nora Ephron",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-251-DIRECTOR:a",
+    "explanation": "Rob Reiner führte Regie.",
+    "context": "Rob Reiners „Harry und Sally“ enthält eine Pointe, die seine eigene Mutter Estelle Reiner spricht. Nach Sallys (Meg Ryan) vorgetäuschtem Orgasmus im Restaurant bestellt sie das Gleiche wie die junge Frau. Meg Ryan schlug vor, die Demonstration im Restaurant stattfinden zu lassen; Billy Crystal steuerte die Schlusszeile bei. Die berühmte Szene entstand damit aus Beiträgen mehrerer Beteiligter.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/When_Harry_Met_Sally..."
+    ],
+    "metadata": {
+      "film_title_de": "Harry & Sally",
+      "film_title_original": "When Harry Met Sally...",
+      "film_year": "1989",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-251",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-001",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-261-DIRECTOR": {
+    "knowledgeId": "K-FF-261-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Liebe braucht keine Ferien“ Regie?",
+    "answers": [
+      {
+        "id": "FF-261-DIRECTOR:a",
+        "text": "Nancy Meyers",
+        "feedback": ""
+      },
+      {
+        "id": "FF-261-DIRECTOR:b",
+        "text": "Andy Tennant",
+        "feedback": ""
+      },
+      {
+        "id": "FF-261-DIRECTOR:c",
+        "text": "Marc Lawrence",
+        "feedback": ""
+      },
+      {
+        "id": "FF-261-DIRECTOR:d",
+        "text": "Beeban Kidron",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-261-DIRECTOR:a",
+    "explanation": "Nancy Meyers führte Regie.",
+    "context": "Nancy Meyers schrieb und inszenierte „Liebe braucht keine Ferien“ und stellte sich Cameron Diaz bereits beim Schreiben als Amanda (Cameron Diaz) vor. Die Figur produziert Filmtrailer und tauscht nach einer Trennung ihr Haus mit Iris (Kate Winslet). Meyers stellte damit sehr unterschiedliche Wohnwelten einander gegenüber. Diaz’ körperliche Komik war für die Gestaltung der kalifornischen Frau in der englischen Umgebung besonders geeignet.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Holiday"
+    ],
+    "metadata": {
+      "film_title_de": "Liebe braucht keine Ferien",
+      "film_title_original": "The Holiday",
+      "film_year": "2006",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-261",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-021",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-261-YEAR": {
+    "knowledgeId": "K-FF-261-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Liebe braucht keine Ferien“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-261-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      },
+      {
+        "id": "FF-261-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      },
+      {
+        "id": "FF-261-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      },
+      {
+        "id": "FF-261-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-261-YEAR:y2006",
+    "explanation": "2006 wurde der Film erstmals veröffentlicht.",
+    "context": "„Liebe braucht keine Ferien“ erschien 2006, drei Jahre nach Nancy Meyers’ „Was das Herz begehrt“ von 2003. Dort begegnen einander die älteren Hauptfiguren in einem Strandhaus; 2006 bringt ein Haustausch zwei Liebesgeschichten auf verschiedenen Kontinenten zusammen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Holiday",
+      "https://en.wikipedia.org/wiki/Something%27s_Gotta_Give_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Liebe braucht keine Ferien",
+      "film_title_original": "The Holiday",
+      "film_year": "2006",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-261",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-021",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-254-DIRECTOR": {
+    "knowledgeId": "K-FF-254-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Schlaflos in Seattle“ Regie?",
+    "answers": [
+      {
+        "id": "FF-254-DIRECTOR:a",
+        "text": "Nora Ephron",
+        "feedback": ""
+      },
+      {
+        "id": "FF-254-DIRECTOR:b",
+        "text": "Mike Newell",
+        "feedback": ""
+      },
+      {
+        "id": "FF-254-DIRECTOR:c",
+        "text": "Jon Turteltaub",
+        "feedback": ""
+      },
+      {
+        "id": "FF-254-DIRECTOR:d",
+        "text": "Lawrence Kasdan",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-254-DIRECTOR:a",
+    "explanation": "Nora Ephron führte Regie.",
+    "context": "Nora Ephron überarbeitete „Schlaflos in Seattle“ nicht nur als Autorin, sondern führte auch Regie. Sie wollte Annie (Meg Ryan) mit Meg Ryan besetzen und überzeugte Tom Hanks mit einer ernsteren Fassung des verwitweten Sam Baldwin (Tom Hanks). Damit verband die Besetzung komische Erfahrung mit glaubwürdiger Trauer. Die Liebesgeschichte beginnt über Sams Radioauftritt, bevor die Figuren einander tatsächlich begegnen.",
+    "sources": [
+      "https://catalog.afi.com/Film/59663-SLEEPLESS-INSEATTLE"
+    ],
+    "metadata": {
+      "film_title_de": "Schlaflos in Seattle",
+      "film_title_original": "Sleepless in Seattle",
+      "film_year": "1993",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-254",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-007",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-254-YEAR": {
+    "knowledgeId": "K-FF-254-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Schlaflos in Seattle“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-254-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      },
+      {
+        "id": "FF-254-YEAR:y1992",
+        "text": "1992",
+        "feedback": ""
+      },
+      {
+        "id": "FF-254-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-254-YEAR:y1991",
+        "text": "1991",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-254-YEAR:y1993",
+    "explanation": "1993 wurde der Film erstmals veröffentlicht.",
+    "context": "„Schlaflos in Seattle“ erschien 1993. Tom Hanks und Meg Ryan hatten bereits 1990 in „Joe gegen den Vulkan“ gemeinsam gespielt. Die neue Romanze hält ihre Figuren räumlich über fast den ganzen Film getrennt, bevor sie schließlich in New York zusammenkommen.",
+    "sources": [
+      "https://catalog.afi.com/Film/59663-SLEEPLESS-INSEATTLE"
+    ],
+    "metadata": {
+      "film_title_de": "Schlaflos in Seattle",
+      "film_title_original": "Sleepless in Seattle",
+      "film_year": "1993",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-254",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-007",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-260-YEAR": {
+    "knowledgeId": "K-FF-260-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Selbst ist die Braut“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-260-YEAR:y2009",
+        "text": "2009",
+        "feedback": ""
+      },
+      {
+        "id": "FF-260-YEAR:y2008",
+        "text": "2008",
+        "feedback": ""
+      },
+      {
+        "id": "FF-260-YEAR:y2010",
+        "text": "2010",
+        "feedback": ""
+      },
+      {
+        "id": "FF-260-YEAR:y2007",
+        "text": "2007",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-260-YEAR:y2009",
+    "explanation": "2009 wurde der Film erstmals veröffentlicht.",
+    "context": "2009 zeigt Sandra Bullock in „Selbst ist die Braut“ eine Chefin, die ihren Assistenten zum Schein heiraten will; in „Blind Side“ nimmt sie einen Jugendlichen in ihre Familie auf. Zwei gegensätzliche Arten, eine Bindung einzugehen, gehören zu ihrem selben Filmjahr.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Proposal_(2009_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Selbst ist die Braut",
+      "film_title_original": "The Proposal",
+      "film_year": "2009",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-260",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-019",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-260-DIRECTOR": {
+    "knowledgeId": "K-FF-260-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Selbst ist die Braut“ Regie?",
+    "answers": [
+      {
+        "id": "FF-260-DIRECTOR:a",
+        "text": "Anne Fletcher",
+        "feedback": ""
+      },
+      {
+        "id": "FF-260-DIRECTOR:b",
+        "text": "Marc Lawrence",
+        "feedback": ""
+      },
+      {
+        "id": "FF-260-DIRECTOR:c",
+        "text": "Nancy Meyers",
+        "feedback": ""
+      },
+      {
+        "id": "FF-260-DIRECTOR:d",
+        "text": "Andy Tennant",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-260-DIRECTOR:a",
+    "explanation": "Anne Fletcher führte Regie.",
+    "context": "Anne Fletcher inszenierte „Selbst ist die Braut“ um eine Scheinverlobung, die bestehende Machtverhältnisse verschiebt. Margaret Tate (Sandra Bullock) zwingt ihren Assistenten Andrew Paxton (Ryan Reynolds) zunächst aus Angst vor Abschiebung zur Heirat. Beim Besuch seiner Familie entdeckt sie jedoch seine wohlhabende Herkunft. Die beruflich überlegene Chefin wird damit zum Gast in einer ihr völlig fremden privaten Welt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Proposal_(2009_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Selbst ist die Braut",
+      "film_title_original": "The Proposal",
+      "film_year": "2009",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-260",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-019",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-275-YEAR": {
+    "knowledgeId": "K-FF-275-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Sweet Home Alabama – Liebe auf Umwegen“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-275-YEAR:y2002",
+        "text": "2002",
+        "feedback": ""
+      },
+      {
+        "id": "FF-275-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      },
+      {
+        "id": "FF-275-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-275-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-275-YEAR:y2002",
+    "explanation": "2002 wurde der Film erstmals veröffentlicht.",
+    "context": "„Sweet Home Alabama“ erschien 2002, ein Jahr nach „Natürlich blond!“ von 2001. Dessen Erfolg stärkte Reese Witherspoons Position bei der Besetzung. Andy Tennant hatte schon vor der Veröffentlichung mit ihr über eine erneute Zusammenarbeit gesprochen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sweet_Home_Alabama_(film)",
+      "https://www.phase9.tv/sweet-home-alabama-2002-q-and-a-interview-with-andy-tennant-and-josh-lucas/"
+    ],
+    "metadata": {
+      "film_title_de": "Sweet Home Alabama – Liebe auf Umwegen",
+      "film_title_original": "Sweet Home Alabama",
+      "film_year": "2002",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-275",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-049",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-275-DIRECTOR": {
+    "knowledgeId": "K-FF-275-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Sweet Home Alabama – Liebe auf Umwegen“ Regie?",
+    "answers": [
+      {
+        "id": "FF-275-DIRECTOR:a",
+        "text": "Andy Tennant",
+        "feedback": ""
+      },
+      {
+        "id": "FF-275-DIRECTOR:b",
+        "text": "Jean-Pierre Jeunet",
+        "feedback": ""
+      },
+      {
+        "id": "FF-275-DIRECTOR:c",
+        "text": "Sharon Maguire",
+        "feedback": ""
+      },
+      {
+        "id": "FF-275-DIRECTOR:d",
+        "text": "Donald Petrie",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-275-DIRECTOR:a",
+    "explanation": "Andy Tennant führte Regie.",
+    "context": "Andy Tennant führte Regie nach dem Drehbuch von C. Jay Cox. Mit Reese Witherspoon hatte er bereits an „Liebe auf den ersten Schrei“ gearbeitet. Josh Lucas spielt Jake als Mann, der nach Melanies (Reese Witherspoon) Wegzug ebenfalls eine eigene berufliche Entwicklung durchlaufen hat.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Sweet_Home_Alabama_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Sweet Home Alabama – Liebe auf Umwegen",
+      "film_title_original": "Sweet Home Alabama",
+      "film_year": "2002",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-275",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-049",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-266-DIRECTOR": {
+    "knowledgeId": "K-FF-266-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Während Du schliefst“ Regie?",
+    "answers": [
+      {
+        "id": "FF-266-DIRECTOR:a",
+        "text": "Jon Turteltaub",
+        "feedback": ""
+      },
+      {
+        "id": "FF-266-DIRECTOR:b",
+        "text": "Lawrence Kasdan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-266-DIRECTOR:c",
+        "text": "Mike Newell",
+        "feedback": ""
+      },
+      {
+        "id": "FF-266-DIRECTOR:d",
+        "text": "Nora Ephron",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-266-DIRECTOR:a",
+    "explanation": "Jon Turteltaub führte Regie.",
+    "context": "Jon Turteltaubs Komödie verlängert das Verlobungsmissverständnis sogar nach Peters (Peter Gallagher) Erwachen: Weil er Lucy (Sandra Bullock) nicht erkennt, vermutet die Familie eine Amnesie. Erst bei der Trauung widerspricht sie selbst und erklärt ihre Gefühle für Jack (Bill Pullman). Nicht die wiederkehrende Erinnerung des Patienten löst die Verwechslung.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/While_You_Were_Sleeping_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Während Du schliefst",
+      "film_title_original": "While You Were Sleeping",
+      "film_year": "1995",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-266",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-031",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "hoch"
+    }
+  },
+  "FF-266-YEAR": {
+    "knowledgeId": "K-FF-266-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Während Du schliefst“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-266-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-266-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-266-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      },
+      {
+        "id": "FF-266-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-266-YEAR:y1995",
+    "explanation": "1995 wurde der Film erstmals veröffentlicht.",
+    "context": "„Während Du schliefst“ erschien 1995. Gedreht wurde von Oktober bis Dezember 1994 in Chicago. Der Entwurf war zunächst in New York angesiedelt; aus Budgetgründen wechselte die Produktion in die Stadt, in der Lucy (Sandra Bullock) im fertigen Film bei der Verkehrsgesellschaft arbeitet.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/While_You_Were_Sleeping_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Während Du schliefst",
+      "film_title_original": "While You Were Sleeping",
+      "film_year": "1995",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-266",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "ROM-L-031",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-268-DIRECTOR": {
+    "knowledgeId": "K-FF-268-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Wedding Planner – Verliebt, verlobt, verplant“ Regie?",
+    "answers": [
+      {
+        "id": "FF-268-DIRECTOR:a",
+        "text": "Adam Shankman",
+        "feedback": ""
+      },
+      {
+        "id": "FF-268-DIRECTOR:b",
+        "text": "Jean-Pierre Jeunet",
+        "feedback": ""
+      },
+      {
+        "id": "FF-268-DIRECTOR:c",
+        "text": "Sharon Maguire",
+        "feedback": ""
+      },
+      {
+        "id": "FF-268-DIRECTOR:d",
+        "text": "Andy Tennant",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-268-DIRECTOR:a",
+    "explanation": "Adam Shankman führte Regie.",
+    "context": "Adam Shankman gab mit „Wedding Planner“ sein Spielfilmregiedebüt. Zuvor arbeitete er als Choreograf. Produzent Peter Abrams kannte ihn von „Eine wie keine“; Shankmans Schwester Jennifer Gibgot gehörte ebenfalls zu den Produzenten. Die beiden großen Tanzszenen waren ein wesentlicher Grund für seine Verpflichtung.",
+    "sources": [
+      "https://www.cinema.com/articles/233/wedding-planner-the-production-notes.phtml"
+    ],
+    "metadata": {
+      "film_title_de": "Wedding Planner – Verliebt, verlobt, verplant",
+      "film_title_original": "The Wedding Planner",
+      "film_year": "2001",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-268",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-ROMCOM-060",
+      "learning_objective": "Offizieller Regiecredit",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-268-YEAR": {
+    "knowledgeId": "K-FF-268-YEAR",
+    "difficulty": "mittel",
+    "question": "In welchem Jahr wurde „Wedding Planner – Verliebt, verlobt, verplant“ erstmals veröffentlicht?",
+    "answers": [
+      {
+        "id": "FF-268-YEAR:y2001",
+        "text": "2001",
+        "feedback": ""
+      },
+      {
+        "id": "FF-268-YEAR:y2000",
+        "text": "2000",
+        "feedback": ""
+      },
+      {
+        "id": "FF-268-YEAR:y2002",
+        "text": "2002",
+        "feedback": ""
+      },
+      {
+        "id": "FF-268-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-268-YEAR:y2001",
+    "explanation": "2001 wurde der Film erstmals veröffentlicht.",
+    "context": "„Wedding Planner“ erschien 2001. Shankman hatte 1999 bereits die Choreografie für „Eine wie keine“ übernommen und dort mit Produzent Peter Abrams zusammengearbeitet. Zwei Jahre später folgte aus dieser Verbindung sein erster Spielfilm als Regisseur.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Wedding_Planner",
+      "https://www.cinema.com/articles/233/wedding-planner-the-production-notes.phtml"
+    ],
+    "metadata": {
+      "film_title_de": "Wedding Planner – Verliebt, verlobt, verplant",
+      "film_title_original": "The Wedding Planner",
+      "film_year": "2001",
+      "subdomain": "Rom-Com",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-268",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "Q-20261016-ROMCOM-060",
+      "learning_objective": "Erstveröffentlichungsjahr",
+      "spoiler_level": "gering"
+    }
   }
 }

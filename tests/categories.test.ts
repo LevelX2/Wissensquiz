@@ -31,8 +31,10 @@ const original = contents.flatMap(
 it("prüft alle Classics-Zuordnungen, erhält Texte/IDs und ergänzt Tags idempotent", () => {
   const questions = structuredClone(original);
   const report = applyCategoryTags(questions, CLASSICS);
-  expect(report.applied).toHaveLength(258);
-  expect(report.missing).toHaveLength(0);
+  // The two explicitly replaced Roman Holiday rows retain their category as
+  // current CSV tags; they no longer use the archived reference IDs.
+  expect(report.applied).toHaveLength(256);
+  expect(report.missing.sort()).toEqual(["ROM-L-044", "ROM-L-044-V1"]);
   expect(report.mismatched).toEqual([]);
   const first = JSON.stringify(questions);
   expect(applyCategoryTags(questions, CLASSICS)).toEqual(report);

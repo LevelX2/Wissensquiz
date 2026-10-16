@@ -111,6 +111,7 @@ export const packages = [
   },
   { path: "/action-drama-ergaenzungen-20261015-fragen.csv", filename: "Action-Drama-Ergaenzungen-2026-10-15.csv" },
   { path: "/genres-ergaenzungen-20261016-fragen.csv", filename: "Genres-Ergaenzungen-2026-10-16.csv" },
+  { path: "/musik-romcom-ergaenzungen-20261016-fragen.csv", filename: "Musik-RomCom-Ergaenzungen-2026-10-16.csv" },
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

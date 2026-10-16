@@ -13,6 +13,7 @@ import films from "../docs/Erweiterung-2026-10-07/Filmdaten.json";
 import persons from "../docs/Erweiterung-2026-10-07/Personenfragen_20261007.json";
 import awards from "../docs/Erweiterung-2026-10-07/Preisefragen_20261007.json";
 import { latestCsvRevision, originalQuestionId } from "./editorialSource";
+import integration from "./fixtures/appliedEditorial.json";
 
 const contents = packages
   .slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
@@ -137,8 +138,13 @@ it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Im
     expect(q.answers.find((a) => a.id === q.correctId)?.text).toBe(
       row.answers.find((a) => a.id === row.correct_answer)?.text,
     );
-    if (row.variant_of)
+    const correctedLink = integration.goalLinks.find(entry => entry.id === row.question_id);
+    if (correctedLink) {
+      expect(q.knowledgeId).toBe(correctedLink.correctedKnowledgeId);
+      expect(q.metadata.variant_of).toBe(correctedLink.correctedVariantOf);
+    } else if (row.variant_of) {
       expect(q.knowledgeId).toBe(get(row.variant_of).knowledgeId);
+    }
   }
   for (const person of persons.actors) {
     const group = person.question_ids.map(get);

@@ -125,7 +125,7 @@ it("liefert für jeden Preisfilm Eckdaten, ohne zusätzliche Fragen oder fremde 
   const state = emptyState();
   addPackages(state, contents);
   expect(state.questions).toHaveLength(4888);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4410);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(4411);
   expect(new Set(state.questions.map((q) => q.topic)).size).toBe(604);
   expect(
     state.questions.filter((q) => q.tags.includes("Preisträger")),

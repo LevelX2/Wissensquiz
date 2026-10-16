@@ -130,7 +130,7 @@ it("ergänzt den echten Gesamtkatalog ohne weitere Jahres-/Regiefragen und über
   addPackages(state, contents);
   expect(state).toEqual(once);
   expect(state.questions).toHaveLength(8208);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7666);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(7667);
   expect(
     new Set(
       state.questions

@@ -135,7 +135,7 @@ it("erhält bestehende Fragen, Ereignisse und Lernstände und nutzt 50 vorhanden
   addPackages(state, [actorPackage]);
   // The explicitly retired bridge variant no longer belongs to this stage.
   expect(state.questions).toHaveLength(5688);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(5160);
+  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(5161);
   expect(state.questions.slice(0, before.questions.length)).toEqual(
     before.questions,
   );

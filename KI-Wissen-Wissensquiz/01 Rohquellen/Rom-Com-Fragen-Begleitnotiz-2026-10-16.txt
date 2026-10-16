@@ -1,0 +1,139 @@
+Rom-Com – redaktionelle Übergabe
+Bearbeitung: 16.10.2026
+Grundlage: Rom-Com.csv, Katalogexport 2026-10-13
+Festgehaltener Quellstand: 35d324021ff585ee308e6bb9e0c82205d7208ee1
+Auswahl: sämtliche 290 Ausgangszeilen mit editorial_status=offen; 34 Filme. Die übrigen 607 Zeilen der Genre-Datei dienten als Kontext.
+Rückgabe: 352 Datensätze = 290 Ausgangszeilen + 62 neue Zeilen. Davon sind 57 eigenständige Ergänzungen und 5 ausdrücklich zugeordnete Ersatzfragen. Alle neuen Frage-, Wissensziel- und Varianten-IDs bleiben leer.
+Status: 347 Zeilen redaktionell_geprueft. Fünf ungeeignete Ausgangsziele bleiben erhalten und sind als Entwurf markiert. Ihre Zuordnung zu den Ersatzfragen steht unten.
+Varianten: 19 vorhandene Variantenbezüge unverändert erhalten; keine neuen Varianten. Varianten zählen bei der Abdeckung nur einmal je Wissensziel.
+Abdeckung: für alle 34 Filme mindestens 2 unabhängige leichte, 2 mittlere und 2 schwere Inhaltsziele, zusätzlich je ein Jahres- und Regieziel. Entwürfe wurden dabei nicht angerechnet.
+Kontrolle: alle Ausgangs-IDs und 54 Spalten erhalten; unveränderliche Kontextfelder und bisherige Lösungspositionen abgeglichen; vier unterschiedliche Optionen und genau eine Lösung pro Zeile; Frage und Optionen jeweils höchstens 60 Wörter. UTF-8, Komma, sämtliche Felder gequotet, CRLF; gespeicherte CSV erneut eingelesen und verglichen.
+Grenzen: eigener zweiter Redaktionsdurchgang und technische Prüfungen, keine unabhängige Zweitredaktion. Abgleich mit den bereitgestellten Abenteuer- und Fantasy-Dateien sowie deren bearbeiteten Rückgaben; keine übereinstimmenden Filmblöcke. Kein vollständiger Schauspieler-, Preis- oder Gesamtkatalog vorhanden, daher keine vollständige bestandsweite Dublettenprüfung.
+Keine passende lokale Git-Arbeitskopie verfügbar; kein Commit erstellt. Die Datei ist eine redaktionelle Übergabe; keine App-Integration oder Veröffentlichung erfolgt.
+SHA-256 der CSV: 9c9feefc87d497e9a598f5c430f2836da4904a157d58c5c6cd138cce957d90d9
+
+Ersatzfragen – Original-ID und vollständiger neuer Fragetext:
+ROM-202610-P01-M-025 | Ein Chef zum Verlieben
+Die Frage prüft lediglich die Übersetzung des Originaltitels.
+Ersatz: Welche angebliche Notlage von George (Hugh Grant) bringt Lucy (Sandra Bullock) in „Ein Chef zum Verlieben“ dazu, eine Hochzeit zu verlassen?
+
+ROM-L-044 | Ein Herz und eine Krone
+Der vollständige Filmtitel verrät das bisherige Wissensziel.
+Ersatz: Warum verlässt Ann (Audrey Hepburn) in „Ein Herz und eine Krone“ heimlich die Botschaft?
+
+ROM-L-044-V1 | Ein Herz und eine Krone
+Der vollständige Filmtitel verrät das bisherige Wissensziel.
+Ersatz: Warum wirkt Ann (Audrey Hepburn) benommen, als Joe (Gregory Peck) sie in „Ein Herz und eine Krone“ erstmals findet?
+
+ROM-L-033 | Eine Hochzeit zum Verlieben
+Der vollständige Filmtitel verrät das bisherige Wissensziel.
+Ersatz: Warum unterstützt Robbie (Adam Sandler) Julia (Drew Barrymore) in „Eine Hochzeit zum Verlieben“ bei Hochzeitsvorbereitungen?
+
+ROM-L-035 | Wedding Planner – Verliebt, verlobt, verplant
+Der vollständige Filmtitel verrät das bisherige Wissensziel.
+Ersatz: In welcher Stadt arbeitet Mary Fiore (Jennifer Lopez) in „Wedding Planner“?
+
+Ausgewählte Ausgangs-IDs nach Film (vollständig):
+
+Ärger im Paradies | Trouble in Paradise|1932 | 8 Ausgangszeilen
+F240-20261006-170-L1, F240-20261006-170-L2, F240-20261006-170-D, F240-20261006-170-M1, F240-20261006-170-M2, F240-20261006-170-Y, F240-20261006-170-S1, F240-20261006-170-S2
+
+Der Volltreffer | The Sure Thing|1985 | 8 Ausgangszeilen
+E20261007-F-188-L1, E20261007-F-188-L2, E20261007-F-188-D, E20261007-F-188-M1, E20261007-F-188-M2, E20261007-F-188-Y, E20261007-F-188-S1, E20261007-F-188-S2
+
+Die Falschspielerin | The Lady Eve|1941 | 8 Ausgangszeilen
+F240-20261006-169-L1, F240-20261006-169-L2, F240-20261006-169-D, F240-20261006-169-M1, F240-20261006-169-M2, F240-20261006-169-Y, F240-20261006-169-S1, F240-20261006-169-S2
+
+Die Nacht vor der Hochzeit | The Philadelphia Story|1940 | 8 Ausgangszeilen
+F240-20261006-163-L1, F240-20261006-163-L2, F240-20261006-163-D, F240-20261006-163-M1, F240-20261006-163-M2, F240-20261006-163-Y, F240-20261006-163-S1, F240-20261006-163-S2
+
+Die schreckliche Wahrheit | The Awful Truth|1937 | 8 Ausgangszeilen
+F240-20261006-173-L1, F240-20261006-173-L2, F240-20261006-173-D, F240-20261006-173-M1, F240-20261006-173-M2, F240-20261006-173-Y, F240-20261006-173-S1, F240-20261006-173-S2
+
+Die Waffen der Frauen | Working Girl|1988 | 8 Ausgangszeilen
+E20261007-F-193-L1, E20261007-F-193-L2, E20261007-F-193-D, E20261007-F-193-M1, E20261007-F-193-M2, E20261007-F-193-Y, E20261007-F-193-S1, E20261007-F-193-S2
+
+E-m@il für Dich | You've Got Mail|1998 | 8 Ausgangszeilen
+ROM-L-009, ROM-L-010, FF-255-DIRECTOR, FF-255-YEAR, ROM-M-009, ROM-M-010, ROM-S-009, ROM-S-010
+
+Ein Chef zum Verlieben | Two Weeks Notice|2002 | 8 Ausgangszeilen
+ROM-202610-P01-L-017, ROM-202610-P01-L-018, ROM-202610-P01-M-025, ROM-202610-P01-M-026, ROM-202610-P01-M-027, ROM-202610-P01-S-025, ROM-202610-P01-S-026, ROM-202610-P01-S-027
+
+Ein Herz und eine Krone | Roman Holiday|1953 | 14 Ausgangszeilen
+ROM-L-043, ROM-L-043-V1, ROM-L-044, ROM-L-044-V1, FF-272-DIRECTOR, FF-272-YEAR, ROM-M-043, ROM-M-043-V1, ROM-M-044, ROM-M-044-V1, ROM-S-043, ROM-S-043-V1, ROM-S-044, ROM-S-044-V1
+
+Eine Hochzeit zum Verlieben | The Wedding Singer|1998 | 8 Ausgangszeilen
+ROM-L-033, ROM-L-034, FF-267-YEAR, ROM-M-033, ROM-M-034, FF-267-DIRECTOR, ROM-S-033, ROM-S-034
+
+Hallo, Mr. President | The American President|1995 | 8 Ausgangszeilen
+E20261007-F-189-L1, E20261007-F-189-L2, E20261007-F-189-D, E20261007-F-189-M1, E20261007-F-189-M2, E20261007-F-189-Y, E20261007-F-189-S1, E20261007-F-189-S2
+
+Harry & Sally | When Harry Met Sally...|1989 | 14 Ausgangszeilen
+FF-251-YEAR, ROM-L-001, ROM-L-001-V1, ROM-L-002, ROM-L-002-V1, FF-251-DIRECTOR, ROM-M-001, ROM-M-001-V1, ROM-M-002, ROM-M-002-V1, ROM-S-001, ROM-S-001-V1, ROM-S-002, ROM-S-002-V1
+
+Is’ was, Doc? | What's Up, Doc?|1972 | 8 Ausgangszeilen
+G100-20261008-ROMCOM-008-L1, G100-20261008-ROMCOM-008-L2, G100-20261008-ROMCOM-008-D, G100-20261008-ROMCOM-008-M1, G100-20261008-ROMCOM-008-M2, G100-20261008-ROMCOM-008-Y, G100-20261008-ROMCOM-008-S1, G100-20261008-ROMCOM-008-S2
+
+Jennas Kuchen – Für Liebe gibt es kein Rezept | Waitress|2007 | 8 Ausgangszeilen
+E20261007-F-182-L1, E20261007-F-182-L2, E20261007-F-182-D, E20261007-F-182-M1, E20261007-F-182-M2, E20261007-F-182-Y, E20261007-F-182-S1, E20261007-F-182-S2
+
+Liebe braucht keine Ferien | The Holiday|2006 | 14 Ausgangszeilen
+ROM-L-021, ROM-L-021-V1, ROM-L-022, ROM-L-022-V1, FF-261-DIRECTOR, FF-261-YEAR, ROM-M-021, ROM-M-021-V1, ROM-M-022, ROM-M-022-V1, ROM-S-021, ROM-S-021-V1, ROM-S-022, ROM-S-022-V1
+
+Manhattan Queen | Second Act|2018 | 8 Ausgangszeilen
+E20261007-F-190-L1, E20261007-F-190-L2, E20261007-F-190-D, E20261007-F-190-M1, E20261007-F-190-M2, E20261007-F-190-Y, E20261007-F-190-S1, E20261007-F-190-S2
+
+Punch-Drunk Love | Punch-Drunk Love|2002 | 8 Ausgangszeilen
+G100-20261008-ROMCOM-013-L1, G100-20261008-ROMCOM-013-L2, G100-20261008-ROMCOM-013-D, G100-20261008-ROMCOM-013-M1, G100-20261008-ROMCOM-013-M2, G100-20261008-ROMCOM-013-Y, G100-20261008-ROMCOM-013-S1, G100-20261008-ROMCOM-013-S2
+
+Rendezvous nach Ladenschluss | The Shop Around the Corner|1940 | 8 Ausgangszeilen
+F240-20261006-165-L1, F240-20261006-165-L2, F240-20261006-165-D, F240-20261006-165-M1, F240-20261006-165-M2, F240-20261006-165-Y, F240-20261006-165-S1, F240-20261006-165-S2
+
+Rye Lane | Rye Lane|2023 | 8 Ausgangszeilen
+F240-20261006-177-L1, F240-20261006-177-L2, F240-20261006-177-D, F240-20261006-177-M1, F240-20261006-177-M2, F240-20261006-177-Y, F240-20261006-177-S1, F240-20261006-177-S2
+
+Sabrina | Sabrina|1954 | 8 Ausgangszeilen
+F240-20261006-167-L1, F240-20261006-167-L2, F240-20261006-167-D, F240-20261006-167-M1, F240-20261006-167-M2, F240-20261006-167-Y, F240-20261006-167-S1, F240-20261006-167-S2
+
+Schick mir keine Blumen | Send Me No Flowers|1964 | 8 Ausgangszeilen
+E20261007-F-196-L1, E20261007-F-196-L2, E20261007-F-196-D, E20261007-F-196-M1, E20261007-F-196-M2, E20261007-F-196-Y, E20261007-F-196-S1, E20261007-F-196-S2
+
+Schlaflos in Seattle | Sleepless in Seattle|1993 | 8 Ausgangszeilen
+ROM-L-007, ROM-L-008, FF-254-DIRECTOR, FF-254-YEAR, ROM-M-007, ROM-M-008, ROM-S-007, ROM-S-008
+
+Selbst ist die Braut | The Proposal|2009 | 8 Ausgangszeilen
+ROM-L-019, ROM-L-020, FF-260-YEAR, ROM-M-019, ROM-M-020, FF-260-DIRECTOR, ROM-S-019, ROM-S-020
+
+Set It Up | Set It Up|2018 | 8 Ausgangszeilen
+F240-20261006-175-L1, F240-20261006-175-L2, F240-20261006-175-D, F240-20261006-175-M1, F240-20261006-175-M2, F240-20261006-175-Y, F240-20261006-175-S1, F240-20261006-175-S2
+
+Silver Linings | Silver Linings Playbook|2012 | 8 Ausgangszeilen
+G100-20261008-ROMCOM-012-L1, G100-20261008-ROMCOM-012-L2, G100-20261008-ROMCOM-012-D, G100-20261008-ROMCOM-012-M1, G100-20261008-ROMCOM-012-M2, G100-20261008-ROMCOM-012-Y, G100-20261008-ROMCOM-012-S1, G100-20261008-ROMCOM-012-S2
+
+Sleeping with Other People | Sleeping with Other People|2015 | 8 Ausgangszeilen
+E20261007-F-200-L1, E20261007-F-200-L2, E20261007-F-200-D, E20261007-F-200-M1, E20261007-F-200-M2, E20261007-F-200-Y, E20261007-F-200-S1, E20261007-F-200-S2
+
+Sweet Home Alabama – Liebe auf Umwegen | Sweet Home Alabama|2002 | 8 Ausgangszeilen
+ROM-L-049, ROM-L-050, FF-275-YEAR, ROM-M-049, ROM-M-050, FF-275-DIRECTOR, ROM-S-049, ROM-S-050
+
+The Big Sick | The Big Sick|2017 | 8 Ausgangszeilen
+G100-20261008-ROMCOM-011-L1, G100-20261008-ROMCOM-011-L2, G100-20261008-ROMCOM-011-D, G100-20261008-ROMCOM-011-M1, G100-20261008-ROMCOM-011-M2, G100-20261008-ROMCOM-011-Y, G100-20261008-ROMCOM-011-S1, G100-20261008-ROMCOM-011-S2
+
+Umständlich verliebt | The Switch|2010 | 8 Ausgangszeilen
+E20261007-F-198-L1, E20261007-F-198-L2, E20261007-F-198-D, E20261007-F-198-M1, E20261007-F-198-M2, E20261007-F-198-Y, E20261007-F-198-S1, E20261007-F-198-S2
+
+Verrückt nach Mary | There's Something About Mary|1998 | 8 Ausgangszeilen
+ROM-202610-P01-L-001, ROM-202610-P01-L-002, ROM-202610-P01-M-001, ROM-202610-P01-M-002, ROM-202610-P01-M-003, ROM-202610-P01-S-001, ROM-202610-P01-S-002, ROM-202610-P01-S-003
+
+Während Du schliefst | While You Were Sleeping|1995 | 8 Ausgangszeilen
+ROM-L-031, ROM-L-032, ROM-M-031, ROM-M-032, FF-266-DIRECTOR, FF-266-YEAR, ROM-S-031, ROM-S-032
+
+Was das Herz begehrt | Something's Gotta Give|2003 | 8 Ausgangszeilen
+ROM-202610-P01-L-011, ROM-202610-P01-L-012, ROM-202610-P01-M-016, ROM-202610-P01-M-017, ROM-202610-P01-M-018, ROM-202610-P01-S-016, ROM-202610-P01-S-017, ROM-202610-P01-S-018
+
+Was Frauen wollen | What Women Want|2000 | 8 Ausgangszeilen
+ROM-202610-P01-L-009, ROM-202610-P01-L-010, ROM-202610-P01-M-013, ROM-202610-P01-M-014, ROM-202610-P01-M-015, ROM-202610-P01-S-013, ROM-202610-P01-S-014, ROM-202610-P01-S-015
+
+Wedding Planner – Verliebt, verlobt, verplant | The Wedding Planner|2001 | 8 Ausgangszeilen
+ROM-L-035, ROM-L-036, ROM-M-035, ROM-M-036, FF-268-DIRECTOR, FF-268-YEAR, ROM-S-035, ROM-S-036
+
