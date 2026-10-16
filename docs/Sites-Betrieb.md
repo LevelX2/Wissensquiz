@@ -1,5 +1,20 @@
 # Sites-Veröffentlichung
 
+## Version 82: überarbeitete Genrefragen, Filmreise und Audio
+
+Am **16.10.2026 um 20:55:02 Uhr Europe/Berlin** aus Main (`00ce918f1b54e9512c4a4c6257f8ba2768f10b4a`) als **Version 82 öffentlich veröffentlicht**, nativer Status **succeeded**. Besucherzugriff public, Revision 2 erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-16-Version-82.json).
+
+Aktiver Bestand: **15.295 Fragen, 14.628 Wissensziele, 39 Pakete**; 11.591 Film-, 3.424 Schauspieler- und 280 Preisfragen. Zwölf Genre-Rückgaben einschließlich Ergänzungen und ausdrücklicher Ersatzfragen veröffentlicht. 10.733 geprüfte Original-IDs beschreiben den gesamten Redaktionsfortschritt; davon sind 5.183 Original-IDs samt zugehörigen Ergänzungen im aktuellen App-Bestand integriert. Ältere redaktionelle Fassungen außerhalb der App bleiben gesondert. Der Serienlauf bleibt nach Block 128 pausiert.
+
+**497 Tests in 81 Dateien**, TypeScript, Build 82 und Diff-Prüfung erfolgreich. Im vollständigen Lauf zunächst vier veraltete Unit-Erwartungen und 18 Browserfehler durch überholte Daten-/Anzeigeerwartungen; korrigiert und alle betroffenen Fälle erfolgreich nachgeprüft. Insgesamt **388 unterschiedliche Browserfälle erfolgreich**, ein geplanter Skip, keine offenen Fehler. Zusätzlich isolierte Screenshot-Pfade geprüft. Anwendung unverändert durch die Testkorrekturen; finaler Build bytegleich zum browsergeprüften Build. Abgebrochene Versuche zählen nicht als bestanden; unveränderte erfolgreiche Prüfteile wiederverwendet. Keine Abhängigkeitsänderung.
+
+Inhaltsbestand mit SHA-256 `dcaac8b93da86e708fea266927eae0c1336e07a4d3b5fb00dc1d466d2abc6c19` nativ aktiviert; Staging leer. Migration `20261016184815_journey_area_balanced_selection.sql` ersetzt die private Auswahlfunktion: Bekanntheitsgruppe zuerst, darin geeignete Bereiche gleich gewichtet, auch für Wiederholungen und Füllziele. **30 private Quelltabellen innerhalb konsistenter Transaktionen unverändert bestätigt**, keine echten Spielstände für Tests verwendet. Direkter Funktionsaufruf für anon/authenticated gesperrt; Advisors gegenüber Ausgangsstand unverändert. Neue Audio-Sitzung nach Tab-/Appwechsel ebenfalls enthalten; physische iPhone-Hörabnahme steht aus.
+
+Archiv enthält 925 Dateien, davon alle 924 Build-Dateien bytegleich. Öffentlich 923 Nicht-HTML-Dateien HTTP 200 und bytegleich, Startseite HTTP 200 mit den richtigen Assets, /index.html regulär 307. Versionszeit getrennt gespeichert und zurückgelesen, anonym über die Versions-RPC bestätigt; direkter Tabellenzugriff 401. Kein GitHub-Push.
+
+Ein vorbestehender Musik-Test-Screenshot wurde durch einen festen Prüfausgabepfad überschrieben; das ursprüngliche Bild ist nicht wiederherstellbar. Die betroffenen Tests verwenden jetzt isolierte Ausgabepfade und wurden erfolgreich nachgeprüft. Keine Fragen oder Spielstände betroffen. Eigene Quellkopie, Prüfbuild, Browserausgaben, Inhalts-SQL, Kontrollentpackung und Transportarchiv nach Pfad-/Verknüpfungsprüfung entfernt; Abwesenheit bestätigt (1.182.705.191 Bytes, 6.063 Dateien). Eigene schreibgeschützte Git-Objektkopien und das versteckte eigene Git-Verzeichnis vor normaler Löschung entsperrt; keine geteilten Git-Objekte. Geteilte Abhängigkeiten, Originalmetadaten und beide fremden Mifune-Konfigurationen erhalten.
+
+
 ## Version 81: Bekanntheitsauswahl und langfristige Erfolgsprogression
 
 Am **15.10.2026 um 20:00:48 Uhr Europe/Berlin** aus Main (c8b13cff62c280e90562df72e3c427e9e0158dba) als **Version 81 öffentlich veröffentlicht**, nativer Status **succeeded**. Öffentlicher Zugriff **public, Revision 2** und bestehende Adresse erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-15-Version-81.json). [Freigabe](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-15 Nutzerauftrag Main veroeffentlichen.txt>).

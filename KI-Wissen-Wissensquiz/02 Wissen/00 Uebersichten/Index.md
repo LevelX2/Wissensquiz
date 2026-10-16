@@ -1,8 +1,8 @@
 # Wissensindex
 
-**15.10.2026 – Bereichsauslosung der Filmreise lokal korrigiert:** Bekanntheitsgruppe bleibt zuerst, darin jedes Filmgenre, Schauspieler und Preisträger gleich gewichtet; auch Wiederholungen und bekannte Füllziele. Älteste fällige Frage innerhalb des gezogenen Bereichs zuerst. Keine festen Quoten. Noch nicht veröffentlicht oder produktiv aktiviert; Version 81 bleibt live. [Vertrag](../../../docs/Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
+**16.10.2026 – Version 82 veröffentlicht:** 15.295 Fragen / 14.628 Ziele in 39 Paketen einschließlich zwölf geprüfter Genre-Rückgaben. Filmreise mit gleich gewichteten Bereichen innerhalb der Bekanntheitsgruppe und neue Audio-Sitzung nach Tab-/Appwechsel aktiv. 497 Tests, Build und 388 unterschiedliche Browserfälle erfolgreich; ein geplanter Skip. 30 private Quelltabellen unverändert, alle 924 öffentlichen Dateien geprüft. [Nachweis](../../../docs/Veroeffentlichung-2026-10-16-Version-82.json).
 
-- [Audio-Sitzung nach Tab- und Appwechsel erneuern – 15.10.2026, lokal](../../../docs/Lernregeln.md#neue-audio-sitzung-nach-tab--und-appwechsel--15102026)
+- [Audio-Sitzung nach Tab- und Appwechsel erneuern – seit Version 82](../../../docs/Lernregeln.md#neue-audio-sitzung-nach-tab--und-appwechsel--15102026)
 
 **15.10.2026 – Gesamtstand aus Main als Version 81 veröffentlicht:** Neue Filmreiseziele zuerst gleichwahrscheinlich nach freigespielter Bekanntheitsgruppe; zwölf Erfolgsstufen und erweiterte Meilensteine. 483 Tests, Build und 370 unterschiedliche Browserfälle einschließlich 24 erfolgreicher Nachprüfungen bestanden; ein geplanter Skip. Serverfunktion aktiviert, acht private Quelltabellen unverändert, synthetische Prüfungen zurückgerollt. Alle 919 öffentlichen Dateien geprüft, Versionszeit 20:00:48 Uhr Europe/Berlin bestätigt; eigene Veröffentlichungsartefakte vollständig entfernt. [Nachweis](../../../docs/Veroeffentlichung-2026-10-15-Version-81.json).
 

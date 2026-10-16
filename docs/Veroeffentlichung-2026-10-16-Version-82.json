@@ -1,0 +1,195 @@
+{
+  "version": 82,
+  "sourceBranch": "main",
+  "sourceCommit": "00ce918f1b54e9512c4a4c6257f8ba2768f10b4a",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "publishedAt": "2026-10-16T20:55:02.964705+02:00",
+  "changes": [
+    "Zwölf geprüfte Genre-Rückgaben einschließlich Ergänzungen und Ersatzfragen im aktuellen Main-Bestand veröffentlicht",
+    "Filmreise: gleiche Chance je geeignetem Bereich innerhalb der gezogenen Bekanntheitsgruppe, auch bei Wiederholungen und Füllzielen",
+    "Neue Audio-Sitzung nach Tab-, Fokus- und Appwechsel"
+  ],
+  "data": {
+    "packages": 39,
+    "questions": 15295,
+    "goals": 14628,
+    "filmWorks": 1302,
+    "actors": 428,
+    "actorFamiliarityGroups": [
+      107,
+      107,
+      107,
+      107
+    ],
+    "reviewedOriginalsEditorialTotal": 10733,
+    "reviewedOriginalsIntegrated": 5183,
+    "remainingEditorialOriginals": 2040,
+    "editorialLoopPausedAfterBlock": 128,
+    "olderEditorialVersionsOutsideAppRemainSeparate": true,
+    "reset": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_dfedf9cd37c8819188f2a05df908bde6",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 82,
+    "source": {
+      "commit_sha": "00ce918f1b54e9512c4a4c6257f8ba2768f10b4a"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000fba482109ae8fe8b269b4818",
+      "content_hash": "sha256:f92e49c68a39bc4608d98efeb905eb02442ac2c174e394d9256244c5e9e5b832",
+      "size_bytes": 93614080,
+      "file_count": 925
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ad272eef44c819190424d211e4990c3",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_dfedf9cd37c8819188f2a05df908bde6",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-16T20:55:02.964705+02:00"
+  },
+  "sourcePushToSitesOnly": true,
+  "githubPush": false,
+  "nativeActivation": {
+    "questions": 15295,
+    "goals": 14628,
+    "presentations": 15295,
+    "contentHash": "dcaac8b93da86e708fea266927eae0c1336e07a4d3b5fb00dc1d466d2abc6c19",
+    "sources": {
+      "film": 11591,
+      "actors": 3424,
+      "awards": 280
+    },
+    "staging": 0,
+    "privateSourceTablesGuarded": 30,
+    "privateSourceTablesUnchanged": true,
+    "selectionBodyMd5": "f6d13f94596e66f20781491c9d3fa5d7",
+    "invoker": true,
+    "anonDenied": true,
+    "authenticatedDenied": true,
+    "migration": {
+      "name": "journey_area_balanced_selection",
+      "version": "20261016184815"
+    }
+  },
+  "advisors": {
+    "categoriesAndCountsUnchanged": true,
+    "security": [
+      {
+        "name": "rls_enabled_no_policy",
+        "count": 55,
+        "level": "INFO"
+      },
+      {
+        "name": "anon_security_definer_function_executable",
+        "count": 10,
+        "level": "WARN"
+      },
+      {
+        "name": "authenticated_security_definer_function_executable",
+        "count": 32,
+        "level": "WARN"
+      },
+      {
+        "name": "auth_leaked_password_protection",
+        "count": 1,
+        "level": "WARN"
+      }
+    ],
+    "performance": [
+      {
+        "name": "unindexed_foreign_keys",
+        "count": 5,
+        "level": "INFO"
+      },
+      {
+        "name": "unused_index",
+        "count": 12,
+        "level": "INFO"
+      }
+    ]
+  },
+  "publicationMetadataSeparatelyReadBack": true,
+  "limitations": [
+    "Physische Hörabnahme auf dem gemeldeten iPhone steht aus.",
+    "Ein vorbestehender Musik-Test-Screenshot wurde durch einen festen Prüfausgabepfad überschrieben; Originalbild nicht wiederherstellbar. Betroffene Tests verwenden jetzt isolierte Ausgabepfade, erfolgreich nachgeprüft. Keine Fragen oder Spielstände betroffen."
+  ],
+  "cleanup": {
+    "completed": true,
+    "removedBytes": 1182705191,
+    "removedFiles": 6063,
+    "releaseDirectoryAbsent": true,
+    "ownReadOnlyFilesUnlocked": true,
+    "ownHiddenGitDirectoryUnlocked": true,
+    "sharedGitObjects": false,
+    "dependenciesPreserved": true,
+    "originalPortraitMetadataPreserved": true,
+    "foreignMifuneConfigurationsPreserved": true,
+    "preexistingMusicScreenshotRestored": false,
+    "ownRootScreenshotsRemoved": 3
+  },
+  "checks": {
+    "unitTests": 497,
+    "unitFiles": 81,
+    "unitInitialPassed": 493,
+    "unitInitialFailed": 4,
+    "unitInitialDurationSeconds": 174.06220849609375,
+    "browserPlannedCases": 389,
+    "browserInitialPassed": 370,
+    "browserInitialFailed": 18,
+    "browserSkipped": 1,
+    "browserInitialDurationSeconds": 2452.716722,
+    "correctiveBrowserCasesPassed": 20,
+    "correctiveBrowserDurationSeconds": 336.551268,
+    "distinctBrowserCasesPassed": 388,
+    "unresolvedBrowserFailures": 0,
+    "sourceApplicationUnchangedByTestCorrections": true,
+    "earlierUnfinishedAttemptsCountedAsPassed": false,
+    "typeScript": true,
+    "buildVersion": 82,
+    "dependencyChanges": false,
+    "formatAndDiff": true,
+    "unitCorrectiveCasesPassed": 34,
+    "helperCorrectiveCasesPassed": 11,
+    "nativeMigrationCasesPassed": 8
+  },
+  "archive": {
+    "buildFiles": 924,
+    "archiveFiles": 925,
+    "allBuildFilesByteIdentical": true,
+    "finalBuildByteIdenticalToBrowserTestedBuild": true,
+    "sha256": "2881beefbaf3f35dd8fbce59ef9eda0000c8b73e119e1c21ca2224da370f22f1",
+    "bytes": 78083275
+  },
+  "live": {
+    "checked": 924,
+    "nonHtmlFiles": 923,
+    "failures": [],
+    "htmlStatus": 200,
+    "expectedAssetReferences": true,
+    "indexEndpointStatus": 307,
+    "releaseRpcStatus": 200,
+    "publicRelease": [
+      {
+        "version": 82,
+        "published_at": "2026-10-16T20:55:02.964705+02:00"
+      }
+    ],
+    "releaseTableDirectStatus": 401
+  }
+}
