@@ -81,7 +81,7 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    const current = (reviewedFacts as Record<string, { context: string }>)[
+    const current = (reviewedFacts as Record<string, { context: string; metadata: Record<string, string> }>)[
       director.id
     ];
     expect(director.context).toContain(
@@ -89,7 +89,7 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
     );
     expect(director.metadata.verification_status).toBe(
       current
-        ? "Redaktionsabgleich 2026-10-10"
+        ? current.metadata.verification_status
         : "Redaktionelle Quelle 2026-09-29",
     );
   }
@@ -112,12 +112,12 @@ it("bewahrt alle 3.257 bisherigen Fragen und ergänzt neue Einträge nur einmal"
   const old = emptyState();
   addPackages(old, contents.slice(0, 13));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "a990d44e7507004b3f92982d05d014c1e3117b12e040c3c9e3d5722a77a50119",
+    "97f4d3ba8982cdcf009dcf9c2782ad143310462580f3c92bab9835d28bbe6c8d",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);
   addPackages(old, contents);
-  expect(old.questions).toHaveLength(3727);
+  expect(old.questions).toHaveLength(3726);
   expect(old.questions.slice(0, before.length)).toEqual(before);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

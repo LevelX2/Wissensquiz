@@ -1,11 +1,11 @@
 import { writeStoredState } from "./fixtures";
 import { readFileSync } from "node:fs";
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import { test, expect, readStoredState, fetchPublishedCsv, type Page } from "./fixtures";
 import { startRound } from "../../src/engine";
 import type { Question } from "../../src/model";
 import { questionSourceOf, genreOf } from "../../src/filters";
 import { filmIdentity } from "../../src/familiarity";
-import { catalogCounts } from "../catalog-counts";
+import { catalogCounts, genreQuestionCounts } from "../catalog-counts";
 
 // Server questions add presentation snapshots and generate year distractors.
 // Compare catalog content and the correct answer independently of those fields.
@@ -27,7 +27,7 @@ test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt da
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Horror",
   );
   expect(new Set(horror.map(filmIdentity)).size).toBe(100);
-  expect(horror).toHaveLength(827);
+  expect(horror).toHaveLength(genreQuestionCounts.Horror);
   for (const [id, firstYear, laterYear] of [
     ["G100-20261008-HORROR-016-Y", "2010", "2011"],
     ["G100-20261008-HORROR-022-Y", "2002", "2003"],
@@ -63,9 +63,7 @@ test("enthält 100 Horrorfilme, erhält die früheren Festivaljahre und lädt da
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-horror-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-horror-fragen.csv"),
   ).toBe(readFileSync("public/genre100-horror-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),
@@ -84,7 +82,7 @@ test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie u
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Fantasy",
   );
   expect(new Set(fantasy.map(filmIdentity)).size).toBe(100);
-  expect(fantasy).toHaveLength(834);
+  expect(fantasy).toHaveLength(genreQuestionCounts.Fantasy);
   await prepareQuestion(page, "G100-20261008-FANTASY-012-D");
   for (const director of ["Mark Andrews", "Brenda Chapman", "Steve Purcell"]) {
     await expect(page.locator(".question-card h1")).not.toContainText(director);
@@ -104,9 +102,7 @@ test("enthält 100 Fantasyfilme, erhält die vollständige Haupt- und Co-Regie u
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-fantasy-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-fantasy-fragen.csv"),
   ).toBe(readFileSync("public/genre100-fantasy-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),
@@ -125,7 +121,7 @@ test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhäl
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Western",
   );
   expect(new Set(western.map(filmIdentity)).size).toBe(100);
-  expect(western).toHaveLength(833);
+  expect(western).toHaveLength(genreQuestionCounts.Western);
   await prepareQuestion(page, "G100-20261008-WESTERN-018-D");
   await expect(page.locator(".question-card h1")).not.toContainText(
     "Don Siegel",
@@ -141,9 +137,7 @@ test("enthält 100 Westernfilme, trennt Hauptregie und zweite Einheit und erhäl
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-western-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-western-fragen.csv"),
   ).toBe(readFileSync("public/genre100-western-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),
@@ -162,7 +156,7 @@ test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Rom-Com",
   );
   expect(new Set(romcom.map(filmIdentity)).size).toBe(100);
-  expect(romcom).toHaveLength(830);
+  expect(romcom).toHaveLength(genreQuestionCounts["Rom-Com"]);
   for (const [id, original] of [
     ["G100-20261008-ROMCOM-004-D", "SCHAUSPIELER-202610-P01-070-S-1"],
     ["G100-20261008-ROMCOM-012-D", "SCHAUSPIELER-202610-P01-081-S-2"],
@@ -185,9 +179,7 @@ test("enthält 100 Rom-Com-Filme, erhält beide bestehenden Regieziele und lädt
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-romcom-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-romcom-fragen.csv"),
   ).toBe(readFileSync("public/genre100-romcom-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),
@@ -206,7 +198,7 @@ test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Fe
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Musik",
   );
   expect(new Set(music.map(filmIdentity)).size).toBe(100);
-  expect(music).toHaveLength(830);
+  expect(music).toHaveLength(genreQuestionCounts.Musik);
   const variant = initial.questions.find(
     (q) => q.id === "G100-20261008-MUSIK-017-D",
   )!;
@@ -230,9 +222,7 @@ test("enthält 100 Musikfilme, teilt das bestehende Regieziel und erhält den Fe
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-musik-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-musik-fragen.csv"),
   ).toBe(readFileSync("public/genre100-musik-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),
@@ -267,7 +257,7 @@ test("enthält 100 Abenteuerfilme, schützt beide Regienamen und lädt das neue 
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Abenteuer",
   );
   expect(new Set(adventure.map(filmIdentity)).size).toBe(100);
-  expect(adventure).toHaveLength(805);
+  expect(adventure).toHaveLength(genreQuestionCounts.Abenteuer);
   await prepareQuestion(page, "G100-20261008-ABENTEUER-038-D");
   await expect(page.locator(".question-card h1")).not.toContainText(
     "Kevin Lima",
@@ -288,9 +278,7 @@ test("enthält 100 Abenteuerfilme, schützt beide Regienamen und lädt das neue 
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-abenteuer-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-abenteuer-fragen.csv"),
   ).toBe(readFileSync("public/genre100-abenteuer-fragen.csv", "utf8"));
   const saved = await readStoredState(page);
   expect(catalogSnapshot(saved.questions)).toEqual(
@@ -326,7 +314,7 @@ test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität u
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Thriller",
   );
   expect(new Set(thriller.map(filmIdentity)).size).toBe(100);
-  expect(thriller).toHaveLength(812);
+  expect(thriller).toHaveLength(genreQuestionCounts.Thriller);
   const variant = initial.questions.find(
     (q) => q.id === "G100-20261008-THRILLER-012-D",
   )!;
@@ -346,9 +334,7 @@ test("enthält 100 Thrillerfilme, erhält die bestehende Wissenszielidentität u
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-thriller-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-thriller-fragen.csv"),
   ).toBe(readFileSync("public/genre100-thriller-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),
@@ -369,7 +355,7 @@ test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröff
       genreOf(q) === "Martial Arts & Asia-Film",
   );
   expect(new Set(martial.map(filmIdentity)).size).toBe(100);
-  expect(martial).toHaveLength(831);
+  expect(martial).toHaveLength(genreQuestionCounts["Martial Arts & Asia-Film"]);
   const year = initial.questions.find(
     (q) => q.id === "G100-20261008-MARTIALARTS-003-Y",
   )!;
@@ -386,9 +372,7 @@ test("enthält 100 Martial-Arts-Filme, unterscheidet die zweiteilige Erstveröff
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-martialarts-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-martialarts-fragen.csv"),
   ).toBe(readFileSync("public/genre100-martialarts-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),
@@ -407,7 +391,7 @@ test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt d
     (q) => questionSourceOf(q) === "film" && genreOf(q) === "Action",
   );
   expect(new Set(action.map(filmIdentity)).size).toBe(100);
-  expect(action).toHaveLength(829);
+  expect(action).toHaveLength(genreQuestionCounts.Action);
   await prepareQuestion(page, "G100-20261008-ACTION-009-D");
   await expect(page.locator(".question-card h1")).not.toContainText("Hunt");
   await expect(page.locator(".film-data")).toHaveCount(0);
@@ -426,9 +410,7 @@ test("enthält 100 Actionfilme, trennt Hauptregie und zweite Einheit und lädt d
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   expect(
-    await page.evaluate(async () =>
-      (await fetch("/genre100-action-fragen.csv")).text(),
-    ),
+    await fetchPublishedCsv(page, "/genre100-action-fragen.csv"),
   ).toBe(readFileSync("public/genre100-action-fragen.csv", "utf8"));
   expect(catalogSnapshot((await readStoredState(page)).questions)).toEqual(
     catalogSnapshot(initial.questions),

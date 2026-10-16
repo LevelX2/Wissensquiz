@@ -53,7 +53,12 @@ it("entfernt exakte Metadaten-Dopplungen verlustfrei und erhält Feldreihenfolge
   const decoded = decodeQuestionCatalog(compact);
   expect(JSON.stringify(decoded)).toBe(before);
   expect(JSON.stringify(questions)).toBe(before);
-  expect(compact.length).toBeLessThan(before.length * 0.7);
+  // Editorial text changes the share of repeated metadata in this corpus.
+  // Assert actual deduplication instead of a corpus-dependent size ratio.
+  const packed = JSON.parse(compact);
+  expect(packed[0].metadata.question).toBe(5);
+  expect(packed[0].metadata.explanation_context).toBe(7);
+  expect(compact.length).toBeLessThan(before.length);
   expect(decoded[0].metadata.difficulty).toBe("Easy");
   expect(questionSnapshotMatches(questions[0], decoded[0])).toBe(true);
   decoded[0].answers[0].text = "Änderung";

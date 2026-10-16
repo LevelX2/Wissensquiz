@@ -14,3 +14,18 @@ export const catalogCounts = {
   yearEditorialGenerated: 228,
   yearEditorialCsv: 63,
 };
+
+export const genreQuestionCounts = {
+  Abenteuer: 857,
+  Action: 874,
+  Drama: 1078,
+  Fantasy: 910,
+  Horror: 899,
+  Komödie: 1210,
+  "Martial Arts & Asia-Film": 907,
+  Musik: 873,
+  "Rom-Com": 887,
+  "Science-Fiction": 1289,
+  Thriller: 879,
+  Western: 928,
+};

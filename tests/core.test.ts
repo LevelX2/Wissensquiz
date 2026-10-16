@@ -40,11 +40,11 @@ const event = (at: number, extra: Partial<AnswerEvent> = {}): AnswerEvent => ({
   ...extra,
 });
 describe("CSV und Inhalte", () => {
-  it("wertet die 183 Sci-Fi-Fragen und 153 Wissensziele einschließlich Redaktion aus", () => {
+  it("wertet die 183 Sci-Fi-Fragen und 154 Wissensziele einschließlich Redaktion aus", () => {
     expect(imported.report.rejected).toBe(0);
     expect(questions).toHaveLength(183);
-    expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(153);
-    expect(questions.filter((q) => q.metadata.variant_of)).toHaveLength(30);
+    expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(154);
+    expect(questions.filter((q) => q.metadata.variant_of)).toHaveLength(29);
     expect(imported.report.warnings).toEqual([]);
     expect(
       questions.every((q) => q.context && q.sources.length),
@@ -54,14 +54,14 @@ describe("CSV und Inhalte", () => {
       JSON.stringify(
         {
           ...imported.report,
-          knowledgeGoals: 153,
-          variants: 30,
+          knowledgeGoals: 154,
+          variants: 29,
           topics: new Set(questions.map((q) => q.topic)).size,
           eligibleBadgeGoals: new Set(
             questions.filter(badgeEligible).map((q) => q.knowledgeId),
           ).size,
           contentNote:
-            "Nutzerdatei unverändert übernommen. verification_status ist Quellenangabe, keine unabhängige Faktenprüfung.",
+            "Aktueller redaktionell integrierter Stand; Originalquellen separat erhalten. verification_status beschreibt den Quellenstand.",
         },
         null,
         2,

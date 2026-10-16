@@ -10,6 +10,7 @@ import {
 } from "./fixtures";
 import { answer, complete, startRound } from "../../src/engine";
 import { questionSourceOf, genreOf } from "../../src/filters";
+import { familiarityOf } from "../../src/familiarity";
 
 test.use({ acknowledgeIncidentalSuccess: true });
 
@@ -224,6 +225,15 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
   page,
 }) => {
   await fixCalendarTime(page, new Date("2026-10-11T12:00:00+02:00"));
+  const adventure = accountBackend(page).release.questions.filter(q =>
+    questionSourceOf(q) === "film" && genreOf(q) === "Abenteuer",
+  );
+  const half = (difficulty: "leicht" | "mittel") => Math.ceil(
+    new Set(adventure.filter(q => q.difficulty === difficulty).map(q => q.knowledgeId)).size / 2,
+  );
+  const firstGroup = new Set(adventure.filter(q => q.difficulty === "leicht" && familiarityOf(q) === 1).map(q => q.knowledgeId));
+  expect(firstGroup.size).toBeGreaterThan(0);
+  const groupTarget = Math.ceil(firstGroup.size / 2);
   await page.goto("/");
   await openRoundSetup(page);
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
@@ -232,24 +242,24 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
       name: "Abenteuer: Fortschritt zu Mittel",
       exact: true,
     }),
-  ).toHaveAttribute("max", "102");
+  ).toHaveAttribute("max", String(half("leicht")));
   await expect(
     page.getByRole("progressbar", {
       name: "Abenteuer: Fortschritt zu Schwer",
       exact: true,
     }),
-  ).toHaveAttribute("max", "194");
+  ).toHaveAttribute("max", String(half("mittel")));
   await expect(
     page.getByRole("progressbar", {
       name: "Abenteuer: Fortschritt zur nächsten Bekanntheitsgruppe",
       exact: true,
     }),
-  ).toHaveAttribute("max", "8");
+  ).toHaveAttribute("max", String(groupTarget));
   await expect(page.locator(".learning-path")).toContainText(
-    "Bekanntheitsgruppe 1: 0 von 15 leichten Filmfakten sicher beantwortet",
+    `Bekanntheitsgruppe 1: 0 von ${firstGroup.size} leichten Filmfakten sicher beantwortet`,
   );
   await expect(page.locator(".learning-path")).toContainText(
-    "2 · Bekannt freischalten: 8 sichere Ziele nötig (50 %)",
+    `2 · Bekannt freischalten: ${groupTarget} sichere Ziele nötig (50 %)`,
   );
   expect(
     (

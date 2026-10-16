@@ -1,10 +1,12 @@
 import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 import { familiarityOf } from "../../src/familiarity";
+import { questionSourceOf, genreOf } from "../../src/filters";
+import { genreQuestionCounts } from "../catalog-counts";
 
 test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nach Neuladen erhalten", async ({
   page,
   context,
-}) => {
+}, testInfo) => {
   await page.clock.install({ time: new Date("2026-09-27T12:00:00+02:00") });
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/");
@@ -29,8 +31,8 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nac
   await expect(page.locator(".film-data")).toHaveCount(0);
   const saved = await readStoredState(page);
   expect(
-    saved.questions.filter((q: any) => q.metadata.subdomain === "Musik"),
-  ).toHaveLength(853);
+    saved.questions.filter(q => questionSourceOf(q) === "film" && genreOf(q) === "Musik"),
+  ).toHaveLength(genreQuestionCounts.Musik);
   expect(saved.imports).toHaveLength(0);
   const round = saved.rounds.at(-1)!,
     q = round.questions[0];
@@ -46,7 +48,7 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nac
   await expect(page.locator(".film-data")).toContainText(
     q.metadata.film_title_original,
   );
-  await page.screenshot({ path: "test-results/musik-filmdaten-390.png" });
+  await page.screenshot({ path: testInfo.outputPath("musik-filmdaten-390.png") });
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".explanation")).toBeVisible();

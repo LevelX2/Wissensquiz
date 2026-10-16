@@ -1,7 +1,8 @@
 import { writeStoredState } from "./fixtures";
 import { catalogCounts } from "../catalog-counts";
+import { originalQuestionId } from "../editorialSource";
 import { readFileSync } from "node:fs";
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import { test, expect, readStoredState, fetchPublishedCsv, type Page } from "./fixtures";
 import { startRound } from "../../src/engine";
 
 test.use({ acknowledgeIncidentalSuccess: true });
@@ -32,8 +33,8 @@ test("hält die drei Erweiterungspakete serverseitig bereit, schützt das Regiet
   expect(initial.questions).toHaveLength(catalogCounts.questions);
   expect(initial.imports).toHaveLength(0);
   expect(
-    initial.questions.filter((q) => q.id.startsWith("E20261007-")),
-  ).toHaveLength(2476);
+    initial.questions.filter((q) => originalQuestionId(q.id).startsWith("E20261007-")),
+  ).toHaveLength(2480);
   await prepareQuestion(page, "E20261007-F-180-D");
   await expect(page.locator(".question-card h1")).not.toContainText(
     "Roger Waters",
@@ -61,7 +62,7 @@ test("hält die drei Erweiterungspakete serverseitig bereit, schützt das Regiet
     "/preise-erweiterung-20261007-fragen.csv",
   ])
     expect(
-      await page.evaluate(async (url) => (await fetch(url)).text(), path),
+      await fetchPublishedCsv(page, path),
     ).toBe(readFileSync(`public${path}`, "utf8"));
   const final = await readStoredState(page);
   // Issued questions acquire server presentation snapshots and year options.

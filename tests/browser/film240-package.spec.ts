@@ -1,7 +1,8 @@
 import { writeStoredState } from "./fixtures";
 import { catalogCounts } from "../catalog-counts";
+import { originalQuestionId } from "../editorialSource";
 import { readFileSync } from "node:fs";
-import { test, expect, readStoredState } from "./fixtures";
+import { test, expect, readStoredState, fetchPublishedCsv } from "./fixtures";
 import { startRound } from "../../src/engine";
 
 const packagePath = "/film-ergaenzung-240-fragen.csv";
@@ -17,8 +18,8 @@ test("240-Film-Paket bleibt serverseitig verfügbar und zeigt das vollständige 
   const state = await readStoredState(page);
   expect(state.questions).toHaveLength(catalogCounts.questions);
   expect(
-    state.questions.filter((q) => q.id.startsWith("F240-20261006-")),
-  ).toHaveLength(1916);
+    state.questions.filter((q) => originalQuestionId(q.id).startsWith("F240-20261006-")),
+  ).toHaveLength(1920);
   const q = state.questions.find((q) => q.id === "F240-20261006-230-L1")!;
   const catalog = state.questions;
   state.questions = [q];
@@ -53,16 +54,13 @@ test("240-Film-Paket bleibt serverseitig verfügbar und zeigt das vollständige 
     "John Farrow und John Ford",
   );
   expect(
-    await page.evaluate(
-      async (path) => (await fetch(path)).text(),
-      packagePath,
-    ),
+    await fetchPublishedCsv(page, packagePath),
   ).toBe(expectedCsv);
   const saved = await readStoredState(page);
   expect(saved.questions).toHaveLength(catalogCounts.questions);
   expect(
-    saved.questions.filter((q) => q.id.startsWith("F240-20261006-")),
-  ).toHaveLength(1916);
+    saved.questions.filter((q) => originalQuestionId(q.id).startsWith("F240-20261006-")),
+  ).toHaveLength(1920);
   expect(saved.events.filter((e) => e.questionId === q.id)).toHaveLength(1);
   expect(saved.events.find((e) => e.questionId === q.id)?.dontKnow).toBe(true);
 });

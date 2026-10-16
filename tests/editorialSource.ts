@@ -2,9 +2,9 @@ import { strict as assert } from "node:assert";
 import { readFileSync } from "node:fs";
 import Papa from "papaparse";
 import { packages } from "../src/packages";
-import index from "../docs/Bestandsredaktion-2026-10-04/Index.json";
-import published from "../docs/Bestandsredaktion-2026-10-04/Veroeffentlichte-Korrekturen.json";
-import integrated from "./fixtures/appliedEditorial.json";
+import index from "../docs/Bestandsredaktion-2026-10-04/Index.json" with { type: "json" };
+import published from "../docs/Bestandsredaktion-2026-10-04/Veroeffentlichte-Korrekturen.json" with { type: "json" };
+import integrated from "./fixtures/appliedEditorial.json" with { type: "json" };
 
 type Row = Record<string, string>;
 const activeRow = (row: Row): Row =>

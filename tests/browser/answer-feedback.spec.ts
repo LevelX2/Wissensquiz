@@ -37,14 +37,16 @@ async function prepare(page: Page, questionId: string) {
   return q;
 }
 
-test("Tron: leerer Zusatz zum Motorradhelm entfällt direkt, nach Neuladen und im Rückblick", async ({
+test("Tron: leeres Antwortfeedback entfällt direkt, nach Neuladen und im Rückblick", async ({
   page,
 }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   const q = await prepare(page, "SF-202609-P02-S-064");
+  const answer = q.answers.find(entry => entry.id !== q.correctId && !entry.feedback)!;
+  expect(answer).toBeDefined();
   await page
     .locator(".answer")
-    .filter({ hasText: "Sein Motorradhelm" })
+    .filter({ hasText: answer.text })
     .click();
   await expect(page.locator(".explanation")).toBeVisible();
   await expect(page.locator(".specific-feedback")).toHaveCount(0);

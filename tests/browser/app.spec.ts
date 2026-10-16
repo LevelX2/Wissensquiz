@@ -196,7 +196,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
 test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach Neuladen", async ({
   page,
   context,
-}) => {
+}, testInfo) => {
   await launch(page);
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
@@ -210,13 +210,13 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach N
   }
   await page
     .locator(".topic-grid")
-    .screenshot({ path: "test-results/genre-illustrationen-desktop.png" });
+    .screenshot({ path: testInfo.outputPath("genre-illustrationen-desktop.png") });
   await page.setViewportSize({ width: 390, height: 844 });
   const actionCard = page.locator(".topic-card").filter({
     has: page.getByRole("heading", { name: "Action", exact: true }),
   });
   await actionCard.screenshot({
-    path: "test-results/action-illustration-390.png",
+    path: testInfo.outputPath("action-illustration-390.png"),
   });
   await page.setViewportSize({ width: 320, height: 740 });
   expect(
@@ -236,13 +236,13 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach N
   await resumeFilmFixture(page, "Tombstone");
   await expect(page.locator(".film-title")).toHaveText("Tombstone");
   await expect(page.locator(".question-card h1")).not.toContainText("„");
-  await expect(page.locator(".question-card h1")).toContainText("(1993)");
+  await expect(page.locator(".question-card h1")).toContainText("Revolvermann Doc Holliday");
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBe(true);
-  await page.screenshot({ path: "test-results/filmtitel-320.png" });
+  await page.screenshot({ path: testInfo.outputPath("filmtitel-320.png") });
 });
 
 test("Aktueller Serverbestand und Lernantwort bleiben nach Neuladen verfügbar", async ({
@@ -483,25 +483,27 @@ test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, au
   await launch(page);
 
   await resumeFilmFixture(page, "Conjuring");
-  await expect(page.locator(".cast-context")).toHaveCount(0);
-  await answerCurrent(page);
-  await expect(page.locator(".cast-context")).not.toBeVisible();
+  const deep = page.locator(".explanation > details").filter({
+    has: page.getByText("Etwas tiefer eintauchen", { exact: true }),
+  });
+  await expect(deep).toHaveCount(0);
+  const q = await answerCurrent(page);
+  await expect(deep.locator(":scope > p")).not.toBeVisible();
   await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-  await expect(page.locator(".cast-context")).toBeVisible();
-  const text = await page.locator(".cast-context").innerText();
+  await expect(deep.locator(":scope > p")).toBeVisible();
+  const text = await deep.locator(":scope > p").innerText();
+  expect(text).toBe(q.context);
   expect(text).toMatch(
     /Patrick Wilson|Vera Farmiga|Ron Livingston|Lili Taylor|Joseph Bishara/,
   );
-  await expect(
-    page.getByRole("link", { name: "Besetzungsquelle: catalog.afi.com" }),
-  ).toHaveAttribute(
-    "href",
-    "https://catalog.afi.com/Catalog/MovieDetails/69558",
-  );
+  await page.getByText("Quellen ansehen", { exact: true }).click();
+  for (const source of q.sources) {
+    await expect(page.locator(".answer-sources a").filter({ hasText: new URL(source).hostname })).toHaveAttribute("href", source);
+  }
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-  await expect(page.locator(".cast-context")).toHaveText(text);
+  await expect(deep.locator(":scope > p")).toHaveText(text);
 });
 test("Fehlende Audio- und Vibrationsschnittstellen verhindern keine Spielrunde", async ({
   page,
