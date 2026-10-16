@@ -12442,5 +12442,762 @@
       "learning_objective": "Erstveröffentlichungsjahr",
       "spoiler_level": "gering"
     }
+  },
+  "FF-229-DIRECTOR": {
+    "knowledgeId": "K-FF-229-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "„Der Superfighter“ (1983): Wer ist für die Regie genannt?",
+    "answers": [
+      {
+        "id": "FF-229-DIRECTOR:a",
+        "text": "Jackie Chan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-229-DIRECTOR:b",
+        "text": "Corey Yuen",
+        "feedback": ""
+      },
+      {
+        "id": "FF-229-DIRECTOR:c",
+        "text": "Yuen Woo-ping",
+        "feedback": ""
+      },
+      {
+        "id": "FF-229-DIRECTOR:d",
+        "text": "Lau Kar-leung",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-229-DIRECTOR:a",
+    "explanation": "Jackie Chan führte Regie.",
+    "context": "Jackie Chan inszenierte das historische Hongkong-Abenteuer und spielte Dragon Ma. Mit Sammo Hung als Fei und Yuen Biao als Hong Tin-tsu vereint der Film drei frühere Mitschüler der Pekinger Opernschule. Die Handlung führt die rivalisierenden Polizeieinheiten und den eigennützigen Fei erst im Kampf gegen die Piraten zusammen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Project_A_(film)"
+    ],
+    "metadata": {
+      "film_title_de": "Der Superfighter",
+      "film_title_original": "Project A",
+      "film_year": "1983",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Project A",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-229",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-007",
+      "learning_objective": "Jackie Chan führte Regie.",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-229-YEAR": {
+    "knowledgeId": "K-FF-229-YEAR",
+    "difficulty": "mittel",
+    "question": "„Der Superfighter“: In welchem Jahr erschien der Film von Jackie Chan erstmals?",
+    "answers": [
+      {
+        "id": "FF-229-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-229-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-229-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-229-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-229-YEAR:y1983",
+    "explanation": "„Der Superfighter“ wurde erstmals 1983 veröffentlicht.",
+    "context": "Der Superfighter erschien 1983. Schon 1984 standen Jackie Chan, Sammo Hung und Yuen Biao in Powerman erneut gemeinsam vor der Kamera, diesmal im gegenwärtigen Barcelona statt im historischen Hongkong. Bei Powerman übernahm Hung die Regie. Die beiden Jahre verbinden dasselbe Darstellertrio mit zwei unterschiedlichen Schauplätzen und Regieaufgaben.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Project_A_(film)",
+      "https://en.wikipedia.org/wiki/Wheels_on_Meals"
+    ],
+    "metadata": {
+      "film_title_de": "Der Superfighter",
+      "film_title_original": "Project A",
+      "film_year": "1983",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Project A",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-229",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-007",
+      "learning_objective": "„Der Superfighter“ wurde erstmals 1983 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-249-DIRECTOR": {
+    "knowledgeId": "K-FF-249-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Die 36 Kammern der Shaolin“ Regie?",
+    "answers": [
+      {
+        "id": "FF-249-DIRECTOR:a",
+        "text": "Lau Kar-leung",
+        "feedback": ""
+      },
+      {
+        "id": "FF-249-DIRECTOR:b",
+        "text": "Yuen Woo-ping",
+        "feedback": ""
+      },
+      {
+        "id": "FF-249-DIRECTOR:c",
+        "text": "Jackie Chan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-249-DIRECTOR:d",
+        "text": "Robert Clouse",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-249-DIRECTOR:a",
+    "explanation": "Lau Kar-leung führte Regie.",
+    "context": "Lau Kar-leung inszenierte Ni Kuangs Drehbuch. Sein Hauptdarsteller Gordon Liu brachte bereits eine Ausbildung im Hung-Gar-Stil mit. Die beiden hatten zuvor an Challenge of the Masters und Executioners from Shaolin gearbeitet; hier wurde Lius Entwicklung vom verfolgten Schüler zum Mönch zur tragenden Geschichte.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_36th_Chamber_of_Shaolin",
+      "https://www.arrowfilms.com/blog/features/inside-the-36th-chamber-re-visiting-shaw-brothers-timeless-trilogy/"
+    ],
+    "metadata": {
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Die 36 Kammern der Shaolin",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-249",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-047",
+      "learning_objective": "Lau Kar-leung führte Regie.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-249-YEAR": {
+    "knowledgeId": "K-FF-249-YEAR",
+    "difficulty": "mittel",
+    "question": "„Die 36 Kammern der Shaolin“: In welchem Jahr erschien der Film von Lau Kar-leung erstmals?",
+    "answers": [
+      {
+        "id": "FF-249-YEAR:y1978",
+        "text": "1978",
+        "feedback": ""
+      },
+      {
+        "id": "FF-249-YEAR:y1977",
+        "text": "1977",
+        "feedback": ""
+      },
+      {
+        "id": "FF-249-YEAR:y1979",
+        "text": "1979",
+        "feedback": ""
+      },
+      {
+        "id": "FF-249-YEAR:y1980",
+        "text": "1980",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-249-YEAR:y1978",
+    "explanation": "„Die 36 Kammern der Shaolin“ wurde erstmals 1978 veröffentlicht.",
+    "context": "Die 36 Kammern der Shaolin erschien 1978, ebenso wie Drunken Master mit Jackie Chan. Im selben Jahr wurden damit zwei unterschiedliche Schülergeschichten erfolgreich: die geduldige Ausbildung im Kloster und die komische Erziehung durch einen ungewöhnlichen Meister.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_36th_Chamber_of_Shaolin",
+      "https://en.wikipedia.org/wiki/Snake_in_the_Eagle%27s_Shadow",
+      "https://en.wikipedia.org/wiki/Drunken_Master"
+    ],
+    "metadata": {
+      "film_title_de": "Die 36 Kammern der Shaolin",
+      "film_title_original": "The 36th Chamber of Shaolin",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Die 36 Kammern der Shaolin",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-249",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-047",
+      "learning_objective": "„Die 36 Kammern der Shaolin“ wurde erstmals 1978 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-226-DIRECTOR": {
+    "knowledgeId": "K-FF-226-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Die Schlange im Schatten des Adlers“ Regie?",
+    "answers": [
+      {
+        "id": "FF-226-DIRECTOR:a",
+        "text": "Yuen Woo-ping",
+        "feedback": ""
+      },
+      {
+        "id": "FF-226-DIRECTOR:b",
+        "text": "Lau Kar-leung",
+        "feedback": ""
+      },
+      {
+        "id": "FF-226-DIRECTOR:c",
+        "text": "Chang Cheh",
+        "feedback": ""
+      },
+      {
+        "id": "FF-226-DIRECTOR:d",
+        "text": "Robert Clouse",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-226-DIRECTOR:a",
+    "explanation": "Yuen Woo-ping führte Regie.",
+    "context": "Yuen Woo-ping gab mit diesem Film sein Regiedebüt. Ng See-yuen produzierte das Projekt; für den wandernden Meister Pai Cheng-tien wurde Yuens Vater Yuen Siu-tien besetzt. Noch im selben Jahr arbeiteten Regisseur, Chan und der ältere Yuen auch an Drunken Master zusammen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Snake_in_the_Eagle%27s_Shadow"
+    ],
+    "metadata": {
+      "film_title_de": "Die Schlange im Schatten des Adlers",
+      "film_title_original": "Snake in the Eagle's Shadow",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-226",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-001",
+      "learning_objective": "Yuen Woo-ping führte Regie.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-226-YEAR": {
+    "knowledgeId": "K-FF-226-YEAR",
+    "difficulty": "mittel",
+    "question": "„Die Schlange im Schatten des Adlers“: In welchem Jahr erschien der Film von Yuen Woo-ping erstmals?",
+    "answers": [
+      {
+        "id": "FF-226-YEAR:y1978",
+        "text": "1978",
+        "feedback": ""
+      },
+      {
+        "id": "FF-226-YEAR:y1974",
+        "text": "1974",
+        "feedback": ""
+      },
+      {
+        "id": "FF-226-YEAR:y1976",
+        "text": "1976",
+        "feedback": ""
+      },
+      {
+        "id": "FF-226-YEAR:y1979",
+        "text": "1979",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-226-YEAR:y1978",
+    "explanation": "„Die Schlange im Schatten des Adlers“ wurde erstmals 1978 veröffentlicht.",
+    "context": "1978 macht Jackie Chan mit „Die Schlange im Schatten des Adlers“ und „Sie nannten ihn Knochenbrecher“ komische Kampfkunst groß. Beide Filme werden von Yuen Woo-ping inszeniert. Der doppelte Durchbruch verbindet die Schlange und den betrunkenen Kampfstil im selben Jahr.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Snake_in_the_Eagle%27s_Shadow"
+    ],
+    "metadata": {
+      "film_title_de": "Die Schlange im Schatten des Adlers",
+      "film_title_original": "Snake in the Eagle's Shadow",
+      "film_year": "1978",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-226",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-001",
+      "learning_objective": "„Die Schlange im Schatten des Adlers“ wurde erstmals 1978 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-239-YEAR": {
+    "knowledgeId": "K-FF-239-YEAR",
+    "difficulty": "mittel",
+    "question": "„Die Todeskralle schlägt wieder zu“: In welchem Jahr erschien der Film von Bruce Lee erstmals?",
+    "answers": [
+      {
+        "id": "FF-239-YEAR:y1972",
+        "text": "1972",
+        "feedback": ""
+      },
+      {
+        "id": "FF-239-YEAR:y1971",
+        "text": "1971",
+        "feedback": ""
+      },
+      {
+        "id": "FF-239-YEAR:y1973",
+        "text": "1973",
+        "feedback": ""
+      },
+      {
+        "id": "FF-239-YEAR:y1974",
+        "text": "1974",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-239-YEAR:y1972",
+    "explanation": "„Die Todeskralle schlägt wieder zu“ wurde erstmals 1972 veröffentlicht.",
+    "context": "Die Todeskralle schlägt wieder zu erschien Ende 1972 in Hongkong. Enter the Dragon kam 1973 heraus, ein Jahr später. In den USA wurde Die Todeskralle jedoch erst 1974 als Return of the Dragon gezeigt. Der wie eine Fortsetzung wirkende amerikanische Titel kehrt damit die ursprüngliche Entstehungsfolge scheinbar um.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Way_of_the_Dragon"
+    ],
+    "metadata": {
+      "film_title_de": "Die Todeskralle schlägt wieder zu",
+      "film_title_original": "The Way of the Dragon",
+      "film_year": "1972",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-239",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-027",
+      "learning_objective": "„Die Todeskralle schlägt wieder zu“ wurde erstmals 1972 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-239-DIRECTOR": {
+    "knowledgeId": "K-FF-239-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Die Todeskralle schlägt wieder zu“ Regie?",
+    "answers": [
+      {
+        "id": "FF-239-DIRECTOR:a",
+        "text": "Bruce Lee",
+        "feedback": ""
+      },
+      {
+        "id": "FF-239-DIRECTOR:b",
+        "text": "Lo Wei",
+        "feedback": ""
+      },
+      {
+        "id": "FF-239-DIRECTOR:c",
+        "text": "Robert Clouse",
+        "feedback": ""
+      },
+      {
+        "id": "FF-239-DIRECTOR:d",
+        "text": "Yuen Woo-ping",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-239-DIRECTOR:a",
+    "explanation": "Bruce Lee führte Regie.",
+    "context": "Bruce Lee schrieb und inszenierte den Film für Concord, die von ihm und Raymond Chow gegründete Produktionsfirma. Es blieb seine einzige vollständig fertiggestellte eigene Regiearbeit. Die größere Kontrolle erlaubte ihm auch die komischen Alltagsszenen um Tang Lungs (Bruce Lee) anfängliche Unsicherheit in Rom.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Way_of_the_Dragon"
+    ],
+    "metadata": {
+      "film_title_de": "Die Todeskralle schlägt wieder zu",
+      "film_title_original": "The Way of the Dragon",
+      "film_year": "1972",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-239",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-027",
+      "learning_objective": "Bruce Lee führte Regie.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-234-DIRECTOR": {
+    "knowledgeId": "K-FF-234-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Powerman“ Regie?",
+    "answers": [
+      {
+        "id": "FF-234-DIRECTOR:a",
+        "text": "Sammo Hung",
+        "feedback": ""
+      },
+      {
+        "id": "FF-234-DIRECTOR:b",
+        "text": "Wilson Yip",
+        "feedback": ""
+      },
+      {
+        "id": "FF-234-DIRECTOR:c",
+        "text": "Yuen Woo-ping",
+        "feedback": ""
+      },
+      {
+        "id": "FF-234-DIRECTOR:d",
+        "text": "Lau Kar-leung",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-234-DIRECTOR:a",
+    "explanation": "Sammo Hung führte Regie.",
+    "context": "Sammo Hung führte Regie und spielt den Detektiv Moby. Jackie Chan gestaltete die Action und übernahm Thomas, Yuen Biao dessen Partner David. Die drei Darsteller kannten einander aus ihrer Ausbildung an der Pekingopernschule; in diesem Film verlegten sie ihre gemeinsame Arbeit nach Spanien.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wheels_on_Meals"
+    ],
+    "metadata": {
+      "film_title_de": "Powerman",
+      "film_title_original": "Wheels on Meals",
+      "film_year": "1984",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-234",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-017",
+      "learning_objective": "Sammo Hung führte Regie.",
+      "spoiler_level": "mittel"
+    }
+  },
+  "FF-234-YEAR": {
+    "knowledgeId": "K-FF-234-YEAR",
+    "difficulty": "mittel",
+    "question": "„Powerman“: In welchem Jahr erschien der Film von Sammo Hung erstmals?",
+    "answers": [
+      {
+        "id": "FF-234-YEAR:y1984",
+        "text": "1984",
+        "feedback": ""
+      },
+      {
+        "id": "FF-234-YEAR:y1982",
+        "text": "1982",
+        "feedback": ""
+      },
+      {
+        "id": "FF-234-YEAR:y1983",
+        "text": "1983",
+        "feedback": ""
+      },
+      {
+        "id": "FF-234-YEAR:y1985",
+        "text": "1985",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-234-YEAR:y1984",
+    "explanation": "„Powerman“ wurde erstmals 1984 veröffentlicht.",
+    "context": "Powerman erschien 1984. Ein Jahr vorher hatten Jackie Chan, Sammo Hung und Yuen Biao bereits in Project A gemeinsam gespielt. Dort führte Chan Regie, hier Hung. Das Jahrespaar verbindet somit dasselbe Darstellertrio mit einem Wechsel hinter der Kamera.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Wheels_on_Meals"
+    ],
+    "metadata": {
+      "film_title_de": "Powerman",
+      "film_title_original": "Wheels on Meals",
+      "film_year": "1984",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-234",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-017",
+      "learning_objective": "„Powerman“ wurde erstmals 1984 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-246-DIRECTOR": {
+    "knowledgeId": "K-FF-246-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Revenge of the Warrior“ Regie?",
+    "answers": [
+      {
+        "id": "FF-246-DIRECTOR:a",
+        "text": "Prachya Pinkaew",
+        "feedback": ""
+      },
+      {
+        "id": "FF-246-DIRECTOR:b",
+        "text": "Benny Chan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-246-DIRECTOR:c",
+        "text": "Ronny Yu",
+        "feedback": ""
+      },
+      {
+        "id": "FF-246-DIRECTOR:d",
+        "text": "Zhang Yimou",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-246-DIRECTOR:a",
+    "explanation": "Prachya Pinkaew führte Regie.",
+    "context": "Prachya Pinkaew inszenierte erneut Tony Jaa, mit dem er schon Ong-Bak gedreht hatte. Jaa und Panna Rittikrai entwickelten die Kämpfe. Für diesen Film verbanden sie Muay Thai mit Greifbewegungen und einer an den Elefanten orientierten Körpergestaltung; die Arme konnten dabei den Rüssel nachbilden.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tom-Yum-Goong"
+    ],
+    "metadata": {
+      "film_title_de": "Revenge of the Warrior",
+      "film_title_original": "Tom-Yum-Goong",
+      "film_year": "2005",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Tom-Yum-Goong",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-246",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-041",
+      "learning_objective": "Prachya Pinkaew führte Regie.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-246-YEAR": {
+    "knowledgeId": "K-FF-246-YEAR",
+    "difficulty": "mittel",
+    "question": "„Revenge of the Warrior“: In welchem Jahr erschien der Film von Prachya Pinkaew erstmals?",
+    "answers": [
+      {
+        "id": "FF-246-YEAR:y2005",
+        "text": "2005",
+        "feedback": ""
+      },
+      {
+        "id": "FF-246-YEAR:y2003",
+        "text": "2003",
+        "feedback": ""
+      },
+      {
+        "id": "FF-246-YEAR:y2004",
+        "text": "2004",
+        "feedback": ""
+      },
+      {
+        "id": "FF-246-YEAR:y2006",
+        "text": "2006",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-246-YEAR:y2005",
+    "explanation": "„Revenge of the Warrior“ wurde erstmals 2005 veröffentlicht.",
+    "context": "2003 bringt „Ong-Bak“ Tony Jaa international ins Gespräch; 2005 folgt „Tom-Yum-Goong“. Zwei Jahre liegen zwischen der Suche nach einem gestohlenen Buddha-Kopf und der Rettung entführter Elefanten. Der Wechsel des Rettungsziels macht die Karriereabfolge anschaulich.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tom-Yum-Goong",
+      "https://en.wikipedia.org/wiki/Ong-Bak:_Muay_Thai_Warrior"
+    ],
+    "metadata": {
+      "film_title_de": "Revenge of the Warrior",
+      "film_title_original": "Tom-Yum-Goong",
+      "film_year": "2005",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Tom-Yum-Goong",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-246",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-041",
+      "learning_objective": "„Revenge of the Warrior“ wurde erstmals 2005 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-235-YEAR": {
+    "knowledgeId": "K-FF-235-YEAR",
+    "difficulty": "mittel",
+    "question": "„Rumble in the Bronx“: In welchem Jahr erschien der Film von Stanley Tong erstmals?",
+    "answers": [
+      {
+        "id": "FF-235-YEAR:y1995",
+        "text": "1995",
+        "feedback": ""
+      },
+      {
+        "id": "FF-235-YEAR:y1993",
+        "text": "1993",
+        "feedback": ""
+      },
+      {
+        "id": "FF-235-YEAR:y1994",
+        "text": "1994",
+        "feedback": ""
+      },
+      {
+        "id": "FF-235-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-235-YEAR:y1995",
+    "explanation": "„Rumble in the Bronx“ wurde erstmals 1995 veröffentlicht.",
+    "context": "Rumble in the Bronx wurde 1995 in Hongkong veröffentlicht. Für den amerikanischen Markt stellte New Line eine neu synchronisierte und umgeschnittene Fassung mit neuer Musik her, die 1996 ins Kino kam. Der nordamerikanische Durchbruch gehört zu dieser späteren Auswertung; das erste Filmjahr bleibt 1995.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rumble_in_the_Bronx"
+    ],
+    "metadata": {
+      "film_title_de": "Rumble in the Bronx",
+      "film_title_original": "Rumble in the Bronx",
+      "film_year": "1995",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-235",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-019",
+      "learning_objective": "Die Erstveröffentlichung von Rumble in the Bronx war 1995.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-235-DIRECTOR": {
+    "knowledgeId": "K-FF-235-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Rumble in the Bronx“ Regie?",
+    "answers": [
+      {
+        "id": "FF-235-DIRECTOR:a",
+        "text": "Stanley Tong",
+        "feedback": ""
+      },
+      {
+        "id": "FF-235-DIRECTOR:b",
+        "text": "Lau Kar-leung",
+        "feedback": ""
+      },
+      {
+        "id": "FF-235-DIRECTOR:c",
+        "text": "Gordon Chan",
+        "feedback": ""
+      },
+      {
+        "id": "FF-235-DIRECTOR:d",
+        "text": "Brett Ratner",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-235-DIRECTOR:a",
+    "explanation": "Stanley Tong führte Regie.",
+    "context": "Stanley Tong inszenierte das in New York spielende Abenteuer überwiegend in Vancouver. Die Crew brachte künstliche Graffiti an und versuchte zunächst, die Berge aus den Bildern herauszuhalten. Chan legte schließlich mehr Gewicht auf die Action als auf eine lückenlose Ortsillusion. Die sichtbare Stadtlandschaft entspricht deshalb nicht überall dem behaupteten Schauplatz.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rumble_in_the_Bronx"
+    ],
+    "metadata": {
+      "film_title_de": "Rumble in the Bronx",
+      "film_title_original": "Rumble in the Bronx",
+      "film_year": "1995",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-235",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-019",
+      "learning_objective": "Die Regienennung für „Rumble in the Bronx“ (1995) lautet: Stanley Tong.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-236-YEAR": {
+    "knowledgeId": "K-FF-236-YEAR",
+    "difficulty": "mittel",
+    "question": "„Rush Hour“: In welchem Jahr erschien der Film von Brett Ratner erstmals?",
+    "answers": [
+      {
+        "id": "FF-236-YEAR:y1998",
+        "text": "1998",
+        "feedback": ""
+      },
+      {
+        "id": "FF-236-YEAR:y1996",
+        "text": "1996",
+        "feedback": ""
+      },
+      {
+        "id": "FF-236-YEAR:y1997",
+        "text": "1997",
+        "feedback": ""
+      },
+      {
+        "id": "FF-236-YEAR:y1999",
+        "text": "1999",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-236-YEAR:y1998",
+    "explanation": "„Rush Hour“ wurde erstmals 1998 veröffentlicht.",
+    "context": "Die Handlung beginnt am letzten Tag britischer Herrschaft in Hongkong 1997. Lee (Jackie Chan) stellt damals geraubte Kunstschätze sicher. „Rush Hour“ kam 1998 ins Kino, ein Jahr nach diesem politischen Einschnitt. Der Prolog verbindet den späteren Erpressungsfall mit dem Verlust dieser Beute.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rush_Hour_(1998_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Rush Hour",
+      "film_title_original": "Rush Hour",
+      "film_year": "1998",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Rush Hour",
+      "fact_kind": "year",
+      "fact_catalog_id": "FF-236",
+      "question_type": "Filmjahr",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-021",
+      "learning_objective": "„Rush Hour“ wurde erstmals 1998 veröffentlicht.",
+      "spoiler_level": "gering"
+    }
+  },
+  "FF-236-DIRECTOR": {
+    "knowledgeId": "K-FF-236-DIRECTOR",
+    "difficulty": "mittel",
+    "question": "Wer führte bei „Rush Hour“ Regie?",
+    "answers": [
+      {
+        "id": "FF-236-DIRECTOR:a",
+        "text": "Brett Ratner",
+        "feedback": ""
+      },
+      {
+        "id": "FF-236-DIRECTOR:b",
+        "text": "Ang Lee",
+        "feedback": ""
+      },
+      {
+        "id": "FF-236-DIRECTOR:c",
+        "text": "Stanley Tong",
+        "feedback": ""
+      },
+      {
+        "id": "FF-236-DIRECTOR:d",
+        "text": "Lau Kar-leung",
+        "feedback": ""
+      }
+    ],
+    "correctId": "FF-236-DIRECTOR:a",
+    "explanation": "Brett Ratner führte Regie.",
+    "context": "Brett Ratner wollte Jackie Chan in „Rush Hour“ als gleichberechtigten Partner eines amerikanischen Stars zeigen. Er reiste nach Südafrika, um Chan das Projekt während dessen dortiger Dreharbeiten vorzustellen. Chris Tucker war Ratner bereits aus ihrer Zusammenarbeit bei „Money Talks“ vertraut. Ratner hielt die beiden Darsteller für ein gutes Team; nach Chans Zusage trafen sie sich in Los Angeles.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rush_Hour_(1998_film)"
+    ],
+    "metadata": {
+      "film_title_de": "Rush Hour",
+      "film_title_original": "Rush Hour",
+      "film_year": "1998",
+      "subdomain": "Martial Arts & Asia-Film",
+      "franchise": "Rush Hour",
+      "fact_kind": "director",
+      "fact_catalog_id": "FF-236",
+      "question_type": "Regie",
+      "verification_status": "redaktionell_geprueft",
+      "reference_question_id": "MAR-L-021",
+      "learning_objective": "Die Regienennung für „Rush Hour“ (1998) lautet: Brett Ratner.",
+      "spoiler_level": "gering"
+    }
   }
 }

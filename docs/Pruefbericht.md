@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## 16.10.2026 – Martial Arts und Asia-Film, lokal
+
+Alle 470 gelieferten Kompositionen einschließlich Optionen, Kurzantworten, Vertiefungen und verwandtem Bestand wurden filmweise gelesen und gezielt nachbearbeitet. Zwei hier entwickelte schwere Ergänzungen schließen nach ehrlicher Neueinstufung entstandene Lücken. Die beiden Snake-Ersätze teilen ein neues Tarnungsziel; die Who-Am-I-Ersatzfrage besitzt ein eigenes Ziel. Alle 48 Filmgruppen erfüllen zwei eigenständige Inhaltsziele je leicht/mittel/schwer sowie Jahres- und Regiewissen. Lokal integriert: **469 aktive Fassungen zu 48 Filmen, darunter 76 reguläre Ergänzungen und drei ausdrückliche Ersatzfragen**. Die zwei Snake-Ersatzvarianten behalten ein gemeinsames neues Wissensziel; Who Am I erhält ein eigenständiges. Vorhandene Filmkategorien wurden in beide Tagfelder übernommen. „The Warlords“ weist den bestätigten Haupt- und Co-Regiecredit aus; Actionregie bleibt gesondert.
+
+Alle **469 Fassungen gegen die tatsächliche vorbereitete App-Anzeige** geprüft: Frage, vier Antworten mit IDs/Feedback, Lösung, Kurzantwort, Vertiefung, Schwierigkeit, Ziel, Quellen und Spoiler stimmen. Paketimport ohne Ausschlüsse, Dubletten oder Warnungen; Originalrückgabe/Übergabe und Ergänzungspaket-Rohkopie bytegleich geprüft. Lokaler Stand: **38 Pakete, 15.016 Fragen, 14.348 Ziele**.
+
+129 unterschiedliche Tests in 20 gezielt ausgewählten Dateien erfolgreich; TypeScript und `git diff --check` erfolgreich. Keine vollständige Testsuite, kein Produktionsbuild oder neuer Browserlauf; keine produktiven Inhalte, Datenbanken oder echten Spielstände verändert. Keine Veröffentlichung und kein Push.
+
+Fortschritt: **9.544 von 12.773 Original-IDs geprüft, 3.229 offen** (1.189 Film-, 2.040 Personen-/Preisfragen). Block 128 bleibt pausiert. Keine Umstellungsprotokolle oder Einzelbewertungen gespeichert. [Aktueller Stand](Fragenredaktion/README.md).
+
 ## 16.10.2026 – Musik und Rom-Com, lokal
 
 Beide Rückgaben vollständig filmweise mit allen Optionen und Vertiefungen gelesen, einschließlich der verwandten aktuellen Film-/Personenfragen. Konkrete offene Produktions-, Gestaltungs- und Handlungsangaben gezielt an tatsächlich gelesenen Belegen geprüft; keine vollständige neue Sichtung aller Filme oder Abnahme sämtlicher verlinkter Quellen. Nach direkter Nachbearbeitung **654 aktive Fassungen zu 66 Filmen** integriert: 307 Musik und 347 Rom-Com. Sechs überholte Wissensziele sind ausdrücklich durch neue Frage-/Ziel-IDs ersetzt. 100 reguläre Ergänzungen liegen in einem zusätzlichen 30-Spalten-Paket; darunter eine hier entwickelte schwierige Frage. Drei schwache Rom-Com-Ziele wurden vor der Vergabe ihrer ersten IDs neu gestaltet. Alle 66 Filmgruppen erfüllen mindestens zwei unabhängige Inhaltsziele je leicht/mittel/schwer sowie genau eine Jahres- und Regiefrage.

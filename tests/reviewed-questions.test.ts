@@ -74,8 +74,8 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
 });
 
 it("prüft den erwarteten Redaktionsumfang und lässt die offene Stativszene aus", () => {
-  expect(manifest.appliedOriginalIds).toBe(3600);
-  expect(manifest.generated).toHaveLength(265);
+  expect(manifest.appliedOriginalIds).toBe(3993);
+  expect(manifest.generated).toHaveLength(281);
   expect(manifest.additions).toHaveLength(14);
   expect(manifest.changes.some((c) => c.id === manifest.excluded[0].id)).toBe(
     false,

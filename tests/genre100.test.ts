@@ -112,9 +112,12 @@ it("liefert je neuer Filmfassung sechs Inhaltsziele und explizites Jahres- und R
       film.directors.length === 1
         ? film.directors[0]
         : `${film.directors.slice(0, -1).join(", ")} und ${film.directors.at(-1)}`;
+    const creditedTeam = film.film_title_original === "Tau ming chong"
+      ? `${film.directors[0]} mit Co-Regisseur ${film.directors[1]}`
+      : team;
     expect(
       director.answers.find((a) => a.id === director.correctId)?.text,
-    ).toBe(team);
+    ).toBe(creditedTeam);
     for (const name of film.directors)
       expect(director.question).not.toContain(name);
     for (const q of group) {

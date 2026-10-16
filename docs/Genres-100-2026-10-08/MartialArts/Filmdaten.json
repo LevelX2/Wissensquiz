@@ -532,11 +532,11 @@
       "subdomain": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_reason": "Prestigefilm mit Jet Li, Andy Lau und Takeshi Kaneshiro; außerhalb des Asia-Filmpublikums weniger verbreitet.",
-      "directors": ["Peter Chan"],
+      "directors": ["Peter Chan", "Raymond Yip"],
       "production_countries": ["Hongkong", "China"],
       "country_note": "",
       "release_note": "Erster Kinostart in China am 12. Dezember 2007; Media Asia nennt den Hongkong-Start am 13. Dezember 2007.",
-      "director_note": "Media Asia und Magnolia nennen Peter Ho-sun Chan als Hauptregisseur. Raymond Yip erscheint in einzelnen Sekundärkatalogen als Co-Regisseur; daraus wird ohne entsprechenden Hauptcredit kein zusätzlicher Regieeintrag abgeleitet. Ching Siu-tung verantwortet Actionregie.",
+      "director_note": "Peter Chan ist als Regisseur, Raymond Yip als Co-Regisseur genannt. Ching Siu-tung verantwortet die Actionregie.",
       "series": null,
       "sources": [
         {
@@ -558,6 +558,11 @@
           "key": "anker",
           "url": "https://en.wikipedia.org/wiki/Blood_Brothers_(1973_film)",
           "checked_on": "2026-10-08"
+        },
+        {
+          "key": "regiecredit",
+          "url": "https://www.performing-arts.gov.hk/en/02550000000/0255000000003000.html",
+          "checked_on": "2026-10-16"
         }
       ],
       "reference_question_id": "G100-20261008-MARTIALARTS-014-L1",

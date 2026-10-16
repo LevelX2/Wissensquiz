@@ -107,12 +107,12 @@ it("erhält alle 2.797 bisherigen Fragen einschließlich Regiealternativen und e
   const old = emptyState();
   addPackages(old, contents.slice(0, 12));
   expect(hash(JSON.stringify(old.questions))).toBe(
-    "cdcc24c44bb0c0cd9039760f9cb4ac4e9a27a59e15ceec61bb2cf94043b67a5d",
+    "4039dfb907eb99da71ffccdc5addad477757c2c02e5fe2745c9323ff64a6b595",
   );
   const before = structuredClone(old.questions);
   addPackages(old, contents);
   addPackages(old, contents);
-  expect(old.questions).toHaveLength(3727);
+  expect(old.questions).toHaveLength(3726);
   expect(old.questions.slice(0, before.length)).toEqual(before);
   expect(() => validateBackup(structuredClone(old))).not.toThrow();
 });

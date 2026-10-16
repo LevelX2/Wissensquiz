@@ -1,10 +1,10 @@
 {
   "sourceCommit": "3cada41bbf13a3aff0db4b2d5a229aaeea064ac7",
   "catalogCount": 12773,
-  "totalReviewed": 9151,
-  "remainingFilmQuestions": 1582,
+  "totalReviewed": 9544,
+  "remainingFilmQuestions": 1189,
   "remainingOtherQuestions": 2040,
-  "remainingAllQuestions": 3622,
+  "remainingAllQuestions": 3229,
   "lastCompletedBlock": 128,
   "reviewedIds": [
     "ART-L-017",
@@ -9157,7 +9157,400 @@
     "FF-268-DIRECTOR",
     "FF-268-YEAR",
     "ROM-S-035",
-    "ROM-S-036"
+    "ROM-S-036",
+    "F240-20261006-137-L1",
+    "F240-20261006-137-L2",
+    "F240-20261006-137-D",
+    "F240-20261006-137-M1",
+    "F240-20261006-137-M2",
+    "F240-20261006-137-Y",
+    "F240-20261006-137-S1",
+    "F240-20261006-137-S2",
+    "G100-20261008-MARTIALARTS-024-L1",
+    "G100-20261008-MARTIALARTS-024-L2",
+    "G100-20261008-MARTIALARTS-024-D",
+    "G100-20261008-MARTIALARTS-024-M1",
+    "G100-20261008-MARTIALARTS-024-M2",
+    "G100-20261008-MARTIALARTS-024-Y",
+    "G100-20261008-MARTIALARTS-024-S1",
+    "G100-20261008-MARTIALARTS-024-S2",
+    "MAR-L-007",
+    "MAR-L-008",
+    "FF-229-DIRECTOR",
+    "FF-229-YEAR",
+    "MAR-M-007",
+    "MAR-M-008",
+    "MAR-S-007",
+    "MAR-S-008",
+    "MAR-L-047",
+    "MAR-L-048",
+    "FF-249-DIRECTOR",
+    "MAR-M-047",
+    "MAR-M-048",
+    "FF-249-YEAR",
+    "MAR-S-047",
+    "MAR-S-048",
+    "G100-20261008-MARTIALARTS-006-L1",
+    "G100-20261008-MARTIALARTS-006-L2",
+    "G100-20261008-MARTIALARTS-006-D",
+    "G100-20261008-MARTIALARTS-006-M1",
+    "G100-20261008-MARTIALARTS-006-M2",
+    "G100-20261008-MARTIALARTS-006-Y",
+    "G100-20261008-MARTIALARTS-006-S1",
+    "G100-20261008-MARTIALARTS-006-S2",
+    "E20261007-F-153-L1",
+    "E20261007-F-153-L2",
+    "E20261007-F-153-D",
+    "E20261007-F-153-M1",
+    "E20261007-F-153-M2",
+    "E20261007-F-153-Y",
+    "E20261007-F-153-S1",
+    "E20261007-F-153-S2",
+    "MAR-L-001",
+    "MAR-L-002",
+    "MAR-L-002-V1",
+    "FF-226-DIRECTOR",
+    "MAR-M-001",
+    "MAR-M-002",
+    "MAR-M-002-V1",
+    "FF-226-YEAR",
+    "MAR-S-001",
+    "MAR-S-002",
+    "MAR-S-002-V1",
+    "F240-20261006-121-L1",
+    "F240-20261006-121-L2",
+    "F240-20261006-121-D",
+    "F240-20261006-121-M1",
+    "F240-20261006-121-M2",
+    "F240-20261006-121-Y",
+    "F240-20261006-121-S1",
+    "F240-20261006-121-S2",
+    "G100-20261008-MARTIALARTS-001-L1",
+    "G100-20261008-MARTIALARTS-001-L2",
+    "G100-20261008-MARTIALARTS-001-D",
+    "G100-20261008-MARTIALARTS-001-M1",
+    "G100-20261008-MARTIALARTS-001-M2",
+    "G100-20261008-MARTIALARTS-001-Y",
+    "G100-20261008-MARTIALARTS-001-S1",
+    "G100-20261008-MARTIALARTS-001-S2",
+    "FF-239-YEAR",
+    "MAR-L-027",
+    "MAR-L-028",
+    "FF-239-DIRECTOR",
+    "MAR-M-027",
+    "MAR-M-028",
+    "MAR-S-027",
+    "MAR-S-028",
+    "G100-20261008-MARTIALARTS-003-L1",
+    "G100-20261008-MARTIALARTS-003-L2",
+    "G100-20261008-MARTIALARTS-003-D",
+    "G100-20261008-MARTIALARTS-003-M1",
+    "G100-20261008-MARTIALARTS-003-M2",
+    "G100-20261008-MARTIALARTS-003-Y",
+    "G100-20261008-MARTIALARTS-003-S1",
+    "G100-20261008-MARTIALARTS-003-S2",
+    "G100-20261008-MARTIALARTS-022-L1",
+    "G100-20261008-MARTIALARTS-022-L2",
+    "G100-20261008-MARTIALARTS-022-D",
+    "G100-20261008-MARTIALARTS-022-M1",
+    "G100-20261008-MARTIALARTS-022-M2",
+    "G100-20261008-MARTIALARTS-022-Y",
+    "G100-20261008-MARTIALARTS-022-S1",
+    "G100-20261008-MARTIALARTS-022-S2",
+    "G100-20261008-MARTIALARTS-013-L1",
+    "G100-20261008-MARTIALARTS-013-L2",
+    "G100-20261008-MARTIALARTS-013-D",
+    "G100-20261008-MARTIALARTS-013-M1",
+    "G100-20261008-MARTIALARTS-013-M2",
+    "G100-20261008-MARTIALARTS-013-Y",
+    "G100-20261008-MARTIALARTS-013-S1",
+    "G100-20261008-MARTIALARTS-013-S2",
+    "F240-20261006-125-L1",
+    "F240-20261006-125-L2",
+    "F240-20261006-125-D",
+    "F240-20261006-125-M1",
+    "F240-20261006-125-M2",
+    "F240-20261006-125-Y",
+    "F240-20261006-125-S1",
+    "F240-20261006-125-S2",
+    "E20261007-F-143-L1",
+    "E20261007-F-143-L2",
+    "E20261007-F-143-D",
+    "E20261007-F-143-M1",
+    "E20261007-F-143-M2",
+    "E20261007-F-143-Y",
+    "E20261007-F-143-S1",
+    "E20261007-F-143-S2",
+    "ASI-202610-P01-L-005",
+    "ASI-202610-P01-L-006",
+    "ASI-202610-P01-M-007",
+    "ASI-202610-P01-M-008",
+    "ASI-202610-P01-M-009",
+    "ASI-202610-P01-S-007",
+    "ASI-202610-P01-S-008",
+    "ASI-202610-P01-S-009",
+    "G100-20261008-MARTIALARTS-015-L1",
+    "G100-20261008-MARTIALARTS-015-L2",
+    "G100-20261008-MARTIALARTS-015-D",
+    "G100-20261008-MARTIALARTS-015-M1",
+    "G100-20261008-MARTIALARTS-015-M2",
+    "G100-20261008-MARTIALARTS-015-Y",
+    "G100-20261008-MARTIALARTS-015-S1",
+    "G100-20261008-MARTIALARTS-015-S2",
+    "F240-20261006-135-L1",
+    "F240-20261006-135-L2",
+    "F240-20261006-135-D",
+    "F240-20261006-135-M1",
+    "F240-20261006-135-M2",
+    "F240-20261006-135-Y",
+    "F240-20261006-135-S1",
+    "F240-20261006-135-S2",
+    "ASI-202610-P01-L-015",
+    "ASI-202610-P01-L-016",
+    "ASI-202610-P01-M-022",
+    "ASI-202610-P01-M-023",
+    "ASI-202610-P01-M-024",
+    "ASI-202610-P01-S-022",
+    "ASI-202610-P01-S-023",
+    "ASI-202610-P01-S-024",
+    "ASI-202610-P01-L-003",
+    "ASI-202610-P01-L-004",
+    "ASI-202610-P01-M-004",
+    "ASI-202610-P01-M-005",
+    "ASI-202610-P01-M-006",
+    "ASI-202610-P01-S-004",
+    "ASI-202610-P01-S-005",
+    "ASI-202610-P01-S-006",
+    "G100-20261008-MARTIALARTS-017-L1",
+    "G100-20261008-MARTIALARTS-017-L2",
+    "G100-20261008-MARTIALARTS-017-D",
+    "G100-20261008-MARTIALARTS-017-M1",
+    "G100-20261008-MARTIALARTS-017-M2",
+    "G100-20261008-MARTIALARTS-017-Y",
+    "G100-20261008-MARTIALARTS-017-S1",
+    "G100-20261008-MARTIALARTS-017-S2",
+    "F240-20261006-128-L1",
+    "F240-20261006-128-L2",
+    "F240-20261006-128-D",
+    "F240-20261006-128-M1",
+    "F240-20261006-128-M2",
+    "F240-20261006-128-Y",
+    "F240-20261006-128-S1",
+    "F240-20261006-128-S2",
+    "G100-20261008-MARTIALARTS-007-L1",
+    "G100-20261008-MARTIALARTS-007-L2",
+    "G100-20261008-MARTIALARTS-007-D",
+    "G100-20261008-MARTIALARTS-007-M1",
+    "G100-20261008-MARTIALARTS-007-M2",
+    "G100-20261008-MARTIALARTS-007-Y",
+    "G100-20261008-MARTIALARTS-007-S1",
+    "G100-20261008-MARTIALARTS-007-S2",
+    "F240-20261006-134-L1",
+    "F240-20261006-134-L2",
+    "F240-20261006-134-D",
+    "F240-20261006-134-M1",
+    "F240-20261006-134-M2",
+    "F240-20261006-134-Y",
+    "F240-20261006-134-S1",
+    "F240-20261006-134-S2",
+    "MAR-L-017",
+    "MAR-L-018",
+    "MAR-L-018-V1",
+    "FF-234-DIRECTOR",
+    "MAR-M-017",
+    "MAR-M-018",
+    "MAR-M-018-V1",
+    "FF-234-YEAR",
+    "MAR-S-017",
+    "MAR-S-018",
+    "MAR-S-018-V1",
+    "F240-20261006-124-L1",
+    "F240-20261006-124-L2",
+    "F240-20261006-124-D",
+    "F240-20261006-124-M1",
+    "F240-20261006-124-M2",
+    "F240-20261006-124-Y",
+    "F240-20261006-124-S1",
+    "F240-20261006-124-S2",
+    "MAR-L-041",
+    "MAR-L-042",
+    "MAR-M-041",
+    "MAR-M-042",
+    "FF-246-DIRECTOR",
+    "FF-246-YEAR",
+    "MAR-S-041",
+    "MAR-S-042",
+    "G100-20261008-MARTIALARTS-020-L1",
+    "G100-20261008-MARTIALARTS-020-L2",
+    "G100-20261008-MARTIALARTS-020-D",
+    "G100-20261008-MARTIALARTS-020-M1",
+    "G100-20261008-MARTIALARTS-020-M2",
+    "G100-20261008-MARTIALARTS-020-Y",
+    "G100-20261008-MARTIALARTS-020-S1",
+    "G100-20261008-MARTIALARTS-020-S2",
+    "F240-20261006-140-L1",
+    "F240-20261006-140-L2",
+    "F240-20261006-140-D",
+    "F240-20261006-140-M1",
+    "F240-20261006-140-M2",
+    "F240-20261006-140-Y",
+    "F240-20261006-140-S1",
+    "F240-20261006-140-S2",
+    "MAR-L-019",
+    "MAR-L-020",
+    "FF-235-YEAR",
+    "MAR-M-019",
+    "MAR-M-020",
+    "FF-235-DIRECTOR",
+    "MAR-S-019",
+    "MAR-S-020",
+    "E20261007-F-152-L1",
+    "E20261007-F-152-L2",
+    "E20261007-F-152-D",
+    "E20261007-F-152-M1",
+    "E20261007-F-152-M2",
+    "E20261007-F-152-Y",
+    "E20261007-F-152-S1",
+    "E20261007-F-152-S2",
+    "MAR-L-021",
+    "MAR-L-022",
+    "MAR-L-022-V1",
+    "FF-236-YEAR",
+    "MAR-M-021",
+    "MAR-M-022",
+    "MAR-M-022-V1",
+    "FF-236-DIRECTOR",
+    "MAR-S-021",
+    "MAR-S-022",
+    "MAR-S-022-V1",
+    "G100-20261008-MARTIALARTS-018-L1",
+    "G100-20261008-MARTIALARTS-018-L2",
+    "G100-20261008-MARTIALARTS-018-D",
+    "G100-20261008-MARTIALARTS-018-M1",
+    "G100-20261008-MARTIALARTS-018-M2",
+    "G100-20261008-MARTIALARTS-018-Y",
+    "G100-20261008-MARTIALARTS-018-S1",
+    "G100-20261008-MARTIALARTS-018-S2",
+    "G100-20261008-MARTIALARTS-019-L1",
+    "G100-20261008-MARTIALARTS-019-L2",
+    "G100-20261008-MARTIALARTS-019-D",
+    "G100-20261008-MARTIALARTS-019-M1",
+    "G100-20261008-MARTIALARTS-019-M2",
+    "G100-20261008-MARTIALARTS-019-Y",
+    "G100-20261008-MARTIALARTS-019-S1",
+    "G100-20261008-MARTIALARTS-019-S2",
+    "F240-20261006-123-L1",
+    "F240-20261006-123-L2",
+    "F240-20261006-123-D",
+    "F240-20261006-123-M1",
+    "F240-20261006-123-M2",
+    "F240-20261006-123-Y",
+    "F240-20261006-123-S1",
+    "F240-20261006-123-S2",
+    "ASI-202610-P01-L-009",
+    "ASI-202610-P01-L-010",
+    "ASI-202610-P01-M-013",
+    "ASI-202610-P01-M-014",
+    "ASI-202610-P01-M-015",
+    "ASI-202610-P01-S-013",
+    "ASI-202610-P01-S-014",
+    "ASI-202610-P01-S-015",
+    "F240-20261006-136-L1",
+    "F240-20261006-136-L2",
+    "F240-20261006-136-D",
+    "F240-20261006-136-M1",
+    "F240-20261006-136-M2",
+    "F240-20261006-136-Y",
+    "F240-20261006-136-S1",
+    "F240-20261006-136-S2",
+    "G100-20261008-MARTIALARTS-008-L1",
+    "G100-20261008-MARTIALARTS-008-L2",
+    "G100-20261008-MARTIALARTS-008-D",
+    "G100-20261008-MARTIALARTS-008-M1",
+    "G100-20261008-MARTIALARTS-008-M2",
+    "G100-20261008-MARTIALARTS-008-Y",
+    "G100-20261008-MARTIALARTS-008-S1",
+    "G100-20261008-MARTIALARTS-008-S2",
+    "E20261007-F-157-L1",
+    "E20261007-F-157-L2",
+    "E20261007-F-157-D",
+    "E20261007-F-157-M1",
+    "E20261007-F-157-M2",
+    "E20261007-F-157-Y",
+    "E20261007-F-157-S1",
+    "E20261007-F-157-S2",
+    "ASI-202610-P01-L-019",
+    "ASI-202610-P01-L-020",
+    "ASI-202610-P01-M-028",
+    "ASI-202610-P01-M-029",
+    "ASI-202610-P01-M-030",
+    "ASI-202610-P01-S-028",
+    "ASI-202610-P01-S-029",
+    "ASI-202610-P01-S-030",
+    "ASI-202610-P01-L-017",
+    "ASI-202610-P01-L-018",
+    "ASI-202610-P01-M-025",
+    "ASI-202610-P01-M-026",
+    "ASI-202610-P01-M-027",
+    "ASI-202610-P01-S-025",
+    "ASI-202610-P01-S-026",
+    "ASI-202610-P01-S-027",
+    "F240-20261006-131-L1",
+    "F240-20261006-131-L2",
+    "F240-20261006-131-D",
+    "F240-20261006-131-M1",
+    "F240-20261006-131-M2",
+    "F240-20261006-131-Y",
+    "F240-20261006-131-S1",
+    "F240-20261006-131-S2",
+    "G100-20261008-MARTIALARTS-014-L1",
+    "G100-20261008-MARTIALARTS-014-L2",
+    "G100-20261008-MARTIALARTS-014-D",
+    "G100-20261008-MARTIALARTS-014-M1",
+    "G100-20261008-MARTIALARTS-014-M2",
+    "G100-20261008-MARTIALARTS-014-Y",
+    "G100-20261008-MARTIALARTS-014-S1",
+    "G100-20261008-MARTIALARTS-014-S2",
+    "G100-20261008-MARTIALARTS-025-L1",
+    "G100-20261008-MARTIALARTS-025-L2",
+    "G100-20261008-MARTIALARTS-025-D",
+    "G100-20261008-MARTIALARTS-025-M1",
+    "G100-20261008-MARTIALARTS-025-M2",
+    "G100-20261008-MARTIALARTS-025-Y",
+    "G100-20261008-MARTIALARTS-025-S1",
+    "G100-20261008-MARTIALARTS-025-S2",
+    "G100-20261008-MARTIALARTS-011-L1",
+    "G100-20261008-MARTIALARTS-011-L2",
+    "G100-20261008-MARTIALARTS-011-D",
+    "G100-20261008-MARTIALARTS-011-M1",
+    "G100-20261008-MARTIALARTS-011-M2",
+    "G100-20261008-MARTIALARTS-011-Y",
+    "G100-20261008-MARTIALARTS-011-S1",
+    "G100-20261008-MARTIALARTS-011-S2",
+    "G100-20261008-MARTIALARTS-023-L1",
+    "G100-20261008-MARTIALARTS-023-L2",
+    "G100-20261008-MARTIALARTS-023-D",
+    "G100-20261008-MARTIALARTS-023-M1",
+    "G100-20261008-MARTIALARTS-023-M2",
+    "G100-20261008-MARTIALARTS-023-Y",
+    "G100-20261008-MARTIALARTS-023-S1",
+    "G100-20261008-MARTIALARTS-023-S2",
+    "F240-20261006-122-L1",
+    "F240-20261006-122-L2",
+    "F240-20261006-122-D",
+    "F240-20261006-122-M1",
+    "F240-20261006-122-M2",
+    "F240-20261006-122-Y",
+    "F240-20261006-122-S1",
+    "F240-20261006-122-S2",
+    "F240-20261006-126-L1",
+    "F240-20261006-126-L2",
+    "F240-20261006-126-D",
+    "F240-20261006-126-M1",
+    "F240-20261006-126-M2",
+    "F240-20261006-126-Y",
+    "F240-20261006-126-S1",
+    "F240-20261006-126-S2"
   ],
   "pendingFilmQueue": [
     {
@@ -9171,38 +9564,6 @@
     {
       "id": "THR-202610-P01-S-021",
       "filmKey": "Prisoners|2013"
-    },
-    {
-      "id": "MAR-L-007",
-      "filmKey": "Project A|1983"
-    },
-    {
-      "id": "MAR-L-008",
-      "filmKey": "Project A|1983"
-    },
-    {
-      "id": "MAR-M-007",
-      "filmKey": "Project A|1983"
-    },
-    {
-      "id": "MAR-M-008",
-      "filmKey": "Project A|1983"
-    },
-    {
-      "id": "MAR-S-007",
-      "filmKey": "Project A|1983"
-    },
-    {
-      "id": "MAR-S-008",
-      "filmKey": "Project A|1983"
-    },
-    {
-      "id": "FF-229-YEAR",
-      "filmKey": "Project A|1983"
-    },
-    {
-      "id": "FF-229-DIRECTOR",
-      "filmKey": "Project A|1983"
     },
     {
       "id": "SF-202609-P02-L-043",
@@ -9303,38 +9664,6 @@
     {
       "id": "G100-20261008-WESTERN-023-D",
       "filmKey": "Quigley Down Under|1990"
-    },
-    {
-      "id": "F240-20261006-124-L1",
-      "filmKey": "Rashōmon|1950"
-    },
-    {
-      "id": "F240-20261006-124-L2",
-      "filmKey": "Rashōmon|1950"
-    },
-    {
-      "id": "F240-20261006-124-M1",
-      "filmKey": "Rashōmon|1950"
-    },
-    {
-      "id": "F240-20261006-124-M2",
-      "filmKey": "Rashōmon|1950"
-    },
-    {
-      "id": "F240-20261006-124-S1",
-      "filmKey": "Rashōmon|1950"
-    },
-    {
-      "id": "F240-20261006-124-S2",
-      "filmKey": "Rashōmon|1950"
-    },
-    {
-      "id": "F240-20261006-124-Y",
-      "filmKey": "Rashōmon|1950"
-    },
-    {
-      "id": "F240-20261006-124-D",
-      "filmKey": "Rashōmon|1950"
     },
     {
       "id": "SFI-202610-P01-L-017",
@@ -9689,38 +10018,6 @@
       "filmKey": "Rio Lobo|1970"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-020-L1",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-020-L2",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-020-M1",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-020-M2",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-020-S1",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-020-S2",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-020-Y",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-020-D",
-      "filmKey": "Rob-B-Hood|2006"
-    },
-    {
       "id": "SF-L-033",
       "filmKey": "RoboCop|1987"
     },
@@ -9739,210 +10036,6 @@
     {
       "id": "FF-158-DIRECTOR",
       "filmKey": "RoboCop|1987"
-    },
-    {
-      "id": "F240-20261006-140-L1",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "F240-20261006-140-L2",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "F240-20261006-140-M1",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "F240-20261006-140-M2",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "F240-20261006-140-S1",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "F240-20261006-140-S2",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "F240-20261006-140-Y",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "F240-20261006-140-D",
-      "filmKey": "RRR|2022"
-    },
-    {
-      "id": "MAR-L-019",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "MAR-L-020",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "MAR-M-019",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "MAR-M-020",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "MAR-S-019",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "MAR-S-020",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "FF-235-YEAR",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "FF-235-DIRECTOR",
-      "filmKey": "Rumble in the Bronx|1995"
-    },
-    {
-      "id": "E20261007-F-152-L1",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "E20261007-F-152-L2",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "E20261007-F-152-M1",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "E20261007-F-152-M2",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "E20261007-F-152-S1",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "E20261007-F-152-S2",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "E20261007-F-152-Y",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "E20261007-F-152-D",
-      "filmKey": "Rurouni Kenshin|2012"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-L1",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-L2",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-M1",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-M2",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-S1",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-S2",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-Y",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-018-D",
-      "filmKey": "Rush Hour 2|2001"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-L1",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-L2",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-M1",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-M2",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-S1",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-S2",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-Y",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-019-D",
-      "filmKey": "Rush Hour 3|2007"
-    },
-    {
-      "id": "MAR-L-021",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-L-022",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-M-021",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-M-022",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-S-021",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-S-022",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-L-022-V1",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-M-022-V1",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "MAR-S-022-V1",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "FF-236-YEAR",
-      "filmKey": "Rush Hour|1998"
-    },
-    {
-      "id": "FF-236-DIRECTOR",
-      "filmKey": "Rush Hour|1998"
     },
     {
       "id": "THR-202610-P01-L-001",
@@ -10007,70 +10100,6 @@
     {
       "id": "G100-20261008-THRILLER-026-D",
       "filmKey": "Searching|2018"
-    },
-    {
-      "id": "F240-20261006-125-L1",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "F240-20261006-125-L2",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "F240-20261006-125-M1",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "F240-20261006-125-M2",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "F240-20261006-125-S1",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "F240-20261006-125-S2",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "F240-20261006-125-Y",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "F240-20261006-125-D",
-      "filmKey": "Seppuku|1962"
-    },
-    {
-      "id": "ASI-202610-P01-L-017",
-      "filmKey": "Serbuan maut|2011"
-    },
-    {
-      "id": "ASI-202610-P01-L-018",
-      "filmKey": "Serbuan maut|2011"
-    },
-    {
-      "id": "ASI-202610-P01-M-025",
-      "filmKey": "Serbuan maut|2011"
-    },
-    {
-      "id": "ASI-202610-P01-M-026",
-      "filmKey": "Serbuan maut|2011"
-    },
-    {
-      "id": "ASI-202610-P01-S-025",
-      "filmKey": "Serbuan maut|2011"
-    },
-    {
-      "id": "ASI-202610-P01-S-026",
-      "filmKey": "Serbuan maut|2011"
-    },
-    {
-      "id": "ASI-202610-P01-M-027",
-      "filmKey": "Serbuan maut|2011"
-    },
-    {
-      "id": "ASI-202610-P01-S-027",
-      "filmKey": "Serbuan maut|2011"
     },
     {
       "id": "SFI-202610-P01-L-003",
@@ -10169,70 +10198,6 @@
       "filmKey": "Shane|1953"
     },
     {
-      "id": "E20261007-F-153-L1",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "E20261007-F-153-L2",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "E20261007-F-153-M1",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "E20261007-F-153-M2",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "E20261007-F-153-S1",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "E20261007-F-153-S2",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "E20261007-F-153-Y",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "E20261007-F-153-D",
-      "filmKey": "Shao Lin da peng da shi|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-L1",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-L2",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-M1",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-M2",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-S1",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-S2",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-Y",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-013-D",
-      "filmKey": "Shao Lin men|1976"
-    },
-    {
       "id": "G100-20261008-WESTERN-007-L1",
       "filmKey": "She Wore a Yellow Ribbon|1949"
     },
@@ -10295,102 +10260,6 @@
     {
       "id": "G100-20261008-WESTERN-014-D",
       "filmKey": "Shenandoah|1965"
-    },
-    {
-      "id": "F240-20261006-121-L1",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "F240-20261006-121-L2",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "F240-20261006-121-M1",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "F240-20261006-121-M2",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "F240-20261006-121-S1",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "F240-20261006-121-S2",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "F240-20261006-121-Y",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "F240-20261006-121-D",
-      "filmKey": "Shichinin no Samurai|1954"
-    },
-    {
-      "id": "E20261007-F-143-L1",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "E20261007-F-143-L2",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "E20261007-F-143-M1",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "E20261007-F-143-M2",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "E20261007-F-143-S1",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "E20261007-F-143-S2",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "E20261007-F-143-Y",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "E20261007-F-143-D",
-      "filmKey": "Shogun Assassin|1980"
-    },
-    {
-      "id": "F240-20261006-128-L1",
-      "filmKey": "Shurayukihime|1973"
-    },
-    {
-      "id": "F240-20261006-128-L2",
-      "filmKey": "Shurayukihime|1973"
-    },
-    {
-      "id": "F240-20261006-128-M1",
-      "filmKey": "Shurayukihime|1973"
-    },
-    {
-      "id": "F240-20261006-128-M2",
-      "filmKey": "Shurayukihime|1973"
-    },
-    {
-      "id": "F240-20261006-128-S1",
-      "filmKey": "Shurayukihime|1973"
-    },
-    {
-      "id": "F240-20261006-128-S2",
-      "filmKey": "Shurayukihime|1973"
-    },
-    {
-      "id": "F240-20261006-128-Y",
-      "filmKey": "Shurayukihime|1973"
-    },
-    {
-      "id": "F240-20261006-128-D",
-      "filmKey": "Shurayukihime|1973"
     },
     {
       "id": "G100-20261008-THRILLER-010-L1",
@@ -10463,114 +10332,6 @@
     {
       "id": "FF-333-DIRECTOR",
       "filmKey": "Silent Running|1972"
-    },
-    {
-      "id": "F240-20261006-136-L1",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-136-L2",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-136-M1",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-136-M2",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-136-S1",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-136-S2",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-136-Y",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-136-D",
-      "filmKey": "Siu Lam juk kau|2001"
-    },
-    {
-      "id": "F240-20261006-135-L1",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "F240-20261006-135-L2",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "F240-20261006-135-M1",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "F240-20261006-135-M2",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "F240-20261006-135-S1",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "F240-20261006-135-S2",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "F240-20261006-135-Y",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "F240-20261006-135-D",
-      "filmKey": "Siu nin Wong Fei-hung ji: Tit Ma Lau|1993"
-    },
-    {
-      "id": "MAR-L-001",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-L-002",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-M-001",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-M-002",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-S-001",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-S-002",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-L-002-V1",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-M-002-V1",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "MAR-S-002-V1",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "FF-226-YEAR",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
-    },
-    {
-      "id": "FF-226-DIRECTOR",
-      "filmKey": "Snake in the Eagle's Shadow|1978"
     },
     {
       "id": "SF-L-045",
@@ -10953,134 +10714,6 @@
       "filmKey": "Sunshine|2007"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-008-L1",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-008-L2",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-008-M1",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-008-M2",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-008-S1",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-008-S2",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-008-Y",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-008-D",
-      "filmKey": "Tai ji Zhang San Feng|1993"
-    },
-    {
-      "id": "E20261007-F-157-L1",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "E20261007-F-157-L2",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "E20261007-F-157-M1",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "E20261007-F-157-M2",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "E20261007-F-157-S1",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "E20261007-F-157-S2",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "E20261007-F-157-Y",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "E20261007-F-157-D",
-      "filmKey": "Tai ji: Cong ling kai shi|2012"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-L1",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-L2",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-M1",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-M2",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-S1",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-S2",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-Y",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-001-D",
-      "filmKey": "Tang shan da xiong|1971"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-L1",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-L2",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-M1",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-M2",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-S1",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-S2",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-Y",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-014-D",
-      "filmKey": "Tau ming chong|2007"
-    },
-    {
       "id": "F240-20261006-184-L1",
       "filmKey": "Tenet|2020"
     },
@@ -11143,38 +10776,6 @@
     {
       "id": "FF-135-DIRECTOR",
       "filmKey": "Terminator 2: Judgment Day|1991"
-    },
-    {
-      "id": "MAR-L-047",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
-    },
-    {
-      "id": "MAR-L-048",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
-    },
-    {
-      "id": "MAR-M-047",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
-    },
-    {
-      "id": "MAR-M-048",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
-    },
-    {
-      "id": "MAR-S-047",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
-    },
-    {
-      "id": "MAR-S-048",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
-    },
-    {
-      "id": "FF-249-YEAR",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
-    },
-    {
-      "id": "FF-249-DIRECTOR",
-      "filmKey": "The 36th Chamber of Shaolin|1978"
     },
     {
       "id": "G100-20261008-THRILLER-004-L1",
@@ -11845,38 +11446,6 @@
       "filmKey": "The Fly|1986"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-022-L1",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-022-L2",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-022-M1",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-022-M2",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-022-S1",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-022-S2",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-022-Y",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-022-D",
-      "filmKey": "The Forbidden Kingdom|2008"
-    },
-    {
       "id": "G100-20261008-THRILLER-009-L1",
       "filmKey": "The Game|1997"
     },
@@ -12195,70 +11764,6 @@
     {
       "id": "E20261007-F-206-D",
       "filmKey": "The Island|2005"
-    },
-    {
-      "id": "ASI-202610-P01-L-003",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "ASI-202610-P01-L-004",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "ASI-202610-P01-M-004",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "ASI-202610-P01-M-005",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "ASI-202610-P01-S-004",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "ASI-202610-P01-S-005",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "ASI-202610-P01-M-006",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "ASI-202610-P01-S-006",
-      "filmKey": "The Karate Kid|1984"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-L1",
-      "filmKey": "The Karate Kid|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-L2",
-      "filmKey": "The Karate Kid|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-M1",
-      "filmKey": "The Karate Kid|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-M2",
-      "filmKey": "The Karate Kid|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-S1",
-      "filmKey": "The Karate Kid|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-S2",
-      "filmKey": "The Karate Kid|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-Y",
-      "filmKey": "The Karate Kid|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-017-D",
-      "filmKey": "The Karate Kid|2010"
     },
     {
       "id": "E20261007-F-251-L1",
@@ -13109,38 +12614,6 @@
       "filmKey": "The Quiet Earth|1985"
     },
     {
-      "id": "F240-20261006-131-L1",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
-      "id": "F240-20261006-131-L2",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
-      "id": "F240-20261006-131-M1",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
-      "id": "F240-20261006-131-M2",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
-      "id": "F240-20261006-131-S1",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
-      "id": "F240-20261006-131-S2",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
-      "id": "F240-20261006-131-Y",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
-      "id": "F240-20261006-131-D",
-      "filmKey": "The Raid 2|2014"
-    },
-    {
       "id": "E20261007-F-109-L1",
       "filmKey": "The Salvation|2014"
     },
@@ -13825,38 +13298,6 @@
       "filmKey": "The War Wagon|1967"
     },
     {
-      "id": "MAR-L-027",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
-      "id": "MAR-L-028",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
-      "id": "MAR-M-027",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
-      "id": "MAR-M-028",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
-      "id": "MAR-S-027",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
-      "id": "MAR-S-028",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
-      "id": "FF-239-YEAR",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
-      "id": "FF-239-DIRECTOR",
-      "filmKey": "The Way of the Dragon|1972"
-    },
-    {
       "id": "WES-L-023",
       "filmKey": "The Wild Bunch|1969"
     },
@@ -13887,38 +13328,6 @@
     {
       "id": "FF-287-DIRECTOR",
       "filmKey": "The Wild Bunch|1969"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-L1",
-      "filmKey": "The Young Master|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-L2",
-      "filmKey": "The Young Master|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-M1",
-      "filmKey": "The Young Master|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-M2",
-      "filmKey": "The Young Master|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-S1",
-      "filmKey": "The Young Master|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-S2",
-      "filmKey": "The Young Master|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-Y",
-      "filmKey": "The Young Master|1980"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-007-D",
-      "filmKey": "The Young Master|1980"
     },
     {
       "id": "SF-202609-P02-L-097",
@@ -13987,38 +13396,6 @@
     {
       "id": "G100-20261008-THRILLER-008-D",
       "filmKey": "Three Days of the Condor|1975"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-L1",
-      "filmKey": "Thunderbolt|1995"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-L2",
-      "filmKey": "Thunderbolt|1995"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-M1",
-      "filmKey": "Thunderbolt|1995"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-M2",
-      "filmKey": "Thunderbolt|1995"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-S1",
-      "filmKey": "Thunderbolt|1995"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-S2",
-      "filmKey": "Thunderbolt|1995"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-Y",
-      "filmKey": "Thunderbolt|1995"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-025-D",
-      "filmKey": "Thunderbolt|1995"
     },
     {
       "id": "SF-202609-P02-L-067",
@@ -14187,38 +13564,6 @@
     {
       "id": "G100-20261008-WESTERN-022-D",
       "filmKey": "Tom Horn|1980"
-    },
-    {
-      "id": "MAR-L-041",
-      "filmKey": "Tom-Yum-Goong|2005"
-    },
-    {
-      "id": "MAR-L-042",
-      "filmKey": "Tom-Yum-Goong|2005"
-    },
-    {
-      "id": "MAR-M-041",
-      "filmKey": "Tom-Yum-Goong|2005"
-    },
-    {
-      "id": "MAR-M-042",
-      "filmKey": "Tom-Yum-Goong|2005"
-    },
-    {
-      "id": "MAR-S-041",
-      "filmKey": "Tom-Yum-Goong|2005"
-    },
-    {
-      "id": "MAR-S-042",
-      "filmKey": "Tom-Yum-Goong|2005"
-    },
-    {
-      "id": "FF-246-YEAR",
-      "filmKey": "Tom-Yum-Goong|2005"
-    },
-    {
-      "id": "FF-246-DIRECTOR",
-      "filmKey": "Tom-Yum-Goong|2005"
     },
     {
       "id": "WES-L-027",
@@ -14489,70 +13834,6 @@
       "filmKey": "True Grit|2010"
     },
     {
-      "id": "F240-20261006-123-L1",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "F240-20261006-123-L2",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "F240-20261006-123-M1",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "F240-20261006-123-M2",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "F240-20261006-123-S1",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "F240-20261006-123-S2",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "F240-20261006-123-Y",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "F240-20261006-123-D",
-      "filmKey": "Tsubaki Sanjūrō|1962"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-L1",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-L2",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-M1",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-M2",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-S1",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-S2",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-Y",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-011-D",
-      "filmKey": "Twin Dragons|1992"
-    },
-    {
       "id": "G100-20261008-WESTERN-018-L1",
       "filmKey": "Two Mules for Sister Sara|1970"
     },
@@ -14663,38 +13944,6 @@
     {
       "id": "FF-283-DIRECTOR",
       "filmKey": "Unforgiven|1992"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-L1",
-      "filmKey": "Unleashed|2005"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-L2",
-      "filmKey": "Unleashed|2005"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-M1",
-      "filmKey": "Unleashed|2005"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-M2",
-      "filmKey": "Unleashed|2005"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-S1",
-      "filmKey": "Unleashed|2005"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-S2",
-      "filmKey": "Unleashed|2005"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-Y",
-      "filmKey": "Unleashed|2005"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-023-D",
-      "filmKey": "Unleashed|2005"
     },
     {
       "id": "E20261007-F-216-L1",
@@ -14845,82 +14094,6 @@
       "filmKey": "WarGames|1983"
     },
     {
-      "id": "MAR-L-017",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-L-018",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-M-017",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-M-018",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-S-017",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-S-018",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-L-018-V1",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-M-018-V1",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "MAR-S-018-V1",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "FF-234-YEAR",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "FF-234-DIRECTOR",
-      "filmKey": "Wheels on Meals|1984"
-    },
-    {
-      "id": "ASI-202610-P01-L-015",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
-      "id": "ASI-202610-P01-L-016",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
-      "id": "ASI-202610-P01-M-022",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
-      "id": "ASI-202610-P01-M-023",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
-      "id": "ASI-202610-P01-S-022",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
-      "id": "ASI-202610-P01-S-023",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
-      "id": "ASI-202610-P01-M-024",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
-      "id": "ASI-202610-P01-S-024",
-      "filmKey": "Who Am I?|1998"
-    },
-    {
       "id": "F240-20261006-228-L1",
       "filmKey": "Winchester '73|1950"
     },
@@ -15029,102 +14202,6 @@
       "filmKey": "Witness|1985"
     },
     {
-      "id": "G100-20261008-MARTIALARTS-024-L1",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-024-L2",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-024-M1",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-024-M2",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-024-S1",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-024-S2",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-024-Y",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-024-D",
-      "filmKey": "Wong Fei-hung chi Tit gai dau ng gung|1993"
-    },
-    {
-      "id": "F240-20261006-134-L1",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "F240-20261006-134-L2",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "F240-20261006-134-M1",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "F240-20261006-134-M2",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "F240-20261006-134-S1",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "F240-20261006-134-S2",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "F240-20261006-134-Y",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "F240-20261006-134-D",
-      "filmKey": "Wong Fei-hung|1991"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-L1",
-      "filmKey": "Wu du|1978"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-L2",
-      "filmKey": "Wu du|1978"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-M1",
-      "filmKey": "Wu du|1978"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-M2",
-      "filmKey": "Wu du|1978"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-S1",
-      "filmKey": "Wu du|1978"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-S2",
-      "filmKey": "Wu du|1978"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-Y",
-      "filmKey": "Wu du|1978"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-006-D",
-      "filmKey": "Wu du|1978"
-    },
-    {
       "id": "WES-202610-P01-L-013",
       "filmKey": "Wyatt Earp|1994"
     },
@@ -15155,262 +14232,6 @@
     {
       "id": "WES-202610-P01-S-021",
       "filmKey": "Wyatt Earp|1994"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-L1",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-L2",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-M1",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-M2",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-S1",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-S2",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-Y",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-003-D",
-      "filmKey": "Xia nü|1970"
-    },
-    {
-      "id": "ASI-202610-P01-L-009",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-L-010",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-M-013",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-M-014",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-S-013",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-S-014",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-M-015",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-S-015",
-      "filmKey": "Xin Shaolin Si|2011"
-    },
-    {
-      "id": "ASI-202610-P01-L-019",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "ASI-202610-P01-L-020",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "ASI-202610-P01-M-028",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "ASI-202610-P01-M-029",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "ASI-202610-P01-S-028",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "ASI-202610-P01-S-029",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "ASI-202610-P01-M-030",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "ASI-202610-P01-S-030",
-      "filmKey": "Yi dai zong shi|2013"
-    },
-    {
-      "id": "F240-20261006-137-L1",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "F240-20261006-137-L2",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "F240-20261006-137-M1",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "F240-20261006-137-M2",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "F240-20261006-137-S1",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "F240-20261006-137-S2",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "F240-20261006-137-Y",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "F240-20261006-137-D",
-      "filmKey": "Ying hung boon sik|1986"
-    },
-    {
-      "id": "ASI-202610-P01-L-005",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "ASI-202610-P01-L-006",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "ASI-202610-P01-M-007",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "ASI-202610-P01-M-008",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "ASI-202610-P01-S-007",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "ASI-202610-P01-S-008",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "ASI-202610-P01-M-009",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "ASI-202610-P01-S-009",
-      "filmKey": "Yip Man 2|2010"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-L1",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-L2",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-M1",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-M2",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-S1",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-S2",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-Y",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "G100-20261008-MARTIALARTS-015-D",
-      "filmKey": "Yip Man 3|2015"
-    },
-    {
-      "id": "F240-20261006-122-L1",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-122-L2",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-122-M1",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-122-M2",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-122-S1",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-122-S2",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-122-Y",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-122-D",
-      "filmKey": "Yōjinbō|1961"
-    },
-    {
-      "id": "F240-20261006-126-L1",
-      "filmKey": "Zatōichi|2003"
-    },
-    {
-      "id": "F240-20261006-126-L2",
-      "filmKey": "Zatōichi|2003"
-    },
-    {
-      "id": "F240-20261006-126-M1",
-      "filmKey": "Zatōichi|2003"
-    },
-    {
-      "id": "F240-20261006-126-M2",
-      "filmKey": "Zatōichi|2003"
-    },
-    {
-      "id": "F240-20261006-126-S1",
-      "filmKey": "Zatōichi|2003"
-    },
-    {
-      "id": "F240-20261006-126-S2",
-      "filmKey": "Zatōichi|2003"
-    },
-    {
-      "id": "F240-20261006-126-Y",
-      "filmKey": "Zatōichi|2003"
-    },
-    {
-      "id": "F240-20261006-126-D",
-      "filmKey": "Zatōichi|2003"
     },
     {
       "id": "THR-202610-P01-L-011",
