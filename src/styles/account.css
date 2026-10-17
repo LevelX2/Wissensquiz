@@ -244,6 +244,16 @@
   height: 0.45rem;
   accent-color: #e8c38d;
 }
+.path-unlock {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.path-unlock > .achievement-icon {
+  width: 42px;
+  height: 46px;
+  flex: 0 0 42px;
+}
 
 .release-info {
   display: flex;

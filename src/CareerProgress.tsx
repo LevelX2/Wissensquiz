@@ -1,11 +1,13 @@
 import { useEffect, useState, type CSSProperties } from "react";
 import { careerProgress, totalXp, xpLabels, type XpBreakdown } from "./career";
+import { AchievementIcon } from "./AchievementIcon";
+import { celebrationTier } from "./successTiers";
 
 export function CareerBadge({ experience }: { experience: number }) {
   const career = careerProgress(experience);
   return (
     <span className={`career-badge career-tier-${career.tier}`}>
-      <CareerEmblem tier={career.tier} />
+      <CareerEmblem level={career.level} />
       <span>
         Level {career.level} · {career.title}
       </span>
@@ -13,49 +15,14 @@ export function CareerBadge({ experience }: { experience: number }) {
   );
 }
 
-function CareerEmblem({ tier }: { tier: number }) {
+export function CareerEmblem({ level }: { level: number }) {
   return (
-    <svg
+    <AchievementIcon
       className="career-emblem"
-      viewBox="0 0 64 64"
-      aria-hidden="true"
-      fill="none"
-    >
-      {tier >= 10 && (
-        <circle cx="32" cy="32" r="29" stroke="currentColor" strokeWidth="2" />
-      )}
-      <path
-        d="M12 25h40v27H12zM12 25l-3-12 39-9 3 12-39 9Z"
-        fill="currentColor"
-        opacity=".18"
-      />
-      <path
-        d="M12 25h40v27H12zM12 25l-3-12 39-9 3 12-39 9ZM18 11l8 10M30 8l8 10M42 5l8 10"
-        stroke="currentColor"
-        strokeWidth="2.5"
-        strokeLinejoin="round"
-      />
-      <path
-        d="m32 30 3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1 3-6Z"
-        fill="currentColor"
-      />
-      {tier >= 20 && (
-        <path
-          d="M9 33C1 41 7 55 21 59M55 33c8 8 2 22-12 26M6 43l8 2M9 52l8-1M58 43l-8 2M55 52l-8-1"
-          stroke="currentColor"
-          strokeWidth="2"
-          strokeLinecap="round"
-        />
-      )}
-      {tier >= 35 && (
-        <path
-          d="m27 6 5-5 5 5M32 1v9"
-          stroke="currentColor"
-          strokeWidth="2"
-          strokeLinecap="round"
-        />
-      )}
-    </svg>
+      icon="career"
+      tier={celebrationTier([], level)}
+      ranked={false}
+    />
   );
 }
 
@@ -90,7 +57,7 @@ export function CareerProgress({
       className={`career-progress career-tier-${career.tier}${compact ? " is-compact" : ""}`}
     >
       <div className="career-heading">
-        <CareerEmblem tier={career.tier} />
+        <CareerEmblem level={career.level} />
         <div>
           {!compact && <span className="eyebrow">DEINE FILMKARRIERE</span>}
           <strong>

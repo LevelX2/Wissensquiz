@@ -1,5 +1,17 @@
 # Prüfnachweis
 
+## 17.10.2026 – Gemeinsame Erfolgsembleme lokal
+
+Feierdialog und Profil verwenden dieselben plastischen SVG-Medaillen. Gleichzeitige Erfolge, Levelaufstiege und Filmreise-Freischaltungen erhalten gleichwertige Karten untereinander. Größere Profilmedaillen, gemeinsame Karriere-/Freischaltmotive, neutrale offene Ziele und eine separat scrollbare Emblemliste. [Vertrag](Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026), [Nutzerauftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-17 Nutzerauftrag gemeinsame Erfolgsembleme.txt>).
+
+- **17 Tests in vier gezielten Dateien bestanden:** `achievement-progress`, `achievements`, `career`, `learning-path`.
+- **15 unterschiedliche Browserfälle bestanden:** alle 14 Fälle aus `success-celebration.spec.ts` und `unlock.spec.ts` in Chromium sowie der neue kombinierte Fall in mobilem WebKit. Isolierte Profile, synthetischer Kontodienst und kontrollierte Kalenderzeit; keine echten Konten oder produktiven Spielstände verwendet. Prüfung über einen eigenen lokalen Vite-Server auf Port 4188, ohne Produktionsbuild.
+- Geprüft: gemeinsame Feier mit Levelaufstieg, perfekter Runde und Bekanntheitsgruppe; gleiche Emblemgrößen je Karte; gleiche Motivpfade und Stufen in Feier/Profil; eindeutige SVG-Verlaufs-IDs in der langen Profilübersicht; mobile Breiten 320/390 Pixel und Desktop; sichtbare Überschrift/Bestätigung bei langen Listen, horizontale Grenzen, Fokus, Escape, einmalige Vergabe, Ton an/aus, reduzierte Bewegung sowie bestehende Axe-Prüfungen.
+- Die neue Scrollfläche übernahm zunächst den Fokus beim Öffnen. Expliziten Fokus auf die Bestätigung ergänzt und die betroffenen Fälle erfolgreich erneut geprüft. Eine Testabfrage auf genau eine Freischaltkarte auf die gemeinsame Liste korrigiert; der Fall mit zwei Freischaltungen anschließend bestanden. Abgebrochene oder fehlgeschlagene Versuche gelten nicht als bestandene Prüfungen; erfolgreiche unveränderte Prüfteile wurden wiederverwendet.
+- TypeScript (`npx tsc -b --noEmit`) und `git diff --check` erfolgreich. Keine Änderungen an Erfolgsbedingungen, XP, Datenbank oder Abhängigkeiten. Keine Veröffentlichung, kein Push; vollständiger Veröffentlichungsprüflauf bleibt dem konkret beauftragten Veröffentlichungsstand vorbehalten.
+
+Visuell geprüfte, dauerhaft aufbewahrte Nachweise: [gemeinsame Feier mit Freischaltung](Erfolgsembleme-2026-10-17/Feier-Mobil.png) und [Profilmedaillen](Erfolgsembleme-2026-10-17/Erfolge-Profil.png). Beide zeigen ausschließlich synthetische Prüfstände. Eigene temporäre Browserausgaben und Prüfkonfiguration nach Pfad-/Verknüpfungsprüfung entfernt, Abwesenheit bestätigt (2.207.009 Bytes, zehn Dateien). Kein eigener Prüfbuild erzeugt; beide fremden Mifune-Konfigurationen erhalten.
+
 ## 16.10.2026 – Version 82 veröffentlicht
 
 Am **16.10.2026 um 20:55:02 Uhr Europe/Berlin** aus Main (`00ce918f1b54e9512c4a4c6257f8ba2768f10b4a`) als **Version 82 öffentlich veröffentlicht**, nativer Status **succeeded**. Besucherzugriff public, Revision 2 erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-16-Version-82.json).

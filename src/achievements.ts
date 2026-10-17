@@ -51,7 +51,10 @@ export type AchievementIconKind =
   | "book"
   | "compass"
   | "person"
-  | "trophy";
+  | "trophy"
+  | "ticket"
+  | "unlock"
+  | "career";
 export type Achievement = {
   id: string;
   label: string;

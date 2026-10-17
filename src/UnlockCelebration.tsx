@@ -1,8 +1,9 @@
-import { familiarityLabel } from "./familiarity";
+import { familiarityNames } from "./familiarity";
 import { useEffect, useRef, type CSSProperties } from "react";
 import { genreLabel, difficultyLabel } from "./filters";
 import type { PathUnlock } from "./learningPath";
-import { BadgeIcon } from "./Icons";
+import { CareerEmblem } from "./CareerProgress";
+import { JourneyUnlockIcon } from "./JourneyUnlockIcon";
 import type { Achievement } from "./achievements";
 import { AchievementIcon } from "./AchievementIcon";
 import { celebrationTier, stageLabel } from "./successTiers";
@@ -19,13 +20,14 @@ export function UnlockCelebration({
   onClose: () => void;
 }) {
   const tier = celebrationTier(achievements, promotion?.level);
-  const leadAchievement = [...achievements]
-    .reverse()
-    .find((a) => a.tier.rank === tier.rank);
+  const rewardCount =
+    unlocks.length + achievements.length + (promotion ? 1 : 0);
   const dialog = useRef<HTMLDialogElement>(null);
+  const confirmation = useRef<HTMLButtonElement>(null);
   useEffect(() => {
     const el = dialog.current!;
     el.showModal();
+    confirmation.current?.focus({ preventScroll: true });
     return () => el.close();
   }, []);
   return (
@@ -68,105 +70,92 @@ export function UnlockCelebration({
             })}
           </div>
         ))}
-        <div className="unlock-medal">
-          {leadAchievement ? (
-            <AchievementIcon icon={leadAchievement.icon} tier={tier} />
-          ) : promotion ? (
-            <BadgeIcon earned />
-          ) : (
-            <svg viewBox="0 0 100 100" fill="none">
-              <path
-                className="unlock-shackle"
-                d="M34 46V31a16 16 0 0 1 32 0v15"
-                stroke="currentColor"
-                strokeWidth="7"
-                strokeLinecap="round"
-              />
-              <rect
-                x="23"
-                y="44"
-                width="54"
-                height="43"
-                rx="12"
-                fill="currentColor"
-              />
-              <path
-                d="m50 53 3.5 7.5 8.5 1-6.2 5.8 1.7 8.2-7.5-4.2-7.5 4.2 1.7-8.2-6.2-5.8 8.5-1Z"
-                fill="#433319"
-              />
-            </svg>
-          )}
-        </div>
       </div>
       <div className="unlock-copy">
         <span className="eyebrow">DEIN WISSEN BRINGT DICH WEITER</span>
-        <p className="success-tier">{stageLabel(tier)}</p>
         <h2 id="unlock-title">
-          {promotion
-            ? `Level ${promotion.level} erreicht!`
-            : achievements.length
-              ? achievements.length === 1
-                ? "Neuer Erfolg!"
-                : "Neue Erfolge!"
-              : unlocks.length === 1
-                ? "Neue Stufe freigeschaltet!"
-                : "Neue Stufen freigeschaltet!"}
+          {rewardCount > 1
+            ? "Das hast Du erreicht!"
+            : promotion
+              ? `Level ${promotion.level} erreicht!`
+              : achievements.length
+                ? achievements.length === 1
+                  ? "Neuer Erfolg!"
+                  : "Neue Erfolge!"
+                : unlocks.length === 1
+                  ? "Neue Stufe freigeschaltet!"
+                  : "Neue Stufen freigeschaltet!"}
         </h2>
-        {promotion && (
-          <p className="success-promotion">
-            Gratulation! Dein Filmwissen bringt Dich weiter.
-            <br />
-            <strong>
-              Level {promotion.level} · {promotion.title}
-            </strong>
-          </p>
-        )}
-        {achievements.map((achievement) => (
-          <div
-            className="success-badge"
-            key={achievement.id}
-            style={
-              { "--success-color": achievement.tier.light } as CSSProperties
-            }
-          >
-            <AchievementIcon icon={achievement.icon} tier={achievement.tier} />
-            <small>{stageLabel(achievement.tier)}</small>
-            <strong>{achievement.label}</strong>
-            <span>{achievement.description}</span>
-          </div>
-        ))}
-        {unlocks.length > 0 && (
-          <>
-            <ul className="unlock-levels">
-              {unlocks.map((unlock) => (
-                <li
-                  key={`${unlock.genre}:${"difficulty" in unlock ? unlock.difficulty : unlock.familiarity}`}
-                >
-                  <span>{genreLabel(unlock.genre)}</span>
-                  <strong>
-                    {"difficulty" in unlock
-                      ? difficultyLabel(unlock.difficulty)
-                      : familiarityLabel(unlock.familiarity)}
-                  </strong>
-                </li>
-              ))}
-            </ul>
-          </>
-        )}
-        <p id="unlock-description">
-          {unlocks.length === 0 ? (
-            "Dein Erfolg ist gespeichert. Dein Rundenergebnis wartet auf Dich."
-          ) : (
-            <>
-              Geschafft! Deine sicheren Antworten haben die nächste Tür
-              geöffnet.{" "}
-              {unlocks.length === 1
-                ? "Diese Stufe steht Dir jetzt auch in der Filmreise zur Verfügung."
-                : "Diese Stufen stehen Dir jetzt auch in der Filmreise zur Verfügung."}
-            </>
+        <ul
+          className="success-rewards"
+          tabIndex={0}
+          aria-label="Erreichte Erfolge und Freischaltungen"
+        >
+          {promotion && (
+            <li
+              className="success-badge"
+              data-reward-kind="career"
+              style={
+                {
+                  "--reward-color": celebrationTier([], promotion.level).light,
+                } as CSSProperties
+              }
+            >
+              <CareerEmblem level={promotion.level} />
+              <small>Filmkarriere · Levelaufstieg</small>
+              <strong>
+                Level {promotion.level} · {promotion.title}
+              </strong>
+              <span>Gratulation! Dein Filmwissen bringt Dich weiter.</span>
+            </li>
           )}
-        </p>
-        <button className="primary" autoFocus onClick={onClose}>
+          {achievements.map((achievement) => (
+            <li
+              className="success-badge"
+              data-reward-kind="achievement"
+              key={achievement.id}
+              style={
+                { "--reward-color": achievement.tier.light } as CSSProperties
+              }
+            >
+              <AchievementIcon
+                icon={achievement.icon}
+                tier={achievement.tier}
+              />
+              <small>{stageLabel(achievement.tier)}</small>
+              <strong>{achievement.label}</strong>
+              <span>{achievement.description}</span>
+            </li>
+          ))}
+          {unlocks.map((unlock) => (
+            <li
+              className="success-badge"
+              data-reward-kind="unlock"
+              key={`${unlock.genre}:${"difficulty" in unlock ? unlock.difficulty : unlock.familiarity}`}
+            >
+              <JourneyUnlockIcon unlock={unlock} />
+              <small>
+                {"difficulty" in unlock
+                  ? "Schwierigkeit freigeschaltet"
+                  : `Bekanntheitsgruppe ${unlock.familiarity} freigeschaltet`}
+              </small>
+              <strong>
+                {genreLabel(unlock.genre)} ·{" "}
+                {"difficulty" in unlock
+                  ? difficultyLabel(unlock.difficulty)
+                  : familiarityNames[unlock.familiarity]}
+              </strong>
+              <span>Jetzt in Deiner Filmreise verfügbar.</span>
+            </li>
+          ))}
+        </ul>
+        <p id="unlock-description">Dein Rundenergebnis wartet auf Dich.</p>
+        <button
+          ref={confirmation}
+          className="primary"
+          autoFocus
+          onClick={onClose}
+        >
           Weiter zum Ergebnis
         </button>
       </div>

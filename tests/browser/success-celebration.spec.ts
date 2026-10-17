@@ -9,6 +9,9 @@ import { answer, complete, startRound } from "../../src/engine";
 import AxeBuilder from "@axe-core/playwright";
 import { archiveClosedRounds } from "../../src/roundArchive";
 import { questionSourceOf, genreOf } from "../../src/filters";
+import { familiarityOf } from "../../src/familiarity";
+import { learningPathProgress } from "../../src/learningPath";
+import { careerProgress } from "../../src/career";
 
 for (const { sound, promote } of [
   { sound: true, promote: true },
@@ -156,7 +159,7 @@ for (const { sound, promote } of [
       await failure.getByRole("button", { name: "Erneut versuchen" }).click();
     }
     const dialog = page.getByRole("dialog", {
-      name: promote ? "Level 2 erreicht!" : "Neue Erfolge!",
+      name: "Das hast Du erreicht!",
     });
     await expect(dialog).toBeVisible();
     await expect(page.locator("dialog[open]")).toHaveCount(1);
@@ -379,7 +382,7 @@ test("Ein Film gelernt: Meldung, Genre, EXP und nächstes Ziel im Profil", async
   const dialog = page.getByRole("dialog");
   await expect(dialog).toContainText("1 Film gelernt");
   await expect(
-    dialog.getByRole("heading", { name: "Neue Erfolge!" }),
+    dialog.getByRole("heading", { name: "Das hast Du erreicht!" }),
   ).toBeInViewport();
   await expect(
     dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
@@ -431,4 +434,172 @@ test("Ein Film gelernt: Meldung, Genre, EXP und nächstes Ziel im Profil", async
   });
   await page.reload();
   await expect(page.locator("dialog[open]")).toHaveCount(0);
+});
+
+test("Gleichwertige Embleme für Freischaltung, Level und Erfolge; dieselben Motive im Profil", async ({
+  page,
+}, testInfo) => {
+  const now = new Date("2026-10-17T12:00:00+02:00");
+  await fixCalendarTime(page, now);
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.emulateMedia({ reducedMotion: "reduce" });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const state = await readStoredState(page);
+  const easy = [
+    ...new Map(
+      state.questions
+        .filter((q) => q.difficulty === "leicht")
+        .map((q) => [q.knowledgeId, q]),
+    ).values(),
+  ];
+  const horror = easy.filter(
+    (q) =>
+      questionSourceOf(q) === "film" &&
+      genreOf(q) === "Horror" &&
+      familiarityOf(q) === 1,
+  );
+  const target = learningPathProgress(state)("Horror").groups.find(
+    (g) => g.level === 1,
+  )!.target;
+  const history = (q: (typeof easy)[number]) => {
+    const round = startRound(
+      state,
+      { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+      now.getTime() - 60000 + state.rounds.length * 100,
+    );
+    round.questions = [structuredClone(q)];
+    round.order = [q.answers.map((a) => a.id)];
+    round.familiaritySnapshot = { [q.id]: familiarityOf(q)! };
+    answer(state, round.id, q.id, q.correctId, 100, now.getTime() - 30000);
+    complete(state, round.id, now.getTime() - 20000);
+  };
+  horror.slice(0, target - 1).forEach(history);
+  const other = easy.filter((q) => genreOf(q) !== "Horror");
+  let used = 0;
+  while (careerProgress(state.experience).remaining > 50)
+    history(other[used++]);
+  const beforeLevel = careerProgress(state.experience).level;
+  const active = startRound(
+    state,
+    { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
+    now.getTime() - 10000,
+  );
+  active.questions = structuredClone([
+    horror[target - 1],
+    ...other.slice(used, used + 9),
+  ]);
+  active.order = active.questions.map((q) => q.answers.map((a) => a.id));
+  active.familiaritySnapshot = Object.fromEntries(
+    active.questions.map((q) => [q.id, familiarityOf(q)!]),
+  );
+  for (const q of active.questions)
+    answer(state, active.id, q.id, q.correctId, 100, now.getTime() - 9000);
+  await writeStoredState(page, state);
+  await page.reload();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await page.getByRole("button", { name: "Runde abschließen" }).click();
+  const dialog = page.getByRole("dialog", { name: "Das hast Du erreicht!" });
+  await expect(dialog).toBeVisible();
+  await expect(dialog.locator('[data-reward-kind="career"]')).toContainText(
+    `Level ${beforeLevel + 1}`,
+  );
+  await expect(
+    dialog
+      .locator('[data-reward-kind="unlock"]')
+      .filter({ hasText: "Bekanntheitsgruppe 2" }),
+  ).toContainText("Horror · Bekannt");
+  const perfect = dialog
+    .locator('[data-reward-kind="achievement"]')
+    .filter({ hasText: "Erste perfekte Zehnerrunde" });
+  await expect(perfect).toBeVisible();
+  const artwork = await perfect
+    .locator("path")
+    .evaluateAll((paths) => paths.map((path) => path.getAttribute("d")));
+  const sizes = await dialog
+    .locator(".success-badge > .achievement-icon")
+    .evaluateAll((icons) =>
+      icons.map((icon) => ({
+        width: icon.getBoundingClientRect().width,
+        height: icon.getBoundingClientRect().height,
+      })),
+    );
+  expect(sizes.length).toBeGreaterThanOrEqual(3);
+  expect(
+    sizes.every(
+      (size) =>
+        size.width === sizes[0].width && size.height === sizes[0].height,
+    ),
+  ).toBe(true);
+  // All cards remain reachable in their own scroll area; title and confirmation stay visible.
+  await expect(dialog.getByRole("heading")).toBeInViewport();
+  await expect(
+    dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
+  ).toBeInViewport();
+  await expect(
+    dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
+  ).toBeFocused();
+  expect(await dialog.evaluate((el) => el.scrollWidth <= el.clientWidth)).toBe(
+    true,
+  );
+  await dialog.screenshot({
+    path: testInfo.outputPath("embleme-gemeinsam-mobil.png"),
+  });
+  await dialog
+    .locator('[data-reward-kind="unlock"]')
+    .last()
+    .scrollIntoViewIfNeeded();
+  await expect(dialog.getByRole("heading")).toBeInViewport();
+  await expect(
+    dialog.getByRole("button", { name: "Weiter zum Ergebnis" }),
+  ).toBeInViewport();
+  await dialog.screenshot({
+    path: testInfo.outputPath("embleme-freischaltung-mobil.png"),
+  });
+  await page.setViewportSize({ width: 1100, height: 1000 });
+  await dialog.screenshot({
+    path: testInfo.outputPath("embleme-gemeinsam-desktop.png"),
+  });
+  await dialog.getByRole("button", { name: "Weiter zum Ergebnis" }).click();
+  await page.getByRole("button", { name: "Profil", exact: true }).click();
+  const achievements = page.getByRole("region", {
+    name: "Deine Erfolge",
+    exact: true,
+  });
+  await achievements.locator(".profile-section > summary").click();
+  const track = achievements.getByRole("region", {
+    name: "Perfekte Zehnerrunden",
+    exact: true,
+  });
+  await track.locator("summary").click();
+  const earned = track.locator("li.earned .achievement-icon").first();
+  expect(
+    await earned
+      .locator("path")
+      .evaluateAll((paths) => paths.map((path) => path.getAttribute("d"))),
+  ).toEqual(artwork);
+  await expect(earned).toHaveAttribute("data-tier", "bronze");
+  expect(
+    await page.locator(".achievement-icon").evaluateAll((icons) =>
+      icons.every((icon) => {
+        const ids = [...icon.querySelectorAll("defs [id]")].map(
+          (def) => def.id,
+        );
+        return ids.every(
+          (id) =>
+            [...document.querySelectorAll("[id]")].filter((el) => el.id === id)
+              .length === 1,
+        );
+      }),
+    ),
+  ).toBe(true);
+  await page.setViewportSize({ width: 390, height: 844 });
+  await track.evaluate((el) => el.scrollIntoView({ block: "start" }));
+  await page.screenshot({
+    path: testInfo.outputPath("embleme-profil-mobil.png"),
+  });
+  expect(
+    (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+      .violations,
+  ).toEqual([]);
 });

@@ -4,7 +4,8 @@
   padding: 0;
   width: min(540px, calc(100vw - 28px));
   max-height: calc(100dvh - 40px);
-  overflow: auto;
+  overflow: hidden;
+  position: fixed;
   color: #fff4d6;
   background: #203b3b;
   box-shadow: 0 24px 90px #102b3566;
@@ -15,46 +16,20 @@
   background: #122529b8;
 }
 .unlock-scene {
-  position: relative;
-  height: 145px;
+  position: absolute;
+  inset: 0 0 auto;
+  height: 180px;
   overflow: hidden;
-  background: radial-gradient(ellipse at bottom, #526247, #203b3b 75%);
-}
-.unlock-medal {
-  position: relative;
-  margin: 26px auto 0;
-  width: 96px;
-  height: 96px;
-  border: 2px solid var(--success-color, #efd297);
-  border-radius: 50%;
-  background: radial-gradient(circle at 35% 25%, #617652, #294443 70%);
-  color: var(--success-color, #ffe3a1);
-  box-shadow:
-    0 0 0 9px #f2d49715,
-    0 0 50px #ffe3a12b;
-  animation: unlock-medal var(--success-duration, 850ms)
-    cubic-bezier(0.16, 1, 0.3, 1) both;
-}
-.unlock-medal .achievement-icon,
-.success-badge .achievement-icon {
-  color: var(--success-color) !important;
-}
-.unlock-copy .success-tier {
-  color: var(--success-color, #ffe3a1);
-  font-weight: 700;
-  margin: 12px 0 0;
-}
-.unlock-medal svg {
-  width: 68px;
-  height: 78px;
-  margin-top: 7px;
-}
-.unlock-shackle {
-  transform-origin: 34px 46px;
-  animation: unlock-open 600ms 500ms ease-out forwards;
+  pointer-events: none;
 }
 .unlock-copy {
-  padding: 10px 28px 28px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100dvh - 44px);
+  box-sizing: border-box;
+  padding: 26px 24px 20px;
+  background: radial-gradient(ellipse at top, #65714b42, transparent 65%);
 }
 .unlock-copy .eyebrow {
   color: #d8d8bf;
@@ -67,39 +42,29 @@
   margin: 10px 0 14px;
   color: #fff4d6;
 }
+.unlock-copy > * {
+  flex-shrink: 0;
+}
 .unlock-copy p {
   font-size: 14px;
   line-height: 1.65;
   color: #e0e7dc;
 }
 .unlock-copy .primary {
-  position: sticky;
-  bottom: 12px;
-  z-index: 1;
   width: 100%;
-  margin-top: 12px;
+  margin-top: 4px;
 }
-.unlock-levels {
+.success-rewards {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 4px;
   display: grid;
-  gap: 8px;
-}
-.unlock-levels li {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: baseline;
-  gap: 8px 16px;
-  border: 1px solid #b8aa7680;
-  background: #fff4d610;
-  border-radius: 12px;
-  padding: 12px;
-}
-.unlock-levels strong {
-  color: #ffe3a1;
-  font-size: 25px;
+  gap: 12px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-color: #b8aa76 #203b3b;
+  flex: 0 1 auto;
+  min-height: 0;
 }
 .firework {
   position: absolute;
@@ -166,24 +131,6 @@
     transform: none;
   }
 }
-@keyframes unlock-medal {
-  from {
-    opacity: 0;
-    transform: scale(0.35) rotate(-25deg);
-  }
-  65% {
-    opacity: 1;
-    transform: scale(1.08) rotate(4deg);
-  }
-  to {
-    transform: scale(1) rotate(0);
-  }
-}
-@keyframes unlock-open {
-  to {
-    transform: translateY(-7px) rotate(-26deg);
-  }
-}
 @keyframes unlock-trail {
   0% {
     opacity: 0;
@@ -214,13 +161,8 @@
   }
 }
 @media (prefers-reduced-motion: reduce) {
-  .unlock-celebration,
-  .unlock-medal,
-  .unlock-shackle {
+  .unlock-celebration {
     animation: none;
-  }
-  .unlock-shackle {
-    transform: translateY(-7px) rotate(-26deg);
   }
   .firework {
     display: none;
@@ -268,28 +210,59 @@
   }
 }
 
-.success-promotion {
-  line-height: 1.6;
-}
 .success-badge {
+  --reward-color: #ffe3a1;
   display: grid;
-  grid-template-columns: 52px minmax(0, 1fr);
+  grid-template-columns: 80px minmax(0, 1fr);
   align-items: center;
   text-align: left;
-  gap: 4px 12px;
-  margin: 12px 0;
-  padding: 12px;
-  border: 1px solid var(--success-color, #d0b16b);
+  gap: 5px 16px;
+  min-height: 132px;
+  box-sizing: border-box;
+  padding: 16px;
+  border: 1px solid color-mix(in srgb, var(--reward-color) 65%, #203b3b);
   border-radius: 16px;
-  background: #ffffff0a;
+  background: linear-gradient(135deg, #ffffff12, #ffffff03), #183232;
+  box-shadow:
+    inset 0 1px 0 #fff6df26,
+    0 5px 12px #102a2b33;
 }
-.success-badge svg {
+.success-badge > .achievement-icon {
   grid-column: 1;
   grid-row: 1 / span 3;
-  width: 52px;
-  height: 60px;
+  width: 80px;
+  height: 88px;
+  filter: drop-shadow(0 4px 4px #071c1b66);
+}
+.success-badge small {
+  color: var(--reward-color);
+  font-size: 11px;
+  line-height: 1.4;
+}
+.success-badge strong {
+  font-size: 19px;
+  line-height: 1.25;
+  color: #fff4d6;
+  overflow-wrap: anywhere;
 }
 .success-badge span {
   font-size: 12px;
   line-height: 1.5;
+}
+@media (max-width: 400px) {
+  .unlock-copy {
+    padding: 22px 12px 16px;
+  }
+  .success-badge {
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 4px 10px;
+    padding: 12px;
+  }
+  .success-badge > .achievement-icon {
+    width: 64px;
+    height: 71px;
+  }
+  .success-badge strong {
+    font-size: 17px;
+  }
 }

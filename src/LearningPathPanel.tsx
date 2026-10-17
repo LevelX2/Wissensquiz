@@ -7,6 +7,7 @@ import { learningAchievementTier } from "./learningAchievements";
 import { discoveryMedals } from "./discoveryMilestones";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import { learningPathProgress } from "./learningPath";
+import { JourneyUnlockIcon } from "./JourneyUnlockIcon";
 import {
   useServerView,
   type LearningOverview,
@@ -128,20 +129,32 @@ export function LearningPath({
                   <GenreArtwork genre={genre} compact /> {genreLabel(genre)}
                 </strong>
                 <span>Schwierigkeit · Leicht freigeschaltet</span>
-                <span>
-                  {p.mediumUnlocked
-                    ? "✓ Mittel freigeschaltet"
-                    : `Mittel gesperrt · ${Math.min(p.easy, p.easyTarget)} / ${p.easyTarget} benötigte leichte Ziele`}
+                <span className="path-unlock">
+                  <JourneyUnlockIcon
+                    unlock={{ genre, difficulty: "mittel" }}
+                    earned={p.mediumUnlocked}
+                  />
+                  <span>
+                    {p.mediumUnlocked
+                      ? "✓ Mittel freigeschaltet"
+                      : `Mittel gesperrt · ${Math.min(p.easy, p.easyTarget)} / ${p.easyTarget} benötigte leichte Ziele`}
+                  </span>
                 </span>
                 <progress
                   aria-label={`${genreLabel(genre)}: Fortschritt zu Mittel`}
                   max={p.easyTarget || 1}
                   value={Math.min(p.easy, p.easyTarget)}
                 />
-                <span>
-                  {p.hardUnlocked
-                    ? "✓ Schwer freigeschaltet"
-                    : `Schwer gesperrt · ${Math.min(p.medium, p.mediumTarget)} / ${p.mediumTarget} benötigte mittlere Ziele${p.mediumUnlocked ? "" : " · zuerst Mittel freischalten"}`}
+                <span className="path-unlock">
+                  <JourneyUnlockIcon
+                    unlock={{ genre, difficulty: "schwer" }}
+                    earned={p.hardUnlocked}
+                  />
+                  <span>
+                    {p.hardUnlocked
+                      ? "✓ Schwer freigeschaltet"
+                      : `Schwer gesperrt · ${Math.min(p.medium, p.mediumTarget)} / ${p.mediumTarget} benötigte mittlere Ziele${p.mediumUnlocked ? "" : " · zuerst Mittel freischalten"}`}
+                  </span>
                 </span>
                 <progress
                   aria-label={`${genreLabel(genre)}: Fortschritt zu Schwer`}
@@ -150,10 +163,16 @@ export function LearningPath({
                 />
                 {p.independent && (
                   <>
-                    <span>
-                      {p.expertUnlocked
-                        ? "✓ Experte freigeschaltet"
-                        : `Experte gesperrt · ${Math.min(p.hard, p.hardTarget)} / ${p.hardTarget} benötigte schwere Ziele${p.hardUnlocked ? "" : " · zuerst Schwer freischalten"}`}
+                    <span className="path-unlock">
+                      <JourneyUnlockIcon
+                        unlock={{ genre, difficulty: "experte" }}
+                        earned={p.expertUnlocked}
+                      />
+                      <span>
+                        {p.expertUnlocked
+                          ? "✓ Experte freigeschaltet"
+                          : `Experte gesperrt · ${Math.min(p.hard, p.hardTarget)} / ${p.hardTarget} benötigte schwere Ziele${p.hardUnlocked ? "" : " · zuerst Schwer freischalten"}`}
+                      </span>
                     </span>
                     <progress
                       aria-label={`${genre}: Fortschritt zu Experte`}
@@ -165,10 +184,18 @@ export function LearningPath({
                 <>
                   <strong>Bekanntheitsgruppen</strong>
                   {p.groups.map((g) => (
-                    <span key={g.level}>
-                      {g.level <= p.familiarity ? "✓" : "○"}{" "}
-                      {familiarityLabel(g.level)} ·{" "}
-                      {g.level <= p.familiarity ? "freigeschaltet" : "gesperrt"}
+                    <span className="path-unlock" key={g.level}>
+                      <JourneyUnlockIcon
+                        unlock={{ genre, familiarity: g.level }}
+                        earned={g.level <= p.familiarity}
+                      />
+                      <span>
+                        {g.level <= p.familiarity ? "✓" : "○"}{" "}
+                        {familiarityLabel(g.level)} ·{" "}
+                        {g.level <= p.familiarity
+                          ? "freigeschaltet"
+                          : "gesperrt"}
+                      </span>
                     </span>
                   ))}
                   {next && current ? (

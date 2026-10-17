@@ -1,5 +1,15 @@
 # Erfolge und Erfolgsstufen
 
+## Gemeinsame Embleme und gleichwertige Feier – 17.10.2026
+
+**Lokal umgesetzt, noch nicht veröffentlicht.** [Nutzerauftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-17 Nutzerauftrag gemeinsame Erfolgsembleme.txt>). Gleichzeitig erreichte Erfolge, Karrierelevel und Filmreise-Freischaltungen erscheinen gleichwertig als einzelne Emblemkarten untereinander. Es gibt kein übergeordnetes großes Gewinner-Motiv mehr. Bei mehreren Ereignissen lautet die gemeinsame Überschrift „Das hast Du erreicht!“. Jede Karte besitzt denselben Aufbau, dieselbe Emblemgröße und denselben gestalterischen Stellenwert. Der bestehende höchste Erfolgsrang steuert weiterhin genau ein Ton-/Haptiksignal und die begrenzte Feuerwerksanimation; er bestimmt keine visuelle Rangfolge der Karten.
+
+`AchievementIcon` zeichnet die gemeinsame skalierbare Medaille mit Metallverlauf, dunklem Innenfeld, Lorbeer, Band und kräftigem Motiv. Zwölf Stufen bleiben durch ihre Farben, Rangpunkte und ausgeschriebenen Stufennamen erkennbar. Offene Ziele verwenden eine gedämpfte neutrale Palette und tragen weiterhin ihren textlichen Status. Wiederholt dargestellte Medaillen besitzen eigene SVG-Verlaufs-IDs, damit sich die Farben innerhalb langer Profilübersichten nicht gegenseitig überschreiben.
+
+Feierdialog, Profil-Erfolgsübersicht, Sammlung und Entdeckeranzeigen verwenden dieselben Motive und Stufenfarben. Im Profil sind die Embleme in geschlossenen Reihen und besonders auf den einzelnen Meilensteinkarten größer. Karrierelevel verwenden das gemeinsame Kronenmotiv in Feier und Karriereanzeigen; Bekanntheitsgruppen das Kinokartenmotiv, Schwierigkeiten das offene Schloss. `JourneyUnlockIcon` wird sowohl in der Feier als auch unter „Deine Stufenfortschritte“ verwendet. Bekanntheitsgruppe und Schwierigkeit bleiben textlich ausdrücklich getrennt.
+
+Bei langen gemeinsamen Feiern scrollt nur die Emblemliste. Überschrift und „Weiter zum Ergebnis“ bleiben sichtbar, auch bei 320 Pixeln Breite. Fokus auf die Bestätigung, Escape, Rückkehr zur Ergebnisüberschrift und reduzierte Bewegung bleiben erhalten. Erfolgsbedingungen, Schwellen, XP, Lernregeln und Online-Spielstände sind unverändert; keine zusätzlichen Datenabrufe oder Backendänderungen. 17 gezielte Tests, 15 unterschiedliche Browserfälle, TypeScript und Diff-Prüfung erfolgreich. [Prüfnachweis](Pruefbericht.md#17102026--gemeinsame-erfolgsembleme-lokal), [Feier-Vorschau](Erfolgsembleme-2026-10-17/Feier-Mobil.png), [Profil-Vorschau](Erfolgsembleme-2026-10-17/Erfolge-Profil.png).
+
 ## Prüfung und Progressionsentscheidung – 15.10.2026
 
 **Seit Version 81 am 15.10.2026 veröffentlicht:** zehn bis zwölf Meilensteine je wachsender Reihe und zwölf unterscheidbare Erfolgsstufen. [Auftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-15 Nutzerauftrag Erfolgsprogression.txt>). Die folgenden Tabellen sind der aktuelle veröffentlichte Vertrag; die Abschnitte ab „Veröffentlichter Ausgangsstand“ dokumentieren die ursprüngliche Fassung. [Veröffentlichungsnachweis Version 81](Veroeffentlichung-2026-10-15-Version-81.json).

@@ -1,5 +1,7 @@
 # Filmkarriere und Erfahrungspunkte
 
+**17.10.2026 – Lokale Darstellungsänderung, noch nicht veröffentlicht:** Levelaufstieg, Erfolge und Freischaltungen erhalten gleichwertige Emblemkarten. Das Kronenmotiv erscheint identisch im Feierdialog und in den Karriereanzeigen. Die frühere visuelle Priorität Level vor Abzeichen vor Freischaltung entfällt; XP-Regeln, Levelkurve und das einmalige gemeinsame Signal bleiben erhalten. [Aktueller Darstellungsvertrag](Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026).
+
 ## Aktueller Betriebsvertrag – 13.10.2026
 
 Leveldialog und Zehner-Abzeichen seit [Version 75](Veroeffentlichung-2026-10-12-Version-75.json) öffentlich verfügbar.

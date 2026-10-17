@@ -167,18 +167,18 @@ for (const scenario of [
       return;
     }
     await expect(dialog).toBeVisible();
-    await expect(dialog.locator(".unlock-levels li")).toHaveCount(
+    await expect(dialog.locator('[data-reward-kind="unlock"]')).toHaveCount(
       quiet ? 2 : 1,
     );
     await expect(dialog).toContainText("Horror");
     if (scenario === "filmgruppe")
-      await expect(dialog).toContainText("2 · Bekannt");
+      await expect(dialog).toContainText("Bekanntheitsgruppe 2 freigeschaltet");
     await expect(dialog.locator("#unlock-description")).toContainText(
-      "geöffnet. Diese",
+      "Dein Rundenergebnis wartet auf Dich.",
     );
-    await expect(dialog.locator(".unlock-levels")).toContainText(
+    await expect(dialog.locator(".success-rewards")).toContainText(
       scenario === "filmgruppe"
-        ? "2 · Bekannt"
+        ? "Horror · Bekannt"
         : scenario === "schwer"
           ? "Schwer"
           : "Mittel",
@@ -221,13 +221,7 @@ for (const scenario of [
       await expect
         .poll(() => dialog.evaluate((el) => getComputedStyle(el).opacity))
         .toBe("1");
-      await expect
-        .poll(() =>
-          dialog
-            .locator(".unlock-shackle")
-            .evaluate((el) => getComputedStyle(el).transform),
-        )
-        .not.toBe("none");
+      await expect(dialog.locator('[data-motif="unlock"]')).toBeVisible();
       await page.screenshot({
         path: testInfo.outputPath("freischaltung-320.png"),
       });
