@@ -4,6 +4,10 @@ Auftrag vom 18.10.2026: die [16 Vorschläge](IT-Fachreview-2026-10-18.md) geordn
 
 Die 14 technischen Reviewpunkte 1–12, 15 und 16 sind lokal umgesetzt und geprüft. Für 13 und 14 ist die Abnahme vorbereitet; echte Beobachtungen zu Spielspaß, Verständnis, hörbarem Ton und spürbarer Haptik bleiben offen. Der allgemeine Skill ist erstellt und installiert.
 
+**Lokal integriert:** Arbeitsbranch `codex/it-fachreview` mit `5c75bd3` per Fast-Forward in Main übernommen; vorheriger Abgleich mit Main ohne neue Änderungen. Fünf fachliche Commits: `ecdb3a1`, `d1eecc6`, `63f99a8`, `090b2d7`, `5c75bd3`. Qualitäts-/Metadatenprüfung und Diff-Prüfung auf Main erfolgreich. Zwei vorhandene fremde Mifune-Prüfkonfigurationen per Hash unverändert; bestehender anderer Worktree erhalten. Kein Push, keine Veröffentlichung und keine produktive Datenbankaktivierung.
+
+Eigene native Laufzeit/Prüfdatenbank, SQL-Kopien, Vergleichsbuild, Worktree-Build und Browserausgaben nach Pfad-/Verknüpfungsprüfung entfernt; Abwesenheit jeweils bestätigt. Prüfserver beendet, sein Port und seine Prozessmarke frei. Eigene Abhängigkeitsverknüpfung entfernt, tatsächliche Main-Abhängigkeiten und benötigte lokale Poster-/Porträtbestände erhalten. Der saubere Arbeitsworktree ist über die App wiederherstellbar archiviert; Entfernung des Checkouts und übrige Worktreeliste geprüft. Dauerhaft bleiben die kleinen Messnachweise und ausführbaren Prüfskripte.
+
 ## Arbeitsblöcke
 
 | Block | Reviewpunkte | Ziel und Status |
@@ -62,4 +66,4 @@ Vier neue Browserfälle (Lernen/Zeit, Chromium/WebKit) bestätigen die erste Ant
 
 ## Ausgangsmessung
 
-Ein Produktionsbundle des unveränderten Anwendungsstands wurde als Vergleich für die Startoptimierung erzeugt: Haupt-JavaScript 1.091,56 kB unkomprimiert, 292,95 kB gzip laut Vite. Das ist eine Bundlegröße, keine gemessene Ladezeit oder gesamte Startübertragung. Der Vergleichsbuild wird nach Abschluss des Vergleichs entfernt.
+Ein Produktionsbundle des unveränderten Anwendungsstands wurde als Vergleich für die Startoptimierung erzeugt: Haupt-JavaScript 1.091,56 kB unkomprimiert, 292,95 kB gzip laut Vite. Das ist eine Bundlegröße, keine gemessene Ladezeit oder gesamte Startübertragung. Der Vergleichsbuild wurde nach dem Vergleich entfernt.

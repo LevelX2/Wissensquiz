@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 18.10.2026 – Lokale Main-Integration und Bereinigung
+
+Fünf fachliche Fachreview-Commits bis `5c75bd3` konfliktfrei per Fast-Forward in Main übernommen. Main-Qualitäts-/Metadatenprüfung und `git diff --check` erfolgreich; erfolgreiche unveränderte Nachweise wiederverwendet. Zwei fremde Mifune-Konfigurationen per SHA-256 unverändert, anderer Worktree erhalten. Eigene Prüfserver beendet und eigene SQL-/Laufzeit-/Build-/Browserausgaben nach Pfad-/Verknüpfungsprüfung entfernt; Abwesenheit bestätigt. Abhängigkeitsverknüpfung entfernt, Main-Abhängigkeiten und benötigte ignorierte Bildbestände erhalten. Arbeitsworktree wiederherstellbar archiviert und Checkout entfernt. Skill erneut validiert, drei Quell-/Installationsdateien bytegleich. Keine Veröffentlichung, kein Push, keine produktive Datenbankaktivierung. Echte Spieler- und Gerätebeobachtungen bleiben ausdrücklich offen. [Gesamtstand](IT-Fachreview-2026-10-18-Umsetzung.md).
+
 ## 18.10.2026 – Abschließende Fragewechsel-Nachprüfung
 
 Vor der Korrektur reproduziert: Bei gesammelten Lösungen blieb „geraten“ nach verlorener und wiederholter Weiter-Bestätigung an der nächsten Frage gesetzt. Eingabe jetzt an Lauf/Frageposition gebunden, gemeinsames Weiter-Signal folgt dem bestätigten Wechsel. Vier neue Browserfälle in Chromium/mobilem WebKit mit tatsächlichen gespeicherten Kennzeichnungen erfolgreich; zwei bestehende Audiofälle einschließlich genau eines Weiter-Signals erneut bestanden. Qualitätsprüfung/Build und aktualisierter Bundlevergleich erfolgreich. Kein veränderter SQL-Pfad, keine produktive Änderung. [Gesamtabnahme](IT-Fachreview-2026-10-18-Umsetzung.md#abschließende-nachprüfung-des-fragewechsels).
