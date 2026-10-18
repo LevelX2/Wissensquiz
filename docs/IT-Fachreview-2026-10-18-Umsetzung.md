@@ -9,8 +9,8 @@ Auftrag vom 18.10.2026: die [16 Vorschläge](IT-Fachreview-2026-10-18.md) geordn
 | 1 Bedienung und Hinweise | 1, 4, 10, 11 | Umgesetzt; TypeScript/Build und zwölf unterschiedliche Browserfälle erfolgreich |
 | 2 Bilder und Lesbarkeit | 2, 3, 12 | Umgesetzt; Build, 18 Browserfälle und visuelle Prüfung erfolgreich |
 | 3 Robuste Abläufe | 5, 8, 9, 16 | Umgesetzt; statischer Check, 17 gezielte Logiktests und 18 Browserfälle erfolgreich |
-| 4 Start und Wachstum | 6, 7, 15 | Begrenzte technische Belege, kleinere Startabhängigkeiten und aktueller synthetischer Last-/Wachstumsnachweis; offen |
-| 5 Spieler und Geräte | 13, 14 | Ausführbare Spieler-/Geräteabnahme; echte Beobachtung nach Verfügbarkeit, Ergebnisse nicht simulieren; offen |
+| 4 Start und Wachstum | 6, 7, 15 | Lokal umgesetzt; 106 gezielte Logiktests, 14 Browserfälle, nativer Last-/Wachstumsnachweis und Rechteprüfung erfolgreich |
+| 5 Spieler und Geräte | 13, 14 | Konkreter Abnahmebogen vorbereitet; echte Spieler- und Gerätebeobachtungen noch offen |
 
 Jeder abgeschlossene Block erhält gezielte Prüfungen und einen eigenen lokalen Commit. Browser verwenden synthetische Konten und kontrollierte Zeit. Aufeinanderfolgende Prüfläufe verwenden denselben auftragsbezogenen Ausgabebereich. Bestehende erfolgreiche Nachweise werden bei unverändertem Stand wiederverwendet.
 
@@ -39,6 +39,18 @@ Alle neun von der Oberfläche verwendeten Übersichtsaktionen besitzen einen Zod
 Die Konkurrenzhypothese wurde konkret bestätigt: Ein verzögerter Boot-Abruf ließ vorher eine zwischenzeitliche Speicherung zu. Aktualisierungen werden nun geteilt und sperren Schreibzugriffe für ihre Dauer; Seitenwechsel besitzen eine sofort wirksame Sperre bis zu den Spielknöpfen. Sieben Speicherfälle einschließlich neuer Konkurrenzprüfung bestanden. `npm run check` prüft ungenutzte Namen im Quellcode; belegte Reste entfernt. Keine Ausweitung des Checks auf historische Testvariablen.
 
 18 unterschiedliche Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich: ungültige Themenantwort mit Wiederholung, Profil-/Lernübersichtsfehler, verlorene Antwort-/Abbruchbestätigungen, verzögertes Pausieren, Serverrunde mit zehn Antworten/Fortsetzen/Neuladen/Reset sowie gemeinsame Feier und Profil. Zwei umfangreiche Firefox-Abläufe überschritten zunächst 60 Sekunden; bei größerem funktionalem Testbudget nachgeprüft und mit etwa 1,3 beziehungsweise 2,1 Minuten erfolgreich. Der neue Pausenfall zeigte zunächst die fehlende Weitergabe der Sperre an Spielknöpfe; korrigiert und in allen drei Browsern erfolgreich. Ein während der Vorbereitung unterbrochener Lauf verwendete noch die alte Testausnahme für Betreiber-Migrationen; seine Fehlversuche sind kein Prüfnachweis. TypeScript/Build, statischer Check und Diff-Prüfung erfolgreich.
+
+## Abnahme von Block 4 und vorbereiteter Block 5
+
+Spiel-/Probe-/Kontopanel und Profilcode werden bedarfsabhängig geladen. Kompakte, automatisch gegen die vollständigen Quellen geprüfte Laufzeitmetadaten; Kategorievorbereitung getrennt. Statischer JavaScript-Einstieg gzip 292.951 → 159.947 Bytes, rund 45,4 Prozent kleiner; notwendige dynamische Spielmodule zusätzlich ausgewiesen. Noch ein großes Highscore-Navigations-PNG durch die vorhandene kleine Variante ersetzt. Inhaltsvorbereitung ergibt weiterhin denselben Katalogfingerabdruck. README nennt die aktuelle Spieleroberfläche ohne veraltete Sicherungs-/Importangebote.
+
+Zeitspielbelege erhalten eine dokumentierte Aufbewahrung, neue Startkennungen verhindern eine erneute alte Startwirkung nach der Bereinigung. Private Größenaufnahme an den vorhandenen Betriebsjob angebunden, 180 Tage Messhistorie, keine neuen öffentlichen Rechte oder Nachrichten. Drei Migrationen lokal vorbereitet; **nicht produktiv aktiviert**. [Ausführlicher Vertrag, Wiederholung und Messwerte](Fachreview-Start-und-Wachstum-2026-10-18.md).
+
+106 gezielte Logiktests in zehn Dateien erfolgreich; 14 unterschiedliche Browserfälle in Chromium/mobilem WebKit einschließlich erfolgreicher Nachprüfung: Spielimportfehler, äußere/innere Fehlergrenze, sämtliche Nebenansichten, kleine Bilder/mobile Schrift, Profilabrufe, Probe-Einstieg ohne Spielkonto-/Profilcode und vollständige Proberunde mit einmaliger Kontoübernahme beziehungsweise E-Mail-Bestätigung in neuem Fenster. Der neue Einstiegstest erwartete zunächst einen Knopf aus dem nächsten Dialog; auf den tatsächlichen Willkommenseinstieg korrigiert, beide Nachprüfungen erfolgreich. Statischer Check mit Metadatenprüfung, aktualisierter Buildbefehl und erneute Serverinhaltsvorbereitung erfolgreich; kein geänderter Inhalt.
+
+Native PostgreSQL-17.11-Prüfung mit 85 synthetischen Konten und aktuellem Bestand: 340 Zehnerrunden/3.400 Antworten, zusätzlich 85.000 ältere Antworten; Laststufen 10/25/50, keine fehlgeschlagenen Lasttransaktionen oder Deadlocks, keine beobachteten Sperrwartefälle in 525 Stichproben. Physisches Tabellen-/Indexwachstum und Antwortgrößen erfasst. Native Größenaufnahme, RLS und verweigerte öffentliche Funktionsrechte geprüft; abschließende Sicherheits-Advisors ohne Warnung. Kein erfolgreicher `plpgsql_check`-Lint behauptet, Erweiterung lokal nicht verfügbar. Prüfserver beendet; Port und Prozessmarke frei. Keine Produktionskapazität zugesichert.
+
+Für Spielspaß, Fortschrittsverständnis und echte Ton-/Haptikwirkung liegt der [konkrete Abnahmebogen](Spieler-und-Geraeteabnahme-Fachreview.md) vor. Er enthält sechs geplante Spielersitzungen, Aufgaben, Beobachtungsfelder und Gerätefälle. Die Beobachtungsfelder sind ausdrücklich offen, keine erfundenen Testergebnisse. Fachliche Änderungen an Motivation oder Balance werden erst aus tatsächlichen Beobachtungen abgeleitet.
 
 ## Ausgangsmessung
 

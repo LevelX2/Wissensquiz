@@ -1,6 +1,6 @@
 import { importCsv } from "./importer";
 import type { State } from "./model";
-import { applyCategoryTags } from "./categories";
+import { applyCategoryTags } from "./categoryPreparation";
 import { addFilmFacts } from "./filmFacts";
 import { retainJourneyUnlocks } from "./learningPath";
 import Papa from "papaparse";

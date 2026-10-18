@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "tsc -b && vite build",
-    "check": "tsc -p tsconfig.quality.json",
+    "build": "node scripts/prepare-runtime-metadata.mjs --check && tsc -b && vite build",
+    "check": "node scripts/prepare-runtime-metadata.mjs --check && tsc -p tsconfig.quality.json",
     "prepare:ui-artwork": "node scripts/prepare-ui-artwork.mjs",
+    "prepare:runtime-metadata": "node scripts/prepare-runtime-metadata.mjs",
+    "check:runtime-metadata": "node scripts/prepare-runtime-metadata.mjs --check",
     "preview": "vite preview --host 0.0.0.0 --port 4173 --strictPort",
     "test": "vitest run",
     "test:browser": "playwright test",

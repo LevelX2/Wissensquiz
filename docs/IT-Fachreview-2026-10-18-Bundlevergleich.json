@@ -1,0 +1,59 @@
+{
+  "scope": "Vite build files; gzip per file; static import graph excludes lazy imports, CSS, images and API traffic. No measured browser startup time or total route transfer.",
+  "before": {
+    "entry": {
+      "file": "assets/index-BVnxbekP.js",
+      "rawBytes": 1091562,
+      "gzipBytes": 292951
+    },
+    "initialStatic": {
+      "rawBytes": 1091562,
+      "gzipBytes": 292951,
+      "files": [
+        {
+          "file": "assets/index-BVnxbekP.js",
+          "rawBytes": 1091562,
+          "gzipBytes": 292951
+        }
+      ]
+    },
+    "routeStaticDependencies": {},
+    "allJavaScript": {
+      "rawBytes": 1176296,
+      "gzipBytes": 323552
+    }
+  },
+  "after": {
+    "entry": {
+      "file": "assets/index-BP8fFhcx.js",
+      "rawBytes": 553907,
+      "gzipBytes": 159947
+    },
+    "initialStatic": {
+      "rawBytes": 553907,
+      "gzipBytes": 159947,
+      "files": [
+        {
+          "file": "assets/index-BP8fFhcx.js",
+          "rawBytes": 553907,
+          "gzipBytes": 159947
+        }
+      ]
+    },
+    "routeStaticDependencies": {
+      "AccountGame": {
+        "rawBytes": 856706,
+        "gzipBytes": 259011
+      },
+      "TrialEntry": {
+        "rawBytes": 797573,
+        "gzipBytes": 240989
+      }
+    },
+    "allJavaScript": {
+      "rawBytes": 960962,
+      "gzipBytes": 297732
+    }
+  },
+  "initialStaticGzipReductionPercent": 45.4
+}

@@ -10,12 +10,12 @@ import {
   ARTHOUSE,
   isCategory,
   matchesCategories,
-  applyCategoryTags,
   isClassic,
   matchesTopic,
   categoryTopic,
 } from "../src/categories";
 import { answer, startRound } from "../src/engine";
+import { applyCategoryTags } from "../src/categoryPreparation";
 import { validateBackup } from "../src/backupValidation";
 import artReferences from "../KI-Wissen-Wissensquiz/01 Rohquellen/Arthouse_Zuordnungen_Bestand.json";
 import references from "../KI-Wissen-Wissensquiz/01 Rohquellen/Classics_Zuordnungen_Bestand.json";

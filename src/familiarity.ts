@@ -1,5 +1,4 @@
-import catalog from "./filmFamiliarity.json" with { type: "json" };
-import people from "./personFamiliarity.json" with { type: "json" };
+import catalog from "./runtimeMetadata.json" with { type: "json" };
 import type { Question, Round } from "./model";
 
 export const familiarities = [1, 2, 3, 4] as const;
@@ -10,11 +9,14 @@ export const familiarityNames: Record<Familiarity, string> = {
   3: "Für Filmkenner",
   4: "Entdeckungen",
 };
-const byFilm = new Map(
-  catalog.films.map((f) => [f.film, f.level as Familiarity]),
+const byFilm = new Map<string, Familiarity>(
+  catalog.films.map(([film, level]) => [film as string, level as Familiarity]),
 );
-const byPerson = new Map(
-  people.persons.map((p) => [p.person_id, p.level as Familiarity]),
+const byPerson = new Map<string, Familiarity>(
+  catalog.persons.map(([person, level]) => [
+    person as string,
+    level as Familiarity,
+  ]),
 );
 export const filmIdentity = (q: Question) =>
   `${q.metadata.film_title_original}|${q.metadata.film_year}`;

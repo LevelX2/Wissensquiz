@@ -19,7 +19,11 @@ export async function syncFixture(stopBefore?: string) {
   for (const file of readdirSync("supabase/migrations")
     .filter((f) => f.endsWith(".sql"))
     // Provider-only scheduler/HTTP extensions are tested in service-check.test.ts.
-    .filter((f) => !f.endsWith("_daily_service_check.sql"))
+    .filter(
+      (f) =>
+        !f.endsWith("_daily_service_check.sql") &&
+        !f.endsWith("_daily_capacity_capture.sql"),
+    )
     .sort()
     .filter((file) => !stopBefore || file < stopBefore))
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));

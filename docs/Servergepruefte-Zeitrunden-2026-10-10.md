@@ -4,6 +4,8 @@ Stand: 10.10.2026. Seit Sites-Version 64 produktiv: drei Backendmigrationen, vol
 
 ## Verbindlicher Ablauf
 
+**18.10.2026 lokal vorbereitet, noch nicht produktiv:** Technische Wiederholungsbelege aktiver Läufe bleiben erhalten; Belege geschlossener Läufe werden frühestens sieben Tage nach Rundenende bereinigt. Neue Läufe behalten ihre Start-Anfragekennung, damit ein abgelaufener Start nach Bereinigung nicht erneut ausgeführt wird. Geschlossene Ergebnisse und Lernfakten bleiben erhalten. Abgelaufene Anfragen verlangen erneutes Laden des Online-Spielstands. [Aufbewahrung, Prüfungen und Aktivierungsgrenzen](Fachreview-Start-und-Wachstum-2026-10-18.md#aufbewahrung-technischer-zeitspielbelege).
+
 **Ergänzung seit Version 64 produktiv:** Duellfragen werden mit der ersten Serverstartzeit freigegeben, allgemeine Spielerwerte ausschließlich aus Serverabschlüssen gebildet und Duellranglisten auf eine Begegnung je Paar/UTC-Tag begrenzt. [Aktueller Ergänzungsvertrag](#umsetzung-der-ersten-drei-zusatzmaßnahmen).
 
 Alle neuen Solo-Zeitspiele **10 Fragen, Fehlerfrei und Zeitkonto** werden vom Server gesteuert. Lernrunden, Proberunde und der eigene Duellvertrag bleiben getrennt. Neue Regelkennung: `solo-server-v1.<rekord|fehlerfrei|zeitkonto>.<standard|genre>`. Bestehende Punkte-, Zeitkonto- und Auswahlregeln bleiben bestehen: 30 Sekunden pro Frage, Zeitkonto 120 / +15 / −45, Universal oder genau ein Filmgenre, Zehnermischung 3 leicht / 4 mittel / 3 schwer. Varianten bekommen keine zusätzlichen Lose; ein Wissensziel erscheint einmal pro Pooldurchgang. Reihenfolge und Antwortoptionen werden auf dem Server gemischt.

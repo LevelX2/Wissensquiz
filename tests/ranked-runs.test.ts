@@ -587,7 +587,7 @@ it("lädt eigene Rekordseiten und den Zielplatz ohne private Antwortarchive und 
     [id],
   );
   await fixture.db.query(
-    `insert into quiz_ranked_internal.runs select (jsonb_populate_record(null::quiz_ranked_internal.runs,to_jsonb(r)||jsonb_build_object('id',gen_random_uuid(),'points',i,'finished_at',now()))).* from quiz_ranked_internal.runs r cross join generate_series(1,60) i where r.id=$1`,
+    `insert into quiz_ranked_internal.runs select (jsonb_populate_record(null::quiz_ranked_internal.runs,to_jsonb(r)||jsonb_build_object('id',gen_random_uuid(),'start_request_id',gen_random_uuid(),'points',i,'finished_at',now()))).* from quiz_ranked_internal.runs r cross join generate_series(1,60) i where r.id=$1`,
     [id],
   );
   const categories = await api.call<any[]>("quiz_own_record_categories", {

@@ -1,4 +1,6 @@
 export const rankedMessages: Record<string, string> = {
+  ranked_request_expired:
+    "Die Wiederholungsfrist für diese beendete Zeitrunde ist abgelaufen. Lade den Online-Spielstand erneut. Bestätigte Ergebnisse bleiben erhalten.",
   ranked_active:
     "Für Dein Konto läuft bereits eine Zeitrunde. Beende sie zuerst auf dem anderen Gerät oder hier ausdrücklich.",
   ranked_other_device: "Diese Zeitrunde gehört zu einer anderen Spielsitzung.",

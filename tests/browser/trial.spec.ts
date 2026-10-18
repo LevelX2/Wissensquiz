@@ -15,6 +15,26 @@ test.use({ acknowledgeIncidentalSuccess: true });
 
 test.use({ autoLogin: false });
 const testTime = new Date("2026-10-10T10:00:00Z");
+
+test("Probe-Einstieg lädt Spielkonto und Profilcode erst bei Bedarf", async ({
+  page,
+}) => {
+  const chunks: string[] = [];
+  page.on("request", (request) => {
+    const path = new URL(request.url()).pathname;
+    if (path.endsWith(".js")) chunks.push(path);
+  });
+  await page.goto("/");
+  await expect(
+    page.getByRole("button", { name: "Eine Runde ausprobieren", exact: true }),
+  ).toBeEnabled();
+  expect(chunks.some((path) => /TrialEntry-/.test(path))).toBe(true);
+  expect(
+    chunks.some((path) =>
+      /AccountGame-|ProfileStats-|AccountPanel-/.test(path),
+    ),
+  ).toBe(false);
+});
 test.beforeEach(async ({ page }) => {
   await fixCalendarTime(page, testTime);
 });

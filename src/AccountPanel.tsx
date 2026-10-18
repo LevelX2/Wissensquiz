@@ -1,15 +1,16 @@
-import { useState } from "react";
+import { lazy, Suspense, useState } from "react";
 import type { SupabaseClient, User } from "@supabase/supabase-js";
 import { PasswordField } from "./PasswordField";
-import { ProfileStats } from "./ProfileStats";
-import { syncText } from "./AccountGame";
+import { syncText } from "./syncText";
 import type { SyncStatus } from "./syncTypes";
 import { authError } from "./accounts";
 import type { State } from "./model";
 import { OnlineConfirmation } from "./OnlineConfirmation";
 import { AccountBenefits } from "./AccountBenefits";
-import { authorizeTrial } from "./trial";
 import { ProfileSection } from "./ProfileSection";
+const ProfileStats = lazy(() =>
+  import("./ProfileStats").then((m) => ({ default: m.ProfileStats })),
+);
 
 export function AccountPanel({
   client,
@@ -116,8 +117,10 @@ export function AccountPanel({
           onSubmit={(e) => {
             e.preventDefault();
             void run(async () => {
-              if (trialAvailable && (mode === "login" || mode === "register"))
+              if (trialAvailable && (mode === "login" || mode === "register")) {
+                const { authorizeTrial } = await import("./trial");
                 await authorizeTrial(email);
+              }
               if (mode === "login") {
                 const { error } = await client.auth.signInWithPassword({
                   email: email.trim(),
@@ -265,7 +268,9 @@ export function AccountPanel({
         <strong>{String(user.user_metadata.display_name ?? "Spieler")}</strong>{" "}
         · {user.email}
       </p>
-      <ProfileStats state={state} />
+      <Suspense fallback={<p role="status">Dein Profil wird geladen …</p>}>
+        <ProfileStats state={state} />
+      </Suspense>
       <ProfileSection title="Konto & Speicherung" subject="account">
         <p className="tiny muted profile-sync-status" role="status">
           {syncMessage || (syncStatus && syncText[syncStatus])}

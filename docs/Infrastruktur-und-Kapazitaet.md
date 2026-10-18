@@ -1,5 +1,9 @@
 # Infrastruktur und Kapazität
 
+## Aktueller Fachreview-Nachweis – 18.10.2026 lokal
+
+Der aktuelle Serverweg verwendet einzelne Fragen, vorbereitete Auswahl-/Lernübersichten und begrenzte private Abrufe; die folgenden datierten Abschnitte beschreiben frühere Stände. Lokal ergänzt: kleinere Startabhängigkeiten, kontrollierte Aufbewahrung technischer Zeitspielbelege und private tägliche Größenaufnahme. Aktueller nativer Testbestand 15.295 Fragen/14.628 Ziele, 340 Zehnerrunden mit 3.400 Antworten sowie 85.000 zusätzlichen historischen Antworten. Laststufen 10/25/50 erfolgreich, keine Deadlocks; Betriebsmessung und Rechte geprüft. Keine Produktionslastprüfung, Tarifänderung, Veröffentlichung oder Aktivierung der drei neuen Migrationen. [Messwerte, Grenzen und Wiederholungsablauf](Fachreview-Start-und-Wachstum-2026-10-18.md).
+
 ## Aktueller Online-Spielweg – Nachprüfung 10.10.2026
 
 Seit Version 59 liegt der dauerhafte Spielstand ausschließlich online; Gastspiel, lokale Outbox und Offline-Paket gehören nicht mehr zum aktiven Ablauf. Die [aktuelle Nachprüfung der Datenübertragung](Online-Datenuebertragung-2026-10-10.md) misst mit 12.773 Fragen und bis zu 500 archivierten Runden: normale Antworten rund 4–6 KB, Einstellungen 522 Bytes; Fehlerfrei und Zeitkonto dagegen rund 600 KB pro Antwort wegen erneut gesendeter Fragenlisten. Kleine neue Inhaltsobjekte werden lokal bereits in derselben Speicheranfrage übertragen; noch nicht veröffentlicht. Ein frischer Tab lädt Katalog und privaten Stand erneut. Frühere Aussagen über wenige KB für jede Spielart, reine Revisionsabrufe nach Neuladen oder weitgehend lokalen Spielbetrieb gelten deshalb nicht pauschal für den aktuellen Ablauf. Die folgenden Abschnitte bleiben datierte historische Nachweise.

@@ -45,6 +45,7 @@ import type { WriteOptions } from "./syncTypes";
 import { PageBoundary } from "./PageBoundary";
 import { ReleaseInfo } from "./ReleaseInfo";
 import { IssueReportForm } from "./IssueReportForm";
+import { uiArtwork } from "./uiArtwork";
 import { LearningGame } from "./LearningGame";
 import {
   LearningSession,
@@ -76,6 +77,7 @@ const TopicsPage = lazy(() =>
 const CollectionPage = lazy(() =>
   import("./CollectionPage").then((m) => ({ default: m.CollectionPage })),
 );
+const navigationAwards = uiArtwork("genre-awards", "32px");
 
 export function App({
   store,
@@ -609,7 +611,9 @@ export function App({
               <span aria-hidden="true" className="nav-symbol">
                 <img
                   className="nav-artwork"
-                  src={icon}
+                  {...(icon === "/genres/awards.png"
+                    ? navigationAwards
+                    : { src: icon })}
                   alt=""
                   width={32}
                   height={32}

@@ -1,5 +1,24 @@
 import { test, expect, openRoundSetup, readStoredState } from "./fixtures";
 
+test("fehlgeschlagener Spielimport wird von der äußeren Fehlergrenze aufgefangen", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-18T10:00:00Z") });
+  let blocked = true;
+  await page.route(/\/assets\/AccountGame-[^/]+\.js$/, async (route) => {
+    if (blocked) await route.abort();
+    else await route.continue();
+  });
+  await page.goto("/");
+  await expect(page.getByRole("alert")).toContainText(
+    "Das Quiz konnte nicht angezeigt werden.",
+  );
+  blocked = false;
+  await page.getByRole("button", { name: "App neu laden" }).click();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  expect((await readStoredState(page)).events).toEqual([]);
+});
+
 test("äußere Fehlergrenze schützt den Apprahmen und lädt bestätigten Stand erneut", async ({
   page,
 }) => {

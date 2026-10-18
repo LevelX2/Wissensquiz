@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 18.10.2026 – IT-Fachreview Start und Wachstum lokal
+
+106 gezielte Logiktests, 14 unterschiedliche Browserfälle einschließlich erfolgreicher Nachprüfungen, Qualitäts-/Metadatenprüfung, Build und unveränderte Serverinhaltsvorbereitung bestanden. Initiale statische JavaScript-Abhängigkeiten gzip 292.951 → 159.947 Bytes; dynamische Routen separat. Native PostgreSQL-17.11-Messung: 340 Runden/3.400 Antworten, zusätzlich 85.000 historische Antworten, Laststufen 10/25/50 ohne fehlerhafte Lasttransaktionen oder Deadlocks; Größen und Rechte geprüft, abschließende Sicherheits-Advisors ohne Warnung. Prüfserver beendet. Drei Produktmigrationen bleiben lokal, keine Veröffentlichung. [Vertrag und Messgrenzen](Fachreview-Start-und-Wachstum-2026-10-18.md), [vorbereitete echte Abnahmen](Spieler-und-Geraeteabnahme-Fachreview.md).
+
 ## 18.10.2026 – IT-Fachreview Block 3 lokal
 
 Laufzeitprüfung aller verwendeten Übersichten, gemeinsamer Aktions-/Ergebnisrahmen, geteilte Aktualisierung mit Schreibsperre und sofortige Navigationssperre sowie Prüfung ungenutzter Quellnamen umgesetzt. 17 gezielte Speicher-/Übersichtslogiktests und 18 unterschiedliche Browserfälle erfolgreich; Firefox-Nachprüfungen mit begründetem größerem Gesamtbudget bestanden. Die Sperrüberlappung war vor der Korrektur gezielt reproduziert. TypeScript/Build, `npm run check` und Diff-Prüfung erfolgreich. Isolierte synthetische Konten, keine Veröffentlichung. [Details und Grenzen](IT-Fachreview-2026-10-18-Umsetzung.md#abnahme-von-block-3).

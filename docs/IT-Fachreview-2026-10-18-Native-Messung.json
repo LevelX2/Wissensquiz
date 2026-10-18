@@ -1,0 +1,2085 @@
+{
+  "environment": "isolated native PostgreSQL on loopback; synthetic accounts; SQL durations exclude HTTP, TLS and browser; no production capacity promise",
+  "version": "17.11",
+  "content": {
+    "hash": "dcaac8b93da86e708fea266927eae0c1336e07a4d3b5fb00dc1d466d2abc6c19",
+    "questions": 15295,
+    "parts": 145
+  },
+  "roundsPerClient": 2,
+  "addedHistoricalAnswersPerPlayer": 1000,
+  "protocol": "Each ten-question protocol runs inside one SQL transaction without human pauses or per-RPC network roundtrips; percentiles are descriptive laboratory measurements.",
+  "scenarios": [
+    {
+      "name": "short-10",
+      "clients": 10,
+      "transactions": 20,
+      "roundSql": {
+        "samples": 20,
+        "p50_ms": 270.665,
+        "p95_ms": 395.134,
+        "p99_ms": 395.916
+      },
+      "locks": {
+        "samples": 50,
+        "peakClients": 10,
+        "peakWaiting": 0
+      },
+      "metrics": [
+        {
+          "p50_ms": 1.796,
+          "p95_ms": 2.655,
+          "p99_ms": 2.804,
+          "samples": 20,
+          "operation": "boot",
+          "max_response_bytes": 15892
+        },
+        {
+          "p50_ms": 1.575,
+          "p95_ms": 13.74,
+          "p99_ms": 15.782,
+          "samples": 200,
+          "operation": "game_answer",
+          "max_response_bytes": 8732
+        },
+        {
+          "p50_ms": 57.138,
+          "p95_ms": 114.16,
+          "p99_ms": 119.381,
+          "samples": 20,
+          "operation": "game_finish",
+          "max_response_bytes": 550
+        },
+        {
+          "p50_ms": 0.673,
+          "p95_ms": 1.165,
+          "p99_ms": 1.435,
+          "samples": 180,
+          "operation": "game_question",
+          "max_response_bytes": 1708
+        },
+        {
+          "p50_ms": 98.081,
+          "p95_ms": 114.327,
+          "p99_ms": 115.719,
+          "samples": 20,
+          "operation": "game_start",
+          "max_response_bytes": 1633
+        },
+        {
+          "p50_ms": 72.364,
+          "p95_ms": 86.477,
+          "p99_ms": 86.513,
+          "samples": 20,
+          "operation": "view_selection",
+          "max_response_bytes": 9066
+        },
+        {
+          "p50_ms": 0.77,
+          "p95_ms": 1.206,
+          "p99_ms": 1.271,
+          "samples": 20,
+          "operation": "view_summary",
+          "max_response_bytes": 183
+        },
+        {
+          "p50_ms": 3.598,
+          "p95_ms": 6.651,
+          "p99_ms": 6.9,
+          "samples": 20,
+          "operation": "view_topics",
+          "max_response_bytes": 7967
+        }
+      ]
+    },
+    {
+      "name": "short-25",
+      "clients": 25,
+      "transactions": 50,
+      "roundSql": {
+        "samples": 50,
+        "p50_ms": 466.126,
+        "p95_ms": 993.825,
+        "p99_ms": 1019.488
+      },
+      "locks": {
+        "samples": 88,
+        "peakClients": 25,
+        "peakWaiting": 0
+      },
+      "metrics": [
+        {
+          "p50_ms": 2.461,
+          "p95_ms": 3.255,
+          "p99_ms": 3.351,
+          "samples": 50,
+          "operation": "boot",
+          "max_response_bytes": 15833
+        },
+        {
+          "p50_ms": 1.653,
+          "p95_ms": 15.762,
+          "p99_ms": 37.235,
+          "samples": 500,
+          "operation": "game_answer",
+          "max_response_bytes": 8448
+        },
+        {
+          "p50_ms": 111.319,
+          "p95_ms": 380.938,
+          "p99_ms": 404.913,
+          "samples": 50,
+          "operation": "game_finish",
+          "max_response_bytes": 550
+        },
+        {
+          "p50_ms": 0.795,
+          "p95_ms": 1.861,
+          "p99_ms": 3.289,
+          "samples": 450,
+          "operation": "game_question",
+          "max_response_bytes": 1725
+        },
+        {
+          "p50_ms": 167.059,
+          "p95_ms": 285.988,
+          "p99_ms": 334.299,
+          "samples": 50,
+          "operation": "game_start",
+          "max_response_bytes": 1708
+        },
+        {
+          "p50_ms": 127.155,
+          "p95_ms": 307.593,
+          "p99_ms": 347.109,
+          "samples": 50,
+          "operation": "view_selection",
+          "max_response_bytes": 9066
+        },
+        {
+          "p50_ms": 0.987,
+          "p95_ms": 1.282,
+          "p99_ms": 1.436,
+          "samples": 50,
+          "operation": "view_summary",
+          "max_response_bytes": 183
+        },
+        {
+          "p50_ms": 5.742,
+          "p95_ms": 13.893,
+          "p99_ms": 44.587,
+          "samples": 50,
+          "operation": "view_topics",
+          "max_response_bytes": 7967
+        }
+      ]
+    },
+    {
+      "name": "short-50",
+      "clients": 50,
+      "transactions": 100,
+      "roundSql": {
+        "samples": 100,
+        "p50_ms": 591.145,
+        "p95_ms": 1867.033,
+        "p99_ms": 1925.073
+      },
+      "locks": {
+        "samples": 127,
+        "peakClients": 50,
+        "peakWaiting": 0
+      },
+      "metrics": [
+        {
+          "p50_ms": 2.749,
+          "p95_ms": 5.55,
+          "p99_ms": 16.106,
+          "samples": 100,
+          "operation": "boot",
+          "max_response_bytes": 15773
+        },
+        {
+          "p50_ms": 2.304,
+          "p95_ms": 24.176,
+          "p99_ms": 50.798,
+          "samples": 1000,
+          "operation": "game_answer",
+          "max_response_bytes": 8732
+        },
+        {
+          "p50_ms": 131.45,
+          "p95_ms": 697.619,
+          "p99_ms": 857.079,
+          "samples": 100,
+          "operation": "game_finish",
+          "max_response_bytes": 550
+        },
+        {
+          "p50_ms": 1.211,
+          "p95_ms": 2.885,
+          "p99_ms": 11.941,
+          "samples": 900,
+          "operation": "game_question",
+          "max_response_bytes": 1725
+        },
+        {
+          "p50_ms": 203.857,
+          "p95_ms": 712.504,
+          "p99_ms": 851.85,
+          "samples": 100,
+          "operation": "game_start",
+          "max_response_bytes": 1725
+        },
+        {
+          "p50_ms": 166.208,
+          "p95_ms": 459.386,
+          "p99_ms": 553.41,
+          "samples": 100,
+          "operation": "view_selection",
+          "max_response_bytes": 9066
+        },
+        {
+          "p50_ms": 1.066,
+          "p95_ms": 1.493,
+          "p99_ms": 2.061,
+          "samples": 100,
+          "operation": "view_summary",
+          "max_response_bytes": 183
+        },
+        {
+          "p50_ms": 5.618,
+          "p95_ms": 30.597,
+          "p99_ms": 49.804,
+          "samples": 100,
+          "operation": "view_topics",
+          "max_response_bytes": 7967
+        }
+      ]
+    },
+    {
+      "name": "plus1000-10",
+      "clients": 10,
+      "transactions": 20,
+      "roundSql": {
+        "samples": 20,
+        "p50_ms": 348.572,
+        "p95_ms": 443.175,
+        "p99_ms": 443.68
+      },
+      "locks": {
+        "samples": 59,
+        "peakClients": 10,
+        "peakWaiting": 0
+      },
+      "metrics": [
+        {
+          "p50_ms": 2.023,
+          "p95_ms": 2.716,
+          "p99_ms": 2.774,
+          "samples": 20,
+          "operation": "boot",
+          "max_response_bytes": 15694
+        },
+        {
+          "p50_ms": 3.384,
+          "p95_ms": 8.806,
+          "p99_ms": 25.483,
+          "samples": 200,
+          "operation": "game_answer",
+          "max_response_bytes": 8732
+        },
+        {
+          "p50_ms": 84.688,
+          "p95_ms": 137.922,
+          "p99_ms": 141.366,
+          "samples": 20,
+          "operation": "game_finish",
+          "max_response_bytes": 550
+        },
+        {
+          "p50_ms": 0.602,
+          "p95_ms": 1.139,
+          "p99_ms": 1.688,
+          "samples": 180,
+          "operation": "game_question",
+          "max_response_bytes": 1725
+        },
+        {
+          "p50_ms": 101.014,
+          "p95_ms": 117.44,
+          "p99_ms": 118.037,
+          "samples": 20,
+          "operation": "game_start",
+          "max_response_bytes": 1708
+        },
+        {
+          "p50_ms": 85.988,
+          "p95_ms": 102.294,
+          "p99_ms": 103.121,
+          "samples": 20,
+          "operation": "view_selection",
+          "max_response_bytes": 9066
+        },
+        {
+          "p50_ms": 0.814,
+          "p95_ms": 1.015,
+          "p99_ms": 1.125,
+          "samples": 20,
+          "operation": "view_summary",
+          "max_response_bytes": 183
+        },
+        {
+          "p50_ms": 4.023,
+          "p95_ms": 6.423,
+          "p99_ms": 6.581,
+          "samples": 20,
+          "operation": "view_topics",
+          "max_response_bytes": 7967
+        }
+      ]
+    },
+    {
+      "name": "plus1000-25",
+      "clients": 25,
+      "transactions": 50,
+      "roundSql": {
+        "samples": 50,
+        "p50_ms": 519.385,
+        "p95_ms": 1060.987,
+        "p99_ms": 1071.714
+      },
+      "locks": {
+        "samples": 68,
+        "peakClients": 25,
+        "peakWaiting": 0
+      },
+      "metrics": [
+        {
+          "p50_ms": 2.973,
+          "p95_ms": 4.349,
+          "p99_ms": 7.481,
+          "samples": 50,
+          "operation": "boot",
+          "max_response_bytes": 15641
+        },
+        {
+          "p50_ms": 3.778,
+          "p95_ms": 20.065,
+          "p99_ms": 48.089,
+          "samples": 500,
+          "operation": "game_answer",
+          "max_response_bytes": 8448
+        },
+        {
+          "p50_ms": 120.654,
+          "p95_ms": 405.071,
+          "p99_ms": 510.012,
+          "samples": 50,
+          "operation": "game_finish",
+          "max_response_bytes": 550
+        },
+        {
+          "p50_ms": 0.75,
+          "p95_ms": 1.984,
+          "p99_ms": 5.997,
+          "samples": 450,
+          "operation": "game_question",
+          "max_response_bytes": 1725
+        },
+        {
+          "p50_ms": 157.018,
+          "p95_ms": 220.846,
+          "p99_ms": 257.868,
+          "samples": 50,
+          "operation": "game_start",
+          "max_response_bytes": 1708
+        },
+        {
+          "p50_ms": 127.444,
+          "p95_ms": 204.23,
+          "p99_ms": 237.54,
+          "samples": 50,
+          "operation": "view_selection",
+          "max_response_bytes": 9066
+        },
+        {
+          "p50_ms": 1.132,
+          "p95_ms": 1.513,
+          "p99_ms": 1.692,
+          "samples": 50,
+          "operation": "view_summary",
+          "max_response_bytes": 183
+        },
+        {
+          "p50_ms": 5.706,
+          "p95_ms": 19.563,
+          "p99_ms": 32.196,
+          "samples": 50,
+          "operation": "view_topics",
+          "max_response_bytes": 7967
+        }
+      ]
+    },
+    {
+      "name": "plus1000-50",
+      "clients": 50,
+      "transactions": 100,
+      "roundSql": {
+        "samples": 100,
+        "p50_ms": 770.287,
+        "p95_ms": 2199.071,
+        "p99_ms": 2280.653
+      },
+      "locks": {
+        "samples": 133,
+        "peakClients": 50,
+        "peakWaiting": 0
+      },
+      "metrics": [
+        {
+          "p50_ms": 3.037,
+          "p95_ms": 4.665,
+          "p99_ms": 14.117,
+          "samples": 100,
+          "operation": "boot",
+          "max_response_bytes": 15791
+        },
+        {
+          "p50_ms": 4.411,
+          "p95_ms": 33.878,
+          "p99_ms": 131.221,
+          "samples": 1000,
+          "operation": "game_answer",
+          "max_response_bytes": 8733
+        },
+        {
+          "p50_ms": 170.737,
+          "p95_ms": 846.534,
+          "p99_ms": 1062.51,
+          "samples": 100,
+          "operation": "game_finish",
+          "max_response_bytes": 550
+        },
+        {
+          "p50_ms": 0.939,
+          "p95_ms": 2.404,
+          "p99_ms": 14.699,
+          "samples": 900,
+          "operation": "game_question",
+          "max_response_bytes": 1713
+        },
+        {
+          "p50_ms": 191.693,
+          "p95_ms": 578.306,
+          "p99_ms": 743.054,
+          "samples": 100,
+          "operation": "game_start",
+          "max_response_bytes": 1675
+        },
+        {
+          "p50_ms": 186.205,
+          "p95_ms": 553.89,
+          "p99_ms": 747.225,
+          "samples": 100,
+          "operation": "view_selection",
+          "max_response_bytes": 9066
+        },
+        {
+          "p50_ms": 1.169,
+          "p95_ms": 2.314,
+          "p99_ms": 3.74,
+          "samples": 100,
+          "operation": "view_summary",
+          "max_response_bytes": 183
+        },
+        {
+          "p50_ms": 6.071,
+          "p95_ms": 50.315,
+          "p99_ms": 86.128,
+          "samples": 100,
+          "operation": "view_topics",
+          "max_response_bytes": 7967
+        }
+      ]
+    }
+  ],
+  "growth": [
+    {
+      "stage": "initial",
+      "events": 0,
+      "tables": [
+        {
+          "table": "quiz_duels",
+          "schema": "public",
+          "indexBytes": 81920,
+          "tableBytes": 8192,
+          "totalBytes": 90112
+        },
+        {
+          "table": "quiz_sharing",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "quiz_duel_catalog",
+          "schema": "public",
+          "indexBytes": 761856,
+          "tableBytes": 20209664,
+          "totalBytes": 20971520
+        },
+        {
+          "table": "quiz_shared_scores",
+          "schema": "public",
+          "indexBytes": 32768,
+          "tableBytes": 8192,
+          "totalBytes": 40960
+        },
+        {
+          "table": "quiz_duel_answers",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_guest_activity_config",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_guest_activity_events",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_sync_entries",
+          "schema": "public",
+          "indexBytes": 327680,
+          "tableBytes": 294912,
+          "totalBytes": 622592
+        },
+        {
+          "table": "quiz_account_heads",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_private_catalog_objects",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "quiz_sync_generations",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "quiz_sync_object_parts",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_sync_receipts",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_app_releases",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_round_contributions",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "quiz_player_totals",
+          "schema": "public",
+          "indexBytes": 32768,
+          "tableBytes": 49152,
+          "totalBytes": 81920
+        },
+        {
+          "table": "config",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 73728,
+          "tableBytes": 8192,
+          "totalBytes": 81920
+        },
+        {
+          "table": "catalog",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 3260416,
+          "tableBytes": 27033600,
+          "totalBytes": 30294016
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "limits",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "familiarity",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 122880,
+          "totalBytes": 212992
+        },
+        {
+          "table": "catalog_meta",
+          "schema": "quiz_game_internal",
+          "indexBytes": 5251072,
+          "tableBytes": 2416640,
+          "totalBytes": 7667712
+        },
+        {
+          "table": "content_info",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "journey_cache",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 155648,
+          "totalBytes": 172032
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_game_internal",
+          "indexBytes": 32768,
+          "tableBytes": 65536,
+          "totalBytes": 98304
+        },
+        {
+          "table": "goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "event_zones",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "presentations",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1073152,
+          "tableBytes": 32980992,
+          "totalBytes": 34054144
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_game_internal",
+          "indexBytes": 49152,
+          "tableBytes": 106496,
+          "totalBytes": 155648
+        },
+        {
+          "table": "content_staging",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1843200,
+          "tableBytes": 868352,
+          "totalBytes": 2711552
+        },
+        {
+          "table": "topic_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 212992,
+          "tableBytes": 1458176,
+          "totalBytes": 1671168
+        },
+        {
+          "table": "area_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 172032,
+          "totalBytes": 188416
+        },
+        {
+          "table": "secure_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "area_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 139264,
+          "totalBytes": 155648
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 32768,
+          "tableBytes": 131072,
+          "totalBytes": 163840
+        },
+        {
+          "table": "round_goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "round_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "profile_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "profile_questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 32768,
+          "tableBytes": 16384,
+          "totalBytes": 49152
+        },
+        {
+          "table": "film_group_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 81920,
+          "totalBytes": 98304
+        },
+        {
+          "table": "learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "round_learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "perfect_rounds",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "round_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "achievement_catalog",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "achievement_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 892928,
+          "tableBytes": 876544,
+          "totalBytes": 1769472
+        },
+        {
+          "table": "achievement_topics",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 196608,
+          "totalBytes": 286720
+        },
+        {
+          "table": "achievement_requirements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 671744,
+          "tableBytes": 376832,
+          "totalBytes": 1048576
+        },
+        {
+          "table": "achievement_goal_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "achievement_topic_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "achievement_current",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "achievement_dirty_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "goal_reward_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        }
+      ],
+      "entries": 850,
+      "databaseBytes": 114259635
+    },
+    {
+      "stage": "shortAfterRuns",
+      "events": 1700,
+      "tables": [
+        {
+          "table": "quiz_duels",
+          "schema": "public",
+          "indexBytes": 81920,
+          "tableBytes": 8192,
+          "totalBytes": 90112
+        },
+        {
+          "table": "quiz_sharing",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "quiz_duel_catalog",
+          "schema": "public",
+          "indexBytes": 761856,
+          "tableBytes": 20209664,
+          "totalBytes": 20971520
+        },
+        {
+          "table": "quiz_shared_scores",
+          "schema": "public",
+          "indexBytes": 32768,
+          "tableBytes": 8192,
+          "totalBytes": 40960
+        },
+        {
+          "table": "quiz_duel_answers",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_guest_activity_config",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_guest_activity_events",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_sync_entries",
+          "schema": "public",
+          "indexBytes": 2580480,
+          "tableBytes": 2965504,
+          "totalBytes": 5545984
+        },
+        {
+          "table": "quiz_account_heads",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 262144,
+          "totalBytes": 278528
+        },
+        {
+          "table": "quiz_private_catalog_objects",
+          "schema": "public",
+          "indexBytes": 40960,
+          "tableBytes": 49152,
+          "totalBytes": 90112
+        },
+        {
+          "table": "quiz_sync_generations",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "quiz_sync_object_parts",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_sync_receipts",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_app_releases",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_round_contributions",
+          "schema": "public",
+          "indexBytes": 417792,
+          "tableBytes": 573440,
+          "totalBytes": 991232
+        },
+        {
+          "table": "quiz_player_totals",
+          "schema": "public",
+          "indexBytes": 311296,
+          "tableBytes": 303104,
+          "totalBytes": 614400
+        },
+        {
+          "table": "config",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 73728,
+          "tableBytes": 8192,
+          "totalBytes": 81920
+        },
+        {
+          "table": "catalog",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 3260416,
+          "tableBytes": 27033600,
+          "totalBytes": 30294016
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "limits",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "familiarity",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 122880,
+          "totalBytes": 212992
+        },
+        {
+          "table": "catalog_meta",
+          "schema": "quiz_game_internal",
+          "indexBytes": 5251072,
+          "tableBytes": 2416640,
+          "totalBytes": 7667712
+        },
+        {
+          "table": "content_info",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "journey_cache",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 409600,
+          "totalBytes": 425984
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_game_internal",
+          "indexBytes": 466944,
+          "tableBytes": 5595136,
+          "totalBytes": 6062080
+        },
+        {
+          "table": "goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 188416,
+          "tableBytes": 319488,
+          "totalBytes": 507904
+        },
+        {
+          "table": "event_zones",
+          "schema": "quiz_game_internal",
+          "indexBytes": 262144,
+          "tableBytes": 638976,
+          "totalBytes": 901120
+        },
+        {
+          "table": "presentations",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1073152,
+          "tableBytes": 32980992,
+          "totalBytes": 34054144
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_game_internal",
+          "indexBytes": 49152,
+          "tableBytes": 3710976,
+          "totalBytes": 3760128
+        },
+        {
+          "table": "content_staging",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1843200,
+          "tableBytes": 868352,
+          "totalBytes": 2711552
+        },
+        {
+          "table": "topic_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 212992,
+          "tableBytes": 1458176,
+          "totalBytes": 1671168
+        },
+        {
+          "table": "area_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 172032,
+          "totalBytes": 188416
+        },
+        {
+          "table": "secure_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "area_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 139264,
+          "totalBytes": 155648
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 344064,
+          "tableBytes": 8298496,
+          "totalBytes": 8642560
+        },
+        {
+          "table": "round_goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 335872,
+          "tableBytes": 843776,
+          "totalBytes": 1179648
+        },
+        {
+          "table": "round_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 40960,
+          "tableBytes": 385024,
+          "totalBytes": 425984
+        },
+        {
+          "table": "profile_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 311296,
+          "totalBytes": 327680
+        },
+        {
+          "table": "profile_questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 376832,
+          "tableBytes": 622592,
+          "totalBytes": 999424
+        },
+        {
+          "table": "film_group_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 81920,
+          "totalBytes": 98304
+        },
+        {
+          "table": "learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 163840,
+          "totalBytes": 180224
+        },
+        {
+          "table": "round_learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 40960,
+          "tableBytes": 548864,
+          "totalBytes": 589824
+        },
+        {
+          "table": "perfect_rounds",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "round_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 40960,
+          "tableBytes": 245760,
+          "totalBytes": 286720
+        },
+        {
+          "table": "achievement_catalog",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 16384,
+          "totalBytes": 32768
+        },
+        {
+          "table": "achievement_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 892928,
+          "tableBytes": 876544,
+          "totalBytes": 1769472
+        },
+        {
+          "table": "achievement_topics",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 196608,
+          "totalBytes": 286720
+        },
+        {
+          "table": "achievement_requirements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 671744,
+          "tableBytes": 376832,
+          "totalBytes": 1048576
+        },
+        {
+          "table": "achievement_goal_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 188416,
+          "tableBytes": 565248,
+          "totalBytes": 753664
+        },
+        {
+          "table": "achievement_topic_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "achievement_current",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 458752,
+          "totalBytes": 475136
+        },
+        {
+          "table": "achievement_dirty_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 172032,
+          "tableBytes": 368640,
+          "totalBytes": 540672
+        },
+        {
+          "table": "goal_reward_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 270336,
+          "totalBytes": 286720
+        }
+      ],
+      "entries": 4420,
+      "databaseBytes": 146724531
+    },
+    {
+      "stage": "seededHistory",
+      "events": 86700,
+      "tables": [
+        {
+          "table": "quiz_duels",
+          "schema": "public",
+          "indexBytes": 81920,
+          "tableBytes": 8192,
+          "totalBytes": 90112
+        },
+        {
+          "table": "quiz_sharing",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "quiz_duel_catalog",
+          "schema": "public",
+          "indexBytes": 761856,
+          "tableBytes": 20217856,
+          "totalBytes": 20979712
+        },
+        {
+          "table": "quiz_shared_scores",
+          "schema": "public",
+          "indexBytes": 32768,
+          "tableBytes": 8192,
+          "totalBytes": 40960
+        },
+        {
+          "table": "quiz_duel_answers",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_guest_activity_config",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 40960,
+          "totalBytes": 57344
+        },
+        {
+          "table": "quiz_guest_activity_events",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_sync_entries",
+          "schema": "public",
+          "indexBytes": 71163904,
+          "tableBytes": 80781312,
+          "totalBytes": 151945216
+        },
+        {
+          "table": "quiz_account_heads",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 262144,
+          "totalBytes": 278528
+        },
+        {
+          "table": "quiz_private_catalog_objects",
+          "schema": "public",
+          "indexBytes": 40960,
+          "tableBytes": 57344,
+          "totalBytes": 98304
+        },
+        {
+          "table": "quiz_sync_generations",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "quiz_sync_object_parts",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_sync_receipts",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_app_releases",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_round_contributions",
+          "schema": "public",
+          "indexBytes": 16834560,
+          "tableBytes": 17063936,
+          "totalBytes": 33898496
+        },
+        {
+          "table": "quiz_player_totals",
+          "schema": "public",
+          "indexBytes": 876544,
+          "tableBytes": 13205504,
+          "totalBytes": 14082048
+        },
+        {
+          "table": "config",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 73728,
+          "tableBytes": 8192,
+          "totalBytes": 81920
+        },
+        {
+          "table": "catalog",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 3260416,
+          "tableBytes": 27041792,
+          "totalBytes": 30302208
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "limits",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "familiarity",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 122880,
+          "totalBytes": 212992
+        },
+        {
+          "table": "catalog_meta",
+          "schema": "quiz_game_internal",
+          "indexBytes": 5251072,
+          "tableBytes": 2416640,
+          "totalBytes": 7667712
+        },
+        {
+          "table": "content_info",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "journey_cache",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 409600,
+          "totalBytes": 425984
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_game_internal",
+          "indexBytes": 466944,
+          "tableBytes": 5595136,
+          "totalBytes": 6062080
+        },
+        {
+          "table": "goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 204800,
+          "tableBytes": 352256,
+          "totalBytes": 557056
+        },
+        {
+          "table": "event_zones",
+          "schema": "quiz_game_internal",
+          "indexBytes": 262144,
+          "tableBytes": 647168,
+          "totalBytes": 909312
+        },
+        {
+          "table": "presentations",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1073152,
+          "tableBytes": 32980992,
+          "totalBytes": 34054144
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_game_internal",
+          "indexBytes": 49152,
+          "tableBytes": 1507328,
+          "totalBytes": 1556480
+        },
+        {
+          "table": "content_staging",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1867776,
+          "tableBytes": 892928,
+          "totalBytes": 2760704
+        },
+        {
+          "table": "topic_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 212992,
+          "tableBytes": 1458176,
+          "totalBytes": 1671168
+        },
+        {
+          "table": "area_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 188416,
+          "totalBytes": 204800
+        },
+        {
+          "table": "secure_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "area_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 180224,
+          "totalBytes": 196608
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 344064,
+          "tableBytes": 8290304,
+          "totalBytes": 8634368
+        },
+        {
+          "table": "round_goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 11362304,
+          "tableBytes": 20996096,
+          "totalBytes": 32358400
+        },
+        {
+          "table": "round_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 40960,
+          "tableBytes": 393216,
+          "totalBytes": 434176
+        },
+        {
+          "table": "profile_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 40960,
+          "tableBytes": 13975552,
+          "totalBytes": 14016512
+        },
+        {
+          "table": "profile_questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 647168,
+          "tableBytes": 12050432,
+          "totalBytes": 12697600
+        },
+        {
+          "table": "film_group_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 90112,
+          "totalBytes": 106496
+        },
+        {
+          "table": "learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 172032,
+          "totalBytes": 188416
+        },
+        {
+          "table": "round_learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 778240,
+          "tableBytes": 10502144,
+          "totalBytes": 11280384
+        },
+        {
+          "table": "perfect_rounds",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "round_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1294336,
+          "tableBytes": 10305536,
+          "totalBytes": 11599872
+        },
+        {
+          "table": "achievement_catalog",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "achievement_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 892928,
+          "tableBytes": 876544,
+          "totalBytes": 1769472
+        },
+        {
+          "table": "achievement_topics",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 196608,
+          "totalBytes": 286720
+        },
+        {
+          "table": "achievement_requirements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 671744,
+          "tableBytes": 376832,
+          "totalBytes": 1048576
+        },
+        {
+          "table": "achievement_goal_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 188416,
+          "tableBytes": 573440,
+          "totalBytes": 761856
+        },
+        {
+          "table": "achievement_topic_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "achievement_current",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 466944,
+          "totalBytes": 483328
+        },
+        {
+          "table": "achievement_dirty_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 294912,
+          "tableBytes": 24576,
+          "totalBytes": 319488
+        },
+        {
+          "table": "goal_reward_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 270336,
+          "totalBytes": 286720
+        }
+      ],
+      "entries": 97920,
+      "databaseBytes": 416601779
+    },
+    {
+      "stage": "plus1000AfterRuns",
+      "events": 88400,
+      "tables": [
+        {
+          "table": "quiz_duels",
+          "schema": "public",
+          "indexBytes": 81920,
+          "tableBytes": 8192,
+          "totalBytes": 90112
+        },
+        {
+          "table": "quiz_sharing",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "quiz_duel_catalog",
+          "schema": "public",
+          "indexBytes": 761856,
+          "tableBytes": 20217856,
+          "totalBytes": 20979712
+        },
+        {
+          "table": "quiz_shared_scores",
+          "schema": "public",
+          "indexBytes": 32768,
+          "tableBytes": 8192,
+          "totalBytes": 40960
+        },
+        {
+          "table": "quiz_duel_answers",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_guest_activity_config",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 40960,
+          "totalBytes": 57344
+        },
+        {
+          "table": "quiz_guest_activity_events",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_sync_entries",
+          "schema": "public",
+          "indexBytes": 72966144,
+          "tableBytes": 80822272,
+          "totalBytes": 153788416
+        },
+        {
+          "table": "quiz_account_heads",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 262144,
+          "totalBytes": 278528
+        },
+        {
+          "table": "quiz_private_catalog_objects",
+          "schema": "public",
+          "indexBytes": 40960,
+          "tableBytes": 57344,
+          "totalBytes": 98304
+        },
+        {
+          "table": "quiz_sync_generations",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "quiz_sync_object_parts",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_sync_receipts",
+          "schema": "public",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "quiz_app_releases",
+          "schema": "public",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "quiz_round_contributions",
+          "schema": "public",
+          "indexBytes": 17096704,
+          "tableBytes": 17793024,
+          "totalBytes": 34889728
+        },
+        {
+          "table": "quiz_player_totals",
+          "schema": "public",
+          "indexBytes": 876544,
+          "tableBytes": 13205504,
+          "totalBytes": 14082048
+        },
+        {
+          "table": "config",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 73728,
+          "tableBytes": 8192,
+          "totalBytes": 81920
+        },
+        {
+          "table": "catalog",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 3260416,
+          "tableBytes": 27041792,
+          "totalBytes": 30302208
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 16384,
+          "tableBytes": 8192,
+          "totalBytes": 24576
+        },
+        {
+          "table": "limits",
+          "schema": "quiz_ranked_internal",
+          "indexBytes": 8192,
+          "tableBytes": 0,
+          "totalBytes": 8192
+        },
+        {
+          "table": "familiarity",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 122880,
+          "totalBytes": 212992
+        },
+        {
+          "table": "catalog_meta",
+          "schema": "quiz_game_internal",
+          "indexBytes": 5251072,
+          "tableBytes": 2416640,
+          "totalBytes": 7667712
+        },
+        {
+          "table": "content_info",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "journey_cache",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 409600,
+          "totalBytes": 425984
+        },
+        {
+          "table": "receipts",
+          "schema": "quiz_game_internal",
+          "indexBytes": 892928,
+          "tableBytes": 11141120,
+          "totalBytes": 12034048
+        },
+        {
+          "table": "goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 385024,
+          "tableBytes": 704512,
+          "totalBytes": 1089536
+        },
+        {
+          "table": "event_zones",
+          "schema": "quiz_game_internal",
+          "indexBytes": 466944,
+          "tableBytes": 647168,
+          "totalBytes": 1114112
+        },
+        {
+          "table": "presentations",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1073152,
+          "tableBytes": 32980992,
+          "totalBytes": 34054144
+        },
+        {
+          "table": "runs",
+          "schema": "quiz_game_internal",
+          "indexBytes": 73728,
+          "tableBytes": 3792896,
+          "totalBytes": 3866624
+        },
+        {
+          "table": "content_staging",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1867776,
+          "tableBytes": 892928,
+          "totalBytes": 2760704
+        },
+        {
+          "table": "topic_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 212992,
+          "tableBytes": 1458176,
+          "totalBytes": 1671168
+        },
+        {
+          "table": "area_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 188416,
+          "totalBytes": 204800
+        },
+        {
+          "table": "secure_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "area_groups",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 180224,
+          "totalBytes": 196608
+        },
+        {
+          "table": "questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 573440,
+          "tableBytes": 14557184,
+          "totalBytes": 15130624
+        },
+        {
+          "table": "round_goal_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 11526144,
+          "tableBytes": 21807104,
+          "totalBytes": 33333248
+        },
+        {
+          "table": "round_rewards",
+          "schema": "quiz_game_internal",
+          "indexBytes": 57344,
+          "tableBytes": 393216,
+          "totalBytes": 450560
+        },
+        {
+          "table": "profile_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 40960,
+          "tableBytes": 13975552,
+          "totalBytes": 14016512
+        },
+        {
+          "table": "profile_questions",
+          "schema": "quiz_game_internal",
+          "indexBytes": 679936,
+          "tableBytes": 12050432,
+          "totalBytes": 12730368
+        },
+        {
+          "table": "film_group_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 90112,
+          "totalBytes": 106496
+        },
+        {
+          "table": "learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 172032,
+          "totalBytes": 188416
+        },
+        {
+          "table": "round_learning_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 778240,
+          "tableBytes": 10502144,
+          "totalBytes": 11280384
+        },
+        {
+          "table": "perfect_rounds",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "round_achievements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 1294336,
+          "tableBytes": 10305536,
+          "totalBytes": 11599872
+        },
+        {
+          "table": "achievement_catalog",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 49152,
+          "totalBytes": 65536
+        },
+        {
+          "table": "achievement_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 892928,
+          "tableBytes": 876544,
+          "totalBytes": 1769472
+        },
+        {
+          "table": "achievement_topics",
+          "schema": "quiz_game_internal",
+          "indexBytes": 90112,
+          "tableBytes": 196608,
+          "totalBytes": 286720
+        },
+        {
+          "table": "achievement_requirements",
+          "schema": "quiz_game_internal",
+          "indexBytes": 671744,
+          "tableBytes": 376832,
+          "totalBytes": 1048576
+        },
+        {
+          "table": "achievement_goal_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 335872,
+          "tableBytes": 573440,
+          "totalBytes": 909312
+        },
+        {
+          "table": "achievement_topic_progress",
+          "schema": "quiz_game_internal",
+          "indexBytes": 8192,
+          "tableBytes": 8192,
+          "totalBytes": 16384
+        },
+        {
+          "table": "achievement_current",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 466944,
+          "totalBytes": 483328
+        },
+        {
+          "table": "achievement_dirty_goals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 294912,
+          "tableBytes": 327680,
+          "totalBytes": 622592
+        },
+        {
+          "table": "goal_reward_totals",
+          "schema": "quiz_game_internal",
+          "indexBytes": 16384,
+          "tableBytes": 270336,
+          "totalBytes": 286720
+        }
+      ],
+      "entries": 101490,
+      "databaseBytes": 437081779
+    }
+  ],
+  "completedRounds": 340,
+  "answers": 3400,
+  "errors": 0,
+  "deadlocks": 0,
+  "passed": true
+}

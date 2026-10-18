@@ -3,6 +3,19 @@ import { createServer } from "vite";
 import { readFile, mkdir, writeFile, readdir, unlink } from "node:fs/promises";
 import { resolve, join } from "node:path";
 import { createHash } from "node:crypto";
+import { execFileSync } from "node:child_process";
+import { fileURLToPath } from "node:url";
+execFileSync(
+  process.execPath,
+  [
+    fileURLToPath(new URL("./prepare-runtime-metadata.mjs", import.meta.url)),
+    "--check",
+  ],
+  {
+    stdio: ["ignore", "ignore", "inherit"],
+    windowsHide: true,
+  },
+);
 const output = resolve(process.argv[2] ?? "tmp-sync/server-content");
 const server = await createServer({
   server: { middlewareMode: true, hmr: false, ws: false, watch: null },

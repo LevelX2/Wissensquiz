@@ -16,14 +16,10 @@ import facts from "../src/filmFacts.json";
 import directorContexts from "../src/directorContexts.json";
 import reviewedFacts from "../src/reviewedFilmFacts.json";
 import integrated from "./fixtures/appliedEditorial.json";
-import {
-  applyCategoryTags,
-  categories,
-  isCategory,
-  matchesTopic,
-} from "../src/categories";
+import { categories, isCategory, matchesTopic } from "../src/categories";
 import { answer, startRound } from "../src/engine";
 import { validateBackup } from "../src/backupValidation";
+import { applyCategoryTags } from "../src/categoryPreparation";
 import { genreOf } from "../src/filters";
 
 const contents = packages.slice(0, 14).map((p) => ({

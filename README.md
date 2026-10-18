@@ -31,7 +31,7 @@ Poster für alle **1.405 referenzierten Filmfassungen** sind veröffentlicht und
 - **Sammlung und Karriere:** Antwortfortschritt, gefestigte Ziele, Rundenergebnisse, Level und XP. Highscores zeigen jeden abgeschlossenen Lauf einzeln, einschließlich Nullpunkten, für Woche/Monat/Jahr/Allzeit. Rekordspiele, Duelle und Karriere haben eigene Wertungen.
 - **Duell:** bestätigte Konten spielen drei gemeinsame Runden mit offenen Spielplätzen und serverseitigen Fristen. Eigene bestätigte Antworten gehen in den eigenen Lernstand ein.
 
-Die maßgeblichen Regeln stehen in [Lernregeln](docs/Lernregeln.md), [Fragenbereichen und Bekanntheit](docs/Spielmodi-und-Bekanntheit.md), [Filmkarriere](docs/Filmkarriere-und-XP.md) und [Filmduellen](docs/Asynchrone-Filmduelle.md). Profil → Optionen enthält Ton/Vibration, Hinweise, Lösungsausgabe, Datenexport und geprüfte Wiederherstellung. Neue Fragen werden über die eigene Paket-/Update-Logik bereitgestellt; der manuelle CSV-Import ist seit der lokalen Bereinigung vom 04.10.2026 entfernt. [Importformat](docs/Importformat.md) beschreibt IDs, Varianten und Originalspalten; Rohquellen werden unverändert erhalten.
+Die maßgeblichen Regeln stehen in [Lernregeln](docs/Lernregeln.md), [Fragenbereichen und Bekanntheit](docs/Spielmodi-und-Bekanntheit.md), [Filmkarriere](docs/Filmkarriere-und-XP.md) und [Filmduellen](docs/Asynchrone-Filmduelle.md). Profil → Optionen enthält Ton/Vibration, Hinweise, Lösungsausgabe und bestätigten Fortschrittsreset. Der Betreiber stellt neue Fragen als geprüften aktuellen Serverkatalog bereit; manueller CSV-Import, Datensicherung und Wiederherstellung werden in der Spieleroberfläche nicht angeboten. [Importformat](docs/Importformat.md) beschreibt die Betreiberquellen, IDs, Varianten und Originalspalten; Rohquellen werden unverändert erhalten.
 
 Seit Sites-Version 55: Bestätigte Quiz-Konten können aus einer Frage oder dem Profil technische Fehler, falsche Inhalte, Textverbesserungen und Sonstiges als öffentliches GitHub-Issue melden. Der Versand läuft über eine geschützte Supabase Function; private Spielstände werden nicht mitgesendet. Servererweiterung eingerichtet, Oberfläche seit Version 55 veröffentlicht; GitHub-Schlüssel seit 10.10.2026 eingerichtet. [Meldevertrag und Einrichtung](docs/GitHub-Meldungen.md).
 
@@ -58,6 +58,10 @@ Seit Version 64: eine Zehnerrunde ohne Konto, Ergebnis und Rückblick vor der Re
 | `docs/`, `KI-Wissen-Wissensquiz/` | Fachverträge, Quellen, Wissen und datierte Nachweise |
 
 ## Prüfen und weiterarbeiten
+
+Für kleine Änderungen die unmittelbar betroffenen Checks nach `AGENTS.md` wählen. `npm run check` prüft ungenutzte Quellnamen und die Aktualität der kompakten Laufzeitmetadaten. Nach Änderungen an Bekanntheits-/Kategoriequellen zuerst `npm run prepare:runtime-metadata` ausführen; Build und Serverinhaltsvorbereitung prüfen diese Projektion ebenfalls. Für UI-Bildvarianten: `npm run prepare:ui-artwork` mit ImageMagick; Originale erhalten. [Aktuelle Fachreview-Umsetzung](docs/IT-Fachreview-2026-10-18-Umsetzung.md), [Start-/Lastnachweis](docs/Fachreview-Start-und-Wachstum-2026-10-18.md).
+
+Vor einer ausdrücklich freigegebenen Veröffentlichung einmal gebündelt auf dem gemeinsamen Quellstand:
 
 ```powershell
 npm test

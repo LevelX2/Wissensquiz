@@ -21,6 +21,13 @@ test("Kleine Bildvarianten und lesbare Themen bei 320/390 Pixeln und großer Sch
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const navigationImage = await page
+    .locator('nav img[src*="genre-awards-"]')
+    .evaluate(async (image: HTMLImageElement) => {
+      await image.decode();
+      return image.currentSrc;
+    });
+  expect(navigationImage).toMatch(/genre-awards-160.*\.webp$/);
   const asset = await page
     .locator(".mode-selection > summary img")
     .evaluate(async (element: HTMLImageElement) => {

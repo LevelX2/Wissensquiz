@@ -1,7 +1,6 @@
-import { useEffect, useRef, useState } from "react";
+import { lazy, Suspense, useEffect, useRef, useState } from "react";
 import type { SupabaseClient, User, Session } from "@supabase/supabase-js";
 import { emptyState } from "./model";
-import { AccountGame } from "./AccountGame";
 import {
   accountConfig,
   accountStorageKey,
@@ -11,9 +10,16 @@ import {
 } from "./accounts";
 import { requestWithin } from "./request";
 
-import { AccountPanel } from "./AccountPanel";
 import { LinkPanel } from "./AccountLinkPanel";
-import { TrialEntry } from "./TrialEntry";
+const AccountGame = lazy(() =>
+  import("./AccountGame").then((m) => ({ default: m.AccountGame })),
+);
+const AccountPanel = lazy(() =>
+  import("./AccountPanel").then((m) => ({ default: m.AccountPanel })),
+);
+const TrialEntry = lazy(() =>
+  import("./TrialEntry").then((m) => ({ default: m.TrialEntry })),
+);
 
 type Link = ReturnType<typeof parseAccountLink>;
 const recoveryMarker = {
@@ -80,6 +86,20 @@ function setupAccounts() {
 }
 
 export function AccountApp() {
+  return (
+    <Suspense
+      fallback={
+        <main className="loading">
+          <h1>Wissensquiz</h1>
+          <p role="status">Ansicht wird geladen …</p>
+        </main>
+      }
+    >
+      <AccountRouter />
+    </Suspense>
+  );
+}
+function AccountRouter() {
   const [connection, setConnection] = useState<Awaited<
     ReturnType<typeof setupAccounts>
   > | null>(null);
