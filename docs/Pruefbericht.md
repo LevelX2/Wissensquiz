@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 18.10.2026 – IT-Fachreview Block 1 lokal
+
+Fokus auf jede neue Frage, kurze separate Ergebnisansage, äußere Fehlergrenze, korrekter Online-Speicherhinweis, aktuelle Rundenhilfe und Weiter-Signal umgesetzt. TypeScript/Build und `git diff --check` erfolgreich. Zwölf unterschiedliche Browserfälle in Chromium, Firefox und mobilem WebKit einschließlich erfolgreicher Nachprüfungen bestanden: Audio/Weiter, mobile Antwortansicht bei 320/390 Pixeln, Fehlergrenzen, Hilfe und vollständige Proberunde. Firefox benötigt für den umfangreichen Audioablauf ein größeres funktionales Testbudget; feste Kalenderzeit auch auf dem isolierten SQL-Testserver vermeidet zusätzliche Browserabfragen je RPC. Frühere Abbrüche zählen nicht als bestanden. Kein realer Screenreader-/Gerätenachweis, keine Produktivänderung und keine Veröffentlichung. [Details](IT-Fachreview-2026-10-18-Umsetzung.md#abnahme-von-block-1).
+
 ## 17.10.2026 – Gemeinsame Erfolgsembleme lokal
 
 Feierdialog und Profil verwenden dieselben plastischen SVG-Medaillen. Gleichzeitige Erfolge, Levelaufstiege und Filmreise-Freischaltungen erhalten gleichwertige Karten untereinander. Größere Profilmedaillen, gemeinsame Karriere-/Freischaltmotive, neutrale offene Ziele und eine separat scrollbare Emblemliste. [Vertrag](Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026), [Nutzerauftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-17 Nutzerauftrag gemeinsame Erfolgsembleme.txt>).

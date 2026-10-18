@@ -1,5 +1,30 @@
 import { test, expect, openRoundSetup, readStoredState } from "./fixtures";
 
+test("äußere Fehlergrenze schützt den Apprahmen und lädt bestätigten Stand erneut", async ({
+  page,
+}) => {
+  await page.clock.install({ time: new Date("2026-10-18T10:00:00Z") });
+  await page.addInitScript(() => {
+    if (sessionStorage.getItem("review-render-failure")) return;
+    sessionStorage.setItem("review-render-failure", "tested");
+    Number.prototype.toLocaleString = function () {
+      throw new Error("Synthetic render failure in the career header");
+    };
+  });
+  await page.goto("/");
+  const recovery = page.getByRole("alert");
+  await expect(recovery).toContainText(
+    "Das Quiz konnte nicht angezeigt werden.",
+  );
+  await expect(recovery).toContainText(
+    "Bereits online bestätigter Fortschritt",
+  );
+  await expect(recovery).not.toContainText("lokal gespeichert");
+  await page.getByRole("button", { name: "App neu laden" }).click();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  expect((await readStoredState(page)).events).toEqual([]);
+});
+
 test("alle Nebenansichten öffnen ohne vorherigen Besuch", async ({
   page,
   context,

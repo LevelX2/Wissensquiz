@@ -1,7 +1,7 @@
 import { Component, type ReactNode } from "react";
 
 export class PageBoundary extends Component<
-  { children: ReactNode },
+  { children: ReactNode; scope?: "page" | "app" },
   { failed: boolean }
 > {
   state = { failed: false };
@@ -12,10 +12,14 @@ export class PageBoundary extends Component<
     if (this.state.failed)
       return (
         <section className="notice error" role="alert">
-          <h2>Diese Ansicht konnte nicht geladen werden.</h2>
+          <h2>
+            {this.props.scope === "app"
+              ? "Das Quiz konnte nicht angezeigt werden."
+              : "Diese Ansicht konnte nicht geladen werden."}
+          </h2>
           <p>
-            Dein lokal gespeicherter Fortschritt bleibt erhalten. Prüfe Deine
-            Verbindung und lade die App erneut.
+            Bereits online bestätigter Fortschritt bleibt erhalten. Noch nicht
+            bestätigte Eingaben können beim Neuladen verloren gehen.
           </p>
           <button onClick={() => location.reload()}>App neu laden</button>
         </section>

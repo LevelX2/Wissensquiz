@@ -1,5 +1,11 @@
 # Lern-, Runden- und Speichervertrag
 
+## Fokus und Fragewechsel seit 18.10.2026 lokal
+
+Jede neu freigegebene Frage erhält den Tastaturfokus auf ihrer Überschrift und beginnt am Seitenanfang. Das gilt gemeinsam für Lernspiele, Zeitspiele und die Proberunde. Die Antwortauflösung bleibt ein gezielt fokussierbarer Lesebereich; nur eine kurze Ergebniszeile ist eine Statusansage, nicht die gesamte Erklärung.
+
+Beim Weiter-Button wird Ton im auslösenden Nutzerereignis freigegeben. Erst nach erfolgreichem Laden der nächsten Frage folgt genau ein vorhandenes `next`-Signal mit der gespeicherten Ton-/Vibrationsoption. Ladefehler und Rundenabschluss erzeugen kein zusätzliches Weiter-Signal; der Abschluss behält seine eigene Rückmeldung. [Umsetzung und Prüfungen](IT-Fachreview-2026-10-18-Umsetzung.md).
+
 **16.10.2026 – Bereichsauslosung seit Version 82 veröffentlicht:** Filmreise zieht zuerst eine freigespielte Bekanntheitsgruppe, dann gleichwahrscheinlich ein geeignetes Filmgenre, Schauspieler oder Preisträger. Bei neuen Zielen folgen Schwierigkeit, Ziel und Variante; bei Wiederholungen das älteste fällige Ziel innerhalb des gezogenen Bereichs. Bekannte Füllziele folgen denselben Auslosungsstufen unter Erhalt der Vorrangphasen. Keine festen Quoten. [Aktueller Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-16-Version-82.json).
 
 ## Schauspielerausbau und Bekanntheitsgruppen seit Version 80

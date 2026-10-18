@@ -208,11 +208,12 @@ export function Help() {
           nicht.
         </p>
         <p>
-          Lernrunden umfassen zunächst bis zu fünf, später bis zu zehn Fragen.
-          Der Modus 10 Fragen umfasst zehn Fragen. Endlosmodi haben keine feste
-          Fragenzahl. Entspannte Runden lassen sich fortsetzen. Eine Rekordrunde
-          läuft bei einem Wechsel in den Hintergrund weiter und wird beim
-          Neuladen abgebrochen.
+          Lernrunden umfassen von Anfang an bis zu zehn Fragen. Bei einer
+          kleineren passenden Auswahl sind es entsprechend weniger. Der Modus 10
+          Fragen umfasst zehn Fragen. Endlosmodi haben keine feste Fragenzahl.
+          Entspannte Runden lassen sich fortsetzen. Eine Rekordrunde läuft bei
+          einem Wechsel in den Hintergrund weiter und wird beim Neuladen
+          abgebrochen.
         </p>
       </details>
       <details>

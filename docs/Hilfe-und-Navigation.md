@@ -1,5 +1,11 @@
 # Navigation und Hilfe
 
+## Fokusführung und Wiederherstellung seit 18.10.2026 lokal
+
+Neue Fragen werden nach der Freigabe an ihrer Überschrift fokussiert. Die Antwortauflösung ist ein benannter Lesebereich mit kurzer separater Statusansage. Die Spielerhilfe beschreibt ab der ersten Lernrunde bis zu zehn Fragen, bei kleinerer passender Auswahl entsprechend weniger. Der README-Einstieg verweist auf den aktuellen Projektstand und trennt die letzte Veröffentlichung von lokalen Änderungen.
+
+Eine äußere Fehlergrenze schützt jetzt auch Kontoansicht und Apprahmen. Die Wiederherstellung erklärt zutreffend: Bereits online bestätigter Fortschritt bleibt erhalten; noch nicht bestätigte Eingaben können beim Neuladen verloren gehen. Nebenansichten behalten ihre eigene Fehlergrenze und erlauben weiterhin Navigation. [Umsetzung](IT-Fachreview-2026-10-18-Umsetzung.md).
+
 ## Antwortansicht und Verbesserungsvorschläge – 12.10.2026
 
 Lokal umgesetzt: Unter der beantworteten Frage bleibt nur „Alle Antworten ansehen“. Ergebnis und hervorgehobene Antwort stehen darüber, der Kontext trägt eine Kennzeichnung für Schauspiel beziehungsweise Film oder Preisfrage. Antwortstatistik und Lernstufen teilen eine Klappe; Quellen stehen darunter. Der bisherige Zugang „Frage melden“ heißt „Verbesserung vorschlagen“ und öffnet dasselbe Formular für Fehler und Textverbesserungen. [Anzeigevertrag](Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026).

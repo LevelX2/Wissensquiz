@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**18.10.2026 – IT-Fachreview in Umsetzung:** Erster Bedienblock lokal umgesetzt und mit zwölf Browserfällen geprüft; allgemeiner Skill `projekt-fachreview` erstellt und installiert. Weitere Arbeitsblöcke folgen im freigegebenen Worktree. Noch nicht veröffentlicht. [Aktueller Umsetzungsstand](../docs/IT-Fachreview-2026-10-18-Umsetzung.md).
+
 **18.10.2026 – IT-Fachreview abgeschlossen:** Simuliertes Fachteam mit acht Prüfbereichen; 16 priorisierte Verbesserungsvorschläge mit Belegen, Aufwand und Abnahmezielen. Fokusverlust nach „Nächste Frage“ lokal mit synthetischem Konto bestätigt. Produkt und Veröffentlichung unverändert. [Review und Reihenfolge](../docs/IT-Fachreview-2026-10-18.md).
 
 **17.10.2026 – Erfolgsembleme lokal überarbeitet:** Gleichwertige Karten für gleichzeitig erreichte Erfolge, Level und Freischaltungen; größere plastische Medaillen aus derselben Darstellung in Feier, Profil und Sammlung. Noch nicht veröffentlicht. [Darstellungsvertrag](../docs/Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026).

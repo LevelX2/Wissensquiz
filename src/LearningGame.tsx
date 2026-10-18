@@ -3,6 +3,7 @@ import type { State } from "./model";
 import type { Mutate } from "./uiTypes";
 import { LearningSession, type LearningSetup } from "./learningRuns";
 import { QuestionScreen } from "./QuestionScreen";
+import { playFeedback } from "./feedback";
 export function LearningGame({
   session,
   setup,
@@ -116,6 +117,7 @@ export function LearningGame({
               } else {
                 await session.next();
                 setGuessed(false);
+                playFeedback("next", state.settings);
               }
             })
           }

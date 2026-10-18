@@ -67,6 +67,13 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toBeVisible();
   await expect(page.getByText(/nach elf Tagen/)).toBeVisible();
   await page
+    .getByText("Welcher Spielmodus passt zu mir?", { exact: true })
+    .click();
+  await expect(
+    page.getByText(/Lernrunden umfassen von Anfang an bis zu zehn Fragen/),
+  ).toBeVisible();
+  await expect(page.getByText(/zunächst bis zu fünf/)).toHaveCount(0);
+  await page
     .getByText("Wie öffne ich neue Schwierigkeiten und Bekanntheitsgruppen?", {
       exact: true,
     })

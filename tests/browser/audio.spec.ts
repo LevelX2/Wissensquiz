@@ -133,7 +133,12 @@ async function respond(page: Page, correct: boolean) {
 
 test("Klicksignale, verschiedene Antworttöne und gespeicherter Tonschalter im Spiel", async ({
   page,
+  browserName,
 }) => {
+  test.slow(
+    browserName === "firefox",
+    "Vollständiger Audio- und Navigationsablauf im Firefox-Testbrowser",
+  );
   await prepare(page);
   expect(await notes(page)).toEqual([]);
   expect(
@@ -191,7 +196,15 @@ test("Klicksignale, verschiedene Antworttöne und gespeicherter Tonschalter im S
   expect(correct).toHaveLength(2);
   expect(correct[1].frequency).toBeGreaterThan(correct[0].frequency);
   expect(correct.every((note) => note.type === "sine")).toBe(true);
+  const beforeNext = (await notes(page)).length;
   await page.getByRole("button", { name: "Nächste Frage" }).click();
+  await expect
+    .poll(async () => (await notes(page)).length)
+    .toBe(beforeNext + 1);
+  expect((await notes(page)).slice(beforeNext)).toEqual([
+    { frequency: 440, type: "sine" },
+  ]);
+  await expect(page.locator("h1[data-question-id]")).toBeFocused();
   const wrong = await respond(page, false);
   expect(wrong).toHaveLength(2);
   expect(wrong[1].frequency).toBeLessThan(wrong[0].frequency);

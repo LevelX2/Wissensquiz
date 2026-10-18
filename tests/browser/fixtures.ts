@@ -39,6 +39,11 @@ export function modePreparation(page: Page, name: string | RegExp) {
 // setFixedTime also installs its timer/RAF scheduler, adding measurement jitter.
 // Keep only the calendar date fixed, including after navigation and reload.
 export async function fixCalendarTime(page: Page, time: Date) {
+  // This helper fixes the calendar for the entire page lifetime. Mirror it in
+  // the isolated SQL server too, without an extra browser evaluation per RPC.
+  // Firefox serializes those evaluations behind concurrent routed requests.
+  const backend = backends.get(page.context());
+  if (backend) backend.serverTime = time.getTime();
   await page.addInitScript((fixedTime) => {
     const NativeDate = Date;
     window.Date = new Proxy(NativeDate, {

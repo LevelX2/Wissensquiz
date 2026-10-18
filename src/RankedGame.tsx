@@ -6,6 +6,7 @@ import type { Mutate } from "./uiTypes";
 import { QuestionScreen } from "./QuestionScreen";
 import { rankedRead, RankedSession, type RankedSetup } from "./rankedRuns";
 import { RankedRunError } from "./rankedErrors";
+import { playFeedback } from "./feedback";
 
 export function RankedGame({
   session,
@@ -175,6 +176,7 @@ export function RankedGame({
               else {
                 await session.next();
                 setGuessed(false);
+                playFeedback("next", state.settings);
               }
             })
           }

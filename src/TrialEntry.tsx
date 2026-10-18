@@ -8,7 +8,7 @@ import { z } from "zod";
 import { complete } from "./engine";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
-import { stopFeedback, unlockSound } from "./feedback";
+import { playFeedback, stopFeedback, unlockSound } from "./feedback";
 import {
   createTrial,
   notifyTrial,
@@ -215,12 +215,14 @@ export function TrialEntry({
             busy={busy}
             onExit={() => setScreen("welcome")}
             onNext={async () => {
-              unlockSound(trial.state.settings);
               if (index === 9) {
                 const saved = await mutate((s) => complete(s, round.id));
                 if (saved?.rounds[0].status === "completed")
                   setScreen("result");
-              } else setIndex((n) => n + 1);
+              } else {
+                setIndex((n) => n + 1);
+                playFeedback("next", trial.state.settings);
+              }
             }}
           />
         </>

@@ -116,6 +116,7 @@ export function QuestionScreen({
   nextAction.current = onNext;
   const chooseRef = useRef<(choice: AnswerChoice) => void>(() => {});
   const feedback = useRef<HTMLDivElement>(null);
+  const questionHeading = useRef<HTMLHeadingElement>(null);
   const [reporting, setReporting] = useState(false);
   const choose = async (choice: AnswerChoice) => {
     if (locked.current || event || !ready || round.status !== "active") return;
@@ -215,6 +216,11 @@ export function QuestionScreen({
       window.removeEventListener("focus", tick);
     };
   }, [!!event, ready, timed]);
+  useEffect(() => {
+    if (event || !ready) return;
+    window.scrollTo(0, 0);
+    questionHeading.current?.focus({ preventScroll: true });
+  }, [q.id, ready, !!event]);
   useEffect(() => {
     if (event) {
       feedback.current?.focus({ preventScroll: true });
@@ -469,7 +475,7 @@ export function QuestionScreen({
             )}
           </div>
         </div>
-        <h1 data-question-id={q.id}>
+        <h1 ref={questionHeading} tabIndex={-1} data-question-id={q.id}>
           {titleParts ? (
             <>
               {titleParts.before}
@@ -493,11 +499,7 @@ export function QuestionScreen({
           state.settings.questionHistory === "always" &&
           !event &&
           !showReveal && (
-            <QuestionHistory
-              key={q.id}
-              events={state.events}
-              question={q}
-            />
+            <QuestionHistory key={q.id} events={state.events} question={q} />
           )}
         {event
           ? !showReveal &&
@@ -541,7 +543,22 @@ export function QuestionScreen({
           </p>
         )}
         {event && (!collected || showReveal) && (
-          <div ref={feedback} tabIndex={-1} className="feedback" role="status">
+          <div
+            ref={feedback}
+            tabIndex={-1}
+            className="feedback"
+            role="region"
+            aria-label="Antwortauflösung"
+          >
+            <span className="sr-only" role="status" aria-atomic="true">
+              {event.correct
+                ? "Richtig beantwortet."
+                : event.dontKnow
+                  ? "Nicht gewusst. Die richtige Antwort wird angezeigt."
+                  : event.answerId === null
+                    ? "Zeit abgelaufen. Die richtige Antwort wird angezeigt."
+                    : "Nicht richtig. Die richtige Antwort wird angezeigt."}
+            </span>
             {round.mode === "rekord" && !round.duel && (
               <p className="quiet-note">
                 Benötigte Zeit:{" "}
@@ -641,7 +658,10 @@ export function QuestionScreen({
               className="primary"
               data-feedback={round.duel ? undefined : "own"}
               disabled={busy}
-              onClick={onNext}
+              onClick={() => {
+                void unlockSound(state.settings);
+                onNext();
+              }}
             >
               {(hasNext ?? index < round.questions.length - 1)
                 ? "Nächste Frage"

@@ -158,6 +158,7 @@ for (const viewport of [
         "data-question-id",
         q.id,
       );
+      await expect(page.locator(".question-card h1")).toBeFocused();
       const selected = q.answers.find((a) =>
         i === 1 ? a.id !== q.correctId : a.id === q.correctId,
       )!;
@@ -191,6 +192,10 @@ for (const viewport of [
       await selectedButton.click();
       await expect(page.locator(".solution-reveal")).toBeVisible();
       await expect(page.locator(".feedback")).toBeFocused();
+      await expect(page.locator(".feedback")).toHaveAttribute("role", "region");
+      await expect(page.locator(".feedback [role=status]")).not.toContainText(
+        q.context,
+      );
       await expect(page.locator(".answer-review")).toHaveCount(0);
       await expect(page.locator(".answer")).toHaveCount(4);
       const correct = page.locator(".answer.correct");

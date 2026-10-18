@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Umsetzung des IT-Fachreviews: geordnete Arbeitsblöcke und allgemeiner Fachreview-Skill – 18.10.2026, lokal](../../../docs/IT-Fachreview-2026-10-18-Umsetzung.md)
+
 - [IT-Fachreview: acht Perspektiven, 16 priorisierte Vorschläge und lokal bestätigter Fokusverlust – 18.10.2026](../../../docs/IT-Fachreview-2026-10-18.md)
 
 - [Gemeinsame hochwertige Embleme in Feier und Profil; gleichzeitige Erfolge gleichwertig untereinander – 17.10.2026, lokal](../../../docs/Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026)

@@ -36,9 +36,11 @@ async function start(page: Page) {
     .getByRole("button", { name: "Proberunde starten", exact: true })
     .click();
   await expect(page.getByText("FRAGE 1 VON 10")).toBeVisible();
+  await expect(page.locator("h1[data-question-id]")).toBeFocused();
 }
 async function finish(page: Page) {
   for (let i = 0; i < 10; i++) {
+    await expect(page.locator("h1[data-question-id]")).toBeFocused();
     const round = (await draft(page)).state.rounds[0];
     await page
       .locator(".answer")
