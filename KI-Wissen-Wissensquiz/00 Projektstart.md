@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**18.10.2026 – IT-Fachreview abgeschlossen:** Simuliertes Fachteam mit acht Prüfbereichen; 16 priorisierte Verbesserungsvorschläge mit Belegen, Aufwand und Abnahmezielen. Fokusverlust nach „Nächste Frage“ lokal mit synthetischem Konto bestätigt. Produkt und Veröffentlichung unverändert. [Review und Reihenfolge](../docs/IT-Fachreview-2026-10-18.md).
+
 **17.10.2026 – Erfolgsembleme lokal überarbeitet:** Gleichwertige Karten für gleichzeitig erreichte Erfolge, Level und Freischaltungen; größere plastische Medaillen aus derselben Darstellung in Feier, Profil und Sammlung. Noch nicht veröffentlicht. [Darstellungsvertrag](../docs/Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026).
 
 **16.10.2026 – Version 82 veröffentlicht:** 15.295 Fragen / 14.628 Ziele in 39 Paketen einschließlich zwölf geprüfter Genre-Rückgaben. Filmreise mit gleich gewichteten Bereichen innerhalb der Bekanntheitsgruppe und neue Audio-Sitzung nach Tab-/Appwechsel aktiv. 497 Tests, Build und 388 unterschiedliche Browserfälle erfolgreich; ein geplanter Skip. 30 private Quelltabellen unverändert, alle 924 öffentlichen Dateien geprüft. [Nachweis](../docs/Veroeffentlichung-2026-10-16-Version-82.json).

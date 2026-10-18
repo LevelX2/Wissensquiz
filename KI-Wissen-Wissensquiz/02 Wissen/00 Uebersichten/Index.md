@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [IT-Fachreview: acht Perspektiven, 16 priorisierte Vorschläge und lokal bestätigter Fokusverlust – 18.10.2026](../../../docs/IT-Fachreview-2026-10-18.md)
+
 - [Gemeinsame hochwertige Embleme in Feier und Profil; gleichzeitige Erfolge gleichwertig untereinander – 17.10.2026, lokal](../../../docs/Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026)
 
 **16.10.2026 – Version 82 veröffentlicht:** 15.295 Fragen / 14.628 Ziele in 39 Paketen einschließlich zwölf geprüfter Genre-Rückgaben. Filmreise mit gleich gewichteten Bereichen innerhalb der Bekanntheitsgruppe und neue Audio-Sitzung nach Tab-/Appwechsel aktiv. 497 Tests, Build und 388 unterschiedliche Browserfälle erfolgreich; ein geplanter Skip. 30 private Quelltabellen unverändert, alle 924 öffentlichen Dateien geprüft. [Nachweis](../../../docs/Veroeffentlichung-2026-10-16-Version-82.json).
