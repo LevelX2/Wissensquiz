@@ -26,7 +26,7 @@ import type { QuestionSource } from "./model";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
 import { modeNames } from "./gameUi";
 import { useEffect, useRef, useState } from "react";
-import { useServer, useServerView, type SelectionView } from "./serverViews";
+import { useServer, useServerView } from "./serverViews";
 
 export function PlaySetup({
   mode,
@@ -96,7 +96,7 @@ export function PlaySetup({
   const targetSize = 10;
   const now = useForegroundTime();
   const server = useServer()!;
-  const view = useServerView<SelectionView>({
+  const view = useServerView({
     action: "selection",
     mode,
     topic: roundTopic,

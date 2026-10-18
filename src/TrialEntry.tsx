@@ -8,7 +8,7 @@ import { z } from "zod";
 import { complete } from "./engine";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
-import { playFeedback, stopFeedback, unlockSound } from "./feedback";
+import { playFeedback, stopFeedback } from "./feedback";
 import {
   createTrial,
   notifyTrial,

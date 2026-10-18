@@ -1,6 +1,6 @@
 import { useState } from "react";
 import type { State } from "./model";
-import { useServerView, type TopicSummary } from "./serverViews";
+import { useServerView } from "./serverViews";
 import { TopicCard } from "./TopicCard";
 export function ServerTopicList({
   state,
@@ -12,10 +12,7 @@ export function ServerTopicList({
   answeredOnly?: boolean;
 }) {
   const [cursors, setCursors] = useState<string[]>([""]);
-  const page = useServerView<{
-    items: TopicSummary[];
-    nextCursor: string | null;
-  }>({
+  const page = useServerView({
     action: "topics",
     scope: scope?.name,
     scopeKind: scope?.kind,

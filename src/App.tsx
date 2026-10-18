@@ -1,5 +1,5 @@
 import { serverUnlocks, type PathUnlock } from "./learningPath";
-import { isRecordMode, isEndlessMode } from "./recordModes";
+import { isRecordMode } from "./recordModes";
 import type { PlayGroup } from "./ModePicker";
 import type { LeaderboardTarget } from "./leaderboard";
 import { familiarities } from "./familiarity";
@@ -21,12 +21,7 @@ import {
   type Difficulty,
   type Mode,
 } from "./model";
-import {
-  difficulties,
-  genreOf,
-  questionSourceOf,
-  questionSources,
-} from "./filters";
+import { difficulties, questionSources } from "./filters";
 import type { OnlineGameStore } from "./onlineGameStore";
 import { readRoundSetup } from "./roundSetup";
 import { careerProgress } from "./career";
@@ -43,7 +38,6 @@ import {
   unlockSound,
 } from "./feedback";
 import type { Page, DuelPage, Mutate } from "./uiTypes";
-import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
 import { PlaySetup } from "./PlaySetup";
 import type { WriteOptions } from "./syncTypes";
@@ -127,7 +121,6 @@ export function App({
   const [leaderboardTarget, setLeaderboardTarget] =
     useState<LeaderboardTarget>();
   const [duelPlaying, setDuelPlaying] = useState(false);
-  const [index, setIndex] = useState(0);
   const [ranked, setRanked] = useState<{
     session: RankedSession;
     setup: RankedSetup;
@@ -141,6 +134,7 @@ export function App({
   const heading = useRef<HTMLElement>(null);
   const booted = useRef(false);
   const inFlight = useRef(false);
+  const navigating = useRef(false);
   useEffect(
     () =>
       store.subscribe((next) => {
@@ -211,12 +205,12 @@ export function App({
       setJustCompleted("");
       immediateResult.current = undefined;
     }
-  }, [page, index, topicScope]);
+  }, [page, topicScope]);
   useEffect(() => {
     if (page === "result") heading.current?.focus();
   }, [page]);
   const mutate: Mutate = async (fn, options = { progressOnly: true }) => {
-    if (inFlight.current) return null;
+    if (inFlight.current || navigating.current) return null;
     inFlight.current = true;
     setBusy(true);
     setError("");
@@ -245,70 +239,79 @@ export function App({
     }
   };
   const nav = async (next: Page | DuelPage, target?: LeaderboardTarget) => {
-    if (busy) return;
-    if (learning) {
-      if (learning.session.hasPending) {
-        setError("Bestätige zuerst die ausstehende Anfrage.");
-        return;
-      }
-      try {
-        setState(await store.refresh());
-      } catch (e) {
-        setError(e instanceof Error ? e.message : String(e));
-        return;
-      }
-      const r = learning.session.run;
-      if (r?.status === "active") setActiveLearning(learning.session.round());
-      setLearning(null);
-    }
-    if (ranked) {
-      if (ranked.session.isWriting) return;
-      try {
-        await ranked.session.abort();
-        await store.retry();
-        const session = ranked.session;
-        const saved =
-          session.run && session.items.length
-            ? await store.update(
-                (s) =>
-                  importRankedHistory(s, {
-                    run: session.run!,
-                    items: session.items,
-                  }),
-                { progressOnly: false, reuseCatalog: true },
-              )
-            : store.read();
-        setState(saved);
-        setRanked(null);
-      } catch (e) {
-        setError(e instanceof Error ? e.message : String(e));
-        return;
-      }
-    }
-    if (page === "result" || page === "duels") {
-      const saved = await mutate(archiveClosedRounds, {
-        progressOnly: false,
-        reuseCatalog: true,
-      });
-      if (!saved) return;
-    }
-    if (next === "topics") setTopicScope(null);
-
-    if (
-      page === "round" &&
-      state?.rounds.some((r) => r.id === roundId && isRecordMode(r.mode))
-    ) {
-      const saved = await mutate((s) => {
-        const r = s.rounds.find((r) => r.id === roundId);
-        if (r?.status === "active") {
-          r.status = "aborted";
-          r.finishedAt = Date.now();
+    if (busy || inFlight.current || navigating.current) return;
+    navigating.current = true;
+    setBusy(true);
+    try {
+      if (learning) {
+        if (learning.session.hasPending) {
+          setError("Bestätige zuerst die ausstehende Anfrage.");
+          return;
         }
-      });
-      if (!saved) return;
+        try {
+          setState(await store.refresh());
+        } catch (e) {
+          setError(e instanceof Error ? e.message : String(e));
+          return;
+        }
+        const r = learning.session.run;
+        if (r?.status === "active") setActiveLearning(learning.session.round());
+        setLearning(null);
+      }
+      if (ranked) {
+        if (ranked.session.isWriting) return;
+        try {
+          await ranked.session.abort();
+          await store.retry();
+          const session = ranked.session;
+          const saved =
+            session.run && session.items.length
+              ? await store.update(
+                  (s) =>
+                    importRankedHistory(s, {
+                      run: session.run!,
+                      items: session.items,
+                    }),
+                  { progressOnly: false, reuseCatalog: true },
+                )
+              : store.read();
+          setState(saved);
+          setRanked(null);
+        } catch (e) {
+          setError(e instanceof Error ? e.message : String(e));
+          return;
+        }
+      }
+      if (page === "result" || page === "duels") {
+        const saved = await store.update(archiveClosedRounds, {
+          progressOnly: false,
+          reuseCatalog: true,
+        });
+        setState(saved);
+      }
+      if (next === "topics") setTopicScope(null);
+
+      if (
+        page === "round" &&
+        state?.rounds.some((r) => r.id === roundId && isRecordMode(r.mode))
+      ) {
+        const saved = await store.update((s) => {
+          const r = s.rounds.find((r) => r.id === roundId);
+          if (r?.status === "active") {
+            r.status = "aborted";
+            r.finishedAt = Date.now();
+          }
+        });
+        setState(saved);
+      }
+      if (next === "leaderboard") setLeaderboardTarget(target);
+      setPage(next);
+    } catch (e) {
+      setError(e instanceof Error ? e.message : String(e));
+    } finally {
+      navigating.current = false;
+      setBusy(false);
     }
-    if (next === "leaderboard") setLeaderboardTarget(target);
-    setPage(next);
   };
   useEffect(() => {
     const invitation = () => {
@@ -432,6 +435,28 @@ export function App({
   const roundTopic = standard
     ? "Alle Themen"
     : selectionTopic(selectedCategories, selectedSources);
+  const showCompletedRound = (review: Round, saved: State) => {
+    const unlocks = serverUnlocks(state, saved);
+    const promoted = careerProgress(saved.experience);
+    const promotion =
+      promoted.level > careerProgress(state.experience).level
+        ? promoted
+        : undefined;
+    setCelebration(
+      unlocks.length || promotion
+        ? {
+            roundId: review.id,
+            unlocks,
+            ...(promotion ? { promotion } : {}),
+          }
+        : null,
+    );
+    setState(saved);
+    setRoundId(review.id);
+    setJustCompleted(review.id);
+    immediateResult.current = review;
+    setPage("result");
+  };
   const begin = async (requestedMode: Mode = mode) => {
     unlockSound(state.settings);
     const next = await mutate((s) => {
@@ -458,8 +483,6 @@ export function App({
       if (isRecordMode(requestedMode)) s.settings.lastTimedMode = requestedMode;
       else s.settings.lastLearningMode = requestedMode;
       s.settings.spoilers = true;
-      if (isRecordMode(requestedMode)) return;
-      return;
     });
     if (next) {
       playFeedback("start", next.settings);
@@ -580,6 +603,7 @@ export function App({
                   : undefined
               }
               onClick={() => void nav(p)}
+              disabled={busy}
               aria-description={p === "account" ? sync?.text : undefined}
             >
               <span aria-hidden="true" className="nav-symbol">
@@ -723,6 +747,7 @@ export function App({
                   setup={ranked.setup}
                   store={store}
                   state={state}
+                  disabled={busy}
                   mutate={mutate}
                   onBusy={setBusy}
                   onExit={() => void nav("home")}
@@ -742,28 +767,8 @@ export function App({
                         }),
                       { progressOnly: false, reuseCatalog: true },
                     );
-                    const unlocks = serverUnlocks(state, saved);
-                    const promoted = careerProgress(saved.experience);
-                    setCelebration(
-                      unlocks.length ||
-                        promoted.level > careerProgress(state.experience).level
-                        ? {
-                            roundId: review.id,
-                            unlocks,
-                            ...(promoted.level >
-                            careerProgress(state.experience).level
-                              ? { promotion: promoted }
-                              : {}),
-                          }
-                        : null,
-                    );
-                    setState(saved);
-                    setRoundId(review.id);
-                    setJustCompleted(review.id);
-                    immediateResult.current = review;
+                    showCompletedRound(review, saved);
                     setRanked(null);
-
-                    setPage("result");
                   }}
                 />
               )}
@@ -773,35 +778,16 @@ export function App({
                   setup={learning.setup}
                   resumeId={learning.resumeId}
                   state={state}
+                  disabled={busy}
                   mutate={mutate}
                   onBusy={setBusy}
                   onExit={() => void nav("home")}
                   onFinish={async () => {
                     const review = learning.session.round();
                     const saved = await store.refresh();
-                    const unlocks = serverUnlocks(state, saved);
-                    const promoted = careerProgress(saved.experience);
-                    setCelebration(
-                      unlocks.length ||
-                        promoted.level > careerProgress(state.experience).level
-                        ? {
-                            roundId: review.id,
-                            unlocks,
-                            ...(promoted.level >
-                            careerProgress(state.experience).level
-                              ? { promotion: promoted }
-                              : {}),
-                          }
-                        : null,
-                    );
-                    setState(saved);
+                    showCompletedRound(review, saved);
                     setActiveLearning(undefined);
-                    setRoundId(review.id);
-                    setJustCompleted(review.id);
-                    immediateResult.current = review;
                     setLearning(null);
-
-                    setPage("result");
                   }}
                 />
               )}

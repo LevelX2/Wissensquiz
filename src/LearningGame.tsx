@@ -4,11 +4,13 @@ import type { Mutate } from "./uiTypes";
 import { LearningSession, type LearningSetup } from "./learningRuns";
 import { QuestionScreen } from "./QuestionScreen";
 import { playFeedback } from "./feedback";
+import { useAsyncAction } from "./useAsyncAction";
 export function LearningGame({
   session,
   setup,
   resumeId,
   state,
+  disabled,
   mutate,
   onExit,
   onFinish,
@@ -18,35 +20,15 @@ export function LearningGame({
   setup?: LearningSetup;
   resumeId?: string;
   state: State;
+  disabled: boolean;
   mutate: Mutate;
   onExit: () => void;
   onFinish: () => Promise<void>;
   onBusy: (busy: boolean) => void;
 }) {
-  const started = useRef(false),
-    [, render] = useState(0),
-    [busy, setBusy] = useState(false),
-    [error, setError] = useState(""),
-    [guessed, setGuessed] = useState(false);
-  const failedWork = useRef<(() => Promise<unknown>) | undefined>(undefined);
-  const work = async <T,>(fn: () => Promise<T>) => {
-    setBusy(true);
-    onBusy(true);
-    setError("");
-    failedWork.current = undefined;
-    try {
-      const r = await fn();
-      render((n) => n + 1);
-      return r;
-    } catch (e) {
-      failedWork.current = fn;
-      setError(e instanceof Error ? e.message : String(e));
-      return null;
-    } finally {
-      setBusy(false);
-      onBusy(false);
-    }
-  };
+  const started = useRef(false);
+  const [guessed, setGuessed] = useState(false);
+  const { work, busy, error, failedWork } = useAsyncAction(onBusy);
   useEffect(() => {
     if (started.current) return;
     started.current = true;
@@ -65,7 +47,7 @@ export function LearningGame({
         <div role="alert" className="notice error">
           {error}
           <button
-            disabled={busy}
+            disabled={busy || disabled}
             onClick={() =>
               void work(
                 session.hasPending
@@ -84,7 +66,10 @@ export function LearningGame({
       {!screen ? (
         <>
           <p role="status">Deine Runde wird vorbereitet …</p>
-          <button disabled={busy || session.hasPending} onClick={onExit}>
+          <button
+            disabled={busy || disabled || session.hasPending}
+            onClick={onExit}
+          >
             Zurück zum Spielen
           </button>
         </>
@@ -96,7 +81,7 @@ export function LearningGame({
           index={screen.index}
           state={screen.state}
           mutate={mutate}
-          busy={busy || session.hasPending}
+          busy={busy || disabled || session.hasPending}
           onExit={onExit}
           hasNext={session.run!.answered < session.run!.size}
           onGuessed={guessed}

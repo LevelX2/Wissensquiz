@@ -1,5 +1,4 @@
 import { useServer, useServerView } from "./serverViews";
-import type { questionHistory } from "./questionHistory";
 import type { AnswerEvent, Question } from "./model";
 
 export function QuestionStatus({
@@ -12,9 +11,7 @@ export function QuestionStatus({
   currentEventId?: string;
 }) {
   const server = useServer();
-  const history = useServerView<
-    ReturnType<typeof questionHistory> & { question: { seen: number } }
-  >(
+  const history = useServerView(
     server
       ? {
           action: "question-history",

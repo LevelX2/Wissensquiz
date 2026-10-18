@@ -8,14 +8,10 @@ import { discoveryMedals } from "./discoveryMilestones";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import { learningPathProgress } from "./learningPath";
 import { JourneyUnlockIcon } from "./JourneyUnlockIcon";
-import {
-  useServerView,
-  type LearningOverview,
-  type Journey,
-} from "./serverViews";
+import { useServerView, type Journey } from "./serverViews";
 
 export function JourneyOverview() {
-  const { value, error, retry } = useServerView<LearningOverview>({
+  const { value, error, retry } = useServerView({
     action: "summary",
   });
   if (!value)

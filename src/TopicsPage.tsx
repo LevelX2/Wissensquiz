@@ -1,4 +1,4 @@
-import { useServerView, type TopicSummary } from "./serverViews";
+import { useServerView } from "./serverViews";
 import { ServerTopicList } from "./ServerTopicList";
 
 import { type State, type RoundSetup } from "./model";
@@ -34,7 +34,7 @@ export function TopicsPage({
   genres: string[];
   playGenre: (genre: string) => Promise<void>;
 }) {
-  const areas = useServerView<TopicSummary[]>({ action: "areas" });
+  const areas = useServerView({ action: "areas" });
   const summaries = new Map(areas.value?.map((a) => [a.topic, a]));
   return (
     <>

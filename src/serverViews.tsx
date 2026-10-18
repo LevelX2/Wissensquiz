@@ -1,33 +1,20 @@
 import { createContext, useContext, useEffect, useRef, useState } from "react";
-import { z } from "zod";
 import type { SyncRemote } from "./entryRemote";
-import type { learningOverview } from "./learningProgress";
-import type { learningPathProgress } from "./learningPath";
-export const contentInfoSchema = z.object({
-  hash: z.string(),
-  questions: z.number().int(),
-  goals: z.number().int(),
-  genres: z.array(z.string()),
-  areas: z.number().int(),
-});
-export type ContentInfo = z.infer<typeof contentInfoSchema>;
-export type LearningOverview = ReturnType<typeof learningOverview>;
-export type Journey = Record<
-  string,
-  ReturnType<ReturnType<typeof learningPathProgress>>
->;
-export type SelectionView = {
-  poolSize: number;
-  selectionSize: number;
-  repetitions: { due: number; later: number; nextAt: number | null };
-  journey: Journey;
-};
-export type TopicSummary = {
-  topic: string;
-  genres: string[];
-  goals: number;
-  learning: LearningOverview;
-};
+import {
+  parseServerView,
+  type ContentInfo,
+  type ViewAction,
+  type ViewRequest,
+  type ViewResult,
+} from "./serverViewSchemas";
+export { contentInfoSchema } from "./serverViewSchemas";
+export type {
+  ContentInfo,
+  LearningOverview,
+  Journey,
+  SelectionView,
+  TopicSummary,
+} from "./serverViewSchemas";
 export const ServerContext = createContext<{
   api: SyncRemote;
   info: ContentInfo;
@@ -41,8 +28,9 @@ const views = new WeakMap<
   SyncRemote,
   Map<string, { expires: number; promise: Promise<unknown> }>
 >();
-function readView<T>(
+export function readView<K extends ViewAction>(
   api: SyncRemote,
+  action: K,
   key: string,
   revision: number,
   fresh = false,
@@ -55,8 +43,10 @@ function readView<T>(
   const id = revision + ":" + key,
     old = cache.get(id);
   if (!fresh && old && old.expires > Date.now())
-    return old.promise as Promise<T>;
-  const promise = api.call<T>("quiz_game_view", { request_text: key });
+    return old.promise as Promise<ViewResult<K>>;
+  const promise = api
+    .call<unknown>("quiz_game_view", { request_text: key })
+    .then((value) => parseServerView(action, value));
   cache.set(id, { expires: Date.now() + 30000, promise });
   if (cache.size > 40) cache.delete(cache.keys().next().value!);
   promise.catch(() => {
@@ -64,14 +54,16 @@ function readView<T>(
   });
   return promise;
 }
-export function useServerView<T>(request: object | null) {
+export function useServerView<K extends ViewAction>(
+  request: ViewRequest<K> | null,
+) {
   const server = useServer(),
     key = JSON.stringify(request);
   const pending = useRef(false);
   const [result, setResult] = useState<{
       key: string;
       revision: number;
-      value: T;
+      value: ViewResult<K>;
     }>(),
     [error, setError] = useState(""),
     [attempt, retry] = useState(0);
@@ -80,7 +72,7 @@ export function useServerView<T>(request: object | null) {
     let alive = true;
     pending.current = true;
     setError("");
-    readView<T>(server.api, key, server.revision, attempt > 0)
+    readView(server.api, request.action, key, server.revision, attempt > 0)
       .then((value) => {
         if (alive) setResult({ key, revision: server.revision, value });
       })

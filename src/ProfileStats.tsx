@@ -3,14 +3,11 @@ import { hasAnswer, type State } from "./model";
 import { careerProgress } from "./career";
 import { isRecordMode } from "./recordModes";
 import { learningOverview } from "./learningProgress";
-import { useServer, useServerView, type LearningOverview } from "./serverViews";
+import { useServer, useServerView } from "./serverViews";
 import { ProfileSection } from "./ProfileSection";
 import { localAchievements } from "./achievements";
 import { Achievements } from "./AchievementsPanel";
-import {
-  localLearningAchievements,
-  type LearningAchievements,
-} from "./learningAchievements";
+import { localLearningAchievements } from "./learningAchievements";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -47,29 +44,12 @@ export function ProfileStats({ state }: { state: State }) {
   const [achievementsOpen, setAchievementsOpen] = useState(false);
   const localStats = useMemo(() => profileStats(state), [state]);
   const stats = { ...localStats };
-  const totals = useServerView<{
-    statistics: Pick<
-      ReturnType<typeof profileStats>,
-      | "played"
-      | "completed"
-      | "answered"
-      | "correct"
-      | "encountered"
-      | "recordRounds"
-      | "accuracy"
-      | "perfectTens"
-      | "zeroTens"
-      | "mastered"
-    >;
-    achievements: LearningAchievements;
-  }>(
+  const totals = useServerView(
     server && (learningOpen || statisticsOpen || achievementsOpen)
       ? { action: "profile-progress" }
       : null,
   );
-  const summary = useServerView<LearningOverview>(
-    learningOpen ? { action: "summary" } : null,
-  );
+  const summary = useServerView(learningOpen ? { action: "summary" } : null);
   const learning = summary.value ?? stats.learning;
   if (summary.value) {
     stats.totalGoals = summary.value.maximum / 4;

@@ -39,6 +39,7 @@ export class OnlineGameStore {
   private metadata?: SyncMetadata;
   private positionHeads: Record<string, number | null> = {};
   private writing = false;
+  private refreshing?: Promise<State>;
   private stopped = false;
   private pending?: {
     state: State;
@@ -196,9 +197,16 @@ export class OnlineGameStore {
       if (!used.has(hash)) doc.objects.delete(hash);
     return doc;
   }
-  async refresh() {
+  refresh(): Promise<State> {
     if (this.writing || this.pending)
-      throw new Error("Bestätige zuerst die ausstehende Speicherung.");
+      return Promise.reject(
+        new Error("Bestätige zuerst die ausstehende Speicherung."),
+      );
+    return (this.refreshing ??= this.loadCurrent().finally(() => {
+      this.refreshing = undefined;
+    }));
+  }
+  private async loadCurrent() {
     const metadata = await getMetadata(this.api, this.owner);
     if (!metadata.generation) throw new Error("Der Online-Spielstand fehlt.");
     const loaded = await downloadDocument(
@@ -210,6 +218,7 @@ export class OnlineGameStore {
       undefined,
       { kind: "boot" },
     );
+    if (this.stopped) throw new Error("Das Konto wurde geschlossen.");
     this.positionHeads = loaded.positions ?? this.positionHeads;
     this.document = loaded.document;
     this.metadata = metadata;
@@ -290,6 +299,10 @@ export class OnlineGameStore {
     mutator: (state: State) => void,
     options: WriteOptions = {},
   ): Promise<State> {
+    if (this.refreshing)
+      throw new Error(
+        "Dein Spielstand wird gerade aktualisiert. Versuche es danach erneut.",
+      );
     if (this.writing)
       throw new Error("Dein Spielstand wird gerade online gespeichert.");
     if (this.pending)

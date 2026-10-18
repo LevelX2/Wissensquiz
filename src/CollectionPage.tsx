@@ -1,8 +1,6 @@
-import { useServerView, type LearningOverview } from "./serverViews";
+import { useServerView } from "./serverViews";
 import { ServerTopicList } from "./ServerTopicList";
 
-import { answeredTopics } from "./collection";
-import { badgeEligible } from "./engine";
 import { type State, type RoundSetup } from "./model";
 import { roundGenres, roundDifficulties } from "./filters";
 import { AchievementIcon } from "./AchievementIcon";
@@ -12,10 +10,8 @@ import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
 import type { Page, DuelPage } from "./uiTypes";
 import { historicalModeName, formatDate } from "./gameUi";
-import { TopicCard } from "./TopicCard";
 import type * as React from "react";
 import { roundQuestionCount } from "./roundArchive";
-import { learningOverview } from "./learningProgress";
 import { DiscoveryMedals } from "./DiscoveryMedals";
 import { PerfectRoundBadges } from "./PerfectRoundBadges";
 
@@ -35,12 +31,7 @@ export function CollectionPage({
   changeSetup: (patch: Partial<RoundSetup>) => Promise<State | null>;
 }) {
   const completed = state.rounds.filter((r) => r.status === "completed");
-  const summary = useServerView<
-    LearningOverview & {
-      badge: { available: number; mastered: number };
-      perfectTens: number;
-    }
-  >({ action: "summary" });
+  const summary = useServerView({ action: "summary" });
   const learning = summary.value ?? {
     unseen: 0,
     discovered: 0,

@@ -151,3 +151,58 @@ it("sendet bei unverändertem Spielstand kein Schreibpaket und beendet geschloss
   store.stop();
   expect(() => store.read()).toThrow("nicht geöffnet");
 });
+
+it("verhindert das Überschreiben einer Speicherung durch einen verzögerten Aktualisierungsabruf", async () => {
+  const { api, owner } = await fixture.client();
+  let hold = false,
+    release!: () => void,
+    received!: () => void;
+  const gate = new Promise<void>((resolve) => {
+    release = resolve;
+  });
+  const responseReady = new Promise<void>((resolve) => {
+    received = resolve;
+  });
+  const store = new OnlineGameStore(
+    {
+      stop: () => api.stop(),
+      async call<T>(
+        name: string,
+        args: Record<string, unknown>,
+        timeout?: number,
+      ): Promise<T> {
+        const value = await api.call<T>(name, args, timeout);
+        if (
+          hold &&
+          name === "quiz_sync_scope_page" &&
+          args.scope_text === '{"kind":"boot"}'
+        ) {
+          received();
+          await gate;
+        }
+        return value;
+      },
+    },
+    owner,
+  );
+  await store.open();
+  hold = true;
+  const refresh = store.refresh();
+  await responseReady;
+  expect(store.refresh()).toBe(refresh);
+  try {
+    await expect(
+      store.update((s) => {
+        s.settings.sound = false;
+      }),
+    ).rejects.toThrow("aktualisiert");
+  } finally {
+    release();
+  }
+  await refresh;
+  await store.update((s) => {
+    s.settings.sound = false;
+  });
+  expect(store.read().settings.sound).toBe(false);
+  store.stop();
+});

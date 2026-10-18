@@ -12,9 +12,8 @@ import {
 import { GenreArtwork } from "./Icons";
 import { repetitionContext } from "./errorTraining";
 import { useForegroundTime } from "./useForegroundTime";
-import type { LearningEvidence } from "./learningProgress";
 import { roundSummary } from "./roundSummary";
-import { careerSummary, type XpBreakdown } from "./career";
+import { careerSummary } from "./career";
 import { RoundExperience } from "./CareerProgress";
 import { historicalModeName, formatDate } from "./gameUi";
 import { Explanation } from "./Explanation";
@@ -23,11 +22,7 @@ import { QuestionHistory } from "./QuestionHistoryPanel";
 import { useServer, useServerView } from "./serverViews";
 import type { PathUnlock } from "./learningPath";
 import { UnlockCelebration } from "./UnlockCelebration";
-import {
-  localAchievements,
-  reachedAchievements,
-  type AchievementCounts,
-} from "./achievements";
+import { localAchievements, reachedAchievements } from "./achievements";
 import { perfectRoundLabel, perfectRoundMilestones } from "./perfectRounds";
 import { AchievementProgress } from "./AchievementsPanel";
 import { celebrationTier } from "./successTiers";
@@ -35,7 +30,6 @@ import { playFeedback } from "./feedback";
 import {
   localLearningAchievementReward,
   reachedLearningAchievements,
-  type LearningAchievementReward,
 } from "./learningAchievements";
 
 export function Result({
@@ -75,15 +69,7 @@ export function Result({
     () => (remoteReward ? null : careerSummary(state)),
     [state, remoteReward],
   );
-  const serverReward = useServerView<{
-    xp?: XpBreakdown;
-    learning?: (LearningEvidence & { eventId: string })[];
-    before?: number;
-    after?: number;
-    perfectTens: number;
-    achievements: AchievementCounts;
-    learningAchievements?: LearningAchievementReward | null;
-  } | null>(
+  const serverReward = useServerView(
     remoteReward ? { action: "round-experience", scope: round.id } : null,
   );
   const roundXp = remoteReward
@@ -137,7 +123,7 @@ export function Result({
   );
   const { events, correct, improved, secured: secure } = summary;
   const now = useForegroundTime();
-  const repetitions = useServerView<{ due: number; nextAt: number | null }>(
+  const repetitions = useServerView(
     server && !trialActions
       ? {
           action: "round-repetitions",

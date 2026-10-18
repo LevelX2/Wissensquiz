@@ -1,5 +1,5 @@
 import { type ReactNode } from "react";
-import { type Mode, type Round } from "./model";
+import { type Round } from "./model";
 
 export { modeNames } from "./recordModes";
 import { modeNames } from "./recordModes";

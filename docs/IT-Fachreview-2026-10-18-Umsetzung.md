@@ -8,7 +8,7 @@ Auftrag vom 18.10.2026: die [16 Vorschläge](IT-Fachreview-2026-10-18.md) geordn
 | --- | --- | --- |
 | 1 Bedienung und Hinweise | 1, 4, 10, 11 | Umgesetzt; TypeScript/Build und zwölf unterschiedliche Browserfälle erfolgreich |
 | 2 Bilder und Lesbarkeit | 2, 3, 12 | Umgesetzt; Build, 18 Browserfälle und visuelle Prüfung erfolgreich |
-| 3 Robuste Abläufe | 5, 8, 9, 16 | Laufzeitverträge, gemeinsame Steuerung, gezielte Konkurrenzprüfung und statischer Check; offen |
+| 3 Robuste Abläufe | 5, 8, 9, 16 | Umgesetzt; statischer Check, 17 gezielte Logiktests und 18 Browserfälle erfolgreich |
 | 4 Start und Wachstum | 6, 7, 15 | Begrenzte technische Belege, kleinere Startabhängigkeiten und aktueller synthetischer Last-/Wachstumsnachweis; offen |
 | 5 Spieler und Geräte | 13, 14 | Ausführbare Spieler-/Geräteabnahme; echte Beobachtung nach Verfügbarkeit, Ergebnisse nicht simulieren; offen |
 
@@ -31,6 +31,14 @@ Pflichtfotos geben Antworten erst nach erfolgreichem Laden und Dekodieren frei. 
 59 WebP-Varianten für 16 Genres, drei Modi und die Lobby umfassen zusammen 1.310.794 Bytes; die 20 unveränderten Originale 29.321.879 Bytes. `scripts/prepare-ui-artwork.mjs` erzeugt die gepflegten Laufzeitassets mit ImageMagick. Größenwahl über `srcset`/`sizes`, keine eingebetteten Bildbytes im JavaScript. Dies ist ein Dateigrößenvergleich, kein Nachweis einer gleich großen Einsparung beim Start. Mobile bedeutungstragende Themen-/Modustexte verwenden mindestens 12 Pixel bei normaler Basisschrift, wichtige Aktionen 13 Pixel; Lernstufen umbrechen abhängig vom Platz.
 
 18 unterschiedliche Browserfälle in Chromium/mobilem WebKit erfolgreich: je vier Pflichtbildfälle (verzögert/404, Lernen/Zeit), bestehender Foto-/Namens-/Nachweisablauf, Themen bei 320/390 Pixeln und 200 Prozent Basisschrift, Moduswahl über mehrere Breiten sowie Genre-, Preis- und Lernstufenabläufe. Normale und vergrößerte Themenansicht visuell gesichtet, kein horizontaler Überlauf. Der erste synthetische Bildkatalog enthielt keine Filmkategorie und wurde durch den vorhandenen Inhaltsvertrag korrekt abgewiesen; Testaufbau um eine außerhalb der Runde liegende Filmfrage ergänzt, vollständige Nachprüfung erfolgreich. Keine Katalog-/Lernregeländerung.
+
+## Abnahme von Block 3
+
+Alle neun von der Oberfläche verwendeten Übersichtsaktionen besitzen einen Zod-Laufzeitvertrag; der Antworttyp ergibt sich aus der angefragten Aktion. Ungültige Antworten werden vor dem Cachen verworfen, die Oberfläche bietet Wiederholung. Zehn neue Logikfälle prüfen echte SQL-Antworten samt vollständigem Rundenabschluss, gezielt falsche/unvollständige Antworten und Cache-Wiederholung. Der gemeinsame Aktionshook schützt Lern-/Zeitspiel vor doppelter Ausführung und erhält Fehler-/Wiederholungsabsichten; der gemeinsame Ergebnisübergang bewahrt Erfolge, Level und Freischaltungen.
+
+Die Konkurrenzhypothese wurde konkret bestätigt: Ein verzögerter Boot-Abruf ließ vorher eine zwischenzeitliche Speicherung zu. Aktualisierungen werden nun geteilt und sperren Schreibzugriffe für ihre Dauer; Seitenwechsel besitzen eine sofort wirksame Sperre bis zu den Spielknöpfen. Sieben Speicherfälle einschließlich neuer Konkurrenzprüfung bestanden. `npm run check` prüft ungenutzte Namen im Quellcode; belegte Reste entfernt. Keine Ausweitung des Checks auf historische Testvariablen.
+
+18 unterschiedliche Browserfälle in Chromium, Firefox und mobilem WebKit erfolgreich: ungültige Themenantwort mit Wiederholung, Profil-/Lernübersichtsfehler, verlorene Antwort-/Abbruchbestätigungen, verzögertes Pausieren, Serverrunde mit zehn Antworten/Fortsetzen/Neuladen/Reset sowie gemeinsame Feier und Profil. Zwei umfangreiche Firefox-Abläufe überschritten zunächst 60 Sekunden; bei größerem funktionalem Testbudget nachgeprüft und mit etwa 1,3 beziehungsweise 2,1 Minuten erfolgreich. Der neue Pausenfall zeigte zunächst die fehlende Weitergabe der Sperre an Spielknöpfe; korrigiert und in allen drei Browsern erfolgreich. Ein während der Vorbereitung unterbrochener Lauf verwendete noch die alte Testausnahme für Betreiber-Migrationen; seine Fehlversuche sind kein Prüfnachweis. TypeScript/Build, statischer Check und Diff-Prüfung erfolgreich.
 
 ## Ausgangsmessung
 

@@ -10,7 +10,6 @@ import {
 import type { Round, State } from "./model";
 import { roundFacts, roundQuestionCount } from "./roundArchive";
 import {
-  isRecordMode,
   isRankedRecord,
   isEndlessMode,
   modeNames,

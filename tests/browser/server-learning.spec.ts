@@ -14,6 +14,52 @@ import { familiarityOf } from "../../src/familiarity";
 
 test.use({ acknowledgeIncidentalSuccess: true });
 
+test("Verzögertes Pausieren sperrt weitere Aktionen und erhält die bestätigte Antwort", async ({
+  page,
+}) => {
+  await fixCalendarTime(page, new Date("2026-10-18T10:00:00Z"));
+  await page.goto("/");
+  await page.getByRole("button", { name: "Losspielen" }).click();
+  await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
+  await expect(
+    page.getByRole("button", { name: /Nächste Frage/ }),
+  ).toBeEnabled();
+  let release!: () => void;
+  const gate = new Promise<void>((resolve) => {
+    release = resolve;
+  });
+  let held = 0;
+  await page.route("**/rpc/quiz_sync_scope_page", async (route) => {
+    if (route.request().postDataJSON().scope_text === '{"kind":"boot"}') {
+      held++;
+      await gate;
+    }
+    await route.fallback();
+  });
+  try {
+    const pause = page.getByRole("button", { name: "Pause & Startseite" });
+    await pause.click();
+    await expect.poll(() => held).toBe(1);
+    await expect(pause).toBeDisabled();
+    await expect(
+      page.getByRole("button", { name: /Nächste Frage/ }),
+    ).toBeDisabled();
+    await pause.evaluate((button: HTMLButtonElement) => {
+      button.click();
+      button.click();
+    });
+    expect(held).toBe(1);
+  } finally {
+    release();
+  }
+  await expect(page.getByRole("button", { name: "Fortsetzen" })).toBeEnabled();
+  await page.getByRole("button", { name: "Fortsetzen" }).click();
+  await expect(
+    page.getByRole("button", { name: /Nächste Frage/ }),
+  ).toBeEnabled();
+  expect((await readStoredState(page)).events).toHaveLength(1);
+});
+
 test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen", async ({
   page,
 }) => {
@@ -225,13 +271,22 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
   page,
 }) => {
   await fixCalendarTime(page, new Date("2026-10-11T12:00:00+02:00"));
-  const adventure = accountBackend(page).release.questions.filter(q =>
-    questionSourceOf(q) === "film" && genreOf(q) === "Abenteuer",
+  const adventure = accountBackend(page).release.questions.filter(
+    (q) => questionSourceOf(q) === "film" && genreOf(q) === "Abenteuer",
   );
-  const half = (difficulty: "leicht" | "mittel") => Math.ceil(
-    new Set(adventure.filter(q => q.difficulty === difficulty).map(q => q.knowledgeId)).size / 2,
+  const half = (difficulty: "leicht" | "mittel") =>
+    Math.ceil(
+      new Set(
+        adventure
+          .filter((q) => q.difficulty === difficulty)
+          .map((q) => q.knowledgeId),
+      ).size / 2,
+    );
+  const firstGroup = new Set(
+    adventure
+      .filter((q) => q.difficulty === "leicht" && familiarityOf(q) === 1)
+      .map((q) => q.knowledgeId),
   );
-  const firstGroup = new Set(adventure.filter(q => q.difficulty === "leicht" && familiarityOf(q) === 1).map(q => q.knowledgeId));
   expect(firstGroup.size).toBeGreaterThan(0);
   const groupTarget = Math.ceil(firstGroup.size / 2);
   await page.goto("/");
@@ -417,7 +472,12 @@ test("zeigt genreübergreifende Entdecker-Medaillen ab 50 und 100 Zielen auch na
 
 test("lädt keinen Katalog, setzt eine Serverrunde fort und speichert zehn Antworten", async ({
   page,
+  browserName,
 }) => {
+  test.slow(
+    browserName === "firefox",
+    "Zehn Antworten, Fortsetzen, Neuladen und Zurücksetzen im Firefox-Testbrowser",
+  );
   await fixCalendarTime(page, new Date("2026-10-11T12:00:00+02:00"));
   const catalogs: string[] = [];
   page.on("request", (r) => {

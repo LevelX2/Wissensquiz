@@ -7,12 +7,14 @@ import { QuestionScreen } from "./QuestionScreen";
 import { rankedRead, RankedSession, type RankedSetup } from "./rankedRuns";
 import { RankedRunError } from "./rankedErrors";
 import { playFeedback } from "./feedback";
+import { useAsyncAction } from "./useAsyncAction";
 
 export function RankedGame({
   session,
   setup,
   store,
   state,
+  disabled,
   mutate,
   onExit,
   onFinish,
@@ -22,31 +24,19 @@ export function RankedGame({
   setup: RankedSetup;
   store: OnlineGameStore;
   state: State;
+  disabled: boolean;
   mutate: Mutate;
   onExit: () => void;
   onFinish: () => Promise<void>;
   onBusy: (busy: boolean) => void;
 }) {
-  const [, render] = useState(0),
-    [busy, setBusy] = useState(false),
-    [error, setError] = useState(""),
-    [blocked, setBlocked] = useState<string | null>(null),
+  const [blocked, setBlocked] = useState<string | null>(null),
     [guessed, setGuessed] = useState(false);
   const started = useRef(false);
   const blockedAbort = useRef<string | undefined>(undefined);
-  const failedWork = useRef<(() => Promise<unknown>) | undefined>(undefined);
-  const work = async <T,>(fn: () => Promise<T>): Promise<T | null> => {
-    setBusy(true);
-    onBusy(true);
-    setError("");
-    failedWork.current = undefined;
-    try {
-      const result = await fn();
-      render((n) => n + 1);
-      return result;
-    } catch (e) {
-      failedWork.current = fn;
-      setError(e instanceof Error ? e.message : String(e));
+  const { work, busy, error, failedWork } = useAsyncAction(
+    onBusy,
+    async (e) => {
       if (e instanceof RankedRunError && e.code === "ranked_active") {
         try {
           const status = await rankedRead(
@@ -56,17 +46,11 @@ export function RankedGame({
           );
           setBlocked(status.activeId);
         } catch {
-          setError(
-            "Die laufende Zeitrunde konnte nicht geprüft werden. Versuche es erneut.",
-          );
+          return "Die laufende Zeitrunde konnte nicht geprüft werden. Versuche es erneut.";
         }
       }
-      return null;
-    } finally {
-      setBusy(false);
-      onBusy(false);
-    }
-  };
+    },
+  );
   useEffect(() => {
     if (started.current) return;
     started.current = true;
@@ -84,7 +68,7 @@ export function RankedGame({
           {error}
           {session.hasPending && (
             <button
-              disabled={busy}
+              disabled={busy || disabled}
               onClick={() => void work(() => session.retry())}
             >
               Erneut versuchen
@@ -92,7 +76,7 @@ export function RankedGame({
           )}
           {!session.hasPending && failedWork.current && screen && (
             <button
-              disabled={busy}
+              disabled={busy || disabled}
               onClick={() => void work(failedWork.current!)}
             >
               Erneut versuchen
@@ -108,7 +92,7 @@ export function RankedGame({
             verändert.
           </p>
           <button
-            disabled={busy}
+            disabled={busy || disabled}
             onClick={() =>
               void work(async () => {
                 await store.rankedRemote().call("quiz_ranked_call", {
@@ -136,10 +120,10 @@ export function RankedGame({
               ? "Zeitrunde wird vorbereitet …"
               : "Die Zeitrunde ist noch nicht gestartet."}
           </p>
-          <button disabled={busy} onClick={onExit}>
+          <button disabled={busy || disabled} onClick={onExit}>
             Zurück zum Spielen
           </button>
-          {!blocked && !session.hasPending && !busy && (
+          {!blocked && !session.hasPending && !busy && !disabled && (
             <button onClick={() => void work(() => session.start(setup))}>
               Zeitrunde erneut prüfen
             </button>
@@ -155,7 +139,7 @@ export function RankedGame({
           )}
           index={screen.index}
           state={screen.state}
-          busy={busy || session.hasPending}
+          busy={busy || disabled || session.hasPending}
           mutate={mutate}
           onExit={onExit}
           hasNext={session.run!.status === "active"}

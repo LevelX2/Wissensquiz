@@ -438,7 +438,12 @@ test("Ein Film gelernt: Meldung, Genre, EXP und nächstes Ziel im Profil", async
 
 test("Gleichwertige Embleme für Freischaltung, Level und Erfolge; dieselben Motive im Profil", async ({
   page,
+  browserName,
 }, testInfo) => {
+  test.slow(
+    browserName === "firefox",
+    "Feier und Profil einschließlich mehrerer Ansichtsgrößen im Firefox-Testbrowser",
+  );
   const now = new Date("2026-10-17T12:00:00+02:00");
   await fixCalendarTime(page, now);
   await page.setViewportSize({ width: 390, height: 844 });

@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 18.10.2026 – IT-Fachreview Block 3 lokal
+
+Laufzeitprüfung aller verwendeten Übersichten, gemeinsamer Aktions-/Ergebnisrahmen, geteilte Aktualisierung mit Schreibsperre und sofortige Navigationssperre sowie Prüfung ungenutzter Quellnamen umgesetzt. 17 gezielte Speicher-/Übersichtslogiktests und 18 unterschiedliche Browserfälle erfolgreich; Firefox-Nachprüfungen mit begründetem größerem Gesamtbudget bestanden. Die Sperrüberlappung war vor der Korrektur gezielt reproduziert. TypeScript/Build, `npm run check` und Diff-Prüfung erfolgreich. Isolierte synthetische Konten, keine Veröffentlichung. [Details und Grenzen](IT-Fachreview-2026-10-18-Umsetzung.md#abnahme-von-block-3).
+
 ## 18.10.2026 – IT-Fachreview Block 2 lokal
 
 Pflichtbildfreigabe nach Laden/Dekodieren, sichtbarer Fehler mit erneutem Abruf und unverändert laufender Serverzeit; WebP-Größenvarianten und lesbarere mobile Themen-/Modustexte umgesetzt. Build, 18 gezielte Browserfälle in Chromium/mobilem WebKit und visuelle Prüfung normaler/vergrößerter Themenansichten erfolgreich. Isolierte Konten, kontrollierte Zeit, keine produktiven Daten. 59 Varianten insgesamt 1.310.794 Bytes gegenüber 29.321.879 Bytes für die unveränderten Originale; kein pauschaler Startdownloadvergleich. [Abnahme](IT-Fachreview-2026-10-18-Umsetzung.md#abnahme-von-block-2).

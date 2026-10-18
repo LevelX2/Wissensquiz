@@ -1,5 +1,39 @@
-import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
+import {
+  modePreparation,
+  openRoundSetup,
+  test,
+  expect,
+  fixCalendarTime,
+} from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
+
+test("Ungültige Themenantwort zeigt einen Fehler und kann ohne Appabsturz erneut geladen werden", async ({
+  page,
+}) => {
+  await fixCalendarTime(page, new Date("2026-10-18T10:00:00Z"));
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  let invalid = true;
+  await page.route("**/rpc/quiz_game_view", async (route) => {
+    if (
+      invalid &&
+      JSON.parse(route.request().postDataJSON().request_text).action === "areas"
+    ) {
+      await route.fulfill({
+        json: [{ topic: "Test", learning: { percent: "unbekannt" } }],
+      });
+    } else await route.fallback();
+  });
+  await page.getByRole("button", { name: "Themen", exact: true }).click();
+  await expect(page.getByRole("alert")).toContainText("Serverübersicht");
+  await expect(page.locator(".topic-card")).toHaveCount(0);
+  invalid = false;
+  await page
+    .getByRole("button", { name: "Erneut versuchen", exact: true })
+    .click();
+  await expect(page.locator(".topic-card")).toHaveCount(16);
+  await expect(page.getByRole("alert")).toHaveCount(0);
+});
 
 test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe sind im Profil erreichbar", async ({
   page,

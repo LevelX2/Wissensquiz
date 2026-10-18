@@ -15,7 +15,7 @@ export function QuestionHistory({
   embedded?: boolean;
 }) {
   const server = useServer();
-  const history = useServerView<ReturnType<typeof questionHistory>>(
+  const history = useServerView(
     server
       ? {
           action: "question-history",
