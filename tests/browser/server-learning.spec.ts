@@ -14,6 +14,88 @@ import { familiarityOf } from "../../src/familiarity";
 
 test.use({ acknowledgeIncidentalSuccess: true });
 
+for (const timed of [false, true]) {
+  test(`Ratekennzeichnung nach verlorener Weiter-Bestätigung (${timed ? "Zeit" : "Lernen"})`, async ({
+    page,
+  }) => {
+    await fixCalendarTime(page, new Date("2026-10-18T10:00:00Z"));
+    await page.goto("/");
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    const state = await readStoredState(page);
+    state.settings.solutionDisplay = "round";
+    await writeStoredState(page, state);
+    await page.reload();
+    await openRoundSetup(page);
+    if (timed) {
+      await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
+      await modePreparation(page, /^10 Fragen /).click();
+    } else await modePreparation(page, /^Freies Spiel /).click();
+    const backend = accountBackend(page);
+    const rpc = timed ? "quiz_ranked_call" : "quiz_game_call";
+    let inject = true;
+    await page.route(`**/rpc/${rpc}`, async (route) => {
+      if (
+        inject &&
+        JSON.parse(route.request().postDataJSON().request_text).action ===
+          "question"
+      ) {
+        inject = false;
+        backend.api.lost(rpc);
+      }
+      await route.fallback();
+    });
+    await page.getByRole("button", { name: "Losspielen" }).click();
+    const first = await page
+      .locator("h1[data-question-id]")
+      .getAttribute("data-question-id");
+    const correct = (id: string) =>
+      backend.release.questions
+        .find((q) => q.id === id)!
+        .answers.find(
+          (a) =>
+            a.id ===
+            backend.release.questions.find((q) => q.id === id)!.correctId,
+        )!.text;
+    await page.getByLabel("Ich rate bei dieser Frage", { exact: true }).check();
+    await page
+      .locator(".answer")
+      .filter({ has: page.getByText(correct(first!), { exact: true }) })
+      .click();
+    await page
+      .getByRole("button", { name: "Erneut versuchen", exact: true })
+      .click();
+    await expect(page.locator("h1[data-question-id]")).not.toHaveAttribute(
+      "data-question-id",
+      first!,
+    );
+    await expect(
+      page.getByLabel("Ich rate bei dieser Frage", { exact: true }),
+    ).not.toBeChecked();
+    const second = await page
+      .locator("h1[data-question-id]")
+      .getAttribute("data-question-id");
+    await page
+      .locator(".answer")
+      .filter({ has: page.getByText(correct(second!), { exact: true }) })
+      .click();
+    const schema = timed ? "quiz_ranked_internal" : "quiz_game_internal";
+    await expect
+      .poll(
+        async () =>
+          (
+            await backend.admin(() =>
+              backend.db.query<{ guessed: boolean }>(
+                `select (event->>'guessed')::boolean guessed from ${schema}.questions where event is not null order by index limit 2`,
+              ),
+            )
+          ).rows,
+      )
+      .toEqual([{ guessed: true }, { guessed: false }]);
+  });
+}
+
 test("Verzögertes Pausieren sperrt weitere Aktionen und erhält die bestätigte Antwort", async ({
   page,
 }) => {

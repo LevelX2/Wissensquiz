@@ -6,7 +6,7 @@ import type { Mutate } from "./uiTypes";
 import { QuestionScreen } from "./QuestionScreen";
 import { rankedRead, RankedSession, type RankedSetup } from "./rankedRuns";
 import { RankedRunError } from "./rankedErrors";
-import { playFeedback } from "./feedback";
+import { useQuestionInteraction } from "./useQuestionInteraction";
 import { useAsyncAction } from "./useAsyncAction";
 
 export function RankedGame({
@@ -30,8 +30,12 @@ export function RankedGame({
   onFinish: () => Promise<void>;
   onBusy: (busy: boolean) => void;
 }) {
-  const [blocked, setBlocked] = useState<string | null>(null),
-    [guessed, setGuessed] = useState(false);
+  const [blocked, setBlocked] = useState<string | null>(null);
+  const { guessed, toggleGuess } = useQuestionInteraction(
+    session.run?.id,
+    session.current?.index,
+    state.settings,
+  );
   const started = useRef(false);
   const blockedAbort = useRef<string | undefined>(undefined);
   const { work, busy, error, failedWork } = useAsyncAction(
@@ -148,7 +152,7 @@ export function RankedGame({
           onGuess={() => {
             if (session.items.length > screen.index)
               void work(() => session.markGuessed());
-            else setGuessed((v) => !v);
+            else toggleGuess();
           }}
           onAnswer={async (choice) => {
             const result = await work(() => session.answer(choice, guessed));
@@ -159,8 +163,6 @@ export function RankedGame({
               if (session.run!.status !== "active") await onFinish();
               else {
                 await session.next();
-                setGuessed(false);
-                playFeedback("next", state.settings);
               }
             })
           }

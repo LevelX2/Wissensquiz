@@ -12,10 +12,10 @@ Nach Änderungen an Film-/Personenbekanntheit oder den Classics-/Arthouse-Rohzuo
 
 | Umfang | Vorher | Nachher |
 | --- | ---: | ---: |
-| Einstieg mit statischen JavaScript-Imports | 292.951 Bytes | 159.947 Bytes |
-| Einstieg plus statische Abhängigkeiten der Konto-Spielansicht | im alten Einstiegsbundle enthalten | 259.011 Bytes |
-| Einstieg plus statische Abhängigkeiten der Probeoberfläche | im alten Einstiegsbundle enthalten | 240.989 Bytes |
-| Sämtliche JavaScript-Dateien einschließlich Nebenansichten | 323.552 Bytes | 297.732 Bytes |
+| Einstieg mit statischen JavaScript-Imports | 292.951 Bytes | 159.950 Bytes |
+| Einstieg plus statische Abhängigkeiten der Konto-Spielansicht | im alten Einstiegsbundle enthalten | 259.116 Bytes |
+| Einstieg plus statische Abhängigkeiten der Probeoberfläche | im alten Einstiegsbundle enthalten | 241.003 Bytes |
+| Sämtliche JavaScript-Dateien einschließlich Nebenansichten | 323.552 Bytes | 297.851 Bytes |
 
 Der statische Einstieg ist damit rund 45,4 Prozent kleiner. Die bedarfsabhängigen Spielmodule kommen je Route hinzu. Dies sind Build-/Importgraphgrößen, keine gemessene Ladezeit und kein vollständiger Startdownload; CSS, Bilder, API-Verkehr und Browsercache sind gesondert. Das Highscore-Navigationssymbol verwendet ebenfalls die kleine Genrevariante statt des 1.887.626-Byte-PNGs. Originalbilder und Rohquellen bleiben erhalten.
 

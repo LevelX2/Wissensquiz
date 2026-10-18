@@ -6,6 +6,8 @@ Jede neu freigegebene Frage erhält den Tastaturfokus auf ihrer Überschrift und
 
 Beim Weiter-Button wird Ton im auslösenden Nutzerereignis freigegeben. Erst nach erfolgreichem Laden der nächsten Frage folgt genau ein vorhandenes `next`-Signal mit der gespeicherten Ton-/Vibrationsoption. Ladefehler und Rundenabschluss erzeugen kein zusätzliches Weiter-Signal; der Abschluss behält seine eigene Rückmeldung. [Umsetzung und Prüfungen](IT-Fachreview-2026-10-18-Umsetzung.md).
 
+Die Ratekennzeichnung vor einer gesammelten Lösung gehört ausschließlich zur aktuell ausgegebenen Frage. Nach erfolgreichem Weiterwechsel ist sie für die neue Frage aus, auch wenn deren Serverbestätigung zunächst verloren ging und ausdrücklich wiederholt wurde. Das Weiter-Signal folgt ebenfalls dem tatsächlich bestätigten Fragenwechsel und wird durch Wiederholung derselben Bestätigung nicht doppelt ausgelöst. Lern- und Zeitspiel verwenden dafür dieselbe kleine Steuerung; Punkte- und Lernregeln bleiben unverändert.
+
 **16.10.2026 – Bereichsauslosung seit Version 82 veröffentlicht:** Filmreise zieht zuerst eine freigespielte Bekanntheitsgruppe, dann gleichwahrscheinlich ein geeignetes Filmgenre, Schauspieler oder Preisträger. Bei neuen Zielen folgen Schwierigkeit, Ziel und Variante; bei Wiederholungen das älteste fällige Ziel innerhalb des gezogenen Bereichs. Bekannte Füllziele folgen denselben Auslosungsstufen unter Erhalt der Vorrangphasen. Keine festen Quoten. [Aktueller Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-16-Version-82.json).
 
 ## Schauspielerausbau und Bekanntheitsgruppen seit Version 80

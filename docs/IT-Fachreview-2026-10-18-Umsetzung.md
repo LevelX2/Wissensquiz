@@ -2,6 +2,8 @@
 
 Auftrag vom 18.10.2026: die [16 Vorschläge](IT-Fachreview-2026-10-18.md) geordnet umsetzen und einen projektübergreifenden allgemeinen Fachreview-Skill erstellen. [Unveränderter Nutzertext und bestätigte Arbeitsumgebung](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-18 Nutzerauftrag Fachreview umsetzen und Skill erstellen.json>). Ein eigener Worktree mit anschließender lokaler Main-Integration ist ausdrücklich freigegeben. Veröffentlichung und produktive Datenbankaktivierung gehören nicht zu dieser Freigabe.
 
+Die 14 technischen Reviewpunkte 1–12, 15 und 16 sind lokal umgesetzt und geprüft. Für 13 und 14 ist die Abnahme vorbereitet; echte Beobachtungen zu Spielspaß, Verständnis, hörbarem Ton und spürbarer Haptik bleiben offen. Der allgemeine Skill ist erstellt und installiert.
+
 ## Arbeitsblöcke
 
 | Block | Reviewpunkte | Ziel und Status |
@@ -42,7 +44,7 @@ Die Konkurrenzhypothese wurde konkret bestätigt: Ein verzögerter Boot-Abruf li
 
 ## Abnahme von Block 4 und vorbereiteter Block 5
 
-Spiel-/Probe-/Kontopanel und Profilcode werden bedarfsabhängig geladen. Kompakte, automatisch gegen die vollständigen Quellen geprüfte Laufzeitmetadaten; Kategorievorbereitung getrennt. Statischer JavaScript-Einstieg gzip 292.951 → 159.947 Bytes, rund 45,4 Prozent kleiner; notwendige dynamische Spielmodule zusätzlich ausgewiesen. Noch ein großes Highscore-Navigations-PNG durch die vorhandene kleine Variante ersetzt. Inhaltsvorbereitung ergibt weiterhin denselben Katalogfingerabdruck. README nennt die aktuelle Spieleroberfläche ohne veraltete Sicherungs-/Importangebote.
+Spiel-/Probe-/Kontopanel und Profilcode werden bedarfsabhängig geladen. Kompakte, automatisch gegen die vollständigen Quellen geprüfte Laufzeitmetadaten; Kategorievorbereitung getrennt. Statischer JavaScript-Einstieg gzip 292.951 → 159.950 Bytes, rund 45,4 Prozent kleiner; notwendige dynamische Spielmodule zusätzlich ausgewiesen. Noch ein großes Highscore-Navigations-PNG durch die vorhandene kleine Variante ersetzt. Inhaltsvorbereitung ergibt weiterhin denselben Katalogfingerabdruck. README nennt die aktuelle Spieleroberfläche ohne veraltete Sicherungs-/Importangebote.
 
 Zeitspielbelege erhalten eine dokumentierte Aufbewahrung, neue Startkennungen verhindern eine erneute alte Startwirkung nach der Bereinigung. Private Größenaufnahme an den vorhandenen Betriebsjob angebunden, 180 Tage Messhistorie, keine neuen öffentlichen Rechte oder Nachrichten. Drei Migrationen lokal vorbereitet; **nicht produktiv aktiviert**. [Ausführlicher Vertrag, Wiederholung und Messwerte](Fachreview-Start-und-Wachstum-2026-10-18.md).
 
@@ -51,6 +53,12 @@ Zeitspielbelege erhalten eine dokumentierte Aufbewahrung, neue Startkennungen ve
 Native PostgreSQL-17.11-Prüfung mit 85 synthetischen Konten und aktuellem Bestand: 340 Zehnerrunden/3.400 Antworten, zusätzlich 85.000 ältere Antworten; Laststufen 10/25/50, keine fehlgeschlagenen Lasttransaktionen oder Deadlocks, keine beobachteten Sperrwartefälle in 525 Stichproben. Physisches Tabellen-/Indexwachstum und Antwortgrößen erfasst. Native Größenaufnahme, RLS und verweigerte öffentliche Funktionsrechte geprüft; abschließende Sicherheits-Advisors ohne Warnung. Kein erfolgreicher `plpgsql_check`-Lint behauptet, Erweiterung lokal nicht verfügbar. Prüfserver beendet; Port und Prozessmarke frei. Keine Produktionskapazität zugesichert.
 
 Für Spielspaß, Fortschrittsverständnis und echte Ton-/Haptikwirkung liegt der [konkrete Abnahmebogen](Spieler-und-Geraeteabnahme-Fachreview.md) vor. Er enthält sechs geplante Spielersitzungen, Aufgaben, Beobachtungsfelder und Gerätefälle. Die Beobachtungsfelder sind ausdrücklich offen, keine erfundenen Testergebnisse. Fachliche Änderungen an Motivation oder Balance werden erst aus tatsächlichen Beobachtungen abgeleitet.
+
+## Abschließende Nachprüfung des Fragewechsels
+
+Bei gesammelten Lösungen konnte nach verlorener Weiter-Bestätigung die vorab gesetzte Ratekennzeichnung in die nächste Frage gelangen. Vor der Korrektur gezielt in Chromium bestätigt. Die gemeinsame kleine Steuerung bindet diese Eingabe nun an Lauf und Frageposition; das Weiter-Signal folgt dem tatsächlich bestätigten Positionswechsel einschließlich ausdrücklich wiederholter Bestätigung. Keine neue Zeitgutschrift oder Speicherablage.
+
+Vier neue Browserfälle (Lernen/Zeit, Chromium/WebKit) bestätigen die erste Antwort als geraten und die zweite als sicher gewusst nach verlorener Weiter-Bestätigung. Zwei vorhandene Audiofälle in Chromium/WebKit erneut erfolgreich, einschließlich genau eines Weiter-Signals und gespeicherter Toneinstellung. Statischer Check und Build erfolgreich. Die erste Reproduktion brauchte zunächst die vorhandene Bereitschaftsbedingung vor dem Lesen des synthetischen Spielstands; danach war der echte Kennzeichnungsfehler sichtbar. Ein falsch verankerter Testfilter führte keinen Fall aus und wurde vor der erfolgreichen Audioprüfung korrigiert. Der abschließende Bundlevergleich enthält diese kleine Steuerung; native SQL-Messung und Inhaltsfingerabdruck bleiben davon unberührt.
 
 ## Ausgangsmessung
 

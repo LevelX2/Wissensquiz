@@ -25,34 +25,34 @@
   },
   "after": {
     "entry": {
-      "file": "assets/index-BP8fFhcx.js",
+      "file": "assets/index-Y_ja4L0Y.js",
       "rawBytes": 553907,
-      "gzipBytes": 159947
+      "gzipBytes": 159950
     },
     "initialStatic": {
       "rawBytes": 553907,
-      "gzipBytes": 159947,
+      "gzipBytes": 159950,
       "files": [
         {
-          "file": "assets/index-BP8fFhcx.js",
+          "file": "assets/index-Y_ja4L0Y.js",
           "rawBytes": 553907,
-          "gzipBytes": 159947
+          "gzipBytes": 159950
         }
       ]
     },
     "routeStaticDependencies": {
       "AccountGame": {
-        "rawBytes": 856706,
-        "gzipBytes": 259011
+        "rawBytes": 857063,
+        "gzipBytes": 259116
       },
       "TrialEntry": {
         "rawBytes": 797573,
-        "gzipBytes": 240989
+        "gzipBytes": 241003
       }
     },
     "allJavaScript": {
-      "rawBytes": 960962,
-      "gzipBytes": 297732
+      "rawBytes": 961319,
+      "gzipBytes": 297851
     }
   },
   "initialStaticGzipReductionPercent": 45.4

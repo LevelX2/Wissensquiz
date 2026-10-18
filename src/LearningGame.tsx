@@ -1,9 +1,9 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
 import type { State } from "./model";
 import type { Mutate } from "./uiTypes";
 import { LearningSession, type LearningSetup } from "./learningRuns";
 import { QuestionScreen } from "./QuestionScreen";
-import { playFeedback } from "./feedback";
+import { useQuestionInteraction } from "./useQuestionInteraction";
 import { useAsyncAction } from "./useAsyncAction";
 export function LearningGame({
   session,
@@ -27,7 +27,11 @@ export function LearningGame({
   onBusy: (busy: boolean) => void;
 }) {
   const started = useRef(false);
-  const [guessed, setGuessed] = useState(false);
+  const { guessed, toggleGuess } = useQuestionInteraction(
+    session.run?.id,
+    session.current?.index,
+    state.settings,
+  );
   const { work, busy, error, failedWork } = useAsyncAction(onBusy);
   useEffect(() => {
     if (started.current) return;
@@ -88,7 +92,7 @@ export function LearningGame({
           onGuess={() => {
             if (session.items.length > screen.index)
               void work(() => session.guess());
-            else setGuessed((v) => !v);
+            else toggleGuess();
           }}
           onAnswer={async (choice) => {
             const result = await work(() => session.answer(choice, guessed));
@@ -101,8 +105,6 @@ export function LearningGame({
                 await onFinish();
               } else {
                 await session.next();
-                setGuessed(false);
-                playFeedback("next", state.settings);
               }
             })
           }
