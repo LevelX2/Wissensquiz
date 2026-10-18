@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 18.10.2026 – IT-Fachreview Block 2 lokal
+
+Pflichtbildfreigabe nach Laden/Dekodieren, sichtbarer Fehler mit erneutem Abruf und unverändert laufender Serverzeit; WebP-Größenvarianten und lesbarere mobile Themen-/Modustexte umgesetzt. Build, 18 gezielte Browserfälle in Chromium/mobilem WebKit und visuelle Prüfung normaler/vergrößerter Themenansichten erfolgreich. Isolierte Konten, kontrollierte Zeit, keine produktiven Daten. 59 Varianten insgesamt 1.310.794 Bytes gegenüber 29.321.879 Bytes für die unveränderten Originale; kein pauschaler Startdownloadvergleich. [Abnahme](IT-Fachreview-2026-10-18-Umsetzung.md#abnahme-von-block-2).
+
 ## 18.10.2026 – IT-Fachreview Block 1 lokal
 
 Fokus auf jede neue Frage, kurze separate Ergebnisansage, äußere Fehlergrenze, korrekter Online-Speicherhinweis, aktuelle Rundenhilfe und Weiter-Signal umgesetzt. TypeScript/Build und `git diff --check` erfolgreich. Zwölf unterschiedliche Browserfälle in Chromium, Firefox und mobilem WebKit einschließlich erfolgreicher Nachprüfungen bestanden: Audio/Weiter, mobile Antwortansicht bei 320/390 Pixeln, Fehlergrenzen, Hilfe und vollständige Proberunde. Firefox benötigt für den umfangreichen Audioablauf ein größeres funktionales Testbudget; feste Kalenderzeit auch auf dem isolierten SQL-Testserver vermeidet zusätzliche Browserabfragen je RPC. Frühere Abbrüche zählen nicht als bestanden. Kein realer Screenreader-/Gerätenachweis, keine Produktivänderung und keine Veröffentlichung. [Details](IT-Fachreview-2026-10-18-Umsetzung.md#abnahme-von-block-1).

@@ -1,3 +1,5 @@
+import { uiArtwork } from "./uiArtwork";
+
 export const genreIllustrations: Record<string, string> = {
   "Science-Fiction": "/genres/scifi.png",
   Action: "/genres/action.png",
@@ -27,7 +29,12 @@ export function GenreArtwork({
   return genreIllustrations[genre] ? (
     <img
       className={compact ? "genre-thumbnail" : "genre-illustration"}
-      src={genreIllustrations[genre]}
+      {...uiArtwork(
+        "genre-" + genreIllustrations[genre].split("/").at(-1)!.slice(0, -4),
+        compact
+          ? "(max-width: 650px) 32px, 40px"
+          : "(max-width: 760px) 96px, 150px",
+      )}
       alt=""
       width={compact ? 40 : 160}
       height={compact ? 40 : 160}

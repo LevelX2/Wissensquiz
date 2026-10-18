@@ -1,5 +1,6 @@
 import type { Mode } from "./model";
 import { modeNames } from "./recordModes";
+import { uiArtwork } from "./uiArtwork";
 
 export type PlayGroup = "learn" | "timed" | "duel";
 export const modeDescriptions: Record<Mode, string> = {
@@ -25,14 +26,12 @@ export function ModeArtwork({
   mode: Mode;
   duel?: boolean;
 }) {
+  const file = duel ? "duell.svg" : artwork[mode];
+  const image = file.endsWith(".png")
+    ? uiArtwork("mode-" + file.slice(0, -4), "(max-width: 500px) 88px, 128px")
+    : { src: `/modes/${file}` };
   return (
-    <img
-      className="mode-artwork"
-      src={`/modes/${duel ? "duell.svg" : artwork[mode]}`}
-      alt=""
-      width={128}
-      height={128}
-    />
+    <img className="mode-artwork" {...image} alt="" width={128} height={128} />
   );
 }
 export function modesForGroup(group: PlayGroup): Mode[] {

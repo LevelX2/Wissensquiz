@@ -5,12 +5,77 @@ import {
   modePreparation,
   readStoredState,
   accountBackend,
+  fixCalendarTime,
 } from "./fixtures";
+import { statSync } from "node:fs";
 import AxeBuilder from "@axe-core/playwright";
 import { RankedSession } from "../../src/rankedRuns";
 import type { Question } from "../../src/model";
 
 test.use({ acknowledgeIncidentalSuccess: true });
+
+test("Kleine Bildvarianten und lesbare Themen bei 320/390 Pixeln und großer Schrift", async ({
+  page,
+}, info) => {
+  await fixCalendarTime(page, new Date("2026-10-18T10:00:00Z"));
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/");
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  const asset = await page
+    .locator(".mode-selection > summary img")
+    .evaluate(async (element: HTMLImageElement) => {
+      await element.decode();
+      const response = await fetch(element.currentSrc);
+      return {
+        url: element.currentSrc,
+        bytes: (await response.arrayBuffer()).byteLength,
+        width: element.naturalWidth,
+      };
+    });
+  expect(asset.url).toMatch(/mode-entdecken-(160|320|480).*\.webp$/);
+  expect(asset.width).toBeGreaterThan(0);
+  expect(asset.bytes).toBeLessThan(
+    statSync("public/modes/entdecken.png").size * 0.3,
+  );
+  await page.getByRole("button", { name: "Themen", exact: true }).click();
+  await expect(page.locator(".topic-card")).toHaveCount(16);
+  for (const width of [320, 390]) {
+    await page.setViewportSize({ width, height: 844 });
+    const text = page.locator(".topic-body .tiny").first();
+    expect(
+      await text.evaluate((element) =>
+        Number.parseFloat(getComputedStyle(element).fontSize),
+      ),
+    ).toBeGreaterThanOrEqual(12);
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+  }
+  await page.screenshot({ path: info.outputPath("themen-390.png") });
+  await page.evaluate(() => {
+    document.documentElement.style.fontSize = "200%";
+  });
+  expect(
+    await page
+      .locator(".topic-body .tiny")
+      .first()
+      .evaluate((element) =>
+        Number.parseFloat(getComputedStyle(element).fontSize),
+      ),
+  ).toBeGreaterThanOrEqual(24);
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBe(true);
+  await page.screenshot({ path: info.outputPath("themen-grosse-schrift.png") });
+  await info.attach("Bilddaten", {
+    body: Buffer.from(JSON.stringify(asset)),
+    contentType: "application/json",
+  });
+});
 
 test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und startet noch keine Runde", async ({
   page,
@@ -43,7 +108,10 @@ test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und starte
   await expect(page.locator(".mode-card")).toHaveCount(0);
   await expect(tile).toHaveAttribute("aria-expanded", "false");
   await expect(tile).toContainText("Freies Spiel");
-  await expect(tile.locator("img")).toHaveAttribute("src", "/modes/ueben.png");
+  await expect(tile.locator("img")).toHaveAttribute(
+    "src",
+    /mode-ueben-320.*\.webp$/,
+  );
   await tile.click();
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await modePreparation(page, /^Fehlerfrei /).click();

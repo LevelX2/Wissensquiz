@@ -49,12 +49,14 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
   );
   await expect(page.locator(".question-genre img")).toHaveAttribute(
     "src",
-    "/genres/awards.png",
+    /genre-awards-320.*\.webp$/,
   );
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Experte",
   );
-  expect((await readStoredState(page)).rounds.at(-1)?.questions).toHaveLength(10);
+  expect((await readStoredState(page)).rounds.at(-1)?.questions).toHaveLength(
+    10,
+  );
   await expect(page.locator(".film-data")).toHaveCount(0);
   await page.locator(".answer").first().click();
   await expect(page.locator(".explanation")).toBeVisible();

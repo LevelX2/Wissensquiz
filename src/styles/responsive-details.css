@@ -211,13 +211,13 @@ details p {
     font-size: 15px;
   }
   .topic-body .tiny {
-    font-size: 8px;
+    font-size: var(--font-small);
   }
   .mode-card {
     padding: 14px;
   }
   .mode-card small {
-    font-size: 9px;
+    font-size: var(--font-small);
   }
 }
 @media (max-width: 760px) {
@@ -375,7 +375,7 @@ details p {
   }
   .topic-card {
     display: grid;
-    grid-template-columns: 110px minmax(0, 1fr);
+    grid-template-columns: clamp(64px, 24vw, 96px) minmax(0, 1fr);
   }
   .topic-art {
     height: auto;
@@ -393,22 +393,22 @@ details p {
     margin-bottom: 13px;
   }
   .topic-body .eyebrow {
-    font-size: 8px;
+    font-size: var(--font-small);
   }
   .topic-body .tiny {
-    font-size: 9px;
+    font-size: var(--font-small);
   }
   .mini-stats {
-    font-size: 9px;
+    font-size: var(--font-small);
   }
   .mini-stats b {
-    font-size: 15px;
+    font-size: 1rem;
   }
   .topic-body progress {
     margin-top: 12px;
   }
   .topic-body .text-button {
-    font-size: 11px;
+    font-size: var(--font-support);
   }
   .stat-grid {
     grid-template-columns: 1fr;

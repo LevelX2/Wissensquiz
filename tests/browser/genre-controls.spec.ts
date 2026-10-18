@@ -39,7 +39,7 @@ test("Genres gesammelt abwählen und Filmkarten mit Genreillustrationen anzeigen
   await horror.scrollIntoViewIfNeeded();
   await expect(horror.locator(".genre-illustration")).toHaveAttribute(
     "src",
-    "/genres/horror.png",
+    /genre-horror-320.*\.webp$/,
   );
   await expect
     .poll(() =>

@@ -37,7 +37,6 @@ import {
   allowsSolutionChoice,
   questionLimit,
   eventIdFor,
-  modeNames,
 } from "./recordModes";
 export function QuestionScreen({
   round,
@@ -98,6 +97,11 @@ export function QuestionScreen({
   const [guessed, setGuessed] = useState(false);
   const [remaining, setRemaining] = useState(limit);
   const [ready, setReady] = useState(false);
+  const [imageStatus, setImageStatus] = useState<
+    "loading" | "ready" | "failed"
+  >(q.image ? "loading" : "ready");
+  const [imageAttempt, setImageAttempt] = useState(0);
+  const canChoose = ready && imageStatus === "ready";
   const [revealing, setRevealing] = useState(false);
   const [pendingChoice, setPendingChoice] = useState<
     AnswerChoice | undefined
@@ -119,7 +123,14 @@ export function QuestionScreen({
   const questionHeading = useRef<HTMLHeadingElement>(null);
   const [reporting, setReporting] = useState(false);
   const choose = async (choice: AnswerChoice) => {
-    if (locked.current || event || !ready || round.status !== "active") return;
+    if (
+      locked.current ||
+      event ||
+      !ready ||
+      round.status !== "active" ||
+      (choice !== null && imageStatus !== "ready")
+    )
+      return;
     locked.current = true;
     setPendingChoice(choice);
     if (choice !== null) unlockSound(state.settings);
@@ -217,10 +228,10 @@ export function QuestionScreen({
     };
   }, [!!event, ready, timed]);
   useEffect(() => {
-    if (event || !ready) return;
+    if (event || !canChoose) return;
     window.scrollTo(0, 0);
     questionHeading.current?.focus({ preventScroll: true });
-  }, [q.id, ready, !!event]);
+  }, [q.id, canChoose, !!event]);
   useEffect(() => {
     if (event) {
       feedback.current?.focus({ preventScroll: true });
@@ -248,7 +259,7 @@ export function QuestionScreen({
               !!event ||
               submitting ||
               busy ||
-              !ready ||
+              !canChoose ||
               round.status !== "active"
             }
             onClick={() => void choose(id)}
@@ -268,7 +279,9 @@ export function QuestionScreen({
           className={`answer answer-unknown ${pendingChoice && typeof pendingChoice === "object" ? "is-submitting" : ""}`}
           data-feedback="own"
           aria-describedby={`dont-know-${q.id}`}
-          disabled={submitting || busy || !ready || round.status !== "active"}
+          disabled={
+            submitting || busy || !canChoose || round.status !== "active"
+          }
           onClick={() => void choose({ dontKnow: true })}
         >
           <span className="answer-letter" aria-hidden="true">
@@ -486,11 +499,38 @@ export function QuestionScreen({
             displayedQuestionText
           )}
         </h1>
+        {!event && imageStatus !== "ready" && (
+          <div
+            className="notice"
+            role={imageStatus === "failed" ? "alert" : "status"}
+          >
+            <p>
+              {imageStatus === "failed"
+                ? "Das Bild konnte nicht geladen werden."
+                : "Das Bild wird geladen …"}
+              {timed && " Die Zeit läuft während des Ladens weiter."}
+            </p>
+            {imageStatus === "failed" && (
+              <button
+                disabled={busy}
+                onClick={() => {
+                  setImageStatus("loading");
+                  setImageAttempt((attempt) => attempt + 1);
+                }}
+              >
+                Bild erneut laden
+              </button>
+            )}
+          </div>
+        )}
         {!event && (
           <ActorPortrait
-            q={displayQ}
+            q={q}
             beforeAnswer
             selectionKey={eventIdFor(round, index)}
+            loadAttempt={imageAttempt}
+            onReady={() => setImageStatus("ready")}
+            onError={() => setImageStatus("failed")}
           />
         )}
         {!collected &&

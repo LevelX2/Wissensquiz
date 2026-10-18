@@ -24,10 +24,16 @@ export function ActorPortrait({
   q,
   beforeAnswer = false,
   selectionKey = "",
+  loadAttempt = 0,
+  onReady,
+  onError,
 }: {
   q: Question;
   beforeAnswer?: boolean;
   selectionKey?: string;
+  loadAttempt?: number;
+  onReady?: () => void;
+  onError?: () => void;
 }) {
   const portrait:
     | (Partial<Portrait> & { src: string; width: number; height: number })
@@ -46,7 +52,8 @@ export function ActorPortrait({
     : 1;
   const photo = (
     <img
-      src={portrait.src}
+      key={`${portrait.src}:${loadAttempt}`}
+      src={loadAttempt ? `${portrait.src}?retry=${loadAttempt}` : portrait.src}
       alt={
         beforeAnswer
           ? "Schauspielerporträt für die Namensfrage"
@@ -55,6 +62,17 @@ export function ActorPortrait({
       width={portrait.width}
       height={portrait.height}
       decoding="async"
+      onLoad={async (event) => {
+        if (!onReady) return;
+        const image = event.currentTarget;
+        try {
+          await image.decode();
+          if (image.isConnected) onReady();
+        } catch {
+          if (image.isConnected) onError?.();
+        }
+      }}
+      onError={onError}
       style={
         crop
           ? {

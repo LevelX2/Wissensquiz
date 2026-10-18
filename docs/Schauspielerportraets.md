@@ -1,5 +1,9 @@
 # Schauspielerporträts nach der Antwort
 
+## Pflichtbilder zuverlässig laden – 18.10.2026 lokal
+
+Bei Bilderkennungsfragen sind Antwortauswahl und „Keine Ahnung“ bis zum erfolgreichen Laden und Dekodieren des vom Server ausgegebenen Fotos gesperrt. Ein Ladefehler wird benannt und bietet „Bild erneut laden“. Die Frage kann über ihre bestehende Beenden-/Pauseaktion verlassen werden. In servergeprüften Zeitspielen zählt die Ladezeit weiterhin zur Antwortzeit; der erneute Abruf verlängert keine Frist und startet keine neue Zeitmessung. Der Hinweis erklärt dies unmittelbar. Optionale Porträts zur Lösung verändern die Antwortfreigabe nicht. Verzögerung und HTTP 404 im Lern- und Zeitspiel in Chromium/mobilem WebKit gezielt geprüft; noch nicht veröffentlicht.
+
 **13.10.2026 – Historischer Ausbau seit Version 80 veröffentlicht:** 195 zusätzliche Commons-Porträts aus der geprüften Redaktion, 13 ausgewählte TMDB-Onlinefassungen und Personenlinks für alle 428 Schauspieler. Hinterlegte freie Porträts erscheinen bevorzugt in der Auflösung; Erkennungsbilder bleiben erhalten. [Umfang und Integration](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
 ## TMDB-Porträts für alle Personen – 13.10.2026

@@ -1,7 +1,16 @@
 import { writeStoredState } from "./fixtures";
 import { readFileSync } from "node:fs";
 import AxeBuilder from "@axe-core/playwright";
-import { test, expect, readStoredState, type Page } from "./fixtures";
+import {
+  test,
+  expect,
+  readStoredState,
+  accountBackend,
+  openRoundSetup,
+  modePreparation,
+  type Page,
+} from "./fixtures";
+import { prepareTestContent } from "../helpers/test-content";
 import { addPackages, packages } from "../../src/packages";
 import { emptyState, type State } from "../../src/model";
 import { startRound } from "../../src/engine";
@@ -12,6 +21,144 @@ import { eventIdFor } from "../../src/recordModes";
 import { actorTmdbUrl } from "../../src/actorTmdb";
 
 test.use({ acknowledgeIncidentalSuccess: true });
+
+for (const timed of [false, true]) {
+  for (const failure of [false, true]) {
+    test(`Pflichtbild ${timed ? "Zeitspiel" : "Lernspiel"}: ${failure ? "404 und erneutes Laden" : "verzögertes Bild"} ohne Blindantwort und Zeitneustart`, async ({
+      page,
+    }) => {
+      const now = Date.parse("2026-10-18T10:00:00Z");
+      await page.clock.install({ time: new Date(now) });
+      const backend = accountBackend(page);
+      backend.serverTime = now;
+      const original = backend.release.questions.find(
+        (q) => !!q.metadata.question_image_id,
+      )!;
+      const photo =
+        portraits[original.metadata.person_id as keyof typeof portraits];
+      const questions = (
+        [
+          "leicht",
+          "leicht",
+          "leicht",
+          "mittel",
+          "mittel",
+          "mittel",
+          "mittel",
+          "schwer",
+          "schwer",
+          "schwer",
+        ] as const
+      ).map((difficulty, i) => ({
+        ...structuredClone(original),
+        id: `REVIEW-IMAGE-${i}`,
+        knowledgeId: `REVIEW-IMAGE-GOAL-${i}`,
+        difficulty,
+        image: { src: photo.src, width: photo.width, height: photo.height },
+      }));
+      const film = backend.release.questions.find(
+        (q) => !q.metadata.person_id && !q.tags.includes("Preisträger"),
+      )!;
+      await backend.seedRanked(
+        await prepareTestContent([
+          ...questions,
+          { ...film, difficulty: "experte" },
+        ]),
+      );
+      let release!: () => void;
+      const gate = new Promise<void>((resolve) => {
+        release = resolve;
+      });
+      let fail = failure;
+      for (const src of [
+        photo.src,
+        alternates[original.metadata.person_id as keyof typeof alternates].src,
+      ]) {
+        await page.route(`**${src}*`, async (route) => {
+          if (fail)
+            return route.fulfill({
+              status: 404,
+              body: "Synthetic missing image",
+            });
+          if (!failure) await gate;
+          await route.continue();
+        });
+      }
+      try {
+        await page.goto("/");
+        await openRoundSetup(page);
+        if (timed) {
+          await page
+            .getByRole("button", { name: "Auf Zeit", exact: true })
+            .click();
+          await modePreparation(page, /^10 Fragen /).click();
+        } else {
+          await modePreparation(page, /^Freies Spiel /).click();
+          await openRoundSetup(page);
+          await page
+            .getByRole("group", { name: "Fragenbereiche", exact: true })
+            .getByLabel("Schauspieler", { exact: true })
+            .check();
+          await page
+            .getByRole("group", { name: "Fragenbereiche", exact: true })
+            .getByLabel("Filmfragen", { exact: true })
+            .uncheck();
+        }
+        await page.getByRole("button", { name: "Losspielen" }).click();
+        await expect(page.locator("h1[data-question-id]")).toBeVisible();
+        await expect(page.locator(".answer").first()).toBeDisabled();
+        await expect(
+          page.getByRole("button", { name: "Keine Ahnung", exact: true }),
+        ).toBeDisabled();
+        await expect(
+          page.getByText(
+            failure
+              ? "Das Bild konnte nicht geladen werden."
+              : "Das Bild wird geladen …",
+            { exact: false },
+          ),
+        ).toBeVisible();
+        await page.clock.runFor(5000);
+        backend.serverTime = now + 5000;
+        if (timed)
+          await expect(page.getByRole("timer")).toHaveAttribute(
+            "aria-label",
+            /2[0-5] Sekunden/,
+          );
+        const schema = timed ? "quiz_ranked_internal" : "quiz_game_internal";
+        const saved = await backend.admin(() =>
+          backend.db.query<{ n: number }>(
+            `select count(*)::integer n from ${schema}.questions where event is not null`,
+          ),
+        );
+        expect(saved.rows[0].n).toBe(0);
+        if (failure) {
+          fail = false;
+          await page.getByRole("button", { name: "Bild erneut laden" }).click();
+        } else release();
+        await expect(
+          page.getByRole("button", { name: "Keine Ahnung", exact: true }),
+        ).toBeEnabled();
+        await expect(page.locator("h1[data-question-id]")).toBeFocused();
+        if (timed) {
+          await expect(page.getByRole("timer")).toHaveAttribute(
+            "aria-label",
+            /2[0-5] Sekunden/,
+          );
+          expect(
+            backend.api.calls.filter(
+              (call) =>
+                call.name === "quiz_ranked_call" &&
+                JSON.parse(String(call.args.request_text)).action === "start",
+            ),
+          ).toHaveLength(1);
+        }
+      } finally {
+        release();
+      }
+    });
+  }
+}
 
 async function writeState(page: Page, state: State) {
   await writeStoredState(page, state);

@@ -7,7 +7,7 @@ Auftrag vom 18.10.2026: die [16 Vorschläge](IT-Fachreview-2026-10-18.md) geordn
 | Block | Reviewpunkte | Ziel und Status |
 | --- | --- | --- |
 | 1 Bedienung und Hinweise | 1, 4, 10, 11 | Umgesetzt; TypeScript/Build und zwölf unterschiedliche Browserfälle erfolgreich |
-| 2 Bilder und Lesbarkeit | 2, 3, 12 | Pflichtbildbereitschaft, getestete Bildstörungen, kleine Bildvarianten und mobile Typografie; offen |
+| 2 Bilder und Lesbarkeit | 2, 3, 12 | Umgesetzt; Build, 18 Browserfälle und visuelle Prüfung erfolgreich |
 | 3 Robuste Abläufe | 5, 8, 9, 16 | Laufzeitverträge, gemeinsame Steuerung, gezielte Konkurrenzprüfung und statischer Check; offen |
 | 4 Start und Wachstum | 6, 7, 15 | Begrenzte technische Belege, kleinere Startabhängigkeiten und aktueller synthetischer Last-/Wachstumsnachweis; offen |
 | 5 Spieler und Geräte | 13, 14 | Ausführbare Spieler-/Geräteabnahme; echte Beobachtung nach Verfügbarkeit, Ergebnisse nicht simulieren; offen |
@@ -23,6 +23,14 @@ Jeder abgeschlossene Block erhält gezielte Prüfungen und einen eigenen lokalen
 Neue Fragen werden nach Freigabe an ihrer Überschrift fokussiert; die Auflösung enthält nur eine kurze separate Statusansage. Lern-, Zeit- und Probespiel verbinden erfolgreichen Weiterwechsel mit dem vorhandenen Signal. Hilfe und README sind aktuell, die äußere Fehlergrenze schützt den Apprahmen und verspricht keine lokale Kontosicherung.
 
 Zwölf unterschiedliche Browserfälle erfolgreich: Audio/Weiter in Chromium, Firefox und mobilem WebKit, mobile Antwort-/Fokusführung bei 320/390 Pixeln in Chromium/WebKit, äußere und innere Fehlerwiederherstellung sowie Hilfe in Chromium und vollständige Proberunde in Chromium/WebKit. Beim Firefox-Audiofall waren zwei Abbrüche am bisherigen Gesamtbudget und anschließend eine unbestätigte Test-RPC sichtbar. Die feste Kalenderzeit wird nun auch im isolierten SQL-Testserver gesetzt, statt vor jeder RPC erneut über den Browser abgefragt zu werden; der umfangreiche Firefox-Ablauf besitzt ein größeres funktionales Testbudget. Die erfolgreiche Nachprüfung dauerte etwa 90 Sekunden. Diese Testumgebung liefert keinen Nachweis realer Audiolautstärke oder Produktionsgeschwindigkeit.
+
+## Abnahme von Block 2
+
+Pflichtfotos geben Antworten erst nach erfolgreichem Laden und Dekodieren frei. Fehler bieten einen erneuten Bildabruf; das vom Server ausgegebene Bild bleibt maßgeblich. Im Zeitspiel läuft die Serverzeit währenddessen weiter und wird beim erneuten Laden nicht gestartet oder verlängert. Die bestehende Beenden-Aktion bleibt erreichbar. Optionale Lösungsbilder blockieren das Spiel nicht.
+
+59 WebP-Varianten für 16 Genres, drei Modi und die Lobby umfassen zusammen 1.310.794 Bytes; die 20 unveränderten Originale 29.321.879 Bytes. `scripts/prepare-ui-artwork.mjs` erzeugt die gepflegten Laufzeitassets mit ImageMagick. Größenwahl über `srcset`/`sizes`, keine eingebetteten Bildbytes im JavaScript. Dies ist ein Dateigrößenvergleich, kein Nachweis einer gleich großen Einsparung beim Start. Mobile bedeutungstragende Themen-/Modustexte verwenden mindestens 12 Pixel bei normaler Basisschrift, wichtige Aktionen 13 Pixel; Lernstufen umbrechen abhängig vom Platz.
+
+18 unterschiedliche Browserfälle in Chromium/mobilem WebKit erfolgreich: je vier Pflichtbildfälle (verzögert/404, Lernen/Zeit), bestehender Foto-/Namens-/Nachweisablauf, Themen bei 320/390 Pixeln und 200 Prozent Basisschrift, Moduswahl über mehrere Breiten sowie Genre-, Preis- und Lernstufenabläufe. Normale und vergrößerte Themenansicht visuell gesichtet, kein horizontaler Überlauf. Der erste synthetische Bildkatalog enthielt keine Filmkategorie und wurde durch den vorhandenen Inhaltsvertrag korrekt abgewiesen; Testaufbau um eine außerhalb der Runde liegende Filmfrage ergänzt, vollständige Nachprüfung erfolgreich. Keine Katalog-/Lernregeländerung.
 
 ## Ausgangsmessung
 

@@ -331,7 +331,7 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
   await expect(page.locator(".question-genre")).toHaveText("");
   await expect(page.locator(".question-genre img")).toHaveAttribute(
     "src",
-    "/genres/scifi.png",
+    /genre-scifi-320.*\.webp$/,
   );
   for (const [i, stage] of [2, 3, 4, 1, 1].entries()) {
     await page

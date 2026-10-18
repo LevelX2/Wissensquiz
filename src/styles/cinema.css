@@ -1,9 +1,10 @@
 /* Cinema atmosphere stays on the setup page; the quiz keeps its calm surface. */
 .cinema-home {
+  --cinema-image: url("../assets/artwork/cinema-lobby-1280.webp");
   background-color: #f5f4f0;
   background-image:
     linear-gradient(180deg, #f5f4f082 0, #f5f4f0b8 260px, #f5f4f0 660px),
-    url("/cinema/lobby.png");
+    var(--cinema-image);
   background-position: center top;
   background-repeat: no-repeat;
   background-size:
@@ -74,6 +75,10 @@
 }
 @media (max-width: 760px) {
   .cinema-home {
+    --cinema-image: image-set(
+      url("../assets/artwork/cinema-lobby-640.webp") 1x,
+      url("../assets/artwork/cinema-lobby-1280.webp") 2x
+    );
     background-size:
       100% 480px,
       100% 360px;
@@ -94,7 +99,7 @@
     min-height: 33px;
   }
   .round-setup .mode-card small {
-    font-size: 10px;
+    font-size: var(--font-small);
   }
   .mode-card .mode-check {
     top: 6px;
