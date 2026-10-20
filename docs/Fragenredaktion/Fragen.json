@@ -652789,6 +652789,535 @@
         "The White Countess|2005"
       ],
       "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-153",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-153",
+      "difficulty": "experte",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Vanessa Redgrave dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-153:a",
+          "text": "Vanessa Redgrave",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-153:b",
+          "text": "Romy Schneider",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Vanessa Redgrave zu sehen; Romy Schneider ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-153:c",
+          "text": "Sophia Loren",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Vanessa Redgrave zu sehen; Sophia Loren ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-153:d",
+          "text": "Julie Andrews",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Vanessa Redgrave zu sehen; Julie Andrews ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Vanessa Redgrave.",
+      "context": "Vanessa Redgraves Arbeit umfasst Kino, Fernsehen und Bühne. Als rätselhafte Frau in „Blow Up“ setzt sie die Suche nach unsicheren Bildbeweisen in Gang; als Ruth Wilcox in „Howards End“ prägt sie einen Erbschaftskonflikt. Zu ihren Auszeichnungen gehören der Oscar für „Julia“ und der Tony für Mary Tyrone in „Eines langen Tages Reise in die Nacht“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:VanRedgrveRoseKng090219-9_(46997099482)_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Vanessa_Redgrave",
+        "https://de.wikipedia.org/wiki/Vanessa_Redgrave",
+        "https://en.wikipedia.org/wiki/Howards_End_(film)",
+        "https://en.wikipedia.org/wiki/Blowup",
+        "https://en.wikipedia.org/wiki/Julia_(1977_film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-153",
+      "filmKey": "",
+      "filmTitle": "Vanessa Redgrave",
+      "personId": "ACTOR-153",
+      "personName": "Vanessa Redgrave",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Blowup|1966",
+        "Howards End|1992",
+        "Julia|1977"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Schauspielerin spielt Jen Yu, die in „Tiger and Dragon“ ein Schwert stiehlt und ihre gesellschaftlichen Grenzen überwinden möchte?",
+      "question": "Welche Schauspielerin spielt Jen Yu, die in „Tiger and Dragon“ ein Schwert stiehlt und ihre gesellschaftlichen Grenzen überwinden möchte?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-1:a",
+          "text": "Michelle Yeoh",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-1:b",
+          "text": "Zhou Xun",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-1:c",
+          "text": "Zhang Ziyi",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-1:d",
+          "text": "Gong Li",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Zhang Ziyi spielt Jen Yu, deren Freiheitswunsch und Umgang mit dem gestohlenen Schwert die Handlung antreiben.",
+      "context": "Jen stammt aus einer angesehenen Familie und soll heiraten, entwickelt aber eigene Vorstellungen von Freiheit. Zhang Ziyi spielt ihre Begegnungen mit erfahrenen Kämpfern als Mischung aus Talent und Ungeduld. Ang Lees Film verbindet Martial Arts mit unerfüllten Beziehungen; der Umgang mit dem gestohlenen Schwert bringt Jens widersprüchliche Wünsche in Bewegung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-L-1",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Crouching Tiger, Hidden Dragon|2000"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Namen trägt die von Zhang Ziyi gespielte erwachsene Hauptfigur nach ihrer Ausbildung im Film „Die Geisha“?",
+      "question": "Welchen Namen trägt die von Zhang Ziyi gespielte erwachsene Hauptfigur nach ihrer Ausbildung im Film „Die Geisha“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-2:a",
+          "text": "Mameha",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-2:b",
+          "text": "Pumpkin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-2:c",
+          "text": "Hatsumomo",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-L-2:d",
+          "text": "Sayuri",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Als Erwachsene heißt die zuvor Chiyo genannte Hauptfigur Sayuri.",
+      "context": "Sayuri beginnt ihr Leben als Chiyo und erhält während ihrer Ausbildung einen neuen Namen. Zhang Ziyi spielt die erwachsene Hauptfigur nach dem Roman von Arthur Golden. Der Film verbindet erlernte Künste mit Abhängigkeiten und persönlichen Hoffnungen; die Geschichte folgt einer individuellen literarischen Figur und stellt keine dokumentarische Gesamtdarstellung des Geisha-Berufs dar.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/Memoirs_of_a_Geisha_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-L-2",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Memoirs of a Geisha|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt Zhang Ziyis Tänzerin, um die sich die Täuschungen und wechselnden Loyalitäten in „House of Flying Daggers“ drehen?",
+      "question": "Wie heißt Zhang Ziyis Tänzerin, um die sich die Täuschungen und wechselnden Loyalitäten in „House of Flying Daggers“ drehen?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-1:a",
+          "text": "Zhao Di",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-1:b",
+          "text": "Gong Er",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-1:c",
+          "text": "Moon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-1:d",
+          "text": "Mei",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mei ist die vermeintlich blinde Tänzerin im Zentrum der Täuschungen von „House of Flying Daggers“.",
+      "context": "Mei tritt zunächst als blinde Tänzerin auf und gerät in eine Verfolgung zwischen Regierung und Widerstandsgruppe. Zhang Ziyi verbindet tänzerische Bewegungen mit den Kampfszenen. Zhang Yimous Film lässt unterschiedliche Figuren voneinander unvollständige Bilder besitzen; Gefühle und politische Aufträge geraten dadurch immer wieder miteinander in Konflikt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/House_of_Flying_Daggers"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-M-1",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "House of Flying Daggers|2004"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "In welchem frühen Kinofilm spielt Zhang Ziyi die junge Zhao Di, deren Liebesgeschichte ihr Sohn rückblickend erzählt?",
+      "question": "In welchem frühen Kinofilm spielt Zhang Ziyi die junge Zhao Di, deren Liebesgeschichte ihr Sohn rückblickend erzählt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-2:a",
+          "text": "Hero",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-2:b",
+          "text": "The Banquet",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-2:c",
+          "text": "2046",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-M-2:d",
+          "text": "Heimweg",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Heimweg“ zeigt Zhang Ziyi als junge Zhao Di in den Erinnerungen an die Liebe der Eltern.",
+      "context": "„The Road Home“ verbindet eine gegenwärtige Trauerfeier mit Erinnerungen an die Begegnung der Eltern. Zhang Ziyi spielt Zhao Di während der farbig dargestellten Rückblenden. Zhang Yimou kontrastiert diese mit einer schwarzweißen Gegenwart; alltägliche Handlungen wie Kochen und Warten tragen dadurch die Gefühle einer zunächst sehr einfachen wirkenden Liebesgeschichte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/The_Road_Home_(1999_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-M-2",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Road Home|1999"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt die von Zhang Ziyi gespielte junge Begleiterin von Broken Sword in „Hero“ von 2002?",
+      "question": "Wie heißt die von Zhang Ziyi gespielte junge Begleiterin von Broken Sword in „Hero“ von 2002?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-1:a",
+          "text": "Mei",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-1:b",
+          "text": "Moon",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-1:c",
+          "text": "Golden Flower",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-1:d",
+          "text": "Jade Fox",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Moon ist Broken Swords Begleiterin und Teil der wechselnden Versionen der Geschichte.",
+      "context": "Moon steht Broken Sword nahe und gerät in den Konflikt zwischen ihm und Flying Snow. „Hero“ zeigt diese Beziehungen in mehreren, farblich unterschiedlich gestalteten Erzählungen. Die behaupteten Motive ändern sich mit der Perspektive. Zhang Ziyis Figur gehört damit zu einem Film, der die Zuschauer wiederholt prüfen lässt, welcher Darstellung sie gerade vertrauen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/Hero_(2002_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-S-1",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Hero|2002"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Kampfkünstlerin aus einer Meisterfamilie verkörpert Zhang Ziyi in Wong Kar-wais „The Grandmaster“?",
+      "question": "Welche Kampfkünstlerin aus einer Meisterfamilie verkörpert Zhang Ziyi in Wong Kar-wais „The Grandmaster“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-2:a",
+          "text": "Yu Shu Lien",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-2:b",
+          "text": "Jen Yu",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-2:c",
+          "text": "Fang Shiyu",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-S-2:d",
+          "text": "Gong Er",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Gong Er trägt das Wissen ihrer Kampfkunstfamilie und verfolgt ihren eigenen Weg zwischen Loyalität und Rache.",
+      "context": "Gong Er trägt das Wissen ihrer Familie und ringt mit den Folgen von Loyalität und Rache. Zhang Ziyi spielt sie gegenüber Tony Leung Chiu-wais Ip Man. Wong Kar-wai verbindet Martial Arts mit Erinnerung und verpassten Möglichkeiten; die Beziehung der beiden ist deshalb ebenso wichtig wie die verschiedenen Kampfstile und ihre Weitergabe.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/The_Grandmaster_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-S-2",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Grandmaster|2013"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-172",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-172",
+      "difficulty": "schwer",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Zhang Ziyi dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-172:a",
+          "text": "Zhou Xun",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Zhang Ziyi zu sehen; Rachel McAdams ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-172:b",
+          "text": "Gong Li",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Zhang Ziyi zu sehen; Kerry Washington ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-172:c",
+          "text": "Zhao Wei",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Zhang Ziyi zu sehen; Michelle Williams ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-172:d",
+          "text": "Zhang Ziyi",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Porträt zeigt Zhang Ziyi.",
+      "context": "Zhang Ziyis frühe Arbeiten zeigen unterschiedliche Formen körperlicher Darstellung: die junge Zhao Di in „Heimweg“, die ungestüme Jen Yu in „Tiger & Dragon“ und die Tänzerin Mei in „House of Flying Daggers“. In „The Grandmaster“ spielt sie Gong Er, deren Kampfkunst an familiäre Weitergabe und persönliche Entscheidungen gebunden ist.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Zhang_Ziyi-63357.jpg",
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon",
+        "https://en.wikipedia.org/wiki/House_of_Flying_Daggers",
+        "https://en.wikipedia.org/wiki/The_Road_Home_(1999_film)",
+        "https://en.wikipedia.org/wiki/The_Grandmaster_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-172",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Road Home|1999",
+        "Crouching Tiger, Hidden Dragon|2000",
+        "House of Flying Daggers|2004",
+        "The Grandmaster|2013"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-A-1",
+      "difficulty": "experte",
+      "questionType": "Ausbildung und frühe Arbeit",
+      "learningObjective": "An welcher Einrichtung erhielt Zhang Ziyi vor ihrer Schauspielausbildung eine mehrjährige Tanzausbildung?",
+      "question": "An welcher Einrichtung erhielt Zhang Ziyi vor ihrer Schauspielausbildung eine mehrjährige Tanzausbildung?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-1:a",
+          "text": "Vaganova-Ballettakademie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-1:b",
+          "text": "Beijing Dance Academy",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-1:c",
+          "text": "Shanghai Theatre Academy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-1:d",
+          "text": "Royal Ballet School",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Zhang Ziyi erhielt ihre frühe Tanzausbildung an der Beijing Dance Academy.",
+      "context": "Zhang Ziyi begann ihre Ausbildung an der Beijing Dance Academy bereits als Kind und wechselte später zur Schauspielausbildung an der Central Academy of Drama. Die beiden Stationen vermitteln unterschiedliche Fertigkeiten. Ihre frühe Tanzarbeit erklärt einen beruflichen Hintergrund, der bei Rollen mit präzisen Bewegungsabläufen sichtbar wird, ohne die Filmaktionen allein auf Tanztechnik zu reduzieren.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-A-1",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-172-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-172-A-2",
+      "difficulty": "experte",
+      "questionType": "Musik und Sprechrollen",
+      "learningObjective": "Welche Anführerin des Foot Clans spricht Zhang Ziyi in der englischen Fassung des Animationsfilms „TMNT“ von 2007?",
+      "question": "Welche Anführerin des Foot Clans spricht Zhang Ziyi in der englischen Fassung des Animationsfilms „TMNT“ von 2007?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-2:a",
+          "text": "Mona Lisa",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-2:b",
+          "text": "Karai",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-2:c",
+          "text": "April O'Neil",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-172-A-2:d",
+          "text": "Renet",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Zhang Ziyi spricht Karai, die Anführerin des Foot Clans im englischen „TMNT“.",
+      "context": "Karai führt den Foot Clan in einer Geschichte, in der die Turtles nach einer Phase der Trennung erneut zusammenarbeiten müssen. Zhang Ziyi steuert ihre Stimme zur englischen Fassung bei. Der computeranimierte Film verwendet bekannte Figuren in einer eigenständigen Handlung; Sprecherarbeit ist hier von einer körperlich gefilmten Kampfrolle zu unterscheiden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://de.wikipedia.org/wiki/Zhang_Ziyi",
+        "https://en.wikipedia.org/wiki/TMNT_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-172-A-2",
+      "filmKey": "",
+      "filmTitle": "Zhang Ziyi",
+      "personId": "ACTOR-172",
+      "personName": "Zhang Ziyi",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "TMNT|2007"
+      ],
+      "sourceArea": "actors"
     }
   ]
 }
