@@ -616473,6 +616473,2595 @@
         "Suspiria|2018"
       ],
       "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-117",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-117",
+      "difficulty": "schwer",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Tilda Swinton dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-117:a",
+          "text": "Tilda Swinton",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-117:b",
+          "text": "Emma Thompson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Tilda Swinton zu sehen; Emma Thompson ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-117:c",
+          "text": "Michelle Pfeiffer",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Tilda Swinton zu sehen; Michelle Pfeiffer ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-117:d",
+          "text": "Julianne Moore",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Tilda Swinton zu sehen; Julianne Moore ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Tilda Swinton.",
+      "context": "Tilda Swintons Weg führte vom experimentellen Kino Derek Jarmans zu Rollen wie der Weißen Hexe und der Ältesten im Marvel-Kino. In „Orlando“ trägt sie eine Figur über Jahrhunderte und einen Geschlechtswechsel hinweg. Bei „Suspiria“ verkörpert sie mehrere Gestalten; für den älteren Klemperer wurde zunächst sogar ein eigener Darstellername erfunden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Tilda_Swinton_at_Cannes_Film_Festival_02_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Tilda_Swinton",
+        "https://de.wikipedia.org/wiki/Tilda_Swinton",
+        "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe",
+        "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion%2C_the_Witch_and_the_Wardrobe"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-117",
+      "filmKey": "",
+      "filmTitle": "Tilda Swinton",
+      "personId": "ACTOR-117",
+      "personName": "Tilda Swinton",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-117-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-117-A-1",
+      "difficulty": "experte",
+      "questionType": "Engagement und öffentliche Arbeit",
+      "learningObjective": "Was zeigte Tilda Swinton in der Performance „The Maybe“ in einer gläsernen Vitrine?",
+      "question": "Was zeigte Tilda Swinton in der Performance „The Maybe“ in einer gläsernen Vitrine?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-1:a",
+          "text": "Sich selbst schlafend oder scheinbar schlafend",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-1:b",
+          "text": "Eine handgeschriebene Autobiografie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-1:c",
+          "text": "Eine täglich wechselnde Filmprojektion",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-1:d",
+          "text": "Eine Sammlung ihrer Filmkostüme",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In der Vitrine lag Tilda Swinton selbst schlafend oder scheinbar schlafend.",
+      "context": "Die Performance wurde 1995 in der Londoner Serpentine Gallery gezeigt und später an anderen Orten wiederholt. Tilda Swinton setzte ihre körperliche Anwesenheit als Kunstwerk ein. Joanna Scanlan war an der Entwicklung beteiligt; Cornelia Parker arbeitete an der Londoner Präsentation mit, ist aber nicht alleinige Urheberin der Idee.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tilda_Swinton",
+        "https://de.wikipedia.org/wiki/Tilda_Swinton",
+        "https://www.serpentinegalleries.org/whats-on/maybe/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-117-A-1",
+      "filmKey": "",
+      "filmTitle": "Tilda Swinton",
+      "personId": "ACTOR-117",
+      "personName": "Tilda Swinton",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-117-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-117-A-2",
+      "difficulty": "experte",
+      "questionType": "Engagement und öffentliche Arbeit",
+      "learningObjective": "Welches Bildungskonzept prägte die von Tilda Swinton mitgegründete Drumduan Upper School?",
+      "question": "Welches Bildungskonzept prägte die von Tilda Swinton mitgegründete Drumduan Upper School?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-2:a",
+          "text": "Steiner-Pädagogik ohne reguläre Prüfungen und Noten",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-2:b",
+          "text": "Militärische Internatsausbildung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-2:c",
+          "text": "Reiner Fernunterricht per Videokonferenz",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-117-A-2:d",
+          "text": "Ausschließlich klassischer Ballettunterricht",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Schule orientierte sich an Steiner-Pädagogik ohne reguläre Prüfungen und Noten.",
+      "context": "Tilda Swinton und Ian Sutherland McCook gründeten die Schule 2013 in Schottland. Ihre Kinder hatten zuvor die Moray Steiner School besucht, deren Ausbildung mit vierzehn Jahren endete. Drumduan sollte eine Fortsetzung ohne reguläre Prüfungen und Noten ermöglichen. Swinton schied 2019 aus der Leitung aus.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tilda_Swinton",
+        "https://de.wikipedia.org/wiki/Tilda_Swinton"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-117-A-2",
+      "filmKey": "",
+      "filmTitle": "Tilda Swinton",
+      "personId": "ACTOR-117",
+      "personName": "Tilda Swinton",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche der vier March-Schwestern spielt Saoirse Ronan in Greta Gerwigs „Little Women“?",
+      "question": "Welche der vier March-Schwestern spielt Saoirse Ronan in Greta Gerwigs „Little Women“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-1:a",
+          "text": "Amy March",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-1:b",
+          "text": "Beth March",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-1:c",
+          "text": "Meg March",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-1:d",
+          "text": "Jo March",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Saoirse Ronan spielt Jo March.",
+      "context": "Jo möchte schreiben und ringt mit Erwartungen an Ehe und wirtschaftliche Sicherheit. Saoirse Ronan spielt die Figur in Gerwigs Adaption von Louisa May Alcotts Roman. Der Film ordnet die Lebensphasen der Schwestern neu und macht Jos Arbeit an einer Geschichte selbst zu einem wichtigen Teil der Erzählung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://en.wikipedia.org/wiki/Little_Women_(2019_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-L-1",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Little Women|2019"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen selbst gewählten Namen verwendet Saoirse Ronans Schülerin Christine McPherson in einem Film von Greta Gerwig?",
+      "question": "Welchen selbst gewählten Namen verwendet Saoirse Ronans Schülerin Christine McPherson in einem Film von Greta Gerwig?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-2:a",
+          "text": "Buffalo Girl",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-2:b",
+          "text": "Lady Bird",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-2:c",
+          "text": "Little Miss Sunshine",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-L-2:d",
+          "text": "Ghost World",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Christine nennt sich selbst Lady Bird.",
+      "context": "Christine möchte sich von ihrem bisherigen Umfeld in Sacramento lösen und besteht auf dem Namen Lady Bird. Saoirse Ronans Figur schwankt zwischen familiärer Bindung und dem Wunsch nach einem eigenen Leben. Der Film behandelt Abschlussjahr, Freundschaften und besonders die konfliktreiche Beziehung zu ihrer Mutter.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://en.wikipedia.org/wiki/Lady_Bird_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-L-2",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Lady Bird|2017"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Aus welchem Land wandert Saoirse Ronans Figur Eilis im Film „Brooklyn“ in die USA aus?",
+      "question": "Aus welchem Land wandert Saoirse Ronans Figur Eilis im Film „Brooklyn“ in die USA aus?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-1:a",
+          "text": "Norwegen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-1:b",
+          "text": "Irland",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-1:c",
+          "text": "Italien",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-1:d",
+          "text": "Polen",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Eilis wandert aus Irland nach New York aus.",
+      "context": "Eilis zieht in den 1950er-Jahren nach New York und muss Heimweh, Arbeit und eine neue Beziehung miteinander vereinbaren. Eine Rückkehr nach Irland eröffnet andere Möglichkeiten. Saoirse Ronans Darstellung verbindet den äußeren Ortswechsel mit einer inneren Entscheidung darüber, wo die Figur ihr eigenes Leben führen will.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://en.wikipedia.org/wiki/Brooklyn_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-M-1",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Brooklyn|2015"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Warum beherrscht Saoirse Ronans Titelfigur in „Wer ist Hanna?“ schon als Jugendliche außergewöhnliche Kampftechniken?",
+      "question": "Warum beherrscht Saoirse Ronans Titelfigur in „Wer ist Hanna?“ schon als Jugendliche außergewöhnliche Kampftechniken?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-2:a",
+          "text": "Sie wurde in einer militärischen Spezialeinheit ausgebildet.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-2:b",
+          "text": "Sie trainierte als Kind mit professionellen Stuntleuten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-2:c",
+          "text": "Ihr Vater trainierte sie abgeschieden für eine Verfolgung.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-M-2:d",
+          "text": "Ihre Mutter leitete eine Kampfsportschule.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hanna wurde von ihrem Vater abgeschieden auf eine gefährliche Verfolgung vorbereitet.",
+      "context": "Hanna wächst mit ihrem Vater fernab des gewöhnlichen Alltags auf. Ihr Training hängt mit einer verborgenen Vergangenheit und einer Geheimdienstverfolgung zusammen. Saoirse Ronan verbindet körperliche Sicherheit im Kampf mit Unsicherheit gegenüber alltäglichen Erfahrungen; Joe Wright inszeniert den Thriller teilweise mit Motiven eines dunklen Märchens.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://en.wikipedia.org/wiki/Hanna_(film)",
+        "https://www.focusfeatures.com/hanna",
+        "https://www.focusfeatures.com/article/legacy_hanna_6-year-anniversary"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-M-2",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Hanna|2011"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-S-1",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welche junge Figur spielte Saoirse Ronan in „Abbitte“, wofür sie ihre erste Oscar-Nominierung erhielt?",
+      "question": "Welche junge Figur spielte Saoirse Ronan in „Abbitte“, wofür sie ihre erste Oscar-Nominierung erhielt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-1:a",
+          "text": "Lola Quincey",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-1:b",
+          "text": "Emily Tallis",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-1:c",
+          "text": "Briony Tallis",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-1:d",
+          "text": "Cecilia Tallis",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre erste Oscarnominierung erhielt sie als junge Briony Tallis.",
+      "context": "Die dreizehnjährige Briony deutet Beobachtungen falsch und erhebt eine folgenreiche Anschuldigung. Saoirse Ronan spielt die erste von mehreren Lebensphasen der Figur. Joe Wrights Adaption von Ian McEwans Roman untersucht Erinnerung und Verantwortung; das spätere Schreiben Brionys hängt mit dem Versuch zusammen, die Vergangenheit zu bearbeiten.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://en.wikipedia.org/wiki/Atonement_(2007_film)",
+        "https://www.focusfeatures.com/atonement",
+        "https://www.focusfeatures.com/article/production_notes___atonement",
+        "https://www.focusfeatures.com/article/dario_marianelli",
+        "https://www.focusfeatures.com/article/legacy_atonement_10-year-anniversary"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-S-1",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Atonement|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-S-2",
+      "difficulty": "schwer",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Wo wurde Saoirse Ronan geboren, obwohl sie mit ihrer Familie in Irland aufwuchs?",
+      "question": "Wo wurde Saoirse Ronan geboren, obwohl sie mit ihrer Familie in Irland aufwuchs?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-2:a",
+          "text": "In der Bronx in New York",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-2:b",
+          "text": "In London",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-2:c",
+          "text": "In Boston",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-S-2:d",
+          "text": "In Dublin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Saoirse Ronan wurde in der Bronx in New York geboren.",
+      "context": "Saoirse Ronans Eltern lebten zur Zeit ihrer Geburt in New York und kehrten später mit ihr nach Irland zurück. Sie besitzt eine irische und amerikanische Herkunftsgeschichte. Diese Lebensstation erklärt auch, warum ihre Verbindung zu beiden Ländern über filmische Einwandererrollen hinausgeht; geboren wurde sie nicht in Dublin.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-S-2",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-118",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-118",
+      "difficulty": "schwer",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Saoirse Ronan dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-118:a",
+          "text": "Emma Roberts",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Saoirse Ronan zu sehen; Emma Roberts ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-118:b",
+          "text": "Saoirse Ronan",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-118:c",
+          "text": "Margot Robbie",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Saoirse Ronan zu sehen; Margot Robbie ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-118:d",
+          "text": "Emma Watson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Saoirse Ronan zu sehen; Emma Watson ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Saoirse Ronan.",
+      "context": "Saoirse Ronan war schon als junge Briony in „Abbitte“ oscarnominiert. Greta Gerwig besetzte sie später als selbst ernannte „Lady Bird“ und als schreibende Jo March. Bei „The Outrun“ übernahm Ronan zusätzlich die Produktion: Die Geschichte einer Rückkehr auf die Orkneyinseln beruht auf Amy Liptrots Erinnerungen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:MKr349648_Saoirse_Ronan_(The_Outrun,_Berlinale_2024).jpg",
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://en.wikipedia.org/wiki/Little_Women_(2019_film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-118",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Little Women|2019"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-A-1",
+      "difficulty": "experte",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Welche Figur spielte Saoirse Ronan 2016 bei ihrem Broadway-Debüt in Arthur Millers „Hexenjagd“?",
+      "question": "Welche Figur spielte Saoirse Ronan 2016 bei ihrem Broadway-Debüt in Arthur Millers „Hexenjagd“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-1:a",
+          "text": "Rebecca Nurse",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-1:b",
+          "text": "Mary Warren",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-1:c",
+          "text": "Elizabeth Proctor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-1:d",
+          "text": "Abigail Williams",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Am Broadway debütierte sie als Abigail Williams in „Hexenjagd“.",
+      "context": "Ivo van Hove inszenierte „The Crucible“ als Neuaufführung des Dramas über die Hexenprozesse von Salem. Saoirse Ronans Abigail treibt die Anschuldigungen maßgeblich voran. Der Bühnenstoff behandelt zugleich Mechanismen kollektiver Verdächtigung; die Rolle gehört zu ihrer Theaterarbeit und ist keine Filmfigur aus „Abbitte“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://de.wikipedia.org/wiki/Saoirse_Ronan",
+        "https://www.broadway.com/shows/crucible/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-A-1",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-118-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-118-A-2",
+      "difficulty": "experte",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Auf wessen autobiografischem Buch basiert „The Outrun“, das Saoirse Ronan mitproduzierte und in dem sie Rona spielt?",
+      "question": "Auf wessen autobiografischem Buch basiert „The Outrun“, das Saoirse Ronan mitproduzierte und in dem sie Rona spielt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-2:a",
+          "text": "Dolly Aldertons",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-2:b",
+          "text": "Cheryl Strayeds",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-2:c",
+          "text": "Amy Liptrots",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-118-A-2:d",
+          "text": "Jeanette Wintersons",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„The Outrun“ basiert auf Amy Liptrots Erinnerungsbuch.",
+      "context": "Amy Liptrot beschrieb ihre Rückkehr auf die Orkneyinseln und ihren Umgang mit Alkoholabhängigkeit. Nora Fingscheidt verfilmte den Stoff mit Saoirse Ronan, die auch als Produzentin beteiligt war. Naturbeobachtungen, Erinnerungen und Gegenwart greifen ineinander; die Figur trägt im Film den Namen Rona statt den Namen der Autorin.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://www.sonypictures.com/movies/theoutrun",
+        "https://www.screen.scot/binaries/content/assets/screen-scot/funding--support/support/cannes/screen-productions-brochure-2024-cannes-v9-final-2.pdf"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-118-A-2",
+      "filmKey": "",
+      "filmTitle": "Saoirse Ronan",
+      "personId": "ACTOR-118",
+      "personName": "Saoirse Ronan",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Outrun|2024"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielt Peter Parkers Freundin Mary Jane Watson in Sam Raimis „Spider-Man“-Trilogie?",
+      "question": "Wer spielt Peter Parkers Freundin Mary Jane Watson in Sam Raimis „Spider-Man“-Trilogie?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-1:a",
+          "text": "Bryce Dallas Howard",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-1:b",
+          "text": "Emma Stone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-1:c",
+          "text": "Jennifer Garner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-1:d",
+          "text": "Kirsten Dunst",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kirsten Dunst spielt Mary Jane Watson in Sam Raimis Trilogie.",
+      "context": "Mary Jane (Kirsten Dunst) gehört zu Peter Parkers engstem Umfeld, ohne zunächst seine geheime Identität zu kennen. Tobey Maguire spielt Peter in Sam Raimis drei Filmen. Andere „Spider-Man“-Reihen besetzen andere Figuren: Emma Stone verkörpert beispielsweise Gwen Stacy, nicht eine neu besetzte Mary Jane.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/Spider-Man_(2002_film)",
+        "https://en.wikipedia.org/wiki/Spider-Man_2",
+        "https://en.wikipedia.org/wiki/Spider-Man_3"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-L-1",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Spider-Man|2002",
+        "Spider-Man 2|2004",
+        "Spider-Man 3|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche junge Vampirfigur spielt Kirsten Dunst in „Interview mit einem Vampir“?",
+      "question": "Welche junge Vampirfigur spielt Kirsten Dunst in „Interview mit einem Vampir“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-2:a",
+          "text": "Claudia",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-2:b",
+          "text": "Carmilla",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-2:c",
+          "text": "Selene",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-L-2:d",
+          "text": "Lucy",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kirsten Dunst verkörpert die kindliche Vampirin Claudia.",
+      "context": "Claudia wird als Kind verwandelt und bleibt körperlich jung, obwohl sie geistig weiter altert. Kirsten Dunst spielt diese widersprüchliche Figur neben Tom Cruise und Brad Pitt. Die Verfilmung von Anne Rices Roman machte sie schon früh bekannt; der Konflikt entsteht gerade aus dem Unterschied zwischen Erscheinung und Erfahrung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)",
+        "https://de.wikipedia.org/wiki/Interview_mit_einem_Vampir",
+        "https://en.wikipedia.org/wiki/Neil_Jordan"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-L-2",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Interview with the Vampire|1994"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Sportgruppe führt Kirsten Dunst als Torrance Shipman in „Girls United“ an?",
+      "question": "Welche Sportgruppe führt Kirsten Dunst als Torrance Shipman in „Girls United“ an?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-1:a",
+          "text": "Eine Cheerleading-Mannschaft",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-1:b",
+          "text": "Ein Volleyballteam",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-1:c",
+          "text": "Eine Basketballmannschaft",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-1:d",
+          "text": "Eine Eiskunstlaufgruppe",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Torrance führt eine Cheerleading-Mannschaft.",
+      "context": "Torrance übernimmt die Leitung eines erfolgreichen Schulteams und entdeckt, dass dessen Choreografien von einer anderen Mannschaft übernommen wurden. Kirsten Dunsts Figur muss sich mit Wettbewerb und unfairen Vorteilen auseinandersetzen. Der Film verbindet Teenagerkomödie mit Fragen danach, wem Leistung und öffentliche Anerkennung tatsächlich gehören.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/Bring_It_On_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-M-1",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Bring It On|2000"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-M-2",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welchen Film gewann Kirsten Dunst 2011 den Darstellerinnenpreis in Cannes?",
+      "question": "Für welchen Film gewann Kirsten Dunst 2011 den Darstellerinnenpreis in Cannes?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-2:a",
+          "text": "Melancholia",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-2:b",
+          "text": "The Power of the Dog",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-2:c",
+          "text": "Marie Antoinette",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-M-2:d",
+          "text": "The Virgin Suicides",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für Justine in „Melancholia“ gewann sie 2011 in Cannes.",
+      "context": "Lars von Triers „Melancholia“ beginnt mit einer Hochzeitsfeier und wechselt zu einer drohenden kosmischen Katastrophe. Kirsten Dunst spielt Justine, deren Depression ihre Beziehung zu diesem Ende verändert. Die Auszeichnung in Cannes würdigte ihre Darstellung; die Figur reagiert auf die Bedrohung anders als ihre Schwester Claire.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/Melancholia_(2011_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-M-2",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Melancholia|2011"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-119",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-119",
+      "difficulty": "mittel",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Kirsten Dunst dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-119:a",
+          "text": "Kate Hudson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Kirsten Dunst zu sehen; Kate Hudson ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-119:b",
+          "text": "Keira Knightley",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Kirsten Dunst zu sehen; Keira Knightley ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-119:c",
+          "text": "Kirsten Dunst",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-119:d",
+          "text": "Natalie Portman",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Kirsten Dunst zu sehen; Natalie Portman ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Kirsten Dunst.",
+      "context": "Kirsten Dunst wurde schon als Claudia in „Interview mit einem Vampir“ bekannt. Neben den „Spider-Man“-Filmen entwickelte sich eine Zusammenarbeit mit Sofia Coppola, darunter „The Virgin Suicides“ und „Marie Antoinette“. In „The Power of the Dog“ spielt sie später Rose, die auf einer Ranch zunehmend unter psychischen Druck gerät.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Kirsten_Dunst_Cannes_2016.jpg",
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/Spider-Man_(2002_film)",
+        "https://en.wikipedia.org/wiki/Spider-Man_2",
+        "https://en.wikipedia.org/wiki/Spider-Man_3"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-119",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Spider-Man|2002",
+        "Spider-Man 2|2004",
+        "Spider-Man 3|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-S-1",
+      "difficulty": "schwer",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Welche Regisseurin besetzte Kirsten Dunst sowohl in „The Virgin Suicides“ als auch in „Marie Antoinette“?",
+      "question": "Welche Regisseurin besetzte Kirsten Dunst sowohl in „The Virgin Suicides“ als auch in „Marie Antoinette“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-1:a",
+          "text": "Kathryn Bigelow",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-1:b",
+          "text": "Jane Campion",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-1:c",
+          "text": "Sofia Coppola",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-1:d",
+          "text": "Greta Gerwig",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sofia Coppola inszenierte beide Filme mit Kirsten Dunst.",
+      "context": "In „The Virgin Suicides“ spielt Kirsten Dunst Lux Lisbon, in „Marie Antoinette“ die französische Königin. Sofia Coppola betrachtet in beiden Filmen junge Frauen unter starken äußeren Erwartungen, verwendet dafür aber unterschiedliche historische und musikalische Welten. Die wiederholte Zusammenarbeit bildet einen wichtigen Strang in Dunsts Karriere.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/The_Virgin_Suicides_(film)",
+        "https://en.wikipedia.org/wiki/Marie_Antoinette_(2006_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-S-1",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Virgin Suicides|1999",
+        "Marie Antoinette|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-S-2",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welche Figur spielt Kirsten Dunst in „The Power of the Dog“, für die sie erstmals für einen Oscar nominiert wurde?",
+      "question": "Welche Figur spielt Kirsten Dunst in „The Power of the Dog“, für die sie erstmals für einen Oscar nominiert wurde?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-2:a",
+          "text": "Rose Gordon",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-2:b",
+          "text": "Edwina Dabney",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-2:c",
+          "text": "Claire Colburn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-S-2:d",
+          "text": "Justine",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre erste Oscarnominierung erhielt sie als Rose Gordon.",
+      "context": "Rose heiratet den Rancher George und zieht mit ihrem Sohn Peter auf dessen Anwesen. Georges Bruder Phil setzt sie zunehmend unter Druck. Kirsten Dunst und Jesse Plemons spielen das Paar; Jane Campions Film untersucht Macht und Verletzlichkeit hinter den Erwartungen an Männlichkeit im amerikanischen Westen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/The_Power_of_the_Dog_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-S-2",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Power of the Dog|2021"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-A-1",
+      "difficulty": "experte",
+      "questionType": "Musik und Sprechrollen",
+      "learningObjective": "Welche Figur spricht Kirsten Dunst in der englischen Disney-Fassung von Hayao Miyazakis Film über eine junge Hexe mit eigenem Lieferdienst?",
+      "question": "Welche Figur spricht Kirsten Dunst in der englischen Disney-Fassung von Hayao Miyazakis Film über eine junge Hexe mit eigenem Lieferdienst?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-1:a",
+          "text": "Kiki",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-1:b",
+          "text": "San",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-1:c",
+          "text": "Chihiro",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-1:d",
+          "text": "Nausicaä",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kirsten Dunst spricht Kiki in Disneys englischer Synchronfassung.",
+      "context": "Kiki ist eine junge Hexe, die für ihre Ausbildung allein in eine neue Stadt zieht und einen Lieferdienst beginnt. Kirsten Dunst sprach sie in der Ende der 1990er-Jahre veröffentlichten englischen Disney-Fassung. Der Film selbst stammt von 1989; sein Erscheinungsjahr und das Jahr einer späteren Synchronfassung sind verschieden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/Kiki%27s_Delivery_Service"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-A-1",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Kiki's Delivery Service|1989"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-119-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-119-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Stummfilmschauspielerin stellt Kirsten Dunst in Peter Bogdanovichs „The Cat's Meow“ dar?",
+      "question": "Welche Stummfilmschauspielerin stellt Kirsten Dunst in Peter Bogdanovichs „The Cat's Meow“ dar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-2:a",
+          "text": "Marion Davies",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-2:b",
+          "text": "Lillian Gish",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-2:c",
+          "text": "Clara Bow",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-119-A-2:d",
+          "text": "Louise Brooks",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „The Cat’s Meow“ verkörpert sie Marion Davies.",
+      "context": "Der Film erzählt eine spekulative Version der Ereignisse auf William Randolph Hearsts Yacht im Jahr 1924. Kirsten Dunst spielt Marion Davies, deren Beziehung zu Hearst und Nähe zu Charlie Chaplin Teil der Handlung sind. Diese filmische Deutung sollte nicht mit einer gesicherten Rekonstruktion des damaligen Todesfalls verwechselt werden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://de.wikipedia.org/wiki/Kirsten_Dunst",
+        "https://en.wikipedia.org/wiki/The_Cat%27s_Meow"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-119-A-2",
+      "filmKey": "",
+      "filmTitle": "Kirsten Dunst",
+      "personId": "ACTOR-119",
+      "personName": "Kirsten Dunst",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Cat's Meow|2001"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Anhängerin Voldemorts spielt Helena Bonham Carter in den „Harry Potter“-Filmen?",
+      "question": "Welche Anhängerin Voldemorts spielt Helena Bonham Carter in den „Harry Potter“-Filmen?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-1:a",
+          "text": "Bellatrix Lestrange",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-1:b",
+          "text": "Dolores Umbridge",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-1:c",
+          "text": "Rita Kimmkorn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-1:d",
+          "text": "Narcissa Malfoy",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Helena Bonham Carter spielt Bellatrix Lestrange.",
+      "context": "Bellatrix gehört zu den Todessern und begegnet Harrys Umfeld mit fanatischer Loyalität zu Voldemort. Helena Bonham Carter übernahm die Rolle ab „Harry Potter und der Orden des Phönix“. Ihre Darstellung setzt starke körperliche Bewegungen und wechselndes Tempo ein; Bellatrix ist nicht dieselbe Figur wie ihre Schwester Narcissa.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-L-1",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Harry Potter and the Order of the Phoenix|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Herrscherin mit auffällig großem Kopf spielt Helena Bonham Carter in Tim Burtons „Alice im Wunderland“?",
+      "question": "Welche Herrscherin mit auffällig großem Kopf spielt Helena Bonham Carter in Tim Burtons „Alice im Wunderland“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-2:a",
+          "text": "Die Weiße Königin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-2:b",
+          "text": "Die Rote Königin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-2:c",
+          "text": "Die Königin von Saba",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-L-2:d",
+          "text": "Die Schneekönigin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre Herrscherin in Burtons Film ist die Rote Königin.",
+      "context": "Burtons Film verbindet Motive aus Lewis Carrolls Alice-Büchern mit einer neuen Handlung. Helena Bonham Carter spielt Iracebeth, deren Kopf durch visuelle Effekte vergrößert wurde. Anne Hathaway verkörpert die Weiße Königin. Die gegensätzlichen Schwestern strukturieren den Machtkonflikt dieser konkreten Filmfassung, nicht sämtlicher Alice-Adaptionen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)",
+        "https://movies.disney.com/alice-in-wonderland-2010",
+        "https://www.foundry.com/insights/film-tv/alice-in-wonderland",
+        "https://movies.disney.com/alice-in-wonderland-1951/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-L-2",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Alice in Wonderland|2010"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt Helena Bonham Carters Figur, die in „Fight Club“ wie der Erzähler Selbsthilfegruppen besucht?",
+      "question": "Wie heißt Helena Bonham Carters Figur, die in „Fight Club“ wie der Erzähler Selbsthilfegruppen besucht?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-1:a",
+          "text": "Clementine Kruczynski",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-1:b",
+          "text": "Mia Wallace",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-1:c",
+          "text": "Jane Burnham",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-1:d",
+          "text": "Marla Singer",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „Fight Club“ heißt ihre Figur Marla Singer.",
+      "context": "Marla besucht wie der Erzähler Selbsthilfegruppen und wird dadurch Teil seiner widersprüchlichen Lebenswelt. Helena Bonham Carter spielt sie mit einer Mischung aus Distanz und Verletzlichkeit. Marlas Beziehung zu den männlichen Hauptfiguren erhält im Verlauf des Films eine neue Bedeutung; sie ist keine Organisatorin des eigentlichen Fight Club.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://en.wikipedia.org/wiki/Fight_Club"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-M-1",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Fight Club|1999"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche historische Person spielt Helena Bonham Carter in „The King's Speech“?",
+      "question": "Welche historische Person spielt Helena Bonham Carter in „The King's Speech“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-2:a",
+          "text": "Elizabeth, die Ehefrau von George VI.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-2:b",
+          "text": "Elizabeth II., seine Tochter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-2:c",
+          "text": "Prinzessin Margaret",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-M-2:d",
+          "text": "Königin Victoria",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sie spielt Elizabeth, die Frau von George VI. und spätere Queen Mother.",
+      "context": "Elizabeth (Helena Bonham Carter) sucht Hilfe für ihren Mann George VI. (Colin Firth), dessen Stottern öffentliche Auftritte erschwert. Gemeinsam begegnen sie dem unkonventionellen Sprachtherapeuten Lionel Logue (Geoffrey Rush). Elizabeth ist die spätere Queen Mother und damit die Mutter, nicht eine andere Lebensphase, der späteren Königin Elizabeth II.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://en.wikipedia.org/wiki/The_King%27s_Speech"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-M-2",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The King's Speech|2010"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-S-1",
+      "difficulty": "schwer",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Auf welchem Autor beruhen „Zimmer mit Aussicht“ und „Wiedersehen in Howards End“, in denen Helena Bonham Carter mitwirkte?",
+      "question": "Auf welchem Autor beruhen „Zimmer mit Aussicht“ und „Wiedersehen in Howards End“, in denen Helena Bonham Carter mitwirkte?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-1:a",
+          "text": "Charles Dickens",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-1:b",
+          "text": "E. M. Forster",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-1:c",
+          "text": "Henry James",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-1:d",
+          "text": "D. H. Lawrence",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Beide Filme beruhen auf Romanen von E. M. Forster.",
+      "context": "Helena Bonham Carter spielt in den beiden Merchant-Ivory-Filmen Lucy Honeychurch und Helen Schlegel. Beide Stoffe untersuchen gesellschaftliche Erwartungen und persönliche Beziehungen in England. Die frühen Literaturverfilmungen prägten ihr damaliges Image als Darstellerin historischer Rollen, bevor sie verstärkt exzentrische und fantastische Figuren übernahm.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://en.wikipedia.org/wiki/A_Room_with_a_View_(1985_film)",
+        "https://en.wikipedia.org/wiki/Howards_End_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-S-1",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "A Room with a View|1985",
+        "Howards End|1992"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welcher Gruppe gehört Helena Bonham Carters Figur Ari in „Planet der Affen“ von 2001 an?",
+      "question": "Welcher Gruppe gehört Helena Bonham Carters Figur Ari in „Planet der Affen“ von 2001 an?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-2:a",
+          "text": "Orang-Utans",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-2:b",
+          "text": "Schimpansen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-2:c",
+          "text": "Menschen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-S-2:d",
+          "text": "Gorillas",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ari ist eine Schimpansin.",
+      "context": "Ari setzt sich in Tim Burtons Film für die unterdrückten Menschen ein. Helena Bonham Carter spielt die Schimpansin unter aufwendiger Maske. Die Figurenordnung unterscheidet sich von der späteren Caesar-Reihe; ihre Rolle gehört ausdrücklich zur Neuinterpretation von 2001 und sollte nicht in diese andere Filmkontinuität eingeordnet werden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(2001_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-S-2",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Planet of the Apes|2001"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-120",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-120",
+      "difficulty": "schwer",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Helena Bonham Carter dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-120:a",
+          "text": "Halle Berry",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Helena Bonham Carter zu sehen; Halle Berry ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-120:b",
+          "text": "Gong Li",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Helena Bonham Carter zu sehen; Gong Li ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-120:c",
+          "text": "Emily Watson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Helena Bonham Carter zu sehen; Emily Watson ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-120:d",
+          "text": "Helena Bonham Carter",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Porträt zeigt Helena Bonham Carter.",
+      "context": "Helena Bonham Carters frühe Literaturverfilmungen „Zimmer mit Aussicht“ und „Wiedersehen in Howards End“ beruhen auf E. M. Forster. Später spielte sie unter anderem Marla in „Fight Club“, Bellatrix im „Harry Potter“-Kino und die spätere Queen Mother in „The King’s Speech“. Historische Gesellschaftsrollen und fantastische Figuren stehen in ihrem Werk nebeneinander.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:MerchantIvoryCurzMayfair201124_(16_of_28)_(54154554145)_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-120",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Harry Potter and the Order of the Phoenix|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-A-1",
+      "difficulty": "experte",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Welcher frühere britische Premierminister war Helena Bonham Carters Urgroßvater?",
+      "question": "Welcher frühere britische Premierminister war Helena Bonham Carters Urgroßvater?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-1:a",
+          "text": "H. H. Asquith",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-1:b",
+          "text": "Clement Attlee",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-1:c",
+          "text": "Winston Churchill",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-1:d",
+          "text": "David Lloyd George",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "H. H. Asquith war Helena Bonham Carters Urgroßvater.",
+      "context": "Helena Bonham Carters Großmutter Violet war die Tochter von H. H. Asquith, der Großbritannien von 1908 bis 1916 regierte. Die Schauspielerin stammt damit aus einer politisch bekannten Familie. Diese tatsächliche Verwandtschaft ist von ihren zahlreichen Rollen als Mitglied historischer Herrscherfamilien zu unterscheiden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-A-1",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-120-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-120-A-2",
+      "difficulty": "experte",
+      "questionType": "Ausbildung und frühe Arbeit",
+      "learningObjective": "Wie finanzierte Helena Bonham Carter als Jugendliche ihren ersten Eintrag im Schauspielerverzeichnis Spotlight?",
+      "question": "Wie finanzierte Helena Bonham Carter als Jugendliche ihren ersten Eintrag im Schauspielerverzeichnis Spotlight?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-2:a",
+          "text": "Mit dem Honorar eines ersten Kinofilms",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-2:b",
+          "text": "Mit einem Plattenvertrag",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-2:c",
+          "text": "Mit einer Sportförderung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-120-A-2:d",
+          "text": "Mit dem Preisgeld eines Schreibwettbewerbs",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Den Spotlight-Eintrag bezahlte sie mit dem Preisgeld eines Schreibwettbewerbs.",
+      "context": "Helena Bonham Carter gewann 1979 einen nationalen Schreibwettbewerb und verwendete das Geld für den Eintrag. Sie begann ohne eine reguläre abgeschlossene Schauspielschulausbildung und erhielt zunächst Werbe- und Fernsehauftritte. Die frühen Literaturrollen waren somit ein Ergebnis dieses Einstiegs, nicht die Quelle der anfänglichen Finanzierung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helena_Bonham_Carter",
+        "https://de.wikipedia.org/wiki/Helena_Bonham_Carter"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-120-A-2",
+      "filmKey": "",
+      "filmTitle": "Helena Bonham Carter",
+      "personId": "ACTOR-120",
+      "personName": "Helena Bonham Carter",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Figur spielt Jennifer Aniston in der Sitcom „Friends“?",
+      "question": "Welche Figur spielt Jennifer Aniston in der Sitcom „Friends“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-1:a",
+          "text": "Phoebe Buffay",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-1:b",
+          "text": "Monica Geller",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-1:c",
+          "text": "Rachel Green",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-1:d",
+          "text": "Carol Willick",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jennifer Aniston spielt Rachel Green.",
+      "context": "Rachel beginnt nach der Flucht von ihrer Hochzeit ein selbstständigeres Leben in New York. Jennifer Aniston spielt sie über alle zehn Staffeln; Arbeit, Freundschaften und ihre Beziehung zu Ross sind wiederkehrende Handlungslinien. Die Serie machte Aniston international bekannt, obwohl sie zuvor bereits andere Fernsehrollen übernommen hatte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-L-1",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welcher Hunderasse gehört Marley in Jennifer Anistons Film „Marley & Ich“ an?",
+      "question": "Welcher Hunderasse gehört Marley in Jennifer Anistons Film „Marley & Ich“ an?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-2:a",
+          "text": "Golden Retriever",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-2:b",
+          "text": "Labrador Retriever",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-2:c",
+          "text": "Deutscher Schäferhund",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-L-2:d",
+          "text": "Dalmatiner",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Marley ist ein Labrador Retriever.",
+      "context": "Jennifer Aniston und Owen Wilson spielen Jenny und John Grogan, deren Leben von ihrem ungestümen Hund Marley begleitet wird. Die Verfilmung basiert auf John Grogans autobiografischem Buch. Der Hund ist mehr als ein komischer Störenfried: Seine Lebenszeit verbindet die verschiedenen Familien- und Berufsphasen des Paares.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://en.wikipedia.org/wiki/Marley_%26_Me_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-L-2",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Marley & Me|2008"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-121",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-121",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Jennifer Aniston dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-121:a",
+          "text": "Jennifer Aniston",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-121:b",
+          "text": "Emily Watson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Aniston zu sehen; Emily Watson ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-121:c",
+          "text": "Cate Blanchett",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Aniston zu sehen; Cate Blanchett ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-121:d",
+          "text": "Jennifer Connelly",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Aniston zu sehen; Jennifer Connelly ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Jennifer Aniston.",
+      "context": "Jennifer Aniston spielte Rachel Green über alle zehn Staffeln von „Friends“. Als Alex Levy kehrte sie in „The Morning Show“ zu einer großen Serienrolle zurück und wirkte auch als Produzentin mit. Im Drama „Cake“ arbeitete sie dagegen an einer Figur, deren chronische Schmerzen und Verlustgeschichte weit von der Sitcom entfernt liegen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:JenniferAnistonHWoFFeb2012.jpg",
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-121",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Beruf hat Jennifer Anistons Figur Alex Levy in „The Morning Show“?",
+      "question": "Welchen Beruf hat Jennifer Anistons Figur Alex Levy in „The Morning Show“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-1:a",
+          "text": "Verteidigerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-1:b",
+          "text": "Fernsehmoderatorin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-1:c",
+          "text": "Notfallärztin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-1:d",
+          "text": "Musikmanagerin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Alex Levy ist Fernsehmoderatorin.",
+      "context": "Alex Levy ist eine etablierte Moderatorin, deren Sendung durch einen Skandal und neue Machtkonflikte verändert wird. Reese Witherspoon spielt die hinzugekommene Bradley Jackson. Jennifer Aniston arbeitet an der Serie auch als Produzentin; der Stoff verbindet die öffentliche Wirkung einer Fernsehsendung mit den internen Beziehungen ihrer Redaktion.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-M-1",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Arbeitgeberin spielt Jennifer Aniston in „Kill the Boss“?",
+      "question": "Welche Arbeitgeberin spielt Jennifer Aniston in „Kill the Boss“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-2:a",
+          "text": "Die Zahnärztin Julia Harris",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-2:b",
+          "text": "Die Moderatorin Alex Levy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-2:c",
+          "text": "Die Kellnerin Joanna",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-M-2:d",
+          "text": "Die Modeangestellte Rachel Green",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „Kill the Boss“ spielt Jennifer Aniston die Zahnärztin Julia Harris.",
+      "context": "Julia Harris missbraucht ihre Macht gegenüber ihrem Assistenten Dale, gespielt von Charlie Day. Jennifer Anistons Figur gehört zu drei problematischen Vorgesetzten, gegen die sich die Hauptfiguren wehren wollen. Die schwarze Komödie überzeichnet die Situation; die Zahnärztin ist eine Gegenrolle zu Anistons bekannteren romantischen Filmfiguren.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://en.wikipedia.org/wiki/Horrible_Bosses",
+        "https://en.wikipedia.org/wiki/Seth_Gordon"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-M-2",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Horrible Bosses|2011"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welches Leiden prägt Jennifer Anistons Figur Claire Bennett im Drama „Cake“?",
+      "question": "Welches Leiden prägt Jennifer Anistons Figur Claire Bennett im Drama „Cake“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-1:a",
+          "text": "Ein fortschreitender Verlust des Hörvermögens",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-1:b",
+          "text": "Chronische Schmerzen nach einem schweren Unfall",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-1:c",
+          "text": "Eine anhaltende Amnesie nach einer Entführung",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-1:d",
+          "text": "Eine schwere Depression nach dem Tod ihrer Mutter",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Claire lebt nach einem schweren Unfall mit chronischen Schmerzen.",
+      "context": "Claire besucht eine Selbsthilfegruppe und beschäftigt sich mit dem Tod einer anderen Teilnehmerin. Jennifer Anistons Darstellung zeigt körperliche Einschränkungen und einen belastenden persönlichen Verlust. Daniel Barnz' Film verzichtet auf ihre übliche romantische Komödienrolle; die Narben und Schmerzen gehören zur konkreten Geschichte dieser Figur.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://en.wikipedia.org/wiki/Cake_(2014_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-S-1",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Cake|2014"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "In welchem Film spielt Jennifer Aniston die Kellnerin Joanna, deren Chef viele Anstecker an ihrer Uniform fordert?",
+      "question": "In welchem Film spielt Jennifer Aniston die Kellnerin Joanna, deren Chef viele Anstecker an ihrer Uniform fordert?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-2:a",
+          "text": "Freunde mit Geld",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-2:b",
+          "text": "Der gebuchte Mann",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-2:c",
+          "text": "The Good Girl",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-S-2:d",
+          "text": "Alles Routine",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Kellnerin Joanna gehört zur Arbeitsplatzsatire „Alles Routine“.",
+      "context": "Mike Judges „Office Space“ verspottet sowohl Büroarbeit als auch die künstliche Freundlichkeit einer Restaurantkette. Joannas Anstecker sollen vermeintliche Individualität zeigen, werden aber zur kontrollierten Vorschrift. Jennifer Anistons Nebenhandlung ergänzt damit die Frustration der männlichen Hauptfigur über sinnlose Regeln am Arbeitsplatz.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://en.wikipedia.org/wiki/Office_Space",
+        "https://www.rottentomatoes.com/m/office_space"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-S-2",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Office Space|1999"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-A-1",
+      "difficulty": "experte",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Wie heißt die Produktionsfirma, die Jennifer Aniston 2008 mit Kristin Hahn gründete?",
+      "question": "Wie heißt die Produktionsfirma, die Jennifer Aniston 2008 mit Kristin Hahn gründete?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-1:a",
+          "text": "Hello Sunshine",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-1:b",
+          "text": "Echo Films",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-1:c",
+          "text": "Happy Madison",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-1:d",
+          "text": "Plan B Entertainment",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mit Kristin Hahn gründete Jennifer Aniston Echo Films.",
+      "context": "Jennifer Aniston und Kristin Hahn gründeten Echo Films, um selbst Filmprojekte zu entwickeln und zu produzieren. Aniston war später etwa an „Dumplin'“ als Hauptdarstellerin und Produzentin beteiligt. Die Frage unterscheidet die gemeinsame Firma von Plan B, an dessen früherer Gründung Aniston ebenfalls beteiligt gewesen war.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-A-1",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-121-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-121-A-2",
+      "difficulty": "experte",
+      "questionType": "Ausbildung und frühe Arbeit",
+      "learningObjective": "Welche Rolle spielte Jennifer Aniston in der kurzlebigen Fernsehserie „Ferris Bueller“ vor „Friends“?",
+      "question": "Welche Rolle spielte Jennifer Aniston in der kurzlebigen Fernsehserie „Ferris Bueller“ vor „Friends“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-2:a",
+          "text": "Ferris' Freundin Sloane",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-2:b",
+          "text": "Ferris' Schwester Jeannie",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-2:c",
+          "text": "Die Lehrerin Katie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-121-A-2:d",
+          "text": "Die Mutter des Titelhelden",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jennifer Aniston spielte Ferris’ Schwester Jeannie.",
+      "context": "Die Serie übertrug den bekannten Kinostoff „Ferris macht blau“ auf ein Fernsehformat und lief 1990 bis 1991. Jennifer Aniston spielte Jeannie, eine Rolle, die im Film Jennifer Grey übernommen hatte. Diese Station ging ihrem Durchbruch als Rachel Green voraus und zeigt einen anderen frühen Weg ins Fernsehen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Aniston",
+        "https://de.wikipedia.org/wiki/Jennifer_Aniston"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-121-A-2",
+      "filmKey": "",
+      "filmTitle": "Jennifer Aniston",
+      "personId": "ACTOR-121",
+      "personName": "Jennifer Aniston",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-L-1",
+      "knowledgeId": "K-MUS-202609-P01-L-011",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Schauspielerin spielt die Titelfigur im ursprünglichen Disney-Film „Mary Poppins“ von 1964?",
+      "question": "Welche Schauspielerin spielt die Titelfigur im ursprünglichen Disney-Film „Mary Poppins“ von 1964?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-1:a",
+          "text": "Debbie Reynolds",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-1:b",
+          "text": "Julie Andrews",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-1:c",
+          "text": "Audrey Hepburn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-1:d",
+          "text": "Doris Day",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Julie Andrews spielt Mary Poppins im Film von 1964.",
+      "context": "Julie Andrews gewann für ihr Kinodebüt als magische Kinderfrau den Hauptdarstellerinnen-Oscar. „Mary Poppins“ verbindet reale Darsteller mit Zeichentrick und Liedern, die den Alltag der Familie Banks verwandeln. Die Fortsetzung von 2018 erzählt mit Emily Blunt von der nächsten Generation derselben Familie; sie ist keine Neuverfilmung des ursprünglichen Films.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://en.wikipedia.org/wiki/Mary_Poppins_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-L-1",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Mary Poppins|1964"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-122-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Aufgabe übernimmt Julie Andrews' Figur Maria in „Meine Lieder – meine Träume“ bei der Familie von Trapp?",
+      "question": "Welche Aufgabe übernimmt Julie Andrews' Figur Maria in „Meine Lieder – meine Träume“ bei der Familie von Trapp?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-2:a",
+          "text": "Sie unterrichtet die Kinder als Musiklehrerin am Konservatorium.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-2:b",
+          "text": "Sie organisiert öffentliche Konzerte als Managerin.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-2:c",
+          "text": "Sie versorgt die Familie als Hauswirtschafterin.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-L-2:d",
+          "text": "Sie betreut die Kinder als Gouvernante.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Maria betreut die Kinder als Gouvernante.",
+      "context": "Maria kommt aus einem Kloster in den Haushalt des verwitweten Kapitäns von Trapp. Ihre Verbindung zu den Kindern entwickelt sich besonders durch gemeinsames Singen. Julie Andrews spielt sie in „The Sound of Music“; das Musical verarbeitet die reale Familiengeschichte mit deutlichen Veränderungen und zeitlichen Verdichtungen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-L-2",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Sound of Music|1965"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-122",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-122",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Julie Andrews dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-122:a",
+          "text": "Sophia Loren",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Andrews zu sehen; Sophia Loren ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-122:b",
+          "text": "Julie Andrews",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-122:c",
+          "text": "Liv Ullmann",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Andrews zu sehen; Liv Ullmann ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-122:d",
+          "text": "Shirley MacLaine",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Andrews zu sehen; Shirley MacLaine ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Julie Andrews.",
+      "context": "Julie Andrews’ Arbeit an Broadwaymusicals ging ihren Kinorollen voraus. Sie war die ursprüngliche Eliza Doolittle in „My Fair Lady“, spielte im Film aber Mary Poppins und Maria von Trapp. Zusammen mit ihrer Tochter Emma Walton Hamilton schreibt sie außerdem Kinderbücher; Literatur ist damit ein weiteres Arbeitsfeld neben Bühne und Film.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Julie_Andrews_Park_Hyatt,_Sydney,_Australia_2013.jpg",
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://en.wikipedia.org/wiki/Mary_Poppins_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-122",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Mary Poppins|1964"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-122-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Julie Andrews spielt in „Plötzlich Prinzessin“ Königin Clarisse. Über welches erfundene Land herrscht sie?",
+      "question": "Julie Andrews spielt in „Plötzlich Prinzessin“ Königin Clarisse. Über welches erfundene Land herrscht sie?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-1:a",
+          "text": "Genovia",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-1:b",
+          "text": "Latveria",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-1:c",
+          "text": "Freedonia",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-1:d",
+          "text": "Wakanda",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Königin Clarisse regiert das erfundene Genovia.",
+      "context": "Clarisse ist die Großmutter der amerikanischen Schülerin Mia und informiert sie über ihre königliche Abstammung. Anne Hathaway spielt Mia. Julie Andrews übernimmt damit eine Mentorenfigur, die höfisches Verhalten und familiäre Nähe miteinander verbinden muss; Genovia ist ein Bestandteil dieser Film- und Buchwelt, kein tatsächlicher Staat.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://en.wikipedia.org/wiki/The_Princess_Diaries_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-M-1",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Princess Diaries|2001"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-122-M-2",
+      "difficulty": "mittel",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Welche Rolle spielte Julie Andrews in der ursprünglichen Broadway-Produktion von „My Fair Lady“?",
+      "question": "Welche Rolle spielte Julie Andrews in der ursprünglichen Broadway-Produktion von „My Fair Lady“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-2:a",
+          "text": "Sally Bowles",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-2:b",
+          "text": "Mary Poppins",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-2:c",
+          "text": "Eliza Doolittle",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-M-2:d",
+          "text": "Anna Leonowens",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Am Broadway spielte Julie Andrews ursprünglich Eliza Doolittle.",
+      "context": "Julie Andrews spielte Eliza ab 1956 neben Rex Harrison als Henry Higgins. In der späteren Kinofassung wurde sie durch Audrey Hepburn ersetzt, deren Gesang überwiegend Marni Nixon übernahm. Die Frage betrifft die Bühne: Andrews' großer Erfolg mit „Mary Poppins“ folgte erst nach dieser ursprünglichen Theaterarbeit.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-M-2",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-122-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche mehrfache Geschlechterrolle übernimmt Julie Andrews als Sängerin Victoria in „Victor/Victoria“?",
+      "question": "Welche mehrfache Geschlechterrolle übernimmt Julie Andrews als Sängerin Victoria in „Victor/Victoria“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-1:a",
+          "text": "Zwillingsschwestern tauschen ihre Identitäten.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-1:b",
+          "text": "Ein Mann wird durch einen Zauber zur Frau.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-1:c",
+          "text": "Eine Königin spielt unerkannt ihre eigene Dienerin.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-1:d",
+          "text": "Eine Frau gibt sich als Mann aus, der als Frau auftritt.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Victoria ist eine Frau, die sich als Mann ausgibt, der als Frau auftritt.",
+      "context": "Victoria findet in einer Pariser Unterhaltungsszene Arbeit, indem sie als angeblicher polnischer Graf einen weiblichen Bühnenauftritt anbietet. Blake Edwards inszenierte das Verwechslungsspiel mit Julie Andrews. Die Handlung trennt bewusst berufliche Darstellung und tatsächliche Identität; daraus entstehen Liebeskonflikte und Fragen nach gesellschaftlichen Erwartungen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://en.wikipedia.org/wiki/Victor/Victoria"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-S-1",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Victor/Victoria|1982"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-122-S-2",
+      "difficulty": "schwer",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Unter welchem Namen veröffentlichte Julie Andrews ihr erstes Kinderbuch „Mandy“?",
+      "question": "Unter welchem Namen veröffentlichte Julie Andrews ihr erstes Kinderbuch „Mandy“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-2:a",
+          "text": "J. K. Rowling",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-2:b",
+          "text": "Helen Palmer",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-2:c",
+          "text": "Enid Blyton",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-S-2:d",
+          "text": "Julie Edwards",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Mandy“ veröffentlichte sie unter dem Namen Julie Edwards.",
+      "context": "„Mandy“ erschien 1971 und erzählt von einem Mädchen, das einen verlassenen Garten für sich entdeckt. Julie Andrews verwendete dabei ihren Ehenamen Julie Edwards. Ihre schriftstellerische Arbeit umfasst später viele weitere Kinderbücher und Erinnerungen; sie ist ein eigenständiger Teil ihrer Karriere neben Musik, Bühne und Film.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://www.julieandrewscollection.com/about/julie-andrews/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-S-2",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-122-A-1",
+      "difficulty": "experte",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "In welchem Musical gab Julie Andrews 1954 ihr Broadway-Debüt?",
+      "question": "In welchem Musical gab Julie Andrews 1954 ihr Broadway-Debüt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-1:a",
+          "text": "My Fair Lady",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-1:b",
+          "text": "Brigadoon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-1:c",
+          "text": "The Boy Friend",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-1:d",
+          "text": "Camelot",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihr Broadway-Debüt gab sie in „The Boy Friend“.",
+      "context": "Julie Andrews spielte Polly Browne in Sandy Wilsons Musical, das die Unterhaltungsmusik der 1920er-Jahre aufgreift. Die Rolle brachte sie als junge britische Darstellerin nach New York. „My Fair Lady“ wurde erst danach ihr großer Broadway-Erfolg; Debüt und Durchbruch bezeichnen hier zwei unterschiedliche Produktionen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://www.julieandrewsonline.com/2015/theatre_theboyfriend.html"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-A-1",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-122-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-122-A-2",
+      "difficulty": "experte",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Mit welcher Tochter schreibt Julie Andrews seit vielen Jahren gemeinsam Kinderbücher?",
+      "question": "Mit welcher Tochter schreibt Julie Andrews seit vielen Jahren gemeinsam Kinderbücher?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-2:a",
+          "text": "Carrie Fisher",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-2:b",
+          "text": "Emma Walton Hamilton",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-2:c",
+          "text": "Joely Richardson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-122-A-2:d",
+          "text": "Kate Hudson",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre Schreibpartnerin ist die Tochter Emma Walton Hamilton.",
+      "context": "Emma Walton Hamilton ist selbst Autorin und an literarischen Bildungsprojekten beteiligt. Mutter und Tochter entwickelten unter anderem die Reihe „The Very Fairy Princess“ und Sammlungen von Gedichten und Liedern. Die gemeinsame Arbeit zeigt eine kreative Familienbeziehung; sie besteht nicht lediglich in einer gelegentlichen Widmung eines einzelnen Buchs.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Andrews",
+        "https://de.wikipedia.org/wiki/Julie_Andrews",
+        "https://www.julieandrewscollection.com/about/julie-andrews/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-122-A-2",
+      "filmKey": "",
+      "filmTitle": "Julie Andrews",
+      "personId": "ACTOR-122",
+      "personName": "Julie Andrews",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-123-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-123-L-1",
+      "difficulty": "leicht",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Mit welchem nationalen Kino ist Isabelle Hupperts Laufbahn besonders verbunden?",
+      "question": "Mit welchem nationalen Kino ist Isabelle Hupperts Laufbahn besonders verbunden?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-1:a",
+          "text": "Dem spanischen Kino",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-1:b",
+          "text": "Dem italienischen Kino",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-1:c",
+          "text": "Dem französischen Kino",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-1:d",
+          "text": "Dem schwedischen Kino",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Isabelle Hupperts beruflicher Ausgangspunkt und Schwerpunkt liegt im französischen Kino.",
+      "context": "Isabelle Hupperts französische Filme umfassen unter anderem die Zusammenarbeit mit Claude Chabrol: In „Biester“ spielt sie die Postangestellte Jeanne, in „Violette Nozière“ die Titelfigur. Ihre Laufbahn reicht zugleich über Frankreich hinaus, etwa zu Michael Hanekes „Die Klavierspielerin“ und Hong Sang-soos „In Another Country“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Isabelle_Huppert",
+        "https://de.wikipedia.org/wiki/Isabelle_Huppert"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-123-L-1",
+      "filmKey": "",
+      "filmTitle": "Isabelle Huppert",
+      "personId": "ACTOR-123",
+      "personName": "Isabelle Huppert",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P02-123-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P02-123-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "An welcher Arbeitsstelle unterrichtet Isabelle Hupperts Erika Kohut in Michael Hanekes Jelinek-Verfilmung?",
+      "question": "An welcher Arbeitsstelle unterrichtet Isabelle Hupperts Erika Kohut in Michael Hanekes Jelinek-Verfilmung?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-2:a",
+          "text": "Als Klavierlehrerin an einem Konservatorium",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-2:b",
+          "text": "Als Gesangslehrerin an einem Opernhaus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-2:c",
+          "text": "Als Geigenlehrerin an einer Volkshochschule",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P02-123-L-2:d",
+          "text": "Als Musiklehrerin an einer Grundschule",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Erika Kohut unterrichtet Klavier an einem Konservatorium.",
+      "context": "Erika unterrichtet in Wien und lebt in einer engen, konfliktreichen Beziehung mit ihrer Mutter. Ein junger Schüler verändert ihr gewohntes Umfeld. Michael Hanekes Verfilmung von Elfriede Jelineks Roman untersucht Kontrolle und unterdrückte Wünsche; Isabelle Huppert erhielt für die Darstellung 2001 den Darstellerinnenpreis in Cannes.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Isabelle_Huppert",
+        "https://de.wikipedia.org/wiki/Isabelle_Huppert",
+        "https://en.wikipedia.org/wiki/The_Piano_Teacher_(film)",
+        "https://www.festival-cannes.com/f/la-pianiste/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P02-123-L-2",
+      "filmKey": "",
+      "filmTitle": "Isabelle Huppert",
+      "personId": "ACTOR-123",
+      "personName": "Isabelle Huppert",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Piano Teacher|2001"
+      ],
+      "sourceArea": "actors"
     }
   ]
 }
