@@ -302,6 +302,13 @@ async function mockAccounts(page: Page) {
 }
 
 async function account(page: Page) {
+  await expect(
+    page
+      .getByRole("button", { name: "Profil", exact: true })
+      .or(page.getByRole("button", { name: "Eine Runde ausprobieren" }))
+      .or(page.getByLabel("E-Mail-Adresse"))
+      .first(),
+  ).toBeVisible();
   if (await page.getByRole("button", { name: "Profil", exact: true }).count())
     await page.getByRole("button", { name: "Profil", exact: true }).click();
   else if (

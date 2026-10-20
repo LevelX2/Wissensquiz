@@ -5,13 +5,16 @@ import {
   readStoredState,
   openRoundSetup,
   modePreparation,
+  fixCalendarTime,
 } from "./fixtures";
 test.use({ serviceWorkers: "block" });
+test.beforeEach(async ({ page }) => {
+  await fixCalendarTime(page, new Date("2026-10-10T10:00:00Z"));
+});
 
 test("große Zeitrunde überträgt keine wiederholten Listen und erhält Antworten beim Neuladen", async ({
   page,
 }) => {
-  await page.clock.install({ time: new Date("2026-10-10T10:00:00Z") });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);

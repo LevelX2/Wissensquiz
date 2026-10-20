@@ -427,7 +427,8 @@ test("Ein Film gelernt: Meldung, Genre, EXP und nächstes Ziel im Profil", async
   ).toBe(true);
   await page.screenshot({
     path: testInfo.outputPath("film-genre-exp-erfolge.png"),
-    fullPage: true,
+    // Expanded tracks exceed WebKit's maximum full-page image height.
+    fullPage: false,
   });
   await film.screenshot({
     path: testInfo.outputPath("filmkenner-fortschritt.png"),

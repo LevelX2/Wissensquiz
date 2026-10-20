@@ -67,8 +67,13 @@ for (const width of [320, 1280]) {
     await page.reload();
     await page.getByRole("button", { name: "Fortsetzen" }).click();
     await page.getByRole("button", { name: "Runde abschließen" }).click();
-    const dialog = page.getByRole("dialog", { name: "Level 2 erreicht!" });
+    const dialog = page.getByRole("dialog", { name: "Das hast Du erreicht!" });
     await expect(dialog).toBeVisible();
+    await expect(
+      dialog
+        .getByRole("listitem")
+        .filter({ hasText: "Filmkarriere · Levelaufstieg" }),
+    ).toContainText("Level 2 · Kinogänger");
     await dialog.getByRole("button", { name: "Weiter zum Ergebnis" }).click();
     const reward = page.getByRole("region", { name: "Erfahrung dieser Runde" });
     await expect(reward).toContainText("+5 XP");

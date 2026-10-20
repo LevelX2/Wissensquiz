@@ -202,7 +202,6 @@ test("Fehlerfrei sichert den ersten Fehler sofort, bleibt nach Neuladen und steh
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
-  await page.clock.pauseAt(new Date("2026-10-03T12:00:00+02:00"));
   const reports: { event_kind: string; answers: number; hits: number }[] = [];
   await page.route("**/rest/v1/rpc/quiz_report_guest_activity", (r) => {
     reports.push(r.request().postDataJSON());
@@ -211,6 +210,9 @@ test("Fehlerfrei sichert den ersten Fehler sofort, bleibt nach Neuladen und steh
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/", { waitUntil: "domcontentloaded" });
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await page.clock.pauseAt(
+    new Date((await page.evaluate(() => Date.now())) + 1000),
+  );
   await timedMode(page, "Fehlerfrei");
   await respond(page, false);
   let s = await readStoredState(page);
@@ -271,9 +273,11 @@ test("Zeitkonto verbraucht Antwortzeit, pausiert Erklärungen und beendet den La
     await next.click();
   };
   await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
-  await page.clock.pauseAt(new Date("2026-10-03T12:00:00+02:00"));
   await page.goto("/", { waitUntil: "domcontentloaded" });
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await page.clock.pauseAt(
+    new Date((await page.evaluate(() => Date.now())) + 1000),
+  );
   await timedMode(page, "Zeitkonto");
   await respond(page, true);
   expect((await readStoredState(page)).rounds.at(-1)!.run!.bankMs).toBe(120000);
@@ -314,9 +318,11 @@ test("Gruppen merken Varianten, Standardmix ist fest und Neuladen beendet fremde
   page,
 }) => {
   await page.clock.install({ time: new Date("2026-10-03T12:00:00+02:00") });
-  await page.clock.pauseAt(new Date("2026-10-03T12:00:00+02:00"));
   await page.goto("/", { waitUntil: "domcontentloaded" });
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await page.clock.pauseAt(
+    new Date((await page.evaluate(() => Date.now())) + 1000),
+  );
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Auf Zeit", exact: true }).click();
   await modePreparation(page, /^Zeitkonto /).click();
@@ -337,7 +343,12 @@ test("Gruppen merken Varianten, Standardmix ist fest und Neuladen beendet fremde
     "Zeitkonto",
   );
   await expect(page.locator(".mode-selection")).toHaveJSProperty("open", false);
+  await page.clock.resume();
   await page.reload();
+  await expect(page.locator(".round-setup")).toBeVisible();
+  await page.clock.pauseAt(
+    new Date((await page.evaluate(() => Date.now())) + 1000),
+  );
   await openRoundSetup(page);
   await expect(modePreparation(page, /^Zeitkonto /)).toHaveAttribute(
     "aria-pressed",
@@ -346,7 +357,12 @@ test("Gruppen merken Varianten, Standardmix ist fest und Neuladen beendet fremde
   await page.getByRole("button", { name: "Losspielen" }).click();
   await page.clock.runFor(100);
   await respond(page, true);
+  await page.clock.resume();
   await page.reload();
+  await expect(page.locator(".round-setup")).toBeVisible();
+  await page.clock.pauseAt(
+    new Date((await page.evaluate(() => Date.now())) + 1000),
+  );
   await expect
     .poll(async () => (await readStoredState(page)).rounds.at(-1)!.status)
     .toBe("active");

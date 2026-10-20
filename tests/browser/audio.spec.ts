@@ -127,7 +127,7 @@ async function respond(page: Page, correct: boolean) {
   else await expect(page.locator(".feedback")).toBeVisible();
   await expect
     .poll(async () => (await notes(page)).length)
-    .toBeGreaterThan(before);
+    .toBeGreaterThan(before + (round.solutionDisplay === "round" ? 1 : 0));
   return (await notes(page)).slice(before);
 }
 
@@ -436,7 +436,10 @@ test("Gesammelte Lösungen bestätigen richtige und falsche Auswahl mit demselbe
   const correct = await respond(page, true);
   await expect(page.locator(".answer.correct, .answer.wrong")).toHaveCount(0);
   const wrong = await respond(page, false);
-  expect(correct).toEqual([{ frequency: 600, type: "sine" }]);
+  expect(correct).toEqual([
+    { frequency: 600, type: "sine" },
+    { frequency: 440, type: "sine" },
+  ]);
   expect(wrong).toEqual(correct);
   await expect(page.locator(".answer.correct, .answer.wrong")).toHaveCount(0);
 });

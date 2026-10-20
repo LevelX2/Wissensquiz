@@ -210,7 +210,9 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach N
   }
   await page
     .locator(".topic-grid")
-    .screenshot({ path: testInfo.outputPath("genre-illustrationen-desktop.png") });
+    .screenshot({
+      path: testInfo.outputPath("genre-illustrationen-desktop.png"),
+    });
   await page.setViewportSize({ width: 390, height: 844 });
   const actionCard = page.locator(".topic-card").filter({
     has: page.getByRole("heading", { name: "Action", exact: true }),
@@ -236,7 +238,9 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach N
   await resumeFilmFixture(page, "Tombstone");
   await expect(page.locator(".film-title")).toHaveText("Tombstone");
   await expect(page.locator(".question-card h1")).not.toContainText("„");
-  await expect(page.locator(".question-card h1")).toContainText("Revolvermann Doc Holliday");
+  await expect(page.locator(".question-card h1")).toContainText(
+    "Revolvermann Doc Holliday",
+  );
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
@@ -380,7 +384,9 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   expect(positive[1].end - positive[0].start).toBeLessThanOrEqual(0.3);
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
+  const beforeNext = (await counters()).tones;
   await page.getByRole("button", { name: "Nächste Frage" }).click();
+  await expect.poll(async () => (await counters()).tones).toBe(beforeNext + 1);
   const before = (await counters()).tones;
   await answerCurrent(page, false);
   expect((await counters()).tones).toBe(before + 2);
@@ -498,7 +504,11 @@ test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, au
   );
   await page.getByText("Quellen ansehen", { exact: true }).click();
   for (const source of q.sources) {
-    await expect(page.locator(".answer-sources a").filter({ hasText: new URL(source).hostname })).toHaveAttribute("href", source);
+    await expect(
+      page
+        .locator(".answer-sources a")
+        .filter({ hasText: new URL(source).hostname }),
+    ).toHaveAttribute("href", source);
   }
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();

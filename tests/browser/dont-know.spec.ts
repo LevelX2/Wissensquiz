@@ -21,8 +21,7 @@ async function waitForAnswers(page: Page) {
     .toBe(true);
 }
 async function prepare(page: Page, mode: Mode = "ueben") {
-  await page.clock.install({ time: now });
-  await page.clock.pauseAt(now);
+  await page.clock.install({ time: new Date(now.getTime() - 60000) });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const catalog = accountBackend(page).release.questions;
@@ -79,6 +78,13 @@ async function prepare(page: Page, mode: Mode = "ueben") {
   }
   await writeStoredState(page, state);
   await page.reload();
+  // Both entry loads must finish before freezing the reveal timers.
+  await expect(
+    page.getByRole("button", {
+      name: mode === "rekord" ? /^Losspielen/ : /^Fortsetzen/,
+    }),
+  ).toBeVisible();
+  await page.clock.pauseAt(now);
   if (mode === "rekord") {
     await page.getByRole("button", { name: "Losspielen" }).click();
   } else await page.getByRole("button", { name: "Fortsetzen" }).click();
@@ -245,6 +251,11 @@ test("Neuladen während der Lösungsanzeige bewahrt die Wahl; Fortsetzen speiche
   await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
   await expect(page.locator(".solution-reveal")).toBeVisible();
   await page.reload();
+  await page.clock.resume();
+  await expect(page.getByRole("button", { name: "Fortsetzen" })).toBeVisible();
+  await page.clock.pauseAt(
+    new Date((await page.evaluate(() => Date.now())) + 1000),
+  );
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(page.locator(".chosen-answer")).toContainText("Keine Ahnung");
   await expect(page.locator(".solution-reveal")).toHaveCount(0);

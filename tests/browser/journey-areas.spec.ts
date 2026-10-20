@@ -5,6 +5,7 @@ import {
   expect,
   openRoundSetup,
   readStoredState,
+  fixCalendarTime,
 } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
@@ -48,7 +49,7 @@ const now = new Date("2026-10-03T12:00:00+02:00");
 test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt vier Bekanntheitsgruppen und spielt reine Personenrunden", async ({
   page,
 }) => {
-  await page.clock.install({ time: now });
+  await fixCalendarTime(page, now);
   await page.setViewportSize({ width: 320, height: 820 });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
@@ -170,7 +171,7 @@ for (const suffix of ["001-M-2", "001-S-2", "001-M-1"]) {
   test(`${suffix}: vollständiger Name, individuelle Vertiefung und passende Filmdaten in der gespeicherten Serverfrage`, async ({
     page,
   }) => {
-    await page.clock.install({ time: now });
+    await fixCalendarTime(page, now);
     await page.setViewportSize({ width: 320, height: 820 });
     await page.goto("/");
     await expect(
@@ -240,7 +241,7 @@ for (const [source, label] of [
     label +
       ": Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
     async ({ page }) => {
-      await page.clock.install({ time: now });
+      await fixCalendarTime(page, now);
       await page.setViewportSize({ width: 320, height: 820 });
       await page.goto("/");
       await expect(

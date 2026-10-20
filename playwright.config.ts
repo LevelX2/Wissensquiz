@@ -21,6 +21,9 @@ export default defineConfig({
     { name: "chromium", use: { ...devices["Desktop Chrome"] } },
     {
       name: "firefox",
+      // Multi-step server flows need a functional budget on Windows Firefox.
+      // Response-performance assertions keep their separate timing limits.
+      timeout: 180000,
       testMatch: [
         "audio.spec.ts",
         "updates.spec.ts",
@@ -29,7 +32,18 @@ export default defineConfig({
         "journey-areas.spec.ts",
         "success-celebration.spec.ts",
       ],
-      use: { ...devices["Desktop Firefox"] },
+      use: {
+        ...devices["Desktop Firefox"],
+        // Full DOM/video capture delays Firefox actions enough to expire mock
+        // requests. Keep action/network logs, sources and failure screenshots.
+        trace: {
+          mode: "retain-on-failure",
+          snapshots: false,
+          screenshots: false,
+          sources: true,
+        },
+        screenshot: "only-on-failure",
+      },
     },
     {
       name: "webkit-mobile",

@@ -113,7 +113,7 @@ it("bewahrt aktive und frische Belege, entfernt alte Antworten und verhindert ei
 it("erfasst Größen privat beim täglichen Betriebsnachweis und begrenzt die Messhistorie", async () => {
   await fixture.db
     .exec(`create schema quiz_ops; create table quiz_ops.service_checks(id integer);
-    ${readFileSync("supabase/migrations/20261018085402_daily_capacity_capture.sql", "utf8")}`);
+    ${readFileSync("supabase/migrations/20261020215318_daily_capacity_capture.sql", "utf8")}`);
   await fixture.db.exec("insert into quiz_ops.service_checks values(1)");
   const sample = (
     await fixture.db.query<{

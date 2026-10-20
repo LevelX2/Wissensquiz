@@ -200,7 +200,9 @@ for (const [questionId, person, film] of [
       actorTmdbUrl(q)!,
     );
     await page.getByText("Etwas tiefer eintauchen", { exact: true }).click();
-    await expect(page.locator(".explanation")).toContainText(q.context);
+    await expect(page.locator(".explanation")).toContainText(
+      actorPresentation(q)?.text ?? q.context,
+    );
     await expect(page.locator(".film-data")).toHaveCount(1);
     await page.getByText("Filmdaten", { exact: true }).click();
     await expect(page.locator(".film-data")).toContainText(film);

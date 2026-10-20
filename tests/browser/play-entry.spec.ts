@@ -29,7 +29,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
       .toBeGreaterThan(0);
   await expect(page.locator(".cinema-home")).toHaveCSS(
     "background-image",
-    /cinema\/lobby\.png/,
+    /cinema-lobby-640-[^"\s]+\.webp/,
   );
   await page.setViewportSize({ width: 1440, height: 900 });
   const desktopTiles = await tiles.evaluateAll((els) =>
