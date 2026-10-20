@@ -572624,6 +572624,2578 @@
         "Ocean's Eleven|2001"
       ],
       "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-029",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-029",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von George Clooney dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-029:a",
+          "text": "George Clooney",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-029:b",
+          "text": "Tom Cruise",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist George Clooney zu sehen; Tom Cruise ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-029:c",
+          "text": "Eddie Murphy",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist George Clooney zu sehen; Eddie Murphy ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-029:d",
+          "text": "Jim Carrey",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist George Clooney zu sehen; Jim Carrey ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt George Clooney.",
+      "context": "George Clooney begann seinen weltweiten Durchbruch als Fernseharzt Doug Ross und erweiterte seine Arbeit später um Regie und Produktion. Sein erster Regiefilm „Geständnisse“ beschäftigt sich mit einer zweifelhaften autobiografischen Erzählung; „Good Night, and Good Luck“ mit journalistischer Verantwortung unter politischem Druck. Beide Arbeiten richten sich auf die Herstellung öffentlicher Bilder.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:George_Clooney_Jay_Kelly-19_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/George_Clooney",
+        "https://de.wikipedia.org/wiki/George_Clooney"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-029",
+      "filmKey": "",
+      "filmTitle": "George Clooney",
+      "personId": "ACTOR-029",
+      "personName": "George Clooney",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-029-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-029-M-1",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welchen Film erhielt George Clooney einen Schauspiel-Oscar?",
+      "question": "Für welchen Film erhielt George Clooney einen Schauspiel-Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-1:a",
+          "text": "Up in the Air",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-1:b",
+          "text": "The Descendants",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-1:c",
+          "text": "Syriana",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-1:d",
+          "text": "Michael Clayton",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für die Nebenrolle in „Syriana“ erhielt George Clooney den Darsteller-Oscar.",
+      "context": "George Clooneys Oscar für „Syriana“ gehörte zur Verleihung von 2006. Im selben Jahr war er für „Good Night, and Good Luck“ zusätzlich in Regie und Originaldrehbuch nominiert. Die drei Nominierungen betrafen also zwei Filme und verschiedene Tätigkeiten. Gewonnen hat Clooney den Nebenrollenpreis für den CIA-Mitarbeiter in „Syriana“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Clooney",
+        "https://de.wikipedia.org/wiki/George_Clooney",
+        "https://en.wikipedia.org/wiki/Syriana"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-029-M-1",
+      "filmKey": "",
+      "filmTitle": "George Clooney",
+      "personId": "ACTOR-029",
+      "personName": "George Clooney",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Syriana|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-029-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-029-M-2",
+      "difficulty": "mittel",
+      "questionType": "Ausbildung und frühe Arbeit",
+      "learningObjective": "Welchen Fernsehjournalisten behandelt George Clooneys „Good Night, and Good Luck“?",
+      "question": "Welchen Fernsehjournalisten behandelt George Clooneys „Good Night, and Good Luck“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-2:a",
+          "text": "Walter Cronkite",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-2:b",
+          "text": "Dan Rather",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-2:c",
+          "text": "David Frost",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-M-2:d",
+          "text": "Edward R. Murrow",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Good Night, and Good Luck“ behandelt den Fernsehjournalisten Edward R. Murrow.",
+      "context": "Der Film konzentriert sich auf den Konflikt mit Senator Joseph McCarthy und politische Einschüchterung. Murrows Sendung setzt sich mit McCarthys Vorgehen auseinander. Der Konflikt betrifft die Verantwortung von Journalismus unter politischem und wirtschaftlichem Druck.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Clooney",
+        "https://de.wikipedia.org/wiki/George_Clooney",
+        "https://en.wikipedia.org/wiki/Good_Night%2C_and_Good_Luck"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-029-M-2",
+      "filmKey": "",
+      "filmTitle": "George Clooney",
+      "personId": "ACTOR-029",
+      "personName": "George Clooney",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Good Night, and Good Luck|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-029-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-029-S-1",
+      "difficulty": "schwer",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Welcher Film war George Clooneys Regiedebüt?",
+      "question": "Welcher Film war George Clooneys Regiedebüt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-1:a",
+          "text": "Geständnisse – Confessions of a Dangerous Mind",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-1:b",
+          "text": "Good Night, and Good Luck",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-1:c",
+          "text": "Leatherheads",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-1:d",
+          "text": "The Ides of March",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Mit „Geständnisse – Confessions of a Dangerous Mind“ gab er sein Regiedebüt.",
+      "context": "Die Geschichte spielt mit den zweifelhaften autobiografischen Behauptungen des Fernsehproduzenten Chuck Barris. Barris behauptet, neben seiner Fernseharbeit für die CIA tätig gewesen zu sein. Der Film nutzt gerade die fragwürdige Zuverlässigkeit dieser Selbsterzählung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Clooney",
+        "https://de.wikipedia.org/wiki/George_Clooney",
+        "https://en.wikipedia.org/wiki/Confessions_of_a_Dangerous_Mind_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-029-S-1",
+      "filmKey": "",
+      "filmTitle": "George Clooney",
+      "personId": "ACTOR-029",
+      "personName": "George Clooney",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Confessions of a Dangerous Mind|2002"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-029-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-029-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie war die Sängerin Rosemary Clooney mit George Clooney verwandt?",
+      "question": "Wie war die Sängerin Rosemary Clooney mit George Clooney verwandt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-2:a",
+          "text": "Sie war seine Mutter",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-2:b",
+          "text": "Sie war seine Tante",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-2:c",
+          "text": "Sie war seine ältere Schwester",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-S-2:d",
+          "text": "Sie war seine Cousine",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Rosemary Clooney war George Clooneys Tante.",
+      "context": "Seine Familie war bereits vor seinem Durchbruch mit Unterhaltung und Fernsehen verbunden. Rosemary Clooney war eine Schwester seines Vaters Nick Clooney. Die familiäre Verbindung ist von einer bloßen Namensgleichheit zweier Unterhaltungskünstler zu unterscheiden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Clooney",
+        "https://de.wikipedia.org/wiki/George_Clooney"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-029-S-2",
+      "filmKey": "",
+      "filmTitle": "George Clooney",
+      "personId": "ACTOR-029",
+      "personName": "George Clooney",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-029-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-029-A-1",
+      "difficulty": "experte",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Welche Tequilamarke gründete George Clooney mit Geschäftspartnern?",
+      "question": "Welche Tequilamarke gründete George Clooney mit Geschäftspartnern?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-1:a",
+          "text": "Don Julio",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-1:b",
+          "text": "Herradura",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-1:c",
+          "text": "Casamigos",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-1:d",
+          "text": "Patrón",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "George Clooney gründete mit Partnern die Tequilamarke Casamigos.",
+      "context": "Die spätere Unternehmensveräußerung machte auch seine Geschäftstätigkeit außerhalb des Films bekannt. George Clooney gründete Casamigos 2013 mit Rande Gerber und Michael Meldman. Der Getränkehersteller Diageo kaufte das Unternehmen 2017; die öffentlich genannte Summe unterschied eine feste Zahlung von weiteren möglichen erfolgsabhängigen Zahlungen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Clooney",
+        "https://de.wikipedia.org/wiki/George_Clooney"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-029-A-1",
+      "filmKey": "",
+      "filmTitle": "George Clooney",
+      "personId": "ACTOR-029",
+      "personName": "George Clooney",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-029-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-029-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen US-Soldaten spielte George Clooney in Terrence Malicks „Der schmale Grat“?",
+      "question": "Welchen US-Soldaten spielte George Clooney in Terrence Malicks „Der schmale Grat“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-2:a",
+          "text": "Private Witt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-2:b",
+          "text": "Sergeant Welsh",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-2:c",
+          "text": "Colonel Tall",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-029-A-2:d",
+          "text": "Captain Charles Bosche",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „Der schmale Grat“ spielt George Clooney Captain Charles Bosche.",
+      "context": "Sein kurzer Auftritt steht spät im Film und gehört zu einem ungewöhnlich großen Starensemble. Die Rolle erscheint innerhalb eines vielstimmigen Kriegsfilms. Terrence Malick verteilt den Blick auf das Geschehen auf zahlreiche Figuren und innere Monologe.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Thin_Red_Line_(1998_film)",
+        "https://en.wikipedia.org/wiki/George_Clooney",
+        "https://de.wikipedia.org/wiki/George_Clooney"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-029-A-2",
+      "filmKey": "",
+      "filmTitle": "George Clooney",
+      "personId": "ACTOR-029",
+      "personName": "George Clooney",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Thin Red Line|1998"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-011-L-1",
+      "difficulty": "leicht",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Wer spielt den Schmuggler Han Solo, der mit dem Millennium Falcon zur Rebellion stößt?",
+      "question": "Wer spielt den Schmuggler Han Solo, der mit dem Millennium Falcon zur Rebellion stößt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-1:a",
+          "text": "Kurt Russell",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-1:b",
+          "text": "Mel Gibson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-1:c",
+          "text": "Harrison Ford",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-1:d",
+          "text": "Mark Hamill",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Harrison Ford spielt den Schmuggler Han Solo.",
+      "context": "Ford verlieh dem Schmuggler eine Mischung aus Skepsis, Witz und widerwilligem Heldentum. Han Solo stellt seine eigenen Interessen zunächst vor die Rebellion. Die Freundschaft zu Luke und Leia verändert seine Rolle vom Geschäftsmann zum Mitstreiter.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford",
+        "https://en.wikipedia.org/wiki/Star_Wars_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-L-1",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Star Wars|1977"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-L-2",
+      "knowledgeId": "K-ADV-202610-P01-L-001",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Abenteuerfigur trägt bei Harrison Ford Hut und Peitsche?",
+      "question": "Welche Abenteuerfigur trägt bei Harrison Ford Hut und Peitsche?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-2:a",
+          "text": "Allan Quatermain",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-2:b",
+          "text": "Rick O'Connell",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-2:c",
+          "text": "Lara Croft",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-L-2:d",
+          "text": "Indiana Jones",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Harrison Fords Archäologe mit Hut und Peitsche heißt Indiana Jones.",
+      "context": "Der Archäologe wurde neben Han Solo zu Fords zweiter langjähriger Filmikone. Indiana Jones sucht historische Artefakte, gerät dabei aber in politische Machtkämpfe. Seine wissenschaftliche Tätigkeit und abenteuerliche Improvisation bilden einen bewussten Gegensatz.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford",
+        "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+        "https://de.wikipedia.org/wiki/J%C3%A4ger_des_verlorenen_Schatzes",
+        "https://en.wikipedia.org/wiki/Steven_Spielberg"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-L-2",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Raiders of the Lost Ark|1981"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-011",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-011",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Harrison Ford dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-011:a",
+          "text": "Steve Martin",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Harrison Ford zu sehen; Steve Martin ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-011:b",
+          "text": "Terence Hill",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Harrison Ford zu sehen; Terence Hill ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-011:c",
+          "text": "Harrison Ford",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-011:d",
+          "text": "Danny DeVito",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Harrison Ford zu sehen; Danny DeVito ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Harrison Ford.",
+      "context": "Harrison Ford prägte mit Han Solo und Indiana Jones zwei unterschiedliche Abenteuerfiguren. Der eine bewegt sich als zunächst eigennütziger Schmuggler durch eine Weltraumgeschichte, der andere sucht als Archäologe nach Artefakten. Beide Rollen nutzen Fords Spiel mit Improvisation, Skepsis und Situationen, die dem Helden entgleiten.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025-03.jpg",
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford",
+        "https://en.wikipedia.org/wiki/Star_Wars_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-011",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Star Wars|1977"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-011-M-1",
+      "difficulty": "mittel",
+      "questionType": "Ausbildung und frühe Arbeit",
+      "learningObjective": "Welchen Beruf übte Harrison Ford vor seinem Durchbruch zeitweise aus?",
+      "question": "Welchen Beruf übte Harrison Ford vor seinem Durchbruch zeitweise aus?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-1:a",
+          "text": "Tischler",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-1:b",
+          "text": "Kfz-Mechaniker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-1:c",
+          "text": "Elektriker",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-1:d",
+          "text": "Bäcker",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Er arbeitete zwischen frühen Schauspielengagements als Tischler.",
+      "context": "Die handwerkliche Arbeit half ihm, finanziell über wenig erfolgreiche erste Schauspieljahre hinwegzukommen. Harrison Ford lernte das Handwerk selbst. Zu seinen Kunden gehörten Joan Didion und John Gregory Dunne; Francis Ford Coppola ließ ihn ein Büro ausbauen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-M-1",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-011-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt Harrison Fords Figur in „Blade Runner“?",
+      "question": "Wie heißt Harrison Fords Figur in „Blade Runner“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-2:a",
+          "text": "Gaff",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-2:b",
+          "text": "Rick Deckard",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-2:c",
+          "text": "Roy Batty",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-M-2:d",
+          "text": "J. F. Sebastian",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sein Replikantenjäger heißt Rick Deckard.",
+      "context": "Der Ermittler jagt Replikanten; Fragen nach seiner eigenen Identität bleiben Teil der Filmdebatte. Replikanten sind künstlich geschaffene Menschen. Deckards Arbeit wirft deshalb auch die Frage auf, wodurch menschliche Identität und Mitgefühl überhaupt bestimmt werden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford",
+        "https://en.wikipedia.org/wiki/Blade_Runner"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-M-2",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Blade Runner|1982"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-011-S-1",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welchen Film erhielt Harrison Ford seine erste Oscar-Nominierung?",
+      "question": "Für welchen Film erhielt Harrison Ford seine erste Oscar-Nominierung?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-1:a",
+          "text": "Air Force One",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-1:b",
+          "text": "Die Waffen der Frauen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-1:c",
+          "text": "Der einzige Zeuge",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-1:d",
+          "text": "Auf der Flucht",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Darstellung des Polizisten John Book in „Der einzige Zeuge“ brachte die erste Oscarnominierung.",
+      "context": "Er spielt einen Polizisten, der sich in einer Amish-Gemeinschaft verstecken muss. Ein Kind hat einen Mord beobachtet. Der Schutz des Zeugen führt den Ermittler in einen Alltag, der sich stark von seinem gewohnten Stadtleben unterscheidet.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford",
+        "https://en.wikipedia.org/wiki/Witness_(1985_film)",
+        "https://www.paramountpictures.com/movies/witness",
+        "https://www.oscars.org/oscars/ceremonies/1986",
+        "https://de.wikipedia.org/wiki/Der_einzige_Zeuge"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-S-1",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Witness|1985"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-011-S-2",
+      "difficulty": "schwer",
+      "questionType": "Sport und Interessen",
+      "learningObjective": "Welche Freizeitbeschäftigung betreibt Harrison Ford als ausgebildeter Pilot?",
+      "question": "Welche Freizeitbeschäftigung betreibt Harrison Ford als ausgebildeter Pilot?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-2:a",
+          "text": "Autorennen in der Formel 1",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-2:b",
+          "text": "Hochseeregatten",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-2:c",
+          "text": "Fallschirmwettkämpfe",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-S-2:d",
+          "text": "Fliegen mit Flugzeugen und Hubschraubern",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Harrison Ford fliegt selbst Flugzeuge und Hubschrauber.",
+      "context": "Er beteiligte sich auch an Such- und Rettungsflügen; das Fliegen ist eine tatsächliche eigene Qualifikation. Suchflüge nutzen die Fähigkeit, schwer zugängliches Gelände aus der Luft zu überblicken. Die Qualifikation geht somit über eine bloß für Filmaufnahmen gespielte Pilotenrolle hinaus.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-S-2",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-011-A-1",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche kleine Rolle hatte Harrison Ford vor „Star Wars“?",
+      "question": "Welche kleine Rolle hatte Harrison Ford vor „Star Wars“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-1:a",
+          "text": "Bob Falfa in American Graffiti",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-1:b",
+          "text": "Sonny Corleone in Der Pate",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-1:c",
+          "text": "Harry Caul in Der Dialog",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-1:d",
+          "text": "Willard in Apocalypse Now",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Harrison Ford spielt den Rennfahrer Bob Falfa in „American Graffiti“.",
+      "context": "Die Rolle im Jugendensemble ging seinen großen Heldenfiguren voraus und verband ihn früh mit George Lucas. Bob Falfa fordert einen anderen Fahrer zu einem Rennen heraus. Die Figur gehört zur automobilen Jugendkultur, die das Ensemble des Films miteinander verbindet.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford",
+        "https://en.wikipedia.org/wiki/American_Graffiti"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-A-1",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "American Graffiti|1973"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-011-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-011-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welcher Film war Harrison Fords Kinodebüt als kleiner Hotelpage?",
+      "question": "Welcher Film war Harrison Fords Kinodebüt als kleiner Hotelpage?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-2:a",
+          "text": "Zabriskie Point",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-2:b",
+          "text": "Dead Heat on a Merry-Go-Round",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-2:c",
+          "text": "American Graffiti",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-011-A-2:d",
+          "text": "The Conversation",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sein kleiner Auftritt als Hotelpage war in „Dead Heat on a Merry-Go-Round“.",
+      "context": "Die kleine Rolle wurde noch nicht im Vorspann genannt; seine bekannten Hauptfiguren kamen wesentlich später. Der Film ist eine Kriminalkomödie. Harrison Fords kurzer Auftritt zeigt den üblichen Beginn mit kleinen Aufgaben, bevor ein Darsteller große Rollen erhält.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrison_Ford",
+        "https://de.wikipedia.org/wiki/Harrison_Ford",
+        "https://en.wikipedia.org/wiki/Dead_Heat_on_a_Merry-Go-Round"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-011-A-2",
+      "filmKey": "",
+      "filmTitle": "Harrison Ford",
+      "personId": "ACTOR-011",
+      "personName": "Harrison Ford",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Dead Heat on a Merry-Go-Round|1966"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-023-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielte den Joker in „The Dark Knight“?",
+      "question": "Wer spielte den Joker in „The Dark Knight“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-1:a",
+          "text": "Jared Leto",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-1:b",
+          "text": "Jack Nicholson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-1:c",
+          "text": "Heath Ledger",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-1:d",
+          "text": "Joaquin Phoenix",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heath Ledger spielt den Joker in Christopher Nolans „The Dark Knight“.",
+      "context": "Ledgers Version betont Chaos und Unberechenbarkeit innerhalb von Christopher Nolans Batmanwelt. Der Joker bietet wechselnde Erklärungen seiner Herkunft. Diese widersprüchlichen Geschichten erschweren eine feste Einordnung und passen zu seiner Strategie der Verunsicherung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger",
+        "https://en.wikipedia.org/wiki/The_Dark_Knight"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-L-1",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Dark Knight|2008"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-023-L-2",
+      "difficulty": "leicht",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Aus welchem Land stammte Heath Ledger?",
+      "question": "Aus welchem Land stammte Heath Ledger?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-2:a",
+          "text": "Neuseeland",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-2:b",
+          "text": "Kanada",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-2:c",
+          "text": "Irland",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-L-2:d",
+          "text": "Australien",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heath Ledger stammte aus Australien.",
+      "context": "Er wurde in Perth geboren und begann seine Karriere zunächst in australischen Produktionen. Perth liegt an der Westküste Australiens. Die Herkunft ist von seinen späteren US-Filmrollen zu unterscheiden, in denen er häufig andere Nationalitäten verkörperte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-L-2",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-023",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-023",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Heath Ledger dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-023:a",
+          "text": "Cillian Murphy",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Heath Ledger zu sehen; Cillian Murphy ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-023:b",
+          "text": "Benedict Cumberbatch",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Heath Ledger zu sehen; Benedict Cumberbatch ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-023:c",
+          "text": "Heath Ledger",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-023:d",
+          "text": "Jake Gyllenhaal",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Heath Ledger zu sehen; Jake Gyllenhaal ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Heath Ledger.",
+      "context": "Heath Ledger war vor seinem Joker als romantischer Hauptdarsteller und in Dramen zu sehen. „10 Dinge, die ich an dir hasse“ überträgt Shakespeare in eine Highschool; „Brokeback Mountain“ erzählt von einer über Jahre verborgenen Liebe. Die zurückhaltende Darstellung des Ennis steht dabei deutlich neben der demonstrativen Unberechenbarkeit seines Jokers.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Heath_Ledger_(2).jpg",
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger",
+        "https://en.wikipedia.org/wiki/The_Dark_Knight"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-023",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Dark Knight|2008"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-023-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "In welchem Drama spielte Heath Ledger den Cowboy Ennis Del Mar?",
+      "question": "In welchem Drama spielte Heath Ledger den Cowboy Ennis Del Mar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-1:a",
+          "text": "Brokeback Mountain",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-1:b",
+          "text": "Boys Don't Cry",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-1:c",
+          "text": "The Power of the Dog",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-1:d",
+          "text": "Cold Mountain",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heath Ledger spielt Ennis Del Mar in „Brokeback Mountain“.",
+      "context": "Die zurückhaltende Darstellung einer verdrängten Liebesbeziehung brachte ihm eine Hauptdarsteller-Oscarnominierung. Ennis' Beziehung zu Jack Twist bleibt über Jahre von Angst und gesellschaftlichem Druck geprägt. Die Zurückhaltung der Figur ist Teil dieses Konflikts.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger",
+        "https://en.wikipedia.org/wiki/Brokeback_Mountain"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-M-1",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Brokeback Mountain|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-M-2",
+      "knowledgeId": "K-ROM-13-04",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Heath Ledger: Welche Shakespeare-Komödie steckt hinter „10 Dinge, die ich an dir hasse“?",
+      "question": "Heath Ledger: Welche Shakespeare-Komödie steckt hinter „10 Dinge, die ich an dir hasse“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-2:a",
+          "text": "Ein Sommernachtstraum",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-2:b",
+          "text": "Der Widerspenstigen Zähmung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-2:c",
+          "text": "Was ihr wollt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-M-2:d",
+          "text": "Viel Lärm um nichts",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die Highschoolkomödie überträgt „Der Widerspenstigen Zähmung“.",
+      "context": "Ledger spielt Patrick Verona in einer modernen Schulgeschichte, die den klassischen Stoff frei überträgt. Die Handlung überträgt den Konflikt um widerspenstige Liebespartner in eine US-Highschool. Namen und Situationen spielen mit der Shakespeare-Vorlage, ohne sie wörtlich nachzuerzählen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You",
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-M-2",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "10 Things I Hate About You|1999"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-S-1",
+      "knowledgeId": "K-PRZ-202610-P01-M-018",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "In welcher Oscar-Kategorie wurde Heath Ledger für den Joker posthum geehrt?",
+      "question": "In welcher Oscar-Kategorie wurde Heath Ledger für den Joker posthum geehrt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-1:a",
+          "text": "Beste Regie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-1:b",
+          "text": "Bestes Originaldrehbuch",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-1:c",
+          "text": "Bester Nebendarsteller",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-1:d",
+          "text": "Bester Hauptdarsteller",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für den Joker wurde er als bester Nebendarsteller ausgezeichnet.",
+      "context": "Heath Ledger erhielt den Oscar für seine Joker-Darstellung bei der Verleihung 2009; seine Familie nahm ihn nach seinem Tod entgegen. Die Kategorie war Bester Nebendarsteller. In „The Dark Knight“ richtet der Joker seine Gewalt gegen Batmans Vorstellung von Kontrolle und versucht, auch andere Figuren zu moralischen Grenzüberschreitungen zu treiben.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger",
+        "https://en.wikipedia.org/wiki/The_Dark_Knight"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-S-1",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Dark Knight|2008"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-023-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche drei Darsteller vollendeten Heath Ledgers Rolle in „Das Kabinett des Dr. Parnassus“?",
+      "question": "Welche drei Darsteller vollendeten Heath Ledgers Rolle in „Das Kabinett des Dr. Parnassus“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-2:a",
+          "text": "Brad Pitt, Matt Damon und Ben Affleck",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-2:b",
+          "text": "Tom Cruise, Val Kilmer und Sean Penn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-2:c",
+          "text": "Gary Oldman, Tim Roth und Guy Pearce",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-S-2:d",
+          "text": "Johnny Depp, Jude Law und Colin Farrell",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Johnny Depp, Jude Law und Colin Farrell übernahmen zusätzliche Erscheinungsformen seiner Figur.",
+      "context": "Die Fantasiewelten erlaubten unterschiedliche Erscheinungsformen derselben Figur nach Ledgers Tod. Ledgers bereits gedrehte Szenen blieben erhalten. Die anderen Darsteller übernehmen Erscheinungsformen innerhalb des magischen Spiegels, wodurch der Wechsel erzählerisch aufgefangen wird.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger",
+        "https://en.wikipedia.org/wiki/The_Imaginarium_of_Doctor_Parnassus",
+        "https://www.sonyclassics.com/theimaginariumofdoctorparnassus/_pdf/theimaginariumofdoctorparnassus_presskit.pdf",
+        "https://www.rogerebert.com/reviews/the-imaginarium-of-dr-parnassus-2010"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-S-2",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Imaginarium of Doctor Parnassus|2009"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-023-A-1",
+      "difficulty": "experte",
+      "questionType": "Sport und Interessen",
+      "learningObjective": "Welches strategische Brettspiel begeisterte Heath Ledger?",
+      "question": "Welches strategische Brettspiel begeisterte Heath Ledger?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-1:a",
+          "text": "Schach",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-1:b",
+          "text": "Go",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-1:c",
+          "text": "Backgammon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-1:d",
+          "text": "Mah-Jongg",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heath Ledger spielte begeistert Schach.",
+      "context": "Sein Schachinteresse bestand bereits in der Kindheit und blieb auch während der Filmkarriere wichtig. Heath Ledger nahm schon als Jugendlicher an Schachturnieren teil. Später spielte er auch mit anderen Schachbegeisterten im Washington Square Park in New York; das Interesse blieb damit über seine australische Kindheit hinaus Teil seines Alltags.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-A-1",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-023-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-023-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Bob-Dylan-Interpretation spielte Heath Ledger in „I'm Not There“?",
+      "question": "Welche Bob-Dylan-Interpretation spielte Heath Ledger in „I'm Not There“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-2:a",
+          "text": "Billy the Kid",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-2:b",
+          "text": "Robbie Clark",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-2:c",
+          "text": "Jude Quinn",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-023-A-2:d",
+          "text": "Woody Guthrie",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Heath Ledger spielt die fiktive Schauspielerfigur Robbie Clark.",
+      "context": "Mehrere Darsteller verkörpern unterschiedliche Aspekte einer Musikerpersönlichkeit, statt ein gewöhnliches Biopic zu bilden. Robbie Clark ist ein Schauspieler innerhalb des Films. Todd Haynes verteilt die Annäherung an Dylan auf mehrere fiktive Identitäten statt auf eine einzige Hauptfigur.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_Ledger",
+        "https://de.wikipedia.org/wiki/Heath_Ledger",
+        "https://en.wikipedia.org/wiki/I'm_Not_There"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-023-A-2",
+      "filmKey": "",
+      "filmTitle": "Heath Ledger",
+      "personId": "ACTOR-023",
+      "personName": "Heath Ledger",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "I'm Not There|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche britische Monarchin spielte Helen Mirren in „Die Queen“?",
+      "question": "Welche britische Monarchin spielte Helen Mirren in „Die Queen“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-1:a",
+          "text": "Victoria",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-1:b",
+          "text": "Anne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-1:c",
+          "text": "Elizabeth II.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-1:d",
+          "text": "Elizabeth I.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Helen Mirren spielt Elizabeth II. in „Die Queen“.",
+      "context": "„Die Queen“ konzentriert sich auf die Tage nach Dianas Tod 1997. Elizabeth II. (Helen Mirren) reagiert zunächst innerhalb der vertrauten Regeln der Monarchie, während die öffentliche Trauer andere Zeichen verlangt. Die Gespräche mit Premierminister Tony Blair (Michael Sheen) machen den Konflikt zwischen institutioneller Zurückhaltung und veränderten gesellschaftlichen Erwartungen sichtbar.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren",
+        "https://en.wikipedia.org/wiki/The_Queen_(2006_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-L-1",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Queen|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt Helen Mirrens langjährige TV-Ermittlerin in „Heißer Verdacht“?",
+      "question": "Wie heißt Helen Mirrens langjährige TV-Ermittlerin in „Heißer Verdacht“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-2:a",
+          "text": "Vera Stanhope",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-2:b",
+          "text": "Sarah Lund",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-2:c",
+          "text": "Stella Gibson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-L-2:d",
+          "text": "Jane Tennison",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre Fernsehermittlerin heißt Jane Tennison.",
+      "context": "Die Figur setzt sich zugleich mit Kriminalfällen und männlich geprägten Hierarchien der Polizei auseinander. Jane Tennison führt Ermittlungen innerhalb einer männlich dominierten Institution. Die Serie zeigt berufliche Autorität zugleich als ständig neu auszuhandelnde Position.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-L-2",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Adelstitel trägt Helen Mirren?",
+      "question": "Welchen Adelstitel trägt Helen Mirren?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-1:a",
+          "text": "Dame",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-1:b",
+          "text": "Lady",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-1:c",
+          "text": "Princess",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-1:d",
+          "text": "Duchess",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Helen Mirren trägt den persönlichen Ehrentitel Dame.",
+      "context": "Der persönliche Ehrentitel würdigt ihre Leistungen für die darstellenden Künste. Helen Mirren wurde 2003 zur Dame Commander of the Order of the British Empire ernannt. Die Auszeichnung galt ihren Leistungen im Schauspiel; im Unterschied zur Rolle als Königin ist „Dame“ ein ihr persönlich verliehener Titel.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-M-1",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-M-2",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welchen Oscar erhielt Helen Mirren für „Die Queen“?",
+      "question": "Welchen Oscar erhielt Helen Mirren für „Die Queen“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-2:a",
+          "text": "Beste Regie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-2:b",
+          "text": "Beste Hauptdarstellerin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-2:c",
+          "text": "Beste Nebendarstellerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-M-2:d",
+          "text": "Bestes Drehbuch",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für „Die Queen“ erhielt sie den Oscar als beste Hauptdarstellerin.",
+      "context": "Ihre Darstellung arbeitet mit zurückhaltenden Gesten innerhalb einer stark beobachteten öffentlichen Institution. Der Oscar wurde 2007 verliehen. Helen Mirren zeigt die Königin in einer konkreten politischen und familiären Krise, nicht als Überblick über ihre gesamte Herrschaft.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren",
+        "https://en.wikipedia.org/wiki/The_Queen_(2006_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-M-2",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Queen|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-059",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-059",
+      "difficulty": "mittel",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Helen Mirren dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-059:a",
+          "text": "Liv Ullmann",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Helen Mirren zu sehen; Liv Ullmann ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-059:b",
+          "text": "Sigourney Weaver",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Helen Mirren zu sehen; Sigourney Weaver ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-059:c",
+          "text": "Helen Mirren",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-059:d",
+          "text": "Diane Keaton",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Helen Mirren zu sehen; Diane Keaton ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Helen Mirren.",
+      "context": "Helen Mirren verkörperte Elizabeth II. sowohl im Kino als auch auf der Bühne. „Die Queen“ beschränkt sich auf eine konkrete Krise, „The Audience“ führt durch Gespräche mit verschiedenen Premierministern. Ihr persönlicher Titel Dame ist davon zu trennen: Er wurde ihr für Leistungen im Schauspiel verliehen, nicht durch eine königliche Filmrolle.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Helen_Mirren_-_Tribute_Awards_-_TIFF_2026-2.jpg",
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren",
+        "https://en.wikipedia.org/wiki/The_Queen_(2006_film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-059",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Queen|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-S-1",
+      "difficulty": "schwer",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Welchen russisch geprägten Geburtsnachnamen hatte Helen Mirren?",
+      "question": "Welchen russisch geprägten Geburtsnachnamen hatte Helen Mirren?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-1:a",
+          "text": "Petroff",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-1:b",
+          "text": "Sokoloff",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-1:c",
+          "text": "Mironoff",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-1:d",
+          "text": "Romanoff",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Helen Mirrens Geburtsnachname lautet Mironoff.",
+      "context": "Ihr Vater änderte später den Familiennamen; Mirren hat russische Vorfahren väterlicherseits. Ihr Geburtsname lautet Ilyena Lydia Mironoff. Ihr Vater anglisierte den Familiennamen in ihrer Kindheit; der später verwendete Name Helen Mirren entstand somit lange vor dem internationalen Filmruhm.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-S-1",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-S-2",
+      "difficulty": "schwer",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "In welchem Bühnenstück spielte Helen Mirren erneut Elizabeth II.?",
+      "question": "In welchem Bühnenstück spielte Helen Mirren erneut Elizabeth II.?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-2:a",
+          "text": "The Crown",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-2:b",
+          "text": "The Queen's Speech",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-2:c",
+          "text": "A Royal Night Out",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-S-2:d",
+          "text": "The Audience",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „The Audience“ spielte Helen Mirren erneut Elizabeth II.",
+      "context": "Das Stück zeigt Begegnungen mit verschiedenen Premierministern und brachte ihr einen Tony Award. Die Audienzen überspannen mehrere politische Amtszeiten. Das Stück kann dadurch dieselbe Monarchin in unterschiedlichen Gesprächs- und Machtkonstellationen zeigen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-S-2",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-A-1",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Peter-Greenaway-Produktion zeigt Helen Mirren als Georgina?",
+      "question": "Welche Peter-Greenaway-Produktion zeigt Helen Mirren als Georgina?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-1:a",
+          "text": "Der Koch, der Dieb, seine Frau und ihr Liebhaber",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-1:b",
+          "text": "Das Wunder von Mâcon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-1:c",
+          "text": "Die Bettlektüre",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-1:d",
+          "text": "Der Kontrakt des Zeichners",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Helen Mirren spielt Georgina in „Der Koch, der Dieb, seine Frau und ihr Liebhaber“.",
+      "context": "Die grell stilisierte Restaurantwelt gehört zu ihren ungewöhnlicheren Filmrollen. Georgina lebt unter der Gewalt ihres Ehemanns und beginnt eine geheime Beziehung. Farbgestaltung und künstliche Räume verstärken die gesellschaftliche Groteske.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren",
+        "https://en.wikipedia.org/wiki/The_Cook%2C_the_Thief%2C_His_Wife_%26_Her_Lover"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-A-1",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Cook, the Thief, His Wife & Her Lover|1989"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-059-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-059-A-2",
+      "difficulty": "experte",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Wer ist Helen Mirrens Ehemann und Regisseur von „Ray“?",
+      "question": "Wer ist Helen Mirrens Ehemann und Regisseur von „Ray“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-2:a",
+          "text": "Michael Apted",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-2:b",
+          "text": "Taylor Hackford",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-2:c",
+          "text": "Stephen Frears",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-059-A-2:d",
+          "text": "Peter Morgan",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Helen Mirren heiratete den Regisseur Taylor Hackford.",
+      "context": "Beide lernten sich bei „White Nights“ kennen; die beruflichen Laufbahnen blieben eigenständig. „White Nights“ verbindet einen sowjetischen Tänzer mit einem amerikanischen Künstler. Die gemeinsame Filmproduktion bildete den Beginn ihrer späteren privaten Verbindung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Helen_Mirren",
+        "https://de.wikipedia.org/wiki/Helen_Mirren",
+        "https://en.wikipedia.org/wiki/White_Nights_(1985_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-059-A-2",
+      "filmKey": "",
+      "filmTitle": "Helen Mirren",
+      "personId": "ACTOR-059",
+      "personName": "Helen Mirren",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "White Nights|1985"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielt Gandalf, den Zauberer und Begleiter der Gemeinschaft in „Der Herr der Ringe“?",
+      "question": "Wer spielt Gandalf, den Zauberer und Begleiter der Gemeinschaft in „Der Herr der Ringe“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-1:a",
+          "text": "Ian McKellen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-1:b",
+          "text": "Christopher Lee",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-1:c",
+          "text": "Ian Holm",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-1:d",
+          "text": "Patrick Stewart",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ian McKellen spielt den Zauberer Gandalf.",
+      "context": "McKellen gestaltet die Figur als Verbindung von Weisheit, Humor und tatkräftiger Führung. Gandalf begleitet die Gemeinschaft, kann ihre Entscheidungen aber nicht ersetzen. Seine Rolle verbindet Orientierung mit der Verantwortung der anderen Figuren.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen",
+        "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-L-1",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Lord of the Rings: The Fellowship of the Ring|2001"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Mutanten verkörpert Ian McKellen in „X-Men“?",
+      "question": "Welchen Mutanten verkörpert Ian McKellen in „X-Men“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-2:a",
+          "text": "Beast",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-2:b",
+          "text": "Magneto",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-2:c",
+          "text": "Professor X",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-L-2:d",
+          "text": "Wolverine",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „X-Men“ spielt Ian McKellen Magneto.",
+      "context": "Magneto kontrolliert Metall; sein Konflikt mit Professor X wird auch als Streit über Minderheitenschutz erzählt. Magneto und Xavier teilen die Erfahrung von Ausgrenzung, wählen aber gegensätzliche Antworten. Der Superheldenkonflikt behandelt damit auch Vertrauen und politische Selbstverteidigung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen",
+        "https://en.wikipedia.org/wiki/X-Men_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-L-2",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "X-Men|2000"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-033",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-033",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Ian McKellen dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-033:a",
+          "text": "Ian McKellen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-033:b",
+          "text": "Terence Hill",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Ian McKellen zu sehen; Terence Hill ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-033:c",
+          "text": "Morgan Freeman",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Ian McKellen zu sehen; Morgan Freeman ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-033:d",
+          "text": "Harrison Ford",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Ian McKellen zu sehen; Harrison Ford ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Ian McKellen.",
+      "context": "Ian McKellen war lange auf der Bühne tätig, bevor Gandalf und Magneto ihn einem weltweiten Fantasy- und Superheldenpublikum bekannt machten. Eine andere Seite seiner öffentlichen Arbeit ist Stonewall UK: Er gehörte zu den Mitgründern der Organisation und setzte sich für gleiche Rechte homosexueller Menschen ein.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:SDCC13_-_Ian_McKellen.jpg",
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen",
+        "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-033",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Lord of the Rings: The Fellowship of the Ring|2001"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-M-1",
+      "difficulty": "mittel",
+      "questionType": "Engagement und öffentliche Arbeit",
+      "learningObjective": "Mit welcher Organisation kämpfte Ian McKellen für LGBT-Rechte?",
+      "question": "Mit welcher Organisation kämpfte Ian McKellen für LGBT-Rechte?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-1:a",
+          "text": "Greenpeace",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-1:b",
+          "text": "Oxfam",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-1:c",
+          "text": "Stonewall",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-1:d",
+          "text": "Amnesty International",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ian McKellen gehört zu den Mitgründern von Stonewall UK.",
+      "context": "Er gehörte zu den Mitgründern der britischen Organisation und sprach öffentlich über seine Homosexualität. Die britische Organisation entstand 1989 im Umfeld des Widerstands gegen Section 28. Der Name verweist auf die historischen Stonewall-Proteste in New York.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-M-1",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Shakespeare-Königsrolle spielte Ian McKellen 1995 im Kino?",
+      "question": "Welche Shakespeare-Königsrolle spielte Ian McKellen 1995 im Kino?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-2:a",
+          "text": "Heinrich V.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-2:b",
+          "text": "Richard II.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-2:c",
+          "text": "König Lear",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-M-2:d",
+          "text": "Richard III.",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "1995 verkörperte Ian McKellen Richard III.",
+      "context": "Die Verfilmung von „Richard III.“ verlegt Shakespeares Machtkampf in ein erfundenes England der 1930er-Jahre. Ian McKellens Richard nutzt Uniformen, Aufmärsche und moderne Herrschaftsbilder. Er ist dadurch keine historische Biografie eines damaligen Politikers: Ein älteres Theaterstück wird mit einer späteren politischen Bildsprache neu inszeniert.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen",
+        "https://en.wikipedia.org/wiki/Richard_III_(1995_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-M-2",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Richard III|1995"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-S-1",
+      "difficulty": "schwer",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Welchen Filmregisseur verkörperte Ian McKellen in „Gods and Monsters“?",
+      "question": "Welchen Filmregisseur verkörperte Ian McKellen in „Gods and Monsters“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-1:a",
+          "text": "James Whale",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-1:b",
+          "text": "Alfred Hitchcock",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-1:c",
+          "text": "Buster Keaton",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-1:d",
+          "text": "Orson Welles",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „Gods and Monsters“ spielt er den Regisseur James Whale.",
+      "context": "Whale inszenierte klassische Frankensteinfilme; das Drama behandelt seine späten Lebensjahre. Whale war unter anderem Regisseur von „Frankenstein“ und „Frankensteins Braut“. Das Drama behandelt Erinnerungen, Begehren und die Entfernung vom früheren Ruhm.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen",
+        "https://en.wikipedia.org/wiki/Gods_and_Monsters_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-S-1",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Gods and Monsters|1998"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welcher Rittertitel wird bei Ian McKellen vor den Namen gesetzt?",
+      "question": "Welcher Rittertitel wird bei Ian McKellen vor den Namen gesetzt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-2:a",
+          "text": "Earl",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-2:b",
+          "text": "Sir",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-2:c",
+          "text": "Lord",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-S-2:d",
+          "text": "Duke",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der persönliche Rittertitel erlaubt die Anrede Sir Ian McKellen.",
+      "context": "Der persönliche Adelstitel würdigt seine Verdienste um die darstellenden Künste und macht ihn nicht zum erblichen Lord. Sir ist eine Anrede für einen Rittertitel. Sie ist weder Bestandteil seines Geburtsnamens noch automatisch mit einem Sitz im britischen Oberhaus verbunden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-S-2",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-A-1",
+      "difficulty": "experte",
+      "questionType": "Ausbildung und frühe Arbeit",
+      "learningObjective": "An welcher Universität studierte Ian McKellen englische Literatur?",
+      "question": "An welcher Universität studierte Ian McKellen englische Literatur?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-1:a",
+          "text": "Edinburgh",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-1:b",
+          "text": "Durham",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-1:c",
+          "text": "Cambridge",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-1:d",
+          "text": "Oxford",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ian McKellen studierte in Cambridge englische Literatur.",
+      "context": "Die universitäre Theaterarbeit war ein wichtiger Bestandteil seiner Entwicklung zum professionellen Schauspieler. Ian McKellen studierte am St Catharine's College. Die studentische Bühne bot Gelegenheit, klassische Rollen zu erproben, bevor er professionell Theater spielte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-A-1",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-033-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-033-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche animierte Rolle übernahm Ian McKellen in „Flushed Away“?",
+      "question": "Welche animierte Rolle übernahm Ian McKellen in „Flushed Away“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-2:a",
+          "text": "Roddy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-2:b",
+          "text": "Sid",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-2:c",
+          "text": "Spike",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-033-A-2:d",
+          "text": "Die Kröte",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ian McKellen ist die englische Originalstimme der Kröte.",
+      "context": "Seine Originalstimme gehört dem aristokratisch auftretenden Gegenspieler des Animationsabenteuers. Die Kröte betrachtet die Ratten als Eindringlinge in ihrer Unterwelt. Die kultivierte Stimme verstärkt den komischen Abstand zu ihrem rücksichtslosen Plan.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Flushed_Away",
+        "https://en.wikipedia.org/wiki/Ian_McKellen",
+        "https://de.wikipedia.org/wiki/Ian_McKellen"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-033-A-2",
+      "filmKey": "",
+      "filmTitle": "Ian McKellen",
+      "personId": "ACTOR-033",
+      "personName": "Ian McKellen",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Flushed Away|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-007-L-1",
+      "knowledgeId": "K-HOR-09-jack-nicholson",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielte den wahnsinnig werdenden Jack Torrance in „Shining“?",
+      "question": "Wer spielte den wahnsinnig werdenden Jack Torrance in „Shining“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-1:a",
+          "text": "Robert De Niro",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-1:b",
+          "text": "Al Pacino",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-1:c",
+          "text": "Jack Nicholson",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-1:d",
+          "text": "Anthony Hopkins",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jack Nicholson spielt den im Hotel isolierten Jack Torrance.",
+      "context": "Stanley Kubricks Inszenierung machte Nicholsons expressive Mimik zu einem wichtigen Teil des Horrors. Torrance soll ein abgelegenes Hotel über den Winter betreuen. Die Isolation verschärft die Bedrohung seiner Familie und die Unsicherheit über das Übernatürliche.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Nicholson",
+        "https://de.wikipedia.org/wiki/Jack_Nicholson",
+        "https://en.wikipedia.org/wiki/The_Shining_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-007-L-1",
+      "filmKey": "",
+      "filmTitle": "Jack Nicholson",
+      "personId": "ACTOR-007",
+      "personName": "Jack Nicholson",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Shining|1980"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-007-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-007-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Batman-Gegenspieler verkörperte Jack Nicholson 1989?",
+      "question": "Welchen Batman-Gegenspieler verkörperte Jack Nicholson 1989?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-2:a",
+          "text": "Pinguin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-2:b",
+          "text": "Riddler",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-2:c",
+          "text": "Bane",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-L-2:d",
+          "text": "Joker",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In Tim Burtons „Batman“ von 1989 verkörpert Jack Nicholson den Joker.",
+      "context": "Seine grell komische Darstellung gehört zur Tim-Burton-Fassung, nicht zu späteren Batman-Verfilmungen. Die Figur heißt vor ihrer Verwandlung Jack Napier. Jack Nicholsons Version verbindet Gangsterfilm und groteske Komik innerhalb dieser konkreten Batman-Verfilmung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Nicholson",
+        "https://de.wikipedia.org/wiki/Jack_Nicholson",
+        "https://en.wikipedia.org/wiki/Batman_(1989_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-007-L-2",
+      "filmKey": "",
+      "filmTitle": "Jack Nicholson",
+      "personId": "ACTOR-007",
+      "personName": "Jack Nicholson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Batman|1989"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-007",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-007",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Jack Nicholson dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-007:a",
+          "text": "Terence Hill",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jack Nicholson zu sehen; Terence Hill ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-007:b",
+          "text": "Anthony Hopkins",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jack Nicholson zu sehen; Anthony Hopkins ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-007:c",
+          "text": "Jack Nicholson",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-007:d",
+          "text": "Ian McKellen",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jack Nicholson zu sehen; Ian McKellen ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Jack Nicholson.",
+      "context": "Jack Nicholson wurde nicht erst mit den späteren Hauptrollen in „Shining“ und „Chinatown“ bekannt. Schon der Anwalt George Hanson in „Easy Rider“ brachte ihm eine Oscarnominierung. Als Regisseur und Hauptdarsteller von „Der Galgenstrick“ arbeitete er zudem an einer Westernkomödie, deren Ausgangspunkt die Rettung eines Verurteilten durch eine Heirat ist.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Jack_Nicholson_2002.jpg",
+        "https://en.wikipedia.org/wiki/Jack_Nicholson",
+        "https://de.wikipedia.org/wiki/Jack_Nicholson",
+        "https://en.wikipedia.org/wiki/The_Shining_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-007",
+      "filmKey": "",
+      "filmTitle": "Jack Nicholson",
+      "personId": "ACTOR-007",
+      "personName": "Jack Nicholson",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Shining|1980"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-007-M-1",
+      "knowledgeId": "K-DRA-09-01",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "In welchem Film spielt Jack Nicholson den Psychiatriepatienten Randle McMurphy, der gegen den Stationsalltag rebelliert?",
+      "question": "In welchem Film spielt Jack Nicholson den Psychiatriepatienten Randle McMurphy, der gegen den Stationsalltag rebelliert?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-1:a",
+          "text": "Einer flog über das Kuckucksnest",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-1:b",
+          "text": "Awakenings",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-1:c",
+          "text": "Shutter Island",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-1:d",
+          "text": "A Beautiful Mind",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jack Nicholson spielt Randle McMurphy in „Einer flog über das Kuckucksnest“.",
+      "context": "McMurphys Konflikt mit Schwester Ratched stellt Selbstbestimmung und institutionelle Macht gegenüber. McMurphy widersetzt sich dem streng geregelten Alltag der Station. Seine Rebellion stellt die Frage, wo Behandlung endet und soziale Kontrolle beginnt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Nicholson",
+        "https://de.wikipedia.org/wiki/Jack_Nicholson",
+        "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-007-M-1",
+      "filmKey": "",
+      "filmTitle": "Jack Nicholson",
+      "personId": "ACTOR-007",
+      "personName": "Jack Nicholson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "One Flew Over the Cuckoo's Nest|1975"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-007-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-007-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Detektiv spielte Jack Nicholson in „Chinatown“?",
+      "question": "Welchen Detektiv spielte Jack Nicholson in „Chinatown“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-2:a",
+          "text": "Harry Angel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-2:b",
+          "text": "Jake Gittes",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-2:c",
+          "text": "Sam Spade",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-M-2:d",
+          "text": "Philip Marlowe",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Der Privatdetektiv in „Chinatown“ heißt Jake Gittes.",
+      "context": "Der private Ermittler gerät in ein Netz aus Wasserpolitik, Familiengeschichte und Korruption. Gittes beginnt mit einem vermeintlichen Ehebruchfall. Die Ermittlungen führen zu einem größeren Geflecht, in dem private Verbrechen und öffentliche Macht zusammenhängen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Nicholson",
+        "https://de.wikipedia.org/wiki/Jack_Nicholson",
+        "https://en.wikipedia.org/wiki/Chinatown_(1974_film)",
+        "https://www.paramountpictures.com/movies/chinatown"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-007-M-2",
+      "filmKey": "",
+      "filmTitle": "Jack Nicholson",
+      "personId": "ACTOR-007",
+      "personName": "Jack Nicholson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Chinatown|1974"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-007-S-1",
+      "knowledgeId": "K-PRZ-202610-P01-M-007",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welcher Film brachte Jack Nicholson seinen ersten Hauptdarsteller-Oscar?",
+      "question": "Welcher Film brachte Jack Nicholson seinen ersten Hauptdarsteller-Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-1:a",
+          "text": "Easy Rider",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-1:b",
+          "text": "Five Easy Pieces",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-1:c",
+          "text": "Einer flog über das Kuckucksnest",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-1:d",
+          "text": "Chinatown",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Einer flog über das Kuckucksnest“ brachte ihm den ersten Hauptdarsteller-Oscar.",
+      "context": "Der Psychiatriefilm gewann zugleich die fünf großen Oscar-Kategorien, darunter beide Hauptdarstellerpreise. Zu den fünf Hauptkategorien zählen Film, Regie, Drehbuch und beide Hauptdarstellungen. Louise Fletcher erhielt den Darstellerinnenpreis als Schwester Ratched.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Nicholson",
+        "https://de.wikipedia.org/wiki/Jack_Nicholson",
+        "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-007-S-1",
+      "filmKey": "",
+      "filmTitle": "Jack Nicholson",
+      "personId": "ACTOR-007",
+      "personName": "Jack Nicholson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "One Flew Over the Cuckoo's Nest|1975"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-007-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-007-S-2",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welche Rolle gewann Jack Nicholson einen Nebendarsteller-Oscar?",
+      "question": "Für welche Rolle gewann Jack Nicholson einen Nebendarsteller-Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-2:a",
+          "text": "Warren Schmidt in About Schmidt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-2:b",
+          "text": "Frank Costello in The Departed",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-2:c",
+          "text": "Edward Cole in Das Beste kommt zum Schluss",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-007-S-2:d",
+          "text": "Garrett Breedlove in Zeit der Zärtlichkeit",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ausgezeichnet wurde Garrett Breedlove in „Zeit der Zärtlichkeit“.",
+      "context": "Breedlove ist ein ehemaliger Astronaut und der Nachbar von Shirley MacLaines Figur. Seine Figur bringt Humor und eine späte Liebesgeschichte in das Familiendrama. Der Oscar würdigte eine Nebenrolle, nicht die männliche Hauptdarstellung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jack_Nicholson",
+        "https://de.wikipedia.org/wiki/Jack_Nicholson",
+        "https://en.wikipedia.org/wiki/Terms_of_Endearment"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-007-S-2",
+      "filmKey": "",
+      "filmTitle": "Jack Nicholson",
+      "personId": "ACTOR-007",
+      "personName": "Jack Nicholson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Terms of Endearment|1983"
+      ],
+      "sourceArea": "actors"
     }
   ]
 }
