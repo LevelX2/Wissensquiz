@@ -1,6 +1,16 @@
 # Prüfnachweis
 
+## 21.10.2026 – Veröffentlichung Version 83
+
+**21.10.2026 – Version 83 veröffentlicht:** 2.040 geprüfte Preis-/Personenfragen, gemeinsame größere Erfolgsembleme und technische Fachreview-Verbesserungen jetzt öffentlich. Weiterhin 15.295 Fragen / 14.628 Ziele in 39 Paketen; 428 Schauspieler. 510 Logiktests und 415 unterschiedliche Browserfälle erfolgreich, ein geplanter Skip. Drei Migrationen und Katalog aktiviert; 30 private Quelltabellen in konsistenten Transaktionen unverändert bestätigt. Echte Spieler-/Geräteabnahme bleibt offen. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
+
+Vollständiges `npm test`: **510 Tests in 83 Dateien** erfolgreich (133,05 s). Metadaten-/TypeScript-Prüfung und finaler Build erfolgreich; 994 Dateien bytegleich zum Browserbuild. Unveränderte erfolgreiche Prüfteile wiederverwendet. **415 unterschiedliche Browserfälle erfolgreich, ein vorgesehener Skip, kein offener Fehler.** Der erste vollständige Lauf hatte 47 Fehler; die im [Sites-Nachweis](Sites-Betrieb.md#version-83-preis-personenredaktion-erfolgsembleme-und-fachreview) beschriebenen Prüfkorrekturen sind vollständig nachgeprüft. Ein zwischenzeitlich zu enger eigener Knopfname sowie weitere eingefrorene Neuladevorgänge wurden vor dem abschließenden grünen 16er-Lauf korrigiert. Firefox: alle 41 Fälle ohne parallele Browserläufe erfolgreich (453,81 s); die dauerhafte schlanke Trace-Konfiguration zusätzlich mit zwei umfangreichen Fällen erfolgreich (24,22 s). Geschwindigkeitsassertionen erhalten. Zwei gezielte Migrationstests nach dem 100-Prozent-Namensabgleich erfolgreich (2,59 s). Diff-Prüfung erfolgreich, keine Abhängigkeitsänderung.
+
+Drei Migrationen und neuer Katalog nativ aktiv, Staging leer. Schutzvergleich von 30 privaten Quellen in jeder der vier konsistenten Transaktionen erfolgreich; neue nullable Startspalte gesondert als beauftragte Schemaergänzung behandelt. Kein echtes Konto für Testfortschritte verändert, kein Reset. RLS, gesperrte direkte Helferrechte und Advisors nachgeprüft; bestehende WARN-Kategorien unverändert. Öffentlich 993 Nicht-HTML-Dateien bytegleich und Startseite mit korrekten Assets; tatsächliche Versionszeit und Quellcommit separat nativ gelesen, öffentliche Versions-RPC erfolgreich, direkter Tabellenzugriff 401. Physische Hör-/Haptikabnahme und echte Spielerbeobachtungen weiter offen.
+
 **Bereinigung 20.10.2026:** Eigene 29 temporäre Arbeits-, Recherche- und Prüfhilfen nach abgeschlossener Abnahme und Pfad-/Verknüpfungsprüfung entfernt (97.168.429 Bytes); Abwesenheit bestätigt. Originalquellen, gemeinsame Abhängigkeiten und beide fremden Mifune-Konfigurationen erhalten.
+
+Eigene Quell-/Prüfkopien, Builds, Browserausgaben, Inhalts-SQL, Kontrollentpackung und Transportarchiv entfernt; Abwesenheit bestätigt (2.411.405.787 Bytes, 11.472 Dateien). Beide eigenen Abhängigkeitsverknüpfungen vorher entfernt; 24 eigene schreibgeschützte/versteckte Attribute bereinigt, keine geteilten Git-Objekte. Gemeinsame Abhängigkeiten und beide fremden Mifune-Konfigurationen per Hash erhalten; eigene Prüfserver beendet.
 
 ## 20.10.2026 – Schauspielerredaktion und vollständige Paketabnahme, lokal
 

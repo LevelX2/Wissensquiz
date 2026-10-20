@@ -1,0 +1,336 @@
+{
+  "version": 83,
+  "sourceBranch": "main",
+  "sourceCommit": "f6b6dc1d2bd2bdaf69afe74d0e34f99efa61c875",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-21T00:00:41.642504+02:00",
+  "publishedAtLocal": "2026-10-21T00:00:41.642504+02:00",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "githubPush": false,
+  "changes": [
+    "280 überarbeitete Preisfragen und 1.760 selbst redigierte Schauspielerfragen veröffentlicht",
+    "Gemeinsame größere Erfolgsembleme und gleichwertige Feier für gleichzeitige Erfolge",
+    "14 technische Fachreviewpunkte: Fokus, Bildbereitschaft, Lesbarkeit, sichere Serverabläufe, Startcode und kontrolliertes Wachstum"
+  ],
+  "data": {
+    "packages": 39,
+    "questions": 15295,
+    "goals": 14628,
+    "filmQuestions": 11591,
+    "actorQuestions": 3424,
+    "awardQuestions": 280,
+    "actors": 428,
+    "actorFamiliarityGroups": [
+      107,
+      107,
+      107,
+      107
+    ],
+    "newlyRevisedQuestions": 2040,
+    "reviewedOriginalsEditorialTotal": 12773,
+    "reviewedOriginalsIntegrated": 7223,
+    "remainingEditorialOriginals": 0,
+    "olderEditorialVersionsOutsideAppRemainSeparate": true,
+    "reset": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_557dae4b7e348191a5823319018401ce",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 83,
+    "source": {
+      "commit_sha": "f6b6dc1d2bd2bdaf69afe74d0e34f99efa61c875"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000c5f481f48de8216d15ee9b8e",
+      "content_hash": "sha256:07f779924b5162f63882c127ea2618e1496ff18c1880aeb59d4d102f4bf3f94a",
+      "size_bytes": 94791680,
+      "file_count": 995
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ad7e473a4388191b9e6be333e516998",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_557dae4b7e348191a5823319018401ce",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-21T00:00:41.642504+02:00"
+  },
+  "checks": {
+    "unitTests": 510,
+    "unitFiles": 83,
+    "unitDurationSeconds": 133.05,
+    "metadataAndTypescript": true,
+    "build": true,
+    "buildFiles": 994,
+    "buildBytes": 93996668,
+    "finalBuildByteEqualToBrowserBuild": true,
+    "capacityMigrationRecheck": {
+      "tests": 2,
+      "files": 1,
+      "durationSeconds": 2.59
+    },
+    "diffCheck": true,
+    "dependenciesUnchanged": true,
+    "diagnosticAttemptsExcluded": true,
+    "browser": {
+      "planned": 416,
+      "counts": {
+        "passed": 415,
+        "skipped": 1
+      },
+      "unresolved": [],
+      "runs": [
+        {
+          "name": "browser",
+          "stats": {
+            "startTime": "2026-10-20T20:36:21.053Z",
+            "duration": 3643027.843,
+            "expected": 368,
+            "skipped": 1,
+            "unexpected": 47,
+            "flaky": 0
+          }
+        },
+        {
+          "name": "retry-nonfirefox",
+          "stats": {
+            "startTime": "2026-10-20T21:10:18.758Z",
+            "duration": 1690386.551,
+            "expected": 108,
+            "skipped": 0,
+            "unexpected": 14,
+            "flaky": 0
+          }
+        },
+        {
+          "name": "retry-firefox-serial",
+          "stats": {
+            "startTime": "2026-10-20T21:38:54.831Z",
+            "duration": 453807.99399999995,
+            "expected": 41,
+            "skipped": 0,
+            "unexpected": 0,
+            "flaky": 0
+          }
+        },
+        {
+          "name": "retry-firefox-light-trace",
+          "stats": {
+            "startTime": "2026-10-20T21:47:43.719Z",
+            "duration": 24222.736999999997,
+            "expected": 2,
+            "skipped": 0,
+            "unexpected": 0,
+            "flaky": 0
+          }
+        },
+        {
+          "name": "retry-final16",
+          "stats": {
+            "startTime": "2026-10-20T21:49:03.61Z",
+            "duration": 208915.095,
+            "expected": 16,
+            "skipped": 0,
+            "unexpected": 0,
+            "flaky": 0
+          }
+        }
+      ],
+      "diagnosticAttemptsExcluded": true
+    }
+  },
+  "server": {
+    "contentHash": "39311db72869da8da0118a64aa7ce535dfae761781cdedb7e056c28655b51d75",
+    "staging": 0,
+    "presentations": 15295,
+    "duelQuestions": 11814,
+    "privateSourceTablesUnchanged": 30,
+    "guardedTransactions": 4,
+    "repeatableReadSnapshot": true,
+    "guardExcludesOnlyNewNullableStartRequestColumn": true,
+    "privateFunctionsExecuteDeniedToAnonAuthenticatedAndServiceRole": true,
+    "capacityRls": true,
+    "migrations": [
+      {
+        "filename": "20261020215312_review_receipt_retention.sql",
+        "name": "review_receipt_retention",
+        "sourceSha256": "582252C72CD53AB8A668A2FC878F3DA785FA30C4C4F97FF6B2DFCDCE5A5606AF",
+        "privateSourceTablesUnchanged": 30,
+        "nativeVersion": "20261020215312"
+      },
+      {
+        "filename": "20261020215316_private_capacity_samples.sql",
+        "name": "private_capacity_samples",
+        "sourceSha256": "A7607F8B26A8A14B7BD9FCBB223E85422459A99A27B7F824C358E75254CC01D5",
+        "privateSourceTablesUnchanged": 30,
+        "nativeVersion": "20261020215316"
+      },
+      {
+        "filename": "20261020215318_daily_capacity_capture.sql",
+        "name": "daily_capacity_capture",
+        "sourceSha256": "1851420DE4AB68DEEEB5D0DF2E5CF3FC57353FDCAC31F473D03B380CF542E5D1",
+        "privateSourceTablesUnchanged": 30,
+        "nativeVersion": "20261020215318"
+      }
+    ]
+  },
+  "advisors": {
+    "before": {
+      "security": [
+        {
+          "name": "rls_enabled_no_policy",
+          "level": "INFO",
+          "count": 55
+        },
+        {
+          "name": "anon_security_definer_function_executable",
+          "level": "WARN",
+          "count": 10
+        },
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "level": "WARN",
+          "count": 32
+        },
+        {
+          "name": "auth_leaked_password_protection",
+          "level": "WARN",
+          "count": 1
+        }
+      ],
+      "performance": [
+        {
+          "name": "unindexed_foreign_keys",
+          "level": "INFO",
+          "count": 5
+        },
+        {
+          "name": "unused_index",
+          "level": "INFO",
+          "count": 12
+        }
+      ]
+    },
+    "after": {
+      "security": [
+        {
+          "name": "rls_enabled_no_policy",
+          "level": "INFO",
+          "count": 56
+        },
+        {
+          "name": "anon_security_definer_function_executable",
+          "level": "WARN",
+          "count": 10
+        },
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "level": "WARN",
+          "count": 32
+        },
+        {
+          "name": "auth_leaked_password_protection",
+          "level": "WARN",
+          "count": 1
+        }
+      ],
+      "performance": [
+        {
+          "name": "unindexed_foreign_keys",
+          "level": "INFO",
+          "count": 5
+        },
+        {
+          "name": "unused_index",
+          "level": "INFO",
+          "count": 14
+        }
+      ]
+    },
+    "added": {
+      "security": [
+        {
+          "lint": "rls_enabled_no_policy",
+          "detail": "Table \\`quiz_capacity_internal.samples\\` has RLS enabled, but no policies exist",
+          "metadata": {
+            "name": "samples",
+            "type": "table",
+            "schema": "quiz_capacity_internal"
+          }
+        }
+      ],
+      "performance": [
+        {
+          "lint": "unused_index",
+          "detail": "Index \\`ranked_closed_retention\\` on table \\`quiz_ranked_internal.runs\\` has not been used",
+          "metadata": {
+            "name": "runs",
+            "type": "table",
+            "schema": "quiz_ranked_internal"
+          }
+        },
+        {
+          "lint": "unused_index",
+          "detail": "Index \\`ranked_receipt_run\\` on table \\`quiz_ranked_internal.receipts\\` has not been used",
+          "metadata": {
+            "name": "receipts",
+            "type": "table",
+            "schema": "quiz_ranked_internal"
+          }
+        }
+      ]
+    },
+    "securityWarningsUnchanged": true
+  },
+  "nativeReleaseMetadataWrittenAndSeparatelyReadBack": true,
+  "localArchiveContentsVerified": true,
+  "nativeArchiveStorageMayNormalizeTarMetadata": true,
+  "limitations": [
+    "Echte Spielerbeobachtungen sowie physische iPhone-Hör- und Haptikabnahme bleiben offen; automatisierte WebKit-Audioprüfung verwendet auf Windows die dokumentierte Simulation."
+  ],
+  "cleanup": {
+    "removedFiles": 11472,
+    "foreignMifuneConfigurationsHashUnchanged": true,
+    "completed": true,
+    "releaseDirectoryAbsent": true,
+    "sharedGitObjects": false,
+    "dependenciesPreserved": true,
+    "ownAttributesCleared": 24,
+    "ownedServersStopped": true,
+    "removedBytes": 2411405787
+  },
+  "archive": {
+    "files": 995,
+    "buildFiles": 994,
+    "sha256": "5df30b6a2f80ea9716694abc383406f9592e82a2f09b4b91d10707055e6dfc78",
+    "allBuildFilesByteEqual": true
+  },
+  "publicFiles": {
+    "checked": 993,
+    "expected": 993,
+    "failures": [],
+    "htmlStatus": 200,
+    "htmlHasExpectedAssets": true
+  },
+  "publicReleaseMetadata": {
+    "rpcStatus": 200,
+    "rows": 1,
+    "version": 83,
+    "publishedAt": "2026-10-21T00:00:41.642504+02:00",
+    "directTableStatus": 401,
+    "indexStatus": 307,
+    "indexLocation": "/"
+  }
+}

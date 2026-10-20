@@ -1,5 +1,7 @@
 # Erfolge und Erfolgsstufen
 
+**21.10.2026 – Seit Version 83 veröffentlicht:** Die unten datiert dokumentierten lokalen Änderungen sind jetzt Teil des öffentlichen Main-Stands. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
+
 ## Gemeinsame Embleme und gleichwertige Feier – 17.10.2026
 
 **Lokal umgesetzt, noch nicht veröffentlicht.** [Nutzerauftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-17 Nutzerauftrag gemeinsame Erfolgsembleme.txt>). Gleichzeitig erreichte Erfolge, Karrierelevel und Filmreise-Freischaltungen erscheinen gleichwertig als einzelne Emblemkarten untereinander. Es gibt kein übergeordnetes großes Gewinner-Motiv mehr. Bei mehreren Ereignissen lautet die gemeinsame Überschrift „Das hast Du erreicht!“. Jede Karte besitzt denselben Aufbau, dieselbe Emblemgröße und denselben gestalterischen Stellenwert. Der bestehende höchste Erfolgsrang steuert weiterhin genau ein Ton-/Haptiksignal und die begrenzte Feuerwerksanimation; er bestimmt keine visuelle Rangfolge der Karten.

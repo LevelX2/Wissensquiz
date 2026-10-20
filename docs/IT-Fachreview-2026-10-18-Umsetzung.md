@@ -1,5 +1,7 @@
 # Umsetzung des IT Fachreviews
 
+**21.10.2026 – Mit Version 83 veröffentlicht:** Die 14 technischen Punkte und alle drei Produktmigrationen sind jetzt aktiv. Kanonische Migrationsdateien: `20261020215312_review_receipt_retention.sql`, `20261020215316_private_capacity_samples.sql`, `20261020215318_daily_capacity_capture.sql`; SQL gegenüber der lokalen Abnahme unverändert, zwei gezielte Nachprüfungen erfolgreich. Die folgenden Abschnitte dokumentieren die vorherige lokale Abnahme; Spielerbeobachtungen und physische Ton-/Haptikabnahme bleiben offen. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
+
 Auftrag vom 18.10.2026: die [16 Vorschläge](IT-Fachreview-2026-10-18.md) geordnet umsetzen und einen projektübergreifenden allgemeinen Fachreview-Skill erstellen. [Unveränderter Nutzertext und bestätigte Arbeitsumgebung](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-18 Nutzerauftrag Fachreview umsetzen und Skill erstellen.json>). Ein eigener Worktree mit anschließender lokaler Main-Integration ist ausdrücklich freigegeben. Veröffentlichung und produktive Datenbankaktivierung gehören nicht zu dieser Freigabe.
 
 Die 14 technischen Reviewpunkte 1–12, 15 und 16 sind lokal umgesetzt und geprüft. Für 13 und 14 ist die Abnahme vorbereitet; echte Beobachtungen zu Spielspaß, Verständnis, hörbarem Ton und spürbarer Haptik bleiben offen. Der allgemeine Skill ist erstellt und installiert.

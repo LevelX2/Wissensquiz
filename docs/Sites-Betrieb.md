@@ -1,5 +1,19 @@
 # Sites-Veröffentlichung
 
+## Version 83: Preis-/Personenredaktion, Erfolgsembleme und Fachreview
+
+Am **21.10.2026 um 00:00:41 Uhr Europe/Berlin** aus Main (`f6b6dc1d2bd2bdaf69afe74d0e34f99efa61c875`) öffentlich veröffentlicht; nativer Status **succeeded**, public Revision 2 erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
+
+**21.10.2026 – Version 83 veröffentlicht:** 2.040 geprüfte Preis-/Personenfragen, gemeinsame größere Erfolgsembleme und technische Fachreview-Verbesserungen jetzt öffentlich. Weiterhin 15.295 Fragen / 14.628 Ziele in 39 Paketen; 428 Schauspieler. 510 Logiktests und 415 unterschiedliche Browserfälle erfolgreich, ein geplanter Skip. Drei Migrationen und Katalog aktiviert; 30 private Quelltabellen in konsistenten Transaktionen unverändert bestätigt. Echte Spieler-/Geräteabnahme bleibt offen.
+
+Erster vollständiger Browserlauf: 368 erfolgreich, 47 Fehler, ein geplanter Skip. Veraltete Anzeige-/Tonannahmen, eingefrorene Prüfuhr bei verzögerten Imports, Firefox-Aufzeichnungsaufwand, eine veränderte Testkennung und WebKit-Bildhöhenlimit geklärt. Nachprüfungen: 108 Fälle in Chromium/WebKit, alle 41 Firefox-Fälle isoliert, zwei umfangreiche Firefox-Fälle mit dauerhafter schlanker Aufzeichnung und 16 abschließende Fälle erfolgreich. Unveränderte erfolgreiche Teile wiederverwendet; keine abgebrochenen Diagnosen als bestanden gezählt. Anwendung durch diese Testkorrekturen unverändert; finaler Build in allen 994 Dateien bytegleich. Zwei Migrationstests nach dem reinen Namensabgleich zusätzlich bestanden. Keine Abhängigkeitsänderung.
+
+Katalogfingerabdruck `39311db72869da8da0118a64aa7ce535dfae761781cdedb7e056c28655b51d75`, Staging leer, 11.814 duellgeeignete Fragen. Vier Transaktionen prüfen je 30 private Quellen; die neue nullable Startkennung ist als beauftragte Schemaergänzung vom Zeilenvergleich ausgenommen. Interne Helfer für anon/authenticated/service_role gesperrt. Keine neuen Sicherheitswarnungen; zusätzliche INFO-Befunde betreffen ausschließlich die beabsichtigt gesperrte Größenaufnahme und zwei noch ungenutzte neue Indizes.
+
+Archiv mit 995 Dateien: 994 Build-Dateien plus Hostingmanifest. Alle 993 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich; Startseite 200 mit erwarteten Assets, /index.html 307 auf /. Versionszeit separat gespeichert und gelesen, anonym per RPC bestätigt; direkter Tabellenzugriff 401. Öffentliche Adresse und Projekt-ID erhalten, kein GitHub-Push. Native Browserübergabe angefordert und von der App als queued bestätigt.
+
+Eigene Quell-/Prüfkopien, Builds, Browserausgaben, Inhalts-SQL, Kontrollentpackung und Transportarchiv entfernt; Abwesenheit bestätigt (2.411.405.787 Bytes, 11.472 Dateien). Beide eigenen Abhängigkeitsverknüpfungen vorher entfernt; 24 eigene schreibgeschützte/versteckte Attribute bereinigt, keine geteilten Git-Objekte. Gemeinsame Abhängigkeiten und beide fremden Mifune-Konfigurationen per Hash erhalten; eigene Prüfserver beendet.
+
 ## Version 82: überarbeitete Genrefragen, Filmreise und Audio
 
 Am **16.10.2026 um 20:55:02 Uhr Europe/Berlin** aus Main (`00ce918f1b54e9512c4a4c6257f8ba2768f10b4a`) als **Version 82 öffentlich veröffentlicht**, nativer Status **succeeded**. Besucherzugriff public, Revision 2 erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-16-Version-82.json).

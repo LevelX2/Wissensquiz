@@ -1,5 +1,7 @@
 # Filmreise mit Schauspielern und Preisträgern
 
+**21.10.2026 – Seit Version 83 veröffentlicht:** Die unten datiert dokumentierten lokalen Änderungen sind jetzt Teil des öffentlichen Main-Stands. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
+
 **20.10.2026 – Alle 1.760 älteren Personenfragen lokal nachredigiert:** Konkrete Kurzantworten, individuelle Vertiefungen, Rollenanker und Lösungsschutz; sechs ausdrücklich neue Zielidentitäten. 200 Porträtfragen mit beiden Bildquellen erhalten. Tatsächliche Anzeigen und Filmverweise vollständig geprüft; keine Änderungen an Freischaltregeln oder privaten Spielständen. [Stand und Grenzen](Schauspieler-Fragenpaket.md). Noch nicht veröffentlicht.
 
 

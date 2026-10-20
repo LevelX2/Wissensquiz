@@ -1,5 +1,7 @@
 # Fachreview: Startcode, Belege und Wachstum
 
+**21.10.2026 – Mit Version 83 veröffentlicht:** Die 14 technischen Punkte und alle drei Produktmigrationen sind jetzt aktiv. Kanonische Migrationsdateien: `20261020215312_review_receipt_retention.sql`, `20261020215316_private_capacity_samples.sql`, `20261020215318_daily_capacity_capture.sql`; SQL gegenüber der lokalen Abnahme unverändert, zwei gezielte Nachprüfungen erfolgreich. Die folgenden Abschnitte dokumentieren die vorherige lokale Abnahme; Spielerbeobachtungen und physische Ton-/Haptikabnahme bleiben offen. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
+
 Stand 18.10.2026, lokal umgesetzt und geprüft. Keine Veröffentlichung oder produktive Datenbankaktivierung. Behandelt die Reviewpunkte 6, 7 und 15; ergänzt die historischen Infrastrukturberichte.
 
 ## Startabhängigkeiten
