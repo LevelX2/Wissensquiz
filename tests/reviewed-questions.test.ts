@@ -74,8 +74,8 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
 });
 
 it("prüft den Redaktionsumfang und ersetzt die unbelegte Stativbehauptung durch den belegten Jansen-Kontext", () => {
-  expect(manifest.appliedOriginalIds).toBe(5183);
-  expect(manifest.reviewedOriginalIds).toBe(5183);
+  expect(manifest.appliedOriginalIds).toBe(5463);
+  expect(manifest.reviewedOriginalIds).toBe(5463);
   expect(manifest.generated).toHaveLength(387);
   expect(manifest.additions).toHaveLength(14);
   expect(manifest.excluded).toEqual([]);

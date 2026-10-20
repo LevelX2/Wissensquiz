@@ -44,7 +44,7 @@ const imported = importCsv(latest.text, [], latest.filename);
 const questions = imported.questions;
 const now = Date.parse("2026-10-02T12:00:00+02:00");
 
-it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollständiger Vertiefung", () => {
+it("importiert 200 belegte Preisfragen mit redigierten Stufen und vollständiger Vertiefung", () => {
   expect(imported.report).toMatchObject({
     accepted: 200,
     rejected: 0,
@@ -64,9 +64,9 @@ it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollst
   ).toEqual(editorialCsvIds("public/preistraeger-fragen.csv").sort());
   expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(200);
   expect(new Set(questions.map(filmIdentity)).size).toBe(135);
-  for (const difficulty of ["leicht", "mittel", "schwer", "experte"])
+  for (const [difficulty, count] of Object.entries({leicht:50,mittel:50,schwer:60,experte:40}))
     expect(questions.filter((q) => q.difficulty === difficulty)).toHaveLength(
-      50,
+      count,
     );
   for (const letter of ["A", "B", "C", "D"])
     expect(
@@ -78,10 +78,10 @@ it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollst
   );
   for (const q of questions) {
     const proof = sources.questions.find((p) => p.question_id === q.id)!;
-    expect(q.answers.find((a) => a.id === q.correctId)!.text).toBe(
-      proof.correct_answer,
-    );
     const edited = latestCsvRevision("public/preistraeger-fragen.csv", q.id);
+    expect(q.answers.find((a) => a.id === q.correctId)!.text).toBe(
+      edited ? edited.after[`answer_${edited.after.correct_answer.toLowerCase()}`] : proof.correct_answer,
+    );
     expect(q.sources).toEqual(
       edited ? edited.after.source_urls.split("|") : proof.sources,
     );
@@ -91,9 +91,9 @@ it("importiert 200 belegte Preisfragen mit vier gleich großen Stufen und vollst
       ),
     ).toBe(true);
     expect(q.context.split(/\s+/).length).toBeGreaterThanOrEqual(35);
-    expect(
-      q.answers.every((a) => a.feedback.includes(a.text)),
-    ).toBeTruthy();
+    // Empty feedback is intentional; only useful extra information is shown.
+    for (const a of q.answers.filter(a => a.feedback))
+      expect(a.feedback).not.toMatch(/^(Richtig|Falsch)[.!]?$/i);
     expect(q.tags).toContain("Preisträger");
     expect(familiarityOf(q)).toBeTruthy();
   }

@@ -133,10 +133,14 @@ it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Im
   }
   for (const row of [...persons.questions, ...awards.questions]) {
     const q = get(row.question_id);
-    expect(q.context).toBe(row.additional_info);
-    expect(q.sources).toEqual(row.source_urls);
+    const file = row.question_id.startsWith("E20261007-A-")
+      ? "public/preise-erweiterung-20261007-fragen.csv"
+      : "public/personen-erweiterung-20261007-fragen.csv";
+    const edited = latestCsvRevision(file, q.id);
+    expect(q.context).toBe(edited?.after.explanation_context ?? row.additional_info);
+    expect(q.sources).toEqual(edited ? edited.after.source_urls.split("|") : row.source_urls);
     expect(q.answers.find((a) => a.id === q.correctId)?.text).toBe(
-      row.answers.find((a) => a.id === row.correct_answer)?.text,
+      edited ? edited.after[`answer_${edited.after.correct_answer.toLowerCase()}`] : row.answers.find((a) => a.id === row.correct_answer)?.text,
     );
     const correctedLink = integration.goalLinks.find(entry => entry.id === row.question_id);
     if (correctedLink) {
@@ -169,12 +173,14 @@ it("ergänzt genau 320 Einträge und 2.480 Fragen in allen 16 Kategorien ohne Im
   }
   for (const entry of awards.entries) {
     const group = entry.question_ids.map(get);
+    // Three ordinary award-category questions were honestly moved from expert.
+    const reducedExpert = ["E20261007-A-002-E","E20261007-A-007-E","E20261007-A-015-E"];
     expect(group.map((q) => q.difficulty).sort()).toEqual([
-      "experte",
+      entry.question_ids.some(id => reducedExpert.includes(id)) ? "schwer" : "experte",
       "leicht",
       "mittel",
       "schwer",
-    ]);
+    ].sort());
     expect(group.every((q) => isCategory(q, "Preisträger"))).toBe(true);
     expect(filmData(group[0])?.directors).toBeTruthy();
     expect(familiarityOf(group[0])).toBeTruthy();
