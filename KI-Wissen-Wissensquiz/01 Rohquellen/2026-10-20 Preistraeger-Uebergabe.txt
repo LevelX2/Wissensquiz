@@ -1,0 +1,20 @@
+Preisträger – vollständige redaktionelle Übergabe
+Stand: 19.10.2026
+
+Grundlage und Umfang
+Bearbeitet wurde die beigefügte Preistraeger.csv, Export vom 13.10.2026, source_commit 35d324021ff585ee308e6bb9e0c82205d7208ee1. Auswahl: sämtliche 280 Ausgangsfragen mit editorial_status=offen und ihren 155 Filmbezügen. Darunter: 181 Oscarfragen, 49 Cannes-Fragen und 50 Venedig-Fragen.
+
+Alle 280 Ausgangsdatensätze sind in ursprünglicher Reihenfolge enthalten. 152 Fragen erhielten Änderungen an Frage, Optionen, Kurzantwort oder Vertiefung; die entsprechenden Spielertexte der übrigen 128 wurden erhalten. Schwierigkeiten: 70 leicht, 70 mittel, 83 schwer, 57 experte. Die Preisfragen wurden nach ihrem Schwerpunkt bearbeitet; ein zusätzliches Acht-Fragen-Filmpaket je Gewinnerfilm wurde nicht erzeugt.
+
+Ergänzungen und Identitäten
+Keine zusätzlichen Fragen, neuen Varianten oder Ersatzfragen. Die drei vorhandenen Variantenbezüge sowie sämtliche Frage-, Wissensziel-, Antwort- und Herkunftsidentitäten blieben unverändert. Deshalb sind keine Ersatzzuordnungen erforderlich. Alte Bearbeitungs- und App-Status wurden erhalten; verification_status bezeichnet ausschließlich die jetzige redaktionelle Prüfung.
+
+Prüfung
+Preisentscheidungen wurden anhand der Academy-, Cannes- und Biennale-Unterlagen geprüft; Handlungs- und Handwerksaussagen anhand der jeweils zugeordneten Quellen. Die Quellen stehen pro Datensatz in source_urls. Unvollständige Kurzantworten, gemeinsame Preisempfänger, Kategorien und Verleihungsjahre wurden präzisiert. Bei den Cannes-Palmenfragen wurden zeitlich passendere Ablenker eingesetzt. 80 Feedbackfelder enthalten belegte Zusatzinformationen; bloße Richtig-/Falsch-Wiederholungen bleiben leer.
+
+Alle 280 Fragen mit ihren Optionen, Kurzantworten, Vertiefungen und Merksätzen wurden in einer zweiten eigenen Inhaltsdurchsicht gelesen. Eine unabhängige Prüfung durch eine weitere Person oder Instanz fand nicht statt. Die gespeicherte CSV wurde vollständig erneut eingelesen: 54 unveränderte Spalten, vollständige ID-Menge, unveränderte Kontextfelder und Varianten, gültige Antwortpositionen, vier verschiedene Optionen, UTF-8, vollständige Doppelquotierung und CRLF sind geprüft. Frage und Optionen bleiben jeweils unter 60 Wörtern.
+
+Grenzen für die Übernahme
+Der Dublettenabgleich und die Vollständigkeitsaussage beziehen sich auf dieses Paket; eine vollständige genreübergreifende Katalogabnahme wird nicht behauptet. Die referenzierten Projektdateien docs/Preistraeger.md und Importformat.md lagen nicht vor. Maßgeblich waren die beigefügten Regeln und die tatsächliche 54-Spalten-Vorlage.
+
+Unverändert mitgeführte Anzeige- und Kontextobjekte sind keine neu redigierten Spielertexte. Bei der Übernahme die bearbeiteten Fachfelder verwenden. Bei Fragen nach einem Gewinnerfilm müssen Filmnamen vor der Antwort verborgen bleiben; bei gesuchten Personen gilt das entsprechend für Namens- und Besetzungsmetadaten. Die tatsächliche App-Anzeige und deren Parser wurden nicht geprüft. Die Dateien sind eine redaktionelle Übergabe; Integration und Veröffentlichung sind nicht erfolgt.
