@@ -595855,6 +595855,2594 @@
         "X-Men: First Class|2011"
       ],
       "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-081",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-081",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Jennifer Lawrence dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-081:a",
+          "text": "Jennifer Lawrence",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-081:b",
+          "text": "Saoirse Ronan",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Lawrence zu sehen; Saoirse Ronan ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-081:c",
+          "text": "Emma Roberts",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Lawrence zu sehen; Emma Roberts ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-081:d",
+          "text": "Keira Knightley",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Lawrence zu sehen; Keira Knightley ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Jennifer Lawrence.",
+      "context": "Jennifer Lawrence wurde mit „Winter’s Bone“ erstmals für den Oscar nominiert. Ihre Ree Dolly muss den verschwundenen Vater finden, um das Haus ihrer Familie zu retten. Später stand sie als Katniss Everdeen im Mittelpunkt einer großen Filmreihe und gewann für Tiffany in „Silver Linings“ den Oscar.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Causeway_02_(52359107768)_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://de.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://en.wikipedia.org/wiki/The_Hunger_Games_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-081",
+      "filmKey": "",
+      "filmTitle": "Jennifer Lawrence",
+      "personId": "ACTOR-081",
+      "personName": "Jennifer Lawrence",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Hunger Games|2012"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-081-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-081-M-1",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welchen Film gewann Jennifer Lawrence ihren Hauptdarstellerinnen-Oscar?",
+      "question": "Für welchen Film gewann Jennifer Lawrence ihren Hauptdarstellerinnen-Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-1:a",
+          "text": "American Hustle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-1:b",
+          "text": "Joy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-1:c",
+          "text": "Silver Linings",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-1:d",
+          "text": "Winter's Bone",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für Tiffany in „Silver Linings“ gewann sie den Hauptdarstellerinnen-Oscar.",
+      "context": "Tiffanys eigene Verletzungen stehen neben denen der von Bradley Cooper gespielten Hauptfigur. Tiffany und Pat begegnen sich über eine Tanzverabredung, die beiden einen neuen Halt gibt. Jennifer Lawrence gewann für die Rolle bei der Oscarverleihung 2013; die Komödie stammt aus dem Filmjahr 2012.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://de.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+        "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-silver-linings-playbook"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-081-M-1",
+      "filmKey": "",
+      "filmTitle": "Jennifer Lawrence",
+      "personId": "ACTOR-081",
+      "personName": "Jennifer Lawrence",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Silver Linings Playbook|2012"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-081-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-081-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Unternehmerin verkörperte Jennifer Lawrence in „Joy“?",
+      "question": "Welche Unternehmerin verkörperte Jennifer Lawrence in „Joy“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-2:a",
+          "text": "Sara Blakely",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-2:b",
+          "text": "Martha Stewart",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-2:c",
+          "text": "Estée Lauder",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-M-2:d",
+          "text": "Joy Mangano",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Joy Mangano lieferte das zentrale Vorbild für „Joy“.",
+      "context": "Der Film nutzt den Weg einer Erfinderin zum Aufbau eines eigenen Geschäfts als Familien- und Arbeitsgeschichte. Im Mittelpunkt steht der selbst auswringende Miracle Mop. Der Film ist jedoch keine genaue Lebenschronik: Er verdichtet die Geschäftsidee mit erfundenen und veränderten Familienkonflikten zu einer Aufstiegsgeschichte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://de.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://en.wikipedia.org/wiki/Joy_(2015_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-081-M-2",
+      "filmKey": "",
+      "filmTitle": "Jennifer Lawrence",
+      "personId": "ACTOR-081",
+      "personName": "Jennifer Lawrence",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Joy|2015"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-081-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-081-S-1",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welcher Film brachte Jennifer Lawrence als Ree Dolly ihre erste Oscarnominierung?",
+      "question": "Welcher Film brachte Jennifer Lawrence als Ree Dolly ihre erste Oscarnominierung?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-1:a",
+          "text": "Winter's Bone",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-1:b",
+          "text": "The Burning Plain",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-1:c",
+          "text": "The Hunger Games",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-1:d",
+          "text": "Like Crazy",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Winter’s Bone“ brachte Jennifer Lawrence ihre erste Oscarnominierung.",
+      "context": "Als Ree Dolly trägt sie Verantwortung für Geschwister und sucht in einem gefährlichen Milieu ihren Vater. Rees Vater hat das Familienhaus als Sicherheit für seine Kaution eingesetzt. Findet sie ihn nicht, droht ihren Geschwistern und ihrer psychisch kranken Mutter der Verlust des Zuhauses.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://de.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://en.wikipedia.org/wiki/Winter's_Bone"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-081-S-1",
+      "filmKey": "",
+      "filmTitle": "Jennifer Lawrence",
+      "personId": "ACTOR-081",
+      "personName": "Jennifer Lawrence",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Winter's Bone|2010"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-081-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-081-S-2",
+      "difficulty": "schwer",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Mit welchem Regisseur drehte Jennifer Lawrence „Silver Linings“, „American Hustle“ und „Joy“?",
+      "question": "Mit welchem Regisseur drehte Jennifer Lawrence „Silver Linings“, „American Hustle“ und „Joy“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-2:a",
+          "text": "Adam McKay",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-2:b",
+          "text": "David O. Russell",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-2:c",
+          "text": "Darren Aronofsky",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-S-2:d",
+          "text": "Francis Lawrence",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "David O. Russell inszenierte alle drei Filme.",
+      "context": "Die wiederholte Zusammenarbeit verlangte verschiedene Formen von Energie, Verletzlichkeit und Komik. Die Rollen sind deutlich verschieden: Tiffany organisiert einen Tanzauftritt, Rosalyn bringt eine Betrugsoperation ins Wanken, und Joy kämpft um ihr eigenes Produkt. Die Zusammenarbeit beschränkt sich also nicht auf dieselbe Figurenart.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://de.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://en.wikipedia.org/wiki/Silver_Linings_Playbook",
+        "https://en.wikipedia.org/wiki/American_Hustle",
+        "https://en.wikipedia.org/wiki/Joy_(2015_film)",
+        "https://www.bfi.org.uk/sight-and-sound/reviews/film-week-silver-linings-playbook"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-081-S-2",
+      "filmKey": "",
+      "filmTitle": "Jennifer Lawrence",
+      "personId": "ACTOR-081",
+      "personName": "Jennifer Lawrence",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Silver Linings Playbook|2012",
+        "American Hustle|2013",
+        "Joy|2015"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-081-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-081-A-1",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Sitcom beschäftigte Jennifer Lawrence vor ihrem Kinodurchbruch?",
+      "question": "Welche Sitcom beschäftigte Jennifer Lawrence vor ihrem Kinodurchbruch?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-1:a",
+          "text": "The Middle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-1:b",
+          "text": "Young Sheldon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-1:c",
+          "text": "The Bill Engvall Show",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-1:d",
+          "text": "Modern Family",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vor ihrem Kinodurchbruch spielte sie Lauren in „The Bill Engvall Show“.",
+      "context": "Sie spielte die Tochter Lauren in einer Familienkomödie, bevor dramatische Filmrollen folgten. Die Serie lief von 2007 bis 2009. Jennifer Lawrence spielte das älteste der drei Kinder; der Alltag einer Fernsehsitcom mit wiederkehrendem Ensemble war ein anderer Arbeitsrahmen als ihre spätere Rolle in „Winter's Bone“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://de.wikipedia.org/wiki/Jennifer_Lawrence"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-081-A-1",
+      "filmKey": "",
+      "filmTitle": "Jennifer Lawrence",
+      "personId": "ACTOR-081",
+      "personName": "Jennifer Lawrence",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-081-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-081-A-2",
+      "difficulty": "experte",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Welche Produktionsfirma gründete Jennifer Lawrence mit Justine Ciarrocchi?",
+      "question": "Welche Produktionsfirma gründete Jennifer Lawrence mit Justine Ciarrocchi?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-2:a",
+          "text": "LuckyChap",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-2:b",
+          "text": "Hello Sunshine",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-2:c",
+          "text": "Blossom Films",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-081-A-2:d",
+          "text": "Excellent Cadaver",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Die gemeinsam mit Justine Ciarrocchi gegründete Firma heißt Excellent Cadaver.",
+      "context": "Die eigene Produktion gibt ihr eine zusätzliche Rolle bei Entwicklung und Auswahl von Stoffen. Die Firma wurde 2018 gegründet. Mit „Causeway“ produzierte Jennifer Lawrence später ein zurückhaltendes Drama über eine Soldatin nach einer Hirnverletzung und über eine Freundschaft in New Orleans.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+        "https://de.wikipedia.org/wiki/Jennifer_Lawrence"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-081-A-2",
+      "filmKey": "",
+      "filmTitle": "Jennifer Lawrence",
+      "personId": "ACTOR-081",
+      "personName": "Jennifer Lawrence",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielt die angehende Schauspielerin Mia in „La La Land“?",
+      "question": "Wer spielt die angehende Schauspielerin Mia in „La La Land“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-1:a",
+          "text": "Amanda Seyfried",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-1:b",
+          "text": "Emma Stone",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-1:c",
+          "text": "Emma Watson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-1:d",
+          "text": "Rachel McAdams",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Emma Stone spielt die angehende Schauspielerin Mia.",
+      "context": "Die angehende Schauspielerin verbindet einen Liebesweg mit dem Wunsch nach beruflicher Selbstverwirklichung. Mia arbeitet zunächst in einem Café auf einem Studiogelände und geht zu ernüchternden Vorsprechen. Ihr selbst geschriebenes Bühnenstück ist ein Versuch, eine eigene künstlerische Chance zu schaffen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone",
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-L-1",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "La La Land|2016"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Disney-Schurkin verkörpert Emma Stone in einem Realfilm von 2021?",
+      "question": "Welche Disney-Schurkin verkörpert Emma Stone in einem Realfilm von 2021?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-2:a",
+          "text": "Ursula",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-2:b",
+          "text": "Die böse Königin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-2:c",
+          "text": "Cruella de Vil",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-L-2:d",
+          "text": "Maleficent",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Emma Stone verkörpert die junge Cruella de Vil.",
+      "context": "Die Vorgeschichte verknüpft die Figur mit Mode, Punkästhetik und einer neuen Darstellung ihrer Jugend. Der Film erzählt von Estella, die sich in der Londoner Modewelt eine öffentliche Identität als Cruella schafft. Ihre Rivalität mit der Baroness wird durch eine zuvor verborgene Familiengeschichte verschärft.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone",
+        "https://en.wikipedia.org/wiki/Cruella_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-L-2",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Cruella|2021"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-082",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-082",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Emma Stone dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-082:a",
+          "text": "Emma Watson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Emma Stone zu sehen; Emma Watson ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-082:b",
+          "text": "Emma Stone",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-082:c",
+          "text": "Jennifer Lawrence",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Emma Stone zu sehen; Jennifer Lawrence ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-082:d",
+          "text": "Léa Seydoux",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Emma Stone zu sehen; Léa Seydoux ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Emma Stone.",
+      "context": "Emma Stones Oscarrollen Mia und Bella Baxter unterscheiden sich stark. In „La La Land“ sucht Mia ihren Weg zwischen Vorsprechen und einem eigenen Bühnenstück. In „Poor Things“ entdeckt Bella erst Sprache, gesellschaftliche Regeln und die Möglichkeiten eines selbstbestimmten Lebens. Stone arbeitet dabei auch mit veränderter Haltung und Bewegung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Emma_Stone_at_the_2025_Venice_Film_Festival-6313_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone",
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-082",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "La La Land|2016"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-M-1",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welcher Film brachte Emma Stone ihren ersten Hauptdarstellerinnen-Oscar?",
+      "question": "Welcher Film brachte Emma Stone ihren ersten Hauptdarstellerinnen-Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-1:a",
+          "text": "The Favourite",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-1:b",
+          "text": "Birdman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-1:c",
+          "text": "Easy A",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-1:d",
+          "text": "La La Land",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihren ersten Hauptdarstellerinnen-Oscar gewann sie für „La La Land“.",
+      "context": "Der Musicalpreis lag vor ihrem zweiten Sieg mit einer völlig anderen Figurenanlage. Mias Geschichte führt von erfolglosen Castings zu einer möglichen Filmkarriere. Die berühmte Schlussmontage entwirft dabei ein alternatives gemeinsames Leben und lässt erkennen, welchen Preis die erfüllten Berufswünsche haben.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone",
+        "https://en.wikipedia.org/wiki/La_La_Land"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-M-1",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "La La Land|2016"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-M-2",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welche dieser Figuren gewann Emma Stone ihren zweiten Hauptdarstellerinnen-Oscar?",
+      "question": "Für welche dieser Figuren gewann Emma Stone ihren zweiten Hauptdarstellerinnen-Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-2:a",
+          "text": "Bella Baxter in „Poor Things“",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-2:b",
+          "text": "Abigail Masham in „The Favourite“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-2:c",
+          "text": "Gwen Stacy in „The Amazing Spider-Man“",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-M-2:d",
+          "text": "Olive Penderghast in „Easy A“",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für Bella Baxter in „Poor Things“ erhielt sie ihren zweiten Hauptdarstellerinnen-Oscar.",
+      "context": "„Poor Things“ zeigt eine Figur, die Sprache, gesellschaftliche Regeln und Eigenständigkeit neu entwickelt. Bella erforscht ihre Umwelt mit einer ungewöhnlichen Mischung aus kindlichem Lernen und erwachsenem Körper. Emma Stones Darstellung verändert deshalb nicht nur das Vokabular, sondern auch Gang, Haltung und Reaktion auf andere Menschen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone",
+        "https://en.wikipedia.org/wiki/Poor_Things_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-M-2",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Poor Things|2023"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-S-1",
+      "difficulty": "schwer",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Wie lautet Emma Stones ursprünglicher Vorname?",
+      "question": "Wie lautet Emma Stones ursprünglicher Vorname?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-1:a",
+          "text": "Eleanor",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-1:b",
+          "text": "Emily",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-1:c",
+          "text": "Emma",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-1:d",
+          "text": "Elizabeth",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Emma Stone wurde als Emily Jean Stone geboren.",
+      "context": "Den Berufsnamen änderte sie, weil der ursprüngliche Name bei der Schauspielergewerkschaft bereits belegt war. Emily Jean Stone ist ihr Geburtsname. „Emma“ ist kein anderer Familienname, sondern ihr beruflich verwendeter Vorname; der Wechsel hängt mit der Registrierung bei der Schauspielergewerkschaft zusammen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-S-1",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-S-2",
+      "difficulty": "schwer",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Welcher Regisseur drehte „The Favourite“ und „Poor Things“ mit Emma Stone?",
+      "question": "Welcher Regisseur drehte „The Favourite“ und „Poor Things“ mit Emma Stone?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-2:a",
+          "text": "Wes Anderson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-2:b",
+          "text": "Alejandro G. Iñárritu",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-2:c",
+          "text": "Yorgos Lanthimos",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-S-2:d",
+          "text": "Damien Chazelle",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Yorgos Lanthimos führte bei beiden Filmen Regie.",
+      "context": "Die Zusammenarbeit fordert stark stilisierte Rollen mit ungewöhnlichen Körper- und Sprachformen. In „The Favourite“ spielt Emma Stone eine ehrgeizige Hofbedienstete, in „Poor Things“ eine Frau auf einer radikalen Entdeckungsreise. Beide Filme verbinden Machtfragen mit einer bewusst ungewöhnlichen Bild- und Figurenwelt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone",
+        "https://en.wikipedia.org/wiki/The_Favourite_(2018_film)",
+        "https://en.wikipedia.org/wiki/Poor_Things_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-S-2",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Favourite|2018",
+        "Poor Things|2023"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-A-1",
+      "difficulty": "experte",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Welche Broadwayrolle spielte Emma Stone in „Cabaret“?",
+      "question": "Welche Broadwayrolle spielte Emma Stone in „Cabaret“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-1:a",
+          "text": "Roxie Hart",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-1:b",
+          "text": "Velma Kelly",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-1:c",
+          "text": "Maria",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-1:d",
+          "text": "Sally Bowles",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Am Broadway übernahm Emma Stone Sally Bowles in „Cabaret“.",
+      "context": "Der Bühnenauftritt lag zwischen großen Filmprojekten und verlangte Livegesang vor Publikum. Sally Bowles singt im Berliner Kit Kat Club. Die Rolle verlangt, öffentliche Unbeschwertheit und private Unsicherheit gleichzeitig sichtbar zu machen, während das politische Umfeld der Handlung immer bedrohlicher wird.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-A-1",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-082-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-082-A-2",
+      "difficulty": "experte",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Wie heißt Emma Stones Produktionsfirma mit Dave McCary?",
+      "question": "Wie heißt Emma Stones Produktionsfirma mit Dave McCary?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-2:a",
+          "text": "Fruit Tree",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-2:b",
+          "text": "Flower Films",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-2:c",
+          "text": "Red Om Films",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-082-A-2:d",
+          "text": "Fortis Films",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre gemeinsame Produktionsfirma heißt Fruit Tree.",
+      "context": "Die gemeinsame Firma produziert neben eigenen Starprojekten auch Filme anderer Darsteller und Regisseure. Emma Stone und Dave McCary gründeten Fruit Tree 2020. Zu den frühen Produktionen gehört „When You Finish Saving the World“, Jesse Eisenbergs Regiedebüt über eine Mutter und ihren jugendlichen Sohn.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emma_Stone",
+        "https://de.wikipedia.org/wiki/Emma_Stone"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-082-A-2",
+      "filmKey": "",
+      "filmTitle": "Emma Stone",
+      "personId": "ACTOR-082",
+      "personName": "Emma Stone",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-083-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Avengers-Agentin verkörpert Scarlett Johansson?",
+      "question": "Welche Avengers-Agentin verkörpert Scarlett Johansson?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-1:a",
+          "text": "Captain Marvel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-1:b",
+          "text": "Wasp",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-1:c",
+          "text": "Black Widow",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-1:d",
+          "text": "Scarlet Witch",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Scarlett Johansson spielt Natasha Romanoff, die Agentin Black Widow.",
+      "context": "Natasha Romanoff arbeitet lange ohne übernatürliche Kräfte und bringt eine eigene Agentinnenvergangenheit mit. Natasha Romanoff wurde im Red Room zur Agentin ausgebildet. Ihr eigener Film von 2021 greift diese Vergangenheit auf und stellt ihre Beziehung zu Yelena Belova in den Mittelpunkt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-L-1",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Black Widow|2021"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-083-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Mit welchem älteren Schauspieler spielt Scarlett Johansson in „Lost in Translation“?",
+      "question": "Mit welchem älteren Schauspieler spielt Scarlett Johansson in „Lost in Translation“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-2:a",
+          "text": "Tom Hanks",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-2:b",
+          "text": "Robert De Niro",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-2:c",
+          "text": "Jack Nicholson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-L-2:d",
+          "text": "Bill Murray",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „Lost in Translation“ spielt sie an der Seite von Bill Murray.",
+      "context": "Die vorsichtige Nähe zweier Fremder entsteht während eines Aufenthalts in Tokio. Bob Harris dreht einen Werbespot, während Charlotte ihren beruflich beschäftigten Ehemann begleitet. Ihre Begegnungen im Hotel und in der nächtlichen Stadt geben beiden Raum, ihre jeweiligen Lebensfragen auszusprechen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://en.wikipedia.org/wiki/Lost_in_Translation"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-L-2",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Lost in Translation|2003"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-083",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-083",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Scarlett Johansson dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-083:a",
+          "text": "Lupita Nyong'o",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Scarlett Johansson zu sehen; Lupita Nyong'o ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-083:b",
+          "text": "Léa Seydoux",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Scarlett Johansson zu sehen; Léa Seydoux ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-083:c",
+          "text": "Scarlett Johansson",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-083:d",
+          "text": "Felicity Jones",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Scarlett Johansson zu sehen; Felicity Jones ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Scarlett Johansson.",
+      "context": "Scarlett Johansson ist als Black Widow im Marvel-Kino zu sehen, trägt aber auch eine zentrale Rolle allein mit ihrer Stimme: In „Her“ spricht sie Samantha, ein lernfähiges Betriebssystem, in das sich ein Mensch verliebt. 2020 war sie für zwei sehr unterschiedliche Filme gleichzeitig oscarnominiert, „Marriage Story“ und „Jojo Rabbit“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8588.jpg",
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://en.wikipedia.org/wiki/Black_Widow_(2021_film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-083",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Black Widow|2021"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-083-M-1",
+      "difficulty": "mittel",
+      "questionType": "Musik und Sprechrollen",
+      "learningObjective": "Was spielt Scarlett Johansson in Spike Jonzes „Her“, ohne körperlich im Bild zu erscheinen?",
+      "question": "Was spielt Scarlett Johansson in Spike Jonzes „Her“, ohne körperlich im Bild zu erscheinen?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-1:a",
+          "text": "Die Stimme eines Betriebssystems",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-1:b",
+          "text": "Eine Radioansagerin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-1:c",
+          "text": "Ein Navigationsgerät im Auto",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-1:d",
+          "text": "Eine Erzählerin aus der Zukunft",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre Stimme gehört dem lernfähigen Betriebssystem Samantha.",
+      "context": "Samantha entwickelt im Gespräch eine Persönlichkeit; die reine Stimme trägt eine zentrale Beziehung. Theodore kauft ein lernfähiges Betriebssystem und verliebt sich in dessen Stimme. Scarlett Johansson ersetzte Samantha Mortons ursprüngliche Sprachaufnahme; die Figur erhielt damit nach den Dreharbeiten eine neue stimmliche Interpretation.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://en.wikipedia.org/wiki/Her_(2013_film)",
+        "https://de.wikipedia.org/wiki/Her_%282013%29",
+        "https://en.wikipedia.org/wiki/Spike_Jonze"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-M-1",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Her|2013"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-083-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt die von Scarlett Johansson gespielte Mutter des indoktrinierten Jungen in „Jojo Rabbit“?",
+      "question": "Wie heißt die von Scarlett Johansson gespielte Mutter des indoktrinierten Jungen in „Jojo Rabbit“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-2:a",
+          "text": "Inge Betzler",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-2:b",
+          "text": "Rosie Betzler",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-2:c",
+          "text": "Elsa Korr",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-M-2:d",
+          "text": "Fräulein Rahm",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Scarlett Johansson spielt Jojos Mutter Rosie Betzler.",
+      "context": "Die Figur schützt Verfolgte und lebt in einer anderen moralischen Wirklichkeit als ihr indoktrinierter Sohn. Rosie versteckt das jüdische Mädchen Elsa im Haus. Dass ihr Sohn Jojo zunächst von nationalsozialistischen Vorstellungen geprägt ist, macht ihre alltägliche Wärme und ihren heimlichen Widerstand besonders folgenreich.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jojo_Rabbit",
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://www.searchlightpictures.com/jojorabbit",
+        "https://www.rottentomatoes.com/m/jojo_rabbit"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-M-2",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Jojo Rabbit|2019"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-083-S-1",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welche beiden Filme brachten Scarlett Johansson im selben Oscarjahr Nominierungen?",
+      "question": "Welche beiden Filme brachten Scarlett Johansson im selben Oscarjahr Nominierungen?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-1:a",
+          "text": "Lost in Translation und Match Point",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-1:b",
+          "text": "Black Widow und Avengers: Endgame",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-1:c",
+          "text": "Marriage Story und Jojo Rabbit",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-1:d",
+          "text": "Lucy und Her",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für „Marriage Story“ und „Jojo Rabbit“ war sie im selben Jahr nominiert.",
+      "context": "Eine Nominierung galt einer Hauptrolle, die andere einer Nebenrolle. Bei der Verleihung 2020 war Scarlett Johansson für Nicole in „Marriage Story“ und Rosie in „Jojo Rabbit“ nominiert. Zwei Nominierungen im selben Jahr bedeuten hier zwei unterschiedliche Kategorien und zwei eigenständige Rollen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://en.wikipedia.org/wiki/Marriage_Story",
+        "https://en.wikipedia.org/wiki/Jojo_Rabbit",
+        "https://de.wikipedia.org/wiki/Marriage_Story",
+        "https://en.wikipedia.org/wiki/Noah_Baumbach",
+        "https://www.searchlightpictures.com/jojorabbit",
+        "https://www.rottentomatoes.com/m/jojo_rabbit"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-S-1",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Marriage Story|2019",
+        "Jojo Rabbit|2019"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-083-S-2",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welche Bühnenrolle gewann Scarlett Johansson 2010 einen Tony?",
+      "question": "Für welche Bühnenrolle gewann Scarlett Johansson 2010 einen Tony?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-2:a",
+          "text": "Sally Bowles in Cabaret",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-2:b",
+          "text": "Blanche in A Streetcar Named Desire",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-2:c",
+          "text": "Nora in A Doll's House",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-S-2:d",
+          "text": "Catherine in A View from the Bridge",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Den Tony gewann sie als Catherine in „A View from the Bridge“.",
+      "context": "Ihr Broadwaydebüt zeigte eine eigenständige Theaterarbeit neben dem bereits etablierten Filmstarstatus. Arthur Millers Stück spielt im Umfeld italienischer Einwanderer in Brooklyn. Catherines Erwachsenwerden bringt die besitzergreifende Bindung ihres Onkels Eddie zum Vorschein und treibt den familiären Konflikt voran.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-S-2",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-083-A-1",
+      "difficulty": "experte",
+      "questionType": "Musik und Sprechrollen",
+      "learningObjective": "Wessen Songs interpretierte Scarlett Johansson vor allem auf „Anywhere I Lay My Head“?",
+      "question": "Wessen Songs interpretierte Scarlett Johansson vor allem auf „Anywhere I Lay My Head“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-1:a",
+          "text": "Tom Waits",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-1:b",
+          "text": "Bob Dylan",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-1:c",
+          "text": "Leonard Cohen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-1:d",
+          "text": "David Bowie",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Album besteht vor allem aus Interpretationen von Tom-Waits-Songs.",
+      "context": "Das Album gehört zu ihrer Sängerarbeit und enthält neben den Coverversionen auch einen eigenen Song. Das Album erschien 2008 und wurde von Dave Sitek produziert. Der Titel stammt ebenfalls von Tom Waits; mit „Song for Jo“ enthält die Platte auch eine eigens für das Projekt geschriebene Komposition.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-A-1",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-083-A-2",
+      "knowledgeId": "K-SF-202609-P02-L-093",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welcher Film von Jonathan Glazer zeigt Scarlett Johansson als außerirdische Verführerin?",
+      "question": "Welcher Film von Jonathan Glazer zeigt Scarlett Johansson als außerirdische Verführerin?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-2:a",
+          "text": "The Zone of Interest",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-2:b",
+          "text": "Under the Skin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-2:c",
+          "text": "Birth",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-083-A-2:d",
+          "text": "Sexy Beast",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jonathan Glazers Film mit Johansson als Außerirdischer heißt „Under the Skin“.",
+      "context": "Die weitgehend fremde Perspektive verändert im Verlauf des Films ihren Blick auf menschliche Körper und Erfahrungen. Die Figur fährt durch Schottland und lockt Männer in einen fremdartigen Raum. Einige Begegnungen wurden mit versteckten Kameras und zunächst ahnungslosen Passanten aufgenommen, wodurch Inszenierung und beobachteter Alltag ineinandergreifen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://de.wikipedia.org/wiki/Scarlett_Johansson",
+        "https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)",
+        "https://en.wikipedia.org/wiki/Jonathan_Glazer"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-083-A-2",
+      "filmKey": "",
+      "filmTitle": "Scarlett Johansson",
+      "personId": "ACTOR-083",
+      "personName": "Scarlett Johansson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Under the Skin|2013"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielte Barbie im großen Kinofilm von 2023?",
+      "question": "Wer spielte Barbie im großen Kinofilm von 2023?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-1:a",
+          "text": "Jennifer Lawrence",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-1:b",
+          "text": "Emma Stone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-1:c",
+          "text": "Amanda Seyfried",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-1:d",
+          "text": "Margot Robbie",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Margot Robbie verkörpert im Kinofilm von 2023 Barbie.",
+      "context": "Robbie wirkte zusätzlich als Produzentin mit; die Figur entdeckt Grenzen ihrer scheinbar perfekten Welt. Als Gedanken an Sterblichkeit ihren Alltag stören, verlässt Barbie das Barbieland. Die Reise in die reale Welt konfrontiert sie und Ken mit gesellschaftlichen Machtverhältnissen, die in ihrer bisherigen Umgebung anders organisiert waren.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie",
+        "https://en.wikipedia.org/wiki/Barbie_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-L-1",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Barbie|2023"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Comicfigur verkörpert Margot Robbie in mehreren DC-Filmen?",
+      "question": "Welche Comicfigur verkörpert Margot Robbie in mehreren DC-Filmen?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-2:a",
+          "text": "Harley Quinn",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-2:b",
+          "text": "Catwoman",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-2:c",
+          "text": "Poison Ivy",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-L-2:d",
+          "text": "Batgirl",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Harley Quinn ist Margot Robbies wiederkehrende DC-Rolle.",
+      "context": "Die Figur entwickelte sich über mehrere Filme vom Jokerumfeld zu eigenen Geschichten. Harley Quinn war ursprünglich die Psychiaterin Harleen Quinzel. „Birds of Prey“ setzt nach ihrer Trennung vom Joker an und lässt sie mit anderen Frauen gegen den Gangster Roman Sionis antreten.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie",
+        "https://en.wikipedia.org/wiki/Birds_of_Prey_(2020_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-L-2",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Birds of Prey|2020"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-084",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-084",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Margot Robbie dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-084:a",
+          "text": "Keira Knightley",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Margot Robbie zu sehen; Keira Knightley ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-084:b",
+          "text": "Alicia Vikander",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Margot Robbie zu sehen; Alicia Vikander ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-084:c",
+          "text": "Emma Watson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Margot Robbie zu sehen; Emma Watson ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-084:d",
+          "text": "Margot Robbie",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Porträt zeigt Margot Robbie.",
+      "context": "Margot Robbie war vor ihren Hollywoodfilmen als Donna Freedman in „Neighbours“ zu sehen. Später übernahm sie nicht nur Hauptrollen: Ihre Firma LuckyChap produzierte auch „I, Tonya“ und „Barbie“. Darstellerische Arbeit und Entscheidungen über die Entwicklung eines Films treffen bei diesen Projekten zusammen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Margot_Robbie_Wuthering_Heights_premiere_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie",
+        "https://en.wikipedia.org/wiki/Barbie_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-084",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Barbie|2023"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-M-1",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welcher Eiskunstläuferin gab Margot Robbie in „I, Tonya“ ein Filmgesicht?",
+      "question": "Welcher Eiskunstläuferin gab Margot Robbie in „I, Tonya“ ein Filmgesicht?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-1:a",
+          "text": "Katarina Witt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-1:b",
+          "text": "Tonya Harding",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-1:c",
+          "text": "Nancy Kerrigan",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-1:d",
+          "text": "Michelle Kwan",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Margot Robbie spielt die Eiskunstläuferin Tonya Harding.",
+      "context": "Die Inszenierung verbindet widersprüchliche Aussagen mit sozialem Umfeld und Medienbildern. Der Film verbindet Hardings sportlichen Aufstieg mit dem Angriff auf Nancy Kerrigan. Gespielte Interviewpassagen widersprechen einander; das Publikum muss deshalb zwischen Selbstdarstellung, Erinnerung und beobachteter Handlung unterscheiden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie",
+        "https://en.wikipedia.org/wiki/I%2C_Tonya"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-M-1",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "I, Tonya|2017"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-M-2",
+      "difficulty": "mittel",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Wie heißt Margot Robbies gemeinsam gegründete Produktionsfirma?",
+      "question": "Wie heißt Margot Robbies gemeinsam gegründete Produktionsfirma?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-2:a",
+          "text": "Flower Films",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-2:b",
+          "text": "Blossom Films",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-2:c",
+          "text": "LuckyChap Entertainment",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-M-2:d",
+          "text": "Hello Sunshine",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre mitgegründete Firma heißt LuckyChap Entertainment.",
+      "context": "Die Firma produzierte auch „I, Tonya“, „Promising Young Woman“ und „Barbie“. Zu den Mitgründern gehören Tom Ackerley, Josey McNamara und Sophia Kerr. Margot Robbie übernimmt damit Verantwortung für die Auswahl und Entwicklung von Projekten, auch wenn sie selbst darin keine Rolle spielt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-M-2",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche australische Soap beschäftigte Margot Robbie vor Hollywood?",
+      "question": "Welche australische Soap beschäftigte Margot Robbie vor Hollywood?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-1:a",
+          "text": "Home and Away",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-1:b",
+          "text": "Wentworth",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-1:c",
+          "text": "McLeod's Daughters",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-1:d",
+          "text": "Neighbours",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Vor Hollywood spielte Margot Robbie in der australischen Serie „Neighbours“.",
+      "context": "Als Donna Freedman sammelte sie über mehrere Jahre Erfahrung in einer täglichen Serie. Donna Freedman wurde zunächst als Gastfigur eingeführt und gehörte später zum festen Ensemble. Die australische Serie bot Margot Robbie die kontinuierliche Dreherfahrung, mit der sie anschließend in die USA wechselte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-S-1",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer führte bei „Barbie“ mit Margot Robbie Regie?",
+      "question": "Wer führte bei „Barbie“ mit Margot Robbie Regie?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-2:a",
+          "text": "Greta Gerwig",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-2:b",
+          "text": "Sofia Coppola",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-2:c",
+          "text": "Olivia Wilde",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-S-2:d",
+          "text": "Emerald Fennell",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Greta Gerwig führte bei „Barbie“ Regie.",
+      "context": "Gerwig schrieb das Drehbuch mit Noah Baumbach; Robbies Produzentenrolle ist davon zu unterscheiden. Greta Gerwig verbindet die Spielzeugwelt mit einem Konflikt über Selbstbild und gesellschaftliche Rollen. Margot Robbies Beteiligung als Produzentin und Hauptdarstellerin sowie Gerwigs Regie sind unterschiedliche Aufgaben an derselben Produktion.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie",
+        "https://en.wikipedia.org/wiki/Barbie_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-S-2",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Barbie|2023"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-A-1",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche reale Schauspielerin verkörpert Margot Robbie in „Once Upon a Time in Hollywood“?",
+      "question": "Welche reale Schauspielerin verkörpert Margot Robbie in „Once Upon a Time in Hollywood“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-1:a",
+          "text": "Natalie Wood",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-1:b",
+          "text": "Sharon Tate",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-1:c",
+          "text": "Jayne Mansfield",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-1:d",
+          "text": "Lana Turner",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In Tarantinos Film stellt Margot Robbie Sharon Tate dar.",
+      "context": "Tarantinos Film zeigt Tate als Teil einer bewusst veränderten Hollywoodgeschichte. Sharon Tate wird beim Kinobesuch gezeigt, wie sie die Reaktionen auf ihre eigene Filmrolle genießt. Diese alltägliche Lebensfreude steht neben dem Wissen des Publikums um die historische Gewalttat, deren Verlauf Tarantino verändert.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie",
+        "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-A-1",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Once Upon a Time in Hollywood|2019"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-084-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-084-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche US-Serie war Margot Robbies frühe große Fernsehrolle nach „Neighbours“?",
+      "question": "Welche US-Serie war Margot Robbies frühe große Fernsehrolle nach „Neighbours“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-2:a",
+          "text": "Gossip Girl",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-2:b",
+          "text": "The Newsroom",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-2:c",
+          "text": "Pan Am",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-084-A-2:d",
+          "text": "Mad Men",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Nach „Neighbours“ spielte sie die Flugbegleiterin Laura Cameron in „Pan Am“.",
+      "context": "Sie spielte die Stewardess Laura Cameron in einer historischen Fluggesellschaftsserie. Die Serie spielt in den frühen 1960er-Jahren und folgt einer Flugzeugbesatzung auf internationalen Reisen. Laura Cameron beginnt als junge Flugbegleiterin ein selbstständigeres Leben; die Serie blieb auf eine Staffel begrenzt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Margot_Robbie",
+        "https://de.wikipedia.org/wiki/Margot_Robbie"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-084-A-2",
+      "filmKey": "",
+      "filmTitle": "Margot Robbie",
+      "personId": "ACTOR-084",
+      "personName": "Margot Robbie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielte die Assistentin Andy in „Der Teufel trägt Prada“?",
+      "question": "Wer spielte die Assistentin Andy in „Der Teufel trägt Prada“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-1:a",
+          "text": "Anne Hathaway",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-1:b",
+          "text": "Emily Blunt",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-1:c",
+          "text": "Amanda Seyfried",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-1:d",
+          "text": "Rachel McAdams",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Anne Hathaway spielt die angehende Journalistin Andy Sachs.",
+      "context": "Emily Blunt spielt die Kollegin Emily; beide jungen Mitarbeiterinnen haben unterschiedliche Positionen im Magazin. Andy Sachs möchte Journalistin werden und behandelt die Stelle zunächst als berufliches Sprungbrett. Der enorme Einfluss ihrer Chefin Miranda Priestly verschiebt jedoch zunehmend ihre Prioritäten und belastet ihre privaten Beziehungen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway",
+        "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-L-1",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Devil Wears Prada|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Prinzessin spielt Anne Hathaway in „Plötzlich Prinzessin“?",
+      "question": "Welche Prinzessin spielt Anne Hathaway in „Plötzlich Prinzessin“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-2:a",
+          "text": "Jasmine",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-2:b",
+          "text": "Mia Thermopolis",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-2:c",
+          "text": "Ella",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-L-2:d",
+          "text": "Giselle",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Anne Hathaway verkörpert Mia Thermopolis, die unerwartete Thronerbin.",
+      "context": "Die Teenagerin erfährt unerwartet von ihrer königlichen Abstammung und muss eine neue öffentliche Rolle lernen. Mias Großmutter Clarisse erklärt ihr, dass sie die Thronerbin des erfundenen Genovien ist. Zwischen Schulalltag und höfischer Ausbildung muss Mia entscheiden, ob sie diese Verantwortung überhaupt übernehmen möchte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway",
+        "https://en.wikipedia.org/wiki/The_Princess_Diaries_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-L-2",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Princess Diaries|2001"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-085",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-085",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Anne Hathaway dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-085:a",
+          "text": "Anne Hathaway",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-085:b",
+          "text": "Kate Hudson",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Anne Hathaway zu sehen; Kate Hudson ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-085:c",
+          "text": "Léa Seydoux",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Anne Hathaway zu sehen; Léa Seydoux ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-085:d",
+          "text": "Felicity Jones",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Anne Hathaway zu sehen; Felicity Jones ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Anne Hathaway.",
+      "context": "Anne Hathaway wurde als überraschend entdeckte Thronerbin in „Plötzlich Prinzessin“ bekannt. In „Rachels Hochzeit“ spielte sie später eine Frau, deren Rückkehr aus dem Entzug alte Familienkonflikte aufbrechen lässt. Für die singende Fantine in „Les Misérables“ erhielt sie schließlich einen Oscar.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:AnneHathaway-byPhilipRomano-Crop.jpg",
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway",
+        "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-085",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "The Devil Wears Prada|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-M-1",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Für welche Musicalfigur erhielt Anne Hathaway einen Oscar?",
+      "question": "Für welche Musicalfigur erhielt Anne Hathaway einen Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-1:a",
+          "text": "Éponine",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-1:b",
+          "text": "Madame Thénardier",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-1:c",
+          "text": "Fantine",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-1:d",
+          "text": "Cosette",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Den Oscar erhielt sie für Fantine in „Les Misérables“.",
+      "context": "In „Les Misérables“ spielt sie Fantine; das zentrale Lied wurde während der Dreharbeiten live gesungen. Fantine verliert ihre Arbeit und versucht, ihre Tochter Cosette weiter zu versorgen. „I Dreamed a Dream“ verdichtet den Zusammenbruch ihrer Hoffnungen; die Nahaufnahme macht aus der Gesangsnummer eine unmittelbar gespielte Szene.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway",
+        "https://en.wikipedia.org/wiki/Les_Misérables_(2012_film)",
+        "https://de.wikipedia.org/wiki/Les_Mis%C3%A9rables_%282012%29",
+        "https://en.wikipedia.org/wiki/Tom_Hooper"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-M-1",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Les Misérables|2012"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Batmanfigur spielt Anne Hathaway in „The Dark Knight Rises“?",
+      "question": "Welche Batmanfigur spielt Anne Hathaway in „The Dark Knight Rises“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-2:a",
+          "text": "Rachel Dawes",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-2:b",
+          "text": "Miranda Tate",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-2:c",
+          "text": "Barbara Gordon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-M-2:d",
+          "text": "Selina Kyle",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In Nolans Batmanfilm spielt sie die Diebin Selina Kyle.",
+      "context": "Ihre Version der Diebin gehört zu Nolans Filmkontinuität und ist von anderen Catwomen getrennt. Selina Kyle sucht eine Möglichkeit, ihre kriminelle Vergangenheit aus den Datensystemen zu löschen. Ihre Zusammenarbeit mit Bruce Wayne bleibt deshalb zunächst von Eigeninteresse geprägt, bevor sie im Kampf um Gotham Position bezieht.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway",
+        "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-M-2",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Dark Knight Rises|2012"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-S-1",
+      "difficulty": "schwer",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welcher Film brachte Anne Hathaway ihre erste Oscar-Nominierung?",
+      "question": "Welcher Film brachte Anne Hathaway ihre erste Oscar-Nominierung?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-1:a",
+          "text": "Rachels Hochzeit",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-1:b",
+          "text": "Der Teufel trägt Prada",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-1:c",
+          "text": "Brokeback Mountain",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-1:d",
+          "text": "Becoming Jane",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre erste Oscarnominierung erhielt sie für „Rachels Hochzeit“.",
+      "context": "Die Figur Kym kehrt für eine Familienfeier aus einer Entzugseinrichtung zurück. Kym kommt zur Hochzeit ihrer Schwester Rachel nach Hause. Ihre Suchtgeschichte und ein früherer Verlust in der Familie brechen mitten in den Vorbereitungen auf und stehen gegen das erwartete Bild eines harmonischen Festes.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway",
+        "https://en.wikipedia.org/wiki/Rachel_Getting_Married"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-S-1",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Rachel Getting Married|2008"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Schriftstellerin verkörperte Anne Hathaway in „Geliebte Jane“?",
+      "question": "Welche Schriftstellerin verkörperte Anne Hathaway in „Geliebte Jane“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-2:a",
+          "text": "Louisa May Alcott",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-2:b",
+          "text": "Jane Austen",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-2:c",
+          "text": "Charlotte Brontë",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-S-2:d",
+          "text": "Mary Shelley",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „Geliebte Jane“ spielt Anne Hathaway Jane Austen.",
+      "context": "Das romantische Biopic deutet Jugenderfahrungen als Hintergrund für spätere literarische Stoffe. Der Film entwirft eine Liebesgeschichte zwischen der jungen Jane Austen und Tom Lefroy. Er verbindet historische Personen mit freier dramatischer Gestaltung; seine Handlung ist deshalb keine gesicherte Erklärung für Austens Romane.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway",
+        "https://en.wikipedia.org/wiki/Becoming_Jane"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-S-2",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Becoming Jane|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-A-1",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "In welcher frühen Fernsehserie spielte Anne Hathaway Meghan Green?",
+      "question": "In welcher frühen Fernsehserie spielte Anne Hathaway Meghan Green?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-1:a",
+          "text": "Dawson's Creek",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-1:b",
+          "text": "Felicity",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-1:c",
+          "text": "Get Real",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-1:d",
+          "text": "Party of Five",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Meghan Green war ihre Rolle in „Get Real“.",
+      "context": "Die Familienserie ging ihrem Durchbruch mit den Prinzessinnenfilmen voraus. Die Serie lief 1999 bis 2000 und erzählt aus mehreren Perspektiven vom Alltag der Familie Green. Anne Hathaway spielte die ältere Schwester neben Jesse Eisenberg, der ihren jüngeren Bruder Kenny verkörperte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-A-1",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-085-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-085-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Shakespeare-Figur spielte Anne Hathaway 2009 im New Yorker Central Park?",
+      "question": "Welche Shakespeare-Figur spielte Anne Hathaway 2009 im New Yorker Central Park?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-2:a",
+          "text": "Ophelia",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-2:b",
+          "text": "Juliet",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-2:c",
+          "text": "Lady Macbeth",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-085-A-2:d",
+          "text": "Viola",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Bei Shakespeare in the Park spielte Anne Hathaway Viola in „Twelfth Night“.",
+      "context": "„Twelfth Night“ verlangt von Viola das Spiel einer verkleideten Person und mehrdeutiger Beziehungen. Nach einem Schiffbruch gibt Viola sich als der junge Mann Cesario aus. Sie liebt Orsino, wirbt aber in seinem Auftrag um Olivia, die sich wiederum in Cesario verliebt: Die Verkleidung erzeugt das zentrale Beziehungsdreieck.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anne_Hathaway",
+        "https://de.wikipedia.org/wiki/Anne_Hathaway"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-085-A-2",
+      "filmKey": "",
+      "filmTitle": "Anne Hathaway",
+      "personId": "ACTOR-085",
+      "personName": "Anne Hathaway",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-086-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-086-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Märchenfigur spielt Amy Adams in „Verwünscht“?",
+      "question": "Welche Märchenfigur spielt Amy Adams in „Verwünscht“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-1:a",
+          "text": "Ariel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-1:b",
+          "text": "Giselle",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-1:c",
+          "text": "Belle",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-1:d",
+          "text": "Aurora",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Amy Adams spielt Giselle, die aus einer Märchenwelt nach New York gerät.",
+      "context": "Die Prinzessinnenfigur landet in einer modernen Stadt; Adams verbindet Märchenhaftigkeit mit zunehmend eigenem Handeln. Giselle wird aus einer gezeichneten Märchenwelt nach New York geschickt. Dort trifft ihr Vertrauen in Liebe, Gesang und sprechende Tiere auf einen Alltag, der diese Regeln nicht selbstverständlich teilt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amy_Adams",
+        "https://de.wikipedia.org/wiki/Amy_Adams",
+        "https://en.wikipedia.org/wiki/Enchanted_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-086-L-1",
+      "filmKey": "",
+      "filmTitle": "Amy Adams",
+      "personId": "ACTOR-086",
+      "personName": "Amy Adams",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Enchanted|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-086-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-086-L-2",
+      "difficulty": "leicht",
+      "questionType": "Ausbildung und frühe Arbeit",
+      "learningObjective": "Welche Superman-Journalistin verkörpert Amy Adams?",
+      "question": "Welche Superman-Journalistin verkörpert Amy Adams?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-2:a",
+          "text": "Vicki Vale",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-2:b",
+          "text": "Iris West",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-2:c",
+          "text": "Lois Lane",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-L-2:d",
+          "text": "Lana Lang",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Ihre Journalistin im Superman-Kino heißt Lois Lane.",
+      "context": "Amy Adams hatte die Rolle der Lois Lane bei zwei früheren Supermanprojekten nicht erhalten. Zack Snyder besetzte sie schließlich für „Man of Steel“ (2013) neben Henry Cavill als Superman. Die bekannte Journalistin wurde damit erst nach mehreren Anläufen zu ihrer Rolle. Adams kehrte anschließend auch in „Batman v Superman“ als Lois zurück.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amy_Adams",
+        "https://de.wikipedia.org/wiki/Amy_Adams",
+        "https://en.wikipedia.org/wiki/Man_of_Steel_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-086-L-2",
+      "filmKey": "",
+      "filmTitle": "Amy Adams",
+      "personId": "ACTOR-086",
+      "personName": "Amy Adams",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Man of Steel|2013"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-086-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-086-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Wissenschaftlerin spielt Amy Adams in „Arrival“?",
+      "question": "Welche Wissenschaftlerin spielt Amy Adams in „Arrival“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-1:a",
+          "text": "Die Astronomin Ellie Arroway",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-1:b",
+          "text": "Die Ärztin Ryan Stone",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-1:c",
+          "text": "Die Biologin Grace Augustine",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-1:d",
+          "text": "Die Linguistin Louise Banks",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Amy Adams spielt die Sprachwissenschaftlerin Louise Banks.",
+      "context": "Die Sprache der Besucher wird zum Schlüssel einer Erzählung über Kommunikation und Zeitwahrnehmung. Louise Banks sucht gemeinsam mit einem Physiker nach einer Verständigung mit den Heptapoden. Das Erlernen ihrer Schrift verändert zugleich die Art, wie sie Zeit erlebt und eigene Lebensentscheidungen versteht.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amy_Adams",
+        "https://de.wikipedia.org/wiki/Amy_Adams",
+        "https://en.wikipedia.org/wiki/Arrival_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-086-M-1",
+      "filmKey": "",
+      "filmTitle": "Amy Adams",
+      "personId": "ACTOR-086",
+      "personName": "Amy Adams",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Arrival|2016"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-086-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-086-M-2",
+      "difficulty": "mittel",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welcher Film brachte Amy Adams als hochschwangere Ashley ihre erste Oscarnominierung?",
+      "question": "Welcher Film brachte Amy Adams als hochschwangere Ashley ihre erste Oscarnominierung?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-2:a",
+          "text": "Junebug",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-2:b",
+          "text": "Catch Me If You Can",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-2:c",
+          "text": "Enchanted",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-M-2:d",
+          "text": "Doubt",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Für Ashley in „Junebug“ erhielt Amy Adams ihre erste Oscarnominierung.",
+      "context": "Als hochschwangere Ashley wirkt ihre Offenheit innerhalb einer angespannten Familienbegegnung besonders stark. Eine Kunsthändlerin besucht mit ihrem Mann dessen Familie in North Carolina. Ashley begegnet der Besucherin begeistert, während andere Familienmitglieder Distanz zeigen; ihre Aufmerksamkeit macht Spannungen sichtbar, die sonst unausgesprochen bleiben.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amy_Adams",
+        "https://de.wikipedia.org/wiki/Amy_Adams",
+        "https://en.wikipedia.org/wiki/Junebug_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-086-M-2",
+      "filmKey": "",
+      "filmTitle": "Amy Adams",
+      "personId": "ACTOR-086",
+      "personName": "Amy Adams",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Junebug|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-086",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-086",
+      "difficulty": "mittel",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Amy Adams dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-086:a",
+          "text": "Olivia Colman",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Amy Adams zu sehen; Olivia Colman ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-086:b",
+          "text": "Amy Adams",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-086:c",
+          "text": "Penélope Cruz",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Amy Adams zu sehen; Penélope Cruz ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-086:d",
+          "text": "Charlize Theron",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Amy Adams zu sehen; Charlize Theron ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Amy Adams.",
+      "context": "Bei Amy Adams liegen Musicalkomik und zurückhaltendes Drama nebeneinander: Giselle bringt in „Verwünscht“ die Regeln eines Märchens nach New York, Louise Banks sucht in „Arrival“ nach einer Verständigung mit Außerirdischen. Ihre frühere Arbeit im Dinner-Theater verband bereits Schauspiel mit Gesang und Tanz.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Amy_Adams_at_the_2024_Toronto_International_Film_Festival._03_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Amy_Adams",
+        "https://de.wikipedia.org/wiki/Amy_Adams",
+        "https://en.wikipedia.org/wiki/Enchanted_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-086",
+      "filmKey": "",
+      "filmTitle": "Amy Adams",
+      "personId": "ACTOR-086",
+      "personName": "Amy Adams",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Enchanted|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-086-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-086-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Künstlerin verkörpert Amy Adams in „Big Eyes“?",
+      "question": "Welche Künstlerin verkörpert Amy Adams in „Big Eyes“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-1:a",
+          "text": "Lee Krasner",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-1:b",
+          "text": "Margaret Keane",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-1:c",
+          "text": "Georgia O'Keeffe",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-1:d",
+          "text": "Frida Kahlo",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "In „Big Eyes“ verkörpert Amy Adams die Malerin Margaret Keane.",
+      "context": "Der Film behandelt die Urheberschaft ihrer Bilder und die Aneignung durch ihren Ehemann. Margaret Keanes Bilder zeigen Figuren mit übergroßen Augen. Ihr Ehemann Walter verkauft sie unter seinem eigenen Namen; der Streit um die tatsächliche Urheberschaft mündet schließlich in ein Gerichtsverfahren.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amy_Adams",
+        "https://de.wikipedia.org/wiki/Amy_Adams",
+        "https://en.wikipedia.org/wiki/Big_Eyes"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-086-S-1",
+      "filmKey": "",
+      "filmTitle": "Amy Adams",
+      "personId": "ACTOR-086",
+      "personName": "Amy Adams",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Big Eyes|2014"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P01-086-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P01-086-S-2",
+      "difficulty": "schwer",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "In welcher Stadt wurde Amy Adams als Tochter eines US-Soldaten geboren?",
+      "question": "In welcher Stadt wurde Amy Adams als Tochter eines US-Soldaten geboren?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-2:a",
+          "text": "Neapel",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-2:b",
+          "text": "Florenz",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-2:c",
+          "text": "Vicenza",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P01-086-S-2:d",
+          "text": "Rom",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Amy Adams wurde in Vicenza geboren.",
+      "context": "Sie wuchs anschließend in den USA auf; der italienische Geburtsort ist eine Familien- und Stationierungsgeschichte. Ihr Vater war bei der US-Armee in Italien stationiert. Nach der Rückkehr der Familie wuchs Amy Adams überwiegend in Castle Rock in Colorado auf; der Geburtsort allein beschreibt deshalb ihre Kindheit nicht.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amy_Adams",
+        "https://de.wikipedia.org/wiki/Amy_Adams"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P01-086-S-2",
+      "filmKey": "",
+      "filmTitle": "Amy Adams",
+      "personId": "ACTOR-086",
+      "personName": "Amy Adams",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
     }
   ]
 }
