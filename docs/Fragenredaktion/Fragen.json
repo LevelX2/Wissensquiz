@@ -639750,6 +639750,2634 @@
       "personNameBeforeAnswer": "true",
       "filmRefs": [],
       "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-183",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-183",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von James Dean dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-183:a",
+          "text": "Marlon Brando",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist James Dean zu sehen; Sean Connery ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-183:b",
+          "text": "Montgomery Clift",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist James Dean zu sehen; Omar Sharif ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-183:c",
+          "text": "James Dean",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-183:d",
+          "text": "Paul Newman",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist James Dean zu sehen; Bud Spencer ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt James Dean.",
+      "context": "James Dean spielte in „Jenseits von Eden“, „… denn sie wissen nicht, was sie tun“ und „Giganten“. Diese drei zentralen Kinorollen prägten sein Bild als junger Darsteller, obwohl seine Laufbahn durch seinen frühen Tod sehr kurz blieb.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:James_Dean_ca_1955.jpg",
+        "https://en.wikipedia.org/wiki/James_Dean",
+        "https://en.wikipedia.org/wiki/East_of_Eden_(1955_film)",
+        "https://en.wikipedia.org/wiki/Rebel_Without_a_Cause_(film)",
+        "https://en.wikipedia.org/wiki/Giant_(1956_film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-183",
+      "filmKey": "",
+      "filmTitle": "James Dean",
+      "personId": "ACTOR-183",
+      "personName": "James Dean",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "East of Eden|1955",
+        "Rebel Without a Cause|1955",
+        "Giant|1956"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-179",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-179",
+      "difficulty": "mittel",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von James Stewart dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-179:a",
+          "text": "Paul Newman",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist James Stewart zu sehen; Paul Newman ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-179:b",
+          "text": "Cary Grant",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist James Stewart zu sehen; Cary Grant ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-179:c",
+          "text": "James Stewart",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-179:d",
+          "text": "Marlon Brando",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist James Stewart zu sehen; Marlon Brando ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt James Stewart.",
+      "context": "James Stewart spielte George Bailey in „Ist das Leben nicht schön?“. In Alfred Hitchcocks „Das Fenster zum Hof“ verkörperte er den Fotografen Jeff, der aus seiner Wohnung einen möglichen Mord beobachtet.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Annex_-_Stewart,_James_(Call_Northside_777)_01.jpg",
+        "https://en.wikipedia.org/wiki/James_Stewart",
+        "https://en.wikipedia.org/wiki/It's_a_Wonderful_Life_(film)",
+        "https://en.wikipedia.org/wiki/Rear_Window"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-179",
+      "filmKey": "",
+      "filmTitle": "James Stewart",
+      "personId": "ACTOR-179",
+      "personName": "James Stewart",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "It's a Wonderful Life|1946",
+        "Rear Window|1954"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-187",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-187",
+      "difficulty": "mittel",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Jean-Paul Belmondo dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-187:a",
+          "text": "Armin Mueller-Stahl",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jean-Paul Belmondo zu sehen; Armin Mueller-Stahl ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-187:b",
+          "text": "Omar Sharif",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jean-Paul Belmondo zu sehen; Omar Sharif ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-187:c",
+          "text": "Jean-Paul Belmondo",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-187:d",
+          "text": "Donald Sutherland",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jean-Paul Belmondo zu sehen; Donald Sutherland ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Jean-Paul Belmondo.",
+      "context": "Jean-Paul Belmondo spielte in Jean-Luc Godards „Außer Atem“ den flüchtigen Michel. Später wurde er auch durch französische Actionfilme bekannt. Nouvelle Vague und Unterhaltungskino gehören damit gleichermaßen zu seiner Laufbahn.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Belmondo_1960.jpg",
+        "https://en.wikipedia.org/wiki/Jean-Paul_Belmondo",
+        "https://en.wikipedia.org/wiki/Breathless_(1960_film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-187",
+      "filmKey": "",
+      "filmTitle": "Jean-Paul Belmondo",
+      "personId": "ACTOR-187",
+      "personName": "Jean-Paul Belmondo",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Breathless|1960"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-196",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-196",
+      "difficulty": "mittel",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Jennifer Connelly dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-196:a",
+          "text": "Jennifer Aniston",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Connelly zu sehen; Jennifer Aniston ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-196:b",
+          "text": "Toni Collette",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Connelly zu sehen; Toni Collette ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-196:c",
+          "text": "Winona Ryder",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Jennifer Connelly zu sehen; Winona Ryder ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-196:d",
+          "text": "Jennifer Connelly",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Porträt zeigt Jennifer Connelly.",
+      "context": "Jennifer Connelly spielt in „Die Reise ins Labyrinth“ die junge Sarah, die ihren Bruder aus einer fantastischen Welt zurückholen will. Als Alicia Nash in „A Beautiful Mind“ begleitet sie dagegen den Mathematiker John Nash durch die Folgen seiner Erkrankung. Für diese Nebenrolle erhielt sie einen Oscar.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Jennifer_Connelly_2019_2.png",
+        "https://en.wikipedia.org/wiki/Jennifer_Connelly",
+        "https://en.wikipedia.org/wiki/Labyrinth_(1986_film)",
+        "https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-196",
+      "filmKey": "",
+      "filmTitle": "Jennifer Connelly",
+      "personId": "ACTOR-196",
+      "personName": "Jennifer Connelly",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Labyrinth|1986",
+        "A Beautiful Mind|2001"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-L1",
+      "knowledgeId": "K-E20261007-P-019-L1",
+      "difficulty": "leicht",
+      "questionType": "Personenwissen",
+      "learningObjective": "Over the Rainbow verbindet Dorothys Sehnsucht mit Garlands Stimme.",
+      "question": "Welches Lied ist besonders eng mit Judy Garlands Dorothy in „Der Zauberer von Oz“ verbunden?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-L1:a",
+          "text": "Singin’ in the Rain",
+          "correct": false,
+          "feedback": "Singin’ in the Rain gehört zu einer anderen Musicalgeschichte."
+        },
+        {
+          "id": "E20261007-P-019-L1:b",
+          "text": "Moon River",
+          "correct": false,
+          "feedback": "Moon River ist besonders mit Frühstück bei Tiffany verbunden."
+        },
+        {
+          "id": "E20261007-P-019-L1:c",
+          "text": "Que Sera, Sera",
+          "correct": false,
+          "feedback": "Que Sera, Sera wurde besonders durch Doris Day bekannt."
+        },
+        {
+          "id": "E20261007-P-019-L1:d",
+          "text": "Over the Rainbow",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Judy Garland singt als Dorothy „Over the Rainbow“.",
+      "context": "Judy Garland singt als Dorothy „Over the Rainbow“. Das Lied drückt den Wunsch nach einem Ort jenseits des vertrauten Alltags aus und bleibt mit ihrer gesamten späteren Karriere verbunden. Garland griff es auch bei Konzerten und Fernsehauftritten wieder auf. Eine Filmszene wurde dadurch zu einem eigenständigen musikalischen Wiedererkennungszeichen der Sängerin und Schauspielerin.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland",
+        "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film)",
+        "https://de.wikipedia.org/wiki/Der_Zauberer_von_Oz_%281939%29",
+        "https://en.wikipedia.org/wiki/Victor_Fleming"
+      ],
+      "originalId": "E20261007-P-019-L1",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Wizard of Oz|1939"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-L2",
+      "knowledgeId": "K-E20261007-P-019-L2",
+      "difficulty": "leicht",
+      "questionType": "Personenwissen",
+      "learningObjective": "Ein verletzter Kelly führte zu Garlands einzigem Film mit Astaire.",
+      "question": "Mit welchem Tänzer und Schauspieler spielte Judy Garland in „Osterspaziergang“?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-L2:a",
+          "text": "Fred Astaire",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-P-019-L2:b",
+          "text": "Gene Kelly",
+          "correct": false,
+          "feedback": "Kelly war vorgesehen, wurde aber nach seiner Verletzung ersetzt."
+        },
+        {
+          "id": "E20261007-P-019-L2:c",
+          "text": "Donald O’Connor",
+          "correct": false,
+          "feedback": "O’Connor ist nicht Garlands Hauptpartner dieses Films."
+        },
+        {
+          "id": "E20261007-P-019-L2:d",
+          "text": "Gordon MacRae",
+          "correct": false,
+          "feedback": "MacRae gehört nicht zu dieser Besetzung."
+        }
+      ],
+      "explanation": "Judy Garland spielte in „Easter Parade“, deutsch „Osterspaziergang“, mit Fred Astaire.",
+      "context": "Judy Garland spielte in „Easter Parade“, deutsch „Osterspaziergang“, mit Fred Astaire. Er ersetzte Gene Kelly, der sich den Knöchel gebrochen hatte. Der Film wurde ihre einzige gemeinsame Kinoarbeit. Die Kombination verbindet Garlands Gesang und darstellerische Wärme mit Astaires präziser Tanzkunst und entstand damit auch aus einer unerwarteten Veränderung der ursprünglichen Besetzungsplanung.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland",
+        "https://en.wikipedia.org/wiki/Easter_Parade_(film)"
+      ],
+      "originalId": "E20261007-P-019-L2",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Easter Parade|1948"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-M1",
+      "knowledgeId": "K-E20261007-P-019-M1",
+      "difficulty": "mittel",
+      "questionType": "Personenwissen",
+      "learningObjective": "Garland und Rooney machten den jugendlichen Show-Aufbruch zum MGM-Motiv.",
+      "question": "Mit welchem Schauspieler bildete Judy Garland bei MGM wiederholt ein junges Musicalpaar?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-M1:a",
+          "text": "James Dean",
+          "correct": false,
+          "feedback": "Dean gehört zu einer späteren anderen Stargruppe."
+        },
+        {
+          "id": "E20261007-P-019-M1:b",
+          "text": "Mickey Rooney",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-P-019-M1:c",
+          "text": "Montgomery Clift",
+          "correct": false,
+          "feedback": "Clift ist nicht der wiederkehrende junge Musicalpartner."
+        },
+        {
+          "id": "E20261007-P-019-M1:d",
+          "text": "Anthony Perkins",
+          "correct": false,
+          "feedback": "Perkins bildete dieses MGM-Paar nicht."
+        }
+      ],
+      "explanation": "Judy Garland arbeitete bei MGM in mehreren Filmen mit Mickey Rooney zusammen.",
+      "context": "Judy Garland arbeitete bei MGM in mehreren Filmen mit Mickey Rooney zusammen. Ihre gemeinsamen Auftritte gehörten unter anderem zu den sogenannten Backyard Musicals, in denen junge Menschen selbst eine Show auf die Beine stellen. Das Paar verband komisches Spiel mit Gesang und jugendlichem Tatendrang. Die Zusammenarbeit begann schon vor Garlands späterer Bekanntheit als Dorothy.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland"
+      ],
+      "originalId": "E20261007-P-019-M1",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-M2",
+      "knowledgeId": "K-E20261007-P-019-M2",
+      "difficulty": "mittel",
+      "questionType": "Personenwissen",
+      "learningObjective": "Garlands Weihnachtslied verbindet Trost mit der Unsicherheit einer Familie.",
+      "question": "Welches Weihnachtslied stellte Judy Garland in „Meet Me in St. Louis“ erstmals im Film vor?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-M2:a",
+          "text": "White Christmas",
+          "correct": false,
+          "feedback": "White Christmas wurde in Holiday Inn von Bing Crosby vorgestellt."
+        },
+        {
+          "id": "E20261007-P-019-M2:b",
+          "text": "The Christmas Song",
+          "correct": false,
+          "feedback": "The Christmas Song stammt nicht aus dieser Filmszene."
+        },
+        {
+          "id": "E20261007-P-019-M2:c",
+          "text": "Have Yourself a Merry Little Christmas",
+          "correct": true,
+          "feedback": "Garland stellt das Lied in Meet Me in St. Louis vor."
+        },
+        {
+          "id": "E20261007-P-019-M2:d",
+          "text": "Silver Bells",
+          "correct": false,
+          "feedback": "Silver Bells wurde im Film The Lemon Drop Kid vorgestellt, nicht in Meet Me in St. Louis."
+        }
+      ],
+      "explanation": "Judy Garland singt in „Meet Me in St. Louis“ „Have Yourself a Merry Little Christmas“.",
+      "context": "Judy Garland singt „Have Yourself a Merry Little Christmas“ in „Meet Me in St. Louis“. Das Lied steht in einer familiären Situation, die zugleich Wärme und Unsicherheit trägt. Der Film führte außerdem „The Trolley Song“ ein. Garlands Gesang macht damit persönliche Gefühle innerhalb der Handlung zu Liedern, die später weit außerhalb des Films bekannt wurden.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland",
+        "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis"
+      ],
+      "originalId": "E20261007-P-019-M2",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Meet Me in St. Louis|1944"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-S1",
+      "knowledgeId": "K-E20261007-P-019-S1",
+      "difficulty": "schwer",
+      "questionType": "Personenwissen",
+      "learningObjective": "Nürnberg zeigt Garland als dramatische Zeugin jenseits des Musicals.",
+      "question": "In welchem Gerichtsdrama erhielt Judy Garland eine Oscar-Nominierung für eine Nebenrolle?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-S1:a",
+          "text": "Zeugin der Anklage",
+          "correct": false,
+          "feedback": "Zeugin der Anklage ist ein anderes Gerichtsdrama."
+        },
+        {
+          "id": "E20261007-P-019-S1:b",
+          "text": "Die zwölf Geschworenen",
+          "correct": false,
+          "feedback": "Die zwölf Geschworenen enthält nicht diese Garland-Rolle."
+        },
+        {
+          "id": "E20261007-P-019-S1:c",
+          "text": "Wer den Wind sät",
+          "correct": false,
+          "feedback": "Wer den Wind sät brachte ihr nicht diese Nominierung."
+        },
+        {
+          "id": "E20261007-P-019-S1:d",
+          "text": "Urteil von Nürnberg",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Judy Garland wurde für ihre Nebenrolle in „Judgment at Nuremberg“, deutsch „Urteil von Nürnberg“, für einen Oscar nominiert.",
+      "context": "Judy Garland wurde für ihre Nebenrolle in „Judgment at Nuremberg“, deutsch „Urteil von Nürnberg“, für einen Oscar nominiert. Der Film behandelt die Verantwortung deutscher Juristen unter dem Nationalsozialismus. Garland tritt in einer ernsten Zeugensituation auf. Die Arbeit erweitert ihre oft mit Musicals verbundene öffentliche Wahrnehmung um eine konzentrierte dramatische Darstellung in einem großen Ensemble.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland",
+        "https://en.wikipedia.org/wiki/Judgment_at_Nuremberg",
+        "https://catalog.afi.com/Film/23848-JUDGMENT-AT-NUREMBERG",
+        "https://de.wikipedia.org/wiki/Urteil_von_N%C3%BCrnberg"
+      ],
+      "originalId": "E20261007-P-019-S1",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Judgment at Nuremberg|1961"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-S2",
+      "knowledgeId": "K-E20261007-P-019-S2",
+      "difficulty": "schwer",
+      "questionType": "Personenwissen",
+      "learningObjective": "Ihr Aufstieg und sein Verfall belasten die gemeinsame Liebe.",
+      "question": "Was ist die Grundkonstellation von Judy Garlands Künstlerfigur in „Ein neuer Stern am Himmel“?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-S2:a",
+          "text": "Eine Sängerin steigt auf, während die Karriere ihres Partners verfällt",
+          "correct": true,
+          "feedback": "Esther steigt zum Star auf, während Normans Karriere und Gesundheit zerfallen."
+        },
+        {
+          "id": "E20261007-P-019-S2:b",
+          "text": "Beide geben ihre Filmkarrieren auf, um ein gemeinsames Theater zu führen",
+          "correct": false,
+          "feedback": "Ein gemeinsam geleitetes Theater ist nicht ihr Plan; ihre gegensätzlichen Filmkarrieren belasten die Ehe."
+        },
+        {
+          "id": "E20261007-P-019-S2:c",
+          "text": "Ihr Partner beendet freiwillig seine Karriere und wird ihr erfolgreicher Agent",
+          "correct": false,
+          "feedback": "Norman scheitert zunehmend an seiner Abhängigkeit; die Handlung führt nicht zu einer erfolgreichen Agentenlaufbahn."
+        },
+        {
+          "id": "E20261007-P-019-S2:d",
+          "text": "Ihr wachsender Ruhm führt ihn zurück zum Erfolg und sie aus dem Filmgeschäft",
+          "correct": false,
+          "feedback": "Die Entwicklung verläuft umgekehrt: Sie gewinnt Anerkennung, er verliert beruflichen Halt."
+        }
+      ],
+      "explanation": "Judy Garland spielt die Sängerin, deren Karriere in „A Star Is Born“ aufsteigt.",
+      "context": "Esther Blodgett (Judy Garland), später als Vicki Lester bekannt, steigt in „Ein neuer Stern am Himmel“ zur erfolgreichen Künstlerin auf. Norman Maine (James Mason) entdeckt sie, verliert aber zunehmend beruflichen Halt und kämpft mit Alkoholabhängigkeit. Ihre Liebe kann diese gegensätzliche Entwicklung nicht auflösen. Garlands Gesang und dramatisches Spiel verbinden Bühnenauftritte mit den Spannungen der Ehe.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland",
+        "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)"
+      ],
+      "originalId": "E20261007-P-019-S2",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "A Star Is Born|1954"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-E1",
+      "knowledgeId": "K-E20261007-P-019-E1",
+      "difficulty": "experte",
+      "questionType": "Personenwissen",
+      "learningObjective": "Carnegie Hall 1961 wurde zum Grammy-Album des Jahres 1962.",
+      "question": "Welcher Konzertmitschnitt brachte Judy Garland bei den Grammys 1962 den Preis für das Album des Jahres?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-E1:a",
+          "text": "Judy at the Grove",
+          "correct": false,
+          "feedback": "Judy at the Grove ist nicht das ausgezeichnete Album."
+        },
+        {
+          "id": "E20261007-P-019-E1:b",
+          "text": "Judy at Carnegie Hall",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-P-019-E1:c",
+          "text": "The Garland Touch",
+          "correct": false,
+          "feedback": "The Garland Touch gewann diesen Preis nicht."
+        },
+        {
+          "id": "E20261007-P-019-E1:d",
+          "text": "Judy in Love",
+          "correct": false,
+          "feedback": "Judy in Love ist ein anderes Garland-Album."
+        }
+      ],
+      "explanation": "„Judy at Carnegie Hall“ dokumentiert Garlands Konzert vom April 1961 in New York.",
+      "context": "„Judy at Carnegie Hall“ dokumentiert Garlands Konzert vom April 1961 in New York. Das Doppelalbum gewann bei den Grammys 1962 den Preis für das Album des Jahres. Es machte ihre Bühnenwirkung als eigenständige Sängerin hörbar, unabhängig von einer Filmfigur. Aufnahmejahr und Verleihungsjahr unterscheiden sich auch hier, obwohl beide zur Geschichte desselben Albums gehören.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland",
+        "https://www.grammy.com/artists/judy-garland/3544/",
+        "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/judy.pdf"
+      ],
+      "originalId": "E20261007-P-019-E1",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "E20261007-P-019-E2",
+      "knowledgeId": "K-E20261007-P-019-E2",
+      "difficulty": "experte",
+      "questionType": "Personenwissen",
+      "learningObjective": "Vor Judy Garland stand die Familiengruppe Gumm Sisters.",
+      "question": "Unter welchem Familiennamen trat Judy Garland als Kind mit ihren Schwestern auf?",
+      "answers": [
+        {
+          "id": "E20261007-P-019-E2:a",
+          "text": "Andrews Sisters",
+          "correct": false,
+          "feedback": "Die Andrews Sisters sind eine andere Gesangsgruppe."
+        },
+        {
+          "id": "E20261007-P-019-E2:b",
+          "text": "Boswell Sisters",
+          "correct": false,
+          "feedback": "Die Boswell Sisters sind nicht Garlands Familienensemble."
+        },
+        {
+          "id": "E20261007-P-019-E2:c",
+          "text": "Gumm Sisters",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "E20261007-P-019-E2:d",
+          "text": "Lennon Sisters",
+          "correct": false,
+          "feedback": "Die Lennon Sisters gehören zu einer späteren anderen Gruppe."
+        }
+      ],
+      "explanation": "Judy Garland trat mit ihren älteren Schwestern als Gumm Sisters auf.",
+      "context": "Judy Garland trat mit ihren älteren Schwestern als Gumm Sisters auf. Ihre Eltern arbeiteten im Vaudeville- und Kinoumfeld, sodass Gesang und Tanz früh zum Familienalltag gehörten. Der spätere Künstlername Judy Garland entstand erst danach. Die Kinderauftritte bilden deshalb eine Vorgeschichte zu MGM und den großen Musicals, in denen sie als einzelne Starpersönlichkeit bekannt wurde.",
+      "spoilerLevel": "mittel",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Judy_Garland"
+      ],
+      "originalId": "E20261007-P-019-E2",
+      "filmKey": "",
+      "filmTitle": "Judy Garland",
+      "personId": "ACTOR-20261007-019",
+      "personName": "Judy Garland",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt die Frau, in die sich Omar Sharifs Arzt verliebt und die Julie Christie in „Doktor Schiwago“ spielt?",
+      "question": "Wie heißt die Frau, in die sich Omar Sharifs Arzt verliebt und die Julie Christie in „Doktor Schiwago“ spielt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-1:a",
+          "text": "Anna",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-1:b",
+          "text": "Tonya",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-1:c",
+          "text": "Nadja",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-1:d",
+          "text": "Lara",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Julie Christie spielt Lara, deren Lebensweg sich immer wieder mit dem Juri Schiwagos kreuzt.",
+      "context": "Lara begegnet Juri Schiwago wiederholt innerhalb der politischen Umbrüche Russlands. Julie Christie spielt die zentrale Liebesfigur neben Omar Sharifs Titelhelden. David Leans groß angelegte Verfilmung von Boris Pasternaks Roman verbindet persönliche Beziehungen mit Revolution und Krieg; Laras Geschichte ist dabei eng mit Entscheidungen anderer Männer und mit gesellschaftlichen Abhängigkeiten verschränkt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Doctor_Zhivago_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-L-1",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Doctor Zhivago|1965"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-L-2",
+      "difficulty": "leicht",
+      "questionType": "Auszeichnungen",
+      "learningObjective": "Welche Schauspielerin gewann für die Hauptrolle in „Darling“ den Oscar?",
+      "question": "Welche Schauspielerin gewann für die Hauptrolle in „Darling“ den Oscar?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-2:a",
+          "text": "Vanessa Redgrave",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-2:b",
+          "text": "Maggie Smith",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-2:c",
+          "text": "Glenda Jackson",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-L-2:d",
+          "text": "Julie Christie",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Julie Christie gewann für das aufstiegsorientierte Model Diana Scott in „Darling“.",
+      "context": "Julie Christie spielt in „Darling“ Diana Scott, ein Modell auf der Suche nach gesellschaftlichem Aufstieg. John Schlesingers Film beobachtet wechselnde Beziehungen und das öffentliche Bild der Figur. Die Auszeichnung erfolgte für diese zeitgenössische Darstellung; ihr im selben Jahr erschienener „Doktor Schiwago“ war ein anderes, besonders populäres Projekt.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Darling_(1965_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-L-2",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Darling|1965"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Wirtin der Drei Besen spielt Julie Christie in „Harry Potter und der Gefangene von Askaban“?",
+      "question": "Welche Wirtin der Drei Besen spielt Julie Christie in „Harry Potter und der Gefangene von Askaban“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-1:a",
+          "text": "Madam Rosmerta",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-1:b",
+          "text": "Madam Pince",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-1:c",
+          "text": "Madam Hooch",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-1:d",
+          "text": "Madam Pomfrey",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Madam Rosmerta führt das Wirtshaus Drei Besen in Hogsmeade.",
+      "context": "Madam Rosmerta betreibt die Drei Besen im Zaubererdorf Hogsmeade. Julie Christie hat dort eine kleinere Rolle innerhalb des großen Filmensembles. Das Wirtshaus wird zu einem Ort, an dem Harry wichtige Informationen über Sirius Black erhält; die scheinbar alltägliche Umgebung ist dadurch unmittelbar mit seiner persönlichen Suche verbunden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-M-1",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Harry Potter and the Prisoner of Azkaban|2004"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Verlust haben Julie Christies Laura und Donald Sutherlands John zu Beginn von „Wenn die Gondeln Trauer tragen“ erlebt?",
+      "question": "Welchen Verlust haben Julie Christies Laura und Donald Sutherlands John zu Beginn von „Wenn die Gondeln Trauer tragen“ erlebt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-2:a",
+          "text": "Den Tod ihres Vaters",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-2:b",
+          "text": "Die Zerstörung ihres Hauses im Krieg",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-2:c",
+          "text": "Den Tod ihrer Tochter",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-M-2:d",
+          "text": "Den Verlust ihres gesamten Vermögens",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Laura und John trauern um ihre Tochter, die vor ihrer Reise nach Venedig gestorben ist.",
+      "context": "Das Ehepaar versucht, nach dem Tod seiner Tochter in Venedig weiterzuleben. Julie Christie spielt Laura, die Begegnungen mit vermeintlichen Botschaften des Kindes sucht. Nicolas Roeg ordnet Erinnerungen, Vorahnungen und aktuelle Bilder ungewöhnlich an; die beiden Eltern reagieren unterschiedlich auf denselben Verlust und finden deshalb keine gemeinsame einfache Form der Sicherheit.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Don%27t_Look_Now"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-M-2",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Don't Look Now|1973"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wohin zieht Julie Christies Fiona in „An ihrer Seite“, nachdem ihre Alzheimer-Erkrankung weiter fortgeschritten ist?",
+      "question": "Wohin zieht Julie Christies Fiona in „An ihrer Seite“, nachdem ihre Alzheimer-Erkrankung weiter fortgeschritten ist?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-1:a",
+          "text": "In die Wohnung ihrer Schwester",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-1:b",
+          "text": "In ein betreutes Apartment neben Grants Haus",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-1:c",
+          "text": "In eine Pflegeeinrichtung",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-1:d",
+          "text": "In eine psychiatrische Akutklinik",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Fiona zieht in eine Pflegeeinrichtung, in der sich ihre Bindungen neu ordnen.",
+      "context": "Fiona und ihr Mann Grant müssen nach vielen gemeinsamen Jahren eine neue Form ihres Zusammenlebens finden. Julie Christie spielt eine Frau, die in der Pflegeeinrichtung eine enge Beziehung zu einem anderen Bewohner entwickelt. Sarah Polleys Film nach Alice Munro konzentriert sich auf Nähe, Erinnerung und Grants Eifersucht angesichts dieser veränderten Bindung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Away_from_Her"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-S-1",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Away from Her|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-S-2",
+      "difficulty": "schwer",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Wessen Roman wurde mit Julie Christie als Bathsheba Everdene in „Die Herrin von Thornhill“ verfilmt?",
+      "question": "Wessen Roman wurde mit Julie Christie als Bathsheba Everdene in „Die Herrin von Thornhill“ verfilmt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-2:a",
+          "text": "Thomas Hardys",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-2:b",
+          "text": "Jane Austens",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-2:c",
+          "text": "Charles Dickens'",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-S-2:d",
+          "text": "Emily Brontës",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Thomas Hardy schrieb „Far from the Madding Crowd“, die Vorlage für Christies Rolle als Bathsheba.",
+      "context": "Bathsheba übernimmt einen landwirtschaftlichen Betrieb und begegnet unterschiedlichen Bewerbern um ihre Hand. Julie Christie spielt sie in John Schlesingers Verfilmung von „Far from the Madding Crowd“. Thomas Hardys Stoff verbindet wirtschaftliche Eigenständigkeit mit emotionalen Entscheidungen; die Landschaft und die Arbeit des ländlichen Umfelds gehören zur Bedeutung dieser Konflikte.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd_(1967_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-S-2",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Far from the Madding Crowd|1967"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-A-1",
+      "difficulty": "experte",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "In welchem heutigen Land wurde Julie Christie geboren?",
+      "question": "In welchem heutigen Land wurde Julie Christie geboren?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-1:a",
+          "text": "Indien",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-1:b",
+          "text": "Australien",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-1:c",
+          "text": "Kanada",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-1:d",
+          "text": "Kenia",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Julie Christie wurde in Assam geboren, das heute zu Indien gehört.",
+      "context": "Julie Christie wurde in Chabua in Assam geboren, während ihr Vater dort eine Teeplantage leitete. Die Geburt fällt in die Zeit Britisch-Indiens, vor der späteren Unabhängigkeit. Ihre Ausbildung und Schauspielkarriere entwickelten sich anschließend überwiegend in Großbritannien; der Geburtsort ist deshalb von den Nationalitäten ihrer Filmfiguren und ihrer späteren Arbeitsumgebung zu unterscheiden.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-A-1",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-152-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-152-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt Julie Christies unabhängige junge Frau, die Billy in „Geliebter Spinner“ eine gemeinsame Abreise nach London anbietet?",
+      "question": "Wie heißt Julie Christies unabhängige junge Frau, die Billy in „Geliebter Spinner“ eine gemeinsame Abreise nach London anbietet?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-2:a",
+          "text": "Liz",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-2:b",
+          "text": "Barbara",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-2:c",
+          "text": "Rita",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-152-A-2:d",
+          "text": "Alice",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Liz eröffnet Billy die Möglichkeit, seine Fantasiewelt hinter sich zu lassen und nach London zu gehen.",
+      "context": "In „Billy Liar“ lebt Billy zwischen erfundenen Geschichten und tatsächlichen Verpflichtungen. Julie Christie spielt Liz, die mit ihrer Unabhängigkeit eine andere Zukunft vorstellbar macht. Tom Courtenay übernimmt die Hauptrolle in John Schlesingers Film; Christies Darstellung wurde zu einer wichtigen frühen Station ihres Durchbruchs im britischen Kino der 1960er-Jahre.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Billy_Liar_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-152-A-2",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Billy Liar|1963"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-152",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-152",
+      "difficulty": "experte",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Julie Christie dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-152:a",
+          "text": "Diane Keaton",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Christie zu sehen; Diane Keaton ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-152:b",
+          "text": "Romy Schneider",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Christie zu sehen; Romy Schneider ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-152:c",
+          "text": "Shirley MacLaine",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Christie zu sehen; Shirley MacLaine ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-152:d",
+          "text": "Julie Christie",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Porträt zeigt Julie Christie.",
+      "context": "Julie Christie gehörte zu den prägenden Gesichtern des britischen Kinos der 1960er-Jahre: „Geliebter Spinner“, „Darling“ und „Doktor Schiwago“ zeigen sehr unterschiedliche Frauenfiguren. In „Wenn die Gondeln Trauer tragen“ spielt sie später eine trauernde Mutter. „An ihrer Seite“ stellt sie als an Alzheimer erkrankte Fiona in eine erneut veränderte Paarbeziehung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Julie_Christie_(1997)_(2).jpg",
+        "https://en.wikipedia.org/wiki/Julie_Christie",
+        "https://de.wikipedia.org/wiki/Julie_Christie",
+        "https://en.wikipedia.org/wiki/Doctor_Zhivago_(film)",
+        "https://en.wikipedia.org/wiki/Darling_(1965_film)",
+        "https://en.wikipedia.org/wiki/Don%27t_Look_Now",
+        "https://en.wikipedia.org/wiki/Away_from_Her",
+        "https://en.wikipedia.org/wiki/Billy_Liar_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-152",
+      "filmKey": "",
+      "filmTitle": "Julie Christie",
+      "personId": "ACTOR-152",
+      "personName": "Julie Christie",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Billy Liar|1963",
+        "Darling|1965",
+        "Doctor Zhivago|1965",
+        "Don't Look Now|1973",
+        "Away from Her|2006"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-200",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-200",
+      "difficulty": "experte",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Julie Delpy dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-200:a",
+          "text": "Judith Godrèche",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Delpy zu sehen; Queen Latifah ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-200:b",
+          "text": "Naomi Watts",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Delpy zu sehen; Naomi Watts ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-200:c",
+          "text": "Jennifer Aniston",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Julie Delpy zu sehen; Jennifer Aniston ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-200:d",
+          "text": "Julie Delpy",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Porträt zeigt Julie Delpy.",
+      "context": "Julie Delpy spielte Céline in „Before Sunrise“, „Before Sunset“ und „Before Midnight“ an der Seite von Ethan Hawke. Sie ist außerdem Drehbuchautorin und Regisseurin, etwa bei „2 Tage Paris“. Die „Before“-Filme begleiten dasselbe Paar über mehrere Lebensphasen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Julie_Delpy_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg",
+        "https://en.wikipedia.org/wiki/Julie_Delpy",
+        "https://en.wikipedia.org/wiki/Before_Sunrise",
+        "https://en.wikipedia.org/wiki/Before_Sunset_(film)",
+        "https://en.wikipedia.org/wiki/Before_Midnight_(2013_film)",
+        "https://en.wikipedia.org/wiki/2_Days_in_Paris"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-200",
+      "filmKey": "",
+      "filmTitle": "Julie Delpy",
+      "personId": "ACTOR-200",
+      "personName": "Julie Delpy",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Before Sunrise|1995",
+        "Before Sunset|2004",
+        "Before Midnight|2013",
+        "2 Days in Paris|2007"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wer spielt die Schokoladenladenbesitzerin Vianne Rocher in „Chocolat“?",
+      "question": "Wer spielt die Schokoladenladenbesitzerin Vianne Rocher in „Chocolat“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-1:a",
+          "text": "Lena Olin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-1:b",
+          "text": "Carrie-Anne Moss",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-1:c",
+          "text": "Juliette Binoche",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-1:d",
+          "text": "Judi Dench",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Juliette Binoche spielt Vianne Rocher, die mit ihrem Schokoladenladen die Gewohnheiten eines Orts verändert.",
+      "context": "Vianne zieht mit ihrer Tochter in einen französischen Ort und eröffnet während der Fastenzeit einen Laden. Juliette Binoche spielt eine Frau, deren Angebote feste Gewohnheiten durcheinanderbringen. Der Film nach Joanne Harris verbindet Genuss mit sozialer Zugehörigkeit; Gespräche und kleine Geschenke verändern Beziehungen zwischen Menschen, die zuvor kaum offen miteinander gesprochen haben.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/Chocolat_(2000_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-L-1",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Chocolat|2000"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Beruf hat Juliette Binoches Hana in „Der englische Patient“?",
+      "question": "Welchen Beruf hat Juliette Binoches Hana in „Der englische Patient“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-2:a",
+          "text": "Kriegsfotografin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-2:b",
+          "text": "Krankenschwester",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-2:c",
+          "text": "Archäologin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-L-2:d",
+          "text": "Fluglehrerin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hana ist Krankenschwester und versorgt den schwer verletzten Patienten in einem italienischen Kloster.",
+      "context": "Hana pflegt einen schwer verletzten Mann in einem italienischen Kloster gegen Ende des Zweiten Weltkriegs. Juliette Binoche spielt ihre Suche nach einem eigenen Umgang mit Verlusten. Die Handlung verbindet gegenwärtige Begegnungen mit Erinnerungen des Patienten; Hanas Beziehungen schaffen neben dessen Vergangenheit eine weitere Perspektive auf Nähe unter den Bedingungen des Kriegs.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/The_English_Patient_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-L-2",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The English Patient|1996"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt Juliette Binoches Figur, die in „Caché“ gemeinsam mit ihrem Mann Georges rätselhafte Videoaufnahmen erhält?",
+      "question": "Wie heißt Juliette Binoches Figur, die in „Caché“ gemeinsam mit ihrem Mann Georges rätselhafte Videoaufnahmen erhält?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-1:a",
+          "text": "Erika Kohut",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-1:b",
+          "text": "Anne Laurent",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-1:c",
+          "text": "Sophie Neveu",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-1:d",
+          "text": "Christine Riviere",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Anne Laurent erlebt, wie die anonymen Aufnahmen das Vertrauen innerhalb ihrer Familie erschüttern.",
+      "context": "Anne und Georges erhalten Aufnahmen, die ihr Haus zeigen, ohne einen Absender erkennen zu lassen. Juliette Binoche spielt die zunehmende Verunsicherung innerhalb der Familie. Michael Haneke verbindet Beobachtung mit verdrängter Vergangenheit; unterschiedliche Kenntnisse der Eheleute verändern ihr Vertrauen, während die Herkunft der Bilder nicht einfach durch eine eindeutige Auflösung gesichert wird.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/Cach%C3%A9_(film)",
+        "https://www.festival-cannes.com/en/f/cache/",
+        "https://de.wikipedia.org/wiki/Cach%C3%A9_(Film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-M-1",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Caché|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Teil von Krzysztof Kieślowskis Farbtrilogie trägt Juliette Binoche als Julie Vignon in der Hauptrolle?",
+      "question": "Welchen Teil von Krzysztof Kieślowskis Farbtrilogie trägt Juliette Binoche als Julie Vignon in der Hauptrolle?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-2:a",
+          "text": "Drei Farben: Weiß",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-2:b",
+          "text": "Die zwei Leben der Veronika",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-2:c",
+          "text": "Drei Farben: Blau",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-M-2:d",
+          "text": "Drei Farben: Rot",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Binoche steht als Julie Vignon im Zentrum von „Drei Farben: Blau“.",
+      "context": "Julie verliert ihren Mann und ihre Tochter bei einem Unfall und versucht, frühere Bindungen abzubrechen. Juliette Binoche spielt diesen Rückzug mit sparsamem Ausdruck. Kieślowski verbindet die Farbe Blau mit Musik und Erinnerungen; Julies Suche nach Freiheit von Beziehungen stößt dabei auf Menschen und Verpflichtungen, die sich nicht vollständig auslöschen lassen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/Three_Colours:_Blue"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-M-2",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Three Colours: Blue|1993"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-S-1",
+      "difficulty": "schwer",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Wer führte Regie bei „Die Liebesfälscher“, in dem Juliette Binoche eine Galeristin in der Toskana spielt?",
+      "question": "Wer führte Regie bei „Die Liebesfälscher“, in dem Juliette Binoche eine Galeristin in der Toskana spielt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-1:a",
+          "text": "Jafar Panahi",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-1:b",
+          "text": "Mohsen Makhmalbaf",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-1:c",
+          "text": "Abbas Kiarostami",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-1:d",
+          "text": "Asghar Farhadi",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Abbas Kiarostami inszenierte die Begegnung einer Galeristin mit einem Autor in „Die Liebesfälscher“.",
+      "context": "Eine Galeristin begleitet einen Autor durch einen toskanischen Ort; die Bedeutung ihrer Beziehung verändert sich während des Gesprächs. Juliette Binoche spielt die Frau in Abbas Kiarostamis „Certified Copy“. Die Diskussion über Original und Kopie betrifft dabei zunehmend auch gemeinsame Erinnerungen und Identität; der Film lässt verschiedene Lesarten ihrer Begegnung zu.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/Certified_Copy_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-S-1",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Certified Copy|2010"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt die angehende Schauspielerin, die Juliette Binoche in André Téchinés „Rendez-vous“ spielt?",
+      "question": "Wie heißt die angehende Schauspielerin, die Juliette Binoche in André Téchinés „Rendez-vous“ spielt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-2:a",
+          "text": "Vianne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-2:b",
+          "text": "Anne",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-2:c",
+          "text": "Hana",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-S-2:d",
+          "text": "Nina",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Nina kommt nach Paris und sucht Erfahrungen sowie eine eigene künstlerische Aufgabe.",
+      "context": "Nina kommt nach Paris und begegnet zwei sehr unterschiedlichen Männern, bevor eine Theaterproduktion neue Möglichkeiten eröffnet. Juliette Binoche spielt ihre Suche nach Erfahrungen und einer künstlerischen Rolle. André Téchiné verbindet Begehren mit Bühnenarbeit; Begegnungen und Verluste beeinflussen dadurch, wie die junge Schauspielerin eine dramatische Figur schließlich verkörpern kann.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/Rendez-vous_(1985_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-S-2",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Rendez-vous|1985"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-175",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-175",
+      "difficulty": "schwer",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Juliette Binoche dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-175:a",
+          "text": "Emmanuelle Béart",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Juliette Binoche zu sehen; Jodie Foster ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-175:b",
+          "text": "Isabelle Huppert",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Juliette Binoche zu sehen; Halle Berry ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-175:c",
+          "text": "Juliette Binoche",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-175:d",
+          "text": "Fanny Ardant",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Juliette Binoche zu sehen; Michelle Yeoh ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Juliette Binoche.",
+      "context": "Juliette Binoche spielt oft Frauen, die mit Verlust oder widersprüchlichen Erinnerungen leben: Julie in „Drei Farben: Blau“, Hana in „Der englische Patient“ und Anne in „Caché“. „Chocolat“ zeigt eine andere Bewegung: Vianne bringt neue Beziehungen in einen verschlossenen Ort. Mit Akram Khan entwickelte Binoche außerdem das gemeinsame Tanztheaterduett „in-i“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Juliette_Binoche_at_Berlinale_2026-2.jpg",
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/Chocolat_(2000_film)",
+        "https://en.wikipedia.org/wiki/The_English_Patient_(film)",
+        "https://en.wikipedia.org/wiki/Cach%C3%A9_(film)",
+        "https://www.festival-cannes.com/en/f/cache/",
+        "https://de.wikipedia.org/wiki/Cach%C3%A9_(Film)",
+        "https://en.wikipedia.org/wiki/Three_Colours:_Blue"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-175",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Three Colours: Blue|1993",
+        "The English Patient|1996",
+        "Caché|2005",
+        "Chocolat|2000"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-A-1",
+      "difficulty": "experte",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Mit welchem Choreografen entwickelte Juliette Binoche das Tanzduett „in-i“?",
+      "question": "Mit welchem Choreografen entwickelte Juliette Binoche das Tanzduett „in-i“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-1:a",
+          "text": "Sidi Larbi Cherkaoui",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-1:b",
+          "text": "Akram Khan",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-1:c",
+          "text": "William Forsythe",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-1:d",
+          "text": "Pina Bausch",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Akram Khan entwickelte und tanzte „in-i“ gemeinsam mit Juliette Binoche.",
+      "context": "Juliette Binoche und Akram Khan schufen ein gemeinsames Bühnenprojekt, das Tanz, Bewegung und persönliche Begegnung verbindet. Für Binoche bedeutete es intensive Arbeit in einer anderen Ausdrucksform als dem Filmschauspiel. Das Duett entstand aus dem Austausch zweier Künstler mit unterschiedlichen Erfahrungen; beide stehen selbst auf der Bühne und gestalten die Beziehung körperlich.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://www.akramkhancompany.net/productions/in-i-2008/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-A-1",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-175-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-175-A-2",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Schauspielerin spielt Juliette Binoches Filmmutter Fabienne in Hirokazu Koreedas „La Vérité – Leben und lügen lassen“?",
+      "question": "Welche Schauspielerin spielt Juliette Binoches Filmmutter Fabienne in Hirokazu Koreedas „La Vérité – Leben und lügen lassen“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-2:a",
+          "text": "Isabelle Huppert",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-2:b",
+          "text": "Catherine Deneuve",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-2:c",
+          "text": "Fanny Ardant",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-175-A-2:d",
+          "text": "Charlotte Rampling",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Catherine Deneuve spielt Fabienne, die berühmte Schauspielerin und Mutter von Binoches Lumir.",
+      "context": "Juliette Binoche spielt Lumir, die mit ihrer Familie nach Frankreich zurückkehrt, nachdem ihre Mutter Memoiren veröffentlicht hat. Catherine Deneuve verkörpert die berühmte Schauspielerin Fabienne. Koreeda verbindet Erinnerungen mit einem Film innerhalb des Films; die Unterschiede zwischen erzählter und erlebter Familiengeschichte lösen Gespräche über Anerkennung, Verletzungen und die Gestaltung eigener Lebensbilder aus.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Juliette_Binoche",
+        "https://de.wikipedia.org/wiki/Juliette_Binoche",
+        "https://en.wikipedia.org/wiki/The_Truth_(2019_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-175-A-2",
+      "filmKey": "",
+      "filmTitle": "Juliette Binoche",
+      "personId": "ACTOR-175",
+      "personName": "Juliette Binoche",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Truth|2019"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Unter welchem Namen tritt Kate Hudsons junge Begleiterin der Rockband Stillwater in „Almost Famous“ auf?",
+      "question": "Unter welchem Namen tritt Kate Hudsons junge Begleiterin der Rockband Stillwater in „Almost Famous“ auf?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-1:a",
+          "text": "Elaine Miller",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-1:b",
+          "text": "Penny Lane",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-1:c",
+          "text": "Sapphire Jones",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-1:d",
+          "text": "Anita Miller",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Penny Lane begleitet die Band und nennt sich selbst „Band Aid“.",
+      "context": "Penny Lane bezeichnet sich als „Band Aid“ und versteht ihre Beziehung zur Musik anders als eine gewöhnliche Bewunderin. Kate Hudson spielt sie in Cameron Crowes Film über einen jungen Reporter auf Tour. Ihre öffentliche Unabhängigkeit steht neben persönlicher Verletzlichkeit; die Rolle brachte Hudson einen Golden Globe und eine Oscar-Nominierung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson",
+        "https://en.wikipedia.org/wiki/Almost_Famous",
+        "https://en.wikipedia.org/wiki/Cameron_Crowe"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-L-1",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Almost Famous|2000"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Beruf hat Kate Hudsons Andie Anderson in „Wie werde ich ihn los – in 10 Tagen?“?",
+      "question": "Welchen Beruf hat Kate Hudsons Andie Anderson in „Wie werde ich ihn los – in 10 Tagen?“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-2:a",
+          "text": "Tierärztin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-2:b",
+          "text": "Architektin",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-2:c",
+          "text": "Journalistin",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-L-2:d",
+          "text": "Rechtsanwältin",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Andie Anderson ist Journalistin und plant einen Artikel darüber, wie man einen Mann vergrault.",
+      "context": "Andie plant für eine Zeitschrift einen Artikel über Verhaltensweisen, die eine Beziehung scheitern lassen. Kate Hudson spielt sie neben Matthew McConaughey, dessen Figur zugleich eine andere Wette verfolgt. Die romantische Komödie lässt beide den jeweils eigenen Plan verbergen; Gefühle entstehen unter Bedingungen, in denen die erklärten Absichten nicht zuverlässig stimmen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson",
+        "https://en.wikipedia.org/wiki/How_to_Lose_a_Guy_in_10_Days"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-L-2",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "How to Lose a Guy in 10 Days|2003"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-M-1",
+      "difficulty": "mittel",
+      "questionType": "Herkunft und Namen",
+      "learningObjective": "Welche Oscar-prämierte Schauspielerin ist Kate Hudsons Mutter?",
+      "question": "Welche Oscar-prämierte Schauspielerin ist Kate Hudsons Mutter?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-1:a",
+          "text": "Diane Keaton",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-1:b",
+          "text": "Susan Sarandon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-1:c",
+          "text": "Goldie Hawn",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-1:d",
+          "text": "Jessica Lange",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Goldie Hawn ist Kate Hudsons Mutter.",
+      "context": "Kate Hudson stammt aus einer Familie mit mehreren Künstlern. Goldie Hawn ist ihre Mutter, der Musiker Bill Hudson ihr Vater; Kurt Russell gehört als langjähriger Partner Hawns zu ihrem familiären Umfeld. Die eigene Schauspielkarriere entwickelte Hudson dennoch mit eigenen Rollen, darunter der frühe Erfolg als Penny Lane in „Almost Famous“.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson",
+        "https://en.wikipedia.org/wiki/Almost_Famous",
+        "https://en.wikipedia.org/wiki/Cameron_Crowe"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-M-1",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Almost Famous|2000"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt die strenge Tanzlehrerin an der NYADA, die Kate Hudson in „Glee“ spielt?",
+      "question": "Wie heißt die strenge Tanzlehrerin an der NYADA, die Kate Hudson in „Glee“ spielt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-2:a",
+          "text": "Sue Sylvester",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-2:b",
+          "text": "Cassandra July",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-2:c",
+          "text": "Emma Pillsbury",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-M-2:d",
+          "text": "Holly Holliday",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Cassandra July unterrichtet Tanz und stellt Rachel Berry vor neue Anforderungen.",
+      "context": "Cassandra unterrichtet Tanz an der fiktiven New Yorker Ausbildungsstätte NYADA und fordert Rachel Berry stark heraus. Kate Hudson verbindet in der Rolle Schauspiel mit Tanz- und Gesangsauftritten. Die Figur steht außerhalb der ursprünglichen Highschool-Lehrerschaft; ihre Szenen begleiten Rachels Übergang zu einer anspruchsvolleren professionellen Bühnenausbildung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-M-2",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-160",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-160",
+      "difficulty": "mittel",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Kate Hudson dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-160:a",
+          "text": "Michelle Williams",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Kate Hudson zu sehen; Michelle Williams ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-160:b",
+          "text": "Diane Kruger",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Kate Hudson zu sehen; Diane Kruger ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-160:c",
+          "text": "Reese Witherspoon",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Kate Hudson zu sehen; Reese Witherspoon ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-160:d",
+          "text": "Kate Hudson",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Das Porträt zeigt Kate Hudson.",
+      "context": "Kate Hudsons Rolle als Penny Lane in „Almost Famous“ verbindet Rockmusik mit der verletzlichen Position einer jungen Tourbegleiterin. Später spielte sie unter anderem die Journalistin Andie in „Wie werde ich ihn los – in 10 Tagen?“ und eine Tanzlehrerin in „Glee“. Mit „Glorious“ veröffentlichte sie 2024 ein eigenes Album außerhalb einer Filmrolle.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Kate_Hudson_-_Song_Sung_Blue.jpg",
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson",
+        "https://en.wikipedia.org/wiki/Almost_Famous",
+        "https://en.wikipedia.org/wiki/Cameron_Crowe",
+        "https://en.wikipedia.org/wiki/How_to_Lose_a_Guy_in_10_Days"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-160",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Almost Famous|2000",
+        "How to Lose a Guy in 10 Days|2003"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Familienposition hat Kate Hudsons Felicia in „Deepwater Horizon“?",
+      "question": "Welche Familienposition hat Kate Hudsons Felicia in „Deepwater Horizon“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-1:a",
+          "text": "Sie ist die Schwester des Kapitäns.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-1:b",
+          "text": "Sie ist die Mutter des Bohringenieurs.",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-1:c",
+          "text": "Sie ist die Ehefrau von Mike Williams.",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-1:d",
+          "text": "Sie ist die Tochter des Plattformleiters.",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Felicia ist Mike Williams’ Ehefrau; Mark Wahlberg spielt den auf der Plattform arbeitenden Mike.",
+      "context": "Mark Wahlberg spielt Mike Williams auf der Ölplattform, Kate Hudson dessen Frau Felicia. Die familiären Szenen verbinden den Arbeitsalltag mit dem Leben außerhalb der Anlage. Peter Bergs Film folgt der Katastrophe von 2010 in dramatisierter Form; Felicias Perspektive macht deutlich, dass die Folgen der Ereignisse nicht auf den technischen Schauplatz begrenzt bleiben.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson",
+        "https://en.wikipedia.org/wiki/Deepwater_Horizon_(film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-S-1",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Deepwater Horizon|2016"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-S-2",
+      "difficulty": "schwer",
+      "questionType": "Musik und Sprechrollen",
+      "learningObjective": "Welche tanzbegeisterte Pandafigur spricht Kate Hudson in „Kung Fu Panda 3“ auf Englisch?",
+      "question": "Welche tanzbegeisterte Pandafigur spricht Kate Hudson in „Kung Fu Panda 3“ auf Englisch?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-2:a",
+          "text": "Tigress",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-2:b",
+          "text": "Mei Mei",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-2:c",
+          "text": "Viper",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-S-2:d",
+          "text": "Grand Master Oogway",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Hudson spricht Mei Mei, die selbstbewusste Bandtänzerin im Pandadorf.",
+      "context": "Mei Mei begegnet Po im Pandadorf und tritt als selbstbewusste Bandtänzerin auf. Kate Hudson gibt ihr die englische Stimme. Die Figur gehört zur erweiterten Pandaumgebung des dritten Films; ihre tänzerische Selbstdarstellung bringt eine andere Form körperlichen Könnens in eine Geschichte, die ansonsten stark von Kampfkunsttraining und familiärer Herkunft geprägt ist.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson",
+        "https://en.wikipedia.org/wiki/Kung_Fu_Panda_3"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-S-2",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Kung Fu Panda 3|2016"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-A-1",
+      "difficulty": "experte",
+      "questionType": "Produktion und Regie",
+      "learningObjective": "Welche Sportbekleidungsmarke gründete Kate Hudson 2013 mit Adam Goldenberg und Don Ressler mit?",
+      "question": "Welche Sportbekleidungsmarke gründete Kate Hudson 2013 mit Adam Goldenberg und Don Ressler mit?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-1:a",
+          "text": "Fabletics",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-1:b",
+          "text": "Lululemon",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-1:c",
+          "text": "Alo Yoga",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-1:d",
+          "text": "Spanx",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kate Hudson gehört zu den Mitgründern der Sportbekleidungsmarke Fabletics.",
+      "context": "Kate Hudson beteiligte sich an Fabletics als Mitgründerin und öffentliche Repräsentantin. Die Marke richtet sich auf Sport- und Freizeitbekleidung und gehört zu ihrer Arbeit außerhalb der Filmproduktion. Diese wirtschaftliche Tätigkeit ist von einem Kostümauftrag oder einer Werberolle für einen Film zu unterscheiden; sie verbindet Bekanntheit mit einem eigenen Unternehmen.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-A-1",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-160-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-160-A-2",
+      "difficulty": "experte",
+      "questionType": "Musik und Sprechrollen",
+      "learningObjective": "Wie heißt Kate Hudsons 2024 veröffentlichtes Debütalbum?",
+      "question": "Wie heißt Kate Hudsons 2024 veröffentlichtes Debütalbum?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-2:a",
+          "text": "The Futurist",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-2:b",
+          "text": "Glorious",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-2:c",
+          "text": "Beautiful Awkward Pictures",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-160-A-2:d",
+          "text": "Untold Truths",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "„Glorious“ heißt Kate Hudsons 2024 erschienenes erstes Album.",
+      "context": "Kate Hudson veröffentlichte „Glorious“ nach langjährigem Interesse am Singen und Songschreiben. Das Album entstand mit mehreren musikalischen Mitwirkenden und enthält eigene zeitgenössische Songs. Ihre Rolle als Penny Lane hatte bereits eine starke Beziehung zur Musik; das Album ist jedoch eine persönliche Veröffentlichung und kein Soundtrack dieser früheren Filmfigur.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kate_Hudson",
+        "https://de.wikipedia.org/wiki/Kate_Hudson",
+        "https://store.katehudson.com/products/glorious-cd",
+        "https://www.katehudson.com/"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-160-A-2",
+      "filmKey": "",
+      "filmTitle": "Kate Hudson",
+      "personId": "ACTOR-160",
+      "personName": "Kate Hudson",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Gouverneurstochter spielt Keira Knightley in „Fluch der Karibik“?",
+      "question": "Welche Gouverneurstochter spielt Keira Knightley in „Fluch der Karibik“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-1:a",
+          "text": "Elizabeth Swann",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-1:b",
+          "text": "Angelica Teach",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-1:c",
+          "text": "Carina Smyth",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-1:d",
+          "text": "Tia Dalma",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Elizabeth Swann ist die Gouverneurstochter, die zwischen Piraten, Kolonialmacht und eigenen Entscheidungen steht.",
+      "context": "Elizabeth gerät aus einer gesellschaftlich geordneten Umgebung in das Abenteuer um Piraten und einen Fluch. Keira Knightley spielt sie neben Johnny Depp und Orlando Bloom. Ihre Figur entwickelt sich über die Reihe weiter; schon im ersten Film stehen persönliche Entscheidungen gegen Erwartungen ihrer Familie und gegen Regeln der kolonialen Gesellschaft.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-L-1",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Pirates of the Caribbean: The Curse of the Black Pearl|2003"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-L-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-L-2",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Heldin spielt Keira Knightley in „Stolz und Vorurteil“ von 2005?",
+      "question": "Welche Heldin spielt Keira Knightley in „Stolz und Vorurteil“ von 2005?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-2:a",
+          "text": "Elizabeth Bennet",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-2:b",
+          "text": "Emma Woodhouse",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-2:c",
+          "text": "Anne Elliot",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-L-2:d",
+          "text": "Fanny Price",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Knightley spielt Elizabeth Bennet, deren Urteil über Darcy sich im Lauf der Geschichte verändert.",
+      "context": "Elizabeth beurteilt Menschen selbstständig, liegt mit ihren ersten Einschätzungen aber nicht immer richtig. Keira Knightley spielt sie neben Matthew Macfadyens Darcy. Joe Wrights Verfilmung von Jane Austens Roman verbindet familiären Heiratsdruck mit persönlicher Erkenntnis; für die Hauptrolle erhielt Knightley ihre erste Oscar-Nominierung.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
+        "https://www.focusfeatures.com/pride_and_prejudice"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-L-2",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Pride & Prejudice|2005"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-BILD-20261007-162",
+      "knowledgeId": "K-ACTOR-FACE-ACTOR-162",
+      "difficulty": "leicht",
+      "questionType": "Bilderkennung",
+      "learningObjective": "Das Gesicht von Keira Knightley dem öffentlichen Schauspielernamen zuordnen.",
+      "question": "Wie heißt die Person auf diesem Schauspielerporträt?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-162:a",
+          "text": "Alicia Vikander",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Keira Knightley zu sehen; Alicia Vikander ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-162:b",
+          "text": "Keira Knightley",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-162:c",
+          "text": "Kirsten Dunst",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Keira Knightley zu sehen; Kirsten Dunst ist eine andere Person."
+        },
+        {
+          "id": "SCHAUSPIELER-BILD-20261007-162:d",
+          "text": "Anne Hathaway",
+          "correct": false,
+          "feedback": "Auf diesem Porträt ist Keira Knightley zu sehen; Anne Hathaway ist eine andere Person."
+        }
+      ],
+      "explanation": "Das Porträt zeigt Keira Knightley.",
+      "context": "Keira Knightley spielte schon in „Star Wars: Episode I“ eine Figur mit verdeckter Identität: Sabé übernimmt zeitweise Amidalas Auftreten. Als Elizabeth Swann wurde Knightley später in der „Fluch der Karibik“-Reihe bekannt. Ihre Zusammenarbeit mit Joe Wright führte von Jane Austens Elizabeth Bennet zur gesellschaftlich unter Beobachtung stehenden Anna Karenina.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Knightley_Bafta_2015_07.png",
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl",
+        "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
+        "https://en.wikipedia.org/wiki/Anna_Karenina_(2012_film)",
+        "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace"
+      ],
+      "originalId": "SCHAUSPIELER-BILD-20261007-162",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "false",
+      "filmRefs": [
+        "Star Wars: Episode I – The Phantom Menace|1999",
+        "Pirates of the Caribbean: The Curse of the Black Pearl|2003",
+        "Pride & Prejudice|2005",
+        "Anna Karenina|2012"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-M-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-M-1",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Wie heißt die von Keira Knightley gespielte Braut, der Marks stumme Botschaften in „Tatsächlich… Liebe“ gelten?",
+      "question": "Wie heißt die von Keira Knightley gespielte Braut, der Marks stumme Botschaften in „Tatsächlich… Liebe“ gelten?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-1:a",
+          "text": "Karen",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-1:b",
+          "text": "Natalie",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-1:c",
+          "text": "Aurelia",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-1:d",
+          "text": "Juliet",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Juliet ist Peters Frau und die heimlich geliebte Freundin seines besten Freundes Mark.",
+      "context": "Juliet heiratet Peter und bemerkt später, dass dessen bester Freund Mark Gefühle für sie hat. Keira Knightley spielt eine der Figuren in Richard Curtis' miteinander verknüpftem Ensemble. Die bekannte stumme Botschaftsszene zeigt Marks Versuch einer begrenzten Offenlegung; sie löst die bestehenden Beziehungen jedoch nicht in eine gewöhnliche neue Paarhandlung auf.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Love_Actually",
+        "https://en.wikipedia.org/wiki/Richard_Curtis"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-M-1",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Love Actually|2003"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-M-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-M-2",
+      "difficulty": "mittel",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welchen Mannschaftssport betreibt Keira Knightleys Jules in „Kick it like Beckham“?",
+      "question": "Welchen Mannschaftssport betreibt Keira Knightleys Jules in „Kick it like Beckham“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-2:a",
+          "text": "Fußball",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-2:b",
+          "text": "Basketball",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-2:c",
+          "text": "Rugby",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-M-2:d",
+          "text": "Hockey",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Jules spielt Fußball und ermutigt Jess, sich ihrer Mannschaft anzuschließen.",
+      "context": "Jules ermutigt Jess, in ihrer Mannschaft zu spielen, und teilt deren Wunsch nach sportlichen Möglichkeiten. Keira Knightley spielt neben Parminder Nagra. Gurinder Chadhas Film verknüpft Training mit unterschiedlichen familiären Erwartungen; beide jungen Frauen müssen ihren eigenen Weg zwischen Freundschaft, Leistung und Vorstellungen über ein angemessenes weibliches Leben aushandeln.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham",
+        "https://www.bfi.org.uk/film/07acc94c-5b89-5dc9-b894-e36a3d77cc0e/bend-it-like-beckham",
+        "https://catalog.afi.com/Film/70977-BEND-IT-LIKE-BECKHAM",
+        "https://www.bfi.org.uk/film/41f51c72-2576-5915-92c4-498404aa5bb2/bhaji-on-the-beach"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-M-2",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Bend It Like Beckham|2002"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-S-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-S-1",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche historische Codeexpertin spielt Keira Knightley in „The Imitation Game“?",
+      "question": "Welche historische Codeexpertin spielt Keira Knightley in „The Imitation Game“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-1:a",
+          "text": "Joan Clarke",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-1:b",
+          "text": "Hedy Lamarr",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-1:c",
+          "text": "Ada Lovelace",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-1:d",
+          "text": "Grace Hopper",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Joan Clarke arbeitete in Bletchley Park mit Alan Turing an der Entschlüsselung deutscher Nachrichten.",
+      "context": "Joan Clarke arbeitet im Team um Alan Turing an der Entschlüsselung deutscher Nachrichten. Keira Knightley spielt sie als fachlich kompetente Frau mit begrenzten institutionellen Möglichkeiten. Der Film gestaltet die historische Zusammenarbeit dramatisch; seine Darstellung verbindet wissenschaftliche Arbeit, persönliche Beziehungen und gesellschaftliche Einschränkungen im Großbritannien des Zweiten Weltkriegs.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/The_Imitation_Game"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-S-1",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "The Imitation Game|2014"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-S-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-S-2",
+      "difficulty": "schwer",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welcher Regisseur inszenierte Keira Knightley sowohl in „Stolz und Vorurteil“ als auch in „Anna Karenina“?",
+      "question": "Welcher Regisseur inszenierte Keira Knightley sowohl in „Stolz und Vorurteil“ als auch in „Anna Karenina“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-2:a",
+          "text": "Joe Wright",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-2:b",
+          "text": "Ang Lee",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-2:c",
+          "text": "James Ivory",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-S-2:d",
+          "text": "Tom Hooper",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Joe Wright inszenierte beide Literaturverfilmungen mit Keira Knightley in der Hauptrolle.",
+      "context": "Joe Wright arbeitete wiederholt mit Keira Knightley an Literaturverfilmungen. „Anna Karenina“ verwendet eine auffällig theatralische Gestaltung, in der Gesellschaft und Beobachtung als Inszenierung erscheinen. Diese Bildsprache unterscheidet sich von der früheren Austen-Verfilmung; dieselbe Darstellerin wird durch die erneute Zusammenarbeit in einem anderen historischen und formalen Rahmen sichtbar.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)",
+        "https://en.wikipedia.org/wiki/Anna_Karenina_(2012_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-S-2",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Pride & Prejudice|2005",
+        "Anna Karenina|2012"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-A-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-A-1",
+      "difficulty": "experte",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Funktion erfüllt Keira Knightleys Sabé in „Star Wars: Episode I – Die dunkle Bedrohung“?",
+      "question": "Welche Funktion erfüllt Keira Knightleys Sabé in „Star Wars: Episode I – Die dunkle Bedrohung“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-1:a",
+          "text": "Vertraute und Leibwächterin des Kanzlers",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-1:b",
+          "text": "Pilotin des königlichen Raumschiffs",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-1:c",
+          "text": "Unterhändlerin beim Rat der Gungans",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-1:d",
+          "text": "Doppelgängerin der Königin Amidala",
+          "correct": true,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Sabé übernimmt als Doppelgängerin zeitweise Amidalas öffentliche Rolle und schützt damit die Königin.",
+      "context": "Sabé gehört zu Amidalas engstem Umfeld und kann ihre Erscheinung und öffentliche Rolle übernehmen. Keira Knightley spielt sie, Natalie Portman die eigentliche Königin. Die Ähnlichkeit der beiden Darstellerinnen unterstützt die Täuschung innerhalb der Handlung; die Rollen sind deshalb trotz zeitweise gleicher königlicher Kleidung nicht identisch.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-A-1",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Star Wars: Episode I – The Phantom Menace|1999"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-162-A-2",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-162-A-2",
+      "difficulty": "experte",
+      "questionType": "Bühne und Literatur",
+      "learningObjective": "Wessen Roman bildet die Vorlage für „Alles, was wir geben mussten“ mit Keira Knightley als Ruth?",
+      "question": "Wessen Roman bildet die Vorlage für „Alles, was wir geben mussten“ mit Keira Knightley als Ruth?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-2:a",
+          "text": "Kazuo Ishiguros",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-2:b",
+          "text": "Ian McEwans",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-2:c",
+          "text": "Margaret Atwoods",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-162-A-2:d",
+          "text": "Julian Barnes'",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Kazuo Ishiguro schrieb den Roman über Ruth, Kathy und Tommy und ihre vorbestimmte Zukunft.",
+      "context": "Ruth, Kathy und Tommy wachsen in einer abgeschlossenen Schule auf und erfahren später die vorgesehene Bedeutung ihres Lebens. Keira Knightley spielt Ruth neben Carey Mulligan und Andrew Garfield. Kazuo Ishiguros Roman verbindet Erinnerung und Nähe mit einem dystopischen Hintergrund; die Verfilmung konzentriert sich auf Beziehungen innerhalb einer begrenzten gemeinsamen Zukunft.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Keira_Knightley",
+        "https://de.wikipedia.org/wiki/Keira_Knightley",
+        "https://en.wikipedia.org/wiki/Never_Let_Me_Go_(2010_film)"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-162-A-2",
+      "filmKey": "",
+      "filmTitle": "Keira Knightley",
+      "personId": "ACTOR-162",
+      "personName": "Keira Knightley",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [
+        "Never Let Me Go|2010"
+      ],
+      "sourceArea": "actors"
+    },
+    {
+      "id": "SCHAUSPIELER-202610-P03-169-L-1",
+      "knowledgeId": "K-SCHAUSPIELER-202610-P03-169-L-1",
+      "difficulty": "leicht",
+      "questionType": "Rollen und Werke",
+      "learningObjective": "Welche Krisenmanagerin spielt Kerry Washington in der Serie „Scandal“?",
+      "question": "Welche Krisenmanagerin spielt Kerry Washington in der Serie „Scandal“?",
+      "answers": [
+        {
+          "id": "SCHAUSPIELER-202610-P03-169-L-1:a",
+          "text": "Annalise Keating",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-169-L-1:b",
+          "text": "Alicia Florrick",
+          "correct": false,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-169-L-1:c",
+          "text": "Olivia Pope",
+          "correct": true,
+          "feedback": ""
+        },
+        {
+          "id": "SCHAUSPIELER-202610-P03-169-L-1:d",
+          "text": "Carrie Mathison",
+          "correct": false,
+          "feedback": ""
+        }
+      ],
+      "explanation": "Olivia Pope ist die Krisenmanagerin, die für mächtige Klienten Probleme aus der Öffentlichkeit räumt.",
+      "context": "Olivia Pope löst öffentlichkeitswirksame Krisen für einflussreiche Menschen in Washington. Kerry Washington spielt eine Figur, deren professionelle Kontrolle zunehmend mit eigenen Bindungen kollidiert. Die Serie von Shonda Rhimes verbindet politische Intrigen mit persönlichen Beziehungen; Olivias Kenntnisse über die Macht helfen ihr, machen sie aber zugleich selbst angreifbar.",
+      "spoilerLevel": "keine",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kerry_Washington",
+        "https://de.wikipedia.org/wiki/Kerry_Washington"
+      ],
+      "originalId": "SCHAUSPIELER-202610-P03-169-L-1",
+      "filmKey": "",
+      "filmTitle": "Kerry Washington",
+      "personId": "ACTOR-169",
+      "personName": "Kerry Washington",
+      "personNameBeforeAnswer": "true",
+      "filmRefs": [],
+      "sourceArea": "actors"
     }
   ]
 }
