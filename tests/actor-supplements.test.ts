@@ -7,8 +7,19 @@ import { filmData } from "../src/filmFacts";
 import { validateBackup } from "../src/backupValidation";
 import { startRound, answer } from "../src/engine";
 import revision from "../docs/Bestandsredaktion-2026-10-04/Block-01.json";
+import {
+  currentQuestionId,
+  latestCsvRevision,
+  latestActorRevision,
+} from "./editorialSource";
 
-const contents = packages.slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
+const contents = packages
+  .slice(
+    0,
+    packages.findIndex(
+      (p) => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv",
+    ),
+  )
   .filter(
     (p) =>
       !p.filename.endsWith("fragen_20261007.csv") &&
@@ -46,26 +57,43 @@ for (const [code, file, count] of [
       count / 8,
     );
     for (const row of source.questions) {
-      const q = added.find((q) => q.id === row.question_id)!;
-      expect(q.question).toBe(row.question);
-      expect(q.context).toBe(row.additional_info);
-      expect(q.sources).toEqual(row.source_urls);
-      expect(q.answers.find((a) => a.id === q.correctId)?.text).toBe(
-        row.answers.find((a: { id: string }) => a.id === row.correct_answer)
-          .text,
+      const q = added.find((q) => q.id === currentQuestionId(row.question_id))!;
+      const csvPath =
+        code === "P02"
+          ? "public/schauspieler-p02-fragen.csv"
+          : "public/schauspieler-p03-fragen.csv";
+      const current = latestCsvRevision(csvPath, q.id)?.after;
+      expect(q.question).toBe(current?.question ?? row.question);
+      expect(q.context).toBe(
+        current?.explanation_context ?? row.additional_info,
       );
-      expect(q.knowledgeId).toBe(row.knowledge_id);
+      expect(q.sources).toEqual(
+        current ? current.source_urls.split("|") : row.source_urls,
+      );
+      expect(q.answers.find((a) => a.id === q.correctId)?.text).toBe(
+        current
+          ? current[`answer_${current.correct_answer.toLowerCase()}`]
+          : row.answers.find((a: { id: string }) => a.id === row.correct_answer)
+              .text,
+      );
+      expect(q.knowledgeId).toBe(current?.knowledge_id ?? row.knowledge_id);
       if (row.variant_of)
         expect(q.knowledgeId).toBe(
           original.find((q) => q.id === row.variant_of)!.knowledgeId,
         );
       const display = actorPresentation(q)!;
-      expect(display.films).toEqual(row.film_refs);
+      expect(display.films).toEqual(
+        latestActorRevision(q.id)?.filmRefs ?? row.film_refs,
+      );
       const edited = revision.changes.find((entry) => entry.id === q.id);
-      if (edited) expect(display).toEqual(edited.after);
+      if (latestActorRevision(q.id))
+        expect(display.text).toBe(latestActorRevision(q.id)!.context);
+      else if (edited) expect(display).toEqual(edited.after);
       else expect(display.text).toBe(row.additional_info);
       if (row.actor_name_before_answer)
-        expect(display.question).toContain(q.metadata.person_name);
+        expect(display.question.replaceAll("’", "'")).toContain(
+          q.metadata.person_name.replaceAll("’", "'"),
+        );
       else expect(display.question).not.toContain(q.metadata.person_name);
       expect(filmData(q)).toBeUndefined();
       for (const ref of display.films) expect(filmData(q, ref)).toBeDefined();

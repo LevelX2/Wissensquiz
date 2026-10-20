@@ -26,7 +26,12 @@ import {
 
 // Keep this regression at the award package's original catalog stage.
 const contents = packages
-  .slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
+  .slice(
+    0,
+    packages.findIndex(
+      (p) => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv",
+    ),
+  )
   .filter(
     (p) =>
       !p.filename.startsWith("Schauspieler_") &&
@@ -64,7 +69,12 @@ it("importiert 200 belegte Preisfragen mit redigierten Stufen und vollständiger
   ).toEqual(editorialCsvIds("public/preistraeger-fragen.csv").sort());
   expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(200);
   expect(new Set(questions.map(filmIdentity)).size).toBe(135);
-  for (const [difficulty, count] of Object.entries({leicht:50,mittel:50,schwer:60,experte:40}))
+  for (const [difficulty, count] of Object.entries({
+    leicht: 50,
+    mittel: 50,
+    schwer: 60,
+    experte: 40,
+  }))
     expect(questions.filter((q) => q.difficulty === difficulty)).toHaveLength(
       count,
     );
@@ -80,7 +90,9 @@ it("importiert 200 belegte Preisfragen mit redigierten Stufen und vollständiger
     const proof = sources.questions.find((p) => p.question_id === q.id)!;
     const edited = latestCsvRevision("public/preistraeger-fragen.csv", q.id);
     expect(q.answers.find((a) => a.id === q.correctId)!.text).toBe(
-      edited ? edited.after[`answer_${edited.after.correct_answer.toLowerCase()}`] : proof.correct_answer,
+      edited
+        ? edited.after[`answer_${edited.after.correct_answer.toLowerCase()}`]
+        : proof.correct_answer,
     );
     expect(q.sources).toEqual(
       edited ? edited.after.source_urls.split("|") : proof.sources,
@@ -92,7 +104,7 @@ it("importiert 200 belegte Preisfragen mit redigierten Stufen und vollständiger
     ).toBe(true);
     expect(q.context.split(/\s+/).length).toBeGreaterThanOrEqual(35);
     // Empty feedback is intentional; only useful extra information is shown.
-    for (const a of q.answers.filter(a => a.feedback))
+    for (const a of q.answers.filter((a) => a.feedback))
       expect(a.feedback).not.toMatch(/^(Richtig|Falsch)[.!]?$/i);
     expect(q.tags).toContain("Preisträger");
     expect(familiarityOf(q)).toBeTruthy();

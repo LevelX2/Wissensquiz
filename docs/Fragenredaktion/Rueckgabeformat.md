@@ -53,3 +53,5 @@ Die zurückgegebene CSV ist eine redaktionelle Übergabe, kein automatischer Bes
 Führend bleiben [Importformat](../Importformat.md) und [Redaktionsvertrag](../Fragenredaktion.md).
 
 Bei Personen- und Preisfragen zusätzlich die jeweiligen Bereichsverträge verwenden. Ihre zusätzlichen Identitäts-, Sichtbarkeits-, Bild- und Filmbezugsfelder aus dem Katalog erhalten; das Filmformat allein beschreibt diese Bereiche nicht vollständig.
+
+Bei Bildfragen die bestehenden Bild-IDs, Personen- und Sichtbarkeitsfelder erhalten. Biografische Quellen ersetzen keine Bildnachweise. Bei der zentralen Übernahme bleiben die bestehenden Quellen und Lizenzangaben beider Fotofassungen erhalten; fehlende Bildquellen in einer redaktionellen Rückgabe werden aus diesen unveränderten Nachweisen ergänzt.

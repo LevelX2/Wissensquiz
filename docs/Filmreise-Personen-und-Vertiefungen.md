@@ -1,5 +1,8 @@
 # Filmreise mit Schauspielern und Preisträgern
 
+**20.10.2026 – Alle 1.760 älteren Personenfragen lokal nachredigiert:** Konkrete Kurzantworten, individuelle Vertiefungen, Rollenanker und Lösungsschutz; sechs ausdrücklich neue Zielidentitäten. 200 Porträtfragen mit beiden Bildquellen erhalten. Tatsächliche Anzeigen und Filmverweise vollständig geprüft; keine Änderungen an Freischaltregeln oder privaten Spielständen. [Stand und Grenzen](Schauspieler-Fragenpaket.md). Noch nicht veröffentlicht.
+
+
 **13.10.2026 – Personen- und Preisgruppen seit Version 80 veröffentlicht:** Auch diese beiden Bereiche besitzen vier Bekanntheitsgruppen mit eigener Fortschrittsanzeige und derselben Gruppenfreischaltung wie Filme. Experte bleibt eine unabhängige Schwierigkeit. 428 Schauspieler mit 3.424 Fragen, viermal 107 Personen; 280 Preisfragen nach Filmgruppe. Historische Porträts bevorzugt, alle Personen mit TMDB-Link. [Aktueller Gesamtvertrag](Bekanntheitsgruppen/App-Integration-2026-10-13.md).
 
 Stand 03.10.2026, als Sites-Version 41 erfolgreich veröffentlicht. Die drei Fragenbereiche Filmfragen, Schauspieler und Preisträger bilden auch in der Filmreise einen gemeinsamen Auswahlpool. Jeder Bereich kann allein oder zusammen mit den anderen gespielt werden. Der Modus wechselt beim Zuschalten nicht mehr automatisch. Filmgenres und Classics/Arthouse begrenzen Filmfragen; Bekanntheitsgruppen gelten in allen drei Bereichen. Personen- und Preisfragen erhalten keine künstliche Genrebindung.

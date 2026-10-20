@@ -1,5 +1,8 @@
 # Wissensindex
 
+**20.10.2026 – 2.040 Preis-/Personenfragen lokal abgeschlossen:** 280 Rückgaben übernommen und 1.760 Schauspielerfragen mit drei beauftragten Subagenten selbst überarbeitet. Sechs neue Zielidentitäten, 200 Porträtquellenpaare erhalten. 34 gezielte Tests, TypeScript und vollständiger App-Anzeigenabgleich erfolgreich. Bisherige Originalwarteschlange 12.773/12.773, null offen; Serienlauf pausiert. Noch nicht veröffentlicht. [Abnahme und Grenzen](../../../docs/Pruefbericht.md#20102026--schauspielerredaktion-und-vollständige-paketabnahme-lokal).
+
+
 - [Fachreview: Startcode, Zeitspielbelege, private Größenaufnahme und nativer Last-/Wachstumsnachweis – 18.10.2026, lokal](../../../docs/Fachreview-Start-und-Wachstum-2026-10-18.md)
 
 - [Vorbereitete Spieler-/Geräteabnahme: Fortschritt, Spieltempo, hörbarer Ton und spürbare Haptik – echte Beobachtungen offen](../../../docs/Spieler-und-Geraeteabnahme-Fachreview.md)

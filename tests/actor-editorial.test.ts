@@ -6,7 +6,11 @@ import { actorPresentation, presentedQuestion } from "../src/actorEditorial";
 import { filmData } from "../src/filmFacts";
 import original from "../docs/Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json";
 import editorial from "../src/actorEditorial.json";
-import { latestCsvRevision } from "./editorialSource";
+import {
+  latestCsvRevision,
+  latestActorRevision,
+  originalQuestionId,
+} from "./editorialSource";
 
 const state = emptyState();
 addPackages(
@@ -21,13 +25,13 @@ const actors = state.questions.filter(
 );
 it("nennt bei allen vorgegebenen Personen den vollen Namen und schützt die Erkennungsfragen", () => {
   const originalActors = actors.filter((q) =>
-    q.id.startsWith("SCHAUSPIELER-202610-P01-"),
+    originalQuestionId(q.id).startsWith("SCHAUSPIELER-202610-P01-"),
   );
   expect(originalActors).toHaveLength(800);
   expect(Object.keys(editorial.questions)).toHaveLength(800);
   for (const q of originalActors) {
     const source = original.questions.find(
-      (source) => source.question_id === q.id,
+      (source) => source.question_id === originalQuestionId(q.id),
     )!;
     const presentation = actorPresentation(q)!;
     expect(presentation).toBeDefined();
@@ -36,12 +40,14 @@ it("nennt bei allen vorgegebenen Personen den vollen Namen und schützt die Erke
       expect(presentedQuestion(q)).not.toContain(
         `${q.metadata.person_name} ${q.metadata.person_name}`,
       );
-    } else expect(presentedQuestion(q)).toBe(q.question);
-    expect(presentation.text.length).toBeGreaterThan(q.context!.length);
+    } else expect(presentedQuestion(q)).not.toContain(q.metadata.person_name);
+    expect(presentation.text).toBe(latestActorRevision(q.id)!.context);
     expect(new Set(presentation.films).size).toBe(presentation.films.length);
     const current = latestCsvRevision("public/schauspieler-fragen.csv", q.id);
     expect(q.question).toBe(current ? current.after.question : source.question);
-    expect(q.context).toBe(source.additional_info);
+    expect(q.context).toBe(
+      current?.after.explanation_context ?? source.additional_info,
+    );
   }
 });
 it("löst alle Filmverweise mit Eckdaten auf, ohne Biografien an einen Film zu binden", () => {

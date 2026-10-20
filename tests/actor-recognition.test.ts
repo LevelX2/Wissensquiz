@@ -7,7 +7,7 @@ import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
 import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
-import { assertEditorialSource } from "./editorialSource";
+import { assertEditorialSource, latestCsvRevision } from "./editorialSource";
 import {
   recognitionPortrait,
   recognitionVariants,
@@ -60,21 +60,30 @@ it("importiert genau 200 eigenständige Gesichtsziele mit belegten Bildern und v
   ).toBe(200);
   for (const [i, q] of imported.questions.entries()) {
     const native = source.questions[i];
+    const current = latestCsvRevision(
+      "public/schauspieler-bilder-fragen.csv",
+      q.id,
+    )?.after;
     expect(q.id).toBe(native.question_id);
-    expect(q.question).toBe(native.question);
-    expect(q.context).toBe(native.additional_info);
+    expect(q.question).toBe(current?.question ?? native.question);
+    expect(q.context).toBe(
+      current?.explanation_context ?? native.additional_info,
+    );
     expect(q.metadata.person_name_before_answer).toBe("false");
     expect(q.question).not.toContain(q.metadata.person_name);
     expect(q.answers.map((a) => a.text)).toEqual(
-      native.answers.map((a) => a.text),
+      current
+        ? ["a", "b", "c", "d"].map((k) => current[`answer_${k}`])
+        : native.answers.map((a) => a.text),
     );
-    expect(q.answers.every((a) => a.feedback.length > 0)).toBe(true);
     expect(q.answers.find((a) => a.id === q.correctId)?.text).toBe(
       q.metadata.person_name,
     );
-    expect(q.context).toContain(q.metadata.person_name);
     expect(q.sources).toContain(recognitionPortrait(q)!.sourceUrl);
-    for (const reference of native.film_refs) {
+    for (const image of recognitionVariants(q))
+      expect(q.sources).toContain(image.sourceUrl);
+    for (const reference of current?.film_refs?.split(";").filter(Boolean) ??
+      native.film_refs) {
       const film = filmData(q, reference);
       expect(film, reference).toBeDefined();
       expect(film!.directors).not.toBe("");

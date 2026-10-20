@@ -45,11 +45,12 @@ export function baselineCsvRow(file: string, originalId: string): Row {
   if (!rows) {
     const pkg = packages.find((entry) => `public${entry.path}` === file);
     assert(pkg, `${file}: ursprüngliches Fragenpaket`);
-    const sourcePath = pkg.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"
-      ? "docs/Schauspieler-Bekanntheit-2026-10-13/Fragen.csv"
-      : pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
-        ? `docs/Filmfragen-Ergaenzung-2026-10-06/${pkg.filename}`
-        : `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`;
+    const sourcePath =
+      pkg.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"
+        ? "docs/Schauspieler-Bekanntheit-2026-10-13/Fragen.csv"
+        : pkg.filename === "Filmfragen_240_Filme_1920_Fragen.csv"
+          ? `docs/Filmfragen-Ergaenzung-2026-10-06/${pkg.filename}`
+          : `KI-Wissen-Wissensquiz/01 Rohquellen/${pkg.filename}`;
     const parsed = Papa.parse<Row>(readFileSync(sourcePath, "utf8"), {
       header: true,
       skipEmptyLines: "greedy",
@@ -57,7 +58,11 @@ export function baselineCsvRow(file: string, originalId: string): Row {
     assert.deepEqual(parsed.errors, [], sourcePath);
     rows = new Map(parsed.data.map((row) => [row.question_id, row]));
     for (const change of csvChanges.filter((entry) => entry.file === file)) {
-      assert.deepEqual(rows.get(change.id), change.before, `${change.id}: lückenlose Redaktionskette`);
+      assert.deepEqual(
+        rows.get(change.id),
+        change.before,
+        `${change.id}: lückenlose Redaktionskette`,
+      );
       rows.set(change.id, change.after);
     }
     baselineRows.set(file, rows);
@@ -66,14 +71,27 @@ export function baselineCsvRow(file: string, originalId: string): Row {
   assert(row, `${file}: ursprüngliche Frage ${originalId}`);
   return structuredClone(row);
 }
-export const currentQuestionId = (id: string) => integrated.replacements.find(r=>r.id===id)?.replacementId ?? removals.find(r=>r.id===id)?.replacementId ?? id;
-export const originalQuestionId = (id: string) => integrated.replacements.find(r=>r.replacementId===id)?.id ?? id;
+export const currentQuestionId = (id: string) =>
+  integrated.replacements.find((r) => r.id === id)?.replacementId ??
+  removals.find((r) => r.id === id)?.replacementId ??
+  id;
+export const originalQuestionId = (id: string) =>
+  integrated.replacements.find((r) => r.replacementId === id)?.id ?? id;
 export function catalogBeforeReview(file: string, text: string) {
-  const parsed = Papa.parse<Row>(text,{header:true,skipEmptyLines:"greedy"});
-  const added=new Set(integrated.additions.filter(a=>a.file===file).map(a=>a.row.question_id));
+  const parsed = Papa.parse<Row>(text, {
+    header: true,
+    skipEmptyLines: "greedy",
+  });
+  const added = new Set(
+    integrated.additions
+      .filter((a) => a.file === file)
+      .map((a) => a.row.question_id),
+  );
   assert.deepEqual(parsed.errors, [], file);
   const rows = parsed.data
-    .filter((row) => !added.has(row.question_id) && !removedIds.has(row.question_id))
+    .filter(
+      (row) => !added.has(row.question_id) && !removedIds.has(row.question_id),
+    )
     .map((row) => baselineCsvRow(file, originalQuestionId(row.question_id)));
   return Papa.unparse({ fields: Object.keys(rows[0]), data: rows });
 }
@@ -89,7 +107,28 @@ export const latestCsvRevision = (
   file: string,
   id: string,
 ): Pick<EditorialChange, "file" | "id" | "after"> | undefined =>
-  allCsvChanges.filter((entry) => entry.file === file && entry.id === id).at(-1);
+  allCsvChanges
+    .filter(
+      (entry) =>
+        entry.file === file &&
+        (entry.id === id || entry.after.question_id === id),
+    )
+    .at(-1);
+
+type ActorRevision = {
+  id: string;
+  originalId: string;
+  question: string;
+  context: string;
+  filmRefs: string[];
+};
+const currentActors = (
+  JSON.parse(readFileSync("docs/Fragenredaktion/Fragen.json", "utf8")) as {
+    questions: (ActorRevision & { sourceArea?: string })[];
+  }
+).questions.filter((q) => q.sourceArea === "actors");
+export const latestActorRevision = (id: string) =>
+  currentActors.find((q) => q.id === id || q.originalId === id);
 
 // Verify editorial exceptions against their complete documented rows. All other
 // rows, their order and the CSV header must still match the preserved source.
@@ -113,14 +152,33 @@ export function assertEditorialSource(
     original.meta.fields?.filter((key) => key !== "memory_anchor"),
     publicPath,
   );
-  const additions = integrated.additions.filter((entry) => entry.file === publicPath);
-  const retained = original.data.filter((row) => !removedIds.has(row.question_id));
-  for (const row of original.data.filter((row) => removedIds.has(row.question_id))) {
+  const additions = integrated.additions.filter(
+    (entry) => entry.file === publicPath,
+  );
+  const retained = original.data.filter(
+    (row) => !removedIds.has(row.question_id),
+  );
+  for (const row of original.data.filter((row) =>
+    removedIds.has(row.question_id),
+  )) {
     const removal = removals.find((entry) => entry.id === row.question_id)!;
-    assert.equal(row.knowledge_id, removal.knowledgeId, `${row.question_id}: ausdrücklich entferntes Lernziel`);
-    assert(edited.data.some((current) => current.question_id === removal.replacementId), `${row.question_id}: angegebenes Ersatzziel vorhanden`);
+    assert.equal(
+      row.knowledge_id,
+      removal.knowledgeId,
+      `${row.question_id}: ausdrücklich entferntes Lernziel`,
+    );
+    assert(
+      edited.data.some(
+        (current) => current.question_id === removal.replacementId,
+      ),
+      `${row.question_id}: angegebenes Ersatzziel vorhanden`,
+    );
   }
-  assert.equal(edited.data.length, retained.length + additions.length, publicPath);
+  assert.equal(
+    edited.data.length,
+    retained.length + additions.length,
+    publicPath,
+  );
   const changes: string[] = [];
   for (const [index, row] of edited.data.slice(0, retained.length).entries()) {
     const before = retained[index];
@@ -141,25 +199,67 @@ export function assertEditorialSource(
       (entry) => entry.file === publicPath && entry.id === before.question_id,
     );
     if (current) {
-      assert.deepEqual(expected, baselineCsvRow(publicPath, before.question_id), `${id}: rekonstruierter Ausgangsstand`);
+      assert.deepEqual(
+        expected,
+        baselineCsvRow(publicPath, before.question_id),
+        `${id}: rekonstruierter Ausgangsstand`,
+      );
       expected = current.after;
       if (id !== before.question_id) {
-        assert(integrated.replacements.some((r) => r.id === before.question_id && r.replacementId === id && r.replacementKnowledgeId === row.knowledge_id), `${id}: ausdrücklicher Zielwechsel`);
+        assert(
+          integrated.replacements.some(
+            (r) =>
+              r.id === before.question_id &&
+              r.replacementId === id &&
+              r.replacementKnowledgeId === row.knowledge_id,
+          ),
+          `${id}: ausdrücklicher Zielwechsel`,
+        );
       } else {
-        const correction = integrated.goalLinks.find((entry) => entry.id === id);
+        const correction = integrated.goalLinks.find(
+          (entry) => entry.id === id,
+        );
         if (correction) {
-          assert.equal(before.knowledge_id, correction.knowledgeId, `${id}: ursprüngliche Zielverknüpfung`);
-          assert.equal(before.variant_of, correction.variantOf, `${id}: ursprünglicher Variantenbezug`);
-          assert.equal(row.knowledge_id, correction.correctedKnowledgeId, `${id}: korrigierte Zielverknüpfung`);
-          assert.equal(row.variant_of, correction.correctedVariantOf, `${id}: korrigierter Variantenbezug`);
+          assert.equal(
+            before.knowledge_id,
+            correction.knowledgeId,
+            `${id}: ursprüngliche Zielverknüpfung`,
+          );
+          assert.equal(
+            before.variant_of,
+            correction.variantOf,
+            `${id}: ursprünglicher Variantenbezug`,
+          );
+          assert.equal(
+            row.knowledge_id,
+            correction.correctedKnowledgeId,
+            `${id}: korrigierte Zielverknüpfung`,
+          );
+          assert.equal(
+            row.variant_of,
+            correction.correctedVariantOf,
+            `${id}: korrigierter Variantenbezug`,
+          );
         } else {
-          assert.equal(row.knowledge_id, before.knowledge_id, `${id}: stabiles Lernziel`);
+          assert.equal(
+            row.knowledge_id,
+            before.knowledge_id,
+            `${id}: stabiles Lernziel`,
+          );
         }
       }
     }
-    assert.deepEqual(row, activeRow(expected), `${id}: dokumentierter Endstand`);
+    assert.deepEqual(
+      row,
+      activeRow(expected),
+      `${id}: dokumentierter Endstand`,
+    );
     if (proofs.length || current) changes.push(before.question_id);
   }
-  assert.deepEqual(edited.data.slice(retained.length), additions.map((entry) => activeRow(entry.row)), `${publicPath}: geprüfte Ergänzungen`);
+  assert.deepEqual(
+    edited.data.slice(retained.length),
+    additions.map((entry) => activeRow(entry.row)),
+    `${publicPath}: geprüfte Ergänzungen`,
+  );
   return { questions: edited.data.length, changes };
 }

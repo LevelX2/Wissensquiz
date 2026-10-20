@@ -74,12 +74,14 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
 });
 
 it("prüft den Redaktionsumfang und ersetzt die unbelegte Stativbehauptung durch den belegten Jansen-Kontext", () => {
-  expect(manifest.appliedOriginalIds).toBe(5463);
-  expect(manifest.reviewedOriginalIds).toBe(5463);
+  expect(manifest.appliedOriginalIds).toBe(7223);
+  expect(manifest.reviewedOriginalIds).toBe(7223);
   expect(manifest.generated).toHaveLength(387);
   expect(manifest.additions).toHaveLength(14);
   expect(manifest.excluded).toEqual([]);
-  const jansen = manifest.changes.find(c => c.id === "G100-20261008-THRILLER-025-M1")!;
+  const jansen = manifest.changes.find(
+    (c) => c.id === "G100-20261008-THRILLER-025-M1",
+  )!;
   expect(jansen.after.explanation_context).not.toContain("Stativ");
   expect(jansen.after.explanation_context).toContain("Selbstachtung");
   expect(jansen.after.source_urls).toContain("criterion.com/current/posts/303");
@@ -87,25 +89,49 @@ it("prüft den Redaktionsumfang und ersetzt die unbelegte Stativbehauptung durch
 
 it("verknüpft die neue Rabal-Frage bereichsübergreifend und entfernt die überholte Brückenvariante", () => {
   const state = emptyState();
-  addPackages(state, packages.map(p => ({filename:p.filename,text:readFileSync(`public${p.path}`,"utf8")})));
-  const byId = new Map(state.questions.map(q => [q.id,q]));
-  const variant = state.questions.find(q => q.metadata.variant_of === "SCHAUSPIELER-BG-20261013-123-E1")!;
+  addPackages(
+    state,
+    packages.map((p) => ({
+      filename: p.filename,
+      text: readFileSync(`public${p.path}`, "utf8"),
+    })),
+  );
+  const byId = new Map(state.questions.map((q) => [q.id, q]));
+  const variant = state.questions.find(
+    (q) => q.metadata.variant_of === "SCHAUSPIELER-BG-20261013-123-E1",
+  )!;
   expect(variant).toBeDefined();
-  expect(variant.knowledgeId).toBe(byId.get("SCHAUSPIELER-BG-20261013-123-E1")?.knowledgeId);
+  expect(variant.knowledgeId).toBe(
+    byId.get("SCHAUSPIELER-BG-20261013-123-E1")?.knowledgeId,
+  );
   for (const removed of manifest.removals) {
     expect(byId.has(removed.id)).toBe(false);
     expect(byId.has(removed.replacementId)).toBe(true);
   }
-  expect(state.questions.filter(q => q.id.startsWith("Q-20261015-"))).toHaveLength(109);
+  expect(
+    state.questions.filter((q) => q.id.startsWith("Q-20261015-")),
+  ).toHaveLength(109);
 });
 
 it("trennt Persephones Hilfe und Trinitys Rückkehr in Reloaded als unterschiedliche Lernziele", () => {
   const state = emptyState();
-  addPackages(state, packages.map(p => ({filename:p.filename,text:readFileSync(`public${p.path}`,"utf8")})));
-  const replacements = ["SF-M-004", "SF-M-004-V1"].map(id => manifest.replacements.find(r => r.id === id)!);
-  const questions = replacements.map(r => state.questions.find(q => q.id === r.replacementId)!);
+  addPackages(
+    state,
+    packages.map((p) => ({
+      filename: p.filename,
+      text: readFileSync(`public${p.path}`, "utf8"),
+    })),
+  );
+  const replacements = ["SF-M-004", "SF-M-004-V1"].map((id) =>
+    manifest.replacements.find((r) => r.id === id)!,
+  );
+  const questions = replacements.map((r) =>
+    state.questions.find((q) => q.id === r.replacementId)!,
+  );
   expect(questions[0].question).not.toContain("Persephone");
-  expect(questions[0].answers.find(a => a.id === questions[0].correctId)?.text).toContain("Persephone");
+  expect(
+    questions[0].answers.find((a) => a.id === questions[0].correctId)?.text,
+  ).toContain("Persephone");
   expect(questions[1].question).toContain("Trinity");
   expect(questions[0].knowledgeId).not.toBe(questions[1].knowledgeId);
   for (const q of questions) expect(q.metadata.variant_of).toBe("");
@@ -113,23 +139,51 @@ it("trennt Persephones Hilfe und Trinitys Rückkehr in Reloaded als unterschiedl
 
 it("verknüpft Chaplins 1942-Fassung und erhält beide verwendeten Wolfsblut-Kompositionen", () => {
   const state = emptyState();
-  addPackages(state, packages.map(p => ({filename:p.filename,text:readFileSync(`public${p.path}`,"utf8")})));
-  const chaplin = state.questions.find(q => q.metadata.variant_of === "SCHAUSPIELER-BG-20261013-009-E1")!;
-  const actor = state.questions.find(q => q.id === "SCHAUSPIELER-BG-20261013-009-E1")!;
+  addPackages(
+    state,
+    packages.map((p) => ({
+      filename: p.filename,
+      text: readFileSync(`public${p.path}`, "utf8"),
+    })),
+  );
+  const chaplin = state.questions.find(
+    (q) => q.metadata.variant_of === "SCHAUSPIELER-BG-20261013-009-E1",
+  )!;
+  const actor = state.questions.find(
+    (q) => q.id === "SCHAUSPIELER-BG-20261013-009-E1",
+  )!;
   expect(chaplin).toBeDefined();
   expect(chaplin.knowledgeId).toBe(actor.knowledgeId);
   expect(chaplin.question).toContain("1942");
-  const whiteFang = state.questions.find(q => q.id.startsWith("Q-20261016-ABENTEUER-") && q.question.includes("Filmmusik von „Wolfsblut“"))!;
+  const whiteFang = state.questions.find(
+    (q) =>
+      q.id.startsWith("Q-20261016-ABENTEUER-") &&
+      q.question.includes("Filmmusik von „Wolfsblut“"),
+  )!;
   expect(whiteFang).toBeDefined();
-  expect(whiteFang.answers.find(a => a.id === whiteFang.correctId)?.text).toBe("Basil Poledouris und Hans Zimmer");
+  expect(
+    whiteFang.answers.find((a) => a.id === whiteFang.correctId)?.text,
+  ).toBe("Basil Poledouris und Hans Zimmer");
   expect(whiteFang.context).toContain("viel von beiden");
-  expect(state.questions.filter(q => ["FANTASY", "HORROR", "KOMOEDIE", "ABENTEUER"].some(genre => q.id.startsWith(`Q-20261016-${genre}-`)))).toHaveLength(292);
+  expect(
+    state.questions.filter((q) =>
+      ["FANTASY", "HORROR", "KOMOEDIE", "ABENTEUER"].some((genre) =>
+        q.id.startsWith(`Q-20261016-${genre}-`),
+      ),
+    ),
+  ).toHaveLength(292);
 });
 
 it("trennt Stanwycks Figurentyp vom Trennungsgrund und übernimmt die Rom-Com-Regie ohne falsche Darstellerzusätze", () => {
   const state = emptyState();
-  addPackages(state, packages.map(p => ({filename:p.filename,text:readFileSync(`public${p.path}`,"utf8")})));
-  const get = (id: string) => state.questions.find(q => q.id === id)!;
+  addPackages(
+    state,
+    packages.map((p) => ({
+      filename: p.filename,
+      text: readFileSync(`public${p.path}`, "utf8"),
+    })),
+  );
+  const get = (id: string) => state.questions.find((q) => q.id === id)!;
   const actor = get("E20261007-P-018-M2");
   const breakup = get("F240-20261006-169-M1");
   expect(actor.knowledgeId).toBe("K-E20261007-P-018-M2");
@@ -137,16 +191,25 @@ it("trennt Stanwycks Figurentyp vom Trennungsgrund und übernimmt die Rom-Com-Re
   expect(actor.metadata.variant_of).toBe("");
   expect(actor.question).toContain("Figurentyp");
   expect(breakup.question).toContain("Charles");
-  for (const [title, director] of [["The Philadelphia Story", "George Cukor"], ["What's Up, Doc?", "Howard Hawks"]]) {
-    const questions = state.questions.filter(q => q.metadata.film_title_original === title);
+  for (const [title, director] of [
+    ["The Philadelphia Story", "George Cukor"],
+    ["What's Up, Doc?", "Howard Hawks"],
+  ]) {
+    const questions = state.questions.filter(
+      (q) => q.metadata.film_title_original === title,
+    );
     expect(questions.length).toBeGreaterThan(0);
-    const contexts = questions.map(q => q.context).join(" ");
+    const contexts = questions.map((q) => q.context).join(" ");
     expect(contexts).toContain(director);
-    expect(contexts).not.toMatch(/George \(John Howard\) Cukor|Howard \(Ryan O’Neal\) Hawks/);
+    expect(contexts).not.toMatch(
+      /George \(John Howard\) Cukor|Howard \(Ryan O’Neal\) Hawks/,
+    );
   }
-  const original = manifest.replacements.find(q => q.id === "ROM-L-044")!;
-  const variant = manifest.replacements.find(q => q.id === "ROM-L-044-V1")!;
-  expect(get(original.replacementId).knowledgeId).not.toBe(get(variant.replacementId).knowledgeId);
+  const original = manifest.replacements.find((q) => q.id === "ROM-L-044")!;
+  const variant = manifest.replacements.find((q) => q.id === "ROM-L-044-V1")!;
+  expect(get(original.replacementId).knowledgeId).not.toBe(
+    get(variant.replacementId).knowledgeId,
+  );
   expect(get(original.replacementId).tags).toContain("Classics");
   expect(get(variant.replacementId).tags).toContain("Classics");
 });

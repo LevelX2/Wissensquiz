@@ -22,11 +22,17 @@ import {
   assertEditorialSource,
   editorialCsvIds,
   latestCsvRevision,
+  currentQuestionId,
 } from "./editorialSource";
 
 // Keep this regression at the actor package's original catalog stage.
 const contents = packages
-  .slice(0, packages.findIndex(p => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv"))
+  .slice(
+    0,
+    packages.findIndex(
+      (p) => p.filename === "Schauspieler-Bekanntheit-2026-10-13.csv",
+    ),
+  )
   .filter(
     (pkg) =>
       !pkg.filename.startsWith("Schauspieler-Bekanntheit-") &&
@@ -88,10 +94,14 @@ it("übernimmt alle 800 Fragen mit genau dokumentierter Redaktion, 100 Personen 
       expect(rows.filter((q) => q.difficulty === difficulty)).toHaveLength(2);
   }
   for (const original of source.questions) {
-    const q = imported.questions.find((q) => q.id === original.question_id)!;
+    const q = imported.questions.find(
+      (q) => q.id === currentQuestionId(original.question_id),
+    )!;
     const edited = latestCsvRevision("public/schauspieler-fragen.csv", q.id);
     expect(q.question).toBe(edited ? edited.after.question : original.question);
-    expect(q.context).toBe(original.additional_info);
+    expect(q.context).toBe(
+      edited?.after.explanation_context ?? original.additional_info,
+    );
 
     expect(q.sources).toEqual(
       edited ? edited.after.source_urls.split("|") : original.source_urls,

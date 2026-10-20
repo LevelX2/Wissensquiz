@@ -12,6 +12,7 @@ import {
   editorialRevisions,
   latestCsvRevision,
   currentQuestionId,
+  latestActorRevision,
 } from "./editorialSource";
 
 it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen Darstellertexten", () => {
@@ -28,13 +29,20 @@ it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen 
     catalogCounts.goals,
   );
   for (const entry of revision.changes) {
-    const q = state.questions.find((q) => q.id === currentQuestionId(entry.id))!;
+    const q = state.questions.find(
+      (q) => q.id === currentQuestionId(entry.id),
+    )!;
     expect(q, entry.id).toBeDefined();
     if (entry.kind === "actor_presentation") {
       expect(q.knowledgeId, q.id).toBe(entry.knowledgeId);
       expect(questionTitleParts(q), q.id).toBeNull();
-      expect(actorPresentation(q), q.id).toEqual(entry.after);
-      expect(presentedQuestion(q), q.id).toBe(entry.after.question);
+      const current = latestActorRevision(q.id);
+      expect(actorPresentation(q)?.text, q.id).toBe(
+        current?.context ?? entry.after.text,
+      );
+      expect(presentedQuestion(q), q.id).toBe(
+        current?.question ?? entry.after.question,
+      );
     } else {
       const latest = latestCsvRevision(entry.file, entry.id)!;
       expect(q.knowledgeId, q.id).toBe(latest.after.knowledge_id);
@@ -47,9 +55,11 @@ it("zeigt alle 21 redigierten Fragen mit erhaltenen Wissenszielen und wirksamen 
 
 it("erlaubt in den öffentlichen CSVs genau die dokumentierten Zeilenänderungen", () => {
   let changed = 0;
-  for (const pkg of packages.filter(
+  // P02/P03 have immutable native JSON, verified in actor-supplements.test.ts.
+  const csvSources = packages.filter(
     (p) => !/Ergaenzung_P0[23]_/.test(p.filename),
-  )) {
+  );
+  for (const pkg of csvSources) {
     changed += assertEditorialSource(
       readFileSync(`public${pkg.path}`, "utf8"),
       readFileSync(
@@ -63,7 +73,12 @@ it("erlaubt in den öffentlichen CSVs genau die dokumentierten Zeilenänderungen
       `public${pkg.path}`,
     ).changes.length;
   }
-  expect(changed).toBe(editorialCsvIds().length);
+  expect(changed).toBe(
+    csvSources.reduce(
+      (n, p) => n + editorialCsvIds(`public${p.path}`).length,
+      0,
+    ),
+  );
 });
 
 it("zeigt alle registrierten Personenredaktionen und erhält ihre ursprünglichen Schutzschlüssel", () => {
@@ -81,7 +96,12 @@ it("zeigt alle registrierten Personenredaktionen und erhält ihre ursprüngliche
   for (const c of changes) {
     const q = state.questions.find((q) => q.id === c.id)!;
     expect(q.knowledgeId, c.id).toBe(c.knowledgeId);
-    expect(actorPresentation(q), c.id).toEqual(c.after);
+    const current = latestActorRevision(q.id);
+    expect(actorPresentation(q)?.text, c.id).toBe(
+      current?.context ?? c.after.text,
+    );
+    expect(actorPresentation(q)?.originalQuestion, c.id).toBe(q.question);
+    expect(actorPresentation(q)?.originalContext, c.id).toBe(q.context);
     expect(q.question, c.id).toBe(c.before.originalQuestion);
     expect(q.context, c.id).toBe(c.before.originalContext);
     expect(c.after.originalQuestion, c.id).toBe(c.before.originalQuestion);
