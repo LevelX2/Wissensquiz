@@ -143,6 +143,8 @@ Auch Inhaltsfragen müssen diese gemeinsame Prüfung von Fragetext, Filmtitel un
 
 In Film-Vertiefungen namentlich genannte Figuren bei der ersten Nennung als `Figurenname (Originaldarsteller)` einführen, sofern die Zuordnung nicht bereits ausdrücklich formuliert ist. Originalstimmen bei Animation entsprechend bezeichnen. Synchronsprecher sind keine Originaldarsteller. Keine Figuren oder Besetzungsangaben für reine Gestaltungsfragen erfinden.
 
+Bei der Abnahme die Position solcher Zusätze in allen sichtbaren Textfeldern prüfen: Fragetext, Optionen, Kurzantwort, Vertiefung und Antwortfeedback. Eine Darstellerklammer gehört hinter den vollständigen im Satz verwendeten Figurennamen, niemals zwischen Vor- und Nachname oder in einen zusammengesetzten Namen, Film-, Show- oder Kapiteltitel. Bereits ausdrücklich genannte Darsteller nicht im selben Besetzungssatz nochmals in Klammern wiederholen. Vor einer Ersetzung klären, ob der Ausdruck eine Figur, einen Schauspielernamen, einen Titel oder zwei aufeinanderfolgende Figuren bezeichnet. Anhängende Besitzformen im ganzen Satz sauber formulieren. [Gezielte Bestandskorrektur vom 21.10.2026](Figurennamen-2026-10-21/Pruefbericht.md).
+
 Bei gemeinsamer Regie alle relevanten offiziellen Credits verwenden; ungenannte Mitwirkung und abweichende Fassungscredits erläutern. Regisseurinnen und Regisseure der richtigen Antwort sowie belegte Mitwirkende nicht als eindeutig falsche Alternativen anbieten.
 
 ## Schauspielerfragen

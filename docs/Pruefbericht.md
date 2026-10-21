@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 21.10.2026 – Darstellerklammern und vollständige Figurennamen, lokal
+
+27 Fragen in fünf aktiven Paketen korrigiert, 49 Textfelder: vier Fragen, 19 Kurzantworten, zwei Vertiefungen und 24 Rückmeldungen. Vier fehlerhafte Felder der letzten Redaktionsfassung nachgezogen. Vollständige Namen und Titel bleiben zusammen; unpassende und doppelte Darstellerzusätze sind entfernt. Der Screenshotfehler steht bereits in der CSV; keine automatische Namensergänzung zur Laufzeit. IDs, Optionen, Lösungen und Stufen erhalten. Tatsächlicher App-Import aller 39 Pakete mit 15.295 Fragen / 14.628 Zielen und aufbereitete Anzeigen aller 27 Korrekturen erfolgreich geprüft. Neun gezielte Tests in zwei Dateien sowie `git diff --check` erfolgreich. [Prüfbericht und aktuelle Kompositionen](Figurennamen-2026-10-21/Pruefbericht.md). Keine Veröffentlichung.
+
 ## 21.10.2026 – Figurenkontext in kurzen Besetzungsfragen, lokal
 
 197 gezielt gefundene Film-Besetzungsfragen einschließlich Varianten redaktionell geprüft; 158 Fragetexte in zwölf Paketen verbessert, davon 132 leicht, 20 mittel und sechs schwer. 39 bereits erkennbare Kompositionen erhalten. Konkrete Rollenhinweise haben sich bei den korrigierten Fragen als ausreichend erwiesen; Stufen, Optionen, Lösungen und Lernidentitäten bleiben erhalten. Tatsächlicher App-Parser und vorbereitete Anzeige aller 197 Kompositionen erfolgreich abgeglichen; neun bestehende Tests in zwei Dateien und `git diff --check` erfolgreich. Weiterhin 15.295 Fragen / 14.628 Ziele / 39 Pakete. [Fokussierter Prüfbericht mit Quellen und Grenzen](Besetzungsfragen-2026-10-21/Pruefbericht.md). Kein Veröffentlichungsauftrag.

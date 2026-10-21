@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**21.10.2026 – Darstellerklammern lokal bereinigt:** 27 Fragen in fünf Paketen korrigiert, 49 Textfelder. Vollständige Figurennamen erhalten, unpassende Zusätze aus Titeln und Wörtern entfernt; vier Felder der letzten Redaktion nachgezogen. IDs, Antworten und Stufen erhalten. Noch nicht veröffentlicht. [Prüfbericht](../docs/Figurennamen-2026-10-21/Pruefbericht.md).
+
 **21.10.2026 – Besetzungsfragen lokal verbessert:** 197 kurze Rollenabfragen einschließlich Varianten geprüft, 158 Fragetexte mit konkretem Figurenkontext ergänzt, darunter 132 leichte Fragen. Zwölf App-Pakete, IDs und Stufen erhalten; weiterhin 15.295 Fragen / 14.628 Ziele. Noch nicht veröffentlicht. [Umfang und Abnahme](../docs/Besetzungsfragen-2026-10-21/Pruefbericht.md).
 
 **21.10.2026 – Version 83 veröffentlicht:** 2.040 geprüfte Preis-/Personenfragen, gemeinsame größere Erfolgsembleme und technische Fachreview-Verbesserungen jetzt öffentlich. Weiterhin 15.295 Fragen / 14.628 Ziele in 39 Paketen; 428 Schauspieler. 510 Logiktests und 415 unterschiedliche Browserfälle erfolgreich, ein geplanter Skip. Drei Migrationen und Katalog aktiviert; 30 private Quelltabellen in konsistenten Transaktionen unverändert bestätigt. Echte Spieler-/Geräteabnahme bleibt offen. [Nachweis](../docs/Veroeffentlichung-2026-10-21-Version-83.json).

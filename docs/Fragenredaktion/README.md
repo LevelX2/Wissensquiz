@@ -1,5 +1,7 @@
 # Fragenredaktion
 
+**21.10.2026 – Darstellerklammern lokal bereinigt:** 27 aktuelle App-Fragen in fünf Paketen, 49 Textfelder korrigiert. Zusätze hinter vollständige Figurennamen verschoben, doppelte Darstellernennungen und falsche Einsprengsel in Film-/Show-/Kapiteltiteln und Wörtern bereinigt. Vier betroffene Felder in vier Fragen der letzten Redaktion nachgezogen; alle übrigen neueren Texte erhalten. IDs, Optionen, Lösungen und Stufen unverändert. Noch nicht veröffentlicht. [Prüfbericht und aktuelle Kompositionen](../Figurennamen-2026-10-21/Pruefbericht.md).
+
 **21.10.2026 – Gezielte Besetzungsdurchsicht lokal integriert:** 197 kurze Rollenabfragen einschließlich Varianten geprüft, 158 Fragetexte in zwölf App-Paketen mit konkretem Figurenkontext verbessert (132 leicht, 20 mittel, sechs schwer), 39 passende Kompositionen erhalten. Alle vier Antworten, Stufen und Lernidentitäten bleiben erhalten. Aktuelle Texte in `Fragen.json` und den App-CSV; Quellen- und Integrationsmanifest nachgezogen. Keine erneute vollständige Filmredaktion; die frühere Warteschlange und ihre historischen Zähler bleiben getrennt. Noch nicht veröffentlicht. [Abnahme und aktuelle Kompositionen](../Besetzungsfragen-2026-10-21/Pruefbericht.md).
 
 **21.10.2026 – Version 83 veröffentlicht:** Auch die letzten 280 Preis- und 1.760 Schauspielerfragen sind jetzt produktiv. 12.773/12.773 Originale redaktionell abgeschlossen, davon 7.223 im aktuellen App-Bestand integriert; ältere Fassungen außerhalb der App bleiben gesondert. [Nachweis](../Veroeffentlichung-2026-10-21-Version-83.json).
