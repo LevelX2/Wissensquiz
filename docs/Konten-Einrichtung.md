@@ -2,6 +2,23 @@
 
 ## Stand
 
+### Supabase-Ankündigung zum 30.10.2026 – geprüft am 21.10.2026
+
+**Wissensquiz kann den Free-Tarif und das Schema `public` weiter nutzen.** Die Ankündigung betrifft automatische Datenbankrechte für künftig neu angelegte Tabellen, keine Tarif- oder Speichergrenze. `public` ist der Name eines Datenbankschemas und bedeutet weder „kostenlos“ noch automatisch öffentlich lesbar.
+
+Die Supabase-Mail „Final notice: new tables in "public" need grants from October 30.“ wurde am 21.10.2026 um 00:55 Uhr Europe/Berlin empfangen und vollständig gelesen; das Original bleibt unverändert in Gmail. Laut [offizieller Ankündigung](https://github.com/orgs/supabase/discussions/45329) werden ab **30.10.2026** neue Tabellen in `public` nicht mehr automatisch für die Data API freigegeben. Bestehende Tabellen behalten ihre Rechte. Neuaufbau durch Migrationen, neue Projekte, Preview-Branches oder `supabase db reset` zählt ebenfalls als Neuanlage. Eine fehlende benötigte Freigabe führt zu `permission denied`; RLS und Tabellenrechte bleiben getrennte Kontrollen ([Dokumentation](https://supabase.com/docs/guides/api/securing-your-api)).
+
+Lesender Live-Nachweis am 21.10.2026:
+
+- Organisation weiterhin `free` / `tier_free`, Projekt `ACTIVE_HEALTHY`.
+- Alle **16 Tabellen in `public`** haben RLS aktiv. `anon` und `authenticated` haben dort weder SELECT noch direkte INSERT-/UPDATE-/DELETE-Rechte. Auch die beiden geprüften Betriebstabellen in `quiz_ops` haben RLS und keine solchen Clientrechte.
+- Die App verwendet RPC-Aufrufe statt direkter Tabellenabfragen. Die für Konten beziehungsweise Gäste vorgesehenen Funktionen haben entsprechende EXECUTE-Rechte; die zentralen Spiel-, Duell- und öffentlichen Lesefunktionen laufen als bestehende `SECURITY DEFINER`-Funktionen des Eigentümers `postgres`. Die Ankündigung entzieht bestehenden Funktionen keine Rechte.
+- Bei den Default Privileges für von `postgres` neu angelegte Tabellen in `public` fehlen SELECT/INSERT/UPDATE/DELETE für `anon`, `authenticated` und `service_role` **bereits jetzt**. Die aktuellen Standardrechte entsprechen damit hinsichtlich des angekündigten Data-API-Zugriffs bereits der künftigen Vorgabe. Andere Erstellerrollen sind getrennt zu betrachten; die Defaults von `supabase_admin` sind weiterhin anders.
+
+**Folgerung:** Aus dieser Änderung ergibt sich kein Upgradebedarf und keine notwendige produktive Anpassung für den laufenden Stand. Künftige Tabellen erhalten nur die nach dem jeweiligen Zugriffsvertrag benötigten expliziten Rechte. Für unsere privaten RPC-Tabellen sind zusätzliche direkte Clientrechte gerade nicht erforderlich. Die pauschalen Beispiel-GRANTs der Mail deshalb nicht auf alle Quiztabellen anwenden. Neue direkt über die Data API verwendete Tabellen benötigen passende GRANTs, RLS und Policies im selben Änderungsblock; bei Neuaufbau diese Rechte gezielt mitprüfen.
+
+Prüfgrenze: Metadaten, wirksame Rechte, Default Privileges und lokale Aufrufwege geprüft; kein zukünftiger Plattformrollout simuliert und kein vollständiger Spieltest ausgeführt. Keine Live-Einstellungen, Tabellenrechte, Spielstände oder Tarife verändert.
+
 03.10.2026 lokal vorbereitet: [Rekordmodi und Zeitranglisten](Rekordmodi-und-Zeitranglisten.md) mit Migration `20261003103026_record_modes_highscores.sql`. Sie setzt die ebenfalls lokal vorbereitete Migration `202610030001_public_leaderboard_guest_activity.sql` voraus. Beide sind vor Veröffentlichung der neuen gemeinsamen Listen in dieser Reihenfolge anzuwenden; anschließend Rechte, öffentliche Kategorien/Einzelläufe, Duellrangliste, private Duellhistorie und Kontosicherung lesend prüfen. Der aktuelle Umsetzungsauftrag umfasst keine Live-Ausführung. Persönliche Rekordspiele sind offline nutzbar.
 
 Die App-Anbindung und das Supabase-Projekt sind eingerichtet. Brevo SMTP und deutsche Bestätigungs-/Reset-Vorlagen sind gespeichert. `public/account-config.json` enthält jetzt `enabled: true` mit Project URL und öffentlichem Publishable Key; private Veröffentlichung erfolgreich, echte Live-Registrierungsansicht geöffnet. Nach korrigiertem SMTP-Schlüsseltransfer wurde eine echte Bestätigungsmail zugestellt und das Konto erfolgreich aktiviert (Dashboard geprüft). Erfolgreicher Passwort-Reset und Anmeldung am Handy wurden danach vom Nutzer bestätigt. Echte Zwei-Konten- und geräteübergreifende Spielstandsabnahme stehen aus. Der Nutzer hat inzwischen öffentliche Erreichbarkeit ohne vorgeschaltete ChatGPT-Anmeldung beauftragt; aktueller Status unter Sites-Betrieb.md.
