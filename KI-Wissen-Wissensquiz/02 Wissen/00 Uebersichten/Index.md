@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Besetzungsfragen: 197 kurze Rollenabfragen geprüft, 158 konkrete Figurenhinweise lokal integriert – 21.10.2026](../../../docs/Besetzungsfragen-2026-10-21/Pruefbericht.md)
+
 - [Supabase ab 30.10.2026: explizite Rechte für neue Tabellen; Free-Tarif und laufendes Quiz weiter nutzbar – lesend geprüft am 21.10.2026](../../../docs/Konten-Einrichtung.md#supabase-ankündigung-zum-30102026--geprüft-am-21102026)
 
 **21.10.2026 – Version 83 veröffentlicht:** 2.040 geprüfte Preis-/Personenfragen, gemeinsame größere Erfolgsembleme und technische Fachreview-Verbesserungen jetzt öffentlich. Weiterhin 15.295 Fragen / 14.628 Ziele in 39 Paketen; 428 Schauspieler. 510 Logiktests und 415 unterschiedliche Browserfälle erfolgreich, ein geplanter Skip. Drei Migrationen und Katalog aktiviert; 30 private Quelltabellen in konsistenten Transaktionen unverändert bestätigt. Echte Spieler-/Geräteabnahme bleibt offen. [Nachweis](../../../docs/Veroeffentlichung-2026-10-21-Version-83.json).

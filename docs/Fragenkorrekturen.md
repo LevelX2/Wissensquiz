@@ -1,5 +1,9 @@
 # Bestätigte Fragenkorrekturen
 
+## Besetzungsfragen mit Figurenkontext – 21.10.2026
+
+Auf den Hinweis zur leichten Mitch-Martin-Frage aus „Old School“ 197 kurze Rollenabfragen einschließlich Varianten gezielt geprüft und 158 Fragetexte mit konkretem Rollen-/Handlungskontext lokal in die App übernommen. Alle vier Optionen, Lösungen, Schwierigkeiten und Lernidentitäten erhalten; Rohquellen unverändert. Keine erneute vollständige Redaktion der betroffenen Filme. [Prüfbericht, Quellen und aktuelle Kompositionen](Besetzungsfragen-2026-10-21/Pruefbericht.md). Noch nicht veröffentlicht.
+
 ## Brazil (1985) – 10.10.2026
 
 Auf bestätigten Nutzerhinweis die Darstellernamen in der schweren Frage `SF-202609-P02-S-066` direkt ergänzt. Zuvor standen sie nur in der Vertiefung nach der Antwort. Neue Fassung:

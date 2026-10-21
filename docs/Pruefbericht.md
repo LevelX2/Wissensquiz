@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 21.10.2026 – Figurenkontext in kurzen Besetzungsfragen, lokal
+
+197 gezielt gefundene Film-Besetzungsfragen einschließlich Varianten redaktionell geprüft; 158 Fragetexte in zwölf Paketen verbessert, davon 132 leicht, 20 mittel und sechs schwer. 39 bereits erkennbare Kompositionen erhalten. Konkrete Rollenhinweise haben sich bei den korrigierten Fragen als ausreichend erwiesen; Stufen, Optionen, Lösungen und Lernidentitäten bleiben erhalten. Tatsächlicher App-Parser und vorbereitete Anzeige aller 197 Kompositionen erfolgreich abgeglichen; neun bestehende Tests in zwei Dateien und `git diff --check` erfolgreich. Weiterhin 15.295 Fragen / 14.628 Ziele / 39 Pakete. [Fokussierter Prüfbericht mit Quellen und Grenzen](Besetzungsfragen-2026-10-21/Pruefbericht.md). Kein Veröffentlichungsauftrag.
+
 ## 21.10.2026 – Veröffentlichung Version 83
 
 **21.10.2026 – Version 83 veröffentlicht:** 2.040 geprüfte Preis-/Personenfragen, gemeinsame größere Erfolgsembleme und technische Fachreview-Verbesserungen jetzt öffentlich. Weiterhin 15.295 Fragen / 14.628 Ziele in 39 Paketen; 428 Schauspieler. 510 Logiktests und 415 unterschiedliche Browserfälle erfolgreich, ein geplanter Skip. Drei Migrationen und Katalog aktiviert; 30 private Quelltabellen in konsistenten Transaktionen unverändert bestätigt. Echte Spieler-/Geräteabnahme bleibt offen. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
