@@ -136,9 +136,16 @@ test("Spielerbestenliste zeigt Wettbewerbs-XP aus echtem Serverabschluss", async
     preset: "standard",
     solutionDisplay: "question",
   });
-  const q = backend.release.questions.find(
-    (q) => q.id === session.current!.question.id,
-  )!;
+  const q = (
+    await backend.admin(() =>
+      backend.db.query<{
+        question: { correctId: string; answers: { id: string }[] };
+      }>(
+        "select question from quiz_ranked_internal.questions where run_id=$1 and index=0",
+        [session.run!.id],
+      ),
+    )
+  ).rows[0].question;
   await session.answer(q.answers.find((a) => a.id !== q.correctId)!.id);
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await page.getByRole("button", { name: "Karriere", exact: true }).click();

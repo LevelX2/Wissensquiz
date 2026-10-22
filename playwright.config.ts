@@ -47,6 +47,9 @@ export default defineConfig({
     },
     {
       name: "webkit-mobile",
+      // Multi-step UI and Axe checks need a functional budget on Windows WebKit.
+      // Response-performance assertions retain their separate timing limits.
+      timeout: 120000,
       testMatch: [
         "server-learning.spec.ts",
         "film-posters.spec.ts",
