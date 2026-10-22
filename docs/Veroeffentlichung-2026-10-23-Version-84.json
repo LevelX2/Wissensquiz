@@ -1,0 +1,161 @@
+{
+  "version": 84,
+  "sourceBranch": "main",
+  "sourceCommit": "4c5b46266b96052b0b40bdb6ecb5205306cf2ed1",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-22T23:10:35.980923+00:00",
+  "publishedAtBerlin": "23.10.2026 01:10:35",
+  "timezone": "Europe/Berlin",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "githubPush": false,
+  "changes": [
+    "Zwei schmale Rechteckskalen für Bekanntheit und Schwierigkeit auf Themenkarten; kennengelernte Filmfakten je Karte",
+    "158 überarbeitete Besetzungsfragen mit erkennbarem Figurenkontext",
+    "27 Fragen mit korrigierten vollständigen Figurennamen und Darstellerklammern; Überschneidungen ergeben insgesamt 180 geänderte Fragen"
+  ],
+  "data": {
+    "packages": 39,
+    "questions": 15295,
+    "goals": 14628,
+    "changedQuestions": 180,
+    "identityOrSolutionChanges": 0,
+    "reset": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_7241080f884081918134124cb425ef26",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 84,
+    "source": {
+      "commit_sha": "4c5b46266b96052b0b40bdb6ecb5205306cf2ed1"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_000000005824820a92bcdaa09485fe88",
+      "content_hash": "sha256:859d0d7b7954c36d19704942ad730c3056f6a8c8fef81e748ca7dc02a2864de4",
+      "size_bytes": 94812160,
+      "file_count": 995
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ada97d8f31c81918a4308d4f1080f14",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_7241080f884081918134124cb425ef26",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-22T23:10:35.980923+00:00"
+  },
+  "checks": {
+    "unitTests": 510,
+    "unitFiles": 83,
+    "unitInitial": {
+      "passed": 507,
+      "failed": 3,
+      "durationSeconds": 171.19
+    },
+    "unitRecheck": {
+      "tests": 10,
+      "files": 3,
+      "passed": true,
+      "durationSeconds": 11.42
+    },
+    "unitRepair": "Drei Bestandsprüfsummen nach bestätigter Redaktion aktualisiert; alle Erhaltungsprüfungen erhalten.",
+    "metadataAndTypescript": true,
+    "build": true,
+    "buildFiles": 994,
+    "buildBytes": 94020854,
+    "finalBuildByteEqualToBrowserBuild": true,
+    "diffCheck": true,
+    "dependenciesUnchanged": true,
+    "browser": {
+      "planned": 417,
+      "passed": 416,
+      "skipped": 1,
+      "unresolved": [],
+      "initial": {
+        "startTime": "2026-10-22T20:41:27.125Z",
+        "duration": 7948783.454,
+        "expected": 408,
+        "skipped": 1,
+        "unexpected": 8,
+        "flaky": 0
+      },
+      "recheck": {
+        "startTime": "2026-10-22T22:54:24.711Z",
+        "duration": 642368.451,
+        "expected": 19,
+        "skipped": 1,
+        "unexpected": 0,
+        "flaky": 0
+      },
+      "repairs": [
+        "Bestenlisten-Test verwendet die ausgegebene Serverfrage statt Rohantwort-IDs",
+        "Windows-WebKit erhält 120 Sekunden für lange Bedien-/Axe-Abläufe; Einzelassertionen und Geschwindigkeitsgrenzen unverändert",
+        "Zwei lokale Chromium-Modulladefehler ERR_NO_BUFFER_SPACE gezielt erfolgreich nachgeprüft"
+      ],
+      "successfulUnchangedChecksReused": true
+    }
+  },
+  "server": {
+    "contentHash": "d87aa6e31d04482f5b305e5f55bbeda8ca17195cf750e3bca19fbae53508e53f",
+    "staging": 0,
+    "privateSourceTablesUnchanged": 30,
+    "guardedActivation": true,
+    "repeatableReadSnapshot": true,
+    "migrations": []
+  },
+  "archive": {
+    "files": 995,
+    "buildFiles": 994,
+    "bytes": 79423024,
+    "sha256": "482deac07b7ebac454f6a8156517237c6c9b53d77553dded213984b61c8a5624",
+    "allBuildFilesByteEqual": true,
+    "onlyBuildAndHostingManifest": true,
+    "normalizedHostingManifest": "dist/.openai/hosting.json"
+  },
+  "publicFiles": {
+    "htmlStatus": 200,
+    "htmlHasExpectedAssets": true,
+    "checked": 993,
+    "expected": 993,
+    "failures": [],
+    "allFileHashesMatchBuild": true,
+    "indexStatus": 307,
+    "indexLocation": "/",
+    "releaseRpcStatus": 200,
+    "releaseRows": [
+      {
+        "version": 84,
+        "published_at": "2026-10-22T23:10:35.980923+00:00"
+      }
+    ],
+    "directMetadataStatus": 401,
+    "successfulFileChecksReused": true,
+    "initialCheckRepair": "All 993 file checks completed; query parameter on index.html was preserved by redirect. Canonical /index.html independently rechecked as 307 to /."
+  },
+  "nativeReleaseMetadataWrittenAndSeparatelyReadBack": true,
+  "cleanup": {
+    "completed": true,
+    "removedFiles": 6044,
+    "removedBytes": 967023099,
+    "ownAttributesCleared": 13,
+    "releaseDirectoryAbsent": true,
+    "sharedGitObjects": false,
+    "foreignMifuneConfigurationsHashUnchanged": true,
+    "dependenciesPreserved": true,
+    "ownedServersStopped": true
+  },
+  "limitations": [
+    "Keine neue physische Geräteabnahme; automatisierte WebKit-Audioprüfung nutzt auf Windows die bestehende Simulation."
+  ]
+}

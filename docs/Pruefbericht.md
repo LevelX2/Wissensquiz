@@ -1,5 +1,17 @@
 # Prüfnachweis
 
+## 23.10.2026 – Veröffentlichung Version 84
+
+Gesamtstand aus Main `4c5b46266b96052b0b40bdb6ecb5205306cf2ed1` am 23.10.2026 um 01:10:35 Uhr Europe/Berlin öffentlich veröffentlicht: schmale Themenfreischaltungen und beide Fragenkorrekturen vom 21.10.2026, zusammen 180 geänderte Fragen. Unverändert 15.295 Fragen / 14.628 Ziele / 39 Pakete. [IDs, Hashes und Abnahmen](Veroeffentlichung-2026-10-23-Version-84.json).
+
+Vollständiges `npm test`: 507 bestanden, drei veraltete Bestandsprüfsummen fehlgeschlagen (171,19 s). Nach Abgleich mit der bestätigten Textredaktion drei Erwartungen aktualisiert; alle zehn Tests der betroffenen drei Dateien erfolgreich nachgeprüft (11,42 s). Insgesamt alle 510 Tests abgenommen. Metadaten/TypeScript, Produktionsbuild und Diff-Prüfung erfolgreich; keine Abhängigkeitsänderung. Finaler Build mit allen 994 Dateien bytegleich zum Browserbuild.
+
+Vollständiges `npm run test:browser`: 417 Fälle, 408 bestanden, acht Fehler, ein vorgesehener Skip (7.948,78 s). Fehler: zweimal lokales Chromium `ERR_NO_BUFFER_SPACE` beim Modulladen, einmal ungeeignete Rohantwort-ID im Bestenlisten-Test und fünf Gesamtzeitüberschreitungen langer Windows-WebKit-Bedien-/Axe-Abläufe. Ausgegebene Serverfrage als Testbasis und WebKit-Funktionsbudget von 120 Sekunden; fachliche Einzelassertionen und Geschwindigkeitsgrenzen unverändert. Alle betroffenen Abläufe einschließlich Gegenprüfungen in Chromium und mobilem WebKit: 20 Fälle, 19 bestanden, derselbe vorgesehene Skip (642,37 s). Zusammen 416 unterschiedliche erfolgreiche Browserfälle, ein vorgesehener Skip, kein offener Fehler. Erfolgreiche unveränderte Prüfungen wiederverwendet, keine abgebrochenen Diagnosen als bestanden gezählt.
+
+Native Veröffentlichung `succeeded`; 30 private Quelltabellen während Katalogaktivierung atomar unverändert, keine neue Migration oder Rücksetzung. 993 öffentliche Dateien bytegleich, HTML mit erwarteten Assets, anonyme Versions-RPC und gesperrter Direktzugriff bestätigt. Weiterleitung ohne Prüfparameter getrennt erfolgreich geprüft. Echte Geräteabnahme bleibt vom automatisierten Nachweis getrennt.
+
+Eigene temporäre Veröffentlichungs- und Prüfarbeitsdaten nach dauerhafter Abnahme entfernt: 967.023.099 Bytes / 6.044 Dateien; Abwesenheit geprüft. Originale, Abhängigkeiten und fremde Mifune-Konfigurationen erhalten.
+
 ## 22.10.2026 – Schmale Themenfreischaltungen, lokal
 
 Zwei kompakte Rechteckskalen für Bekanntheit und Schwierigkeit in den Genre-, Schauspieler- und Preisträgerkarten; Stufennamen ausschließlich als Tooltip/Screenreadertext. Themenkarten nennen zusätzlich die bereits kennengelernten eindeutigen Filmfakten. Vorhandene Serverübersicht verwendet, keine geänderten Lern- oder Speicherregeln. [Anzeigevertrag](Filmreise-Freischaltung-2026-10-11.md#schmale-freischaltskalen-auf-themenkarten--22102026).

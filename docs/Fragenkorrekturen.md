@@ -2,11 +2,11 @@
 
 ## Vollständige Figurennamen und Darstellerklammern – 21.10.2026
 
-Auf Nutzerhinweis zur Bridget-Jones-Kurzantwort 27 Fragen in fünf Paketen gezielt bereinigt: 49 Textfelder, darunter vier Fragetexte, 19 Kurzantworten, zwei Vertiefungen und 24 Rückmeldungen. Zusätze stehen hinter dem vollständigen vorhandenen Namen; unpassende Einsprengsel in Titel und Wörter entfallen. Vier Felder der letzten Redaktionsfassung nachgezogen. IDs, Antworten, Lösungen und Stufen erhalten. [Umfang, Ursachenprüfung und Abnahme](Figurennamen-2026-10-21/Pruefbericht.md). Noch nicht veröffentlicht.
+Auf Nutzerhinweis zur Bridget-Jones-Kurzantwort 27 Fragen in fünf Paketen gezielt bereinigt: 49 Textfelder, darunter vier Fragetexte, 19 Kurzantworten, zwei Vertiefungen und 24 Rückmeldungen. Zusätze stehen hinter dem vollständigen vorhandenen Namen; unpassende Einsprengsel in Titel und Wörter entfallen. Vier Felder der letzten Redaktionsfassung nachgezogen. IDs, Antworten, Lösungen und Stufen erhalten. [Umfang, Ursachenprüfung und Abnahme](Figurennamen-2026-10-21/Pruefbericht.md). Seit Version 84 veröffentlicht.
 
 ## Besetzungsfragen mit Figurenkontext – 21.10.2026
 
-Auf den Hinweis zur leichten Mitch-Martin-Frage aus „Old School“ 197 kurze Rollenabfragen einschließlich Varianten gezielt geprüft und 158 Fragetexte mit konkretem Rollen-/Handlungskontext lokal in die App übernommen. Alle vier Optionen, Lösungen, Schwierigkeiten und Lernidentitäten erhalten; Rohquellen unverändert. Keine erneute vollständige Redaktion der betroffenen Filme. [Prüfbericht, Quellen und aktuelle Kompositionen](Besetzungsfragen-2026-10-21/Pruefbericht.md). Noch nicht veröffentlicht.
+Auf den Hinweis zur leichten Mitch-Martin-Frage aus „Old School“ 197 kurze Rollenabfragen einschließlich Varianten gezielt geprüft und 158 Fragetexte mit konkretem Rollen-/Handlungskontext lokal in die App übernommen. Alle vier Optionen, Lösungen, Schwierigkeiten und Lernidentitäten erhalten; Rohquellen unverändert. Keine erneute vollständige Redaktion der betroffenen Filme. [Prüfbericht, Quellen und aktuelle Kompositionen](Besetzungsfragen-2026-10-21/Pruefbericht.md). Seit Version 84 veröffentlicht.
 
 ## Brazil (1985) – 10.10.2026
 

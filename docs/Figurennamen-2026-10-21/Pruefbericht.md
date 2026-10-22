@@ -1,6 +1,6 @@
 # Vollständige Figurennamen und passende Darstellerzusätze
 
-Stand: 21.10.2026, lokal korrigiert, noch nicht veröffentlicht.
+Redaktion: 21.10.2026. Seit 23.10.2026 als Version 84 öffentlich veröffentlicht. [Veröffentlichungsnachweis](../Veroeffentlichung-2026-10-23-Version-84.json).
 
 Auslöser war der Screenshot zur leichten Beziehungsfrage aus „Bridget Jones – Am Rande des Wahnsinns“. Der [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-21%20Nutzerauftrag%20Figurennamen%20und%20Darstellerklammern.txt) verlangt eine gezielte Bestandskorrektur unpassend platzierter Darstellerzusätze.
 

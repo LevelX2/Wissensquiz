@@ -1,5 +1,19 @@
 # Sites-Veröffentlichung
 
+## Version 84: schmale Themenfreischaltungen und Fragenkorrekturen
+
+Auf [Nutzerauftrag vom 22.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-22%20Nutzerauftrag%20Main%20Gesamtveroeffentlichung.txt) den aktuellen Main-Stand veröffentlicht.
+
+Am **23.10.2026 um 01:10:35 Uhr Europe/Berlin** aus Main (`4c5b46266b96052b0b40bdb6ecb5205306cf2ed1`) öffentlich veröffentlicht; nativer Status **succeeded**, Zugriff **public, Revision 2** erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-23-Version-84.json).
+
+Enthält zwei schmale Rechteckskalen für Bekanntheit und Schwierigkeit je Filmgenre, Schauspieler und Preisträger sowie kennengelernte Filmfakten auf Themenkarten. Dazu die Besetzungsfragen- und Figurennamenkorrekturen vom 21.10.2026: insgesamt 180 geänderte Fragen bei unveränderten IDs, Wissenszielen, Stufen und Lösungsschlüsseln. Weiterhin 15.295 Fragen / 14.628 Ziele in 39 Paketen. Keine neue Migration, kein Spielstandreset und kein GitHub-Push.
+
+510 Logiktests nach gezielten Nachprüfungen, Metadaten/TypeScript, Build und Diff-Prüfung erfolgreich. Vollständiger Browserlauf: 408 bestanden, acht Fehler, ein vorgesehener Skip. Nachlauf: 19 bestanden und derselbe vorgesehene Skip; zusammen **416 unterschiedliche erfolgreiche Browserfälle, ein Skip, keine offenen Fehler**. Drei alte Bestandsprüfsummen aktualisiert, Bestenlisten-Test auf ausgegebene Serverantworten umgestellt; WebKit-Funktionsbudget für lange Bedien-/Axe-Abläufe unter Windows auf 120 Sekunden gesetzt. Einzelassertionen und Geschwindigkeitsgrenzen erhalten. Zwei lokale Chromium-Modulladefehler erfolgreich wiederholt. Finaler Build in allen 994 Dateien bytegleich zum geprüften Build.
+
+Regulärer aktueller Sites-Helfer verwendet: Quellcommit übertragen, komprimiertes Archiv mit 995 Dateien einschließlich normalisiertem `dist/.openai/hosting.json` paketiert und unverändert nativ gespeichert; native Speicherung normalisiert TAR-Metadaten. Katalogprüfsumme vor Aktivierung vollständig bestätigt. 30 private Quelltabellen innerhalb einer konsistenten Aktivierungstransaktion unverändert bestätigt; Staging leer. Alle 993 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich, Startseite mit erwarteten Assets. `/index.html` unabhängig ohne Prüfparameter als 307 auf `/` bestätigt; die zuvor geprüfte Variante mit Suchparameter erhält regulär diesen Parameter. Erfolgreiche Dateiprüfungen wiederverwendet. Veröffentlichungszeit separat gespeichert, getrennt gelesen und anonym bestätigt; direkter Tabellenzugriff 401. Browserübergabe in Codex angefordert.
+
+Eigene Veröffentlichungskopie, Katalog-SQL, Prüfbuild, Browserausgaben, Kontrollentpackung und Transportarchiv nach Pfad-/Verknüpfungsprüfung entfernt; Abwesenheit bestätigt (**967.023.099 Bytes, 6.044 Dateien**). 13 eigene Dateiattribute vor normaler PowerShell-Löschung bereinigt, keine geteilten Git-Objekte oder Abhängigkeitsverknüpfungen. Abhängigkeiten, Originalmetadaten und beide fremden Mifune-Konfigurationen erhalten; keine eigenen Prüfserver mehr aktiv.
+
 ## Version 83: Preis-/Personenredaktion, Erfolgsembleme und Fachreview
 
 Am **21.10.2026 um 00:00:41 Uhr Europe/Berlin** aus Main (`f6b6dc1d2bd2bdaf69afe74d0e34f99efa61c875`) öffentlich veröffentlicht; nativer Status **succeeded**, public Revision 2 erhalten. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).

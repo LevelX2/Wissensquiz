@@ -1,10 +1,12 @@
 # Wissensindex
 
-- [Schmale Themenfreischaltungen: Bekanntheit und Schwierigkeit als zwei Rechteckskalen, kennengelernte Filmfakten je Karte – 22.10.2026, lokal](../../../docs/Filmreise-Freischaltung-2026-10-11.md#schmale-freischaltskalen-auf-themenkarten--22102026)
+- [Version 84: schmale Themenfreischaltungen und 180 Fragenkorrekturen veröffentlicht; Prüfungen und Spielstandschutz – 23.10.2026](../../../docs/Veroeffentlichung-2026-10-23-Version-84.json)
 
-- [Vollständige Figurennamen und passende Darstellerklammern: 27 Fragen / 49 Textfelder lokal korrigiert – 21.10.2026](../../../docs/Figurennamen-2026-10-21/Pruefbericht.md)
+- [Schmale Themenfreischaltungen: Bekanntheit und Schwierigkeit als zwei Rechteckskalen, kennengelernte Filmfakten je Karte – 22.10.2026, seit Version 84 veröffentlicht](../../../docs/Filmreise-Freischaltung-2026-10-11.md#schmale-freischaltskalen-auf-themenkarten--22102026)
 
-- [Besetzungsfragen: 197 kurze Rollenabfragen geprüft, 158 konkrete Figurenhinweise lokal integriert – 21.10.2026](../../../docs/Besetzungsfragen-2026-10-21/Pruefbericht.md)
+- [Vollständige Figurennamen und passende Darstellerklammern: 27 Fragen / 49 Textfelder seit Version 84 veröffentlicht – 21.10.2026](../../../docs/Figurennamen-2026-10-21/Pruefbericht.md)
+
+- [Besetzungsfragen: 197 kurze Rollenabfragen geprüft, 158 konkrete Figurenhinweise seit Version 84 veröffentlicht – 21.10.2026](../../../docs/Besetzungsfragen-2026-10-21/Pruefbericht.md)
 
 - [Supabase ab 30.10.2026: explizite Rechte für neue Tabellen; Free-Tarif und laufendes Quiz weiter nutzbar – lesend geprüft am 21.10.2026](../../../docs/Konten-Einrichtung.md#supabase-ankündigung-zum-30102026--geprüft-am-21102026)
 

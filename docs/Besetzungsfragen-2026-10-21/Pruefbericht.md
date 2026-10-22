@@ -1,6 +1,6 @@
 # Besetzungsfragen mit erkennbarem Figurenkontext
 
-Stand: 21.10.2026, lokal auf Main integriert, noch nicht veröffentlicht.
+Redaktion: 21.10.2026. Seit 23.10.2026 als Version 84 öffentlich veröffentlicht. [Veröffentlichungsnachweis](../Veroeffentlichung-2026-10-23-Version-84.json).
 
 Auf [Nutzerauftrag](../../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-21%20Nutzerauftrag%20Besetzungsfragen.txt) gezielt die Kombination aus wenig aussagekräftigem Rollennamen, leichter Einstufung und mehreren Mitspielern unter den Antworten durchgesehen. Der Figurenkontext hat Vorrang. Eine höhere Schwierigkeit oder andere Antwortalternativen sind nachrangige Möglichkeiten, wenn ein kurzer, hilfreicher Hinweis nicht genügt.
 
