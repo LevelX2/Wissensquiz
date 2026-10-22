@@ -35,6 +35,11 @@ export function TopicsPage({
   playGenre: (genre: string) => Promise<void>;
 }) {
   const areas = useServerView({ action: "areas" });
+  const unlocks = useServerView({
+    action: "selection",
+    mode: "entdecken",
+    topic: "Alle Themen",
+  });
   const summaries = new Map(areas.value?.map((a) => [a.topic, a]));
   return (
     <>
@@ -66,6 +71,20 @@ export function TopicsPage({
             Auf der Startseite kannst Du mehrere Genres und Schwierigkeitsstufen
             kombinieren.
           </p>
+          <p className="muted tiny">
+            Filmreise: Gefüllte Rechtecke sind freigeschaltet. Classics und
+            Arthouse folgen den Stufen ihrer Filmgenres.
+          </p>
+          {unlocks.error ? (
+            <p role="alert">
+              {unlocks.error}
+              <button onClick={unlocks.retry}>
+                Freischaltungen erneut laden
+              </button>
+            </p>
+          ) : !unlocks.value ? (
+            <p role="status">Deine Freischaltungen werden geladen …</p>
+          ) : null}
           {areas.error && (
             <p role="alert">
               {areas.error}
@@ -81,6 +100,7 @@ export function TopicsPage({
                   topic={category}
                   state={state}
                   summary={summaries.get(category)}
+                  unlocks={unlocks.value?.journey[category]}
                   onBrowse={() =>
                     setTopicScope({ kind: "category", name: category })
                   }
@@ -112,6 +132,7 @@ export function TopicsPage({
                   genre
                   state={state}
                   summary={summaries.get(t)}
+                  unlocks={unlocks.value?.journey[t]}
                   onPlay={() => playGenre(t)}
                   onBrowse={() => setTopicScope({ kind: "genre", name: t })}
                 />

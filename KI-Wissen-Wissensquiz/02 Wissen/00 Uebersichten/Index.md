@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Schmale Themenfreischaltungen: Bekanntheit und Schwierigkeit als zwei Rechteckskalen, kennengelernte Filmfakten je Karte – 22.10.2026, lokal](../../../docs/Filmreise-Freischaltung-2026-10-11.md#schmale-freischaltskalen-auf-themenkarten--22102026)
+
 - [Vollständige Figurennamen und passende Darstellerklammern: 27 Fragen / 49 Textfelder lokal korrigiert – 21.10.2026](../../../docs/Figurennamen-2026-10-21/Pruefbericht.md)
 
 - [Besetzungsfragen: 197 kurze Rollenabfragen geprüft, 158 konkrete Figurenhinweise lokal integriert – 21.10.2026](../../../docs/Besetzungsfragen-2026-10-21/Pruefbericht.md)

@@ -3,7 +3,8 @@ import { genreOf, genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { categories, type Category, ACTORS } from "./categories";
 import { learningOverview } from "./learningProgress";
-import type { TopicSummary } from "./serverViews";
+import type { Journey, TopicSummary } from "./serverViews";
+import { TopicUnlockScales } from "./TopicUnlockScales";
 
 export function TopicCard({
   topic,
@@ -12,6 +13,7 @@ export function TopicCard({
   onBrowse,
   questions = [],
   summary,
+  unlocks,
   genre = false,
 }: {
   topic: string;
@@ -20,6 +22,7 @@ export function TopicCard({
   onBrowse?: () => void;
   questions?: Question[];
   summary?: TopicSummary;
+  unlocks?: Journey[string];
   genre?: boolean;
 }) {
   const cardGenres =
@@ -58,6 +61,13 @@ export function TopicCard({
       <div className="topic-body">
         <span className="eyebrow">{count} Filmfakten</span>
         <h3>{genre ? genreLabel(topic) : topic}</h3>
+        <p className="topic-encountered">
+          <b>
+            {count - progress.unseen} von {count}
+          </b>{" "}
+          Filmfakten kennengelernt
+        </p>
+        {unlocks && <TopicUnlockScales progress={unlocks} />}
         <div
           className="mini-stats learning-stage-counts"
           aria-label="Filmfakten nach Lernstufe"

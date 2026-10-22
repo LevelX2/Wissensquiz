@@ -90,6 +90,45 @@
   color: #4c5b60;
   font-size: var(--font-small);
 }
+.topic-encountered {
+  color: #37474b;
+  font-size: var(--font-small);
+  line-height: 1.5;
+  margin: 0 0 14px;
+}
+.topic-unlocks {
+  display: grid;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.topic-unlock-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 80px;
+  gap: 10px;
+  align-items: center;
+  font-size: var(--font-small);
+  color: #37474b;
+}
+.topic-unlock-scale {
+  display: flex;
+  gap: 4px;
+}
+.topic-unlock-segment {
+  flex: 1;
+  height: 9px;
+  border: 1px solid #728581;
+  border-radius: 2px;
+  background: #edf1f0;
+}
+.topic-unlock-segment.is-open {
+  background: #286758;
+  border-color: #286758;
+  box-shadow: inset 0 2px 0 #ffffff35;
+}
+.topic-unlock-segment.is-unavailable {
+  background: transparent;
+  border-style: dashed;
+}
 .mini-stats b {
   display: block;
   font-size: 16px;

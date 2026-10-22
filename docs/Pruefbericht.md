@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 22.10.2026 – Schmale Themenfreischaltungen, lokal
+
+Zwei kompakte Rechteckskalen für Bekanntheit und Schwierigkeit in den Genre-, Schauspieler- und Preisträgerkarten; Stufennamen ausschließlich als Tooltip/Screenreadertext. Themenkarten nennen zusätzlich die bereits kennengelernten eindeutigen Filmfakten. Vorhandene Serverübersicht verwendet, keine geänderten Lern- oder Speicherregeln. [Anzeigevertrag](Filmreise-Freischaltung-2026-10-11.md#schmale-freischaltskalen-auf-themenkarten--22102026).
+
+`npm run check` (Laufzeitmetadaten und TypeScript) und `git diff --check` erfolgreich. Ein neuer gezielter Chromium-Browserfall erfolgreich (44,3 s; Gesamtlauf 49,5 s): erste Freigaben, drei Filmschwierigkeiten versus vier bei Personen/Preisen, unabhängig geöffnete zweite Schwierigkeit bei erster Bekanntheitsgruppe, korrekter Kennengelernt-Zähler, zwei Skalenzeilen ohne sichtbare Stufennamen, Höhe unter 55 px, 320/390 px ohne horizontalen Überlauf, Axe-WCAG-A/AA und erhaltene Antwortereignisse. Beide Kartenansichten als Screenshots erzeugt, 320-px-Ansicht visuell geprüft. Isoliertes synthetisches Konto und kontrollierte Testzeit, Vite-Entwicklungsserver, kein Produktionsbuild. Erster Lauf startete wegen fehlender Testport-Umgebungsvariable ohne Testanmeldung; Testkonfiguration korrigiert und derselbe Fall vollständig erfolgreich wiederholt. Eigene temporäre Testkonfiguration und Ausgaben nach Abnahme entfernt. Keine Veröffentlichung und kein Push.
+
 ## 21.10.2026 – Darstellerklammern und vollständige Figurennamen, lokal
 
 27 Fragen in fünf aktiven Paketen korrigiert, 49 Textfelder: vier Fragen, 19 Kurzantworten, zwei Vertiefungen und 24 Rückmeldungen. Vier fehlerhafte Felder der letzten Redaktionsfassung nachgezogen. Vollständige Namen und Titel bleiben zusammen; unpassende und doppelte Darstellerzusätze sind entfernt. Der Screenshotfehler steht bereits in der CSV; keine automatische Namensergänzung zur Laufzeit. IDs, Optionen, Lösungen und Stufen erhalten. Tatsächlicher App-Import aller 39 Pakete mit 15.295 Fragen / 14.628 Zielen und aufbereitete Anzeigen aller 27 Korrekturen erfolgreich geprüft. Neun gezielte Tests in zwei Dateien sowie `git diff --check` erfolgreich. [Prüfbericht und aktuelle Kompositionen](Figurennamen-2026-10-21/Pruefbericht.md). Keine Veröffentlichung.
