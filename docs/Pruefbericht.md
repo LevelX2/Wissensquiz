@@ -1,12 +1,22 @@
 # Prüfnachweis
 
+## 25.10.2026 – Bestätigte ungenutzte Altmodule entfernt, lokal
+
+Auf Folgeauftrag die zuvor belegten Entfernungskandidaten bereinigt: `src/guestActivityDelivery.ts` mit der früheren lokalen Gastmelde-Warteschlange, `src/collection.ts` mit `answeredTopics` und `src/catalogIndex.ts`. Die drei Module hatten ausschließlich Testverbraucher. Ihre separaten Tests `guest-activity.test.ts`, `collection.test.ts` und `catalogIndex.test.ts` entfallen entsprechend. Im weiterhin aktiven `dont-know.test.ts` nur die Referenz auf den entfernten Sammlungshelfer gestrichen; Auswertung, Fragenstatistik, Profil und Spielstandsvalidierung bleiben geprüft. Eine identisch doppelte JSON-Validierungsassertion und die irreführende Sicherungsbezeichnung im selben Test ebenfalls bereinigt.
+
+Die ungenutzte Entwicklungsabhängigkeit `fake-indexeddb` mit npm offline und ohne Installationsskripte deinstalliert. Manifest, Lockdatei und lokale Installation enthalten das Paket nicht mehr; keine weiteren Abhängigkeitsänderungen. Erneute Aufrufersuche in Anwendung, Werkzeugen und Tests ohne verbleibende Codeverweise auf die entfernten Module oder Symbole.
+
+**40 gezielte Tests in sechs Dateien erfolgreich:** `dont-know`, `trial`, `server-views`, `categories`, `filters` und `guest-activity-database`. Enthalten sind echte isolierte PGlite-Abfragen für Serverübersichten und Gaststatistik; Proberunde, Antwortwertung und aktive Filterverträge bleiben geprüft. `npm run check` einschließlich Laufzeitmetadaten und TypeScript sowie `git diff --check` erfolgreich. Keine vollständige Testsuite, kein Build und keine Browserprüfung für die Entfernung unerreichter Module. Testberichte werden durch die bestehenden isolierten Helfer selbst bereinigt; keine eigenen dauerhaften Prüfartefakte angelegt.
+
+Offizieller CSV-Katalogaufbau und aktive Spielstandsvalidierung bleiben erforderlich. Kein Datenbankvertrag geändert, keine produktiven Zugriffe, keine Veröffentlichung und kein Push. Fremde Mifune-Konfigurationen erhalten.
+
 ## 25.10.2026 – Verbliebene Importlogik und ungenutzte Helfer geprüft, lokal
 
 Den statischen Modulgraphen ab `src/main.tsx` einschließlich dynamischer Imports und die Aufrufer in Anwendung, Betreiberwerkzeugen und Tests geprüft. `importer.ts` und `packages.ts` sind nicht vom Browser-Einstieg erreichbar, werden aber von `prepare-server-content.mjs` für den offiziellen Katalog benötigt. `backupValidation.ts` und `backupSchema.ts` prüfen weiterhin aktuelle Onlinespielstände und Proberunden. Diese aktiven Funktionen bleiben erhalten; keine neue Import- oder Kompatibilitätslogik.
 
 Der JSON-Downloadhelfer `src/download.ts` hatte keine Aufrufer und wurde entfernt. Den Importvertrag um die aktuelle Betreibergrenze ergänzt und dessen veraltete Aussagen zur manuellen JSON-Sicherung berichtigt.
 
-Weitere Entfernungskandidaten, hier noch unverändert: `src/guestActivityDelivery.ts` (Gastaktivitäts-Warteschlange, nur durch `tests/guest-activity.test.ts` erreicht), `src/collection.ts` (`answeredTopics`, nur in `collection.test.ts` und `dont-know.test.ts` verwendet), `src/catalogIndex.ts` (nur `catalogIndex.test.ts`) sowie `fake-indexeddb` (in `package.json`/Lockdatei deklariert, keine Verbraucher im ausführbaren Projektcode gefunden). Die heutige Sammlung verwendet Serverabfragen. Eine Entfernung dieser Kandidaten muss die zugehörigen Tests auf tatsächlich aktive Funktionen ausrichten; aus Testreferenzen allein folgt kein Bedarf im Produkt.
+Bei dieser Vorprüfung noch unveränderte Entfernungskandidaten: `src/guestActivityDelivery.ts` (Gastaktivitäts-Warteschlange, nur durch `tests/guest-activity.test.ts` erreicht), `src/collection.ts` (`answeredTopics`, nur in `collection.test.ts` und `dont-know.test.ts` verwendet), `src/catalogIndex.ts` (nur `catalogIndex.test.ts`) sowie `fake-indexeddb` (in `package.json`/Lockdatei deklariert, keine Verbraucher im ausführbaren Projektcode gefunden). Die heutige Sammlung verwendet Serverabfragen. **Anschließend auf Folgeauftrag vollständig entfernt; siehe Abnahme oben.**
 
 Prüfung: Aufrufer- und Modulgraphenanalyse, `npm run check` einschließlich TypeScript und Laufzeitmetadaten sowie `git diff --check` erfolgreich. Kein Produktionsbuild oder Browser-Gesamtlauf für die Entfernung eines unbenutzten Helfers. Keine produktiven Daten, Veröffentlichung oder Push.
 

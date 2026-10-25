@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**25.10.2026 – Ungenutzte Altmodule lokal entfernt:** Alte Gastmelde-Warteschlange, lokale Sammlungs-/Kataloghelfer, deren ausschließliche Tests und `fake-indexeddb` entfernt. Zuvor bereits den verwaisten JSON-Download entfernt; offizieller CSV-Katalogaufbau und aktive Spielstandsvalidierung bleiben erforderlich. 40 gezielte Tests und Metadaten/TypeScript erfolgreich; keine Veröffentlichung oder Datenbankänderung. [Abnahme](../docs/Pruefbericht.md#25102026--bestätigte-ungenutzte-altmodule-entfernt-lokal).
+
 **25.10.2026 – GitHub-Tickets lokal bearbeitet:** Acht offene Meldungen gelesen, sieben korrigiert: Rambo-Poster, drei Reihenangaben sowie Elvis-, Terminator- und Nomadland-Texte. Schwarzenegger-Porträt im aktuellen Stand bereits schlüssig. 50 gezielte Tests und Metadaten/TypeScript erfolgreich; IDs und Lösungen erhalten. Noch nicht veröffentlicht, Tickets bleiben offen. [Entscheidungen und Quellen](../docs/GitHub-Tickets-2026-10-25.md).
 
 **25.10.2026 – Zwei XP-Wertungen lokal ergänzt:** Highscores → Karriere startet mit „Lernfortschritt · Karriere-XP“ aus denselben Summen wie das Profil; „Wettbewerbs-XP“ bleibt eigenständig. Ursache der gemeldeten Levelabweichung war die bisher ausschließlich angezeigte Wettbewerbswertung. Oberfläche und Migration nur lokal, noch nicht veröffentlicht. [Vertrag](../docs/Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal).

@@ -307,6 +307,7 @@
 - [Preisträger-Quellennachweis](../../01%20Rohquellen/Preistraeger_Quellennachweis.json)
 
 - [Starten, Funktionen und Projektaufbau](../../../README.md)
+- [Entfernte Altmodule: Gastmelder, lokale Kataloghelfer und IndexedDB-Testabhängigkeit](../../../docs/Pruefbericht.md#25102026--bestätigte-ungenutzte-altmodule-entfernt-lokal)
 - [Betreiber-CSV, Feldzuordnung und Abgrenzung zur entfernten Spieler-Importfunktion](../../../docs/Importformat.md)
 - [Kopierfertiger Auftrag für neue Fragenpakete und Prioritäten](../../../docs/Prompt-Neue-Fragenpakete.md)
 - [Fragenbestand und 300 Filmfassungen – Stand 27.09.2026](../../../docs/Fragenbestand-2026-09-27.json)

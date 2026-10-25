@@ -1,5 +1,9 @@
 # Öffentliche Bestenliste und Gastaktivität
 
+## Ungenutzter Gastmelder entfernt – 25.10.2026, lokal
+
+Die frühere lokale Gastaktivitäts-Warteschlange `guestActivityDelivery.ts` wurde nach Aufruferprüfung samt ihren ausschließlichen Tests entfernt. Sie war bereits nicht mehr Teil des vom Browser-Einstieg erreichbaren Codes. Die folgenden Angaben zur IndexedDB-Gastablage, lokalen Zustellbelegen und deren Wiederholungsmechanik dokumentieren den früheren Stand. Der aktuelle Gastablauf ist die befristete [Proberunde](Anmeldung-und-Online-Spielstand.md). Die öffentliche Siebentagesabfrage in `GuestActivity.tsx` und bestehende Datenbankverträge sind durch diese Quellcodebereinigung unverändert; die vorhandenen Datenbanktests bleiben erhalten. [Abnahme der Entfernung](Pruefbericht.md#25102026--bestätigte-ungenutzte-altmodule-entfernt-lokal).
+
 ## Getrennte XP-Wertungen – 25.10.2026, lokal
 
 Auf Nutzerwunsch bietet der Highscore-Bereich „Karriere“ zwei eigene XP-Wertungen. Standard ist **Lernfortschritt · Karriere-XP**: aktuelle Karriere-XP, Level und Titel entsprechen dem Profil und berücksichtigen alle Spielmodi nach dem [Karrierevertrag](Filmkarriere-und-XP.md). **Wettbewerbs-XP** bleibt die eigenständige Wertung aus abgeschlossenen servergeprüften Zeitspielen und vollständigen eigenen Duellrunden. Die weiteren Sortierungen nach richtigen Antworten, Runden und Trefferquote beziehen sich weiterhin auf diese Wettbewerbsleistungen. Beide XP-Wertungen sind global über alle Genres und Stufen; Filter betreffen nur die übrigen Wettbewerbsvergleiche.

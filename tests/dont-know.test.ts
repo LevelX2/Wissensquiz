@@ -8,7 +8,6 @@ import { openMistakes } from "../src/errorTraining";
 import { roundSummary } from "../src/roundSummary";
 import { questionHistory } from "../src/questionHistory";
 import { profileStats } from "../src/ProfileStats";
-import { answeredTopics } from "../src/collection";
 
 const catalog = importCsv(readFileSync("public/fragen.csv", "utf8")).questions;
 const qs = [...new Map(catalog.map((q) => [q.topic, q])).values()].slice(0, 4);
@@ -79,7 +78,7 @@ describe("Keine Ahnung", () => {
     });
   }
 
-  it("trennt Keine Ahnung, echte Fehlantworten und Zeitabläufe in Auswertung, Profil und Sammlung", () => {
+  it("trennt Keine Ahnung, echte Fehlantworten und Zeitabläufe in Auswertung, Fragenstatistik und Profil", () => {
     const { state, round } = fixture("ueben", 4);
     answer(state, round.id, qs[0].id, { dontKnow: true }, 100, now + 100);
     answer(state, round.id, qs[1].id, null, 30000, now + 200);
@@ -111,16 +110,12 @@ describe("Keine Ahnung", () => {
       correct: 1,
       accuracy: 33,
     });
-    expect(answeredTopics(state)).toEqual(
-      new Set([qs[0].topic, qs[2].topic, qs[3].topic]),
-    );
   });
 
-  it("erhält die ausdrückliche Wahl in JSON- und komprimierten Kontosicherungen und verwirft widersprüchliche Markierungen", async () => {
+  it("erhält die ausdrückliche Wahl bei der Spielstandsvalidierung und verwirft widersprüchliche Markierungen", () => {
     const { state, round } = fixture("rekord");
     answer(state, round.id, qs[0].id, { dontKnow: true }, 1000, now + 1000);
     const expected = validateBackup(state);
-    expect(validateBackup(JSON.parse(JSON.stringify(state)))).toEqual(expected);
     expect(validateBackup(JSON.parse(JSON.stringify(state)))).toEqual(expected);
     for (const answerId of [
       qs[0].correctId,
