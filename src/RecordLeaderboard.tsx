@@ -112,8 +112,8 @@ export function Leaderboard({
         <>
           <h3>Bestenliste der Spieler</h3>
           <p className="muted">
-            Wettbewerbs-XP und Leistungen aus servergeprüften Spielen. Deine
-            private Filmkarriere bleibt im Profil.
+            Zwei getrennte Wertungen: Dein Lernfortschritt mit Karriere-XP und
+            Deine Leistungen im Wettbewerb mit Wettbewerbs-XP.
           </p>
           {connection && (
             <button
@@ -121,14 +121,14 @@ export function Leaderboard({
               onClick={() => setFilteredCareer((v) => !v)}
             >
               {filteredCareer
-                ? "Öffentliche Karriere zeigen"
+                ? "Öffentliche Bestenliste zeigen"
                 : "Spielervergleich mit Filtern"}
             </button>
           )}
           <PlayerLeaderboard
             key={String(filteredCareer)}
             state={state}
-            initialSort="experience"
+            initialSort="career_experience"
             publicList={!filteredCareer}
           />
         </>

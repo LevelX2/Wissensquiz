@@ -6,6 +6,7 @@ import { duelSchema, duelViewSchema, duelStartSchema } from "../src/duels";
 import { OnlineGameStore } from "../src/onlineGameStore";
 import { questionSchema } from "../src/model";
 import { startRound, answer, complete } from "../src/engine";
+import { LearningSession } from "../src/learningRuns";
 
 let fixture: Awaited<ReturnType<typeof syncFixture>>, release: TestContent;
 beforeAll(async () => {
@@ -197,6 +198,151 @@ it("ignoriert erfundene Speicherwerte, zählt Serverläufe einmal und erhält pr
     ),
   ).toMatchObject([{ experience: 86 }]);
 });
+it("zeigt aktuellen Lernfortschritt getrennt vom Wettbewerb und übernimmt nur berechnete Karriere-XP", async () => {
+  const { owner, api } = await fixture.client();
+  const store = new OnlineGameStore(api, owner);
+  await store.open();
+  const ownCareer = async () =>
+    (await players(owner, "career_experience")).find((r) => r.is_mine)!;
+  expect(await ownCareer()).toMatchObject({ completed: 0, experience: 0 });
+  expect((await players(owner)).find((r) => r.is_mine)).toBeUndefined();
+  const session = new LearningSession(api);
+  await session.start({
+    mode: "ueben",
+    topic: "Alle Themen",
+    solutionDisplay: "question",
+    filters: {
+      genres: ["Prüfgenre"],
+      sources: ["film"],
+      difficulties: ["leicht", "mittel", "schwer"],
+      familiarities: [1, 2, 3, 4],
+    },
+  });
+  for (let i = 0; i < 10; i++) {
+    await session.answer("a", false);
+    if (i < 9) await session.next();
+  }
+  await session.finish();
+  await store.refresh();
+  expect(store.read().experience).toBe(63);
+  expect(await ownCareer()).toMatchObject({
+    completed: 1,
+    answered: 10,
+    correct: 10,
+    experience: 63,
+  });
+  expect((await players(owner)).find((r) => r.is_mine)).toBeUndefined();
+  await solo(api);
+  const competition = (await players(owner)).find((r) => r.is_mine)!;
+  expect(competition).toMatchObject({ completed: 1, experience: 43 });
+  await store.refresh();
+  expect((await ownCareer()).experience).toBe(store.read().experience);
+  await store.update((s) => {
+    s.experience = 999999999;
+  });
+  expect((await ownCareer()).experience).toBe(store.read().experience);
+  expect((await ownCareer()).experience).toBeLessThan(999999999);
+  expect((await players(owner)).find((r) => r.is_mine)).toEqual(competition);
+  const anonymous = await as(
+    "",
+    async () =>
+      (
+        await fixture.db.query<Record<string, unknown>>(
+          "select * from public.quiz_public_players('career_experience',0)",
+        )
+      ).rows,
+    "anon",
+  );
+  expect(anonymous.some((r) => r.experience === store.read().experience)).toBe(
+    true,
+  );
+  expect(
+    anonymous.every(
+      (r) =>
+        !r.is_mine &&
+        Object.keys(r).sort().join(",") ===
+          "accuracy,answered,completed,correct,experience,is_mine,place,player_name",
+    ),
+  ).toBe(true);
+  expect(
+    (await players(owner, "career_experience", "unbekannt", "experte")).find(
+      (r) => r.is_mine,
+    ),
+  ).toEqual(await ownCareer());
+});
+
+it("begrenzt Karriere-Seiten, teilt Gleichstände und schützt Kontozugriff und interne Summen", async () => {
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db
+      .exec(`insert into auth.users(id,email_confirmed_at,is_anonymous,raw_user_meta_data)
+      select ('12345678-1234-4123-8123-'||lpad(i::text,12,'0'))::uuid,
+        case when i=53 then null else now() end,i=54,jsonb_build_object('display_name','Karrieretest '||lpad(i::text,2,'0'))
+      from generate_series(1,54) i;
+      insert into public.quiz_player_totals(owner_id,genre,difficulty,experience)
+      select id,'','',10000 from auth.users where id::text like '12345678-1234-4123-8123-%';`);
+    const page = async (offset: number) =>
+      as(
+        "",
+        async () =>
+          (
+            await fixture.db.query<{ player_name: string; place: number }>(
+              "select * from public.quiz_public_players('career_experience',$1)",
+              [offset],
+            )
+          ).rows,
+        "anon",
+      );
+    const first = await page(0),
+      next = await page(50);
+    expect(first).toHaveLength(50);
+    expect(first.every((r) => r.place === 1)).toBe(true);
+    expect(
+      next.filter((r) => r.player_name.startsWith("Karrieretest")),
+    ).toHaveLength(2);
+    expect(
+      next
+        .filter((r) => r.player_name.startsWith("Karrieretest"))
+        .every((r) => r.place === 1),
+    ).toBe(true);
+    expect(await page(-1)).toEqual(first);
+    expect(
+      first.some((r) => next.some((n) => n.player_name === r.player_name)),
+    ).toBe(false);
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+  await expect(
+    as(
+      "",
+      () =>
+        fixture.db.query(
+          "select * from public.quiz_players('career_experience')",
+        ),
+      "anon",
+    ),
+  ).rejects.toThrow();
+  for (const role of ["anon", "authenticated"]) {
+    await expect(
+      as(
+        "",
+        () =>
+          fixture.db.query(
+            "select * from quiz_sync_internal.career_players(0)",
+          ),
+        role,
+      ),
+    ).rejects.toThrow();
+    await expect(
+      as(
+        "",
+        () => fixture.db.query("select * from public.quiz_player_totals"),
+        role,
+      ),
+    ).rejects.toThrow();
+  }
+});
+
 async function block(owner: string, id: string, round: number) {
   for (let index = 0; index < 10; index++)
     await as(owner, async () => {

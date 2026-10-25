@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Getrennte Highscore-Wertungen für Lernfortschritt/Karriere-XP und Wettbewerbs-XP – 25.10.2026, lokal](../../../docs/Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal)
+
 - [Version 84: schmale Themenfreischaltungen und 180 Fragenkorrekturen veröffentlicht; Prüfungen und Spielstandschutz – 23.10.2026](../../../docs/Veroeffentlichung-2026-10-23-Version-84.json)
 
 - [Schmale Themenfreischaltungen: Bekanntheit und Schwierigkeit als zwei Rechteckskalen, kennengelernte Filmfakten je Karte – 22.10.2026, seit Version 84 veröffentlicht](../../../docs/Filmreise-Freischaltung-2026-10-11.md#schmale-freischaltskalen-auf-themenkarten--22102026)

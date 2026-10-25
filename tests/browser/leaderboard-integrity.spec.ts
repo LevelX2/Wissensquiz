@@ -1,4 +1,10 @@
-import { test, expect, accountBackend } from "./fixtures";
+import {
+  test,
+  expect,
+  accountBackend,
+  fixCalendarTime,
+  testOwner,
+} from "./fixtures";
 import { server, alice, qs } from "./duel-service";
 import { RankedSession } from "../../src/rankedRuns";
 test.use({ serviceWorkers: "block" });
@@ -95,9 +101,10 @@ test("Duell fragt erst mit Serveruhr und erholt sich nach fehlgeschlagenem Frage
   }
 });
 
-test("Spielerbestenliste zeigt Wettbewerbs-XP aus echtem Serverabschluss", async ({
+test("Spielerbestenliste trennt aktuelle Karriere-XP und Wettbewerbs-XP aus echtem Serverabschluss", async ({
   page,
 }) => {
+  await fixCalendarTime(page, new Date("2026-10-25T10:00:00Z"));
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const backend = accountBackend(page);
@@ -147,18 +154,64 @@ test("Spielerbestenliste zeigt Wettbewerbs-XP aus echtem Serverabschluss", async
     )
   ).rows[0].question;
   await session.answer(q.answers.find((a) => a.id !== q.correctId)!.id);
+  // Reproduce different career/competition levels using only the isolated DB.
+  await backend.admin(() =>
+    backend.db.query(
+      "update public.quiz_player_totals set experience=2400 where owner_id=$1 and genre='' and difficulty=''",
+      [testOwner],
+    ),
+  );
   await page.getByRole("button", { name: "Highscores", exact: true }).click();
   await page.getByRole("button", { name: "Karriere", exact: true }).click();
+  const career = page.getByRole("button", {
+    name: "Lernfortschritt · Karriere-XP",
+    exact: true,
+  });
+  const list = page.getByRole("list", { name: "Spielerrangliste" });
+  await expect(career).toHaveAttribute("aria-pressed", "true");
+  await expect(list).toContainText("2.400 Karriere-XP");
+  await expect(list).toContainText("Level 9");
+  await page
+    .getByRole("button", { name: "Wettbewerbs-XP", exact: true })
+    .click();
   await expect(
     page.getByRole("button", { name: "Wettbewerbs-XP", exact: true }),
   ).toHaveAttribute("aria-pressed", "true");
-  const list = page.getByRole("list", { name: "Spielerrangliste" });
   await expect(list).toContainText("1 Wettbewerbs-XP");
   await expect(list).toContainText("1 abgeschlossene Spiele");
   await page.getByText("Was zählt für den Vergleich?", { exact: true }).click();
   await expect(
-    page.getByText("Deine privaten Karriere-XP bleiben im Profil.", {
+    page.getByText("Deine Karriere-XP findest Du unter „Lernfortschritt“.", {
       exact: false,
     }),
   ).toBeVisible();
+  await career.click();
+  await expect(list).toContainText("Level 9");
+  await backend.admin(() =>
+    backend.db.query(
+      "update public.quiz_player_totals set experience=2700 where owner_id=$1 and genre='' and difficulty=''",
+      [testOwner],
+    ),
+  );
+  await page
+    .getByRole("button", {
+      name: "Spielerrangliste aktualisieren",
+      exact: true,
+    })
+    .click();
+  await expect(list).toContainText("2.700 Karriere-XP");
+  await expect(list).toContainText("Level 10");
+  await page
+    .getByRole("button", { name: "Wettbewerbs-XP", exact: true })
+    .click();
+  await expect(list).toContainText("1 Wettbewerbs-XP");
+  await expect(list).not.toContainText("Karriere-XP");
+  await career.click();
+  await expect(list).toContainText("2.700 Karriere-XP");
+  await page.setViewportSize({ width: 320, height: 740 });
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= window.innerWidth,
+    ),
+  ).toBe(true);
 });

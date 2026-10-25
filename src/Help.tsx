@@ -373,11 +373,12 @@ export function Help() {
           unterscheiden Woche, Monat, Jahr und Allzeit; Kalendergrenzen gelten
           in Deutschland. Standardmix, eigene Auswahl, Modus und Regelversion
           bleiben getrennt. Gleiche Punkte teilen sich einen Platz. Die Karriere
-          zeigt Wettbewerbs-XP und serverbestätigte Leistungen. Bei Duellen
-          zählt die erste vollständig beendete Begegnung je Kontopaar und
-          UTC-Tag: 3 Punkte für einen Sieg, 1 für ein Unentschieden, 0 für eine
-          Niederlage. Aufgabe und Fristablauf bleiben persönlich sichtbar, ohne
-          Ranglistenpunkte. Weitere Begegnungen sind Freundschaftsspiele.
+          bietet getrennte Wertungen für Lernfortschritt mit Karriere-XP und
+          Wettbewerb mit Wettbewerbs-XP und serverbestätigten Leistungen. Bei
+          Duellen zählt die erste vollständig beendete Begegnung je Kontopaar
+          und UTC-Tag: 3 Punkte für einen Sieg, 1 für ein Unentschieden, 0 für
+          eine Niederlage. Aufgabe und Fristablauf bleiben persönlich sichtbar,
+          ohne Ranglistenpunkte. Weitere Begegnungen sind Freundschaftsspiele.
         </p>
         <p>
           Die Spielerleistungen vergleichen abgeschlossene servergeprüfte
@@ -390,7 +391,7 @@ export function Help() {
         <p>
           Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
           und zusammengefasste Leistungsstatistik sind in der öffentlichen
-          Bestenliste sichtbar. Diese Wettbewerbs-XP sind von Deinen privaten
+          Bestenliste sichtbar. Diese Wettbewerbs-XP sind von Deinen
           Karriere-XP getrennt. Je Filmfakt und UTC-Tag gibt es einmal 1 XP für
           eine Antwort einschließlich „Keine Ahnung“ und zusätzlich 2 / 3 / 5 XP
           für einen richtigen leichten / mittleren / schweren Treffer.
@@ -399,6 +400,15 @@ export function Help() {
           Auch bisherige gesicherte Runden bleiben privat erhalten, zählen aber
           nicht als servergeprüfter Nachweis. E-Mail und vollständiger
           Spielstand bleiben privat.
+        </p>
+        <p>
+          Unter „Lernfortschritt · Karriere-XP“ zählt Deine Filmkarriere aus
+          allen Spielmodi. XP, Level und Titel entsprechen Deinem Profil,
+          einschließlich der Lernboni für Erstlösungen, Fehlerkorrekturen und
+          Festigung. Bestätigte Konten erscheinen auch vor der ersten
+          abgeschlossenen Runde. Beide XP-Wertungen gelten über alle Genres und
+          Stufen; gleiche XP teilen sich einen Platz. Einzelne Antworten und
+          Lernstände bleiben privat.
         </p>
         <p>
           Der Server bestätigt Antworten, Zeiten und Wertung. Externes

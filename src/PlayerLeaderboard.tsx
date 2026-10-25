@@ -43,7 +43,7 @@ export function PlayerLeaderboard({
   publicList = false,
 }: {
   state: State;
-  initialSort?: "correct" | "experience";
+  initialSort?: "correct" | "experience" | "career_experience";
   publicList?: boolean;
 }) {
   const connection = useContext(RankingContext);
@@ -59,6 +59,9 @@ export function PlayerLeaderboard({
     [refresh, setRefresh] = useState(0);
   const [loading, setLoading] = useState(false),
     [error, setError] = useState("");
+  const career = sort === "career_experience";
+  const globalXp = career || sort === "experience";
+  const xpLabel = career ? "Karriere-XP" : "Wettbewerbs-XP";
   useEffect(() => {
     let active = true;
     const controller = new AbortController();
@@ -78,8 +81,8 @@ export function PlayerLeaderboard({
                 }
               : {
                   sort_by: sort,
-                  selected_genre: sort === "experience" ? "" : genre,
-                  selected_difficulty: sort === "experience" ? "" : difficulty,
+                  selected_genre: globalXp ? "" : genre,
+                  selected_difficulty: globalXp ? "" : difficulty,
                   page_offset: offset,
                 },
           )
@@ -115,7 +118,7 @@ export function PlayerLeaderboard({
       active = false;
       controller.abort();
     };
-  }, [client, publicList, sort, genre, difficulty, offset, refresh]);
+  }, [client, publicList, sort, genre, difficulty, offset, refresh, globalXp]);
   if (!client)
     return (
       <p>
@@ -127,12 +130,14 @@ export function PlayerLeaderboard({
   return (
     <div>
       <p className="muted">
-        Hier zählen abgeschlossene servergeprüfte Zeitspiele und eigene
-        vollständige Duellrunden. Private Lernstände und Karriere-XP zählen
-        nicht für diese Bestenliste.
+        {career
+          ? "Lernfortschritt aus allen Spielmodi: dieselben Karriere-XP und dasselbe Level wie in Deinem Profil."
+          : "Hier zählen abgeschlossene servergeprüfte Zeitspiele und eigene vollständige Duellrunden. Karriere-XP zählen nur in der eigenen Wertung „Lernfortschritt“."}
         {publicList
           ? " Die Bestenliste ist öffentlich sichtbar, auch ohne Anmeldung."
-          : " Nach Deinem ersten gewerteten Spiel erscheint Dein Konto hier."}
+          : career
+            ? " Dein bestätigtes Quiz-Konto nimmt automatisch teil."
+            : " Nach Deinem ersten gewerteten Spiel erscheint Dein Konto hier."}
       </p>
       <div
         className="ranking-tabs ranking-metrics"
@@ -141,10 +146,11 @@ export function PlayerLeaderboard({
       >
         {(
           [
+            ["career_experience", "Lernfortschritt · Karriere-XP"],
+            ["experience", "Wettbewerbs-XP"],
             ["correct", "Richtige Antworten"],
             ["rounds", "Runden"],
             ["accuracy", "Trefferquote"],
-            ["experience", "Wettbewerbs-XP"],
           ] as const
         ).map(([value, label]) => (
           <button
@@ -161,8 +167,8 @@ export function PlayerLeaderboard({
         ))}
       </div>
       <p className="tiny muted">
-        {sort === "experience" ? (
-          "Wettbewerbs-XP · Alle Genres · Alle Stufen"
+        {globalXp ? (
+          `${xpLabel} · Alle Genres · Alle Stufen`
         ) : (
           <>
             {!publicList && genre ? genreLabel(genre) : "Alle Genres"} ·{" "}
@@ -173,13 +179,19 @@ export function PlayerLeaderboard({
           </>
         )}
       </p>
+      {career && (
+        <p className="tiny muted">
+          Karriere-XP belohnen Antworten, sichere Treffer und Lernfortschritte
+          einschließlich Erstlösungen, Fehlerkorrekturen und Festigung.
+        </p>
+      )}
       {sort === "experience" && (
         <p className="tiny muted">
           Je Filmfakt und UTC-Tag: 1 XP für eine gewählte Antwort und zusätzlich
           2 / 3 / 5 XP für eine richtige leichte / mittlere / schwere Antwort.
         </p>
       )}
-      {!publicList && sort !== "experience" && (
+      {!publicList && !globalXp && (
         <details className="ranking-details ranking-filter-details">
           <summary>
             Vergleich eingrenzen{genre || difficulty ? " (Filter aktiv)" : ""}
@@ -247,9 +259,11 @@ export function PlayerLeaderboard({
         <p>
           {sort === "accuracy"
             ? "Für die Trefferquote braucht es mindestens 50 beantwortete Fragen in dieser Auswahl. Unter „Richtige Antworten“ und „Runden“ siehst Du Dein Konto schon vorher."
-            : genre || difficulty
+            : !globalXp && (genre || difficulty)
               ? "Noch keine abgeschlossenen Runden für diese Auswahl. Setze die Filter zurück, um alle Spieler zu sehen."
-              : "Noch keine servergeprüften Spiele in der Bestenliste."}
+              : career
+                ? "Noch keine bestätigten Quiz-Konten in der Bestenliste."
+                : "Noch keine servergeprüften Spiele in der Bestenliste."}
         </p>
       ) : (
         <>
@@ -272,7 +286,7 @@ export function PlayerLeaderboard({
                   </strong>
                   <CareerBadge experience={r.experience} />
                   <span>
-                    {r.experience.toLocaleString("de-DE")} Wettbewerbs-XP
+                    {r.experience.toLocaleString("de-DE")} {xpLabel}
                   </span>
                   <span>
                     {r.completed.toLocaleString("de-DE")}{" "}
@@ -287,7 +301,8 @@ export function PlayerLeaderboard({
                     <span>
                       Dein Konto ist schon dabei. Nach Deiner ersten
                       abgeschlossenen und online gespeicherten Runde erscheinen
-                      hier Deine Ergebnisse.
+                      hier Deine Ergebnisse. Dein Level ergibt sich bereits aus
+                      Deinen Karriere-XP.
                     </span>
                   )}
                 </div>
@@ -314,21 +329,35 @@ export function PlayerLeaderboard({
       )}
       <details className="ranking-details">
         <summary>Was zählt für den Vergleich?</summary>
-        <p className="tiny muted">
-          Wettbewerbs-XP und das daraus berechnete Level gelten für alle Genres
-          und Stufen. Gleiche XP teilen sich einen Platz. Es zählen
-          abgeschlossene servergeprüfte Zeitspiele und eigene vollständige
-          Duellrunden. Die Trefferquote vergleicht erst ab 50 beantworteten
-          Fragen in der Auswahl; reine Zeitabläufe zählen nicht als Antwort.
-          Wiederholungen und geratene Treffer zählen hier mit. Bei gemischten
-          Runden zählen nur passende Fragen, die Runde einmal.
-        </p>
-        {publicList && (
+        {career ? (
           <p className="tiny muted">
-            Namen dürfen gleich sein; jeder Eintrag gehört zu einem eigenen
-            bestätigten Konto. Dein Konto erscheint nach dem ersten gewerteten
-            Abschluss. Deine privaten Karriere-XP bleiben im Profil.
+            Die Wertung „Lernfortschritt“ sortiert nach den aktuellen
+            Karriere-XP aus Deinem online gespeicherten Spielstand. Level und
+            Titel stimmen mit Deinem Profil überein. Alle Spielmodi zählen nach
+            den Karriereregeln; Wettbewerbs-XP werden getrennt gewertet. Die
+            Rundensummen umfassen abgeschlossene Runden. Gleiche XP teilen sich
+            einen Platz. Einzelne Antworten und Lernstände bleiben privat.
           </p>
+        ) : (
+          <>
+            <p className="tiny muted">
+              Wettbewerbs-XP und das daraus berechnete Level gelten für alle
+              Genres und Stufen. Gleiche XP teilen sich einen Platz. Es zählen
+              abgeschlossene servergeprüfte Zeitspiele und eigene vollständige
+              Duellrunden. Die Trefferquote vergleicht erst ab 50 beantworteten
+              Fragen in der Auswahl; reine Zeitabläufe zählen nicht als Antwort.
+              Wiederholungen und geratene Treffer zählen hier mit. Bei
+              gemischten Runden zählen nur passende Fragen, die Runde einmal.
+            </p>
+            {publicList && (
+              <p className="tiny muted">
+                Namen dürfen gleich sein; jeder Eintrag gehört zu einem eigenen
+                bestätigten Konto. Dein Konto erscheint nach dem ersten
+                gewerteten Abschluss. Deine Karriere-XP findest Du unter
+                „Lernfortschritt“.
+              </p>
+            )}
+          </>
         )}
       </details>
       <p className="tiny muted">

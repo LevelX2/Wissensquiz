@@ -1,5 +1,17 @@
 # Öffentliche Bestenliste und Gastaktivität
 
+## Getrennte XP-Wertungen – 25.10.2026, lokal
+
+Auf Nutzerwunsch bietet der Highscore-Bereich „Karriere“ zwei eigene XP-Wertungen. Standard ist **Lernfortschritt · Karriere-XP**: aktuelle Karriere-XP, Level und Titel entsprechen dem Profil und berücksichtigen alle Spielmodi nach dem [Karrierevertrag](Filmkarriere-und-XP.md). **Wettbewerbs-XP** bleibt die eigenständige Wertung aus abgeschlossenen servergeprüften Zeitspielen und vollständigen eigenen Duellrunden. Die weiteren Sortierungen nach richtigen Antworten, Runden und Trefferquote beziehen sich weiterhin auf diese Wettbewerbsleistungen. Beide XP-Wertungen sind global über alle Genres und Stufen; Filter betreffen nur die übrigen Wettbewerbsvergleiche.
+
+Ursache der gemeldeten Abweichung war die zuvor missverständliche Zuordnung: „Karriere“ öffnete ausschließlich die Wettbewerbswertung. Die produktive Quellenprüfung bestätigte getrennte, aktuelle Summen; ein verlorener Karrierefortschritt wurde dabei nicht festgestellt. Es wird keine nachträgliche Umwertung oder Übernahme alter Gaststände eingeführt.
+
+Die neue Sortierung `career_experience` in `quiz_public_players` und `quiz_players` liest die vorhandene globale Zeile aus `public.quiz_player_totals`. `quiz_sync_internal.career_players` gibt ausschließlich Name, Platz, eigene Markierung, Karriere-XP und abgeschlossene Runden-/Antwortsummen aus. Bestätigte, nicht anonyme Konten sind bereits vor der ersten abgeschlossenen Runde mit null XP sichtbar. Gleiche XP teilen einen Rang; stabile Seiten enthalten höchstens 50 Einträge. Einzelantworten, Lernstände und Kontoidentitäten bleiben privat. Die Wettbewerbssummen und deren Berechnung ändern sich nicht. Keine zusätzliche Datenspeicherung oder Historienberechnung beim Abruf. Gespeicherte Kontofortschritte invalidieren bereits den Ranglisten-Cache; „Spielerrangliste aktualisieren“ erzwingt weiterhin einen neuen Abruf.
+
+Migration `20261025072924_career_progress_leaderboard.sql` und Oberfläche sind **nur lokal vorbereitet**. Vor Veröffentlichung zuerst die Migration aktivieren und die gebündelten Veröffentlichungsprüfungen nach `AGENTS.md` durchführen. Kein produktiver Datenbankeingriff, keine Veröffentlichung und kein Push in diesem Auftrag. [Gezielter Prüfnachweis](Pruefbericht.md#25102026--getrennte-karriere--und-wettbewerbswertung-lokal).
+
+## Frühere Umstellung auf Wettbewerbswerte
+
 **10.10.2026 lokal umgestellt, noch nicht produktiv:** Die allgemeine Spielerbestenliste zählt ausschließlich abgeschlossene servergeprüfte Solo-Zeitläufe und eigene vollständige Duellrunden. Separate Wettbewerbs-XP und daraus abgeleitete Level ersetzen in der öffentlichen Liste die übertragene private Karriere-XP. Kein Nachweis aus importierten Lernständen; bestehende private Karriere bleibt erhalten. Kleine neue Abschlusssummen statt Historien-Replay beim Abruf. [Aktueller Vertrag und Datenmenge](Servergepruefte-Zeitrunden-2026-10-10.md#umsetzung-der-ersten-drei-zusatzmaßnahmen). Die folgenden historischen Angaben zu öffentlichen Quellen und XP sind dadurch für den lokalen Stand abgelöst; Gastaktivität bleibt unverändert.
 
 ## Kleine Statistikprojektionen – produktiv eingerichtet am 03.10.2026

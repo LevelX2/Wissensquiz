@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## 25.10.2026 – Getrennte Karriere- und Wettbewerbswertung, lokal
+
+Highscores → Karriere bietet „Lernfortschritt · Karriere-XP“ als Standard und „Wettbewerbs-XP“ als getrennte Wertung. Karriere verwendet die aktuellen vorhandenen Karrieresummen einschließlich Lernboni. Wettbewerbsregeln und deren Summen bleiben unverändert. [Fach- und Quellenvertrag](Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal).
+
+Neun gezielte Tests in `leaderboard-integrity.test.ts` und `ranking-cache.test.ts` erfolgreich (4,27 s). Neue echte SQL-Prüfungen: leeres bestätigtes Konto, serverseitiger Lernabschluss mit 63 Karriere-XP ohne Wettbewerbseintrag, anschließender Solo-Zeitlauf mit getrennten 43 Wettbewerbs-XP, Abgleich zum aktuellen Profil, Überschreiben erfundener Client-XP durch kanonische Berechnung, globale XP trotz Filterparametern, anonyme Ausgabe ausschließlich freigegebener Summen, Gleichstände, stabile Seiten mit 50 Einträgen, Ausschluss unbestätigter/anonymer Konten sowie gesperrte Tabellen-/Helferzugriffe. Erster Testlauf: acht bestanden, ein Fehler durch fehlende Genre-/Schwierigkeitsfelder der synthetischen Seitentestdaten; Testdaten korrigiert und alle neun erneut erfolgreich ausgeführt.
+
+Zwei gezielte Browserfälle erfolgreich gegen den lokalen Vite-Entwicklungsserver. Echte isolierte SQL-Funktionen und echter Wettbewerbsabschluss, synthetisch gesetzter Karriere-Anzeigestand: Level 9 bei 2.400 Karriere-XP, getrennte Wettbewerbsanzeige, manuelles Aktualisieren auf 2.700 Karriere-XP/Level 10, mehrfacher Wechsel ohne Vermischung der Werte und 320-px-Ansicht ohne horizontalen Überlauf. Kontrolliertes Datum, isolierte Browserprofile, keine echten Nutzerdaten verändert oder in Testdaten übernommen. Produktionsbuild und vollständige Testsuite sind dem späteren Veröffentlichungsauftrag vorbehalten.
+
+`npm run check` (Laufzeitmetadaten und TypeScript) und `git diff --check` erfolgreich. SQL-Migration nur lokal in PGlite geprüft, nicht produktiv aktiviert. Produktiv wurden ausschließlich die beiden vorhandenen Datenquellen lesend verglichen. Keine Veröffentlichung, kein Push. Eigene temporäre Browserkonfiguration und Browserausgaben nach Abnahme entfernt; fremde Mifune-Konfigurationen erhalten.
+
 ## 23.10.2026 – Veröffentlichung Version 84
 
 Gesamtstand aus Main `4c5b46266b96052b0b40bdb6ecb5205306cf2ed1` am 23.10.2026 um 01:10:35 Uhr Europe/Berlin öffentlich veröffentlicht: schmale Themenfreischaltungen und beide Fragenkorrekturen vom 21.10.2026, zusammen 180 geänderte Fragen. Unverändert 15.295 Fragen / 14.628 Ziele / 39 Pakete. [IDs, Hashes und Abnahmen](Veroeffentlichung-2026-10-23-Version-84.json).
