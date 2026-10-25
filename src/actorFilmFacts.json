@@ -5606,11 +5606,17 @@
     "productionCountries": [
       "USA"
     ],
-    "series": null,
+    "series": {
+      "name": "Rocky",
+      "position": 1,
+      "note": "Reihenfolge der veröffentlichten Rocky-Kinofilme; die Creed-Filme bilden die anschließende Ablegerreihe."
+    },
     "releaseNote": "",
     "directorNote": "",
     "source": "https://en.wikipedia.org/wiki/Rocky",
-    "additionalSources": [],
+    "additionalSources": [
+      "https://www.paramountpressexpress.com/paramount-plus/releases/?view=113201-paramount-and-pluto-tv-celebrate-the-50th-anniversary-of-rocky-with-entire-collection-of-films-now-streaming"
+    ],
     "directorContext": "",
     "checkedOn": "2026-10-03",
     "releaseEvidence": "November | 20, | 1976 | ( | 1976-11-20 | ) | ( | Paramount Theatre | ) | December | 3, | 1976 | ( | 1976-12-03 | ) | (United States)",

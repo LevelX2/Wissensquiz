@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 25.10.2026 – GitHub-Tickets lokal korrigiert
+
+Alle acht offenen Tickets #3–#10 gelesen und gegen den aktuellen App-Katalog geprüft. Sieben Korrekturen, ein begründet erhaltener aktueller Stand; [Einzelfallbericht und Quellen](GitHub-Tickets-2026-10-25.md). Drei CSV-Zeilen, zwei Personenanzeigen und vier Filmdatensätze angepasst. Redaktionelle Rambo-Posterauswahl im Betreiberlauf und im lokalen ignorierten Index nachgezogen. Aktuelle Redaktionsreferenz und Prüfmanifest mit vollständigem Vorher-/Nachher-Nachweis aktualisiert. Frage-/Zielidentitäten, Antworten, Lösungen, Schwierigkeiten, Varianten und Bestandsgrößen erhalten.
+
+50 unterschiedliche gezielte Tests in neun Dateien erfolgreich: `github-ticket-corrections`, `actor-editorial`, `actor-supplements`, `reviewed-questions`, `editorial-revision`, `film240-package`, `genre100`, `film-posters`, `awards-package`. Erster Lauf: 49 erfolgreich, eine veraltete Quellenerwartung im 240-Filme-Test; zusätzlichen AFI-Beleg über den dokumentierten Korrekturstand berücksichtigt. Nachlauf: 14/14 Tests in vier Dateien erfolgreich. Nach Ergänzung des zweiten Rocky-Metadatenwegs nochmals alle vier neuen Ticketprüfungen erfolgreich. Die Prüfungen lesen den echten Parser und die tatsächliche vorbereitete Darstellung einschließlich der Personenanzeigen und Filmdaten. Keine neue vollständige Faktenprüfung aller Bestandsfragen behauptet.
+
+`npm run check` einschließlich Laufzeitmetadaten und TypeScript sowie Syntaxprüfung des Poster-Vorbereitungsskripts erfolgreich. Kein Produktionsbuild oder Browser-Gesamtlauf für diesen kleinen lokalen Änderungsblock. Visuell verglichenes altes und neues Rambo-Poster; aktuelle Zugehörigkeit des gewählten Bilds zu TMDB 1368 über die API bestätigt. Posterprüfung verwendet keine echten Konten. Keine produktiven Daten, keine Veröffentlichung und kein Push. Abschließende Diff-/Quellenkontrolle und Bereinigung der eigenen temporären Recherche-/Prüfdateien dokumentiert; fremde Mifune-Konfigurationen erhalten.
+
 ## 25.10.2026 – Getrennte Karriere- und Wettbewerbswertung, lokal
 
 Highscores → Karriere bietet „Lernfortschritt · Karriere-XP“ als Standard und „Wettbewerbs-XP“ als getrennte Wertung. Karriere verwendet die aktuellen vorhandenen Karrieresummen einschließlich Lernboni. Wettbewerbsregeln und deren Summen bleiben unverändert. [Fach- und Quellenvertrag](Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal).

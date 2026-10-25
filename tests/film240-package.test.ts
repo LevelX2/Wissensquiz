@@ -12,6 +12,7 @@ import { validateBackup } from "../src/backupValidation";
 import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
 import { assertEditorialSource, originalQuestionId, currentQuestionId } from "./editorialSource";
 import integration from "./fixtures/appliedEditorial.json";
+import ticketCorrections from "../docs/GitHub-Tickets-2026-10-25.json";
 
 const latest = packages.find(
   (p) => p.path === "/film-ergaenzung-240-fragen.csv",
@@ -226,8 +227,16 @@ it("zeigt die recherchierten Filmdaten fassungsgenau und erhält eine bestehende
       directorNote: film.director_note,
     });
     expect(filmData(q)?.directors.split(/, | und /)).toEqual(film.directors);
+    const correction = ticketCorrections.metadataChanges.find(
+      (entry) => entry.file === "src/film240Metadata.json" &&
+        "film_title_original" in entry.after &&
+        entry.after.film_title_original === film.film_title_original,
+    );
+    const sources = correction && "sources" in correction.after
+      ? correction.after.sources
+      : film.sources;
     expect(filmData(q)?.sources).toEqual([
-      ...new Set(film.sources.map((s) => s.url.replace(/^http:/, "https:"))),
+      ...new Set(sources.map((s) => s.url.replace(/^http:/, "https:"))),
     ]);
     expect(familiarityOf(q)).toBe(
       film.film_title_original === "Up" ? 1 : film.familiarity_level,

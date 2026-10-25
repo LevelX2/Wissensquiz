@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Acht GitHub-Meldungen geprüft, sieben lokal korrigiert; Poster, Reihenangaben und Fragentexte – 25.10.2026](../../../docs/GitHub-Tickets-2026-10-25.md)
+
 - [Getrennte Highscore-Wertungen für Lernfortschritt/Karriere-XP und Wettbewerbs-XP – 25.10.2026, lokal](../../../docs/Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal)
 
 - [Version 84: schmale Themenfreischaltungen und 180 Fragenkorrekturen veröffentlicht; Prüfungen und Spielstandschutz – 23.10.2026](../../../docs/Veroeffentlichung-2026-10-23-Version-84.json)

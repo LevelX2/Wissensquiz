@@ -1,5 +1,9 @@
 # Bestätigte Fragenkorrekturen
 
+## GitHub-Tickets #3–#10 – 25.10.2026, lokal
+
+Alle acht offenen Meldungen geprüft. Sieben lokal korrigiert: Rambo-Posterauswahl, Reihenpositionen für „Tempel des Todes“, „Rocky“ und „Die Bourne Verschwörung“, Filmtitel „Elvis“ in der Vertiefung, verständliche Terminator-Rollenfrage und Frances McDormand im Nomadland-Fragetext. Der Schwarzenegger-Porträtbezug auf „Pumping Iron“ und „Terminator“ passt zur seit Version 83 veröffentlichten biografischen Vertiefung; unverändert erhalten. Identitäten, Lösungen und Rohquellen erhalten. Noch nicht veröffentlicht; GitHub-Tickets weiterhin offen. [Einzelentscheidungen, Quellen und Prüfnachweis](GitHub-Tickets-2026-10-25.md).
+
 ## Vollständige Figurennamen und Darstellerklammern – 21.10.2026
 
 Auf Nutzerhinweis zur Bridget-Jones-Kurzantwort 27 Fragen in fünf Paketen gezielt bereinigt: 49 Textfelder, darunter vier Fragetexte, 19 Kurzantworten, zwei Vertiefungen und 24 Rückmeldungen. Zusätze stehen hinter dem vollständigen vorhandenen Namen; unpassende Einsprengsel in Titel und Wörter entfallen. Vier Felder der letzten Redaktionsfassung nachgezogen. IDs, Antworten, Lösungen und Stufen erhalten. [Umfang, Ursachenprüfung und Abnahme](Figurennamen-2026-10-21/Pruefbericht.md). Seit Version 84 veröffentlicht.

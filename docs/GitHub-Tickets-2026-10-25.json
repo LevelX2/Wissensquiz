@@ -1,0 +1,528 @@
+{
+  "date": "2026-10-25",
+  "status": "lokal, nicht veröffentlicht",
+  "csvChanges": [
+    {
+      "file": "public/schauspieler-p03-fragen.csv",
+      "id": "SCHAUSPIELER-202610-P03-129-L-2",
+      "before": {
+        "question_id": "SCHAUSPIELER-202610-P03-129-L-2",
+        "knowledge_id": "K-SCHAUSPIELER-202610-P03-129-L-2",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Personen",
+        "subdomain": "Schauspieler",
+        "person_id": "ACTOR-129",
+        "person_name": "Kurt Russell",
+        "person_name_before_answer": "true",
+        "difficulty": "leicht",
+        "source_difficulty": "leicht",
+        "question_type": "Rollen und Werke",
+        "question": "Welchen berühmten Sänger verkörpert Kurt Russell in John Carpenters Fernsehfilm von 1979?",
+        "answer_a": "Johnny Cash",
+        "answer_b": "Roy Orbison",
+        "answer_c": "Jerry Lee Lewis",
+        "answer_d": "Elvis Presley",
+        "correct_answer": "D",
+        "explanation_short": "In Carpenters Fernsehbiografie spielt er Elvis Presley.",
+        "explanation_context": "Der Fernsehfilm erzählt wichtige Stationen von Elvis Presleys Leben und Karriere. Kurt Russell spielte den Sänger körperlich und darstellerisch, während Ronnie McDowell die gesungenen Passagen übernahm. Die Zusammenarbeit mit John Carpenter begann somit vor „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“.",
+        "topic_tags": "Schauspieler;Rollen und Werke",
+        "badge_tags": "Schauspieler",
+        "source_urls": "https://en.wikipedia.org/wiki/Kurt_Russell|https://de.wikipedia.org/wiki/Kurt_Russell|https://en.wikipedia.org/wiki/Elvis_(1979_film)",
+        "verification_status": "redaktionell_nachbearbeitet_2026-10-20"
+      },
+      "after": {
+        "question_id": "SCHAUSPIELER-202610-P03-129-L-2",
+        "knowledge_id": "K-SCHAUSPIELER-202610-P03-129-L-2",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Personen",
+        "subdomain": "Schauspieler",
+        "person_id": "ACTOR-129",
+        "person_name": "Kurt Russell",
+        "person_name_before_answer": "true",
+        "difficulty": "leicht",
+        "source_difficulty": "leicht",
+        "question_type": "Rollen und Werke",
+        "question": "Welchen berühmten Sänger verkörpert Kurt Russell in John Carpenters Fernsehfilm von 1979?",
+        "answer_a": "Johnny Cash",
+        "answer_b": "Roy Orbison",
+        "answer_c": "Jerry Lee Lewis",
+        "answer_d": "Elvis Presley",
+        "correct_answer": "D",
+        "explanation_short": "In Carpenters Fernsehbiografie spielt er Elvis Presley.",
+        "explanation_context": "Der Fernsehfilm „Elvis“ (1979) erzählt wichtige Stationen von Elvis Presleys Leben und Karriere. Kurt Russell spielte den Sänger körperlich und darstellerisch, während Ronnie McDowell die gesungenen Passagen übernahm. Die Zusammenarbeit mit John Carpenter begann somit vor „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“.",
+        "topic_tags": "Schauspieler;Rollen und Werke",
+        "badge_tags": "Schauspieler",
+        "source_urls": "https://en.wikipedia.org/wiki/Kurt_Russell|https://de.wikipedia.org/wiki/Kurt_Russell|https://en.wikipedia.org/wiki/Elvis_(1979_film)|https://theofficialjohncarpenter.com/elvis/",
+        "verification_status": "redaktionell_nachbearbeitet_2026-10-20"
+      }
+    },
+    {
+      "file": "public/schauspieler-fragen.csv",
+      "id": "SCHAUSPIELER-202610-P01-015-L-1",
+      "before": {
+        "question_id": "SCHAUSPIELER-202610-P01-015-L-1",
+        "knowledge_id": "K-SCHAUSPIELER-202610-P01-015-L-1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Personen",
+        "subdomain": "Schauspieler",
+        "person_id": "ACTOR-015",
+        "person_name": "Arnold Schwarzenegger",
+        "person_name_before_answer": "false",
+        "difficulty": "leicht",
+        "source_difficulty": "leicht",
+        "question_type": "Rollen und Werke",
+        "question": "Wer spielte die Titelmaschine in „Terminator“ von 1984?",
+        "answer_a": "Dolph Lundgren",
+        "answer_b": "Jean-Claude Van Damme",
+        "answer_c": "Arnold Schwarzenegger",
+        "answer_d": "Sylvester Stallone",
+        "correct_answer": "C",
+        "explanation_short": "Arnold Schwarzenegger spielt die titelgebende Maschine im ersten „Terminator“.",
+        "explanation_context": "Die sparsame Sprache und körperliche Präsenz machten die Maschine zu einer sofort erkennbaren Filmfigur.",
+        "topic_tags": "Schauspieler;Rollen und Werke",
+        "badge_tags": "Schauspieler",
+        "source_urls": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger|https://de.wikipedia.org/wiki/Arnold_Schwarzenegger|https://en.wikipedia.org/wiki/The_Terminator",
+        "verification_status": "redaktionell_nachbearbeitet_2026-10-20"
+      },
+      "after": {
+        "question_id": "SCHAUSPIELER-202610-P01-015-L-1",
+        "knowledge_id": "K-SCHAUSPIELER-202610-P01-015-L-1",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Personen",
+        "subdomain": "Schauspieler",
+        "person_id": "ACTOR-015",
+        "person_name": "Arnold Schwarzenegger",
+        "person_name_before_answer": "false",
+        "difficulty": "leicht",
+        "source_difficulty": "leicht",
+        "question_type": "Rollen und Werke",
+        "question": "Wer spielte den aus der Zukunft geschickten Killer-Cyborg in „Terminator“ von 1984?",
+        "answer_a": "Dolph Lundgren",
+        "answer_b": "Jean-Claude Van Damme",
+        "answer_c": "Arnold Schwarzenegger",
+        "answer_d": "Sylvester Stallone",
+        "correct_answer": "C",
+        "explanation_short": "Arnold Schwarzenegger spielt die titelgebende Maschine im ersten „Terminator“.",
+        "explanation_context": "Die sparsame Sprache und körperliche Präsenz machten die Maschine zu einer sofort erkennbaren Filmfigur.",
+        "topic_tags": "Schauspieler;Rollen und Werke",
+        "badge_tags": "Schauspieler",
+        "source_urls": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger|https://de.wikipedia.org/wiki/Arnold_Schwarzenegger|https://en.wikipedia.org/wiki/The_Terminator",
+        "verification_status": "redaktionell_nachbearbeitet_2026-10-20"
+      }
+    },
+    {
+      "file": "public/preistraeger-fragen.csv",
+      "id": "PRZ-202610-P01-L-018",
+      "before": {
+        "question_id": "PRZ-202610-P01-L-018",
+        "knowledge_id": "K-PRZ-202610-P01-L-018",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Drama",
+        "film_title_de": "Nomadland",
+        "film_title_original": "Nomadland",
+        "film_year": "2020",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Gewinnerfilm",
+        "topic_tags": "Preisträger|Oscars|Gewinnerfilm",
+        "badge_tags": "Preisträger",
+        "learning_objective": "Ein Platz im Oscararchiv 2021: Welcher Film siegte in der Kategorie „bester Film“: Nomadland",
+        "question": "Nach dem Verlust ihres Mannes und ihres Arbeitsplatzes zieht eine Frau im Van durch die USA. Welches Drama gewann 2021 den Oscar als bester Film?",
+        "answer_a": "The Father",
+        "answer_b": "Nomadland",
+        "answer_c": "Judas and the Black Messiah",
+        "answer_d": "Mank",
+        "correct_answer": "B",
+        "explanation_short": "Bei der Oscarverleihung 2021 ging die Auszeichnung „bester Film“ an Nomadland.",
+        "explanation_context": "„Nomadland“ erhielt 2021 den Hauptpreis. Nach dem Tod ihres Mannes und der Schließung des örtlichen Werks lebt Fern (Frances McDormand) in einem Van und zieht für Saisonarbeit durch die USA. Reale Menschen aus der Nomadengemeinschaft treten neben den Schauspielern auf. McDormand wurde als Hauptdarstellerin und als Mitproduzentin ausgezeichnet; Chloé Zhao gewann den Regiepreis.",
+        "feedback_a": "",
+        "feedback_b": "",
+        "feedback_c": "",
+        "feedback_d": "",
+        "spoiler_level": "keine",
+        "source_urls": "https://www.oscars.org/oscars/ceremonies/2021|https://en.wikipedia.org/wiki/Nomadland_(film)",
+        "verification_status": "redaktionell_geprueft"
+      },
+      "after": {
+        "question_id": "PRZ-202610-P01-L-018",
+        "knowledge_id": "K-PRZ-202610-P01-L-018",
+        "variant_of": "",
+        "language": "de",
+        "domain": "Film",
+        "subdomain": "Drama",
+        "film_title_de": "Nomadland",
+        "film_title_original": "Nomadland",
+        "film_year": "2020",
+        "franchise": "",
+        "difficulty": "leicht",
+        "question_type": "Gewinnerfilm",
+        "topic_tags": "Preisträger|Oscars|Gewinnerfilm",
+        "badge_tags": "Preisträger",
+        "learning_objective": "Ein Platz im Oscararchiv 2021: Welcher Film siegte in der Kategorie „bester Film“: Nomadland",
+        "question": "Nach dem Verlust ihres Mannes und ihres Arbeitsplatzes zieht Fern (Frances McDormand) im Van durch die USA. Welches Drama gewann 2021 den Oscar als bester Film?",
+        "answer_a": "The Father",
+        "answer_b": "Nomadland",
+        "answer_c": "Judas and the Black Messiah",
+        "answer_d": "Mank",
+        "correct_answer": "B",
+        "explanation_short": "Bei der Oscarverleihung 2021 ging die Auszeichnung „bester Film“ an Nomadland.",
+        "explanation_context": "„Nomadland“ erhielt 2021 den Hauptpreis. Nach dem Tod ihres Mannes und der Schließung des örtlichen Werks lebt Fern (Frances McDormand) in einem Van und zieht für Saisonarbeit durch die USA. Reale Menschen aus der Nomadengemeinschaft treten neben den Schauspielern auf. McDormand wurde als Hauptdarstellerin und als Mitproduzentin ausgezeichnet; Chloé Zhao gewann den Regiepreis.",
+        "feedback_a": "",
+        "feedback_b": "",
+        "feedback_c": "",
+        "feedback_d": "",
+        "spoiler_level": "keine",
+        "source_urls": "https://www.oscars.org/oscars/ceremonies/2021|https://en.wikipedia.org/wiki/Nomadland_(film)|https://www.searchlightpictures.com/nomadland/",
+        "verification_status": "redaktionell_geprueft"
+      }
+    }
+  ],
+  "metadataChanges": [
+    {
+      "file": "src/film240Metadata.json",
+      "before": {
+        "film_title_original": "Indiana Jones and the Temple of Doom",
+        "film_year": 1984,
+        "directors": [
+          "Steven Spielberg"
+        ],
+        "production_countries": [
+          "USA"
+        ],
+        "country_note": "",
+        "series": {
+          "name": "Indiana Jones",
+          "position": null,
+          "note": ""
+        },
+        "release_note": "Erste Vorführung 23. April 1984 in Thousand Oaks; regulärer US-Start 23. Mai 1984. Handlung 1935, also vor Jäger des verlorenen Schatzes.",
+        "director_note": "",
+        "sources": [
+          {
+            "url": "https://www.paramountpictures.com/movies/indiana-jones-and-the-temple-of-doom"
+          },
+          {
+            "url": "https://www.lucasfilm.com/productions/indiana-jones-and-the-temple-of-doom/"
+          },
+          {
+            "url": "https://amblin.com/movie/indiana-jones-and-the-temple-of-doom/"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom"
+          }
+        ]
+      },
+      "after": {
+        "film_title_original": "Indiana Jones and the Temple of Doom",
+        "film_year": 1984,
+        "directors": [
+          "Steven Spielberg"
+        ],
+        "production_countries": [
+          "USA"
+        ],
+        "country_note": "",
+        "series": {
+          "name": "Indiana Jones",
+          "position": 2,
+          "note": "Reihenfolge der veröffentlichten Kinofilme. Die Handlung spielt 1935, vor dem ersten Film."
+        },
+        "release_note": "Erste Vorführung 23. April 1984 in Thousand Oaks; regulärer US-Start 23. Mai 1984. Handlung 1935, also vor Jäger des verlorenen Schatzes.",
+        "director_note": "",
+        "sources": [
+          {
+            "url": "https://www.paramountpictures.com/movies/indiana-jones-and-the-temple-of-doom"
+          },
+          {
+            "url": "https://www.lucasfilm.com/productions/indiana-jones-and-the-temple-of-doom/"
+          },
+          {
+            "url": "https://amblin.com/movie/indiana-jones-and-the-temple-of-doom/"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom"
+          },
+          {
+            "url": "https://silver.afi.com/movies/detail/0100000080/"
+          }
+        ]
+      }
+    },
+    {
+      "file": "docs/Erweiterung-2026-10-07/Filmdaten-Referenzen.json",
+      "before": {
+        "film_id": "Rocky|1976",
+        "title": "Rocky",
+        "original_title": "Rocky",
+        "first_release_year": 1976,
+        "directors": [
+          "John G. Avildsen"
+        ],
+        "production_countries": [
+          "USA"
+        ],
+        "release_note": "New-York-Premiere am 20.11.1976; Oscarverleihung 1977.",
+        "director_note": "",
+        "country_note": "",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky",
+          "https://www.oscars.org/oscars/ceremonies/1977"
+        ],
+        "verification_status": "redaktionell_quellengeprueft"
+      },
+      "after": {
+        "film_id": "Rocky|1976",
+        "title": "Rocky",
+        "original_title": "Rocky",
+        "first_release_year": 1976,
+        "directors": [
+          "John G. Avildsen"
+        ],
+        "production_countries": [
+          "USA"
+        ],
+        "release_note": "New-York-Premiere am 20.11.1976; Oscarverleihung 1977.",
+        "director_note": "",
+        "country_note": "",
+        "source_urls": [
+          "https://en.wikipedia.org/wiki/Rocky",
+          "https://www.oscars.org/oscars/ceremonies/1977",
+          "https://www.paramountpressexpress.com/paramount-plus/releases/?view=113201-paramount-and-pluto-tv-celebrate-the-50th-anniversary-of-rocky-with-entire-collection-of-films-now-streaming"
+        ],
+        "verification_status": "redaktionell_quellengeprueft",
+        "series": {
+          "name": "Rocky",
+          "position": 1,
+          "note": "Reihenfolge der veröffentlichten Rocky-Kinofilme; die Creed-Filme bilden die anschließende Ablegerreihe."
+        }
+      }
+    },
+    {
+      "file": "docs/Genres-100-2026-10-08/Filmdaten.json",
+      "before": {
+        "rank": 15,
+        "film_title_de": "Die Bourne Verschwörung",
+        "film_title_original": "The Bourne Supremacy",
+        "film_year": 2004,
+        "subdomain": "Action",
+        "familiarity_level": 2,
+        "familiarity_reason": "Der zweite Matt-Damon-Bourne und seine handgeführte Action sind einem breiten Actionpublikum bekannt, erfordern aber für Nebenfiguren gezielte Filmkenntnis.",
+        "directors": [
+          "Paul Greengrass"
+        ],
+        "production_countries": [
+          "USA",
+          "Deutschland"
+        ],
+        "country_note": "BFI führt Deutschland und USA; die Wikipedia-Infobox nennt nur USA. Die Länderangabe folgt dem BFI-Filmarchiv, nicht der Verteilung der Drehorte.",
+        "release_note": "Hollywood-Premiere am 15. Juli 2004; regulärer US-Kinostart am 23. Juli 2004.",
+        "director_note": "",
+        "series": null,
+        "sources": [
+          {
+            "key": "handlung",
+            "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+            "checked_on": "2026-10-08"
+          },
+          {
+            "key": "archiv",
+            "url": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy",
+            "checked_on": "2026-10-08"
+          },
+          {
+            "key": "stil",
+            "url": "https://player.bfi.org.uk/rentals/film/watch-the-bourne-supremacy-2004-online",
+            "checked_on": "2026-10-08"
+          },
+          {
+            "key": "reihenstart",
+            "url": "https://www.universalpicturesathome.com/movies/the-bourne-identity",
+            "checked_on": "2026-10-08"
+          }
+        ],
+        "reference_question_id": "G100-20261008-ACTION-015-L1",
+        "year_question_id": "G100-20261008-ACTION-015-Y",
+        "director_question_id": "G100-20261008-ACTION-015-D"
+      },
+      "after": {
+        "rank": 15,
+        "film_title_de": "Die Bourne Verschwörung",
+        "film_title_original": "The Bourne Supremacy",
+        "film_year": 2004,
+        "subdomain": "Action",
+        "familiarity_level": 2,
+        "familiarity_reason": "Der zweite Matt-Damon-Bourne und seine handgeführte Action sind einem breiten Actionpublikum bekannt, erfordern aber für Nebenfiguren gezielte Filmkenntnis.",
+        "directors": [
+          "Paul Greengrass"
+        ],
+        "production_countries": [
+          "USA",
+          "Deutschland"
+        ],
+        "country_note": "BFI führt Deutschland und USA; die Wikipedia-Infobox nennt nur USA. Die Länderangabe folgt dem BFI-Filmarchiv, nicht der Verteilung der Drehorte.",
+        "release_note": "Hollywood-Premiere am 15. Juli 2004; regulärer US-Kinostart am 23. Juli 2004.",
+        "director_note": "",
+        "series": {
+          "name": "Bourne",
+          "position": 2,
+          "note": "Reihenfolge der veröffentlichten Kinofilme."
+        },
+        "sources": [
+          {
+            "key": "handlung",
+            "url": "https://en.wikipedia.org/wiki/The_Bourne_Supremacy_(film)",
+            "checked_on": "2026-10-08"
+          },
+          {
+            "key": "archiv",
+            "url": "https://www.bfi.org.uk/film/489d9531-6e89-5572-9afe-6b5a975957ac/the-bourne-supremacy",
+            "checked_on": "2026-10-08"
+          },
+          {
+            "key": "stil",
+            "url": "https://player.bfi.org.uk/rentals/film/watch-the-bourne-supremacy-2004-online",
+            "checked_on": "2026-10-08"
+          },
+          {
+            "key": "reihenstart",
+            "url": "https://www.universalpicturesathome.com/movies/the-bourne-identity",
+            "checked_on": "2026-10-08"
+          }
+        ],
+        "reference_question_id": "G100-20261008-ACTION-015-L1",
+        "year_question_id": "G100-20261008-ACTION-015-Y",
+        "director_question_id": "G100-20261008-ACTION-015-D"
+      }
+    },
+    {
+      "file": "src/actorFilmFacts.json",
+      "before": {
+        "id": "ACTOR-FILM-87569af84fce",
+        "film": "Rocky|1976",
+        "title": "Rocky",
+        "year": 1976,
+        "directors": [
+          "John G. Avildsen"
+        ],
+        "productionCountries": [
+          "USA"
+        ],
+        "series": null,
+        "releaseNote": "",
+        "directorNote": "",
+        "source": "https://en.wikipedia.org/wiki/Rocky",
+        "additionalSources": [],
+        "directorContext": "",
+        "checkedOn": "2026-10-03",
+        "releaseEvidence": "November | 20, | 1976 | ( | 1976-11-20 | ) | ( | Paramount Theatre | ) | December | 3, | 1976 | ( | 1976-12-03 | ) | (United States)",
+        "verificationStatus": "redaktionell_geprueft",
+        "originalTitle": "Rocky"
+      },
+      "after": {
+        "id": "ACTOR-FILM-87569af84fce",
+        "film": "Rocky|1976",
+        "title": "Rocky",
+        "year": 1976,
+        "directors": [
+          "John G. Avildsen"
+        ],
+        "productionCountries": [
+          "USA"
+        ],
+        "series": {
+          "name": "Rocky",
+          "position": 1,
+          "note": "Reihenfolge der veröffentlichten Rocky-Kinofilme; die Creed-Filme bilden die anschließende Ablegerreihe."
+        },
+        "releaseNote": "",
+        "directorNote": "",
+        "source": "https://en.wikipedia.org/wiki/Rocky",
+        "additionalSources": [
+          "https://www.paramountpressexpress.com/paramount-plus/releases/?view=113201-paramount-and-pluto-tv-celebrate-the-50th-anniversary-of-rocky-with-entire-collection-of-films-now-streaming"
+        ],
+        "directorContext": "",
+        "checkedOn": "2026-10-03",
+        "releaseEvidence": "November | 20, | 1976 | ( | 1976-11-20 | ) | ( | Paramount Theatre | ) | December | 3, | 1976 | ( | 1976-12-03 | ) | (United States)",
+        "verificationStatus": "redaktionell_geprueft",
+        "originalTitle": "Rocky"
+      }
+    }
+  ],
+  "actorChanges": [
+    {
+      "file": "src/actorSupplementEditorial.json",
+      "id": "SCHAUSPIELER-202610-P03-129-L-2",
+      "before": {
+        "personId": "ACTOR-129",
+        "originalQuestion": "Welchen berühmten Sänger verkörpert Kurt Russell in John Carpenters Fernsehfilm von 1979?",
+        "originalContext": "Der Fernsehfilm erzählt wichtige Stationen von Elvis Presleys Leben und Karriere. Kurt Russell spielte den Sänger körperlich und darstellerisch, während Ronnie McDowell die gesungenen Passagen übernahm. Die Zusammenarbeit mit John Carpenter begann somit vor „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“.",
+        "question": "Welchen berühmten Sänger verkörpert Kurt Russell in John Carpenters Fernsehfilm von 1979?",
+        "text": "Der Fernsehfilm erzählt wichtige Stationen von Elvis Presleys Leben und Karriere. Kurt Russell spielte den Sänger körperlich und darstellerisch, während Ronnie McDowell die gesungenen Passagen übernahm. Die Zusammenarbeit mit John Carpenter begann somit vor „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“.",
+        "films": [
+          "Elvis|1979"
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kurt_Russell",
+          "https://de.wikipedia.org/wiki/Kurt_Russell",
+          "https://en.wikipedia.org/wiki/Elvis_(1979_film)"
+        ]
+      },
+      "after": {
+        "personId": "ACTOR-129",
+        "originalQuestion": "Welchen berühmten Sänger verkörpert Kurt Russell in John Carpenters Fernsehfilm von 1979?",
+        "originalContext": "Der Fernsehfilm „Elvis“ (1979) erzählt wichtige Stationen von Elvis Presleys Leben und Karriere. Kurt Russell spielte den Sänger körperlich und darstellerisch, während Ronnie McDowell die gesungenen Passagen übernahm. Die Zusammenarbeit mit John Carpenter begann somit vor „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“.",
+        "question": "Welchen berühmten Sänger verkörpert Kurt Russell in John Carpenters Fernsehfilm von 1979?",
+        "text": "Der Fernsehfilm „Elvis“ (1979) erzählt wichtige Stationen von Elvis Presleys Leben und Karriere. Kurt Russell spielte den Sänger körperlich und darstellerisch, während Ronnie McDowell die gesungenen Passagen übernahm. Die Zusammenarbeit mit John Carpenter begann somit vor „Die Klapperschlange“ und „Das Ding aus einer anderen Welt“.",
+        "films": [
+          "Elvis|1979"
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kurt_Russell",
+          "https://de.wikipedia.org/wiki/Kurt_Russell",
+          "https://en.wikipedia.org/wiki/Elvis_(1979_film)",
+          "https://theofficialjohncarpenter.com/elvis/"
+        ]
+      }
+    },
+    {
+      "file": "src/actorEditorial.json",
+      "id": "SCHAUSPIELER-202610-P01-015-L-1",
+      "before": {
+        "personId": "ACTOR-015",
+        "originalQuestion": "Wer spielte die Titelmaschine in „Terminator“ von 1984?",
+        "originalContext": "Die sparsame Sprache und körperliche Präsenz machten die Maschine zu einer sofort erkennbaren Filmfigur.",
+        "question": "Wer spielte die Titelmaschine in „Terminator“ von 1984?",
+        "text": "Der Terminator (Arnold Schwarzenegger) wird aus der Zukunft geschickt, um Sarah Connor (Linda Hamilton) zu töten. Kyle Reese (Michael Biehn) versucht sie zu schützen. Die Maschine gibt ihre Verfolgung trotz schwerer Schäden nicht auf; Schwarzeneggers sparsame Sprache und kontrollierte Bewegungen unterstützen diesen Eindruck einer programmierten Bedrohung.",
+        "films": [
+          "The Terminator|1984"
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+          "https://de.wikipedia.org/wiki/Arnold_Schwarzenegger",
+          "https://en.wikipedia.org/wiki/The_Terminator"
+        ]
+      },
+      "after": {
+        "personId": "ACTOR-015",
+        "originalQuestion": "Wer spielte den aus der Zukunft geschickten Killer-Cyborg in „Terminator“ von 1984?",
+        "originalContext": "Die sparsame Sprache und körperliche Präsenz machten die Maschine zu einer sofort erkennbaren Filmfigur.",
+        "question": "Wer spielte den aus der Zukunft geschickten Killer-Cyborg in „Terminator“ von 1984?",
+        "text": "Der Terminator (Arnold Schwarzenegger) wird aus der Zukunft geschickt, um Sarah Connor (Linda Hamilton) zu töten. Kyle Reese (Michael Biehn) versucht sie zu schützen. Die Maschine gibt ihre Verfolgung trotz schwerer Schäden nicht auf; Schwarzeneggers sparsame Sprache und kontrollierte Bewegungen unterstützen diesen Eindruck einer programmierten Bedrohung.",
+        "films": [
+          "The Terminator|1984"
+        ],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger",
+          "https://de.wikipedia.org/wiki/Arnold_Schwarzenegger",
+          "https://en.wikipedia.org/wiki/The_Terminator"
+        ]
+      }
+    }
+  ]
+}

@@ -40,7 +40,7 @@ console.log("TMDB-Zugang und Bildkonfiguration erfolgreich geprüft.");
 const server = await createServer({
   server: { middlewareMode: true, hmr: false, ws: false },
 });
-let questions, filmData;
+let questions, filmData, reviewedPosterFor, selectFilmPosterPath;
 try {
   const { packages, addPackages } =
     await server.ssrLoadModule("/src/packages.ts");
@@ -60,6 +60,9 @@ try {
   );
   questions = validateBackup(state).questions;
   ({ filmData } = await server.ssrLoadModule("/src/filmFacts.ts"));
+  ({ reviewedPosterFor, selectFilmPosterPath } = await server.ssrLoadModule(
+    "/scripts/film-poster-selection.ts",
+  ));
 } finally {
   await server.close();
 }
@@ -291,6 +294,9 @@ async function worker() {
       unresolved.push({ ...research, expectedDirectors: film.directors });
       continue;
     }
+    const posterImages = reviewedPosterFor(film.key)
+      ? (await api(`movie/${movie.id}/images`, { language: "" })).posters
+      : [];
     resolved[film.key] = {
       title: film.title,
       originalTitle: film.originalTitle,
@@ -302,7 +308,7 @@ async function worker() {
       directors: movie.credits.crew
         .filter((person) => person.job === "Director")
         .map((person) => person.name),
-      posterPath: movie.poster_path,
+      posterPath: selectFilmPosterPath(film.key, movie, posterImages),
     };
   }
 }

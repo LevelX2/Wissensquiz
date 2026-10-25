@@ -12,8 +12,8 @@
       "country_note": "",
       "series": {
         "name": "Indiana Jones",
-        "position": null,
-        "note": ""
+        "position": 2,
+        "note": "Reihenfolge der veröffentlichten Kinofilme. Die Handlung spielt 1935, vor dem ersten Film."
       },
       "release_note": "Erste Vorführung 23. April 1984 in Thousand Oaks; regulärer US-Start 23. Mai 1984. Handlung 1935, also vor Jäger des verlorenen Schatzes.",
       "director_note": "",
@@ -29,6 +29,9 @@
         },
         {
           "url": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Temple_of_Doom"
+        },
+        {
+          "url": "https://silver.afi.com/movies/detail/0100000080/"
         }
       ]
     },

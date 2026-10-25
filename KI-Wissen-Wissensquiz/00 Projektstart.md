@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**25.10.2026 – GitHub-Tickets lokal bearbeitet:** Acht offene Meldungen gelesen, sieben korrigiert: Rambo-Poster, drei Reihenangaben sowie Elvis-, Terminator- und Nomadland-Texte. Schwarzenegger-Porträt im aktuellen Stand bereits schlüssig. 50 gezielte Tests und Metadaten/TypeScript erfolgreich; IDs und Lösungen erhalten. Noch nicht veröffentlicht, Tickets bleiben offen. [Entscheidungen und Quellen](../docs/GitHub-Tickets-2026-10-25.md).
+
 **25.10.2026 – Zwei XP-Wertungen lokal ergänzt:** Highscores → Karriere startet mit „Lernfortschritt · Karriere-XP“ aus denselben Summen wie das Profil; „Wettbewerbs-XP“ bleibt eigenständig. Ursache der gemeldeten Levelabweichung war die bisher ausschließlich angezeigte Wettbewerbswertung. Oberfläche und Migration nur lokal, noch nicht veröffentlicht. [Vertrag](../docs/Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal).
 
 **23.10.2026 – Version 84 veröffentlicht:** Schmale Themenskalen und beide Fragenkorrekturen vom 21.10.2026 aus Main öffentlich aktiviert. Weiterhin 15.295 Fragen / 14.628 Ziele in 39 Paketen; 180 Fragen geändert, Identitäten und Lösungen erhalten. 510 Logiktests und nach gezielten Nachprüfungen 416 unterschiedliche Browserfälle erfolgreich, ein vorgesehener Skip. Alle 30 privaten Quelltabellen während der Katalogaktivierung unverändert; 993 öffentliche Dateien bytegleich bestätigt. [Nachweis](../docs/Veroeffentlichung-2026-10-23-Version-84.json).

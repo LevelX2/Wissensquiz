@@ -2382,7 +2382,11 @@
       "country_note": "BFI führt Deutschland und USA; die Wikipedia-Infobox nennt nur USA. Die Länderangabe folgt dem BFI-Filmarchiv, nicht der Verteilung der Drehorte.",
       "release_note": "Hollywood-Premiere am 15. Juli 2004; regulärer US-Kinostart am 23. Juli 2004.",
       "director_note": "",
-      "series": null,
+      "series": {
+        "name": "Bourne",
+        "position": 2,
+        "note": "Reihenfolge der veröffentlichten Kinofilme."
+      },
       "sources": [
         {
           "key": "handlung",
