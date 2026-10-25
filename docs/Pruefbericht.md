@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## 25.10.2026 – Verbliebene Importlogik und ungenutzte Helfer geprüft, lokal
+
+Den statischen Modulgraphen ab `src/main.tsx` einschließlich dynamischer Imports und die Aufrufer in Anwendung, Betreiberwerkzeugen und Tests geprüft. `importer.ts` und `packages.ts` sind nicht vom Browser-Einstieg erreichbar, werden aber von `prepare-server-content.mjs` für den offiziellen Katalog benötigt. `backupValidation.ts` und `backupSchema.ts` prüfen weiterhin aktuelle Onlinespielstände und Proberunden. Diese aktiven Funktionen bleiben erhalten; keine neue Import- oder Kompatibilitätslogik.
+
+Der JSON-Downloadhelfer `src/download.ts` hatte keine Aufrufer und wurde entfernt. Den Importvertrag um die aktuelle Betreibergrenze ergänzt und dessen veraltete Aussagen zur manuellen JSON-Sicherung berichtigt.
+
+Weitere Entfernungskandidaten, hier noch unverändert: `src/guestActivityDelivery.ts` (Gastaktivitäts-Warteschlange, nur durch `tests/guest-activity.test.ts` erreicht), `src/collection.ts` (`answeredTopics`, nur in `collection.test.ts` und `dont-know.test.ts` verwendet), `src/catalogIndex.ts` (nur `catalogIndex.test.ts`) sowie `fake-indexeddb` (in `package.json`/Lockdatei deklariert, keine Verbraucher im ausführbaren Projektcode gefunden). Die heutige Sammlung verwendet Serverabfragen. Eine Entfernung dieser Kandidaten muss die zugehörigen Tests auf tatsächlich aktive Funktionen ausrichten; aus Testreferenzen allein folgt kein Bedarf im Produkt.
+
+Prüfung: Aufrufer- und Modulgraphenanalyse, `npm run check` einschließlich TypeScript und Laufzeitmetadaten sowie `git diff --check` erfolgreich. Kein Produktionsbuild oder Browser-Gesamtlauf für die Entfernung eines unbenutzten Helfers. Keine produktiven Daten, Veröffentlichung oder Push.
+
 ## 25.10.2026 – GitHub-Tickets lokal korrigiert
 
 Alle acht offenen Tickets #3–#10 gelesen und gegen den aktuellen App-Katalog geprüft. Sieben Korrekturen, ein begründet erhaltener aktueller Stand; [Einzelfallbericht und Quellen](GitHub-Tickets-2026-10-25.md). Drei CSV-Zeilen, zwei Personenanzeigen und vier Filmdatensätze angepasst. Redaktionelle Rambo-Posterauswahl im Betreiberlauf und im lokalen ignorierten Index nachgezogen. Aktuelle Redaktionsreferenz und Prüfmanifest mit vollständigem Vorher-/Nachher-Nachweis aktualisiert. Frage-/Zielidentitäten, Antworten, Lösungen, Schwierigkeiten, Varianten und Bestandsgrößen erhalten.
