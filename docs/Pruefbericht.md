@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 26.10.2026 – Mission-Impossible-Reihenpositionen lokal ergänzt
+
+Fehlende Positionen für Mission: Impossible III (Teil 3) und Rogue Nation (Teil 5) in Gesamt-/Action-Filmdaten und zugehöriger Redaktion ergänzt; doppelt gepflegten Schauspieler-Filmdatensatz zum ersten Film auf Teil 1 vereinheitlicht. Teil 1, Phantom Protokoll (Teil 4) und Fallout (Teil 6) waren im aktiven Katalog bereits richtig. Paramount-Quellenbeleg ergänzt; [Fachstand und Quelle](Filmwissen-und-Filmdaten.md#mission-impossible-reihenpositionen--26102026-lokal).
+
+**25 gezielte Tests in vier Dateien erfolgreich:** `film-series`, `film-facts`, `genre100`, `actor-supplements`. Der neue Test prüft acht Metadateneinträge und zwei Redaktionsdatensätze sowie alle vorbereiteten Anzeigen im vollständigen aktuellen Katalog einschließlich Personenfragen. Der erste Anzeigenlauf erfasste zusätzlich den bereits korrekt zugeordneten Fallout; die vollständige Erwartung umfasst alle fünf enthaltenen Filme. Nachlauf aller vier Dateien erfolgreich. Kein Anspruch auf eine Prüfung weiterer Filmreihen.
+
+Struktureller Vorher-/Nachher-Vergleich aller fünf geänderten Datendateien bestätigt: ausschließlich Reihenzuordnung und zugehörige Quellenangabe geändert. Fragen, Antworten, Identitäten und sonstige Metadaten identisch zum Ausgangsstand. `npm run check` einschließlich Laufzeitmetadaten und TypeScript sowie `git diff --check` erfolgreich. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf für die begrenzte Metadatenkorrektur. Keine eigenen temporären Artefakte angelegt, fremde Mifune-Konfigurationen erhalten. Lokal auf Main; keine produktive Katalogaktivierung, Veröffentlichung oder Push.
+
 ## 25.10.2026 – Bestätigte ungenutzte Altmodule entfernt, lokal
 
 Auf Folgeauftrag die zuvor belegten Entfernungskandidaten bereinigt: `src/guestActivityDelivery.ts` mit der früheren lokalen Gastmelde-Warteschlange, `src/collection.ts` mit `answeredTopics` und `src/catalogIndex.ts`. Die drei Module hatten ausschließlich Testverbraucher. Ihre separaten Tests `guest-activity.test.ts`, `collection.test.ts` und `catalogIndex.test.ts` entfallen entsprechend. Im weiterhin aktiven `dont-know.test.ts` nur die Referenz auf den entfernten Sammlungshelfer gestrichen; Auswertung, Fragenstatistik, Profil und Spielstandsvalidierung bleiben geprüft. Eine identisch doppelte JSON-Validierungsassertion und die irreführende Sicherungsbezeichnung im selben Test ebenfalls bereinigt.

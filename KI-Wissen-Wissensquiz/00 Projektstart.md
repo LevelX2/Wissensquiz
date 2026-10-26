@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**26.10.2026 – Mission-Impossible-Teilnummern lokal vervollständigt:** III als Teil 3 und Rogue Nation als Teil 5 ergänzt; wiederverwendete Daten zum ersten Film vereinheitlicht. Alle fünf enthaltenen Filme einschließlich Personenverweisen geprüft. 25 gezielte Tests und Metadaten/TypeScript erfolgreich; noch nicht veröffentlicht. [Fachstand und Quelle](../docs/Filmwissen-und-Filmdaten.md#mission-impossible-reihenpositionen--26102026-lokal).
+
 **25.10.2026 – Ungenutzte Altmodule lokal entfernt:** Alte Gastmelde-Warteschlange, lokale Sammlungs-/Kataloghelfer, deren ausschließliche Tests und `fake-indexeddb` entfernt. Zuvor bereits den verwaisten JSON-Download entfernt; offizieller CSV-Katalogaufbau und aktive Spielstandsvalidierung bleiben erforderlich. 40 gezielte Tests und Metadaten/TypeScript erfolgreich; keine Veröffentlichung oder Datenbankänderung. [Abnahme](../docs/Pruefbericht.md#25102026--bestätigte-ungenutzte-altmodule-entfernt-lokal).
 
 **25.10.2026 – GitHub-Tickets lokal bearbeitet:** Acht offene Meldungen gelesen, sieben korrigiert: Rambo-Poster, drei Reihenangaben sowie Elvis-, Terminator- und Nomadland-Texte. Schwarzenegger-Porträt im aktuellen Stand bereits schlüssig. 50 gezielte Tests und Metadaten/TypeScript erfolgreich; IDs und Lösungen erhalten. Noch nicht veröffentlicht, Tickets bleiben offen. [Entscheidungen und Quellen](../docs/GitHub-Tickets-2026-10-25.md).

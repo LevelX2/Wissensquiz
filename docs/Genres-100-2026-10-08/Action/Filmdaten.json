@@ -514,8 +514,17 @@
       "country_note": "BFIs Filmarchiv nennt Germany, USA und People's Republic of China. Die Wikipedia-Infobox führt nur USA. Die Liste folgt dem Filmarchiv; Drehorte allein wurden nicht als Länderbeleg benutzt.",
       "release_note": "Weltpremiere am 24. April 2006 im Cinema Adriano in Rom; US-Kinostart am 5. Mai 2006. Die Infobox nennt nur den späteren US-Start.",
       "director_note": "",
-      "series": null,
+      "series": {
+        "name": "Mission: Impossible",
+        "position": 3,
+        "note": "Reihenfolge der veröffentlichten Kinofilme."
+      },
       "sources": [
+        {
+          "key": "reihe",
+          "url": "https://www.paramountplus.com/sneak-peak/mission-impossible-movies-to-stream/",
+          "checked_on": "2026-10-26"
+        },
         {
           "key": "handlung",
           "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_III",
@@ -564,8 +573,17 @@
       "country_note": "BFIs Statistical Yearbook 2019 führt Rogue Nation in der Fernsehauswertung als UK/USA (Tabelle 10, gedruckte Seite 118). Wikipedia nennt nur USA. Hier wird die institutionelle Länderzuordnung übernommen; Marokko und Österreich sind dadurch nicht automatisch Produktionsländer.",
       "release_note": "Weltpremiere am 23. Juli 2015 in der Wiener Staatsoper; US-Kinostart am 31. Juli 2015.",
       "director_note": "",
-      "series": null,
+      "series": {
+        "name": "Mission: Impossible",
+        "position": 5,
+        "note": "Reihenfolge der veröffentlichten Kinofilme."
+      },
       "sources": [
+        {
+          "key": "reihe",
+          "url": "https://www.paramountplus.com/sneak-peak/mission-impossible-movies-to-stream/",
+          "checked_on": "2026-10-26"
+        },
         {
           "key": "handlung",
           "url": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation",

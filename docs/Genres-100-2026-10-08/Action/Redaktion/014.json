@@ -16,7 +16,11 @@
     "premiere": "https://www.gettyimages.co.uk/detail/news-photo/simon-pegg-and-host-steven-gaetjen-speak-on-stage-during-news-photo/481681270",
     "laender": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2019.pdf",
     "effekte": "https://www.fxguide.com/fxfeatured/hold-on-the-vfx-of-rogue-nation/",
-    "vergleich": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts"
+    "vergleich": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts",
+    "reihe": {
+      "url": "https://www.paramountplus.com/sneak-peak/mission-impossible-movies-to-stream/",
+      "checked_on": "2026-10-26"
+    }
   },
   "questions": [
     {
@@ -208,5 +212,10 @@
       ],
       "objective": "McQuarrie verbindet Organisationsverlust mit einer unsicheren neuen Partnerschaft."
     }
-  ]
+  ],
+  "series": {
+    "name": "Mission: Impossible",
+    "position": 5,
+    "note": "Reihenfolge der veröffentlichten Kinofilme."
+  }
 }

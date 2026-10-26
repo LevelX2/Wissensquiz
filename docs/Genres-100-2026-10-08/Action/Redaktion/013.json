@@ -16,7 +16,11 @@
     "studio": "https://www.paramountpictures.com/movies/mission-impossible-iii",
     "archiv": "https://www.bfi.org.uk/film/cb2cf43d-edbf-5acd-93eb-8776068ca5a1/mission-impossible-iii",
     "premiere": "https://www.gettyimages.ie/photos/impossible-iii-rome-premiere-arrivals",
-    "vergleich": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts"
+    "vergleich": "https://www.bfi.org.uk/features/mission-impossible-fallout-stunts",
+    "reihe": {
+      "url": "https://www.paramountplus.com/sneak-peak/mission-impossible-movies-to-stream/",
+      "checked_on": "2026-10-26"
+    }
   },
   "questions": [
     {
@@ -207,5 +211,10 @@
       ],
       "objective": "Abrams macht Ethans Privatleben zum Kern der dritten Mission."
     }
-  ]
+  ],
+  "series": {
+    "name": "Mission: Impossible",
+    "position": 3,
+    "note": "Reihenfolge der veröffentlichten Kinofilme."
+  }
 }
