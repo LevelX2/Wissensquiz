@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 26.10.2026 – Kurze Zeitmodusbezeichnung in Ergebnissen und Verlauf
+
+Den im Nutzerbild sichtbaren langen Beschreibungstext in der Zeitrunden-Punktekarte durch die bestehende `recordSelectionLabel`-Beschriftung ersetzt: „Universal“ oder „Genre · <Genrename>“. Aufzählung von Genres, Themen, Stufen und internen Regelkennungen einschließlich der unzutreffenden Vorsilbe „Lokale Trainingsrunde“ entfernt. Zeitrunden im Sammlungsverlauf und Kategorien der persönlichen Ergebnisliste verwenden ebenfalls die Kurzbezeichnung. Lernrunden behalten ihre bisherigen Angaben. [Darstellungsvertrag](Rekordmodi-und-Zeitranglisten.md#kurze-bezeichnung-in-ergebnissen-und-verlauf--26102026-lokal).
+
+**13 bestehende Tests in `record-modes` und `leaderboard` erfolgreich.** Zusätzlich zwölf direkte React-Darstellungsfälle mit synthetischen Zuständen und festem Rundendatum geprüft: drei Zeitmodi × Universal/Ein Genre × lokale/serverbestätigte Regelkennung. Die echten Komponenten `Result` und `CollectionPage` sowie die persönliche Ranglistenbeschriftung liefern den kurzen Text; keine alte Aufzählung in Punktekarte oder Verlauf. Serialisierter Spielstand vor und nach jeder Darstellung identisch. Serverseitige React-Ausgabe, keine Browser-/Layoutabnahme behauptet. Ein zunächst unnötiger Vite-Abhängigkeitsscan las lokale HTML-Artefakte und meldete Abbruchfehler beim Schließen; denselben Darstellungscheck anschließend mit deaktivierter automatischer Abhängigkeitssuche vollständig ohne Fehler wiederholt.
+
+`npm run check` einschließlich Laufzeitmetadaten und TypeScript sowie `git diff --check` erfolgreich. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf für diese kleine Textkorrektur. Keine eigenen dauerhaften Prüfartefakte angelegt, Prüfserver geschlossen; fremde Mifune-Konfigurationen erhalten. Lokal auf Main, noch nicht veröffentlicht; keine Datenbankänderung oder Push.
+
 ## 26.10.2026 – Mission-Impossible-Reihenpositionen lokal ergänzt
 
 Fehlende Positionen für Mission: Impossible III (Teil 3) und Rogue Nation (Teil 5) in Gesamt-/Action-Filmdaten und zugehöriger Redaktion ergänzt; doppelt gepflegten Schauspieler-Filmdatensatz zum ersten Film auf Teil 1 vereinheitlicht. Teil 1, Phantom Protokoll (Teil 4) und Fallout (Teil 6) waren im aktiven Katalog bereits richtig. Paramount-Quellenbeleg ergänzt; [Fachstand und Quelle](Filmwissen-und-Filmdaten.md#mission-impossible-reihenpositionen--26102026-lokal).

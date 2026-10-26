@@ -11,7 +11,9 @@ import type { Round, State } from "./model";
 import { roundFacts, roundQuestionCount } from "./roundArchive";
 import {
   isRankedRecord,
+  isRecordMode,
   isEndlessMode,
+  recordSelectionLabel,
   modeNames,
   inPeriod,
   type RecordMode,
@@ -48,7 +50,9 @@ export const levelSelectionKey = (r: Round) =>
     ? JSON.stringify(canonicalFilters(r.filters).difficulties)
     : `historisch:${r.difficulty}`;
 export const categoryLabel = (r: Round) =>
-  `${modeNames[r.mode]} · ${genreSelectionLabel(r)}${r.topic !== "Alle Themen" ? ` · ${r.topic}` : ""} · ${roundDifficulties(r)}${r.filters?.familiarities?.length ? ` · Bekanntheitsgruppen ${r.filters.familiarities.join(" + ")}` : ""} · ${isEndlessMode(r.mode) ? "Endlos" : `${roundQuestionCount(r)} Fragen`} · Regel ${ruleLabel(r.ruleVersion)}${r.filters ? "" : " · frühere Themenauswahl"}`;
+  isRecordMode(r.mode)
+    ? `${modeNames[r.mode]} · ${recordSelectionLabel(r)}`
+    : `${modeNames[r.mode]} · ${genreSelectionLabel(r)}${r.topic !== "Alle Themen" ? ` · ${r.topic}` : ""} · ${roundDifficulties(r)}${r.filters?.familiarities?.length ? ` · Bekanntheitsgruppen ${r.filters.familiarities.join(" + ")}` : ""} · ${isEndlessMode(r.mode) ? "Endlos" : `${roundQuestionCount(r)} Fragen`} · Regel ${ruleLabel(r.ruleVersion)}${r.filters ? "" : " · frühere Themenauswahl"}`;
 
 export function leaderboard(
   state: State,

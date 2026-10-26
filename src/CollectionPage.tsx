@@ -3,6 +3,7 @@ import { ServerTopicList } from "./ServerTopicList";
 
 import { type State, type RoundSetup } from "./model";
 import { roundGenres, roundDifficulties } from "./filters";
+import { isRecordMode, recordSelectionLabel } from "./recordModes";
 import { AchievementIcon } from "./AchievementIcon";
 import { successTiers } from "./successTiers";
 import { Leaderboard } from "./RecordLeaderboard";
@@ -183,11 +184,15 @@ export function CollectionPage({
                 <article key={r.id}>
                   <div>
                     <b>
-                      {historicalModeName(r)} · {roundGenres(r)}
+                      {historicalModeName(r)} ·{" "}
+                      {isRecordMode(r.mode)
+                        ? recordSelectionLabel(r)
+                        : roundGenres(r)}
                     </b>
                     <small>
                       {formatDate(r.finishedAt!)} · {roundQuestionCount(r)}{" "}
-                      Fragen · {roundDifficulties(r)}
+                      Fragen
+                      {!isRecordMode(r.mode) && ` · ${roundDifficulties(r)}`}
                     </small>
                   </div>
                   <span>

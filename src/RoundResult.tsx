@@ -1,14 +1,9 @@
-import { isRecordMode } from "./recordModes";
-import { familiarityLabel, ruleLabel } from "./familiarity";
+import { isRecordMode, recordSelectionLabel } from "./recordModes";
+import { familiarityLabel } from "./familiarity";
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { points, selectQuestions } from "./engine";
 import { type Round, type State } from "./model";
-import {
-  difficultyLabel,
-  genreLabel,
-  roundGenres,
-  roundDifficulties,
-} from "./filters";
+import { difficultyLabel, genreLabel } from "./filters";
 import { GenreArtwork } from "./Icons";
 import { repetitionContext } from "./errorTraining";
 import { useForegroundTime } from "./useForegroundTime";
@@ -259,10 +254,7 @@ export function Result({
             {events.reduce((a, e) => a + e.knowledgePoints, 0)} Wissen +{" "}
             {events.reduce((a, e) => a + e.timeBonus, 0)} Zeitbonus
           </span>
-          <small>
-            Lokale Trainingsrunde · {roundGenres(round)} ·{" "}
-            {roundDifficulties(round)} · Regel {ruleLabel(round.ruleVersion)}
-          </small>
+          <small>{recordSelectionLabel(round)}</small>
         </div>
       )}
       <div className="result-progress">

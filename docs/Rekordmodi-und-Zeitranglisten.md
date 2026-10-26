@@ -1,5 +1,11 @@
 # Rekordmodi und Zeitranglisten
 
+## Kurze Bezeichnung in Ergebnissen und Verlauf – 26.10.2026, lokal
+
+Die Punktekarte abgeschlossener Zeitrunden zeigt ausschließlich **Universal** beziehungsweise **Genre · <Genrename>**, mit derselben bestehenden Beschriftung wie die Rekordauswahl. Die lange Aufzählung aller Genres, „Alle Themen“, Schwierigkeitsstufen und interne Regelkennungen entfallen dort. Auch die irreführende Vorsilbe „Lokale Trainingsrunde“ entfällt: dieselbe Ansicht zeigt serverbestätigte Zeitrunden.
+
+Das gilt für 10 Fragen, Fehlerfrei und Zeitkonto sowie deren Rückblick. Im Sammlungsverlauf und in den persönlichen Ergebnislisten wird die Zeitrundenkategorie ebenfalls kurz bezeichnet; Modusname, Datum, Fragenzahl und Ergebnis bleiben an ihren jeweiligen Stellen sichtbar. Die Überschrift beziehungsweise zugängliche Kategoriebezeichnung der persönlichen Ergebnisliste nennt Modus und Kurzbezeichnung. Lernrunden behalten ihre bisherigen Filterangaben. Auswahl, Kategoriekennungen, Regeln, Punkte und Spielstände werden nicht verändert. Nur lokal umgesetzt, noch nicht veröffentlicht. [Prüfnachweis](Pruefbericht.md#26102026--kurze-zeitmodusbezeichnung-in-ergebnissen-und-verlauf).
+
 **Bezeichnung 10.10.2026 lokal geändert, noch nicht veröffentlicht:** Die bereichsübergreifende Rekordauswahl heißt „Universal“, ergänzt um „Alle Bereiche“. Auswahl, Modushilfe sowie persönliche und gemeinsame Ranglisten verwenden denselben Namen. Technische Kennungen, Auswahlregeln und gespeicherte Rekorde bleiben unverändert. „Königsklasse“ in früheren Rohquellen und Veröffentlichungsnachweisen bezeichnet dieselbe Auswahl.
 
 Prüfung der Umbenennung: elf Rekordmodus-Tests, Produktionsbuild einschließlich Katalogvorbereitung und vier gezielte Browserfälle in Chromium und WebKit mobil erfolgreich. Vollständige Testläufe wegen Zeitüberschreitungen beziehungsweise Node-Speicherlimit abgebrochen, auch bei einem Worker; daraus folgt keine vollständige Abnahme des übrigen aktuellen Projektstands.
