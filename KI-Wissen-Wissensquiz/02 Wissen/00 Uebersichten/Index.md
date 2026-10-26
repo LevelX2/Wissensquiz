@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Jahresfragen ohne Rechenhinweise: 34 Fragen lokal korrigiert – 26.10.2026](../../../docs/Fragenkorrekturen.md#jahresfragen-ohne-rechenhinweise--26102026-lokal)
+
 - [Acht GitHub-Meldungen geprüft, sieben lokal korrigiert; Poster, Reihenangaben und Fragentexte – 25.10.2026](../../../docs/GitHub-Tickets-2026-10-25.md)
 
 - [Getrennte Highscore-Wertungen für Lernfortschritt/Karriere-XP und Wettbewerbs-XP – 25.10.2026, lokal](../../../docs/Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal)

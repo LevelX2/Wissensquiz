@@ -1,5 +1,22 @@
 # Bestätigte Fragenkorrekturen
 
+## Jahresfragen ohne Rechenhinweise – 26.10.2026, lokal
+
+Der [unveränderte Nutzerbeleg](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-26%20Nutzerbeleg%20Jahresfrage%20Wilder%20Westen.jpg) zeigt eine Jahresfrage, deren Bezugsjahr und Zeitabstand die Lösung ausrechenbar machen. Die gezielte Suche über alle 40 öffentlichen CSV-Dateien (14.470 Zeilen, davon 882 Fragen mit vier Jahresoptionen) ergab 39 Kandidaten. Fünf fragen nach einem Handlungsjahr; das angegebene Veröffentlichungsjahr verrät ihre Lösung nicht. Die übrigen 34 gehören zum Erweiterungspaket vom 07.10.2026: 29 nennen Bezugsjahr und exakten Abstand, vier nur den Abstand, eine den Drehzeitraum.
+
+Alle 34 Fragetexte lokal bereinigt, 15 rein rechnerische Kurzantworten durch direkte Filmaussagen ersetzt und 87 Rückmeldungen angepasst: 72 reine Zahlenabstände entfernt, 15 richtige Rückmeldungen an die Kurzantwort angeglichen. Zeitliche Hintergründe in den Vertiefungen vollständig erhalten. Filmfassungen weiterhin eindeutig benannt, insbesondere Tim Burtons „Alice im Wunderland“ sowie die ursprünglichen Filme „Candyman“ und „Hellraiser“. IDs, Wissensziele, Stufen, vier Antworttexte und Lösungen unverändert. 33 Fragetexte waren in der letzten Redaktion bereits ohne den beanstandeten Zusatz formuliert; bei „The Wailing“ musste auch der Entwurf korrigiert werden. Andere, teilweise weitergehende Redaktionsvorschläge werden nicht pauschal übernommen.
+
+Aktueller App-Text für `E20261007-F-107-Y`: **In welchem Jahr erschien „Das war der wilde Westen“ erstmals?**
+
+- A: 1960
+- **B: 1962 – richtig**
+- C: 1961
+- D: 1963
+
+Kurzantwort: „Das war der wilde Westen“ wurde erstmals 1962 veröffentlicht. Die erhaltene Vertiefung trennt Artikelserie, erste Veröffentlichung und späteren US-Start. Der [AFI-Katalog](https://catalog.afi.com/Film/23992-HOW-THE-WEST-WAS-WON) nennt im Hauptdatensatz 1963 für den US-Start, dokumentiert im historischen Text aber ausdrücklich die Londoner Premiere am 1. November 1962. Es besteht deshalb kein Anlass, die richtige Lösung auf 1963 zu ändern. [Disney](https://movies.disney.com/alice-in-wonderland-2010) bestätigt Tim Burton für die gemeinte Alice-Fassung; der Regiehinweis identifiziert sie ohne Jahresverrat.
+
+Nur lokale Korrektur; wirksam auf der Website nach gesondert beauftragter Veröffentlichung und Katalogaktivierung. Originalpakete und ältere Redaktionsstände bleiben erhalten. [Gebündelter Prüfnachweis](Pruefbericht.md#26102026--jahresfragen-ohne-rechenhinweise-lokal).
+
 ## GitHub-Tickets #3–#10 – 25.10.2026, lokal
 
 Alle acht offenen Meldungen geprüft. Sieben lokal korrigiert: Rambo-Posterauswahl, Reihenpositionen für „Tempel des Todes“, „Rocky“ und „Die Bourne Verschwörung“, Filmtitel „Elvis“ in der Vertiefung, verständliche Terminator-Rollenfrage und Frances McDormand im Nomadland-Fragetext. Der Schwarzenegger-Porträtbezug auf „Pumping Iron“ und „Terminator“ passt zur seit Version 83 veröffentlichten biografischen Vertiefung; unverändert erhalten. Identitäten, Lösungen und Rohquellen erhalten. Noch nicht veröffentlicht; GitHub-Tickets weiterhin offen. [Einzelentscheidungen, Quellen und Prüfnachweis](GitHub-Tickets-2026-10-25.md).

@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**26.10.2026 – Jahresfragen ohne Rechenhinweise lokal korrigiert:** 34 Fragetexte im Erweiterungspaket bereinigt; 15 rechnerische Kurzantworten ersetzt und 87 Rückmeldungen angepasst. Zeitliche Hintergründe nach der Antwort, Identitäten, Optionen und Stufen erhalten. Noch nicht veröffentlicht. [Fachstand und Quellen](../docs/Fragenkorrekturen.md#jahresfragen-ohne-rechenhinweise--26102026-lokal).
+
 **26.10.2026 – Zeitrundenergebnisse lokal gekürzt:** Punktekarte nennt nur „Universal“ oder „Genre · …“; lange Genre-/Stufenlisten und interne Regeltexte entfernt. Verlauf und persönliche Ergebnislisten entsprechend vereinheitlicht. 13 bestehende Tests, zwölf React-Darstellungsfälle und Metadaten/TypeScript erfolgreich. Noch nicht veröffentlicht. [Darstellungsvertrag](../docs/Rekordmodi-und-Zeitranglisten.md#kurze-bezeichnung-in-ergebnissen-und-verlauf--26102026-lokal).
 
 **26.10.2026 – Mission-Impossible-Teilnummern lokal vervollständigt:** III als Teil 3 und Rogue Nation als Teil 5 ergänzt; wiederverwendete Daten zum ersten Film vereinheitlicht. Alle fünf enthaltenen Filme einschließlich Personenverweisen geprüft. 25 gezielte Tests und Metadaten/TypeScript erfolgreich; noch nicht veröffentlicht. [Fachstand und Quelle](../docs/Filmwissen-und-Filmdaten.md#mission-impossible-reihenpositionen--26102026-lokal).

@@ -1,6 +1,6 @@
 # Redaktion von Filmfragen, Schauspielerfragen und Preisfragen
 
-Stand: 21.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
+Stand: 26.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
 Quelle: [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Fragenredaktions-Skill.txt). Bestehende technische Bereichs- und Importverträge wurden für den Stand abgeglichen.
 
@@ -138,6 +138,8 @@ Bei größeren Durchsichten auf Nutzerwunsch im Gespräch nur starke Verbesserun
 Filmidentität über tatsächlichen Originaltitel und Jahr der ersten Veröffentlichung einschließlich Premiere/Festival feststellen. Remakes, Fortsetzungen, alternative Titel, Schnittfassungen und Sprachfassungen abgrenzen. Produktionsjahr, erste Veröffentlichung, deutscher Kinostart und Preisverleihungsjahr nicht vermischen.
 
 Die Jahresfrage darf die gesuchte Jahreszahl vor der Antwort nicht verraten, auch nicht durch eine routinemäßige Titel-Jahr-Klammer. Enthält der Titel selbst das Lösungsjahr, die Fassung mit anderen belegten Angaben identifizieren. Eine Regiefrage darf den gesuchten Namen nicht als einleitenden Regiehinweis nennen. Metadaten, Überschrift, Lernziel, Tags und sichtbare Zusatztexte auf solche Hinweise prüfen; Erklärungen und Filmdaten erscheinen nach der Antwort.
+
+Bei Jahresfragen auch Bezugsjahr und Zeitabstand gemeinsam prüfen: Eine Formulierung wie „drei Jahre nach 1959“ verrät das gesuchte Jahr durch Rechnung. Ein Abstand ohne genanntes Bezugsjahr kann zusammen mit den vier Optionen ebenfalls eine Lösung nahelegen. Solche zeitlichen Verbindungen gehören in die Vertiefung nach der Antwort. Der Fragetext identifiziert die Filmfassung ohne Rechenanleitung; Kurzantwort und Rückmeldungen behandeln das Filmwissen statt bloßer Differenzen zwischen Zahlen. Bereits verbesserte Redaktionsentwürfe bei einer Integrationsabnahme mit dem tatsächlichen App-Text abgleichen. [Gezielte Korrektur vom 26.10.2026](Fragenkorrekturen.md#jahresfragen-ohne-rechenhinweise--26102026-lokal).
 
 Auch Inhaltsfragen müssen diese gemeinsame Prüfung von Fragetext, Filmtitel und vier Antworten bestehen. Die gesuchte Antwort darf weder direkt darin stehen noch allein durch die Formulierungslogik eindeutig ableitbar sein. Die Frage nach den herrschenden Wesen in „Planet der Affen“ scheitert am Titelhinweis; ein anderes Wissensziel ist nötig. Eine Hangover-Frage, die Phil, Stu und Alan als Suchende vorwegnimmt und dieselben Personen neben Doug als Optionen anbietet, verrät Doug durch Ausschluss. Suchende im Fragetext weglassen; hilfreiche Zusätze hinter den Antwortnamen dürfen bleiben. [Korrigierte Beispiele](Fragenkorrekturen.md).
 
