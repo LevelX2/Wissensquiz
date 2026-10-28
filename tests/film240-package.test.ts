@@ -235,6 +235,7 @@ it("zeigt die recherchierten Filmdaten fassungsgenau und erhält eine bestehende
     const sources = correction && "sources" in correction.after
       ? correction.after.sources
       : film.sources;
+    if (!sources) throw new Error(`Fehlende Quellen: ${film.film_title_original}`);
     expect(filmData(q)?.sources).toEqual([
       ...new Set(sources.map((s) => s.url.replace(/^http:/, "https:"))),
     ]);
