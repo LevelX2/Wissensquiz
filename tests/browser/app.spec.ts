@@ -410,7 +410,7 @@ test("Ton und Vibration sind steuerbar, gespeichert und ergänzen das Antwortfee
   ).toBeDisabled();
 });
 
-test("Rekordübersicht zeigt Einzelgenre und festen Stufenmix ohne Darstellungsfehler", async ({
+test("Rekordübersicht zeigt Einzelgenre und kurze Ergebnisbezeichnung ohne Darstellungsfehler", async ({
   page,
 }) => {
   const errors: string[] = [];
@@ -470,6 +470,9 @@ test("Rekordübersicht zeigt Einzelgenre und festen Stufenmix ohne Darstellungsf
   await expect(page.locator(".result-genres")).toContainText("Horror");
   await expect(page.locator(".result-genres")).toContainText("10 / 10 richtig");
   await expect(page.locator(".score-breakdown")).toContainText(
+    "Genre · Horror",
+  );
+  await expect(page.locator(".score-breakdown")).not.toContainText(
     "Leicht + Mittel + Schwer",
   );
   await page.getByRole("button", { name: "Sammlung", exact: true }).click();
