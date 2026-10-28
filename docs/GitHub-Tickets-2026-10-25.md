@@ -1,6 +1,6 @@
 # GitHub-Tickets vom 25.10.2026
 
-Alle acht offenen Issues #3–#10 und ihre Kommentare wurden gelesen. Es gab keine Kommentare. Sieben Meldungen sind lokal korrigiert; eine betrifft einen inzwischen überarbeiteten Stand. Keine Veröffentlichung, produktive Katalogaktivierung, GitHub-Kommentare, Ticketschließung oder Push. Die Issues bleiben bis zur gesonderten Freigabe und Auslieferung offen.
+Alle acht offenen Issues #3–#10 und ihre Kommentare wurden gelesen. Es gab keine Kommentare. Sieben Meldungen wurden lokal korrigiert und sind seit Version 85 am 28.10.2026 einschließlich Katalogaktivierung veröffentlicht; eine betrifft einen bereits überarbeiteten Stand. GitHub-Kommentare, Ticketschließung und GitHub-Push waren nicht beauftragt; die Issues bleiben offen. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-28-Version-85.json).
 
 ## Entscheidungen und Änderungen
 

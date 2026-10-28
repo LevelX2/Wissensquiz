@@ -1,0 +1,179 @@
+{
+  "version": 85,
+  "sourceBranch": "main",
+  "sourceCommit": "3ca63cf4970ff662d5da13be31a038b595a016fe",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-10-28T19:27:00.650619+00:00",
+  "publishedAtBerlin": "28.10.2026, 20:27:00",
+  "timezone": "Europe/Berlin",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "githubPush": false,
+  "changes": [
+    "Getrennte Karriere-/Wettbewerbs-XP und entsprechende Bestenlisten",
+    "Sieben gemeldete Korrekturen: Rambo-Poster, Filmreihen und Fragentexte",
+    "Vervollständigte Mission-Impossible-Reihenpositionen",
+    "Kurze Zeitrundenbezeichnungen in Ergebnis und Verlauf",
+    "34 Jahresfragen ohne ausrechenbare Lösungshinweise",
+    "Ungenutzte Gast-, Katalog- und Downloadmodule entfernt",
+    "Sicherheitsaktualisierungen innerhalb der bestehenden Versionsbereiche und drei Testkorrekturen"
+  ],
+  "data": {
+    "packages": 39,
+    "questions": 15295,
+    "goals": 14628,
+    "changedQuestions": 37,
+    "changedPresentations": 85,
+    "identityOrSolutionChanges": 0,
+    "difficultyChanges": 0,
+    "reset": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_89cfd6e7465c8191b1524cc9efc2f6b0",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 85,
+    "source": {
+      "commit_sha": "3ca63cf4970ff662d5da13be31a038b595a016fe"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000dbc8820a86c630990b8bb181",
+      "content_hash": "sha256:0ea86f07285478a1c6264dd319b2dfd2909ddc0470ddd65ec7cbbcf32f9ca487",
+      "size_bytes": 94812160,
+      "file_count": 995
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ae24c6e758c8191a00ee4ed6361074c",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_89cfd6e7465c8191b1524cc9efc2f6b0",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-10-28T19:27:00.650619+00:00"
+  },
+  "checks": {
+    "unitTests": 511,
+    "unitFiles": 82,
+    "unitDurationSeconds": 142.07,
+    "metadataAndTypescript": true,
+    "build": true,
+    "buildFiles": 994,
+    "buildBytes": 94019219,
+    "finalBuildByteEqualToBrowserBuild": true,
+    "diffCheck": true,
+    "audit": {
+      "vulnerabilities": 0,
+      "initiallyReportedPackages": 5,
+      "dependencyUpdates": true
+    },
+    "browser": {
+      "planned": 417,
+      "passed": 416,
+      "skipped": 1,
+      "unresolved": [],
+      "initial": {
+        "startTime": "2026-10-28T17:50:56.675Z",
+        "duration": 5364783.738,
+        "expected": 414,
+        "skipped": 1,
+        "unexpected": 2,
+        "flaky": 0
+      },
+      "focused": [
+        {
+          "startTime": "2026-10-28T18:03:12.853Z",
+          "duration": 32758.683,
+          "expected": 1,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "startTime": "2026-10-28T18:18:05.233Z",
+          "duration": 18527.486,
+          "expected": 1,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        }
+      ],
+      "successfulUnchangedChecksReused": true,
+      "repairs": [
+        "Ergebnisprüfung erwartet die beauftragte Kurzbezeichnung Genre · Horror und schließt die alte Stufenliste aus",
+        "Axe-Kontrastprüfung wartet auf das Ende der 180-ms-Einblendanimation der Hilfe; Kontrastregeln unverändert"
+      ]
+    },
+    "typescriptRepair": "Fehlende Quellen werden vor dem Filmdatenvergleich ausdrücklich als Testfehler gemeldet."
+  },
+  "server": {
+    "contentHash": "1e0ec5a8a9dc9c82e4af16013d46b30ac12e316f36cb51f83aca428a8aeb3cbf",
+    "staging": 0,
+    "privateSourceTablesUnchanged": 42,
+    "guardedActivation": true,
+    "guardedMigration": true,
+    "repeatableReadSnapshot": true,
+    "migrations": [
+      "20261025072924_career_progress_leaderboard.sql"
+    ],
+    "roleChecksPassed": true,
+    "newSecurityAdvisorFindings": 0
+  },
+  "archive": {
+    "files": 995,
+    "buildFiles": 994,
+    "bytes": 79422619,
+    "sha256": "4a28e4026c38371c4ebf5a70d6d2dcd1f6931a4afb8c79a3659c0d8c6e6c15fd",
+    "allBuildFilesByteEqual": true,
+    "onlyBuildAndHostingManifest": true,
+    "normalizedHostingManifest": "dist/.openai/hosting.json"
+  },
+  "publicFiles": {
+    "htmlStatus": 200,
+    "htmlHasExpectedAssets": true,
+    "checked": 993,
+    "expected": 993,
+    "failures": [],
+    "allFileHashesMatchBuild": true,
+    "indexStatus": 307,
+    "indexLocation": "/",
+    "releaseRpcStatus": 200,
+    "releaseRows": [
+      {
+        "version": 85,
+        "published_at": "2026-10-28T19:27:00.650619+00:00"
+      }
+    ],
+    "directMetadataStatus": 401
+  },
+  "nativeReleaseMetadataWrittenAndSeparatelyReadBack": true,
+  "cleanup": {
+    "completed": true,
+    "finalBatchRemovedFiles": 6220,
+    "finalBatchRemovedBytes": 982718201,
+    "ownAttributesCleared": 18,
+    "releaseDirectoryAbsent": true,
+    "rootBuildAbsent": true,
+    "dependenciesPreserved": true,
+    "foreignMifuneConfigurationsHashUnchanged": true,
+    "sharedGitObjects": false,
+    "ownedServersStopped": true,
+    "earlierClosedFilesRemoved": 6,
+    "earlierComparisonBuildsRemoved": 2,
+    "initialCombinedCommandRejected": "blocked by policy",
+    "resolvedBy": "Auflistung und normale PowerShell-Löschung getrennt; 17 eigene Read-only-Dateiattribute und das Hidden-Attribut der unabhängigen Git-Kopie bereinigt.",
+    "remainingOwnArtifacts": []
+  },
+  "limitations": [
+    "Keine neue physische Geräteabnahme; automatisierte WebKit-Audioprüfung nutzt auf Windows die bestehende Simulation."
+  ]
+}

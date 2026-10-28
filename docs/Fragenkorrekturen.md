@@ -15,11 +15,11 @@ Aktueller App-Text für `E20261007-F-107-Y`: **In welchem Jahr erschien „Das w
 
 Kurzantwort: „Das war der wilde Westen“ wurde erstmals 1962 veröffentlicht. Die erhaltene Vertiefung trennt Artikelserie, erste Veröffentlichung und späteren US-Start. Der [AFI-Katalog](https://catalog.afi.com/Film/23992-HOW-THE-WEST-WAS-WON) nennt im Hauptdatensatz 1963 für den US-Start, dokumentiert im historischen Text aber ausdrücklich die Londoner Premiere am 1. November 1962. Es besteht deshalb kein Anlass, die richtige Lösung auf 1963 zu ändern. [Disney](https://movies.disney.com/alice-in-wonderland-2010) bestätigt Tim Burton für die gemeinte Alice-Fassung; der Regiehinweis identifiziert sie ohne Jahresverrat.
 
-Nur lokale Korrektur; wirksam auf der Website nach gesondert beauftragter Veröffentlichung und Katalogaktivierung. Originalpakete und ältere Redaktionsstände bleiben erhalten. [Gebündelter Prüfnachweis](Pruefbericht.md#26102026--jahresfragen-ohne-rechenhinweise-lokal).
+Seit Version 85 am 28.10.2026 veröffentlicht und im Serverkatalog aktiviert. Originalpakete und ältere Redaktionsstände bleiben erhalten. [Gebündelter Prüfnachweis](Pruefbericht.md#26102026--jahresfragen-ohne-rechenhinweise-lokal).
 
 ## GitHub-Tickets #3–#10 – 25.10.2026, lokal
 
-Alle acht offenen Meldungen geprüft. Sieben lokal korrigiert: Rambo-Posterauswahl, Reihenpositionen für „Tempel des Todes“, „Rocky“ und „Die Bourne Verschwörung“, Filmtitel „Elvis“ in der Vertiefung, verständliche Terminator-Rollenfrage und Frances McDormand im Nomadland-Fragetext. Der Schwarzenegger-Porträtbezug auf „Pumping Iron“ und „Terminator“ passt zur seit Version 83 veröffentlichten biografischen Vertiefung; unverändert erhalten. Identitäten, Lösungen und Rohquellen erhalten. Noch nicht veröffentlicht; GitHub-Tickets weiterhin offen. [Einzelentscheidungen, Quellen und Prüfnachweis](GitHub-Tickets-2026-10-25.md).
+Alle acht offenen Meldungen geprüft. Sieben lokal korrigiert: Rambo-Posterauswahl, Reihenpositionen für „Tempel des Todes“, „Rocky“ und „Die Bourne Verschwörung“, Filmtitel „Elvis“ in der Vertiefung, verständliche Terminator-Rollenfrage und Frances McDormand im Nomadland-Fragetext. Der Schwarzenegger-Porträtbezug auf „Pumping Iron“ und „Terminator“ passt zur seit Version 83 veröffentlichten biografischen Vertiefung; unverändert erhalten. Identitäten, Lösungen und Rohquellen erhalten. Seit Version 85 veröffentlicht; GitHub-Tickets weiterhin offen. [Einzelentscheidungen, Quellen und Prüfnachweis](GitHub-Tickets-2026-10-25.md).
 
 ## Vollständige Figurennamen und Darstellerklammern – 21.10.2026
 

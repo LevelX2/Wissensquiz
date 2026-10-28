@@ -1,10 +1,13 @@
 # Wissensindex
 
-- [Jahresfragen ohne Rechenhinweise: 34 Fragen lokal korrigiert – 26.10.2026](../../../docs/Fragenkorrekturen.md#jahresfragen-ohne-rechenhinweise--26102026-lokal)
+- [Version 85: gesamter Main-Stand, getrennte XP-Wertungen, Fragen-/Filmreihenkorrekturen und Bereinigung veröffentlicht – 28.10.2026](../../../docs/Veroeffentlichung-2026-10-28-Version-85.json)
 
-- [Acht GitHub-Meldungen geprüft, sieben lokal korrigiert; Poster, Reihenangaben und Fragentexte – 25.10.2026](../../../docs/GitHub-Tickets-2026-10-25.md)
 
-- [Getrennte Highscore-Wertungen für Lernfortschritt/Karriere-XP und Wettbewerbs-XP – 25.10.2026, lokal](../../../docs/Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal)
+- [Jahresfragen ohne Rechenhinweise: 34 Fragen korrigiert – 26.10.2026, seit Version 85 veröffentlicht](../../../docs/Fragenkorrekturen.md#jahresfragen-ohne-rechenhinweise--26102026-lokal)
+
+- [Acht GitHub-Meldungen geprüft, sieben seit Version 85 veröffentlicht; Poster, Reihenangaben und Fragentexte – 25.10.2026](../../../docs/GitHub-Tickets-2026-10-25.md)
+
+- [Getrennte Highscore-Wertungen für Lernfortschritt/Karriere-XP und Wettbewerbs-XP – 25.10.2026, seit Version 85 veröffentlicht](../../../docs/Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal)
 
 - [Version 84: schmale Themenfreischaltungen und 180 Fragenkorrekturen veröffentlicht; Prüfungen und Spielstandschutz – 23.10.2026](../../../docs/Veroeffentlichung-2026-10-23-Version-84.json)
 

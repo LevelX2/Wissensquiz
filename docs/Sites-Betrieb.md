@@ -1,5 +1,16 @@
 # Sites-Veröffentlichung
 
+## Version 85: gesamter Main-Stand mit XP-Wertungen und Korrekturen
+
+Am **28.10.2026 um 20:27:00 Uhr Europe/Berlin** aus Main (`3ca63cf4970ff662d5da13be31a038b595a016fe`) öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-28-Version-85.json).
+
+Getrennte Karriere-/Wettbewerbs-XP, sieben bestätigte GitHub-Korrekturen einschließlich Rambo-Poster, vervollständigte Mission-Impossible-Reihenpositionen, kurze Zeitrundenergebnisse, 34 Jahresfragen ohne Rechenhinweise sowie die Bereinigung ungenutzter Gast-/Katalog-/Downloadmodule gemeinsam aus Main veröffentlicht. Sicherheitsaktualisierungen innerhalb der bestehenden Versionsbereiche ergänzt. Weiterhin 15.295 Fragen / 14.628 Wissensziele in 39 Paketen; 37 Fragen und 85 vorbereitete Darstellungen geändert. Identitäten, Lösungsschlüssel und Schwierigkeiten erhalten.
+
+511 Logiktests in 82 Dateien, Metadaten/TypeScript, Produktionsbuild, Diff-Prüfung und npm audit (keine Schwachstellen) erfolgreich. Vollständiger Browserlauf: 414 bestanden, zwei Befunde, ein vorgesehener Skip. Beide betroffenen Fälle gezielt erfolgreich nachgeprüft; insgesamt 416 unterschiedliche erfolgreiche Browserfälle und ein Skip, keine offenen Fehler. Die Ergebnisprüfung erwartet die beauftragte Kurzbezeichnung; die Axe-Prüfung wartet auf das Ende der Hilfe-Einblendanimation. Eine zusätzliche Quellenprüfung behebt den TypeScript-Befund. Keine Produktassertion oder Kontrastgrenze entfernt.
+
+Vorbereitete XP-Migration und vollständig geprüften Katalog aktiviert. 42 private Quelltabellen innerhalb beider Transaktionen bei konsistentem Snapshot unverändert bestätigt; Staging leer, Rollen geprüft, keine zusätzlichen Security-Advisor-Befunde. 994 Build-Dateien bytegleich zum Browserbuild und im Archiv; ausschließlich Build und normalisiertes Hostingmanifest. Alle 993 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich, Startseite mit erwarteten Assets, /index.html regulär 307 auf /. Tatsächliche Versionszeit separat gespeichert, getrennt gelesen und anonym bestätigt; direkter Metadatenzugriff gesperrt. Öffentlicher Zugriff public, Revision 2 und bestehende Adresse erhalten; kein GitHub-Push und kein Spielstandreset.
+
+
 ## Version 84: schmale Themenfreischaltungen und Fragenkorrekturen
 
 Auf [Nutzerauftrag vom 22.10.2026](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-22%20Nutzerauftrag%20Main%20Gesamtveroeffentlichung.txt) den aktuellen Main-Stand veröffentlicht.

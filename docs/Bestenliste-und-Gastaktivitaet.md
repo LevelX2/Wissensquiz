@@ -12,7 +12,7 @@ Ursache der gemeldeten Abweichung war die zuvor missverständliche Zuordnung: �
 
 Die neue Sortierung `career_experience` in `quiz_public_players` und `quiz_players` liest die vorhandene globale Zeile aus `public.quiz_player_totals`. `quiz_sync_internal.career_players` gibt ausschließlich Name, Platz, eigene Markierung, Karriere-XP und abgeschlossene Runden-/Antwortsummen aus. Bestätigte, nicht anonyme Konten sind bereits vor der ersten abgeschlossenen Runde mit null XP sichtbar. Gleiche XP teilen einen Rang; stabile Seiten enthalten höchstens 50 Einträge. Einzelantworten, Lernstände und Kontoidentitäten bleiben privat. Die Wettbewerbssummen und deren Berechnung ändern sich nicht. Keine zusätzliche Datenspeicherung oder Historienberechnung beim Abruf. Gespeicherte Kontofortschritte invalidieren bereits den Ranglisten-Cache; „Spielerrangliste aktualisieren“ erzwingt weiterhin einen neuen Abruf.
 
-Migration `20261025072924_career_progress_leaderboard.sql` und Oberfläche sind **nur lokal vorbereitet**. Vor Veröffentlichung zuerst die Migration aktivieren und die gebündelten Veröffentlichungsprüfungen nach `AGENTS.md` durchführen. Kein produktiver Datenbankeingriff, keine Veröffentlichung und kein Push in diesem Auftrag. [Gezielter Prüfnachweis](Pruefbericht.md#25102026--getrennte-karriere--und-wettbewerbswertung-lokal).
+Migration `20261025072924_career_progress_leaderboard.sql` und Oberfläche sind seit **Version 85 am 28.10.2026 produktiv**. Rollen, öffentliche Rückgabe und unveränderte private Quellen geprüft. Kein GitHub-Push. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-28-Version-85.json). [Gezielter Prüfnachweis](Pruefbericht.md#25102026--getrennte-karriere--und-wettbewerbswertung-lokal).
 
 ## Frühere Umstellung auf Wettbewerbswerte
 
