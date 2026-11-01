@@ -1,5 +1,19 @@
 # Prüfnachweis
 
+## 01.11.2026 – Version 86 veröffentlicht
+
+Duellüberarbeitung um 19:58:09 Uhr Europe/Berlin öffentlich aktiviert: sofortige Antwortfarben und Töne für 2,5 Sekunden, unabhängige Runden, zehn offene Spiele, klare Gegner-/Rundenstände und getrennte Themenwahl für Vorlegen und direkte Suche. Nativer Status succeeded, öffentliche Adresse und Zugriff Revision 2 erhalten. [Vollständiger Veröffentlichungsnachweis](Veroeffentlichung-2026-11-01-Version-86.json).
+
+Vollständiger Logiklauf: 512 bestanden, ein mangels ignorierter Porträtmetadaten übersprungener Fall. Öffentliche Metadaten unverändert aus dem Arbeitsordner übernommen und alle vier Porträtfälle erfolgreich nachgeprüft; insgesamt **513 unterschiedliche erfolgreiche Logiktests in 82 Dateien**. Vollständiger Browserlauf: **417 bestanden, ein Fehler, ein vorgesehener Skip** (5.433,39 Sekunden). Der Nebenansichtentest erwartete beim Duelleinstieg noch „Losspielen“; auf „Duell wählen“ angepasst und gezielt erfolgreich nachgeprüft. Insgesamt **418 unterschiedliche erfolgreiche Browserfälle, ein Skip, keine offenen Fehler**. Erfolgreiche unveränderte Fälle wiederverwendet. Das Web-Audio-Prüfdoppel ausdrücklich typisiert, damit auch der vollständige TypeScript-Build erfolgreich ist. Anwendung durch beide Testkorrekturen unverändert.
+
+Metadaten, TypeScript, Produktionsbuild und Diff-Prüfung erfolgreich. Finaler Build in allen 994 Dateien bytegleich zum Browserbuild; einzige anfängliche Kopierdifferenz war die Windows-Zeilenendung von public/sw.js, vor dem abschließenden Vergleich auf den unveränderten LF-Quellstand gebracht. Keine Abhängigkeitsänderung. Duellreaktion rund 227 ms in Chromium und 224 ms in WebKit, jeweils unter der bestehenden 250-ms-Grenze.
+
+Drei Migrationen atomar aktiviert; 42 private Quelltabellen innerhalb derselben Repeatable-Read-Transaktion unverändert bestätigt, neues Duellthemenfeld als beauftragte Schemaergänzung ausgenommen. 14.422 Duellfragen, vollständiger Bestand weiterhin 15.295 Fragen. Rechte für Erstellen/Suchen, interne Helfer und direkte Tabellenzugriffe geprüft; Staging leer. Security-Advisor-Differenz nur für die beabsichtigte Such-RPC und geänderte Erstellen-Signatur. Keine realen Konten für Tests verändert.
+
+Alle 993 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich, Startseite mit erwarteten Assets, /index.html 307 auf /. Versionszeit separat gespeichert, getrennt zurückgelesen und anonym per RPC bestätigt; direkter Tabellenzugriff 401. Kein GitHub-Push. Keine physische Geräte-/Lautstärkeabnahme; Windows-WebKit verwendet für Tonfolgen die bestehende Simulation.
+
+Eigene Veröffentlichungskopie, Prüfbuilds, Browserausgaben, Kontrollentpackung und Archiv entfernt; Abwesenheit bestätigt (7.906 Dateien, 1.070.033.475 Bytes). Abhängigkeitsverknüpfung vorab getrennt; elf eigene Dateiattribute bereinigt. Originalmetadaten, gemeinsame Abhängigkeiten und beide fremden Mifune-Konfigurationen erhalten. Keine eigenen Prüfserver oder größeren Veröffentlichungsartefakte übrig.
+
 ## 01.11.2026 – Duellablauf und Rückmeldung lokal überarbeitet
 
 Neue Duelle verwenden die vorhandene direkte Lösungsfreigabe. Bestätigte Antworten zeigen 2,5 Sekunden lang grün/rot und unterschiedliche Richtig-/Falsch-Töne; „Keine Ahnung“, Zeitablauf und Stummschaltung bleiben eigenständig. Automatische Folgefragen, sichtbare Zehnerleiste und eigener Rundenrückblick. Nach Paarung kann jede Seite unabhängig alle drei Runden spielen. Zehn offene Duelle einschließlich zehn ungepaarter Herausforderungen sind erlaubt. Drei Servermigrationen vorbereitet, ausschließlich in isolierten Testdatenbanken angewandt. Keine produktive Datenbank oder Nutzerdaten verändert.

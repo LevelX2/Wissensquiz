@@ -1,5 +1,19 @@
 # Sites-Veröffentlichung
 
+## Version 86: direkte Duellrückmeldung, freie Runden und Themenwahl
+
+Am **01.11.2026 um 19:58:09 Uhr Europe/Berlin** aus Main (`e1209c1723d16829b74ce17cddd54a6636863d45`) öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-01-Version-86.json), [Freigabe](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-11-01 Nutzerauftrag Duelle veroeffentlichen.txt>).
+
+Duellantworten zeigen sofort Farben und Richtig-/Falsch-Töne für 2,5 Sekunden, danach folgt automatisch die nächste Frage. Nach Paarung können beide alle drei Runden unabhängig spielen. Zehn offene Duelle, deutliche Gegner-/Rundenstände und eindeutige Begriffe. Beim Vorlegen genau ein Thema; bei der unmittelbaren Gegnersuche mehrere zulässige Themen mit unabhängigem „Alle Genres (gemischt)“-Feld neben Einzelgenres, Schauspielern und Preisen.
+
+513 unterschiedliche Logiktests in 82 Dateien erfolgreich. Im vollständigen Browserlauf 417 bestanden, ein vorgesehener Skip und eine alte Buttonerwartung; korrigierter Einstiegsfall gezielt bestanden. Damit 418 unterschiedliche erfolgreiche Browserfälle, keine offenen Fehler. Produktionsbuild und TypeScript erfolgreich; abschließender Build in allen 994 Dateien bytegleich zum Browserbuild. Keine Abhängigkeitsänderung. Duellreaktion im vollständigen Lauf rund 227 ms in Chromium und 224 ms in WebKit, jeweils unter 250 ms.
+
+Drei vorbereitete Migrationen gemeinsam als `20261101185605_duel_workflow_release_86` atomar aktiviert. 42 private Quelltabellen im konsistenten Snapshot unverändert bestätigt; nur das beauftragte neue Duellthemenfeld vom Vergleich ausgeschlossen. Duellkatalog auf 14.422 Fragen einschließlich Schauspielern erweitert; vollständiger Fragenbestand unverändert bei 15.295 Fragen / 14.628 Zielen in 39 Paketen. Rollen geprüft: Erstellen/Suchen ausschließlich angemeldet, interne Helfer und direkter Duelltabellenzugriff gesperrt. Advisor-Differenz entspricht ausschließlich der neuen Such-RPC und der geänderten Erstellen-Signatur; keine unerwarteten Befunde.
+
+Archiv enthält ausschließlich 994 unveränderte Build-Dateien und Hostingmanifest. Alle 993 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich, Startseite mit erwarteten Assets, /index.html als 307 auf /. Tatsächliche Versionszeit separat gespeichert, getrennt gelesen und anonym bestätigt; direkter Metadatenzugriff 401. Öffentlicher Zugriff public, Revision 2 und bestehende Adresse erhalten; kein GitHub-Push und kein Spielstandreset. Browserübergabe in Codex angefordert. Physische iPhone-/Lautstärkeabnahme bleibt offen; Windows-WebKit prüft Tonfolgen mit der vorhandenen Simulation.
+
+Eigene Quell-/Prüfkopie, Builds, Browserausgaben, Kontrollentpackung und Transportarchiv entfernt; Abwesenheit bestätigt (7.906 Dateien, 1.070.033.475 Bytes). Gemeinsame Abhängigkeitsverknüpfung vorher getrennt und elf eigene Dateiattribute bereinigt. Gemeinsame Abhängigkeiten, Originalmetadaten und beide fremden Mifune-Konfigurationen erhalten; keine eigenen Prüfserver mehr aktiv. Der [Advisor-Hinweis für angemeldete SECURITY-DEFINER-RPCs](https://supabase.com/docs/guides/database/database-linter?lint=0029_authenticated_security_definer_function_executable) betrifft hier die absichtlich angebotene Suchschnittstelle und geänderte Erstellen-Signatur; kein anonymer Zugriff ergänzt.
+
 ## Version 85: gesamter Main-Stand mit XP-Wertungen und Korrekturen
 
 Am **28.10.2026 um 20:27:00 Uhr Europe/Berlin** aus Main (`3ca63cf4970ff662d5da13be31a038b595a016fe`) öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-28-Version-85.json).

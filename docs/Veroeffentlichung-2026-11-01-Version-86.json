@@ -1,0 +1,257 @@
+{
+  "version": 86,
+  "sourceBranch": "main",
+  "sourceCommit": "e1209c1723d16829b74ce17cddd54a6636863d45",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-11-01T18:58:09.245097+00:00",
+  "publishedAtBerlin": "01.11.2026, 19:58:09",
+  "timezone": "Europe/Berlin",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "githubPush": false,
+  "changes": [
+    "Sofortige Antwortfarben und Töne für 2,5 Sekunden mit automatischer Folgefrage",
+    "Drei unabhängig spielbare Runden nach Paarung und zehn offene Duelle",
+    "Klare Gegner- und Rundenstände sowie eindeutige Duellbegriffe",
+    "Ein Thema beim Vorlegen; mehrere erlaubte Themen bei direkter Gegnersuche",
+    "Unabhängiges Suchfeld Alle Genres (gemischt), einzelne Genres, Schauspieler und Preise"
+  ],
+  "data": {
+    "packages": 39,
+    "questions": 15295,
+    "goals": 14628,
+    "duelCatalogQuestions": 14422,
+    "questionOrGoalEdits": 0,
+    "reset": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_b7ab12c960c0819196e4c849bb48a36b",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 86,
+    "source": {
+      "commit_sha": "e1209c1723d16829b74ce17cddd54a6636863d45"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_000000005e5881f88522b128726d4f55",
+      "content_hash": "sha256:4d7259d8152b70c9ad3fbb6b205a7c87f6206af75a446ba22ba8d4a1b55e318b",
+      "size_bytes": 94822400,
+      "file_count": 995
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6ae78ba7ae288191aac6f297c554347d",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_b7ab12c960c0819196e4c849bb48a36b",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-01T18:58:09.245097+00:00"
+  },
+  "checks": {
+    "unitTests": 513,
+    "unitFiles": 82,
+    "unitDurationSeconds": 134.5,
+    "unitInitial": {
+      "passed": 512,
+      "skipped": 1
+    },
+    "unitSupplement": {
+      "file": "tests/actor-tmdb-portrait.test.ts",
+      "passed": 4,
+      "skipped": 0,
+      "reason": "Ignorierte öffentliche Porträtmetadaten vor dem ergänzenden Lauf unverändert in die Prüfkopie übernommen; zuvor übersprungenen Fall damit erfolgreich geprüft."
+    },
+    "metadataAndTypescript": true,
+    "build": true,
+    "buildFiles": 994,
+    "finalBuildByteEqualToBrowserBuild": true,
+    "diffCheck": true,
+    "dependencyChanges": false,
+    "auditRequired": false,
+    "typescriptRepair": "Web-Audio-Prüfdoppel ausdrücklich als typeof AudioContext typisiert; Anwendung dadurch unverändert.",
+    "browser": {
+      "planned": 419,
+      "passed": 418,
+      "skipped": 1,
+      "unresolved": [],
+      "initial": {
+        "startTime": "2026-11-01T17:17:26.603Z",
+        "duration": 5433390.735,
+        "expected": 417,
+        "skipped": 1,
+        "unexpected": 1,
+        "flaky": 0
+      },
+      "focused": [
+        {
+          "startTime": "2026-11-01T17:31:38.627Z",
+          "duration": 16729.738,
+          "expected": 1,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        }
+      ],
+      "repairs": [
+        "Nebenansichtenprüfung erwartet beim Duelleinstieg den aktuellen Button „Duell wählen“."
+      ],
+      "successfulUnchangedChecksReused": true
+    }
+  },
+  "server": {
+    "privateSourceTablesUnchanged": 42,
+    "guardedMigration": true,
+    "repeatableReadSnapshot": true,
+    "guardExcludesOnlyNewDuelSelectionField": true,
+    "sourceMigrations": [
+      "20261101160415_independent_duel_rounds.sql",
+      "20261101163118_duel_topic_selection.sql",
+      "20261101164913_duel_match_preferences.sql"
+    ],
+    "nativeMigration": "20261101185605_duel_workflow_release_86",
+    "roleChecksPassed": true,
+    "verified": {
+      "staging": 0,
+      "find_roles": {
+        "anon": false,
+        "authenticated": true
+      },
+      "create_roles": {
+        "anon": false,
+        "authenticated": true
+      },
+      "internal_helpers": [
+        {
+          "anon": false,
+          "name": "quiz_game_internal.duel_can_play(quiz_duels,uuid,integer)",
+          "authenticated": false
+        },
+        {
+          "anon": false,
+          "name": "quiz_game_internal.duel_next_round(uuid,uuid)",
+          "authenticated": false
+        }
+      ],
+      "catalog_questions": 14422,
+      "content_questions": 15295,
+      "old_create_absent": true,
+      "private_duel_tables": [
+        {
+          "rls": true,
+          "name": "quiz_duel_answers",
+          "anon_select": false,
+          "anon_update": false,
+          "auth_select": false,
+          "auth_update": false
+        },
+        {
+          "rls": true,
+          "name": "quiz_duels",
+          "anon_select": false,
+          "anon_update": false,
+          "auth_select": false,
+          "auth_update": false
+        }
+      ],
+      "selection_installed": true,
+      "actor_activation_updated": true
+    },
+    "newUnexpectedSecurityAdvisorFindings": 0,
+    "advisorChanges": {
+      "added": [
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "metadata": {
+            "name": "quiz_duel_create",
+            "schema": "public",
+            "language": "plpgsql",
+            "arguments": "display text, invited boolean, request uuid, selected_topic text",
+            "security_definer": true
+          }
+        },
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "metadata": {
+            "name": "quiz_duel_find",
+            "schema": "public",
+            "language": "plpgsql",
+            "arguments": "allowed_topics text[], request uuid",
+            "security_definer": true
+          }
+        }
+      ],
+      "removed": [
+        {
+          "name": "authenticated_security_definer_function_executable",
+          "metadata": {
+            "name": "quiz_duel_create",
+            "schema": "public",
+            "language": "plpgsql",
+            "arguments": "display text, invited boolean, request uuid",
+            "security_definer": true
+          }
+        }
+      ]
+    },
+    "restSchemaReloadNotified": true
+  },
+  "archive": {
+    "files": 995,
+    "buildFiles": 994,
+    "bytes": 79424686,
+    "sha256": "93432d741eff8488c29ee0dcbf30b8942a1120c3ed706d1c2a77b82109098bd0",
+    "allBuildFilesByteEqual": true,
+    "onlyBuildAndHostingManifest": true,
+    "normalizedHostingManifest": "dist/.openai/hosting.json"
+  },
+  "publicFiles": {
+    "htmlStatus": 200,
+    "htmlHasExpectedAssets": true,
+    "checked": 993,
+    "expected": 993,
+    "failures": [],
+    "allFileHashesMatchBuild": true,
+    "indexStatus": 307,
+    "indexLocation": "/",
+    "releaseRpcStatus": 200,
+    "releaseRows": [
+      {
+        "version": 86,
+        "published_at": "2026-11-01T18:58:09.245097+00:00"
+      }
+    ],
+    "directMetadataStatus": 401,
+    "completedAt": "2026-11-01T18:59:22.521Z"
+  },
+  "nativeReleaseMetadataWrittenAndSeparatelyReadBack": true,
+  "cleanup": {
+    "completed": true,
+    "removedFiles": 7906,
+    "removedBytes": 1070033475,
+    "ownAttributesCleared": 11,
+    "releaseDirectoryAbsent": true,
+    "rootBuildAbsent": true,
+    "followupResultsAbsent": true,
+    "dependenciesPreserved": true,
+    "originalPublicMetadataPreserved": true,
+    "foreignMifuneConfigurationsHashUnchanged": true,
+    "sharedGitObjects": false,
+    "ownedServersStopped": true,
+    "initialCombinedCommandRejected": "blocked by policy",
+    "resolvedBy": "Verknüpfung separat geprüft und mit normalem Remove-Item ohne -Force entfernt; elf eigene Dateiattribute vor normaler rekursiver PowerShell-Löschung bereinigt.",
+    "remainingOwnArtifacts": []
+  },
+  "limitations": [
+    "Keine physische iPhone-/Lautstärkeabnahme; Windows-WebKit prüft Tonfolgen über die bestehende Simulation."
+  ]
+}

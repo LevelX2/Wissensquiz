@@ -1,6 +1,7 @@
 # Wissensindex
 
-- [Duellablauf lokal: sofortige Antwortfarben, unabhängige Runden, zehn offene Spiele, Themenwahl mit direkter Suche und klare Rundenstände – 01.11.2026](../../../docs/Asynchrone-Filmduelle.md#duellablauf-und-übersicht--01112026-lokal)
+- [Version 86: Duellfeedback, unabhängige Runden, zehn offene Spiele und direkte Themenwahl veröffentlicht – 01.11.2026](../../../docs/Veroeffentlichung-2026-11-01-Version-86.json)
+- [Duellablauf seit Version 86: sofortige Antwortfarben, unabhängige Runden, zehn offene Spiele, Themenwahl mit direkter Suche und klare Rundenstände – 01.11.2026](../../../docs/Asynchrone-Filmduelle.md#duellablauf-und-übersicht--01112026-lokal)
 
 - [Version 85: gesamter Main-Stand, getrennte XP-Wertungen, Fragen-/Filmreihenkorrekturen und Bereinigung veröffentlicht – 28.10.2026](../../../docs/Veroeffentlichung-2026-10-28-Version-85.json)
 
