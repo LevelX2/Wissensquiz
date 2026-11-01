@@ -82,7 +82,7 @@ test("alle Nebenansichten öffnen ohne vorherigen Besuch", async ({
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Duell", exact: true }).click();
   await page.getByRole("button", { name: /^Duell Drei Runden/ }).click();
-  await page.getByRole("button", { name: "Losspielen" }).click();
+  await page.getByRole("button", { name: "Duell wählen" }).click();
   await expect(
     page.getByRole("heading", { name: /Duell/, level: 1 }),
   ).toBeVisible();
