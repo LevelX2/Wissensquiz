@@ -279,7 +279,7 @@ test("Duell: Antwortfarben, richtige und falsche Töne, Keine Ahnung und Stummsc
               disconnect() {},
             };
           }
-        };
+        } as unknown as typeof AudioContext;
         (window as any).AudioContext = Audio;
       }
       const create = Audio.prototype.createOscillator;
