@@ -136,7 +136,13 @@ export function PlaySetup({
   return (
     <>
       <header className="play-heading">
-        <h1>{completed.length ? "Deine nächste Runde" : "Dein Filmquiz"}</h1>
+        <h1>
+          {playGroup === "duel"
+            ? "Dein nächstes Duell"
+            : completed.length
+              ? "Deine nächste Runde"
+              : "Dein Filmquiz"}
+        </h1>
         {!completed.length && (
           <p className="muted">Entdecke Filmwissen – in Deinem Tempo.</p>
         )}
@@ -239,7 +245,7 @@ export function PlaySetup({
               disabled={busy || !!active}
               onClick={() => void nav("duels")}
             >
-              Losspielen <span>→</span>
+              Duell wählen <span>→</span>
             </button>
             <RoundGuide mode="duel" />
           </>

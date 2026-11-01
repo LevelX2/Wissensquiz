@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**01.11.2026 – Duelle lokal überarbeitet:** 2,5 Sekunden Antwortfarben und automatische Folgefrage, unabhängige Runden nach Paarung, zehn offene Duelle auch ohne Gegner, getrennte Themenwahl für Vorlegen und direkte Suche mit unabhängigem „Alle Genres“-Feld sowie klare Gegner-/Rundenstatus und Begriffe. Servermigration vorbereitet; noch nicht veröffentlicht. [Aktueller Duellvertrag](../docs/Asynchrone-Filmduelle.md#duellablauf-und-übersicht--01112026-lokal).
+
 **28.10.2026 – Version 85 veröffentlicht:** Gesamter Main-Stand mit getrennten XP-Wertungen, Fragen-/Filmreihen-/Rambo-Korrekturen, kurzen Zeitrundenergebnissen und Modulbereinigung öffentlich. 511 Logiktests und 416 unterschiedliche Browserfälle erfolgreich, ein vorgesehener Skip; Build erfolgreich, Audit ohne Schwachstellen. XP-Migration und Katalog aktiviert, 42 private Quelltabellen innerhalb der Transaktionen unverändert. [Veröffentlichungsnachweis](../docs/Veroeffentlichung-2026-10-28-Version-85.json).
 
 

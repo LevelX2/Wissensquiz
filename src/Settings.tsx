@@ -89,8 +89,9 @@ export function Settings({
           Sieh Erklärung und Zusatzinformationen nach jeder Antwort oder
           gesammelt nach Deiner Runde. Gilt für 10 Fragen, Fehlerfrei, Zeitkonto
           und das Freie Spiel. Filmreise und Wiederholen zeigen Lösungen immer
-          direkt. Duelle zeigen sie immer nach der eigenen Zehnerrunde. Eine
-          begonnene Runde behält ihre Einstellung.
+          direkt. Duelle zeigen die Lösung kurz nach jeder Antwort und
+          Erklärungen nach der Zehnerrunde. Eine begonnene Runde behält ihre
+          Einstellung.
         </p>
         <SolutionChoice
           value={
@@ -135,7 +136,8 @@ export function Settings({
           Möglichkeiten sichtbar: richtige Lösung grün, falsche Auswahl rot.
           Gilt auch für „Keine Ahnung“ und „Nach der Runde“. Während der Anzeige
           pausiert die Spielzeit. Danach folgt die Erklärung oder automatisch
-          die nächste Frage. Im Duell erscheinen Lösungen erst im Rückblick.
+          die nächste Frage. Im Duell dauert die Antwortanzeige immer 2,5
+          Sekunden; Erklärungen erscheinen im Rundenrückblick.
         </p>
       </section>
       <section className="settings-panel">

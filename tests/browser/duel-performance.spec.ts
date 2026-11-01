@@ -17,7 +17,7 @@ test.describe("Duellreaktion", () => {
         await page.evaluate(() => requestAnimationFrame.toString()),
       ).toContain("[native code]");
       await page
-        .getByRole("button", { name: "Zufälligen Gegner finden" })
+        .getByRole("button", { name: "Duell vorlegen", exact: true })
         .click();
       const id = await page
         .locator("h1[data-question-id]")
@@ -67,9 +67,10 @@ test.describe("Duellreaktion", () => {
         const observer = new MutationObserver(() => {
           if (
             metrics.start &&
+            document.querySelector(".solution-reveal .answer.correct") &&
             document
               .querySelector("h1[data-question-id]")
-              ?.getAttribute("data-question-id") !== questionId
+              ?.getAttribute("data-question-id") === questionId
           ) {
             observer.disconnect();
             requestAnimationFrame(() =>
@@ -86,7 +87,9 @@ test.describe("Duellreaktion", () => {
         });
       }, id);
       await choice.click();
-      await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
+      await expect(
+        page.locator(".solution-reveal .answer.correct"),
+      ).toBeVisible();
       await expect(page.locator(".explanation")).toHaveCount(0);
       await expect
         .poll(() => page.evaluate(() => (window as any).__duelResponse.latency))
@@ -108,6 +111,7 @@ test.describe("Duellreaktion", () => {
       expect(metrics.confirmed).toBeGreaterThan(metrics.start);
       expect(local).toBeLessThan(250);
       expect(metrics.put).toBeLessThan(100);
+      await expect(page.locator(`h1[data-question-id="${id}"]`)).toHaveCount(0);
       await expect(page.locator(".nav-symbol .sync-symbol.saved")).toHaveCount(
         1,
       );
@@ -119,12 +123,12 @@ test.describe("Duellreaktion", () => {
       await openRoundSetup(page);
       await page.getByRole("button", { name: "Duell", exact: true }).click();
       await page.getByRole("button", { name: /^Duell Drei Runden/ }).click();
-      await page.getByRole("button", { name: "Losspielen" }).click();
+      await page.getByRole("button", { name: "Duell wählen" }).click();
       await page
         .getByRole("button", { name: "Weiterspielen", exact: false })
         .click();
       await expect(
-        page.getByLabel("Frage 1: Antwort gespeichert", { exact: true }),
+        page.getByLabel("Frage 1: richtig beantwortet", { exact: true }),
       ).toBeVisible();
       await expect(
         page.getByLabel("Frage 2: noch offen, aktuell", { exact: true }),
@@ -133,7 +137,7 @@ test.describe("Duellreaktion", () => {
         page,
         `account:quiz-test.supabase.co:${alice}`,
       );
-      expect(saved.events).toHaveLength(0);
+      expect(saved.events).toHaveLength(1);
     } finally {
       await service.db.close();
     }

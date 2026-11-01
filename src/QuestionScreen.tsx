@@ -92,6 +92,8 @@ export function QuestionScreen({
     round.solutionDisplay === "round" &&
     (!!round.duel || allowsSolutionChoice(round.mode));
   const canRevealAnswers = !collected || !round.duel;
+  const automaticDuel = !!round.duel && !collected;
+  const automaticNext = collected || automaticDuel;
   const timed = isRecordMode(round.mode) || !!round.duel;
   const limit = questionLimit(round);
   const [guessed, setGuessed] = useState(false);
@@ -110,7 +112,7 @@ export function QuestionScreen({
   const revealDuration = useRef(DEFAULT_ANSWER_REVEAL_MS);
   const showReveal =
     !!event &&
-    (event.answerId !== null || !!event.dontKnow) &&
+    (event.answerId !== null || !!event.dontKnow || automaticDuel) &&
     revealing &&
     canRevealAnswers;
   const start = useRef<{ wall: number; mono: number } | null>(null);
@@ -134,9 +136,10 @@ export function QuestionScreen({
     locked.current = true;
     setPendingChoice(choice);
     if (choice !== null) unlockSound(state.settings);
-    if (canRevealAnswers && choice !== null) {
-      revealDuration.current =
-        state.settings.answerRevealMs ?? DEFAULT_ANSWER_REVEAL_MS;
+    if (canRevealAnswers && (choice !== null || automaticDuel)) {
+      revealDuration.current = automaticDuel
+        ? 2500
+        : (state.settings.answerRevealMs ?? DEFAULT_ANSWER_REVEAL_MS);
       setRevealing(true);
     }
     const ms = start.current ? elapsed(start.current) : 0;
@@ -180,10 +183,11 @@ export function QuestionScreen({
     return () => clearTimeout(timer);
   }, [event?.id, revealing]);
   useEffect(() => {
-    if (!event || !collected || revealing || busy || advanced.current) return;
+    if (!event || !automaticNext || revealing || busy || advanced.current)
+      return;
     advanced.current = true;
     nextAction.current();
-  }, [event?.id, collected, revealing, busy]);
+  }, [event?.id, automaticNext, revealing, busy]);
   useEffect(() => {
     if (event) return;
     let second = 0;
@@ -543,7 +547,7 @@ export function QuestionScreen({
           )}
         {event
           ? !showReveal &&
-            !collected && (
+            !automaticNext && (
               <details className="answer-review">
                 <summary className="illustrated-summary">
                   <DisclosureArtwork subject="answers" />
@@ -561,7 +565,7 @@ export function QuestionScreen({
         {!event && isRecordMode(round.mode) && (
           <p className="quiet-note">Deine erste Antwort zählt.</p>
         )}
-        {collected && !event && (
+        {automaticNext && !event && (
           <label className="guess-choice">
             <input
               type="checkbox"
@@ -582,7 +586,7 @@ export function QuestionScreen({
               : "Die Erklärungen siehst Du nach der Runde."}
           </p>
         )}
-        {event && (!collected || showReveal) && (
+        {event && ((!automaticNext && !collected) || showReveal) && (
           <div
             ref={feedback}
             tabIndex={-1}
@@ -622,9 +626,11 @@ export function QuestionScreen({
                 <span>
                   {event.dontKnow
                     ? "Keine Ahnung gewählt · als falsch gewertet"
-                    : event.correct
-                      ? "Richtig gewählt"
-                      : "Falsch gewählt · die richtige Antwort ist grün"}
+                    : event.answerId === null
+                      ? "Zeit abgelaufen · die richtige Antwort ist grün"
+                      : event.correct
+                        ? "Richtig gewählt"
+                        : "Falsch gewählt · die richtige Antwort ist grün"}
                 </span>
               </div>
             ) : (
@@ -692,7 +698,7 @@ export function QuestionScreen({
             )}
           </div>
         )}
-        {event && !showReveal && (
+        {event && !showReveal && !automaticNext && (
           <div className="feedback-actions">
             <button
               className="primary"

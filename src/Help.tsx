@@ -146,8 +146,8 @@ export function Help() {
         <p>
           Bei „Lösungen nach der Runde“ bleibt die kurze Antwortanzeige auch für
           „Keine Ahnung“ erhalten. Danach geht es automatisch weiter; Die
-          Erklärung folgt im Rückblick. Im Duell siehst Du die Lösung erst nach
-          Deiner eigenen Zehnerrunde.
+          Erklärung folgt im Rückblick. Im Duell siehst Du die Lösung für 2,5
+          Sekunden nach jeder Antwort und die Erklärung nach Deiner Zehnerrunde.
         </p>
         <p>
           Die Auswahl zählt in allen Modi als falsch, in der Rekordrunde gibt es
@@ -163,7 +163,8 @@ export function Help() {
           Die Kachel auf der Startseite zeigt Deinen ausgewählten Modus mit
           großem Motiv. „Modus ändern“ öffnet die Spielauswahl. Eine
           illustrierte Kachel wählt den Modus und schließt die Auswahl. Erst
-          „Losspielen“ startet die Runde oder öffnet Deine Duellübersicht.
+          „Losspielen“ startet die Runde. Im Duellmodus öffnet „Duell wählen“
+          Deine Duellübersicht.
         </p>
         <ul>
           <li>
@@ -220,32 +221,46 @@ export function Help() {
         <summary>Wie funktionieren die Duelle?</summary>
         <p>
           Unter Spielen öffnest Du Deine Duelle. Mit einem bestätigten Konto
-          kannst Du einen zufälligen Gegner finden oder jemanden per Link
-          einladen. Ihr bekommt dieselben Fragen: drei Runden mit je zehn Fragen
-          und 30 Sekunden pro Frage. Jeder Treffer zählt einen Punkt; nach allen
-          drei Runden entscheidet die Summe. Ein Gleichstand ist möglich.
+          kannst Du einen zufälligen Gegner finden, ein Duell vorlegen oder
+          jemanden per Link einladen. Ihr bekommt dieselben Fragen: drei Runden
+          mit je zehn Fragen und 30 Sekunden pro Frage. Jeder Treffer zählt
+          einen Punkt; nach allen drei Runden entscheidet die Summe. Ein
+          Gleichstand ist möglich.
         </p>
         <p>
-          Einer legt Runde 1 vor. Der andere beantwortet sie und legt Runde 2
-          vor. Danach beantwortet der erste Runde 2 und legt Runde 3 vor. Zum
-          Schluss beantwortet der andere Runde 3. Die Fragen folgen direkt
-          aufeinander; Lösungen und Vertiefungen siehst Du nach Deiner eigenen
-          Zehnerrunde. Du kannst eine Runde unterbrechen. Eine bereits
-          gestartete Frage läuft während der Pause weiter.
+          Beim Vorlegen wählst Du Alle Genres (gemischt), genau ein Filmgenre,
+          Schauspieler oder Preise. Bei der Gegnersuche erlaubst Du alle
+          Duellthemen oder mehrere selbst gewählte Themen. „Alle Genres
+          (gemischt)“ ist dabei ein eigenes Thema für Duelle ohne Einschränkung.
+          Deine Suchauswahl ist die Zustimmung zur sofortigen Paarung; ein
+          passendes Duell startet ohne weitere Bestätigung. Ist keines offen,
+          kannst Du selbst eines vorlegen. Classics und Arthouse stehen nicht
+          als eigene Duellthemen zur Auswahl.
         </p>
         <p>
-          Deine Übersicht zeigt alle offenen Duelle, wer dran ist und die Frist.
-          Du kannst insgesamt fünf Spiele offen haben, davon höchstens eine
-          Herausforderung ohne Gegner. Für einen freigegebenen Spielblock
-          bleiben 72 Stunden; das gilt auch für die beiden Blöcke mit zwei
-          Runden. Ohne Gegner endet eine Herausforderung nach sieben Tagen.
+          Einer legt Runde 1 vor. Danach kann ein Gegner annehmen. Sobald die
+          Paarung steht, spielt jeder seine drei Runden unabhängig vom anderen,
+          auch gleichzeitig. Nach jeder Antwort erscheint die Lösung für 2,5
+          Sekunden, dann geht es automatisch weiter. Erklärungen und
+          Vertiefungen findest Du nach Deiner Zehnerrunde. Du kannst eine Runde
+          unterbrechen. Eine bereits gestartete Frage läuft während der Pause
+          weiter.
         </p>
         <p>
-          Spielt jemand nicht weiter, endet das Duell. Habt Ihr schon eine Runde
-          beide abgeschlossen, gewinnt der Wartende durch Zeitablauf. Vorher
-          wird es ohne Sieg oder Niederlage beendet. Deine tatsächlich
-          gespielten Antworten bleiben für Dein Lernen erhalten. Für Duelle
-          brauchst Du Internet.
+          Deine Übersicht zeigt alle offenen Duelle, den Gegner, den Fortschritt
+          beider Spieler je Runde und die Frist. Du kannst zehn Spiele offen
+          haben, auch alle zehn noch ohne Gegner. Für das erste Vorlegen bleiben
+          72 Stunden. Ab Paarung habt Ihr 72 Stunden für alle Runden. Ohne
+          Gegner endet eine Herausforderung nach sieben Tagen.
+        </p>
+        <p>
+          Spielt jemand nicht weiter, endet das Duell. Hat einer alle drei
+          Runden und der andere mindestens eine Runde beendet, gewinnt der
+          fertige Spieler durch Zeitablauf. Sind beide noch nicht fertig, endet
+          es ohne Sieg oder Niederlage. Bei Aufgabe gewinnt der andere, sobald
+          eine Runde beidseitig abgeschlossen ist. Deine tatsächlich gespielten
+          Antworten bleiben für Dein Lernen erhalten. Für Duelle brauchst Du
+          Internet.
         </p>
       </details>
       <details>
@@ -259,14 +274,16 @@ export function Help() {
           eingestellten Anzeigezeit pausieren Fragenzeit und Zeitkonto. Danach
           startet automatisch die nächste Frage oder der Rückblick mit Erklärung
           und Vertiefung. Filmreise und Wiederholen zeigen Lösungen immer
-          direkt; im Duell erscheinen sie immer nach Deiner eigenen Runde, auch
-          wenn Dein Gegner noch nicht gespielt hat.
+          direkt; im Duell erscheint die Lösung nach jeder Antwort für 2,5
+          Sekunden, dann geht es automatisch weiter. Erklärungen stehen nach
+          Deiner eigenen Runde bereit, auch wenn Dein Gegner noch nicht gespielt
+          hat.
         </p>
         <p>
-          Bei gesammelten Lösungen kannst Du vor Deiner Antwort „Ich rate bei
-          dieser Frage“ markieren. Ein geratener Treffer zählt im Duell, gilt
-          aber nicht als sichere Lernantwort. Die Lösungsanzeige verändert weder
-          die Zeitgrenze noch die Rekordkategorie.
+          Bei gesammelten Lösungen und im Duell kannst Du vor Deiner Antwort
+          „Ich rate bei dieser Frage“ markieren. Ein geratener Treffer zählt im
+          Duell, gilt aber nicht als sichere Lernantwort. Die Lösungsanzeige
+          verändert weder die Zeitgrenze noch die Rekordkategorie.
         </p>
       </details>
       <details>
@@ -391,15 +408,15 @@ export function Help() {
         <p>
           Bestätigte Quiz-Konten nehmen automatisch teil. Spielername, Level, XP
           und zusammengefasste Leistungsstatistik sind in der öffentlichen
-          Bestenliste sichtbar. Diese Wettbewerbs-XP sind von Deinen
-          Karriere-XP getrennt. Je Filmfakt und UTC-Tag gibt es einmal 1 XP für
-          eine Antwort einschließlich „Keine Ahnung“ und zusätzlich 2 / 3 / 5 XP
-          für einen richtigen leichten / mittleren / schweren Treffer.
-          Gemeinsame Rekordläufe zeigen Spielernamen und Ergebniswerte; Deine
-          einzelnen Antworten und persönlichen Duellergebnisse bleiben privat.
-          Auch bisherige gesicherte Runden bleiben privat erhalten, zählen aber
-          nicht als servergeprüfter Nachweis. E-Mail und vollständiger
-          Spielstand bleiben privat.
+          Bestenliste sichtbar. Diese Wettbewerbs-XP sind von Deinen Karriere-XP
+          getrennt. Je Filmfakt und UTC-Tag gibt es einmal 1 XP für eine Antwort
+          einschließlich „Keine Ahnung“ und zusätzlich 2 / 3 / 5 XP für einen
+          richtigen leichten / mittleren / schweren Treffer. Gemeinsame
+          Rekordläufe zeigen Spielernamen und Ergebniswerte; Deine einzelnen
+          Antworten und persönlichen Duellergebnisse bleiben privat. Auch
+          bisherige gesicherte Runden bleiben privat erhalten, zählen aber nicht
+          als servergeprüfter Nachweis. E-Mail und vollständiger Spielstand
+          bleiben privat.
         </p>
         <p>
           Unter „Lernfortschritt · Karriere-XP“ zählt Deine Filmkarriere aus

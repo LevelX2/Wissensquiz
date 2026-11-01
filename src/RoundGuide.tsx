@@ -56,10 +56,10 @@ const guides: Record<
   },
   duel: {
     introduction:
-      "Du spielst gegen einen Mitspieler: drei Runden mit je zehn Fragen und 30 Sekunden pro Frage. Ihr bekommt dieselben Fragen und spielt abwechselnd, ohne gleichzeitig online sein zu müssen.",
+      "Du spielst gegen einen Mitspieler: drei Runden mit je zehn Fragen und 30 Sekunden pro Frage. Sobald Ihr gepaart seid, könnt Ihr alle Runden unabhängig voneinander spielen, auch gleichzeitig.",
     selection:
-      "Mit Losspielen öffnest Du die Duellübersicht. Dort findest Du offene Duelle und kannst einen zufälligen Gegner suchen oder jemanden per Link einladen.",
-    flow: "Jeder Treffer zählt einen Punkt, ohne Zeitbonus. Nach Deiner Zehnerrunde siehst Du Lösungen und Erklärungen. Gegnerergebnisse erscheinen, sobald beide die Runde beendet haben. Die Gesamtzahl richtiger Antworten entscheidet; bei Gleichstand ist es ein Unentschieden. Eine gestartete Frage läuft auch bei Unterbrechung weiter.",
+      "Mit „Duell wählen“ öffnest Du die Duellübersicht. Bei der Gegnersuche erlaubst Du alle oder mehrere gewählte Themen; ein Treffer startet sofort. Beim eigenen Vorlegen oder Einladen wählst Du genau ein Thema.",
+    flow: "Jeder Treffer zählt einen Punkt, ohne Zeitbonus. Die Lösung erscheint nach jeder Antwort für 2,5 Sekunden, dann geht es automatisch weiter. Erklärungen findest Du nach Deiner Zehnerrunde. Gegnerergebnisse erscheinen, sobald beide die Runde beendet haben. Du kannst zehn Duelle offen halten, auch ohne Gegner. Nach Paarung habt Ihr 72 Stunden für alle Runden. Die Gesamtzahl richtiger Antworten entscheidet; bei Gleichstand ist es ein Unentschieden. Eine gestartete Frage läuft auch bei Unterbrechung weiter.",
   },
 };
 

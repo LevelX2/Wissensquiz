@@ -93,6 +93,8 @@ it("übernimmt bestätigte Duellantworten und Wiederholungen mit gleicher Wertun
     duel: {
       id: crypto.randomUUID(),
       opponent: "Test",
+      paired: false,
+      selection: "all",
       status: "preparing",
       kind: "random",
       solutionDisplay: "question",
@@ -107,6 +109,7 @@ it("übernimmt bestätigte Duellantworten und Wiederholungen mit gleicher Wertun
       rounds: [1, 2, 3].map((number) => ({
         number,
         answered: 0,
+        opponentAnswered: 0,
         mine: null,
         opponent: null,
       })),

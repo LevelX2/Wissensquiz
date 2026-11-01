@@ -147,9 +147,17 @@ test("Große Moduskachel: Auswahl schließt sich, speichert den Modus und starte
   });
 });
 
-test("Duell öffnet erst nach Variantenauswahl und Losspielen", async ({
+test("Duell öffnet erst nach Variantenauswahl und Duell wählen", async ({
   page,
-}) => {
+}, testInfo) => {
+  await page.route("**/rpc/quiz_duel_overview", async (route) =>
+    route.fulfill({
+      json: await accountBackend(page).api.call(
+        "quiz_duel_overview",
+        route.request().postDataJSON(),
+      ),
+    }),
+  );
   await page.goto("/");
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Duell", exact: true }).click();
@@ -170,10 +178,19 @@ test("Duell öffnet erst nach Variantenauswahl und Losspielen", async ({
     "Duell",
   );
   expect((await readStoredState(page)).rounds).toHaveLength(0);
-  await page.getByRole("button", { name: "Losspielen" }).click();
+  await page.getByRole("button", { name: "Duell wählen" }).click();
   await expect(
     page.getByRole("heading", { name: "Deine Duelle", exact: true }),
   ).toBeVisible();
+  await page.setViewportSize({ width: 320, height: 740 });
+  await expect(
+    page.getByRole("button", { name: "Duell vorlegen", exact: true }),
+  ).toBeVisible();
+  await expect(page.getByRole("alert")).toHaveCount(0);
+  await page.screenshot({
+    path: testInfo.outputPath("duel-entry-mobile.png"),
+    fullPage: true,
+  });
   await page.getByRole("button", { name: "← Zurück zum Spielen" }).click();
   await expect(page.locator(".mode-selection > summary")).toContainText(
     "Duell",

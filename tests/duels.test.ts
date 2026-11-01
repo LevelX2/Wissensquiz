@@ -79,7 +79,7 @@ async function block(
     return duelViewSchema.parse(await rpc("quiz_duel_view", [d, r]));
   });
 }
-it("spielt alle vier Blöcke mit gleichen Fragen, verborgenen Gegnerwerten und serverseitiger Endabrechnung", async () => {
+it("spielt nach Paarung unabhängig alle Runden mit gleichen Fragen und verborgenen Gegnerwerten", async () => {
   const d = duelSchema.parse(
     await as(alice, () =>
       rpc("quiz_duel_create", ["question", false, crypto.randomUUID()]),
@@ -88,12 +88,23 @@ it("spielt alle vier Blöcke mit gleichen Fragen, verborgenen Gegnerwerten und s
   let a = await block(alice, d.id, 1, () => true);
   expect(a.duel.status).toBe("waiting");
   expect(a.duel.rounds[0]).toMatchObject({ mine: 10, opponent: null });
+  await expect(
+    as(alice, () => rpc("quiz_duel_start", [d.id, 2, 0])),
+  ).rejects.toThrow("not_your_turn");
   const joined = duelSchema.parse(
-    await as(bob, () =>
-      rpc("quiz_duel_create", ["question", false, crypto.randomUUID()]),
-    ),
+    await as(bob, () => rpc("quiz_duel_find", [["all"], crypto.randomUUID()])),
   );
   expect(joined.id).toBe(d.id);
+  const ownNext = duelStartSchema.parse(
+    await as(alice, () => rpc("quiz_duel_start", [d.id, 2, 0])),
+  );
+  expect(ownNext.duel).toMatchObject({ paired: true, myTurn: true, round: 2 });
+  await expect(
+    as(bob, () => rpc("quiz_duel_start", [d.id, 2, 0])),
+  ).rejects.toThrow("not_your_turn");
+  await expect(
+    as(carol, () => rpc("quiz_duel_start", [d.id, 1, 0])),
+  ).rejects.toThrow();
   const bFirst = duelStartSchema.parse(
     await as(bob, () => rpc("quiz_duel_start", [d.id, 1, 0])),
   );
@@ -111,12 +122,18 @@ it("spielt alle vier Blöcke mit gleichen Fragen, verborgenen Gegnerwerten und s
   expect(b1.duel.rounds[0].opponent).toBe(10);
   const before = b1.duel.dueAt;
   const b2 = await block(bob, d.id, 2, () => true);
-  expect(b2.duel.myTurn).toBe(false);
+  expect(b2.duel.myTurn).toBe(true);
+  expect(b2.duel.rounds[1].opponent).toBeNull();
+  const b3 = await block(bob, d.id, 3);
+  expect(b3.duel).toMatchObject({ status: "active", myTurn: false });
+  expect(b3.duel.rounds[2].opponent).toBeNull();
   a = await block(alice, d.id, 2);
   expect(a.duel.round).toBe(3);
   expect(a.duel.dueAt).toBeGreaterThanOrEqual(before);
   await block(alice, d.id, 3, () => true);
-  const end = await block(bob, d.id, 3);
+  const end = duelViewSchema.parse(
+    await as(bob, () => rpc("quiz_duel_view", [d.id, 3])),
+  );
   expect(end.duel.status).toBe("completed");
   expect(end.duel.result).toBe("loss");
   expect(end.duel.rounds.map((r) => r.mine)).toEqual([5, 10, 5]);
@@ -341,10 +358,10 @@ it("beendet abgelaufene Spiele ohne erfundene Antworten und gibt Plätze frei", 
     ),
   );
   await block(alice, second.id, 1);
-  await as(bob, () =>
-    rpc("quiz_duel_create", ["question", false, crypto.randomUUID()]),
-  );
+  await as(bob, () => rpc("quiz_duel_find", [["all"], crypto.randomUUID()]));
   await block(bob, second.id, 1);
+  await block(alice, second.id, 2);
+  await block(alice, second.id, 3);
   await db.query(
     "update quiz_duels set due_at=clock_timestamp()-interval '1 second' where id=$1",
     [second.id],
@@ -357,46 +374,184 @@ it("beendet abgelaufene Spiele ohne erfundene Antworten und gibt Plätze frei", 
     reason: "timeout",
     result: "win",
   });
-  expect(forfeit.rounds[1].answered).toBe(0);
+  expect(forfeit.rounds[1].opponentAnswered).toBe(0);
+  const unfinished = duelSchema.parse(
+    await as(alice, () =>
+      rpc("quiz_duel_create", ["question", false, crypto.randomUUID()]),
+    ),
+  );
+  await block(alice, unfinished.id, 1);
+  await as(bob, () => rpc("quiz_duel_find", [["all"], crypto.randomUUID()]));
+  await block(bob, unfinished.id, 1);
+  await db.query(
+    "update quiz_duels set due_at=clock_timestamp()-interval '1 second' where id=$1",
+    [unfinished.id],
+  );
+  const cancelled = zList(await as(alice, () => rpc("quiz_duel_list"))).find(
+    (d) => d.id === unfinished.id,
+  )!;
+  expect(cancelled).toMatchObject({
+    status: "cancelled",
+    reason: "timeout",
+    result: null,
+  });
 });
 function zList(value: unknown) {
   return (value as unknown[]).map((d) => duelSchema.parse(d));
 }
-it("begrenzt offene Spiele auf insgesamt fünf und erlaubt nur eine nicht angenommene Herausforderung", async () => {
-  const first = duelSchema.parse(
-    await as(alice, () =>
-      rpc("quiz_duel_create", ["question", true, crypto.randomUUID()]),
-    ),
+it("friert ein einzelnes Duellthema ein, trennt die Paarungspools und lehnt Spezialkategorien ab", async () => {
+  const players = Array.from({ length: 4 }, () => crypto.randomUUID());
+  for (const player of players)
+    await db.query("insert into auth.users values($1,now(),false,'{}')", [
+      player,
+    ]);
+  await db.query(
+    `insert into quiz_duel_catalog(id,knowledge_id,difficulty,genre,familiarity,question)
+    select scope||'-'||id,scope||'-'||knowledge_id,difficulty,case when scope='Action' then 'Action' else genre end,familiarity,
+      question||jsonb_build_object('id',scope||'-'||id,'knowledgeId',scope||'-'||knowledge_id,
+        'metadata',((question->'metadata')-'person_id')||case when scope='actors' then jsonb_build_object('person_id','synthetic-actor') else '{}'::jsonb end,
+        'tags',case when scope='awards' then '["Preisträger"]'::jsonb else question->'tags' end)
+    from quiz_duel_catalog cross join unnest(array['actors','awards','Action']) scope where id=any($1::text[])`,
+    [questions.map((q) => q.id)],
   );
-  await expect(
-    as(alice, () =>
-      rpc("quiz_duel_create", ["round", true, crypto.randomUUID()]),
-    ),
-  ).rejects.toThrow("waiting_limit");
-  const pack = (
-    await db.query<{ questions: unknown }>(
-      "select questions from quiz_duels where id=$1",
-      [first.id],
-    )
-  ).rows[0].questions;
-  const ids = [first.id];
-  for (let i = 0; i < 4; i++) {
-    const id = crypto.randomUUID();
-    ids.push(id);
-    await db.query(
-      "insert into quiz_duels(id,creator,opponent,kind,solution_display,request_id,questions,status,turn_owner) values($1,$2,$3,'random','question',$4,$5,'active',$2)",
-      [id, alice, bob, crypto.randomUUID(), pack],
+  for (const topic of [
+    "actors",
+    "awards",
+    "Action",
+    "Science-Fiction",
+  ] as const) {
+    const d = duelSchema.parse(
+      await as(players[0], () =>
+        rpc("quiz_duel_create", ["question", true, crypto.randomUUID(), topic]),
+      ),
     );
+    const pack = (
+      await db.query<{
+        questions: { question: import("../src/model").Question }[];
+      }>("select questions from quiz_duels where id=$1", [d.id])
+    ).rows[0].questions;
+    expect(d.selection).toBe(topic);
+    expect(pack).toHaveLength(30);
+    for (const { question: q } of pack) {
+      if (topic === "actors")
+        expect(q.metadata.person_id).toBe("synthetic-actor");
+      else if (topic === "awards") expect(q.tags).toContain("Preisträger");
+      else {
+        expect(q.metadata.person_id).toBeUndefined();
+        expect(q.tags).not.toContain("Preisträger");
+      }
+    }
+    if (topic === "Action") {
+      expect(pack.every(({ question: q }) => q.id.startsWith("Action-"))).toBe(
+        true,
+      );
+      await db.query(
+        `insert into quiz_duel_answers(duel_id,player,round_no,question_no,started_at,answered_at,answer_id,correct)
+        select id,creator,1,n,clock_timestamp(),clock_timestamp(),questions->n->'question'->>'correctId',true from quiz_duels cross join generate_series(0,9) n where id=$1`,
+        [d.id],
+      );
+      await db.query(
+        "update quiz_duels set status='waiting',turn_owner=null,due_at=clock_timestamp()+interval '7 days' where id=$1",
+        [d.id],
+      );
+      const otherTopic = duelSchema.parse(
+        await as(players[1], () =>
+          rpc("quiz_duel_create", [
+            "question",
+            false,
+            crypto.randomUUID(),
+            "actors",
+          ]),
+        ),
+      );
+      expect(otherTopic.id).not.toBe(d.id);
+      const matched = await as(players[2], () =>
+        rpc("quiz_duel_find", [["Action"], crypto.randomUUID()]),
+      );
+      // Link challenges stay private even when their genre matches.
+      expect(matched).toBeNull();
+      const token = (
+        await db.query<{ token: string }>(
+          "select token from quiz_duels where id=$1",
+          [d.id],
+        )
+      ).rows[0].token;
+      const joined = duelSchema.parse(
+        await as(players[3], () => rpc("quiz_duel_join", [token])),
+      );
+      expect(joined.selection).toBe("Action");
+      await db.query(
+        "update quiz_duels set kind='random',status='waiting',opponent=null where id=$1",
+        [d.id],
+      );
+      const sameTopic = duelSchema.parse(
+        await as(players[2], () =>
+          rpc("quiz_duel_find", [["Action"], crypto.randomUUID()]),
+        ),
+      );
+      expect(sameTopic.id).toBe(d.id);
+    }
+  }
+  for (const invalid of ["Classics", "Arthouse", "Drama,Action", "", null])
+    await expect(
+      as(players[0], () =>
+        rpc("quiz_duel_create", [
+          "question",
+          true,
+          crypto.randomUUID(),
+          invalid,
+        ]),
+      ),
+    ).rejects.toThrow("invalid_duel_topic");
+  await db.query("delete from auth.users where id=any($1::uuid[])", [players]);
+  await db.query("delete from quiz_duel_catalog where id=any($1::text[])", [
+    ["actors", "awards", "Action"].flatMap((scope) =>
+      questions.map((q) => `${scope}-${q.id}`),
+    ),
+  ]);
+}, 30000);
+it("erlaubt zehn ungepaarte Herausforderungen und sperrt erst den elften Start oder die elfte Annahme", async () => {
+  const request = crypto.randomUUID();
+  const first = duelSchema.parse(
+    await as(alice, () => rpc("quiz_duel_create", ["question", true, request])),
+  );
+  const ids = [first.id];
+  for (let i = 0; i < 9; i++) {
+    const d = duelSchema.parse(
+      await as(alice, () =>
+        rpc("quiz_duel_create", ["question", false, crypto.randomUUID()]),
+      ),
+    );
+    ids.push(d.id);
   }
   expect(
     zList(await as(alice, () => rpc("quiz_duel_list"))).filter((d) =>
       ["preparing", "waiting", "active"].includes(d.status),
     ),
-  ).toHaveLength(5);
+  ).toHaveLength(10);
+  expect(
+    duelSchema.parse(
+      await as(alice, () =>
+        rpc("quiz_duel_create", ["question", true, request]),
+      ),
+    ).id,
+  ).toBe(first.id);
   await expect(
     as(alice, () =>
       rpc("quiz_duel_create", ["question", false, crypto.randomUUID()]),
     ),
+  ).rejects.toThrow("duel_limit");
+  await expect(
+    as(alice, () => rpc("quiz_duel_find", [["all"], crypto.randomUUID()])),
+  ).rejects.toThrow("duel_limit");
+  const invitation = duelSchema.parse(
+    await as(carol, () =>
+      rpc("quiz_duel_create", ["question", true, crypto.randomUUID()]),
+    ),
+  );
+  const ready = await block(carol, invitation.id, 1);
+  await expect(
+    as(alice, () => rpc("quiz_duel_join", [ready.duel.invitation])),
   ).rejects.toThrow("duel_limit");
   await as(alice, () => rpc("quiz_duel_close", [first.id]));
   const replacement = duelSchema.parse(
@@ -407,7 +562,113 @@ it("begrenzt offene Spiele auf insgesamt fünf und erlaubt nur eine nicht angeno
   expect(replacement.id).not.toBe(first.id);
   ids.push(replacement.id);
   for (const id of ids) await as(alice, () => rpc("quiz_duel_close", [id]));
-});
+  const joined = duelSchema.parse(
+    await as(alice, () => rpc("quiz_duel_join", [ready.duel.invitation])),
+  );
+  expect(joined.id).toBe(invitation.id);
+  const waitingRequest = crypto.randomUUID();
+  const newWaiting = duelSchema.parse(
+    await as(carol, () =>
+      rpc("quiz_duel_create", ["question", false, waitingRequest]),
+    ),
+  );
+  await block(carol, newWaiting.id, 1);
+  const withOpen = duelSchema.parse(
+    await as(alice, () =>
+      rpc("quiz_duel_create", ["question", true, crypto.randomUUID()]),
+    ),
+  );
+  const matched = duelSchema.parse(
+    await as(alice, () =>
+      rpc("quiz_duel_find", [["all"], crypto.randomUUID()]),
+    ),
+  );
+  expect(matched.id).toBe(newWaiting.id);
+  await as(alice, () => rpc("quiz_duel_close", [withOpen.id]));
+  await as(alice, () => rpc("quiz_duel_close", [matched.id]));
+  await as(alice, () => rpc("quiz_duel_close", [joined.id]));
+}, 30000);
+it("nimmt bei der Suche nur zugelassene Themen direkt an und legt beim Vorlegen immer ein eigenes Duell an", async () => {
+  const players = Array.from({ length: 4 }, () => crypto.randomUUID());
+  for (const player of players)
+    await db.query("insert into auth.users values($1,now(),false,'{}')", [
+      player,
+    ]);
+  const offer = async (owner: string, topic: string) => {
+    const d = duelSchema.parse(
+      await as(owner, () =>
+        rpc("quiz_duel_create", [
+          "question",
+          false,
+          crypto.randomUUID(),
+          topic,
+        ]),
+      ),
+    );
+    expect(d.status).toBe("preparing");
+    await block(owner, d.id, 1);
+    return d;
+  };
+  const mixed = await offer(players[0], "all");
+  const scifi = await offer(players[1], "Science-Fiction");
+  const secondMixed = await offer(players[1], "all");
+  expect(secondMixed.id).not.toBe(mixed.id);
+  expect(
+    await as(players[2], () =>
+      rpc("quiz_duel_find", [["Action"], crypto.randomUUID()]),
+    ),
+  ).toBeNull();
+  expect(zList(await as(players[2], () => rpc("quiz_duel_list")))).toHaveLength(
+    0,
+  );
+  const request = crypto.randomUUID();
+  const found = duelSchema.parse(
+    await as(players[2], () =>
+      rpc("quiz_duel_find", [["Action", "Science-Fiction"], request]),
+    ),
+  );
+  expect(found).toMatchObject({
+    id: scifi.id,
+    selection: "Science-Fiction",
+    paired: true,
+    myTurn: true,
+  });
+  expect(
+    duelSchema.parse(
+      await as(players[2], () =>
+        rpc("quiz_duel_find", [["Science-Fiction"], request]),
+      ),
+    ).id,
+  ).toBe(scifi.id);
+  const any = duelSchema.parse(
+    await as(players[3], () =>
+      rpc("quiz_duel_find", [
+        ["all", "Science-Fiction", "actors", "awards"],
+        crypto.randomUUID(),
+      ]),
+    ),
+  );
+  expect(any.id).toBe(mixed.id);
+  const mixedOnly = duelSchema.parse(
+    await as(players[0], () =>
+      rpc("quiz_duel_find", [["all"], crypto.randomUUID()]),
+    ),
+  );
+  expect(mixedOnly.id).toBe(secondMixed.id);
+  await offer(players[1], "Science-Fiction");
+  expect(
+    await as(players[0], () =>
+      rpc("quiz_duel_find", [["all"], crypto.randomUUID()]),
+    ),
+  ).toBeNull();
+  for (const invalid of [[], ["Classics"], ["Drama", null]])
+    await expect(
+      as(players[0], () =>
+        rpc("quiz_duel_find", [invalid, crypto.randomUUID()]),
+      ),
+    ).rejects.toThrow("invalid_duel_topic");
+  await db.query("delete from auth.users where id=any($1::uuid[])", [players]);
+}, 30000);
 it("nimmt Einladungen genau einmal an und hält die ursprüngliche Erstellungsanfrage idempotent", async () => {
   const request = crypto.randomUUID();
   const d = duelSchema.parse(

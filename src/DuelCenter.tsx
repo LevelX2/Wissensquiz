@@ -15,6 +15,10 @@ import {
   openDuel,
   duelDeadline,
   duelMessage,
+  duelNextStep,
+  duelTopics,
+  duelTopicLabel,
+  type DuelTopic,
   invitationToken,
   invitationUrl,
   importDuelView,
@@ -24,6 +28,98 @@ import {
   type Duel,
   type DuelView,
 } from "./duels";
+
+function DuelOpponent({ duel }: { duel: Duel }) {
+  return (
+    <div
+      className={`duel-opponent ${duel.paired ? "is-paired" : "is-unpaired"}`}
+    >
+      <strong>
+        {duel.paired
+          ? `Dein Gegner: ${duel.opponent}`
+          : "Gegner steht noch nicht fest"}
+      </strong>
+      <span>{duel.paired ? "Paarung gefunden" : "Noch nicht gepaart"}</span>
+    </div>
+  );
+}
+
+function DuelRounds({ duel }: { duel: Duel }) {
+  const compared = duel.rounds.filter((r) => r.opponent !== null);
+  return (
+    <>
+      {duel.status === "active" && compared.length > 0 && (
+        <p className="duel-score">
+          <strong>
+            Zwischenstand: {compared.reduce((sum, r) => sum + r.mine!, 0)} :{" "}
+            {compared.reduce((sum, r) => sum + r.opponent!, 0)}
+          </strong>{" "}
+          · {compared.length} von 3 Runden verglichen
+        </p>
+      )}
+      <div className="duel-rounds" aria-label="Rundenstand">
+        {duel.rounds.map((r) => {
+          const done = r.mine !== null && r.opponent !== null;
+          const outcome = done
+            ? r.mine! > r.opponent!
+              ? "win"
+              : r.mine! < r.opponent!
+                ? "loss"
+                : "draw"
+            : null;
+          const status =
+            outcome ??
+            (r.answered === 10
+              ? "waiting"
+              : r.answered > 0 || r.opponentAnswered > 0
+                ? "playing"
+                : "open");
+          const label =
+            outcome === "win"
+              ? "✓ Abgeschlossen · gewonnen"
+              : outcome === "loss"
+                ? "✓ Abgeschlossen · verloren"
+                : outcome === "draw"
+                  ? "✓ Abgeschlossen · unentschieden"
+                  : r.answered === 10
+                    ? "◷ Du fertig · Gegner fehlt"
+                    : r.opponentAnswered === 10
+                      ? "▶ Gegner fertig · Du bist dran"
+                      : status === "playing"
+                        ? "▶ In Arbeit"
+                        : "○ Noch offen";
+          return (
+            <div key={r.number} className={`duel-round is-${status}`}>
+              <strong>Runde {r.number}</strong>
+              <span className="duel-round-status">{label}</span>
+              <span>
+                Du:{" "}
+                {r.mine === null
+                  ? `${r.answered}/10 gespielt`
+                  : `${r.mine} Treffer`}
+              </span>
+              <span>
+                {!duel.paired
+                  ? "Gegner noch offen"
+                  : r.opponent === null
+                    ? `Gegner: ${r.opponentAnswered}/10 gespielt`
+                    : `Gegner: ${r.opponent} Treffer`}
+              </span>
+              {r.opponent !== null && (
+                <b
+                  className="duel-round-score"
+                  aria-label={`Ergebnis Runde ${r.number}: ${r.mine} zu ${r.opponent}`}
+                >
+                  {r.mine} : {r.opponent}
+                </b>
+              )}
+            </div>
+          );
+        })}
+      </div>
+    </>
+  );
+}
 
 export function DuelCenter({
   state,
@@ -46,6 +142,11 @@ export function DuelCenter({
 }) {
   const connection = useContext(RankingContext);
   const [list, setList] = useState<Duel[]>([]);
+  const [topic, setTopic] = useState<DuelTopic>("all");
+  const [searchTopics, setSearchTopics] = useState<DuelTopic[]>([
+    ...duelTopics,
+  ]);
+  const matchRequest = useRef<{ topics: string; id: string } | null>(null);
   const [archiveCursor, setArchiveCursor] = useState<string | null>(null);
   const pages = useRef(
     new Map<
@@ -71,6 +172,7 @@ export function DuelCenter({
   currentState.current = state;
   const request = useRef<{
     kind: boolean;
+    topic: DuelTopic;
     id: string;
   } | null>(null);
   const mounted = useRef(true);
@@ -293,14 +395,43 @@ export function DuelCenter({
     window.scrollTo(0, 0);
   }
   async function create(invited: boolean) {
-    if (!request.current || request.current.kind !== invited)
-      request.current = { kind: invited, id: uid() };
+    if (
+      !request.current ||
+      request.current.kind !== invited ||
+      request.current.topic !== topic
+    )
+      request.current = { kind: invited, topic, id: uid() };
     const d = await rpc(
       "quiz_duel_create",
-      { display: "round", invited, request: request.current.id },
+      {
+        display: "question",
+        invited,
+        request: request.current.id,
+        selected_topic: topic,
+      },
       duelSchema,
     );
     request.current = null;
+    await refresh();
+    await load(d);
+  }
+  async function findOpponent() {
+    const allowed = duelTopics.filter((t) => searchTopics.includes(t));
+    const key = allowed.join("|");
+    if (!matchRequest.current || matchRequest.current.topics !== key)
+      matchRequest.current = { topics: key, id: uid() };
+    const d = await rpc(
+      "quiz_duel_find",
+      { allowed_topics: allowed, request: matchRequest.current.id },
+      duelSchema.nullable(),
+    );
+    matchRequest.current = null;
+    if (!d) {
+      setNotice(
+        "Gerade ist kein passendes Duell offen. Du kannst selbst ein neues Duell vorlegen.",
+      );
+      return;
+    }
     await refresh();
     await load(d);
   }
@@ -321,10 +452,7 @@ export function DuelCenter({
       ),
     );
     if (!next) return null;
-    const saved = await accept(
-      next,
-      next.duel.solutionDisplay === "round" || next.answered < 10,
-    );
+    const saved = await accept(next);
     if (!saved) {
       setError(
         "Deine Antwort ist im Duell bestätigt. Die lokale Lernübernahme wird beim Aktualisieren erneut versucht.",
@@ -335,24 +463,7 @@ export function DuelCenter({
     return saved;
   }
   async function markGuess() {
-    if (!view) return;
-    if (view.duel.solutionDisplay === "round") {
-      setGuessed(!guessed);
-      return;
-    }
-    await run(async () => {
-      const next = await rpc(
-        "quiz_duel_guess",
-        {
-          duel: view.duel.id,
-          round_number: view.number,
-          question_number: index,
-        },
-        duelViewSchema,
-      );
-      await accept(next, false);
-      setView(next);
-    });
+    setGuessed(!guessed);
   }
   const unavailable = busy || working;
   const ownSolo = state.rounds.some((r) => r.status === "active");
@@ -377,16 +488,14 @@ export function DuelCenter({
     const screen = duelScreen(view, index, state);
     return (
       <div className="duel-playing">
-        <div className="duel-opponent">
-          <strong>
-            {view.duel.status === "preparing"
-              ? "Du legst vor"
-              : `Gegen ${view.duel.opponent}`}
-          </strong>
-          <span>Dein Spielblock bis {duelDeadline(view.duel.dueAt)}</span>
-        </div>
+        <DuelOpponent duel={view.duel} />
+        <p className="tiny">
+          Duellthema: {duelTopicLabel(view.duel.selection)}
+        </p>
+        <p className="duel-next-step">{duelNextStep(view.duel)}</p>
         <p className="tiny muted">
-          Die Fragezeit läuft ab Serverfreigabe, einschließlich Übertragung.
+          30 Sekunden pro Frage · nach 2,5 Sekunden Antwortanzeige automatisch
+          weiter.
         </p>
         {error && (
           <div role="alert" className="notice error">
@@ -481,15 +590,24 @@ export function DuelCenter({
         >
           ← Zur Duellübersicht
         </button>
+        <button
+          className="text-button"
+          disabled={unavailable}
+          onClick={() => void run(() => refresh())}
+        >
+          Duellstand aktualisieren
+        </button>
+        {error && (
+          <p role="alert" className="notice error">
+            {error}
+          </p>
+        )}
         <section className="duel-round-result">
           <h2>Duell · Runde {review.number} von 3</h2>
-          <p>Gegen {review.duel.opponent}</p>
-          <p>{duelMessage(review.duel)}</p>
-          <p>
-            {review.duel.rounds[review.number - 1].opponent === null
-              ? "Dein Gegner hat diese Runde noch nicht abgeschlossen."
-              : `Runde ${review.number}: ${review.duel.rounds[review.number - 1].mine} : ${review.duel.rounds[review.number - 1].opponent}`}
-          </p>
+          <DuelOpponent duel={review.duel} />
+          <p>Duellthema: {duelTopicLabel(review.duel.selection)}</p>
+          <p>{duelNextStep(review.duel)}</p>
+          <DuelRounds duel={review.duel} />
           {review.duel.status === "completed" && (
             <strong>
               Endergebnis:{" "}
@@ -510,7 +628,7 @@ export function DuelCenter({
               disabled={unavailable || ownSolo}
               onClick={() => void run(() => load(review.duel))}
             >
-              Runde {review.duel.round} vorlegen →
+              Runde {review.duel.round} spielen →
             </button>
           )}
         </section>
@@ -564,7 +682,10 @@ export function DuelCenter({
           Kontopaar und UTC-Tag. Weitere Duelle sind Freundschaftsspiele.
         </p>
         <p role="status">
-          <strong>{active.length} von 5 Spielplätzen belegt</strong>
+          <strong>{active.length} von 10 Spielplätzen belegt</strong>
+        </p>
+        <p>
+          Bis zu zehn Duelle gleichzeitig – auch alle zehn noch ohne Gegner.
         </p>
       </header>
       {error && (
@@ -623,6 +744,93 @@ export function DuelCenter({
         <p role="status">Deine Duelle werden geladen …</p>
       ) : (
         <>
+          <section className="duel-new">
+            <h2>Gegner finden</h2>
+            <fieldset disabled={unavailable || ownSolo}>
+              <legend>Welche Duellthemen möchtest Du annehmen?</legend>
+              <div className="duel-search-topics">
+                {duelTopics.map((value) => (
+                  <label key={value}>
+                    <input
+                      type="checkbox"
+                      checked={searchTopics.includes(value)}
+                      onChange={(e) =>
+                        setSearchTopics((current) =>
+                          e.target.checked
+                            ? [...current, value]
+                            : current.filter((t) => t !== value),
+                        )
+                      }
+                    />
+                    {duelTopicLabel(value)}
+                  </label>
+                ))}
+              </div>
+            </fieldset>
+            <p className="tiny muted">
+              Deine Auswahl gilt als Zustimmung: Ein passendes Duell startet
+              sofort. „Alle Genres (gemischt)“ ist eine eigene Auswahl.
+              Abgewählte Einzelgenres schließen nur reine Duelle in diesem Genre
+              aus, ohne gemischte Duelle einzuschränken.
+            </p>
+            <button
+              className="primary"
+              disabled={
+                unavailable ||
+                ownSolo ||
+                active.length >= 10 ||
+                searchTopics.length === 0
+              }
+              onClick={() => void run(findOpponent)}
+            >
+              Zufälligen Gegner finden
+            </button>
+          </section>
+          <section className="duel-new">
+            <h2>Neues Duell vorlegen</h2>
+            <div className="duel-topic">
+              <label htmlFor="duel-topic">Duellthema</label>
+              <select
+                id="duel-topic"
+                value={topic}
+                disabled={unavailable || ownSolo}
+                onChange={(e) => setTopic(e.target.value as DuelTopic)}
+              >
+                {duelTopics.map((value) => (
+                  <option key={value} value={value}>
+                    {duelTopicLabel(value)}
+                  </option>
+                ))}
+              </select>
+            </div>
+            <p>
+              Nach jeder Antwort siehst Du für 2,5 Sekunden die Lösung. Dann
+              geht es automatisch weiter. Alle Erklärungen findest Du im
+              Rundenrückblick.
+            </p>
+            <div className="duel-actions">
+              <button
+                className="primary"
+                disabled={unavailable || ownSolo || active.length >= 10}
+                onClick={() => void run(() => create(false))}
+              >
+                Duell vorlegen
+              </button>
+              <button
+                className="secondary"
+                disabled={unavailable || ownSolo || active.length >= 10}
+                onClick={() => void run(() => create(true))}
+              >
+                Per Link einladen
+              </button>
+            </div>
+            <p className="tiny muted">
+              Du wählst genau ein Thema und legst die ersten zehn Fragen vor.
+              Danach kann ein Gegner annehmen. Sobald die Paarung steht, könnt
+              Ihr alle drei Runden unabhängig spielen. Ab Paarung habt Ihr 72
+              Stunden; ohne Gegner endet die Suche nach sieben Tagen.
+            </p>
+          </section>
           {(
             [
               "Du bist dran",
@@ -631,38 +839,31 @@ export function DuelCenter({
             ] as const
           ).map((group) => {
             const games = active.filter((d) => duelMessage(d) === group);
+            if (!games.length) return null;
             return (
               <section key={group} className="duel-group">
                 <h2>{group}</h2>
-                {!games.length && (
-                  <p className="tiny muted">Hier sind gerade keine Duelle.</p>
-                )}
                 {games.map((d) => (
                   <article className="duel-card" key={d.id}>
-                    <h3>{d.opponent}</h3>
+                    <h3>
+                      {d.paired
+                        ? `Duell gegen ${d.opponent}`
+                        : "Offene Herausforderung"}
+                    </h3>
+                    <DuelOpponent duel={d} />
+                    <p>Duellthema: {duelTopicLabel(d.selection)}</p>
+                    <p className="duel-next-step">{duelNextStep(d)}</p>
                     <p>
-                      Runde {d.round} von 3 ·{" "}
-                      {d.solutionDisplay === "round"
-                        ? "Lösungen nach der Runde"
-                        : "Lösungen nach jeder Frage"}
+                      {d.rounds.filter((r) => r.answered === 10).length} von 3
+                      eigenen Runden beendet
                     </p>
                     <p className="tiny">
                       {d.status === "waiting"
                         ? "Gegnersuche bis"
-                        : "Spielblock bis"}{" "}
+                        : "Spielzeit bis"}{" "}
                       {duelDeadline(d.dueAt)}
                     </p>
-                    <div className="duel-rounds">
-                      {d.rounds.map((r) => (
-                        <span key={r.number}>
-                          R{r.number}:{" "}
-                          {r.mine === null
-                            ? `${r.answered}/10 gespielt`
-                            : r.mine}{" "}
-                          : {r.opponent ?? "–"}
-                        </span>
-                      ))}
-                    </div>
+                    <DuelRounds duel={d} />
                     <div className="duel-actions">
                       {d.myTurn && (
                         <button
@@ -739,46 +940,12 @@ export function DuelCenter({
               </section>
             );
           })}
-          <section className="duel-new">
-            <h2>Neues Duell</h2>
-            <p>
-              Die zehn Fragen folgen direkt aufeinander. Lösungen und
-              Vertiefungen siehst Du immer nach Deiner eigenen Runde.
-            </p>
-            <div className="duel-actions">
-              <button
-                className="primary"
-                disabled={unavailable || ownSolo || active.length >= 5}
-                onClick={() => void run(() => create(false))}
-              >
-                Zufälligen Gegner finden
-              </button>
-              <button
-                className="secondary"
-                disabled={
-                  unavailable ||
-                  ownSolo ||
-                  active.length >= 5 ||
-                  active.some(
-                    (d) => d.status === "preparing" || d.status === "waiting",
-                  )
-                }
-                onClick={() => void run(() => create(true))}
-              >
-                Per Link einladen
-              </button>
-            </div>
-            <p className="tiny muted">
-              Wir nehmen zuerst eine offene Herausforderung an. Sonst legst Du
-              die ersten zehn Fragen vor. Pro Spielblock habt Ihr 72 Stunden;
-              ohne Gegner endet die Suche nach sieben Tagen.
-            </p>
-          </section>
           <details className="duel-history">
             <summary>Abgeschlossene Duelle ({past.length})</summary>
             {past.map((d) => (
               <article className="duel-card" key={d.id}>
                 <h3>{d.opponent}</h3>
+                <p>{duelTopicLabel(d.selection)}</p>
                 <p>{duelMessage(d)}</p>
                 {d.status === "completed" && (
                   <strong>

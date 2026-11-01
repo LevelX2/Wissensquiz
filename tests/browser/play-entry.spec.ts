@@ -12,7 +12,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   page,
   context,
   browserName,
-}) => {
+}, testInfo) => {
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
@@ -44,7 +44,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
       Math.min(...desktopTiles.map((box) => box.width)),
   ).toBeLessThan(1);
   expect(new Set(desktopTiles.map((box) => box.height)).size).toBe(1);
-  await page.screenshot({ path: "test-results/kinostart-desktop.png" });
+  await page.screenshot({ path: testInfo.outputPath("kinostart-desktop.png") });
   for (const width of [320, 390, 768, 1024]) {
     await page.setViewportSize({ width, height: 900 });
     const first = (await tiles.first().boundingBox())!;
@@ -57,7 +57,9 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
         () => document.documentElement.scrollWidth <= innerWidth,
       ),
     ).toBe(true);
-    await page.screenshot({ path: `test-results/spielkacheln-${width}.png` });
+    await page.screenshot({
+      path: testInfo.outputPath(`spielkacheln-${width}.png`),
+    });
   }
   await duel.focus();
   await page.keyboard.press("Enter");
@@ -69,7 +71,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   await duelGuide.locator("summary").click();
   await expect(duelGuide).toContainText("drei Runden mit je zehn Fragen");
   await expect(duelGuide).not.toContainText("offenen Fehlern");
-  await page.getByRole("button", { name: "Losspielen" }).click();
+  await page.getByRole("button", { name: "Duell wählen" }).click();
   await expect(
     page.getByRole("heading", { name: "Deine Duelle", exact: true }),
   ).toBeVisible();
@@ -77,7 +79,9 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     page.getByRole("button", { name: "Zufälligen Gegner finden" }),
   ).toBeVisible();
   await page.getByRole("button", { name: "← Zurück zum Spielen" }).click();
-  await expect(start).toBeEnabled();
+  await expect(
+    page.getByRole("button", { name: "Duell wählen" }),
+  ).toBeEnabled();
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();
   await modePreparation(page, /Filmreise Neues lernen/).click();
@@ -101,7 +105,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   ).toBeVisible();
   await expect(guide).toContainText("geratene Treffer zählen dafür nicht");
   await expect(guide).toContainText("jeder Filmfakt höchstens einmal");
-  await page.screenshot({ path: "test-results/rundenhinweis-320.png" });
+  await page.screenshot({ path: testInfo.outputPath("rundenhinweis-320.png") });
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
@@ -121,7 +125,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     .locator(".genre-options .filter-choice")
     .evaluateAll((els) => els.map((el) => el.getBoundingClientRect().width));
   expect(Math.max(...widths) - Math.min(...widths)).toBeLessThan(1);
-  await page.screenshot({ path: "test-results/spieleinstieg-320.png" });
+  await page.screenshot({ path: testInfo.outputPath("spieleinstieg-320.png") });
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
@@ -242,5 +246,5 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   }
   await page
     .locator(".learning-path")
-    .screenshot({ path: "test-results/stufenfortschritte-320.png" });
+    .screenshot({ path: testInfo.outputPath("stufenfortschritte-320.png") });
 });

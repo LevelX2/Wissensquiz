@@ -34,24 +34,138 @@
   gap: 0.6rem;
   margin-top: 0.8rem;
 }
-.duel-rounds span {
+.duel-rounds > div {
+  display: grid;
+  gap: 0.25rem;
+  flex: 1 1 9rem;
   background: #e8efed;
+  color: #374b46;
+  border: 1px dashed #94a5a0;
+  border-top: 5px solid #94a5a0;
   border-radius: 7px;
-  padding: 0.35rem 0.6rem;
+  padding: 0.6rem;
+  font-size: 0.85rem;
+}
+.duel-rounds .is-win {
+  background: #dcefe0;
+  color: #164d2b;
+  border: 1px solid #5c936d;
+  border-top-width: 5px;
+}
+.duel-rounds .is-loss {
+  background: #fce4e2;
+  color: #7b252b;
+  border: 1px solid #bf7777;
+  border-top-width: 5px;
+}
+.duel-rounds .is-draw {
+  background: #ede6f6;
+  color: #513477;
+  border: 1px solid #987bb9;
+  border-top-width: 5px;
+}
+.duel-rounds .is-waiting {
+  background: #fff0cd;
+  color: #64490c;
+  border: 1px dashed #b4913f;
+  border-top: 5px solid #b4913f;
+}
+.duel-rounds .is-playing {
+  background: #e0eefb;
+  color: #214d76;
+  border: 1px dashed #7194bb;
+  border-top: 5px solid #7194bb;
+}
+.duel-round-status {
+  font-weight: 700;
+}
+.duel-round-score {
+  font-size: 1.5rem;
+  line-height: 1.2;
+  margin-top: 0.3rem;
+}
+.duel-score {
+  background: #e3f2ed;
+  color: #214f50;
+  padding: 0.75rem;
+  border-radius: 10px;
+}
+.duel-next-step {
+  font-weight: 600;
+  color: #214f50;
 }
 .duel-opponent {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   gap: 0.4rem;
-  padding: 0.6rem 0;
+  align-items: center;
+  border: 1px solid #a8cbc5;
+  border-left: 5px solid #367b70;
+  border-radius: 10px;
+  padding: 0.75rem;
+  background: #e3f2ed;
   color: #214f50;
+  overflow-wrap: anywhere;
+}
+.duel-opponent.is-unpaired {
+  border-color: #d6be83;
+  background: #fff4dc;
+  color: #694d13;
 }
 .duel-opponent span {
   font-size: 0.8rem;
 }
+.duel-new {
+  border: 1px solid #cdd9d8;
+  border-radius: 16px;
+  padding: 1rem;
+}
+.duel-new h2 {
+  margin-top: 0;
+}
+.duel-topic {
+  display: grid;
+  gap: 0.4rem;
+  max-width: 24rem;
+  font-weight: 600;
+}
+.duel-topic select {
+  width: 100%;
+  min-width: 0;
+}
+.duel-new fieldset > label {
+  display: block;
+  margin: 0.5rem 0;
+}
+.duel-search-topics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
+  gap: 0.5rem;
+  margin-top: 0.8rem;
+}
+.duel-search-topics label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 44px;
+  font-size: 14px;
+  color: #24313b;
+}
+.duel-search-topics input[type="checkbox"] {
+  accent-color: #28674b;
+  flex: 0 0 18px;
+  width: 18px;
+  height: 18px;
+  min-height: 18px;
+  padding: 0;
+  margin: 0;
+}
 .duel-history {
   margin-top: 1.5rem;
+}
+.duel-review > .text-button {
+  margin: 0 0.75rem 0.5rem 0;
 }
 .duel-history .duel-card > strong {
   display: block;

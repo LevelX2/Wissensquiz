@@ -376,7 +376,7 @@ export function Result({
             className={retryCount ? "secondary" : "primary"}
             onClick={onHome}
           >
-            Neue Runde wählen →
+            {round.duel ? "Neues Duell starten" : "Neue Runde wählen"} →
           </button>
         </div>
       )}
@@ -389,7 +389,9 @@ export function Result({
       )}
       {!trialActions && (
         <button className="text-button muted" onClick={onHome}>
-          Zur Startseite · Für heute reicht’s
+          {round.duel
+            ? "Duellübersicht · Für heute reicht’s"
+            : "Zur Startseite · Für heute reicht’s"}
         </button>
       )}
       <section className="review">

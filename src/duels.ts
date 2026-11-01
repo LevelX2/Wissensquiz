@@ -14,9 +14,40 @@ import { learningPathProgress, newlyUnlocked } from "./learningPath";
 import { rankingRequest } from "./rankingRequest";
 import { roundFact } from "./roundArchive";
 
+export const duelTopics = [
+  "all",
+  "Science-Fiction",
+  "Action",
+  "Horror",
+  "Fantasy",
+  "Komödie",
+  "Western",
+  "Drama",
+  "Abenteuer",
+  "Musik",
+  "Thriller",
+  "Martial Arts & Asia-Film",
+  "Rom-Com",
+  "actors",
+  "awards",
+] as const;
+export type DuelTopic = (typeof duelTopics)[number];
+export const duelTopicLabel = (topic: DuelTopic) =>
+  topic === "all"
+    ? "Alle Genres (gemischt)"
+    : topic === "actors"
+      ? "Schauspieler"
+      : topic === "awards"
+        ? "Preise"
+        : topic === "Science-Fiction"
+          ? "Sci-Fi"
+          : topic;
+
 export const duelSchema = z.object({
   id: z.string().uuid(),
   opponent: z.string().max(40),
+  paired: z.boolean(),
+  selection: z.enum(duelTopics),
   status: z.enum([
     "preparing",
     "waiting",
@@ -40,6 +71,7 @@ export const duelSchema = z.object({
       z.object({
         number: z.number(),
         answered: z.number().int().min(0).max(10),
+        opponentAnswered: z.number().int().min(0).max(10),
         imported: z.boolean().optional(),
         mine: z.number().nullable(),
         opponent: z.number().nullable(),
@@ -139,6 +171,19 @@ export function duelMessage(d: Duel) {
   if (d.status === "waiting") return "Gegner wird gesucht";
   return d.myTurn ? "Du bist dran" : "Warten auf Gegner";
 }
+export function duelNextStep(d: Duel) {
+  if (d.status === "preparing")
+    return "Du erstellst eine Herausforderung: Spiele zuerst Runde 1. Danach kann ein Gegner annehmen.";
+  if (d.status === "waiting")
+    return d.kind === "invite"
+      ? "Runde 1 ist bereit. Teile den Einladungslink; Dein Gegner steht noch nicht fest."
+      : "Runde 1 ist bereit. Noch nicht gepaart – wir warten auf einen Gegner.";
+  if (d.status === "active")
+    return d.myTurn
+      ? `Du kannst Runde ${d.round} spielen. Ihr spielt Eure Runden unabhängig voneinander.`
+      : "Du hast alle drei Runden beendet. Das Duell bleibt offen, bis Dein Gegner fertig ist.";
+  return duelMessage(d);
+}
 export async function duelRpc<T>(
   client: SupabaseClient,
   owner: string,
@@ -171,11 +216,11 @@ export async function duelRpc<T>(
         : "";
     const messages: Record<string, string> = {
       duel_limit:
-        "Alle fünf Spielplätze sind belegt. Beende zuerst ein Duell oder warte auf seinen Abschluss.",
-      waiting_limit:
-        "Du hast bereits eine Herausforderung ohne Gegner. Du findest sie in Deinen offenen Spielen.",
+        "Alle zehn Spielplätze sind belegt. Beende zuerst ein Duell oder warte auf seinen Abschluss.",
       duel_catalog_missing:
-        "Die Duellfragen sind noch nicht freigeschaltet. Versuche es später erneut.",
+        "Für diese Auswahl stehen noch nicht genug Duellfragen bereit. Wähle einen anderen Bereich.",
+      invalid_duel_topic:
+        "Wähle Alles, ein Filmgenre, Schauspieler oder Preise.",
       invalid_invitation: "Dieser Einladungslink ist ungültig.",
       invitation_unavailable:
         "Diese Einladung ist noch nicht bereit, bereits angenommen oder abgelaufen.",
