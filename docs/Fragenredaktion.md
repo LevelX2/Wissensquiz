@@ -135,6 +135,8 @@ Bei größeren Durchsichten auf Nutzerwunsch im Gespräch nur starke Verbesserun
 
 ## Filmfassung, Eckdaten und Lösungsschutz
 
+Seit der Nutzerpräzisierung vom 02.11.2026 gehört die **konkrete Teilnummer** zwingend zu jeder belegten Filmreihe; der Reihenname allein reicht nicht. Jede neu verwendete Filmfassung einschließlich Personen-/Preisverweisen in `src/filmSeries.json` bewusst prüfen und einordnen. Innerhalb der ausdrücklich benannten Filmfolge nach Veröffentlichung zählen, Vorgeschichten, Neustarts, Ableger und thematische Zyklen bei Bedarf erklären. Buchreihen, unabhängige Neuverfilmungen und nur angekündigte Fortsetzungen ergeben keine erfundene Filmnummer. Quellen und begründete Fälle ohne nummerierte Filmreihe dokumentieren. Die vollständige Bestandsprüfung in `tests/film-series.test.ts` ist das Integrationsgate für neue Filmidentitäten. [Vertrag und gesamte Abnahme](Filmreihen-2026-11-02/Pruefbericht.md).
+
 Filmidentität über tatsächlichen Originaltitel und Jahr der ersten Veröffentlichung einschließlich Premiere/Festival feststellen. Remakes, Fortsetzungen, alternative Titel, Schnittfassungen und Sprachfassungen abgrenzen. Produktionsjahr, erste Veröffentlichung, deutscher Kinostart und Preisverleihungsjahr nicht vermischen.
 
 Die Jahresfrage darf die gesuchte Jahreszahl vor der Antwort nicht verraten, auch nicht durch eine routinemäßige Titel-Jahr-Klammer. Enthält der Titel selbst das Lösungsjahr, die Fassung mit anderen belegten Angaben identifizieren. Eine Regiefrage darf den gesuchten Namen nicht als einleitenden Regiehinweis nennen. Metadaten, Überschrift, Lernziel, Tags und sichtbare Zusatztexte auf solche Hinweise prüfen; Erklärungen und Filmdaten erscheinen nach der Antwort.

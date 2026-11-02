@@ -8,6 +8,7 @@ import { familiarityOf, filmIdentity } from "../src/familiarity";
 import { pathQuestions } from "../src/learningPath";
 import { validateBackup } from "../src/backupValidation";
 import { filmData } from "../src/filmFacts";
+import filmSeries from "../src/filmSeries.json";
 import filmSource from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json";
 import {
   assertEditorialSource,
@@ -16,6 +17,9 @@ import {
   baselineCsvRow,
 } from "./editorialSource";
 import integration from "./fixtures/appliedEditorial.json";
+const seriesSources = new Map(
+  Object.entries(filmSeries.films).map(([key, entry]) => [key, entry.sources]),
+);
 
 const packageIndex = packages.findIndex(
   (p) => p.filename === "Alle_Genres_120_Filme_960_Fragen.csv",
@@ -147,13 +151,17 @@ it("verbindet alle 120 gelieferten Filmdaten mit den bestehenden CSV-Fragen, ohn
       originalTitle: f.film_title_original,
       year: f.film_year,
       countries: f.production_countries,
-      series: f.series,
       releaseNote: f.release_note,
       directorNote: f.director_note,
     });
     expect(data.directors).toBe(f.directors.join(" und "));
+    // Reihenzuordnung und ihre zusätzlichen Quellen kommen aus der zentralen
+    // Filmreihenredaktion; die ursprünglichen Filmquellen bleiben vollständig.
     expect(data.sources).toEqual([
-      ...new Set(f.sources.map((source) => source.url)),
+      ...new Set([
+        ...f.sources.map((source) => source.url),
+        ...seriesSources.get(filmIdentity(q))!,
+      ]),
     ]);
     const director = imported.find(
       (candidate) =>

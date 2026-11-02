@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Filmreihen vollständig abgeglichen: 2.953 Filmidentitäten, 624 mit Teilnummer, keine benannte Reihe ohne Nummer – 02.11.2026, lokal](../../../docs/Filmreihen-2026-11-02/Pruefbericht.md)
+
 - [Version 86: Duellfeedback, unabhängige Runden, zehn offene Spiele und direkte Themenwahl veröffentlicht – 01.11.2026](../../../docs/Veroeffentlichung-2026-11-01-Version-86.json)
 - [Duellablauf seit Version 86: sofortige Antwortfarben, unabhängige Runden, zehn offene Spiele, Themenwahl mit direkter Suche und klare Rundenstände – 01.11.2026](../../../docs/Asynchrone-Filmduelle.md#duellablauf-und-übersicht--01112026-lokal)
 

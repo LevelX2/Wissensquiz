@@ -1,4 +1,5 @@
 import facts from "./filmFacts.json" with { type: "json" };
+import filmSeries from "./filmSeries.json" with { type: "json" };
 import awardFacts from "./awardFilmFacts.json" with { type: "json" };
 import actorFacts from "./actorFilmFacts.json" with { type: "json" };
 import actorSupplementFacts from "./actorSupplementFilmFacts.json" with { type: "json" };
@@ -56,7 +57,7 @@ const actorFamiliarityReferenceByFilm = new Map(
 );
 
 // Read-only enrichment: also works for historical snapshots without modifying them.
-export function filmData(q: Question, reference?: string) {
+function resolveFilmData(q: Question, reference?: string) {
   if (q.metadata.person_id && !reference) return undefined;
   const key = reference ?? filmKey(q);
   const reviewedReference = q.metadata.person_id?.startsWith(
@@ -76,7 +77,6 @@ export function filmData(q: Question, reference?: string) {
         "country_note" in reviewedReference
           ? reviewedReference.country_note
           : "",
-      series: "series" in reviewedReference ? reviewedReference.series : null,
       releaseNote: reviewedReference.release_note,
       directorNote: reviewedReference.director_note,
       directorContext: "",
@@ -104,7 +104,6 @@ export function filmData(q: Question, reference?: string) {
       directors: names(f.directors),
       countries: f.productionCountries,
       countryNote: "",
-      series: f.series,
       releaseNote: f.releaseNote,
       directorNote: f.directorNote,
       directorContext: background?.text ?? f.directorContext,
@@ -126,7 +125,6 @@ export function filmData(q: Question, reference?: string) {
       directors: names(reference.directors),
       countries: reference.production_countries,
       countryNote: "country_note" in reference ? reference.country_note : "",
-      series: "series" in reference ? reference.series : null,
       releaseNote: reference.release_note,
       directorNote: reference.director_note,
       directorContext: "",
@@ -149,12 +147,28 @@ export function filmData(q: Question, reference?: string) {
       "country_note" in newer
         ? newer.country_note
         : ((allGenresCountryNotes as Record<string, string>)[key] ?? ""),
-    series: newer.series,
     releaseNote: newer.release_note,
     directorNote: newer.director_note,
     directorContext: background?.text ?? "",
     directorSources: background?.sources ?? [],
     sources: [...new Set(newer.sources.map((source) => source.url))],
+  };
+}
+
+type FilmSeriesEntry = {
+  series: { name: string; position: number; note: string } | null;
+  sources: string[];
+};
+const seriesByFilm: Record<string, FilmSeriesEntry> = filmSeries.films;
+
+export function filmData(q: Question, reference?: string) {
+  const data = resolveFilmData(q, reference);
+  if (!data) return undefined;
+  const reviewed = seriesByFilm[`${data.originalTitle}|${data.year}`];
+  return {
+    ...data,
+    series: reviewed?.series ?? null,
+    sources: [...new Set([...data.sources, ...(reviewed?.sources ?? [])])],
   };
 }
 

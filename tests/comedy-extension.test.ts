@@ -72,7 +72,16 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
       countries: f.production_countries,
       directorContext: revision.after.directorContext,
     });
-    if (f.series) expect(filmData(q)?.series).toEqual(f.series);
+    if (f.series)
+      expect(filmData(q)?.series).toEqual(
+        f.film_title_original === "Clerks"
+          ? {
+              name: "Clerks",
+              position: 1,
+              note: expect.stringContaining("Clerks-Filme"),
+            }
+          : f.series,
+      );
     expect(
       q.tags.filter((t) => ["Classics", "Arthouse"].includes(t)).sort(),
     ).toEqual(Object.keys(f.category_reasons).sort());
@@ -81,9 +90,12 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
         filmIdentity(n) === filmIdentity(q) &&
         n.metadata.fact_kind === "director",
     )!;
-    const current = (reviewedFacts as Record<string, { context: string; metadata: Record<string, string> }>)[
-      director.id
-    ];
+    const current = (
+      reviewedFacts as Record<
+        string,
+        { context: string; metadata: Record<string, string> }
+      >
+    )[director.id];
     expect(director.context).toContain(
       current?.context ?? revision.after.directorContext,
     );
@@ -97,8 +109,8 @@ it("erhält die Komödie-Rohquellen und verbindet 50 Filme mit Bekanntheit, Film
     (q) => q.metadata.film_title_original === "Clerks" && !q.metadata.fact_kind,
   )!;
   expect(filmData(clerks)?.series).toMatchObject({
-    name: "View Askewniverse",
-    position: null,
+    name: "Clerks",
+    position: 1,
   });
   const dumb = qs.find(
     (q) =>

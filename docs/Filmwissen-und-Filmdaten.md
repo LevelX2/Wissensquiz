@@ -1,5 +1,13 @@
 # Jahresfragen, Regiefragen und Filmdaten
 
+## Filmreihen im gesamten Bestand – 02.11.2026, lokal
+
+Auf ausdrücklichen Nutzerauftrag alle 2.953 angezeigten Filmidentitäten einschließlich Personen-/Preisverweisen auf Filmreihe und konkrete Teilnummer abgeglichen. **Eine benannte Filmreihe muss ihre positive Teilnummer zeigen; der Reihenname allein genügt nicht.** Führend ist jetzt `src/filmSeries.json` für sämtliche Filmdatenwege. Neue Filmidentitäten benötigen vor der Integration eine bewusste Reihenprüfung, auch wenn deren Ergebnis keine belegte nummerierte Filmreihe ist.
+
+624 Filmidentitäten haben eine nummerierte Reihe, 2.329 keine belegte Zuordnung. 45 leere Nummern geklärt, 326 fehlende Reihen ergänzt, sechs irreführende Angaben entfernt; keine benannte Reihe ohne Nummer und keine widersprüchlichen Angaben derselben Filmidentität mehr. „Keine Reihe hinterlegt“ behauptet weiterhin keine endgültige Einzelstellung des Films. Zählung innerhalb der ausdrücklich benannten Folge; Vorgeschichten, Neustarts, Ableger, Themenzyklen und abweichende Erzählordnungen sind bei Bedarf erläutert.
+
+Die Mumie 1/2/3, Mad Max 1/2/4, die beiden „Auf der Jagd …“-Filme 1/2 und Top Gun/Maverick 1/2 ausdrücklich bestätigt. Fragen, Identitäten, Antworten und private Spielstände erhalten. 44 gezielte Tests mit abschließenden Nachprüfungen, tatsächliche React-Ausgabe aller 624 nummerierten Identitäten und vollständiger Katalogabgleich erfolgreich. **Noch nicht veröffentlicht oder produktiv im Katalog aktiviert.** [Ursache, Quellen, Abnahme und Grenzen](Filmreihen-2026-11-02/Pruefbericht.md), [vollständige Einzelprüfung](Filmreihen-2026-11-02/Pruefung.json).
+
 ## Mission-Impossible-Reihenpositionen – 26.10.2026, lokal
 
 Auf Nutzerhinweis die Reihenzuordnung für alle fünf im Katalog enthaltenen Mission-Impossible-Filme geprüft. Bei **Mission: Impossible III (2006)** fehlte Teil **3**, bei **Rogue Nation (2015)** Teil **5**. Beide Angaben sind in den aktiven Genre-Filmdaten, deren Action-Teilbestand und den beiden zugrunde liegenden Redaktionsdatensätzen ergänzt. Ein zweiter Metadateneintrag zum ersten Film im Schauspieler-Ergänzungsbestand erhielt ebenfalls die bereits im Filmkatalog vorhandene Position **1**.
@@ -91,6 +99,6 @@ Aufklappbarer Abschnitt neben „Etwas tiefer eintauchen“, standardmäßig ges
 
 Produktionsangaben sind keine Drehorte. Koproduktionen zeigen mehrere Länder/Regionen, historische Bezeichnungen werden kenntlich gemacht. Die Angaben stammen aus den verlinkten Filmquellen. 111 Filme haben derzeit eine konkrete Reihenzuordnung; sonst steht „Keine Reihe hinterlegt“, keine Behauptung, der Film sei sicher ein Einzelfilm.
 
-Teilnummern beziehen sich auf Veröffentlichungsreihenfolge der Kinofilme, nicht auf Anzahl der Fragenpakete oder Handlungschronologie. Sonderfälle sind bezeichnet: offizielle Eon-Bond-Reihe, Star-Wars-Episoden versus Filmreihenfolge, Jurassic World als vierter Film insgesamt/erster seiner Trilogie, First Contact als achter Star-Trek-Kinofilm/zweiter mit der TNG-Crew, New Police Story als fünfter Film und eigenständiger Neustart, Dollar-Trilogie als lose verbundene Reihe. [Dollar-Trilogie](https://en.wikipedia.org/wiki/Dollars_Trilogy), [Star-Wars-Filme](https://en.wikipedia.org/wiki/List_of_Star_Wars_films).
+Teilnummern beziehen sich auf die Veröffentlichungsreihenfolge der Filme innerhalb der ausdrücklich benannten Reihe, nicht auf die Anzahl der Fragenpakete oder die Handlungschronologie. Fernseh- und Streamingfilme zählen mit, wenn sie zu dieser Filmfolge gehören; ausnahmsweise mitgezählte Kurzfilme werden ausdrücklich genannt. Sonderfälle sind bezeichnet: offizielle Eon-Bond-Reihe, Star-Wars-Episoden versus Filmreihenfolge, Jurassic World als vierter Film insgesamt/erster seiner Trilogie, First Contact als achter Star-Trek-Kinofilm/zweiter mit der TNG-Crew, New Police Story als fünfter Film und eigenständiger Neustart, Dollar-Trilogie als lose verbundene Reihe. [Dollar-Trilogie](https://en.wikipedia.org/wiki/Dollars_Trilogy), [Star-Wars-Filme](https://en.wikipedia.org/wiki/List_of_Star_Wars_films).
 
 Prüfzahlen: [Maschineller Ergänzungsbericht](film-facts-bericht.json). Einzelne Quellen und redaktionelle Stufen: [Filmkatalog](../src/filmFacts.json).

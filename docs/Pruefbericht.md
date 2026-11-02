@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 02.11.2026 – Filmreihen und Teilnummern im gesamten Bestand, lokal
+
+Alle 39 App-Pakete mit 15.295 Fragen durch den echten Parser und die Anzeigeaufbereitung geprüft: 2.953 Filmidentitäten, 14.911 Filmdatenverweise. 45 benannte Reihen ohne Teilnummer geklärt, 326 fehlende Reihen ergänzt und sechs irreführende Angaben entfernt. Endstand: 624 nummerierte Filmidentitäten, null benannte Reihen ohne Nummer, null widersprüchliche Angaben desselben Films. Zentrale Redaktion für sämtliche Film-/Personen-/Preiswege, Originalpakete und Frageninhalte erhalten. [Vollständiger Befund, Quellen und Grenzen](Filmreihen-2026-11-02/Pruefbericht.md).
+
+44 gezielte Tests in neun Dateien erfolgreich, abschließende Nachprüfung der zehn betroffenen Fälle nach letzten Ergänzungen erfolgreich. Der neue Gesamtkatalogtest prüft alle Filmdatenverweise, Bestandsabdeckung und die tatsächliche React-Ausgabe für jede nummerierte Identität; zusätzliche konkrete Fälle schließen Die Mumie, Mad Max, beide „Auf der Jagd …“-Filme und Top Gun/Maverick ein. Die frühere Clerks-Erwartung ohne Nummer auf die konkrete Clerks-Filmreihe mit Teil 1 umgestellt. Laufzeitmetadaten/TypeScript und Diff-Prüfung erfolgreich. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf für diese Datenkorrektur. Kein Push, keine produktive Katalogaktivierung und keine Veröffentlichung.
+
 ## 01.11.2026 – Version 86 veröffentlicht
 
 Duellüberarbeitung um 19:58:09 Uhr Europe/Berlin öffentlich aktiviert: sofortige Antwortfarben und Töne für 2,5 Sekunden, unabhängige Runden, zehn offene Spiele, klare Gegner-/Rundenstände und getrennte Themenwahl für Vorlegen und direkte Suche. Nativer Status succeeded, öffentliche Adresse und Zugriff Revision 2 erhalten. [Vollständiger Veröffentlichungsnachweis](Veroeffentlichung-2026-11-01-Version-86.json).
