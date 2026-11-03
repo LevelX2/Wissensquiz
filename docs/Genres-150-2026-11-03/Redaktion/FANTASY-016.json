@@ -1,0 +1,258 @@
+{
+  "id": "FANTASY-016",
+  "film_title_de": "Die Legende der Prinzessin Kaguya",
+  "film_title_original": "Kaguya-hime no Monogatari",
+  "film_year": 2013,
+  "genre": "Fantasy",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Hoch angesehener Ghibli-Film mit eigener Bildsprache, außerhalb des Animationspublikums weniger bekannt als Miyazakis große Titel.",
+  "selection_reason": "Das japanische Märchen um ein Bambusmädchen und seine Rückkehr zum Mond ist Fantasy. Die bewusst fragmentarische, bewegte Zeichnung und Takahatas subjektive Neudeutung der Frauenfigur begründen Arthouse.",
+  "directors": [
+    "Isao Takahata"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "release_note": "Japanischer Erststart23.November 2013 gemäß Ghibli und JFDB; internationale Festival- und Synchronauswertungen 2014/2015 sind später.",
+  "director_note": "Isao Takahata allein führte Regie und schrieb mit Riko Sakaguchi. Osamu Tanabe leitete wesentliche Animations-/Figurengestaltung, Kazuo Oga die künstlerische Hintergrundgestaltung; beide sind keine zweiten Hauptregisseure.",
+  "country_note": "Japan gemäß Werkdaten und japanischen Produktionsfirmen; spätere englische Synchronfassung ist keine eigene Filmproduktion.",
+  "series": null,
+  "series_note": "Eigenständige Adaption der Bambusschneider-Erzählung, keine nummerierte Fortsetzung anderer Kaguya-Filme.",
+  "series_sources": [
+    "https://jfdb.jp/en/title/3989",
+    "https://gkids.com/films/the-tale-of-the-princess-kaguya/"
+  ],
+  "sources": {
+    "ghibli": {
+      "url": "https://www.ghibli.jp/works/kaguyahime/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen offiziellen Werkeintrag mitRegie,Drehbuch,Musik,japanischenStimmen undStart23.November2013 gelesen."
+    },
+    "jfdb": {
+      "url": "https://jfdb.jp/en/title/3989",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen englischen Filmdatensatz im ausführlichenSuchindex gelesen: Originaltitel,2013,14JahreseitYamadas, Regie,Vorlage,japanischeRollenstimmen undGrundhandlung."
+    },
+    "gkids": {
+      "url": "https://gkids.com/films/the-tale-of-the-princess-kaguya/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Film-/Produktseite im Suchindex gelesen: Bambusfund,raschesWachstum,Takahata,Japan2013. EnglischeSynchronnamen undDiscveröffentlichungen nicht mitOriginalstimmen/Erstjahr vermischt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Tale_of_the_Princess_Kaguya_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und japanischeBesetzung gelesen:Vater/Gold/Hauptstadt,fünfFreier,Wunderaufgaben,Mondgewand und Abschied."
+    },
+    "kunst": {
+      "url": "https://www.denofgeek.com/movies/isao-takahata-interview-the-tale-of-the-princess-kaguya/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges eigentliches Takahata-Interview gelesen:ausdruckstragendeLinien,Leerstellen,Erinnerung/Imagination,OsamuTanabe undKazuoOga als zentraleGestalter; keine Werbeabschnitte übernommen."
+    },
+    "gespraech": {
+      "url": "https://close-upfilm.co.uk/interview-isao-takahata-the-tale-of-the-princess-kaguya/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Interview gelesen:KaguyasGefühle,Erde/Mond,Natur,FreieralsBesitzdenker,Tanabe,TakahatasArbeitsweise,Ghibli undspätereProduzenten. ZeitgebundeneZukunftsvermutungen nicht als spätererFakt übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ein Bambusschneider findet Kaguya als winziges Mädchen im Bambus.",
+      "question": "Wo findet der alte Bambusschneider das Mädchen in „Die Legende der Prinzessin Kaguya“?",
+      "answers": [
+        "In einem leuchtenden Bambustrieb",
+        "In einer Muschel am Flussufer",
+        "In einem Vogelnest auf einem Berg",
+        "In einer Blüte auf einem Tempelaltar"
+      ],
+      "short": "Er findet das winzige Mädchen in einem Bambustrieb.",
+      "context": "Der Bambusschneider (japanische Originalstimme: Takeo Chii) nimmt das rätselhafte Wesen mit nach Hause. Seine Frau (Nobuko Miyamoto) zieht es mit ihm auf. Das Kind wächst ungewöhnlich schnell und wird von den Dorfkindern mit Bambus in Verbindung gebracht. Die wunderbare Herkunft steht von Beginn an neben sehr alltäglichen Erfahrungen: Spielen, Essen und dem Aufwachsen in einer ländlichen Gemeinschaft.",
+      "sources": [
+        "jfdb",
+        "gkids",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der Vater zieht in die Hauptstadt, um aus Kaguya eine Adlige zu machen.",
+      "question": "Warum zieht Kaguyas Vater in „Die Legende der Prinzessin Kaguya“ mit der Familie in die Hauptstadt?",
+      "answers": [
+        "Er möchte sie zu einer vornehmen Prinzessin erziehen lassen.",
+        "Er möchte sie in einer Tempelschule zur Heilerin ausbilden lassen.",
+        "Er möchte sie vor einer drohenden Überschwemmung schützen.",
+        "Er möchte sie als Hofmusikerin beim Kaiser anmelden."
+      ],
+      "short": "Er möchte seiner Tochter ein vornehmes Leben ermöglichen.",
+      "context": "Der Vater (japanische Originalstimme: Takeo Chii) deutet Gold und kostbare Stoffe aus dem Bambus als Zeichen einer höheren Bestimmung. Kaguya (Aki Asakura) soll deshalb höfische Regeln lernen. Das prächtige Haus bedeutet für sie jedoch auch Trennung von Freunden und vertrauter Umgebung. Der soziale Aufstieg, den der Vater für ein Geschenk hält, beschränkt ihre eigene Bewegungsfreiheit.",
+      "sources": [
+        "handlung",
+        "gespraech"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Kaguya fordert von den fünf Freiern die legendären Schätze, mit denen sie sie vergleichen.",
+      "question": "Welche Bedingung stellt Kaguya in „Die Legende der Prinzessin Kaguya“ ihren fünf adligen Freiern?",
+      "answers": [
+        "Sie sollen die sagenhaften Schätze beschaffen, mit denen sie sie vergleichen.",
+        "Sie sollen gemeinsam ein neues Dorf für ihre Familie errichten.",
+        "Sie sollen ein Jahr lang ohne Diener auf den Feldern arbeiten.",
+        "Sie sollen den Kaiser zum Verzicht auf ihre Heirat bewegen."
+      ],
+      "short": "Sie verlangt die legendären Schätze ihrer eigenen Vergleiche.",
+      "context": "Die Freier beschreiben Kaguya (japanische Originalstimme: Aki Asakura) wie einen kostbaren Gegenstand. Sie nimmt diese schmeichelhaften Vergleiche wörtlich und fordert die entsprechenden Wunderstücke. Damit geraten die Männer unter Beweiszwang. Die Aufgaben prüfen ihre Behauptungen und machen sichtbar, wie wenig ihr Werben mit dem wirklichen Empfinden der jungen Frau zu tun hat.",
+      "sources": [
+        "handlung",
+        "gespraech"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Das himmlische Gewand soll Kaguyas Erinnerungen an die Erde auslöschen.",
+      "question": "Welche Wirkung hat das himmlische Gewand, das Kaguya am Ende von „Die Legende der Prinzessin Kaguya“ umgelegt wird?",
+      "answers": [
+        "Es soll ihre Erinnerungen an die Erde auslöschen.",
+        "Es soll sie für die Bewohner des Mondes unsichtbar machen.",
+        "Es soll sie wieder in ein neugeborenes Kind verwandeln.",
+        "Es soll ihren menschlichen Eltern den Weg zum Mond öffnen."
+      ],
+      "short": "Das Gewand nimmt ihr die Erinnerungen an ihr irdisches Leben.",
+      "context": "Kaguya (japanische Originalstimme: Aki Asakura) möchte die Menschen nicht verlassen, die sie aufgezogen haben. Die himmlische Prozession lässt sich jedoch durch die Verteidigung des Hauses nicht aufhalten. Vor dem Anlegen des Gewands nimmt sie noch Abschied. Der vermeintlich sorgenfreie Mond steht damit im Konflikt zu einer Erde, auf der Freude gerade durch Bindung und Verlust Bedeutung gewinnt.",
+      "sources": [
+        "handlung",
+        "gespraech"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Leerstellen und bewegte Linien sollen Erinnerung und Vorstellungskraft des Zuschauers anregen.",
+      "question": "Warum ließ Takahata die Zeichnungen in „Die Legende der Prinzessin Kaguya“ bewusst lückenhaft und skizzenhaft wirken?",
+      "answers": [
+        "Die Zuschauer sollten das Sichtbare durch eigene Erinnerungen und Vorstellungen ergänzen.",
+        "Die Bilder sollten den Eindruck einer vollständig erhaltenen historischen Bilderrolle erwecken.",
+        "Die Darstellung sollte statische Hofbilder deutlich von bewegten Dorfbildern trennen.",
+        "Die Bilder sollten wie das gezeichnete Tagebuch eines der Freier wirken."
+      ],
+      "short": "Die reduzierten Zeichnungen sollen die Vorstellungskraft aktivieren.",
+      "context": "Für Takahata waren Linien mehr als Umrisse. Sie konnten Ausdruck und Bewegungsenergie einfangen, während unbemalte Flächen Raum für die Wahrnehmung ließen. Die Welt sollte nicht durch vollständige Ausarbeitung abgeschlossen erscheinen. Der Zuschauer ergänzt sie mit eigenen Erfahrungen. Gerade dadurch kann eine flüchtige Zeichnung die Lebendigkeit einer Figur oder einer Landschaft besonders unmittelbar vermitteln.",
+      "sources": [
+        "kunst",
+        "gespraech"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Osamu Tanabe gestaltete Figuren/Animation, Kazuo Oga die Hintergründe.",
+      "question": "Welche Aufgabenverteilung prägte die Bildwelt von „Die Legende der Prinzessin Kaguya“?",
+      "answers": [
+        "Osamu Tanabe gestaltete Figuren und Animation, Kazuo Oga die Hintergründe.",
+        "Osamu Tanabe entwarf die Hintergründe, Kazuo Oga die Figurenbewegungen.",
+        "Osamu Tanabe gestaltete Spezialeffekte, Kazuo Oga die Kostümentwürfe.",
+        "Osamu Tanabe zeichnete Landschaften, Kazuo Oga entwickelte die Storyboards."
+      ],
+      "short": "Tanabe prägte Figuren und Bewegung, Oga die Hintergrundkunst.",
+      "context": "Takahata bezeichnete beide Künstler als unverzichtbar für die gewählte Ausdrucksweise. Tanabe arbeitete an Figuren, Gesten und Bildaufbau; Oga schuf die transparent wirkenden Landschaften. Takahata zeichnete die Animation nicht selbst. Seine Regie bestand auch darin, die besonderen Fähigkeiten seiner Mitarbeiter zu einer gemeinsamen, scheinbar mühelosen Bildsprache zusammenzuführen.",
+      "sources": [
+        "kunst",
+        "gespraech"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Die Legende der Prinzessin Kaguya erschien 2013.",
+      "question": "In welchem Jahr erschien „Die Legende der Prinzessin Kaguya“ erstmals?",
+      "answers": [
+        "2013",
+        "2005",
+        "2009",
+        "2017"
+      ],
+      "short": "Die erste Veröffentlichung war 2013.",
+      "context": "Zwischen „Meine Nachbarn die Yamadas“ von 1999 und diesem neuen Langfilm lagen vierzehn Jahre. 2013 kehrte Takahata mit einer noch weiter verfeinerten, reduzierten Zeichnung ins Kino zurück. Die japanische Veröffentlichung erfolgte im November. Die lange Pause bedeutet dabei keine einfache Rückkehr zum früheren Verfahren: Der Film entwickelt den Eindruck des flüchtigen Skizzierens zu einer eigenständigen dramatischen Form weiter.",
+      "sources": [
+        "ghibli",
+        "jfdb",
+        "kunst"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Isao Takahata führte bei PrinzessinKaguya Regie.",
+      "question": "Wer führte bei „Die Legende der Prinzessin Kaguya“ Regie?",
+      "answers": [
+        "Isao Takahata",
+        "Hayao Miyazaki",
+        "Hiromasa Yonebayashi",
+        "Mamoru Hosoda"
+      ],
+      "short": "Regisseur war Isao Takahata.",
+      "context": "Takahata schrieb mit Riko Sakaguchi das Drehbuch nach der alten Bambusschneider-Erzählung. Er wollte die Heldin emotional verständlich machen und zeigen, warum ihr das irdische Leben trotz aller Schmerzen kostbar wird. Yoshiaki Nishimura produzierte, Joe Hisaishi schrieb die Musik. Die Neudeutung erhält die Märchenhandlung, verschiebt ihren Schwerpunkt aber auf das Erleben der jungen Frau.",
+      "sources": [
+        "ghibli",
+        "jfdb",
+        "gespraech"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
