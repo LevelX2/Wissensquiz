@@ -1,0 +1,263 @@
+{
+  "id": "DRAMA-016",
+  "film_title_de": "Jules und Jim",
+  "film_title_original": "Jules et Jim",
+  "film_year": 1962,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Truffauts Liebesdreieck und Moreaus Liedauftritt sind auch außerhalb enger Autorenfilmkreise bekannt; die konkrete Handlung bleibt anspruchsvoller als die Titelbekanntheit.",
+  "selection_reason": "Die wechselnden Bindungen dreier Menschen und eine freie, elliptische Erzählform ergänzen den französischen Autorenfilm. Als prägendes Werk der Nouvelle Vague auch Classics, unabhängig vom Alter.",
+  "directors": [
+    "François Truffaut"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Französischer Start im Januar 1962; Dreharbeiten 1961 sind nicht Erstveröffentlichung.",
+  "director_note": "Alleiniger Regiecredit François Truffaut; Jean Gruault arbeitete am Drehbuch, Raoul Coutard an der Kamera.",
+  "country_note": "Frankreich nach Criterion.",
+  "series": null,
+  "series_note": "Eigenständige Adaption eines Romans von Henri-Pierre Roché. Truffauts spätere Roché-Verfilmung Zwei Mädchen aus Wales und die Liebe zum Kontinent erzählt andere Figuren und bildet keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://www.criterion.com/films/218-jules-and-jim"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://www.criterion.com/films/218-jules-and-jim",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmseite gelesen: Frankreich 1962, Regie, Roché-Vorlage, Cast, Coutard/Bouché/Delerue, Erzähler Michel Subor."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/369-on-jules-and-jim",
+      "accessed_on": "2026-11-03",
+      "supports": "John Powers vollständig gelesen: Freundschaft, Gegenkriegsseiten, Gesichtsstatue, episodische freie Erzählung und tragisches Ende. Behauptung über Truffauts Erstlektürejahr wegen uneinheitlicher Angaben nicht abgefragt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Jules_and_Jim",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung und Produktions-/Creditabschnitte vollständig gelesen: Nationalitäten, Catherine und Gilberte, Kriegsjahre, Brückenfinale, Lied und französischer Start 1962."
+    },
+    "nachlass": {
+      "url": "https://www.jeannemoreau.fr/chanson/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Nachlassseite gelesen: Le Tourbillon in Jules et Jim 1962, Rezvani/Bassiak und Beginn von Moreaus Gesangskarriere."
+    },
+    "lied": {
+      "url": "https://eduscol.education.gouv.fr/chansonsquifontlhistoire/Le-tourbillon.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger Text der Bildungsseite gelesen: Le Tourbillon, Autor/Komponist Serge Rezvani alias Cyrus Bassiak, Interpretin Jeanne Moreau im Film 1962; kein Ton angehört und keine Liedzeile übernommen."
+    },
+    "debut": {
+      "url": "https://www.criterion.com/films/151-the-400-blows",
+      "accessed_on": "2026-11-03",
+      "supports": "Bereits für DRAMA015 vollständig gelesene Filmseite: Truffauts erster Langspielfilm 1959 und Antoine Doinel. Hier nur für den zeitlichen Jahresbezug verwendet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jeanne Moreau spielt Catherine.",
+      "question": "Welche Frau im Zentrum des Liebesdreiecks von „Jules und Jim“ wird von Jeanne Moreau gespielt?",
+      "answers": [
+        "Catherine",
+        "Thérèse",
+        "Gilberte",
+        "Lucie"
+      ],
+      "short": "Jeanne Moreau spielt Catherine.",
+      "context": "Jules (Oskar Werner) und Jim (Henri Serre) begegnen Catherine (Jeanne Moreau) als enge Freunde. Sie lässt sich in ihren Bindungen nicht dauerhaft auf eine der Erwartungen der beiden Männer festlegen. Aus gemeinsamen Unternehmungen entwickelt sich über viele Jahre eine Beziehungskonstellation, in der Nähe, Eifersucht und der Wunsch nach Freiheit immer wieder neu verteilt werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay"
+      ],
+      "spoiler": "gering",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-107-L1",
+      "variant_of": "SCHAUSPIELER-BG-20261013-107-L1"
+    },
+    {
+      "code": "L2",
+      "objective": "Jules stammt aus Österreich.",
+      "question": "Aus welchem Land stammt Jules (Oskar Werner), der Freund des Franzosen Jim (Henri Serre), in „Jules und Jim“?",
+      "answers": [
+        "Österreich",
+        "Schweiz",
+        "Belgien",
+        "Italien"
+      ],
+      "short": "Jules ist Österreicher.",
+      "context": "Zu Beginn leben die Freunde in Paris und teilen ihre Begeisterung für Literatur, Kunst und Frauen. Jules (Oskar Werner) wirkt zurückhaltender als Jim (Henri Serre). Der Film entwickelt ihre Verbundenheit über gemeinsame Erlebnisse, bevor politische Grenzen und Liebesbeziehungen ihre Möglichkeiten verändern. Herkunft und Freundschaft bleiben dabei unterschiedliche Dinge.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "gering",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-129-L2",
+      "variant_of": "SCHAUSPIELER-BG-20261013-129-L2"
+    },
+    {
+      "code": "M1",
+      "objective": "Der Erste Weltkrieg stellt die Freunde auf entgegengesetzte Kriegsseiten.",
+      "question": "Was bedeutet der Erste Weltkrieg für Jules (Oskar Werner) und Jim (Henri Serre) in „Jules und Jim“?",
+      "answers": [
+        "Sie kämpfen auf gegnerischen Seiten und fürchten, einander zu töten.",
+        "Sie dienen in derselben Einheit und zerstreiten sich über einen Befehl.",
+        "Sie werden zusammen interniert und verlieren dort den Kontakt zu Catherine.",
+        "Sie verlassen Europa gemeinsam und bleiben während des Kriegs im Exil."
+      ],
+      "short": "Die Freunde stehen auf gegnerischen Seiten des Kriegs.",
+      "context": "Der Krieg unterbricht die unbeschwerte Pariser Zeit. Die Freunde hoffen jeweils, den anderen nicht töten zu müssen; ihre persönliche Nähe wird von der staatlichen Feindschaft nicht einfach ausgelöscht. Nach dem Krieg treffen sie wieder aufeinander. Die inzwischen veränderten Familien- und Liebesverhältnisse lassen sich jedoch nicht in den früheren Zustand zurückversetzen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Catherines Gesicht erinnert die Freunde an eine zuvor bewunderte Statue.",
+      "question": "Woran erinnert Catherines Gesicht Jules (Oskar Werner) und Jim (Henri Serre), als sie ihr in „Jules und Jim“ begegnen?",
+      "answers": [
+        "An den Kopf einer antiken Statue, den sie gemeinsam bewundert haben",
+        "An eine Schauspielerin auf einem Filmplakat ihres Stammlokals",
+        "An ein Familienporträt, das Jules aus seiner Heimat mitgebracht hat",
+        "An die Titelfigur einer gemeinsam besuchten Opernaufführung"
+      ],
+      "short": "Sie erkennen die Ähnlichkeit mit einem zuvor bestaunten Statuenkopf.",
+      "context": "Die Freunde haben zunächst eine Abbildung des Frauenkopfs gesehen und reisen anschließend zu dem Kunstwerk. Als Catherine (Jeanne Moreau) in ihr Leben tritt, erscheint ihr Gesicht wie eine lebendige Entsprechung des bewunderten Bildes. Der gemeinsame Blick auf Schönheit verbindet die Männer, nimmt der wirklichen Frau aber weder Eigenwillen noch Unberechenbarkeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S1",
+      "objective": "Jules überlebt die letzte Autofahrt und die beiden anderen werden bestattet.",
+      "question": "Welche Rolle bleibt Jules (Oskar Werner) nach der letzten Autofahrt in „Jules und Jim“?",
+      "answers": [
+        "Er überlebt Catherine und Jim und begleitet ihre Bestattung.",
+        "Er wird bei der Rettung beider Freunde schwer verletzt.",
+        "Er muss als Beschuldigter vor Gericht aussagen.",
+        "Er flieht gemeinsam mit Catherine ins Ausland."
+      ],
+      "short": "Jules bleibt als Überlebender zurück.",
+      "context": "Catherine (Jeanne Moreau) fordert Jules (Oskar Werner) auf zuzusehen. Mit Jim (Henri Serre) im Wagen fährt sie über eine zerstörte Brücke in den Fluss. Die beiden sterben, während Jules am Ufer bleibt. Die anschließende Bestattung beendet die Dreiecksgeschichte aus der Perspektive des Mannes, dessen Bemühungen um ihren Fortbestand gescheitert sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "hoch",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-129-S1",
+      "variant_of": "SCHAUSPIELER-BG-20261013-129-S1"
+    },
+    {
+      "code": "S2",
+      "objective": "Jeanne Moreau singt Le Tourbillon.",
+      "question": "Welches Lied singt Jeanne Moreau als Catherine in „Jules und Jim“?",
+      "answers": [
+        "Le Tourbillon",
+        "La Javanaise",
+        "Les Feuilles mortes",
+        "Sous le ciel de Paris"
+      ],
+      "short": "Catherine singt „Le Tourbillon“.",
+      "context": "Serge Rezvani schrieb Text und Melodie unter dem Namen Cyrus Bassiak. Im Film tritt er als Albert auf und begleitet Moreau an der Gitarre. Der gemeinsame Liedmoment lässt Begegnung, Trennung und Wiederannäherung musikalisch anklingen. Für Moreau wurde der Auftritt zugleich ein wichtiger Ausgangspunkt ihrer späteren Tätigkeit als Sängerin.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "nachlass",
+        "lied",
+        "film"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Jules et Jim erschien 1962.",
+      "question": "In welchem Jahr erschien „Jules und Jim“ erstmals?",
+      "answers": [
+        "1962",
+        "1956",
+        "1959",
+        "1967"
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 1962.",
+      "context": "Mit „Sie küssten und sie schlugen ihn“ hatte Truffaut 1959 seinen ersten Langspielfilm vorgelegt. „Jules und Jim“ folgte 1962 und wechselte vom einzelnen Jugendlichen zu einer über Jahre erzählten Erwachsenenbeziehung. Die bewegliche Kamera und das Verdichten größerer Zeiträume verbinden persönliche Erfahrungen mit einer sichtbar freien filmischen Form.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "debut",
+        "essay"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "François Truffaut führte Regie.",
+      "question": "Wer führte bei „Jules und Jim“ mit Jeanne Moreau, Oskar Werner und Henri Serre Regie?",
+      "answers": [
+        "François Truffaut",
+        "Jacques Demy",
+        "Louis Malle",
+        "Claude Chabrol"
+      ],
+      "short": "François Truffaut führte Regie.",
+      "context": "Truffaut und Jean Gruault bearbeiteten den Roman von Henri-Pierre Roché. Raoul Coutards Kamera, Claudine Bouchés Schnitt und Michel Subors Erzählerstimme tragen die sprunghafte, zugleich flüssige Erzählung. Längere Lebensabschnitte können in wenigen Bildern oder Worten vorüberziehen, während einzelne Begegnungen ausführlich Raum erhalten. Die Regie verbindet beides zu einer gemeinsamen Erinnerung an die Figuren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
