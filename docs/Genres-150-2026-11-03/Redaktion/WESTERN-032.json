@@ -1,0 +1,241 @@
+{
+  "id": "WESTERN-032",
+  "film_title_de": "Silverado",
+  "film_title_original": "Silverado",
+  "film_year": 1985,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 2,
+  "familiarity_reason": "Der Ensemblewestern gehört mit Kline, Glenn, Costner und Glover zu den bekannten Genrebeiträgen der 1980erJahre.",
+  "selection_reason": "Vier zunächst unabhängig Reisende geraten in einen Land- und Machtkonflikt, der Freundschaft gegen die korrumpierte örtliche Ordnung stellt.",
+  "directors": [
+    "Lawrence Kasdan"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1985: AFI nennt die Gala am8. Juli und den US-Start10. Juli. Eine 1984erJahreszahl im AFI-Historienabsatz zum Drehschluss widerspricht den dortigen Detaildaten26.11.1984–14.3.1985 und wird als Schreibfehler nicht übernommen.",
+  "director_note": "Alleiniger Hauptregiecredit Lawrence Kasdan; er schrieb mit Mark Kasdan das Drehbuch.",
+  "country_note": "US-Produktion; laut Schlusscredits vollständig in New Mexico gedreht.",
+  "series": null,
+  "series_note": "Eigenständiger Ensemblewestern. Das Rückkehrversprechen im Schlussdialog ist keine veröffentlichte Fortsetzung; Wyatt Earp ist ein eigenständiger späterer Film desselben Regisseurs.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/58369",
+    "https://www.sonypictures.com/movies/silverado"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/58369",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis zu Emmetts Rettung Padens, Cobb, Familie Johnson, Stella-Drohung, Pferdebrand und Padens Sheriffstern; komplette Credits, Start 1985 und verschobener Sommer-/Winterdreh."
+    },
+    "sony": {
+      "url": "https://www.sonypictures.com/movies/silverado",
+      "accessed_on": "2026-11-03",
+      "supports": "Kasdan, Ensemble, korrupter Sheriff und gemeinsame Rettung der Stadt; Studio-Copyright 1985."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Silverado_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Zusätzlich gelesene Synopsis/Cast: Emmett rettet Paden, McKendricks Vertreibung der Familie Johnson, Cobb bedroht Stella, Ende mit Paden als Sheriff. Der genaue Brandzeichenbeleg und die Produktionsdaten bleiben durch AFI abgesichert."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Emmett rettet zu Beginn den ausgeraubten und ausgesetzten Paden.",
+      "question": "Wie begegnen sich Emmett (Scott Glenn) und Paden (Kevin Kline) zu Beginn von „Silverado“?",
+      "answers": [
+        "Emmett findet den ausgeraubten Paden und versorgt ihn mit Wasser.",
+        "Paden nimmt Emmett als gesuchten Pferdedieb fest.",
+        "Beide lernen sich als Gefangene in einem Militärfort kennen.",
+        "Emmett engagiert Paden als bezahlten Kundschafter für eine Viehherde."
+      ],
+      "short": "Emmett hilft dem ausgesetzten Paden.",
+      "context": "Paden (Kevin Kline) hat Pferd und Ausrüstung verloren. Emmett (Scott Glenn) kann ihm ein zusätzliches Pferd überlassen, das er nach einem Angriff auf sich selbst erbeutet hat. Die erste Verbindung entsteht dadurch aus praktischer Hilfe zwischen Männern, die beide bereits Gewalt erlebt haben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Cobb ist der korrupte Sheriff von Silverado.",
+      "question": "Welches öffentliche Amt hat Cobb (Brian Dennehy) in „Silverado“?",
+      "answers": [
+        "Er ist Sheriff.",
+        "Er ist Richter.",
+        "Er ist Bürgermeister.",
+        "Er ist Kommandant des Kavalleriepostens."
+      ],
+      "short": "Cobb ist Silverados Sheriff.",
+      "context": "Cobb (Brian Dennehy) verbindet sein Amt mit wirtschaftlicher Macht und einer gemeinsamen Vergangenheit mit Paden (Kevin Kline). Die Amtsstellung garantiert hier keine gerechte Behandlung. Die vier Männer müssen sich gerade gegen die Person wehren, die eigentlich für die Durchsetzung des Rechts zuständig wäre.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Mal findet die Farm seiner Familie zerstört und durch McKendricks Landinteresse bedroht.",
+      "question": "Welche Lage findet Mal Johnson (Danny Glover) bei seiner Heimkehr in „Silverado“ vor?",
+      "answers": [
+        "Das Familienhaus ist verbrannt und McKendrick bedrängt das verbliebene Land.",
+        "Sein Vater hat den Hof verkauft und ist McKendricks Verwalter geworden.",
+        "Die Familie hat den Hof an McKendrick verpachtet und lebt andernorts.",
+        "Sein Vater hat die Farm bei einem Kartenspiel an einen Nachbarn verloren."
+      ],
+      "short": "Mals Familie ist von Vertreibung und Landnahme bedroht.",
+      "context": "Mals Vater Ezra Johnson (Joe Seneca) hält noch an seinem Grund fest, obwohl das Haus zerstört wurde und seine Frau gestorben ist. McKendricks Vieh steht bereits auf dem Land. Mal (Danny Glover) kehrt somit nicht nur an einen vertrauten Ort zurück, sondern in einen fortdauernden Kampf um das Bleiberecht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Cobb hält Paden mit einer Drohung gegen Stella vom Eingreifen ab.",
+      "question": "Womit versucht Cobb (Brian Dennehy) in „Silverado“, Paden an einem Eingreifen gegen seine Männer zu hindern?",
+      "answers": [
+        "Er bedroht Padens Freundin Stella.",
+        "Er droht, Paden für frühere Überfälle festnehmen zu lassen.",
+        "Er hält Padens gesamten Verdienst im Saloon zurück.",
+        "Er verspricht Paden eine Begnadigung und einen neuen Namen."
+      ],
+      "short": "Cobb setzt Stellas Sicherheit als Druckmittel ein.",
+      "context": "Stella (Linda Hunt) leitet den Saloon und hat Paden (Kevin Kline) vertraut. Cobb (Brian Dennehy) macht diese Bindung zum Hebel seiner Gewalt. Als Stella von der Drohung erfährt, will sie nicht der Grund für Padens Untätigkeit sein. Die Schutzabsicht wird erst durch ihre eigene Entscheidung aus der Erpressung gelöst.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Das Brandzeichen am Pferd von Emmetts Angreifern verbindet den Überfall mit McKendrick.",
+      "question": "Welches Indiz führt Emmett (Scott Glenn) in „Silverado“ zu McKendrick als Hintermann des Angriffs am Filmanfang?",
+      "answers": [
+        "Das Pferd eines Angreifers trägt McKendricks Brandzeichen.",
+        "Die Waffe eines Angreifers trägt McKendricks eingravierte Unterschrift.",
+        "Ein Angreifer verliert einen von McKendrick ausgestellten Scheck.",
+        "Die Patronen der Angreifer stammen aus McKendricks versiegelter Munitionskiste."
+      ],
+      "short": "Das erbeutete Pferd trägt das verräterische Brandzeichen.",
+      "context": "Emmett (Scott Glenn) hat das zusätzliche Pferd nach der Abwehr seiner Angreifer mitgenommen. Erst im Zusammenhang mit dem Rancher bekommt dieser Besitz eine neue Bedeutung. Das bereits früh sichtbare Tier ist so nicht nur Transportmittel und Hilfe für Paden (Kevin Kline), sondern auch eine materielle Verbindung zum Auftraggeber des Überfalls.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Paden bleibt am Ende als neuer Sheriff in Silverado.",
+      "question": "Welche Aufgabe übernimmt Paden (Kevin Kline) am Ende von „Silverado“?",
+      "answers": [
+        "Er bleibt als neuer Sheriff im Ort.",
+        "Er führt Emmett und Jake als Armeescout nach Kalifornien.",
+        "Er übernimmt McKendricks gesamte Viehherde.",
+        "Er wird Leiter der Eisenbahngesellschaft des Ortes."
+      ],
+      "short": "Paden zeigt am Ende seinen neuen Sheriffstern.",
+      "context": "Nach Cobbs Tod kann dieselbe Amtsfunktion mit einem anderen Verständnis von Verantwortung besetzt werden. Paden (Kevin Kline) entscheidet sich für eine Aufgabe im Ort, während Emmett (Scott Glenn) und Jake (Kevin Costner) weiterziehen. Die gemeinsam erkämpfte Befreiung führt damit zu verschiedenen, jeweils selbst gewählten Wegen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Silverado wurde erstmals 1985 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Silverado“ erstmals veröffentlicht?",
+      "answers": [
+        "1985",
+        "1978",
+        "1982",
+        "1989"
+      ],
+      "short": "Der Film erschien 1985.",
+      "context": "Die zunächst für den Sommer geplante Produktion geriet nach Finanzierungsproblemen in den Winter 1984/85. Das Team musste Frost und Schneestürme bewältigen; das härtere Wetter prägte auch den Landschaftseindruck. Hinter dem sommerlichen Kinostart stand damit ein unerwartet kalter Dreh, der dem klassischen Abenteuer ein raueres Aussehen gab.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Lawrence Kasdan inszenierte Silverado mit Kevin Costner.",
+      "question": "Wer führte bei „Silverado“ mit Kevin Costner, Kevin Kline und Danny Glover Regie?",
+      "answers": [
+        "Lawrence Kasdan",
+        "Walter Hill",
+        "Arthur Penn",
+        "Michael Cimino"
+      ],
+      "short": "Lawrence Kasdan führte Regie.",
+      "context": "Kasdan schrieb das Drehbuch mit seinem Bruder Mark. Die vier Hauptfiguren führen zunächst eigene Wege und Konflikte mit, bevor sie gemeinsam gegen den korrupten Sheriff und die Ranchermacht vorgehen. Aus einzelnen Rettungen und Gefälligkeiten wächst so die Gruppe, auf der das große Ensembleabenteuer beruht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering",
+      "knowledge_id": "K-WES-202610-P01-S-020",
+      "variant_of": "WES-202610-P01-S-020"
+    }
+  ]
+}

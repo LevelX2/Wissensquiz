@@ -1,0 +1,235 @@
+{
+  "id": "WESTERN-028",
+  "film_title_de": "Die erste Kugel trifft",
+  "film_title_original": "The Fastest Gun Alive",
+  "film_year": 1956,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Glenn Fords ungewöhnlicher Schützenwestern ist unter Genrefreunden bekannt, aber kein allgemeiner Wiedererkennungstitel.",
+  "selection_reason": "Die Geschichte behandelt den Druck, sich durch Gewalt beweisen zu müssen, und den gemeinsamen Versuch einer Stadt, einen friedlichen Bürger vor seinem eigenen Ruf zu schützen.",
+  "directors": [
+    "Russell Rouse"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1956 nach AFI und TCM, regulärer AFI-Start6. Juli 1956.",
+  "director_note": "Russell Rouse führte Regie und schrieb mit Frank D. Gilroy das Drehbuch nach dessen Fernsehspiel The Last Notch.",
+  "country_note": "US-Produktion von MGM.",
+  "series": null,
+  "series_note": "Eigenständige Adaption eines Fernsehspiels; keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/51821-THE-FASTEST-GUN-ALIVE"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/51821-THE-FASTEST-GUN-ALIVE",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis zu Kaufmann, Schützenprahlerei, Münzen, Bobby, Vater Kelby und Scheingrab; Cast, Regie, Jahr und Fernsehvorlage."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/84036/the-fastest-gun-alive",
+      "accessed_on": "2026-11-03",
+      "supports": "Rob Nixons Essay: Jahr 1956, Handlung und Ruf, Rouse/Greene, Gilroys erstes Kinodrehbuch und spätere Bühnenverfilmungen."
+    },
+    "frueher": {
+      "url": "https://www.tcm.com/articles/161306/convicted-1950",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Essayabschnitt: Ford und Crawford spielten 1950 in Convicted,1954 in Human Desire und 1956 in The Fastest Gun Alive gemeinsam."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "George Temple lebt als friedlicher Kaufmann in Cross Creek.",
+      "question": "Welchen bürgerlichen Beruf übt George Temple (Glenn Ford) in „Die erste Kugel trifft“ aus?",
+      "answers": [
+        "Er betreibt einen Laden.",
+        "Er leitet die örtliche Bank.",
+        "Er arbeitet als Arzt.",
+        "Er führt die Poststation."
+      ],
+      "short": "George Temple ist Kaufmann.",
+      "context": "George Temple (Glenn Ford) möchte mit seiner schwangeren Frau Dora (Jeanne Crain) in Cross Creek bleiben. Im Alltag wird er von Männern verspottet, die ihre eigene körperliche Arbeit höher bewerten. Seine Kränkung gefährdet die gerade erst gewonnene Möglichkeit, ohne den Ruf eines Revolvermannes zu leben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Broderick Crawford spielt den Gesetzlosen Vinnie Harold.",
+      "question": "Wer spielt Vinnie Harold, den gefährlichen Gegner von Glenn Fords Figur in „Die erste Kugel trifft“?",
+      "answers": [
+        "Broderick Crawford",
+        "Lee J. Cobb",
+        "Ernest Borgnine",
+        "Ward Bond"
+      ],
+      "short": "Broderick Crawford spielt Vinnie Harold.",
+      "context": "Vinnie Harold (Broderick Crawford) tötet bereits zu Beginn einen anderen Schützen im Duell. Seine Fixierung ist kein abgeschlossener Einzelkonflikt: Jeder neue Bericht über einen besseren Mann wird zur nächsten Herausforderung. Georges (Glenn Ford) Wunsch nach Ruhe gerät dadurch gegen einen Ruf, der weitere Gewalt geradezu anzieht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "George beweist sein Können mit gleichzeitig hochgeworfenen Silberdollars und einem fallenden Bierglas.",
+      "question": "Womit stellt George Temple (Glenn Ford) in „Die erste Kugel trifft“ seine bisher verborgene Schießfertigkeit öffentlich unter Beweis?",
+      "answers": [
+        "Mit Treffern auf geworfene Silberdollars und ein fallendes Bierglas",
+        "Mit Schüssen auf den Galgenstrick eines verurteilten Freundes",
+        "Mit einem erfolgreichen Duell gegen den amtierenden Sheriff",
+        "Mit dem Entwaffnen mehrerer Angreifer während eines Bankraubs"
+      ],
+      "short": "George schießt auf Silberdollars und ein fallendes Glas.",
+      "context": "Die Vorführung erfolgt nach Kränkungen und Alkohol, ohne dass ein Angreifer abgewehrt werden müsste. Sie verschafft George Temple (Glenn Ford) zwar Anerkennung, zerstört aber die Sicherheit seiner Anonymität. Die Gegenstände werden zu Beweisen einer Fähigkeit, deren öffentliche Kenntnis seine Familie immer wieder zum Wegziehen gezwungen hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Bobby erzählt den Gesetzlosen von Georges Kunststück, während die Erwachsenen Verschwiegenheit geloben.",
+      "question": "Wie erfährt Vinnie Harold (Broderick Crawford) in „Die erste Kugel trifft“ trotz des Schweigeversprechens der Einwohner von Georges Können?",
+      "answers": [
+        "Bobby erzählt im Saloon von der Vorführung.",
+        "Ein betrunkener Erwachsener erzählt auf der Straße davon.",
+        "Ein Zeitungsbericht beschreibt Georges Vorführung.",
+        "Bobbys Vater nennt Harold unter Zwang Georges Namen."
+      ],
+      "short": "Ein Kind verrät das vermeintliche Geheimnis.",
+      "context": "Während die Gemeinde in der Kirche Verschwiegenheit verspricht, zeigt Bobby Tibbs (Chris Olsen) die durchschossenen Silberdollars und berichtet den Fremden davon. Die Gleichzeitigkeit macht die Begrenztheit des gemeinschaftlichen Plans sichtbar. Ein Schutzversprechen genügt nicht, wenn sich der aufregende neue Ruf längst in erzählbare Geschichten und sichtbare Andenken verwandelt hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "George wurde vom berühmten Sheriff Kelby ausgebildet, hat jedoch selbst noch nie auf einen Mann gezogen.",
+      "question": "Welche Vergangenheit enthüllt George Temple (Glenn Ford) in „Die erste Kugel trifft“ unter dem Druck der Einwohner?",
+      "answers": [
+        "Er ist Kelbys Sohn und hat noch nie auf einen Mann gezogen.",
+        "Er ist Kelbys Mörder und lebt deshalb unter falschem Namen.",
+        "Er war Auftragsmörder und hat alle seine Gegner überlebt.",
+        "Er war Sheriff und legte seine Waffe nach einem Fehlschuss ab."
+      ],
+      "short": "George ist hervorragend ausgebildet, aber kein erfahrener Duellant.",
+      "context": "Sein Vater Kelby brachte ihm den Umgang mit Waffen bei. Nach dessen Tod wich George Temple (Glenn Ford) der Auseinandersetzung aus. Die späte Erklärung trennt technische Fertigkeit von der Erfahrung, einen Menschen zu töten. Gerade diese Unterscheidung haben die Einwohner bei ihrer Bewunderung seiner Vorführung übersehen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Einwohner täuschen Georges Tod vor; in seinem Sarg liegt die abgelegte Waffe.",
+      "question": "Wie kann George Temple (Glenn Ford) am Ende von „Die erste Kugel trifft“ in Cross Creek bleiben?",
+      "answers": [
+        "Sein Tod wird vorgetäuscht; im Sarg liegt nur die Waffe.",
+        "Die Stadt übergibt ihn unter neuem Namen an ein Militärfort.",
+        "Die Stadt bezahlt Harold für einen öffentlichen Verzicht auf das Duell.",
+        "Die Stadt ernennt George zum Sheriff und stellt ihm Deputys zur Seite."
+      ],
+      "short": "Ein Scheingrab beendet den gefährlichen Ruf des Revolvermannes.",
+      "context": "Zwei Gräber sollen den Eindruck erwecken, dass beide Duellanten gestorben seien. George Temple (Glenn Ford) lebt jedoch und hat seinen Revolver symbolisch begraben. Erst der gemeinsame Schutz dieser neuen Geschichte macht es möglich, als Kaufmann und Ehemann weiterzuleben, statt immer erneut herausgefordert zu werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "The Fastest Gun Alive wurde erstmals 1956 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Die erste Kugel trifft“ mit Glenn Ford erstmals veröffentlicht?",
+      "answers": [
+        "1956",
+        "1948",
+        "1963",
+        "1971"
+      ],
+      "short": "Der Film erschien 1956.",
+      "context": "Glenn Ford und Broderick Crawford hatten 1954 bereits in Fritz Langs „Lebensgier“ gemeinsam gespielt. Zwei Jahre später verlagert sich ihre Begegnung vom Eisenbahn- und Eifersuchtsdrama in einen Western über den Zwang zum Duell. Die vertrauten Gesichter tragen dadurch eine andere Form gegenseitiger Bedrohung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "frueher"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Russell Rouse führte bei The Fastest Gun Alive Regie.",
+      "question": "Wer führte bei „Die erste Kugel trifft“ mit Glenn Ford und Broderick Crawford Regie?",
+      "answers": [
+        "Russell Rouse",
+        "Delmer Daves",
+        "Henry Hathaway",
+        "André De Toth"
+      ],
+      "short": "Russell Rouse führte Regie.",
+      "context": "Rouse und Frank D. Gilroy übertrugen Gilroys Fernsehspiel „The Last Notch“ auf die Kinoleinwand. Für Gilroy war es das erste Spielfilmdrehbuch. Der kleine Schauplatz und die Gemeinschaft unter Zeitdruck bewahren etwas von der konzentrierten Anlage des ursprünglichen Fernsehstoffs.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
