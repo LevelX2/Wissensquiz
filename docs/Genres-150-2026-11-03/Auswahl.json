@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 457 Filmfassungen mit 3656 Fragen lokal integriert. 44 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 462 Filmfassungen mit 3696 Fragen lokal integriert. 39 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -4324,12 +4324,15 @@
       "film_title_original": "The Palm Beach Story",
       "film_year": 1942,
       "genre": "Rom-Com",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eheprobleme und vermögende Verehrer ermöglichen eine screwballtypische Verwechslungskomödie.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Ehekomödie verschränkt Liebe, Erfindertum, Vermögen und taktische Identitäten. Rasche Dialoge, Zugslapstick und ein ausdrücklich zweifelndes Happy End erweitern die filmhistorische Breite der Kategorie.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-046"
     },
     {
       "candidate_id": "B-147",
@@ -4337,12 +4340,15 @@
       "film_title_original": "Bachelor Mother",
       "film_year": 1939,
       "genre": "Rom-Com",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Verkäuferin wird irrtümlich für die Mutter eines Findelkindes gehalten.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Aus einer zugeschriebenen Mutterschaft entstehen neue Arbeitsbedingungen, Vatervermutungen und eine Liebesgeschichte. Der Film erweitert die Screwball-Komödie um Fürsorge, Klassenunterschiede und die Macht wohlmeinender Außenstehender.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-047"
     },
     {
       "candidate_id": "B-148",
@@ -4350,12 +4356,15 @@
       "film_title_original": "Woman of the Year",
       "film_year": 1942,
       "genre": "Rom-Com",
-      "familiarity_level": 3,
+      "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Beruflicher Ehrgeiz, öffentliche Rollen und eheliche Erwartungen im Journalistenpaar.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Romanze endet nicht mit der Heirat, sondern prüft die Vereinbarkeit zweier Karrieren. Journalistische Konkurrenz, Familienverantwortung und das umgeschriebene Ende machen den Film für eine differenzierte Genreabdeckung besonders geeignet.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-048"
     },
     {
       "candidate_id": "B-149",
@@ -4363,12 +4372,15 @@
       "film_title_original": "Lover Come Back",
       "film_year": 1961,
       "genre": "Rom-Com",
-      "familiarity_level": 3,
+      "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Werberivalität und eine erfundene Produktkampagne lösen romantische Täuschungen aus.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Liebeskomödie macht Werbung selbst zum Täuschungsspiel: Ein beworbenes Produkt existiert zunächst ebenso wenig wie die berufliche Identität des angeblichen Erfinders. Konkurrenz, Konsum und Geschlechterrollen verbinden sich mit präziser Verwechslungskomik.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-049"
     },
     {
       "candidate_id": "B-150",
@@ -4378,10 +4390,13 @@
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Arbeitskampf und Liebesbeziehung verbinden romantische Komödie mit Musicalelementen.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Liebesbeziehung zwischen einer Gewerkschaftsvertreterin und dem Betriebsleiter steht im Zentrum einer musikalischen Komödie über Lohn und Loyalität. Das Musical trägt die romantische Entwicklung und ergänzt den Arbeitsplatzfilm um Gesang und Tanz.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-050"
     },
     {
       "candidate_id": "C-001",
