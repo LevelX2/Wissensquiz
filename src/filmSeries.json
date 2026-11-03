@@ -14251,8 +14251,15 @@
       "sources": []
     },
     "The Wizard of Oz|1939": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Der Zauberer von Oz",
+        "position": 1,
+        "note": "MGM-Musical vor der ausdrücklich inoffiziellen Disney-Fortführung Return to Oz (1985), die Dorothy mit anderer Besetzung und nach weiteren Baum-Romanen zurückkehren lässt. Keine reguläre Fortsetzung des MGM-Musicals und keine Einbeziehung anderer Oz-Neuverfilmungen."
+      },
+      "sources": [
+        "https://theasc.com/article/a-return-to-oz/",
+        "https://filmfreakcentral.net/2000/05/a-conversation-ffc-interviews-walter-murch/"
+      ]
     },
     "The Wolf of Wall Street|2013": {
       "series": null,
@@ -17858,6 +17865,52 @@
       "sources": [
         "https://www.screenaustralia.gov.au/screen-guide/killer-elite-29058/",
         "https://catalog.afi.com/Film/67871-KILLER-ELITE"
+      ]
+    },
+    "Lady in the Water|2006": {
+      "series": null,
+      "sources": [
+        "https://www.blackfilm.com/20060714/features/mnight.shtml",
+        "https://www.mnightfans.com/films/lady-in-the-water/production-notes/"
+      ]
+    },
+    "Beautiful Creatures|2013": {
+      "series": null,
+      "sources": [
+        "https://www.slashfilm.com/558944/beautiful-creatures-hdtgm/"
+      ]
+    },
+    "Cinderella|2015": {
+      "series": null,
+      "sources": [
+        "https://d23.com/a-to-z/cinderella-film-2015/",
+        "https://filmsandfestivals.britishcouncil.org/projects/cinderella"
+      ]
+    },
+    "Return to Oz|1985": {
+      "series": {
+        "name": "Der Zauberer von Oz",
+        "position": 2,
+        "note": "Inoffizielle spätere Fortführung von Dorothys Oz-Reise nach dem MGM-Film von 1939; Disney-Produktion mit anderer Besetzung und eigener Gestaltung nach weiteren Baum-Romanen, keine reguläre MGM-Musicalfortsetzung."
+      },
+      "sources": [
+        "https://theasc.com/article/a-return-to-oz/",
+        "https://filmfreakcentral.net/2000/05/a-conversation-ffc-interviews-walter-murch/",
+        "https://www.disneyplus.com/de-de/browse/entity-5f0c918d-dd20-4268-8374-e1f12650bd37"
+      ]
+    },
+    "City of Angels|1998": {
+      "series": null,
+      "sources": [
+        "https://www.irishtimes.com/news/a-wing-and-a-prayer-1.170013",
+        "https://www.filmdienst.de/film/details/508951/stadt-der-engel"
+      ]
+    },
+    "Meet Joe Black|1998": {
+      "series": null,
+      "sources": [
+        "https://columbiachronicle.com/archives/3ec8c7c5-7c00-5b64-97b4-26536f3371e2/",
+        "https://en.wikipedia.org/wiki/Meet_Joe_Black"
       ]
     }
   }

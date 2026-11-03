@@ -710,6 +710,19 @@
         "ACTION-049",
         "ACTION-050"
       ]
+    },
+    {
+      "wave": "W55",
+      "filename": "Genres150_20261103_W55.csv",
+      "path": "/genres150-20261103-w55-fragen.csv",
+      "films": [
+        "FANTASY-034",
+        "FANTASY-035",
+        "FANTASY-036",
+        "FANTASY-037",
+        "FANTASY-038",
+        "FANTASY-039"
+      ]
     }
   ],
   "series_updates": [
@@ -747,6 +760,18 @@
       },
       "sources": [
         "https://s1.thcdn.com/design-assets/documents/arrowfilms/The%20Complete%20Sartana.pdf"
+      ]
+    },
+    {
+      "film": "The Wizard of Oz|1939",
+      "series": {
+        "name": "Der Zauberer von Oz",
+        "position": 1,
+        "note": "MGM-Musical vor der ausdrücklich inoffiziellen Disney-Fortführung Return to Oz (1985), die Dorothy mit anderer Besetzung und nach weiteren Baum-Romanen zurückkehren lässt. Keine reguläre Fortsetzung des MGM-Musicals und keine Einbeziehung anderer Oz-Neuverfilmungen."
+      },
+      "sources": [
+        "https://theasc.com/article/a-return-to-oz/",
+        "https://filmfreakcentral.net/2000/05/a-conversation-ffc-interviews-walter-murch/"
       ]
     }
   ]
