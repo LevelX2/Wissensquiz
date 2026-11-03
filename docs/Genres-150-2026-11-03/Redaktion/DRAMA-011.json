@@ -1,0 +1,253 @@
+{
+  "id": "DRAMA-011",
+  "film_title_de": "Die Müßiggänger",
+  "film_title_original": "I vitelloni",
+  "film_year": 1953,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein prägendes frühes Fellini-Werk, dessen Titel und Figuren außerhalb des Autorenkinopublikums heute weniger geläufig sind.",
+  "selection_reason": "Die Gruppe junger Provinzmänner eröffnet ein eigenständiges Panorama von Abhängigkeit, Selbstüberschätzung und Ausbruchssehnsucht. Die filmhistorische Bedeutung des frühen Fellini begründet Classics; die offene episodische Form Arthouse.",
+  "directors": [
+    "Federico Fellini"
+  ],
+  "production_countries": [
+    "Italien",
+    "Frankreich"
+  ],
+  "release_note": "Öffentliche Vorführung und italienische Veröffentlichung 1953; der französische Start 1954 und die spätere Oscar-Nominierung ändern das Erstjahr nicht.",
+  "director_note": "Alleiniger Regiecredit Federico Fellini; die Drehbuchmitarbeit anderer Autoren ist kein gemeinsamer Regiecredit.",
+  "country_note": "Criterion nennt verkürzt Italien. Das Fellini Museum dokumentiert Peg Film in Rom und Cité Film in Paris; die Cinémathèque française bestätigt Italien/Frankreich.",
+  "series": null,
+  "series_note": "Eigenständiger Ensemblefilm. Wiederkehrende Motive, Fellinis Heimatbezug und spätere Künstlerfiguren bilden keine nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.criterion.com/films/966-i-vitelloni",
+    "https://www.criterion.com/current/posts/336-i-vitelloni-a-trip-to-the-station"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://www.criterion.com/films/966-i-vitelloni",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene Filmseite: 1953, Regie, Figuren und Originalbesetzung, Musik Nino Rota, frühe Soloregie und familiär abhängige Gruppe."
+    },
+    "museum": {
+      "url": "https://fellinimuseum.it/i-vitelloni/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte Filmseite gelesen: Handlung, Familienabhängigkeit, Sandra/Fausto, Albertos Schwester, Moraldos Ausbruch, Produktionsfirmen und Fellinis eigener Bericht zur Verleihtiteldiskussion. Fehlerhafte Preisjahreszuordnung nicht übernommen."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/336-i-vitelloni-a-trip-to-the-station",
+      "accessed_on": "2026-11-03",
+      "supports": "Tom Piazza vollständig gelesen: Engelstatue, Giudizio, offenes Zugfinale mit Bahnjungen, Rota-Musik, Film zwischen The White Sheik 1952 und La strada 1954."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/I_Vitelloni",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Produktionsabschnitte gelesen: Olga, Fausto-Entlassung, Engelsdiebstahl, Finale und genaue Besetzung."
+    },
+    "cinematheque": {
+      "url": "https://www.cinematheque.fr/film/43451.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindex der Archivfilmseite: Italien/Frankreich 1953, Regie Fellini und Originalbesetzung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Alberto Sordi spielt den von seiner Schwester abhängigen Alberto.",
+      "question": "Wer spielt in „Die Müßiggänger“ Alberto, der vom Verdienst seiner Schwester lebt und ihr Privatleben kontrollieren möchte?",
+      "answers": [
+        "Alberto Sordi",
+        "Totò",
+        "Peppino De Filippo",
+        "Aldo Fabrizi"
+      ],
+      "short": "Alberto Sordi verkörpert Alberto.",
+      "context": "Alberto (Alberto Sordi) lässt sich von seiner arbeitenden Schwester Olga (Claude Farell) unterhalten. Zugleich nimmt er sich heraus, über ihre Beziehung zu urteilen. Zwischen ausgelassenem Vergnügen und häuslicher Abhängigkeit zeigt die Figur eine Unreife, die komisch wirken kann, für die Frauen seiner Familie aber sehr konkrete Folgen hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "museum",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Sandra ist schwanger, weshalb Fausto sie heiraten muss.",
+      "question": "Weshalb drängt Faustos Vater in „Die Müßiggänger“ darauf, dass Fausto (Franco Fabrizi) Sandra (Leonora Ruffo) heiratet?",
+      "answers": [
+        "Sandra erwartet ein Kind von Fausto.",
+        "Fausto hat Sandras Familie ein verbindliches Geschäftsversprechen gegeben.",
+        "Die beiden brauchen als Ehepaar Zugang zu einer begehrten Wohnung.",
+        "Sandra kann nur als verheiratete Frau einen entfernten Verwandten beerben."
+      ],
+      "short": "Sandras Schwangerschaft führt zur erzwungenen Hochzeit.",
+      "context": "Die Nachricht bricht während eines sommerlichen Festes in die sorglose Welt der Gruppe ein. Fausto (Franco Fabrizi) versucht zunächst auszuweichen, wird aber zur Verantwortung gezogen. Nach der Hochzeit setzt er seine Annäherungen an andere Frauen fort. Der formale Schritt ins Familienleben macht aus ihm deshalb noch keinen verlässlichen Partner für Sandra (Leonora Ruffo).",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "museum",
+        "film"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Fausto und Moraldo stehlen eine Engelsstatue aus dem Laden.",
+      "question": "Was stehlen Fausto (Franco Fabrizi) und Moraldo (Franco Interlenghi) in „Die Müßiggänger“ aus dem Geschäft, in dem Fausto gearbeitet hat?",
+      "answers": [
+        "Eine Engelsstatue",
+        "Einen silbernen Messkelch",
+        "Eine kostbare Kirchenorgel-Partitur",
+        "Einen mit Edelsteinen besetzten Rosenkranz"
+      ],
+      "short": "Sie stehlen eine Engelsstatue und versuchen vergeblich, sie zu verkaufen.",
+      "context": "Nach seiner Entlassung rächt sich Fausto (Franco Fabrizi) am Geschäft für religiöse Gegenstände. Die Männer finden jedoch keinen Käufer für den Engel. Schließlich lassen sie ihn bei Giudizio (Silvio Bagolini). Während die Diebe nur an Geld denken, betrachtet dieser die Statue mit ehrfürchtiger Zuneigung und berührt sie vorsichtig.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Alberto entdeckt, dass seine Schwester mit ihrem verheirateten Geliebten fortgeht.",
+      "question": "Welche familiäre Veränderung trifft Alberto (Alberto Sordi) nach dem Karneval in „Die Müßiggänger“?",
+      "answers": [
+        "Seine Schwester verlässt das Haus mit ihrem verheirateten Geliebten.",
+        "Seine Mutter heiratet heimlich den Besitzer seines Stammlokals.",
+        "Sein Vater verkauft das Familienhaus und verschwindet mit dem Geld.",
+        "Sein jüngerer Bruder meldet sich gegen den Willen der Familie zur Marine."
+      ],
+      "short": "Albertos Schwester geht mit ihrem Geliebten fort.",
+      "context": "Alberto (Alberto Sordi) lebt selbst von der Arbeit seiner Schwester Olga (Claude Farell), möchte ihr Privatleben aber kontrollieren. Nach der ausgelassenen Karnevalsnacht erlebt er ihren Aufbruch als Verlust. Die häusliche Ordnung, auf die er sich bequem verlassen hat, erweist sich als Entscheidung anderer Menschen und keineswegs als selbstverständlicher Dauerzustand.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "museum",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Moraldo verlässt den Ort mit dem Zug, während der junge Bahnarbeiter zurückbleibt.",
+      "question": "Welchen Schritt unternimmt Moraldo (Franco Interlenghi) am Ende von „Die Müßiggänger“?",
+      "answers": [
+        "Er verlässt den Ort mit dem Zug.",
+        "Er übernimmt das Geschäft, aus dem Fausto entlassen wurde.",
+        "Er heiratet heimlich Albertos Schwester.",
+        "Er schließt sich der abreisenden Theatertruppe an."
+      ],
+      "short": "Moraldo bricht mit dem Zug aus der vertrauten Umgebung auf.",
+      "context": "Moraldo (Franco Interlenghi) stellt sich seine schlafenden Freunde vor, während er wegfährt. Der Film folgt ihm nicht in ein bereits gesichertes neues Leben. Zurück bleibt der junge Bahnarbeiter Guido (Guido Martufi), den Moraldo auf seinen nächtlichen Streifzügen kennengelernt hat. Der Abschied endet so mit einem offenen Aufbruch statt mit einer fertigen Erfolgsgeschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Nino Rota komponierte die Filmmusik.",
+      "question": "Wer schrieb die Filmmusik zu „Die Müßiggänger“?",
+      "answers": [
+        "Nino Rota",
+        "Carlo Rustichelli",
+        "Alessandro Cicognini",
+        "Giovanni Fusco"
+      ],
+      "short": "Die Musik stammt von Nino Rota.",
+      "context": "Die Musik begleitet den Wechsel zwischen ausgelassenem Vergnügen und Ernüchterung. Beim Karneval erklingt ein rasantes populäres Tanzlied; nach dem Fest bleibt davon ein einsamer Trompeter übrig. Derselbe musikalische Stoff begleitet dadurch sehr unterschiedliche Stimmungen. Die Feier klingt noch nach, obwohl die Figuren längst wieder mit ihrem gewöhnlichen Leben konfrontiert sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "I vitelloni wurde 1953 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Die Müßiggänger“ erstmals?",
+      "answers": [
+        "1953",
+        "1947",
+        "1950",
+        "1957"
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 1953.",
+      "context": "„Die Müßiggänger“ liegt zwischen „Der weiße Scheich“ von 1952 und „La strada“ von 1954. Innerhalb dieser kurzen Folge entwickelte Fellini vom gescheiterten romantischen Ausflug über die Provinzgruppe zur Geschichte reisender Schausteller sehr unterschiedliche Lebenswelten. Verantwortung, Selbsttäuschung und die Sehnsucht nach einem anderen Leben verbinden die eigenständigen Filme.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Federico Fellini führte Regie.",
+      "question": "Wer führte bei „Die Müßiggänger“ mit Alberto Sordi und Franco Fabrizi Regie?",
+      "answers": [
+        "Federico Fellini",
+        "Luigi Comencini",
+        "Mario Monicelli",
+        "Vittorio De Sica"
+      ],
+      "short": "Die Regie führte Federico Fellini.",
+      "context": "Fellini erinnerte sich später an die Schwierigkeiten, überhaupt einen Verleih für den Film zu finden. Auch der Originaltitel wurde angezweifelt; zeitweise stand ein direkterer Schimpfname für die jungen Männer im Raum. Die fertige Geschichte verbindet komische Situationen mit den Folgen ihrer Unreife und machte den Regisseur erstmals kommerziell erfolgreich.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "museum",
+        "film"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

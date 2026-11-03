@@ -1,0 +1,256 @@
+{
+  "id": "DRAMA-013",
+  "film_title_de": "Der große Irrtum",
+  "film_title_original": "Il conformista",
+  "film_year": 1970,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Bertoluccis politischer Stilfilm ist ein filmhistorisches Hauptwerk, dessen genaue Figurenhandlung heute eher Filmkennern vertraut ist.",
+  "selection_reason": "Der Film verbindet das Verlangen nach gesellschaftlicher Normalität mit politischer Mittäterschaft. Rückblenden, Architektur und farbige Lichtgestaltung begründen Arthouse; seine Wirkung auf die Filmgestaltung Classics.",
+  "directors": [
+    "Bernardo Bertolucci"
+  ],
+  "production_countries": [
+    "Italien",
+    "Frankreich",
+    "Bundesrepublik Deutschland"
+  ],
+  "release_note": "Erstveröffentlichung 1970 einschließlich Berlinale und New Yorker Festivalvorführung; spätere breite Kinostarts 1971 ändern das Erstjahr nicht.",
+  "director_note": "Alleiniger offizieller Regiecredit Bernardo Bertolucci. Franco Arcallis maßgebliche Schnittarbeit und Montageentwicklung sind getrennte Leistungen.",
+  "country_note": "Drei Produktionsländer nach BFI und Rechteinhaber Minerva. Kino-Lorber-Deckblatt nennt verkürzt nur Italien.",
+  "series": null,
+  "series_note": "Eigenständige Moravia-Verfilmung. Thematische Bezüge zu anderen Bertolucci-Filmen sind keine nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.minervapicturesinternational.com/catalogue/the-conformist/"
+  ],
+  "sources": {
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/7f8c297d-0a54-5c9a-a2bb-5fa59b50a66b/the-conformist",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene BFI-Filmseite:1970, Länder, alleinige Regie, Trintignant als Clerici, Quadri-Auftrag, Storaro-Kamera, Scarfiotti-Räume und Rückblenden."
+    },
+    "presse": {
+      "url": "https://kinolorberbucket.s3.amazonaws.com/production/documents/The%20Conformist%20-%20EPK.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Alle sechs Presseseiten als Text gelesen: Cast, Regie, Moravia-Vorlage, Kamera, Schnitt; Bertoluccis eigene Erklärung zur Autofahrt als Gegenwart und Entstehung der Rückblendenstruktur im Schnitt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Conformist_(1970_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung gelesen:1938/1943, Hochzeitsreise, faschistischer Mordauftrag, Anna vor dem Wagen, Lino überlebt; Erstvorführung1970 und Moravia-Roman1951."
+    },
+    "rechte": {
+      "url": "https://www.minervapicturesinternational.com/catalogue/the-conformist/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger gelesener Suchindex des Rechteinhabers: Originaltitel1970, drei Länder, Bertolucci-Regie und Anpassungsmotiv. Dort unklar als Auszeichnungen aufgelistete Nominierungen nicht übernommen."
+    },
+    "interfilm": {
+      "url": "https://www.inter-film.org/de/festivals/berlinale-internationale-filmfestspiele-berlin/20-internationale-filmfestspiele-berlin",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener eigener Jurybericht: Film im Festival1970 empfohlen; wegen Abbruch keine regulären Jury-Auszeichnungen vergeben."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jean-Louis Trintignant spielt den angepassten Faschisten Marcello Clerici.",
+      "question": "Wer spielt in „Der große Irrtum“ den Beamten Marcello Clerici, der durch Anpassung an den Faschismus dazugehören will?",
+      "answers": [
+        "Jean-Louis Trintignant",
+        "Alain Delon",
+        "Gian Maria Volonté",
+        "Marcello Mastroianni"
+      ],
+      "short": "Marcello Clerici wird von Jean-Louis Trintignant gespielt.",
+      "context": "Marcello Clerici (Jean-Louis Trintignant) sucht ein Leben, das nach außen gewöhnlich und gesellschaftlich anerkannt wirkt. Ehe und politische Zugehörigkeit sollen ihm diese Sicherheit verschaffen. Der Dienst für die faschistische Geheimpolizei macht aus dem Wunsch nach Anpassung jedoch eine aktive Beteiligung an der Verfolgung anderer Menschen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "rechte",
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die zentrale Mission gehört zum faschistischen Italien unter Mussolini.",
+      "question": "Welches politische System bildet den Hintergrund von Marcellos Auftrag in „Der große Irrtum“?",
+      "answers": [
+        "Der italienische Faschismus unter Mussolini",
+        "Die Militärdiktatur in Spanien unter Franco",
+        "Die deutsche Besatzungsverwaltung in Italien",
+        "Die Monarchie vor dem Ersten Weltkrieg"
+      ],
+      "short": "Marcello arbeitet für das faschistische Italien Mussolinis.",
+      "context": "Die Hauptmission führt Marcello (Jean-Louis Trintignant) von Italien nach Paris. Seine Hochzeitsreise mit Giulia (Stefania Sandrelli) dient dabei als Deckung. Die Ehefrau nimmt an einer vermeintlich privaten Reise teil, während ihr Mann im Auftrag des Regimes einem politischen Gegner nachstellt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung",
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Der Mordauftrag gilt Clericis früherem Universitätsprofessor im Pariser Exil.",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-058-M1",
+      "variant_of": "SCHAUSPIELER-BG-20261013-058-M1",
+      "question": "Gegen wen richtet sich der Auftrag, den Marcello Clerici (Jean-Louis Trintignant) in „Der große Irrtum“ während seiner Hochzeitsreise ausführen soll?",
+      "answers": [
+        "Gegen seinen früheren Universitätsprofessor im Exil",
+        "Gegen einen rivalisierenden Geheimdienstoffizier",
+        "Gegen den Vater seiner Ehefrau",
+        "Gegen den Bankier seiner Familie"
+      ],
+      "short": "Der Auftrag gilt seinem ehemaligen Professor, dem Antifaschisten Quadri im Pariser Exil.",
+      "context": "Luca Quadri (Enzo Tarascio) war Marcellos (Jean-Louis Trintignant) philosophischer Lehrer und lebt nun außerhalb der Reichweite des italienischen Regimes. Der Besuch eines ehemaligen Studenten verschafft Zugang zu seinem Haushalt. Die persönliche Vergangenheit wird damit zum Werkzeug einer politischen Verfolgung, die nach außen als Wiedersehen erscheinen kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung",
+        "presse"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Marcello hilft Anna bei dem Mordanschlag nicht, obwohl sie an seinem Wagen Schutz sucht.",
+      "question": "Wie verhält sich Marcello (Jean-Louis Trintignant), als Anna (Dominique Sanda) während des Anschlags in „Der große Irrtum“ zu seinem Wagen flieht?",
+      "answers": [
+        "Er bleibt im Wagen und hilft ihr nicht.",
+        "Er öffnet die Tür und flieht mit ihr nach Paris.",
+        "Er erschießt den angreifenden Manganiello.",
+        "Er stellt sich den Verfolgern als Geisel zur Verfügung."
+      ],
+      "short": "Marcello lässt Anna ohne Hilfe vor dem Wagen zurück.",
+      "context": "Nach dem Mord an ihrem Mann sucht Anna Quadri (Dominique Sanda) Hilfe bei Marcello (Jean-Louis Trintignant). Er beobachtet, wie sie anschließend in den Wald flieht und getötet wird. Seine Untätigkeit entlastet ihn nicht von seiner Beteiligung: Er hat den Anschlag ermöglicht und verweigert nun die naheliegende Rettung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Vittorio Storaro verantwortete die Kameraarbeit.",
+      "question": "Welcher Kameramann gestaltete die farbigen Licht- und Schattenräume von „Der große Irrtum“?",
+      "answers": [
+        "Vittorio Storaro",
+        "Giuseppe Rotunno",
+        "Carlo Di Palma",
+        "Pasqualino De Santis"
+      ],
+      "short": "Die Kameraarbeit stammt von Vittorio Storaro.",
+      "context": "Ferdinando Scarfiottis Räume und Storaros Lichtgestaltung greifen ineinander. In einer Szene überlagern die Schatten einer Jalousie die Streifen von Giulias (Stefania Sandrelli) Kleid. Politische Macht und private Anpassung erscheinen dadurch auch als räumliche und optische Ordnung. Die Bildgestaltung war später für andere Regisseure ein wichtiger Bezugspunkt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "presse"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Autofahrt bildet die Gegenwartsebene, aus der Rückblenden Marcellos Vorgeschichte erschließen.",
+      "question": "Welche Funktion hat die Autofahrt zum bevorstehenden Anschlag in der Erzählstruktur von „Der große Irrtum“?",
+      "answers": [
+        "Sie bildet die Gegenwartsebene, von der Rückblenden in Marcellos Vergangenheit führen.",
+        "Sie wird erst am Ende als Traum seines früheren Professors enthüllt.",
+        "Sie wird viermal vollständig aus der Sicht wechselnder Zeugen wiederholt.",
+        "Sie zeigt eine lückenlose Echtzeithandlung ohne Sprünge in andere Zeiten."
+      ],
+      "short": "Die Fahrt hält die Gegenwart zusammen, während Rückblenden Marcellos Weg erklären.",
+      "context": "Bertolucci beschrieb, wie ihn während der Dreharbeiten die Idee einer Reise durch Marcellos Erinnerung faszinierte. Zusammen mit Cutter Franco Arcalli entwickelte er daraus die verschachtelte Form. Die Fahrt verbindet Fragmente von Kindheit, Eheplänen und politischer Rekrutierung. Ihre endgültige Anordnung entstand im Schnitt, statt bloß einer chronologischen Romanhandlung zu folgen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Il conformista wurde 1970 erstmals veröffentlicht.",
+      "question": "Wann wurde „Der große Irrtum“ mit Jean-Louis Trintignant erstmals veröffentlicht?",
+      "answers": [
+        "1970",
+        "1964",
+        "1967",
+        "1974"
+      ],
+      "short": "Das Erstveröffentlichungsjahr ist 1970.",
+      "context": "Alberto Moravias Roman erschien 1951, neunzehn Jahre vor Bertoluccis Film von 1970. Die Verfilmung ordnet die Vorgeschichte über Rückblenden neu. Ihre Berliner Festivalvorführung gehört zu einer abgebrochenen Berlinale: Wegen des Eklats um „o.k.“ wurden 1970 keine regulären Jurypreise vergeben; die INTERFILM-Jury sprach stattdessen Empfehlungen aus.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "presse",
+        "interfilm"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Bernardo Bertolucci führte Regie.",
+      "question": "Wer führte bei „Der große Irrtum“ mit Jean-Louis Trintignant und Stefania Sandrelli Regie?",
+      "answers": [
+        "Bernardo Bertolucci",
+        "Francesco Rosi",
+        "Marco Bellocchio",
+        "Elio Petri"
+      ],
+      "short": "Die Regie führte Bernardo Bertolucci.",
+      "context": "Bertolucci adaptierte Alberto Moravias Roman und arbeitete für die visuelle Gestaltung mit Vittorio Storaro und Ferdinando Scarfiotti zusammen. Die politische Handlung wird nicht nur durch Dialoge vermittelt. Monumentale Büros, private Innenräume und die wechselnde Beleuchtung geben dem Wunsch der Hauptfigur nach Zugehörigkeit eine ebenso verführerische wie bedrängende Umgebung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

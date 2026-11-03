@@ -1,0 +1,265 @@
+{
+  "id": "DRAMA-015",
+  "film_title_de": "Sie küssten und sie schlugen ihn",
+  "film_title_original": "Les Quatre Cents Coups",
+  "film_year": 1959,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Truffauts Debüt gehört zu den bekannteren Klassikern der Nouvelle Vague, konkrete Handlungs- und Gestaltungsfragen bleiben aber Filmkennerwissen.",
+  "selection_reason": "Der Jugendfilm verbindet familiäre Vernachlässigung, Schule und institutionelle Disziplin mit einer subjektiven Perspektive. Bedeutung für die Nouvelle Vague und offene persönliche Form begründen Classics und Arthouse.",
+  "directors": [
+    "François Truffaut"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Öffentliche Cannes-Vorführung und französische Erstveröffentlichung 1959; keine spätere Restaurierung als neue Filmidentität.",
+  "director_note": "Alleinige Hauptregie François Truffaut; Marcel Moussy war Mitautor, nicht Mitregisseur.",
+  "country_note": "Frankreich nach Criterion und BFI.",
+  "series": {
+    "name": "Antoine Doinel",
+    "position": 1,
+    "note": "Erster der fünf Filme mit Antoine Doinel. Die Zählung schließt den Kurzfilm Antoine et Colette 1962 als Teil 2 ein; Baisers volés 1968 ist folglich Teil 3."
+  },
+  "series_note": "Die Figur setzt ihre Geschichte mit demselben Darsteller in vier weiteren Filmen fort; die belegte Kurzfilmzählung ist ausdrücklich eingeschlossen.",
+  "series_sources": [
+    "https://www.criterion.com/boxsets/346-the-adventures-of-antoine-doinel",
+    "https://www.criterion.com/films/151-the-400-blows"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://www.criterion.com/films/151-the-400-blows",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmseite vollständig gelesen: Frankreich1959, Cast, Truffaut-Regie, Moussy-Mitautorschaft, autobiografische Grundierung und Doinel-Anfang."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/528-the-400-blows-close-to-home",
+      "accessed_on": "2026-11-03",
+      "supports": "Annette Insdorf vollständig gelesen: Kindheitserfahrungen, Mutter-Todeslüge, Filmbegeisterung, Schreibmaschinendiebstahl, Polizeifoto und finales Freeze-Frame."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_400_Blows",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung vollständig gelesen: Balzac-Aufsatz und Plagiatsvorwurf, Rückgabe der Schreibmaschine, Festnahme, Erziehungsanstalt, Flucht und Meer; Namen der Figuren."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/8803865c-9135-5c8f-b36f-6e50ffcb4873/the-400-blows",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmseite gelesen: Widmung André Bazin, dessen Cahiers-Mitgründung, persönliche Filmhaltung und abschließendes Standbild; Land/Jahr/Regie."
+    },
+    "reihe": {
+      "url": "https://www.criterion.com/boxsets/346-the-adventures-of-antoine-doinel",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte Doinel-Übersicht gelesen: vier lange Filme plus Antoine and Colette, wiederkehrende Figur/Léaud; Stolen Kisses ausdrücklich dritte Folge."
+    },
+    "cnc": {
+      "url": "https://www.cnc.fr/cinema/actualites/les-festivals-de-cannes-dans-le-retroviseur_992824",
+      "accessed_on": "2026-11-03",
+      "supports": "Abschnitt1959 aus vollständigem Suchindex gelesen: Truffaut1958 als Kritiker ausgeschlossen,1959 Regiepreis für seinen ersten langen Film."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jean-Pierre Léaud spielt Antoine Doinel.",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-008-L1",
+      "variant_of": "SCHAUSPIELER-BG-20261013-008-L1",
+      "question": "Wie heißt der von Jean-Pierre Léaud gespielte Jugendliche in „Sie küssten und sie schlugen ihn“?",
+      "answers": [
+        "Antoine Doinel",
+        "Michel Poiccard",
+        "Ferdinand Griffon",
+        "Jules Maigret"
+      ],
+      "short": "Léaud spielt Antoine Doinel, der später in weiteren Truffaut-Filmen wiederkehrt.",
+      "context": "Antoine Doinel (Jean-Pierre Léaud) gerät zu Hause und in der Schule ständig in Konflikte. Die spätere Filmfolge begleitet dieselbe Figur durch Liebschaften, Ehe und Trennung. Dabei bleibt Léaud ihr Darsteller. Sein tatsächliches Älterwerden verbindet die Jugendgeschichte mit den späteren Lebensabschnitten, ohne aus dem ersten Film bereits eine abgeschlossene Lebensbilanz zu machen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "reihe"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Antoine behauptet gegenüber seinem Lehrer, seine Mutter sei gestorben.",
+      "question": "Mit welcher erfundenen Nachricht versucht Antoine (Jean-Pierre Léaud) in „Sie küssten und sie schlugen ihn“, sein Schulschwänzen zu entschuldigen?",
+      "answers": [
+        "Seine Mutter sei gestorben.",
+        "Seine Familie müsse noch am selben Tag aus Paris fortziehen.",
+        "Sein Vater liege nach einem Arbeitsunfall im Krankenhaus.",
+        "Seine Wohnung sei bei einem Brand unbewohnbar geworden."
+      ],
+      "short": "Antoine erfindet den Tod seiner Mutter.",
+      "context": "Die Ausrede soll Antoines (Jean-Pierre Léaud) Abwesenheit erklären, hält der Wirklichkeit aber nicht stand. Seine Mutter Gilberte (Claire Maurier) lebt und ist selbst Teil seines schwierigen Alltags. Das Kind reagiert auf die Enge mit einer dramatischen Erfindung, die den Abstand zu den Erwachsenen noch vergrößert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung",
+        "film"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Antoine wird beim Versuch erwischt, die gestohlene Schreibmaschine zurückzubringen.",
+      "question": "Bei welchem Versuch wird Antoine (Jean-Pierre Léaud) nach dem Schreibmaschinendiebstahl in „Sie küssten und sie schlugen ihn“ erwischt?",
+      "answers": [
+        "Als er die unverkäufliche Maschine zurückbringen will",
+        "Als er die Maschine in einer Zeitungsredaktion anbietet",
+        "Als er mit der Maschine einen gefälschten Pass herstellen will",
+        "Als er sie als Geschenk in das Lehrerzimmer trägt"
+      ],
+      "short": "Antoine wird beim Zurückbringen der gestohlenen Maschine gefasst.",
+      "context": "Die Maschine stammt vom Arbeitsplatz seines Stiefvaters Julien (Albert Rémy). Antoine (Jean-Pierre Léaud) und sein Freund können sie nicht verkaufen. Der Versuch, den Diebstahl rückgängig zu machen, endet mit seiner Ergreifung. Der Stiefvater übergibt ihn der Polizei; aus den familiären und schulischen Konflikten wird ein Fall für staatliche Einrichtungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "film"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ein aus Bewunderung an Balzac angelehnter Aufsatz wird als Plagiat bestraft.",
+      "question": "Warum gerät Antoine (Jean-Pierre Léaud) wegen seines Aufsatzes in „Sie küssten und sie schlugen ihn“ erneut mit dem Lehrer aneinander?",
+      "answers": [
+        "Er übernimmt eine Balzac-Passage und wird des Abschreibens beschuldigt.",
+        "Er beschreibt einen Diebstahl und wird deswegen angezeigt.",
+        "Er verweigert einen Text über seine eigene Familie.",
+        "Er gibt den Aufsatz seines Freundes als seinen eigenen ab."
+      ],
+      "short": "Antoines Balzac-Begeisterung führt zu einem Plagiatsvorwurf.",
+      "context": "Antoine (Jean-Pierre Léaud) verehrt den Schriftsteller und nimmt dessen Erzählweise in einen Text über den Tod des Großvaters auf. Für den Lehrer ist das unerlaubtes Übernehmen. Die Szene führt eine weitere Erfahrung vor, bei der Antoines eigener Zugang zu Literatur und die Erwartung der Schule aufeinanderprallen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Das Schlussbild hält Antoines Blick am Meer als Standbild fest.",
+      "question": "Mit welchem Bildverfahren endet „Sie küssten und sie schlugen ihn“, nachdem Antoine das Meer erreicht hat?",
+      "answers": [
+        "Sein Blick in die Kamera wird im Standbild festgehalten.",
+        "Seine Flucht wird in einer rückwärts laufenden Montage zurückgenommen.",
+        "Sein Gesicht wird langsam mit dem seines erwachsenen Ichs überblendet.",
+        "Eine lange Schwarzblende ersetzt die erwartete Begegnung am Strand."
+      ],
+      "short": "Der Film endet mit einem Freeze-Frame von Antoines Gesicht.",
+      "context": "Antoine (Jean-Pierre Léaud) ist aus der Erziehungsanstalt entkommen und läuft bis an die Küste. Die Bewegung mündet in einen Blick zum Publikum, den das Standbild anhält. Die erreichte Freiheit erhält keine erklärende Zukunftsgarantie. Das Gesicht bleibt sichtbar, während offenbleibt, wie es nach diesem Moment weitergeht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Film ist dem Kritiker und Förderer André Bazin gewidmet.",
+      "question": "Welchem Filmkritiker und Förderer widmete Truffaut „Sie küssten und sie schlugen ihn“?",
+      "answers": [
+        "André Bazin",
+        "Georges Sadoul",
+        "Jacques Doniol-Valcroze",
+        "Alexandre Astruc"
+      ],
+      "short": "Der Film ist André Bazin gewidmet.",
+      "context": "Bazin war Mitbegründer der Cahiers du Cinéma und setzte sich für persönliche Filmkunst ein. Truffauts Widmung erinnert damit an einen wichtigen geistigen Bezugspunkt seines Weges vom Kritiker zum Regisseur. Die Nähe zwischen eigener Erfahrung und erzählter Kindheit gehört zu dieser persönlichen Haltung, ohne dass jede Szene als unverändertes biografisches Protokoll zu lesen wäre.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "film",
+        "essay"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Les Quatre Cents Coups wurde 1959 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Sie küssten und sie schlugen ihn“ erstmals öffentlich gezeigt?",
+      "answers": [
+        "1959",
+        "1953",
+        "1956",
+        "1963"
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 1959.",
+      "context": "Noch 1958 war Truffaut als scharfzüngiger Kritiker vom Festival in Cannes ausgeschlossen worden. Ein Jahr später kehrte er 1959 mit seinem ersten langen Spielfilm zurück und erhielt den Regiepreis. Der rasche Rollenwechsel vom unerwünschten Kritiker zum ausgezeichneten Filmemacher gehört zur Geschichte des Durchbruchs der Nouvelle Vague.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "cnc"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "François Truffaut führte Regie.",
+      "question": "Wer führte bei „Sie küssten und sie schlugen ihn“ mit Jean-Pierre Léaud Regie?",
+      "answers": [
+        "François Truffaut",
+        "Claude Chabrol",
+        "Jacques Rivette",
+        "Éric Rohmer"
+      ],
+      "short": "Die Regie führte François Truffaut.",
+      "context": "Truffaut verarbeitete Erfahrungen seiner eigenen Jugend und arbeitete mit dem jungen Léaud an einer zugleich eigenständigen Figur. Marcel Moussy wirkte am Drehbuch mit. Die Kamera von Henri Decaë führt durch reale Pariser Straßen und enge Lebensräume; Nähe zum Alltag und der subjektive Blick des Kindes gehören dabei zusammen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

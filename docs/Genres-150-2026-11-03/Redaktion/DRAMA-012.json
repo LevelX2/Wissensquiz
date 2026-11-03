@@ -1,0 +1,252 @@
+{
+  "id": "DRAMA-012",
+  "film_title_de": "Rocco und seine Brüder",
+  "film_title_original": "Rocco e i suoi fratelli",
+  "film_year": 1960,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Viscontis großes Familiendrama ist ein filmhistorisches Kernwerk, dessen konkrete Geschichte heute vorwiegend ein Autorenkinopublikum kennt.",
+  "selection_reason": "Die Wanderung vom ländlichen Süden in die Industriestadt wird zur Familien- und Gewalttragödie. Der Zusammenhang von Milieubeobachtung und melodramatischer Gestaltung begründet Arthouse; die prägende Stellung im italienischen Kino Classics.",
+  "directors": [
+    "Luchino Visconti"
+  ],
+  "production_countries": [
+    "Italien",
+    "Frankreich"
+  ],
+  "release_note": "Erste öffentliche Vorführung 1960 in Venedig und italienischer Start desselben Jahres. Der französische Start 1961 und die spätere restaurierte Fassung ändern das Erstjahr nicht.",
+  "director_note": "Offizieller alleiniger Regiecredit Luchino Visconti nach BFI.",
+  "country_note": "Italien/Frankreich nach BFI und dem Nationalen Filmmuseum Turin. Lucania als Herkunft der Familie nicht mit Sizilien gleichgesetzt; abweichende Kurzsynopsis im Film-Foundation-Bericht wird hierfür nicht übernommen.",
+  "series": null,
+  "series_note": "Eigenständiger Ensemblefilm. Die verschiedenen Brüder und ihre Lebenswege sind Bestandteile desselben Films und keine nummerierte Folge.",
+  "series_sources": [
+    "https://posi.www.bfi.org.uk/bfi-film-releases/rocco-his-brothers"
+  ],
+  "sources": {
+    "bfi": {
+      "url": "https://posi.www.bfi.org.uk/bfi-film-releases/rocco-his-brothers",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene BFI-Verleihseite: Italien/Frankreich1960, Regie, Besetzung und Familienmigration nach Mailand."
+    },
+    "bfiessay": {
+      "url": "https://www.bfi.org.uk/features/bfi-recommends-rocco-his-brothers",
+      "accessed_on": "2026-11-03",
+      "supports": "Elena Marcarinis BFI-Sichtung vollständig gelesen: wirtschaftliche Binnenmigration, Boxen, Rotunnos Schwarzweißbilder, Delon/Salvatori/Girardot sowie Stoppa/Cardinale drei Jahre später im Gattopardo."
+    },
+    "museum": {
+      "url": "https://www.museocinema.it/it/news/magnifiche-visioni-proiezioni-del-capolavoro-di-luchino-visconti-rocco-e-i-suoi-fratelli-nel",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger gelesener Suchindex der Museumsmitteilung2016: Italien/Frankreich1960, Lucania→Mailand, Mutter und vier nachreisende Söhne, Rocco in Bügelei, Simone beim Boxen, Ciro in Fabrik."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Rocco_and_His_Brothers",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung vollständig gelesen: Familienankunft, Rocco/Nadia/Simone, zehnjähriger Boxvertrag zur Schuldentilgung, Ciros Gang zur Polizei, Nadias Ermordung während Rocco boxt; vollständige Figurencredits."
+    },
+    "restaurierung": {
+      "url": "https://www.film-foundation.org/contents/reports/2014/2014.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindex des Abschnitts ROCCO E I SUOI FRATELLI auf Seite4: Originalkameramann Giuseppe Rotunno beaufsichtigte Farb-/Tonwertkorrektur; beschädigtes Originalnegativ teilweise durch historisches Interpositiv ergänzt. Gesamt-PDF wegen Größe nicht geöffnet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Familie Parondi zieht aus Süditalien nach Mailand.",
+      "question": "In welcher Stadt sucht die Familie Parondi in „Rocco und seine Brüder“ ein neues Leben?",
+      "answers": [
+        "Mailand",
+        "Neapel",
+        "Rom",
+        "Palermo"
+      ],
+      "short": "Die Familie zieht aus dem Süden nach Mailand.",
+      "context": "Rosaria Parondi (Katina Paxinou) reist nach dem Tod ihres Mannes mit vier Söhnen zum bereits im Norden lebenden Vincenzo (Spiros Focás). Das Wiedersehen garantiert noch keine sichere Unterkunft. Die Familie muss in der industriellen Großstadt Arbeit und einen eigenen Platz finden; ihre Mitglieder gehen dabei sehr unterschiedliche Wege.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "museum",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Rocco und Simone verfolgen Karrieren als Boxer.",
+      "question": "Welche Sportart wird für Rocco (Alain Delon) und Simone (Renato Salvatori) in „Rocco und seine Brüder“ zum beruflichen Weg?",
+      "answers": [
+        "Boxen",
+        "Radsport",
+        "Fußball",
+        "Ringen"
+      ],
+      "short": "Beide Brüder werden Boxer.",
+      "context": "Für Simone (Renato Salvatori) scheint der Ring einen schnellen Weg zu Ansehen und Wohlstand zu bieten. Rocco (Alain Delon) beginnt dagegen zunächst als Arbeiter in einer Bügelei. Als auch er boxt, geraten sportlicher Erfolg und familiäre Verpflichtungen immer enger zusammen. Die Brüder reagieren auf dieselben Aufstiegschancen mit gegensätzlichem Verhalten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfiessay",
+        "museum",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Rocco bindet sich an einen langen Boxvertrag, um Simones Schulden zu bezahlen.",
+      "question": "Warum unterschreibt Rocco (Alain Delon) in „Rocco und seine Brüder“ einen langfristigen Boxvertrag?",
+      "answers": [
+        "Er will damit Simones Schulden begleichen.",
+        "Er will damit die Rückkehr seiner Mutter in ein eigenes Haus im Süden bezahlen.",
+        "Er will damit Vincenzos geplante Werkstatt finanzieren.",
+        "Er will damit Ciro ein Studium außerhalb Mailands ermöglichen."
+      ],
+      "short": "Rocco verpflichtet sich, um die Schulden seines Bruders zu übernehmen.",
+      "context": "Simone (Renato Salvatori) verliert durch sein Verhalten Halt und Kredit. Rocco (Alain Delon) versucht weiter, die Familie zusammenzuhalten, und übernimmt die Folgen für den Bruder. Der Vertrag macht diese Selbstaufgabe greifbar: Er bindet seine eigene Zukunft an die Tilgung fremder Schulden und verschiebt einen eigenen Lebensentwurf.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ciro verständigt nach Simones Mordgeständnis die Polizei.",
+      "question": "Wie reagiert Ciro (Max Cartier) in „Rocco und seine Brüder“, als Simone den Mord an Nadia gesteht?",
+      "answers": [
+        "Er geht zur Polizei, obwohl Rocco Simone weiter schützen will.",
+        "Er organisiert mit Rocco eine gemeinsame Flucht nach Frankreich.",
+        "Er überredet seine Mutter, das Geständnis zu verschweigen.",
+        "Er übernimmt öffentlich die Verantwortung für Simones Tat."
+      ],
+      "short": "Ciro setzt der familiären Deckung eine Grenze und verständigt die Polizei.",
+      "context": "Die Familie feiert gerade Roccos (Alain Delon) sportlichen Erfolg, als Simone (Renato Salvatori) seine Tat offenbart. Rocco möchte den Bruder weiterhin bewahren. Ciro (Max Cartier) widerspricht dieser Loyalität, weil sie auch das schwere Verbrechen verdecken würde. Die Brüder vertreten damit unvereinbare Vorstellungen davon, was Verantwortung für die Familie verlangt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Roccos erfolgreicher Boxkampf steht zeitlich neben Simones Mord an Nadia.",
+      "question": "Welchen Gegensatz verbindet „Rocco und seine Brüder“ in der Zuspitzung zwischen Sport und Familientragödie?",
+      "answers": [
+        "Rocco gewinnt im Ring, während Simone Nadia tötet.",
+        "Simone wird Boxmeister, während Rocco den Vater beerdigt.",
+        "Rocco verliert den Kampf, während Simone seine Hochzeit feiert.",
+        "Simone gewinnt im Ring, während Rocco Ciro bei der Polizei anzeigt."
+      ],
+      "short": "Roccos sportlicher Triumph fällt mit Simones Mord zusammen.",
+      "context": "Nadia (Annie Girardot) hat Simone (Renato Salvatori) zurückgewiesen; er beantwortet den Verlust seiner Macht über sie mit tödlicher Gewalt. Während Rocco (Alain Delon) öffentlich Erfolg erringt, zerbricht die Familie an der Tat des Bruders. Die anschließende Feier lässt sich deshalb nicht von der gleichzeitig eingetretenen Katastrophe trennen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "bfiessay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Originalkameramann Giuseppe Rotunno beaufsichtigte die Bildkorrektur der 4K-Restaurierung.",
+      "question": "Wer betreute bei der 4K-Restaurierung von „Rocco und seine Brüder“ die Bildkorrektur aus eigener Kenntnis der ursprünglichen Kameraarbeit?",
+      "answers": [
+        "Giuseppe Rotunno",
+        "Vittorio Storaro",
+        "Carlo Di Palma",
+        "Tonino Delli Colli"
+      ],
+      "short": "Der ursprüngliche Kameramann Giuseppe Rotunno beaufsichtigte die Bildkorrektur.",
+      "context": "Das Originalnegativ war teilweise durch Schimmel geschädigt. Einzelne Bilder mussten deshalb aus einem historischen Interpositiv ergänzt werden. Die Restaurierung konnte auf Rotunnos Kenntnis der ursprünglichen Schwarzweißfotografie zurückgreifen. Es ging um die Wiederherstellung der vorhandenen Bildgestaltung, deren Mailänder Straßen, Wohnräume und Boxringe einen wesentlichen Teil des Films ausmachen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "restaurierung",
+        "bfiessay"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Rocco e i suoi fratelli wurde 1960 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Rocco und seine Brüder“ erstmals?",
+      "answers": [
+        "1960",
+        "1954",
+        "1957",
+        "1964"
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 1960.",
+      "context": "Drei Jahre nach diesem Familiendrama standen Paolo Stoppa und Claudia Cardinale 1963 erneut für Visconti vor der Kamera, nun in „Der Leopard“. Dort spielten sie Vater und Tochter. Die personelle Verbindung führt vom industriellen Mailand der Gegenwart in eine historische Gesellschaft im Umbruch, deren soziale Machtverhältnisse sich ebenfalls verändern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "bfiessay"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Luchino Visconti inszenierte Rocco e i suoi fratelli.",
+      "question": "Wer führte bei „Rocco und seine Brüder“ mit Alain Delon und Annie Girardot Regie?",
+      "answers": [
+        "Luchino Visconti",
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Francesco Rosi"
+      ],
+      "short": "Die Regie führte Luchino Visconti.",
+      "context": "Visconti verbindet ein Ensemble unterschiedlicher Brüder mit dem Wandel einer ganzen Stadtgesellschaft. Ihre Mutter Rosaria (Katina Paxinou) möchte die Einheit der Familie erhalten. Die wirtschaftlichen Möglichkeiten im Norden lösen jedoch verschiedene Wünsche und Konflikte aus. Wohnverhältnisse, Arbeit und persönliche Bindungen bleiben deshalb miteinander verflochten, auch wenn die Handlung zur Tragödie wird.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "museum",
+        "bfiessay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
