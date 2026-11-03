@@ -2610,3 +2610,8 @@ Sechs Western mit 48 neuen globalen Zielen integriert; Western 145, Arthouse 155
 #### Fortsetzung 03.11.2026 – Musik W29: 150 Filme erreicht
 
 Fünf Musikfilme mit 40 neuen globalen Zielen integriert; Musik 150, Arthouse 157, Classics 228. Vollständige zentrale und unabhängige Gegenlesung. Kamerafrage ohne ableitbaren Wortlauthinweis und vergleichbare Optionen zur nachträglichen Sichtung; Charlotte Zwerin im vollständigen Regieteam. Monterey-Erstjahr 1968 und Frank-Koproduktion quellengeprüft. Alle 1.480 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 68 Pakete / 16.775 Fragen / 16.087 Ziele; 316 Genreergänzungen offen. Musik-Ziel erfüllt, Ausbau mit den übrigen Genres fortgesetzt.
+
+
+#### Fortsetzung 03.11.2026 – Horror W30
+
+Sechs Horrorfilme mit 48 neuen globalen Zielen integriert; Horror109. Vollständige zentrale und unabhängige Gegenlesung; Handlungsmotive, Tunnelwege und Produktionskonzepte mit vergleichbaren Optionen. Gabriadze-Namensvarianten als eine Regieperson erklärt; öffentliche Festivaljahre und spätere Starts sauber getrennt. Unknown User/Wyrmwood jeweils Teil1. Alle 1.528 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 69 Pakete / 16.823 Fragen / 16.135 Ziele; 310 Genreergänzungen offen.
