@@ -1,0 +1,240 @@
+{
+  "id": "ABENTEUER-032",
+  "film_title_de": "Drei Fremdenlegionäre",
+  "film_title_original": "Beau Geste",
+  "film_year": 1939,
+  "genre": "Abenteuer",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Die Kombination aus Gary Cooper, Fremdenlegion und dem Originaltitel Beau Geste ist im klassischen Abenteuerkino bekannt; die konkrete Fassung ist kein heutiger Breitentitel.",
+  "selection_reason": "Das Wüstenfort und die Brüderloyalität werden mit einer rückblickend aufgelösten Familiengeschichte um ein gestohlenes Juwel verbunden.",
+  "directors": [
+    "William A. Wellman"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung am 24. Juli 1939 laut AFI. Die gleichnamigen Fassungen von 1926 und 1966 sind getrennte Filme.",
+  "director_note": "William A. Wellman führte Regie und produzierte. Eine frühere Planung mit Henry Hathaway wurde nicht als solche realisiert.",
+  "country_note": "Amerikanische Paramount-Produktion; die englische Familiengeschichte und die französische Legion in Nordafrika bestimmen keine weiteren Produktionsländer.",
+  "series": null,
+  "series_note": "Die 1939er Fassung ist eine eigenständige Neuverfilmung. Romanfortsetzungen und deren frühere Stummfilm-/Tonfilmadaptionen begründen keine nummerierte Fortsetzungslinie dieser Besetzung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/5120-BEAU-GESTE",
+    "https://www.tcm.com/articles/87376/beau-geste-1939"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/5120-BEAU-GESTE",
+      "accessed_on": "2026-11-03",
+      "supports": "Land, Hauptregie, Erststart, Figurencredits, Roman 1924, Familiengeschichte, Fort, Markoffs Juwelenabsicht, Wikingerbegräbnis und falscher Saphir. Zur genauen Tötung Markoffs weicht der Synopsistext von der ergänzenden Handlungsquelle ab; dieses Detail wird nicht abgefragt."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/87376/beau-geste-1939",
+      "accessed_on": "2026-11-03",
+      "supports": "James Steffens Essay: Fort-Leichen, Brüder und Juwel, Wellman, Besetzung, frühere Fassung 1926, Drehort Yuma und Montage von Cooper-Material in Feldmans Parodie 1977."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Beau_Geste_(1939_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige Handlungsdarstellung, Tote an den Schießscharten, Digbys Feuerbestattung, Rückkehr Johns und Enthüllung des falschen Saphirs."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Gary Cooper spielt Michael Beau Geste, den ältesten der drei Brüder.",
+      "question": "Wer spielt in „Drei Fremdenlegionäre“ Michael „Beau“ Geste, dessen Brüder ihm nach einem Juwelendiebstahl folgen?",
+      "answers": [
+        "Gary Cooper",
+        "Clark Gable",
+        "Joel McCrea",
+        "Spencer Tracy"
+      ],
+      "short": "Gary Cooper spielt Beau Geste.",
+      "context": "Beau Geste (Gary Cooper) lebt mit seinen Brüdern John (Ray Milland) und Digby (Robert Preston) in England. Als ein wertvoller Saphir verschwindet, übernimmt Beau schriftlich die Verantwortung und verlässt das Haus. Die Brüder folgen ihm schließlich zur Fremdenlegion. Ihr Zusammenhalt gerät dort unter Druck, weil der Vorgesetzte von dem Juwel erfährt und es selbst besitzen möchte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Beau verlässt das Familienhaus nach dem Verschwinden des Saphirs und hinterlässt ein Schuldbekenntnis.",
+      "question": "Welches Ereignis bringt die Brüder in „Drei Fremdenlegionäre“ dazu, ihr englisches Zuhause zu verlassen?",
+      "answers": [
+        "Ein Saphir verschwindet, und Beau nimmt die Schuld auf sich.",
+        "Ein Onkel verkauft das Familiengut und verstößt die Brüder.",
+        "Ein verbotenes Duell endet mit dem Tod eines Adeligen.",
+        "Eine Spielschuld führt zur Verhaftung ihrer Pflegemutter."
+      ],
+      "short": "Der verschwundene Saphir und Beaus Geständnis lösen den Aufbruch aus.",
+      "context": "Der „Blue Water“ ist der letzte große Vermögenswert im Haushalt von Lady Patricia Brandon (Heather Thatcher). Bei einer Vorführung geht das Licht aus, und danach fehlt der Saphir. Beau Geste (Gary Cooper) verschwindet mit einem Bekenntnis zum Diebstahl. Digby (Robert Preston) und John (Ray Milland) bleiben nicht zurück, sondern suchen ihren Bruder und treten ebenfalls der Legion bei.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Toten werden an ihren Posten aufgestellt, um eine weiterhin starke Verteidigung des Forts vorzutäuschen.",
+      "question": "Warum stehen in „Drei Fremdenlegionäre“ tote Soldaten an den Schießscharten des Forts?",
+      "answers": [
+        "Sie sollen den Angreifern eine größere Besatzung vortäuschen.",
+        "Sie sollen als Warnung für mögliche Deserteure dienen.",
+        "Sie sollen einen nächtlichen Abtransport durch das Tor verdecken.",
+        "Sie sollen den Gegnern das Angebot zur Kapitulation signalisieren."
+      ],
+      "short": "Die Toten täuschen noch kampfbereite Verteidiger vor.",
+      "context": "Ein Entsatztrupp findet das Fort scheinbar noch besetzt, aber die Männer an den Stellungen sind bereits tot. Erst die Rückblende erklärt das unheimliche Bild: Während wiederholter Angriffe schrumpft die Garnison. Markoff (Brian Donlevy) lässt die Gefallenen an ihren Plätzen aufrichten. So soll der Gegner nicht erkennen, wie wenige Verteidiger überhaupt noch kämpfen können.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tcm",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Markoff versucht, den Saphir in Beaus Besitz an sich zu bringen.",
+      "question": "Welches persönliche Ziel verfolgt Sergeant Markoff (Brian Donlevy) gegenüber den Geste-Brüdern in „Drei Fremdenlegionäre“?",
+      "answers": [
+        "Er will den gestohlenen Saphir an sich bringen.",
+        "Er will sie zur Abtretung ihres englischen Erbes zwingen.",
+        "Er will sie als Mittelsmänner für illegalen Waffenhandel benutzen.",
+        "Er will mit ihren belastenden Briefen einen Vorgesetzten erpressen."
+      ],
+      "short": "Markoff will sich den vermeintlich wertvollen Saphir aneignen.",
+      "context": "Ein anderer Rekrut hört die Brüder über das Juwel sprechen und lenkt Markoffs (Brian Donlevy) Aufmerksamkeit darauf. Der Sergeant trennt Digby (Robert Preston) von Beau (Gary Cooper) und John (Ray Milland) und bringt die beiden anderen in das entlegene Fort. Dort fallen militärische Macht und persönliche Habgier zusammen. Selbst während der Belagerung lässt ihn der vermutete Schatz nicht los.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Digby erfüllt Beaus Kindheitswunsch nach einer Feuerbestattung wie bei den Wikingern.",
+      "question": "Warum legt Digby (Robert Preston) nach dem Kampf in „Drei Fremdenlegionäre“ im Fort Feuer?",
+      "answers": [
+        "Er erfüllt Beaus Wunsch nach einer Feuerbestattung wie bei den Wikingern.",
+        "Er vernichtet die Briefe, die seine Brüder als Diebe belasten könnten.",
+        "Er will die außerhalb wartenden Verstärkungen in einen Hinterhalt locken.",
+        "Er zerstört das Arsenal, bevor er mit den letzten Soldaten abzieht."
+      ],
+      "short": "Digby gibt Beau die von ihm gewünschte Wikingerbestattung.",
+      "context": "Digby Geste (Robert Preston) kommt mit den Verstärkungen zu spät, um Beau (Gary Cooper) zu retten. Im Fort findet er seinen toten Bruder und erinnert sich an dessen Wunsch aus Kindertagen. Er richtet eine Feuerbestattung her und verlässt anschließend die Legion, um John (Ray Milland) zu folgen. Die Flammen, die der Entsatztrupp sieht, gehören damit zur Erfüllung eines alten Versprechens.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Beau hatte nur eine Imitation gestohlen, um Lady Brandons früheren Verkauf des echten Saphirs zu verbergen.",
+      "question": "Was enthüllt Beaus letzter Brief über den Saphirdiebstahl in „Drei Fremdenlegionäre“?",
+      "answers": [
+        "Er stahl eine Imitation, um den früheren Verkauf des Originals zu verdecken.",
+        "Er tauschte den echten Stein gegen Geld für Johns Flucht aus der Legion.",
+        "Er gab den echten Stein einem Offizier zur Bestechung von Markoff.",
+        "Er nahm den Stein zurück, weil seine Pflegemutter ihn gestohlen hatte."
+      ],
+      "short": "Beau wollte seine Pflegemutter schützen und nahm nur den falschen Stein.",
+      "context": "Als Kind hatte Beau (Donald O'Connor) aus einem Versteck beobachtet, wie Lady Patricia Brandon (Heather Thatcher) den echten Saphir verkaufte. Der erwachsene Beau (Gary Cooper) erkennt später, dass im Haus nur noch ein Ersatzstück liegt. Mit dem vorgetäuschten Diebstahl schützt er sie vor den Vorwürfen ihres verschwenderischen Mannes. Erst der Brief, den John (Ray Milland) nach England bringt, erklärt seine Absicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Drei Fremdenlegionäre mit Gary Cooper erschien 1939.",
+      "question": "Aus welchem Jahr stammt „Drei Fremdenlegionäre“ mit Gary Cooper und Ray Milland?",
+      "answers": [
+        "1939",
+        "1930",
+        "1934",
+        "1946"
+      ],
+      "short": "Diese Fassung erschien 1939.",
+      "context": "Die Neuverfilmung folgte 1939 auf Herbert Brenons Stummfilm von 1926 mit Ronald Colman. Noch 1977 wirkte die Cooper-Fassung in einer anderen Form weiter: Marty Feldmans Parodie „The Last Remake of Beau Geste“ montierte Ausschnitte aus ihr so, dass Feldman scheinbar mit Gary Cooper sprach. Zwischen beiden Filmen lagen 38 Jahre; die Begegnung entstand am Schneidetisch.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "William A. Wellman führte Regie bei Drei Fremdenlegionäre von 1939.",
+      "question": "Wer führte bei „Drei Fremdenlegionäre“ mit Gary Cooper Regie?",
+      "answers": [
+        "William A. Wellman",
+        "Henry Hathaway",
+        "Herbert Brenon",
+        "Raoul Walsh"
+      ],
+      "short": "William A. Wellman führte Regie.",
+      "context": "William A. Wellman inszenierte und produzierte diese Bearbeitung nach einem Drehbuch von Robert Carson. Für die Wüstenszenen arbeitete das Team bei Yuma in Arizona an einem Gebiet, das bereits die Verfilmung von 1926 genutzt hatte. Der Film beginnt mit einem Rätselbild des verlassenen Forts und lässt seine Familiengeschichte rückblickend erklären, wie es zu diesem scheinbar gespenstischen Zustand kam.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

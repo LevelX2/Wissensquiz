@@ -1,0 +1,253 @@
+{
+  "id": "ABENTEUER-028",
+  "film_title_de": "Im Zeichen des Zorro",
+  "film_title_original": "The Mark of Zorro",
+  "film_year": 1940,
+  "genre": "Abenteuer",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Zorro ist eine bekannte Figur; die Schwarzweißfassung mit Tyrone Power hat heute einen spezielleren Wiedererkennungswert als spätere Kino- und Fernsehbearbeitungen.",
+  "selection_reason": "Die Doppelidentität verbindet politisches Aufstandsabenteuer, romantische Verwicklungen und Fechtfilm. Entscheidend ist die konkrete Power-Fassung, nicht ein allgemeines Zorro-Porträt.",
+  "directors": [
+    "Rouben Mamoulian"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Premiere am 1. November 1940 in Cincinnati, Tyrone Powers Heimatstadt; regulärer Start am 8. November laut AFI. Disney Archives bestätigt den historischen 1940er Start.",
+  "director_note": "Rouben Mamoulian allein; Lynn Shores ist im AFI als Regisseur der zweiten Einheit ausgewiesen.",
+  "country_note": "Amerikanische Fox-Produktion laut AFI; das historische Kalifornien gehört zur Handlung.",
+  "series": null,
+  "series_note": "Eigenständige Neubearbeitung des McCulley-Stoffs. Die 1920er Fairbanks-Fassung und spätere Zorro-Bearbeitungen sind keine nummerierten Fortsetzungen dieser Handlung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/1001-THE-MARKOFZORRO",
+    "https://d23.com/80th-anniversary-the-mark-of-zorro/"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/1001-THE-MARKOFZORRO",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Figurenbesetzung, Länder, Premiere und Hauptregie gegenüber zweiter Einheit."
+    },
+    "archiv": {
+      "url": "https://d23.com/80th-anniversary-the-mark-of-zorro/",
+      "accessed_on": "2026-11-03",
+      "supports": "Disney Archives: Mamoulian, Power, Darnell und Bromberg, McCulleys Erzählung 1919, Erstverfilmung 1920 und eigenständige Fox-Bearbeitung 1940."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/10-great-swashbucklers",
+      "accessed_on": "2026-11-03",
+      "supports": "BFI-Filmeintrag zu Zorro 1940: Mamoulian, Tagespersona gegenüber maskiertem Helden, Fechtduell mit Rathbone und Newmans Musik."
+    },
+    "steinberg": {
+      "url": "https://www.tcm.com/articles/24074/the-mark-of-zorro-1940",
+      "accessed_on": "2026-11-03",
+      "supports": "Jay Steinbergs vollständiger indizierter Essay gelesen: Alejandro aus dem Amt verdrängt, Steuern und Pasquales Gewalt, Diegos öffentliche Tarnung, politische Heirat mit Lolita, Felipe verteilt Zorros Beute, Fechtduell und Mamoulians Bewegungsmontage."
+    },
+    "handlung": {
+      "url": "https://it.wikipedia.org/wiki/Il_segno_di_Zorro_(film_1940)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung tatsächlich gelesen: erzwungene Abdankung Alejandros, Heiratsbündnis, Felipes Festnahme mit Beute, Quinteros beinahe unterschriebener Rücktritt vor Pasquales Duell, Diego verhaftet, gemeinsame Flucht mit Felipe und öffentlicher Wiedereinsetzung Alejandros nach Aufstand."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Tyrone Power spielt Diego Vega und dessen maskierte Identität Zorro.",
+      "question": "Wer spielt in „Im Zeichen des Zorro“ von 1940 den scheinbar harmlosen Diego Vega und dessen maskierte Heldenfigur?",
+      "answers": [
+        "Tyrone Power",
+        "Errol Flynn",
+        "Douglas Fairbanks Jr.",
+        "Stewart Granger"
+      ],
+      "short": "Tyrone Power spielt Diego Vega und Zorro.",
+      "context": "Diego Vega (Tyrone Power) kehrt nach seiner Ausbildung in Spanien nach Kalifornien zurück. Dort hat ein korrupter neuer Amtsträger seinen Vater verdrängt. Diego verbirgt seine Fechtkunst und führt öffentlich das Leben eines unbeteiligten jungen Edelmanns. Unter der Maske bekämpft er dieselben Machthaber, denen er am Tag scheinbar höflich und ohne Widerstand begegnet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "archiv",
+        "steinberg"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Diego tarnt seine Fähigkeiten durch die Rolle eines verweichlichten, modebewussten Müßiggängers.",
+      "question": "Mit welcher öffentlichen Rolle schützt Diego (Tyrone Power) in „Im Zeichen des Zorro“ seine geheime Identität?",
+      "answers": [
+        "Er gibt sich als verweichlichter, modischer Müßiggänger.",
+        "Er tritt als schweigsamer, strenggläubiger Geistlicher auf.",
+        "Er tarnt sich als verarmter, umherziehender Landarbeiter.",
+        "Er spielt einen trunksüchtigen, entlassenen Unteroffizier."
+      ],
+      "short": "Diego wirkt tagsüber absichtlich eitel und ungefährlich.",
+      "context": "Diego Vega (Tyrone Power) kann hervorragend mit dem Degen umgehen, zeigt das aber nicht offen. Seine Aufmerksamkeit für Mode und höfische Umgangsformen lässt ihn als möglichen Gegner unbedeutend erscheinen. Diese Maske irritiert auch Lolita Quintero (Linda Darnell), die den mutigen Zorro liebt. Sie begreift erst später, dass der vermeintliche Schwächling und der maskierte Kämpfer dieselbe Person sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi",
+        "steinberg"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Don Alejandro wurde als Alcalde durch den korrupten Quintero verdrängt.",
+      "question": "Welche Veränderung entdeckt Diego (Tyrone Power) bei seiner Heimkehr in „Im Zeichen des Zorro“?",
+      "answers": [
+        "Sein Vater wurde als Ortsvorsteher von Quintero verdrängt.",
+        "Sein Vater hat die Familiengüter an eine Bergbaugesellschaft verkauft.",
+        "Sein Vater steht wegen einer gescheiterten Meuterei vor Gericht.",
+        "Sein Vater führt bereits einen bewaffneten Aufstand gegen Spanien."
+      ],
+      "short": "Don Alejandro hat sein Amt als Alcalde an Quintero verloren.",
+      "context": "Don Alejandro Vega (Montagu Love) war der Alcalde des Ortes. Unter seinem Nachfolger Luis Quintero (J. Edward Bromberg) und dessen Hauptmann Esteban Pasquale (Basil Rathbone) leidet die Bevölkerung unter Gewalt und Ausbeutung. Diego Vega (Tyrone Power) kann gegen die Überzahl der Soldaten nicht offen antreten. Er versucht daher, die Herrschaft durch Überfälle, Täuschungen und die Drohung seiner verborgenen Identität zu erschüttern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "archiv",
+        "steinberg"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "objective": "Pasquale will die Familien Vega und Quintero durch eine Heirat Diegos mit Lolita verbinden.",
+      "question": "Welcher Vorschlag soll in „Im Zeichen des Zorro“ den politischen Gegensatz zwischen den Familien Vega und Quintero entschärfen?",
+      "answers": [
+        "Diego soll Quinteros Nichte Lolita heiraten.",
+        "Diego soll das Kommando über Quinteros Soldaten übernehmen.",
+        "Don Alejandro soll Quinteros Stellvertreter als Alcalde werden.",
+        "Pasquale soll mit Diego gemeinsam die Steuern verwalten."
+      ],
+      "short": "Eine Heirat zwischen Diego und Lolita soll die Familien versöhnen.",
+      "context": "Esteban Pasquale (Basil Rathbone) will den Gegensatz der beiden Familien durch eine Verbindung zwischen Diego Vega (Tyrone Power) und Lolita Quintero (Linda Darnell) entschärfen. Lolita hält Diego zunächst für einen eitlen Schwächling und wehrt sich gegen die Aussicht. Erst als sie seine Identität erkennt, kann sie die geplante Ehe mit ihrer Liebe zu Zorro vereinbaren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Festnahme Fray Felipes führt Diego in das Duell, das seine Tarnung zerstört.",
+      "question": "Welche Festnahme treibt Diego (Tyrone Power) in „Im Zeichen des Zorro“ dazu, Pasquale (Basil Rathbone) offen zum Duell herauszufordern?",
+      "answers": [
+        "Die seines Verbündeten Fray Felipe",
+        "Die seines Vaters Don Alejandro",
+        "Die seiner Geliebten Lolita",
+        "Die seines früheren Kameraden Rodrigo"
+      ],
+      "short": "Fray Felipes Festnahme führt zur offenen Konfrontation.",
+      "context": "Fray Felipe (Eugene Pallette) unterstützt Diego Vega (Tyrone Power). Als Hauptmann Esteban Pasquale (Basil Rathbone) den Geistlichen festnehmen lässt, wird aus dem versteckten Widerstand ein offener Kampf. Diego tötet den Hauptmann im Duell und offenbart damit Fähigkeiten, die nicht zu seiner bisherigen Tagespersona passen. Quintero (J. Edward Bromberg) schöpft Verdacht, verhaftet ihn und lässt ihn zum Tod verurteilen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Nach dem Sieg gegen Quintero kehrt Don Alejandro ins Amt des Alcalde zurück.",
+      "question": "Wie wird die politische Ordnung am Ende von „Im Zeichen des Zorro“ nach Quinteros Niederlage neu geregelt?",
+      "answers": [
+        "Don Alejandro übernimmt erneut das Amt des Alcalde.",
+        "Diego lässt sich selbst zum Gouverneur ausrufen.",
+        "Pasquales Stellvertreter erhält das Kommando über den Ort.",
+        "Lolita übernimmt als Quinteros Erbin die Verwaltung."
+      ],
+      "short": "Diegos Vater Don Alejandro wird wieder Alcalde.",
+      "context": "Diego Vega (Tyrone Power) überlistet im Gefängnis einen Wachmann und entkommt zusammen mit Fray Felipe (Eugene Pallette). Anschließend führt er Bauern und Caballeros gegen die Soldaten. Nach dem Sieg kehrt sein Vater Don Alejandro (Montagu Love) an die Spitze des Ortes zurück. Diego errichtet damit keine eigene persönliche Herrschaft, sondern beendet Quinteros gewaltsames Regime.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Im Zeichen des Zorro mit Tyrone Power erschien 1940.",
+      "question": "In welchem Jahr erschien „Im Zeichen des Zorro“ mit Tyrone Power erstmals?",
+      "answers": [
+        "1940",
+        "1934",
+        "1937",
+        "1946"
+      ],
+      "short": "Die Power-Fassung erschien 1940.",
+      "context": "Douglas Fairbanks hatte Zorro schon 1920 in einem Stummfilm gespielt. Zwanzig Jahre später entstand die neue Fox-Bearbeitung mit Tyrone Power. Ihr Arbeitstitel „The Californian“ sollte sie zunächst vom älteren Film unterscheiden. Die gemeinsame literarische Wurzel reicht noch weiter zurück: Johnston McCulleys Erzählung „The Curse of Capistrano“ erschien 1919 und begründete die Figur.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "archiv"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Rouben Mamoulian führte allein Hauptregie bei Im Zeichen des Zorro.",
+      "question": "Wer führte bei „Im Zeichen des Zorro“ mit Tyrone Power und Basil Rathbone Regie?",
+      "answers": [
+        "Rouben Mamoulian",
+        "Michael Curtiz",
+        "Fred Niblo",
+        "Henry King"
+      ],
+      "short": "Rouben Mamoulian inszenierte den Film.",
+      "context": "Rouben Mamoulian lässt Diegos verborgene und öffentliche Rolle aufeinanderprallen: Die Feinheiten der höfischen Selbstdarstellung stehen neben der Geschwindigkeit der Fechtszenen. Basil Rathbone bildet als Hauptmann den gefährlichen Gegner für Tyrone Powers Helden. Alfred Newman schrieb die für einen Oscar nominierte Musik. Die spätere Zorro-Parodie „Zorro, the Gay Blade“ von 1981 wurde Mamoulian gewidmet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

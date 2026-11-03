@@ -2590,3 +2590,8 @@ Sechs Musikfilme mit 48 Fragen integriert; 47 neue globale Ziele und eine besteh
 #### Fortsetzung 03.11.2026 – Musik W25
 
 Sechs Musikfilme mit 48 Fragen integriert; 46 neue globale Ziele und zwei bestehende Personenvarianten. Musik 145, Arthouse 149, Classics 217. Vollständige zentrale und unabhängige Gegenlesung; vier Frage-/Optionssätze nachgeschärft, zwei überlange Blöcke gekürzt. Get on Up durch zusätzliche gelesene Regieinterviews und konkrete Boston-Szenenkritik verbreitert. Alle 1.296 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 64 Pakete / 16.591 Fragen / 15.903 Ziele; 339 Genreergänzungen und ein überlappender Arthouse-Film offen.
+
+
+#### Fortsetzung 03.11.2026 – Abenteuer W26
+
+Sechs klassische Abenteuerfilme mit 48 neuen globalen Zielen integriert; Abenteuer 133, Arthouse 149, Classics 223. Vollständige zentrale und unabhängige Gegenlesung; drei konkrete Ablenkergruppen verbessert und Szenenquellen verbreitert. Haupt- und Zusatzregie bei Zenda getrennt, zwei offizielle Regisseure bei Quatermain vollständig; unterschiedliche Four-Feathers-Fassungen bewahrt. Alle 1.344 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 65 Pakete / 16.639 Fragen / 15.951 Ziele; 333 Genreergänzungen und ein überlappender Arthouse-Film offen.

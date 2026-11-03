@@ -1,0 +1,251 @@
+{
+  "id": "ABENTEUER-031",
+  "film_title_de": "Aufstand in Sidi Hakim",
+  "film_title_original": "Gunga Din",
+  "film_year": 1939,
+  "genre": "Abenteuer",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Cary Grant und der englische Originaltitel haben Wiedererkennungswert; der deutsche Titel ist gegenüber anderen Abenteuerklassikern weniger präsent.",
+  "selection_reason": "Drei britische Unteroffiziere und ein indischer Wasserträger stehen im Zentrum eines kolonialen Abenteuerfilms, der Kameradschaftskomödie, Schatzsuche und eine tragische Rettung verbindet.",
+  "directors": [
+    "George Stevens"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere in Los Angeles am 24. Januar 1939 vor dem regulären Februarstart laut AFI. Die Dreharbeiten 1938 begründen keine Erstveröffentlichung in jenem Jahr.",
+  "director_note": "George Stevens ist der alleinige Regisseur; der ursprünglich vorgesehene Howard Hawks realisierte den Film nicht.",
+  "country_note": "Amerikanische RKO-Produktion mit kalifornischen und arizonischen Drehorten; das koloniale Indien ist Handlungsschauplatz.",
+  "series": null,
+  "series_note": "Eigenständiger Film nach Kipling. Spätere motivisch verwandte Werke wie Soldiers Three und Sergeants 3 sind keine nummerierten Fortsetzungen dieser Figurenhandlung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/5125-GUNGA-DIN"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/5125-GUNGA-DIN",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Figurenbesetzung, Stevens gegenüber verworfener Hawks-Planung, Land, Premiere, Drehorte, Signal und posthume Ernennung."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/watchtcm/titles/3242",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Filmvorstellung und Clipbeschreibung mit Cutter, Din und dem Tempel; Regie, Besetzung und Filmjahr."
+    },
+    "kipling": {
+      "url": "https://www.kiplingsociety.co.uk/readers-guide/rg_gungadin1.htm",
+      "accessed_on": "2026-11-03",
+      "supports": "Erstveröffentlichung des Gedichts 1890, spätere Sammlung 1892, Inhalt mit Wasserträger und Rettungstat."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Gunga_Din_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung tatsächlich gelesen: Din möchte Soldat werden, Ballantines Heirats- und Teehandelsplan und erneute Verpflichtung für Cutter-Rettung, Goldtempel der Thuggee-Gruppe, tödliches Trompetensignal und posthume Corporal-Ernennung bei der Beisetzung."
+    },
+    "dreh": {
+      "url": "https://www.tcm.com/articles/372687/behind-the-camera-gunga-din",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener indizierter Produktionsessay John M. Millers: Dreharbeiten1938 bei Lone Pine, Tantapur- und Lagerbauten, Rückkehr für Oktoberfinale mit1500 Männern, Januar-Premieren1939; Stevens und Newman. Der hier genannte Produktionszeitraum wird nicht zum Erstjahr umgedeutet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Cary Grant spielt den schatzbesessenen Sergeant Cutter.",
+      "question": "Wer spielt in „Aufstand in Sidi Hakim“ den britischen Sergeant Cutter, der sich für verborgene Schätze begeistert?",
+      "answers": [
+        "Cary Grant",
+        "Errol Flynn",
+        "Tyrone Power",
+        "Ronald Colman"
+      ],
+      "short": "Cary Grant spielt Sergeant Cutter.",
+      "context": "Sergeant Cutter (Cary Grant) gehört mit MacChesney (Victor McLaglen) und Ballantine (Douglas Fairbanks Jr.) zu einem unzertrennlichen Trio. Ihr Auftrag beginnt mit der Untersuchung unterbrochener Telegrafenleitungen. Cutter lässt sich jedoch von der Aussicht auf Gold ablenken. Als ihn der Wasserträger Gunga Din (Sam Jaffe) zu einem Tempel führt, gerät seine private Schatzsuche in einen militärischen Konflikt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Gunga Din ist Wasserträger des britischen Regiments und möchte Soldat werden.",
+      "question": "Welche Arbeit verrichtet Gunga Din (Sam Jaffe) zu Beginn von „Aufstand in Sidi Hakim“ für das Regiment?",
+      "answers": [
+        "Er versorgt die Männer als Wasserträger.",
+        "Er betreut die Pferde als Hufschmied.",
+        "Er arbeitet als Dolmetscher des Kommandanten.",
+        "Er repariert als Mechaniker die Telegrafenanlage."
+      ],
+      "short": "Gunga Din arbeitet als Wasserträger.",
+      "context": "Gunga Din (Sam Jaffe) gehört nicht zu den britischen Soldaten, träumt aber davon, einer zu werden. Er hält sich in ihrer Nähe auf und hilft Sergeant Cutter (Cary Grant) bei dessen Suche nach Gold. Im entscheidenden Moment braucht das Regiment gerade seine Initiative. Die zuvor untergeordnete Hilfskraft kann die anrückenden Männer vor einer Falle warnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "kipling",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Ballantine will die Armee verlassen, Emmy heiraten und für eine Teefirma arbeiten.",
+      "question": "Warum will Ballantine (Douglas Fairbanks Jr.) in „Aufstand in Sidi Hakim“ seine beiden Freunde und die Armee verlassen?",
+      "answers": [
+        "Er will heiraten und eine Stelle bei einer Teefirma antreten.",
+        "Er will ein Familiengut erben und eine politische Laufbahn beginnen.",
+        "Er will als Zivilingenieur eine Eisenbahnlinie durch Indien bauen.",
+        "Er will als Schatzsucher eine eigene Expedition finanzieren."
+      ],
+      "short": "Ballantine plant die Ehe mit Emmy und eine zivile Arbeit bei einer Teefirma.",
+      "context": "Ballantine (Douglas Fairbanks Jr.) will Emmy Stebbins (Joan Fontaine) heiraten. MacChesney (Victor McLaglen) und Cutter (Cary Grant) können sich ihre Kameradschaft ohne ihn kaum vorstellen. Als Cutter im Tempel festsitzt, nutzt MacChesney den Rettungsbedarf, um Ballantine wieder einzuspannen. Die Rückkehr zu den Freunden steht so im Konflikt mit dem bereits geplanten Leben außerhalb der Armee.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der vermeintliche Goldtempel ist das geheime Heiligtum der gegnerischen Thuggee-Gruppe.",
+      "question": "Was entdecken Cutter (Cary Grant) und Gunga Din (Sam Jaffe) in „Aufstand in Sidi Hakim“ über den vermeintlichen Goldtempel?",
+      "answers": [
+        "Er ist das geheime Heiligtum der Thuggee-Gruppe.",
+        "Er ist ein getarntes britisches Munitionsdepot.",
+        "Er gehört einem Fürsten, der dort Geiseln versteckt.",
+        "Er ist eine verlassene Münzstätte ohne Verbindung zum Aufstand."
+      ],
+      "short": "Der Goldtempel dient den Gegnern als verborgenes Zentrum.",
+      "context": "Cutter (Cary Grant) sieht im goldenen Tempel zunächst die Erfüllung seiner Schatzträume. Zusammen mit Gunga Din (Sam Jaffe) entdeckt er dann die versammelten Gegner und ihre Pläne. Der Guru (Eduardo Ciannelli) will die britische Truppe in einen Hinterhalt locken. Cutter bleibt zurück, während Din Hilfe holen soll; das missverstandene Ausmaß der Gefahr führt dazu, dass zunächst nur die Freunde kommen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Gunga Din warnt die anrückende Truppe mit einem Trompetensignal vor dem Hinterhalt und stirbt dabei.",
+      "question": "Wie verhindert Gunga Din (Sam Jaffe) in „Aufstand in Sidi Hakim“, dass die anrückenden Soldaten ahnungslos in den Hinterhalt marschieren?",
+      "answers": [
+        "Er bläst auf einer Trompete ein Warnsignal.",
+        "Er sprengt vor ihnen die einzige Brücke zum Tempel.",
+        "Er setzt das Gras vor der Marschkolonne in Brand.",
+        "Er übermittelt über die reparierte Telegrafenleitung eine Warnung."
+      ],
+      "short": "Din warnt die Truppe mit einem Trompetensignal.",
+      "context": "Die drei Sergeants sitzen gefangen und müssen mit ansehen, wie sich die Truppe der vorbereiteten Falle nähert. Gunga Din (Sam Jaffe) schafft es, das Signal zu geben, obwohl er sich damit den Angreifern aussetzt. Die Warnung ermöglicht den Soldaten, den Hinterhalt abzuwehren. Din selbst bezahlt die Rettung mit seinem Leben; sein lang gehegter Soldatentraum erhält dadurch einen tragischen Abschluss.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Gunga Din wird nach seinem Tod zum Corporal ernannt und mit militärischen Ehren bestattet.",
+      "question": "Welche Anerkennung erhält Gunga Din am Ende von „Aufstand in Sidi Hakim“ nach seinem Tod?",
+      "answers": [
+        "Er wird zum Corporal ernannt und militärisch bestattet.",
+        "Ein Denkmal wird im Hof der Garnison errichtet.",
+        "Seine Familie erhält ein Landgut und eine Rente.",
+        "Sein Heimatdorf wird nach der Rettungstat umbenannt."
+      ],
+      "short": "Das Regiment nimmt ihn posthum als Corporal in die Armee auf.",
+      "context": "Gunga Din (Sam Jaffe) hatte sich als Wasserträger eine Stellung erträumt, die ihm zu Lebzeiten versagt blieb. Erst nach seiner tödlichen Warnung erkennt das Regiment ihn als Soldaten an. Die Beisetzung mit militärischen Ehren löst den Wunsch nach Zugehörigkeit daher nur noch posthum ein. Ballantine (Douglas Fairbanks Jr.) entscheidet zugleich, bei seinen Kameraden in der Armee zu bleiben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Aufstand in Sidi Hakim wurde 1939 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Aufstand in Sidi Hakim“ erstmals?",
+      "answers": [
+        "1939",
+        "1933",
+        "1936",
+        "1946"
+      ],
+      "short": "Der Film feierte 1939 Premiere.",
+      "context": "Rudyard Kiplings Gedicht „Gunga Din“ erschien erstmals 1890, 49 Jahre vor dem Film. Die bekannte Sammlung „Barrack-Room Ballads“ nahm es erst 1892 auf; dieses Sammlungsjahr ist nicht das Erstveröffentlichungsjahr des Gedichts. Der Film erweitert den Stoff um drei britische Sergeants, Schatzsuche und Tempelabenteuer, behält aber den Wasserträger und seine selbstlose Rettung als Mittelpunkt des Schlusses.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "kipling"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "George Stevens führte allein Regie bei Aufstand in Sidi Hakim.",
+      "question": "Wer führte bei „Aufstand in Sidi Hakim“ mit Cary Grant Regie?",
+      "answers": [
+        "George Stevens",
+        "Howard Hawks",
+        "John Sturges",
+        "John Ford"
+      ],
+      "short": "George Stevens inszenierte den Film.",
+      "context": "George Stevens übernahm ein Projekt, das zuvor für Howard Hawks vorgesehen gewesen war. Die in Indien angesiedelte Geschichte entstand an amerikanischen Drehorten, unter anderem bei Lone Pine und in Arizona. Das Abenteuer verbindet die Streiche des Sergeant-Trios mit einem zunehmend bedrohlichen Tempelszenario. John Sturges gehörte zum Schnittteam und drehte später mit „Sergeants 3“ eine verwandte Geschichte im Westernmilieu.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "dreh"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

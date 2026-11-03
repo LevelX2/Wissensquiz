@@ -1,0 +1,246 @@
+{
+  "id": "ABENTEUER-029",
+  "film_title_de": "Der Gefangene von Zenda",
+  "film_title_original": "The Prisoner of Zenda",
+  "film_year": 1937,
+  "genre": "Abenteuer",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Die Vorlage prägte den Doppelgänger- und Fürstenabenteuerfilm, doch die Ronald-Colman-Fassung ist heute vor allem einem an klassischem Kino interessierten Publikum bekannt.",
+  "selection_reason": "Ein Doppelgänger übernimmt die Krönung eines bedrohten Monarchen. Der anschließende Rettungsplan verbindet Hofintrige, Fechtabenteuer und einen Liebesverzicht aus Pflichtgefühl.",
+  "directors": [
+    "John Cromwell"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere in New York am 2. September 1937 laut AFI; regulärer US-Start am Folgetag. Spätere Neuverfilmungen sind getrennte Fassungen.",
+  "director_note": "Offizieller Hauptregiecredit John Cromwell. AFI verzeichnet gesondert George Cukor für hinzugefügte Szenen und W. S. Van Dyke für Fechtsequenzen; diese Zusatzarbeiten werden nicht als gleichrangiges offizielles Hauptregieteam ausgegeben.",
+  "country_note": "US-Produktion von Selznick International; der britische Held und das erfundene Ruritanien bestimmen nicht das Produktionsland.",
+  "series": null,
+  "series_note": "Eigenständige Bearbeitung des Hope-Romans; die früheren Stummfilme und das MGM-Remake von 1952 sind keine nummerierten Fortsetzungen dieser Fassung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/6948-THE-PRISONER-OF-ZENDA"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/6948-THE-PRISONER-OF-ZENDA",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Doppelrolle, Haupt- und Zusatzregie, Figurencredits, Land, Weltpremiere und Roman 1894 sowie Bühnenfassung 1896."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/watchtcm/titles/87182",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Filmvorstellung und Clipbeschreibungen mit Cromwell, Colman als Rassendyll und König sowie Carroll, Niven, Astor und Fairbanks Jr.; Filmjahr 1937."
+    },
+    "essay": {
+      "url": "https://www.tcm.com/articles/1074610/the-prisoner-of-zenda-1937",
+      "accessed_on": "2026-11-03",
+      "supports": "Roger Fristoes vollständiger indizierter Essay tatsächlich gelesen: Colmans Doppelrolle, betäubender Wein und Ersatzkrönung, Flavias vermeintlich gebesserter König, Michaels Heiratsabsicht/Antoinettes Gegenhilfe, Burggraben und Duell, Pflichtkonflikt Flavias; Selznick-Produktion und zeitgenössischer Krönungsbezug."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Prisoner_of_Zenda_(1937_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung gelesen: Antoinette fordert Michaels Verschonung, Exekutionsanweisung beim ersten Rettungszeichen, Schwimmen über den Graben, Michaels Tod durch Rupert, Zweikampf und Zugbrücke; Flavias abschließender Pflichtverzicht."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ronald Colman spielt sowohl Rudolf Rassendyll als auch den König Rudolf V.",
+      "question": "Wer verkörpert in „Der Gefangene von Zenda“ von 1937 sowohl den englischen Besucher als auch den ihm verblüffend ähnlichen König?",
+      "answers": [
+        "Ronald Colman",
+        "Leslie Howard",
+        "Robert Donat",
+        "William Powell"
+      ],
+      "short": "Ronald Colman spielt beide Rudolfs.",
+      "context": "Rudolf Rassendyll (Ronald Colman) besucht Ruritanien und trifft dort seinen entfernten Verwandten, König Rudolf V. (ebenfalls Ronald Colman). Beide sehen einander zum Verwechseln ähnlich. Als der Monarch vor seiner Krönung betäubt wird, übernimmt der Engländer seinen Platz. Die Doppelrolle ist daher keine Verwandlung einer Figur, sondern das Spiel zweier verschiedener Männer durch denselben Darsteller.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Rassendyll vertritt den betäubten König bei dessen Krönung.",
+      "question": "Welche Aufgabe übernimmt Rassendyll (Ronald Colman) zunächst anstelle seines Doppelgängers in „Der Gefangene von Zenda“?",
+      "answers": [
+        "Er lässt sich an dessen Stelle zum König krönen.",
+        "Er tritt an dessen Stelle zu einem Ehrenduell an.",
+        "Er führt an dessen Stelle eine Friedensgesandtschaft an.",
+        "Er heiratet an dessen Stelle heimlich eine Prinzessin."
+      ],
+      "short": "Rassendyll muss den König bei der Krönung vertreten.",
+      "context": "Der Wein des Königs Rudolf V. (Ronald Colman) wird vor dem Festakt mit einem Betäubungsmittel versetzt. Sein Halbbruder Michael (Raymond Massey) will das Ausbleiben zur Machtübernahme nutzen. Oberst Zapt (C. Aubrey Smith) hilft deshalb dem Doppelgänger Rassendyll (ebenfalls Colman), die Krönung zu bestehen. Danach kann der Engländer jedoch nicht sofort zurücktreten: Der echte König ist inzwischen verschleppt worden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Flavia verliebt sich in den Doppelgänger, weil sie ihn für einen zum Guten veränderten König hält.",
+      "question": "Warum erwidert Flavia (Madeleine Carroll) in „Der Gefangene von Zenda“ plötzlich die Zuneigung des vermeintlichen Königs?",
+      "answers": [
+        "Sie hält den Doppelgänger für einen charakterlich gebesserten Monarchen.",
+        "Sie hat erfahren, dass er heimlich auf seinen Thron verzichten will.",
+        "Sie weiß bereits, dass er sie als englischer Verwandter aus dem Land bringen wird.",
+        "Sie glaubt, er habe Michael ohne Blutvergießen zur Aufgabe bewegt."
+      ],
+      "short": "Flavia deutet Rassendylls Verhalten als positive Veränderung des Königs.",
+      "context": "Prinzessin Flavia (Madeleine Carroll) ist dem König Rudolf V. (Ronald Colman) als künftige Gemahlin zugedacht. An dem Mann nach der Krönung entdeckt sie Zuvorkommenheit und eine neue Verlässlichkeit. Was sie als Besserung deutet, beruht jedoch auf dem Austausch gegen Rassendyll (ebenfalls Colman). So entsteht eine echte Liebe innerhalb einer politischen Täuschung, deren Auflösung beide vor eine Entscheidung stellt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Antoinette bietet Hilfe bei der Königsrettung unter der Bedingung, dass Michael geschont wird.",
+      "question": "Welche Bedingung knüpft Antoinette (Mary Astor) in „Der Gefangene von Zenda“ an ihre Hilfe bei der Rettung des Königs?",
+      "answers": [
+        "Michael soll am Leben bleiben.",
+        "Rassendyll soll sie heiraten.",
+        "Rupert soll den Thron erhalten.",
+        "Flavia soll das Land verlassen."
+      ],
+      "short": "Antoinette verlangt, dass Michael verschont wird.",
+      "context": "Antoinette (Mary Astor) liebt Michael (Raymond Massey), dessen Plan ihr zugleich die Aussicht auf eine gemeinsame Zukunft nimmt: Als König müsste er Flavia (Madeleine Carroll) heiraten. Sie bietet Rassendyll (Ronald Colman) deshalb Zugang zum Gefangenen an und gibt ihm einen Ohrring als Erkennungszeichen für einen Boten. Ihre Hilfe richtet sich gegen Michaels Staatsstreich, soll aber nicht zu seinem Tod führen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Rassendyll muss den König vor einem offenen Angriff befreien, weil die Wachen ihn beim ersten Alarm töten würden.",
+      "question": "Welcher Befehl für den Angriffsfall erzwingt in „Der Gefangene von Zenda“ eine heimliche Königsrettung vor dem Sturm auf die Burg?",
+      "answers": [
+        "Den König beim ersten Alarm töten",
+        "Den König durch einen Geheimgang fortbringen",
+        "Den König als Schild auf die Mauer stellen",
+        "Den König als Soldaten verkleiden"
+      ],
+      "short": "Der Gefangene ist durch eine Tötungsanweisung gegen einen offenen Sturm gesichert.",
+      "context": "Rassendyll (Ronald Colman) schwimmt heimlich über den Burggraben zum Zimmer von Antoinette (Mary Astor). Er muss die Bewacher erreichen, bevor Oberst Zapt (C. Aubrey Smith) und seine Männer einrücken können. Doch Rupert von Hentzau (Douglas Fairbanks Jr.) stört den Plan, tötet Michael (Raymond Massey) und verhindert zunächst das Herablassen der Zugbrücke. Rassendyll muss Königsrettung und Öffnung des Zugangs im Inneren erkämpfen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Flavia verzichtet aus Pflichtgefühl auf Rassendyll und wird Königin an der Seite des wirklichen Königs.",
+      "question": "Welche Entscheidung trifft Flavia (Madeleine Carroll), nachdem die Verwechslung in „Der Gefangene von Zenda“ aufgeklärt ist?",
+      "answers": [
+        "Sie verzichtet auf Rassendyll und erfüllt ihre Pflicht als künftige Königin.",
+        "Sie verlässt Ruritanien heimlich gemeinsam mit Rassendyll.",
+        "Sie erklärt den geretteten König für abgesetzt und übernimmt selbst den Thron.",
+        "Sie bittet Rupert, sie als Regentenpaar an der Macht zu halten."
+      ],
+      "short": "Flavia entscheidet sich für ihre Verpflichtung gegenüber Ruritanien.",
+      "context": "Der wirkliche König Rudolf V. (Ronald Colman) überlebt und verspricht, ein besserer Herrscher zu werden. Flavia (Madeleine Carroll) kennt nun die Wahrheit über Rassendyll (ebenfalls Colman), den sie liebt. Fast gibt sie ihre Stellung für ihn auf, entscheidet sich dann aber für die Verantwortung als Königin. Die politische Ordnung wird gerettet, während das Liebespaar auf seine gemeinsame Zukunft verzichtet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Gefangene von Zenda mit Ronald Colman wurde 1937 erstmals veröffentlicht.",
+      "question": "Aus welchem Jahr stammt „Der Gefangene von Zenda“ mit Ronald Colman und Madeleine Carroll?",
+      "answers": [
+        "1937",
+        "1931",
+        "1940",
+        "1946"
+      ],
+      "short": "Diese Verfilmung erschien 1937.",
+      "context": "Anthony Hopes Roman wurde 1894 veröffentlicht, 43 Jahre vor dieser Filmfassung. Hinzu kam eine Bühnenbearbeitung von Edward E. Rose aus dem Jahr 1896, die ebenfalls zu den Vorlagen zählt. Selznicks Film feierte im September 1937 in New York Weltpremiere. Das Königreich Ruritanien ist ein erfundener Schauplatz; die englischen Hauptfiguren und der höfische Stil bezeichnen keine historische europäische Monarchie.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Cromwell ist der offiziell ausgewiesene Hauptregisseur von Der Gefangene von Zenda 1937.",
+      "question": "Wer ist der offiziell ausgewiesene Hauptregisseur von „Der Gefangene von Zenda“ mit Ronald Colman?",
+      "answers": [
+        "John Cromwell",
+        "Michael Curtiz",
+        "Henry Hathaway",
+        "Richard Thorpe"
+      ],
+      "short": "Der offizielle Regiecredit gehört John Cromwell.",
+      "context": "John Cromwell inszenierte die Produktion von David O. Selznick. Zur Herstellung gehörten auch zusätzliche Arbeiten: George Cukor drehte ergänzte Szenen, W. S. Van Dyke verantwortete Fechtsequenzen. Das ändert nicht den offiziellen Hauptregiecredit. Ronald Colmans Doppelrolle verbindet die höfische Täuschung mit einem persönlichen Konflikt, während der Schlusskampf die verdeckte Rettungsaktion in einen offenen Burgsturm überführt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

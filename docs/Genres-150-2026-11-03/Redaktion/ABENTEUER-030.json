@@ -1,0 +1,254 @@
+{
+  "id": "ABENTEUER-030",
+  "film_title_de": "Die vier Federn",
+  "film_title_original": "The Four Feathers",
+  "film_year": 1939,
+  "genre": "Abenteuer",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Die Geschichte ist durch mehrere Verfilmungen bekannt; die britische Technicolor-Fassung mit John Clements ist ein Klassiker des Abenteuerkinos mit begrenzter heutiger Breitenpräsenz.",
+  "selection_reason": "Die ältere Adaption erzählt den Bewährungsweg eines gesellschaftlich geächteten Offiziers mit eigener Figurenbesetzung und eigenständigen Rettungsaktionen. Sie ergänzt die bereits behandelte Fassung von 2002 ohne deren Details zu übertragen.",
+  "directors": [
+    "Zoltán Korda"
+  ],
+  "production_countries": [
+    "Großbritannien"
+  ],
+  "release_note": "Londoner Veröffentlichung im April 1939 vor dem US-Start im August desselben Jahres laut AFI. Das Erstveröffentlichungsjahr ist 1939, nicht ein Produktions- oder Copyrightjahr.",
+  "director_note": "Zoltán Korda allein. Alexander Korda produzierte, Vincent Korda gestaltete die Ausstattung; Geoffrey Boothby leitete die zweite Einheit.",
+  "country_note": "BFI und Rechteanbieter Criterion führen Großbritannien für die London-Films-Produktion. AFI nennt zusätzlich USA, führt dort aber nur United Artists als Verleih auf; für die Länderzuordnung werden hier BFI und Criterion gewichtet, die Abweichung bleibt ausdrücklich dokumentiert.",
+  "series": null,
+  "series_note": "Eigenständige Verfilmung des Mason-Romans. Andere Adaptionen einschließlich Storm Over the Nile und der Fassung von 2002 sind keine nummerierten Fortsetzungen.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/4234",
+    "https://www.criterion.com/films/27555-the-four-feathers"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/4234",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Darsteller, Londonstart 1939, Regie gegenüber zweiter Einheit, Roman 1902 sowie Übernahme des Arsenals. Abweichender Ländereintrag wird benannt."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/27555-the-four-feathers",
+      "accessed_on": "2026-11-03",
+      "supports": "Rechteanbieter: Großbritannien 1939, Korda-Brüder mit verschiedenen Aufgaben, Figurenbesetzung, Roman 1902 und Miklós Rózsas Musik."
+    },
+    "bfi": {
+      "url": "https://player.bfi.org.uk/rentals/film/watch-the-four-feathers-1939-online",
+      "accessed_on": "2026-11-03",
+      "supports": "BFI: Großbritannien 1939, Regie, Sudan-Handlung und Technicolor-Aufnahmen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Four_Feathers_(1939_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmhandlung erneut gelesen: Sangali-Tarnung und vierte Feder aus Ethnes Fächer, Harry führt erblindeten Durrance durch Wüste und über Nil zum Fort, zurückgelassene Feder, Gefangenenbefreiung und Einnahme des Arsenals, Rückkehr. Keine Übertragung der Fassung2002."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/2013-the-four-feathers-breaking-the-british-square",
+      "accessed_on": "2026-11-03",
+      "supports": "Michael Sragows vollständiger Essay tatsächlich gelesen: vierte Feder aus Ethnes Fächer, stumme Sangali-Tarnung, Brandmarkung, Durrances Erblindung und Harrys Rettung, Gefangene in Omdurman, Rückkehr und General-Burroughs-Anekdote; einzelne Arsenal- und Floßdetails stammen zusätzlich aus vollständiger Filmhandlung/AFI."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "John Clements spielt Harry Faversham in der Verfilmung von 1939.",
+      "question": "Wer spielt den geächteten Offizier Harry Faversham in „Die vier Federn“ mit Ralph Richardson und June Duprez?",
+      "answers": [
+        "John Clements",
+        "Robert Donat",
+        "Leslie Howard",
+        "Laurence Olivier"
+      ],
+      "short": "John Clements spielt Harry Faversham.",
+      "context": "Harry Faversham (John Clements) wächst im Schatten der militärischen Erwartungen seines Vaters auf. Als sein Regiment nach Afrika aufbrechen soll, gibt er sein Offizierspatent zurück. Seine Freunde deuten dies als Feigheit, und auch Ethne Burroughs (June Duprez) wendet sich von ihm ab. Harry reist später auf eigene Faust nach Afrika, um den Männern zu helfen, die ihn verurteilt haben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Harrys Bewährungsreise führt in den Sudan während der britischen Rückeroberung.",
+      "question": "In welchem Gebiet versucht Harry Faversham (John Clements) in „Die vier Federn“ seine ehemaligen Kameraden zu retten?",
+      "answers": [
+        "Im Sudan",
+        "In Afghanistan",
+        "In Südafrika",
+        "In Burma"
+      ],
+      "short": "Seine Reise führt in den Sudan.",
+      "context": "Der Feldzug knüpft an den Fall von Khartum und den Tod General Gordons an. Harry Faversham (John Clements) folgt dem britischen Regiment, ohne wieder als dessen Offizier aufzutreten. Sein Weg führt entlang des Nils zu einem verwüsteten Lager und weiter nach Omdurman. Der Film erzählt seine persönliche Bewährung innerhalb der britischen Eroberungsperspektive des Kolonialabenteuers.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Harry tarnt sich auf seiner Reise als stummer einheimischer Mann.",
+      "question": "Wie hält Harry (John Clements) in „Die vier Federn“ seine britische Herkunft während der Reise verborgen?",
+      "answers": [
+        "Er gibt sich als stummer Einheimischer aus.",
+        "Er tritt als französischer Handelsvertreter auf.",
+        "Er tarnt sich als türkischer Militärarzt.",
+        "Er begleitet die Truppen als amerikanischer Reporter."
+      ],
+      "short": "Harry reist in der Verkleidung eines stummen Einheimischen.",
+      "context": "Harry Faversham (John Clements) nimmt die Erscheinung eines Sangali an und spricht nicht, um seine Identität nicht preiszugeben. So kann er sich in Gebieten bewegen, in denen ein britischer Offizier sofort auffiele. Auch John Durrance (Ralph Richardson) erkennt den Mann nicht, der ihn rettet. Das Schweigen schützt Harry, erschwert aber zugleich, dass andere seine Absichten verstehen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Harry rettet den erblindeten Durrance und bringt ihn auf dem Nil in ein anderes Lager.",
+      "question": "Wie bringt Harry (John Clements) den hilflosen Durrance (Ralph Richardson) in „Die vier Federn“ schließlich wieder zu britischen Soldaten?",
+      "answers": [
+        "Er bringt ihn auf einem Floß den Nil hinunter.",
+        "Er führt ihn auf einem Kamel durch die Wüste.",
+        "Er schmuggelt ihn in einem Eisenbahnwaggon aus Omdurman.",
+        "Er versteckt ihn auf einem beladenen Ochsenkarren."
+      ],
+      "short": "Harry transportiert Durrance auf einem Floß über den Nil.",
+      "context": "Harry Faversham (John Clements) findet John Durrance (Ralph Richardson) als erblindeten Überlebenden eines vernichteten Lagers. Er führt und versorgt ihn, ohne sich zu erkennen zu geben. Am Ende der Fahrt lässt Harry bei ihm eine der weißen Federn zurück. Erst diese Spur verbindet die scheinbar fremde Hilfe mit dem Mann, den Durrance vor dem Aufbruch verachtet hatte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Harry nimmt die vierte Feder selbst aus Ethnes Fächer, weil er auch ihr Schweigen als Verurteilung versteht.",
+      "question": "Wie kommt Harry (John Clements) in „Die vier Federn“ dieser Fassung an die vierte weiße Feder?",
+      "answers": [
+        "Er nimmt sie selbst aus Ethnes Fächer.",
+        "Ethne schickt sie ihm in einem Abschiedsbrief.",
+        "Sein Vater legt sie auf seine abgelegte Uniform.",
+        "Der Regimentskommandeur überreicht sie bei einer Parade."
+      ],
+      "short": "Harry zieht die vierte Feder aus Ethnes Fächer.",
+      "context": "Drei Federn erreichen Harry Faversham (John Clements) mit den Karten seiner Offiziersfreunde. Ethne Burroughs (June Duprez) sagt nichts zu seiner Verteidigung. Er deutet ihre Reaktion als dieselbe Verurteilung und nimmt selbst eine Feder aus ihrem Fächer. Damit erhält die vierte Feder einen anderen Ursprung als die ausdrücklich eingesandten Zeichen seiner Kameraden; ihre Rückgabe betrifft auch die zerbrochene Verlobung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Harry und die Gefangenen nehmen das Arsenal ein und unterstützen von dort den britischen Angriff.",
+      "question": "Wie greifen Harry (John Clements) und die befreiten Gefangenen in „Die vier Federn“ in den letzten Kampf ein?",
+      "answers": [
+        "Sie besetzen das Arsenal und schießen auf die zurückweichenden Gegner.",
+        "Sie sprengen eine Nilbrücke und schneiden den Gegnern den Rückzug ab.",
+        "Sie öffnen die Schleusen und setzen das gegnerische Lager unter Wasser.",
+        "Sie entwenden die Pferde und verhindern den Angriff der Reiterei."
+      ],
+      "short": "Die Gefangenen erobern das Arsenal und wenden dessen Waffen gegen die Gegner.",
+      "context": "In Omdurman wird Harry Faversham (John Clements) selbst gefangen genommen, kann aber die anderen zum gemeinsamen Handeln bewegen. Als die britischen Truppen die gegnerischen Verbände zurückdrängen, übernehmen die Gefangenen das Arsenal. Mit den dortigen Waffen greifen sie in die Schlacht ein. Harry kehrt anschließend als anerkannter Retter nach England zurück und kann die übrigen Zeichen seiner Ächtung zurückgeben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die vier Federn mit John Clements wurde 1939 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Die vier Federn“ mit John Clements und Ralph Richardson erstmals?",
+      "answers": [
+        "1939",
+        "1933",
+        "1936",
+        "1947"
+      ],
+      "short": "Diese Technicolor-Verfilmung erschien 1939.",
+      "context": "A. E. W. Masons Roman wurde 1902 veröffentlicht; die Korda-Verfilmung folgte 37 Jahre später. Bereits vor ihr hatte es mehrere Kinobearbeitungen gegeben. Die Londoner Veröffentlichung im April 1939 lag vor dem amerikanischen Kinostart im August. Mit britischer Studioproduktion und Aufnahmen im Sudan verband der Film die familiäre Ehrengeschichte mit groß angelegten farbigen Landschafts- und Schlachtszenen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "criterion",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Zoltán Korda führte allein Regie bei Die vier Federn von 1939.",
+      "question": "Wer führte bei „Die vier Federn“ mit John Clements Regie?",
+      "answers": [
+        "Zoltán Korda",
+        "Alexander Korda",
+        "Vincent Korda",
+        "Terence Young"
+      ],
+      "short": "Zoltán Korda führte Regie.",
+      "context": "Drei Korda-Brüder arbeiteten in verschiedenen Funktionen am Film: Zoltán inszenierte, Alexander produzierte und Vincent verantwortete die Ausstattung. Georges Périnal und der im Sudan arbeitende Osmond Borradaile fotografierten die Technicolor-Bilder. Die Musik schrieb Miklós Rózsa.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
