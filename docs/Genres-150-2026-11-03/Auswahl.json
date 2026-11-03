@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 51 Filmfassungen mit 408 Fragen lokal integriert. 450 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 57 Filmfassungen mit 456 Fragen lokal integriert. 444 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -27,9 +27,12 @@
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Kommandomission auf einer Insel bietet klares Missions- und Hindernisabenteuer.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-004"
     },
     {
       "candidate_id": "A-003",
@@ -41,8 +44,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Bergfestung, verdeckte Loyalitäten und Rettungsauftrag verbinden Spionage mit Abenteuer.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-005"
     },
     {
       "candidate_id": "A-004",
@@ -54,8 +58,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Befreiungsmission, Verrat und Evakuierung strukturieren ein Söldnerabenteuer.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-006"
     },
     {
       "candidate_id": "A-005",
@@ -67,8 +72,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein geheimes Kommandounternehmen mit falschen Identitäten und begrenzter Zeit.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-007"
     },
     {
       "candidate_id": "A-006",
@@ -79,9 +85,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Suche im Regenwald verbindet Abenteuer mit dem Aufeinandertreffen unterschiedlicher Lebenswelten.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-008"
     },
     {
       "candidate_id": "A-007",
@@ -93,8 +102,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein arabischer Reisender begleitet eine nordische Gruppe in einen Verteidigungskampf.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-009"
     },
     {
       "candidate_id": "A-008",
@@ -2184,16 +2194,18 @@
     },
     {
       "candidate_id": "B-015",
-      "film_title_de": "Ziggy Stardust and the Spiders from Mars",
-      "film_title_original": "Ziggy Stardust and the Spiders from Mars",
-      "film_year": 1979,
+      "film_title_de": "The Disciple",
+      "film_title_original": "The Disciple",
+      "film_year": 2020,
       "genre": "Musik",
-      "familiarity_level": 3,
+      "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Dokumentarischer Konzertfilm über David Bowies Ziggy-Abschied; Erstveröffentlichung gegen Sammlungsjahr prüfen.",
-      "categories": [],
+      "selection_reason": "Ein Hindustani-Klassikporträt erweitert das Genre um langjährige Schulung, musikalische Tradition und den Konflikt zwischen Hingabe und Selbstzweifel.",
+      "categories": [
+        "Arthouse"
+      ],
       "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "identity_note": "Gezielter Ersatzkandidat; noch Auswahlentwurf. Quellen- und Fragenabnahme folgt in MUSIK-015."
     },
     {
       "candidate_id": "B-016",

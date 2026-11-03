@@ -1,0 +1,246 @@
+{
+  "id": "ABENTEUER-007",
+  "film_title_de": "Der Adler ist gelandet",
+  "film_title_original": "The Eagle Has Landed",
+  "film_year": 1976,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Der prominent besetzte britische Film mit Michael Caine und Donald Sutherland ist im klassischen Kriegs- und Abenteuerkino gut bekannt.",
+  "selection_reason": "Die Kommandomission auf englischem Boden bietet Perspektivwechsel, Tarnung und eine scheiternde Entführung. Sie wird als erfundene Geschichte behandelt.",
+  "directors": [
+    "John Sturges"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Erstveröffentlichung 1976; BFI und zeitgenössischer britischer Filmnachweis führen dieses Jahr.",
+  "director_note": "John Sturges ist der offizielle Regisseur; Tom Mankiewicz schrieb das Drehbuch nach Jack Higgins.",
+  "country_note": "Britische Produktion laut BFI.",
+  "series": null,
+  "series_note": "Eigenständige Romanverfilmung. Eine spätere Fortsetzung als Roman ist kein nummerierter Teil einer Filmfolge.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed_(film)"
+  ],
+  "sources": {
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/6632b894-7173-57d0-8a2c-c9ac353060f6/the-eagle-has-landed",
+      "accessed_on": "2026-11-03",
+      "supports": "Jahr, Land, Regie, Drehbuch und Hauptbesetzung."
+    },
+    "acmi": {
+      "url": "https://embeddings.acmi.net.au/?json=false&work=93981",
+      "accessed_on": "2026-11-03",
+      "supports": "Auftrag gegen Churchill, Norfolk, polnische Tarnung und entlarvende Kindesrettung."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Eagle_Has_Landed_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Figurenbesetzung, IRA-Verbindung, Himmlers Vollmacht, Radls Hinrichtung und Churchill-Doppelgänger."
+    },
+    "essay": {
+      "url": "https://www.bfi.org.uk/lists/10-great-war-films-nazis-britain",
+      "accessed_on": "2026-11-03",
+      "supports": "Einordnung als Kriegsabenteuer über deutsche Soldaten in Großbritannien."
+    },
+    "roman": {
+      "url": "https://search.worldcat.org/title/1993343",
+      "accessed_on": "2026-11-03",
+      "supports": "Bibliothekarischer Nachweis der Collins-Ausgabe von Jack Higgins Roman in London 1975."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Das deutsche Kommando soll Winston Churchill entführen.",
+      "question": "Welche britische Persönlichkeit soll das deutsche Kommando in „Der Adler ist gelandet“ entführen?",
+      "answers": [
+        "Winston Churchill",
+        "König George VI.",
+        "Bernard Montgomery",
+        "Anthony Eden"
+      ],
+      "short": "Der Auftrag richtet sich gegen Winston Churchill.",
+      "context": "Ein geplanter Besuch des Premierministers in einem Dorf in Norfolk scheint eine Gelegenheit zur Entführung zu bieten. Oberst Max Radl (Robert Duvall) bereitet das Unternehmen vor; Kurt Steiner (Michael Caine) soll es mit Fallschirmjägern ausführen. Die Filmhandlung entwirft einen fiktiven Anschlag und berichtet keinen tatsächlich ausgeführten Entführungsversuch.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "acmi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Michael Caine spielt den Kommandoführer Kurt Steiner.",
+      "question": "Wer spielt in „Der Adler ist gelandet“ den deutschen Fallschirmjägeroffizier Kurt Steiner, der das Kommando in England führt?",
+      "answers": [
+        "Michael Caine",
+        "Richard Burton",
+        "Sean Connery",
+        "Richard Harris"
+      ],
+      "short": "Kurt Steiner wird von Michael Caine gespielt.",
+      "context": "Kurt Steiner (Michael Caine) befindet sich mit seinen Männern zunächst in einem Strafverband. Er hatte sich gegen die Misshandlung einer Jüdin gestellt und damit die SS gegen sich aufgebracht. Das macht ihn innerhalb der erfundenen Handlung zum Gegner einzelner NS-Funktionäre, obwohl er weiterhin einen militärischen Auftrag für Deutschland übernimmt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Fallschirmjäger tarnen sich als polnische Soldaten auf alliierter Seite.",
+      "question": "Als welche Einheit treten Steiners Männer in „Der Adler ist gelandet“ im englischen Dorf auf?",
+      "answers": [
+        "Als polnische Fallschirmjäger auf alliierter Seite",
+        "Als kanadische Pioniere auf dem Weg zum Küstenausbau",
+        "Als amerikanische Sanitäter während eines Manövers",
+        "Als französische Marineinfanteristen auf Heimaturlaub"
+      ],
+      "short": "Sie geben sich als verbündete polnische Fallschirmjäger aus.",
+      "context": "Die Tarnung soll erklären, warum fremde Soldaten im Dorf auftauchen und dort üben. Unter den polnischen Uniformen tragen Kurt Steiner (Michael Caine) und seine Männer ihre deutschen Uniformen. Steiner besteht darauf, weil seine Soldaten bei einer Gefangennahme als reguläre Kämpfer erkennbar sein sollen. Gerade diese zweite Uniform wird später entdeckt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "acmi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eine Kindesrettung führt zum Tod eines Soldaten und enthüllt dessen deutsche Uniform.",
+      "question": "Wodurch fliegt die Tarnung des Kommandos in „Der Adler ist gelandet“ auf?",
+      "answers": [
+        "Bei der Rettung eines Kindes kommt unter einer Tarnuniform die deutsche Uniform zum Vorschein.",
+        "Beim Gottesdienst erkennt der Pfarrer einen gesuchten Offizier auf einem Fahndungsfoto.",
+        "Bei einer Verkehrskontrolle findet die Polizei Churchills Besuchsplan im Funkwagen.",
+        "Während einer Übung wird versehentlich ein verschlüsselter deutscher Funkspruch übertragen."
+      ],
+      "short": "Eine Rettungsaktion macht die deutsche Uniform eines Soldaten sichtbar.",
+      "context": "Ein Kind gerät am Mühlrad in Lebensgefahr. Ein Angehöriger der Gruppe rettet es, wird jedoch selbst tödlich erfasst. Dabei reißt die äußere Uniform auf. Für Kurt Steiner (Michael Caine) entsteht das Desaster somit aus der Hilfsbereitschaft eines Mannes. Die Dorfbewohner werden danach in der Kirche festgesetzt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "acmi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Himmler beseitigt die angebliche Hitler-Vollmacht und lässt Radl hinrichten.",
+      "question": "Was geschieht mit Radls (Robert Duvall) angeblicher Hitler-Vollmacht in „Der Adler ist gelandet“?",
+      "answers": [
+        "Himmler vernichtet sie und lässt Radl als Mitwisser hinrichten.",
+        "Himmler veröffentlicht sie und übernimmt die politische Verantwortung.",
+        "Die Wehrmachtsführung bestätigt sie und schützt Radl vor der SS.",
+        "Radl übergibt sie britischen Offizieren und erreicht einen Gefangenenaustausch."
+      ],
+      "short": "Himmler beseitigt den Beleg und macht Radl zum entbehrlichen Mitwisser.",
+      "context": "Oberst Max Radl (Robert Duvall) behandelt das Schreiben als Rückendeckung von höchster Stelle. Heinrich Himmler (Donald Pleasence) hat Hitlers tatsächliche Zustimmung jedoch nicht eingeholt. Noch während der Mission holt er das Schriftstück zurück und vernichtet es. Als der Einsatz gescheitert ist, lässt er Radl als entbehrlichen Mitwisser hinrichten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Steiner erschießt einen Doppelgänger; Churchill ist in Teheran.",
+      "question": "Was erfährt man über Steiners (Michael Caine) Opfer am Ende von „Der Adler ist gelandet“?",
+      "answers": [
+        "Es ist ein Doppelgänger; Churchill ist auf der Konferenz von Teheran.",
+        "Es ist Churchill; die britische Regierung vertuscht seinen Tod.",
+        "Es ist ein britischer Offizier, der Steiner zur Flucht verhelfen wollte.",
+        "Es ist ein deutscher Agent, der den Plan eigenmächtig verhindern will."
+      ],
+      "short": "Steiners vermeintliches Ziel ist ein Churchill-Doppelgänger.",
+      "context": "Kurt Steiner (Michael Caine) gelangt trotz des Zusammenbruchs seines Unternehmens noch zum bewachten Haus. Sein Schuss scheint das politische Ziel im letzten Augenblick zu erreichen. Erst danach wird offengelegt, dass Winston Churchill gar nicht dort war. Der bereits verlorene Einsatz erweist sich damit auch hinsichtlich seines letzten scheinbaren Erfolgs als vergeblich.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 1976.",
+      "question": "In welchem Jahr erschien „Der Adler ist gelandet“ mit Michael Caine und Donald Sutherland erstmals?",
+      "answers": [
+        "1976",
+        "1969",
+        "1973",
+        "1980"
+      ],
+      "short": "Die Verfilmung erschien 1976.",
+      "context": "Jack Higgins Roman erschien 1975 bei Collins in London; bereits im folgenden Jahr kam die Verfilmung ins Kino. Der Stoff wurde damit sehr schnell von der literarischen auf die filmische Form übertragen. Beide Werke entwerfen eine fiktive Entführung Churchills im Kriegsjahr 1943, dessen Abstand zur Veröffentlichung nicht mit dem kurzen Abstand zwischen Buch und Film verwechselt werden sollte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "roman",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Sturges führte Regie.",
+      "question": "Wer führte bei „Der Adler ist gelandet“ Regie?",
+      "answers": [
+        "John Sturges",
+        "Andrew V. McLaglen",
+        "Brian G. Hutton",
+        "J. Lee Thompson"
+      ],
+      "short": "Die Regie führte John Sturges.",
+      "context": "Tom Mankiewicz adaptierte Jack Higgins Roman für das Kino. Die Handlung wechselt zwischen der Vorbereitung durch Max Radl (Robert Duvall), Kurt Steiners (Michael Caine) Soldaten und dem irischen Helfer Liam Devlin (Donald Sutherland). Devlins Kontakte sollen den Fallschirmjägern einen Zugang verschaffen, den ihre militärischen Fähigkeiten allein nicht eröffnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "ABENTEUER-004",
+  "film_title_de": "Die Kanonen von Navarone",
+  "film_title_original": "The Guns of Navarone",
+  "film_year": 1961,
+  "genre": "Abenteuer",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 2,
+  "familiarity_reason": "Der international erfolgreiche Ensemblefilm mit Gregory Peck, David Niven und Anthony Quinn gehört zum bekannten klassischen Abenteuerkino; Einzelheiten der Mission sind dennoch eigenes Filmwissen.",
+  "selection_reason": "Das Inselkommando verbindet Kletterabenteuer, Täuschung, Loyalitätskonflikte und eine technisch vorbereitete Sabotage. Der Film ergänzt die klassische Missionsgeschichte.",
+  "directors": [
+    "J. Lee Thompson"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1961; AFI dokumentiert die Londoner Premiere vom 27. April 1961 vor dem US-Start im Juni.",
+  "director_note": "J. Lee Thompson ist der alleinige offizielle Regisseur. Alexander Mackendrick war zuvor für die Produktion vorgesehen.",
+  "country_note": "Britisch-amerikanische Produktion; die griechischen Schauplätze sind davon zu unterscheiden.",
+  "series": {
+    "name": "Navarone",
+    "position": 1,
+    "note": "Force 10 from Navarone von 1978 setzt die Geschichte mit neu besetzten Rollen Mallory und Miller fort."
+  },
+  "series_note": "Die Fortsetzung begründet die Zählung des Ausgangsfilms als Teil 1.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Force_10_from_Navarone_(film)"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/22407-THE-GUNS-OF-NAVARONE",
+      "accessed_on": "2026-11-03",
+      "supports": "Credits, Produktionsgeschichte, Erstjahr und Ablauf der Kommandounternehmung."
+    },
+    "sony": {
+      "url": "https://www.sonypictures.com/movies/thegunsofnavarone",
+      "accessed_on": "2026-11-03",
+      "supports": "Rettungsauftrag, Besetzung, Romanadaption und Carl Foremans Arbeit nach der Hollywood-Blacklist."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Guns_of_Navarone_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Figurenbesetzung, Franklins Desinformation, Annas Sabotage und der versteckte Sprengsatz am Munitionsaufzug."
+    },
+    "fortsetzung": {
+      "url": "https://en.wikipedia.org/wiki/Force_10_from_Navarone_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Fortsetzungsbeziehung und Neubesetzung der wiederkehrenden Hauptfiguren."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Sprengung soll die Evakuierung eingeschlossener britischer Soldaten ermöglichen.",
+      "question": "Welchem übergeordneten Zweck dient die Kommandounternehmung in „Die Kanonen von Navarone“?",
+      "answers": [
+        "Der Rettung eingeschlossener britischer Soldaten",
+        "Der Befreiung eines verschleppten Wissenschaftlers",
+        "Der Eroberung eines deutschen Marinehauptquartiers",
+        "Der Sicherung einer alliierten Goldlieferung"
+      ],
+      "short": "Die Geschütze versperren den Seeweg zur Evakuierung britischer Truppen.",
+      "context": "Auf der Nachbarinsel Kheros sitzen rund 2000 britische Soldaten fest. Die Royal Navy könnte sie abholen, müsste dafür aber an der deutschen Batterie vorbeifahren. Weil Luftangriffe die in den Fels gebauten Stellungen nicht ausschalten, soll eine kleine Gruppe die Waffen von innen zerstören.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Gregory Peck spielt den Bergsteiger und Offizier Keith Mallory.",
+      "question": "Wer spielt in „Die Kanonen von Navarone“ den erfahrenen Bergsteiger Keith Mallory, der die Führung des Kommandos übernimmt?",
+      "answers": [
+        "Gregory Peck",
+        "William Holden",
+        "Burt Lancaster",
+        "Kirk Douglas"
+      ],
+      "short": "Gregory Peck verkörpert Keith Mallory.",
+      "context": "Keith Mallory (Gregory Peck) übernimmt, nachdem Major Roy Franklin (Anthony Quayle) schwer verletzt worden ist. Zu seinem Team gehört der Sprengstoffexperte Miller (David Niven). Dessen technische Aufgaben und Mallorys Entscheidungen über den weiteren Weg müssen zusammenpassen, obwohl die beiden Männer nicht jede Entscheidung gleich beurteilen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die unbewachte Steilklippe dient als heimlicher Zugang zur Insel.",
+      "question": "Warum muss Mallorys (Gregory Peck) Gruppe in „Die Kanonen von Navarone“ eine gefährliche Steilklippe erklimmen?",
+      "answers": [
+        "Dort rechnen die Deutschen nicht mit einem Zugang.",
+        "Dort befindet sich das einzige versteckte Munitionsdepot.",
+        "Dort wartet ein Kontaktmann mit deutschen Uniformen.",
+        "Dort verläuft die einzige Funkverbindung zum Hauptquartier."
+      ],
+      "short": "Die Klippe bietet einen Zugang, den die Besatzer für unpassierbar halten.",
+      "context": "Schon die Anreise misslingt: Das Boot gerät in einen Sturm und wird zerstört. Die Männer erreichen die Insel, müssen jedoch mit ihrer Ausrüstung die Felswand hinauf. Dabei verletzt sich Roy Franklin (Anthony Quayle) am Bein. Der Weg schützt vor einer frühen Entdeckung, kostet das Kommando aber seinen bisherigen Anführer.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Anna täuscht ihre Stummheit vor und sabotiert den Sprengstoff.",
+      "question": "Was entdeckt das Kommando in „Die Kanonen von Navarone“ über Anna (Gia Scala), die als traumatisierte Helferin auftritt?",
+      "answers": [
+        "Sie arbeitet für die Deutschen und hat die Sprengmittel sabotiert.",
+        "Sie ist eine britische Agentin und hat den Evakuierungsplan geändert.",
+        "Sie ist eine deutsche Gefangene und hat die Fluchtboote versteckt.",
+        "Sie ist eine griechische Ärztin und hat Franklin heimlich behandelt."
+      ],
+      "short": "Anna ist die Verräterin innerhalb des Unterstützerkreises.",
+      "context": "Die Gruppe hält Anna (Gia Scala) zunächst für eine ehemalige Gefangene, die durch Misshandlungen ihre Stimme verloren habe. Als die Sabotage auffliegt, spricht sie wieder und offenbart ihre Verbindung zu den Deutschen. Maria (Irene Papas) erschießt sie, nachdem Mallory (Gregory Peck) vor dieser Entscheidung zurückschreckt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Mallory nutzt falsche Informationen für Franklins erwartetes Verhör.",
+      "question": "Warum erzählt Mallory (Gregory Peck) dem verwundeten Franklin (Anthony Quayle) in „Die Kanonen von Navarone“ einen falschen alliierten Angriffsplan?",
+      "answers": [
+        "Damit Franklin bei einem Verhör eine glaubhafte Falschinformation preisgibt.",
+        "Damit Franklin nach England zurückkehrt und dort Verstärkung anfordert.",
+        "Damit Franklin die griechischen Widerstandskämpfer auf die Probe stellt.",
+        "Damit Franklin über Funk einen eigenen Luftangriff auf das Kommando auslöst."
+      ],
+      "short": "Der zurückgelassene Franklin soll den Gegner unwissentlich in die Irre führen.",
+      "context": "Franklins Beinverletzung erfordert medizinische Hilfe. Mallory (Gregory Peck) rechnet damit, dass die Deutschen den Offizier verhören und Medikamente einsetzen werden. Die erfundene Nachricht von einem bevorstehenden Landungsunternehmen soll deshalb Truppen vom eigentlichen Sabotageziel weglocken. Franklin (Anthony Quayle) muss die Unwahrheit selbst glauben, damit die Täuschung funktioniert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Ein versteckter Sprengsatz am Munitionsaufzug löst die endgültige Explosion aus.",
+      "question": "Wodurch gelingt in „Die Kanonen von Navarone“ die Sprengung, obwohl die Deutschen die offensichtlichen Ladungen finden?",
+      "answers": [
+        "Eine zusätzliche Falle wird beim Betrieb des Munitionsaufzugs ausgelöst.",
+        "Ein britischer Torpedo trifft den unterirdischen Treibstofftank.",
+        "Eine zurückgelassene Funkbombe erhält ihr Signal von einem Zerstörer.",
+        "Eine griechische Helferin zündet einen zweiten Sprengsatz im Beobachtungsturm."
+      ],
+      "short": "Miller hat den Munitionsaufzug zusätzlich mit einer versteckten Sprengfalle versehen.",
+      "context": "Miller (David Niven) rechnet damit, dass die deutschen Soldaten seine erkennbaren Sprengladungen entschärfen. Seine zweite Vorbereitung nutzt deshalb den Ablauf in der Batterie selbst: Sobald die Geschütze gegen die ankommenden Schiffe eingesetzt werden sollen, setzt sich auch der Munitionsaufzug in Bewegung. Genau dieser Vorgang bringt die verborgene Ladung zur Explosion.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 1961.",
+      "question": "In welchem Jahr wurde „Die Kanonen von Navarone“ mit Gregory Peck erstmals veröffentlicht?",
+      "answers": [
+        "1961",
+        "1954",
+        "1958",
+        "1965"
+      ],
+      "short": "Der Film wurde 1961 erstmals gezeigt.",
+      "context": "Die Londoner Premiere lag im April vor dem amerikanischen Kinostart im Juni. Drehbuchautor und Produzent Carl Foreman hatte in den 1950er-Jahren wegen der Hollywood-Blacklist teilweise ohne Namensnennung gearbeitet. Bei diesem großen internationalen Abenteuerfilm trat er wieder mit offen ausgewiesenem Produzenten- und Drehbuchcredit auf.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "J. Lee Thompson ist der offizielle Regisseur.",
+      "question": "Wer führte bei „Die Kanonen von Navarone“ mit Gregory Peck und David Niven Regie?",
+      "answers": [
+        "J. Lee Thompson",
+        "Guy Hamilton",
+        "John Sturges",
+        "Robert Aldrich"
+      ],
+      "short": "Die Regie führte J. Lee Thompson.",
+      "context": "Die Romanvorlage stammt von Alistair MacLean; Carl Foreman übernahm Adaption und Produktion. Als Regisseur war zunächst Alexander Mackendrick vorgesehen. Im März 1960 berichtete die Fachpresse jedoch über dessen gesundheitsbedingten Rückzug. Thompson kam deshalb erst kurz vor dem tatsächlichen Drehbeginn hinzu und führte die Arbeit in Griechenland und England zu Ende.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

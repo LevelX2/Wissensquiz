@@ -1,0 +1,243 @@
+{
+  "id": "ABENTEUER-006",
+  "film_title_de": "Die Wildgänse kommen",
+  "film_title_original": "The Wild Geese",
+  "film_year": 1978,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Richard Burton, Roger Moore und Richard Harris machen den Film zu einem bekannten Söldnerabenteuer; die konkrete politische Intrige setzt Filmkenntnis voraus.",
+  "selection_reason": "Die Rettungsmission schlägt nach dem Verrat des Geldgebers in einen Flucht- und Loyalitätskonflikt um. Der fiktive Staat wird nicht als dokumentarische Darstellung realer afrikanischer Politik behandelt.",
+  "directors": [
+    "Andrew V. McLaglen"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "Schweiz"
+  ],
+  "release_note": "Erstveröffentlichung 1978; das BFI datiert den Film 1978, ebenso die zeitgenössische BBFC-Freigabe.",
+  "director_note": "Andrew V. McLaglen ist alleiniger offizieller Regisseur; Euan Lloyd produzierte, Reginald Rose schrieb das Drehbuch.",
+  "country_note": "Das BFI führt Schweiz und Vereinigtes Königreich; afrikanische Drehorte sind davon getrennt.",
+  "series": {
+    "name": "Die Wildgänse",
+    "position": 1,
+    "note": "Wild Geese II von 1985 ist die Fortsetzung; sie führt den Bruder des ursprünglichen Kommandoführers ein."
+  },
+  "series_note": "Teil 1 der belegten Wild-Geese-Filmfolge.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Wild_Geese_II"
+  ],
+  "sources": {
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/15698348-61b2-5c2f-898a-44df82f408e7/the-wild-geese",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Hauptbesetzung, Jahr und Produktionsländer."
+    },
+    "essay": {
+      "url": "https://www.bfi.org.uk/lists/10-great-british-action-films-1970s",
+      "accessed_on": "2026-11-03",
+      "supports": "Rettungsmission im fiktiven Staat, noch unveröffentlichte Carney-Vorlage und Mike Hoare als militärischer Berater."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Wild_Geese",
+      "accessed_on": "2026-11-03",
+      "supports": "Figuren, Mathersons Kupfergeschäft, Rettungsversprechen, Dakota-Flucht und Janders Tod."
+    },
+    "fortsetzung": {
+      "url": "https://en.wikipedia.org/wiki/Wild_Geese_II",
+      "accessed_on": "2026-11-03",
+      "supports": "Fortsetzungsbeziehung und Alex Faulkner als Bruder der Figur aus dem ersten Film."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Söldner sollen den gestürzten Präsidenten Julius Limbani befreien.",
+      "question": "Wen soll Faulkners Söldnertruppe in „Die Wildgänse kommen“ aus der Gefangenschaft holen?",
+      "answers": [
+        "Den gestürzten Präsidenten eines afrikanischen Staates",
+        "Den entführten Sohn eines britischen Bankiers",
+        "Einen in einem Bergwerk eingeschlossenen Diplomaten",
+        "Einen zum Tode verurteilten britischen Piloten"
+      ],
+      "short": "Ihr Auftrag ist die Befreiung des früheren Präsidenten Julius Limbani.",
+      "context": "Julius Limbani (Winston Ntshona) wird im fiktiven Zembala gefangen gehalten. Ein britischer Geschäftsmann finanziert seine Befreiung und wirbt dafür Allen Faulkner (Richard Burton) an. Die Soldaten erwarten einen klar begrenzten Auftrag mit vorbereiteter Rückholung. Gerade diese Abhängigkeit vom Geldgeber wird ihnen später zum Verhängnis.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Roger Moore spielt den Piloten Shawn Fynn.",
+      "question": "Wer spielt in „Die Wildgänse kommen“ den irischen Piloten Shawn Fynn, der zur Söldnertruppe stößt?",
+      "answers": [
+        "Roger Moore",
+        "Sean Connery",
+        "Michael Caine",
+        "Peter O’Toole"
+      ],
+      "short": "Roger Moore verkörpert Shawn Fynn.",
+      "context": "Shawn Fynn (Roger Moore) hat sich mit einem kriminellen Auftraggeber überworfen, bevor Allen Faulkner (Richard Burton) ihn für den Einsatz gewinnt. Seine fliegerischen Fähigkeiten werden bei der Flucht gebraucht: Nachdem die geplante Abholung scheitert, muss die Gruppe ein anderes Flugzeug finden und überhaupt erst wieder startfähig machen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Matherson opfert die Truppe einem Kupfergeschäft mit dem Regime.",
+      "question": "Warum wird das vereinbarte Abholflugzeug in „Die Wildgänse kommen“ zurückgerufen?",
+      "answers": [
+        "Der Auftraggeber hat sich inzwischen mit dem gegnerischen Regime über Kupferrechte geeinigt.",
+        "Der Pilot hat die Söldner irrtümlich für eine feindliche Einheit gehalten.",
+        "Die britische Regierung hat die Truppe offiziell unter Militärarrest gestellt.",
+        "Der befreite Präsident hat heimlich einen anderen Fluchtweg ausgehandelt."
+      ],
+      "short": "Matherson lässt die Männer für ein besseres Geschäft mit dem Regime zurück.",
+      "context": "Sir Edward Matherson (Stewart Granger) verfolgt wirtschaftliche Interessen. Während Allen Faulkner (Richard Burton) und seine Männer den Gefangenen befreien, erzielt der Bankier eine Einigung mit dessen Gegner. Die erfolgreiche Befreiung ist für ihn nun hinderlich. Die Soldaten stehen ohne Abholung im Feindesgebiet und müssen einen eigenen Ausweg suchen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Faulkner verspricht Janders, im Todesfall für dessen Sohn zu sorgen.",
+      "question": "Welches persönliche Versprechen gibt Allen Faulkner (Richard Burton) seinem Kameraden Rafer Janders (Richard Harris) vor dem Einsatz in „Die Wildgänse kommen“?",
+      "answers": [
+        "Im Todesfall für Janders Sohn zu sorgen",
+        "Janders einen eigenen Hof in Südafrika zu kaufen",
+        "Janders vor einem britischen Militärgericht zu entlasten",
+        "Nach dem Einsatz gemeinsam aus dem Söldnergeschäft auszusteigen"
+      ],
+      "short": "Faulkner soll sich um Janders Sohn kümmern, falls dessen Vater nicht zurückkehrt.",
+      "context": "Rafer Janders (Richard Harris) zieht seinen Sohn allein auf. Deshalb bedeutet die Teilnahme für ihn mehr als ein weiteres bezahltes Unternehmen. Allen Faulkner (Richard Burton) übernimmt mit dem Versprechen eine Verpflichtung, die über die militärische Zusammenarbeit hinausreicht. Am Schluss sucht er den Jungen auf, nachdem der Vater nicht zurückgekehrt ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Janders bittet Faulkner um den tödlichen Schuss vor seiner Gefangennahme.",
+      "question": "Warum erschießt Allen Faulkner (Richard Burton) bei der Flucht in „Die Wildgänse kommen“ seinen Freund Rafer Janders (Richard Harris)?",
+      "answers": [
+        "Janders ist zurückgeblieben und bittet darum, ihm Gefangenschaft und Folter zu ersparen.",
+        "Janders hat den Fluchtplan verkauft und bedroht nun den Piloten.",
+        "Janders will das Flugzeug zerstören, um den Präsidenten zurückzuhalten.",
+        "Janders ist zum Gegner übergelaufen und schießt auf die fliehenden Kameraden."
+      ],
+      "short": "Der verwundete Janders verlangt den tödlichen Schuss, bevor die Verfolger ihn erreichen.",
+      "context": "Die Gruppe versucht in einer alten Dakota zu entkommen. Rafer Janders (Richard Harris) wird am Bein getroffen und kann die startende Maschine nicht mehr erreichen. Allen Faulkner (Richard Burton) muss zwischen dem Weiterkämpfen für die übrigen Überlebenden und dem Zurückbleiben bei seinem Freund entscheiden. Janders Bitte führt zu einem besonders schmerzhaften Teil der Rettung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Präsident stirbt trotz gelungener Flucht an seinen Verletzungen.",
+      "question": "Was geschieht mit Julius Limbani (Winston Ntshona), nachdem die Überlebenden in „Die Wildgänse kommen“ mit dem Flugzeug entkommen sind?",
+      "answers": [
+        "Er erliegt seinen Verletzungen.",
+        "Er wird vom Bankier gegen Lösegeld freigekauft.",
+        "Er fliegt mit den Söldnern zur sofortigen Gegeninvasion zurück.",
+        "Er verrät seine Befreier und lässt sie am Ziel verhaften."
+      ],
+      "short": "Limbani überlebt die Flucht nicht.",
+      "context": "Die Männer bringen Julius Limbani (Winston Ntshona) aus der unmittelbaren Gefahr, können aber seine tödlichen Verletzungen nicht mehr wenden. Damit scheitert auch das politische Ziel der Unternehmung. Allen Faulkners (Richard Burton) spätere Abrechnung mit dem Geldgeber führt weder den Präsidenten zurück ins Amt noch die gefallenen Kameraden zu ihren Familien.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 1978.",
+      "question": "In welchem Jahr erschien „Die Wildgänse kommen“ mit Richard Burton, Roger Moore und Richard Harris erstmals?",
+      "answers": [
+        "1978",
+        "1971",
+        "1975",
+        "1982"
+      ],
+      "short": "Der Film erschien 1978.",
+      "context": "Die Produktion griff auf Daniel Carneys damals noch unveröffentlichten Romanstoff „The Thin White Line“ zurück. Er wurde später unter dem bekannteren Titel „The Wild Geese“ veröffentlicht. Die Geschichte gelangte also nicht erst nach einem langen Erfolg des Buches auf die Leinwand; der Film gehörte selbst zur frühen öffentlichen Wahrnehmung des Stoffes.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Andrew V. McLaglen führte Regie.",
+      "question": "Wer führte bei „Die Wildgänse kommen“ Regie?",
+      "answers": [
+        "Andrew V. McLaglen",
+        "John Sturges",
+        "J. Lee Thompson",
+        "Robert Aldrich"
+      ],
+      "short": "Die Regie führte Andrew V. McLaglen.",
+      "context": "Produzent Euan Lloyd stellte das Ensemble zusammen; für die militärische Beratung wurde Mike Hoare herangezogen, dessen Erfahrungen im Kongo zum Hintergrund des Stoffes gehörten. Die Filmhandlung benutzt jedoch einen erfundenen Staat und einen erfundenen Präsidenten. Beratung durch einen realen Söldner macht die erzählte Mission nicht zu einem historischen Ereignis.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

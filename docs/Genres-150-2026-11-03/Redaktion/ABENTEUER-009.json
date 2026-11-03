@@ -1,0 +1,238 @@
+{
+  "id": "ABENTEUER-009",
+  "film_title_de": "Der 13te Krieger",
+  "film_title_original": "The 13th Warrior",
+  "film_year": 1999,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Das Abenteuer mit Antonio Banderas ist durch die Verbindung eines arabischen Reisenden mit nordischer Heldenerzählung gut wiedererkennbar.",
+  "selection_reason": "Die Reise eines kulturellen Außenseiters ermöglicht Fragen zum Sprachlernen, zur Wahrnehmung der Gegner und zur literarischen Umformung von Beowulf.",
+  "directors": [
+    "John McTiernan"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1999; Disney D23 und Michael Crichtons offizielles Werkarchiv nennen den Kinostart am 27. August 1999.",
+  "director_note": "Alleiniger offizieller Regiecredit John McTiernan laut Disney und Crichton-Archiv. Michael Crichton ist der Romanautor und kein zusätzlich offiziell genannter Regisseur.",
+  "country_note": "Amerikanische Touchstone-Produktion; die kanadischen Drehorte sind nicht mit dem nordischen Handlungsschauplatz gleichzusetzen.",
+  "series": null,
+  "series_note": "Eigenständige Adaption von Eaters of the Dead ohne belegte nummerierte Filmfolge.",
+  "series_sources": [
+    "https://michaelcrichton.com/works/eaters-of-the-dead/"
+  ],
+  "sources": {
+    "disney": {
+      "url": "https://d23.com/a-to-z/13th-warrior-the-film/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Regiecredit, Erstjahr, Besetzung, Crichton-Vorlage und kanadische Drehorte."
+    },
+    "crichton": {
+      "url": "https://michaelcrichton.com/works/eaters-of-the-dead/",
+      "accessed_on": "2026-11-03",
+      "supports": "Beowulf als Ausgangspunkt, Romanadaption, Filmcredit und Crichtons eigene Erklärung der Titeländerung."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_13th_Warrior",
+      "accessed_on": "2026-11-03",
+      "supports": "Sprachlernmontage, Prophezeiung, Wendol, Feuerwurm und Figurenbesetzung."
+    },
+    "bibliografie": {
+      "url": "https://michaelcrichton.com/work/books/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Werkübersicht: Eaters of the Dead erschien 1976."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Antonio Banderas spielt den arabischen Reisenden Ahmed.",
+      "question": "Wer spielt in „Der 13te Krieger“ den arabischen Reisenden Ahmed, der mit nordischen Kriegern aufbricht?",
+      "answers": [
+        "Antonio Banderas",
+        "Javier Bardem",
+        "Benicio del Toro",
+        "Andy García"
+      ],
+      "short": "Antonio Banderas verkörpert Ahmed.",
+      "context": "Ahmed (Antonio Banderas) gelangt als Gesandter aus Bagdad in eine ihm zunächst fremde Welt. Melchisidek (Omar Sharif) hilft ihm beim ersten Verständigen mit den Nordmännern. Die Reise entwickelt sich aus einer Begegnung verschiedener Sprachen und Gewohnheiten, bevor der gemeinsame Kampf die Männer aneinander bindet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "disney",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Eine Weissagung verlangt einen Teilnehmer, der kein Nordmann ist.",
+      "question": "Warum muss der arabische Reisende Ahmed (Antonio Banderas) in „Der 13te Krieger“ an der gefährlichen Unternehmung teilnehmen?",
+      "answers": [
+        "Eine Weissagung verlangt einen Teilnehmer, der kein Nordmann ist.",
+        "Er hat dem König schon vor seiner Ankunft einen Treueeid geschworen.",
+        "Er ist der einzige Überlebende einer früheren Begegnung mit dem Feind.",
+        "Er kennt als Gesandter einen geheimen sicheren Weg zum bedrohten Dorf."
+      ],
+      "short": "Die Weissagung fordert einen Kämpfer von außerhalb der nordischen Gemeinschaft.",
+      "context": "Der Hilferuf aus einem bedrohten Königreich führt zur Auswahl einer kleinen Kriegergruppe. Ahmed (Antonio Banderas) hält sich zunächst für einen Beobachter, wird aber durch die Bedingung der Seherin selbst zum Beteiligten. Seine Fremdheit, die ihn von den anderen trennt, ist zugleich der Grund, weshalb sie ihn mitnehmen müssen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Ahmed erlernt die Sprache durch aufmerksames Zuhören.",
+      "question": "Wie macht „Der 13te Krieger“ verständlich, dass Ahmed (Antonio Banderas) die Sprache seiner Gefährten zu verstehen beginnt?",
+      "answers": [
+        "Er erschließt sie durch langes aufmerksames Zuhören.",
+        "Er lässt sich jeden Abend von einem mitreisenden Dolmetscher unterrichten.",
+        "Er entdeckt ein zweisprachiges Wörterbuch im Gepäck des Anführers.",
+        "Er erkennt, dass die Männer seine eigene Muttersprache nur verbergen."
+      ],
+      "short": "Die Sprachlernsequenz zeigt, wie aus dem Zuhören allmählich Verstehen entsteht.",
+      "context": "Während die Nordmänner am Feuer reden, wird ihre zunächst unverständliche Sprache für Ahmed (Antonio Banderas) nach und nach durchschaubar. Er kann schließlich auf eine Bemerkung reagieren, die gar nicht an ihn gerichtet war. Die Szene zeigt seinen Lernprozess und verändert zugleich seine Stellung innerhalb der Gruppe.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der Feuerwurm besteht aus berittenen Angreifern mit Fackeln.",
+      "question": "Was entpuppt sich in „Der 13te Krieger“ als der nachts herannahende, scheinbar riesige Feuerwurm?",
+      "answers": [
+        "Eine lange Reihe berittener Angreifer mit Fackeln",
+        "Ein mit brennendem Pech beladener Belagerungsturm",
+        "Ein glühender Lavastrom aus einem nahen Vulkan",
+        "Eine Flotte brennender Boote auf dem Fluss"
+      ],
+      "short": "Der scheinbare Feuerwurm entsteht durch die Fackeln der heranreitenden Gegner.",
+      "context": "Die Verteidiger sehen in der Dunkelheit zunächst eine zusammenhängende feurige Gestalt. Erst die nähere Beobachtung macht den menschlichen Angriff erkennbar. Ahmed (Antonio Banderas) und seine Gefährten müssen daher bedrohliche Erscheinungen richtig deuten. Der Film führt ein vermeintliches Ungeheuer auf eine militärische Bewegung zurück.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Wendol sind Menschen mit Tierverkleidung.",
+      "question": "Welche Erkenntnis verändert in „Der 13te Krieger“ das Verständnis der gefürchteten Wendol?",
+      "answers": [
+        "Es sind Menschen, die sich mit Bärenhäuten und Tiermerkmalen verhüllen.",
+        "Es sind gefallene Krieger, die als körperlose Geister zurückkehren.",
+        "Es sind abgerichtete Bären, denen Menschen nachts den Weg zeigen.",
+        "Es sind vergiftete Dorfbewohner, die im Schlaf ihre Nachbarn angreifen."
+      ],
+      "short": "Die Gegner erweisen sich als menschliche Gemeinschaft mit furchterregender Tierverkleidung.",
+      "context": "Die Angreifer werden zunächst wie übernatürliche Wesen wahrgenommen. In ihrem Rückzugsort entdecken die Krieger jedoch eine menschliche Gruppe mit eigener Führung und Ritualen. Ahmed (Antonio Banderas) und Buliwyf (Vladimir Kulich) können nun gezielt gegen deren Anführer vorgehen. Das Wissen über den Gegner verändert die Möglichkeit, ihn zu bekämpfen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Crichtons Vorlage formt Beowulf um.",
+      "question": "Welcher ältere Erzählstoff steht hinter Michael Crichtons Romanvorlage zu „Der 13te Krieger“?",
+      "answers": [
+        "Das altenglische Epos Beowulf",
+        "Das mittelhochdeutsche Nibelungenlied",
+        "Das französische Rolandslied",
+        "Das finnische Kalevala"
+      ],
+      "short": "Crichton formte Beowulf zu einem Abenteuerroman mit arabischem Erzähler um.",
+      "context": "Crichton erklärte, er habe auf eine Wette hin aus „Beowulf“ eine unterhaltsame Geschichte machen wollen. Der Roman „Eaters of the Dead“ wurde zur Filmvorlage. Auch die Titeländerung ging nach seiner Darstellung auf ihn zurück: Der ursprüngliche Titel habe viele Menschen schon vor einer Inhaltsbeschreibung abgestoßen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "crichton"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 1999.",
+      "question": "In welchem Jahr wurde „Der 13te Krieger“ mit Antonio Banderas erstmals veröffentlicht?",
+      "answers": [
+        "1999",
+        "1992",
+        "1996",
+        "2003"
+      ],
+      "short": "Der Film erschien 1999.",
+      "context": "Michael Crichtons Roman „Eaters of the Dead“ erschien 1976, also 23 Jahre vor der Verfilmung. Der Autor erklärte später selbst, weshalb er für das Kino einen anderen Titel vorgeschlagen hatte: Der alte Name schreckte mögliche Zuschauer ab. Hinter dem 1999 veröffentlichten Abenteuer steht somit ein deutlich älterer Stoff, dessen Vermarktung für das Kino bewusst verändert wurde.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "disney",
+        "crichton",
+        "bibliografie"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John McTiernan ist der offizielle Regisseur.",
+      "question": "Wer ist der offiziell genannte Regisseur von „Der 13te Krieger“?",
+      "answers": [
+        "John McTiernan",
+        "Ridley Scott",
+        "Stephen Sommers",
+        "Martin Campbell"
+      ],
+      "short": "Der offizielle Regiecredit lautet John McTiernan.",
+      "context": "Für die nordische Landschaft suchte das Team geeignete Drehorte und entschied sich unter anderem für die Gegend um Elk Bay auf Vancouver Island. Die kanadische Natur steht auf der Leinwand für den Norden der Erzählung. Michael Crichton lieferte den Romanstoff; Disneys Archiv und das Werkarchiv des Autors nennen übereinstimmend McTiernan als Regisseur.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "disney",
+        "crichton"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -18,7 +18,9 @@ const counts = (qs: typeof state.questions) => ({
 });
 const genres = Object.fromEntries([...new Set(filmQuestions.map(genreOf))].sort().map((genre) => [genre, counts(filmQuestions.filter((q) => genreOf(q) === genre))]));
 const categories = Object.fromEntries((["Arthouse", "Classics"] as const).map((category) => [category, counts(filmQuestions.filter((q) => isCategory(q, category)))]));
-const result = {as_of: "2026-11-03", packages: packages.length, questions: state.questions.length, goals: new Set(state.questions.map((q) => q.knowledgeId)).size, film: counts(filmQuestions), genres, categories};
+const awards = counts(state.questions.filter((q) => questionSourceOf(q) === "awards"));
+const actors = {persons: new Set(state.questions.filter((q) => questionSourceOf(q) === "actors").map((q) => q.metadata.person_id)).size};
+const result = {as_of: "2026-11-03", packages: packages.length, questions: state.questions.length, goals: new Set(state.questions.map((q) => q.knowledgeId)).size, film: counts(filmQuestions), genres, categories, awards, actors};
 if (process.argv.includes("--write-snapshot")) {
   const path = "data/genres-150-2026-11-03/bestand.json";
   const questions = state.questions.map((q) => ({
@@ -33,5 +35,6 @@ if (process.argv.includes("--write-snapshot")) {
 if (process.argv.includes("--require-target")) {
   for (const [genre, value] of Object.entries(genres)) assert(value.films >= 150, `${genre}: ${value.films}/150`);
   for (const [category, value] of Object.entries(categories)) assert(value.films >= 150, `${category}: ${value.films}/150`);
+  assert(awards.films >= 150, `Preisträger: ${awards.films}/150`);
 }
 console.log(JSON.stringify(result, null, 2));

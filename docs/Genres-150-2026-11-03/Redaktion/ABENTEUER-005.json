@@ -1,0 +1,240 @@
+{
+  "id": "ABENTEUER-005",
+  "film_title_de": "Agenten sterben einsam",
+  "film_title_original": "Where Eagles Dare",
+  "film_year": 1968,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Das Starpaar Richard Burton und Clint Eastwood sowie die alpine Kommandogeschichte haben dem Film hohe Bekanntheit im klassischen Abenteuerkino verschafft.",
+  "selection_reason": "Die vermeintliche Befreiungsmission entwickelt sich zu einer Enttarnung mehrerer Agentenebenen; Kletterwege, Seilbahn und Flucht verbinden Spionage mit Abenteuer.",
+  "directors": [
+    "Brian G. Hutton"
+  ],
+  "production_countries": [
+    "Vereinigtes Königreich",
+    "USA"
+  ],
+  "release_note": "Erste Veröffentlichung in Großbritannien 1968. AFI führt den amerikanischen Kinostart 1969, nennt die britische Veröffentlichung 1968 aber ausdrücklich.",
+  "director_note": "Brian G. Hutton ist der alleinige offizielle Regisseur; Alistair MacLean schrieb das Drehbuch.",
+  "country_note": "Britisch-amerikanische Produktion; die alpinen Drehorte begründen kein zusätzliches Produktionsland.",
+  "series": null,
+  "series_note": "Eigenständige Mission ohne belegte nummerierte Fortsetzung; gemeinsame Romanautoren schaffen keine Filmreihe.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/23675-WHERE-EAGLES-DARE"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/23675-WHERE-EAGLES-DARE",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Credits, britische Erstveröffentlichung 1968 und amerikanischer Start 1969."
+    },
+    "programm": {
+      "url": "https://watch.afi.com/movie/where-eagles-dare",
+      "accessed_on": "2026-11-03",
+      "supports": "Darsteller, Befreiungsauftrag, deutsche Tarnuniformen und britischer Verräter."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Where_Eagles_Dare",
+      "accessed_on": "2026-11-03",
+      "supports": "Kompletter Ablauf mit Seilbahn, Marys Einschleusung, falschem General, Agentenlisten und Turners Enttarnung."
+    },
+    "navarone": {
+      "url": "https://catalog.afi.com/Film/22407-THE-GUNS-OF-NAVARONE",
+      "accessed_on": "2026-11-03",
+      "supports": "Erstjahr 1961 und Alistair MacLeans Romanvorlage als zeitlicher Bezug."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Der vorgebliche Auftrag lautet, einen amerikanischen General aus einer Alpenfestung zu befreien.",
+      "question": "Welchen Auftrag erhält das Kommando zu Beginn von „Agenten sterben einsam“?",
+      "answers": [
+        "Einen amerikanischen General aus einer deutschen Alpenfestung zu befreien",
+        "Einen deutschen Admiral aus einem norwegischen Hafen zu entführen",
+        "Einen britischen Piloten über die Pyrenäen zu bringen",
+        "Einen französischen Widerstandsführer aus einem Gefangenenzug zu retten"
+      ],
+      "short": "Zunächst erscheint die Unternehmung als Rettung eines amerikanischen Generals.",
+      "context": "Major John Smith (Richard Burton) führt die Männer hinter die deutschen Linien. Der gefangene General soll über alliiertes Invasionswissen verfügen. Seine bevorstehende Befragung begründet die Eile des Einsatzes. Der Amerikaner Morris Schaffer (Clint Eastwood) wird dem überwiegend britischen Team zugeteilt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "programm",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Clint Eastwood spielt den amerikanischen Ranger Morris Schaffer.",
+      "question": "Wer spielt in „Agenten sterben einsam“ den amerikanischen Soldaten Morris Schaffer an der Seite von Richard Burtons Major Smith?",
+      "answers": [
+        "Clint Eastwood",
+        "Steve McQueen",
+        "Lee Marvin",
+        "James Coburn"
+      ],
+      "short": "Morris Schaffer wird von Clint Eastwood gespielt.",
+      "context": "Morris Schaffer (Clint Eastwood) erhält anfangs nur einen Teil der Informationen über den Auftrag. John Smith (Richard Burton) zieht ihn später in seinen eigentlichen Plan hinein. Dass Schaffer nicht dem britischen Geheimdienst angehört, wird schließlich zu einem Vorteil: Er steht außerhalb des Netzwerks, in dem die Verräter vermutet werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "programm",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Schloss Adler ist regulär nur mit einer Seilbahn erreichbar.",
+      "question": "Welches Verkehrsmittel verbindet in „Agenten sterben einsam“ den Talort mit der hoch gelegenen Festung Schloss Adler?",
+      "answers": [
+        "Eine Seilbahn",
+        "Eine Zahnradbahn",
+        "Ein Schrägaufzug im Berg",
+        "Ein regelmäßiger Hubschrauberdienst"
+      ],
+      "short": "Die Festung wird über eine Seilbahn erreicht.",
+      "context": "John Smith (Richard Burton) und Morris Schaffer (Clint Eastwood) nutzen die Seilbahnanlage, um an die schwer zugängliche Festung heranzukommen. Später wird sie auch zum Schauplatz ihrer Flucht und eines Kampfes außerhalb der Kabine. Der Zugang, der das Schloss schützt, zwingt die Angreifer damit zugleich auf einen besonders gefährlichen Weg.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Mary Ellison wird mit Heidis Hilfe als Arbeitskraft eingeschleust.",
+      "question": "Wie verschafft sich Mary Ellison (Mary Ure) in „Agenten sterben einsam“ Zugang zum Inneren der Festung?",
+      "answers": [
+        "Sie wird mit Heidis Hilfe als neue Arbeitskraft eingeschleust.",
+        "Sie lässt sich als gefangene britische Funkerin einliefern.",
+        "Sie tritt als Begleiterin eines hohen Wehrmachtsoffiziers auf.",
+        "Sie bringt als Krankenschwester einen verwundeten Wachmann zurück."
+      ],
+      "short": "Mary gelangt über eine vorbereitete Beschäftigung in das Schloss.",
+      "context": "Heidi (Ingrid Pitt) arbeitet im Tal und unterstützt John Smiths (Richard Burton) Unternehmen. Durch sie kommt Mary Ellison (Mary Ure) als neue Kraft in die Festung. Mary ist daher schon im Gebäude, als Smith und Morris Schaffer (Clint Eastwood) eindringen. Die Männer müssen sich dort nicht ohne Unterstützung orientieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der angebliche General Carnaby ist ein als Köder eingesetzter amerikanischer Korporal.",
+      "question": "Welche Funktion hat der angebliche General Carnaby (Robert Beatty) im Plan von „Agenten sterben einsam“?",
+      "answers": [
+        "Er ist ein als General ausgegebener Köder für die Enttarnungsaktion.",
+        "Er ist ein übergelaufener General, der die Festung verkaufen will.",
+        "Er ist ein deutscher Doppelgänger, der falsche Invasionspläne verbreitet.",
+        "Er ist ein Kriegsgefangener, der eigenmächtig zurückgekehrt ist."
+      ],
+      "short": "Der Gefangene ist tatsächlich Corporal Cartwright Jones, der nur als General auftritt.",
+      "context": "Der Rettungsauftrag wurde für einen zweiten Zweck inszeniert. John Smith (Richard Burton) soll mit den eingeschleusten Doppelagenten in einen Raum gelangen, in dem er ihre Verbindungen offenlegen kann. Der falsche General (Robert Beatty) muss deshalb keine wirklichen Invasionsgeheimnisse schützen; seine vermeintliche Bedeutung lockt die Beteiligten in die vorbereitete Situation.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Smith bringt die drei Doppelagenten dazu, ihre Kontakte schriftlich zu nennen.",
+      "question": "Wie gewinnt John Smith (Richard Burton) in „Agenten sterben einsam“ Informationen über das deutsche Agentennetz in Großbritannien?",
+      "answers": [
+        "Er täuscht deutsche Loyalität vor und lässt Doppelagenten ihre Kontakte aufschreiben.",
+        "Er knackt den Kommandantentresor und fotografiert eine vollständige Agentenkartei.",
+        "Er lässt den angeblichen General unter Wahrheitsserum alle Namen nennen.",
+        "Er fängt beim Rückflug einen unverschlüsselten Funkspruch aus London ab."
+      ],
+      "short": "Die schriftlichen Listen entstehen durch Smiths vorgetäuschte deutsche Identität.",
+      "context": "John Smith (Richard Burton) stellt sich gegenüber dem deutschen Oberst Kramer (Anton Diffring) als eigener Agent dar. Die drei mitgereisten Verräter müssen daraufhin ihre Zuverlässigkeit durch die Namen ihrer Verbindungen beweisen. Smith sammelt diese Listen ein. Der weitere Verlauf führt schließlich auch zur Enttarnung von Colonel Turner (Patrick Wymark) als Drahtzieher.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die britische Erstveröffentlichung erfolgte 1968.",
+      "question": "In welchem Jahr wurde „Agenten sterben einsam“ mit Richard Burton und Clint Eastwood erstmals veröffentlicht?",
+      "answers": [
+        "1968",
+        "1961",
+        "1965",
+        "1972"
+      ],
+      "short": "Der Film kam zuerst 1968 in Großbritannien heraus.",
+      "context": "Die erste Veröffentlichung in Großbritannien lag sieben Jahre nach „Die Kanonen von Navarone“, einem weiteren Abenteuer nach einem Stoff Alistair MacLeans. Bei „Agenten sterben einsam“ schrieb MacLean selbst das Drehbuch. Der amerikanische Kinostart folgte erst 1969; das AFI nennt zugleich die frühere britische Veröffentlichung 1968.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "navarone"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Brian G. Hutton führte Regie.",
+      "question": "Wer führte bei „Agenten sterben einsam“ Regie?",
+      "answers": [
+        "Brian G. Hutton",
+        "J. Lee Thompson",
+        "John Sturges",
+        "Guy Hamilton"
+      ],
+      "short": "Die Regie führte Brian G. Hutton.",
+      "context": "Alistair MacLean entwickelte das Drehbuch, Elliott Kastner produzierte den Film. Die Inszenierung verbindet den Wortwechsel um wechselnde Agentenidentitäten mit körperlichen Gefahren am Schloss und an der Seilbahn. Hutton verantwortete diesen Wechsel von ausführlich erklärter Täuschung und räumlich aufgebauten Actionszenen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "programm",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
