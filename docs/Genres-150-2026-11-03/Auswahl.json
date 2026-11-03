@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 208 Filmfassungen mit 1664 Fragen lokal integriert. 293 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 214 Filmfassungen mit 1712 Fragen lokal integriert. 287 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -505,9 +505,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Safari und Beziehungsdreieck verbinden Abenteuer mit Konflikten um Verantwortung.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-034"
     },
     {
       "candidate_id": "A-035",
@@ -518,9 +521,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Eine Naturbedrohung macht die Plantage zum Überlebensschauplatz.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-035"
     },
     {
       "candidate_id": "A-036",
@@ -531,9 +537,12 @@
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Afrikaabenteuer mit frühem Konflikt um Elefantenschutz und politischer Vereinnahmung.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-036"
     },
     {
       "candidate_id": "A-037",
@@ -545,8 +554,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Sabotage und Überleben in norwegischer Winterlandschaft verbinden Geschichte und Abenteuer.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-037"
     },
     {
       "candidate_id": "A-038",
@@ -557,9 +567,12 @@
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Eine unkonventionelle Einheit führt eine gefährliche Mission hinter den Fronten aus.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-038"
     },
     {
       "candidate_id": "A-039",
@@ -570,9 +583,12 @@
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Verfolgung zu Fuß durch eine fremde Landschaft konzentriert sich auf Überlebensentscheidungen.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-039"
     },
     {
       "candidate_id": "A-040",

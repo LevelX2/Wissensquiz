@@ -8219,7 +8219,9 @@
     },
     "Mogambo|1953": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://catalog.afi.com/Film/50947-MOGAMBO"
+      ]
     },
     "Molly's Game|2017": {
       "series": null,
@@ -12172,10 +12174,11 @@
       "series": {
         "name": "Das dreckige Dutzend",
         "position": 1,
-        "note": "Reihenfolge der veröffentlichten Filme dieser Filmreihe."
+        "note": "Erster Film vor den Fernsehfortsetzungen ab The Dirty Dozen: Next Mission (1985); Lee Marvin, Ernest Borgnine und Richard Jaeckel nehmen dort ihre Rollen wieder auf."
       },
       "sources": [
-        "https://www.themoviedb.org/collection/124492"
+        "https://catalog.afi.com/Film/23682-THE-DIRTYDOZEN",
+        "https://en.wikipedia.org/wiki/The_Dirty_Dozen:_Next_Mission"
       ]
     },
     "The Disciple|2020": {
@@ -16955,6 +16958,32 @@
       "sources": [
         "https://www.powerhousefilms.co.uk/products/the-wrong-box-bd",
         "https://www.moma.org/calendar/events/10713"
+      ]
+    },
+    "The Naked Jungle|1954": {
+      "series": null,
+      "sources": [
+        "https://catalog.afi.com/Film/51283-THE-NAKED-JUNGLE"
+      ]
+    },
+    "The Roots of Heaven|1958": {
+      "series": null,
+      "sources": [
+        "https://catalog.afi.com/Film/52711-THE-ROOTS-OF-HEAVEN"
+      ]
+    },
+    "The Heroes of Telemark|1965": {
+      "series": null,
+      "sources": [
+        "https://www.bfi.org.uk/film/a6ce1c5e-2fad-56f8-bd44-7bffce651d29/the-heroes-of-telemark",
+        "https://en.wikipedia.org/wiki/The_Heroes_of_Telemark"
+      ]
+    },
+    "The Naked Prey|1965": {
+      "series": null,
+      "sources": [
+        "https://www.criterion.com/films/848-the-naked-prey",
+        "https://catalog.afi.com/Catalog/moviedetails/18611"
       ]
     }
   }

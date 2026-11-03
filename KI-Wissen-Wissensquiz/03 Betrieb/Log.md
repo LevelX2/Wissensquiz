@@ -2630,3 +2630,8 @@ Fünf Western mit 40 neuen globalen Zielen integriert; Western 150. Vollständig
 #### Fortsetzung 03.11.2026 – Komödie W33
 
 Sechs Komödien mit 48 Fragen integriert, davon 45 neue globale Ziele und drei präzise Bestandsvarianten; Komödie144. Vollständige zentrale und unabhängige Gegenlesung; vergleichbare Widmungsablenker und Leichenverwechslung sprachlich verbessert. Primäre Regieoutline, Drehortdokumentation und gelesene Film-/Musikbelege tragen eigenständige Vertiefungen; Grand-Fenwick-Filmfolge beginnt1959. Alle 1.664 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell72 Pakete /16.959 Fragen /16.268 Ziele;293 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – Abenteuer W34
+
+Sechs Abenteuerfilme mit 48 Fragen integriert, davon 47 neue globale Ziele und eine Gable-Bestandsvariante; Abenteuer 139. Vollständige zentrale und unabhängige Gegenlesung samt Quellenverbreiterung über eigenständige ausführliche Filmkritiken, szenische Analysen und gezielte Dialogfolgen. Mogambo-Ablenker und Morel-Motive vergleichbar präzisiert; Naked-Prey-Festival1965 vor US1966 durch offizielles Archiv bestätigt. Alle 1.712 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und gebündelt 70 gezielte Tests in sieben Dateien bestanden (71,39 Sekunden). Aktuell 73 Pakete / 17.007 Fragen / 16.315 Ziele; 287 Genreergänzungen offen.

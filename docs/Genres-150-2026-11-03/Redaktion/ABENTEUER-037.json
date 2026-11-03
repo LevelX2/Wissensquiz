@@ -1,0 +1,258 @@
+{
+  "id": "ABENTEUER-037",
+  "film_title_de": "Kennwort Schweres Wasser",
+  "film_title_original": "The Heroes of Telemark",
+  "film_year": 1965,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Douglas und Harris machen das norwegische Sabotageabenteuer wiedererkennbar, der konkrete Film ist aber weniger präsent als die großen internationalen Kriegsabenteuer derselben Zeit.",
+  "selection_reason": "Das Sabotageabenteuer führt durch norwegische Winterlandschaften und verbindet mehrere gescheiterte sowie erfolgreiche Einsatzpläne mit einem Konflikt um die Gefährdung von Zivilisten.",
+  "directors": [
+    "Anthony Mann"
+  ],
+  "production_countries": [
+    "Großbritannien"
+  ],
+  "release_note": "Londoner Premiere und britischer Start im November 1965 laut gelesener Werkdarstellung; BFI und Norwegian Film Commission bestätigen das Erstjahr 1965. US-Datierungen 1966 werden nicht als Erstjahr übernommen.",
+  "director_note": "Anthony Mann ist der alleinige Regisseur laut BFI, TCM und norwegischer Filmkommission.",
+  "country_note": "Großbritannien laut BFI. Norwegische Handlung und Drehorte sind nicht mit der Nationalität der Benton-Produktion gleichzusetzen.",
+  "series": null,
+  "series_note": "Eigenständige Dramatisierung der Schwerwassersabotage. Andere Filme und spätere Dokumentationen desselben historischen Vorgangs sind keine nummerierten Fortsetzungen.",
+  "series_sources": [
+    "https://www.bfi.org.uk/film/a6ce1c5e-2fad-56f8-bd44-7bffce651d29/the-heroes-of-telemark",
+    "https://en.wikipedia.org/wiki/The_Heroes_of_Telemark"
+  ],
+  "sources": {
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/a6ce1c5e-2fad-56f8-bd44-7bffce651d29/the-heroes-of-telemark",
+      "accessed_on": "2026-11-03",
+      "supports": "Britischer Werkdatensatz mit Jahr 1965, alleiniger Regie, Autoren und Hauptbesetzung."
+    },
+    "norwegen": {
+      "url": "https://www.norwegianfilm.com/filmography/the-heroes-of-telemark",
+      "accessed_on": "2026-11-03",
+      "supports": "Norwegian Film Commission: Regie, Veröffentlichung 1965, tatsächliche norwegische Drehorte und Sabotage als Handlung."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/152023/the-heroes-of-telemark",
+      "accessed_on": "2026-11-03",
+      "supports": "Paul Tataras Essay mit Figurencredits, Douglas/Harris, Atomwaffenmotiv, erneuter Zusammenarbeit nach Spartacus 1960 und norwegischen Ski-Kameraaufnahmen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Heroes_of_Telemark",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmhandlung: Dampferflucht, Wiederherstellung der Anlage, Jensens Verrat, Fähre und Rettungswestenspiel. Film und historische Ereignisse werden getrennt; die dortige Fjordbezeichnung wird nicht übernommen. Die damit umfangreichsten konkreten Szenen wurden zusätzlich an der Film-Dialogtranskription gegengeprüft."
+    },
+    "dialog": {
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-heroes-of-telemark",
+      "accessed_on": "2026-11-03",
+      "supports": "Zusammenhängende englische Film-Dialogtranskription in den Szenen Dampferübernahme, Jensen-Debatte, Sabotage/sofortige Ersatzgeräte und Fährspiel gelesen. Konkrete Dialoge zur Fahrt nach England, in Berlin vorgefertigten Behältern und Rettungswesten bestätigen die Handlungsziele. Unoffizielles Transkript, kein Originaldrehbuch und keine eigene Filmsichtung behauptet."
+    },
+    "cineuropa": {
+      "url": "https://cineuropa.org/en/newsdetail/210266",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen einleitenden Filmrückblick und anschließenden Serienbericht gelesen: ausdrücklich Manns Film1965, Douglas/Harris, Sabotage der Schwerwasseranlage und spätere Fährsprengung. Angaben zur neuen Serie nicht in den Kinofilm übertragen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Kirk Douglas spielt den Physiker Rolf Pedersen.",
+      "question": "Wer spielt in „Kennwort Schweres Wasser“ den Physiker Rolf Pedersen, der sich dem norwegischen Widerstand anschließt?",
+      "answers": [
+        "Kirk Douglas",
+        "Burt Lancaster",
+        "Charlton Heston",
+        "William Holden"
+      ],
+      "short": "Kirk Douglas spielt Rolf Pedersen.",
+      "context": "Rolf Pedersen (Kirk Douglas) möchte den Krieg zunächst möglichst unbeteiligt überstehen. Knut Straud (Richard Harris) zieht ihn jedoch in den Widerstand gegen die deutsche Besatzung hinein. Pedersens wissenschaftliche Kenntnisse helfen, die Bedeutung der Produktion in Telemark einzuschätzen. Mit dem Engagement begegnet er auch seiner früheren Frau Anna (Ulla Jacobsson) wieder, die selbst am Widerstand beteiligt ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "tcm",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Sabotage soll das deutsche Atomwaffenprogramm behindern.",
+      "question": "Welche deutsche Rüstungsentwicklung wollen die Widerstandskämpfer in „Kennwort Schweres Wasser“ durch ihre Sabotage behindern?",
+      "answers": [
+        "Die Entwicklung einer Atombombe",
+        "Den Bau einer neuen U-Boot-Klasse",
+        "Die Herstellung strahlgetriebener Jagdflugzeuge",
+        "Den Aufbau einer Fernraketenflotte"
+      ],
+      "short": "Die Aktionen richten sich gegen das deutsche Atomwaffenprogramm.",
+      "context": "Die Produktion in der norwegischen Anlage ist für Rolf Pedersen (Kirk Douglas) mehr als ein gewöhnlicher Industriebetrieb. Er erkennt ihren möglichen Nutzen für die deutsche Atomwaffenentwicklung. Gemeinsam mit Knut Straud (Richard Harris) muss er die Informationen zunächst nach Großbritannien bringen. Aus der wissenschaftlichen Einschätzung wird anschließend ein Auftrag, der die örtlichen Widerstandskämpfer unmittelbar gefährdet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "norwegen",
+        "tcm",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Rolf und Knut kapern einen Passagierdampfer, um die Pläne nach Großbritannien zu bringen.",
+      "question": "Wie gelangen Rolf (Kirk Douglas) und Knut (Richard Harris) in „Kennwort Schweres Wasser“ mit ihren Informationen zunächst nach Großbritannien?",
+      "answers": [
+        "Sie kapern einen Passagierdampfer.",
+        "Sie fliegen in einem gestohlenen Militärflugzeug.",
+        "Sie reisen durch Schweden und werden von einem U-Boot abgeholt.",
+        "Sie verstecken sich auf einem deutschen Frachter nach Schottland."
+      ],
+      "short": "Die beiden erzwingen die Fahrt mit einem Passagierdampfer.",
+      "context": "Rolf Pedersen (Kirk Douglas) und Knut Straud (Richard Harris) müssen die mikroverfilmten Pläne der Anlage aus dem besetzten Land schaffen. Die Kaperung des Dampfers bringt sie zu den Briten, die den Ernst ihrer Informationen erkennen. Danach kehren beide per Fallschirm zurück. Das Wissen allein genügt nicht; nun muss vor Ort ein Zugang für die Sabotage gefunden werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Deutschen reparieren die nach dem Überfall zerstörte Anlage, weshalb ein weiterer Eingriff nötig wird.",
+      "question": "Warum beendet der Angriff auf das Werk in „Kennwort Schweres Wasser“ die Gefahr nicht?",
+      "answers": [
+        "Die Deutschen ersetzen die zerstörten Geräte und nehmen die Produktion wieder auf.",
+        "Der Angriff trifft versehentlich eine unbeteiligte Fabrik in einem Nachbartal.",
+        "Die Kämpfer entdecken, dass der britische Geheimdienst sie über das Ziel getäuscht hat.",
+        "Der Sprengstoff zerstört nur eine Seilbahn, während das Werk unbeschädigt bleibt."
+      ],
+      "short": "Die Anlage wird wiederhergestellt; der erste Erfolg reicht nicht aus.",
+      "context": "Nach dem Scheitern der britischen Kommandoaktion dringt eine kleine norwegische Gruppe in das Werk ein und zerstört wichtige Einrichtungen. Die Deutschen können sie jedoch ersetzen. Rolf Pedersen (Kirk Douglas) und Knut Straud (Richard Harris) müssen deshalb erneut handeln. Als die verbliebenen Vorräte nach Deutschland gebracht werden sollen, verlagert sich ihr Ziel von der Produktionsanlage auf den Transport.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung",
+        "cineuropa"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der eingeschleuste Verräter Jensen verrät das Versteck der Widerstandsgruppe an die Deutschen.",
+      "question": "Welche Folge hat Jensens (Roy Dotrice) Verschonung in „Kennwort Schweres Wasser“?",
+      "answers": [
+        "Er entkommt und verrät ihr Versteck, das anschließend angegriffen wird.",
+        "Er steuert einen deutschen Transport gezielt in ihren Hinterhalt.",
+        "Er übernimmt den Funk und sagt bei den Briten den Einsatz ab.",
+        "Er liefert den Deutschen die Namen der Kinder auf der späteren Fähre."
+      ],
+      "short": "Jensen verrät die Gruppe und ermöglicht den Angriff auf ihr Versteck.",
+      "context": "Die Widerstandskämpfer streiten darüber, ob sie Jensen (Roy Dotrice) töten sollen. Er kann entkommen und die Deutschen auf ihren Unterschlupf aufmerksam machen. Das Versteck wird daraufhin aus der Luft zerstört. Später verfolgt er Rolf Pedersen (Kirk Douglas) und Knut Straud (Richard Harris); als er mit Rolf allein zurückbleibt, wird aus der früheren Verschonung eine tödliche Konfrontation.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "dialog"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Rolf tarnt das Anlegen der Rettungswesten als Spiel, um die Kinder vor der geplanten Fährsprengung zu schützen.",
+      "question": "Wie versucht Rolf (Kirk Douglas) in „Kennwort Schweres Wasser“, die Kinder auf der zur Sprengung vorbereiteten Fähre zu schützen?",
+      "answers": [
+        "Er lässt sie als vermeintliches Spiel Rettungswesten anlegen.",
+        "Er lässt sie vorzeitig in ein angebliches Spielboot steigen.",
+        "Er lässt sie kurz vor der Abfahrt einen Wettlauf an Land veranstalten.",
+        "Er lässt sie zum Winken auf ein herankommendes Fischerboot wechseln."
+      ],
+      "short": "Rolf macht aus der Rettungsübung ein Spiel für die Kinder.",
+      "context": "Rolf Pedersen (Kirk Douglas) sieht eine Witwe mit ihrem Kind an Bord gehen und steigt selbst auf die Fähre. Weil der Sabotageplan bereits läuft, improvisiert er eine Rettungsübung für die Kinder am Heck. Als das Schiff sinkt, helfen die Westen bei der Flucht ins Wasser. Knut Straud (Richard Harris) und Anna (Ulla Jacobsson) unterstützen die Rettung von einem kleinen Boot aus.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Kennwort Schweres Wasser wurde 1965 erstmals veröffentlicht.",
+      "question": "Aus welchem Jahr stammt „Kennwort Schweres Wasser“ mit Kirk Douglas und Richard Harris?",
+      "answers": [
+        "1965",
+        "1959",
+        "1962",
+        "1969"
+      ],
+      "short": "Der Film erschien 1965.",
+      "context": "Fünf Jahre zuvor hatte Anthony Mann 1960 die Regie von „Spartacus“ begonnen, bevor Stanley Kubrick ihn ersetzte. Kirk Douglas versprach ihm danach, erneut mit ihm zu drehen. 1965 kam diese Zusammenarbeit mit dem norwegischen Sabotagefilm zustande. Der Film verbindet damit auch eine persönliche Produktionsgeschichte mit Douglas, die über die bloße Besetzung eines Kriegsabenteuers hinausgeht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "norwegen",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Anthony Mann führte allein Regie bei Kennwort Schweres Wasser.",
+      "question": "Wer führte bei „Kennwort Schweres Wasser“ Regie?",
+      "answers": [
+        "Anthony Mann",
+        "J. Lee Thompson",
+        "John Sturges",
+        "Richard Fleischer"
+      ],
+      "short": "Anthony Mann inszenierte den Film.",
+      "context": "Anthony Mann nutzte die verschneiten norwegischen Landschaften als Teil des Spannungsaufbaus. Ehemalige Widerstandskämpfer berieten die Produktion. Für die Skiaufnahmen half der Trainer Helge Stoylen mit Schülern, die Kameras über die Hänge bewegten. Robert Krasker führte die Kamera, Malcolm Arnold schrieb die Musik. Ben Barzman und Ivan Moffat bearbeiteten den historischen Stoff für das Drehbuch.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "norwegen",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
