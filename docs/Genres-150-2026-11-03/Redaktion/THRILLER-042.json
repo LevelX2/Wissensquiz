@@ -1,0 +1,242 @@
+{
+  "id": "THRILLER-042",
+  "film_title_de": "Das Rettungsboot",
+  "film_title_original": "Lifeboat",
+  "film_year": 1944,
+  "genre": "Thriller",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Redaktionelle Einschätzung: filmhistorisch bekannter Hitchcock mit ungewöhnlichem begrenztem Schauplatz; das Ensemble und die einzelnen Entscheidungen sind vor allem Filmkennern vertraut.",
+  "selection_reason": "Der Überlebenskonflikt wird durch einen eingeschleusten Gegner, ungleich verteiltes Wissen und gemeinschaftliche Gewalt zum psychologischen Thriller. Die Klassenschranken der Gruppe bleiben auch im gemeinsamen Notstand sichtbar.",
+  "directors": [
+    "Alfred Hitchcock"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1944: AFI nennt NewYork-Eröffnung11.Januar und regulären Start28.Januar 1944. Wikipedia führt12.Januar, aber kein anderes Erstjahr. Dreharbeiten 1943 sind kein Veröffentlichungsjahr.",
+  "director_note": "Alfred Hitchcock alleiniger Hauptregisseur laut vollständiger AFI-Creditliste und BFI-Werkdatensatz. Jo Swerling Drehbuch, John Steinbeck Screenstory; Saul Wurtzel Assistenz, keine Co-Hauptregie.",
+  "country_note": "USA in vollständigem AFI- und BFI-Werksatz. Internationale Figuren und Hintergrundaufnahmen vor Florida/Kalifornien ändern diese Länderzuordnung nicht.",
+  "series": null,
+  "series_note": "Eigenständiger Film. Spätere stoffliche Neuverfilmungen sind keine nummerierten Fortsetzungen dieses Figurenensembles.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/24046-LIFEBOAT"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/24046-LIFEBOAT",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte tatsächliche Synopsis und relevante History einschließlich Produktionsakten, Bankhead-Rückkehr, Vorher/Nachher-Reduco-Cameo, Steinbeck-Konflikt und Verzicht auf Hintergrundmusik gelesen; vollständigen Cast-/Hauptregie-/Drehbuch-/Ländersatz gelesen.11./28.Januar 1944, Faithless 1932 und Ausnahme StageDoorCanteen. Frageableitung konzentriert auf Besetzung, Cameo und Karriere-Jahresanker."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/10-great-shipwreck-films",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamten tatsächlichen Lifeboat-Abschnitt im Rory-Doherty-Essay gelesen:begrenzter Schauplatz, deutsches U-Boot-Kommando, unterschiedliche soziale/kulturelle Gruppen, Durstparanoia und kritische Kontroverse um Joe. Keine spätere allgemeine Liste als vollständige Filmsichtung bezeichnet."
+    },
+    "bfiwerk": {
+      "url": "https://www.bfi.org.uk/film/500bd622-4357-5658-9ce4-4b05a2ca5d5b/lifeboat",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächlichen vollständigen indexierten Werkhauptsatz gelesen:USA 1944, Hitchcock, Produzent Macgowan, Bankhead/Bendix/Slezak. BFI nennt weitere Schreibmitarbeit, nicht weitere Hauptregisseure."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Lifeboat_(1944_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte tatsächliche Handlung und Cast gelesen:Willi-Kapitän, verborgener Kompass, deutsche Versorgungsfahrt, Wasserreserve/Gus-Mord und Joe als einziger Nichtteilnehmer an kollektiver Tötung. Datum12.Januar gegenüber ausführlicher AFI-Dokumentation nicht führend."
+    },
+    "beck": {
+      "url": "https://san.beck.org/MM/1944/Lifeboat.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamten tatsächlichen Sanderson-Beck-Handlungsabriss gelesen, besonders Diamantschmuck als Angelköder, Ablenkung durch Schiffssichtung und Schluss mit neuem bewaffnetem Schiffbrüchigen. Für die Nichtbeteiligung Joes am Angriff ausführlicheren EN-/AFI-Text verwendet; Becks verkürztes 'others' hierfür nicht als Alleinbeleg."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Tallulah Bankhead spielt die Journalistin Constance Porter.",
+      "question": "Wer spielt in „Das Rettungsboot“ die zunächst elegant auftretende Journalistin Constance Porter?",
+      "answers": [
+        "Tallulah Bankhead",
+        "Barbara Stanwyck",
+        "Claudette Colbert",
+        "Miriam Hopkins"
+      ],
+      "short": "Tallulah Bankhead spielt Constance Porter.",
+      "context": "Constance Porter (Tallulah Bankhead) ärgert sich, als bei einer Rettung ihre Kamera über Bord geht. Ihre Aufnahmen sind verloren, während die anderen gerade ihr Leben sichern. Der Einstieg zeigt ihren professionellen Blick und ihre anfängliche Distanz zur unmittelbaren Notlage der übrigen Gruppe.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Willi ist der Kapitän des deutschen U-Boots.",
+      "question": "Welche Stellung hatte Willi (Walter Slezak) tatsächlich auf dem deutschen U-Boot in „Das Rettungsboot“?",
+      "answers": [
+        "Er war dessen Kapitän.",
+        "Er war dessen Funkmaat.",
+        "Er war dessen Schiffskoch.",
+        "Er war dessen Torpedomechaniker."
+      ],
+      "short": "Der scheinbar einfache Seemann war der Kapitän.",
+      "context": "Willi (Walter Slezak) gehört zur Gegenseite des Seekriegs, wird aber zunächst als Schiffbrüchiger aufgenommen. Seine Herkunft löst sofort Streit darüber aus, ob gemeinsame Lebensgefahr die Feindschaft aufhebt. Die Überlebenden unterscheiden sich zugleich nach Beruf, Klasse und Nationalität. Ein gemeinsamer Platz im Boot erzeugt daher noch keine Einigkeit darüber, wem man vertrauen oder wer Entscheidungen treffen soll.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Willi verbirgt einen Kompass und steuert auf ein deutsches Versorgungsschiff zu.",
+      "question": "Welches verheimlichte Hilfsmittel unterstützt Willis (Walter Slezak) eigene Kursplanung in „Das Rettungsboot“?",
+      "answers": [
+        "Ein Kompass",
+        "Eine Seekarte",
+        "Ein Sextant",
+        "Ein Peilempfänger"
+      ],
+      "short": "Willi besitzt einen zunächst verborgenen Kompass.",
+      "context": "Willi (Walter Slezak) bietet der geschwächten Gruppe Orientierung und körperliche Arbeit an. Der versteckte Kompass zeigt jedoch, dass sein Wissen nicht offen geteilt wird. Er lenkt das Boot zu einem deutschen Versorgungsschiff. Aus dem angenommenen Gefangenen wird damit zeitweise derjenige, dessen Entscheidung alle folgen müssen, obwohl sein Ziel ihren ursprünglichen Rettungsplänen widerspricht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Connie stellt ihr Diamantarmband als Angelköder zur Verfügung.",
+      "question": "Wie wird Connies (Tallulah Bankhead) Diamantschmuck gegen Ende von „Das Rettungsboot“ praktisch eingesetzt?",
+      "answers": [
+        "Als glitzernder Köder beim Angeln",
+        "Als Gewicht für eine selbstgebaute Lotleine",
+        "Als Tauschmittel bei einem herankommenden Fischer",
+        "Als Signalspiegel für ein Suchflugzeug"
+      ],
+      "short": "Sie bietet die Diamanten als Angelköder an.",
+      "context": "Constance Porter (Tallulah Bankhead) widerspricht der Resignation der anderen und gibt ihren Schmuck zum Fischfang her. Kovac (John Hodiak) setzt den Vorschlag um. Gerade als ein Fisch anbeißt, lenkt die Sichtung eines Schiffes die Gruppe ab. Der wertvolle Besitz erhält damit einen unmittelbaren Gebrauchswert für alle, statt nur den gesellschaftlichen Rang seiner Besitzerin zu markieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "beck"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Joe beteiligt sich als einziger nicht an der kollektiven Tötung Willis.",
+      "question": "Wer beteiligt sich in „Das Rettungsboot“ nicht daran, Willi (Walter Slezak) nach der Entdeckung seiner Wasserreserve anzugreifen?",
+      "answers": [
+        "Joe Spencer (Canada Lee)",
+        "Alice MacKenzie (Mary Anderson)",
+        "Constance Porter (Tallulah Bankhead)",
+        "Stanley Garrett (Hume Cronyn)"
+      ],
+      "short": "Joe bleibt bei der kollektiven Gewalttat abseits.",
+      "context": "Joe Spencer (Canada Lee) zieht die verborgene Wasserflasche aus Willis (Walter Slezak) Kleidung. Die anschließende Wut führt zu einem gemeinsamen Angriff, bei dem Willi über Bord getrieben wird. Joe macht dabei nicht mit. Seine Zurückhaltung trennt die Entlarvung des Täters von der Bereitschaft, sich selbst an dessen gewaltsamer Bestrafung zu beteiligen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Hitchcock erscheint auf Vorher/Nachher-Fotos einer Zeitungsanzeige für Reduco.",
+      "question": "Wie bringt Alfred Hitchcock seinen eigenen Auftritt in „Das Rettungsboot“ unter?",
+      "answers": [
+        "Als Vorher/Nachher-Fotos einer Zeitungsanzeige",
+        "Als Porträtfoto in Connies Presseausweis",
+        "Als Passbild in einem geborgenen Seemannsbuch",
+        "Als Familienfoto in Joes Brieftasche"
+      ],
+      "short": "Er erscheint in einer Anzeige für das erfundene Reduco.",
+      "context": "Für einen zusätzlichen Passanten fehlt auf dem begrenzten Schauplatz der Platz. Hitchcock wird deshalb als gedrucktes Bild in die Handlung gebracht: Eine Diätanzeige zeigt ihn vor und nach einer Gewichtsabnahme. Die oft wiederholte Behauptung, er spiele hier eine im Wasser treibende Leiche, trifft laut AFI-Dokumentation nicht zu.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Lifeboat wurde erstmals 1944 veröffentlicht.",
+      "question": "In welchem Jahr erschien „Das Rettungsboot“ mit Tallulah Bankhead erstmals?",
+      "answers": [
+        "1944",
+        "1936",
+        "1952",
+        "1960"
+      ],
+      "short": "„Das Rettungsboot“ erschien 1944.",
+      "context": "Tallulah Bankhead war 1932 in „Faithless“ zu sehen gewesen. 1944 kehrte sie mit Constance Porter in einer großen Filmrolle zurück. Zwischen beiden Filmen liegen zwölf Jahre; ein kurzer Auftritt in „Stage Door Canteen“ bildet die Ausnahme innerhalb der langen Pause. Von einer vollständigen Abwesenheit von der Leinwand kann deshalb keine Rede sein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Alfred Hitchcock führte alleinige Hauptregie.",
+      "question": "Wer inszenierte „Das Rettungsboot“ mit Tallulah Bankhead und Walter Slezak?",
+      "answers": [
+        "Alfred Hitchcock",
+        "John Ford",
+        "William Wyler",
+        "Henry Hathaway"
+      ],
+      "short": "Alfred Hitchcock führte Regie.",
+      "context": "Alfred Hitchcock hält Menschen mit sehr verschiedenen gesellschaftlichen Positionen auf einem engen gemeinsamen Schauplatz zusammen. Die offene See schafft deshalb keine Freiheit, sondern verstärkt die Abhängigkeit voneinander. Ein wohlhabender Industrieller, eine Journalistin und Angehörige der Schiffsbesatzung müssen über Führung und Vertrauen streiten. Die begrenzte Umgebung lässt ihre Konflikte nicht durch einen Wechsel in getrennte Lebensbereiche ausweichen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "bfiwerk"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

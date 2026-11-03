@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 439 Filmfassungen mit 3512 Fragen lokal integriert. 62 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 445 Filmfassungen mit 3560 Fragen lokal integriert. 56 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -1502,10 +1502,13 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Entführung und eine geplante Ermordung verknüpfen Familien- und Spionagethriller.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die amerikanische Neuverfilmung macht elterliche Erpressbarkeit und musikalisch gesteuerte Spannung zum Zentrum. Sie unterscheidet sich von der britischen Originalfassung in Figuren, Schauplätzen und Rettungsablauf.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-041"
     },
     {
       "candidate_id": "A-104",
@@ -2082,10 +2085,13 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Auf engem Raum verschärfen sich Überleben, Vertrauen und politische Gegnerschaft.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Der Überlebenskonflikt wird durch einen eingeschleusten Gegner, ungleich verteiltes Wissen und gemeinschaftliche Gewalt zum psychologischen Thriller. Die Klassenschranken der Gruppe bleiben auch im gemeinsamen Notstand sichtbar.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-042"
     },
     {
       "candidate_id": "A-143",
@@ -2095,10 +2101,13 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Journalistische Recherche führt in eine internationale Verschwörung vor dem Krieg.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Ein unerfahrener politischer Reporter entschlüsselt eine inszenierte Ermordung und eine getarnte Spionageorganisation. Die Bewegung von komischer Naivität zu einer öffentlichen Warnung verbindet Suspense mit dem Entstehungsmoment des Krieges.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-043"
     },
     {
       "candidate_id": "A-144",
@@ -2106,12 +2115,15 @@
       "film_title_original": "Young and Innocent",
       "film_year": 1937,
       "genre": "Thriller",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein zu Unrecht Verdächtigter und eine unerwartete Helferin suchen den Täter.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Unschuldige Flucht, ein weitergegebenes Kleidungsstück und eine selbst ermittelnde junge Frau verbinden Spannung mit romantischer Komik. Die Enthüllung durch ein winziges körperliches Merkmal erlaubt eine eigenständige Frage zur visuellen Erzählung.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-044"
     },
     {
       "candidate_id": "A-145",
@@ -2119,25 +2131,31 @@
       "film_title_original": "Secret Agent",
       "film_year": 1936,
       "genre": "Thriller",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein geheimer Tötungsauftrag macht Irrtum und moralische Verantwortung zum Spannungskern.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Suche nach einem feindlichen Agenten führt zunächst zu einem Mord am falschen Mann. Der Film macht die Gewissensfrage der eigenen Agenten zum Bestandteil des Spannungsgeschehens.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-045"
     },
     {
       "candidate_id": "A-146",
-      "film_title_de": "Die Killer",
+      "film_title_de": "Rächer der Unterwelt",
       "film_title_original": "The Killers",
       "film_year": 1946,
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Rückblickende Ermittlung erklärt, weshalb ein Mann seinen gewaltsamen Tod erwartet.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Der Mord steht am Anfang; eine Versicherungsermittlung rekonstruiert anschließend den Weg zur freiwillig hingenommenen Tötung. Die voneinander abweichenden Erinnerungen eröffnen eigenständige Fragen zu Schutz, Verrat und nachträglicher Aufklärung.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-046"
     },
     {
       "candidate_id": "A-147",
