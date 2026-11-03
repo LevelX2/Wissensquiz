@@ -1,0 +1,247 @@
+{
+  "id": "ACTION-012",
+  "film_title_de": "Nachtfalken",
+  "film_title_original": "Nighthawks",
+  "film_year": 1981,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Stallones früher Polizeifilm mit Rutger Hauer hat ein bekanntes Darstellerduell, ist aber weniger allgegenwärtig als Rocky oder Rambo.",
+  "selection_reason": "Die Jagd zweier Großstadtpolizisten auf einen internationalen Terroristen wechselt zwischen Straßenverfolgung, U-Bahn und Luftseilbahn-Geiselnahme.",
+  "directors": [
+    "Bruce Malmuth"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI dokumentiert den Start in New York und Los Angeles am 10. April 1981; Universal bestätigt 1981. Die Herstellung 1980 ist kein Veröffentlichungsjahr.",
+  "director_note": "Offizieller Hauptcredit Bruce Malmuth laut AFI und Universal. Gary Nelson wurde während des Drehs entlassen; Stallone überbrückte laut AFI einen Tag, bis Malmuth ankam. Beide werden nicht als zusätzliches offizielles Hauptregieteam geführt.",
+  "country_note": "USA laut vollständigem AFI-Eintrag. Die Drehorte London und Paris begründen keine eigenständigen Produktionsländer.",
+  "series": null,
+  "series_note": "Eigenständiger Film mit DaSilva und Fox. Die verworfene Drehbuchplanung als dritter French-Connection-Film ist keine realisierte Teilnummer dieses Werks.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/56666-NIGHTHAWKS",
+    "https://en.wikipedia.org/wiki/Nighthawks_(1981_film)"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/56666-NIGHTHAWKS",
+      "accessed_on": "2026-11-03",
+      "supports": "Geschichte, vollständige Credits, Details und komplette Handlung gelesen: Darsteller/Figuren, USA, Malmuths Ersatz für Nelson und Stallones einzelner Regietag, Paris-Operation, Luftseilbahn, Hartman-Tonband und finale Frauenverkleidung."
+    },
+    "universal": {
+      "url": "https://www.universalpicturesathome.com/movies/nighthawks",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Synopsis und Credits tatsächlich gelesen: Stallone/Hauer, europäischer Terrorist in New York, Straßen/U-Bahn/Seilbahn, Bruce Malmuth und Erstjahr 1981."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Nighthawks_(1981_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Produktionsabschnitt gelesen: Operation in Paris, Fox/DaSilva, Geiseln auf Roosevelt-Island-Tram, Tonband provoziert Shakka, DaSilva täuscht Irene vor; verworfene French-Connection-Planung und Hauptcreditwechsel."
+    },
+    "kritik": {
+      "url": "https://www.jestersreviews.com/reviews/9238",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene ausführliche Szenenkritik: DaSilva/Fox und Gegenspieler Hauer, Pariser Gesichtsoperation, Hartman-Konflikt, Frauenverkleidung im Auftakt und Disco/U-Bahn-Verfolgung; wird nicht als zeitgenössischer Bericht datiert, trotz rückdatiertem Seitenkopf."
+    },
+    "blade": {
+      "url": "https://www.bfi.org.uk/film/ec064a2a-f7a8-536a-afa2-ed076aad151f/blade-runner",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller BFI-Werkeintrag tatsächlich gelesen: Blade Runner 1982 von Ridley Scott, Rutger Hauer als Replikant neben Ford; Vergleich mit seiner Terroristenrolle im Vorjahr."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Sylvester Stallone spielt Polizist Deke DaSilva.",
+      "question": "Wer spielt Deke DaSilva, den New Yorker Polizisten in „Nachtfalken“?",
+      "answers": [
+        "Sylvester Stallone",
+        "Al Pacino",
+        "Roy Scheider",
+        "James Caan"
+      ],
+      "short": "Sylvester Stallone spielt Deke DaSilva.",
+      "context": "Deke DaSilva (Sylvester Stallone) arbeitet mit Matthew Fox (Billy Dee Williams) auf den Straßen New Yorks. Bei einem Einsatz gibt er sich als Frau aus, um Räuber zu stellen. Die Versetzung zu einer neuen Antiterroreinheit verändert den Auftrag, beseitigt aber nicht seine Gewohnheit, Situationen mit den Mitteln eines erfahrenen Straßenpolizisten zu lesen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Rutger Hauer spielt den Terroristen Wulfgar.",
+      "question": "Wer spielt Wulfgar, den international gesuchten Terroristen in „Nachtfalken“?",
+      "answers": [
+        "Rutger Hauer",
+        "Jürgen Prochnow",
+        "Klaus Maria Brandauer",
+        "Helmut Berger"
+      ],
+      "short": "Rutger Hauer verkörpert Wulfgar.",
+      "context": "Wulfgar (Rutger Hauer) verlegt seine Anschläge nach New York, als seine Bewegungsfreiheit in Europa schrumpft. Er nutzt Bekanntschaften als Deckung und sucht zugleich die Öffentlichkeit für seine Gewalt. Deke DaSilva (Sylvester Stallone) verfolgt dadurch einen Gegner, der im Gedränge der Stadt verschwinden und sich im nächsten Moment durch einen spektakulären Angriff bemerkbar machen kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "universal",
+        "kritik"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Wulfgar lässt sein Gesicht in Paris operativ verändern.",
+      "question": "Wie erschwert Wulfgar (Rutger Hauer) in „Nachtfalken“ vor seiner Reise nach New York die Fahndung anhand seines bekannten Fotos?",
+      "answers": [
+        "Er lässt sein Gesicht operativ verändern.",
+        "Er verbreitet die Nachricht von seinem Tod bei einem Brand.",
+        "Er tauscht seine Identität mit einem ähnlich aussehenden Gefangenen.",
+        "Er lässt die Fahndungsakten durch einen bestochenen Ermittler vernichten."
+      ],
+      "short": "Wulfgar unterzieht sich in Paris einer Gesichtsoperation.",
+      "context": "Shakka (Persis Khambatta) teilt Wulfgar (Rutger Hauer) mit, dass die Polizei sein Bild kennt. Die Operation soll dieses Wissen entwerten. Deke DaSilva (Sylvester Stallone) muss den veränderten Mann später in einer Diskothek erkennen. Die vorbereitende Fahndungsarbeit mündet deshalb in einen gefährlichen Moment unmittelbarer Wiedererkennung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "kritik"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Wulfgar und Shakka nehmen die Passagiere einer Roosevelt-Island-Luftseilbahn als Geiseln.",
+      "question": "Wo nehmen Wulfgar (Rutger Hauer) und Shakka (Persis Khambatta) in „Nachtfalken“ mehrere UN-Gäste als Geiseln?",
+      "answers": [
+        "In einer Kabine der Roosevelt-Island-Luftseilbahn",
+        "In einem Fährschiff nach Staten Island",
+        "In einem Schnellzug nach Newark",
+        "In einem Ausflugsboot unter der Brooklyn Bridge"
+      ],
+      "short": "Die Geiseln sitzen in einer Luftseilbahnkabine über dem Wasser fest.",
+      "context": "Wulfgar (Rutger Hauer) und Shakka (Persis Khambatta) greifen zu, als die Kabine über dem Fluss schwebt. Deke DaSilva (Sylvester Stallone) muss unbewaffnet hinaufgebracht werden, um ein freigegebenes Baby zu übernehmen. Der erhöhte, eng begrenzte Raum verschafft den Entführern Kontrolle über die Passagiere und macht jede Befreiung besonders schwierig.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Eine aufgezeichnete Beleidigung Hartmans provoziert Shakka, ihre Geiseldeckung zu verlassen.",
+      "question": "Womit bringt DaSilva (Sylvester Stallone) Shakka (Persis Khambatta) beim Bustransfer der Geiseln in „Nachtfalken“ dazu, ihre Deckung zu verlassen?",
+      "answers": [
+        "Mit einer Tonbandaufnahme von Hartmans beleidigenden Worten",
+        "Mit einem fingierten Funkspruch über Wulfgars Festnahme",
+        "Mit einem gefälschten Pass auf ihren wirklichen Namen",
+        "Mit der vorgetäuschten Übergabe einer Tasche voller Geld"
+      ],
+      "short": "DaSilva spielt die aufgezeichneten Worte Hartmans ab.",
+      "context": "Die Geiseln bilden eine Schutzgruppe um die Terroristen. Deke DaSilva (Sylvester Stallone) nutzt Worte des zuvor ermordeten Hartman (Nigel Davenport), um Shakka (Persis Khambatta) zu einem impulsiven Angriff zu reizen. Erst als sie sich aus der Deckung löst, kann Matthew Fox (Billy Dee Williams) aus seiner Schützenposition eingreifen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "DaSilva fängt Wulfgar in der Verkleidung seiner Frau Irene ab.",
+      "question": "Wer verbirgt sich im Finale von „Nachtfalken“ hinter der vermeintlichen Irene, an die Wulfgar sich in der Küche anschleicht?",
+      "answers": [
+        "DaSilva in Frauenkleidung und Perücke",
+        "Fox unter einer blonden Perücke",
+        "Eine Polizistin, die Irene ähnlich sieht",
+        "Eine weibliche Verwandte, die Irene vertritt"
+      ],
+      "short": "Es ist DaSilva, der Wulfgar in Irenes Erscheinung erwartet.",
+      "context": "Nach dem Bustransfer gilt Wulfgar (Rutger Hauer) noch immer als verschwunden. Seine Unterlagen verraten Deke DaSilva (Sylvester Stallone) jedoch das Interesse an Irene (Lindsay Wagner). Der Polizist übernimmt ihre äußere Erscheinung und erwartet den Angreifer. Damit kehrt die im Auftakt verwendete Frauenverkleidung unter erheblich persönlicheren Vorzeichen zurück.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Nachtfalken wurde erstmals 1981 veröffentlicht.",
+      "question": "In welchem Jahr erschien „Nachtfalken“ mit Sylvester Stallone und Rutger Hauer erstmals?",
+      "answers": [
+        "1981",
+        "1974",
+        "1987",
+        "1995"
+      ],
+      "short": "Der Film erschien 1981.",
+      "context": "Auf „Nachtfalken“ von 1981 folgte 1982 eine weitere amerikanische Filmrolle Hauers: Er spielte Rutger Hauer in Ridley Scotts „Blade Runner“ den Replikanten Roy Batty. Auf den zeitgenössischen Terroristen in „Nachtfalken“ folgte damit eine weitere Gegenspielerrolle in einer düsteren Großstadtwelt. Die beiden Figuren gehören jedoch unterschiedlichen Genres und Konflikten an: politische Gewalt hier, künstliches Leben und begrenzte Lebenszeit dort.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "universal",
+        "blade"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Bruce Malmuth trägt den offiziellen Hauptregiecredit.",
+      "question": "Wer trägt bei „Nachtfalken“ den offiziellen Hauptregiecredit?",
+      "answers": [
+        "Bruce Malmuth",
+        "Sidney J. Furie",
+        "Joseph Sargent",
+        "Andrew Davis"
+      ],
+      "short": "Bruce Malmuth führte offiziell Hauptregie.",
+      "context": "Bruce Malmuth kam während laufender Dreharbeiten ins Projekt, nachdem Gary Nelson entlassen worden war. Bis er aus Los Angeles in New York eintraf, übernahm Sylvester Stallone für einen Tag. Diese Zwischenlösung erklärt einen tatsächlichen Regiebeitrag des Hauptdarstellers. Der offizielle Credit des fertigen Films gehört dennoch Malmuth; Keith Emerson schrieb die Musik.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

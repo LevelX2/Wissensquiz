@@ -1,0 +1,258 @@
+{
+  "id": "ACTION-011",
+  "film_title_de": "Cop Land",
+  "film_title_original": "Cop Land",
+  "film_year": 1997,
+  "genre": "Action",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 2,
+  "familiarity_reason": "Die prominente Besetzung und Stallones ungewöhnliche Sheriffrolle sind gut bekannt; die einzelnen Vertuschungs- und Loyalitätskonflikte verlangen genauere Erinnerung.",
+  "selection_reason": "Ein lokaler Sheriff stellt sich einer bewaffneten Polizeiclique. Die konzentrierte Außenseiterperspektive, das Ensemble und die subjektive Tongestaltung des Finales begründen neben der Kriminalaction den Arthouse-Zusatz; Cinemateca ordnet den Film in Mangolds Autorenarbeit ein.",
+  "directors": [
+    "James Mangold"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1997 laut Miramax und AFI; American Humane nennt den US-Start am 15. August. Spätere längere Montagen sind keine neuen Filmidentitäten.",
+  "director_note": "James Mangold ist offiziell als alleiniger Hauptregisseur und Drehbuchautor genannt; die Regie weiterer Einheiten begründet keinen zusätzlichen Hauptcredit.",
+  "country_note": "Amerikanische Miramax/Woods-Produktion, USA bestätigt durch AFI. New Jersey und New York sind hier auch Handlungsschauplätze.",
+  "series": null,
+  "series_note": "Eigenständige Geschichte über Garrison; keine nummerierte Fortsetzung in den geprüften offiziellen Werkangaben.",
+  "series_sources": [
+    "https://www.miramax.com/movie/cop-land/",
+    "https://catalog.afi.com/Catalog/moviedetails/60698"
+  ],
+  "sources": {
+    "miramax": {
+      "url": "https://www.miramax.com/movie/cop-land/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Synopsis und Credits tatsächlich gelesen: Freddy Heflin als Sheriff einer von New Yorker Polizisten bewohnten Kleinstadt; Entscheidung zwischen bewunderten Kollegen und Gesetz, Mangold, Jahr 1997; Clipangaben zur Brückenvertuschung."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/60698",
+      "accessed_on": "2026-11-03",
+      "supports": "AFI-Credits und Details gelesen: Mangold als Autor/Regisseur, Besetzung und Figuren, USA 1997. Keine dort nicht vorhandene vollständige Handlung beansprucht."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/cop-land-1997",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger indizierter Text von Roger Ebert gelesen; direkter Abruf 403. Garrison in New Jersey, NYPD-Wohnortregel, Freddy und sein Hörverlust bei Liz’ Rettung, Moe Tilden, Babitchs vermeintliche Waffe und vorgetäuschter Suizid; Mangolds Autorenschaft."
+    },
+    "cinemateca": {
+      "url": "https://www.cinemateca.pt/CinematecaSite/media/Documentos/2023-12-11_COP-LAND.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Beide PDF-Seiten tatsächlich gelesen: vollständige Hauptcredits und Ensemble; Mangolds zweiter Langfilm, Vorstadt-Außenseiterperspektive, Springsteen-Bezüge und subjektiver Ton im Finale nach erneutem Hörverlust. Essay Luís Miguel Oliveira."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Cop_Land",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung gelesen: Liz-Rettung/Hörverlust, Tilden, Babitch-Vertuschung, Figgis’ Versicherungsbrand, Schuss neben Freddys gesundem Ohr, Schlussgefecht und Übergabe Babitchs."
+    },
+    "sundance": {
+      "url": "https://www.sundance.org/blogs/sundance40th-a-look-back-at-the-sundance-institute-in-the-1990s-3/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller indizierter Sundance-Rückblick tatsächlich gelesen: Mangolds Debüt Heavy mit Regie-Sonderpreis beim Festival 1995, danach Cop Land; Cop Land wurde im Directors Lab 1994 entwickelt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Sylvester Stallone spielt Sheriff Freddy Heflin.",
+      "question": "Wer spielt den zurückhaltenden Sheriff Freddy Heflin in „Cop Land“?",
+      "answers": [
+        "Sylvester Stallone",
+        "Bruce Willis",
+        "Kevin Costner",
+        "Kurt Russell"
+      ],
+      "short": "Sylvester Stallone spielt Freddy Heflin.",
+      "context": "Freddy Heflin (Sylvester Stallone) bewundert die New Yorker Polizisten, die in seiner Gemeinde wohnen. Als Sheriff bleibt er für sie dennoch ein Mann außerhalb ihres Kreises. Seine Nachsicht hält zunächst eine Ordnung aufrecht, die er später untersuchen muss. Aus dem Wunsch nach Anerkennung entsteht so ein Hindernis für die Ausübung seines eigenen Amtes.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "miramax",
+        "cinemateca"
+      ],
+      "spoiler": "gering",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P01-016-S-2",
+      "variant_of": "SCHAUSPIELER-202610-P01-016-S-2"
+    },
+    {
+      "code": "L2",
+      "objective": "Garrison ist die von New Yorker Polizisten bewohnte Gemeinde in New Jersey.",
+      "question": "Wo lebt die Polizeiclique, über deren Wohnort Freddy Heflin (Sylvester Stallone) in „Cop Land“ als Sheriff wacht?",
+      "answers": [
+        "In Garrison in New Jersey",
+        "In Beacon im Staat New York",
+        "In Stamford in Connecticut",
+        "In Allentown in Pennsylvania"
+      ],
+      "short": "Die Clique wohnt in Garrison, New Jersey.",
+      "context": "Garrison liegt jenseits des Hudson River und bietet den Beamten ein eigenes kleines Machtgebiet. Ray Donlan (Harvey Keitel) organisiert das Netzwerk, während Freddy Heflin (Sylvester Stallone) den lokalen Ordnungsdienst versieht. Die Nähe zu New York beseitigt die Zuständigkeitsgrenze nicht: Gerade zwischen den Institutionen kann die Clique ihre geschützte Stellung ausbauen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "miramax"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Freddy verlor beim Retten von Liz aus dem Wasser das Gehör auf einem Ohr.",
+      "question": "Wodurch verlor Freddy Heflin (Sylvester Stallone) in „Cop Land“ als junger Mann sein Gehör auf einem Ohr?",
+      "answers": [
+        "Bei der Rettung von Liz aus dem Hudson River",
+        "Bei einer Explosion während seiner Polizeiausbildung",
+        "Durch einen Schuss neben seinem Kopf bei einem Banküberfall",
+        "Bei einem Unfall während seines Militärdienstes"
+      ],
+      "short": "Freddy verletzte sich bei der Rettung von Liz aus dem Fluss.",
+      "context": "Liz Randone (Annabella Sciorra) verdankt Freddy Heflin (Sylvester Stallone) ihr Leben. Der bleibende Hörverlust verhinderte jedoch seinen ersehnten Eintritt in die New Yorker Polizei. Liz heiratete später einen anderen Polizisten. Die frühere Rettung erklärt damit gleichzeitig seine körperliche Einschränkung, seinen unerfüllten Berufswunsch und eine noch immer schmerzende persönliche Bindung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Moe Tilden ermittelt als Beamter der Internen Ermittlung gegen korrupte Polizisten.",
+      "question": "Welche Aufgabe hat Moe Tilden (Robert De Niro), der Freddy Heflins Hilfe in „Cop Land“ sucht?",
+      "answers": [
+        "Er untersucht Polizeikorruption für die Interne Ermittlung.",
+        "Er verteidigt angeklagte Polizisten im Auftrag der Gewerkschaft.",
+        "Er beaufsichtigt als Bundesstaatsanwalt eine Kronzeugenumsiedlung.",
+        "Er leitet eine verdeckte Drogenfahndung der Zollbehörde."
+      ],
+      "short": "Tilden arbeitet für die Interne Ermittlung.",
+      "context": "Moe Tilden (Robert De Niro) braucht Zugang zu einer Gemeinde, in der Kollegen einander decken. Freddy Heflin (Sylvester Stallone) könnte ihm diesen Zugang verschaffen, hält aber zunächst zu seinen Vorbildern. Tildens Angebot zwingt ihn, seine Rolle neu zu bestimmen: Die Zugehörigkeit zu einem Polizeimilieu und die Verteidigung des Rechts sind hier verschiedene Verpflichtungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "miramax",
+        "cinemateca"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Figgis setzte für eine Versicherungszahlung sein eigenes Haus in Brand.",
+      "question": "Was erkennt Freddy (Sylvester Stallone) über den Brand in Gary Figgis’ Haus in „Cop Land“?",
+      "answers": [
+        "Figgis legte ihn selbst, um mit dem Versicherungsgeld fortzugehen.",
+        "Donlan legte ihn, um die dort versteckten Ermittlungsakten zu vernichten.",
+        "Babitch legte ihn, um seinen eigenen Tod ein zweites Mal vorzutäuschen.",
+        "Rucker legte ihn, um Figgis’ Flucht durch den Keller zu decken."
+      ],
+      "short": "Figgis hatte den Brand für einen Versicherungsbetrug selbst gelegt.",
+      "context": "Gary Figgis (Ray Liotta) erscheint zunächst als weiteres Opfer von Ray Donlans (Harvey Keitel) Einfluss. Freddy Heflin (Sylvester Stallone) entdeckt jedoch den eigenen Fluchtplan hinter dem Feuer. Die neue Einsicht macht den potenziellen Verbündeten nicht zu einer makellosen Gegenfigur. Im entscheidenden Kampf hilft Figgis trotzdem, den Sheriff vor Donlans Angriff zu bewahren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Ton des Schlussgefechts folgt Freddys zeitweise weitgehend verlorener Hörwahrnehmung.",
+      "question": "Wie macht „Cop Land“ Freddys Wahrnehmung nach dem Schuss neben sein gesundes Ohr im Schlussgefecht erfahrbar?",
+      "answers": [
+        "Der unmittelbare Umgebungston wird stark zurückgenommen.",
+        "Ein erklärender innerer Monolog beschreibt jeden Schuss.",
+        "Die Schüsse werden mit einem fremden Funkgespräch überlagert.",
+        "Die Dialoge werden als hörbare Erinnerungen vorweggenommen."
+      ],
+      "short": "Der stark reduzierte Umgebungston folgt Freddys verletztem Gehör.",
+      "context": "Freddy Heflin (Sylvester Stallone) war bereits auf einem Ohr taub. Nachdem die Gegner dicht neben dem anderen geschossen haben, ist sein Zugang zur Umgebung weiter eingeschränkt. Der Film bindet die Gewalt nun an diese subjektive Wahrnehmung. Man verfolgt den Sheriff nicht nur von außen, sondern erlebt den Kampf mit einem entscheidend veränderten Sinneseindruck.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cinemateca",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Cop Land erschien erstmals 1997.",
+      "question": "In welchem Jahr erschien „Cop Land“ mit Sylvester Stallone erstmals?",
+      "answers": [
+        "1997",
+        "1990",
+        "2004",
+        "2011"
+      ],
+      "short": "Der Film erschien 1997.",
+      "context": "James Mangolds Debüt „Heavy“ hatte bereits 1995 beim Sundance Film Festival einen Sonderpreis für Regie gewonnen. Zwei Jahre später stand ihm für „Cop Land“ ein großes Ensemble bekannter Kinodarsteller zur Verfügung. Das Projekt selbst hatte er schon 1994 im Directors Lab entwickelt; seine Entstehung begann somit vor der öffentlichen Anerkennung des ersten Langfilms.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "miramax",
+        "sundance"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "James Mangold schrieb und inszenierte Cop Land.",
+      "question": "Wer schrieb das Drehbuch und führte bei „Cop Land“ Regie?",
+      "answers": [
+        "James Mangold",
+        "Michael Mann",
+        "David Ayer",
+        "Paul Schrader"
+      ],
+      "short": "James Mangold schrieb und inszenierte den Film.",
+      "context": "Eric Edwards fotografierte das Ensemble, Craig McKay montierte den Film und Howard Shore komponierte die Musik. James Mangold stellt einen Sheriff ins Zentrum, dessen Amt weit unscheinbarer wirkt als der Status der von ihm bewunderten Großstadtpolizisten. Erst als Freddy Heflin (Sylvester Stallone) den eigenen Handlungsspielraum nutzt, kann er deren abgeschirmte Macht angreifen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cinemateca",
+        "miramax",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

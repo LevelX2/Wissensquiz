@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 238 Filmfassungen mit 1904 Fragen lokal integriert. 263 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 244 Filmfassungen mit 1952 Fragen lokal integriert. 257 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -871,8 +871,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Gefängniskonflikt und institutionelle Willkür strukturieren den körperlichen Widerstand.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-010"
     },
     {
       "candidate_id": "A-061",
@@ -883,9 +884,12 @@
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein unterschätzter Sheriff stellt sich korrupter Polizeimacht; Action mit moralischem Konflikt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-011"
     },
     {
       "candidate_id": "A-062",
@@ -897,8 +901,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Großstadtpolizei gegen einen international agierenden Terroristen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-012"
     },
     {
       "candidate_id": "A-063",
@@ -909,22 +914,27 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Reduzierter Rachegang und fragmentierte Erzählung erweitern die Actionfilmgeschichte.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-013"
     },
     {
       "candidate_id": "A-064",
       "film_title_de": "Die Entführung der U-Bahn Pelham 123",
-      "film_title_original": "The Taking of Pelham 123",
+      "film_title_original": "The Taking of Pelham 1 2 3",
       "film_year": 2009,
       "genre": "Action",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Eigenständige Neuverfilmung über Verhandlung und Transportgefahr.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-014"
     },
     {
       "candidate_id": "A-065",
@@ -936,8 +946,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Eisenbahner müssen einen unbemannten Zug stoppen; kooperative Rettungsaction.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-015"
     },
     {
       "candidate_id": "A-066",

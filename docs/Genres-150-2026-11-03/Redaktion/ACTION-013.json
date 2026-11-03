@@ -1,0 +1,256 @@
+{
+  "id": "ACTION-013",
+  "film_title_de": "Point Blank",
+  "film_title_original": "Point Blank",
+  "film_year": 1967,
+  "genre": "Action",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein prägender Rachefilm mit Lee Marvin, dessen Titel vielen vertraut ist; seine Erzählstruktur und einzelnen Figuren verlangen genauere Kenntnis.",
+  "selection_reason": "Walkers gewaltsame Rückforderung verbindet Gangsteraction mit fragmentierter Zeit und subjektiver Wahrnehmung. BFI und Criterion beschreiben ausdrücklich die modernistische Gestaltung; sie begründet Arthouse neben dem Klassikerstatus.",
+  "directors": [
+    "John Boorman"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Premiere und erster Start in San Francisco am 30. August 1967 laut AFI und BFI; AFIs Hauptfeld 19. September bezeichnet den späteren New Yorker Start.",
+  "director_note": "John Boorman ist laut vollständigen AFI- und Criterion-Credits alleiniger Hauptregisseur.",
+  "country_note": "USA laut AFI, Criterion und BFI. Boormans britische Herkunft macht die MGM-Produktion nicht zu einer britischen Koproduktion.",
+  "series": null,
+  "series_note": "Eigenständige Bearbeitung von Richard Starks The Hunter. Payback ist eine spätere andere Verfilmung, keine Fortsetzung; die ebenfalls Point Blank betitelten französischen und amerikanischen Filme anderer Jahre sind getrennte Werke.",
+  "series_sources": [
+    "https://www.criterion.com/current/posts/9132-point-blank-a-dream-of-full-color-noir"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/23319-POINT-BLANK",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Geschichte, Credits, Details und Handlung gelesen: Alcatraz-Raub, Reese/Lynne/Chris, Yost als Fairfax, Rückforderung und Schluss; USA, Boorman, Premiere 1967 und Gefängnisschließung 1963. Widersprüchliche Buchjahre 1961/1963 im Eintrag werden nicht übernommen."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/32290-point-blank",
+      "accessed_on": "2026-11-03",
+      "supports": "Rechteanbieter mit vollständigen Credits und Synopsis tatsächlich gelesen: Lee Marvin/Walker, Dickinson/Chris, USA 1967, Boorman, Lathrop, Mandel, Stark-Vorlage und modernistische Rachehandlung."
+    },
+    "dyer": {
+      "url": "https://www.criterion.com/current/posts/9132-point-blank-a-dream-of-full-color-noir",
+      "accessed_on": "2026-11-03",
+      "supports": "Geoff Dyers gesamten Essay gelesen: wiederholte 93.000-Dollar-Forderung, Walkers LAX-Schritte klingen über späteren Ortswechseln weiter, Chris und Zugang zu Reese, abgestimmte Farbgestaltung und Boormans gestalterischer Spielraum. Dyers abschließendes Alcatraz-Wort wird nicht als genauer Dreh-/Handlungsort des Fort-Point-Finales verwendet."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/point-blank-john-boorman-thrillers",
+      "accessed_on": "2026-11-03",
+      "supports": "Andrew Nettes vollständigen Point-Blank-Abschnitt gelesen: Erststart 30. August 1967, Raub auf Alcatraz, Rückforderung, Marvins Freigabe von Drehbuch/Besetzung/Finalschnitt an Boorman, fragmentierte Rückblenden und unzuverlässige Perspektive."
+    },
+    "silver": {
+      "url": "https://silver.afi.com/movies/detail/0100001633/",
+      "accessed_on": "2026-11-03",
+      "supports": "AFI-Silver-Synopsis und Credits tatsächlich gelesen: Marvin als betrogener Walker, Partner nimmt Geld und Frau, Rückforderung, Noir/Neue-Welle-Verbindung, Boorman und amerikanische Produktion 1967."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Point_Blank_(1967_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmhandlung gelesen: Chris als Lynnes Schwester und Zutritt zu Reeses Penthouse; Yost/Fairfax, Brewsters Tod, Walkers ungenutztes Geld und Rückzug ins Dunkel. Keine widersprüchliche Romanjahreszahl aus der Einleitung übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Lee Marvin spielt Walker.",
+      "question": "Wer spielt den schweigsamen, um seinen Beuteanteil betrogenen Walker in „Point Blank“ von 1967?",
+      "answers": [
+        "Lee Marvin",
+        "Charles Bronson",
+        "Robert Mitchum",
+        "Burt Lancaster"
+      ],
+      "short": "Lee Marvin spielt Walker.",
+      "context": "Walker (Lee Marvin) wurde von seinem Partner Mal Reese (John Vernon) niedergeschossen und zurückgelassen. Als er wieder auftaucht, verlangt er seinen Anteil am Raub zurück. Die Männer der Organisation verweisen ihn immer weiter nach oben. Seine beharrliche Forderung setzt damit einen Weg durch die Hierarchie eines verbrecherischen Unternehmens in Gang.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "silver"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der Raub und Verrat finden auf der verlassenen Gefängnisinsel Alcatraz statt.",
+      "question": "An welchem Ort wird Walker (Lee Marvin) nach dem gemeinsamen Raub in „Point Blank“ von seinem Partner zurückgelassen?",
+      "answers": [
+        "Auf der verlassenen Gefängnisinsel Alcatraz",
+        "Auf dem stillgelegten Militärstützpunkt Fort Ord",
+        "Auf dem verlassenen Vergnügungsgelände von Venice Pier",
+        "Auf dem ehemaligen Gefängnisschiff im Hafen von San Pedro"
+      ],
+      "short": "Der Verrat spielt auf Alcatraz.",
+      "context": "Walker (Lee Marvin), Lynne (Sharon Acker) und Mal Reese (John Vernon) überfallen eine Geldübergabe auf der ehemaligen Gefängnisinsel. Der scheinbar erfolgreiche Raub endet für Walker mit Schüssen statt mit seinem Anteil. Der Ort wird zum Ausgangspunkt einer Erzählung, deren Zeitsprünge den Zusammenhang zwischen Verletzung, Erinnerung und späterer Rückkehr offenhalten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Walker fordert seinen ursprünglichen Beuteanteil von 93.000 Dollar zurück.",
+      "question": "Was verlangt Walker (Lee Marvin) von der Organisation in „Point Blank“ immer wieder?",
+      "answers": [
+        "Seinen ausstehenden Beuteanteil von 93.000 Dollar",
+        "Die Auslieferung aller am Raub beteiligten Männer an die Polizei",
+        "Die Übertragung von Reeses Stellung innerhalb der Organisation",
+        "Die Rückgabe des gesamten Geldes an die ursprünglichen Besitzer"
+      ],
+      "short": "Er verlangt seinen eigenen Anteil zurück.",
+      "context": "Walker (Lee Marvin) begründet sein Vorgehen mit einer klar bezifferten Forderung. Auch als er immer tiefer in die Organisation eindringt, erklärt er sich nicht zum Nachfolger der getöteten Männer. Die auffällige Wiederholung macht sein Ziel zugleich eigentümlich: Die Gewalt wächst, während die verlangte Summe unverändert bleibt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dyer",
+        "bfi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Chris ist Lynnes Schwester und hilft Walker, Reese zu erreichen.",
+      "question": "In welchem Verhältnis steht Chris (Angie Dickinson), Walkers Verbündete in „Point Blank“, zu dessen Frau Lynne?",
+      "answers": [
+        "Sie ist Lynnes Schwester.",
+        "Sie ist Lynnes frühere Arbeitgeberin.",
+        "Sie ist Lynnes Stiefmutter.",
+        "Sie ist Lynnes ehemalige Bewährungshelferin."
+      ],
+      "short": "Chris ist die Schwester von Lynne.",
+      "context": "Nach Lynnes (Sharon Acker) Tod arbeitet Walker (Lee Marvin) mit deren Schwester Chris (Angie Dickinson) zusammen. Sie hilft ihm, Mal Reese (John Vernon) in seinem bewachten Penthouse zu erreichen. Ihre Rolle erschöpft sich dabei nicht in einem neuen romantischen Interesse: Eigene Verbindungen zum Kreis der Verräter machen den Zugang überhaupt erst möglich.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "dyer",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Yost erweist sich als Organisationschef Fairfax und benutzt Walker gegen Rivalen.",
+      "question": "Welche Identität hat Walkers vermeintlicher Helfer Yost (Keenan Wynn) im Finale von „Point Blank“?",
+      "answers": [
+        "Er ist Fairfax, der Chef der Organisation.",
+        "Er ist ein verdeckt ermittelnder Bundespolizist.",
+        "Er ist der Mittelsmann einer konkurrierenden Gang.",
+        "Er ist ein von der Versicherung beauftragter Ermittler."
+      ],
+      "short": "Yost ist der Organisationschef Fairfax.",
+      "context": "Yost (Keenan Wynn) hat Walker (Lee Marvin) auf die Männer der Organisation angesetzt. Nach Brewsters (Carroll O’Connor) Tod wird deutlich, wem deren Ausschaltung nützt: Der scheinbare Helfer steht selbst an der Spitze. Walker hat mit seiner privaten Rückforderung zugleich Rivalen dieses Mannes beseitigt. Das angebotene Geld bleibt am Schluss liegen, während er im Dunkeln verschwindet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Walkers rhythmische Schritte klingen über den Wechsel zu späteren Einstellungen weiter.",
+      "question": "Welche Tonmontage prägt die Sequenz nach Walkers Ankunft am Flughafen in „Point Blank“?",
+      "answers": [
+        "Seine Schritte laufen über spätere Fahr- und Wartebilder weiter.",
+        "Ein Nachrichtensprecher beschreibt vorausgreifend seinen nächsten Überfall.",
+        "Reeses Stimme wiederholt sich über einer stummen Gesangsnummer.",
+        "Ein fortlaufender Polizeifunk verbindet alle Rückblenden mit der Gegenwart."
+      ],
+      "short": "Das Schrittgeräusch überdauert den sichtbaren Gang.",
+      "context": "Walker (Lee Marvin) geht durch den langen Flughafenkorridor. Das harte rhythmische Geräusch seiner Schuhe bleibt hörbar, obwohl er später bereits fährt oder auf Lynne (Sharon Acker) wartet. Ton und sichtbare Handlung fallen zeitlich auseinander. Seine Entschlossenheit bestimmt dadurch den Rhythmus der Folge, ohne dass ein erklärender innerer Monolog nötig wäre.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dyer"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Point Blank mit Lee Marvin erschien erstmals 1967.",
+      "question": "In welchem Jahr erschien „Point Blank“ mit Lee Marvin erstmals?",
+      "answers": [
+        "1967",
+        "1959",
+        "1974",
+        "1982"
+      ],
+      "short": "Der Film erschien 1967.",
+      "context": "Das Bundesgefängnis Alcatraz war bereits 1963 geschlossen worden. Vier Jahre später erhielt das Filmteam Zugang zu der leer stehenden Insel. MGM musste dafür Ausrüstung heranschaffen und Versorgung für die Arbeit einrichten. Der reale ehemalige Haftort wurde so zum Schauplatz des Raubes und Verrats, von dem Walkers (Lee Marvin) Rückforderung ausgeht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Boorman führte bei Point Blank Hauptregie.",
+      "question": "Wer führte bei „Point Blank“ mit Lee Marvin Regie?",
+      "answers": [
+        "John Boorman",
+        "Don Siegel",
+        "Arthur Penn",
+        "Peter Yates"
+      ],
+      "short": "John Boorman führte Regie.",
+      "context": "Lee Marvin überließ John Boorman seine vertraglichen Mitspracherechte bei Drehbuch, Besetzung und Endschnitt. Der Regisseur nutzte diese Freiheit für eine gebrochene Zeitstruktur und sorgfältig abgestimmte Farbräume. Philip H. Lathrop fotografierte den Film. Die amerikanische Gangstergeschichte wird durch solche Entscheidungen zugleich zu einer Erkundung unsicherer Erinnerung und Wahrnehmung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "criterion",
+        "dyer"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

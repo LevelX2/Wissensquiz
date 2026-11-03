@@ -2655,3 +2655,8 @@ Sechs Horrorfilme mit 48 neuen globalen Zielen integriert; Horror 115. Vollstän
 #### Fortsetzung 03.11.2026 – W38
 
 Sechs japanische Fantasyfilme mit 48 neuen globalen Zielen; Fantasy jetzt 121, Arthouse 163. Vollständige unabhängige Gegenlesung der Agentenredaktion und tatsächlich gelesene Künstlerinterviews. Kaguya-Linien/Leerstellen, Corbels Album als Musikanstoß und Suzukis ausdrücklich persönliche Reiher-Deutung präzise belegt. Originalstimmen und Lebensalter unterschieden; Arrietty-Originaltitel nach JFDB, Katzen-Spin-off als Teil 2 einer klar benannten Folge. Alle 1.904 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 77 Pakete / 17.199 Fragen / 16.507 Ziele; 263 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W39
+
+Sechs Actionfilme mit 48 Fragen, 47 neuen globalen Zielen und einer bestehenden Stallone-Rollenvariante; Action jetzt 115. Vollständige zentrale und zusätzliche unabhängige Gegenlesung. Lock-Up-Motivablenker und Nachtfalken-Zeitanker 1981/1982 präzisiert; subjektiver Ton bei Cop Land, Point-Blanks Tonmontage und die Zughandlungen individuell erschlossen. Offizielle Hauptregie bei Nighthawks von frühen Umbesetzungen getrennt; Pelham-Schreibweise derselben Fassung ausdrücklich abgeglichen. Alle 1.952 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 78 Pakete / 17.247 Fragen / 16.554 Ziele; 257 Genreergänzungen offen.
