@@ -1,0 +1,234 @@
+{
+  "id": "WESTERN-023",
+  "film_title_de": "Das eiserne Pferd",
+  "film_title_original": "The Iron Horse",
+  "film_year": 1924,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein zentraler Stummfilmwestern John Fords, dessen Titel vor allem filmhistorisch interessierten Zuschauern vertraut ist.",
+  "selection_reason": "Das Eisenbahnepos verknüpft private Vergeltung und Liebesgeschichte mit einem nationalen Fortschrittsmythos; zugleich lässt sich seine aufwendige Herstellung konkret erschließen.",
+  "directors": [
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1924: AFI dokumentiert den New Yorker Start am 28. August 1924 trotz Kopfjahr 1925; Library of Congress und ihr Filmessay führen 1924. Die spätere Tonfassung ist gesondert zu betrachten.",
+  "director_note": "John Ford ist offizieller Hauptregisseur; Edward O’Fearna war Regieassistent.",
+  "country_note": "US-Produktion von Fox Film, umfangreiche Außenaufnahmen in Nevada.",
+  "series": null,
+  "series_note": "Eigenständige Eisenbahngeschichte; spätere Tonbearbeitung ist keine Fortsetzung und keine nummerierte Reihe.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/9950-THE-IRON-HORSE"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/9950-THE-IRON-HORSE",
+      "accessed_on": "2026-11-03",
+      "supports": "Synopsis zu Eisenbahnbau, Vermesser Davy, Deroux, konkurrierenden Gesellschaften und finalem Golden Spike; Cast, Hauptregie, Erststart 1924 trotz späterem Kopfjahr 1925."
+    },
+    "loc": {
+      "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/iron_horse.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "David Kiehns Filmessay: John Ford, Werkjahr 1924, Nevada-Winterdreh, gemietete Zirkus-Schlafwagen, unbeheizte Unterkünfte und Kälteprobleme."
+    },
+    "spaetwerk": {
+      "url": "https://catalog.afi.com/Film/23967-CHEYENNE-AUTUMN",
+      "accessed_on": "2026-11-03",
+      "supports": "Cheyenne Autumn erschien 1964 und war Fords letzter Western; zeitlicher Vergleich zur Eisenbahngeschichte 1924."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Handlung kreist um den Bau der transkontinentalen Eisenbahn.",
+      "question": "Welchen Verlauf soll die große Bahnverbindung in „Das eiserne Pferd“ nehmen?",
+      "answers": [
+        "Vom Missouri-Fluss bis zur Pazifikküste",
+        "Von New York entlang der Ostküste nach New Orleans",
+        "Von Texas über die Grenze nach Mexiko-Stadt",
+        "Von den Großen Seen durch Kanada zum Atlantik"
+      ],
+      "short": "Im Zentrum steht die transkontinentale Eisenbahn.",
+      "context": "Der Film verbindet die Arbeit der Bahnbauer mit der Vorstellung einer über große Entfernungen zusammenwachsenden Nation. Abraham Lincoln erscheint als politische Leitfigur dieses Projekts. Die technische Verbindung ist zugleich ein Deutungsrahmen für private Lebensgeschichten, die sich entlang der voranschreitenden Gleise begegnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "George O’Brien spielt den Vermesser Davy Brandon.",
+      "question": "Wer spielt in „Das eiserne Pferd“ den Vermesser Davy Brandon?",
+      "answers": [
+        "George O’Brien",
+        "William S. Hart",
+        "Harry Carey",
+        "Tom Mix"
+      ],
+      "short": "George O’Brien spielt Davy Brandon.",
+      "context": "Davy Brandon (George O’Brien) arbeitet beim Bau der Bahn und begegnet Miriam Marsh (Madge Bellamy), die er schon aus seiner Kindheit kennt. Der Fortschritt des Großprojekts bringt ihn damit auch in eine persönliche Geschichte zurück. Die kollektive Arbeit und seine privaten Hoffnungen verlaufen nicht unabhängig voneinander.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Davy erkennt im Angreifer Deroux den Mörder seines Vaters.",
+      "question": "Welche persönliche Vergangenheit entdeckt Davy Brandon (George O’Brien) während des Angriffs auf einen Bauzug in „Das eiserne Pferd“?",
+      "answers": [
+        "Der Angreifer Deroux ist der Mörder seines Vaters.",
+        "Der Bauleiter Marsh hat Davys Vater um dessen Land betrogen.",
+        "Der Ingenieur Jesson ist Davys verschollener Bruder.",
+        "Der Kavalleriekommandant hat die Ermordung seiner Mutter angeordnet."
+      ],
+      "short": "Davy erkennt Deroux als den Mörder seines Vaters.",
+      "context": "Deroux (Fred Kohler) führt den Angriff auf den Zug an. Für Davy Brandon (George O’Brien) wird die Verteidigung der Bahn dadurch zugleich zu einer persönlichen Konfrontation. Er tötet den Mann im Nahkampf. Der Film fügt den privaten Rachekonflikt in die als gemeinschaftliche Aufbauleistung erzählte Bahngeschichte ein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Union Pacific und Central Pacific bauen von entgegengesetzten Richtungen aufeinander zu.",
+      "question": "Welche beiden Gesellschaften treiben in „Das eiserne Pferd“ den Bahnbau von entgegengesetzten Seiten voran?",
+      "answers": [
+        "Union Pacific und Central Pacific",
+        "Southern Pacific und Northern Pacific",
+        "Atchison, Topeka and Santa Fe und Great Northern",
+        "Baltimore and Ohio und Pennsylvania Railroad"
+      ],
+      "short": "Union Pacific und Central Pacific arbeiten aufeinander zu.",
+      "context": "Davy Brandon (George O’Brien) beginnt bei der Union Pacific und wechselt später zur Central Pacific. Der Film gibt dem Wettlauf beider Gesellschaften einen gemeinsamen Endpunkt. Konkurrenz um die Bautätigkeit und der Mythos einer vollendeten nationalen Verbindung bestehen dadurch nebeneinander.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der finale Golden Spike verbindet den Abschluss des Bahnbaus mit Davys und Miriams Zusammenfinden.",
+      "question": "Welche private Entwicklung verbindet das Finale von „Das eiserne Pferd“ mit dem Einschlagen des goldenen Schienennagels?",
+      "answers": [
+        "Davy und Miriam finden als Paar zusammen.",
+        "Davy wird wegen Deroux’ Tod verhaftet.",
+        "Miriam heiratet den Ingenieur Jesson.",
+        "Davy verlässt Miriam für eine neue Bahnlinie nach Mexiko."
+      ],
+      "short": "Die Verbindung der Bahnen fällt mit der Verbindung des Paares zusammen.",
+      "context": "Der Golden Spike markiert die Fertigstellung der durchgehenden Strecke. Gleichzeitig vereinigt die Handlung Davy Brandon (George O’Brien) und Miriam Marsh (Madge Bellamy). Der öffentliche Festakt erhält so ein privates Gegenstück: Die Liebesgeschichte macht den im Großprojekt behaupteten Zusammenhalt im Schicksal zweier Figuren sichtbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Gemietete Zirkus-Schlafwagen dienten dem Drehteam in Nevada als Unterkunft, waren aber für den Winter unzureichend beheizt.",
+      "question": "Wie wurde das große Team von „Das eiserne Pferd“ beim Winterdreh in Nevada untergebracht?",
+      "answers": [
+        "In gemieteten Zirkus-Schlafwagen, die keinen ausreichenden Kälteschutz boten",
+        "In beheizten Militärkasernen einer benachbarten Garnison",
+        "In winterfesten Baracken neben einem stillgelegten Bergwerk",
+        "In Hotels und Privatquartieren in der nahe gelegenen Stadt Reno"
+      ],
+      "short": "Die Produktion mietete Schlafwagen eines Zirkus.",
+      "context": "Die Wagen waren für den Sommerbetrieb ausgelegt und unbeheizt. Teile der Kameramannschaft richteten sich deshalb lieber in einer Kulisse ein; Soldatenkostüme wurden als warme Kleidung genutzt. Der Produktionsaufwand beschränkte sich somit nicht auf die sichtbaren Züge und Massenszenen, sondern umfasste eine schwierige Versorgung der Menschen vor Ort.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "loc"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "The Iron Horse wurde erstmals 1924 veröffentlicht.",
+      "question": "In welchem Jahr wurde John Fords „Das eiserne Pferd“ erstmals veröffentlicht?",
+      "answers": [
+        "1924",
+        "1916",
+        "1931",
+        "1939"
+      ],
+      "short": "Der Film erschien 1924.",
+      "context": "Vierzig Jahre vor seinem letzten Western „Cheyenne“ von 1964 inszenierte Ford bereits dieses Eisenbahnepos. Der frühe Film bindet die Vollendung eines nationalen Verkehrsprojekts an ein gemeinsames Ziel. Im späten Werk steht dagegen der mühselige Rückweg von Menschen im Zentrum, die dieselbe Nation aus ihrer Heimat vertrieben hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "loc",
+        "spaetwerk"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Ford führte bei The Iron Horse Regie.",
+      "question": "Wer führte bei „Das eiserne Pferd“ mit George O’Brien Regie?",
+      "answers": [
+        "John Ford",
+        "James Cruze",
+        "Raoul Walsh",
+        "William S. Hart"
+      ],
+      "short": "John Ford führte Regie.",
+      "context": "Fox vertraute Ford ein großes Außenprojekt an, nachdem er bereits zahlreiche kleinere Western inszeniert hatte. Charles Kenyon und John Russell stehen in den Schreibcredits; AFI weist darauf hin, dass Fox-Unterlagen Kenyons tatsächlichen Anteil noch höher veranschlagen. Die Zwischentitel gehörten als eigene gestalterische Ebene zum Stummfilm.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "loc"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

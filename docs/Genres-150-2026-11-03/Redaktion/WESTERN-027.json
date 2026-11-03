@@ -1,0 +1,245 @@
+{
+  "id": "WESTERN-027",
+  "film_title_de": "Rache für Jesse James",
+  "film_title_original": "The Return of Frank James",
+  "film_year": 1940,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Langs erster Western ist mit Henry Fonda und Gene Tierney ein bekannter Genretitel, wird aber nicht immer als direkte Fortsetzung wahrgenommen.",
+  "selection_reason": "Die Fortsetzung prüft Franks Rachewunsch an seiner Verantwortung für einen gefährdeten Freund und an der Wirkung öffentlicher Erzählungen vor Gericht und in Zeitungen.",
+  "directors": [
+    "Fritz Lang"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1940 nach AFI und TCM; AFI nennt die New Yorker Eröffnung in der Woche des10. August und regulären Start16. August.",
+  "director_note": "Hauptregie Fritz Lang, Drehbuch Sam Hellman; Aaron Rosenberg und Hal Herman als Regieassistenten.",
+  "country_note": "US-Produktion von Twentieth Century-Fox mit Außenaufnahmen in Kalifornien.",
+  "series": {
+    "name": "Jesse James (Fox-Zweiteiler)",
+    "position": 2,
+    "note": "Direkte Fortsetzung des 1939erFilms Jesse James; mehrere Rollen einschließlich Frank, Bob Ford und Rufus Cobb werden fortgeführt."
+  },
+  "series_note": "AFI und TCM belegen den Fortsetzungsstatus und wiederkehrende Darsteller. Der Zweiteiler besteht aus Jesse James 1939 und The Return of Frank James 1940; unabhängige spätere James-Filme werden nicht angehängt.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+    "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES",
+    "https://www.tcm.com/articles/517955/the-return-of-frank-james"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis bis Gericht und Rückkehr zur Rettung Pinkys; Begnadigung der Fords, Deckname, Eleanor und falsche Todesmeldung; historische Abweichungen, Credits und Reihe. Namensabweichung: AFI nennt Henry Hulls Figur Rufus Todd, TCM nennt Rufus Cobb. Der Lerntext verwendet die Funktionsbezeichnung Zeitungsverleger, um den Quellenkonflikt nicht als gesicherte Namensangabe auszugeben."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/517955/the-return-of-frank-james",
+      "accessed_on": "2026-11-03",
+      "supports": "David Sterritts Filmessay: Fortsetzung, wiederkehrende Rollen, Pinkys Rettung, Nord-Süd-Gegensatz im Prozess, Langs erster Western/erster Farbfilm, frühere Fonda-Zusammenarbeit 1937 und weitere Western 1941/1952."
+    },
+    "vorgaenger": {
+      "url": "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+      "accessed_on": "2026-11-03",
+      "supports": "1939erVorgänger mit Tyrone Power/Henry Fonda und ausdrückliche 1940erFortsetzung; Abgrenzung des Zweiteilers."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Henry Fonda spielt erneut Frank James.",
+      "question": "Wer spielt den verfolgten Frank James in „Rache für Jesse James“ mit Gene Tierney?",
+      "answers": [
+        "Henry Fonda",
+        "Tyrone Power",
+        "Randolph Scott",
+        "James Stewart"
+      ],
+      "short": "Henry Fonda kehrt als Frank James zurück.",
+      "context": "Der Film setzt Franks Geschichte nach dem Tod seines Bruders fort. Frank James (Henry Fonda) hatte sich unter dem Namen Ben Woodsen auf eine Farm zurückgezogen. Die Rückkehr zur Waffe beginnt deshalb als Störung eines bereits begonnenen friedlichen Lebens, nicht als erstmaliger Aufbruch eines jungen Abenteurers.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Begnadigung und Belohnung der Ford-Brüder bringt Frank dazu, selbst Rache zu suchen.",
+      "question": "Warum nimmt Frank James (Henry Fonda) in „Rache für Jesse James“ die Verfolgung der Ford-Brüder auf?",
+      "answers": [
+        "Die Mörder seines Bruders werden begnadigt und sogar belohnt.",
+        "Die Ford-Brüder entführen seinen Sohn und verlangen Lösegeld.",
+        "Die Ford-Brüder brennen seine Farm mit allen Vorräten nieder.",
+        "Die Ford-Brüder beschuldigen ihn öffentlich des Mordes an Jesse."
+      ],
+      "short": "Die Begnadigung der Täter zerstört Franks Vertrauen in ihre Bestrafung.",
+      "context": "Frank James (Henry Fonda) will die Ahndung zunächst dem Gesetz überlassen. Erst die Nachricht vom Straferlass und der Belohnung bringt ihn zur eigenen Verfolgung. Der Film begründet den Racheaufbruch damit durch eine als ungerecht erfahrene staatliche Entscheidung, die den Mord belohnt statt ihn zu bestrafen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Reporterin Eleanor Stone veröffentlicht Franks erfundene Todesmeldung.",
+      "question": "Wie nutzt Frank James (Henry Fonda) in „Rache für Jesse James“ die junge Reporterin Eleanor Stone?",
+      "answers": [
+        "Er lässt durch sie die erfundene Nachricht von seinem eigenen Tod verbreiten.",
+        "Er lässt durch sie eine gefälschte Begnadigung der Ford-Brüder drucken.",
+        "Er bittet sie, das Versteck der Ford-Brüder gegen Geld zu veröffentlichen.",
+        "Er zwingt sie, Pinky öffentlich als Jesses Mörder zu beschuldigen."
+      ],
+      "short": "Eleanor veröffentlicht Franks fingierte Todesnachricht.",
+      "context": "Eleanor Stone (Gene Tierney) will sich im Zeitungsberuf beweisen. Frank (Henry Fonda) und Clem (Jackie Cooper) liefern ihr eine Geschichte, mit der sie seine Verfolger täuschen können. Der Gebrauch der Presse ist damit zunächst keine neutrale Aufklärung, sondern Teil von Franks Schutzstrategie.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Frank unterbricht die Rache, um den zum Tod verurteilten Pinky zu retten.",
+      "question": "Warum kehrt Frank James (Henry Fonda) in „Rache für Jesse James“ nach Missouri zurück, statt Bob Ford weiterzuverfolgen?",
+      "answers": [
+        "Er will seinen zu Unrecht zum Tode verurteilten Freund Pinky retten.",
+        "Er will Eleanor vor einem gegen sie erlassenen Haftbefehl schützen.",
+        "Er will die Beerdigung seines plötzlich verstorbenen Adoptivsohns besuchen.",
+        "Er will die Ford-Brüder beim Grenzübertritt Richtung Süden abfangen."
+      ],
+      "short": "Die Rettung Pinkys wird wichtiger als die sofortige Rache.",
+      "context": "Eleanor Stone (Gene Tierney) berichtet Frank (Henry Fonda), dass Pinky (Ernest Whitman) wegen des Überfalls auf das Expressbüro gehängt werden soll. Franks eigene Geldbeschaffung hat diese Gefahr mit ausgelöst. Die Umkehr macht aus dem Rächer einen Mann, der Verantwortung für die Folgen seines Handelns übernimmt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Verteidigung mobilisiert den Gegensatz von Eisenbahn und Bauern sowie Nord- und Südstaaten.",
+      "question": "Auf welchen Gegensatz baut Franks Verteidiger im Prozess von „Rache für Jesse James“ besonders?",
+      "answers": [
+        "Auf den Konflikt von Eisenbahn und Bauern sowie Nord- und Südstaaten",
+        "Auf den Streit konkurrierender Kirchen um einen moralischen Freispruch",
+        "Auf die Feindschaft zwischen amerikanischen und mexikanischen Viehhändlern",
+        "Auf einen Erbstreit zwischen Frank und Jesses verwitweter Frau"
+      ],
+      "short": "Die Verteidigung deutet den Fall als Kampf gegen die Eisenbahnmacht.",
+      "context": "Der Zeitungsverleger (Henry Hull) setzt den Prozess in einen politischen und wirtschaftlichen Rahmen. Die Geschworenen sind südliche Farmer und damit für diese Erzählung besonders ansprechbar. Das Gericht erscheint so nicht nur als Ort nüchterner Beweiswürdigung, sondern auch als Bühne einer gemeinsam geteilten Erinnerung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Verfolgung der Fords durch Frank ist Filmfiktion; der historische Frank war an ihrem Tod nicht beteiligt.",
+      "question": "Welche historische Abgrenzung ist bei der Rachehandlung von „Rache für Jesse James“ wichtig?",
+      "answers": [
+        "Der wirkliche Frank war an keinem Tod der Ford-Brüder beteiligt.",
+        "Der wirkliche Frank erschoss beide Ford-Brüder persönlich.",
+        "Der wirkliche Frank erschoss Bob und ließ Charlie entkommen.",
+        "Der wirkliche Frank bezahlte andere Männer für beide Tötungen."
+      ],
+      "short": "Die Rachegeschichte weicht deutlich von Franks wirklichem Leben ab.",
+      "context": "Der historische Frank James stellte sich nach Jesses Tod und wurde in zwei Verfahren freigesprochen. Die Filmhandlung erfindet dagegen einen persönlichen Racheweg, um an den Vorgänger anzuschließen. Der Fortsetzungsstatus betrifft somit die Figurenwelt des Studios, nicht eine fortlaufend präzise Biografie.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "The Return of Frank James wurde erstmals 1940 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Rache für Jesse James“ mit Henry Fonda erstmals veröffentlicht?",
+      "answers": [
+        "1940",
+        "1932",
+        "1947",
+        "1955"
+      ],
+      "short": "Der Film erschien 1940.",
+      "context": "Fritz Langs erster Western und erster Farbfilm erschien 1940. Bereits 1941 folgte mit „Überfall der Ogalalla“ ein weiterer Western, 1952 dann „Engel der Gejagten“. Der Wechsel in die amerikanische Grenzlandwelt blieb damit kein einmaliger Ausflug: Unterschiedliche Verfolgungs- und Rachegeschichten bilden eine kleine, stilistisch eigenständige Gruppe in seinem Werk.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Fritz Lang führte bei The Return of Frank James Regie.",
+      "question": "Wer führte bei „Rache für Jesse James“ mit Henry Fonda Regie?",
+      "answers": [
+        "Fritz Lang",
+        "Henry King",
+        "Henry Hathaway",
+        "William Wellman"
+      ],
+      "short": "Fritz Lang führte Regie.",
+      "context": "Fonda und Lang hatten bereits 1937 bei „Gehetzt“ zusammengearbeitet. Für die Westernfortsetzung schrieb Sam Hellman das Drehbuch. Gene Tierney gab als Reporterin Eleanor Stone ihr Filmdebüt; die geplante Liebesgeschichte mit Frank wurde wegen möglicher Ansprüche seiner noch lebenden Angehörigen gestrichen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

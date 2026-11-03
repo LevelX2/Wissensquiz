@@ -2535,3 +2535,8 @@ Sechs Dramen mit 48 Fragen integriert; 46 neue globale Ziele und zwei Varianten 
 #### Fortsetzung 03.11.2026 – Abenteuer W14
 
 Sechs Abenteuerfilme mit 48 neuen Zielen eingebunden; Abenteuer jetzt 121. Alle Fragen zentral und unabhängig gelesen, gezielte Szenen-/Produktionsquellen nachgelesen; ferner Finanzierungsablenker in Into the Blue ersetzt. Erstvorführungen und Länder von Drehorten getrennt. Alle 792 Ergänzungen mit echtem Parser exakt und konfliktfrei, Bestand unverändert, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 53 Pakete / 16.087 Fragen / 15.409 Ziele; 402 Genreergänzungen und 27 überlappende Arthouse-Filme bleiben im laufenden Auftrag offen.
+
+
+#### Fortsetzung 03.11.2026 – Western W15
+
+Sechs Western mit 48 neuen Zielen integriert; Western127, Classics195. Vollständige zentrale und unabhängige Gegenlesung; Bahnverbindung und Zeitmodelle ohne triviale Ausschlussantworten, Zeitungsverleger rollenbezogen trotz AFI-/TCM-Namenskonflikt. Erste Vorführungen und Hauptregie insbesondere bei Das eiserne Pferd, Der Held der Prärie und Duell in der Sonne von späteren Katalogköpfen bzw. ungenannten Zusatzregisseuren unterschieden. Alle 840 Ergänzungen mit echtem Parser exakt und konfliktfrei, Bestandserhalt/Wiederholimport/Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell54 Pakete /16.135 Fragen /15.457 Ziele;396 Genreergänzungen und27 überlappende Arthouse-Filme offen.

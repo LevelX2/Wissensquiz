@@ -1,0 +1,241 @@
+{
+  "id": "WESTERN-025",
+  "film_title_de": "Der Held der Prärie",
+  "film_title_original": "The Plainsman",
+  "film_year": 1936,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein klassischer DeMille-Western mit Cooper und Arthur, dessen ältere deutsche Titel heute weniger präsent sind.",
+  "selection_reason": "Die Erzählung bündelt mehrere Legenden des Westens zu einem Konflikt um Waffenhandel, Freundschaft und Verrat; die historische Verdichtung wird als Filmkonstruktion kenntlich gemacht.",
+  "directors": [
+    "Cecil B. DeMille"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1936 nach BFI und zeitgenössischem Bericht über eine Chicagoer Premiere in Billboard vom12. Dezember 1936; AFI nennt abweichend den regulären Verleih-/Copyrighttermin1. Januar 1937. Kein unbelegtes einzelnes Tagesdatum für die allererste Vorführung behauptet.",
+  "director_note": "Hauptregie Cecil B. DeMille; andere technische und Second-Unit-Aufgaben sind keine zusätzliche Hauptregie.",
+  "country_note": "US-Produktion von Paramount.",
+  "series": null,
+  "series_note": "Eigenständiger Film. Die 1966 veröffentlichte Neuverfilmung ist ein Remake, keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/963-THE-PLAINSMAN",
+    "https://catalog.afi.com/Film/22361-THE-PLAINSMAN"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/963-THE-PLAINSMAN",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis mit Waffenhändler Lattimer, Jane unter Zwang, Cody/Hickok und Schluss im Saloon; Cast, Regie, ausdrücklicher Vorspann zur Verdichtung vieler Jahre/Ereignisse; Verleihdatum 1937."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/f791afe7-23f0-5699-9e3d-e46c2b2e0ebe/the-plainsman",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Katalogdatensatz nennt 1936, USA, DeMille, Cooper, Arthur und Ellison."
+    },
+    "zeitgenosse": {
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/30s/1936/BB-1936-12-12.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Im gelesenen Suchindextext der Ausgabe12. Dezember 1936 berichtet Billboard von DeMilles Besuch der Chicagoer lokalen Premiere von The Plainsman. Direkter PDF-Abruf403; nur die tatsächlich gelesene Passage wird zum Jahresbeleg genutzt."
+    },
+    "remake": {
+      "url": "https://catalog.afi.com/Film/22361-THE-PLAINSMAN",
+      "accessed_on": "2026-11-03",
+      "supports": "1966-Remake nach dem älteren Drehbuch, neue Besetzung mit Don Murray/Guy Stockwell/Abby Dalton; Entstehung als Fernsehprojekt und spätere Kinoauswertung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Gary Cooper spielt Wild Bill Hickok.",
+      "question": "Welchen bekannten Mann des Wilden Westens spielt Gary Cooper in „Der Held der Prärie“?",
+      "answers": [
+        "Wild Bill Hickok",
+        "Buffalo Bill Cody",
+        "George Armstrong Custer",
+        "Wyatt Earp"
+      ],
+      "short": "Gary Cooper spielt Wild Bill Hickok.",
+      "context": "Hickok (Gary Cooper) begegnet seinem Freund Buffalo Bill Cody (James Ellison) und dessen frisch angetrauter Frau Louisa (Helen Burgess). Der Film stellt bekannte Namen in einen gemeinsamen Handlungsraum. Die Beziehungen und Erlebnisse werden dabei zu einer zusammenhängenden Abenteuererzählung verdichtet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "John Lattimer verkauft moderne Repetiergewehre an die Gegner der Kavallerie.",
+      "question": "Womit verschärft John Lattimer (Charles Bickford) in „Der Held der Prärie“ den Konflikt im Grenzgebiet?",
+      "answers": [
+        "Er verkauft Repetiergewehre an die Gegner der Kavallerie.",
+        "Er fälscht Landtitel für eine geplante Eisenbahnlinie.",
+        "Er unterschlägt die Lebensmittelvorräte einer Goldgräberstadt.",
+        "Er schmuggelt gestohlene Armeepferde über die mexikanische Grenze."
+      ],
+      "short": "Lattimer verdient am Verkauf moderner Gewehre.",
+      "context": "John Lattimers (Charles Bickford) Geschäft verschiebt die militärischen Kräfteverhältnisse. Hickok (Gary Cooper) verfolgt deshalb nicht nur bewaffnete Angreifer, sondern auch deren Lieferanten. Hinter der sichtbaren Front des Films steht ein Händler, der aus der Fortsetzung der Gewalt persönlichen Gewinn zieht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Calamity Jane verrät Codys Standort unter der Drohung, dass Hickok sonst getötet wird.",
+      "question": "Warum verrät Calamity Jane (Jean Arthur) in „Der Held der Prärie“ den Aufenthaltsort von Codys Männern?",
+      "answers": [
+        "Sie will Hickoks drohende Tötung verhindern.",
+        "Sie will eine ausgesetzte Belohnung für Cody erhalten.",
+        "Sie hält Codys Munitionsauftrag für einen geplanten Bankraub.",
+        "Sie hat sich von Cody wegen einer verweigerten Heirat abgewandt."
+      ],
+      "short": "Jane wird durch die Drohung gegen Hickok zur Auskunft gezwungen.",
+      "context": "Calamity Jane (Jean Arthur) gerät in Gefangenschaft. Ihre Liebe zu Hickok (Gary Cooper) wird benutzt, um Informationen über Cody (James Ellison) und den Munitionstransport zu erzwingen. Die Rettung des einen Mannes setzt andere der Gefahr aus. Der Film gestaltet den Verrat dadurch als Zwangslage statt als einfache Käuflichkeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Cody erhält den Auftrag, Hickok wegen der Tötung ehemaliger Soldaten festzunehmen.",
+      "question": "Warum wird Buffalo Bill Cody (James Ellison) in „Der Held der Prärie“ zeitweise gegen seinen Freund Hickok eingesetzt?",
+      "answers": [
+        "Er soll Hickok wegen der Tötung ehemaliger Soldaten festnehmen.",
+        "Er soll Hickok wegen der Weitergabe gefälschter Armeebefehle festnehmen.",
+        "Er soll Hickok wegen des Verkaufs gestohlener Armeewaffen festnehmen.",
+        "Er soll Hickok wegen der Flucht aus dem Militärgefängnis festnehmen."
+      ],
+      "short": "Cody erhält den Befehl, den wegen Tötungen gesuchten Hickok zu stellen.",
+      "context": "Hickok (Gary Cooper) hat drei Männer des Waffenhändlers getötet, die früher Soldaten waren. Der Haftauftrag lässt seine Verfolgung des kriminellen Handels zeitweise wie gewöhnliches Verbrechen erscheinen. Codys (James Ellison) persönliche Kenntnis des Freundes und seine militärische Verpflichtung geraten so in einen Gegensatz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Jack McCall erschießt Hickok beim Pokern von hinten, während dieser schwarze Asse und Achten hält.",
+      "question": "Welche Kartenkonstellation begleitet Hickoks Tod in „Der Held der Prärie“?",
+      "answers": [
+        "Schwarze Asse und Achten",
+        "Vier Könige",
+        "Eine vollständige Herzstraße",
+        "Zwei rote Damen und zwei Buben"
+      ],
+      "short": "Hickok hält schwarze Asse und Achten.",
+      "context": "Jack McCall (Porter Hall) erschießt Hickok (Gary Cooper) im Saloon von hinten. Die Karten machen die bekannte Todeslegende im Bild erkennbar. Calamity Jane (Jean Arthur) verabschiedet sich anschließend mit einem Kuss von dem Mann, dessen Nähe sie im Verlauf der Geschichte immer wieder gesucht hatte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Film kündigt selbst an, viele Jahre, Lebensläufe und getrennte Ereignisse in einer Handlung zusammenzufassen.",
+      "question": "Wie beschreibt der Vorspann von „Der Held der Prärie“ den Umgang mit historischer Zeit?",
+      "answers": [
+        "Viele Jahre und getrennte Ereignisse werden zu einer Handlung verdichtet.",
+        "Zeitlich getrennte Episoden folgen ohne Überschneidung streng der Chronologie.",
+        "Alle Begegnungen beschränken sich auf einen kurzen historischen Zeitraum.",
+        "Die Ereignisse erscheinen ausschließlich als Rückblicke des alten Hickok."
+      ],
+      "short": "Der Film kündigt eine bewusste historische Verdichtung an.",
+      "context": "Lincolns Ermordung, Custers Feldzüge und Hickoks Ende werden in einen erzählerischen Zusammenhang gebracht. Schon die Einleitung erklärt, dass viele Lebensläufe und weit auseinanderliegende Ereignisse dafür zusammengezogen werden. Die Begegnungen sind somit als dramatische Geschichtskonstruktion zu lesen und nicht als Beweis gleichzeitiger Anwesenheit aller bekannten Personen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "The Plainsman wurde erstmals 1936 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Der Held der Prärie“ mit Gary Cooper und Jean Arthur erstmals veröffentlicht?",
+      "answers": [
+        "1936",
+        "1928",
+        "1943",
+        "1951"
+      ],
+      "short": "Das Erstjahr ist 1936.",
+      "context": "Dreißig Jahre später entstand 1966 eine neue Fassung mit Don Murray als Hickok und Abby Dalton als Calamity Jane. Dieses zunächst fürs Fernsehen entwickelte Projekt kam schließlich ins Kino. Die Wiederverfilmung übernimmt den älteren Stoff, erzählt jedoch keinen weiteren Abschnitt im Leben von Coopers und Arthurs Filmfiguren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "zeitgenosse",
+        "remake"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Cecil B. DeMille inszenierte The Plainsman.",
+      "question": "Wer führte bei „Der Held der Prärie“ mit Gary Cooper und Jean Arthur Regie?",
+      "answers": [
+        "Cecil B. DeMille",
+        "Henry Hathaway",
+        "Raoul Walsh",
+        "Henry King"
+      ],
+      "short": "Cecil B. DeMille führte Regie.",
+      "context": "Geschichten von Courtney Ryley Cooper und Frank J. Wilstachs Hickok-Buch von 1934 gehören zu den literarischen Grundlagen. Waldemar Young, Harold Lamb und Lynn Riggs stehen in den Drehbuchcredits. Aus diesen Vorlagen entsteht eine große gemeinsame Westernlegende, deren dramatische Verknüpfung über die Wiedergabe eines einzelnen Lebenslaufs hinausgeht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

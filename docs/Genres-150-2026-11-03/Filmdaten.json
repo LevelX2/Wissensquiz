@@ -5710,6 +5710,294 @@
       "reference_question_id": "G150-20261103-ABENTEUER-021-L1",
       "year_question_id": "G150-20261103-ABENTEUER-021-Y",
       "director_question_id": "G150-20261103-ABENTEUER-021-D"
+    },
+    {
+      "id": "WESTERN-022",
+      "film_title_de": "Cheyenne",
+      "film_title_original": "Cheyenne Autumn",
+      "film_year": 1964,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Fords letzter Western ist filmhistorisch bekannt, außerhalb des klassischen Westernpublikums aber weniger geläufig.",
+      "directors": [
+        "John Ford"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1964: AFI nennt die Premiere in Cheyenne am 3. Oktober, die als Weltpremiere beworbene Londoner Vorstellung am 15. Oktober sowie spätere Dezemberstarts. Copyrightregistrierung 1965 ist kein Erstjahr.",
+      "director_note": "Hauptregie John Ford. Associate Director Ray Kellogg übernahm während Fords Erkrankung vorübergehend Regieaufgaben; er wird deshalb nicht als falsche Antwort verwendet.",
+      "country_note": "US-Produktion; Monument Valley, Utah und Colorado gehören zu den Drehgebieten.",
+      "series": null,
+      "series_note": "Eigenständiger Film nach Mari Sandoz, keine nummerierte Fortsetzung von Fords früheren Western.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/23967-CHEYENNE-AUTUMN"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23967-CHEYENNE-AUTUMN",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis des Rückmarsches, Deborah, Earp-Umweg, Gruppenteilung, Schurz und Little Wolfs Exil; Credits, Startdaten, Kelloggs Vertretung, Sandoz 1953 und Fords letzter Western."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-022-L1",
+      "year_question_id": "G150-20261103-WESTERN-022-Y",
+      "director_question_id": "G150-20261103-WESTERN-022-D"
+    },
+    {
+      "id": "WESTERN-023",
+      "film_title_de": "Das eiserne Pferd",
+      "film_title_original": "The Iron Horse",
+      "film_year": 1924,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ein zentraler Stummfilmwestern John Fords, dessen Titel vor allem filmhistorisch interessierten Zuschauern vertraut ist.",
+      "directors": [
+        "John Ford"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1924: AFI dokumentiert den New Yorker Start am 28. August 1924 trotz Kopfjahr 1925; Library of Congress und ihr Filmessay führen 1924. Die spätere Tonfassung ist gesondert zu betrachten.",
+      "director_note": "John Ford ist offizieller Hauptregisseur; Edward O’Fearna war Regieassistent.",
+      "country_note": "US-Produktion von Fox Film, umfangreiche Außenaufnahmen in Nevada.",
+      "series": null,
+      "series_note": "Eigenständige Eisenbahngeschichte; spätere Tonbearbeitung ist keine Fortsetzung und keine nummerierte Reihe.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/9950-THE-IRON-HORSE"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/9950-THE-IRON-HORSE",
+          "accessed_on": "2026-11-03",
+          "supports": "Synopsis zu Eisenbahnbau, Vermesser Davy, Deroux, konkurrierenden Gesellschaften und finalem Golden Spike; Cast, Hauptregie, Erststart 1924 trotz späterem Kopfjahr 1925."
+        },
+        {
+          "key": "loc",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/iron_horse.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "David Kiehns Filmessay: John Ford, Werkjahr 1924, Nevada-Winterdreh, gemietete Zirkus-Schlafwagen, unbeheizte Unterkünfte und Kälteprobleme."
+        },
+        {
+          "key": "spaetwerk",
+          "url": "https://catalog.afi.com/Film/23967-CHEYENNE-AUTUMN",
+          "accessed_on": "2026-11-03",
+          "supports": "Cheyenne Autumn erschien 1964 und war Fords letzter Western; zeitlicher Vergleich zur Eisenbahngeschichte 1924."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-023-L1",
+      "year_question_id": "G150-20261103-WESTERN-023-Y",
+      "director_question_id": "G150-20261103-WESTERN-023-D"
+    },
+    {
+      "id": "WESTERN-024",
+      "film_title_de": "Duell in der Sonne",
+      "film_title_original": "Duel in the Sun",
+      "film_year": 1946,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Das Technicolor-Melodram mit Jennifer Jones und Gregory Peck ist ein bekannter Klassiker, dessen einzelne Handlungswendungen weniger allgemein präsent sind.",
+      "directors": [
+        "King Vidor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Maßgeblich 1946: AFI dokumentiert die Weltpremiere in Los Angeles am31. Dezember 1946 trotz Kopfjahr 1947. Weitere Starts und zusätzliche Änderungen 1947 sind spätere Auswertungsschritte.",
+      "director_note": "King Vidor erhielt laut AFI den alleinigen Bildschirm-Regiecredit nach Entscheidung der Screen Directors Guild. William Dieterle drehte erhebliche Teile und wird im Programm gewürdigt; außerdem weitere Spezial-/Second-Unit-Beiträge. Dieterle wird nicht als falsche Antwort verwendet.",
+      "country_note": "US-Produktion von Vanguard Films, mit Außenaufnahmen in Arizona und Kalifornien.",
+      "series": null,
+      "series_note": "Eigenständige Verfilmung nach Niven Busch; keine nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/24771-DUEL-IN-THE-SUN"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/24771-DUEL-IN-THE-SUN",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis zu Pearl, den McCanles-Brüdern, Eisenbahnkonflikt, Sam Pierce und gegenseitiger Tötung; alleiniger Bildschirmcredit Vidor/Dieterles erhebliche Mitarbeit, Busch-Roman 1944 und Weltpremiere31.12.1946."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-024-L1",
+      "year_question_id": "G150-20261103-WESTERN-024-Y",
+      "director_question_id": "G150-20261103-WESTERN-024-D"
+    },
+    {
+      "id": "WESTERN-025",
+      "film_title_de": "Der Held der Prärie",
+      "film_title_original": "The Plainsman",
+      "film_year": 1936,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein klassischer DeMille-Western mit Cooper und Arthur, dessen ältere deutsche Titel heute weniger präsent sind.",
+      "directors": [
+        "Cecil B. DeMille"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1936 nach BFI und zeitgenössischem Bericht über eine Chicagoer Premiere in Billboard vom12. Dezember 1936; AFI nennt abweichend den regulären Verleih-/Copyrighttermin1. Januar 1937. Kein unbelegtes einzelnes Tagesdatum für die allererste Vorführung behauptet.",
+      "director_note": "Hauptregie Cecil B. DeMille; andere technische und Second-Unit-Aufgaben sind keine zusätzliche Hauptregie.",
+      "country_note": "US-Produktion von Paramount.",
+      "series": null,
+      "series_note": "Eigenständiger Film. Die 1966 veröffentlichte Neuverfilmung ist ein Remake, keine nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/963-THE-PLAINSMAN",
+        "https://catalog.afi.com/Film/22361-THE-PLAINSMAN"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/963-THE-PLAINSMAN",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis mit Waffenhändler Lattimer, Jane unter Zwang, Cody/Hickok und Schluss im Saloon; Cast, Regie, ausdrücklicher Vorspann zur Verdichtung vieler Jahre/Ereignisse; Verleihdatum 1937."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f791afe7-23f0-5699-9e3d-e46c2b2e0ebe/the-plainsman",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Katalogdatensatz nennt 1936, USA, DeMille, Cooper, Arthur und Ellison."
+        },
+        {
+          "key": "zeitgenosse",
+          "url": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/30s/1936/BB-1936-12-12.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Im gelesenen Suchindextext der Ausgabe12. Dezember 1936 berichtet Billboard von DeMilles Besuch der Chicagoer lokalen Premiere von The Plainsman. Direkter PDF-Abruf403; nur die tatsächlich gelesene Passage wird zum Jahresbeleg genutzt."
+        },
+        {
+          "key": "remake",
+          "url": "https://catalog.afi.com/Film/22361-THE-PLAINSMAN",
+          "accessed_on": "2026-11-03",
+          "supports": "1966-Remake nach dem älteren Drehbuch, neue Besetzung mit Don Murray/Guy Stockwell/Abby Dalton; Entstehung als Fernsehprojekt und spätere Kinoauswertung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-025-L1",
+      "year_question_id": "G150-20261103-WESTERN-025-Y",
+      "director_question_id": "G150-20261103-WESTERN-025-D"
+    },
+    {
+      "id": "WESTERN-026",
+      "film_title_de": "Jesse James – Mann ohne Gesetz",
+      "film_title_original": "Jesse James",
+      "film_year": 1939,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die frühe Technicolor-Fassung mit Tyrone Power und Henry Fonda ist ein etablierter Westernklassiker, muss aber von vielen anderen James-Verfilmungen unterschieden werden.",
+      "directors": [
+        "Henry King"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1939 nach AFI, mit New Yorker Eröffnung in der Woche des14. Januar und allgemeinem Start27. Januar. Keine Verwechslung mit dem Stummfilm 1927 oder der Neuverfilmung 1957.",
+      "director_note": "Hauptregie Henry King. Irving Cummings übernahm während Kings Erkrankung im Oktober 1938 als Fill-In Director; kein falscher Ablenker mit dessen Namen.",
+      "country_note": "US-Produktion von Twentieth Century-Fox; Außenaufnahmen in Missouri.",
+      "series": {
+        "name": "Jesse James (Fox-Zweiteiler)",
+        "position": 1,
+        "note": "Erster Teil vor The Return of Frank James 1940; Fonda und weitere Darsteller setzen ihre Rollen fort."
+      },
+      "series_note": "AFI nennt The Return of Frank James 1940 ausdrücklich als Fortsetzung dieses 1939erFilms. Andere selbstständige James-Verfilmungen, insbesondere 1957/1972/1980, sind keine weiteren Teile dieses Zweiteilers.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+        "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis zu Barshee, Muttertod, gebrochenem Strafversprechen, Zee und Northfield-Verrat; Cast, Jahr, King/Cummings, Missouri-Dreh, tödlicher Pferdestunt und 1939→1940 Fortsetzung."
+        },
+        {
+          "key": "fortsetzung",
+          "url": "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausdrücklich Fortsetzung zu Jesse James 1939 und mehrere wiederkehrende Besetzungen; Hauptregie Fritz Lang 1940."
+        },
+        {
+          "key": "tierschutz",
+          "url": "https://www.americanhumane.org/about-us/history/",
+          "accessed_on": "2026-11-03",
+          "supports": "Eigene Organisationschronik: Nach dem Tod eines Pferdes bei Jesse James eröffnete American Humane 1940 sein Hollywood-Büro; späterer erster Endcredit 1972 wird nicht in 1939zurückprojiziert."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-026-L1",
+      "year_question_id": "G150-20261103-WESTERN-026-Y",
+      "director_question_id": "G150-20261103-WESTERN-026-D"
+    },
+    {
+      "id": "WESTERN-027",
+      "film_title_de": "Rache für Jesse James",
+      "film_title_original": "The Return of Frank James",
+      "film_year": 1940,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Langs erster Western ist mit Henry Fonda und Gene Tierney ein bekannter Genretitel, wird aber nicht immer als direkte Fortsetzung wahrgenommen.",
+      "directors": [
+        "Fritz Lang"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1940 nach AFI und TCM; AFI nennt die New Yorker Eröffnung in der Woche des10. August und regulären Start16. August.",
+      "director_note": "Hauptregie Fritz Lang, Drehbuch Sam Hellman; Aaron Rosenberg und Hal Herman als Regieassistenten.",
+      "country_note": "US-Produktion von Twentieth Century-Fox mit Außenaufnahmen in Kalifornien.",
+      "series": {
+        "name": "Jesse James (Fox-Zweiteiler)",
+        "position": 2,
+        "note": "Direkte Fortsetzung des 1939erFilms Jesse James; mehrere Rollen einschließlich Frank, Bob Ford und Rufus Cobb werden fortgeführt."
+      },
+      "series_note": "AFI und TCM belegen den Fortsetzungsstatus und wiederkehrende Darsteller. Der Zweiteiler besteht aus Jesse James 1939 und The Return of Frank James 1940; unabhängige spätere James-Filme werden nicht angehängt.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+        "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES",
+        "https://www.tcm.com/articles/517955/the-return-of-frank-james"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis bis Gericht und Rückkehr zur Rettung Pinkys; Begnadigung der Fords, Deckname, Eleanor und falsche Todesmeldung; historische Abweichungen, Credits und Reihe. Namensabweichung: AFI nennt Henry Hulls Figur Rufus Todd, TCM nennt Rufus Cobb. Der Lerntext verwendet die Funktionsbezeichnung Zeitungsverleger, um den Quellenkonflikt nicht als gesicherte Namensangabe auszugeben."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/517955/the-return-of-frank-james",
+          "accessed_on": "2026-11-03",
+          "supports": "David Sterritts Filmessay: Fortsetzung, wiederkehrende Rollen, Pinkys Rettung, Nord-Süd-Gegensatz im Prozess, Langs erster Western/erster Farbfilm, frühere Fonda-Zusammenarbeit 1937 und weitere Western 1941/1952."
+        },
+        {
+          "key": "vorgaenger",
+          "url": "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+          "accessed_on": "2026-11-03",
+          "supports": "1939erVorgänger mit Tyrone Power/Henry Fonda und ausdrückliche 1940erFortsetzung; Abgrenzung des Zweiteilers."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-027-L1",
+      "year_question_id": "G150-20261103-WESTERN-027-Y",
+      "director_question_id": "G150-20261103-WESTERN-027-D"
     }
   ],
   "series_updates": [

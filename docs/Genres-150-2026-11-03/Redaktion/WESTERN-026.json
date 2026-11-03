@@ -1,0 +1,238 @@
+{
+  "id": "WESTERN-026",
+  "film_title_de": "Jesse James – Mann ohne Gesetz",
+  "film_title_original": "Jesse James",
+  "film_year": 1939,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Die frühe Technicolor-Fassung mit Tyrone Power und Henry Fonda ist ein etablierter Westernklassiker, muss aber von vielen anderen James-Verfilmungen unterschieden werden.",
+  "selection_reason": "Die romantisierende Gesetzlosengeschichte zeigt Landenteignung, ein gebrochenes Strafversprechen und den Zerfall eines Familienlebens; der tödliche Tierstunt gehört zu ihrer konkreten Produktionsgeschichte.",
+  "directors": [
+    "Henry King"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1939 nach AFI, mit New Yorker Eröffnung in der Woche des14. Januar und allgemeinem Start27. Januar. Keine Verwechslung mit dem Stummfilm 1927 oder der Neuverfilmung 1957.",
+  "director_note": "Hauptregie Henry King. Irving Cummings übernahm während Kings Erkrankung im Oktober 1938 als Fill-In Director; kein falscher Ablenker mit dessen Namen.",
+  "country_note": "US-Produktion von Twentieth Century-Fox; Außenaufnahmen in Missouri.",
+  "series": {
+    "name": "Jesse James (Fox-Zweiteiler)",
+    "position": 1,
+    "note": "Erster Teil vor The Return of Frank James 1940; Fonda und weitere Darsteller setzen ihre Rollen fort."
+  },
+  "series_note": "AFI nennt The Return of Frank James 1940 ausdrücklich als Fortsetzung dieses 1939erFilms. Andere selbstständige James-Verfilmungen, insbesondere 1957/1972/1980, sind keine weiteren Teile dieses Zweiteilers.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+    "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/5107-JESSE-JAMES",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis zu Barshee, Muttertod, gebrochenem Strafversprechen, Zee und Northfield-Verrat; Cast, Jahr, King/Cummings, Missouri-Dreh, tödlicher Pferdestunt und 1939→1940 Fortsetzung."
+    },
+    "fortsetzung": {
+      "url": "https://catalog.afi.com/Film/4180-THE-RETURN-OF-FRANK-JAMES",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausdrücklich Fortsetzung zu Jesse James 1939 und mehrere wiederkehrende Besetzungen; Hauptregie Fritz Lang 1940."
+    },
+    "tierschutz": {
+      "url": "https://www.americanhumane.org/about-us/history/",
+      "accessed_on": "2026-11-03",
+      "supports": "Eigene Organisationschronik: Nach dem Tod eines Pferdes bei Jesse James eröffnete American Humane 1940 sein Hollywood-Büro; späterer erster Endcredit 1972 wird nicht in 1939zurückprojiziert."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Tyrone Power spielt die Titelfigur Jesse James in der 1939erFassung.",
+      "question": "Wer spielt Jesse James in „Jesse James – Mann ohne Gesetz“ an der Seite von Henry Fonda?",
+      "answers": [
+        "Tyrone Power",
+        "Errol Flynn",
+        "Randolph Scott",
+        "Joel McCrea"
+      ],
+      "short": "Tyrone Power spielt Jesse James.",
+      "context": "Henry Fonda verkörpert den Bruder Frank. Die Filmgeschichte stattet Jesse (Tyrone Power) mit einem persönlichen Rachemotiv gegen die Eisenbahn aus und präsentiert ihn dadurch als romantischen Gesetzlosen. Diese zugespitzte Ursprungsgeschichte gehört zur Fiktion der Verfilmung und ist keine verlässliche Biografie des historischen Bandenführers.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der Tod der Mutter durch einen Eisenbahnagenten treibt die Brüder in die Gesetzlosigkeit.",
+      "question": "Was treibt die James-Brüder in „Jesse James – Mann ohne Gesetz“ entscheidend zur Rache gegen die Eisenbahn?",
+      "answers": [
+        "Ihre Mutter stirbt durch die Gewalt eines Eisenbahnagenten.",
+        "Ihr Vater wird wegen eines gefälschten Zugtickets verurteilt.",
+        "Ihr Bruder kommt beim Bau einer Eisenbahnbrücke ums Leben.",
+        "Ihr Onkel verliert seinen Posten als Lokführer an einen Betrüger."
+      ],
+      "short": "Die Gewalt des Eisenbahnagenten kostet ihre Mutter das Leben.",
+      "context": "Barshee (Brian Donlevy) soll Bauern ihr Land für die Midland Railroad abnehmen. Der Konflikt mit der Familie wird zum persönlichen Auslöser für Jesses (Tyrone Power) und Franks (Henry Fonda) Raubzüge. Der Film baut so ein Unrechtsmotiv auf, mit dem er die spätere Gewalt seiner Helden erklärt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Zee verlässt das dauernde Versteckleben nach der allein erlebten Geburt ihres Sohnes.",
+      "question": "Warum verlässt Zee (Nancy Kelly) in „Jesse James – Mann ohne Gesetz“ Jesse?",
+      "answers": [
+        "Sie erträgt das ständige Fliehen und die allein bewältigte Geburt nicht länger.",
+        "Sie will Jesse durch ihren Weggang zur Aufgabe bei den Behörden zwingen.",
+        "Sie hält Jesses Zusage einer endgültigen Trennung von Frank für gebrochen.",
+        "Sie glaubt, dass Jesse die gemeinsame Farm heimlich verkauft hat."
+      ],
+      "short": "Zee will ihrem Sohn ein Leben ohne dauernde Flucht ermöglichen.",
+      "context": "Zee (Nancy Kelly) geht mit ihrem Onkel Rufus Cobb (Henry Hull) und Marshal Will Wright (Randolph Scott) nach Liberty zurück. Jesse (Tyrone Power) folgt zunächst nicht, weil er glaubt, dass seine Familie ohne ihn besser leben könne. Die Gesetzlosenromantik erhält damit eine alltägliche Gegenrechnung aus Angst, Abwesenheit und Elternschaft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Jesses freiwillige Aufgabe wird durch McCoys Plan einer härteren Strafe hintergangen.",
+      "question": "Warum führt Jesses freiwillige Aufgabe in „Jesse James – Mann ohne Gesetz“ nicht zur versprochenen Befriedung?",
+      "answers": [
+        "McCoy will die zugesagte milde Behandlung durch einen Verrat aushebeln.",
+        "Zee übergibt dem Richter heimlich ein gefälschtes Geständnis Franks.",
+        "Der Marshal verwechselt Jesse mit einem gesuchten Mörder aus Texas.",
+        "Die zugesagte milde Strafe gilt nur für Frank, nicht für Jesse."
+      ],
+      "short": "Das Strafversprechen erweist sich als Falle.",
+      "context": "Zee (Nancy Kelly) hatte Jesse (Tyrone Power) zur Aufgabe bewogen. Der Eisenbahnchef McCoy (Donald Meek) beabsichtigt jedoch, die Zusage zu brechen. Frank (Henry Fonda) und die Bande befreien Jesse. Der Film erneuert so sein Misstrauen gegenüber einem angeblichen Rechtsweg, den der wirtschaftliche Gegner beeinflussen kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Bob Ford verrät den geplanten Northfield-Bankraub, nachdem eine Belohnung auf Jesse ausgesetzt wurde.",
+      "question": "Warum endet der Bankraub in Northfield in „Jesse James – Mann ohne Gesetz“ in einem vorbereiteten Hinterhalt?",
+      "answers": [
+        "Bob Ford hat den Raubplan an den Eisenbahndetektiv verraten.",
+        "Zee hat den Sheriff persönlich vor Jesses Ankunft gewarnt.",
+        "Frank hat absichtlich die Pferde der eigenen Bande versteckt.",
+        "Rufus Cobb hat den Raub als öffentliche Vorführung angekündigt."
+      ],
+      "short": "Bob Ford informiert die Gegenseite über den Plan.",
+      "context": "Der Detektiv George Runyan (J. Edward Bromberg) verspricht Geld und Straferlass für Jesses Tod. Bob Ford (John Carradine), ein Mitglied der Bande, gibt den geplanten Raub preis. Die Verfolger nutzen damit einen Anreiz, der die Bande von innen auflöst, statt sie nur in einem offenen Gefecht zu bekämpfen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Tod eines Pferdes bei einem Stunt führte zum verstärkten Eingreifen von American Humane in Hollywood.",
+      "question": "Welche Organisation verstärkte nach dem tödlichen Pferdestunt bei „Jesse James – Mann ohne Gesetz“ den Schutz von Filmtieren in Hollywood?",
+      "answers": [
+        "American Humane",
+        "American Society for the Prevention of Cruelty to Animals (ASPCA)",
+        "Humane Society of the United States",
+        "Royal Society for the Prevention of Cruelty to Animals (RSPCA)"
+      ],
+      "short": "Der Vorfall wurde zum Auslöser verstärkter Tierschutzaufsicht.",
+      "context": "Bei einem Sprung in den Lake of the Ozarks starb ein Pferd. Der Protest gegen den Dreh führte zu einem Wendepunkt im Umgang mit Filmtieren; American Humane eröffnete 1940 sein Regionalbüro in Hollywood. Der bekannte Endcredit zur Unversehrtheit der Tiere ist eine spätere Entwicklung und stand nicht schon als damaliger Standard am Anfang.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tierschutz"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Jesse James mit Tyrone Power wurde erstmals 1939 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Jesse James – Mann ohne Gesetz“ mit Tyrone Power erstmals veröffentlicht?",
+      "answers": [
+        "1939",
+        "1927",
+        "1947",
+        "1957"
+      ],
+      "short": "Diese Fassung erschien 1939.",
+      "context": "Bereits 1940 folgte „Rache für Jesse James“, nun unter Fritz Langs Regie. Henry Fonda kehrte als Frank James zurück, ebenso mehrere Nebenfiguren. Nach dem Tod des Titelhelden konnte Fox dadurch dieselbe Filmwelt mit dem überlebenden Bruder fortsetzen; der Regiewechsel bedeutete keinen Neustart der Figurenkontinuität.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "fortsetzung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Henry King führte die Hauptregie bei Jesse James 1939.",
+      "question": "Wer führte die Hauptregie von „Jesse James – Mann ohne Gesetz“ mit Tyrone Power?",
+      "answers": [
+        "Henry King",
+        "Henry Hathaway",
+        "Raoul Walsh",
+        "Michael Curtiz"
+      ],
+      "short": "Die Hauptregie führte Henry King.",
+      "context": "Nunnally Johnson schrieb das Drehbuch, die Kamera führte George Barnes. Als King während der Dreharbeiten erkrankte, sprang Irving Cummings vorübergehend ein. Die Produktion nutzte Außenorte in Missouri und verband die örtliche Wirkung der Landschaft mit der farbigen Technicolor-Darstellung des bekannten Räuberstoffs.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
