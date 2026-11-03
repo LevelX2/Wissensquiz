@@ -1,0 +1,157 @@
+{
+  "id": "THRILLER-005",
+  "film_title_de": "Ich kämpfe um dich",
+  "film_title_original": "Spellbound",
+  "film_year": 1945,
+  "genre": "Thriller",
+  "categories": ["Classics"],
+  "familiarity_level": 3,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Hitchcock-Klassiker mit Bergman und Peck, dessen einzelne Handlung heute weniger breit vertraut sein dürfte als Psycho oder Vertigo.",
+  "selection_reason": "Psychologischer Mordverdacht verbindet Erinnerungslücken, ärztliche Ermittlungsarbeit und eine eigens gestaltete Traumsequenz; wichtige Ergänzung des klassischen Psychothrillers.",
+  "directors": ["Alfred Hitchcock"],
+  "production_countries": ["USA"],
+  "release_note": "Erstjahr 1945: AFI nennt die New Yorker Eröffnung am 31. Oktober; der 28. Dezember bezeichnet die spätere allgemeine Veröffentlichung. BFI und MoMA bestätigen 1945.",
+  "director_note": "Alfred Hitchcock ist alleiniger Hauptregisseur nach AFI, BFI, TCM und MoMA. Dalís Traumgestaltung ist kein zusätzlicher Hauptregiecredit.",
+  "country_note": "USA nach konkretem AFI-, BFI- und MoMA-Datensatz. Die Romanvorlage und die Herkunft einzelner Künstler begründen kein weiteres Produktionsland. Die Figurennamen werden bei Nachnamen nach AFI/TCM als Peterson und Ballantine geführt; andere Texte schreiben Petersen/Ballantyne. In Fragen werden die eindeutigen Vornamen verwendet.",
+  "series": null,
+  "series_note": "Eigenständige Romanadaption; in den konkreten AFI-, BFI- und TCM-Werkangaben keine nummerierte Fortsetzungsfolge belegt.",
+  "series_sources": ["https://catalog.afi.com/Film/24594-SPELLBOUND?cxt=filmography", "https://www.bfi.org.uk/film/a2fe8638-0a90-56ca-9a8e-787090f80f61/spellbound"],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/24594-SPELLBOUND?cxt=filmography",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausführlichen indexierten Katalogeintrag tatsächlich gelesen: Hauptregie, Besetzung, USA, New Yorker Eröffnung 31. Oktober 1945, allgemeine Veröffentlichung 28. Dezember und Literaturangabe London 1927. History beschreibt die starke Umarbeitung der Romanhandlung und Wechsel des Täters. Wiederholter direkter Abruf zeitweise Timeout; keine vollständige direkte AFI-Synopsislektüre behauptet."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/a2fe8638-0a90-56ca-9a8e-787090f80f61/spellbound",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen kompakten Werkdatensatz gelesen: 1945, USA, Alfred Hitchcock, Bergman, Peck und Chekhov."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/71843/the-essentials-spellbound-1945",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Essentials-Text von Frank Miller gelesen: Constance als Psychoanalytikerin, Green Manors in Vermont, Edwardes-Identität, amnestischer ehemaliger Armeemediziner, Liebes- und Ermittlungsbeziehung sowie Besetzung und Regie. Absolute Erstmaligkeitsbehauptungen zur Traumszene und zum Theremin nicht übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Spellbound_(1945_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Besetzung gelesen: Schriftvergleich, dunkle parallele Linien auf Weiß, Skispuren, Kindheitsunfall und Murchisons widersprüchliche Bekanntschaftsaussage. Nicht als alleinige Grundlage sämtlicher Inhaltsziele verwendet."
+    },
+    "dialog": {
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=spellbound",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkrete Dialogabschnitte gelesen: Einführung der Klinik, Linienreaktion beim Tischgespräch, Traumdeutung und Gabriel Valley, erinnerter Bruderunfall, Kugelfund und abschließende Murchison-Konfrontation. Transkription des Filmtons, keine autorisierte Drehbuchausgabe behauptet."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/current/posts/224-spellbound-love-and-psychoanalysis",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Hauptessay von Lesley Brill gelesen: Amnesie und Tätersuche als miteinander verschränkte Konflikte, Kindheitsunfall, symbolische Abstiege, Ski-Erinnerung, scheinbare Lösungen und tatsächliche Befreiung. Den im Essay ungenauen Ortsnamen Angel Valley nicht übernommen; Filmton nennt Gabriel Valley."
+    },
+    "moma": {
+      "url": "https://www.moma.org/calendar/events/4328",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen konkreten Filmprogrammtext samt Hitchcock-Zitat gelesen: Dalí wegen der architektonischen Schärfe und Klarheit seiner Bildwelt für die Traumsequenz gewünscht; außerdem USA, Jahr, Besetzung und Hauptregie."
+    },
+    "dali": {
+      "url": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/1902/",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkreten Stiftungskatalogeintrag Project for Spellbound gelesen: um 1945, Öl auf Holzplatte, Katalognummer P1048. Materieller Entwurfsbeleg; keine daraus erfundene Ausführung aller Filmszenen."
+    },
+    "frankel": {
+      "url": "https://www.tcm.com/articles/18621/spellbound",
+      "accessed_on": "2026-11-03",
+      "supports": "Eigentlichen TCM-Text einschließlich Schlussabschnitten und Credits gelesen: vergrößerte Hand-/Pistolenattrappe für gemeinsame Schärfe mit Bergman, rote Schlussbilder und Selznicks Streit mit der Zensur. Die widersprüchliche Lost-Weekend-Jahresfolge nicht übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ingrid Bergman spielt die Psychoanalytikerin Constance.",
+      "question": "Wer spielt in „Ich kämpfe um dich“ die Psychoanalytikerin Constance, die sich für den unter Mordverdacht stehenden Mann einsetzt?",
+      "answers": ["Ingrid Bergman", "Joan Fontaine", "Barbara Stanwyck", "Olivia de Havilland"],
+      "short": "Ingrid Bergman spielt Constance, eine Ärztin der Klinik Green Manors.",
+      "context": "Constance (Ingrid Bergman) arbeitet in Green Manors zunächst mit betont sachlicher Distanz. Der vermeintliche neue Klinikleiter (Gregory Peck) verändert ihr Verhalten. Als sich dessen Identität als falsch erweist, hält sie dennoch an seiner möglichen Unschuld fest. Ihre beruflichen Fähigkeiten und ihre Liebe führen sie gemeinsam auf die Suche nach der verdrängten Vergangenheit.",
+      "feedback": ["", "", "", ""],
+      "sources": ["tcm", "criterion"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der vermeintliche Klinikleiter leidet an Amnesie und kennt seine eigene Identität nicht.",
+      "question": "Welches Problem hat der von Gregory Peck gespielte Mann in „Ich kämpfe um dich“, als seine falsche Identität auffliegt?",
+      "answers": ["Er kann sich nicht an seine eigene Identität erinnern.", "Er verliert allmählich sein Augenlicht.", "Er kann seit einem Unfall nicht mehr sprechen.", "Er hält sämtliche Klinikärzte für Verwandte."],
+      "short": "Er leidet an Amnesie und weiß nicht, wer er wirklich ist.",
+      "context": "Der zunächst als Dr. Edwardes auftretende Mann (Gregory Peck) besitzt medizinische Kenntnisse, kann seine eigene Geschichte aber nicht zusammensetzen. Er hält sich selbst für einen Mörder. Constance (Ingrid Bergman) vermutet stattdessen eine krankhafte Schuldvorstellung. Bei ihrem früheren Lehrer Brulov (Michael Chekhov) versuchen beide, über Erinnerungen und einen Traum den verschwundenen wirklichen Edwardes zu finden.",
+      "feedback": ["", "", "", ""],
+      "sources": ["tcm", "criterion", "handlung"],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Ein Vergleich von Unterschriften entlarvt den falschen Edwardes.",
+      "question": "Woran erkennt Constance (Ingrid Bergman) in „Ich kämpfe um dich“, dass der neue Klinikleiter nicht der wirkliche Dr. Edwardes ist?",
+      "answers": ["Seine Unterschrift passt nicht zur Signatur in einem Buch.", "Sein Passfoto zeigt einen anderen Mann.", "Sein Namensschild gehört einem verstorbenen Patienten.", "Sein Ärzteausweis enthält ein unmögliches Geburtsdatum."],
+      "short": "Sie vergleicht seine Handschrift mit der Widmung in einem Buch des wirklichen Edwardes.",
+      "context": "Constance (Ingrid Bergman) besitzt ein signiertes Buch des angesehenen Arztes. Die abweichende Handschrift macht den Identitätswechsel greifbar; die ungewöhnliche Jugend des Neuankömmlings allein hatte dafür noch nicht genügt. Der Mann (Gregory Peck) erklärt daraufhin, dass er den wirklichen Edwardes getötet haben müsse. Sein Geständnis liefert jedoch zunächst keine verlässliche Erinnerung an eine Tat.",
+      "feedback": ["", "", "", ""],
+      "sources": ["handlung", "afi"],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Dunkle parallele Linien auf weißem Grund lösen die Angstanfälle aus.",
+      "question": "Welcher wiederkehrende visuelle Reiz versetzt den Mann (Gregory Peck) in „Ich kämpfe um dich“ in Panik?",
+      "answers": ["Dunkle parallele Linien auf weißem Grund", "Rote Kreisformen auf schwarzem Grund", "Spiegelbilder in trübem Glas", "Flackernde Lichtpunkte im Dunkeln"],
+      "short": "Seine Angst richtet sich auf dunkle Linien vor weißem Hintergrund.",
+      "context": "Schon eine Zeichnung auf dem weißen Tischtuch löst beim vermeintlichen Klinikleiter (Gregory Peck) eine heftige Reaktion aus. Später führen die Linien zu Skispuren im Schnee. Bei einer gemeinsamen Abfahrt mit Constance (Ingrid Bergman) kehrt die verdrängte Erinnerung zurück: Als Kind verursachte er versehentlich den Tod seines Bruders und entwickelte daraus ein übermächtiges Schuldgefühl.",
+      "feedback": ["", "", "", ""],
+      "sources": ["handlung", "dialog", "criterion"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Murchison verrät sich durch die widersprüchliche Behauptung, Edwardes gekannt zu haben.",
+      "question": "Welche beiläufige Aussage bringt Constance (Ingrid Bergman) in „Ich kämpfe um dich“ auf die Spur Murchisons (Leo G. Carroll)?",
+      "answers": ["Er habe Edwardes gekannt und nicht besonders gemocht.", "Er habe Edwardes am Bahnhof verabschiedet.", "Er habe Edwardes die Skiausrüstung geliehen.", "Er habe Edwardes vor einem Patienten gewarnt."],
+      "short": "Murchison behauptet plötzlich, Edwardes gekannt zu haben, obwohl er zuvor das Gegenteil gesagt hatte.",
+      "context": "Murchison (Leo G. Carroll) leitet Green Manors wieder, während John (Gregory Peck) wegen Mordes verurteilt ist. Seine Bemerkung über eine persönliche Bekanntschaft widerspricht der früheren Darstellung. Constance (Ingrid Bergman) prüft deshalb den Traum erneut und erkennt im feindseligen Besitzer den Klinikchef. Bei der Konfrontation gesteht dieser indirekt und zieht die noch immer in seinem Besitz befindliche Waffe.",
+      "feedback": ["", "", "", ""],
+      "sources": ["dialog", "handlung", "criterion"],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Salvador Dalí entwarf die Bildwelt der Traumsequenz.",
+      "question": "Welcher Künstler entwarf die Bildwelt der berühmten Traumsequenz in „Ich kämpfe um dich“?",
+      "answers": ["Salvador Dalí", "René Magritte", "Max Ernst", "Giorgio de Chirico"],
+      "short": "Salvador Dalí lieferte die Entwürfe für die Traumsequenz.",
+      "context": "Die Traumwelt setzt auf scharf umrissene, befremdliche Gegenstände statt auf vernebelte Bilder. Hitchcock erklärte, gerade Dalís architektonische Präzision habe ihn interessiert: Die Visionen sollten deutlicher wirken als die übrige Filmwirklichkeit. Ein Entwurf auf Holzplatte ist im Katalog der Dalí-Stiftung verzeichnet. Seine Beteiligung betrifft die visuelle Konzeption und bedeutet keinen zusätzlichen Hauptregiecredit.",
+      "feedback": ["", "", "", ""],
+      "sources": ["moma", "dali", "criterion"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Ich kämpfe um dich wurde erstmals 1945 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Ich kämpfe um dich“ mit Ingrid Bergman und Gregory Peck erstmals veröffentlicht?",
+      "answers": ["1945", "1939", "1951", "1957"],
+      "short": "Der Film eröffnete 1945 in New York.",
+      "context": "Die Romanvorlage „The House of Dr. Edwardes“ erschien 1927 unter dem gemeinsamen Autorennamen Francis Beeding. Die Verfilmung erreichte 1945 das Kino, übernahm die Geschichte jedoch keineswegs unverändert. In der Bearbeitung wurden Täterfigur und Identitätskonflikt umgebaut. Der New Yorker Start am 31. Oktober 1945 liegt vor dem im Katalog zusätzlich genannten allgemeinen US-Termin vom 28. Dezember.",
+      "feedback": ["", "", "", ""],
+      "sources": ["afi", "bfi"],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Alfred Hitchcock führte die alleinige Hauptregie.",
+      "question": "Wer führte bei „Ich kämpfe um dich“ mit Ingrid Bergman und Gregory Peck Regie?",
+      "answers": ["Alfred Hitchcock", "Fritz Lang", "Otto Preminger", "Robert Siodmak"],
+      "short": "Alfred Hitchcock inszenierte den Psychothriller.",
+      "context": "Für die letzte Bedrohung durch Murchison (Leo G. Carroll) ließ Hitchcock eine übergroße Hand mit Pistole anfertigen. So konnten die Waffe im Vordergrund und Constance (Ingrid Bergman) im Hintergrund gemeinsam scharf erscheinen. Beim anschließenden Selbstmord setzen kurz eingefärbte rote Bilder einen Schock in den sonst schwarzweißen Film. Die Effektgestaltung verbindet die subjektive Sicht des Täters mit der Gefahr für die Ärztin.",
+      "feedback": ["", "", "", ""],
+      "sources": ["frankel", "bfi", "criterion"],
+      "spoiler": "hoch"
+    }
+  ]
+}

@@ -24004,6 +24004,563 @@
       "reference_question_id": "G150-20261103-FANTASY-045-L1",
       "year_question_id": "G150-20261103-FANTASY-045-Y",
       "director_question_id": "G150-20261103-FANTASY-045-D"
+    },
+    {
+      "id": "THRILLER-004",
+      "film_title_de": "Verdacht",
+      "film_title_original": "Suspicion",
+      "film_year": 1941,
+      "subdomain": "Thriller",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein Hitchcock-Klassiker mit Cary Grant und Joan Fontaine; die genaue Entwicklung der Ehe und die Gestaltung einzelner Verdachtsmomente sind eher Filmkennerwissen.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr1941 nach AFI, BFI und RKO. AFI führt den14.November1941 als Veröffentlichung; LosAngeles1942 und die Oscarverleihung1942 sind später. Vorführungen für Presse/Preview werden ohne gesicherten Publikumsstatus nicht als frühere Veröffentlichung behauptet.",
+      "director_note": "Alfred Hitchcock alleiniger Hauptregisseur; Dewey Starkey ist Regieassistent. Samson Raphaelson, Joan Harrison und Alma Reville tragen den finalen Drehbuchcredit; frühere Behandlungen sind keine zusätzlichen Hauptregien.",
+      "country_note": "USA übereinstimmend bei AFI und BFI; die englische Handlung begründet kein britisches Produktionsland.",
+      "series": null,
+      "series_note": "Eigenständige Adaption von Before the Fact. Spätere Hörspiele und die Fernsehneuverfilmung1988 sind keine nummerierten Fortsetzungen dieser Filmhandlung.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/27053",
+        "https://en.wikipedia.org/wiki/Suspicion_(1941_film)"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/27053",
+          "accessed_on": "2026-11-03",
+          "supports": "Geschichtsnotiz, Hauptcredits und Werkdaten sowie zusammenhängende Synopsis bis zur Fahrt zur Küste gelesen:1941,USA,Hauptregie,Figuren,Melbeck und Drehbuchteam. Fehlerhafte Gleichsetzung FrancisIles/JamesHilton und pauschale Erbverzichtsbehauptung nicht übernommen; umstrittene Endfassungsentstehung nicht als eindeutige Studioursache abgefragt."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/fd5d73a8-b1ac-5d1c-b878-1a6bc5fbc346/suspicion",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indizierten Werktext gelesen: psychologischer Klassiker,1941USA,Hitchcock,Fontaine/Grant und die bedrohliche Milchglas als Bildmotiv."
+        },
+        {
+          "key": "rko",
+          "url": "https://rko.com/portfolio-items/suspicion/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Werktext gelesen:1941,Hitchcock,Fontaine/Grant/Bruce und Linas Furcht vor einem Mord wegen Geld. Pauschal aufgeführte frühere Autoren nicht mit den finalen Credits gleichgesetzt."
+        },
+        {
+          "key": "filmsite",
+          "url": "https://www.filmsite.org/suspicion.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Tim-Dirks-Filmtext einschließlich Schluss gelesen: Elternhaus,verkaufteStühle,Melbecks Unterschlagung,Beakys Brandy,Giftrecherche und Johnnies eigene Schlusserklärung. Dessen Behauptung nicht als allwissende Bestätigung vollständiger Unschuld übernommen."
+        },
+        {
+          "key": "beaky",
+          "url": "https://en.wikipedia.org/wiki/Suspicion_(1941_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Besetzung und zusammenhängende Produktions-/Handlungsbesprechung zu Beakys Tod, dem vertrauten Anredenamen, Glas, unberührtem Getränk, mehrdeutiger Schlussfahrt sowie spätere Adaptionen gelesen. Vorlagen-, Entwurfs- und Filmende getrennt."
+        },
+        {
+          "key": "licht",
+          "url": "https://jdolven.princeton.edu/wp-content/uploads/sites/325/2018/01/DolvenJ_LightMilk_Cabinet_62_2017.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Erste vollständige gedruckte Artikelseite74 (PDF-Seite1) gelesen: JeffDolven gibt den Hitchcock/Truffaut-Dialog zur Lichtquelle in der Milch wieder und beschreibt Treppe, Tablett, Schatten und sichtbare Aufmerksamkeit. Übrige sechs PDF-Seiten nicht als vollständig gelesen ausgegeben."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/1942/K",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen Verleihungsrahmen26.Februar1942 für Filme1941 sowie vollständigen Suspicion-Werkabschnitt gelesen:Fontaine gewinnt,Film/Musik nominiert. Keine Verwechslung von Filmjahr und Verleihungsjahr."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-004-L1",
+      "year_question_id": "G150-20261103-THRILLER-004-Y",
+      "director_question_id": "G150-20261103-THRILLER-004-D"
+    },
+    {
+      "id": "THRILLER-005",
+      "film_title_de": "Ich kämpfe um dich",
+      "film_title_original": "Spellbound",
+      "film_year": 1945,
+      "subdomain": "Thriller",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Hitchcock-Klassiker mit Bergman und Peck, dessen einzelne Handlung heute weniger breit vertraut sein dürfte als Psycho oder Vertigo.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1945: AFI nennt die New Yorker Eröffnung am 31. Oktober; der 28. Dezember bezeichnet die spätere allgemeine Veröffentlichung. BFI und MoMA bestätigen 1945.",
+      "director_note": "Alfred Hitchcock ist alleiniger Hauptregisseur nach AFI, BFI, TCM und MoMA. Dalís Traumgestaltung ist kein zusätzlicher Hauptregiecredit.",
+      "country_note": "USA nach konkretem AFI-, BFI- und MoMA-Datensatz. Die Romanvorlage und die Herkunft einzelner Künstler begründen kein weiteres Produktionsland. Die Figurennamen werden bei Nachnamen nach AFI/TCM als Peterson und Ballantine geführt; andere Texte schreiben Petersen/Ballantyne. In Fragen werden die eindeutigen Vornamen verwendet.",
+      "series": null,
+      "series_note": "Eigenständige Romanadaption; in den konkreten AFI-, BFI- und TCM-Werkangaben keine nummerierte Fortsetzungsfolge belegt.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/24594-SPELLBOUND?cxt=filmography",
+        "https://www.bfi.org.uk/film/a2fe8638-0a90-56ca-9a8e-787090f80f61/spellbound"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/24594-SPELLBOUND?cxt=filmography",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen indexierten Katalogeintrag tatsächlich gelesen: Hauptregie, Besetzung, USA, New Yorker Eröffnung 31. Oktober 1945, allgemeine Veröffentlichung 28. Dezember und Literaturangabe London 1927. History beschreibt die starke Umarbeitung der Romanhandlung und Wechsel des Täters. Wiederholter direkter Abruf zeitweise Timeout; keine vollständige direkte AFI-Synopsislektüre behauptet."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/a2fe8638-0a90-56ca-9a8e-787090f80f61/spellbound",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen kompakten Werkdatensatz gelesen: 1945, USA, Alfred Hitchcock, Bergman, Peck und Chekhov."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/71843/the-essentials-spellbound-1945",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Essentials-Text von Frank Miller gelesen: Constance als Psychoanalytikerin, Green Manors in Vermont, Edwardes-Identität, amnestischer ehemaliger Armeemediziner, Liebes- und Ermittlungsbeziehung sowie Besetzung und Regie. Absolute Erstmaligkeitsbehauptungen zur Traumszene und zum Theremin nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Spellbound_(1945_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: Schriftvergleich, dunkle parallele Linien auf Weiß, Skispuren, Kindheitsunfall und Murchisons widersprüchliche Bekanntschaftsaussage. Nicht als alleinige Grundlage sämtlicher Inhaltsziele verwendet."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=spellbound",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete Dialogabschnitte gelesen: Einführung der Klinik, Linienreaktion beim Tischgespräch, Traumdeutung und Gabriel Valley, erinnerter Bruderunfall, Kugelfund und abschließende Murchison-Konfrontation. Transkription des Filmtons, keine autorisierte Drehbuchausgabe behauptet."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/current/posts/224-spellbound-love-and-psychoanalysis",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Hauptessay von Lesley Brill gelesen: Amnesie und Tätersuche als miteinander verschränkte Konflikte, Kindheitsunfall, symbolische Abstiege, Ski-Erinnerung, scheinbare Lösungen und tatsächliche Befreiung. Den im Essay ungenauen Ortsnamen Angel Valley nicht übernommen; Filmton nennt Gabriel Valley."
+        },
+        {
+          "key": "moma",
+          "url": "https://www.moma.org/calendar/events/4328",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Filmprogrammtext samt Hitchcock-Zitat gelesen: Dalí wegen der architektonischen Schärfe und Klarheit seiner Bildwelt für die Traumsequenz gewünscht; außerdem USA, Jahr, Besetzung und Hauptregie."
+        },
+        {
+          "key": "dali",
+          "url": "https://catalogues.salvador-dali.org/catalogues/en/heritageobject/1902/",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten Stiftungskatalogeintrag Project for Spellbound gelesen: um 1945, Öl auf Holzplatte, Katalognummer P1048. Materieller Entwurfsbeleg; keine daraus erfundene Ausführung aller Filmszenen."
+        },
+        {
+          "key": "frankel",
+          "url": "https://www.tcm.com/articles/18621/spellbound",
+          "accessed_on": "2026-11-03",
+          "supports": "Eigentlichen TCM-Text einschließlich Schlussabschnitten und Credits gelesen: vergrößerte Hand-/Pistolenattrappe für gemeinsame Schärfe mit Bergman, rote Schlussbilder und Selznicks Streit mit der Zensur. Die widersprüchliche Lost-Weekend-Jahresfolge nicht übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-005-L1",
+      "year_question_id": "G150-20261103-THRILLER-005-Y",
+      "director_question_id": "G150-20261103-THRILLER-005-D"
+    },
+    {
+      "id": "THRILLER-006",
+      "film_title_de": "Über den Dächern von Nizza",
+      "film_title_original": "To Catch a Thief",
+      "film_year": 1955,
+      "subdomain": "Thriller",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: weithin bekannter Hitchcock-Titel mit Grant und Kelly sowie markanter Riviera-Bildwelt.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1955; AFI nennt Los Angeles am 3. August und New York am 4. August. Der zusätzlich im Katalogkopf stehende September ist nicht die erste öffentliche Aufführung.",
+      "director_note": "Alfred Hitchcock allein nach offiziellem Paramount-Werkdatensatz und AFI.",
+      "country_note": "USA nach AFI. Die umfangreichen französischen und monegassischen Drehorte sind keine zusätzlichen Produktionsländer.",
+      "series": null,
+      "series_note": "Eigenständige David-Dodge-Adaption; konkrete Werk- und Produktionsangaben bei AFI und Paramount belegen keine nummerierte Filmfolge.",
+      "series_sources": [
+        "https://www.paramount.com/movies/to-catch-a-thief",
+        "https://catalog.afi.com/Film/51697-TO-CATCH-A-THIEF?cxt=filmography"
+      ],
+      "sources": [
+        {
+          "key": "paramount",
+          "url": "https://www.paramount.com/movies/to-catch-a-thief",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Filmtext samt Besetzung und Crew gelesen: Grant/Robie, Kelly/Frances, Landis/Jessie, Williams/Hughson, Auber/Danielle und Hitchcock. Ausgangslage der Schmuckdiebstähle und vermögende Mutter als mögliches Ziel."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/51697-TO-CATCH-A-THIEF?cxt=filmography",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits, Länder, Erscheinungstermine und vollständige ausführliche Handlung gelesen; History mit Paramount-Produktionsunterlagen zu französisch-monegassischen Drehorten und tatsächlich in Long Beach aufgenommenem Feuerwerk. Hughsons Kostümtausch, Foussards Bein und Danielles Geständnis konkret gegengeprüft."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/87961/to-catch-a-thief",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Haupttext von Brian Cady gelesen: Grant-Gewinnung, gemeinsamer Widerstandshintergrund, Hayes-Zusammenarbeit, Dialog und Feuerwerksmontage, Kostümball sowie Credits. Ungeprüfte populäre Legenden zur späteren Unfallstraße nicht übernommen."
+        },
+        {
+          "key": "filmsite1",
+          "url": "https://www.filmsite.org/toca.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Einführung und ausführliche Hughson-/Lloyds-Passagen gelesen: Klientenliste, Berufsinteresse, vorläufige Freiheit Robies, Stevens-Kontakt und dessen Vorgeschichte als Trapezkünstler. Konkrete Filmszenen von Deutungen des Autors getrennt."
+        },
+        {
+          "key": "filmsite3",
+          "url": "https://www.filmsite.org/toca3.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführliche Hotelzimmer-, Überfall- und vollständige Schlussabschnitte gelesen: falsche Halskette, Feuerwerk, Foussards Tod, Beinprothese, Kostümtausch und Danielle/Bertani-Auflösung. Keine geplante Neuverfilmung aus der älteren Einführungsseite als realisiert behandelt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=to-catch-a-thief",
+          "accessed_on": "2026-11-03",
+          "supports": "Gezielte konkrete Dialogabschnitte tatsächlich gelesen: Halskette als Imitation, Foussards Holzbein, arrangierte Herztablettenbitte, Hughsons schmerzende Füße nach dem Tanz, Geständnis vom Dach. Filmtontranskription, keine autorisierte Drehbuchausgabe behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/To_Catch_a_Thief",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Filmhandlung und Besetzung gelesen; Widerstandsgruppe, Hughsons Hilfe, Maskenwechsel und finale Entlarvung mit AFI und Filmsite verglichen."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/1956",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete vollständige Kategorie Cinematography (Color) und Filmeintrag gelesen: Robert Burks gewinnt für To Catch a Thief bei der Verleihung 1956; zusätzliche Nominierungen für Ausstattung und Kostüme ohne Sieg. Verleihungsjahr vom Filmjahr getrennt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-006-L1",
+      "year_question_id": "G150-20261103-THRILLER-006-Y",
+      "director_question_id": "G150-20261103-THRILLER-006-D"
+    },
+    {
+      "id": "THRILLER-007",
+      "film_title_de": "Saboteure",
+      "film_title_original": "Saboteur",
+      "film_year": 1942,
+      "subdomain": "Thriller",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: prägender früher Hollywood-Hitchcock, dessen Freiheitsstatuen-Finale bekannter sein dürfte als Figuren und Titel.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "1942: Weltpremiere am 22. April in Washington, D.C., regulärer Termin 24. April nach AFI. Die zunächst für 15. April geplante Premiere wurde verschoben und zählt nicht als tatsächlicher Ersttermin.",
+      "director_note": "Alleinige Hauptregie Alfred Hitchcock nach AFI und Universal. Vernon Keays ist ausdrücklich Second-Unit-Regisseur, kein gleichgestellter Hauptregisseur.",
+      "country_note": "USA nach AFI und BFI. BFI-Player-Kurztext verwechselt an einer Stelle WWI mit der tatsächlichen Zweiter-Weltkrieg-Handlung; diese Angabe nicht übernommen.",
+      "series": null,
+      "series_note": "Eigenständiger Film; weder die Hitchcock-Box des Verleihs noch wiederkehrende Verfolgungsmotive begründen eine nummerierte Filmfolge. Nicht mit dem anderen Hitchcock-Film Sabotage von 1936 verwechselt.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/saboteur",
+        "https://catalog.afi.com/Film/27445-SABOTEUR"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/27445-SABOTEUR",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen indexierten Katalogtext samt vollständiger Handlung gelesen; spätere direkte Find-Ausgabe mit Credits, Regieabgrenzung und Premierenhistorie ebenfalls gelesen. Weltpremiere, USA, Cummings/Lane/Lloyd, Tobin-Telegramm und zerrissener Ärmel. Ein vorheriger Direktabruf war Timeout."
+        },
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/saboteur",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Werktext gelesen: Fabrikarbeiter Kane, falsche Beschuldigung, Tod des Freundes, landesweite Suche, Besetzung, alleiniger Hauptregisseur und Jahr 1942."
+        },
+        {
+          "key": "bfi",
+          "url": "https://player.bfi.org.uk/rentals/film/watch-saboteur-1942-online",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indexierten Filmprogrammtext gelesen: USA, 1942, Regie, Arbeiter als Verfolgter und Freiheitsstatuen-Finale. Falsche WWI-Abkürzung im Kurztext verworfen."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/74665/saboteur",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Brian-Cady-Haupttext gelesen: Selznick/Universal-Entstehung, Besetzungsfragen, Pearl-Harbor-Nachricht während der Vorbereitungen am 7. Dezember 1941, frühe Veröffentlichung 1942, finale Freiheitsstatue und Credits."
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.tcm.com/articles/220480/behind-the-camera-saboteur",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Rob-Nixon-Produktionsessay gelesen: Studiorekonstruktion von Hand/Fackel, Norman Lloyds eigener Rückwärtssturz über das Geländer, schwarzer Hintergrund und wegfahrende Kamera für den Fall, perspektivisch verkleinerte Zirkuskolonne und Robert-Boyle-Zitate. Widersprüchliche Varianten von Lloyds Aufhängung ausdrücklich nicht entschieden."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=saboteur",
+          "accessed_on": "2026-11-03",
+          "supports": "Gezielte ausführliche Filmtonabschnitte gelesen: Fry und Benzinlöscher, Gespräch mit Tobin und Telegramm, demokratische Abstimmung der Zirkustruppe mit anschließender Verbergung und Pats wachsendem Vertrauen. Keine autorisierte Drehbuchausgabe behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Saboteur_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: Industriebrand, wohlhabende Unterstützer, Pat als anfängliche Gegnerin, New Yorker Sabotage und Schlussrettungsversuch. Mehrdeutige Darsteller-/Figurenschreibweisen nicht für Detailfragen genutzt."
+        },
+        {
+          "key": "filmsite",
+          "url": "https://www.filmsite.org/saboteur.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführliche indexierte Szenenbeschreibung tatsächlich gelesen: Briefadressspur, Zirkusabstimmung, politische Gegensätze, Pats Verfolgung Frys und konkrete Ärmelnaht am Ende. Bildgalerie allein nicht als eigene Filmsichtung ausgegeben."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-007-L1",
+      "year_question_id": "G150-20261103-THRILLER-007-Y",
+      "director_question_id": "G150-20261103-THRILLER-007-D"
+    },
+    {
+      "id": "THRILLER-008",
+      "film_title_de": "Der falsche Mann",
+      "film_title_original": "The Wrong Man",
+      "film_year": 1956,
+      "subdomain": "Thriller",
+      "categories": [
+        "Classics",
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: geschätzter, aber im Vergleich zu Hitchcocks großen Publikumserfolgen weniger bekannter Film mit Henry Fonda.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1956: AFI führt zwar 1957 im Kopf und den allgemeinen Start am 26. Januar 1957, nennt unter Premiere aber New York am 22. Dezember 1956. BFI, AFI Silver und MoMA führen entsprechend 1956. TCM-Artikelüberschrift 1957 nicht als Erstjahr übernommen.",
+      "director_note": "Alleinige Hauptregie Alfred Hitchcock nach AFI, BFI und MoMA. Herbert Coleman ist Associate Producer.",
+      "country_note": "USA nach konkretem AFI-, BFI-, MoMA- und AFI-Silver-Eintrag.",
+      "series": null,
+      "series_note": "Eigenständige Bearbeitung eines wirklichen Falles; keine nummerierte Filmfolge in AFI-, BFI- und MoMA-Werkangaben. Nicht mit gleichnamigen anderen Filmen gleichgesetzt.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/52452?cxt=filmography",
+        "https://www.moma.org/calendar/events/8559"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/52452?cxt=filmography",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige ausführliche Handlung, konkrete Credits, Länder, History und Premierendaten gelesen: Erststart 22. Dezember 1956 trotz 1957-Kopf, Musiker, Versicherungsbesuch, Schreibprobe, Prozessabbruch und Überblendung vor Entdeckung des Täters. Prolog-/Epilogbehauptung von historischer Genauigkeit nicht als Beweis völliger Wirklichkeitstreue ausgegeben."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/7adaa2e2-bfd5-5cdf-abf3-eae9d3881ad1/the-wrong-man",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten kompakten indexierten Werkdatensatz vollständig gelesen: USA 1956, Alfred Hitchcock, Fonda, Miles und Quayle."
+        },
+        {
+          "key": "silver",
+          "url": "https://silver.afi.com/movies/detail/0100003574/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Programmtext gelesen: Fonda als Stork-Club-Bassist, irrtümliche Identifizierung, Miles als depressive Ehefrau, neorealistische Einflüsse Rossellini/De Sica, reduzierte Herrmann-Musik, USA 1956. Veranstaltungseröffnung 2026 nicht als Filmstart behandelt."
+        },
+        {
+          "key": "moma",
+          "url": "https://www.moma.org/calendar/events/8559",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Filmprogrammtext mit del-Toro-Deutung gelesen: USA 1956, Regie und Besetzung, wiederholte Fehlidentifikation, fast Bressonsche Betrachtung willkürlicher Verfolgung. Deutung als solche, keine historische Beweisquelle."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/103572/the-wrong-man-1957",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Haupttext von Jerry Renshaw gelesen: wirklicher Fall 1953, Life-Artikel, Drehbuchentwicklung, Besuche an Originalorten und im Sanatorium, Zusammenbruch der Ehefrau. Artikeljahresangabe anhand AFI-Ersttermin korrigiert; pauschale Behauptung fast fehlender Stilmittel nicht übernommen."
+        },
+        {
+          "key": "filmsite",
+          "url": "https://www.filmsite.org/wrongman.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige indexierte Szenenübersicht und gezielte direkte Abschnitte gelesen: Zahnbehandlungskosten, drawer/draw, geplatzte Alibisuche, voreingenommener Geschworener, Gebet/Überblendung und unerlöste Reaktion der Ehefrau. Nur konkrete Vorgänge übernommen, wertende Etiketten zu angeblich schwacher Verteidigung nicht als Tatsachen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Wrong_Man",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen; Schreibprobe, beiden verstorbenen bzw. unauffindbaren Alibizeugen, Prozessabbruch und Festnahme des Doppelgängers mit AFI und Filmsite verglichen."
+        },
+        {
+          "key": "kenny",
+          "url": "https://www.rogerebert.com/balder-and-dash/the-wrong-man-hitchcocks-least-fun-movie-is-also-one-of-his-greatest",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen tatsächlich indexierten Anfang und Hauptabschnitt von Glenn Kenny gelesen: Prolog, Familienfinanzen, Paar gemeinsam im ersten Schlafzimmergespräch und getrennte Bildorganisation nach der Festnahme. Direkter Abruf 403; keine vollständige Direktlektüre oder ungeprüfte Schlussanalyse behauptet."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=wrong-man-the",
+          "accessed_on": "2026-11-03",
+          "supports": "Umfangreiche konkrete indexierte Filmtonabschnitte tatsächlich gelesen: wiederholtes Abschreiben des Überfallzettels und fehlendes ER, Zwischenruf des Geschworenen und beantragter Mistrial, anschließendes Gespräch mit der Mutter, Festnahme des Räubers und Rose in der Klinik. URL ausdrücklich auf Filmfassung 1956 geprüft; gleichnamige URL the-wrong-man gehört zu 2017 und wurde verworfen."
+        },
+        {
+          "key": "larsen",
+          "url": "https://larsenonfilm.com/the-wrong-man",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Schlussabsatz gelesen: Überblendung vom betenden Manny zum wirklichen Räuber. Kritische Wertung eines vermeintlich zu einfachen religiösen Schlusses nicht als objektiver Sachverhalt übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-008-L1",
+      "year_question_id": "G150-20261103-THRILLER-008-Y",
+      "director_question_id": "G150-20261103-THRILLER-008-D"
+    },
+    {
+      "id": "THRILLER-009",
+      "film_title_de": "Der zerrissene Vorhang",
+      "film_title_original": "Torn Curtain",
+      "film_year": 1966,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: weniger bekannter später Hitchcock, trotz der populären Hauptdarsteller Newman und Andrews.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1966: tatsächliche Boston-Premiere am 14. Juli, vor dem New Yorker Kinostart 27. Juli nach konkretem AFI-Eintrag.",
+      "director_note": "Alfred Hitchcock allein nach AFI und Universal; Entwicklungsautoren und Komponisten nicht mit Regie verwechselt.",
+      "country_note": "USA nach AFI und BFI. Europäische Dreh- und Handlungsschauplätze begründen kein zusätzliches Produktionsland. BFI nennt das Figurenpaar im Kurztext ungenau verheiratet; offizieller Universal-Text und Handlung belegen Verlobung.",
+      "series": null,
+      "series_note": "Eigenständige Spionagegeschichte; konkrete AFI- und Universal-Werkangaben ohne nummerierte Filmfolge. Die Hitchcock-Sammelbox ist keine Filmreihe.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/18571-TORN-CURTAIN",
+        "https://www.universalpicturesathome.com/movies/torn-curtain"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/18571-TORN-CURTAIN",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits, Land, tatsächliche Premierendaten und ausführliche Produktionshistorie gelesen; kompakte gesamte Handlung von Kopenhagen bis Schweden. Zeitgenössisch belegte Hitchcock-Äußerungen zum schwierigen Töten, 67 Einstellungen und indirekter Beleuchtung. Keine private LAT-Passage wörtlich übernommen."
+        },
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/torn-curtain",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indexierten offiziellen Werktext gelesen: Newman/Armstrong, Andrews/Sarah als Assistentin und Verlobte, Kopenhagen, scheinbares Überlaufen, Geheimwissen, Hauptregie und Filmjahr."
+        },
+        {
+          "key": "bfi",
+          "url": "https://player.bfi.org.uk/rentals/film/watch-torn-curtain-1966-online",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Programmtext gelesen: USA 1966, Hitchcock, Wissenschaftler täuscht Überlaufen vor und will geheime Formel beschaffen; Bruch mit Herrmann. Ungenaue Ehepaar-Bezeichnung anhand Universal korrigiert."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/64120/torn-curtain",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Brian-Cady-Haupttext gelesen: Burgess/Maclean 1951 als Anregung, Perspektive der Verlobten, Bogdanovich-Interviewzitat zum schmutzigen Spionagegeschäft, Produktionszwänge, Tötungsabsicht als dramaturgische Gestaltung, Wechsel Herrmann/Addison und Credits."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Torn_Curtain",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: Pi-Fluchtnetz, Gromeks Verdacht und Tod, Lindts Korrektur an der Tafel, falscher Linienbus, Theater-Feueralarm und Ankunft in Schweden. Widersprüchliche Detailfassung der letzten Wäschekörbe nicht zum Wissensziel gemacht."
+        },
+        {
+          "key": "filmsite",
+          "url": "https://www.filmsite.org/torncurtain.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete ausführliche Szenenblöcke tatsächlich gelesen: Farmkontakt, lautloser Kampf wegen wartendem Taxifahrer, Gasherd, Sarahs Aufklärung, Lindts Tafelarbeit und Ende. Wertungen zu Darstellerleistungen und pauschaler Qualität nicht übernommen."
+        },
+        {
+          "key": "wise",
+          "url": "https://www.wisemusicclassical.com/work/59541/Torn-Curtain-Prelude--Bernard-Herrmann/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Verlags-Programme Note gelesen: Herrmanns verworfener Score, John Addison als Ersatz, auffällige Instrumentation ohne Violinen und Bratschen, dafür zwölf Flöten und große Blechbläsergruppe. Wertung resounding flop wegen widersprechender wirtschaftlicher Angaben nicht übernommen."
+        },
+        {
+          "key": "historie",
+          "url": "https://history.state.gov/historicaldocuments/frus1951v04p1/d438",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten offiziellen historischen Dokumentabschnitt gelesen: Mitteilung des Foreign Office über das Verschwinden von Burgess und Maclean am 25. Mai 1951 und Suspendierung zum 1. Juni. Belegt historischen Zeitanker; filmische Inspiration gesondert nach TCM."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-009-L1",
+      "year_question_id": "G150-20261103-THRILLER-009-Y",
+      "director_question_id": "G150-20261103-THRILLER-009-D"
+    },
+    {
+      "id": "THRILLER-010",
+      "film_title_de": "Topas",
+      "film_title_original": "Topaz",
+      "film_year": 1969,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: ein weniger geläufiger später Hitchcock mit internationalem Ensemble; der Romanname ist bekannter als viele einzelne Filmfiguren.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1969. AFI nennt die Londoner Weltpremiere am 6. November, eine Pressevorführung am 4. November und die späteren US-Starts am 19. Dezember. Der Produktionsbeginn 1968 und BBFCs pauschales Feld Production year 1968 sind kein Erstveröffentlichungsjahr.",
+      "director_note": "Alfred Hitchcock alleiniger Hauptregisseur nach AFI und TCM. Herbert Coleman führte Teile des verworfenen Duellschlusses aus; dies wird als begrenzte Mitarbeit behandelt, nicht als gleichgestellter Hauptregiecredit.",
+      "country_note": "USA nach AFI. Internationale Schauplätze, Darsteller und europäische Außendrehs begründen keine zusätzlichen Produktionsländer.",
+      "series": null,
+      "series_note": "Eigenständige Romanadaption ohne belegte nummerierte Fortsetzungsfolge. Die alternativen Schlussfassungen bleiben Fassungen desselben Films und werden nicht als zusätzliche Filme gezählt.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/23628-TOPAZ",
+        "https://www.bbfc.co.uk/release/topaz-q29sbgvjdglvbjpwwc0ynzqxotg"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23628-TOPAZ",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete Credits, Land, Premieren- und Produktionshistorie gelesen; Uris-Roman 1967, Beginn 1968 und Premiere London November 1969. Tatsächlich vollständiger indexierter Historienabschnitt zur Pressefassung, nachgereichtem Schluss und Laufzeit, keine private Rohquelle veröffentlicht."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/81409/topaz",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen ausführlichen indexierten Frank-Miller-Haupttext tatsächlich gelesen: Uris/Taylor-Drehbuchentwicklung, Stafford/Dor/Vernon/Browne, Henry Bumsteads Farbsystem, Dor-Tod mit fünf Fäden am Gewand und drei Enden. Direkter Abruf 403; wirtschaftliche Flop-Pauschalen und biografische Wertungen nicht als gesicherte Quizfakten übernommen."
+        },
+        {
+          "key": "filmsite",
+          "url": "https://www.filmsite.org/topaz.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführliche konkrete Szenen tatsächlich gelesen: Dubois als scheinbarer Ebony-Journalist, Uribes Bestechung, abfotografierte Unterlagen und Kameraübergabe im Gedränge; kubanische Aufklärung, Tod Juanitas, Granville als Ringführer und alternative Schlüsse. Wertende Qualitätsurteile nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Topaz_(1969_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung und Besetzung gelesen: Kusenov, Nordstrom, Devereaux, Fotografie in Harlem, Kuba und Spionagering in Paris. Offenkundigen Namensfehler im Absatz zur Erschießung Juanitas, der Carlotta einsetzt, anhand TCM/Filmsite korrigiert; keine Frage auf dieser fehlerhaften Passage aufgebaut."
+        },
+        {
+          "key": "oxford",
+          "url": "https://academic.oup.com/kentucky-scholarship-online/book/34148/chapter-abstract/289478377",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Kapitelabstract von John Billheimer gelesen: Duellschluss, nachträgliche Varianten mit Flucht beziehungsweise Selbstmord und unterschiedliche Länderfassungen. Nur öffentlich zugänglichen Abstract, nicht kostenpflichtiges Kapitel als gelesen behauptet."
+        },
+        {
+          "key": "bbfc",
+          "url": "https://www.bbfc.co.uk/release/topaz-q29sbgvjdglvbjpwwc0ynzqxotg",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Versionsdatensatz gelesen: Kinofassung 1969 sowie ausdrücklich klassifiziertes Zusatzmaterial Topaz - 3 Different Endings & Archives vom 5. Juli 2001. Belegt Existenz der veröffentlichten Alternativen; pauschales Produktionsjahr 1968 nicht als Erstjahr behandelt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-010-L1",
+      "year_question_id": "G150-20261103-THRILLER-010-Y",
+      "director_question_id": "G150-20261103-THRILLER-010-D"
     }
   ],
   "series_updates": [
