@@ -33814,6 +33814,897 @@
       "reference_question_id": "G150-20261103-THRILLER-050-L1",
       "year_question_id": "G150-20261103-THRILLER-050-Y",
       "director_question_id": "G150-20261103-THRILLER-050-D"
+    },
+    {
+      "id": "MARTIALARTS-041",
+      "film_title_de": "Die Unbesiegbaren der Shaolin",
+      "film_title_original": "She he ba bu",
+      "film_year": 1978,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannterer früher Jackie-Chan-Film im klassischen Kung-Fu-Repertoire; die konkrete Intrige ist weniger geläufig als seine späteren Erfolge.",
+      "directors": [
+        "Chen Chi-Hwa"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "Hongkonger Mandarin-Fassung von 1978, HKFA-Zeile6367:8.März1978. Splendid/88Films bestätigen1978. Verwandter koreanischer Eintrag nennt7.Februar1978; kein globaler Ersttag behauptet. Filmdienst1977/VOD2025 nicht zum Erstjahr gemacht. Original蛇鶴八步, She he ba bu. She he ba xing und Schlangenfaust gegen Drachenhand der Vorauswahl unbelegt; deutscher Lizenzname Die Unbesiegbaren der Shaolin.",
+      "director_note": "Hauptregie Chen Chi-Hwa nach Splendid/88Films/HKFA. Lo Wei ist Produzent. Filmdienst nennt abweichend LoWei; koreanischer verwandter Eintrag LoWei/KimChinTai. Diese Credits nicht ungeprüft zur Hongkonger Hauptregie addiert. Chan/ToWaiWo sind gesonderte Actioncredits.",
+      "country_note": "Hongkong nach Splendid und Metropolitan. HKFA nennt Taiwan-Dreharbeiten, damit allein keine zusätzliche Produktionsnation belegt. Koreanische verwandte Fassung mit abweichenden Credits getrennt betrachtet.",
+      "series": null,
+      "series_note": "Eigenständige Hsu-Handlung ohne belegte nummerierte Fortsetzung. Snake in the Eagle’s Shadow ist ein anderer Film desselben Jahres. Keine positive Registerzuordnung gefunden.",
+      "series_sources": [
+        "https://splendid-film.de/snake-and-crane-arts-of-shaolin?view=home-entertainment",
+        "https://lovehkfilm.com/reviews/snake_and_crane_arts.htm"
+      ],
+      "sources": [
+        {
+          "key": "splendid",
+          "url": "https://splendid-film.de/snake-and-crane-arts-of-shaolin?view=home-entertainment",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen sichtbaren Lizenztext/Credits gelesen: deutscher Titel,Hongkong1978,ChenChiHwa,Schrift,achtMeister,Jagd."
+        },
+        {
+          "key": "metropolitan",
+          "url": "https://metrofilms.com/film/le-magnifique/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Lizenz-Werktext im Suchindex gelesen: achtMeister kombinieren Techniken, Buch,HsuYingFung,Hongkong1978,ChenChiHwa."
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkrete HKFA-Zeilen6366/6367 samt Spaltenüberschriften im Suchindex gelesen: SnakeEagle1.März1978,SnakeCrane8.März1978,陳誌華,羅維alsProduktion,Taiwan-Dreharbeiten. Nicht gesamtesPDF gelesen."
+        },
+        {
+          "key": "lovehk",
+          "url": "https://lovehkfilm.com/reviews/snake_and_crane_arts.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik CalvinMcMillin2003 im Suchindex gelesen: gezielt vorgezeigtes falsches Buch, Täter mit Narbe, BlackDragonClan, Regie/Produktion. Für S1."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/snake-and-crane-arts-of-shaolin/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik AndrewSaroch samt Credits im Suchindex gelesen: Schulternarbe, souveräner Held, JackieChan/ToWaiWoAction,ChenChiHwaHauptregie. Für M1 und Actioncredits inD."
+        },
+        {
+          "key": "hcf",
+          "url": "https://horrorcultfilms.co.uk/2019/03/snake-crane-arts-of-shaolin-1978/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Bericht DrLenera im Suchindex gelesen; direkt403. Verdächtigung wegen verschwundener Meister, souveräner Held, Vorspann Säbel/Tonfa gegen Speere. Spekulationen zu realen Waffen/Drahtsprüngen nicht übernommen."
+        },
+        {
+          "key": "films88",
+          "url": "https://88-films.myshopify.com/products/snake-crane-arts-of-shaolin",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Lizenztext im Suchindex gelesen:1978,ChenChiHwa,frühereShaolinWoodenMen1976,Originalnegativrestaurierung. Extras nicht als angesehen behauptet."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/51707/die-unbesiegbaren-der-shaolin",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige sichtbare Kurzsynopsis/Werkangaben im Suchindex gelesen: deutscherTitel bestätigt;1977/LoWei widersprechen führenden Lizenz-/Archivcredits, nicht übernommen."
+        },
+        {
+          "key": "korean",
+          "url": "https://www.filmmakers.co.kr/movies/en/19780006",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Datensatz im Suchindex gelesen: verwandter koreanischerTitel사학비권,7.Februar1978,LoWei/KimChinTai. Nicht als Hauptcredit der Hongkonger Fassung verwendet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-041-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-041-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-041-D"
+    },
+    {
+      "id": "MARTIALARTS-042",
+      "film_title_de": "Little Big Soldier",
+      "film_title_original": "Da bing xiao jiang",
+      "film_year": 2010,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Jackie-Chan-Titel mit bekannterem Star, aber weniger verbreiteter historischer Figurenhandlung; Bekanntheit nicht aus der Schwierigkeit abgeleitet.",
+      "directors": [
+        "Ding Sheng"
+      ],
+      "production_countries": [
+        "Hongkong",
+        "China"
+      ],
+      "release_note": "Erstjahr2010 nach Berlinale,NYAFF,FilmLincolnCenter und Metropolitan. China-Start14.Februar2010, frühere öffentliche Premierenveranstaltung im Februar; Berliner Gala2010 ist kein Erstjahr2009. Hongkong-Start25.Februar2010 später als China.2009 in einzelnen Kritiken/Listen ist kein belegtes früheres öffentliches Erstjahr. Original大兵小將/大兵小将.",
+      "director_note": "Ding Sheng alleinige Hauptregie; offizielles Berlinale-Programm unterscheidet JackieChans Action-Regie sowie Stoffidee von Dings Drehbuch/Regie/Schnitt. Nicht Chan aus hervorgehobener Autorschaft als Hauptregisseur übernommen.",
+      "country_note": "Hongkong und China ausdrücklich im Berlinale-Produktionskopf und getrennten Produktionsfirmen; NYAFF/FilmLincolnCenter kürzen auf Hongkong.",
+      "series": null,
+      "series_note": "Eigenständige namenlose Figurenhandlung ohne belegte nummerierte Filmfortsetzung. Andere Ding-Sheng/Jackie-Chan-Filme sind gemeinsame Arbeiten, keine Fortsetzung. Register ohne positive Zuordnung.",
+      "series_sources": [
+        "https://www.berlinale.de/external/programme/archive/pdf/20106731.pdf",
+        "https://www.filmlinc.org/films/little-big-soldier/"
+      ],
+      "sources": [
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20106731.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Beide vollständigen Programmseiten gelesen:2010,Hongkong/China,getrennte Haupt-/Actioncredits,Besetzung,EndeLiangbereitsQinbesetzt,DingBiografie/Filmografie. FürS1/D."
+        },
+        {
+          "key": "nyaff",
+          "url": "https://www.nyaff.org/nyaff10/films/little-big-soldier",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten offiziellen Programmtext im Suchindex gelesen:2010,DingSheng,LeehomWangalsGeneral,Soldat täuschtTodvor,Belohnung/Heimreise. FürL1/M1."
+        },
+        {
+          "key": "filmlinc",
+          "url": "https://www.filmlinc.org/films/little-big-soldier/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Programmtext und Werkdaten gelesen:2010,DingSheng,Bauerwirdrekrutiert,fängtGeneral,Belohnung/Freiheit,langeStoffentwicklung. FürL2."
+        },
+        {
+          "key": "kingdom",
+          "url": "https://kungfukingdom.com/little-big-soldier-2010-movie-review/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik GlenStanway2016 im Suchindex gelesen einschließlichCast/Plot/ActionbisOuttakes. PrinzWen/SteveYoo willalleinigerThronerbe sein,ScheunenkampfalsTraum. FürM2/S2."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/little-big-soldier/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik PhilGillon im Suchindex gelesen: falscherPfeil/Blutbeutel,Gefangenenreise,Bruderintrige. Listenjahr2009 nichtübernommen;StützeM1."
+        },
+        {
+          "key": "metropolitan",
+          "url": "https://metrofilms.com/film/little-big-soldier/",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten Lizenz-/Werktext im Suchindex gelesen:2010,DingSheng,Besetzung; keine Sichtung der Bilder/Medien behauptet. FürY/Metadaten."
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/thekaratekid",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Filmtext gelesen:TheKarateKid2010,JackieChan/MrHan,JadenSmith/Dre. Nur datierter RollenvergleichY."
+        },
+        {
+          "key": "screen",
+          "url": "https://www.screendaily.com/reviews/little-big-soldier-da-bing-xiao-jiang/5010974.article",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Anfang DanFainaru17.Februar2010 im Suchindex gelesen,nichtganzeSeite:HongkongChina2010,DingSheng,IdeeChan,ChansActionRegie,StartzumNeujahr. NurEckdaten."
+        },
+        {
+          "key": "release",
+          "url": "https://en.wikipedia.org/wiki/Little_Big_Soldier",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Werk-/Veröffentlichungsblock im Suchindex gelesen:14.Februar2010China/25.FebruarHongkong. NurDatumseinordnung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-042-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-042-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-042-D"
+    },
+    {
+      "id": "MARTIALARTS-043",
+      "film_title_de": "Stadt der Gewalt",
+      "film_title_original": "San suk si gin",
+      "film_year": 2009,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannterer ernster Jackie-Chan-Film; die Einwanderer- und Gangsterhandlung ist weniger verbreitet als seine großen Actionkomödien.",
+      "directors": [
+        "Derek Yee"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "Erstjahr2009. Screen meldet Weltpremiere22.März2009 als HKIFF-Eröffnungsfilm, OriginalproduzentEMP bestätigt den offiziellen Eröffnungsstatus2009. KinostartsAnfangApril später; Planungsdatum2008 nicht als Veröffentlichung übernommen. Original新宿事件; San suk si gin kantonesische, Xin su shi jian/Xinsu shijian mandarinische Umschrift desselben Werks.",
+      "director_note": "Alleinige Hauptregie Derek Yee, auch Yee Tung-Shing. Chin Ka-lok ist gesonderte Actionregie. Jackie Chan ist Hauptdarsteller/Produzent, keine Hauptkoregie aus seiner Beteiligung abgeleitet.",
+      "country_note": "Hongkong nach konkretem Kinenote-Werkdatensatz, FantasyFilmfest2009 und HerstellungsbezugEMP. Japan ist Dreh-/Handlungsort. JapanFoundation führt in einer Bildunterschrift zusätzlich Japan; dieser weite Vermerk ohne konkrete Produktionscredits wird gegenüber führenden Werkangaben als Abweichung dokumentiert, nicht unbesehen als zusätzliche Herstellungsnation übernommen.",
+      "series": null,
+      "series_note": "Eigenständige Handlung ohne belegte nummerierte Filmfortsetzung. Keine positive Registerzuordnung; Steelhead ist keine wiederkehrende Police-Story-Figur.",
+      "series_sources": [
+        "https://www.emp.hk/en/production/library/shinjuku-incident",
+        "https://fantasyfilmfest.com/wp-content/uploads/2023/01/fantasy-filmfest-2009.pdf"
+      ],
+      "sources": [
+        {
+          "key": "emp",
+          "url": "https://www.emp.hk/en/production/library/shinjuku-incident",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Originalproduzenten-Werktext im Suchindex gelesen: Steelhead suchtXiuXiu,Jie,Eguchi,legalerStatus,Lily,Kitano-Warnung/Rückkehr,Credits undHKIFF2009Opening. FürL1/M2."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/shinjuku-incident/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik PhilGillon im Suchindex gelesen: Farmer/Immigrant sucht verschwundeneGeliebte,Gelegenheitsjobs,Jie,XiuXiuundYakuza. FürL2; keineFilmsichtungvorgegeben."
+        },
+        {
+          "key": "fff",
+          "url": "https://fantasyfilmfest.com/wp-content/uploads/2023/01/fantasy-filmfest-2009.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen deutschen eigenen SHINJUKU-Programmeintrag im Suchindex gelesen samtStab,Land2009,KSM und verheirateterGeliebter. Fremdes anschließendesHollywoodReporter-Zitat nicht als eigener zusätzlicher Bericht behandelt; nicht gesamtesPDF gelesen."
+        },
+        {
+          "key": "wu",
+          "url": "https://www.moviexclusive.com/article/shinjukuincident/shinjukuincident_danielwu.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigenes Interview GabrielChong/DanielWu30.März2009 gelesen: Außenseitererfahrung, Gothiclook,Shibuya,Figurendeprimiert,ZusammenarbeitDerekYee. FürS1."
+        },
+        {
+          "key": "kato",
+          "url": "https://asiawa.jpf.go.jp/assets/uploads/sites/3/2020/12/CrosscutAsia2020.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenständigen englischen Abschnitt WorkingwithDerekYee sowie angrenzendeInterviewabschnitte im Suchindex gelesen: MasayaKatos zunächstleisesSpiel,gewünschteübertriebeneReaktionaufVerrat. KeinevollständigePDF-Sichtungbehauptet. AbweichendeBildunterschriftHongkong/Japan dokumentiert."
+        },
+        {
+          "key": "chan",
+          "url": "https://www.moviexclusive.com/article/shinjukuincident/shinjukuincident_jackiechan.html",
+          "accessed_on": "2026-11-03",
+          "supports": "EigeneInterviewpassagen GabrielChong/JackieChan30.März2009 im Suchindex gelesen: ernstereRolle,DerekYeesVertrauen,AnnahmeohneGehalts-/Drehverfahrenfragen,Japancrew. NurdiesePassagen,nichtalleVideosgesehen."
+        },
+        {
+          "key": "screen",
+          "url": "https://www.screendaily.com/hkiff-to-open-with-shinjuku-incident-night-and-fog/4043433.article",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene zeitgenössische Meldung LizShackleton26.Februar2009 im Suchindex gelesen: angekündigteWeltpremiere22.März,gemeinsammitAnnHuisNightAndFog,AprilKinostarts. DurchEMPOpening2009 bestätigt."
+        },
+        {
+          "key": "kinenote",
+          "url": "https://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=39964",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Werk-/Stabblock im Suchindex gelesen:Hongkong2009,DerekYeeallein,ChinKaLokAction,Japanstart1.Mai2009. NichtdenlangenPlotalsganzgelesenbeansprucht."
+        },
+        {
+          "key": "ksm",
+          "url": "https://www.filminfos.de/action/stadt-der-gewalt--new323768/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten KSM-DVD-Datensatz samtHerstellerbeschreibung im Suchindex gelesen:DETitel,SanSukSiGin,DerekYee,2009. WeiterLänderangabeHongkong/China nichtgegenführendenProduktionsdatensatzübernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-043-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-043-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-043-D"
+    },
+    {
+      "id": "MARTIALARTS-044",
+      "film_title_de": "Winners & Sinners",
+      "film_title_original": "Qi mou miao ji: Wu fu xing",
+      "film_year": 1983,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter Grundstein des Lucky-Stars-Ensembles; häufig über Jackie Chan vermarktet, obwohl die fünf Komiker den größeren Teil der Handlung tragen.",
+      "directors": [
+        "Sammo Hung"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "Erstjahr1983 nach zeitgenössischer WerkzuordnungSCFF, Splendid und Eureka.2025VOD-/Restaurierungsdaten sind spätere Auswertungen. Original奇謀妙計五福星; Winners and Sinners/Winners&Sinners/FiveLuckyStars Titelvarianten. Deutscher Lizenzgeber verwendet Winners & Sinners.",
+      "director_note": "Sammo Hung alleinige Hauptregie und Coautor. Yuen Biao,LamChingYing,BillyChan sind gesonderte Actiongestaltung; JackieChan als Darsteller nicht zum Hauptregisseur gemacht.",
+      "country_note": "Hongkong nachSCFF,Splendid,Eureka. Spanische weite China-Angabe nicht als zusätzlicheNation übernommen.",
+      "series": {
+        "name": "Lucky Stars",
+        "position": 1,
+        "note": "Erster Film der Lucky-Stars-Folge nach offiziellen SCFF/Eureka-Angaben; My Lucky Stars und TwinkleTwinkle folgen1985. Figuren/Rollenbezeichnungen wechseln teilweise."
+      },
+      "series_note": "Keine Gleichsetzung mit der deutschen Powerman-Nummerierung: Wheels on Meals ist keine erste Folge dieser Reihe. Bestehendes Register ohne widersprechende positive Zuordnung geprüft.",
+      "series_sources": [
+        "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+        "https://www.scff.sg/project/%E5%A5%87%E8%B0%8B%E5%A6%99%E8%AE%A1%E4%BA%94%E7%A6%8F%E6%98%9F-winners-and-sinners/"
+      ],
+      "sources": [
+        {
+          "key": "splendid",
+          "url": "https://www.splendid-ag.com/winners-sinners?view=home-entertainment",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Lizenz-/Credittext im Suchindex gelesen:Winners&Sinners,HKG1983,Originaltitel,SammoHung,CoautorBarryWong,ProduzentRaymondChow. FürJahr/Identität."
+        },
+        {
+          "key": "scff",
+          "url": "https://www.scff.sg/project/%E5%A5%87%E8%B0%8B%E5%A6%99%E8%AE%A1%E4%BA%94%E7%A6%8F%E6%98%9F-winners-and-sinners/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Filmfestivaltext einschließlich chinesischem/englischem Absatz gelesen:SammoalsTeapot,Reinigungsfirma,DruckplattenimLieferwagen,zweiGangstergruppen,ersterLuckyStars. FürL1/M1."
+        },
+        {
+          "key": "now",
+          "url": "https://nowplayer.now.com/ondemand/detail?id=202411141975089&type=product",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkrete lizenzierte Synopsis/Datensektion im Suchindex gelesen:Gefängnisfreundschaft,Reinigungsfirma,Teapot/Curly/ExhaustPipe,SammoHauptregie. FürL2."
+        },
+        {
+          "key": "wiki",
+          "url": "https://en.wikipedia.org/wiki/Winners_%26_Sinners",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Plotanfang im Suchindex gelesen:Teapot/Sammo,Curly/JohnSham und dessenSchwesterShirley/CherieChung. NurRollen-/VerwandtschaftsabgleichM2,keineZusatzszenenbehauptet."
+        },
+        {
+          "key": "lovehk",
+          "url": "https://www.lovehkfilm.com/reviews/winners_and_sinners.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigeneKozoKritik1998 samtCredits im Suchindex gelesen:RichardNg-Nacktheits-/Unsichtbarkeitsgag,Ensemble,ChanNebenrolle. FalscheAwardsnummer/weitererFolgefilm1986 nichtübernommen. FürS1."
+        },
+        {
+          "key": "bordwell",
+          "url": "https://davidbordwell.net/books/planethongkong-davidbordwell-110111.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Jackie-Chan-Stuntabsatz im Suchindex gelesen:RollschuhfahrtunterLastwageninWinnersAndSinners1983. NichtdasganzeBuchgelesen. Ergänzende eigene Sichtungsbeschreibung BenHsu bestätigt Verfolgung/Pileup."
+        },
+        {
+          "key": "car",
+          "url": "https://japanesenostalgiccar.com/friday-video-winners-and-sinners-and-a-massive-j-tin-pileup/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Artikel BenHsu18.Dezember2009 gelesen:ChanaufRollschuhen,TriumphSpitfire,VerfolgungmitMassenkarambolage. KeineeigeneVideosichtungbehauptet."
+        },
+        {
+          "key": "blueprint",
+          "url": "https://blueprintreview.co.uk/2021/03/the-lucky-stars-3-film-collection-eureka/",
+          "accessed_on": "2026-11-03",
+          "supports": "VollständigeEinleitung unddreiFilmabschnitte bisZeile205gelesen:SammoKindheits-/Opernschulvorbild,kollektiveFreundschaft,Curly/Shirley,Sportverfolgung,Reihenfolge. FürD; DVD-Interviewsnichtselbstangesehen. WeitereNutzungin045-S2aufkurzeBesetzungsänderungbegrenzt."
+        },
+        {
+          "key": "eureka",
+          "url": "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Lizenztext/Filmliste gelesen:originalLuckyStarstrilogy,Winners1983,My1985,Twinkle1985,SammoRegie. FürReihenposition/Jahresvergleich;Extrasnichtangesehen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-044-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-044-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-044-D"
+    },
+    {
+      "id": "MARTIALARTS-045",
+      "film_title_de": "Tokyo Powerman",
+      "film_title_original": "Fuk sing go jiu",
+      "film_year": 1985,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Klassischer Jackie-Chan-/Sammo-Hung-Ensembletitel, dessen deutsche Vermarktung die eigentliche Lucky-Stars-Zugehörigkeit häufig verdeckt.",
+      "directors": [
+        "Sammo Hung"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "Erst10.Februar1985 nach HKFA-Zeile7080, bestätigtCriterion/Splendid.1986 beiFSK/Filmdienst ist kein belegtes Erstjahr gegenüber Archiv/Lizenzgeber. Original福星高照, Fuk sing go jiu; MandarinFu xing gao zhao, englischMyLuckyStars. DeutscheTitelTokyo/TokioPowerman dieselbeFassung.",
+      "director_note": "Sammo Hung alleinige Hauptregie nach vollständigenCriterionCredits,HKFA,Splendid; gesondertes mehrköpfiges Martial-Arts-Team ausdrücklich nicht zum Hauptregieteam gemacht.",
+      "country_note": "Hongkong nachCriterion,HKFA,Splendid. Japan ist Handlungs-/Drehort, keine zusätzliche Herstellungsnation abgeleitet.",
+      "series": {
+        "name": "Lucky Stars",
+        "position": 2,
+        "note": "ZweiterFilm der Ensemblefolge nachWinners&Sinners1983; neueFigurennamen und teilweise andereBesetzung. NichtmitWheelsOnMeals/Powerman1984gleichgesetzt."
+      },
+      "series_note": "Die positive Position folgt offizieller Eureka-Lizenztrilogie und eigener ausführlicher Filmkritik. DeutschePowerman-Reihenvermarktung erklärt keine Fortsetzung vonWheelsOnMeals.",
+      "series_sources": [
+        "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+        "https://lovehkfilm.com/reviews/my_lucky_stars.htm"
+      ],
+      "sources": [
+        {
+          "key": "splendid",
+          "url": "https://amasia-film.de/tokyo-powerman",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Lizenz-Filmabschnitt/Credits gelesen:TokyoPowerman,FukSingGoJiu,HKG1985,SammoHung,Rickyentführt. SpätereVOD2017/Discs2025nichtErstjahr."
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete vollständige Zeilen7080/7121 samtSpaltenüberschriften im Suchindex gelesen:MyLuckyStars10.Februar1985,Twinkle15.August1985,Hongkong,SammoHauptregie. NichtgesamtesPDFgelesen."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/29548-my-lucky-stars",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Filmtext und gesamtenCast/Creditblock gelesen:1985,Hongkong,Sammoallein,InspectorWoo/SibelleHu,geklauteJuwelen/korrupterCop,Freizeitparkauftakt/Gruselkabinettfinale. FürM1/D."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/my-lucky-stars/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik PhilMills im Suchindex gelesen:MusclesbekanntesGesicht,erbeteneWaisenhausfreunde,Gangbesetzung,Erpressung,Rickygefangen. FürL2/M2."
+        },
+        {
+          "key": "lovehk",
+          "url": "https://lovehkfilm.com/reviews/my_lucky_stars.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene KritikKozo1998 plusCredits gelesen:MissWoo/SibelleHu,Muscles/Ricky,Kidstuff,Roundhead. AbweichendesTwinkleJahr1986nichtübernommen. FürL1."
+        },
+        {
+          "key": "bodybuilder",
+          "url": "https://www.criterionchannel.com/supplements/o5GDB8K5/michiko-nishiwaki-on-my-lucky-stars",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen schriftlichen Beschreibungstext im Suchindex gelesen:formerpowerlifter/bodybuilder,gegnerischeKämpferinimFinale. Video nicht angesehen; Direktseitegeoblockiert. NurgenanntebiografischeGrunddatenfürS1."
+        },
+        {
+          "key": "kiaikick",
+          "url": "https://kiaikick.com/2013/06/21/review-my-lucky-stars-1985/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene KritikMichaelSMoore gelesen:Waisenhaus,Mission,BarbarasBetreuung,Kämpfe,BodybuildingchampionNishiwakigegenSibelleHu. FürS1Kontext,keineVideosichtungbehauptet."
+        },
+        {
+          "key": "blueprint",
+          "url": "https://blueprintreview.co.uk/2021/03/the-lucky-stars-3-film-collection-eureka/",
+          "accessed_on": "2026-11-03",
+          "supports": "EigeneEinleitung undalle3Filmabschnitte vollständiggelesen. FürS2 ausschließlichUmstellungJohnSham/Curly→EricTsang/Roundhead mitneuenFigurennamen;D044nutztseparatenkurzenAbschnitt,abgeleiteteMengebegrenzt."
+        },
+        {
+          "key": "eureka",
+          "url": "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Lizenz-/Filmlistentext gelesen:originalTrilogie,erster1983,zweiter/dritter1985,SammoRegie. NurReihen-/Eckdaten."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=63514addc27c240015e6cf35&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkretenFreigabedatensatz im Suchindex gelesen:DETitel/MyLuckyStars, abweichendHK1986. NurTitelbestätigung/Widerspruch,keinErstjahrsbeleg."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-045-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-045-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-045-D"
+    },
+    {
+      "id": "MARTIALARTS-046",
+      "film_title_de": "Powerman 2",
+      "film_title_original": "Xia ri fu xing",
+      "film_year": 1985,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Durch die deutsche Powerman-Vermarktung verbreiteter Sammo-Hung-/Jackie-Chan-Ensemblefilm; die eigentliche Lucky-Stars-Folge ist weniger selbstverständlich bekannt.",
+      "directors": [
+        "Sammo Hung"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "Erst15.August1985 nachHKFA-Zeile7121,übereinstimmendSplendid/Eureka/BBFC1985.1986beiFilmdienst/LoveHK oderdeutscheVideojahre nichtErstjahr. Original夏日福星, MandarinXia ri fu xing, kantonesischHa jat fuk sing; TwinkleTwinkleLuckyStars/TheTarget/SevenLuckyStars dieselbeFassung. NichtgleichnamigeKomödie1996.",
+      "director_note": "Sammo Hung alleinigeHauptregie/Produzent; Actionteam mitChinKaLok,LamChingYing,YuenBiao,YuenWahgesondert. AusTeamcreditskeineweiterenHauptregisseureabgeleitet.",
+      "country_note": "Hongkong nachOriginalherkunftHKFA,Splendid,Eureka. Thailand istUrlaubs-/Drehort,keinezweitHerstellungsnationausdemSchauplatzabgeleitet.",
+      "series": {
+        "name": "Lucky Stars",
+        "position": 3,
+        "note": "DritteFolge nachWinners&Sinners1983undMyLuckyStars/TokyoPowerman1985. DeutscheZiffer2istVermarktung,nichtdiekanonischeLuckyStarsPosition."
+      },
+      "series_note": "PositiveFolgenzuordnungausOriginaltrilogieEureka+fortgeführtemEnsemble. WheelsOnMeals/Powerman1984undHeartofDragon/Powerman3werdennichtalsweitereLuckyStarsTeilehinzugerechnet.",
+      "series_sources": [
+        "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+        "https://golden-vision.eu/artist/hongkong-powerman/"
+      ],
+      "sources": [
+        {
+          "key": "splendid",
+          "url": "https://www.splendid-ag.com/twinkle-twinkle-lucky-stars?view=home-entertainment",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Lizenz-/Credittext im Suchindex gelesen:Powerman2,HK1985,SammoHung,BarryWong,englischerTitel;Extrasnichtgesehen."
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete vollständige Zeile7121 samtSpaltenüberschriften im Suchindex gelesen:夏日福星/TwinkleTwinkleLittleStar,15.August1985,SammoHauptregie/Produktion,Actionteam. NichtganzesPDFgelesen."
+        },
+        {
+          "key": "eureka",
+          "url": "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Lizenztext/Filmliste gelesen:originalTrilogie,1983/1985/1985,Hongkong,SammoRegie;Taiwan-LangfassungistFassungsvariante,keinneuesWerk."
+        },
+        {
+          "key": "lovehk",
+          "url": "https://www.lovehkfilm.com/reviews/twinkle_twinkle_lucky_stars.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene KritikKozo1998 samtCreditblock im Suchindex gelesen:RosamundKwanalsSchutzperson,Gruppenspiel,Polizeifraktion,Kämpfe. FalschesJahr1986nichtübernommen. FürL1."
+        },
+        {
+          "key": "blueprint",
+          "url": "https://blueprintreview.co.uk/2021/03/the-lucky-stars-3-film-collection-eureka/",
+          "accessed_on": "2026-11-03",
+          "supports": "VollständigeEinleitungundalle3Filmabschnittebis205gelesen. FürdiesesPaketnurRollen-/NamenszuordnungWangYiChing/RosamundKwan,nichtalsweiteregroßeHandlungsquellezusätzlichzu044D/045S2."
+        },
+        {
+          "key": "city",
+          "url": "https://www.cityonfire.com/hkfilms/st/twinkle.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Werk-/Plotanfang im Suchindex gelesen:ErholunginThailandnachvorigemFall,SammoRegie,Originaltitel,1985. NichtallefolgendenLeserkritikenalsganzgelesenbeansprucht. FürL2."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/twinkle-twinkle-lucky-stars/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene KritikPhilMills/Filmcredits im Suchindex gelesen:Urlaub,AttentätergegenDrogenboss,Polizeitrio,Zeugenschutz,Actionteam. FürL2undAbgleichM2."
+        },
+        {
+          "key": "laybourne",
+          "url": "https://laybournesmovieexperience.wordpress.com/2025/02/15/twinkle-twinkle-lucky-stars-1985-review-jackie-chan-review-series/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Filmbericht im Suchindex gelesen:zuSchützendeistSchauspielerinmitSyndikatswissen,Ricky/SwordflowerinWohnungverdeckt,Finale. FürM1;Extrasnichtalsvonmirangesehenbehauptet."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/4297/powerman-2",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen sichtbaren eigenenFilmkurztext/Werkdaten im Suchindex gelesen:PolizistsollUnterweltbossgegenKillerschützen,lebendwichtigeralsTot. FürM2. Abweichendes1986nichtübernommen."
+        },
+        {
+          "key": "norton",
+          "url": "https://www.bulletproofaction.com/2026/01/09/richard-norton-hong-kong-manila-gymkata/",
+          "accessed_on": "2026-11-03",
+          "supports": "EigenesMikeLeeder-Interview mitRichardNorton bisEndedesHongkongAbschnittsZeile87vollständiggelesen:WheelsEinladungnichtterminlichmöglich,Twinkle,vorOrtKombinationenentwickelt,KampfmitsSammo,Körperkontakt/Fehlgriff. FürS1/D,keineGymkataPassagenalsganzgelesenbehauptet."
+        },
+        {
+          "key": "guide",
+          "url": "https://kungfumovieguide.com/interview-richard-norton/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigenes InterviewBenJohnson2011,publiziert2012gelesen:KurataRatschlagamTwinkleSet,AnpassunganwiederholteTakes,SammoFolgeengagement. FürS2."
+        },
+        {
+          "key": "policestory",
+          "url": "https://www.criterion.com/films/29544-police-story",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Filmtext/Werkabschnitt im Suchindex gelesen:PoliceStory1985,ChanKaKui/Hongkongpolizei,Actioninszenierung. NurdatierterVergleichY."
+        },
+        {
+          "key": "golden",
+          "url": "https://golden-vision.eu/artist/hongkong-powerman/",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Verleiherabschnitt im Suchindex gelesen:LuckyStarsVorgängerWinners1983/Tokyo1985/Powerman2(1985). NurTitel-/Reihenzuordnung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-046-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-046-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-046-D"
+    },
+    {
+      "id": "MARTIALARTS-047",
+      "film_title_de": "Powerman 3",
+      "film_title_original": "Lung dik sam",
+      "film_year": 1985,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Über den deutschen Powerman-Titel zugänglicher Sammo-Hung-/Jackie-Chan-Film, dessen Familiendrama weniger bekannt ist als die großen Actionkomödien.",
+      "directors": [
+        "Sammo Hung"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "1985 nach HKFA, Splendid, 88 Films und zeitgenössischer Werkzuordnung. HKFA nennt Hongkong 16. Oktober 1985; die japanische Fassung und ihre zusätzlichen Kämpfe sind keine eigene Filmidentität. Original 龍的心, Lung dik sam; Mandarin Long de xin. Heart of Dragon/Heart of the Dragon/The First Mission/Powerman III sind Aliasnamen.",
+      "director_note": "Sammo Hung alleinige Hauptregie nach HKFA und Lizenzgeber; Yuen Biao, Corey Yuen, Yuen Wah und weitere Beteiligte sind gesonderte Actiongestaltung. Fruit Chan wird in einzelnen Datenbanken als second director geführt, kein gleichrangiger Hauptregiecredit daraus abgeleitet.",
+      "country_note": "Hongkong nach HKFA, 88 Films und Splendid; japanische Fassung/Auswertung begründet keine zweite Herstellungsnation.",
+      "series": null,
+      "series_note": "Eigenständige Figuren Ted/Tat und Danny/Dodo. Die deutsche Ziffer 3 setzt eine Vermarktung fort, nicht die Lucky-Stars-Handlung. Das bestehende Wheels-on-Meals-Register ist ebenfalls ohne Reihe; die offizielle Lucky-Stars-Trilogie enthält diesen Film nicht.",
+      "series_sources": [
+        "https://88-films.myshopify.com/products/heart-of-dragon",
+        "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/"
+      ],
+      "sources": [
+        {
+          "key": "splendid",
+          "url": "https://www.splendid-ag.com/powerman-3?view=home-entertainment",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Lizenztext samt Werkcredits im Suchindex gelesen: deutscher Titel, Hongkong 1985, Sammo Hung Hauptregie, Jackie Chan als Ted, Bruder als Anlass der eigenen Ermittlungen. Spätere VOD-/Disc-Daten nicht Erstjahr."
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete vollständige Zeile7137 und Spaltenkopf gelesen: 龍的心/Heart Of The Dragon, Hongkong-Start16.10.1985, 洪金寶 Hauptregie. Nicht das gesamte 577-seitige Verzeichnis gelesen."
+        },
+        {
+          "key": "films88",
+          "url": "https://88-films.myshopify.com/products/heart-of-dragon",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Lizenztext und Fassungs-/Tonangaben gelesen: Danny/Sammo, behinderter Bruder, Rettungsgeisel, Hongkong- und Japanfassung; letztere mit japanischer Musik und zusätzlichem Material. Keine Extras angesehen."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/heart-of-dragon/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik Tony Ryan samt Werk-/Actioncredits im Suchindex gelesen: Seefahrtswunsch, Fürsorge für Bruder, gestohlene Juwelen/Entführung, schwerpunktmäßig Familiendrama. FürL2/M1."
+        },
+        {
+          "key": "inside",
+          "url": "https://insidepulse.com/2023/04/10/blu-ray-review-heart-of-dragon/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Film- und Disc-Kritik Joe Corey, Zeilen36–60, gelesen: Kinder benutzen Dodo als Vormund, getrennte Fassungen, eigener Sichtungsbericht zu Sammo-Interviews (Drehstopp/Neufassung/Übernahme der Rolle). Nicht behauptet, die Interviews selbst gesehen zu haben. FürM2/D."
+        },
+        {
+          "key": "fthis",
+          "url": "https://www.fthismovie.com/2023/04/blu-ray-review-heart-of-dragon.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik Anthony King im Suchindex gelesen: Befehlsverstoß, Rettung am Hochhaus, Gefängniscoda und spätere Wiedervereinigung; Japanfassung zwei zusätzliche Kampfszenen. FürS1."
+        },
+        {
+          "key": "lovehk",
+          "url": "https://www.lovehkfilm.com/reviews/heart_of_dragon.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Beide vollständigen eigenen Kritiken Kozo1997/Magicvoice2002 samt Cast-/Actioncredits gelesen: Bruderbeziehung, Namensvarianten Danny/Tat, Seefahrtswunsch; Hauptregie Sammo, Actionteam getrennt. FürL1 und Creditabgleich."
+        },
+        {
+          "key": "eureka",
+          "url": "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+          "accessed_on": "2026-11-03",
+          "supports": "Bereits vollständig gelesener offizieller Lizenztext: Lucky-Stars-Originaltrilogie Winners & Sinners/My Lucky Stars/Twinkle Twinkle Lucky Stars; Heart of Dragon gehört nicht dazu. Nur Reihenabgrenzung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-047-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-047-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-047-D"
+    },
+    {
+      "id": "MARTIALARTS-048",
+      "film_title_de": "Der Protektor",
+      "film_title_original": "The Protector",
+      "film_year": 1985,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein weniger kanonischer Jackie-Chan-Film zwischen Hongkonger Kampfkunst und amerikanischem Polizeithriller; Danny Aiello und die Fassungsdebatte bieten zusätzliche Zugänge.",
+      "directors": [
+        "James Glickenhaus",
+        "Jackie Chan"
+      ],
+      "production_countries": [
+        "Hongkong",
+        "USA"
+      ],
+      "release_note": "Erstjahr 1985. Kinenote dokumentiert Japan 15.06.1985, HKFA Hongkong 11.07.1985, AFI USA 23.08.1985. Deutscher Kinostart 1986 ist spätere Auswertung. Original The Protector/威龍猛探, Wai lung maang taam/Wei long meng tan. Nicht The Protector/Tom-Yum-Goong von 2005 und nicht Ninja the Protector.",
+      "director_note": "Vollständiges Team über die Fassungen: James Glickenhaus führte die amerikanische Originalregie; Jackie Chan drehte neue Szenen und Kämpfe für die eigenständige Hongkong-/Asienbearbeitung desselben Films. AFI/HKFA/Kinenote nennen den führenden Originalcredit Glickenhaus, 88 Films benennt ausdrücklich Chans alternative Hongkongfassung. Tatsächliche neue Regiearbeit durch gelesene eigene Interviews mit Glickenhaus und Kameramann Mark Irwin belegt. Keine zweite Filmidentität und keine vermeintlich vollständig gemeinsame Dreharbeit behauptet.",
+      "country_note": "Hongkong und USA ausdrücklich im Studio-/Rechteangebot von Golden Harvest bei Apple sowie Kinenote und Far East Films. Keine zusätzliche Nation aus späteren Fassungen oder Absatzmärkten abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständige Billy-Wong/Danny-Garoni-Handlung ohne belegte nummerierte Fortsetzung. Die Asienbearbeitung ist eine Fassung desselben Films. Police Story ist eine spätere andere Arbeit mit anderer Hauptfigur; keine positive Reihenidentität im Register.",
+      "series_sources": [
+        "https://88-films.myshopify.com/products/the-protector",
+        "https://tv.apple.com/hk/movie/the-protector/umc.cmc.6vl7cxfb8fes7w9kbq90kux9s?l=en"
+      ],
+      "sources": [
+        {
+          "key": "films88",
+          "url": "https://88-films.myshopify.com/products/the-protector",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Lizenztext und Fassungsangaben Zeilen649–675 gelesen: Billy/Jackie, Danny/Danny Aiello, Ko/Roy Chiao, Entführung/Hongkong/Drogenreich; USA-Original und Chans alternative Hongkongfassung. Extras nicht angesehen."
+        },
+        {
+          "key": "apple",
+          "url": "https://tv.apple.com/hk/movie/the-protector/umc.cmc.6vl7cxfb8fes7w9kbq90kux9s?l=en",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Golden-Harvest-Werktext samt Cast/Regie/Herkunft gelesen: zwei NYPD-Polizisten, James Glickenhaus, Hongkong/USA,1985; fürL2 und Metadaten."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/the-protector/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik Andrew Saroch samt Werk-/Actioncredits im Suchindex gelesen: Entführung Tochter, Hongkong, Ko, abgelehnte Bestechung/Feindseligkeit; fürM1/M2. Allgemeine Behauptung über alleiniges Choreografieren gegenüber fassungsspezifischem Interview nicht verabsolutiert."
+        },
+        {
+          "key": "oral",
+          "url": "https://filmstories.co.uk/news/jackie-chan-and-the-protector-an-oral-history-of-creative-clashes-injured-performers-and-a-helicopter-caught-in-an-explosion/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Interview-/Filmtext bis Abschluss gelesen, zusätzlich gesamter Indextext erhalten. Ryan Lambies eigenes Interview mit Kameramann Mark Irwin vom25.09.2026: Cheung Wing-fat als Hubschrauberdouble, Bootsexplosion, Arbeitsweisen, neue Asienfassung. Nicht Irwins irrtümliche über20Minuten-Behauptung oder Nebenfehler Cannonball-II-Jahr übernommen. FürS1/S2."
+        },
+        {
+          "key": "flashback",
+          "url": "https://www.flashbackfiles.com/james-glickenhaus-interview",
+          "accessed_on": "2026-11-03",
+          "supports": "Eigenes Interview Roel Haanens mit Glickenhaus Ende2012: vollständiger Protector-Fragenblock im Suchindex gelesen, zusätzlich übriger Interviewtext. Regisseur verlangte creative control/final cut; berichtet später von zugelassener Chan-Bearbeitung. Als persönliche Darstellung kenntlich, keine Spekulation über Chans Motive."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/57449-THE-PROTECTOR",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen History-Abschnitt, führende Werkcredits und Castblock gelesen: allein James Glickenhaus, Billy/Danny, Drehbeginn26.10.1984, USA23.08.1985, frühere Asienauswertung. Keine nicht vorhandene ausführliche AFI-Inhaltsangabe behauptet."
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete Zeile7113 samt Spaltenkopf gelesen:威龍猛探/The Protector,11.07.1985,Hauptregie James Glickenhaus. Nicht das ganze Verzeichnis gelesen."
+        },
+        {
+          "key": "kinenote",
+          "url": "https://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=11099",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werk-/Stabblock im Suchindex gelesen: Hongkong/USA,1985, Japan15.06.1985, James Glickenhaus; damit Hongkong-/USA-Start nicht globaler Ersttag."
+        },
+        {
+          "key": "sky",
+          "url": "https://www.fernsehserien.de/filme/der-protector",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Datensatz samt ausdrücklich Sky zugeschriebenem Sendertext im Suchindex gelesen: deutscher Titel Der Protektor, Alias Der Protector, Billy/Danny, Erstjahr1985/deutscherStart1986; nur Titel-/Metadaten."
+        },
+        {
+          "key": "comparison",
+          "url": "https://www.movie-censorship.com/report.php?ID=809074",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einleitende Fassungsanalyse Zeilen48–89 sowie konkrete zusätzliche Sally-Yeh-Sequenz aufVergleichsseite2 im Suchindex gelesen. Eigener Bild-/Schnittvergleich Muck47/Asphyxia: zusätzlicher Nebenstrang, umgeschnittener/ergänzter Wallace-Kampf, weniger Nacktheit und grobeDialoge. Nicht sämtliche296Einzelschnitte/Film selbst als gesehen beansprucht. FürS2."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-048-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-048-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-048-D"
+    },
+    {
+      "id": "MARTIALARTS-049",
+      "film_title_de": "Hard to Die",
+      "film_title_original": "Chung on zo",
+      "film_year": 1993,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Als Crime Story beziehungsweise Hard to Die unter Jackie-Chan-Fans bekannt, durch seine ernste Polizeihandlung jedoch weniger selbstverständlich als die großen Actionkomödien.",
+      "directors": [
+        "Kirk Wong",
+        "Jackie Chan"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "Erstjahr1993, HKFA-Zeile8069:24.06.1993. Deutscher führender Lizenzname Hard to Die; Crime Story, Serious Crimes Squad, Police Dragon und New Police Story sind Aliasnamen dieses Werks. Original重案組, Chung on zo/Cheung ngon cho/Cong on zou, Mandarin Zhong an zu. Nicht New Police Story2004 und nicht Police Story4/First Strike1996.",
+      "director_note": "Vollständiges Team Kirk Wong und Jackie Chan nach aktuellem eigenem deutschen Lizenzcredit Splendid. HKFA und ältere Originalcredits nennen Kirk Wong allein; zusätzliche Arbeit Chans an Aufnahmen und Endfassung ist dokumentiert. Der genaue Umfang und das Konfliktnarrativ werden in späteren Sichtungsberichten unterschiedlich dargestellt. Kein alleiniger Originalcredit als Ausschluss tatsächlicher zusätzlicher Regie verwendet; falsche D-Teams enthalten keinen der beiden.",
+      "country_note": "Hongkong nach Originalarchiv und Lizenzgeber. Taiwan/Taipei ist Ermittlungs-/Drehort, daraus keine weitere Produktionsnation abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständiger Eddie-Chan-Fall mit anderen Figuren als Police Story. Vereinzelt verwendete Exporttitel New Police Story/Police Story4 begründen keine inhaltliche nummerierte Fortsetzung. Offizielle Lizenzbeschreibung und eigene Filmberichte behandeln den eigenständigen Entführungsfilm. Bestehendes Police-Story-Register bleibt unverändert.",
+      "series_sources": [
+        "https://www.splendid-medien.de/hard-to-die",
+        "https://88-films.myshopify.com/products/crime-story"
+      ],
+      "sources": [
+        {
+          "key": "splendid",
+          "url": "https://www.splendid-medien.de/hard-to-die",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten eigenen Lizenztext samt Credits im Suchindex gelesen: deutscher Titel Hard to Die, Hongkong1993, Regie Jackie Chan/Kirk Wong, inspiriert von Teddy-Wang-Entführung. VOD2014/Disc2026 nicht als Erstjahr."
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete vollständige Zeile8069 sowie7987 und Spaltenkopf gelesen: Crime Story24.06.1993/Kirk Wong; City Hunter16.01.1993/Wong Jing. Nur Werkzeilen, nicht das ganze Verzeichnis."
+        },
+        {
+          "key": "films88",
+          "url": "https://88-films.myshopify.com/products/crime-story",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Lizenztext und konkrete Extrasliste gelesen: Eddie soll Wong schützen, Hung/Kent Cheng beteiligt sich an Entführung, führt Polizei irre, ReiseTaipei. Keine Extras angesehen."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/crime-story/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik Phil Mills samt Werk-/Actioncredits im Suchindex gelesen: Schusswechseltrauma/Psychiaterempfehlung, Schutzfall, frühere Entführung und HinzunahmeHungs, Ermittlungsfolgen. FürM1 und Creditabgleich."
+        },
+        {
+          "key": "lovehk",
+          "url": "https://mail.lovehkfilm.com/reviews/crime_story.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik Kozo1995/1998 samt Originalcreditblock im Suchindex gelesen: ernster Polizeifall, Eddie/Hung reisenTaiwan, Korruption; fürM2. Nicht abweichende Namensschreibweisen blind übernommen."
+        },
+        {
+          "key": "shingleton",
+          "url": "https://www.yesasia.com/us/crime-story/1000023918-0-0-0-en/info.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen relevanten eigenen DVD-Times-Filmbeobachtungsabschnitt Matt Shingletons auf lizenzierter YesAsia-Seite gelesen: Eddie fehlen Dienstnummer/Passwort beim internen Anruf, meldet Entführung deshalb über999 als Bürger. Eigener Sichtungsbericht von Händlerbeschreibung getrennt; deren abweichende Finalhandlung nicht übernommen. FürS1."
+        },
+        {
+          "key": "location",
+          "url": "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-03_newsletter/newsletter35_c.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen englischen Ausstellungsbeitrag The Cultural Map of Locations, Seiten9–11, insbesondere Zeilen412–443 gelesen. HKFA-Programmerin Winnie Fu berichtet eigenes Interview mit Poon Hang-seng: Crime-Story-Explosion Kowloon Walled City,20Kameras, nichtmehr20Minuten. Nicht gesamtes Newsletter-PDF als gelesen beansprucht. FürS2."
+        },
+        {
+          "key": "mapes",
+          "url": "https://www.moviehabit.com/review.php?story=cri_hj07",
+          "accessed_on": "2026-11-03",
+          "supports": "Eigenen vollständigen relevanten Interview-/Schnittkommentar Marty Mapes,10.08.2007, gelesen: Wong über nicht mit ihm abgesprochene nachträgliche Chan-Schnittarbeit. Dies ist ein gelesener Sichtungsbericht, keine selbst angesehene Interviewaufnahme."
+        },
+        {
+          "key": "moviex",
+          "url": "https://www.moviexclusive.com/cd/crimestory%20dvd.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Werkdaten und konkreten Interviewbericht gelesen: Kirk Wong,1993; Bericht sagt, Wong habe ein angebliches Zerwürfnis verneint. Dient als Gegenhinweis gegen die Verabsolutierung einer konfliktbetonten Entstehungsgeschichte, nicht als eigene Filmsichtung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-049-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-049-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-049-D"
+    },
+    {
+      "id": "MARTIALARTS-050",
+      "film_title_de": "Mega Cop",
+      "film_title_original": "Chao ji ji hua",
+      "film_year": 1993,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Michelle Yeohs eigener Supercop-Nachfolger ist weniger bekannt als ihre gemeinsame Arbeit mit Jackie Chan; die deutschen und internationalen Titel erschweren die Wiedererkennung.",
+      "directors": [
+        "Stanley Tong"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "1993 nach HKFA-Zeile8129:21.Oktober1993. Spätere amerikanische Dimension-Neufassung/Videoauswertung kein Erstjahr. Original超級計劃; Mandarin Chao ji ji hua, kantonesisch Chiu kap gai waak/Chiu kup gai wak; Project S/Supercop2/Once a Cop/Mega Cop dieselbe Filmidentität.",
+      "director_note": "Stanley Tong alleinige Hauptregie und Actiongestaltung nach Originalarchiv, offiziellem Apple-Werkangebot und konkretem deutschem Lizenzdatensatz. Jackie Chan ist Gastdarsteller, kein Hauptregisseur.",
+      "country_note": "Hongkong nach Originalarchiv, konkretem Lizenzdatensatz und Far-East-Werkcredits. Festlandchina als Herkunft der Hauptfigur beziehungsweise Handlungsort nicht mit zusätzlicher Produktionsnation gleichgesetzt.",
+      "series": {
+        "name": "Supercop",
+        "position": 2,
+        "note": "Als Supercop2 vermarkteter Jessica-Yang-Nachfolger/Spin-off. Vorgänger ist Police Story3:Supercop von1992, gleichzeitig Teil3 der Police-Story-Hauptreihe. Dessen führende Registerzuordnung Police Story3 bleibt erhalten; keine zusätzliche Filmidentität und keine erfundene Police-Story4-Nummer für Mega Cop."
+      },
+      "series_note": "Positive Nebenreihenzuordnung nach tatsächlich belegtem Supercop2-Titel und wiederkehrender Yang-Figur. First Strike behält Position4 der Police-Story-Hauptreihe. Die Benennung dieser eigenen Nebenfolge erfordert kein Umschreiben des Vorgängerfilms im Einzelfeldregister.",
+      "series_sources": [
+        "https://tv.apple.com/at/movie/supercop-2/umc.cmc.7frkhrpphmsbm0zmzq9te8rp9?l=en",
+        "https://themoviereport.com/movierpt64.html",
+        "https://fareastfilms.com/review/project-s/"
+      ],
+      "sources": [
+        {
+          "key": "apple",
+          "url": "https://tv.apple.com/at/movie/supercop-2/umc.cmc.7frkhrpphmsbm0zmzq9te8rp9?l=en",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen konkreten Werktext gelesen: Supercop2,1993, Tong allein, Yeoh/Yu/Athena; Polizeifrau gegen Syndikat früheren Liebhabers. Für Reihen-/Werkdaten."
+        },
+        {
+          "key": "license",
+          "url": "https://www.filminfos.de/action/mega-cop--new612760/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten 375-Media-Lizenzdatensatz samt Produkttext im Suchindex gelesen: deutscher Titel Mega Cop, Original Chiu Kap Gai Waak,1993,Hongkong,Stanley Tong. Sehr allgemeiner Werbetext nicht für individuelle Plotfakten verwendet."
+        },
+        {
+          "key": "hkfa",
+          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete vollständige Zeile8129 samt Spaltenkopf gelesen:超級計劃/Project S,21.10.1993,唐季禮 alleinige Hauptregie,杨紫琼/于荣光/周华健 usw. Nicht vollständiges Verzeichnis gelesen."
+        },
+        {
+          "key": "fareast",
+          "url": "https://fareastfilms.com/review/project-s/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik Andrew Saroch samt Film-/Actioncredits im Suchindex gelesen: Hua kehrt aus PoliceStory3 zurück, Räubersuche Hongkong, Tong Regie/Action, ernsterer Konflikt. FürL2/D."
+        },
+        {
+          "key": "opus",
+          "url": "https://opus.ing/reviews/supercop-2-stanley-tong-1993",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Filmkritik im Suchindex gelesen: David/Yu Rongguang früherer Liebhaber, kriminelle Verbindung, Banküberfall, Cameo Chan. FürL1."
+        },
+        {
+          "key": "asian",
+          "url": "https://asianfilmstrike.com/2012/02/05/supercop-2-1993-review/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Filmkritik LP Hugo gelesen: Jessica lehnt Davids Fortzug wegen ihres Berufes ab; Yeoh-Figur aus1992, Chan/Tsang in Frauenverkleidung, Hongkongmission und persönlicher Konflikt. FürM1/S2."
+        },
+        {
+          "key": "vern",
+          "url": "https://outlawvern.com/2020/04/09/supercop-2/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen eigenen Filmtext im Suchindex und relevante Abschnitte direkt gelesen: Dimension-Synchronfassung als solche benannt; medizinische Tarnung zu Beginn, Defibrillator, Annie als Modedesignerin/Martins Schwester, finale Bank. FürM2/S1. Spekulation über Ursprungsende und fremde Filmstunts nicht als Fakten übernommen."
+        },
+        {
+          "key": "dequina",
+          "url": "https://themoviereport.com/movierpt64.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einzelnen eigenen Supercop2-Videokritikabschnitt Michael Dequinas gelesen: ausdrückliche Dimension-Home-Video-Vermarktung alsSupercop2, Yang-Figur ausSupercop, AlternativtitelProjectS/OnceACop. Nicht gesamte Archivseite als gelesen beansprucht. Nur Reihenbeleg."
+        },
+        {
+          "key": "eureka",
+          "url": "https://eurekavideo.co.uk/movie/the-police-story-trilogy-4k-uhd/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Lizenztext und Film-/Fassungsangaben Zeilen24–83 gelesen: Police Story3:Supercop, Stanley Tong,1992, FigurYang;1996 oder spätere Disc-Daten nicht Erstjahr. FürY und Vorgängeridentität. Keine Extras angesehen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-050-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-050-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-050-D"
     }
   ],
   "series_updates": [

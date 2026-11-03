@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 472 Filmfassungen mit 3776 Fragen lokal integriert. 29 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 482 Filmfassungen mit 3856 Fragen lokal integriert. 19 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -6426,16 +6426,17 @@
     },
     {
       "candidate_id": "C-136",
-      "film_title_de": "Schlangenfaust gegen Drachenhand",
-      "film_title_original": "She he ba xing",
+      "film_title_de": "Die Unbesiegbaren der Shaolin",
+      "film_title_original": "She he ba bu",
       "film_year": 1978,
       "genre": "Martial Arts & Asia-Film",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein junger Mann sucht nach den Hintergründen eines verschwundenen Kampfkunstbuchs.",
+      "selection_reason": "Ein Kung-Fu-Kriminalrätsel verbindet Schulenrivalität mit absichtlichen falschen Spuren. Bereits beherrschte Kampfkunst und aufwendige Waffendemonstrationen ergänzen die sonst häufigen Ausbildungsgeschichten.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-041"
     },
     {
       "candidate_id": "C-137",
@@ -6445,10 +6446,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein einfacher Soldat und ein gefangener General müssen gemeinsam durch ein Kriegsgebiet.",
+      "selection_reason": "Der unfreiwillige Soldat setzt auf Überleben und Heimkehr statt kriegerischen Ruhm. Die Gefangenenreise, der Thronkonflikt und der Verlust der Heimat verbinden komische Kampfkunst mit einem ernsten Kriegsdrama.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-042"
     },
     {
       "candidate_id": "C-138",
@@ -6458,23 +6460,25 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Illegale chinesische Einwanderer in Tokio geraten in organisierte Kriminalität; ernste Chan-Rolle.",
+      "selection_reason": "Der Asia-Schwerpunkt umfasst auch dieses Hongkonger Einwanderer- und Gangsterdrama. Der Film setzt Chans Körperlichkeit in realistischere Gewalt um und zeigt, wie Schutzgemeinschaft, legaler Aufenthalt und krimineller Aufstieg ineinandergreifen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-043"
     },
     {
       "candidate_id": "C-139",
-      "film_title_de": "Winners and Sinners",
+      "film_title_de": "Winners & Sinners",
       "film_title_original": "Qi mou miao ji: Wu fu xing",
       "film_year": 1983,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Gruppe ehemaliger Gefangener stolpert in eine Falschgeldaffäre.",
+      "selection_reason": "Die Verbindung von Resozialisierungskomödie, Ensemblegags und körperlichen Verfolgungen eröffnet die Lucky-Stars-Reihe. Der versehentliche Besitz von Druckplatten setzt die frisch gegründete Reinigungsfirma zwischen zwei kriminelle Parteien.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-044"
     },
     {
       "candidate_id": "C-140",
@@ -6484,10 +6488,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Die Lucky-Stars-Gruppe unterstützt eine Verfolgung nach Japan.",
+      "selection_reason": "Waisenhausfreunde werden als unerkannte Helfer in eine Polizeimission hineingezogen. Polizeiliche Ausbildung, frühere Freundschaft und Gangsterkomödie treffen auf die aufwendig choreografierten Auftakt- und Schlusskämpfe.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-045"
     },
     {
       "candidate_id": "C-141",
@@ -6497,10 +6502,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Zeugenschutzhandlung trägt den nächsten Lucky-Stars-Ensemblefilm.",
+      "selection_reason": "Die Urlaubsgruppe wird mit Zeugenschutz und professionellen Attentätern verbunden. Konkrete Darstellerinterviews erschließen außerdem die schrittweise entwickelte Kampfchoreografie und den Umgang mit wiederholten Aufnahmen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-046"
     },
     {
       "candidate_id": "C-142",
@@ -6510,10 +6516,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Polizist sorgt für seinen geistig behinderten Bruder; Familiendrama und Hongkong-Action werden verbunden.",
+      "selection_reason": "Ein eigenständiges Brüderdrama mit bewusst zurückgenommener Kampfkunst einer Hauptfigur und einem harten Rettungsfinale ergänzt die Ensemblekomödien desselben Jahres.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-047"
     },
     {
       "candidate_id": "C-143",
@@ -6523,23 +6530,25 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein New Yorker Polizist verfolgt einen Entführungsfall nach Hongkong; US- und HK-Fassung unterscheiden.",
+      "selection_reason": "Die internationale Koproduktion erweitert das Genre um ein konkretes Beispiel verschiedener Arbeitsweisen und Auswertungsfassungen. Inhaltliche Fragen beziehen sich auf den gemeinsamen Handlungsgrundstock; die Fassungsfrage benennt ihre Vergleichsebene.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-048"
     },
     {
       "candidate_id": "C-144",
-      "film_title_de": "Crime Story",
+      "film_title_de": "Hard to Die",
       "film_title_original": "Chung on zo",
       "film_year": 1993,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein korrupter Kollege erschwert die Aufklärung einer Entführung im ernsteren Jackie-Chan-Polizeifilm.",
+      "selection_reason": "Ermittlungsarbeit, psychische Folgen von Gewalt und Korruption innerhalb der Polizei ergänzen die übrigen Chan-Filme. Individuelle Szenen und ein dokumentierter realer Drehort tragen die Vertiefungen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-049"
     },
     {
       "candidate_id": "C-145",
@@ -6549,10 +6558,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein eigenständiger Supercop-Ableger stellt eine Polizistin aus Festlandchina ins Zentrum.",
+      "selection_reason": "Der Film führt Jessica Yang in einen eigenen Auftrag und verbindet ihre Polizeiarbeit mit einem persönlichen Loyalitätskonflikt. Er ergänzt die Reihe um eine Frau als durchgehende Actionhauptfigur.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-050"
     },
     {
       "candidate_id": "C-146",
