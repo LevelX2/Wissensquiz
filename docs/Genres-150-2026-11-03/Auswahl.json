@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 409 Filmfassungen mit 3272 Fragen lokal integriert. 92 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 415 Filmfassungen mit 3320 Fragen lokal integriert. 86 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -5915,75 +5915,91 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Abschluss des historischen Zweiteilers um Tien, Heilung und erneute Konfrontation.",
+      "selection_reason": "Schließt Tiens Geschichte mit körperlicher Rehabilitation, Tanz als Kampftechnik und der Ablösung zerstörerischer Rache ab. Verbindet thailändische Kampfkunsttraditionen mit übernatürlicher Herrschaft und buddhistisch geprägter Selbstveränderung.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-010"
     },
     {
       "candidate_id": "C-106",
-      "film_title_de": "Der Sentimental-Swordsman",
+      "film_title_de": "Das unbesiegbare Schwert der Shaolin",
       "film_title_original": "Duo qing jian ke wu qing jian",
       "film_year": 1977,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Schwertkämpfer gerät in ein Geflecht aus Freundschaft, Vergiftung und Intrige.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verbindet eine verzweigte Banditenintrige mit verletzter Freundschaft, erotischen Versprechen und der Ausbeutung moralischer Verpflichtung.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-011"
     },
     {
       "candidate_id": "C-107",
-      "film_title_de": "Der tätowierte Adler",
+      "film_title_de": "Der Schrei des gelben Adlers",
       "film_title_original": "Leng xue shi san ying",
       "film_year": 1978,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein abtrünniger Kämpfer einer Killerorganisation verbündet sich mit einem zunächst undurchsichtigen Fremden.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Ein ehemaliger Auftragsmörder muss Verantwortung für Opfer seiner eigenen Taten übernehmen; der gemeinsame Gegner hebt die Schuld zwischen den Verbündeten nicht auf.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-012"
     },
     {
       "candidate_id": "C-108",
-      "film_title_de": "Die Todespagode des gelben Tigers",
+      "film_title_de": "Das Schwert des gelben Tigers",
       "film_title_original": "Xin du bi dao",
       "film_year": 1971,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Neufassung des einarmigen Schwertkämpfermotivs mit Ti Lung und David Chiang.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die neue Hauptfigur Lei Li verbindet selbst auferlegte Entwaffnung, Ausgrenzung und eine wiedergewonnene Bindung an einen Freund mit einem räumlich konzentrierten Rachefinale.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-013"
     },
     {
       "candidate_id": "C-109",
-      "film_title_de": "Die fünf Kampfmaschinen der Shaolin",
+      "film_title_de": "Die gnadenlosen 5",
       "film_title_original": "Shao Lin wu zu",
       "film_year": 1974,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Überlebende des zerstörten Shaolintempels organisieren ihren Widerstand und unterschiedliche Kampfstile.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Stellt nicht einen allmächtigen Einzelhelden, sondern verfolgte Überlebende in den Mittelpunkt, die Vertrauen organisieren und verschiedene Techniken gezielt weiterentwickeln müssen.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-014"
     },
     {
       "candidate_id": "C-110",
-      "film_title_de": "Die Henker von Shaolin",
+      "film_title_de": "Executioners from Shaolin",
       "film_title_original": "Hong Xi Guan",
       "film_year": 1977,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Familie, Tiger- und Kranichstil werden gegen einen scheinbar unverwundbaren Gegner verbunden.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verbindet Rache mit Ehe, Elternschaft und der Weitergabe verschiedener Kampftraditionen. Der Sohn kann die verhärtete Einseitigkeit seines Vaters überwinden, indem er beide elterlichen Lehren zusammenführt.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-015"
     },
     {
       "candidate_id": "C-111",
