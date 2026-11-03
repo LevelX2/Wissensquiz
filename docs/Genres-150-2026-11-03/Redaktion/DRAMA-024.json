@@ -1,0 +1,260 @@
+{
+  "id": "DRAMA-024",
+  "film_title_de": "Der weiße Ballon",
+  "film_title_original": "Badkonake sefid",
+  "film_year": 1995,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein filmhistorisch wichtiger iranischer Debütfilm, der vor allem in kuratierten Reihen und im Autorenkino bekannt ist.",
+  "selection_reason": "Eine scheinbar kleine Kinderaufgabe erschließt Teheran, soziale Unterschiede und die Perspektive eines übersehenen Helfers. Echtzeitnähe und genaue Alltagsbeobachtung begründen Arthouse.",
+  "directors": [
+    "Jafar Panahi"
+  ],
+  "production_countries": [
+    "Iran"
+  ],
+  "release_note": "Erstveröffentlichung1995 einschließlich iranischer Festivalvorführung und Cannes-Auswertung. IFFR-Archivpfad1995 führt im Datensatz selbst Ausgabe1996; nicht als präziser Premierenbeleg verwendet.",
+  "director_note": "Panahi führte Regie und montierte den Film. Kiarostami schrieb das Drehbuch nach einer mit Panahi verbundenen Stoffidee; kein gemeinsamer Regiecredit.",
+  "country_note": "Iran nach Weltvertrieb, Sydney und Gent. KVIFF nennt Schwarzweiß, während Weltvertrieb und andere Filmarchive Farbe bestätigen; fehlerhafte Formatangabe nicht übernommen.",
+  "series": null,
+  "series_note": "Eigenständiger Debütfilm. Der Spiegel1997 entwickelt erneut einen Kinderweg durch Teheran, setzt aber weder Razieh noch ihre konkrete Geschichte als nummerierten Teil fort.",
+  "series_sources": [
+    "https://celluloid-dreams.com/films/white-balloon-the/",
+    "https://www.sff.org.au/program/event/the-mirror/"
+  ],
+  "sources": {
+    "verleih": {
+      "url": "https://celluloid-dreams.com/films/white-balloon-the/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger gelesener Suchindex des Weltvertriebs: Iran1995, Panahi, Farabi, Originaltitel, Figuren, Neujahrsfisch und Echtzeitdramaturgie."
+    },
+    "sydney": {
+      "url": "https://www.sff.org.au/program/event/the-white-balloon/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmseite gelesen:1995, Iran, Panahi-Debüt, Kiarostami-Drehbuch, Nowruz, Teheran, Hauptbesetzung und soziale Perspektive."
+    },
+    "gent": {
+      "url": "https://www.filmfestival.be/en/film/badkonake-sefid-the-white-balloon",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger gelesener Suchindex des Filmarchivs: Ausgabe1995, Frühlingsneujahr, Razieh/Ali/Mutter, Banknote, Credits und Iran."
+    },
+    "kviff": {
+      "url": "https://www.kviff.com/en/programme/film/43/17993-the-white-balloon",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Archivfilmseite gelesen: Geldverlust am Gitter, verschiedene Helfer, Kiarostami/Panahi und1995. Fehlerhafte Schwarzweißangabe und Gleichsetzung von Frühlingsneujahr mit islamischem Kalender nicht übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_White_Balloon",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte Handlung und Kopfcredits gelesen: Geld zweimal verloren, Schlangenbeschwörer, Gitter am geschlossenen Laden, Afghanenjunge/Stock/Kaugummi, abschließende Einstellung auf den zurückbleibenden Helfer. Kein genauer Geldbetrag abgefragt."
+    },
+    "mirror": {
+      "url": "https://www.sff.org.au/program/event/the-mirror/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger gelesener Suchindex der offiziellen Filmseite: Panahi1997, Mina auf Heimweg, Unterbrechung der Rolle und offenes Verhältnis von Fiktion/Dokument. Keine Gleichsetzung von Mina und Aida Mohammadkhani übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Razieh möchte einen Goldfisch kaufen.",
+      "question": "Was möchte Razieh (Aida Mohammadkhani) in „Der weiße Ballon“ unbedingt auf dem Markt kaufen?",
+      "answers": [
+        "Einen Goldfisch",
+        "Ein neues Kleid",
+        "Ein kleines Radio",
+        "Eine Stoffpuppe"
+      ],
+      "short": "Razieh wünscht sich einen Goldfisch.",
+      "context": "Für das Neujahrsfest gibt es zu Hause bereits Fische, doch Razieh (Aida Mohammadkhani) hält sie für zu klein. Der größere Fisch im Laden erscheint ihr wesentlich schöner. Ihr beharrlicher Wunsch gewinnt die Unterstützung ihres Bruders Ali (Mohsen Kafili). Erst dann überlässt die Mutter ihr das Geld und verlangt, den Rest wieder mitzubringen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sydney",
+        "gent",
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Handlung spielt kurz vor dem iranischen Neujahrsfest Nowruz.",
+      "question": "Welches Fest steht in „Der weiße Ballon“ unmittelbar bevor?",
+      "answers": [
+        "Nowruz, das iranische Neujahrsfest",
+        "Das Fest am Ende des Fastenmonats",
+        "Ein örtliches Erntedankfest",
+        "Eine Hochzeitsfeier im Familienkreis"
+      ],
+      "short": "Die Geschichte spielt vor Nowruz.",
+      "context": "Die bevorstehende Feier setzt den Weg der Kinder unter Zeitdruck. Geschäfte schließen, andere Menschen erledigen letzte Besorgungen oder möchten zu ihren eigenen Familien. Raziehs (Aida Mohammadkhani) Problem fällt mitten in diese allgemeine Bewegung. Die Stadt hat ihren eigenen Zeitplan und wartet nicht darauf, dass der verlorene Geldschein wieder auftaucht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sydney",
+        "gent",
+        "kviff"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Der Geldschein fällt durch ein Gitter am Eingang eines geschlossenen Geschäfts.",
+      "question": "Wo bleibt Raziehs (Aida Mohammadkhani) Geldschein in „Der weiße Ballon“ schließlich unerreichbar liegen?",
+      "answers": [
+        "Unter einem Gitter vor einem geschlossenen Geschäft",
+        "In einer verschlossenen Sammelbüchse am Markteingang",
+        "Zwischen den Waren eines bereits abgefahrenen Lastwagens",
+        "Hinter dem Schaufenster des vorübergehend verlassenen Fischladens"
+      ],
+      "short": "Der Schein liegt unter einem Gitter.",
+      "context": "Zuvor hat Razieh (Aida Mohammadkhani) schon bei den Schlangenbeschwörern um ihr Geld fürchten müssen. Nun kann sie den Schein sehen, aber nicht greifen. Der Besitzer des geschlossenen Geschäfts ist nicht einfach verfügbar. Die sichtbare Nähe des Geldes macht die Situation besonders quälend: Das Ziel bleibt erreichbar wirkend und praktisch doch versperrt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "kviff",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Stock und Kaugummi ermöglichen das Herausziehen des Geldscheins.",
+      "question": "Mit welchem Hilfsmittel gelingt es den Kindern in „Der weiße Ballon“, den Geldschein unter dem Gitter hervorzuholen?",
+      "answers": [
+        "Mit Kaugummi an einem langen Stock",
+        "Mit einer aus Draht gebogenen Zange",
+        "Mit einer Klebstoffschicht auf einem zusammengefalteten Papierstreifen",
+        "Mit einer Schlinge am Ende eines langen Fadens"
+      ],
+      "short": "Kaugummi am Ende eines Stocks hält den Geldschein fest.",
+      "context": "Der afghanische Junge hat einen Stock zum Tragen seiner Verkaufsware. Zunächst reicht dessen Länge allein nicht, um den Schein zu greifen. Er kommt schließlich mit Kaugummi zurück. Die Lösung entsteht aus der Verbindung alltäglicher Dinge und der Bereitschaft eines anderen Kindes, bei einer fremden Schwierigkeit zu bleiben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "kviff"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Schluss richtet den Blick auf den zurückbleibenden afghanischen Jungen.",
+      "question": "Bei wem bleibt die Kamera am Ende von „Der weiße Ballon“, nachdem die Geschwister ihr Problem gelöst haben?",
+      "answers": [
+        "Bei dem afghanischen Jungen",
+        "Bei der älteren Frau aus dem Fischladen",
+        "Bei dem Soldaten auf Urlaub",
+        "Bei dem verärgerten Schneider"
+      ],
+      "short": "Der Blick bleibt beim afghanischen Helfer.",
+      "context": "Razieh (Aida Mohammadkhani) und Ali (Mohsen Kafili) können zum Einkaufen und nach Hause zurückkehren. Der Junge, der ihnen geholfen hat, bleibt zunächst allein an dem Ort sitzen. Das Ende verschiebt damit den Schwerpunkt: Die kleine Erfolgsgeschichte der Geschwister endet nicht automatisch mit einer Lösung für das Leben des anderen Kindes.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "sydney"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Abbas Kiarostami schrieb das Drehbuch.",
+      "question": "Welcher iranische Filmemacher schrieb das Drehbuch zu „Der weiße Ballon“?",
+      "answers": [
+        "Abbas Kiarostami",
+        "Mohsen Makhmalbaf",
+        "Bahram Beyzai",
+        "Amir Naderi"
+      ],
+      "short": "Das Drehbuch schrieb Abbas Kiarostami.",
+      "context": "Kiarostami unterstützte den jüngeren Panahi, dessen erster Langfilm aus einer einfachen Besorgung eine genaue Beobachtung des städtischen Alltags entwickelt. Die Kontakte zu Erwachsenen und anderen Kindern machen unterschiedliche Interessen sichtbar. Die Geschichte bleibt dabei an Raziehs (Aida Mohammadkhani) unmittelbarer Aufgabe orientiert, statt die sozialen Beobachtungen in eine getrennte erklärende Erzählstimme auszulagern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sydney",
+        "gent",
+        "verleih"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Badkonake sefid wurde 1995 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Der weiße Ballon“ erstmals veröffentlicht?",
+      "answers": [
+        "1995",
+        "1989",
+        "1992",
+        "2000"
+      ],
+      "short": "Der Film erschien 1995.",
+      "context": "Zwei Jahre nach seinem Debüt von 1995 folgte Panahi 1997 in „Der Spiegel“ erneut einem Mädchen durch Teheran. Diesmal erklärt die junge Darstellerin während der Fahrt, dass sie nicht weiter spielen wolle. Der Übergang zwischen inszenierter Geschichte und beobachtetem Heimweg wird zum eigenen Thema, während der Kinderblick auf die Stadt erhalten bleibt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sydney",
+        "gent",
+        "mirror"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "Jafar Panahi führte Regie.",
+      "question": "Wer führte bei „Der weiße Ballon“ Regie?",
+      "answers": [
+        "Jafar Panahi",
+        "Majid Majidi",
+        "Mohsen Makhmalbaf",
+        "Bahram Beyzai"
+      ],
+      "short": "Jafar Panahi führte Regie.",
+      "context": "Panahi inszenierte und montierte seinen ersten Langspielfilm. Die Handlung bleibt eng an einer überschaubaren Zeitspanne, in der kleine Verzögerungen immer größere Bedeutung erhalten. Statt einer außergewöhnlichen Heldentat beobachtet der Film Aufmerksamkeit, Geduld und Hilfsbereitschaft. Ein überschaubarer Weg durch wenige Straßen öffnet so den Blick auf eine ganze soziale Umgebung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "verleih",
+        "sydney",
+        "gent"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

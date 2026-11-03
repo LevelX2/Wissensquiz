@@ -1,0 +1,267 @@
+{
+  "id": "DRAMA-022",
+  "film_title_de": "Der Sohn",
+  "film_title_original": "Le Fils",
+  "film_year": 2002,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein konzentriertes Werk des europäischen Autorenkinos, dessen konkrete Geschichte eher einem spezialisierten Publikum vertraut ist.",
+  "selection_reason": "Eine handwerkliche Lernbeziehung verschränkt sich mit Trauer und möglicher Vergeltung. Die verweigerte psychologische Eindeutigkeit und körpernahe Beobachtung begründen Arthouse.",
+  "directors": [
+    "Jean-Pierre Dardenne",
+    "Luc Dardenne"
+  ],
+  "production_countries": [
+    "Belgien",
+    "Frankreich"
+  ],
+  "release_note": "Cannes-Vorführung am 23.Mai2002 nach Institut Lumière, vor belgischem/französischem Kinostart im Oktober. Spätere Festivals2003 sind keine Erstveröffentlichung2003.",
+  "director_note": "Gemeinsame Regie Jean-Pierre und Luc Dardenne nach Produzent, Janus, Lumière und IFFR. Die aktuelle englische Cannes-Filmseite verknüpft irrtümlich Bruce Brown anstelle Luc Dardennes; dieser widersprüchliche Personendatensatz wird ausdrücklich nicht übernommen.",
+  "country_note": "Belgien/Frankreich nach Institut Lumière und IFFR; Janus nennt verkürzt Belgien.",
+  "series": null,
+  "series_note": "Eigenständige Geschichte. Wiederkehrender Hauptdarsteller, Werkstattmilieu und moralische Entscheidungen setzen weder Rosetta noch La promesse als nummerierte Figurenhandlung fort.",
+  "series_sources": [
+    "https://www.janusfilms.com/films/2124",
+    "https://2020.festival-lumiere.org/manifestations/le-fils.html"
+  ],
+  "sources": {
+    "janus": {
+      "url": "https://www.janusfilms.com/films/2124",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmseite gelesen: Dardenne-Regieteam,2002, Olivier Gourmet/Morgan Marinne, Werkstatt, getöteter Sohn und beobachtende Kamera."
+    },
+    "lumiere": {
+      "url": "https://2020.festival-lumiere.org/manifestations/le-fils.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmseite einschließlich Credits und Aufführungsdaten gelesen: Belgien/Frankreich2002, Premiere23.05.2002, Kamera am Rücken, Lucs Buchnotizen, Cast/Team. Frodon-Zitat mit unpassendem Datum2001 nicht als Erstjahrbeleg übernommen."
+    },
+    "iffr": {
+      "url": "https://iffr.com/en/iffr/2003/films/le-fils",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamter Filmtext und technische Daten gelesen:2002, beide Länder/Regisseure, Lehrwerkstatt, Magalis Schwangerschaft/Wiederheiratsankündigung und kameraenge Perspektive; IFFR2003 getrennt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Son_(2002_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Cast gelesen: Jugendhaft, Autoradiodiebstahl, Vormundschaftswunsch, Enthüllung am Holzlager, abgebrochene Strangulation und gemeinsame Wiederaufnahme der Arbeit."
+    },
+    "produzent": {
+      "url": "https://lesfilmsdufleuve.be/les-freres-dardenne/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindex des Le-Fils-Filmografieabschnitts:2002, beide Autoren/Regisseure, Gourmet-Cannespreis; keine vollständige Sichtung der ganzen Produzentenfilmografie behauptet."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/le-fils/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindex: Wettbewerb2002 und Gourmet-Darstellerpreis. Fehlerhafte Bruce-Brown-Personenverknüpfung sichtbar, nicht für Regie übernommen."
+    },
+    "rosetta": {
+      "url": "https://www.criterion.com/films/28056",
+      "accessed_on": "2026-11-03",
+      "supports": "Bereits vollständig gelesene Filmseite:Rosetta1999, Gourmet als Arbeitgeber, beide Dardenne-Regisseure; Jahres- und Rollenvergleich."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Olivier unterrichtet Jugendliche in der Tischlerei.",
+      "question": "Welches Handwerk vermittelt Olivier (Olivier Gourmet) in „Der Sohn“ den Jugendlichen?",
+      "answers": [
+        "Tischlerei",
+        "Schlosserei",
+        "Bäckerei",
+        "Elektroinstallation"
+      ],
+      "short": "Olivier leitet eine Tischlerwerkstatt für Jugendliche.",
+      "context": "In einem Ausbildungszentrum unterweist Olivier (Olivier Gourmet) junge Menschen beim Umgang mit Holz und Werkzeugen. Die Arbeit verlangt genaue Handgriffe und Aufmerksamkeit für den Körper des anderen. Dieses praktische Miteinander bildet den Alltag, in den ein neuer Schüler eintritt. Der Film beobachtet zunächst die Routinen, bevor er den persönlichen Konflikt vollständig erkennen lässt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "janus",
+        "lumiere",
+        "iffr"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Olivier Gourmet spielt den Ausbilder Olivier.",
+      "question": "Wer spielt in „Der Sohn“ den zurückhaltenden Handwerksausbilder, der einem neuen Schüler heimlich nachgeht?",
+      "answers": [
+        "Olivier Gourmet",
+        "Jean-Pierre Darroussin",
+        "Daniel Auteuil",
+        "François Cluzet"
+      ],
+      "short": "Olivier Gourmet verkörpert den Ausbilder.",
+      "context": "Olivier Gourmet war in „Rosetta“ als Besitzer des Waffelstands zu sehen. Hier steht seine Figur selbst im Mittelpunkt der Beobachtung. Der zurückgenommene Ausdruck lässt Widersprüche bestehen: Olivier lehnt Francis (Morgan Marinne) erst ab, nimmt ihn dann doch auf und sucht zugleich eine Nähe, deren Grund er dem Jugendlichen nicht erklärt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "janus",
+        "iffr",
+        "rosetta"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Francis hat Oliviers Sohn getötet.",
+      "question": "Welche Verbindung erklärt Oliviers (Olivier Gourmet) besondere Aufmerksamkeit für Francis (Morgan Marinne) in „Der Sohn“?",
+      "answers": [
+        "Francis hat Oliviers Sohn getötet.",
+        "Francis ist Oliviers bisher unbekannter eigener Sohn.",
+        "Francis ist der Sohn des neuen Werkstattleiters.",
+        "Francis wurde von Oliviers Sohn schwer verletzt."
+      ],
+      "short": "Francis ist für den Tod von Oliviers Sohn verantwortlich.",
+      "context": "Francis (Morgan Marinne) hat nach einem tödlich endenden Diebstahl Jugendhaft verbüßt. Er kennt zunächst die Beziehung seines Ausbilders zum getöteten Jungen nicht. Olivier (Olivier Gourmet) besitzt dieses Wissen und setzt trotzdem den Unterricht fort. Damit steht jede handwerkliche Hilfestellung zugleich neben einem möglichen Wunsch nach Vergeltung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "janus",
+        "lumiere"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Francis bittet Olivier, sein Vormund zu werden.",
+      "question": "Welche persönliche Bitte richtet Francis (Morgan Marinne) auf dem Ausflug zum Holzlager an Olivier (Olivier Gourmet) in „Der Sohn“?",
+      "answers": [
+        "Olivier soll sein Vormund werden.",
+        "Olivier soll ihm eine Lehrstelle bei einem anderen Betrieb vermitteln.",
+        "Olivier soll ihm beim Umzug aus einem Wohnheim in eine eigene Wohnung helfen.",
+        "Olivier soll einen Besuch bei seinen entfernten Verwandten ermöglichen."
+      ],
+      "short": "Francis bittet den Ausbilder um eine Vormundschaft.",
+      "context": "Der Jugendliche sucht einen verlässlichen Erwachsenen, ohne zu wissen, wen er gerade darum bittet. Olivier (Olivier Gourmet) antwortet nicht eindeutig. Auf derselben Fahrt erfährt er mehr über die Umstände der Tötung. Francis’ (Morgan Marinne) Wunsch nach Bindung trifft so auf eine Vergangenheit, die eine solche Nähe beinahe unmöglich erscheinen lässt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "janus"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Nach der Gewalteskalation kehrt Francis zurück und beide arbeiten schweigend weiter.",
+      "question": "Was tun Olivier (Olivier Gourmet) und Francis (Morgan Marinne) im letzten Abschnitt von „Der Sohn“ nach der Verfolgung am Holzlager?",
+      "answers": [
+        "Sie nehmen schweigend ihre gemeinsame Arbeit wieder auf.",
+        "Sie fahren gemeinsam zur Polizeiwache und erstatten Anzeige.",
+        "Sie suchen Magali auf, um ihr einen Entschluss mitzuteilen.",
+        "Sie trennen sich, nachdem Olivier das Ausbildungsverhältnis beendet hat."
+      ],
+      "short": "Beide arbeiten am Holzlager wieder zusammen.",
+      "context": "Nach der Enthüllung flieht Francis (Morgan Marinne). Olivier (Olivier Gourmet) verfolgt ihn und beginnt, ihn zu würgen, lässt aber wieder los. Als Francis zurückkehrt, setzt sich das praktische Miteinander fort. Der Film ersetzt diese Handlung nicht durch eine ausführliche Versöhnungsrede und erklärt auch nicht abschließend, was die Männer voneinander erwarten können.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "janus"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die körpernahe Kamera beobachtet Olivier, ohne sein Innenleben durch Erklärung aufzulösen.",
+      "question": "Wie vermittelt „Der Sohn“ vor allem Oliviers innere Anspannung?",
+      "answers": [
+        "Die Kamera bleibt nah an Rücken, Nacken und Gesten, ohne seine Motive vollständig zu erklären.",
+        "Ein fortlaufender innerer Monolog erläutert jede seiner Entscheidungen.",
+        "Rückblenden aus seiner Kindheit ordnen seine Gefühle eindeutig ein.",
+        "Weite Überblicksbilder zeigen ihn meist nur als Randfigur seiner Umgebung."
+      ],
+      "short": "Körperliche Nähe und beobachtete Gesten tragen die Spannung.",
+      "context": "Man bewegt sich mit Olivier (Olivier Gourmet) durch Werkstatt, Straßen und Auto, erhält jedoch keinen sicheren Zugang zu allen Gedanken. Seine Nähe zu Francis (Morgan Marinne) kann Fürsorge und Gefahr zugleich bedeuten. Die Kamera hält diese Ungewissheit aufrecht, statt sie durch eine psychologische Erklärung vorzeitig zu beseitigen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "lumiere",
+        "iffr"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Le Fils wurde 2002 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Der Sohn“ mit Olivier Gourmet erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1996",
+        "1999",
+        "2007"
+      ],
+      "short": "Der Film wurde 2002 erstmals veröffentlicht.",
+      "context": "Drei Jahre nach „Rosetta“ von 1999 legten die Dardenne-Brüder 2002 „Der Sohn“ vor. Olivier Gourmet wechselte dabei vom Arbeitgeber am Waffelstand zur zentral beobachteten Figur. Die Filme teilen eine genaue Aufmerksamkeit für Arbeit, erzählen jedoch andere Beziehungen: dort den Kampf um eine Stelle, hier das Lehren eines Jugendlichen mit einer belastenden gemeinsamen Vergangenheit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "lumiere",
+        "rosetta",
+        "janus"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Jean-Pierre Dardenne und Luc Dardenne führten gemeinsam Regie.",
+      "question": "Welches Regieteam inszenierte „Der Sohn“ mit Olivier Gourmet und Morgan Marinne?",
+      "answers": [
+        "Jean-Pierre Dardenne und Luc Dardenne",
+        "Jean-Marie Larrieu und Arnaud Larrieu",
+        "Delphine Coulin und Muriel Coulin",
+        "Jean-Marie Straub und Danièle Huillet"
+      ],
+      "short": "Jean-Pierre und Luc Dardenne führten gemeinsam Regie.",
+      "context": "Die Brüder schrieben auch das Drehbuch. Alain Marcoen fotografierte den Film, Marie-Hélène Dozo montierte ihn. Lucs Arbeitsnotizen kreisen um die messbare Distanz und die gleichzeitige Anziehung zwischen zwei Körpern. Das erklärt den gestalterischen Schwerpunkt auf Bewegungen und Arbeitsabläufen, während eine eindeutige moralische Auflösung ausbleibt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "lumiere",
+        "janus",
+        "iffr"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

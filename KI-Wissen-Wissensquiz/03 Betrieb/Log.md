@@ -2560,3 +2560,8 @@ Sechs Dramen mit 48 Fragen integriert, 44 neue globale Ziele und vier bestehende
 #### Fortsetzung 03.11.2026 – Musik W19
 
 Sechs Musikfilme mit 48 neuen Zielen integriert; Musik 133, Arthouse 134, Classics 206. Vollständige zentrale und unabhängige Gegenlesung; LOC-Produktionsessay nachgelesen, technischer Ablenker und Bandidentitätsziel nachgeschärft. Roma-Trilogie als thematische Folge und Beatles-Filme als Kinofolge bewusst eingeordnet. Alle 1.032 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 58 Pakete / 16.327 Fragen / 15.644 Ziele; 372 Genreergänzungen und 16 überlappende Arthouse-Filme offen.
+
+
+#### Fortsetzung 03.11.2026 – Drama W20
+
+Sechs Dramen mit 48 Fragen integriert, 47 neue globale Ziele und eine Personenvariante zur Bonusentscheidung bei Zwei Tage, eine Nacht. Drama 147, Arthouse 140. Alle 48 Fragen zentral und unabhängig gegengelesen; physikalisch sinnvolle Bergungsoptionen, plausibler Filmnutzen und zeitliche Einordnung Fajr1987/Locarno1989 nachgeschärft. Filmjahre, Länder, Koker-Folge und künstliche Tonpannen in Close-Up anhand gelesener Quellen begrenzt. Alle 1.080 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und 70 gezielte Tests in sieben Dateien bestanden. Aktuell 59 Pakete / 16.375 Fragen / 15.691 Ziele; 366 Genreergänzungen und zehn überlappende Arthouse-Filme offen.

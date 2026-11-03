@@ -1,0 +1,252 @@
+{
+  "id": "DRAMA-026",
+  "film_title_de": "Close-Up",
+  "film_title_original": "Nema-ye Nazdik",
+  "film_year": 1990,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein kanonisches Werk des iranischen Autorenkinos, dessen konkrete Szenen und Produktionsverfahren vorwiegend einem spezialisierten Publikum bekannt sind.",
+  "selection_reason": "Die realen Beteiligten spielen eine Täuschung und deren Untersuchung nach; das Verhältnis von persönlicher Identität, sozialer Anerkennung und filmischer Wahrheit begründet Arthouse.",
+  "directors": [
+    "Abbas Kiarostami"
+  ],
+  "production_countries": [
+    "Iran"
+  ],
+  "release_note": "Erste öffentliche Vorführungen 1990 nach Criterion/Cheshire und SFMOMA. Der reale Fall begann 1989; das abweichende BFI-Werkjahr 1989 wird nicht ohne Nachweis einer früheren Vorführung übernommen.",
+  "director_note": "Kiarostami führte Regie, schrieb und montierte. Makhmalbaf tritt als er selbst auf und war an der Entstehung beteiligt, ist aber kein zusätzlicher Regisseur des Films.",
+  "country_note": "Iran nach Verleih und SFMOMA; ausländische Festivals und spätere Distribution sind keine Koproduktionsländer.",
+  "series": null,
+  "series_note": "Eigenständige Untersuchung, kein Teil der Koker-Trilogie. Die spätere Dokumentation Close-Up Long Shot kehrt zu Sabzian zurück; sie ist eine gesonderte Nachbetrachtung anderer Filmemacher und keine etablierte nummerierte Spielfilmfolge.",
+  "series_sources": [
+    "https://www.criterion.com/films/1092-close-up",
+    "https://www.criterion.com/current/posts/1492-close-up-prison-and-escape"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://www.criterion.com/films/1092-close-up",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmseite gelesen: Iran 1990, Kiarostami als Regisseur/Autor/Editor, reale Besetzung und gesonderte Dokumentation Long Shot."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/1492-close-up-prison-and-escape",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamter Cheshire-Essay gelesen: Fall 1989 und Iran-Vorführung 1990, ausgelassene Verhaftung beim Taxifahrer, inszenierte Gerichtsszenen, nachträglich erzeugte Tonunterbrechungen. Keine allgemeinen Aussagen zum iranischen Recht übernommen."
+    },
+    "museum": {
+      "url": "https://www.sfmoma.org/event/close-up/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Programmseite gelesen: Iran 1990, Sabzians Anerkennungssuche, Ahankhah-Familie und dokumentarische Reinszenierung. Die dortige Ausnahme des Journalisten widerspricht Criterion; kein genaues Ziel dazu gebildet."
+    },
+    "interview": {
+      "url": "https://www.slantmagazine.com/film/godfrey-cheshire-on-close-up-abbas-kiarostami-1990/",
+      "accessed_on": "2026-11-03",
+      "supports": "Cheshires eigene Kiarostami-Gespräche und Analyse bis einschließlich der Produktionsenthüllungen gelesen: Bus/Drehbuch, soziale Rollen, Kameraarbeit und Ton. Der Wiederabdruckkopf 2010 ist nicht das Entstehungsjahr des besprochenen Films."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Close-Up_(1990_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Besetzung und Produktion gelesen: Teheran, Busfahrt mit The Cyclist, Drehversprechen, Festnahme, Gericht und abschließender Besuch. Mit Primärquellen abgeglichen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Sabzian gibt sich als Mohsen Makhmalbaf aus.",
+      "question": "Für welchen Filmemacher gibt sich Hossein Sabzian in „Close-Up“ gegenüber der Familie Ahankhah aus?",
+      "answers": [
+        "Mohsen Makhmalbaf",
+        "Dariush Mehrjui",
+        "Bahram Beyzai",
+        "Amir Naderi"
+      ],
+      "short": "Er behauptet, Mohsen Makhmalbaf zu sein.",
+      "context": "Die Familie begegnet einem Mann, der mit dem Ansehen eines berühmten Regisseurs auftritt. Sabzian spielt keine erdachte Berufsrolle, sondern leiht sich die konkrete Identität eines lebenden Künstlers. Dadurch verändert sich sein gesellschaftlicher Rang für kurze Zeit. Der Film macht aus der Entlarvung eine Untersuchung darüber, weshalb diese Rolle so begehrenswert werden konnte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der reale Fall und die Filmhandlung spielen in Teheran.",
+      "question": "In welcher Stadt begegnet Hossein Sabzian in „Close-Up“ der Familie Ahankhah und wird später vor Gericht gefilmt?",
+      "answers": [
+        "Teheran",
+        "Maschhad",
+        "Isfahan",
+        "Täbris"
+      ],
+      "short": "Der Fall spielt in Teheran.",
+      "context": "Busfahrten, das Haus der Familie und die Wege zwischen Gefängnis und Gericht verbinden verschiedene Lebenswelten derselben Stadt. Sabzians wirtschaftliche Lage unterscheidet sich deutlich von der seiner Gastgeber. Räumliche Nähe beseitigt diese Unterschiede nicht. Unter der angenommenen Identität kann er jedoch Zugang zu einem Haushalt gewinnen, der ihm aufmerksam zuhört.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Sabzian verspricht der Ahankhah-Familie Filmrollen.",
+      "question": "Mit welchem Versprechen bindet Hossein Sabzian die Familie Ahankhah in „Close-Up“ an sein vermeintliches Filmprojekt?",
+      "answers": [
+        "Familienmitglieder sollen in seinem nächsten Film mitspielen.",
+        "Die Familie soll ein eigenes Kino leiten.",
+        "Ein Sohn soll eine Filmhochschule im Ausland besuchen.",
+        "Ihr Haus soll als dauerhaft gemietetes Produktionsbüro dienen."
+      ],
+      "short": "Er verspricht ihnen Rollen in seinem nächsten Film.",
+      "context": "Das Angebot trifft auf die Filmbegeisterung seiner Gastgeber. Sie stellen sich vor, dass ihr Alltag selbst zum Material eines bedeutenden Regisseurs werden könnte. Sabzian bespricht das Haus als möglichen Drehort und übt mit ihnen. Der spätere Film verwickelt diese Hoffnung auf besondere Weise: Die Familie erscheint tatsächlich vor Kiarostamis Kamera und spielt die früheren Begegnungen nach.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "museum"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Das Drehbuch The Cyclist ist der Anlass der Busbegegnung.",
+      "question": "Welchen Text liest Hossein Sabzian in „Close-Up“ bei der Busbegegnung, aus der seine falsche Identität hervorgeht?",
+      "answers": [
+        "Das veröffentlichte Drehbuch zu „The Cyclist“",
+        "Das veröffentlichte Drehbuch zu „Die Kuh“",
+        "Das veröffentlichte Drehbuch zu „Bashu“",
+        "Das veröffentlichte Drehbuch zu „Der Läufer“"
+      ],
+      "short": "Er liest das Drehbuch zu „The Cyclist“.",
+      "context": "Frau Ahankhah interessiert sich für die Lektüre ihres Sitznachbarn. Sabzian antwortet mit der Behauptung, der Autor zu sein, und verwandelt eine alltägliche Unterhaltung in einen Auftritt als Regisseur. Die gedruckte Geschichte dient dabei als sichtbares Bindeglied zwischen Bewunderung und Täuschung. Der Film zeigt diese Vorgeschichte als nachgestellte Begegnung mit den Beteiligten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Kamera bleibt beim Taxifahrer, während die Verhaftung im Haus stattfindet.",
+      "question": "Bei wem bleibt die Kamera zu Beginn von „Close-Up“, als Reporter und Soldaten im Haus der Ahankhahs die Verhaftung vorbereiten?",
+      "answers": [
+        "Beim wartenden Taxifahrer auf der Straße",
+        "Bei Sabzians Angehörigen in deren Wohnung",
+        "Beim Richter in dessen Arbeitszimmer",
+        "Bei einem Kinovorführer während seiner Schicht"
+      ],
+      "short": "Sie bleibt draußen beim Taxifahrer.",
+      "context": "Der erwartete Höhepunkt entzieht sich zunächst unserem Blick. Statt die Männer ins Haus zu begleiten, beobachtet die Kamera den Fahrer, Blumen und eine über die Straße rollende Dose. Solche scheinbaren Nebenhandlungen erhalten eigene Dauer. Kiarostami lässt damit spüren, dass eine spannende Nachricht nicht automatisch vorgibt, welche Bilder ein Film zeigen muss.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "interview"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Viele Tonstörungen der abschließenden Motorradfahrt sind nachträglich gestaltet.",
+      "question": "Wie sind die auffälligen Tonunterbrechungen bei der abschließenden Motorradfahrt in „Close-Up“ nach Kiarostamis Produktionsauskunft einzuordnen?",
+      "answers": [
+        "Viele wurden nachträglich für die Wirkung der Szene erzeugt.",
+        "Sie entstanden beim späteren Überspielen einer beschädigten Filmkopie.",
+        "Sie verbergen Namen, deren Nennung die Familie untersagte.",
+        "Sie ersetzen Passagen, die ursprünglich ohne Ton gedreht wurden."
+      ],
+      "short": "Viele vermeintliche technische Pannen wurden nachträglich gestaltet.",
+      "context": "Sabzian fährt mit dem wirklichen Makhmalbaf zu der Familie. Wir hören nur Bruchstücke und erleben die Begegnung dadurch als schwer zugänglichen Augenblick. Der scheinbare Beweis einer unkontrollierten Aufnahme ist jedoch selbst bearbeitet. Die Szene setzt die Frage des ganzen Films fort: Welche Wahrnehmung erzeugt die Gestaltung von Material, das aus einem realen Fall stammt?",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "interview"
+      ],
+      "spoiler": "stark"
+    },
+    {
+      "code": "Y",
+      "objective": "Close-Up wurde 1990 erstmals öffentlich gezeigt.",
+      "question": "Aus welchem Jahr stammt die Erstveröffentlichung von „Close-Up“?",
+      "answers": [
+        "1990",
+        "1987",
+        "1993",
+        "1996"
+      ],
+      "short": "Die Erstveröffentlichung war 1990.",
+      "context": "Der reale Fall wurde 1989 bekannt; Kiarostami begann seine Arbeit, während die Ereignisse noch nicht abgeschlossen waren. Das Werk kam im folgenden Jahr zunächst im Iran vor Publikum. Fallgeschichte und Filmjahr liegen damit eng beieinander. Erst viel später erreichte es reguläre Kinostarts in weiteren Ländern, nachdem Festivals und Retrospektiven bereits Aufmerksamkeit geschaffen hatten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Abbas Kiarostami führte Regie bei Close-Up.",
+      "question": "Wer führte bei „Close-Up“ Regie?",
+      "answers": [
+        "Abbas Kiarostami",
+        "Dariush Mehrjui",
+        "Jafar Panahi",
+        "Bahram Beyzai"
+      ],
+      "short": "Abbas Kiarostami führte Regie.",
+      "context": "Kiarostami verantwortete auch Drehbuch und Montage. Er steht dem Fall nicht bloß als unsichtbarer Beobachter gegenüber: Seine Fragen und Vereinbarungen beeinflussen die Aufnahmen. Das verbindet die Credits mit dem Thema des Films. Die Identität eines Filmemachers kann hier sowohl eine begehrte gesellschaftliche Rolle als auch eine sehr konkrete Macht über Bilder und Begegnungen sein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "museum",
+        "interview"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

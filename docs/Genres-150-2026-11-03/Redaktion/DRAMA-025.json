@@ -1,0 +1,260 @@
+{
+  "id": "DRAMA-025",
+  "film_title_de": "Der Geschmack der Kirsche",
+  "film_title_original": "Ta'm-e gilass",
+  "film_year": 1997,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein zentraler Titel des iranischen Autorenkinos, dessen reduzierte Handlung und genaue filmische Form eher Spezialwissen sind.",
+  "selection_reason": "Gespräche und Landschaft ersetzen eine vollständig erklärte Psychologie. Das offene Verhältnis von Lebensentscheidung, Wahrnehmung und Filmproduktion begründet Arthouse.",
+  "directors": [
+    "Abbas Kiarostami"
+  ],
+  "production_countries": [
+    "Iran"
+  ],
+  "release_note": "Erstveröffentlichung1997 einschließlich Cannes nach Criterion/Weltvertrieb/Festival. Spätere nationale oder US-Auswertungen sind kein früheres oder neues Erstjahr.",
+  "director_note": "Abbas Kiarostami als alleiniger Regisseur und Autor; Homayoun Payvar fotografierte den Film.",
+  "country_note": "Iran nach Criterion, mk2 und SIFF. Internationale Auswertung und französischer Vertrieb begründen kein zusätzliches Produktionsland.",
+  "series": null,
+  "series_note": "Eigenständiger Film außerhalb der zuvor abgeschlossenen Koker-Trilogie. Gemeinsame Landschafts-, Lebens- und Freundschaftsmotive bilden keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://www.criterion.com/current/posts/7026-taste-of-cherry-stay-near-the-tree",
+    "https://mk2films.com/en/film/le-gout-de-la-cerise-tam-e-guilass/"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://www.criterion.com/films/242-taste-of-cherry",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmseite gelesen: Iran1997, Kiarostami, Badii/Ershadi, drei Gesprächspartner, Payvar und weitere Credits."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/7026-taste-of-cherry-stay-near-the-tree",
+      "accessed_on": "2026-11-03",
+      "supports": "A.S.Hamrah vollständig gelesen: fehlende Motiv-Erklärung, Teheran-Landschaft, Ershadi als Architekt, Regisseur als Gesprächspartner beim Dreh, offene Videocoda, Koker-Abgrenzung. Konkrete medizinische/rechtliche Aussagen und technische Angaben zur Selbsttötung nicht als Quizziele übernommen."
+    },
+    "verleih": {
+      "url": "https://mk2films.com/en/film/le-gout-de-la-cerise-tam-e-guilass/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte Verleihfilmseite gelesen: OriginaltitelvarianteTA'M E GUILASS, Iran1997, Regie, Badii im Geländewagen, Cast. Bagheri dortAbdolhossein gegen abweichende SekundärangabeAbdolrahman; hier keine unsichere Vornamensfrage."
+    },
+    "siff": {
+      "url": "https://www.siff.net/programs-and-events/the-open-road/taste-of-cherry",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger gelesener Suchindex: Iran1997, Kiarostami, Ershadi, Gespräche mit Soldat/Seminarist/Präparator, Kamera und filmografischer Kontext."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Taste_of_Cherry",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Stilabschnitte gelesen: drei Gesprächspartner, Bagheris Maulbeer-Erinnerung, keine erklärte Ursache von Badiis Entschluss und offene Videocoda. Keine Methode oder genaue technische Handlung zur Selbsttötung übernommen."
+    },
+    "closeup": {
+      "url": "https://www.criterion.com/films/1092-close-up",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene Filmseite: Close-up1990, reale Beteiligte und Verhältnis von Inszenierung/Dokument; zeitlicher Bezug sieben Jahre zuvor."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Badii sucht Gesprächspartner am Rand von Teheran.",
+      "question": "Am Rand welcher Stadt fährt Herr Badii (Homayoun Ershadi) in „Der Geschmack der Kirsche“ umher?",
+      "answers": [
+        "Teheran",
+        "Isfahan",
+        "Schiras",
+        "Täbris"
+      ],
+      "short": "Er fährt durch die Außenbezirke von Teheran.",
+      "context": "Der Geländewagen bewegt sich zwischen staubigen Hügeln, Baustellen und Arbeitsorten. Badii (Homayoun Ershadi) spricht Männer an und bietet für eine zunächst unklare Aufgabe Geld. Die Fahrten verbinden Menschen, die außerhalb der Begegnung sehr verschiedene Lebenslagen haben. Die Landschaft bleibt dabei ebenso gegenwärtig wie das Gesicht des Mannes am Steuer.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "verleih",
+        "siff"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Homayoun Ershadi spielt Herrn Badii.",
+      "question": "Wer spielt in „Der Geschmack der Kirsche“ den verschlossenen Herrn Badii, der mit seinem Geländewagen nach einem Helfer sucht?",
+      "answers": [
+        "Homayoun Ershadi",
+        "Parviz Parastui",
+        "Reza Kianian",
+        "Ezzatolah Entezami"
+      ],
+      "short": "Homayoun Ershadi verkörpert Badii.",
+      "context": "Ershadi arbeitete als Architekt, bevor Kiarostami ihn für den Film entdeckte. Seine zurückhaltende Präsenz trägt viele Bilder, in denen die Kamera lange bei seinem Gesicht bleibt. Der Film liefert dazu keine vollständige Lebensgeschichte. Kleine Reaktionen und Gesprächspausen erhalten deshalb Gewicht, ohne den Mann in eine eindeutig erklärte Fallgeschichte aufzulösen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay",
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Badiis drei längere Gesprächspartner sind Soldat, Seminarist und Präparator.",
+      "question": "Welche drei Männer werden in „Der Geschmack der Kirsche“ zu Badiis längeren Gesprächspartnern?",
+      "answers": [
+        "Ein Soldat, ein Seminarist und ein Präparator",
+        "Ein Polizist, ein Journalist und ein Rechtsanwalt",
+        "Ein Bauer, ein Busfahrer und ein Schuldirektor",
+        "Ein Arzt, ein Apotheker und ein Krankenpfleger"
+      ],
+      "short": "Die Gespräche führen zu Soldat, Seminarist und Präparator.",
+      "context": "Die drei Männer reagieren aus unterschiedlichen Erfahrungen auf Badiis (Homayoun Ershadi) Wunsch. Ein junger Soldat weicht erschrocken zurück; der Seminarist argumentiert aus religiöser Überzeugung. Der ältere Präparator Bagheri spricht dagegen über eine eigene Krise und sinnliche Erfahrungen des Weiterlebens. Der Film lässt die Stimmen nebeneinander bestehen, statt sie durch einen einzigen Sprecher abschließend bewerten zu lassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "siff",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Bagheri erzählt, dass ihn der Geschmack von Maulbeeren wieder für das Leben öffnete.",
+      "question": "Welche Frucht spielt in Bagheris Erinnerung an neu erwachte Lebensfreude in „Der Geschmack der Kirsche“ die entscheidende Rolle?",
+      "answers": [
+        "Maulbeeren",
+        "Kirschen",
+        "Feigen",
+        "Granatäpfel"
+      ],
+      "short": "In seiner persönlichen Erinnerung sind es Maulbeeren.",
+      "context": "Bagheri erinnert sich an einen Augenblick, in dem er selbst nicht weiterleben wollte. Das Schmecken der Früchte, der Morgen und die Rückkehr zu seiner Frau veränderten seine Wahrnehmung. Seine Erzählung setzt dem abstrakten Streit eine konkrete Erinnerung entgegen. Sie beantwortet Badiis (Homayoun Ershadi) Situation nicht automatisch, bietet ihm aber eine andere Sicht auf die erfahrbare Welt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "film"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die offene Schlusspassage zeigt die Filmcrew und den Darsteller in Videoaufnahmen.",
+      "question": "Welche Bilder folgen auf Badiis Nacht in der Schlussfassung von „Der Geschmack der Kirsche“?",
+      "answers": [
+        "Videoaufnahmen des Darstellers und der Filmcrew bei der Arbeit",
+        "Ein ausführlicher Bericht über Badiis spätere Familiengeschichte",
+        "Eine rückblickende Befragung aller drei Gesprächspartner",
+        "Eine amtliche Rekonstruktion des Geschehens durch einen Ermittler"
+      ],
+      "short": "Die Schlussbilder zeigen die Entstehung des Films.",
+      "context": "Nach der Dunkelheit erscheinen helle, körnige Videobilder von Soldaten und Team. Homayoun Ershadi steht wieder als Darsteller vor uns, nicht als abschließend entschlüsselter Fall. Der Wechsel klärt Badiis Schicksal nicht auf. Er eröffnet eine andere Ebene, auf der Menschen gemeinsam das Bild hergestellt haben, das zuvor Einsamkeit und Ungewissheit vermittelt hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Bei den Autodialogen antworteten die Darsteller häufig dem Regisseur statt dem späteren Gegenüber im Schnitt.",
+      "question": "Wie entstanden viele der Autogespräche in „Der Geschmack der Kirsche“?",
+      "answers": [
+        "Die Darsteller antworteten beim Dreh häufig dem Regisseur.",
+        "Beide Gesprächspartner wurden gleichzeitig von zwei Kameras aufgenommen.",
+        "Die Darsteller spielten gemeinsam im Studio vor Rückprojektionen.",
+        "Die Stimmen wurden erst später bei einer gemeinsamen Tonprobe improvisiert."
+      ],
+      "short": "Kiarostami übernahm beim Dreh häufig selbst die Gegenposition im Gespräch.",
+      "context": "Im fertigen Film scheinen Menschen im selben Wagen miteinander zu sprechen. Beim Aufnehmen saß jedoch häufig Kiarostami an der jeweils anderen Position. Reaktionen und Blickrichtungen werden im Schnitt zu einer Begegnung verbunden. Die unmittelbar wirkende Kommunikation ist somit auch ein Ergebnis einer gezielt hergestellten Beziehung zwischen getrennt entstandenen Bildern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Ta'm-e gilass wurde 1997 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Der Geschmack der Kirsche“ erstmals veröffentlicht?",
+      "answers": [
+        "1997",
+        "1991",
+        "1994",
+        "2002"
+      ],
+      "short": "Der Film erschien 1997.",
+      "context": "Sieben Jahre vor dem Film von 1997 hatte Kiarostami 1990 in „Close-up“ reale Beteiligte ihre eigene Geschichte nachspielen lassen. Hier verschiebt die Videocoda erneut die Grenze zwischen Figur, Darsteller und Herstellung. Die Filme erzählen andere Konflikte, teilen aber das Interesse daran, wie stark unser Eindruck von Wirklichkeit an filmische Entscheidungen gebunden ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "closeup",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "D",
+      "objective": "Abbas Kiarostami führte Regie.",
+      "question": "Wer führte bei „Der Geschmack der Kirsche“ mit Homayoun Ershadi Regie?",
+      "answers": [
+        "Abbas Kiarostami",
+        "Mohsen Makhmalbaf",
+        "Dariush Mehrjui",
+        "Bahram Beyzai"
+      ],
+      "short": "Abbas Kiarostami führte Regie.",
+      "context": "Kiarostami schrieb und produzierte den Film selbst. Homayoun Payvars Kamera verbindet die wiederkehrenden Fahrten mit weit geöffneten Landschaftsbildern. Menschen und Wagen können hinter Hügeln verschwinden, während die Umgebung im Bild bleibt. Die Inszenierung setzt damit Wahrnehmung und Geduld neben die Gespräche, ohne für jede Lücke eine erklärende Rückblende bereitzuhalten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "verleih",
+        "essay"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
