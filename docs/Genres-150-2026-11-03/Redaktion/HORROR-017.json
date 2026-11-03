@@ -1,0 +1,257 @@
+{
+  "id": "HORROR-017",
+  "film_title_de": "Dagon",
+  "film_title_original": "Dagon",
+  "film_year": 2001,
+  "genre": "Horror",
+  "categories": [],
+  "familiarity_level": 4,
+  "familiarity_reason": "Die Lovecraft-Adaption genießt ein eigenes Genrepublikum, ist aber gegenüber Gordons Re-Animator deutlich weniger allgemein präsent.",
+  "selection_reason": "Die vermeintliche Rettung nach einem Segelunfall führt in eine Fischergemeinde, deren Wohlstand und körperliche Verwandlung zusammengehören.",
+  "directors": [
+    "Stuart Gordon"
+  ],
+  "production_countries": [
+    "Spanien"
+  ],
+  "status": "quellengeprueft",
+  "release_note": "Erstjahr 2001. Die zeitgenössische Sitges-Berichterstattung vom 13. Oktober 2001 bestätigt die Vorführung am Vortag. US-Videoauswertung 2002 ist später; Produktionskatalog und Festivalwerk führen Spanien 2001.",
+  "director_note": "Stuart Gordon alleiniger Regisseur, Dennis Paoli Drehbuchautor und Brian Yuzna Produzent. Kein gemeinsamer Hauptregiecredit.",
+  "country_note": "Spanische Produktion nach Film at Lincoln Center und H.P.Lovecraft-Festival; amerikanische Autoren/Regie und englische Dialoge ändern das Produktionsland nicht.",
+  "series": null,
+  "series_note": "Eigenständige Lovecraft-Verfilmung. Gordons weitere Adaptionen und Fantastic Factory-Produktionen sind keine nummerierte Dagon-Filmfolge.",
+  "series_sources": [
+    "https://hplfilmfestival.com/films/dagon",
+    "https://www.comingsoon.net/horror/news/745749-shock-qa-stanleys-master-horror-stuart-gordon"
+  ],
+  "sources": {
+    "institut": {
+      "url": "https://www.filmlinc.org/films/dagon/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Film-at-Lincoln-Center-Werktext gelesen: Spanien 2001, Gordon, zwei Paare, Paul/Ezra Godden, Uxia/Macarena Gómez, Fischmenschen und Wohlstand gegen Opfer. Dortige pauschale Insel-Bezeichnung nicht zum geographischen Detailziel gemacht."
+    },
+    "festival": {
+      "url": "https://hplfilmfestival.com/films/dagon",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen indizierten Festivalwerktext gelesen:2001,Spanien, Gordon und Inspiration durch Dagon/The Shadow over Innsmouth; kein nummerierter Re-Animator-Nachfolger."
+    },
+    "gordon": {
+      "url": "https://www.comingsoon.net/horror/news/745749-shock-qa-stanleys-master-horror-stuart-gordon",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Gordon-Interview gelesen, besonders Dagon-Block: lange aufgeschobenes Projekt nach Re-Animator, schließlich Fantastic Factory/Spanien/Galicia, hauptsächlich The Shadow over Innsmouth statt nur Titelgeschichte. Die gerundete Erinnerung 20 Jahre nicht als exakter Produktionsabstand übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Dagon_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Plot und Cast gelesen: Ezequiel als letzter Mensch, Kultgeschichte, Uxias Tentakel, Pauls Herkunft und Unterwasserverwandlung. Keine unsichere Marktstartzählung aus Boxofficeabschnitt übernommen."
+    },
+    "szene": {
+      "url": "https://www.horrorguys.com/dagon-2001/",
+      "accessed_on": "2026-11-03",
+      "supports": "Brian Schells vollständige ausführliche Szenenbesprechung gelesen: Fisch/Goldhandel, Ezequiels Eltern, Uxias Körper, Pauls Cambarro-Herkunft, Selbstverbrennung und Kiemen im Unterwasserfinale."
+    },
+    "sitges": {
+      "url": "https://elpais.com/diario/2001/10/13/espectaculos/1002924002_850215.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Zeitgenössischen vollständig sichtbaren Festivalberichtanfang gelesen: Dagon enttäuschte am Vortag in Sitges; Film als Fantastic Factory-Produktion mit Stuart Gordon. Nur Datumsbeleg, keine ungelesenen übrigen Kritikabschnitte."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ezra Godden spielt den gestrandeten Urlauber Paul.",
+      "question": "Wer spielt Paul, den nach einem Segelunfall gestrandeten Urlauber in „Dagon“?",
+      "answers": [
+        "Ezra Godden",
+        "Jeffrey Combs",
+        "Jeremy Sisto",
+        "Chad Donella"
+      ],
+      "short": "Ezra Godden spielt Paul.",
+      "context": "Paul (Ezra Godden) und Barbara (Raquel Meroño) fahren mit einem Rettungsboot an Land, um Hilfe zu holen. Die Fischer erscheinen zunächst als einzige verfügbare Retter. Als Paul von der Yacht zurückkommt, fehlt jedoch Barbara. Die Suche nach praktischer Unterstützung verwandelt sich in die Suche nach den eigenen Begleitern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "institut",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Geschichte führt in eine Fischergemeinde an der spanischen Küste.",
+      "question": "In welcher Umgebung sucht Paul (Ezra Godden) in „Dagon“ Hilfe?",
+      "answers": [
+        "In einem verfallenen spanischen Fischerdorf",
+        "In einem englischen Badehotel",
+        "In einer portugiesischen Klosteranlage",
+        "In einer französischen Militärsiedlung"
+      ],
+      "short": "Er erreicht ein verfallenes spanisches Fischerdorf.",
+      "context": "Imboca wirkt durch Regen, enge Gassen und verschlossene Häuser abweisend. Gordon verlegte Lovecrafts amerikanischen Küstenort für diese Produktion nach Galicien. Die fremden Stimmen und die ungewöhnlichen Körper der Bewohner machen den Weg von Paul (Ezra Godden) durch den scheinbaren Zufluchtsort zunehmend unsicher.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "institut",
+        "gordon",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Fisch und Gold verführen die Bewohner zum Dagon-Kult.",
+      "question": "Welches Versprechen bewegt die Bewohner Imbocas in „Dagon“ zum neuen Kult?",
+      "answers": [
+        "Fischreichtum und Gold aus dem Meer",
+        "Unverwundbarkeit gegenüber Krieg und Feuer",
+        "Die Rückkehr aller auf See gestorbenen Angehörigen",
+        "Den Schutz ihrer Kinder vor jeder Krankheit"
+      ],
+      "short": "Der Kult verspricht wirtschaftlichen Wohlstand.",
+      "context": "Ezequiel (Francisco Rabal) erinnert sich an die frühere Not des Ortes. Die ersten Gaben scheinen den Wechsel der Verehrung zu belohnen. Doch aus dem Geschäft werden Forderungen nach Menschenopfern und Frauen. Der gewonnene Wohlstand ist mit einer Abhängigkeit verbunden, die die ganze Gemeinde verändert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "institut",
+        "szene",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Uxias verborgener Unterkörper besteht aus Tentakeln.",
+      "question": "Welche Entdeckung lässt Paul (Ezra Godden) vor Uxia in „Dagon“ zurückweichen?",
+      "answers": [
+        "Unter ihrer Decke verbergen sich Tentakel statt Beine.",
+        "Ihr Gesicht besteht aus der Haut seiner verschwundenen Freundin.",
+        "Ihre Hände tragen die tätowierten Zeichen seiner Eltern.",
+        "Sie hat anstelle der Augen silberne Fischschuppen."
+      ],
+      "short": "Uxias Unterkörper trägt Tentakel.",
+      "context": "Uxia (Macarena Gómez) ist die Frau aus Pauls Träumen und rettet ihn vor den Verfolgern. Ihre Anziehung wirkt deshalb zugleich vertraut und bedrohlich. Als er ihre körperliche Gestalt erkennt, zerbricht seine Hoffnung, bei ihr eine gewöhnliche menschliche Verbündete gefunden zu haben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "szene"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Ezequiel kennt die Zeit vor dem Kult aus eigener Kindheit.",
+      "question": "Warum kann Ezequiel (Francisco Rabal) Paul in „Dagon“ eine andere Geschichte des Dorfes erzählen als die Kultanhänger?",
+      "answers": [
+        "Er hat als Kind die Einführung des Kultes miterlebt.",
+        "Er gründete als Priester den Kult und bewahrte dessen Schriften.",
+        "Er kennt als geretteter Seemann die Opfer aus anderen Häfen.",
+        "Er untersucht als verdeckter Beamter die Vermisstenfälle."
+      ],
+      "short": "Ezequiel erinnert sich an die Gemeinde vor ihrer Verwandlung.",
+      "context": "Seine Eltern widersetzten sich dem Kult und wurden geopfert. Für Ezequiel (Francisco Rabal) ist die Vergangenheit deshalb keine bloße Legende über ein seltsames Dorf. Der Verlust der Familie und die Veränderung der Nachbarn gehören zusammen. Er hilft Paul, obwohl er selbst keinen einfachen Ausweg mehr vor sich hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "szene"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Pauls Kiemen widerlegen seine Vorstellung, ein rein menschlicher Außenseiter zu sein.",
+      "question": "Welche Veränderung bestätigt im Finale von „Dagon“, dass Paul nicht nur ein zufälliger Besucher ist?",
+      "answers": [
+        "Unter Wasser öffnen sich Kiemen an seinem Körper.",
+        "Sein Spiegelbild nimmt die Gestalt des verstorbenen Kapitäns an.",
+        "Er kann die Kultsprache plötzlich ohne Übersetzung lesen.",
+        "Sein Blut verwandelt sich auf dem Altar in Gold."
+      ],
+      "short": "Paul entwickelt unter Wasser Kiemen.",
+      "context": "Paul (Ezra Godden) erfährt seine eigene Verbindung zur Cambarro-Familie und setzt sich verzweifelt in Brand. Uxia (Macarena Gómez) zieht ihn ins Wasser. Das Meer ist nun nicht nur der Aufenthaltsort eines fremden Monsters: Pauls Körper ermöglicht ihm selbst ein Leben darin.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "szene",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Dagon erschien 2001.",
+      "question": "In welchem Jahr erschien Stuart Gordons „Dagon“ erstmals?",
+      "answers": [
+        "2001",
+        "1993",
+        "2008",
+        "2015"
+      ],
+      "short": "Der Film erschien 2001.",
+      "context": "Bereits nach „Re-Animator“ von 1985 wollte Gordon den Stoff umsetzen. Stattdessen entstand zunächst „From Beyond“. Erst 2001 konnte er mit Brian Yuznas spanischer Fantastic Factory auf das lange verfolgte Vorhaben zurückkommen. Zwischen der frühen Planung und dem fertigen Film lag somit eine umfangreiche Suche nach Produktionsmöglichkeiten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sitges",
+        "festival",
+        "gordon"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Stuart Gordon führte Regie.",
+      "question": "Wer führte bei „Dagon“ mit Ezra Godden und Francisco Rabal Regie?",
+      "answers": [
+        "Stuart Gordon",
+        "Brian Yuzna",
+        "Jack Sholder",
+        "John Carpenter"
+      ],
+      "short": "Stuart Gordon führte Regie.",
+      "context": "Gordon erklärte selbst, dass hinter dem kurzen Titel hauptsächlich Lovecrafts längere Erzählung „The Shadow over Innsmouth“ steht. Dennis Paoli bearbeitete den Stoff. Das scheinbare Fremde vor der Küste wird im Verlauf zu einer Frage nach der Herkunft desjenigen, der es zu untersuchen versucht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "gordon",
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

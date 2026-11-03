@@ -2665,3 +2665,8 @@ Sechs Actionfilme mit 48 Fragen, 47 neuen globalen Zielen und einer bestehenden 
 #### Fortsetzung 03.11.2026 – W40
 
 Komödie erreicht 150 Filme: sechs abschließende Komödien mit 48 Fragen, 45 neuen globalen Zielen und drei präzisen Bestandsvarianten. Vollständige zentrale und unabhängige Gegenlesung samt Primärquellenarbeit; politische/adlige Ablenker verbessert und King-of-Comedy-Lachen ohne ungesicherte Livepublikumsbehauptung formuliert. Isländische Kinoanzeige belegt Erstjahr 1982, Guard-Koproduktion aus zeitgenössischem Berlinale-Programm; Jahresvertiefungen mit Kurzfilmursprung 2000/2011 und Cannes/Oscar 2014/2015 verankert. Alle 2.000 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 79 Pakete / 17.295 Fragen / 16.599 Ziele; 251 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W41
+
+Sechs Horrorfilme mit 48 neuen globalen Zielen; Horror jetzt 121. Vollständige unabhängige Gegenlesung der Agentenredaktion und nachgelesene Regie-/Darstellerinterviews. Figurenkörper und Identitäten in Skeleton Key klar getrennt; Dagon-Herkunft und Open-Water-Fiktion gegenüber tatsächlichem Ausgangsfall erklärt. Hamptons2003 vor Sundance2004, zwei Hughes-Regisseure vollständig und Open Water als ausdrücklich lose Vertriebsfolge belegt. Alle 2.048 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 80 Pakete / 17.343 Fragen / 16.647 Ziele; 245 Genreergänzungen offen.

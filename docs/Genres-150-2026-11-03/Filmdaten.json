@@ -16031,6 +16031,485 @@
       "reference_question_id": "G150-20261103-KOMOEDIE-021-L1",
       "year_question_id": "G150-20261103-KOMOEDIE-021-Y",
       "director_question_id": "G150-20261103-KOMOEDIE-021-D"
+    },
+    {
+      "id": "HORROR-016",
+      "film_title_de": "Ich weiß, was du letzten Sommer getan hast",
+      "film_title_original": "I Know What You Did Last Summer",
+      "film_year": 1997,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Ein prägender Jugendhorror der späten Neunziger mit bekannten Fernsehstars; Rachemotiv und falsche Verdächtigungen erlauben deutlich anspruchsvollere Ziele.",
+      "directors": [
+        "Jim Gillespie"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1997; Sony führt die Originalfassung ausdrücklich getrennt von der gleichnamigen Fortsetzung 2025. Der Werkabgleich nennt den US-Kinostart 17. Oktober 1997.",
+      "director_note": "Jim Gillespie alleinige Regie; Kevin Williamson ist Drehbuchautor, nicht Mitregisseur. Der Roman stammt von Lois Duncan.",
+      "country_note": "US-Produktion Mandalay, vertrieben von Columbia; Handlung Southport in North Carolina, nicht aus allen Drehorten abgeleitet.",
+      "series": {
+        "name": "Ich weiß, was du letzten Sommer getan hast",
+        "position": 1,
+        "note": "Veröffentlichungsfolge des Filmfranchise: Original 1997, I Still Know 1998, eigenständiger dritter Film 2006 und Rückkehrfilm 2025. Die TV-Neubearbeitung ist keine zusätzliche Filmnummer."
+      },
+      "series_note": "Die erste Position wird durch Sony Originalseite und spätere Fortsetzungsseiten belegt; gleicher Titel 2025 ist nicht dieselbe Filmidentität.",
+      "series_sources": [
+        "https://www.sonypictures.com/movies/iknowwhatyoudidlastsummer1997",
+        "https://www.sonypictures.com/movies/istillknowwhatyoudidlastsummer",
+        "https://www.sonypictures.com/movies/iknowwhatyoudidlastsummer",
+        "https://www.sonypictures.com/movies/illalwaysknowwhatyoudidlastsummer"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/iknowwhatyoudidlastsummer1997",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Originalfilmtext gelesen: Titel 1997, vier Hauptdarsteller, Vertuschung durch Versenken im Meer und spätere Verfolgung; ausdrücklich getrennt von Sony 2025."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/I_Know_What_You_Did_Last_Summer",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Plot, Cast und relevante Produktionsabschnitte gelesen: Julie/Helen/Ray, Billy Blue als Boot und Alias, Ben Willis/David Egan/Susie-Verwechslung, vier Hauptfiguren und Gillespie/Williamson. Keine ungehörten DVD-Aussagen als selbst gesehen ausgegeben."
+        },
+        {
+          "key": "details",
+          "url": "https://www.imdb.com/title/tt0119345/plotsummary/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene ausführliche indizierte Plotabschnitte zu Missy, vermeintlichem Abschiedsbrief, Ben Willis und Billy Blue; direkter Abruf 403. Nur konkret gelesene Handlungspassagen als Zusatzbeleg, keine ungelesenen Nutzerbeiträge."
+        },
+        {
+          "key": "buch",
+          "url": "https://www.wfae.org/2016-06-16/remembering-lois-duncan-the-queen-of-teen-suspense",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen relevanten NPR-Nachrufabschnitt von Petra Mayer gelesen: Roman 1973 und ausdrücklicher Befund, dass der Hakenmörder nicht in Duncans Buch vorkommt. Keine private Tragödie der Autorin zum Quizstoff gemacht."
+        },
+        {
+          "key": "folge",
+          "url": "https://www.sonypictures.com/movies/istillknowwhatyoudidlastsummer",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Sony-Fortsetzungstext gelesen: direkte Fortsetzung mit Jennifer Love Hewitt und Freddie Prinze Jr., Copyright 1998. Der dort abweichende Vorname von Bens Tochter wird nicht in das Ziel zur Originalhandlung übernommen."
+        },
+        {
+          "key": "rueckkehr",
+          "url": "https://www.sonypictures.com/movies/iknowwhatyoudidlastsummer",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Sony-Werktext 2025 gelesen: Rückkehr zu den Überlebenden der Southport-Ereignisse 1997; bestätigt Trennung der gleichnamigen Fassungen."
+        },
+        {
+          "key": "dritter",
+          "url": "https://www.sonypictures.com/movies/illalwaysknowwhatyoudidlastsummer",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Werktext gelesen: eigenständige neue Jugendgruppe in Colorado, ausdrücklich weiterer Franchise-Teil und Copyright 2006."
+        },
+        {
+          "key": "folgeafi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/60986",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen AFI-Werkkopf und leitende Credits gelesen: Fortsetzung 1998 mit Hewitt/Prinze Jr., Regie Danny Cannon, neue Autoren- und Produktionscredits. Nur Fortsetzungsbezug in der Jahresvertiefung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-016-L1",
+      "year_question_id": "G150-20261103-HORROR-016-Y",
+      "director_question_id": "G150-20261103-HORROR-016-D"
+    },
+    {
+      "id": "HORROR-017",
+      "film_title_de": "Dagon",
+      "film_title_original": "Dagon",
+      "film_year": 2001,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 4,
+      "familiarity_reason": "Die Lovecraft-Adaption genießt ein eigenes Genrepublikum, ist aber gegenüber Gordons Re-Animator deutlich weniger allgemein präsent.",
+      "directors": [
+        "Stuart Gordon"
+      ],
+      "production_countries": [
+        "Spanien"
+      ],
+      "release_note": "Erstjahr 2001. Die zeitgenössische Sitges-Berichterstattung vom 13. Oktober 2001 bestätigt die Vorführung am Vortag. US-Videoauswertung 2002 ist später; Produktionskatalog und Festivalwerk führen Spanien 2001.",
+      "director_note": "Stuart Gordon alleiniger Regisseur, Dennis Paoli Drehbuchautor und Brian Yuzna Produzent. Kein gemeinsamer Hauptregiecredit.",
+      "country_note": "Spanische Produktion nach Film at Lincoln Center und H.P.Lovecraft-Festival; amerikanische Autoren/Regie und englische Dialoge ändern das Produktionsland nicht.",
+      "series": null,
+      "series_note": "Eigenständige Lovecraft-Verfilmung. Gordons weitere Adaptionen und Fantastic Factory-Produktionen sind keine nummerierte Dagon-Filmfolge.",
+      "series_sources": [
+        "https://hplfilmfestival.com/films/dagon",
+        "https://www.comingsoon.net/horror/news/745749-shock-qa-stanleys-master-horror-stuart-gordon"
+      ],
+      "sources": [
+        {
+          "key": "institut",
+          "url": "https://www.filmlinc.org/films/dagon/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Film-at-Lincoln-Center-Werktext gelesen: Spanien 2001, Gordon, zwei Paare, Paul/Ezra Godden, Uxia/Macarena Gómez, Fischmenschen und Wohlstand gegen Opfer. Dortige pauschale Insel-Bezeichnung nicht zum geographischen Detailziel gemacht."
+        },
+        {
+          "key": "festival",
+          "url": "https://hplfilmfestival.com/films/dagon",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indizierten Festivalwerktext gelesen:2001,Spanien, Gordon und Inspiration durch Dagon/The Shadow over Innsmouth; kein nummerierter Re-Animator-Nachfolger."
+        },
+        {
+          "key": "gordon",
+          "url": "https://www.comingsoon.net/horror/news/745749-shock-qa-stanleys-master-horror-stuart-gordon",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Gordon-Interview gelesen, besonders Dagon-Block: lange aufgeschobenes Projekt nach Re-Animator, schließlich Fantastic Factory/Spanien/Galicia, hauptsächlich The Shadow over Innsmouth statt nur Titelgeschichte. Die gerundete Erinnerung 20 Jahre nicht als exakter Produktionsabstand übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Dagon_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Plot und Cast gelesen: Ezequiel als letzter Mensch, Kultgeschichte, Uxias Tentakel, Pauls Herkunft und Unterwasserverwandlung. Keine unsichere Marktstartzählung aus Boxofficeabschnitt übernommen."
+        },
+        {
+          "key": "szene",
+          "url": "https://www.horrorguys.com/dagon-2001/",
+          "accessed_on": "2026-11-03",
+          "supports": "Brian Schells vollständige ausführliche Szenenbesprechung gelesen: Fisch/Goldhandel, Ezequiels Eltern, Uxias Körper, Pauls Cambarro-Herkunft, Selbstverbrennung und Kiemen im Unterwasserfinale."
+        },
+        {
+          "key": "sitges",
+          "url": "https://elpais.com/diario/2001/10/13/espectaculos/1002924002_850215.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössischen vollständig sichtbaren Festivalberichtanfang gelesen: Dagon enttäuschte am Vortag in Sitges; Film als Fantastic Factory-Produktion mit Stuart Gordon. Nur Datumsbeleg, keine ungelesenen übrigen Kritikabschnitte."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-017-L1",
+      "year_question_id": "G150-20261103-HORROR-017-Y",
+      "director_question_id": "G150-20261103-HORROR-017-D"
+    },
+    {
+      "id": "HORROR-018",
+      "film_title_de": "Der verbotene Schlüssel",
+      "film_title_original": "The Skeleton Key",
+      "film_year": 2005,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Kate Hudson, das Südstaatenhaus und die Schlusswendung sind im populären Mysteryhorror bekannt; die gestaffelten Körperidentitäten bleiben anspruchsvoller.",
+      "directors": [
+        "Iain Softley"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2005. Universal und Filmdienst bestätigen 2005; der Werkabgleich nennt den britischen Start 29. Juli vor dem US-Start 12. August 2005. Die Dreharbeiten 2004 sind nicht Erstveröffentlichung.",
+      "director_note": "Iain Softley alleiniger Regisseur; Ehren Kruger Drehbuchautor und Daniel Bobker Produzent. Herkunft des Regisseurs begründet keinen britischen Koproduktionscredit.",
+      "country_note": "USA nach Filmdienst und Werkabgleich. Einzelne deutsche Programmlisten ergänzen Deutschland; ohne hier gelesenen Firmen-/Koproduktionsnachweis wird diese abweichende Programmanzeige nicht zur führenden Länderquelle.",
+      "series": null,
+      "series_note": "Eigenständiger Mysteryhorror nach Originaldrehbuch; keine veröffentlichte nummerierte Filmfolge im Studiokatalog oder Regisseurinterview belegt.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/the-skeleton-key",
+        "https://www.horror.com/php/article-890-1.html"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/the-skeleton-key",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werktext gelesen: Caroline im Bayou, wachsender Glaube als Gefahr, Hauptcast, Regie Softley und Release Year 2005."
+        },
+        {
+          "key": "softley",
+          "url": "https://www.horror.com/php/article-890-1.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigentliche Softley-Interview gelesen: natürliche Figuren, Standort Louisiana, Darstellerwahl, John Hurts sprachlose Rolle, unveränderter Twist aus Krugers Drehbuch, örtliche Musik und Hoodoo-Abgrenzung. Nicht als Beleg für wirkliche Magiewirkung verwendet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Skeleton_Key",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Plot/Cast und relevante Produktionsabschnitte gelesen: Glaube als Voraussetzung, Luke als Komplize, Schutzkreis als Falle, Körperwechsel Cecile/Caroline und Justify/Ben/Luke. Erscheinungsjahr 2005 und USA."
+        },
+        {
+          "key": "kritik",
+          "url": "https://www.darkhorizons.com/review-the-skeleton-key/",
+          "accessed_on": "2026-11-03",
+          "supports": "Garth Franklins vollständige zeitgenössische Rezension gelesen: Glaube, psychosomatischer Zugang, Brickdust-Grenze, Louisiana und sprachloser John Hurt. Ihre pauschale Behauptung zur wirklichen Hoodoo-/Voodoo-Wirkung nicht übernommen."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/524740/der-verbotene-schlussel",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen offiziellen indizierten Werkeintrag: deutscher Titel, USA 2005, Pflegekraft/Plantagenhaus und Regie Softley."
+        },
+        {
+          "key": "kpax",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/62078",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen AFI-Werkkopf und Hauptcredits: K-Pax 2001, Iain Softley, psychiatrischer Patient und Arzt als Grundkonstellation. Nur zeitlicher Vergleich in Y."
+        },
+        {
+          "key": "identitaet",
+          "url": "https://fictionmachine.com/2021/05/08/review-the-skeleton-key-2005/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Kritik von Grant Watson gelesen: Figuren und Besetzung, frühere Körperwechsel über Kinder und Devereaux-Paar sowie Identitäten von Violet und Luke. Deutung der Rassendarstellung nicht als Tatsachenbehauptung zur wirklichen Religion übernommen."
+        },
+        {
+          "key": "ritual",
+          "url": "https://rustysoapbox.wordpress.com/2018/06/04/the-skeleton-key-2005-review-im-back/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Besprechung gelesen, besonders Schlussabschnitt: echter Luke in Bens Körper, Glauben als Voraussetzung, vermeintlicher Schutzkreis, Wechsel und Abtransport der alten Körper. Nicht überprüfte Religionsgeschichte, Drehzahlen und medizinische Vergleiche des Autors nicht verwendet."
+        },
+        {
+          "key": "kritik2025",
+          "url": "https://www.dreadcentral.com/editorials/522785/deconstructing-how-the-skeleton-key-depicts-african-spiritual-beliefs-and-3-films-that-do-it-better/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Skeleton-Key-Abschnitt von P. M. Raymond gelesen: Papa Justifys Wechsel von Ben zu Luke, Caroline/Violet als zweites Ritual und Glaube innerhalb der Filmregeln. Filmfiktion nicht als allgemeine Religionskunde dargestellt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-018-L1",
+      "year_question_id": "G150-20261103-HORROR-018-Y",
+      "director_question_id": "G150-20261103-HORROR-018-D"
+    },
+    {
+      "id": "HORROR-019",
+      "film_title_de": "Open Water",
+      "film_title_original": "Open Water",
+      "film_year": 2003,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die reduzierte Geschichte zweier zurückgelassener Taucher ist als kleiner Haihorror bekannt; Figurenentwicklung und Entstehung sind weniger präsent.",
+      "directors": [
+        "Chris Kentis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste öffentliche Vorführung 2003 beim Hamptons International Film Festival, vom Festivalrückblick ausdrücklich als HIFF 2003 bestätigt. Filmmaker nennt den dort gezeigten Rohschnitt. Sundance und US-Kinostart 2004 sind spätere Auswertungsstufen; deren häufige Jahresangabe ersetzt nicht das frühere öffentliche Jahr.",
+      "director_note": "Chris Kentis führte Regie, schrieb und schnitt. Laura Lau produzierte und arbeitete ebenfalls an der Kamera. Die enge gemeinsame Herstellung begründet keinen zweiten offiziellen Regiecredit.",
+      "country_note": "US-Produktion. Die karibischen Drehorte und der australische reale Ausgangsfall sind von der Produktionsnation zu trennen.",
+      "series": {
+        "name": "Open Water",
+        "position": 1,
+        "note": "Erster Film der unter Open Water vermarkteten Folge. Open Water 2: Adrift (2006) und Open Water 3: Cage Dive (2017) erzählen unabhängige Geschichten; die Zählung bezeichnet die Vertriebsreihe, keine fortgesetzte Figurenhandlung."
+      },
+      "series_note": "Die lose Reihe wird trotz unabhängiger Handlungen nummeriert. Die Lionsgate-Doppelauswertung von Teil 1/2 ist zeitgenössisch dokumentiert; die spätere Dreierfolge ist im gelesenen Reihenüberblick bestätigt.",
+      "series_sources": [
+        "https://www.dvdtalk.com/reviews/45374/open-water-open-water-2-adrift/",
+        "https://en.wikipedia.org/wiki/Open_Water_(film_series)"
+      ],
+      "sources": [
+        {
+          "key": "festival",
+          "url": "https://hamptonsfilmfest.org/25-years-25-films/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen Rückblick gelesen: Open Water gehört zum HIFF-Jahrgang 2003. Die Jubiläumsvorführung 2017 ist davon getrennt."
+        },
+        {
+          "key": "herstellung",
+          "url": "https://filmmakermagazine.com/archives/issues/winter2005/line_items/executive.php",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten Open-Water-Abschnitt von Mary Glucksman gelesen: Rohschnitt Hamptons 2003, Sundance 2004 und Rechteverkauf, eigene Finanzierung, zwei DV-Kameras und Schnitt zu Hause. Schwankende Budgetzahlen werden nicht abgefragt."
+        },
+        {
+          "key": "darsteller",
+          "url": "https://www.blackfilm.com/20040813/features/openwater.shtml",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Darstellerinterview von Todd Gilchrist gelesen: Rollen und Paarentwicklung, Verlust der Kontrolle, überwiegend geschriebenes Spiel, Haiarbeit und lange Wasseraufnahmen. Sichtung auf Sundance betrifft die persönliche erste vollständige Großbildsichtung von Travis, keine Weltpremiere."
+        },
+        {
+          "key": "kentis",
+          "url": "https://prod.transcripts.cnn.com/show/acd/date/2004-08-20/segment/00",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indizierten Open-Water-Interviewblock mit Kentis und Lau gelesen: eigenfinanzierte Herstellung, echte Haie, Schutzkleidung und Experten, gemeinsame Taucherfahrung und ungeklärtes reales Verschwinden als Ausgangspunkt. Übrige Nachrichtenthemen nicht verwendet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Open_Water_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Cast gelesen: fehlerhafte Zählung, zunächst erwartete Rückkehr, zunehmende Erschöpfung, Daniels Tod, Susans selbstgewähltes Untertauchen und Kamera im Haifischmagen. Länder- und leitende Credits mitgelesen."
+        },
+        {
+          "key": "disc",
+          "url": "https://www.dvdtalk.com/reviews/45374/open-water-open-water-2-adrift/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten Filmabschnitt beider Werke gelesen: Lionsgate-Doppelauswertung 2010, erste Figuren Ryan/Travis, zweite unabhängige Geschichte von 2006 ohne gleiche Figuren oder Besetzung. Fehlerhafte Namensschreibungen des zweiten Films nicht übernommen."
+        },
+        {
+          "key": "reihe",
+          "url": "https://en.wikipedia.org/wiki/Open_Water_(film_series)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen Reihenüberblick und Filmfolge: Original, Adrift und Cage Dive; zwei nur im Namen verbundene Nachfolger. Keine inhaltliche Fortsetzung behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-019-L1",
+      "year_question_id": "G150-20261103-HORROR-019-Y",
+      "director_question_id": "G150-20261103-HORROR-019-D"
+    },
+    {
+      "id": "HORROR-020",
+      "film_title_de": "Jennifer’s Body – Jungs nach ihrem Geschmack",
+      "film_title_original": "Jennifer's Body",
+      "film_year": 2009,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Megan Fox, Amanda Seyfried und die spätere Wiederentdeckung machen den Film wiedererkennbar; das Verhältnis von Ritual, Freundschaft und Machtwechsel ist anspruchsvoller.",
+      "directors": [
+        "Karyn Kusama"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Premiere beim Toronto International Film Festival im September 2009, bestätigt durch Film Independent und das zeitgenössische Kusama-Interview; der Werkabgleich nennt den 10. September. Offizieller US-Kinostart 18. September 2009.",
+      "director_note": "Karyn Kusama führte allein Regie. Diablo Cody schrieb das Drehbuch; Jason Reitman gehörte zum Produzententeam. Autorinnen- und Regierolle werden ausdrücklich getrennt.",
+      "country_note": "US-Produktion nach Festival- und Werkdaten. Der kanadische Drehort und die Premiere in Toronto begründen kein kanadisches Produktionsland.",
+      "series": null,
+      "series_note": "Zum Stichtag keine veröffentlichte nummerierte Fortsetzung in den geprüften Werkquellen. Ankündigungen eines möglichen Nachfolgers sind keine bereits veröffentlichte Filmfolge.",
+      "series_sources": [
+        "https://www.20thcenturystudios.com/movies/jennifers-body",
+        "https://www.filmindependent.org/press-releases/film-independent-and-mubi-present-a-live-read-of-jennifers-body/"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/jennifers-body",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werktext gelesen: Regie Kusama, Cody als Autorin, Cast, US-Start 2009 und Synopsis einschließlich Needys Ausbruch und Rache an der Band."
+        },
+        {
+          "key": "kusama",
+          "url": "https://filmmakermagazine.com/144-karyn-kusamas-jennifers-body-by-scott-macaulay/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen relevanten Interviewtext von Scott Macaulay gelesen: Genreton, weibliche Überlebensgeschichte, Jennifer zugleich Täterin und Opfer, bewusst spätere Enthüllung der Opferung, originäres Drehbuch und Toronto-Premiere. Aussagen über frühere Schnittfassungen nicht zur Handlung der Endfassung gemacht."
+        },
+        {
+          "key": "cody",
+          "url": "https://screenanarchy.com/2010/06/midnites-for-maniacs-diablo-cody-on-jennifers-body-2009.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Cody-Q&A von Michael Guillen gelesen: Ritualfehler wegen fehlender Jungfräulichkeit, komplizierte weibliche Antiheldinnen, beabsichtigte romantische Verbindung und Juno als früherer Stoff. Pauschale Aussage über keinerlei Horrorerfahrung aller Beteiligten nicht übernommen."
+        },
+        {
+          "key": "fox",
+          "url": "https://www.dreadcentral.com/news/12145/megan-fox-dishes-on-jennifer-s-body/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen vollständigen Text mit Fox-Zitaten: Band opfert Jennifer für einen Plattenvertrag, falsche Jungfräulichkeitsannahme und danach notwendiger Menschenfleischverzehr. Ungelesenes ursprüngliches MTV-Interview nicht als selbst gelesen ausgegeben."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jennifer%27s_Body",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Cast gelesen: Asylrahmen, Erzählrückblick, Ernährung/Regeneration, Chip, Halskette und Bissfolgen. Regie und Schauspielerrollen abgeglichen."
+        },
+        {
+          "key": "szene",
+          "url": "https://www.ashleyhajimirsadeghi.com/blog/jennifers-body-2009",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indizierten Handlungs- und Bewertungsabschnitt gelesen: Poolkampf, Chip, späterer Kampf im Schlafzimmer, abgerissene Freundschaftskette, Jennifers Nachlassen und Needys Festnahme. Für das Halskettenziel verwendet."
+        },
+        {
+          "key": "machado",
+          "url": "https://www.autostraddle.com/in-queer-horror-anthology-it-came-from-the-closet-carmen-maria-machado-considers-jennifers-body/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen vollständigen einschlägigen Essayauszug von Carmen Maria Machado: ungleiche Mädchenfreundschaft und Biss in die Schulter, der Kräfte dauerhaft auf Needy überträgt. Konkrete Szenenbeobachtungen von ihrer weitergehenden Sexualitätsdeutung getrennt."
+        },
+        {
+          "key": "festival",
+          "url": "https://www.filmindependent.org/press-releases/film-independent-and-mubi-present-a-live-read-of-jennifers-body/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen offiziellen Werkabschnitt: Toronto-Premiere, September 2009, Kusama und spätere kulturelle Wiederentdeckung. Live Read 2023 ist eine spätere Veranstaltung."
+        },
+        {
+          "key": "juno",
+          "url": "https://www.20thcenturystudios.com/movies/juno",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen vollständigen Werktext gelesen: Juno erschien 2007, Drehbuch Diablo Cody, Regie Jason Reitman. Nur dieser zeitliche und inhaltliche Vergleich wird verwendet."
+        },
+        {
+          "key": "titel",
+          "url": "https://www.filmstarts.de/kritiken/132052.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indizierten Werkeintrag gelesen: deutscher Titel, Regie und Hauptbesetzung. Synopsis nur für die Ausgangskonstellation, nicht die unpräzise Gleichzeitigkeit der Verwandlung verwendet."
+        },
+        {
+          "key": "presse",
+          "url": "https://www.film.tv/filme/2009/12390-jennifers-body-film.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Produktionsnotizen und Rollenliste gelesen: Cody über den Übergang von Juno zum dunkleren Stoff, Reitman/Kusama über Mädchenfreundschaft und Genreton, Nickname Needy, Verleihtitel. Behauptung Girlfight 1999 nicht übernommen; Film-Spezialeffekte nicht als selbst gesehenes Making-of ausgegeben."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-020-L1",
+      "year_question_id": "G150-20261103-HORROR-020-Y",
+      "director_question_id": "G150-20261103-HORROR-020-D"
+    },
+    {
+      "id": "HORROR-021",
+      "film_title_de": "From Hell",
+      "film_title_original": "From Hell",
+      "film_year": 2001,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Ripper-Verfilmung mit Johnny Depp und Heather Graham ist breit erkennbar; Schlussverwechslung, Vertuschung und Verhältnis zur Comicvorlage sind speziellere Inhalte.",
+      "directors": [
+        "Albert Hughes",
+        "Allen Hughes"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2001 nach BFI, IFFR und Filmdienst. US-Kinostart 19. Oktober 2001; die IFFR-Vorführung 2002 und der deutsche Kinostart 2002 sind später. Das Erstjahr wird nicht vom deutschen Start abgeleitet.",
+      "director_note": "Beide Brüder Albert Hughes und Allen Hughes führten Regie. Terry Hayes und Rafael Yglesias schrieben das Drehbuch. Die BFI-Schreibweise Raphael Iglesias wird nicht als abweichender Mitautor behandelt.",
+      "country_note": "USA nach den übereinstimmend gelesenen Werkdaten von BFI, IFFR und Filmdienst. Der sekundäre Werkartikel nennt zusätzlich Großbritannien und Tschechien; diese Erweiterung wird ohne hier vorliegenden Firmen-/Koproduktionsnachweis nicht übernommen. Der Prager Dreh und englische Schauplatz allein entscheiden keine Länderzuordnung.",
+      "series": null,
+      "series_note": "Eigenständige Verfilmung der Graphic Novel, keine nummerierte Spielfilmfortsetzung in den gelesenen Werk- und Produktionsquellen. Weitere Ripper-Verfilmungen bilden dadurch keine Reihe.",
+      "series_sources": [
+        "https://www.bfi.org.uk/film/cadf5397-eebf-5269-bb1d-a6fb56bd8369/from-hell",
+        "https://iffr.com/en/iffr/2002/films/from-hell"
+      ],
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/cadf5397-eebf-5269-bb1d-a6fb56bd8369/from-hell",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige BFI-Werkdaten gelesen: USA 2001, beide Hughes-Brüder als Regie, Produzenten und Hauptdarsteller. Fehlerhaft erscheinende Autorenschreibweise anhand der übrigen Quellen vereinheitlicht."
+        },
+        {
+          "key": "festival",
+          "url": "https://iffr.com/en/iffr/2002/films/from-hell",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Festivaltext und Werkdaten gelesen: USA 2001, beide Regisseure, Opiumvisionen Abberlines, Whitechapel und medizinische Spuren, in Prag rekonstruiertes London. Festivaledition 2002 nicht als Erstjahr übernommen."
+        },
+        {
+          "key": "presse",
+          "url": "https://www.cinema.com/articles/750/from-hell-production-notes.phtml",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige Story- und Produktionsabschnitte gelesen: bedrängte Frauen, Depp/Abberline und Coltrane/Godley, medizinischer Berater Gull, fiktionale Verschwörung und Whitechapel-Nachbau auf Prager Gelände durch Martin Childs. Keine historischen Wahrheitsansprüche aus Werbesprache abgeleitet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/From_Hell_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Filmhandlung und Cast gelesen: Ann/Alice und verborgene Heirat, Gull als Täter, geheim gehaltener Eingriff, braune Haarlocke statt Marys rotem Haar, Ada-Verwechslung, Marys Flucht und Abberlines Verzicht auf Nachreise."
+        },
+        {
+          "key": "adaption",
+          "url": "https://www.joblo.com/from-hell-wtf-adaptation/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Artikel von Andrew Hatfield gelesen, besonders Unterschiede der Erzählperspektive und des Endes: Film-Gull wird vom eigenen Rat lobotomiert, Abberline hält Marys Überleben geheim. Comic- und Filmende ausdrücklich getrennt."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/516256/from-hell",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige indizierte Werkdaten und sichtbaren Kritikabschnitt gelesen: deutscher Titel, USA 2001, Underworld Pictures, vollständige Regie und Autoren; formale Gestaltung als eigenständige Adaption. Nicht sichtbare Vollkritik nicht behauptet."
+        },
+        {
+          "key": "spaeter",
+          "url": "https://www.comingsoon.net/movies/features/61855-exclusive-the-return-of-the-hughes",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Interviewanfang vom 8. Januar 2010 gelesen: From Hell 2001, Rückkehr mit The Book of Eli 2010, zwischenzeitliche Werbearbeit und nicht verwirklichte Projekte. Nur dieser zeitliche Zusammenhang wird verwendet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-021-L1",
+      "year_question_id": "G150-20261103-HORROR-021-Y",
+      "director_question_id": "G150-20261103-HORROR-021-D"
     }
   ],
   "series_updates": [
