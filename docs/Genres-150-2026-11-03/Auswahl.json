@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 488 Filmfassungen mit 3904 Fragen lokal integriert. 13 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 489 Filmfassungen mit 3912 Fragen lokal integriert. 12 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -6353,16 +6353,19 @@
     },
     {
       "candidate_id": "C-129",
-      "film_title_de": "Knockabout",
+      "film_title_de": "Knockabout – Zwei Knochenbrecher rechnen ab",
       "film_title_original": "Za jia xiao zi",
       "film_year": 1979,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Zwei Gauner lernen zunächst bei einem gefährlichen Meister und finden später einen anderen Lehrer.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Zwei betrügerische Brüder geraten an einen Lehrer, der ihre neuen Fähigkeiten für eigene Verbrechen nutzen will. Der Wechsel zum zweiten Lehrer verbindet Vertrauensverlust mit einer besonders ausgearbeiteten akrobatischen Ausbildung.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-034"
     },
     {
       "candidate_id": "C-130",
