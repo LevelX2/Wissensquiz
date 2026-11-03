@@ -32133,6 +32133,487 @@
       "reference_question_id": "G150-20261103-ROMCOM-039-L1",
       "year_question_id": "G150-20261103-ROMCOM-039-Y",
       "director_question_id": "G150-20261103-ROMCOM-039-D"
+    },
+    {
+      "id": "ROMCOM-040",
+      "film_title_de": "Premam",
+      "film_title_original": "Premam",
+      "film_year": 2015,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 4,
+      "familiarity_reason": "Im Malayalam-Kino ein besonders bekannter Liebesfilm, im allgemeinen deutschsprachigen Publikum aber eine Entdeckung.",
+      "directors": [
+        "Alphonse Puthren"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "release_note": "Erstjahr 2015 nach zeitgenössischer Berichterstattung, Cast-/Produktionsdaten und deutschem Festivalprogramm; indischer Start 29. Mai 2015 nach Filmübersicht und rückblickender Originalkritik. Abweichender Datenbanktag im Juni ändert das sichere Erstjahr nicht. Der gleichnamige Telugu-Film 2016 ist eine neue Verfilmung.",
+      "director_note": "Alphonse Puthren verantwortet allein Regie, Drehbuch und Schnitt. Produzent Anwar Rasheed erhält hier keinen Regiecredit; verschiedene Umschriften Puthren/Putharen/Putharan meinen dieselbe Person.",
+      "country_note": "Indische Malayalam-Produktion nach konkretem deutschem Kino-/Festivalprogramm und Filmübersicht.",
+      "series": null,
+      "series_note": "Eigenständige Geschichte mit drei Lebensabschnitten innerhalb desselben Films. Die Telugu-Neuverfilmung von 2016 ist keine Fortsetzung und kein zweiter Teil dieser Handlung.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Premam",
+        "https://gulfnews.com/entertainment/south-indian/telugu-film-premam-a-remake-of-malayalam-blockbuster-1.1907960"
+      ],
+      "sources": [
+        {
+          "key": "filmdaten",
+          "url": "https://www.rottentomatoes.com/m/premam_2015",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Synopsis-/Cast-/Produktionsdatensatz gelesen: Nivin als George, Sai als Malar, Malar als Collegelehrerin, Regie und Produktion, Malayalam. Benutzerkritiken sichtbar, aber nicht als redaktionelle Primärkritik behandelt; Streamingdatum 2019 nicht als Filmjahr benutzt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Premam",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Handlung und Cast gelesen: Malar erkennt George bei Besuch nach Unfall nicht, spätere Wiederbegegnung mit Celine als zuvor Mary begleitendem Kind, weitere Entwicklung und Ende. M1/M2; eine ungesicherte biologische Schwesterbeziehung Celine/Mary wird nicht abgefragt. Meta Indien/Malayalam/2015 und Remake 2016."
+        },
+        {
+          "key": "poster",
+          "url": "https://www.newindianexpress.com/entertainment/malayalam/2015/Feb/17/tuneys-world-of-posters-718453.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen zeitgenössischen Bericht samt Tuney-John-Aussagen gelesen: Malayalam-Schriftzeichen als Schmetterlingsform, über zwanzig Entwürfe, Idee nach ersten Bildern, blaugrüner Retroton. S1; keine Abbildung als sichtbarer Lösungsgeber in Frage vorgesehen."
+        },
+        {
+          "key": "varma",
+          "url": "https://www.newindianexpress.com/entertainment/malayalam/2015/Apr/21/in-tune-with-premam-745060.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen zusammenhängenden eigenen Originalbericht mit Shabareesh Varma gelesen: Scene Contra zunächst Titelstück eines geplanten Kurzfilms, Puthrens Übernahmevorschlag und Rajeshs Orchestrierung, Varma auch Shambu-Darsteller; Zusammenarbeit bei Neram zwei Jahre zuvor. S2 und datierter Jahresanker."
+        },
+        {
+          "key": "nivin",
+          "url": "https://thefourthplate.com/2015/06/27/nivin-pauly-on-premam-superstardom-and-comparison-with-mohanlal/",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden veröffentlichten Interviewteil von Einführung bis Freundschaftsfragen sowie spätere konkrete Aluva-/Lebensvorbildfragen gelesen; Passage zur Arbeit im Schnittraum nicht vollständig angezeigt und nicht verwendet. Der Text bezeichnet sich als City-Times-Gespräch; hier als archivierte Interviewwiedergabe, nicht neuer unabhängiger Zweitbericht. D: langjährige Freundschaften und transparentes gemeinsames Arbeiten."
+        },
+        {
+          "key": "vikatan",
+          "url": "https://www.youtube.com/watch?v=o48pw4yuIuk",
+          "accessed_on": "2026-11-03",
+          "supports": "Nur die vollständige offizielle Cinema-Vikatan-Beschreibung des Regiegesprächs von 2020 gelesen, nicht das Video: Puthren als Autor/Regisseur/Cutter, Produzent Anwar Rasheed, Hauptcast und Lebensphasen. Enger Creditbeleg für D; keine Interviewantwort aus ungesehenem Video verwendet."
+        },
+        {
+          "key": "babylon",
+          "url": "https://babylonberlin.eu/images/pdfs/indogerman2025_programm8s_4.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Premam-Programmeintrag im PDF-Suchindex gelesen: Titel Premam, Malayalam, IND 2015, Alphonse Puthren. Nicht den gesamten Festivalplan als recherchiert bezeichnet; spätere Vorführung kein Erstjahr."
+        },
+        {
+          "key": "remake",
+          "url": "https://gulfnews.com/entertainment/south-indian/telugu-film-premam-a-remake-of-malayalam-blockbuster-1.1907960",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete zusammenhängende eigene Einführung und Remakebeschreibung im Suchindex gelesen: Malayalam-Original 2015, drei Frauen und Nivin, folgende Telugu-Neuverfilmung mit teilweise wiederkehrender Besetzung. Nur Fassungs-/Reihenabgrenzung, kein neuer Teil."
+        },
+        {
+          "key": "sai",
+          "url": "https://www.deccanchronicle.com/150608/entertainment-mollywood/article/malar-captures-malayali-hearts",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigenes Sai-Pallavi-Gespräch gelesen: Medizinstudium in Georgien, zunächst für Scherz gehaltener Facebook-Kontakt, Anruf bei ihrer Mutter und Wiedererkennen Puthrens als Neram-Regisseur. Individueller Besetzungshintergrund im L2-Kontext; keine medizinische Filmhandlung daraus abgeleitet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-040-L1",
+      "year_question_id": "G150-20261103-ROMCOM-040-Y",
+      "director_question_id": "G150-20261103-ROMCOM-040-D"
+    },
+    {
+      "id": "ROMCOM-041",
+      "film_title_de": "Hasee Toh Phasee",
+      "film_title_original": "Hasee Toh Phasee",
+      "film_year": 2014,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 4,
+      "familiarity_reason": "Eine zugängliche Hindi-Liebeskomödie mit bekannten Darstellern, im breiteren deutschsprachigen Filmwissen aber weniger verbreitet.",
+      "directors": [
+        "Vinil Mathew"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "release_note": "Erstjahr 2014 nach amtlichem australischem Datensatz, zeitgenössischen Interviews und Produktionsankündigung. Indischer/internationaler Start üblicherweise 7. Februar; ein früherer Neuseeland-Tag liegt ebenfalls 2014. Der im Dezember 2013 veröffentlichte Trailer ist nicht der erste öffentliche Langfilmstart.",
+      "director_note": "Vinil Mathew ist alleiniger Regisseur. Die vier Produzenten Karan Johar, Anurag Kashyap, Vikas Bahl und Vikramaditya Motwane haben hier keine gemeinsame Hauptregie; Harshavardhan Kulkarni schrieb Geschichte und Drehbuch, mehrere Mitwirkende die Dialoge.",
+      "country_note": "Indien/Hindi nach vollständigem konkretem Australian-Classification-Datensatz; Dharma und Phantom als Produktionsfirmen.",
+      "series": null,
+      "series_note": "Eigenständige Geschichte ohne belegte nummerierte Folge. Gleiche Hauptdarsteller in Jabariya Jodi oder Mathews späterer Haseen Dillruba begründen keine Filmreihe.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Hasee_Toh_Phasee",
+        "https://dharma-production.com/movie/hasee-toh-phasee_2014"
+      ],
+      "sources": [
+        {
+          "key": "dharma",
+          "url": "https://dharma-production.com/movie/hasee-toh-phasee_2014",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkrete offizielle Synopsis gelesen: Meeta/Parineeti, Nikhil/Sidharth, Karishma als Schwester, Hochzeitsauftrag und Unterbringung im Familienhaus. Der pauschale Jahrzehnt-Zeitraum wird nicht gegen präzisere Angaben als exakte Zahl abgefragt. L1/L2 und Ausgangslage."
+        },
+        {
+          "key": "netflix",
+          "url": "https://www.netflix.com/de/title/70302193",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten offiziellen deutschen Titel-/Filmtext im Suchindex gelesen: unveränderter Titel Hasee Toh Phasee, 2014, Cast, Auftrag zur Betreuung der Schwester und ausdrückliches Genre romantische Komödie. Kein Film angesehen."
+        },
+        {
+          "key": "amt",
+          "url": "https://www.classification.gov.au/titles/hasee-toh-phasee-0",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten amtlichen Langfilm-Datensatz im Suchindex gelesen: 2014, Vinil Mathew, vier Produzenten, Dharma, Indien, Hindi und DCP-Langfilm. Separaten zweiminütigen Werbeeintrag vom Dezember 2013 als Trailer erkannt und nicht für Filmjahr verwendet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Hasee_Toh_Phasee",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Handlung und Cast gelesen: Forschungsdarlehen mit gefälschter Unterschrift des Vaters, beabsichtigter erneuter Zugriff auf dessen Geld, Geständnis und Vergebung, Eltern-/Schwestercredits. M1/M2 und Caststütze; unsicherer medizinischer Diagnosebegriff bewusst nicht verwendet."
+        },
+        {
+          "key": "screen",
+          "url": "https://indianexpress.com/article/entertainment/screen/getting-experimental-2/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges schriftliches Originalgespräch von Einleitung bis Schlussfrage gelesen: bewusste cartoonhafte Mimik, fünf Varianten pro Einstellung zur Tonabstimmung, Familienbesetzung und Wahl des Paarfinales. S1. Aussagen zu vermeintlich ärztlich bestätigter Diagnose nicht als medizinisches Wissen übernommen."
+        },
+        {
+          "key": "bollyspice",
+          "url": "https://bollyspice.com/director-vinil-mathew-hasee-toh-phasee/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges veröffentlichtes schriftliches Mathew-Gespräch gelesen: Mandarinpassagen mit Unterricht durch zwei malaysische Schauspielerinnen, Cynthia und Mayjune; Produktions-/Castdaten und Startankündigung. S2; keine Behauptung, Chopra beherrsche anschließend die ganze Sprache. Genaues Wortlaut-Material als publiziertes Gespräch, nicht nachträglicher eigener Filmtest."
+        },
+        {
+          "key": "rediff",
+          "url": "https://www.rediff.com/movies/slide-show/slide-show-1-parineeti-chopra-is-a-big-drama-queen/20140206.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges zusammenhängendes Sonil-Dedhia-Originalinterview gelesen: Mathews Debüt nach über 250 Werbefilmen, FTII, Produzentenrollen, Shweta als Cutterin und Ehefrau, Malhotras Besetzung bereits vor Student-of-the-Year-Start. D; keine exakten privaten Beziehungsdaten als Ziel verwendet."
+        },
+        {
+          "key": "soty",
+          "url": "https://dharma-production.com/movie/student-of-the-year_2012",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten offiziellen Student-of-the-Year-Datensatz im Suchindex gelesen: 2012, Sidharth Malhotra/Abhimanyu und konkurrierende Schulfiguren. Ausschließlich datierter Jahresanker zur folgenden anderen Filmrolle 2014."
+        },
+        {
+          "key": "trailer",
+          "url": "https://www.youtube.com/watch?v=Xv5MG0LhaP4",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Dharma-Trailerbeschreibung gelesen: Vinil Mathew, Sidharth als Nikhil, Parineeti als Meeta, angekündigter Start Februar 2014. Kein Trailer als angesehen behauptet; Veröffentlichung der Werbung 2013 vom Langfilm getrennt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-041-L1",
+      "year_question_id": "G150-20261103-ROMCOM-041-Y",
+      "director_question_id": "G150-20261103-ROMCOM-041-D"
+    },
+    {
+      "id": "ROMCOM-042",
+      "film_title_de": "Du liebst mich, du liebst mich nicht",
+      "film_title_original": "Jaane Tu... Ya Jaane Na",
+      "film_year": 2008,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 4,
+      "familiarity_reason": "Die Hindi-Jugendkomödie gehört zu Imran Khans prägenden Filmen, ist im allgemeinen deutschsprachigen Filmwissen aber eine Entdeckung.",
+      "directors": [
+        "Abbas Tyrewala"
+      ],
+      "production_countries": [
+        "Indien"
+      ],
+      "release_note": "Erstveröffentlichung 2008, zeitgenössisch für den 4. Juli angekündigt und durch Produktionssynopsis, Box Office India und den Jubiläumsbericht bestätigt. Kein früherer Festivalstart in den geprüften konkreten Filmquellen belegt.",
+      "director_note": "Hauptregie, Drehbuch und Liedtexte Abbas Tyrewala. Pakhi Tyrewala übernahm nach seinem Originalinterview Casting und die Inszenierung eines Liedes; dies ist ein gesonderter Sequenzbeitrag, keine gemeinsame Hauptregie. Aamir und Mansoor Khan produzierten.",
+      "country_note": "Indien nach deutschem Filmprogrammdatensatz und Filmcredits.",
+      "series": null,
+      "series_note": "Eigenständiger Film. Tyrewalas später geäußerter Wunsch nach drei Filmen über verschiedene Lebensphasen belegt keine abgeschlossene nummerierte Fortsetzungsreihe.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Jaane_Tu..._Ya_Jaane_Na",
+        "https://indianexpress.com/article/news-archive/web/the-boy-who-grew-up-telling-stories/"
+      ],
+      "sources": [
+        {
+          "key": "produktion",
+          "url": "https://www.akpfilms.com/jaanetu_story.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Den zusammenhängenden konkreten Einleitungsabschnitt der offiziellen Produktionssynopsis im Suchindex gelesen: Flughafenrahmen, skeptische Mala, erzählende Freunde, gewaltloser Jai und temperamentvolle Aditi; Startankündigung Juli 2008. Direkter Seitenaufruf scheiterte mehrfach; keine vollständige Websitelektüre behauptet. L2/S1."
+        },
+        {
+          "key": "filmprogramm",
+          "url": "https://www.fernsehserien.de/filme/du-liebst-mich-du-liebst-mich-nicht",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten deutschen Filmtext im Index gelesen: deutscher und ursprünglicher Titel, Indien 2008, gegensätzliche Freunde, gegenseitige Partnersuche, Besetzung und spätere Trennung. Die abweichende Laufzeit wird nicht übernommen. L1/M1 und Metadaten."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jaane_Tu..._Ya_Jaane_Na",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Handlung und Cast sowie konkrete Credits gelesen: Sushants Gewalt, Aditis Trennung, Jai/Imran, Aditi/Genelia, Sushant/Ayaz und Mala/Renuka. M2 und Caststütze; keine pauschale Behauptung eines ersten Drehbuchs übernommen."
+        },
+        {
+          "key": "gespraech",
+          "url": "https://www.filmibeat.com/bollywood/features/2008/abbas-tyrewala-interview-250608.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges veröffentlichtes Originalgespräch von Nikhil Ramsubramani/Bollywood Hungama in der Filmibeat-Veröffentlichung gelesen: Probendreh zur Verständigung mit Aamir, spätere gestalterische Freiheit, Hauptregie, eigene Liedtexte zur Musik A. R. Rahmans, Pakhis gesonderter Lied-/Castingbeitrag. S2/D; kein zweites Quellenbudget für diese Wiederveröffentlichung angenommen."
+        },
+        {
+          "key": "jubilaeum",
+          "url": "https://www.cinemaexpress.com/hindi/news/2024/Jul/05/imran-khan-genelia-dsouza-sing-jaane-tu-ya-jaane-na-as-the-film-completes-16-years",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Jubiläumsbericht gelesen: Filmstart 2008, mehrfach verwendete Liedverbindung zu Manmohan Desais Aa Gale Lag Jaa von 1973 und beschriebenes AKP-Jubiläumsvideo. Das Video selbst nicht als angesehen behauptet. Y."
+        },
+        {
+          "key": "musikarchiv",
+          "url": "https://mediatheques.agglo-larochelle.fr/doc/MUSICME/oai-1301515461-9815/aa-gale-lag-jaa",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Bibliotheks-/Musiklizenzdatensatz im Index gelesen: Aa Gale Lag Jaa, Universal Music India, 1973. Zusätzliche Datierung der musikalischen Rückverbindung für Y, keine Liedtexte übernommen."
+        },
+        {
+          "key": "lebensphasen",
+          "url": "https://indianexpress.com/article/news-archive/web/the-boy-who-grew-up-telling-stories/",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Interviewabschnitt im Index gelesen: gewünschte Filme zu Zeit nach dem College, vor und nach der Heirat; eine dritte Idee wird als noch nicht terminierter Wunsch beschrieben. Nur Abgrenzung einer hypothetischen thematischen Folge von einer existierenden Fortsetzungsreihe."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-042-L1",
+      "year_question_id": "G150-20261103-ROMCOM-042-Y",
+      "director_question_id": "G150-20261103-ROMCOM-042-D"
+    },
+    {
+      "id": "ROMCOM-043",
+      "film_title_de": "Love & Friendship",
+      "film_title_original": "Love & Friendship",
+      "film_year": 2016,
+      "subdomain": "Rom-Com",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Eine namhaft besetzte Austen-Verfilmung, deren satirische Eigenart besonders Literatur- und Autorenfilmfreunden bekannt ist.",
+      "directors": [
+        "Whit Stillman"
+      ],
+      "production_countries": [
+        "Irland",
+        "Frankreich",
+        "Niederlande"
+      ],
+      "release_note": "Erstjahr 2016 einschließlich Sundance-Weltpremiere im Januar; europäische Premiere beim IFFR 2016. Spätere Kinostarts nicht als Erstjahr verwendet.",
+      "director_note": "Whit Stillman führte allein Regie und schrieb die Adaption. Die wiederkehrenden Schauspieler aus The Last Days of Disco spielen hier andere Figuren.",
+      "country_note": "Irland/Frankreich/Niederlande nach Sundance und IFFR sowie den beteiligten Produktions-/Förderfirmen. BFI ergänzt USA/Großbritannien, Apple darüber hinaus Kanada; die hier geführte engere Produktionsländergruppe folgt den beiden konkreten Festivaldatensätzen.",
+      "series": null,
+      "series_note": "Eigenständige Austen-Adaption; Besetzungswiederkehr aus Stillmans früheren Filmen ist keine Fortsetzungsidentität. Nicht mit seiner früheren thematischen Filmtrilogie gleichgesetzt.",
+      "series_sources": [
+        "https://iffr.com/nl/iffr/2016/films/love-friendship",
+        "https://www.slantmagazine.com/film/interview-whit-stillman-on-jane-austen-and-love-and-friendship/"
+      ],
+      "sources": [
+        {
+          "key": "sundance",
+          "url": "https://www.sundance.org/blogs/sundance-institute-completes-feature-film-lineup-for-2016-sundance-film-festival-3/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Love-&-Friendship-Eintrag im Festivalindex gelesen: Weltpremiere 2016, Irland/Frankreich/Niederlande, Whit Stillman, Kate Beckinsale und weitere Hauptdarsteller, Suche nach Ehemännern. L1/L2 und Metadaten, nicht sämtliche anderen Filme der langen Meldung."
+        },
+        {
+          "key": "iffr",
+          "url": "https://iffr.com/nl/iffr/2016/films/love-friendship",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Filmeintrag gelesen: europäische Premiere 2016, drei Länder, Originaltitel, Hauptregie/Drehbuch, Produktionsfirmen und Besetzung. Eigene Festivalbeschreibung der Liebessatire unterstützt Genre und Arthouse-Begründung."
+        },
+        {
+          "key": "presse",
+          "url": "https://frenetic.ch/media/films/974/pro/loveandfriendship-presskit-de.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Titelseite, Synopsis und vollständigen zusammenhängenden Inhaltsabschnitt Seiten 2–4 gelesen: Fredericas Widerstand gegen Sir James, Reginalds Einmischung, Susans spätere Heirat mit Sir James und neue Verbindung der Tochter. M1/M2. Den biografischen Austen-Abschnitt mit erkennbar fehlerhafter Werkzuordnung nicht verwendet; keine Volllektüre aller 16 Seiten behauptet."
+        },
+        {
+          "key": "scenecreek",
+          "url": "https://scenecreek.com/interview-whit-stillman-on-love-friendship/",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden Originalinterviewteil von Beginn durch die Romanisierungsfrage gelesen: Mrs. Cross als neue Gesprächspartnerin, räumliche Trennung zu Alicia und Umformung von Briefen in Begegnungen. S1."
+        },
+        {
+          "key": "slant",
+          "url": "https://www.slantmagazine.com/film/interview-whit-stillman-on-jane-austen-and-love-and-friendship/",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden Originalinterviewbeginn einschließlich Fragen zur Briefadaption, Mrs. Cross und schnellen Figuren-/Texteinblendungen gelesen: Kelly Campbell als Mrs. Cross, Stillmans erklärter Vorrang von Ton und Figurenwelt vor sofortigem Merken aller Angaben. S2 und Caststütze; späterer Interviewrest nicht vollständig abrufbar."
+        },
+        {
+          "key": "credits",
+          "url": "https://www.motionpictures.org/2016/05/writer-director-whit-stillman-his-jane-austen-comedy-love-friendship/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Mark-Jenkins-Interviewtext gelesen: frühere Zusammenarbeit Beckinsale/Sevigny 1998, eigener Austen-Zugang, barocke Musikauswahl, Schnitt in Paris mit Sophie Corra und Cherubini-Aussprache. Y/D; keine Musikwerke aus unsichtbaren Filmsequenzen erfunden."
+        },
+        {
+          "key": "screenireland",
+          "url": "https://www.screenireland.ie/news-archive/view/2960",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkrete Love-&-Friendship-Abschnitte der Fördermeldung im Index gelesen: Weltpremiere Sundance 2016, Wiederbegegnung der beiden Schauspielerinnen mit Stillman nach The Last Days of Disco und vollständige Filmproduktions-/Förderfirmen. Y und Metadaten."
+        },
+        {
+          "key": "cast",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Friendship",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete Credits und Handlungsbeginn gelesen: Morfydd Clark/Frederica, Tom Bennett/Sir James, Xavier Samuel/Reginald, Chloë Sevigny/Alicia. Ergänzende Rollenidentifikation, nicht führender Länderbeleg."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-043-L1",
+      "year_question_id": "G150-20261103-ROMCOM-043-Y",
+      "director_question_id": "G150-20261103-ROMCOM-043-D"
+    },
+    {
+      "id": "ROMCOM-044",
+      "film_title_de": "Viel Lärm um nichts",
+      "film_title_original": "Much Ado About Nothing",
+      "film_year": 1993,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Die international prominent besetzte Shakespeare-Komödie gehört zu Branaghs bekannten frühen Filmen.",
+      "directors": [
+        "Kenneth Branagh"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Erstjahr 1993 nach AFI, Cannes, Yale und British Council. New Yorker Kinostart am 7. Mai 1993 nach AFI-Details; Cannes-Wettbewerb ebenfalls 1993. Die pauschale AFI-History-Behauptung Cannes vor dem Kinostart ist mit diesen konkreten Daten nicht vereinbar und wird nicht übernommen.",
+      "director_note": "Alleinige Hauptregie Kenneth Branagh; Andrew Marcus ist im AFI als Second-Unit-Regisseur und Cutter getrennt aufgeführt.",
+      "country_note": "Großbritannien/USA nach detailliertem AFI-Datensatz; Cannes und ACMI nennen verkürzt nur Großbritannien. Italien ist belegter Drehort und wird deshalb nicht zum Produktionsland erklärt.",
+      "series": null,
+      "series_note": "Eigenständige Shakespeare-Adaption. Andere Bühnen-/Filmfassungen desselben Stücks und Branaghs weitere Shakespeare-Filme sind keine nummerierte Fortsetzung dieser Handlung.",
+      "series_sources": [
+        "https://web.library.yale.edu/film/notes/fn00009",
+        "https://catalog.afi.com/Catalog/moviedetails/59609"
+      ],
+      "sources": [
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/much-ado-about-nothing/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Festivalfilmtext im Index gelesen: Wettbewerb 1993, Hauptregie und Credits, Beatrice/Thompson, Don John/Reeves, Don Pedro/Washington, zwei Liebespaare und gegensätzliche Intrigen. L1/L2, keine Laufzeitfrage."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59609",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkrete Credits, Detaildaten und zusammenhängende Synopsis im Suchindex gelesen: Margaret/Borachio-Fenstertrick, getrennte arrangierte Lauschszenen, Cast, Länder und 7. Mai 1993. M1/S1; der direkte Alternativseitenaufruf scheiterte, Indextext war vollständig verfügbar. Kein historisch gesicherter Mona-Lisa-Drehortmythos als Fakt übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Much_Ado_About_Nothing_(1993_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Handlung und Cast gelesen: öffentliche Zurückweisung Heros, Beatrices Forderung, Benedicks Herausforderung, entdeckte Intrige. M2 und Rollenstütze."
+        },
+        {
+          "key": "yale",
+          "url": "https://web.library.yale.edu/film/notes/fn00009",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Archer-Neilson-Filmnotiztext gelesen: 1993, Henry V 1989, internationaler Cast, toskanische Villa, bewusst offene Zeit, Schlussaufnahme mit Andy Shuttleworths Wechsel auf einen Kran. S2/Y, keine Minuten-/Takezahlen abgefragt."
+        },
+        {
+          "key": "britishcouncil",
+          "url": "https://www.britishcouncil.hk/sites/default/files/2016-04-19-bc-shakeslives-branagh-leaflet.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängende konkrete Ausstellungsabschnitte Henry V, Renaissance und Much Ado bis Seite 6 gelesen: Regie, Schauspiel und Textbearbeitung Branaghs, Kürzen/Umordnen, internationale Besetzung mit eigenen Akzenten. D und zeitlicher Anker; spätere restliche Shakespeare-Filmabschnitte nicht vollständig gelesen."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/much-ado-about-nothing-1993",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden eigenen Kritikbeginn im Suchindex gelesen: zwei gegensätzliche Liebespaare, Verstecke/Lauschen und ausgelassener Erzählton. Nur zusätzliche Einordnung zu S1, keine vollständige direkte Seitenlektüre behauptet; Direktaufruf 403."
+        },
+        {
+          "key": "acmi",
+          "url": "https://www.acmi.net.au/works/84809--much-ado-about-nothing/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Sammlungsdatensatz gelesen: Jahr/Hauptregie und ausdrückliche romantische Komödie. Der dort irrtümlich Claudio zugeordnete Bruder Don John wird nicht übernommen; AFI und Filmhandlung führen ihn als Don Pedros Halbbruder."
+        },
+        {
+          "key": "filmvergleich",
+          "url": "https://www.cliffsnotes.com/literature/m/much-ado-about-nothing/critical-essays/introduction-to-the-1993-film-much-ado-about-nothing",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene konkrete Gegenüberstellung von Bühne und Branagh-Film gelesen: verkürzte Lauschvorbereitungen, Benedicks Klappstuhlmissgeschick und anschließend überblendete Schaukel-/Brunnenbilder. S1, bewusst kein bloßer Bühnenplot als Filmbeweis."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-044-L1",
+      "year_question_id": "G150-20261103-ROMCOM-044-Y",
+      "director_question_id": "G150-20261103-ROMCOM-044-D"
+    },
+    {
+      "id": "ROMCOM-045",
+      "film_title_de": "Die Schwester der Braut",
+      "film_title_original": "Holiday",
+      "film_year": 1938,
+      "subdomain": "Rom-Com",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Hepburn-Grant-Komödie ist ein etablierter Klassiker, im breiten Filmwissen aber weniger präsent als ihre spätere gemeinsame Philadelphia Story.",
+      "directors": [
+        "George Cukor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1938 nach AFI, Sony, Film at Lincoln Center und Criterion; regulärer US-Start nach AFI am 15. Juni. Filmfassungen von 1930 und 1938 getrennt; die im deutschen Fernsehbereich teilweise geführte 1937-Angabe wird nicht übernommen.",
+      "director_note": "Alleinige Regie George Cukor. Drehbuchcredits Donald Ogden Stewart und Sidney Buchman bleiben vollständig erhalten, auch wenn Cukor später Stewarts Anteil hervorhob.",
+      "country_note": "USA nach vollständigen konkreten AFI-/Filmlinc-Datensätzen.",
+      "series": null,
+      "series_note": "Zweite Verfilmung von Philip Barrys Stück, keine Fortsetzung des Films von 1930. The Philadelphia Story ist eine andere Barry-Adaption mit wiederkehrenden Mitwirkenden, keine Handlungsteilnummer.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/4592-HOLIDAY",
+        "https://www.criterion.com/films/28829-holiday"
+      ],
+      "sources": [
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/holiday",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkrete offizielle Synopsis im Suchindex gelesen: 1938, Johnny/Cary Grant, Julia/Doris Nolan, geplante Auszeit und ihr Wunsch nach Arbeit in der väterlichen Bank, Linda/Hepburn. L1/L2. Der Vorname der Schauspielerin ist dort verkürzt falsch geschrieben; korrekte Schreibweise Katharine nach Credits."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/4592-HOLIDAY",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Synopsis sowie Credits, History und konkrete Detaildaten gelesen: USA 1938, Cast, Johnny/Linda an Bord, Potter-Ehepaar, frühere Fassung 1930 und Theaterquelle 1928. M2, Metadaten und Rollenstütze. Keine Jahreszahl aus dem abweichenden deutschen Fernsehdatensatz übernommen."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/current/posts/6752-holiday-play-mates",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden Dana-Stevens-Essay von Beginn bis einschließlich körperlicher Paarstunts gelesen: Hepburn als Bühnen-Understudy, Szenenwahl beim Vorsprechen 1932, Cukors Unterstützung, Kinderzimmer als Gegenraum zum offiziellen Fest, familiäre Bindung an die verstorbene Mutter. S1/D, keine vollständige Lektüre des späteren Essayrests behauptet."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/153807/holiday-1938-holiday-the-1938-version-by-george-cukor-on-dvd",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen David-Kalat-Filmtext gelesen: Arbeits-/Auszeitidee, Interessenkonflikt, Rückkehr des Teams bei The Philadelphia Story. M1/Y. Der widersprüchliche Absatz mit Bühnenjahr 1929 und Erstfilm zwei Jahre später wird gegen AFI 1928/1930 nicht verwendet; spätere Erfolgserzählung nicht als eindeutiger Kassenerfolg dieses Films übernommen."
+        },
+        {
+          "key": "post",
+          "url": "https://www.postmagazine.com/Publications/Post-Magazine/2019/March-April-2019/Restoration-1938s-I-Holiday-I-.aspx",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Original-Restaurierungsbericht im tatsächlichen Suchindex der ausführlichen .aspx-Adresse samt Aussagen von Rita Belda und Sheri Eisenberg gelesen: verlorene Originalelemente, 35-mm-Nitrat-Duplikatnegativ und Nitratkopie von 1941, 4K-Scans, Kombination von Bildteilen zur Schadensbehebung. Bisherige verkürzte URL beim Gegenabruf nicht mehr erreichbar; identischen Originaltext unter der geführten Adresse geprüft. S2."
+        },
+        {
+          "key": "filmlinc",
+          "url": "https://www.filmlinc.org/films/holiday-cukor/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Filmprogrammtext gelesen: Cukor, USA 1938, sozialer Wohlstandskonflikt, Grant/Hepburn/Nolan und romantische Komödie. Ergänzende filmhistorische Classics-Begründung."
+        },
+        {
+          "key": "deutsch",
+          "url": "https://www.cineplex.de/erding/film/die-schwester-der-braut-27221000012FWBXJYB",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten vollständigen Filmdatenteil im Index gelesen: deutscher Titel Die Schwester der Braut, USA 1938, George Cukor. Deutscher Titel zusätzlich mit deutschem Kritikeintrag abgeglichen."
+        },
+        {
+          "key": "philadelphia",
+          "url": "https://www.criterion.com/films/28829-holiday",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Einführungstext und Versionshinweis im Index gelesen: 1938, zwei Jahre vor The Philadelphia Story, zweite Verfilmung des 1928er Stücks und gesonderter Film von 1930. Y und Reihenabgrenzung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-045-L1",
+      "year_question_id": "G150-20261103-ROMCOM-045-Y",
+      "director_question_id": "G150-20261103-ROMCOM-045-D"
     }
   ],
   "series_updates": [

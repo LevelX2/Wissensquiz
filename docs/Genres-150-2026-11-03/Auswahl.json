@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 451 Filmfassungen mit 3608 Fragen lokal integriert. 50 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 457 Filmfassungen mit 3656 Fragen lokal integriert. 44 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -4238,10 +4238,11 @@
       "genre": "Rom-Com",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Malayalam-Romanze mit komischen Episoden aus verschiedenen Liebesphasen eines Mannes.",
+      "selection_reason": "Die humorvolle, episodische Liebesgeschichte folgt einem Mann vom jugendlichen Schwärmen über eine Collegebeziehung bis ins Erwachsenenleben und erweitert den Hindi-/Westkino-Schwerpunkt um Malayalam-Kino.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-040"
     },
     {
       "candidate_id": "B-141",
@@ -4251,23 +4252,25 @@
       "genre": "Rom-Com",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Hochzeitsvorbereitungen und eine exzentrische Außenseiterin verschieben eine geplante Beziehung.",
+      "selection_reason": "Ein Hochzeitsauftrag bringt den unentschlossenen Bräutigam seiner eigenwilligen künftigen Schwägerin näher. Familienzugehörigkeit, berufliche Unsicherheit und gegenseitige Unterstützung tragen die komische Liebesgeschichte.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-041"
     },
     {
       "candidate_id": "B-142",
-      "film_title_de": "Jaane Tu… Ya Jaane Na",
+      "film_title_de": "Du liebst mich, du liebst mich nicht",
       "film_title_original": "Jaane Tu... Ya Jaane Na",
       "film_year": 2008,
       "genre": "Rom-Com",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein befreundetes Paar erkennt seine Bindung erst beim Versuch, andere Partner zu finden.",
+      "selection_reason": "Eine Freundesgruppe deutet eine zunächst bestrittene Liebe. Die komische Partnersuche verbindet ein gegensätzliches Paar mit einem ausdrücklich erzählten Rückblick und musikalischen Liebeserklärungen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-042"
     },
     {
       "candidate_id": "B-143",
@@ -4277,12 +4280,13 @@
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Austen-Adaption mit taktischer Heiratsplanung und einer selbstbewussten gesellschaftlichen Außenseiterin.",
+      "selection_reason": "Die romantischen Heiratspläne werden als ökonomische und sprachliche Machtspiele erzählt. Stillmans konzentrierte Dialogregie, ironische Figurenporträts und eigenständige Umformung des Briefromans begründen zugleich die Arthouse-Zuordnung.",
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-043"
     },
     {
       "candidate_id": "B-144",
@@ -4292,10 +4296,11 @@
       "genre": "Rom-Com",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Shakespeare-Komödie über arrangierte Missverständnisse und gegensätzliche Paardynamiken.",
+      "selection_reason": "Zwei Liebespaare erfahren gegensätzliche Formen der Täuschung: Freunde fördern eine bestrittene Zuneigung, während eine Intrige eine andere Verbindung zerstören soll. Wortwitz und körperliche Komik tragen die zugängliche Literaturadaption.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-044"
     },
     {
       "candidate_id": "B-145",
@@ -4305,10 +4310,13 @@
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Verlobter entdeckt den Gegensatz zwischen gesellschaftlichem Aufstieg und freiem Leben.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Partnerwahl macht eine Grundfrage des Lebensentwurfs sichtbar: Soll Arbeit immer weiteres Vermögen erzeugen oder auch eine freie Zeit ermöglichen? Der Screwball-Klassiker verbindet romantische Neuorientierung, Familienkomik und Kritik an Statusdenken.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-045"
     },
     {
       "candidate_id": "B-146",
