@@ -2570,3 +2570,8 @@ Sechs Dramen mit 48 Fragen integriert, 47 neue globale Ziele und eine Personenva
 #### Fortsetzung 03.11.2026 – Western W21
 
 Sechs Western mit 48 neuen Zielen integriert; Western 139, Arthouse 141, Classics 210. Vollständige zentrale und unabhängige Gegenlesung; zwei unglaubhafte Antwortalternativen ersetzt und Cast-Erstnennungen ergänzt. Der elektrische Reiter mit TCM/Universal und zusätzlicher Szenenchronik verbreitert. Drei Amigos mit exakter Kandidaten-ID auf kanonischen Originaltitel samt Interpunktion bezogen, ohne Suchfallback. Alle 1.128 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 60 Pakete / 16.423 Fragen / 15.739 Ziele; 360 Genreergänzungen und neun überlappende Arthouse-Filme offen.
+
+
+#### Fortsetzung 03.11.2026 – Drama W22: Ziel150 erreicht
+
+Drei abschließende Dramen mit24 neuen Zielen integriert; Drama150, Arthouse144, Classics211. Vollständige zentrale und unabhängige Gegenlesung, gelesene Produktions-/Restaurierungsquellen; Jerewan1969 gegenüber Werkjahr1968 und Neuschnitt, historische Sowjetproduktion und vollständige Taiwan/Japan-Koproduktion begründet. Alle1.152 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell61 Pakete /16.447 Fragen /15.763 Ziele;357 Genreergänzungen und sechs überlappende Arthouse-Filme offen. Kontinuierlicher Auftrag läuft weiter, zentrale Redaktion wechselt unmittelbar zu18 fehlenden Komödien.
