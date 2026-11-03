@@ -1,0 +1,245 @@
+{
+  "id": "MARTIALARTS-002",
+  "film_title_de": "The Blade",
+  "film_title_original": "Dao",
+  "film_year": 1995,
+  "genre": "Martial Arts & Asia-Film",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein radikales und vergleichsweise wenig verbreitetes Spätwerk des klassischen Hongkong-Wuxia-Booms; eher für Film- und Genrekenner.",
+  "selection_reason": "Variiert einen im Bestand vertretenen Wuxiaklassiker mit einer weiblichen Erzählperspektive und bewusst fragmentierter Actiongestaltung.",
+  "directors": [
+    "Tsui Hark"
+  ],
+  "production_countries": [
+    "Hongkong"
+  ],
+  "release_note": "Erststart am 21. Dezember 1995 in Hongkong. Originaltitel 刀, Mandarinumschrift Dao; eigenständig gegenüber What Price Survival von 1994.",
+  "director_note": "",
+  "country_note": "Historische Produktionsbezeichnung Hongkong für den Film von 1995.",
+  "series": null,
+  "series_note": "Freie Neufassung des Einarmigen Schwertkämpfers von 1967. Keine Fortsetzung der früheren Figurenhandlung und kein neuer nummerierter Teil.",
+  "series_sources": [
+    "https://www.criterion.com/current/posts/9111-the-blade-cutting-deep",
+    "https://www.criterion.com/films/34862-the-blade"
+  ],
+  "sources": {
+    "criterion": {
+      "url": "https://www.criterion.com/films/34862-the-blade",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Jahr, Produktionsland, Besetzung, Schwertschmied, Armverlust und fragmentierte Kampfgestaltung."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/9111-the-blade-cutting-deep",
+      "accessed_on": "2026-11-03",
+      "supports": "Siu Lings Erzählperspektive, die Klinge des Vaters, Vorlage von 1967, Tsuis Filme von 1995 und Film Workshop seit 1984."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Blade_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Originaltitel und Startdatum; Rettungsversuch, Armverlust, halb verbranntes Buch und eigene Kampftechnik."
+    },
+    "bbfc": {
+      "url": "https://www.bbfc.co.uk/release/the-blade-q29sbgvjdglvbjpwwc0zmtuxota",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Produktionsjahr 1995, Genre und Rachehandlung eines einarmigen Schwertkämpfers."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ding On arbeitet in einer Schwertschmiede.",
+      "question": "Welchen Beruf übt Ding On (Vincent Zhao) zu Beginn von „The Blade“ aus?",
+      "answers": [
+        "Schwertschmied",
+        "Söldner",
+        "Stadtsoldat",
+        "Bettelmönch"
+      ],
+      "short": "Ding On arbeitet in einer Schwertschmiede.",
+      "context": "Die Werkstatt wird von einem Freund seines verstorbenen Vaters geleitet. Ding On (Vincent Zhao) soll die Nachfolge übernehmen, was Spannungen mit Iron Head (Moses Chan) auslöst. Waffen sind für ihn zunächst auch Handwerk und Lebensunterhalt, bevor der eigene Körper zum Schauplatz der Gewalt wird.",
+      "sources": [
+        "criterion",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Er wird verstümmelt, als er Siu Ling gegen Banditen verteidigt.",
+      "question": "Bei welcher Auseinandersetzung verliert Ding On (Vincent Zhao) in „The Blade“ einen Arm?",
+      "answers": [
+        "Beim Versuch, Siu Ling vor Banditen zu retten",
+        "Beim ersten Duell mit dem Mörder seines Vaters",
+        "Bei einer Strafaktion seines eigenen Meisters",
+        "Beim Kampf um die Leitung einer kaiserlichen Leibwache"
+      ],
+      "short": "Er wird verstümmelt, als er Siu Ling gegen Banditen verteidigt.",
+      "context": "Siu Ling (Song Lei) folgt Ding On (Vincent Zhao), nachdem er die Schmiede verlassen hat. Sie gerät in einen Hinterhalt. Sein Eingreifen bewahrt sie vor den Angreifern, führt aber zu seinem Armverlust. Die ursprüngliche Rachemission wird dadurch von einer radikalen körperlichen Veränderung unterbrochen.",
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Ein beschädigtes Buch und die kurze Klinge helfen ihm, einen eigenen Stil zu entwickeln.",
+      "question": "Womit entwickelt Ding On (Vincent Zhao) in „The Blade“ nach seiner Verletzung eine neue Kampftechnik?",
+      "answers": [
+        "Mit einem halb verbrannten Lehrbuch und der zerbrochenen Klinge seines Vaters",
+        "Mit einer vollständig erhaltenen kaiserlichen Waffenanleitung und einer langen Lanze",
+        "Mit der geheimen Schießausbildung einer Händlerkarawane und zwei Pistolen",
+        "Mit einer von Iron Head gestohlenen Rüstung und einem schweren Schild"
+      ],
+      "short": "Ein beschädigtes Buch und die kurze Klinge helfen ihm, einen eigenen Stil zu entwickeln.",
+      "context": "Black Head (Chung Bik-ha) nimmt Ding On (Vincent Zhao) auf. Die unvollständige Anleitung passt nicht einfach zu seinem veränderten Körper. Er muss aus ihren Resten und der zerbrochenen Waffe etwas Eigenes machen. Seine späteren Drehbewegungen entstehen aus dieser Anpassung, nicht aus der Wiederherstellung des früheren Zustands.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Siu Lings Rückblick führt durch die Geschichte.",
+      "question": "Wessen Perspektive rahmt in „The Blade“ die Geschichte der rivalisierenden Kämpfer?",
+      "answers": [
+        "Die von Siu Ling, der Tochter des Schmiedemeisters",
+        "Die von Flying Dragon, dem gesuchten Attentäter",
+        "Die von Ding Ons verstorbenem Vater",
+        "Die eines namenlosen kaiserlichen Richters"
+      ],
+      "short": "Siu Lings Rückblick führt durch die Geschichte.",
+      "context": "Siu Ling (Song Lei) beobachtet Ding On (Vincent Zhao) und Iron Head (Moses Chan) zunächst aus der vermeintlich geschützten Welt der Schmiede. Auf ihrer Suche begegnet sie Gewalt und Ausbeutung. Ihr Blick stellt die Ideale der Männerwelt infrage, statt deren Handlungen allein aus der Sicht eines Rachehelden zu rechtfertigen.",
+      "sources": [
+        "essay",
+        "criterion"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Film greift „Der einarmige Schwertkämpfer“ von 1967 auf.",
+      "question": "Welchen Hongkongklassiker deutet „The Blade“ frei neu?",
+      "answers": [
+        "Der einarmige Schwertkämpfer von Chang Cheh",
+        "Die 36 Kammern der Shaolin von Lau Kar-leung",
+        "Ein Hauch von Zen von King Hu",
+        "Die Schlange im Schatten des Adlers von Yuen Woo-ping"
+      ],
+      "short": "Der Film greift „Der einarmige Schwertkämpfer“ von 1967 auf.",
+      "context": "Die Grundkonstellation des verletzten Schwertkämpfers bleibt erkennbar. Tsui Hark verändert jedoch den Blick auf das Geschehen und verschärft die Gewalt. Es handelt sich um eine neue Fassung des Stoffes: Ding On (Vincent Zhao) setzt keine fortlaufende Biografie von Jimmy Wang Yus früherer Figur fort.",
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Film arbeitet mit engen Ausschnitten und einer hektisch fragmentierten Montage.",
+      "question": "Welche Bildgestaltung prägt die Kampfszenen von „The Blade“ besonders?",
+      "answers": [
+        "Nahe Ausschnitte und schnelle, fragmentierte Montage",
+        "Ruhige Halbtotalen und räumlich übersichtliche Anschlussmontage",
+        "Symmetrische Frontalbilder und betonte Pausen zwischen den Angriffen",
+        "Weite Landschaftstotalen und langsame Überblendungen zwischen den Duellen"
+      ],
+      "short": "Der Film arbeitet mit engen Ausschnitten und einer hektisch fragmentierten Montage.",
+      "context": "Schläge, Gesichter und Körper erscheinen oft nur als kurze Teilansichten. Die Zuschauenden erhalten nicht jederzeit einen ruhigen Überblick. Die Gestaltung setzt die Brutalität und Unsicherheit der Figurenwelt fort; sie verändert, wie sich die körperlich ausgeführten Aktionen im fertigen Film wahrnehmen lassen.",
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "„The Blade“ erschien 1995.",
+      "question": "In welchem Jahr wurde Tsui Harks Wuxiafilm „The Blade“ erstmals veröffentlicht?",
+      "answers": [
+        "1995",
+        "1985",
+        "1991",
+        "2002"
+      ],
+      "short": "„The Blade“ erschien 1995.",
+      "context": "1995 brachte Tsui Hark auch die Kochkomödie „The Chinese Feast“ und den romantischen Zeitreisefilm „Love in the Time of Twilight“ heraus. Der raue Rachefilm stand damit im selben Arbeitsjahr neben sehr anderen Stoffen. Die Gemeinsamkeit lag im Filmemacher, nicht in einer einheitlichen Tonlage dieser Produktionen.",
+      "sources": [
+        "criterion",
+        "essay",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "Tsui Hark führte Regie.",
+      "question": "Wer führte bei „The Blade“ mit Vincent Zhao Regie?",
+      "answers": [
+        "Tsui Hark",
+        "John Woo",
+        "Chang Cheh",
+        "Ringo Lam"
+      ],
+      "short": "Tsui Hark führte Regie.",
+      "context": "Tsui Hark arbeitete hier zugleich an Produktion, Drehbuch und Montage. Seine 1984 gegründete Firma Film Workshop hatte zuvor unterschiedliche Hongkonggenres weiterentwickelt. Für „The Blade“ wählte er eine wesentlich härtere und unübersichtlichere Welt als in vielen seiner publikumswirksamen früheren Filme.",
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

@@ -11,6 +11,7 @@ const wave = process.argv[2];
 const write = process.argv.includes("--write");
 assert(/^W\d{2}$/.test(wave ?? ""), "Specify an editorial wave, e.g. W01");
 const manifest = read(`${root}/Pakete.json`);
+assert(Array.isArray(manifest.series_updates), "Explicit related film-series decisions required");
 const selected = manifest.packages.find((entry) => entry.wave === wave);
 assert(selected, `Unknown wave ${wave}`);
 const films = selected.films.map((id) => read(`${root}/Redaktion/${id}.json`));
@@ -94,9 +95,9 @@ const parsed = Papa.parse(csv, {header: true, skipEmptyLines: "greedy"});
 assert.deepEqual(parsed.errors, []);
 assert.deepEqual(parsed.data, rows);
 const sourcePath = `KI-Wissen-Wissensquiz/01 Rohquellen/${selected.filename}`;
+if (fs.existsSync(sourcePath)) assert.equal(fs.readFileSync(sourcePath, "utf8"), csv, "Original CSV differs; use a new wave for further content");
 if (write) {
-  if (fs.existsSync(sourcePath)) assert.equal(fs.readFileSync(sourcePath, "utf8"), csv, "Original CSV differs; use a new wave for further content");
-  else fs.writeFileSync(sourcePath, csv);
+  if (!fs.existsSync(sourcePath)) fs.writeFileSync(sourcePath, csv);
   fs.writeFileSync(`public${selected.path}`, csv);
 }
 const allFilms = manifest.packages.flatMap((pkg) => pkg.films.map((id) => read(`${root}/Redaktion/${id}.json`)));
@@ -112,5 +113,5 @@ const metadata = allFilms.map((film) => ({
   reference_question_id: `G150-20261103-${film.id}-L1`,
   year_question_id: `G150-20261103-${film.id}-Y`, director_question_id: `G150-20261103-${film.id}-D`,
 }));
-if (write) fs.writeFileSync(`${root}/Filmdaten.json`, JSON.stringify({schema_version: "wissensquiz-redaktion-film-v1", as_of: "2026-11-03", integration_route: "explicit_csv_year_and_director", films: metadata}, null, 2) + "\n");
+if (write) fs.writeFileSync(`${root}/Filmdaten.json`, JSON.stringify({schema_version: "wissensquiz-redaktion-film-v1", as_of: "2026-11-03", integration_route: "explicit_csv_year_and_director", films: metadata, series_updates: manifest.series_updates}, null, 2) + "\n");
 console.log(JSON.stringify({wave, written: write, films: films.length, questions: rows.length, contentGoals: films.length * 6, yearGoals: films.length, directorGoals: films.length, variants: rows.filter((r) => r.variant_of).length}));

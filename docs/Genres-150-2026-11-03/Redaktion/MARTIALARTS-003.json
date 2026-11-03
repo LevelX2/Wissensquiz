@@ -1,0 +1,251 @@
+{
+  "id": "MARTIALARTS-003",
+  "film_title_de": "The Assassin",
+  "film_title_original": "Nie yin niang",
+  "film_year": 2015,
+  "genre": "Martial Arts & Asia-Film",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein international gefeierter Autorenfilm, dessen Figuren und zurückhaltender Wuxiazugang vor allem Kunstfilm- und Asiakino-Publikum vertraut sind.",
+  "selection_reason": "Erweitert Wuxia um eine Auftragsverweigerung und eine distanzierte Bildsprache, in der politische Folgen und persönliche Bindungen die Kämpfe bestimmen.",
+  "directors": [
+    "Hou Hsiao-hsien"
+  ],
+  "production_countries": [
+    "Taiwan",
+    "China",
+    "Hongkong",
+    "Frankreich"
+  ],
+  "release_note": "Weltpremiere am 21. Mai 2015 im Wettbewerb von Cannes. Originaltitel beim Festival: Nie Yinniang. Chinesische Langform 刺客聶隱娘, auch Cike Nie Yinniang umschrieben.",
+  "director_note": "",
+  "country_note": "Länderfolge nach der offiziellen Cannes-Filmseite, die zusätzlich zu Taiwan, China und Hongkong Frankreich führt. Andere Kataloge nennen nur die asiatischen Produktionspartner.",
+  "series": null,
+  "series_note": "Eigenständige Adaption einer historischen Erzählung; keine belegte Fortsetzung oder nummerierte Filmreihe.",
+  "series_sources": [
+    "https://www.festival-cannes.com/en/f/nie-yinniang/",
+    "https://wellgousa.com/films/assassin"
+  ],
+  "sources": {
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/nie-yinniang/",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Besetzung, Länder, Jahr 2015, Ausbildung durch eine Nonne, Tian Ji’an als früherer Verlobter und Konflikt mit dem Auftrag."
+    },
+    "presse": {
+      "url": "https://cdn.festival-cannes.com/media/uploads/2023/03/38060.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Cannes-Presseheft mit Premierentermin, Jadezeichen, Wechsel von Schwarzweißprolog zu Farbe, Chuanqi-Vorlage und Regieinterview."
+    },
+    "verleih": {
+      "url": "https://wellgousa.com/films/assassin",
+      "accessed_on": "2026-11-03",
+      "supports": "Wuxiaeinordnung, Regie, Besetzung, Erziehung und Rückkehr zum früheren Verlobten."
+    },
+    "lumiere": {
+      "url": "https://2025.festival-lumiere.org/manifestations/the-assassin.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Premiere am 21. Mai 2015, Autorenfilmgestaltung, Three Times von 2005 und Wiedervereinigung von Shu Qi und Chang Chen im Jahr 2015."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Assassin_(2015_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Politischer Kontext von Weibo, Tian Ji’ans Kinder und Begründung der Auftragsverweigerung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Eine Nonne nimmt sie auf und bildet sie für gezielte Tötungsaufträge aus.",
+      "question": "Wer bildet Nie Yinniang (Shu Qi) in „The Assassin“ seit ihrer Kindheit zur Kämpferin aus?",
+      "answers": [
+        "Eine Nonne",
+        "Ein kaiserlicher Leibwächter",
+        "Ihr Vater als Garnisonskommandant",
+        "Eine reisende Operndarstellerin"
+      ],
+      "short": "Eine Nonne nimmt sie auf und bildet sie für gezielte Tötungsaufträge aus.",
+      "context": "Nie Yinniang (Shu Qi) kehrt nach langer Abwesenheit in ihre Herkunftsregion zurück. Ihre Lehrerin Jiaxin (Sheu Fang-yi) erwartet Gehorsam und unbedingte Ausführung der Aufträge. Die Ausbildung hat sie körperlich befähigt, beseitigt aber nicht ihr Mitgefühl oder die Bindungen an ihre Familie.",
+      "sources": [
+        "cannes",
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Tian Ji’an ist ihr Cousin und früherer Verlobter.",
+      "question": "Welche persönliche Verbindung macht Nie Yinniangs (Shu Qi) Auftrag gegen Tian Ji’an in „The Assassin“ besonders schwierig?",
+      "answers": [
+        "Er ist ihr Cousin und war ihr als Ehemann versprochen.",
+        "Er ist ihr lange verschollener Vater.",
+        "Er hat sie als Kind in einem Kloster aufgezogen.",
+        "Er ist der einzige Überlebende ihres früheren Auftrags."
+      ],
+      "short": "Tian Ji’an ist ihr Cousin und früherer Verlobter.",
+      "context": "Tian Ji’an (Chang Chen) regiert inzwischen Weibo. Die frühere Verlobung mit Nie Yinniang (Shu Qi) wurde politischen Interessen geopfert. Ihr neuer Auftrag führt sie daher nicht zu einem unbekannten Tyrannen, sondern zurück in ein Netz familiärer Erinnerungen und politischer Vereinbarungen.",
+      "sources": [
+        "cannes",
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Sie fürchtet politisches Chaos, solange seine Söhne noch zu jung sind.",
+      "question": "Welches politische Argument nennt Nie Yinniang (Shu Qi) in „The Assassin“ schließlich gegen die Tötung Tian Ji’ans?",
+      "answers": [
+        "Seine jungen Söhne könnten Weibo danach nicht stabil regieren.",
+        "Sein Tod würde automatisch ihrer eigenen Familie den Thron sichern.",
+        "Er hat die Provinz bereits vollständig an den Kaiser zurückgegeben.",
+        "Sein Nachfolger hat ihr ein Bündnis gegen die Nonne angeboten."
+      ],
+      "short": "Sie fürchtet politisches Chaos, solange seine Söhne noch zu jung sind.",
+      "context": "Nie Yinniang (Shu Qi) beurteilt den Auftrag nicht mehr nur nach der Schuld eines einzelnen Herrschers. Sie bedenkt, was dessen Tod für die Region und seine Kinder bedeuten würde. Ihre Entscheidung überschreitet damit den Gehorsam gegenüber Jiaxin (Sheu Fang-yi), ohne ihre eigenen Kampffähigkeiten aufzugeben.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Sie hinterlässt das Jadestück, das zur früheren Verbindung gehört.",
+      "question": "Womit gibt Nie Yinniang (Shu Qi) in „The Assassin“ Tian Ji’an zu erkennen, wer sie ist?",
+      "answers": [
+        "Mit dem zurückgelassenen Jadestück der früheren Verbindung",
+        "Mit einem amtlich gesiegelten Todesurteil aus der Hauptstadt",
+        "Mit dem abgebrochenen Schwert ihres verstorbenen Bruders",
+        "Mit einer von seiner Frau geschriebenen Einladung"
+      ],
+      "short": "Sie hinterlässt das Jadestück, das zur früheren Verbindung gehört.",
+      "context": "Die Mutter gibt Nie Yinniang (Shu Qi) das Jadezeichen bei ihrer Rückkehr. Es verweist auf die abgebrochene Heiratsverbindung und den politischen Ausgleich zwischen Kaiserhof und Weibo. Wenn Tian Ji’an (Chang Chen) es wiedererkennt, wird die vermeintlich fremde Angreiferin mit ihrer gemeinsamen Vergangenheit verbunden.",
+      "sources": [
+        "presse"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der schwarzweiße Prolog geht in die farbige Haupthandlung über.",
+      "question": "Welcher sichtbare Wechsel trennt in „The Assassin“ den Prolog von der Haupthandlung?",
+      "answers": [
+        "Das Schwarzweißbild wechselt zur Farbe.",
+        "Eine bewegliche Handkamera wechselt zu festen Bühnenansichten.",
+        "Der Zeichentrickprolog geht in Realaufnahmen über.",
+        "Körnige Nachtszenen gehen in makellos helle Studiobilder über."
+      ],
+      "short": "Der schwarzweiße Prolog geht in die farbige Haupthandlung über.",
+      "context": "Hou Hsiao-hsien erklärte den Schwarzweißbeginn als Prolog zur Vergangenheit seiner Hauptfigur. Mit dem Farbbild setzt die fortlaufende Geschichte ein. Der Übergang ist damit eine erzählerische Zeitmarkierung und kein Hinweis auf zwei verschiedene Produktionsfassungen des Films.",
+      "sources": [
+        "presse"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Film greift eine kurze Chuanqi-Erzählung aus der Tang-Zeit auf.",
+      "question": "Aus welcher literarischen Tradition stammt die Vorlage zu „The Assassin“?",
+      "answers": [
+        "Aus den kurzen Chuanqi-Erzählungen der Tang-Zeit",
+        "Aus einem mehrbändigen Familienroman der Qing-Zeit",
+        "Aus einem japanischen Kriegsbericht der Meiji-Zeit",
+        "Aus einem modernen Hongkonger Polizeiroman"
+      ],
+      "short": "Der Film greift eine kurze Chuanqi-Erzählung aus der Tang-Zeit auf.",
+      "context": "Hou Hsiao-hsien kannte solche Erzählungen seit seiner Jugend. Für den Film genügte ihm der überlieferte Handlungsfaden nicht: Er recherchierte zusätzlich Alltagsabläufe und die politische Ordnung der Tang-Zeit. Die historische Welt entstand damit aus einer literarischen Vorlage und weiterer Detailarbeit.",
+      "sources": [
+        "presse",
+        "lumiere"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Film hatte 2015 in Cannes seine Weltpremiere.",
+      "question": "In welchem Jahr wurde Hou Hsiao-hsiens „The Assassin“ erstmals gezeigt?",
+      "answers": [
+        "2015",
+        "2005",
+        "2009",
+        "2019"
+      ],
+      "short": "Der Film hatte 2015 in Cannes seine Weltpremiere.",
+      "context": "2015 vereinte Hou Hsiao-hsien Shu Qi und Chang Chen wieder vor der Kamera. Bereits 2005 hatten die beiden in „Three Times“ drei Liebesgeschichten aus unterschiedlichen Epochen gespielt. Zehn Jahre später begegnen sie sich in einem Wuxiafilm, in dem eine frühere Heiratsverbindung zum Hindernis eines Tötungsauftrags wird.",
+      "sources": [
+        "lumiere",
+        "cannes"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "Hou Hsiao-hsien inszenierte „The Assassin“.",
+      "question": "Wer führte bei „The Assassin“ mit Shu Qi und Chang Chen Regie?",
+      "answers": [
+        "Hou Hsiao-hsien",
+        "Ang Lee",
+        "Wong Kar-wai",
+        "Zhang Yimou"
+      ],
+      "short": "Hou Hsiao-hsien inszenierte „The Assassin“.",
+      "context": "Hou Hsiao-hsien kam aus einem Kino genauer Beobachtung und langer Einstellungen. Im Wuxiafilm behielt er diesen Abstand bei: Kleidung, Vorhänge, Landschaft und stille Begegnungen erhalten viel Raum, Kämpfe bleiben vergleichsweise kurz. Seine Genrearbeit ersetzt diese gewohnte Bildsprache nicht durch eine lückenlose Folge von Duellen.",
+      "sources": [
+        "cannes",
+        "presse",
+        "lumiere"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "HORROR-003",
+  "film_title_de": "Session 9",
+  "film_title_original": "Session 9",
+  "film_year": 2001,
+  "genre": "Horror",
+  "categories": [],
+  "familiarity_level": 4,
+  "familiarity_reason": "Ein psychologischer Kult-Horrorfilm mit kleinerem Verbreitungsgrad als die großen Spukhausreihen.",
+  "selection_reason": "Verbindet körperliche Arbeit, wirtschaftlichen Druck und eine zweite Erzählung auf Tonbändern mit einem realen verlassenen Krankenhaus.",
+  "directors": [
+    "Brad Anderson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Festivalpremiere am 31. Juli 2001 bei Fantasia; regulärer US-Start am 10. August 2001. Das Jahr wird von Universal und zeitgenössischen Interviews bestätigt.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständiger Film. Die im Interview genannten Scherze über Session 10 sind keine Fortsetzung; spätere Prequelpläne ergeben keine bereits veröffentlichte nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.aboutfilm.com/features/session9/interview.htm",
+    "https://en.wikipedia.org/wiki/Session_9"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://www.universalpicturesathome.com/movies/session-9",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Jahr 2001, Besetzung, verlassene Anstalt und Arbeitsschutzteam."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Session_9",
+      "accessed_on": "2026-11-03",
+      "supports": "Asbestsanierung, Therapiebänder, Marys Stimmen, Jeffs Dunkelangst, Hanks Münzfund, Premiere und Besetzung."
+    },
+    "interview": {
+      "url": "https://legacy.aintitcool.com/node/10059",
+      "accessed_on": "2026-11-03",
+      "supports": "Anderson im Interview 2001 über 24p-HD, wenig Licht, Danvers und den gleichzeitigen Kinolauf von Happy Accidents."
+    },
+    "ton": {
+      "url": "https://www.aboutfilm.com/features/session9/interview.htm",
+      "accessed_on": "2026-11-03",
+      "supports": "Anderson und Caruso über den realen Drehort, die Tonmontage und eine einzelne Darstellerin für Marys verschiedene Stimmen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Männer übernehmen eine Asbestsanierung.",
+      "question": "Welche Arbeit soll Gordon Flemings Team in „Session 9“ im verlassenen Krankenhaus erledigen?",
+      "answers": [
+        "Asbest entfernen",
+        "Eine neue Telefonzentrale installieren",
+        "Verlorene Gemälde restaurieren",
+        "Ein unterirdisches Schwimmbad reinigen"
+      ],
+      "short": "Die Männer übernehmen eine Asbestsanierung.",
+      "context": "Gordon Fleming (Peter Mullan) verspricht, den großen Auftrag sehr schnell abzuschließen. Die Schutzanzüge und Absperrungen gehören zunächst zu ihrer Arbeit. Im abgeschotteten Gebäude verbinden sich Zeitdruck, persönliche Spannungen und die Geschichte der Anstalt, während das Team eigentlich einen bezahlten Routineauftrag erfüllen will.",
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Bänder dokumentieren Therapiesitzungen mit Mary Hobbes.",
+      "question": "Was hört Mike (Stephen Gevedon) auf den gefundenen Tonbändern in „Session 9“?",
+      "answers": [
+        "Therapiegespräche mit der früheren Patientin Mary Hobbes",
+        "Funkmeldungen einer verschwundenen Polizeistreife",
+        "Heimliche Konzertaufnahmen eines Pflegers",
+        "Bauanweisungen für einen geheimen Operationssaal"
+      ],
+      "short": "Die Bänder dokumentieren Therapiesitzungen mit Mary Hobbes.",
+      "context": "Mike (Stephen Gevedon) hört die Aufnahmen nacheinander ab. Marys (Originalstimme: Jurian Hughes) wechselnde Stimmen bilden eine zweite Erzählung neben den Erlebnissen der Arbeiter. Das alte Bandgerät liefert nicht nur Informationen, sondern durch Klang und Unterbrechungen auch einen eigenen bedrohlichen Raum.",
+      "sources": [
+        "handlung",
+        "ton"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Jeffs Dunkelangst macht den Ausfall zu einer persönlichen Extremsituation.",
+      "question": "Weshalb wird der Stromausfall in den Tunneln von „Session 9“ für Jeff (Brendan Sexton III) besonders bedrohlich?",
+      "answers": [
+        "Er leidet unter ausgeprägter Angst vor Dunkelheit.",
+        "Er hat im Tunnel seinen Schutzanzug verloren.",
+        "Er muss ein elektrisch betriebenes Atemgerät benutzen.",
+        "Er hat von Gordon ein Rückkehrverbot für diesen Gang erhalten."
+      ],
+      "short": "Jeffs Dunkelangst macht den Ausfall zu einer persönlichen Extremsituation.",
+      "context": "Jeff (Brendan Sexton III) ist Gordons Neffe und das jüngste Teammitglied. Im unterirdischen Gang fällt der Generator aus. Was für die anderen ein Arbeitsproblem sein könnte, wird für ihn unmittelbare Panik; die langen dunklen Räume erhalten dadurch eine andere Wirkung als in den helleren Rundgängen.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Hank will die entdeckten Münzen und Wertsachen mitnehmen.",
+      "question": "Warum kehrt Hank (Josh Lucas) in „Session 9“ nach Feierabend allein in die Anstalt zurück?",
+      "answers": [
+        "Er will gefundene alte Münzen und Wertsachen bergen.",
+        "Er will vergessenes Werkzeug für den nächsten Arbeitstag holen.",
+        "Er will zusätzliche Asbestarbeiten ohne Wissen der Kollegen erledigen.",
+        "Er will die gefundenen Therapiebänder für sich allein anhören."
+      ],
+      "short": "Hank will die entdeckten Münzen und Wertsachen mitnehmen.",
+      "context": "Hank (Josh Lucas) findet im Keller Gegenstände und Silbermünzen, die im Zusammenhang mit der früheren Anstalt stehen. Der erhoffte Gewinn führt ihn außerhalb der gemeinsamen Arbeitszeit zurück. Sein privater Fund macht ihn verwundbar: Die Kollegen wissen zunächst nicht, was ihn dort noch festhält.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Produktion nutzte digitale 24p-HD-Kameras.",
+      "question": "Welches Aufnahmemedium verwendete Brad Anderson für „Session 9“?",
+      "answers": [
+        "Digitales HD-Video mit 24 Bildern pro Sekunde",
+        "Schwarzweißen 16-mm-Film",
+        "Farbiges Super-8-Material",
+        "Analogen 70-mm-Film"
+      ],
+      "short": "Die Produktion nutzte digitale 24p-HD-Kameras.",
+      "context": "Die Produktion arbeitete in der wirklichen verlassenen Anstalt Danvers. Anderson erklärte im zeitgenössischen Interview, dass die 24p-HD-Kameras wenig zusätzliche Beleuchtung benötigten und das Bild direkt am Monitor beurteilt werden konnte. Die Technik half, unter den schwierigen Bedingungen vor Ort schnell zu drehen.",
+      "sources": [
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Eine Darstellerin übernahm die unterschiedlichen Stimmen.",
+      "question": "Wie wurden laut Brad Anderson die verschiedenen Stimmen der Patientin Mary auf den Tonbändern von „Session 9“ gestaltet?",
+      "answers": [
+        "Eine Darstellerin sprach die unterschiedlichen Persönlichkeiten.",
+        "Brad Anderson und Stephen Gevedon teilten die Stimmen untereinander auf.",
+        "Stimmen mehrerer echter Patientinnen wurden unverändert übernommen.",
+        "Eine Kinderstimme und ein männlicher Sprecher wechselten sich ab."
+      ],
+      "short": "Eine Darstellerin übernahm die unterschiedlichen Stimmen.",
+      "context": "Mary Hobbes wird von Jurian Hughes gesprochen. Brad Anderson beschrieb, wie die Persönlichkeiten eigene klangliche Merkmale erhielten. Hinzu kamen Störungen des Bandgeräts und verfremdete Geräusche. Die unheimliche Wirkung entsteht damit aus Darstellung und sorgfältiger Tonarbeit, nicht aus einer bloßen Aktenzusammenfassung.",
+      "sources": [
+        "ton",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "„Session 9“ erschien 2001.",
+      "question": "In welchem Jahr erschien der Krankenhaus-Horrorfilm „Session 9“ erstmals?",
+      "answers": [
+        "2001",
+        "1991",
+        "1996",
+        "2008"
+      ],
+      "short": "„Session 9“ erschien 2001.",
+      "context": "2001 liefen zwei sehr unterschiedliche Brad-Anderson-Filme im Kino: der Anstaltshorror „Session 9“ und „Happy Accidents“. In der Liebesgeschichte behauptet ein Mann, aus der Zukunft gekommen zu sein. Das zeitgenössische Interview zu beiden Starts macht den Genrewechsel des Regisseurs besonders anschaulich.",
+      "sources": [
+        "studio",
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "Brad Anderson inszenierte „Session 9“.",
+      "question": "Wer führte bei „Session 9“ mit Peter Mullan und David Caruso Regie?",
+      "answers": [
+        "Brad Anderson",
+        "James Wan",
+        "Eli Roth",
+        "Scott Derrickson"
+      ],
+      "short": "Brad Anderson inszenierte „Session 9“.",
+      "context": "Brad Anderson entwickelte den Film mit Stephen Gevedon, der außerdem Mike spielt. Ausgangspunkt war für den Regisseur das verlassene Krankenhaus, an dem er jahrelang vorbeifuhr. Die Geschichte wuchs aus diesem konkreten Ort; das Team filmte anschließend tatsächlich in Danvers und nutzte dessen vorhandene Räume.",
+      "sources": [
+        "studio",
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

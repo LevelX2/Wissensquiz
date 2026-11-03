@@ -1,0 +1,241 @@
+{
+  "id": "HORROR-001",
+  "film_title_de": "Dark Water",
+  "film_title_original": "Honogurai mizu no soko kara",
+  "film_year": 2002,
+  "genre": "Horror",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein etablierter japanischer Geisterfilm; außerhalb des J-Horror-Publikums eher durch das spätere US-Remake bekannt.",
+  "selection_reason": "Erweitert das Genre um einen mütterlichen Schutzkonflikt, der im Wohnalltag statt in einer klassischen Spukvilla entsteht.",
+  "directors": [
+    "Hideo Nakata"
+  ],
+  "production_countries": [
+    "Japan"
+  ],
+  "release_note": "Japanischer Erststart am 19. Januar 2002 laut Originalcredits im Arrow-Booklet. Der NZIFF-Archivkopf nennt abweichend 2001; die zeitnahe Creditsangabe und die Verleihangaben bestätigen 2002.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Suzuki-Adaption. Das gleichnamige US-Remake von 2005 ist keine Fortsetzung und erhält keine Teilnummer.",
+  "series_sources": [
+    "https://s1.thcdn.com/design-assets/documents/arrowfilms/Dark%20Water.pdf"
+  ],
+  "sources": {
+    "booklet": {
+      "url": "https://s1.thcdn.com/design-assets/documents/arrowfilms/Dark%20Water.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Originalcredits, Originaltitel, Startdatum, Regie, Besetzung, Suzuki-Vorlage, familiäre Vernachlässigung und Bezug zu Ring (1998)."
+    },
+    "verleih": {
+      "url": "https://www.arrowvideo.com/p/dark-water-4k-uhd/17227277/",
+      "accessed_on": "2026-11-03",
+      "supports": "Sorgerechtskonflikt, Mutter und Tochter, Wohnhaus, Regie und Erstjahr 2002."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Dark_Water_(2002_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Rote Tasche, Mitsukos Tod im Wassertank, Aufzugsszene und Yoshimis Opfer."
+    },
+    "festival": {
+      "url": "https://www.nziff.co.nz/2002/archive-1/dark-water/",
+      "accessed_on": "2026-11-03",
+      "supports": "Besetzung und rote Kindertasche auf dem Dach; abweichendes Katalogjahr 2001 nicht als Erstveröffentlichungsjahr übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Yoshimi will ihre Tochter Ikuko bei sich behalten.",
+      "question": "Worum kämpft Yoshimi Matsubara (Hitomi Kuroki) in „Dark Water“ nach ihrer Trennung besonders?",
+      "answers": [
+        "Um das alleinige Sorgerecht für ihre Tochter",
+        "Um eine Wiedereinstellung in ihrem früheren Betrieb",
+        "Um die Anerkennung als Erbin des Wohnhauses",
+        "Um die gerichtliche Einweisung ihres früheren Mannes"
+      ],
+      "short": "Yoshimi will ihre Tochter Ikuko bei sich behalten.",
+      "context": "Yoshimi Matsubara (Hitomi Kuroki) versucht, eine Wohnung und Arbeit zu finden. Ihre Sorge um Ikuko (Rio Kanno) steht unter dem Druck des Sorgerechtsstreits. Die bedrohlichen Vorgänge im Haus gefährden dadurch zugleich ihre Sicherheit und ihre Glaubwürdigkeit als Mutter.",
+      "sources": [
+        "verleih",
+        "booklet"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Die rote Kindertasche kehrt immer wieder zurück.",
+      "question": "Welcher Gegenstand taucht in „Dark Water“ immer wieder auf, obwohl Yoshimi ihn loswerden möchte?",
+      "answers": [
+        "Eine rote Kindertasche",
+        "Ein schwarzes Schachbrett",
+        "Eine silberne Armbanduhr",
+        "Eine blaue Spieluhr"
+      ],
+      "short": "Die rote Kindertasche kehrt immer wieder zurück.",
+      "context": "Ikuko (Rio Kanno) findet die Tasche auf dem Dach. Später verbindet Yoshimi Matsubara (Hitomi Kuroki) den Fund mit dem vermissten Mädchen Mitsuko Kawai (Mirei Oguchi). Das zunächst alltägliche Kinderutensil wird zur wiederkehrenden Spur einer verschwundenen Bewohnerin.",
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Mitsuko fiel in den Wassertank und ertrank.",
+      "question": "Was entdeckt Yoshimi (Hitomi Kuroki) in „Dark Water“ über Mitsukos Verschwinden?",
+      "answers": [
+        "Das Mädchen ist im Wassertank auf dem Dach ertrunken.",
+        "Das Mädchen wurde von ihrem Vater heimlich ins Ausland gebracht.",
+        "Das Mädchen starb bei einem Unfall im Aufzugschacht.",
+        "Das Mädchen lebt unerkannt bei einer Nachbarfamilie."
+      ],
+      "short": "Mitsuko fiel in den Wassertank und ertrank.",
+      "context": "Die feuchten Decken führen Yoshimi Matsubara (Hitomi Kuroki) nach oben. Mitsuko Kawai (Mirei Oguchi) lebte in der Wohnung darüber und blieb nach ihrer Vernachlässigung allein zurück. Der Tank verbindet das verschwundene Kind mit dem Wasser, das inzwischen den Alltag von Mutter und Tochter durchdringt.",
+      "sources": [
+        "handlung",
+        "booklet"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Yoshimi opfert ihr gemeinsames Leben mit Ikuko, indem sie bei Mitsuko bleibt.",
+      "question": "Welche Entscheidung trifft Yoshimi (Hitomi Kuroki) im Finale von „Dark Water“, um Ikuko zu schützen?",
+      "answers": [
+        "Sie bleibt bei Mitsuko und nimmt die Rolle ihrer Mutter an.",
+        "Sie verbrennt die rote Tasche und schließt den Wassertank.",
+        "Sie bringt Mitsukos Vater zur Versöhnung ins Haus.",
+        "Sie vertauscht im Aufzug Ikuko mit einer Nachbarstochter."
+      ],
+      "short": "Yoshimi opfert ihr gemeinsames Leben mit Ikuko, indem sie bei Mitsuko bleibt.",
+      "context": "Im Aufzug erkennt Yoshimi Matsubara (Hitomi Kuroki), dass sie Mitsuko (Mirei Oguchi) statt ihrer Tochter hält. Das Geisterkind verlangt eine Mutter. Yoshimi bleibt, während Ikuko (Rio Kanno) entkommen kann. Die Rettung führt deshalb nicht zur Wiederherstellung ihres gemeinsamen Alltags.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Kurzgeschichte „Floating Waters“ stammt von Koji Suzuki.",
+      "question": "Von welchem Autor stammt die literarische Vorlage zu „Dark Water“?",
+      "answers": [
+        "Koji Suzuki",
+        "Junji Ito",
+        "Natsuo Kirino",
+        "Haruki Murakami"
+      ],
+      "short": "Die Kurzgeschichte „Floating Waters“ stammt von Koji Suzuki.",
+      "context": "Die Vorlage gehört zu Koji Suzukis Erzählungsband „Dark Water“ von 1996. Suzuki lieferte auch den Romanstoff zu „Ring“. Für den Film wurden seine Wasser- und Familienmotive in einen konzentrierten Wohnhauskonflikt übertragen; der Band selbst enthält mehrere eigenständige Geschichten.",
+      "sources": [
+        "booklet"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Yoshimi erlebte selbst mütterliche Vernachlässigung.",
+      "question": "Welche Erfahrung aus Yoshimis (Hitomi Kuroki) Kindheit kehrt in „Dark Water“ als Angst wieder?",
+      "answers": [
+        "Ihre Mutter ließ sie als Kind warten und vernachlässigte sie.",
+        "Ihr Vater ertrank bei einem Bootsausflug mit der Familie.",
+        "Ihre Eltern trennten sie dauerhaft von ihrem jüngeren Bruder.",
+        "Sie musste nach einem Wohnungsbrand monatelang im Krankenhaus bleiben."
+      ],
+      "short": "Yoshimi erlebte selbst mütterliche Vernachlässigung.",
+      "context": "Rückblenden zeigen Yoshimi Matsubara (Hitomi Kuroki) als wartendes Kind. Nun fürchtet sie, Ikuko (Rio Kanno) ebenfalls im Stich zu lassen. Mitsukos Verlassenheit tritt zu diesem bereits vorhandenen Konflikt hinzu. Der Spuk erhält damit einen familiären Zusammenhang, der älter ist als der Einzug ins Haus.",
+      "sources": [
+        "booklet",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Die japanische Erstveröffentlichung erfolgte 2002.",
+      "question": "In welchem Jahr erschien Hideo Nakatas japanischer Geisterfilm „Dark Water“ erstmals?",
+      "answers": [
+        "2002",
+        "1994",
+        "1998",
+        "2008"
+      ],
+      "short": "Die japanische Erstveröffentlichung erfolgte 2002.",
+      "context": "2002 führte Hideo Nakata erneut einen Stoff Koji Suzukis ins Kino, nachdem „Ring“1998 international Aufmerksamkeit gewonnen hatte. „Dark Water“ wiederholt keinen Videofluch: Im Zentrum stehen Wohnungssuche, Sorgerecht und ein verlassenes Kind. Die zeitliche Nähe verbindet zwei unterschiedliche Wege desselben Regisseurs in den Geisterfilm.",
+      "sources": [
+        "booklet",
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "Hideo Nakata inszenierte das japanische Original.",
+      "question": "Wer führte beim japanischen Original von „Dark Water“ mit Hitomi Kuroki Regie?",
+      "answers": [
+        "Hideo Nakata",
+        "Kiyoshi Kurosawa",
+        "Takashi Shimizu",
+        "Takashi Miike"
+      ],
+      "short": "Hideo Nakata inszenierte das japanische Original.",
+      "context": "Nakata lässt die Störung in gewöhnlichen Wohnräumen wachsen: Flecken, Geräusche und die Unsicherheit einer Mutter reichen für den Beginn des Horrors. Die Kamera von Junichiro Hayashi und die Tonarbeit gehören zu dieser zurückhaltenden Anlage. Die spätere amerikanische Neuverfilmung stammt von Walter Salles.",
+      "sources": [
+        "verleih",
+        "booklet",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

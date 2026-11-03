@@ -104,6 +104,7 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
     ...genre150.films.map(
       (film) => [`${film.film_title_original}|${film.film_year}`, film.series] as const,
     ),
+    ...genre150.series_updates.map((film) => [film.film, film.series] as const),
   ]);
   let numbered = 0;
   for (const question of state.questions) {

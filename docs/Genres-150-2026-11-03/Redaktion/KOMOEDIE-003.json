@@ -1,0 +1,252 @@
+{
+  "id": "KOMOEDIE-003",
+  "film_title_de": "Willkommen, Mr. Chance",
+  "film_title_original": "Being There",
+  "film_year": 1979,
+  "genre": "Komödie",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Eine bekannte späte Peter-Sellers-Rolle, deren leise politische Satire eher Filmkennern als einem breiten Gelegenheitspublikum vertraut ist.",
+  "selection_reason": "Die Komödie untersucht, wie gesellschaftliche Erwartungen eine öffentliche Autorität herstellen. Sellers’ zurückgenommenes Spiel, Medienbeobachtung und das offene Schlussbild begründen zugleich Arthouse und Classics.",
+  "directors": [
+    "Hal Ashby"
+  ],
+  "production_countries": [
+    "USA",
+    "Bundesrepublik Deutschland"
+  ],
+  "release_note": "US-Erststart in New York am 20. Dezember 1979, Los Angeles am 21. Dezember laut AFI. Keine frühere öffentliche Veröffentlichung in den geprüften Filmquellen ausgewiesen.",
+  "director_note": "Hal Ashby führte Regie; die Literaturvorlage stammt von Jerzy Kosinski.",
+  "country_note": "AFI nennt USA und Westdeutschland sowie Lorimar Film- und Fernsehproduktion GmbH. Criterion führt verkürzt nur USA. Die historische deutsche Beteiligung wird entsprechend dem ausführlichen Archivnachweis erhalten.",
+  "series": null,
+  "series_note": "Keine nummerierte Filmfolge in AFI- und Criterion-Credits ausgewiesen.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/56196-BEING-THERE",
+    "https://www.criterion.com/films/29009-being-there"
+  ],
+  "sources": {
+    "criterion": {
+      "url": "https://www.criterion.com/films/29009-being-there",
+      "accessed_on": "2026-11-03",
+      "supports": "Cast, Regie, Jahr, Romanvorlage, Fernsehen, Missverständnis der Gartenbemerkungen und Grundhandlung."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/56196-BEING-THERE",
+      "accessed_on": "2026-11-03",
+      "supports": "Erststartdaten, USA/Westdeutschland, Rollen, Roman von 1971 und Peter Sellers’ frühe Initiative gegenüber Ashby."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/4473-being-there-american-cipher",
+      "accessed_on": "2026-11-03",
+      "supports": "Mark Harris: Fernseherfahrung, missverstandener Name, politische Deutung, Besetzung und Schlussbild; Sellers’ Tod nach dem Kinostart."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Being_There",
+      "accessed_on": "2026-11-03",
+      "supports": "Namensverwechslung Chance the gardener/Chauncey Gardiner, Begegnung mit Eve Rand und Gang über den See im Finale."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Peter Sellers spielt den abgeschieden aufgewachsenen Chance.",
+      "question": "Wer spielt in „Willkommen, Mr. Chance“ den abgeschieden aufgewachsenen Gärtner, den die Oberschicht für einen klugen Berater hält?",
+      "answers": [
+        "Peter Sellers",
+        "Peter Ustinov",
+        "Jack Lemmon",
+        "Walter Matthau"
+      ],
+      "short": "Peter Sellers verkörpert Chance.",
+      "context": "Chance (Peter Sellers) ist kein redegewandter Hochstapler. Er reagiert auf viele Fragen schlicht und wörtlich. Die Menschen, die ihm begegnen, geben seinen Aussagen dagegen Bedeutungen, die er selbst nicht beabsichtigt. Sellers hält seine Darstellung deshalb auffällig zurück, statt den vermeintlich wissenden Mann durch demonstrative Pointen zu spielen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Chance kennt die Außenwelt vor allem durch das Fernsehen.",
+      "question": "Wodurch hat Chance (Peter Sellers) in „Willkommen, Mr. Chance“ die Außenwelt hauptsächlich kennengelernt, bevor er sein bisheriges Zuhause verlassen muss?",
+      "answers": [
+        "Durch das Fernsehen",
+        "Durch tägliche Zeitungslektüre",
+        "Durch Briefe eines weit gereisten Verwandten",
+        "Durch regelmäßige Telefongespräche mit Geschäftspartnern"
+      ],
+      "short": "Chance bezieht seine Vorstellungen der Außenwelt vor allem aus dem Fernsehen.",
+      "context": "Nach dem Tod seines bisherigen Hausherrn muss Chance (Peter Sellers) die vertraute Umgebung verlassen. Der Umgang mit der wirklichen Stadt lässt sich nicht wie ein Fernsehprogramm steuern. Dennoch bleibt das Medium für ihn ein Orientierungspunkt; später sehen auch andere Menschen ihn als Bildschirmfigur und lesen seine Auftritte als öffentliche Bedeutung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-053-M1",
+      "variant_of": "SCHAUSPIELER-BG-20261013-053-M1",
+      "objective": "Andere deuten Chances Gartenbemerkungen fälschlich als politische und wirtschaftliche Weisheit.",
+      "question": "Warum halten einflussreiche Menschen Chance (Peter Sellers) in „Willkommen, Mr. Chance“ für einen besonders klugen politischen Gesprächspartner?",
+      "answers": [
+        "Sie deuten seine Gartenbemerkungen als wirtschaftliche und gesellschaftliche Weisheiten.",
+        "Sie erkennen in seinen Antworten vorbereitete Analysen aktueller Wirtschaftsberichte.",
+        "Sie halten ihn wegen seiner fremdsprachigen Zitate für einen berühmten Hochschullehrer.",
+        "Sie hören von ihm vertrauliche Informationen über gegnerische Parteien."
+      ],
+      "short": "Seine wörtlich gemeinten Bemerkungen über Pflanzen und Jahreszeiten werden als Metaphern missverstanden.",
+      "context": "Benjamin Rand (Melvyn Douglas) und später der Präsident (Jack Warden) hören in Chances (Peter Sellers) einfachen Sätzen eine wohlüberlegte Haltung zur Wirtschaft. Dabei meint Chance tatsächlich den Garten. Ihre eigenen Erwartungen liefern die gedanklichen Verbindungen, die sie anschließend als Beweis seiner besonderen Urteilskraft ansehen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eve missversteht Chance the gardener als den Namen Chauncey Gardiner.",
+      "question": "Wie entsteht in „Willkommen, Mr. Chance“ der vornehme Name „Chauncey Gardiner“?",
+      "answers": [
+        "Eve missversteht Chances Namen samt Berufsangabe als vollständigen Personennamen.",
+        "Ben leiht Chance die Identität eines verstorbenen Geschäftspartners.",
+        "Chance übernimmt den Namen aus dem Ausweis seines früheren Hausherrn.",
+        "Ein Fernsehmoderator gibt Chance vor seinem ersten Auftritt ein Pseudonym."
+      ],
+      "short": "Eve hört aus „Chance, the gardener“ den Namen „Chauncey Gardiner“ heraus.",
+      "context": "Eve Rand (Shirley MacLaine) lernt Chance (Peter Sellers) nach einem Unfall kennen und nimmt ihn mit nach Hause. Seine Vorstellung wird akustisch falsch verstanden. Die neue Namensform fügt sich zu der eleganten Kleidung, die er aus dem früheren Haushalt trägt, und lässt ihn in seinem neuen Umfeld gesellschaftlich passend erscheinen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Vorlage ist Jerzy Kosinskis Roman Being There.",
+      "question": "Wessen Roman bildet die literarische Grundlage von „Willkommen, Mr. Chance“?",
+      "answers": [
+        "Jerzy Kosinskis",
+        "Joseph Hellers",
+        "John Irvings",
+        "Vladimir Nabokovs"
+      ],
+      "short": "Die Romanvorlage stammt von Jerzy Kosinski.",
+      "context": "Der Roman „Being There“ erschien 1971. Peter Sellers setzte sich über Jahre für eine Verfilmung ein und brachte den Stoff auch Hal Ashby nahe. Der lange Weg zur Realisierung passt zu einer Rolle, deren Wirkung auf minimalen Reaktionen und den Projektionen anderer Menschen beruht, statt auf einem üblichen komischen Verkleidungsspiel.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "Chance geht im Schlussbild über die Wasseroberfläche eines Sees.",
+      "question": "Was tut Chance (Peter Sellers) am Ende von „Willkommen, Mr. Chance“, während im Hintergrund Bens Beerdigung stattfindet?",
+      "answers": [
+        "Er geht über die Wasseroberfläche eines Sees.",
+        "Er schwimmt mit seinen Kleidern durch den See.",
+        "Er rudert allein zu einer kleinen Insel im See.",
+        "Er wirft seinen Regenschirm vom Ufer in den See."
+      ],
+      "short": "Chance geht über den See, ohne einzusinken.",
+      "context": "Chance (Peter Sellers) entfernt sich von der Beerdigung Benjamin Rands (Melvyn Douglas) und kümmert sich noch um ein Bäumchen. Anschließend geht er auf dem Wasser weiter und prüft dessen Tiefe mit dem Schirm. Das Bild wird nicht naturwissenschaftlich aufgelöst. Es verändert rückblickend den Blick auf eine Figur, die andere zuvor ständig zu erklären versucht haben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Being There erschien erstmals 1979.",
+      "question": "In welchem Jahr wurde „Willkommen, Mr. Chance“ mit Peter Sellers erstmals veröffentlicht?",
+      "answers": [
+        "1979",
+        "1971",
+        "1975",
+        "1983"
+      ],
+      "short": "Der erste US-Kinostart war im Dezember 1979.",
+      "context": "Peter Sellers starb im Sommer 1980, nur wenige Monate nach dem Kinostart. Die zurückgenommene Rolle gehört damit in seine späte Karriere. Mark Harris beschreibt, wie der Film dadurch bald einen Abschiedscharakter erhielt, den die Beteiligten während der Dreharbeiten noch nicht vorausgesehen hatten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Hal Ashby führte Regie.",
+      "question": "Wer führte bei der Gesellschaftssatire „Willkommen, Mr. Chance“ mit Peter Sellers Regie?",
+      "answers": [
+        "Hal Ashby",
+        "Sidney Lumet",
+        "Robert Altman",
+        "Mike Nichols"
+      ],
+      "short": "Regisseur ist Hal Ashby.",
+      "context": "Sellers bewunderte Ashbys „Harold und Maude“ und stellte ihm den Roman schon 1973 vor. Die Finanzierung kam erst nach längeren Bemühungen zustande. Ashby ließ später die Welt der Mächtigen auf Chances (Peter Sellers) ruhige Präsenz reagieren: Entscheidend ist häufig, was die anderen in seine wenigen Worte hineinlesen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

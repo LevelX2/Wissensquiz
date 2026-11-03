@@ -1,0 +1,250 @@
+{
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "id": "DRAMA-001",
+  "film_title_de": "Fanny und Alexander",
+  "film_title_original": "Fanny och Alexander",
+  "film_year": 1982,
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein bekanntes Hauptwerk des europäischen Autorenkinos, dessen Figuren und Episoden eher Filmkennern vertraut sind.",
+  "selection_reason": "Verbindet Theaterfamilie, kindliche Vorstellungskraft und autoritäre Erziehung; der Wechsel von üppiger Familienwelt und strenger Bischofswelt begründet die Aufnahme als Autorenfilm.",
+  "directors": [
+    "Ingmar Bergman"
+  ],
+  "production_countries": [
+    "Schweden",
+    "BR Deutschland",
+    "Frankreich"
+  ],
+  "release_note": "Erstveröffentlichung der Kinofassung am 17. Dezember 1982 in Stockholm laut filmportal. Die längere Fernsehfassung wurde 1983 veröffentlicht. Beide Präsentationsformen gehören zur selben Filmidentität; hier steht das früheste Filmjahr 1982.",
+  "series_note": "Eigenständiger Film in Kino- und längerer Fernsehfassung. Bergmans weitere autobiografisch geprägte Arbeiten sind keine belegte nummerierte Fanny-und-Alexander-Filmfolge.",
+  "series_sources": [
+    "https://www.ingmarbergman.se/en/production/fanny-and-alexander-0",
+    "https://www.filmportal.de/film/fanny-und-alexander_b11e30d5af054251bcbacc7f390b674b"
+  ],
+  "sources": {
+    "filmportal": {
+      "url": "https://www.filmportal.de/film/fanny-und-alexander_b11e30d5af054251bcbacc7f390b674b",
+      "accessed_on": "2026-11-03",
+      "supports": "Kinopremiere am 17. Dezember 1982, Produktionsländer, Credits und Darsteller; Kino- und Fernsehfassung separat dokumentiert."
+    },
+    "archiv": {
+      "url": "https://www.ingmarbergman.se/en/production/fanny-and-alexander-0",
+      "accessed_on": "2026-11-03",
+      "supports": "Ekdahls als Theaterfamilie, Vaterverlust, Bischof, Produktionsgeschichte und Credits, Kameramann Sven Nykvist, vier Oscars 1984 und Unterscheidung der Fassungen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Fanny_and_Alexander",
+      "accessed_on": "2026-11-03",
+      "supports": "Familien- und Bischofskonflikt, Alexanders Behauptung über die gestorbenen Kinder, Isaks Rettung, Hamlet-Motiv und Besetzungen."
+    },
+    "rettung": {
+      "url": "https://www.josef-weinberger.com/plays-and-pantomime/play/fanny-and-alexander.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkrete Rettung der Kinder in Isaks gekaufter Truhe; Beschreibung des Filmstoffs beim Bühnenrechteverlag."
+    },
+    "hamlet": {
+      "url": "https://www.acsu.buffalo.edu/~bjackson/bfs/fanny21.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmbegleitender Universitätstext zur Hamlet-Probe, Oscars Zusammenbruch und Tod."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Ekdahls betreiben ein Theater.",
+      "question": "Welcher Berufswelt gehört die Familie Ekdahl in „Fanny und Alexander“ an?",
+      "answers": [
+        "Dem Theater",
+        "Der Medizin",
+        "Der Handelsschifffahrt",
+        "Dem Militär"
+      ],
+      "short": "Die Ekdahls sind eine Theaterfamilie.",
+      "context": "Oscar Ekdahl (Allan Edwall) führt das Theater, in dessen Umfeld Fanny (Pernilla Allwin) und Alexander (Bertil Guve) aufwachsen. Darstellungen und Familienleben sind eng miteinander verbunden. Die lebhafte Weihnachtsfeier zeigt zunächst eine große Gemeinschaft, bevor ein Todesfall den Kindern diese vertraute Ordnung entzieht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Emilies neuer Mann Edvard Vergérus ist Bischof.",
+      "question": "Welches Amt hat Emilies neuer Ehemann Edvard Vergérus (Jan Malmsjö) in „Fanny und Alexander“?",
+      "answers": [
+        "Er ist Bischof.",
+        "Er ist Bürgermeister.",
+        "Er ist Theaterintendant.",
+        "Er ist Polizeipräsident."
+      ],
+      "short": "Edvard Vergérus ist Bischof.",
+      "context": "Emilie Ekdahl (Ewa Fröling) verbindet mit Edvard Vergérus (Jan Malmsjö) zunächst Trost und eine neue feste Ordnung. Für ihre Kinder wird sein Haus jedoch zum Ort von Kontrolle und Strafe. Der neue Familienvater setzt Gehorsam durch, während die frühere Umgebung vom Theater und lebhaften Erzählen geprägt war.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Alexanders Erzählung beschuldigt den Bischof am Tod seiner früheren Kinder.",
+      "question": "Welche Erzählung bringt Alexander (Bertil Guve) in „Fanny und Alexander“ eine schwere Bestrafung durch den Bischof ein?",
+      "answers": [
+        "Die Geister der verstorbenen Kinder geben dem Bischof die Schuld an ihrem Tod.",
+        "Der Bischof habe heimlich das gesamte Familientheater gekauft.",
+        "Sein verstorbener Vater habe ihm einen verborgenen Goldschatz hinterlassen.",
+        "Die Bediensteten planten einen Raub während des Gottesdiensts."
+      ],
+      "short": "Alexander erzählt, die Geister hätten ihren Vater, den Bischof, für ihren Tod verantwortlich gemacht.",
+      "context": "Alexander (Bertil Guve) erzählt von Geisterbegegnungen; die Magd Justina (Harriet Andersson) trägt die Geschichte an Edvard Vergérus (Jan Malmsjö) weiter. Dessen Reaktion ist körperliche Gewalt. Erzählen wird dadurch nicht bloß als Spiel gezeigt, sondern als gefährliche Gegenrede zu einer beanspruchten Autorität.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Isak Jacobi schmuggelt die Kinder in einer Truhe aus dem Bischofshaus.",
+      "question": "Wie bringt Isak Jacobi (Erland Josephson) die Kinder in „Fanny und Alexander“ aus dem Haus des Bischofs?",
+      "answers": [
+        "Er verbirgt sie in einer Truhe, die er dort kauft.",
+        "Er verkleidet sie als neu eingestellte Küchenhilfen.",
+        "Er lässt sie in einem präparierten Theaterkostüm auftreten.",
+        "Er verschafft ihnen gefälschte Ausreisepapiere."
+      ],
+      "short": "Isak versteckt die Kinder in einer gekauften Truhe.",
+      "context": "Der geschäftliche Besuch gibt Isak Jacobi (Erland Josephson) einen Vorwand, einen großen Gegenstand aus dem Haus tragen zu lassen. Die Rettung von Fanny (Pernilla Allwin) und Alexander (Bertil Guve) verbindet eine praktische List mit einem rätselhaft inszenierten Moment. Der Film legt keine rein technische Erklärung seiner Magie fest.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "rettung",
+        "handlung"
+      ],
+      "spoiler": "stark"
+    },
+    {
+      "code": "S1",
+      "objective": "Oscars Zusammenbruch ereignet sich bei einer Hamletprobe.",
+      "question": "Bei der Probe zu welchem Stück bricht Oscar Ekdahl (Allan Edwall) in „Fanny und Alexander“ zusammen?",
+      "answers": [
+        "Hamlet",
+        "König Lear",
+        "Macbeth",
+        "Der Sturm"
+      ],
+      "short": "Oscar bricht bei einer Probe zu „Hamlet“ zusammen.",
+      "context": "Oscar Ekdahl (Allan Edwall) spielt den Geist von Hamlets Vater. Nach seinem Tod erscheint er auch Alexander (Bertil Guve) als geisterhafte Gestalt. Das Bühnenmotiv eines toten Vaters verbindet sich dadurch mit dem kindlichen Versuch, Verlust und die neue Stellung der Mutter zu begreifen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "hamlet",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Sven Nykvist verantwortet die Kamera.",
+      "question": "Wer war der verantwortliche Kameramann von „Fanny und Alexander“?",
+      "answers": [
+        "Sven Nykvist",
+        "Gunnar Fischer",
+        "Jörgen Persson",
+        "Haskell Wexler"
+      ],
+      "short": "Die Kamera verantwortete Sven Nykvist.",
+      "context": "Nykvists Arbeit gehört zu den vier mit einem Oscar ausgezeichneten Bereichen des Films. Kamera, Ausstattung und Kostüme wirken an der sinnlichen Familienwelt und den veränderten Räumen des späteren Lebensabschnitts zusammen. Der Kameracredit ist dabei von Bergmans Regie und den Credits der Ausstattung zu unterscheiden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "archiv",
+        "filmportal"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung der Kinofassung 1982.",
+      "question": "In welchem Jahr wurde die Kinofassung von „Fanny und Alexander“ erstmals veröffentlicht?",
+      "answers": [
+        "1982",
+        "1978",
+        "1986",
+        "1990"
+      ],
+      "short": "Die erste Kinofassung erschien 1982.",
+      "context": "Die längere Fernsehfassung folgte 1983; 1984 erhielt der Film vier Oscars, darunter für den fremdsprachigen Film und Sven Nykvists Kamera. Die zeitlich versetzten Veröffentlichungs- und Preisstationen erklären unterschiedliche Jahresangaben zum Werk. Für das Filmjahr zählt der erste Kinostart 1982.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmportal",
+        "archiv"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Ingmar Bergman schreibt und inszeniert den Film.",
+      "question": "Wer führte bei „Fanny und Alexander“ Regie?",
+      "answers": [
+        "Ingmar Bergman",
+        "Bo Widerberg",
+        "Jan Troell",
+        "Lasse Hallström"
+      ],
+      "short": "Ingmar Bergman schrieb und inszenierte den Film.",
+      "context": "Bergman verstand das große Familienporträt als Rückblick auf seine Arbeit als Filmemacher. Theater, kindliche Wahrnehmung und der Konflikt mit strafender Autorität werden in einer ausgedehnten Geschichte verbunden. Die autobiografische Prägung macht die erfundene Familie Ekdahl jedoch nicht zu einer lückenlosen Dokumentation seines eigenen Lebens.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "archiv"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

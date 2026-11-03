@@ -35,6 +35,52 @@
         "ROMCOM-002",
         "ROMCOM-003"
       ]
+    },
+    {
+      "wave": "W03",
+      "filename": "Genres150_20261103_W03.csv",
+      "path": "/genres150-20261103-w03-fragen.csv",
+      "films": [
+        "HORROR-001",
+        "HORROR-002",
+        "HORROR-003",
+        "MARTIALARTS-001",
+        "MARTIALARTS-002",
+        "MARTIALARTS-003",
+        "DRAMA-001",
+        "DRAMA-002",
+        "DRAMA-003",
+        "KOMOEDIE-001",
+        "KOMOEDIE-002",
+        "KOMOEDIE-003"
+      ]
+    }
+  ],
+  "series_updates": [
+    {
+      "film": "Mon Oncle|1958",
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 2,
+        "note": "Zweiter der vier eigenständigen Kinofilme mit Jacques Tatis wiederkehrender Hulot-Figur, nach Veröffentlichung gezählt."
+      },
+      "sources": [
+        "https://www.criterion.com/films/650-mon-oncle",
+        "https://www.janusfilms.com/films/1130"
+      ]
+    },
+    {
+      "film": "Playtime|1967",
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 3,
+        "note": "Dritter der vier Hulot-Kinofilme: Die Ferien des Monsieur Hulot (1953), Mon Oncle (1958), Playtime (1967), Trafic (1971). Keine durchgehende Handlung."
+      },
+      "sources": [
+        "https://www.criterion.com/films/651-playtime",
+        "https://www.janusfilms.com/films/1131",
+        "https://www.janusfilms.com/films/list?director=Jacques+Tati"
+      ]
     }
   ]
 }

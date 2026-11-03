@@ -1,0 +1,244 @@
+{
+  "id": "HORROR-002",
+  "film_title_de": "The Devil’s Backbone",
+  "film_title_original": "El espinazo del diablo",
+  "film_year": 2001,
+  "genre": "Horror",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein international geschätzter Geisterfilm Guillermo del Toros, beim breiten Publikum weniger bekannt als Pans Labyrinth.",
+  "selection_reason": "Verbindet eine konkrete historische Bedrohung mit kindlicher Wahrnehmung und einer Geistergeschichte; Autorenkino innerhalb des Horrorgenres.",
+  "directors": [
+    "Guillermo del Toro"
+  ],
+  "production_countries": [
+    "Spanien",
+    "Mexiko"
+  ],
+  "release_note": "Spanischer Erststart am 20. April 2001; AFI FEST und Criterion bestätigen das Erstveröffentlichungsjahr.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Handlung. Pans Labyrinth ist ein thematisches Schwesterwerk, keine Fortsetzung. Die Criterion-Box Trilogía ist eine Werksammlung und erzeugt keine nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.criterion.com/films/27914-the-devil-s-backbone",
+    "https://www.criterion.com/current/posts/2850-the-devil-s-backbone-the-past-is-never-dead"
+  ],
+  "sources": {
+    "criterion": {
+      "url": "https://www.criterion.com/films/27914-the-devil-s-backbone",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Besetzung, Länder, Erstjahr und historische Grundsituation."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/2850-the-devil-s-backbone-the-past-is-never-dead",
+      "accessed_on": "2026-11-03",
+      "supports": "Bewusst vergrößerte Bombe, Kinderperspektive, Paracuellos und Carlos Giménez, Produktionsfreiheit sowie Chronologie 2001/2006."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Backbone",
+      "accessed_on": "2026-11-03",
+      "supports": "Erststart, Jacintos Mordmotiv, Santis Tod und Goldgewicht im Finale."
+    },
+    "afi": {
+      "url": "https://fest.afi.com/2001/latin-cinema-series-2001/the-devils-backbone/",
+      "accessed_on": "2026-11-03",
+      "supports": "Erstjahr, Regie, Länder und Besetzung; Carlos und das Waisenhaus gegen Ende des Bürgerkriegs."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Geschichte spielt gegen Ende des Spanischen Bürgerkriegs.",
+      "question": "Welcher Krieg bildet den historischen Hintergrund von „The Devil’s Backbone“?",
+      "answers": [
+        "Der Spanische Bürgerkrieg",
+        "Der Mexikanisch-Amerikanische Krieg",
+        "Der Erste Weltkrieg",
+        "Der Algerische Unabhängigkeitskrieg"
+      ],
+      "short": "Die Geschichte spielt gegen Ende des Spanischen Bürgerkriegs.",
+      "context": "Carlos (Fernando Tielve) wird in einem abgelegenen Waisenhaus untergebracht. Carmen (Marisa Paredes) und Casares (Federico Luppi) schützen Kinder der republikanischen Seite. Die Kämpfe bleiben außerhalb des Hauses, ihre Folgen bestimmen aber, wer hier Zuflucht sucht und weshalb die Erwachsenen um den Fortbestand des Ortes fürchten.",
+      "sources": [
+        "criterion",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Im Hof steckt eine nicht explodierte Fliegerbombe.",
+      "question": "Welches Kriegsrelikt steht in „The Devil’s Backbone“ mitten im Hof des Waisenhauses?",
+      "answers": [
+        "Eine nicht explodierte Fliegerbombe",
+        "Ein zerstörter Panzer",
+        "Ein ausgebranntes Jagdflugzeug",
+        "Ein gesprengter Eisenbahnwaggon"
+      ],
+      "short": "Im Hof steckt eine nicht explodierte Fliegerbombe.",
+      "context": "Die Kinder leben neben dem gewaltigen Bombenkörper weiter. Seine bloße Anwesenheit verbindet den vermeintlichen Schutzraum mit dem Krieg. Carlos (Fernando Tielve) erreicht keinen unberührten Ort: Die Gefahr hat bereits Spuren hinterlassen, bevor er die Geschichte des Geisterjungen versteht.",
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Santi wurde Zeuge von Jacintos Zugriff auf das Goldversteck.",
+      "question": "Warum brachte Jacinto (Eduardo Noriega) Santi in „The Devil’s Backbone“ zum Schweigen?",
+      "answers": [
+        "Santi hatte ihn beim Versuch beobachtet, an das versteckte Gold zu kommen.",
+        "Santi hatte Carmen von seiner geplanten Flucht mit Conchita erzählt.",
+        "Santi hatte eine Nachricht für die republikanischen Kämpfer abgefangen.",
+        "Santi hatte den Schlüssel zum Waffenraum verschwinden lassen."
+      ],
+      "short": "Santi wurde Zeuge von Jacintos Zugriff auf das Goldversteck.",
+      "context": "Jacinto (Eduardo Noriega) verfolgt das im Haus verwahrte Gold. Als Santi (Junio Valverde) ihn dabei sieht, verletzt er den Jungen schwer und versenkt dessen Körper in der Zisterne. Der Geist gehört zu einem vertuschten Verbrechen innerhalb des Hauses, nicht nur zum Krieg außerhalb.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Beute in seiner Kleidung beschwert Jacinto im Wasser.",
+      "question": "Was erschwert Jacinto (Eduardo Noriega) im Finale von „The Devil’s Backbone“ das Auftauchen aus der Zisterne?",
+      "answers": [
+        "Das mitgenommene Gold zieht ihn nach unten.",
+        "Die Jungen haben ihn an einem schweren Heizkörper festgebunden.",
+        "Seine verletzten Hände bleiben im Ablaufgitter hängen.",
+        "Ein umstürzender Balken blockiert ihm den Weg an die Oberfläche."
+      ],
+      "short": "Die Beute in seiner Kleidung beschwert Jacinto im Wasser.",
+      "context": "Die Kinder wehren sich gegen Jacinto (Eduardo Noriega) und stoßen ihn in die Zisterne. Gerade das Gold, das er um jeden Preis besitzen wollte, behindert seine Rettung. Dort begegnet er außerdem Santi (Junio Valverde), dessen Körper er zuvor an derselben Stelle verborgen hat.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die übersteigerte Größe entspricht dem Eindruck der Kinder.",
+      "question": "Warum ließ Guillermo del Toro die Bombe im Hof von „The Devil’s Backbone“ auffällig groß gestalten?",
+      "answers": [
+        "Sie soll aus der Wahrnehmung der Kinder besonders bedrohlich wirken.",
+        "Sie ist als genaue Rekonstruktion einer besonderen Bombenbaureihe gemeint.",
+        "Sie sollte die Explosion im Finale mit derselben Kulisse ermöglichen.",
+        "Sie musste für die Fernaufnahmen aus großer Höhe erkennbar bleiben."
+      ],
+      "short": "Die übersteigerte Größe entspricht dem Eindruck der Kinder.",
+      "context": "Der Bombenkörper ist nicht einfach ein maßstabgetreues Ausstattungsdetail. Seine Größe wurde bewusst gesteigert, damit die Kriegsbedrohung im kindlichen Blick sichtbar wird. Die Entscheidung verbindet ein konkretes Requisit mit der Erzählperspektive; der Hof bleibt ein Ort des Alltags und zugleich der Angst.",
+      "sources": [
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Del Toro bezog sich unter anderem auf Carlos Giménez’ „Paracuellos“.",
+      "question": "Welche Comicreihe von Carlos Giménez beeinflusste die Darstellung des Heims in „The Devil’s Backbone“?",
+      "answers": [
+        "Paracuellos",
+        "Mortadelo y Filemón",
+        "El Capitán Trueno",
+        "Blacksad"
+      ],
+      "short": "Del Toro bezog sich unter anderem auf Carlos Giménez’ „Paracuellos“.",
+      "context": "„Paracuellos“ verarbeitet Erfahrungen von Kindern in spanischen Fürsorgeheimen. Carlos Giménez arbeitete außerdem an Storyboards des Films. Der Einfluss betrifft damit nicht bloß einen ähnlich klingenden Titel: Die Darstellung institutioneller Kindheit und die visuelle Vorbereitung des Waisenhauses berühren sich in einer konkreten Mitarbeit.",
+      "sources": [
+        "essay",
+        "criterion"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Film erschien 2001.",
+      "question": "In welchem Jahr wurde Guillermo del Toros „The Devil’s Backbone“ erstmals veröffentlicht?",
+      "answers": [
+        "2001",
+        "1993",
+        "1997",
+        "2006"
+      ],
+      "short": "Der Film erschien 2001.",
+      "context": "„The Devil’s Backbone“ von 2001 und „Pans Labyrinth“ von 2006 verbinden kindliche Wahrnehmung mit Spaniens faschistischer Gewaltgeschichte. Del Toro bezeichnete sie als besonders persönliche Schwesterwerke. Die spätere Ähnlichkeit macht aus dem früheren Film keine Vorstufe derselben Handlung: Beide Geschichten besitzen eigene Figuren und Konflikte.",
+      "sources": [
+        "criterion",
+        "essay",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "Guillermo del Toro führte Regie.",
+      "question": "Wer führte bei „The Devil’s Backbone“ mit Federico Luppi und Marisa Paredes Regie?",
+      "answers": [
+        "Guillermo del Toro",
+        "Alejandro Amenábar",
+        "Juan Antonio Bayona",
+        "Álex de la Iglesia"
+      ],
+      "short": "Guillermo del Toro führte Regie.",
+      "context": "Nach den Konflikten um seine Hollywoodarbeit „Mimic“ suchte Guillermo del Toro größere künstlerische Freiheit. Die Zusammenarbeit mit den Almodóvar-Brüdern und El Deseo ermöglichte die persönliche spanischsprachige Geistergeschichte. Der Film verbindet historische Gewalt und Fantastik, ohne sie auf voneinander getrennte Schauwerte zu reduzieren.",
+      "sources": [
+        "essay",
+        "criterion"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

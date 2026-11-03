@@ -1,0 +1,242 @@
+{
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "id": "DRAMA-002",
+  "film_title_de": "Umberto D.",
+  "film_title_original": "Umberto D.",
+  "film_year": 1952,
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein zentraler italienischer Nachkriegsklassiker, dessen konkrete Handlung vor allem filmhistorisch Interessierten bekannt ist.",
+  "selection_reason": "Italienischer Neorealismus über Alter, Miete, Scham und Bindung; beobachtete Alltagsabläufe und ein nichtprofessioneller Hauptdarsteller begründen die Arthouse-Zuordnung.",
+  "directors": [
+    "Vittorio De Sica"
+  ],
+  "production_countries": [
+    "Italien"
+  ],
+  "release_note": "Erste italienische Veröffentlichung am 20. Januar 1952; das Produktionsjahr 1951 und spätere Auslandsstarts werden nicht als Filmjahr verwendet.",
+  "series_note": "Eigenständiger Spielfilm. Gemeinsamkeiten mit anderen Filmen des Neorealismus bilden keine nummerierte Handlungsfolge.",
+  "series_sources": [
+    "https://www.criterion.com/films/371-umberto-d?q=autocomplete"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://www.criterion.com/films/371-umberto-d?q=autocomplete",
+      "accessed_on": "2026-11-03",
+      "supports": "Italien 1952, Regie Vittorio De Sica, pensionierter Mann, Hund Flike, Armut und Würde."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/292-seeing-clearly-through-tears-on-the-smart-sentiment-of-umberto-d",
+      "accessed_on": "2026-11-03",
+      "supports": "Neorealistische Alltagsbeobachtung; Carlo Battisti als Florentiner Sprachwissenschaftler; Maria Pia Casilio, Lina Gennari; Zusammenarbeit mit Cesare Zavattini und Fahrraddiebe von 1948."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Umberto_D.",
+      "accessed_on": "2026-11-03",
+      "supports": "Mietschulden, Umbau zum Wohnzimmer, Maria und ihre Schwangerschaft, Hund, Bahngleis und offener Schluss; Rollen und erster Start."
+    },
+    "termine": {
+      "url": "https://cineuropa.org/en/film/400963/",
+      "accessed_on": "2026-11-03",
+      "supports": "Italienischer Start am 20. Januar 1952 und spätere Auslandsveröffentlichungen."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Eine zu geringe Pension und Mietschulden bedrohen Umbertos Wohnung.",
+      "question": "Welches Problem bedroht den Alltag der Hauptfigur in „Umberto D.“ besonders?",
+      "answers": [
+        "Seine Pension reicht kaum für den Lebensunterhalt und die ausstehende Miete.",
+        "Ein Streik verhindert den Beginn seiner ersten Arbeitsstelle.",
+        "Eine Erbschaft verpflichtet ihn zum Unterhalt eines großen Landguts.",
+        "Er muss ein verlorenes Kunstwerk seiner Auftraggeber wiederbeschaffen."
+      ],
+      "short": "Umberto droht wegen seiner Geldnot der Verlust seines Zimmers.",
+      "context": "Umberto Domenico Ferrari (Carlo Battisti) gehört zu den Rentnern, die zu Beginn für höhere Bezüge demonstrieren. Danach konzentriert sich der Film auf seinen persönlichen Alltag. Der Kampf um ein möbliertes Zimmer wird zur Frage, wie ein Mensch ohne finanzielle Sicherheit Selbstachtung bewahren kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Ein kleiner Hund ist Umbertos beständigster Gefährte.",
+      "question": "Welches Tier ist der wichtigste ständige Gefährte der Hauptfigur in „Umberto D.“?",
+      "answers": [
+        "Ein Hund",
+        "Eine Katze",
+        "Ein Kanarienvogel",
+        "Eine Schildkröte"
+      ],
+      "short": "Umberto wird von einem kleinen Hund begleitet.",
+      "context": "Flike ist für Umberto Domenico Ferrari (Carlo Battisti) mehr als ein Haustier im Hintergrund. Er muss bei der Suche nach Unterkunft und Hilfe immer mitbedacht werden. Die Verantwortung für den Hund hält eine Bindung aufrecht, während die menschlichen Kontakte des alten Mannes zunehmend brüchig werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Vermieterin will Umbertos Zimmer einem größeren Wohnzimmer zuschlagen.",
+      "question": "Was erfährt Umberto (Carlo Battisti) in „Umberto D.“ nach seinem Krankenhausaufenthalt über sein Zimmer?",
+      "answers": [
+        "Es soll Teil eines vergrößerten Wohnzimmers seiner Vermieterin werden.",
+        "Es ist einem neuen Mieter mit höherem Einkommen zugesagt.",
+        "Es soll künftig als Lagerraum für ein Geschäft dienen.",
+        "Es wird ohne sein Wissen an Touristen untervermietet."
+      ],
+      "short": "Die Vermieterin lässt das Zimmer für ihre eigene Wohnung umbauen.",
+      "context": "Umberto Domenico Ferrari (Carlo Battisti) kehrt zurück und findet eine aufgebrochene Wand. Antonia Belloni (Lina Gennari) plant ihre Heirat und erweitert den eigenen Lebensraum. Seine Bleibe zählt in diesen Plänen nicht als bestehende menschliche Bindung, sondern als anderweitig nutzbare Fläche.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die schwangere Hausangestellte weiß nicht, welcher ihrer beiden Soldatenfreunde der Vater ist.",
+      "question": "Welche Sorge vertraut Maria (Maria Pia Casilio) dem alten Mann in „Umberto D.“ an?",
+      "answers": [
+        "Sie ist schwanger und weiß nicht, welcher ihrer beiden Freunde der Vater ist.",
+        "Sie soll in ihr Heimatdorf zurückkehren und einen fremden Mann heiraten.",
+        "Sie hat ihre Ersparnisse für die Auswanderung verloren.",
+        "Sie hat ihre Stelle gekündigt und findet keine andere."
+      ],
+      "short": "Maria ist schwanger und über die Vaterschaft im Ungewissen.",
+      "context": "Maria (Maria Pia Casilio) begegnet Umberto Domenico Ferrari (Carlo Battisti) mit Sympathie, hat aber selbst eine unsichere Zukunft. Ihre Beziehungen zu zwei Soldaten bieten keinen verlässlichen Schutz. Die Nähe zwischen beiden entsteht gerade nicht daraus, dass einer dem anderen alle Schwierigkeiten abnehmen könnte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Carlo Battisti war Sprachwissenschaftler statt Berufsschauspieler.",
+      "question": "Aus welchem Beruf kam Carlo Battisti, der Hauptdarsteller von „Umberto D.“?",
+      "answers": [
+        "Er war Professor für Sprachwissenschaft.",
+        "Er war praktizierender Tierarzt.",
+        "Er war ein pensionierter Berufsdiplomat.",
+        "Er war ein ausgebildeter Opernsänger."
+      ],
+      "short": "Battisti war Sprachwissenschaftler und kein etablierter Berufsschauspieler.",
+      "context": "Sein akademischer Hintergrund unterscheidet ihn vom gewohnten Star einer großen Filmrolle. Der Film verbindet nichtprofessionelle Darsteller mit erfahrenen Mitwirkenden, statt pauschal auf Schauspielkunst zu verzichten. Umberto Domenico Ferrari (Carlo Battisti) gewinnt dabei durch zurückhaltende Gesten und alltägliche Verrichtungen eine konkrete Präsenz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Hund befreit sich vor dem Zug und zwingt Umberto, ihm nachzugehen.",
+      "question": "Was unterbricht in „Umberto D.“ den verzweifelten Versuch des alten Mannes, mit seinem Hund vor einen Zug zu treten?",
+      "answers": [
+        "Der erschrockene Hund windet sich los und läuft davon.",
+        "Ein früherer Kollege erscheint mit einer neuen Arbeitszusage.",
+        "Die Vermieterin holt ihn persönlich zu seinem Zimmer zurück.",
+        "Die Polizei hält den Zug aufgrund einer Streckensperrung an."
+      ],
+      "short": "Der Hund befreit sich und flieht; Umberto läuft ihm nach.",
+      "context": "Umberto Domenico Ferrari (Carlo Battisti) muss das verlorene Vertrauen des Tiers erst wiedergewinnen. Aus dem Nachlaufen entwickelt sich schließlich ein Spiel mit einem Zapfen. Die materiellen Schwierigkeiten sind damit nicht behoben. Der Schluss zeigt eine erneuerte Beziehung und setzt sie an die Stelle einer abschließenden sozialen Lösung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "stark"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 1952.",
+      "question": "In welchem Jahr wurde „Umberto D.“ erstmals veröffentlicht?",
+      "answers": [
+        "1952",
+        "1946",
+        "1958",
+        "1964"
+      ],
+      "short": "Der Film erschien 1952.",
+      "context": "Vier Jahre zuvor hatten Vittorio De Sica und Cesare Zavattini mit „Fahrraddiebe“ von 1948 ein anderes zentrales Werk des Neorealismus geschaffen. „Umberto D.“ verschiebt den Blick auf einen alten Mann und den Verlust von Würde. Seine italienische Aufnahme war deutlich ablehnender als die spätere internationale Anerkennung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay",
+        "termine"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Vittorio De Sica führt Regie.",
+      "question": "Wer führte bei „Umberto D.“ Regie?",
+      "answers": [
+        "Vittorio De Sica",
+        "Roberto Rossellini",
+        "Luchino Visconti",
+        "Giuseppe De Santis"
+      ],
+      "short": "Vittorio De Sica führte Regie.",
+      "context": "Cesare Zavattini schrieb das Drehbuch. Zu den auffälligen Formen des Films gehören längere Beobachtungen unspektakulärer Tätigkeiten, etwa im Alltag der Hausangestellten Maria (Maria Pia Casilio). Sie geben Menschen und Verrichtungen Raum, die eine stärker auf Handlungspunkte konzentrierte Erzählung leicht überspringen würde.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "film",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

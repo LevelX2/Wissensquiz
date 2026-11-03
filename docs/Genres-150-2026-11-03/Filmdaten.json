@@ -1243,6 +1243,777 @@
       "reference_question_id": "G150-20261103-ROMCOM-003-L1",
       "year_question_id": "G150-20261103-ROMCOM-003-Y",
       "director_question_id": "G150-20261103-ROMCOM-003-D"
+    },
+    {
+      "id": "HORROR-001",
+      "film_title_de": "Dark Water",
+      "film_title_original": "Honogurai mizu no soko kara",
+      "film_year": 2002,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein etablierter japanischer Geisterfilm; außerhalb des J-Horror-Publikums eher durch das spätere US-Remake bekannt.",
+      "directors": [
+        "Hideo Nakata"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "release_note": "Japanischer Erststart am 19. Januar 2002 laut Originalcredits im Arrow-Booklet. Der NZIFF-Archivkopf nennt abweichend 2001; die zeitnahe Creditsangabe und die Verleihangaben bestätigen 2002.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige Suzuki-Adaption. Das gleichnamige US-Remake von 2005 ist keine Fortsetzung und erhält keine Teilnummer.",
+      "series_sources": [
+        "https://s1.thcdn.com/design-assets/documents/arrowfilms/Dark%20Water.pdf"
+      ],
+      "sources": [
+        {
+          "key": "booklet",
+          "url": "https://s1.thcdn.com/design-assets/documents/arrowfilms/Dark%20Water.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Originalcredits, Originaltitel, Startdatum, Regie, Besetzung, Suzuki-Vorlage, familiäre Vernachlässigung und Bezug zu Ring (1998)."
+        },
+        {
+          "key": "verleih",
+          "url": "https://www.arrowvideo.com/p/dark-water-4k-uhd/17227277/",
+          "accessed_on": "2026-11-03",
+          "supports": "Sorgerechtskonflikt, Mutter und Tochter, Wohnhaus, Regie und Erstjahr 2002."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Dark_Water_(2002_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Rote Tasche, Mitsukos Tod im Wassertank, Aufzugsszene und Yoshimis Opfer."
+        },
+        {
+          "key": "festival",
+          "url": "https://www.nziff.co.nz/2002/archive-1/dark-water/",
+          "accessed_on": "2026-11-03",
+          "supports": "Besetzung und rote Kindertasche auf dem Dach; abweichendes Katalogjahr 2001 nicht als Erstveröffentlichungsjahr übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-001-L1",
+      "year_question_id": "G150-20261103-HORROR-001-Y",
+      "director_question_id": "G150-20261103-HORROR-001-D"
+    },
+    {
+      "id": "HORROR-002",
+      "film_title_de": "The Devil’s Backbone",
+      "film_title_original": "El espinazo del diablo",
+      "film_year": 2001,
+      "subdomain": "Horror",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein international geschätzter Geisterfilm Guillermo del Toros, beim breiten Publikum weniger bekannt als Pans Labyrinth.",
+      "directors": [
+        "Guillermo del Toro"
+      ],
+      "production_countries": [
+        "Spanien",
+        "Mexiko"
+      ],
+      "release_note": "Spanischer Erststart am 20. April 2001; AFI FEST und Criterion bestätigen das Erstveröffentlichungsjahr.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige Handlung. Pans Labyrinth ist ein thematisches Schwesterwerk, keine Fortsetzung. Die Criterion-Box Trilogía ist eine Werksammlung und erzeugt keine nummerierte Filmfolge.",
+      "series_sources": [
+        "https://www.criterion.com/films/27914-the-devil-s-backbone",
+        "https://www.criterion.com/current/posts/2850-the-devil-s-backbone-the-past-is-never-dead"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/27914-the-devil-s-backbone",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Besetzung, Länder, Erstjahr und historische Grundsituation."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/2850-the-devil-s-backbone-the-past-is-never-dead",
+          "accessed_on": "2026-11-03",
+          "supports": "Bewusst vergrößerte Bombe, Kinderperspektive, Paracuellos und Carlos Giménez, Produktionsfreiheit sowie Chronologie 2001/2006."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Devil%27s_Backbone",
+          "accessed_on": "2026-11-03",
+          "supports": "Erststart, Jacintos Mordmotiv, Santis Tod und Goldgewicht im Finale."
+        },
+        {
+          "key": "afi",
+          "url": "https://fest.afi.com/2001/latin-cinema-series-2001/the-devils-backbone/",
+          "accessed_on": "2026-11-03",
+          "supports": "Erstjahr, Regie, Länder und Besetzung; Carlos und das Waisenhaus gegen Ende des Bürgerkriegs."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-002-L1",
+      "year_question_id": "G150-20261103-HORROR-002-Y",
+      "director_question_id": "G150-20261103-HORROR-002-D"
+    },
+    {
+      "id": "HORROR-003",
+      "film_title_de": "Session 9",
+      "film_title_original": "Session 9",
+      "film_year": 2001,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ein psychologischer Kult-Horrorfilm mit kleinerem Verbreitungsgrad als die großen Spukhausreihen.",
+      "directors": [
+        "Brad Anderson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Festivalpremiere am 31. Juli 2001 bei Fantasia; regulärer US-Start am 10. August 2001. Das Jahr wird von Universal und zeitgenössischen Interviews bestätigt.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiger Film. Die im Interview genannten Scherze über Session 10 sind keine Fortsetzung; spätere Prequelpläne ergeben keine bereits veröffentlichte nummerierte Filmfolge.",
+      "series_sources": [
+        "https://www.aboutfilm.com/features/session9/interview.htm",
+        "https://en.wikipedia.org/wiki/Session_9"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/session-9",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Jahr 2001, Besetzung, verlassene Anstalt und Arbeitsschutzteam."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Session_9",
+          "accessed_on": "2026-11-03",
+          "supports": "Asbestsanierung, Therapiebänder, Marys Stimmen, Jeffs Dunkelangst, Hanks Münzfund, Premiere und Besetzung."
+        },
+        {
+          "key": "interview",
+          "url": "https://legacy.aintitcool.com/node/10059",
+          "accessed_on": "2026-11-03",
+          "supports": "Anderson im Interview 2001 über 24p-HD, wenig Licht, Danvers und den gleichzeitigen Kinolauf von Happy Accidents."
+        },
+        {
+          "key": "ton",
+          "url": "https://www.aboutfilm.com/features/session9/interview.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Anderson und Caruso über den realen Drehort, die Tonmontage und eine einzelne Darstellerin für Marys verschiedene Stimmen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-003-L1",
+      "year_question_id": "G150-20261103-HORROR-003-Y",
+      "director_question_id": "G150-20261103-HORROR-003-D"
+    },
+    {
+      "id": "MARTIALARTS-001",
+      "film_title_de": "Shaolin – Kloster der Rächer",
+      "film_title_original": "Shao Lin Si",
+      "film_year": 1982,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein Schlüsselwerk für Jet Lis Karriere und die Wiederbelebung des Shaolinkinos, heute vor allem Martial-Arts-Interessierten vertraut.",
+      "directors": [
+        "Chang Hsin-yen"
+      ],
+      "production_countries": [
+        "Hongkong",
+        "China"
+      ],
+      "release_note": "Erstveröffentlichung am 21. Januar 1982 in Hongkong. Nicht mit Chang Chehs unabhängigem Shaolin Temple von 1976 verwechseln.",
+      "director_note": "Chang Hsin-yen wird auch Zhang Xinyan oder Cheung Yam-yim geschrieben; dies sind Namensumschriften derselben Regieperson.",
+      "country_note": "Koproduktion zwischen Hongkong und Festlandchina; die historische Produktionsbezeichnung Hongkong bleibt erhalten.",
+      "series": {
+        "name": "Shaolin-Tempel-Trilogie mit Jet Li",
+        "position": 1,
+        "note": "Veröffentlichungsfolge: The Shaolin Temple (1982), Kids from Shaolin (1984), Martial Arts of Shaolin (1986). Wiederkehrender Star und Shaolinstoff, aber unterschiedliche Figuren und Geschichten."
+      },
+      "series_note": "Kein Anschluss an die unabhängigen Shaw-Brothers-Shaolinfilme der 1970 er-Jahre. Die späteren Neuverfilmungen zählen nicht als direkte Teile dieser Trilogie.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Shaolin_Temple_(1982_film)",
+        "https://www.filmarchive.gov.hk/en/web/hkfa/2024/martial/pe-event-2024-martial-fs-film11.html"
+      ],
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://www.filmarchive.gov.hk/en/web/hkfa/2024/martial/pe-event-2024-martial-fs-film11.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie und Besetzung; Jet Lis Debüt 1982; reale Kampfsportler, eigene Choreografie, lange Einstellungen und Abweichungen vom Mönchsideal."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Shaolin_Temple_(1982_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Originaltitel, Premiere, Länder, Figuren, Bai Wuxia, Sifu, Li Shimin, Schlussgelübde und Trilogie 1982/1984/1986."
+        },
+        {
+          "key": "deutsch",
+          "url": "https://www.filmdienst.de/film/details/58440/shaolin-kloster-der-racher",
+          "accessed_on": "2026-11-03",
+          "supports": "Deutscher Titel, Regieumschrift, Figurenbesetzung und die politische Hilfe der Mönche."
+        },
+        {
+          "key": "synchro",
+          "url": "https://www.synchronkartei.de/film/33045",
+          "accessed_on": "2026-11-03",
+          "supports": "Deutsche Titelaliase und Zuordnung der Originaldarsteller; keine Synchronstimmen übernommen."
+        },
+        {
+          "key": "abgrenzung",
+          "url": "https://www.bbfc.co.uk/release/shaolin-temple-q29sbgvjdglvbjpwwc0yodcyoti",
+          "accessed_on": "2026-11-03",
+          "supports": "Unabhängiger Shaolin Temple von 1976 unter der Regie von Chang Cheh; Abgrenzung von Jet Lis Debütfilm 1982."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-001-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-001-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-001-D"
+    },
+    {
+      "id": "MARTIALARTS-002",
+      "film_title_de": "The Blade",
+      "film_title_original": "Dao",
+      "film_year": 1995,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ein radikales und vergleichsweise wenig verbreitetes Spätwerk des klassischen Hongkong-Wuxia-Booms; eher für Film- und Genrekenner.",
+      "directors": [
+        "Tsui Hark"
+      ],
+      "production_countries": [
+        "Hongkong"
+      ],
+      "release_note": "Erststart am 21. Dezember 1995 in Hongkong. Originaltitel 刀, Mandarinumschrift Dao; eigenständig gegenüber What Price Survival von 1994.",
+      "director_note": "",
+      "country_note": "Historische Produktionsbezeichnung Hongkong für den Film von 1995.",
+      "series": null,
+      "series_note": "Freie Neufassung des Einarmigen Schwertkämpfers von 1967. Keine Fortsetzung der früheren Figurenhandlung und kein neuer nummerierter Teil.",
+      "series_sources": [
+        "https://www.criterion.com/current/posts/9111-the-blade-cutting-deep",
+        "https://www.criterion.com/films/34862-the-blade"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/34862-the-blade",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Jahr, Produktionsland, Besetzung, Schwertschmied, Armverlust und fragmentierte Kampfgestaltung."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/9111-the-blade-cutting-deep",
+          "accessed_on": "2026-11-03",
+          "supports": "Siu Lings Erzählperspektive, die Klinge des Vaters, Vorlage von 1967, Tsuis Filme von 1995 und Film Workshop seit 1984."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Blade_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Originaltitel und Startdatum; Rettungsversuch, Armverlust, halb verbranntes Buch und eigene Kampftechnik."
+        },
+        {
+          "key": "bbfc",
+          "url": "https://www.bbfc.co.uk/release/the-blade-q29sbgvjdglvbjpwwc0zmtuxota",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Produktionsjahr 1995, Genre und Rachehandlung eines einarmigen Schwertkämpfers."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-002-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-002-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-002-D"
+    },
+    {
+      "id": "MARTIALARTS-003",
+      "film_title_de": "The Assassin",
+      "film_title_original": "Nie yin niang",
+      "film_year": 2015,
+      "subdomain": "Martial Arts & Asia-Film",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ein international gefeierter Autorenfilm, dessen Figuren und zurückhaltender Wuxiazugang vor allem Kunstfilm- und Asiakino-Publikum vertraut sind.",
+      "directors": [
+        "Hou Hsiao-hsien"
+      ],
+      "production_countries": [
+        "Taiwan",
+        "China",
+        "Hongkong",
+        "Frankreich"
+      ],
+      "release_note": "Weltpremiere am 21. Mai 2015 im Wettbewerb von Cannes. Originaltitel beim Festival: Nie Yinniang. Chinesische Langform 刺客聶隱娘, auch Cike Nie Yinniang umschrieben.",
+      "director_note": "",
+      "country_note": "Länderfolge nach der offiziellen Cannes-Filmseite, die zusätzlich zu Taiwan, China und Hongkong Frankreich führt. Andere Kataloge nennen nur die asiatischen Produktionspartner.",
+      "series": null,
+      "series_note": "Eigenständige Adaption einer historischen Erzählung; keine belegte Fortsetzung oder nummerierte Filmreihe.",
+      "series_sources": [
+        "https://www.festival-cannes.com/en/f/nie-yinniang/",
+        "https://wellgousa.com/films/assassin"
+      ],
+      "sources": [
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/nie-yinniang/",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Besetzung, Länder, Jahr 2015, Ausbildung durch eine Nonne, Tian Ji’an als früherer Verlobter und Konflikt mit dem Auftrag."
+        },
+        {
+          "key": "presse",
+          "url": "https://cdn.festival-cannes.com/media/uploads/2023/03/38060.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Cannes-Presseheft mit Premierentermin, Jadezeichen, Wechsel von Schwarzweißprolog zu Farbe, Chuanqi-Vorlage und Regieinterview."
+        },
+        {
+          "key": "verleih",
+          "url": "https://wellgousa.com/films/assassin",
+          "accessed_on": "2026-11-03",
+          "supports": "Wuxiaeinordnung, Regie, Besetzung, Erziehung und Rückkehr zum früheren Verlobten."
+        },
+        {
+          "key": "lumiere",
+          "url": "https://2025.festival-lumiere.org/manifestations/the-assassin.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Premiere am 21. Mai 2015, Autorenfilmgestaltung, Three Times von 2005 und Wiedervereinigung von Shu Qi und Chang Chen im Jahr 2015."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Assassin_(2015_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Politischer Kontext von Weibo, Tian Ji’ans Kinder und Begründung der Auftragsverweigerung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MARTIALARTS-003-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-003-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-003-D"
+    },
+    {
+      "id": "DRAMA-001",
+      "film_title_de": "Fanny und Alexander",
+      "film_title_original": "Fanny och Alexander",
+      "film_year": 1982,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein bekanntes Hauptwerk des europäischen Autorenkinos, dessen Figuren und Episoden eher Filmkennern vertraut sind.",
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "production_countries": [
+        "Schweden",
+        "BR Deutschland",
+        "Frankreich"
+      ],
+      "release_note": "Erstveröffentlichung der Kinofassung am 17. Dezember 1982 in Stockholm laut filmportal. Die längere Fernsehfassung wurde 1983 veröffentlicht. Beide Präsentationsformen gehören zur selben Filmidentität; hier steht das früheste Filmjahr 1982.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiger Film in Kino- und längerer Fernsehfassung. Bergmans weitere autobiografisch geprägte Arbeiten sind keine belegte nummerierte Fanny-und-Alexander-Filmfolge.",
+      "series_sources": [
+        "https://www.ingmarbergman.se/en/production/fanny-and-alexander-0",
+        "https://www.filmportal.de/film/fanny-und-alexander_b11e30d5af054251bcbacc7f390b674b"
+      ],
+      "sources": [
+        {
+          "key": "filmportal",
+          "url": "https://www.filmportal.de/film/fanny-und-alexander_b11e30d5af054251bcbacc7f390b674b",
+          "accessed_on": "2026-11-03",
+          "supports": "Kinopremiere am 17. Dezember 1982, Produktionsländer, Credits und Darsteller; Kino- und Fernsehfassung separat dokumentiert."
+        },
+        {
+          "key": "archiv",
+          "url": "https://www.ingmarbergman.se/en/production/fanny-and-alexander-0",
+          "accessed_on": "2026-11-03",
+          "supports": "Ekdahls als Theaterfamilie, Vaterverlust, Bischof, Produktionsgeschichte und Credits, Kameramann Sven Nykvist, vier Oscars 1984 und Unterscheidung der Fassungen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fanny_and_Alexander",
+          "accessed_on": "2026-11-03",
+          "supports": "Familien- und Bischofskonflikt, Alexanders Behauptung über die gestorbenen Kinder, Isaks Rettung, Hamlet-Motiv und Besetzungen."
+        },
+        {
+          "key": "rettung",
+          "url": "https://www.josef-weinberger.com/plays-and-pantomime/play/fanny-and-alexander.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete Rettung der Kinder in Isaks gekaufter Truhe; Beschreibung des Filmstoffs beim Bühnenrechteverlag."
+        },
+        {
+          "key": "hamlet",
+          "url": "https://www.acsu.buffalo.edu/~bjackson/bfs/fanny21.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmbegleitender Universitätstext zur Hamlet-Probe, Oscars Zusammenbruch und Tod."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-001-L1",
+      "year_question_id": "G150-20261103-DRAMA-001-Y",
+      "director_question_id": "G150-20261103-DRAMA-001-D"
+    },
+    {
+      "id": "DRAMA-002",
+      "film_title_de": "Umberto D.",
+      "film_title_original": "Umberto D.",
+      "film_year": 1952,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein zentraler italienischer Nachkriegsklassiker, dessen konkrete Handlung vor allem filmhistorisch Interessierten bekannt ist.",
+      "directors": [
+        "Vittorio De Sica"
+      ],
+      "production_countries": [
+        "Italien"
+      ],
+      "release_note": "Erste italienische Veröffentlichung am 20. Januar 1952; das Produktionsjahr 1951 und spätere Auslandsstarts werden nicht als Filmjahr verwendet.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiger Spielfilm. Gemeinsamkeiten mit anderen Filmen des Neorealismus bilden keine nummerierte Handlungsfolge.",
+      "series_sources": [
+        "https://www.criterion.com/films/371-umberto-d?q=autocomplete"
+      ],
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://www.criterion.com/films/371-umberto-d?q=autocomplete",
+          "accessed_on": "2026-11-03",
+          "supports": "Italien 1952, Regie Vittorio De Sica, pensionierter Mann, Hund Flike, Armut und Würde."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/292-seeing-clearly-through-tears-on-the-smart-sentiment-of-umberto-d",
+          "accessed_on": "2026-11-03",
+          "supports": "Neorealistische Alltagsbeobachtung; Carlo Battisti als Florentiner Sprachwissenschaftler; Maria Pia Casilio, Lina Gennari; Zusammenarbeit mit Cesare Zavattini und Fahrraddiebe von 1948."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Umberto_D.",
+          "accessed_on": "2026-11-03",
+          "supports": "Mietschulden, Umbau zum Wohnzimmer, Maria und ihre Schwangerschaft, Hund, Bahngleis und offener Schluss; Rollen und erster Start."
+        },
+        {
+          "key": "termine",
+          "url": "https://cineuropa.org/en/film/400963/",
+          "accessed_on": "2026-11-03",
+          "supports": "Italienischer Start am 20. Januar 1952 und spätere Auslandsveröffentlichungen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-002-L1",
+      "year_question_id": "G150-20261103-DRAMA-002-Y",
+      "director_question_id": "G150-20261103-DRAMA-002-D"
+    },
+    {
+      "id": "DRAMA-003",
+      "film_title_de": "Cléo – Mittwoch zwischen 5 und 7",
+      "film_title_original": "Cléo de 5 à 7",
+      "film_year": 1962,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Wichtiger Nouvelle-Vague-Film, aber außerhalb eines filmkundigen Publikums weniger geläufig als die großen amerikanischen Klassiker.",
+      "directors": [
+        "Agnès Varda"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien"
+      ],
+      "release_note": "Erstveröffentlichung 1962; französischer Kinostart am 11. April. Die Handlung ist im Juni 1961 angesiedelt; das im Film genannte Jahr ersetzt nicht das Veröffentlichungsjahr. Der deutsche Titel Mittwoch zwischen 5 und 7 einschließlich der Cléo-Variante wurde abgeglichen.",
+      "director_note": "",
+      "country_note": "Criterion nennt verkürzt Frankreich; die Cinémathèque suisse führt die französisch-italienische Koproduktion. Produktionsländer sind keine Drehorte.",
+      "series": null,
+      "series_note": "Eigenständiger Film ohne belegte nummerierte Filmfolge. Weitere Varda-Filme oder der kurze Film im Film sind keine nummerierten Fortsetzungen.",
+      "series_sources": [
+        "https://www.criterion.com/films/244-cleo-from-5-to-7"
+      ],
+      "sources": [
+        {
+          "key": "film",
+          "url": "https://www.criterion.com/films/244-cleo-from-5-to-7",
+          "accessed_on": "2026-11-03",
+          "supports": "Frankreich 1962, Sängerin Cléo, Warten auf Biopsiebefund, Echtzeitnähe und Regie Agnès Varda."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/499-cleo-from-5-to-7-passionate-time",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitraum 17 bis 18.30 Uhr; farbiger Prolog und Schwarzweiß; Sans toi mit Bob (Michel Legrand) und Plumitif (Serge Korber)."
+        },
+        {
+          "key": "cnc",
+          "url": "https://www.cnc.fr/cinema/education-a-l-image/lyceens-et-apprentis-au-cinema/dossiers-pedagogiques/dossiers-maitre/cleo-de-5-a-7-dagnes-varda_1039049",
+          "accessed_on": "2026-11-03",
+          "supports": "Veröffentlichung 1962, Handlung am 21. Juni 1961, neunzig Minuten, Krankheitsangst, Algerienkrieg und Originalschauplätze."
+        },
+        {
+          "key": "credits",
+          "url": "https://www.cinematheque.fr/film/51603.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Originalmusik von Michel Legrand, seine Darstellung Bobs, Hauptbesetzung und Frankreich 1962."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Cl%C3%A9o_from_5_to_7",
+          "accessed_on": "2026-11-03",
+          "supports": "Biopsie, Begegnung mit Antoine im Park, Rückkehr zum Algerienkrieg, beiderseitige Todesangst und gemeinsamer Gang zum Krankenhaus."
+        },
+        {
+          "key": "titel",
+          "url": "https://www.filmstarts.de/kritiken/1191.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Deutscher Titel Cléo – Mittwoch zwischen 5 und 7 und Veröffentlichungsjahr 1962."
+        },
+        {
+          "key": "cinematheque_suisse",
+          "url": "https://live.cinematheque.ch/films/clo-de-5--7",
+          "accessed_on": "2026-11-03",
+          "supports": "Frankreich/Italien, Erstjahr 1962, 90 Minuten und Einordnung der annähernden Echtzeitgestaltung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-003-L1",
+      "year_question_id": "G150-20261103-DRAMA-003-Y",
+      "director_question_id": "G150-20261103-DRAMA-003-D"
+    },
+    {
+      "id": "KOMOEDIE-001",
+      "film_title_de": "Die Ferien des Monsieur Hulot",
+      "film_title_original": "Les Vacances de Monsieur Hulot",
+      "film_year": 1953,
+      "subdomain": "Komödie",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein zentraler Klassiker der französischen Filmkomik, dessen konkrete Szenen vor allem Filmkennern vertraut sind.",
+      "directors": [
+        "Jacques Tati"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "release_note": "Erstveröffentlichung in Frankreich 1953; spätere Neumontagen, besonders die Wiederaufführungsfassung von 1978, ändern das Erstjahr nicht. Die gewählten Szenen und Produktionsaspekte beziehen sich nicht auf die erst später ergänzte Hai-Anspielung.",
+      "director_note": "Jacques Tati führte Regie und verkörpert Monsieur Hulot; Drehbuchmitarbeit unter anderem Henri Marquet.",
+      "country_note": "",
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 1,
+        "note": "Erster Film der wiederkehrenden Hulot-Figur, danach Mein Onkel, Playtime und Trafic; Zählung nach Veröffentlichung."
+      },
+      "series_note": "Criterion bezeichnet den Film ausdrücklich als ersten Eintrag der Hulot-Filmreihe. Tatis frühere Figur François aus Jour de fête ist kein früherer Hulot-Teil.",
+      "series_sources": [
+        "https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
+        "https://en.wikipedia.org/wiki/Monsieur_Hulot"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Credits, Frankreich, Jahr 1953, erste Hulot-Filmfolge, Strandhotel und Unterscheidung der Fassungen."
+        },
+        {
+          "key": "ton",
+          "url": "https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image",
+          "accessed_on": "2026-11-03",
+          "supports": "Jonathan Rosenbaum: klapperndes Auto, störende Tischtennisgeräusche, getrennte Bild-/Tongestaltung und zum Schutz des Hotelbetriebs errichtete Fassade."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/11-m-hulot-s-holiday",
+          "accessed_on": "2026-11-03",
+          "supports": "David Ehrenstein: Hulots Auftreten, Auto, Inszenierung von Hotelgästen, Wind beim Öffnen der Tür und körperliche Komik."
+        },
+        {
+          "key": "szenen",
+          "url": "https://jonathanrosenbaum.net/2024/12/mr-hulots-holiday/",
+          "accessed_on": "2026-11-03",
+          "supports": "Rosenbaums Szenenübersicht: Ankunft, Strand, Tennis und versehentlich ausgelöstes Feuerwerk vor der Abreise; Erststart im Februar 1953."
+        },
+        {
+          "key": "reihe",
+          "url": "https://en.wikipedia.org/wiki/Monsieur_Hulot",
+          "accessed_on": "2026-11-03",
+          "supports": "Reihenfolge der vier Hulot-Filme 1953, 1958, 1967 und 1971."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-001-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-001-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-001-D"
+    },
+    {
+      "id": "KOMOEDIE-002",
+      "film_title_de": "Der diskrete Charme der Bourgeoisie",
+      "film_title_original": "Le Charme discret de la bourgeoisie",
+      "film_year": 1972,
+      "subdomain": "Komödie",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein kanonisches Werk des surrealistischen Kinos, dessen Titel bekannter ist als die einzelnen Handlungsepisoden.",
+      "directors": [
+        "Luis Buñuel"
+      ],
+      "production_countries": [
+        "Frankreich",
+        "Italien",
+        "Spanien"
+      ],
+      "release_note": "Erstveröffentlichung 1972 laut BFI, Criterion und französischem CNC. Der Oscar wurde bei der Verleihung 1973 vergeben und bezeichnet kein abweichendes Filmjahr.",
+      "director_note": "Luis Buñuel führte Regie und schrieb gemeinsam mit Jean-Claude Carrière das Drehbuch.",
+      "country_note": "BFI und Cinémathèque française führen Frankreich, Italien und Spanien. CNC und der aktuelle französische Verleih nennen verkürzt Frankreich/Italien; die hier geführte breitere Liste folgt den beiden Filmarchiven.",
+      "series": null,
+      "series_note": "Keine nummerierte Filmfolge in Credits und Verleihangaben. Gemeinsame Editionen mehrerer Buñuel-Filme sind keine Fortsetzungsreihe.",
+      "series_sources": [
+        "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/310-the-discreet-charm-of-the-bourgeoisie",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits, Filmjahr, Ausgangslage gescheiterter Mahlzeiten, Rollen und Zusammenarbeit mit Carrière."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/7232-the-discreet-charm-of-the-bourgeoisie-more-and-less",
+          "accessed_on": "2026-11-03",
+          "supports": "Adrian Martin: Traumübergänge, Bühne als Speisesaal, Bischof als Gärtner, gesellschaftliche Rollen und freie Zusammenarbeit am Drehbuch."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Discreet_Charm_of_the_Bourgeoisie",
+          "accessed_on": "2026-11-03",
+          "supports": "Totenwache im Restaurant, Bischof in Arbeits- und Amtstracht und genaue Handlungsfolge."
+        },
+        {
+          "key": "cnc",
+          "url": "https://www.cnc.fr/professionnels/visas-et-classification/39910",
+          "accessed_on": "2026-11-03",
+          "supports": "Französischer amtlicher Filmeintrag mit Regie und Veröffentlichung 1972; Länder Frankreich/Italien."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/64060549-0272-58a7-a33e-ac095f2995cd/le-charme-discret-de-la-bourgeoisie",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmjahr 1972 und Produktionsländer Frankreich, Italien, Spanien."
+        },
+        {
+          "key": "cinematheque",
+          "url": "https://www.cinematheque.fr/film/47185.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Archivalischer Filmnachweis mit Frankreich-Italien-Spanien und Jahr 1972."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/embed/1973",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizieller Sieg Foreign Language Film für Frankreich bei der Verleihung 1973; separate Drehbuchnominierung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-002-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-002-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-002-D"
+    },
+    {
+      "id": "KOMOEDIE-003",
+      "film_title_de": "Willkommen, Mr. Chance",
+      "film_title_original": "Being There",
+      "film_year": 1979,
+      "subdomain": "Komödie",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Eine bekannte späte Peter-Sellers-Rolle, deren leise politische Satire eher Filmkennern als einem breiten Gelegenheitspublikum vertraut ist.",
+      "directors": [
+        "Hal Ashby"
+      ],
+      "production_countries": [
+        "USA",
+        "Bundesrepublik Deutschland"
+      ],
+      "release_note": "US-Erststart in New York am 20. Dezember 1979, Los Angeles am 21. Dezember laut AFI. Keine frühere öffentliche Veröffentlichung in den geprüften Filmquellen ausgewiesen.",
+      "director_note": "Hal Ashby führte Regie; die Literaturvorlage stammt von Jerzy Kosinski.",
+      "country_note": "AFI nennt USA und Westdeutschland sowie Lorimar Film- und Fernsehproduktion GmbH. Criterion führt verkürzt nur USA. Die historische deutsche Beteiligung wird entsprechend dem ausführlichen Archivnachweis erhalten.",
+      "series": null,
+      "series_note": "Keine nummerierte Filmfolge in AFI- und Criterion-Credits ausgewiesen.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/56196-BEING-THERE",
+        "https://www.criterion.com/films/29009-being-there"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/29009-being-there",
+          "accessed_on": "2026-11-03",
+          "supports": "Cast, Regie, Jahr, Romanvorlage, Fernsehen, Missverständnis der Gartenbemerkungen und Grundhandlung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/56196-BEING-THERE",
+          "accessed_on": "2026-11-03",
+          "supports": "Erststartdaten, USA/Westdeutschland, Rollen, Roman von 1971 und Peter Sellers’ frühe Initiative gegenüber Ashby."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/4473-being-there-american-cipher",
+          "accessed_on": "2026-11-03",
+          "supports": "Mark Harris: Fernseherfahrung, missverstandener Name, politische Deutung, Besetzung und Schlussbild; Sellers’ Tod nach dem Kinostart."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Being_There",
+          "accessed_on": "2026-11-03",
+          "supports": "Namensverwechslung Chance the gardener/Chauncey Gardiner, Begegnung mit Eve Rand und Gang über den See im Finale."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-003-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-003-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-003-D"
+    }
+  ],
+  "series_updates": [
+    {
+      "film": "Mon Oncle|1958",
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 2,
+        "note": "Zweiter der vier eigenständigen Kinofilme mit Jacques Tatis wiederkehrender Hulot-Figur, nach Veröffentlichung gezählt."
+      },
+      "sources": [
+        "https://www.criterion.com/films/650-mon-oncle",
+        "https://www.janusfilms.com/films/1130"
+      ]
+    },
+    {
+      "film": "Playtime|1967",
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 3,
+        "note": "Dritter der vier Hulot-Kinofilme: Die Ferien des Monsieur Hulot (1953), Mon Oncle (1958), Playtime (1967), Trafic (1971). Keine durchgehende Handlung."
+      },
+      "sources": [
+        "https://www.criterion.com/films/651-playtime",
+        "https://www.janusfilms.com/films/1131",
+        "https://www.janusfilms.com/films/list?director=Jacques+Tati"
+      ]
     }
   ]
 }

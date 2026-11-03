@@ -1,0 +1,256 @@
+{
+  "id": "KOMOEDIE-001",
+  "film_title_de": "Die Ferien des Monsieur Hulot",
+  "film_title_original": "Les Vacances de Monsieur Hulot",
+  "film_year": 1953,
+  "genre": "Komödie",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein zentraler Klassiker der französischen Filmkomik, dessen konkrete Szenen vor allem Filmkennern vertraut sind.",
+  "selection_reason": "Tatis Beobachtung von Ferienritualen bietet eigenständige visuelle und akustische Komik. Die internationale filmhistorische Bedeutung und die ungewöhnliche Form begründen Classics und Arthouse.",
+  "directors": [
+    "Jacques Tati"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Erstveröffentlichung in Frankreich 1953; spätere Neumontagen, besonders die Wiederaufführungsfassung von 1978, ändern das Erstjahr nicht. Die gewählten Szenen und Produktionsaspekte beziehen sich nicht auf die erst später ergänzte Hai-Anspielung.",
+  "director_note": "Jacques Tati führte Regie und verkörpert Monsieur Hulot; Drehbuchmitarbeit unter anderem Henri Marquet.",
+  "country_note": "",
+  "series": {
+    "name": "Monsieur Hulot",
+    "position": 1,
+    "note": "Erster Film der wiederkehrenden Hulot-Figur, danach Mein Onkel, Playtime und Trafic; Zählung nach Veröffentlichung."
+  },
+  "series_note": "Criterion bezeichnet den Film ausdrücklich als ersten Eintrag der Hulot-Filmreihe. Tatis frühere Figur François aus Jour de fête ist kein früherer Hulot-Teil.",
+  "series_sources": [
+    "https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
+    "https://en.wikipedia.org/wiki/Monsieur_Hulot"
+  ],
+  "sources": {
+    "criterion": {
+      "url": "https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Credits, Frankreich, Jahr 1953, erste Hulot-Filmfolge, Strandhotel und Unterscheidung der Fassungen."
+    },
+    "ton": {
+      "url": "https://www.criterion.com/current/posts/3337-jacques-tati-composing-in-sound-and-image",
+      "accessed_on": "2026-11-03",
+      "supports": "Jonathan Rosenbaum: klapperndes Auto, störende Tischtennisgeräusche, getrennte Bild-/Tongestaltung und zum Schutz des Hotelbetriebs errichtete Fassade."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/11-m-hulot-s-holiday",
+      "accessed_on": "2026-11-03",
+      "supports": "David Ehrenstein: Hulots Auftreten, Auto, Inszenierung von Hotelgästen, Wind beim Öffnen der Tür und körperliche Komik."
+    },
+    "szenen": {
+      "url": "https://jonathanrosenbaum.net/2024/12/mr-hulots-holiday/",
+      "accessed_on": "2026-11-03",
+      "supports": "Rosenbaums Szenenübersicht: Ankunft, Strand, Tennis und versehentlich ausgelöstes Feuerwerk vor der Abreise; Erststart im Februar 1953."
+    },
+    "reihe": {
+      "url": "https://en.wikipedia.org/wiki/Monsieur_Hulot",
+      "accessed_on": "2026-11-03",
+      "supports": "Reihenfolge der vier Hulot-Filme 1953, 1958, 1967 und 1971."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-113-M2",
+      "variant_of": "SCHAUSPIELER-BG-20261013-113-M2",
+      "objective": "Hulot verbringt die Ferien in einem Strandhotel.",
+      "question": "Wo verbringt Hulot (Jacques Tati) seine Urlaubstage in „Die Ferien des Monsieur Hulot“?",
+      "answers": [
+        "In einem Hotel am Meer",
+        "Auf einem Flusskreuzfahrtschiff",
+        "In einem Sanatorium in den Bergen",
+        "Auf einem abgelegenen Bauernhof"
+      ],
+      "short": "Hulot macht Urlaub in einem Badeort mit Strandhotel.",
+      "context": "Essen, Strandbesuche, Spiele und kleine gesellschaftliche Rituale geben den Tagen einen festen Ablauf. Hulot (Jacques Tati) fügt sich in diese Ordnung nur unvollkommen ein. Der Film beobachtet jedoch ebenso die anderen Gäste: Ihre Gewohnheiten und Reaktionen sind Teil der Komik, nicht bloß Kulisse für einen einzelnen Spaßmacher.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Hulot reist mit einem auffällig klappernden alten Auto an.",
+      "question": "Mit welchem Fahrzeug trifft Hulot (Jacques Tati) in „Die Ferien des Monsieur Hulot“ im Badeort ein?",
+      "answers": [
+        "Mit einem klappernden alten Kleinwagen",
+        "Mit einem modernen Reisebus",
+        "Mit einem Motorrad samt Beiwagen",
+        "Mit einem Pferdewagen"
+      ],
+      "short": "Er kommt mit einem alten, geräuschvoll fahrenden Auto.",
+      "context": "Hulots (Jacques Tati) Fahrzeug macht sich akustisch bemerkbar, bevor seine Person vollständig in den Mittelpunkt rückt. Geräusch, Bewegung und die Reaktion der Umgebung führen die Figur gemeinsam ein. Ein alltäglicher Vorgang wie die Anreise enthält so bereits eine genau gebaute komische Situation.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ton",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Hulots Tischtennisspiel stört die ruhigen Abendbeschäftigungen anderer Gäste durch überbetonte Geräusche.",
+      "question": "Welches Spiel Hulots (Jacques Tati) stört in „Die Ferien des Monsieur Hulot“ durch auffällige Schlaggeräusche die ruhigeren Abendbeschäftigungen der Hotelgäste?",
+      "answers": [
+        "Tischtennis",
+        "Billard",
+        "Boule",
+        "Badminton"
+      ],
+      "short": "Die besonders präsenten Geräusche stammen vom Tischtennisspiel.",
+      "context": "Nicht jede Störung muss im selben Bild wie ihre Wirkung zu sehen sein. Der Klang des spielenden Hulot (Jacques Tati) greift in die anderen Beschäftigungen ein und lenkt die Aufmerksamkeit. André Bazin hob gerade dieses Beispiel hervor, um die genaue Organisation von Tatis scheinbar beiläufigem Ton zu beschreiben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ton"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Hulot löst vor der Abreise versehentlich ein Feuerwerk aus.",
+      "question": "Was löst in „Die Ferien des Monsieur Hulot“ gegen Ende unvermittelt große nächtliche Aufregung aus?",
+      "answers": [
+        "Ein versehentlich gezündetes Feuerwerk",
+        "Ein ausgebrochener Brand im Speisesaal",
+        "Ein gestrandetes Boot mit Schmugglern",
+        "Ein Einbruch in sämtliche Hotelzimmer"
+      ],
+      "short": "Hulot setzt unbeabsichtigt ein Feuerwerk in Gang.",
+      "context": "Am Vorabend der Abreise findet ein Maskenball statt, den das versehentlich ausgelöste Feuerwerk abrupt beendet. Hulot (Jacques Tati) wird dadurch erneut zum Verursacher einer viel größeren Störung, als er beabsichtigt. Nach den kleinen Reibungen im Hotel und am Strand endet die Ferienfolge mit einem weithin sichtbaren nächtlichen Spektakel.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "szenen"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-113-S2",
+      "variant_of": "SCHAUSPIELER-BG-20261013-113-S2",
+      "objective": "Eine zusätzliche Hotelfassade sollte Eingriffe in den wirklichen Hotelbetrieb verringern.",
+      "question": "Warum ließ Jacques Tati für „Die Ferien des Monsieur Hulot“ zusätzlich eine Hotelfassade bauen?",
+      "answers": [
+        "Damit der Betrieb des echten Hotels weniger gestört wurde",
+        "Damit dasselbe Hotel auf zwei Stränden zugleich stehen konnte",
+        "Damit das Gebäude wie ein britisches Seebad wirkte",
+        "Damit die Szenen ausschließlich im Winter gedreht werden konnten"
+      ],
+      "short": "Die gebaute Fassade half, den laufenden Betrieb des echten Hotels zu schonen.",
+      "context": "Das Hôtel de la Plage war ein wirklicher Betrieb mit Gästen. Tati wollte diesen Alltag für den Film nutzen, brauchte aber zugleich Kontrolle über die gedrehten Vorgänge. Die zusätzliche Vorderseite verbindet beides: Der scheinbar zufällig beobachtete Ferienort enthält bewusst gebaute Elemente, die seine ungestörte Beobachtung überhaupt ermöglichen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ton"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "Tati komponierte die Tonspur getrennt von den ohne Originalton aufgenommenen Bildern.",
+      "question": "Wie entstand die präzise Tonwelt von „Die Ferien des Monsieur Hulot“ nach Jonathan Rosenbaums Darstellung von Tatis Arbeitsweise?",
+      "answers": [
+        "Bildaufnahmen und vollständige Tonspur entstanden getrennt voneinander.",
+        "Eine vorab fertige Tonspur gab beim Dreh das Bewegungstempo vor.",
+        "Die ganze Tonspur wurde während der Strandaufnahmen live mitgeschnitten.",
+        "Nur die Musik wurde ergänzt; alle Geräusche blieben unveränderter Originalton."
+      ],
+      "short": "Tati setzte die Tonspur gesondert zu den aufgenommenen Bildern zusammen.",
+      "context": "Geräusche können dadurch die Aufmerksamkeit auch auf etwas außerhalb des sichtbaren Ausschnitts lenken. Das scheinbar natürliche Ferienleben ist akustisch ebenso komponiert wie visuell. Tatis Film knüpft zwar an körperliche Stummfilmkomik an, ist aber gerade wegen dieser genauen Wechselwirkung kein bloßer Stummfilm mit zusätzlicher Begleitmusik.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ton"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Die Ferien des Monsieur Hulot wurde erstmals 1953 veröffentlicht.",
+      "question": "In welchem Jahr erschien „Die Ferien des Monsieur Hulot“ erstmals?",
+      "answers": [
+        "1953",
+        "1946",
+        "1949",
+        "1958"
+      ],
+      "short": "Der Film wurde 1953 veröffentlicht.",
+      "context": "Hier tritt Hulot (Jacques Tati) erstmals als wiederkehrende Kinogestalt auf. 1958 folgte „Mein Onkel“, später „Playtime“ und „Trafic“. Die Figur verbindet diese Filme, während sich ihre Umgebung vom Badeort zu einer immer stärker geplanten, technisierten Welt verändert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "reihe"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Jacques Tati führte Regie und spielte Hulot.",
+      "question": "Wer führte bei „Die Ferien des Monsieur Hulot“ Regie und spielte zugleich die Titelfigur?",
+      "answers": [
+        "Jacques Tati",
+        "René Clair",
+        "Pierre Étaix",
+        "Marcel Carné"
+      ],
+      "short": "Jacques Tati war Regisseur und Darsteller Hulots.",
+      "context": "Tati brachte Erfahrung als körperlich arbeitender Bühnenkomiker mit. Für den Film setzte er die Figur jedoch in ein größeres Geflecht aus Menschen und Alltagsbewegungen. Die Kamera beobachtet auch die Gäste, Kinder und Angestellten neben Hulot; der komische Blick ist nicht ausschließlich an dessen einzelne Einfälle gebunden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

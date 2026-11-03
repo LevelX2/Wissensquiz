@@ -7198,8 +7198,15 @@
       ]
     },
     "Les Vacances de Monsieur Hulot|1953": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 1,
+        "note": "Erster Film der wiederkehrenden Hulot-Figur, danach Mein Onkel, Playtime und Trafic; Zählung nach Veröffentlichung."
+      },
+      "sources": [
+        "https://www.criterion.com/films/360-monsieur-hulot-s-holiday",
+        "https://en.wikipedia.org/wiki/Monsieur_Hulot"
+      ]
     },
     "Les Visiteurs du soir|1942": {
       "series": null,
@@ -8169,8 +8176,15 @@
       "sources": []
     },
     "Mon Oncle|1958": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 2,
+        "note": "Zweiter der vier eigenständigen Kinofilme mit Jacques Tatis wiederkehrender Hulot-Figur, nach Veröffentlichung gezählt."
+      },
+      "sources": [
+        "https://www.criterion.com/films/650-mon-oncle",
+        "https://www.janusfilms.com/films/1130"
+      ]
     },
     "Moneyball|2011": {
       "series": null,
@@ -9395,8 +9409,16 @@
       "sources": []
     },
     "Playtime|1967": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Monsieur Hulot",
+        "position": 3,
+        "note": "Dritter der vier Hulot-Kinofilme: Die Ferien des Monsieur Hulot (1953), Mon Oncle (1958), Playtime (1967), Trafic (1971). Keine durchgehende Handlung."
+      },
+      "sources": [
+        "https://www.criterion.com/films/651-playtime",
+        "https://www.janusfilms.com/films/1131",
+        "https://www.janusfilms.com/films/list?director=Jacques+Tati"
+      ]
     },
     "Pleasantville|1998": {
       "series": null,
@@ -15679,6 +15701,63 @@
       "series": null,
       "sources": [
         "https://catalog.afi.com/Film/64809-WHAT-HAPPENS-IN-VEGAS"
+      ]
+    },
+    "Honogurai mizu no soko kara|2002": {
+      "series": null,
+      "sources": [
+        "https://s1.thcdn.com/design-assets/documents/arrowfilms/Dark%20Water.pdf"
+      ]
+    },
+    "Session 9|2001": {
+      "series": null,
+      "sources": [
+        "https://www.aboutfilm.com/features/session9/interview.htm",
+        "https://en.wikipedia.org/wiki/Session_9"
+      ]
+    },
+    "Shao Lin Si|1982": {
+      "series": {
+        "name": "Shaolin-Tempel-Trilogie mit Jet Li",
+        "position": 1,
+        "note": "Veröffentlichungsfolge: The Shaolin Temple (1982), Kids from Shaolin (1984), Martial Arts of Shaolin (1986). Wiederkehrender Star und Shaolinstoff, aber unterschiedliche Figuren und Geschichten."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shaolin_Temple_(1982_film)",
+        "https://www.filmarchive.gov.hk/en/web/hkfa/2024/martial/pe-event-2024-martial-fs-film11.html"
+      ]
+    },
+    "Dao|1995": {
+      "series": null,
+      "sources": [
+        "https://www.criterion.com/current/posts/9111-the-blade-cutting-deep",
+        "https://www.criterion.com/films/34862-the-blade"
+      ]
+    },
+    "Nie yin niang|2015": {
+      "series": null,
+      "sources": [
+        "https://www.festival-cannes.com/en/f/nie-yinniang/",
+        "https://wellgousa.com/films/assassin"
+      ]
+    },
+    "Fanny och Alexander|1982": {
+      "series": null,
+      "sources": [
+        "https://www.ingmarbergman.se/en/production/fanny-and-alexander-0",
+        "https://www.filmportal.de/film/fanny-und-alexander_b11e30d5af054251bcbacc7f390b674b"
+      ]
+    },
+    "Umberto D.|1952": {
+      "series": null,
+      "sources": [
+        "https://www.criterion.com/films/371-umberto-d?q=autocomplete"
+      ]
+    },
+    "Cléo de 5 à 7|1962": {
+      "series": null,
+      "sources": [
+        "https://www.criterion.com/films/244-cleo-from-5-to-7"
       ]
     }
   }
