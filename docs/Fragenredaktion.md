@@ -1,6 +1,6 @@
 # Redaktion von Filmfragen, Schauspielerfragen und Preisfragen
 
-Stand: 26.10.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
+Stand: 03.11.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
 Quelle: [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Fragenredaktions-Skill.txt). Bestehende technische Bereichs- und Importverträge wurden für den Stand abgeglichen.
 
@@ -17,6 +17,10 @@ Der Nutzer hat das bereits veröffentlichte 240-Filme-Paket akzeptiert; daraus f
 ## Genreausbau auf 100 Filme – Auftrag vom 08.10.2026
 
 Genres unter 100 Filmen schrittweise auffüllen, beginnend mit Abenteuer. Je Genre ungefähr 20 prägende Klassiker redaktionell begründen und gegen den aktuellen Filmfragenbestand prüfen. Fehlende Kernwerke haben Vorrang, auch außerhalb der Sammlung; weitere Plätze bevorzugt mit passenden Sammlungsfilmen besetzen. Der Kern ist keine objektive Rangliste. Bereits vorhandene passende Ziele und Filmfassungen anrechnen. [Unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-08%20Nutzerauftrag%20Genres%20auf%20100%20Filme.txt), [Reihenfolge und aktuelle Abnahmen](Genres-100-2026-10-08/Plan.md).
+
+## Ausbau auf mindestens 150 Filme – Auftrag vom 03.11.2026
+
+Der aktuelle Auftrag erweitert die frühere 100-Filme-Zielmarke auf mindestens 150 unterschiedliche Filmfassungen je Filmgenre und Filmtyp. Elf Genres benötigen zusammen 501 Ergänzungen; Arthouse als überlappender Zusatzfilter 65. Classics und Preisträger liegen bereits über 150 Filmen; die 428 Schauspieler sind Personen. Auswahl vorrangig anhand der persönlichen Sammlung, vollständiger Bestandsabgleich und bisherige Qualitätsanforderungen gelten weiter. Drei ausdrücklich freigegebene Agenten bearbeiten getrennte Pakete in einem freigegebenen Worktree. Auswahlentwürfe, fertige Redaktion, lokale Integration und Veröffentlichung werden getrennt gezählt. [Aktueller Plan und Bearbeitungsstand](Genres-150-2026-11-03/Plan.md), [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-11-03%20Nutzerauftrag%20Genres%20und%20Kategorien%20auf%20150%20Filme.txt).
 
 ## Schwierigkeiten und Bekanntheit
 
