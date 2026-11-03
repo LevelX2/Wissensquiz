@@ -1,0 +1,261 @@
+{
+  "id": "THRILLER-011",
+  "film_title_de": "Familiengrab",
+  "film_title_original": "Family Plot",
+  "film_year": 1976,
+  "genre": "Thriller",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Redaktionelle Einschätzung: als Hitchcocks letzter Film filmhistorisch bekannt, im Detail aber weniger geläufig als seine großen Klassiker.",
+  "selection_reason": "Komödiantisch gebrochener Thriller um eine Erbensuche und ein Entführerduo. Die parallelen Betrügereien münden in echte Lebensgefahr und ermöglichen unterschiedliche Ziele zu Täuschung, Ermittlung und Gegenwehr.",
+  "directors": [
+    "Alfred Hitchcock"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1976: AFI belegt die Weltpremiere bei der Filmex-Eröffnung in Los Angeles am 21. März. US-Kinostart 9. April; Cannes-Schlussfilm später im Mai, daher Cannes nicht als Erstveröffentlichung verwendet.",
+  "director_note": "Alfred Hitchcock allein nach AFI, Universal und offiziellen Cannes-Credits.",
+  "country_note": "USA nach AFI und Cannes. Britische Romanherkunft nicht als Produktionsland behandelt.",
+  "series": null,
+  "series_note": "Eigenständige Canning-Adaption ohne nummerierte Filmfolge in AFI und Universal. Hitchcock-Editionen zählen als Sammlungen verschiedener Werke.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/67478-FAMILY-PLOT?cxt=filmography",
+    "https://www.universalpicturesathome.com/movies/family-plot"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/67478-FAMILY-PLOT?cxt=filmography",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkrete Credits, Country USA, Premierenhistorie, literarische Vorlage London 1972 und ausführliche Handlung bis einschließlich Maloneys Sabotage, Tod und Blanches Gefangennahme tatsächlich gelesen. Filmex 21. März vor US-Start 9. April; Diamanten, Shoebridge/Adamson und manipulierte Bremsen zusätzlich szenengenau abgeglichen."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/family-plot/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen offiziellen Filmeintrag gelesen: USA 1976, außer Konkurrenz als Schlussfilm, Hitchcock allein, Lehman, South, Williams und vollständige Besetzungsliste."
+    },
+    "universal": {
+      "url": "https://www.universalpicturesathome.com/movies/family-plot",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen indexierten offiziellen Werktext gelesen: falsches Medium, George als Partner, Erbensuche, Juwelier/Entführerduo, 1976 und Hauptregie."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/70875/family-plot",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Jeremy-Arnold-Haupttext gelesen: zwei zusammenlaufende Geschichten, komödiantische Umarbeitung, Ernest Lehman, konkrete Dern/South-Äußerungen zur Arbeit und abschließendes Augenzwinkern. Uneinheitliche Angaben zur Herzschrittmacherchronologie nicht übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Family_Plot",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Besetzung gelesen: Shoebridge/Adamson, entführte Würdenträger gegen Diamanten, Maloney-Bremsensabotage, Kellerfalle und Kronleuchterfund. Bewusste Zweideutigkeit des Schlusszwinkerns bewahrt, keine echte Hellseherei als Tatsache behauptet."
+    },
+    "filmsite": {
+      "url": "https://www.filmsite.org/familyplot.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausführliche Anfangs-, Maloney-, Erbensuche- und vollständige Schlussabschnitte gelesen: Lösegeldtausch mit Fran, Bremsleitung am Cafe, Erbenidentität, vorgetäuschte Bewusstlosigkeit und Einsperren in den eigenen Entführerkeller. Offenkundigen Schlusskommentar mit falschem Erbschaftsbetrag nicht übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Barbara Harris spielt das vorgebliche Medium Blanche Tyler.",
+      "question": "Wer spielt in „Familiengrab“ die angebliche Hellseherin Blanche Tyler, die mit ihrem Freund einem verschwundenen Erben nachspürt?",
+      "answers": [
+        "Barbara Harris",
+        "Ellen Burstyn",
+        "Gena Rowlands",
+        "Sandy Dennis"
+      ],
+      "short": "Barbara Harris spielt Blanche Tyler.",
+      "context": "Blanche Tyler (Barbara Harris) inszeniert Séancen, während George Lumley (Bruce Dern) die benötigten Informationen durch Nachforschungen beschafft. Ihr vorgeblicher Geisterkontakt verschafft ihnen einen ungewöhnlich lukrativen Auftrag. Hinter den theatralischen Auftritten stehen daher zunächst Betrug und handfeste Recherche. Gerade dieses ungleiche Paar gerät später an Kriminelle, deren Täuschungen wesentlich gefährlicher sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "universal",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Julia Rainbird beauftragt Blanche, den zur Adoption gegebenen Sohn ihrer Schwester zu finden.",
+      "question": "Wen soll Blanche (Barbara Harris) für Julia Rainbird (Cathleen Nesbitt) in „Familiengrab“ finden?",
+      "answers": [
+        "Den zur Adoption gegebenen Sohn ihrer Schwester",
+        "Den verschwundenen Ehemann ihrer Tochter",
+        "Den verschollenen Bruder ihres Anwalts",
+        "Den heimlichen Geliebten ihrer Mutter"
+      ],
+      "short": "Gesucht wird Rainbirds Neffe, den sie zu ihrem Erben machen will.",
+      "context": "Julia Rainbird (Cathleen Nesbitt) möchte eine alte Familienentscheidung wiedergutmachen. Der Sohn ihrer inzwischen verstorbenen Schwester wurde einst fortgegeben, um einen Skandal zu vermeiden. Nun bietet sie Blanche (Barbara Harris) Geld für seine Auffindung. Die Ermittlungen George Lumleys (Bruce Dern) stoßen zunächst auf einen Grabstein und eine angebliche Todesgeschichte, hinter der jedoch eine bewusst getilgte Identität steckt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Entführer fordern wertvolle Diamanten als Lösegeld.",
+      "question": "In welcher Form verlangen Arthur Adamson (William Devane) und Fran (Karen Black) in „Familiengrab“ das Lösegeld für ihre Geiseln?",
+      "answers": [
+        "Als wertvolle Diamanten",
+        "Als Goldbarren",
+        "Als Schweizer Inhaberpapiere",
+        "Als seltene Briefmarken"
+      ],
+      "short": "Die Entführer lassen sich mit großen Diamanten bezahlen.",
+      "context": "Fran (Karen Black) holt die Beute mit blonder Perücke und dunkler Brille ab und vermeidet es, zu sprechen. Arthur Adamson (William Devane) kann die erhaltenen Steine fachkundig prüfen, weil er als Juwelier arbeitet. Ihre Opfer werden betäubt zurückgelassen. Der berufliche Schein des seriösen Händlers und die Verkleidung seiner Partnerin schützen ein eingespieltes Entführungsgeschäft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmsite",
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der gesuchte Edward Shoebridge lebt als Arthur Adamson weiter.",
+      "question": "Unter welcher Identität lebt der angeblich verstorbene Edward Shoebridge in „Familiengrab“ weiter?",
+      "answers": [
+        "Als Juwelier Arthur Adamson",
+        "Als Mechaniker Joseph Maloney",
+        "Als Taxifahrer George Lumley",
+        "Als Bischof Wood"
+      ],
+      "short": "Edward Shoebridge ist der Juwelier und Entführer Arthur Adamson.",
+      "context": "Arthur Adamson (William Devane) will seine frühere Existenz verbergen. Joseph Maloney (Ed Lauter) war an dem Brand beteiligt, bei dem seine Adoptiveltern starben, und ließ später einen Grabstein für den vermeintlich ebenfalls toten Sohn setzen. Als George Lumley (Bruce Dern) nachfragt, deuten die Täter dies als Bedrohung. Tatsächlich suchen George und Blanche (Barbara Harris) ihn zunächst wegen einer Erbschaft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "filmsite",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Maloney kappt die Bremsleitung, um das Ermittlerpaar auf der Bergstraße zu töten.",
+      "question": "Wie versucht Maloney (Ed Lauter), George (Bruce Dern) und Blanche (Barbara Harris) nach dem vereinbarten Treffen im Bergcafé in „Familiengrab“ zu töten?",
+      "answers": [
+        "Er durchtrennt die Bremsleitung ihres Wagens.",
+        "Er befestigt eine Sprengladung am Zündschloss.",
+        "Er vergiftet die Getränke an ihrem Tisch.",
+        "Er lockert die Radmuttern an der Hinterachse."
+      ],
+      "short": "Er sabotiert die Bremsen, während das Paar im Café wartet.",
+      "context": "Das angebliche Treffen dient Joseph Maloney (Ed Lauter) als Vorwand, den Wagen unbemerkt zu manipulieren. George (Bruce Dern) und Blanche (Barbara Harris) geraten danach auf der abschüssigen Straße in eine rasende Fahrt. Sie überleben, als das Auto von der Straße abkommt und auf die Seite kippt. Maloneys anschließender Versuch, sie doch noch zu überfahren, endet mit seinem eigenen tödlichen Unfall.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmsite",
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Blanche täuscht Bewusstlosigkeit vor; das Paar sperrt die Entführer in deren eigenen Geheimraum.",
+      "question": "Wie überwinden Blanche (Barbara Harris) und George (Bruce Dern) das Entführerduo am Ende von „Familiengrab“?",
+      "answers": [
+        "Blanche spielt bewusstlos, und beide schließen die Täter im Geheimraum ein.",
+        "George täuscht einen Polizeieinsatz mit Lautsprechern vor.",
+        "Blanche mischt den Tätern ihr eigenes Betäubungsmittel ins Essen.",
+        "George bringt die Täter durch eine fingierte Geiselnachricht auseinander."
+      ],
+      "short": "Die Entführer landen in dem Kellerraum, in dem sie ihre Opfer festgehalten haben.",
+      "context": "Arthur Adamson (William Devane) hält Blanche (Barbara Harris) für weiterhin betäubt und will sie fortschaffen, um ihren Tod als Selbstmord erscheinen zu lassen. George (Bruce Dern) hat sich inzwischen ins Haus eingeschlichen und kann mit ihr einen Gegenplan abstimmen. Als Arthur und Fran (Karen Black) in den Raum kommen, springt Blanche auf und entkommt; George verriegelt die beiden hinter ihr.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "filmsite"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Familiengrab wurde erstmals 1976 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Familiengrab“ mit Barbara Harris, Bruce Dern, Karen Black und William Devane erstmals veröffentlicht?",
+      "answers": [
+        "1976",
+        "1968",
+        "1982",
+        "1988"
+      ],
+      "short": "Die Weltpremiere fand 1976 bei Filmex in Los Angeles statt.",
+      "context": "Victor Cannings Roman „The Rainbird Pattern“ erschien 1972. Die Verfilmung wurde 1976 zuerst bei Filmex gezeigt und schloss später im selben Jahr die Filmfestspiele von Cannes ab. Ernest Lehman arbeitete die Vorlage stärker zur schwarzen Komödie um. Der Abstand von vier Jahren zwischen Buch und Film umfasst also auch eine deutliche Veränderung des Tons.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cannes",
+        "tcm"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Alfred Hitchcock führte die alleinige Hauptregie.",
+      "question": "Wer führte bei „Familiengrab“ mit Barbara Harris und Bruce Dern Regie?",
+      "answers": [
+        "Alfred Hitchcock",
+        "Stanley Donen",
+        "Billy Wilder",
+        "Blake Edwards"
+      ],
+      "short": "Alfred Hitchcock inszenierte mit „Familiengrab“ seinen letzten fertiggestellten Kinofilm.",
+      "context": "Am Schluss führt Blanche (Barbara Harris) ihren verblüfften Partner zum im Kronleuchter versteckten Diamanten. Anschließend blickt sie direkt in die Kamera und zwinkert dem Publikum zu. Dieses Zeichen lässt die Frage nach ihrer vermeintlichen Eingebung spielerisch offen. Drehbuchautor Ernest Lehman und Hitchcock stritten über das Zwinkern; der Regisseur behielt es bei. Für ihn blieb es die letzte Einstellung eines veröffentlichten Spielfilms.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tcm",
+        "handlung",
+        "cannes"
+      ],
+      "spoiler": "hoch"
+    }
+  ]
+}
+
