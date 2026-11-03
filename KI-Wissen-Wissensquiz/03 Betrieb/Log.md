@@ -2700,3 +2700,8 @@ Sechs Actionfilme ACTION-028–033 mit 48 Fragen integriert: S.W.A.T., End of Wa
 #### Fortsetzung 03.11.2026 – W47
 
 Sechs Fantasyfilme FANTASY-022–027 (Mirai, Suzume, Belle, Weathering With You, Dungeons & Dragons: Ehre unter Dieben, Phantastische Tierwesen und wo sie zu finden sind) mit 48 neuen Fragen und Wissenszielen integriert. Alle Fragen vollständig unabhängig gegengelesen, mehrere primäre Gestaltungs- und Regieinterviews tatsächlich nachgelesen. Shinkais ausdrücklich benannte thematische Katastrophentrilogie von einer durchgehenden Figurenhandlung abgegrenzt; D&D mit vollständigem Regieduo. Fantasy erreicht 127 Filme. Alle 2.328 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 86 Pakete / 17.623 Fragen / 16.924 Ziele; 210 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W48
+
+Sechs Horrorfilme HORROR-022–027 mit 48 neuen Fragen und Wissenszielen integriert: The House of the Devil, Das Waisenhaus, Mama, Trick ’r Treat, Dog Soldiers und Ginger Snaps. Alle Fragen unabhängig vollständig gegengelesen und primäre Filmemacher-, Autoren-, Szenenbild- und Effektinterviews nachgelesen. Festivaljahre 2000/2002/2007 von späterer Kino- oder Heimkinoauswertung getrennt. Gegenwärtiger Bestand Horror 127 Filme; Ginger Snaps als erster Teil seiner veröffentlichten Trilogie eingetragen. Alle 2.376 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 87 Pakete / 17.671 Fragen / 16.972 Ziele; 204 Genreergänzungen offen.

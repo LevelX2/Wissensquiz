@@ -19367,6 +19367,515 @@
       "reference_question_id": "G150-20261103-FANTASY-027-L1",
       "year_question_id": "G150-20261103-FANTASY-027-Y",
       "director_question_id": "G150-20261103-FANTASY-027-D"
+    },
+    {
+      "id": "HORROR-022",
+      "film_title_de": "The House of the Devil",
+      "film_title_original": "The House of the Devil",
+      "film_year": 2009,
+      "subdomain": "Horror",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ti Wests früher Langfilm ist vor allem im unabhängigen Genrekino bekannt; sein langsamer Aufbau verlangt keine hohe Bekanntheit, bietet aber mehrere Zugänge.",
+      "directors": [
+        "Ti West"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 25. April 2009 beim Tribeca Film Festival laut offiziellem Festivalarchiv und zeitgenössischem Interview. VOD-Auswertung und begrenzter Kinostart im Oktober 2009 folgten später. Geprüfte Handlungsziele beziehen sich auf die spätere veröffentlichte Langfassung; bei Tribeca waren vom Regisseur beanstandete Kürzungen enthalten.",
+      "director_note": "Ti West führte allein Regie, schrieb und schnitt. Eliot Rockett ist Kameramann; Wests zusätzliche Kamera-Bedienung wird nicht als Verdrängung dieses Credits behandelt.",
+      "country_note": "USA nach Tribeca und MoMA. Connecticut ist Dreh- und Handlungskontext innerhalb der US-Produktion.",
+      "series": null,
+      "series_note": "Eigenständige Langfilmhandlung. Der gleich übersetzte Titel eines Méliès-Kurzfilms und Wests andere Horrorfilme sind keine nummerierte Fortsetzungsfolge.",
+      "series_sources": [
+        "https://tribecafilm.com/festival/archive/512cef671c7d76e04600148b-house-of-the-devil",
+        "https://www.moma.org/calendar/events/7728"
+      ],
+      "sources": [
+        {
+          "key": "festival",
+          "url": "https://tribecafilm.com/festival/archive/512cef671c7d76e04600148b-house-of-the-devil",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Festival-Synopsis und Credits gelesen: Weltpremiere, USA, Samantha, Mietkaution und fragwürdiger Babysitterauftrag, zentrale Darsteller und alleinige Regie. Werbesatz über wahre Ereignisse nicht als historische Gewissheit übernommen."
+        },
+        {
+          "key": "west",
+          "url": "https://tribecafilm.com/news/512c07c51c7d76d9a900034c-faces-of-the-festival-br",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Ti-West-Interview von Kristin McCracken gelesen: Premierentermin 25. April 2009, Besetzung, Wiederzusammenarbeit mit Noonan, Gerwig und Woronov, Bedeutung vertrauter Mitarbeiter. Drehpannen nur als Erinnerung, keine übernatürliche Ursache behauptet."
+        },
+        {
+          "key": "tully",
+          "url": "https://www.hammertonail.com/interviews/a-conversation-with-ti-west-the-house-of-the-devil/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Michael-Tully-Interview gelesen: ernsthafte Art-Horror-Konzeption, komplette Innenraumumgestaltung durch Jade Healy, Jahrbuchfotos für Kostümlook, schrittweise Herstellung, Farb-Listen statt Storyboards, nach Tribeca zurückgenommene Kürzungen und wiederhergestellte Raumbeziehungen. Webserie und unrealisierte Folgevorhaben nicht als Filmfortsetzung gezählt."
+        },
+        {
+          "key": "galluzzo",
+          "url": "https://robertvgalluzzo.com/excl-ti-west-takes-us-into-the-house-of-the-devil/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen Interviewtext mit Ti West, besonders Besetzung, Entwicklung und Tanzabschnitt: Donahue gestaltete ihre Bewegung selbst; keine Behauptung einer detailliert choreografierten Regieanweisung. Bericht aus 2009, kein neu geführtes Gespräch."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_House_of_the_Devil_(2009_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Cast gelesen: falsche Hausbewohner, Fotografien, mit Drogen versetzte Pizza, Ulman-Familie, fehlgeschlagene Flucht aus dem Ritual und Schwangerschaft im Krankenhaus. Keine Tatsachenbehauptung über echten Satanismus aus dem Vorspann abgeleitet."
+        },
+        {
+          "key": "szenen",
+          "url": "https://scarevalue.com/the-house-of-the-devil-review/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene ausführliche indizierte Szenenbesprechung: Auto auf Familienfoto, ermordete eigentliche Bewohner, empfohlene Pizzanummer und Betäubung, Ritual sowie Krankenhausende. Wertung und Vergleich mit MaXXXine nicht als sachliche Regieabsicht übernommen."
+        },
+        {
+          "key": "finale",
+          "url": "https://whatculture.com/film/10-horror-movie-fakeouts-we-all-fell-for?page=10",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Einzelabschnitt von Jack Pooley gelesen: Friedhof, Samantha schießt auf sich selbst, überlebt und bleibt schwanger. Keine pauschale Antichrist-Bestimmung über die zurückhaltende Filmschlusssuggestion hinaus behauptet."
+        },
+        {
+          "key": "museum",
+          "url": "https://www.moma.org/calendar/events/7728",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen MoMA-Werktext gelesen: USA 2009, Ti West und Besetzung, Kontext Larry Fessenden/Glass Eye Pix, langsamer Horroraufbau. Abweichende Schreibweise Wonorov nicht übernommen. Der eigentliche Werktext nennt ausdrücklich den Titelbezug zu Méliès’ Stummkurzfilm von 1896; dies wurde unabhängig nachgelesen und als konkreter früherer Zeitanker ergänzt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-022-L1",
+      "year_question_id": "G150-20261103-HORROR-022-Y",
+      "director_question_id": "G150-20261103-HORROR-022-D"
+    },
+    {
+      "id": "HORROR-023",
+      "film_title_de": "Das Waisenhaus",
+      "film_title_original": "El orfanato",
+      "film_year": 2007,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein bekannter Titel des spanischen Geisterkinos mit internationaler Festival- und Kinowirkung; die Figurenketten und doppelte Auflösung verlangen genauere Kenntnis.",
+      "directors": [
+        "Juan Antonio Bayona"
+      ],
+      "production_countries": [
+        "Spanien",
+        "Mexiko"
+      ],
+      "release_note": "Erstjahr 2007 einschließlich Cannes/Semaine de la Critique, durch offizielles Festivalarchiv bestätigt. Der Werkabgleich nennt dort den 20. Mai. Deutscher Kinostart 14. Februar 2008 und Goya-Verleihung 2008 sind spätere Stationen.",
+      "director_note": "Juan Antonio Bayona alleinige Hauptregie, auch als J. A. Bayona geführt. Sergio G. Sánchez schrieb das Drehbuch und war am Set beteiligt; er verneint im Interview einen gemeinsamen Regieanspruch. Guillermo del Toro war Produzent, kein Mitregisseur.",
+      "country_note": "Spanien und Mexiko ausdrücklich nach mexikanischer Secretaría de Cultura, FSK und Filmdienst. Das Cannes-Archiv und ICAA verkürzen auf Spanien; die ergänzende mexikanische Länderangabe ist institutionell belegt und nicht bloß aus del Toros Herkunft abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständige Langfilmhandlung. Die im zeitgenössischen Interview geplante US-Neuverfilmung ist weder ein veröffentlichter weiterer Teil noch eine Fortsetzung; keine nummerierte Filmfolge belegt.",
+      "series_sources": [
+        "https://www.semainedelacritique.com/fr/edition/2007/film/el-orfanato",
+        "https://editorial.rottentomatoes.com/article/ja-bayona-and-sergio-sanchez-on-the-orphanage-the-rt-interview/"
+      ],
+      "sources": [
+        {
+          "key": "cannes",
+          "url": "https://www.semainedelacritique.com/fr/edition/2007/film/el-orfanato",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Festivaltext und Hauptcredits gelesen: Auswahl 2007, Bayona, Rueda/Cayo/Príncep/Chaplin, Rückkehr und bedrohte Familie. Fehlerhafte Kameramann-Schreibweise Oscar Saura nicht übernommen."
+        },
+        {
+          "key": "mexiko",
+          "url": "https://sic.cultura.gob.mx/ficha.php?table=produccion_cine&table_id=733",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen filmbezogenen Werkdatensatz der mexikanischen Secretaría de Cultura gelesen: Spanien-Mexiko 2007, Hauptregie und Produktion, Originaltitel und Synopsis. Autorennamensform vereinheitlicht."
+        },
+        {
+          "key": "icaa",
+          "url": "https://infoicaa.mcu.es/CatalogoICAA/es-es/Peliculas/Detalle?Pelicula=53606",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen vollständigen indizierten amtlichen Filmtext: 2007, Regie Bayona, Spanien und Rückkehr in die frühere Kindheitsumgebung. Verkürzte Länderangabe gegen mexikanische Primärquelle sichtbar abgegrenzt."
+        },
+        {
+          "key": "interview",
+          "url": "https://editorial.rottentomatoes.com/article/ja-bayona-and-sergio-sanchez-on-the-orphanage-the-rt-interview/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Interview von Alex Vo mit Bayona/Sánchez gelesen: beschränkte Laura-Perspektive, Kürzung von Nebensträngen, frühe gewaltsame Beseitigung der vermuteten Gegenspielerin, del Toros Produzentenrolle, echte Außenkulisse und Studioinneres sowie bewusste Trennung von Autor und Regisseur. Website-Aktualisierung 2015 nicht als ursprüngliches Gesprächsjahr behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Orphanage_(2007_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Cast gelesen: Tomás/Benigna, Vergiftung, altes Kinderspiel, versehentlich versperrter Zugang und Simóns Tod, abschließender Perspektivwechsel. Die Sprungfolge im Tod des Jungen wird nicht als medizinisches Detailziel abgefragt."
+        },
+        {
+          "key": "kritik",
+          "url": "https://www.dreadcentral.com/editorials/425992/the-orphanage-is-the-centurys-best-ghost-story/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Chad-Collins-Essay gelesen: konkrete Wiederdeutung des nächtlichen Klopfens als Hilferuf Simóns, blockierte verborgene Tür, verzweifelte Mutter und kommunizierende Geister. Einzelne chronologische Verkürzung des Entdeckungs-/Tablettenablaufs nicht übernommen."
+        },
+        {
+          "key": "analyse",
+          "url": "https://journals.uco.es/Esferas/article/download/16337/15050/39990",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen ausführlichen indizierten Analyseabschnitt, gedruckte Seite 136: Tomás ertrinkt nach Entwendung der Maske, Benignas Vergiftung als Rache, Laura nutzt das Kinderspiel zur Kontaktaufnahme und findet den im Versteck gefangenen Sohn. Nicht als vollständige Lektüre des ganzen Aufsatzes ausgegeben."
+        },
+        {
+          "key": "goya",
+          "url": "https://www.premiosgoya.com/22-edicion/nominaciones/por-categoria/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen 2008er-Kategorienabschnitt gelesen: Bayona gewinnt neue Regie für El orfanato, Sánchez Originaldrehbuch. Filmjahr 2007 von Preisjahr 2008 getrennt."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=63953b44c8a72800161f947b&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen indizierten FSK-Werkdatensatz gelesen: deutscher Titel, Originaltitel, Mexiko/Spanien 2007 und Regie. Freigabe 2008 nicht als Erstveröffentlichung verwendet."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/530686/das-waisenhaus",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen vollständigen freien Werkeintrag: Mexiko/Spanien 2007 und Rollen Laura, Carlos, Simón, Aurora. Wertung der Vorbilder nicht als sachliche Eigenheitsbehauptung übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-023-L1",
+      "year_question_id": "G150-20261103-HORROR-023-Y",
+      "director_question_id": "G150-20261103-HORROR-023-D"
+    },
+    {
+      "id": "HORROR-024",
+      "film_title_de": "Mama",
+      "film_title_original": "Mama",
+      "film_year": 2013,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Geistergeschichte mit Jessica Chastain und dem Namen del Toro ist für ein Genrepublikum gut erkennbar; die unterschiedlichen Bindungen der beiden Kinder und die Herstellung der Gestalt sind spezieller.",
+      "directors": [
+        "Andy Muschietti"
+      ],
+      "production_countries": [
+        "Kanada",
+        "Spanien"
+      ],
+      "release_note": "Erstveröffentlichung 2013 nach Universal; nordamerikanischer Kinostart am 18. Januar durch zeitgenösslichen Setbericht angekündigt und Werkabgleich bestätigt. Produktionsjahr 2012 in Cineuropa und Kurzfilm 2008 sind davon getrennt.",
+      "director_note": "Andy Muschietti ist die offizielle Namensform bei Universal, Andrés Muschietti dieselbe Person in spanischen Quellen. Barbara Muschietti und Neil Cross gehören zum Drehbuchteam; Guillermo del Toro war ausführender Produzent, kein Mitregisseur.",
+      "country_note": "Kanada/Spanien laut amtlichem spanischem ICAA-Katalog mit Anteilen 67/33 Prozent und durch Muschiettis eigenes Koproduktionsinterview gestützt. MoMA ergänzt Mexiko, australischer Klassifikationseintrag nennt USA; diese verkürzten beziehungsweise abweichenden Angaben ersetzen nicht die konkret belegten Produktionsanteile.",
+      "series": null,
+      "series_note": "Eigenständiger Langfilm auf Basis eines kurzen Vorläufers. Der Kurzfilm ist keine vorangestellte Nummer einer Langfilmreihe; angekündigte spätere Fortsetzung ist zum Stichtag nicht als veröffentlichter weiterer Film belegt.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/mama",
+        "https://cineuropa.org/en/interview/232124"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/mama",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Synopsis und Credits gelesen: verschwundene Schwestern, Onkel und Freundin, Regie Andy Muschietti, Cast und Erstjahr 2013."
+        },
+        {
+          "key": "icaa",
+          "url": "https://infoicaa.mcu.es/CatalogoICAA/Caratulas/205011/58/P205011.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen ausführlichen amtlichen Suchindextext: Kanada 67 Prozent, Spanien 33 Prozent, De Milo/Toma 78, Regie Andrés Muschietti und Herstellungscredits. Direkter PDF-Abruf 429; keine vollständige PDF-Lektüre behauptet."
+        },
+        {
+          "key": "regisseur",
+          "url": "https://cineuropa.org/en/interview/232124",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Alfonso-Rivera-Interview gelesen: spanisch-kanadische Koproduktion, zwei unterschiedlich eingewöhnte Mädchen, Botet plus digitale Effekte, Kurzfilm in Sitges 2008 und spätere Sichtung durch del Toro. Gerundete 70/30-Erinnerung nicht gegen genaue amtliche Anteile verwendet."
+        },
+        {
+          "key": "set",
+          "url": "https://www.comingsoon.net/horror/news/730077-on-the-set-a-chat-with-mamas-director-producer-andy-a-barbara-muschietti",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten relevanten Setinterviewtext mit Andy/Barbara gelesen: Entstehung aus kurzem Stilversuch, Annabel als widerwillige Heldin, unterschiedliche frühkindliche Prägung, Botet-Besetzung und damals angekündigter Kinostart. Etwaige Clipvideos nicht angesehen."
+        },
+        {
+          "key": "effekte",
+          "url": "https://www.motionpictures.org/2013/01/mommy-issues-making-monsters-with-mama-visual-effects-supervisor-aaron-weintraub/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Aaron-Weintraub-Interview von Mike Olson gelesen: Botets Körperarbeit, Prothesen und Seilzüge, Zeitveränderung/Komposition mehrerer Aufnahmen und digitales Haar. Offenkundig falsche französische Nationalitätsangabe des Darstellers nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mama_(2013_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Plot und Cast gelesen: Jeffrey/Lucas-Doppelrolle, Klinik, Koma, Geist Edith und verlorenes Baby, vorübergehende Beruhigung, getrennte Entscheidungen der Schwestern und Mottenfinale. Angekündigte Fortsetzung von real veröffentlichten Filmen getrennt."
+        },
+        {
+          "key": "kritik",
+          "url": "https://www.yellmagazine.com/2013/05/23/mama-2013-review/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Filmhandlung einschließlich markiertem Spoilerabschnitt gelesen: Doppelrolle, Annabel als Musikerin, Lucas im Koma, Dreyfuss und Babyüberreste, Victoria bleibt/Lilly geht mit Mama. Fehlerhafte Bezeichnung del Toros als executive director nicht übernommen."
+        },
+        {
+          "key": "rollen",
+          "url": "https://www.tvguide.com/movies/mama/cast/2030204504/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige leitende Rollen- und Regieliste gelesen: Coster-Waldau als Lucas/Jeffrey, Chastain als Annabel, Botet als Mama, Mädchen und drei Autoren."
+        },
+        {
+          "key": "bibliothek",
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb43687669w",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen BnF-Editionsdatensatz gelesen: allein Andy Muschietti als Regie, Neil Cross und Barbara Muschietti im Drehbuchteam, Toma 78/De Milo und Copyright 2013. Aufgelistete Extras nicht angesehen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-024-L1",
+      "year_question_id": "G150-20261103-HORROR-024-Y",
+      "director_question_id": "G150-20261103-HORROR-024-D"
+    },
+    {
+      "id": "HORROR-025",
+      "film_title_de": "Trick ’r Treat – Die Nacht der Schrecken",
+      "film_title_original": "Trick 'r Treat",
+      "film_year": 2007,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Halloween-Anthologie und ihre Figur Sam haben ein ausgeprägtes Genrepublikum; ihre verschränkten Geschichten sind außerhalb dieses Publikums weniger geläufig.",
+      "directors": [
+        "Michael Dougherty"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Legendary nennt den 9. Dezember 2007 als Original Release. Die öffentliche Erstaufführung beim Butt-Numb-A-Thon in Austin wird durch die Veröffentlichungsgeschichte und Doughertys Bericht über Harry Knowles gestützt. Der breite Heimkinostart 2009 ist nicht das Erstjahr.",
+      "director_note": "Michael Dougherty ist alleiniger Regisseur und Drehbuchautor; Bryan Singer produzierte und half bei der Drehbuchentwicklung.",
+      "country_note": "USA nach dem ausführlichen Werkdatensatz und den US-Produktionsgesellschaften Legendary/Bad Hat Harry. Einige deutsche Datenbanken ergänzen Kanada; die Dreharbeiten in Vancouver belegen allein keine weitere Produktionsnationalität.",
+      "series": null,
+      "series_note": "Eigenständiger veröffentlichter Langfilm. Sam stammt aus einem animierten Kurzfilm; weitere Comicgeschichten und angekündigte Fortsetzungspläne bilden keine belegte nummerierte Langfilmfolge.",
+      "series_sources": [
+        "https://www.legendary.com/film/trick-r-treat/",
+        "https://www.gamesradar.com/trick_r_treat_interview/"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.legendary.com/film/trick-r-treat/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werktext gelesen: Original Release 9. Dezember 2007, Regie/Autor Dougherty, vier verschränkte Geschichten und Rollen von Cox, Paquin und Baker."
+        },
+        {
+          "key": "brauch",
+          "url": "https://www.commonsensemedia.org/movie-reviews/trick-r-treat",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Inhalts- und Kritikabschnitte gelesen: Kreeg, Laurie als Rotkäppchen, Emma und Kürbislaterne vor Mitternacht, Halloween-Regeln und episodische Verknüpfung. Kopfjahr 2009 bezeichnet spätere Auswertung."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Trick_%27r_Treat",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Plot-, Cast- und Veröffentlichungsabschnitte gelesen: Laurie/Wilkins-Wendung, Kreeg als früherer Busfahrer, Geisterkinder und abschließende zeitliche Rückkehr. Nicht aus Drehort auf Produktionsland geschlossen."
+        },
+        {
+          "key": "struktur",
+          "url": "https://www.gamesradar.com/trick_r_treat_interview/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen relevanten SFX-Interviewtext gelesen: erst getrennte Anthologiegeschichten, danach bewusstes Verweben mit wechselnden Haupt-/Nebenrollen, Sam als Halloween-Maskottchen. Interviewvideo nicht behauptet."
+        },
+        {
+          "key": "entstehung",
+          "url": "https://darklordbunnykins.wordpress.com/2009/10/06/terrifying-tuesdays-interview-with-trick-r-treat-director-michael-dougherty/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamtes schriftliches Interview gelesen: Sam aus Season’s Greetings 1996, Singers Produzenten- und Mentorrolle, Erstvorführung bei Harry Knowles und späterer Heimkinostart."
+        },
+        {
+          "key": "titel",
+          "url": "https://www.kinopolis.de/gi/filmdetail/trick-r-treat-die-nacht-der-schrecken/75174000012PLXMQDD",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Kinowerktext gelesen: deutscher Titel, Produktionsjahr 2007, Warner-Verleih und Besetzung; deutscher Start ist keine Weltpremiere."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-025-L1",
+      "year_question_id": "G150-20261103-HORROR-025-Y",
+      "director_question_id": "G150-20261103-HORROR-025-D"
+    },
+    {
+      "id": "HORROR-026",
+      "film_title_de": "Dog Soldiers",
+      "film_title_original": "Dog Soldiers",
+      "film_year": 2002,
+      "subdomain": "Horror",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die britische Belagerungsgeschichte ist ein bekannter Werwolf-Kultfilm für Genrefans, außerhalb dieses Publikums aber weniger präsent als Marshalls The Descent.",
+      "directors": [
+        "Neil Marshall"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA",
+        "Luxemburg"
+      ],
+      "release_note": "2002 nach Weltpremierenarchiv des BIFFF und Marshalls eigener Erinnerung an die Veröffentlichung. BFI führt Herstellungsjahr 2001; dies ist nicht die öffentliche Erstveröffentlichung. Britischer Kinostart im Mai 2002, Brüsseler Festival davor.",
+      "director_note": "Neil Marshall schrieb und inszenierte den Langfilm; Christopher Figg, Tom Reeve und David Allen produzierten.",
+      "country_note": "Das BFI nennt Vereinigtes Königreich/USA/Luxemburg; dadurch sind die Koproduktionsländer breiter als die britische Kurzbezeichnung des Festivals. Drehland Luxemburg und Handlungsschauplatz Schottland werden getrennt. Fehlerhafte Festival-Castzeile mit Statham/Simm nicht übernommen.",
+      "series": null,
+      "series_note": "Die angekündigte Fortsetzung Fresh Meat und spätere neue Anläufe sind nicht als veröffentlichte Filmfolge belegt. Daher keine positive Teilnummer für eine bloß geplante Reihe.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Dog_Soldiers_(film)"
+      ],
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/f39c0c98-e593-5c0e-8b2d-ad3a96cb9cd6/dog-soldiers",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werkdatensatz gelesen: allein Neil Marshall als Regie, drei Koproduktionsländer und leitender Cast. Kopfjahr 2001 als Herstellung vom öffentlichen Start getrennt."
+        },
+        {
+          "key": "festival",
+          "url": "https://wiki.bifff.net/movies/dog-soldiers/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Festivalwerktext gelesen: Ausgabe 2002, World premiere, Routineübung, Sergeant Wells, Captain Ryan, Megan, belagertes Haus und Auszeichnungen. Fehlerhafte zusätzliche Castzeile nicht verwendet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Dog_Soldiers_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Plot-/Cast-/Produktionsabschnitte gelesen: Coopers Hundeverweigerung, Köderauftrag, Megan als Werwölfin, Brieföffner und abschließender Schuss auf Ryan. Unveröffentlichte Fortsetzung getrennt."
+        },
+        {
+          "key": "kritik",
+          "url": "https://www.horrorguys.com/dog-soldiers-2002-review/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Brian-Schell-Synopsis/Kritik gelesen: Auswahltest, gefangener Werwolf als Missionsziel, expendable bait, Megan öffnet ihr Haus den Werwölfen, Explosion und Brieföffner. Vereinfachtes Finale nur mit genauerem Plot verwendet."
+        },
+        {
+          "key": "bau",
+          "url": "https://www.simonbowles.com/index/dogsoldiers-pzxlg",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten Bericht des Production Designers gelesen: schottisches Haus als Fassade in Luxemburg, Studiobauten, feste Wände, unterscheidbare Räume und Modell für die Explosion."
+        },
+        {
+          "key": "regisseur",
+          "url": "https://www.scifinow.co.uk/interviews/dog-soldiers-interview-with-neil-marshall/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges schriftliches Rachael-Harper-Interview gelesen: sechsjährige Entwicklung bis Dreh 2001, Kombination aus Militär-/Belagerungs-/Horrorfilm, Vorbilder und Bewegung der praktischen Werwolfdarsteller."
+        },
+        {
+          "key": "entwicklung",
+          "url": "https://www.ioncinema.com/news/uncategorized/interview-neil-marshall",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen ausführlichen Interviewindex mit erster Antwort und zugänglichen Beginn: Marshall nennt ersten Drehbuchentwurf 1996, Dreh 2000/2001 und Veröffentlichung 2002. Spätere erneut angefragte Abschnitte wegen Timeout nicht als vollständig gelesen bezeichnet."
+        },
+        {
+          "key": "welle",
+          "url": "https://www.bfi.org.uk/lists/10-great-british-films-2002",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Werkabschnitte zu Dog Soldiers und 28 Days Later sowie Einleitung gelesen: beide öffentliche Filme 2002, britische Genreerneuerung und unterschiedliche Formen der Gruppenbedrohung."
+        },
+        {
+          "key": "boyle",
+          "url": "https://www.bfi.org.uk/film/bd4cc955-a617-5a8b-b164-aed26d582552/28-days-later",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen BFI-Werktext gelesen: 2002, Danny Boyle, Viruskatastrophe in Großbritannien; trägt den konkreten gleichjährigen Filmbezug."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-026-L1",
+      "year_question_id": "G150-20261103-HORROR-026-Y",
+      "director_question_id": "G150-20261103-HORROR-026-D"
+    },
+    {
+      "id": "HORROR-027",
+      "film_title_de": "Ginger Snaps – Das Biest in Dir",
+      "film_title_original": "Ginger Snaps",
+      "film_year": 2000,
+      "subdomain": "Horror",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die kanadische Werwolfgeschichte besitzt einen festen Kultstatus im Horrorpublikum; ihre eigenwillige Pubertätsmetapher ist stärker unter Filmkennern als im allgemeinen Publikum geläufig.",
+      "directors": [
+        "John Fawcett"
+      ],
+      "production_countries": [
+        "Kanada"
+      ],
+      "release_note": "Erste öffentliche Festivalaufführungen 2000: Fantasy-Filmfest-Programm und TIFF-Werkregister bestätigen das Jahr. Der reguläre kanadische Start 2001 ist davon getrennt. Der genaue Münchner Tag 1. August wird im ausführlichen Veröffentlichungsdatensatz genannt, nicht ohne eigenen Programmabgleich als amtlicher Tagesnachweis ausgegeben.",
+      "director_note": "John Fawcett führte allein Regie. Karen Walton schrieb das Drehbuch nach einer gemeinsam entwickelten Geschichte; Ken Chubb war Story Editor, Grant Harvey Second Unit, nicht weitere Hauptregie.",
+      "country_note": "Kanada nach IFFR, TIFFs Canadian Film Encyclopedia und dem ausführlichen kanadischen Produktionsbericht. Das Fantasy-Filmfest-Programm und manche Plattformen ergänzen USA; US-Verkaufs-/Finanzierungsbezüge werden nicht ohne ausgewiesenen Koproduktionscredit als weitere Produktionsnationalität übernommen.",
+      "series": {
+        "name": "Ginger Snaps",
+        "position": 1,
+        "note": "Veröffentlichungsfolge: Original 2000, Ginger Snaps 2: Unleashed 2004 als Fortsetzung, Ginger Snaps Back: The Beginning 2004 als dritter veröffentlichter Langfilm mit historischer Vorgeschichte. Die Handlungschronologie des Prequels ändert die Nummernfolge nicht."
+      },
+      "series_note": "Drei tatsächlich veröffentlichte Langfilme durch offiziellen Rechte-/Editionsanbieter belegt. Der historische dritte Film ist ein Prequel, nicht Teil 1 dieser Zählung.",
+      "series_sources": [
+        "https://viavision.com.au/products/ginger-snaps-trilogy-4k",
+        "https://cfe.tiff.net/canadianfilmencyclopedia/content/films/ginger-snaps"
+      ],
+      "sources": [
+        {
+          "key": "tiff",
+          "url": "https://cfe.tiff.net/canadianfilmencyclopedia/content/films/ginger-snaps",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werktext gelesen: Jahr 2000, allein Fawcett Regie, Walton Drehbuch, Cast, Todesszenenfotos, Schwesternbeziehung, körperliche Verwandlung und Fortsetzung 2004."
+        },
+        {
+          "key": "presse",
+          "url": "https://ginger-snaps.com/presskit.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige Produktions-/Storyabschnitte und Rollenprofile gelesen: Isabelle/Perkins, Krankheit auch sexuell übertragbar, Jason, Sam, kanadische Finanzierung, Fawcett/Walton, Produktionsjahr 1999 und praktische Kreaturengestaltung. Fremde historische Werwolfzitate nicht als medizinisches Wissen übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ginger_Snaps_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Plot und Cast gelesen: Eisenhutmittel, Test an infiziertem Jason, Brigitte infiziert sich aus Loyalität bewusst, gescheiterte Rettung und tragisches Finale. Veröffentlichungsfolge vom Handlungsjahr des Prequels getrennt."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.comingsoon.net/movies/features/2134933-ginger-snaps-director-stars-werewolf-movie-interview-legacy-4k",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten relevanten schriftlichen Interviewtext gelesen: Fawcett über die Totenschau als Foto-Vorspann und Einfluss von Dead Ringers, Perkins über Brigittes Entwicklung, Isabelle über Verwandlungsstufen. Die neuen Videoextras wurden nicht angesehen."
+        },
+        {
+          "key": "walton",
+          "url": "https://thatshelf.com/interview-karen-walton/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges schriftliches Karen-Walton-Interview gelesen: zunächst Vorbehalte gegen Horror, dann persönlich geprägter Zugang, Fawcetts Ermutigung, unabhängige künstlerische Kontrolle und weibliche Adoleszenz als Ausgangspunkt."
+        },
+        {
+          "key": "entwicklung",
+          "url": "https://legacy.aintitcool.com/node/8982",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener ausführlicher Anton-Sirius-Interviewabschnitt ab Drehbuchfrage: gemeinsamer Beginn Januar 1995, mehrere Jahre Entwicklung, langsame biologische Metamorphose statt bloßer Vollmondregeln. Rahmenkritik und vermischte Mai-2001-Premierenangabe nicht als erste Weltveröffentlichung übernommen."
+        },
+        {
+          "key": "kritik",
+          "url": "https://www.criterion.com/current/posts/8298-blood-and-guts-in-high-school",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Farihah-Zaman-Essay gelesen: Pubertätsmetapher, Menstruation, Geschlechtererwartungen, Jason-Ansteckung, Foto-Vorspann und Film als persönlich geprägter weiblicher Körperhorror."
+        },
+        {
+          "key": "festival",
+          "url": "https://fantasyfilmfest.com/wp-content/uploads/2023/01/fantasyfilmfest2000.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene ausführliche Suchindexauszüge des Originalprogramms: Ginger Snaps im Festival 2000 und Handlung zur ersten Periode. Direkter Abruf wegen Dateigröße nicht vollständig möglich; keine vollständige PDF-Lektüre behauptet."
+        },
+        {
+          "key": "iffr",
+          "url": "https://iffr.com/en/iffr/2001/films/ginger-snaps",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werk-/Synopsis-Suchindex gelesen: Kanada 2000, John Fawcett, Menstruation/Angriff, Sam als Pflanzenkundiger, Fotos und Kameragestaltung. Direkter Abruf 403; falsche Darsteller-Figuren-Zuordnung in einem Schlusssatz nicht übernommen."
+        },
+        {
+          "key": "reihe",
+          "url": "https://viavision.com.au/products/ginger-snaps-trilogy-4k",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Filmbeschreibungsteil aller drei veröffentlichten Filme gelesen: Original 2000, Fortsetzung und historisches Prequel 2004; Reihenfolge und jeweilige Regie-/Kommentarzuordnung. Aufgelistete Extras nicht als angesehen ausgegeben."
+        },
+        {
+          "key": "titel",
+          "url": "https://www.yorck.de/filme/ginger-snaps-das-biest-in-dir",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen vollständigen Kino-Suchindextext: deutscher Titel, Kanada, Erstjahr 2000 und Regie. Wiederaufführung 2024 nicht mit Erstjahr verwechselt; direkte Seite liefert nur Navigation."
+        }
+      ],
+      "reference_question_id": "G150-20261103-HORROR-027-L1",
+      "year_question_id": "G150-20261103-HORROR-027-Y",
+      "director_question_id": "G150-20261103-HORROR-027-D"
     }
   ],
   "series_updates": [
