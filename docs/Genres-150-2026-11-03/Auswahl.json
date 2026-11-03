@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 174 Filmfassungen mit 1392 Fragen lokal integriert. 327 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 180 Filmfassungen mit 1440 Fragen lokal integriert. 321 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -4113,8 +4113,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Heistkomödie im Nachkriegswesten: gestohlenes Gold muss heimlich in die Münzprägeanstalt zurück.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-040"
     },
     {
       "candidate_id": "C-002",
@@ -4170,7 +4171,7 @@
     },
     {
       "candidate_id": "C-006",
-      "film_title_de": "Django – Der Bastard",
+      "film_title_de": "Django und die Bande der Bluthunde",
       "film_title_original": "Django il bastardo",
       "film_year": 1969,
       "genre": "Western",
@@ -4178,8 +4179,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Italowestern verknüpft Bürgerkriegsverrat mit einer geisterhaften Rächerfigur.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-044"
     },
     {
       "candidate_id": "C-007",
@@ -4227,28 +4229,30 @@
     {
       "candidate_id": "C-010",
       "film_title_de": "Verflucht, verdammt und Halleluja",
-      "film_title_original": "E poi lo chiamarono il magnifico",
+      "film_title_original": "...e poi lo chiamarono il Magnifico",
       "film_year": 1972,
       "genre": "Western",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein weltfremder Erbe muss sich im Westen behaupten; Variation des Spencer-Hill-Westerns.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-041"
     },
     {
       "candidate_id": "C-011",
       "film_title_de": "Der Teufel kennt kein Halleluja",
-      "film_title_original": "La vendetta è un piatto che si serve freddo",
-      "film_year": 1971,
+      "film_title_original": "La collera del vento",
+      "film_year": 1970,
       "genre": "Western",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Italowestern untersucht Rache und die falsche Zuschreibung eines Überfalls.",
+      "selection_reason": "Ein Auftragskiller wechselt im andalusischen Konflikt zwischen Großgrundbesitzern und Landarbeitern die Seite; die frühere Titel-/Fassungszuordnung wurde anhand der offiziellen Darstellerseite korrigiert.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-045"
     },
     {
       "candidate_id": "C-012",
@@ -4288,12 +4292,13 @@
       "film_title_original": "Un genio, due compari, un pollo",
       "film_year": 1975,
       "genre": "Western",
-      "familiarity_level": 3,
+      "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Gauner- und Kavalleriewestern mit mehrstufigem Betrugsplan.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-042"
     },
     {
       "candidate_id": "C-015",
@@ -4301,12 +4306,15 @@
       "film_title_original": "Blueberry",
       "film_year": 2004,
       "genre": "Western",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Europäischer Comicwestern mit schamanischer Bildwelt und Grenzstadtkonflikt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-043"
     },
     {
       "candidate_id": "C-016",

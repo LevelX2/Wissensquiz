@@ -2600,3 +2600,8 @@ Sechs klassische Abenteuerfilme mit 48 neuen globalen Zielen integriert; Abenteu
 #### Fortsetzung 03.11.2026 – Komödie W27: Arthouse-Ziel erreicht
 
 Sechs Komödien mit 48 neuen globalen Zielen integriert; Komödie 138, Arthouse 154, Classics 225. Vollständige zentrale und unabhängige Gegenlesung einschließlich konkreter Szenenquellen. Falsche Regieteams bei Delicatessen ohne tatsächliche Mitregisseure; Belegabgrenzung aus Nutzertext entfernt. Hulot-Folge vollständig mit Trafic Teil 4, Living-Trilogie als thematische Folge Teile 1/3. Alle 1.392 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und gebündelt 70 gezielte Tests in sieben Dateien bestanden. Aktuell 66 Pakete / 16.687 Fragen / 15.999 Ziele; 327 Genreergänzungen offen. Arthouse erfüllt das Mindestziel, der kontinuierliche Ausbau läuft weiter.
+
+
+#### Fortsetzung 03.11.2026 – Western W28
+
+Sechs Western mit 48 neuen globalen Zielen integriert; Western 145, Arthouse 155, Classics 225. Vollständige zentrale und unabhängige Gegenlesung; Quellenverbreiterung und drei konkrete Nachschärfungen. Titelverwechslung Camus1970/Squitieri1971 behoben, offizielle Hauptregie von Zusatzarbeiten getrennt. Lose Hill-Nobody-Folge 1973/1975 als Teile1/2 konsistent; Django-Namensnachfolger ohne erfundene Filmteilnummer. Alle 1.440 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 67 Pakete / 16.735 Fragen / 16.047 Ziele; 321 Genreergänzungen offen.

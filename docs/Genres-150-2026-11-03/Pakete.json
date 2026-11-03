@@ -363,6 +363,19 @@
         "KOMOEDIE-008",
         "KOMOEDIE-009"
       ]
+    },
+    {
+      "wave": "W28",
+      "filename": "Genres150_20261103_W28.csv",
+      "path": "/genres150-20261103-w28-fragen.csv",
+      "films": [
+        "WESTERN-040",
+        "WESTERN-041",
+        "WESTERN-042",
+        "WESTERN-043",
+        "WESTERN-044",
+        "WESTERN-045"
+      ]
     }
   ],
   "series_updates": [
@@ -389,6 +402,17 @@
         "https://www.criterion.com/films/651-playtime",
         "https://www.janusfilms.com/films/1131",
         "https://www.janusfilms.com/films/list?director=Jacques+Tati"
+      ]
+    },
+    {
+      "film": "Il mio nome è Nessuno|1973",
+      "series": {
+        "name": "Nobody (Terence Hill)",
+        "position": 1,
+        "note": "Erster der zwei lose verbundenen Hill-Nobody-Western; die 1975 veröffentlichte Nachfolge Nobody ist der Größte erzählt mit Joe Thanks eine neue Geschichte. Zählweise nach Veröffentlichungsfolge, getrennt von Nobody ab 2021."
+      },
+      "sources": [
+        "https://s1.thcdn.com/design-assets/documents/arrowfilms/The%20Complete%20Sartana.pdf"
       ]
     }
   ]

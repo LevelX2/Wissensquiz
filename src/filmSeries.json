@@ -5606,8 +5606,14 @@
       "sources": []
     },
     "Il mio nome è Nessuno|1973": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Nobody (Terence Hill)",
+        "position": 1,
+        "note": "Erster der zwei lose verbundenen Hill-Nobody-Western; die 1975 veröffentlichte Nachfolge Nobody ist der Größte erzählt mit Joe Thanks eine neue Geschichte. Zählweise nach Veröffentlichungsfolge, getrennt von Nobody ab 2021."
+      },
+      "sources": [
+        "https://s1.thcdn.com/design-assets/documents/arrowfilms/The%20Complete%20Sartana.pdf"
+      ]
     },
     "Il mio nome è Thomas|2018": {
       "series": null,
@@ -16709,6 +16715,53 @@
       "sources": [
         "https://www.rialtopictures.com/catalogue/the-lavender-hill-mob",
         "https://www.acmi.net.au/works/81687--the-lavender-hill-mob/"
+      ]
+    },
+    "Sam Whiskey|1969": {
+      "series": null,
+      "sources": [
+        "https://catalog.afi.com/Film/19707-SAM-WHISKEY"
+      ]
+    },
+    "...e poi lo chiamarono il Magnifico|1972": {
+      "series": null,
+      "sources": [
+        "https://it.wikipedia.org/wiki/...e_poi_lo_chiamarono_il_Magnifico",
+        "https://de.terencehill.com/index.php?sel=filmography&sub=152"
+      ]
+    },
+    "Un genio, due compari, un pollo|1975": {
+      "series": {
+        "name": "Nobody (Terence Hill)",
+        "position": 2,
+        "note": "Lose veröffentlichte Nachfolge von Mein Name ist Nobody/Il mio nome è Nessuno (1973), hier Teil 2 nach Erscheinungsfolge. Howard Hughes bezeichnet den Film im Arrow-Booklet ausdrücklich als sequel. Neue Geschichte und Figurenkonstellation; Hills Figur heißt im Original Joe Thanks, im deutschen Vertrieb Nobody. Kein Teil der Nobody-Reihe ab 2021."
+      },
+      "sources": [
+        "https://s1.thcdn.com/design-assets/documents/arrowfilms/The%20Complete%20Sartana.pdf",
+        "https://www.filmportal.de/film/nobody-ist-der-groesste_643540edfbf04674a4a4d3309e30348d",
+        "https://it.terencehill.com/index.php?sel=filmography&sub=156"
+      ]
+    },
+    "Blueberry|2004": {
+      "series": null,
+      "sources": [
+        "https://www.allocine.fr/article/fichearticle_gen_carticle=18361078.html",
+        "https://www.allocine.fr/film/fichefilm-28712/secrets-tournage/"
+      ]
+    },
+    "Django il bastardo|1969": {
+      "series": null,
+      "sources": [
+        "https://s1.thcdn.com/design-assets/documents/arrowfilms/The%20Complete%20Sartana.pdf",
+        "https://www.filmdienst.de/film/details/23202/django-und-die-bande-der-bluthunde",
+        "https://www.filmdienst.de/film/details/23181/django-der-bastard"
+      ]
+    },
+    "La collera del vento|1970": {
+      "series": null,
+      "sources": [
+        "https://de.terencehill.com/index.php?sel=filmography&sub=146",
+        "https://www.cinematografo.it/film/la-collera-del-vento-q6h3vzfq"
       ]
     }
   }
