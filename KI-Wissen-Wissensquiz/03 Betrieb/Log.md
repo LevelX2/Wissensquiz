@@ -2595,3 +2595,8 @@ Sechs Musikfilme mit 48 Fragen integriert; 46 neue globale Ziele und zwei besteh
 #### Fortsetzung 03.11.2026 – Abenteuer W26
 
 Sechs klassische Abenteuerfilme mit 48 neuen globalen Zielen integriert; Abenteuer 133, Arthouse 149, Classics 223. Vollständige zentrale und unabhängige Gegenlesung; drei konkrete Ablenkergruppen verbessert und Szenenquellen verbreitert. Haupt- und Zusatzregie bei Zenda getrennt, zwei offizielle Regisseure bei Quatermain vollständig; unterschiedliche Four-Feathers-Fassungen bewahrt. Alle 1.344 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 65 Pakete / 16.639 Fragen / 15.951 Ziele; 333 Genreergänzungen und ein überlappender Arthouse-Film offen.
+
+
+#### Fortsetzung 03.11.2026 – Komödie W27: Arthouse-Ziel erreicht
+
+Sechs Komödien mit 48 neuen globalen Zielen integriert; Komödie 138, Arthouse 154, Classics 225. Vollständige zentrale und unabhängige Gegenlesung einschließlich konkreter Szenenquellen. Falsche Regieteams bei Delicatessen ohne tatsächliche Mitregisseure; Belegabgrenzung aus Nutzertext entfernt. Hulot-Folge vollständig mit Trafic Teil 4, Living-Trilogie als thematische Folge Teile 1/3. Alle 1.392 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und gebündelt 70 gezielte Tests in sieben Dateien bestanden. Aktuell 66 Pakete / 16.687 Fragen / 15.999 Ziele; 327 Genreergänzungen offen. Arthouse erfüllt das Mindestziel, der kontinuierliche Ausbau läuft weiter.
