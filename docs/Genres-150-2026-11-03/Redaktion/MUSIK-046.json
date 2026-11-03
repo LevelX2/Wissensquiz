@@ -1,0 +1,251 @@
+{
+  "id": "MUSIK-046",
+  "film_title_de": "Summer of Soul",
+  "film_title_original": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+  "film_year": 2021,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Die preisgekrönte Wiederentdeckung des Festivals ist im Dokumentar- und Musikpublikum bekannt, im allgemeinen Publikum weniger fest verankert.",
+  "selection_reason": "Archivauftritte, Erinnerungen und historische Montage erschließen schwarze Musikgeschichte und die Frage, welche kulturellen Ereignisse öffentlich überliefert werden.",
+  "directors": [
+    "Ahmir Thompson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Sundance-Eröffnung 2021 vor dem breiten Kino- und Streamingstart desselben Jahres. Das Festivalereignis von 1969 ist der dokumentierte Gegenstand, nicht das Erstjahr dieser Montage.",
+  "director_note": "Ahmir Thompson führt unter seinem Künstlernamen Questlove allein Regie. Hal Tulchin verantwortete die historischen Festivalaufnahmen, nicht die Regie dieses späteren Films.",
+  "country_note": "USA nach den vollständigen BFI-Programmcredits.",
+  "series": null,
+  "series_note": "Eigenständiger Dokumentarfilm über wiederentdecktes Archivmaterial; keine nummerierte Folge der Woodstock-Filme oder anderer Festivaldokumentationen.",
+  "series_sources": [
+    "https://www.searchlightpictures.com/summerofsoul/"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://www.20thcenturystudios.com/movies/summer-of-soul",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Studio-Synopsis, Regie und Startdaten im Suchindex gelesen: Harlem Cultural Festival, Mount Morris Park, Archiv, Künstler, Sundance vor breiter Auswertung 2021."
+    },
+    "bfi": {
+      "url": "https://bfidatadigipres.github.io/sheffield%20doc/fest%202021/2021/06/04/summer-of-soul/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige BFI-Programmnotizen und Credits gelesen: USA 2021, Regie, Tulchin, Mahalia/Mavis, Mondlandungsmontage und gesellschaftlicher Kontext. Keine Liedzeilen übernommen."
+    },
+    "ida": {
+      "url": "https://documentary.org/column/summer-soul-conversation-questlove-about-black-joy",
+      "accessed_on": "2026-11-03",
+      "supports": "Questlove-Interview vom Beginn bis einschließlich Schnitt/Rhythmus gezielt vollständig gelesen: Stevie-Wonder-Auftakt, Archivarbeit, Musa Jackson, Mondlandung, Struktur und Joshua Pearson. Nachfolgende Tonsektion nicht vollständig ausgewertet."
+    },
+    "gespraech": {
+      "url": "https://hearherepresents.com/questlove-summer-of-soul/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte abgedruckte Festival-Q&A gelesen: Archiv auf Bildschirmschleifen, Zuschauerkamera, Musa Jacksons erste Erinnerung, Auswahl und Montage. Aussage des Einleitungstextes zur angeblich ersten öffentlichen Vorführung im Mai nicht übernommen: Sundance war vorher."
+    },
+    "zeit": {
+      "url": "https://time.com/6074779/questlove-summer-of-soul-interview/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Questlove-Interview im Suchindex gelesen; hier nur zur Arbeitsmethode des monatelangen wiederholten Sichtens verwendet. Keine Liedzeilen übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Der Film rekonstruiert das Harlem Cultural Festival.",
+      "question": "Welche Konzertveranstaltung steht im Zentrum von „Summer of Soul“?",
+      "answers": [
+        "Das Harlem Cultural Festival",
+        "Das Newport Folk Festival",
+        "Das Isle of Wight Festival",
+        "Das Montreux Jazz Festival"
+      ],
+      "short": "Der Film erschließt das Harlem Cultural Festival.",
+      "context": "Die Konzerte fanden über mehrere Wochenenden im New Yorker Mount Morris Park statt, der heute Marcus Garvey Park heißt. Musik, Mode und das versammelte Publikum bilden gemeinsam ein Bild schwarzer Kultur. Historische Auftritte werden mit späteren Gesprächen verbunden. Der Film behandelt das Festival dadurch zugleich als musikalisches Ereignis und als Erinnerungsort einer Gemeinschaft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "L2",
+      "objective": "Stevie Wonder wird im Auftakt als Schlagzeuger gezeigt.",
+      "question": "An welchem Instrument überrascht Stevie Wonder im Auftakt von „Summer of Soul“?",
+      "answers": [
+        "Am Schlagzeug",
+        "Am Saxofon",
+        "Am Kontrabass",
+        "An der Harfe"
+      ],
+      "short": "Der Auftakt zeigt Stevie Wonder am Schlagzeug.",
+      "context": "Questlove wollte am Anfang etwas zeigen, das selbst vertraute Bilder eines großen Stars aufbricht. Der energische Auftritt wurde für ihn zu diesem überraschenden Einstieg. Seine eigene Erfahrung als Schlagzeuger beeinflusste dabei die Wahrnehmung des Materials. Der Film eröffnet so mit einer unmittelbaren musikalischen Entdeckung, bevor er die Geschichte des Festivals weiter entfaltet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ida",
+        "gespraech"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "M1",
+      "objective": "Mavis Staples und Mahalia Jackson teilen sich bei Precious Lord den Gospelauftritt.",
+      "question": "Mit welcher jüngeren Sängerin teilt Mahalia Jackson in „Summer of Soul“ den bewegenden Gospelauftritt zu „Precious Lord, Take My Hand“?",
+      "answers": [
+        "Mavis Staples",
+        "Gladys Knight",
+        "Marilyn McCoo",
+        "Nina Simone"
+      ],
+      "short": "Mavis Staples singt mit Mahalia Jackson.",
+      "context": "Dem Auftritt geht Jesse Jacksons Erinnerung an Martin Luther King voraus. Mavis Staples erzählt später, wie viel ihr die Einladung der bewunderten älteren Sängerin bedeutete. Die gemeinsame Darbietung verbindet Trauer mit der Kraft eines öffentlichen Zusammenkommens. In der Gestaltung des Films bildet sie einen emotionalen Mittelpunkt zwischen unterschiedlichen Generationen und musikalischen Ausdrucksformen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "ida",
+        "gespraech"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Mondlandungsmontage stellt Raumfahrtbegeisterung der Kritik an Armut gegenüber.",
+      "question": "Welche Gegenposition zur Begeisterung über die Mondlandung macht „Summer of Soul“ in seiner Interviewmontage von der Straße hörbar?",
+      "answers": [
+        "Das Geld werde zur Bekämpfung von Armut auf der Erde gebraucht.",
+        "Die Naturwissenschaften an Universitäten verlören dadurch zu viel Personal.",
+        "Die Forschung müsse sich auf andere Planeten statt auf den Mond konzentrieren.",
+        "Das Projekt schließe Wissenschaftler anderer Länder politisch aus."
+      ],
+      "short": "Menschen fordern, die Mittel gegen Armut einzusetzen.",
+      "context": "Die Montage unterbricht die Vorstellung einer einheitlichen nationalen Euphorie. Während manche Befragte den Raumflug feiern, verweisen andere auf unbefriedigte Bedürfnisse in Harlem. Die Musik der Staple Singers verbindet die unterschiedlichen Bilder und Stimmen. Damit ordnet der Film die Konzerte in eine Gesellschaft ein, deren technische Erfolge und soziale Verteilung sehr verschieden erlebt werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "ida"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S1",
+      "objective": "Hal Tulchin nahm das Festival Jahrzehnte vor der Entstehung des Films auf.",
+      "question": "Wer ließ die historischen Festivalaufnahmen herstellen, auf denen „Summer of Soul“ aufbaut?",
+      "answers": [
+        "Hal Tulchin",
+        "D. A. Pennebaker",
+        "Michael Wadleigh",
+        "Albert Maysles"
+      ],
+      "short": "Das historische Bildmaterial geht auf Hal Tulchin zurück.",
+      "context": "Tulchin hoffte, aus den Aufnahmen eine Fernsehauswertung zu machen. Das umfangreiche Material blieb jedoch jahrzehntelang weitgehend unbeachtet. Die spätere Produktion musste deshalb keine gespielte Rekonstruktion der Konzerte erfinden, sondern konnte auf eine außergewöhnlich dichte audiovisuelle Überlieferung zurückgreifen. Zwischen dieser ursprünglichen Aufzeichnung und dem neuen Dokumentarfilm liegt eine eigene Geschichte des Bewahrens und Wiederentdeckens.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "ida",
+        "studio"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Musa Jackson erkennt auf den Bildern eine frühe eigene Kindheitserinnerung wieder.",
+      "question": "Welche persönliche Erfahrung macht der damalige Zuschauer Musa Jackson beim Wiedersehen der Festivalbilder in „Summer of Soul“?",
+      "answers": [
+        "Die Bilder bestätigen eine frühe Kindheitserinnerung, an deren Wirklichkeit er gezweifelt hatte.",
+        "Er entdeckt seinen Vater unter den auftretenden Musikern.",
+        "Er erkennt, dass seine Erinnerung zwei verschiedene Festivals miteinander vermischt hat.",
+        "Er sieht einen von ihm für verstorben gehaltenen Verwandten im Publikum."
+      ],
+      "short": "Musa Jackson findet eine lange unsichere Kindheitserinnerung bestätigt.",
+      "context": "Jackson war als kleines Kind bei dem Festival gewesen und erinnerte sich an die 5th Dimension und ihre Kleidung. Beim Wiedersehen wird die persönliche Erfahrung wieder greifbar. Für die Produktion veränderte diese Reaktion den Blick auf das Publikum. Die Besucher sollten als Menschen mit eigener Erinnerung im Film präsent sein und nicht bloß als Kulisse der Stars erscheinen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "gespraech",
+        "ida"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Summer of Soul wurde 2021 erstmals öffentlich gezeigt.",
+      "question": "In welchem Jahr wurde „Summer of Soul“ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2021",
+        "1969",
+        "2009",
+        "2017"
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 2021.",
+      "context": "Zwischen dem Festival von 1969 und dem Film von 2021 liegen 52 Jahre. Nach der Sundance-Premiere folgte im Juni die europäische Festivalpräsentation bei Sheffield Doc/Fest. Die lange Zeitspanne gehört zum Gegenstand des Films: Eine musikalische Großveranstaltung wird für spätere Generationen durch Archivbilder und die Erinnerungen der Beteiligten wieder zugänglich.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "studio",
+        "ida"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Ahmir Thompson, bekannt als Questlove, führte alleinige Filmregie.",
+      "question": "Welcher Musiker gab mit „Summer of Soul“ sein Langfilm-Regiedebüt?",
+      "answers": [
+        "Ahmir Thompson",
+        "Tariq Trotter",
+        "Lonnie Lynn",
+        "André Benjamin"
+      ],
+      "short": "Questlove führte Regie.",
+      "context": "Für die Sichtung ließ Questlove das Material über Monate in seiner Umgebung laufen und notierte Momente, die seine Aufmerksamkeit anzogen. Die Methode ähnelt dem vertieften Kennenlernen einer Plattensammlung, ersetzte aber nicht die spätere Auswahl im Schnitt. Aus der großen Menge an Auftritten mussten passende Beziehungen zwischen Musik, Gesprächen und historischen Ereignissen entwickelt werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "zeit",
+        "gespraech",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

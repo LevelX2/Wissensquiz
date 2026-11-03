@@ -2605,3 +2605,8 @@ Sechs Komödien mit 48 neuen globalen Zielen integriert; Komödie 138, Arthouse 
 #### Fortsetzung 03.11.2026 – Western W28
 
 Sechs Western mit 48 neuen globalen Zielen integriert; Western 145, Arthouse 155, Classics 225. Vollständige zentrale und unabhängige Gegenlesung; Quellenverbreiterung und drei konkrete Nachschärfungen. Titelverwechslung Camus1970/Squitieri1971 behoben, offizielle Hauptregie von Zusatzarbeiten getrennt. Lose Hill-Nobody-Folge 1973/1975 als Teile1/2 konsistent; Django-Namensnachfolger ohne erfundene Filmteilnummer. Alle 1.440 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 67 Pakete / 16.735 Fragen / 16.047 Ziele; 321 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – Musik W29: 150 Filme erreicht
+
+Fünf Musikfilme mit 40 neuen globalen Zielen integriert; Musik 150, Arthouse 157, Classics 228. Vollständige zentrale und unabhängige Gegenlesung. Kamerafrage ohne ableitbaren Wortlauthinweis und vergleichbare Optionen zur nachträglichen Sichtung; Charlotte Zwerin im vollständigen Regieteam. Monterey-Erstjahr 1968 und Frank-Koproduktion quellengeprüft. Alle 1.480 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 68 Pakete / 16.775 Fragen / 16.087 Ziele; 316 Genreergänzungen offen. Musik-Ziel erfüllt, Ausbau mit den übrigen Genres fortgesetzt.
