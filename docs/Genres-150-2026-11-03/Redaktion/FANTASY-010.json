@@ -1,0 +1,264 @@
+{
+  "id": "FANTASY-010",
+  "film_title_de": "Der Pagemaster – Richies fantastische Reise",
+  "film_title_original": "The Pagemaster",
+  "film_year": 1994,
+  "genre": "Fantasy",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Bekannter Mischfilm mit Macaulay Culkin, heute weniger präsent als seine Weihnachtskomödien.",
+  "selection_reason": "Lebendig werdende Bücher und eine magische Bibliothek verbinden Realfilm mit literarischer Zeichentrickfantasy.",
+  "directors": [
+    "Joe Johnston",
+    "Maurice Hunt"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI und ACMI führen 1994; der zeitgenössische US-Start war am 23. November 1994. Das Begleitbuch erschien bereits 1993 und bestimmt nicht das Filmjahr.",
+  "director_note": "Joe Johnston inszenierte den Realfilm, Maurice Hunt die Animation. ACMI führt beide als Co-Regisseure, Hunt unter seinem Namen Pixote Hunt. AFI nennt im verkürzten Datensatz nur Johnston. Die zusätzliche Nennung Glenn Chaikas im Wikipedia-Fließtext wird nicht mit dem führenden Regiecredit gleichgesetzt; die beiden Hauptregisseure sind durch ACMI und die gelesene Filmkritik belegt. Auch die australische Filmklassifikation führt J. Johnston/M. Hunt als Director/Creator.",
+  "country_note": "ACMI nennt USA; die amerikanischen Produktionsfirmen sind bei AFI aufgeführt.",
+  "series": null,
+  "series_note": "Eigenständiger Mischfilm; Begleitbücher und Videospiele sind keine nummerierten Filmfortsetzungen.",
+  "series_sources": [
+    "https://www.acmi.net.au/works/85341--the-pagemaster/",
+    "https://catalog.afi.com/Catalog/MovieDetails/60420"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/MovieDetails/60420",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmseite mit Haupt- und Produktionscredits vollständig gelesen: Jahr, Culkin, Lloyds Doppelrolle, Stimmen, Horner. Der Film liegt außerhalb des ausführlichen AFI-Katalogzeitraums; keine dort nicht vorhandene Langsynopsis behauptet."
+    },
+    "acmi": {
+      "url": "https://www.acmi.net.au/works/85341--the-pagemaster/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger Sammlungseintrag gelesen: Bibliotheksübergang, Besetzung, USA 1994, beide Co-Regisseure Joe Johnston/Pixote Hunt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Pagemaster",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Besetzungsabschnitte gelesen: drei Bücher, Ausleihversprechen, Jekyll, Ahab, Long John Silver, Bohnenranke und Bibliotheksende."
+    },
+    "neon": {
+      "url": "https://modern-neon.com/the-pagemaster-revisited-25-years-later/",
+      "accessed_on": "2026-11-03",
+      "supports": "Credits und vollständiger Handlungsabschnitt bis Turn the Page gelesen: Realfilm/Animation, Bibliothek, Deckenmalerei, Richards Angst und 23. November 1994; Werturteile nicht als Fakten übernommen."
+    },
+    "filmessay": {
+      "url": "https://filmobsessive.com/film/film-features/film25yl/the-pagemaster-look-to-the-books/",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausführlichen Suchindex mit Handlungs- und Analyseabschnitt gelesen: Bücherfiguren, Ausleihwunsch, literarische Begegnungen, Konfrontation mit Ängsten und Pagemaster. Direktabruf zeitweise Timeout; keine vollständige Seitenlektüre behauptet."
+    },
+    "buch": {
+      "url": "https://www.kirkusreviews.com/book-reviews/david-kirschner/the-pagemaster/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen bibliografischen Rezensionseintrag gelesen: Begleitbuch von Kirschner/Contreras, Erscheinungsdatum 1. Dezember 1993. Buchhandlung nicht als unabhängigen Filmbeleg verwendet."
+    },
+    "classification": {
+      "url": "https://www.classification.gov.au/titles/pagemaster",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen offiziellen Klassifikationseintrag im Suchindex gelesen:USA, RegieJ.Johnston/M.Hunt, Prüfung15.September1994. Klassifikation ist keine öffentliche Premiere."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Macaulay Culkin spielt Richard Tyler.",
+      "question": "Wer spielt den ängstlichen Richard Tyler in „Der Pagemaster – Richies fantastische Reise“?",
+      "answers": [
+        "Macaulay Culkin",
+        "Elijah Wood",
+        "Jonathan Taylor Thomas",
+        "Haley Joel Osment"
+      ],
+      "short": "Richard wird von Macaulay Culkin gespielt.",
+      "context": "Richard Tyler (Macaulay Culkin) versucht, Gefahren mithilfe von Statistiken zu vermeiden. Schon eine gewöhnliche Besorgung für seinen Vater überfordert ihn. Der zunächst mit echten Schauspielern erzählte Alltag verwandelt sich später in eine gezeichnete Welt. Culkin verkörpert Richard im Realfilm und spricht ihn auch in der englischen Originalfassung der animierten Passagen.",
+      "sources": [
+        "afi",
+        "acmi",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Eine Bibliothek bildet den Zugang zur fantastischen Bücherwelt.",
+      "question": "In welchem Gebäude beginnt Richards fantastische Reise im Film „Der Pagemaster“?",
+      "answers": [
+        "In einer Bibliothek",
+        "In einem naturkundlichen Museum",
+        "In einem verlassenen Kino",
+        "In einer Schule"
+      ],
+      "short": "Die Reise beginnt in einer Bibliothek.",
+      "context": "Richard (Macaulay Culkin) sucht während eines Gewitters Schutz zwischen Bücherregalen. Der eigenwillige Bibliothekar Mr. Dewey (Christopher Lloyd) drängt ihn zum Lesen, während der Junge zunächst nur telefonieren möchte. Eine Deckenmalerei beginnt sich zu verflüssigen und hüllt Richard in Farben ein. Aus dem verängstigten Besucher wird eine gezeichnete Figur innerhalb der Geschichten.",
+      "sources": [
+        "acmi",
+        "neon"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die drei lebendigen Bücher verkörpern Abenteuer, Fantasy und Horror.",
+      "question": "Welche drei Literaturbereiche verkörpern Richards lebendige Bücherbegleiter in „Der Pagemaster“?",
+      "answers": [
+        "Abenteuer, Fantasy und Horror",
+        "Krimi, Lyrik und Reisebericht",
+        "Geschichte, Naturkunde und Märchen",
+        "Science-Fiction, Biografie und Satire"
+      ],
+      "short": "Die Begleiter stehen für Abenteuer, Fantasy und Horror.",
+      "context": "Die Bücher besitzen Persönlichkeiten, die an ihre Geschichten erinnern: Adventure (Originalstimme: Patrick Stewart) tritt als Seeräuber auf, Fantasy (Whoopi Goldberg) als selbstbewusste Märchenfigur und Horror (Frank Welker) als ängstlicher Außenseiter. Gemeinsam begleiten sie Richard (Macaulay Culkin) durch literarische Welten. Ihre äußerlich unterschiedlichen Buchrücken machen die Gattungen unmittelbar sichtbar.",
+      "sources": [
+        "afi",
+        "handlung",
+        "filmessay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Bücher helfen Richard gegen das Versprechen, sie auszuleihen.",
+      "question": "Welche Gegenleistung erwarten die drei Bücher dafür, Richard in „Der Pagemaster“ zum Ausgang zu helfen?",
+      "answers": [
+        "Er soll sie aus der Bibliothek ausleihen.",
+        "Er soll ihre fehlenden Schlussseiten schreiben.",
+        "Er soll sie in die richtige Abteilung zurücktragen.",
+        "Er soll ihre Namen ins Gästebuch eintragen."
+      ],
+      "short": "Richard soll die drei Bücher ausleihen.",
+      "context": "Adventure (Originalstimme: Patrick Stewart), Fantasy (Whoopi Goldberg) und Horror (Frank Welker) wünschen sich Leser außerhalb ihrer Regale. Richards neuer Bibliotheksausweis bekommt dadurch eine konkrete Aufgabe. Am Ende erlaubt Mr. Dewey (Christopher Lloyd) dem Jungen ausnahmsweise drei Bücher, obwohl normalerweise nur zwei ausgeliehen werden dürfen. Die fantastischen Helfer begleiten ihn somit auch nach Hause.",
+      "sources": [
+        "handlung",
+        "filmessay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Christopher Lloyd übernimmt Bibliothekar und Pagemaster.",
+      "question": "Welche Doppelaufgabe übernimmt Christopher Lloyd in „Der Pagemaster“?",
+      "answers": [
+        "Er spielt Mr. Dewey und spricht den Pagemaster.",
+        "Er spielt Richards Vater und spricht Adventure.",
+        "Er spielt Mr. Dewey und spricht Dr. Jekyll.",
+        "Er spielt Richards Vater und spricht den Pagemaster."
+      ],
+      "short": "Lloyd spielt den Bibliothekar und spricht den Pagemaster.",
+      "context": "Mr. Dewey (Christopher Lloyd) gehört zur realen Bibliothek, der Pagemaster ist deren fantastischer Hüter der geschriebenen Geschichten. Die Besetzung mit demselben Darsteller verbindet beide Ebenen. Während Dewey einen Ausweis ausstellt, schickt der Pagemaster Richard (Macaulay Culkin) durch die Fiktion. Lloyds Gesicht und Stimme bilden so eine Brücke zwischen Alltag und Zeichentrickwelt.",
+      "sources": [
+        "afi",
+        "neon",
+        "filmessay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "Richard entkommt dem Drachen mithilfe einer Bohnenranke aus einem Buch.",
+      "question": "Wie entkommt Richard in „Der Pagemaster“, nachdem ihn der Drache verschluckt hat?",
+      "answers": [
+        "Er lässt eine Bohnenranke aus einem Märchenbuch wachsen.",
+        "Er verwandelt sich mithilfe eines Zauberbuchs in Rauch.",
+        "Er lockt den Drachen mit einer Geschichte zum Gähnen.",
+        "Er öffnet mit einem Atlas ein Tor in eine andere Welt."
+      ],
+      "short": "Eine Bohnenranke aus einem Buch führt aus dem Drachen.",
+      "context": "Im Bauch des Drachen findet Richard (Originalstimme: Macaulay Culkin) Bücher und greift auf das Märchen von Hans und der Bohnenranke zurück. Die Pflanze wächst bis aus dem Maul des Ungeheuers und schafft einen Fluchtweg. Lesen wird hier zum praktischen Werkzeug: Der Junge überwindet eine Gefahr, indem er sich an die Möglichkeiten einer Geschichte erinnert.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "The Pagemaster erschien erstmals 1994.",
+      "question": "In welchem Jahr erschien „Der Pagemaster – Richies fantastische Reise“ erstmals?",
+      "answers": [
+        "1994",
+        "1988",
+        "1991",
+        "1998"
+      ],
+      "short": "Der Film erschien 1994.",
+      "context": "Das illustrierte Begleitbuch von David Kirschner und Ernie Contreras erschien bereits im Dezember 1993 mit Bildern von Jerry Tiritilli. Der Film folgte 1994 und brachte seine Bibliothekswelt als Mischung aus Realaufnahmen und Animation ins Kino. Die Buchausgabe und die Filmreise führen das Publikum auf unterschiedliche Weise zu denselben lebendig gewordenen Literaturgattungen.",
+      "sources": [
+        "afi",
+        "neon",
+        "buch"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Joe Johnston und Maurice Hunt teilen sich Realfilm- und Animationsregie.",
+      "question": "Welches Regieteam verantwortete Realfilm und Animation von „Der Pagemaster“?",
+      "answers": [
+        "Joe Johnston und Maurice Hunt",
+        "Ron Clements und John Musker",
+        "Don Bluth und Gary Goldman",
+        "Henry Selick und Tim Burton"
+      ],
+      "short": "Joe Johnston leitete den Realfilm, Maurice Hunt die Animation.",
+      "context": "Die real gedrehten Bibliotheksszenen stammen unter Joe Johnstons Regie, die animierte Reise wurde von Maurice Hunt geleitet, der auch als Pixote Hunt bekannt ist. James Horner komponierte die Musik. Der Wechsel der Verfahren ist zugleich ein Wechsel der Erfahrung: Richards vertraute Wirklichkeit erhält plötzlich die sichtbaren Regeln und Möglichkeiten illustrierter Bücher.",
+      "sources": [
+        "acmi",
+        "afi",
+        "neon",
+        "classification"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

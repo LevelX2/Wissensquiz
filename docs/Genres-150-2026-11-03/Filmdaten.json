@@ -13860,6 +13860,446 @@
       "reference_question_id": "G150-20261103-FANTASY-009-L1",
       "year_question_id": "G150-20261103-FANTASY-009-Y",
       "director_question_id": "G150-20261103-FANTASY-009-D"
+    },
+    {
+      "id": "FANTASY-010",
+      "film_title_de": "Der Pagemaster – Richies fantastische Reise",
+      "film_title_original": "The Pagemaster",
+      "film_year": 1994,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter Mischfilm mit Macaulay Culkin, heute weniger präsent als seine Weihnachtskomödien.",
+      "directors": [
+        "Joe Johnston",
+        "Maurice Hunt"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "AFI und ACMI führen 1994; der zeitgenössische US-Start war am 23. November 1994. Das Begleitbuch erschien bereits 1993 und bestimmt nicht das Filmjahr.",
+      "director_note": "Joe Johnston inszenierte den Realfilm, Maurice Hunt die Animation. ACMI führt beide als Co-Regisseure, Hunt unter seinem Namen Pixote Hunt. AFI nennt im verkürzten Datensatz nur Johnston. Die zusätzliche Nennung Glenn Chaikas im Wikipedia-Fließtext wird nicht mit dem führenden Regiecredit gleichgesetzt; die beiden Hauptregisseure sind durch ACMI und die gelesene Filmkritik belegt. Auch die australische Filmklassifikation führt J. Johnston/M. Hunt als Director/Creator.",
+      "country_note": "ACMI nennt USA; die amerikanischen Produktionsfirmen sind bei AFI aufgeführt.",
+      "series": null,
+      "series_note": "Eigenständiger Mischfilm; Begleitbücher und Videospiele sind keine nummerierten Filmfortsetzungen.",
+      "series_sources": [
+        "https://www.acmi.net.au/works/85341--the-pagemaster/",
+        "https://catalog.afi.com/Catalog/MovieDetails/60420"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/60420",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmseite mit Haupt- und Produktionscredits vollständig gelesen: Jahr, Culkin, Lloyds Doppelrolle, Stimmen, Horner. Der Film liegt außerhalb des ausführlichen AFI-Katalogzeitraums; keine dort nicht vorhandene Langsynopsis behauptet."
+        },
+        {
+          "key": "acmi",
+          "url": "https://www.acmi.net.au/works/85341--the-pagemaster/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiger Sammlungseintrag gelesen: Bibliotheksübergang, Besetzung, USA 1994, beide Co-Regisseure Joe Johnston/Pixote Hunt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Pagemaster",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzungsabschnitte gelesen: drei Bücher, Ausleihversprechen, Jekyll, Ahab, Long John Silver, Bohnenranke und Bibliotheksende."
+        },
+        {
+          "key": "neon",
+          "url": "https://modern-neon.com/the-pagemaster-revisited-25-years-later/",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits und vollständiger Handlungsabschnitt bis Turn the Page gelesen: Realfilm/Animation, Bibliothek, Deckenmalerei, Richards Angst und 23. November 1994; Werturteile nicht als Fakten übernommen."
+        },
+        {
+          "key": "filmessay",
+          "url": "https://filmobsessive.com/film/film-features/film25yl/the-pagemaster-look-to-the-books/",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen Suchindex mit Handlungs- und Analyseabschnitt gelesen: Bücherfiguren, Ausleihwunsch, literarische Begegnungen, Konfrontation mit Ängsten und Pagemaster. Direktabruf zeitweise Timeout; keine vollständige Seitenlektüre behauptet."
+        },
+        {
+          "key": "buch",
+          "url": "https://www.kirkusreviews.com/book-reviews/david-kirschner/the-pagemaster/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen bibliografischen Rezensionseintrag gelesen: Begleitbuch von Kirschner/Contreras, Erscheinungsdatum 1. Dezember 1993. Buchhandlung nicht als unabhängigen Filmbeleg verwendet."
+        },
+        {
+          "key": "classification",
+          "url": "https://www.classification.gov.au/titles/pagemaster",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Klassifikationseintrag im Suchindex gelesen:USA, RegieJ.Johnston/M.Hunt, Prüfung15.September1994. Klassifikation ist keine öffentliche Premiere."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-010-L1",
+      "year_question_id": "G150-20261103-FANTASY-010-Y",
+      "director_question_id": "G150-20261103-FANTASY-010-D"
+    },
+    {
+      "id": "FANTASY-011",
+      "film_title_de": "Rapunzel – Neu verföhnt",
+      "film_title_original": "Tangled",
+      "film_year": 2010,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Weit verbreiteter Disney-Märchenfilm mit bekannten Figuren und Liedern.",
+      "directors": [
+        "Byron Howard",
+        "Nathan Greno"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Premiere im ElCapitan am14. November 2010, regulärer US-Start24. November 2010. Disney nennt 2010; keine spätere deutsche oder japanische Auswertung als Erstjahr.",
+      "director_note": "D23 und Disney führen Howard/Greno. Glen Keane entwickelte das Projekt zuvor und wurde später Animationsbetreuer/Executive Producer; er ist nicht Mitglied des finalen Hauptregieteams.",
+      "country_note": "US-Produktion der Walt Disney Animation Studios.",
+      "series": {
+        "name": "Rapunzel",
+        "position": 1,
+        "note": "Erster Langfilm der Rapunzel-Erzählwelt. D23 bezeichnet den TV-Film Tangled Before Ever After (2017) ausdrücklich als Fortsetzung; der Kurzfilm Tangled Ever After (2012) wird nicht als weiterer Langfilm gezählt."
+      },
+      "series_note": "Kurzfilm und Fernsehfortsetzung sind bewusst von einer nummerierten Kinofilmfolge unterschieden; dieser Langfilm eröffnet die Filmwelt.",
+      "series_sources": [
+        "https://www.disney.co.jp/fc/tangled",
+        "https://en.wikipedia.org/wiki/Tangled",
+        "https://d23.com/a-to-z/tangled-ever-television/"
+      ],
+      "sources": [
+        {
+          "key": "d23",
+          "url": "https://d23.com/a-to-z/tangled-film/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Archiveintrag gelesen: Handlung, Pascal/Maximus, magisches Haar, englische Stimmen, beide Regisseure, Menken/Slater, Grimm und Start 2010."
+        },
+        {
+          "key": "disney",
+          "url": "https://movies.disney.com/tangled",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen Filmtext, Jahr, Genre und Besetzung gelesen."
+        },
+        {
+          "key": "japan",
+          "url": "https://www.disney.co.jp/fc/tangled",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Figurenbeschreibungen, Synopsis und Credits gelesen: Pascal, Gothel/Jugendmagie, Maximus, Flynn/Eugene;50. Disney-Langfilm und spätere TV-/Kurzfilmwelt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tangled",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Titel-/Premierenangaben gelesen: Laternen, Eugene, Haarschnitt, Gothel, Rettung und Premiere14. November 2010."
+        },
+        {
+          "key": "keane",
+          "url": "https://www.philonfilm.net/2011/01/interview-glen-keane.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Interview im ausführlichen Suchindex gelesen, Direktseite später mit Google-Sperre: Keanes BestofBothWorlds, Handzeichnung/CG, Asymmetrie, Rücktritt 2008, Howard/Greno und Figurenentwicklung."
+        },
+        {
+          "key": "zitate",
+          "url": "https://news.disney.com/tangled-quotes/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Dialogsammlung im Suchindex gelesen: jährliche Laternen der Eltern, Rapunzels Wunsch und Figurenstimmen; keine Liedtexte übernommen."
+        },
+        {
+          "key": "animation",
+          "url": "https://www.disneyanimation.com/films/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Filmchronik im Suchindex gelesen: erster vollständig animierter Langfilm 1937 und Tangled 2010."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-011-L1",
+      "year_question_id": "G150-20261103-FANTASY-011-Y",
+      "director_question_id": "G150-20261103-FANTASY-011-D"
+    },
+    {
+      "id": "FANTASY-012",
+      "film_title_de": "Die Eiskönigin – Völlig unverfroren",
+      "film_title_original": "Frozen",
+      "film_year": 2013,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 1,
+      "familiarity_reason": "Sehr bekannter Disney-Film mit weltweit verbreiteten Figuren und Liedern.",
+      "directors": [
+        "Chris Buck",
+        "Jennifer Lee"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste Premiere19. November 2013 imElCapitan; D23 nennt zusätzlich frühe Auswertung20. November sowie regulären US-Start27. November 2013. Alle liegen im eindeutigen Erstjahr 2013.",
+      "director_note": "Beide Hauptregisseure gemäß D23; Jennifer Lee außerdem Drehbuchautorin.",
+      "country_note": "US-Produktion der Walt Disney Animation Studios.",
+      "series": {
+        "name": "Die Eiskönigin",
+        "position": 1,
+        "note": "Erster Kinolangfilm; FrozenII(2019) folgt als zweiter. Kurzfilme wie FrozenFever werden nicht als weitere Langfilmnummern gezählt."
+      },
+      "series_note": "Langfilmzählung gegenüber späteren Kurzfilmen ausdrücklich abgegrenzt.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+        "https://d23.com/a-to-z/frozen-film/"
+      ],
+      "sources": [
+        {
+          "key": "d23",
+          "url": "https://d23.com/a-to-z/frozen-film/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiger Archiveintrag gelesen: Grundhandlung, alle Originalstimmen, beide Regisseure und Veröffentlichungsjahr."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung, Hauptbesetzung und Premiere gelesen: Kristoffs Eisgeschäft, Hans, Annas Opfer, Finale und LosAngeles19. November 2013."
+        },
+        {
+          "key": "interview",
+          "url": "https://geekmom.com/2014/03/frozen-directors-interview/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Regieinterview bis Schlussabschnitt gelesen: ursprüngliche Elsa als Gegenspielerin, LetItGo-Demo, Schwesterngeschichte, wahreLiebe und Olaf."
+        },
+        {
+          "key": "unten",
+          "url": "https://d23.com/first-look-animating-let-it-go-wayne-unten/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen lesbaren Artikeltext gelesen: Wayne Untens Figurenarbeit, Angst/Freiheit, Idina Menzels Gesang und Schauspiel statt mechanischer Liedillustration."
+        },
+        {
+          "key": "matterhorn",
+          "url": "https://disneyanimation.com/technology/matterhorn/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige technische Primärseite gelesen: ursprünglich für Frozen entwickeltes Matterhorn, MPM mit Partikeln/Gittern, Materialeigenschaften und Schneeinteraktion."
+        },
+        {
+          "key": "ucla",
+          "url": "https://newsroom.ucla.edu/stories/math-wizards-create-snow-for-disney-263913",
+          "accessed_on": "2026-11-03",
+          "supports": "Artikelabschnitte zum Team,43Schneeszenen, MPM und SIGGRAPH 2013 vollständig gelesen; ergänzende spätere Abschnitte im ausführlichen Suchindex: gepresster/zerfallender Schnee, Schneeball. Kein Video angesehen."
+        },
+        {
+          "key": "kristoff",
+          "url": "https://www.disneystore.com/characters/disney/kristoff/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Figurenkurzbeschreibung im Suchindex gelesen: Kristoff als von Trollen aufgezogener Eisarbeiter, Bezug zu Anna. Produktwerbung nicht als Filmhandlung verwendet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-012-L1",
+      "year_question_id": "G150-20261103-FANTASY-012-Y",
+      "director_question_id": "G150-20261103-FANTASY-012-D"
+    },
+    {
+      "id": "FANTASY-013",
+      "film_title_de": "Onward: Keine halben Sachen",
+      "film_title_original": "Onward",
+      "film_year": 2020,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter jüngerer Pixar-Film, dessen Kinolauf durch die Pandemie kurz ausfiel.",
+      "directors": [
+        "Dan Scanlon"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "D23 nennt die Weltpremiere 18. Februar 2020 am El Capitan, vor Berlinale 21. Februar und US-Start 6. März. Das verbreitete Berlinale-Datum ist also nicht das früheste Ereignis; das Erstjahr bleibt 2020.",
+      "director_note": "D23 und Pixar führen Dan Scanlon allein als Hauptregisseur; Kori Rae produzierte.",
+      "country_note": "US-Produktion von Pixar Animation Studios.",
+      "series": null,
+      "series_note": "Die offiziellen Filmseiten führen ein eigenständiges Originalabenteuer. Quests of Yore ist ein fiktionales Spiel innerhalb der Handlung samt Begleitbuch, keine nummerierte Filmfortsetzung.",
+      "series_sources": [
+        "https://www.pixar.com/onward",
+        "https://d23.com/a-to-z/onward-film/"
+      ],
+      "sources": [
+        {
+          "key": "pixar",
+          "url": "https://www.pixar.com/onward",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung und Figuren-/Weltabschnitte Ian, Barley, Wilden, Manticore, Guinevere, Trust Bridge gelesen: persönliche Aufnahme des Vaters, Halbgestalt, Taverne, Mutprobe; keine Trailer angesehen."
+        },
+        {
+          "key": "d23",
+          "url": "https://d23.com/a-to-z/onward-film/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Archiveintrag im ausführlichen Suchindex gelesen: Handlung, Originalstimmen, alleinige Regie, Premiere 18. Februar 2020 und spätere Festival-/Kinotermine."
+        },
+        {
+          "key": "disney",
+          "url": "https://movies.disney.com/onward",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Film- und Figurenabschnitte im Suchindex gelesen: Brüder, Manticore als Restaurantbesitzerin, Colt Bronco, Guinevere, Blazey und Einhörner."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Onward_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung, Hauptbesetzung und Produktionsbeginn gelesen: misslungener Besuchszauber, Phönixstein, Karte, Vertrauensbrücke, Familienbeziehungen und Schluss. Für Premiere ist D23 genauer und führend."
+        },
+        {
+          "key": "buch",
+          "url": "https://books.disney.com/book/onward-quests-of-yore/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Verlagskurztext samt Bibliografie gelesen: das im Film gezeigte Quests-of-Yore-Handbuch, Zauber, Orte, Kreaturen und Anmerkungen der Brüder."
+        },
+        {
+          "key": "asc",
+          "url": "https://theasc.com/article/onward-quest-for-magic/",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen Suchindex zum Produktionsbericht gelesen: Elfenbrüder, familiäre Inspiration und Dan Scanlons Aufnahme mit hello/goodbye; keine vollständige Lektüre aller technischen Artikelabschnitte behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-013-L1",
+      "year_question_id": "G150-20261103-FANTASY-013-Y",
+      "director_question_id": "G150-20261103-FANTASY-013-D"
+    },
+    {
+      "id": "FANTASY-014",
+      "film_title_de": "Coco – Lebendiger als das Leben!",
+      "film_title_original": "Coco",
+      "film_year": 2017,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Weit verbreiteter Pixar-Film über Musik, Familie und den mexikanischen Totengedenktag.",
+      "directors": [
+        "Lee Unkrich",
+        "Adrian Molina"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "FICM kündigt die erste Vorführung für die Festivaleröffnung am 20. Oktober 2017 an; mexikanischer Kinostart 27. Oktober, US-Start 22. November. Oscarjahr 2018 ist nicht Filmjahr.",
+      "director_note": "Lee Unkrich ist Director, Adrian Molina ausdrücklich Co-Director gemäß Pixar und Disney-Bericht. Beide gehören zum Hauptregieteam.",
+      "country_note": "US-Produktion von Pixar/Walt Disney; mexikanischer Schauplatz und Recherche begründen kein zweites Produktionsland.",
+      "series": null,
+      "series_note": "Eigenständiger veröffentlichter Langfilm; eine angekündigte spätere Fortsetzung wird nicht als bereits erschienener Film gezählt.",
+      "series_sources": [
+        "https://www.pixar.com/coco",
+        "https://en.wikipedia.org/wiki/Coco_(2017_film)"
+      ],
+      "sources": [
+        {
+          "key": "pixar",
+          "url": "https://www.pixar.com/coco",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung und Figurenabschnitte Miguel, Héctor, Dante, Ernesto, Abuelita, Pepita gelesen: Musikverbot, Ofrenda-Fotoregel, Xolo-Hund und explizite Co-Regie Molina."
+        },
+        {
+          "key": "d23",
+          "url": "https://d23.com/a-to-z/coco/",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmtext im Suchindex gelesen: Miguel, Musikverbot, Jahr 2017 und mexikanischer Start vor US-Auswertung; verkürzter Hauptcredit ersetzt nicht Pixars Co-Regienachweis."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Coco_(2017_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Hauptbesetzung gelesen: Gitarre aus Mausoleum, Übergang, Héctor als Cocos Vater, Familienfoto und Erinnern. Oscarfrage im Bestand ist anderes Ziel."
+        },
+        {
+          "key": "reise",
+          "url": "https://news.disney.com/mexico-pixar-coco-research-trip",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung und ausführlichen Suchindex zum Bericht mit Molina in Oaxaca gelesen: Vor-Ort-Recherche zu Fest, Familien, Alltag und Gestaltung; kein Video angesehen."
+        },
+        {
+          "key": "afi",
+          "url": "https://www.afi.com/news/afi-movie-club-coco/",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen Suchindex der Filmclubseite gelesen: Reisen nach Mexiko-Stadt, Morelia, Oaxaca, Guanajuato, Familienbesuche, Fotos und Figurenzeichnungen."
+        },
+        {
+          "key": "festival",
+          "url": "https://www.moreliafilmfest.com/coco-la-nueva-pelicula-de-disney%25e2%2580%25a2pixar-abrira-el-15o-ficm",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Festivalankündigung mit erstem Vorführtermin20. Oktober 2017, erster Eröffnung mit Animationsfilm und Día-de-Muertos-Bezug gelesen."
+        },
+        {
+          "key": "autoren",
+          "url": "https://www.awn.com/animationworld/adrian-molina-matthew-aldrich-cracking-story-pixars-coco",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Autorenbericht im ausführlichen Suchindex gelesen: Molina/Aldrich, Recherche2012/2013 in Mexiko, Drehbucharbeit und Storyprobleme, Molina als Co-Regisseur seit Sommer2015, spanische Sprache und Familiengeschäft."
+        },
+        {
+          "key": "dante",
+          "url": "https://thewaltdisneycompany.com/news/pixars-coco-presents-dantes-lunch-short-tail/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Artikel im ausführlichen Suchindex gelesen: Xolo-Dante, BegleiterMiguel, Unkrich/Molina, Mythologie des Jenseitsführers und eigenständiger Vorabkurzfilm2017; kein Video angesehen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-014-L1",
+      "year_question_id": "G150-20261103-FANTASY-014-Y",
+      "director_question_id": "G150-20261103-FANTASY-014-D"
+    },
+    {
+      "id": "FANTASY-015",
+      "film_title_de": "Soul",
+      "film_title_original": "Soul",
+      "film_year": 2020,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Pixar-Film mit Jamie Foxx und eigenständiger Jenseitswelt.",
+      "directors": [
+        "Pete Docter",
+        "Kemp Powers"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "D23 belegt Premiere11. Oktober 2020 LondonFilmFestival und Disney+-Start25. Dezember 2020. Spätere US-Kinoauswertungen 2021/2024 verändern das Erstjahr nicht.",
+      "director_note": "Pete Docter ist Director, Kemp Powers explizit Co-Director gemäß Pixar und dem Regie-/Produzenteninterview. Vollständiges Team statt verkürztem D23-Hauptcredit.",
+      "country_note": "US-Produktion von Pixar Animation Studios; BFI nennt USA 2020.",
+      "series": null,
+      "series_note": "Die geprüften offiziellen Filmseiten beschreiben einen eigenständigen Langfilm; keine benannte nummerierte Langfilmfortsetzung.",
+      "series_sources": [
+        "https://www.pixar.com/soul",
+        "https://d23.com/a-to-z/soul-film/"
+      ],
+      "sources": [
+        {
+          "key": "pixar",
+          "url": "https://www.pixar.com/soul",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung sowie Figuren-/Weltabschnitte Joe,22,Musikperformances,Dez,Dorothea,Terry,Curley,MrMittens,LostSouls undBarbershop gelesen: Grundkonflikt,Seelenpass,OriginalstimmeFoxx,NewYork,Recherche und expliziteCo-RegiePowers."
+        },
+        {
+          "key": "d23",
+          "url": "https://d23.com/a-to-z/soul-film/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Archiveintrag gelesen: englischeOriginalstimmen,PremiereLondon11. Oktober 2020,Disney+,Musik von Batiste/Reznor/Ross und genaue Aufnahme der Klavierhände."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Soul_(2020_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Hauptbesetzung gelesen: KörpertauschJoe/Katze/22,Funke als LustamLeben,kleineAlltagserlebnisse undSchlussentscheidung."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.rogerebert.com/interviews/Soul-interview-pete-docter-dana-murray-pixar",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Interview von NellMinow mit PeteDocter und DanaMurray im ausführlichenSuchindex gelesen; Direktabruf403. Gestaltproportionen,abstrakteBerater,Jazz,JamieFoxx,Powers und durchihn hinzugekommeneBarbershopszene."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/london-film-festival/news/programme-announced",
+          "accessed_on": "2026-11-03",
+          "supports": "Relevanten Family-Abschnitt und Filmzeile im ausführlichenSuchindex gelesen:USA 2020,Docter/Powers,Selbstfindung,JoeundGreatBefore. Keine gesamteFestivalprogrammliste ausgewertet."
+        },
+        {
+          "key": "chronik",
+          "url": "https://www.pixar.com/our-story",
+          "accessed_on": "2026-11-03",
+          "supports": "Chronikabschnitt 2020 imSuchindex gelesen:UmstiegaufsHomeoffice16. März bei noch etwa siebenProduktionswochen fürSoul. KeineVideoansicht oder gesamteStudiogeschichte behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-015-L1",
+      "year_question_id": "G150-20261103-FANTASY-015-Y",
+      "director_question_id": "G150-20261103-FANTASY-015-D"
     }
   ],
   "series_updates": [

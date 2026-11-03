@@ -2499,7 +2499,10 @@
     },
     "Coco|2017": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://www.pixar.com/coco",
+        "https://en.wikipedia.org/wiki/Coco_(2017_film)"
+      ]
     },
     "Coffy|1973": {
       "series": null,
@@ -17028,6 +17031,50 @@
       "sources": [
         "https://www.nfa.cz/cs/25920-valerie-a-tyden-divu/o-filmu",
         "https://www.criterion.com/films/27860"
+      ]
+    },
+    "The Pagemaster|1994": {
+      "series": null,
+      "sources": [
+        "https://www.acmi.net.au/works/85341--the-pagemaster/",
+        "https://catalog.afi.com/Catalog/MovieDetails/60420"
+      ]
+    },
+    "Tangled|2010": {
+      "series": {
+        "name": "Rapunzel",
+        "position": 1,
+        "note": "Erster Langfilm der Rapunzel-Erzählwelt. D23 bezeichnet den TV-Film Tangled Before Ever After (2017) ausdrücklich als Fortsetzung; der Kurzfilm Tangled Ever After (2012) wird nicht als weiterer Langfilm gezählt."
+      },
+      "sources": [
+        "https://www.disney.co.jp/fc/tangled",
+        "https://en.wikipedia.org/wiki/Tangled",
+        "https://d23.com/a-to-z/tangled-ever-television/"
+      ]
+    },
+    "Frozen|2013": {
+      "series": {
+        "name": "Die Eiskönigin",
+        "position": 1,
+        "note": "Erster Kinolangfilm; FrozenII(2019) folgt als zweiter. Kurzfilme wie FrozenFever werden nicht als weitere Langfilmnummern gezählt."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+        "https://d23.com/a-to-z/frozen-film/"
+      ]
+    },
+    "Onward|2020": {
+      "series": null,
+      "sources": [
+        "https://www.pixar.com/onward",
+        "https://d23.com/a-to-z/onward-film/"
+      ]
+    },
+    "Soul|2020": {
+      "series": null,
+      "sources": [
+        "https://www.pixar.com/soul",
+        "https://d23.com/a-to-z/soul-film/"
       ]
     }
   }

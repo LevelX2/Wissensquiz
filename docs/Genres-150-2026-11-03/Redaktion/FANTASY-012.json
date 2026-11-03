@@ -1,0 +1,263 @@
+{
+  "id": "FANTASY-012",
+  "film_title_de": "Die Eiskönigin – Völlig unverfroren",
+  "film_title_original": "Frozen",
+  "film_year": 2013,
+  "genre": "Fantasy",
+  "categories": [],
+  "familiarity_level": 1,
+  "familiarity_reason": "Sehr bekannter Disney-Film mit weltweit verbreiteten Figuren und Liedern.",
+  "selection_reason": "Magische Eisfähigkeiten, beseelte Schneefiguren und der fantastische Fluch des Winters bestimmen die Geschichte.",
+  "directors": [
+    "Chris Buck",
+    "Jennifer Lee"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Premiere19. November 2013 imElCapitan; D23 nennt zusätzlich frühe Auswertung20. November sowie regulären US-Start27. November 2013. Alle liegen im eindeutigen Erstjahr 2013.",
+  "director_note": "Beide Hauptregisseure gemäß D23; Jennifer Lee außerdem Drehbuchautorin.",
+  "country_note": "US-Produktion der Walt Disney Animation Studios.",
+  "series": {
+    "name": "Die Eiskönigin",
+    "position": 1,
+    "note": "Erster Kinolangfilm; FrozenII(2019) folgt als zweiter. Kurzfilme wie FrozenFever werden nicht als weitere Langfilmnummern gezählt."
+  },
+  "series_note": "Langfilmzählung gegenüber späteren Kurzfilmen ausdrücklich abgegrenzt.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+    "https://d23.com/a-to-z/frozen-film/"
+  ],
+  "sources": {
+    "d23": {
+      "url": "https://d23.com/a-to-z/frozen-film/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger Archiveintrag gelesen: Grundhandlung, alle Originalstimmen, beide Regisseure und Veröffentlichungsjahr."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Hauptbesetzung und Premiere gelesen: Kristoffs Eisgeschäft, Hans, Annas Opfer, Finale und LosAngeles19. November 2013."
+    },
+    "interview": {
+      "url": "https://geekmom.com/2014/03/frozen-directors-interview/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Regieinterview bis Schlussabschnitt gelesen: ursprüngliche Elsa als Gegenspielerin, LetItGo-Demo, Schwesterngeschichte, wahreLiebe und Olaf."
+    },
+    "unten": {
+      "url": "https://d23.com/first-look-animating-let-it-go-wayne-unten/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen lesbaren Artikeltext gelesen: Wayne Untens Figurenarbeit, Angst/Freiheit, Idina Menzels Gesang und Schauspiel statt mechanischer Liedillustration."
+    },
+    "matterhorn": {
+      "url": "https://disneyanimation.com/technology/matterhorn/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige technische Primärseite gelesen: ursprünglich für Frozen entwickeltes Matterhorn, MPM mit Partikeln/Gittern, Materialeigenschaften und Schneeinteraktion."
+    },
+    "ucla": {
+      "url": "https://newsroom.ucla.edu/stories/math-wizards-create-snow-for-disney-263913",
+      "accessed_on": "2026-11-03",
+      "supports": "Artikelabschnitte zum Team,43Schneeszenen, MPM und SIGGRAPH 2013 vollständig gelesen; ergänzende spätere Abschnitte im ausführlichen Suchindex: gepresster/zerfallender Schnee, Schneeball. Kein Video angesehen."
+    },
+    "kristoff": {
+      "url": "https://www.disneystore.com/characters/disney/kristoff/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Figurenkurzbeschreibung im Suchindex gelesen: Kristoff als von Trollen aufgezogener Eisarbeiter, Bezug zu Anna. Produktwerbung nicht als Filmhandlung verwendet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Idina Menzel spricht Elsa in der englischen Originalfassung.",
+      "question": "Wer spricht Elsa in der englischen Originalfassung von „Die Eiskönigin – Völlig unverfroren“?",
+      "answers": [
+        "Idina Menzel",
+        "Kristen Bell",
+        "Mandy Moore",
+        "Amy Adams"
+      ],
+      "short": "Elsas englische Originalstimme ist Idina Menzel.",
+      "context": "Elsa (Originalstimme: Idina Menzel) verbirgt ihre magischen Fähigkeiten aus Angst, andere zu verletzen. Wayne Unten betreute die Animation der Figur und orientierte sich auch an der Ausdruckskraft von Menzels Stimme. Ihre Gesangsszenen sollten Gedanken und Gefühle sichtbar machen. Die Bewegung entstand dadurch als Schauspiel einer innerlich zerrissenen Figur, nicht allein als Begleitung einer Melodie.",
+      "sources": [
+        "d23",
+        "unten"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Kristoff verdient sein Geld mit der Lieferung von Eis.",
+      "question": "Womit verdient Kristoff in „Die Eiskönigin – Völlig unverfroren“ normalerweise seinen Lebensunterhalt?",
+      "answers": [
+        "Er verkauft und liefert Eis.",
+        "Er züchtet die Pferde des Königshauses.",
+        "Er führt Schiffe durch die Fjorde.",
+        "Er repariert die Uhren im Schloss."
+      ],
+      "short": "Kristoff handelt mit Eis.",
+      "context": "Kristoff (Originalstimme: Jonathan Groff) ist mit seinem Rentier Sven im verschneiten Gebirge unterwegs. Für ihn ist gefrorenes Wasser zunächst ein alltägliches Handelsgut. Als Elsa (Idina Menzel) das Königreich in einen dauernden Winter versetzt, gerät diese Lebensgrundlage in eine neue Situation. Gemeinsam mit Anna (Kristen Bell) sucht er die verschwundene Königin.",
+      "sources": [
+        "kristoff",
+        "d23",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Hans will durch die Beseitigung der Schwestern Arendelle beherrschen.",
+      "question": "Welches Ziel verfolgt Prinz Hans in „Die Eiskönigin“ hinter seinem Liebeswerben um Anna?",
+      "answers": [
+        "Er will sich die Herrschaft über Arendelle sichern.",
+        "Er will Elsa zur Rückkehr in sein Heimatland bewegen.",
+        "Er will Anna als Erbin eines anderen Reiches einsetzen.",
+        "Er will mit Anna vor den Königspflichten fliehen."
+      ],
+      "short": "Hans strebt nach der Herrschaft über Arendelle.",
+      "context": "Hans (Originalstimme: Santino Fontana) lässt Anna (Kristen Bell) glauben, er könne sie mit einem Liebeskuss retten. Als sie hilflos ist, offenbart er seinen Plan: Die Verbindung zu ihr sollte ihm Zugang zum Thron verschaffen. Auch Elsa (Idina Menzel) steht diesem Machtanspruch im Weg. Der scheinbar ideale Märchenprinz erweist sich als kalkulierender Gegner.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Annas Schutzhandlung für Elsa ist der rettende Akt wahrer Liebe.",
+      "question": "Welche Handlung erweist sich im Finale von „Die Eiskönigin“ als der rettende Akt wahrer Liebe?",
+      "answers": [
+        "Anna stellt sich schützend zwischen Elsa und Hans.",
+        "Kristoff küsst Anna vor dem Schlosstor.",
+        "Hans überlässt Elsa freiwillig die Krone.",
+        "Elsa gibt ihre Zauberkraft an Olaf weiter."
+      ],
+      "short": "Annas selbstloser Schutz ihrer Schwester löst die Erstarrung.",
+      "context": "Anna (Originalstimme: Kristen Bell) verzichtet auf ihre scheinbar letzte Rettung durch Kristoff (Jonathan Groff), als sie Elsas Gefahr erkennt. Sie schützt ihre Schwester (Idina Menzel) vor Hans (Santino Fontana) und gefriert dabei. Die Regisseure arbeiteten lange an diesem Wendepunkt. Entscheidend ist die Liebe zwischen den Schwestern; der erwartete romantische Kuss verliert seine Funktion als einfache Märchenlösung.",
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die LetItGo-Demo half, Elsa von der Schurkin zur verständlichen Figur umzuschreiben.",
+      "question": "Welche wichtige Entwicklung löste die frühe „Let It Go“-Demo bei der Arbeit an „Die Eiskönigin“ aus?",
+      "answers": [
+        "Elsa wurde von der geplanten Schurkin zu einer verständlicheren Figur umgearbeitet.",
+        "Anna erhielt statt Elsa die magischen Eisfähigkeiten.",
+        "Olaf wurde aus der Geschichte entfernt, um den Ton ernster zu machen.",
+        "Hans wurde zum Erzähler einer vergangenen Familiengeschichte."
+      ],
+      "short": "Das Lied half, Elsa als mehr als eine Gegenspielerin zu begreifen.",
+      "context": "Chris Buck und Jennifer Lee beschrieben Elsa in frühen Entwürfen noch als Bösewicht. Die von Kristen Anderson-Lopez gesungene Demo zeigte ihnen eine andere Möglichkeit: eine Frau, die unter der Angst vor ihren eigenen Fähigkeiten lebt. Lee musste daraufhin umfangreich umschreiben. Der Song veränderte damit die dramatische Sicht auf die Figur und nicht nur den musikalischen Ablauf.",
+      "sources": [
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Matterhorn simulierte das physikalische Verhalten von Schnee.",
+      "question": "Für welche Aufgabe wurde Disneys System „Matterhorn“ ursprünglich bei „Die Eiskönigin“ entwickelt?",
+      "answers": [
+        "Für die Simulation von Schnee und seinen Verformungen",
+        "Für die Berechnung von Haaren im Wind",
+        "Für die räumliche Aufnahme der Gesangsstimmen",
+        "Für die automatische Bewegung der Gesichter nach Dialogen"
+      ],
+      "short": "Matterhorn berechnet das Verhalten von Schnee.",
+      "context": "Schnee kann sich zusammendrücken, verklumpen oder auseinanderbrechen. Das Team aus Disney-Fachleuten und UCLA-Mathematikern kombinierte dafür Partikel und ein räumliches Rechengitter. Das Verfahren berücksichtigt Materialeigenschaften wie Feuchtigkeit und Festigkeit. So konnten Figuren glaubhaft durch Schnee laufen und mit ihm interagieren, ohne jede einzelne Bewegung der Schneemassen von Hand zu zeichnen.",
+      "sources": [
+        "matterhorn",
+        "ucla"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Frozen wurde erstmals 2013 öffentlich gezeigt.",
+      "question": "In welchem Jahr erschien „Die Eiskönigin – Völlig unverfroren“ erstmals?",
+      "answers": [
+        "2013",
+        "2007",
+        "2010",
+        "2017"
+      ],
+      "short": "Die erste Veröffentlichung war 2013.",
+      "context": "Der Film kam 2013 heraus; im selben Jahr wurde das wissenschaftliche Verfahren seiner Schneesimulation auf der SIGGRAPH vorgestellt. Die öffentliche Filmkarriere begann im November, die gemeinsame Forschung von Disney und UCLA hatte zuvor die Grundlage für Matterhorn geschaffen. Der Winter der Geschichte war also auch das Ergebnis einer zeitgenössischen Entwicklung der Computergrafik.",
+      "sources": [
+        "d23",
+        "handlung",
+        "ucla"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Chris Buck und Jennifer Lee führten gemeinsam Regie.",
+      "question": "Welches Team führte bei „Die Eiskönigin – Völlig unverfroren“ Regie?",
+      "answers": [
+        "Chris Buck und Jennifer Lee",
+        "Byron Howard und Nathan Greno",
+        "Ron Clements und John Musker",
+        "Gary Trousdale und Kirk Wise"
+      ],
+      "short": "Regie führten Chris Buck und Jennifer Lee.",
+      "context": "Jennifer Lee war zugleich am Drehbuch beteiligt und konnte die Geschichte während der Entwicklung neu ausrichten. Buck und Lee suchten ein Gleichgewicht zwischen Liebesgeschichte und Schwesterngeschichte. Olaf (Originalstimme: Josh Gad) verband dabei Humor mit der Erinnerung an die gemeinsame Kindheit. Das Regieteam verstand Angst schließlich als die zentrale Gegenkraft zu Liebe und Nähe.",
+      "sources": [
+        "d23",
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

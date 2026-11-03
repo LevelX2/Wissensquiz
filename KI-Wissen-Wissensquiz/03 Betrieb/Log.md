@@ -2640,3 +2640,8 @@ Sechs Abenteuerfilme mit 48 Fragen integriert, davon 47 neue globale Ziele und e
 #### Fortsetzung 03.11.2026 – Fantasy W35
 
 Sechs Fantasyfilme mit 48 neuen globalen Zielen integriert; Fantasy 109. Vollständige zentrale und unabhängige Gegenlesung; Thronanspruch und drei vergleichbare Peter-Pan-Ablenker präzisiert. Alle offiziellen Hauptregisseure und Originalstimmen berücksichtigt, Sequenzregie differenziert. Valerie1970 ersetzt ausschließlich noch nicht integrierten Vorauswahlfilm mit ungeklärtem öffentlichem Erststart; Produktionsjahr1969 separat erklärt. Alle 1.760 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 74 Pakete / 17.055 Fragen / 16.363 Ziele; 281 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – Fantasy W36
+
+Sechs weitere Fantasyfilme mit 48 neuen globalen Zielen integriert; Fantasy 115. Vollständige unabhängige Gegenlesung der Agentenredaktion; D23, ACMI und Pixar sowie das Regieinterview nachgelesen. Coco-Fotoregel sachlich präzisiert, vollständige Co-Regie bei Pagemaster/Coco/Soul, Originalstimmen und Festivalveröffentlichungen berücksichtigt. Alle 1.808 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 75 Pakete / 17.103 Fragen / 16.411 Ziele; 275 Genreergänzungen offen.

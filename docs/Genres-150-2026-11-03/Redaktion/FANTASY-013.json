@@ -1,0 +1,254 @@
+{
+  "id": "FANTASY-013",
+  "film_title_de": "Onward: Keine halben Sachen",
+  "film_title_original": "Onward",
+  "film_year": 2020,
+  "genre": "Fantasy",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Bekannter jüngerer Pixar-Film, dessen Kinolauf durch die Pandemie kurz ausfiel.",
+  "selection_reason": "Elfenbrüder lernen in einer modernisierten Fabelwelt reale Magie; der zeitlich begrenzte Besuch des verstorbenen Vaters ist die zentrale fantastische Möglichkeit.",
+  "directors": [
+    "Dan Scanlon"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "D23 nennt die Weltpremiere 18. Februar 2020 am El Capitan, vor Berlinale 21. Februar und US-Start 6. März. Das verbreitete Berlinale-Datum ist also nicht das früheste Ereignis; das Erstjahr bleibt 2020.",
+  "director_note": "D23 und Pixar führen Dan Scanlon allein als Hauptregisseur; Kori Rae produzierte.",
+  "country_note": "US-Produktion von Pixar Animation Studios.",
+  "series": null,
+  "series_note": "Die offiziellen Filmseiten führen ein eigenständiges Originalabenteuer. Quests of Yore ist ein fiktionales Spiel innerhalb der Handlung samt Begleitbuch, keine nummerierte Filmfortsetzung.",
+  "series_sources": [
+    "https://www.pixar.com/onward",
+    "https://d23.com/a-to-z/onward-film/"
+  ],
+  "sources": {
+    "pixar": {
+      "url": "https://www.pixar.com/onward",
+      "accessed_on": "2026-11-03",
+      "supports": "Einleitung und Figuren-/Weltabschnitte Ian, Barley, Wilden, Manticore, Guinevere, Trust Bridge gelesen: persönliche Aufnahme des Vaters, Halbgestalt, Taverne, Mutprobe; keine Trailer angesehen."
+    },
+    "d23": {
+      "url": "https://d23.com/a-to-z/onward-film/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Archiveintrag im ausführlichen Suchindex gelesen: Handlung, Originalstimmen, alleinige Regie, Premiere 18. Februar 2020 und spätere Festival-/Kinotermine."
+    },
+    "disney": {
+      "url": "https://movies.disney.com/onward",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Film- und Figurenabschnitte im Suchindex gelesen: Brüder, Manticore als Restaurantbesitzerin, Colt Bronco, Guinevere, Blazey und Einhörner."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Onward_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Hauptbesetzung und Produktionsbeginn gelesen: misslungener Besuchszauber, Phönixstein, Karte, Vertrauensbrücke, Familienbeziehungen und Schluss. Für Premiere ist D23 genauer und führend."
+    },
+    "buch": {
+      "url": "https://books.disney.com/book/onward-quests-of-yore/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Verlagskurztext samt Bibliografie gelesen: das im Film gezeigte Quests-of-Yore-Handbuch, Zauber, Orte, Kreaturen und Anmerkungen der Brüder."
+    },
+    "asc": {
+      "url": "https://theasc.com/article/onward-quest-for-magic/",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausführlichen Suchindex zum Produktionsbericht gelesen: Elfenbrüder, familiäre Inspiration und Dan Scanlons Aufnahme mit hello/goodbye; keine vollständige Lektüre aller technischen Artikelabschnitte behauptet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ian und Barley sind zwei Elfenbrüder.",
+      "question": "In welchem Verhältnis stehen Ian und Barley, die beiden Elfen in „Onward: Keine halben Sachen“, zueinander?",
+      "answers": [
+        "Sie sind Brüder.",
+        "Sie sind Cousins.",
+        "Sie sind Nachbarn ohne Verwandtschaft.",
+        "Sie sind Meister und Lehrling."
+      ],
+      "short": "Ian und Barley sind Brüder.",
+      "context": "Ian Lightfoot (Originalstimme: Tom Holland) ist zurückhaltend und unsicher, sein älterer Bruder Barley (Chris Pratt) begeistert sich für die magische Vergangenheit ihrer Welt. Beide wachsen bei ihrer Mutter Laurel (Julia Louis-Dreyfus) auf. Die gemeinsame Reise bringt diese unterschiedlichen Temperamente zusammen: Ians Vorsicht trifft auf Barleys Begeisterung für Abenteuer und seine Erfahrung mit alten Regeln.",
+      "sources": [
+        "d23",
+        "disney",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der erste Besuchszauber bringt nur die untere Körperhälfte des Vaters zurück.",
+      "question": "Was erscheint in „Onward“ nach dem ersten Versuch, den verstorbenen Vater zurückzuholen?",
+      "answers": [
+        "Nur seine Beine und die untere Körperhälfte",
+        "Nur sein Kopf und seine Stimme",
+        "Sein Körper als durchsichtiger Geist",
+        "Seine Gestalt im Spiegelbild"
+      ],
+      "short": "Zunächst erscheint nur die untere Hälfte des Vaters.",
+      "context": "Der Besuchszauber soll Wilden Lightfoot (Originalstimme: Kyle Bornheimer) für einen Tag zu seinen Söhnen zurückbringen. Ian (Tom Holland) kann ihn zunächst nur teilweise ausführen; der Phönixstein zerfällt. Die Brüder müssen einen Ersatz finden, bevor die Zeit abläuft. Die stumme halbe Gestalt begleitet sie und macht die ersehnte Begegnung gleichzeitig nah und unerreichbar.",
+      "sources": [
+        "d23",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Manticore hat ihre alte Abenteurertaverne in ein Familienrestaurant verwandelt.",
+      "question": "Was ist in „Onward“ aus der früheren Abenteurertaverne der Manticore geworden?",
+      "answers": [
+        "Ein Familienrestaurant mit Spielen und frittiertem Essen",
+        "Ein Museum für alte Waffen und Landkarten",
+        "Eine Polizeistation für magische Notfälle",
+        "Ein Hotel für reisende Zauberlehrlinge"
+      ],
+      "short": "Die Taverne ist inzwischen ein Familienrestaurant.",
+      "context": "Die Manticore (Originalstimme: Octavia Spencer) war einst eine furchtlose Kriegerin. In der bequemer gewordenen Gegenwart verwaltet sie vor allem den Restaurantbetrieb. Ian (Tom Holland) und Barley (Chris Pratt) suchen dort eine Karte für ihre gefährliche Reise. Ihr Anliegen erinnert die Besitzerin an die Abenteuerlust, die hinter Kundendienst und Alltagsroutine verschwunden ist.",
+      "sources": [
+        "disney",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ian muss beim unsichtbaren Brückenzauber auf Magie und Bruder vertrauen.",
+      "question": "Wie soll Ian in „Onward“ die tiefe Schlucht ohne sichtbaren Steg überwinden?",
+      "answers": [
+        "Er soll einen Vertrauensbrückenzauber wirken und darübergehen.",
+        "Er soll die Schlucht mit einem Vergrößerungszauber verengen.",
+        "Er soll sich von einem beschworenen Greif tragen lassen.",
+        "Er soll den Fluss anheben und darauf hinüberschwimmen."
+      ],
+      "short": "Er muss auf eine magische, unsichtbare Brücke vertrauen.",
+      "context": "Ian (Originalstimme: Tom Holland) steht vor einer Schlucht und soll den nächsten Schritt wagen, obwohl unter seinen Füßen kein gewöhnlicher Steg liegt. Barley (Chris Pratt) muss ihn dabei unterstützen. Die Szene verbindet den Gebrauch von Magie mit Ians Selbstvertrauen. Entscheidend ist, ob er seinem eigenen Können und dem Rat seines Bruders genug vertraut, um weiterzugehen.",
+      "sources": [
+        "pixar",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Quests of Yore bewahrt brauchbares Wissen über die alte Magie.",
+      "question": "Welches scheinbare Freizeitwissen von Barley wird den Brüdern in „Onward“ auf ihrer Reise nützlich?",
+      "answers": [
+        "Seine Kenntnis des Rollenspiels und Handbuchs „Quests of Yore“",
+        "Seine Sammlung alter Reiseberichte über das Königreich",
+        "Seine Erfahrung mit einer digitalen Schatzsuche-App",
+        "Seine Sammlung historischer Straßen- und Wanderkarten"
+      ],
+      "short": "Barleys Rollenspielwissen enthält brauchbare magische Regeln.",
+      "context": "Barley (Originalstimme: Chris Pratt) widmet seiner Spielfigur viel Energie und gilt im Alltag nicht gerade als Vorbild des Erfolgs. Doch „Quests of Yore“ beschreibt Kreaturen, Orte und Zaubersprüche aus der Vergangenheit. Was Ian (Tom Holland) zunächst wie eine unpraktische Leidenschaft vorkommt, erhält auf der Reise einen konkreten Wert. Die verdrängte Geschichte steckt noch im vermeintlichen Spiel.",
+      "sources": [
+        "buch",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Eine kurze Tonaufnahme seines verstorbenen Vaters inspirierte Dan Scanlon.",
+      "question": "Welches persönliche Fundstück inspirierte Dan Scanlon zur Familiengeschichte von „Onward“?",
+      "answers": [
+        "Eine Tonaufnahme seines verstorbenen Vaters mit zwei Grußworten",
+        "Ein unvollendeter Roman seines Vaters über zwei Zauberer",
+        "Eine Postkartensammlung aus den Jugendjahren seiner Mutter",
+        "Ein alter Abenteuerfilm, in dem sein Bruder als Kind mitspielte"
+      ],
+      "short": "Eine kurze Aufnahme der väterlichen Stimme gab den Anstoß.",
+      "context": "Scanlon verlor seinen Vater, als er ungefähr ein Jahr alt war; sein älterer Bruder hatte ebenfalls nur wenige eigene Erinnerungen. Ein Verwandter schickte ihnen später eine Aufnahme mit einem Hallo und einem Abschiedsgruß. Dieser winzige Eindruck der Stimme bedeutete den Brüdern viel. Daraus entwickelte Scanlon die Vorstellung, einen verlorenen Menschen noch einmal kurz erleben zu können.",
+      "sources": [
+        "pixar",
+        "asc"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Onward wurde erstmals 2020 gezeigt.",
+      "question": "In welchem Jahr wurde „Onward: Keine halben Sachen“ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2020",
+        "2014",
+        "2017",
+        "2023"
+      ],
+      "short": "Der Film wurde 2020 erstmals gezeigt.",
+      "context": "Die Weltpremiere fand im Februar 2020 statt, noch vor dem regulären US-Kinostart im März. Schon am 20. März folgte ein vorgezogener digitaler Kaufstart, am 3. April die Veröffentlichung auf Disney+. Die außergewöhnlich kurze Zeit zwischen Kino und digitaler Auswertung fällt in den Beginn der COVID-19-Pandemie. Der Film gehört damit zu Pixars unmittelbar von den damaligen Kinobedingungen betroffenen Veröffentlichungen.",
+      "sources": [
+        "d23",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Dan Scanlon führte bei Onward Regie.",
+      "question": "Wer führte bei „Onward: Keine halben Sachen“ Regie?",
+      "answers": [
+        "Dan Scanlon",
+        "Lee Unkrich",
+        "Pete Docter",
+        "Peter Sohn"
+      ],
+      "short": "Regisseur war Dan Scanlon.",
+      "context": "Scanlon entwickelte die Geschichte zusammen mit den Drehbuchautoren Jason Headley und Keith Bunin; Kori Rae produzierte. Die Welt verbindet vertraute Vororte und moderne Bequemlichkeiten mit Fabelwesen und alten Zaubern. Der magische Auftrag erhält dabei einen familiären Zweck. Die Suche der Brüder ist zugleich ein Versuch, ihre unterschiedliche Beziehung zum verstorbenen Vater zu verstehen.",
+      "sources": [
+        "d23",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
