@@ -30373,6 +30373,426 @@
       "reference_question_id": "G150-20261103-THRILLER-040-L1",
       "year_question_id": "G150-20261103-THRILLER-040-Y",
       "director_question_id": "G150-20261103-THRILLER-040-D"
+    },
+    {
+      "id": "ROMCOM-022",
+      "film_title_de": "Ticket ins Paradies",
+      "film_title_original": "Ticket to Paradise",
+      "film_year": 2022,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Die erneute gemeinsame Hauptrolle von Julia Roberts und George Clooney machte die Kinokomödie weithin sichtbar.",
+      "directors": [
+        "Ol Parker"
+      ],
+      "production_countries": [
+        "USA",
+        "Großbritannien",
+        "Australien"
+      ],
+      "release_note": "Erstjahr2022 durch zeitgenössische Premiereberichterstattung und offiziellen ICAA-Kinostart9.September2022 belegt. WorkingTitle nennt späteren britischen20.September, US-Auswertung Oktober. Wikipedia nennt unzutreffend Spanien als Weltpremiere, während zeitgenössischer PA/RTE-Bericht bereits LondonerPremiere zeigt; keine strittige Tagespremiere gefragt.",
+      "director_note": "Ol Parker alleinige Hauptregie; Daniel Pipski Mitdrehbuchautor. Clooney und Roberts als ausführend Produzierende nicht als Mitregie geführt.",
+      "country_note": "USA/Großbritannien im gelesenen Bibliotheks-MARC257 nach Produktionsfassung, Australien im offiziellen ICAA-Filmdatensatz ausdrücklich als Land; Dreharbeiten und Förderung zusätzlich durch ScreenQueensland/Ausfilm bestätigt. Kein Indonesien allein aus dem Bali-Schauplatz abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständige Geschichte. Parkers Bild einer Fortsetzung zu einem nie gesehenen Film beschreibt die glaubhafte gemeinsame Vergangenheit des Paares, keine tatsächliche nummerierte Filmreihe.",
+      "series_sources": [
+        "https://www.comingsoon.net/movies/features/1252883-ticket-to-paradise-interview-director-ol-parker-on-returning-to-cinemas"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.workingtitlefilms.com/film/ticket-to-paradise/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Produzenteneintrag im Suchindex gelesen: geschiedenes Paar/Bali/Tochterhochzeit, Parker/Pipski, Cast und britischesStartdatum2022."
+        },
+        {
+          "key": "laffly",
+          "url": "https://www.rogerebert.com/reviews/ticket-to-paradise-movie-review-2022",
+          "accessed_on": "2026-11-03",
+          "supports": "Tomris Lafflys vollständige eigene zeitgenössische Kritik samt Credits gelesen: LilyJuraabschluss, GedeAlgenfarm, geplanteHochzeit und Elternkonflikt. Kritikurteile nicht als objektive Figurenbiografien übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Ticket_to_Paradise_(2022_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Handlung und Cast gelesen: Diebstahl der gesegnetenRinge, Gedes Verdacht und Verschweigen vorLily; ersterPlan und spätererElternwandel. M1/M2 zusammen unter200 abgeleitetenWörtern. WidersprüchlichePremierenangabe nicht übernommen."
+        },
+        {
+          "key": "pressekonferenz",
+          "url": "https://www.theupcoming.co.uk/2022/09/15/it-was-nothing-but-fun-there-wasnt-a-bad-day-on-set-george-clooney-julia-roberts-ol-parker-and-cast-on-ticket-to-paradise/",
+          "accessed_on": "2026-11-03",
+          "supports": "Ezelle Alblas vollständigen eigenen virtuellen Pressekonferenzbericht gelesen: JumpAround/HouseOfPain auf ClooneysWunsch, Tanz und ReaktionenjungerDarsteller, Hauptbesetzung. SchreibfehlerDenver/Billy inBericht nicht übernommen."
+        },
+        {
+          "key": "parker",
+          "url": "https://www.comingsoon.net/movies/features/1252883-ticket-to-paradise-interview-director-ol-parker-on-returning-to-cinemas",
+          "accessed_on": "2026-11-03",
+          "supports": "Spencer Legacys vollständiges eigenes Parker-Interview gelesen: Queensland mit getrenntenBali-Hintergrundaufnahmen/CGI, eigeneVaterperspektive aufEntscheidungen erwachsenerTochter, Drehbuch undRegie, metaphorischerSequelvergleich. S2/D innerhalb200Wortbudget."
+        },
+        {
+          "key": "ankundigung",
+          "url": "https://mande.net/btl/news/over-the-weekend-3121",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkret einschlägigen Originalnachrichtenabschnitt vomMärz2021 gelesen: neueClooney/Roberts-Zusammenarbeit undOlParker-Regie als verifizierterZeitanker. AndereNachrichten desSammelartikels nicht alsFilmbelege benutzt."
+        },
+        {
+          "key": "icaa",
+          "url": "https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?Pelicula=129122",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen konkreten Datensatz imSuchindex gelesen:2022, OlParker, Pipski, spanischerKinostart9.September2022 und ausdrücklich LandAustralien."
+        },
+        {
+          "key": "marc",
+          "url": "https://catalog.fargolibrary.org/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=360777",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete zusammenhängende MARC-Felder der lizenziertenUniversal-Fassung gelesen:257 ProduktionsländerUSA/Großbritannien,245 vollständigeRegie-/Autoren-/Produzentencredits,2022. Kein Verlagsort alsFilmproduktionsland fehlgedeutet."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.rte.ie/entertainment/2022/0907/1321218-clooney-reveals-his-dance-moves-are-put-to-good-use/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten PA/RTE-Premierenbericht im Suchindex gelesen: Londoner Premiere am 7. September 2022 und Clooneys Tanzkommentar. Stützt gezielt das Erstjahr und grenzt Wikipedias spätere vermeintliche Weltpremiere in Spanien ein."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-022-L1",
+      "year_question_id": "G150-20261103-ROMCOM-022-Y",
+      "director_question_id": "G150-20261103-ROMCOM-022-D"
+    },
+    {
+      "id": "ROMCOM-023",
+      "film_title_de": "Marry Me – Verheiratet auf den ersten Blick",
+      "film_title_original": "Marry Me",
+      "film_year": 2022,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Jennifer Lopez und Owen Wilson verleihen der Verbindung von Konzertfilm und romantischer Komödie einen deutlichen Wiedererkennungswert.",
+      "directors": [
+        "Kat Coiro"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr2022 einschließlich Los-Angeles-Premiere9.Februar vor Kino-/Peacock-Start11.Februar. Herstellung2019 und verschobene2021Startplanung nicht als Veröffentlichung gezählt; zeitgenössische DGA- und MPA-Texte bestätigen2022.",
+      "director_note": "Kat Coiro alleinige Hauptregie nach DGA und MPA-Originalgespräch. Gillian Robespierre moderierte das DGA-Gespräch und ist keine Mitregisseurin. Jennifer Lopez war Hauptdarstellerin und Produzentin.",
+      "country_note": "USA nach gelesener Filmübersicht und offizieller lizenzierter ANA-Programminformation. Chinesische Firmenbeteiligung nicht ohne ausdrückliche Länderzuordnung zu zusätzlichem Produktionsland erklärt.",
+      "series": null,
+      "series_note": "Eigenständige Webcomicadaption, keine benannte nummerierte Filmfolge. Die weitere Comicgeschichte erzeugt keine Filmteilnummer.",
+      "series_sources": [
+        "https://www.moviefone.com/news/kat-coiro-talks-marry-me/"
+      ],
+      "sources": [
+        {
+          "key": "dga",
+          "url": "https://www.dga.org/events/2022/april2022/marryme_qna_0222",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen DGA-Veranstaltungsbericht im Suchindex gelesen: CharlieMathematiklehrer, Kat/Bastian undUntreue, Rollenbesetzung und Coiro-Regie. Kein ungehörtes eingebettetesPodcastgespräch alsgesehen ausgegeben."
+        },
+        {
+          "key": "gates",
+          "url": "https://www.moviefone.com/news/kat-coiro-talks-marry-me/",
+          "accessed_on": "2026-11-03",
+          "supports": "Marya Gates vollständiges eigenes Coiro-Interview gelesen: Keats alsbewusst eingefügtePoesie, hoch/tiefBildgestaltung und Umkehr amEnde, FlorianBallhaus-Kamera, Song-/Kostümarbeit undgeändertesEnde. NurM2/S1 ausführlich verwendet, innerhalb200Wortbudget."
+        },
+        {
+          "key": "mpa",
+          "url": "https://www.motionpictures.org/2022/02/marry-me-director-kat-coiro/",
+          "accessed_on": "2026-11-03",
+          "supports": "Leslie Combemales vollständiges eigenes Coiro-Gespräch gelesen: Charlie sollte eigenständig/selbstsicher stattprominenzgeblendetsein; CarolineDuncan/RobZangardi-Kostüme mitWandel vonhart/schwer zuweich/leicht. S2/D zusammen innerhalb200Wortbudget."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Marry_Me_(2022_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Handlung, Cast, Produktion undRelease gelesen: LousAuftrittsangst/Tanz,2019Dreh und2022Premiere statt2021Plan, USA. Ratgeber-/Buchjahre nicht still ausFußnoten alsPrimärlektüre ausgegeben."
+        },
+        {
+          "key": "ana",
+          "url": "https://www.ana.co.jp/skychannel/en/jun22/top.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Nur die konkrete imSuchindex ausgelesene lizenzierte Filmseite gelesen: ROMANCE2022/USA, RegieKatCoiro, JenniferLopez/OwenWilson undFiguren. Keine vollständigeProgrammbroschürenlektüre behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-023-L1",
+      "year_question_id": "G150-20261103-ROMCOM-023-Y",
+      "director_question_id": "G150-20261103-ROMCOM-023-D"
+    },
+    {
+      "id": "ROMCOM-024",
+      "film_title_de": "Wo die Lüge hinfällt",
+      "film_title_original": "Anyone but You",
+      "film_year": 2023,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Hauptdarsteller und die breite internationale Kinoauswertung machten die moderne Shakespeare-Romanze zu einem besonders sichtbaren jüngeren Genrebeitrag.",
+      "directors": [
+        "Will Gluck"
+      ],
+      "production_countries": [
+        "USA",
+        "Australien"
+      ],
+      "release_note": "Erstjahr2023 mit New-York-Premiere11.Dezember und US-Kinostart22.Dezember. Sonys deutscherKinostart18.Januar2024 ist spätere Landesauswertung.2024erweiterteKino-/Heimkinoveröffentlichung nicht als erste Filmfassung gezählt.",
+      "director_note": "Will Gluck alleinige Hauptregie, gemeinsames Drehbuch mitIlanaWolpert nachSony. TiaNolan undKimBoritz-Brehm sindEditorinnen;SydneySweeney ausführendeProduzentin undHauptdarstellerin, keineMitregie.",
+      "country_note": "USA/Australien ausdrücklich im gelesenen Filmübersichtsdatensatz. ScreenNSW bestätigt geförderteHerstellunginAustralien, nicht bloß fiktionalenHochzeitsort. DeutscheFFA führt verkürztUS; keineweiteren Länder ausAbsatzerwartungen derEditorinnen ergänzt.",
+      "series": null,
+      "series_note": "Eigenständige moderne Shakespearebearbeitung. Ähnliche Filme desRegisseurs undNeuverfilmungen desselbenTheaterstücks ergeben keine nummerierteFilmreihe.",
+      "series_sources": [
+        "https://www.screen.nsw.gov.au/past-productions/anyone-but-you"
+      ],
+      "sources": [
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.de/filme/wo-die-luege-hinfaellt",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten offiziellen Filmtext undCredits imSuchindex gelesen: deutscherTitel, Bea/Sweeney,Ben/Powell, Australienhochzeit,Paarspiel, Gluck/Wolpert. Nicht2024alsErstjahr verwendet."
+        },
+        {
+          "key": "kinostart",
+          "url": "https://www.sonypictures-kinofinder.de/film/wo-die-luege-hinfaellt",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten offiziellen deutschenKinostarteintrag gelesen:18.Januar2024 undgleicheCredits. GleicheStudioquelle wieSony, keinneuesunabhängigesHandlungsbudget."
+        },
+        {
+          "key": "nsw",
+          "url": "https://www.screen.nsw.gov.au/past-productions/anyone-but-you",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen konkreten Produktions-/Filmtext gelesen:2023, Gluck, Shakespeare, Ex- undFamiliendruck alsMotiv fürPaarspiel, Förderung/HerstellunginNSW."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Anyone_but_You",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängendeHandlung,Cast,Produktion undRelease gelesen: Halle/Claudia-Hochzeit, Familienbezüge, Ex-Partner,2023Premiere und2024Folgeauswertung, LänderUSA/Australien.2024Erweiterung nicht alsersteFassunggewertet."
+        },
+        {
+          "key": "jenevia",
+          "url": "https://multiverseofcolor.com/2023/12/anyone-but-you-interview-glen-powell-sydney-sweeney-will-gluck-preview-modern-shakespeare-rom-com/",
+          "accessed_on": "2026-11-03",
+          "supports": "Lady Jenevias vollständiges eigenes schriftliches Gespräch mitSweeney/Powell/Gluck gelesen: VielLärmumNichts, angepassteFigurennamen, Zitatrecherche undBensSchutzfassade. Nurgeschriebenen Gesprächsteil, keinungesehenesVollvideo beansprucht. S1/D unter200Wortbudget."
+        },
+        {
+          "key": "gates",
+          "url": "https://www.rogerebert.com/reviews/anyone-but-you-2023",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten zusammenhängenden eigenenKritikabschnitt vonMaryaGates imSuchindex gelesen: Bea beruhigtBen mitNatashaBedingfieldsUnwritten, romantischeBedeutung stattweitererBloßstellung. DirekterAbruf403; keinevollständigeSeitenlektüre behauptet."
+        },
+        {
+          "key": "schnitt",
+          "url": "https://blog.frame.io/2024/03/14/spicing-up-shakespeare-with-the-editors-of-anyone-but-you/",
+          "accessed_on": "2026-11-03",
+          "supports": "MattFeurys vollständiges eigenes schriftliches Editorinnengespräch in zweiAbrufen einschließlichSchluss gelesen: Nolan/Boritz-Brehm, digitaleEntfernungBeas ausPool-Szenenbeginn fürspätereBeobachtung, MontageundNachaufnahmen. NurS2ausführlich genutzt; keinAudiohören behauptet."
+        },
+        {
+          "key": "zeitanker",
+          "url": "https://time.com/6970141/anyone-but-you-netflix-shakespeare/",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten zusammenhängenden Film-/Songabschnitt imSuchindex gelesen:2004erSingleUnwritten undVerwendungim2023erFilm. NurkurzenJahreskontext daraus, innerhalb100Wortbudget; keinevollständigeTextlektüre behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-024-L1",
+      "year_question_id": "G150-20261103-ROMCOM-024-Y",
+      "director_question_id": "G150-20261103-ROMCOM-024-D"
+    },
+    {
+      "id": "ROMCOM-025",
+      "film_title_de": "Emma",
+      "film_title_original": "Emma",
+      "film_year": 1996,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die Austen-Verfilmung mit Gwyneth Paltrow ist eine bekannte Literaturadaption, wird jedoch leicht mit weiteren Kino- und Fernsehfassungen verwechselt.",
+      "directors": [
+        "Douglas McGrath"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Konkrete Kinofassung mit Paltrow, keine gleichjährige TV-Fassung mit Beckinsale. Erstjahr 1996 nach Yale-Filmarchiv, zeitgenössischem Originalgespräch vom August 1996 und Filmübersicht mit Seattle-Festival am 7. Juni 1996. Miramax trägt im heutigen Datensatz fehlerhaft Release 1995; nicht gegen zeitgenössische Belege übernommen. Die Editionsfrage des Romans 1815/1816 wird nicht abgefragt.",
+      "director_note": "Douglas McGrath schrieb und inszenierte die Kinofassung nach Miramax und Originalinterview. Diarmuid Lawrence gehört zur anderen Fernsehfassung von 1996. Yale bezeichnet das Drehbuch von Bullets over Broadway irrtümlich als Oscargewinner statt als nominiert; diesen Nebenfehler nicht übernommen.",
+      "country_note": "Großbritannien/USA nach gelesener Filmübersicht und Lizenzplattform MUBI. Aufnahmeorte in England nicht als alleinigen Nationalitätsbeleg benutzt.",
+      "series": null,
+      "series_note": "Eigenständige Austen-Adaption. Clueless, die gleichjährige TV-Fassung und spätere Emma-Verfilmungen sind keine fortlaufende Filmreihe und keine Teilnummern dieser Fassung.",
+      "series_sources": [
+        "https://web.library.yale.edu/sites/default/files/files/Emma%20Notes.pdf"
+      ],
+      "sources": [
+        {
+          "key": "miramax",
+          "url": "https://www.miramax.com/movie/emma/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten offiziellen Filmtext,Cast/Regie undschriftlicheClipbeschreibung gelesen: Emma/Paltrow, Knightley, Elton/Cumming-Antrag. KeineungesehenenVideos behauptet. FehlerhaftesRelease1995 ausdrücklich ausgegrenzt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Emma_(1996_theatrical_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängendeHandlung undCast gelesen: Harriet/Collette, EltonwendetsichanEmma, MissBates/SophieThompson undKnightley/Northam-Reaktion, Kino/TV-Abgrenzung, Länder/Erstjahr. L2/M2-Hauptableitungen innerhalb200Wortbudget."
+        },
+        {
+          "key": "yale",
+          "url": "https://web.library.yale.edu/sites/default/files/files/Emma%20Notes.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges einseitiges eigenes Yale-Filmarchivprogramm gelesen: Miniaturglobus, neu formulierte Außenerzählstimme, Bogenschießen und Fehlschüsse als Beobachtung der Inszenierung. Ausschließlich S1/S2 werden daraus ausführlich abgeleitet; der Jahresanker wird separat mit AFI gestützt. Falschen Bullets-Oscarsieghinweis nicht genutzt."
+        },
+        {
+          "key": "mcgrath",
+          "url": "https://strangegirl.com/emma/alibi.php",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen alsArchivnachruck gekennzeichnetenOriginalgesprächs-/Kritiktext AngieDrobnic,WeeklyAlibi7.August1996 gelesen: PaltrowsSpiel unangenehmer/angenehmerFigurenseiten, Drehbuch/Regie undHerausforderung langerInnenraumdialoge. NachdrucknichtalszweitesGespräch gezählt."
+        },
+        {
+          "key": "mubi",
+          "url": "https://mubi.com/en/us/films/emma",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkreteLizenz-Synopsis undCredits imSuchindex gelesen: DouglasMcGrath, USA/Großbritannien,1996,Paltrow alsHeiratsvermittlerin. KeineungeseheneFilmvorführung behauptet."
+        },
+        {
+          "key": "clueless",
+          "url": "https://catalog.afi.com/Film/67154-CLUELESS",
+          "accessed_on": "2026-11-03",
+          "supports": "Katalogkopf mit Filmjahr 1995 und Hauptcredits gelesen; nicht den gesamten sehr langen AFI-Katalogeintrag als gelesen behauptet. Stützt gezielt den datierten Vergleich im Jahreskontext."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-025-L1",
+      "year_question_id": "G150-20261103-ROMCOM-025-Y",
+      "director_question_id": "G150-20261103-ROMCOM-025-D"
+    },
+    {
+      "id": "ROMCOM-026",
+      "film_title_de": "Emma.",
+      "film_title_original": "Emma.",
+      "film_year": 2020,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Die auffällig gestaltete Austen-Adaption mit Anya Taylor-Joy hat ein eigenes Publikum, ist jedoch weniger allgemein bekannt als die großen modernen Liebeskomödien.",
+      "directors": [
+        "Autumn de Wilde"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichungsjahr 2020, britischer Kinostart 14. Februar und US-Start 21. Februar nach Filmübersicht und Focus. Keine ältere gleichnamige Fassung übernommen. Ein konkreter Weltpremierentag wird mangels belastbar gelesenen eigenständigen Nachweises nicht behauptet.",
+      "director_note": "Autumn de Wilde ist die alleinige ausgewiesene Regisseurin; Eleanor Catton verfasste das Drehbuch. Der Titelpunkt ist Teil der offiziellen Schreibweise bei Focus.",
+      "country_note": "Großbritannien und USA ausdrücklich im gelesenen Ländereintrag der Filmübersicht; englische Aufnahmeorte allein begründen die Länderzuordnung nicht.",
+      "series": null,
+      "series_note": "Eigenständige Neuverfilmung desselben Romans, keine Fortsetzung der Paltrow-Fassung und keine belegte nummerierte Filmfolge.",
+      "series_sources": [
+        "https://www.cinemart.cz/wp-content/uploads/2020/02/EMMA.-Production-Notes_1002.pdf"
+      ],
+      "sources": [
+        {
+          "key": "focus",
+          "url": "https://www.focusfeatures.com/emma",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten offiziellen Filmeintrag gelesen: Titel, US-Start 21. Februar 2020, Regie, Drehbuch und Hauptbesetzung. Keine Videos als gesehen behauptet."
+        },
+        {
+          "key": "notes",
+          "url": "https://www.cinemart.cz/wp-content/uploads/2020/02/EMMA.-Production-Notes_1002.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Englische Original-Produktionsnotizen: vollständige Kurz-/Langsynopsis und Hauptcredits auf PDF-Seiten 3–4 gelesen, außerdem konkrete Produktionspassage über vier Jahreszeiten und historisch recherchierte Farben. Nicht alle 64 Seiten oder Biografien als gelesen behauptet. L2/M1 vorwiegend aus Synopsis, zusammen unter 200 abgeleiteten Wörtern."
+        },
+        {
+          "key": "crimson",
+          "url": "https://www.thecrimson.com/article/2020/3/3/emma-feature/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigenes Gespräch von Samantha J. O’Connell mit de Wilde und Taylor-Joy gelesen: georgianische Karikaturen als komischer Gestaltungsbezug, Spielfilmdebüt nach Rockfotografie, Besetzungschemie. S1 und D zusammen unter 200 abgeleiteten Wörtern."
+        },
+        {
+          "key": "playlist",
+          "url": "https://theplaylist.net/anya-taylor-joy-interview-emma-20200609/",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete zusammenhängende Originalinterviewpassage zu Taylor-Joys Nasenbluten bei Knightleys Antrag und zum Weiterdrehen gelesen; keine vollständige Sichtung sämtlicher Seitenmodule oder Videos behauptet. M2 nutzt diese Schauspieleraussage neben Filmhandlung."
+        },
+        {
+          "key": "quinn",
+          "url": "https://www.focusfeatures.com/article/interview_kave-quinn_production-designer",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges schriftliches Originalgespräch mit Szenenbildnerin Kave Quinn gelesen: farblich geplante Räume, Abstimmung mit Alexandra Byrne, erster Streit durch Speisezimmer/Flur/Wohnzimmer. S2 fragt die konkrete räumliche Choreografie, nicht nochmals die Karikaturvorbilder der Kostüme."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Emma_(2020_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängende Handlung, Besetzung, Produktion, Länder und Veröffentlichung gelesen: Robert Martin/Connor Swindells, Nasenbluten, Dreharbeiten 2019, Starts 2020. Ergänzende Cast-/Datumsstütze; keine ausgedehnte alleinige Handlungsableitung."
+        },
+        {
+          "key": "nbc",
+          "url": "https://www.nbcuniversal.com/article/comcast-nbcuniversal-moves-make-current-movies-available-home",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Unternehmensmitteilung vom 16. März 2020 gelesen: Emma unter bereits laufenden Kinofilmen mit vorgezogenem VOD ab 20. März; getrennt vom angekündigten Day-and-Date-Neustart Trolls World Tour. Konkreter zeitlicher Jahresanker, keine Verwechslung von Kinoerststart und VOD."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-026-L1",
+      "year_question_id": "G150-20261103-ROMCOM-026-Y",
+      "director_question_id": "G150-20261103-ROMCOM-026-D"
+    },
+    {
+      "id": "ROMCOM-027",
+      "film_title_de": "Wie schreibt man Liebe?",
+      "film_title_original": "The Rewrite",
+      "film_year": 2014,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Eine kleinere Hugh-Grant-Liebeskomödie mit vertrauter Starbesetzung, deren Hochschulhandlung weniger präsent ist als seine großen Genreerfolge.",
+      "directors": [
+        "Marc Lawrence"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2014; die Filmübersicht benennt eine Shanghaier Festivalvorführung am 15. Juni 2014. Unabhängig vom dort nur sekundär belegten genauen Tag bestätigt Constantins zeitgenössische Originalmitteilung den deutschen Kinostart 13. November 2014. US-Start und Binghamton-Campusvorstellung erst 2015 nicht als Erstjahr verwendet.",
+      "director_note": "Marc Lawrence ist nach zeitgenössischer Constantin-Mitteilung sowohl Drehbuchautor als auch alleiniger Regisseur. Nicht mit dem gleichnamigen Schauspieler verwechseln.",
+      "country_note": "USA ausdrücklich im gelesenen Film-Ländereintrag; Constantins Originalmitteilung bestätigt Produktion und Besetzung, britische Hauptdarsteller-Nationalität nicht als Produktionsland interpretiert.",
+      "series": null,
+      "series_note": "Eigenständiger Film. Die in der Handlung erwogene Fortsetzung von Keiths früherem Erfolg ist ein fiktives Drehbuchprojekt, keine reale Filmreihe von The Rewrite. Weitere Grant/Lawrence-Zusammenarbeiten sind eigenständige Geschichten.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/The_Rewrite",
+        "https://www.presseportal.ch/de/pm/100018915/100760747"
+      ],
+      "sources": [
+        {
+          "key": "constantin",
+          "url": "https://www.presseportal.ch/de/pm/100018915/100760747",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zeitgenössische Originalmitteilung Constantin Film vom 2. September 2014 gelesen: deutscher Titel, Kinostart 13. November 2014, Binghamton, berufliche Krise, Holly/Tomei, Karen/Heathcote, alleinige Regie und Drehbuch Lawrence. Aktuelle offizielle Filmseite enthält dieselbe Synopsis, nicht als zweite unabhängige Quelle gezählt."
+        },
+        {
+          "key": "heathcote",
+          "url": "https://www.shockya.com/news/2015/02/15/interview-bella-heathcote-talks-the-rewrite-exclusive/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigenes Karen-Benardello-Telefongespräch mit Bella Heathcote samt konkreter Filmeinführung gelesen: Holly/Tomei, berufstätige Mutter, Keiths Überzeugung gegenüber Hollys Lernoptimismus, Karen. L2/S1 zusammen unter 200 abgeleiteten Wörtern. Fehlerhafter fiktiver Filmtitel Paradise Lost in der Einführung nicht übernommen."
+        },
+        {
+          "key": "lawrence",
+          "url": "https://www.sellingyourscreenplay.com/podcast-transcripts/sys-podcast-episode-062-writer-director-marc-lawrence-talks-about-his-new-film-the-rewrite-starring-hugh-grant-and-marisa-tomei-transcript/",
+          "accessed_on": "2026-11-03",
+          "supports": "Originaltranskript des Ashley-Scott-Meyers-Gesprächs mit Lawrence: zusammenhängenden Abschnitt von Karrierebeginn über Filmpitch bis Talentdebatte und Karrierekrise gelesen, nicht Podcast gehört. Lawrence erklärt die Auswahl gut aussehender Kursteilnehmer anhand ihrer Profile. Namensfehler der automatischen Transkription nicht übernommen."
+        },
+        {
+          "key": "campus",
+          "url": "https://www.bupipedream.com/ac/hugh-grant-and-marc-lawrence-attend-campus-premiere-of-the-rewrite/47698/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Jacob-Shamsian-Bericht vom 10. Februar 2015 über Campusvorführung und anschließendes Gespräch gelesen: Lawrence Binghamton-Abschluss 1981, Liebeserklärung an Studienort, nur wenige Drehtage dort, Hauptarbeit LIU Post aus Budget-/Unterbringungsgründen. S2/D zusammen unter 200 abgeleiteten Wörtern."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Rewrite",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Handlung, Besetzung sowie Produktions-/Veröffentlichungsabschnitte gelesen: Entscheidung für Lehre statt Rückkehr nach Hollywood, Sohn Alex, Clem, USA, Festival 2014 gegenüber US-Auswertung 2015. M2 und Datumsstütze bleiben unter 200 abgeleiteten Wörtern."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-027-L1",
+      "year_question_id": "G150-20261103-ROMCOM-027-Y",
+      "director_question_id": "G150-20261103-ROMCOM-027-D"
     }
   ],
   "series_updates": [

@@ -1,0 +1,249 @@
+{
+  "id": "ROMCOM-025",
+  "film_title_de": "Emma",
+  "film_title_original": "Emma",
+  "film_year": 1996,
+  "genre": "Rom-Com",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Die Austen-Verfilmung mit Gwyneth Paltrow ist eine bekannte Literaturadaption, wird jedoch leicht mit weiteren Kino- und Fernsehfassungen verwechselt.",
+  "selection_reason": "Eine selbstsichere Heiratsvermittlerin verkennt fremde Wünsche und eigene Gefühle. Gesellschaftliche Rangvorstellungen, Wortgefechte und unpassende Paarbildungsversuche tragen die romantische Komödie.",
+  "directors": [
+    "Douglas McGrath"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "Konkrete Kinofassung mit Paltrow, keine gleichjährige TV-Fassung mit Beckinsale. Erstjahr 1996 nach Yale-Filmarchiv, zeitgenössischem Originalgespräch vom August 1996 und Filmübersicht mit Seattle-Festival am 7. Juni 1996. Miramax trägt im heutigen Datensatz fehlerhaft Release 1995; nicht gegen zeitgenössische Belege übernommen. Die Editionsfrage des Romans 1815/1816 wird nicht abgefragt.",
+  "director_note": "Douglas McGrath schrieb und inszenierte die Kinofassung nach Miramax und Originalinterview. Diarmuid Lawrence gehört zur anderen Fernsehfassung von 1996. Yale bezeichnet das Drehbuch von Bullets over Broadway irrtümlich als Oscargewinner statt als nominiert; diesen Nebenfehler nicht übernommen.",
+  "country_note": "Großbritannien/USA nach gelesener Filmübersicht und Lizenzplattform MUBI. Aufnahmeorte in England nicht als alleinigen Nationalitätsbeleg benutzt.",
+  "series": null,
+  "series_note": "Eigenständige Austen-Adaption. Clueless, die gleichjährige TV-Fassung und spätere Emma-Verfilmungen sind keine fortlaufende Filmreihe und keine Teilnummern dieser Fassung.",
+  "series_sources": [
+    "https://web.library.yale.edu/sites/default/files/files/Emma%20Notes.pdf"
+  ],
+  "sources": {
+    "miramax": {
+      "url": "https://www.miramax.com/movie/emma/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen konkreten offiziellen Filmtext,Cast/Regie undschriftlicheClipbeschreibung gelesen: Emma/Paltrow, Knightley, Elton/Cumming-Antrag. KeineungesehenenVideos behauptet. FehlerhaftesRelease1995 ausdrücklich ausgegrenzt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Emma_(1996_theatrical_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige zusammenhängendeHandlung undCast gelesen: Harriet/Collette, EltonwendetsichanEmma, MissBates/SophieThompson undKnightley/Northam-Reaktion, Kino/TV-Abgrenzung, Länder/Erstjahr. L2/M2-Hauptableitungen innerhalb200Wortbudget."
+    },
+    "yale": {
+      "url": "https://web.library.yale.edu/sites/default/files/files/Emma%20Notes.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges einseitiges eigenes Yale-Filmarchivprogramm gelesen: Miniaturglobus, neu formulierte Außenerzählstimme, Bogenschießen und Fehlschüsse als Beobachtung der Inszenierung. Ausschließlich S1/S2 werden daraus ausführlich abgeleitet; der Jahresanker wird separat mit AFI gestützt. Falschen Bullets-Oscarsieghinweis nicht genutzt."
+    },
+    "mcgrath": {
+      "url": "https://strangegirl.com/emma/alibi.php",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen alsArchivnachruck gekennzeichnetenOriginalgesprächs-/Kritiktext AngieDrobnic,WeeklyAlibi7.August1996 gelesen: PaltrowsSpiel unangenehmer/angenehmerFigurenseiten, Drehbuch/Regie undHerausforderung langerInnenraumdialoge. NachdrucknichtalszweitesGespräch gezählt."
+    },
+    "mubi": {
+      "url": "https://mubi.com/en/us/films/emma",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige konkreteLizenz-Synopsis undCredits imSuchindex gelesen: DouglasMcGrath, USA/Großbritannien,1996,Paltrow alsHeiratsvermittlerin. KeineungeseheneFilmvorführung behauptet."
+    },
+    "clueless": {
+      "url": "https://catalog.afi.com/Film/67154-CLUELESS",
+      "accessed_on": "2026-11-03",
+      "supports": "Katalogkopf mit Filmjahr 1995 und Hauptcredits gelesen; nicht den gesamten sehr langen AFI-Katalogeintrag als gelesen behauptet. Stützt gezielt den datierten Vergleich im Jahreskontext."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "GwynethPaltrowspieltEmmaWoodhouseinMcGrathsKinofassung.",
+      "question": "Wer spielt die wohlhabende Heiratsvermittlerin in Douglas McGraths Kinofassung „Emma“?",
+      "answers": [
+        "Gwyneth Paltrow",
+        "Kate Beckinsale",
+        "Romola Garai",
+        "Anya Taylor-Joy"
+      ],
+      "short": "Gwyneth Paltrow spielt Emma Woodhouse.",
+      "context": "Emma Woodhouse (Gwyneth Paltrow) lebt in einer geschützten gesellschaftlichen Welt und mischt sich gern in die Beziehungen ihrer Umgebung ein. Ihr vertrauter George Knightley (Jeremy Northam) begegnet dieser Selbstsicherheit mit Widerspruch. Die Frage bezeichnet bewusst McGraths Kinofassung: Andere Darstellerinnen verkörpern dieselbe Austen-Figur in eigenständigen Bearbeitungen, deren Besetzung nicht zu diesem Film gehört.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "miramax",
+        "mubi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "HarrietSmithistEmmasjungeFreundinundwichtigstesVermittlungsprojekt.",
+      "question": "Welche junge Freundin möchte Emma (Gwyneth Paltrow) in der Kinofassung „Emma“ besonders nach ihren eigenen Vorstellungen verheiraten?",
+      "answers": [
+        "Harriet Smith",
+        "Jane Fairfax",
+        "Miss Bates",
+        "Augusta Elton"
+      ],
+      "short": "Emma nimmt vor allem Harriet Smith unter ihre Fittiche.",
+      "context": "Harriet Smith (Toni Collette) besitzt weder Emmas Vermögen noch ihre gesellschaftliche Sicherheit. Emma Woodhouse (Gwyneth Paltrow) glaubt dennoch, eine besonders gute Verbindung für sie herstellen zu können. Dabei setzt sie ihre eigenen Rangvorstellungen an die Stelle von Harriets tatsächlichen Wünschen. Die Freundschaft erhält so ein deutliches Machtgefälle, obwohl Emma ihr Vorgehen als Hilfe versteht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "EltonwillEmmaselbst,nichtdievermeintlichfür ihn vorgeseheneHarriet.",
+      "question": "Worin liegt Emmas Irrtum über Mr. Elton (Alan Cumming) in der Kinofassung „Emma“?",
+      "answers": [
+        "Er interessiert sich für Emma selbst statt für Harriet.",
+        "Er ist bereits heimlich mit Jane Fairfax verlobt.",
+        "Er will Harriet nur wegen einer erwarteten Erbschaft heiraten.",
+        "Er sucht Emmas Hilfe, um Jane Fairfax zu heiraten."
+      ],
+      "short": "Eltons Aufmerksamkeit gilt Emma selbst.",
+      "context": "Emma Woodhouse (Gwyneth Paltrow) deutet Eltons (Alan Cumming) schmeichelnde Aufmerksamkeit als Fortschritt ihres Vermittlungsplans. Seine Liebeserklärung trifft sie deshalb unvorbereitet. Für ihn ist die von Emma gewünschte Verbindung mit Harriet Smith (Toni Collette) gesellschaftlich unpassend. Der Irrtum zeigt, dass Emmas eigene Vorstellung vom idealen Paar keineswegs mit den Absichten des vermeintlichen Bräutigams übereinstimmt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "miramax"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "EmmasSpottüberMissBateswirdvonKnightleyalsgrausamgetadelt.",
+      "question": "Weshalb tadelt Knightley (Jeremy Northam) Emma (Gwyneth Paltrow) nach dem Picknick in der Kinofassung „Emma“?",
+      "answers": [
+        "Sie hat Miss Bates durch einen spöttischen Kommentar verletzt.",
+        "Sie hat Harriet absichtlich über einen bevorstehenden Heiratsantrag belogen.",
+        "Sie hat Jane Fairfax eine bezahlte Stelle als Gouvernante ausgeredet.",
+        "Sie hat Frank Churchill ohne Einladung auf das Familiengut geholt."
+      ],
+      "short": "Ihr Witz auf Kosten von Miss Bates ist für Knightley verletzend und ungerecht.",
+      "context": "Miss Bates (Sophie Thompson) ist gesprächig und gesellschaftlich wenig mächtig. Emma Woodhouse (Gwyneth Paltrow) nutzt die Situation beim Picknick für einen vermeintlich geistreichen Treffer gegen sie. George Knightley (Jeremy Northam) fordert, die Wirkung dieses Verhaltens ernst zu nehmen. Emma muss anschließend Verantwortung für einen Schaden übernehmen, der nicht bloß aus einer ungeschickten Liebesvermittlung entstanden ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "EinMiniaturglobuseröffnetdiekinospezifischeDarstellungvonEmmaskontrollierterkleinerWelt.",
+      "question": "Welcher Gegenstand veranschaulicht in der Eröffnung von Douglas McGraths „Emma“ die kleine gesellschaftliche Welt der Hauptfigur?",
+      "answers": [
+        "Ein Miniaturglobus",
+        "Ein aufgeklappter Fächer mit Familienwappen",
+        "Eine Taschenuhr mit den Porträts der Nachbarn",
+        "Ein Schachbrett mit beschrifteten Figuren"
+      ],
+      "short": "Ein Miniaturglobus stellt Emmas überschaubare Welt bildlich dar.",
+      "context": "Emma Woodhouse (Gwyneth Paltrow) hält den kleinen Globus selbstsicher und überreicht ihn ihrer früheren Erzieherin (Greta Scacchi). Eine eigens für den Film formulierte Erzählerstimme stellt die junge Frau vor. Die kreisende Miniatur macht ihren Anspruch anschaulich, die Ordnung ihrer Umgebung zu kennen und beeinflussen zu können.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "yale"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "DiehinzugefügteBogenschießszenevisualisiertEmmasabnehmendeTreffsicherheit.",
+      "question": "Welche gemeinsame Tätigkeit von Emma (Gwyneth Paltrow) und Knightley (Jeremy Northam) ergänzt McGraths Film gegenüber dem Roman?",
+      "answers": [
+        "Bogenschießen",
+        "Billardspielen",
+        "Fechtunterricht",
+        "Schlittschuhlaufen"
+      ],
+      "short": "Der Film ergänzt eine Bogenschießszene.",
+      "context": "Emma Woodhouse (Gwyneth Paltrow) beginnt die Übung mit sicheren Treffern und verfehlt später sogar die Zielscheibe. Das Yale-Filmarchiv deutet diesen Verlauf als sichtbare Entsprechung ihrer brüchigen Selbstsicherheit. Die scheinbar treffsichere Vermittlerin kann auch neben der Liebeshandlung danebenzielen. Der Film verwandelt eine Gesprächssituation damit in eine eigenständige körperliche Handlung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "yale"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "DiePaltrow-Kinofassungerschien1996nachClueless1995.",
+      "question": "In welchem Jahr erschien die Kinofassung „Emma“ mit Gwyneth Paltrow erstmals?",
+      "answers": [
+        "1996",
+        "1992",
+        "2000",
+        "2004"
+      ],
+      "short": "McGraths „Emma“ erschien 1996.",
+      "context": "Bereits 1995 hatte „Clueless“ die Austen-Geschichte in eine moderne amerikanische Schulwelt übertragen. Die historische Kinofassung mit Gwyneth Paltrow folgte 1996. Im selben Jahr entstand außerdem eine eigenständige Fernsehfassung mit Kate Beckinsale. Die nahe beieinanderliegenden Bearbeitungen erklären mögliche Verwechslungen; sie gehören weder zu derselben Besetzung noch zu einer fortlaufenden Filmreihe.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "clueless",
+        "handlung",
+        "mcgrath"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "DouglasMcGrathschriebundinszeniertediePaltrow-Fassung.",
+      "question": "Wer führte bei der Kinofassung „Emma“ mit Gwyneth Paltrow Regie?",
+      "answers": [
+        "Douglas McGrath",
+        "Diarmuid Lawrence",
+        "Ang Lee",
+        "Roger Michell"
+      ],
+      "short": "Douglas McGrath schrieb und inszenierte den Film.",
+      "context": "Douglas McGrath lobte an Gwyneth Paltrows Darstellung, dass sie unangenehme Seiten der Figur nicht abschwäche und angenehme nicht übertreibe. Dadurch könne Emma Woodhouse (Gwyneth Paltrow) zugleich selbstbezogen und als Mensch nachvollziehbar wirken. Die Komödie verlangt gerade diese Spannung: Das Publikum soll ihre Fehleinschätzungen erkennen, ohne das Interesse an ihrer Entwicklung und ihrem späteren Liebesglück zu verlieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "mcgrath",
+        "miramax"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
