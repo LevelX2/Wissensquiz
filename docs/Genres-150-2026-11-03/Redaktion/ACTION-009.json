@@ -1,0 +1,255 @@
+{
+  "id": "ACTION-009",
+  "film_title_de": "Daylight",
+  "film_title_original": "Daylight",
+  "film_year": 1996,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Breit ausgewerteter Stallone-Katastrophenfilm mit leicht erinnerbarer Tunnelsituation; die einzelnen Rettungsschritte sind weniger bekannt.",
+  "selection_reason": "Rettungsaction, die technische Entscheidungen und Verantwortung für eine gemischte Gruppe an die Stelle einer Gegnerjagd setzt.",
+  "directors": [
+    "Rob Cohen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "1996 nach AFI, Universal-Verleihmetadaten/Kino Lorber und American Humane. US-Start 6. Dezember1996; kein früheres Veröffentlichungsjahr belegt.",
+  "director_note": "Rob Cohen allein; Leslie Bohem schrieb das Drehbuch.",
+  "country_note": "USA nach AFI und Kino Lorber. Der umfangreiche Studiobau in Rom ist als Drehort belegt und wird nicht allein zur italienischen Produktionsbeteiligung umgedeutet.",
+  "series": null,
+  "series_note": "Eigenständiger Katastrophenfilm mit abgeschlossenem Rettungsfall. Keine Fortsetzung anderer Stallone-Filme.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/MovieDetails/60129",
+    "https://kinolorber.com/film/daylight-4kuhd"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/MovieDetails/60129",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene Credits und Details: USA1996, Rob Cohen, Bohem, Hauptbesetzung, Randy Edelman und US-Start. Keine AFI-Synopsis vorhanden; Szenen ausdrücklich auf andere Quellen gestützt."
+    },
+    "verleih": {
+      "url": "https://kinolorber.com/film/daylight-4kuhd",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindextext der aktuellen Verleihseite, direkte Seite403: USA1996, Rob Cohen, Kit als früherer EMS-Chef, Tunnel unter dem Hudson, Explosion, giftige Luft und eindringendes Wasser."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/daylight-1996",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen sichtbaren Suchindextext der zeitgenössischen Kritik gelesen: Unfallflucht in Giftmülltransporter, Holland-Tunnel, früherer Rettungschef, Ventilatoren mit begrenzter Stillstandszeit, Roys riskanter Kletterplan und Ratten als Wegweiser. Physikalische Übertreibungen des Films nicht als sachliche Rettungsanleitung behandelt."
+    },
+    "humane": {
+      "url": "https://www.americanhumane.org/production/daylight/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Produktionsbericht gelesen: Ventilationszugang, Wasser und Unterkühlung, vermisster/geretteter Hund, Ratten verschwinden hinter Kruzifix und Kit öffnet die Mauer, Cinecittà-Tunnelbau mit16Wassertanks. Genau diese Rattenhandlung belegt, die in Wiki-Synopsis fehlt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Daylight_(1996_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige Handlung und Cast: Roys tödlicher Fehlversuch, Georges schwere Verletzung und Armband, Flucht der Gruppe sowie später separate Rettung Kit/Maddy; genaue Figurendarsteller. Keine Gleichsetzung der fiktiven Katastrophe mit einem dokumentierten realen Ereignis."
+    },
+    "dragonheart": {
+      "url": "https://www.universalpicturesathome.com/movies/dragonheart",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen offiziellen Suchindexdatensatz gelesen: Dragonheart1996, Rob Cohen, Dennis Quaid/Sean Connery und Fantasygeschichte; zweiter zeitlicher Anker im Jahresziel."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Kit Latura ist ein ehemaliger Leiter des medizinischen Rettungsdienstes.",
+      "question": "Welche frühere Tätigkeit erklärt Kit Laturas (Sylvester Stallone) Fähigkeiten bei der Rettung in „Daylight“?",
+      "answers": [
+        "Er war Leiter des medizinischen Rettungsdienstes.",
+        "Er war Chefingenieur beim Tunnelbau.",
+        "Er war Kommandant eines Marine-U-Boots.",
+        "Er war Sprengmeister eines Bergbauunternehmens."
+      ],
+      "short": "Kit war früher Chef des Emergency Medical Services.",
+      "context": "Latura (Sylvester Stallone) arbeitet inzwischen als Taxifahrer und ist durch eine frühere gescheiterte Rettung belastet. Als er die Katastrophe am Tunnel erlebt, wird sein Wissen wieder gebraucht. Seine Rückkehr in die Verantwortung betrifft daher nicht nur die Eingeschlossenen: Er muss erneut Entscheidungen treffen, deren Folgen Menschenleben bestimmen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "verleih",
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der blockierte Tunnel liegt unter dem Hudson River.",
+      "question": "Unter welchem Fluss liegt der nach einer Explosion blockierte Verkehrstunnel in „Daylight“?",
+      "answers": [
+        "Hudson River",
+        "East River",
+        "Potomac River",
+        "Delaware River"
+      ],
+      "short": "Der Tunnel liegt unter dem Hudson River.",
+      "context": "Die Verbindung führt zwischen Manhattan und New Jersey hindurch. Nach dem Zusammenstoß eines Fluchtwagens mit gefährlicher Ladung sperrt die Explosion beide Ausgänge. Zu Feuer und giftiger Luft kommt später Wasser von oben. Der unterirdische Verkehrsraum wird dadurch zu einer Falle, deren Zustand sich während der Rettung weiter verschlechtert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "verleih",
+        "ebert",
+        "humane"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Latura gelangt durch die nur kurz stilllegbaren Ventilatoren in den Tunnel.",
+      "question": "Welchen gefährlichen Zugang nutzt Latura (Sylvester Stallone) in „Daylight“, um zu den Eingeschlossenen zu gelangen?",
+      "answers": [
+        "Den Lüftungsweg mit nur kurz stilllegbaren großen Ventilatoren",
+        "Eine durch Taucher geöffnete Wartungsluke im Flussbett",
+        "Eine mit Bohrausrüstung durchbrochene Wand aus dem Nachbartunnel",
+        "Einen Versorgungsschacht entlang einer intakten Hochspannungsleitung"
+      ],
+      "short": "Er steigt durch die Ventilationsanlage ein.",
+      "context": "Die großen Rotoren lassen sich nur für kurze Zeit anhalten. Latura (Sylvester Stallone) muss die begrenzten Zeitfenster nacheinander nutzen. Der riskante Einstieg löst zunächst nur ein Problem: Sobald er bei den Menschen ist, bleibt auch für ihn die Frage offen, wie sie gemeinsam wieder hinauskommen können.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "humane"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Roy Nord ignoriert Laturas Warnung und stirbt beim Einsturz des von ihm gewählten Auswegs.",
+      "question": "Was geschieht mit Roy Nords (Viggo Mortensen) eigenem Fluchtversuch in „Daylight“?",
+      "answers": [
+        "Der vermeintliche Ausweg stürzt trotz seiner Zuversicht ein.",
+        "Er erreicht das Freie und lässt die anderen absichtlich zurück.",
+        "Er wird von außen wegen eines vermuteten Überfalls festgenommen.",
+        "Er muss wegen eines von ihm ausgelösten Kabelbrands freiwillig umkehren."
+      ],
+      "short": "Sein selbst gewählter Weg bricht zusammen und tötet ihn.",
+      "context": "Nord (Viggo Mortensen) vertraut als erfahrener Sportler und Kletterer auf seine Fähigkeiten. Latura (Sylvester Stallone) warnt jedoch vor dem Zustand des Durchgangs. Der Einsturz bestätigt, dass hier nicht nur Geschick zählt: Das beschädigte Bauwerk kann eine scheinbar beherrschbare Route plötzlich zerstören.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Der schwer verletzte George muss zurückbleiben und gibt Kit das Armband für Grace.",
+      "question": "Welche letzte Bitte richtet der verletzte George (Stan Shaw) in „Daylight“ an Latura (Sylvester Stallone)?",
+      "answers": [
+        "Das für seine Freundin bestimmte Armband zu überbringen.",
+        "Seiner Tochter eine mitgeführte Geburtstagskarte zu geben.",
+        "Seine Dienstmarke dem zuständigen Polizeichef zurückzugeben.",
+        "Seiner Mutter seine letzten Worte zu überbringen."
+      ],
+      "short": "Das Armband soll Georges Freundin Grace erreichen.",
+      "context": "George (Stan Shaw) wird so schwer verletzt, dass er den nächsten Weg nicht mitmachen kann. Latura (Sylvester Stallone) muss ihn zurücklassen und nimmt den persönlichen Auftrag mit. Nach der eigenen Rettung übergibt er Grace (Vanessa Bell Calloway) das Armband. Die Übergabe trägt den Verlust aus dem Tunnel in den Abschluss der Geschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Fliehende Ratten zeigen eine verborgene Maueröffnung hinter einem Kruzifix an.",
+      "question": "Welchen Hinweis entdeckt Latura (Sylvester Stallone) in „Daylight“, als Ratten aus dem steigenden Wasser fliehen?",
+      "answers": [
+        "Sie verschwinden hinter einem Kruzifix in einer Maueröffnung.",
+        "Sie sammeln sich unter einer Luke zu einem noch befahrbaren Wartungsschacht.",
+        "Sie laufen entlang eines trocken gebliebenen Kabelkanals zum Tunneleingang.",
+        "Sie ziehen zu einer Tür, hinter der ein Pumpenraum weiterarbeitet."
+      ],
+      "short": "Die Tiere weisen auf den verborgenen Durchgang in der Wand hin.",
+      "context": "Wasser dringt in den vermeintlich sicheren Raum ein. Als die Ratten hinter dem Kruzifix verschwinden, untersucht Latura (Sylvester Stallone) die Mauer und legt eine Öffnung frei. Die Tiere sind hier mehr als ein zusätzliches Schreckbild: Ihr Fluchtverhalten liefert einen konkreten Hinweis für die Suche der Menschen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "humane",
+        "ebert"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Daylight mit Sylvester Stallone erschien 1996.",
+      "question": "In welchem Jahr erschien „Daylight“ mit Sylvester Stallone erstmals?",
+      "answers": [
+        "1996",
+        "1990",
+        "1993",
+        "2000"
+      ],
+      "short": "Daylight erschien 1996.",
+      "context": "1996 kamen gleich zwei sehr verschiedene Rob-Cohen-Filme heraus: das Drachenabenteuer „Dragonheart“ und der Katastrophenfilm „Daylight“. Der eine entwirft eine fantastische Welt, der andere verdichtet ein modernes Verkehrsunglück zum Überlebenskampf. Cohens Regie verbindet in beiden Fällen menschliche Konflikte mit einem großen, technisch gestalteten Spektakel.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "dragonheart",
+        "verleih"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Rob Cohen inszenierte Daylight.",
+      "question": "Wer führte bei „Daylight“ mit Sylvester Stallone und Amy Brenneman Regie?",
+      "answers": [
+        "Rob Cohen",
+        "Jan de Bont",
+        "Mick Jackson",
+        "Andrew Davis"
+      ],
+      "short": "Rob Cohen führte Regie.",
+      "context": "Der überflutete Tunnel entstand zu großen Teilen als Studiobau in Cinecittà in Rom. Eine Anlage mit sechzehn Wassertanks ermöglichte das kontrollierte Fluten der Kulissen. Rob Cohens Rettungsgeschichte verbindet dadurch den Eindruck eines realen Großstadtortes mit einer für Feuer-, Wasser- und Tieraufnahmen organisierten Produktionsumgebung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "humane"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

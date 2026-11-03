@@ -2615,3 +2615,8 @@ Fünf Musikfilme mit 40 neuen globalen Zielen integriert; Musik 150, Arthouse 15
 #### Fortsetzung 03.11.2026 – Horror W30
 
 Sechs Horrorfilme mit 48 neuen globalen Zielen integriert; Horror109. Vollständige zentrale und unabhängige Gegenlesung; Handlungsmotive, Tunnelwege und Produktionskonzepte mit vergleichbaren Optionen. Gabriadze-Namensvarianten als eine Regieperson erklärt; öffentliche Festivaljahre und spätere Starts sauber getrennt. Unknown User/Wyrmwood jeweils Teil1. Alle 1.528 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 69 Pakete / 16.823 Fragen / 16.135 Ziele; 310 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – Action W31
+
+Sechs Actionfilme mit 48 neuen globalen Zielen integriert; Action109. Vollständige zentrale und unabhängige Gegenlesung. Zwei Ablenkergruppen und Cast-Erstnennungen verbessert; Tango-&-Cash-Credits gegenüber weiteren tatsächlichen Dreharbeiten präzisiert. Raw-Deal-Koproduktion und Tier-/Wasseraufnahmen der beiden Filme1994/1996 durch gelesene Primärberichte bestätigt. Alle 1.576 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 70 Pakete / 16.871 Fragen / 16.183 Ziele; 304 Genreergänzungen offen.

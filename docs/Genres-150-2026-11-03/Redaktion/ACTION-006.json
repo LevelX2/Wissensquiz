@@ -1,0 +1,255 @@
+{
+  "id": "ACTION-006",
+  "film_title_de": "Tango & Cash",
+  "film_title_original": "Tango & Cash",
+  "film_year": 1989,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Bekannte Zusammenführung zweier Actionstars in einer oft wiederholten Polizeikomödie; die genaue Intrige und Produktionsgeschichte sind weniger geläufig.",
+  "selection_reason": "Actionkomödie über zwei rivalisierende Ermittler, die nach einer fingierten Anklage ihre Unschuld gemeinsam beweisen müssen.",
+  "directors": [
+    "Andrei Konchalovsky"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "1989, US-Start 22. Dezember laut AFI und zeitgenössischer Kritik. Kein früheres öffentliches Veröffentlichungsjahr gefunden.",
+  "director_note": "Vollständiger offizieller Hauptregiecredit: Andrei Konchalovsky. AFI-History bestätigt ausdrücklich, dass nur er im Film als Regisseur genannt wird; Albert Magnoli vollendete Dreharbeiten ohne Hauptcredit. Peter MacDonald steht im AFI-Seitenkopf zusätzlich, wird im ausführlichen Credit aber eindeutig als Regisseur der zweiten Einheit geführt. Beide nicht zu offiziellen Hauptregisseuren umgedeutet.",
+  "country_note": "USA nach AFI und FSK.",
+  "series": null,
+  "series_note": "Eigenständige Buddy-Actionkomödie mit abgeschlossenem Fall. Gemeinsame Stars oder Bezüge auf Rambo und andere Polizeifilme begründen keine nummerierte Folge.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/58307",
+    "https://en.wikipedia.org/wiki/Tango_%26_Cash"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/58307",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene gesamte History, vollständige Regie-/Besetzungscredits, Details und Synopsis: offizielle Hauptregie gegenüber Magnoli/MacDonald abgegrenzt, Falschbeschuldigung, Kiki, Verkleidungsflucht, Skinners echte Belastungsaufnahme, Owen-Fahrzeug und Schlusskampf. 1989USA."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Tango_%26_Cash",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung/Besetzung: rivalisierende Polizisten, FBI-Mordfalle, falsches Tonband, Kiki als Schwester und Verkleidungsflucht, Beweisbeschaffung; mit AFI abgeglichen."
+    },
+    "hicks": {
+      "url": "https://www.deseret.com/1989/12/28/20088770/film-review-tango-cash/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene zeitgenössische Chris-Hicks-Kritik: gegensätzlicher Kleidungs-/Lebensstil, Stallone/Russell, Schuldeingeständnis unter versprochener milder Haft und tatsächliches Hochsicherheitsgefängnis, Owen als Waffenentwickler und gepanzertes Fahrzeug."
+    },
+    "rt": {
+      "url": "https://www.rottentomatoes.com/m/tango_and_cash",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige redaktionelle Synopsis im Suchindex: Perrets fingierter Mord an einem FBI-Agenten, Gefängnis und Flucht, Kiki als Tangos Schwester; Nutzerkommentare nicht als Beleg verwendet."
+    },
+    "fsk": {
+      "url": "https://www.fsk.de/detail/?detailid=6395783dc8a72800161fbf2f&stype=single",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Suchindexeintrag: deutscher Titel Tango & Cash, USA1989."
+    },
+    "runaway": {
+      "url": "https://www.bfi.org.uk/lists/100-essential-thrillers",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindexabschnitt Runaway Train: Werk1985, Konchalovsky als Regisseur und Flucht von Gefangenen; für den zeitlichen Vergleich zum Film1989."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Sylvester Stallone spielt den gepflegt auftretenden Polizisten Ray Tango.",
+      "question": "Wer spielt in „Tango & Cash“ mit Kurt Russell den elegant gekleideten Ermittler Ray Tango?",
+      "answers": [
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger",
+        "Bruce Willis",
+        "Steven Seagal"
+      ],
+      "short": "Sylvester Stallone spielt Ray Tango.",
+      "context": "Ray Tango (Sylvester Stallone) erscheint im Anzug und mit runder Brille, während Cash (Kurt Russell) deutlich ungeordneter auftritt. Auch der selbstverständliche Umgang mit Geldanlagen gehört zu Tangos Image. Die beiden Polizisten sind zunächst Konkurrenten; ihre äußeren Gegensätze liefern später den Stoff für ständige Sticheleien in der erzwungenen Zusammenarbeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "hicks"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Kiki ist Ray Tangos Schwester.",
+      "question": "In welchem Verhältnis steht die Tänzerin Kiki (Teri Hatcher) in „Tango & Cash“ zu Ray Tango (Sylvester Stallone)?",
+      "answers": [
+        "Sie ist seine Schwester.",
+        "Sie ist seine frühere Ehefrau.",
+        "Sie ist seine verdeckt ermittelnde Partnerin.",
+        "Sie ist seine frühere Informantin."
+      ],
+      "short": "Kiki ist Tangos Schwester.",
+      "context": "Tango (Sylvester Stallone) nennt sie Katherine, im Club ist sie als Kiki (Teri Hatcher) bekannt. Für Cash (Kurt Russell) wird sie zur Helferin nach dem Gefängnisausbruch. Seine Annäherung an sie verschärft zugleich die persönliche Reibung mit Tango, dessen Beschützerrolle nun über den Polizeifall hinausreicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung",
+        "rt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Perret lässt die beiden Ermittler des Mordes an einem FBI-Agenten beschuldigen.",
+      "question": "Mit welchem vorgetäuschten Verbrechen lässt Perret (Jack Palance) die Ermittler in „Tango & Cash“ ins Gefängnis bringen?",
+      "answers": [
+        "Mit dem Mord an einem FBI-Agenten",
+        "Mit der Entführung eines Richters",
+        "Mit dem Überfall auf ein Lohngelddepot",
+        "Mit dem Tod eines unbeteiligten Kindes bei einer Verfolgung"
+      ],
+      "short": "Die Falle macht sie scheinbar zu Mördern eines FBI-Agenten.",
+      "context": "Am Treffpunkt finden Tango (Sylvester Stallone) und Cash (Kurt Russell) einen Toten, Geld und Drogen. Die eintreffenden Ermittler behandeln sie als Täter. Nach einer Verständigung erwarten sie vergleichsweise milde Haft, landen jedoch in einem Hochsicherheitsgefängnis unter Männern, die sie selbst verhaftet hatten. Die Intrige soll ihre Karriere und ihr Leben zerstören.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "rt",
+        "hicks",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Kiki hilft Cash durch eine Verkleidung als Frau aus dem Club zu entkommen.",
+      "question": "Wie hilft Kiki (Teri Hatcher) Cash (Kurt Russell) in „Tango & Cash“, den von Polizisten durchsuchten Club zu verlassen?",
+      "answers": [
+        "Sie verkleidet ihn als Frau und geht mit ihm hinaus.",
+        "Sie gibt ihn als neuen Musiker ihrer Begleitband aus.",
+        "Sie versteckt ihn in einer zum Ausgang getragenen Lautsprecherbox.",
+        "Sie schleust ihn als Mitglied des anrückenden Sanitätsteams hinaus."
+      ],
+      "short": "Cash entkommt in Frauenkleidung.",
+      "context": "Cash (Kurt Russell) sucht im Club nach Katherine (Teri Hatcher) und findet zunächst niemanden unter diesem Namen. Auf der Bühne erkennt Kiki (Teri Hatcher) ihn. Sie holt ihn in die Garderobe und nutzt anschließend eine Verkleidung, die das Bild des gesuchten Polizisten aufbricht. Der Hilfsweg wird zugleich zur körperlichen Komödiennummer.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Skinner besitzt eine Aufnahme seiner Beauftragung durch Perret, die den Betrug nachweist.",
+      "question": "Welchen Gegenbeweis beschafft Cash (Kurt Russell) beim Tonexperten Skinner (Michael Jeter) in „Tango & Cash“?",
+      "answers": [
+        "Eine Aufnahme, auf der Perret den Auftrag zur Fälschung erteilt",
+        "Die ungeschnittene Aufnahme einer öffentlichen Pressekonferenz",
+        "Eine Überwachungskassette vom tatsächlichen Gefängnisausbruch",
+        "Die Funkaufzeichnung eines früheren Überfalls auf Perrets Lager"
+      ],
+      "short": "Skinners eigene Aufnahme belastet seinen Auftraggeber.",
+      "context": "Skinner (Michael Jeter) hat vor Gericht die Echtheit des belastenden Tonbands bestätigt. Cash (Kurt Russell) zwingt ihn später, eine andere Kassette herauszugeben: Sie dokumentiert den kriminellen Auftrag. Das Medium, das die Polizisten zu Fall brachte, liefert somit auch eine Spur zurück zum Urheber der Falle.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Waffenentwickler Owen stattet die Helden mit einem gepanzerten bewaffneten Fahrzeug aus.",
+      "question": "Welche besondere Hilfe gibt Owen (Michael J. Pollard) den Polizisten vor dem Angriff auf Perrets Versteck in „Tango & Cash“?",
+      "answers": [
+        "Ein gepanzertes Fahrzeug mit montierten Maschinengewehren",
+        "Ein ziviles Flugzeug mit fernsteuerbarer Kamera",
+        "Einen Krankenwagen mit versteckter Abhöranlage",
+        "Ein Schnellboot mit gefälschter Küstenwachkennung"
+      ],
+      "short": "Owen liefert ein gepanzertes, schwer bewaffnetes Fahrzeug.",
+      "context": "Owen (Michael J. Pollard) entwickelt ungewöhnliche Polizeiausrüstung. Seine Hilfe macht aus der Beweissuche eine bewaffnete Offensive. Tango (Sylvester Stallone) und Cash (Kurt Russell) durchbrechen damit die Sicherung des Verstecks. Der Einfallsreichtum der Polizeitechnik gehört zur bewusst übersteigerten Actionwelt dieses Films.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "hicks",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Tango & Cash erschien 1989.",
+      "question": "In welchem Jahr erschien „Tango & Cash“ mit Sylvester Stallone und Kurt Russell erstmals?",
+      "answers": [
+        "1989",
+        "1983",
+        "1986",
+        "1993"
+      ],
+      "short": "Tango & Cash erschien 1989.",
+      "context": "Vier Jahre zuvor hatte der Hauptregisseur mit „Runaway Train“ von 1985 bereits eine Geschichte über Gefängnisausbruch und Verfolgung erzählt. „Tango & Cash“ setzt 1989 stärker auf Stars, Rivalität und komische Übertreibung. Die Gefängnispassage bleibt hier eine Station auf dem Weg zurück zum gemeinsamen Kampf gegen den Auftraggeber.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "runaway",
+        "hicks"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Andrei Konchalovsky trägt den alleinigen offiziellen Hauptregiecredit.",
+      "question": "Wer trägt den offiziellen Hauptregiecredit von „Tango & Cash“?",
+      "answers": [
+        "Andrei Konchalovsky",
+        "Richard Donner",
+        "Walter Hill",
+        "John Badham"
+      ],
+      "short": "Der Hauptregiecredit lautet Andrei Konchalovsky.",
+      "context": "Konchalovsky verließ die Produktion nach einem Konflikt über Ablauf und Änderungen. Albert Magnoli vollendete die Dreharbeiten, erhielt dafür aber keinen Hauptregiecredit. Peter MacDonald leitete die zweite Einheit. Der fertige Film bündelt damit Beiträge mehrerer Arbeitsphasen, während der sichtbare Hauptcredit bei Konchalovsky blieb.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

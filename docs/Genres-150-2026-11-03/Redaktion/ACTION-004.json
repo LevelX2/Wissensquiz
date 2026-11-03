@@ -1,0 +1,257 @@
+{
+  "id": "ACTION-004",
+  "film_title_de": "Der City Hai",
+  "film_title_original": "Raw Deal",
+  "film_year": 1986,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Bekannter Schwarzenegger-Titel aus seiner frühen Actionphase, dessen konkrete Undercovergeschichte weniger präsent ist als Terminator oder Predator.",
+  "selection_reason": "Polizeiaction über eine inoffizielle Einschleusung ins Gangstermilieu, die durch Korruption innerhalb der Strafverfolgung scheitert.",
+  "directors": [
+    "John Irvin"
+  ],
+  "production_countries": [
+    "USA",
+    "Niederlande"
+  ],
+  "release_note": "1986, US-Start 6. Juni nach AFI, deutscher Start 21. August nach Studiocanal. Kein früheres öffentliches Veröffentlichungsjahr belegt.",
+  "director_note": "John Irvin ist der alleinige Hauptregisseur. Glenn Randall wird bei AFI ausdrücklich für die zweite Einheit geführt. Die Studiocanal-Überschrift Regie über einer Liste von Darstellern ist ein Seitenlabel-Fehler, keine Mitregie.",
+  "country_note": "USA/Niederlande nach den beiden Rechte-/Verleihseiten Studiocanal und Rialto. AFI und Wikipedia führen nur USA; die engere Angabe wird gegenüber den aktuellen Verleihangaben dokumentiert.",
+  "series": null,
+  "series_note": "Eigenständiger Film; weder Fortsetzung der Conan-Filme noch von Commando. Die identische englische Titelgebung eines älteren Film noir begründet ebenfalls keine Folge.",
+  "series_sources": [
+    "https://www.rialtopictures.com/catalogue/raw-deal",
+    "https://catalog.afi.com/Film/57456-RAW-DEAL"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/57456-RAW-DEAL",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige History/Credits/Details und Synopsis: 1986, John Irvin, zweite Einheit Randall, Darsteller, Bombendrohung/Beute aus Polizeigewahrsam, Baxters Korruption und tatsächliche Drehorte. Einzelne AFI-Verschreiber Max statt Marvin Baxter und Brennan statt Brenner nicht als eigene Fakten verwendet."
+    },
+    "studiocanal": {
+      "url": "https://filme.studiocanal.de/movie/raw-deal",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene Rechteinhaberseite: deutscher Titel, Regie Irvin, USA/Niederlande, Chicago-Mafia, FBI-Vergangenheit und inoffizieller Einsatz; nicht Darstellerliste unter fehlerhaftem Regielabel als Regie behandelt."
+    },
+    "rialto": {
+      "url": "https://www.rialtopictures.com/catalogue/raw-deal",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene Verleihseite: USA/Niederlande1986, Irvin, Cast, Vertrauensauftrag eines FBI-Mannes nach Tod seines Sohnes, Außenseiterstatus des Sheriffs."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/raw-deal-1986",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Suchindextext der zeitgenössischen Kritik tatsächlich gelesen: ausgeschiedener FBI-Agent als Sheriff, vorgetäuschter Tod und Gangstertarnung, Monique, Gewalt und Credits. Eberts Verwechslung des Hauptbosses mit Robert Davi nicht übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Raw_Deal_(1986_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung einschließlich Schlussteil und Rollen: Shannon als verwundeter Freund, Bitte um Patenschaft und Physiotherapie am Ende; Komplott, Tarnung und korrupter Baxter mit AFI abgeglichen."
+    },
+    "cobra": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/57290",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Credits und Details des Vergleichsfilms: Stallone, Die City-Cobra, US-Start 23. Mai 1986, damit zwei Wochen vor Raw Deal."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Arnold Schwarzenegger spielt den ausgeschiedenen FBI-Agenten Mark Kaminski.",
+      "question": "Wer spielt in „Der City Hai“ Mark Kaminski, den ehemaligen FBI-Agenten mit einem inoffiziellen Undercoverauftrag?",
+      "answers": [
+        "Arnold Schwarzenegger",
+        "Sylvester Stallone",
+        "Chuck Norris",
+        "Dolph Lundgren"
+      ],
+      "short": "Arnold Schwarzenegger spielt Mark Kaminski.",
+      "context": "Mark Kaminski (Arnold Schwarzenegger) arbeitet nach seinem Ausscheiden beim FBI als Kleinstadtsheriff. Ein früherer Kollege bietet ihm die Chance, sich durch einen gefährlichen Auftrag zu rehabilitieren. Schwarzeneggers Figur erhält damit einen persönlichen Anreiz für die Rückkehr ins Großstadtmilieu: Er kämpft zugleich gegen die Mafia und um seine eigene berufliche Zukunft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studiocanal",
+        "rialto",
+        "ebert"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Kaminski infiltriert die organisierte Kriminalität von Chicago.",
+      "question": "In welcher Stadt schleust sich Kaminski (Arnold Schwarzenegger) in „Der City Hai“ in die Mafia ein?",
+      "answers": [
+        "Chicago",
+        "Miami",
+        "New York",
+        "Los Angeles"
+      ],
+      "short": "Sein Einsatz führt nach Chicago.",
+      "context": "Der neue Mann muss sich in der Organisation von Patrovita (Sam Wanamaker) als brauchbarer Gewalttäter etablieren. Sein Auftrag soll das Verbrechersyndikat von innen treffen. Er kann sich dabei nicht auf eine gewöhnliche offizielle Rückendeckung verlassen; der Zugang zur Unterwelt entsteht unter einer angenommenen Identität.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studiocanal",
+        "rialto",
+        "ebert"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Kaminski täuscht vor der Einschleusung seinen eigenen Tod vor.",
+      "question": "Wie trennt Kaminski (Arnold Schwarzenegger) in „Der City Hai“ seine bisherige Existenz von seinem Undercovereinsatz?",
+      "answers": [
+        "Er täuscht seinen Tod bei einer Explosion vor.",
+        "Er lässt sich öffentlich zu einer Gefängnisstrafe verurteilen.",
+        "Er beantragt einen offiziellen Polizeiaustausch nach Kanada.",
+        "Er nimmt an einem behördlichen Zeugenschutzprogramm teil."
+      ],
+      "short": "Er inszeniert seinen Tod.",
+      "context": "Kaminski (Arnold Schwarzenegger) soll für die Gangster als Mann ohne Verbindung zur Polizei erscheinen. Eine Explosion liefert die Deckung für sein Verschwinden. Danach versucht er, sich als krimineller Neuzugang durchzusetzen. Die Tarnung ermöglicht den Auftrag und macht ihn zugleich von den eigenen Kontakten außerhalb der Organisation abhängig.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eine fingierte Bombendrohung ermöglicht den Diebstahl beschlagnahmter Beute aus einer Polizeistation.",
+      "question": "Welche List schlägt Kaminski (Arnold Schwarzenegger) in „Der City Hai“ vor, um beschlagnahmtes Geld und Drogen zurückzuholen?",
+      "answers": [
+        "Eine Bombendrohung räumt das Polizeigebäude für verkleidete Täter.",
+        "Ein gefälschter Gerichtsbeschluss erlaubt eine Abholung beim Richter.",
+        "Ein inszenierter Banküberfall lenkt den gesamten Polizeischutz ab.",
+        "Ein falsches Geständnis veranlasst die Vernichtung der Beweismittel."
+      ],
+      "short": "Die Täter nutzen eine Bombendrohung und die Tarnung als Entschärfungsteam.",
+      "context": "Patrovita (Sam Wanamaker) will seine beschlagnahmte Beute zurück. Die scheinbar verrückte Forderung wird durch Kaminskis (Arnold Schwarzenegger) Vorschlag durchführbar: Das Gebäude wird evakuiert, während als Spezialisten verkleidete Männer eindringen. Der Erfolg verschafft dem eingeschleusten Ermittler weiteres Vertrauen im Syndikat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Strafverfolger Baxter ist selbst die undichte Stelle im Vorgehen gegen Patrovita.",
+      "question": "Wer erweist sich in „Der City Hai“ als korrupter Informant der Mafia innerhalb der Strafverfolgung?",
+      "answers": [
+        "Marvin Baxter (Joe Regalbuto)",
+        "Harry Shannon (Darren McGavin)",
+        "Mark Kaminski (Arnold Schwarzenegger)",
+        "Detective Baker (Ed Lauter)"
+      ],
+      "short": "Der Staatsanwalt Baxter arbeitet mit der Mafia zusammen.",
+      "context": "Baxter (Joe Regalbuto) hatte Kaminski (Arnold Schwarzenegger) einst zum Abschied vom FBI gezwungen. Nun schützt sein offizielles Auftreten eine Verbindung zu Patrovita (Sam Wanamaker). Die Hoffnung auf Rehabilitation führt somit ausgerechnet in ein Verfahren, dessen Strafverfolger selbst zum kriminellen Netzwerk gehört.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Kaminski verbindet die Bitte um eine Patenschaft mit Shannons körperlicher Rehabilitation.",
+      "question": "Womit motiviert Kaminski (Arnold Schwarzenegger) den verletzten Shannon (Darren McGavin) am Ende von „Der City Hai“ zur Therapie?",
+      "answers": [
+        "Mit der Bitte um die Patenschaft für sein Kind",
+        "Mit der Aussicht auf einen gemeinsamen Angelurlaub",
+        "Mit dem Angebot eines Zuhauses bei seiner Familie",
+        "Mit einer geplanten Versöhnung mit seiner Familie"
+      ],
+      "short": "Die Aussicht auf die Patenschaft gibt Shannon einen persönlichen Anreiz.",
+      "context": "Shannon (Darren McGavin) hat den Angriff überlebt, bleibt aber schwer verletzt. Kaminski (Arnold Schwarzenegger) kehrt zu seiner Frau und zum FBI zurück. Seine Bitte um die Patenschaft richtet den Blick des Freundes ebenfalls auf eine Zukunft nach dem Racheauftrag. Der Abschluss wechselt damit von Vergeltung zu familiärer Bindung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Der City Hai erschien 1986.",
+      "question": "In welchem Jahr erschien „Der City Hai“ mit Arnold Schwarzenegger erstmals?",
+      "answers": [
+        "1986",
+        "1981",
+        "1983",
+        "1990"
+      ],
+      "short": "Der Film erschien 1986.",
+      "context": "Nur zwei Wochen vor dem US-Start von „Der City Hai“ war 1986 Sylvester Stallones „Die City-Cobra“ angelaufen. Beide Filme stellten einen besonders durchsetzungsstarken Polizeimann ins Zentrum. Die nahe Veröffentlichung macht die damalige Konkurrenz zweier Actionstars greifbar, während Kaminskis Geschichte den Weg der verdeckten Einschleusung wählt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cobra",
+        "rialto"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Irvin inszenierte Der City Hai.",
+      "question": "Wer führte bei „Der City Hai“ mit Arnold Schwarzenegger Regie?",
+      "answers": [
+        "John Irvin",
+        "John McTiernan",
+        "Walter Hill",
+        "Joseph Zito"
+      ],
+      "short": "John Irvin führte Regie.",
+      "context": "Die Produktion verband Außenaufnahmen in Chicago mit Studioarbeit in Wilmington, North Carolina. Bekannte Stadträume und eigens organisierte Innenräume ergänzen sich dadurch zur Gangsterwelt. John Irvins Film nutzt diese Umgebung für eine Geschichte, die von der heimlichen Annäherung an die Mafia zur offenen bewaffneten Konfrontation führt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "studiocanal",
+        "rialto"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

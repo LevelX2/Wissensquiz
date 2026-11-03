@@ -1,0 +1,249 @@
+{
+  "id": "ACTION-005",
+  "film_title_de": "Die City-Cobra",
+  "film_title_original": "Cobra",
+  "film_year": 1986,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Markanter Stallone-Polizeifilm mit wiedererkennbarem Erscheinungsbild, dessen Nebenfiguren und politische Mordgruppe weniger allgemein bekannt sind.",
+  "selection_reason": "Überhöhte Polizeiaction mit Zeugenschutz, organisierter Gewalt und einem Verrat im eigenen Schutzapparat.",
+  "directors": [
+    "George P. Cosmatos"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1986, US-Start 23. Mai nach AFI. Kein früheres Festivaljahr belegt.",
+  "director_note": "George P. Cosmatos ist der offizielle Hauptregisseur; Stallone hat den Drehbuchcredit, der nicht als offizielle Mitregie behandelt wird.",
+  "country_note": "USA nach AFI und Filmdienst. Abweichungen der Handelsmetadaten sind dokumentiert: Apple nennt USA/Großbritannien, IMDb USA/Israel. Keine zusätzliche Länderzuordnung allein aus Golan/Globus’ Herkunft.",
+  "series": null,
+  "series_note": "Eigenständiger Film. Eine erwogene Fortsetzung wurde nicht produziert; keine Zugehörigkeit zu Dirty Harry oder Rambo durch gemeinsame Darsteller/Regie.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/57290",
+    "https://en.wikipedia.org/wiki/Cobra_(1986_film)"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/57290",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige History, Credits, Details und Synopsis: Cosmatos, Stallone als Autor/Hauptdarsteller, USA1986, Zeugin, Nancy als Verräterin, Industrieofenfinale und die bewusste Dirty-Harry-Besetzung. Nicht im Wiki abweichendes Schicksal Nancys abgefragt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Cobra_(1986_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung und Cast: Ingrid als Model/Zeugin, Ideologie der Mordgruppe, Nancy im Polizeischutz, Motelüberfall, Flucht ins Werk und Haken/Ofen. Kein gefilmter zweiter Teil. Nancys Todesumstand widerspricht AFI und bleibt außerhalb der Fragen."
+    },
+    "warner": {
+      "url": "https://tv.apple.com/us/movie/cobra/umc.cmc.1m587uum7cv5ev0hxm46cnb6",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Warner-Filmtext und Credits auf Apple: Polizist schützt Zeugin vor kollektiv handelnden Serienmördern, Hauptrollen, Cosmatos und Verbindung zum Rambo-Regisseur. Länderabweichung der Plattform ausdrücklich notiert."
+    },
+    "filmdienst": {
+      "url": "https://www.filmdienst.de/film/details/22518/die-city-cobra",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener deutscher Filmdatensatz: deutscher Titel, 1986USA, George Pan Cosmatos und Stallone/Nielsen; für Szenendetails nicht als Vollquelle behandelt."
+    },
+    "rambo": {
+      "url": "https://www.bfi.org.uk/film/30176e58-39a7-519c-9311-8f1f351a1e4c/rambo-first-blood-part-ii",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindexdatensatz des BFI: Rambo First Blood Part II1985USA, Cosmatos und Stallone; zeitlicher Vergleich im Jahresziel."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Sylvester Stallone verkörpert den Polizisten Marion Cobretti.",
+      "question": "Wer spielt den unnachgiebigen Polizisten Marion Cobretti in „Die City-Cobra“?",
+      "answers": [
+        "Sylvester Stallone",
+        "Arnold Schwarzenegger",
+        "Chuck Norris",
+        "Charles Bronson"
+      ],
+      "short": "Sylvester Stallone spielt Marion Cobretti.",
+      "context": "Schon bei einer Geiselnahme wird Marion Cobretti (Sylvester Stallone) als Mann für besonders gewaltsame Einsätze eingeführt. Sein Vorgehen bringt ihn mit Kollegen und Vorgesetzten in Konflikt. Stallone spielt einen Polizisten, dessen persönliche Durchsetzungskraft den Schutz einer Zeugin übernehmen soll, während eine Gruppe von Mördern die Stadt bedroht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "warner",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Brigitte Nielsen spielt die bedrohte Zeugin Ingrid.",
+      "question": "Wer spielt in „Die City-Cobra“ das Model Ingrid, das nach einer beobachteten Gewalttat unter Polizeischutz gerät?",
+      "answers": [
+        "Brigitte Nielsen",
+        "Kathleen Turner",
+        "Kelly McGillis",
+        "Daryl Hannah"
+      ],
+      "short": "Brigitte Nielsen spielt Ingrid.",
+      "context": "Ingrid (Brigitte Nielsen) wird zur wichtigen Zeugin und damit selbst zur Zielperson. Die Polizeiarbeit verlagert sich vom bloßen Aufspüren eines Täters auf ihren unmittelbaren Schutz. Brigitte Nielsen bildet so das Zentrum der Verfolgungsgeschichte: Die Angreifer wollen verhindern, dass ihre Beobachtung zur Identifizierung führt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "warner",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Hinter den scheinbaren Serienmorden steht eine Gruppe, die vermeintlich Schwache auslöschen will.",
+      "question": "Welche Überzeugung verbindet die Mordgruppe in „Die City-Cobra“?",
+      "answers": [
+        "Die als schwach angesehenen Menschen sollen beseitigt werden.",
+        "Alle Mitglieder einer bestimmten Verbrecherfamilie sollen bestraft werden.",
+        "Die Polizei soll durch Lösegeldforderungen finanziell erpresst werden.",
+        "Politische Gefangene sollen durch Geiseltausch freikommen."
+      ],
+      "short": "Die Täter rechtfertigen ihre Gewalt mit einer Auslese der vermeintlich Starken.",
+      "context": "Die Gewalt erscheint zunächst als Folge einzelner brutaler Verbrechen. Tatsächlich steht hinter dem Night Slasher (Brian Thompson) eine organisierte Gruppe. Ihre Angehörigen geben sich selbst das Recht, über andere Menschen zu entscheiden. Cobretti (Sylvester Stallone) muss deshalb mehr als einen isolierten Täter bekämpfen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "warner"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die eingeschleuste Polizeibegleiterin Nancy verrät die Schutzorte.",
+      "question": "Warum finden die Täter in „Die City-Cobra“ die Zeugin trotz ihres Polizeischutzes wieder?",
+      "answers": [
+        "Nancy Stalk verrät als Teil der Schutzgruppe die Aufenthaltsorte.",
+        "Ingrid gibt ihrer Agentur unwissentlich öffentlich zugängliche Reisepläne.",
+        "Der Night Slasher verfolgt einen im Krankenhaus eingesetzten Funksender.",
+        "Ein Reporter verkauft die aus einer Akte gestohlene Moteladresse."
+      ],
+      "short": "Die Täter erhalten Hilfe aus der Schutzgruppe.",
+      "context": "Nancy Stalk (Lee Garlington) begleitet die Polizisten und Ingrid (Brigitte Nielsen). Nach außen gehört sie zu deren Sicherung, tatsächlich informiert sie die Angreifer. Auch die Verlegung aus der Stadt bietet dadurch keine Sicherheit. Der Überfall auf das Motel führt den Schutzauftrag in eine offene Belagerung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Cobretti nutzt im Schlusskampf einen Förderhaken und den Industrieofen gegen den Night Slasher.",
+      "question": "Wie endet der Zweikampf zwischen Cobretti (Sylvester Stallone) und dem Night Slasher (Brian Thompson) in „Die City-Cobra“?",
+      "answers": [
+        "Ein Förderhaken zieht den Mörder in einen Industrieofen.",
+        "Ein einstürzender Laufsteg begräbt den Mörder unter Trümmern.",
+        "Der Mörder stürzt bei der Flucht in einen Abwasserschacht.",
+        "Eine von ihm selbst gelegte Sprengladung zerstört seinen Fluchtwagen."
+      ],
+      "short": "Cobretti hängt den Gegner an den Haken einer Förderanlage.",
+      "context": "Nach der Flucht vom Motel verlagert sich der Kampf in ein Industriewerk. Cobretti (Sylvester Stallone) muss dort ohne seine zuvor verlorene Schusswaffe gegen den Night Slasher (Brian Thompson) bestehen. Die Anlage selbst entscheidet den Kampf. Der Täter, der eben noch ein Gerichtsverfahren für sich verlangte, kommt im Ofen um.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Reni Santoni und Andrew Robinson verbinden die Besetzung bewusst mit Dirty Harry.",
+      "question": "Welche ältere Polizeifilm-Besetzung wird durch Reni Santoni und Andrew Robinson in „Die City-Cobra“ bewusst aufgegriffen?",
+      "answers": [
+        "Dirty Harry",
+        "French Connection",
+        "Bullitt",
+        "Serpico"
+      ],
+      "short": "Beide Darsteller hatten markante Rollen in Dirty Harry.",
+      "context": "Reni Santoni spielte dort den Partner Chico und übernimmt hier Gonzales, Cobrettis Kollegen. Andrew Robinson wechselte vom Scorpio-Killer zu Detective Monte. Die beiden Besetzungen lassen die Verbindung zu Clint Eastwoods Polizeifilm sichtbar werden, obwohl die Figuren und die Handlung von „Die City-Cobra“ eigenständig sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Die City-Cobra wurde 1986 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Die City-Cobra“ mit Sylvester Stallone erstmals?",
+      "answers": [
+        "1986",
+        "1980",
+        "1983",
+        "1990"
+      ],
+      "short": "Die City-Cobra erschien 1986.",
+      "context": "Ein Jahr zuvor hatte Stallone unter demselben Regisseur in „Rambo: First Blood Part II“ gespielt. Auf die Dschungelmission von 1985 folgte 1986 der Schutzauftrag im amerikanischen Polizeimilieu. Die Zusammenarbeit blieb erhalten, während Uniform, Schauplatz und Gegnerschaft eine andere Actionfigur hervorbrachten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "rambo",
+        "warner"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "George P. Cosmatos führte die offizielle Hauptregie.",
+      "question": "Wer führte bei „Die City-Cobra“ mit Sylvester Stallone und Brigitte Nielsen Regie?",
+      "answers": [
+        "George P. Cosmatos",
+        "Ted Kotcheff",
+        "Richard Crenna",
+        "Peter Hyams"
+      ],
+      "short": "George P. Cosmatos führte Regie.",
+      "context": "Cosmatos inszenierte Stallone hier in einer von diesem selbst geschriebenen Hauptrolle. Der Filmautor und der Regisseur haben unterschiedliche Credits. Der Supermarktauftakt, der gefährdete Polizeischutz und die Verfolgung bis zum Industriewerk ordnen die Geschichte um eine Figur an, deren Methoden fortwährend mit institutionellen Grenzen kollidieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "warner",
+        "filmdienst"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -11859,6 +11859,397 @@
       "reference_question_id": "G150-20261103-HORROR-009-L1",
       "year_question_id": "G150-20261103-HORROR-009-Y",
       "director_question_id": "G150-20261103-HORROR-009-D"
+    },
+    {
+      "id": "ACTION-004",
+      "film_title_de": "Der City Hai",
+      "film_title_original": "Raw Deal",
+      "film_year": 1986,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter Schwarzenegger-Titel aus seiner frühen Actionphase, dessen konkrete Undercovergeschichte weniger präsent ist als Terminator oder Predator.",
+      "directors": [
+        "John Irvin"
+      ],
+      "production_countries": [
+        "USA",
+        "Niederlande"
+      ],
+      "release_note": "1986, US-Start 6. Juni nach AFI, deutscher Start 21. August nach Studiocanal. Kein früheres öffentliches Veröffentlichungsjahr belegt.",
+      "director_note": "John Irvin ist der alleinige Hauptregisseur. Glenn Randall wird bei AFI ausdrücklich für die zweite Einheit geführt. Die Studiocanal-Überschrift Regie über einer Liste von Darstellern ist ein Seitenlabel-Fehler, keine Mitregie.",
+      "country_note": "USA/Niederlande nach den beiden Rechte-/Verleihseiten Studiocanal und Rialto. AFI und Wikipedia führen nur USA; die engere Angabe wird gegenüber den aktuellen Verleihangaben dokumentiert.",
+      "series": null,
+      "series_note": "Eigenständiger Film; weder Fortsetzung der Conan-Filme noch von Commando. Die identische englische Titelgebung eines älteren Film noir begründet ebenfalls keine Folge.",
+      "series_sources": [
+        "https://www.rialtopictures.com/catalogue/raw-deal",
+        "https://catalog.afi.com/Film/57456-RAW-DEAL"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/57456-RAW-DEAL",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene vollständige History/Credits/Details und Synopsis: 1986, John Irvin, zweite Einheit Randall, Darsteller, Bombendrohung/Beute aus Polizeigewahrsam, Baxters Korruption und tatsächliche Drehorte. Einzelne AFI-Verschreiber Max statt Marvin Baxter und Brennan statt Brenner nicht als eigene Fakten verwendet."
+        },
+        {
+          "key": "studiocanal",
+          "url": "https://filme.studiocanal.de/movie/raw-deal",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständig gelesene Rechteinhaberseite: deutscher Titel, Regie Irvin, USA/Niederlande, Chicago-Mafia, FBI-Vergangenheit und inoffizieller Einsatz; nicht Darstellerliste unter fehlerhaftem Regielabel als Regie behandelt."
+        },
+        {
+          "key": "rialto",
+          "url": "https://www.rialtopictures.com/catalogue/raw-deal",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständig gelesene Verleihseite: USA/Niederlande1986, Irvin, Cast, Vertrauensauftrag eines FBI-Mannes nach Tod seines Sohnes, Außenseiterstatus des Sheriffs."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/raw-deal-1986",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Suchindextext der zeitgenössischen Kritik tatsächlich gelesen: ausgeschiedener FBI-Agent als Sheriff, vorgetäuschter Tod und Gangstertarnung, Monique, Gewalt und Credits. Eberts Verwechslung des Hauptbosses mit Robert Davi nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Raw_Deal_(1986_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene Handlung einschließlich Schlussteil und Rollen: Shannon als verwundeter Freund, Bitte um Patenschaft und Physiotherapie am Ende; Komplott, Tarnung und korrupter Baxter mit AFI abgeglichen."
+        },
+        {
+          "key": "cobra",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/57290",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene Credits und Details des Vergleichsfilms: Stallone, Die City-Cobra, US-Start 23. Mai 1986, damit zwei Wochen vor Raw Deal."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-004-L1",
+      "year_question_id": "G150-20261103-ACTION-004-Y",
+      "director_question_id": "G150-20261103-ACTION-004-D"
+    },
+    {
+      "id": "ACTION-005",
+      "film_title_de": "Die City-Cobra",
+      "film_title_original": "Cobra",
+      "film_year": 1986,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Markanter Stallone-Polizeifilm mit wiedererkennbarem Erscheinungsbild, dessen Nebenfiguren und politische Mordgruppe weniger allgemein bekannt sind.",
+      "directors": [
+        "George P. Cosmatos"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1986, US-Start 23. Mai nach AFI. Kein früheres Festivaljahr belegt.",
+      "director_note": "George P. Cosmatos ist der offizielle Hauptregisseur; Stallone hat den Drehbuchcredit, der nicht als offizielle Mitregie behandelt wird.",
+      "country_note": "USA nach AFI und Filmdienst. Abweichungen der Handelsmetadaten sind dokumentiert: Apple nennt USA/Großbritannien, IMDb USA/Israel. Keine zusätzliche Länderzuordnung allein aus Golan/Globus’ Herkunft.",
+      "series": null,
+      "series_note": "Eigenständiger Film. Eine erwogene Fortsetzung wurde nicht produziert; keine Zugehörigkeit zu Dirty Harry oder Rambo durch gemeinsame Darsteller/Regie.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/57290",
+        "https://en.wikipedia.org/wiki/Cobra_(1986_film)"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/57290",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene vollständige History, Credits, Details und Synopsis: Cosmatos, Stallone als Autor/Hauptdarsteller, USA1986, Zeugin, Nancy als Verräterin, Industrieofenfinale und die bewusste Dirty-Harry-Besetzung. Nicht im Wiki abweichendes Schicksal Nancys abgefragt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Cobra_(1986_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene Handlung und Cast: Ingrid als Model/Zeugin, Ideologie der Mordgruppe, Nancy im Polizeischutz, Motelüberfall, Flucht ins Werk und Haken/Ofen. Kein gefilmter zweiter Teil. Nancys Todesumstand widerspricht AFI und bleibt außerhalb der Fragen."
+        },
+        {
+          "key": "warner",
+          "url": "https://tv.apple.com/us/movie/cobra/umc.cmc.1m587uum7cv5ev0hxm46cnb6",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Warner-Filmtext und Credits auf Apple: Polizist schützt Zeugin vor kollektiv handelnden Serienmördern, Hauptrollen, Cosmatos und Verbindung zum Rambo-Regisseur. Länderabweichung der Plattform ausdrücklich notiert."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/22518/die-city-cobra",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener deutscher Filmdatensatz: deutscher Titel, 1986USA, George Pan Cosmatos und Stallone/Nielsen; für Szenendetails nicht als Vollquelle behandelt."
+        },
+        {
+          "key": "rambo",
+          "url": "https://www.bfi.org.uk/film/30176e58-39a7-519c-9311-8f1f351a1e4c/rambo-first-blood-part-ii",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener vollständiger Suchindexdatensatz des BFI: Rambo First Blood Part II1985USA, Cosmatos und Stallone; zeitlicher Vergleich im Jahresziel."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-005-L1",
+      "year_question_id": "G150-20261103-ACTION-005-Y",
+      "director_question_id": "G150-20261103-ACTION-005-D"
+    },
+    {
+      "id": "ACTION-006",
+      "film_title_de": "Tango & Cash",
+      "film_title_original": "Tango & Cash",
+      "film_year": 1989,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Zusammenführung zweier Actionstars in einer oft wiederholten Polizeikomödie; die genaue Intrige und Produktionsgeschichte sind weniger geläufig.",
+      "directors": [
+        "Andrei Konchalovsky"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "1989, US-Start 22. Dezember laut AFI und zeitgenössischer Kritik. Kein früheres öffentliches Veröffentlichungsjahr gefunden.",
+      "director_note": "Vollständiger offizieller Hauptregiecredit: Andrei Konchalovsky. AFI-History bestätigt ausdrücklich, dass nur er im Film als Regisseur genannt wird; Albert Magnoli vollendete Dreharbeiten ohne Hauptcredit. Peter MacDonald steht im AFI-Seitenkopf zusätzlich, wird im ausführlichen Credit aber eindeutig als Regisseur der zweiten Einheit geführt. Beide nicht zu offiziellen Hauptregisseuren umgedeutet.",
+      "country_note": "USA nach AFI und FSK.",
+      "series": null,
+      "series_note": "Eigenständige Buddy-Actionkomödie mit abgeschlossenem Fall. Gemeinsame Stars oder Bezüge auf Rambo und andere Polizeifilme begründen keine nummerierte Folge.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/58307",
+        "https://en.wikipedia.org/wiki/Tango_%26_Cash"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/58307",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene gesamte History, vollständige Regie-/Besetzungscredits, Details und Synopsis: offizielle Hauptregie gegenüber Magnoli/MacDonald abgegrenzt, Falschbeschuldigung, Kiki, Verkleidungsflucht, Skinners echte Belastungsaufnahme, Owen-Fahrzeug und Schlusskampf. 1989USA."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tango_%26_Cash",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene Handlung/Besetzung: rivalisierende Polizisten, FBI-Mordfalle, falsches Tonband, Kiki als Schwester und Verkleidungsflucht, Beweisbeschaffung; mit AFI abgeglichen."
+        },
+        {
+          "key": "hicks",
+          "url": "https://www.deseret.com/1989/12/28/20088770/film-review-tango-cash/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständig gelesene zeitgenössische Chris-Hicks-Kritik: gegensätzlicher Kleidungs-/Lebensstil, Stallone/Russell, Schuldeingeständnis unter versprochener milder Haft und tatsächliches Hochsicherheitsgefängnis, Owen als Waffenentwickler und gepanzertes Fahrzeug."
+        },
+        {
+          "key": "rt",
+          "url": "https://www.rottentomatoes.com/m/tango_and_cash",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene vollständige redaktionelle Synopsis im Suchindex: Perrets fingierter Mord an einem FBI-Agenten, Gefängnis und Flucht, Kiki als Tangos Schwester; Nutzerkommentare nicht als Beleg verwendet."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=6395783dc8a72800161fbf2f&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Suchindexeintrag: deutscher Titel Tango & Cash, USA1989."
+        },
+        {
+          "key": "runaway",
+          "url": "https://www.bfi.org.uk/lists/100-essential-thrillers",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener vollständiger Suchindexabschnitt Runaway Train: Werk1985, Konchalovsky als Regisseur und Flucht von Gefangenen; für den zeitlichen Vergleich zum Film1989."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-006-L1",
+      "year_question_id": "G150-20261103-ACTION-006-Y",
+      "director_question_id": "G150-20261103-ACTION-006-D"
+    },
+    {
+      "id": "ACTION-007",
+      "film_title_de": "The Specialist",
+      "film_title_original": "The Specialist",
+      "film_year": 1994,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Prominentes Starvehikel mit Stallone, Sharon Stone und James Woods; die verschachtelten Loyalitäten sind weniger geläufig als Besetzung und Titel.",
+      "directors": [
+        "Luis Llosa"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "1994, regulärer US-Start im Oktober nach AFI/Box Office Mojo. American Humane führt einen früheren Augusttermin ohne nähere Premierenangabe; beide liegen im selben Erstjahr. Keine Behauptung, der US-Oktoberstart sei die nachgewiesene Weltpremiere.",
+      "director_note": "Luis Llosa allein nach AFI und Filmdienst; Alexandra Seros hat den Drehbuchcredit. Verworfenes Regiecasting nicht als ausgeführte Mitregie behandelt.",
+      "country_note": "USA nach AFI und Filmdienst. Einzelne deutsche Sekundärseiten ergänzen Peru; Llosa ist Peruaner, seine Herkunft allein begründet keine peruanische Produktionsbeteiligung.",
+      "series": null,
+      "series_note": "Eigenständiger Film, lose angeregt durch eine Romanserie. Daraus folgt keine nummerierte Filmfolge.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/60240-THE-SPECIALIST",
+        "https://en.wikipedia.org/wiki/The_Specialist"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/60240-THE-SPECIALIST",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene vollständige Credits und Details: Hauptrollen/Regie, Seros, John Barry, USA1994, US-Start und Romanserienanregung. Keine AFI-Synopsis vorhanden und deshalb keine Szenen auf AFI gestützt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Specialist",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene vollständige Handlung: Kind im Zielwagen, Bruch Ray/Ned, May als erzwungener Lockvogel, Familie Leon und Schlussanschlag mit Foto-Medaillon. Zeitangaben der Exposition nicht als historischer Sachverhalt behandelt."
+        },
+        {
+          "key": "humane",
+          "url": "https://www.americanhumane.org/production/specialist-the/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständig gelesener Produktions-/Tieraktionsbericht: moralischer Konflikt der ehemaligen CIA-Partner, Elternrache; lebende Barrakudas in getrennten Aufnahmen, leerer Bruchtank und Fischattrappen bei Explosion, getrennte Katzen-/Mausaufnahmen und Flucht mit Katze. Keine tatsächliche Tierverletzung aus Filmillusion abgeleitet."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/the-specialist-1994",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen sichtbaren Suchindextext der zeitgenössischen Ebert-Kritik gelesen: CIA-Sprengstoffexperten, Ned bei den Leons, May als Rächerin/Telefonkontakt, Rolle der explosiven Effekte und John-Barry-artiger Noir-Musikgestaltung; konkrete Credits Llosa/Stone/Woods/Stallone."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/62544/the-specialist",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener ausführlicher Suchindexdatensatz: deutscher Titel, USA1994, Regie und Credits sowie Ned als Polizeiberater/Mafia-Sicherheitsmann. Abweichende Jahreszahl1994 der CIA-Prologbeschreibung nicht gegen Wiki1984 in eine Frage übernommen."
+        },
+        {
+          "key": "sniper",
+          "url": "https://catalog.afi.com/Film/59665-SNIPER",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener vollständiger Suchindexabschnitt: Sniper1993, Hauptregie Luis Llosa und Tom Berenger/Billy Zane; zeitlicher Bezug im Jahresziel."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-007-L1",
+      "year_question_id": "G150-20261103-ACTION-007-Y",
+      "director_question_id": "G150-20261103-ACTION-007-D"
+    },
+    {
+      "id": "ACTION-008",
+      "film_title_de": "Assassins – Die Killer",
+      "film_title_original": "Assassins",
+      "film_year": 1995,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Zusammentreffen von Stallone, Banderas und Julianne Moore; Rivalität und digitale Handlung geben der Fassung ihr eigenes Profil.",
+      "directors": [
+        "Richard Donner"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "1995, US-Start 6. Oktober nach AFI und American Humane; keine frühere öffentliche Veröffentlichung belegt.",
+      "director_note": "Richard Donner allein; Lana Wachowski, Lilly Wachowski und Brian Helgeland als Drehbuchautoren von der Regie getrennt.",
+      "country_note": "USA nach AFI. Puerto Rico als Handlungs-/Drehort nicht als weiterer Produktionsstaat geführt.",
+      "series": null,
+      "series_note": "Eigenständiger Film mit abgeschlossenem Konflikt. Weder Bestandteil einer anderen Stallone-Filmfolge noch von Matrix durch die gemeinsamen Autoren.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/55724-ASSASSINS",
+        "https://en.wikipedia.org/wiki/Assassins_(1995_film)"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/55724-ASSASSINS",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene vollständige Credits/Details: Richard Donner, Stallone/Banderas/Moore/Davydov, Drehbuchteam, Zsigmond, Mancina, USA1995 und US-Start. Keine AFI-Handlung vorhanden; Szenen nicht darauf gestützt."
+        },
+        {
+          "key": "humane",
+          "url": "https://www.americanhumane.org/production/assassins/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständig gelesener Produktionsbericht: Rivalität und gemeinsame Laptop-Aufträge, Electra als Überwachungsexpertin, Diskettenverkauf, Verschonung der Zielperson, Kofferbombe und zurückbehaltenes Original. Katzen-/Hund-/Taubenszenen als tatsächliche Produktionslektüre, ohne zusätzliche Tierfrage."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Assassins_(1995_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene gesamte Handlung und Cast: Electra, Rath/Bain, Geldübergabe, Bank und verlassenes Hotel in Puerto Rico, Nicolais überlebter Anschlag durch Schutzweste, zeitweilige Allianz und Rückwärtsschuss über Sonnenbrillenspiegelung."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/assassins-1995",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiger sichtbarer Suchindextext der zeitgenössischen Kritik gelesen: Laptops, Beerdigungsmord und Taxibegegnung, Kofferbombe, Bank/Schützenposition und Besetzung; Einwände des Kritikers nicht als Plotfakten übernommen."
+        },
+        {
+          "key": "matrix",
+          "url": "https://catalog.afi.com/Film/61230-THE-MATRIX",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener vollständiger Suchindexdatensatz: Matrix1999, Lana und Lilly Wachowski als Autorinnen und Regisseurinnen; zeitlicher Bezug zum früheren Drehbuchcredit1995."
+        },
+        {
+          "key": "titel",
+          "url": "https://de.wikipedia.org/wiki/Assassins_%E2%80%93_Die_Killer",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Suchindexeintrag für deutschen Titel, Jahr1995 und Richard Donner; keine zusätzlichen Einzelheiten als voll gelesen ausgegeben."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-008-L1",
+      "year_question_id": "G150-20261103-ACTION-008-Y",
+      "director_question_id": "G150-20261103-ACTION-008-D"
+    },
+    {
+      "id": "ACTION-009",
+      "film_title_de": "Daylight",
+      "film_title_original": "Daylight",
+      "film_year": 1996,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit ausgewerteter Stallone-Katastrophenfilm mit leicht erinnerbarer Tunnelsituation; die einzelnen Rettungsschritte sind weniger bekannt.",
+      "directors": [
+        "Rob Cohen"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "1996 nach AFI, Universal-Verleihmetadaten/Kino Lorber und American Humane. US-Start 6. Dezember1996; kein früheres Veröffentlichungsjahr belegt.",
+      "director_note": "Rob Cohen allein; Leslie Bohem schrieb das Drehbuch.",
+      "country_note": "USA nach AFI und Kino Lorber. Der umfangreiche Studiobau in Rom ist als Drehort belegt und wird nicht allein zur italienischen Produktionsbeteiligung umgedeutet.",
+      "series": null,
+      "series_note": "Eigenständiger Katastrophenfilm mit abgeschlossenem Rettungsfall. Keine Fortsetzung anderer Stallone-Filme.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/60129",
+        "https://kinolorber.com/film/daylight-4kuhd"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/60129",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständig gelesene Credits und Details: USA1996, Rob Cohen, Bohem, Hauptbesetzung, Randy Edelman und US-Start. Keine AFI-Synopsis vorhanden; Szenen ausdrücklich auf andere Quellen gestützt."
+        },
+        {
+          "key": "verleih",
+          "url": "https://kinolorber.com/film/daylight-4kuhd",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener vollständiger Suchindextext der aktuellen Verleihseite, direkte Seite403: USA1996, Rob Cohen, Kit als früherer EMS-Chef, Tunnel unter dem Hudson, Explosion, giftige Luft und eindringendes Wasser."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/daylight-1996",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen sichtbaren Suchindextext der zeitgenössischen Kritik gelesen: Unfallflucht in Giftmülltransporter, Holland-Tunnel, früherer Rettungschef, Ventilatoren mit begrenzter Stillstandszeit, Roys riskanter Kletterplan und Ratten als Wegweiser. Physikalische Übertreibungen des Films nicht als sachliche Rettungsanleitung behandelt."
+        },
+        {
+          "key": "humane",
+          "url": "https://www.americanhumane.org/production/daylight/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Produktionsbericht gelesen: Ventilationszugang, Wasser und Unterkühlung, vermisster/geretteter Hund, Ratten verschwinden hinter Kruzifix und Kit öffnet die Mauer, Cinecittà-Tunnelbau mit16Wassertanks. Genau diese Rattenhandlung belegt, die in Wiki-Synopsis fehlt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Daylight_(1996_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene vollständige Handlung und Cast: Roys tödlicher Fehlversuch, Georges schwere Verletzung und Armband, Flucht der Gruppe sowie später separate Rettung Kit/Maddy; genaue Figurendarsteller. Keine Gleichsetzung der fiktiven Katastrophe mit einem dokumentierten realen Ereignis."
+        },
+        {
+          "key": "dragonheart",
+          "url": "https://www.universalpicturesathome.com/movies/dragonheart",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Suchindexdatensatz gelesen: Dragonheart1996, Rob Cohen, Dennis Quaid/Sean Connery und Fantasygeschichte; zweiter zeitlicher Anker im Jahresziel."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-009-L1",
+      "year_question_id": "G150-20261103-ACTION-009-Y",
+      "director_question_id": "G150-20261103-ACTION-009-D"
     }
   ],
   "series_updates": [
