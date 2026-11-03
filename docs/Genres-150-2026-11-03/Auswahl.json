@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 415 Filmfassungen mit 3320 Fragen lokal integriert. 86 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 421 Filmfassungen mit 3368 Fragen lokal integriert. 80 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -3878,10 +3878,11 @@
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Verwechslungen über Begehren und sexuelle Orientierung im Londoner Freundeskreis.",
+      "selection_reason": "Eine selbsternannte Verkupplerin verkennt die eigenen Gefühle; Verwechslung, Freundeskreis und bewusste romantische Filmzitate verbinden mehrere Liebesgeschichten.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-016"
     },
     {
       "candidate_id": "B-117",
@@ -3889,25 +3890,27 @@
       "film_title_original": "He's Just Not That Into You",
       "film_year": 2009,
       "genre": "Rom-Com",
-      "familiarity_level": 2,
+      "familiarity_level": 1,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ensemblekomödie über unterschiedliche Erwartungen an Dating und Verbindlichkeit; Filmjahr prüfen.",
+      "selection_reason": "Mehrere miteinander verbundene Figuren prüfen Deutungen von Verabredungen, Ehe, Treue und Nähe; gegensätzliche Beziehungsmodelle erzeugen die komischen Konflikte.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-017"
     },
     {
       "candidate_id": "B-118",
-      "film_title_de": "How to Lose Friends & Alienate People",
+      "film_title_de": "New York für Anfänger",
       "film_title_original": "How to Lose Friends & Alienate People",
       "film_year": 2008,
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Romantische Medienkomödie über Selbstinszenierung und das Scheitern eines britischen Journalisten in New York.",
+      "selection_reason": "Die Liebesgeschichte zwischen einem ehrgeizigen Journalisten und seiner Kollegin verbindet romantische Entscheidungen mit der satirischen Darstellung von Prominentenberichterstattung.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-018"
     },
     {
       "candidate_id": "B-119",
@@ -3915,12 +3918,13 @@
       "film_title_original": "America's Sweethearts",
       "film_year": 2001,
       "genre": "Rom-Com",
-      "familiarity_level": 3,
+      "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Prominenten-PR und private Gefühle geraten bei der Vermarktung eines Filmstars auseinander.",
+      "selection_reason": "Eine arrangierte Versöhnung für die Presse gerät mit einer tatsächlichen neuen Liebesbeziehung in Konflikt. Die Schwester- und Assistentinnenrolle erweitert den romantischen Dreieckskonflikt um private Abhängigkeit.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-019"
     },
     {
       "candidate_id": "B-120",
@@ -3930,23 +3934,25 @@
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Fernsehproduzentin und jüngerer Schauspieler verbinden romantischen Alterskonflikt und Mediensatire.",
+      "selection_reason": "Die Beziehung einer älteren Fernsehproduzentin zu einem jüngeren Schauspieler verbindet romantischen Alterskonflikt, Mutter-Tochter-Geschichte und Satire auf Jugendbilder im Fernsehen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-020"
     },
     {
       "candidate_id": "B-121",
       "film_title_de": "SMS für Dich",
-      "film_title_original": "SMS für Dich",
+      "film_title_original": "SMS für dich",
       "film_year": 2016,
       "genre": "Rom-Com",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Trauer und eine unbeabsichtigte SMS-Verbindung führen zu einer neuen Beziehung.",
+      "selection_reason": "Die fehlgeleiteten Nachrichten verbinden eine ernsthafte Trauergeschichte mit romantischen Verwicklungen und komisch gezeichneten Freundeskreisen im Berliner Alltag.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-021"
     },
     {
       "candidate_id": "B-122",
