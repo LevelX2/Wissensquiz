@@ -1,0 +1,267 @@
+{
+  "id": "FANTASY-041",
+  "film_title_de": "Die Maske",
+  "film_title_original": "The Mask",
+  "film_year": 1994,
+  "genre": "Fantasy",
+  "categories": [],
+  "familiarity_level": 1,
+  "familiarity_reason": "Sehr bekannte Jim-Carrey-Komödie mit ikonischem grünem Gesicht und weithin wiedererkennbarer Verwandlung.",
+  "selection_reason": "Die übernatürliche Verwandlung durch eine magische Maske setzt in einer real gefilmten Gangsterwelt die physikalischen Regeln von Zeichentrickfilmen in Kraft.",
+  "directors": [
+    "Chuck Russell"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1994. AFI führt reguläre amerikanische Starts am 29. Juli 1994. IMDb nennt die Beverly-Hills-Premiere am 28. Juli; das gelesene originale Russell-Interview berichtet zudem von einer früheren Marktvorführung in Cannes, ohne ein genaues Datum zu nennen. Deshalb keine unbelegte Behauptung, der US-Start sei die erste öffentliche Vorführung überhaupt gewesen.",
+  "director_note": "Chuck Russell ist derselbe Regisseur, den AFI mit dem vollständigen Vornamen Charles Russell führt; ILM und AFI Silver verwenden Chuck Russell. Einzige Hauptregie, kein Regieteam.",
+  "country_note": "AFI Catalog und AFI Silver nennen United States beziehungsweise U.S. ausdrücklich.",
+  "series": {
+    "name": "Die Maske",
+    "position": 1,
+    "note": "Kanonischen bereits vorhandenen Reihennamen des Registers bewahrt. Erster Film vor der eigenständigen Fortführung Son of the Mask (2005), die andere Hauptfiguren verwendet."
+  },
+  "series_note": "Reihenname und Position entsprechen dem bestehenden Registereintrag The Mask|1994. Keine Fortsetzung des gleichnamigen, stofflich unabhängigen Films von 1961.",
+  "series_sources": [
+    "https://www.themoviedb.org/collection/43072",
+    "https://en.wikipedia.org/wiki/The_Mask_(1994_film)"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/60388-THE-MASK?cxt=filmography",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen kurzen Eintrag außerhalb des Kernzeitraums gelesen: Credits, Originaltitel, 1994, Los-Angeles-/New-York-Start 29. Juli und USA. Kein ausführlicher AFI-Handlungsnachweis behauptet."
+    },
+    "afisilver": {
+      "url": "https://silver.afi.com/movies/detail/0100004557/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Programmtext gelesen: Stanley als Bankangestellter, Tina als Nachtclubsängerin, Dorian, Jim Carrey/Cameron Diaz/Peter Greene, Chuck Russell und USA 1994."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/the-mask-1994",
+      "accessed_on": "2026-11-03",
+      "supports": "Roger Eberts vollständige eigene zeitgenössische Filmkritik mit Credits im Suchindex gelesen: Bankangestellter Stanley, Tina im Coco Bongo, heimliche Aufnahmen der Bank, bewegliche praktische Gesichtsmaske, Gestaltung und Hund Milo. Kein fremdes Kritikerurteil Ebert zugeschrieben."
+    },
+    "filmhandlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Mask_(1994_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Handlungs- und Besetzungsabschnitt gelesen, besonders Milos Schlüsselhilfe, Neuman/Loki/Nachtregel, Cuban-Pete-Flucht, Maskenwechsel im Finale und Serie mit Son of the Mask 2005."
+    },
+    "drehbuch": {
+      "url": "https://assets.scriptslug.com/live/pdf/scripts/the-mask-1994.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Durchgehende Cuban-Pete-Sequenz um Szenen 91/92 im vollständigen Suchindexabschnitt gelesen: bewaffnete Polizei wird zum mittanzenden Ensemble; nur diese Sequenz verwendet, abweichende Entwurfsdetails zum Tageszeit-/Schussablauf nicht übernommen."
+    },
+    "ilm": {
+      "url": "https://www.ilm.com/vfx/the-mask/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen offiziellen Projekttext gelesen: Tex-Avery-artige 3D-Animation kombiniert mit Realfilm; Credits Chuck Russell, Scott Squires, Steve Williams, Benton Jew und Clint Goldman."
+    },
+    "russell": {
+      "url": "https://smnbnd.substack.com/p/chuck-russell-the-mask-interview-jim-carrey",
+      "accessed_on": "2026-11-03",
+      "supports": "Simon Blands vollständigen eigenen, 2026 erneut veröffentlichten Interviewbericht mit Chuck Russell und Mike Werb gelesen: Wechsel von gewalttätiger Comicvorlage zur Carrey-Komödie, flexible kleine Prothesen, verworfene grüne Kontaktlinsen, Arbeit mit Hund Max, Marktvorführung Cannes und drei Carrey-Filme 1994. Den früheren Beruf von Diaz nicht erneut als Frage verwendet."
+    },
+    "premierendaten": {
+      "url": "https://www.imdb.com/title/tt0110475/releaseinfo/",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkreten Release-Eintrag im Suchindex gelesen: Beverly Hills, 28. Juli 1994. Nicht mit dem regulären Start am 29. Juli gleichgesetzt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Stanley Ipkiss' alltäglichen Beruf erkennen.",
+      "question": "Welchen Beruf übt Stanley Ipkiss in „Die Maske“ aus, bevor seine nächtlichen Abenteuer beginnen?",
+      "answers": [
+        "Er ist Bankangestellter.",
+        "Er ist Versicherungsdetektiv.",
+        "Er ist Nachtclubkellner.",
+        "Er ist Zeitungsreporter."
+      ],
+      "short": "Stanley arbeitet als Bankangestellter in Edge City.",
+      "context": "Stanley Ipkiss (Jim Carrey) führt zunächst ein unscheinbares Leben als Bankangestellter. Auch sein Freund Charlie Schumaker (Richard Jeni) arbeitet dort. Der Beruf gehört zur bewusst alltäglichen Ausgangslage des Films: Ein zurückhaltender Mann trifft auf einen Gegenstand, der seine unterdrückten Wünsche ungehemmt sichtbar macht. Erst durch die nächtliche Verwandlung erhält er die übersteigerte Bewegungsfreiheit einer lebenden Zeichentrickfigur.",
+      "sources": [
+        "ebert",
+        "afisilver"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Tina Carlyles Auftrittsort und Tätigkeit im Coco Bongo erkennen.",
+      "question": "In welcher Funktion tritt Tina Carlyle im Coco Bongo auf, dem Nachtclub aus „Die Maske“?",
+      "answers": [
+        "Als Sängerin",
+        "Als Croupière",
+        "Als Zauberkünstlerin",
+        "Als Diskjockey"
+      ],
+      "short": "Tina Carlyle ist die Sängerin des Coco Bongo.",
+      "context": "Tina Carlyle (Cameron Diaz) ist mit dem Gangster Dorian Tyrell (Peter Greene) verbunden und tritt im Coco Bongo auf. Stanley Ipkiss (Jim Carrey) begegnet ihr zunächst in der Bank, wo sie heimlich Aufnahmen für einen geplanten Überfall macht. Der Club verbindet damit romantische Fantasie und Kriminalhandlung. Sein schillernder Auftrittsraum kontrastiert mit Stanleys wenig glanzvollem Alltag hinter dem Bankschalter.",
+      "sources": [
+        "ebert",
+        "afisilver"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Funktion der Cuban-Pete-Nummer bei der Flucht vor der Polizei erklären.",
+      "question": "Wie verschafft sich Stanley in „Die Maske“ während der großen „Cuban Pete“-Nummer eine Gelegenheit zur Flucht?",
+      "answers": [
+        "Er zieht die ihn umstellenden Polizisten in seine Tanznummer hinein.",
+        "Er verkleidet die Clubgäste als täuschend echte Polizeieinheit.",
+        "Er lässt die Polizisten einem falschen Bankalarm folgen.",
+        "Er tauscht seinen Platz auf der Straße mit einem Doppelgänger."
+      ],
+      "short": "Die Polizisten lassen sich zum Mittanzen hinreißen.",
+      "context": "Stanley Ipkiss (Jim Carrey) verwandelt eine bedrohliche Polizeiumstellung in ein absurdes Straßenmusical. Aus bewaffneten Verfolgern wird zeitweilig eine mittanzende Formation. Die Nummer nutzt also genau jene Macht über Körper und Umgebung, die der Film aus der Zeichentrickwelt übernimmt. Sie bleibt zugleich Teil der Handlung: Stanley gewinnt Bewegungsraum, während Lieutenant Kellaway (Peter Riegert) die Kontrolle über seinen Einsatz verliert.",
+      "sources": [
+        "drehbuch",
+        "filmhandlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Milos konkrete Hilfe bei Stanleys Ausbruch aus der Zelle kennen.",
+      "question": "Wie hilft Hund Milo seinem Besitzer Stanley in „Die Maske“, aus der Polizeizelle zu entkommen?",
+      "answers": [
+        "Er beschafft den Schlüssel des Wachmanns.",
+        "Er zerbeißt das Schloss der Zellentür.",
+        "Er öffnet von außen den Lüftungsschacht.",
+        "Er bringt Tina das Geständnis des Gangsters."
+      ],
+      "short": "Milo holt den Schlüssel und ermöglicht Stanley so den Ausbruch.",
+      "context": "Stanley Ipkiss (Jim Carrey) kann sich in Haft zunächst nicht durch eine Verwandlung befreien. Sein Hund Milo übernimmt deshalb eine praktische Rettungsaufgabe und holt den benötigten Schlüssel. Die Beziehung zum Tier ist mehr als ein beiläufiger Gag: Milo steht seinem Besitzer auch dann bei, wenn dessen übernatürliche Möglichkeiten gerade fehlen. Später gerät der Hund selbst mit der magischen Maske in Kontakt.",
+      "sources": [
+        "filmhandlung",
+        "russell"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Loki-Bezug als Erklärung für die nächtliche Wirksamkeit der Maske kennen.",
+      "question": "Mit welchem Gott bringt Stanley in „Die Maske“ das geheimnisvolle Fundstück und seine nächtliche Wirksamkeit in Verbindung?",
+      "answers": [
+        "Mit Loki",
+        "Mit Thor",
+        "Mit Odin",
+        "Mit Tyr"
+      ],
+      "short": "Stanley deutet die Maske im Zusammenhang mit Loki.",
+      "context": "Beim Gespräch mit Dr. Arthur Neuman (Ben Stein) sucht Stanley Ipkiss (Jim Carrey) eine Erklärung für seine Erfahrungen. Die Darstellung Lokis und dessen Verbindung zur Nacht liefern ihm einen Ansatz: Am Tag lässt sich die Wirkung nicht einfach wiederholen. Neuman betrachtet das Thema dagegen zunächst als psychologische Frage. Sein Buch The Masks We Wear beschäftigt sich mit den Rollen, hinter denen Menschen ihr eigentliches Wesen verbergen.",
+      "sources": [
+        "filmhandlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "ILMs Verbindung von Tex-Avery-Zeichentricklogik und 3D-Realfilmeffekten erkennen.",
+      "question": "An welcher Animationsästhetik orientierte sich ILM bei den übertriebenen Verformungen in „Die Maske“ besonders?",
+      "answers": [
+        "An den elastischen Gags der Tex-Avery-Cartoons",
+        "An den kantigen Bewegungen früher Scherenschnittfilme",
+        "An den fließenden Farbflächen abstrakter Sandanimation",
+        "An den reduzierten Bewegungszyklen früher Fernseh-Anime"
+      ],
+      "short": "ILM übertrug die elastische Übertreibung von Tex-Avery-Cartoons in den Realfilm.",
+      "context": "Die Effektarbeit verbindet Jim Carreys körperliche Komik mit dreidimensional animierten Übertreibungen. Augen, Gliedmaßen und Bewegungen können dabei jene Grenzen überschreiten, die für einen realen Körper gelten. Industrial Light & Magic beschreibt diesen Schritt ausdrücklich als Übertragung einer Tex-Avery-artigen Zeichentrickästhetik in einen Realfilm. Daneben bleiben praktische Prothesen wichtig: Das gewöhnliche grüne Gesicht sollte Carreys eigene Mimik weiterhin durchlassen.",
+      "sources": [
+        "ilm",
+        "russell"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstjahr des Films innerhalb von Carreys drei großen Kinokomödien desselben Jahres kennen.",
+      "question": "In welchem Jahr erschien „Die Maske“ erstmals?",
+      "answers": [
+        "1994",
+        "1991",
+        "1997",
+        "2000"
+      ],
+      "short": "„Die Maske“ stammt aus dem Jahr 1994.",
+      "context": "1994 erschienen auch Ace Ventura und Dumm und Dümmer mit Jim Carrey. Die Maske lag innerhalb dieses außergewöhnlichen Kinojahres zwischen den beiden anderen Komödien. Der reguläre amerikanische Start erfolgte am 29. Juli. Chuck Russell beschreibt den Unterschied der Erfolge rückblickend so: Während Ace Ventura Carrey im amerikanischen Publikum stark bekannt machte, trug Die Maske seine Komik besonders weit über diese Grenzen hinaus.",
+      "sources": [
+        "afi",
+        "russell"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Chuck Russell als Regisseur und seine Entscheidung für die komische Adaption erkennen.",
+      "question": "Wer führte bei „Die Maske“ mit Jim Carrey Regie?",
+      "answers": [
+        "Chuck Russell",
+        "Tom Shadyac",
+        "Peter Farrelly",
+        "Stephen Herek"
+      ],
+      "short": "Chuck Russell inszenierte „Die Maske“.",
+      "context": "Chuck Russell, auch unter Charles Russell geführt, veränderte die Tonlage der gewalttätigeren Comicvorlage gemeinsam mit Drehbuchautor Mike Werb. Er hatte Jim Carreys Bühnenkomik gesehen und wollte dessen körperliches Spiel zum Mittelpunkt machen. Daraus entstand der Kontrast zwischen dem zurückhaltenden Stanley Ipkiss (Jim Carrey) und seinem hemmungslosen Alter Ego. Die Entscheidung für Komik ging damit der konkreten Ausarbeitung vieler spektakulärer Effekte voraus.",
+      "sources": [
+        "russell",
+        "afi",
+        "ilm"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

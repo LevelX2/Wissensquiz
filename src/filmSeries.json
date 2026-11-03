@@ -13255,10 +13255,11 @@
       "series": {
         "name": "Die Maske",
         "position": 1,
-        "note": "Reihenfolge der veröffentlichten Filme dieser Filmreihe."
+        "note": "Kanonischen bereits vorhandenen Reihennamen des Registers bewahrt. Erster Film vor der eigenständigen Fortführung Son of the Mask (2005), die andere Hauptfiguren verwendet."
       },
       "sources": [
-        "https://www.themoviedb.org/collection/43072"
+        "https://www.themoviedb.org/collection/43072",
+        "https://en.wikipedia.org/wiki/The_Mask_(1994_film)"
       ]
     },
     "The Master|2012": {
@@ -17911,6 +17912,46 @@
       "sources": [
         "https://columbiachronicle.com/archives/3ec8c7c5-7c00-5b64-97b4-26536f3371e2/",
         "https://en.wikipedia.org/wiki/Meet_Joe_Black"
+      ]
+    },
+    "Penelope|2006": {
+      "series": null,
+      "sources": [
+        "https://www.kviff.com/en/programme/film/11/3407-penelope",
+        "https://www.moviemaker.com/mark-palansky-penelope-christina-ricci-20080229/"
+      ]
+    },
+    "Scott Pilgrim vs. the World|2010": {
+      "series": null,
+      "sources": [
+        "https://screenanarchy.com/2010/08/edgar-wright-talks-scott-pilgrim-versus-the-world.html",
+        "https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World"
+      ]
+    },
+    "Immortals|2011": {
+      "series": null,
+      "sources": [
+        "https://www.comingsoon.net/movies/features/83935-exclusive-interview-immortals-director-tarsem-singh",
+        "https://en.wikipedia.org/wiki/Immortals_(2011_film)"
+      ]
+    },
+    "Gods of Egypt|2016": {
+      "series": null,
+      "sources": [
+        "https://www.espinof.com/entrevistas/para-mi-parte-divertida-hacer-pelicula-crear-mundo-eso-no-me-gusta-hacer-secuelas-alex-proyas",
+        "https://en.wikipedia.org/wiki/Gods_of_Egypt_(film)"
+      ]
+    },
+    "Die Nibelungen. 1. Siegfried von Xanten|1966": {
+      "series": {
+        "name": "Die Nibelungen (Harald Reinl)",
+        "position": 1,
+        "note": "Erster Kinofilm des zusammen gedrehten Reinl-Zweiteilers, fortgesetzt 1967 mit Kriemhilds Rache. Von Fritz Langs eigenem zweiteiligem Zyklus von 1924 getrennt."
+      },
+      "sources": [
+        "https://www.filmportal.de/film/die-nibelungen-1-siegfried-von-xanten_b16b7731562e4d72973f368495e45e45",
+        "https://cccfilm.de/filme/filme-ccc_224-225.pdf",
+        "https://www.filmdienst.de/film/details/33007/die-nibelungen-1-teil-siegfried-von-xanten2-teil-kriemhilds-rache"
       ]
     }
   }
