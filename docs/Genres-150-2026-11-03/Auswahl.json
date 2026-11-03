@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 421 Filmfassungen mit 3368 Fragen lokal integriert. 80 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 427 Filmfassungen mit 3416 Fragen lokal integriert. 74 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -1982,10 +1982,11 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eigenständige Neuverfilmung über Schuld und Ermittlungsdruck bei dauerhaftem Tageslicht.",
+      "selection_reason": "Mordermittlung und Verschleierung des eigenen Schusses bringen den Ermittler in die Abhängigkeit eines Verdächtigen. Die amerikanische Fassung besitzt eigene Figuren, Vorgeschichte und Schlussentscheidung gegenüber dem bereits vorhandenen norwegischen Film.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-035"
     },
     {
       "candidate_id": "A-136",
@@ -1995,10 +1996,11 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine öffentliche Telefonzelle wird zum begrenzten Raum einer erzwungenen Beichte.",
+      "selection_reason": "Ein unsichtbarer Schütze kontrolliert einen öffentlich sichtbaren Gefangenen; die Aufklärung muss zwischen telefonischer Drohung, falscher Außensicht und Medienbeobachtung stattfinden.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-036"
     },
     {
       "candidate_id": "A-137",
@@ -2008,10 +2010,11 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Sicherheitsraum wird für Mutter und Tochter zugleich Zuflucht und Falle.",
+      "selection_reason": "Ein sicherer Rückzugsraum wird zum Ziel eines Einbruchs. Die wechselnde Kontrolle über Raum, Überwachung und Bewegungsfreiheit erzeugt einen klaren Belagerungsthriller.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-037"
     },
     {
       "candidate_id": "A-138",
@@ -2021,10 +2024,11 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine vermisste Tochter auf einem Flug führt zur Auseinandersetzung um Wahrnehmung und Glaubwürdigkeit.",
+      "selection_reason": "Die Suche nach einem verschwundenen Kind verbindet ein abgeschlossenes Flugzeug mit dem Zweifel an der Wahrnehmung der Mutter. Später verschiebt sich der Konflikt zur bewussten Manipulation von Beweisen und Autorität.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-038"
     },
     {
       "candidate_id": "A-139",
@@ -2034,23 +2038,25 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Sitznachbar nutzt einen Linienflug, um eine Hotelangestellte zu einem Anschlagsbeitrag zu zwingen.",
+      "selection_reason": "Die unmittelbar neben der Heldin sitzende Bedrohung verbindet Gespräch, familiäre Erpressung und einen parallel vorbereiteten Anschlag. Flucht aus der Kabine löst den Konflikt nicht, sondern verlagert ihn in ihr vertrautes Umfeld.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-039"
     },
     {
       "candidate_id": "A-140",
       "film_title_de": "Jennifer 8",
-      "film_title_original": "Jennifer 8",
+      "film_title_original": "Jennifer Eight",
       "film_year": 1992,
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Polizist verfolgt eine Mordserie und schützt eine bedrohte blinde Zeugin.",
+      "selection_reason": "Die Ermittlung gegen einen Serienmörder kippt in einen Verdacht gegen den Ermittler selbst. Blindheit, forensische Spuren und falsche behördliche Gewissheiten ergeben voneinander unabhängige Zugänge.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-040"
     },
     {
       "candidate_id": "A-141",

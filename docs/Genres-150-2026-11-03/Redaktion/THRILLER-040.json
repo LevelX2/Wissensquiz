@@ -1,0 +1,247 @@
+{
+  "id": "THRILLER-040",
+  "film_title_de": "Jennifer 8",
+  "film_title_original": "Jennifer Eight",
+  "film_year": 1992,
+  "genre": "Thriller",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Redaktionelle Einschätzung: prominentes Ensemble und markante Verhörszene, als einzelner Polizeithriller außerhalb des besonders filminteressierten Publikums weniger präsent.",
+  "selection_reason": "Die Ermittlung gegen einen Serienmörder kippt in einen Verdacht gegen den Ermittler selbst. Blindheit, forensische Spuren und falsche behördliche Gewissheiten ergeben voneinander unabhängige Zugänge.",
+  "directors": [
+    "Bruce Robinson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1992 durch vollständigen AFI-Datensatz, Paramount-Werkseite und zeitgenössische Filmkritik bestätigt; US-Kinostart 6. November 1992. Kein früheres Festivaljahr in den geprüften Werkquellen belegt. Drehbeginn September 1991 ist nicht Filmjahr.",
+  "director_note": "Bruce Robinson alleiniger Hauptregisseur und Drehbuchautor laut vollständigen AFI-Credits und Paramount. Conrad L. Hall ist Kameramann; Second-Unit- und Assistenzcredits ergeben keine gemeinsame Hauptregie.",
+  "country_note": "USA im vollständigen AFI-Ländersatz; kanadische Drehorte und Studiomitarbeit sind dort separat als Produktionsorte erfasst.",
+  "series": null,
+  "series_note": "Eigenständiger Originalstoff, in den geprüften Werk- und Produktionsquellen keine nummerierte Filmfolge. Die Zahl im Titel bezeichnet die Zählung der mutmaßlichen Mordopfer, keine Fortsetzungsposition.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/59288"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/59288",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliche vollständige Handlung, History, Haupt-/Nebenregiecredits, Cast, Länder und Veröffentlichung gelesen. Brailleschrift-Postkarte kann nicht von Amber stammen; Asthmakapsel aus dem VW führt über Oakland zu Taylor; Margie als Schluss-Doppelgängerin. Die verkürzte Wikipedia-Handlung lässt den zweiten Oakland-Ermittlungsschritt aus; keine unmittelbare Täterenthüllung allein durch FBI-Information behauptet."
+    },
+    "studio": {
+      "url": "https://www.paramount.com/movies/jennifer-eight",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliche offizielle Werkseite samt vollständigem Synopsis-/Creditsabschnitt gelesen: 1992, alleiniger Robinson, Garcia/Berlin, Thurman/Helena, Malkovich/St. Anne, blindes Zeugnis und gegen den Ermittler gerichteter Verdacht."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Jennifer_8",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliche gesamte Handlung, Cast und Produktion gelesen; vor allem Handverletzungen/Braille als Hinweis auf Blindheit und Margies Täuschung im Finale. Abstände der Mordorte und pauschale psychologische Schlussbehauptungen nicht übernommen; bei genauer Ermittlungsfolge ausführlicher AFI-Handlung gefolgt."
+    },
+    "rogers": {
+      "url": "https://midwestfilmjournal.com/2022/11/28/class-of-1992-jennifer-8/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamten tatsächlichen Nick-Rogers-Essay gelesen: Eureka statt Los Angeles, Ross als früherer Mentor, gescheiterte Ehe/Alkoholprobleme, visuelle Gestaltung, Verhör und Robinsons nächste Regie erst The Rum Diary 2011. Keine Schlussidentität aus dem Essay allein behauptet."
+    },
+    "robinson": {
+      "url": "https://www.hotpress.com/culture/bruce-robinson-417021",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliches Peter-Murphy-Primärinterview vom 20. März 2001 gelesen, insbesondere Jennifer-8-Abschnitt bis zur anschließenden Frage nach Hollywood: ursprünglich älterer erschöpfter Polizist, Hackman/Pacino als Vergleich, veränderte Wirkung durch Garcia/Thurman, Studioeingriffe und geschnittene Malkovich-Szene. Ursprünglicher laurahird-Nachdruck nicht erreichbar und nicht als gelesener Beleg geführt."
+    },
+    "rum": {
+      "url": "https://www.revolutionstudios.com/film/rum-diary/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamten tatsächlichen offiziellen Werkdatensatz gelesen: The Rum Diary 2011, alleiniger Regie-/Drehbuchcredit Bruce Robinson, Johnny Depp als Journalist Paul Kemp in der Inhaltsangabe. Ergänzender konkreter Jahresanker, keine unbelegte Produktionsursache der langen Regiepause."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Uma Thurman spielt die blinde Zeugin Helena Robertson.",
+      "question": "Wer spielt die blinde Zeugin Helena Robertson in „Jennifer 8“?",
+      "answers": [
+        "Uma Thurman",
+        "Bridget Fonda",
+        "Madeleine Stowe",
+        "Jennifer Jason Leigh"
+      ],
+      "short": "Uma Thurman spielt Helena Robertson.",
+      "context": "Helena Robertson (Uma Thurman) gerät als mögliche Zeugin in die Untersuchung einer Mordserie. John Berlin (Andy Garcia) glaubt, über sie den Täter erreichen zu können. Gleichzeitig droht die Nähe zu ihm ihre Sicherheit zu verschlechtern. Die offizielle Inhaltsangabe stellt diese doppelte Bewegung heraus: Ein vermeintlicher Durchbruch bei der Suche führt schließlich dazu, dass der Ermittler selbst zum Verdächtigen wird.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "John Berlins neuer Einsatzort ist Eureka in Nordkalifornien.",
+      "question": "In welcher kalifornischen Stadt beginnt John Berlin (Andy Garcia) in „Jennifer 8“ seine neue Polizeiarbeit?",
+      "answers": [
+        "Eureka",
+        "Sacramento",
+        "San Diego",
+        "Los Angeles"
+      ],
+      "short": "Berlin wechselt von Los Angeles nach Eureka.",
+      "context": "Freddy Ross (Lance Henriksen) holt seinen früheren Kollegen John Berlin (Andy Garcia) nach Eureka. Der kleinere Ort soll Abstand zu einer zerbrochenen Ehe und dem belastenden Leben in Los Angeles bieten. Doch schon der erste Leichenfund bindet Berlin wieder an eine ungeklärte Mordserie. Der berufliche Neuanfang lässt seine alte Besessenheit von Ermittlungen rasch erneut hervortreten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "rogers"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Abnutzung der Fingerkuppen und Narben lassen Berlin auf ein blindes Opfer schließen.",
+      "question": "Was schließt Berlin (Andy Garcia) in „Jennifer 8“ aus abgenutzten Fingerkuppen und zahlreichen Narben an der gefundenen Hand?",
+      "answers": [
+        "Das Opfer war blind und las Brailleschrift.",
+        "Das Opfer arbeitete als professionelle Geigerin.",
+        "Das Opfer war als Schmuckschleiferin beschäftigt.",
+        "Das Opfer hatte lange als Köchin gearbeitet."
+      ],
+      "short": "Die Tastspuren legen für ihn Blindheit nahe.",
+      "context": "John Berlin (Andy Garcia) betrachtet die Spuren an der Hand als Hinweise auf die Lebensweise des Opfers. Das Lesen durch Tasten erklärt für ihn die beanspruchten Fingerkuppen. Dieser Verdacht richtet die weitere Suche auf blinde Frauen und führt ihn schließlich zu Helena Robertson (Uma Thurman). Ein zunächst namenloses Körperfragment eröffnet damit einen konkreten Ermittlungsweg.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eine angeblich von Amber stammende Braillepostkarte ist verdächtig, weil Amber Braille nicht beherrschte.",
+      "question": "Warum widerspricht Helena (Uma Thurman) in „Jennifer 8“ der angeblichen Braillepostkarte ihrer verschwundenen Mitbewohnerin?",
+      "answers": [
+        "Amber konnte Brailleschrift weder lesen noch schreiben.",
+        "Amber hatte stets ausschließlich auf Französisch geschrieben.",
+        "Amber hatte sich seit Jahren geweigert, ihren Namen zu unterschreiben.",
+        "Amber hatte Kalifornien nachweislich noch nie verlassen."
+      ],
+      "short": "Die verwendete Schrift verrät für Helena die Fälschung.",
+      "context": "Die Karte soll belegen, dass Amber freiwillig nach Oakland gegangen ist. John Berlin (Andy Garcia) legt sie Helena Robertson (Uma Thurman) vor. Deren Kenntnis der Mitbewohnerin widerspricht dem scheinbar entlastenden Dokument. Das Schreiben liefert somit keinen verlässlichen Lebensnachweis, obwohl es der Polizeiführung einen Anlass bietet, Berlins weitere Ermittlungen abzulehnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Frage nach einem Asthmamittel erinnert Berlin an den unerlaubt durchsuchten VW und führt ihn zur Täterfamilie.",
+      "question": "Welche Spur greift Berlin (Andy Garcia) in „Jennifer 8“ nach St. Annes Frage zu einem Asthmamittel wieder auf?",
+      "answers": [
+        "Eine zuvor aus einem VW-Bus mitgenommene Kapsel",
+        "Ein zuvor aus einem Hotelzimmer entwendetes Rezept",
+        "Eine zuvor in Helenas Post gefundene Medikamentenrechnung",
+        "Eine zuvor am Tatort abgelegte Krankenhauskarte"
+      ],
+      "short": "Er erinnert sich an die Kapsel aus dem VW-Bus.",
+      "context": "St. Anne (John Malkovich) untersucht das Medikament als möglichen Belastungshinweis gegen John Berlin (Andy Garcia). Berlin erinnert sich jedoch an dessen wirkliche Herkunft aus einem unbefugt durchsuchten Fahrzeug. Die Spur bringt ihn nach Oakland. Dort erkennt er John Taylor (Graham Beckel) auf einem Kindheitsfoto im Umfeld blinder Kinder und kommt dem Täter näher.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Margie gibt sich im Institutsfinale als Helena aus und erschießt Taylor.",
+      "question": "Wen hat Taylor (Graham Beckel) im Finale von „Jennifer 8“ tatsächlich verfolgt, bevor die Frau sich umdreht?",
+      "answers": [
+        "Margie Ross, die sich als Helena ausgibt",
+        "Helenas Schwester, die unerwartet zurückgekehrt ist",
+        "Eine Polizistin, die als Schülerin eingeschleust wurde",
+        "Die vermisste Amber, die ihren Tod nur vorgetäuscht hat"
+      ],
+      "short": "Margie Ross übernimmt Helenas Rolle als Köder.",
+      "context": "John Taylor (Graham Beckel) glaubt, Helena Robertson (Uma Thurman) durch das Institut zu verfolgen. Doch vor ihm steht schließlich Margie Ross (Kathy Baker), die Witwe seines getöteten Kollegen Freddy (Lance Henriksen). Sie hat ihn getäuscht und erschießt ihn. Die Frau, die John Berlin (Andy Garcia) zuvor gegen den Mordverdacht unterstützt hat, beendet selbst die unmittelbare Bedrohung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Jennifer Eight wurde erstmals 1992 veröffentlicht.",
+      "question": "In welchem Jahr erschien „Jennifer 8“ mit Andy Garcia und Uma Thurman erstmals?",
+      "answers": [
+        "1992",
+        "1986",
+        "1998",
+        "2004"
+      ],
+      "short": "Der Film erschien 1992.",
+      "context": "Auf „Jennifer 8“ von 1992 folgte für Bruce Robinson eine lange Pause von der Spielfilmregie. Erst 2011 erschien mit „The Rum Diary“ sein nächster inszenierter Kinofilm. Zwischen beiden Veröffentlichungen liegen 19 Jahre. Der spätere Film versetzt Johnny Depp als Journalisten Paul Kemp nach Puerto Rico; Robinson kehrte damit zu einem deutlich anderen Stoff als der kalifornischen Mordermittlung zurück.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "rogers",
+        "rum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Bruce Robinson führte die alleinige Hauptregie und schrieb das Drehbuch.",
+      "question": "Wer schrieb und inszenierte „Jennifer 8“ mit Andy Garcia, Uma Thurman und John Malkovich?",
+      "answers": [
+        "Bruce Robinson",
+        "Mike Figgis",
+        "John Dahl",
+        "Carl Franklin"
+      ],
+      "short": "Bruce Robinson schrieb das Drehbuch und führte Regie.",
+      "context": "Bruce Robinson hatte John Berlin (Andy Garcia) ursprünglich als älteren, stark verbrauchten Polizisten entworfen. Im Interview nannte er Gene Hackman als passende Vorstellung. Andy Garcia und Uma Thurman wirkten auf ihn dagegen wie ein attraktives romantisches Paar, wodurch sich die Wirkung ihrer Beziehung verschob. Seine Kritik richtet sich somit auf den Unterschied zwischen der entworfenen Figurenkonstellation und ihrer Wirkung durch die Besetzung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "robinson"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
