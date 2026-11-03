@@ -4021,6 +4021,301 @@
       "reference_question_id": "G150-20261103-MUSIK-015-L1",
       "year_question_id": "G150-20261103-MUSIK-015-Y",
       "director_question_id": "G150-20261103-MUSIK-015-D"
+    },
+    {
+      "id": "ABENTEUER-010",
+      "film_title_de": "Centurion",
+      "film_title_original": "Centurion",
+      "film_year": 2010,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Das römische Fluchtabenteuer mit Michael Fassbender ist ein bekannterer Genrefilm, erreicht aber nicht die breite Bekanntheit der großen Antikenepen.",
+      "directors": [
+        "Neil Marshall"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "Frankreich",
+        "USA"
+      ],
+      "release_note": "Erste öffentliche Vorführungen 2010; ein zeitgenössischer SXSW-Sichtungsbericht bestätigt eine Vorführung vor dem regulären britischen Start. Das BFI führt abweichend 2009 als Werkjahr, ohne damit eine öffentliche Vorführung 2009 zu belegen.",
+      "director_note": "Neil Marshall schrieb und inszenierte den Film.",
+      "country_note": "Die drei Produktionsländer sind im AFI-Katalog ausgewiesen.",
+      "series": null,
+      "series_note": "Eigenständiger Spielfilm ohne belegte nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/66671"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/66671",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Drehbuch, Besetzung, Länder und Veröffentlichung 2010."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/9396e83d-f1da-5cee-8072-47b684483bcc/centurion",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie und Besetzung; abweichendes Werkjahr 2009 wird nicht als Erstveröffentlichungsbeleg benutzt."
+        },
+        {
+          "key": "festival",
+          "url": "https://criterioncast.com/festivals/sxsw/neil-marshall-centurion-film-review-sxsw",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössischer Augenzeugenbericht von einer SXSW-Vorführung 2010 und Ausgangslage der Flucht."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Centurion_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Etains Verrat, Gorlacons Sohn, Thax und Macros, Rückkehr zu Agricola und Figurencredits."
+        },
+        {
+          "key": "eagle",
+          "url": "https://www.focusfeatures.com/article/focus_features____slate_set_to_conquer_2011",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Ankündigung: The Eagle für 2011, Suche des Sohnes nach der verschwundenen neunten Legion."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-010-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-010-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-010-D"
+    },
+    {
+      "id": "ABENTEUER-011",
+      "film_title_de": "Des Königs Admiral",
+      "film_title_original": "Captain Horatio Hornblower",
+      "film_year": 1951,
+      "subdomain": "Abenteuer",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Das Segelschiffabenteuer mit Gregory Peck ist ein klassischer Genretitel, wird aber außerhalb des älteren Abenteuerkinos seltener vorausgesetzt.",
+      "directors": [
+        "Raoul Walsh"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "USA"
+      ],
+      "release_note": "Londoner Start am 12. April 1951 vor dem US-Start am 11. August; beide Termine sind im AFI-Katalog dokumentiert.",
+      "director_note": "Alleiniger Regiecredit Raoul Walsh.",
+      "country_note": "Britisch-amerikanische Produktion nach AFI; europäische Drehorte sind gesondert dokumentiert.",
+      "series": null,
+      "series_note": "Der Kinofilm mit Gregory Peck bildet keine nummerierte Folge mit den eigenständigen späteren Fernsehfassungen.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/50168"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/50168",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis, Rollencredits, Regie, Länder, Erstveröffentlichung, Romanvorlage, spätere TV-Fassungen und Produktionsgeschichte."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-011-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-011-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-011-D"
+    },
+    {
+      "id": "ABENTEUER-012",
+      "film_title_de": "Antarctica – Gefangen im Eis",
+      "film_title_original": "Eight Below",
+      "film_year": 2006,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Disney-Abenteuer mit Paul Walker und Schlittenhunden hat ein breites Familienpublikum erreicht; die genaue Rettungsgeschichte verlangt eigenes Filmwissen.",
+      "directors": [
+        "Frank Marshall"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung am 17. Februar 2006 laut Disney D 23.",
+      "director_note": "Frank Marshall führte Regie; David Di Gilio schrieb das Drehbuch.",
+      "country_note": "Amerikanische Produktion. British Columbia und Grönland stellen im Film die Antarktis dar.",
+      "series": null,
+      "series_note": "Neuinterpretation des japanischen Films von 1983, keine nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://d23.com/a-to-z/eight-below-film/"
+      ],
+      "sources": [
+        {
+          "key": "disney",
+          "url": "https://d23.com/a-to-z/eight-below-film/",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Besetzung, Erstveröffentlichung, Drehorte und Bezug auf die japanische Vorlage."
+        },
+        {
+          "key": "produktion",
+          "url": "https://disney.go.com/disneyvideos/liveaction/eightbelow/downloads/production_notes.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Produktionseinstieg: Forscher und Hunde, Rettungsversprechen, Maya und Max, Frank Marshall und frühere Regiearbeiten, Adaption der Vorlage 1983."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Eight_Below",
+          "accessed_on": "2026-11-03",
+          "supports": "Meteoritenmission, Rettung des Forschers, Finanzierung der Rückkehr, verletzte Maya und Max als Helfer."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-012-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-012-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-012-D"
+    },
+    {
+      "id": "ABENTEUER-013",
+      "film_title_de": "Der Geist und die Dunkelheit",
+      "film_title_original": "The Ghost and the Darkness",
+      "film_year": 1996,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Michael Douglas, Val Kilmer und die Jagd auf die Menschenfresser von Tsavo machen den Film im Abenteuerkino gut wiedererkennbar.",
+      "directors": [
+        "Stephen Hopkins"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1996, mit amerikanischem Kinostart am 11. Oktober.",
+      "director_note": "Stephen Hopkins führte Regie; William Goldman schrieb das Drehbuch.",
+      "country_note": "Amerikanische Produktion. Drehorte im südlichen Afrika sind vom kenianischen Handlungsschauplatz getrennt.",
+      "series": null,
+      "series_note": "Eigenständige Adaption ohne belegte nummerierte Filmfolge.",
+      "series_sources": [
+        "https://www.paramount.com/movies/the-ghost-and-the-darkness"
+      ],
+      "sources": [
+        {
+          "key": "paramount",
+          "url": "https://www.paramount.com/movies/the-ghost-and-the-darkness",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Jahr, Rollenbesetzung, Eisenbahnbau und Löwenjagd. Die dortige Synopsis nennt 1896; diese historische Datierung wird nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Ghost_and_the_Darkness",
+          "accessed_on": "2026-11-03",
+          "supports": "Ablauf der Angriffe, Krankenstation-Falle, Remingtons Tod, erfundene Jägerfigur und Filmcredits."
+        },
+        {
+          "key": "museum",
+          "url": "https://www.fieldmuseum.org/blog/tsavo-lions?lang=en",
+          "accessed_on": "2026-11-03",
+          "supports": "Historisches Ereignis 1898, Patterson als Ingenieur und Jäger, Überführung der Präparate ins Museum 1925 und abweichende Opferzahlen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-013-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-013-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-013-D"
+    },
+    {
+      "id": "ABENTEUER-014",
+      "film_title_de": "Dein Weg",
+      "film_title_original": "The Way",
+      "film_year": 2010,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Das Pilgerdrama mit Martin Sheen ist im Reisefilm und beim Jakobsweg-Publikum bekannt, gehört aber nicht zum allgemeinen Blockbusterwissen.",
+      "directors": [
+        "Emilio Estevez"
+      ],
+      "production_countries": [
+        "USA",
+        "Spanien"
+      ],
+      "release_note": "Erste öffentliche Vorstellung im September 2010 in Toronto, vor dem spanischen Start im November und dem US-Start 2011. Das historische TIFF-Programm hat einen abweichenden Kopfdatensatz 2009, bezeichnet den Film im Biografietext aber als The Way(10) und weist die Vorführungen im Festival 2010 aus.",
+      "director_note": "Emilio Estevez schrieb und inszenierte den Film und spielt den verstorbenen Sohn der Hauptfigur.",
+      "country_note": "US-amerikanisch-spanische Produktion; der TIFF-Kopf nennt verkürzt USA, weitere Filmnachweise beide Länder.",
+      "series": null,
+      "series_note": "In den gelesenen Quellen ist keine veröffentlichte nummerierte Fortsetzung belegt. Ankündigungen einer späteren Fortsetzung reichen dafür nicht aus.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/The_Way_(2010_film)"
+      ],
+      "sources": [
+        {
+          "key": "tiff",
+          "url": "https://www.tiff08.ca/filmsandschedules/tiff/2010/way/",
+          "accessed_on": "2026-11-03",
+          "supports": "Historisches Festivalprogramm mit Vorführungen 2010, Regie, Cast, Vater-Sohn-Beziehung, Weg, Begleiter und Vergleich zu Bobby 2006."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Way_(2010_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Rollencredits, Asche, Motive der Mitreisenden, Rucksackrückgabe, Muxía, Erstvorführung und Produktionsländer."
+        },
+        {
+          "key": "filmcommission",
+          "url": "https://castillayleonfilm.com/en/filmografia/the-way/",
+          "accessed_on": "2026-11-03",
+          "supports": "Spanischer Produktionsbezug, Filmjahr 2010 und Regie Emilio Estevez."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-014-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-014-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-014-D"
+    },
+    {
+      "id": "ABENTEUER-015",
+      "film_title_de": "The Peanut Butter Falcon",
+      "film_title_original": "The Peanut Butter Falcon",
+      "film_year": 2019,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Der erfolgreiche unabhängige Film mit Shia LaBeouf, Dakota Johnson und Zack Gottsagen ist ein bekannteres modernes Reiseabenteuer.",
+      "directors": [
+        "Tyler Nilson",
+        "Michael Schwartz"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Weltpremiere beim SXSW 2019 vor dem regulären US-Start im August 2019.",
+      "director_note": "Tyler Nilson und Michael Schwartz schrieben und inszenierten den Film gemeinsam.",
+      "country_note": "Amerikanische unabhängige Produktion.",
+      "series": null,
+      "series_note": "Eigenständiger Spielfilm ohne belegte nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/The_Peanut_Butter_Falcon"
+      ],
+      "sources": [
+        {
+          "key": "festival",
+          "url": "https://www.sxsw.com/wp-content/uploads/2019/06/2019FilmArchive-1.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Festivalindex: Weltpremiere 2019 in Narrative Spotlight, gemeinsamer Regiecredit Tyler Nilson und Michael Schwartz."
+        },
+        {
+          "key": "publikumspreis",
+          "url": "https://sxsw.com/wp-content/uploads/2019/03/2019-SXSW-Audience-Awards-Release-2.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Bekanntgabe des SXSW-Publikumspreises 2019 für Narrative Spotlight und vollständige Regie."
+        },
+        {
+          "key": "interview",
+          "url": "https://texasstandard.org/stories/an-adventure-with-a-wild-man/",
+          "accessed_on": "2026-11-03",
+          "supports": "Aussagen der Regisseure über Gottsagen als Freund, Abenteuer mit Floß, Zusammenarbeit, Premiere und Kinostart 2019."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Peanut_Butter_Falcon",
+          "accessed_on": "2026-11-03",
+          "supports": "Figurencredits, Flucht, Wrestlingtraum, Tylers Verfolger, Eleanors Entscheidung, stillgelegte Schule und Kampf."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-015-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-015-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-015-D"
     }
   ],
   "series_updates": [

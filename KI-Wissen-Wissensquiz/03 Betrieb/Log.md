@@ -2510,3 +2510,8 @@ Weitere sechs Western mit 48 neuen Fragen/Zielen eingebunden, darunter die übri
 #### Fortsetzung 03.11.2026 – Musik W09
 
 Sechs Musikfilme mit 48 neuen Zielen integriert; Musik jetzt 115, Arthouse 114. Drei vollständige Originalregiecredits bei Camp Rock, Popstar und The Disciple bewusst von Produzenten, Stars und Mitautoren abgegrenzt. Gegenlesung verbessert Formulierungen, plausible Bandalternativen und den konkret belegten Zeitanker Peter Kraus 1954/2013. Venedig-Erstjahr 2020 bei The Disciple nach Festival und Netflix geprüft. Alle 552 bisherigen Ergänzungen im echten App-Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 48 Pakete / 15.847 Fragen / 15.171 Ziele; 432 Genreergänzungen und 36 Arthouse-Ergänzungen bleiben offen. Fortsetzung ohne Zwischenabschluss.
+
+
+#### Fortsetzung 03.11.2026 – Abenteuer W10
+
+Sechs Abenteuerfilme mit 48 neuen Zielen lokal eingebunden, Abenteuer jetzt 115, Classics 177. Alle 48 Ziele zentral und unabhängig gelesen; Hospital-Falle in Der Geist und die Dunkelheit nach tatsächlichem Handlungsablauf präzisiert, unplausiblen Ablenker ersetzt. Kino-Neuinterpretation Eight Below von japanischem Vorgänger getrennt; Erstjahreswidersprüche und gemeinsame Regie bei Peanut Butter Falcon ausdrücklich dokumentiert. Alle 600 bisherigen Ergänzungen mit echtem Parser exakt erhalten; Bestand unverändert, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 49 Pakete / 15.895 Fragen / 15.219 Ziele; 426 Genreergänzungen und 36 überlappende Arthouse-Ergänzungen offen.

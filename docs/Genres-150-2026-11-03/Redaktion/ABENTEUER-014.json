@@ -1,0 +1,235 @@
+{
+  "id": "ABENTEUER-014",
+  "film_title_de": "Dein Weg",
+  "film_title_original": "The Way",
+  "film_year": 2010,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Das Pilgerdrama mit Martin Sheen ist im Reisefilm und beim Jakobsweg-Publikum bekannt, gehört aber nicht zum allgemeinen Blockbusterwissen.",
+  "selection_reason": "Die Wanderung führt aus privater Trauer in eine zeitweilige Gemeinschaft mit Fremden. Landschaft, Gepäckverlust und gemeinsame Wegentscheidungen tragen die Abenteuergeschichte.",
+  "directors": [
+    "Emilio Estevez"
+  ],
+  "production_countries": [
+    "USA",
+    "Spanien"
+  ],
+  "release_note": "Erste öffentliche Vorstellung im September 2010 in Toronto, vor dem spanischen Start im November und dem US-Start 2011. Das historische TIFF-Programm hat einen abweichenden Kopfdatensatz 2009, bezeichnet den Film im Biografietext aber als The Way(10) und weist die Vorführungen im Festival 2010 aus.",
+  "director_note": "Emilio Estevez schrieb und inszenierte den Film und spielt den verstorbenen Sohn der Hauptfigur.",
+  "country_note": "US-amerikanisch-spanische Produktion; der TIFF-Kopf nennt verkürzt USA, weitere Filmnachweise beide Länder.",
+  "series": null,
+  "series_note": "In den gelesenen Quellen ist keine veröffentlichte nummerierte Fortsetzung belegt. Ankündigungen einer späteren Fortsetzung reichen dafür nicht aus.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/The_Way_(2010_film)"
+  ],
+  "sources": {
+    "tiff": {
+      "url": "https://www.tiff08.ca/filmsandschedules/tiff/2010/way/",
+      "accessed_on": "2026-11-03",
+      "supports": "Historisches Festivalprogramm mit Vorführungen 2010, Regie, Cast, Vater-Sohn-Beziehung, Weg, Begleiter und Vergleich zu Bobby 2006."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Way_(2010_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Rollencredits, Asche, Motive der Mitreisenden, Rucksackrückgabe, Muxía, Erstvorführung und Produktionsländer."
+    },
+    "filmcommission": {
+      "url": "https://castillayleonfilm.com/en/filmografia/the-way/",
+      "accessed_on": "2026-11-03",
+      "supports": "Spanischer Produktionsbezug, Filmjahr 2010 und Regie Emilio Estevez."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Martin Sheen spielt den trauernden Vater Tom.",
+      "question": "Wer spielt in „Dein Weg“ den amerikanischen Arzt Tom, der nach dem Tod seines Sohnes nach Europa reist?",
+      "answers": [
+        "Martin Sheen",
+        "Robert Duvall",
+        "Nick Nolte",
+        "Richard Jenkins"
+      ],
+      "short": "Martin Sheen spielt den Vater Tom.",
+      "context": "Tom (Martin Sheen) will zunächst nur die sterblichen Überreste seines Sohnes abholen und nach Hause zurückkehren. Der Anblick des Gepäcks und die Begegnung mit dem begonnenen Reiseweg verändern seinen Plan. Aus einer organisatorischen Pflicht entsteht eine eigene Wanderung, mit der er sich dem ihm entfremdeten Sohn nachträglich annähert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tiff",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Tom wandert auf dem Jakobsweg nach Santiago de Compostela.",
+      "question": "Auf welcher Pilgerroute wandert Tom (Martin Sheen) in „Dein Weg“?",
+      "answers": [
+        "Auf dem Jakobsweg nach Santiago de Compostela",
+        "Auf der Via Francigena nach Rom",
+        "Auf dem Franziskusweg nach Assisi",
+        "Auf dem Olavsweg nach Trondheim"
+      ],
+      "short": "Tom folgt dem Jakobsweg nach Santiago de Compostela.",
+      "context": "Daniel (Emilio Estevez) ist auf diesem Weg in den Pyrenäen in einen tödlichen Sturm geraten. Tom (Martin Sheen) übernimmt dessen Rucksack und Führer. Anfangs möchte er die Strecke entschlossen und möglichst ungestört zurücklegen. Mit der Zeit werden jedoch die Begegnungen unterwegs ebenso wichtig wie der geografische Zielpunkt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tiff",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Tom trägt Daniels Asche auf der Wanderung mit sich.",
+      "question": "Was trägt Tom (Martin Sheen) in „Dein Weg“ als besonders persönliche Last in seinem Gepäck?",
+      "answers": [
+        "Die Asche seines Sohnes",
+        "Die Briefe seiner verstorbenen Frau",
+        "Die Auszeichnungen seines im Krieg gefallenen Vaters",
+        "Die Instrumente seines früheren besten Freundes"
+      ],
+      "short": "Tom nimmt die Asche Daniels auf die Wanderung mit.",
+      "context": "Daniel (Emilio Estevez) ist gestorben, bevor seine Reise weit vorangekommen ist. Sein Vater Tom (Martin Sheen) verteilt unterwegs kleine Mengen der Asche. Der Sohn bleibt dadurch auf der Strecke gegenwärtig, obwohl der Vater sie ohne ihn geht. Mehrfach sieht Tom ihn auch kurz unter anderen Reisenden stehen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Joost nennt Gewichtsverlust als Grund seiner Pilgerreise.",
+      "question": "Welches zunächst sehr praktische Ziel nennt Joost (Yorick van Wageningen) für seine Wanderung in „Dein Weg“?",
+      "answers": [
+        "Er möchte abnehmen und für seine Frau wieder anziehender sein.",
+        "Er möchte eine Wette mit seinem älteren Bruder gewinnen.",
+        "Er möchte die anspruchsvolle Aufnahmeprüfung einer Bergwacht bestehen.",
+        "Er möchte vor einer Knieoperation seine Beweglichkeit zurückgewinnen."
+      ],
+      "short": "Joost will Gewicht verlieren und seine Beziehung verbessern.",
+      "context": "Joost (Yorick van Wageningen) tritt offen und gesellig auf, während Tom (Martin Sheen) sich zunächst abschottet. Neben ihm reisen Sarah (Deborah Kara Unger), die vom Aufhören mit dem Rauchen spricht, und der schreibblockierte Jack (James Nesbitt). Die scheinbar einfachen Vorsätze führen zu sehr unterschiedlichen persönlichen Geschichten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tiff",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Vater des Rucksackdiebs sorgt für Rückgabe und lädt die Gruppe ein.",
+      "question": "Wie erhält Tom (Martin Sheen) in „Dein Weg“ seinen gestohlenen Rucksack mit Daniels Asche zurück?",
+      "answers": [
+        "Der Vater des jungen Diebs bringt den Rucksack zurück und entschuldigt sich.",
+        "Ein Polizist findet ihn bei einer Kontrolle im Reisebus.",
+        "Ein Wirt entdeckt ihn am Fluss und schickt ihn zur Herberge.",
+        "Jack kauft ihn auf einem Markt und erkennt Daniels Wanderführer."
+      ],
+      "short": "Der Vater des Diebs erzwingt die Rückgabe und bittet um Entschuldigung.",
+      "context": "Für Tom (Martin Sheen) bedroht der Diebstahl mehr als die Fortsetzung einer Reise: Im Gepäck befindet sich die Asche seines Sohnes. Der Vater des Jungen gibt den Rucksack zurück und lädt die Gruppe als Wiedergutmachung zu einem Fest ein. Auf den Verlust folgt damit eine weitere Begegnung, die Tom aus seiner Abgrenzung herausholt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Nach Santiago erreicht die Gruppe Muxía, wo Tom die restliche Asche ins Meer streut.",
+      "question": "Welche gemeinsame letzte Etappe folgt in „Dein Weg“ auf die Ankunft in Santiago de Compostela?",
+      "answers": [
+        "Die Freunde begleiten Tom nach Muxía, wo er die restliche Asche verstreut.",
+        "Die Freunde errichten an der Unglücksstelle in den Pyrenäen ein Denkmal.",
+        "Die Freunde bringen Daniels Tagebuch zu einem Priester in Rom.",
+        "Die Freunde organisieren in Paris ein Treffen mit Daniels früheren Gefährten."
+      ],
+      "short": "In Muxía verstreut Tom die restliche Asche im Atlantik.",
+      "context": "Die Kathedrale beendet den offiziellen Pilgerweg, aber noch nicht Toms (Martin Sheen) Abschied. Seine drei Begleiter gehen mit ihm bis an die Küste. Die ursprünglich privaten Trauerhandlungen werden nun von einer gemeinsam gewachsenen Freundschaft getragen. Der Schluss zeigt Tom danach mit Daniels Rucksack auf einer weiteren Reise in Marokko.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 2010.",
+      "question": "Wann wurde „Dein Weg“ mit Martin Sheen erstmals öffentlich gezeigt?",
+      "answers": [
+        "2010",
+        "2003",
+        "2007",
+        "2014"
+      ],
+      "short": "Die erste Festivalvorführung erfolgte 2010 in Toronto.",
+      "context": "Vier Jahre nach „Bobby“ von 2006 kehrte Emilio Estevez mit einem weiteren Film nach Toronto zurück, in dem auch sein Vater Martin Sheen auftritt. Das Festivalprogramm hebt diese Verbindung ausdrücklich hervor. Der amerikanische Kinostart von „Dein Weg“ folgte erst 2011 und ist deshalb nicht das maßgebliche Erstjahr.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tiff",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Emilio Estevez schrieb und inszenierte den Film.",
+      "question": "Wer führte bei „Dein Weg“ mit Martin Sheen Regie?",
+      "answers": [
+        "Emilio Estevez",
+        "Sean Penn",
+        "Robert Redford",
+        "John Sayles"
+      ],
+      "short": "Emilio Estevez führte Regie.",
+      "context": "Der Regisseur spielt auch Daniel (Emilio Estevez), dessen Tod die Reise auslöst. Sein realer Vater Martin Sheen verkörpert den Filmvater Tom. Die Familiensituation am Set ähnelt somit der Rollenverteilung, während Daniels Todesfall zur erfundenen Geschichte gehört. Die kurzen Erscheinungen des Sohnes vermitteln Toms anhaltende Bindung ohne eine fortgesetzte gemeinsame Reise.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tiff",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

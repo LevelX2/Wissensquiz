@@ -1,0 +1,234 @@
+{
+  "id": "ABENTEUER-013",
+  "film_title_de": "Der Geist und die Dunkelheit",
+  "film_title_original": "The Ghost and the Darkness",
+  "film_year": 1996,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Michael Douglas, Val Kilmer und die Jagd auf die Menschenfresser von Tsavo machen den Film im Abenteuerkino gut wiedererkennbar.",
+  "selection_reason": "Der Brückenbau gerät durch Tierangriffe in eine Überlebens- und Jagdgeschichte. Historische Ereignisse und dramaturgische Erfindungen werden ausdrücklich getrennt.",
+  "directors": [
+    "Stephen Hopkins"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1996, mit amerikanischem Kinostart am 11. Oktober.",
+  "director_note": "Stephen Hopkins führte Regie; William Goldman schrieb das Drehbuch.",
+  "country_note": "Amerikanische Produktion. Drehorte im südlichen Afrika sind vom kenianischen Handlungsschauplatz getrennt.",
+  "series": null,
+  "series_note": "Eigenständige Adaption ohne belegte nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.paramount.com/movies/the-ghost-and-the-darkness"
+  ],
+  "sources": {
+    "paramount": {
+      "url": "https://www.paramount.com/movies/the-ghost-and-the-darkness",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Jahr, Rollenbesetzung, Eisenbahnbau und Löwenjagd. Die dortige Synopsis nennt 1896; diese historische Datierung wird nicht übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Ghost_and_the_Darkness",
+      "accessed_on": "2026-11-03",
+      "supports": "Ablauf der Angriffe, Krankenstation-Falle, Remingtons Tod, erfundene Jägerfigur und Filmcredits."
+    },
+    "museum": {
+      "url": "https://www.fieldmuseum.org/blog/tsavo-lions?lang=en",
+      "accessed_on": "2026-11-03",
+      "supports": "Historisches Ereignis 1898, Patterson als Ingenieur und Jäger, Überführung der Präparate ins Museum 1925 und abweichende Opferzahlen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Zwei Löwen bedrohen das Bauprojekt.",
+      "question": "Welche Tiere bedrohen Arbeiter und Bauleitung in „Der Geist und die Dunkelheit“?",
+      "answers": [
+        "Zwei Löwen",
+        "Zwei Leoparden",
+        "Ein Hyänenrudel",
+        "Eine Gruppe Krokodile"
+      ],
+      "short": "Zwei menschenfressende Löwen terrorisieren das Lager.",
+      "context": "Die Angriffe unterbrechen den Bau einer Eisenbahnbrücke. Mit jedem neuen Opfer wächst das Misstrauen der Arbeiter gegen die Leitung. John Henry Patterson (Val Kilmer) muss deshalb nicht nur einen technischen Zeitplan erfüllen, sondern Menschen schützen, deren Vertrauen in seine Fähigkeiten zunehmend schwindet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Val Kilmer spielt den Ingenieur Patterson.",
+      "question": "Wer spielt in „Der Geist und die Dunkelheit“ den Brückenbauingenieur John Henry Patterson an der Seite von Michael Douglas?",
+      "answers": [
+        "Val Kilmer",
+        "Kevin Costner",
+        "Dennis Quaid",
+        "Bill Paxton"
+      ],
+      "short": "John Henry Patterson wird von Val Kilmer gespielt.",
+      "context": "John Henry Patterson (Val Kilmer) reist mit dem Ziel an, die Brücke planmäßig fertigzustellen und zu seiner schwangeren Frau zurückzukehren. Anfangs verschafft ihm ein erfolgreicher Löwenschuss Anerkennung. Die folgenden Angriffe zeigen jedoch, dass dieser erste Erfolg die Gefahr für das Lager noch nicht beseitigt hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Pattersons geliehenes Gewehr versagt bei Remingtons Jagdplan.",
+      "question": "Wodurch scheitert Remingtons (Michael Douglas) früher Versuch, in „Der Geist und die Dunkelheit“ einen Löwen zu stellen?",
+      "answers": [
+        "Pattersons geliehenes Gewehr versagt im entscheidenden Moment.",
+        "Ein Jagdhelfer löst versehentlich einen Flächenbrand aus.",
+        "Ein vorbeifahrender Zug vertreibt den bereits eingekreisten Löwen.",
+        "Patterson schießt zu früh und vertreibt den noch nicht gestellten Löwen."
+      ],
+      "short": "Das geliehene Gewehr schießt nicht, als Patterson es einsetzen muss.",
+      "context": "Charles Remington (Michael Douglas) versucht mit Helfern, das Tier in ein Dickicht zu drängen. John Henry Patterson (Val Kilmer) kann den entscheidenden Schuss wegen der versagenden Waffe nicht abgeben. Die mitgereisten Massai ziehen danach ab. Der erfahrene Jäger bleibt, verliert aber damit einen wichtigen Teil seiner Unterstützung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Löwen entkommen der Hospitalfalle und greifen die neue Krankenstation an.",
+      "question": "Wie scheitert Remingtons (Michael Douglas) Hospital-Falle in „Der Geist und die Dunkelheit“?",
+      "answers": [
+        "Die Löwen entkommen der Falle und greifen die neue Krankenstation an.",
+        "Die Arbeiter treiben die Löwen versehentlich in die belegte Operationsbaracke.",
+        "Eine Regenflut zerstört die Falle und schließt die Patienten ein.",
+        "Ein Wachposten lockt die Löwen mit dem Köder zur Jagdhütte."
+      ],
+      "short": "Die Tiere entkommen den Jägern am alten Hospital und fallen über die neue Krankenstation her.",
+      "context": "Charles Remington (Michael Douglas) lässt die Patienten umquartieren und versieht das bisherige Hospital mit Blut und Tierüberresten. Die Löwen nähern sich dem Köder, entkommen jedoch nach den Schüssen der Jäger. Anschließend treffen die Angriffe die verletzlichen Menschen am neuen Standort. Die Falle versagt damit gerade beim Schutz der Patienten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Remington wird nach dem Tod des ersten Löwen selbst getötet.",
+      "question": "Welche Wendung folgt in „Der Geist und die Dunkelheit“ auf die erfolgreiche Jagd gegen den ersten Löwen?",
+      "answers": [
+        "Der überlebende Löwe tötet Remington in der Nacht.",
+        "Remington verlässt das Lager mit dem gesamten Jagdlohn.",
+        "Die Arbeiter beschuldigen Patterson, versehentlich einen Menschen erschossen zu haben.",
+        "Der Geldgeber lässt die getötete Bestie als Ersatz für beide Tiere ausstellen."
+      ],
+      "short": "Nachdem der erste Löwe erlegt wurde, wird Remington selbst zum Opfer.",
+      "context": "Charles Remington (Michael Douglas) rettet John Henry Patterson (Val Kilmer), als dessen erhöhter Jagdstand versagt. Gemeinsam mit Samuel (John Kani) feiern sie danach den Erfolg. Am Morgen fehlt Remington: Der zweite Löwe hat ihn getötet. Die scheinbare Entspannung führt damit unmittelbar in den Verlust des erfahrensten Helfers.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Charles Remington ist eine dramaturgisch erfundene Jägerfigur.",
+      "question": "Welchen historischen Status hat Charles Remington (Michael Douglas) in „Der Geist und die Dunkelheit“?",
+      "answers": [
+        "Er ist eine erfundene Filmfigur; der historische Patterson erschoss beide Löwen.",
+        "Er entspricht dem tatsächlichen Leiter der britischen Kolonialverwaltung.",
+        "Er ist der unverändert porträtierte Autor des einzigen zeitgenössischen Berichts.",
+        "Er ersetzt den Namen eines deutschen Zoologen, der beide Löwen fing."
+      ],
+      "short": "Remington ist eine Filmfigur; der historische Patterson erschoss beide Löwen.",
+      "context": "Der wirkliche John Henry Patterson leitete das Eisenbahnprojekt und beschrieb die Jagd später in einem Buch. Das Drehbuch stellt ihm den amerikanischen Großwildjäger zur Seite und kann dessen Tod als zusätzliche Bedrohung einsetzen. Die realen Löwenhäute gelangten 1925 ans Field Museum in Chicago. Historischer Ausgangspunkt und erfundene Begleiterrolle sind daher auseinanderzuhalten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "museum"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Film wurde erstmals 1996 veröffentlicht.",
+      "question": "In welchem Jahr erschien „Der Geist und die Dunkelheit“ mit Val Kilmer und Michael Douglas erstmals?",
+      "answers": [
+        "1996",
+        "1989",
+        "1993",
+        "2000"
+      ],
+      "short": "Der Film erschien 1996.",
+      "context": "Der Kinofilm erschien 98 Jahre nach den historischen Angriffen von 1898. Während die Filmhandlung den Löwen eine fast übernatürliche Unberechenbarkeit zuschreibt, sind die beiden realen Tiere als Präparate und Forschungsobjekte erhalten. Auch die Zahl ihrer Opfer wurde später wissenschaftlich überprüft und deutlich niedriger eingeschätzt als in Pattersons ursprünglichem Bericht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Stephen Hopkins führte Regie.",
+      "question": "Wer führte bei „Der Geist und die Dunkelheit“ Regie?",
+      "answers": [
+        "Stephen Hopkins",
+        "Stephen Sommers",
+        "Martin Campbell",
+        "Renny Harlin"
+      ],
+      "short": "Die Regie führte Stephen Hopkins.",
+      "context": "William Goldman schrieb das Drehbuch; Michael Douglas spielte den Jäger und war auch an der Herstellung beteiligt. Die Geschichte setzt dem Baufortschritt wiederkehrende Angriffe entgegen: Jede neue Schutzmaßnahme muss sich erst bewähren. So entsteht die Spannung aus dem Gegensatz zwischen dem planbaren Brückenbau und einer Gefahr, die sich dem Zeitplan entzieht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 69 Filmfassungen mit 552 Fragen lokal integriert. 432 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 75 Filmfassungen mit 600 Fragen lokal integriert. 426 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -116,8 +116,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Flucht römischer Soldaten durch feindliches Gelände bietet ein geradliniges historisches Abenteuer.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-010"
     },
     {
       "candidate_id": "A-009",
@@ -128,9 +129,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Seekrieg und Kommandoentscheidungen prägen den Hornblower-Abenteuerstoff.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-011"
     },
     {
       "candidate_id": "A-010",
@@ -142,8 +146,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Zurückgelassene Schlittenhunde und die geplante Rettung verbinden Tier- und Polarabenteuer.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-012"
     },
     {
       "candidate_id": "A-011",
@@ -155,8 +160,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Historisierendes Jagd- und Überlebensabenteuer an einer Eisenbahnbaustelle.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-013"
     },
     {
       "candidate_id": "A-012",
@@ -198,8 +204,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Pilgerreise und wechselnde Weggemeinschaft verbinden Ortswechsel mit persönlicher Entwicklung.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-014"
     },
     {
       "candidate_id": "A-015",
@@ -211,8 +218,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Flucht, Floßfahrt und selbstbestimmtes Reisen variieren das Abenteuerduo.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ABENTEUER-015"
     },
     {
       "candidate_id": "A-016",
