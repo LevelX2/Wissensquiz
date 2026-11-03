@@ -18808,6 +18808,565 @@
       "reference_question_id": "G150-20261103-ACTION-033-L1",
       "year_question_id": "G150-20261103-ACTION-033-Y",
       "director_question_id": "G150-20261103-ACTION-033-D"
+    },
+    {
+      "id": "FANTASY-022",
+      "film_title_de": "Mirai – Das Mädchen aus der Zukunft",
+      "film_title_original": "Mirai no Mirai",
+      "film_year": 2018,
+      "subdomain": "Fantasy",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein international beachteter Hosoda-Film, dessen Perspektive eines kleinen Kindes außerhalb des Animepublikums weniger vertraut ist.",
+      "directors": [
+        "Mamoru Hosoda"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "release_note": "Weltpremiere am 16. Mai 2018 in der Quinzaine des Réalisateurs in Cannes gemäß Festivalarchiv und Toho-Presseunterlagen, vor dem japanischen Kinostart am 20. Juli 2018. Die spätere US-Auswertung und fehlerhafte Juli-30-Notiz beim Interview sind keine Ersttermine.",
+      "director_note": "Hosoda allein führte Regie, verfasste Originalgeschichte und Drehbuch und zeichnete die Storyboards. Animation Directors, Production Designer und Synchronregie sind davon getrennt.",
+      "country_note": "Japan gemäß Pressemappe und Studio Chizu; europäische Weltvertriebs- und Verleihfirmen begründen keine zusätzliche Produktionsnationalität.",
+      "series": null,
+      "series_note": "Eigenständige Originalgeschichte ohne nummerierte Fortsetzung. Die früheren Familienfilme Hosodas sind andere Geschichten und keine Teile einer Kun/Mirai-Filmfolge.",
+      "series_sources": [
+        "https://www.quinzaine-cineastes.fr/en/film/mirai",
+        "https://www.scifijapan.com/godzilla-toho/mamoru-hosodas-mirai-press-notes-and-high-res-pics-from-toho"
+      ],
+      "sources": [
+        {
+          "key": "festival",
+          "url": "https://www.quinzaine-cineastes.fr/en/film/mirai",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Festivaldatensatz gelesen: Weltpremiere2018, Vorführungen16.Mai, Hosoda, StudioChizu, Grundhandlung und Stimmen. Offensichtlich vereinfachte Technikrubriken nicht als alleinige Musik-/Animationscredits verwendet."
+        },
+        {
+          "key": "toho",
+          "url": "https://www.scifijapan.com/godzilla-toho/mamoru-hosodas-mirai-press-notes-and-high-res-pics-from-toho",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige von Toho bereitgestellte Presseinformationen gelesen: Cannes16.Mai2018, Japan20.Juli2018, Originalgeschichte, Gartenbegegnungen und Hauptcredits. Die dort falsche Zuordnung KojiYakushos zum Urgroßvater nicht übernommen; endgültige Rollenverteilung zusätzlich geprüft."
+        },
+        {
+          "key": "presse",
+          "url": "https://arhiv.pulafilmfestival.hr/65/arhiv.pulafilmfestival.hr/65/images/65_PRESS/MIRAI-_PRESS1.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden Pressetext Seiten1–6 gelesen: Synopsis, Hosodas persönliche Erklärung, kindliche Perspektive, architektonisch entworfene Wohnung, Garten/Familienbaum und Filmografie2015/2018. Keine Volllektüre aller9PDFseiten behauptet."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.animationscoop.com/interview-director-mamoru-hosoda-on-his-latest-masterwork-mirai/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigentliches Hosoda-Interview mit BobMiller gelesen: eigene Kinder als Inspiration, alle Storyboards selbst, realer ArchitektMakotoTanijiri, Spezialisten für Zug/Motorrad, Mischung Handzeichnung/CG. Spekulative Erstmaligkeits- und Zukunftsbehauptungen sowie fehlerhafter Japanstart30.Juli nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Mirai_(2018_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Handlung und japanische Rollentabelle gelesen: Yukko-Mensch, unordentliche junge Mutter, Urgroßvater/Pferd/Motorrad/Fahrrad, Bahnhof und Bruderverständnis. Nicht die zweifelhafte Hideo-Shima-Behauptung aus dem Produktionsabschnitt übernommen."
+        },
+        {
+          "key": "analyse",
+          "url": "https://www.fantasy-animation.org/current-posts/the-fantasy-of-the-japanese-family-in-hosoda-mamorus-mirai-2018",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängende eigene Szenenanalyse IssyMacleods vollständig in den Abschnitten zu Haus/Garten, jungerMutter und Bahnhof gelesen: Unordnung beiderKinder, veränderte Bahnhofsästhetik und Anerkennung der Bruderrolle. Politische Gesamtwertung nicht als objektiver Filmfakt ausgegeben."
+        },
+        {
+          "key": "fukuyama",
+          "url": "https://fmsp.amob.jp/mob/news/push_show.php?cd=11106&ima=4733&site=F",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Mitteilung auf MasaharuFukuyamas offizieller Künstlerseite im Suchindex gelesen: Er spricht den jungenMann; japanische Synopsis ordnet die Begegnung dem jungen Urgroßvater zu. Castkomplett und Japanstart20.Juli2018."
+        },
+        {
+          "key": "eiga",
+          "url": "https://eiga.com/movie/88326/",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen Film- und Rollendatensatz im Suchindex gelesen: Fukuyama als jungerUrgroßvater, Yakusho als Großvater und Hauptstimmen; Verwechslung in englischen Vorabpressenotizen dadurch geklärt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-022-L1",
+      "year_question_id": "G150-20261103-FANTASY-022-Y",
+      "director_question_id": "G150-20261103-FANTASY-022-D"
+    },
+    {
+      "id": "FANTASY-023",
+      "film_title_de": "Suzume",
+      "film_title_original": "Suzume no Tojimari",
+      "film_year": 2022,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Ein international stark verbreiteter Shinkai-Film mit einprägsamem Stuhlmotiv und großer Aufmerksamkeit auch außerhalb des engeren Animepublikums.",
+      "directors": [
+        "Makoto Shinkai"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "release_note": "Japanische IMAX-Vorabvorführungen am 7. November 2022 für ausgeloste Zuschauer sind im offiziellen Filmarchiv angekündigt und in der Auswertungsgeschichte bestätigt; regulärer Japanstart am 11. November 2022. Die Berlinale 2023 war die internationale Premiere, nicht die Erstveröffentlichung.",
+      "director_note": "Makoto Shinkai ist für Originalgeschichte, Drehbuch und Regie genannt. Kenichi Tsuchiyas Animation Director bezeichnet eine Abteilungsfunktion, keine zweite Hauptregie.",
+      "country_note": "Japan gemäß JFDB und Berlinale-Programm; Sony/Crunchyroll/WildBunch als internationale Auswertungspartner nicht als zusätzliche Produktionsländer abgeleitet.",
+      "series": {
+        "name": "Shinkais Katastrophentrilogie",
+        "position": 3,
+        "note": "Thematische Folge nach Veröffentlichung: Your Name (2016), Weathering With You (2019), Suzume (2022). Als Trilogie beim Verleih Anime Limited ausdrücklich benannt; keine fortlaufende Figurenhandlung und kein zwingend einheitliches Universum."
+      },
+      "series_note": "Benannter thematischer Zyklus, keine direkte Fortsetzung: Your Name 2016, Weathering With You 2019, Suzume 2022. Die Verleihquelle nennt die drei Filme unter Shinkai’s Trilogy. Figuren-Cameos und abweichende Welten bleiben von dieser Zählweise getrennt.",
+      "series_sources": [
+        "https://jfdb.jp/en/title/9760",
+        "https://suzume-tojimari-movie.jp/",
+        "https://blog.alltheanime.com/shinkais-trilogy/"
+      ],
+      "sources": [
+        {
+          "key": "offiziell",
+          "url": "https://suzume-tojimari-movie.jp/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Inhalts-/Figurenabschnitte und führende Staffrubrik gelesen: Kyushu, Tamaki als Tante und EriFukatsu, NanokaHara/Suzume, HokutoMatsumura/Sota, dreibeiniger Kinderstuhl, Mutter Tsubame, Shinkais Originalgeschichte/Regie und Japanstart2022. Eine fehlerhaft duplizierte Bildbeschriftung beim Serizawa-Abschnitt nicht übernommen."
+        },
+        {
+          "key": "jfdb",
+          "url": "https://jfdb.jp/en/title/9760",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Filmdatensatz im ausführlichen Suchindex gelesen: Originaltitel,2022,Regie/Drehbuch,Produktionsfirmen,Originalstimmen,Daijin unddreibeinigerStuhl. November11 ist regulärerJapanstart, nicht frühesteVorführung."
+        },
+        {
+          "key": "imax",
+          "url": "https://suzume-tojimari-movie.jp/imax.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Ankündigungsabschnitt im Suchindex gelesen: angekündigte früheste IMAX-Vorführung7.November2022um19Uhr per Ticketverlosung, vor landesweitemStart11.November; allgemeine IMAX-Werbung nicht verwendet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Suzume",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung, japanische Rollentabelle und Veröffentlichungsabschnitt gelesen: entfernterKeystone/Daijin,SotaalsErsatzkeystone,Ever-After,BegegnungmitKindheits-Suzume,Stuhlgeschenk undRückkehr. Roman-/Mangaspin-offs nicht alsFilmfortsetzungen behandelt."
+        },
+        {
+          "key": "crunchyroll",
+          "url": "https://www.crunchyroll.com/news/interviews/2023/4/28/interview-suzume-director-makoto-shinkai-on-healing-a-wounded-nation-through-anime",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigentliches Shinkai-Interview im ausführlichen Suchindex gelesen; direkteSeiteohneText. Konkrete ReiseWest→Ost,Verlustdurch2011Katastrophe,unterschiedlicheRuinenursachen,Erinnerungsarbeit,Musik undGenerationenabsicht. AlteUmsatz-/Wertungsstände nicht übernommen."
+        },
+        {
+          "key": "wrap",
+          "url": "https://www.thewrap.com/makoto-shinkai-suzume-interview/",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängende Einleitung sowie vollständige Frage/Antwort zu dreibeinigemStuhl und Schließgebet gelesen: Humor/Instabilität,ErinnerungfrühererBewohner,shintoähnlicheLandrückgabe; spätereInterviewteile nicht als vollständig gelesen ausgegeben."
+        },
+        {
+          "key": "solomon",
+          "url": "https://www.animationscoop.com/interview-makoto-shinkai-on-suzume/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigentliches Shinkai-Interview mitCharlesSolomon gelesen: verlasseneOrte,jichinsai ohneAbschlussritual,Recherchefahrt,StuhlalsVerletzlichkeitsmetapher,Erfahrung2011. Die redaktionell ungenaue Bezeichnung des erstenOrts alsVergnügungspark nicht übernommen."
+        },
+        {
+          "key": "filmografie",
+          "url": "https://jfdb.jp/en/person/4744",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Regie-/Autoren-Filmografietext im Suchindex gelesen:WeatheringWithYou2019,Suzume2022 alsdatierterZeitanker."
+        },
+        {
+          "key": "berlin",
+          "url": "https://www.berlinale.de/media/download/presse/dossier/pressedossier-2023.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Einschlägigen vollständigen Programmeintrag im Suchindex gelesen:Suzume,Japan2022,Shinkai,Internationalpremiere/Animation imProgramm2023. KeineVolllektüreder124Seitenbehauptet."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/suzume-this-beautifully-bonkers-anime-threatens-frazzle-synapses",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Jessica-Kiang-Filmtext im ausführlichen Suchindex gelesen: Steinfigur wird Katze, Stuhlverwandlung, Ruinenreise und Erinnerung an Alltag beim Schließritual. Schreibfehler Takami für Tamaki nicht übernommen."
+        },
+        {
+          "key": "trilogie",
+          "url": "https://blog.alltheanime.com/shinkais-trilogy/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Andrew-Osmond-Text beim Verleih Anime Limited gelesen: ausdrücklich Shinkai’s Trilogy, Folge Your Name / Weathering With You / Suzume und thematische Katastrophenverbindung; getrennte Geschichten und Perspektiven, keine erfundene durchgehende Figurenhandlung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-023-L1",
+      "year_question_id": "G150-20261103-FANTASY-023-Y",
+      "director_question_id": "G150-20261103-FANTASY-023-D"
+    },
+    {
+      "id": "FANTASY-024",
+      "film_title_de": "Belle",
+      "film_title_original": "Ryū to Sobakasu no Hime",
+      "film_year": 2021,
+      "subdomain": "Fantasy",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "International beachteter Hosoda-Film, dessen Figuren und genaue Handlung außerhalb des Animationspublikums weniger selbstverständlich bekannt sind.",
+      "directors": [
+        "Mamoru Hosoda"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "release_note": "Weltpremiere am 15. Juli 2021 in Cannes, japanischer Kinostart am 16. Juli. Die nordamerikanische Auswertung 2022 begründet kein anderes Erstjahr.",
+      "director_note": "Hosoda verantwortet Originalgeschichte, Drehbuch und Hauptregie. Eric Wong, Jin Kim sowie Tomm Moore und Ross Stewart sind künstlerische Mitwirkende, keine zusätzlichen Hauptregisseure des Films.",
+      "country_note": "Japan gemäß Cannes und JFDB. Internationale Gestaltungsmitarbeit nicht als zusätzliche Produktionsländer interpretiert.",
+      "series": null,
+      "series_note": "Eigenständige Neuinterpretation des Märchens. Weder eine Fortsetzung früherer Hosoda-Filme noch Teil der Disney-Filmfolge.",
+      "series_sources": [
+        "https://studiochizu.com/works/belle/",
+        "https://jfdb.jp/en/title/9542"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://studiochizu.com/works/belle/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Filmtext und Credits im ausführlichen Suchindex gelesen: Suzu in Kochi, Verlust der Mutter, Singen in U, Drache, Hosodas Originalgeschichte und Regie."
+        },
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/press/press-releases/the-new-film-by-mamoru-hosoda-will-world-premiere/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Ankündigung im Suchindex gelesen: Weltpremiere 15. Juli 2021 und zehnjähriges Bestehen des 2011 gegründeten Studio Chizu."
+        },
+        {
+          "key": "jfdb",
+          "url": "https://jfdb.jp/en/title/9542",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Datensatz im Suchindex gelesen: Originaltitel, Japanstart 16. Juli 2021, Hosoda, Produktionsfirma und Originalstimmen."
+        },
+        {
+          "key": "presse",
+          "url": "https://cdn-media.festival-cannes.com/film_film/0002/68/bc81a09e119a4d7d4fd77c766b45ee278d1917fc.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Sämtliche extrahierten Textseiten 1–10 der 13-seitigen Presseunterlage gelesen: Regiestatement, Studiojubiläum, Figuren-/Stimmenliste, internationale Gestaltung. Falsche Jahresangaben zu Wolf Children und The Boy and the Beast in einer Biografie nicht übernommen; widersprüchliche Laufzeit nicht verwendet."
+        },
+        {
+          "key": "awn",
+          "url": "https://www.awn.com/animationworld/mamoru-hosodas-belle-learning-become-your-truest-self",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Artikel samt Interviews mit Hosoda und Eric Wong gelesen: digitale Selbstdarstellung, Trauer, weltweite Zusammenarbeit, Wongs kulturübergreifende virtuelle Metropole, Geometrie sowie Flora und Fauna."
+        },
+        {
+          "key": "playlist",
+          "url": "https://theplaylist.net/mamoru-hosoda-belle-interview-20220117/",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden vollständigen Interviewabschnitt von der heutigen Märchenbedeutung bis zur Liedproduktion gelesen: reales misshandeltes Kind hinter dem Biest, Schutz statt Bösewichtbiografie, 2D-Alltag und CG-Internet, befreiende Stimme und Songdramaturgie. Einleitende Seitennavigation nicht als Inhalt gezählt."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/belle-movie-review-2022",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Robert-Daniels-Filmtext im ausführlichen Suchindex gelesen: Mutter rettet fremdes Kind im Fluss, Suzus Sprech-/Gesangshemmung, Hiro als Freundin, Musik und öffentliche Identität. Einzelne Avatar-Entstehungsdetails nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Belle_(2021_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und japanische Besetzung gelesen: Hiro als Managerin, Kei schützt Tomo vor dem Vater, Suzus freiwillige Enthüllung und Vertrauensgewinn. Keine Preisstatistiken oder undatierten Rekorde übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-024-L1",
+      "year_question_id": "G150-20261103-FANTASY-024-Y",
+      "director_question_id": "G150-20261103-FANTASY-024-D"
+    },
+    {
+      "id": "FANTASY-025",
+      "film_title_de": "Weathering With You – Das Mädchen, das die Sonne berührte",
+      "film_title_original": "Tenki no Ko",
+      "film_year": 2019,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Im Animepublikum bekannter Shinkai-Film; die Figuren und der konfliktreiche Ausgang sind außerhalb dieser Gruppe weniger präsent als Your Name.",
+      "directors": [
+        "Makoto Shinkai"
+      ],
+      "production_countries": [
+        "Japan"
+      ],
+      "release_note": "Japanischer Kinostart am 19. Juli 2019 gemäß JFDB und zeitgenössischem Toho-Veröffentlichungshinweis im Regieinterview. Toronto im September war die nordamerikanische Premiere; deutscher Kinostart 2020.",
+      "director_note": "Makoto Shinkai verantwortet Originalgeschichte, Drehbuch und Regie. Atsushi Tamuras Animation Direction ist die Animationsleitung, keine zweite Hauptregie.",
+      "country_note": "Japan gemäß JFDB und TIFF; ausländische Verleiher nicht als Produktionsländer übernommen.",
+      "series": {
+        "name": "Shinkais Katastrophentrilogie",
+        "position": 2,
+        "note": "Thematische Folge nach Veröffentlichung: Your Name (2016), Weathering With You (2019), Suzume (2022). Als Trilogie beim Verleih Anime Limited ausdrücklich benannt; keine fortlaufende Figurenhandlung und kein zwingend einheitliches Universum."
+      },
+      "series_note": "Benannter thematischer Zyklus, keine direkte Fortsetzung: Your Name 2016, Weathering With You 2019, Suzume 2022. Die Verleihquelle nennt die drei Filme unter Shinkai’s Trilogy. Figuren-Cameos und abweichende Welten bleiben von dieser Zählweise getrennt.",
+      "series_sources": [
+        "https://www.animationscoop.com/interview-makoto-shinkai-director-weathering-with-you/",
+        "https://blog.alltheanime.com/shinkai-on-weathering/",
+        "https://blog.alltheanime.com/shinkais-trilogy/"
+      ],
+      "sources": [
+        {
+          "key": "jfdb",
+          "url": "https://jfdb.jp/title/9000",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen japanischen Filmdatensatz im ausführlichen Suchindex gelesen: Tenki no ko, 2019, 19. Juli, Originalgeschichte/Drehbuch/Regie Shinkai, Daigo/Hodaka und Mori/Hina sowie Hauptstaff."
+        },
+        {
+          "key": "gkids",
+          "url": "https://gkids.com/films/weathering-with-you/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Verleihtext gelesen: Hodakas Flucht von der Insel nach Tokio, Geldnot, Arbeit für ein okkultes Magazin und Hinas Fähigkeit, Regen zu stoppen."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=6393d438c8a72800161f0a67&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Freigabetext im Suchindex gelesen: deutscher Langtitel, Japan 2019, Regie Makoto Shinkai und fantastischer Wetterkonflikt. Das Freigabedatum 2020 ist kein Erstjahr."
+        },
+        {
+          "key": "tiff",
+          "url": "https://downloads.ctfassets.net/22n7d68fswlw/3S3xFtoSyY2ZHC61UVFL3Q/ac009350c649279cd37b54eabcf217ea/TIFF2019_Programmebook_COMPLETE_reduce.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Programmeintrag im ausführlichen Suchindex gelesen, nicht das gesamte Programmbuch: Japan 2019, North American Premiere, Shinkai, Daigo/Mori und Credits."
+        },
+        {
+          "key": "miller",
+          "url": "https://www.animationscoop.com/interview-makoto-shinkai-director-weathering-with-you/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigentliches Interview samt Einleitung gelesen: meteorologischer Berater korrigiert Wolken/Regen im Videostoryboard, Mischung gezeichneter und CG-Effekte, Reaktionen auf überflutetes Tokio, eigene Storyboards und Kinostart. Die wiederholte falsche Handlungsdatierung 2011 und die ungenaue meteorologische Hemisphärenformulierung nicht übernommen."
+        },
+        {
+          "key": "osmond",
+          "url": "https://blog.alltheanime.com/shinkai-on-weathering/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Interview-/Q&A-Bericht von Andrew Osmond einschließlich Spoilerabschnitt gelesen: Opferkonflikt, Tokio nach dem Regen, Hodakas Verantwortung, Cameos, Musikarbeit mit Radwimps und Aufgabenteilung Shinkai/Tamura."
+        },
+        {
+          "key": "perkins",
+          "url": "https://www.animationforadults.com/2020/01/interview-makoto-shinkai-talks.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden vollständigen Interviewabschnitt von Ausgangsidee bis McDonald's-Darstellung gelesen: Wunsch nach Harmonie durch Opfer einer Einzelperson, okkultes Magazin, Großstadtperspektive und erkennbare reale Orte. Spätere Antworten nicht als gelesen behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Weathering_with_You",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und japanische Besetzung gelesen: bezahlte Schönwetter-Aufträge, Hinas Transparenz und Verschwinden, Rückholung, drei Jahre anhaltender Regen, Wiedersehen; Nagi, Suga und Natsumi mit Originalstimmen."
+        },
+        {
+          "key": "filmografie",
+          "url": "https://jfdb.jp/en/person/4744",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmografie im vollständigen Suchindex gelesen: Your Name 2016 und Weathering With You 2019 für den konkreten zeitlichen Anker."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/weathering-with-you-movie-review-2020",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigentliche Simon-Abrams-Kritik und Cast im ausführlichen Suchindex gelesen: Hodakas Geldnot, Sugas Verlag/Unterkunft, Hinas Sonnenschein gegen Geld, Figurenkonstellation und Stadtgestaltung. Direktabruf 403; US-Auswertungsjahr 2020 nicht als Erstjahr benutzt."
+        },
+        {
+          "key": "trilogie",
+          "url": "https://blog.alltheanime.com/shinkais-trilogy/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Andrew-Osmond-Text beim Verleih Anime Limited gelesen: ausdrücklich Shinkai’s Trilogy, Folge Your Name / Weathering With You / Suzume und thematische Katastrophenverbindung; getrennte Geschichten und Perspektiven, keine erfundene durchgehende Figurenhandlung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-025-L1",
+      "year_question_id": "G150-20261103-FANTASY-025-Y",
+      "director_question_id": "G150-20261103-FANTASY-025-D"
+    },
+    {
+      "id": "FANTASY-026",
+      "film_title_de": "Dungeons & Dragons: Ehre unter Dieben",
+      "film_title_original": "Dungeons & Dragons: Honor Among Thieves",
+      "film_year": 2023,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit ausgewertetes Fantasyabenteuer mit bekanntem Ensemble und populärer Spielmarke; die Handlung ist auch ohne Regelkenntnis zugänglich.",
+      "directors": [
+        "Jonathan Goldstein",
+        "John Francis Daley"
+      ],
+      "production_countries": [
+        "USA",
+        "Großbritannien"
+      ],
+      "release_note": "Weltpremiere als Eröffnungsfilm des SXSW am 10. März 2023, vor dem regulären US-Start am 31. März. Die FSK führt 2022 als Produktionsjahr, nicht als belegte erste Veröffentlichung; The Numbers nennt zudem ein offensichtlich abweichendes deutsches Startdatum, das nicht übernommen wird.",
+      "director_note": "Paramount nennt Jonathan Goldstein und John Francis Daley gemeinsam als Directed by. Michael Gilio und Chris McKay haben Drehbuch-/Storycredits, keine Regiecredits der fertigen Fassung.",
+      "country_note": "BFI Research and Statistics zählt den Film ausdrücklich zu den UK/USA-Produktionen 2023. Die knappe BFI-Kinoprogrammzeile und die FSK nennen nur USA; die ausführlichere institutionelle Länderangabe führt. Kanada und Australien werden in einzelnen Sekundärdatenbanken zusätzlich geführt, aber hier mangels gleichwertiger konkreter Produktionszuordnung nicht ergänzt.",
+      "series": {
+        "name": "Dungeons & Dragons – Neustart",
+        "position": 1,
+        "note": "Erster Film der neu begonnenen eigenständigen Figurenhandlung. Keine Fortsetzung der drei früheren D&D-Filme; eine lediglich geplante Fortsetzung erzeugt keine weitere Filmfassung."
+      },
+      "series_note": "Neustart innerhalb der Spielverfilmungen. Der Untertitel kennzeichnet eine einzelne Geschichte der größeren Welt; die Figurenhandlung setzt keinen der älteren Filme fort.",
+      "series_sources": [
+        "https://www.syfy.com/syfy-wire/dungeons-dragons-honor-among-thieves-movie-title-origin",
+        "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_(film_series)"
+      ],
+      "sources": [
+        {
+          "key": "paramount",
+          "url": "https://www.paramount.com/movies/dungeons-%26-dragons-honor-among-thieves",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis, Cast und Crew gelesen: Originaltitel, US-Start 31. März 2023, Goldstein/Daley, Pine/Edgin, Rodriguez/Holga, Smith/Simon, Lillis/Doric, Grant/Forge."
+        },
+        {
+          "key": "sxsw",
+          "url": "https://www.sxsw.com/wp-content/uploads/2023/02/Press-Release-SXSW-2023-Film-TV-Festival-Announcement-FINAL-1.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Eröffnungsfilm-Abschnitt im ausführlichen Suchindex gelesen: SXSW 10.–19. März 2023, Eröffnungsfilm und beide Regisseure. Direktabruf später 404; keine Lektüre des gesamten Programms behauptet."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/news/official-bfi-2023-statistics",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden vollständigen Abschnitt zum Kinomarkt und den zehn UK/USA-Filmen gelesen; Honor Among Thieves ausdrücklich darunter. Steuerliche Produktionszuordnung, nicht bloß Drehortbehauptung."
+        },
+        {
+          "key": "gamesradar",
+          "url": "https://www.gamesradar.com/dungeons-and-dragons-honor-among-thieves-cameo/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen veröffentlichten Interviewauszug mit beiden Regisseuren gelesen: spontane Problemlösung, Fünf-Fragen-Regel als Filmhumor, optimistischer Barde, platonische Partnerschaft und ernst genommene Figuren. Nicht den längeren Podcast als gehört ausgegeben."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons:_Honor_Among_Thieves",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlungsbeginn, Besetzung und Produktionsabschnitte gelesen: Tochter Kira, gefangene Diebe, Doric als verwandelnde Druidin, Forge und Sofina. Nicht die dort erweiterten Länderangaben ungeprüft übernommen."
+        },
+        {
+          "key": "szenen",
+          "url": "https://themoviespoiler.com/movies/dungeons-dragons-honor-among-thieves/",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden Filmbericht von der Eröffnung bis zur Schlussszene gelesen: Dorics Gestaltwechsel, umgestürztes Portalbild, Schatzverteilung als Evakuierung und Holgas Wiederbelebung. Die falsche Kurzbezeichnung des ersten Gefangenen als Ork und der Schreibfehler Glover nicht übernommen."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=dungeons-dragons-honor-among-thieves",
+          "accessed_on": "2026-11-03",
+          "supports": "Einschlägige zusammenhängende Dialogfolgen gelesen: Familienvorgeschichte, erste Befragung des Leichnams mit versehentlich verbrauchten Fragen, Edgins Eingeständnis gegenüber der vermeintlichen Kira. Inoffizielle Transkription als Dialogabgleich, keine eigene Filmsichtung und kein offiziell autorisiertes Drehbuch."
+        },
+        {
+          "key": "syfy",
+          "url": "https://www.syfy.com/syfy-wire/dungeons-dragons-honor-among-thieves-movie-title-origin",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Titel-/Regiebericht gelesen: neue Geschichte in der größeren Spielwelt, Abgrenzung zur Verfilmung von 2000 und Regie-/Storycredits."
+        },
+        {
+          "key": "filmfolge",
+          "url": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_(film_series)",
+          "accessed_on": "2026-11-03",
+          "supports": "Einschlägigen vollständigen Filmfolgenabschnitt im Suchindex gelesen: drei ältere Filme, Honor Among Thieves als davon unabhängiger Reboot."
+        },
+        {
+          "key": "spiel",
+          "url": "https://www.dungeonsanddragons.com/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige offizielle Editionschronik gelesen: Original Dungeons & Dragons 1974 als datierter Zeitanker; andere Spielregeln nicht daraus in den Film übertragen."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=6409d50c4deb09001c992fb7&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen Datensatz im Suchindex gelesen: deutscher Titel und abweichendes Produktionsjahr 2022; nicht als Erstveröffentlichungsjahr verwendet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-026-L1",
+      "year_question_id": "G150-20261103-FANTASY-026-Y",
+      "director_question_id": "G150-20261103-FANTASY-026-D"
+    },
+    {
+      "id": "FANTASY-027",
+      "film_title_de": "Phantastische Tierwesen und wo sie zu finden sind",
+      "film_title_original": "Fantastic Beasts and Where to Find Them",
+      "film_year": 2016,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Groß angelegter, weithin bekannter Ableger der Harry-Potter-Welt mit eigenem Hauptensemble; konkrete Handlungs- und Gestaltungsfragen bleiben wissensabhängig.",
+      "directors": [
+        "David Yates"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 10. November 2016 in der New Yorker Alice Tully Hall. Reguläre Novemberstarts liegen danach; die BFI-Kurzzeile 17. November und das verbreitete britisch-amerikanische Datum 18. November ändern das Erstjahr nicht.",
+      "director_note": "David Yates als alleiniger Hauptregisseur gemäß British Council und BFI. J.K. Rowling schrieb das Drehbuch, David Heyman produzierte; beide sind keine zusätzlichen Regisseure.",
+      "country_note": "UK/US-Koproduktion mit Heyday Films und Warner Bros. ausdrücklich beim British Council und als UK-USA bei BFI geführt.",
+      "series": {
+        "name": "Phantastische Tierwesen",
+        "position": 1,
+        "note": "Erster Film der eigenständigen Newt-Scamander-Filmfolge; innerhalb der größeren Wizarding World ein früher angesiedelter Ableger, nicht Harry Potter Teil 9."
+      },
+      "series_note": "Der erste Tierwesen-Film erschien 2016, gefolgt von Grindelwalds Verbrechen 2018 und Dumbledores Geheimnisse 2022. Frühere Planungen von drei oder fünf Filmen werden nicht als zusätzlich veröffentlichte Teile gezählt.",
+      "series_sources": [
+        "https://filmsandfestivals.britishcouncil.org/projects/fantastic-beasts-and-where-to-find-them",
+        "https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)"
+      ],
+      "sources": [
+        {
+          "key": "council",
+          "url": "https://filmsandfestivals.britishcouncil.org/projects/fantastic-beasts-and-where-to-find-them",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Filmdatensatz gelesen: 2016, David Yates, UK/US-Koproduktion Heyday/Warner, New York und erster Film. Überholte Trilogieplanung und ungenaue Behauptung einer Romanadaption nicht übernommen."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/sight-and-sound/reviews/fantastic-beasts-where-find-them-review-fiddly-start-jk-rowlings-wizarding-prequels",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigentliche Kim-Newman-Kritik mit Credits gelesen: UK-USA 2016, Yates, Originalbesetzung, Bäcker und Koffertausch, nichtnarratives Buch und originäre Filmhandlung. Versehentliche Namen-/Schreibfehler nicht kopiert."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungsabschnitt, Erstpremiere und Filmfolgenhinweise gelesen: Koffertausch, Jacobs Backwunsch, Credence, Thunderbird und Erinnerungseffekt des Regens. Obscurus als Energie und Obscurial als betroffener Mensch nach offizieller Enzyklopädie präzisiert, nicht die stellenweise ungenaue Sekundärterminologie übernommen."
+        },
+        {
+          "key": "obscurial",
+          "url": "https://www.harrypotter.com/fact-file/magical-miscellany/obscurial",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Enzyklopädietext im ausführlichen Suchindex gelesen: unterdrückte angeborene Magie, Gewalt/Missbrauch, Obscurus als dunkle parasitäre Kraft, Credence als ungewöhnlich langlebiger Betroffener."
+        },
+        {
+          "key": "credence",
+          "url": "https://www.harrypotter.com/fact-file/characters-and-pets/credence",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Charaktertext im Suchindex gelesen: Mary Lous Erziehung, Repression und Entstehung des Obscurus; spätere Familienenthüllungen nicht in die erste Filmfassung übertragen."
+        },
+        {
+          "key": "interview",
+          "url": "https://screenanarchy.com/2016/11/pending-interview-fantastic-beasts-and-where-to-find-them-ny-press-with-eddie-redmayne-ezra-miller-d.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Interviewtext gelesen: Miller über Trauma und Repression, Foglers Bäckervorfahre, Waterstons funktionale Kleidung aus den gedanklichen Elternschränken, Yates/Heyman über Drehbuchentwicklung und vertraute Produktionsarbeit. Spekulative Figurenannahmen der Schauspieler nicht als gesicherte Filmhandlung übernommen."
+        },
+        {
+          "key": "yates",
+          "url": "https://www.scannain.com/featured/fantastic-beasts-and-where-to-find-them-david-yates-q-and-a/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Einleitung und erste zwei Yates-Fragen/Antworten gelesen: vorherige vier Potter-Regien, vertraute Mitarbeiter Craig/Day, neue Mitarbeit Rousselot/Atwood und Identifikation mit Newts sozialer Unsicherheit. Weitere Antworten nicht als vollständig gelesen ausgegeben."
+        },
+        {
+          "key": "regen",
+          "url": "https://www.hp-lexicon.org/magic/swooping-evil-venom/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Filmkanon-Eintrag gelesen: verdünntes Swooping-Evil-Gift und Verteilung durch den Thunderbird im Regen über New York. Unabhängige Fan-Enzyklopädie, keine offizielle Filmquelle; Handlung zusätzlich abgeglichen."
+        },
+        {
+          "key": "buch",
+          "url": "https://www.harrypotter.com/news/updated-edition-of-fantastic-beasts-library-book-will-include-new-magical-creatures",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen offiziellen Ankündigungsabschnitt im Suchindex gelesen: Schulbuch erstmals 2001, später erweiterte Ausgabe und wohltätiger Zweck; datierter Anker für Film 2016."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.the-leaky-cauldron.org/2016/11/06/welcome-new-york-mr-scamander-leaky-nyc/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zeitgenössische eigene Vor-Ort-Ankündigung gelesen: von Warner eingeladene Berichterstattung, Weltpremiere Donnerstag 10. November 2016, Alice Tully Hall, Screening 19 Uhr. Tatsächliche Erstpremiere zusätzlich am Veröffentlichungsbericht abgeglichen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-027-L1",
+      "year_question_id": "G150-20261103-FANTASY-027-Y",
+      "director_question_id": "G150-20261103-FANTASY-027-D"
     }
   ],
   "series_updates": [

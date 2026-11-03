@@ -2695,3 +2695,8 @@ Sechs Actionfilme ACTION-022–027 (Cash Truck, The Gentlemen, Criminal Squad, T
 #### Fortsetzung 03.11.2026 – W46
 
 Sechs Actionfilme ACTION-028–033 mit 48 Fragen integriert: S.W.A.T., End of Watch, Training Day, Safe House, Der Mann der niemals lebte und Spy Game. Denzel-Washington-Rollenziel als bestehende Variante geteilt; 47 neue Ziele. Alle Fragen unabhängig vollständig gegengelesen; reale und digitale Hubschrauberelemente in S.W.A.T. nach Primärinterview eindeutig abgegrenzt. Produktionsjahre, Festivalvorführungen und Länderabweichungen einzeln dokumentiert. Action erreicht 133 Filme. Alle 2.280 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 85 Pakete / 17.575 Fragen / 16.876 Ziele; 216 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W47
+
+Sechs Fantasyfilme FANTASY-022–027 (Mirai, Suzume, Belle, Weathering With You, Dungeons & Dragons: Ehre unter Dieben, Phantastische Tierwesen und wo sie zu finden sind) mit 48 neuen Fragen und Wissenszielen integriert. Alle Fragen vollständig unabhängig gegengelesen, mehrere primäre Gestaltungs- und Regieinterviews tatsächlich nachgelesen. Shinkais ausdrücklich benannte thematische Katastrophentrilogie von einer durchgehenden Figurenhandlung abgegrenzt; D&D mit vollständigem Regieduo. Fantasy erreicht 127 Filme. Alle 2.328 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 86 Pakete / 17.623 Fragen / 16.924 Ziele; 210 Genreergänzungen offen.
