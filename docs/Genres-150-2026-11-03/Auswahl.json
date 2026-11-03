@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 379 Filmfassungen mit 3032 Fragen lokal integriert. 122 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 382 Filmfassungen mit 3056 Fragen lokal integriert. 119 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -5795,10 +5795,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Erzwungene Ausbildung von Attentäterinnen und spätere Selbstbehauptung im Hongkong-Actionkino.",
+      "selection_reason": "Die gewaltsame Ausbildung entführter Sportlerinnen stellt Kampfkunst in den Dienst einer kriminellen Organisation. Freundschaft, Wiederbegegnung mit der Mutter und Widerstand gegen die Auftraggeber eröffnen verschiedene Zugänge jenseits der bloßen Aktionsfolge.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-004"
     },
     {
       "candidate_id": "C-100",
@@ -5834,10 +5835,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Die zweite Azumi-Mission setzt Attentatsauftrag und Zweifel an der Gewalt fort.",
+      "selection_reason": "Die Fortsetzung verbindet den verbliebenen Attentatsauftrag mit der Begegnung eines Doppelgängers, Verrat und der Möglichkeit eines anderen Lebens. Darstellerinterviews eröffnen weitere Fragen zu Kampfgestaltung und Spiel.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-007"
     },
     {
       "candidate_id": "C-103",
@@ -5847,10 +5849,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein abtrünniger Ninjakämpfer stellt sich dem Clan, der ihn ausgebildet hat.",
+      "selection_reason": "Verbindet einen abtrünnigen Schüler eines brutalen Clans mit einer europäischen Ermittlerin. Körpertraining, stilisierte Kampfchoreografie und der Gegensatz von erzwungener Gefolgschaft und eigener Entscheidung tragen die Genreeinordnung.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-008"
     },
     {
       "candidate_id": "C-104",
