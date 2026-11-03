@@ -2585,3 +2585,8 @@ Sechs Abenteuerfilme mit 48 Fragen integriert; 47 neue globale Ziele und eine Pe
 #### Fortsetzung 03.11.2026 – Musik W24
 
 Sechs Musikfilme mit 48 Fragen integriert; 47 neue globale Ziele und eine bestehende Rollenvariante bei Victor/Victoria. Musik 139, Arthouse 148, Classics 217. Vollständige zentrale und unabhängige Gegenlesung; örtliches Tanzverbot bei Footloose mit vergleichbaren Ablenkern, Tommy-Szenen zusätzlich belegt. Roma-Trilogie und Beatles-Kinofolge jeweils Teil 3. Alle 1.248 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 63 Pakete / 16.543 Fragen / 15.857 Ziele; 345 Genreergänzungen und zwei überlappende Arthouse-Filme offen.
+
+
+#### Fortsetzung 03.11.2026 – Musik W25
+
+Sechs Musikfilme mit 48 Fragen integriert; 46 neue globale Ziele und zwei bestehende Personenvarianten. Musik 145, Arthouse 149, Classics 217. Vollständige zentrale und unabhängige Gegenlesung; vier Frage-/Optionssätze nachgeschärft, zwei überlange Blöcke gekürzt. Get on Up durch zusätzliche gelesene Regieinterviews und konkrete Boston-Szenenkritik verbreitert. Alle 1.296 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 64 Pakete / 16.591 Fragen / 15.903 Ziele; 339 Genreergänzungen und ein überlappender Arthouse-Film offen.

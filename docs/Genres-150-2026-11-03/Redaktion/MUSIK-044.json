@@ -1,0 +1,277 @@
+{
+  "id": "MUSIK-044",
+  "film_title_de": "Annette",
+  "film_title_original": "Annette",
+  "film_year": 2021,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Der Cannes-Eröffnungsfilm ist im Autorenkino bekannt, seine weitgehend gesungene und bewusst künstliche Erzählung bleibt im allgemeinen Publikum eine Entdeckung.",
+  "selection_reason": "Fast durchgehender Gesang, sichtbare Puppendarstellung und der Übergang von Mitwirkenden zu Figuren verbinden Künstlerdrama und experimentelles Musiktheater. Diese konkrete Form begründet Arthouse.",
+  "directors": [
+    "Leos Carax"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "Thailand",
+    "Deutschland",
+    "Belgien",
+    "Mexiko",
+    "Japan",
+    "Schweiz"
+  ],
+  "release_note": "Cannes-Eröffnung und Uraufführung am 6.7.2021 nach Filmportal und Festival. Der Cannes-Datensatz nennt Herstellungsjahr 2020, das keine öffentliche Veröffentlichung 2020 belegt; Erstjahr 2021.",
+  "director_note": "Alleinige Filmregie Leos Carax. Ron und Russell Mael schreiben Originalgeschichte und Musik; keine Mitregie aus Autorenschaft abgeleitet.",
+  "country_note": "Führend ist der ausführliche Filmportal-Koproduktionsdatensatz: Frankreich, Thailand, Deutschland, Belgien, Mexiko, Japan und Schweiz, einschließlich Tribus P. in Bangkok. Cannes nennt eine kürzere Fünfergruppe ohne Thailand und Schweiz; Alamode nennt Frankreich, Belgien, Deutschland und USA. Die widersprüchlichen Listen werden nicht vereinigt; USA ist in den führenden Festival- und Filmportalangaben nicht geführt. Schauplatz Los Angeles und dortige Drehtage begründen es allein nicht.",
+  "series": null,
+  "series_note": "Eigenständige Geschichte von Sparks/Carax. Die Verwandtschaft der Form mit Holy Motors und märchenhafte Pinocchio-Bezüge sind keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://alamodefilm.de/filme/annette/",
+    "https://www.festival-cannes.com/en/f/annette/"
+  ],
+  "sources": {
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/annette/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Festival-Werktext und sämtliche Credits im Suchindex gelesen: Eröffnung und Wettbewerb 2021, Carax, Henry und Ann, Sparks und fünf genannte Koproduktionsländer. Herstellungsjahr 2020 ausdrücklich vom Erstjahr unterschieden; späterer direkter Abruf mit Timeout."
+    },
+    "archiv": {
+      "url": "https://www.filmportal.de/en/movie/annette_0d16b407b27e4c138eb8517e07820a5a",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmportal-Kopfdaten, vollständige Filmcredits und Auswertungsdaten gelesen: vollständige Länderliste, Tribus P. in Bangkok, Ann Desfranoux, Henry McHenry, Dirigent, Devyn McDowell und Premiere am 6.7.2021. Nutzerkommentare sind keine führende Filmportal-Synopsis und werden nicht als Archivbestätigung behandelt."
+    },
+    "verleih": {
+      "url": "https://alamodefilm.de/filme/annette/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Synopsis sowie Produktions- und Stabdaten im Suchindex gelesen: Stand-up und Oper, Los Angeles, Elternpaar, Geburt, Sparks, Carax und deutscher Start. Abweichende Länderbreite und Fassungsminuten nicht still vereinheitlicht."
+    },
+    "presse": {
+      "url": "https://medias.unifrance.org/medias/83/178/242259/presse/annette-dossier-de-presse-anglais.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Die 34-seitige Mappe gezielt gelesen: Cover, Originalcredits und Synopsis; Carax-Interview S. 6–9 zu Form, Prolog und Los Angeles; S. 14–15 zu Puppe und Handwerk; S. 17–18 zu Schluss und Devyn; S. 20 und 23 zu Cotillards Opernstimme; S. 25 zu Drivers Livegesang; S. 32–33 Credits. Andere Passagen nur punktuell; kein vollständig gelesenes PDF behauptet. Keine Liedzeilen übernommen."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/sight-and-sound/features/ron-russell-mael-sparks-annette-interviewed",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Sparks-Interview gelesen: Ron und Russell Mael, Stoff- und Musikentwicklung, Holy Motors 2012, Bergman-Vorprojekt, fast durchgehend gesungene Form und So-May-We-Start-Prolog. Keine Liedzeilen übernommen."
+    },
+    "bildung": {
+      "url": "https://www.kinofenster.de/49297/annette",
+      "accessed_on": "2026-11-03",
+      "supports": "Eigentlichen Filmtext bis zur Puppen- und Medienanalyse gelesen: Promipaar, ausbeuterische Vermarktung, Annette als Puppe, künstliche Ebenen und musikalische Erzählweise. Rahmenmaterial nicht vollständig ausgewertet."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Annette_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Hauptbesetzung gelesen: Prolog außerhalb der Rollen, Puppe, Jacht, Dirigent, Hyperbowl-Anklage und Gefängnis mit realer Darstellerin. Stimm- und Puppeneinsatz nicht mit durchgehender Darstellung Devyn McDowells verwechselt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Henry tritt als Stand-up-Comedian auf.",
+      "question": "Welcher Bühnenarbeit geht Henry (Adam Driver) in „Annette“ nach?",
+      "answers": [
+        "Er tritt als Stand-up-Comedian auf.",
+        "Er arbeitet als klassischer Ballettsolist.",
+        "Er führt eine Zauberrevue mit Großillusionen auf.",
+        "Er singt als Tenor an derselben Oper wie Ann."
+      ],
+      "short": "Henry ist Stand-up-Comedian.",
+      "context": "Henry (Adam Driver) sucht die Reibung mit seinem Publikum und setzt auf provokante Komik. Ann (Marion Cotillard) gehört einer anderen Bühnenwelt an. Die Medien feiern beide zunächst als glamouröses Paar. Als seine Karriere ins Stocken gerät, während ihre weiter erfolgreich verläuft, verschärft die ungleiche öffentliche Anerkennung die Spannungen in ihrem gemeinsamen Leben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "verleih",
+        "bildung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-173-M-2",
+      "variant_of": "SCHAUSPIELER-202610-P03-173-M-2",
+      "objective": "Ann ist Opernsängerin.",
+      "question": "Welchen Beruf hat Ann, die von Marion Cotillard gespielte Partnerin Henrys in „Annette“?",
+      "answers": [
+        "Opernsängerin",
+        "Filmproduzentin",
+        "Konzertagentin",
+        "Tanzlehrerin"
+      ],
+      "short": "Ann ist eine international erfolgreiche Opernsängerin.",
+      "context": "Ann (Marion Cotillard) erlebt den Tod immer wieder als Teil einer Bühnenrolle. Die Opernauftritte stellen das kontrollierte künstlerische Leiden neben das zunehmend gefährliche Privatleben. Für die Opernpassagen wurde Cotillards Stimme mit der einer professionellen Sängerin verbunden. Ihre sichtbare Darstellung und die hörbare Ausarbeitung des Gesangs sind deshalb als unterschiedliche Beiträge zu betrachten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "verleih",
+        "presse",
+        "bildung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Annette wird über weite Strecken durch eine handgeführte Puppe dargestellt.",
+      "question": "Welche ungewöhnliche Darstellungsform wählt „Annette“ für das Kind über weite Strecken der Handlung?",
+      "answers": [
+        "Eine sichtbar künstliche, von Puppenspielern geführte Puppe",
+        "Eine vollständig am Computer erzeugte Kinderfigur",
+        "Eine in allen Szenen nur als Schatten sichtbare Gestalt",
+        "Eine von einer erwachsenen Tänzerin gespielte Miniaturfigur"
+      ],
+      "short": "Das Kind wird über weite Strecken von einer Puppe verkörpert.",
+      "context": "Die anderen Figuren behandeln Annette innerhalb der Geschichte als wirkliches Kind. Für das Publikum bleiben ihre künstlichen Züge erkennbar. Carax wollte beim Dreh eine körperlich anwesende Figur, auf die die Schauspieler reagieren konnten. Estelle Charlier und Romuald Collinet entwickelten Gesicht, Körper und Führung; ihre handwerkliche Arbeit ermöglicht die Nähe ebenso wie die irritierende Distanz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "bildung",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Annette beschuldigt ihren Vater beim großen Stadionauftritt öffentlich des Tötens.",
+      "question": "Was macht Annette bei der großen Hyperbowl-Halbzeitshow, mit der Henry (Adam Driver) ihre Karriere weiter steigern will?",
+      "answers": [
+        "Sie beschuldigt ihren Vater vor dem Publikum, Menschen zu töten.",
+        "Sie erklärt den Dirigenten zu ihrem wirklichen Vater.",
+        "Sie kündigt an, künftige Auftritte ohne ihren Vater zu bestreiten.",
+        "Sie fordert das Publikum zum Boykott der Firma ihres Vaters auf."
+      ],
+      "short": "Sie klagt Henry öffentlich an.",
+      "context": "Henry (Adam Driver) hat das außergewöhnliche Gesangstalent seiner Tochter zu einem weltweiten Geschäft gemacht. Doch Annette hat die Gewalt ihres Vaters beobachtet. Beim erwarteten Höhepunkt verweigert sie die vorgesehene Darbietung und wendet die Öffentlichkeit gegen ihn. Die vermarktete Kinderstimme wird zum eigenen Zeugnis; der Auftritt führt nicht zum Triumph des Vaters, sondern zu seinem Fall.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "bildung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Sparks, die Brüder Ron und Russell Mael, schufen Originalgeschichte und Musik.",
+      "question": "Welches Musikduo lieferte Originalgeschichte und Musik für „Annette“?",
+      "answers": [
+        "Sparks, Ron und Russell Mael",
+        "Pet Shop Boys, Neil Tennant und Chris Lowe",
+        "Eurythmics, Annie Lennox und Dave Stewart",
+        "Air, Nicolas Godin und Jean-Benoît Dunckel"
+      ],
+      "short": "Geschichte und Musik stammen von Sparks.",
+      "context": "Die Brüder entwickelten musikalische Situationen und Textideen parallel. Fast durchgehender Gesang sollte die Geschichte tragen, ohne dass jede Szene denselben Stil behalten musste. Sie verbanden dafür popmusikalische Eigenheiten mit Einflüssen des gesungenen Kinos von Jacques Demy. Carax übernahm den Stoff und brachte seine eigene Inszenierung in eine bereits weit entwickelte musikalische Erzählung ein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "cannes",
+        "archiv"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Prolog zeigt Mitwirkende noch außerhalb der Figuren beim gemeinsamen Beginn der Aufführung.",
+      "question": "Wie führt der Auftakt zu „So May We Start“ in die Welt von „Annette“ ein?",
+      "answers": [
+        "Mitwirkende erscheinen zunächst außerhalb ihrer Rollen und beginnen gemeinsam die Aufführung.",
+        "Eine historische Nachrichtensendung erklärt die tatsächlichen Vorbilder des Elternpaars.",
+        "Die erwachsene Annette liest aus dem Tagebuch ihrer Mutter vor.",
+        "Ein Opernpublikum sieht die gesamte spätere Geschichte als stummen Film im Film."
+      ],
+      "short": "Die Mitwirkenden treten gemeinsam in die erst beginnende Filmwelt ein.",
+      "context": "Carax und seine Tochter sind im Prolog ebenso präsent wie die Musiker und Darsteller. Der Beginn macht den Vorgang einer hergestellten Aufführung sichtbar, bevor die Figurenbeziehungen die Aufmerksamkeit übernehmen. Carax verweist dafür auf Traditionen des Opernprologs und der Ansprache an ein Publikum. Die Künstlichkeit ist somit von Anfang an Teil des filmischen Angebots.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Annette wurde 2021 erstmals öffentlich gezeigt.",
+      "question": "In welchem Jahr wurde „Annette“ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2021",
+        "2012",
+        "2017",
+        "2024"
+      ],
+      "short": "Die Erstveröffentlichung erfolgte 2021.",
+      "context": "Neun Jahre nach „Holy Motors“ von 2012 eröffnete Carax 2021 mit „Annette“ das Festival von Cannes. Bereits im früheren Film war ein Sparks-Stück zu hören gewesen; daraus entstand der Kontakt für die neue Zusammenarbeit. Die lange Entwicklung mündete in einen englischsprachigen Musikfilm, der trotz des Los-Angeles-Schauplatzes größtenteils in Europa gedreht wurde.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "archiv",
+        "cannes",
+        "bfi",
+        "presse"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Leos Carax führte alleinige Filmregie.",
+      "question": "Wer inszenierte „Annette“ mit Adam Driver und Marion Cotillard?",
+      "answers": [
+        "Leos Carax",
+        "Bertrand Bonello",
+        "Michel Gondry",
+        "François Ozon"
+      ],
+      "short": "Leos Carax führte Regie.",
+      "context": "Carax ließ Los Angeles überwiegend in Belgien und Deutschland neu entstehen; vor Ort in Kalifornien drehte das Team nur einen kleineren Teil. Ihn interessierte eine bewusst erfundene Version der Stadt, in der Henry (Adam Driver) auf dem Motorrad zwischen Bühnen- und Privatwelt wechselt. Musik, künstliche Räume und körperliche Darstellung halten diese Welt zusammen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "archiv",
+        "verleih"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

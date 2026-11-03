@@ -1,0 +1,260 @@
+{
+  "id": "MUSIK-040",
+  "film_title_de": "Hairspray",
+  "film_title_original": "Hairspray",
+  "film_year": 2007,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Die Broadway-Verfilmung mit John Travolta, Zac Efron und bekannten Tanznummern ist im breiteren Musicalpublikum präsent.",
+  "selection_reason": "Tracys Wunsch nach einem Fernsehauftritt verbindet Tanz, Körpernormen und den Kampf gegen rassistische Ausgrenzung in einer Musicalkomödie.",
+  "directors": [
+    "Adam Shankman"
+  ],
+  "production_countries": [
+    "USA",
+    "Großbritannien"
+  ],
+  "release_note": "Premiere im Juli 2007, nach gelesener Veröffentlichungsangabe 10.7. in Los Angeles, reguläre Starts später im selben Monat. Produktionsjahr 2006 auf der französischen Verleihseite bezeichnet die Herstellung, nicht die erste Veröffentlichung.",
+  "director_note": "Adam Shankman alleinige Filmregie und Choreografie nach AFI und eigenem Interview.",
+  "country_note": "USA/Großbritannien nach AFI und BFI. Metropolitan nennt verkürzt USA; die kanadischen Drehorte begründen kein zusätzliches Produktionsland.",
+  "series": null,
+  "series_note": "Neuverfilmung über die Zwischenstufe des Bühnenmusicals, keine nummerierte Fortsetzung des Films von 1988. Die gleiche Tracy-Geschichte wird neu erzählt.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/64292",
+    "https://freshairarchive.org/segments/adam-shankman-putting-new-moves-hairspray"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/64292",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen gekürzten Werk-/Creditdatensatz gelesen: 2007, Shankman, UK/USA, Rollen, Musik, Filmvorlage 1988 und Broadway 2002. AFI führt hier keine ausführliche Synopsis; keine solche behauptet."
+    },
+    "interview": {
+      "url": "https://freshairarchive.org/segments/adam-shankman-putting-new-moves-hairspray",
+      "accessed_on": "2026-11-03",
+      "supports": "Einleitung und Shankman-Interview bis einschließlich Choreografie-Vorbilder und monatlich getrennter TV-Sendung gelesen, außerdem gekennzeichneten Waters-Rückblick zur Ausgrenzung. Belegt Tracy-TV-Ziel, Mutterrolle, Regie/Choreografie, Treffen mit Waters, Tanzschritte als Basis; keine Liedzeilen übernommen und nicht komplettes kombiniertes Transkript behauptet."
+    },
+    "tagebuch": {
+      "url": "https://www.broadwayworld.com/article/The-Directors-Chair-Adam-Shankmans-Hairspray-Diary-9-20070719",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen eigentlichen Tagebucheintrag Shankmans gelesen: Blonsky-Auswahl aus vier Finalistinnen, Freude am Tanzen, Cold Stone und aufgezeichnete Besetzungsbotschaft am Arbeitsplatz."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Hairspray_(2007_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung, Hauptrollen/Cameos und Castingabschnitt gelesen: Nachsitzen/Seaweed, Little Inez gewinnt, Velmas Manipulation wird gefilmt, Edna/Travolta, Inez/Taylor Parks, Erstpremiere 2007. Nicht die mit Original-Research-Hinweis versehenen freien Songdeutungen verwendet."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/b21ad47f-711a-506b-be7b-9515c428cf42/hairspray",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Werkdatensatz gelesen: 2007, USA/UK, Shankman, Dixon und Hauptrollen."
+    },
+    "verleih": {
+      "url": "https://metrofilms.com/film/hairspray-2007/",
+      "accessed_on": "2026-11-03",
+      "supports": "Synopsis und Werkdaten gelesen: Tracy will in Cornys Show, Rivalität Amber, Shankman, französischer StartAugust 2007. Angaben Produktionsjahr 2006/verkürztesUSA/105min nicht führend für Erstjahr, volle Länder und Laufzeit."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Tracy will in der Corny Collins Show tanzen.",
+      "question": "Welches Ziel verfolgt Tracy Turnblad (Nikki Blonsky) zu Beginn der Musicalfassung „Hairspray“?",
+      "answers": [
+        "Als Tänzerin in der Corny Collins Show aufzutreten",
+        "Als Sängerin mit einer Rockband auf Tournee zu gehen",
+        "Als Ansagerin eine tägliche Radiosendung zu übernehmen",
+        "Als Kostümbildnerin für ein Revuetheater zu arbeiten"
+      ],
+      "short": "Sie möchte in der Corny Collins Show tanzen.",
+      "context": "Tracy (Nikki Blonsky) verfolgt die Fernsehsendung begeistert mit ihrer Freundin Penny (Amanda Bynes). Ihre Mutter Edna (John Travolta) fürchtet Enttäuschung und möchte sie von der Bewerbung abhalten. Die Show vermittelt zunächst ein verlockendes Bild von Jugend und Erfolg. Hinter diesem Bild gelten jedoch strenge Vorstellungen darüber, welche Körper und welche Menschen auf dem Bildschirm erwünscht sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "verleih",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-128-S-1",
+      "variant_of": "SCHAUSPIELER-202610-P03-128-S-1",
+      "objective": "John Travolta spielt Tracys Mutter Edna Turnblad.",
+      "question": "Welche weibliche Familienfigur verkörpert John Travolta in der Musicalfassung „Hairspray“?",
+      "answers": [
+        "Tracys Mutter Edna Turnblad",
+        "Pennys Mutter Prudy Pingleton",
+        "Ambers Mutter Velma Von Tussle",
+        "Seaweeds Mutter Motormouth Maybelle"
+      ],
+      "short": "Travolta spielt Tracys Mutter Edna.",
+      "context": "Edna Turnblad (John Travolta) verdient mit Wäschearbeiten Geld und vermeidet zunächst das öffentliche Leben. Der Erfolg ihrer Tochter Tracy (Nikki Blonsky) bringt auch sie wieder aus der Wohnung heraus. Die Besetzung führt eine Tradition der Rolle fort: Im früheren Film spielte Divine die Mutter. Die Figur bleibt innerhalb der Geschichte eine Frau; Travolta spielt keine männliche Figur in Verkleidung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Beim Nachsitzen lernt Tracy von Seaweed neue Tanzschritte.",
+      "question": "Wo lernt Tracy (Nikki Blonsky) in „Hairspray“ Seaweed (Elijah Kelley) und seine Tanzschritte kennen?",
+      "answers": [
+        "Beim Nachsitzen in der Schule",
+        "Bei einer bezahlten Probe im Fernsehstudio",
+        "Bei einem Sommerjob in Wilburs Scherzartikelladen",
+        "Bei einem Auswahlkurs einer privaten Tanzschule"
+      ],
+      "short": "Die beiden begegnen sich beim Nachsitzen.",
+      "context": "Seaweed (Elijah Kelley) bringt Tracy (Nikki Blonsky) Bewegungen bei, mit denen sie später Corny Collins (James Marsden) auf sich aufmerksam macht. Der Austausch entsteht abseits der offiziell erfolgreichen weißen Showgruppe. Ihre neue Freundschaft führt sie zugleich in das Umfeld seiner Mutter Motormouth Maybelle (Queen Latifah), wo sie die Folgen der getrennten Fernsehwelt deutlicher wahrnimmt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Little Inez gewinnt im Finale den Miss-Teenage-Hairspray-Wettbewerb.",
+      "question": "Wer gewinnt am Ende der Musicalfassung „Hairspray“ den Wettbewerb „Miss Teenage Hairspray“?",
+      "answers": [
+        "Little Inez (Taylor Parks)",
+        "Tracy Turnblad (Nikki Blonsky)",
+        "Amber Von Tussle (Brittany Snow)",
+        "Penny Pingleton (Amanda Bynes)"
+      ],
+      "short": "Little Inez gewinnt den Wettbewerb.",
+      "context": "Link Larkin (Zac Efron) holt Little Inez (Taylor Parks) auf die Bühne. Der Zuspruch verschiebt die erwartete Entscheidung zugunsten einer bisher ausgeschlossenen Tänzerin. Gleichzeitig filmt Edna (John Travolta) Velma Von Tussles (Michelle Pfeiffer) Eingeständnis, die Stimmen manipuliert zu haben. Der Triumph gilt dadurch nicht allein Tracys persönlicher Karriere, sondern einer geöffneten Show.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Film von 2007 adaptiert ein Bühnenmusical, das seinerseits auf dem Film von 1988 beruht.",
+      "question": "Welchen Weg nahm der Stoff, bevor die Musicalfassung „Hairspray“ mit Nikki Blonsky entstand?",
+      "answers": [
+        "Vom Spielfilm über ein Bühnenmusical zurück zum Film",
+        "Vom Bühnenmusical über eine Fernsehserie zum Kinofilm",
+        "Vom Fernsehfilm über eine Bühnenrevue zum Kinomusical",
+        "Vom Bühnenstück über einen Spielfilm zum Filmmusical"
+      ],
+      "short": "Die Geschichte wanderte vom Film auf die Bühne und wieder zurück ins Kino.",
+      "context": "John Waters’ Film lieferte die Figuren und den Konflikt, aus denen das Broadway-Musical mit Musik von Marc Shaiman und Texten von Shaiman und Scott Wittman entstand. Die neue Leinwandfassung übernimmt diese musikalische Weiterentwicklung. Sie ist deshalb zugleich Rückkehr zu einem Filmstoff und Verfilmung eines eigenständigen Bühnenwerks, dessen Gesangsnummern für das Kino erneut bearbeitet wurden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "interview"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Blonsky erfuhr durch Shankmans aufgezeichnete Videobotschaft an ihrem Arbeitsplatz im Eisladen von der Besetzung.",
+      "question": "Wie ließ Adam Shankman Nikki Blonsky nach eigener Schilderung erfahren, dass sie Tracy in „Hairspray“ spielen würde?",
+      "answers": [
+        "Mit einer aufgezeichneten Botschaft, die ihr im Eisladen am Arbeitsplatz gezeigt werden sollte",
+        "Mit einer Livezuschaltung während ihres letzten Schulauftritts",
+        "Mit einem überraschenden öffentlichen Angebot nach einer Broadway-Vorstellung",
+        "Mit einer inszenierten Durchsage bei einem Casting vor laufender Fernsehkamera"
+      ],
+      "short": "Shankman nahm eine Botschaft für Blonskys Arbeitsplatz im Eisladen auf.",
+      "context": "Blonsky arbeitete bei Cold Stone Creamery und hatte sich gegen andere Finalistinnen durchgesetzt. Shankman beschreibt ihre Freude und Natürlichkeit beim Tanzen als entscheidend, obwohl sie nicht die technisch stärkste Bewerberin gewesen sei. Die Besetzung führte damit eine neue Darstellerin ins Zentrum einer Produktion, deren erwachsene Nebenrollen bereits mit etablierten Stars besetzt waren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tagebuch",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Die Musicalfassung Hairspray wurde 2007 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien die Musicalfassung „Hairspray“ mit Nikki Blonsky und John Travolta erstmals?",
+      "answers": [
+        "2007",
+        "2002",
+        "2012",
+        "2017"
+      ],
+      "short": "Diese Filmfassung erschien 2007.",
+      "context": "John Waters’ ursprünglicher Film war 1988 erschienen; 19 Jahre später kam die neue Fassung ins Kino. Dazwischen hatte das Bühnenmusical 2002 am Broadway eröffnet. Der zeitliche Abstand erklärt die doppelte Herkunft der Produktion von 2007: Sie blickt auf einen älteren Film zurück und trägt zugleich die inzwischen entstandene Bühnensprache weiter.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "interview",
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Adam Shankman führte Filmregie und verantwortete die Choreografie.",
+      "question": "Wer führte bei der Musicalfassung „Hairspray“ mit Nikki Blonsky Regie?",
+      "answers": [
+        "Adam Shankman",
+        "Rob Marshall",
+        "Kenny Ortega",
+        "Bill Condon"
+      ],
+      "short": "Adam Shankman führte Regie.",
+      "context": "Shankman verband Regie und Choreografie. Nach seiner Verpflichtung traf er John Waters, der ihn zu einer eigenen Fassung ermutigte. Für die Bewegungen studierte er ältere Fernsehtanzsendungen und Tänze wie Pony und Mashed Potato. Aus den kleinen wiederholbaren Schritten entwickelte er größere Musicalnummern, die an das historische Vorbild erinnern und zugleich filmische Schauwerte erzeugen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
