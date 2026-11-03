@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 462 Filmfassungen mit 3696 Fragen lokal integriert. 39 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 468 Filmfassungen mit 3744 Fragen lokal integriert. 33 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -6074,16 +6074,19 @@
     },
     {
       "candidate_id": "C-111",
-      "film_title_de": "Die Todeskammern der Shaolin",
+      "film_title_de": "Der Tempel der Shaolin",
       "film_title_original": "Shao Lin si",
       "film_year": 1976,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Mehrere Novizen verteidigen Shaolin gegen Verrat und politische Gewalt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Beleuchtet die Vermittlung von Kampfkunst vor dem Untergang des Klosters. Die Öffnung zu neuen Schülern verbindet individuelle Übung, Verantwortung der Lehrer und das Weiterleben eines bedrohten Wissens.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-016"
     },
     {
       "candidate_id": "C-112",
@@ -6101,29 +6104,35 @@
     },
     {
       "candidate_id": "C-113",
-      "film_title_de": "Der Mann mit den goldenen Armen",
+      "film_title_de": "Die fünf Kampfmaschinen der Shaolin",
       "film_title_original": "Jin bi tong",
       "film_year": 1979,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Eskorte gerät mit einer Bande und einem geheimnisvollen Retter aneinander.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Eine Goldeskorte verbindet klar unterscheidbare Kampfstile mit konkurrierenden Vorstellungen von Ehre, persönlichem Ruhm und öffentlicher Hilfe.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-018"
     },
     {
       "candidate_id": "C-114",
-      "film_title_de": "Die unbesiegbaren Fünf",
+      "film_title_de": "Vier gnadenlose Rächer",
       "film_title_original": "Can que",
       "film_year": 1978,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Durch Gewalt körperlich verletzte Männer entwickeln gemeinsam neue Kampffähigkeiten.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Überwindung gezielt zugefügter Verletzungen wird als gemeinsame Lernleistung erzählt; akrobatische Kämpfe verbinden neue Fähigkeiten mit gegenseitiger Unterstützung.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-019"
     },
     {
       "candidate_id": "C-115",
@@ -6133,10 +6142,13 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Der Aufstieg eines mittellosen Kämpfers in Shanghai verbindet Gangsterfilm und Martial Arts.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verbindet den sozialen Aufstieg eines mittellosen Kämpfers mit einer Gangstertragödie; der Reiz wirtschaftlicher Macht erhält eine sichtbare, schließlich tödliche Gestalt.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-020"
     },
     {
       "candidate_id": "C-116",
@@ -6146,10 +6158,13 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Wuxiaadaption der Räuber-vom-Liang-Shan-Erzählung mit einer großen Heldenkonstellation.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Das Wuxia-Ensemble verbindet die Anwerbung wichtiger Verbündeter mit Verrat, Gefangenschaft und gemeinsamem Widerstand. Kampfstile und zeitgenössische Musik geben der literarischen Welt eine eigene Filmgestalt.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-021"
     },
     {
       "candidate_id": "C-117",
@@ -6530,16 +6545,19 @@
     },
     {
       "candidate_id": "C-146",
-      "film_title_de": "Once Upon a Time in China II",
+      "film_title_de": "Last Hero – Once Upon a Time in China II",
       "film_title_original": "Wong Fei-hung II: Naam yi dong ji keung",
       "film_year": 1992,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Wong Fei-hung trifft in Kanton auf einen religiösen Kult und die Reformbewegung.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Zeigt Wong Fei-hung zwischen aggressiver Fremdenfeindlichkeit, imperialem Machtanspruch und republikanischem Aufbruch; medizinische Zusammenarbeit und Kampfchoreografie verbinden die politischen Gegensätze mit konkretem Handeln.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-017"
     },
     {
       "candidate_id": "C-147",
