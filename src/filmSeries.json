@@ -2705,7 +2705,10 @@
     },
     "Cronos|1992": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://www.criterion.com/films/27534-cronos",
+        "https://theplaylist.net/interview-jorge-michel-grau-talks-we-are-what-we-are-20110218/"
+      ]
     },
     "Crouching Tiger, Hidden Dragon|2000": {
       "series": {
@@ -13729,10 +13732,12 @@
       "series": {
         "name": "The Ring (US-Neuverfilmungen)",
         "position": 1,
-        "note": "US-Filmfolge ab 2002; nicht die japanischen Ring-Kinofilme."
+        "note": "Erster amerikanischer Langfilm 2002, gefolgt von The Ring Two 2005 und Rings 2017. Die japanische Reihe wird getrennt geführt; der Kurzfilm Rings von 2005 ist kein zusätzlicher nummerierter Langfilm."
       },
       "sources": [
-        "https://www.themoviedb.org/collection/14563"
+        "https://amblin.com/movie/the-ring/",
+        "https://amblin.com/movie/the-ring-two/",
+        "https://www.paramount.com/movies/rings"
       ]
     },
     "The Rock|1996": {
@@ -17706,6 +17711,38 @@
       "sources": [
         "https://www.universalpictures.com/movies/the-house-with-a-clock-in-its-walls",
         "https://www.denofgeek.com/movies/eli-roth-interview-we-had-the-potter-police-on-set/"
+      ]
+    },
+    "Orphan|2009": {
+      "series": {
+        "name": "Orphan",
+        "position": 1,
+        "note": "Erster veröffentlichter Langfilm 2009; Orphan: First Kill 2022 ist der zweite veröffentlichte Film und erzählt eine Vorgeschichte. Ein weiterer in Produktion befindlicher Titel erhält hier keine behauptete Erstveröffentlichung."
+      },
+      "sources": [
+        "https://www.paramountpressexpress.com/paramount-plus/shows/orphan-first-kill/releases",
+        "https://www.paramountplus.com/movies/video/5bRqQvNEFYMGLcEFYgeAPpkqFXj3k9rf/"
+      ]
+    },
+    "Kairo|2001": {
+      "series": null,
+      "sources": [
+        "https://www.festival-cannes.com/en/f/kairo/",
+        "https://en.wikipedia.org/wiki/Pulse_(2001_film)"
+      ]
+    },
+    "Kyua|1997": {
+      "series": null,
+      "sources": [
+        "https://www.criterion.com/films/27666-cure",
+        "https://iffr.com/en/iffr/1998/films/cure"
+      ]
+    },
+    "Noroi|2005": {
+      "series": null,
+      "sources": [
+        "https://globalcinema.kadokawa.co.jp/library/entry-3173.html",
+        "https://www.americangenrefilm.com/theatrical-film-catalog/noroi-the-curse/"
       ]
     }
   }

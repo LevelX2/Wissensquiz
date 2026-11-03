@@ -1,0 +1,271 @@
+{
+  "id": "HORROR-030",
+  "film_title_de": "The Ring",
+  "film_title_original": "The Ring",
+  "film_year": 2002,
+  "genre": "Horror",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Die amerikanische Samara-Geschichte und das tödliche Videoband sind weit über das engere Horrorpublikum bekannt; das Remake erhält eine eigene Filmidentität.",
+  "selection_reason": "Die amerikanische Bearbeitung verbindet eine journalistische Recherche mit einer ansteckenden Bildergeschichte und einem bewusst irreführenden Erlösungsversprechen.",
+  "directors": [
+    "Gore Verbinski"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "2002 nach AFI und Amblin; AFI nennt die Eröffnungen Los Angeles/New York am 18. Oktober 2002. Das japanische Ringu von 1998 ist die Vorlage, kein früheres Veröffentlichungsdatum dieser Fassung.",
+  "director_note": "Alleiniger Regiecredit Gore Verbinski nach Studio und AFI. Ehren Kruger ist Drehbuchautor; Hideo Nakata inszenierte das japanische Vorbild und später die amerikanische Fortsetzung.",
+  "country_note": "USA nach AFI. Japanische Stoffherkunft und australische/neuseeländische Hauptdarsteller begründen keine zusätzlichen Produktionsländer.",
+  "series": {
+    "name": "The Ring (US-Neuverfilmungen)",
+    "position": 1,
+    "note": "Erster amerikanischer Langfilm 2002, gefolgt von The Ring Two 2005 und Rings 2017. Die japanische Reihe wird getrennt geführt; der Kurzfilm Rings von 2005 ist kein zusätzlicher nummerierter Langfilm."
+  },
+  "series_note": "Amblin bezeichnet The Ring Two ausdrücklich als Fortsetzung des Films von 2002; Paramount führt Rings 2017 als weiteres Kapitel derselben Samara-Reihe. Reihenfolge nach veröffentlichten amerikanischen Langfilmen.",
+  "series_sources": [
+    "https://amblin.com/movie/the-ring/",
+    "https://amblin.com/movie/the-ring-two/",
+    "https://www.paramount.com/movies/rings"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://amblin.com/movie/the-ring/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Synopsis und Credits gelesen: Zeitungsreporterin, tödliche Siebentagesfrist, Rachel/Noah/Aidan, Regie und Crew, Ringu 1998 als Vorlage, vorherige DreamWorks-Filme und Fortsetzung 2005."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/62536",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen verfügbaren Credit-/Werkdatensatz gelesen: Jahr 2002, US-Eröffnungen 18. Oktober, USA, alleinige Regie, Darsteller und Crew. Die Buchangabe New York 2002 ist die zitierte Ausgabe, nicht das japanische Erstpublikationsjahr."
+    },
+    "produktion": {
+      "url": "https://www.cinema.com/articles/1437/ring-the-production-notes.phtml",
+      "accessed_on": "2026-11-03",
+      "supports": "Produktionsnotizen vollständig in direkter Seite und ausführlichem Suchindex gelesen: persönliche Recherche nach Katies Tod, Naomis Zugang zur Mutterfigur, Videobilder als sinnvolle Hinweise, künstlicher roter Ahorn als verbindender Wegweiser, Duffield/Wyeth und Lichtkonzept. Quellenableitung auf L1/M1 begrenzt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Ring_(2002_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Plot und Cast gelesen: Baum hinter der Tapete, Rückkehr zur Hütte, Brunnenvision und Anna als Täterin; Rachel kopiert das Band und Noah stirbt trotz Bergung. Die ungenaue Bezeichnung Noah als Ex-Ehemann wird nicht übernommen."
+    },
+    "kritik": {
+      "url": "https://www.salon.com/2003/03/18/ring_3/",
+      "accessed_on": "2026-11-03",
+      "supports": "Bruce Stones umfangreichen Text in direkter Seite und ausführlichen Suchabschnitten gelesen: Morgans, Annas Mord, vermeintlich heilende Brunnenauflösung, Noahs Tod und der Schluss mit Aidans Kopiertasten. Abweichende Romanjahresangabe nicht übernommen; weiterführende philosophische Deutungen nicht als Handlungsfakten gesetzt."
+    },
+    "effekte": {
+      "url": "https://www.neodymsystems.com/ring/articles.shtml",
+      "accessed_on": "2026-11-03",
+      "supports": "Catherine Feenys zeitgenössisches Primärinterview mit Effektleiter Charles Gibson vom 15. November 2002 im ausführlichen Suchindex gelesen: getrennte Bewegungspässe für Körper/Haar, rückwärts gefilmtes Haar, Wasser- und Reflexionspässe, Position hinter statt vor der Scheibe. Direkter Abruf scheitert mit Timeout; kein ungelesenes Video behauptet."
+    },
+    "fortsetzung": {
+      "url": "https://amblin.com/movie/the-ring-two/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Synopsis und Credits gelesen: ausdrückliche Fortsetzung zum Film 2002, Hideo Nakata, erneute Rachel/Aidan-Handlung sechs Monate später und 2005."
+    },
+    "dritter": {
+      "url": "https://www.paramount.com/movies/rings",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Synopsis und Credits gelesen: weiteres Kapitel der Samara-Reihe, Rings 2017, F. Javier Gutierrez. Angezeigter 21. April ist kein belegter weltweiter Kinostart und wird dafür nicht verwendet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Rachel Keller ist beruflich Journalistin.",
+      "question": "Welchen Beruf hat Rachel Keller (Naomi Watts), die in „The Ring“ den rätselhaften Todesfällen nachgeht?",
+      "answers": [
+        "Journalistin",
+        "Rechtsanwältin",
+        "Grundschullehrerin",
+        "Ärztin"
+      ],
+      "short": "Rachel Keller arbeitet als Journalistin.",
+      "context": "Rachels (Naomi Watts) Nachforschung beginnt mit dem Tod ihrer Nichte Katie (Amber Tamblyn). Die Familiengeschichte wird dadurch zu einem beruflich geführten Ermittlungsweg: Sie sucht Zeugen und prüft Bilder. Sobald sie das Band selbst ansieht, bleibt ihr jedoch kein sicherer Abstand mehr zum Gegenstand ihrer Recherche.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "produktion",
+        "handlung"
+      ],
+      "spoiler": "gering",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P03-159-M-1",
+      "variant_of": "SCHAUSPIELER-202610-P03-159-M-1"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Warnung nach dem Anschauen setzt eine Siebentagesfrist.",
+      "question": "Welche Frist kündigt der Anruf nach dem Anschauen des Videobands in „The Ring“ an?",
+      "answers": [
+        "Sieben Tage bis zum Tod.",
+        "Vierundzwanzig Stunden bis zum Tod.",
+        "Drei Tage bis zum Tod.",
+        "Einen Monat bis zum Tod."
+      ],
+      "short": "Die Warnung lautet: sieben Tage.",
+      "context": "Zunächst klingt die Geschichte wie eine unter Jugendlichen verbreitete Legende. Die zeitlich zusammenfallenden Todesfälle lassen Rachel (Naomi Watts) an der harmlosen Erklärung zweifeln. Das eigene Anschauen verwandelt den Versuch einer Überprüfung in einen Countdown. Später gerät auch ihr Sohn Aidan (David Dorfman) in dieselbe Gefahr.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Das Baummotiv hinter der Tapete verbindet Samaras Unterkunft mit Shelter Mountain.",
+      "question": "Welcher Hinweis führt Rachel (Naomi Watts) und Noah (Martin Henderson) in „The Ring“ von Samaras Unterbringung zurück zum Shelter Mountain Inn?",
+      "answers": [
+        "Das Bild eines Baums hinter der Tapete.",
+        "Eine Rechnung des Gasthauses in einem Kinderbuch.",
+        "Ein Zimmerschlüssel im Pferdestall.",
+        "Eine Postkarte mit Noahs handschriftlicher Notiz."
+      ],
+      "short": "Ein bekanntes Baummotiv weist zurück zum Gasthaus.",
+      "context": "Samara (Daveigh Chase) war in einem abgetrennten Bereich der Scheune untergebracht. Das entdeckte Motiv verbindet diesen abgeschlossenen Raum mit einem schon besuchten Ort. Der rote japanische Ahorn bildet zugleich eine auffällige Ausnahme von den gedämpften Farben des Films: Ein Bild aus dem unverständlichen Band wird zu einer lesbaren Spur.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "produktion"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Anna Morgan warf Samara in den Brunnen.",
+      "question": "Welche Erkenntnis über Samaras Tod gewinnt Rachel (Naomi Watts) im Brunnen in „The Ring“?",
+      "answers": [
+        "Anna Morgan hatte das Mädchen hineingeworfen.",
+        "Richard Morgan hatte das Mädchen bei einem Unfall hineingestoßen.",
+        "Samara hatte sich vor einem Stallbrand darin versteckt.",
+        "Samara war bei der Suche nach einem verlorenen Tier hineingefallen."
+      ],
+      "short": "Samaras Adoptivmutter Anna warf sie in den Brunnen.",
+      "context": "Anna Morgan (Shannon Cochran) hatte sich ein Kind gewünscht, hielt Samaras (Daveigh Chase) verstörenden Einfluss aber schließlich nicht mehr aus. Rachels (Naomi Watts) Vision macht den Brunnen zum Schauplatz familiärer Gewalt. Die Bergung der sterblichen Überreste scheint deshalb zunächst eine gerechte und heilende Auflösung der Nachforschung zu sein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "kritik"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Nur Kopieren und Weitergeben des Bands schützt vor dem tödlichen Fluch.",
+      "question": "Warum hat die Bergung von Samaras Leichnam in „The Ring“ den Fluch noch nicht beendet?",
+      "answers": [
+        "Das Überleben hängt vom Kopieren und Weitergeben des Bands ab.",
+        "Der Brunnen hätte vor der Bergung vollständig zugemauert werden müssen.",
+        "Die Überreste hätten zu Annas Grab gebracht werden müssen.",
+        "Richard Morgans Geständnis hätte öffentlich verbreitet werden müssen."
+      ],
+      "short": "Der entscheidende Unterschied ist das kopierte und weitergegebene Band.",
+      "context": "Noahs (Martin Henderson) Tod widerlegt die erhoffte Erlösung. Rachel (Naomi Watts) muss vergleichen, was sie anders gemacht hat: Sie hatte eine Kopie hergestellt. Am Ende hilft sie Aidan (David Dorfman) an den Kopiertasten. Der Ausweg bewahrt die eigene Familie, indem er die Gefahr für weitere Menschen fortbestehen lässt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "kritik",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Samaras Fernsehaustritt kombiniert getrennte Körper-, Haar-, Wasser- und Reflexionsaufnahmen.",
+      "question": "Wie entstand Samaras Übergang aus dem Fernseher in „The Ring“ laut Effektleiter Charles Gibson?",
+      "answers": [
+        "Aus getrennten Körper-, Haar-, Wasser- und Reflexionsaufnahmen.",
+        "Aus einer durchgehenden Aufnahme mit einer versteckten Öffnung im Gerät.",
+        "Aus einer vollständig animierten Figur vor einer unbewegten Zimmeraufnahme.",
+        "Aus einem Puppenmodell, das im verkleinerten Zimmer bewegt wurde."
+      ],
+      "short": "Mehrere getrennt bearbeitbare Aufnahmen bilden den Übergang.",
+      "context": "Samara (Daveigh Chase) soll zunächst innerhalb des Videobildes und dann vor der Scheibe erscheinen. Das Team nahm ihre Bewegung und das Haar getrennt auf; rückwärts gefilmtes Haar sollte über den Rand fließen. Zusätzliche Wasser- und Spiegelungsbilder erlaubten, den räumlichen Wechsel schrittweise glaubhaft zu machen, statt lediglich eine Figur über den Bildschirm zu legen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "effekte"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 2002 gegenüber japanischem Vorbild Ringu 1998.",
+      "question": "In welchem Jahr erschien die amerikanische Fassung „The Ring“ erstmals?",
+      "answers": [
+        "2002",
+        "1998",
+        "2005",
+        "2010"
+      ],
+      "short": "Die amerikanische Fassung erschien erstmals 2002.",
+      "context": "Vier Jahre nach Hideo Nakatas „Ringu“ von 1998 kam 2002 die amerikanische Bearbeitung heraus. Diese Fassungen gehören unterschiedlichen Produktionszusammenhängen an. Nakata übernahm 2005 dann selbst die Regie der amerikanischen Fortsetzung „The Ring Two“: Der Regisseur des japanischen Vorbilds setzte damit die Geschichte der amerikanischen Figuren fort.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "studio",
+        "fortsetzung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Gore Verbinski inszenierte The Ring als dritten DreamWorks-Film.",
+      "question": "Wer führte bei der amerikanischen Fassung „The Ring“ Regie?",
+      "answers": [
+        "Gore Verbinski",
+        "Hideo Nakata",
+        "Takashi Shimizu",
+        "Kiyoshi Kurosawa"
+      ],
+      "short": "Gore Verbinski führte Regie.",
+      "context": "Nach „MouseHunt“ und „The Mexican“ war dies Gore Verbinskis dritter Film für DreamWorks. Das Drehbuch schrieb Ehren Kruger. Bojan Bazelli verantwortete die Kamera und Hans Zimmer die Musik; Produzenten waren Walter F. Parkes und Laurie MacDonald. Die vertrauten Alltagsmedien des Stoffes werden dabei zu Trägern einer zunehmend unsicheren Wirklichkeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "afi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
