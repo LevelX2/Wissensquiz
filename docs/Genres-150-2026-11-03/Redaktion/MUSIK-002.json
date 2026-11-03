@@ -1,0 +1,234 @@
+{
+  "director_note": "",
+  "country_note": "Die offiziellen Festivalquellen widersprechen sich: Cannes nennt Großbritannien, NZIFF USA. Die Angabe führt beide belegten Produktionszuordnungen zusammen; sie ist kein Nachweis gleich hoher Produktionsanteile.",
+  "series": null,
+  "status": "quellengeprueft",
+  "id": "MUSIK-002",
+  "film_title_de": "De-Lovely – Die Cole Porter Story",
+  "film_title_original": "De-Lovely",
+  "film_year": 2004,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Cole Porters Musik ist verbreitet, diese spezielle biografische Verfilmung aber eher bei Musical- und Filmkennern präsent.",
+  "selection_reason": "Musikerbiografie mit einer erzählten Lebensrückschau als Bühnenproduktion und eigenständigen Songinterpretationen.",
+  "directors": [
+    "Irwin Winkler"
+  ],
+  "production_countries": [
+    "USA",
+    "Großbritannien"
+  ],
+  "release_note": "Erstveröffentlichung 2004; Abschlussfilm des Festivals von Cannes vor dem US-Kinostart am 2. Juli. Kein Schluss vom späteren Landesstart auf ein anderes Filmjahr.",
+  "series_note": "Eigenständige Cole-Porter-Biografie; die frühere Verfilmung Night and Day ist kein vorangehender Teil einer Filmreihe.",
+  "series_sources": [
+    "https://www.festival-cannes.com/en/f/de-lovely/"
+  ],
+  "sources": {
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/de-lovely/",
+      "accessed_on": "2026-11-03",
+      "supports": "Abschlussfilm 2004, Regie, zentrale Darsteller und Bühnenrahmen; abweichende LänderzuordnungGroßbritannien."
+    },
+    "festival": {
+      "url": "https://www1.nziff.co.nz/2004/archive-1/de-lovely/",
+      "accessed_on": "2026-11-03",
+      "supports": "Cole Porter, Linda als dauerhafte Beziehung, Porters Tod 1964, zeitgenössische Gastinterpreten, LänderangabeUSA."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/De-Lovely",
+      "accessed_on": "2026-11-03",
+      "supports": "Gabe-Rahmung, Linda und Cole, Zigarettenetuis, Reitunfall, Credits, Filmjahr und US-Start."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Cole und Linda führen eine Ehe, die nicht mit einer ausschließlich heterosexuellen Beziehung gleichgesetzt wird.",
+      "question": "Welche Beziehung verbindet Cole (Kevin Kline) und Linda (Ashley Judd) in „De-Lovely“?",
+      "answers": [
+        "Sie sind miteinander verheiratet.",
+        "Sie sind Geschwister aus einer Musikerfamilie.",
+        "Sie sind ausschließlich geschäftliche Konkurrenten.",
+        "Sie kennen sich nur als Lehrer und Schülerin."
+      ],
+      "short": "Cole und Linda führen eine langjährige Ehe.",
+      "context": "Linda Porter (Ashley Judd) kennt Cole Porters (Kevin Kline) Beziehungen zu Männern. Trotzdem bleibt sie eine zentrale Partnerin in seinem Leben. Der Film zeigt sowohl ihre Unterstützung als auch Verletzungen und Trennungen; die Ehe lässt sich dadurch nicht auf eine bloße öffentliche Fassade reduzieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Kevin Kline verkörpert den Komponisten.",
+      "question": "Wer spielt den Komponisten Cole Porter in „De-Lovely“?",
+      "answers": [
+        "Kevin Kline",
+        "Kevin Spacey",
+        "Geoffrey Rush",
+        "Richard Gere"
+      ],
+      "short": "Kevin Kline verkörpert Cole Porter.",
+      "context": "Cole Porter (Kevin Kline) begegnet seiner eigenen Vergangenheit nicht nur als erinnernder Erzähler. Die Inszenierung stellt ihm frühere Lebenssituationen wie Aufführungen gegenüber. Seine Frau Linda (Ashley Judd) bleibt dabei eine zentrale Bezugsperson, auch wenn ihre Ehe mit seinen Beziehungen zu Männern verbunden ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Der Lebensrückblick erscheint als von Gabe betreute Bühnenproduktion.",
+      "question": "Welche Form erhält Cole Porters Lebensrückschau in „De-Lovely“?",
+      "answers": [
+        "Eine Bühnenproduktion, deren Szenen er mit Gabe betrachtet.",
+        "Eine Gerichtsverhandlung über den Besitz seiner Lieder.",
+        "Eine Radiosendung, in der unbekannte Hörer Erinnerungen einsenden.",
+        "Eine Konzertreise, bei der er unerkannt sein eigenes Werk hört."
+      ],
+      "short": "Porter sieht sein Leben als inszenierte Bühnenfolge.",
+      "context": "Gabe (Jonathan Pryce) führt den alten Cole Porter (Kevin Kline) durch das rückblickende Spiel. Die Figuren seiner Vergangenheit treten wie Mitwirkende einer Produktion auf. Diese Rahmung verbindet erzählte Biografie und Musical, ohne vorzugeben, jede Szene sei eine dokumentarische Rekonstruktion.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Linda würdigt neue Produktionen mit individuell gestalteten Zigarettenetuis.",
+      "question": "Welches Geschenk macht Linda (Ashley Judd) Cole (Kevin Kline) in „De-Lovely“ zu neuen Showpremieren?",
+      "answers": [
+        "Ein eigens gestaltetes und graviertes Zigarettenetui.",
+        "Eine handgeschriebene Kopie der gesamten Partitur.",
+        "Ein Paar auf die Choreografie abgestimmte Tanzschuhe.",
+        "Ein signiertes Bühnenmodell aus dem jeweiligen Theater."
+      ],
+      "short": "Sie schenkt ihm individuell gestaltete Zigarettenetuis.",
+      "context": "Die wiederkehrenden Geschenke geben der langen Beziehung einen materiellen Ausdruck. Linda Porter (Ashley Judd) begleitet Cole Porter (Kevin Kline) nicht nur als Zuschauerin seines Erfolgs. Inmitten beruflicher Erfolge und privater Verletzungen markiert das Ritual ihre fortbestehende Beteiligung an seinem künstlerischen Leben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der schwere Reitunfall führt Linda an Coles Seite zurück.",
+      "question": "Welches Ereignis bringt Linda (Ashley Judd) in „De-Lovely“ nach ihrer Trennung wieder zu Cole (Kevin Kline)?",
+      "answers": [
+        "Ein schwerer Reitunfall Coles.",
+        "Das vollständige Scheitern seines ersten Broadway-Musicals.",
+        "Ein Brand in ihrem gemeinsam bewohnten Pariser Haus.",
+        "Der Verlust aller Partituren bei einer Schiffsreise."
+      ],
+      "short": "Nach Coles schwerem Reitunfall kehrt Linda zu ihm zurück.",
+      "context": "Linda Porter (Ashley Judd) hatte sich wegen der belastenden Situation um Cole Porter (Kevin Kline) zurückgezogen. Die körperliche Katastrophe verändert die Lage. Ihre Rückkehr beseitigt die Schwierigkeiten der Ehe nicht, macht aber deutlich, dass Bindung und Fürsorge über eine konfliktfreie Partnerschaft hinausreichen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Zeitgenössische Pop- und Jazzstimmen interpretieren Porters historische Songs.",
+      "question": "Was kennzeichnet die musikalischen Gastauftritte in „De-Lovely“?",
+      "answers": [
+        "Zeitgenössische Stars singen Porter-Lieder in historischen Szenen.",
+        "Zeitgenössische Stars kommentieren Porters Karriere in Intervieweinschüben.",
+        "Zeitgenössische Stars singen moderne Eigenkompositionen zwischen den Lebensstationen.",
+        "Zeitgenössische Stars lesen im Off aus Porters Tagebüchern."
+      ],
+      "short": "Moderne Gastinterpreten bringen Porters ältere Lieder in die Filmhandlung.",
+      "context": "Unter anderem Robbie Williams, Alanis Morissette und Diana Krall erscheinen als Sängerinnen und Sänger. Ihre Bekanntheit liegt außerhalb der dargestellten Epoche. Der Film verbindet damit Porters Repertoire mit späteren musikalischen Stimmen, während die dargestellten Auftrittsräume zur biografischen Rückschau gehören.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "festival"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 2004.",
+      "question": "In welchem Jahr wurde „De-Lovely“ mit Kevin Kline und Ashley Judd erstmals veröffentlicht?",
+      "answers": [
+        "2004",
+        "1996",
+        "2000",
+        "2008"
+      ],
+      "short": "Die Verfilmung erschien 2004.",
+      "context": "Damit kam die musikalische Lebensrückschau vierzig Jahre nach Cole Porters Tod 1964 ins Kino. Der Film reicht von frühen Erfolgen bis zu seinem Lebensende. Zeitgenössische Gaststimmen zeigen zugleich, dass die Geschichte vergangen ist, die Lieder aber weiter interpretiert werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "festival",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Irwin Winkler führt Regie.",
+      "question": "Wer führte bei „De-Lovely – Die Cole Porter Story“ Regie?",
+      "answers": [
+        "Irwin Winkler",
+        "Rob Marshall",
+        "Bill Condon",
+        "Richard Attenborough"
+      ],
+      "short": "Irwin Winkler führte Regie.",
+      "context": "Das Drehbuch stammt von Jay Cocks; Kevin Kline und Ashley Judd spielen das zentrale Paar. Winklers Film behandelt die Biografie als musikalische Aufführung vor den Augen des alten Komponisten. Diese sichtbare Inszenierung unterscheidet die Rahmenerzählung von einem bloß chronologisch ablaufenden Lebensbericht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

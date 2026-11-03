@@ -12,6 +12,7 @@ import allGenresCountryNotes from "./allGenresCountryNotes.json" with { type: "j
 import film240 from "./film240Metadata.json" with { type: "json" };
 import expansion from "../docs/Erweiterung-2026-10-07/Filmdaten.json" with { type: "json" };
 import genre100 from "../docs/Genres-100-2026-10-08/Filmdaten.json" with { type: "json" };
+import genre150 from "../docs/Genres-150-2026-11-03/Filmdaten.json" with { type: "json" };
 import expansionReferences from "../docs/Erweiterung-2026-10-07/Filmdaten-Referenzen.json" with { type: "json" };
 import actorFamiliarityReferences from "./actorFamiliarityFilmFacts.json" with { type: "json" };
 import type { Difficulty, Question } from "./model";
@@ -47,6 +48,9 @@ const expansionByFilm = new Map(
 );
 const genre100ByFilm = new Map(
   genre100.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
+);
+const genre150ByFilm = new Map(
+  genre150.films.map((f) => [`${f.film_title_original}|${f.film_year}`, f]),
 );
 const expansionReferenceByFilm = new Map(
   expansionReferences.films.map((f) => [f.film_id, f]),
@@ -90,7 +94,8 @@ function resolveFilmData(q: Question, reference?: string) {
     (allGenresByFilm.has(key) ||
     film240ByFilm.has(key) ||
     expansionByFilm.has(key) ||
-    genre100ByFilm.has(key)
+    genre100ByFilm.has(key) ||
+    genre150ByFilm.has(key)
       ? undefined
       : (awardData.get(key) ?? actorData.get(key)));
   if (f) {
@@ -115,7 +120,8 @@ function resolveFilmData(q: Question, reference?: string) {
     film240ByFilm.get(key) ??
     allGenresByFilm.get(key) ??
     expansionByFilm.get(key) ??
-    genre100ByFilm.get(key);
+    genre100ByFilm.get(key) ??
+    genre150ByFilm.get(key);
   if (!newer) {
     const reference = expansionReferenceByFilm.get(key);
     if (!reference) return undefined;

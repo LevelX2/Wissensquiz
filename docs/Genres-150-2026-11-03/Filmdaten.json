@@ -1,0 +1,521 @@
+{
+  "schema_version": "wissensquiz-redaktion-film-v1",
+  "as_of": "2026-11-03",
+  "integration_route": "explicit_csv_year_and_director",
+  "films": [
+    {
+      "id": "ABENTEUER-001",
+      "film_title_de": "All Is Lost",
+      "film_title_original": "All Is Lost",
+      "film_year": 2013,
+      "subdomain": "Abenteuer",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekanntes spätes Redford-Solostück, dessen nahezu wortlose Form eher ein filmkundiges Publikum erreicht.",
+      "directors": [
+        "J. C. Chandor"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste öffentliche Vorstellung am 22. Mai 2013 außer Konkurrenz in Cannes; der nordamerikanische Kinostart folgte im Oktober.",
+      "director_note": "Drehbuch und Regie: J. C. Chandor.",
+      "country_note": "Die Ländereinordnung folgt dem offiziellen Cannes-Eintrag, der USA nennt.",
+      "series": null,
+      "series_note": "In Festivalangaben, Produktionsunterlagen und Filmübersicht keine nummerierte Filmfolge ausgewiesen.",
+      "series_sources": [
+        "https://www.festival-cannes.com/en/f/all-is-lost/"
+      ],
+      "sources": [
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/all-is-lost/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis: Indischer Ozean, Containerkollision, Ausfall der Elektronik, Navigation; Regie, Besetzung und Produktionsland."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.festival-cannes.com/en/2013/out-of-competition-robert-redford-j-c-chandor-s-castaway/",
+          "accessed_on": "2026-11-03",
+          "supports": "Festivalvorstellung am 22. Mai 2013 und Chandors zweiter Spielfilm."
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.sailingscuttlebutt.com/wp-content/uploads/2013/10/AllIsLost-ProdNotes.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Verleiher-Produktionsnotizen, S. 2–7: Drehbuch, Sundance-Begegnung, Wassertanks der Baja Studios, Storyboards und Dreharbeit."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/All_Is_Lost",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlungsablauf: Wassergewinnung durch Verdunstung und Kondensation, letztes Signalfeuer; Premiere und nachfolgender Kinostart."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-001-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-001-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-001-D"
+    },
+    {
+      "id": "ABENTEUER-002",
+      "film_title_de": "The Grey – Unter Wölfen",
+      "film_title_original": "The Grey",
+      "film_year": 2011,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Durch Liam Neeson und das einprägsame Überlebensszenario ein bekannter Genrefilm, ohne allgemeine Filmikone zu sein.",
+      "directors": [
+        "Joe Carnahan"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "release_note": "Öffentliche Vorführung beim Butt-Numb-A-Thon in Austin am 11. Dezember 2011, durch einen am 12. Dezember erschienenen Vor-Ort-Bericht bestätigt. Der reguläre US-Kinostart am 27. Januar 2012 erklärt die verbreitete Jahresangabe 2012 und den AFI-Katalogjahrgang.",
+      "director_note": "Joe Carnahan führte Regie und schrieb mit Ian MacKenzie Jeffers das Drehbuch.",
+      "country_note": "Die Filmübersicht nennt USA und Vereinigtes Königreich; der AFI-US-Katalog nennt nur USA.",
+      "series": null,
+      "series_note": "Keine nummerierte Filmfolge in den ausgewerteten Credits und Filmübersichten ausgewiesen.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/68386-THE-GREY"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/68386-THE-GREY",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Cast, Vorlage Ghost Walker, US-Kinostart 2012; der Katalogjahrgang ist nicht der früheste Vorführungsnachweis."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.slashfilm.com/518914/bnat-13-recap-hobbit-cabin-woods-grey-ghost-rider-spirit-vengeance/",
+          "accessed_on": "2026-11-03",
+          "supports": "Am 12. Dezember 2011 veröffentlichter Vor-Ort-Bericht über das Festivalwochenende in Austin einschließlich The Grey."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Grey",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung, Figuren, Vatergedicht, Erstvorführung am 11. Dezember 2011 und Produktionsländer."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/the-grey-2012",
+          "accessed_on": "2026-11-03",
+          "supports": "Absturz von Ölarbeitern, Ottways Führungsrolle, Weg zur Baumgrenze, Feuer und Verhältnis von Todessehnsucht zu Überlebenswillen."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.wwno.org/2012-01-27/carnahan-discusses-the-grey",
+          "accessed_on": "2026-11-03",
+          "supports": "NPR-Interview mit Joe Carnahan: Brieftaschen, Angehörigenfotos und persönliche Verlusterfahrung als Hintergrund; vorherige Filme."
+        },
+        {
+          "key": "gedicht",
+          "url": "https://www.shockya.com/news/2012/05/26/exclusive-joe-carnahan-talks-the-grey-death-wish-remake/",
+          "accessed_on": "2026-11-03",
+          "supports": "Carnahans Erläuterung zum im Film dem Vater zugeschriebenen Gedicht und zur Entstehung des Titels."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-002-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-002-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-002-D"
+    },
+    {
+      "id": "ABENTEUER-003",
+      "film_title_de": "Die vier Federn",
+      "film_title_original": "The Four Feathers",
+      "film_year": 2002,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Die aufwendig beworbene Fassung mit Heath Ledger und Kate Hudson ist ein bekannteres historisches Abenteuer, aber kein allgemein vorauszusetzender Klassiker.",
+      "directors": [
+        "Shekhar Kapur"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "release_note": "Weltpremiere am 8. September 2002 beim Toronto International Film Festival; regulärer nordamerikanischer Kinostart am 20. September 2002.",
+      "director_note": "Eigenständige Neuverfilmung von A. E. W. Masons Roman, keine Fortsetzung der früheren Fassungen.",
+      "country_note": "Britisch-amerikanische Produktion; BFI führt verkürzt USA, der British Council dokumentiert die britische Produktionsbeteiligung.",
+      "series": null,
+      "series_note": "Mehrere unabhängige Adaptionen desselben Romans bilden keine nummerierte Filmfolge.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/The_Four_Feathers"
+      ],
+      "sources": [
+        {
+          "key": "paramount",
+          "url": "https://www.paramount.com/movies/the-four-feathers",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis, Rollenbesetzung, Regie, Romanautor und Jahr."
+        },
+        {
+          "key": "british_council",
+          "url": "https://filmsandfestivals.britishcouncil.org/projects/the-four-feathers",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausgangslage, Rücktritt, britische Produktionsbeteiligung und Regiecredits."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Four_Feathers_(2002_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Warnung Abou Fatmas, Rettung des erblindeten Durrance und Flucht aus Omdurman durch vorgetäuschten Tod; Romanjahr und Kinostart."
+        },
+        {
+          "key": "premiere",
+          "url": "https://us.rediff.com/movies/2002/sep/09four1.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössischer Festivalbericht über die Weltpremiere am 8. September 2002 und Kapurs Äußerungen."
+        },
+        {
+          "key": "vorlage",
+          "url": "https://en.wikipedia.org/wiki/The_Four_Feathers",
+          "accessed_on": "2026-11-03",
+          "supports": "Roman von 1902 und voneinander unabhängige Verfilmungen."
+        },
+        {
+          "key": "elizabeth",
+          "url": "https://www.workingtitlefilms.com/film/elizabeth/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizieller Produktionsnachweis für Kapurs Elizabeth von 1998 als Regiekontext."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-003-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-003-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-003-D"
+    },
+    {
+      "id": "MUSIK-001",
+      "film_title_de": "8 Frauen",
+      "film_title_original": "8 femmes",
+      "film_year": 2002,
+      "subdomain": "Musik",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekanntes Ensemblewerk des europäischen Autorenkinos; die konkrete Mischung aus Bühnenkrimi und Chansons richtet sich eher an Filmkenner.",
+      "directors": [
+        "François Ozon"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "release_note": "Erstveröffentlichung 2002. Paris-Premiere am 8. Januar, regulärer französischer Kinostart am 6. Februar. Das Produktionsjahr 2001 bei Unifrance ist kein früheres Veröffentlichungsjahr; die abweichende CNC-Startangabe liegt ebenfalls 2002.",
+      "director_note": "",
+      "country_note": "Unifrance führt die Produktion als100Prozentfranzösisch; sekundäre Filmografien nennen teilweise zusätzlichItalien. Für die Produktionszuordnung ist hier die französische Branchenquelle führend.",
+      "series": null,
+      "series_note": "Eigenständige Adaption eines Bühnenstücks; keine nummerierte Filmfolge in den geprüften Quellen.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/8-women"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.universalpicturesathome.com/movies/8-women",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausgangslage, verschneites Haus, abgeschnittenes Telefon, weibliches Ensemble, Regie und Veröffentlichungsjahr."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/8_Women",
+          "accessed_on": "2026-11-03",
+          "supports": "Weihnachten, scheinbarer Messerstich, Mamy und Rollstuhl, Augustine und Message personnel, Robert Thomas, Paris-Premiere und Berlinale-Ensemblepreis."
+        },
+        {
+          "key": "arte",
+          "url": "https://boutique.arte.tv/detail/8-femmes",
+          "accessed_on": "2026-11-03",
+          "supports": "Ensemble, Figurenbeziehungen und Vermischung von Kriminalstück, Geheimnissen und Gesang."
+        },
+        {
+          "key": "unifrance",
+          "url": "https://www.unifrance.org/film/22304/8-femmes",
+          "accessed_on": "2026-11-03",
+          "supports": "Originaltitel,100Prozentfranzösische Produktion, Produktionsjahr 2001 und französischer Kinostart6.Februar 2002."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-001-L1",
+      "year_question_id": "G150-20261103-MUSIK-001-Y",
+      "director_question_id": "G150-20261103-MUSIK-001-D"
+    },
+    {
+      "id": "MUSIK-002",
+      "film_title_de": "De-Lovely – Die Cole Porter Story",
+      "film_title_original": "De-Lovely",
+      "film_year": 2004,
+      "subdomain": "Musik",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Cole Porters Musik ist verbreitet, diese spezielle biografische Verfilmung aber eher bei Musical- und Filmkennern präsent.",
+      "directors": [
+        "Irwin Winkler"
+      ],
+      "production_countries": [
+        "USA",
+        "Großbritannien"
+      ],
+      "release_note": "Erstveröffentlichung 2004; Abschlussfilm des Festivals von Cannes vor dem US-Kinostart am 2. Juli. Kein Schluss vom späteren Landesstart auf ein anderes Filmjahr.",
+      "director_note": "",
+      "country_note": "Die offiziellen Festivalquellen widersprechen sich: Cannes nennt Großbritannien, NZIFF USA. Die Angabe führt beide belegten Produktionszuordnungen zusammen; sie ist kein Nachweis gleich hoher Produktionsanteile.",
+      "series": null,
+      "series_note": "Eigenständige Cole-Porter-Biografie; die frühere Verfilmung Night and Day ist kein vorangehender Teil einer Filmreihe.",
+      "series_sources": [
+        "https://www.festival-cannes.com/en/f/de-lovely/"
+      ],
+      "sources": [
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/de-lovely/",
+          "accessed_on": "2026-11-03",
+          "supports": "Abschlussfilm 2004, Regie, zentrale Darsteller und Bühnenrahmen; abweichende LänderzuordnungGroßbritannien."
+        },
+        {
+          "key": "festival",
+          "url": "https://www1.nziff.co.nz/2004/archive-1/de-lovely/",
+          "accessed_on": "2026-11-03",
+          "supports": "Cole Porter, Linda als dauerhafte Beziehung, Porters Tod 1964, zeitgenössische Gastinterpreten, LänderangabeUSA."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/De-Lovely",
+          "accessed_on": "2026-11-03",
+          "supports": "Gabe-Rahmung, Linda und Cole, Zigarettenetuis, Reitunfall, Credits, Filmjahr und US-Start."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-002-L1",
+      "year_question_id": "G150-20261103-MUSIK-002-Y",
+      "director_question_id": "G150-20261103-MUSIK-002-D"
+    },
+    {
+      "id": "MUSIK-003",
+      "film_title_de": "Die fabelhaften Baker Boys",
+      "film_title_original": "The Fabulous Baker Boys",
+      "film_year": 1989,
+      "subdomain": "Musik",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Prägendes Musikdrama mit bekannter Hauptbesetzung; konkrete Figuren und Konflikte sind vor allem Filmkennern vertraut.",
+      "directors": [
+        "Steve Kloves"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1989; das AFI nennt die Starts in Los Angeles und New York am13.Oktober.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiger Film ohne belegte nummerierte Filmfolge in den geprüften Quellen.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/58044-THE-FABULOUS-BAKER-BOYS"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/58044-THE-FABULOUS-BAKER-BOYS",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlungszusammenfassung, Darsteller, Instrumente, Silvesterauftritt, Jazzclub, Familienkonflikt; Pfeiffers eigener Gesang und Training; Regiedebüt 1989."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/watchtcm/titles/74411",
+          "accessed_on": "2026-11-03",
+          "supports": "Brüderliches Pianoduo und die Einstellung der Sängerin Susie als Neuerung des Nachtclubprogramms."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Fabulous_Baker_Boys",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusätzlicher Handlungsabgleich, Musikdrama, Rollen und Bruderbeziehung."
+        },
+        {
+          "key": "vorwerk",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/57175",
+          "accessed_on": "2026-11-03",
+          "supports": "Kloves erstes produziertes Spielfilmdrehbuch Racing with the Moon 1984, Regie RichardBenjamin."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-003-L1",
+      "year_question_id": "G150-20261103-MUSIK-003-Y",
+      "director_question_id": "G150-20261103-MUSIK-003-D"
+    },
+    {
+      "id": "WESTERN-001",
+      "film_title_de": "Über den Todespass",
+      "film_title_original": "The Far Country",
+      "film_year": 1954,
+      "subdomain": "Western",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein zentraler Mann-Stewart-Western für Genrefreunde, im breiten Publikum weniger präsent als die großen Wayne- und Leone-Titel.",
+      "directors": [
+        "Anthony Mann"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Britischer Erststart 1954, laut zeitgenössisch belegtem Londoner Termin am 22. Juli; der AFI-Katalog nennt den späteren US-Start im Februar 1955. Das Identitätsjahr folgt der ersten Veröffentlichung.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige Geschichte innerhalb der Zusammenarbeit Mann/Stewart; die vierte gemeinsame Westernarbeit bezeichnet keine fortlaufende Filmreihe.",
+      "series_sources": [
+        "https://www.moma.org/calendar/events/11450"
+      ],
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/51494-THE-FAR-COUNTRY",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits, Figuren, Handlung, US-Veröffentlichung und kanadische Produktionsorte."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Far_Country_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Britischer Erststart, Grenzübertritt, Goldgeschäft, Kaffeevorrat und Bens Ermordung."
+        },
+        {
+          "key": "museum",
+          "url": "https://www.moma.org/calendar/events/11450",
+          "accessed_on": "2026-11-03",
+          "supports": "Jahr1954, nördlicher Handlungsraum, Mann-Stewart-Zusammenarbeit und Wendepunkt durch Bens Tod."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/cdc502ee-b151-5bf9-9d22-cb7d49e24ce7/the-far-country",
+          "accessed_on": "2026-11-03",
+          "supports": "Erstveröffentlichungsjahr 1954 und vollständiger Regiecredit."
+        },
+        {
+          "key": "miller",
+          "url": "https://catalog.afi.com/Film/51211-THE-GLENN-MILLER-STORY",
+          "accessed_on": "2026-11-03",
+          "supports": "The Glenn Miller Story erschien im Februar 1954: Regie Anthony Mann, Hauptrolle James Stewart; Musikbiografie als filmgeschichtlicher Zeitanker."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-001-L1",
+      "year_question_id": "G150-20261103-WESTERN-001-Y",
+      "director_question_id": "G150-20261103-WESTERN-001-D"
+    },
+    {
+      "id": "WESTERN-002",
+      "film_title_de": "Bis zum letzten Mann",
+      "film_title_original": "Fort Apache",
+      "film_year": 1948,
+      "subdomain": "Western",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein zentraler Kavalleriewestern John Fords, dessen Figuren besonders Genrefreunden vertraut sind.",
+      "directors": [
+        "John Ford"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1948; einzelne Premieren- und reguläre Starttermine unterscheiden sich, das Jahr ist in AFI und BFI übereinstimmend.",
+      "director_note": "",
+      "country_note": "",
+      "series": {
+        "name": "John Fords Kavallerietrilogie",
+        "position": 1,
+        "note": "Thematische Werkgruppe: Fort Apache (1948), She Wore a Yellow Ribbon (1949), Rio Grande (1950). Keine fortlaufende Geschichte derselben Figuren."
+      },
+      "series_note": "Position folgt der Veröffentlichung innerhalb des ausdrücklich benannten thematischen Zyklus und ergänzt die bestehende Registry für Teil 2 und 3.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/25545-FORT-APACHE?cxt=filmography",
+        "https://www.bfi.org.uk/lists/10-best-john-ford-films"
+      ],
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/25545-FORT-APACHE?cxt=filmography",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung, Figuren, John-Ford-Credit, Jahr1948 und Beginn der Kavallerietrilogie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fort_Apache_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Dienstgrade, Meachams Reservatsmissbrauch, Feldzug und spätere Pressebegegnung."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/lists/10-best-john-ford-films",
+          "accessed_on": "2026-11-03",
+          "supports": "Einordnung von Fort Apache und Chronologie1948/1949/1950 der Kavallerietrilogie."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-002-L1",
+      "year_question_id": "G150-20261103-WESTERN-002-Y",
+      "director_question_id": "G150-20261103-WESTERN-002-D"
+    },
+    {
+      "id": "WESTERN-003",
+      "film_title_de": "Der Siebente ist dran",
+      "film_title_original": "Seven Men from Now",
+      "film_year": 1956,
+      "subdomain": "Western",
+      "categories": [],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ein von Westernkennern geschätzter Boetticher-Film, dessen Figuren im allgemeinen Publikum wenig bekannt sind.",
+      "directors": [
+        "Budd Boetticher"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Erstveröffentlichung am 4. August 1956 laut AFI.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Im weiteren Sinn oft dem Ranown-Zyklus zugerechnet, aber eine Batjac-Produktion. Die bestehende Registry zählt den engeren fünfteiligen Columbia-Zyklus ab The Tall T. Deshalb hier keine erfundene Teilnummer und keine fortlaufende Figurenreihe.",
+      "series_sources": [
+        "https://www.bfi.org.uk/features/where-begin-budd-boetticher",
+        "https://www.criterion.com/current/posts/8204-some-things-a-man-can-t-ride-around-budd-boetticher-s-ranown-westerns"
+      ],
+      "sources": [
+        {
+          "key": "archiv",
+          "url": "https://catalog.afi.com/Film/51996-SEVEN-MEN-FROM-NOW",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits, Datum, Handlung, Strides Schuldgefühl und Motive der Mitreisenden."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Seven_Men_from_Now",
+          "accessed_on": "2026-11-03",
+          "supports": "Figuren und Besetzung, Goldtransport und Schlusskonflikt."
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.tcm.com/articles/111462/seven-men-from-now",
+          "accessed_on": "2026-11-03",
+          "supports": "Batjac, Wayne und The Searchers (1956), Scotts Besetzung, Landschaftsgestaltung und Regie."
+        },
+        {
+          "key": "zyklus",
+          "url": "https://www.bfi.org.uk/features/where-begin-budd-boetticher",
+          "accessed_on": "2026-11-03",
+          "supports": "Weiterer Ranown-Begriff mit abweichender Batjac-Produktion."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/current/posts/8204-some-things-a-man-can-t-ride-around-budd-boetticher-s-ranown-westerns",
+          "accessed_on": "2026-11-03",
+          "supports": "Engerer Columbia-Zyklus von fünf Filmen; Seven Men from Now gesondert bei Batjac."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-003-L1",
+      "year_question_id": "G150-20261103-WESTERN-003-Y",
+      "director_question_id": "G150-20261103-WESTERN-003-D"
+    }
+  ]
+}

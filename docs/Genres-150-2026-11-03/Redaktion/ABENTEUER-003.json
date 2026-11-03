@@ -1,0 +1,253 @@
+{
+  "id": "ABENTEUER-003",
+  "film_title_de": "Die vier Federn",
+  "film_title_original": "The Four Feathers",
+  "film_year": 2002,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Die aufwendig beworbene Fassung mit Heath Ledger und Kate Hudson ist ein bekannteres historisches Abenteuer, aber kein allgemein vorauszusetzender Klassiker.",
+  "selection_reason": "Die Rettungsreise ermöglicht Fragen zu Loyalität und dem Unterschied zwischen gesellschaftlichem Ehrbegriff und tatsächlicher Hilfe. Die Kolonialperspektive wird als Filmgestaltung behandelt, nicht als unkritischer Geschichtsbericht.",
+  "directors": [
+    "Shekhar Kapur"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Weltpremiere am 8. September 2002 beim Toronto International Film Festival; regulärer nordamerikanischer Kinostart am 20. September 2002.",
+  "director_note": "Eigenständige Neuverfilmung von A. E. W. Masons Roman, keine Fortsetzung der früheren Fassungen.",
+  "country_note": "Britisch-amerikanische Produktion; BFI führt verkürzt USA, der British Council dokumentiert die britische Produktionsbeteiligung.",
+  "series": null,
+  "series_note": "Mehrere unabhängige Adaptionen desselben Romans bilden keine nummerierte Filmfolge.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/The_Four_Feathers"
+  ],
+  "sources": {
+    "paramount": {
+      "url": "https://www.paramount.com/movies/the-four-feathers",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Synopsis, Rollenbesetzung, Regie, Romanautor und Jahr."
+    },
+    "british_council": {
+      "url": "https://filmsandfestivals.britishcouncil.org/projects/the-four-feathers",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausgangslage, Rücktritt, britische Produktionsbeteiligung und Regiecredits."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Four_Feathers_(2002_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Warnung Abou Fatmas, Rettung des erblindeten Durrance und Flucht aus Omdurman durch vorgetäuschten Tod; Romanjahr und Kinostart."
+    },
+    "premiere": {
+      "url": "https://us.rediff.com/movies/2002/sep/09four1.htm",
+      "accessed_on": "2026-11-03",
+      "supports": "Zeitgenössischer Festivalbericht über die Weltpremiere am 8. September 2002 und Kapurs Äußerungen."
+    },
+    "vorlage": {
+      "url": "https://en.wikipedia.org/wiki/The_Four_Feathers",
+      "accessed_on": "2026-11-03",
+      "supports": "Roman von 1902 und voneinander unabhängige Verfilmungen."
+    },
+    "elizabeth": {
+      "url": "https://www.workingtitlefilms.com/film/elizabeth/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Produktionsnachweis für Kapurs Elizabeth von 1998 als Regiekontext."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Harry wird geächtet, weil er vor dem Einsatz sein Offizierspatent zurückgibt.",
+      "question": "Warum gilt Harry Feversham (Heath Ledger) in der Fassung von „Die vier Federn“ mit Kate Hudson zunächst als Feigling?",
+      "answers": [
+        "Er verlässt vor dem Kriegseinsatz sein Regiment.",
+        "Er verkauft seinem Gegner geheime Marschpläne.",
+        "Er lässt einen Verwundeten auf dem Schlachtfeld zurück.",
+        "Er versteckt sich während einer öffentlichen Parade."
+      ],
+      "short": "Harry quittiert den Dienst, bevor sein Regiment in den Sudan aufbricht.",
+      "context": "Harry Feversham (Heath Ledger) soll einem vorgezeichneten militärischen Lebensweg folgen. Sein Rücktritt zerstört die Erwartungen seines Vaters und seines Freundeskreises. Auch Ethne Eustace (Kate Hudson) wendet sich von ihm ab. Seine spätere Reise entsteht aus dieser persönlichen Entfremdung, nicht aus einem regulären militärischen Auftrag.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "british_council"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Heath Ledger spielt Harry in der Verfilmung von 2002.",
+      "question": "Wer spielt in der Fassung von „Die vier Federn“ mit Kate Hudson den jungen Offizier Harry Feversham?",
+      "answers": [
+        "Heath Ledger",
+        "Orlando Bloom",
+        "Jude Law",
+        "Christian Bale"
+      ],
+      "short": "Heath Ledger übernimmt die Rolle des Harry Feversham.",
+      "context": "Harry Feversham (Heath Ledger) versucht im Sudan, seinen früheren Kameraden zu helfen. Ein wichtiger Verbündeter wird Abou Fatma (Djimon Hounsou). Der Reisende muss sich damit auf einen Menschen verlassen, der außerhalb des britischen Offizierskreises steht, dessen Anerkennung er zunächst zurückgewinnen möchte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "british_council",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die britischen Offiziere verwerfen Abou Fatmas Warnung und misshandeln ihn als vermeintlichen Spion.",
+      "question": "Wie reagieren die britischen Offiziere in „Die vier Federn“ mit Heath Ledger auf Abou Fatmas (Djimon Hounsou) Warnung vor einem Angriff?",
+      "answers": [
+        "Sie verdächtigen ihn als Spion und lassen ihn auspeitschen.",
+        "Sie lassen ihn die Truppe um den Hinterhalt herumführen.",
+        "Sie halten ihn fest und schicken eigene Kundschafter voraus.",
+        "Sie folgen seinem Rat und befestigen ihre Stellung."
+      ],
+      "short": "Die Warnung wird verworfen; Abou Fatma wird als verdächtiger Spion ausgepeitscht.",
+      "context": "Harry Feversham (Heath Ledger) hat Abou Fatma (Djimon Hounsou) geschickt, um seine Freunde vor einer Falle zu warnen. Die Offiziere erkennen in dem Überbringer jedoch keinen vertrauenswürdigen Helfer. Das Geschehen zeigt den konkreten Schaden ihres Misstrauens: Eine verfügbare Warnung verändert den gefährlichen Vormarsch nicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Harry schützt den erblindeten Jack Durrance, ohne sich zu erkennen zu geben.",
+      "question": "Warum erkennt Jack Durrance (Wes Bentley) in „Die vier Federn“ mit Heath Ledger seinen Retter zunächst nicht?",
+      "answers": [
+        "Er ist erblindet, und Harry nennt seinen Namen nicht.",
+        "Er leidet an Gedächtnisverlust, und Harry trägt eine Uniform.",
+        "Er hält den Helfer für tot, und dieser spricht nur durch einen Dolmetscher.",
+        "Er ist schwerhörig, und Harry ist durch eine Halsverletzung stumm."
+      ],
+      "short": "Durrance hat sein Augenlicht verloren; Harry hilft ihm unerkannt.",
+      "context": "Nach der Schlacht versorgt Harry Feversham (Heath Ledger) seinen Freund Jack Durrance (Wes Bentley). Dabei erfährt er durch Briefe von dessen Verbindung zu Ethne Eustace (Kate Hudson). Er beendet die Hilfe deshalb nicht. Die Rettung geschieht ohne das sofortige persönliche Lob, das den früheren Feigheitsvorwurf aufheben könnte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Abou Fatma ermöglicht durch ein Mittel zum Vortäuschen des Todes die Flucht aus Omdurman.",
+      "question": "Mit welchem Plan hilft Abou Fatma (Djimon Hounsou) in „Die vier Federn“ mit Heath Ledger den Gefangenen Harry und Trench aus Omdurman?",
+      "answers": [
+        "Er lässt sie ihren Tod vortäuschen, damit ihre Körper hinausgebracht werden.",
+        "Er tauscht sie gegen einen gefangenen britischen General ein.",
+        "Er schmuggelt sie in gestohlenen Wachuniformen hinaus.",
+        "Er organisiert einen Angriff der britischen Kavallerie auf das Tor."
+      ],
+      "short": "Ein Mittel lässt Harry und Trench tot erscheinen, sodass man sie aus dem Gefängnis trägt.",
+      "context": "Harry Feversham (Heath Ledger) hat sich gefangen nehmen lassen, um William Trench (Michael Sheen) zu finden. Ein eigener Fluchtversuch scheitert. Erst Abou Fatmas (Djimon Hounsou) riskanter Plan schafft einen Ausweg. Der Helfer bleibt dabei entscheidend, obwohl Harry zuvor gegen seinen Rat ins Gefängnis gegangen ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die literarische Vorlage stammt von A. E. W. Mason.",
+      "question": "Auf wessen Roman beruht „Die vier Federn“ in der Verfilmung mit Heath Ledger?",
+      "answers": [
+        "A. E. W. Masons",
+        "Joseph Conrads",
+        "Rudyard Kiplings",
+        "H. Rider Haggards"
+      ],
+      "short": "Die Romanvorlage stammt von A. E. W. Mason.",
+      "context": "Masons Roman erschien 1902 und wurde mehrfach unabhängig verfilmt. Die Fassung mit Heath Ledger ist daher kein später nummerierter Teil der Version mit John Clements. Derselbe Grundkonflikt um einen Feigheitsvorwurf wird mit veränderten Figurenakzenten und Handlungsschritten erneut erzählt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "vorlage"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung dieser Filmfassung erfolgte 2002.",
+      "question": "In welchem Jahr wurde die Verfilmung von „Die vier Federn“ mit Heath Ledger und Kate Hudson erstmals öffentlich gezeigt?",
+      "answers": [
+        "2002",
+        "1995",
+        "1999",
+        "2006"
+      ],
+      "short": "Diese Fassung wurde 2002 in Toronto vorgestellt.",
+      "context": "Die Premiere fand am 8. September beim Toronto International Film Festival statt, kurz vor dem nordamerikanischen Kinostart. Damit lag diese Neuverfilmung genau ein Jahrhundert nach dem Erscheinen der Romanvorlage. Die lange Adaptionsgeschichte erklärt, weshalb zur Jahresfrage die Hauptdarsteller die konkrete Fassung identifizieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "premiere",
+        "vorlage",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Shekhar Kapur führte bei der Fassung von 2002 Regie.",
+      "question": "Wer führte bei der Verfilmung von „Die vier Federn“ mit Heath Ledger und Kate Hudson Regie?",
+      "answers": [
+        "Shekhar Kapur",
+        "Zoltán Korda",
+        "David Lean",
+        "Anthony Minghella"
+      ],
+      "short": "Diese Verfilmung inszenierte Shekhar Kapur.",
+      "context": "Kapur hatte zuvor mit „Elizabeth“ von 1998 einen anderen historischen Stoff inszeniert. Dort steht der Weg einer Herrscherin durch politische und persönliche Abhängigkeiten im Mittelpunkt. „Die vier Federn“ verlagert den Blick auf einen Offizier, der sich den Erwartungen seiner Herkunft entzieht und eine gefährliche Reise unternimmt.",
+      "feedback": [
+        "",
+        "Zoltán Korda inszenierte die eigenständige Verfilmung von 1939.",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "elizabeth",
+        "vorlage"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "id": "WESTERN-002",
+  "film_title_de": "Bis zum letzten Mann",
+  "film_title_original": "Fort Apache",
+  "film_year": 1948,
+  "genre": "Western",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein zentraler Kavalleriewestern John Fords, dessen Figuren besonders Genrefreunden vertraut sind.",
+  "selection_reason": "Ergänzt den fehlenden Beginn der im Bestand vertretenen Kavallerietrilogie und deren Konflikt zwischen Erfahrung, Rang und militärischer Legende.",
+  "directors": [
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1948; einzelne Premieren- und reguläre Starttermine unterscheiden sich, das Jahr ist in AFI und BFI übereinstimmend.",
+  "director_note": "",
+  "country_note": "",
+  "series": {
+    "name": "John Fords Kavallerietrilogie",
+    "position": 1,
+    "note": "Thematische Werkgruppe: Fort Apache (1948), She Wore a Yellow Ribbon (1949), Rio Grande (1950). Keine fortlaufende Geschichte derselben Figuren."
+  },
+  "series_note": "Position folgt der Veröffentlichung innerhalb des ausdrücklich benannten thematischen Zyklus und ergänzt die bestehende Registry für Teil 2 und 3.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/25545-FORT-APACHE?cxt=filmography",
+    "https://www.bfi.org.uk/lists/10-best-john-ford-films"
+  ],
+  "sources": {
+    "archiv": {
+      "url": "https://catalog.afi.com/Film/25545-FORT-APACHE?cxt=filmography",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung, Figuren, John-Ford-Credit, Jahr1948 und Beginn der Kavallerietrilogie."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Fort_Apache_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Dienstgrade, Meachams Reservatsmissbrauch, Feldzug und spätere Pressebegegnung."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/10-best-john-ford-films",
+      "accessed_on": "2026-11-03",
+      "supports": "Einordnung von Fort Apache und Chronologie1948/1949/1950 der Kavallerietrilogie."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Thursday und York unterscheiden sich in Rang und Grenzerfahrung.",
+      "question": "Wer übernimmt in „Bis zum letzten Mann“ das Kommando und setzt sich über den erfahrenen Captain Kirby York (John Wayne) hinweg?",
+      "answers": [
+        "Oberstleutnant Owen Thursday (Henry Fonda)",
+        "Sergeant Michael O’Rourke (Ward Bond)",
+        "Lieutenant Michael O’Rourke (John Agar)",
+        "Captain Collingwood (George O’Brien)"
+      ],
+      "short": "Owen Thursday übernimmt den Posten und missachtet Yorks örtliche Erfahrung.",
+      "context": "Owen Thursday (Henry Fonda) empfindet seine Versetzung als Zurücksetzung. Er ordnet den Alltag streng nach Dienstvorschriften und Rang. Kirby York (John Wayne) kennt dagegen die örtliche Lage und die Apache. Der Vorgesetzte besitzt formale Befehlsgewalt, ohne deshalb über die bessere Einschätzung des Konflikts zu verfügen.",
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Silas Meachams Amtsmissbrauch treibt die Apache aus dem Reservat.",
+      "question": "Was verschärft in „Bis zum letzten Mann“ das Elend der Apache im Reservat?",
+      "answers": [
+        "Der korrupte Agent Silas Meacham betrügt sie und verkauft Alkohol.",
+        "Ein Eisenbahntunnel zerstört ihre einzige Wasserleitung.",
+        "Die Armee verlangt von jedem Bewohner den Eintritt in die Kavallerie.",
+        "Ein Goldverbot untersagt den Handel mit allen Nachbarorten."
+      ],
+      "short": "Meacham missbraucht seine Stellung als Reservatsagent und trägt zur Not bei.",
+      "context": "Silas Meacham (Grant Withers) verkauft minderwertige Waren, Alkohol und Waffen; auch bei den Lebensmittelrationen wird betrogen. Cochise (Miguel Inclán) führt seine Leute deshalb fort. Die Flucht ist eine Reaktion auf konkrete Zustände, die das Militär nicht durch einen bloßen Rückkehrbefehl beheben kann.",
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Thursday bricht Yorks Verhandlungszusage.",
+      "question": "Warum gerät Kirby York (John Wayne) in „Bis zum letzten Mann“ nach seinem Gespräch mit Cochise in Konflikt mit Thursday?",
+      "answers": [
+        "Thursday will trotz zugesagter Gespräche einen militärischen Erfolg erzwingen.",
+        "York hat Cochise eigenmächtig die Auslieferung des Reservatsagenten zugesagt.",
+        "Thursday will die Apache ohne Verhandlungen über die Grenze abschieben.",
+        "York hat dem Gegner vor dem Treffen heimlich die Waffen abgenommen."
+      ],
+      "short": "York verspricht Verhandlungen; Thursday benutzt die Rückkehr der Apache für seinen Angriffsplan.",
+      "context": "Kirby York (John Wayne) erreicht, dass Cochise (Miguel Inclán) aus Mexiko zu Gesprächen zurückkommt. Owen Thursday (Henry Fonda) denkt jedoch an seine militärische Reputation. Sein Vorgehen setzt das gegebene Wort aufs Spiel und schwächt gerade das Vertrauen, auf dem Yorks Vermittlung beruht.",
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Thursday lehnt die Verbindung seiner Tochter aus Standesdenken ab.",
+      "question": "Weshalb missbilligt Thursday (Henry Fonda) in „Bis zum letzten Mann“ die Beziehung seiner Tochter zu Lieutenant O’Rourke?",
+      "answers": [
+        "Er wertet dessen Herkunft als Sohn eines Sergeants ab.",
+        "Er hält dessen Dienstzeit für zu kurz, um eine Familie zu versorgen.",
+        "Er hat für seine Tochter bereits einen höherrangigen Ehemann bestimmt.",
+        "Er wirft O’Rourke ein gebrochenes früheres Eheversprechen vor."
+      ],
+      "short": "Thursday stellt seine Standesvorstellungen über die Zuneigung der beiden.",
+      "context": "Philadelphia Thursday (Shirley Temple) verliebt sich in Lieutenant Michael O’Rourke (John Agar). Dessen Vater, Sergeant Michael O’Rourke (Ward Bond), hat sich im Krieg ausgezeichnet. Dennoch behandelt Owen Thursday (Henry Fonda) den Familienhintergrund als Hindernis. Sein Rangdenken prägt auch das private Leben im Fort.",
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Thursday bleibt nach der Niederlage bei seinen Männern.",
+      "question": "Wie reagiert Thursday (Henry Fonda) in „Bis zum letzten Mann“, als York ihn nach dem fehlgeschlagenen Angriff retten will?",
+      "answers": [
+        "Er kehrt zu den eingeschlossenen Männern zurück.",
+        "Er flieht allein über die mexikanische Grenze.",
+        "Er verhaftet York sofort wegen Befehlsverweigerung.",
+        "Er tauscht seine Uniform gegen die eines Händlers."
+      ],
+      "short": "Thursday kehrt trotz Verwundung zu den Resten seines Regiments zurück.",
+      "context": "Owen Thursday (Henry Fonda) hat Yorks Warnung vor dem Angriff übergangen. Als die Einheit in die Falle gerät, kann Kirby York (John Wayne) ihn erreichen. Thursday entscheidet sich dennoch für seine Männer. Die Kritik an seinem fatalen Kommando steht neben einer letzten Handlung persönlicher Pflichterfüllung.",
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "York schützt später das öffentliche Bild des gefallenen Regiments.",
+      "question": "Wie spricht York (John Wayne) am Ende von „Bis zum letzten Mann“ gegenüber Reportern über den gefallenen Thursday?",
+      "answers": [
+        "Er verteidigt dessen öffentliches Ansehen.",
+        "Er fordert ein öffentliches Kriegsgerichtsverfahren.",
+        "Er bestreitet, Thursday gekannt zu haben.",
+        "Er erklärt Meacham zum Sieger der Schlacht."
+      ],
+      "short": "York erhält die ehrenvolle Erinnerung an Thursday und dessen Regiment aufrecht.",
+      "context": "Das Publikum hat die Fehlentscheidungen Owen Thursdays (Henry Fonda) gesehen. Der spätere Kommandant Kirby York (John Wayne) spricht gegenüber Reportern dennoch von ehrenvollen Soldaten und dem fortlebenden Geist der Truppe. Zwischen erlebtem Geschehen und öffentlicher Erinnerung bleibt eine Spannung bestehen.",
+      "sources": [
+        "archiv",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Fort Apache beginnt 1948 die Kavallerietrilogie.",
+      "question": "In welchem Jahr erschien John Fords Kavalleriewestern „Bis zum letzten Mann“ erstmals?",
+      "answers": [
+        "1948",
+        "1939",
+        "1956",
+        "1962"
+      ],
+      "short": "„Bis zum letzten Mann“ erschien 1948.",
+      "context": "1948 begann mit „Fort Apache“ die später so benannte Kavallerietrilogie. „Der Teufelshauptmann“ folgte 1949, „Rio Grande“1950. Die Filme erzählen keine fortgesetzte Biografie derselben Figuren. Soldatenleben, Familien und die militärische Gemeinschaft bilden aber eine wiederkehrende Themenwelt John Fords.",
+      "sources": [
+        "bfi",
+        "archiv"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "D",
+      "objective": "John Ford inszenierte Fort Apache.",
+      "question": "Wer führte bei „Bis zum letzten Mann“ mit Henry Fonda und John Wayne Regie?",
+      "answers": [
+        "John Ford",
+        "Howard Hawks",
+        "Anthony Mann",
+        "William Wyler"
+      ],
+      "short": "Die Regie führte John Ford.",
+      "context": "John Ford entwickelt den Konflikt innerhalb eines bewohnten Forts: Tanzveranstaltungen, Familienbeziehungen und Alltagsrituale stehen neben dem Feldzug. Die Katastrophe betrifft dadurch eine ganze Gemeinschaft. Dieses Interesse am Zusammenleben verbindet „Bis zum letzten Mann“ mit den beiden folgenden Werken der Kavallerietrilogie.",
+      "sources": [
+        "bfi",
+        "archiv"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

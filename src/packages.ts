@@ -4,6 +4,7 @@ import { applyCategoryTags } from "./categoryPreparation";
 import { addFilmFacts } from "./filmFacts";
 import { retainJourneyUnlocks } from "./learningPath";
 import Papa from "papaparse";
+import expansion150 from "../docs/Genres-150-2026-11-03/Pakete.json" with { type: "json" };
 
 export const packages = [
   { path: "/fragen.csv", filename: "SciFi_Quiz_180_Fragen.csv" },
@@ -114,6 +115,7 @@ export const packages = [
   { path: "/musik-romcom-ergaenzungen-20261016-fragen.csv", filename: "Musik-RomCom-Ergaenzungen-2026-10-16.csv" },
   { path: "/martial-arts-asia-ergaenzungen-20261016-fragen.csv", filename: "Martial-Arts-Asia-Ergaenzungen-2026-10-16.csv" },
   { path: "/thriller-western-scifi-ergaenzungen-20261016-fragen.csv", filename: "Thriller-Western-Science-Fiction-Ergaenzungen-2026-10-16.csv" },
+  ...expansion150.packages.map(({ path, filename }) => ({ path, filename })),
 ];
 export type PackageContent = { filename: string; text: string };
 export function hasPackage(state: State, filename: string) {

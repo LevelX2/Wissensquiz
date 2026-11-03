@@ -1,0 +1,253 @@
+{
+  "id": "ABENTEUER-002",
+  "film_title_de": "The Grey – Unter Wölfen",
+  "film_title_original": "The Grey",
+  "film_year": 2011,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Durch Liam Neeson und das einprägsame Überlebensszenario ein bekannter Genrefilm, ohne allgemeine Filmikone zu sein.",
+  "selection_reason": "Das Überlebensabenteuer verbindet äußere Naturgefahren mit Trauer, Lebenswillen und der Frage, was Menschen voneinander bewahren.",
+  "directors": [
+    "Joe Carnahan"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Öffentliche Vorführung beim Butt-Numb-A-Thon in Austin am 11. Dezember 2011, durch einen am 12. Dezember erschienenen Vor-Ort-Bericht bestätigt. Der reguläre US-Kinostart am 27. Januar 2012 erklärt die verbreitete Jahresangabe 2012 und den AFI-Katalogjahrgang.",
+  "director_note": "Joe Carnahan führte Regie und schrieb mit Ian MacKenzie Jeffers das Drehbuch.",
+  "country_note": "Die Filmübersicht nennt USA und Vereinigtes Königreich; der AFI-US-Katalog nennt nur USA.",
+  "series": null,
+  "series_note": "Keine nummerierte Filmfolge in den ausgewerteten Credits und Filmübersichten ausgewiesen.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/68386-THE-GREY"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/68386-THE-GREY",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Cast, Vorlage Ghost Walker, US-Kinostart 2012; der Katalogjahrgang ist nicht der früheste Vorführungsnachweis."
+    },
+    "premiere": {
+      "url": "https://www.slashfilm.com/518914/bnat-13-recap-hobbit-cabin-woods-grey-ghost-rider-spirit-vengeance/",
+      "accessed_on": "2026-11-03",
+      "supports": "Am 12. Dezember 2011 veröffentlichter Vor-Ort-Bericht über das Festivalwochenende in Austin einschließlich The Grey."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Grey",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung, Figuren, Vatergedicht, Erstvorführung am 11. Dezember 2011 und Produktionsländer."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/the-grey-2012",
+      "accessed_on": "2026-11-03",
+      "supports": "Absturz von Ölarbeitern, Ottways Führungsrolle, Weg zur Baumgrenze, Feuer und Verhältnis von Todessehnsucht zu Überlebenswillen."
+    },
+    "interview": {
+      "url": "https://www.wwno.org/2012-01-27/carnahan-discusses-the-grey",
+      "accessed_on": "2026-11-03",
+      "supports": "NPR-Interview mit Joe Carnahan: Brieftaschen, Angehörigenfotos und persönliche Verlusterfahrung als Hintergrund; vorherige Filme."
+    },
+    "gedicht": {
+      "url": "https://www.shockya.com/news/2012/05/26/exclusive-joe-carnahan-talks-the-grey-death-wish-remake/",
+      "accessed_on": "2026-11-03",
+      "supports": "Carnahans Erläuterung zum im Film dem Vater zugeschriebenen Gedicht und zur Entstehung des Titels."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ein Flugzeugabsturz setzt den Überlebenskampf der Gruppe in Gang.",
+      "question": "Wie gerät John Ottway (Liam Neeson) mit seinen Kollegen in „The Grey – Unter Wölfen“ in die eisige Wildnis?",
+      "answers": [
+        "Ihr Flugzeug stürzt ab.",
+        "Ihr Eisbrecher läuft auf Grund.",
+        "Ihr Zug entgleist in den Bergen.",
+        "Ihr Lastwagen bricht durch einen zugefrorenen See."
+      ],
+      "short": "Die Heimreise der Arbeiter endet mit einem Flugzeugabsturz.",
+      "context": "Ottway (Liam Neeson) arbeitet für ein Ölunternehmen in Alaska. Nach dem Absturz treffen Verletzungen und Kälte Menschen, die kaum Ausrüstung retten können. Seine Erfahrung verschafft ihm eine Führungsrolle, obwohl er selbst vor der Reise an einem Punkt großer persönlicher Verzweiflung steht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Liam Neeson spielt den erfahrenen Schützen John Ottway.",
+      "question": "Wer spielt in „The Grey – Unter Wölfen“ den verzweifelten Schützen John Ottway, der die Überlebenden anzuführen versucht?",
+      "answers": [
+        "Liam Neeson",
+        "Gerard Butler",
+        "Viggo Mortensen",
+        "Jake Gyllenhaal"
+      ],
+      "short": "Liam Neeson verkörpert John Ottway.",
+      "context": "Ottway (Liam Neeson) schützt im Auftrag einer Ölfirma die Arbeiter vor Wölfen. Nach dem Flugzeugabsturz wird sein Wissen für die anderen wichtig. Die Rolle beginnt jedoch mit einem Mann, der selbst kaum weiterleben möchte: Der spätere Kampf ums Überleben folgt auf eine persönliche Todessehnsucht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "ebert"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Ottway will das Wrack verlassen und Schutz unterhalb der Baumgrenze suchen.",
+      "question": "Welches Ziel schlägt Ottway (Liam Neeson) den Männern in „The Grey – Unter Wölfen“ vor, als sie das Flugzeugwrack verlassen?",
+      "answers": [
+        "Den nahe gelegenen Wald erreichen",
+        "Den nächsten Berggipfel erklimmen",
+        "Einem Ölrohr bis zur Küste folgen",
+        "Zu einer beobachteten Funkstation gehen"
+      ],
+      "short": "Er hält den Wald für ihre beste Chance, Schutz zu finden.",
+      "context": "Am Wrack fehlen dauerhafte Deckung und eine sichere Aussicht auf Rettung. Ottway (Liam Neeson) setzt deshalb auf Bewegung und den Schutz der Bäume. Roger Ebert hebt an der Entscheidung gerade die Ungewissheit hervor: Ottway kann Orientierung geben, ohne damit eine gefahrlose Route zu kennen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die aufbewahrten Brieftaschen enthalten persönliche Erinnerungen an die Toten.",
+      "question": "Was bewahrt Ottway (Liam Neeson) in „The Grey – Unter Wölfen“ von gestorbenen Gefährten auf, um ihre persönliche Erinnerung mitzunehmen?",
+      "answers": [
+        "Ihre Brieftaschen mit Fotos",
+        "Ihre zerrissenen Arbeitsjacken",
+        "Ihre beschrifteten Trinkflaschen",
+        "Ihre zerbrochenen Schutzbrillen"
+      ],
+      "short": "Er sammelt die Brieftaschen, in denen Bilder und persönliche Spuren bleiben.",
+      "context": "Die Gegenstände stehen für Menschen mit Familien und einer Geschichte außerhalb der Unfallstelle. Regisseur Joe Carnahan verband das Motiv im Interview mit dem Anblick zurückgelassener Alltagsdinge nach einem Todesfall. Die Angehörigenbilder wurden mit persönlichen Fotos der Darsteller gestaltet, sodass auch in diesem Detail gelebte Beziehungen sichtbar bleiben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die literarische Grundlage ist Ghost Walker von Ian MacKenzie Jeffers.",
+      "question": "Welche literarische Vorlage liegt „The Grey – Unter Wölfen“ zugrunde?",
+      "answers": [
+        "Ian MacKenzie Jeffers’ Erzählung „Ghost Walker“",
+        "Jack Londons Roman „Wolfsblut“",
+        "Farley Mowats Buch „Ein Sommer mit Wölfen“",
+        "James Dickeys Roman „Flussfahrt“"
+      ],
+      "short": "Die Vorlage heißt „Ghost Walker“ und stammt von Ian MacKenzie Jeffers.",
+      "context": "Jeffers war auch am Drehbuch beteiligt. Die literarische Grundlage wurde damit von ihrem eigenen Autor für das Kino weiterbearbeitet. Der Film konzentriert sich auf eine Gruppe, in der unterschiedliche Vorstellungen von Mut, Glauben und Aufgeben hervortreten, während Wetter und Verfolger ihren Handlungsspielraum immer weiter einengen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "ebert"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Das wiederkehrende Gedicht wird innerhalb der Handlung Ottways Vater zugeschrieben.",
+      "question": "Von wem stammt innerhalb der Handlung das Gedicht, an das Ottway (Liam Neeson) sich in „The Grey – Unter Wölfen“ wiederholt erinnert?",
+      "answers": [
+        "Von seinem Vater",
+        "Von seiner verstorbenen Frau",
+        "Von einem früheren Kollegen",
+        "Von seiner Lehrerin"
+      ],
+      "short": "Ottway erinnert sich an ein Gedicht seines Vaters.",
+      "context": "Die Verse gehören zu seiner Kindheit und kehren angesichts des möglichen Todes zurück. Für den Film schrieb Joe Carnahan sie selbst; sie sind also kein übernommenes berühmtes Gedicht. In Carnahans Vorstellung versucht Ottways Vater damit auf unbeholfene Weise, seinem Sohn etwas über Widerstand und Lebenswillen zu hinterlassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "gedicht",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste öffentliche Vorführung von The Grey fand 2011 statt.",
+      "question": "In welchem Jahr wurde „The Grey – Unter Wölfen“ mit Liam Neeson erstmals öffentlich vorgeführt?",
+      "answers": [
+        "2011",
+        "2008",
+        "2012",
+        "2015"
+      ],
+      "short": "Eine Festivalvorführung in Austin ist bereits für Dezember 2011 belegt.",
+      "context": "Der reguläre US-Kinostart folgte im Januar 2012. Das erklärt, weshalb viele Filmübersichten 2012 angeben. Der zeitgenössische Bericht vom Butt-Numb-A-Thon beschreibt jedoch schon vorher ein Publikum, das neben dem Wolfsabenteuer auch neue Filme wie „Mission: Impossible – Phantom Protokoll“ sah.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "premiere",
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Die Regie führte Joe Carnahan.",
+      "question": "Wer führte bei dem Überlebensfilm „The Grey – Unter Wölfen“ mit Liam Neeson Regie?",
+      "answers": [
+        "Joe Carnahan",
+        "Ridley Scott",
+        "Martin Campbell",
+        "Antoine Fuqua"
+      ],
+      "short": "Regisseur und Mitautor ist Joe Carnahan.",
+      "context": "Nach Filmen wie „Smokin’ Aces“ und „Das A-Team“ arbeitete Carnahan erneut mit einem gefährlichen Gruppenszenario. Im Interview über „The Grey“ sprach er besonders über Verlust und die letzten Erinnerungen eines Menschen. Diese Anliegen erklären, weshalb der Film zwischen Angriffen Zeit für Gespräche und persönliche Spuren lässt.",
+      "feedback": [
+        "",
+        "Ridley Scott ist hier als Produzent beteiligt.",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "interview"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

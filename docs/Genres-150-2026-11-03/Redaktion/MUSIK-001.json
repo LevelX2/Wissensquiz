@@ -1,0 +1,243 @@
+{
+  "director_note": "",
+  "country_note": "Unifrance führt die Produktion als100Prozentfranzösisch; sekundäre Filmografien nennen teilweise zusätzlichItalien. Für die Produktionszuordnung ist hier die französische Branchenquelle führend.",
+  "series": null,
+  "status": "quellengeprueft",
+  "id": "MUSIK-001",
+  "film_title_de": "8 Frauen",
+  "film_title_original": "8 femmes",
+  "film_year": 2002,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Bekanntes Ensemblewerk des europäischen Autorenkinos; die konkrete Mischung aus Bühnenkrimi und Chansons richtet sich eher an Filmkenner.",
+  "selection_reason": "Ergänzt französische Chansontradition und ein Frauenensemble mit einer bewusst theatralen Kriminalhandlung.",
+  "directors": [
+    "François Ozon"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Erstveröffentlichung 2002. Paris-Premiere am 8. Januar, regulärer französischer Kinostart am 6. Februar. Das Produktionsjahr 2001 bei Unifrance ist kein früheres Veröffentlichungsjahr; die abweichende CNC-Startangabe liegt ebenfalls 2002.",
+  "series_note": "Eigenständige Adaption eines Bühnenstücks; keine nummerierte Filmfolge in den geprüften Quellen.",
+  "series_sources": [
+    "https://www.universalpicturesathome.com/movies/8-women"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://www.universalpicturesathome.com/movies/8-women",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausgangslage, verschneites Haus, abgeschnittenes Telefon, weibliches Ensemble, Regie und Veröffentlichungsjahr."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/8_Women",
+      "accessed_on": "2026-11-03",
+      "supports": "Weihnachten, scheinbarer Messerstich, Mamy und Rollstuhl, Augustine und Message personnel, Robert Thomas, Paris-Premiere und Berlinale-Ensemblepreis."
+    },
+    "arte": {
+      "url": "https://boutique.arte.tv/detail/8-femmes",
+      "accessed_on": "2026-11-03",
+      "supports": "Ensemble, Figurenbeziehungen und Vermischung von Kriminalstück, Geheimnissen und Gesang."
+    },
+    "unifrance": {
+      "url": "https://www.unifrance.org/film/22304/8-femmes",
+      "accessed_on": "2026-11-03",
+      "supports": "Originaltitel,100Prozentfranzösische Produktion, Produktionsjahr 2001 und französischer Kinostart6.Februar 2002."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Weihnachten als Anlass der Zusammenkunft.",
+      "question": "Zu welchem Fest kommt die Familie in „8 Frauen“ zusammen?",
+      "answers": [
+        "Weihnachten",
+        "Ostern",
+        "Silvester",
+        "Ein Hochzeitstag"
+      ],
+      "short": "Die Familie bereitet sich auf Weihnachten vor.",
+      "context": "Suzon (Virginie Ledoyen) kehrt zum Fest nach Hause zurück. Im verschneiten Landhaus begegnet sie einer Familie, deren vertraute Rollen bald zerfallen. Aus dem erwarteten Zusammensein wird eine Untersuchung, bei der Angehörige und Angestellte ihre eigenen Interessen offenbaren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der scheinbare Mord als Auslöser der Untersuchung.",
+      "question": "Was löst in „8 Frauen“ die Suche nach einer Täterin aus?",
+      "answers": [
+        "Marcel wird mit einem Messer im Rücken gefunden.",
+        "Ein Gast verschwindet mit dem gesamten Familienschmuck.",
+        "Die Hausherrin wird in ihrem Zimmer eingesperrt.",
+        "Eine fremde Frau bedroht die Familie mit einer Pistole."
+      ],
+      "short": "Der Hausherr scheint erstochen worden zu sein.",
+      "context": "Der vermeintliche Tod Marcels (Dominique Lamure) macht aus persönlichen Spannungen mögliche Mordmotive. Die Frauen müssen ihre Beziehungen zu dem Mann erklären. Dabei verrät eine belastende Geschichte zunächst mehr über die Erzählerin als über den tatsächlichen Ablauf.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Abgeschnittene Kommunikation und Sabotage erzwingen den geschlossenen Verdächtigenkreis.",
+      "question": "Warum können die Frauen in „8 Frauen“ nicht einfach Hilfe holen?",
+      "answers": [
+        "Telefon und Auto sind manipuliert; außerdem sind sie eingeschneit.",
+        "Das Haus wird von einer bewaffneten Räuberbande bewacht.",
+        "Die Polizei hält sämtliche Angehörigen bereits im Haus fest.",
+        "Die Familie befindet sich auf einer unbewohnten Insel."
+      ],
+      "short": "Die Verbindung nach draußen und das Auto fallen aus; der Schnee verschärft die Isolation.",
+      "context": "Die Frauen finden eine gekappte Telefonleitung und später ein sabotiertes Auto. Damit fehlen zwei selbstverständliche Fluchtwege. Der begrenzte Raum zwingt die Verdächtigen, Anschuldigungen unmittelbar auszutragen, statt die Lösung einer von außen eintreffenden Ermittlungsfigur zu überlassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Mamys vorgetäuschte Gebrechlichkeit wird durch ihre spontane Bewegung entlarvt.",
+      "question": "Wodurch wird Mamy (Danielle Darrieux) in „8 Frauen“ bei einer Täuschung ertappt?",
+      "answers": [
+        "Sie steht plötzlich aus ihrem Rollstuhl auf.",
+        "Sie liest einen angeblich verbrannten Brief vor.",
+        "Sie ruft mit dem angeblich gestohlenen Telefon an.",
+        "Sie holt den angeblich verlorenen Tresorschlüssel hervor."
+      ],
+      "short": "Mamy kann entgegen ihrem bisherigen Auftreten gehen.",
+      "context": "Als Augustine (Isabelle Huppert) mit Selbstmord droht, reagiert Mamy (Danielle Darrieux) und springt auf. Ihre hastige Erklärung eines Weihnachtswunders verdeckt die Lüge kaum. Noch vor der eigentlichen Mordaufklärung wird deutlich, wie wenig die häuslichen Selbstbeschreibungen verlässlich sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Robert Thomas ist der Autor der Theatergrundlage.",
+      "question": "Von wem stammt das Bühnenstück, auf dem „8 Frauen“ beruht?",
+      "answers": [
+        "Robert Thomas",
+        "Jean Anouilh",
+        "Georges Feydeau",
+        "Jean-Paul Sartre"
+      ],
+      "short": "Die Vorlage ist das gleichnamige Stück von Robert Thomas.",
+      "context": "Der begrenzte Schauplatz und die nacheinander aufgedeckten Geheimnisse stammen aus einer Kriminalkomödie für das Theater. Die Verfilmung übernimmt diese Konzentration auf Begegnungen im Haus und erweitert sie um Musiknummern. So bleiben Bühnenmechanik und filmische Stilisierung nebeneinander erkennbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "arte"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Augustines Chanson Message personnel äußert ihre unterdrückte Sehnsucht.",
+      "question": "Welche Figur singt in „8 Frauen“ das sehnsüchtige Chanson „Message personnel“?",
+      "answers": [
+        "Augustine",
+        "Gaby",
+        "Pierrette",
+        "Catherine"
+      ],
+      "short": "Augustine, gespielt von Isabelle Huppert, singt „Message personnel“.",
+      "context": "Augustine (Isabelle Huppert) erscheint zunächst vor allem streitsüchtig und unzufrieden. Ihr Lied verschiebt den Blick auf die Figur: Hinter den Angriffen wird der Wunsch nach Zuneigung hörbar. Die Musiknummer gibt ihr einen anderen Ausdruck als die scharf geführten Familiengespräche.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 2002.",
+      "question": "In welchem Jahr wurde François Ozons Ensemblefilm „8 Frauen“ erstmals veröffentlicht?",
+      "answers": [
+        "2002",
+        "1998",
+        "2006",
+        "2010"
+      ],
+      "short": "„8 Frauen“ wurde 2002 veröffentlicht.",
+      "context": "Im selben Jahr erhielt das Ensemble bei der Berlinale einen Silbernen Bären für eine herausragende künstlerische Leistung. Gewürdigt wurde das Zusammenspiel der acht Hauptdarstellerinnen. Diese Auszeichnung passt zu einem Film, der den Verdacht und die Aufmerksamkeit bewusst auf mehrere Frauen verteilt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "François Ozon führt Regie.",
+      "question": "Wer führte bei dem französischen Musicalkrimi „8 Frauen“ Regie?",
+      "answers": [
+        "François Ozon",
+        "Alain Resnais",
+        "Jacques Demy",
+        "Claude Chabrol"
+      ],
+      "short": "Die Regie stammt von François Ozon.",
+      "context": "Ozon verbindet eine abgeschlossene Kriminalsituation mit melodramatischen Familienkonflikten und Chansons. Die Frauen sind zugleich Verdächtige und Trägerinnen eigener Musiknummern. Dadurch verändert sich im Verlauf auch der Blick auf Figuren, die anfangs auf eine einzige gesellschaftliche Rolle festgelegt scheinen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung",
+        "arte"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

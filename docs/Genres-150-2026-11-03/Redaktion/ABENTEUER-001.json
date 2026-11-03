@@ -1,0 +1,241 @@
+{
+  "id": "ABENTEUER-001",
+  "film_title_de": "All Is Lost",
+  "film_title_original": "All Is Lost",
+  "film_year": 2013,
+  "genre": "Abenteuer",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Bekanntes spätes Redford-Solostück, dessen nahezu wortlose Form eher ein filmkundiges Publikum erreicht.",
+  "selection_reason": "Ein konzentriertes Seeabenteuer erweitert den Bestand um ein Einpersonenstück, in dem Beobachtung und praktische Entscheidungen die Erzählung tragen. Die Beschränkung von Figuren und Dialog begründet zugleich die Arthouse-Zuordnung.",
+  "directors": [
+    "J. C. Chandor"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste öffentliche Vorstellung am 22. Mai 2013 außer Konkurrenz in Cannes; der nordamerikanische Kinostart folgte im Oktober.",
+  "director_note": "Drehbuch und Regie: J. C. Chandor.",
+  "country_note": "Die Ländereinordnung folgt dem offiziellen Cannes-Eintrag, der USA nennt.",
+  "series": null,
+  "series_note": "In Festivalangaben, Produktionsunterlagen und Filmübersicht keine nummerierte Filmfolge ausgewiesen.",
+  "series_sources": [
+    "https://www.festival-cannes.com/en/f/all-is-lost/"
+  ],
+  "sources": {
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/all-is-lost/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Synopsis: Indischer Ozean, Containerkollision, Ausfall der Elektronik, Navigation; Regie, Besetzung und Produktionsland."
+    },
+    "premiere": {
+      "url": "https://www.festival-cannes.com/en/2013/out-of-competition-robert-redford-j-c-chandor-s-castaway/",
+      "accessed_on": "2026-11-03",
+      "supports": "Festivalvorstellung am 22. Mai 2013 und Chandors zweiter Spielfilm."
+    },
+    "produktion": {
+      "url": "https://www.sailingscuttlebutt.com/wp-content/uploads/2013/10/AllIsLost-ProdNotes.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Verleiher-Produktionsnotizen, S. 2–7: Drehbuch, Sundance-Begegnung, Wassertanks der Baja Studios, Storyboards und Dreharbeit."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/All_Is_Lost",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlungsablauf: Wassergewinnung durch Verdunstung und Kondensation, letztes Signalfeuer; Premiere und nachfolgender Kinostart."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Auslöser der Seenot ist die Kollision mit einem treibenden Frachtcontainer.",
+      "question": "Womit kollidiert die Segelyacht des namenlosen Mannes (Robert Redford) zu Beginn von „All Is Lost“?",
+      "answers": [
+        "Mit einem treibenden Frachtcontainer",
+        "Mit einem verborgenen Korallenriff",
+        "Mit einem auftauchenden U-Boot",
+        "Mit einem treibenden Eisberg"
+      ],
+      "short": "Ein über Bord gegangener Frachtcontainer schlägt ein Loch in den Rumpf.",
+      "context": "Der Segler (Robert Redford) löst die Yacht vom Container und dichtet den Schaden ab. Der Wassereinbruch hat jedoch auch Funk und Navigation getroffen. Die sichtbare Reparatur beseitigt deshalb nur einen Teil der Gefahr: Hilfe rufen und den weiteren Kurs bestimmen kann er zunächst kaum.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Handlung beginnt auf einer Solofahrt im Indischen Ozean.",
+      "question": "Auf welchem Ozean gerät der Segler (Robert Redford) in „All Is Lost“ in Seenot?",
+      "answers": [
+        "Auf dem Indischen Ozean",
+        "Auf dem Nordatlantik",
+        "Auf dem Südlichen Ozean",
+        "Auf dem Arktischen Ozean"
+      ],
+      "short": "Seine Solofahrt führt über den Indischen Ozean.",
+      "context": "Die große Entfernung zur Küste bestimmt die Rettungsaussichten. Der Mann (Robert Redford) muss darauf hoffen, eine Schifffahrtsroute zu erreichen. Selbst in der Nähe großer Frachter bleibt die kleine Rettungsinsel leicht zu übersehen; die bloße Anwesenheit anderer Menschen bedeutet noch keine Verbindung zu ihnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Nach dem Ausfall elektronischer Navigation verwendet der Segler einen Sextanten.",
+      "question": "Welches Instrument benutzt der Schiffbrüchige (Robert Redford) in „All Is Lost“ zusammen mit seinen Seekarten?",
+      "answers": [
+        "Einen Sextanten",
+        "Einen Handpeilkompass",
+        "Einen Seefunkpeiler",
+        "Ein GPS-Handgerät"
+      ],
+      "short": "Er arbeitet mit einem Sextanten und Seekarten.",
+      "context": "Eine Position ist für ihn kein abstrakter Wert: Aus ihr lässt sich abschätzen, ob die Strömung ihn in eine befahrene Route trägt. Der Film zeigt ihn beim mühsamen Umgang mit dem Instrument. An die Stelle eines sofort abrufbaren elektronischen Ergebnisses treten Lernen, Beobachten und Rechnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der Mann improvisiert eine Vorrichtung zur Verdunstung und Kondensation von Wasser.",
+      "question": "Wie versucht der Mann (Robert Redford) in „All Is Lost“, nach der Verunreinigung seines Vorrats wieder Trinkwasser zu gewinnen?",
+      "answers": [
+        "Er sammelt verdunstetes Wasser in einer improvisierten Destillationsvorrichtung.",
+        "Er fängt mit einem aufgespannten Segel Regenwasser auf.",
+        "Er sammelt nachts Tau mit ausgebreiteten Tüchern.",
+        "Er birgt einen unbeschädigten Wasserkanister aus der Yacht."
+      ],
+      "short": "Er baut mit einfachen Behältern und Kunststoff eine solare Destillationsvorrichtung.",
+      "context": "Sein Vorrat ist durch Meerwasser unbrauchbar geworden. Der Schiffbrüchige (Robert Redford) nutzt nun Sonne und unterschiedliche Auffangflächen, um verdunstetes Wasser wieder zu sammeln. Auch dieser Ausweg ist langsam und unsicher. Hunger, Durst und das Warten auf ein Schiff lassen sich nicht durch eine einzige gelungene Reparatur beenden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die großen Wassertanks der Baja Studios entstanden für Titanic und wurden für All Is Lost genutzt.",
+      "question": "Für welchen James-Cameron-Film waren die mexikanischen Wassertanks ursprünglich angelegt worden, in denen wesentliche Szenen von „All Is Lost“ entstanden?",
+      "answers": [
+        "Titanic",
+        "The Abyss",
+        "Avatar",
+        "True Lies"
+      ],
+      "short": "Die Baja Studios waren für „Titanic“ aufgebaut worden.",
+      "context": "Ein Boot kontrolliert kentern oder sinken zu lassen, verlangt andere Bedingungen als eine normale Aufnahme auf See. In Rosarito konnte das Team solche Vorgänge mit großen Tanks und besonderen Vorrichtungen planen. Das offene Meer im Bild setzt sich somit aus realen Außenaufnahmen und kontrollierter Studioarbeit zusammen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "Das letzte Signalfeuer verbrennt die Rettungsinsel und vernichtet den verbliebenen Schutzraum.",
+      "question": "Welche unmittelbare Folge hat das letzte improvisierte Signalfeuer des Mannes (Robert Redford) in „All Is Lost“?",
+      "answers": [
+        "Es zerstört die Rettungsinsel, sodass er ins Wasser muss.",
+        "Es bewegt einen vorbeifahrenden Frachter zum sofortigen Anhalten.",
+        "Es erlischt schon beim Entzünden durch eine herüberschlagende Welle.",
+        "Es beschädigt eine Luftkammer, die er anschließend noch flicken kann."
+      ],
+      "short": "Das Feuer greift auf die Rettungsinsel über und zerstört sie.",
+      "context": "Als er nachts ein fernes Licht sieht, verbrennt der Mann (Robert Redford) Papier als Signal. Die Flammen werden unkontrollierbar; er fällt ins Wasser. Der Schluss zeigt eine ausgestreckte Hand. Eine eindeutig erklärte Zukunft des Geretteten liefert der Film damit nicht, wohl aber einen letzten Wechsel vom Aufgeben zum Zugreifen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "All Is Lost wurde erstmals 2013 öffentlich gezeigt.",
+      "question": "In welchem Jahr wurde „All Is Lost“ mit Robert Redford erstmals öffentlich gezeigt?",
+      "answers": [
+        "2013",
+        "2009",
+        "2011",
+        "2016"
+      ],
+      "short": "Der Film wurde 2013 in Cannes vorgestellt.",
+      "context": "Zwei Jahre zuvor hatte „Margin Call“ Chandors Spielfilmkarriere eröffnet. Bei dessen Sundance-Vorstellung 2011 lernte Robert Redford den Regisseur kennen. Ausgerechnet nach diesem stark von Gesprächen getragenen Finanzdrama entstand mit „All Is Lost“ ein Film, der fast vollständig über Handlungen, Geräusche und Redfords Körper erzählt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "premiere",
+        "produktion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Der offizielle Regisseur ist J. C. Chandor.",
+      "question": "Wer führte bei dem fast wortlosen Seeabenteuer „All Is Lost“ mit Robert Redford Regie?",
+      "answers": [
+        "J. C. Chandor",
+        "Peter Weir",
+        "Ang Lee",
+        "Wolfgang Petersen"
+      ],
+      "short": "Drehbuch und Regie stammen von J. C. Chandor.",
+      "context": "Chandor beschrieb die Vorgänge zunächst in einem ungewöhnlich kurzen Prosadrehbuch. Für den Dreh wurde die Abfolge zusätzlich auf einer großen Übersicht aus Storyboards geplant. Wassereinbrüche, Reparaturen und Wetterwechsel mussten auch ohne erklärende Gespräche verständlich aufeinander folgen; die praktische Organisation war deshalb eng mit der Erzählweise verbunden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "produktion"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
