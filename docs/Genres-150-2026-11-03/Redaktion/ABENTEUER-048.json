@@ -1,0 +1,258 @@
+{
+  "id": "ABENTEUER-048",
+  "film_title_de": "Monte Cristo",
+  "film_title_original": "The Count of Monte Cristo",
+  "film_year": 2002,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Gut zugängliche, international besetzte Neuverfilmung des bekannten Dumas-Stoffs; die konkrete Fassung ist weniger allgegenwärtig als der Romantitel.",
+  "selection_reason": "Eigenständige Abenteuerverfilmung mit Gefängnisausbruch, Piratenbegegnung und einer gegenüber anderen Fassungen veränderten Familienauflösung.",
+  "directors": [
+    "Kevin Reynolds"
+  ],
+  "production_countries": [
+    "Irland",
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "2002, US-Start am 25. Januar nach AFI und Disney D23; deutscher Start im Mai desselben Jahres nach Filmdienst. Kein früheres öffentliches Veröffentlichungsjahr gefunden.",
+  "director_note": "Kevin Reynolds allein; Jay Wolpert ist Drehbuchautor.",
+  "country_note": "Irland, Großbritannien und USA stimmen bei AFI und Filmdienst überein. Malta ist als Drehort belegt und wird daraus nicht zusätzlich als Produktionsland abgeleitet.",
+  "series": null,
+  "series_note": "Abgeschlossene eigenständige Neuverfilmung, keine Fortsetzung der ebenfalls im Bestand vorhandenen Fassung von 1954 oder der späteren Fassung von 2024.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/62335-THE-COUNT-OF-MONTE-CRISTO",
+    "https://d23.com/a-to-z/count-of-monte-cristo-the-film/"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/62335-THE-COUNT-OF-MONTE-CRISTO",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige Credits und Details: Jahr 2002, US-Start, Kevin Reynolds, Hauptbesetzung, Länder Irland/Großbritannien/USA. Keine AFI-Inhaltsangabe vorhanden und deshalb keine Handlung darauf gestützt."
+    },
+    "disney": {
+      "url": "https://d23.com/a-to-z/count-of-monte-cristo-the-film/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindextext des Disney-Archivs; direkte Seite zeigte nur den Kopf. Belegt Inselgefängnis, 13 Jahre Haft, neue Identität und Rache, Start 25. Januar 2002, Regie/Besetzung sowie Dreharbeiten in Irland und Malta."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(2002_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene gesamte Handlung und Besetzung: Jacopos verschontes Leben, inszenierte Entführung Alberts, Clarion-Falle, Alberts tatsächliche Vaterschaft, Schlussentscheidung zum Château d’If. Nicht ungeprüft auf andere Verfilmungen übertragen."
+    },
+    "filmdienst": {
+      "url": "https://www.filmdienst.de/film/details/516493/monte-cristo",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Überblick und Filmdaten: deutscher Titel, Hauptrollen, Regie, Länder und 2002. Haftdauer des Überblicks weicht von Disney ab; die konkrete Dauer wird nicht abgefragt."
+    },
+    "bnf": {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb30372832n",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener bibliografischer Eintrag mit präziser Feuilletonchronologie: Beginn 28. August 1844, Fortsetzungen bis 15. Januar 1846; Buchausgaben ab 1845."
+    },
+    "dialog": {
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=count-of-monte-cristo-the-2002",
+      "accessed_on": "2026-11-03",
+      "supports": "Zusammenhängende Filmtranskript-Passagen zur arrangierten Entführung/Frühstückseinladung gelesen sowie vollständigen Schlussabschnitt abRuindesMondego überzweifacheVaterschaftsenthüllungbisletztenDialog:KaufundfrühereAbrissabsicht,jetzigerFamilienvorrang. Kein früherDrehbuchentwurf oderRomanalsBelegfürdieseFilmfassung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jim Caviezel verkörpert Edmond Dantès in der Verfilmung von 2002.",
+      "question": "Wer spielt in „Monte Cristo“ mit Guy Pearce den verratenen Seemann Edmond Dantès?",
+      "answers": [
+        "Jim Caviezel",
+        "Hugh Jackman",
+        "Christian Bale",
+        "Jude Law"
+      ],
+      "short": "Jim Caviezel spielt Edmond Dantès.",
+      "context": "Der junge Seemann wird durch eine Intrige um seine Zukunft gebracht. Nach seiner Flucht kehrt er mit Vermögen und einer neuen gesellschaftlichen Identität zurück. Jim Caviezel spielt damit sowohl den unerfahrenen Mann vor der Haft als auch den kontrollierten Rächer, der seine früheren Gegner in der vornehmen Gesellschaft aufsucht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "disney",
+        "filmdienst"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Dantès wird im Inselgefängnis Château d’If gefangen gehalten.",
+      "question": "Wo wird Edmond Dantès (Jim Caviezel) in „Monte Cristo“ nach seiner Verhaftung eingesperrt?",
+      "answers": [
+        "Im Château d’If",
+        "In der Bastille",
+        "Im Tower von London",
+        "In der Conciergerie"
+      ],
+      "short": "Sein Gefängnis ist das Château d’If.",
+      "context": "Die abgeschiedene Festung trennt Edmond (Jim Caviezel) von seinem bisherigen Leben. Erst die Begegnung mit einem anderen Häftling eröffnet ihm wieder eine Zukunft. Aus dem scheinbar endgültigen Verschwinden entwickelt sich eine Rückkehrgeschichte: Der frühere Gefangene kann später gerade jene gesellschaftlichen Kreise betreten, die ihn hatten beseitigen lassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "disney",
+        "filmdienst"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Jacopo bindet sich an Dantès, weil dieser ihn im erzwungenen Zweikampf verschont.",
+      "question": "Warum wird Jacopo (Luis Guzmán) in „Monte Cristo“ zum treuen Gefährten Edmonds (Jim Caviezel)?",
+      "answers": [
+        "Edmond verschont ihn nach einem erzwungenen Messerkampf.",
+        "Edmond kauft ihn aus einem französischen Schuldgefängnis frei.",
+        "Edmond rettet seine Tochter aus einem brennenden Schiff.",
+        "Edmond übernimmt vor Gericht die Schuld für seinen Schmuggel."
+      ],
+      "short": "Das verschonte Leben begründet Jacopos Treue.",
+      "context": "Nach der Flucht gerät Edmond (Jim Caviezel) zu Piraten. Deren Anführer lässt ihn gegen Jacopo (Luis Guzmán) kämpfen. Edmond gewinnt, tötet den Unterlegenen aber nicht. Der so gewonnene Verbündete begleitet ihn anschließend als Diener und Helfer auch in seine neue gesellschaftliche Existenz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "disney"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die inszenierte Entführung und Rettung Alberts verschafft dem Grafen Zugang zur Familie Mondego.",
+      "question": "Wie verschafft sich Edmond (Jim Caviezel) in „Monte Cristo“ das Vertrauen Alberts (Henry Cavill)?",
+      "answers": [
+        "Er inszeniert dessen Entführung und tritt als Retter auf.",
+        "Er verhindert öffentlich dessen Verurteilung wegen Hochverrats.",
+        "Er schenkt ihm vor dessen Familie das gesuchte Piratenschiff.",
+        "Er macht ihn zum Erben eines tatsächlich verstorbenen Verwandten."
+      ],
+      "short": "Die Rettung aus einer von ihm selbst veranlassten Entführung ist arrangiert.",
+      "context": "Albert (Henry Cavill) hält seinen Wohltäter für einen uneigennützigen Helfer. Edmond (Jim Caviezel) kann über den jungen Mann in den Familienkreis seines Gegners eindringen. Die Begegnung gehört zu einer Rache, die zunächst mit Vertrauen und Abhängigkeit arbeitet, bevor sie offen in Gewalt umschlägt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "dialog"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Albert ist in dieser Fassung biologisch der Sohn Edmonds, nicht Fernands.",
+      "question": "Welche Enthüllung verändert in „Monte Cristo“ Alberts (Henry Cavill) Verhältnis zu Edmond (Jim Caviezel)?",
+      "answers": [
+        "Edmond ist sein leiblicher Vater.",
+        "Edmond ist der Bruder seiner Mutter.",
+        "Edmond hat ihn als Säugling adoptiert.",
+        "Edmond ist der verschwundene Bruder Fernands."
+      ],
+      "short": "Albert ist Edmonds leiblicher Sohn.",
+      "context": "Mercédès (Dagmara Domińczyk) erklärt die Vaterschaft. Albert (Henry Cavill) hat zuvor den Mann verteidigen wollen, den er für seinen Vater hielt. Für Edmond (Jim Caviezel) wird die Rückkehr dadurch auch zur Möglichkeit eines Familienlebens; die Enthüllung betrifft diese konkrete Filmfassung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "dialog"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Am Ende kauft Dantès sein früheres Gefängnis, lässt es jedoch stehen.",
+      "question": "Was entscheidet Edmond (Jim Caviezel) am Ende von „Monte Cristo“ über das von ihm gekaufte Château d’If?",
+      "answers": [
+        "Er lässt es entgegen seiner ersten Absicht stehen.",
+        "Er lässt es als Wohnsitz für seine Familie umbauen.",
+        "Er übergibt es Jacopo als eigenen Piratenstützpunkt.",
+        "Er lässt dort ein neues staatliches Gefängnis eröffnen."
+      ],
+      "short": "Er verzichtet auf den zunächst geplanten Abriss.",
+      "context": "Edmond (Jim Caviezel) verspricht dem verstorbenen Faria (Richard Harris), sein Vermögen für Gutes einzusetzen. Er reist mit seiner Familie ab. Die Verfügung über den Ort seiner Entmachtung beendet damit die Geschichte, ohne dass dessen Zerstörung noch den letzten Triumph bilden muss.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "dialog"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Monte Cristo mit Jim Caviezel wurde 2002 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Monte Cristo“ mit Jim Caviezel und Guy Pearce erstmals?",
+      "answers": [
+        "2002",
+        "1996",
+        "1999",
+        "2006"
+      ],
+      "short": "Diese Verfilmung erschien 2002.",
+      "context": "Der Kinofilm von 2002 erschien 158 Jahre nach dem Beginn des Romans als Zeitungsfortsetzung im Jahr 1844. Die Veröffentlichung des umfangreichen Stoffs erstreckte sich bis 1846. Das Kino muss diese lange Erzählung verdichten; hier konzentriert sie sich auf Gefangenschaft, Rückkehr und die persönliche Abrechnung mit den Verrätern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bnf",
+        "disney"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Kevin Reynolds inszenierte Monte Cristo mit Jim Caviezel.",
+      "question": "Wer führte bei „Monte Cristo“ mit Jim Caviezel und Guy Pearce Regie?",
+      "answers": [
+        "Kevin Reynolds",
+        "Martin Campbell",
+        "Stephen Sommers",
+        "Rob Cohen"
+      ],
+      "short": "Kevin Reynolds führte Regie.",
+      "context": "Reynolds inszeniert den Stoff als Abenteuer mit Ausbruch, neu erworbenem Reichtum und Rückkehr in die Gesellschaft. Gedreht wurde in Irland und Malta. Die historischen Schauplätze der Handlung werden damit durch ausgewählte Drehorte dargestellt; die Inszenierung verbindet maritime Bilder mit der Welt der aristokratischen Empfänge.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "disney",
+        "filmdienst"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

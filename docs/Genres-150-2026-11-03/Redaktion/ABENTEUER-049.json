@@ -1,0 +1,271 @@
+{
+  "id": "ABENTEUER-049",
+  "film_title_de": "Der Graf von Monte Christo",
+  "film_title_original": "Le Comte de Monte-Cristo",
+  "film_year": 2024,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Große französische Kinoverfilmung eines sehr bekannten Romans, mit starker internationaler Auswertung; individuelle Fassung von älteren Filmen und der gleichzeitig entstandenen Fernsehserie getrennt.",
+  "selection_reason": "Opulentes Rache- und Verwandlungsabenteuer, dessen neue Figurenverbindungen und Umgang mit der jüngeren Generation konkrete eigenständige Wissensziele ermöglichen.",
+  "directors": [
+    "Matthieu Delaporte",
+    "Alexandre de La Patellière"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Weltpremiere am 22. Mai 2024 in Cannes, französischer Kinostart 28. Juni 2024. Das auf der Pathé-Seite genannte Produktionsjahr 2023 ist nicht das Erstveröffentlichungsjahr; deutscher Start erst 2025.",
+  "director_note": "Beide vollständigen Regiecredits nach Festival, Pathé und Presseheft; die einzeln angezeigte Regie im Filmdienst-Seitenkopf ist unvollständig, dessen Filmdaten nennen beide.",
+  "country_note": "Frankreich nach Cannes, Pathé, CNC 158738 und Filmdienst. Die FSK nennt Frankreich/Belgien; dieser abweichende Eintrag wird dokumentiert, während die übereinstimmenden Herkunftsangaben der französischen Produktions-/Zulassungsquellen geführt werden.",
+  "series": null,
+  "series_note": "Eigenständiger Kinofilm. Weder Fortsetzung der Musketierfilme von Martin Bourboulon noch Teil der Sam-Claflin-Fernsehserie; gemeinsame literarische Urheberschaft begründet keine Filmfolge.",
+  "series_sources": [
+    "https://www.festival-cannes.com/f/le-comte-de-monte-cristo/",
+    "https://www.pathefilms.com/fr/films/le-comte-de-monte-cristo/"
+  ],
+  "sources": {
+    "cannes": {
+      "url": "https://www.festival-cannes.com/f/le-comte-de-monte-cristo/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Filmseite: beide Regisseure, Jahr 2024, Frankreich, Synopsis, Besetzung einschließlich der vier Identitäten Pierre Nineys."
+    },
+    "pathe": {
+      "url": "https://www.pathefilms.com/fr/films/le-comte-de-monte-cristo/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene offizielle Filmseite: Start 28. Juni 2024, Nationalität Frankreich, Produktionsjahr 2023, Regieteam und Hauptcast, Verhaftung am Hochzeitstag, 14 Jahre Haft und Rache an drei Männern."
+    },
+    "presse": {
+      "url": "https://medias.unifrance.org/medias/67/96/286787/presse/the-count-of-monte-cristo-presskit-english.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene englische Produktionsinterviews insbesondere S. 7–10, 14–16, 28 und 30–35: Masken/Identitäten, junge Figuren als Werkzeuge der Rache, André als radikalerer Rächer, Haydées Liebe zu Albert und vollständige Besetzung; Zusammenarbeit beider Regisseure."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(2024_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene gesamte Handlung: Angèles Rettung und Schicksal, André als Villeforts Sohn, finanzielle Falle Danglars, Prozess und Mord, Haydée/Albert und Verschonung; mit Presseheft abgeglichene Besetzung."
+    },
+    "premiere": {
+      "url": "https://www.occitanie-films.fr/loccitanie-au-festival-de-cannes-2024/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Festivalüberblick der regional beteiligten Filmorganisation mit Projektion am Mittwoch, 22. Mai 2024, sowie Dreharbeiten in der Region im Oktober 2023."
+    },
+    "cnc": {
+      "url": "https://www.cnc.fr/professionnels/visas-et-classification/158738",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindexdatensatz: beide Regisseure, Land Frankreich, französischer Start 28. Juni 2024."
+    },
+    "filmdienst": {
+      "url": "https://www.filmdienst.de/film/details/623615/der-graf-von-monte-christo-2024",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener ausführlicher Suchindextext: deutscher Titel, Regieduo, Länderangabe Frankreich, 2024 und deutscher Start 23. Januar 2025, Haft- und Rückkehrstruktur."
+    },
+    "fsk": {
+      "url": "https://www.fsk.de/detail/?detailid=67a0e321fd92c0d2efa33709&stype=single",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Freigabeeintrag bestätigt deutschen Titel, Originaltitel und Regieduo; abweichende Länderangabe F/B ausdrücklich dokumentiert."
+    },
+    "bnf": {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb30372832n",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Bibliografie: Beginn der Romanfortsetzung 1844 und Ende 1846; damit präziser zeitlicher Bezug zur Verfilmung 2024."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Pierre Niney spielt Edmond Dantès und seine angenommenen Identitäten.",
+      "question": "Wer spielt in „Der Graf von Monte Christo“ mit Anaïs Demoustier den vom Seemann zum Rächer gewordenen Edmond Dantès?",
+      "answers": [
+        "Pierre Niney",
+        "François Civil",
+        "Louis Garrel",
+        "Gaspard Ulliel"
+      ],
+      "short": "Pierre Niney spielt Edmond Dantès.",
+      "context": "Niney verkörpert denselben Menschen in mehreren gesellschaftlichen Rollen: Dantès, den Grafen, Abbé Busoni und Lord Halifax. Die angenommenen Identitäten erlauben jeweils einen anderen Zugang zu seinen Gegnern. Es handelt sich um Maskierungen einer Figur; ihr Wissen und ihre Absichten verbinden die äußerlich verschiedenen Erscheinungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "presse"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Dantès wird unmittelbar an seinem Hochzeitstag verhaftet.",
+      "question": "Bei welchem persönlichen Ereignis wird Edmond Dantès (Pierre Niney) in „Der Graf von Monte Christo“ verhaftet?",
+      "answers": [
+        "An seinem Hochzeitstag",
+        "Bei der Taufe seines ersten Kindes",
+        "Bei der Beerdigung seiner Mutter",
+        "Bei seiner Aufnahme in den Adelsstand"
+      ],
+      "short": "Die Verhaftung unterbricht seinen Hochzeitstag.",
+      "context": "Edmond (Pierre Niney) steht vor einer gemeinsamen Zukunft mit Mercédès (Anaïs Demoustier). Die Intrige bringt ihn stattdessen in langjährige Haft. Wenn er später zurückkehrt, sind seine Hoffnungen von damals nicht einfach wiederherstellbar: Seine Verlobte hat Fernand (Bastien Bouillon) geheiratet, einen der Männer, die ihn verrieten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "pathe",
+        "filmdienst",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Andrea ist Villeforts überlebender unehelicher Sohn André.",
+      "question": "Welche Verbindung hat Andrea (Julien de Saint Jean) in „Der Graf von Monte Christo“ zum Staatsanwalt Villefort (Laurent Lafitte)?",
+      "answers": [
+        "Er ist dessen unehelicher, einst dem Tod überlassener Sohn.",
+        "Er ist dessen jüngerer Bruder aus einer verarmten Nebenlinie.",
+        "Er ist dessen ehemaliger Schreiber und heimlicher Geschäftspartner.",
+        "Er ist dessen Schwiegersohn aus einer verschwiegenen ersten Ehe."
+      ],
+      "short": "Andrea ist Villeforts Sohn André.",
+      "context": "Angèle (Adèle Simphal) rettete das Kind, das Villefort (Laurent Lafitte) hatte verschwinden lassen wollen. Edmond (Pierre Niney) nimmt den erwachsenen André (Julien de Saint Jean) auf und stattet ihn mit einer neuen Identität aus. Seine persönliche Herkunft wird so zum Mittel, den angesehenen Vater öffentlich zu entlarven.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "presse"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Haydées tatsächliche Liebe zu Albert durchkreuzt die Instrumentalisierung durch Monte Cristo.",
+      "question": "Welche Entwicklung durchkreuzt den Plan des Grafen (Pierre Niney) für Haydée (Anamaria Vartolomei) in „Der Graf von Monte Christo“?",
+      "answers": [
+        "Sie verliebt sich wirklich in Albert, den Sohn seines Gegners.",
+        "Sie schließt heimlich ein Geschäftsbündnis mit Danglars.",
+        "Sie tritt öffentlich als Frau des Staatsanwalts auf.",
+        "Sie verrät seinen Aufenthaltsort an die Gefängnisleitung."
+      ],
+      "short": "Die vorgesehene Verführung wird zu wirklicher Liebe.",
+      "context": "Haydée (Anamaria Vartolomei) soll Albert (Vassili Schneider) für die Rache des Grafen (Pierre Niney) gewinnen. Ihre Gefühle lösen sich jedoch von seiner Regie. Der junge Mann wird für sie mehr als die Verbindung zu einem schuldigen Vater. Der vermeintlich berechenbare Plan stößt auf eine Beziehung, die eine eigene Zukunft verlangt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "André überschreitet die öffentliche Entlarvung seines Vaters und tötet ihn.",
+      "question": "Wie entzieht sich André (Julien de Saint Jean) nach dem Prozess in „Der Graf von Monte Christo“ dem Plan?",
+      "answers": [
+        "Er tötet Villefort eigenmächtig und stirbt auf der Flucht.",
+        "Er nimmt das Schuldbekenntnis seines Vaters an und versöhnt sich mit ihm.",
+        "Er lässt sich von Danglars bezahlen und widerruft seine Aussage.",
+        "Er liefert den Grafen für eine Begnadigung der Polizei aus."
+      ],
+      "short": "André tötet seinen Vater und kommt anschließend selbst um.",
+      "context": "Die Enthüllung vor Gericht hat Villefort (Laurent Lafitte) bereits bloßgestellt. André (Julien de Saint Jean) bleibt dabei nicht stehen. Sein Mord und sein eigener Tod zeigen, dass der Graf (Pierre Niney) die Rache seiner Helfer nicht vollständig beherrscht. Haydée (Anamaria Vartolomei) macht ihm daraufhin schwere Vorwürfe.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "presse"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Nachricht über Danglars’ Flotte und der kurzfristige Kredit führen zum Verlust seiner Sicherheiten.",
+      "question": "Wie ruiniert der Graf (Pierre Niney) Danglars (Patrick Mille) in „Der Graf von Monte Christo“ finanziell?",
+      "answers": [
+        "Er verleitet ihn nach einer falschen Flottenmeldung zu einem Kredit gegen seinen Besitz.",
+        "Er ersetzt dessen Goldvorrat vor einer staatlichen Kontrolle durch wertlose Münzen.",
+        "Er lässt ihn eine wertlose Überseeplantage von Fernand kaufen.",
+        "Er verhindert die Auszahlung einer bereits vereinbarten königlichen Entschädigung."
+      ],
+      "short": "Eine manipulierte Börsenlage und der besicherte Kredit ruinieren Danglars.",
+      "context": "Danglars (Patrick Mille) glaubt, von der Unwahrheit der Meldung über seine Flotte profitieren zu können. Er setzt für den Aktienkauf seinen Besitz als Sicherheit ein. Der Kredit muss jedoch zurückgezahlt werden, bevor sein Kalkül aufgeht. Der Graf (Pierre Niney) nutzt damit gerade seine Gewissheit, besser informiert zu sein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Graf von Monte Christo mit Pierre Niney wurde 2024 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Der Graf von Monte Christo“ mit Pierre Niney erstmals öffentlich gezeigt?",
+      "answers": [
+        "2024",
+        "2017",
+        "2020",
+        "2022"
+      ],
+      "short": "Die Premiere war 2024 in Cannes.",
+      "context": "Die Verfilmung wurde 2024 gezeigt, 180 Jahre nach dem Beginn von Dumas’ Roman als Zeitungsfortsetzung im Jahr 1844. Der literarische Stoff erschien über einen längeren Zeitraum bis 1846. Der neue Kinofilm bündelt die Reise vom hoffnungsvollen Seemann zum Rächer in einer einzigen, knapp dreistündigen Fassung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "premiere",
+        "cannes",
+        "bnf"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Matthieu Delaporte und Alexandre de La Patellière inszenierten den Film gemeinsam.",
+      "question": "Welches Team führte bei „Der Graf von Monte Christo“ mit Pierre Niney Regie?",
+      "answers": [
+        "Matthieu Delaporte und Alexandre de La Patellière",
+        "Olivier Nakache und Éric Toledano",
+        "Jean-Pierre und Luc Dardenne",
+        "Benoît Delépine und Gustave Kervern"
+      ],
+      "short": "Matthieu Delaporte und Alexandre de La Patellière führten gemeinsam Regie.",
+      "context": "Das Duo schrieb auch die Adaption. Bei der Arbeit am Hauptdarsteller ging es um mehr als wechselnde Masken: Alter, Stimme, Haltung und Gang sollten die Lebensabschnitte und die angenommenen Rollen unterscheiden. So wird die Erschaffung des Grafen zugleich eine sichtbare Arbeit an der Figur und an ihrer Wirkung auf andere.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "pathe",
+        "cannes",
+        "presse"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

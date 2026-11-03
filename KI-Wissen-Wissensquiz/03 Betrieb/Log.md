@@ -2675,3 +2675,8 @@ Sechs Horrorfilme mit 48 neuen globalen Zielen; Horror jetzt 121. Vollständige 
 #### Fortsetzung 03.11.2026 – W42
 
 Sechs Abenteuerfilme mit 48 neuen globalen Zielen; Abenteuer jetzt 145. Vollständige zentrale und unabhängige Gegenlesung samt gezielter Quellenverbreiterung über eigene Filmkritiken, originale Produktionsunterlagen, Vor-Ort-Berichte und Künstlerarchive. Zwei Antwortgruppen vergleichbarer gefasst und Figuren-Erstnennungen ergänzt. Schauplätze gegenüber Drehorten und historische Vorbilder gegenüber Filmfiktion getrennt; Länderwidersprüche bei Der Bär/Rapa Nui sichtbar begründet. Alle 2.096 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 81 Pakete / 17.391 Fragen / 16.695 Ziele; 239 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W43
+
+Abenteuer erreicht 150 Filme: fünf abschließende Fassungen mit 40 Fragen, 38 neuen globalen Zielen und zwei Bestandsvarianten. Vollständige unabhängige Gegenlesung der Agentenredaktion, zusätzliche tatsächliche Szenen-/Dialoglektüre und Originalproduktionsnotizen. Samische Originaltitelidentität, zwei eigenständige Monte-Cristo-Fassungen und vollständige Doppelregie2024 geprüft. Lester-Erstjahr1973 gegenüber späterem AFI-Kopf1974 belegt; vorhandener kanonischer Reihenname erhalten und zwei bestehende Lernidentitäten weiterverwendet. Alle 2.136 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 82 Pakete / 17.431 Fragen / 16.733 Ziele; 234 Genreergänzungen offen.

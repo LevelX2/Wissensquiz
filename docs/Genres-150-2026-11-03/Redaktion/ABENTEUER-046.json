@@ -1,0 +1,255 @@
+{
+  "id": "ABENTEUER-046",
+  "film_title_de": "Pathfinder",
+  "film_title_original": "Ofelaš",
+  "film_year": 1987,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 4,
+  "familiarity_reason": "Bedeutender samischer Film, dessen Figuren und Bilder im breiten deutschsprachigen Publikum deutlich weniger bekannt sind als der englische Titel.",
+  "selection_reason": "Überlebens- und Verfolgungsabenteuer nach einer samischen Überlieferung; die Ortskenntnis des scheinbar unterlegenen Gefangenen entscheidet über den Schutz einer Gemeinschaft.",
+  "directors": [
+    "Nils Gaup"
+  ],
+  "production_countries": [
+    "Norwegen"
+  ],
+  "release_note": "Erstjahr 1987 nach NDLA, Verleih Park Circus und Festivalarchiv. Filmdienst führt beim deutschen Filmstart 1988 und nennt den Fernsehtitel Die Rache des Fährtensuchers; dieser spätere Jahresbezug ersetzt das Erstjahr nicht. Originaltitel Ofelaš, auch ohne Diakritikum Ofelas, norwegisch Veiviseren.",
+  "director_note": "Nils Gaup allein schrieb das Drehbuch und führte Regie. Mikkel Gaup ist der Hauptdarsteller, kein Mitregisseur.",
+  "country_note": "Norwegische Produktion, nordsamische Sprache. Park Circus beschreibt den Raum verkürzt als mittelalterliches Finnland; für den Schauplatz wird diese staatliche Präzisierung zugunsten von Sápmi/Finnmark nicht übernommen.",
+  "series": null,
+  "series_note": "Eigenständiger Film. Marcus Nispels amerikanischer Pathfinder von 2007 ist eine freie Neubearbeitung mit anderer Kultur und Figuren, keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Pathfinder_(1987_film)",
+    "https://www.filmweb.no/filmnytt/6-norske-filmer-som-ikke-trenger-en-hollywood-remake"
+  ],
+  "sources": {
+    "verleih": {
+      "url": "https://www.parkcircus.com/film/111965-Pathfinder-(Ofelas)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener Verleiheintrag: Nils Gaup, Mikkel Gaup/Aigin, 1987, Tötung der Familie, Verfolgung und Gefangenschaft. Die verkürzte Ortsangabe Finnland wird nicht übernommen."
+    },
+    "ndla": {
+      "url": "https://ndla.no/en/r/ndla-film/veiviseren-ofelas/7473bd7615",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener norwegischer Bildungsbeitrag: Originaltitel, Jahr, Regie, samische Überlieferung, Entscheidung zwischen Eigenschutz und Gemeinschaft, Täuschung am Abgrund sowie Übergang der Führungsrolle von Raste zu Aigin."
+    },
+    "festival": {
+      "url": "https://noordelijkfilmfestival.nl/en/programma/pathfinder/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener Festivaltext: Norwegen 1987, samische Sprache, Hauptfigur und Verfolgungsstoff; Gaups Spielfilmdebüt und Mikkel Gaup. Laufzeitabweichung ohne Bedeutung für die Filmidentität."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Pathfinder_(1987_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige Handlung: Familie, Rastes Folter und Tod, verräterisches Messer, Seilverbindung, Absturz/Lawine, Rückkehr und Trommel; Besetzungen und Abgrenzung zur Neubearbeitung."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/oscars/ceremonies/1988",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Abschnitt Foreign Language Film: Pathfinder als nominierter Beitrag Norwegens, kein Sieg; Gewinner Babettes Fest aus Dänemark."
+    },
+    "titel": {
+      "url": "https://www.filmdienst.de/film/details/1971/pathfinder",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener deutscher Titelabgleich: Pathfinder, Fernsehtitel Die Rache des Fährtensuchers, Nils Gaup, Norwegen und Mikkel Gaup; spätere deutsche Jahresangabe 1988 von Originaljahr 1987 abgegrenzt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Mikkel Gaup spielt den jungen Jäger Aigin.",
+      "question": "Wer spielt den jungen Jäger Aigin in „Pathfinder“, dem samischen Film unter dem Originaltitel „Ofelaš“?",
+      "answers": [
+        "Mikkel Gaup",
+        "Sverre Porsanger",
+        "Henrik H. Buljo",
+        "Ailo Gaup"
+      ],
+      "short": "Mikkel Gaup spielt Aigin.",
+      "context": "Aigin (Mikkel Gaup) kommt von der Jagd zurück und findet seine Familie von Angreifern getötet. Verwundet erreicht er eine andere Gemeinschaft. Dort muss er entscheiden, ob er mit den anderen flieht oder auf die Verfolger wartet. Die zunächst persönliche Rache wird im weiteren Verlauf mit der Verantwortung für die bedrohten Menschen verbunden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "verleih",
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Die ursprüngliche Fassung verwendet überwiegend nordsamische Sprache.",
+      "question": "Welche Sprache prägt die Originalfassung von „Pathfinder“ mit Mikkel Gaup?",
+      "answers": [
+        "Nordsamisch",
+        "Isländisch",
+        "Finnisch",
+        "Färöisch"
+      ],
+      "short": "Die Hauptsprache ist Nordsamisch.",
+      "context": "Die Sprache gehört zu der Gemeinschaft, aus deren Überlieferung der Film seinen Stoff bezieht. Aigin (Mikkel Gaup) steht zwischen den fliehenden Menschen und den fremden Angreifern. Neben Kampf und Verfolgung zeigt die Erzählung kulturelle und religiöse Vorstellungen, etwa die Rolle Rastes (Nils Utsi) als geistiger Wegweiser.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ndla",
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Aigin bietet den Angreifern seine Führung an, um Rastes Folter zu beenden.",
+      "question": "Warum gibt Aigin (Mikkel Gaup) in „Pathfinder“ sein Versteck auf und bietet den Angreifern seine Hilfe an?",
+      "answers": [
+        "Er will verhindern, dass Raste weiter gefoltert wird.",
+        "Er will eine versprochene Belohnung für seine Familie erhalten.",
+        "Er will die Angreifer als Verbündete gegen einen rivalisierenden Clan gewinnen.",
+        "Er will mit ihrer Hilfe den gestohlenen Rentierbestand zurückholen."
+      ],
+      "short": "Er will Rastes Folter beenden.",
+      "context": "Nach dem gescheiterten Widerstand wird Raste (Nils Utsi) von den Angreifern misshandelt. Aigin (Mikkel Gaup) tritt hervor und erklärt sich bereit, den Weg zur Küste zu zeigen. Die scheinbare Zusammenarbeit führt dazu, dass ihn Beobachter aus seiner eigenen Gemeinschaft zunächst für einen Verräter halten. Raste wird dennoch heimlich getötet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "ndla"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Aigin nutzt das gefährliche Gelände, die Seilsicherung und eine Lawine gegen die Verfolger.",
+      "question": "Wie kann Aigin (Mikkel Gaup) in „Pathfinder“ die zahlenmäßig überlegenen Angreifer überwinden?",
+      "answers": [
+        "Er führt sie auf einen gefährlichen Bergpfad und nutzt den Abgrund gegen sie.",
+        "Er lockt sie in eine von Jägern besetzte Palisadenfestung.",
+        "Er lässt ihre Boote beim Übergang über den Fjord versenken.",
+        "Er vergiftet den gemeinsamen Trinkwasservorrat im Nachtlager."
+      ],
+      "short": "Seine Ortskenntnis macht den gefährlichen Bergpfad zur Falle.",
+      "context": "Auf dem schmalen Weg müssen sich die Männer mit Seilen verbinden. Aigin (Mikkel Gaup) löst sich aus der Sicherung und entkommt; mehrere Verfolger stürzen ab. Als die verbleibenden Anführer ihm nachsetzen, löst er im Schnee eine Lawine aus. Seine Hilfe für die Gemeinschaft beruht auf einer List und dem Gelände.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "ndla"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Rastes Messer im Besitz eines Angreifers verrät Aigin dessen heimlichen Tod.",
+      "question": "Woran erkennt Aigin (Mikkel Gaup) während des Marsches in „Pathfinder“, dass Raste getötet wurde?",
+      "answers": [
+        "Ein Angreifer besitzt Rastes Messer.",
+        "Er findet Rastes Mantel in einem zurückgelassenen Schlitten.",
+        "Er hört einen Angreifer Rastes Todeslied nachahmen.",
+        "Ein Bote überbringt Rastes zerbrochenen Jagdbogen."
+      ],
+      "short": "Er entdeckt Rastes Messer bei einem Angreifer.",
+      "context": "Aigin (Mikkel Gaup) hat sich ergeben, um Raste (Nils Utsi) zu schützen. Die Angreifer lassen ihn über dessen weiteres Schicksal im Unklaren. Das wiedererkannte Messer zeigt, dass die erhoffte Rettung gescheitert ist. Aigin muss seine Lage nun neu beurteilen, während er weiterhin als Führer vor ihnen hergeht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die zurückgegebene Trommel bestätigt Aigin als neuen Wegweiser der Gemeinschaft.",
+      "question": "Was bedeutet die Übergabe der Trommel an Aigin (Mikkel Gaup) nach seiner Rückkehr in „Pathfinder“?",
+      "answers": [
+        "Er übernimmt Rastes Aufgabe als Wegweiser der Gemeinschaft.",
+        "Er erhält die Befugnis, allein die gemeinsame Jagdbeute zu verteilen.",
+        "Er wird zum Boten für Verhandlungen mit den besiegten Angreifern bestimmt.",
+        "Er erhält ein Pfand für die Rückgabe des Familienlandes."
+      ],
+      "short": "Aigin wird als Nachfolger Rastes anerkannt.",
+      "context": "Aigin (Mikkel Gaup) bringt die Trommel zurück und beklagt den Verlust Rastes (Nils Utsi). Die Älteste gibt sie ihm wieder: Die Gemeinschaft hat einen Wegweiser verloren und einen neuen gefunden. Das Schlussbild ordnet die Menschen um das Feuer wie die Figuren auf der Trommel an; Aigin nimmt darin den Platz des Führenden ein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "ndla"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Ofelaš beziehungsweise Pathfinder wurde 1987 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Pathfinder“ mit Mikkel Gaup unter dem Originaltitel „Ofelaš“ erstmals?",
+      "answers": [
+        "1987",
+        "1980",
+        "1984",
+        "1992"
+      ],
+      "short": "Der samische Film erschien 1987.",
+      "context": "Auf die Veröffentlichung 1987 folgte 1988 eine Oscar-Nominierung für den fremdsprachigen Film als Beitrag Norwegens. Der Preis ging an „Babettes Fest“ aus Dänemark. Die internationale Aufmerksamkeit erreichte damit eine Produktion, die ihre Geschichte in samischer Sprache erzählte und eine mündlich überlieferte Sage ins Abenteuerkino brachte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "festival",
+        "ndla",
+        "academy"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Nils Gaup schrieb und inszenierte Pathfinder.",
+      "question": "Wer führte bei „Pathfinder“ mit Mikkel Gaup Regie?",
+      "answers": [
+        "Nils Gaup",
+        "Knut Erik Jensen",
+        "Ola Solum",
+        "Anja Breien"
+      ],
+      "short": "Nils Gaup führte Regie.",
+      "context": "Nils Gaup entwickelte seinen ersten Spielfilm aus einer samischen Überlieferung. Die äußerliche Verfolgungsjagd verbindet er mit einem Wandel der Hauptfigur: Aus einem verletzten Jugendlichen wird jemand, der für andere handelt. Der Film greift dabei vertraute Abenteuerformen auf und erzählt sie aus der Perspektive einer samischen Gemeinschaft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "festival",
+        "ndla"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}
