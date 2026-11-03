@@ -1,0 +1,256 @@
+{
+  "id": "ACTION-017",
+  "film_title_de": "Operation: Broken Arrow",
+  "film_title_original": "Broken Arrow",
+  "film_year": 1996,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Redaktionelle Einschätzung: ein bekannter Hollywood-Actionfilm John Woos mit markanter Travolta-Gegnerrolle, ohne die Breitenwirkung seiner größten Hits zu unterstellen.",
+  "selection_reason": "Das persönliche Pilotenduell verbindet wechselnde Verkehrsmittel, atomare Erpressung und eine im Auftakt vorbereitete Rivalität.",
+  "directors": [
+    "John Woo"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI führt den Film unter 1996; die amerikanische Veröffentlichung am 9. Februar 1996 wird außerdem vom AFI-Vorführkatalog angegeben. Kein früheres öffentliches Veröffentlichungsjahr in den gelesenen Quellen festgestellt.",
+  "director_note": "Offizieller Hauptregiecredit: John Woo. Gary Hymes ist beim AFI-Vorführkatalog als Second Unit Director geführt und wird nicht als Hauptregisseur ergänzt.",
+  "country_note": "USA gemäß AFI-Vorführkatalog und gelesener Filmübersicht.",
+  "series": null,
+  "series_note": "Eigenständiger Film. Weder der gleichnamige Western von 1950 noch Woos andere Hollywoodfilme bilden mit ihm eine nummerierte Handlungskontinuität.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/60006",
+    "https://en.wikipedia.org/wiki/Broken_Arrow_(1996_film)"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/60006",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Katalogcredits: John Woo, Graham Yost, Hauptbesetzung, Kamera Peter Levy, Jahr 1996; keine vollständige AFI-Handlung."
+    },
+    "afi_vorfuehrung": {
+      "url": "https://watch.afi.com/movie/broken-arrow",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener ausführlicher Katalogindex: US-Veröffentlichung am 9. Februar 1996, USA, Gary Hymes als Second Unit Director."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/broken-arrow-1996",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Kritik im Suchindex gelesen; direkter Abruf 403. Pilotenduell, nukleare Erpressung, Boxauftakt und späterer Faustkampf, Rangerin sowie wechselnde Fahrzeuge und Schauplätze."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Broken_Arrow_(1996_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Handlungsabschnitt gelesen: Terry als Rangerin, manipulierte Scharfschaltung, Bombe im Kupferbergwerk, Flucht über unterirdischen Fluss, Zugschluss und Besetzungszuordnungen."
+    },
+    "woo_interview": {
+      "url": "https://www.bfi.org.uk/interviews/john-woo-better-tomorrow-killer-hard-boiled",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenes BFI-Interview: Hard Target 1993, Broken Arrow 1996, Face/Off 1997; Woo erläutert sein Verhältnis zu Musik, Tanz und Zeitlupe. Allgemeine Stiläußerung von konkreten Produktionsanekdoten dieses Films getrennt."
+    },
+    "hicks": {
+      "url": "https://www.deseret.com/1996/2/13/20087252/film-review-broken-arrow/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene zeitgenössische Kritik von Chris Hicks: Besetzung, Boxauftakt, Waffenraub beim Übungsflug, Rangerin, zugespitzte Rivalität und Actioninszenierung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "John Travolta verkörpert den verräterischen Piloten Vic Deakins.",
+      "question": "Wer spielt in „Operation: Broken Arrow“ den Piloten Vic Deakins, der mit gestohlenen Atomwaffen die Regierung erpressen will?",
+      "answers": [
+        "John Travolta",
+        "Nicolas Cage",
+        "Kurt Russell",
+        "Val Kilmer"
+      ],
+      "short": "John Travolta spielt Vic Deakins.",
+      "context": "Vic Deakins (John Travolta) nutzt einen geheimen Übungsflug, um seinen Copiloten Riley Hale (Christian Slater) loszuwerden und die Waffen in die Hände seiner Komplizen zu bringen. Die militärische Zusammenarbeit wird zum persönlichen Zweikampf. Dass der scheinbar beseitigte Kollege überlebt, verhindert den reibungslosen Ablauf des Plans.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "ebert",
+        "hicks"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Zwei gestohlene Atomwaffen bilden den Kern der Erpressung.",
+      "question": "Womit will Vic Deakins (John Travolta) in „Operation: Broken Arrow“ die amerikanische Regierung erpressen?",
+      "answers": [
+        "Mit zwei gestohlenen Atomwaffen",
+        "Mit einem entführten Aufklärungssatelliten",
+        "Mit den Zugangscodes der Luftverteidigung",
+        "Mit einem gestohlenen Biowaffen-Erreger"
+      ],
+      "short": "Deakins hat zwei Atomwaffen an sich gebracht.",
+      "context": "Die Waffen stammen aus dem Bomber, dessen Absturz Deakins (John Travolta) vorbereitet. Er lenkt zunächst den Verdacht auf Riley Hale (Christian Slater). Damit betreffen die Folgen des Verrats zugleich die staatliche Krisenreaktion und Hales eigene Lage: Der Überlebende muss den Diebstahl vereiteln, während die offizielle Darstellung ihn zum Verantwortlichen macht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "ebert",
+        "hicks"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Terry Carmichael ist Parkrangerin und wird Hales Verbündete.",
+      "question": "Welchen Beruf hat Terry Carmichael (Samantha Mathis), die Riley Hale (Christian Slater) in „Operation: Broken Arrow“ bei der Verfolgung unterstützt?",
+      "answers": [
+        "Parkrangerin",
+        "Militärpolizistin",
+        "Geologin",
+        "Hubschrauberpilotin"
+      ],
+      "short": "Terry Carmichael arbeitet als Parkrangerin.",
+      "context": "Terry Carmichael (Samantha Mathis) begegnet dem abgestürzten Riley Hale (Christian Slater) in ihrem Einsatzgebiet. Nachdem sie seine Geschichte akzeptiert, beteiligt sie sich an der Verfolgung. Auch später handelt sie selbstständig: Sie versteckt sich auf dem Boot der Täter und gelangt auf den Zug, auf dem die verbleibende Bombe weitertransportiert wird.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "ebert",
+        "hicks"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Hale bringt die bereits aktivierte Bombe tief ins Bergwerk, um die Explosion einzuschließen.",
+      "question": "Warum bringen Hale (Christian Slater) und Carmichael (Samantha Mathis) in „Operation: Broken Arrow“ eine aktivierte Bombe tiefer in das Kupferbergwerk?",
+      "answers": [
+        "Sie wollen die Explosion unter Tage einschließen",
+        "Sie wollen dort einen Funkzünder empfangsbereit machen",
+        "Sie wollen sie gegen einen zweiten Sprengkopf austauschen",
+        "Sie wollen sie mit dem Aufzug zur Übergabe hochfahren"
+      ],
+      "short": "Das Bergwerk soll die Explosion einschließen.",
+      "context": "Die Figuren können die aktivierte Waffe nicht einfach entschärfen. Unter Tage verschärft Deakins (John Travolta) ihre Lage, indem er den Countdown verkürzt und die Bedienung sabotiert. Riley Hale (Christian Slater) und Terry Carmichael (Samantha Mathis) entkommen schließlich durch einen unterirdischen Fluss. Die zweite Waffe bleibt danach Gegenstand der weiteren Jagd.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "ebert"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Deakins hat die Schaltung so verändert, dass Hales vermeintliche Deaktivierung die Bombe aktiviert.",
+      "question": "Warum scheitert der Versuch von Hale (Christian Slater), die Bombe in „Operation: Broken Arrow“ durch falsche Codes unbrauchbar zu machen?",
+      "answers": [
+        "Deakins hat die Schaltung manipuliert; der Versuch aktiviert sie",
+        "Carmichael hat versehentlich die Fernbedienungen vertauscht",
+        "Die Batterie hält die eingegebenen Codes nicht im Speicher",
+        "Die Mine unterbricht die Funkverbindung zum Freigabesatelliten"
+      ],
+      "short": "Die manipulierte Schaltung macht aus der vermeintlichen Deaktivierung eine Aktivierung.",
+      "context": "Riley Hale (Christian Slater) vertraut auf das ihm bekannte Sicherheitsverfahren. Vic Deakins (John Travolta) hat aber gerade diese Reaktion einkalkuliert und die Elektronik verändert. Die Szene macht den Wissensvorsprung des Täters zum Problem: Militärische Routine hilft Hale zunächst nicht, weil sein Gegner dieselben Verfahren kennt und gegen ihn einsetzt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Das Boxtraining am Anfang bereitet den abschließenden Faustkampf der Rivalen vor.",
+      "question": "Welche frühe Szene bereitet in „Operation: Broken Arrow“ den persönlichen Faustkampf zwischen Deakins (John Travolta) und Hale (Christian Slater) im Finale vor?",
+      "answers": [
+        "Ihr gemeinsames Boxtraining",
+        "Ein Handgemenge bei einer Verkehrskontrolle",
+        "Ein Wettkampf auf einer Hindernisbahn",
+        "Eine Messerübung im Überlebenstraining"
+      ],
+      "short": "Der Film beginnt mit einem Boxkampf der beiden Piloten.",
+      "context": "Beim Boxen wirft Vic Deakins (John Travolta) seinem jüngeren Kollegen fehlenden Siegeswillen vor. Im Zugfinale fordert er Riley Hale (Christian Slater) erneut körperlich heraus. Der spätere Kampf greift damit eine bereits etablierte Hierarchie auf: Der Mann, der Hale anfangs belehrt und dominiert, muss erleben, dass sein Gegner diese Unterlegenheit überwindet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Broken Arrow erschien erstmals 1996.",
+      "question": "In welchem Jahr erschien „Operation: Broken Arrow“ mit John Travolta und Christian Slater erstmals?",
+      "answers": [
+        "1996",
+        "1992",
+        "1994",
+        "1998"
+      ],
+      "short": "Der Film erschien 1996.",
+      "context": "1996 liegt zwischen zwei anderen Stationen von John Woos Arbeit in Hollywood. Hard Target mit Jean-Claude Van Damme war 1993 sein erster amerikanischer Film; Face/Off folgte 1997. In Broken Arrow arbeitete Woo bereits mit John Travolta, der anschließend auch in Face/Off eine Hauptrolle übernahm. Der Zeitanker verbindet damit Regiewechsel und wiederkehrenden Star.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "woo_interview"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "John Woo führte die offizielle Regie.",
+      "question": "Wer führte bei „Operation: Broken Arrow“ Regie?",
+      "answers": [
+        "John Woo",
+        "Ringo Lam",
+        "Tsui Hark",
+        "Stanley Tong"
+      ],
+      "short": "John Woo inszenierte den Film.",
+      "context": "John Woo arbeitete mit einem Drehbuch von Graham Yost und Kameramann Peter Levy. In seinem BFI-Interview beschreibt er Kampfinszenierungen als eine Art Tanz: Musik, Bewegungen und Zeitlupe sollen den Darstellern Ausdruck verleihen. In diesem Film führt der Weg vom engen Bombercockpit über die Wüstenlandschaft und das Bergwerk bis zum Zweikampf im Zug.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "woo_interview",
+        "ebert"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

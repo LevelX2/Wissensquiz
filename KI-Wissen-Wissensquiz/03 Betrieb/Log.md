@@ -2680,3 +2680,8 @@ Sechs Abenteuerfilme mit 48 neuen globalen Zielen; Abenteuer jetzt 145. Vollstä
 #### Fortsetzung 03.11.2026 – W43
 
 Abenteuer erreicht 150 Filme: fünf abschließende Fassungen mit 40 Fragen, 38 neuen globalen Zielen und zwei Bestandsvarianten. Vollständige unabhängige Gegenlesung der Agentenredaktion, zusätzliche tatsächliche Szenen-/Dialoglektüre und Originalproduktionsnotizen. Samische Originaltitelidentität, zwei eigenständige Monte-Cristo-Fassungen und vollständige Doppelregie2024 geprüft. Lester-Erstjahr1973 gegenüber späterem AFI-Kopf1974 belegt; vorhandener kanonischer Reihenname erhalten und zwei bestehende Lernidentitäten weiterverwendet. Alle 2.136 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 82 Pakete / 17.431 Fragen / 16.733 Ziele; 234 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W44
+
+Sechs Actionfilme ACTION-016–021 (Hard Rain, Operation: Broken Arrow, Passwort: Swordfish, The Italian Job 1969 und 2003, Ambulance) vollständig gegengelesen und integriert: 48 Fragen mit 48 neuen Wissenszielen. Primäre Effektberichte, Filmemacherinterviews und MINI-Herstellerbeleg unabhängig gelesen; Original und Neuverfilmungen bewusst ohne erfundene Fortsetzungsnummern. Action erreicht 121 Filme. Alle 2.184 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 83 Pakete / 17.479 Fragen / 16.781 Ziele; 228 Genreergänzungen offen.

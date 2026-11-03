@@ -1,0 +1,263 @@
+{
+  "id": "ACTION-018",
+  "film_title_de": "Passwort: Swordfish",
+  "film_title_original": "Swordfish",
+  "film_year": 2001,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Hacker-Actionfilm mit drei prominenten Hauptdarstellern und einer vielfach erinnerten Busflucht.",
+  "selection_reason": "Verbindet Computerkriminalität mit Geiselnahme, falschen Identitäten und einer technisch aufwendig gestalteten Explosion.",
+  "directors": [
+    "Dominic Sena"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "2001 ist durch AFI und Filmdienst bestätigt. AFI nennt den amerikanischen Kinostart am 8. Juni; der gelesene zeitgenössische Premierenbericht beschreibt bereits die Vorführung am 4. Juni 2001 in Westwood. Einzelne Datenbanken nennen zusätzlich eine nicht unabhängig bestätigte New Yorker Premiere im Mai desselben Jahres; die Jahresentscheidung ist davon unberührt.",
+  "director_note": "Dominic Sena ist der alleinige offizielle Hauptregisseur; Skip Woods schrieb das Drehbuch.",
+  "country_note": "USA gemäß AFI, Filmdienst und Kinofilmwelt; die Beteiligung von Village Roadshow allein wird nicht als zusätzlicher Länderbeleg behandelt.",
+  "series": null,
+  "series_note": "Eigenständiger Film ohne belegte nummerierte Fortsetzung; alternative DVD-Enden sind keine weiteren Filme.",
+  "series_sources": [
+    "https://www.filmdienst.de/film/details/515555/passwort-swordfish",
+    "https://www.kinofilmwelt.de/filme/details/passwort_swordfish"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/62218",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Credits und Veröffentlichungsdaten: Sena, Woods, Cameron, Besetzung, 2001 und amerikanischer Start am 8. Juni."
+    },
+    "filmdienst": {
+      "url": "https://www.filmdienst.de/film/details/515555/passwort-swordfish",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener frei zugänglicher Text und Filmdaten: deutscher Titel, USA, Jahr, Hauptcredits und Sorgerechtsmotiv. Nicht die abonnementsgebundene vollständige Kritik als gelesen ausgegeben."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/swordfish-2001",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Kritik im Suchindex gelesen, direkter Abruf 403: Hackerrolle, Tochter, Rekrutierung, Bus am Hubschrauber, Explosion und Inszenierung."
+    },
+    "produktion": {
+      "url": "https://www.cinema.com/articles/484/swordfish-production-notes.phtml",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Produktionsnotizen mit Aussagen von Travolta, Jackman, Berry, Silver, Mann und Shermis: Figurenmotive, X-Men 2000, Bankraub, Hubschrauber-Bus, getrennte Effektaufnahmen und Sena/Cameron."
+    },
+    "kamera": {
+      "url": "https://www.reelefx.com/multicam/press.7",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener American-Cinematographer-Bericht von Christopher Probst, März 2001, auf der Seite des beteiligten Effektunternehmens: Kamerafeld, mehrere Aufnahmedurchgänge, virtuelle Kamerafahrt, Vorvisualisierung, genaue Zeitplanung. Nennt 134 Außenkameras und 69 innen; deshalb keine vermeintlich einheitliche Gesamtzahl abgefragt."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Swordfish_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Handlungsabschnitt gelesen: Rückbuchungs-Hintertür, Entführung der Tochter, scheinbarer Tod Gabriels und vorab gezeigte Leiche als Teil der Täuschung; Besetzungen."
+    },
+    "premiere": {
+      "url": "https://www.hollywood.com/general/swordfish-premiere-57158283",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener wiederveröffentlichter Bericht mit zeitgenössischer Datumszeile Westwood, 4. Juni 2001: Premiere und angekündigter Kinostart am 8. Juni. Späteres Seitendatum von Ereignisdatum unterschieden."
+    },
+    "kinofilmwelt": {
+      "url": "https://www.kinofilmwelt.de/filme/details/passwort_swordfish",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene institutionelle Filmempfehlung: USA 2001, Sena, Hacker- und Sorgerechtskonflikt, Banküberfall, Busflucht sowie alternative Enden als DVD-Extras."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Hugh Jackman verkörpert den Hacker Stanley Jobson.",
+      "question": "Wer spielt in „Passwort: Swordfish“ den vorbestraften Computerhacker Stanley Jobson?",
+      "answers": [
+        "Hugh Jackman",
+        "Guy Pearce",
+        "Eric Bana",
+        "Russell Crowe"
+      ],
+      "short": "Hugh Jackman spielt Stanley Jobson.",
+      "context": "Stanley Jobson (Hugh Jackman) hat ein Überwachungsprogramm des FBI angegriffen und dafür im Gefängnis gesessen. Seine Bewährungsauflagen verbieten ihm nun die Arbeit am Computer. Ausgerechnet diese besondere Fähigkeit macht ihn aber für einen neuen Auftrag interessant. Die Rekrutierung verlangt deshalb mehr als die Annahme eines gewöhnlichen Jobs: Sie führt ihn zurück in die verbotene Tätigkeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ebert",
+        "produktion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Ginger wird von Halle Berry gespielt.",
+      "question": "Wer spielt Ginger, die Stanley Jobson in „Passwort: Swordfish“ für Gabriel Shears Unternehmen anwirbt?",
+      "answers": [
+        "Halle Berry",
+        "Angela Bassett",
+        "Vivica A. Fox",
+        "Nia Long"
+      ],
+      "short": "Halle Berry übernimmt die Rolle der Ginger.",
+      "context": "Ginger (Halle Berry) bietet Stanley Jobson (Hugh Jackman) einen Zugang zu Gabriel Shear (John Travolta). Ihre Rolle bleibt dabei absichtlich undurchsichtig: Als Stanley später einen Sender an ihr entdeckt, erklärt sie sich zur verdeckten Ermittlerin. Ihre unterschiedlichen Selbstdarstellungen gehören zu den Täuschungen, mit denen der Film die Loyalitäten seiner Figuren verschiebt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion",
+        "ebert"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Aussicht auf das Sorgerecht für seine Tochter macht Stanley für das Angebot empfänglich.",
+      "question": "Welches persönliche Ziel macht Gabriel Shears Angebot für Stanley (Hugh Jackman) in „Passwort: Swordfish“ besonders verlockend?",
+      "answers": [
+        "Das Sorgerecht für seine Tochter zu erlangen",
+        "Die Behandlung seines verletzten Bruders zu finanzieren",
+        "Seinen verschwundenen Vater ausfindig zu machen",
+        "Die Abschiebung seiner Partnerin zu verhindern"
+      ],
+      "short": "Er will wieder mit seiner Tochter zusammenleben können.",
+      "context": "Holly Jobson (Camryn Grimes) lebt bei ihrer Mutter, während Stanley Jobson (Hugh Jackman) der Zugang zu ihr verwehrt bleibt. Das versprochene Geld eröffnet ihm die Aussicht auf einen Rechtsstreit. Später wird aus dieser Hoffnung direkte Erpressung: Gabriel Shear (John Travolta) lässt das Mädchen entführen und zwingt den Hacker so zur weiteren Mitarbeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmdienst",
+        "kinofilmwelt",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ein Schwerlasthubschrauber hebt den Fluchtbus über Los Angeles.",
+      "question": "Wie entkommt Gabriel Shears Gruppe in „Passwort: Swordfish“ mit ihrem Bus der Straßenblockade?",
+      "answers": [
+        "Ein Schwerlasthubschrauber hebt den Bus in die Luft",
+        "Der Bus fährt in einen vorbereiteten U-Bahn-Schacht",
+        "Ein Güterzug nimmt den Bus auf einen Flachwagen auf",
+        "Der Bus wechselt in einer Werkhalle seine Außenverkleidung"
+      ],
+      "short": "Der Bus wird an einem Hubschrauber über die Stadt geflogen.",
+      "context": "Gabriel Shear (John Travolta) bringt die Geiseln im Bus aus der Bank. Die angekündigte Fahrt zum Flughafen verdeckt einen anderen Fluchtweg: Ein Skycrane transportiert das Fahrzeug auf ein Hochhausdach. Produktionsdesigner Jeff Mann beschreibt in den Notizen, wie die Idee mit Spezialisten für den Transport schwerer Lasten auf ihre praktische Durchführbarkeit geprüft wurde.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion",
+        "kinofilmwelt"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Eine bereits früher gezeigte Leiche ermöglicht die Täuschung über Gabriels Tod.",
+      "question": "Woran erkennt Stanley (Hugh Jackman) am Ende von „Passwort: Swordfish“, dass Gabriels scheinbarer Tod eine Täuschung war?",
+      "answers": [
+        "Die vorgelegte Leiche hat er schon vorher gesehen",
+        "Die Fingerabdrücke gehören zu Agent Roberts",
+        "Auf einem Tonband hört er Gabriels neue Erpressung",
+        "Eine Geisel zeigt ihm ein aktuelles Flughafenfoto"
+      ],
+      "short": "Er erkennt die bereits zuvor entdeckte Leiche wieder.",
+      "context": "Stanley Jobson (Hugh Jackman) schießt den vermeintlichen Fluchthubschrauber ab. Bei der späteren Identifizierung passt der Leichenfund jedoch zu einer früheren Entdeckung, die ihn schon irritiert hatte. Gabriel Shear (John Travolta) hat mit dieser falschen Spur seinen Tod inszeniert. Der abschließende Blick nach Monte Carlo bestätigt, dass auch Ginger (Halle Berry) weiterhin an seiner Seite ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Ein Feld aus Fotokameras und zusammengesetzte Aufnahmen erzeugen die verlangsamte Fahrt durch die Explosion.",
+      "question": "Welche Technik ermöglichte in „Passwort: Swordfish“ die extrem verlangsamte Kamerafahrt durch die Explosion am Anfang?",
+      "answers": [
+        "Ein Fotokamerafeld mit später zusammengesetzten Aufnahmedurchgängen",
+        "Eine einzelne Handkamera mit nachträglicher Bildstabilisierung",
+        "Eine durchgehend am Drahtseil geführte Hochgeschwindigkeitskamera",
+        "Ein Stop-Motion-Nachbau sämtlicher Personen und Fahrzeuge"
+      ],
+      "short": "Ein Kamerafeld und mehrere kombinierte Aufnahmedurchgänge erzeugten die Bewegung.",
+      "context": "Die scheinbar frei bewegliche Kamera durchquert einen zeitlich gedehnten Zerstörungsmoment. Tatsächlich wurden unter anderem Explosion, Fahrzeuge und weggezogene Stuntleute getrennt aufgenommen und später verbunden. Der Kamerabericht beschreibt eine genaue Vorvisualisierung und auf Bruchteile von Sekunden abgestimmte Auslösungen. So musste keine einzelne Kamera mit der scheinbaren Geschwindigkeit durch das gesamte gefährliche Geschehen fahren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "kamera"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Swordfish erschien erstmals 2001.",
+      "question": "In welchem Jahr erschien „Passwort: Swordfish“ mit Hugh Jackman, Halle Berry und John Travolta erstmals?",
+      "answers": [
+        "2001",
+        "1997",
+        "1999",
+        "2003"
+      ],
+      "short": "Der Film wurde 2001 erstmals veröffentlicht.",
+      "context": "2001 kamen Hugh Jackman und Halle Berry erneut in einem Film zusammen, nachdem sie 2000 in X-Men Wolverine und Storm gespielt hatten. In Swordfish sind sie keine Superhelden: Der Hacker und seine undurchsichtige Anwerberin stehen im Mittelpunkt einer kriminellen Operation. Die Produktionsnotizen stellen die Verbindung zu ihren gerade bekannt gewordenen Comicrollen ausdrücklich her.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "produktion",
+        "premiere"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Dominic Sena führte die offizielle Regie.",
+      "question": "Wer führte bei „Passwort: Swordfish“ Regie?",
+      "answers": [
+        "Dominic Sena",
+        "Simon West",
+        "Stephen Hopkins",
+        "Antoine Fuqua"
+      ],
+      "short": "Dominic Sena führte Regie.",
+      "context": "Dominic Sena arbeitete mit Kameramann Paul Cameron, mit dem er bereits Nur noch 60 Sekunden gedreht hatte. Zunächst hält Gabriel Shear (John Travolta) einen stilisiert aufgenommenen Monolog; erst der Gegenschuss zeigt die auf ihn gerichteten Polizeiwaffen. Nach dieser räumlichen Auflösung entfaltet sich die Explosion. Der Kamerabericht erläutert damit einen präzise vorbereiteten Wechsel vom Gespräch zur Zerstörung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "kamera"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

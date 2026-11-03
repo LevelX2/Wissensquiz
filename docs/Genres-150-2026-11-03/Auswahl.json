@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 267 Filmfassungen mit 2136 Fragen lokal integriert. 234 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 273 Filmfassungen mit 2184 Fragen lokal integriert. 228 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -978,8 +978,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Raubüberfall in einer überfluteten Stadt verbindet Verbrechen mit Naturhindernissen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-016"
     },
     {
       "candidate_id": "A-067",
@@ -991,8 +992,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Gestohlene Atomwaffen und eine persönliche Rivalität strukturieren die Verfolgung.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-017"
     },
     {
       "candidate_id": "A-068",
@@ -1004,8 +1006,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Hacker, Erpressung und Überfall verbinden digitale und physische Aktion.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-018"
     },
     {
       "candidate_id": "A-069",
@@ -1016,9 +1019,12 @@
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Heist mit Verkehrsplanung und Fluchtfahrzeugen als prägender Actionstoff.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-019"
     },
     {
       "candidate_id": "A-070",
@@ -1030,8 +1036,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Eigenständige Neuinterpretation über ein spezialisiertes Team und zurückgeforderte Beute.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-020"
     },
     {
       "candidate_id": "A-071",
@@ -1043,8 +1050,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein Überfall eskaliert zur Rettungswagenverfolgung mit medizinischem Dilemma.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-021"
     },
     {
       "candidate_id": "A-072",
