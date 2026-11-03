@@ -1,5 +1,20 @@
 # Sites-Veröffentlichung
 
+## Version 87: Alle Filmgenres ab 150 Filmen
+
+Am **03.11.2026 um 23:56:03 Uhr Europe/Berlin** aus Main (`70579f005b845e857b854ad95a04726b1c677b05`) öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-03-Version-87.json), [Freigabe](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-11-03 Nutzerauftrag 150er-Ausbau integrieren und veroeffentlichen.txt>).
+
+501 Filmfassungen mit 4.008 quellengeprüften Fragen ergänzt: 3.960 neue globale Wissensziele und 48 Bestandsvarianten. Alle zwölf Filmgenres mindestens 150 Filme; Science-Fiction 153, Arthouse 206, Classics 307, Preisträger 155. Endkatalog **123 Pakete / 19.303 Fragen / 18.588 Wissensziele**, davon 1.803 Genre-Filmfassungen. Hauptregieteams, Erstjahre, Herkunft und Reihenpositionen redaktionell geprüft. Quellen und ursprüngliche CSVs erhalten; ausdrückliche Paketrevisionen mit erhaltenen Rohdateien dokumentiert. [Endbestand und Redaktion](Genres-150-2026-11-03/Plan.md).
+
+**515 Tests in 82 Dateien**, Metadaten/TypeScript, Versionsbuild und drei gezielte Browserfälle erfolgreich. Zehn veraltete Testerwartungen im ersten vollen Lauf korrigiert; 16 betroffene Tests und anschließend der gesamte Lauf erfolgreich nachgeprüft. Reine Redaktion/Metadaten, keine Änderung an Oberfläche oder Persistenz. Keine Abhängigkeiten geändert.
+
+Onlinekatalog über 189 Betreiberteile vollständig übertragen und Gesamt-SHA-256 bestätigt; Aktivierung atomar bei konsistentem Snapshot, **42 private Quelltabellen unverändert**, Bereitstellung anschließend leer. 18.430 Duellfragen verfügbar. Keine Schemaänderung, kein Spielstandreset und keine neuen Security-/Performance-Advisor-Befunde.
+
+1.078 Build-Dateien bytegleich im Archiv; ausschließlich Build plus normalisiertes Hostingmanifest. Öffentlich alle 1.077 Nicht-HTML-Dateien HTTP 200 und bytegleich; Startseite mit erwarteten Assets, /index.html regulär 307 auf /. Tatsächliche Veröffentlichungszeit separat dauerhaft gespeichert, unabhängig zurückgelesen und anonym über quiz_app_release(87) bestätigt; direkter Tabellenzugriff 401. Öffentlichen Zugang public, Revision 2 und bestehende Adresse erhalten; kein GitHub-Push.
+
+Eigene Veröffentlichungskopie, SQL-Bereitstellung, Builds, Browserausgaben, Kontrollentpackung und Transportarchiv entfernt; Abwesenheit bestätigt (**946.868.805 Bytes / 6.747 Dateien**). Abhängigkeitsverknüpfung vorher separat entfernt, 14 eigene Attribute bereinigt. Originalabhängigkeiten, öffentliche Metadaten und beide fremden Mifune-Konfigurationen erhalten; keine eigenen Prüfserver aktiv.
+
+
 ## Version 86: direkte Duellrückmeldung, freie Runden und Themenwahl
 
 Am **01.11.2026 um 19:58:09 Uhr Europe/Berlin** aus Main (`e1209c1723d16829b74ce17cddd54a6636863d45`) öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-01-Version-86.json), [Freigabe](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-11-01 Nutzerauftrag Duelle veroeffentlichen.txt>).

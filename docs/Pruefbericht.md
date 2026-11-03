@@ -1,5 +1,12 @@
 # Prüfnachweis
 
+## 03.11.2026 – Version 87 aus Main veröffentlicht und live abgenommen
+
+Abgeschlossenen 150er-Ausbau konfliktfrei in Main integriert und um 23:56:03 Uhr Europe/Berlin als Version 87 öffentlich veröffentlicht. 515 Tests in 82 Dateien auf dem finalen Quellstand erfolgreich; zehn veraltete Erwartungen nach erstem Lauf gezielt korrigiert, alle 16 betroffenen Fälle und danach die vollständige Suite bestanden. Metadaten/TypeScript, Versionsbuild und drei gezielte Browserfälle erfolgreich. Keine Änderung an Oberfläche, Persistenz oder Abhängigkeiten; unveränderte Vorprüfungen wiederverwendet.
+
+Onlinebestand mit 19.303 Fragen / 18.588 Zielen per Gesamthash bestätigt und atomar aktiviert; 42 private Quelltabellen bei konsistentem Snapshot unverändert, Staging leer. Alle Genre-/Kategorieziele auch in der produktiven Datenbank bestätigt. 1.078 Build-Dateien im Archiv und alle 1.077 öffentlichen Nicht-HTML-Dateien bytegleich; Startseite korrekt, /index.html 307 auf /. Versionszeit separat dauerhaft gespeichert, unabhängig gelesen und anonym bestätigt; direkter Metadatenzugriff 401. Keine neuen Advisor-Befunde. Veröffentlichungskopie und Archiv entfernt, 946.868.805 Bytes / 6.747 eigene Dateien; Originalabhängigkeiten/-metadaten und fremde Mifune-Dateien erhalten. [Vollständiger Nachweis](Veroeffentlichung-2026-11-03-Version-87.json).
+
+
 ## 03.11.2026 – Alle Filmgenres und Zusatzkategorien ab 150 Filmen, lokal
 
 501 zusätzliche Filmfassungen mit jeweils zwei eigenständigen Inhaltszielen pro leicht/mittel/schwer sowie Jahr und vollständiger Hauptregie: 4.008 Fragen, 3.960 neue globale Wissensziele und 48 bewusst verknüpfte Bestandsvarianten. Alle zwölf Genres mindestens 150; Science-Fiction 153, Arthouse 206, Classics 307, Preisträger 155. Gesamtkatalog 123 Pakete / 19.303 Fragen / 18.588 Ziele; 1.803 Genre-Filmfassungen. [Endbestand, Redaktion und Quellen](Genres-150-2026-11-03/Plan.md).

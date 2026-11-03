@@ -1,0 +1,173 @@
+{
+  "version": 87,
+  "sourceBranch": "main",
+  "sourceCommit": "70579f005b845e857b854ad95a04726b1c677b05",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-11-03T23:56:03.726723+01:00",
+  "publishedAtBerlin": "03.11.2026, 23:56:03",
+  "timezone": "Europe/Berlin",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "githubPush": false,
+  "changes": [
+    "Alle zwölf Filmgenres enthalten mindestens 150 Filme; Science-Fiction 153, Arthouse 206, Classics 307 und Preisträger 155.",
+    "501 zusätzliche Filmfassungen mit 4.008 quellengeprüften Fragen; 3.960 neue globale Wissensziele und 48 bewusst gemeinsame Bestandsvarianten.",
+    "Vollständige Hauptregieteams, Erstjahre, Quellenzuordnung und Filmreihenpositionen redaktionell geprüft; ursprüngliche Fragequellen erhalten."
+  ],
+  "data": {
+    "packages": 123,
+    "questions": 19303,
+    "goals": 18588,
+    "films": 1803,
+    "addedFilms": 501,
+    "addedQuestions": 4008,
+    "addedGoals": 3960,
+    "existingVariants": 48,
+    "duelCatalogQuestions": 18430,
+    "reset": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_f4f2850342bc8191b85db8dc13473410",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 87,
+    "source": {
+      "commit_sha": "70579f005b845e857b854ad95a04726b1c677b05"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_000000003580820aa8868ebd12416886",
+      "content_hash": "sha256:dac4cbd07319f3aa3f2083409e46f1aac0507c63ec03fd0ff61ff3ba2aa05c5e",
+      "size_bytes": 99553280,
+      "file_count": 1079
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6aea667089448191b17ae72c370c6274",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_f4f2850342bc8191b85db8dc13473410",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-03T23:56:03.726723+01:00"
+  },
+  "server": {
+    "content": {
+      "hash": "b837c901e2ba9016447df1342a69e08a7786a2d1073d77e421f41de92337b08f",
+      "areas": 14,
+      "goals": 18588,
+      "genres": [
+        "Abenteuer",
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Komödie",
+        "Martial Arts & Asia-Film",
+        "Musik",
+        "Rom-Com",
+        "Science-Fiction",
+        "Thriller",
+        "Western"
+      ],
+      "questions": 19303
+    },
+    "staging": 0,
+    "duelQuestions": 18430,
+    "repeatableReadSnapshot": true,
+    "privateSourceTablesUnchanged": 42,
+    "contentHash": "b837c901e2ba9016447df1342a69e08a7786a2d1073d77e421f41de92337b08f",
+    "stagingProof": {
+      "hash": "b837c901e2ba9016447df1342a69e08a7786a2d1073d77e421f41de92337b08f",
+      "questions": 19303,
+      "computed_hash": "b837c901e2ba9016447df1342a69e08a7786a2d1073d77e421f41de92337b08f"
+    },
+    "noSchemaChanges": true,
+    "activationNotExecutableByBrowserOrServiceRoles": true,
+    "newUnexpectedSecurityAdvisorFindings": 0,
+    "newPerformanceAdvisorFindings": 0
+  },
+  "nativeReleaseMetadataWrittenAndSeparatelyReadBack": true,
+  "limitations": [],
+  "checks": {
+    "unitTests": 515,
+    "unitFiles": 82,
+    "unitDurationSeconds": 196.98373828125,
+    "metadataAndTypescript": true,
+    "build": true,
+    "diffCheck": true,
+    "dependencyChanges": false,
+    "auditRequired": false,
+    "initial": {
+      "passed": 505,
+      "failed": 10
+    },
+    "testRepairs": [
+      "Neun historische Genreprüfungen erwarten exakt den 100er-Kern plus die dokumentierten Ergänzungen statt unverändert 100 Filme.",
+      "Filmdatenprüfung berücksichtigt vollständig die zusätzlichen Quellen aus dem freigegebenen Reihenregister."
+    ],
+    "focusedTestsAfterRepair": 16,
+    "finalFullRunSuccessful": true,
+    "browser": {
+      "planned": 3,
+      "passed": 3,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0,
+      "durationMs": 49865.385,
+      "files": [
+        "tests/browser/release-info.spec.ts",
+        "tests/browser/all-genres-film-data.spec.ts"
+      ],
+      "scope": "Reine Redaktions- und Metadatenänderung; gezielte Versions-/Filmdatenabnahme, keine Änderung der Oberfläche oder Persistenz."
+    }
+  },
+  "archive": {
+    "files": 1079,
+    "buildFiles": 1078,
+    "bytes": 80725388,
+    "sha256": "c7a8eaa26ce8c4af06fceadf6d6c54bfad763448f73bca5cee60c407ce86c439",
+    "allBuildFilesByteEqual": true,
+    "onlyBuildAndHostingManifest": true
+  },
+  "publicFiles": {
+    "htmlStatus": 200,
+    "htmlHasExpectedAssets": true,
+    "checked": 1077,
+    "expected": 1077,
+    "failures": [],
+    "allFileHashesMatchBuild": true,
+    "indexStatus": 307,
+    "indexLocation": "/",
+    "releaseRpcStatus": 200,
+    "releaseRows": [
+      {
+        "version": 87,
+        "published_at": "2026-11-03T23:56:03.726723+01:00"
+      }
+    ],
+    "directMetadataStatus": 401,
+    "completedAt": "2026-11-03T22:57:33.265Z"
+  },
+  "cleanup": {
+    "completed": true,
+    "removedFiles": 6747,
+    "removedBytes": 946868805,
+    "ownAttributesCleared": 14,
+    "dependenciesPreserved": true,
+    "originalPublicMetadataPreserved": true,
+    "foreignMifuneConfigurationsHashUnchanged": true,
+    "sharedGitObjects": false,
+    "ownedServersStopped": true,
+    "remainingOwnArtifacts": [],
+    "completedAt": "2026-11-03T23:02:52.903Z"
+  }
+}
