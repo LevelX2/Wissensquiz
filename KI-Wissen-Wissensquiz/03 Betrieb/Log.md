@@ -2635,3 +2635,8 @@ Sechs Komödien mit 48 Fragen integriert, davon 45 neue globale Ziele und drei p
 #### Fortsetzung 03.11.2026 – Abenteuer W34
 
 Sechs Abenteuerfilme mit 48 Fragen integriert, davon 47 neue globale Ziele und eine Gable-Bestandsvariante; Abenteuer 139. Vollständige zentrale und unabhängige Gegenlesung samt Quellenverbreiterung über eigenständige ausführliche Filmkritiken, szenische Analysen und gezielte Dialogfolgen. Mogambo-Ablenker und Morel-Motive vergleichbar präzisiert; Naked-Prey-Festival1965 vor US1966 durch offizielles Archiv bestätigt. Alle 1.712 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und gebündelt 70 gezielte Tests in sieben Dateien bestanden (71,39 Sekunden). Aktuell 73 Pakete / 17.007 Fragen / 16.315 Ziele; 287 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – Fantasy W35
+
+Sechs Fantasyfilme mit 48 neuen globalen Zielen integriert; Fantasy 109. Vollständige zentrale und unabhängige Gegenlesung; Thronanspruch und drei vergleichbare Peter-Pan-Ablenker präzisiert. Alle offiziellen Hauptregisseure und Originalstimmen berücksichtigt, Sequenzregie differenziert. Valerie1970 ersetzt ausschließlich noch nicht integrierten Vorauswahlfilm mit ungeklärtem öffentlichem Erststart; Produktionsjahr1969 separat erklärt. Alle 1.760 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 74 Pakete / 17.055 Fragen / 16.363 Ziele; 281 Genreergänzungen offen.

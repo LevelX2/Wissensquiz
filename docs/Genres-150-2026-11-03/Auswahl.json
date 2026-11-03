@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 214 Filmfassungen mit 1712 Fragen lokal integriert. 287 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 220 Filmfassungen mit 1760 Fragen lokal integriert. 281 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -2864,9 +2864,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Historisch belastete deutsche Farbfilmfantasy; Erzählstoff und Produktionskontext unterscheiden.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-004"
     },
     {
       "candidate_id": "B-055",
@@ -2877,9 +2880,12 @@
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Animierter Nimmerland-Klassiker mit Fliegen, Feen und dem Wunsch, nicht erwachsen zu werden.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-005"
     },
     {
       "candidate_id": "B-056",
@@ -2890,9 +2896,12 @@
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Märchenfantasy mit Fluch, Feen und einer markanten grafischen Gestaltung.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-006"
     },
     {
       "candidate_id": "B-057",
@@ -2903,9 +2912,12 @@
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Artusjugend und Merlins Verwandlungsunterricht als animierte Fantasy.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-007"
     },
     {
       "candidate_id": "B-058",
@@ -2917,21 +2929,26 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Düstere Abenteuerfantasy über einen machtvollen Kessel und dessen Folgen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-008"
     },
     {
       "candidate_id": "B-059",
-      "film_title_de": "Der Flug der Drachen",
-      "film_title_original": "The Flight of Dragons",
-      "film_year": 1982,
+      "film_title_de": "Valerie – Eine Woche voller Wunder",
+      "film_title_original": "Valerie a týden divů",
+      "film_year": 1970,
       "genre": "Fantasy",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Naturwissenschaftliches Denken und Magie in einer animierten Drachenwelt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Surrealistische Autorenfantasy mit magischem Schmuck, Vampiren und veränderlichen Familienidentitäten. Die traumartige Bilddramaturgie und die kreative Arbeit von Jireš/Krumbachová begründen Arthouse; NFA führt den Film ausdrücklich als fantastisch.",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-009"
     },
     {
       "candidate_id": "B-060",
