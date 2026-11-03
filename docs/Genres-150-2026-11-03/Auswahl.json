@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 445 Filmfassungen mit 3560 Fragen lokal integriert. 56 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 451 Filmfassungen mit 3608 Fragen lokal integriert. 50 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -4154,10 +4154,11 @@
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Freundschaft und Begehren stehen zwischen einem Mann und einer bereits gebundenen Frau.",
+      "selection_reason": "Die Komödie entwickelt die Grenze zwischen Freundschaft und Partnerschaft über ein Liebesdreieck, ohne den bestehenden Partner zum bloßen Bösewicht zu machen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-034"
     },
     {
       "candidate_id": "B-135",
@@ -4167,36 +4168,39 @@
       "genre": "Rom-Com",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Gegenwärtige Liebeskomödie über verschiedene Formen des Singlelebens und vorschnelle Paarerwartungen.",
+      "selection_reason": "Mehrere komisch erzählte Partnerschaftsverläufe verbinden die Suche nach Nähe mit der Frage, ob ein erfülltes Leben zwingend eine feste Beziehung benötigt. Die Genrezuordnung schließt die bewusste Abweichung vom klassischen Paarfinale ein.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-035"
     },
     {
       "candidate_id": "B-136",
-      "film_title_de": "To All the Boys I've Loved Before",
+      "film_title_de": "To All the Boys I’ve Loved Before",
       "film_title_original": "To All the Boys I've Loved Before",
       "film_year": 2018,
       "genre": "Rom-Com",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Veröffentlichte private Liebesbriefe führen zu einer vorgetäuschten Beziehung mit echten Folgen.",
+      "selection_reason": "Die romantische Schulkomödie verbindet öffentlich gewordene private Liebesbriefe mit einer vertraglich vereinbarten Scheinbeziehung, aus der tatsächliche Nähe entsteht.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-036"
     },
     {
       "candidate_id": "B-137",
-      "film_title_de": "Love at First Sight",
+      "film_title_de": "Die statistische Wahrscheinlichkeit von Liebe auf den ersten Blick",
       "film_title_original": "Love at First Sight",
       "film_year": 2023,
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Flughafenbegegnung und eine erneute Suche verbinden Zufall und Familiengeschichten.",
+      "selection_reason": "Die offizielle Produktion bezeichnet den Film als romantische Komödie. Verspätete Flüge, eine eingreifende Erzählerin und wiederholte verpasste Begegnungen verbinden komische Zufälle mit zwei ernsthaften Familiengeschichten.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-037"
     },
     {
       "candidate_id": "B-138",
@@ -4206,10 +4210,11 @@
       "genre": "Rom-Com",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Bahnreise verändert die Lebensentwürfe zweier sehr unterschiedlicher Menschen.",
+      "selection_reason": "Die komische Zufallsreise einer redseligen Optimistin und eines verzweifelten Unternehmers entwickelt sich zur Liebesgeschichte mit einer späteren Umkehr ihrer Helferrollen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-038"
     },
     {
       "candidate_id": "B-139",
@@ -4217,12 +4222,13 @@
       "film_title_original": "Dilwale Dulhania Le Jayenge",
       "film_year": 1995,
       "genre": "Rom-Com",
-      "familiarity_level": 3,
+      "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Diasporische Liebeskomödie über Reisebegegnung, Elternzustimmung und selbst gewählte Partnerschaft.",
+      "selection_reason": "Komische Reibungen einer Europareise führen in eine romantische Familiengeschichte über freie Partnerwahl, arrangierte Heirat und elterliche Zustimmung. Der Film erweitert die Kategorie um einen prägenden Diaspora-Liebesfilm des Hindi-Kinos.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-039"
     },
     {
       "candidate_id": "B-140",
