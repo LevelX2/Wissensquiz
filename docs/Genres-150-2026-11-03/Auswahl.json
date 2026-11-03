@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 368 Filmfassungen mit 2944 Fragen lokal integriert. 133 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 373 Filmfassungen mit 2984 Fragen lokal integriert. 128 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -5727,23 +5727,29 @@
       "genre": "Horror",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine junge Opernsängerin wird in eine inszenierte Mordserie und erzwungenes Zusehen verwickelt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Ein Giallo über Blickzwang, Operninszenierung und familiär wiederholte Gewalt. Die Bühnenaufführung wird zum Instrument der Ermittlung, während die Hauptfigur eine ihr zugeschriebene Rolle abwehren muss.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "HORROR-046"
     },
     {
       "candidate_id": "C-096",
       "film_title_de": "Tenebrae",
-      "film_title_original": "Tenebrae",
+      "film_title_original": "Tenebre",
       "film_year": 1982,
       "genre": "Horror",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Schriftsteller erlebt Morde nach seinem Werk; Giallo reflektiert Autorenschaft und Voyeurismus.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Der Film verbindet den Umgang mit fiktionaler Gewalt, ein wechselndes Täterbild und die Umkehr einer vermeintlichen Ermittlerfigur. Seine helle moderne Architektur ergänzt die düster-fantastischen Spielarten des italienischen Horrors.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "HORROR-047"
     },
     {
       "candidate_id": "C-097",
@@ -5753,12 +5759,13 @@
       "genre": "Horror",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eigenständige Neuinterpretation der Tanzakademie als Hexenort im geteilten Berlin.",
+      "selection_reason": "Eigenständige Autoreninterpretation mit modernem Tanz als Zaubersprache, historischen Schuldzusammenhängen und einer Umkehr der vermeintlichen Opferrolle. Die gedämpfte Farbwelt und die Erzählung über Körper, Erinnerung und Macht begründen Arthouse innerhalb des übernatürlichen Horrors.",
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "HORROR-048"
     },
     {
       "candidate_id": "C-098",
@@ -5768,10 +5775,11 @@
       "genre": "Horror",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Geisterbeschwörungsspiel mit einer konservierten Hand gerät unter Jugendlichen außer Kontrolle.",
+      "selection_reason": "Jugendliche behandeln Besessenheit als gefilmten Rausch; persönliche Trauer verändert die vermeintlichen Spielregeln. Das Zusammenspiel aus Gruppendynamik, Verführung und Selbstverlust erweitert das zeitgenössische Genrewissen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "HORROR-049"
     },
     {
       "candidate_id": "C-099",
@@ -7276,12 +7284,15 @@
       "film_title_original": "Die Schlangengrube und das Pendel",
       "film_year": 1967,
       "genre": "Horror",
-      "familiarity_level": 3,
+      "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein deutscher Gruselfilm verbindet falsche Erbschaft, lebendig Begrabene und die Angst einer isolierten Schlossgesellschaft.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Der seltene deutsche Gothic-Horror verbindet künstliche Farbräume, eine Reise durch einen Leichenwald und den Racheplan eines wiedererweckten Grafen. Er ergänzt die internationale Entwicklung des Genres um eine eigenständige westdeutsche Produktion.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "HORROR-050"
     }
   ]
 }

@@ -1,0 +1,267 @@
+{
+  "id": "HORROR-048",
+  "film_title_de": "Suspiria",
+  "film_title_original": "Suspiria",
+  "film_year": 2018,
+  "genre": "Horror",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "International prominent besetzte Neuinterpretation eines bekannten Horrortitels; ihre konkrete historische und rituelle Handlung ist weniger geläufig als der Titel.",
+  "selection_reason": "Eigenständige Autoreninterpretation mit modernem Tanz als Zaubersprache, historischen Schuldzusammenhängen und einer Umkehr der vermeintlichen Opferrolle. Die gedämpfte Farbwelt und die Erzählung über Körper, Erinnerung und Macht begründen Arthouse innerhalb des übernatürlichen Horrors.",
+  "directors": [
+    "Luca Guadagnino"
+  ],
+  "production_countries": [
+    "Italien",
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 2018 im Wettbewerb Venedig, Premiere 1. September nach gelesenem Releaseabschnitt; offizieller Festivaljahrgang bestätigt. Italienischer Kinostart 1. Januar 2019 ist später. Eigenständige Neuinterpretation des 1977er Werks, keine Schnittfassung des Originals.",
+  "director_note": "Luca Guadagnino allein Regie, David Kajganich Drehbuch. Choreograf Damien Jalet und Kameramann Sayombhu Mukdeeprom sind keine Co-Regisseure. Der MUBI-Interviewtext schreibt Daniel Jalet, während Werkcredits Damien führen; korrekte Credits beibehalten.",
+  "country_note": "Italien/USA ausdrücklich nach MoMA-Werkdaten; Biennale-Kopf nennt nur Italien, führt aber Mythology Entertainment in den USA ausdrücklich als weitere Koproduktion. Drehorte Deutschland/Italien nicht mit Produktionsländern gleichgesetzt.",
+  "series": null,
+  "series_note": "Tatsächliches reg.films['Suspiria|2018'] bereits ausdrücklich null. Neuverfilmung bildet keine Fortsetzung der originalen Drei-Mütter-Folge. MUBI-Interview nennt lediglich mögliche künftige Interessen, keine tatsächlich veröffentlichte Folge.",
+  "series_sources": [
+    "https://mubi.com/en/notebook/posts/killing-the-mother-luca-guadagnino-discusses-suspiria",
+    "https://www.moma.org/calendar/events/4882"
+  ],
+  "sources": {
+    "biennale": {
+      "url": "https://www.labiennale.org/en/cinema/2018/lineup/venezia-75-competition/suspiria",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis, Regiestellungnahme und Produktions-/Hauptcredits gelesen: Venedig 2018, Guadagnino, Kajganich, Ort/Zeit 1977 und Bezug zum Original. Kopf Italien, Mythology USA zusätzlich ausdrücklich als Koproduktion gelistet."
+    },
+    "moma": {
+      "url": "https://www.moma.org/calendar/events/4882",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Werktext gelesen: 2018 Italien/USA, Guadagnino, amerikanische Susie/Dakota Johnson, geteiltes Berlin, Tanzkompanie und körperliche/psychische Verstörungen; kunstvolle Neuschöpfung. Dezember 2018 ist Museumsvorführung, keine Premiere."
+    },
+    "presse": {
+      "url": "https://archiv.polyfilm.at/Suspiria/Presse/SUSPIRIA%20PRESS%20NOTES.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Zusammenhängend S. 1–8 gelesen: Synopsis, Patricia/Klemperer/Sara, Berlinkontext und Originalvergleich, Dakota Johnsons Erläuterung der mennonitischen Herkunft, Blancs Kompromiss mit dem Zirkel. Mehrfach pseudonyme Besetzung der frühen Presseunterlagen nicht als echte Person übernommen. Übrige 19 Seiten nicht pauschal als gelesen behauptet."
+    },
+    "guadagnino": {
+      "url": "https://mubi.com/en/notebook/posts/killing-the-mother-luca-guadagnino-discusses-suspiria",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Alan-Jones-Interview gelesen: bewusste historische Perspektive, Tanz als Sprache/Zauber und Volk, gedämpfte Palette, Jessica Harper als Anke, verdeckte Swinton-Besetzung sowie keine fertige Fortsetzung. Fehler Daniel statt Damien beim Choreografen nicht übernommen."
+    },
+    "kajganich": {
+      "url": "https://medium.com/the-black-list-blog/the-black-list-interview-david-kajganich-on-suspiria-992499211bae",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges einschlägiges Black-List-Interview mit David Kajganich gelesen: Tanz wirkt als Zauber, Susie ist nicht die konventionelle Final Girl, ambivalente Machtausübung und bewusst nicht eindeutig tröstliche Begegnung mit Klemperer."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Suspiria_(2018_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Plot/Cast und Werk-/Releasepassagen gelesen: Olga körperlich durch Susies Tanz verändert, wahre Mater Suspiriorum, Klemperers Frau Theresienstadt, Erinnerungsverlust; Premiere 1. September 2018. Vollständige Mehrfachrolle Tilda Swinton nach Veröffentlichung aufgelöst."
+    },
+    "anderson": {
+      "url": "https://nerdist.com/article/suspiria-ending-explained/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen zusammenhängenden Schlussaufsatz gelesen: Susie statt Markos als Mater Suspiriorum, Sturz der Markos-Fraktion bei fortbestehendem Zirkel und Eingriff in Klemperers Erinnerungen. Wertende Spekulationen über eine bruchlos gute Herrschaft oder eine sichtbare Susie im heutigen Landhaus nicht übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die neue Suspiria-Handlung spielt in Westberlin.",
+      "question": "In welcher Stadt tritt Susie (Dakota Johnson) in der Neuverfilmung von „Suspiria“ der Markos-Kompanie bei?",
+      "answers": [
+        "Berlin.",
+        "Freiburg.",
+        "München.",
+        "Wien."
+      ],
+      "short": "Die neue Suspiria-Handlung spielt in Westberlin.",
+      "context": "Susie (Dakota Johnson) kommt in eine geteilte Stadt, deren politische Spannungen ständig hör- und sichtbar bleiben. Die Tanzkompanie steht dieser Umgebung nicht als abgeschlossene Märchenwelt gegenüber. Nachrichten, Erinnerungen an den Krieg und Konflikte zwischen Generationen verbinden die Geschichte des Zirkels mit einem gesellschaftlichen Raum, in dem Verantwortung für frühere Gewalt umkämpft ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "moma",
+        "presse",
+        "guadagnino"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Susie stammt aus einer mennonitischen Familie.",
+      "question": "Aus welchem religiösen Familienumfeld stammt Susie (Dakota Johnson) in der Neuverfilmung von „Suspiria“?",
+      "answers": [
+        "Aus einer mennonitischen Familie.",
+        "Aus einer katholischen Familie.",
+        "Aus einer jüdisch-orthodoxen Familie.",
+        "Aus einer mormonischen Familie."
+      ],
+      "short": "Susie stammt aus einer mennonitischen Familie.",
+      "context": "Dakota Johnson beschrieb Susie als junge Frau, deren Empfindungen nicht zu den Regeln ihrer Herkunft passen. Ihre Reise führt sie fort von der religiösen Familie, doch an der neuen Wirkungsstätte warten ebenfalls mächtige Vorstellungen von Mutterschaft, Körper und Gehorsam. Die Bewegung in die Kunst bedeutet daher keinen einfachen Wechsel von Unterdrückung zu voraussetzungsloser Freiheit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Susies Tanz verletzt Olga durch eine übernatürliche Verbindung in einem anderen Raum.",
+      "question": "Was verbindet Susies (Dakota Johnson) Probe mit Olgas (Elena Fokina) Verletzungen in „Suspiria“?",
+      "answers": [
+        "Susies Bewegungen wirken gewaltsam auf Olgas Körper in einem anderen Raum.",
+        "Olga kopiert Susies Sprünge und stürzt auf einer beschädigten Bühne.",
+        "Die Tänzerinnen erhalten ein Muskelgift aus demselben präparierten Getränk.",
+        "Olga verletzt sich beim Versuch, Susies Auftritt von außen zu sabotieren."
+      ],
+      "short": "Susies Tanz verletzt Olga durch eine übernatürliche Verbindung in einem anderen Raum.",
+      "context": "Olga (Elena Fokina) will die Kompanie verlassen und wird allein in einem verspiegelten Raum eingeschlossen. Während Susie (Dakota Johnson) anderswo tanzt, wird Olgas Körper verdreht und gegen die Wände geschleudert. Die Choreografie ist damit kein bloßer Schmuck der Handlung: Körperliche Bewegung erhält eine magische Wirkung, über die andere Menschen verfügen können.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "handlung",
+        "kajganich"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Das Verschwinden seiner Patientin Patricia bringt Klemperer auf die Spur der Kompanie.",
+      "question": "Warum untersucht Josef Klemperer (Tilda Swinton) die Markos-Kompanie in „Suspiria“?",
+      "answers": [
+        "Seine Patientin verschwindet nach Berichten über Hexen in der Kompanie.",
+        "Seine Tochter wird nach einer misslungenen Premiere aus der Kompanie entlassen.",
+        "Er findet das Testament seiner Frau in einem Kostümfundus der Kompanie.",
+        "Ein alter Kriegskamerad bittet ihn, die Intendantin medizinisch zu beurteilen."
+      ],
+      "short": "Das Verschwinden seiner Patientin Patricia bringt Klemperer auf die Spur der Kompanie.",
+      "context": "Patricia (Chloë Grace Moretz) hinterlässt dem Psychotherapeuten Josef Klemperer (Tilda Swinton) Aufzeichnungen über die Mütter und deren Macht. Zunächst kann er ihre Aussagen als Ausdruck einer Erkrankung deuten. Ihr Verschwinden verändert diese bequeme Einordnung. Er sucht Kontakt zu Sara (Mia Goth), deren eigene Nachforschungen schließlich hinter die sichtbaren Räume der Schule führen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Susie selbst ist Mater Suspiriorum und beseitigt Markos’ Fraktion.",
+      "question": "Welche Enthüllung über Susie (Dakota Johnson) kehrt das Opferritual der neuen „Suspiria“-Fassung um?",
+      "answers": [
+        "Sie ist selbst Mater Suspiriorum.",
+        "Sie ist Markos’ leibliche Tochter.",
+        "Sie ist Blancs wiedergeborene Schwester.",
+        "Sie ist Patricias körperliche Doppelgängerin."
+      ],
+      "short": "Susie selbst ist Mater Suspiriorum und beseitigt Markos’ Fraktion.",
+      "context": "Die Mütter wollen Susie (Dakota Johnson) als neuen Körper für Helena Markos (Tilda Swinton) benutzen. Doch die vermeintlich Auserkorene besitzt selbst die höhere Macht, die Markos beansprucht. Sie lässt deren Anhängerinnen töten und gewährt den verstümmelten Tänzerinnen auf deren Bitte den Tod. Der Zirkel wird damit nicht einfach vernichtet; seine Herrschaftsordnung wechselt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "anderson",
+        "kajganich"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Susie berichtet Klemperer das Schicksal seiner Frau und nimmt ihm anschließend Erinnerungen.",
+      "question": "Was tut Susie (Dakota Johnson) bei ihrem letzten Besuch bei Klemperer (Tilda Swinton) in „Suspiria“?",
+      "answers": [
+        "Sie berichtet vom Tod seiner Frau und löscht anschließend Erinnerungen.",
+        "Sie bringt seine Frau lebend zurück und macht beide zu Hütern der Akademie.",
+        "Sie zwingt ihn zu einem öffentlichen Geständnis über die Morde der Kompanie.",
+        "Sie gibt ihm Patricias Tagebücher und fordert deren Veröffentlichung."
+      ],
+      "short": "Susie berichtet Klemperer das Schicksal seiner Frau und nimmt ihm anschließend Erinnerungen.",
+      "context": "Josef Klemperer (Tilda Swinton) erfährt, dass Anke (Jessica Harper) in Theresienstadt starb. Anschließend greift Susie (Dakota Johnson) in sein Gedächtnis ein. Die Szene kann als Entlastung von Schuld und Schmerz erscheinen, besitzt aber zugleich die Gewalt eines Eingriffs, über den er nicht selbst bestimmt. Kajganich wollte gerade diese Ambivalenz der neuen Macht erhalten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "anderson",
+        "kajganich"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die Neuinterpretation erschien 2018, setzt ihre Geschichte aber in das Originaljahr 1977.",
+      "question": "In welchem Jahr wurde die Neuverfilmung von „Suspiria“ mit Dakota Johnson erstmals gezeigt?",
+      "answers": [
+        "2018",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "short": "Die Neuinterpretation erschien 2018, setzt ihre Geschichte aber in das Originaljahr 1977.",
+      "context": "Die neue Fassung kam 2018 in Venedig zur Premiere, spielt jedoch 1977, dem Veröffentlichungsjahr von Argentos Original. Dieser Abstand von 41 Jahren ist bewusst in die Gestaltung eingegangen: Der rückblickende Film macht den deutschen Herbst und die verdrängte Kriegsgeschichte zum Umfeld seiner Hexengesellschaft. Das Erscheinungsjahr und die Zeit innerhalb der Handlung erfüllen dabei verschiedene Aufgaben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "biennale",
+        "guadagnino",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Luca Guadagnino führte Regie.",
+      "question": "Wer führte bei der Neuinterpretation von „Suspiria“ mit Dakota Johnson und Tilda Swinton Regie?",
+      "answers": [
+        "Luca Guadagnino",
+        "Ari Aster",
+        "Robert Eggers",
+        "Nicolas Winding Refn"
+      ],
+      "short": "Luca Guadagnino führte Regie.",
+      "context": "Guadagnino wollte die Bildwelt des Originals nicht einfach kopieren. Mit Sayombhu Mukdeeprom entwickelte er gedämpfte Braun-, Rost-, Blau- und Grüntöne und bezog sich unter anderem auf Fassbinders Kino. Tanz verstand er als eine Sprache, die Zauber wirkt. So unterscheiden sich Atmosphäre und körperliche Handlung deutlich vom früheren Film, obwohl Ausgangslage und Titel verwandt bleiben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "biennale",
+        "guadagnino",
+        "kajganich"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
