@@ -14610,7 +14610,10 @@
     },
     "Training Day|2001": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://en.wikipedia.org/wiki/Training_Day",
+        "https://www.imdb.com/title/tt11102286/"
+      ]
     },
     "Trainspotting|1996": {
       "series": {
@@ -17455,6 +17458,45 @@
       "sources": [
         "https://tv.apple.com/us/movie/street-kings-2-motor-city/umc.cmc.2uq9imu4pz9zbl9re3lyl45tl",
         "https://en.wikipedia.org/wiki/Street_Kings"
+      ]
+    },
+    "S.W.A.T.|2003": {
+      "series": {
+        "name": "S.W.A.T.",
+        "position": 1,
+        "note": "Erster Film der mit Firefight (2011) und Under Siege (2017) fortgeführten Markenfolge. Fernsehserien von 1975 und 2017 werden nicht als Filmteile gezählt."
+      },
+      "sources": [
+        "https://www.sonypictures.com/movies/swatfirefight",
+        "https://play.google.com/store/movies/details/S_w_a_t_Firefight?hl=en_US&id=xmSMB20lOLM",
+        "https://www.sonypictures.com/tv/swat1975"
+      ]
+    },
+    "End of Watch|2012": {
+      "series": null,
+      "sources": [
+        "https://www.universalpicturesathome.com/movies/end-of-watch"
+      ]
+    },
+    "Safe House|2012": {
+      "series": null,
+      "sources": [
+        "https://www.universalpicturesathome.com/movies/safe-house",
+        "https://en.wikipedia.org/wiki/Safe_House_(2012_film)"
+      ]
+    },
+    "Body of Lies|2008": {
+      "series": null,
+      "sources": [
+        "https://www.filmdienst.de/film/details/532008/der-mann-der-niemals-lebte",
+        "https://en.wikipedia.org/wiki/Body_of_Lies_(film)"
+      ]
+    },
+    "Spy Game|2001": {
+      "series": null,
+      "sources": [
+        "https://www.universalpicturesathome.com/movies/spy-game",
+        "https://www.michaelfrostbeckner.com/news-and-events/spy-game-20th-anniversary-podcast"
       ]
     }
   }

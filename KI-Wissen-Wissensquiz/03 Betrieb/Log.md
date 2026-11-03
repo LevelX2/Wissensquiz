@@ -2690,3 +2690,8 @@ Sechs Actionfilme ACTION-016–021 (Hard Rain, Operation: Broken Arrow, Passwort
 #### Fortsetzung 03.11.2026 – W45
 
 Sechs Actionfilme ACTION-022–027 (Cash Truck, The Gentlemen, Criminal Squad, Triple Frontier, Triple 9, Street Kings) mit 48 neuen Fragen und Wissenszielen integriert. Vollständige unabhängige Gegenlese aller Fragen; primäre Filmemacher- und VFX-Interviews nachgelesen. The Gentlemen nach bestätigter Publikumsaufführung im Dezember 2019 geführt; Criminal Squad und Street Kings als erste veröffentlichte Teile ihrer ausdrücklich nummerierten Reihen. Action erreicht 127 Filme. Alle 2.232 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 84 Pakete / 17.527 Fragen / 16.829 Ziele; 222 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W46
+
+Sechs Actionfilme ACTION-028–033 mit 48 Fragen integriert: S.W.A.T., End of Watch, Training Day, Safe House, Der Mann der niemals lebte und Spy Game. Denzel-Washington-Rollenziel als bestehende Variante geteilt; 47 neue Ziele. Alle Fragen unabhängig vollständig gegengelesen; reale und digitale Hubschrauberelemente in S.W.A.T. nach Primärinterview eindeutig abgegrenzt. Produktionsjahre, Festivalvorführungen und Länderabweichungen einzeln dokumentiert. Action erreicht 133 Filme. Alle 2.280 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 85 Pakete / 17.575 Fragen / 16.876 Ziele; 216 Genreergänzungen offen.

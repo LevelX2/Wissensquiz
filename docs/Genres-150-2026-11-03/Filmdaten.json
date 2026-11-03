@@ -18276,6 +18276,538 @@
       "reference_question_id": "G150-20261103-ACTION-027-L1",
       "year_question_id": "G150-20261103-ACTION-027-Y",
       "director_question_id": "G150-20261103-ACTION-027-D"
+    },
+    {
+      "id": "ACTION-028",
+      "film_title_de": "S.W.A.T. – Die Spezialeinheit",
+      "film_title_original": "S.W.A.T.",
+      "film_year": 2003,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Ensemble-Actionfilm mit Samuel L. Jackson und Colin Farrell; der Reihentitel ist über mehrere eigenständige Fernsehumsetzungen zusätzlich präsent.",
+      "directors": [
+        "Clark Johnson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 30. Juli 2003 in Los Angeles durch zeitgenössische Reuters-Fotobeschriftung bestätigt; regulärer US-Start 8. August 2003. Späterer Deutschlandstart 4. Dezember 2003 nicht als Erstvorführung verwendet.",
+      "director_note": "Alleiniger offizieller Regisseur Clark Johnson; Drehbuch David Ayer und David McKenna, ursprüngliche Geschichte Ron Mita und Jim McClain. Frühere geplante Regisseure zählen nicht zum fertigen Credit.",
+      "country_note": "USA durch FSK und Filmdienst. AFI Watch listet zusätzlich China, ohne einen entsprechenden Koproduktionscredit nachzuweisen. Die konkreten FSK- und Filmdienst-Länderangaben führen deshalb; die abweichende aggregierte Anzeige bleibt dokumentiert.",
+      "series": {
+        "name": "S.W.A.T.",
+        "position": 1,
+        "note": "Erster Film der mit Firefight (2011) und Under Siege (2017) fortgeführten Markenfolge. Fernsehserien von 1975 und 2017 werden nicht als Filmteile gezählt."
+      },
+      "series_note": "Die offizielle Studiosynopsis bezeichnet Firefight als neues Kapitel der Filmreihe; neue Darsteller und Detroit-Handlung werden vom Vorgänger getrennt. Die Ursprungsserie ist die Vorlage, keine frühere Kinofolge.",
+      "series_sources": [
+        "https://www.sonypictures.com/movies/swatfirefight",
+        "https://play.google.com/store/movies/details/S_w_a_t_Firefight?hl=en_US&id=xmSMB20lOLM",
+        "https://www.sonypictures.com/tv/swat1975"
+      ],
+      "sources": [
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/swat",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis im vollständigen Suchindex gelesen: 2003, Hauptensemble, Gefangenentransport und 100 Millionen Dollar Befreiungsprämie. Dynamischer Direktabruf zeigt teilweise nur Navigation."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/swat-2003",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Roger-Ebert-Kritik im Suchindex gelesen; Direktabruf HTTP 403. Gamble verwundet eine Geisel, Zurückstufung und verschiedene Reaktionen, Hondo wählt Street, routinemäßige Verkehrskontrolle, Fernsehprämie und alleinige Johnson-Regie."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/S.W.A.T._(2003_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: Street/Gamble, Rücklicht und falsche Papiere, Montel, McCabe als Verräter, U-Bahn-Flucht und Brückenflugzeug. Unpräzise Bezeichnung einer Einzelmission nicht übernommen."
+        },
+        {
+          "key": "vfx",
+          "url": "https://www.cgchannel.com/2003/09/s-w-a-t/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Michael-Hardison-Interview gelesen: Pixel Magic, reale und digitale Hubschrauberbilder beim Absturz, Dachkante, Explosionen und Trümmer sowie Learjet-Oberflächen. Unabhängig nachgelesener Straßenaufprall: ein Helikopterkörper ohne Rotorblätter wurde aus 75 Fuß fallengelassen; deshalb wäre ein pauschaler realer Absturz keine eindeutig falsche Option. Antwortgruppen präzisiert."
+        },
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/s-w-a-t-1",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen Suchindex mit Synopsis und Credits gelesen: Regie Clark Johnson, Cast und US-Start 8. August 2003. Aggregierte Länderangabe USA/China gegen FSK und Filmdienst abgegrenzt."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=626ae2ec396ef800158e4ab8&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen Prüfdatensatz im Suchindex gelesen: USA 2003, deutscher Titel, Originaltitel, Cast und Prüfdatum 27. November 2003."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/521545/swat-die-spezialeinheit",
+          "accessed_on": "2026-11-03",
+          "supports": "Freie Synopsis und Credits im Suchindex gelesen: USA 2003, Johnson-Regie, Drehbuch Ayer/McKenna und Teamaufbau."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.bridgemanimages.com/en/noartistknown/cast-members-olivier-martinez-jeremy-renner-and-michelle-rodriguez-pose-at-premiere-of-s-w-a-t-in/photograph/asset/8144197",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zeitgenössische Reuters-Fotobeschriftung gelesen: Premiere 30. Juli 2003 in Westwood und angekündigter US-Start 8. August."
+        },
+        {
+          "key": "tv",
+          "url": "https://www.sonypictures.com/tv/swat1975",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Seriensynopsis im Suchindex gelesen: Ursprung aus The Rookies, Hondo, Street, Kay, McCabe und Luca, Auswertung 1975/1976. Sony-Seite zur aktuellen Serie bestätigt die Vorlage von 1975 zusätzlich."
+        },
+        {
+          "key": "firefight",
+          "url": "https://www.sonypictures.com/movies/swatfirefight",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis im Suchindex gelesen: Firefight 2011, Paul Cutler/Gabriel Macht und neue Detroit-Mannschaft; Google-Play-Studiosynopsis nennt ausdrücklich ein neues Kapitel der S.W.A.T.-Reihe."
+        },
+        {
+          "key": "screen",
+          "url": "https://www.screendaily.com/swat/4014472.article",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene ausführliche Suchindex-Abschnitte der zeitgenössischen Kritik: Farrell, Teamaufbau, Johnsons TV-Regiearbeit an The Shield/The West Wing/NYPD Blue, Drehbuch Ayer/McKenna und parallel erzählte Vorbereitung der Einheit. Direktabruf HTTP 405; keine vollständige ungelesene Kritik behauptet."
+        },
+        {
+          "key": "timeout",
+          "url": "https://www.timeout.com/movies/s-w-a-t",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige kurze Kritik und Credits im Suchindex gelesen: Bankgeiselnahme, Verwundung, Streets Zurückstufung und Neuauswahl durch Hondo, Training und Belohnung. Falsche Schreibungen Ferrell/Martel aus der Kritik nicht übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-028-L1",
+      "year_question_id": "G150-20261103-ACTION-028-Y",
+      "director_question_id": "G150-20261103-ACTION-028-D"
+    },
+    {
+      "id": "ACTION-029",
+      "film_title_de": "End of Watch",
+      "film_title_original": "End of Watch",
+      "film_year": 2012,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter moderner Buddy-Copfilm mit Jake Gyllenhaal und Michael Peña, dessen Nähe zu seinen Hauptfiguren stärker als ein wiederkehrender Markenname wirkt.",
+      "directors": [
+        "David Ayer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2012. TIFF-Vorführung am 8. September 2012 und US-Kinostart am 21. September sind belegt. CineMovie berichtet jedoch bereits am 25. Juli 2012 rückblickend über eine Publikums-Vorabschau mit Diskussion bei LatinoMediaCon/NHMC in Pasadena. TIFF wird deshalb nicht als allererste Publikumsaufführung behauptet; kein Beleg für eine Vorführung in einem früheren Jahr.",
+      "director_note": "Universal und AFI führen David Ayer als alleinigen Regisseur; er schrieb auch das Originaldrehbuch. Der Film ist keine Dokumentation und kein ausschließlich aus innerhalb der Handlung motivierten Kameras zusammengesetzter Found-Footage-Film.",
+      "country_note": "USA durch Filmdienst/AFI bestätigt, Dreharbeiten in Los Angeles. Toronto ist ein Festivalort, kein Produktionsland.",
+      "series": null,
+      "series_note": "Eigenständiger Spielfilm. Eine später angekündigte Fernsehadaption und die thematische Verbindung mit anderen Ayer-Copfilmen bilden keine nummerierte Kinoreihe.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/end-of-watch"
+      ],
+      "sources": [
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/end-of-watch",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis und Credits vollständig gelesen: Taylor/Gyllenhaal, Zavala/Peña, Kartellkonflikt, verschiedene Kameraperspektiven, Regie Ayer und 2012."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/end-of-watch-2012",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Roger-Ebert-Kritik im Suchindex gelesen: Filmkurs als Kameraanlass, Kinderrettung aus einem Brand, Berufs- und Familienleben sowie Ayers Training-Day-Drehbuch von 2001. Falsche pauschale Filmografiezählung nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/End_of_Watch",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Hauptbesetzungen gelesen: Streifenpartnerschaft, Kursprojekt, Rettung und Auszeichnung, Angriff, Zavala als Schutz für Taylor, Beerdigung und abschließender Rückblick. Alternative Enden sind nicht Fragengegenstand."
+        },
+        {
+          "key": "rt",
+          "url": "https://editorial.rottentomatoes.com/article/rt-interview-david-ayer-talks-end-of-watch/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Matt-Atchity-Interview gelesen: fünfmonatige Vorbereitung, Castingchemie, tägliche Streifenarbeit und Jaime FitzSimons als Quelle bestimmter Filmvorfälle. Keine unabhängige Bestätigung realer Einzelfälle behauptet."
+        },
+        {
+          "key": "kamera",
+          "url": "https://cinemovie.tv/index.php/interviews/video-end-of-watchs-jake-gyllenhaal-and-michael-pena-on-shooting-own-footage-for-movie",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen schriftlichen Interviewbericht im Suchindex gelesen: Darsteller als Kameraoperatoren, Hand- und Körperkameras, Peñas zunächst umständlicher Westenwechsel und Reaktion auf das Material. Kein Video als gesichtet behauptet."
+        },
+        {
+          "key": "vorabschau",
+          "url": "https://cinemovie.tv/index.php/interviews/end-of-watch-screening-qa-with-michael-pena-a-director-david-ayer",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen zeitgenössischen Bericht im Suchindex gelesen; Direktabruf Timeout. Publikums-Vorabschau bei LatinoMediaCon/NHMC in Pasadena vor Berichtsdatum 25. Juli 2012, Gespräch mit Ayer/Peña und Körperkameras; angekündigter US-Start 21. September."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/541102/end-of-watch",
+          "accessed_on": "2026-11-03",
+          "supports": "Freie Synopsis und Filmdaten im Suchindex gelesen: USA 2012, Ayer-Regie und Drehbuch, Hauptbesetzungen, teilweise Found-Footage-Ästhetik und deutscher Kinostart 20. Dezember 2012."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/68903",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Katalog-Suchindex: Hauptregie und Drehbuch David Ayer, Produktionsfirmen, Hauptbesetzungen und Filmjahr 2012. Keine dort nicht vorhandene vollständige Handlung behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-029-L1",
+      "year_question_id": "G150-20261103-ACTION-029-Y",
+      "director_question_id": "G150-20261103-ACTION-029-D"
+    },
+    {
+      "id": "ACTION-030",
+      "film_title_de": "Training Day",
+      "film_title_original": "Training Day",
+      "film_year": 2001,
+      "subdomain": "Action",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 1,
+      "familiarity_reason": "Redaktionelle Einschätzung: sehr bekannter Polizeifilm mit einer Oscar-prämierten Hauptrolle und einem dauerhaft präsenten korrupten Ausbilder als zentraler Figur.",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2001: Venedig-Premiere Anfang September, laut Filmchronologie am 2. September; zeitgenössischer ABC-Bericht vom 4. September bestätigt die Weltpremiere am vorausgegangenen Wochenende. US-Start tatsächlich 5. Oktober, nicht der im frühen ABC-Bericht noch angekündigte 21. September. Deutscher Start laut FBW 6. Dezember 2001.",
+      "director_note": "Antoine Fuqua ist alleiniger Hauptregisseur; David Ayer verfasste das Drehbuch. AFI, FBW und Produktionsinformationen stimmen überein.",
+      "country_note": "USA nach FBW und Filmdienst. Die abweichende automatische Länderanzeige USA/Australien bei AFI Watch wird gegenüber diesen konkreten deutschen Filmdaten nicht übernommen; eine australische Produktionsbeteiligung ist in den gelesenen Credits nicht eigens belegt.",
+      "series": null,
+      "series_note": "Eigenständiger Kinofilm. Die Fernsehfortführung von 2017 ist keine weitere Kinofolge. Ein angekündigtes Prequel ist nach den geprüften Entwicklungsberichten nicht als veröffentlichter Film anzurechnen.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Training_Day",
+        "https://www.imdb.com/title/tt11102286/"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/62232",
+          "accessed_on": "2026-11-03",
+          "supports": "Katalog-Suchindex gelesen: Regie Fuqua, Drehbuch Ayer, Hauptbesetzungen, US-Start 5. Oktober 2001 und Alonzo Harris auf Platz 50 der AFI-Schurkenliste. Keine ungelesene vollständige Kataloghandlung als geprüft ausgegeben."
+        },
+        {
+          "key": "fbw",
+          "url": "https://www.fbw-filmbewertung.com/film/training_day",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmdaten und Jurytext im Suchindex gelesen: USA 2001, Regie Fuqua, Drehbuch Ayer, Washington/Hawke, deutscher Start 6. Dezember 2001; moralischer Konflikt des jungen Drogenfahnders."
+        },
+        {
+          "key": "sbiff",
+          "url": "https://sbiff.org/training-day/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Essay von Sean Pratt gelesen: Besetzungen, Jakes Bewerbung für die Eliteeinheit, Alonzos erzwungener PCP-Konsum und dessen moralische Selbstrechtfertigung. Die angehängten Produktionszitate überschneiden sich mit den Produktionsinformationen und werden nicht als unabhängige Quelle gezählt."
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.cinema.com/articles/713/training-day-production-information.phtml",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene Produktionsinformationen und konkrete Fuqua-/Ayer-/Hawke-Aussagen: Drehbuchentstehung ab 1995, Figurenkontrast, echte Schauplätze, Imperial Courts, örtliche Mitwirkende und bewusst unveränderte soziale Umgebung. Hauptregie und Drehbuchautorschaft getrennt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Training_Day",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: Rettung des Mädchens, Geldbörse, Smileys Bestätigungsanruf, Roger-Überfall, PCP-Erpressung und Alonzos Entschädigungsschuld gegenüber der russischen Mafia. Erstjahr und noch unveröffentlichte Prequel-Entwicklung ebenfalls gelesen."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/training-day-2001",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Kritik im Suchindex gelesen: Washington/Hawke, Jakes Karrierewunsch und Familie, erzwungene Droge, Überfall auf Roger und moralische Erpressung. Irrtümliche Automodellbezeichnung nicht übernommen."
+        },
+        {
+          "key": "abc",
+          "url": "https://abcnews.com/amp/Entertainment/story?id=102654&page=1",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössischen Berichtseinleitungstext mit Datumszeile 4. September 2001 im Suchindex gelesen: Weltpremiere am vorangegangenen Wochenende in Venedig. Spätere Website-Datierung 2006 ist keine Filmpremiere; der angekündigte September-US-Start wurde verschoben."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/2002",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Gewinner- und Nominierungsliste gelesen: Ehrung der Filme von 2001 am 24. März 2002; Washington gewinnt Hauptdarsteller, Hawke ist als Nebendarsteller nominiert."
+        },
+        {
+          "key": "rueckblick",
+          "url": "https://www.cinemablend.com/news/2451470/how-denzel-washington-and-antoine-fuqua-reflect-on-the-making-of-training-day",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen schriftlichen Interviewbericht gelesen: Washington/Fuqua erinnern sich an den tatsächlichen Palmwood-Drive-Schauplatz und die damalige Umgebung. Nicht als Sichtung des eingebetteten Videos ausgegeben."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-030-L1",
+      "year_question_id": "G150-20261103-ACTION-030-Y",
+      "director_question_id": "G150-20261103-ACTION-030-D"
+    },
+    {
+      "id": "ACTION-031",
+      "film_title_de": "Safe House",
+      "film_title_original": "Safe House",
+      "film_year": 2012,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Agentenactionfilm mit Denzel Washington und Ryan Reynolds, aber ohne den Wiedererkennungswert einer fortgesetzten Kinomarke.",
+      "directors": [
+        "Daniel Espinosa"
+      ],
+      "production_countries": [
+        "USA",
+        "Südafrika"
+      ],
+      "release_note": "Erstveröffentlichung 2012, New Yorker Premiere am 7. Februar durch zeitgenössische Fotobeschriftung bestätigt; US-Kinostart 10. Februar. Die FSK bezeichnet das Produktionsjahr abweichend mit 2011, dokumentiert jedoch eine Freigabe von 2012. Kein Beleg für eine Publikumsveröffentlichung 2011.",
+      "director_note": "Daniel Espinosa ist der einzige Hauptregisseur, David Guggenheim der offiziell genannte Drehbuchautor. Die schwedisch-chilenische Herkunft des Regisseurs ist kein zusätzlicher Regiecredit oder Produktionsland.",
+      "country_note": "USA/Südafrika durch FSK-Eintrag USA/ZA belegt. Einige Verleihkataloge nennen verkürzt nur USA; Südafrika wird hier durch den konkreten FSK-Ländercredit gestützt und nicht allein aus den Drehorten abgeleitet. Keine belegte japanische Koproduktion in den geprüften Credits.",
+      "series": null,
+      "series_note": "Eigenständiger Film. Eine berichtete Fortsetzungsentwicklung wird nicht als veröffentlichte nummerierte Filmfolge behandelt. Gleichnamige Filme von 1998 und 2025 sind andere Stoffe.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/safe-house",
+        "https://en.wikipedia.org/wiki/Safe_House_(2012_film)"
+      ],
+      "sources": [
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/safe-house",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis und Details vollständig per Direktabruf gelesen: Frost/Washington, Weston/Reynolds, Flucht vor Söldnern, Südafrika, alleinige Regie Espinosa und Veröffentlichungsjahr 2012."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Safe_House_(2012_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: Konsulat, Wade/Datenträger, Barlow als Auftraggeber, Tod von Linklater und Frost, Weitergabe des Materials und Paris-Epilog. Angekündigte Fortsetzungsentwicklung ohne veröffentlichten Folgefilm."
+        },
+        {
+          "key": "comingsoon",
+          "url": "https://www.comingsoon.net/movies/features/86684-exclusive-interview-director-daniel-espinosa-on-safe-house",
+          "accessed_on": "2026-11-03",
+          "supports": "Interviewtext bis einschließlich Drehtempo und im Suchindex die folgenden Abschnitte zu Kapstadt/CIA-Berater gelesen: englischsprachiges Debüt nach Snabba Cash von 2010, ältere/jüngere Revolverhelden als Figurenmodell, Arbeit mit Washington. Direktseite liefert teils wechselnden fremden Artikel; keine ungelesenen Passagen verwendet."
+        },
+        {
+          "key": "shockya",
+          "url": "https://www.shockya.com/news/2012/02/06/interview-safe-house-director-daniel-espinosa/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene erste Interviewhälfte: Washington nach Fences angesprochen, Treffen mit Reynolds in New Orleans, gemeinsame Figurenarbeit und Espinosas Ausbildung in Dänemark. Einführung beschreibt Westons ereignislose Bewacherstelle in Kapstadt."
+        },
+        {
+          "key": "dog",
+          "url": "https://www.denofgeek.com/movies/daniel-espinosa-interview-action-sequences-sound-design-and-directing-safe-house/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Ryan-Lambie-Interview per Direktabruf gelesen: Espinosa verzichtete möglichst auch bei Action auf Storyboards, entwickelte Kamerapositionen aus Schauspiel und Raum; öffentliche Kapstädter Orte, Heat als Einfluss und Per Hallbergs Tongestaltung."
+        },
+        {
+          "key": "ct",
+          "url": "https://www.christianitytoday.com/2012/02/safehouse/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige im Suchindex wiedergegebene Kenneth-R.-Morefield-Kritik gelesen: Datenträger mit Beweisen gegen mehrere Nachrichtendienste, Westons Moralprobleme, Stadionsequenz und Besetzungen. Kritische Gesamtwertung nicht als Filmfakt übernommen."
+        },
+        {
+          "key": "sun",
+          "url": "https://lasvegassun.com/news/2012/feb/08/film-denzel-cant-save-safe-house/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesene konkrete Handlungsabschnitte der zeitgenössischen Kritik: Kapstadt, Weston als wartender Hausverwalter, Frost stellt sich im US-Konsulat zum Schutz vor seinen bewaffneten Verfolgern."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=63949e0fc8a72800161f695d&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen Datensatz im Suchindex gelesen: Originaltitel, Länder USA/ZA, Produktionsjahr 2011, Freigabedatum 10. April 2012. Produktionsjahr nicht als Erstveröffentlichung übernommen."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.co.uk/detail/news-photo/denzel-washington-and-ryan-reynolds-attend-the-safe-house-news-photo/138507591",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Dimitrios-Kambouris-Fotobeschriftung gelesen: Washington und Reynolds bei der Premiere im SVA Theater, New York, 7. Februar 2012. Kein aus dem Foto erfundener Filmhandlungsbeleg."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-031-L1",
+      "year_question_id": "G150-20261103-ACTION-031-Y",
+      "director_question_id": "G150-20261103-ACTION-031-D"
+    },
+    {
+      "id": "ACTION-032",
+      "film_title_de": "Der Mann, der niemals lebte",
+      "film_title_original": "Body of Lies",
+      "film_year": 2008,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Agentenfilm durch DiCaprio, Crowe und Scott; der einzelne deutsche Titel ist weniger fest verankert als deren größte Filmrollen.",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2008; New Yorker Premiere am 5. Oktober in den gelesenen Veröffentlichungseinträgen und Getty-Premierenbeschriftungen dokumentiert. US-Kinostart 10. Oktober 2008. Spätere europäische Premieren und Veröffentlichungsdaten sind nicht das Erstjahr.",
+      "director_note": "Alleinige Hauptregie Ridley Scott; William Monahan schrieb die Filmadaption von David Ignatius' Roman. Alexander Witt wird als Kameramann geführt, nicht als zweiter Hauptregisseur.",
+      "country_note": "USA nach den konkreten Filmdaten des Filmdienstes. Marokko diente als Drehort für mehrere Handlungsorte und wird daraus nicht als Produktionsland abgeleitet; auch britische Nationalität des Regisseurs begründet keinen Ländercredit.",
+      "series": null,
+      "series_note": "Eigenständige Romanverfilmung ohne belegte nummerierte Kinofortsetzung. Andere CIA-Filme Scotts gehören keiner gemeinsamen Figurenreihe an.",
+      "series_sources": [
+        "https://www.filmdienst.de/film/details/532008/der-mann-der-niemals-lebte",
+        "https://en.wikipedia.org/wiki/Body_of_Lies_(film)"
+      ],
+      "sources": [
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/532008/der-mann-der-niemals-lebte",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Filmdaten und zugängliche Kritik gelesen: USA 2008, Scott, Monahan/Ignatius getrennt, Darsteller, Ferris/Hoffman-Kontrast und Hani. Keine Filmreihe genannt."
+        },
+        {
+          "key": "voa",
+          "url": "https://www.voanews.com/amp/a-13-2008-10-10-voa11-66793547/373789.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Alan-Silverman-Bericht mit Primäraussagen von Crowe, DiCaprio und Scott gelesen: Rollen, Hani als jordanischer Geheimdienstchef, Fernsteuerung aus Virginia, Vertrauen und Verrat; Marokko als Drehort. Spätere Website-Datierung nicht als Erstjahr übernommen."
+        },
+        {
+          "key": "levy",
+          "url": "https://emanuellevy.com/interviews/body-of-lies-by-ridley-scott-2/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Interview-/Produktionsbericht per Direktabruf gelesen: Hani fordert Wahrhaftigkeit, fingierte Konkurrenzorganisation, unschuldiger Omar Sadiki, technische Manipulation durch Garland, Aishas Beruf, Scott/Monahan und Autor Ignatius. Produktionszitate nicht als mehrere unabhängige Quellen gezählt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Body_of_Lies_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung im Webabruf gelesen: Sadiki als unschuldiger Architekt, fingierte Aisha-Entführung durch Hani, Karami als eingeschleuster Helfer und Rettung/Festnahme. Carice van Houtens herausgeschnittene Figur nicht als sichtbare Besetzung verwendet."
+        },
+        {
+          "key": "awn",
+          "url": "https://www.awn.com/vfxworld/body-lies-atmospheric-vfx-spy-film",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Jack-Egan-Interview mit VFX-Supervisorin Sheena Duggal per Direktabruf gelesen: Washington D.C. als Amsterdam-Kulisse, digitale Explosion, reale TNT-Referenz, Kompositing mehrerer Ebenen und Marokko-Verfolgung. Keine vollständig reale Explosion in Amsterdam behauptet."
+        },
+        {
+          "key": "presse",
+          "url": "https://www.comingsoon.net/movies/news/49302-crowe-dicaprio-and-scott-address-their-body-of-lies/xwp_curated_content",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesenen Pressekonferenztext zu Telefonspiel, Monahan-Adaption, Arabischunterricht, Stuntarbeit und Scotts visueller Arbeitsweise ausgewertet. Primäraussagen der Beteiligten; Direktabruf liefert teils fremden Artikel, tatsächlich gelesener Text im Webindex maßgeblich."
+        },
+        {
+          "key": "buch",
+          "url": "https://www.caa.com/entertainmenttalent/books/author/david-ignatius/book/body-of-lies/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Agenturkatalogeintrag gelesen: David Ignatius, Veröffentlichung des Romans 16. April 2007, Verlage Norton/Quercus. Belegt den zeitlichen Abstand zum Film und keine Filmszenen."
+        },
+        {
+          "key": "premiere",
+          "url": "https://letterboxd.com/film/body-of-lies/releases/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Veröffentlichungsübersicht im Suchindex gelesen: New York 5. Oktober 2008, US-Start 10. Oktober; spätere London-/Paris-Termine getrennt. Getty-Premierenübersicht bestätigt New Yorker Rose Theater am 5. Oktober."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-032-L1",
+      "year_question_id": "G150-20261103-ACTION-032-Y",
+      "director_question_id": "G150-20261103-ACTION-032-D"
+    },
+    {
+      "id": "ACTION-033",
+      "film_title_de": "Spy Game – Der finale Countdown",
+      "film_title_original": "Spy Game",
+      "film_year": 2001,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: gut bekannter Spionagefilm mit Redford und Pitt; seine eigens erzählte Mentorenschüler-Beziehung trägt keine fortlaufende populäre Kinomarke.",
+      "directors": [
+        "Tony Scott"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland",
+        "Japan",
+        "Frankreich"
+      ],
+      "release_note": "Erstjahr 2001: Weltpremiere in Westwood/Los Angeles am 19. November durch zeitgenössische Getty-Beschriftung bestätigt, US-Kinostart 21. November. Deutscher Kinostart 14. März 2002 ist nicht das Erstjahr. Vereinzelte Datenbankanzeigen vom 18. November ändern das sichere Erstjahr nicht.",
+      "director_note": "Tony Scott alleinige Hauptregie; ursprünglich vorgesehener Mike van Diem kein zweiter Hauptregisseur. AFI trennt Drehbuch Michael Frost Beckner/David Arata und ursprüngliche Geschichte Michael Frost Beckner; zusätzliche Entwicklungsautoren des BFI-Sammeleintrags werden nicht zu Regisseuren.",
+      "country_note": "USA/Deutschland/Japan/Frankreich nach übereinstimmenden konkreten Filmkatalogen von AFI, BFI und Filmdienst. Das spanische ICAA-Register nennt abweichend allein Vereinigtes Königreich; Apple TV nennt alle fünf. Hier führen die drei ausführlichen Filmkataloge die vier Länder, der Widerspruch bleibt dokumentiert. Ungarn und Marokko sind Drehorte und daraus keine zusätzlichen Produktionsländer.",
+      "series": null,
+      "series_note": "Eigenständiger Kinofilm. Die späteren Romane des Mitautors über diese Figuren bilden keine weiteren Filmteile; gleichnamige Fernsehproduktionen werden nicht als Kinoreihe gezählt.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/spy-game",
+        "https://www.michaelfrostbeckner.com/news-and-events/spy-game-20th-anniversary-podcast"
+      ],
+      "sources": [
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/spy-game",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis und Credits vollständig per Direktabruf gelesen: Muir/Redford, Bishop/Pitt, Gefangennahme nach unerlaubter Mission, Zeitdruck, Regie Tony Scott, Veröffentlichungsjahr 2001."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/62212-SPY-GAME",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen im Suchindex wiedergegebenen Katalogeintrag gelesen: offizielle Besetzungen, Hauptregie, Drehbuch/Geschichte getrennt, Länder Frankreich/Japan/Deutschland/USA und Eröffnungen November 2001. Keine dort fehlende vollständige Handlung behauptet."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/b064c42d-5eb8-5b22-8bd5-b694c8b5bdbd/spy-game",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Film-Kurzeintrag gelesen: Deutschland/USA/Japan/Frankreich, Tony Scott, Redford/Pitt und Entwicklungsautoren. Hauptregie nicht mit Drehbuchentwicklung vermischt."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/516273/spy-game-der-finale-countdown",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige freie Filmdaten und Synopsis im Suchindex gelesen: vier Länder wie AFI/BFI, 2001, Hauptregie, Darsteller, 1991 als Handlungsgegenwart und Rückblendenstruktur. Heimkinoextras nicht als selbst gesichtet behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Spy_Game",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: Handelsabkommen, Hadleys frühere Auslieferung, Operation Dinner Out als persönliche Wiedererkennung, Rücklagen von 282.000 Dollar und Stromabschaltung. Keine falsche Gleichsetzung von Filmjahr und Handlungsjahr."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/spy-game-2001",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Kritik im Suchindex gelesen: letzte Dienstschicht, CIA will Handelsgespräche nicht gefährden, Pitt versucht McCormack zu befreien, Redford trägt Verantwortung für ihre Haft; Rückblenden und Credits. Fehlerhafte frühe Jahresangabe mancher Rückblenden nicht übernommen."
+        },
+        {
+          "key": "freshair",
+          "url": "https://freshairarchive.org/segments/spy-game",
+          "accessed_on": "2026-11-03",
+          "supports": "Den abgegrenzten Spy-Game-Abschnitt des John-Powers-Transkripts gelesen, einschließlich Filmtondialog über unangetastete Ruhestandsrücklagen und das Verbot, sich für einen Informanten zu opfern. Keine vollständige Sichtung oder Anhörung der Sendung behauptet."
+        },
+        {
+          "key": "musik",
+          "url": "https://filmmusic.com/content/article/?id=90",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges schriftliches Harry-Gregson-Williams-Interview gelesen: Scotts Unterstützung für die Besetzung, Zusammenarbeit an der Musikeinteilung, hohe Musikdichte, Bearbeitung des Rohschnitts und konkrete Gesangsarbeit für Beirut. Kein Audiokommentar als selbst gehört behauptet."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.com.au/detail/video/brad-pitt-at-the-spy-game-premiere-on-november-19-2001-news-footage/75674897",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige WireImage-Metadaten gelesen: Brad Pitt bei Premiere in Westwood am 19. November 2001. Video selbst nicht als gesichtet angegeben."
+        },
+        {
+          "key": "river",
+          "url": "https://www.festival-cannes.com/en/2017/a-river-runs-through-it-robert-redford-s-ode-to-nature/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Cannes-Essay gelesen: Robert Redford inszeniert A River Runs Through It 1992 mit Brad Pitt; später restaurierte Cannes-Classics-Fassung 2017 nicht mit Originaljahr verwechselt."
+        },
+        {
+          "key": "laenderabweichung",
+          "url": "https://sede.mcu.gob.es/CatalogoICAA/es-es/Peliculas/Detalle?Pelicula=107901",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Registereintrag im Suchindex gelesen: Großbritannien allein als Nationalität, spanische Zulassung/Veröffentlichung 2001 und Tony Scott. Widerspruch zu den drei konkreten Filmkatalogen ausdrücklich dokumentiert."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-033-L1",
+      "year_question_id": "G150-20261103-ACTION-033-Y",
+      "director_question_id": "G150-20261103-ACTION-033-D"
     }
   ],
   "series_updates": [
