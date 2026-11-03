@@ -2660,3 +2660,8 @@ Sechs japanische Fantasyfilme mit 48 neuen globalen Zielen; Fantasy jetzt 121, A
 #### Fortsetzung 03.11.2026 – W39
 
 Sechs Actionfilme mit 48 Fragen, 47 neuen globalen Zielen und einer bestehenden Stallone-Rollenvariante; Action jetzt 115. Vollständige zentrale und zusätzliche unabhängige Gegenlesung. Lock-Up-Motivablenker und Nachtfalken-Zeitanker 1981/1982 präzisiert; subjektiver Ton bei Cop Land, Point-Blanks Tonmontage und die Zughandlungen individuell erschlossen. Offizielle Hauptregie bei Nighthawks von frühen Umbesetzungen getrennt; Pelham-Schreibweise derselben Fassung ausdrücklich abgeglichen. Alle 1.952 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 78 Pakete / 17.247 Fragen / 16.554 Ziele; 257 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W40
+
+Komödie erreicht 150 Filme: sechs abschließende Komödien mit 48 Fragen, 45 neuen globalen Zielen und drei präzisen Bestandsvarianten. Vollständige zentrale und unabhängige Gegenlesung samt Primärquellenarbeit; politische/adlige Ablenker verbessert und King-of-Comedy-Lachen ohne ungesicherte Livepublikumsbehauptung formuliert. Isländische Kinoanzeige belegt Erstjahr 1982, Guard-Koproduktion aus zeitgenössischem Berlinale-Programm; Jahresvertiefungen mit Kurzfilmursprung 2000/2011 und Cannes/Oscar 2014/2015 verankert. Alle 2.000 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 79 Pakete / 17.295 Fragen / 16.599 Ziele; 251 Genreergänzungen offen.

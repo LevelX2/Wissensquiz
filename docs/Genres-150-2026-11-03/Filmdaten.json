@@ -15566,6 +15566,471 @@
       "reference_question_id": "G150-20261103-ACTION-015-L1",
       "year_question_id": "G150-20261103-ACTION-015-Y",
       "director_question_id": "G150-20261103-ACTION-015-D"
+    },
+    {
+      "id": "KOMOEDIE-016",
+      "film_title_de": "Eins, zwei, drei",
+      "film_title_original": "One, Two, Three",
+      "film_year": 1961,
+      "subdomain": "Komödie",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter Wilder-Klassiker mit deutschsprachigen Stars und langjähriger Wiederaufführungsgeschichte; außerhalb des klassischen Filmrepertoires weniger selbstverständlich bekannt.",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland"
+      ],
+      "release_note": "Öffentlicher Erststart am 15. Dezember 1961 in Los Angeles nach AFI und Filmportal. Der deutsche Start folgte ebenfalls 1961; spätere Wiederaufführung 1985 kein Erstjahr.",
+      "director_note": "Billy Wilder alleinige Hauptregie. I. A. L. Diamond schrieb mit; André Smagghe führte die zweite Einheit, Tom Pevsner assistierte. Diese Aufgaben begründen keinen gemeinsamen Hauptregiecredit.",
+      "country_note": "USA und damalige Bundesrepublik Deutschland ausdrücklich bei AFI und BFI. Andere Kataloge nennen verkürzt nur USA. Deutschland wird aufgrund dieser Werkklassifikationen geführt, nicht aus Drehorten abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständige Molnár-Adaption. Frühere Berliner Wilder-Filme und andere Zusammenarbeit mit Diamond gehören zu keiner fortlaufend nummerierten Filmhandlung.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/22928",
+        "https://www.tcm.com/articles/62601/one-two-three"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/22928",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Geschichtsnotiz, Werkdaten, Hauptcredits und Synopsis gelesen: Regie, zwei Länder, Molnár1929, Schwangerschaft, Umgestaltung, Erststart1961. Verlegung nach München bereits Juni; vereinfachte Erzählung vom erst durch den August-Mauerbau erzwungenen Umzug nicht übernommen."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/afcf4451-32e3-5e10-8a51-05af8fe6164b/one-two-three",
+          "accessed_on": "2026-11-03",
+          "supports": "Werkdaten und Hauptcredits gelesen: USA/Bundesrepublik Deutschland1961, Billy Wilder und Darsteller."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/62601/one-two-three",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werktext Paul Tataras gelesen: Cagney, Buchholz, Tiffin, Coca-Cola, Verwandlung des Schwiegersohns, temporeiche Regie, Sommerdrehs und Autorencredits."
+        },
+        {
+          "key": "beck",
+          "url": "https://san.beck.org/MM/1961/OneTwoThree.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen szenischen Handlungsbericht gelesen: Schwangerschaft, Freilassung, Adoption, geschäftliche Aufmachung und Pepsi-Schlusspointe. Teile der Aufzählung76/77 nicht als spezielle Produktionsfakten benutzt; konkrete Antwortziele anhand gelesener Szenen bestätigt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/One,_Two,_Three",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung, Besetzung, Produktions- und Musikabschnitt gelesen: verzerrt wiederholtes Itsy-Bitsy-Lied beim Verhör, Adoption und Pepsi am Ende. Pauschale Mauerbau-Umzugserklärung gegenüber datierter AFI-Chronologie nicht führend."
+        },
+        {
+          "key": "filmportal",
+          "url": "https://www.filmportal.de/film/one-two-three_dffbc876347f466eb5596f058fa0b796",
+          "accessed_on": "2026-11-03",
+          "supports": "Werkdaten, Titel, Erstaufführung und im Suchindex vollständig sichtbaren Rezensionstext gelesen: deutscher Verleihtitel, Dezember1961, Mauerbau und Wiederentdeckung1985. Private Nutzerrezension von Katalogdaten unterschieden."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/23961/eins-zwei-drei",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten freien Filmtext und Werkdaten im Suchindex gelesen: deutscher Titel, Hauptdarsteller, Schwangerschaft, kapitalistische Umgestaltung und Satire auf nationale Vorurteile."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-016-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-016-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-016-D"
+    },
+    {
+      "id": "KOMOEDIE-017",
+      "film_title_de": "Extrablatt",
+      "film_title_original": "The Front Page",
+      "film_year": 1974,
+      "subdomain": "Komödie",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Etablierte Wilder-Komödie des bekannten Lemmon-Matthau-Gespanns; weniger verbreitet als Ein seltsames Paar oder Manche mögen’s heiß.",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "New Yorker Start am 18. Dezember1974 nach AFI, Los Angeles20.Dezember. Universal nennt1974. Deutscher Start1975 und abweichender TCM-Artikeltitel1975 sind keine früheren Erstveröffentlichungen.",
+      "director_note": "Billy Wilder alleinige Hauptregie und mit I. A. L. Diamond Drehbuch. Carey Loftin leitete die zweite Einheit; keine gemeinsame Hauptregie.",
+      "country_note": "USA nach AFI, BFI und Filmdienst; Universal-Produktion mit kalifornischen Drehorten als Chicago der1920er.",
+      "series": null,
+      "series_note": "Eigenständige Neuverfilmung des Hecht/MacArthur-Stücks. The Front Page1931, His Girl Friday1940 und Wilder1974 sind alternative Adaptionen, keine aufeinanderfolgenden Abenteuer. Auch das Lemmon-Matthau-Duo begründet keine Filmreihe.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/67639-THE-FRONT-PAGE",
+        "https://www.tcm.com/articles/62600/the-front-page-1975"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67639",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Geschichtsnotiz, Werkdaten, Hauptcredits und vollständige Synopsis gelesen: USA1974, Dezemberstart, Rollen, Versteck, unterdrückter Aufschub, Uhrtrick und Epilog. Historische Fehler einzelner zeitgenössischer Kritiken nicht als Filmfehler übernommen."
+        },
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/the-front-page",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten freien offiziellen Filmtext und Werkdaten gelesen: Reporter vor Hochzeit, Burns hält ihn durch die Geschichte zurück; Regie, Besetzung, Jahr1974."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/62600/the-front-page-1975",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werktext Bret Woods gelesen: Pressevorlage1928, frühere Adaptionen, Wilder/Diamond, Organistin, berufliche Lockung, Vorspann mit Satz/Druck und historische Berufsromantik. Titeljahr1975 gegenüber im Text mehrfach1974 sowie AFI/Universal nicht führend."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/6201aa7a-48a1-5368-8304-f9156f42cae9/the-front-page",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Werkdaten und Hauptcredits im Suchindex gelesen: USA1974, Wilder, Monash, Diamond, Lemmon/Matthau/Sarandon."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/24569/extrablatt-1974",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten freien Filmtext, Werkdaten und Editionsbeschreibung im Suchindex gelesen: deutscher Titel, Schreibpultversteck, konkurrierende Zeitungen, frühere unabhängige Verfilmungen, deutscher Start1975. Werkstattgespräch auf Disc nicht angesehen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Front_Page_(1974_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Handlung, Besetzung und Produktionsabschnitt gelesen: Aufschub, falsche Uhrdiebstahlsanzeige, Sarandon und Periodenfilm. Irrtümliches Switching-Channels-Jahr1987 nicht verwendet; weitere Deutungen nicht als objektive Fakten übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-017-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-017-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-017-D"
+    },
+    {
+      "id": "KOMOEDIE-018",
+      "film_title_de": "King of Comedy",
+      "film_title_original": "The King of Comedy",
+      "film_year": 1982,
+      "subdomain": "Komödie",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Etablierter Scorsese/De-Niro-Film, dessen konkrete Medien- und Fan-Satire weniger selbstverständlich bekannt ist als Taxi Driver oder Goodfellas.",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "1982 durch zeitgenössische isländische Bíóhöllin-Anzeige belegt: Weltpremiere Samstag18.Dezember20:30 nur für geladene Gäste, anschließend alle Vorstellungen am nächsten Tag. Damit öffentliche Auswertung spätestens19.Dezember1982. AFI18.Februar1983 betrifft US-Start; Cannes1983 liegt ebenfalls später. Broadway-Lehrmaterial bestätigt den isländischen Dezemberstart ausdrücklich. Aktuelle isländische Filmdatenbank nennt19.Dezember, ihre beschädigten Castdaten werden nicht übernommen.",
+      "director_note": "Martin Scorsese alleinige Hauptregie. Paul D. Zimmerman schrieb das Drehbuch; Jerry Lewis’ Beiträge zu einzelnen Szenen und Darstellerführung ergeben keinen zweiten Hauptregiecredit.",
+      "country_note": "USA nach AFI, ACMI und Cannes. Isländischer Erststart begründet kein isländisches Produktionsland.",
+      "series": null,
+      "series_note": "Eigenständige Geschichte um Rupert Pupkin. Die Zusammenarbeit Scorsese/De Niro sowie Motivbezüge zu Taxi Driver oder Joker sind keine nummerierte Handlungsfortsetzung.",
+      "series_sources": [
+        "https://www.acmi.net.au/works/87269--the-king-of-comedy/",
+        "https://www.bfi.org.uk/lists/10-great-films-about-comedians"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/67056",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Geschichtsnotiz, Werkdaten, Hauptcredits und vollständige Synopsis gelesen: USA, Scorsese/Zimmerman, Pappfiguren und Showkulisse, Fantasien, Entführung, Dinner, Monolog. US-Start1983 nicht weltweit frühester Start; späteren Erfolgs-Epilog nicht als eindeutig reale Zukunft festgeschrieben."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/articles/88453/the-king-of-comedy",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Werktext Jeff Staffords gelesen, einschließlich wiedergegebener Aussagen Zimmermans und Scorseses: Lewis/Bernhard, Entführung, Verführungssequenz, Drehbuchentstehung und Besetzung. Pauschaler Medical-Charity-Zweck des Telethons nicht übernommen."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/lists/10-great-films-about-comedians",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen King-of-Comedy-Abschnitt im Suchindex gelesen: Regie,1982, erpresster TV-Auftritt, gleichermaßen komische und gefährliche Hauptfigur sowie spätere Neubewertung."
+        },
+        {
+          "key": "acmi",
+          "url": "https://www.acmi.net.au/works/87269--the-king-of-comedy/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten Werktext und Credits gelesen: Pupkin/De Niro, Langford/Lewis, wiederholte Abweisung, USA und Scorsese. Dortiges Jahr1983 betrifft konventionelle Katalogdatierung und widerlegt die konkrete isländische Auswertung nicht."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_King_of_Comedy_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Handlung, Hauptbesetzung und Produktionsdarstellung bis Drehbuchentstehung gelesen: unerbetener Landhausbesuch mit Rita, reales und fantasiertes Verhältnis, Publikumslachen beim Entführungsgeständnis. Krankheitsdiagnosen und eindeutige Realitätsbehauptung zum Schluss nicht übernommen."
+        },
+        {
+          "key": "anzeige",
+          "url": "https://i0.wp.com/the-avocado.org/wp-content/uploads/2024/11/KingOfComedyIcelandicNewspaperAd.jpg?quality=60&resize=542%2C1024&ssl=1",
+          "accessed_on": "2026-11-03",
+          "supports": "Reproduktion der vollständigen zeitgenössischen Bíóhöllin-Kinoanzeige visuell gelesen: Weihnachtsfilm1982, Weltpremiere Samstag18.Dezember20:30 nur geladene Gäste; alle Vorstellungen am nächsten Tag. Originalfundstelle https://timarit.is/page/1567189 direkt403; Abbildung vollständig sichtbar über belegenden Avocado-Artikel. Nicht behauptet, die eingeladene Premiere selbst sei frei zugänglich gewesen."
+        },
+        {
+          "key": "broadway",
+          "url": "https://www.broadway.org.uk/sites/default/files/attachments/excess_hollywood_notes_week_04.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Lehrmaterial Seite4 und5 gelesen: isländische Erstveröffentlichung18.Dezember1982, US-Start zwei Monate später; Scorsese, Lewis und Einfluss auf Joker. Übrige dortige Filme nicht als neue Wissensziele verwendet."
+        },
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/the-king-of-comedy/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Werktext und Hauptcredits im Suchindex gelesen, direkter Abruf403: USA, Scorsese, Zimmerman, Eröffnungsfilm und Wettbewerb1983."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-018-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-018-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-018-D"
+    },
+    {
+      "id": "KOMOEDIE-019",
+      "film_title_de": "Idiocracy",
+      "film_title_original": "Idiocracy",
+      "film_year": 2006,
+      "subdomain": "Komödie",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Weithin zitierte Kultsatire, deren Titel bekannter ist als viele konkrete Handlungsschritte und Nebenfiguren.",
+      "directors": [
+        "Mike Judge"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Kinostart1.September2006 nach AFI-Werkdaten. Drehs2004 und die Handlungsjahre2005/2505 sind keine Veröffentlichungsjahre. Keine gesicherte frühere öffentliche Auswertung in den gelesenen Quellen.",
+      "director_note": "Mike Judge alleinige Hauptregie, mit Etan Cohen Drehbuch. BFI-Schreibweise Ethan Coen ist gegenüber AFI-Credits unzutreffend; keine Mitregie eines Coen-Bruders.",
+      "country_note": "USA nach AFI und BFI. Zukunftsland und Texas-Drehorte werden von den Produktionsdaten unterschieden.",
+      "series": null,
+      "series_note": "Eigenständiger Langfilm. Wiederauftritte von Camacho in Werbe-/Kurzformaten oder politische Kampagnenideen ergeben keine nummerierte Langfilmfortsetzung; motivische Nähe zu Beavis and Butt-Head ebenfalls keine Handlungsreihe.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Idiocracy",
+        "https://freshairarchive.org/segments/mike-judge-finding-comic-extract-office"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/63881",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte vorhandene Werkdaten und Credits gelesen: USA,2006, Los-Angeles-Start1.September, Judge/Cohen und Cast. Kein ausführlicher AFI-Handlungstext vorhanden. Fehlerhafte1000-Jahre-Kurzsynopsis des separaten AFI-Streamingdatensatzes nicht übernommen."
+        },
+        {
+          "key": "silver",
+          "url": "https://silver.afi.com/movies/detail/0100000637/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten offiziellen Filmtext gelesen: durchschnittliche Versuchspersonen,500Jahre, LukeWilson/MayaRudolph, Judge/Cohen,USA2006 und Vergleich zu OfficeSpace1999. Aktueller Veranstaltungstermin2026 kein Erstjahr."
+        },
+        {
+          "key": "disney",
+          "url": "https://www.disneyplus.com/en-gb/browse/entity-8b471b15-b8c8-4d43-94e5-517ba1ea4b12",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten offiziellen Werktext und Credits im Suchindex gelesen: Armeebibliothekar wegen Durchschnittlichkeit ausgewählt, vergessenes Experiment,500Jahre,2006, MikeJudge und Cast."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/118ba61c-dcf7-564e-ac1b-e010dfd6cb52/idiocracy",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Werkdaten und Hauptcredits im Suchindex gelesen: USA2006 und Judge. Schreibfehler EthanCoen nicht führend verwendet."
+        },
+        {
+          "key": "freshair",
+          "url": "https://freshairarchive.org/segments/mike-judge-finding-comic-extract-office",
+          "accessed_on": "2026-11-03",
+          "supports": "Interviewtranskript-Abschnitt Zeilen678–800 einschließlich kompletter eingefügter Filmszene737–778 gelesen:500Jahre, angeblicher Höchst-IQ, zum Innenminister gemacht, mit Carl’sJr gesponserter Außenminister und Judges bestätigter Motivbezug zu Beavis/ButtHead. Übriges Interview nicht als vollständig ausgewertet behauptet."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=idiocracy",
+          "accessed_on": "2026-11-03",
+          "supports": "Transkriptabschnitte zum Beginn einschließlich Identitätserfassung bis Zeile844 und Brawndo-Debatte1541–1630 gelesen: Auswahl, NotSure-Maschine, Wasser/Elektrolyte. Auch Rückkehrhoffnung und Schlussattraktion anhand ausgewerteter Suchpassagen gegengeprüft; keine Behauptung eines vollständig gelesenen Gesamttranskripts oder angesehenen Films."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Idiocracy",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung und Besetzung gelesen: NotSure, Brawndo, Monstertruck-Rehabilitation, nur scheinbare Zeitmaschine. Biologische Zukunftsprämisse als Filmfiktion behandelt, nicht als empirische Aussage über Bevölkerungsgruppen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-019-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-019-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-019-D"
+    },
+    {
+      "id": "KOMOEDIE-020",
+      "film_title_de": "The Guard – Ein Ire sieht schwarz",
+      "film_title_original": "The Guard",
+      "film_year": 2011,
+      "subdomain": "Komödie",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Etablierte irische Festival- und Programmkinokomödie mit bekanntem Hauptdarstellerpaar; konkrete Nebenhandlungen weniger allgemein bekannt.",
+      "directors": [
+        "John Michael McDonagh"
+      ],
+      "production_countries": [
+        "Irland",
+        "Großbritannien",
+        "Argentinien"
+      ],
+      "release_note": "Weltpremiere beim Sundance-Festival im Januar2011, vor den Sommerkinostarts. Berlinale-/Filmdienst-Produktionsjahr2010 ist kein belegter öffentlicher Erststart. Sony-Erwerbsmitteilung25.Januar2011 bezeichnet den Film bereits als Sundance-Hit.",
+      "director_note": "John Michael McDonagh alleinige Hauptregie und Drehbuch. Bruder Martin McDonagh ist ausführender Produzent. Doppelte identische Regienennung im Tribeca-Seitenkopf kein zweiter Regisseur.",
+      "country_note": "Führend konkrete zeitgenössische Berlinale-Werkseite: Irland/Großbritannien/Argentinien, mit Reprisal-Koproduktionsadressen London und BuenosAires. Cineuropa/Filmdienst verkürzen auf Irland/UK; BFI nennt abweichend Irland/UK/USA/Deutschland. Keine ungeprüfte Vereinigung aller Länderlisten: über die detaillierte zeitgenössische Koproduktionsausweisung hinaus hier keineUSA/Deutschland übernommen.",
+      "series": null,
+      "series_note": "Eigenständiger erster Langfilm. Gerry war als frühe Figurenidee bereits im Kurzfilm The Second Death angelegt, damals GaryLydon; das begründet keine nummerierte Langfilmfortsetzung. Calvary mit Gleeson und spätere Regiearbeiten keine fortlaufende Boyle-Handlung.",
+      "series_sources": [
+        "https://www.sonyclassics.com/theguard/the_guard_presskit.pdf",
+        "https://player.bfi.org.uk/rentals/film/watch-the-guard-2011-online"
+      ],
+      "sources": [
+        {
+          "key": "presse",
+          "url": "https://www.sonyclassics.com/theguard/the_guard_presskit.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gedruckte Seiten1–10 einschließlich Synopsis, Credits, vollständigem Regiestatement und Produktions-/Figureninterviews bis zu Cheadles Rolle gelesen. Musikseite8 ausdrücklich Calexico/Morricone, Farben/Stilisierung, Kurzfilmursprung und Darsteller. Restliche Biografieseiten nicht als vollständig ausgewertet behauptet. Ergänzend die vollständigen zusammenhängenden Biografieabschnitte auf PDF-Seite12 und15 zum Kurzfilmjahr2000 gelesen, nicht die übrigen Biografien als Volllektüre behauptet."
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonyclassics.com/downloads/TheGuard-Release.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte offizielle Erwerbsmitteilung vom25.Januar2011 gelesen: Sundance, Boyle/Gleeson, FBI/Cheadle, allein JohnMichael, BruderMartin als ausführender Produzent sowie Produktionspartner."
+        },
+        {
+          "key": "sundance",
+          "url": "https://www.sundance.org/blogs/2011-sundance-film-festival-announces-films-in-competition-6/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Filmabschnitt im ausführlichen Suchindex gelesen: WorldPremiere2011, irischer Polizist und FBI-Agent, McDonagh, Cast. Frühere Bekanntgabe des Festivalprogramms nicht als Filmveröffentlichung gewertet."
+        },
+        {
+          "key": "berlinale",
+          "url": "https://www.berlinale.de/external/programme/archive/pdf/20113702.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte erste Druckseite144 einschließlich ausführlicher deutscher Synopsis, englischem Beginn, Länderzeile, Credits und Koproduktionsadressen im Suchindex gelesen; direkterAbruf503. Irland/UK/Argentinien,2010Produktion, Mordfoto-Erkennung und Korruption. Nicht die englische Fortsetzung auf Folgeseite als gelesen behauptet."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/e3633c46-cce8-5685-87a7-8154c8159d94/the-guard",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Werkdaten und Hauptcredits gelesen:2011, alleinJohnMichael. Abweichende vier Länder sichtbar dokumentiert und gegenüber zeitgenössischer detaillierter Koproduktionsausweisung nicht führend."
+        },
+        {
+          "key": "tribeca",
+          "url": "https://tribecafilm.com/festival/archive/512ce0051c7d76e0460006d0-guard",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten Filmtext und Credits im Suchindex gelesen: NewYorkPremiere2011, Boyle/Gleeson, Everett/Cheadle,500MillionenDrogen, stilisierte Innenräume und irische Küste. Doppelte identische Namenszeile nicht als Regieteam gewertet."
+        },
+        {
+          "key": "degeto",
+          "url": "https://www.degeto.de/film/the-guard-ein-ire-sieht-schwarz/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten offiziellen deutschen Filmtext und Werkdaten gelesen: deutscher Titel, getöteter Drogenhändler, FBI, Hauptbesetzung, Regie und2011. MusikschreibfehlerCalexio nicht übernommen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Guard_(2011_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung, Besetzung und Produktionsabschnitt gelesen: Cork als falsche Spur korrupter Beamter; Schluss mit Eugene, behauptete Olympiaplatzierung und offener Überlebensmöglichkeit. Weder reale Olympiateilnahme noch tatsächliche Rettung Boyles als gesichert behauptet."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/538019/the-guard-ein-ire-sieht-schwarz",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten freien Filmtext und Werkdaten im Suchindex gelesen: deutscher Titel, Krimikomödie, Produktionsjahr2010 gegenüber deutschem Start2011, irisch-britische Hauptproduktion. Produzentenliste nicht fälschlich als zusätzliche Regie übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-020-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-020-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-020-D"
+    },
+    {
+      "id": "KOMOEDIE-021",
+      "film_title_de": "Wild Tales – Jeder dreht mal durch!",
+      "film_title_original": "Relatos salvajes",
+      "film_year": 2014,
+      "subdomain": "Komödie",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "International bekannte Festival- und Programmkinosatire; Episoden und einzelne Stars haben Wiedererkennungswert, ohne durchgehend allgemein bekannt zu sein.",
+      "directors": [
+        "Damián Szifron"
+      ],
+      "production_countries": [
+        "Argentinien",
+        "Spanien"
+      ],
+      "release_note": "Erste öffentliche Festivalveröffentlichung in Cannes2014, vor ArgentinienAugust2014 und den deutschen/amerikanischen Starts2015. Produktionsjahr2014 durch Cannes und FSK bestätigt. Kein belegter früherer öffentlicher Start in den ausgewerteten Quellen.",
+      "director_note": "Damián Szifron führte sämtliche Episoden allein, schrieb und schnitt mit. Pedro/AgustínAlmodóvar und weitere Beteiligte sind Produzenten, kein Regieteam; eine missverständlich angeordnete Filmdienst-Liste wird nicht als zusätzliche Regie ausgelegt.",
+      "country_note": "Argentinien und Spanien ausdrücklich im Cannes-Werkdatensatz samt K&SFilms/ElDeseo, Filmdienst und FSK. US-VerleihSony und deutsche Auswertung begründen keine weiteren Produktionsländer.",
+      "series": null,
+      "series_note": "Sechs innerhalb eines Langfilms zusammengeführte eigenständige Episoden, keine nummerierte Filmfortsetzungsreihe. Andere Anthologien sind genannte Vorbilder und keine Vorgänger dieser Figuren.",
+      "series_sources": [
+        "https://www.sonyclassics.com/wildtales/",
+        "https://player.bfi.org.uk/subscription/film/watch-wild-tales-2014-online"
+      ],
+      "sources": [
+        {
+          "key": "sony",
+          "url": "https://www.sonyclassics.com/wildtales/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte Synopsis, vollständige Regienotiz, Regiebiografie und sechs Besetzungsgruppen gelesen: autonome Geschichten mit Rache/Katharsis/Kontrollverlust, Literatur-/Anthologieeinflüsse einschließlich Salingers NineStories, Filmografie und Rivas in Hochzeitsepisode. PressePDF nicht erfolgreich geladen und nicht als gelesen ausgegeben."
+        },
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/relatos-salvajes/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Werktext samt Credits/Produktionspartnern gelesen: Wettbewerb2014, Argentinien/Spanien, Szifron alleinRegie/Drehbuch und mitPabloBarbieriSchnitt; AlmodóvarsProduktion."
+        },
+        {
+          "key": "bfi",
+          "url": "https://player.bfi.org.uk/subscription/film/watch-wild-tales-2014-online",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten freien Filmtext und Hauptcredits gelesen: sechs unverbundene Geschichten,2014, Autor/Regisseur, Gesellschaftsziele. Fehlerhafte Zahl12 in anderer BFI-Watchlist ausdrücklich nicht übernommen."
+        },
+        {
+          "key": "cheshire",
+          "url": "https://www.rogerebert.com/reviews/wild-tales-2015",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Kritik GodfreyCheshires vom20.Februar2015 mit allen sechs Episoden und Credits im Suchindex gelesen; direkterAbruf403. Flugpassagiere mit gemeinsamer Vergangenheit, Bombita-Auslöser, Hochzeitsentdeckung und zusammenhängende Autorenform. Kopfjahr2015 ist späterer US-Start."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Wild_Tales_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige sechs Filmhandlungen und Besetzung gelesen: Rivas/Romina, Flugverbindung, Simóns Abschleppkonflikt und verkohlte ineinander verschlungene Fahrer als vermeintliche Liebende. Detailabweichungen zu Alters-/Autotypen nicht zu Lernzielen gemacht."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/545036/wild-tales-jeder-dreht-mal-durch",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten freien Werktext und Werkdaten im Suchindex gelesen: deutscher Titel, sechs Episoden, Argentinien/Spanien2014, deutscherStart8.Januar2015, Regiecredits gegenüber Produzenten unterschieden."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=639440d8c8a72800161f4221&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten offiziellen Werktext und Credits im Suchindex gelesen: sechs eigenständige Episoden, deutscher Titel, Originaltitel, Argentinien/Spanien2014 und Szifron. FSK-Heimkino-Freigabe2015 kein Erstjahr."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/2015",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen Verleihungsrahmen22.Februar2015 für Filme2014 und vollständigen AbschnittForeignLanguageFilm gelesen:WildTales fürArgentinien nominiert,Ida/Polen gewinnt. ÜbrigePreisgruppen nicht als eigenständig für diesen Film ausgewertet behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-KOMOEDIE-021-L1",
+      "year_question_id": "G150-20261103-KOMOEDIE-021-Y",
+      "director_question_id": "G150-20261103-KOMOEDIE-021-D"
     }
   ],
   "series_updates": [
