@@ -2670,3 +2670,8 @@ Komödie erreicht 150 Filme: sechs abschließende Komödien mit 48 Fragen, 45 ne
 #### Fortsetzung 03.11.2026 – W41
 
 Sechs Horrorfilme mit 48 neuen globalen Zielen; Horror jetzt 121. Vollständige unabhängige Gegenlesung der Agentenredaktion und nachgelesene Regie-/Darstellerinterviews. Figurenkörper und Identitäten in Skeleton Key klar getrennt; Dagon-Herkunft und Open-Water-Fiktion gegenüber tatsächlichem Ausgangsfall erklärt. Hamptons2003 vor Sundance2004, zwei Hughes-Regisseure vollständig und Open Water als ausdrücklich lose Vertriebsfolge belegt. Alle 2.048 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 80 Pakete / 17.343 Fragen / 16.647 Ziele; 245 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W42
+
+Sechs Abenteuerfilme mit 48 neuen globalen Zielen; Abenteuer jetzt 145. Vollständige zentrale und unabhängige Gegenlesung samt gezielter Quellenverbreiterung über eigene Filmkritiken, originale Produktionsunterlagen, Vor-Ort-Berichte und Künstlerarchive. Zwei Antwortgruppen vergleichbarer gefasst und Figuren-Erstnennungen ergänzt. Schauplätze gegenüber Drehorten und historische Vorbilder gegenüber Filmfiktion getrennt; Länderwidersprüche bei Der Bär/Rapa Nui sichtbar begründet. Alle 2.096 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 81 Pakete / 17.391 Fragen / 16.695 Ziele; 239 Genreergänzungen offen.

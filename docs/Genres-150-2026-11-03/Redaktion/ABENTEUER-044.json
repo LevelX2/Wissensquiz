@@ -1,0 +1,271 @@
+{
+  "id": "ABENTEUER-044",
+  "film_title_de": "Am Anfang war das Feuer",
+  "film_title_original": "La Guerre du feu",
+  "film_year": 1981,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Markanter prähistorischer Abenteuerfilm; die Lernprozesse der Figuren und die konstruierte Sprache gehören eher zum Filmkennerwissen.",
+  "selection_reason": "Eine Reisegeschichte, in der Begegnungen und übertragbares Wissen die Rückkehr verändern. Die erzählte Vorzeit wird als filmische Fiktion behandelt, nicht als gesicherte Rekonstruktion menschlicher Entwicklung.",
+  "directors": [
+    "Jean-Jacques Annaud"
+  ],
+  "production_countries": [
+    "Kanada",
+    "Frankreich"
+  ],
+  "release_note": "Erststart am 16. Dezember 1981 in Frankreich laut CNC und Regisseurwebsite. Die nordamerikanische Auswertung 1982 ersetzt dieses Erstjahr nicht.",
+  "director_note": "Alleiniger Gesamtregiecredit Jean-Jacques Annaud. Gérard Brach schrieb das Drehbuch; Anthony Burgess und Desmond Morris berieten Sprache und Verhalten.",
+  "country_note": "Kanada/Frankreich nach CNC und BnF. Manche Datenbanken nennen zusätzlich USA; Gaumonts Kurzangabe führt nur Frankreich. Die vollständige französisch-kanadische Werkangabe der beiden nationalen Institutionen wird bevorzugt.",
+  "series": null,
+  "series_note": "Eigenständige Bearbeitung von Rosny aînés Roman. Weitere prähistorische Filme sind keine nummerierten Fortsetzungen dieser Geschichte.",
+  "series_sources": [
+    "https://jjannaud.com/en/quest-for-fire-f3",
+    "https://catalogue.bnf.fr/ark:/12148/cb16678356v"
+  ],
+  "sources": {
+    "annaud": {
+      "url": "https://jjannaud.com/en/quest-for-fire-f3",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene offizielle Filmseite: Erststart, Regie, Hauptrollen und Zuordnung, bewahrtes Feuer ohne Herstellung, Ika als Wissensvermittlerin, Berater und Drehorte. Die dortigen biologischen Stammeszuordnungen sind keine wissenschaftlichen Quizbehauptungen."
+    },
+    "cnc": {
+      "url": "https://www.cnc.fr/professionnels/visas-et-classification?visa=049261",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Werkdatensatz: Annaud, Kanada/Frankreich und französischer Kinostart 16. Dezember 1981."
+    },
+    "bnf_film": {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb16678356v",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener bibliografischer Filmindex: Frankreich/Kanada, 1981, Start 16. Dezember, Annaud und Romanadaption."
+    },
+    "gaumont": {
+      "url": "https://www.gaumont.com/fr/film/la-guerre-du-feu",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Verleihsynopsis: verlorenes, nur bewahrtes Feuer, Aufbruch dreier Männer, fremde Gruppen und Erwerb des Wissens; Regie und Hauptdarsteller."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Quest_for_Fire_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige Handlung: Ika als befreite Gefangene der Kzamm, Mammutherde, Ivaka, Feuerbohrer, Speerschleudern und erneutes Erlöschen bei der Rückkehr. Nameer El-Kadi/Nicholas Kadi sind Namensvarianten desselben Gaw-Darstellers."
+    },
+    "sprache": {
+      "url": "https://www.anthonyburgess.org/quest-for-fire/quest-for-language/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Ausstellungsbeitrag anhand der Burgess-Archive: erfundene Ulam-Sprache, Wörterbuch, Sprachwurzeln, fehlende Untertitel und Zusammenarbeit mit Desmond Morris bei Gesten."
+    },
+    "bnf_roman": {
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb31247642z",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener originaler bibliografischer Datensatz zu Rosny aînés Roman: Ausgabe E. Fasquelle, Paris 1911."
+    },
+    "titel": {
+      "url": "https://de.wikipedia.org/wiki/Am_Anfang_war_das_Feuer",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener deutscher Titel-/Originaltitelabgleich und Hauptrollen; abweichende Länder- und biologische Stammesangaben nicht ungeprüft übernommen."
+    },
+    "bilderarchiv": {
+      "url": "https://www.anthonyburgess.org/quest-for-fire/quest-in-pictures/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Ausstellungstext samt originalen Ernst-Haas-Portfolio-Beschriftungen aus dem Burgess-Archiv gelesen: Ika als Gefangene der Kannibalen, Befreiung, Naoh und Feuerkenntnisse. Die historischen biologischen Gruppenzuordnungen der damaligen Filmwerbung nicht als Archäologie übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Everett McGill spielt Naoh, einen der aufbrechenden Ulam-Krieger.",
+      "question": "Wer spielt in „Am Anfang war das Feuer“ den Krieger Naoh, der die gefährliche Reise mit Amoukar und Gaw unternimmt?",
+      "answers": [
+        "Everett McGill",
+        "Ron Perlman",
+        "Brian Thompson",
+        "Michael Biehn"
+      ],
+      "short": "Everett McGill spielt Naoh.",
+      "context": "Naoh (Everett McGill) zieht mit Amoukar (Ron Perlman) und Gaw (Nicholas Kadi) los, nachdem die Gemeinschaft ihre bewahrte Flamme verloren hat. Die drei können Feuer nutzen, aber keines selbst entzünden. Ihre Suche führt sie zu anderen Gruppen, deren Fähigkeiten und Lebensweisen sich von den eigenen unterscheiden. Naoh begegnet dabei auch Ika (Rae Dawn Chong).",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "handlung",
+        "bilderarchiv"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Reisenden begegnen Ika als Gefangener der kannibalischen Kzamm.",
+      "question": "In welcher Lage begegnen die drei Reisenden Ika (Rae Dawn Chong) erstmals in „Am Anfang war das Feuer“?",
+      "answers": [
+        "Sie ist Gefangene einer kannibalischen Gruppe.",
+        "Sie führt eine Gruppe bewaffneter Jäger an.",
+        "Sie bewacht den Zugang zum Dorf ihrer Familie.",
+        "Sie lebt nach einem Streit allein in einer Felshöhle."
+      ],
+      "short": "Ika gehört zu den Gefangenen der Kzamm.",
+      "context": "Die Reisenden stoßen auf das Feuer der Kzamm und befreien deren gefesselte Gefangene. Ika (Rae Dawn Chong) überlebt und schließt sich ihnen an. Sie versorgt die Verletzung Naohs (Everett McGill) mit Pflanzen. Später wird sie selbst zur Wegweiserin, weil die Gruppe in die Nähe ihrer eigenen Gemeinschaft gelangt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "bilderarchiv"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Naoh nähert sich einem Mammut mit Gras; die Herde vertreibt anschließend die Verfolger.",
+      "question": "Wie gewinnt Naoh (Everett McGill) beim Zusammentreffen mit der Mammutherde in „Am Anfang war das Feuer“ einen Ausweg vor den Verfolgern?",
+      "answers": [
+        "Er bietet dem großen Mammut Gras an und nähert sich der Herde.",
+        "Er versetzt die Herde durch einen Brand in Panik.",
+        "Er lockt die Tiere mit einem erlegten Beutetier zu den Gegnern.",
+        "Er ahmt den Ruf eines Mammutkalbs nach."
+      ],
+      "short": "Naoh bietet dem Mammut Gras an und findet Schutz bei der Herde.",
+      "context": "Die Kzamm haben die Gruppe erneut entdeckt. Als die Mammuts erscheinen, nähern sich Naoh (Everett McGill) und seine Begleiter ihnen, statt anzugreifen. Das große Tier nimmt das angebotene Gras an. Die Herde treibt schließlich die Verfolger auseinander und eröffnet den Reisenden einen Weg aus der Bedrohung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ika erzeugt nach dem erneuten Erlöschen der Flamme mit einem Feuerbohrer neues Feuer.",
+      "question": "Wie überwindet Ika (Rae Dawn Chong) das erneute Erlöschen der Flamme am Ende von „Am Anfang war das Feuer“?",
+      "answers": [
+        "Sie entzündet mit einem Feuerbohrer neues Feuer.",
+        "Sie holt verborgene Glut aus einem mitgebrachten Gefäß.",
+        "Sie schlägt mit zwei Steinen Funken in trockenes Gras.",
+        "Sie findet im verkohlten Holz des alten Lagers noch ein Glutnest."
+      ],
+      "short": "Ika führt vor, wie mit einem Feuerbohrer neues Feuer entsteht.",
+      "context": "Bei der Feier der Heimkehr geht die mühsam transportierte Flamme nochmals verloren. Naoh (Everett McGill) versucht, die bei den Ivaka beobachtete Technik nachzuahmen, scheitert aber zunächst. Ika (Rae Dawn Chong) übernimmt den Vorgang. Die Rückkehr bringt dadurch mehr als einen Ersatz für das verlorene Feuer: Das Wissen kann in der Gemeinschaft bleiben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "gaumont",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die von den Ivaka übernommenen Speerschleudern helfen gegen Rivalen aus der eigenen Gemeinschaft.",
+      "question": "Welche bei den Ivaka kennengelernte Waffe hilft Naohs (Everett McGill) Gruppe kurz vor der Heimkehr in „Am Anfang war das Feuer“ gegen Rivalen?",
+      "answers": [
+        "Speerschleudern",
+        "Pfeil und Bogen",
+        "Geschleuderte Steinbolas",
+        "Geschärfte Wurfkeulen"
+      ],
+      "short": "Die Gruppe setzt Speerschleudern ein.",
+      "context": "Die Gefahr kommt kurz vor dem Ziel aus der eigenen Gemeinschaft: Rivalen wollen den Reisenden die Flamme abnehmen und den Erfolg für sich beanspruchen. Die bei den Ivaka erlernte Waffentechnik verschafft Naoh (Everett McGill) und seinen Begleitern einen Vorteil. Die Begegnung mit der anderen Gruppe hat somit auch ihre Verteidigungsmöglichkeiten verändert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Anthony Burgess entwickelte die erfundene Ulam-Sprache des Films.",
+      "question": "Welcher Schriftsteller entwickelte die erfundene Ulam-Sprache für „Am Anfang war das Feuer“?",
+      "answers": [
+        "Anthony Burgess",
+        "Samuel R. Delany",
+        "Brian Aldiss",
+        "J. G. Ballard"
+      ],
+      "short": "Anthony Burgess entwickelte Ulam.",
+      "context": "Anthony Burgess entwarf ein Wörterbuch und verband Laute mit Gesten; bei den Körperbewegungen arbeitete er mit Desmond Morris zusammen. Für seine Spekulation über eine alte Sprache griff er auf verschiedene Sprachwurzeln zurück. Da der Film ohne übersetzende Untertitel auskommt, müssen die Zuschauer Verständigung aus Lauten, Bewegungen und Handlung erschließen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sprache",
+        "annaud"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Am Anfang war das Feuer erschien erstmals 1981.",
+      "question": "In welchem Jahr erschien „Am Anfang war das Feuer“ mit Everett McGill und Rae Dawn Chong erstmals?",
+      "answers": [
+        "1981",
+        "1974",
+        "1978",
+        "1986"
+      ],
+      "short": "Am Anfang war das Feuer erschien 1981.",
+      "context": "Der Film kam 1981 heraus, siebzig Jahre nach Rosny aînés Roman „La Guerre du feu“, der 1911 bei Fasquelle erschien. Gérard Brach bearbeitete die Vorlage für die Leinwand. Annauds Film erzählt keine archäologisch nachgewiesene einzelne Expedition, sondern bündelt Begegnungen, Gefahren und kulturelle Lernprozesse zu einem prähistorischen Abenteuer.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cnc",
+        "bnf_roman",
+        "annaud",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Jean-Jacques Annaud führte bei Am Anfang war das Feuer Regie.",
+      "question": "Wer führte bei „Am Anfang war das Feuer“ Regie?",
+      "answers": [
+        "Jean-Jacques Annaud",
+        "Peter Weir",
+        "Werner Herzog",
+        "John Boorman"
+      ],
+      "short": "Jean-Jacques Annaud führte Regie.",
+      "context": "Jean-Jacques Annaud ließ in Kenia, Schottland und Kanada drehen. Diese Landschaften bilden gemeinsam eine erfundene Welt der Vorzeit. Gérard Brachs Drehbuch und die Arbeit der Sprach- und Verhaltensberater schaffen darin die Unterschiede zwischen den Gruppen. Die örtliche Vielfalt der Aufnahmen ist daher keine Reiseroute, die die Figuren im Film ausdrücklich benennen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "sprache"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

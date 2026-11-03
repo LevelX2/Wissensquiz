@@ -1,0 +1,246 @@
+{
+  "id": "ABENTEUER-043",
+  "film_title_de": "Der Bär",
+  "film_title_original": "L'Ours",
+  "film_year": 1988,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "International breit bekanntes Tierabenteuer mit markanter Bildwelt; einzelne Begegnungen und die filmische Gestaltung verlangen nähere Kenntnis.",
+  "selection_reason": "Wildnisabenteuer aus der Tierperspektive mit Jagd, Fürsorge und dem Verzicht auf Tötung als zentralen Vorgängen.",
+  "directors": [
+    "Jean-Jacques Annaud"
+  ],
+  "production_countries": [
+    "Frankreich"
+  ],
+  "release_note": "Erstveröffentlichung am 19. Oktober 1988 in Frankreich laut Regisseurwebsite, CNC und Unifrance; der nordamerikanische Start 1989 bestimmt nicht das Erstjahr.",
+  "director_note": "Alleiniger Gesamtregiecredit Jean-Jacques Annaud. Der gesonderte Animation Director Břetislav Pojar wird nicht als Mitregisseur des gesamten Spielfilms geführt.",
+  "country_note": "CNC führt Frankreich; dieser nationalen Werkangabe wird gefolgt. Unifrance nennt im technischen Datensatz zusätzlich USA als Koproduktionsland. Diese abweichende Erfassung bleibt hier sichtbar; internationale Drehorte begründen keine weiteren Produktionsländer.",
+  "series": null,
+  "series_note": "Eigenständige Bearbeitung von The Grizzly King. Andere Tierfilme Annauds sind keine nummerierten Fortsetzungen dieser Geschichte.",
+  "series_sources": [
+    "https://jjannaud.com/en/the-bear-f5"
+  ],
+  "sources": {
+    "annaud": {
+      "url": "https://jjannaud.com/en/the-bear-f5",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene offizielle Filmseite: Start, Regie, Waisenkind, Wundenlecken und Freundschaft, Karyo/Wallace, Curwood-Vorlage, Tiertrainer, gesonderte Animation und internationale Drehorte."
+    },
+    "cnc": {
+      "url": "https://www.cnc.fr/professionnels/visas-et-classification/56716",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Werkdatensatz L OURS: Regie Annaud, Land Frankreich, Visa vom 18. Oktober und Kinostart vom 19. Oktober 1988."
+    },
+    "unifrance": {
+      "url": "https://en.unifrance.org/movie/8055/the-bear",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene technische Daten: 1988, französischer Start, abweichend USA/Frankreich. Der About-Abschnitt ist selbst als Wikipedia-Übernahme gekennzeichnet und gilt nicht als unabhängige zweite Handlungsquelle."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Bear_(1988_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene vollständige Handlung: Tod der Mutter, Wundenlecken, Tom am Wasserfall, Verschonung und Freilassung des Jungen, Puma-Begegnung und Winterhöhle; Tierdarsteller Bart/Youk und Menschenrollen."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/10-great-nolow-dialogue-films",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Bear-Abschnitt: kaum menschlicher Dialog, Tierperspektive, Halluzinationen nach Pilzen und Verbindung zu Quest for Fire von 1981."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ein Steinschlag tötet die Mutter des Bärenjungen.",
+      "question": "Wie verliert das Bärenjunge zu Beginn von „Der Bär“ seine Mutter?",
+      "answers": [
+        "Sie wird von herabstürzenden Felsen erschlagen.",
+        "Sie wird von einem Jäger erschossen.",
+        "Sie ertrinkt bei einem Flussübergang.",
+        "Sie stirbt nach dem Kampf mit einem anderen Bären."
+      ],
+      "short": "Die Mutter wird bei einem Steinschlag getötet.",
+      "context": "Das Junge, gespielt vom Bären Youk, sucht mit seiner Mutter nach Honig. Der Steinschlag beendet dieses geschützte Zusammenleben abrupt. Danach muss das unerfahrene Tier allein Nahrung und einen Schlafplatz finden. Erst die spätere Begegnung mit einem großen, zunächst abweisenden Männchen eröffnet ihm eine neue Form von Schutz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Tchéky Karyo spielt den Jäger Tom.",
+      "question": "Wer spielt in „Der Bär“ den Jäger Tom, dessen Haltung zu seiner Beute sich im Verlauf der Jagd verändert?",
+      "answers": [
+        "Tchéky Karyo",
+        "Jean Reno",
+        "Gérard Lanvin",
+        "Daniel Auteuil"
+      ],
+      "short": "Tchéky Karyo spielt Tom.",
+      "context": "Tom (Tchéky Karyo) verfolgt den großen Bären gemeinsam mit Bill (Jack Wallace). Ein Schuss verletzt das Tier, beendet die Jagd aber nicht. Mit Hunden setzen die Männer die Verfolgung fort und nehmen später das Junge gefangen. Die Geschichte lässt Tom schließlich selbst erleben, wie es ist, einem stärkeren Gegenüber schutzlos ausgeliefert zu sein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Das Junge gewinnt den großen Bären durch das Lecken seiner Schusswunde für sich.",
+      "question": "Welche Handlung des Jungen trägt in „Der Bär“ entscheidend dazu bei, dass das große Männchen es annimmt?",
+      "answers": [
+        "Es leckt die Schusswunde des großen Bären.",
+        "Es lockt die verfolgenden Hunde vom großen Bären weg.",
+        "Es öffnet eine Falle, in der der große Bär feststeckt.",
+        "Es bringt dem großen Bären einen selbst gefangenen Fisch."
+      ],
+      "short": "Das Junge leckt seine Wunde.",
+      "context": "Der große Bär, gespielt von Bart, weist den kleinen Begleiter zunächst ab. Nach seiner Verletzung durch einen Jäger bleibt das Junge dennoch bei ihm und leckt die Wunde. Daraus entwickelt sich eine Bindung: Der Erwachsene lässt es an seiner Erfahrung teilhaben, etwa bei der Nahrungssuche, und bietet ihm Schutz vor Gefahren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der große Bär verschont Tom, der danach selbst auf den tödlichen Schuss verzichtet.",
+      "question": "Welche Begegnung verändert Toms (Tchéky Karyo) Verhalten gegenüber seiner Beute in „Der Bär“?",
+      "answers": [
+        "Der Bär verschont ihn, als er ohne Gewehr am Wasserfall steht.",
+        "Er beobachtet, wie der Bär einen verletzten Jagdhund schützt.",
+        "Er findet den Bären mit einer durch Hunger geschwächten Partnerin.",
+        "Der Bär zieht ihn nach einem Sturz aus einem reißenden Fluss."
+      ],
+      "short": "Der Bär lässt den wehrlosen Tom am Leben.",
+      "context": "Tom (Tchéky Karyo) legt für den Gang zum Wasser sein Gewehr ab. Als der große Bär ihn stellt, kann er sich nicht verteidigen. Das Tier zieht sich zurück. Tom holt zwar seine Waffe, schießt dann aber in die Luft und hält anschließend auch Bill (Jack Wallace) vom Schuss ab. Das gefangene Junge wird freigelassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Puma flieht vor dem zurückkehrenden großen Bären hinter dem Jungen.",
+      "question": "Warum weicht der Puma beim späten Angriff auf das Junge in „Der Bär“ schließlich zurück?",
+      "answers": [
+        "Der große Bär ist hinter dem Jungen wieder aufgetaucht.",
+        "Tom gibt aus der Ferne einen Warnschuss ab.",
+        "Die zurückkehrenden Jagdhunde kreisen den Puma ein.",
+        "Eine umstürzende Baumkrone trennt den Puma vom Jungen."
+      ],
+      "short": "Der zurückkehrende große Bär vertreibt den Puma.",
+      "context": "Nach seiner Freilassung ist das Junge wieder allein und wird von einem Puma bedrängt. Seine Gegenwehr wirkt gegen das größere Raubtier aussichtslos. Dass der Angreifer schließlich zurückweicht, liegt am erwachsenen Beschützer, der wieder erscheint. Später ziehen sich die beiden Bären gemeinsam in eine Höhle zum Winterschlaf zurück.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Pilzepisode nutzt halluzinatorische Bilder für die Wahrnehmung des Jungen.",
+      "question": "Welche Gestaltung nutzt „Der Bär“, nachdem das Junge Pilze gefressen hat?",
+      "answers": [
+        "Verfremdete Bilder lassen seine Halluzinationen sichtbar werden.",
+        "Rasche Rückblenden zeigen nochmals die Augenblicke beim Steinschlag.",
+        "Bilder aus Toms Vorstellung lassen das Tier als gefährliches Ungeheuer erscheinen.",
+        "Eine Folge verschwommener Naturaufnahmen bildet seinen anschließenden Schlaf ab."
+      ],
+      "short": "Halluzinatorische Bilder versetzen die Zuschauer in die Wahrnehmung des Jungen.",
+      "context": "Der Film erzählt weitgehend ohne menschliche Gespräche und richtet die Aufmerksamkeit auf die Tiere. Bei der Pilzepisode verlässt die Darstellung den scheinbar beobachtenden Blick besonders deutlich. Die verfremdeten Wahrnehmungsbilder geben dem Jungen ein subjektives Erleben. Sie gehören zur gestalteten Fiktion und sind keine dokumentarische Aufzeichnung eines Bärentraums.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Bär wurde 1988 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Der Bär“ mit Tchéky Karyo erstmals?",
+      "answers": [
+        "1988",
+        "1981",
+        "1985",
+        "1993"
+      ],
+      "short": "Der Bär erschien 1988.",
+      "context": "Der Film erschien 1988. Sieben Jahre zuvor hatte Jean-Jacques Annaud mit „Am Anfang war das Feuer“ von 1981 bereits ein Abenteuer ohne moderne menschliche Sprache gestaltet. Hier verlagert er die Wahrnehmung noch weiter: Nur die wenigen Menschen sprechen, während das Überleben und die Beziehungen der Tiere den größten Teil der Erzählung tragen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "cnc",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Jean-Jacques Annaud führte bei Der Bär Regie.",
+      "question": "Wer führte bei „Der Bär“ mit Tchéky Karyo Regie?",
+      "answers": [
+        "Jean-Jacques Annaud",
+        "Jacques Perrin",
+        "Luc Besson",
+        "Nicolas Vanier"
+      ],
+      "short": "Jean-Jacques Annaud führte Regie.",
+      "context": "Jean-Jacques Annaud inszenierte Gérard Brachs Drehbuch nach James Oliver Curwoods „The Grizzly King“. Für die Tierarbeit waren mehrere Trainer und zoologische Berater beteiligt. Die kanadische Wildnis entstand an Drehorten in den Dolomiten und weiteren Ländern. Der Eindruck unmittelbarer Naturbeobachtung beruht somit auf einer aufwendig organisierten Spielfilmproduktion.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annaud",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
