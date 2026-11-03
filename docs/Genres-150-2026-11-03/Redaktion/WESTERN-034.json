@@ -1,0 +1,237 @@
+{
+  "id": "WESTERN-034",
+  "film_title_de": "Land der tausend Abenteuer",
+  "film_title_original": "North to Alaska",
+  "film_year": 1960,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Waynes komischer Goldgräberwestern ist im klassischen Genrekino bekannt, die Verwechslungen und das Minenkomplott sind weniger geläufig.",
+  "selection_reason": "Der Northern verlegt den Western in die Goldgräberstadt Nome. Besitzkonflikte, Saloonkämpfe und ein ungebundener Held verbinden sich mit einer turbulenten Liebesgeschichte.",
+  "directors": [
+    "Henry Hathaway"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1960; AFI dokumentiert den Start in Los Angeles am 3. November und in New York am 10. November 1960.",
+  "director_note": "Offizieller Regiecredit Henry Hathaway, bestätigt durch AFI und TCM. Richard Fleischer war zuvor vorgesehen; Richard Talmadge leitete die zweite Einheit. Anderswo angeführte ungenannte Mitwirkung Waynes wird nicht zum offiziellen Hauptregieteam erweitert.",
+  "country_note": "US-Produktion von Twentieth Century-Fox; Alaska ist Schauplatz, wichtige Außenaufnahmen entstanden in Kalifornien.",
+  "series": null,
+  "series_note": "Eigenständige Adaption des unaufgeführten Stücks Birthday Gift; keine nummerierte Filmfortsetzung belegt.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/53235-NORTH-TO-ALASKA"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/53235-NORTH-TO-ALASKA",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Cast: Sam/George, Nome, Jennys Heirat, Michelles Missverständnis, falscher Diamant, Boggs/Canon und Minenanspruch; Credits, erste Starts und Produktionsverschiebung wegen The Alamo."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/385057/north-to-alaska",
+      "accessed_on": "2026-11-03",
+      "supports": "David Sterritts Essay: Northern/Westernkomödie, Handlung 1900, Hauptfiguren, Hathaway nach Fleischer, Autorenstreik und Waynes Alamo-Projekt 1960."
+    },
+    "alamo": {
+      "url": "https://catalog.afi.com/Film/53074-THE-ALAMO",
+      "accessed_on": "2026-11-03",
+      "supports": "The Alamo 1960, John Wayne als Regisseur und Hauptdarsteller."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "John Wayne spielt den Goldgräber Sam McCord.",
+      "question": "Wer spielt den Goldgräber Sam McCord in „Land der tausend Abenteuer“?",
+      "answers": [
+        "John Wayne",
+        "James Stewart",
+        "Robert Mitchum",
+        "Gary Cooper"
+      ],
+      "short": "Sam McCord wird von John Wayne gespielt.",
+      "context": "Sam McCord (John Wayne) reist für seinen Partner George Pratt (Stewart Granger) nach Seattle. Er soll Maschinen kaufen und dessen Braut nach Nome bringen. Der Auftrag verlangt vom überzeugten Junggesellen plötzlich, sich mit den Liebeshoffnungen eines anderen Mannes zu befassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Goldmine der Partner liegt bei Nome in Alaska.",
+      "question": "Wo liegt die Goldmine von Sam und George in „Land der tausend Abenteuer“?",
+      "answers": [
+        "Bei Nome in Alaska",
+        "Bei Dawson im Yukon",
+        "Bei Sacramento in Kalifornien",
+        "Bei Virginia City in Nevada"
+      ],
+      "short": "Die Partner haben bei Nome Gold gefunden.",
+      "context": "Der Film beginnt im Goldgräbermilieu um 1900. Sam McCord (John Wayne) und George Pratt (Stewart Granger) sind bereits reich geworden; das Abenteuer handelt deshalb auch davon, ihren Besitz zu sichern. Georges jüngerer Bruder Billy (Fabian) bleibt zunächst mit ihm bei der Mine.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Jenny ist bereits mit einem Butler verheiratet.",
+      "question": "Warum kann Sam (John Wayne) in „Land der tausend Abenteuer“ Georges Verlobte Jenny nicht wie geplant nach Alaska mitbringen?",
+      "answers": [
+        "Jenny hat inzwischen einen Butler geheiratet.",
+        "Jenny hat sich einem Kloster angeschlossen.",
+        "Jenny hat bereits eine andere Überfahrt nach Nome gebucht.",
+        "Jenny lehnt die Reise wegen einer schweren Krankheit ab."
+      ],
+      "short": "Jenny ist inzwischen mit einem anderen Mann verheiratet.",
+      "context": "Jenny (Lilyan Chauvin) hat nicht länger auf George Pratt (Stewart Granger) gewartet. Sam McCord (John Wayne) scheut sich, seinem Partner die Nachricht zu überbringen. Im Tanzlokal begegnet er Michelle Bonet (Capucine), genannt Angel, und verfällt auf die Idee, sie als mögliche neue Partnerin mitzunehmen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Michelle glaubt zunächst, Sam wolle sie als eigene Gefährtin mitnehmen.",
+      "question": "Welches Missverständnis führt zu Michelles (Capucine) Enttäuschung auf der Überfahrt in „Land der tausend Abenteuer“?",
+      "answers": [
+        "Sie glaubt, Sam nehme sie für sich selbst mit, nicht für George.",
+        "Sie glaubt, sie solle Georges bisherige Verlobte nur als Freundin begleiten.",
+        "Sie glaubt, Sam wolle sie mit Georges Bruder Billy zusammenbringen.",
+        "Sie glaubt, sie solle George nur während einer Rückreise nach Seattle begleiten."
+      ],
+      "short": "Michelle hat Sams Interesse auf sich selbst bezogen.",
+      "context": "Sam McCord (John Wayne) hat Michelle (Capucine) beim Holzfällerfest vor einem aufdringlichen Mann geschützt. Ihre beginnende Zuneigung richtet sich deshalb auf ihren Begleiter. Als er erklärt, sie sei für George Pratt (Stewart Granger) vorgesehen, erscheint ihr die Reise in einem anderen Licht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Frankies angeblich wertvoller Diamantring zerbricht beim Flaschentreffer.",
+      "question": "Woran erkennt Sam (John Wayne) früh in „Land der tausend Abenteuer“, dass Frankie Canons angebotene Sicherheit wertlos ist?",
+      "answers": [
+        "Der angebliche Diamant zerbricht beim Treffer einer Flasche.",
+        "Ein Goldhändler entdeckt eine gefälschte Signatur im Kaufvertrag.",
+        "Eine Bank bestätigt, dass der angebotene Scheck gesperrt ist.",
+        "Der Hotelportier erkennt den Ring als gestohlenen Bühnenrequisitenschmuck."
+      ],
+      "short": "Der zerbrechende Stein entlarvt Frankies falschen Diamanten.",
+      "context": "Frankie Canon (Ernie Kovacs) will sich Geld leihen und bietet einen angeblich kostbaren Ring als Pfand an. Schon diese Begegnung zeigt sein Geschäftsmodell: Er setzt auf Vertrauen in einen äußeren Wert. Später bedroht eine wesentlich größere Täuschung den Minenbesitz der Partner.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Frankie benutzt Peter Boggs für einen konkurrierenden Minenanspruch.",
+      "question": "Wer steht in „Land der tausend Abenteuer“ hinter Peter Boggs’ konkurrierendem Anspruch auf die Mine?",
+      "answers": [
+        "Frankie Canon",
+        "George Pratt",
+        "Billy Pratt",
+        "Lars Norquist"
+      ],
+      "short": "Frankie Canon steuert den falschen Gegenanspruch.",
+      "context": "Michelle Bonet (Capucine) durchschaut Frankies (Ernie Kovacs) Beteiligung, als er verrät, ihre Ankunft bereits erwartet zu haben. Sam McCord (John Wayne) findet den betrunkenen Peter Boggs (Mickey Shaughnessy) eingeschlossen. Er will ihn zum zuständigen Beamten bringen; das Komplott mündet schließlich in die große Straßenschlägerei.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "North to Alaska erschien erstmals 1960.",
+      "question": "In welchem Jahr erschien „Land der tausend Abenteuer“ mit John Wayne und Stewart Granger erstmals?",
+      "answers": [
+        "1960",
+        "1953",
+        "1967",
+        "1974"
+      ],
+      "short": "Der Film erschien 1960.",
+      "context": "Im selben Jahr kam Waynes eigenes Regieprojekt „Alamo“ heraus. Die Arbeit daran hatte die Vorbereitung dieses Films verzögert. Auf den monumentalen Kampf um eine Festung folgte für Wayne damit eine Goldgräberkomödie, in der Schlägereien und Liebesverwicklungen seinen Heldentyp komisch wenden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "alamo"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Henry Hathaway führte offiziell Regie.",
+      "question": "Wer führte laut offiziellem Filmcredit bei „Land der tausend Abenteuer“ Regie?",
+      "answers": [
+        "Henry Hathaway",
+        "Andrew V. McLaglen",
+        "Burt Kennedy",
+        "Gordon Douglas"
+      ],
+      "short": "Der offizielle Regisseur ist Henry Hathaway.",
+      "context": "Hathaway übernahm das Projekt nach Richard Fleischer. Ein Autorenstreik und das noch unfertige Drehbuch erschwerten den Ablauf; Szenen mussten kurzfristig entwickelt werden. Die fertige Komödie verbindet dennoch die Reise Seattle–Nome mit einem zweiten Handlungsstrang um den angefochtenen Minenbesitz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

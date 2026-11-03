@@ -1,0 +1,244 @@
+{
+  "id": "WESTERN-039",
+  "film_title_de": "Drei Amigos",
+  "film_title_original": "¡Three Amigos!",
+  "film_year": 1986,
+  "genre": "Western",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Die Westernparodie mit Martin, Chase und Short hat ein leicht erkennbares Ensemble und komische Schlüsselszenen; sie ist auch außerhalb des Westernpublikums geläufig.",
+  "selection_reason": "Die Parodie setzt Stummfilmhelden einem wirklichen Banditenkonflikt aus. Dorfverteidigung, Revolverduelle und Kostümheldentum werden zugleich benutzt und verspottet.",
+  "directors": [
+    "John Landis"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1986; AFI dokumentiert Los Angeles und New York am 12. Dezember 1986. Die Copyrightregistrierung vom Februar 1987 ändert das Filmjahr nicht.",
+  "director_note": "John Landis führte offiziell Regie. Eine Vorankündigung von Steve Martin als möglichem Regisseur wurde nicht zum Filmcredit; Martin ist Darsteller, Autor und ausführender Produzent. George Folsey Jr. und John Stephens leiteten zweite Einheiten.",
+  "country_note": "US-Produktion von HBO und L.A. Films; der mexikanische Schauplatz entstand unter anderem in Arizona und auf kalifornischen Studiogeländen.",
+  "series": null,
+  "series_note": "Eigenständige Westernparodie. Der verworfene Arbeitstitel Three Caballeros begründet keine Verbindung zur Disney-Filmfolge.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/57493-THREE-AMIGOS"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/57493-THREE-AMIGOS",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige gelesene Synopsis und Cast: Schauspielertrio, Telegrammkürzung, echte Kugel, deutscher Ned-Fan, Duell und Kostümvervielfachung; offizieller Regiecredit, Erststart 1986, Randy Newmans Aufgaben und zweite Einheiten."
+    },
+    "landis": {
+      "url": "https://catalog.afi.com/Catalog/PersonDetails/170377",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Filmografie: John Landis inszenierte The Blues Brothers 1980 und Three Amigos 1986."
+    },
+    "verleih": {
+      "url": "https://www.amcplus.com/movies/three-amigos--1043772",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenes Programmangebot von AMC: Film 1986, bedrohtes mexikanisches Dorf und drei irrtümlich als wirkliche Helden gerufene Schauspieler."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Three_Amigos",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiger Handlungsabschnitt und Cast gelesen: Carmen sieht Stummfilmhelden, arbeitslose Amigos missverstehen das Telegramm, echte Kugel trifft Lucky, deutscher Pilot als Ned-Fan, Dorf näht Amigo-Kostüme, abgelehnte Bezahlung; Produktionscredits Newman/Martin/Michaels und Bernstein. Präzise Telegrammkürzung zusätzlich AFI."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die drei Amigos sind Stummfilmschauspieler, keine wirklichen Revolverhelden.",
+      "question": "Was sind Lucky, Dusty und Ned in „Drei Amigos“ tatsächlich?",
+      "answers": [
+        "Stummfilmschauspieler",
+        "Ehemalige Kavallerieoffiziere",
+        "Bezahlte Kopfgeldjäger",
+        "Herumreisende Waffenhändler"
+      ],
+      "short": "Die drei Männer spielen Helden für das Kino.",
+      "context": "Lucky Day (Steve Martin), Dusty Bottoms (Chevy Chase) und Ned Nederlander (Martin Short) treten in gleichartigen aufwendigen Kostümen auf. Carmen (Patrice Martinez) sieht einen ihrer Filme und nimmt den dargestellten Mut wörtlich. Ihr Vertrauen gilt dadurch zunächst den Rollen, die die Männer vor einer Kamera spielen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "verleih",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Martin Short spielt Ned Nederlander.",
+      "question": "Wer spielt Ned Nederlander in „Drei Amigos“?",
+      "answers": [
+        "Martin Short",
+        "Rick Moranis",
+        "John Candy",
+        "Martin Mull"
+      ],
+      "short": "Martin Short spielt Ned Nederlander.",
+      "context": "Ned (Martin Short) steht mit Lucky Day (Steve Martin) und Dusty Bottoms (Chevy Chase) nach der Entlassung ohne Filmauftrag und Wohnung da. Später ist gerade er derjenige, der die Rückkehr nach Amerika infrage stellt. Aus der Aussicht auf ein neues Engagement wird für ihn die Gelegenheit, tatsächlich als Helfer zu handeln.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Ein gekürztes Telegramm lässt die Schauspieler eine Showeinladung statt eines Hilferufs verstehen.",
+      "question": "Wie entsteht in „Drei Amigos“ das Missverständnis über den Auftrag aus Santa Poco?",
+      "answers": [
+        "Das gekürzte Telegramm klingt wie eine Einladung zu einer gemeinsamen Show.",
+        "Ein Filmproduzent verkauft eine geplante Dreharbeit als Rettungsmission.",
+        "Carmen vertauscht zwei Briefe mit unterschiedlichen Reiseanweisungen.",
+        "Der Banditenführer verspricht den Männern eine Rolle in seinem Film."
+      ],
+      "short": "Die aus Kostengründen verkürzte Nachricht verändert den Sinn des Hilferufs.",
+      "context": "Carmen (Patrice Martinez) kann sich die vollständige Nachricht nicht leisten. In der verkürzten Fassung erscheint El Guapo (Alfonso Arau) als Partner eines Auftritts. Die arbeitslosen Schauspieler reisen deshalb mit einer beruflichen Erwartung an, während die Dorfbewohner auf wirkliche Beschützer hoffen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eine echte Kugel trifft Lucky und beendet den Glauben an eine inszenierte Begegnung.",
+      "question": "Woran erkennen die Schauspieler in „Drei Amigos“ endgültig, dass der Kampf gegen El Guapo keine Aufführung ist?",
+      "answers": [
+        "Lucky wird von einer echten Kugel am Arm getroffen.",
+        "Ein Kameramann weigert sich, die nächste Szene zu drehen.",
+        "Carmen zeigt ihnen den gefälschten Vertrag eines Filmstudios.",
+        "Die Dorfbewohner verlangen vorab die Rückzahlung ihrer Gage."
+      ],
+      "short": "Luckys Verletzung macht die wirkliche Gefahr unbestreitbar.",
+      "context": "Lucky Day (Steve Martin) untersucht nach dem Treffer die Waffe des Schützen Jefe (Tony Plana). Danach erklärt er Dusty (Chevy Chase) und Ned (Martin Short), dass echte Munition verwendet wird. Die einstudierten Gesten brechen zusammen; zunächst fliehen die Männer unter Tränen statt das Dorf zu verteidigen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der deutsche Pilot erkennt Ned als sein Filmidol und fordert ihn zum Duell.",
+      "question": "Warum fordert der deutsche Pilot Ned (Martin Short) in „Drei Amigos“ zu einem persönlichen Duell heraus?",
+      "answers": [
+        "Er verehrt Neds Filme und hat dessen Revolverbewegungen nachgeahmt.",
+        "Er hält Ned für den Mann, der früher seinen Bruder erschossen hat.",
+        "Er will Neds Flugzeug als Einsatz eines alten Glücksspiels gewinnen.",
+        "Er wurde von Neds früherem Studio für dessen Festnahme bezahlt."
+      ],
+      "short": "Der Pilot will sich mit seinem bewunderten Filmhelden messen.",
+      "context": "Der deutsche Pilot (Kai Wulff) liefert El Guapo (Alfonso Arau) Waffen und erkennt seinen früheren Leinwandhelden wieder. Für ihn werden die im Kino gelernten Bewegungen zum Maßstab eines wirklichen Duells. Ned (Martin Short) überlebt die Konfrontation; sein Filmruhm war zuvor sowohl Schutzbehauptung als auch eine neue Gefahrenquelle.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Dorfbewohner nähen weitere Amigo-Kostüme und verwirren damit die Banditen.",
+      "question": "Welche Fähigkeit der Dorfbewohner nutzen die „Drei Amigos“ für die entscheidende List gegen El Guapo?",
+      "answers": [
+        "Ihr Nähen: Viele erhalten gleichartige Amigo-Kostüme.",
+        "Ihr Schmieden: Sie bauen täuschend echte Kanonenattrappen.",
+        "Ihr Bergbau: Sie untergraben den ganzen Dorfplatz.",
+        "Ihr Musizieren: Sie locken die Bande in eine leere Kirche."
+      ],
+      "short": "Viele gleiche Kostüme lassen scheinbar überall Amigos auftauchen.",
+      "context": "Die Gegner verlieren zwischen den gleich gekleideten Verteidigern die Übersicht. Statt aus drei angeblich unbesiegbaren Männern besteht die wirksame Rettung nun aus dem Handeln des Dorfes. Am Ende lehnen Lucky (Steve Martin), Dusty (Chevy Chase) und Ned (Martin Short) tatsächlich die Bezahlung ab, wie Carmen (Patrice Martinez) es von ihren Filmrollen erwartet hatte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Three Amigos erschien erstmals 1986.",
+      "question": "In welchem Jahr erschien „Drei Amigos“ mit Steve Martin, Chevy Chase und Martin Short erstmals?",
+      "answers": [
+        "1986",
+        "1978",
+        "1993",
+        "2001"
+      ],
+      "short": "Der Film erschien 1986.",
+      "context": "Sechs Jahre zuvor hatte John Landis „Blues Brothers“ von 1980 inszeniert. Auch die Westernparodie verbindet ein Komikerensemble mit musikalischen Auftritten. Der Wechsel führt jedoch in die Stummfilmzeit und macht den Unterschied zwischen eingeübter Nummer und wirklicher Gefahr zur Grundlage der Handlung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "landis",
+        "verleih"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Landis führte Regie.",
+      "question": "Wer führte bei „Drei Amigos“ Regie?",
+      "answers": [
+        "John Landis",
+        "Ivan Reitman",
+        "Harold Ramis",
+        "Joe Dante"
+      ],
+      "short": "John Landis führte Regie.",
+      "context": "Randy Newman arbeitete mit Steve Martin und Lorne Michaels am Drehbuch und schrieb die Lieder. Er ist außerdem als Stimme des singenden Busches zu hören. Die eigentliche Filmmusik stammt von Elmer Bernstein. Komponist, Liedautor und komischer Auftritt sind damit auf unterschiedliche, konkret benannte Aufgaben verteilt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

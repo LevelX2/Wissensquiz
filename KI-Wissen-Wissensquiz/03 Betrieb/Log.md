@@ -2565,3 +2565,8 @@ Sechs Musikfilme mit 48 neuen Zielen integriert; Musik 133, Arthouse 134, Classi
 #### Fortsetzung 03.11.2026 – Drama W20
 
 Sechs Dramen mit 48 Fragen integriert, 47 neue globale Ziele und eine Personenvariante zur Bonusentscheidung bei Zwei Tage, eine Nacht. Drama 147, Arthouse 140. Alle 48 Fragen zentral und unabhängig gegengelesen; physikalisch sinnvolle Bergungsoptionen, plausibler Filmnutzen und zeitliche Einordnung Fajr1987/Locarno1989 nachgeschärft. Filmjahre, Länder, Koker-Folge und künstliche Tonpannen in Close-Up anhand gelesener Quellen begrenzt. Alle 1.080 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und 70 gezielte Tests in sieben Dateien bestanden. Aktuell 59 Pakete / 16.375 Fragen / 15.691 Ziele; 366 Genreergänzungen und zehn überlappende Arthouse-Filme offen.
+
+
+#### Fortsetzung 03.11.2026 – Western W21
+
+Sechs Western mit 48 neuen Zielen integriert; Western 139, Arthouse 141, Classics 210. Vollständige zentrale und unabhängige Gegenlesung; zwei unglaubhafte Antwortalternativen ersetzt und Cast-Erstnennungen ergänzt. Der elektrische Reiter mit TCM/Universal und zusätzlicher Szenenchronik verbreitert. Drei Amigos mit exakter Kandidaten-ID auf kanonischen Originaltitel samt Interpunktion bezogen, ohne Suchfallback. Alle 1.128 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 60 Pakete / 16.423 Fragen / 15.739 Ziele; 360 Genreergänzungen und neun überlappende Arthouse-Filme offen.
