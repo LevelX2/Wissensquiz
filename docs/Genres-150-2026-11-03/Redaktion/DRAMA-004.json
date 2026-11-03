@@ -1,0 +1,259 @@
+{
+  "id": "DRAMA-004",
+  "film_title_de": "Herbstsonate",
+  "film_title_original": "Höstsonaten",
+  "film_year": 1978,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ingrid Bergmans späte Kinohauptrolle und die Zusammenarbeit mit ihrem Namensvetter geben dem konzentrierten Familiendrama einen Zugang für Filmkenner.",
+  "selection_reason": "Mutter-Tochter-Konflikt als Kammerspiel; Nahaufnahmen, musikalische Interpretation und Rückblenden tragen das Drama und begründen die Arthouse-Zuordnung.",
+  "directors": [
+    "Ingmar Bergman"
+  ],
+  "production_countries": [
+    "BR Deutschland",
+    "Schweden"
+  ],
+  "release_note": "Uraufführung am 8. Oktober 1978 in Stockholm. Als kanonischer Originaltitel bleibt Höstsonaten nach dem Weltvertrieb REinvent und den vorhandenen Personenreferenzen erhalten. filmportal führt für die deutsche Koproduktion Herbstsonate als deutschen Originaltitel; beide Titel bezeichnen denselben schwedischsprachigen Film.",
+  "director_note": "Offizieller alleiniger Regiecredit; zugleich Autor des Originaldrehbuchs.",
+  "country_note": "filmportal nennt BR Deutschland und Schweden sowie Persona Film und Suede Film als Koproduzenten. Die Bergman-Stiftung führt nur West Germany, Criterion und Weltvertrieb nur Sweden. Drehort Norwegen ergibt kein weiteres Produktionsland.",
+  "series": null,
+  "series_note": "Eigenständiges Originaldrehbuch; in den geprüften Produktionsquellen keine nummerierte Filmfolge. Die spätere Opernadaption ist keine Filmfortsetzung.",
+  "series_sources": [
+    "https://www.filmportal.de/film/herbstsonate_20c8e12289624ebab234d4ce0f5001b8",
+    "https://www.ingmarbergman.se/en/production/autumn-sonata"
+  ],
+  "sources": {
+    "stiftung": {
+      "url": "https://www.ingmarbergman.se/en/production/autumn-sonata",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmversprechen an Ingrid Bergman in Cannes, Erstaufführung, Dreharbeit in Norwegen und Musikcredits Chopin/Käbi Laretei."
+    },
+    "filmportal": {
+      "url": "https://www.filmportal.de/film/herbstsonate_20c8e12289624ebab234d4ce0f5001b8",
+      "accessed_on": "2026-11-03",
+      "supports": "Originaltitel, Uraufführung 1978, Regie, Länder, Koproduzenten und Besetzung; Helenas Pflege im Pfarrhaus und Eriks Ertrinken."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/605-autumn-sonata",
+      "accessed_on": "2026-11-03",
+      "supports": "Synopsis, schwedische Originalsprache, Besetzung und Regiecredit."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/2900-autumn-sonata-mothers-daughters-and-monsters",
+      "accessed_on": "2026-11-03",
+      "supports": "Farran Smith Nehme: Viktor spricht eingangs zum Publikum; Eva/Liv Ullmann, Helena/Lena Nyman, Chopin-Präludium und mütterliche Anerkennung versus künstlerische Kritik."
+    },
+    "festival": {
+      "url": "https://film.iksv.org/en/festival-daily/a-film-of-confessions-based-on-two-actresses/",
+      "accessed_on": "2026-11-03",
+      "supports": "Yeşim Ustaoğlus Einführung: gemeinsames Chopin-Spiel als wortarme Konfrontation der beiden Frauen."
+    },
+    "vertrieb": {
+      "url": "https://reinvent.dk/catalogue/autumn-sonata/",
+      "accessed_on": "2026-11-03",
+      "supports": "Weltvertrieb nennt ausdrücklich Original title Höstsonaten, schwedische Sprache, Personafilm, Regie und Start8.Oktober1978."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Charlotte ist beruflich Konzertpianistin.",
+      "question": "Welchen Beruf übt Evas Mutter Charlotte (Ingrid Bergman) in „Herbstsonate“ aus?",
+      "answers": [
+        "Konzertpianistin",
+        "Opernsängerin",
+        "Theaterregisseurin",
+        "Balletttänzerin"
+      ],
+      "short": "Charlotte ist eine international auftretende Konzertpianistin.",
+      "context": "Ihr Erfolg gehört zum Ausgangspunkt des Wiedersehens: Charlotte (Ingrid Bergman) hat viel Zeit auf Reisen verbracht und ihre Tochter jahrelang nicht besucht. Nun trifft ihre gewohnte öffentliche Selbstsicherheit auf einen privaten Raum, in dem Eva (Liv Ullmann) andere Maßstäbe an sie anlegt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "stiftung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Liv Ullmann spielt die erwachsene Tochter Eva.",
+      "question": "Wer spielt in „Herbstsonate“ Eva, die erwachsene Tochter einer berühmten Musikerin, deren Besuch alte Verletzungen aufreißt?",
+      "answers": [
+        "Liv Ullmann",
+        "Bibi Andersson",
+        "Ingrid Thulin",
+        "Harriet Andersson"
+      ],
+      "short": "Liv Ullmann spielt Eva, Ingrid Bergman ihre Mutter.",
+      "context": "Eva lebt mit Viktor (Halvar Björk) in einem Pfarrhaus. Das Wiedersehen beginnt freundlich, führt aber in eine nächtliche Auseinandersetzung. Ullmann lässt Evas zurückhaltendes Auftreten dabei in eine Wut übergehen, die sich über viele Jahre angesammelt hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Eva hat ihre kranke Schwester Helena zu sich ins Pfarrhaus geholt.",
+      "question": "Was überrascht Charlotte (Ingrid Bergman) bei ihrer Ankunft in „Herbstsonate“ an der Wohnsituation ihrer kranken Tochter Helena (Lena Nyman)?",
+      "answers": [
+        "Helena lebt bei Eva im Pfarrhaus.",
+        "Helena führt Charlottes frühere Stadtwohnung.",
+        "Helena wohnt bei Charlottes Konzertagenten.",
+        "Helena ist in Evas Nachbarhaus eingezogen."
+      ],
+      "short": "Eva hat Helena aus der Einrichtung zu sich nach Hause geholt.",
+      "context": "Mit Helena (Lena Nyman) steht die Pflegebedürftigkeit eines weiteren Familienmitglieds im selben Haus. Eva (Liv Ullmann) hat diese Verantwortung übernommen. Charlotte (Ingrid Bergman), die davon erst beim Besuch erfährt, muss sich nun auch der Beziehung zu dieser Tochter stellen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmportal",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eva und Viktors kleiner Sohn Erik ist ertrunken.",
+      "question": "Welches frühere Unglück belastet Eva (Liv Ullmann) und Viktor (Halvar Björk) in „Herbstsonate“?",
+      "answers": [
+        "Ihr kleiner Sohn ist ertrunken.",
+        "Ihr Haus ist bei einem Brand zerstört worden.",
+        "Viktor hat bei einem Unfall sein Augenlicht verloren.",
+        "Eva hat bei einem Unfall ihre Schwester verloren."
+      ],
+      "short": "Das Ehepaar hat seinen kleinen Sohn durch Ertrinken verloren.",
+      "context": "Der Verlust liegt vor Charlottes Besuch. Die Erinnerung an das Kind gehört zu Evas (Liv Ullmann) Leben, von dem die weit entfernte Mutter wenig miterlebt hat. Im Gespräch mit Charlotte (Ingrid Bergman) brechen neben Erinnerungen an Evas eigene Kindheit auch spätere Erfahrungen von Einsamkeit auf.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmportal",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Eva und Charlotte spielen Chopins zweites Präludium in a-Moll.",
+      "question": "Von wem stammt das Präludium in a-Moll, das Eva (Liv Ullmann) und Charlotte (Ingrid Bergman) in der Klavierszene von „Herbstsonate“ unterschiedlich spielen?",
+      "answers": [
+        "Frédéric Chopin",
+        "Claude Debussy",
+        "Franz Schubert",
+        "Robert Schumann"
+      ],
+      "short": "Sie spielen Chopins Präludium op. 28 Nr. 2.",
+      "context": "Eva (Liv Ullmann) hofft auf Anerkennung; Charlotte (Ingrid Bergman) hört eine Interpretation, die sie verbessern möchte. Der Vergleich beider Vorträge macht ihre verschiedenen Erwartungen sichtbar. Die Klavieraufnahme stammt von Käbi Laretei: Schauspiel und tatsächlich gespielte Filmmusik sind hier zu unterscheiden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "stiftung",
+        "essay",
+        "festival"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Viktor führt Eva am Anfang durch eine direkte Ansprache des Publikums ein.",
+      "question": "Wie stellt Viktor (Halvar Björk) seine Frau Eva (Liv Ullmann) zu Beginn von „Herbstsonate“ vor?",
+      "answers": [
+        "Er spricht direkt zum Publikum.",
+        "Er diktiert ihre Lebensgeschichte einem Reporter.",
+        "Er hält während einer Trauung eine Ansprache über sie.",
+        "Er liest ihre Geschichte aus einem Kirchenbuch vor."
+      ],
+      "short": "Viktor wendet sich an die Zuschauer und spricht über Eva.",
+      "context": "Während Eva (Liv Ullmann) an ihrem Schreibtisch sitzt, beschreibt ihr Mann sie aus seiner Perspektive. Diese Einführung vermittelt keine neutrale Familienchronik: Das spätere Gespräch mit Charlotte (Ingrid Bergman) gibt Evas eigener Sicht weit mehr Raum und legt andere Erfahrungen frei.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung von Herbstsonate 1978.",
+      "question": "In welchem Jahr wurde „Herbstsonate“ mit Ingrid Bergman und Liv Ullmann erstmals öffentlich gezeigt?",
+      "answers": [
+        "1978",
+        "1975",
+        "1981",
+        "1984"
+      ],
+      "short": "Die Uraufführung fand 1978 in Stockholm statt.",
+      "context": "Bei der Cannes-Vorführung von „Schreie und Flüstern“ 1973 erinnerte Ingrid Bergman den Regisseur an sein Versprechen, gemeinsam zu arbeiten. Fünf Jahre später kam der gemeinsame Film heraus. Die Klavierrolle verbindet ihre internationale Starpräsenz mit einem sehr kleinen, auf zwei Hauptdarstellerinnen konzentrierten Drama.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmportal",
+        "stiftung",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Ingmar Bergman führte bei Herbstsonate Regie.",
+      "question": "Wer führte bei „Herbstsonate“ mit Ingrid Bergman und Liv Ullmann Regie?",
+      "answers": [
+        "Ingmar Bergman",
+        "Jan Troell",
+        "Bo Widerberg",
+        "Lars von Trier"
+      ],
+      "short": "Regisseur und Drehbuchautor ist Ingmar Bergman.",
+      "context": "Gedreht wurde in norwegischen Studios außerhalb von Oslo, obwohl die Produktion deutsch-schwedisch eingeordnet wird und schwedisch gesprochen wird. Nach Bergmans Auseinandersetzung mit den schwedischen Behörden entstanden mehrere Arbeiten außerhalb seines Heimatlands. Produktionsland, Originalsprache und Aufnahmeort fallen hier auseinander.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "stiftung",
+        "filmportal",
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": "DRAMA-006",
+  "film_title_de": "Licht im Winter",
+  "film_title_original": "Nattvardsgästerna",
+  "film_year": 1963,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Das spröde Glaubenskammerspiel hat eine zentrale Stellung in Bergmans Werk, bietet außerhalb des Autorenfilm-Publikums aber wenig unmittelbare Wiedererkennung.",
+  "selection_reason": "Ein seelsorgerisches Scheitern wird in wenigen Stunden und reduzierten Räumen erfahrbar. Die konzentrierte Inszenierung und religiöse Selbstbefragung begründen Arthouse.",
+  "directors": [
+    "Ingmar Bergman"
+  ],
+  "production_countries": [
+    "Schweden"
+  ],
+  "release_note": "Öffentlicher Kinostart 11. Februar 1963; Bergman-Stiftung nennt zusätzlich eine Sondervorführung in Falun am Vorabend. Beide Termine liegen 1963; die Dreharbeit 1961/62 ist kein Veröffentlichungsjahr.",
+  "director_note": "Offizieller alleiniger Regiecredit; zugleich Autor des Originaldrehbuchs.",
+  "country_note": "Schweden nach Stiftung und Criterion.",
+  "series": {
+    "name": "Bergmans Glaubenstrilogie",
+    "position": 2,
+    "note": "Zweiter veröffentlichter Film der thematischen Folge Wie in einem Spiegel (1961), Licht im Winter (1963), Das Schweigen (1963). Keine Fortsetzung mit denselben Figuren; die Stiftung benennt diese Reihenfolge ausdrücklich."
+  },
+  "series_note": "Bewusst als thematische Filmfolge mit Teil 2 geführt; Bergmans spätere Distanz zur Trilogieidee ist von der belegten Gruppierung zu unterscheiden.",
+  "series_sources": [
+    "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+    "https://www.ingmarbergman.se/en/production/winter-light"
+  ],
+  "sources": {
+    "stiftung": {
+      "url": "https://www.ingmarbergman.se/en/production/winter-light",
+      "accessed_on": "2026-11-03",
+      "supports": "Erstaufführung 1963, Credits, Familienbesuch als Anregung für den Schluss, Originaltitel Die Abendmahlsgäste, Strawinskys Psalmensymphonie als Ausgangspunkt und Trilogieposition 2."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/569-winter-light",
+      "accessed_on": "2026-11-03",
+      "supports": "Synopsis, schwedische Produktion 1963, Besetzung und Regie; Kernkonflikt Pfarrer/Kernwaffenangst und Lehrerin."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/612-winter-light",
+      "accessed_on": "2026-11-03",
+      "supports": "Peter Cowie: wenige Stunden zwischen zwei Gottesdiensten, Märtas Brief als direkte Kameraansprache, Jonas’ Kernwaffenangst, Stromschnellen übertönen Gespräche am Leichnam, abschließender Gottesdienst."
+    },
+    "trilogie": {
+      "url": "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+      "accessed_on": "2026-11-03",
+      "supports": "Genaue Reihenfolge der drei Glaubensfilme; Wie in einem Spiegel 1961, beide Nachfolger 1963 nach weiteren Filmkatalogeinträgen."
+    },
+    "theater": {
+      "url": "https://cinema.wisc.edu/2016/02/26/through-glass-darkly-beginnings-bergmans-chamber-cinema/",
+      "accessed_on": "2026-11-03",
+      "supports": "Die Cinematheque nennt Licht im Winter und Das Schweigen ausdrücklich als die beiden1963veröffentlichten Folgefilme der Glaubenstrilogie."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Tomas Ericsson arbeitet als Landpfarrer.",
+      "question": "Welches Amt hat Tomas Ericsson (Gunnar Björnstrand), dessen Zweifel im Zentrum von „Licht im Winter“ stehen?",
+      "answers": [
+        "Er ist Landpfarrer.",
+        "Er ist Dorfarzt.",
+        "Er ist Richter.",
+        "Er ist Schulleiter."
+      ],
+      "short": "Tomas Ericsson ist der Pfarrer einer kleinen Gemeinde.",
+      "context": "Vor wenigen Kirchenbesuchern vollzieht Tomas (Gunnar Björnstrand) die vertraute Liturgie. Nach außen erfüllt er sein Amt, während ihm innerlich die Gewissheit fehlt, die andere von ihm erwarten. Das Drama setzt im Alltag seiner Arbeit ein und zeigt, wie schwer ihm persönlicher Beistand fällt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "stiftung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Märta Lundberg ist Lehrerin.",
+      "question": "Welchen Beruf hat Märta Lundberg (Ingrid Thulin), die Tomas (Gunnar Björnstrand) in „Licht im Winter“ ihre Liebe anbietet?",
+      "answers": [
+        "Lehrerin",
+        "Krankenschwester",
+        "Organistin",
+        "Buchhändlerin"
+      ],
+      "short": "Märta arbeitet als Lehrerin.",
+      "context": "Ihre Beziehung zu Tomas (Gunnar Björnstrand) ist zugleich eine Bitte um Nähe und eine Belastungsprobe. Märta (Ingrid Thulin) vertritt keinen einfachen Ersatzglauben: Sie spricht von einer konkreten Beziehung zu einem Menschen, der ihre Zuwendung zurückweist. Das leere Schulzimmer wird zu einem Ort ihrer Auseinandersetzung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "stiftung",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Jonas Persson fürchtet die nukleare Vernichtung.",
+      "question": "Welche Angst führt den Fischer Jonas Persson (Max von Sydow) in „Licht im Winter“ zu einem Gespräch mit dem Pfarrer?",
+      "answers": [
+        "Die Angst vor einem Atomkrieg",
+        "Die Angst vor einer drohenden Erblindung",
+        "Die Angst vor einer Strafverfolgung",
+        "Die Angst vor dem Verlust seines Bootes"
+      ],
+      "short": "Jonas fürchtet die Vernichtung durch Atomwaffen.",
+      "context": "Tomas (Gunnar Björnstrand) soll einem beunruhigten Gemeindemitglied helfen. Statt sich auf Jonas (Max von Sydow) einzulassen, spricht er über die eigenen Glaubenszweifel. Die Begegnung zeigt Seelsorge als konkrete Verantwortung, an der der Pfarrer in diesem Moment scheitert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Märtas Brief wird als direkte Ansprache in Nahaufnahme gestaltet.",
+      "question": "Wie inszeniert „Licht im Winter“ Märtas (Ingrid Thulin) Brief an Tomas (Gunnar Björnstrand)?",
+      "answers": [
+        "Sie spricht den Brief frontal zur Kamera.",
+        "Tomas liest ihn während einer Predigt vor.",
+        "Eine Kinderstimme liest ihn über Landschaftsbildern.",
+        "Der Brief wird als stumme Schriftrolle eingeblendet."
+      ],
+      "short": "Märta trägt den Brief in einer langen direkten Kameraansprache vor.",
+      "context": "Das Gesicht von Märta (Ingrid Thulin) bleibt im Mittelpunkt, während sie ihre Gefühle formuliert. Die Form gibt ihren Worten eine Präsenz, die über den bloßen Gegenstand Papier hinausgeht. Später begegnet Tomas (Gunnar Björnstrand) derselben Offenheit mit schroffer Ablehnung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Das Rauschen der Stromschnellen überlagert die Gespräche an Jonas’ Leichnam.",
+      "question": "Welches Geräusch beherrscht in „Licht im Winter“ die Szene, in der Tomas (Gunnar Björnstrand) am Fluss zu Jonas’ (Max von Sydow) Leichnam kommt?",
+      "answers": [
+        "Das Rauschen der Stromschnellen",
+        "Das Läuten sämtlicher Kirchenglocken",
+        "Das Signalhorn eines auslaufenden Schiffes",
+        "Das Dröhnen eines vorbeifahrenden Zuges"
+      ],
+      "short": "Die nahegelegenen Stromschnellen übertönen die Gespräche.",
+      "context": "Nach Jonas’ (Max von Sydow) Tod trifft Tomas (Gunnar Björnstrand) am Fluss auf die äußeren Folgen des zuvor geführten Gesprächs. Die Tonspur bietet dabei keine deutlich erklärenden Dialoge. Das andauernde Wasserrauschen prägt die Situation und lässt die Reaktionen der Beteiligten schwerer zugänglich werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Tomas beginnt den abschließenden Gottesdienst trotz der fast leeren Kirche.",
+      "question": "Was tut Tomas (Gunnar Björnstrand) am Ende von „Licht im Winter“, obwohl nahezu niemand zum Gottesdienst gekommen ist?",
+      "answers": [
+        "Er beginnt den Gottesdienst.",
+        "Er überlässt Märta die Predigt.",
+        "Er verkündet seinen Austritt aus der Kirche.",
+        "Er ersetzt die Feier durch ein Gespräch am Fluss."
+      ],
+      "short": "Tomas hält an der Durchführung des Gottesdienstes fest.",
+      "context": "Die Geste löst seine Glaubenskrise nicht ausdrücklich auf. Bergman verband das Ende mit einem Erlebnis, bei dem sein eigener Vater einem erkrankten Pfarrer half, die Abendmahlsfeier doch abzuhalten. Der Film endet bei einer Handlung, deren Bedeutung offen mit den vorherigen Zweifeln zusammensteht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "stiftung",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Erste Veröffentlichung von Licht im Winter 1963.",
+      "question": "Wann wurde „Licht im Winter“ mit Gunnar Björnstrand und Ingrid Thulin erstmals öffentlich gezeigt?",
+      "answers": [
+        "1963",
+        "1960",
+        "1966",
+        "1969"
+      ],
+      "short": "Die ersten Vorführungen fanden 1963 statt.",
+      "context": "Im selben Jahr erschien mit „Das Schweigen“ der nächste Film der später so genannten Glaubenstrilogie. „Wie in einem Spiegel“ war bereits 1961 vorausgegangen. Die Folge zeigt eine rasche Verschiebung der religiösen Fragen; die drei Filme erzählen keine fortlaufende Geschichte einer einzigen Familie.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "stiftung",
+        "trilogie",
+        "theater"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Ingmar Bergman inszenierte Licht im Winter.",
+      "question": "Von wem stammt die Regie des schwedischen Kammerspiels „Licht im Winter“?",
+      "answers": [
+        "Ingmar Bergman",
+        "Victor Sjöström",
+        "Mauritz Stiller",
+        "Vilgot Sjöman"
+      ],
+      "short": "Die Regie führte Ingmar Bergman.",
+      "context": "Die Stiftung nennt Strawinskys Psalmensymphonie als musikalischen Ausgangspunkt seiner Überlegungen. Für den Film reduzierte Bergman die äußere Handlung auf einen einzigen Sonntag. Sein Interesse an Musik zeigt sich hier in der Konzentration der Form, ohne dass das Werk selbst zum Musikfilm wird.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "stiftung",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

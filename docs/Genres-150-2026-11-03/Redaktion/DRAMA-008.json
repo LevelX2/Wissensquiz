@@ -1,0 +1,265 @@
+{
+  "id": "DRAMA-008",
+  "film_title_de": "La Strada – Das Lied der Straße",
+  "film_title_original": "La strada",
+  "film_year": 1954,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Gelsomina, Masinas Spiel und Rotas Musik sind feste Bezugspunkte der Filmgeschichte; die konkrete Handlung ist vor allem Filmkennern vertraut.",
+  "selection_reason": "Das Wanderleben dreier Artisten verbindet soziale Härte mit Fabel, musikalischem Motiv und einer eigenwilligen komischen Körperlichkeit. Diese Form begründet Arthouse; internationale Wirkung und Kanonstellung die Classics-Zuordnung.",
+  "directors": [
+    "Federico Fellini"
+  ],
+  "production_countries": [
+    "Italien"
+  ],
+  "release_note": "Erste Veröffentlichung in Italien 1954; US-Start 1956 und Oscar 1957 sind spätere Termine. Jahr nach Criterion-Filmeintrag und Christina Newlands Rückblick.",
+  "director_note": "Federico Fellini ist alleiniger Regisseur; Tullio Pinelli und Ennio Flaiano sind am Drehbuch beteiligt.",
+  "country_note": "Italien nach Criterion und Academy.",
+  "series": {
+    "name": "Fellinis Trilogie der Einsamkeit",
+    "position": 1,
+    "note": "Erster Film der thematischen, nach Veröffentlichung gezählten Folge La strada (1954), Il bidone (1955), Le notti di Cabiria (1957). Keine fortlaufende Figurenhandlung."
+  },
+  "series_note": "Die thematische Dreiergruppe ist beim BFI ausdrücklich benannt. Unabhängige Geschichten mit wiederkehrender Hauptdarstellerin werden nicht als direkte Fortsetzungen ausgegeben.",
+  "series_sources": [
+    "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online"
+  ],
+  "sources": {
+    "criterion": {
+      "url": "https://www.criterion.com/films/185-la-strada",
+      "accessed_on": "2026-11-03",
+      "supports": "Italien 1954, Originaltitel, Hauptrollen, Regie, Drehbuchteam und Komponist Nino Rota; Fabelcharakter und historische Wirkung."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/929-la-strada",
+      "accessed_on": "2026-11-03",
+      "supports": "David Ehrenstein: Kauf Gelsominas, Artistenfiguren, Rolle des Seiltänzers und Rotas über den Film hinaus verbreitetes Thema."
+    },
+    "newland": {
+      "url": "https://www.criterion.com/current/posts/7590-la-strada-beauty-and-the-beast",
+      "accessed_on": "2026-11-03",
+      "supports": "Christina Newland: italienischer Erststart 1954, US-Aufnahme 1956 und Oscar 1957; Kraftnummer, Gelsominas Kauf, Steinparabel und Verhältnis zum Neorealismus."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/La_Strada",
+      "accessed_on": "2026-11-03",
+      "supports": "Genauer Handlungsablauf: Tod Il Mattos bei Zampanòs Schlägen, Verlassen Gelsominas, späteres Wiedererkennen der Melodie und Nachricht von ihrem Tod."
+    },
+    "oscar": {
+      "url": "https://www.oscars.org/oscars/ceremonies/1957",
+      "accessed_on": "2026-11-03",
+      "supports": "29. Verleihung 1957: La Strada gewinnt den Preis für den fremdsprachigen Film; Italien, Produzenten Dino De Laurentiis und Carlo Ponti."
+    },
+    "trilogie": {
+      "url": "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online",
+      "accessed_on": "2026-11-03",
+      "supports": "Il bidone wird als Mittelteil der Trilogy of Loneliness zwischen La strada und Le notti di Cabiria benannt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Gelsominas Mutter verkauft sie Zampanò als Gehilfin.",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-110-L1",
+      "variant_of": "SCHAUSPIELER-BG-20261013-110-L1",
+      "question": "Wie kommt Gelsomina (Giulietta Masina) in „La Strada“ zu dem reisenden Artisten Zampanò (Anthony Quinn)?",
+      "answers": [
+        "Ihre Mutter verkauft sie ihm als Gehilfin.",
+        "Sie gewinnt bei ihm eine ausgeschriebene Lehrstelle.",
+        "Sie tauscht mit ihrer Schwester heimlich den Platz.",
+        "Sie wird vom Zirkusdirektor als Partnerin zugeteilt."
+      ],
+      "short": "Die verarmte Mutter überlässt Gelsomina gegen Geld an Zampanò.",
+      "context": "Zampanò (Anthony Quinn) braucht nach dem Tod ihrer Schwester eine neue Begleiterin. Gelsomina (Giulietta Masina) verlässt eine Familie, die selbst kaum überleben kann. Der Beginn ihrer Reise ist deshalb kein freier beruflicher Aufbruch: Materielle Not und das Verfügen über einen anderen Menschen stehen am Anfang.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "newland"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Zampanò verdient mit Kraftnummern als reisender Schausteller sein Geld.",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-056-L2",
+      "variant_of": "SCHAUSPIELER-BG-20261013-056-L2",
+      "question": "Womit verdient Zampanò (Anthony Quinn) in „La Strada“ seinen Lebensunterhalt?",
+      "answers": [
+        "Mit Kraftnummern als reisender Schausteller",
+        "Mit dem Abrichten von Zirkuspferden",
+        "Mit dem Verkauf selbstgebauter Instrumente",
+        "Mit Ringkämpfen um einen festen Meistertitel"
+      ],
+      "short": "Zampanò führt als fahrender Artist Kraftkunststücke vor.",
+      "context": "Seine Nummer besteht darin, eine um die Brust gelegte Kette zu sprengen. Gelsomina (Giulietta Masina) kündigt die Vorführung an, spielt und sammelt Geld. Das publikumswirksame Beherrschen des eigenen Körpers steht neben Zampanòs (Anthony Quinn) Unfähigkeit, mit seiner Begleiterin fürsorglich umzugehen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "newland"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Il Matto erklärt mit einem Stein, dass jedes Ding und jeder Mensch eine Aufgabe hat.",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-110-M1",
+      "variant_of": "SCHAUSPIELER-BG-20261013-110-M1",
+      "question": "Was möchte der Seiltänzer Il Matto (Richard Basehart) Gelsomina (Giulietta Masina) in „La Strada“ mit einem kleinen Stein erklären?",
+      "answers": [
+        "Dass jedes Ding und jeder Mensch einen Sinn oder eine Aufgabe hat",
+        "Dass der Zirkus seinen Gewinn in versteckten Edelsteinen anlegt",
+        "Dass nur körperlich starke Menschen im Wanderleben bestehen",
+        "Dass ein Mensch seine Herkunft an einem Ort zurücklassen muss"
+      ],
+      "short": "Auch ein unscheinbarer Stein soll eine Aufgabe haben – ebenso Gelsomina.",
+      "context": "Gelsomina (Giulietta Masina) zweifelt daran, gebraucht zu werden. Il Matto (Richard Basehart) bietet ihr keine überprüfbare Weltformel, sondern ein tröstendes Gleichnis. Seine Freundlichkeit eröffnet eine andere Beziehung als die Befehle Zampanòs (Anthony Quinn); gerade deshalb trifft sie die spätere Gewalt zwischen den Männern besonders schwer.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "newland"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Nino Rota komponierte die prägende Filmmusik.",
+      "question": "Wer komponierte die Musik von „La Strada“, deren Thema mit Gelsominas (Giulietta Masina) Reise verbunden ist?",
+      "answers": [
+        "Nino Rota",
+        "Ennio Morricone",
+        "Giovanni Fusco",
+        "Alessandro Cicognini"
+      ],
+      "short": "Die Filmmusik stammt von Nino Rota.",
+      "context": "Die Melodie wandert durch verschiedene Situationen und verbindet Auftritt, Erinnerung und Verlust. Sie wird damit zu mehr als einer Begleitung der Landschaftsbilder. Auch außerhalb des Kinos fand das Thema ein großes Publikum; Ehrenstein beschreibt seine Verbreitung über Radio und Schallplatten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Il Matto stirbt nach Zampanòs Schlägen bei einem Straßenstreit.",
+      "question": "Was löst in „La Strada“ Gelsominas (Giulietta Masina) anhaltende Erschütterung nach der Begegnung auf der Landstraße aus?",
+      "answers": [
+        "Zampanò schlägt Il Matto, der daraufhin stirbt.",
+        "Il Matto stürzt während einer öffentlichen Seilnummer ab.",
+        "Il Matto verunglückt mit seinem Wagen an einem Felsabhang.",
+        "Zampanò verletzt Il Matto bei einer missglückten Messerwurfnummer."
+      ],
+      "short": "Gelsomina erlebt mit, wie Il Matto an den Folgen des Kampfes stirbt.",
+      "context": "Was als weiterer Streit beginnt, endet tödlich. Zampanò (Anthony Quinn) beseitigt die Spuren, während Gelsomina (Giulietta Masina) den Tod Il Mattos (Richard Basehart) nicht verarbeiten kann. Ihre zunehmende Teilnahmslosigkeit führt dazu, dass Zampanò sie schließlich schlafend zurücklässt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Eine fremde Frau singt Gelsominas Melodie und erzählt Zampanò später von ihrem Tod.",
+      "question": "Wodurch erfährt Zampanò (Anthony Quinn) in „La Strada“ Jahre später vom Schicksal Gelsominas (Giulietta Masina)?",
+      "answers": [
+        "Er erkennt ihre Melodie im Gesang einer Frau und fragt nach.",
+        "Er findet ihren Namen auf einem verlassenen Zirkuswagen.",
+        "Ein Polizist überbringt ihm einen alten Abschiedsbrief.",
+        "Er hört ihren Namen in einer öffentlichen Suchmeldung."
+      ],
+      "short": "Eine Frau singt die vertraute Melodie und erzählt ihm von Gelsominas Tod.",
+      "context": "Die Familie der Frau hatte Gelsomina (Giulietta Masina) aufgenommen. Von ihrer Zeit dort bleibt vor allem die gespielte Melodie in Erinnerung. Erst diese beiläufige Begegnung erreicht Zampanò (Anthony Quinn); die Nachricht mündet später in seinen Zusammenbruch am Strand.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "La strada wurde 1954 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „La Strada“ mit Giulietta Masina und Anthony Quinn erstmals veröffentlicht?",
+      "answers": [
+        "1954",
+        "1951",
+        "1957",
+        "1960"
+      ],
+      "short": "Der Film wurde erstmals 1954 veröffentlicht.",
+      "context": "Der Oscar folgte erst 1957, nachdem der Film 1956 auch das amerikanische Kinopublikum erreicht hatte. Der Abstand gehört zur internationalen Wirkungsgeschichte: Ein italienischer Erststart und ein späterer Preisjahrgang bezeichnen hier dasselbe Werk, keine verschiedenen Fassungen oder Fortsetzungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "newland",
+        "oscar"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Federico Fellini führte bei La strada Regie.",
+      "question": "Wer führte bei „La Strada“ mit Giulietta Masina und Anthony Quinn Regie?",
+      "answers": [
+        "Federico Fellini",
+        "Vittorio De Sica",
+        "Roberto Rossellini",
+        "Luchino Visconti"
+      ],
+      "short": "Der Regisseur ist Federico Fellini.",
+      "context": "Fellini hatte als Drehbuchautor im Umfeld des Neorealismus gearbeitet. Hier bleiben Armut und Straßenleben sichtbar, doch die Artisten und ihre Begegnungen gewinnen den Charakter einer Fabel. Ehrenstein beschreibt gerade diese Abweichung vom gewöhnlichen Alltag als Eigenart des Films; die soziale Härte verschwindet dadurch nicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay",
+        "newland"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

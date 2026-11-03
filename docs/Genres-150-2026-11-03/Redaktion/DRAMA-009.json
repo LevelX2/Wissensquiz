@@ -1,0 +1,259 @@
+{
+  "id": "DRAMA-009",
+  "film_title_de": "Die Nächte der Cabiria",
+  "film_title_original": "Le notti di Cabiria",
+  "film_year": 1957,
+  "genre": "Drama",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Giulietta Masinas international ausgezeichnete Hauptrolle ist ein kanonisches Werk des italienischen Kinos; die episodische Handlung bleibt eher Filmkennerstoff.",
+  "selection_reason": "Cabirias Hoffnungen und wiederholte Enttäuschungen verbinden das soziale Milieu Roms mit einer eigenständigen tragikomischen Figurenführung. Form und internationale Filmwirkung begründen Arthouse und Classics.",
+  "directors": [
+    "Federico Fellini"
+  ],
+  "production_countries": [
+    "Italien",
+    "Frankreich"
+  ],
+  "release_note": "Erstjahr 1957 einschließlich Cannes-Wettbewerb. Die Wiederaufführung 1997 mit restaurierter Sackträger-Szene ist kein neues Filmjahr.",
+  "director_note": "Alleiniger Regiecredit Federico Fellini. Pier Paolo Pasolini ist am Dialog beteiligt, nicht als Regisseur ausgewiesen.",
+  "country_note": "Italien/Frankreich nach CNC-Visum 19023 und Film at Lincoln Center; Cannes und Criterion verkürzen die Angabe auf Italien.",
+  "series": {
+    "name": "Fellinis Trilogie der Einsamkeit",
+    "position": 3,
+    "note": "Dritter veröffentlichter Film der thematischen Folge La strada (1954), Il bidone (1955), Le notti di Cabiria (1957). Keine fortlaufende Handlung; Cabirias früherer Kurzauftritt in Der weiße Scheich ergibt keine zusätzliche Teilnummer in dieser Trilogie."
+  },
+  "series_note": "Das BFI benennt Il bidone ausdrücklich als Mittelteil zwischen La strada und Le notti di Cabiria; deshalb hier Teil 3. Namensähnlichkeit mit dem Stummfilm Cabiria von 1914 begründet keine Fortsetzung.",
+  "series_sources": [
+    "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online"
+  ],
+  "sources": {
+    "criterion": {
+      "url": "https://www.criterion.com/films/243",
+      "accessed_on": "2026-11-03",
+      "supports": "Figur und Hauptdarstellerin, Rom, Jahr 1957, Regie, Besetzung und Dialogmitwirkung Pasolinis; international ausgezeichnetes tragikomisches Drama."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/le-notti-di-cabiria/",
+      "accessed_on": "2026-11-03",
+      "supports": "Wettbewerb 1957, Giulietta Masinas einstimmiger Darstellerinnenpreis, Regie und Team."
+    },
+    "cnc": {
+      "url": "https://www.cnc.fr/professionnels/visas-et-classification/19023",
+      "accessed_on": "2026-11-03",
+      "supports": "Französischer amtlicher Filmnachweis: Länder Frankreich/Italien, Regie, Kinostart im Oktober 1957."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Nights_of_Cabiria",
+      "accessed_on": "2026-11-03",
+      "supports": "Giorgios Stoß in den Fluss und Geldraub, Lazzaris Wohnung und Badezimmer, Hypnoseauftritt mit Liebeswunsch sowie Oscar-Handlung."
+    },
+    "filmlinc": {
+      "url": "https://www.filmlinc.org/films/nights-of-cabiria1/",
+      "accessed_on": "2026-11-03",
+      "supports": "Italien/Frankreich 1957; Vorlage für Sweet Charity, 1997 restaurierte Sackträger-Episode, nach Cannes durch Produzent Dino De Laurentiis entfernt, weil er sie als verlangsamend empfand."
+    },
+    "trilogie": {
+      "url": "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online",
+      "accessed_on": "2026-11-03",
+      "supports": "Trilogy of Loneliness: La strada, Il bidone, Le notti di Cabiria in dieser Reihenfolge."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Cabiria verdient ihren Lebensunterhalt als Prostituierte.",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-110-L2",
+      "variant_of": "SCHAUSPIELER-BG-20261013-110-L2",
+      "question": "Womit verdient Cabiria (Giulietta Masina) in „Die Nächte der Cabiria“ ihren Lebensunterhalt?",
+      "answers": [
+        "Als Prostituierte",
+        "Als Nachtclubsängerin",
+        "Als Wahrsagerin",
+        "Als Straßenverkäuferin"
+      ],
+      "short": "Cabiria arbeitet als Prostituierte in Rom.",
+      "context": "Der Film stellt sie als eigensinnige Frau mit einem kleinen eigenen Haus vor. Ihre Arbeit bestimmt das Milieu der Begegnungen, erschöpft aber ihre Wünsche nicht. Die Hoffnung auf eine andere Beziehung zu den Menschen lässt Cabiria (Giulietta Masina) trotz wiederholter Enttäuschungen weiter handeln.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Handlung folgt Cabirias Leben in Rom und seiner Umgebung.",
+      "question": "In welcher Stadt und ihrer Umgebung bewegt sich Cabiria (Giulietta Masina) in „Die Nächte der Cabiria“?",
+      "answers": [
+        "Rom",
+        "Neapel",
+        "Mailand",
+        "Palermo"
+      ],
+      "short": "Cabirias Wege führen durch Rom und die Umgebung der Stadt.",
+      "context": "Der Film wechselt zwischen wohlhabenden Vergnügungsorten und sehr einfachen Lebensräumen. Cabiria (Giulietta Masina) begegnet dadurch verschiedenen sozialen Welten derselben Stadt. Die episodische Form folgt ihren Wegen, statt einen einzigen Arbeitsplatz oder eine feste gesellschaftliche Gruppe zum Mittelpunkt zu machen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Giorgio stößt Cabiria ins Wasser, um ihre Tasche und ihr Geld zu rauben.",
+      "question": "Welche Absicht steckt in „Die Nächte der Cabiria“ hinter Giorgios (Franco Fabrizi) Stoß gegen Cabiria (Giulietta Masina) am Fluss?",
+      "answers": [
+        "Er will ihre Tasche mit dem Geld rauben.",
+        "Er will sie vor einer Polizeirazzia verstecken.",
+        "Er will sie von einer heimlichen Verfolgerin trennen.",
+        "Er will sie zu einer gemeinsamen Flucht überreden."
+      ],
+      "short": "Giorgio stößt sie ins Wasser und flieht mit ihrer Tasche.",
+      "context": "Cabiria (Giulietta Masina) deutet die Situation zunächst als Spiel zwischen Liebenden. Andere Menschen retten sie vor dem Ertrinken. Der Anfang verknüpft ihre Zuversicht mit einer handfesten Erfahrung von Ausbeutung; sie wehrt sich jedoch dagegen, von ihrer Freundin nur als bemitleidenswert angesehen zu werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Unter Hypnose zeigt Cabiria vor Publikum ihren Wunsch nach einer liebevollen Ehe.",
+      "question": "Was wird bei Cabirias (Giulietta Masina) Hypnoseauftritt in „Die Nächte der Cabiria“ für das Publikum sichtbar?",
+      "answers": [
+        "Ihr Wunsch nach einer liebevollen Ehe",
+        "Ihr Wunsch nach der Rückkehr zu ihrer Familie",
+        "Ihr Wunsch nach einem Leben als berühmte Sängerin",
+        "Ihr Wunsch nach dem Aufstieg zur wohlhabenden Geschäftsfrau"
+      ],
+      "short": "Unter Hypnose spielt Cabiria ihre Sehnsucht nach Liebe und Heirat aus.",
+      "context": "Was die Zuschauer als Unterhaltung behandeln, gibt etwas sehr Persönliches preis. Cabiria (Giulietta Masina) fühlt sich nach dem Auftritt bloßgestellt. Oscar (François Périer), der im Saal war, spricht sie anschließend an; seine Aufmerksamkeit scheint zunächst genau dem verletzlichen Wunsch zu gelten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Cabiria muss sich in Lazzaris Badezimmer verbergen, als dessen Freundin zurückkehrt.",
+      "question": "Wohin wird Cabiria (Giulietta Masina) in „Die Nächte der Cabiria“ abgeschoben, als in Alberto Lazzaris (Amedeo Nazzari) Wohnung dessen Freundin zurückkehrt?",
+      "answers": [
+        "Ins Badezimmer",
+        "Auf den Balkon",
+        "In die Garage",
+        "In die Küche"
+      ],
+      "short": "Sie bleibt im Badezimmer verborgen.",
+      "context": "Der Filmstar hat Cabiria (Giulietta Masina) nach einem Streit mit seiner Freundin mitgenommen. Die für sie überwältigende Nähe zu Reichtum und Berühmtheit endet, sobald das Paar sich versöhnt. Durch die Tür bleibt sie vom Ereignis getrennt, an dem sie gerade noch teilzunehmen glaubte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Restaurierung von 1997 stellte die zuvor entfernte Sackträger-Episode wieder her.",
+      "question": "Welche Episode wurde für die Wiederaufführung von „Die Nächte der Cabiria“ 1997 wiederhergestellt?",
+      "answers": [
+        "Die Begegnung mit einem Mann, der Bedürftige mit Lebensmitteln versorgt",
+        "Eine Reise Cabirias zu einer Filmaufnahme in Venedig",
+        "Eine Gerichtsverhandlung gegen Oscar",
+        "Eine Versöhnung Cabirias mit Giorgio auf einem Bahnhof"
+      ],
+      "short": "Die Episode um den Mann mit dem Sack kehrte in den Film zurück.",
+      "context": "Der Mann verteilt Lebensmittel und andere notwendige Dinge an Menschen, die in Höhlen und unter Brücken leben. Produzent Dino De Laurentiis hatte die Sequenz nach Cannes entfernen lassen, weil sie aus seiner Sicht den Film verlangsamte. Ihre Wiederherstellung verändert den Umfang, nicht die Identität des Films von 1957.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmlinc",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Die Nächte der Cabiria wurde 1957 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Die Nächte der Cabiria“ mit Giulietta Masina erstmals gezeigt?",
+      "answers": [
+        "1957",
+        "1954",
+        "1960",
+        "1963"
+      ],
+      "short": "Der Film wurde 1957 erstmals gezeigt.",
+      "context": "Giulietta Masina erhielt noch im selben Jahr in Cannes den Preis für die beste Darstellerin. Bereits der ursprüngliche Festivalkontext verbindet den Film damit eng mit ihrer Leistung. Die erst 1997 wieder ergänzte Episode um den Lebensmittelverteiler gehört zur späteren Fassungs- und Restaurierungsgeschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cannes",
+        "filmlinc"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Federico Fellini inszenierte Die Nächte der Cabiria.",
+      "question": "Wer führte bei „Die Nächte der Cabiria“ mit Giulietta Masina und François Périer Regie?",
+      "answers": [
+        "Federico Fellini",
+        "Vittorio De Sica",
+        "Roberto Rossellini",
+        "Pietro Germi"
+      ],
+      "short": "Federico Fellini führte Regie.",
+      "context": "Zum Drehbuchteam gehörten Ennio Flaiano und Tullio Pinelli; Pier Paolo Pasolini arbeitete an zusätzlichen Dialogen mit. Die Mitarbeit am Text ist vom Regiecredit zu unterscheiden. Der Film gab außerdem die Anregung zum Musical „Sweet Charity“, das die Figur in einen anderen kulturellen Zusammenhang versetzte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "cannes",
+        "filmlinc"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

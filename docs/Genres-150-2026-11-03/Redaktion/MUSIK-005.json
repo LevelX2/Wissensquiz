@@ -1,0 +1,246 @@
+{
+  "id": "MUSIK-005",
+  "film_title_de": "Love & Mercy",
+  "film_title_original": "Love & Mercy",
+  "film_year": 2014,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse"
+  ],
+  "category_reason": "Zwei ineinander montierte Lebensphasen mit verschiedenen Hauptdarstellern und subjektive Toncollagen ersetzen die durchgehende Aufstiegschronik; die Autorenentscheidung ist im Pohlad-Interview erläutert.",
+  "familiarity_level": 3,
+  "familiarity_reason": "Anerkanntes, formal eigenständiges Musikerporträt, außerhalb des Beach-Boys- und Filmkunstpublikums weniger präsent.",
+  "selection_reason": "Ergänzt Musikbiografien um Studioarbeit und die problematische Vermischung von Fürsorge, Behandlung und Kontrolle.",
+  "directors": [
+    "Bill Pohlad"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere am 7. September 2014 beim Toronto International Film Festival; der US-Kinostart 2015 ist nicht das Erstjahr.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständiges Brian-Wilson-Porträt. Keine benannte nummerierte Filmfolge in Verleih- und Festivalquelle.",
+  "series_sources": [
+    "https://roadsideattractions.com/filmography/love-mercy/"
+  ],
+  "sources": {
+    "verleih": {
+      "url": "https://roadsideattractions.com/filmography/love-mercy/",
+      "accessed_on": "2026-11-03",
+      "supports": "USA-Filmjahr, Regie, Besetzung sowie Brian Wilson, Eugene Landy und Melinda Ledbetter."
+    },
+    "festival": {
+      "url": "https://media.tiff.net.s3.amazonaws.com/emails/pdf/2014%20Festival%20Galas%20%26%20SPs__.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "TIFF-Ankündigung 2014: Bill Pohlad, USA, Weltpremiere und Hauptbesetzung."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Love_%26_Mercy_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Erste Festivalpremiere, Panikattacke, Studioarbeit, Cadillac-Verkauf und Filmhandlung."
+    },
+    "interview": {
+      "url": "https://www.bfi.org.uk/sight-and-sound/interviews/i-can-hear-music-bill-pohlad-his-brian-wilson-biopic-love-mercy",
+      "accessed_on": "2026-11-03",
+      "supports": "Pohlads eigene Erläuterungen: zwei Epochen, zwei Darsteller, reale Studiomusiker und Super-16-Kameras; subjektive Toncollage."
+    },
+    "ton": {
+      "url": "https://mande.net/btl/awards/contenders-sound-mixing-editing-love-and-mercy/",
+      "accessed_on": "2026-11-03",
+      "supports": "Interviews mit Tonteam: Black-Hole-Collage aus Originalsessions, Gesprächsfetzen, Ross-Musik und Aufnahmegeräuschen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Im Zentrum steht Brian Wilson, Mitbegründer der Beach Boys.",
+      "question": "Wessen künstlerische Arbeit und persönliche Krisen zeigt „Love & Mercy“?",
+      "answers": [
+        "Die des Beach-Boys-Musikers Brian Wilson",
+        "Die des Doors-Sängers Jim Morrison",
+        "Die des Beatles-Produzenten George Martin",
+        "Die des Soul-Sängers Marvin Gaye"
+      ],
+      "short": "Im Zentrum steht Brian Wilson, Mitbegründer der Beach Boys.",
+      "context": "Brian Wilson (Paul Dano in der jüngeren und John Cusack in der älteren Phase) steht im Mittelpunkt. Der Film führt von der Arbeit an neuen Klängen in die Jahre unter dem Einfluss des Therapeuten Eugene Landy (Paul Giamatti). Melinda Ledbetter (Elizabeth Banks) begegnet ihm zunächst als ungewöhnlichem Kunden.",
+      "sources": [
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Melinda lernt Brian bei ihrer Arbeit im Autoverkauf kennen.",
+      "question": "Wo begegnet Melinda (Elizabeth Banks) Brian (John Cusack) in „Love & Mercy“ zunächst?",
+      "answers": [
+        "In einem Cadillac-Autohaus, in dem sie arbeitet",
+        "Beim Vorsingen für einen Platz als Backgroundsängerin",
+        "In einer Klinik, in der sie seine Ärztin ist",
+        "Auf einer Auktion seiner privaten Instrumente"
+      ],
+      "short": "Melinda lernt Brian bei ihrer Arbeit im Autoverkauf kennen.",
+      "context": "Melinda Ledbetter (Elizabeth Banks) verkauft Autos, als Brian Wilson (John Cusack) in ihr Leben tritt. Seine Eigentümlichkeiten erscheinen anfangs charmant. Erst später erkennt sie, wie stark Eugene Landy (Paul Giamatti) seinen Alltag kontrolliert. Ihre Außenperspektive führt das Publikum schrittweise in diese Abhängigkeit.",
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Brian zieht sich von Tourneen zurück, um sich auf die Studioarbeit zu konzentrieren.",
+      "question": "Warum möchte der jüngere Brian (Paul Dano) in „Love & Mercy“ nicht weiter mit den Beach Boys auf Tour gehen?",
+      "answers": [
+        "Er möchte nach einer Panikattacke vor allem komponieren und im Studio arbeiten.",
+        "Er will einen eigenen Musikverlag aufbauen und die Band verlassen.",
+        "Er möchte eine Solotournee mit einem eigenen Orchester vorbereiten.",
+        "Er möchte die Produktion eines Konzertfilms im Ausland übernehmen."
+      ],
+      "short": "Brian zieht sich von Tourneen zurück, um sich auf die Studioarbeit zu konzentrieren.",
+      "context": "Nach einer Panikattacke auf einer Flugreise sucht Brian Wilson (Paul Dano) Abstand vom Tourneealltag. Im Studio entwickelt er die komplexe Klangwelt von „Pet Sounds“. Seine musikalischen Vorstellungen geraten dabei in Spannung zu den Erwartungen an die erfolgreiche Popgruppe und zu Forderungen aus seinem familiären Umfeld.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Paul Dano und John Cusack verkörpern Brian in zwei miteinander verschränkten Lebensphasen.",
+      "question": "Wie verbindet „Love & Mercy“ die verschiedenen Lebensphasen Brian Wilsons?",
+      "answers": [
+        "Zwei Schauspieler spielen ihn in wechselnden Zeitebenen.",
+        "Ein alternder Erzähler kommentiert eine einzige lange Rückblende.",
+        "Jedes Bandmitglied erzählt denselben Tag aus seiner Sicht.",
+        "Eine Konzertprobe wird durch nachgestellte Kindheitsträume unterbrochen."
+      ],
+      "short": "Paul Dano und John Cusack verkörpern Brian in zwei miteinander verschränkten Lebensphasen.",
+      "context": "Paul Dano spielt den schöpferisch suchenden jüngeren Brian, John Cusack die spätere, stark kontrollierte Figur. Bill Pohlad konzentrierte sich bewusst auf diese zwei Zeiträume. Der Wechsel lässt musikalische Offenheit und spätere Verletzlichkeit nebeneinander sichtbar werden, ohne die dazwischenliegenden Jahre lückenlos nachzuerzählen.",
+      "sources": [
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Für die Studioszenen wurden echte Studiomusiker mit tatsächlichen Notenblättern eingesetzt.",
+      "question": "Wie unterstützte die Produktion von „Love & Mercy“ den Eindruck echter musikalischer Arbeit in den Studioszenen?",
+      "answers": [
+        "Sie ließ reale Studiomusiker mit Notenblättern musizieren.",
+        "Sie ließ Schauspieler zu den Originalaufnahmen synchron spielen.",
+        "Sie ließ Instrumentalisten stumm spielen und vertonte später neu.",
+        "Sie nahm Musiker getrennt auf und montierte sie zu Ensembles."
+      ],
+      "short": "Für die Studioszenen wurden echte Studiomusiker mit tatsächlichen Notenblättern eingesetzt.",
+      "context": "Die Musiker konnten tatsächlich spielen; Paul Dano kannte die Gespräche der historischen Aufnahmen eingehend. Laut Bill Pohlad blieb Kameramann Robert Yeoman den Proben fern. Beim Dreh mit zwei Super-16-Kameras musste er deshalb auf die entstehende Aktion reagieren, statt jede Bewegung bereits auswendig zu kennen.",
+      "sources": [
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Toncollage verbindet musikalische Fragmente mit Stimmen und historischen Sessionaufnahmen.",
+      "question": "Aus welchem Material entsteht die subjektive Klangcollage von „Love & Mercy“?",
+      "answers": [
+        "Aus Musikfragmenten, Stimmen und Aufnahmen der Beach-Boys-Sessions",
+        "Aus Bluesstandards, gesprochenen Gedichten und Straßenaufnahmen",
+        "Aus Orchestermusik, Radionachrichten und verfremdeten Militärsignalen",
+        "Aus Klavierimprovisationen, Tagebuchlesungen und Kirchenchören"
+      ],
+      "short": "Die Toncollage verbindet musikalische Fragmente mit Stimmen und historischen Sessionaufnahmen.",
+      "context": "Das Tonteam verknüpfte Fragmente von Beach-Boys-Aufnahmen, Gesprächsmaterial und Atticus Ross’ musikalische Bearbeitung. Für die Eröffnungssequenz entstand daraus eine Schichtung von Harmonie und Unruhe. Statt Wilsons innere Wahrnehmung nur im Dialog zu beschreiben, macht der Film das Hören selbst zu einem Zugang zur Figur.",
+      "sources": [
+        "ton"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Festivalveröffentlichung erfolgte 2014.",
+      "question": "In welchem Jahr wurde „Love & Mercy“ mit Paul Dano und John Cusack erstmals gezeigt?",
+      "answers": [
+        "2014",
+        "2008",
+        "2011",
+        "2018"
+      ],
+      "short": "Die erste Festivalveröffentlichung erfolgte 2014.",
+      "context": "„Love & Mercy“ hatte 2014 in Toronto Weltpremiere; in den USA folgte der Kinostart 2015. Der Filmtitel stammt von einem Stück auf Brian Wilsons Soloalbum von 1988. So trägt das Porträt bereits im Namen eine Verbindung zur späteren eigenständigen Arbeit des Musikers.",
+      "sources": [
+        "festival",
+        "handlung",
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Bill Pohlad führte Regie.",
+      "question": "Wer führte bei „Love & Mercy“ Regie?",
+      "answers": [
+        "Bill Pohlad",
+        "Cameron Crowe",
+        "Todd Haynes",
+        "James Mangold"
+      ],
+      "short": "Bill Pohlad führte Regie.",
+      "context": "Bill Pohlad entschied sich gemeinsam mit Drehbuchautor Oren Moverman für zwei zentrale Zeiträume. Melindas Begegnung mit einem ihr zunächst unbekannten Mann bot einen neuen Einstieg, während die Aufnahmen zu „Pet Sounds“ den schöpferischen Brian erschließen. Die Form entstand aus diesen beiden Zugängen zum Porträtierten.",
+      "sources": [
+        "verleih",
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

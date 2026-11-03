@@ -5335,7 +5335,10 @@
     },
     "Höstsonaten|1978": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://www.filmportal.de/film/herbstsonate_20c8e12289624ebab234d4ce0f5001b8",
+        "https://www.ingmarbergman.se/en/production/autumn-sonata"
+      ]
     },
     "Hot Fuzz|2007": {
       "series": {
@@ -6843,8 +6846,14 @@
       "sources": []
     },
     "La strada|1954": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Fellinis Trilogie der Einsamkeit",
+        "position": 1,
+        "note": "Erster Film der thematischen, nach Veröffentlichung gezählten Folge La strada (1954), Il bidone (1955), Le notti di Cabiria (1957). Keine fortlaufende Figurenhandlung."
+      },
+      "sources": [
+        "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online"
+      ]
     },
     "La Tortue rouge|2016": {
       "series": null,
@@ -7049,8 +7058,14 @@
       "sources": []
     },
     "Le notti di Cabiria|1957": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Fellinis Trilogie der Einsamkeit",
+        "position": 3,
+        "note": "Dritter veröffentlichter Film der thematischen Folge La strada (1954), Il bidone (1955), Le notti di Cabiria (1957). Keine fortlaufende Handlung; Cabirias früherer Kurzauftritt in Der weiße Scheich ergibt keine zusätzliche Teilnummer in dieser Trilogie."
+      },
+      "sources": [
+        "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online"
+      ]
     },
     "Le Quai des brumes|1938": {
       "series": null,
@@ -14940,7 +14955,10 @@
     },
     "Viskningar och rop|1972": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://www.ingmarbergman.se/en/production/cries-and-whispers",
+        "https://www.janusfilms.com/films/1035"
+      ]
     },
     "Vitus|2006": {
       "series": null,
@@ -15122,7 +15140,9 @@
     },
     "What's Love Got to Do with It|1993": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://d23.com/a-to-z/whats-love-got-to-do-with-it-film/"
+      ]
     },
     "What's Up, Doc?|1972": {
       "series": null,
@@ -15811,6 +15831,58 @@
       "sources": [
         "https://catalog.afi.com/Film/5134-THE-WESTERNER",
         "https://www.miramax.com/movie/the-westerner-1940/"
+      ]
+    },
+    "Love & Mercy|2014": {
+      "series": null,
+      "sources": [
+        "https://roadsideattractions.com/filmography/love-mercy/"
+      ]
+    },
+    "The Last Waltz|1978": {
+      "series": null,
+      "sources": [
+        "https://www.criterion.com/films/29460-the-last-waltz"
+      ]
+    },
+    "Tina|2021": {
+      "series": null,
+      "sources": [
+        "https://filmsandfestivals.britishcouncil.org/projects/tina"
+      ]
+    },
+    "Billy Elliot|2000": {
+      "series": null,
+      "sources": [
+        "https://www.workingtitlefilms.com/film/billy-elliot/"
+      ]
+    },
+    "Funny Face|1957": {
+      "series": null,
+      "sources": [
+        "https://www.paramount.com/movies/funny-face"
+      ]
+    },
+    "Nattvardsgästerna|1963": {
+      "series": {
+        "name": "Bergmans Glaubenstrilogie",
+        "position": 2,
+        "note": "Zweiter veröffentlichter Film der thematischen Folge Wie in einem Spiegel (1961), Licht im Winter (1963), Das Schweigen (1963). Keine Fortsetzung mit denselben Figuren; die Stiftung benennt diese Reihenfolge ausdrücklich."
+      },
+      "sources": [
+        "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+        "https://www.ingmarbergman.se/en/production/winter-light"
+      ]
+    },
+    "Såsom i en spegel|1961": {
+      "series": {
+        "name": "Bergmans Glaubenstrilogie",
+        "position": 1,
+        "note": "Erster veröffentlichter Film der thematischen Folge mit Licht im Winter und Das Schweigen (beide 1963). Die Figuren und Handlung werden nicht fortgesetzt."
+      },
+      "sources": [
+        "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+        "https://cinema.wisc.edu/2016/02/26/through-glass-darkly-beginnings-bergmans-chamber-cinema/"
       ]
     }
   }

@@ -1,0 +1,234 @@
+{
+  "id": "MUSIK-006",
+  "film_title_de": "The Last Waltz",
+  "film_title_original": "The Last Waltz",
+  "film_year": 1978,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse"
+  ],
+  "category_reason": "Scorseses filmisch gestaltete Verbindung aus Abschiedskonzert, Interviews und eigens inszenierten Studioauftritten entwickelt eine Reflexion über Tourneeleben; begründet durch den Criterion-Essay und die tatsächliche Form.",
+  "familiarity_level": 3,
+  "familiarity_reason": "Kanonischer Konzertfilm, besonders unter Rockmusik- und Dokumentarfilmkennern bekannt.",
+  "selection_reason": "Bringt eine konzentrierte Konzertdokumentation mit vielen musikalischen Gästen und bewusster Gestaltung zwischen Bühne und Rückblick ein.",
+  "directors": [
+    "Martin Scorsese"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Filmveröffentlichung 1978; das zentrale Konzert wurde bereits am 25. November 1976 aufgezeichnet.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständiger Konzertfilm; weitere Scorsese-Musikdokumentationen bilden keine nummerierte Filmreihe.",
+  "series_sources": [
+    "https://www.criterion.com/films/29460-the-last-waltz"
+  ],
+  "sources": {
+    "edition": {
+      "url": "https://www.criterion.com/films/29460-the-last-waltz",
+      "accessed_on": "2026-11-03",
+      "supports": "USA, Filmjahr 1978, Regie, Bandmitglieder, Gastmusiker und Charakter als Konzertfilm."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/7742-the-last-waltz-long-hard-road",
+      "accessed_on": "2026-11-03",
+      "supports": "Abschied vom Tourneeleben, Thanksgiving-Bewirtung, Studioaufnahme mit den Staple Singers, Filmgestaltung und Entstehung."
+    },
+    "film": {
+      "url": "https://en.wikipedia.org/wiki/The_Last_Waltz",
+      "accessed_on": "2026-11-03",
+      "supports": "Winterland in San Francisco, Konzert 1976 versus Film 1978, Montage mit Interviews, Kameraplanung und Studiosegmente."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "The Band steht im Mittelpunkt des Konzertfilms.",
+      "question": "Welche Gruppe steht mit zahlreichen Gästen im Zentrum von „The Last Waltz“?",
+      "answers": [
+        "The Band",
+        "The Who",
+        "The Byrds",
+        "Creedence Clearwater Revival"
+      ],
+      "short": "The Band steht im Mittelpunkt des Konzertfilms.",
+      "context": "Rick Danko, Levon Helm, Garth Hudson, Richard Manuel und Robbie Robertson treten als The Band auf. Zu ihnen kommen unter anderem Bob Dylan, Joni Mitchell und Muddy Waters. Der Film stellt die Gruppe dadurch zugleich in ein Netz musikalischer Weggefährten und unterschiedlicher amerikanischer Musiktraditionen.",
+      "sources": [
+        "edition"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Das Konzert ist als Abschied vom gemeinsamen Tourneeleben angelegt.",
+      "question": "Welchen Anlass hat das zentrale Konzert von „The Last Waltz“?",
+      "answers": [
+        "Den Abschied der klassischen Bandbesetzung vom Tourneeleben",
+        "Die Feier eines neu aufgenommenen Doppelalbums",
+        "Ein Benefizkonzert für die Restaurierung des Konzertsaals",
+        "Das Jubiläum der Gründung ihrer ersten Plattenfirma"
+      ],
+      "short": "Das Konzert ist als Abschied vom gemeinsamen Tourneeleben angelegt.",
+      "context": "Besonders Robbie Robertson beschreibt die langen Jahre unterwegs als erschöpfend. Der Bühnenabend feiert die gemeinsame Musik, während die Gespräche Müdigkeit und den Wunsch nach Veränderung erkennen lassen. Der Abschied bedeutet deshalb mehr als das Ende eines gewöhnlichen Konzerts.",
+      "sources": [
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Das zentrale Konzert fand im Winterland Ballroom in San Francisco statt.",
+      "question": "Wo wurde das zentrale Abschiedskonzert für „The Last Waltz“ aufgezeichnet?",
+      "answers": [
+        "Im Winterland Ballroom in San Francisco",
+        "In der Royal Albert Hall in London",
+        "Im CBGB in New York",
+        "Im Ryman Auditorium in Nashville"
+      ],
+      "short": "Das zentrale Konzert fand im Winterland Ballroom in San Francisco statt.",
+      "context": "Der Winterland Ballroom war für The Band bereits mit ihrer früheren Laufbahn verbunden. Für den Abschiedsabend verwandelte sich der Saal in einen festlich ausgestatteten Konzertort. Die Filmfassung ergänzt die dortigen Aufnahmen um Material, das zu anderen Zeiten und an anderen Orten entstand.",
+      "sources": [
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der Film verbindet Konzertaufnahmen mit Gesprächen der Bandmitglieder.",
+      "question": "Wie erweitert „The Last Waltz“ die Bühnenaufnahmen um die Geschichte der Gruppe?",
+      "answers": [
+        "Durch Gespräche mit den Musikern zwischen den Auftritten",
+        "Durch nachgespielte Szenen aus der Jugend der Musiker",
+        "Durch einen Offkommentar aus dem Tagebuch des Bandmanagers",
+        "Durch alte Fernsehberichte in chronologischer Folge vor dem Konzert"
+      ],
+      "short": "Der Film verbindet Konzertaufnahmen mit Gesprächen der Bandmitglieder.",
+      "context": "In den Gesprächen erzählen die Musiker von frühen Auftritten, ihrer Namensfindung und dem Leben unterwegs. Die Montage lässt Bühnenenergie und Rückblick aufeinander reagieren. So erhält das Publikum neben den Liedern auch persönliche, teils unterschiedlich gefärbte Erinnerungen an die gemeinsame Laufbahn.",
+      "sources": [
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "The Weight mit den Staple Singers wurde gesondert auf einer Studiobühne aufgenommen.",
+      "question": "Welche Besonderheit hat die „The Weight“-Darbietung mit den Staple Singers in „The Last Waltz“?",
+      "answers": [
+        "Sie wurde gesondert auf einer Studiobühne gedreht.",
+        "Sie stammt von einer zufällig gefilmten Straßenprobe.",
+        "Sie wurde ohne Mitwirkung von The Band aufgenommen.",
+        "Sie ist ein unveränderter Fernsehauftritt aus den Anfangsjahren."
+      ],
+      "short": "The Weight mit den Staple Singers wurde gesondert auf einer Studiobühne aufgenommen.",
+      "context": "Nicht jede Aufführung der Filmfassung gehört zum Winterland-Abend. Für „The Weight“ versammelt eine Studiobühne The Band und die Staple Singers. Der gezielt eingerichtete Auftritt erweitert das Konzertdokument um eine weitere musikalische Begegnung, deren Harmonien und Stimmen der Film konzentriert zeigt.",
+      "sources": [
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Das Publikum erhielt vor dem Konzert ein Thanksgiving-Essen.",
+      "question": "Welche ungewöhnliche Vorbereitung gehörte zum Konzertabend hinter „The Last Waltz“?",
+      "answers": [
+        "Ein Thanksgiving-Essen wurde dem Publikum serviert.",
+        "Ein Nachwuchswettbewerb vergab die Gastplätze auf der Bühne.",
+        "Ein Gospelchor wurde aus dem Publikum zusammengestellt.",
+        "Eine Auktion alter Instrumente eröffnete den Abend."
+      ],
+      "short": "Das Publikum erhielt vor dem Konzert ein Thanksgiving-Essen.",
+      "context": "Veranstalter Bill Graham ließ den Besuchern ein festliches Abendessen servieren. Währenddessen spielte ein Orchester Walzer und lud zum Tanzen ein. Der spätere Rockauftritt war also Teil eines aufwendig gestalteten Abends, bei dem Bewirtung, Tanz und gemeinsamer Abschied zusammengehörten.",
+      "sources": [
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Film erschien 1978.",
+      "question": "In welchem Jahr erschien der Konzertfilm „The Last Waltz“ erstmals?",
+      "answers": [
+        "1978",
+        "1972",
+        "1983",
+        "1988"
+      ],
+      "short": "Der Film erschien 1978.",
+      "context": "„The Last Waltz“ erschien 1978, während das Abschiedskonzert bereits an Thanksgiving 1976 stattgefunden hatte. Die Filmfassung ist damit das Ergebnis weiterer Arbeit nach dem Bühnenereignis: Interviews, Montage und zusätzliche Studioauftritte formen aus dem Abend ein eigenständiges Kinowerk.",
+      "sources": [
+        "edition",
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Martin Scorsese führte Regie.",
+      "question": "Wer inszenierte den Konzertfilm „The Last Waltz“?",
+      "answers": [
+        "Martin Scorsese",
+        "Jonathan Demme",
+        "Michael Wadleigh",
+        "D. A. Pennebaker"
+      ],
+      "short": "Martin Scorsese führte Regie.",
+      "context": "Martin Scorsese plante Kamera- und Lichteinsätze anhand der Stücke. Auf der Bühne mussten die Beteiligten trotzdem mit einem tatsächlich ablaufenden Konzert umgehen. Der Film verbindet diese Vorbereitung mit den Gesprächen, in denen Scorsese selbst als Interviewer die Erinnerungen der Musiker hervorholt.",
+      "sources": [
+        "edition",
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

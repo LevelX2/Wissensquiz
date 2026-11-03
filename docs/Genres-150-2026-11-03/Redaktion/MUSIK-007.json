@@ -1,0 +1,248 @@
+{
+  "id": "MUSIK-007",
+  "film_title_de": "Tina",
+  "film_title_original": "Tina",
+  "film_year": 2021,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein viel beachtetes spätes Porträt; die konkrete Dokumentation ist weniger allgemein bekannt als die Sängerin und ihre Hits.",
+  "selection_reason": "Die Musikerin reflektiert ihre öffentliche Lebensgeschichte selbst; der Film macht auch die Belastung durch deren ständige Wiederholung sichtbar.",
+  "directors": [
+    "Dan Lindsay",
+    "T. J. Martin"
+  ],
+  "production_countries": [
+    "USA",
+    "Vereinigtes Königreich"
+  ],
+  "release_note": "Weltpremiere am 2. März 2021 im Berlinale Special, anschließend HBO-Premiere am 27. März. Keine Verwechslung mit dem Spielfilm von 1993.",
+  "director_note": "Gemeinsame Regie; BFI nennt Daniel Lindsay, British Council den gebräuchlichen Credit Dan Lindsay.",
+  "country_note": "BFI führt USA; die Filmreferenz nennt USA und Vereinigtes Königreich, British Council verzeichnet das Projekt ebenfalls in seiner UK-Datenbank.",
+  "series": null,
+  "series_note": "Eigenständiger Dokumentarfilm. Das Biopic von 1993, Bücher und Bühnenmusical sind keine nummerierten Vorgänger dieser Filmfassung.",
+  "series_sources": [
+    "https://filmsandfestivals.britishcouncil.org/projects/tina"
+  ],
+  "sources": {
+    "bfi": {
+      "url": "https://player.bfi.org.uk/rentals/film/watch-tina-2021-online",
+      "accessed_on": "2026-11-03",
+      "supports": "Form mit Interviews und Archivauftritten, fünf Teile, vierter Teil mit Londoner Aufnahme und Wiederaufstieg, Regie und Filmjahr."
+    },
+    "credits": {
+      "url": "https://filmsandfestivals.britishcouncil.org/projects/tina",
+      "accessed_on": "2026-11-03",
+      "supports": "Gemeinsame Regie, Dokumentarfilm, Filmjahr, Berlinale Special und Mitwirkende."
+    },
+    "presse": {
+      "url": "https://hbowatch.com/whats-on-hbo-schedule-for-march-2021/",
+      "accessed_on": "2026-11-03",
+      "supports": "Wiedergegebene HBO-Ankündigung: neues Interview in Zürich, Archivmaterial aus sechs Jahrzehnten und Beteiligte."
+    },
+    "kritik": {
+      "url": "https://www.nhpr.org/national/2021-03-27/tina-turners-life-explored-in-new-documentary",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkrete Sichtung: Erwin Bach über Abschied, mediale Wiederholung der Gewaltgeschichte, anfängliche Ablehnung des Titelsongs und Private Dancer."
+    },
+    "daten": {
+      "url": "https://en.wikipedia.org/wiki/Tina_(2021_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Berlinale-Weltpremiere 2021, Länder USA/UK und Abgrenzung der Fassung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Dokumentation verbindet aktuelle Interviews mit historischen Aufnahmen.",
+      "question": "Wie erschließt „Tina“ das Leben der Sängerin?",
+      "answers": [
+        "Durch Interviews und historische Bühnen- und Filmaufnahmen",
+        "Durch eine vollständig nachgespielte Familienchronik mit neuer Hauptdarstellerin",
+        "Durch eine einzige ungeschnittene Generalprobe ohne Gespräche",
+        "Durch eine erfundene Radiosendung mit anonymen Sprechrollen"
+      ],
+      "short": "Die Dokumentation verbindet aktuelle Interviews mit historischen Aufnahmen.",
+      "context": "Neben Tina Turner sprechen unter anderem Angela Bassett, Oprah Winfrey und Kurt Loder. Loder hatte ihre Lebensgeschichte mit ihr aufgeschrieben; Bassett hatte sie im Spielfilm verkörpert. Die verschiedenen Perspektiven führen damit auch zu früheren Versuchen zurück, dieses Leben öffentlich zu erzählen.",
+      "sources": [
+        "bfi",
+        "presse",
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "L2",
+      "objective": "Das neue Interview mit Tina Turner entstand in Zürich.",
+      "question": "Wo wurde Tina Turner für das persönliche neue Interview in „Tina“ besucht?",
+      "answers": [
+        "In Zürich in der Schweiz",
+        "In Memphis in Tennessee",
+        "In Kapstadt in Südafrika",
+        "In Sydney in Australien"
+      ],
+      "short": "Das neue Interview mit Tina Turner entstand in Zürich.",
+      "context": "Das spätere Schweizer Lebensumfeld bildet einen Gegenpol zur Bühnenlaufbahn. Ihr Ehemann Erwin Bach spricht im Film von einem geplanten Abschied vom amerikanischen Publikum. Das neue Interview gehört damit zu einem Porträt, das neben der Karriere auch die Möglichkeit eines Rückzugs betrachtet.",
+      "sources": [
+        "presse",
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "M1",
+      "objective": "Private Dancer ist das zentrale Album ihres großen Soloerfolgs in den Achtzigerjahren.",
+      "question": "Welches Album steht für den großen Solo-Wiederaufstieg, den „Tina“ nachzeichnet?",
+      "answers": [
+        "Private Dancer",
+        "Tapestry",
+        "Bad Girls",
+        "Whitney"
+      ],
+      "short": "Private Dancer steht für ihren großen Soloerfolg in den Achtzigerjahren.",
+      "context": "Mit „Private Dancer“ von 1984 erreicht Tina Turner ein neues internationales Publikum. Der Film verfolgt die Arbeit, die diesem Erfolg vorausgeht, einschließlich der Londoner Produktion des Hits „What’s Love Got to Do with It“. Der vierte Teil konzentriert sich auf diese erneute Etablierung als Solokünstlerin.",
+      "sources": [
+        "bfi",
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Pressefragen holen Tina immer wieder in ihre Gewalterfahrungen mit Ike zurück.",
+      "question": "Welche Belastung durch öffentliche Interviews macht „Tina“ mit Archivclips sichtbar?",
+      "answers": [
+        "Sie soll immer wieder über die Gewalt ihres früheren Mannes sprechen.",
+        "Sie muss in jedem Land ihren Künstlernamen neu erklären.",
+        "Sie darf öffentlich keine Lieder aus ihrer frühen Karriere nennen.",
+        "Sie soll wiederholt eine nie geplante Auflösung ihrer Soloband bestätigen."
+      ],
+      "short": "Pressefragen holen Tina immer wieder in ihre Gewalterfahrungen mit Ike zurück.",
+      "context": "Archivmaterial zeigt Fragen nach Ike selbst während der Werbung für „Mad Max – Jenseits der Donnerkuppel“. Tina Turner erklärt auch, ihre Geschichte sei bereits erzählt, damit sie diese Erfahrungen nicht ständig erneut besprechen müsse. Der Dokumentarfilm hält so den öffentlichen Erfolg und die Kosten dieser Aufmerksamkeit nebeneinander.",
+      "sources": [
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Tina Turner mochte What’s Love Got to Do with It zunächst nicht.",
+      "question": "Welche erste Reaktion auf „What’s Love Got to Do with It“ schildert Tina Turner in „Tina“?",
+      "answers": [
+        "Sie lehnte das Lied zunächst ab.",
+        "Sie wollte das Lied als Duett aufnehmen.",
+        "Sie plante es zunächst als reine Konzertzugabe.",
+        "Sie bestand auf einer Fassung ohne Schlagzeug."
+      ],
+      "short": "Tina Turner mochte What’s Love Got to Do with It zunächst nicht.",
+      "context": "Ihre Plattenfirma sah die Zukunft einer schwarzen Sängerin mittleren Alters in der Rockmusik skeptisch und erwog, sie fallen zu lassen. Die Dokumentation stellt solche Vorbehalte neben Turners eigene anfängliche Ablehnung des Lieds. Der spätere Welterfolg erscheint dadurch als Ergebnis einer unsicheren Neuausrichtung.",
+      "sources": [
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Dokumentation ordnet die Laufbahn in fünf Teile.",
+      "question": "Welche größere Gliederung gibt „Tina“ dem umfangreichen Lebens- und Archivmaterial?",
+      "answers": [
+        "Fünf Teile führen durch die verschiedenen Karrierephasen.",
+        "Ein einziger Konzertabend liefert die zeitliche Ordnung.",
+        "Die Lebensgeschichte wird konsequent rückwärts erzählt.",
+        "Jedes Kapitel ist ausschließlich einem einzelnen Album gewidmet."
+      ],
+      "short": "Die Dokumentation ordnet die Laufbahn in fünf Teile.",
+      "context": "Die Fünfteilung schafft Platz für frühen Aufstieg, persönliche Trennung und spätere Erfolge. Im vierten Teil rückt die Entstehung des großen Achtzigerjahre-Comebacks ins Zentrum. Die Gliederung bewahrt den Unterschied zwischen dem Erfolg des früheren Duos und der späteren eigenständigen Karriere.",
+      "sources": [
+        "bfi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Die Dokumentation wurde 2021 erstmals veröffentlicht.",
+      "question": "Wann wurde der Dokumentarfilm „Tina“ von Dan Lindsay und T. J. Martin erstmals gezeigt?",
+      "answers": [
+        "2021",
+        "2013",
+        "2017",
+        "2024"
+      ],
+      "short": "Die Dokumentation wurde 2021 erstmals veröffentlicht.",
+      "context": "Die Dokumentation hatte 2021 bei der Berlinale Weltpremiere. Bereits 1993 war Tina Turners Geschichte im Spielfilm „What’s Love Got to Do with It“ dargestellt worden. Das spätere Werk blickt zusätzlich auf diese öffentliche Verarbeitung zurück und lässt die Sängerin selbst auf deren Folgen reagieren.",
+      "sources": [
+        "daten",
+        "bfi",
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Dan Lindsay und T. J. Martin führten gemeinsam Regie.",
+      "question": "Welches Team führte beim Dokumentarfilm „Tina“ Regie?",
+      "answers": [
+        "Dan Lindsay und T. J. Martin",
+        "Albert Maysles und David Maysles",
+        "Joe Berlinger und Bruce Sinofsky",
+        "Chris Hegedus und D. A. Pennebaker"
+      ],
+      "short": "Dan Lindsay und T. J. Martin führten gemeinsam Regie.",
+      "context": "Dan Lindsay und T. J. Martin konnten ein neues Gespräch mit Tina Turner, Aussagen aus ihrem Umfeld und umfangreiche ältere Aufnahmen zusammenführen. Zu den Mitwirkenden zählen auch Angela Bassett und Oprah Winfrey, die als reale Gesprächspartnerinnen auftreten.",
+      "sources": [
+        "credits",
+        "presse"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "MUSIK-009",
+  "film_title_de": "Ein süßer Fratz",
+  "film_title_original": "Funny Face",
+  "film_year": 1957,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Bekannter Hepburn-Astaire-Klassiker, jedoch weniger allgemein präsent als Frühstück bei Tiffany oder My Fair Lady.",
+  "selection_reason": "Verbindet Musical, Modefotografie und Pariser Schauplätze mit der Kollision von Intellektualität und Werbung.",
+  "directors": [
+    "Stanley Donen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1957. AFI nennt den New Yorker Start am 28. März und den breiteren Start im April; Wikipedia führt abweichend den 13. Februar. Das gemeinsame Erstjahr ist gesichert.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständiges Musical mit Stoff- und Songbezügen zu Bühnenwerken. Keine belegte nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.paramount.com/movies/funny-face"
+  ],
+  "sources": {
+    "verleih": {
+      "url": "https://www.paramount.com/movies/funny-face",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmjahr, Regie, vollständige Rollencredits, Buchverkäuferin, Paris, Avedon als Vorbild, Hepburns eigene Stimme und musikalische Nummern."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/52182-FUNNY-FACE",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Katalog-Suchindex: USA, 1957, Regie, neue Gershe-Handlung, Quality-Magazin und Pink-Kampagne."
+    },
+    "kino": {
+      "url": "https://silver.afi.com/movies/detail/0100001685/",
+      "accessed_on": "2026-11-03",
+      "supports": "AFI-Filmprogramm: Modefoto-Montage, Pariser Orte, Givenchy-Kleidung und konkrete Musicalnummern."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Funny_Face",
+      "accessed_on": "2026-11-03",
+      "supports": "Philosophievorträge als Reisemotiv, Rollen, Abweichung von der Bühnenhandlung und vier übernommene Songs aus der Revue von 1927."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jo arbeitet zunächst in einer Buchhandlung.",
+      "question": "Wo arbeitet Jo Stockton (Audrey Hepburn), bevor sie in „Ein süßer Fratz“ als Model entdeckt wird?",
+      "answers": [
+        "In einer Buchhandlung",
+        "In einer Hotelküche",
+        "In einer Ballettschule",
+        "In einer Zeitungsdruckerei"
+      ],
+      "short": "Jo arbeitet zunächst in einer Buchhandlung.",
+      "context": "Jo Stockton (Audrey Hepburn) begegnet der Modewelt zunächst an ihrem bisherigen Arbeitsplatz. Fotograf Dick Avery (Fred Astaire) erkennt bei den Aufnahmen in der Buchhandlung ein ungewöhnliches Gesicht. Die Entdeckung bringt eine Frau in die Werbekampagne, die deren Wertvorstellungen anfangs deutlich skeptisch betrachtet.",
+      "sources": [
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Modekampagne führt Jo nach Paris.",
+      "question": "In welche Stadt reist Jo (Audrey Hepburn) für die Modeaufnahmen in „Ein süßer Fratz“?",
+      "answers": [
+        "Paris",
+        "Rom",
+        "Wien",
+        "Madrid"
+      ],
+      "short": "Die Modekampagne führt Jo nach Paris.",
+      "context": "Die Reise macht Jo Stockton (Audrey Hepburn) zur Beteiligten einer großen Modekampagne. An Pariser Wahrzeichen entstehen Aufnahmen mit Dick Avery (Fred Astaire). Die Foto-Montage verbindet ihre neue Rolle vor der Kamera mit der Bewegung durch die Stadt und den ausgestellten Kleidern.",
+      "sources": [
+        "kino",
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Jo nimmt das Modelangebot an, weil sie in Paris einen Philosophen hören möchte.",
+      "question": "Was macht das Modelangebot für Jo (Audrey Hepburn) in „Ein süßer Fratz“ trotz ihrer Vorbehalte reizvoll?",
+      "answers": [
+        "Die Möglichkeit, in Paris Professor Flostres Vorträge zu besuchen",
+        "Die Einladung zu einem internationalen Literaturkongress",
+        "Die Aussicht auf eine Stelle in einem französischen Verlag",
+        "Die Zusage eines Forschungsstipendiums an der Sorbonne"
+      ],
+      "short": "Jo nimmt das Modelangebot an, weil sie in Paris einen Philosophen hören möchte.",
+      "context": "Jo Stockton (Audrey Hepburn) interessiert sich für die Ideen von Professor Émile Flostre (Michel Auclair). Der Aufenthalt in Paris soll ihr Zugang zu seinem Kreis verschaffen. Ihr Ziel unterscheidet sich deshalb von den Erwartungen des Fotografen Dick Avery (Fred Astaire) und der Magazinleitung.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Maggie erklärt Pink zur Modefarbe ihrer Kampagne.",
+      "question": "Welche Farbe propagiert Maggie Prescott (Kay Thompson) in der Eröffnungsnummer von „Ein süßer Fratz“?",
+      "answers": [
+        "Pink",
+        "Türkis",
+        "Gold",
+        "Violett"
+      ],
+      "short": "Maggie erklärt Pink zur Modefarbe ihrer Kampagne.",
+      "context": "Maggie Prescott (Kay Thompson) sucht eine neue Idee für ihr Magazin und ruft Pink zum Trend aus. „Think Pink!“ weitet die Entscheidung in einer Musicalnummer auf Kleidung und Alltagswelt aus. Der Auftakt zeigt, wie eine redaktionelle Vorgabe als flächendeckendes Modeversprechen inszeniert wird.",
+      "sources": [
+        "afi",
+        "kino"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Richard Avedon war Vorbild für Dick Avery und visueller Berater des Films.",
+      "question": "Welcher reale Fotograf stand hinter der Gestaltung des Modefotografen Dick Avery in „Ein süßer Fratz“?",
+      "answers": [
+        "Richard Avedon",
+        "Irving Penn",
+        "Horst P. Horst",
+        "Cecil Beaton"
+      ],
+      "short": "Richard Avedon war Vorbild für Dick Avery und visueller Berater des Films.",
+      "context": "Richard Avedon war nicht nur ein Vorbild für Dick Avery (Fred Astaire), sondern wirkte als visueller Berater mit. Der Film bringt die Arbeit mit Gesichtern, Posen und Modeaufnahmen unmittelbar in seine Handlung. Die Fotografien gehören zum Stoff und zugleich zur Gestaltung des Musicals.",
+      "sources": [
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Audrey Hepburn singt ihre Lieder in diesem Film selbst.",
+      "question": "Was gilt für Audrey Hepburns Gesangsauftritte in „Ein süßer Fratz“?",
+      "answers": [
+        "Sie singt die Lieder selbst.",
+        "Marni Nixon übernimmt ihre gesamte Gesangsstimme.",
+        "Kay Thompson singt ihre Soli außerhalb des Bildes.",
+        "Die Nummern verwenden unveränderte Broadway-Aufnahmen Adele Astaires."
+      ],
+      "short": "Audrey Hepburn singt ihre Lieder in diesem Film selbst.",
+      "context": "Audrey Hepburn ist als Jo Stockton zu sehen und mit der eigenen Gesangsstimme zu hören. Zu ihren Nummern gehören „How Long Has This Been Going On?“ und das Duett „’S Wonderful“. Die Verfilmung nutzt damit Gesang, Tanz und schauspielerische Darstellung der Hauptdarstellerin in derselben Rolle.",
+      "sources": [
+        "verleih",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Das Filmmusical erschien 1957.",
+      "question": "Wann erschien „Ein süßer Fratz“ mit Audrey Hepburn und Fred Astaire erstmals?",
+      "answers": [
+        "1957",
+        "1949",
+        "1964",
+        "1971"
+      ],
+      "short": "Das Filmmusical erschien 1957.",
+      "context": "Das Filmmusical erschien 1957. Die gleichnamige Broadway-Show von 1927 hatte ebenfalls Fred Astaire als Star; für den Film wurden mehrere Gershwin-Songs übernommen. Die neue Handlung um Jo Stockton (Audrey Hepburn) und die Modefotografie ist jedoch keine bloße Übertragung der früheren Bühnengeschichte.",
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Stanley Donen führte Regie.",
+      "question": "Wer führte bei „Ein süßer Fratz“ mit Audrey Hepburn und Fred Astaire Regie?",
+      "answers": [
+        "Stanley Donen",
+        "Vincente Minnelli",
+        "Charles Walters",
+        "George Cukor"
+      ],
+      "short": "Stanley Donen führte Regie.",
+      "context": "Stanley Donen inszenierte das Musical nach einem Drehbuch von Leonard Gershe. Die Nummern entstehen in unterschiedlichen Arbeits- und Lebensräumen: im Magazin, in einer Dunkelkammer oder vor Pariser Wahrzeichen. Aus Fotos, Gesang und Bewegung wird die Geschichte einer neuen beruflichen und romantischen Konstellation.",
+      "sources": [
+        "afi",
+        "kino",
+        "verleih"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

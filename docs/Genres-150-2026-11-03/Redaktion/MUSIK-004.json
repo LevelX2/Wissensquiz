@@ -1,0 +1,233 @@
+{
+  "id": "MUSIK-004",
+  "film_title_de": "Tina – What’s Love Got to Do with It?",
+  "film_title_original": "What's Love Got to Do with It",
+  "film_year": 1993,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Bekanntes Musikbiopic mit Angela Bassett und Laurence Fishburne; die Person ist noch bekannter als diese konkrete Verfilmung.",
+  "selection_reason": "Verbindet Bühnenarbeit und musikalische Selbstständigkeit mit dem Ausstieg aus einer gewalttätigen Ehe.",
+  "directors": [
+    "Brian Gibson"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1993. D23 und AFI nennen erste reguläre Vorführungen am 9. Juni, D23 den breiten Start am 11. Juni. Abweichende Tagesangaben bei Wikipedia ändern das gesicherte Filmjahr nicht.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Adaption von I, Tina. Der Dokumentarfilm Tina von 2021 erzählt dieselbe Biografie in anderer Form und ist keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://d23.com/a-to-z/whats-love-got-to-do-with-it-film/"
+  ],
+  "sources": {
+    "disney": {
+      "url": "https://d23.com/a-to-z/whats-love-got-to-do-with-it-film/",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausgangskonflikt, Regie, Besetzung, Veröffentlichung, autobiografische Vorlage, echte Gesangsstimme und früheres Wohnhaus als Drehort."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/59707-WHATS-LOVE-GOT-TO-DO-WITH-IT?cxt=filmography",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Suchindex: Credits, USA, Erstjahr und erste öffentliche Starts; Autobiografie von 1986 und Rechteerwerb."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/What's_Love_Got_to_Do_with_It_(1993_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmhandlung: erster Bühnenauftritt, Namensforderung bei der Scheidung, buddhistische Praxis; Darstellung und tatsächliche Biografie ausdrücklich getrennt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ike entdeckt Anna Maes Stimme bei einem Auftritt im Nachtclub.",
+      "question": "Wie macht Anna Mae (Angela Bassett) in „Tina – What’s Love Got to Do with It?“ Ike erstmals auf ihr Gesangstalent aufmerksam?",
+      "answers": [
+        "Sie singt im Nachtclub mit seiner Band.",
+        "Sie schickt ihm eine professionell produzierte Schallplatte.",
+        "Sie gewinnt einen von ihm geleiteten Radiowettbewerb.",
+        "Sie tritt als Solistin vor seiner Kirchengemeinde auf."
+      ],
+      "short": "Ike entdeckt Anna Maes Stimme bei einem Auftritt im Nachtclub.",
+      "context": "Anna Mae (Angela Bassett) besucht mit ihrer Schwester einen Club, in dem Ike Turner (Laurence Fishburne) spielt. Als sie ans Mikrofon kommt, beeindruckt sie ihn unmittelbar. Aus dem Zugang zur Bühne entwickelt sich eine berufliche Verbindung, die später von seiner Kontrolle bestimmt wird.",
+      "sources": [
+        "handlung",
+        "disney"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Der gemeinsame Musikerfolg verdeckt Ikes Gewalt gegen seine Frau.",
+      "question": "Welcher Konflikt bedroht in „Tina – What’s Love Got to Do with It?“ die erfolgreiche gemeinsame Karriere?",
+      "answers": [
+        "Ikes Gewalttätigkeit und Kontrolle über Tina",
+        "Ein Streit über den Wechsel zu einer rein instrumentalen Show",
+        "Ein Vertragsstreit, der gemeinsame Auftritte gerichtlich verhindert",
+        "Tinas heimliche Gründung einer konkurrierenden Band"
+      ],
+      "short": "Der gemeinsame Musikerfolg verdeckt Ikes Gewalt gegen seine Frau.",
+      "context": "Tina Turner (Angela Bassett) und Ike Turner (Laurence Fishburne) steigen als Bühnenpaar auf. Derselbe Mann, der ihre Stimme fördert, misshandelt sie und beansprucht die Verantwortung für ihren Erfolg. Die spätere Solokarriere setzt deshalb auch voraus, dass Tina sich seiner persönlichen Verfügung entzieht.",
+      "sources": [
+        "disney"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Bei der Scheidung besteht Tina auf dem Recht, ihren Künstlernamen zu behalten.",
+      "question": "Worauf besteht Tina (Angela Bassett) bei der Scheidung in „Tina – What’s Love Got to Do with It?“?",
+      "answers": [
+        "Auf ihrem Künstlernamen Tina Turner",
+        "Auf der alleinigen Leitung von Ikes Band",
+        "Auf dem gemeinsamen Haus als späterer Musikschule",
+        "Auf Ikes vollständigem Rückzug aus dem Musikgeschäft"
+      ],
+      "short": "Bei der Scheidung besteht Tina auf dem Recht, ihren Künstlernamen zu behalten.",
+      "context": "Für ihre Freiheit gibt Tina Turner (Angela Bassett) materielle Ansprüche auf. Ihren Namen will sie behalten, obwohl er aus der Zusammenarbeit mit Ike Turner (Laurence Fishburne) stammt. Damit nimmt sie ihre öffentliche Identität in die eigene Hand und kann unter dem bekannten Namen neu beginnen.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Buddhistische Meditation und das wiederholte Chanten geben Tina im Film Halt.",
+      "question": "Welche Praxis hilft Tina (Angela Bassett) in „Tina – What’s Love Got to Do with It?“, neue innere Stärke zu gewinnen?",
+      "answers": [
+        "Buddhistische Meditation und Chanten",
+        "Strenge Schweigeexerzitien in einem christlichen Orden",
+        "Hypnosesitzungen unter Ikes Aufsicht",
+        "Gemeinsames Fasten mit der gesamten Tourneeband"
+      ],
+      "short": "Buddhistische Meditation und das wiederholte Chanten geben Tina im Film Halt.",
+      "context": "Eine Freundin führt Tina Turner (Angela Bassett) an buddhistische Praxis heran. Das wiederholte Chanten begleitet die Entwicklung, in der sie sich Ikes (Laurence Fishburne) Gewalt entzieht. Die Musiklaufbahn bleibt wichtig; die Filmhandlung zeigt daneben eine persönliche Kraftquelle außerhalb des Bühnenbetriebs.",
+      "sources": [
+        "handlung",
+        "disney"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Tina Turner nahm die für den Film verwendeten Lieder selbst auf.",
+      "question": "Wessen Gesang ist bei den Tina-Darbietungen in „Tina – What’s Love Got to Do with It?“ zu hören?",
+      "answers": [
+        "Tina Turners eigene Aufnahmen",
+        "Angela Bassetts eigens aufgenommene Solostimme",
+        "Whitney Houstons nachgesungene Fassungen",
+        "Darlene Loves Stimme als Gesangsdouble"
+      ],
+      "short": "Tina Turner nahm die für den Film verwendeten Lieder selbst auf.",
+      "context": "Angela Bassett gestaltet Gestik, Tanz und körperliche Bühnenpräsenz; die Gesangsaufnahmen stammen von Tina Turner selbst. So setzt die Verfilmung schauspielerische Verkörperung und die Stimme der porträtierten Musikerin zusammen. Die sichtbare Darstellerin und die hörbare Sängerin erfüllen dabei verschiedene Aufgaben.",
+      "sources": [
+        "disney"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Für den Film wurde das frühere kalifornische Haus des Musikerpaares als Drehort genutzt.",
+      "question": "Welche reale Wohnstätte nutzte die Produktion von „Tina – What’s Love Got to Do with It?“ als Drehort?",
+      "answers": [
+        "Das frühere kalifornische Wohnhaus von Ike und Tina",
+        "Tinas schweizerisches Altersdomizil",
+        "Ikes Elternhaus in Mississippi",
+        "Das Haus von Tinas Großmutter in Tennessee"
+      ],
+      "short": "Für den Film wurde das frühere kalifornische Haus des Musikerpaares als Drehort genutzt.",
+      "context": "Die Produktion nutzte das tatsächliche frühere Haus von Ike und Tina Turner in Kalifornien. Es wurde dafür kein vollständiges Ersatzhaus als Filmkulisse gebaut. Dieser konkrete Drehort macht die nachgespielten Ereignisse jedoch nicht automatisch zu einer dokumentarisch genauen Wiedergabe der Biografie.",
+      "sources": [
+        "disney"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Spielfilm wurde 1993 erstmals veröffentlicht.",
+      "question": "Wann erschien das Tina-Turner-Biopic mit Angela Bassett und Laurence Fishburne erstmals?",
+      "answers": [
+        "1993",
+        "1985",
+        "1998",
+        "2004"
+      ],
+      "short": "Der Spielfilm wurde 1993 erstmals veröffentlicht.",
+      "context": "1993 kam die Adaption von „I, Tina“ ins Kino. Tina Turner hatte ihre Lebensgeschichte 1986 gemeinsam mit Kurt Loder veröffentlicht. Zwischen autobiografischer Erzählung und Spielfilm liegt damit eine bereits öffentlich gewordene Geschichte; die Verfilmung verdichtet sie für zwei zentrale Hauptrollen.",
+      "sources": [
+        "afi",
+        "disney"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Brian Gibson führte Regie.",
+      "question": "Wer inszenierte „Tina – What’s Love Got to Do with It?“ mit Angela Bassett?",
+      "answers": [
+        "Brian Gibson",
+        "Taylor Hackford",
+        "Michael Apted",
+        "Alan Parker"
+      ],
+      "short": "Brian Gibson führte Regie.",
+      "context": "Brian Gibson inszenierte die auf „I, Tina“ beruhende Verfilmung für Touchstone. Der Film verbindet Auftritte und häusliche Konflikte: Angela Bassett und Laurence Fishburne verkörpern das erfolgreiche Duo, dessen private Beziehung auseinanderbricht. Das Ende richtet den Blick auf Tinas eigenständige Arbeit als Solokünstlerin.",
+      "sources": [
+        "disney",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

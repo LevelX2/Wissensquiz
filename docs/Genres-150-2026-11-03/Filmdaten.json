@@ -2282,6 +2282,733 @@
       "reference_question_id": "G150-20261103-WESTERN-009-L1",
       "year_question_id": "G150-20261103-WESTERN-009-Y",
       "director_question_id": "G150-20261103-WESTERN-009-D"
+    },
+    {
+      "id": "MUSIK-004",
+      "film_title_de": "Tina – What’s Love Got to Do with It?",
+      "film_title_original": "What's Love Got to Do with It",
+      "film_year": 1993,
+      "subdomain": "Musik",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekanntes Musikbiopic mit Angela Bassett und Laurence Fishburne; die Person ist noch bekannter als diese konkrete Verfilmung.",
+      "directors": [
+        "Brian Gibson"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1993. D23 und AFI nennen erste reguläre Vorführungen am 9. Juni, D23 den breiten Start am 11. Juni. Abweichende Tagesangaben bei Wikipedia ändern das gesicherte Filmjahr nicht.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige Adaption von I, Tina. Der Dokumentarfilm Tina von 2021 erzählt dieselbe Biografie in anderer Form und ist keine nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://d23.com/a-to-z/whats-love-got-to-do-with-it-film/"
+      ],
+      "sources": [
+        {
+          "key": "disney",
+          "url": "https://d23.com/a-to-z/whats-love-got-to-do-with-it-film/",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausgangskonflikt, Regie, Besetzung, Veröffentlichung, autobiografische Vorlage, echte Gesangsstimme und früheres Wohnhaus als Drehort."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/59707-WHATS-LOVE-GOT-TO-DO-WITH-IT?cxt=filmography",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Suchindex: Credits, USA, Erstjahr und erste öffentliche Starts; Autobiografie von 1986 und Rechteerwerb."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/What's_Love_Got_to_Do_with_It_(1993_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmhandlung: erster Bühnenauftritt, Namensforderung bei der Scheidung, buddhistische Praxis; Darstellung und tatsächliche Biografie ausdrücklich getrennt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-004-L1",
+      "year_question_id": "G150-20261103-MUSIK-004-Y",
+      "director_question_id": "G150-20261103-MUSIK-004-D"
+    },
+    {
+      "id": "MUSIK-005",
+      "film_title_de": "Love & Mercy",
+      "film_title_original": "Love & Mercy",
+      "film_year": 2014,
+      "subdomain": "Musik",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Anerkanntes, formal eigenständiges Musikerporträt, außerhalb des Beach-Boys- und Filmkunstpublikums weniger präsent.",
+      "directors": [
+        "Bill Pohlad"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 7. September 2014 beim Toronto International Film Festival; der US-Kinostart 2015 ist nicht das Erstjahr.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiges Brian-Wilson-Porträt. Keine benannte nummerierte Filmfolge in Verleih- und Festivalquelle.",
+      "series_sources": [
+        "https://roadsideattractions.com/filmography/love-mercy/"
+      ],
+      "sources": [
+        {
+          "key": "verleih",
+          "url": "https://roadsideattractions.com/filmography/love-mercy/",
+          "accessed_on": "2026-11-03",
+          "supports": "USA-Filmjahr, Regie, Besetzung sowie Brian Wilson, Eugene Landy und Melinda Ledbetter."
+        },
+        {
+          "key": "festival",
+          "url": "https://media.tiff.net.s3.amazonaws.com/emails/pdf/2014%20Festival%20Galas%20%26%20SPs__.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "TIFF-Ankündigung 2014: Bill Pohlad, USA, Weltpremiere und Hauptbesetzung."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Love_%26_Mercy_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Erste Festivalpremiere, Panikattacke, Studioarbeit, Cadillac-Verkauf und Filmhandlung."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.bfi.org.uk/sight-and-sound/interviews/i-can-hear-music-bill-pohlad-his-brian-wilson-biopic-love-mercy",
+          "accessed_on": "2026-11-03",
+          "supports": "Pohlads eigene Erläuterungen: zwei Epochen, zwei Darsteller, reale Studiomusiker und Super-16-Kameras; subjektive Toncollage."
+        },
+        {
+          "key": "ton",
+          "url": "https://mande.net/btl/awards/contenders-sound-mixing-editing-love-and-mercy/",
+          "accessed_on": "2026-11-03",
+          "supports": "Interviews mit Tonteam: Black-Hole-Collage aus Originalsessions, Gesprächsfetzen, Ross-Musik und Aufnahmegeräuschen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-005-L1",
+      "year_question_id": "G150-20261103-MUSIK-005-Y",
+      "director_question_id": "G150-20261103-MUSIK-005-D"
+    },
+    {
+      "id": "MUSIK-006",
+      "film_title_de": "The Last Waltz",
+      "film_title_original": "The Last Waltz",
+      "film_year": 1978,
+      "subdomain": "Musik",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Kanonischer Konzertfilm, besonders unter Rockmusik- und Dokumentarfilmkennern bekannt.",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Filmveröffentlichung 1978; das zentrale Konzert wurde bereits am 25. November 1976 aufgezeichnet.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiger Konzertfilm; weitere Scorsese-Musikdokumentationen bilden keine nummerierte Filmreihe.",
+      "series_sources": [
+        "https://www.criterion.com/films/29460-the-last-waltz"
+      ],
+      "sources": [
+        {
+          "key": "edition",
+          "url": "https://www.criterion.com/films/29460-the-last-waltz",
+          "accessed_on": "2026-11-03",
+          "supports": "USA, Filmjahr 1978, Regie, Bandmitglieder, Gastmusiker und Charakter als Konzertfilm."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/7742-the-last-waltz-long-hard-road",
+          "accessed_on": "2026-11-03",
+          "supports": "Abschied vom Tourneeleben, Thanksgiving-Bewirtung, Studioaufnahme mit den Staple Singers, Filmgestaltung und Entstehung."
+        },
+        {
+          "key": "film",
+          "url": "https://en.wikipedia.org/wiki/The_Last_Waltz",
+          "accessed_on": "2026-11-03",
+          "supports": "Winterland in San Francisco, Konzert 1976 versus Film 1978, Montage mit Interviews, Kameraplanung und Studiosegmente."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-006-L1",
+      "year_question_id": "G150-20261103-MUSIK-006-Y",
+      "director_question_id": "G150-20261103-MUSIK-006-D"
+    },
+    {
+      "id": "MUSIK-007",
+      "film_title_de": "Tina",
+      "film_title_original": "Tina",
+      "film_year": 2021,
+      "subdomain": "Musik",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein viel beachtetes spätes Porträt; die konkrete Dokumentation ist weniger allgemein bekannt als die Sängerin und ihre Hits.",
+      "directors": [
+        "Dan Lindsay",
+        "T. J. Martin"
+      ],
+      "production_countries": [
+        "USA",
+        "Vereinigtes Königreich"
+      ],
+      "release_note": "Weltpremiere am 2. März 2021 im Berlinale Special, anschließend HBO-Premiere am 27. März. Keine Verwechslung mit dem Spielfilm von 1993.",
+      "director_note": "Gemeinsame Regie; BFI nennt Daniel Lindsay, British Council den gebräuchlichen Credit Dan Lindsay.",
+      "country_note": "BFI führt USA; die Filmreferenz nennt USA und Vereinigtes Königreich, British Council verzeichnet das Projekt ebenfalls in seiner UK-Datenbank.",
+      "series": null,
+      "series_note": "Eigenständiger Dokumentarfilm. Das Biopic von 1993, Bücher und Bühnenmusical sind keine nummerierten Vorgänger dieser Filmfassung.",
+      "series_sources": [
+        "https://filmsandfestivals.britishcouncil.org/projects/tina"
+      ],
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://player.bfi.org.uk/rentals/film/watch-tina-2021-online",
+          "accessed_on": "2026-11-03",
+          "supports": "Form mit Interviews und Archivauftritten, fünf Teile, vierter Teil mit Londoner Aufnahme und Wiederaufstieg, Regie und Filmjahr."
+        },
+        {
+          "key": "credits",
+          "url": "https://filmsandfestivals.britishcouncil.org/projects/tina",
+          "accessed_on": "2026-11-03",
+          "supports": "Gemeinsame Regie, Dokumentarfilm, Filmjahr, Berlinale Special und Mitwirkende."
+        },
+        {
+          "key": "presse",
+          "url": "https://hbowatch.com/whats-on-hbo-schedule-for-march-2021/",
+          "accessed_on": "2026-11-03",
+          "supports": "Wiedergegebene HBO-Ankündigung: neues Interview in Zürich, Archivmaterial aus sechs Jahrzehnten und Beteiligte."
+        },
+        {
+          "key": "kritik",
+          "url": "https://www.nhpr.org/national/2021-03-27/tina-turners-life-explored-in-new-documentary",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete Sichtung: Erwin Bach über Abschied, mediale Wiederholung der Gewaltgeschichte, anfängliche Ablehnung des Titelsongs und Private Dancer."
+        },
+        {
+          "key": "daten",
+          "url": "https://en.wikipedia.org/wiki/Tina_(2021_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Berlinale-Weltpremiere 2021, Länder USA/UK und Abgrenzung der Fassung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-007-L1",
+      "year_question_id": "G150-20261103-MUSIK-007-Y",
+      "director_question_id": "G150-20261103-MUSIK-007-D"
+    },
+    {
+      "id": "MUSIK-008",
+      "film_title_de": "Billy Elliot – I Will Dance",
+      "film_title_original": "Billy Elliot",
+      "film_year": 2000,
+      "subdomain": "Musik",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit bekanntes britisches Tanzdrama; die spätere Bühnenfassung hat seine Bekanntheit zusätzlich vergrößert.",
+      "directors": [
+        "Stephen Daldry"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "Frankreich"
+      ],
+      "release_note": "Erste Vorführung im Mai 2000 in Cannes unter dem Arbeitstitel Dancer; regulärer britischer Kinostart am 29. September 2000.",
+      "director_note": "",
+      "country_note": "Wikipedia führt Vereinigtes Königreich; die pädagogischen Filmdaten des Danish Film Institute nennen Vereinigtes Königreich/Frankreich. Die Koproduktionsangabe wird daher beibehalten.",
+      "series": null,
+      "series_note": "Eigenständiger Spielfilm. Roman und späteres Bühnenmusical sind Adaptionen, keine nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://www.workingtitlefilms.com/film/billy-elliot/"
+      ],
+      "sources": [
+        {
+          "key": "produktion",
+          "url": "https://www.workingtitlefilms.com/film/billy-elliot/",
+          "accessed_on": "2026-11-03",
+          "supports": "Produzentenseite: Regie, Hauptbesetzung, britischer Start 2000, Tanzwunsch im Bergarbeiterstreik und Daldrys Themenauswahl."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/lists/10-great-ballet-films",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlungszeit im Streik 1984/85, Klassen- und Geschlechterkonflikt, späteres Musical und Schlussauftritt in Matthew Bournes Swan Lake."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Billy_Elliot",
+          "accessed_on": "2026-11-03",
+          "supports": "Figurencredits, Boxunterricht, Royal Ballet School, versuchter Streikbruch, Vorsprechen mit Elektrizitätsvergleich, Festivalpremiere und Musical 2005."
+        },
+        {
+          "key": "laender",
+          "url": "https://www.dfi.dk/files/docs/2019-03/billy-elliot-resource-english-v1.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Suchindex der DFI-Unterrichtsunterlage: Vereinigtes Königreich/Frankreich, Jahr 2000 und Themen Tanz/Musik/Streik."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-008-L1",
+      "year_question_id": "G150-20261103-MUSIK-008-Y",
+      "director_question_id": "G150-20261103-MUSIK-008-D"
+    },
+    {
+      "id": "MUSIK-009",
+      "film_title_de": "Ein süßer Fratz",
+      "film_title_original": "Funny Face",
+      "film_year": 1957,
+      "subdomain": "Musik",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannter Hepburn-Astaire-Klassiker, jedoch weniger allgemein präsent als Frühstück bei Tiffany oder My Fair Lady.",
+      "directors": [
+        "Stanley Donen"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1957. AFI nennt den New Yorker Start am 28. März und den breiteren Start im April; Wikipedia führt abweichend den 13. Februar. Das gemeinsame Erstjahr ist gesichert.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiges Musical mit Stoff- und Songbezügen zu Bühnenwerken. Keine belegte nummerierte Filmfolge.",
+      "series_sources": [
+        "https://www.paramount.com/movies/funny-face"
+      ],
+      "sources": [
+        {
+          "key": "verleih",
+          "url": "https://www.paramount.com/movies/funny-face",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmjahr, Regie, vollständige Rollencredits, Buchverkäuferin, Paris, Avedon als Vorbild, Hepburns eigene Stimme und musikalische Nummern."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52182-FUNNY-FACE",
+          "accessed_on": "2026-11-03",
+          "supports": "Gelesener Katalog-Suchindex: USA, 1957, Regie, neue Gershe-Handlung, Quality-Magazin und Pink-Kampagne."
+        },
+        {
+          "key": "kino",
+          "url": "https://silver.afi.com/movies/detail/0100001685/",
+          "accessed_on": "2026-11-03",
+          "supports": "AFI-Filmprogramm: Modefoto-Montage, Pariser Orte, Givenchy-Kleidung und konkrete Musicalnummern."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Funny_Face",
+          "accessed_on": "2026-11-03",
+          "supports": "Philosophievorträge als Reisemotiv, Rollen, Abweichung von der Bühnenhandlung und vier übernommene Songs aus der Revue von 1927."
+        }
+      ],
+      "reference_question_id": "G150-20261103-MUSIK-009-L1",
+      "year_question_id": "G150-20261103-MUSIK-009-Y",
+      "director_question_id": "G150-20261103-MUSIK-009-D"
+    },
+    {
+      "id": "DRAMA-004",
+      "film_title_de": "Herbstsonate",
+      "film_title_original": "Höstsonaten",
+      "film_year": 1978,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ingrid Bergmans späte Kinohauptrolle und die Zusammenarbeit mit ihrem Namensvetter geben dem konzentrierten Familiendrama einen Zugang für Filmkenner.",
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "production_countries": [
+        "BR Deutschland",
+        "Schweden"
+      ],
+      "release_note": "Uraufführung am 8. Oktober 1978 in Stockholm. Als kanonischer Originaltitel bleibt Höstsonaten nach dem Weltvertrieb REinvent und den vorhandenen Personenreferenzen erhalten. filmportal führt für die deutsche Koproduktion Herbstsonate als deutschen Originaltitel; beide Titel bezeichnen denselben schwedischsprachigen Film.",
+      "director_note": "Offizieller alleiniger Regiecredit; zugleich Autor des Originaldrehbuchs.",
+      "country_note": "filmportal nennt BR Deutschland und Schweden sowie Persona Film und Suede Film als Koproduzenten. Die Bergman-Stiftung führt nur West Germany, Criterion und Weltvertrieb nur Sweden. Drehort Norwegen ergibt kein weiteres Produktionsland.",
+      "series": null,
+      "series_note": "Eigenständiges Originaldrehbuch; in den geprüften Produktionsquellen keine nummerierte Filmfolge. Die spätere Opernadaption ist keine Filmfortsetzung.",
+      "series_sources": [
+        "https://www.filmportal.de/film/herbstsonate_20c8e12289624ebab234d4ce0f5001b8",
+        "https://www.ingmarbergman.se/en/production/autumn-sonata"
+      ],
+      "sources": [
+        {
+          "key": "stiftung",
+          "url": "https://www.ingmarbergman.se/en/production/autumn-sonata",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmversprechen an Ingrid Bergman in Cannes, Erstaufführung, Dreharbeit in Norwegen und Musikcredits Chopin/Käbi Laretei."
+        },
+        {
+          "key": "filmportal",
+          "url": "https://www.filmportal.de/film/herbstsonate_20c8e12289624ebab234d4ce0f5001b8",
+          "accessed_on": "2026-11-03",
+          "supports": "Originaltitel, Uraufführung 1978, Regie, Länder, Koproduzenten und Besetzung; Helenas Pflege im Pfarrhaus und Eriks Ertrinken."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/605-autumn-sonata",
+          "accessed_on": "2026-11-03",
+          "supports": "Synopsis, schwedische Originalsprache, Besetzung und Regiecredit."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/2900-autumn-sonata-mothers-daughters-and-monsters",
+          "accessed_on": "2026-11-03",
+          "supports": "Farran Smith Nehme: Viktor spricht eingangs zum Publikum; Eva/Liv Ullmann, Helena/Lena Nyman, Chopin-Präludium und mütterliche Anerkennung versus künstlerische Kritik."
+        },
+        {
+          "key": "festival",
+          "url": "https://film.iksv.org/en/festival-daily/a-film-of-confessions-based-on-two-actresses/",
+          "accessed_on": "2026-11-03",
+          "supports": "Yeşim Ustaoğlus Einführung: gemeinsames Chopin-Spiel als wortarme Konfrontation der beiden Frauen."
+        },
+        {
+          "key": "vertrieb",
+          "url": "https://reinvent.dk/catalogue/autumn-sonata/",
+          "accessed_on": "2026-11-03",
+          "supports": "Weltvertrieb nennt ausdrücklich Original title Höstsonaten, schwedische Sprache, Personafilm, Regie und Start8.Oktober1978."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-004-L1",
+      "year_question_id": "G150-20261103-DRAMA-004-Y",
+      "director_question_id": "G150-20261103-DRAMA-004-D"
+    },
+    {
+      "id": "DRAMA-005",
+      "film_title_de": "Schreie und Flüstern",
+      "film_title_original": "Viskningar och rop",
+      "film_year": 1972,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bergmans markantes Farbdrama und Nykvists Oscar gehören zum europäischen Filmkanon, setzen beim breiten Publikum aber eher Filmkenntnis voraus.",
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "production_countries": [
+        "Schweden"
+      ],
+      "release_note": "Erste Veröffentlichung am 21. Dezember 1972 in New York laut Bergman-Stiftung; schwedischer Start 5. März 1973. Die 1973er Überschrift der Stiftungsseite beschreibt nicht den früheren Weltstart.",
+      "director_note": "Offizieller alleiniger Regiecredit; zugleich Autor des Originaldrehbuchs.",
+      "country_note": "Schweden nach Bergman-Stiftung und Janus.",
+      "series": null,
+      "series_note": "Eigenständiges Familiendrama; stilistische Bezüge zu anderen Bergman-Filmen begründen keine nummerierte Handlung oder Filmfolge.",
+      "series_sources": [
+        "https://www.ingmarbergman.se/en/production/cries-and-whispers",
+        "https://www.janusfilms.com/films/1035"
+      ],
+      "sources": [
+        {
+          "key": "stiftung",
+          "url": "https://www.ingmarbergman.se/en/production/cries-and-whispers",
+          "accessed_on": "2026-11-03",
+          "supports": "Erste Veröffentlichung 21. Dezember 1972 in New York; Regie, Darstellerinnen, Land; Leitbild rote Räume/weiße Kleider, Drehbuchentstehung und Agnes’ Tagebuchtext."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/3511-cries-and-whispers-love-and-death",
+          "accessed_on": "2026-11-03",
+          "supports": "Emma Wilson: Sterbebegleitung, Figuren, Liv Ullmanns Doppelbesetzung als Maria und Mutter, Anna und Agnes’ Tagebuch/Gartenschaukel."
+        },
+        {
+          "key": "farbe",
+          "url": "https://www.criterion.com/current/posts/108-cries-and-whispers",
+          "accessed_on": "2026-11-03",
+          "supports": "Peter Cowie: rote Innenräume und Überblendungen, Kleidungskontraste und Bergmans Seeleninnenraum-Vorstellung."
+        },
+        {
+          "key": "janus",
+          "url": "https://www.janusfilms.com/films/1035",
+          "accessed_on": "2026-11-03",
+          "supports": "Schweden 1972, Regie, Familiensituation, Nykvists formaler Farbeinsatz."
+        },
+        {
+          "key": "oscar",
+          "url": "https://www.oscars.org/oscars/ceremonies/1974",
+          "accessed_on": "2026-11-03",
+          "supports": "46. Verleihung am 2. April 1974: Kamera-Oscar an Sven Nykvist für Cries and Whispers, Mitbewerber und Regiegewinner George Roy Hill."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-005-L1",
+      "year_question_id": "G150-20261103-DRAMA-005-Y",
+      "director_question_id": "G150-20261103-DRAMA-005-D"
+    },
+    {
+      "id": "DRAMA-006",
+      "film_title_de": "Licht im Winter",
+      "film_title_original": "Nattvardsgästerna",
+      "film_year": 1963,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Das spröde Glaubenskammerspiel hat eine zentrale Stellung in Bergmans Werk, bietet außerhalb des Autorenfilm-Publikums aber wenig unmittelbare Wiedererkennung.",
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "production_countries": [
+        "Schweden"
+      ],
+      "release_note": "Öffentlicher Kinostart 11. Februar 1963; Bergman-Stiftung nennt zusätzlich eine Sondervorführung in Falun am Vorabend. Beide Termine liegen 1963; die Dreharbeit 1961/62 ist kein Veröffentlichungsjahr.",
+      "director_note": "Offizieller alleiniger Regiecredit; zugleich Autor des Originaldrehbuchs.",
+      "country_note": "Schweden nach Stiftung und Criterion.",
+      "series": {
+        "name": "Bergmans Glaubenstrilogie",
+        "position": 2,
+        "note": "Zweiter veröffentlichter Film der thematischen Folge Wie in einem Spiegel (1961), Licht im Winter (1963), Das Schweigen (1963). Keine Fortsetzung mit denselben Figuren; die Stiftung benennt diese Reihenfolge ausdrücklich."
+      },
+      "series_note": "Bewusst als thematische Filmfolge mit Teil 2 geführt; Bergmans spätere Distanz zur Trilogieidee ist von der belegten Gruppierung zu unterscheiden.",
+      "series_sources": [
+        "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+        "https://www.ingmarbergman.se/en/production/winter-light"
+      ],
+      "sources": [
+        {
+          "key": "stiftung",
+          "url": "https://www.ingmarbergman.se/en/production/winter-light",
+          "accessed_on": "2026-11-03",
+          "supports": "Erstaufführung 1963, Credits, Familienbesuch als Anregung für den Schluss, Originaltitel Die Abendmahlsgäste, Strawinskys Psalmensymphonie als Ausgangspunkt und Trilogieposition 2."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/569-winter-light",
+          "accessed_on": "2026-11-03",
+          "supports": "Synopsis, schwedische Produktion 1963, Besetzung und Regie; Kernkonflikt Pfarrer/Kernwaffenangst und Lehrerin."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/612-winter-light",
+          "accessed_on": "2026-11-03",
+          "supports": "Peter Cowie: wenige Stunden zwischen zwei Gottesdiensten, Märtas Brief als direkte Kameraansprache, Jonas’ Kernwaffenangst, Stromschnellen übertönen Gespräche am Leichnam, abschließender Gottesdienst."
+        },
+        {
+          "key": "trilogie",
+          "url": "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+          "accessed_on": "2026-11-03",
+          "supports": "Genaue Reihenfolge der drei Glaubensfilme; Wie in einem Spiegel 1961, beide Nachfolger 1963 nach weiteren Filmkatalogeinträgen."
+        },
+        {
+          "key": "theater",
+          "url": "https://cinema.wisc.edu/2016/02/26/through-glass-darkly-beginnings-bergmans-chamber-cinema/",
+          "accessed_on": "2026-11-03",
+          "supports": "Die Cinematheque nennt Licht im Winter und Das Schweigen ausdrücklich als die beiden1963veröffentlichten Folgefilme der Glaubenstrilogie."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-006-L1",
+      "year_question_id": "G150-20261103-DRAMA-006-Y",
+      "director_question_id": "G150-20261103-DRAMA-006-D"
+    },
+    {
+      "id": "DRAMA-007",
+      "film_title_de": "Wie in einem Spiegel",
+      "film_title_original": "Såsom i en spegel",
+      "film_year": 1961,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Der frühe Glaubensfilm wird im Werkzusammenhang und über seine Oscar-Auszeichnung wahrgenommen; Figuren und Handlung sind eher Entdeckungsstoff.",
+      "directors": [
+        "Ingmar Bergman"
+      ],
+      "production_countries": [
+        "Schweden"
+      ],
+      "release_note": "Erstveröffentlichung 16. Oktober 1961 in Stockholm nach Bergman-Stiftung. Oscar 1962 und Biennale 1962 sind spätere Termine.",
+      "director_note": "Offizieller alleiniger Regiecredit; zugleich Autor des Originaldrehbuchs.",
+      "country_note": "Schweden nach Stiftung und Criterion.",
+      "series": {
+        "name": "Bergmans Glaubenstrilogie",
+        "position": 1,
+        "note": "Erster veröffentlichter Film der thematischen Folge mit Licht im Winter und Das Schweigen (beide 1963). Die Figuren und Handlung werden nicht fortgesetzt."
+      },
+      "series_note": "Stiftung benennt den Film ausdrücklich als ersten Teil der God-and-Man-Trilogie. Die thematische Gruppierung wird trotz späterer Distanzierung des Regisseurs transparent als solche geführt.",
+      "series_sources": [
+        "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+        "https://cinema.wisc.edu/2016/02/26/through-glass-darkly-beginnings-bergmans-chamber-cinema/"
+      ],
+      "sources": [
+        {
+          "key": "stiftung",
+          "url": "https://www.ingmarbergman.se/en/production/through-glass-darkly",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits, Produktion Schweden, Erstveröffentlichung 16. Oktober 1961, erster Fårö-Dreh, Trilogieposition, Oscar 1962 und Schlussgespräch David/Minus über Gott und Liebe."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/568-through-a-glass-darkly",
+          "accessed_on": "2026-11-03",
+          "supports": "Isolierter Familienurlaub, Karin/Harriet Andersson, Vater nutzt Erkrankung literarisch; offizielle Credits und 1961."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/296-through-a-glass-darkly-patron-saint-of-angst",
+          "accessed_on": "2026-11-03",
+          "supports": "Peter Matthews: Gottesvision als Spinne, Hubschrauber zur Klinik und abschließendes Vater-Sohn-Gespräch."
+        },
+        {
+          "key": "theater",
+          "url": "https://cinema.wisc.edu/2016/02/26/through-glass-darkly-beginnings-bergmans-chamber-cinema/",
+          "accessed_on": "2026-11-03",
+          "supports": "Harry Gilbert: Minus und Karin führen vor Vater David ein kleines Theaterstück auf; Künstler verweigert Todesreich und verwandelt Begegnung in Kunst. Kammermusikmodell für wenige Figuren im engen Raum; beide Folgefilme 1963."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-007-L1",
+      "year_question_id": "G150-20261103-DRAMA-007-Y",
+      "director_question_id": "G150-20261103-DRAMA-007-D"
+    },
+    {
+      "id": "DRAMA-008",
+      "film_title_de": "La Strada – Das Lied der Straße",
+      "film_title_original": "La strada",
+      "film_year": 1954,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Gelsomina, Masinas Spiel und Rotas Musik sind feste Bezugspunkte der Filmgeschichte; die konkrete Handlung ist vor allem Filmkennern vertraut.",
+      "directors": [
+        "Federico Fellini"
+      ],
+      "production_countries": [
+        "Italien"
+      ],
+      "release_note": "Erste Veröffentlichung in Italien 1954; US-Start 1956 und Oscar 1957 sind spätere Termine. Jahr nach Criterion-Filmeintrag und Christina Newlands Rückblick.",
+      "director_note": "Federico Fellini ist alleiniger Regisseur; Tullio Pinelli und Ennio Flaiano sind am Drehbuch beteiligt.",
+      "country_note": "Italien nach Criterion und Academy.",
+      "series": {
+        "name": "Fellinis Trilogie der Einsamkeit",
+        "position": 1,
+        "note": "Erster Film der thematischen, nach Veröffentlichung gezählten Folge La strada (1954), Il bidone (1955), Le notti di Cabiria (1957). Keine fortlaufende Figurenhandlung."
+      },
+      "series_note": "Die thematische Dreiergruppe ist beim BFI ausdrücklich benannt. Unabhängige Geschichten mit wiederkehrender Hauptdarstellerin werden nicht als direkte Fortsetzungen ausgegeben.",
+      "series_sources": [
+        "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/185-la-strada",
+          "accessed_on": "2026-11-03",
+          "supports": "Italien 1954, Originaltitel, Hauptrollen, Regie, Drehbuchteam und Komponist Nino Rota; Fabelcharakter und historische Wirkung."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/929-la-strada",
+          "accessed_on": "2026-11-03",
+          "supports": "David Ehrenstein: Kauf Gelsominas, Artistenfiguren, Rolle des Seiltänzers und Rotas über den Film hinaus verbreitetes Thema."
+        },
+        {
+          "key": "newland",
+          "url": "https://www.criterion.com/current/posts/7590-la-strada-beauty-and-the-beast",
+          "accessed_on": "2026-11-03",
+          "supports": "Christina Newland: italienischer Erststart 1954, US-Aufnahme 1956 und Oscar 1957; Kraftnummer, Gelsominas Kauf, Steinparabel und Verhältnis zum Neorealismus."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/La_Strada",
+          "accessed_on": "2026-11-03",
+          "supports": "Genauer Handlungsablauf: Tod Il Mattos bei Zampanòs Schlägen, Verlassen Gelsominas, späteres Wiedererkennen der Melodie und Nachricht von ihrem Tod."
+        },
+        {
+          "key": "oscar",
+          "url": "https://www.oscars.org/oscars/ceremonies/1957",
+          "accessed_on": "2026-11-03",
+          "supports": "29. Verleihung 1957: La Strada gewinnt den Preis für den fremdsprachigen Film; Italien, Produzenten Dino De Laurentiis und Carlo Ponti."
+        },
+        {
+          "key": "trilogie",
+          "url": "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online",
+          "accessed_on": "2026-11-03",
+          "supports": "Il bidone wird als Mittelteil der Trilogy of Loneliness zwischen La strada und Le notti di Cabiria benannt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-008-L1",
+      "year_question_id": "G150-20261103-DRAMA-008-Y",
+      "director_question_id": "G150-20261103-DRAMA-008-D"
+    },
+    {
+      "id": "DRAMA-009",
+      "film_title_de": "Die Nächte der Cabiria",
+      "film_title_original": "Le notti di Cabiria",
+      "film_year": 1957,
+      "subdomain": "Drama",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Giulietta Masinas international ausgezeichnete Hauptrolle ist ein kanonisches Werk des italienischen Kinos; die episodische Handlung bleibt eher Filmkennerstoff.",
+      "directors": [
+        "Federico Fellini"
+      ],
+      "production_countries": [
+        "Italien",
+        "Frankreich"
+      ],
+      "release_note": "Erstjahr 1957 einschließlich Cannes-Wettbewerb. Die Wiederaufführung 1997 mit restaurierter Sackträger-Szene ist kein neues Filmjahr.",
+      "director_note": "Alleiniger Regiecredit Federico Fellini. Pier Paolo Pasolini ist am Dialog beteiligt, nicht als Regisseur ausgewiesen.",
+      "country_note": "Italien/Frankreich nach CNC-Visum 19023 und Film at Lincoln Center; Cannes und Criterion verkürzen die Angabe auf Italien.",
+      "series": {
+        "name": "Fellinis Trilogie der Einsamkeit",
+        "position": 3,
+        "note": "Dritter veröffentlichter Film der thematischen Folge La strada (1954), Il bidone (1955), Le notti di Cabiria (1957). Keine fortlaufende Handlung; Cabirias früherer Kurzauftritt in Der weiße Scheich ergibt keine zusätzliche Teilnummer in dieser Trilogie."
+      },
+      "series_note": "Das BFI benennt Il bidone ausdrücklich als Mittelteil zwischen La strada und Le notti di Cabiria; deshalb hier Teil 3. Namensähnlichkeit mit dem Stummfilm Cabiria von 1914 begründet keine Fortsetzung.",
+      "series_sources": [
+        "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/243",
+          "accessed_on": "2026-11-03",
+          "supports": "Figur und Hauptdarstellerin, Rom, Jahr 1957, Regie, Besetzung und Dialogmitwirkung Pasolinis; international ausgezeichnetes tragikomisches Drama."
+        },
+        {
+          "key": "cannes",
+          "url": "https://www.festival-cannes.com/en/f/le-notti-di-cabiria/",
+          "accessed_on": "2026-11-03",
+          "supports": "Wettbewerb 1957, Giulietta Masinas einstimmiger Darstellerinnenpreis, Regie und Team."
+        },
+        {
+          "key": "cnc",
+          "url": "https://www.cnc.fr/professionnels/visas-et-classification/19023",
+          "accessed_on": "2026-11-03",
+          "supports": "Französischer amtlicher Filmnachweis: Länder Frankreich/Italien, Regie, Kinostart im Oktober 1957."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Nights_of_Cabiria",
+          "accessed_on": "2026-11-03",
+          "supports": "Giorgios Stoß in den Fluss und Geldraub, Lazzaris Wohnung und Badezimmer, Hypnoseauftritt mit Liebeswunsch sowie Oscar-Handlung."
+        },
+        {
+          "key": "filmlinc",
+          "url": "https://www.filmlinc.org/films/nights-of-cabiria1/",
+          "accessed_on": "2026-11-03",
+          "supports": "Italien/Frankreich 1957; Vorlage für Sweet Charity, 1997 restaurierte Sackträger-Episode, nach Cannes durch Produzent Dino De Laurentiis entfernt, weil er sie als verlangsamend empfand."
+        },
+        {
+          "key": "trilogie",
+          "url": "https://player.bfi.org.uk/subscription/film/watch-il-bidone-1955-online",
+          "accessed_on": "2026-11-03",
+          "supports": "Trilogy of Loneliness: La strada, Il bidone, Le notti di Cabiria in dieser Reihenfolge."
+        }
+      ],
+      "reference_question_id": "G150-20261103-DRAMA-009-L1",
+      "year_question_id": "G150-20261103-DRAMA-009-Y",
+      "director_question_id": "G150-20261103-DRAMA-009-D"
     }
   ],
   "series_updates": [
