@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 489 Filmfassungen mit 3912 Fragen lokal integriert. 12 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 495 Filmfassungen mit 3960 Fragen lokal integriert. 6 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -6281,75 +6281,93 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Unterschiedliche Waffen und Täuschungsmanöver werden mit dem Boxeraufstand verknüpft.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verbindet den Konflikt zwischen Kampfkunst und Feuerwaffen mit religiösem Gehorsam, Verkleidungskomödie und einer ausgearbeiteten Dramaturgie unterschiedlicher Waffen.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-028"
     },
     {
       "candidate_id": "C-124",
-      "film_title_de": "Superninja",
+      "film_title_de": "Super Ninjas",
       "film_title_original": "Wu dun ren shu",
       "film_year": 1982,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein rivalisierender Clan setzt nach Elementen organisierte Ninjatechniken gegen eine Kampfschule ein.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Zeigt den Wechsel vom offenen Schulenduell zur Täuschungs- und Gegenstrategiedramaturgie mit besonders deutlich unterscheidbaren Kampfbedingungen.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-029"
     },
     {
       "candidate_id": "C-125",
-      "film_title_de": "China Swordsman 2",
+      "film_title_de": "China Swordsman",
       "film_title_original": "Xiao ao jiang hu zhi dong fang bu bai",
       "film_year": 1992,
       "genre": "Martial Arts & Asia-Film",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Wuxia um politische Intrige und eine neue Identität des mächtigen Dongfang Bubai.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Ergänzt das fantastische Schwertkampfkino um den Konflikt zwischen Rückzug, Loyalität und Herrschaft sowie eine ungewöhnliche romantische Täuschung.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-030"
     },
     {
       "candidate_id": "C-126",
-      "film_title_de": "Die gelbe Hölle der Shaolin",
+      "film_title_de": "Heroes of the East",
       "film_title_original": "Zhong hua zhang fu",
       "film_year": 1978,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein chinesisch-japanischer Ehekonflikt wird als Begegnung unterschiedlicher Kampfkünste erzählt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verbindet interkulturelle Ehekomödie mit vergleichenden Kampfstilen und vermeidet dabei die übliche Abfolge tödlicher Rachekämpfe.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-031"
     },
     {
       "candidate_id": "C-127",
-      "film_title_de": "Die Todeskralle des gelben Tigers",
+      "film_title_de": "Der Killer mit der Affenpranke",
       "film_title_original": "Feng hou",
       "film_year": 1979,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Der Affenstil erhält eine konkrete Meister-Schüler- und Rachegeschichte.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Eine durch Täuschung beschädigte Meisterfigur vermittelt ihrem Schüler eine präzise körperliche Technik; das komische Training steht neben einer ernsthaften Erpressungs- und Gewaltgeschichte.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-032"
     },
     {
       "candidate_id": "C-128",
-      "film_title_de": "Der Meister mit den gebrochenen Händen",
-      "film_title_original": "Lin shi rong",
-      "film_year": 1979,
+      "film_title_de": "Shaolin Mantis",
+      "film_title_original": "Tang lang",
+      "film_year": 1978,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine falsche Beschuldigung stellt den Metzger Lam Sai-wing vor rivalisierende Kämpfer.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Der Protagonist arbeitet ungewöhnlicherweise für den Qing-Hof; Liebesbindung, Geiselhaft und gegensätzliche politische Loyalitäten verschärfen seinen Auftrag. Der späte Erwerb einer neuen Kampftechnik wird mit einem eigenständigen moralischen Schlusskonflikt verbunden.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-033"
     },
     {
       "candidate_id": "C-129",
