@@ -1,0 +1,271 @@
+{
+  "id": "ACTION-046",
+  "film_title_de": "Shooter",
+  "film_title_original": "Shooter",
+  "film_year": 2007,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Redaktionelle Einschätzung: verbreiteter Actionthriller mit Mark Wahlberg und klar erkennbarem Verschwörungsstoff.",
+  "selection_reason": "Der vermeintliche Schutzauftrag dient zur Herstellung eines Schuldigen. Ballistische Beweisführung und das Misstrauen gegenüber den Auftraggebern geben der Verfolgungsaction unterschiedliche Wissenszugänge.",
+  "directors": [
+    "Antoine Fuqua"
+  ],
+  "production_countries": [
+    "Kanada",
+    "USA"
+  ],
+  "release_note": "Erstjahr 2007, tatsächlich fotografierte Westwood-Premiere 8. März nach zeitgenössischer CBS-Bilderstrecke; regulärer US-Start 23. März nach AFI und Fuqua-Interview. Eine frühere Veröffentlichung nicht aus dem Produktionsjahr abgeleitet.",
+  "director_note": "Antoine Fuqua alleinige Hauptregie nach Paramount, AFI und ICAA; Jonathan Lemkin ist Drehbuchautor, Stephen Hunter Romanautor.",
+  "country_note": "Kanada und USA stehen ausdrücklich im konkreten AFI-Eintrag. ICAA und mehrere Kurzangaben führen nur USA; die ausführlichere AFI-Länderangabe ist hier führend, nicht die kanadischen Drehorte allein.",
+  "series": null,
+  "series_note": "Eigenständige Kinofassung des Romans. Die spätere Fernsehserie mit Ryan Phillippe ist keine nummerierte Fortsetzung dieses Kinofilms; die Romanfolge begründet ebenfalls keine Filmteilnummer.",
+  "series_sources": [
+    "https://www.paramountpictures.com/movies/shooter",
+    "https://www.penguinrandomhouse.com/books/84546/point-of-impact-by-stephen-hunter/paperback/"
+  ],
+  "sources": {
+    "paramount": {
+      "url": "https://www.paramountpictures.com/movies/shooter",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen offiziellen Filmeintrag im Suchindex gelesen: Jahr, Kurzhandlung, Rollen, alleinige Regie und Autoren. Direkter Aufruf leitet inzwischen zur Studiohauptseite, daher keine vollständige Direktseitenlektüre behauptet."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/64471",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Credits und Details gelesen: Regie, Besetzung, Roman Point of Impact 1993, US-Start 23. März 2007 und ausdrücklich Kanada/USA. Kein ausführlicher AFI-Handlungstext vorhanden oder behauptet."
+    },
+    "icaa": {
+      "url": "https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?Pelicula=5107",
+      "accessed_on": "2026-11-03",
+      "supports": "Offiziellen konkreten Katalogeintrag gelesen: Originaltitel, Fuqua, USA, spanischer Start und Freigabe 2007; gegenüber AFI verkürzte Länderangabe dokumentiert."
+    },
+    "premiere": {
+      "url": "https://www.cbsnews.com/pictures/shooter-targets-theaters/",
+      "accessed_on": "2026-11-03",
+      "supports": "Zeitgenössische konkrete Bildunterschriften gelesen: tatsächlich stattgefundene Westwood-Premiere 8. März 2007. Abweichenden angekündigten Start im Begleittext nicht übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Shooter_(2007_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Filmhandlung gelesen: verlorener Partner, Johnsons Auftrag, erschossener Erzbischof, Sarah als Witwe, Memphis, Vertuschung in Äthiopien, Tonband, unbrauchbare Schlagbolzen und Schluss. Nicht mit der Fernsehfassung vermischt."
+    },
+    "dialog": {
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=shooter",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausgewählte zusammenhängende Dialogabschnitte zur Veranstaltung in Philadelphia und zur abschließenden Vorführung der nicht schussfähigen Tatwaffe gelesen: ausgetauschte Schlagbolzen, ältere Probepatrone und verweigerte Zuständigkeit für Auslandstaten. Transkription, kein autorisiertes Drehbuch behauptet."
+    },
+    "fuqua": {
+      "url": "https://www.blackfilm.com/20070316/features/antoinefuqua.shtml",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges zeitgenössisches Primärinterview gelesen: politisches Interesse, Bezug auf 1970er-Jahre-Thriller, Arbeit mit Figurenstudien und ausdrückliche Erklärung des Tonbandverbrennens zum Schutz anderer statt bloßer Selbstbezogenheit."
+    },
+    "hunter": {
+      "url": "https://dcfilmsociety.org/storyboard0704.htm",
+      "accessed_on": "2026-11-03",
+      "supports": "Abgegrenzten Hunter-Q&A-Abschnitt gelesen: Aufführungsgespräch März 2007, Unterschiede zwischen Buch und Film, auf Fuquas Wunsch Afrika statt El Salvador, praktische Fähigkeiten der Figur. Übrige Newsletterartikel nicht als Shooter-Quelle verwendet."
+    },
+    "buch": {
+      "url": "https://www.penguinrandomhouse.com/books/84546/point-of-impact-by-stephen-hunter/paperback/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Verlagsbeschreibung und Editionsdaten gelesen: Point of Impact, Stephen Hunter, Paperback 1993 und spätere E-Book-/Hörbuchfassungen 2007. Erstjahr zusätzlich durch AFI-Romancredit bestätigt; Paperbackdatum nicht als Hardcover-Ersttag behauptet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Mark Wahlberg spielt Bob Lee Swagger.",
+      "question": "Wer spielt den zurückgezogen lebenden ehemaligen Militärscharfschützen Bob Lee Swagger in „Shooter“?",
+      "answers": [
+        "Mark Wahlberg",
+        "Matt Damon",
+        "Jeremy Renner",
+        "Josh Duhamel"
+      ],
+      "short": "Mark Wahlberg spielt Bob Lee Swagger.",
+      "context": "Bob Lee Swagger (Mark Wahlberg) hat sich nach einem verratenen Einsatz zurückgezogen, bei dem sein Partner starb. Die Abgeschiedenheit endet, als ein neuer Auftrag an sein Pflichtgefühl gegenüber dem Land appelliert. Das Vertrauen in die staatlich wirkenden Besucher erweist sich als verhängnisvoll: Seine besonderen Fähigkeiten werden gebraucht, um ihn anschließend als Täter einer öffentlichen Gewalttat erscheinen zu lassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Swagger soll vorgeblich einen Anschlag auf den US-Präsidenten verhindern helfen.",
+      "question": "Mit welchem angeblichen Auftrag lockt Colonel Johnson (Danny Glover) Bob Lee Swagger (Mark Wahlberg) in „Shooter“ aus seinem Rückzug?",
+      "answers": [
+        "Einen möglichen Scharfschützenanschlag auf den Präsidenten zu prüfen",
+        "Einen entführten Diplomaten aus einem ausländischen Lager zu holen",
+        "Einen übergelaufenen Militärberater vor seinen Verfolgern zu schützen",
+        "Einen illegalen Waffentransport über die Grenze zu verfolgen"
+      ],
+      "short": "Swagger soll mögliche Anschlagspositionen gegen den Präsidenten untersuchen.",
+      "context": "Colonel Johnson (Danny Glover) lässt Bob Lee Swagger (Mark Wahlberg) mögliche Veranstaltungsorte beurteilen. Swagger berechnet, von wo ein weit entfernter Schütze Erfolg haben könnte, und entscheidet sich für Philadelphia als größte Gefahr. Seine Vorarbeit liefert der Gruppe gerade jene Ortskenntnis, die sie für die Inszenierung braucht. Der zu Hilfe gerufene Experte wird damit Teil der Vorbereitung seines eigenen Verrats.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "paramount"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Getötet wird der äthiopische Erzbischof statt des Präsidenten.",
+      "question": "Wer wird bei der öffentlichen Veranstaltung in „Shooter“ tatsächlich erschossen, während der Präsident vermeintlich das Ziel ist?",
+      "answers": [
+        "Ein äthiopischer Erzbischof",
+        "Ein amerikanischer Senator",
+        "Der örtliche Polizeichef",
+        "Ein ausländischer Wirtschaftsminister"
+      ],
+      "short": "Der Schuss trifft den äthiopischen Erzbischof.",
+      "context": "Der Geistliche steht bei der Veranstaltung unmittelbar beim Präsidenten. Er will über Gräueltaten in seinem Land sprechen und bedroht damit die Interessen der Verschwörer. Bob Lee Swagger (Mark Wahlberg) wird gleichzeitig an seinem Beobachtungsposten beschossen und muss fliehen. Die ersten widersprüchlichen Meldungen vom Tatort helfen, den Eindruck eines Anschlags auf den Präsidenten und eines flüchtigen Einzeltäters zu erzeugen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Sarah Fenn ist die Witwe von Swaggers getötetem Einsatzpartner.",
+      "question": "Welche Verbindung hat Sarah Fenn (Kate Mara), die Swagger (Mark Wahlberg) in „Shooter“ versorgt, zu seiner militärischen Vergangenheit?",
+      "answers": [
+        "Sie ist die Witwe seines getöteten Partners",
+        "Sie ist die Schwester seines früheren Kommandeurs",
+        "Sie war als Ärztin bei derselben Einheit eingesetzt",
+        "Sie hat seinen letzten Auslandseinsatz journalistisch begleitet"
+      ],
+      "short": "Sarah ist die Witwe von Swaggers Einsatzpartner.",
+      "context": "Sarah Fenn (Kate Mara) nimmt Bob Lee Swagger (Mark Wahlberg) trotz seiner Verletzungen und der Fahndung auf. Der Tod ihres Mannes verbindet beide bereits vor der Flucht. Aus der Hilfe entsteht eine eigene Gefährdung: Die Verschwörer erkennen die Verbindung und entführen Sarah. Swagger muss deshalb neben dem Nachweis seiner Unschuld auch verhindern, dass seine Helferin für ihre Unterstützung bezahlt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Ausgetauschte Schlagbolzen machen Swaggers Waffen unbrauchbar und widerlegen die behauptete Tatwaffennutzung.",
+      "question": "Wie widerlegt Swagger (Mark Wahlberg) bei der Anhörung in „Shooter“, dass er mit dem vorgelegten Gewehr geschossen haben kann?",
+      "answers": [
+        "Er demonstriert, dass ein ausgetauschter Schlagbolzen keinen Schuss zulässt",
+        "Er zeigt einen von innen verschweißten Lauf der Waffe",
+        "Er weist eine erst nach dem Anschlag erfolgte Lieferung des Gewehrs nach",
+        "Er legt eine Aufnahme vom Diebstahl des Gewehrs durch Johnson vor"
+      ],
+      "short": "Die ausgetauschten Schlagbolzen machen seine Gewehre nicht schussfähig.",
+      "context": "Bob Lee Swagger (Mark Wahlberg) bestreitet weder, dass das Gewehr ihm gehört, noch die Herkunft des passenden Geschossmaterials. Stattdessen zeigt er, dass seine gesicherten Waffen nicht feuern können. Die vermeintlich belastende Kugel stammt von einem früheren Probeschuss. Das Vorzeigen der nicht funktionierenden Waffe trennt so den Besitz des Gewehrs von der Behauptung, damit den Mord begangen zu haben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Swagger zerstört die Geständnisaufnahme, damit seine Helfer nicht als gefährliche Mitwisser ermordet werden.",
+      "question": "Warum vernichtet Swagger (Mark Wahlberg) beim Treffen im Schnee in „Shooter“ die belastende Tonaufnahme?",
+      "answers": [
+        "Er will seine Helfer vor der Ermordung als Mitwisser schützen",
+        "Er erkennt, dass die Aufnahme seine eigene Schuld beweist",
+        "Er muss damit einen versteckten Ortungssender zerstören",
+        "Er hält das aufgezeichnete Geständnis inzwischen für eine Fälschung"
+      ],
+      "short": "Die Vernichtung soll die übrigen Mitwisser schützen.",
+      "context": "Bob Lee Swagger (Mark Wahlberg) besitzt zunächst eine Aufnahme, die den Zusammenhang der Verschwörung belegen soll. Beim Austausch mit den Gegnern erkennt er aber, dass gefährliche Zeugen weiter beseitigt würden. Antoine Fuqua deutet das Verbrennen ausdrücklich als Entwicklung der Figur: Swagger denkt nun daran, dass andere verletzt werden können, statt allein an den eigenen Verrat und die eigene Entlastung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "fuqua",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Shooter wurde erstmals 2007 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Shooter“ mit Mark Wahlberg und Danny Glover erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "1998",
+        "2001",
+        "2004"
+      ],
+      "short": "Shooter erschien erstmals 2007.",
+      "context": "Stephen Hunters Roman „Point of Impact“ erschien 1993; 2007 kam seine Verfilmung heraus, vierzehn Jahre später. Der Autor erläuterte bei einem Filmgespräch eine konkrete Verschiebung: Die im Buch mit El Salvador verbundene Gewaltgeschichte wurde auf Wunsch Antoine Fuquas nach Afrika verlegt. Die zeitliche Distanz zur Vorlage ging damit auch mit einer geänderten politischen Geografie einher.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "buch",
+        "afi",
+        "premiere",
+        "hunter"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Antoine Fuqua führte allein Regie.",
+      "question": "Wer führte bei „Shooter“ mit Mark Wahlberg und Michael Peña Regie?",
+      "answers": [
+        "Antoine Fuqua",
+        "F. Gary Gray",
+        "Peter Berg",
+        "Joe Carnahan"
+      ],
+      "short": "Antoine Fuqua führte Regie.",
+      "context": "Fuqua interessierte am Stoff auch die Möglichkeit, innerhalb eines Actionfilms politische Zweifel auszudrücken. Er verwies im zeitgenössischen Interview auf die Verschwörungsfilme der 1970er Jahre und das Misstrauen gegenüber staatlicher und wirtschaftlicher Macht. Für die Arbeit mit den Darstellern legte er ausführliche Figurenstudien an und besprach die Entwicklung Szene für Szene, bevor am Set kurze Hinweise genügen sollten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "paramount",
+        "fuqua"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

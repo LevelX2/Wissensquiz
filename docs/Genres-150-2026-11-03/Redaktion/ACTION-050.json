@@ -1,0 +1,281 @@
+{
+  "id": "ACTION-050",
+  "film_title_de": "The Mechanic",
+  "film_title_original": "The Mechanic",
+  "film_year": 2011,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Redaktionelle Einschätzung: etablierter Statham-Titel mit bekannter Lehrer-Schüler-Konstellation und späterer Kinofortsetzung.",
+  "selection_reason": "Ein kontrollierter Auftragsmörder bildet den impulsiven Sohn seines eigenen Opfers aus. Unterschiedliche Arbeitsweisen, Täuschungen des Auftraggebers und vorbereitete Gegenmaßnahmen tragen die Actiongeschichte.",
+  "directors": [
+    "Simon West"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 2011: tatsächliche Los-Angeles-Premiere am 25. Januar durch Bildnachweis, regulärer US-Start 28. Januar nach AFI und zeitgenössischem West-Interview. Vorverkauf bei der Berlinale 2009 war kein öffentlich gezeigter fertiger Film.",
+  "director_note": "Simon West alleinige Hauptregie nach AFI und Verleihheft. Richard Wenk und Lewis John Carlino tragen den finalen Drehbuchcredit; abweichende Entwicklungscredits werden nicht mit dem endgültigen Team gleichgesetzt.",
+  "country_note": "USA nach konkretem AFI-Katalog und amerikanischem Distributionsdatensatz; britische Herkunft des Regisseurs und einzelner Beteiligter nicht als Produktionsland behandelt.",
+  "series": {
+    "name": "The Mechanic",
+    "position": 1,
+    "note": "Erster veröffentlichter Film der Statham-Folge, vor Mechanic: Resurrection. Der eigenständige Bronson-Film von 1972 gehört als Vorlage nicht zur Nummerierung dieser Neuverfilmungsfolge."
+  },
+  "series_note": "Bestehenden kanonischen Reihennamen und Position 1 aus src/filmSeries.json bewusst abgeglichen. Die veröffentlichte Fortsetzung ist durch Lionsgate-Home-Entertainment-Presse und produzierendes Studio positiv belegt.",
+  "series_sources": [
+    "https://media.fetch.fm/lionsgate-home-entertainment/lionsgate-home-entertainment-mechanic-resurrection/",
+    "https://nuboyana.com/mechanic-resurrection-released-august/"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/66954",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Credits und Metadaten gelesen: Statham/Bishop, Foster/Steve, Sutherland/Harry, Goldwyn/Dean, West allein, finale Autoren Wenk/Carlino, USA und US-Start 28. Januar 2011."
+    },
+    "premiere": {
+      "url": "https://imagecollect.com/picture/christa-campbell-photo-484926/the-mechanic-los-angeles-premiere",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkrete Veranstaltungsfotografie mit Bildunterschrift gelesen: Los-Angeles-Premiere 25. Januar 2011, ArcLight Cinemas. Bilddaten späterer Veröffentlichungen nicht als Premiere verwendet."
+    },
+    "presse": {
+      "url": "https://doczz.net/doc/6200645/the-mechanic---frenetic-films",
+      "accessed_on": "2026-11-03",
+      "supports": "Identifizierte Transkription des Frenetic-Verleihhefts gezielt gelesen: Credits Seite 2, Synopsis/Produktionsnotizen und Regie-/Darstellerabschnitte bis Seite 12. Enthält teilweise vom fertigen Film abweichende ausführliche Handlung, deshalb nur bestätigte Figurenbeziehungen, Arbeitsweise und Schauspielführung verwendet. Kein eigener PDF-Originalabruf behauptet."
+    },
+    "west": {
+      "url": "https://www.mandatory.com/fun/130146-exclusive-director-simon-west-on-the-mechanic",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen eigentlichen Primärinterviewtext gelesen: Originaldrehbuch von 1972, achtwöchige Bearbeitung mit Wenk, Statham/Foster-Kontrast, Harry-Tötung, Unfallinszenierung und konkret Steves Missachtung der Vergiftungsanweisung zugunsten eines Würgeversuchs."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Mechanic_(2011_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Besetzung gelesen: Burke-Auftrag, Harry unter falscher Anschuldigung, überlebender Sebastian am Flughafen, charakteristische Pistole, Steves Verrat, Plattenspieler/Jaguar-Bomben und Bishops entdeckte Flucht."
+    },
+    "imdb": {
+      "url": "https://www.imdb.com/title/tt0472399/plotsummary/",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausführliche konkrete indexierte Szenen gelesen: Burke und Rohypnol, Sebastian als angeblich Toter, Dean-Täuschung, Harrys Pistole, vorbereitete Explosionen und Überwachungsaufnahme. Keine autorisierte Drehbuchfassung behauptet."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/the-mechanic-2011",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen indexierten Kritiktext und Credits gelesen: Bishops kontrollierte Persönlichkeit, Mentor Sutherland, Steve als Sohn des von Bishop Getöteten und Gegensatz zur impulsiven jungen Figur. Direkter Folgeabruf 403, Indexlektüre ausdrücklich benannt."
+    },
+    "fortsetzung": {
+      "url": "https://media.fetch.fm/lionsgate-home-entertainment/lionsgate-home-entertainment-mechanic-resurrection/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen offiziellen Lionsgate-Home-Entertainment-Pressetext gelesen: Resurrection ist Fortsetzung des Films von 2011, Statham erneut Arthur Bishop, veröffentlichte Heimkinofassung 2016. Werbewertungen nicht als Faktenfragen übernommen."
+    },
+    "studio": {
+      "url": "https://nuboyana.com/mechanic-resurrection-released-august/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige konkrete Studiomeldung gelesen: Resurrection ausdrücklich sequel to the 2011 film, Millennium/Lionsgate und angekündigter Auguststart 2016; tatsächliche spätere Veröffentlichung zusätzlich durch Lionsgate-Heimkinopresse belegt."
+    },
+    "chud": {
+      "url": "https://www.chud.com/33194/interview-simon-west-the-mechanic/",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkreten indexierten Primärinterviewabschnitt gelesen: sechs Tage für großes Finale, misslungener Pyro-Autostunt mit sieben Kameras, verlorener erster Tag, Regen und verkürzte nutzbare Drehzeit. Aktuelle Direktdomain nicht als funktionierende Originalseite behauptet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jason Statham spielt Arthur Bishop.",
+      "question": "Wer spielt in „The Mechanic“ den kontrolliert arbeitenden Auftragsmörder Arthur Bishop an der Seite von Ben Foster?",
+      "answers": [
+        "Jason Statham",
+        "Gerard Butler",
+        "Vin Diesel",
+        "Scott Adkins"
+      ],
+      "short": "Jason Statham spielt Arthur Bishop.",
+      "context": "Arthur Bishop (Jason Statham) lebt zurückgezogen und behandelt seine Aufträge als präzise Vorhaben. Der jüngere Steve McKenna (Ben Foster) bringt dagegen Wut und spontane Gewalt mit. Der Gegensatz der Figuren prägt die Zusammenarbeit. Die scheinbare Weitergabe von Erfahrung wird dadurch immer wieder von einem Schüler gestört, der das äußere Bild des Könnens schneller übernehmen will als dessen Disziplin.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "ebert",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Bishop lässt Tötungen wie Unfälle oder natürliche Todesfälle erscheinen.",
+      "question": "Wodurch zeichnet sich Arthur Bishops (Jason Statham) Arbeitsweise in „The Mechanic“ besonders aus?",
+      "answers": [
+        "Er lässt Tötungen wie Unfälle oder natürliche Todesfälle wirken",
+        "Er zwingt seine Zielpersonen mit Entführungen ins Ausland",
+        "Er ersetzt gesuchte Personen durch vorbereitete Doppelgänger",
+        "Er veröffentlicht nach jedem Auftrag ein anonymes Bekennervideo"
+      ],
+      "short": "Seine Morde sollen wie gewöhnliche Todesfälle aussehen.",
+      "context": "Arthur Bishop (Jason Statham) beobachtet die Gewohnheiten einer Zielperson, bevor er handelt. Der Tod soll keinen offensichtlichen Auftragsmord erkennen lassen. Dafür muss er nicht nur treffen oder entkommen, sondern eine glaubhafte Situation herstellen. Mit Steve McKenna (Ben Foster) an seiner Seite verändert sich diese Kontrolle: Eigenmächtige Entscheidungen des Schülers lassen die geplanten Abläufe mehrfach in offene Kämpfe kippen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Steve missachtet die Vergiftungsanweisung und versucht, Burke körperlich zu überwältigen.",
+      "question": "Welche Anweisung missachtet Steve (Ben Foster) bei seinem Auftrag gegen Burke (Jeff Chase) in „The Mechanic“?",
+      "answers": [
+        "Er soll dessen Getränk vergiften statt einen körperlichen Kampf suchen",
+        "Er soll dessen Wohnung sprengen statt im Freien zu schießen",
+        "Er soll dessen Auto manipulieren statt ihn im Hotel aufzusuchen",
+        "Er soll ihn lebend entführen statt seine Fluchtroute zu blockieren"
+      ],
+      "short": "Steve sucht den direkten Kampf, statt den vorbereiteten Giftplan auszuführen.",
+      "context": "Steve McKenna (Ben Foster) will die Vorgehensweise von Arthur Bishop (Jason Statham) nachahmen und versucht, den körperlich überlegenen Burke (Jeff Chase) zu erwürgen. Die geplante Vergiftung hätte den offenen Kampf vermieden. Stattdessen gerät der Anfänger in eine lange, unkontrollierte Auseinandersetzung. Simon West nennt die Szene im Interview als Beispiel dafür, wie der Schüler die saubere Planung des Mentors durcheinanderbringt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "west",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ein angeblich getöteter Einsatzteilnehmer ist lebendig und deckt Deans Täuschung auf.",
+      "question": "Welche Entdeckung am Flughafen zeigt Bishop (Jason Statham) in „The Mechanic“, dass die Anschuldigung gegen Harry (Donald Sutherland) manipuliert war?",
+      "answers": [
+        "Ein angeblich bei der verratenen Mission getöteter Mann lebt",
+        "Ein aufgezeichneter Funkspruch nennt Dean statt Harry als Verräter",
+        "Ein Zollbericht belegt die legale Ausreise aller Einsatzteilnehmer",
+        "Eine Fotoreihe zeigt den Auftraggeber beim Verkauf des Einsatzplans"
+      ],
+      "short": "Bishop erkennt einen angeblich toten Einsatzteilnehmer wieder.",
+      "context": "Arthur Bishop (Jason Statham) hatte den Tod seiner Kollegen als Begründung für einen Verrat von Harry McKenna (Donald Sutherland) akzeptiert. Am Flughafen begegnet ihm einer dieser vermeintlich Getöteten lebendig. Der Mann erklärt die Inszenierung durch Dean (Tony Goldwyn). Damit erweist sich die Grundlage des früheren Mordauftrags als Täuschung, und Bishop wendet sich gegen den eigenen Auftraggeber.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "imdb"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Bishop hat Steves Vater Harry getötet, bevor er dessen Sohn ausbildet.",
+      "knowledge_id": "K-SCHAUSPIELER-BG-20261013-015-S2",
+      "variant_of": "SCHAUSPIELER-BG-20261013-015-S2",
+      "question": "Was belastet die Ausbildung von Steve McKenna (Ben Foster) durch Arthur Bishop (Jason Statham) in „The Mechanic“ von Anfang an?",
+      "answers": [
+        "Bishop hat Steves Vater Harry getötet",
+        "Bishop benutzt Steve als Pfand gegen Harrys Gläubiger",
+        "Bishop hält Steves verschollenen Bruder versteckt",
+        "Bishop soll Steve nach seiner Ausbildung ausliefern"
+      ],
+      "short": "Bishop ist der Mörder von Steves Vater.",
+      "context": "Harry McKenna (Donald Sutherland) war für Arthur Bishop (Jason Statham) selbst Freund und Mentor. Nach dessen Tötung nimmt Bishop Harrys Sohn Steve (Ben Foster) als Schüler an, ohne seine eigene Rolle offenzulegen. Die Ausbildung erzeugt daher zugleich Nähe und eine verborgene Rachegefahr. Die entscheidende Wahrheit steckt nicht erst in einem späteren Streit, sondern schon in der Entstehung dieses Ersatzverhältnisses.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "ebert"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Steve missachtet die Verbote zu Plattenspieler und Jaguar und aktiviert vorbereitete Fallen.",
+      "question": "Welche beiden Verbote missachtet Steve (Ben Foster) nach seinem Verrat bei der Rückkehr zu Bishops Haus in „The Mechanic“?",
+      "answers": [
+        "Er spielt eine Schallplatte ab und nimmt den Jaguar",
+        "Er öffnet den Waffenschrank und startet das Motorboot",
+        "Er setzt die Alarmanlage zurück und fährt den Lastwagen",
+        "Er öffnet den Weinkeller und schaltet die Werkstattbeleuchtung ein"
+      ],
+      "short": "Steve benutzt den Plattenspieler und den Jaguar.",
+      "context": "Steve McKenna (Ben Foster) hält seinen Mentor nach der Explosion an der Tankstelle für tot. Er behandelt dessen Besitz nun wie den eigenen, doch die verbotenen Gegenstände sind präpariert. Der Wagen explodiert während seiner Flucht, und auch das Haus wird zerstört. Eine Überwachungsaufnahme zeigt anschließend, dass Arthur Bishop (Jason Statham) rechtzeitig aus dem angegriffenen Lastwagen entkommen war.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "The Mechanic wurde erstmals 2011 veröffentlicht.",
+      "question": "In welchem Jahr wurde „The Mechanic“ mit Jason Statham und Ben Foster erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2002",
+        "2005",
+        "2008"
+      ],
+      "short": "The Mechanic erschien erstmals 2011.",
+      "context": "Die Vorlage mit Charles Bronson erschien 1972; 2011 folgte die Neufassung mit Jason Statham, neununddreißig Jahre später. Simon West erhielt nach langer Entwicklung erneut das ursprüngliche Drehbuch von Lewis John Carlino. Mit Richard Wenk bearbeitete er dessen Struktur für die neue Fassung. Der ältere Film ist deshalb die Vorlage, während die später veröffentlichte Statham-Fortsetzung eine eigene Filmfolge begründet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "premiere",
+        "west",
+        "presse",
+        "fortsetzung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Simon West führte allein Regie.",
+      "question": "Wer führte bei „The Mechanic“ mit Jason Statham, Ben Foster und Donald Sutherland Regie?",
+      "answers": [
+        "Simon West",
+        "Simon Wincer",
+        "Roger Donaldson",
+        "Gary McKendry"
+      ],
+      "short": "Simon West führte Regie.",
+      "context": "West hatte für die große Schlussaction zunächst sechs Drehtage. Beim ersten großen Autostunt funktionierte die Pyrotechnik nicht wie vorgesehen; der Wagen verfehlte die geplante Bewegung, obwohl mehrere Kameras bereitstanden. Regen und weniger Tageslicht verkürzten die verbleibende Zeit zusätzlich. Im Interview beschreibt der Regisseur deshalb den konkreten Druck, eine geplante Sequenz noch innerhalb der tatsächlich nutzbaren Stunden umzusetzen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "chud"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
