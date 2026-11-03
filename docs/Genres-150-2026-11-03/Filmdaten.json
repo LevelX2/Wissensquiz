@@ -20408,6 +20408,590 @@
       "reference_question_id": "G150-20261103-ACTION-039-L1",
       "year_question_id": "G150-20261103-ACTION-039-Y",
       "director_question_id": "G150-20261103-ACTION-039-D"
+    },
+    {
+      "id": "FANTASY-028",
+      "film_title_de": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+      "film_title_original": "Fantastic Beasts: The Crimes of Grindelwald",
+      "film_year": 2018,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "International bekannter zweiter Tierwesen-Film; Familienverflechtungen und politische Verführung verlangen dennoch konkrete Filmkenntnis.",
+      "directors": [
+        "David Yates"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 8. November 2018 in Paris laut zeitgenössischer offizieller Ankündigung; regulärer britischer und amerikanischer Kinostart am 16. November.",
+      "director_note": "Alleinige Regie David Yates, Drehbuch J.K. Rowling; offizieller Produktionsbericht und Yates' eigenes Setinterview geprüft.",
+      "country_note": "UK/USA in der einschlägigen Filmtabelle des BFI Statistical Yearbook 2019; nicht vom Pariser Schauplatz auf ein Produktionsland geschlossen.",
+      "series": {
+        "name": "Phantastische Tierwesen",
+        "position": 2,
+        "note": "Zweiter veröffentlichter Tierwesen-Film nach dem Newt-Abenteuer von 2016; keine Nummerierung als Harry-Potter-Hauptfilm."
+      },
+      "series_note": "Die drei veröffentlichten Teile erschienen 2016, 2018 und 2022. Frühere Fünffilmplanungen begründen keine weiteren erschienenen Teile.",
+      "series_sources": [
+        "https://www.harrypotter.com/news/everything-we-know-about-fantastic-beasts-the-crimes-of-grindelwald-so-far",
+        "https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald"
+      ],
+      "sources": [
+        {
+          "key": "offiziell",
+          "url": "https://www.harrypotter.com/news/everything-we-know-about-fantastic-beasts-the-crimes-of-grindelwald-so-far",
+          "accessed_on": "2026-11-03",
+          "supports": "Einschlägige vollständige Abschnitte zu Rückkehrern, Schauplätzen, Theseus/Leta, Maledictus, Drehbuch und Regie gelesen; angekündigte Handlung mit dem veröffentlichten Film abgeglichen. Spekulative Vorabfragen nicht übernommen."
+        },
+        {
+          "key": "figuren",
+          "url": "https://www.harrypotter.com/features/a-guide-to-the-new-characters-from-fantastic-beasts-the-crimes-of-grindelwald",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Figurenabschnitte Leta, Yusuf, Nagini/Skender und Theseus gelesen: Besetzung, Bruderbeziehung, Ministerium und Blutfluch. Vorabvermutungen über Nachfahren und künftige Handlung nicht verwendet."
+        },
+        {
+          "key": "nagini",
+          "url": "https://www.harrypotter.com/features/everything-you-need-to-know-about-nagini",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen offiziellen Artikel gelesen: Claudia Kim, menschliche Vergangenheit und Blutfluch mit späterer endgültiger Tiergestalt. Spätere Voldemort-Buchhandlung nicht zum Gegenstand dieser Filmfrage gemacht."
+        },
+        {
+          "key": "pact",
+          "url": "https://www.harrypotter.com/features/grindelwald-and-dumbledores-history-a-deep-dive",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Abschnitt Their complicated ties in Fantastic Beasts sowie historischen Vorlauf gelesen: Niffler stiehlt beim Pariser Treffen das Gefäß, Blutpakt untersagt den gegenseitigen Angriff. Nachfolgende Filmhandlung nicht vorweggenommen."
+        },
+        {
+          "key": "leta",
+          "url": "https://www.hp-lexicon.org/character/lestrange-family/leta-lestrange/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen biografischen Filmabschnitt samt Familiengeschichte gelesen: Säuglingstausch, Corvus' Tod, Credence und Letas Schuld. Unabhängige Fan-Enzyklopädie; entscheidenden Ablauf zusätzlich mit der Filmhandlung abgeglichen, Schreibfehler nicht übernommen."
+        },
+        {
+          "key": "heyman",
+          "url": "https://www.the-leaky-cauldron.org/2018/11/16/fantastic-beasts-the-crimes-of-grindelwald-roundtable-interviews-david-heyman-and-callum-turner/",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung und vollständige erste Interviewfragen zu Politik, Verführung, Queenies Ehewunsch und Letas Opfer sowie Turners Figurenbeziehungen gelesen. Eigene Interviewquelle; restliche Fragen nicht als vollständig gelesen ausgegeben."
+        },
+        {
+          "key": "yates",
+          "url": "https://www.the-leaky-cauldron.org/2018/08/23/fantastic-beasts-the-crimes-of-grindelwald-set-report-4-interview-with-director-david-yates/",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung sowie einschlägige Interviewabschnitte zu Genreverbindung, parallelen Liebesgeschichten, Jude Laws Dumbledore und Kama gelesen. Regisseur beschreibt die Verbindung von Liebesgeschichte und politischem Thriller; keine Behauptung einer vollständigen Sichtung der verlinkten übrigen Setberichte."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.harrypotter.com/news/new-featurette-reveals-connections-between-fantastic-beasts-crimes-of-grindelwald-and-harry-potter",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen offiziellen Ankündigungstext gelesen: Weltpremiere Paris heute, datierter Filmkanal-Beitrag 8. November 2018, regulärer Start 16. November; Rückverbindungen zur ersten Reihe."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2019.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Nur die einschlägige vollständige Filmzeile im Suchindex gelesen: UK/USA und Filmjahr 2018. Kein vollständiger Jahrbuchdurchgang behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungsabschnitt sowie Einleitung, Veröffentlichung und relevante Hauptbesetzung gelesen: Paris, Nagini, Queenies Wechsel, Säuglingstausch und Blutpakt. Grindelwalds Behauptung über Credence nicht als unabhängig erwiesene Familienwahrheit übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-028-L1",
+      "year_question_id": "G150-20261103-FANTASY-028-Y",
+      "director_question_id": "G150-20261103-FANTASY-028-D"
+    },
+    {
+      "id": "FANTASY-029",
+      "film_title_de": "Phantastische Tierwesen: Dumbledores Geheimnisse",
+      "film_title_original": "Fantastic Beasts: The Secrets of Dumbledore",
+      "film_year": 2022,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte internationale Fantasyreihe mit wiederkehrendem Ensemble; die Einzelheiten der Wahlhandlung und ihrer Täuschungen bleiben anspruchsvoll.",
+      "directors": [
+        "David Yates"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 29. März 2022 in der Royal Festival Hall, London: Rowlings eigener Bericht vom 30. März sagt ausdrücklich last night. Reguläre Länderstarts im April, britisch am 8. April.",
+      "director_note": "David Yates als alleiniger Regisseur auf der offiziellen Warner-Filmseite; J.K. Rowling und Steve Kloves sind Drehbuchautoren.",
+      "country_note": "BFI führt den Film ausdrücklich unter den UK/USA-Produktionen des Kinojahrs 2022. Bhutan ist Handlungsschauplatz, daraus folgt kein zusätzliches Produktionsland.",
+      "series": {
+        "name": "Phantastische Tierwesen",
+        "position": 3,
+        "note": "Dritter veröffentlichter Film nach den Teilen von 2016 und 2018; frühere Ankündigungen weiterer Teile nicht mitgezählt."
+      },
+      "series_note": "Teil 3 der eigenständigen Tierwesen-Filmfolge innerhalb der Wizarding World; keine Harry-Potter-Hauptfilmnummer.",
+      "series_sources": [
+        "https://www.jkrowling.com/world-premiere-fantastic-beasts-the-secrets-of-dumbledore/",
+        "https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Secrets_of_Dumbledore"
+      ],
+      "sources": [
+        {
+          "key": "warner",
+          "url": "https://www.fantasticbeasts.co.uk/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Filmsynopsis und Produktionscredits gelesen: Hauptbesetzung, David Yates, Rowling/Kloves, britischer Aprilstart und Hauptmitarbeiter."
+        },
+        {
+          "key": "figuren",
+          "url": "https://www.harrypotter.com/features/whos-who-in-fantastic-beasts-the-secrets-of-dumbledore",
+          "accessed_on": "2026-11-03",
+          "supports": "Einschlägigen vollständigen Lally-Hicks-Abschnitt gelesen: Zauberkunstprofessorin in Ilvermorny, Freundschaft zu Dumbledore und Briefwechsel mit Newt. Keine vollständige Lektüre aller Figurenabschnitte behauptet."
+        },
+        {
+          "key": "qilin",
+          "url": "https://www.harrypotter.com/fact-file/creatures/qilin",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Enzyklopädietext im ausführlichen Suchindex gelesen: chinesisches magisches Wesen, vorausschauende Fähigkeiten, Blick in die Seele und Verbeugung vor Menschen reinen Herzens."
+        },
+        {
+          "key": "entdeckungen",
+          "url": "https://www.harrypotter.com/features/all-the-things-we-discovered-in-the-secrets-of-dumbledore",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigentliche offizielle Filmnachbetrachtung gelesen: Wahl und Verbeugung, Buntys echter Koffer, Hochzeit und vor allem Schutz Credences statt Angriff als Anlass des Blutpaktbruchs. Gegenüber vorherigen Filmankündigungen als nachträgliche Filmquelle abgegrenzt."
+        },
+        {
+          "key": "drehbuch",
+          "url": "https://imsdb.com/scripts/Fantastic-Beasts-The-Secrets-of-Dumbledore.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Gezielt die vollständigen einschlägigen Dialogfolgen zum Countersight-Plan im Zug und zur Erklärung Bhutans in Hogwarts gelesen; zudem Kofferjagd und Ablenkungsinhalte im Finale. Wiedergabe des Final Shooting Script auf unabhängigem Archiv, kein eigener Film- oder Ganzdrehbuchsichtungsnachweis. Verwendete Vorgänge mit veröffentlichten Filmquellen abgeglichen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Secrets_of_Dumbledore",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungsabschnitt, Einleitung und Hauptbesetzung gelesen: Lally, Bhutan, Qilinwahl, Aberforth als Vater, Täuschungsplan und Blutpakt. Unterschiedliche Weltstartangaben nicht als Erstpremiere verwendet."
+        },
+        {
+          "key": "spoiler",
+          "url": "https://themoviespoiler.com/movies/fantastic-beasts-the-secrets-of-dumbledore/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zusammenhängende Filmhandlung von Jeremy gelesen; insbesondere Lallys inszenierte Straßenszene, Aberforth/Credence, Kofferfinten und Finale. Fehlerhafte Orts- und Einzelnamenschreibungen nicht übernommen; keine eigenständige offizielle Quelle."
+        },
+        {
+          "key": "yates",
+          "url": "https://www.theaureview.com/watch/interview-david-yates/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Peter-Gray-Interview mit beiden Fragen und Yates-Antworten im Suchindex gelesen: erwachsene Figuren mit kindlicher Verletzlichkeit und fortlaufender Dialog mit Law/Redmayne. Direktaufruf liefert 404; nicht als dort vollständig abrufbarer Text dargestellt."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.jkrowling.com/world-premiere-fantastic-beasts-the-secrets-of-dumbledore/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Bericht vom 30. März 2022 im Suchindex gelesen: Premiere last night, Royal Festival Hall London, dritter Film und bevorstehende Aprilstarts."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/news/official-2022-statistics",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Absatz zur Gruppe von sechs UK/USA-Filmen gelesen, der Dumbledores Geheimnisse ausdrücklich nennt; kein vollständiger Statistikbericht behauptet."
+        },
+        {
+          "key": "vorfilm",
+          "url": "https://www.harrypotter.com/news/everything-we-know-about-fantastic-beasts-the-crimes-of-grindelwald-so-far",
+          "accessed_on": "2026-11-03",
+          "supports": "Offiziellen vollständigen Veröffentlichungs- und Creditabschnitt zum Vorgänger gelesen: Kinofilm 2018 als datierter Anker für den Abstand zum dritten Film."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-029-L1",
+      "year_question_id": "G150-20261103-FANTASY-029-Y",
+      "director_question_id": "G150-20261103-FANTASY-029-D"
+    },
+    {
+      "id": "FANTASY-030",
+      "film_title_de": "Snow White and the Huntsman",
+      "film_title_original": "Snow White and the Huntsman",
+      "film_year": 2012,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit vermarktete Märchenfantasy mit Kristen Stewart, Charlize Theron und Chris Hemsworth; konkrete Abwandlungen und Effektverfahren erfordern eigene Kenntnis.",
+      "directors": [
+        "Rupert Sanders"
+      ],
+      "production_countries": [
+        "USA",
+        "Japan"
+      ],
+      "release_note": "Weltpremiere am 14. Mai 2012 am Londoner Leicester Square durch den eigenen zeitgenössischen HeyUGuys-Vor-Ort-Bericht bestätigt. Regulärer britischer Start 30. Mai, amerikanisch 1. Juni. Erweiterte Heimvideofassung desselben Films keine neue Identität.",
+      "director_note": "Alleinige Regie Rupert Sanders, sein erster Langspielfilm; der Effektverantwortliche Cedric Nicolas-Troyan inszenierte später den zweiten Film, nicht diesen.",
+      "country_note": "Führender BFI-Filmdatensatz ausdrücklich USA/Japan. Die australische staatliche Original-Kinoklassifikation führt nur USA; diese engere Erfassung ist dokumentiert. Britische Drehorte und britische Regie begründen kein zusätzlich erfundenes Produktionsland.",
+      "series": {
+        "name": "Snow White and the Huntsman",
+        "position": 1,
+        "note": "Erster veröffentlichter Film der Huntsman-Folge; Winter's War folgt 2016 und erzählt sowohl Vorgeschichte als auch spätere Ereignisse."
+      },
+      "series_note": "Unabhängige Disney-Neuverfilmungen, Mirror Mirror und weitere Schneewittchenfilme gehören nicht in diese Teilzählung.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Snow_White_and_the_Huntsman",
+        "https://www.girl.com.au/chris-hemsworth-the-huntsman-winters-war.htm"
+      ],
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/72535443-cb78-57be-a3db-78e086ad19f1/snow-white-and-the-huntsman",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen knappen Filmkopf im Suchindex gelesen: Titel, 2012, USA/Japan. Länderabweichung zur australischen Klassifikation ausdrücklich dokumentiert."
+        },
+        {
+          "key": "klassifikation",
+          "url": "https://www.classification.gov.au/titles/snow-white-and-huntsman",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen staatlichen Original-Kinodatensatz im Suchindex gelesen: Rupert Sanders, Universal, 2012, Herkunft USA, Fantasythemen und Gewalt. Klassifikationsdatum nicht als Premiere ausgegeben."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.heyuguys.com/snow-white-and-the-huntsman-world-premiere-interviews/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen zeitgenössischen Vor-Ort-Artikel vom 14. Mai 2012 im Suchindex gelesen: Weltpremiere London, anwesende Hauptbesetzung und Regisseur, bevorstehender 30.-Mai-Start. Eingebettete Videos nicht als angesehen behauptet."
+        },
+        {
+          "key": "abc",
+          "url": "https://abcnews.com/blogs/entertainment/2012/06/review-snow-white-and-the-huntsman",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene David-Blaustein-Filmkritik gelesen: Besetzung, Turmhaft, Spiegel, Herz, verstorbene Frau des Jägers und versprochene Wiederbelebung. Ungenaue Zahl sieben für die zunächst acht Zwerge nicht übernommen."
+        },
+        {
+          "key": "kritik",
+          "url": "https://www.oneguysopinion.com/snow-white-and-the-huntsman/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigentliche eigene Filmkritik gelesen: Erschleichung des Throns, Lebensentzug, Vergiftung in Williams Gestalt, entscheidender Kuss des Jägers und Aufstand. Polemische Wertungen nicht als Fakten übernommen."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/snow-white-and-the-huntsman-2012",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen zusammenhängenden eigenen Kritiktext im Suchindex gelesen: erwachsene Heldin, Lebensentzug, weiße Hirschgestalt und Tierwelt, digitale Zwerge, Verbindung zur Disney-Fassung von 1937, Credits. Direktseite 403; keine vollständige direkte Abrufbarkeit behauptet."
+        },
+        {
+          "key": "sanders",
+          "url": "https://www.heyuguys.com/snow-white-huntsman-interview-rupert-sanders/",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausführlichen eigentlichen eigenen Interviewtext im Suchindex gelesen: Langfilmdebüt, Präsentationsfilm, britische Drehs, Zwergendarsteller, Hirsch als Segen der Natur und wechselnde helle/dunkle Welten. Seitenabruf zeitweise Timeout, keine Videosichtung behauptet."
+        },
+        {
+          "key": "effekte",
+          "url": "https://www.fxguide.com/fxfeatured/every-trick-in-the-fairytale-book-snow-white-and-the-huntsman/",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung und vollständige einschlägige Interviewabschnitte Attack of the Troll, Mirror Man und Replacing faces: the dwarfs gelesen: Perspektive, Podeste, Doubles, digitale Gesichtsprojektion und nachgedrehte Darbietungen. Kein kompletter Vendor-Restartikel oder eingebettete Videos als gesichtet ausgegeben."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Huntsman",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungsabschnitt, Besetzung und Veröffentlichungsabschnitt gelesen. Die dortige Deutung, beide Küsse zusammen brächen den Zauber, gegenüber zeitgenössischer Filmkritik nicht übernommen; nur beobachtbare Reihenfolge abgefragt. Originaltitel auch mit & verbreitet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-030-L1",
+      "year_question_id": "G150-20261103-FANTASY-030-Y",
+      "director_question_id": "G150-20261103-FANTASY-030-D"
+    },
+    {
+      "id": "FANTASY-031",
+      "film_title_de": "The Huntsman & The Ice Queen",
+      "film_title_original": "The Huntsman: Winter's War",
+      "film_year": 2016,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekanntes internationales Starensemble und Ableger eines erfolgreichen Märchenfilms, die konkrete zweite Geschichte ist jedoch weniger allgegenwärtig als der Auftakt.",
+      "directors": [
+        "Cedric Nicolas-Troyan"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA"
+      ],
+      "release_note": "Erste belegte Premiere beziehungsweise öffentliches Fanscreening am 29. März 2016 in Hamburg; zeitgenössischer Bericht zitiert Hemsworths eigenen Rückblick auf das Screening. Reguläre Aprilstarts einschließlich Deutschland 7. April, USA 22. April. Heimvideo-Erweiterung keine eigene Filmidentität.",
+      "director_note": "Alleinige Hauptregie Cedric Nicolas-Troyan gemäß Universal und eigenem Regieinterview. Beim Film von 2012 war er Effektverantwortlicher und führte Second Unit; dort bleibt Rupert Sanders Hauptregisseur.",
+      "country_note": "BFI Statistical Yearbook 2017, Tabelle der britischen Filme am nordamerikanischen Markt, nennt ausdrücklich UK/USA. Deutsche Verleih- und FFA-Kurzangaben führen enger nur USA; Finanzierungshinweise auf Perfect World nicht in ein unbelegt zusätzliches Produktionsland umgedeutet.",
+      "series": {
+        "name": "Snow White and the Huntsman",
+        "position": 2,
+        "note": "Zweiter veröffentlichter Film nach dem Auftakt von 2012; einleitende Vorgeschichte vor und Haupthandlung nach dessen Ereignissen."
+      },
+      "series_note": "Nicolas-Troyan bezeichnet die Konstruktion selbst als Verbindung von Prequel und Sequel. Die Teilzählung bleibt nach Veröffentlichung 2.",
+      "series_sources": [
+        "https://www.postmagazine.com/publications/2016/april-1-2016/directors-chair-cedric-nicolas-troyan-the-huntsman-winters-war/",
+        "https://www.girl.com.au/chris-hemsworth-the-huntsman-winters-war.htm"
+      ],
+      "sources": [
+        {
+          "key": "universal",
+          "url": "https://www.upig.de/micro/the-huntsman",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige offizielle Synopsis und Creditzeilen im Suchindex gelesen: deutscher Titel, Regisseur, Hauptbesetzung, verbotene Liebe und Spiegelrückkehr. Heimvideodatum nicht als Erstveröffentlichung übernommen."
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.girl.com.au/chris-hemsworth-the-huntsman-winters-war.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Synopse und vollständige einschlägige Produktionsabschnitte zum Ursprung des Films, Erics früherer Liebe, Sara und Freya mit direkten Äußerungen von Hemsworth, Chastain, Blunt und Nicolas-Troyan gelesen. Wiedergegebene Produktionsinformation, kein unabhängig geführtes Eigeninterview behauptet; übrige lange Kostüm-/Drehortabschnitte nicht als vollständig gelesen ausgegeben."
+        },
+        {
+          "key": "post",
+          "url": "https://www.postmagazine.com/publications/2016/april-1-2016/directors-chair-cedric-nicolas-troyan-the-huntsman-winters-war/",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung und vollständige eigene Interviewantworten zu Regiedebüt, früherer Second Unit, Prequel/Sequel, Editorvertrauen und überraschend schwierigen Eiskristallen gelesen. Weitere Einzelantworten nicht als vollständige Artikellektüre behauptet."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-huntsman-winters-war",
+          "accessed_on": "2026-11-03",
+          "supports": "Gezielt zusammenhängende Dialogfolgen zum Medaillonversprechen, zur täuschenden Eiswand, Saras scheinbarem Verrat und zur Enthüllung von Ravennas Kindermord gelesen. Unoffizielle Transkription ohne Bildspur; visuelle Vorgänge zusätzlich mit Handlungsquellen abgeglichen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Huntsman:_Winter's_War",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungsabschnitt sowie Einleitung und Hauptbesetzung gelesen: Schwesterbeziehung, Liebesverbot, gegensätzliche falsche Wahrnehmungen, Rückkehr Ravennas und deren Verantwortung für Freyas Kind. Post-Credits-Aussage wegen Fassungsabgrenzung nicht als Frage verwendet."
+        },
+        {
+          "key": "medaillon",
+          "url": "https://www.imdb.com/title/tt2381991/plotsummary/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige zusammenhängende Handlungsabschnitte im ausführlichen Suchindex gelesen: mütterliches Medaillon als Liebespfand, Sara zielt beim befohlenen Schuss auf dieses Medaillon. Nutzerverfasste Zusammenfassung, zusätzlich mit unabhängiger zeitgenössischer Filmbeobachtung abgeglichen."
+        },
+        {
+          "key": "beobachtung",
+          "url": "https://bobcanada92.blogspot.com/2016/04/it-came-from-cineplex-huntsman-winters.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden einschlägigen eigenen Filmbericht im Suchindex gelesen: Sara als Expertin schießt absichtlich auf das Medaillon und täuscht Erics Tod vor. Direkter Abruf 429; keine vollständige Blogseitenlektüre behauptet."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.fan-lexikon.de/film-tv/news/chris-hemsworth-bin-soeben-in-deutschland-angekommen-205560",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen kurzen zeitgenössischen Bericht vom 30. März 2016 gelesen: Hemsworth beschreibt sein Hamburger Fanscreening vom Vorabend. Mit erster Premierenzeile des Filmdatensatzes abgeglichen, nicht bloß ein Fototermin als Vorführung gezählt."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2017.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige Zeile der Tabelle Top 20 UK films at the USA and Canada box office einschließlich Tabellenüberschrift und Erläuterung im Suchindex gelesen: Film UK/USA. Nicht das gesamte Jahrbuch als gelesen ausgegeben."
+        },
+        {
+          "key": "ffa",
+          "url": "https://www.ffa.de/files/dokumentenverwaltung/filmhitlisten%20%28bearbeitet%20HS%29/2016/04_Filmhitliste-Monat-April2016.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige Filmzeile im Suchindex gelesen: deutscher Verleihtitel, Fantasy/Märchen, USA und deutscher Kinostart 7. April 2016; Länderabweichung zum BFI dokumentiert."
+        },
+        {
+          "key": "avforums",
+          "url": "https://www.avforums.com/articles/interview-with-the-huntsman-winter-s-war-director-cedric-nicolas-troyan.12854/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigentliches Steve-Withers-Interview gelesen: Vor-/Fortsetzung als geschlossener Anfang und späterer Handlungssprung, frühere Second Unit, praktische Effekte, bewusst leichtere Tonlage mit Willow/Legend als Vergleich und anschließende HDR-Erfahrung. Künftige Projektankündigung nicht als tatsächlich entstandener Film behandelt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-031-L1",
+      "year_question_id": "G150-20261103-FANTASY-031-Y",
+      "director_question_id": "G150-20261103-FANTASY-031-D"
+    },
+    {
+      "id": "FANTASY-032",
+      "film_title_de": "Elliot, der Drache",
+      "film_title_original": "Pete's Dragon",
+      "film_year": 2016,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Disney-Neuerzählung eines bekannten Stoffes mit Robert Redford und Bryce Dallas Howard; zurückhaltende Wald- und Familiengeschichte neben dem großen Effektwesen.",
+      "directors": [
+        "David Lowery"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2016. Bereits am 31. Juli fanden öffentliche beziehungsweise mit Fans besuchte Vorführungen in London (UK Gala, Ham Yard Hotel) und Austin (AFS-Benefizvorführung, Paramount Theatre) statt. Disneys später als world premiere beworbenes Hollywood-Ereignis am 8. August ist deshalb nicht als früheste Filmvorführung bezeichnet. Regulärer US-Start 12. August.",
+      "director_note": "David Lowery als alleiniger Regisseur gemäß Disney, daneben Drehbuch mit Toby Halbrooks. Dieser wird durch den Schreibcredit nicht zum Mitregisseur.",
+      "country_note": "FSK-Kinobescheinigung führt USA. Neuseeland war Dreh- und Effektstandort, daraus kein zusätzliches Produktionsland abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständige Neuerzählung des Films von 1977, keine Fortsetzung und keine veröffentlichte nummerierte Filmfolge. Lowery erklärt ausdrücklich neue Figuren und eine neue Geschichte bei erhaltenem Grundgedanken.",
+      "series_sources": [
+        "https://d23.com/9-questions-with-the-director-of-petes-dragon/",
+        "https://movies.disney.com/petes-dragon-2016"
+      ],
+      "sources": [
+        {
+          "key": "disney",
+          "url": "https://movies.disney.com/petes-dragon-2016",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Synopsis und Credits im ausführlichen Suchindex gelesen: Grace als Rangerin, Pete, Redfords Holzschnitzer, Besetzung und Lowery-Regie, regulärer US-Start. Halbrooks-Schreibweise in Kurzcredits fehlerhaft, korrekt aus Fließtext/Interview übernommen."
+        },
+        {
+          "key": "d23",
+          "url": "https://d23.com/9-questions-with-the-director-of-petes-dragon/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige Interviewabschnitte zum Original von 1977, neuem Figurenkreis, zeitlich vager Welt und Entwicklung vom Drehbuchauftrag zur Regie gelesen. Keine punktgenaue Handlungsdatierung 1977/1983 aus sekundären Vermutungen übernommen."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/petes-dragon-2016",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Matt-Zoller-Seitz-Kritik einschließlich Credits im ausführlichen Suchindex gelesen: Unfall, Kinderbuch Elliott Gets Lost, wölfische Bedrohung, Fürsorge und Naturton. Abweichende Zeitabstandsangabe und einzelne Besetzungsschreibweisen nicht kopiert."
+        },
+        {
+          "key": "austin",
+          "url": "https://www.lightscameraaustin.net/david-lowery-august-2016.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Programmeinleitung des Robert-Sims-Interviews gelesen: Elternunfall, Gavin als profitorientierter Fänger, Charakterbesetzung und AFS-Vorführung am 31. Juli im Paramount. Eingebettetes Audio nicht als angehört behauptet."
+        },
+        {
+          "key": "geekdad",
+          "url": "https://geekdad.com/2016/11/petes-dragon-david-lowery/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige Frage und Lowery-Antwort zur Drachengestaltung gelesen: kleines verlorenes Kind soll sich sofort sicher fühlen, Fell und übergroßer Kopf. Übrige Interviewfragen nicht als vollständig gelesen ausgegeben."
+        },
+        {
+          "key": "handwerk",
+          "url": "https://www.mandatory.com/culture/1018365-interview-david-lowery-cats-petes-dragon",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen zusammenhängenden Interviewabschnitt über Bildtextur, wechselndes Waldlicht und bewusst belassenen Kamerablick gelesen: Lowery wollte den handgemachten Eindruck bewahren. Nicht als versehentlich übersehener Anschlussfehler dargestellt."
+        },
+        {
+          "key": "filmmaker",
+          "url": "https://filmmakermagazine.com/99192-in-dark-trees/",
+          "accessed_on": "2026-11-03",
+          "supports": "Einleitung sowie vollständige Fragen/Antworten zu Fell, Lisa Churgins Schnitt, Bazellis Naturlicht und visueller Vorbereitung gelesen. Zusammenarbeit beider Cutter nachvollzogen; Lowery als Regisseur, Churgin offizieller Schnittcredit. Nicht alle übrigen Interviewteile als vollständig gelesen behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Pete%27s_Dragon_(2016_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen Handlungsabschnitt bis zur Rückkehr des Kindes in die Familie sowie Credits gelesen: Bücherbenennung, Betäubungspfeile und Sägewerkslager. Exakte Handlungsjahre nicht übernommen, da Lowery die Zeit bewusst offen lässt."
+        },
+        {
+          "key": "london",
+          "url": "https://www.shutterstock.com/editorial/image-editorial/jessica-jane-stafford-lee-their-kid-5810203a",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einschlägige originale Bildagentur-Beschriftung gelesen: Filmvorführung London, 31. Juli 2016, Datum der Aufnahme und Begleitung mit Kind. Kein bloßer späterer Kinostart."
+        },
+        {
+          "key": "fruehsichtung",
+          "url": "https://legacy.aintitcool.com/node/75869",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen zeitgenössischen ersten Berichtsabschnitt im Suchindex gelesen: Verfasser berichtet am 31. Juli 2016 von eigener Filmsichtung bei der lokalen Premiere mit seinen Neffen und anschließendem Gespräch mit Lowery/Halbrooks. Kein kompletter Interviewdurchgang behauptet."
+        },
+        {
+          "key": "hollywood",
+          "url": "https://d23.com/d23-event-recaps/d23-members-adventure-to-the-petes-dragon-premiere/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen D23-Ereignisbericht gelesen: als Weltpremiere beworbene Vorführung am 8. August im El Capitan mit D23-Mitgliedern. Die bereits vorher belegten Juli-Vorführungen werden in der Erstveröffentlichungsnotiz abgegrenzt."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.spio-fsk.de/asp/fskkarte.asp?pvid=566136",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige relevante FSK-Kinobescheinigung im Suchindex gelesen: deutscher Titel Elliot, der Drache, Originaltitel Pete's Dragon, USA, 2016. Prüfdatum nicht als Premiere ausgegeben."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-032-L1",
+      "year_question_id": "G150-20261103-FANTASY-032-Y",
+      "director_question_id": "G150-20261103-FANTASY-032-D"
+    },
+    {
+      "id": "FANTASY-033",
+      "film_title_de": "Das Haus der geheimnisvollen Uhren",
+      "film_title_original": "The House with a Clock in Its Walls",
+      "film_year": 2018,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekannteres Ensemble um Jack Black und Cate Blanchett, aber weniger allgegenwärtige eigenständige Jugendfantasy als die großen Filmreihen.",
+      "directors": [
+        "Eli Roth"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2018. Londoner Weltpremiere am 5. September in Westfield White City durch originale WireImage-Bildbeschriftung und zeitgenössische Berichte belegt. Die von Universal für den 16. September angekündigte Hollywood-Vorführung ist später; regulärer US-Start 21. September.",
+      "director_note": "Eli Roth als alleiniger Hauptregisseur gemäß Universal und australischer staatlicher Klassifikation. Eric Kripke ist Drehbuchautor und Mitproduzent, Steven Spielbergs Einfluss auf Amblin/Design kein zusätzlicher Regiecredit.",
+      "country_note": "Original-Kinoklassifikation des Australian Classification Board nennt USA, Amblin Entertainment/Mythology Entertainment und Eli Roth ausdrücklich.",
+      "series": null,
+      "series_note": "Verfilmung des Auftaktromans einer Buchreihe; die geprüften Film- und Verleihquellen belegen keine veröffentlichte nummerierte Filmfortsetzung. Roths Wunsch nach weiteren Filmen ist keine erschienene Filmreihe.",
+      "series_sources": [
+        "https://www.universalpictures.com/movies/the-house-with-a-clock-in-its-walls",
+        "https://www.denofgeek.com/movies/eli-roth-interview-we-had-the-potter-police-on-set/"
+      ],
+      "sources": [
+        {
+          "key": "universal",
+          "url": "https://www.universalpictures.com/movies/the-house-with-a-clock-in-its-walls",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige offizielle Synopsis und Credits im ausführlichen Suchindex gelesen: Waisenjunge beim Onkel, versehentliche Totenweckung, Besetzung, Eli Roth, Eric Kripke und Bellairs-Buch. Eingebettete Videos nicht als angesehen behauptet."
+        },
+        {
+          "key": "credits",
+          "url": "https://www.motionpictures.org/2018/09/the-house-with-a-clock-in-its-walls-production-designer/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Susannah-Edelbaum-Interviewtext mit Jon Hutman einschließlich Einleitung und aller Designfragen gelesen: Hexennachbarin, kindlicher Blick, warme Holzfarben, Raumfarben, Set-/Originalortmischung und Verwandlung des Hauses in ein Zuhause. Filmhandlung von Produktionsort sauber getrennt."
+        },
+        {
+          "key": "roth",
+          "url": "https://www.denofgeek.com/movies/eli-roth-interview-we-had-the-potter-police-on-set/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigentlichen Caroline-Preece-Interviewtext gelesen: Familienhorror, reale Verluste und Florences Holocaust-Hintergrund, Kontrast Vorwärtsleben/alles zurückdrehen, Einfluss Gilliam/Burton, Kürbismasse statt Blut. Künftiger Fortsetzungswunsch nicht als veröffentlichter weiterer Teil gezählt."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/the-house-with-a-clock-in-its-walls-2018",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Simon-Abrams-Kritik im ausführlichen Suchindex gelesen: Verwandtschaft, Lernen von Magie, Tarbys wechselhaftes Interesse und Lewis' Wunsch, ihn zu beeindrucken, plus Cast/Credits. Kritische Wertungen nicht in objektive Lösungen umgeschrieben."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_House_with_a_Clock_in_Its_Walls_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungsabschnitt und Hauptbesetzung gelesen: Totenbeschwörung auf dem Friedhof, Isaac, Uhr zum Zurückdrehen der Menschheitsgeschichte und Selens Verkleidung. Buch- und Filmhandlung nicht gleichgesetzt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=229133",
+          "accessed_on": "2026-11-03",
+          "supports": "Gezielt vollständige zusammenhängende Dialogfolgen zur Enthüllung der falschen Mrs. Hanchett sowie Isaacs Erklärung des Zeitplans gelesen. Unoffizielle Transkription ohne Filmabbildungen; entscheidende Gestalten-/Besetzungsunterscheidung zusätzlich mit Filmcast und Handlungsquelle abgeglichen."
+        },
+        {
+          "key": "fremdegestalt",
+          "url": "https://www.imdb.com/es/title/tt2119543/plotsummary/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen einschlägigen zusammenhängenden Nutzer-Handlungsabschnitt im Suchindex gelesen: Selena in Mrs. Hanchetts Gestalt, wirkliche Nachbarin getötet, Traumgestalt der Mutter. Direktseite 403; nicht als vollständige direkte Film- oder Seitenlektüre ausgegeben."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.gettyimages.be/detail/nieuwsfoto%27s/samira-mighty-attends-the-world-premiere-of-the-house-nieuwsfotos/1027365980",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige relevante originale WireImage-Bildbeschriftung und Aufnahmedaten im Suchindex gelesen: Weltpremiere Westfield White City London, 5. September 2018; kein bloßes Uploadjahr."
+        },
+        {
+          "key": "usvorfuehrung",
+          "url": "https://www.prnewswire.com/news-releases/universal-pictures-and-amblin-entertainment-present-the-premiere-of-the-house-with-a-clock-in-its-walls-300709981.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Universal-eigene Pressemitteilung gelesen: Hollywoodpremiere 16. September 2018 mit Screeningbeginn 11 Uhr, Darsteller/Regie und regulärer Start 21. September. Nicht als früheste Weltvorführung ausgegeben."
+        },
+        {
+          "key": "klassifikation",
+          "url": "https://www.classification.gov.au/titles/house-clock-its-walls",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Original-Kinodatensatz im Suchindex gelesen: USA, Eli Roth, 2018, Amblin/Mythology und Fantasygewalt. Klassifikation im Juli keine öffentliche Premiere."
+        },
+        {
+          "key": "buch",
+          "url": "https://www.lesejury.de/media/samples/937/9783453271937_leseprobe.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Nur vollständige einschlägige Titelei-/Impressumszeilen der autorisierten Verlagsleseprobe im Suchindex gelesen: John Bellairs Copyright 1973, deutsche Übersetzung 1977, Filmneuausgabe 2018. Erstpublikation 1973 zusätzlich durch Hutmans Filmtext-Einleitung und Bibliografie abgeglichen; keine vollständige Romanlektüre behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-033-L1",
+      "year_question_id": "G150-20261103-FANTASY-033-Y",
+      "director_question_id": "G150-20261103-FANTASY-033-D"
     }
   ],
   "series_updates": [
