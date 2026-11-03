@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 197 Filmfassungen mit 1576 Fragen lokal integriert. 304 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 202 Filmfassungen mit 1616 Fragen lokal integriert. 299 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -4135,29 +4135,31 @@
     },
     {
       "candidate_id": "C-002",
-      "film_title_de": "Am Dead River",
+      "film_title_de": "The Gundown",
       "film_title_original": "The Gundown",
       "film_year": 2011,
       "genre": "Western",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Fremder hilft einer von einer Bande bedrohten Grenzstadt; kleiner moderner B-Western.",
+      "selection_reason": "Der Film erneuert das klassische Motiv einer von Erpressung beherrschten Stadt. Zwei konkurrierende Saloons verkörpern unterschiedliche Regeln des Zusammenlebens.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-046"
     },
     {
       "candidate_id": "C-003",
-      "film_title_de": "Der Platz des Bösen",
+      "film_title_de": "6 Guns",
       "film_title_original": "6 Guns",
       "film_year": 2010,
       "genre": "Western",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Rachegeschichte einer Überlebenden und eines Revolverhelden im historischen Westen.",
+      "selection_reason": "Die Rachegeschichte verfolgt den Weg einer Überlebenden zum bewaffneten Handeln. Ein Kopfgeldjäger ist Lehrmeister, während der Überfall selbst bereits durch eine frühere Rache motiviert war.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-047"
     },
     {
       "candidate_id": "C-004",
@@ -4167,10 +4169,11 @@
       "genre": "Western",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Frauengruppe trägt die Rachehandlung; afroamerikanischer Western abseits des üblichen Bestands.",
+      "selection_reason": "Eine frühere Frauenbande kommt für einen Rachezug wieder zusammen. Der Film besetzt klassische Revolverheldenmotive mit afroamerikanischen und asiatisch-amerikanischen Darstellerinnen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-048"
     },
     {
       "candidate_id": "C-005",
@@ -4180,10 +4183,11 @@
       "genre": "Western",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Übernatürlicher Rachewestern: ein ermordeter Outlaw kehrt in die Grenzstadt zurück.",
+      "selection_reason": "Der Western verbindet Bandenverrat und Goldraub mit einem buchstäblichen Teufelspakt. Der zurückkehrende Rächer muss dabei nach Regeln handeln, die seine Vergeltung weiter verstricken.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-049"
     },
     {
       "candidate_id": "C-006",
@@ -4207,10 +4211,11 @@
       "genre": "Western",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Suchtrupp und indigene Gemeinschaft stehen im Mittelpunkt eines unabhängig produzierten Westerns.",
+      "selection_reason": "Ein angeblicher Rettungstrupp missbraucht Vertrauen für einen Goldraub. Die Perspektive einer Ärztin und die ausdrücklich erfundene indigene Gemeinschaft erweitern das Motiv der habgierigen Expedition.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-050"
     },
     {
       "candidate_id": "C-008",

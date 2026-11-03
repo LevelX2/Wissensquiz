@@ -2620,3 +2620,8 @@ Sechs Horrorfilme mit 48 neuen globalen Zielen integriert; Horror109. Vollständ
 #### Fortsetzung 03.11.2026 – Action W31
 
 Sechs Actionfilme mit 48 neuen globalen Zielen integriert; Action109. Vollständige zentrale und unabhängige Gegenlesung. Zwei Ablenkergruppen und Cast-Erstnennungen verbessert; Tango-&-Cash-Credits gegenüber weiteren tatsächlichen Dreharbeiten präzisiert. Raw-Deal-Koproduktion und Tier-/Wasseraufnahmen der beiden Filme1994/1996 durch gelesene Primärberichte bestätigt. Alle 1.576 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 70 Pakete / 16.871 Fragen / 16.183 Ziele; 304 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – Western W32: 150 Filme erreicht
+
+Fünf Western mit 40 neuen globalen Zielen integriert; Western 150. Vollständige zentrale und unabhängige Gegenlesung. The-Gundown-/6-Guns-Titel eindeutig, Yellow-Rock-Festival 2011 samt Prämierung und fiktiver Black-Paw-Gemeinschaft belegt. Zwei Jahresvertiefungen und der parallele Kameraaufbau nachgeschärft; Gang-of-Roses-/Dead-in-Tombstone-Folgen jeweils Teil 1. Alle 1.616 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 71 Pakete / 16.911 Fragen / 16.223 Ziele; 299 Genreergänzungen offen. Western-Ziel erfüllt, Ausbau der übrigen Genres läuft weiter.
