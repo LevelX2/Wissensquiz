@@ -1042,6 +1042,19 @@
         "MARTIALARTS-049",
         "MARTIALARTS-050"
       ]
+    },
+    {
+      "wave": "W81",
+      "filename": "Genres150_20261103_W81.csv",
+      "path": "/genres150-20261103-w81-fragen.csv",
+      "films": [
+        "MARTIALARTS-022",
+        "MARTIALARTS-023",
+        "MARTIALARTS-024",
+        "MARTIALARTS-025",
+        "MARTIALARTS-026",
+        "MARTIALARTS-027"
+      ]
     }
   ],
   "series_updates": [
@@ -1101,8 +1114,20 @@
         "note": "Erster Film1967 der ausdrücklich als Trilogie geführten Shaw-Reihe, gefolgt von Return1969 und dem Neuanfang mit LeiLi1971. Andere Einarm-Neudeutungen nicht angehängt."
       },
       "sources": [
-        "https://www.arrowvideochannel.com/shawscope-volume-three-1",
+        "https://www.arrowvideo.com/p/blu-ray/shawscope-vol.-3-limited-edition-blu-ray/15408075/",
         "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2020-4-1-11.html"
+      ]
+    },
+    {
+      "film": "Xin du bi dao|1971",
+      "series": {
+        "name": "One-Armed Swordsman",
+        "position": 3,
+        "note": "Dritter veröffentlichter Film des von Arrow ausdrücklich als Trilogie bezeichneten Shaw-Zyklus: 1967, 1969, 1971. Neue Figur Lei Li mit David Chiang, keine Fortsetzung der Biografie Fang Gangs."
+      },
+      "sources": [
+        "https://www.arrowvideo.com/p/blu-ray/shawscope-vol.-3-limited-edition-blu-ray/15408075/",
+        "https://international.ucla.edu/institute/event/3830"
       ]
     }
   ]

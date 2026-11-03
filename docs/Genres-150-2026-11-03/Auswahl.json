@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 482 Filmfassungen mit 3856 Fragen lokal integriert. 19 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 488 Filmfassungen mit 3904 Fragen lokal integriert. 13 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -6185,10 +6185,13 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine Fortführung des Liang-Shan-Stoffs schildert einen Feldzug und seine Verluste.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Führt die Gemeinschaft aus The Water Margin in einen staatlich beauftragten Feldzug und zeigt den hohen persönlichen Preis gemeinsamen Erfolgs.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-022"
     },
     {
       "candidate_id": "C-118",
@@ -6198,10 +6201,13 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Kriegerbrüder und Eifersucht innerhalb eines militärischen Familienverbands tragen das historische Wuxiaepos.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Das militärische Familienensemble trägt eine Tragödie über Bevorzugung, Loyalität und Neid; große Gefechte und private Schutzentscheidungen stehen im selben Handlungszusammenhang.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-023"
     },
     {
       "candidate_id": "C-119",
@@ -6211,23 +6217,29 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Der einarmige Schwertkämpfer wird gegen konkurrierende Meister erneut aus seinem Rückzug geholt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Erweitert den Konflikt des einarmigen Schwertkämpfers um Widersprüche der vermeintlich guten Kampfkunstgemeinschaft: Hilfsgesuche werden zu Erpressung, ein Ehrentitel steht vielen Toten gegenüber.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-024"
     },
     {
       "candidate_id": "C-120",
-      "film_title_de": "Der einarmige Boxer",
+      "film_title_de": "Eine Faust wie ein Hammer",
       "film_title_original": "Du bi quan wang",
       "film_year": 1972,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein überlebender Schüler erlernt nach dem Verlust eines Arms eine veränderte Kampftechnik.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verbindet die Wiederaneignung körperlicher Fähigkeiten mit einem eskalierenden Schulkonflikt und einer bewusst übersteigerten Begegnung verschiedener Kampfstile.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-025"
     },
     {
       "candidate_id": "C-121",
@@ -6237,23 +6249,29 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Der einarmige Boxer trifft auf einen blinden Meister und dessen fliegende Guillotine.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Begegnung zwischen einem sehenden einarmigen Meister und einem blinden Verfolger macht Beobachtung, Geräusch, Reichweite und vorbereitete Räume zu eigenständigen Kampfmitteln.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-026"
     },
     {
       "candidate_id": "C-122",
-      "film_title_de": "Der Todestempel der Shaolin",
+      "film_title_de": "Der Todesstab des Shaolin",
       "film_title_original": "Wu lang ba gua gun",
       "film_year": 1984,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Überlebender einer militärischen Niederlage entwickelt im Kloster die namensgebende Stabtechnik.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verknüpft Familientrauer, widersprüchliche Pflichten und buddhistische Gewaltbegrenzung mit einer besonders ausgearbeiteten Dramaturgie der Waffen und Trainingsgegenstände.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-027"
     },
     {
       "candidate_id": "C-123",
