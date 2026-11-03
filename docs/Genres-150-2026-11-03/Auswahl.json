@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 468 Filmfassungen mit 3744 Fragen lokal integriert. 33 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 472 Filmfassungen mit 3776 Fragen lokal integriert. 29 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -2165,38 +2165,46 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein zurückgezogen lebender Mann wird von Verrat und früheren Bindungen eingeholt.",
+      "selection_reason": "Erinnerungsbericht, falsche Anschuldigungen und mehrfache Täuschungspläne machen einen versuchten Neuanfang zum tödlichen Ermittlungsfall.",
       "categories": [
+        "Classics",
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-047"
     },
     {
       "candidate_id": "A-148",
-      "film_title_de": "Laura",
-      "film_title_original": "Laura",
-      "film_year": 1944,
+      "film_title_de": "Gewagtes Alibi",
+      "film_title_original": "Criss Cross",
+      "film_year": 1949,
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Ermittler entwickelt über das Bild einer vermeintlich Ermordeten eine gefährliche Projektion.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Ein Geldtransportfahrer bietet einen Raubplan an, um eine entdeckte Affäre zu verdecken. Seine Verstrickung reicht bis in das vermeintlich sichere Krankenhaus.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-048"
     },
     {
       "candidate_id": "A-149",
-      "film_title_de": "Wenn der Postmann zweimal klingelt",
+      "film_title_de": "Im Netz der Leidenschaften",
       "film_title_original": "The Postman Always Rings Twice",
       "film_year": 1946,
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Begehren, Mordplan und gegenseitiges Misstrauen bilden einen zentralen Noir-Stoff.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Mordversuche, gegenseitiges Misstrauen und die nachträgliche Erpressbarkeit der Liebenden verbinden erotische Abhängigkeit mit einem juristischen Thriller.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-049"
     },
     {
       "candidate_id": "A-150",
@@ -2206,10 +2214,13 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Detektiv gerät zwischen mehrere Beteiligte, die denselben Gegenstand suchen.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Ein falscher Auftrag, der Tod des Partners und eine Gruppe konkurrierender Schatzsucher machen aus der Ermittlung ein Geflecht tödlicher Täuschungen.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-050"
     },
     {
       "candidate_id": "B-001",

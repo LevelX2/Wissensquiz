@@ -13182,8 +13182,15 @@
       "sources": []
     },
     "The Maltese Falcon|1941": {
-      "series": null,
-      "sources": []
+      "series": {
+        "name": "Der Malteser Falke",
+        "position": 1,
+        "note": "The Black Bird1975 setzt den Fall parodistisch mit Sam SpadeJr als Sohn fort; Effie und Wilmer werden durch Lee Patrick und Elisha CookJr erneut gespielt. Frühere Romanadaptionen1931/1936 gehören nicht in diese Fortsetzungszählung."
+      },
+      "sources": [
+        "https://catalog.afi.com/Film/55513-THE-BLACK-BIRD",
+        "https://catalog.afi.com/Film/27025-THE-MALTESEFALCON"
+      ]
     },
     "The Man from Earth|2007": {
       "series": {
@@ -18779,6 +18786,24 @@
       "sources": [
         "https://www.filmin.es/pelicula/todos-los-hombres-son-hermanos",
         "https://www.filmarchive.gov.hk/documents/6.-Research-and-Publication/06-02-Filmmakers-Search/English/Wu-Ma_e.pdf"
+      ]
+    },
+    "Out of the Past|1947": {
+      "series": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Out_of_the_Past"
+      ]
+    },
+    "Criss Cross|1949": {
+      "series": null,
+      "sources": [
+        "https://www.tcm.com/articles/noir/24088/criss-cross-1949"
+      ]
+    },
+    "The Postman Always Rings Twice|1946": {
+      "series": null,
+      "sources": [
+        "https://www.muenchner-stadtmuseum.de/sammlungen/filmmuseum/aktueller-spielplan/details/drei-verfilmungen-eines-romans-von-james-m-cainthe-postman-always-rings-twice-im-netz-der-leidenschaften-46143"
       ]
     }
   }

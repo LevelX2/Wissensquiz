@@ -1,0 +1,244 @@
+{
+  "id": "THRILLER-047",
+  "film_title_de": "Goldenes Gift",
+  "film_title_original": "Out of the Past",
+  "film_year": 1947,
+  "genre": "Thriller",
+  "categories": [
+    "Classics",
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Redaktionelle Einschätzung: zentraler Film noir, dessen komplexe Vorgeschichte eher dem klassischen Filmpublikum vertraut ist.",
+  "selection_reason": "Erinnerungsbericht, falsche Anschuldigungen und mehrfache Täuschungspläne machen einen versuchten Neuanfang zum tödlichen Ermittlungsfall.",
+  "category_reason": "Autorenkino-Zuordnung wegen der verschachtelten zeitlichen Erzählung und der moralischen Ambivalenz: Brad Stevens analysiert bei Sight and Sound den Gegensatz der beiden Frauenbilder und die über persönliche Schicksalsbehauptungen hinausgehende gesellschaftliche Ordnung. Dies ist eine redaktionelle Kategorieentscheidung, keine Festivalbehauptung.",
+  "directors": [
+    "Jacques Tourneur"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1947 durch AFI und BFI bestätigt. AFI nennt 13. November als Veröffentlichung, 25. November als Copyright; Wikipedia führt den späteren Novembertag als Start. Kein abweichendes Erstjahr.",
+  "director_note": "Jacques Tourneur alleiniger Hauptregisseur laut vollständigem AFI-Regieblock; Harry Mancke/Earl Harper Assistenz, Lynn Shores Second Unit. Frühere Planung mit Edward Dmytryk ist keine Co-Regie des fertigen Films.",
+  "country_note": "USA laut vollständigen AFI-Details und BFI-Werksatz. Mexikanischer Handlungsort begründet keine zusätzliche Koproduktion.",
+  "series": null,
+  "series_note": "Eigenständiger Film; Against All Odds von 1984 ist eine Neuverfilmung mit anders benannten Figuren, keine fortlaufende Filmhandlung.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Out_of_the_Past"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/25288-OUT-OF-THE-PAST",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliche vollständige Synopsis einschließlich Schluss, Cast, gesamter Haupt-/Assistenz-/Second-Unit-Regieblock und Details gelesen; History bis Umbesetzung gelesen. 1947 USA, Roman 1946, Acapulco, Bankbuchbeweis und Rollen. Zwei kurze Ziele M2/Y; keine pauschale Alleinableitung des Pakets."
+    },
+    "bfiwerk": {
+      "url": "https://www.bfi.org.uk/film/e41020a5-6a3f-5d9e-b95a-22e63a358ed1/out-of-the-past",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächlichen vollständigen institutionellen Werkhauptsatz gelesen: 1947 USA, Jacques Tourneur, Geoffrey Homes, Besetzung."
+    },
+    "feaster": {
+      "url": "https://www.tcm.com/articles/noir/24106/out-of-the-past-1947",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächlichen vollständigen Felicia-Feaster-Essay gelesen: Mitchum/Jeff, Tankstelle und Ann, lange Fahrt-Rückblende, Kathie/Whit und Darstellerkontrast. Nur Besetzungs- und Acapulco-Kontext daraus abgeleitet; unbestätigte Cain-Mitarbeit und fehlerhafte Body-Snatchers-Jahreszahl nicht übernommen."
+    },
+    "stevens": {
+      "url": "https://www.bfi.org.uk/sight-and-sound/features/home-weak-out-past-four-ways-framing-film-noir",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächlichen gesamten Brad-Stevens-Essay gelesen: vier konkurrierende Noir-Deutungen, Kathie/Ann-Gegensatz, Geld/Sprachmacht und Schlussfigur Kid. Nur Regievertiefung und begründete Kategorienentscheidung daraus abgeleitet; Interpretation als solche kenntlich."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Out_of_the_Past",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliche gesamte Handlung, Cast und Adaptationsabschnitt gelesen: Angelrettung gegen Stefanos, bewusst falsche Antwort an Ann und Remake 1984. Zwei Schlussziele; AFI-Novemberdatum statt einfacher Gleichsetzung mit Copyright."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Robert Mitchum spielt Jeff Bailey alias Markham.",
+      "question": "Wer spielt Jeff Bailey, dessen früheres Leben ihn in „Goldenes Gift“ wieder einholt?",
+      "answers": [
+        "Robert Mitchum",
+        "Burt Lancaster",
+        "Dana Andrews",
+        "John Garfield"
+      ],
+      "short": "Robert Mitchum spielt Jeff Bailey.",
+      "context": "Jeff Bailey (Robert Mitchum) versucht, unter einem anderen Namen neu anzufangen. Die Begegnung mit einem früheren Bekannten führt ihn zurück zu Whit Sterling (Kirk Douglas). Seine ruhige Erscheinung schützt ihn dabei nicht vor dem Wissen der anderen. Der Film entfaltet die Spannung zwischen dem Mann, der er heute sein möchte, und den Bindungen, die sein früheres Handeln geschaffen hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "feaster"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Jeff betreibt in seinem neuen Leben eine Tankstelle.",
+      "question": "Womit verdient Jeff (Robert Mitchum) zu Beginn von „Goldenes Gift“ seinen Lebensunterhalt?",
+      "answers": [
+        "Mit einer Tankstelle",
+        "Mit einem kleinen Hotel",
+        "Mit einer Autovermietung",
+        "Mit einem Fischereibetrieb"
+      ],
+      "short": "Er betreibt eine Tankstelle in Bridgeport.",
+      "context": "Die Tankstelle gehört zu Jeff Baileys (Robert Mitchum) scheinbar überschaubarem Alltag. Seine Beziehung zu Ann Miller (Virginia Huston) verspricht eine Zukunft außerhalb der früheren Detektivarbeit. Als Joe Stefanos (Paul Valentine) auftaucht, wird dieser neue Lebensbereich durchlässig. Der Besucher findet Jeff gerade an dem Ort, der seine Entfernung vom früheren Milieu sichtbar machen sollte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "stevens"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Jeff findet Kathie im mexikanischen Acapulco.",
+      "question": "In welchem Ort findet Jeff (Robert Mitchum) die gesuchte Kathie (Jane Greer) in „Goldenes Gift“?",
+      "answers": [
+        "Acapulco",
+        "Havanna",
+        "New Orleans",
+        "Lissabon"
+      ],
+      "short": "Er findet sie in Acapulco.",
+      "context": "Whit Sterling (Kirk Douglas) schickt Jeff (Robert Mitchum) aus, um Kathie Moffat (Jane Greer) zurückzubringen. Bei der Begegnung in Mexiko verliebt sich der Ermittler jedoch selbst in die Gesuchte. Als sein Auftraggeber nach dem Stand der Suche fragt, leugnet Jeff den Erfolg. Die berufliche Suche ist damit bereits in einen persönlichen Verrat umgeschlagen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "feaster"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ein Bankbuch widerlegt Kathies Leugnung des Geldraubs.",
+      "question": "Welcher Fund bestätigt Jeff (Robert Mitchum) in „Goldenes Gift“, dass Kathie (Jane Greer) das Geld doch gestohlen hat?",
+      "answers": [
+        "Ein Bankbuch mit der entsprechenden Einzahlung",
+        "Ein handschriftlicher Schuldschein ihres Auftraggebers",
+        "Eine Quittung über den Verkauf ihrer Schmuckstücke",
+        "Ein Koffer mit nummerierten Lösegeldscheinen"
+      ],
+      "short": "Das zurückgelassene Bankbuch weist die 40.000 Dollar aus.",
+      "context": "Kathie Moffat (Jane Greer) behauptet zunächst, Whit Sterling (Kirk Douglas) zwar angeschossen, aber nicht bestohlen zu haben. Nach Jack Fishers (Steve Brodie) Tod verschwindet sie und lässt Jeff (Robert Mitchum) mit der Leiche zurück. Der Geldnachweis zerstört nun auch ihre frühere Selbstdarstellung. Jeff erkennt, dass sein Vertrauen auf einer bereits überprüfbaren Lüge beruhte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Kid bringt Stefanos mit seiner Angelschnur zum tödlichen Sturz.",
+      "question": "Wie verhindert der Kid (Dickie Moore) in „Goldenes Gift“, dass Stefanos (Paul Valentine) Jeff erschießt?",
+      "answers": [
+        "Er bringt ihn mit seiner Angelschnur zum Absturz.",
+        "Er stößt einen Felsblock auf dessen Versteck.",
+        "Er lockt ihn mit einem Lichtsignal vor die Polizei.",
+        "Er schießt ihm vom gegenüberliegenden Ufer in den Arm."
+      ],
+      "short": "Seine Angelschnur zieht Stefanos über die Felskante.",
+      "context": "Joe Stefanos (Paul Valentine) folgt dem Kid (Dickie Moore), um Jeffs (Robert Mitchum) Versteck aufzuspüren. Der junge Helfer bemerkt die Gefahr rechtzeitig. Sein Angelgerät wird zum Mittel der Gegenwehr gegen den bewaffneten Verfolger. Die Rettung kommt damit von einer Figur, die außerhalb der wortreichen Verhandlungen und Täuschungsabsprachen der übrigen Beteiligten steht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Kid bestätigt Ann wider besseres Wissen eine geplante gemeinsame Flucht Jeffs mit Kathie.",
+      "question": "Welche Auskunft gibt der Kid (Dickie Moore) Ann (Virginia Huston) am Ende von „Goldenes Gift“ über Jeffs Entscheidung?",
+      "answers": [
+        "Jeff habe mit Kathie fortgehen wollen.",
+        "Jeff habe Kathie der Polizei ausliefern wollen.",
+        "Jeff habe an der Tankstelle auf Ann warten wollen.",
+        "Jeff habe sich zwischen den beiden Frauen noch nicht entschieden."
+      ],
+      "short": "Er lässt Ann glauben, Jeff habe sich für Kathie entschieden.",
+      "context": "Ann Miller (Virginia Huston) will wissen, ob Jeff (Robert Mitchum) mit Kathie (Jane Greer) fortgehen wollte. Der Kid (Dickie Moore) nickt, obwohl Jeff die gemeinsame Flucht selbst der Polizei ausgeliefert hatte. Seine Antwort erleichtert Ann den Abschied von Jeff. Die Aufklärung endet deshalb mit einer weiteren Unwahrheit, die diesmal eine Zurückbleibende aus ihrer Bindung lösen kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Out of the Past wurde erstmals 1947 veröffentlicht.",
+      "question": "In welchem Jahr erschien „Goldenes Gift“ mit Robert Mitchum und Jane Greer erstmals?",
+      "answers": [
+        "1947",
+        "1939",
+        "1955",
+        "1963"
+      ],
+      "short": "Der Film erschien 1947.",
+      "context": "Geoffrey Homes veröffentlichte „Build My Gallows High“ 1946; 1947 kam die Verfilmung heraus. Hinter dem Autorennamen steht Daniel Mainwaring, der auch den Drehbuchcredit erhielt. Zwischen Roman und Film liegt somit nur ein Jahr. Die Verfilmung behält das Problem des eingeholten Neuanfangs bei: Der angenommene Name schützt den ehemaligen Detektiv nicht vor seiner Vergangenheit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Jacques Tourneur führte alleinige Hauptregie.",
+      "question": "Wer führte bei „Goldenes Gift“ mit Robert Mitchum, Jane Greer und Kirk Douglas Regie?",
+      "answers": [
+        "Jacques Tourneur",
+        "Robert Siodmak",
+        "Fritz Lang",
+        "Otto Preminger"
+      ],
+      "short": "Jacques Tourneur inszenierte den Film.",
+      "context": "Jacques Tourneur stellt Jeffs (Robert Mitchum) Verbindungen zu Ann (Virginia Huston) und Kathie (Jane Greer) einander gegenüber. Brad Stevens beschreibt diese Ordnung als Gegensatz idealisierter Frauenbilder, geht in seiner Deutung aber darüber hinaus: Auch Besitzansprüche, Geld und sprachliche Macht treiben die Katastrophe an. Die Figuren geraten somit nicht allein durch eine abstrakte Schicksalsmacht in ihre Lage.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "stevens",
+        "bfiwerk"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}
