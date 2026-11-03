@@ -1,0 +1,263 @@
+{
+  "id": "ABENTEUER-025",
+  "film_title_de": "Weißer Jäger, schwarzes Herz",
+  "film_title_original": "White Hunter, Black Heart",
+  "film_year": 1990,
+  "genre": "Abenteuer",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Clint Eastwood ist sehr bekannt, dieser selbstkritische Film über einen Regisseur und dessen Jagdbesessenheit gehört aber nicht zu seinen allgemein präsenten Titeln.",
+  "selection_reason": "Das Abenteuer in Afrika wird zum Autorenfilm über künstlerische Selbstherrlichkeit, moralische Widersprüche und die Verantwortung des Filmregisseurs. Die Cannes-Wettbewerbsteilnahme und die Reflexion des Filmemachens tragen die Arthouse-Zuordnung.",
+  "directors": [
+    "Clint Eastwood"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Öffentliche Vorführung im Wettbewerb von Cannes 1990 vor dem US-Kinostart am 14. September desselben Jahres. Das Erstveröffentlichungsjahr bleibt 1990.",
+  "director_note": "Clint Eastwood ist der alleinige Hauptregisseur; Simon Trevor verantwortete die zweite Einheit mit Tieraufnahmen, kein gleichrangiger Regiecredit.",
+  "country_note": "USA laut AFI und Cannes. Afrikanische und britische Drehorte sowie örtliche Filmteams sind keine zusätzlichen Produktionsländer.",
+  "series": null,
+  "series_note": "Eigenständige Verfilmung von Peter Viertels Roman; keine Fortsetzung von African Queen und keine nummerierte Filmfolge.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/MovieDetails/67285",
+    "https://www.festival-cannes.com/f/white-hunter-black-heart/"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/MovieDetails/67285",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Figurencredits, Regie und zweite Einheit, Land, US-Start, Roman 1953, Huston/Viertel als Vorbilder und erfundener Tod Kivus."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/f/white-hunter-black-heart/",
+      "accessed_on": "2026-11-03",
+      "supports": "Wettbewerb 1990, USA, Regie, Autoren, Besetzung und Handlung als Charakterporträt nach Viertels Erfahrungen mit Huston."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/features/white-hunter-black-heart-clint-eastwood",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener Brogan-Morris-Essay: Viertel/Huston als fiktionalisierte Vorbilder, Verrill als Drehbuchbearbeiter, Elefantenobsession, Wilsons Machogesten und Kampf nach Demütigung eines schwarzen Kellners; Eastwoods bewusste Abweichung von seiner Heldenfigur."
+    },
+    "hicks": {
+      "url": "https://www.deseret.com/1990/10/16/20088963/film-review-white-hunter-black-heart/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene zeitgenössische Chris-Hicks-Kritik: Schriftstellerauftrag, Finanzierungs-/Drehkonflikt und Safari, antisemitische Frau beim Gespräch und misshandelter schwarzer Hotelangestellter."
+    },
+    "ebert": {
+      "url": "https://www.rogerebert.com/reviews/white-hunter-black-heart-1990",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindextext der zeitgenössischen Ebert-Kritik: Viertels Roman und Huston-Erfahrung, Wilson als Elefantenjäger statt Filmemacher, Eastwood als Regisseur/Hauptdarsteller, Autoren und Hauptcredits."
+    },
+    "handlung2": {
+      "url": "https://en.wikipedia.org/wiki/White_Hunter_Black_Heart",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener ausführlicher Suchindex-Handlungsabschnitt: Elefant/Jungtier, Kivus Tod beim Rettungsversuch, Trommelnachricht im Dorf, Wilsons Einlenken gerade beim Filmende und leises Action. Diese beiden Schlussziele werden zusätzlich zum AFI-Text gegengeprüft."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Clint Eastwood spielt den eigenwilligen Filmregisseur John Wilson.",
+      "question": "Wer spielt in „Weißer Jäger, schwarzes Herz“ den Filmregisseur John Wilson, der eine Produktion in Afrika immer wieder seiner Jagdleidenschaft unterordnet?",
+      "answers": [
+        "Clint Eastwood",
+        "Gene Hackman",
+        "Robert Duvall",
+        "James Coburn"
+      ],
+      "short": "Clint Eastwood spielt John Wilson.",
+      "context": "John Wilson (Clint Eastwood) holt den Schriftsteller Pete Verrill (Jeff Fahey) nach Afrika, damit dieser das Drehbuch seines neuen Films überarbeitet. Obwohl Geldgeber und Team auf den Beginn der Dreharbeiten warten, verfolgt Wilson zunehmend sein persönliches Jagdziel. Verrill bewundert die künstlerische Kraft seines Freundes, gerät aber wegen dessen Rücksichtslosigkeit immer stärker mit ihm aneinander.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cannes",
+        "bfi",
+        "hicks"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Wilson will unbedingt einen großen Elefanten erlegen.",
+      "question": "Welches Tier möchte John Wilson (Clint Eastwood) in „Weißer Jäger, schwarzes Herz“ unbedingt selbst erlegen?",
+      "answers": [
+        "Einen Elefanten",
+        "Einen Löwen",
+        "Ein Nashorn",
+        "Einen Leoparden"
+      ],
+      "short": "Wilson ist darauf fixiert, einen großen Elefanten zu töten.",
+      "context": "John Wilson (Clint Eastwood) verschiebt die Jagd zunächst auf die Zeit nach der Drehbucharbeit, dann zieht er sie vor den Drehbeginn. Warnungen, Terminprobleme und die Gefährdung anderer halten ihn nicht davon ab. Pete Verrill (Jeff Fahey) verurteilt die geplante Tötung. Wilson nennt sie selbst eine Sünde und macht deutlich, dass es ihm gerade nicht nur um ein erlaubtes Jagdvergnügen geht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cannes",
+        "bfi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Wilson bricht mit Mrs. MacGregor wegen ihrer antisemitischen Äußerungen.",
+      "question": "Wodurch endet Wilsons (Clint Eastwood) Annäherung an Mrs. MacGregor (Mel Martin) in „Weißer Jäger, schwarzes Herz“?",
+      "answers": [
+        "Er weist ihre antisemitischen Äußerungen entschieden zurück.",
+        "Er entdeckt, dass sie heimlich für seinen Produzenten arbeitet.",
+        "Er erfährt, dass sie einem anderen Regisseur sein Drehbuch verkauft.",
+        "Er wirft ihr vor, seine Jagdausrüstung gestohlen zu haben."
+      ],
+      "short": "Mrs. MacGregors Antisemitismus stößt Wilson ab.",
+      "context": "Beim Abendessen versucht John Wilson (Clint Eastwood) zunächst, Mrs. MacGregor (Mel Martin) zu verführen. Als sie ihre Abneigung gegen Juden äußert und nicht glauben will, dass Pete Verrill (Jeff Fahey) Jude ist, reagiert Wilson empört. Später legt er sich auch mit einem Hotelmanager an, der einen schwarzen Kellner misshandelt. Seine klare Ablehnung von Vorurteilen steht neben der Rücksichtslosigkeit seines eigenen Handelns.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "hicks"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Kivu stirbt, als er Wilson vor einem angreifenden Elefanten schützt.",
+      "question": "Wie kommt Kivu (Boy Mathias Chuma) gegen Ende von „Weißer Jäger, schwarzes Herz“ ums Leben?",
+      "answers": [
+        "Ein Elefant tötet ihn, als er Wilson aus der Angriffslinie stößt.",
+        "Wilson trifft ihn versehentlich mit einem Schuss aus dem Jagdgewehr.",
+        "Er ertrinkt bei Wilsons Probefahrt mit dem beschädigten Dampfboot.",
+        "Ein Jäger erschießt ihn, als er die Jagd zu verhindern versucht."
+      ],
+      "short": "Kivu wird beim Versuch, Wilson zu schützen, vom Elefanten getötet.",
+      "context": "John Wilson (Clint Eastwood) steht dem Elefanten gegenüber und bringt den Schuss schließlich nicht über sich. Als ein Jungtier näher kommt, greift das große Tier erneut an. Kivu (Boy Mathias Chuma) stößt Wilson zur Seite, gerät selbst vor den Elefanten und wird auf dessen Stoßzahn aufgespießt. Wilson muss mit ansehen, dass ein anderer Mensch für seine Besessenheit stirbt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung2"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "John Wilson ist eine fiktionalisierte Darstellung des Regisseurs John Huston.",
+      "question": "Welcher reale Regisseur stand Pate für John Wilson (Clint Eastwood) in „Weißer Jäger, schwarzes Herz“?",
+      "answers": [
+        "John Huston",
+        "John Ford",
+        "William Wyler",
+        "Howard Hawks"
+      ],
+      "short": "Die Figur geht auf John Huston zurück.",
+      "context": "Peter Viertel verarbeitete seine Erfahrungen bei den afrikanischen Dreharbeiten zu „African Queen“ in einem Roman mit veränderten Namen. John Huston wurde darin zu John Wilson, Viertel selbst zum Schriftsteller Pete Verrill (im Film Jeff Fahey). Die Jagdbesessenheit hat einen realen Hintergrund, doch Kivus tödliche Rettungstat gehört zur Fiktion. Der Film ist deshalb kein wörtlicher Bericht über Hustons Dreharbeiten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cannes",
+        "bfi",
+        "ebert"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Nach Kivus Tod kehrt Wilson an den Drehort zurück und gibt schließlich leise das Kommando Action.",
+      "question": "Wie endet „Weißer Jäger, schwarzes Herz“ für John Wilson (Clint Eastwood) unmittelbar nach der tödlichen Jagd?",
+      "answers": [
+        "Er setzt sich in den Regiestuhl und gibt nach einer Pause das Drehkommando.",
+        "Er überträgt die Regie endgültig an seinen Drehbuchautor.",
+        "Er verlässt das Camp allein und bricht die Produktion ab.",
+        "Er kehrt mit dem Gewehr zur Elefantenherde zurück."
+      ],
+      "short": "Wilson kehrt zur Regie zurück und sagt schließlich „Action“.",
+      "context": "Im Dorf erfährt John Wilson (Clint Eastwood), dass die Trommeln die Nachricht von Kivus Tod weitergeben. Ogilvy (Conrad Asquith), einer der Jagdbegleiter, erklärt ihm die Worte, die zugleich den Filmtitel bilden. Wilson gibt Pete Verrill (Jeff Fahey) hinsichtlich des Filmendes recht und sinkt in seinen Regiestuhl. Als die Kamera bereitsteht, lässt er einen langen Moment verstreichen, bevor er leise das Startsignal für die Aufnahme gibt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung2"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Weißer Jäger, schwarzes Herz wurde 1990 erstmals veröffentlicht.",
+      "question": "Aus welchem Jahr stammt „Weißer Jäger, schwarzes Herz“?",
+      "answers": [
+        "1990",
+        "1984",
+        "1987",
+        "1994"
+      ],
+      "short": "Der Film erschien 1990.",
+      "context": "Peter Viertels Roman lag 1953 vor; die Verfilmung kam 37 Jahre später heraus. 1990 wurde sie zunächst im Wettbewerb von Cannes gezeigt, bevor sie im September in den USA anlief. Der lange Abstand gehört zur Entstehungsgeschichte: Viertel arbeitete nicht nur als Vorlagenautor, sondern gemeinsam mit James Bridges und Burt Kennedy auch am Drehbuch des späteren Films mit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cannes",
+        "ebert"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Clint Eastwood führte allein Regie bei Weißer Jäger, schwarzes Herz.",
+      "question": "Wer führte bei „Weißer Jäger, schwarzes Herz“ Regie?",
+      "answers": [
+        "Clint Eastwood",
+        "John Huston",
+        "Burt Kennedy",
+        "Sydney Pollack"
+      ],
+      "short": "Clint Eastwood führte Regie und spielte die Hauptrolle.",
+      "context": "Clint Eastwood übernahm Regie, Produktion und die Rolle des Regisseurs John Wilson. Er blickt damit als Filmemacher auf einen anderen Filmemacher, dessen künstlerischer Eigensinn in Selbstherrlichkeit umschlägt. Für die Tieraufnahmen arbeitete eine zweite Einheit unter Simon Trevor. Die Musik schrieb Lennie Niehaus, während Jack N. Green die Hauptkamera verantwortete; das Werk lief im Wettbewerb von Cannes.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cannes",
+        "bfi",
+        "ebert"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
