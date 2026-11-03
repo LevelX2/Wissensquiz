@@ -24561,6 +24561,391 @@
       "reference_question_id": "G150-20261103-THRILLER-010-L1",
       "year_question_id": "G150-20261103-THRILLER-010-Y",
       "director_question_id": "G150-20261103-THRILLER-010-D"
+    },
+    {
+      "id": "FANTASY-046",
+      "film_title_de": "Die Nibelungen: Kriemhilds Rache",
+      "film_title_original": "Die Nibelungen. 2. Kriemhilds Rache",
+      "film_year": 1967,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Zweite Hälfte einer älteren populären deutschen Sagenverfilmung; weniger eigenständig bekannt als der vorausgehende Siegfried-Film.",
+      "directors": [
+        "Harald Reinl"
+      ],
+      "production_countries": [
+        "BR Deutschland",
+        "Jugoslawien"
+      ],
+      "release_note": "Erstjahr 1967, Uraufführung 16. Februar im Mathäser Filmpalast München gemäß Filmportal. Produktionsangabe 1966/1967 bezeichnet die gemeinsame Herstellung mit dem Vorgänger, nicht eine Publikumsveröffentlichung dieses Teils 1966. Original 90 Minuten, spätere Prüffassung 88 Minuten; 1976 gekürzte Zusammenfassung beider Hälften nicht als Erstfassung behandelt.",
+      "director_note": "Harald Reinl alleinige Hauptregie; Zweitstab Lothar Gündisch/Cisli Alfredsson gemäß Filmportal gesondert. Keine Beteiligten des Zweitstabs als falsche Antwort verwendet.",
+      "country_note": "Filmportal und Originalkatalog CCC nennen CCC Filmkunst mit Avala Film Belgrad; Filmdienst weist BR Deutschland/Jugoslawien aus. Historische Produktionsländer beibehalten.",
+      "series": {
+        "name": "Die Nibelungen (Harald Reinl)",
+        "position": 2,
+        "note": "Direkte zweite Kinofilmhälfte nach Siegfried von Xanten (1966), vom unabhängigen Lang-Zyklus von 1924 getrennt."
+      },
+      "series_note": "Führt denselben Reihennamen wie FANTASY-045. Die gemeinsame Herstellung macht aus den getrennt uraufgeführten Kinofilmen nicht einen einzigen Film mit zwei beliebigen Kapiteln.",
+      "series_sources": [
+        "https://www.filmportal.de/film/die-nibelungen-2-kriemhilds-rache_13039209dcdb444cb9e9bcbc328c9562",
+        "https://cccfilm.de/filme/filme-ccc_226-227.pdf"
+      ],
+      "sources": [
+        {
+          "key": "filmportal",
+          "url": "https://www.filmportal.de/film/die-nibelungen-2-kriemhilds-rache_13039209dcdb444cb9e9bcbc328c9562",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis, Haupt-/Zweitstab-, Darsteller- und Produktionscredits sowie Original-/Prüffassungsangaben gelesen: Uraufführung 16. Februar 1967. Pauschale Synopsisbehauptung kein Burgunder überlebt nicht für das konkrete Endbild übernommen; ausführlicher Handlungsnachweis unterscheidet Volker/Hildegunt."
+        },
+        {
+          "key": "ccc",
+          "url": "https://cccfilm.de/filme/filme-ccc_226-227.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige einseitige originale Produktionskatalogseite gelesen: Etzel-Heirat nach Tod des ersten Kindes, Einladung, Kriemhilds Tötung Hagens und anschließender Selbstmord, 1966/1967, Reinl, Brauner, Avala und 90 Minuten. Verkürzte Sammelaussage zu allen Burgundern nicht als genauer Überlebendennachweis verwendet."
+        },
+        {
+          "key": "prinzler",
+          "url": "https://www.hhprinzler.de/2016/07/die-nibelungen-varianten-der-verfilmung/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen durchgehenden Reinl-Abschnitt des eigenen Vortrags gelesen: Tod von Siegfrieds Sohn auf der Heimreise, Hagen tötet Alberich/versenkt Schatz im Rhein, Etzel-Heirat und Taufe, Volker als Erzählstimme sowie Unterschiede zum ersten Teil und den anderen Verfilmungen."
+        },
+        {
+          "key": "filmhandlung",
+          "url": "https://de.wikipedia.org/wiki/Die_Nibelungen_(1966)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungsabschnitt und Cast des Zweiteilers gelesen; konkrete zweite Hälfte: Taufeinladung, Tod beider Kinder in verschiedenen Handlungsphasen, Endkampf, Kriemhilds Tod und als letzte Überlebende des Burgundertrosses Hildegund/der geblendete Volker. Keine Figur aus der Lang-Fassung übernommen."
+        },
+        {
+          "key": "spencerhill",
+          "url": "https://spencerhilldb.de/film.php?film=126",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen zusammenhängenden Handlungs-/Rollenabschnitt im Suchindex gelesen: zunächst geplanter Kindesraub mit tödlichem Ausgang, Etzel kennt anfänglich die Racheabsicht nicht, Taufe als Anlass und Giselher/Hildegunt. Sprachabhängige Synchronlisten nicht für Originalstimmen verwendet."
+        },
+        {
+          "key": "hartung",
+          "url": "https://christophhartung.de/index.php?page=harald-reinl-die-nibelungen-kriemhilds-rache-rolf-henniger",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden konkreten Filmkritikabschnitt im Suchindex gelesen: zunächst verständigungsbereiter Etzel, bereits bewaffnete Burgunder beim Fest, Kriemhilds geheime Fäden zum Blutbad. Direkter Seitenabruf Timeout; nicht als vollständiger Direktabruf ausgegeben."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/33007/die-nibelungen-1-teil-siegfried-von-xanten2-teil-kriemhilds-rache",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen kurzen Metadaten-/Kritiktext im Suchindex gelesen: historische Produktionsländer, Reinl, Termine 13. Dezember 1966/16. Februar 1967 und späterer Zusammenschnitt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-046-L1",
+      "year_question_id": "G150-20261103-FANTASY-046-Y",
+      "director_question_id": "G150-20261103-FANTASY-046-D"
+    },
+    {
+      "id": "FANTASY-047",
+      "film_title_de": "Ronja Räubertochter",
+      "film_title_original": "Ronja Rövardotter",
+      "film_year": 1984,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Sehr vertrauter Kinderfilm im deutschsprachigen und skandinavischen Raum, auch durch Astrid Lindgrens Buch über Generationen bekannt.",
+      "directors": [
+        "Tage Danielsson"
+      ],
+      "production_countries": [
+        "Schweden",
+        "Norwegen"
+      ],
+      "release_note": "Erstjahr 1984, schwedische Premiere 14. Dezember gemäß vollständig gelesener SFI-Filmhandreichung und Rechteinhaberseite. Spätere deutsche Auswertung und Berliner Festivaljahr 1985 nicht als Erstjahr übernommen. 126-minütiger Kinofilm, nicht die spätere episodische Fernsehaufteilung oder neue Serienadaptionen.",
+      "director_note": "Tage Danielsson alleinige Hauptregie gemäß SFI; Astrid Lindgren schrieb das Drehbuch selbst. Olle Hellbom war in der Vorbereitungsphase vorgesehen, starb jedoch vor der eigentlichen Umsetzung; kein gemeinsamer Regiecredit daraus abgeleitet.",
+      "country_note": "Offizielle SFI-Handreichung nennt Sverige, Norge 1984 ausdrücklich. Deutsche FBW-Seite nennt verkürzt BRD und deutsche Partner; diese Bezeichnung nicht zur alleinigen Filmnationalität gemacht. Führender skandinavischer institutioneller Datensatz hier Schweden/Norwegen.",
+      "series": null,
+      "series_note": "Eigenständige Buchadaption ohne nummerierte Kinofortsetzung. Spätere Fernsehaufteilung desselben Materials und neue animierte beziehungsweise real gefilmte Serien sind keine weiteren Kinofilmteile.",
+      "series_sources": [
+        "https://www.filminstitutet.se/globalassets/2.-fa-kunskap-om-film/filmpedagogik/filmhandledningar/filmhandledningar-pdfer/ronja-rovardotter.pdf",
+        "https://www.astridlindgren.com/se/ronja-rovardotter-910025"
+      ],
+      "sources": [
+        {
+          "key": "sfihandreichung",
+          "url": "https://www.filminstitutet.se/globalassets/2.-fa-kunskap-om-film/filmpedagogik/filmhandledningar/filmhandledningar-pdfer/ronja-rovardotter.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige sechsseitige Originalhandreichung von Nina Nykvist/SFI 2020 gelesen: durchgehende Handlung, Freundschaft, Geiselnahme, Waldleben, Verweigerung der Räuberlaufbahn und Credits. Seite 6 ausdrücklich Schweden/Norwegen, 14. Dezember 1984, Cast und Roman 1981. Eingebettete Clipverweise nicht als angesehene Filmszenen ausgegeben."
+        },
+        {
+          "key": "sfiliste",
+          "url": "https://www.filminstitutet.se/sv/fa-kunskap-om-film/filmpedagogik/filmlistan/ronja-rovardotter/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen kurzen SFI-Kurationstext im Suchindex gelesen: Lindgren schrieb Drehbuch selbst, Film drei Jahre nach Roman, Danielssons Vergleich mit Romeo und Julia vor der Pubertät, Naturbilder, Björn Isfält und Lena Nyman."
+        },
+        {
+          "key": "lindgren",
+          "url": "https://www.astridlindgren.com/se/ronja-rovardotter-910025",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen schwedischen Rechteinhabertext gelesen: Handlung, Produktionsvorbereitung/Hellbom/Danielsson, Birk-Darsteller auf Spielplatz entdeckt, Rumpelnissen durch vierfach übergroße Requisiten verkleinert, Graugnomen als Kinder mit Taschenlampen und Erstpremiere 1984."
+        },
+        {
+          "key": "fbw",
+          "url": "https://www.fbw-filmbewertung.com/film/ronja_die_raeubertochter",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis, Credits und eigene Jurybegründung gelesen: Blitz spaltet Burg bei Geburt, Birk als Sohn Borkas, Ronja wechselt bei Geiselnahme auf Gegenseite und wird verstoßen, Waldsommer und Versöhnung; Land-/Startverkürzungen anhand SFI getrennt."
+        },
+        {
+          "key": "buff",
+          "url": "https://www.buff.se/filmer/ronja-rovardotter/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen kurzen eigenen Festivaltext im Suchindex gelesen: Birk als Sohn von Mattis' Erzfeind Borka, heimliche Freundschaft, Cast-/Jahreinordnung der Fassung 1984."
+        },
+        {
+          "key": "dreisat",
+          "url": "https://www.3sat.de/film/spielfilm/ronja-die-raeubertochter-110.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Sendertext und Cast gelesen: Hanna Zetterberg, Dan Håfström, Börje Ahlstedt, Lena Nyman, Per Oscarsson, Allan Edwall; Regie Danielsson, Schweden 1984. Webseiten-Ausspieltag 2026 nicht als Filmjahr behandelt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-047-L1",
+      "year_question_id": "G150-20261103-FANTASY-047-Y",
+      "director_question_id": "G150-20261103-FANTASY-047-D"
+    },
+    {
+      "id": "FANTASY-048",
+      "film_title_de": "Erik der Wikinger",
+      "film_title_original": "Erik the Viking",
+      "film_year": 1989,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Bekanntere britische Fantasykomödie im Umfeld von Monty Python, heute vor allem dem entsprechenden Komödienpublikum vertraut.",
+      "directors": [
+        "Terry Jones"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Schweden"
+      ],
+      "release_note": "Erstjahr 1989, institutionell durch BFI und Gent-Programm bestätigt. IMDb-Releaseeintrag nennt Edinburgh International Film Festival bereits im August 1989, vor schwedischem Kinostart 1. September und britischem Start 29. September. Deshalb Schweden nicht pauschal als erste öffentliche Vorführung ausgegeben. Ursprünglicher langer Kinofilm, spätere 89-Minuten-Video- und 75-Minuten-Director's-Son's-Cut-Fassung nicht zur Erstfassung gemacht.",
+      "director_note": "Terry Jones alleinige Regie und Drehbuch, nicht Terry Gilliam und kein vollständiges Monty-Python-Regieteam. Jones spielt zusätzlich König Arnulf.",
+      "country_note": "BFI und Film Fest Gent nennen Großbritannien/Schweden. Norwegen und Malta sind Drehorte, dadurch allein keine zusätzlichen Produktionsländer.",
+      "series": null,
+      "series_note": "Eigenständiger Film; Jones' eigenes Kinderbuch ist ein lose verwandter Ausgangspunkt mit anderer Handlung. Gemeinsame Python-Mitglieder oder ein anderer früherer Film namens Erik the Viking begründen keine nummerierte Fortsetzung.",
+      "series_sources": [
+        "https://www.bfi.org.uk/film/98caa650-6646-5b64-9918-b1b88eb8ecd9/erik-the-viking",
+        "https://en.wikipedia.org/wiki/Erik_the_Viking"
+      ],
+      "sources": [
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/98caa650-6646-5b64-9918-b1b88eb8ecd9/erik-the-viking",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen kurzen BFI-Eintrag im Suchindex gelesen: 1989, Großbritannien/Schweden, Regie/Drehbuch Terry Jones und Produktion John Goldstone."
+        },
+        {
+          "key": "anthology",
+          "url": "https://www.anthologyfilmarchives.org/uploads/press_pdf/AFA%20Oct-Dec%20Press%20Listings.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Erik-the-Viking-Programmeintrag auf PDF-Seite 11 gelesen, nicht das gesamte 54-seitige Programm: 1989, 107 Minuten und Martha Drivers eigener kuratorischer Text über friedensorientierten Helden, Rückkehr der Sonne, Halfdan und Kinderbuch für Jones' Sohn Bill."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/erik-the-viking-1989",
+          "accessed_on": "2026-11-03",
+          "supports": "Roger Eberts vollständige eigene zeitgenössische Filmkritik und Credits im Suchindex gelesen; Direktabruf 403. Besetzung Cleese/Halfdan, Jones/Arnulf, Robbins/Erik, Innes-Musik und Figurenanlage; ablehnendes Werturteil nicht als Sachbehauptung verwendet."
+        },
+        {
+          "key": "filmhandlung",
+          "url": "https://en.wikipedia.org/wiki/Erik_the_Viking",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Handlung/Besetzung sowie Fassungsabschnitt gelesen: Snorri-Blut und Untergang Hy-Brasils, Haralds fehlende Wahrnehmung nordischer Götter, Hornfolgen, Cast und spätere Schnittfassungen. Unterschied zwischen Kinderbuch 1983 und Filmhandlung bewusst beachtet."
+        },
+        {
+          "key": "filmdialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=erik-the-viking",
+          "accessed_on": "2026-11-03",
+          "supports": "Zusammenhängenden umfangreichen Filmtranskripttext im Suchindex tatsächlich gelesen, insbesondere vollständige Freya-Hornerklärung, Loki/Keitel-Waffenhandel, Auds Umhang, Arnulfs Untergangsverleugnung und Valhalla-Dialog mit Harald. Drei Hornnoten und ausdrücklich fehlender Glaube als Wahrnehmungsregel geprüft; nicht als aktuelle Filmsichtung ausgegeben."
+        },
+        {
+          "key": "gent",
+          "url": "https://www.filmfestival.be/en/film/erik-the-viking",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Programmeintrag im Suchindex gelesen: eigene Credits mit Neil Innes als Originalkomponist, 1989 und Großbritannien/Schweden. Synopsis ist ausdrücklich aus Variety übernommen, daher nicht als unabhängige zweite Originalkritik behandelt."
+        },
+        {
+          "key": "moria",
+          "url": "https://moriareviews.com/fantasy/erik-the-viking-1989.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige eigene Filmkritik gelesen: komisch unmusikalische Bewohner Hy-Brasils, Umhangszene, Musikcredit Neil Innes. Datumsdruckfehler 9183 sowie vereinfachte Angaben zu anderen Filmen ignoriert; Namensschreibung Antony Sher anderweitig geprüft."
+        },
+        {
+          "key": "jonesinterview",
+          "url": "https://www.combustiblecelluloid.com/interviews/terryjones.shtml",
+          "accessed_on": "2026-11-03",
+          "supports": "Jeffrey M. Andersons vollständigen eigenen Interviewbericht gelesen: Jones als Kinderbuchautor, The Saga of Erik the Viking für seinen Sohn und daraus entstandener Film, mittelalterliche Interessen. Ausführliche Aussagen zu Holy Grail nicht unbelegt auf die Erik-Produktion übertragen."
+        },
+        {
+          "key": "releasedaten",
+          "url": "https://www.imdb.com/title/tt0097289/releaseinfo/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen angezeigten Releaseabschnitt im Suchindex gelesen: Edinburgh August 1989, Schweden 1. September, USA 22. September, Großbritannien 29. September. Festivalmonat als Datenbankbeleg kenntlich gehalten."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-048-L1",
+      "year_question_id": "G150-20261103-FANTASY-048-Y",
+      "director_question_id": "G150-20261103-FANTASY-048-D"
+    },
+    {
+      "id": "FANTASY-049",
+      "film_title_de": "Der Wacholderbaum",
+      "film_title_original": "The Juniper Tree",
+      "film_year": 1990,
+      "subdomain": "Fantasy",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Außerhalb des Kunstfilm- und Björk-Publikums wenig bekannte unabhängige Märchenverfilmung, erst durch Restaurierungen breiter wiederentdeckt.",
+      "directors": [
+        "Nietzchka Keene"
+      ],
+      "production_countries": [
+        "Island"
+      ],
+      "release_note": "Erstjahr 1990 gemäß Arbelos, AFI und Leeds. Cinemateca Portuguesa nennt ausdrücklich Weltpremiere 10. April 1990 in Los Angeles. Sundance-Jahresangaben widersprechen einander: Arbelos nennt 1991, einzelne Archiv- und Museumstexte 1990; daher kein ungesichert behauptetes Sundance-Erstdatum. BFI-Player 1991 nicht als früheste öffentliche Veröffentlichung übernommen. 1986 gedreht; Restaurierung 2018 und erneute Auswertung 2019 sind keine Erstveröffentlichungen.",
+      "director_note": "Nietzchka Keene alleinige Regie, Drehbuch und Montage. Ihr Forschungsaufenthalt in Island und die Zusammenarbeit mit Randolph Sellars gehören zur Entstehung, nicht zu einem geteilten Regiecredit.",
+      "country_note": "AFI-Fest und Leeds nennen ausdrücklich Island; US-amerikanische Herkunft der Regisseurin und spätere US-Restaurierungsförderung nicht ohne Produktionsnachweis als zusätzliche Filmnationalität gewertet. Englischsprachiger Film mit isländischer Besetzung und isländischen Drehorten.",
+      "series": null,
+      "series_note": "Eigenständiger Langfilm nach einem Grimm-Märchen, keine nummerierte Filmreihe. Andere Grimm-Adaptionen und Björks spätere Filme bilden keine Fortsetzungsreihe.",
+      "series_sources": [
+        "https://arbelosfilms.com/films/the-juniper-tree/",
+        "https://fest.afi.com/2018/cinemas-legacy-2018/the-juniper-tree-einitred-2/"
+      ],
+      "sources": [
+        {
+          "key": "arbelos",
+          "url": "https://arbelosfilms.com/films/the-juniper-tree/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen aktuellen Verleiheintrag gelesen: Titel und 1990, Regie,78Minuten, Margit/Katla, Flucht nach Hexenverbrennung, Schwarzweiß und Restaurierung. Sundance 1991 ausdrücklich als widersprechende Festivalangabe dokumentiert, nicht zur globalen Erstaufführung erklärt."
+        },
+        {
+          "key": "cinemateca",
+          "url": "https://www.cinemateca.pt/CinematecaSite/media/Documentos/2022-12-29_THE-JUNIPER-TREE.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges zweiseitiges Originalprogramm und Luís Mendonças eigenen Essay gelesen: Credits mit vollständigen Darstellernamen, Englisch/Schwarzweiß,78Minuten, Weltpremiere10.April 1990 LosAngeles; Forschungsinteresse, Naturbilder und Margits Muttervisionen."
+        },
+        {
+          "key": "afi",
+          "url": "https://fest.afi.com/2018/cinemas-legacy-2018/the-juniper-tree-einitred-2/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten AFI-Fest-Programmeintrag im Suchindex gelesen: Island,1990,Englisch,78Minuten, Keene Regie/Drehbuch/Montage, Randolph Sellars und Cast. Festival 2018 ist Restaurierungspräsentation, nicht das Filmjahr."
+        },
+        {
+          "key": "bomb",
+          "url": "https://bombmagazine.org/articles/2019/04/04/witchcraft-and-waterfalls-nietzchka-keenes-the-juniper-tree/",
+          "accessed_on": "2026-11-03",
+          "supports": "Dana Reinoos' vollständige eigene Filmkritik gelesen: Katlas Zauber bindet Jóhann, Jónas lehnt sie ab, Margit sieht die stumme Mutter und empfängt deren Botschaften. Abweichende SchreibweiseKatia nicht gegen institutionelle Credits übernommen."
+        },
+        {
+          "key": "mubi",
+          "url": "https://mubi.com/de/notebook/posts/the-juniper-tree-the-newly-restored-debut-of-bjork",
+          "accessed_on": "2026-11-03",
+          "supports": "Allyson Johnsons vollständige eigene Notebook-Kritik gelesen: Katla/Jóhann/Jónas, Muttervision mit dunkler Öffnung im Brustkorb, Finger im Eintopf und Vogelmotiv; Dreh 1986 und verspätete Veröffentlichung. Keine damaligen pauschalen Aussagen über Björks vollständige Filmografie übernommen."
+        },
+        {
+          "key": "leeds",
+          "url": "https://www.leedsfilm.com/cms_files/MediaGalerij/Other/otherfiles0670_00.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Juniper-Tree-Programmeintrag auf Katalogseite156 im Suchindex gelesen, nicht den Gesamtkatalog:1990,Island,Englisch und Keenes direkt wiedergegebene Aussage über eine andere Welt, Schwarzweiß und die Texturen der isländischen Landschaft. PDF-Direktabruf wegen Größe gescheitert, vollständiger relevanter Eintrag im Index zugänglich."
+        },
+        {
+          "key": "wcftr",
+          "url": "https://wcftr.commarts.wisc.edu/index.php/2018/01/08/juniper-tree-1990-be-restored-thanks-grant-film-foundation/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Archivbericht im Suchindex gelesen: Keenes altisländische Forschung mit Jesse Byock, Fulbright 1985, Dreh 1986 und spätere Fertigstellung sowie Originalmaterial der Restaurierung. Widersprechendes Sundance 1990 nicht ungeprüft übernommen."
+        },
+        {
+          "key": "wels",
+          "url": "https://programmkinowels.at/film-detail/the-juniper-tree",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten eigenen deutschen Programmeintrag im Suchindex gelesen: DoppeltitelTheJuniperTree–DerWacholderbaum, Keene und feministische Grimm-Neuinterpretation. Nur für deutschen Titel und kuratorische Einordnung verwendet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-049-L1",
+      "year_question_id": "G150-20261103-FANTASY-049-Y",
+      "director_question_id": "G150-20261103-FANTASY-049-D"
+    },
+    {
+      "id": "FANTASY-050",
+      "film_title_de": "November",
+      "film_title_original": "November",
+      "film_year": 2017,
+      "subdomain": "Fantasy",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "International beachteter estnischer Autorenfilm, außerhalb von Festival-, Kunstfilm- und Folk-Horror-Publikum wenig vertraut.",
+      "directors": [
+        "Rainer Sarnet"
+      ],
+      "production_countries": [
+        "Estland",
+        "Niederlande",
+        "Polen"
+      ],
+      "release_note": "Erstjahr 2017 durch Originalpresseheft und Festivaldatensätze gesichert. Originalpresseheft nennt estnische Premiere4. Februar 2017, Wikipedia estnischen Start3. Februar; daher kein vermeintlich taggenauer Ersttermin in der Frage. Bereits17. Februar 2017 erschien die eigene zeitgenössische Sirp-Kritik. Tribeca bezeichnet das Presseheft als WorldPremiere, andere zeitgenössische Quellen präziser als internationale Premiere; öffentliche Tribeca-Termine ab24. April 2017 liegen jedenfalls nach estnischer Auswertung. US-Veröffentlichung 2018 nicht als Erstjahr übernommen.",
+      "director_note": "Rainer Sarnet alleiniger Autor und Regisseur nach Andrus Kivirähks Roman. Mart Taniel ist Kameramann, kein zusätzlicher Hauptregisseur.",
+      "country_note": "Das Originalpresseheft nennt Estland, Niederlande und Polen sowie die Koproduzenten Homeless Bob Production, PRPL und Opus Film. KVIFF bestätigt dieselben drei Länder.",
+      "series": null,
+      "series_note": "Eigenständiger Spielfilm nach dem Roman Rehepapp, keine nummerierte Filmreihe. Sarnets andere Literaturadaptionen bilden keine Fortsetzungsreihe.",
+      "series_sources": [
+        "https://www.kviff.com/en/programme/film/48/23451/presskit-1.pdf",
+        "https://www.kviff.com/en/programme/film/48/23451-november"
+      ],
+      "sources": [
+        {
+          "key": "presseheft",
+          "url": "https://www.kviff.com/en/programme/film/48/23451/presskit-1.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges zwölfseitiges Originalpresseheft gelesen:2017,115Minuten, drei Länder, vollständige Hauptcredits, Synopsis mit Liina/Hans/Baronstochter, Sarnets eigene Director'sNote zu Animismus und Pääsukes Bauernfotografien. Estnischer Premierenplan4. Februar und Tribeca-Termine von Presse/Public unterschieden; biografische Geburtsjahrpauschalen über Darsteller nicht übernommen."
+        },
+        {
+          "key": "kviff",
+          "url": "https://www.kviff.com/en/programme/film/48/23451-november",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen eigenen Programmeintrag samt Lenka Tyrpákovás Synopsis und Credits gelesen: Liinas Liebe, magische Metall-/Holzhelfer,2017,Estland/Niederlande/Polen und Sarnet alleinige Regie. BezeichnungWorldPremiereTribeca wegen dokumentierter estnischer Februar-Auswertung nicht als globaler Ersttermin übernommen."
+        },
+        {
+          "key": "calvert",
+          "url": "https://www.new-east-archive.org/articles/show/8117/estonian-gothic-dark-folkloric-rainer-sarnet-november-tribeca",
+          "accessed_on": "2026-11-03",
+          "supports": "Carmen Grays vollständigen eigenen Originalbericht und Sarnet-Interview gelesen: Dreieck Liina/Hans/Baroness, schlafwandelnde Baroness, Hosen-auf-Kopf-Trick gegen Pest und direkte Aussagen über persönliche Adaption, Liebe/Seele und Laiendarsteller. Keine Statistikbehauptungen ungeprüft übernommen."
+        },
+        {
+          "key": "nfs",
+          "url": "https://nofilmschool.com/2017/05/rainer-sarnet-november-estonia-mart-thalien-oscilloscope",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges eigenes Interview mit Rainer Sarnet und Mart Taniel gelesen: Infrarot macht grünes Laub weiß, Sommeraufnahme als Winterwirkung; lebensgroße Kratts aus realen Werkzeugen/Bauteilen durch Seile/Hebel bewegt, Halterungen später entfernt; weitere Kameraverfahren und Laiendarsteller. FehlerRea-Rest in Autorenintro durch primäre Credits korrigiert."
+        },
+        {
+          "key": "filmhandlung",
+          "url": "https://en.wikipedia.org/wiki/November_(2017_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Handlungs- und Besetzungsabschnitt gelesen: schwarze Johannisbeeren statt Vertragsblut, gescheiterte Wiederholung bei Hans, Schneemann-Kratt und Hauptrollen. Konkrete Teufelsszene von allgemeinem Volksbrauch getrennt; Jahres-/Länderangaben gegen Presseheft geprüft."
+        },
+        {
+          "key": "literaturmuseum",
+          "url": "https://www.er500.ee/node/55",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Eintrag des Estnischen Literaturmuseums gelesen: Andrus KivirähksRehepapp, Erscheinungsjahr 2000 und Verfilmung 2017. Aussagen über Romanfiguren nicht ungeprüft in Filmhandlung übertragen."
+        },
+        {
+          "key": "sirp",
+          "url": "https://www.sirp.ee/november-voi-rehepapp-kas-irooniline-grotesk-voi-armastusdraama/",
+          "accessed_on": "2026-11-03",
+          "supports": "Mihhail Trunins vollständige eigene Kritik vom17. Februar 2017 im Suchindex gelesen, einschließlich ausdrücklich verglichener Film-/Romanszenen: Film 2017 bereits vor Tribeca öffentlich rezipiert,2017/Länder/Credits und Verlagerung zur Liebesgeschichte. ERR-Nachdruck desselben Textes nicht als zweite unabhängige Quelle gezählt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-050-L1",
+      "year_question_id": "G150-20261103-FANTASY-050-Y",
+      "director_question_id": "G150-20261103-FANTASY-050-D"
     }
   ],
   "series_updates": [
