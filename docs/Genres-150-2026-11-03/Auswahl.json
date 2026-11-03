@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 388 Filmfassungen mit 3104 Fragen lokal integriert. 113 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 394 Filmfassungen mit 3152 Fragen lokal integriert. 107 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -1470,12 +1470,13 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein scheinbar kontinuierlicher Raum und ein verborgenes Verbrechen machen Form und Spannung greifbar.",
+      "selection_reason": "Das Publikum kennt Täter und Leichenversteck von Beginn an. Die Bedrohung entsteht aus dem gesellschaftlichen Spiel unmittelbar über dem Beweisstück und der allmählichen Aufdeckung durch einen mitverantwortlichen früheren Lehrer.",
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-024"
     },
     {
       "candidate_id": "A-102",
@@ -1792,12 +1793,13 @@
       "genre": "Thriller",
       "familiarity_level": 2,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Die Veröffentlichung von Konzernwissen setzt Informant und Redaktion unter Druck.",
+      "selection_reason": "Die Gefährdung eines Informanten und der Kampf um die Ausstrahlung seiner Aussagen verbinden persönliche Bedrohung mit wirtschaftlicher Macht. Der Film erweitert das Recherchethema um den Konflikt im eigenen Nachrichtenunternehmen.",
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-023"
     },
     {
       "candidate_id": "A-124",
@@ -1823,10 +1825,11 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Die Vorbereitung einer Verteidigung macht wechselnde Rekonstruktionen eines Mordfalls zum Spannungskern.",
+      "selection_reason": "Ein scheinbar unmöglicher Mord in einem verschlossenen Hotelzimmer wird durch widersprüchliche Erinnerungen und eine intensive Befragung rekonstruiert. Die Spannung entsteht aus der veränderlichen Glaubwürdigkeit der Figuren.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-025"
     },
     {
       "candidate_id": "A-126",
@@ -1836,10 +1839,11 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine verschwundene Leiche löst ein Verhör mit widersprüchlichen Erinnerungen aus.",
+      "selection_reason": "Eine nächtliche Untersuchung in der Gerichtsmedizin verbindet belastende Spuren, eine kontrollierende Ehe und eine persönlich motivierte Täuschung. Unterscheidet Vermutung einer Rückkehr von tatsächlicher Auflösung.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-026"
     },
     {
       "candidate_id": "A-127",
@@ -1849,10 +1853,11 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Eine rätselhafte Nachricht bringt einen scheinbar abgeschlossenen Mordfall wieder in Bewegung.",
+      "selection_reason": "Ein Arzt sucht nach einem Lebenszeichen seiner tot geglaubten Frau und wird selbst verfolgt. Digitale Spuren, sozial unterschiedliche Helfer und verdeckte Familienvergangenheit geben eigenständige Ziele.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-027"
     },
     {
       "candidate_id": "A-128",
@@ -1860,12 +1865,15 @@
       "film_title_original": "El secreto de sus ojos",
       "film_year": 2009,
       "genre": "Thriller",
-      "familiarity_level": 2,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein früherer Ermittler rekonstruiert einen alten Fall und dessen persönliche Folgen.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Kriminalermittlung, Liebesgeschichte und politisches Gedächtnis werden über wechselnde Zeitebenen und den schreibenden Protagonisten verbunden. Arthouse wegen eigenständiger Erinnerungsform, reflektierter Blickführung und Verbindung privater mit nationaler Vergangenheit; in Campanellas Primärstatement und Interview konkret erläutert.",
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-028"
     },
     {
       "candidate_id": "A-129",

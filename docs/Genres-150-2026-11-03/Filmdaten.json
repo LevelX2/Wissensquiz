@@ -27443,6 +27443,445 @@
       "reference_question_id": "G150-20261103-ROMCOM-009-L1",
       "year_question_id": "G150-20261103-ROMCOM-009-Y",
       "director_question_id": "G150-20261103-ROMCOM-009-D"
+    },
+    {
+      "id": "THRILLER-023",
+      "film_title_de": "Insider",
+      "film_title_original": "The Insider",
+      "film_year": 1999,
+      "subdomain": "Thriller",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: weithin bekannter Michael-Mann-Film mit Russell Crowe und Al Pacino; institutionelle Konflikte und genaue Publikationswege erfordern eingehendere Kenntnis.",
+      "directors": [
+        "Michael Mann"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1999 nach konkretem AFI-Katalog und zeitgenössischen Primärtexten. AFI nennt Los Angeles 5. November sowie New York in derselben Woche und bereits eine Variety-Besprechung Anfang Oktober. Exakter erster weltweiter Aufführungstag daraus nicht behauptet; kein früheres abweichendes Jahr in den gelesenen Werkdaten.",
+      "director_note": "Michael Mann alleinige Hauptregie, zugleich Koautor mit Eric Roth und Koproduzent mit Pieter Jan Brugge. Drei Cutter sind keine zusätzlichen Regisseure.",
+      "country_note": "United States ausdrücklich im konkreten AFI-Katalog. Auslandsszenen und Herkunft einzelner Darsteller nicht als zusätzliche Produktionsländer verwendet.",
+      "series": null,
+      "series_note": "Eigenständiger Film über den Wigand/Bergman-Fall. Heat und spätere Mann-Filme sind andere Handlungen, keine nummerierten Folgen.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/61189-THE-INSIDER",
+        "https://www.dga.org/events/2020/feb2020/eveningwithmichaelmann_121919"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/61189-THE-INSIDER",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen kompakten Werk-/Credit-/Detaildatensatz gelesen: USA, 1999/November-Eröffnungen, alleiniger Mann, Roth/Mann, Hauptcast und Brenner-Vorlage. AFI nennt deren Datum ausdrücklich unbestimmt; 1996 deshalb zusätzlich belegt, kein langer AFI-Plot behauptet."
+        },
+        {
+          "key": "dga",
+          "url": "https://www.dga.org/events/2020/feb2020/eveningwithmichaelmann_121919",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen DGA-Primärveranstaltungsbericht gelesen: Hauptrollen/Recherchekonflikt, 1999→2019-Jubiläum, Mann über psychologische Genauigkeit und besondere Originalnegativ-/Magnettonvorführung. Eingebettetes Gespräch nicht als angesehen behauptet."
+        },
+        {
+          "key": "mann",
+          "url": "https://www.salon.com/1999/11/04/mann_2/",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche ausführliche Primärinterview-/Essayabschnitte gelesen: Einstieg mit Figuren/CBS-Vertragsrisiko und Versicherungsdruck; Mann über fehlerhaften Wigand, Kontakte Bergman und Krise 1995; gesamter späterer Abschnitt über Wallace, Hotelgespräch/Subtext, Vernehmung am Scruggs-Haus und familiäre Folgen. Nicht als naturgetreue Gesamtdokumentation des historischen Falls behandelt."
+        },
+        {
+          "key": "schnitt",
+          "url": "https://cinemontage.org/post-production-the-insider/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamtes tatsächliches Primärgespräch mit Goldenberg/Rubell/Rosenbloom gelesen: Aufgabenrotation, diktierte Regienotizen, variable Kameraführung/Headsets, drei Perspektivbereiche, dialogische Umordnung, Originalmusik und erweiterte Gerrard/Bourke-Komposition. Keine 157/158-Minuten-Differenz abgefragt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Insider_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte konkrete Handlung und Cast/Accuracy-Abschnitte tatsächlich gelesen: Schweigeklausel/Abfindung, CBS-Verkaufsrisiko, Dossier, Times-Veröffentlichung und Bergmans Weggang; Brenner-Artikel Mai 1996. Filmfigur und umstrittene historische Darstellung von Wallace getrennt behandelt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=insider-the",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen ausführlichen Filmton gelesen: Anfang/Familie und vollständiges erstes Wigand-Bergman-Treffen, Schweigevertragsdrohung, Lehrerbewerbung und Chemieunterricht; Times-Zuspielgespräch und vollständiger Schluss mit Veröffentlichung/Rufmordwiderlegung bis Bergmans Kündigung. Historische Realität nicht allein aus Filmton abgeleitet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-023-L1",
+      "year_question_id": "G150-20261103-THRILLER-023-Y",
+      "director_question_id": "G150-20261103-THRILLER-023-D"
+    },
+    {
+      "id": "THRILLER-024",
+      "film_title_de": "Cocktail für eine Leiche",
+      "film_title_original": "Rope",
+      "film_year": 1948,
+      "subdomain": "Thriller",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: geläufiger Hitchcock-Klassiker, dessen Dinner-und-Truhe-Konstellation bekannter ist als einzelne verräterische Gegenstände.",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1948 nach AFI und BFI. AFI führt 25. September als Release/Copyrightdatum, enthält aber bereits eine New-York-Times-Besprechung vom 27. August; der ergänzende Releaseartikel nennt New York 26. August. Deshalb 25. September nicht als weltweit erste Aufführung ausgegeben. Keine ältere Filmfassung mit diesem Cast verwechselt.",
+      "director_note": "Alfred Hitchcock alleinige Hauptregie nach AFI/BFI. Lowell J. Farrell und Claude Archer sind Regieassistenten; die zwei Kameracredits nicht als Regieteam behandelt.",
+      "country_note": "USA ausdrücklich nach AFI und BFI. Britischer Bühnenautor und Bernstein-Partnerschaft ändern die konkrete Produktionsnationalität nicht.",
+      "series": null,
+      "series_note": "Eigenständige Bühnenadaption. Compulsion und Swoon behandeln den historischen Leopold/Loeb-Komplex anders, sind keine Fortsetzungen dieses Films. Auch Hitchcocks weitere Zusammenarbeit mit Stewart bildet keine Filmreihe.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/25703",
+        "https://player.bfi.org.uk/rentals/film/watch-rope-1948-online"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/25703",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche Produktionsgeschichte, Credits, Details und komplette Synopsis gelesen: USA1948, alleiniger Hitchcock, Hamilton-Bühnenstück 1929, Truhe/Büchergeschenk/Hut/Schluss, Technicolor und bewegliche Wände. Pauschale Behauptung ausschließlich zehnminütiger Takes gegen genaueren BFI-/Segmentbefund nicht übernommen. Abweichendes John Brandon statt Brandon Shaw nicht als Namensfrage verwendet."
+        },
+        {
+          "key": "bfiwerk",
+          "url": "https://player.bfi.org.uk/rentals/film/watch-rope-1948-online",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen BFI-Werktext gelesen: USA1948, Hitchcock, Stewart/Dall/Granger, Dinner-Leichenversteck, erste Technicolorarbeit, mehrere lange Einstellungen statt echter ungeschnittener Gesamtaufnahme. Kein Video angesehen."
+        },
+        {
+          "key": "bfinoten",
+          "url": "https://bfidatadigipres.github.io/big%20screen%20classics/2022/02/10/rope/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen BFI-Programme-Notes-Essay gelesen: Mord offen zu Beginn, Zuschauerwissen/Truhe, problematischer Echtzeiteffekt, Fenster-Schüsse/Sirenen und Hitchcock-Primäraussage zum getrennt aufgenommenen Straßenton; Miniaturkulisse und Wolken. Keine exakte Spielzeitgleichheit behauptet."
+        },
+        {
+          "key": "bfiform",
+          "url": "https://www.bfi.org.uk/lists/single-take-films",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Rope-Abschnitt mit Hitchcock/Truffaut-Primäraussagen gelesen: Filmmagazin begrenzt Take, Schauspielerrücken kaschieren Übergänge, Bewegung und Bildgrößen ersetzen teilweise Montage. Spätere Filmliste nicht als Rope-Inhalt verwendet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Rope_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte konkrete Handlung/Cast und Produktionsabschnitte gelesen: Opferumfeld als Gäste, Truhe als Buffet, Tatseil um Bücher, Hutmonogramm/Rückkehr, moralische Zurückweisung und Polizeiruf. Tabelle mit offenen und verdeckten Schnitten gelesen; Cameo-Widerspruch nicht abgefragt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=rope",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche lange Filmtonpassagen gelesen: Anfang/Mordgespräch und Vorbereitung des Buffets, Einladung Opfereltern und Rupert/Rolle als früherer Housemaster, philosophischer Dinnerstreit, Büchergeschenk/Abschied und spätere Bemerkung zum Tatseil. Sichtbare Hutinitialen nicht allein aus schweigendem Dialogmoment abgeleitet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-024-L1",
+      "year_question_id": "G150-20261103-THRILLER-024-Y",
+      "director_question_id": "G150-20261103-THRILLER-024-D"
+    },
+    {
+      "id": "THRILLER-025",
+      "film_title_de": "Der unsichtbare Gast",
+      "film_title_original": "Contratiempo",
+      "film_year": 2016,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: im Genre- und Streamingpublikum bekannter spanischer Rätselthriller, dessen genauer Unfall- und Identitätskomplex nicht zum allgemeinen Filmwissen gehört.",
+      "directors": [
+        "Oriol Paulo"
+      ],
+      "production_countries": [
+        "Spanien"
+      ],
+      "release_note": "Erstjahr 2016 durch tatsächlich gelesene zeitgenössische Fantastic-Fest-Besprechungen vom September/Oktober 2016 einschließlich Q&A-Bericht bestätigt. ScreenAnarchy kündigt die Wiederholung am 27. September an. Film Factory führt 2017 nach spanischem Kinostart 6. Januar, nicht nach erster Festivalaufführung. 23. September ergänzend im Releaseartikel, ohne das Datum als im offiziellen Tagesplan überprüft auszugeben.",
+      "director_note": "Oriol Paulo alleinige Hauptregie nach internationalem Vertrieb und eigenem zeitgenössischem Interview. Lara Sendims Drehbuchmitwirkung nicht als zusätzliche Regie behandelt.",
+      "country_note": "Spain ausdrücklich im vollständigen Film-Factory-Werkeintrag. ICAA-Abruf wurde mit 429 abgewiesen und wird nicht als gelesener Zusatzbeleg geführt.",
+      "series": null,
+      "series_note": "Eigenständiger Film; The Body ist ein anderer Paulo-Stoff. Internationale Neuverfilmungen wie Badla setzen die Handlung neu an und sind keine nummerierten Fortsetzungen dieser Fassung.",
+      "series_sources": [
+        "https://www.filmfactoryentertainment.com/films/the-invisible-guest/",
+        "https://en.wikipedia.org/wiki/The_Invisible_Guest"
+      ],
+      "sources": [
+        {
+          "key": "verleih",
+          "url": "https://www.filmfactoryentertainment.com/films/the-invisible-guest/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen Vertriebswerktext gelesen: Titelidentität, Spanien, alleiniger Paulo, Hauptcast und spanischer Start 6. Januar 2017; Synopsis zum verschlossenen Hotelzimmer und Verteidigungsberaterin. Verleihjahr gegen frühere Festivalberichte abgegrenzt."
+        },
+        {
+          "key": "festival",
+          "url": "https://screenanarchy.com/2016/09/fantastic-fest-2016-review-the-invisible-guest-contratiempo-locks-in-emotional-thrills.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte tatsächliche Festivalbesprechung Peter Martins vom 25. September 2016 gelesen: bereits gesehener Film, weitere Vorführung 27. September, verschlossenes Zimmer, Beraterin, Varianten der Erzählung und Casas/Wagener/Lennie. Belegt reale Aufführung 2016 vor regulärem Spanienstart."
+        },
+        {
+          "key": "qanda",
+          "url": "https://cinapse.co/2016/10/fantastic-fest-2016-the-invisible-guest-locks-you-in/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Festival-/Q&A-Bericht gelesen: Vorführung 2016, Unfall-/Erpressungslinie, Lennie muss Laura in wechselnden Fassungen spielen, Paulo spricht über schwierige Variantenarbeit. Falsche Hotelraum-Bezeichnung des Befragungsorts gegen Wohnung im Verleih/Filmton nicht übernommen."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.eldiario.es/vertele/noticias/contratiempo-atresmedia-interferencias-controlado-censurado_1_7508620.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Interviewtext bis einschließlich TV-/Projektfragen gelesen: zwölf Drehbuchversionen, jünger gewordener Adrián/Casas-Besetzung, klassische Locked-Room-Literatur, etwa zwei Monate Proben zur Orientierung der Darsteller, Gone Girl als Lichtreferenz mit Giménez. Video nicht abgespielt."
+        },
+        {
+          "key": "wunderlich",
+          "url": "https://www.dieterwunderlich.de/Paulo-unsichtbare-gast.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte tatsächliche ausführliche Handlung einschließlich Spoilerabschnitt und Kritik gelesen: Tomás repariert Wagen, Daniels Handy, lebender Mann im versenkten Auto, leere Blätter und Elvira-Demaskierung. Hypothetischer Tomás-Hotelmord ausdrücklich nicht als wahre Endfassung übernommen; Elviras Beruf nicht aus abweichender Professorinnenangabe abgefragt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Invisible_Guest",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte tatsächliche Handlung/Cast/Release-/Remakeabschnitte gelesen: Unfallvarianten, Tomás/Elvira/Daniel, Befragung und Geständnisse, Aufnahme/Demaskierung, Ana Wagener als falsche und Blanca Martínez als echte Goodman. Unterschied zwischen Mutmaßung und endgültigem Geständnis beachtet."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-invisible-guest",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche ausführliche Filmtonabschnitte gelesen: vollständiger Beginn bis Unfall, Tomás/Elvira-Hausbesuch und klingelndes Handy, Tomás' spätere Erklärung zum Handy/Sitz, Falschhypothese Hotelmord sowie Ende mit erfundenem Belastungszeugen und Theatergruppenrückbezug. Stumme Maskenabnahme zusätzlich in beiden vollständigen Handlungsquellen geprüft."
+        },
+        {
+          "key": "debuet",
+          "url": "https://sitgesfilmfestival.com/es/film/2012/body",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen Festival-Werkeintrag zu The Body gelesen: frühere Filmaufführung 2012 in Sitges und Spanien. Zusammen mit Primärinterview und zeitgenössischen Berichten als früherer Film des Regisseurs identifiziert, keine Fortsetzung daraus gemacht."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-025-L1",
+      "year_question_id": "G150-20261103-THRILLER-025-Y",
+      "director_question_id": "G150-20261103-THRILLER-025-D"
+    },
+    {
+      "id": "THRILLER-026",
+      "film_title_de": "The Body – Die Leiche",
+      "film_title_original": "El cuerpo",
+      "film_year": 2012,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: spanischer Genretitel mit internationaler Verbreitung und mehreren Remakes; Figuren und genaue Wendungen erfordern eigenes Interesse am Rätselthriller.",
+      "directors": [
+        "Oriol Paulo"
+      ],
+      "production_countries": [
+        "Spanien"
+      ],
+      "release_note": "Sitges 2012 offiziell dokumentiert; zeitgenössischer Europa-Press-Bericht vom 4. Oktober bestätigt bereits erfolgte Eröffnungsprojektion. Regulärer Spanienstart 21. Dezember 2012 laut Original-ICAA-Filmkarte. Festivaljahr und Kinostart fallen in dasselbe Jahr.",
+      "director_note": "Oriol Paulo allein nach vollständiger Original-ICAA-Karte; Lara Sendim ist Coautorin, Daniela Forn Regieassistenz, keine zusätzliche Hauptregie.",
+      "country_note": "Spanien im offiziellen Festivalarchiv und nationalen ICAA-Katalog. Spanische Produktionsfirmen in der originalen Karte einzeln geführt.",
+      "series": null,
+      "series_note": "Abgeschlossener Originalfilm. Die im vollständigen Filmartikel aufgeführten internationalen Neuverfilmungen, darunter The Body 2019, sind keine nummerierten Fortsetzungen. Der zunächst gefundene Springfield-Text ist die indische Fassung von 2019 und wird ausdrücklich nicht verwendet.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/The_Body_(2012_film)",
+        "https://donesvisuals.cat/wp-content/uploads/2019/04/El-Cuerpo_datos_ICAA.pdf"
+      ],
+      "sources": [
+        {
+          "key": "icaa",
+          "url": "https://donesvisuals.cat/wp-content/uploads/2019/04/El-Cuerpo_datos_ICAA.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige zweitseitige originale ICAA-Filmkarte im tatsächlich zugänglichen Archivspiegel gelesen: alleiniger Oriol Paulo, sämtliche Gewerke, Besetzung und Rollen, Spanienproduktion der beiden Firmen, Kinostart 21. Dezember 2012, Debüt. Kein direkter erfolgreicher Abruf des Ministeriums behauptet."
+        },
+        {
+          "key": "sitges",
+          "url": "https://sitgesfilmfestival.com/es/film/2012/body",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen Festival-Werkeintrag gelesen: 2012, Spanien, Nachtwächterunfall, Maykas vermisster Leichnam, ausstehende Obduktion und Peña. Werbliche allgemeine Forensikbehauptung nicht als Rechts-/Medizinregel übernommen."
+        },
+        {
+          "key": "presse",
+          "url": "https://www.lavanguardia.com/local/barcelona/20121004/54352277675/el-cuerpo-de-belen-rueda-abre-el-festival-de-sitges-con-grandes-dosis-de-suspense-en-una-morgue.html?facet=amp",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Europa-Press-Bericht vom 4. Oktober 2012 einschließlich Pressekonferenzzitate gelesen: heutige Eröffnungsaufführung, erster Langfilm, Coronados gealterter, nach innen gekehrter Ermittler und Abgrenzung zur früheren Goya-Rolle; Ruedas Mayka als beherrschende Figur."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.ecartelera.com/noticias/oriol-paulo-director-el-cuerpo-historia-segundas-oportunidades-thriller-envoltorio-bonito-11966/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen schriftlichen Paulo-Interviewtext gelesen: Drehbuch gemeinsam mit Lara Sendim in TV-Arbeitspause, überschaubare Sets, zweite Chancen, Filmteam sollte Eine reine Formalität sehen, Rückblenden an Álex-Perspektive ausgerichtet. Verlinktes Video nicht angesehen."
+        },
+        {
+          "key": "bauteam",
+          "url": "https://www.sincroma.com/decorados-en-barcelona/oriol-paulo-ultimo-proyecto/",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen vollständigen Sincroma-Werkstattbericht gelesen: erste Zusammenarbeit El cuerpo 2012, Bau der Morgue nach Balter Gallarts Entwurf. Spätere Abschnitte zu Contratiempo und anderen Arbeiten nicht als Belege für diesen Film vermischt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Body_(2012_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche Handlung samt Besetzung, Release und Remakeabschnitt gelesen: TH–16, Ermittler-/Ehevergangenheit, Detektiv, Carla/Eva und Schlussvergiftung. Ein separater Web-Enderklärer behauptet abweichend, Mayka sei nicht am Gift gestorben; dieser wird nicht übernommen."
+        },
+        {
+          "key": "ablauf",
+          "url": "https://tecuentolapelicula.com/peliculase/elcuerpo.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen chronologischen Handlungsbericht gelesen: Fund des Giftfläschchens, Detektivrechnung, Telefon beim Detektivleichnam, Geständnis der achtstündig verzögerten Vergiftung, Fahrerflucht und Carla als Tochter des Ermittlers. Fehlerhafter Vorname Clara beim Drehbuch gegen Lara Sendim im Original-ICAA berichtigt."
+        },
+        {
+          "key": "kritik",
+          "url": "https://rogersmovienation.com/2013/07/20/movie-review-spanish-chills-served-up-in-the-body/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte tatsächliche Kritik Roger Moores gelesen: pharmazeutische Unternehmerin Mayka, jüngerer Chemikerehemann, Morgue als Hauptort, kontrollierende Ehe in Rückblenden, Inspektor und inszeniert wirkende Indizien. Kein unbeschriebenes Filmende aus dem Kritiktext abgeleitet."
+        },
+        {
+          "key": "julia",
+          "url": "https://academiadelcinema.cat/ca/premis-gaudi/iii-premis-gaudi/los-ojos-de-julia",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche Werkkarte gelesen: Guillem Morales alleinige Regie, Morales/Oriol Paulo Drehbuch und katalanischer Kinostart Oktober 2010. Belegt früheren Drehbuchfilm, nicht Paulos Regiedebüt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-026-L1",
+      "year_question_id": "G150-20261103-THRILLER-026-Y",
+      "director_question_id": "G150-20261103-THRILLER-026-D"
+    },
+    {
+      "id": "THRILLER-027",
+      "film_title_de": "Kein Sterbenswort",
+      "film_title_original": "Ne le dis à personne",
+      "film_year": 2006,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: international erfolgreicher französischer Spannungsfilm, dessen verzweigtes Figuren- und Familiengeflecht eher interessiertes Genrepublikum kennt.",
+      "directors": [
+        "Guillaume Canet"
+      ],
+      "production_countries": [
+        "Frankreich"
+      ],
+      "release_note": "Erstjahr 2006 nach Produzentenfilmkarte, CNC und offizieller César-Werkseite; französischer Start 1. November. Kein früherer Veröffentlichungsjahrgang belegt. Unifrance-Suchtitel führt Produktionsjahr 2005, der Artikel selbst ist technisch gesperrt und wird nicht als gelesene Veröffentlichungsliste ausgegeben.",
+      "director_note": "Guillaume Canet allein nach Produzent, CNC und César-Akademie. Philippe Lefèbvre wirkt am Drehbuch mit und spielt mit, ist hier kein zweiter Regisseur.",
+      "country_note": "Frankreich führend nach institutionellem Film-France-CNC-Werkeintrag und französischen Koproduzenten der Originalfilmkarte. CANAL+-Katalog nennt abweichend Frankreich/Großbritannien; kein britischer Koproduktionspartner in der originalen Produzentenkarte, deshalb diese Katalogangabe nicht übernommen.",
+      "series": null,
+      "series_note": "Eigenständige Coben-Verfilmung. In gelesenen Produzenten-/Werkdarstellungen keine nummerierte Filmfolge belegt.",
+      "series_sources": [
+        "https://www.tresorprod.com/films/ne-le-dis-a-personne/",
+        "https://www.filmfrance.net/films/ne-le-dis-a-personne/"
+      ],
+      "sources": [
+        {
+          "key": "produktion",
+          "url": "https://www.tresorprod.com/films/ne-le-dis-a-personne/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen Produzenten-Werktext gelesen: Alleinregie Canet, Cast, französische Koproduzenten und Verleih, Kinostart 1. November 2006, E-Mail-Synopsis und Gewinn-/Nominierungslisten."
+        },
+        {
+          "key": "produktionskarte",
+          "url": "https://www.tresorprod.com/wp-content/uploads/2021/12/Fiche-Ne-le-dis.docx-1.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige originale einseitige Produzenten-Filmkarte gelesen: Regie, Titel, Cast, Start 1. November 2006 und Koproduzenten Trésor/M6/Caneo/EuropaCorp. Kein umfangreiches Szenenpresseheft aus der kurzen Karte gemacht."
+        },
+        {
+          "key": "cnc",
+          "url": "https://www.filmfrance.net/films/ne-le-dis-a-personne/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen Film-France-CNC-Werkeintrag gelesen: Frankreich, 2006, alleiniger Canet, Trésor-Produktion, E-Mail-Ausgangslage und aufgeführte Pariser Drehorte. Keine Endwendung aus dieser Kurzsynopsis abgeleitet."
+        },
+        {
+          "key": "cesar",
+          "url": "https://www.academie-cinema.org/films/ne-le-dis-a-personne-31231/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche offizielle Werk-/Preiskarte gelesen: 1. November 2006, alleiniger Regisseur und 2007 vier Siege für Cluzet, Canet, Hervé de Luze und Matthieu Chedid. Nominierung als Bester Film getrennt."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.undertheradarmag.com/interviews/guillaume_canet_interview_072008/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen schriftlichen Primärinterviewtext Chris Tinkhams bis Schlussfrage gelesen: Cluzet-Besetzung/Finanzierung, Sommerlicht als Kontrast zu Alex, konkrete Drehbedingungen Périphérique/Reitunfall und Romanänderungen. Veraltete Oscar-Superlativbehauptung über andere Filme nicht übernommen."
+        },
+        {
+          "key": "wunderlich",
+          "url": "https://www.dieterwunderlich.de/Canet-kein-sterbenswort.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte tatsächliche ausführliche Handlung einschließlich Schluss und Kritik gelesen: zwei alte Leichen/Baseballschläger, Hélène/Anne, Bruno und behandeltes Kind, Jacques rettet Alex und identifiziert fremde Tote zur Tarnung. Schlussdeutung zu Philippes Schützen nicht abgefragt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Tell_No_One",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche Handlung/Cast sowie Credits/Release gelesen: E-Mail, Körperfunde, Bruno, Familienalibi, Jacques und falsche Identifikation. Keine nummerierte Filmfortsetzung im geprüften Werkzusammenhang."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-027-L1",
+      "year_question_id": "G150-20261103-THRILLER-027-Y",
+      "director_question_id": "G150-20261103-THRILLER-027-D"
+    },
+    {
+      "id": "THRILLER-028",
+      "film_title_de": "In ihren Augen",
+      "film_title_original": "El secreto de sus ojos",
+      "film_year": 2009,
+      "subdomain": "Thriller",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: Oscarbekannter argentinischer Film mit internationalem Arthouse-Publikum; Figuren, politische Verflechtung und Schluss verlangen konkrete Werkkenntnis.",
+      "directors": [
+        "Juan José Campanella"
+      ],
+      "production_countries": [
+        "Argentinien",
+        "Spanien"
+      ],
+      "release_note": "Erstjahr 2009 nach Filmografie im offiziellen Sony-Presseheft, spanischem ICAA-Katalog und belegten Toronto-/San-Sebastián-Vorführungen 2009. Argentinischer Start 13. August 2009 ergänzend im ausführlichen Werkartikel. Sony-Werkportal nennt 2010 nach US-Veröffentlichung; österreichisches Presseheft Dezember 2010 ist lokaler Kinostart. Oscarverleihung ausdrücklich 2010, nicht 2009 wie missverständlich auf der Sony-Deckseite.",
+      "director_note": "Vollständige Hauptcredits beider Originalpressehefte nennen Juan José Campanella allein. Eduardo Sacheri ist Roman-/Co-Drehbuchautor. Campanella montierte den Film außerdem; keine weitere Hauptregie aus Gewerken abgeleitet.",
+      "country_note": "Argentinien und Spanien in technischen Daten des Sony- und Polyfilm-Originalpressehefts. ICAA-Sucheintrag nennt dieselben Länder mit Koproduktionsanteilen; direkter Abruf scheiterte, daher die tatsächlich gelesenen Originalhefte als führende Belege.",
+      "series": null,
+      "series_note": "Eigenständige Sacheri-Verfilmung. Die US-Neuverfilmung Vor ihren Augen/Secret in Their Eyes von 2015 ist keine Fortsetzung und wird nicht als Teil 2 gezählt.",
+      "series_sources": [
+        "https://www.sonyclassics.com/thesecretintheireyes/thesecretintheireyes_press.pdf",
+        "https://en.wikipedia.org/wiki/The_Secret_in_Their_Eyes"
+      ],
+      "sources": [
+        {
+          "key": "sony",
+          "url": "https://www.sonyclassics.com/thesecretintheireyes/thesecretintheireyes_press.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliches originales elfseitiges Presseheft gelesen: Kurz-/Langhandlung, vollständiges Regiestatement, Figurenporträts, Cast/Hauptgewerke, technische Daten Argentinien/Spanien, 2009-Filmografie und Festivalangaben. Spiel-/Preisjahr der Deckzeile von realer Oscarverleihung 2010 getrennt; Produktionslisten mit späterem Vertriebsjahr nicht als Premiere genommen."
+        },
+        {
+          "key": "polyfilm",
+          "url": "https://archiv.polyfilm.at/in_ihren_augen/IIA_Presseheft%20-%20POLY.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche Originalheftseiten 1–7 vollständig gelesen: deutsche Identität, lokale Veröffentlichung, vollständige Langhandlung bis zurückgehaltener Schlussentdeckung, Cast/Gewerke, 2009-Produktion und beide Länder, Regiestatement. Rückblickjahr dort 2000 gegen andere Handlung 1999: kein exaktes Rahmenjahr abgefragt. Stumme Geständnisdetails nicht aus dieser gekürzten Langsynopsis erfunden."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.eyeforfilm.co.uk/feature/2010-08-18-juan-jose-campanella-interview-about-the-secret-in-their-eyes-el-secreto-de-sus-ojos-feature-story-by-amber-wilkinson",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Primärinterviewtext Amber Wilkinsons gelesen: Genre-/Strukturmischung, Sacheri-Koarbeit, Humor und Einstellungslänge, Stadion nicht ein real ungeschnittener Take, drei Drehtage/neun Monate Nacharbeit, Alter und Einsamkeit. Scherz über springenden Helikopteroperator ausdrücklich nicht als Drehtechnik übernommen."
+        },
+        {
+          "key": "wunderlich",
+          "url": "https://www.dieterwunderlich.de/Campanella-in-ihren-augen.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche ausführliche Handlung bis Ende sowie Kritik gelesen: Fotos, Fußballernamen in Briefen, provoziertes Geständnis, Geheimdienstschutz, Sandoval, private Gefangenschaft und TEMO/TE AMO. Einzelne abweichende Jahres-/Hochschulangaben ausgelassen. Historische Abfolge vor Militärdiktatur nach Primärstatement richtig eingegrenzt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Secret_in_Their_Eyes",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche Handlung einschließlich letzter Gefängnisentdeckung, Besetzung und Veröffentlichung gelesen: Racing-Briefe, Stadionfang, Irenes Verhör, Freilassung für staatliche Dienste, Morales und lebenslange private Haft. Filmfassung ausdrücklich vom Remake unterschieden."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/2010",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen Verleihungskopf 7. März 2010/Filmjahrgang 2009 und vollständige Kategorie Foreign Language Film einschließlich Gewinner Argentinien und vier Mitnominierten gelesen. Kein Regie-Oscar oder allgemeiner Bester-Film-Oscar behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-028-L1",
+      "year_question_id": "G150-20261103-THRILLER-028-Y",
+      "director_question_id": "G150-20261103-THRILLER-028-D"
     }
   ],
   "series_updates": [
