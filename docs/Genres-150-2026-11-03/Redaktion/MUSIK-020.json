@@ -1,0 +1,259 @@
+{
+  "id": "MUSIK-020",
+  "film_title_de": "Joker: Folie à Deux",
+  "film_title_original": "Joker: Folie à Deux",
+  "film_year": 2024,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Breit besprochene Fortsetzung mit Joaquin Phoenix und Lady Gaga; Einzelheiten der musikalischen Form verlangen dennoch Filmkenntnis.",
+  "selection_reason": "Die Fortsetzung erzählt Arthurs Liebes- und Gerichtsdrama mit vorhandenen Songs, Gesang im Handlungsraum und musikalischen Fantasien.",
+  "directors": [
+    "Todd Phillips"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste öffentliche Festivalvorführung in Venedig am 4. September 2024; reguläre Kinostarts im Oktober sind später.",
+  "director_note": "Offizieller Gesamtregiecredit Todd Phillips. Sylvain Chomet gestaltete den animierten Prolog; dieser gesonderte Sequenzcredit wird nicht als gemeinsame Gesamtregie ausgegeben.",
+  "country_note": "",
+  "series": {
+    "name": "Joker",
+    "position": 2,
+    "note": "Direkte Fortsetzung von Joker (2019) mit Joaquin Phoenix als Arthur Fleck; andere Batman-/Joker-Verfilmungen werden nicht in diese Folge eingezählt."
+  },
+  "series_note": "Direkte Fortsetzung des Films Joker von2019; als zweiter Film dieser konkreten Arthur-Fleck-Fassung geführt. Eigenständige andere Joker-Darstellungen gehören nicht zur Reihe.",
+  "series_sources": [
+    "https://www.labiennale.org/en/cinema/2024/venezia-81-competition/joker-folie-%C3%A0-deux",
+    "https://en.wikipedia.org/wiki/Joker:_Folie_%C3%A0_Deux"
+  ],
+  "sources": {
+    "venedig": {
+      "url": "https://www.labiennale.org/en/cinema/2024/venezia-81-competition/joker-folie-%C3%A0-deux",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Katalog mit Regie, USA, Besetzung, Musik Hildur Guðnadóttir, Arkham-Synopsis und Phillips’ Fortsetzungsstatement."
+    },
+    "termin": {
+      "url": "https://www.labiennale.org/en/cinema/2024/programma-cinema-2024-public/joker-folie-%C3%A0-deux-2024-09-04-19-00",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener offizieller Programmindex: öffentliche Vorführung am 4. September 2024 um 19 Uhr."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Joker:_Folie_%C3%A0_Deux",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung und Rollencredits: Musiktherapiegruppe, Maryanne Stewarts Verteidigungsplan und Lees erfundene Herkunft; Fortsetzung von Joker 2019."
+    },
+    "musik": {
+      "url": "https://www.motionpictures.org/2024/09/joker-folie-a-deux-teaser-and-an-inside-look-at-the-music-unveil-gothams-killer-new-crooners/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Aussagen Phillips’, Phoenix’ und Gagas: Musik aus Arthurs Kindheitsumfeld, Livegesang und ungeschönte Darbietung."
+    },
+    "interview": {
+      "url": "https://thenerdsofcolor.org/2024/10/03/joker-director-todd-phillips-and-co-writer-scott-silver-on-folie-a-deux/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenes Q&A mit Phillips und Silver: Livepianist in schalldichter Kabine folgt den Darstellern; nachträgliches Anpassen der Arrangements ermöglicht variable Takes."
+    },
+    "chomet": {
+      "url": "https://www.premiere.fr/Cinema/News-Cinema/Sylvain-Chomet-nous-raconte-lintro-animee-de-Joker-Folie-a-Deux",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenes Chomet-Interview samt Einleitung: animierter Prolog, klassische Cartoonvorbilder und Übergriff des selbständig handelnden Schattens."
+    },
+    "vorgaenger": {
+      "url": "https://www.labiennale.org/en/cinema/2019/venezia-76-competition/joker",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Katalog des Vorgängers 2019, Todd Phillips und Joaquin Phoenix; zeitliche Einordnung der Fortsetzung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Arthur ist zu Beginn in Arkham untergebracht und wartet auf seinen Prozess.",
+      "question": "In welcher Einrichtung wartet Arthur Fleck (Joaquin Phoenix) in „Joker: Folie à Deux“ auf seinen Prozess?",
+      "answers": [
+        "Arkham State Hospital",
+        "Blackgate Penitentiary",
+        "Belle Reve Penitentiary",
+        "Iron Heights Penitentiary"
+      ],
+      "short": "Arthur ist zu Beginn in Arkham untergebracht und wartet auf seinen Prozess.",
+      "context": "Arthur Fleck (Joaquin Phoenix) ist nach den Taten des ersten Films in Arkham untergebracht. Die bevorstehende Verhandlung bildet einen wesentlichen Teil der Handlung. Der institutionelle Alltag mit Wachen, Besuchen und Untersuchungen begrenzt seinen Bewegungsraum, während die musikalischen Vorstellungen andere Räume eröffnen.",
+      "sources": [
+        "venedig",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Arthur und Lee kommen in einer Musiktherapiegruppe miteinander in Kontakt.",
+      "question": "Bei welcher gemeinsamen Aktivität kommen Arthur (Joaquin Phoenix) und Lee (Lady Gaga) in „Joker: Folie à Deux“ einander näher?",
+      "answers": [
+        "In einer Musiktherapiegruppe",
+        "Bei der Arbeit in der Anstaltsküche",
+        "In einer Gesprächsgruppe über ihre Eltern",
+        "Bei einem gemeinsamen Theaterbesuch außerhalb der Anstalt"
+      ],
+      "short": "Arthur und Lee kommen in einer Musiktherapiegruppe miteinander in Kontakt.",
+      "context": "Harleen „Lee“ Quinzel (Lady Gaga) begegnet Arthur Fleck (Joaquin Phoenix) im musikalischen Gruppenangebot der Anstalt. Der Gesang gehört damit bereits zu ihrem gemeinsamen Alltag, bevor größere Fantasienummern entstehen. Die Beziehung wird über Musik aufgebaut und kann sich in ihr zugleich von der unmittelbaren Umgebung lösen.",
+      "sources": [
+        "handlung",
+        "venedig"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Maryanne Stewart will Arthur und Joker als unterschiedliche Persönlichkeiten für die Verteidigung unterscheiden.",
+      "question": "Auf welches zentrale Argument will Arthurs Anwältin Maryanne Stewart (Catherine Keener) in „Joker: Folie à Deux“ die Verteidigung stützen?",
+      "answers": [
+        "Joker sei eine von Arthur getrennte Persönlichkeit.",
+        "Arthur habe die Taten unter unmittelbarer Notwehr begangen.",
+        "Ein anderer Täter habe Arthur bei den Morden ersetzt.",
+        "Arthur habe unter dem unmittelbaren Zwang eines Mittäters gehandelt."
+      ],
+      "short": "Maryanne Stewart will Arthur und Joker als unterschiedliche Persönlichkeiten für die Verteidigung unterscheiden.",
+      "context": "Maryanne Stewart (Catherine Keener) möchte die Verantwortung für die Taten über eine behauptete Trennung zwischen Arthur und Joker behandeln. Arthur (Joaquin Phoenix) soll dabei als jemand erscheinen, dessen andere Persönlichkeit gehandelt habe. Identität wird dadurch zu einer rechtlichen Streitfrage und zugleich zum persönlichen Problem ihres Mandanten.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Lee hat ihre angeblich ähnliche und leidvolle Herkunft erfunden, um Arthur nahezukommen.",
+      "question": "Welche Behauptung Lees (Lady Gaga) über ihr früheres Leben erweist sich in „Joker: Folie à Deux“ als Täuschung?",
+      "answers": [
+        "Sie stamme wie Arthur aus armen Verhältnissen und ihr Vater sei tot.",
+        "Sie habe früher in einer Musiktherapiegruppe gesungen.",
+        "Sie habe Arthur bereits in einer Fernsehsendung gesehen.",
+        "Sie sei von Arthurs öffentlichem Auftreten als Joker fasziniert."
+      ],
+      "short": "Lee hat ihre angeblich ähnliche und leidvolle Herkunft erfunden, um Arthur nahezukommen.",
+      "context": "Die Anwältin Maryanne Stewart (Catherine Keener) informiert Arthur (Joaquin Phoenix) darüber, dass Lee (Lady Gaga) aus wohlhabendem Umfeld stammt und ihr Vater noch lebt. Lee hatte eine andere Lebensgeschichte präsentiert. Ihre Annäherung beruht damit auch auf einer bewusst hergestellten Ähnlichkeit, die Arthur Vertrauen einflößen soll.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Der animierte Prolog stellt den Joker einem eigenständig handelnden Schatten gegenüber.",
+      "question": "Welcher Doppelgänger bedrängt den Joker im animierten Prolog von „Joker: Folie à Deux“?",
+      "answers": [
+        "Sein eigener Schatten",
+        "Sein Spiegelbild in einer Garderobe",
+        "Eine mechanische Bauchrednerpuppe",
+        "Ein als Joker verkleideter Polizist"
+      ],
+      "short": "Der animierte Prolog stellt den Joker einem eigenständig handelnden Schatten gegenüber.",
+      "context": "Sylvain Chomet gestaltete den bewusst altmodischen Cartoon vor der Realfilmhandlung. Darin bemächtigt sich der Schatten des Auftritts des Jokers. Das Bild führt die Frage ein, wer eine Figur kontrolliert und welche Rolle sich verselbständigt. Es nimmt damit ein zentrales Motiv des anschließenden Identitätsdramas vorweg.",
+      "sources": [
+        "chomet"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Ein Livepianist folgte beim Dreh dem Gesang der Darsteller; die Arrangements wurden daran angepasst.",
+      "question": "Wie ermöglichte „Joker: Folie à Deux“ beim Dreh musikalisch unterschiedliche Takes von Phoenix und Gaga?",
+      "answers": [
+        "Ein Livepianist folgte ihrem Gesang; Arrangements wurden später angepasst.",
+        "Ein festes Orchesterplayback gab Tempo und Phrasierung jedes Takes vor.",
+        "Die Songs wurden erst nach dem Schnitt zu stummen Bewegungen eingesungen.",
+        "Die Darsteller hörten Originalaufnahmen und imitierten deren Phrasierung genau."
+      ],
+      "short": "Ein Livepianist folgte beim Dreh dem Gesang der Darsteller; die Arrangements wurden daran angepasst.",
+      "context": "Todd Phillips beschreibt einen Pianisten in einer schalldichten Kabine am Set. Er folgte dem jeweiligen Vortrag, statt die Darsteller an eine unveränderliche Begleitung zu binden. Die übrige musikalische Ausarbeitung wurde anschließend angepasst. So blieb für Joaquin Phoenix und Lady Gaga auch innerhalb der Songs Raum für wechselnde schauspielerische Entscheidungen.",
+      "sources": [
+        "interview"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Joker: Folie à Deux wurde 2024 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Joker: Folie à Deux“ erstmals öffentlich gezeigt?",
+      "answers": [
+        "2024",
+        "2020",
+        "2022",
+        "2026"
+      ],
+      "short": "Joker: Folie à Deux wurde 2024 erstmals veröffentlicht.",
+      "context": "Die Fortsetzung lief 2024 in Venedig und kam anschließend im Oktober ins Kino. Der erste „Joker“ war 2019 ebenfalls im Wettbewerb von Venedig vorgestellt worden. Zwischen den Veröffentlichungen liegen fünf Jahre; innerhalb der erzählten Welt setzt die Fortsetzung dagegen etwa zwei Jahre nach den früheren Taten Arthurs ein.",
+      "sources": [
+        "termin",
+        "vorgaenger",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Todd Phillips führte Regie.",
+      "question": "Wer führte bei „Joker: Folie à Deux“ Regie?",
+      "answers": [
+        "Todd Phillips",
+        "Bradley Cooper",
+        "Damien Chazelle",
+        "Baz Luhrmann"
+      ],
+      "short": "Todd Phillips führte Regie.",
+      "context": "Todd Phillips schrieb das Drehbuch erneut gemeinsam mit Scott Silver. Er beschreibt die Musik als etwas, das bereits in Arthur angelegt gewesen sei. Die verwendeten Lieder sollten zu dem passen, was Arthur in seiner Kindheit gehört haben könnte. Die Fortsetzung entwickelt so aus der Figur einen anderen erzählerischen Zugang als der erste Film.",
+      "sources": [
+        "venedig",
+        "musik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

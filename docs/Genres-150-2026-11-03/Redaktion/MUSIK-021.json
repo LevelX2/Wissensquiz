@@ -1,0 +1,259 @@
+{
+  "id": "MUSIK-021",
+  "film_title_de": "Der Jazzsänger",
+  "film_title_original": "The Jazz Singer",
+  "film_year": 1927,
+  "genre": "Musik",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Filmhistorisch bekannter Titel, dessen Handlung und konkrete Tonfilmform weniger allgemein präsent sind als sein Ruf als Wendepunkt.",
+  "selection_reason": "Das musikalische Familiendrama verbindet jüdische Kantorentradition mit Bühnenkarriere und einer historisch wichtigen Mischform aus Stumm- und Tonfilm. Die durch Museum und Filmarchiv belegte Schlüsselstellung beim Übergang zum kommerziellen Tonfilm begründet Classics.",
+  "directors": [
+    "Alan Crosland"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "New Yorker Premiere am 6. Oktober 1927 nach AFI und Library-of-Congress-Essay. Die breitere Veröffentlichung vom Februar 1928 ist nicht das Erstjahr.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Verfilmung des Raphaelson-Stoffs. Fassungen von 1952, 1959 und 1980 sind Neuverfilmungen, keine nummerierten Fortsetzungen; auch Jolsons The Singing Fool erzählt keine Fortsetzung von Jack Robins Geschichte.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/1535-THE-JAZZ-SINGER",
+    "https://en.wikipedia.org/wiki/The_Jazz_Singer"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/1535-THE-JAZZ-SINGER",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener AFI-Katalog: vollständige Credits, USA, Premiere 1927 versus breiterer Start 1928, Kantorenvater, Mary Dale und Handlung."
+    },
+    "moma": {
+      "url": "https://www.moma.org/momaorg/shared/flattened_pages/moma_learning/alan-crosland-the-jazz-singer-1927/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Museumsessay: familiärer Traditionskonflikt, Vitaphone als Schallplattenton, Zwischentitel und begrenzte Sprach-/Gesangsszenen."
+    },
+    "loc": {
+      "url": "https://lcweb2.loc.gov/static/programs/national-film-preservation-board/documents/jazz_singer.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Essay von Ron Hutchinson: keine erste Tonfilmproduktion, Vorläufer Don Juan 1926, technische und praktische Entwicklung, Premiere 1927 und Sprechfilmübergang."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Jazz_Singer",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung und Cast: Jakie/Jack Robin, Mary Dale, Yom-Kippur-Konflikt und Kol Nidre; Neuverfilmungen statt Filmfolge."
+    },
+    "bpb": {
+      "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/sound-des-jahrhunderts/210052/the-jazz-singer/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener filmhistorischer Beitrag: deutscher Titel, Klangwelten, Nadelton, Don Juan 1926 und Einordnung als kommerzieller Wendepunkt statt erster Tonfilm."
+    },
+    "moma_programm": {
+      "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6739/releases/MOMA_1989_0106_115.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenes Museumsprogramm: Alan Crosland als Regisseur sowohl von Don Juan 1926 als auch von The Jazz Singer 1927."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jakies Vater möchte, dass sein Sohn die Familientradition als Kantor fortführt.",
+      "question": "Welche Laufbahn hat Jakies Vater in „Der Jazzsänger“ für seinen Sohn vorgesehen?",
+      "answers": [
+        "Er soll Kantor in der Synagoge werden.",
+        "Er soll als Operntenor nach Europa gehen.",
+        "Er soll die Schneiderei der Familie übernehmen.",
+        "Er soll Lehrer an der örtlichen Schule werden."
+      ],
+      "short": "Jakies Vater möchte, dass sein Sohn die Familientradition als Kantor fortführt.",
+      "context": "Kantor Rabinowitz (Warner Oland) sieht im Gesang seines Sohnes eine Verpflichtung gegenüber der religiösen Tradition. Jakie entscheidet sich jedoch für die Unterhaltungsmusik. Der Film stellt dadurch nicht einfach Musik und Nichtmusik gegeneinander, sondern zwei unterschiedliche Aufgaben derselben Stimme: religiösen Dienst und öffentliche Bühnenkarriere.",
+      "sources": [
+        "afi",
+        "moma"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Mary Dale ist eine Tänzerin und unterstützt den jungen Sänger beruflich.",
+      "question": "In welchem Bühnenberuf arbeitet Mary Dale (May McAvoy), die den jungen Sänger in „Der Jazzsänger“ unterstützt?",
+      "answers": [
+        "Tänzerin",
+        "Opernsängerin",
+        "Konzertpianistin",
+        "Zauberkünstlerin"
+      ],
+      "short": "Mary Dale ist eine Tänzerin und unterstützt den jungen Sänger beruflich.",
+      "context": "Mary Dale (May McAvoy) hört den erwachsenen Sänger, gespielt von Al Jolson, bei einem Auftritt und erkennt seine besondere Wirkung. Sie hilft ihm, Anschluss an eine Bühnentruppe zu finden. Damit wird sie zugleich persönliche Vertraute und eine Verbindung zu der Unterhaltungswelt, in der er erfolgreich werden möchte.",
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Jakie Rabinowitz tritt als erwachsener Unterhaltungskünstler unter dem Namen Jack Robin auf.",
+      "question": "Unter welchem Künstlernamen tritt die von Al Jolson gespielte Hauptfigur in „Der Jazzsänger“ auf?",
+      "answers": [
+        "Jack Robin",
+        "Joe Roberts",
+        "Johnny Raven",
+        "James Rogers"
+      ],
+      "short": "Jakie Rabinowitz tritt als erwachsener Unterhaltungskünstler unter dem Namen Jack Robin auf.",
+      "context": "Aus Jakie Rabinowitz wird auf der Bühne Jack Robin (Al Jolson). Der neue Name gehört zum Weg in die amerikanische Unterhaltungswelt. Bei der Rückkehr in die Familie lässt sich die frühere Identität jedoch nicht einfach ablegen: Der Konflikt mit seinem Vater bleibt trotz der beruflichen Veränderung bestehen.",
+      "sources": [
+        "handlung",
+        "bpb"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der Sänger muss zwischen Broadway-Premiere und Kol Nidre anstelle seines erkrankten Vaters wählen.",
+      "question": "Welche Verpflichtung kollidiert in „Der Jazzsänger“ mit Jack Robins (Al Jolson) Broadway-Premiere?",
+      "answers": [
+        "Er soll an Jom Kippur für seinen kranken Vater Kol Nidre singen.",
+        "Er soll als Trauzeuge zur Hochzeit seiner Schwester reisen.",
+        "Er soll als Soldat zu einem festgesetzten Einberufungstermin erscheinen.",
+        "Er soll bei einem Opernwettbewerb um ein Stipendium vorsingen."
+      ],
+      "short": "Der Sänger muss zwischen Broadway-Premiere und Kol Nidre anstelle seines erkrankten Vaters wählen.",
+      "context": "Als Kantor Rabinowitz (Warner Oland) schwer erkrankt, fehlt für den Gottesdienst am Versöhnungstag die vorgesehene Stimme. Jack Robin (Al Jolson) könnte seinen Vater vertreten. Gleichzeitig hängt seine neue Karriere an der Premiere. Die Handlung verdichtet den lange bestehenden Traditionskonflikt damit zu einer konkreten Entscheidung an einem einzigen Abend.",
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Vitaphone koppelt den Filmprojektor mit einer separat abgespielten Tonplatte.",
+      "question": "Wie wurde der aufgezeichnete Ton bei der ursprünglichen Vitaphone-Vorführung von „Der Jazzsänger“ wiedergegeben?",
+      "answers": [
+        "Von einer mit dem Projektor synchronisierten Schallplatte",
+        "Von einer optischen Tonspur direkt auf dem Filmstreifen",
+        "Von einer Magnettonspur am Rand des Filmstreifens",
+        "Von einer unabhängig laufenden Tonwalze hinter der Leinwand"
+      ],
+      "short": "Vitaphone koppelt den Filmprojektor mit einer separat abgespielten Tonplatte.",
+      "context": "Das Vitaphone-System verwendete einen separaten Plattenspieler, dessen Lauf mit dem Projektor gekoppelt war. Bild und Ton lagen damit auf verschiedenen Trägern. Die Synchronität konnte bei Fehlern im Filmtransport verloren gehen. Das Verfahren unterscheidet sich vom später durchgesetzten Lichtton, der die Toninformation unmittelbar auf dem Filmstreifen unterbringt.",
+      "sources": [
+        "moma",
+        "bpb",
+        "loc"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Film verbindet überwiegend stumme Dialoge mit Zwischentiteln und einzelnen aufgezeichneten Gesangs- und Sprachsequenzen.",
+      "question": "Welche Beschreibung trifft die ursprüngliche Tonfilmform von „Der Jazzsänger“ am besten?",
+      "answers": [
+        "Überwiegend stumme Dialoge mit Zwischentiteln, dazu einzelne Gesangs- und Sprachsequenzen",
+        "Durchgehend gesprochene Dialoge, unterbrochen von stummen Gesangsauftritten",
+        "Ein stummer Spielfilm, zu dem im Saal ein Sänger die Hauptfigur live vertonte",
+        "Eine vollständige Opernaufnahme ohne gesprochene Dialoge und ohne Zwischentitel"
+      ],
+      "short": "Der Film verbindet überwiegend stumme Dialoge mit Zwischentiteln und einzelnen aufgezeichneten Gesangs- und Sprachsequenzen.",
+      "context": "Der Film ist eine Mischform. Große Teile der Dialoghandlung bleiben stumm und werden mit Zwischentiteln vermittelt; an ausgewählten Stellen sind Al Jolsons Stimme und Gesang hörbar. Gerade der Wechsel macht die Stimme auffällig. Der Erfolg gab der Tonfilmumstellung großen Schub, obwohl bereits zuvor Filme mit aufgezeichnetem Ton existiert hatten.",
+      "sources": [
+        "moma",
+        "loc",
+        "bpb"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Jazzsänger wurde 1927 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Der Jazzsänger“ mit Al Jolson erstmals öffentlich gezeigt?",
+      "answers": [
+        "1927",
+        "1920",
+        "1924",
+        "1931"
+      ],
+      "short": "Der Jazzsänger wurde 1927 erstmals veröffentlicht.",
+      "context": "Die Premiere fand 1927 statt. Warner hatte das Vitaphone-Verfahren bereits 1926 bei „Don Juan“ für aufgezeichnete Musik und Geräusche eingesetzt. „Der Jazzsänger“ folgte somit auf praktische Vorarbeiten; die zusätzliche Präsenz einer singenden und sprechenden Hauptfigur machte den Übergang für das Publikum besonders eindrücklich.",
+      "sources": [
+        "afi",
+        "loc",
+        "bpb"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Alan Crosland führte Regie.",
+      "question": "Wer führte bei „Der Jazzsänger“ mit Al Jolson Regie?",
+      "answers": [
+        "Alan Crosland",
+        "Ernst Lubitsch",
+        "King Vidor",
+        "Frank Borzage"
+      ],
+      "short": "Alan Crosland führte Regie.",
+      "context": "Alan Crosland hatte mit „Don Juan“ bereits einen Spielfilm mit synchronisierter Vitaphone-Begleitung inszeniert. Beim „Jazzsänger“ kamen Gesang und kurze gesprochene Passagen hinzu. Seine Regie steht damit innerhalb einer Reihe praktischer Studioerfahrungen mit Ton, nicht am Beginn eines einzelnen voraussetzungslosen technischen Experiments.",
+      "sources": [
+        "afi",
+        "moma_programm",
+        "loc"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

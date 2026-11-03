@@ -1,0 +1,239 @@
+{
+  "id": "MUSIK-017",
+  "film_title_de": "Soul Men",
+  "film_title_original": "Soul Men",
+  "film_year": 2008,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Musikalische Roadkomödie mit zwei prominenten Hauptdarstellern, deren konkrete Geschichte eher Filmkennern vertraut ist.",
+  "selection_reason": "Die Wiederbegegnung ehemaliger Begleitsänger verbindet Soulgeschichte, gemeinsame Bühnenarbeit und einen lange ungelösten persönlichen Konflikt.",
+  "directors": [
+    "Malcolm D. Lee"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 2008; US-Kinostart am 7. November laut zeitgenössischem Veröffentlichungsbericht und Lee-Interview. Die im August zunächst angekündigte Novemberplanung ist kein früherer Start.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Roadkomödie. Der Film ist weder eine Fortsetzung von Soul Man noch eine nummerierte Verfilmung der Sam-&-Dave-Biografie.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Soul_Men",
+    "https://www.blackfilm.com/20081106/features/samljackson.shtml"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://en.wikipedia.org/wiki/Soul_Men",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung und vollständige Rollencredits, Land USA, Regie und Erscheinungsjahr; besonders persönliche Entzweiung und Cleos Einstieg."
+    },
+    "jackson": {
+      "url": "https://www.blackfilm.com/20081106/features/samljackson.shtml",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenes Interview mit Samuel L. Jackson vom 5. November 2008: Entstehung der Roadgeschichte, eigene Gesangs- und Tanzdarbietungen, Figuren und Arbeit mit Bernie Mac."
+    },
+    "lee": {
+      "url": "https://crperry84.wordpress.com/2009/02/05/interview-malcolm-d-lee-film-director/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenes Regieinterview: Start 7. November 2008, Apollo, Recherche im Stax Museum, Memphis-Drehorte und reale Soulmusiker Willie Hall, Skip Pitts und Ben Cauley in der House-of-Soul-Szene."
+    },
+    "nachruf": {
+      "url": "https://6abc.com/archive/6491283/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener AP-Bericht vom 5. November 2008: Tod von Mac und Hayes im August vor dem Kinostart, Widmung und Hayes als er selbst."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die ehemaligen Begleitsänger kommen für ein Gedenkkonzert ihres verstorbenen Frontmanns zusammen.",
+      "question": "Was bringt Louis (Samuel L. Jackson) und Floyd (Bernie Mac) in „Soul Men“ wieder zusammen?",
+      "answers": [
+        "Ein Gedenkkonzert für ihren verstorbenen früheren Frontmann",
+        "Ein Gesangswettbewerb für neu gegründete Gruppen",
+        "Die gemeinsame Aufnahme eines Werbejingles",
+        "Eine Tournee als Begleitband ihres noch lebenden Frontmanns"
+      ],
+      "short": "Die ehemaligen Begleitsänger kommen für ein Gedenkkonzert ihres verstorbenen Frontmanns zusammen.",
+      "context": "Louis (Samuel L. Jackson) und Floyd (Bernie Mac) waren die Begleitsänger von Marcus Hooks (John Legend). Dessen erfolgreiche Solokarriere hatte das Trio auseinandergeführt. Sein Tod schafft einen Anlass, wieder gemeinsam aufzutreten, beseitigt aber die alten Spannungen zwischen den beiden übrigen Männern noch nicht.",
+      "sources": [
+        "jackson",
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Das Gedenkkonzert findet im Apollo Theater in New York statt.",
+      "question": "Zu welchem Veranstaltungsort reisen die beiden Sänger in „Soul Men“ für ihren großen Auftritt?",
+      "answers": [
+        "Zum Apollo Theater in New York",
+        "Zum Ryman Auditorium in Nashville",
+        "Zum Fox Theatre in Detroit",
+        "Zum Orpheum Theatre in Memphis"
+      ],
+      "short": "Das Gedenkkonzert findet im Apollo Theater in New York statt.",
+      "context": "Das Apollo Theater ist das Ziel der Reise. Louis (Samuel L. Jackson) und Floyd (Bernie Mac) müssen zunächst wieder lernen, miteinander auf der Bühne zu stehen. Der Film verbindet den Weg zum prestigeträchtigen Konzert mit kleineren Auftritten, bei denen ihr Zusammenspiel erneut auf die Probe gestellt wird.",
+      "sources": [
+        "lee",
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Floyd hatte mit Louis’ damaliger Freundin geschlafen; der Vertrauensbruch belastet die Freundschaft.",
+      "question": "Welcher persönliche Vertrauensbruch belastet Louis (Samuel L. Jackson) und Floyd (Bernie Mac) in „Soul Men“?",
+      "answers": [
+        "Floyd hatte mit Louis’ damaliger Freundin geschlafen.",
+        "Louis hatte Floyds Anteil an den Tantiemen unterschlagen.",
+        "Floyd hatte einen Solovertrag heimlich in Louis’ Namen abgelehnt.",
+        "Louis hatte Floyds unveröffentlichtes Lied als eigenes verkauft."
+      ],
+      "short": "Floyd hatte mit Louis’ damaliger Freundin geschlafen; der Vertrauensbruch belastet die Freundschaft.",
+      "context": "Die alte Verletzung geht über berufliche Konkurrenz hinaus. Floyd (Bernie Mac) hatte Louis (Samuel L. Jackson) im Privatleben hintergangen. Das Wiedersehen bringt die Erinnerung daran zurück; gemeinsame musikalische Erfolge allein stellen das verlorene Vertrauen deshalb nicht automatisch wieder her.",
+      "sources": [
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Cleo schließt sich den beiden Männern als Sängerin an.",
+      "question": "Welche musikalische Aufgabe übernimmt Cleo (Sharon Leal) unterwegs in „Soul Men“?",
+      "answers": [
+        "Sie tritt als Leadsängerin mit den beiden Männern auf.",
+        "Sie arrangiert als Schlagzeugerin die Begleitrhythmen.",
+        "Sie leitet als Dirigentin ein neu angeworbenes Orchester.",
+        "Sie mischt als Tontechnikerin die Aufnahmen im Studio."
+      ],
+      "short": "Cleo schließt sich den beiden Männern als Sängerin an.",
+      "context": "Louis (Samuel L. Jackson) hört Cleo (Sharon Leal) am Klavier singen und erkennt ihr Talent. Ihr Einstieg verändert die Zusammensetzung der Gruppe: Neben die beiden älteren Begleitsänger tritt eine jüngere Stimme. Die Begegnung erhält später zusätzlich eine persönliche Bedeutung für Louis und Cleo.",
+      "sources": [
+        "film",
+        "lee"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Samuel L. Jackson und Bernie Mac übernahmen ihre Gesangs- und Tanzdarbietungen selbst.",
+      "question": "Wie wurden die musikalischen Originaldarbietungen der beiden Hauptfiguren in „Soul Men“ umgesetzt?",
+      "answers": [
+        "Samuel L. Jackson und Bernie Mac sangen und tanzten selbst.",
+        "Die Schauspieler tanzten zu neu eingesungenen Stimmen von Studiomusikern.",
+        "Die Gesangsstimmen stammten aus historischen Aufnahmen von Sam & Dave.",
+        "Musikerdoubles übernahmen die Bühnenbilder samt Gesang und Tanz."
+      ],
+      "short": "Samuel L. Jackson und Bernie Mac übernahmen ihre Gesangs- und Tanzdarbietungen selbst.",
+      "context": "Samuel L. Jackson und Bernie Mac sangen und tanzten für ihre Rollen selbst. Jackson zufolge brachte Macs Manager Steven Greener die ursprüngliche Idee ein. Gemeinsam mit Autoren entwickelten sie die Reise zweier zerstrittener Sänger nach New York. Louis (Samuel L. Jackson) fliegt nicht; deshalb müssen die beiden den Weg zusammen im Auto zurücklegen.",
+      "sources": [
+        "jackson"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Reale Musiker der Memphis-Soulgeschichte spielen in der House-of-Soul-Szene mit.",
+      "question": "Was verbindet die Musiker Willie Hall, Skip Pitts und Ben Cauley in der „House of Soul“-Szene von „Soul Men“?",
+      "answers": [
+        "Sie waren tatsächlich Teil der historischen Memphis-Soulszene.",
+        "Sie hatten gemeinsam die Songs der fiktiven Band neu komponiert.",
+        "Sie waren die Gesangsdoubles für die drei Hauptdarsteller.",
+        "Sie bildeten ursprünglich ein eigenständiges britisches Soultrio."
+      ],
+      "short": "Reale Musiker der Memphis-Soulgeschichte spielen in der House-of-Soul-Szene mit.",
+      "context": "Malcolm D. Lee nennt die drei Musiker im Interview als bewusste Verbindung zur realen Soulgeschichte. Willie Hall und Skip Pitts hatten an Aufnahmen von Isaac Hayes mitgewirkt; Ben Cauley war Mitglied der Bar-Kays. Ihr Auftritt begleitet die Darbietung von „Do Your Thing“ und würdigt Musiker hinter dem historischen Klang.",
+      "sources": [
+        "lee"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Soul Men wurde 2008 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Soul Men“ mit Samuel L. Jackson und Bernie Mac erstmals?",
+      "answers": [
+        "2008",
+        "2002",
+        "2005",
+        "2012"
+      ],
+      "short": "Soul Men wurde 2008 erstmals veröffentlicht.",
+      "context": "„Soul Men“ kam im November 2008 ins Kino. Bernie Mac und Isaac Hayes waren bereits im August desselben Jahres gestorben. Der Film erhielt dadurch noch vor seinem Start eine zusätzliche Bedeutung als Erinnerung an beide; am Ende enthält er eine ausdrückliche Widmung an die verstorbenen Mitwirkenden.",
+      "sources": [
+        "nachruf",
+        "lee"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Malcolm D. Lee führte Regie.",
+      "question": "Wer führte bei „Soul Men“ Regie?",
+      "answers": [
+        "Malcolm D. Lee",
+        "Tim Story",
+        "George Tillman Jr.",
+        "F. Gary Gray"
+      ],
+      "short": "Malcolm D. Lee führte Regie.",
+      "context": "Malcolm D. Lee recherchierte für den Film unter anderem im Stax Museum und beschäftigte sich mit Musik- und Roadfilmen. Im Interview beschreibt er, weshalb er an Originalschauplätzen in Memphis drehen wollte: Die Stadt sollte als Herkunftsort der Figuren und als Ort der Soulgeschichte im Film erkennbar bleiben.",
+      "sources": [
+        "lee"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

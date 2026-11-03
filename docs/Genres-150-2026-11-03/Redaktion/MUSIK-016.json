@@ -1,0 +1,255 @@
+{
+  "id": "MUSIK-016",
+  "film_title_de": "Bootmen",
+  "film_title_original": "Bootmen",
+  "film_year": 2000,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 4,
+  "familiarity_reason": "Australischer Tanzfilm, der eher über Tap Dogs und frühe Rollen seiner Darsteller als als breit bekannter Kinotitel präsent ist.",
+  "selection_reason": "Verbindet industriellen Steptanz mit Arbeitermilieu, Brüderkonflikt und einer selbst organisierten Aufführung.",
+  "directors": [
+    "Dein Perry"
+  ],
+  "production_countries": [
+    "Australien",
+    "USA"
+  ],
+  "release_note": "Erstjahr 2000; Screen Australia verzeichnet Montreal 2000, der australische Kinostart war am 5. Oktober, der US-Start folgte am 6. Oktober.",
+  "director_note": "",
+  "country_note": "ACMI ordnet den Film Australien zu; AFI nennt ausdrücklich Australien/USA. Drehorte Sydney und Newcastle sind davon zu unterscheiden.",
+  "series": null,
+  "series_note": "Eigenständiger Spielfilm mit Bezug auf Tap Dogs. Das Bühnenstück und seine Tourneen sind keine nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.tapdogs.com/the-show/"
+  ],
+  "sources": {
+    "australia": {
+      "url": "https://www.screenaustralia.gov.au/screen-guide/bootmen-14606/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener offizieller Katalogindex: Filmjahr, Regie, Newcastle, Stahlarbeiter, Steptanzgruppe, Credits und Festivalvorführung 2000."
+    },
+    "acmi": {
+      "url": "https://www.acmi.net.au/works/92570--bootmen-dvd/",
+      "accessed_on": "2026-11-03",
+      "supports": "Museumskatalog: Brüder im Stahlwerk von Newcastle, Sydney, Linda und lose Bezüge zu Perrys eigener Tanzlaufbahn."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/61065-BOOTMEN",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Katalogindex: Länder Australien/USA, Credits, Jahr und US-Start."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Bootmen",
+      "accessed_on": "2026-11-03",
+      "supports": "Figurencredits, Lindas Schwangerschaft, Benefiz für Umschulungen und weitere Handlung."
+    },
+    "kritik": {
+      "url": "https://www.rogerebert.com/reviews/bootmen-2000",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Kritik: Metallplatten an Arbeitsstiefeln, Stahlflächen und industrielle Steptanzgestaltung."
+    },
+    "tap": {
+      "url": "https://www.tapdogs.com/the-show/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Bühnenhistorie: Tap Dogs, industrieller Hintergrund des Schöpfers, Premiere 1995 und Filmbezug."
+    },
+    "biografie": {
+      "url": "https://www.tapdogs.com/the-show/creative-team/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Biografie: Perry als Regisseur/Choreograf/Executive Producer von Bootmen, Veröffentlichung 2000 und Tap-Sequenz bei der Olympia-Eröffnung 2000."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Sean möchte professionell Stepptanz betreiben.",
+      "question": "Welche Tanzform steht im Mittelpunkt von Seans (Adam Garcia) Traum in „Bootmen“?",
+      "answers": [
+        "Stepptanz",
+        "Ballett",
+        "Salsa",
+        "Breakdance"
+      ],
+      "short": "Sean möchte professionell Stepptanz betreiben.",
+      "context": "Sean (Adam Garcia) möchte aus dem vorgezeichneten Arbeitsleben ausbrechen und seine tänzerischen Fähigkeiten zum Beruf machen. Sein Ehrgeiz führt ihn zunächst nach Sydney. Nach Rückschlägen kehrt er jedoch in die Heimat zurück und sucht dort mit einer eigenen Gruppe nach einer anderen Form des Auftretens.",
+      "sources": [
+        "australia",
+        "acmi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Sean und Mitchell stammen aus dem Stahlwerksmilieu von Newcastle.",
+      "question": "Welche Arbeitswelt prägt das Umfeld der Brüder Sean (Adam Garcia) und Mitchell (Sam Worthington) in „Bootmen“?",
+      "answers": [
+        "Das Stahlwerk von Newcastle",
+        "Die Werften von Fremantle",
+        "Die Weinberge des Hunter Valley",
+        "Die Fischereihäfen Tasmaniens"
+      ],
+      "short": "Sean und Mitchell stammen aus dem Stahlwerksmilieu von Newcastle.",
+      "context": "Sean (Adam Garcia) und Mitchell (Sam Worthington) arbeiten im Stahlwerk. Beide möchten dieser Umgebung entkommen, stellen sich ihre Zukunft aber unterschiedlich vor. Die Arbeitswelt bleibt auch für Seans spätere Bühnenidee wichtig: Ihr körperlicher Einsatz und ihre Materialien gehen in seine Tanzgestaltung ein.",
+      "sources": [
+        "acmi",
+        "tap"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Linda erwartet nach Seans Abwesenheit ein Kind von Mitchell.",
+      "question": "Welche Nachricht belastet Sean (Adam Garcia) nach seiner Rückkehr in „Bootmen“ besonders?",
+      "answers": [
+        "Linda erwartet ein Kind von seinem Bruder Mitchell.",
+        "Linda und Mitchell haben während seiner Abwesenheit geheiratet.",
+        "Linda hat wegen Mitchells Schulden ihren Friseursalon verkaufen müssen.",
+        "Mitchell und Linda wollen gemeinsam nach Neuseeland auswandern."
+      ],
+      "short": "Linda erwartet nach Seans Abwesenheit ein Kind von Mitchell.",
+      "context": "Sean (Adam Garcia) hatte sich in Linda (Sophie Lee) verliebt. Während seiner Abwesenheit kommt sie Mitchell (Sam Worthington) näher. Die Schwangerschaft verschärft den Brüderkonflikt und lässt Sean sich zunächst von beiden zurückziehen. Seine Rückkehr stellt deshalb keine einfache Wiederaufnahme des früheren Lebens dar.",
+      "sources": [
+        "handlung",
+        "acmi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Benefizshow soll Geld für die Umschulung der von der Schließung betroffenen Arbeiter bringen.",
+      "question": "Wofür will Sean (Adam Garcia) mit der großen Aufführung in „Bootmen“ Geld sammeln?",
+      "answers": [
+        "Für die Umschulung der von der Schließung betroffenen Arbeiter",
+        "Für die Übernahme des Stahlwerks durch die Belegschaft",
+        "Für die Renovierung des örtlichen Jugendzentrums",
+        "Für die medizinische Versorgung eines verletzten Kollegen"
+      ],
+      "short": "Die Benefizshow soll Geld für die Umschulung der von der Schließung betroffenen Arbeiter bringen.",
+      "context": "Die drohende Schließung nimmt dem Umfeld die bisherige berufliche Grundlage. Sean (Adam Garcia) plant seine Show als Hilfe für neue Ausbildungsmöglichkeiten. Der Tanz wird dadurch nicht nur zu seinem persönlichen Ausweg, sondern auch zu einem Vorhaben, an dem die Arbeitergemeinschaft Anteil haben kann.",
+      "sources": [
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Arbeitsstiefel mit Metallplatten und Stahlflächen erzeugen den industriellen Tanzklang.",
+      "question": "Wie erzeugen die Tänzer in „Bootmen“ den markanten industriellen Klang ihrer Aufführung?",
+      "answers": [
+        "Mit Metallplatten an Arbeitsstiefeln auf Stahlflächen",
+        "Mit hölzernen Absätzen auf sandbestreuten Brettern",
+        "Mit Glöckchen an den Stiefeln auf einer glatten Tanzfläche",
+        "Mit Kontaktmikrofonen an Ledersohlen auf einem weichen Boden"
+      ],
+      "short": "Arbeitsstiefel mit Metallplatten und Stahlflächen erzeugen den industriellen Tanzklang.",
+      "context": "Die Arbeitsstiefel werden mit Metallplatten versehen; die Tänzer treten damit auf Stahl. Bewegung und Schlaggeräusch sind unmittelbar verbunden. Die Form greift die Materialien der industriellen Umgebung auf, statt die Herkunft der Gruppe hinter einer eleganten, vom Arbeitsalltag abgesetzten Bühnenwelt zu verbergen.",
+      "sources": [
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Film knüpft an Dein Perrys Bühnenshow Tap Dogs an.",
+      "question": "An welche Bühnenshow knüpft „Bootmen“ an?",
+      "answers": [
+        "Tap Dogs",
+        "Riverdance",
+        "Stomp",
+        "Hot Shoe Shuffle"
+      ],
+      "short": "Der Film knüpft an Dein Perrys Bühnenshow Tap Dogs an.",
+      "context": "Dein Perry hatte „Tap Dogs“ aus seinem industriellen Hintergrund und der Arbeit mit Steptänzern entwickelt. Die Show debütierte 1995 beim Sydney Festival. „Bootmen“ überführt diese Verbindung von Arbeiterwelt und Tanz in eine erzählte Geschichte mit Figuren, Beziehungen und einem gemeinsamen Auftrittsziel.",
+      "sources": [
+        "tap"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Bootmen wurde 2000 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Bootmen“ mit Adam Garcia und Sam Worthington erstmals?",
+      "answers": [
+        "2000",
+        "1994",
+        "1997",
+        "2005"
+      ],
+      "short": "Bootmen wurde 2000 erstmals veröffentlicht.",
+      "context": "„Bootmen“ erschien 2000. Im selben Jahr gestaltete Dein Perry auch eine große Steptanzsequenz für die Eröffnung der Olympischen Spiele in Sydney. Seine Verbindung von industrieller Arbeitsästhetik und Tanz war damit sowohl im Spielfilm als auch bei einem internationalen Liveereignis sichtbar.",
+      "sources": [
+        "australia",
+        "biografie"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Dein Perry führte Regie.",
+      "question": "Wer führte bei „Bootmen“ Regie?",
+      "answers": [
+        "Dein Perry",
+        "Baz Luhrmann",
+        "Stephan Elliott",
+        "P. J. Hogan"
+      ],
+      "short": "Dein Perry führte Regie.",
+      "context": "Dein Perry brachte eigene Erfahrung als Tänzer und Choreograf in den Film ein. Die Handlung ist lose an seine frühe Laufbahn angelehnt. Sean (Adam Garcia) ist dennoch eine gespielte Filmfigur: Der Konflikt zwischen Brüdern und die Liebesgeschichte gehören zur dramatischen Ausarbeitung.",
+      "sources": [
+        "acmi",
+        "biografie"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

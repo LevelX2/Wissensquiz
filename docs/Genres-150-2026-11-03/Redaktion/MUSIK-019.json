@@ -1,0 +1,249 @@
+{
+  "id": "MUSIK-019",
+  "film_title_de": "Die Spider Murphy Gang",
+  "film_title_original": "Die Spider Murphy Gang",
+  "film_year": 1983,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 4,
+  "familiarity_reason": "Die Band und ihre Hits sind bekannter als diese frühe Spielfilmbearbeitung ihrer Laufbahn.",
+  "selection_reason": "Eine selbst gespielte Bandgeschichte verknüpft bairischen Rock ’n’ Roll mit Münchner Kneipenmilieu und dem Weg zur ersten eigenen Platte.",
+  "directors": [
+    "Georg Kostya"
+  ],
+  "production_countries": [
+    "Deutschland"
+  ],
+  "release_note": "Filmportal belegt die Uraufführung am 6. Oktober 1983; der reguläre Kinostart wird bei Kino.de mit 7. Oktober angegeben. Beide liegen im Erstjahr 1983.",
+  "director_note": "Filmportal nennt Georg Kostya allein als Regisseur. Michael Verhoeven wirkte an Drehbuch und Produktion mit; daraus folgt keine gemeinsame Regie.",
+  "country_note": "Bundesrepublik Deutschland zur Produktionszeit.",
+  "series": null,
+  "series_note": "Eigenständiger Spielfilm. Spätere Konzertaufzeichnungen und die Dokumentation Glory Days of Rock ’n’ Roll sind keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://www.filmportal.de/film/die-spider-murphy-gang_6fc0b4401daf4b60a3cfc44be981b344",
+    "https://spider-murphy-gang.de/resources/Band-History-Spider-Murphy-Gang-2016.pdf"
+  ],
+  "sources": {
+    "filmportal": {
+      "url": "https://www.filmportal.de/film/die-spider-murphy-gang_6fc0b4401daf4b60a3cfc44be981b344",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene Credits, Originaltitel, Uraufführung, Hans Brenner als Kneipenwirt Joschko, Bandmitglieder, Sentana/Amazonas und Produzenten Michael Verhoeven/Senta Berger."
+    },
+    "band": {
+      "url": "https://spider-murphy-gang.de/resources/Band-History-Spider-Murphy-Gang-2016.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Bandchronik: frühe Selbstproduktion, Kostyas Verbindung zur Band, Hitdurchbruch 1981, Kinofilm und DDR-Tournee 1983; spätere DVD-Sammlung getrennt."
+    },
+    "kino": {
+      "url": "https://www.kino.de/film/die-spider-murphy-gang-1983/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Inhaltsdarstellung: Münchner Handlung, bairischer Rock, Unterstützung Joschkos und die Musiker als sie selbst; regulärer Start 7. Oktober 1983."
+    },
+    "handlung": {
+      "url": "https://de.wikipedia.org/wiki/Die_Spider_Murphy_Gang",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung: eigene Mundartmusik statt US-Cover, finanzielle Probleme und Günthers Bankberuf."
+    },
+    "sichtung": {
+      "url": "https://wortvogel.de/2022/01/filmverbrechen-fotostory-spider-murphy-gang-der-film-oder-die-beatles-von-bogenhausen/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene szenenweise Sichtungsbeschreibung mit Standbildern: Bankarbeit, fiktionalisierte Selbstdarstellung, Joschkos Kneipe/Managerrolle und Kühlkeller als kostenpflichtiger Probenraum. Wertungen des Autors nicht als Fakten übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Bandgeschichte spielt vor allem im Münchner Milieu.",
+      "question": "Welche Stadt prägt die Bandgeschichte in „Die Spider Murphy Gang“?",
+      "answers": [
+        "München",
+        "Hamburg",
+        "Köln",
+        "West-Berlin"
+      ],
+      "short": "Die Bandgeschichte spielt vor allem im Münchner Milieu.",
+      "context": "Die Musiker suchen ihre Chance in München. Kneipen, kleine Auftrittsorte und das lokale Umfeld bestimmen den Weg zum Erfolg. Das Mundartprojekt soll zwar über Bayern hinaus ankommen, entwickelt sich im Film jedoch zunächst aus einer konkreten städtischen Szene und ihren begrenzten Möglichkeiten.",
+      "sources": [
+        "kino",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Musiker wollen Rock ’n’ Roll mit bairischen Texten durchsetzen.",
+      "question": "Welche musikalische Idee wollen die Musiker in „Die Spider Murphy Gang“ gegen Widerstände durchsetzen?",
+      "answers": [
+        "Rock ’n’ Roll mit bairischen Texten",
+        "Britischen Punk mit englischen Protesttexten",
+        "Italienische Schlager mit großem Orchester",
+        "Elektronischen Synthiepop mit französischen Texten"
+      ],
+      "short": "Die Musiker wollen Rock ’n’ Roll mit bairischen Texten durchsetzen.",
+      "context": "Die Gruppe möchte nicht bei beliebigen amerikanischen Covernummern bleiben. Eigene Musik in bairischer Mundart trifft zunächst auf Zweifel an ihrer kommerziellen Tragfähigkeit. Der Konflikt besteht deshalb nicht darin, ob die Musiker spielen können, sondern ob ihr eigener sprachlicher und musikalischer Stil ein Publikum findet.",
+      "sources": [
+        "handlung",
+        "kino"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Günther arbeitet anfangs als Bankkaufmann.",
+      "question": "Welchem bürgerlichen Beruf geht Günther (Günther Sigl) zu Beginn von „Die Spider Murphy Gang“ nach?",
+      "answers": [
+        "Bankkaufmann",
+        "Versicherungsvertreter",
+        "Buchhändler",
+        "Autoverkäufer"
+      ],
+      "short": "Günther arbeitet anfangs als Bankkaufmann.",
+      "context": "Günther (Günther Sigl) zählt in der Bank Geld, beschäftigt sich gedanklich aber bereits mit Musik und eigenen Texten. Sein geregelter Arbeitsplatz steht dem unsicheren Bandprojekt gegenüber. Die Figur greift dabei einen realen biografischen Bezug auf: Auch Günther Sigl hatte eine Bankausbildung gemacht.",
+      "sources": [
+        "sichtung",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Kneipenwirt Joschko unterstützt die Gruppe und wird ihr Manager.",
+      "question": "Wer wird in „Die Spider Murphy Gang“ zum geschäftstüchtigen Förderer der jungen Band?",
+      "answers": [
+        "Der Kneipenwirt Joschko",
+        "Ein Plattenhändler aus dem Stadtzentrum",
+        "Ein Referent der städtischen Kulturverwaltung",
+        "Ein Redakteur einer regionalen Rundfunksendung"
+      ],
+      "short": "Kneipenwirt Joschko unterstützt die Gruppe und wird ihr Manager.",
+      "context": "Joschko (Hans Brenner) verschafft den Musikern zunächst einen Auftritt in seinem Lokal. Als er die Reaktion des Publikums erlebt, erkennt er eine geschäftliche Chance und übernimmt die Managerrolle. Seine Unterstützung ist damit eng mit eigenen wirtschaftlichen Interessen verbunden.",
+      "sources": [
+        "kino",
+        "sichtung",
+        "filmportal"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die echten Bandmitglieder spielen fiktionalisierte Fassungen ihrer selbst.",
+      "question": "Wie sind die vier zentralen Musikerrollen in „Die Spider Murphy Gang“ besetzt?",
+      "answers": [
+        "Die echten Bandmitglieder spielen Fassungen ihrer selbst.",
+        "Vier Nachwuchsschauspieler verkörpern die Band ohne eigene Musikauftritte.",
+        "Andere Rockmusiker spielen die Band unter erfundenen Namen.",
+        "Archivaufnahmen ersetzen die Musiker in den erzählten Szenen."
+      ],
+      "short": "Die echten Bandmitglieder spielen fiktionalisierte Fassungen ihrer selbst.",
+      "context": "Günther Sigl, Michael Busse, Franz Trojan und Barny Murphy stehen selbst vor der Kamera. Ihre Anwesenheit macht aus dem Film dennoch keine reine Dokumentation. Die erzählte Laufbahn verbindet autobiografische Bezüge mit gespielten Situationen, Nebenfiguren und einer komischen Ausgestaltung des Aufstiegs.",
+      "sources": [
+        "kino",
+        "filmportal",
+        "sichtung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Joschko vermietet der Band einen Kühlkeller als Probenraum.",
+      "question": "Welchen ungewöhnlichen Raum stellt Joschko (Hans Brenner) der Band in „Die Spider Murphy Gang“ zum Proben zur Verfügung?",
+      "answers": [
+        "Seinen Kühlkeller",
+        "Den stillgelegten Kinosaal nebenan",
+        "Eine ausgeräumte Bankfiliale",
+        "Den Dachboden eines Opernhauses"
+      ],
+      "short": "Joschko vermietet der Band einen Kühlkeller als Probenraum.",
+      "context": "Joschko (Hans Brenner) verlangt für den Kühlkeller eine monatliche Miete. Der neue Raum löst das Platzproblem nur auf eigenwillige Weise: Die Kälte und die Anlieferung von Eis werden Teil der komischen Probesituationen. Der scheinbare Förderer zieht somit selbst aus der Improvisation der Band noch Einnahmen.",
+      "sources": [
+        "sichtung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Spielfilm wurde 1983 erstmals veröffentlicht.",
+      "question": "In welchem Jahr kam „Die Spider Murphy Gang“ erstmals ins Kino?",
+      "answers": [
+        "1983",
+        "1977",
+        "1980",
+        "1988"
+      ],
+      "short": "Der Spielfilm wurde 1983 erstmals veröffentlicht.",
+      "context": "Der Kinofilm erschien 1983, zwei Jahre nach dem großen Durchbruch mit „Skandal im Sperrbezirk“. Die offizielle Bandchronik verzeichnet für 1983 außerdem eine DDR-Tournee und eine Live-LP. Der Film entstand also während der aktuellen Erfolgsphase der Gruppe, nicht als viel späterer Jubiläumsrückblick.",
+      "sources": [
+        "filmportal",
+        "band"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Georg Kostya führte Regie.",
+      "question": "Wer führte bei „Die Spider Murphy Gang“ Regie?",
+      "answers": [
+        "Georg Kostya",
+        "Michael Verhoeven",
+        "Franz Xaver Bogner",
+        "Klaus Lemke"
+      ],
+      "short": "Georg Kostya führte Regie.",
+      "context": "Georg Kostya war der Band bereits aus der Zeit ihrer frühen Münchner Auftritte verbunden. Die offizielle Chronik nennt ihn als Rundfunk- und Fernsehmoderator, der auf die selbst produzierte erste Platte aufmerksam wurde. Mit der Filmregie führte er diese frühere Förderung in einem anderen Medium weiter.",
+      "sources": [
+        "filmportal",
+        "band"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
