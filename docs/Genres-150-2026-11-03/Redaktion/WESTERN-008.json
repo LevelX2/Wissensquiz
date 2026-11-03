@@ -1,0 +1,239 @@
+{
+  "id": "WESTERN-008",
+  "film_title_de": "Der große Bluff",
+  "film_title_original": "Destry Rides Again",
+  "film_year": 1939,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Klassiker mit zwei sehr bekannten Stars, heute aber eher als Genre- und Dietrich-Film vertraut; vorläufige Bekanntheit 3 redaktionell bestätigt.",
+  "selection_reason": "Die Westernkomödie macht den waffenlosen Gesetzeshüter und eine aktive Saloonfigur zu Trägern einer Geschichte über Korruption und Gewalt.",
+  "directors": [
+    "George Marshall"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt den allgemeinen Start am 29. Dezember 1939 und einen früheren New Yorker Start in der Woche des 30. November 1939. Erstjahr 1939.",
+  "director_note": "George Marshall inszenierte diese Fassung; frühere und spätere Adaptionen sind eigenständige Filme.",
+  "country_note": "USA nach AFI und Criterion.",
+  "series": null,
+  "series_note": "Die frühere Fassung Destry Rides Again (1932) ist eine andere Bearbeitung des Max-Brand-Stoffs, keine Vorgeschichte dieser Handlung. Keine nummerierte Fortsetzungsfolge dieser Fassung belegt.",
+  "series_sources": [
+    "https://www.criterion.com/current/posts/6905-destry-rides-again-riding-high",
+    "https://catalog.afi.com/Film/5040-DESTRY-RIDESAGAIN"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/5040-DESTRY-RIDESAGAIN",
+      "accessed_on": "2026-11-03",
+      "supports": "Komplette Synopsis zu Betrug, Washs Ernennung, Destrys Gewaltverzicht, Mordermittlung und Frenchys Eingreifen; Cast, Credits, Erstjahr, Land und Liedcredits."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/29002-destry-rides-again",
+      "accessed_on": "2026-11-03",
+      "supports": "Jahr, USA, Marshall und Besetzung; Komödien-Western-Einordnung."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/6905-destry-rides-again-riding-high",
+      "accessed_on": "2026-11-03",
+      "supports": "Farran Smith Nehme: Dietrichs Comeback, Stewarts erster Western, Verbindung von Komödie und Todesfällen sowie frühere und spätere Stoffbearbeitungen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Destry trägt bei seiner Ankunft als Deputy bewusst keine Schusswaffe.",
+      "question": "Was überrascht die Einwohner von Bottleneck am neu eintreffenden Deputy Tom Destry (James Stewart) in „Der große Bluff“?",
+      "answers": [
+        "Er trägt keine Schusswaffe.",
+        "Er verlangt sein Gehalt ausschließlich in Goldstaub.",
+        "Er lässt sich von einer Kavallerieeskorte begleiten.",
+        "Er verweigert jede Zusammenarbeit mit dem Sheriff."
+      ],
+      "short": "Der Sohn eines berühmten Revolvermanns kommt ohne Waffe.",
+      "context": "Der Ruf seines Vaters weckt die Erwartung eines neuen Schießhelden. Tom Destry (James Stewart) setzt zunächst auf Geduld, Geschichten und Ermittlungen. Seine freundliche Art wird für Schwäche gehalten; die Spannung entsteht gerade daraus, ob Recht ohne die gewohnte Einschüchterung durch Waffen durchgesetzt werden kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Marlene Dietrich spielt die Saloonkünstlerin Frenchy.",
+      "question": "Wer spielt in „Der große Bluff“ Frenchy, die resolute Sängerin im Last Chance Saloon?",
+      "answers": [
+        "Marlene Dietrich",
+        "Mae West",
+        "Carole Lombard",
+        "Jean Arthur"
+      ],
+      "short": "Marlene Dietrich spielt Frenchy.",
+      "context": "Frenchy gehört zunächst zum Umfeld des Saloonbesitzers Kent (Brian Donlevy). Marlene Dietrich verbindet Gesang, raue Komik und ihre Beziehung zu Destry zu einer aktiven Figur. Der Erfolg beendete eine schwierige Karrierephase, in der ihre Zugkraft öffentlich bezweifelt worden war.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Kent lässt den Trinker Wash als scheinbar ungefährlichen Sheriff einsetzen.",
+      "question": "Warum begrüßt Kent (Brian Donlevy) in „Der große Bluff“ zunächst die Ernennung von Washington Dimsdale (Charles Winninger) zum Sheriff?",
+      "answers": [
+        "Er hält den bekannten Trinker für harmlos und lenkbar.",
+        "Er erwartet von ihm militärische Hilfe gegen die Rancher.",
+        "Er kennt ihn als gewalttätigen Gegner von Tom Destry.",
+        "Er hofft auf dessen Einfluss bei einem Bundesrichter."
+      ],
+      "short": "Wash soll als vermeintliche Witzfigur die Korruption unangetastet lassen.",
+      "context": "Nach dem Verschwinden des bisherigen Sheriffs erhält Washington Dimsdale (Charles Winninger) das Amt als Hohn. Er wird jedoch nüchtern und ruft Tom Destry (James Stewart) zu Hilfe. Die Stadtführung hat gerade den Mann unterschätzt, der ihren Plan einer folgenlosen Scheinbesetzung durchkreuzt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Kent erschleicht Ranchland durch ein manipuliertes Kartenspiel für eine kostenpflichtige Passage.",
+      "question": "Wozu dient Kents (Brian Donlevy) betrügerisches Kartenspiel um Ranchland in „Der große Bluff“?",
+      "answers": [
+        "Er will das Land kontrollieren und für die Durchfahrt eine Gebühr erheben.",
+        "Er will dort ein Fort bauen und dessen Sold übernehmen.",
+        "Er will die Ranch als Sicherheit für Destrys Ernennung hinterlegen.",
+        "Er will das Land dem Sheriff für dessen Schweigen schenken."
+      ],
+      "short": "Der Landbetrug soll eine gebührenpflichtige Passage ermöglichen.",
+      "context": "Die Wildwest-Unordnung verdeckt ein konkretes Geschäftsinteresse. Kent (Brian Donlevy) lässt einen Rancher beim Kartenspiel verlieren und gewinnt so Zugriff auf dessen Boden. Als der Sheriff nachfragt, verschwindet er. Destrys Untersuchung betrifft daher nicht nur schlechtes Benehmen im Saloon, sondern die Verbindung von Besitzraub und Mord.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Frenchy mobilisiert die Frauen mit Haushaltsgerät zum Eingreifen in die Schießerei.",
+      "question": "Wie greift Frenchy (Marlene Dietrich) in „Der große Bluff“ in die bevorstehende Schießerei ein?",
+      "answers": [
+        "Sie führt die Frauen mit Nudelrollen in den Saloon.",
+        "Sie hält die Männer durch ein fingiertes Telegramm der Kavallerie zurück.",
+        "Sie verriegelt mit den Frauen den Waffenschrank des Gerichts.",
+        "Sie lässt den Saloon räumen und als Lazarett kennzeichnen."
+      ],
+      "short": "Die Frauen stürmen mit Nudelrollen den Saloon.",
+      "context": "Der Tod von Washington Dimsdale (Charles Winninger) bringt Tom Destry (James Stewart) dazu, doch Waffen anzulegen. Frenchy (Marlene Dietrich) mobilisiert nun die bisher beiseitestehenden Frauen. Das handfeste komische Eingreifen verändert die Situation, verhindert aber nicht alle Opfer: Frenchy schützt Destry vor einer Kugel und stirbt selbst.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "See What the Boys in the Back Room Will Have wurde aus dem Film zu einem Dietrich-Lied ihres späteren Repertoires.",
+      "question": "Welches in „Der große Bluff“ gesungene Lied übernahm Marlene Dietrich später regelmäßig in ihr Bühnenrepertoire?",
+      "answers": [
+        "See What the Boys in the Back Room Will Have",
+        "Falling in Love Again",
+        "Lili Marleen",
+        "The Laziest Gal in Town"
+      ],
+      "short": "„See What the Boys in the Back Room Will Have“ blieb mit Dietrich verbunden.",
+      "context": "Das Lied stammt von Friedrich Hollaender und Frank Loesser. Es gehört zur öffentlichen, selbstbewussten Seite von Frenchy (Marlene Dietrich), bevor der Film sie im Finale anders handeln lässt. Dietrich sang es laut AFI auch später in Nachtclubs und bei Auftritten vor Truppen; die Nummer lebte über den Western hinaus weiter.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "criterion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Destry Rides Again mit Stewart und Dietrich erschien 1939.",
+      "question": "In welchem Jahr wurde „Der große Bluff“ mit James Stewart und Marlene Dietrich erstmals veröffentlicht?",
+      "answers": [
+        "1939",
+        "1932",
+        "1946",
+        "1954"
+      ],
+      "short": "Diese Fassung erschien 1939.",
+      "context": "1939 war auch das Jahr von „Mr. Smith geht nach Washington“. James Stewart trat mit „Der große Bluff“ erstmals in einem Western auf; seinen nächsten großen Genreabschnitt eröffnete erst 1950 „Winchester ’73“. Der sanfte Deputy und die späteren angespannten Westernfiguren gehören damit in deutlich verschiedene Karrierephasen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "George Marshall führte bei Destry Rides Again von 1939 Regie.",
+      "question": "Wer führte bei „Der große Bluff“ mit James Stewart und Marlene Dietrich Regie?",
+      "answers": [
+        "George Marshall",
+        "Preston Sturges",
+        "Mitchell Leisen",
+        "Frank Capra"
+      ],
+      "short": "Der Film wurde von George Marshall inszeniert.",
+      "context": "Die Komödie hebt die Gefährlichkeit von Bottleneck nicht auf. Nach Prügeleien und trockenen Geschichten sterben mehrere sympathische Figuren. Gerade die Verbindung dieser Töne macht Marshalls Film wirkungsvoll: Der unbewaffnete Deputy muss sich in einer Welt bewähren, deren Gewalttätigkeit sich nicht als bloßer Scherz erledigen lässt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    }
+  ]
+}

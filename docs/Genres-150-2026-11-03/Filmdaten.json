@@ -1987,6 +1987,301 @@
       "reference_question_id": "G150-20261103-KOMOEDIE-003-L1",
       "year_question_id": "G150-20261103-KOMOEDIE-003-Y",
       "director_question_id": "G150-20261103-KOMOEDIE-003-D"
+    },
+    {
+      "id": "WESTERN-004",
+      "film_title_de": "Die Farm der Besessenen",
+      "film_title_original": "The Furies",
+      "film_year": 1950,
+      "subdomain": "Western",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein wichtiger Mann-Western mit Barbara Stanwyck, dessen Familienkonflikt vor allem einem filminteressierten Publikum vertraut sein dürfte; redaktionelle Einschätzung.",
+      "directors": [
+        "Anthony Mann"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "AFI nennt die Premiere in Tucson am 21. Juli 1950 und den allgemeinen Start im August 1950. Erstjahr deshalb 1950.",
+      "director_note": "Anthony Mann ist der Regisseur des Films; die Romanvorlage von Niven Busch ist keine Shakespeare-Verfilmung, auch wenn Robin Wood Lear-Bezüge analysiert.",
+      "country_note": "USA nach AFI und Criterion.",
+      "series": null,
+      "series_note": "Eigenständige Romanverfilmung. Die Zusammenarbeit mit Anthony Mann bildet keine nummerierte Filmfolge.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/26328-THE-FURIES",
+        "https://www.criterion.com/films/596-the-furies"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26328-THE-FURIES",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis zu Mitgiftgeschäft, Herrera-Konflikt, Schere, Schuldscheinen und Ende; Cast, Credits, Land und Tucson-Premiere."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/596-the-furies",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Jahr, Land, Rollen, Romanvorlage und Besitzkonflikt."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/521",
+          "accessed_on": "2026-11-03",
+          "supports": "Robin Woods Analyse der Eröffnung mit Kleid und Schmuck der Mutter, des Scherenmotivs, der Figur Juan und von Manns drei Western des Jahres 1950."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-004-L1",
+      "year_question_id": "G150-20261103-WESTERN-004-Y",
+      "director_question_id": "G150-20261103-WESTERN-004-D"
+    },
+    {
+      "id": "WESTERN-005",
+      "film_title_de": "Verfolgt",
+      "film_title_original": "Pursued",
+      "film_year": 1947,
+      "subdomain": "Western",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Der Noir-Western mit Robert Mitchum ist ein Werk für Filmkenner, kein ähnlich geläufiger Publikumstitel wie seine großen Kriminalfilme; redaktionelle Einordnung.",
+      "directors": [
+        "Raoul Walsh"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "AFI verzeichnet den 2. März 1947 als Veröffentlichung; BFI bestätigt 1947.",
+      "director_note": "Raoul Walsh ist der Regisseur; Niven Busch schrieb das Originaldrehbuch.",
+      "country_note": "USA laut AFI und BFI.",
+      "series": null,
+      "series_note": "Eigenständiges Originaldrehbuch ohne ausgewiesene Fortsetzungsfolge.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/25304-PURSUED"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/25304-PURSUED",
+          "accessed_on": "2026-11-03",
+          "supports": "Komplette Synopsis: Aufnahme durch Ma, Thor, Münzwürfe, Adams Tod, Hochzeitsabsicht, Grants Motiv und Rettung; Cast, Credits, Land, Start und Niven Buschs Verbindung zu Teresa Wright."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/e6bdfde5-e071-5c83-b45a-7b94b43fe745/pursued",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmidentität und Erstjahr 1947."
+        },
+        {
+          "key": "noir",
+          "url": "https://www.criterion.com/current/posts/9091-the-criterion-channel-s-april-2026-lineup",
+          "accessed_on": "2026-11-03",
+          "supports": "Criterion nennt Out of the Past (1947), Jacques Tourneur und Robert Mitchum als prägende Noir-Hauptrolle."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-005-L1",
+      "year_question_id": "G150-20261103-WESTERN-005-Y",
+      "director_question_id": "G150-20261103-WESTERN-005-D"
+    },
+    {
+      "id": "WESTERN-006",
+      "film_title_de": "Westlich St. Louis",
+      "film_title_original": "Wagon Master",
+      "film_year": 1950,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "John Fords lyrischer Treck-Western ist vor allem unter Genreliebhabern präsent; weniger geläufig als seine Filme mit John Wayne.",
+      "directors": [
+        "John Ford"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "AFI nennt den 22. April 1950 als Start. BFI bestätigt 1950.",
+      "director_note": "John Ford inszenierte; Frank S. Nugent und Patrick Ford sind die Drehbuchautoren.",
+      "country_note": "USA laut AFI und BFI.",
+      "series": null,
+      "series_note": "Kein Teil von Fords Kavallerietrilogie. Die spätere Fernsehserie Wagon Train ist laut AFI lose angeregt, keine nummerierte Kinofortsetzung.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/26556-WAGON-MASTER",
+        "https://www.bfi.org.uk/features/where-begin-with-john-ford"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/26556-WAGON-MASTER",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Treckhandlung, Mormonen, Pferdehändler, Schausteller, Cleggs, Gastfreundschaft der Navajo und Getreidewagen; Cast, Jahr, Land, Regie, Drehbuch und Abgrenzung von TV-Serie/Kavallerietrilogie."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/features/where-begin-with-john-ford",
+          "accessed_on": "2026-11-03",
+          "supports": "Matthew Thrifts Einordnung von Musik, Bewegung und Gemeinschaft sowie gesonderte Aufzählung der Kavallerietrilogie."
+        },
+        {
+          "key": "daten",
+          "url": "https://www.bfi.org.uk/film/bfbbfd0f-8840-534a-b07d-68a314457a9b/wagon-master",
+          "accessed_on": "2026-11-03",
+          "supports": "1950, USA, John Ford, Drehbuchautoren und Hauptbesetzung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-006-L1",
+      "year_question_id": "G150-20261103-WESTERN-006-Y",
+      "director_question_id": "G150-20261103-WESTERN-006-D"
+    },
+    {
+      "id": "WESTERN-007",
+      "film_title_de": "Der große Treck",
+      "film_title_original": "The Big Trail",
+      "film_year": 1930,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Filmgeschichtlich bekannter früher John-Wayne-Film; sein aufwendiges Breitbildverfahren ist eher Filmkennern vertraut als einem breiten Publikum.",
+      "directors": [
+        "Raoul Walsh"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1930 laut AFI und Library of Congress; AFI weist einen New Yorker Start am 24. Oktober vor dem allgemeinen Start vom 1. November aus. Die englische Fassung mit John Wayne ist gemeint.",
+      "director_note": "Offizieller Regiecredit der englischen Fassung: Raoul Walsh. Parallel gedrehte fremdsprachige Fassungen mit anderen Besetzungen und Regisseuren werden nicht mit dieser Filmidentität vermischt.",
+      "country_note": "USA nach AFI.",
+      "series": null,
+      "series_note": "Eigenständige Geschichte. Sprachfassungen sind keine nummerierten Fortsetzungen; spätere Treck-Western ebenso wenig.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/24001-THE-BIGTRAIL",
+        "https://www.loc.gov/static/programs/national-film-preservation-board/documents/big_trail.pdf"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/24001-THE-BIGTRAIL",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung, Brecks Rache, Red Flack, Ruth, Fluss- und Felsquerung; Cast, offizielle Regie, Jahr, Land und 35-/70-mm-Verfahren."
+        },
+        {
+          "key": "loc",
+          "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/big_trail.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Marilyn Ann Moss: Wayne als Scout, Grandeur-Bildgestaltung, schwieriger Außendreh, Klippenabstieg und parallel hergestellte Sprachfassungen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-007-L1",
+      "year_question_id": "G150-20261103-WESTERN-007-Y",
+      "director_question_id": "G150-20261103-WESTERN-007-D"
+    },
+    {
+      "id": "WESTERN-008",
+      "film_title_de": "Der große Bluff",
+      "film_title_original": "Destry Rides Again",
+      "film_year": 1939,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Klassiker mit zwei sehr bekannten Stars, heute aber eher als Genre- und Dietrich-Film vertraut; vorläufige Bekanntheit 3 redaktionell bestätigt.",
+      "directors": [
+        "George Marshall"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "AFI nennt den allgemeinen Start am 29. Dezember 1939 und einen früheren New Yorker Start in der Woche des 30. November 1939. Erstjahr 1939.",
+      "director_note": "George Marshall inszenierte diese Fassung; frühere und spätere Adaptionen sind eigenständige Filme.",
+      "country_note": "USA nach AFI und Criterion.",
+      "series": null,
+      "series_note": "Die frühere Fassung Destry Rides Again (1932) ist eine andere Bearbeitung des Max-Brand-Stoffs, keine Vorgeschichte dieser Handlung. Keine nummerierte Fortsetzungsfolge dieser Fassung belegt.",
+      "series_sources": [
+        "https://www.criterion.com/current/posts/6905-destry-rides-again-riding-high",
+        "https://catalog.afi.com/Film/5040-DESTRY-RIDESAGAIN"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5040-DESTRY-RIDESAGAIN",
+          "accessed_on": "2026-11-03",
+          "supports": "Komplette Synopsis zu Betrug, Washs Ernennung, Destrys Gewaltverzicht, Mordermittlung und Frenchys Eingreifen; Cast, Credits, Erstjahr, Land und Liedcredits."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/29002-destry-rides-again",
+          "accessed_on": "2026-11-03",
+          "supports": "Jahr, USA, Marshall und Besetzung; Komödien-Western-Einordnung."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/6905-destry-rides-again-riding-high",
+          "accessed_on": "2026-11-03",
+          "supports": "Farran Smith Nehme: Dietrichs Comeback, Stewarts erster Western, Verbindung von Komödie und Todesfällen sowie frühere und spätere Stoffbearbeitungen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-008-L1",
+      "year_question_id": "G150-20261103-WESTERN-008-Y",
+      "director_question_id": "G150-20261103-WESTERN-008-D"
+    },
+    {
+      "id": "WESTERN-009",
+      "film_title_de": "Der Westerner",
+      "film_title_original": "The Westerner",
+      "film_year": 1940,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Gary Coopers und Walter Brennans Konflikt gehört zum klassischen Western, dürfte aber vor allem Genrekennern im Detail vertraut sein.",
+      "directors": [
+        "William Wyler"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "AFI nennt Premieren in Fort Worth und Dallas am 18. September 1940, vor dem allgemeinen Start am 20. September. Erstjahr 1940; der Oscar folgte 1941.",
+      "director_note": "Offizieller Hauptcredit William Wyler. AFI nennt zusätzlich von Lewis Milestone gedrehte Aufnahmen; dieser belegte Mitwirkende wird deshalb nicht als falsche Regiealternative verwendet.",
+      "country_note": "USA laut AFI.",
+      "series": null,
+      "series_note": "Eigenständige fiktionale Geschichte mit historisch angeregter Richterfigur; andere Roy-Bean-Filme sind keine nummerierten Fortsetzungen.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/5134-THE-WESTERNER",
+        "https://www.miramax.com/movie/the-westerner-1940/"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/5134-THE-WESTERNER",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis: Pferdediebstahlsvorwurf, Langtry-Trick, Landkonflikt, Haarlocke, Brandstiftung und Theaterfinale; Cast, Regie, Zusatzaufnahmen, Erststart und USA."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.miramax.com/movie/the-westerner-1940/",
+          "accessed_on": "2026-11-03",
+          "supports": "Richter Bean als selbsternannte Gerichtsmacht im Saloon, Hauptbesetzung, Wyler und Filmjahr."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/1941",
+          "accessed_on": "2026-11-03",
+          "supports": "Walter Brennan gewann bei der Verleihung 1941 den Nebendarsteller-Oscar für The Westerner; Filmjahr 1940 getrennt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-009-L1",
+      "year_question_id": "G150-20261103-WESTERN-009-Y",
+      "director_question_id": "G150-20261103-WESTERN-009-D"
     }
   ],
   "series_updates": [

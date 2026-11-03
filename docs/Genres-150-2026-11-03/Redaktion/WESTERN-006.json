@@ -1,0 +1,237 @@
+{
+  "id": "WESTERN-006",
+  "film_title_de": "Westlich St. Louis",
+  "film_title_original": "Wagon Master",
+  "film_year": 1950,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "John Fords lyrischer Treck-Western ist vor allem unter Genreliebhabern präsent; weniger geläufig als seine Filme mit John Wayne.",
+  "selection_reason": "Ein Gemeinschaftswestern über religiös Verfolgte, Schausteller und die Grenzen der Gastfreundschaft; bewusst ein Ford-Film ohne großen Star im Mittelpunkt.",
+  "directors": [
+    "John Ford"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt den 22. April 1950 als Start. BFI bestätigt 1950.",
+  "director_note": "John Ford inszenierte; Frank S. Nugent und Patrick Ford sind die Drehbuchautoren.",
+  "country_note": "USA laut AFI und BFI.",
+  "series": null,
+  "series_note": "Kein Teil von Fords Kavallerietrilogie. Die spätere Fernsehserie Wagon Train ist laut AFI lose angeregt, keine nummerierte Kinofortsetzung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/26556-WAGON-MASTER",
+    "https://www.bfi.org.uk/features/where-begin-with-john-ford"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/26556-WAGON-MASTER",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Treckhandlung, Mormonen, Pferdehändler, Schausteller, Cleggs, Gastfreundschaft der Navajo und Getreidewagen; Cast, Jahr, Land, Regie, Drehbuch und Abgrenzung von TV-Serie/Kavallerietrilogie."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/features/where-begin-with-john-ford",
+      "accessed_on": "2026-11-03",
+      "supports": "Matthew Thrifts Einordnung von Musik, Bewegung und Gemeinschaft sowie gesonderte Aufzählung der Kavallerietrilogie."
+    },
+    "daten": {
+      "url": "https://www.bfi.org.uk/film/bfbbfd0f-8840-534a-b07d-68a314457a9b/wagon-master",
+      "accessed_on": "2026-11-03",
+      "supports": "1950, USA, John Ford, Drehbuchautoren und Hauptbesetzung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Reisenden sind mormonische Siedler auf dem Weg nach Utah.",
+      "question": "Welche Gemeinschaft begleiten die beiden Führer in „Westlich St. Louis“ auf ihrem Weg zu einem neuen Siedlungsgebiet?",
+      "answers": [
+        "Mormonische Siedler",
+        "Eine Einheit der Kavallerie",
+        "Eine Gruppe konföderierter Kriegsgefangener",
+        "Eine französische Pelzhandelsgesellschaft"
+      ],
+      "short": "Sie führen einen Treck mormonischer Siedler nach Utah.",
+      "context": "Die Reisenden mussten Crystal City wegen ihrer Religion verlassen. Ihr Führer Jonathan Wiggs (Ward Bond) sucht Menschen, die Wege und Wasserstellen kennen. Die Bewegung nach Westen ist damit ein Versuch, einen Ort für ein gemeinsames Leben zu finden, nachdem die bisherige Umgebung sie ausgegrenzt hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Travis und Sandy sind Pferdehändler, bevor sie den Treck führen.",
+      "question": "Womit verdienen Travis Blue (Ben Johnson) und Sandy Owens (Harry Carey Jr.) in „Westlich St. Louis“ zunächst ihr Geld?",
+      "answers": [
+        "Mit dem Handel gefangener Wildpferde",
+        "Mit dem Transport von Gold für eine Bank",
+        "Mit dem Verkauf von Waffen an Forts",
+        "Mit der Vermessung einer Eisenbahntrasse"
+      ],
+      "short": "Die beiden kommen als Pferdehändler nach Crystal City.",
+      "context": "Travis Blue (Ben Johnson) und Sandy Owens (Harry Carey Jr.) wollen ihre Pferde verkaufen und sich anschließend in der Stadt vergnügen. Den Auftrag als Treckführer lehnen sie zunächst ab. Ihre Ortskenntnis macht sie für die Siedler wertvoll, bevor aus einem bezahlten Dienst eine persönliche Bindung wird.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Eine gestrandete Medizinshow wird trotz moralischer Vorbehalte in den Treck aufgenommen.",
+      "question": "Welche gestrandete Gruppe nehmen die Siedler in „Westlich St. Louis“ trotz ihres anstößig wirkenden Lebenswandels mit?",
+      "answers": [
+        "Die Schausteller einer reisenden Medizinshow",
+        "Die Spieler eines überfallenen Spielcasinos",
+        "Die Darsteller einer abtrünnigen Predigertruppe",
+        "Die Artisten eines ausgebrannten Wanderzirkus"
+      ],
+      "short": "Die Reisenden helfen einer durstenden Medizinshow-Truppe.",
+      "context": "Der angebliche Dr. Hall (Alan Mowbray) und seine Begleiter haben ihren eigenen alkoholischen Wundertrank getrunken, weil ihnen Wasser fehlt. Jonathan Wiggs (Ward Bond) setzt ihre Aufnahme durch. Die Hilfe führt Menschen zusammen, deren Umgangsformen und moralische Vorstellungen deutlich auseinanderliegen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Clegg-Bande benutzt den Treck als Deckung vor ihren Verfolgern.",
+      "question": "Warum zwingt die Clegg-Familie in „Westlich St. Louis“ die Reisenden, sie weiter mitzunehmen?",
+      "answers": [
+        "Die Bande will sich im Treck vor einer Fahndungstruppe verbergen.",
+        "Die Bande will die Siedler an einen mexikanischen Großgrundbesitzer verkaufen.",
+        "Die Bande will den Treck für einen Überfall auf ein Fort einsetzen.",
+        "Die Bande will sich durch einen Gefangenentausch von ihren Schulden lösen."
+      ],
+      "short": "Die Wagen und ihre friedlichen Insassen dienen den Gesuchten als Deckung.",
+      "context": "Uncle Shiloh Clegg (Charles Kemper) lässt die Schausteller nicht abreisen. Bei der Befragung durch den Marshal halten die versteckten Räuber ihre Gastgeber mit Waffen in Schach. Die vorher offene Reisegemeinschaft wird so zum Schutzschild von Menschen, die ihre Hilfsbereitschaft ausnutzen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Navajo laden den Treck ein, nachdem sie erfahren, dass die Reisenden Mormonen sind.",
+      "question": "Was verändert in „Westlich St. Louis“ die zunächst bedrohliche Begegnung mit den Navajo?",
+      "answers": [
+        "Als die Navajo von der mormonischen Gemeinschaft erfahren, laden sie den Treck in ihr Lager ein.",
+        "Die Treckführer erkennen einen geflohenen Häuptlingssohn und liefern ihn aus.",
+        "Die Siedler übergeben sämtliche Pferde als Entschädigung für einen Landstreit.",
+        "Ein Armeedolmetscher droht mit der nahenden Kavallerie und erzwingt freien Durchzug."
+      ],
+      "short": "Die Begegnung geht in eine Einladung ins Lager über.",
+      "context": "Travis Blue (Ben Johnson) wird zunächst zum Treck zurückgejagt. Danach entsteht statt eines Kampfes eine gemeinsame Feier. Der folgende Übergriff eines Banditen auf eine Navajo-Frau belastet diese Gastfreundschaft; Jonathan Wiggs (Ward Bond) verlangt die Bestrafung des Täters aus den eigenen Reihen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Der schwere Getreidewagen verkörpert die Lebensgrundlage der künftigen Siedlung und wird Ziel der Cleggs.",
+      "question": "Warum besitzt der schwer über die Felsen zu bringende Getreidewagen im Finale von „Westlich St. Louis“ einen besonderen Wert?",
+      "answers": [
+        "Das Getreide sichert die Lebensgrundlage der geplanten Siedlung.",
+        "Unter dem Getreide liegt der gesamte Goldbesitz der Gemeinschaft.",
+        "Der Wagen enthält die vom Gericht beschlagnahmten Waffen der Bande.",
+        "Das Getreide muss als Lösegeld an den Marshal übergeben werden."
+      ],
+      "short": "Für den Neuanfang ist das Saat- und Nahrungsmittel wertvoller als Gold.",
+      "context": "Jonathan Wiggs (Ward Bond) betont den Wert des Getreides. Uncle Shiloh Clegg (Charles Kemper) will ausgerechnet ihn den gefährlichen Wagen lenken lassen und die Pferde durchgehen lassen. Die Schießerei entsteht, als die Bande damit zugleich einen Menschen und die Zukunft der ganzen Gruppe bedroht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Wagon Master wurde 1950 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde John Fords „Westlich St. Louis“ erstmals veröffentlicht?",
+      "answers": [
+        "1950",
+        "1943",
+        "1957",
+        "1964"
+      ],
+      "short": "Der Film erschien 1950.",
+      "context": "Der Treck-Western entstand Ende 1949 und kam 1950 heraus, im selben Jahr wie Fords „Rio Grande“. Dennoch gehört er nicht zur Kavallerietrilogie: Deren Militärgemeinschaft steht hier einer Gruppe aus Siedlern und Schaustellern gegenüber. Die gemeinsame Entstehungsphase macht aus verschiedenen Geschichten keine Fortsetzungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi",
+        "daten"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Ford inszenierte Wagon Master.",
+      "question": "Wer führte bei „Westlich St. Louis“ mit Ben Johnson und Harry Carey Jr. Regie?",
+      "answers": [
+        "John Ford",
+        "Henry Hathaway",
+        "William A. Wellman",
+        "Allan Dwan"
+      ],
+      "short": "John Ford führte Regie.",
+      "context": "Fords Erzählung lässt immer wieder die Reise, gemeinsame Tänze und das Zusammenleben der Gruppe Raum gewinnen. Das BFI hebt gerade die Verbindung von Musik und Bewegung hervor. Die Liebesgeschichten entwickeln sich innerhalb dieses Ensembles; der Film hängt weniger am Triumph eines einzelnen überlebensgroßen Helden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "afi",
+        "daten"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

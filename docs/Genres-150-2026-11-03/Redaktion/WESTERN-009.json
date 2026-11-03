@@ -1,0 +1,236 @@
+{
+  "id": "WESTERN-009",
+  "film_title_de": "Der Westerner",
+  "film_title_original": "The Westerner",
+  "film_year": 1940,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Gary Coopers und Walter Brennans Konflikt gehört zum klassischen Western, dürfte aber vor allem Genrekennern im Detail vertraut sein.",
+  "selection_reason": "Die Geschichte verbindet einen korrupten Richter, dessen Theaterverehrung und einen Landkonflikt zwischen Viehzüchtern und Siedlern.",
+  "directors": [
+    "William Wyler"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt Premieren in Fort Worth und Dallas am 18. September 1940, vor dem allgemeinen Start am 20. September. Erstjahr 1940; der Oscar folgte 1941.",
+  "director_note": "Offizieller Hauptcredit William Wyler. AFI nennt zusätzlich von Lewis Milestone gedrehte Aufnahmen; dieser belegte Mitwirkende wird deshalb nicht als falsche Regiealternative verwendet.",
+  "country_note": "USA laut AFI.",
+  "series": null,
+  "series_note": "Eigenständige fiktionale Geschichte mit historisch angeregter Richterfigur; andere Roy-Bean-Filme sind keine nummerierten Fortsetzungen.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/5134-THE-WESTERNER",
+    "https://www.miramax.com/movie/the-westerner-1940/"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/5134-THE-WESTERNER",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis: Pferdediebstahlsvorwurf, Langtry-Trick, Landkonflikt, Haarlocke, Brandstiftung und Theaterfinale; Cast, Regie, Zusatzaufnahmen, Erststart und USA."
+    },
+    "studio": {
+      "url": "https://www.miramax.com/movie/the-westerner-1940/",
+      "accessed_on": "2026-11-03",
+      "supports": "Richter Bean als selbsternannte Gerichtsmacht im Saloon, Hauptbesetzung, Wyler und Filmjahr."
+    },
+    "academy": {
+      "url": "https://www.oscars.org/oscars/ceremonies/1941",
+      "accessed_on": "2026-11-03",
+      "supports": "Walter Brennan gewann bei der Verleihung 1941 den Nebendarsteller-Oscar für The Westerner; Filmjahr 1940 getrennt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Roy Bean übt als selbsternannter Richter die Gerichtsmacht im Saloon aus.",
+      "question": "Welche Machtposition bekleidet Roy Bean (Walter Brennan) in „Der Westerner“?",
+      "answers": [
+        "Er hält als Richter in seinem Saloon Gericht.",
+        "Er führt als General die örtliche Kavallerie.",
+        "Er verteilt als Gouverneur staatliche Ländereien.",
+        "Er verwaltet als Bischof die Missionsstationen."
+      ],
+      "short": "Bean spielt im eigenen Saloon den Richter und Gesetzgeber.",
+      "context": "Cole Harden (Gary Cooper) gerät in ein Gericht, dessen Herr wirtschaftlich und persönlich mit den Viehzüchtern verbunden ist. Roy Bean (Walter Brennan) behandelt seine Urteile wie Privatentscheidungen. Für einen Fremden bedeutet ein harmlos wirkender Aufenthalt deshalb schnell eine existenzielle Gefahr.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Cole wird des Pferdediebstahls beschuldigt.",
+      "question": "Welcher Vorwurf bringt Cole Harden (Gary Cooper) zu Beginn von „Der Westerner“ vor Roy Beans Gericht?",
+      "answers": [
+        "Pferdediebstahl",
+        "Raub einer Postkutsche",
+        "Desertion aus der Armee",
+        "Fälschung von Banknoten"
+      ],
+      "short": "Cole soll ein Pferd gestohlen haben.",
+      "context": "Der Besitzer des Gerichts ist zugleich eine unmittelbare Bedrohung für den Angeklagten. Cole Harden (Gary Cooper) begegnet dieser Lage zunächst nicht mit einem Revolver, sondern mit einer erfundenen Verbindung zu Beans verehrter Schauspielerin. Gesprächsgeschick wird damit zur ersten Überlebensstrategie im Film.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Cole behauptet, die von Bean verehrte Schauspielerin Lily Langtry zu kennen.",
+      "question": "Mit welcher Behauptung gewinnt Cole Harden (Gary Cooper) in „Der Westerner“ zunächst Roy Beans (Walter Brennan) Wohlwollen?",
+      "answers": [
+        "Er kenne die Schauspielerin Lily Langtry persönlich.",
+        "Er sei ein ehemaliger Mitarbeiter des Präsidenten.",
+        "Er habe Beans verschollenen Sohn in Mexiko gerettet.",
+        "Er besitze einen Erlass zur Aufhebung aller Landsteuern."
+      ],
+      "short": "Cole nutzt Beans Verehrung für Lily Langtry aus.",
+      "context": "Lily Langtry (Lilian Bond) ist für Roy Bean (Walter Brennan) eine ferne Idealfigur. Cole Harden (Gary Cooper) schafft sich Zeit, indem er eine persönliche Bekanntschaft vorgibt. Ausgerechnet der Richter, der andere so rücksichtslos behandelt, lässt sich über seine schwärmerische Verehrung beeinflussen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der Landkonflikt besteht zwischen Viehzüchtern und Ackerbau treibenden Siedlern.",
+      "question": "Zwischen welchen Gruppen entscheidet sich Cole Harden (Gary Cooper) in „Der Westerner“ für die bedrängte Seite?",
+      "answers": [
+        "Zwischen Viehzüchtern und Ackerbau treibenden Siedlern",
+        "Zwischen zwei konkurrierenden Eisenbahngesellschaften",
+        "Zwischen Goldgräbern und einem staatlichen Bergwerk",
+        "Zwischen Kavalleristen und entlassenen Soldaten"
+      ],
+      "short": "Cole unterstützt die Siedler gegen die Viehzüchter und ihren Richter.",
+      "context": "Bei Caliphet Mathews (Fred Stone) und dessen Tochter Jane-Ellen (Doris Davenport) lernt Cole Harden (Gary Cooper) die bedrohten Siedler kennen. Ein zunächst persönlicher Überlebenskampf erweitert sich zum Streit um die Nutzung des Landes. Bean steht dabei hinter den Viehzüchtern, obwohl er als Richter Unparteilichkeit beansprucht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Eine angebliche Haarlocke Lily Langtrys dient als Gegenleistung für ein Zugeständnis an die Siedler.",
+      "question": "Welche vermeintliche Kostbarkeit bietet Cole Harden (Gary Cooper) in „Der Westerner“ Roy Bean für ein Zugeständnis an die Siedler an?",
+      "answers": [
+        "Eine Haarlocke Lily Langtrys",
+        "Einen von Langtry signierten Heiratsvertrag",
+        "Den Goldschmuck einer verstorbenen Gouverneursfrau",
+        "Eine Spielkarte aus einem Duell von Wild Bill Hickok"
+      ],
+      "short": "Eine angebliche Locke der verehrten Schauspielerin soll Bean umstimmen.",
+      "context": "Cole Harden (Gary Cooper) setzt den persönlichen Zugang zum Richter für ein öffentliches Anliegen ein: Das Vieh soll vom Land der Siedler verschwinden. Die vorübergehende Einigung hält nicht. Bean und seine Männer greifen zu Brandstiftung, und Caliphet Mathews (Fred Stone) stirbt beim Versuch, sein Haus zu retten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Die letzte Begegnung mit Bean findet bei einem Theaterauftritt Lily Langtrys statt.",
+      "question": "An welchem Ort stellt Cole Harden (Gary Cooper) den gesuchten Roy Bean (Walter Brennan) im Finale von „Der Westerner“?",
+      "answers": [
+        "Im Theater bei einem Auftritt Lily Langtrys",
+        "In der Kapelle bei einer Trauung",
+        "Im Bahnhof während einer Präsidentenankunft",
+        "In einer Arena während eines Rodeos"
+      ],
+      "short": "Bean besucht trotz der Fahndung einen Auftritt seines Idols.",
+      "context": "Roy Bean (Walter Brennan) kann selbst als Gesuchter nicht auf Lily Langtry (Lilian Bond) verzichten. Cole Harden (Gary Cooper) nutzt diesen vorhersehbaren Wunsch. Die ferne Schauspielerin, deren Namen Cole zunächst nur zur Rettung verwendete, wird so zum Ziel, das Bean in seine letzte Konfrontation führt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "The Westerner wurde 1940 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Der Westerner“ mit Gary Cooper und Walter Brennan erstmals veröffentlicht?",
+      "answers": [
+        "1940",
+        "1934",
+        "1946",
+        "1952"
+      ],
+      "short": "Die ersten Premieren fanden 1940 statt.",
+      "context": "Filmjahr und Preisjahr liegen hier auseinander: „Der Westerner“ erschien 1940, Walter Brennan erhielt den Nebendarsteller-Oscar bei der Verleihung im Februar 1941. Bei dieser Feier war William Wyler für die Regie von „Das Geheimnis von Malampur“ nominiert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "academy"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "William Wyler ist der offiziell ausgewiesene Regisseur von The Westerner.",
+      "question": "Wer ist der offiziell ausgewiesene Regisseur von „Der Westerner“?",
+      "answers": [
+        "William Wyler",
+        "Frank Borzage",
+        "Henry King",
+        "William A. Wellman"
+      ],
+      "short": "Der offizielle Regiecredit lautet William Wyler.",
+      "context": "Samuel Goldwyn produzierte den Film, Gregg Toland verantwortete die Bildgestaltung. AFI nennt außerdem zusätzliche Aufnahmen von Lewis Milestone mit Rudolph Maté. Solche Ergänzungen gehören zur Herstellungsgeschichte, während Wyler als Regisseur der fertigen Hauptproduktion ausgewiesen ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

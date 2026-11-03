@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; erste Welle mit 33 Filmfassungen und 264 Fragen lokal integriert. 468 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 39 Filmfassungen mit 312 Fragen lokal integriert. 462 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -4221,14 +4221,16 @@
       "film_title_original": "The Furies",
       "film_year": 1950,
       "genre": "Western",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein Ranchkonflikt zwischen Vater und Tochter verbindet Westernraum mit Familientragödie.",
       "categories": [
-        "Arthouse"
+        "Arthouse",
+        "Classics"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-004"
     },
     {
       "candidate_id": "C-020",
@@ -4236,14 +4238,16 @@
       "film_title_original": "Pursued",
       "film_year": 1947,
       "genre": "Western",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Western-Noir mit verdrängter Kindheitserinnerung und Familienfehde.",
       "categories": [
-        "Arthouse"
+        "Arthouse",
+        "Classics"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-005"
     },
     {
       "candidate_id": "C-021",
@@ -4278,12 +4282,15 @@
       "film_title_original": "Wagon Master",
       "film_year": 1950,
       "genre": "Western",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein Siedlertreck und zwei Pferdehändler erlauben Gemeinschaft statt Einzelheld als Schwerpunkt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-006"
     },
     {
       "candidate_id": "C-024",
@@ -4291,12 +4298,15 @@
       "film_title_original": "The Big Trail",
       "film_year": 1930,
       "genre": "Western",
-      "familiarity_level": 4,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Früher Breitwandwestern mit John Wayne und einem beschwerlichen Siedlerzug.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-007"
     },
     {
       "candidate_id": "C-025",
@@ -4320,9 +4330,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein zunächst waffenlos auftretender Deputy widerspricht dem üblichen Revolverheldenbild.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-008"
     },
     {
       "candidate_id": "C-027",
@@ -4346,9 +4359,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Judge Roy Beans persönliche Rechtsprechung und ein drifternder Cowboy tragen den Grenzjustizkonflikt.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "WESTERN-009"
     },
     {
       "candidate_id": "C-029",
