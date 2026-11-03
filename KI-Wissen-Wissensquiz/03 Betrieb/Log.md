@@ -2705,3 +2705,8 @@ Sechs Fantasyfilme FANTASY-022–027 (Mirai, Suzume, Belle, Weathering With You,
 #### Fortsetzung 03.11.2026 – W48
 
 Sechs Horrorfilme HORROR-022–027 mit 48 neuen Fragen und Wissenszielen integriert: The House of the Devil, Das Waisenhaus, Mama, Trick ’r Treat, Dog Soldiers und Ginger Snaps. Alle Fragen unabhängig vollständig gegengelesen und primäre Filmemacher-, Autoren-, Szenenbild- und Effektinterviews nachgelesen. Festivaljahre 2000/2002/2007 von späterer Kino- oder Heimkinoauswertung getrennt. Gegenwärtiger Bestand Horror 127 Filme; Ginger Snaps als erster Teil seiner veröffentlichten Trilogie eingetragen. Alle 2.376 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 87 Pakete / 17.671 Fragen / 16.972 Ziele; 204 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W49
+
+Sechs Actionfilme ACTION-034–039 (Operation: Kingdom, Green Zone, Olympus Has Fallen, White House Down, Hunter Killer, Non-Stop) mit 48 neuen Fragen und Wissenszielen integriert. Vollständige unabhängige Gegenlese; primäre Vorspann-, Regie- und Produktionsinterviews nachgelesen. Has Fallen als eigene Filmfolge mit Auftakt Olympus, thematisch ähnliche White-House- und Butler-Filme getrennt. Action erreicht 139 Filme; insgesamt 303 neue Filme und 2.424 Fragen integriert. Alle 2.424 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 88 Pakete / 17.719 Fragen / 17.020 Ziele; 198 Genreergänzungen offen.

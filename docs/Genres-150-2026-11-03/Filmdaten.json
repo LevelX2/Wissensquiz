@@ -19876,6 +19876,538 @@
       "reference_question_id": "G150-20261103-HORROR-027-L1",
       "year_question_id": "G150-20261103-HORROR-027-Y",
       "director_question_id": "G150-20261103-HORROR-027-D"
+    },
+    {
+      "id": "ACTION-034",
+      "film_title_de": "Operation: Kingdom",
+      "film_title_original": "The Kingdom",
+      "film_year": 2007,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Ensemble-Actionthriller mit Jamie Foxx und Jennifer Garner; keine dauerhaft fortgesetzte Kinomarke.",
+      "directors": [
+        "Peter Berg"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland"
+      ],
+      "release_note": "Erstjahr 2007: Überraschungsfilm beim Edinburgh International Film Festival am 22. August, durch zeitgenössischen Festivalbericht und Release-Datensätze belegt. Septemberpremiere in Los Angeles und US-Kinostart 28. September liegen später. Keine frühere Jahresauswertung belegt.",
+      "director_note": "Peter Berg alleinige Hauptregie; Michael Mann und Scott Stuber Produzenten. Matthew Michael Carnahan schrieb das Drehbuch. Ausführliche Primäraussagen Bergs trennen diese Funktionen ausdrücklich.",
+      "country_note": "USA und Deutschland nach BFI und zeitgenössischem epd-Film-Datensatz; Apple-Verleihcredit nennt zudem Universal Studios/MDBF Zweite Filmgesellschaft. AFI/Filmdienst verkürzen auf USA. Abu Dhabi und Arizona sind Drehorte, Saudi-Arabien Hauptschauplatz; diese Orte werden nicht zu weiteren Produktionsländern.",
+      "series": null,
+      "series_note": "Eigenständige fiktionale FBI-Geschichte, keine nummerierte Fortsetzung. Andere Filme und Serien gleichen Titels sowie Bergs weitere Militär-/Polizeifilme werden getrennt.",
+      "series_sources": [
+        "https://www.universalpicturesathome.com/movies/the-kingdom",
+        "https://www.bfi.org.uk/film/5ef5e970-5926-59dc-8dc4-97c9fc18e994/the-kingdom"
+      ],
+      "sources": [
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/the-kingdom",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis und Werkdaten vollständig per Direktabruf gelesen: FBI-Team in Saudi-Arabien, Zusammenarbeit, Hauptbesetzung, alleinige Regie Berg und Jahr 2007."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/64348-THE-KINGDOM",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen verfügbaren Katalogeintrag im Suchindex gelesen: Fleury/Foxx, Mayes/Garner, Leavitt/Bateman, Regie Berg, Drehbuch Carnahan und Produzenten Mann/Stuber. Keine fehlende ausführliche Synopsis als gelesen ausgegeben."
+        },
+        {
+          "key": "berg",
+          "url": "https://www.comingsoon.net/movies/features/37397-exclusive-the-kingdom-s-peter-berg",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Edward-Douglas-Interview gelesen: Freehs My FBI/Khobar als Anregung, erfundene Figuren, Handkamera, bewusst geplanter Actionhöhepunkt, FBI-Recherche, Carnahan und Manns Produzentenrolle. Nachfolgende fremde Website-Nachrichten nicht verwendet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Kingdom_(2007_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung und vollständige Hauptbesetzung gelesen: zweite Bombe tötet Manner, Entführung Leavitts, Mayes rettet ihn, Al-Ghazis Tod und am Schluss parallel aufgelöste Flüsterworte. Reale Anschlagsfälle nicht mit dem erfundenen Filmfall gleichgesetzt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=kingdom-the",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete frühe Dialog-/Berichtspassage gelesen: Erstangriff lockt Ersthelfer und Ermittler an, gefolgt von massiver zweiter Explosion. Kein vollständiges Transkript als ausgewertet ausgegeben."
+        },
+        {
+          "key": "titel",
+          "url": "https://www.artofthetitle.com/title/the-kingdom/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Gespräch mit Pamela B. Green und Jarik van Sluijs per Direktabruf gelesen: historische Eröffnung statt langer Erklärszene im Flugzeug, Montage aus Grafiken, Nachrichten und Archivmaterial, Ölbeziehung USA/Saudi-Arabien und 9/11; Originale und Entwicklungsboards nicht als Filme gesichtet behauptet."
+        },
+        {
+          "key": "fbi",
+          "url": "https://www.fbi.gov/news/stories/fbi-joins-in-commemorating-20th-anniversary-of-khobar-towers-bombing",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle historische Einleitung und Ereignisdatierung gelesen: Khobar-Towers-Anschlag 25. Juni 1996, 19 getötete US-Soldaten. Dient dem Jahresanker, nicht als Beleg für die Filmhandlung."
+        },
+        {
+          "key": "festival",
+          "url": "https://www.eyeforfilm.co.uk/feature/2007-08-23-eiff-2007-day-8-feature-story-by-movie-mole",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössischen Festivalbericht gelesen: The Kingdom als tatsächlich gezeigter Überraschungsfilm beim EIFF 2007. Releaseinfo datiert die Vorführung auf 22. August."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/film/5ef5e970-5926-59dc-8dc4-97c9fc18e994/the-kingdom",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Film-Kurzeintrag im Suchindex gelesen: USA/Deutschland 2007, Berg, Mann/Stuber und Darsteller."
+        },
+        {
+          "key": "epd",
+          "url": "https://www.epd-film.de/filmkritiken/operation-kingdom",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössische Werkdaten und Kritikbeginn gelesen: USA/Deutschland 2007, deutscher Titel, Hauptregie, Drehbuch und deutscher Kinostart 11. Oktober. Nicht die ungelesenen späteren Kritikabschnitte als Szenenbelege verwendet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-034-L1",
+      "year_question_id": "G150-20261103-ACTION-034-Y",
+      "director_question_id": "G150-20261103-ACTION-034-D"
+    },
+    {
+      "id": "ACTION-035",
+      "film_title_de": "Green Zone",
+      "film_title_original": "Green Zone",
+      "film_year": 2010,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: durch Damon und die Greengrass-Zusammenarbeit bekannter Einzelthriller; weniger unmittelbar präsent als ihre Bourne-Filme.",
+      "directors": [
+        "Paul Greengrass"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Frankreich",
+        "Spanien",
+        "USA"
+      ],
+      "release_note": "Erstjahr 2010; Festivalpremiere am 26. Februar beim Yubari International Fantastic Film Festival in Japan nach übereinstimmenden Release-Datensätzen. Reguläre Starts im März 2010. Universal führt Release Year 2010 trotz Copyright 2009; Copyright und frühere Dreharbeiten sind keine frühere öffentliche Veröffentlichung.",
+      "director_note": "Paul Greengrass alleiniger Hauptregisseur, Brian Helgeland Drehbuch. Greengrass bezeichnet den Film in seinem Vorwort ausdrücklich als eigene fiktionale Geschichte, die durch Chandrasekarans Sachbuch angeregt wurde; keine werkgetreue Verfilmung eines Romans.",
+      "country_note": "Großbritannien/Frankreich/Spanien/USA nach dem ausführlichen AFI-Katalog. Apple nennt eine verkürzte Dreierliste ohne Spanien, zeitgenössische Kurzbesprechungen teils nur UK/USA. Irak ist der Handlungsraum und Marokko ein Drehort; daraus keine zusätzlichen Länder abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständiger Film mit Roy Miller. Die erneute Zusammenarbeit von Damon und Greengrass sowie ähnliche filmische Mittel machen daraus keinen Bourne-Filmteil.",
+      "series_sources": [
+        "https://www.workingtitlefilms.com/film/green-zone/",
+        "https://vintagebooks.wordpress.com/2010/03/18/from-imperial-life-to-green-zone/"
+      ],
+      "sources": [
+        {
+          "key": "workingtitle",
+          "url": "https://www.workingtitlefilms.com/film/green-zone/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Produktionseintrag gelesen: Miller sucht WMDs, gefälschte Informationen, Poundstone, Cast, Greengrass, Helgeland und regulärer Start 12. März 2010."
+        },
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/green-zone",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis und Details im vollständigen Suchindex gelesen: Miller, Hauptbesetzung, alleinige Regie Greengrass, Veröffentlichungsjahr 2010 gegenüber Copyright 2009."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/66495-GREEN-ZONE",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen verfügbaren Katalogeintrag im Suchindex gelesen: vier Länder, vollständige Hauptcredits, Rollen, Drehbuch Helgeland, Sachbuch 2006 und reguläre US-Eröffnung März 2010. Keine dort fehlende ausführliche Handlung behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Green_Zone_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung und Hauptbesetzung gelesen: Freddy meldet Baath-Treffen, Magellan/Al-Rawi, falsche Wiedergabe seiner Aussage, Tötung durch Freddy und Versand des Berichts. Wirkliche und fiktionale politische Rollen nicht gleichgesetzt."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/green-zone-2010",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Kritik und Cast im Suchindex gelesen: ergebnislose Waffenrazzien, Millers Zweifel, Brown, Dayne, Al-Rawis gegenteilige Aussage und Besetzungen. Eberts politische Gesamtwertung bleibt als Interpretation vom Filmgeschehen getrennt."
+        },
+        {
+          "key": "vorwort",
+          "url": "https://vintagebooks.wordpress.com/2010/03/18/from-imperial-life-to-green-zone/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges von Vintage/Anchor veröffentlichtes Greengrass-Vorwort per Direktabruf gelesen: Beginn der Stoffentwicklung September 2004, Sachbuch als späterer Impuls, Helgelands eigene Filmgeschichte, keine direkte Adaption. Copyright 2009 bezieht sich auf Buchsonderausgabe/Vorwort."
+        },
+        {
+          "key": "pbs",
+          "url": "https://cgi.pbs.org/wgbh/pages/frontline/yeariniraq/interviews/rajiv.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Einführung zum Interview gelesen: Chandrasekarans Sachbuch 2006, Berichterstattung aus Bagdad 2003/2004. Nur Publikationsjahr und journalistischer Hintergrund verwendet, keine vollständige Auswertung des langen politischen Interviews behauptet."
+        },
+        {
+          "key": "freddy",
+          "url": "https://eprints.soton.ac.uk/506927/1/2025_Reel_Fallout_Cinema_PhD_Olivia_Flint_FINAL.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten filmanalytischen Abschnitt S.78 im Suchindex gelesen: Miller schützt Al-Rawi vor Briggs; Freddy erschießt ihn, beansprucht irakische Entscheidungsmacht, Miller lässt ihn gehen. Keine gesamte Dissertation als ausgewertet ausgegeben."
+        },
+        {
+          "key": "schluss",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10211500/1/The%20Privatisation%20of%20Justice%20within%20the%20American%20Conspiracy%20Film.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Abgegrenzte Green-Zone-Schlussanalyse im Suchindex gelesen: Millers kritischer Bericht per Massen-E-Mail an große Medien. Interpretative Bewertung der Wirkung nicht als Handlungstatsache übernommen; keine vollständige Dissertationlektüre behauptet."
+        },
+        {
+          "key": "release",
+          "url": "https://www.imdb.com/title/tt0947810/releaseinfo/",
+          "accessed_on": "2026-11-03",
+          "supports": "Veröffentlichungsübersicht im Suchindex gelesen: Yubari-Festival 26. Februar 2010, danach reguläre Märzstarts. Gegen übereinstimmende weitere Releaseübersicht und Universal-Erstjahr abgeglichen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-035-L1",
+      "year_question_id": "G150-20261103-ACTION-035-Y",
+      "director_question_id": "G150-20261103-ACTION-035-D"
+    },
+    {
+      "id": "ACTION-036",
+      "film_title_de": "Olympus Has Fallen – Die Welt in Gefahr",
+      "film_title_original": "Olympus Has Fallen",
+      "film_year": 2013,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: verbreiteter Butler-Actionfilm und Auftakt einer fortgesetzten Kinoreihe, aber kein generationenübergreifendes Standardwerk.",
+      "directors": [
+        "Antoine Fuqua"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2013, Hollywoodpremiere am 18. März laut Veröffentlichungsübersicht; zeitgenössischer CBS-Bericht vom 19. März bestätigt die Premiere am Montagabend. Regulärer US-Start 22. März laut AFI. Kein früheres Festivaljahr in den geprüften Veröffentlichungsdaten.",
+      "director_note": "Antoine Fuqua ist der alleinige Hauptregisseur. Gerard Butler ist Hauptdarsteller und Produzent, Creighton Rothenberger und Katrin Benedikt schrieben das Drehbuch.",
+      "country_note": "USA nach AFI und The Numbers; Schauplätze, Nationalitäten der Figuren und die späteren internationalen Fortsetzungen sind keine zusätzlichen Produktionsländer dieses Films.",
+      "series": {
+        "name": "Has Fallen",
+        "position": 1,
+        "note": "Auftakt mit Mike Banning. Universal bezeichnet London Has Fallen ausdrücklich als Fortsetzung von Olympus Has Fallen; die individuelle Veröffentlichung des ersten Films ist 2013 belegt."
+      },
+      "series_note": "Positive Position 1 der Has-Fallen-Filmfolge, keine Gleichsetzung mit dem unabhängig entstandenen White House Down.",
+      "series_sources": [
+        "https://www.prnewswire.com/news-releases/from-universal-pictures-home-entertainment-london-has-fallen-300250255.html",
+        "https://www.the-numbers.com/movies/franchise/Has-Fallen"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/69320",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen verfügbaren Katalogeintrag gelesen: Regie, Drehbuchteam, USA, regulärer US-Start 22. März 2013, Butler/Banning, Eckhart/Asher, Jacobsen/Connor, McDermott/Forbes und Yune/Kang. Keine dort nicht vorhandene ausführliche Synopsis behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Olympus_Has_Fallen",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung und vollständige Rollenliste gelesen: Unfall mit Margaret, Versetzung, Trumbulls kommissarische Präsidentschaft, Connor-Rettung, Cerberus-Funktion und Abschaltung; weitere Rollenbesetzungen."
+        },
+        {
+          "key": "fuqua",
+          "url": "https://www.mandatory.com/fun/465439-exclusive-antoine-fuqua-on-olympus-has-fallen",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Interview mit Fuqua gelesen: gewollte Härte, Gespräche mit ehemaligen Sicherheitsleuten, Verzicht auf bestimmte Informationen und mit Butler entwickelte Tätigkeiten im Weißen Haus. Besonders konkret: Löschen vertraulicher Dateien während des Funkgesprächs, Einschränken gegnerischer Systemzugriffe."
+        },
+        {
+          "key": "numbers",
+          "url": "https://www.the-numbers.com/movie/Olympus-Has-Fallen",
+          "accessed_on": "2026-11-03",
+          "supports": "Synopsis und Produktionsdetails gelesen: ehemaliger Präsidentenbeschützer, Geiselkrise, USA als Produktionsland und reguläre Starts 2013."
+        },
+        {
+          "key": "release",
+          "url": "https://www.imdb.com/title/tt2302755/releaseinfo/",
+          "accessed_on": "2026-11-03",
+          "supports": "Veröffentlichungsübersicht gelesen: Los-Angeles-Premiere 18. März 2013, französischer Start 20. März, US-Start 22. März; Premiere nicht mit US-Regelstart gleichgesetzt."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.cbsnews.com/news/olympus-has-fallen-cast-seizes-red-carpet-for-hollywood-premiere/",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössische Einleitung vom 19. März gelesen: Hollywoodpremiere am Montagabend. Nur diese knappe Datumsbestätigung verwendet, keine ausführlichen CBS-Ableitungen."
+        },
+        {
+          "key": "fortsetzung",
+          "url": "https://www.prnewswire.com/news-releases/from-universal-pictures-home-entertainment-london-has-fallen-300250255.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Universal-Mitteilung vom 12. April 2016 in Einleitung und Fortsetzungsbeschreibung gelesen: London Has Fallen als Fortsetzung, zurückkehrende Hauptdarsteller und Veröffentlichung 2016."
+        },
+        {
+          "key": "reihenjahre",
+          "url": "https://www.the-numbers.com/movies/franchise/Has-Fallen",
+          "accessed_on": "2026-11-03",
+          "supports": "Reihentabelle vollständig gelesen: Olympus 2013, London 2016, Angel 2019; Erstfilm vor London, keine Datumsangabe dieser Tabelle als Premierenbeleg verwendet."
+        },
+        {
+          "key": "cerberus",
+          "url": "https://filmint.nu/north-korean-red-dawn-olympus-has-fallen/",
+          "accessed_on": "2026-11-03",
+          "supports": "Die konkret indexierten Absätze zu Connor und Cerberus gelesen: Connor entkommt mit Bannings Hilfe, drei Codes setzen die Selbstzerstörung der Raketen in amerikanischen Silos in Gang. Kein vollständiger Direktseitenabruf behauptet; die aktuelle Direktansicht lieferte Navigation."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-036-L1",
+      "year_question_id": "G150-20261103-ACTION-036-Y",
+      "director_question_id": "G150-20261103-ACTION-036-D"
+    },
+    {
+      "id": "ACTION-037",
+      "film_title_de": "White House Down",
+      "film_title_original": "White House Down",
+      "film_year": 2013,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: weithin vermarkteter Emmerich-Actionfilm mit Tatum und Foxx, außerhalb der großen fortgesetzten Marken jedoch weniger dauerhaft präsent.",
+      "directors": [
+        "Roland Emmerich"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2013; Vorführung am 21. Juni in Washington laut Releaseübersicht und zeitgenössischem Augenzeugenbericht des Veranstaltungsfotografen. New Yorker Premiere am 25. Juni, regulärer US-Start 28. Juni. Deauville im September ist eine spätere Festivalvorstellung.",
+      "director_note": "Roland Emmerich alleinige Hauptregie; James Vanderbilt Drehbuch, Anna Foerster Kamera. Die vollständigen Hauptcredits sind im AFI-Eintrag gelesen.",
+      "country_note": "USA nach AFI und The Numbers. Montreal beziehungsweise Kanada als Drehort nicht zum zusätzlichen Produktionsland erklärt; deutsche Herkunft des Regisseurs ebenfalls kein Produktionsnachweis.",
+      "series": null,
+      "series_note": "Eigenständige Geschichte um John Cale und James Sawyer. Der ähnliche Stoff von Olympus Has Fallen und die erneute Zerstörung des Weißen Hauses durch Emmerich begründen keine gemeinsame Filmfolge.",
+      "series_sources": [
+        "https://www.sonypictures.com/movies/whitehousedown",
+        "https://www.slashfilm.com/525721/film-interview-director-roland-emmerich-on-the-set-of-white-house-down/"
+      ],
+      "sources": [
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/whitehousedown",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis vollständig gelesen: Capitol-Polizist Cale, abgelehnte Bewerbung, Tochter und Besichtigung, Sawyer, paramilitärische Besetzung; Hauptdarsteller und Copyright 2013."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/69526-WHITE-HOUSEDOWN",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen verfügbaren Katalogeintrag gelesen: alleinige Hauptregie Emmerich, Vanderbilt, Foerster, USA, Hauptrollen und regulärer US-Start 28. Juni 2013. Keine nicht vorhandene ausführliche AFI-Handlung behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/White_House_Down",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung und Rollenliste vollständig gelesen: Walker und Tod seines Sohns im Iran-Einsatz, Limousinenflucht, Fahne, Raphelsons Beteiligung und Festnahme. Angaben zum ersten Start gegenüber früherer belegter Premiere ergänzt."
+        },
+        {
+          "key": "emmerich",
+          "url": "https://www.slashfilm.com/525721/film-interview-director-roland-emmerich-on-the-set-of-white-house-down/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Setinterview gelesen: übernommenes Vanderbilt-Projekt, beschleunigte Produktion, Studiobau und Lichtkontrolle, Weitwinkelansatz mit Foerster sowie konkrete Beast-Verfolgung im Garten des Präsidentensitzes."
+        },
+        {
+          "key": "flagge",
+          "url": "https://www.villagevoice.com/american-flag-edited-out-of-white-house-down/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Artikel und direkte Auskunft von Filmsprecher Scott Feinstein gelesen: Emily hält den Luftangriff mit der Präsidentenflagge auf, Szene mit zwei Flaggenversionen gedreht; außerdem Raphelson als Drahtzieher. Sachfehler Air Force Two im Artikel nicht übernommen."
+        },
+        {
+          "key": "voa",
+          "url": "https://www.voanews.com/a/washington-faces-terror-attack-in-new-movie-white-house-down/1691433.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Bericht mit direkten Besetzungsaussagen gelesen: Independence Day 1996, White House Down 2013, Familienmotiv, Foxx spielt Sawyer ohne Obama-Imitation; New Yorker Premiere 25. Juni."
+        },
+        {
+          "key": "premiere",
+          "url": "https://vithayaphotography.blogspot.com/2013/06/white-house-down-dc-movie-premiere.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen zeitgenössischen persönlichen Veranstaltungsbericht des Fotografen vom 22. Juni gelesen: Premiere mit Filmvorführung am 21. Juni 2013 im Georgetown AMC, anschließende Darstellerfragen; regulärer Start erst 28. Juni."
+        },
+        {
+          "key": "release",
+          "url": "https://www.imdb.com/title/tt2334879/releaseinfo/",
+          "accessed_on": "2026-11-03",
+          "supports": "Veröffentlichungsübersicht gelesen: Washington 21. Juni, New York 25. Juni, Indonesien 26. Juni 2013. Früheste belegte öffentliche Vorstellung berücksichtigt."
+        },
+        {
+          "key": "politik",
+          "url": "https://www.planet-interview.de/interviews/roland-emmerich/42247/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Interviewtext gelesen: Emmerich über fiktionalen Angriff von innen und politische Interessen des militärisch-industriellen Komplexes. Seine Aussagen zur wirklichen US-Politik nicht als neutrale historische Fakten übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-037-L1",
+      "year_question_id": "G150-20261103-ACTION-037-Y",
+      "director_question_id": "G150-20261103-ACTION-037-D"
+    },
+    {
+      "id": "ACTION-038",
+      "film_title_de": "Hunter Killer",
+      "film_title_original": "Hunter Killer",
+      "film_year": 2018,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Redaktionelle Einschätzung: durch Butler und Oldman sichtbarer U-Boot-Film, im breiten Publikum weniger verankert als die prägenden Werke des Untergenres.",
+      "directors": [
+        "Donovan Marsh"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2018. Britischer und irischer Kinostart 19. Oktober in Veröffentlichungsübersicht und zeitgenössischer Screen-Kritik vom 18. Oktober bestätigt; US-Start 26. Oktober laut offiziellen Produktionsunterlagen. Keine frühere öffentliche Veröffentlichung in den geprüften Releaseübersichten belegt.",
+      "director_note": "Donovan Marsh alleinige Hauptregie laut offiziellen Lionsgate-Unterlagen und FSK; Arne L. Schmidt und Jamie Moss Drehbuch. Frühere Entwicklungsregisseure nicht als Mitregie übernommen.",
+      "country_note": "USA nach FSK, Filmdienst und zeitgenössischem Screen-Kopfeintrag. Andere Datenbanken ergänzen China/Großbritannien; diese abweichende Länderfassung ist dokumentiert, aber nicht allein aus Drehorten oder einzelnen Finanzierungsnamen übernommen. Führend hier die konkreten deutschen Freigabe- und Filmdaten.",
+      "series": null,
+      "series_note": "Die Vorlage gehört zur Romanwelt von Wallace und Keith; die geprüften Filmquellen belegen für diese Verfilmung keinen nummerierten Folgefilm. Butler als Hauptdarsteller macht sie nicht zum Teil der Has-Fallen-Folge.",
+      "series_sources": [
+        "https://kfd.kinepolis.be/wp-content/uploads/2018/07/HUNTER-KILLER-Production-Notes_Final.pdf",
+        "https://www.donkeith.com/works"
+      ],
+      "sources": [
+        {
+          "key": "produktion",
+          "url": "https://kfd.kinepolis.be/wp-content/uploads/2018/07/HUNTER-KILLER-Production-Notes_Final.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Lionsgate-Produktionsunterlagen, Titelblatt, Synopsis, Einführung S.1–3, Andropov-Abschnitte S.6–7 und konkrete Rollencredits S.17 gelesen: Glass/Butler, Zakarin/Diachenko, Beaman/Stephens, Andropov/Nyqvist, Rettungsauftrag, Vertrauen der Kapitäne, alleinige Hauptregie und Drehbuchteam. Keine vollständige Auswertung aller 42 Seiten behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Hunter_Killer_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung und Besetzung vollständig gelesen: versenkte U-Boote, Andropovs Hilfe im Minenfeld, Beaman kehrt zu Martinelli zurück, Glass hält das Feuer zurück, russische Besatzung fängt Raketen ab und bekämpft Durov."
+        },
+        {
+          "key": "marsh",
+          "url": "https://lrmonline.com/news/donovan-marsh-interview/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges direktes E-Mail-Interview gelesen: drei Tage auf USS Houston, von Marine gezeigte Übungen, nach Vorbild gebautes Set auf beweglicher kardanischer Aufhängung, ruhig konzentriertes Butler-Spiel und Montage paralleler Handlungsräume."
+        },
+        {
+          "key": "fsk",
+          "url": "https://www.fsk.de/detail/?detailid=6393dfc9c8a72800161f1061&stype=single",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen Freigabeeintrag gelesen: USA 2018, Donovan Marsh, Konflikt nach Putsch und Zusammenarbeit der Kapitäne. Prüfdatum 2019 ist Heimkino-Freigabe, kein Erstjahr."
+        },
+        {
+          "key": "filmdienst",
+          "url": "https://www.filmdienst.de/film/details/551272/hunter-killer",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmdaten, Kurzbeschreibung und öffentlich lesbare Kritikeinleitung gelesen: USA 2018, unkonventioneller Kapitän, Arkansas, vermisste Tampa Bay und Antikriegsanlage. Fehlerhafte Nebenrollenangaben des Datensatzes nicht gegen offizielle Credits übernommen."
+        },
+        {
+          "key": "screen",
+          "url": "https://www.screendaily.com/reviews/hunter-killer-review/5133767.article",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössischen Kopf und Einleitung der Kritik vom 18. Oktober 2018 gelesen: Dir Donovan Marsh, US 2018, britischer Start19. Oktober und US-Start eine Woche später. Keine nicht gelesenen späten Filmszenen daraus abgeleitet."
+        },
+        {
+          "key": "release",
+          "url": "https://www.imdb.com/title/tt1846589/releaseinfo/",
+          "accessed_on": "2026-11-03",
+          "supports": "Indexierte Veröffentlichungsübersicht gelesen: Großbritannien und Irland19. Oktober 2018 vor weiteren Länderstarts; Direktansicht später403, daher nicht als vollständiger direkter Abruf bezeichnet."
+        },
+        {
+          "key": "autor",
+          "url": "https://www.donkeith.com/works",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete eigene Bibliografieeinträge zu Firing Point und Hunter Killer gelesen: Ausgabe Firing Point Juli 2012, gemeinsam mit George Wallace; umbenannte Filmbuchausgabe Oktober 2018. Nicht mit Filmveröffentlichung verwechselt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-038-L1",
+      "year_question_id": "G150-20261103-ACTION-038-Y",
+      "director_question_id": "G150-20261103-ACTION-038-D"
+    },
+    {
+      "id": "ACTION-039",
+      "film_title_de": "Non-Stop",
+      "film_title_original": "Non-Stop",
+      "film_year": 2014,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: verbreiteter Neeson-Thriller mit leicht erkennbarem Flugzeugkonzept, aber weniger dauerhaft präsent als seine große Entführungsreihe.",
+      "directors": [
+        "Jaume Collet-Serra"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "USA",
+        "Frankreich"
+      ],
+      "release_note": "Erstjahr 2014, Pariser Premiere27. Januar im Gaumont Opéra nach Releaseübersicht und zeitgenössischem Bildbericht vom28. Januar. Regulärer französischer Start26. Februar, US-Start28. Februar. Die Produktionsangabe 2013 einzelner deutscher Seiten und das Copyright 2013 in Apples Lizenzmetadaten sind keine frühere belegte Veröffentlichung.",
+      "director_note": "Jaume Collet-Serra alleinige Hauptregie; John W. Richardson, Chris Roach und Ryan Engle Drehbuch. Joel Silver ist Produzent und Interviewpartner, kein Mitregisseur.",
+      "country_note": "Großbritannien/USA/Frankreich nach dem konkreten offiziellen Studiocanal-Verleiheintrag. Apple und Wikipedia ergänzen Kanada, AFI nennt nur USA und Cineuropa USA/Frankreich. Die führende Verleihfassung wird übernommen; abweichende Länderfassungen sind sichtbar dokumentiert.",
+      "series": null,
+      "series_note": "Eigenständiger Bill-Marks-Film. Wiederholte Neeson/Collet-Serra-Zusammenarbeit mit Unknown und The Commuter ist keine fortlaufende Figuren- oder Filmreihe. Eine erwogene Fortsetzung begründet keinen veröffentlichten weiteren Teil.",
+      "series_sources": [
+        "https://filme.studiocanal.de/movie/non-stop",
+        "https://www.denofgeek.com/movies/inside-the-commuter-with-jaume-collet-serra/"
+      ],
+      "sources": [
+        {
+          "key": "universal",
+          "url": "https://www.universalpicturesathome.com/movies/non-stop",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis und Details vollständig gelesen: Bill Marks/Neeson, Textdrohung,20-Minuten-Frist und150 Millionen, Hauptdarsteller, Regie und Release Year 2014."
+        },
+        {
+          "key": "studiocanal",
+          "url": "https://filme.studiocanal.de/movie/non-stop",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Verleiheintrag im Suchindex gelesen: New York–London, Marks unter Entführungsverdacht, drei Produktionsländer, Regie und deutscher Start13. März 2014. Offensichtlich verschobene Feldüberschrift Regie über Darstellerliste nicht als Mitregie interpretiert."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/70050-NON-STOP",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen verfügbaren Katalogeintrag gelesen: Hauptcredits, Rollen, alleinige Regie, Drehbuchteam, regulärer US-Start28. Februar 2014. Keine dort fehlende ausführliche Synopsis behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Non-Stop_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Handlung und Rollenliste vollständig gelesen: Konto in Marks' Namen, Hammonds Kokainkoffer und Bombe, Bowen/White, Sicherheitsmotiv, Entlastung und Landung. Unterschiedliche Ziele der beiden Täter nicht gleichgesetzt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=non-stop",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete Dialogabschnitte gelesen: Marks erklärt Nancy das Konto in seinem Namen; Enttarnung und Bowens Vaterverlust, Sicherheitsvorwurf sowie Whites Geldinteresse; vorbereitete Verteilung von Gepäck und Passagieren. Keine vollständige Prüfung aller Dialogzeilen behauptet."
+        },
+        {
+          "key": "technik",
+          "url": "https://www.denofgeek.com/movies/interview-with-jaume-collet-serra-and-joel-silver-on-non-stop/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges Interview mit Regisseur und Produzent gelesen: eingeblendete Textnachrichten als Gegnerpräsenz statt150 Telefonaufnahmen, statische Kamera und Montage des Toilettenkampfs, bewegliche Setwände, Beratung und Technik als Problem für die Figur."
+        },
+        {
+          "key": "dreharbeit",
+          "url": "https://entertainment-focus.com/2014/06/23/liam-neeson-jaume-collet-serra-interview/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständiges direktes Interview gelesen: zusammenhängendes Flugzeuginnenset vom Cockpit bis Heck, abnehmbare Wände, erhöhter Aufbau und in Einzelabschnitten gefilmter Toilettenkampf; Zusammenarbeit ohne ausgedehnte Improvisation."
+        },
+        {
+          "key": "release",
+          "url": "https://www.imdb.com/title/tt2024469/releaseinfo/",
+          "accessed_on": "2026-11-03",
+          "supports": "Veröffentlichungsübersicht gelesen: Paris27. Januar 2014 vor den regulären Februarstarts."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.purepeople.com/article/julianne-moore-et-liam-neeson-a-paris-un-duo-terriblement-complice-et-glamour_a135585/1",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössischen Bericht und Bildunterschriften vom28. Januar 2014 gelesen: Pariser Vorpremiere am27. Januar mit Hauptdarstellern. Nur Datumsbeleg genutzt."
+        },
+        {
+          "key": "unknown",
+          "url": "https://www.studiobabelsberg.com/about-us/press-and-news/europapremiere-fuer-studio-babelsberg-koproduktion-unknown-identity-auf-der-berlinale-2011/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Produktionsmitteilung vollständig gelesen: Unknown mit Neeson unter Collet-Serra, öffentliche Veröffentlichung 2011 und Berlinale-Europapremiere. Für den datierten früheren gemeinsamen Film verwendet."
+        },
+        {
+          "key": "vergleich",
+          "url": "https://www.denofgeek.com/movies/inside-the-commuter-with-jaume-collet-serra/",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten Interviewabschnitt gelesen: Regisseur grenzt die eigenständigen Geschichten und Kommunikationsformen von Non-Stop und The Commuter ab; vergleichbare Erfahrung, unterschiedliche Filme und Figuren."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-039-L1",
+      "year_question_id": "G150-20261103-ACTION-039-Y",
+      "director_question_id": "G150-20261103-ACTION-039-D"
     }
   ],
   "series_updates": [
