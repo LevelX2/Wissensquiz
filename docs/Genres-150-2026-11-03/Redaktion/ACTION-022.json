@@ -1,0 +1,262 @@
+{
+  "id": "ACTION-022",
+  "film_title_de": "Cash Truck",
+  "film_title_original": "Wrath of Man",
+  "film_year": 2021,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Jason-Statham-Thriller und erneute Zusammenarbeit mit Guy Ritchie; die verschachtelte Handlung ist weniger allgemein geläufig als die Stars.",
+  "selection_reason": "Der Geldtransportfilm erschließt einen Überfall aus mehreren Zeitebenen und verbindet die Suche nach einem Informanten mit einem verborgenen Rachemotiv.",
+  "directors": [
+    "Guy Ritchie"
+  ],
+  "production_countries": [
+    "USA",
+    "Großbritannien"
+  ],
+  "release_note": "Erstjahr 2021 gemäß Miramax, Filmdienst und Netflix. Internationale Kinostarts bereits am 22. April 2021, US-Start 7. Mai, deutscher Start 29. Juli; der späte britische Streamingstart im Dezember ist kein Erstjahr.",
+  "director_note": "Guy Ritchie ist alleiniger offizieller Hauptregisseur. Ivan Atkinson und Marn Davies sind Mitautoren der Bearbeitung; Nicolas Boukhrief und Éric Besnard stehen für die französische Vorlage, nicht für eine Mitregie dieser Fassung.",
+  "country_note": "USA/Großbritannien gemäß Filmdienst und FSK. Londoner Dreharbeiten stellen zum großen Teil Los Angeles dar; Dreh- und Handlungsort getrennt.",
+  "series": null,
+  "series_note": "Eigenständige Neuverfilmung von Le convoyeur aus dem Jahr 2004; kein zweiter Teil und keine Filmfolge mit anderen Ritchie/Statham-Zusammenarbeiten.",
+  "series_sources": [
+    "https://www.netflix.com/tudum/articles/wrath-of-man-release-date-news",
+    "https://www.miramax.com/movie/wrath-of-man/"
+  ],
+  "sources": {
+    "miramax": {
+      "url": "https://www.miramax.com/movie/wrath-of-man/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesene offizielle Synopsis und Credits: Statham, neuer Sicherheitsmann, verborgenes Rachemotiv, Ritchie und 2021."
+    },
+    "netflix": {
+      "url": "https://www.netflix.com/tudum/articles/wrath-of-man-release-date-news",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener Filmabschnitt: H/Bullet/BoySweat, scheinbar mittelmäßige Ausbildung, Rettung beim Überfall, Los Angeles und Neuverfilmung von Le convoyeur 2004."
+    },
+    "filmdienst": {
+      "url": "https://www.filmdienst.de/film/details/616996/cash-truck-2021",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener zugänglicher Werktext und Kritik: deutscher Titel, USA/Großbritannien, Hauptcredits, wiederholter Auftakt aus wechselnden Blickwinkeln, Kapitelstruktur und zeitlich entfaltetes Motiv."
+    },
+    "fsk": {
+      "url": "https://www.fsk.de/detail/?detailid=6393cb93c8a72800161f05de&stype=single",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener offizieller Datensatz: GB/USA 2021, Titelidentität, Ritchie, Rückblendenstruktur und Selbstjustizthema."
+    },
+    "produktion": {
+      "url": "https://www.snaptaste.com/wrath-of-man/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener filmbezogener Interview-/Produktionsbericht: H als krimineller Vater eines getöteten Kindes, London als Los-Angeles-Ersatz, Black-Box-Durchspiel vor Kameras mit einfachen Requisiten und Aussagen Ritchies, Stathams und McCallanys."
+    },
+    "ritchie": {
+      "url": "https://cinema.heavymag.com.au/wrath-of-man-guy-ritchie-interview/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesenes Ritchie-Interview: Ursprung im französischen Film, veränderte Hauptfigur, absichtlich ernster Ton statt Komik und Zusammenarbeit mit Statham."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Wrath_of_Man",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige vierteilige Handlung gelesen: Dougies Tod, H als Hargreaves, Bullet als Informant der Veteranen, Depotüberfall, Jan und Schluss; Besetzungen und frühere internationale Starts."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Jason Statham spielt den neuen Sicherheitsmann H.",
+      "question": "Wer spielt H, den wortkargen neuen Mitarbeiter der Geldtransportfirma, in „Cash Truck“?",
+      "answers": [
+        "Jason Statham",
+        "Gerard Butler",
+        "Clive Owen",
+        "Luke Evans"
+      ],
+      "short": "Jason Statham spielt H.",
+      "context": "H (Jason Statham) tritt zunächst als unscheinbarer Bewerber auf und besteht die geforderten Prüfungen nur knapp. Bei einem Überfall zeigt er jedoch eine Präzision, die zu diesem Eindruck nicht passt. Seine Kollegen haben damit einen neuen Grund für Misstrauen: Der Mann, der ihren Transport schützt, verheimlicht offenbar mehr als eine ungewöhnliche Berufserfahrung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "miramax",
+        "netflix"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Handlung spielt bei einer Geldtransportfirma in Los Angeles.",
+      "question": "In welcher Stadt arbeitet H (Jason Statham) für die Geldtransportfirma Fortico in „Cash Truck“?",
+      "answers": [
+        "Los Angeles",
+        "Chicago",
+        "Boston",
+        "New York"
+      ],
+      "short": "Forticos Transporte führen durch Los Angeles.",
+      "context": "Die gepanzerten Fahrzeuge verbinden Bankbestände, Abholstellen und das gesicherte Depot. Die Firma wird damit zu einem Arbeitsplatz, an dem Abläufe und Sicherheitsregeln von innen beobachtet werden können. Für H (Jason Statham) ist diese Nähe entscheidend. Die Produktionsorte sind davon zu unterscheiden: Große Teile des amerikanischen Schauplatzes wurden tatsächlich in London gedreht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "netflix",
+        "produktion",
+        "filmdienst"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "H sucht die Täter, die seinen Sohn bei einem Überfall getötet haben.",
+      "question": "Welcher Verlust erklärt Hs (Jason Statham) verborgene Mission bei Fortico in „Cash Truck“?",
+      "answers": [
+        "Sein Sohn wurde bei einem Überfall getötet",
+        "Seine Frau verschwand nach einer Geldübergabe",
+        "Sein Bruder starb bei einer fingierten Gefängnisflucht",
+        "Sein Vater wurde wegen eines fremden Raubs verurteilt"
+      ],
+      "short": "H sucht die Mörder seines Sohnes.",
+      "context": "Dougie (Eli Brown) gerät in einen Überfall, während sein Vater H (Jason Statham) selbst kriminellen Geschäften nachgeht. Die Tätersuche beginnt anschließend in dessen eigenem Milieu, bringt aber nicht das gesuchte Ergebnis. Der Wechsel zu Fortico ist die nächste Stufe der Nachforschungen: H vermutet eine Verbindung zwischen den Räubern und einem Mitarbeiter der Firma.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Bullet ist der Informant innerhalb der Geldtransportfirma.",
+      "question": "Wer entpuppt sich in „Cash Truck“ als Verbindungsmann der Räuber innerhalb von Fortico?",
+      "answers": [
+        "Bullet, gespielt von Holt McCallany",
+        "Boy Sweat Dave, gespielt von Josh Hartnett",
+        "Terry, gespielt von Eddie Marsan",
+        "Dana, gespielt von Niamh Algar"
+      ],
+      "short": "Bullet arbeitet mit der Räubergruppe zusammen.",
+      "context": "Bullet (Holt McCallany) führt H (Jason Statham) zunächst als erfahrener Kollege in den Beruf ein. Gerade diese vertraute Stellung verschafft ihm später Einfluss auf den Zugriff der Angreifer. Er gehört zu der Verbindung zwischen dem Betrieb und den ehemaligen Soldaten. Der vermeintliche Helfer ist somit Teil der Struktur, nach der H sucht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "netflix"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Auftaktüberfall wird durch Zeitsprünge und wechselnde Perspektiven neu erklärt.",
+      "question": "Wie verändert „Cash Truck“ im Verlauf des Films das Verständnis des Überfalls aus der Anfangssequenz?",
+      "answers": [
+        "Er kehrt in Zeitsprüngen aus anderen Perspektiven zu ihm zurück",
+        "Er zeigt ihn später als vollständig erfundene Polizeirekonstruktion",
+        "Er wiederholt ihn als Traum eines nach dem Überfall Bewusstlosen",
+        "Er erklärt ihn als zwei äußerlich identische Überfälle am selben Tag"
+      ],
+      "short": "Spätere Kapitel zeigen neue Perspektiven auf denselben Überfall.",
+      "context": "Am Anfang bleiben wichtige Vorgänge außerhalb des Blickfelds; Schüsse sind zu hören, ohne dass schon alle Beteiligten eingeordnet werden können. Die folgenden Kapitel ergänzen die Geschichte des Vaters und die Planung der Täter. Das Ereignis selbst wird dadurch nicht rückgängig gemacht. Neue Informationen verändern vielmehr, wie die zunächst rätselhafte Szene und Hs (Jason Statham) Anwesenheit verstanden werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "filmdienst",
+        "handlung",
+        "ritchie"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Black-Box-Probe ließ das Ensemble den Film mit einfachen Mitteln vor Kameras durchspielen.",
+      "question": "Was ließ Guy Ritchie vor dem eigentlichen Dreh von „Cash Truck“ bei seiner „Black Box“-Probe machen?",
+      "answers": [
+        "Das Ensemble spielte den Film mit einfachen Requisiten vor Kameras durch",
+        "Die Darsteller planten einen echten Geldtransport unter Polizeiaufsicht",
+        "Die Stuntcrew baute sämtliche Fahrzeuge als ferngesteuerte Modelle nach",
+        "Die Darsteller probten alle Dialoge ausschließlich ohne Bild im Tonstudio"
+      ],
+      "short": "Die Darsteller spielten den Film früh mit einfachen Mitteln durch.",
+      "context": "Die Probe lieferte eine grobe filmische Fassung, bevor die aufwendigen Schauplätze und Abläufe entstanden. Holt McCallany beschreibt den Vorteil gegenüber einer gewöhnlichen Leseprobe: Längere Handlungsabschnitte und Figurenentwicklungen wurden bereits körperlich erfahrbar. Ritchie wollte daraus einen veränderbaren Arbeitsplan gewinnen und Dialoge auch später noch an den konkreten Situationen mit den Darstellern weiterentwickeln.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Wrath of Man erschien erstmals 2021.",
+      "question": "In welchem Jahr erschien „Cash Truck“ mit Jason Statham und Holt McCallany erstmals?",
+      "answers": [
+        "2021",
+        "2015",
+        "2018",
+        "2023"
+      ],
+      "short": "Diese Fassung erschien 2021.",
+      "context": "2021 wurde der französische Film Le convoyeur von 2004 neu bearbeitet. Der Abstand beträgt 17 Jahre, doch Ritchie beschreibt die Vorlage nur als einen Teil seines neuen Films. Aus dem Ausgangspunkt einer eingeschleusten Figur in einem Geldtransportunternehmen entwickelte er eine anders angelegte Hauptfigur und zusätzliche Erzählebenen. Die Jahresfolge bezeichnet deshalb zwei unterschiedliche Fassungen desselben Stoffansatzes.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "miramax",
+        "netflix",
+        "ritchie"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Guy Ritchie führte die offizielle Regie.",
+      "question": "Wer führte bei „Cash Truck“ mit Jason Statham Regie?",
+      "answers": [
+        "Guy Ritchie",
+        "Matthew Vaughn",
+        "Martin Campbell",
+        "Simon West"
+      ],
+      "short": "Guy Ritchie führte Regie.",
+      "context": "Guy Ritchie betont im Interview, dass er den Stoff bewusst ernst halten und den gewohnten komischen Ton vermeiden wollte. Die Geheimnisse der Figur sollten sich schrittweise aus verschiedenen Erzählschichten lösen. Zusammen mit Ivan Atkinson und Marn Davies schrieb er die Bearbeitung; der Schwerpunkt liegt auf Vergeltung und verborgener Identität innerhalb der scheinbar normalen Arbeitswelt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "miramax",
+        "ritchie",
+        "filmdienst"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

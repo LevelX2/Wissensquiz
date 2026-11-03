@@ -2685,3 +2685,8 @@ Abenteuer erreicht 150 Filme: fünf abschließende Fassungen mit 40 Fragen, 38 n
 #### Fortsetzung 03.11.2026 – W44
 
 Sechs Actionfilme ACTION-016–021 (Hard Rain, Operation: Broken Arrow, Passwort: Swordfish, The Italian Job 1969 und 2003, Ambulance) vollständig gegengelesen und integriert: 48 Fragen mit 48 neuen Wissenszielen. Primäre Effektberichte, Filmemacherinterviews und MINI-Herstellerbeleg unabhängig gelesen; Original und Neuverfilmungen bewusst ohne erfundene Fortsetzungsnummern. Action erreicht 121 Filme. Alle 2.184 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 83 Pakete / 17.479 Fragen / 16.781 Ziele; 228 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W45
+
+Sechs Actionfilme ACTION-022–027 (Cash Truck, The Gentlemen, Criminal Squad, Triple Frontier, Triple 9, Street Kings) mit 48 neuen Fragen und Wissenszielen integriert. Vollständige unabhängige Gegenlese aller Fragen; primäre Filmemacher- und VFX-Interviews nachgelesen. The Gentlemen nach bestätigter Publikumsaufführung im Dezember 2019 geführt; Criminal Squad und Street Kings als erste veröffentlichte Teile ihrer ausdrücklich nummerierten Reihen. Action erreicht 127 Filme. Alle 2.232 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 84 Pakete / 17.527 Fragen / 16.829 Ziele; 222 Genreergänzungen offen.
