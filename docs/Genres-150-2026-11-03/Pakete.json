@@ -1028,8 +1028,8 @@
     },
     {
       "wave": "W80",
-      "filename": "Genres150_20261103_W80.csv",
-      "path": "/genres150-20261103-w80-fragen.csv",
+      "filename": "Genres150_20261103_W80_R1.csv",
+      "path": "/genres150-20261103-w80-r1-fragen.csv",
       "films": [
         "MARTIALARTS-041",
         "MARTIALARTS-042",
@@ -1037,7 +1037,7 @@
         "MARTIALARTS-044",
         "MARTIALARTS-045",
         "MARTIALARTS-046",
-        "MARTIALARTS-047",
+        "MARTIALARTS-051",
         "MARTIALARTS-048",
         "MARTIALARTS-049",
         "MARTIALARTS-050"
@@ -1150,6 +1150,28 @@
         "https://www.arrowvideo.com/p/blu-ray/shawscope-vol.-3-limited-edition-blu-ray/15408075/",
         "https://international.ucla.edu/institute/event/3830"
       ]
+    }
+  ],
+  "superseded_packages": [
+    {
+      "wave": "W80",
+      "filename": "Genres150_20261103_W80.csv",
+      "path": "/genres150-20261103-w80-fragen.csv",
+      "films": [
+        "MARTIALARTS-041",
+        "MARTIALARTS-042",
+        "MARTIALARTS-043",
+        "MARTIALARTS-044",
+        "MARTIALARTS-045",
+        "MARTIALARTS-046",
+        "MARTIALARTS-051",
+        "MARTIALARTS-048",
+        "MARTIALARTS-049",
+        "MARTIALARTS-050"
+      ],
+      "sha256": "460c590a641eaa86f319acf619ccf1be6dcf6e8def9a6620238e7bce870dcade",
+      "superseded_by": "Genres150_20261103_W80_R1.csv",
+      "reason": "Nicht mehr im aktiven Katalog: tatsächliche Hauptregie wegen positiver Mitregienennungen Fruit Chans bei Apple/Fortune Star und Unifrance gegenüber Einordnung als Regieassistenz/Planung bei der Hong Kong Film Directors Guild nicht zweifelsfrei geklärt. Vollständiger Ersatz durch MARTIALARTS-051 mit neuen Frage-IDs in W80_R1; ursprüngliche Rohquelle unverändert erhalten."
     }
   ]
 }

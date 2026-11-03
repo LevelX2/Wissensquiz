@@ -34363,82 +34363,104 @@
       "director_question_id": "G150-20261103-MARTIALARTS-046-D"
     },
     {
-      "id": "MARTIALARTS-047",
-      "film_title_de": "Powerman 3",
-      "film_title_original": "Lung dik sam",
-      "film_year": 1985,
+      "id": "MARTIALARTS-051",
+      "film_title_de": "Kill!",
+      "film_title_original": "Kiru",
+      "film_year": 1968,
       "subdomain": "Martial Arts & Asia-Film",
-      "categories": [],
+      "categories": [
+        "Classics",
+        "Arthouse"
+      ],
       "familiarity_level": 3,
-      "familiarity_reason": "Über den deutschen Powerman-Titel zugänglicher Sammo-Hung-/Jackie-Chan-Film, dessen Familiendrama weniger bekannt ist als die großen Actionkomödien.",
+      "familiarity_reason": "Redaktionelle Einschätzung: ein in Retrospektiven und kuratierten Samuraifilmeditionen präsenter Film, dessen Figuren und Intrige hauptsächlich dem Publikum des klassischen japanischen Kinos vertraut sind.",
       "directors": [
-        "Sammo Hung"
+        "Kihachi Okamoto"
       ],
       "production_countries": [
-        "Hongkong"
+        "Japan"
       ],
-      "release_note": "1985 nach HKFA, Splendid, 88 Films und zeitgenössischer Werkzuordnung. HKFA nennt Hongkong 16. Oktober 1985; die japanische Fassung und ihre zusätzlichen Kämpfe sind keine eigene Filmidentität. Original 龍的心, Lung dik sam; Mandarin Long de xin. Heart of Dragon/Heart of the Dragon/The First Mission/Powerman III sind Aliasnamen.",
-      "director_note": "Sammo Hung alleinige Hauptregie nach HKFA und Lizenzgeber; Yuen Biao, Corey Yuen, Yuen Wah und weitere Beteiligte sind gesonderte Actiongestaltung. Fruit Chan wird in einzelnen Datenbanken als second director geführt, kein gleichrangiger Hauptregiecredit daraus abgeleitet.",
-      "country_note": "Hongkong nach HKFA, 88 Films und Splendid; japanische Fassung/Auswertung begründet keine zweite Herstellungsnation.",
+      "release_note": "Erstjahr1968 nach Japan Foundation, Criterion, NFAJ, Arsenal und japanischem Werkdatensatz Eiga.com; letzterer nennt22.Juni1968 als japanischen Kinostart. Eine uneinheitliche Wiki-Angabe8./22.Juni wird nicht übernommen. Kein Beleg für eine öffentliche Vorführung in einem früheren Jahr gefunden. Nicht mit Kenji Misumis gleichnamigem Kiru von1962 oder dem indischen Kill von2023 verwechselt.",
+      "director_note": "Kihachi Okamoto als einziger Hauptregisseur in vollständig gelesenen Credits von NFAJ, Japan Foundation, Criterion und Arsenal. NFAJ unterscheidet Kunihiko Watanabe als Regieassistenz sowie Ryū Kuze als Kampfgestaltung. Kein positiver Hinweis auf zusätzliche Hauptregie gefunden.",
+      "country_note": "Japan ausdrücklich im NFAJ-Originaldatensatz, im Criterion-Werkangebot und im Arsenal-Programm. Toho als Produktion/Vertrieb; spätere ausländische Editionen oder Retrospektiven begründen keine zusätzliche Herstellungsnation.",
       "series": null,
-      "series_note": "Eigenständige Figuren Ted/Tat und Danny/Dodo. Die deutsche Ziffer 3 setzt eine Vermarktung fort, nicht die Lucky-Stars-Handlung. Das bestehende Wheels-on-Meals-Register ist ebenfalls ohne Reihe; die offizielle Lucky-Stars-Trilogie enthält diesen Film nicht.",
+      "series_note": "Eigenständige Genta-/Hanjiro-Handlung; keine belegte nummerierte Filmfolge. Die gemeinsame Criterion-Edition Rebel Samurai ist eine Zusammenstellung verschiedener Werke. Ähnlichkeiten zu Sanjuro und die Zusammenarbeit mit Nakadai machen Kill! weder zu dessen Fortsetzung noch zu einem Teil von The Sword of Doom. Unterschiedliche Angaben über dieselbe literarische Vorlage werden nicht als gesicherte Verbindung übernommen: Japan Foundation/NFAJ nennen Seventeen Days on Mt. Toride.",
       "series_sources": [
-        "https://88-films.myshopify.com/products/heart-of-dragon",
-        "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/"
+        "https://www.criterion.com/films/763-kill",
+        "https://nd.jpf.go.jp/events/event/seven-samurai-2/",
+        "https://nfad.nfaj.go.jp/det.php?data_id=65303"
       ],
       "sources": [
         {
-          "key": "splendid",
-          "url": "https://www.splendid-ag.com/powerman-3?view=home-entertainment",
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/763-kill",
           "accessed_on": "2026-11-03",
-          "supports": "Vollständigen konkreten Lizenztext samt Werkcredits im Suchindex gelesen: deutscher Titel, Hongkong 1985, Sammo Hung Hauptregie, Jackie Chan als Ted, Bruder als Anlass der eigenen Ermittlungen. Spätere VOD-/Disc-Daten nicht Erstjahr."
+          "supports": "Vollständige konkrete Synopsis, Filmangaben und Cast/Credits gelesen: Japan1968, alleinige Hauptregie, Nakadai/Genta und Takahashi/Hanjiro, gegensätzliche Lebenswege. FürL1. Behauptete identische Sanjuro-Vorlage nicht übernommen."
         },
         {
-          "key": "hkfa",
-          "url": "https://www.hkfilm.net/archive/hkfa.pdf",
+          "key": "foundation",
+          "url": "https://nd.jpf.go.jp/events/event/seven-samurai-2/",
           "accessed_on": "2026-11-03",
-          "supports": "Konkrete vollständige Zeile7137 und Spaltenkopf gelesen: 龍的心/Heart Of The Dragon, Hongkong-Start16.10.1985, 洪金寶 Hauptregie. Nicht das gesamte 577-seitige Verzeichnis gelesen."
+          "supports": "Vollständigen eigenen Werktext einschließlich Cast, zusammenhängender Handlung und Notes gelesen: 1833, ehemaliger Bauer verkauft Hof und will Samurai werden, Sieben töten Mizoguchi, Ayuzawa greift sie an, Hanjiro erkennt Machenschaften. Credits alleinOkamoto. FürL2/M2. FürL1 zusätzlich Gentas ausdrücklich genannten Glücksspielerberuf belegt."
         },
         {
-          "key": "films88",
-          "url": "https://88-films.myshopify.com/products/heart-of-dragon",
+          "key": "nfaj",
+          "url": "https://nfad.nfaj.go.jp/det.php?data_id=65303",
           "accessed_on": "2026-11-03",
-          "supports": "Vollständigen eigenen Lizenztext und Fassungs-/Tonangaben gelesen: Danny/Sammo, behinderter Bruder, Rettungsgeisel, Hongkong- und Japanfassung; letztere mit japanischer Musik und zusätzlichem Material. Keine Extras angesehen."
+          "supports": "Vollständigen konkreten archivischen Datensatz mit allen Stab-/Castzeilen gelesen: 斬る/KILL!/Kiru,1968,Japan,Toho,Okamoto allein監督; Watanabe監督助手 und Kuze殺陣 getrennt. Genta/Nakadai,Hanjiro/Takahashi,Arao/Kishida,Oyo/Tamura,Ayuzawa/Koyama. Primärer Metadatenabgleich."
         },
         {
-          "key": "fareast",
-          "url": "https://fareastfilms.com/review/heart-of-dragon/",
+          "key": "kingdom",
+          "url": "https://www.tohokingdom.com/movies/kill.html",
           "accessed_on": "2026-11-03",
-          "supports": "Vollständige eigene Kritik Tony Ryan samt Werk-/Actioncredits im Suchindex gelesen: Seefahrtswunsch, Fürsorge für Bruder, gestohlene Juwelen/Entführung, schwerpunktmäßig Familiendrama. FürL2/M1."
+          "supports": "Vollständigen eigenen Handlungstext und Stab-/Castblock der ausdrücklich unabhängigen Fansite gelesen: Genta als Bote, Hanjiro mit Tötungsauftrag, gemeinsame Falschmeldung statt wirklichem Mord. FürM1. Nicht als offizieller Toho-Text ausgegeben; ungleiche Vorlagenangabe im Triviaabschnitt nicht verwendet."
         },
         {
-          "key": "inside",
-          "url": "https://insidepulse.com/2023/04/10/blu-ray-review-heart-of-dragon/",
+          "key": "hampton",
+          "url": "https://www.criterion.com/current/posts/390-kill-pardon-my-dust",
           "accessed_on": "2026-11-03",
-          "supports": "Vollständige eigene Film- und Disc-Kritik Joe Corey, Zeilen36–60, gelesen: Kinder benutzen Dodo als Vormund, getrennte Fassungen, eigener Sichtungsbericht zu Sammo-Interviews (Drehstopp/Neufassung/Übernahme der Rolle). Nicht behauptet, die Interviews selbst gesehen zu haben. FürM2/D."
+          "supports": "Vollständigen eigenen Essay Howard Hamptons gelesen: bezahlter Kämpfer braucht30Ryō zum Freikauf seiner Frau aus einem Bordell; Genta täuscht mit Hufgeräuschen eine Verfolgung vor; konkrete Satire und Figurenaufbau. FürS1/S2. Falsche Datierung von TheSwordofDoom auf1965 nicht übernommen, offizieller Werkdatensatz1966 führend."
         },
         {
-          "key": "fthis",
-          "url": "https://www.fthismovie.com/2023/04/blu-ray-review-heart-of-dragon.html",
+          "key": "chris",
+          "url": "https://www.criterion.com/current/posts/397-kill-rebel-samurai-cinema",
           "accessed_on": "2026-11-03",
-          "supports": "Vollständige eigene Kritik Anthony King im Suchindex gelesen: Befehlsverstoß, Rettung am Hochhaus, Gefängniscoda und spätere Wiedervereinigung; Japanfassung zwei zusätzliche Kampfszenen. FürS1."
+          "supports": "Vollständigen eigenen Essay ChrisD. gelesen, insbesondere zusammenhängenden Okamoto-Abschnitt: TheSwordofDoom1966,Kill1968,Nakadai in entgegengesetzten Rollen, komischer Ton bei fortbestehender Gewalt. FürY. Historische Nebenangaben und Gleichsetzung der Sanjuro-Vorlage nicht übernommen."
         },
         {
-          "key": "lovehk",
-          "url": "https://www.lovehkfilm.com/reviews/heart_of_dragon.htm",
+          "key": "doom",
+          "url": "https://www.criterion.com/films/925-the-sword-of-doom",
           "accessed_on": "2026-11-03",
-          "supports": "Beide vollständigen eigenen Kritiken Kozo1997/Magicvoice2002 samt Cast-/Actioncredits gelesen: Bruderbeziehung, Namensvarianten Danny/Tat, Seefahrtswunsch; Hauptregie Sammo, Actionteam getrennt. FürL1 und Creditabgleich."
+          "supports": "Vollständige konkrete Werk-Synopsis und Credits gelesen:1966,Okamoto,Nakadai als Ryunosuke, unbarmherzige Gewalt bis zum Wahnsinn. Nur Zeit-/Rollenvergleich inY; keine neuen Fragen zu diesem anderen Film."
         },
         {
-          "key": "eureka",
-          "url": "https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/",
+          "key": "arsenal",
+          "url": "https://www.arsenal-berlin.de/assets/Legacy/user_upload/forum/pdf2007/4113_Kill.pdf",
           "accessed_on": "2026-11-03",
-          "supports": "Bereits vollständig gelesener offizieller Lizenztext: Lucky-Stars-Originaltrilogie Winners & Sinners/My Lucky Stars/Twinkle Twinkle Lucky Stars; Heart of Dragon gehört nicht dazu. Nur Reihenabgrenzung."
+          "supports": "Vollständiges einseitiges offizielles Programmblatt deutsch/englisch gelesen:Japan1968,Toho,Okamoto allein; dynamische Action, Humor, ausgeklügelte Montage und Gegenüberstellung des ehemaligen Samurai mit dem Bauern. FürD."
+        },
+        {
+          "key": "eiga",
+          "url": "https://eiga.com/movie/36012/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige redaktionelle Erläuterung, zusammenhängende japanische Handlung und Film-/Stabblock gelesen; Nutzerkommentare nicht als Belege verwendet.22.Juni1968; Ayuzawa will die sieben Männer beseitigen und die Clanmacht an sich ziehen. FürM2 und Erstjahresabgleich. FürL2 Hofverkauf, Samuraiwunsch, Anwerbung und spätere Aufgabe dieses Wunschs gelesen."
+        },
+        {
+          "key": "nippon",
+          "url": "https://db.nipponconnection.com/de/film/2619/kill",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten eigenen Programmeintrag samt Credits gelesen:deutscher FestivaltitelKill!,Japan1968,Okamoto,1833,Genta,Komik/Zynismus/Spaghettiwestern,Toho-Weltvertrieb und JapanFoundation-Filmkopie. Titel-/Genre-/Arthouseabgleich; kein neuer Erststart aus dem NC2026-Termin abgeleitet."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.subtitlecat.com/subs/21/Kiru%20-%20Kill%21%20%281968%29-eng.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete zusammenhängende englische Dialogabschnitte zur Anwerbung Jurota Araos und zu seiner Frau gelesen: zehn Ryō pro Mann, Botschaft an Oyo als seine Frau, spätere Identifizierung als Frau des Truppführers und dreißig Ryō Freikauf. Nicht die ganze Untertiteldatei oder den Film als gelesen/gesehen beansprucht; nurS1. Rollen-/Darstellerzuordnung NFAJ/JPFoundation separat geprüft."
         }
       ],
-      "reference_question_id": "G150-20261103-MARTIALARTS-047-L1",
-      "year_question_id": "G150-20261103-MARTIALARTS-047-Y",
-      "director_question_id": "G150-20261103-MARTIALARTS-047-D"
+      "reference_question_id": "G150-20261103-MARTIALARTS-051-L1",
+      "year_question_id": "G150-20261103-MARTIALARTS-051-Y",
+      "director_question_id": "G150-20261103-MARTIALARTS-051-D"
     },
     {
       "id": "MARTIALARTS-048",

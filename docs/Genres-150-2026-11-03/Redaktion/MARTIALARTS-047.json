@@ -65,7 +65,7 @@
       "supports": "Bereits vollständig gelesener offizieller Lizenztext: Lucky-Stars-Originaltrilogie Winners & Sinners/My Lucky Stars/Twinkle Twinkle Lucky Stars; Heart of Dragon gehört nicht dazu. Nur Reihenabgrenzung."
     }
   },
-  "status": "quellengeprueft",
+  "status": "entwurf",
   "questions": [
     {
       "code": "L1",
@@ -255,5 +255,11 @@
         ""
       ]
     }
+  ],
+  "exclusion_note": "Nicht mehr im aktiven Katalog: tatsächliche Hauptregie wegen positiver Mitregienennungen Fruit Chans bei Apple/Fortune Star und Unifrance gegenüber Einordnung als Regieassistenz/Planung bei der Hong Kong Film Directors Guild nicht zweifelsfrei geklärt. Vollständiger Ersatz durch MARTIALARTS-051 mit neuen Frage-IDs in W80_R1; ursprüngliche Rohquelle unverändert erhalten.",
+  "exclusion_sources": [
+    "https://tv.apple.com/hk/movie/龍的心/umc.cmc.1hdig861125l3sjaiykl0r2pd",
+    "https://medias.unifrance.org/medias/78/152/38990/presse/blood-the-last-vampire-presskit.pdf",
+    "https://www.hkfilmdirectors.com/1979-2013/director.php?n=陳果"
   ]
 }

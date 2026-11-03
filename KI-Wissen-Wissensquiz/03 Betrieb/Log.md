@@ -2884,3 +2884,8 @@ Knockabout mit acht individuell verfassten, vollständig unabhängig gegengelese
 #### Fortsetzung 03.11.2026 – W83
 
 Sechs weitere Kampfkunstfilme mit 48 neuen Zielen aufgenommen; darunter die korrekt unterschiedenen Originalfassungen Super Ninjas (1982), China Swordsman (1992) sowie der quellengeprüfte Ersatz Shaolin Mantis (1978). Titel, Hauptregie, Reihen, Jahresbezüge und globale Wissensziele zentral gegengelesen. Martial Arts & Asia-Film erreicht damit 144 Filme. Alle 3.960 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 122 Pakete / 19.255 Fragen / 18.540 Ziele; 6 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – W80R1
+
+W80 als ausdrücklich dokumentierte Revision neu versiegelt: Powerman 3 / Heart of Dragon wegen nicht zweifelsfrei auflösbarer tatsächlicher Hauptregie zurückgestellt, durch Kill! / Kiru (1968) von Kihachi Okamoto mit acht neuen IDs ersetzt. Original-CSV samt SHA-256 unverändert erhalten; alle 72 Zeilen der übrigen neun Filme sind feldgleich. Nur die eigene verwaiste Filmidentität aus Bekanntheits- und Reihenregister entfernt. Beide unabhängigen Gegenlesungen zu Kiru abgeschlossen. Alle 3.960 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 122 Pakete / 19.255 Fragen / 18.540 Ziele; 6 Genreergänzungen offen.
