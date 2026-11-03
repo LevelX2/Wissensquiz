@@ -1,0 +1,241 @@
+{
+  "id": "MUSIK-010",
+  "film_title_de": "Rhythmus im Blut",
+  "film_title_original": "There's No Business Like Show Business",
+  "film_year": 1954,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Klassisches Revuemusical mit Marilyn Monroe und Ethel Merman, dessen Einzelsongs bekannter sind als die gesamte Familiengeschichte.",
+  "selection_reason": "Ergänzt das Musical um eine durch mehrere Jahrzehnte verfolgte Varietéfamilie und die Spannung zwischen Bühnenberuf und eigenen Lebenswegen.",
+  "directors": [
+    "Walter Lang"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt die New Yorker Premiere am 16. Dezember 1954; deutsche Referenzdaten bestätigen die Fassung von 1954.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Familiengeschichte. Die Übernahme des Titelsongs aus Annie Get Your Gun begründet keine Filmfortsetzung.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/51374-THERES-NOBUSINESSLIKESHOWBUSINESS"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/51374-THERES-NOBUSINESSLIKESHOWBUSINESS",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener ausführlicher Suchindex: Regie, USA, Premiere, Familiensituation und Finale, Berlin-Repertoire mit zwei neuen Songs."
+    },
+    "film": {
+      "url": "https://en.wikipedia.org/wiki/There's_No_Business_Like_Show_Business_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung und Rollencredits: Bühnenfamilie, Steves Priesterberuf, Tims Marineuniform, musikalische Nummern und CinemaScope."
+    },
+    "de": {
+      "url": "https://www.filmdienst.de/film/details/7678/rhythmus-im-blut-1954",
+      "accessed_on": "2026-11-03",
+      "supports": "Deutscher Titel, USA 1954, Regie, Rollencredits und Revue-/Varietéform."
+    },
+    "monroe": {
+      "url": "https://www.tcm.com/articles/021641/marilyn-monroe",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Suchindex: Vickys Weg von Garderobenarbeit zum Gesang und Mermans Wiederaufnahme des von ihr 1946 auf Broadway eingeführten Titelsongs."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Donahues sind eine gemeinsam auftretende Varietéfamilie.",
+      "question": "Welche Gruppe steht im Mittelpunkt von „Rhythmus im Blut“?",
+      "answers": [
+        "Eine Varietéfamilie aus Eltern und ihren Kindern",
+        "Ein ausschließlich aus Kriegsheimkehrern bestehendes Tanzorchester",
+        "Eine studentische Jazzband auf ihrer ersten Auslandstournee",
+        "Ein Kirchenchor, der in ein Revuetheater umzieht"
+      ],
+      "short": "Die Donahues sind eine gemeinsam auftretende Varietéfamilie.",
+      "context": "Molly Donahue (Ethel Merman) und Terry Donahue (Dan Dailey) treten zunächst als Paar auf. Ihre drei Kinder wachsen in den Bühnenberuf hinein. Erfolg und familiärer Zusammenhalt hängen dadurch eng zusammen; sobald die Kinder eigene Wünsche entwickeln, verändert sich auch die gemeinsame Arbeit.",
+      "sources": [
+        "afi",
+        "de"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Ethel Merman spielt die Mutter und Bühnenkünstlerin Molly Donahue.",
+      "question": "Wer spielt in „Rhythmus im Blut“ Molly Donahue, die Mutter der auftretenden Familie?",
+      "answers": [
+        "Ethel Merman",
+        "Judy Garland",
+        "Betty Hutton",
+        "Ginger Rogers"
+      ],
+      "short": "Ethel Merman spielt die Mutter und Bühnenkünstlerin Molly Donahue.",
+      "context": "Molly Donahue (Ethel Merman) hält nicht nur den Familienalltag zusammen. Als Tim Donahue (Donald O’Connor) nach einem Unfall ausfällt, übernimmt sie seinen Platz in der Show. Ihr Bühnenerfolg und ihre Sorge um den verschwundenen Sohn bestehen dadurch gleichzeitig fort.",
+      "sources": [
+        "film",
+        "de"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Steve entscheidet sich gegen den gemeinsamen Bühnenberuf und wird Priester.",
+      "question": "Welchen eigenen Lebensweg wählt Steve (Johnnie Ray) in „Rhythmus im Blut“?",
+      "answers": [
+        "Er wird Priester.",
+        "Er wird Rennfahrer.",
+        "Er wird Theaterkritiker.",
+        "Er wird Börsenmakler."
+      ],
+      "short": "Steve entscheidet sich gegen den gemeinsamen Bühnenberuf und wird Priester.",
+      "context": "Steve Donahue (Johnnie Ray) besitzt eine gute Gesangsstimme, entscheidet sich aber für das Priesteramt. Die Familie muss akzeptieren, dass seine Zukunft außerhalb des bisherigen Ensembles liegt. Später erscheint er als Militärseelsorger wieder und ist beim Wiedersehen der Familie anwesend.",
+      "sources": [
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Tim kehrt beim Schlussauftritt als Angehöriger der Marine zurück.",
+      "question": "Wie taucht der zuvor verschwundene Tim (Donald O’Connor) im Finale von „Rhythmus im Blut“ wieder auf?",
+      "answers": [
+        "In der Uniform eines US-Matrosen",
+        "Als Leiter einer rivalisierenden Revuetruppe",
+        "Als Musiker einer europäischen Staatsoper",
+        "Als Besitzer des gerade geschlossenen Theaters"
+      ],
+      "short": "Tim kehrt beim Schlussauftritt als Angehöriger der Marine zurück.",
+      "context": "Nach Konflikten und einem Unfall verlässt Tim Donahue (Donald O’Connor) das Krankenhaus ohne Zielangabe. Seine Eltern suchen vergeblich nach ihm. Beim Benefizabend erscheint er in Marineuniform; die Rückkehr ermöglicht, dass die Familie noch einmal gemeinsam auftritt.",
+      "sources": [
+        "film",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Lieder stammen von Irving Berlin.",
+      "question": "Wessen Lieder verbinden die Revueauftritte in „Rhythmus im Blut“?",
+      "answers": [
+        "Irving Berlins",
+        "Cole Porters",
+        "George Gershwins",
+        "Jerome Kerns"
+      ],
+      "short": "Die Lieder stammen von Irving Berlin.",
+      "context": "Irving Berlins Songs liefern Material für sehr verschiedene Auftritte: Familiennummern stehen neben Vickys (Marilyn Monroe) Solodarbietungen. Zu den verwendeten Stücken zählen „Alexander’s Ragtime Band“ und „Heat Wave“. Der englische Filmtitel verweist ebenfalls auf ein Lied aus seinem Werk.",
+      "sources": [
+        "afi",
+        "de"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Film verbindet älteres Berlin-Repertoire mit zwei eigens neu geschriebenen Nummern.",
+      "question": "Wie setzt sich das Songmaterial von „Rhythmus im Blut“ zusammen?",
+      "answers": [
+        "Frühere Berlin-Songs stehen neben zwei neuen Nummern.",
+        "Die Partitur von „Annie Get Your Gun“ wird vollständig übernommen.",
+        "Einzelne Songs verschiedener Broadway-Komponisten bilden eine Anthologie.",
+        "Neue Liedtexte werden zu unveränderten klassischen Walzern gesungen."
+      ],
+      "short": "Der Film verbindet älteres Berlin-Repertoire mit zwei eigens neu geschriebenen Nummern.",
+      "context": "Für den Film entstanden „A Man Chases a Girl Until She Catches Him“ und „A Sailor’s Not a Sailor ’Till a Sailor’s Been Tattooed“. Viele andere Lieder hatten bereits eine Vorgeschichte auf der Bühne oder im Film. Das Musical ordnet dieses Repertoire in eine neu erzählte Familiengeschichte ein.",
+      "sources": [
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Film wurde 1954 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Rhythmus im Blut“ mit Ethel Merman und Marilyn Monroe erstmals?",
+      "answers": [
+        "1954",
+        "1946",
+        "1960",
+        "1967"
+      ],
+      "short": "Der Film wurde 1954 erstmals veröffentlicht.",
+      "context": "„Rhythmus im Blut“ kam 1954 ins Kino. Sein englischer Titelsong war bereits 1946 Teil von „Annie Get Your Gun“ gewesen. Ethel Merman verband beide Werke als Bühnen- und Filminterpretin: Ein bereits etabliertes Theaterlied wurde zum Namensgeber der neuen Filmgeschichte.",
+      "sources": [
+        "afi",
+        "monroe"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Walter Lang führte Regie.",
+      "question": "Wer führte bei „Rhythmus im Blut“ Regie?",
+      "answers": [
+        "Walter Lang",
+        "Stanley Donen",
+        "Charles Walters",
+        "Vincente Minnelli"
+      ],
+      "short": "Walter Lang führte Regie.",
+      "context": "Walter Lang inszenierte die Geschichte für Twentieth Century-Fox. Die Produktion nutzte CinemaScope und kräftige Farbgestaltung, um die Revueauftritte groß auszubreiten. Der Wechsel zwischen diesen Nummern und privaten Auseinandersetzungen hält das Bühnenensemble und die Familie als zwei Seiten derselben Gruppe zusammen.",
+      "sources": [
+        "afi",
+        "film",
+        "de"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

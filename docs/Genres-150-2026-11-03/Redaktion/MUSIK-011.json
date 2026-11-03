@@ -1,0 +1,245 @@
+{
+  "id": "MUSIK-011",
+  "film_title_de": "Systemfehler – Wenn Inge tanzt",
+  "film_title_original": "Systemfehler – Wenn Inge tanzt",
+  "film_year": 2013,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Deutsche Jugend-Musikkomödie mit einem wiedererkennbaren Titelsong; außerhalb ihres damaligen Zielpublikums eher Filmkennerstoff.",
+  "selection_reason": "Ein demütigender Bandsong wird zum Konflikt zwischen Erfolg, Gruppenloyalität und den Gefühlen seiner Adressatin.",
+  "directors": [
+    "Wolfgang Groos"
+  ],
+  "production_countries": [
+    "Deutschland"
+  ],
+  "release_note": "Regulärer deutscher Kinostart am 11. Juli 2013 nach FFA-Jahresliste und zeitgenössischen Kritiken; DVD-Veröffentlichung 2014 ist später.",
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Musikkomödie; die reale Veröffentlichung des Titelsongs und Auftritte der Darsteller sind keine nummerierte Filmreihe.",
+  "series_sources": [
+    "https://www.programmkino.de/filmkritiken/systemfehler-wenn-inge-tanzt/"
+  ],
+  "sources": {
+    "handlung": {
+      "url": "https://de.wikipedia.org/wiki/Systemfehler_%E2%80%93_Wenn_Inge_tanzt",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlung, Rollencredits, mehrere Textfassungen des Liedes und deutsche Produktion."
+    },
+    "kritik": {
+      "url": "https://www.filmfutter.com/systemfehler-wenn-inge-tanzt/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Sichtung: verletzter Gitarrist, Inges Bedingung, Madsen, tatsächliche Proben der Darsteller und veränderter Text beim Schlussauftritt."
+    },
+    "kino": {
+      "url": "https://www.programmkino.de/filmkritiken/systemfehler-wenn-inge-tanzt/",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Originaltitel, Start, Besetzung, Konzertbedingungen und Onkel Herb als ehemaliger Schlagerstar."
+    },
+    "ffa": {
+      "url": "https://www.ffa.de/files/dokumentenverwaltung/filmhitlisten%20%28bearbeitet%20HS%29/2013/jahres-filmhitliste-national%202013.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Suchindex der offiziellen Jahresliste: deutscher Kinostart 11. Juli 2013, Verleih Splendid."
+    },
+    "kraus": {
+      "url": "https://www.filmportal.de/person/peter-kraus_1764e48417b4439dbaa6dc0a4548cb3d",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Biografie: Filmdebüt 1954 als Schüler Johnny in Das fliegende Klassenzimmer und Gastrolle als alternder Schlagersänger in Systemfehler 2013."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Inge kann die Band als Gitarristin unterstützen.",
+      "question": "Mit welcher Fähigkeit wird Inge (Paula Kalenberg) in „Systemfehler – Wenn Inge tanzt“ für die Band unentbehrlich?",
+      "answers": [
+        "Sie spielt sehr gut Gitarre.",
+        "Sie organisiert als Tonmeisterin die Saaltechnik.",
+        "Sie kann den verhinderten Schlagzeuger ersetzen.",
+        "Sie vermittelt als Agentin einen amerikanischen Vertrag."
+      ],
+      "short": "Inge kann die Band als Gitarristin unterstützen.",
+      "context": "Inge (Paula Kalenberg) ist für Max (Tim Oliver Schultz) zunächst vor allem die Zielscheibe eines erfolgreichen Spottliedes. Als Ersatz für den ausgefallenen Gitarristen muss er ausgerechnet sie um Hilfe bitten. Ihr musikalisches Können zwingt ihn, das bisherige Bild seiner Mitschülerin zu überdenken.",
+      "sources": [
+        "kino"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Eine Handverletzung des Gitarristen Joscha löst die Suche nach Ersatz aus.",
+      "question": "Warum braucht die Band in „Systemfehler – Wenn Inge tanzt“ kurzfristig eine neue Besetzung?",
+      "answers": [
+        "Gitarrist Joscha hat sich die Hände verletzt.",
+        "Sänger Max hat seine Stimme dauerhaft verloren.",
+        "Keyboarder Fabio ist mit seiner Familie ausgewandert.",
+        "Schlagzeuger Lukas hat die Band wegen eines Solovertrags verlassen."
+      ],
+      "short": "Eine Handverletzung des Gitarristen Joscha löst die Suche nach Ersatz aus.",
+      "context": "Joscha (Constantin von Jascheroff) fällt nach einer gewagten Showeinlage aus. Der wichtige kommende Auftritt bleibt jedoch vereinbart. Max (Tim Oliver Schultz) muss deshalb schnell Ersatz finden, obwohl die bisherige Selbstsicherheit der Gruppe auf ihrem gemeinsamen Erfolg beruht.",
+      "sources": [
+        "kritik",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Inge verlangt, dass das Spottlied über sie nicht mehr gespielt wird.",
+      "question": "Welche zentrale Bedingung stellt Inge (Paula Kalenberg) für ihren Einstieg in „Systemfehler – Wenn Inge tanzt“?",
+      "answers": [
+        "Die Band soll das beleidigende Lied über sie nicht mehr spielen.",
+        "Sie soll künftig die musikalische Leitung der Band übernehmen.",
+        "Die Band soll ihr einen festen Anteil an den Gagen zusichern.",
+        "Die Band soll ihre Probezeiten nach ihrem Terminplan ausrichten."
+      ],
+      "short": "Inge verlangt, dass das Spottlied über sie nicht mehr gespielt wird.",
+      "context": "Der Song hat Inge (Paula Kalenberg) vor der Schule bloßgestellt. Für die Band ist er zugleich der größte Erfolg. Ihre Bedingung trifft deshalb den Kern des Konflikts: Max (Tim Oliver Schultz) möchte die Chance auf einen Vertrag nutzen, ohne sofort auf sein erfolgreichstes Stück zu verzichten.",
+      "sources": [
+        "kino",
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Schülerband erhält die Chance, im Vorprogramm von Madsen aufzutreten.",
+      "question": "Für welche reale Band darf die Schülergruppe in „Systemfehler – Wenn Inge tanzt“ als Vorgruppe spielen?",
+      "answers": [
+        "Madsen",
+        "Kraftklub",
+        "Juli",
+        "Wir sind Helden"
+      ],
+      "short": "Die Schülerband erhält die Chance, im Vorprogramm von Madsen aufzutreten.",
+      "context": "Manager Dan Biermann (Matthias Koeberlin) verknüpft den Auftritt mit klaren Erwartungen, darunter das Spielen des bekannten Hits. Damit stehen wirtschaftliche Gelegenheit und Inges (Paula Kalenberg) Forderung direkt gegeneinander. Der Name Madsen bezeichnet hier die reale Band, nicht eine weitere erfundene Schülergruppe.",
+      "sources": [
+        "kino",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Darsteller probten die Stücke tatsächlich für glaubwürdige Auftritte und eigene Promotion-Auftritte.",
+      "question": "Wie bereitete die Produktion von „Systemfehler – Wenn Inge tanzt“ die Banddarsteller auf die Auftritte vor?",
+      "answers": [
+        "Sie ließ die Beteiligten die Songs tatsächlich proben.",
+        "Sie trainierte überwiegend lautlose Bewegungen mit einem Choreografen.",
+        "Sie drehte die Handaufnahmen mit professionellen Musikerdoubles.",
+        "Sie montierte ältere Konzertbilder in die neuen Spielszenen."
+      ],
+      "short": "Die Darsteller probten die Stücke tatsächlich für glaubwürdige Auftritte und eigene Promotion-Auftritte.",
+      "context": "Die Proben sollten auch eigene Auftritte der Darsteller bei der Werbung für den Film ermöglichen. Bei den Dreharbeiten konnte die Kamera deshalb Hände und Instrumente zeigen. Paula Kalenbergs Figur Inge spielt zudem klassische Gitarre, wodurch sich ihr Zugang zum Instrument von der Rockpose der Schülerband unterscheidet.",
+      "sources": [
+        "kritik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Beim Schlussauftritt wird der Text des bisherigen Spottliedes verändert.",
+      "question": "Welche Veränderung erlebt das bekannte Lied beim Schlussauftritt von „Systemfehler – Wenn Inge tanzt“?",
+      "answers": [
+        "Sein Text wird verändert.",
+        "Es wird durch eine fremdsprachige Coverversion ersetzt.",
+        "Es wird als wortloses Schlagzeugsolo aufgeführt.",
+        "Die Band spielt es ausschließlich als Aufnahme vom Tonband."
+      ],
+      "short": "Beim Schlussauftritt wird der Text des bisherigen Spottliedes verändert.",
+      "context": "Der Film führt den Song mehrfach mit unterschiedlichen Texten vor. Beim letzten Auftritt bleibt die bekannte Musik erhalten, während der Text verändert wird. Inge (Paula Kalenberg) spielt nun selbst mit; damit steht die einstige Zielscheibe des Liedes als Musikerin innerhalb der Gruppe.",
+      "sources": [
+        "kritik",
+        "handlung"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die Musikkomödie wurde 2013 erstmals veröffentlicht.",
+      "question": "Wann kam „Systemfehler – Wenn Inge tanzt“ erstmals ins Kino?",
+      "answers": [
+        "2013",
+        "2007",
+        "2010",
+        "2017"
+      ],
+      "short": "Die Musikkomödie wurde 2013 erstmals veröffentlicht.",
+      "context": "„Systemfehler – Wenn Inge tanzt“ kam 2013 ins Kino. Onkel Herb wird von Peter Kraus gespielt, der bereits 1954 als Schüler Johnny in „Das fliegende Klassenzimmer“ sein Filmdebüt gegeben hatte. Fast sechs Jahrzehnte später berät er hier als gealterter Musiker eine neue Generation von Jugendlichen.",
+      "sources": [
+        "ffa",
+        "kino",
+        "kraus"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Wolfgang Groos führte Regie.",
+      "question": "Wer führte bei „Systemfehler – Wenn Inge tanzt“ Regie?",
+      "answers": [
+        "Wolfgang Groos",
+        "Marco Petry",
+        "Christian Ditter",
+        "Dennis Gansel"
+      ],
+      "short": "Wolfgang Groos führte Regie.",
+      "context": "Wolfgang Groos inszenierte den Film nach einem Drehbuch von Thomas Winkler, David Ungureit und Rainer Ewerrien. Neben der Schülerband steht Onkel Herb (Peter Kraus), ein ehemaliger Schlagerstar, als Ratgeber. So treffen jugendlicher Erfolgsdrang und die Erinnerung an eine frühere Unterhaltungskultur aufeinander.",
+      "sources": [
+        "kino"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

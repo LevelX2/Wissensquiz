@@ -1,0 +1,245 @@
+{
+  "id": "MUSIK-013",
+  "film_title_de": "Eurovision Song Contest: The Story of Fire Saga",
+  "film_title_original": "Eurovision Song Contest: The Story of Fire Saga",
+  "film_year": 2020,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Breit verbreitete Netflix-Musikkomödie mit Will Ferrell, Rachel McAdams und einem besonders bekannten erfundenen Kneipenlied.",
+  "selection_reason": "Verbindet Wettbewerbsparodie, Heimatbindung und echte Eurovision-Beteiligte mit eigens geschriebenen Popsongs.",
+  "directors": [
+    "David Dobkin"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Veröffentlichung am 26. Juni 2020 bei Netflix; die reale Eurovision-Ausgabe desselben Jahres wurde abgesagt.",
+  "director_note": "",
+  "country_note": "US-Produktion; Island, Schottland und englische Studiobauten sind bewusst von Produktionsland und fiktivem Wettbewerbsort getrennt.",
+  "series": null,
+  "series_note": "Eigenständige fiktionale Musikkomödie; reale Eurovision-Jahrgänge bilden keine nummerierte Spielfilmfolge.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Eurovision_Song_Contest:_The_Story_of_Fire_Saga"
+  ],
+  "sources": {
+    "film": {
+      "url": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest:_The_Story_of_Fire_Saga",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, USA, Veröffentlichung, Rollen, Island, Bühnenunfall und Disqualifikation nach dem Songwechsel."
+    },
+    "musik": {
+      "url": "https://www.umusicpub.com/hr/news/abba-sigur-ros-feature-in-eurovision-song-contest-the-story-of-fire-saga",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Musikverlag: eigens geschriebene Songs, Jaja Ding Dong/Volcano Man, ABBA- und Sigur-Rós-Musik."
+    },
+    "gilde": {
+      "url": "https://www.guildofmusicsupervisors.co.uk/music-supervisor-becky-bentham-discusses-her-work-on-eurovision-song-contest-the-story-of-fire-saga/",
+      "accessed_on": "2026-11-03",
+      "supports": "Interview mit Music Supervisor Becky Bentham: Dobkin, Kotecha, Songarbeit, Darstellerzuordnung und Double-Trouble-Szene mit Schal/Hamsterrad."
+    },
+    "autoren": {
+      "url": "https://awardswatch.com/interview-husavik-songwriters-savan-kotecha-rickard-goransson-and-fat-max-gsus-eurovision-song-contest-the-story-of-fire-saga/",
+      "accessed_on": "2026-11-03",
+      "supports": "Interview mit den Songautoren: Jaja Ding Dong wurde als vertraut klingendes neues Lied geschrieben; Dobkin versammelte die Eurovision-Stars für das Song-a-Long."
+    },
+    "zeit": {
+      "url": "https://time.com/5859080/eurovision-song-contest-netflix-real-stars/",
+      "accessed_on": "2026-11-03",
+      "supports": "Interviewbericht mit Eurovision-Beteiligten: Filmstart 26. Juni 2020, Absage des echten Wettbewerbs, Auftritte von Netta, Conchita und Rybak."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Lars und Sigrit treten für Island an.",
+      "question": "Welches Land soll das Duo in „Eurovision Song Contest: The Story of Fire Saga“ vertreten?",
+      "answers": [
+        "Island",
+        "Norwegen",
+        "Finnland",
+        "Dänemark"
+      ],
+      "short": "Lars und Sigrit treten für Island an.",
+      "context": "Lars Erickssong (Will Ferrell) und Sigrit Ericksdóttir (Rachel McAdams) kommen aus Húsavík. Ihr musikalischer Traum führt sie zum internationalen Wettbewerb. Der im Film ausgetragene Contest ist eine erfundene Ausgabe; die Figuren repräsentieren dabei ihre kleine isländische Heimat vor einem großen Publikum.",
+      "sources": [
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Das Kneipenpublikum fordert immer wieder Jaja Ding Dong.",
+      "question": "Welchen Song verlangt das heimische Kneipenpublikum in „Eurovision Song Contest: The Story of Fire Saga“ besonders hartnäckig?",
+      "answers": [
+        "Jaja Ding Dong",
+        "Volcano Man",
+        "Double Trouble",
+        "Lion of Love"
+      ],
+      "short": "Das Kneipenpublikum fordert immer wieder Jaja Ding Dong.",
+      "context": "Die regelmäßigen Gäste erwarten ihren vertrauten Spaßsong, während Lars Erickssong (Will Ferrell) von der großen Wettbewerbsbühne träumt. „Jaja Ding Dong“ begleitet dadurch die Rückkehr in den lokalen Alltag. Das Lied wurde von Gustaf Holter und Christian Persson für den Film geschrieben.",
+      "sources": [
+        "film",
+        "musik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Sigrits Schal verfängt sich in dem großen Hamsterrad der Bühnenshow.",
+      "question": "Wodurch gerät die „Double Trouble“-Bühnenshow in „Eurovision Song Contest: The Story of Fire Saga“ außer Kontrolle?",
+      "answers": [
+        "Sigrits Schal verfängt sich im großen Hamsterrad.",
+        "Ein Bühnenaufzug schließt Lars unter dem Podest ein.",
+        "Eine Windmaschine bläst die Instrumente ins Orchester.",
+        "Die Pyrotechnik setzt einen herabhängenden Vorhang in Brand."
+      ],
+      "short": "Sigrits Schal verfängt sich in dem großen Hamsterrad der Bühnenshow.",
+      "context": "Die aufwendige Gestaltung soll den Auftritt von Lars Erickssong (Will Ferrell) und Sigrit Ericksdóttir (Rachel McAdams) groß machen. Ausgerechnet das Hamsterrad wird zur Unfallquelle. Die beiden bringen ihr Lied dennoch zu Ende, obwohl die geplante Bühnenwirkung längst zusammengebrochen ist.",
+      "sources": [
+        "film",
+        "gilde"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der spontane Wechsel des Wettbewerbsbeitrags führt zur Disqualifikation.",
+      "question": "Warum wird Fire Saga in „Eurovision Song Contest: The Story of Fire Saga“ trotz des bewegenden Schlussauftritts disqualifiziert?",
+      "answers": [
+        "Das Duo singt einen anderen als den angemeldeten Wettbewerbsbeitrag.",
+        "Das Duo überschreitet mit einer Zugabe die erlaubte Bühnenzeit.",
+        "Der Sänger verlässt während des Liedes den markierten Bühnenbereich.",
+        "Die Sängerin hält vor der Punktevergabe eine politische Ansprache."
+      ],
+      "short": "Der spontane Wechsel des Wettbewerbsbeitrags führt zur Disqualifikation.",
+      "context": "Lars Erickssong (Will Ferrell) ermutigt Sigrit Ericksdóttir (Rachel McAdams), „Husavik“ zu singen. Die Entscheidung bringt ihre Beziehung zum Ausdruck, hält aber die Wettbewerbsvorgaben nicht ein. Das persönliche Wiederfinden der beiden fällt deshalb mit dem Verzicht auf einen regelgerechten Sieg zusammen.",
+      "sources": [
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Beim Song-a-Long treten reale Eurovision-Teilnehmer und Gewinner auf.",
+      "question": "Was verbindet zahlreiche Gäste des „Song-a-Long“ in „Eurovision Song Contest: The Story of Fire Saga“ außerhalb der Filmhandlung?",
+      "answers": [
+        "Sie haben tatsächlich am Eurovision Song Contest teilgenommen.",
+        "Sie sind frühere Studiomusiker der Band ABBA.",
+        "Sie gehören zu einem gemeinsam auftretenden Gospelensemble.",
+        "Sie stellen die Mitglieder einer früheren Fernsehballettgruppe dar."
+      ],
+      "short": "Beim Song-a-Long treten reale Eurovision-Teilnehmer und Gewinner auf.",
+      "context": "Unter den Gästen sind Netta, Conchita Wurst und Alexander Rybak. David Dobkin brachte frühere Eurovision-Stars für die gemeinsame Nummer zusammen. Die Szene baut also auf der wirklichen Wettbewerbsgeschichte auf und lässt deren Beteiligte innerhalb der erfundenen Geschichte wieder gemeinsam auftreten.",
+      "sources": [
+        "autoren",
+        "zeit"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Jaja Ding Dong wurde neu geschrieben und sollte wie ein vertrautes Kneipenlied wirken.",
+      "question": "Was trifft auf die Entstehung von „Jaja Ding Dong“ aus „Eurovision Song Contest: The Story of Fire Saga“ zu?",
+      "answers": [
+        "Es wurde für den Film im Stil eines vertrauten Kneipenlieds neu geschrieben.",
+        "Es verwendet ein überliefertes isländisches Trinklied mit neuem Refrain.",
+        "Es übernimmt einen schwedischen Schlager unter einem isländischen Titel.",
+        "Es stammt aus einem Werbejingle für isländisches Bier."
+      ],
+      "short": "Jaja Ding Dong wurde neu geschrieben und sollte wie ein vertrautes Kneipenlied wirken.",
+      "context": "Laut Musikproduzent Savan Kotecha sollte der Song vertraut wirken, als hätte man ihn schon früher gehört. Gustaf Holter und Christian Persson schrieben dafür eine neue Nummer. Der Eindruck eines bereits gewachsenen gemeinsamen Liedguts ist somit ein gezielt hergestellter Teil der Komik.",
+      "sources": [
+        "autoren",
+        "musik"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Film erschien 2020.",
+      "question": "Wann erschien „Eurovision Song Contest: The Story of Fire Saga“ mit Will Ferrell und Rachel McAdams erstmals?",
+      "answers": [
+        "2020",
+        "2014",
+        "2017",
+        "2023"
+      ],
+      "short": "Der Film erschien 2020.",
+      "context": "Der Film erschien 2020. Im selben Frühjahr fiel der tatsächliche Eurovision Song Contest wegen der Pandemie aus. Während reale Teilnehmer auf ihre Wettbewerbschance verzichten mussten, erzählte die Komödie von zwei erfundenen isländischen Bewerbern und versammelte zugleich frühere reale Teilnehmer vor der Kamera.",
+      "sources": [
+        "zeit",
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "David Dobkin führte Regie.",
+      "question": "Wer inszenierte „Eurovision Song Contest: The Story of Fire Saga“?",
+      "answers": [
+        "David Dobkin",
+        "Adam McKay",
+        "Paul Feig",
+        "Jason Moore"
+      ],
+      "short": "David Dobkin führte Regie.",
+      "context": "David Dobkin arbeitete mit dem Musikteam bereits von der Drehbuchphase an zusammen. Die Songs sollten zu den verschiedenen erfundenen Acts passen. Musik war daher kein erst nachträglich aufgelegter Kommentar: Wettbewerbsauftritte, Bühnenunfälle und Figurenbeziehungen wurden mit ihr entwickelt.",
+      "sources": [
+        "gilde",
+        "film"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
