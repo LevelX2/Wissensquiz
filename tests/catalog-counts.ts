@@ -1,13 +1,13 @@
 // Independently reviewed catalog snapshot; update after a completed content package.
 export const catalogCounts = {
-  questions: 17815,
-  goals: 17113,
-  packages: 90,
-  films: 1617,
-  filmQuestions: 14111,
-  familiarityEntries: 1717,
-  numericYearQuestions: 1622,
-  csvYearQuestions: 1197,
+  questions: 17863,
+  goals: 17161,
+  packages: 91,
+  films: 1623,
+  filmQuestions: 14159,
+  familiarityEntries: 1723,
+  numericYearQuestions: 1628,
+  csvYearQuestions: 1203,
   arthouseQuestions: 1497,
   classicsQuestions: 2198,
   yearEditorialQuestions: 291,
@@ -17,7 +17,7 @@ export const catalogCounts = {
 
 export const genreQuestionCounts = {
   Abenteuer: 1257,
-  Action: 1186,
+  Action: 1234,
   Drama: 1318,
   Fantasy: 1174,
   Horror: 1163,

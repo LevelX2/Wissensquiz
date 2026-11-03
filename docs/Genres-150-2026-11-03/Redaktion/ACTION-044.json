@@ -1,0 +1,276 @@
+{
+  "id": "ACTION-044",
+  "film_title_de": "Unknown Identity",
+  "film_title_original": "Unknown",
+  "film_year": 2011,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Redaktionelle Einschätzung: verbreiteter Neeson-Actionthriller mit Berlin als auffälligem Schauplatz und mehreren bekannten deutschsprachigen Mitwirkenden.",
+  "selection_reason": "Eine bestrittene Identität führt von Verfolgungsaction zu der Frage, ob die Erinnerung an das eigene Leben überhaupt verlässlich ist. Die Wendung verändert zugleich die moralische Stellung der Hauptfigur.",
+  "directors": [
+    "Jaume Collet-Serra"
+  ],
+  "production_countries": [
+    "USA",
+    "Großbritannien",
+    "Frankreich",
+    "Deutschland"
+  ],
+  "release_note": "Erstjahr 2011. Die tatsächlich besuchte und fotografierte Westwood-Premiere vom 16. Februar ist durch Assignment X belegt; danach Berlinale-Europapremiere und US-Kinostart am 18. Februar. Das Produktionsjahr des vollständig deutschen Drehs 2010 nicht als Veröffentlichung verwendet.",
+  "director_note": "Jaume Collet-Serra alleinige Hauptregie nach FSK, AFI und koproduzierendem Studio Babelsberg. BFI-Kurzform Jaume Serra bezeichnet denselben Regisseur.",
+  "country_note": "USA/Großbritannien/Frankreich/Deutschland übereinstimmend nach FSK und BFI; AFI führt verkürzt nur USA. Deutsche Drehorte allein wurden nicht zur Länderentscheidung verwendet.",
+  "series": null,
+  "series_note": "Eigenständige Romanverfilmung mit abgeschlossener Identitätsgeschichte. Die weiteren Neeson-Filme des Regisseurs setzen diese Figurenhandlung nicht als nummerierte Filmfolge fort.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/66750-UNKNOWN",
+    "https://www.didiervancauwelaert.fr/livres/hors-de-moi/"
+  ],
+  "sources": {
+    "fsk": {
+      "url": "https://www.fsk.de/detail/?detailid=6394a638c8a72800161f6ef1&stype=single",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Freigabeeintrag gelesen: Originaltitel, vier Produktionsländer, Jahr, Hauptregie, beide Autoren, Besetzung und Identitätskonflikt in Berlin."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/21f8d2db-7fc3-5c6b-a0d1-b7f89ba3c2f9/unknown",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen kurzen Filmeintrag gelesen: 2011, USA/Großbritannien/Deutschland/Frankreich, Regie-Kurzform und Hauptdarsteller."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/66750-UNKNOWN",
+      "accessed_on": "2026-11-03",
+      "supports": "Credits und Metadaten gelesen: vollständiger Regiename, Rollen, Autoren, US-Start 18. Februar 2011 und englische Romanedition 2004; diese nicht mit französischer Erstpublikation 2003 verwechselt."
+    },
+    "babelsberg": {
+      "url": "https://www.studiobabelsberg.com/about-us/press-and-news/europapremiere-fuer-studio-babelsberg-koproduktion-unknown-identity-auf-der-berlinale-2011/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Produktionsmeldung gelesen: Berlinale-Europapremiere, vollständige Berlin-Handlung, zehnwöchiger Dreh ab Januar 2010 vollständig in Deutschland, Studioinnenräume und Originalorte, internationale und deutschsprachige Besetzung."
+    },
+    "premiere": {
+      "url": "https://www.assignmentx.com/2011/exclusive-photos-the-unknown-los-angeles-premiere/",
+      "accessed_on": "2026-11-03",
+      "supports": "Zeitgenössischen Foto- und Veranstaltungsbericht gelesen: tatsächliche Premiere am 16. Februar 2011 im Regency Village Theater Westwood, anwesende Stars und Fotografien; kein bloßer angekündigter Termin."
+    },
+    "roman": {
+      "url": "https://www.didiervancauwelaert.fr/livres/hors-de-moi/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Werkseite des Autors gelesen: Hors de moi 2003 bei Albin Michel, Identitätskonflikt und Verfilmung durch Collet-Serra mit Neeson und Kruger."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Unknown_(2011_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Rollenliste gelesen: Gina und Unfall, Hotel und Ersatzmann, Jürgen als ehemaliger Stasi-Mitarbeiter, erfundene Identität des Attentäters, Vergiftung und Anschlagsziel Bressler."
+    },
+    "dialog": {
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=unknown-2011",
+      "accessed_on": "2026-11-03",
+      "supports": "Konkrete Schlussdialoge gelesen, insbesondere Cole bei Jürgen mit Forderung nach Kontakten und Zyanid, Aufklärung der Legende, Bresslers Maisentwicklung und deren kostenfreie Freigabe. Dialogtranskription, keine offizielle Drehbuchfassung behauptet."
+    },
+    "npr": {
+      "url": "https://freshairarchive.org/segments/unknown-suspenseful-action-filled-mind-bender",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges abgegrenztes Edelstein-Rezensionssegment gelesen, nicht die vorangehenden Franco/Hooper-Interviews als Beleg verwendet: Berlin, Taxiunfall, vier Tage Koma, Liz mit anderem Mann, Gina, ehemaliger Stasi-Mitarbeiter und räumlich lesbare Verfolgungsszenen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Diane Kruger spielt die Taxifahrerin Gina.",
+      "question": "Wer spielt in „Unknown Identity“ die Taxifahrerin Gina, die dem verfolgten Mann nach seinem Unfall hilft?",
+      "answers": [
+        "Diane Kruger",
+        "Nina Hoss",
+        "Franka Potente",
+        "Nora Tschirner"
+      ],
+      "short": "Diane Kruger spielt Gina.",
+      "context": "Gina (Diane Kruger) sitzt am Steuer des Taxis, das mit Martin Harris (Liam Neeson) im Wasser landet. Sie rettet den Fahrgast, verschwindet aber zunächst vom Unfallort. Als bosnische Einwanderin ohne gesicherten Aufenthaltsstatus hat sie eigene Gründe, Behörden zu meiden. Trotzdem wird sie zur wichtigsten praktischen Helferin des Mannes, dessen angebliche Angehörige ihn nicht kennen wollen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "npr",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Handlung spielt in Berlin.",
+      "question": "In welcher Stadt sucht Martin Harris (Liam Neeson) in „Unknown Identity“ nach seiner bestrittenen Identität?",
+      "answers": [
+        "Berlin",
+        "Wien",
+        "Prag",
+        "Amsterdam"
+      ],
+      "short": "Die Suche führt durch Berlin.",
+      "context": "Die Reise beginnt als Besuch einer biotechnologischen Konferenz. Nach dem Taxiunfall wacht Martin Harris (Liam Neeson) erst nach vier Tagen auf und kehrt zum Hotel zurück. Dort steht er vor einer Frau, die ihn nicht anerkennt, und einem anderen Mann mit seinem Namen. Berlin ist laut koproduzierendem Studio der durchgehende Handlungsort; gedreht wurde zusätzlich außerhalb der Stadt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "babelsberg",
+        "npr",
+        "fsk"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Privatermittler Ernst Jürgen war Mitarbeiter der Stasi.",
+      "question": "Welche frühere Tätigkeit prägt den Privatermittler Ernst Jürgen (Bruno Ganz) in „Unknown Identity“?",
+      "answers": [
+        "Er war Mitarbeiter der Stasi",
+        "Er war Ermittler des amerikanischen FBI",
+        "Er war Leibwächter einer saudischen Königsfamilie",
+        "Er war Sicherheitschef eines Pharmakonzerns"
+      ],
+      "short": "Jürgen war beim ostdeutschen Staatssicherheitsdienst.",
+      "context": "Ernst Jürgen (Bruno Ganz) nimmt die Geschichte von Martin Harris (Liam Neeson) ernst, obwohl andere sie als Verwirrung behandeln. Seine Erfahrung mit Überwachung und verdeckten Identitäten hilft ihm bei der Recherche zum Kongress. Er stellt Verbindungen zwischen den Beteiligten her und wird deshalb selbst für jene gefährlich, die die vermeintliche Verwechslung kontrollieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "npr",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der vermeintliche Wissenschaftler ist ein Attentäter, der nach dem Unfall seine Tarnidentität für echt hält.",
+      "question": "Was bedeutet der Name Martin Harris für die von Liam Neeson gespielte Figur tatsächlich in „Unknown Identity“?",
+      "answers": [
+        "Er ist ihre selbst geschaffene Tarnidentität für einen Anschlag",
+        "Er ist der Name ihres bei einem Unfall getöteten Zwillingsbruders",
+        "Er ist ihre neue Identität aus einem staatlichen Zeugenschutzprogramm",
+        "Er ist der Name eines Patienten, dessen Papiere sie erhalten hat"
+      ],
+      "short": "Der Mann glaubt nach dem Unfall an seine eigene Legende.",
+      "context": "Rodney Cole (Frank Langella) erklärt dem von Liam Neeson gespielten Mann, dass es das erinnerte Wissenschaftlerleben nicht gibt. Er gehörte selbst zum Attentäterteam; auch die vermeintliche Ehe war Teil der Tarnung. Nach dem Gedächtnisverlust wurde ein Ersatzmann eingesetzt. Die Suche nach der gestohlenen Identität führt damit zur Entdeckung einer erfundenen Identität und einer realen verbrecherischen Vergangenheit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "dialog"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Jürgen nimmt Zyanid, um Coles Verhör zu entgehen und seine Kontakte zu schützen.",
+      "question": "Wie entzieht sich Ernst Jürgen (Bruno Ganz) in „Unknown Identity“ den Forderungen von Rodney Cole (Frank Langella) nach seinen Informanten?",
+      "answers": [
+        "Er nimmt selbst Zyanid",
+        "Er löst einen vorbereiteten Sprengsatz aus",
+        "Er täuscht mit einem Medikament einen Herzstillstand vor",
+        "Er lässt sich von einem Komplizen als Geisel abführen"
+      ],
+      "short": "Jürgen vergiftet sich selbst mit Zyanid.",
+      "context": "Ernst Jürgen (Bruno Ganz) erkennt in Rodney Cole (Frank Langella) einen Mann der von ihm untersuchten Attentätergruppe. Eine Flucht hält er körperlich nicht mehr für möglich. Cole verlangt die Namen und Quellen seiner Nachforschungen; Jürgen nimmt zuvor Gift. Die ruhige Begegnung zweier erfahrener Männer endet damit, dass der Ermittler die verlangten Kontakte nicht preisgibt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Das eigentliche Ziel ist Bressler mit seiner wertvollen Maisforschung.",
+      "question": "Worauf zielt die Verschwörung in „Unknown Identity“ hinter dem scheinbaren Anschlag auf einen Prinzen tatsächlich?",
+      "answers": [
+        "Auf Bresslers Forschung an widerstandsfähigem Mais und seinen Tod",
+        "Auf geheime Rüstungsgeschäfte des deutschen Kongressveranstalters",
+        "Auf die Übernahme der ausländischen Vermögenswerte des Prinzen",
+        "Auf die Vernichtung von Beweisen gegen einen Hotelinvestor"
+      ],
+      "short": "Bressler und seine Maisentwicklung sind das eigentliche Ziel.",
+      "context": "Professor Bressler (Sebastian Koch) hat eine Nutzpflanze entwickelt, deren Eigenschaften enorme wirtschaftliche Bedeutung haben. Die Täter wollen seine Daten stehlen und ihn töten; ein vermeintlicher Anschlag auf den Prinzen soll den eigentlichen Zweck verdecken. Nach dem Scheitern der Verschwörung wird die genetische Information ohne Patentkosten verfügbar gemacht. Die Intrige betrifft damit den Zugang zu einer möglichen Nahrungsgrundlage.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Unknown Identity wurde erstmals 2011 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Unknown Identity“ mit Liam Neeson und Diane Kruger erstmals veröffentlicht?",
+      "answers": [
+        "2011",
+        "2005",
+        "2008",
+        "2014"
+      ],
+      "short": "Unknown Identity erschien erstmals 2011.",
+      "context": "Didier van Cauwelaerts Roman „Hors de moi“ erschien 2003; 2011 folgte die Verfilmung, acht Jahre später. Die englische Buchausgabe wurde unter dem Titel „Out of My Head“ geführt. Der Film verlegt den Identitätskonflikt nach Berlin und verbindet ihn mit einer biotechnologischen Konferenz, während die Grundfrage nach dem eigenen vermeintlich verlorenen Leben erhalten bleibt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "roman",
+        "afi",
+        "premiere",
+        "babelsberg"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Jaume Collet-Serra führte allein Regie.",
+      "question": "Wer führte bei „Unknown Identity“ mit Liam Neeson, Diane Kruger und Bruno Ganz Regie?",
+      "answers": [
+        "Jaume Collet-Serra",
+        "Florian Henckel von Donnersmarck",
+        "Brad Anderson",
+        "D.J. Caruso"
+      ],
+      "short": "Jaume Collet-Serra führte Regie.",
+      "context": "Die Dreharbeiten begannen Ende Januar 2010 und dauerten zehn Wochen. Collet-Serra nutzte neben den Studioinnenräumen in Babelsberg auch Originalschauplätze in Berlin, Brandenburg und Sachsen. So entstand der internationale Actionthriller vollständig in Deutschland. Die Besetzung verbindet Neeson und Kruger mit deutschsprachigen Darstellern wie Bruno Ganz, Sebastian Koch und Karl Markovics.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "fsk",
+        "afi",
+        "babelsberg"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}
