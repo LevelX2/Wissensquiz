@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 495 Filmfassungen mit 3960 Fragen lokal integriert. 6 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 501 Filmfassungen mit 4008 Fragen lokal integriert. 0 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -6387,16 +6387,19 @@
     },
     {
       "candidate_id": "C-130",
-      "film_title_de": "Die größte Faust des Orients",
+      "film_title_de": "Die Todesfaust des kleinen Drachen",
       "film_title_original": "Bai ga jai",
       "film_year": 1981,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein wohlhabender vermeintlicher Könner lernt echte Kampfkunst und die Grenzen gekaufter Siege kennen.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Der vermeintlich unbesiegbare Erbe muss lernen, eigene Fähigkeiten von gekaufter Anerkennung zu unterscheiden. Opernspiel, Körpertechnik und zwei Formen überbehütender Elternschaft tragen die Handlung.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-035"
     },
     {
       "candidate_id": "C-131",
@@ -6406,62 +6409,73 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein ängstlicher Wäschereiarbeiter trifft auf einen Mörder und Wong Fei-hung.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Alltägliche Wäschereiarbeit und komische Schüchternheit werden zum Ausgangspunkt eines Kampfes gegen einen mörderischen Verfolger; die Choreografie verbindet Handwerk, Wahrnehmung und gewonnene Entschlossenheit.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-036"
     },
     {
       "candidate_id": "C-132",
-      "film_title_de": "Die Todesfaust der kleinen Drachen",
+      "film_title_de": "Die tödliche Rache",
       "film_title_original": "Shen bu you ji",
       "film_year": 1980,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein gegen seinen Willen gewählter Lehrer und ein Familienkonflikt tragen den Sammo-Hung-Kampfkunstfilm.",
+      "selection_reason": "Die zunächst komische Meistersuche kippt in einen Familienkonflikt um sexuelle Gewalt, Dankbarkeit und erpresste Loyalität; eine späte Täuschung gibt der Lehrer-Schüler-Beziehung eine zweite Bedeutung.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-037"
     },
     {
       "candidate_id": "C-133",
-      "film_title_de": "Die Unschlagbaren vom Shaolin",
+      "film_title_de": "Odd Couple",
       "film_title_original": "Bo ming dan dao duo ming qiang",
       "film_year": 1979,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Zwei ältere Waffenmeister setzen ihren Wettstreit durch jüngere Schüler fort.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Zwei Darsteller verkörpern über Kreuz alte Waffenmeister und deren junge Schüler. Die Rivalität mündet in eine Geschichte, in der gemeinsame Fähigkeiten wichtiger werden als die behauptete Überlegenheit einer einzelnen Waffe.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-038"
     },
     {
       "candidate_id": "C-134",
-      "film_title_de": "Jackie Chan – Der Herausforderer",
+      "film_title_de": "Zwei Schlitzohren in der Knochenmühle",
       "film_title_original": "Xiao quan guai zhao",
       "film_year": 1979,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein junger Kämpfer entdeckt eine emotional wechselnde Kampftechnik.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Chans erster Regiefilm verbindet heimliche Erwerbsarbeit, Familienverfolgung und komische Verkleidungen mit einer Kampfform, die sichtbare Emotionen in Bewegung umsetzt.",
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-039"
     },
     {
       "candidate_id": "C-135",
-      "film_title_de": "Jackie Chan – Die unbesiegbaren Fäuste",
+      "film_title_de": "Dragon Hero",
       "film_title_original": "Long quan",
       "film_year": 1979,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Schüler sucht nach der Tötung seines Meisters Vergeltung und gerät in eine Täuschung.",
+      "selection_reason": "Eine zunächst eindeutige Rachemission wird durch Reue des Täters, Verantwortung für die Hinterbliebenen und gezielt erzeugte medizinische Abhängigkeit moralisch verwickelt.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-040"
     },
     {
       "candidate_id": "C-136",

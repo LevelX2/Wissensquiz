@@ -927,8 +927,8 @@
     },
     {
       "wave": "W72",
-      "filename": "Genres150_20261103_W72.csv",
-      "path": "/genres150-20261103-w72-fragen.csv",
+      "filename": "Genres150_20261103_W72_R1.csv",
+      "path": "/genres150-20261103-w72-r1-fragen.csv",
       "films": [
         "ROMCOM-022",
         "ROMCOM-023",
@@ -1076,6 +1076,19 @@
         "MARTIALARTS-032",
         "MARTIALARTS-033"
       ]
+    },
+    {
+      "wave": "W84",
+      "filename": "Genres150_20261103_W84.csv",
+      "path": "/genres150-20261103-w84-fragen.csv",
+      "films": [
+        "MARTIALARTS-035",
+        "MARTIALARTS-036",
+        "MARTIALARTS-037",
+        "MARTIALARTS-038",
+        "MARTIALARTS-039",
+        "MARTIALARTS-040"
+      ]
     }
   ],
   "series_updates": [
@@ -1164,7 +1177,7 @@
         "MARTIALARTS-044",
         "MARTIALARTS-045",
         "MARTIALARTS-046",
-        "MARTIALARTS-051",
+        "MARTIALARTS-047",
         "MARTIALARTS-048",
         "MARTIALARTS-049",
         "MARTIALARTS-050"
@@ -1172,6 +1185,22 @@
       "sha256": "460c590a641eaa86f319acf619ccf1be6dcf6e8def9a6620238e7bce870dcade",
       "superseded_by": "Genres150_20261103_W80_R1.csv",
       "reason": "Nicht mehr im aktiven Katalog: tatsächliche Hauptregie wegen positiver Mitregienennungen Fruit Chans bei Apple/Fortune Star und Unifrance gegenüber Einordnung als Regieassistenz/Planung bei der Hong Kong Film Directors Guild nicht zweifelsfrei geklärt. Vollständiger Ersatz durch MARTIALARTS-051 mit neuen Frage-IDs in W80_R1; ursprüngliche Rohquelle unverändert erhalten."
+    },
+    {
+      "wave": "W72",
+      "filename": "Genres150_20261103_W72.csv",
+      "path": "/genres150-20261103-w72-fragen.csv",
+      "films": [
+        "ROMCOM-022",
+        "ROMCOM-023",
+        "ROMCOM-024",
+        "ROMCOM-025",
+        "ROMCOM-026",
+        "ROMCOM-027"
+      ],
+      "sha256": "002d72c7666e038252ae1ef17c79f4e842c3421a96c499458f0e67eb2ee3498f",
+      "superseded_by": "Genres150_20261103_W72_R1.csv",
+      "reason": "W72_R1: Unzulässige zukünftige Jahresalternative 2027 durch 2026 innerhalb des bestehenden Jahresauswahlvertrags ersetzt. Korrektes Jahr 2023 und alle Frage-/Wissensziel-IDs erhalten; ursprüngliche Rohquelle bleibt unverändert. Kein neuer Wissensinhalt."
     }
   ]
 }

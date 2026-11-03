@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Ausbau auf mindestens 150 Filme je Filmgenre und Kategorie: Auswahl, Redaktion und aktueller Bearbeitungsstand – ab 03.11.2026](../../../docs/Genres-150-2026-11-03/Plan.md)
+- [Mindestziel erreicht: alle zwölf Filmgenres und Zusatzkategorien ab 150 Filme; 501 Ergänzungen / 4.008 Fragen, lokal geprüft – 03.11.2026](../../../docs/Genres-150-2026-11-03/Plan.md)
 
 - [Filmreihen vollständig abgeglichen: 2.953 Filmidentitäten, 624 mit Teilnummer, keine benannte Reihe ohne Nummer – 02.11.2026, lokal](../../../docs/Filmreihen-2026-11-02/Pruefbericht.md)
 
