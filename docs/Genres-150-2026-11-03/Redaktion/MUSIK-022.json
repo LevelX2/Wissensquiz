@@ -1,0 +1,250 @@
+{
+  "id": "MUSIK-022",
+  "film_title_de": "Um Mitternacht",
+  "film_title_original": "’Round Midnight",
+  "film_year": 1986,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Jazz- und Autorenfilm mit einem echten Musiker in der Hauptrolle; eher cinephiles Spezialwissen als verbreiteter Unterhaltungsklassiker.",
+  "selection_reason": "Taverniers melancholische Künstlergeschichte verbindet improvisierte Jazzdarbietungen mit einer ambivalenten Freundschaft. Die offene, atmosphärische Form und die Auseinandersetzung mit Exil und künstlerischer Erinnerung begründen Arthouse.",
+  "directors": [
+    "Bertrand Tavernier"
+  ],
+  "production_countries": [
+    "Frankreich",
+    "USA"
+  ],
+  "release_note": "Erstjahr 1986 einschließlich Toronto-Vorführung am 12. September laut Institut-Lumière-Festivalarchiv; französischer Start 24. September und New Yorker Festivalvorführung 30. September folgten. Der US-Start im Oktober ist später.",
+  "director_note": "",
+  "country_note": "Criterion und AFI nennen Frankreich/USA; die reine Frankreich-Zuordnung einzelner Museumskataloge ist enger.",
+  "series": null,
+  "series_note": "Eigenständiger Spielfilm mit zusammengesetzter Künstlerfigur; Vorbilder, Dokumentationen und Jazzalben sind keine nummerierte Filmreihe.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/57460-ROUND-MIDNIGHT",
+    "https://www.criterion.com/films/29031--round-midnight"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/57460-ROUND-MIDNIGHT",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung und Produktionsgeschichte: Dale/Francis, Blue Note, finanziell versperrter Clubzugang, Aufnahme in Francis’ Wohnung, Credits und Länder."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/29031--round-midnight",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Film- und Creditkatalog: Jahr 1986, Länder, Rollen, Jazzmilieu und Freundschaft."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/7757--round-midnight-return-from-exile",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Essay von Mark Anthony Neal: zusammengesetzte Figur, musikalische und biografische Hintergründe, improvisierte Liveaufnahmen, Super-8-Film im Film und Gordons europäische Jahre 1962–1976."
+    },
+    "lumiere": {
+      "url": "https://2021.festival-lumiere.org/manifestations/autour-de-minuit.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener ausführlicher offizieller Archiv-Suchindex: Toronto 12. September 1986, Frankreich 24. September, Cast, Produktionsfirmen und künstlerische Einordnung. Direkter Folgeabruf 404."
+    },
+    "vorbilder": {
+      "url": "https://en.wikipedia.org/wiki/Round_Midnight_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Darstellung der zusammengesetzten Dale-Figur aus Lester Young und Bud Powell sowie der Paudras-Vorlage."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Dale Turner ist Jazzsaxophonist.",
+      "question": "Welches Instrument spielt Dale Turner (Dexter Gordon) in „Um Mitternacht“?",
+      "answers": [
+        "Saxophon",
+        "Trompete",
+        "Kontrabass",
+        "Klavier"
+      ],
+      "short": "Dale Turner ist Jazzsaxophonist.",
+      "context": "Dale Turner (Dexter Gordon) ist ein amerikanischer Jazzmusiker, dessen Können und gefährdete persönliche Situation nebeneinander sichtbar werden. Mit Dexter Gordon steht ein wirklicher Saxophonist im Zentrum. Die musikalischen Szenen zeigen dadurch einen Darsteller, der die Erfahrung und die körperlichen Abläufe des Spielens selbst mitbringt.",
+      "sources": [
+        "criterion",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Dale sucht als amerikanischer Musiker in Paris einen neuen Anfang.",
+      "question": "In welcher europäischen Stadt sucht Dale Turner (Dexter Gordon) in „Um Mitternacht“ einen neuen Anfang?",
+      "answers": [
+        "Paris",
+        "London",
+        "Stockholm",
+        "Kopenhagen"
+      ],
+      "short": "Dale sucht als amerikanischer Musiker in Paris einen neuen Anfang.",
+      "context": "Dale Turner (Dexter Gordon) reist aus New York nach Paris und spielt dort im Blue Note. Die französische Hauptstadt ist für ihn Arbeitsort und vorläufiger Zufluchtsraum. Der Film greift damit die Geschichte schwarzer amerikanischer Jazzmusiker auf, die in Europa andere Auftritts- und Lebensmöglichkeiten suchten.",
+      "sources": [
+        "afi",
+        "criterion",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Francis hört zunächst von der Straße zu, weil er den Eintritt in den Club nicht bezahlen kann.",
+      "question": "Warum hört Francis (François Cluzet) Dale Turners Musik in „Um Mitternacht“ zunächst von draußen?",
+      "answers": [
+        "Er kann sich den Eintritt in den Club nicht leisten.",
+        "Dale hat ihm wegen eines Streits Hausverbot erteilt.",
+        "Er arbeitet während der Auftritte als Nachtwächter gegenüber.",
+        "Er wartet draußen auf einen vereinbarten Fototermin."
+      ],
+      "short": "Francis hört zunächst von der Straße zu, weil er den Eintritt in den Club nicht bezahlen kann.",
+      "context": "Francis Borier (François Cluzet) hört von der Straße aus zu, obwohl er nicht als zahlender Gast im Club sitzen kann. Seine Hingabe zeigt sich bereits vor einer persönlichen Bekanntschaft. Als Dale Turner (Dexter Gordon) ihm begegnet, wird aus der einseitigen Bewunderung allmählich eine Beziehung mit konkreten Verpflichtungen.",
+      "sources": [
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Francis nimmt Dale in seine Wohnung auf und kümmert sich um ihn.",
+      "question": "Welche persönliche Hilfe leistet Francis (François Cluzet) dem gefährdeten Dale (Dexter Gordon) in „Um Mitternacht“?",
+      "answers": [
+        "Er nimmt ihn in seine Wohnung auf und versorgt ihn.",
+        "Er überredet ihn zu einer längeren Entziehungskur in der Schweiz.",
+        "Er richtet für ihn regelmäßige Kuraufenthalte am Meer ein.",
+        "Er vermittelt ihm eine feste Anstellung als Musiklehrer."
+      ],
+      "short": "Francis nimmt Dale in seine Wohnung auf und kümmert sich um ihn.",
+      "context": "Francis (François Cluzet) lebt mit seiner Tochter Bérangère (Gabrielle Haker) in knappen Verhältnissen. Dennoch nimmt er Dale Turner (Dexter Gordon) bei sich auf und arbeitet zusätzlich, um ihn zu unterstützen. Die Bewunderung für den Künstler wird so zu alltäglicher Fürsorge, die Francis’ eigene Beziehungen und Möglichkeiten belastet.",
+      "sources": [
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Dale Turner verbindet insbesondere Vorbilder aus Lester Youngs und Bud Powells Leben.",
+      "question": "Welche beiden Jazzmusiker stehen besonders hinter der zusammengesetzten Figur Dale Turner in „Um Mitternacht“?",
+      "answers": [
+        "Lester Young und Bud Powell",
+        "Charlie Parker und Dizzy Gillespie",
+        "John Coltrane und McCoy Tyner",
+        "Louis Armstrong und Duke Ellington"
+      ],
+      "short": "Dale Turner verbindet insbesondere Vorbilder aus Lester Youngs und Bud Powells Leben.",
+      "context": "Dale Turner (Dexter Gordon) ist keine direkte Eins-zu-eins-Verkörperung eines einzigen Musikers. Die Figur verbindet Erfahrungen des Saxophonisten Lester Young mit solchen des Pianisten Bud Powell. Zur Geschichte gehört außerdem Powells Freundschaft mit dem französischen Bewunderer Francis Paudras, dessen Erinnerungen den erzählerischen Ausgangspunkt mitprägten.",
+      "sources": [
+        "vorbilder",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Francis’ Super-8-Aufnahmen erscheinen am Ende als Erinnerungsfilm in Schwarzweiß mit Dales Stimme.",
+      "question": "Welche Form erhält Francis’ persönliche Erinnerung an Dale am Ende von „Um Mitternacht“?",
+      "answers": [
+        "Ein Schwarzweißfilm aus seinen Super-8-Aufnahmen mit Dales Stimme",
+        "Eine Radiosendung mit einer von Francis gesprochenen Biografie",
+        "Ein Fotoalbum, dessen Bilder von den Clubmusikern kommentiert werden",
+        "Eine nachgespielte Fernsehshow mit einem Darsteller als Dale"
+      ],
+      "short": "Francis’ Super-8-Aufnahmen erscheinen am Ende als Erinnerungsfilm in Schwarzweiß mit Dales Stimme.",
+      "context": "Francis (François Cluzet) filmt Dale Turner (Dexter Gordon) mit einer Super-8-Kamera. Erst am Ende werden diese Bilder als Film innerhalb des Films gezeigt. Die Schwarzweißaufnahmen mit Dales Stimme verwandeln die persönliche Begegnung in eine überlieferte Erinnerung und verweisen zugleich auf frühere filmische Porträts realer Jazzmusiker.",
+      "sources": [
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Um Mitternacht wurde 1986 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Um Mitternacht“ mit Dexter Gordon erstmals veröffentlicht?",
+      "answers": [
+        "1986",
+        "1978",
+        "1982",
+        "1991"
+      ],
+      "short": "Um Mitternacht wurde 1986 erstmals veröffentlicht.",
+      "context": "Der Film erschien 1986. Dexter Gordon hatte selbst einen großen Teil der Jahre von 1962 bis 1976 in Europa verbracht, vor allem in Frankreich und Dänemark. Die Darstellung eines amerikanischen Jazzmusikers im europäischen Exil entstand somit nach einer langen eigenen europäischen Lebensphase des Hauptdarstellers.",
+      "sources": [
+        "lumiere",
+        "criterion",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Bertrand Tavernier führte Regie.",
+      "question": "Wer führte bei „Um Mitternacht“ mit Dexter Gordon Regie?",
+      "answers": [
+        "Bertrand Tavernier",
+        "Louis Malle",
+        "Claude Sautet",
+        "Alain Corneau"
+      ],
+      "short": "Bertrand Tavernier führte Regie.",
+      "context": "Bertrand Tavernier hatte unmittelbar zuvor „Ein Sonntag auf dem Lande“ über einen älteren Maler und dessen Familie gedreht. Auch „Um Mitternacht“ betrachtet einen Künstler über seine Arbeit und seine schwierigen Beziehungen. Hier erhält jedoch die Musik selbst ausgedehnten Raum; die Persönlichkeit eines wirklichen Jazzmusikers prägt die gespielte Figur.",
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

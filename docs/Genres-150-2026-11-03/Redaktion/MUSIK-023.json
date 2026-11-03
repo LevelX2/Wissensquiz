@@ -1,0 +1,266 @@
+{
+  "id": "MUSIK-023",
+  "film_title_de": "Schönste, liebe mich",
+  "film_title_original": "Love Me Tonight",
+  "film_year": 1932,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Frühes Tonfilmmusical, das vor allem in filmhistorischen Rückblicken und Mamoulian-Retrospektiven präsent ist.",
+  "selection_reason": "Die formal experimentelle Verbindung von Geräuschmontage, wandernder Melodie, Split-Screen und Klassenkomödie rechtfertigt hier zusätzlich Arthouse; entscheidend ist die individuelle filmische Gestaltung, nicht allein das Alter oder die Kanonisierung.",
+  "directors": [
+    "Rouben Mamoulian"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1932. AFI nennt New York am 18. August und regulären Start am 26. August; BnF nennt den 13. August, die deutsche Wikipedia den 12. August. Die Tagesabweichung wird nicht als geklärt ausgegeben und betrifft nicht das übereinstimmende Erstjahr. Deutscher Vorkriegstitel Schloß im Mond; hier der etablierte spätere Titel nach Filmdienst.",
+  "director_note": "",
+  "country_note": "Paramount-Produktion trotz französischem Handlungsmilieu; die heutige Universal-Ausgabe bezeichnet den Rechteinhaber, nicht das historische Herstellungsstudio.",
+  "series": null,
+  "series_note": "Eigenständige Verfilmung des Stücks Le Tailleur au Château; weitere Chevalier/MacDonald-Musicals sind keine nummerierte Folge.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/4125-LOVE-ME-TONIGHT",
+    "https://www.universalpicturesathome.com/movies/love-me-tonight"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/4125-LOVE-ME-TONIGHT",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung, Rollencredits, Regie, USA, Premiere 1932, falscher Baron, Zugfinale und Wiederaufführungszensur."
+    },
+    "universal": {
+      "url": "https://www.universalpicturesathome.com/movies/love-me-tonight",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene offizielle Verleih-/Rechteinhaberseite: Schneider, ausstehende Rechnungen, Prinzessin, Besetzung und Regie/Jahr."
+    },
+    "loc": {
+      "url": "https://www.loc.gov/static/programs/national-film-preservation-board/documents/love_me_tonight.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständig gelesener Essay von Richard Barrios: rhythmische Stadtgeräuschmontage, reisende Melodie, Split-Screen, frühe Musicalexperimente und spätere Zensurkürzungen."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/81439/love-me-tonight",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Essay Paul Tataras: falscher Adelsrang, Isn’t It Romantic als Melodiekette sowie Musik vor Fertigstellung des Drehbuchs."
+    },
+    "filmdienst": {
+      "url": "https://www.filmdienst.de/film/details/378/schonste-liebe-mich",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener deutscher Filmkatalog: heutiger Titel, Vorkriegstitel, Jahr, Land, Credits und innovative musikalische Gestaltung."
+    },
+    "cineville": {
+      "url": "https://cineville.de/de-DE/filme/schoenste_liebe_mich",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener kuratierter Programmtext: Musique concrète, Rhythmus des gesamten Films, Zeitgestaltung und Split-Screen; Begründungsgrundlage Arthouse."
+    },
+    "bnf": {
+      "url": "https://catalogue.bnf.fr/ark%3A/12148/cb14663624c",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Bibliotheksnotiz USA 1932; abweichende Tagesangabe zur Erstaufführung ausdrücklich eingegrenzt."
+    },
+    "de_titel": {
+      "url": "https://de.wikipedia.org/wiki/Sch%C3%B6nste%2C_liebe_mich",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener vollständiger Suchindex: deutscher Titel, Schloß im Mond und abweichende Erstaufführung am 12. August 1932; Tageskonflikt in release_note offengelegt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Maurice Courtelin ist ein Pariser Schneider.",
+      "question": "Welchen Beruf hat Maurice Courtelin (Maurice Chevalier) in „Schönste, liebe mich“?",
+      "answers": [
+        "Schneider",
+        "Friseur",
+        "Konditor",
+        "Juwelier"
+      ],
+      "short": "Maurice Courtelin ist ein Pariser Schneider.",
+      "context": "Maurice Courtelin (Maurice Chevalier) reist zu einem Schloss, um eine unbezahlte Rechnung für angefertigte Anzüge einzutreiben. Er kommt also nicht als gesellschaftlicher Gast dorthin. Sein Handwerk und der Versuch, zu seinem Geld zu kommen, führen ihn erst in die Welt der adeligen Schlossbewohner.",
+      "sources": [
+        "universal",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Maurice verliebt sich in Prinzessin Jeanette.",
+      "question": "Welchen gesellschaftlichen Rang hat Jeanette (Jeanette MacDonald), in die sich Maurice in „Schönste, liebe mich“ verliebt?",
+      "answers": [
+        "Sie ist eine Prinzessin.",
+        "Sie ist die Tochter des Gärtners.",
+        "Sie ist eine angestellte Gesellschafterin.",
+        "Sie ist eine reisende Opernsängerin."
+      ],
+      "short": "Maurice verliebt sich in Prinzessin Jeanette.",
+      "context": "Prinzessin Jeanette (Jeanette MacDonald) gehört zur aristokratischen Schlossgesellschaft. Maurice (Maurice Chevalier) begegnet ihr, bevor sie seinen tatsächlichen Stand kennt. Ihre Beziehung wird deshalb nicht nur durch persönliche Anziehung bestimmt, sondern auch durch die Erwartung, wer als angemessener Partner gelten darf.",
+      "sources": [
+        "universal",
+        "filmdienst",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Gilbert stellt den Schneider als Baron vor, um seine eigenen Schulden zu verbergen.",
+      "question": "Wie ermöglicht Gilbert (Charles Ruggles) Maurice (Maurice Chevalier) in „Schönste, liebe mich“ den Aufenthalt unter den adeligen Gästen?",
+      "answers": [
+        "Er stellt den Schneider als Baron vor.",
+        "Er gibt ihn als den neuen Hausarzt aus.",
+        "Er erklärt ihn zum Verlobten einer entfernten Cousine.",
+        "Er beschäftigt ihn offiziell als privaten Musiklehrer."
+      ],
+      "short": "Gilbert stellt den Schneider als Baron vor, um seine eigenen Schulden zu verbergen.",
+      "context": "Gilbert (Charles Ruggles) kann seine Rechnung nicht bezahlen und möchte diese Verlegenheit nicht vor der Schlossgesellschaft offenlegen. Der erfundene Baronstitel hält Maurice (Maurice Chevalier) zunächst als scheinbar ebenbürtigen Gast im Haus. Die vorübergehende Lösung des Schuldners schafft damit die zentrale Verwechslung der Liebesgeschichte.",
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Jeanette stellt sich auf die Gleise und hält so den Zug des abreisen wollenden Maurice an.",
+      "question": "Wie hält Jeanette (Jeanette MacDonald) Maurice (Maurice Chevalier) am Ende von „Schönste, liebe mich“ von der Abreise ab?",
+      "answers": [
+        "Sie stellt sich auf die Gleise vor seinen Zug.",
+        "Sie lässt ihn wegen der falschen Adelsangabe verhaften.",
+        "Sie kauft das gesamte Schneidergeschäft als Geschenk.",
+        "Sie schickt ihm einen Boten mit einem neuen Hofauftrag."
+      ],
+      "short": "Jeanette stellt sich auf die Gleise und hält so den Zug des abreisen wollenden Maurice an.",
+      "context": "Nach der Enthüllung seines Berufs reist Maurice (Maurice Chevalier) ab. Jeanette (Jeanette MacDonald) erkennt, dass sie ihn auch als Schneider liebt, und verfolgt den Zug zunächst zu Pferd. Als ihre Rufe nicht ausreichen, zwingt sie ihn durch das Betreten der Gleise zum Halten.",
+      "sources": [
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Eröffnung montiert Alltagsgeräusche des erwachenden Paris zu einem musikalischen Rhythmus.",
+      "question": "Woraus entwickelt „Schönste, liebe mich“ den musikalischen Rhythmus seiner Eröffnungssequenz?",
+      "answers": [
+        "Aus montierten Alltagsgeräuschen des erwachenden Paris",
+        "Aus einem unsichtbaren Orchester, das eine komplette Ouvertüre spielt",
+        "Aus dem gemeinsamen Marsch einer vorbeiziehenden Militärkapelle",
+        "Aus dem wiederholten Gesang eines einzelnen Straßenverkäufers"
+      ],
+      "short": "Die Eröffnung montiert Alltagsgeräusche des erwachenden Paris zu einem musikalischen Rhythmus.",
+      "context": "Arbeitsgeräusche, Schnarchen, Kehren und weitere Klänge treten nacheinander zusammen. Der Schnitt organisiert sie rhythmisch, bevor Maurice (Maurice Chevalier) selbst singt. So erscheint die Stadt als musikalischer Zusammenhang: Eine Nummer entsteht aus dem Alltag und muss nicht erst auf einer sichtbaren Bühne beginnen.",
+      "sources": [
+        "loc",
+        "cineville"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Isn’t It Romantic wandert durch mehrere Personen und Orte, bis Jeanette die Melodie aufgreift.",
+      "question": "Welche filmische Idee prägt „Isn’t It Romantic?“ in „Schönste, liebe mich“?",
+      "answers": [
+        "Die Melodie wandert durch verschiedene Personen und Orte bis zu Jeanette.",
+        "Eine Radioübertragung bringt Maurices Gesang unmittelbar in Jeanettes Zimmer.",
+        "Ein Duett zeigt Maurice und Jeanette beim ersten gemeinsamen Ball.",
+        "Ein Orchester wiederholt die Melodie bei den Auftritten des falschen Barons."
+      ],
+      "short": "Isn’t It Romantic wandert durch mehrere Personen und Orte, bis Jeanette die Melodie aufgreift.",
+      "context": "Maurice (Maurice Chevalier) beginnt die Melodie in der Stadt. Andere Figuren nehmen sie auf und tragen sie weiter, bis sie Jeanette (Jeanette MacDonald) auf ihrem entfernten Balkon erreicht. Das Lied verbindet die späteren Liebenden bereits musikalisch, während sie räumlich noch getrennt sind.",
+      "sources": [
+        "tcm",
+        "loc"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Schönste, liebe mich wurde 1932 erstmals veröffentlicht.",
+      "question": "In welchem Jahr erschien „Schönste, liebe mich“ mit Maurice Chevalier erstmals?",
+      "answers": [
+        "1932",
+        "1925",
+        "1929",
+        "1937"
+      ],
+      "short": "Schönste, liebe mich wurde 1932 erstmals veröffentlicht.",
+      "context": "Der Film stammt aus dem Jahr 1932. Seine freizügige Komik bereitete späteren Wiederaufführungen Probleme: Für eine erneute Freigabe 1949 wurden unter anderem eine anzügliche Musiknummer und Aufnahmen mit Myrna Loy gestrichen. Die überlieferte Fassung ist daher auch von späteren Zensureingriffen geprägt.",
+      "sources": [
+        "afi",
+        "loc",
+        "filmdienst"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Rouben Mamoulian führte Regie.",
+      "question": "Wer führte bei „Schönste, liebe mich“ Regie?",
+      "answers": [
+        "Rouben Mamoulian",
+        "Ernst Lubitsch",
+        "René Clair",
+        "Robert Z. Leonard"
+      ],
+      "short": "Rouben Mamoulian führte Regie.",
+      "context": "Rouben Mamoulian ließ die Songs von Richard Rodgers und Lorenz Hart vor der endgültigen Ausarbeitung des Drehbuchs entstehen. Dadurch konnten Handlung und Musik aufeinander abgestimmt werden. Die Lieder folgen nicht bloß als Einlagen auf gesprochene Szenen; ihre Übergänge und Wiederaufnahmen übernehmen selbst erzählerische Aufgaben.",
+      "sources": [
+        "tcm",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

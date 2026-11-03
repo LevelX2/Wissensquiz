@@ -1,0 +1,256 @@
+{
+  "id": "MUSIK-026",
+  "film_title_de": "Heut’ gehn wir bummeln",
+  "film_title_original": "On the Town",
+  "film_year": 1949,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Bekanntes klassisches New-York-Musical mit Kelly und Sinatra, dessen einzelne Such- und Liebesgeschichten eher Filmkenner erinnern.",
+  "selection_reason": "Das begrenzte Zeitfenster eines Landurlaubs verbindet Stadtbesichtigung, Partnersuche und Tanz; reale New-York-Bilder geben der Studiomusicalform eine neue Beweglichkeit.",
+  "directors": [
+    "Gene Kelly",
+    "Stanley Donen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstjahr 1949. AFI nennt New Yorker Start am 8. Dezember vor dem regulären 30. Dezember; Bernsteins offizielle Zeitleiste nennt die Radio-City-Premiere am 9. Dezember. Die Tagesabweichung wird nicht auf eine Scheingenauigkeit reduziert.",
+  "director_note": "Beide tragen den Gesamtregiecredit. Der gesonderte Second-Unit-Credit Andrew Marton ersetzt oder erweitert dieses Team nicht.",
+  "country_note": "",
+  "series": null,
+  "series_note": "Eigenständige Geschichte. It’s Always Fair Weather war zunächst als Fortsetzungsprojekt erwogen, wurde aber mit anderen Figuren entwickelt und wird nicht als nummerierter zweiter Teil geführt.",
+  "series_sources": [
+    "https://www.tcm.com/articles/musical/31511/on-the-town-1949",
+    "https://catalog.afi.com/Film/26043-ON-THE-TOWN"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/26043-ON-THE-TOWN",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene Handlung/Credits: Drei Matrosen, 24 Stunden, Miss-Turnstiles-Plakat, Coney-Island-Beruf, vollständiges Regieteam, Premiere und musikalische Neubearbeitung."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/musical/31511/on-the-town-1949",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener James-Steffen-Beitrag: Landurlaub, Plakat, New Yorker Dreharbeiten, veränderte Bühnenmusik und ursprüngliche Fortsetzungsabsicht."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/10-great-new-york-musicals",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Filmabschnitt: reale New-York-Orte, Stadtbewegung, Hauptfiguren und gemeinsames Regieteam."
+    },
+    "bernstein": {
+      "url": "https://www.leonardbernstein.com/works/view/8/on-the-town",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesene offizielle Werkdarstellung: Broadway-Start 1944 und Verfilmung 1949."
+    },
+    "zeitleiste": {
+      "url": "https://www.leonardbernstein.com/about/timeline",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Eintrag 9. Dezember 1949 zu Radio City; abweichenden Tagesbezug zu AFI berücksichtigt."
+    },
+    "titel": {
+      "url": "https://de.wikipedia.org/wiki/Heut%E2%80%99_gehn_wir_bummeln",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener deutscher Titel-/Originaltitel-/Jahrabgleich."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die drei Matrosen haben nur 24 Stunden Landurlaub.",
+      "question": "Wie viel Zeit bleibt den drei Matrosen in „Heut’ gehn wir bummeln“ für ihren Landurlaub?",
+      "answers": [
+        "24 Stunden",
+        "Ein Wochenende",
+        "Eine ganze Woche",
+        "Ein Monat"
+      ],
+      "short": "Die drei Matrosen haben nur 24 Stunden Landurlaub.",
+      "context": "Gabey (Gene Kelly), Chip (Frank Sinatra) und Ozzie (Jules Munshin) verlassen ihr Schiff für einen einzigen Tag. Sehenswürdigkeiten und Begegnungen müssen in dieses kurze Zeitfenster passen. Die laufende Uhr gibt auch den Liebesgeschichten ihre Dringlichkeit: Am Ende müssen die Männer wieder an Bord sein.",
+      "sources": [
+        "tcm",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "L2",
+      "objective": "Der Landurlaub führt die drei Matrosen durch New York.",
+      "question": "Welche Stadt erkunden die Matrosen in „Heut’ gehn wir bummeln“?",
+      "answers": [
+        "New York",
+        "San Francisco",
+        "Boston",
+        "New Orleans"
+      ],
+      "short": "Der Landurlaub führt die drei Matrosen durch New York.",
+      "context": "Die Männer beginnen ihre Erkundung bei den berühmten Orten New Yorks. Gabey (Gene Kelly) richtet seine Aufmerksamkeit bald stärker auf die Suche nach Ivy (Vera-Ellen) als auf das Besichtigungsprogramm. Die Stadt bleibt dabei mehr als eine Kulisse: Ihre U-Bahn, Taxis, Museen und Vergnügungsorte verbinden die Wege der Figuren.",
+      "sources": [
+        "bfi",
+        "tcm",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M1",
+      "objective": "Gabey verliebt sich in das Bild der Miss Turnstiles auf einem U-Bahn-Plakat und sucht die abgebildete Ivy.",
+      "question": "Was löst Gabeys (Gene Kelly) Suche nach Ivy (Vera-Ellen) in „Heut’ gehn wir bummeln“ aus?",
+      "answers": [
+        "Ihr Bild als Miss Turnstiles auf einem U-Bahn-Plakat",
+        "Eine Nachricht, die sie in seiner Uniformtasche hinterlassen hat",
+        "Eine Rundfunkansage über eine verschwundene Tänzerin",
+        "Ein Foto von ihr im Tagebuch seines früheren Kameraden"
+      ],
+      "short": "Gabey verliebt sich in das Bild der Miss Turnstiles auf einem U-Bahn-Plakat und sucht die abgebildete Ivy.",
+      "context": "Das Plakat präsentiert Ivy Smith (Vera-Ellen) als „Miss Turnstiles“. Gabey (Gene Kelly) macht aus diesem Werbebild die Vorstellung einer Frau, die er unbedingt kennenlernen möchte. Die Angaben des Plakats werden bei der Suche zu Hinweisen, ohne ihm schon zu zeigen, wie Ivy tatsächlich lebt.",
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ivy verheimlicht ihre Arbeit als Tänzerin in einer Vergnügungsbude auf Coney Island.",
+      "question": "Welche Arbeit verbirgt Ivy (Vera-Ellen) vor Gabey (Gene Kelly) in „Heut’ gehn wir bummeln“?",
+      "answers": [
+        "Sie tanzt in einer Vergnügungsbude auf Coney Island.",
+        "Sie arbeitet nachts als Garderobenfrau in einem Opernhaus.",
+        "Sie spielt Klavier in der Lobby eines billigen Hotels.",
+        "Sie führt Besucher als Fremdenführerin durch das Naturkundemuseum."
+      ],
+      "short": "Ivy verheimlicht ihre Arbeit als Tänzerin in einer Vergnügungsbude auf Coney Island.",
+      "context": "Ivy (Vera-Ellen) muss ihre Tanzlehrerin bezahlen und kehrt deshalb zu ihrem Auftritt auf Coney Island zurück. Sie verschwindet vom gemeinsamen Abend, ohne Gabey (Gene Kelly) den Grund zu nennen. Als er sie dort findet, erklärt sie ihm, dass sie sich für ihren tatsächlichen Arbeitsplatz geschämt hat.",
+      "sources": [
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Teile der musikalischen Stadterkundung wurden an wirklichen öffentlichen Orten in New York gedreht.",
+      "question": "Welche Produktionsentscheidung prägt die Stadterkundung in „Heut’ gehn wir bummeln“?",
+      "answers": [
+        "Musikalische Szenen wurden an wirklichen öffentlichen Orten in New York gedreht.",
+        "Die Stadtbilder wurden überwiegend aus zeitgenössischen Wochenschauen übernommen.",
+        "Für die Außenbilder ersetzten Tänzerdoubles die drei Hauptdarsteller.",
+        "Die Sehenswürdigkeiten wurden als bemalte Theaterprospekte vorgeführt."
+      ],
+      "short": "Teile der musikalischen Stadterkundung wurden an wirklichen öffentlichen Orten in New York gedreht.",
+      "context": "Das Team drehte unter anderem bei bekannten New Yorker Sehenswürdigkeiten. Das knappe Zeitbudget und die Menschenmengen erforderten eine bewegliche Arbeitsweise; laut TCM wurden auch versteckte Kameras eingesetzt. Die sichtbaren Stadtorte verleihen gerade dem Auftakt eine andere Energie als einer vollständig im Studio nachgebildeten Besichtigung.",
+      "sources": [
+        "bfi",
+        "tcm",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Ein großer Teil von Bernsteins Bühnenmusik wurde durch neue Filmnummern von Roger Edens ersetzt.",
+      "question": "Wie verändert „Heut’ gehn wir bummeln“ die Musik der Bühnenvorlage?",
+      "answers": [
+        "Edens ergänzt neue Songs; ein Teil von Bernsteins Musik bleibt.",
+        "Bernstein schreibt die meisten Lieder neu; Edens arrangiert die alten Nummern.",
+        "Die Songs werden vorwiegend durch bekannte Gershwin-Standards ersetzt.",
+        "Comden und Green schreiben neue Melodien; Edens bearbeitet die alten Texte."
+      ],
+      "short": "Ein großer Teil von Bernsteins Bühnenmusik wurde durch neue Filmnummern von Roger Edens ersetzt.",
+      "context": "Von der Bühnenmusik Leonard Bernsteins blieben nur ausgewählte Nummern erhalten, darunter „New York, New York“ und zwei Tanzsequenzen. Roger Edens schrieb neue Songs; Betty Comden und Adolph Green lieferten die Texte. Die Filmfassung ist musikalisch daher eine deutliche Neubearbeitung und keine bloße Aufzeichnung des Broadway-Musicals.",
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Heut’ gehn wir bummeln wurde 1949 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde „Heut’ gehn wir bummeln“ erstmals veröffentlicht?",
+      "answers": [
+        "1949",
+        "1943",
+        "1946",
+        "1954"
+      ],
+      "short": "Heut’ gehn wir bummeln wurde 1949 erstmals veröffentlicht.",
+      "context": "Die Filmfassung erschien 1949, fünf Jahre nach dem Broadway-Erfolg von 1944. Hinter der Bühnenvorlage stand wiederum Jerome Robbins’ Ballett „Fancy Free“. Der Film überträgt somit einen bereits mehrfach entwickelten Stoff in die Möglichkeiten der Kamera und der montierten Stadtbilder.",
+      "sources": [
+        "bernstein",
+        "afi"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Gene Kelly und Stanley Donen führten gemeinsam Regie.",
+      "question": "Wer führte bei „Heut’ gehn wir bummeln“ gemeinsam Regie?",
+      "answers": [
+        "Gene Kelly und Stanley Donen",
+        "Vincente Minnelli und Busby Berkeley",
+        "Charles Walters und Robert Alton",
+        "George Sidney und Michael Kidd"
+      ],
+      "short": "Gene Kelly und Stanley Donen führten gemeinsam Regie.",
+      "context": "Gene Kelly und Stanley Donen entwickelten die filmische Umsetzung gemeinsam. Kelly spielt zugleich Gabey; Donen steht bei dieser Produktion auf der Regieseite. Ihre Zusammenarbeit verbindet die Gestaltung der Tanzbewegung mit der Frage, wie sie durch Kamera, Drehorte und Schnitt zur Filmhandlung wird.",
+      "sources": [
+        "afi",
+        "bfi",
+        "tcm"
+      ],
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

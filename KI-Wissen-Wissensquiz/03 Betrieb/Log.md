@@ -2545,3 +2545,8 @@ Sechs Western mit 48 neuen Zielen integriert; Western 127, Classics 195. Vollst�
 #### Fortsetzung 03.11.2026 – Western W16
 
 Sechs Western mit 48 Fragen integriert; 47 neue globale Ziele und eine bestehende Regievariante zu Silverado. Western 133, Arthouse 124, Classics 201. Alle Fragen zentral und unabhängig gelesen; Titelvorwegnahme durch eigenständiges Castziel ersetzt, plausible Handlungsmöglichkeiten und vollständige Figurenbesetzungen nachgezogen. Kaufman-Gespräch, zeitgenössische Drehberichte, TCM und Verleihangaben verbreitern die Quellenbasis. Keine unbelegte genaue Stammeszuordnung bei widersprüchlichen Quellen. Alle 888 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 55 Pakete / 16.183 Fragen / 15.504 Ziele; 390 Genreergänzungen und 26 überlappende Arthouse-Filme offen.
+
+
+#### Fortsetzung 03.11.2026 – Musik W17
+
+Sechs Musikfilme mit 48 neuen Zielen integriert; Musik 127, Arthouse 126. Alle Fragen zentral und unabhängig gelesen; LOC, Criterion und Bernstein-Nachlass zu Form, Exil und Bühnen-/Filmfassung nachgelesen. Goin’-Courtin’-Liedtitel aus der Frage entfernt, Ivy-Darstellerin ergänzt. Technisches Credit-Gate wies Mischpaare mit tatsächlichen On-the-Town-Regisseuren zurück; falsche Teams vor dem ersten Roh-CSV-Aufbau korrigiert, Gate unverändert. Danach alle 936 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 56 Pakete / 16.231 Fragen / 15.552 Ziele; 384 Genreergänzungen und 24 überlappende Arthouse-Filme offen.
