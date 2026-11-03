@@ -1,0 +1,266 @@
+{
+  "id": "MUSIK-034",
+  "film_title_de": "Yellow Submarine",
+  "film_title_original": "Yellow Submarine",
+  "film_year": 1968,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Titel, Musik und Beatles-Bezug sind weithin bekannt; einzelne Handlungsschritte und die gestalterischen Credits verlangen Filmkenntnis.",
+  "selection_reason": "Zeichentrick, Pop Art, Collage und wechselnde Bildstile verbinden sich zu einer musikalischen Fantasiereise. Die bewusst unstete Form und ihre Stellung in der Animationsgeschichte begründen Arthouse und Classics.",
+  "directors": [
+    "George Dunning"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "Erstvorführung am 17. Juli 1968 in London laut offizieller Filmübersicht und Werkseite. Das britische Soundtrackalbum erschien erst im Januar 1969. Fassungsunterschiede der ursprünglichen internationalen Auswertung ändern das Erstjahr nicht.",
+  "director_note": "Übergreifender Filmregiecredit George Dunning nach Beatles und BFI. Jack Stokes und Robert Balser werden ausdrücklich als Animation Directors, Heinz Edelmann als Art Director geführt; diese unterschiedlichen Aufgaben nicht in einen erfundenen gemeinsamen Hauptregiecredit zusammengezogen.",
+  "country_note": "BFI führt USA und Großbritannien; Produktionsgesellschaften und britische Animationsarbeit von der Nationalität der Band unterscheiden.",
+  "series": {
+    "name": "Beatles-Kinofilme",
+    "position": 3,
+    "note": "Dritter Film der ursprünglichen Kinofilmvereinbarung mit United Artists nach A Hard Day's Night und Help!, wie BFI ausdrücklich erläutert. Die Fernsehproduktion Magical Mystery Tour zählt in dieser Kinofolge nicht mit."
+  },
+  "series_note": "Eigenständiges animiertes Abenteuer innerhalb der ursprünglichen Beatles-Kinofilmfolge; keine Fortsetzung des Ringkonflikts von Help!.",
+  "series_sources": [
+    "https://www.bfi.org.uk/lists/10-great-british-animated-feature-films",
+    "https://www.thebeatles.com/films"
+  ],
+  "sources": {
+    "beatles": {
+      "url": "https://www.thebeatles.com/node/15",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Werkseite gelesen:17.7.1968, Pepperland/Blue Meanies, Musik, Stimmenliste, George Dunning, Edelmann und getrennte Animationsregie; Selbstaussagen der Beatles und Edelmanns wechselnde Bildstile."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/4668f997-b1cb-54fd-9e64-72a265e40505/yellow-submarine",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Werkseite gelesen:1968, beide Produktionsländer, Dunning, Brodax und Sprecher."
+    },
+    "animation": {
+      "url": "https://www.bfi.org.uk/lists/10-great-british-animated-feature-films",
+      "accessed_on": "2026-11-03",
+      "supports": "Einleitung und vollständiger Yellow-Submarine-Abschnitt gelesen: dritter United-Artists-Kinofilm, andere Dialogsprecher, realer Schlussauftritt, Dunning/Edelmann und experimentelle Bildgestaltung."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Yellow_Submarine_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung sowie Anfang des Stimmenabschnitts gelesen: Fred/Liverpool, Sea of Holes, eingestecktes Loch, Glasglocke, Flying Glove und All You Need Is Love; Paul Angelis als Ringo und ergänzende George-Dialoge."
+    },
+    "clip": {
+      "url": "https://www.thebeatles.com/eleanor-rigby-0",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige offizielle Clipseite gelesen: George Dunning, Al Brodax, Heinz Edelmann, Filmsequenz 1968 und Verbindung zum 1966 veröffentlichten Doppel-A-Single-Paar."
+    },
+    "album": {
+      "url": "https://www.thebeatles.com/yellow-submarine",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen sichtbaren Album-Suchindex gelesen: britischer Start17.1.1969 nach Film 1968, zwei Plattenseiten mit Beatles-Liedern und George-Martin-Orchesterkompositionen; keine Liedtexte übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die bedrohte musikalische Unterwasserwelt heißt Pepperland.",
+      "question": "Wie heißt die von den Blue Meanies bedrohte Unterwasserwelt in „Yellow Submarine“?",
+      "answers": [
+        "Pepperland",
+        "Neverland",
+        "Wonderland",
+        "Dreamland"
+      ],
+      "short": "Die Unterwasserwelt heißt Pepperland.",
+      "context": "Musik und Farben prägen Pepperland, bis die Blue Meanies angreifen. Die Bewohner erstarren und ihre Kapelle wird eingeschlossen. Mit der Flucht Freds (englische Originalstimme Lance Percival) beginnt die Suche nach Hilfe. Die später ankommenden Beatles begegnen dadurch einer Welt, in der ihre musikalischen Fähigkeiten zugleich ein Mittel des Widerstands gegen die Angreifer werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "beatles",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Fred findet die Beatles in Liverpool.",
+      "question": "In welcher britischen Stadt sucht Fred in „Yellow Submarine“ die Beatles auf?",
+      "answers": [
+        "Liverpool",
+        "London",
+        "Manchester",
+        "Birmingham"
+      ],
+      "short": "Fred reist nach Liverpool.",
+      "context": "Fred (englische Originalstimme Lance Percival) erreicht mit dem U-Boot eine ganz andere Umgebung als das verspielte Pepperland. Die Liverpool-Sequenz zu „Eleanor Rigby“ zeigt eine graue städtische Welt mit einsamen Menschen. Dort trifft er zunächst Ringo (englische Originalstimme Paul Angelis). Über ihn kommt die kleine Rettungsgemeinschaft zusammen, die sich wieder auf den Weg unter Wasser macht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "beatles",
+        "clip"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Ringo befreit die eingeschlossene Kapelle mithilfe eines mitgenommenen Lochs.",
+      "question": "Wie befreit Ringo in „Yellow Submarine“ die unter einer Glasglocke gefangene Kapelle?",
+      "answers": [
+        "Er benutzt ein Loch, das er aus dem Meer der Löcher mitgenommen hat.",
+        "Er lässt die Glasglocke durch einen besonders hohen Ton zerspringen.",
+        "Er öffnet mit Freds U-Bootschlüssel eine verborgene Bodentür.",
+        "Er vergrößert die Kapelle mithilfe des Motors, bis die Glocke zerbricht."
+      ],
+      "short": "Ein zuvor eingestecktes Loch wird zum Ausweg aus der Glasglocke.",
+      "context": "Im Meer der Löcher behandelt Ringo (englische Originalstimme Paul Angelis) eine Öffnung wie einen Gegenstand und steckt sie ein. Später wird diese spielerische Unmöglichkeit nützlich: Die Wand der Glasglocke bekommt einen Durchgang. Die Reise liefert damit ein Hilfsmittel, dessen Verwendung derselben frei erfundenen Bildlogik folgt wie der übrige Film.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "beatles"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "All You Need Is Love begleitet den Sieg über den fliegenden Handschuh.",
+      "question": "Mit welchem Lied wehren die Beatles in „Yellow Submarine“ den Angriff des fliegenden Handschuhs ab?",
+      "answers": [
+        "All You Need Is Love",
+        "Lucy in the Sky with Diamonds",
+        "When I'm Sixty-Four",
+        "Nowhere Man"
+      ],
+      "short": "Sie setzen dem Handschuh „All You Need Is Love“ entgegen.",
+      "context": "Die bewaffnete Macht der Meanies trifft auf Schrift, Klang und musikalische Bilder. Nach dem Eingreifen der Beatles kehren Farben und Leben nach Pepperland zurück. Die Nummer stellt eine andere Art von Stärke aus als die Bedrohung durch den riesigen Handschuh. Das spätere Angebot der Freundschaft führt den Konflikt weiter in Richtung Versöhnung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "beatles"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die animierten Beatles haben andere englische Dialogsprecher als die realen Musiker.",
+      "question": "Wie verhält es sich mit den englischen Dialogstimmen der animierten Beatles in „Yellow Submarine“?",
+      "answers": [
+        "Alle vier Figuren werden in den englischen Dialogen von Schauspielern gesprochen.",
+        "Alle vier Beatles sprechen ihre jeweiligen Figuren selbst.",
+        "John Lennon spricht sich selbst; Schauspieler sprechen die drei anderen Beatles.",
+        "Ringo Starr spricht sich selbst; Schauspieler sprechen die drei anderen Beatles."
+      ],
+      "short": "Für die englischen Dialoge wurden eigene Sprecher eingesetzt.",
+      "context": "Bei den Liedern hört man die Beatles; ihre Zeichentrickfiguren sprechen jedoch mit den Stimmen anderer Schauspieler. Paul Angelis übernimmt unter anderem Ringo, John Clive den John und Geoffrey Hughes den Paul. Zum Schluss erscheinen die wirklichen vier Musiker in einer kurzen Realszene. Die unterschiedlichen Ebenen von Musikaufnahme, gezeichneter Figur und realem Auftritt bleiben erkennbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "beatles",
+        "animation",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "Heinz Edelmann prägte als Art Director das visuelle Konzept.",
+      "question": "Wer prägte als Art Director die Figuren und die Pop-Art-Bildwelt von „Yellow Submarine“?",
+      "answers": [
+        "Heinz Edelmann",
+        "Peter Blake",
+        "Alan Aldridge",
+        "Martin Sharp"
+      ],
+      "short": "Art Director war Heinz Edelmann.",
+      "context": "Edelmann wollte den Stil im Verlauf des Films immer wieder verändern. Fotografische Elemente, Zeichnung, verzerrte Perspektiven und kaleidoskopische Bewegungen stehen deshalb nebeneinander. Die Musik hält die wechselnden Formen zusammen. Die eigenständige Gestaltung lässt sich etwa in der städtischen „Eleanor Rigby“-Sequenz und in den fantastischen Meeren der Reise auf unterschiedliche Weise erkennen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "beatles",
+        "animation",
+        "clip"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Yellow Submarine wurde 1968 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde der Animationsfilm „Yellow Submarine“ erstmals veröffentlicht?",
+      "answers": [
+        "1968",
+        "1963",
+        "1965",
+        "1972"
+      ],
+      "short": "Der Film wurde 1968 erstmals veröffentlicht.",
+      "context": "Der Titelsong war 1966 zusammen mit „Eleanor Rigby“ veröffentlicht worden. Zwei Jahre später, 1968, kam die Zeichentrickwelt ins Kino. Das britische Soundtrackalbum folgte erst im Januar 1969. Auf dessen zweiter Seite stehen neu aufgenommene Orchesterstücke von George Martin. Lied, Film und Album gehören damit zu verschiedenen Veröffentlichungsterminen, obwohl sie denselben Titel tragen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "clip",
+        "beatles",
+        "album"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "George Dunning führte übergreifend Regie.",
+      "question": "Wer führte beim Animationsfilm „Yellow Submarine“ übergreifend Regie?",
+      "answers": [
+        "George Dunning",
+        "Richard Lester",
+        "Richard Williams",
+        "John Halas"
+      ],
+      "short": "Die Filmregie hatte George Dunning.",
+      "context": "Dunning arbeitete mit Art Director Heinz Edelmann und einem großen Animationsteam. Jack Stokes und Robert Balser werden als Animationsregisseure geführt; George Martin verantwortete die musikalische Leitung. Die verschiedenen Credits benennen unterschiedliche Beiträge. Das Ergebnis verbindet eine Rettungsgeschichte mit einer Folge wechselnder visueller Ideen, die jeweils auf andere Klangfarben der Beatles-Musik reagieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "beatles",
+        "bfi",
+        "animation"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "MUSIK-038",
+  "film_title_de": "Victor/Victoria",
+  "film_title_original": "Victor/Victoria",
+  "film_year": 1982,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Die Identitätskomödie mit Julie Andrews zählt zum bekannten klassischen Musikfilm, ist aber kein allgemeiner Gegenwartsreferenztitel.",
+  "selection_reason": "Bühnengesang und die Konstruktion einer Künstleridentität treiben die Liebes- und Geschlechterkomödie im Pariser Nachtleben an.",
+  "directors": [
+    "Blake Edwards"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "Weltpremiere bei Filmex in Los Angeles am 16.3.1982, reguläre Starts ab 19.3.1982 nach AFI; die Festivalvorführung ist berücksichtigt.",
+  "director_note": "Blake Edwards als alleiniger Filmregisseur und Drehbuchautor nach AFI, BFI und Biennale.",
+  "country_note": "UK/USA übereinstimmend AFI, BFI und Biennale; Paris ist Handlungsschauplatz, kein Produktionsland.",
+  "series": null,
+  "series_note": "Neuverfilmung von Viktor und Viktoria (1933), keine nummerierte Fortsetzung. Die spätere Bühnenfassung ist kein weiterer Teil dieser Filmhandlung.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/MovieDetails/56900"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/MovieDetails/56900",
+      "accessed_on": "2026-11-03",
+      "supports": "Herstellungsgeschichte, Credits, Erstjahres-/Länderdaten und Beginn der vollständigen Synopsis bis Kings Reaktion gelesen: Kakerlake, Richard-Anzug, polnischer Graf, Paris 1934, Filmex 16.3.1982, Schünzel-Vorlage, Londoner Produktion."
+    },
+    "biennale": {
+      "url": "https://www.labiennale.org/en/cinema/2019/golden-lions-lifetime-achievement/victor-victoria",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis und Werkcredits gelesen: Paris 1934, verarmte Victoria, Toddy, polnische Grafenidentität, Bühnenbetrug, King, Regie, UK/USA und 1982."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/12761/victor-victoria",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Roger-Fristoe-Text gelesen: Mancini/Bricusse und Songs, Schünzel-Remake, Toddy/Robert Preston nach Sellers' Tod 1980, Bühnencharakter der Nummern und Edwards-Zusammenarbeit. Die dortige grobe Zeitangabe turn of century und spätes Broadway-Jahr nicht übernommen."
+    },
+    "clips": {
+      "url": "https://www.tcm.com/watchtcm/titles/94780",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Textbeschreibungen der Filmausschnitte gelesen, nicht Videos angesehen: Le Jazz Hot mit Enthüllung, Gay Paree, Toddy/Preston und Victorias Verarmung; Hauptrollen und Filmjahr."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Victor/Victoria",
+      "accessed_on": "2026-11-03",
+      "supports": "Handlungsabschnitte in geöffnetem Text und vollständigem Suchindex gelesen: Kakerlakenplan, Toddy als letzter Ersatz für Victor bei Shady Dame, Enttarnungsdrohung und Schluss. Keine Aussage über eine geschlechtliche Verwandlung statt Verkleidung abgeleitet."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/ab23a9bc-5aca-51a7-98a0-25ab0924e152/victor-victoria",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Werkdatensatz im Suchindex gelesen: Edwards, 1982, UK/USA, Hauptrollen und Produktion."
+    },
+    "afifilm": {
+      "url": "https://www.afi.com/robert-detail/56900-VICTORVICTORIA/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Werktext gelesen: 1982, Ursprung im deutschen Film von 1933 und Geschlechterrollenprämisse."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "knowledge_id": "K-SCHAUSPIELER-202610-P02-122-S-1",
+      "variant_of": "SCHAUSPIELER-202610-P02-122-S-1",
+      "objective": "Victoria ist eine Frau, die einen Mann spielt, der auf der Bühne eine Frau darstellt.",
+      "question": "Welche mehrfache Rollenverkleidung macht die Sängerin Victoria (Julie Andrews) in „Victor/Victoria“ erfolgreich?",
+      "answers": [
+        "Eine Frau gibt sich als Mann aus, der als Frau auftritt.",
+        "Ein Mann gibt sich als Frau aus, die als Mann auftritt.",
+        "Eine Frau spielt abwechselnd sich und ihren tatsächlich existierenden Zwillingsbruder.",
+        "Ein Mann und eine Frau treten unter derselben Identität im täglichen Wechsel auf."
+      ],
+      "short": "Victoria spielt einen Mann, dessen Bühnenspezialität die Darstellung einer Frau ist.",
+      "context": "Toddy (Robert Preston) vermarktet die arbeitslose Sängerin Victoria Grant (Julie Andrews) als den angeblichen polnischen Grafen Victor Grazinski. Das Publikum soll ihre hohe Stimme und ihre Frauenkleidung für die Leistung eines männlichen Travestiekünstlers halten. Ein Bühnenauftritt endet mit dem Abnehmen der Perücke. Die Figur bleibt dabei dieselbe Frau; ihre behauptete Identität und ihre Bühnenrolle wechseln.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "biennale",
+        "afifilm",
+        "afi",
+        "clips"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Geschichte spielt im Pariser Nachtleben der 1930er Jahre.",
+      "question": "In welcher Stadt sucht die mittellose Sängerin Victoria (Julie Andrews) in „Victor/Victoria“ Arbeit?",
+      "answers": [
+        "Paris",
+        "Berlin",
+        "London",
+        "Wien"
+      ],
+      "short": "Victoria sucht in Paris ein Engagement.",
+      "context": "Die Handlung setzt im Winter 1934 ein. Victoria (Julie Andrews) scheitert beim Vorsingen im Club Chez Lui und kann kaum noch Essen und Unterkunft bezahlen. Toddy (Robert Preston) verliert dort ebenfalls seine Arbeit und nimmt sie bei sich auf. Ihre Zusammenarbeit entsteht zunächst aus dieser gemeinsamen Notlage, bevor die erfundene Bühnenidentität beiden Zugang zum erfolgreichen Nachtgeschäft eröffnet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "biennale",
+        "afi",
+        "clips"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Victoria will mit einer mitgebrachten Kakerlake um die Restaurantrechnung herumkommen.",
+      "question": "Mit welchem Trick möchte Victoria (Julie Andrews) zu Beginn von „Victor/Victoria“ ein Restaurantessen bekommen, ohne es zu bezahlen?",
+      "answers": [
+        "Sie will eine mitgebrachte Kakerlake im Essen platzieren.",
+        "Sie will sich als angekündigte Restaurantkritikerin ausgeben.",
+        "Sie will eine fremde Garderobenmarke als bereits bezahlten Gutschein vorzeigen.",
+        "Sie will den Oberkellner mit einer fingierten telefonischen Einladung täuschen."
+      ],
+      "short": "Sie bringt eine Kakerlake mit, die als Reklamationsgrund dienen soll.",
+      "context": "Victoria (Julie Andrews) hat das Tier zuvor in ihrem heruntergekommenen Hotelzimmer eingefangen. Als Toddy (Robert Preston) zu ihr an den Tisch kommt, wird aus ihrem sorgfältig geplanten Alleingang eine gemeinsame Flucht: Der Wirt möchte wenigstens sein unbeanstandetes Essen bezahlt haben. Die Panik der übrigen Gäste verschafft beiden schließlich die Gelegenheit, das Lokal zu verlassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Toddy übernimmt am Ende Victors letzten Auftritt mit The Shady Dame from Seville.",
+      "question": "Wer übernimmt am Schluss von „Victor/Victoria“ an Victorias Stelle den angekündigten Auftritt als Victor?",
+      "answers": [
+        "Toddy (Robert Preston)",
+        "King Marchan (James Garner)",
+        "Norma Cassady (Lesley Ann Warren)",
+        "André Cassell (John Rhys-Davies)"
+      ],
+      "short": "Toddy springt bei dem letzten Auftritt ein.",
+      "context": "Victoria (Julie Andrews) möchte die Männeridentität aufgeben und mit King Marchan (James Garner) zusammenleben. Toddy (Robert Preston) übernimmt daher die Nummer „The Shady Dame from Seville“ und macht aus dem Ersatz eine absichtlich aus den Fugen geratende Darbietung. Die abschließende Komik entsteht aus dem sichtbar anderen Spiel mit genau jener Rolle, die zuvor Victorias Berufserfolg ermöglicht hatte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "tcm"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Film bearbeitet Reinhold Schünzels Viktor und Viktoria von 1933 neu.",
+      "question": "Auf welcher Art von Vorlage beruht „Victor/Victoria“ mit Julie Andrews?",
+      "answers": [
+        "Auf einer deutschen Filmkomödie aus dem Jahr 1933",
+        "Auf einer französischen Operette aus dem Jahr 1900",
+        "Auf einem britischen Theaterstück aus dem Jahr 1930",
+        "Auf einem amerikanischen Hörspiel aus dem Jahr 1940"
+      ],
+      "short": "Die Vorlage ist Schünzels „Viktor und Viktoria“ von 1933.",
+      "context": "Die Rechte an der deutschen Vorlage wurden bereits in den frühen siebziger Jahren erworben, bevor das neue Projekt seine endgültige Form erhielt. Schon 1935 war mit „First a Girl“ eine britische Bearbeitung entstanden. Die Fassung mit Julie Andrews greift somit ein mehrfach erprobtes Verkleidungsmotiv auf und entwickelt es mit neuen Liedern und einer eigenen Pariser Gesellschaftskomödie weiter.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "afifilm"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Henry Mancini und Leslie Bricusse schrieben die neue Filmmusik und Songtexte.",
+      "question": "Welches Gespann schuf Musik und Liedtexte für Nummern wie „Le Jazz Hot“ und „Crazy World“ in „Victor/Victoria“?",
+      "answers": [
+        "Henry Mancini und Leslie Bricusse",
+        "John Kander und Fred Ebb",
+        "Andrew Lloyd Webber und Tim Rice",
+        "Michel Legrand und Alan sowie Marilyn Bergman"
+      ],
+      "short": "Henry Mancini komponierte die Musik, Leslie Bricusse schrieb die Texte.",
+      "context": "Die Gesangsnummern sind an Auftritte im Nachtclub gebunden und gehören damit zu den beruflichen Darbietungen der Figuren. Julie Andrews singt etwa „Le Jazz Hot“, während Robert Preston als Toddy mit „Gay Paree“ hervortritt. Die Lieder zeigen unterschiedliche Seiten dieses Bühnenmilieus: artistische Selbstinszenierung, vertrauliches Miteinander und das spielerische Vorführen gesellschaftlicher Erwartungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tcm",
+        "clips",
+        "biennale"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Victor/Victoria wurde 1982 erstmals öffentlich gezeigt.",
+      "question": "In welchem Jahr wurde „Victor/Victoria“ mit Julie Andrews erstmals öffentlich gezeigt?",
+      "answers": [
+        "1982",
+        "1977",
+        "1987",
+        "1992"
+      ],
+      "short": "Die erste öffentliche Vorführung fand 1982 statt.",
+      "context": "Die Weltpremiere erfolgte am 16. März 1982 beim Filmex-Festival in Los Angeles, wenige Tage vor dem regulären Kinostart. Peter Sellers war für das Projekt vorgesehen gewesen, starb aber 1980 vor Beginn der Dreharbeiten. Zwischen diesem Verlust und der Premiere lagen knapp zwei Jahre; Robert Preston übernahm die schließlich realisierte Rolle des Toddy.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Blake Edwards führte die alleinige Filmregie.",
+      "question": "Wer inszenierte „Victor/Victoria“ mit Julie Andrews, James Garner und Robert Preston?",
+      "answers": [
+        "Blake Edwards",
+        "Stanley Donen",
+        "Bob Fosse",
+        "Richard Attenborough"
+      ],
+      "short": "Blake Edwards führte Regie.",
+      "context": "Edwards schrieb auch das neue Drehbuch und produzierte den Film gemeinsam mit Tony Adams. Mit Henry Mancini arbeitete er seit vielen Jahren zusammen, etwa bei „Frühstück bei Tiffany“ und den Pink-Panther-Filmen. Das Pariser Nachtleben entstand für diese Produktion in England: Die Dreharbeiten fanden 1981 in London statt, während die Geschichte in Frankreich angesiedelt bleibt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm",
+        "biennale",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

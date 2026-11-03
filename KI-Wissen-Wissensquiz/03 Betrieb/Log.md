@@ -2580,3 +2580,8 @@ Drei abschließende Dramen mit24 neuen Zielen integriert; Drama150, Arthouse144,
 #### Fortsetzung 03.11.2026 – Abenteuer W23
 
 Sechs Abenteuerfilme mit 48 Fragen integriert; 47 neue globale Ziele und eine Personenvariante zum versunkenen Flugzeugschatz. Abenteuer 127, Arthouse 145, Classics 215. Vollständige zentrale und unabhängige Gegenlesung, zusätzliche Quellen tatsächlich gelesen. Expeditionsteilnehmer grammatisch eindeutig getrennt, Wilsons Einlenken auf das Filmende begrenzt, falscher Reihenlink entfernt. Kanonisches Komma im Originaltitel White Hunter, Black Heart über exakte Kandidaten-ID zugeordnet. Alle 1.200 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 62 Pakete / 16.495 Fragen / 15.810 Ziele; 351 Genreergänzungen und fünf überlappende Arthouse-Filme offen.
+
+
+#### Fortsetzung 03.11.2026 – Musik W24
+
+Sechs Musikfilme mit 48 Fragen integriert; 47 neue globale Ziele und eine bestehende Rollenvariante bei Victor/Victoria. Musik 139, Arthouse 148, Classics 217. Vollständige zentrale und unabhängige Gegenlesung; örtliches Tanzverbot bei Footloose mit vergleichbaren Ablenkern, Tommy-Szenen zusätzlich belegt. Roma-Trilogie und Beatles-Kinofolge jeweils Teil 3. Alle 1.248 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 63 Pakete / 16.543 Fragen / 15.857 Ziele; 345 Genreergänzungen und zwei überlappende Arthouse-Filme offen.

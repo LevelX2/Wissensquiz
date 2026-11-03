@@ -1,0 +1,257 @@
+{
+  "id": "MUSIK-037",
+  "film_title_de": "The Rose",
+  "film_title_original": "The Rose",
+  "film_year": 1979,
+  "genre": "Musik",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Bette Midlers Durchbruch und der Titelsong sind bekannt; der ganze Film gehört heute eher zum Wissen von Musikfilmkennern.",
+  "selection_reason": "Das fiktive Starporträt verbindet live gefilmte Bühnenauftritte mit der Belastung durch Tourneen, Abhängigkeit und private Bindungen.",
+  "directors": [
+    "Mark Rydell"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Erstauswertung im November 1979, AFI: New York 7.11., Los Angeles 8.11. Kein früheres Festivaljahr in den geprüften Filmquellen belegt.",
+  "director_note": "Mark Rydell als alleiniger Filmregisseur; Barry Primus ist getrennt als Second Unit Director geführt.",
+  "country_note": "USA nach Criterion und AFI.",
+  "series": null,
+  "series_note": "Eigenständige fiktive Künstlergeschichte, keine belegte nummerierte Filmfolge. Die Anregung durch Janis Joplin macht den Film nicht zu einer biografischen Fortsetzung.",
+  "series_sources": [
+    "https://www.criterion.com/films/28572-the-rose"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/56979-THE-ROSE",
+      "accessed_on": "2026-11-03",
+      "supports": "Produktionsgeschichte, Credits, Daten und vollständige Synopsis gelesen: Ruhejahr, Rudge, Chauffeur/AWOL, Billy Ray, Hometown-Konzert, Auftritt mit eigener Imitation, Konzertaufnahmen und Songcredit Amanda McBroom."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/28572-the-rose",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Katalogbeschreibung und Credits gelesen: Mary Rose Foster, Besetzung, Rydell, USA 1979, Kameraensemble und separate Second Unit."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/3568-the-rose-high-tragedy-on-tour",
+      "accessed_on": "2026-11-03",
+      "supports": "Essay Paula Mejia gelesen: fiktive Ausarbeitung statt unmittelbarer Joplin-Biografie, 1969/1979, Midlers Debütalbum 1972, Livekonzerte vor eigenen Fans, Midler/Rydell/Goldman und die Auszeit."
+    },
+    "amanda": {
+      "url": "https://amcbroom.com/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen öffentlich sichtbaren Startseiten-Suchindex gelesen: Amanda McBroom als Autorin von The Rose, Midlers Aufnahme und McBrooms eigene spätere Aufnahme. Seitenabruf selbst lief in Timeout; keine darüber hinausgehende Webseitenauswertung behauptet."
+    },
+    "interview": {
+      "url": "https://www.kclu.org/local-news/2025-11-19/ojai-singer-songwriter-behind-the-rose-reflects-on-the-song-that-changed-her-life?_amp=true",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Interview im Suchindex gelesen: McBrooms eigene Schilderung des vorher geschriebenen Songs, Kassetteneinreichung, Zustimmung der Musikaufsicht und Midlers. Keine Liedzeilen übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Rose_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Werkdaten und vollständige Rollenliste gelesen; Schreibweise Huston Dyer gegenüber AFI Houston, Darsteller und fiktive Künstleridentität abgeglichen. Handlung vorrangig aus AFI."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Bette Midler spielt die erschöpfte Rocksängerin Mary Rose Foster.",
+      "question": "Wer verkörpert in „The Rose“ die erfolgreiche, vom Tourleben erschöpfte Rocksängerin Mary Rose Foster?",
+      "answers": [
+        "Bette Midler",
+        "Barbra Streisand",
+        "Liza Minnelli",
+        "Cher"
+      ],
+      "short": "Bette Midler spielt Rose.",
+      "context": "Die Sängerin steht auf der Bühne im Mittelpunkt, findet abseits davon aber wenig Halt. Rose (Bette Midler) versucht, dem Tourbetrieb und ihren Abhängigkeiten eine persönliche Beziehung entgegenzusetzen. Der Film begleitet damit eine erfundene Künstlerfigur. Midlers eigene Bühnenerfahrung fließt in die Auftritte ein; ihre Rolle ist keine direkte Darstellung ihres eigenen Lebens.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Rose möchte ein Jahr Pause von der Tournee nehmen.",
+      "question": "Was verlangt Rose (Bette Midler) in „The Rose“ von ihrem Manager, weil ihre Kräfte nachlassen?",
+      "answers": [
+        "Ein Jahr Pause vom Tourbetrieb",
+        "Einen Wechsel zur ausschließlichen Studioarbeit in London",
+        "Die Entlassung ihrer gesamten Begleitband",
+        "Eine neue Tournee ohne amerikanische Auftrittsorte"
+      ],
+      "short": "Sie möchte ein Jahr aussetzen.",
+      "context": "Manager Rudge Campbell (Alan Bates) sieht vor allem die bereits verkauften Konzerte und die drohenden Einnahmeverluste. Rose (Bette Midler) kürzt unterdessen schon ihre Programme, weil sie nicht mehr die Kraft für vollständige Sets hat. Der Streit um die Auszeit setzt früh die wirtschaftlichen Erwartungen des Betriebs gegen die körperlichen Grenzen seines Stars.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Chauffeur Huston Dyer hat seinen Armeeposten unerlaubt verlassen.",
+      "question": "Was erzählt Chauffeur Huston Dyer (Frederic Forrest) Rose in „The Rose“ über seine eigene Situation?",
+      "answers": [
+        "Er hat seinen Armeeposten unerlaubt verlassen.",
+        "Er ist ein entlassener Musiker ihrer früheren Band.",
+        "Er fährt unter falschem Namen für einen rivalisierenden Manager.",
+        "Er arbeitet heimlich als Reporter über ihre Tournee."
+      ],
+      "short": "Dyer ist ein unerlaubt abwesender Soldat.",
+      "context": "Nach einem Streit folgt Rose (Bette Midler) dem Fahrer in ein Badehaus, wo er sich ihr anvertraut. Huston Dyer (Frederic Forrest) bietet ihr die Aussicht auf ein Leben außerhalb des Starbetriebs und eine Reise nach Mexiko. Doch die Beziehung wird durch Eifersucht und Gewalt belastet; die ersehnte gemeinsame Flucht bleibt aus.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Im Dragclub singt Rose zusammen mit einem Imitator ihrer eigenen Bühnenfigur.",
+      "question": "Mit welcher Bühnenimitation beginnt Rose (Bette Midler) bei ihrem Dragclub-Besuch in „The Rose“ ein Duett?",
+      "answers": [
+        "Mit einer Imitation ihrer eigenen Sängerinnenfigur",
+        "Mit einer Imitation Barbra Streisands",
+        "Mit einer Imitation Diana Ross’",
+        "Mit einer Imitation Dolly Partons"
+      ],
+      "short": "Sie singt mit ihrer eigenen Bühnenimitation.",
+      "context": "Der Club gehört zu Rose’ früheren vertrauten Orten. Neben der Imitation von Rose (Bette Midler) treten dort auch Darstellungen anderer berühmter Sängerinnen auf. Die Szene stellt dem einsamen Star ein spielerisches, gemeinschaftliches Bühnenerlebnis gegenüber. Zugleich begegnet die Figur hier ihrer bereits verselbstständigten öffentlichen Erscheinung als einem Bild, das andere aufführen können.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Konzertnummern wurden live vor Publikum mit erfahrenen Kameraleuten aufgenommen.",
+      "question": "Wie entstanden die großen Konzertauftritte in „The Rose“ mit Bette Midler?",
+      "answers": [
+        "Als Liveauftritte vor Publikum, aufgenommen von mehreren erfahrenen Kameraleuten",
+        "Als Bühnenauftritte im Playback zu vorher aufgenommenem Gesang Bette Midlers",
+        "Als nachträglich gefilmte Bühnenszenen zu Tonaufnahmen fremder Konzertauftritte",
+        "Als Studioauftritte vor leerem Saal, ergänzt um separat gedrehte Zuschauerbilder"
+      ],
+      "short": "Midler sang live vor Publikum; mehrere Kameraleute hielten die Auftritte fest.",
+      "context": "Bei den gefilmten Konzerten saßen auch wirkliche Fans Bette Midlers im Publikum. Vilmos Zsigmonds Kameraarbeit wurde für die Bühnenbilder unter anderem durch Conrad L. Hall, László Kovács, Owen Roizman und Haskell Wexler ergänzt. So konnte die Produktion zugleich auf die Sängerin, die Begleitmusiker und die Reaktionen im Saal achten. Die Spielfilmszenen greifen diese Konzertenergie auf.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "criterion",
+        "afi"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Amanda McBroom schrieb den schon vor dem Film entstandenen Titelsong.",
+      "question": "Von wem stammt der Titelsong „The Rose“, den Bette Midler für den Film aufnahm?",
+      "answers": [
+        "Amanda McBroom",
+        "Carole King",
+        "Joni Mitchell",
+        "Carly Simon"
+      ],
+      "short": "Amanda McBroom schrieb den Song.",
+      "context": "McBroom hatte das Lied bereits geschrieben, bevor es für die Produktion eingereicht wurde. Nach ihrer eigenen Schilderung gelangte es über eine Bekannte als einfache Kassette zu den Verantwortlichen; Musikaufsicht und Bette Midler befürworteten seine Verwendung. Der gleiche Titel bedeutet daher nicht, dass das Lied erst für das Drehbuch entstand. McBroom sang es später auch selbst ein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "amanda",
+        "interview",
+        "afi"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "The Rose erschien 1979.",
+      "question": "In welchem Jahr erschien „The Rose“ erstmals öffentlich?",
+      "answers": [
+        "1979",
+        "1974",
+        "1984",
+        "1989"
+      ],
+      "short": "The Rose erschien 1979.",
+      "context": "Sieben Jahre nach ihrem Debütalbum „The Divine Miss M“ von 1972 übernahm Bette Midler diese große Filmhauptrolle. Die Handlung blickt aus dem Erscheinungsjahr 1979 auf die Rockwelt von 1969 zurück. Zwischen dem dargestellten Tourleben und seiner filmischen Verarbeitung liegt damit ein Jahrzehnt, in dem sich auch die öffentliche Wahrnehmung des Rockstars verändert hatte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "afi",
+        "criterion"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Mark Rydell führte Filmregie.",
+      "question": "Wer führte bei „The Rose“ mit Bette Midler Regie?",
+      "answers": [
+        "Mark Rydell",
+        "Bob Fosse",
+        "Martin Scorsese",
+        "Hal Ashby"
+      ],
+      "short": "Mark Rydell führte Regie.",
+      "context": "Rydell arbeitete mit Bo Goldman an der Umarbeitung einer ursprünglich stärker auf Janis Joplin bezogenen Geschichte. Aus der Nähe zum Vorbild entstand eine eigenständige Figur, in die auch Erfahrungen Bette Midlers mit Erschöpfung und Management einflossen. Die Produktion verbindet dadurch bekannte Bedingungen des Musikgeschäfts mit einer frei gestalteten dramatischen Lebensgeschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "afi",
+        "criterion"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

@@ -14963,7 +14963,9 @@
     },
     "Victor/Victoria|1982": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/56900"
+      ]
     },
     "Violette Nozière|1978": {
       "series": null,
@@ -16537,6 +16539,47 @@
       "sources": [
         "https://catalog.afi.com/Film/26914-THE-SEA-WOLF",
         "https://www.tcm.com/articles/17903/the-sea-wolf-1941"
+      ]
+    },
+    "Yellow Submarine|1968": {
+      "series": {
+        "name": "Beatles-Kinofilme",
+        "position": 3,
+        "note": "Dritter Film der ursprünglichen Kinofilmvereinbarung mit United Artists nach A Hard Day's Night und Help!, wie BFI ausdrücklich erläutert. Die Fernsehproduktion Magical Mystery Tour zählt in dieser Kinofolge nicht mit."
+      },
+      "sources": [
+        "https://www.bfi.org.uk/lists/10-great-british-animated-feature-films",
+        "https://www.thebeatles.com/films"
+      ]
+    },
+    "Tommy|1975": {
+      "series": null,
+      "sources": [
+        "https://catalog.afi.com/Catalog/MovieDetails/55692"
+      ]
+    },
+    "Gadjo dilo|1997": {
+      "series": {
+        "name": "Tony Gatlifs Roma-Trilogie",
+        "position": 3,
+        "note": "Thematischer Abschluss nach Les Princes und Latcho Drom, ausdrücklich in ARTE-Werktext und FIFF-Arbeitshilfe. Die Geschichten behalten eigenständige Figuren."
+      },
+      "sources": [
+        "https://www.arte.tv/fr/videos/022305-000-A/gadjo-dilo/",
+        "https://www.fiff.ch/sites/default/files/inline-files/FIFF2015_Arbeitshilfe_Gadjo_Dilo.pdf"
+      ]
+    },
+    "The Rose|1979": {
+      "series": null,
+      "sources": [
+        "https://www.criterion.com/films/28572-the-rose"
+      ]
+    },
+    "Footloose|1984": {
+      "series": null,
+      "sources": [
+        "https://www.paramount.com/movies/footloose",
+        "https://www.paramount.com/movies/footloose-2011"
       ]
     }
   }

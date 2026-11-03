@@ -1,0 +1,267 @@
+{
+  "id": "MUSIK-035",
+  "film_title_de": "Tommy",
+  "film_title_original": "Tommy",
+  "film_year": 1975,
+  "genre": "Musik",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Die Rockoper, Roger Daltrey und die berühmten Gastauftritte sind bekannt; die genaue Filmfassung und ihre Herstellung sind Spezialwissen.",
+  "selection_reason": "Ken Russell verwandelt die Rockoper in eine durchgesungene, surreal gestaltete Konsum- und Erlösungssatire. Die expressive Autorenhandschrift und die im BFI gewürdigte audiovisuelle Form begründen Arthouse und Classics.",
+  "directors": [
+    "Ken Russell"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung im März 1975 in den USA; AFI nennt New York19. und Los Angeles20. März. Die Cannes-Schlussvorführung im selben Jahr ist eine spätere Festivalpräsentation.",
+  "director_note": "Alleinige Regie Ken Russell, ebenfalls Drehbuch und Koproduktion. Pete Townshends Musikbearbeitung und weitere Textbeiträge sind keine zusätzlichen Regiecredits.",
+  "country_note": "AFI führt Großbritannien und USA und nennt Robert Stigwood Organisation/Columbia als Produktionsfirmen. BFI, Cannes und AFI Silver verkürzen auf Großbritannien; Dreharbeiten in England allein entscheiden die Länderzuordnung nicht.",
+  "series": null,
+  "series_note": "Eigenständige Verfilmung der Rockoper. Quadrophenia ist ein anderes Werk von The Who mit anderer Handlung, keine nummerierte Fortsetzung.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/MovieDetails/55692"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/MovieDetails/55692",
+      "accessed_on": "2026-11-03",
+      "supports": "Produktionsgeschichte, vollständige Synopsis und Credits gelesen:1969 erAlbum, 1975 Erststart, Länder, Mord am Vater, Spiegel/Pool, Fernsehfantasie, durchgesungene Handlung und Mehrkanalton. Keine Behauptung eines allerersten Rockopernwerks übernommen."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/10-great-british-films-1975",
+      "accessed_on": "2026-11-03",
+      "supports": "Einleitung und vollständigen Tommy-Abschnitt im sichtbaren Suchindex gelesen, Seite geöffnet: surrealer Aufstieg vom Flipperstar zum Guru, kommerzialisierte Nachkriegswelt, Gastrollen und Russells audiovisuelle Gestaltung."
+    },
+    "silver": {
+      "url": "https://silver.afi.com/movies/detail/0100005034/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Programm-Suchindex gelesen: Roger Daltrey, Ann-Margret/Oliver Reed, Tina Turner, Elton John und Ken Russell; Festival-/Wiederaufführungsdatum 2025 nicht mit Erstjahr verwechselt."
+    },
+    "cannes": {
+      "url": "https://www.festival-cannes.com/en/f/tommy/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Filmseite und vollständigen Credits-Suchindex gelesen:1975, außerhalb des Wettbewerbs, Schlussfilm, Russell-Regie und Townshend-Musik."
+    },
+    "ton": {
+      "url": "https://amianet.org/wp-content/uploads/Publication-AMIA-Tech-Review-V2-2010.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Suchindexabschnitt von Restaurator Bob Heibers Beitrag Tommy, Can You Hear Me? gelesen: Quintaphonic mit fünf Wiedergabekanälen, drei vorn/zwei hinten, Ursprung in Matrixtechnik. Kein vollständiges Heft gelesen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Tommy_(1975_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung sowie Hauptbesetzung gelesen, zusätzlich den Quintaphonic-Abschnitt: Heimkehr und Tötung Captain Walkers, Elternbefehl, Spiegelbefreiung, Pinball-Aufstieg, Guru und Ende; Mosely und fünf Kanäle. M1 und M2 gezielt mit AFI gegengeprüft. Keine Liedzeilen übernommen."
+    },
+    "annmargret": {
+      "url": "https://www.rogerebert.com/interviews/interview-with-ann-margret",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausführliche vollständige Szenenpassage am Interviewanfang im Suchindex gelesen: TV-Werbung für Seife, Bohnen und Schokolade; Ann-Margrets eigene Schilderung realer Materialien, weißes Set und drei gleichzeitige Kameras. Direkter Abruf 403; späterer Interviewrest nicht vollständig ausgewertet."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Der Film adaptiert eine Rockoper von The Who.",
+      "question": "Auf der Rockoper welcher Band beruht „Tommy“?",
+      "answers": [
+        "The Who",
+        "Pink Floyd",
+        "The Kinks",
+        "Genesis"
+      ],
+      "short": "Die Vorlage stammt von The Who.",
+      "context": "Pete Townshend entwickelte die Geschichte und den Großteil der Lieder für The Who. Der Film übernimmt den musikalischen Erzählbogen und erweitert ihn um eine stark gestaltete Bilderwelt. Mitglieder der Band treten selbst auf. Daneben stehen Gaststars wie Tina Turner als Acid Queen und Elton John als Flipperchampion sowie Schauspieler mit eigenen Gesangsaufgaben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "silver",
+        "cannes",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Roger Daltrey spielt den erwachsenen Tommy.",
+      "question": "Wer spielt in „Tommy“ den erwachsenen Titelhelden, der zum Flipperstar und später zum verehrten Guru wird?",
+      "answers": [
+        "Roger Daltrey",
+        "David Bowie",
+        "Mick Jagger",
+        "Peter Gabriel"
+      ],
+      "short": "Den erwachsenen Tommy spielt Roger Daltrey.",
+      "context": "Tommy Walker (Roger Daltrey) lebt nach einem Kindheitstrauma weitgehend von seiner Umgebung abgeschnitten. Beim Flippern zeigt er ein ungewöhnliches Talent, das ihn berühmt macht und der Familie Wohlstand verschafft. Seine spätere Befreiung aus der Isolation führt zu einer neuen Rolle als Heilsfigur. Die Begeisterung seiner Anhänger wird dabei wiederum geschäftlich organisiert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "silver",
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Der junge Tommy sieht, wie Frank seinen zurückkehrenden Vater tötet.",
+      "question": "Welches Ereignis löst in der Filmfassung „Tommy“ die Abschottung des jungen Tommy (Barry Winch) aus?",
+      "answers": [
+        "Er sieht, wie Frank seinen heimgekehrten Vater tötet.",
+        "Er sieht, wie sein Vater die Mutter bei einem Streit schwer verletzt.",
+        "Er erlebt den Tod seiner Mutter bei einem Autounfall.",
+        "Er wird nach einem Bombenangriff von seiner Familie getrennt."
+      ],
+      "short": "Tommy wird Zeuge der Tötung seines Vaters.",
+      "context": "Captain Walker (Robert Powell) galt im Krieg als verschollen. Als er zurückkehrt, lebt Nora (Ann-Margret) mit Frank Hobbs (Oliver Reed) zusammen. Frank erschlägt den Heimkehrer. Dem Jungen wird eingeschärft, er habe nichts gesehen und gehört und dürfe nichts erzählen. Die filmische Traumalogik verbindet diesen Befehl mit dem Verlust seiner Zugänge zur Außenwelt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Nora zerbricht den Spiegel und Tommy stürzt hindurch in einen Pool.",
+      "question": "Welche Handlung Noras (Ann-Margret) führt in „Tommy“ unmittelbar zu Tommys Befreiung aus seiner Isolation?",
+      "answers": [
+        "Sie zerbricht den Spiegel, durch den er in ein Wasserbecken stürzt.",
+        "Sie zerstört den Flipperautomaten, an dem er sich festklammert.",
+        "Sie verbrennt die Erinnerungsstücke seines verschollenen Vaters.",
+        "Sie sperrt Frank aus dem Haus und lässt Tommy die Tür öffnen."
+      ],
+      "short": "Nora zerbricht den Spiegel; Tommy fällt hindurch ins Wasser.",
+      "context": "Der Spezialist (Jack Nicholson) hat zuvor keine körperliche Ursache gefunden und sieht keine Behandlungsmöglichkeit. Tommy Walker (Roger Daltrey) bleibt auf sein Spiegelbild fixiert. Als Nora (Ann-Margret) den Spiegel zerschlägt, mündet der Sturz ins Wasser in eine bildhafte Wiedergeburt. Danach erlebt er Licht, Natur und Sprache neu und beginnt, seine Erfahrung anderen zu verkünden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi",
+        "bfi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Noras Fernsehfantasie lässt Schaum, Schokolade und Bohnen aus dem Gerät strömen.",
+      "question": "Was ergießt sich in Noras (Ann-Margret) luxuriösem Zimmer während der Fernsehfantasie in „Tommy“ aus dem Gerät?",
+      "answers": [
+        "Schaum, Schokolade und gebackene Bohnen",
+        "Banknoten, Schmuck und goldene Schallplatten",
+        "Blumen, Federn und bunte Schmetterlinge",
+        "Schwarze Tinte, Zeitungen und zerrissene Fotografien"
+      ],
+      "short": "Aus dem Fernseher strömen Produkte einer übersteigerten Werbewelt.",
+      "context": "Nora (Ann-Margret) lebt inzwischen im Reichtum, bleibt aber von Schuld und Sorge um Tommy Walker (Roger Daltrey) gequält. Nach Alkohol und dem Wurf einer Flasche in den Fernseher verwandeln sich beworbene Konsumgüter in eine raumfüllende Fantasie. Die weiße Luxusumgebung wird überwältigt. Innerer Konflikt und äußerer Überfluss verschmelzen in einer grotesken musikalischen Szene.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "annmargret",
+        "handlung",
+        "bfi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Für die ursprüngliche Kinopräsentation wurde Quintaphonic Sound mit fünf Wiedergabekanälen entwickelt.",
+      "question": "Welches besondere Tonverfahren wurde für die ursprüngliche Kinopräsentation von „Tommy“ entwickelt?",
+      "answers": [
+        "Quintaphonic Sound mit fünf Wiedergabekanälen",
+        "Fantasound mit drei optischen Tonspuren",
+        "Sensurround mit zusätzlichen Tiefbass-Signalen",
+        "Perspecta mit einer gesteuerten Monotonspur"
+      ],
+      "short": "Der Film erhielt das Fünfkanalverfahren Quintaphonic Sound.",
+      "context": "John Mosely entwickelte eine Anordnung mit drei Kanälen vorn und zwei hinten. Für die Vorführungen mussten geeignete Kinos technisch eingerichtet werden. Die räumliche Wiedergabe sollte die Rockmusik um das Publikum herum erfahrbar machen. Später kursierten auch andere Tonfassungen; der Name bezeichnet die besondere ursprüngliche Präsentation und kein unveränderliches Merkmal jeder Kopie.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ton",
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "Y",
+      "objective": "Tommy wurde 1975 erstmals veröffentlicht.",
+      "question": "In welchem Jahr wurde die Filmfassung von „Tommy“ mit Roger Daltrey erstmals veröffentlicht?",
+      "answers": [
+        "1975",
+        "1969",
+        "1971",
+        "1981"
+      ],
+      "short": "Der Film wurde 1975 erstmals veröffentlicht.",
+      "context": "Das Album „Tommy“ erschien 1969. Sechs Jahre später, 1975, erreichte die Filmfassung die Kinos. Pete Townshend ergänzte und bearbeitete die Musik dafür; Ken Russell verlegte die Vorgeschichte in den Zweiten Weltkrieg. Nach den ersten Kinovorführungen wurde der Film im selben Jahr auch als Schlussfilm außerhalb des Wettbewerbs in Cannes gezeigt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "cannes"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Ken Russell führte Regie.",
+      "question": "Wer führte bei der Rockoper-Verfilmung „Tommy“ Regie?",
+      "answers": [
+        "Ken Russell",
+        "Nicolas Roeg",
+        "Alan Parker",
+        "Michael Apted"
+      ],
+      "short": "Ken Russell führte Regie.",
+      "context": "Russell erzählt die Handlung fast vollständig durch Gesang; die Einleitung arbeitet zunächst instrumental. Das gesprochene Alltagsgespräch wird durch musikalische Szenen und stark zugespitzte Bilder ersetzt. Von der vermeintlichen Heilung bis zur Vermarktung eines Gurus entsteht so eine Satire auf Familie, Konsum und Autoritätsglauben. Die Übersteigerung gehört zur Erzählweise dieser konkreten Filmfassung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi",
+        "cannes"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
