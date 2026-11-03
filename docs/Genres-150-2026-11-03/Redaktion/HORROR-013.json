@@ -1,0 +1,253 @@
+{
+  "id": "HORROR-013",
+  "film_title_de": "Severance – Ein blutiger Betriebsausflug",
+  "film_title_original": "Severance",
+  "film_year": 2006,
+  "genre": "Horror",
+  "categories": [],
+  "familiarity_level": 4,
+  "familiarity_reason": "Die britische Horrorsatire ist eine Genreentdeckung; Danny Dyer und der Firmenausflug bieten trotzdem einen zugänglichen Einstieg.",
+  "selection_reason": "Die Verbindung von Gruppendynamik, Waffenindustrie und Slasher führt Unternehmenssprache und tatsächliche Gewalt gegeneinander.",
+  "directors": [
+    "Christopher Smith"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "Deutschland"
+  ],
+  "status": "quellengeprueft",
+  "release_note": "Erstjahr 2006. Das am 10. August 2006 veröffentlichte Smith-Interview belegt bereits die Vorstellung auf der Piazza Grande in Locarno; Cineuropa nennt den britischen Kinostart 25. August 2006. Eine spätere Toronto-Vorführung wird nicht als früheste Premiere ausgegeben.",
+  "director_note": "Christopher Smith führte allein Regie. James Moran lieferte die Geschichte und schrieb mit Smith das Drehbuch.",
+  "country_note": "BFI und Cineuropa nennen Großbritannien/Deutschland. Der ungarische Handlungsschauplatz begründet kein zusätzliches Produktionsland.",
+  "series": null,
+  "series_note": "Keine belegte veröffentlichte nummerierte Filmfolge; unabhängig von der gleichnamigen späteren Fernsehserie. Abgleich von BFI-Werk, Cineuropa und den beiden Autoreninterviews.",
+  "series_sources": [
+    "https://www.bfi.org.uk/film/7d79e529-5cd8-57df-83f8-1a5f2f857495/severance",
+    "https://mjsimpson-films.blogspot.com/2014/03/interview-james-moran.html"
+  ],
+  "sources": {
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/7d79e529-5cd8-57df-83f8-1a5f2f857495/severance",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen indizierten Werktext gelesen: 2006, Großbritannien/Deutschland, Regie Smith, Autoren Moran/Smith und Hauptbesetzung."
+    },
+    "cineuropa": {
+      "url": "https://cineuropa.org/en/film/65514/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesener Werktext/Credits: Länder, Jahr 2006, Waffenhersteller-Ausflug, Crew und europäische Kinostarts. Die Kurzsynopsis nennt pauschal Transsilvanien; deshalb kein enges Ortsziel daraus abgeleitet."
+    },
+    "smith": {
+      "url": "https://outnow.ch/en/News/2006/08/10/Severance-Interview-with-Christopher-Smith",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges Interview gelesen: Locarno-Piazza-Vorstellung 2006, Waffenfirma von spätem Twist zum früh bekannten Satireansatz verlagert, drei Rashomon-artige Vorgeschichten, ausgewogenes Horror/Komik-Verhältnis. Die Bemerkung alle Figuren tot wird nicht als exakte Schlussbehauptung verwendet."
+    },
+    "moran": {
+      "url": "https://mjsimpson-films.blogspot.com/2014/03/interview-james-moran.html",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges ursprüngliches E-Mail-Interview vom 4. September 2006 gelesen, wiederveröffentlicht 2014: Geschäftsausflug-Idee, Zusammenarbeit mit Smith, frühere Firmenenthüllung ans Ende gedacht und bewusst getarnter Vorgriff im Prolog."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Severance_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Plot und Cast gelesen: falsche Hütte, Richard auf Mine, Wegweisung und bewusstes Auslösen, Maggie/Steve, spätere richtige Firmenunterkunft und Bootsflucht."
+    },
+    "creep": {
+      "url": "https://www.bfi.org.uk/lists/10-great-urban-wyrd-films",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenen vollständigen Creep-Abschnitt: Smith, Erstjahr 2004, Londoner U-Bahn als Slasherraum; zeitlicher Gegensatz zum Gruppenausflug 2006."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Ausflügler arbeiten für einen Waffenhersteller.",
+      "question": "Für welche Branche arbeitet die Reisegruppe in „Severance – Ein blutiger Betriebsausflug“?",
+      "answers": [
+        "Waffenherstellung",
+        "Pharmazeutische Forschung",
+        "Versicherungen",
+        "Lebensmittelhandel"
+      ],
+      "short": "Die Angestellten arbeiten für Palisade Defence.",
+      "context": "Der geplante Zusammenhalt ist Teil eines Firmenausflugs. Smith machte das Rüstungsgeschäft schon früh bekannt, damit die Gewalt nicht erst nachträglich einen ironischen Zusammenhang erhält. Die Beschäftigten geraten in eine Welt, deren tödliche Mittel ihrem gewöhnlichen Berufsalltag normalerweise fern zu sein scheinen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "cineuropa",
+        "smith"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Danny Dyer spielt den drogenfreudigen Angestellten Steve.",
+      "question": "Wer spielt Steve, den unbekümmerten, gern berauschten Mitarbeiter in „Severance – Ein blutiger Betriebsausflug“?",
+      "answers": [
+        "Danny Dyer",
+        "Nick Frost",
+        "Simon Pegg",
+        "Ralf Little"
+      ],
+      "short": "Danny Dyer spielt Steve.",
+      "context": "Steve (Danny Dyer) wirkt zunächst wenig geeignet, eine Krise nüchtern zu bewältigen. In der zunehmend zerfallenden Gruppe bleibt er jedoch mit Maggie (Laura Harris) handlungsfähig. Die Komik wächst aus den Eigenheiten der Beschäftigten; Moran wollte dabei Figurenreaktionen statt nachträglich aufgesetzter Witze.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung",
+        "moran"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Gruppe hat die falsche Unterkunft bezogen.",
+      "question": "Was erkennen Steve und Maggie in „Severance“, als sie später ein zweites Haus mit ihrem Chef darin erreichen?",
+      "answers": [
+        "Sie haben zuvor die falsche Unterkunft bezogen.",
+        "Der Chef hat den gesamten Überfall als Übung organisiert.",
+        "Ihre Firma hat die Reise heimlich abgesagt.",
+        "Der Chef hat sie an eine andere Firma verkauft."
+      ],
+      "short": "Das erste Haus war nicht die vorgesehene Unterkunft.",
+      "context": "Nach dem blockierten Busweg hat Richard (Tim McInnerny) auf die heruntergekommene Hütte als Ziel vertraut. Erst das spätere Gebäude mit George (David Gilliam) macht den Irrtum deutlich. Der Weg ins Grauen beginnt damit bereits vor den Angriffen als eine Kette falscher Entscheidungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Richard löst seine Mine bewusst aus und reißt Angreifer mit.",
+      "question": "Wie hilft Richard (Tim McInnerny) den Fliehenden in „Severance“, nachdem er auf einer Mine steht?",
+      "answers": [
+        "Er weist ihnen den Weg und löst die Mine gegen die Verfolger aus.",
+        "Er entschärft die Mine und vergräbt sie auf dem Rückweg.",
+        "Er handelt mit den Verfolgern einen Gefangenentausch aus.",
+        "Er täuscht eine Verletzung vor und lockt die Verfolger ins Haus."
+      ],
+      "short": "Richard nutzt seine ausweglose Lage gegen die Angreifer.",
+      "context": "Richard (Tim McInnerny) kann seinen Fuß nicht gefahrlos heben. Er führt Maggie (Laura Harris) und Steve (Danny Dyer) durch das Minenfeld, während die Verfolger ihn verspotten. Schließlich tritt er von der Mine. Aus dem zuvor überforderten Vorgesetzten wird für einen Moment jemand, der eine eigene Entscheidung verantwortet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Drei widersprüchliche Vorgeschichten vermeiden eine gesicherte Erklärung.",
+      "question": "Wie erklärt „Severance“ die düstere Vorgeschichte der ersten Unterkunft?",
+      "answers": [
+        "Durch drei widersprüchliche Erzählungen der Angestellten",
+        "Durch den lückenlosen Bericht eines geretteten Wachmanns",
+        "Durch eine abschließende Erklärung des Firmenchefs",
+        "Durch einen alten Lehrfilm mit bestätigten Aufnahmen"
+      ],
+      "short": "Mehrere Erzählungen bieten unterschiedliche Versionen.",
+      "context": "Smith wollte keine Figur, die das ganze Rätsel zuverlässig erklärt. Die Geschichten wechseln zwischen Anstaltsgrusel, Kriegsverbrechen und einer Klinik für Reiche. Ihre Unterschiede verraten zugleich die Phantasien der Erzähler. Der Rückblick schafft deshalb Atmosphäre, ohne einen einzigen vollständig gesicherten Ursprung vorzugeben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "smith",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Prolog zeigt spätere Ereignisse wie eine vermeintlich frühere Mordepisode.",
+      "question": "Welche zeitliche Täuschung benutzt der Prolog von „Severance“ nach James Morans Erklärung?",
+      "answers": [
+        "Er lässt spätere Ereignisse wie eine frühere Mordepisode wirken.",
+        "Er zeigt dieselbe Flucht nacheinander aus drei verschiedenen Jahren.",
+        "Er stellt einen Traum als tatsächlich gefilmte Nachrichtensendung dar.",
+        "Er wiederholt das Finale mit vertauschten überlebenden Figuren."
+      ],
+      "short": "Der Prolog ist ein getarnter Vorgriff.",
+      "context": "Moran wollte einen starken Auftakt, ohne eine bloß erkennbare Vorschau anzubieten. Erst beim Wiedersehen mit dem Firmenchef George (David Gilliam) und den beiden Frauen im späteren Verlauf lässt sich die Anfangsszene zeitlich richtig einordnen. Der Film verschiebt damit die Erwartung an eine klassische Slasher-Vorgeschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "moran"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Severance erschien erstmals 2006.",
+      "question": "In welchem Jahr erschien „Severance – Ein blutiger Betriebsausflug“ erstmals?",
+      "answers": [
+        "2006",
+        "1998",
+        "2013",
+        "2020"
+      ],
+      "short": "Der Film erschien 2006.",
+      "context": "Zwei Jahre nach „Creep“ von 2004 verlagerte Smith den Schrecken aus dem Londoner Untergrund in einen Firmenausflug. Zugleich gewann die Komik stärkeres Gewicht. Statt einer weitgehend geradlinigen Verfolgung stehen nun das gegenseitige Verhalten der Kollegen und die Satire auf ihre Branche im Mittelpunkt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "creep",
+        "smith"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Christopher Smith führte Regie.",
+      "question": "Wer führte bei „Severance – Ein blutiger Betriebsausflug“ Regie?",
+      "answers": [
+        "Christopher Smith",
+        "Neil Marshall",
+        "James Watkins",
+        "Eli Roth"
+      ],
+      "short": "Christopher Smith führte Regie.",
+      "context": "James Morans Ausgangsidee entstand aus Ärger über rücksichtslose Geschäftsleute im Pendlerverkehr. In der Zusammenarbeit mit Smith wurde daraus mehr als eine Bestrafungsphantasie: Die Firmenzugehörigkeit und der Waffenhandel sollten den gesamten Ablauf prägen. Beide teilten das Interesse an wirklichem Schrecken neben der Komik.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "moran"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

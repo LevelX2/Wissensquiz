@@ -1,0 +1,256 @@
+{
+  "id": "HORROR-012",
+  "film_title_de": "Land of the Dead",
+  "film_title_original": "Land of the Dead",
+  "film_year": 2005,
+  "genre": "Horror",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Romeros Rückkehr mit Dennis Hopper und großer Studioauswertung ist im Horror bekannt; ihre Klassenordnung und das Schlussmotiv verlangen genaueres Filmwissen.",
+  "selection_reason": "Eine befestigte Stadt teilt Sicherheit nach Vermögen auf, während die Untoten lernen, die Schutzgrenzen zu überwinden.",
+  "directors": [
+    "George A. Romero"
+  ],
+  "production_countries": [
+    "USA",
+    "Kanada",
+    "Frankreich"
+  ],
+  "status": "quellengeprueft",
+  "release_note": "Erstjahr 2005. Gelesener Werkabgleich nennt CineVegas am 18. Juni 2005; AFI die US-Kinostarts am 24. Juni 2005. Die Universal-Presseunterlage ist die zeitgenössische Produktion von 2005, nicht das spätere Copyright-Registrierungsdatum.",
+  "director_note": "George A. Romero ist alleiniger Regisseur und Drehbuchautor. Greg Nicotero ist für Maskeneffekte zuständig.",
+  "country_note": "AFI führt Frankreich, Kanada und USA; die Universal-Produktionsangaben nennen die Beteiligung von Wild Bunch und den Dreh in Toronto.",
+  "series": {
+    "name": "Living Dead",
+    "position": 4,
+    "note": "Vierte Veröffentlichung in Romeros Folge nach Night of the Living Dead, Dawn of the Dead und Day of the Dead."
+  },
+  "series_note": "Die Universal-Presseinformation nennt ausdrücklich die drei vorherigen Filme; die vierte Position wird auch in der zeitgenössischen Nicotero-Auskunft belegt.",
+  "series_sources": [
+    "https://www.monstrula.de/filme/landofthedead/notes.pdf",
+    "https://www.fangoria.com/greg-nicotero-land-of-the-dead-interview/"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/63429",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenen Werk-/Credittext: Regie/Drehbuch Romero, Baker/Riley, Hopper/Kaufman, Clark/Big Daddy, USA/Kanada/Frankreich, US-Start 24. Juni 2005; Registrierung 2006 ist nicht Erstjahr."
+    },
+    "presse": {
+      "url": "https://www.monstrula.de/filme/landofthedead/notes.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Universal-Produktionsinformation, Seiten 1–3 vollständig gelesen: Fiddler’s Green, Klassenordnung, Kaufman, Riley/Cholo, Dead Reckoning, Cholos Entführung/Erpressung, lernende Untote und vollständige Hauptcredits."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Land_of_the_Dead",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Plot/Cast gelesen: Fiddler’s Green, Cholos abgelehnter Aufstieg und Erpressung, Flussdurchquerung, Rileys Verzicht auf Angriff am Schluss. Festivaldatum CineVegas 2005 getrennt vom Kinostart."
+    },
+    "nicotero": {
+      "url": "https://www.fangoria.com/greg-nicotero-land-of-the-dead-interview/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges zeitgenössisches Interview gelesen: vierter Film 2005 nach zwanzig Jahren, lernende Zombies auf Bubs Grundlage, geplante praktische Puppen/Make-up mit digital entfernter Bedienung und gesellschaftlicher Gierkonflikt. Vor Dreh geäußerte Pläne nicht als genaue Schlussszenenbelege verwendet."
+    },
+    "romero": {
+      "url": "https://www.bfi.org.uk/sight-and-sound/interviews/george-romero-sight-sound-interview",
+      "accessed_on": "2026-11-03",
+      "supports": "Romeros vollständige Antworten zum größeren Land-Budget, Stars und Rückkehr zur kleineren Produktionsweise gelesen; größere Besetzung verteuerte die Produktion, kleinere Arbeit bietet ihm mehr kreative Freiheit."
+    },
+    "mills": {
+      "url": "https://www.tedmills.com/2005/07/land_of_the_dead/",
+      "accessed_on": "2026-11-03",
+      "supports": "Zeitgenössische vollständige Rezension von Ted Mills gelesen: Feuerwerk als Ablenkung, Big Daddy bringt andere zum Ignorieren des Schauspiels, Klassenkonflikt Fiddler’s Green. Nur die konkrete Filmszene, nicht die politische Deutung als Objektivfakt, übernommen."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Simon Baker spielt Riley, den Leiter der Versorgungsfahrten.",
+      "question": "Wer spielt Riley, den Leiter der bewaffneten Versorgungsfahrten in „Land of the Dead“?",
+      "answers": [
+        "Simon Baker",
+        "Thomas Jane",
+        "Aaron Eckhart",
+        "Josh Lucas"
+      ],
+      "short": "Simon Baker spielt Riley.",
+      "context": "Riley (Simon Baker) führt Fahrten durch die von Untoten besetzten Gebiete. Das gepanzerte Fahrzeug Dead Reckoning schützt dabei seine Leute und transportiert Waren für die eingeschlossene Stadt. Er selbst möchte aus der Ordnung ausbrechen, deren Fortbestand er durch diese Arbeit ermöglicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Fiddler’s Green ist der abgesicherte Wohnort der Wohlhabenden.",
+      "question": "Was ist Fiddler’s Green in „Land of the Dead“?",
+      "answers": [
+        "Eine luxuriöse Wohnanlage für Wohlhabende",
+        "Ein frei zugängliches Flüchtlingslager",
+        "Ein militärisches Zentrum zur Impfstoffforschung",
+        "Ein Umschlagplatz für Lebensmittel außerhalb der Stadt"
+      ],
+      "short": "Dort lebt die wohlhabende Oberschicht.",
+      "context": "Kaufman (Dennis Hopper) kontrolliert Geschäfte und Zugang zur Sicherheit. Während die privilegierten Bewohner ihren früheren Lebensstil nachahmen, leben andere auf der Straße unter prekären Bedingungen. Die Stadt schützt daher nicht alle Menschen auf dieselbe Weise, obwohl die äußere Bedrohung alle betrifft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Cholo entführt Dead Reckoning, um Kaufman zu erpressen.",
+      "question": "Was tut Cholo (John Leguizamo), nachdem ihm der Aufstieg nach Fiddler’s Green verwehrt wird?",
+      "answers": [
+        "Er stiehlt Dead Reckoning und erpresst Kaufman.",
+        "Er verkauft Kaufmans Vorräte an eine Nachbarstadt.",
+        "Er bringt die Zuflucht zum Streit mit dem Militär.",
+        "Er tauscht seinen Platz gegen den eines Gefangenen."
+      ],
+      "short": "Cholo benutzt das Fahrzeug als Erpressungswaffe.",
+      "context": "Kaufman (Dennis Hopper) nimmt Cholos (John Leguizamo) Dienste gern an, gewährt ihm aber keinen gleichberechtigten Zugang. Der bewaffnete Versorger wird daraufhin zum Gegner seines Auftraggebers. Riley (Simon Baker) soll das Fahrzeug zurückholen, bevor die Drohung gegen die Wohnanlage verwirklicht wird.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "presse",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Big Daddy lässt sich nicht mehr dauerhaft durch Feuerwerk ablenken.",
+      "question": "Welche bisher wirksame Ablenkung verliert gegenüber Big Daddy und seinen Untoten in „Land of the Dead“ ihre Wirkung?",
+      "answers": [
+        "Das Feuerwerk über ihren Köpfen",
+        "Das Geräusch leer laufender Motoren",
+        "Der Geruch aufgehängter Tierkadaver",
+        "Das Licht beweglicher Suchscheinwerfer"
+      ],
+      "short": "Big Daddy überwindet die Ablenkung durch Feuerwerk.",
+      "context": "Die Menschen nutzen den Blick der Untoten zum Himmel für ihre Versorgungsfahrten. Big Daddy (Eugene Clark) konzentriert sich jedoch zunehmend auf die Angreifer und führt andere an. Seine Lernfähigkeit macht aus einem eingeübten, scheinbar sicheren Ablauf ein riskantes Unternehmen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "mills",
+        "nicotero"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Untoten durchqueren den Fluss unter Wasser.",
+      "question": "Wie überwinden Big Daddy und seine Gruppe in „Land of the Dead“ eine für sicher gehaltene natürliche Grenze?",
+      "answers": [
+        "Sie gehen unter Wasser durch den Fluss.",
+        "Sie treiben auf den Trümmern eines Fähranlegers.",
+        "Sie folgen einem trockengelegten Kanaltunnel.",
+        "Sie benutzen ein gekapertes Versorgungsschiff."
+      ],
+      "short": "Sie durchqueren den Fluss unter Wasser.",
+      "context": "Die menschliche Verteidigung vertraut auch auf die Flüsse rund um die Stadt. Big Daddy (Eugene Clark) führt die Untoten in das Wasser und auf der anderen Seite wieder hinaus. Was für einen lebenden Angreifer ein tödliches Hindernis wäre, hält diese Gegner nicht mehr auf.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Riley verzichtet auf den Angriff gegen die abziehenden Untoten.",
+      "question": "Weshalb lässt Riley (Simon Baker) Big Daddys Gruppe am Schluss von „Land of the Dead“ weiterziehen?",
+      "answers": [
+        "Er erkennt, dass auch sie einen Zufluchtsort suchen.",
+        "Er will sie als Schutztruppe für seine Reise anwerben.",
+        "Er erwartet von ihnen die Freilassung eines Gefangenen.",
+        "Er weiß, dass Kaufman ihren Abzug heimlich bezahlt hat."
+      ],
+      "short": "Riley erkennt ein gemeinsames Bedürfnis nach Zuflucht.",
+      "context": "Big Daddy (Eugene Clark) und seine Gruppe ziehen weiter, ohne die letzten Menschen anzugreifen. Riley (Simon Baker) beantwortet dies nicht mit weiterer Vernichtung. Sein Entschluss löst die Feindschaft nicht allgemein auf, setzt dem unmittelbaren Kampf aber eine Grenze und ermöglicht den eigenen Aufbruch.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Land of the Dead erschien erstmals 2005.",
+      "question": "In welchem Jahr erschien Romeros „Land of the Dead“ erstmals?",
+      "answers": [
+        "2005",
+        "1997",
+        "2012",
+        "2019"
+      ],
+      "short": "Der Film erschien 2005.",
+      "context": "Seit „Day of the Dead“ von 1985 waren zwanzig Jahre vergangen. Greg Nicotero, damals Assistent Tom Savinis, verantwortete nun mit seinem Team die neuen Zombieeffekte. Die Rückkehr verband deshalb eine Fortentwicklung der lernenden Untoten mit einem beruflichen Wiedersehen über zwei Generationen der Effektarbeit hinweg.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "nicotero"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "George A. Romero führte Regie.",
+      "question": "Wer führte bei „Land of the Dead“ mit Simon Baker und Dennis Hopper Regie?",
+      "answers": [
+        "George A. Romero",
+        "Zack Snyder",
+        "Danny Boyle",
+        "Greg Nicotero"
+      ],
+      "short": "George A. Romero führte Regie.",
+      "context": "Romero empfand die Arbeit mit prominenter Besetzung als aufwendiger und teurer als seine früheren Produktionen. Später bevorzugte er wieder kleinere Projekte mit größerer Beweglichkeit. Der Film steht dadurch auch für eine Phase, in der seine unabhängige Zombiegeschichte in einer deutlich größeren Produktionsstruktur weitergeführt wurde.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "romero"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

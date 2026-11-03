@@ -1,0 +1,244 @@
+{
+  "id": "HORROR-015",
+  "film_title_de": "Blutiger Valentinstag",
+  "film_title_original": "My Bloody Valentine",
+  "film_year": 1981,
+  "genre": "Horror",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein prägender kanadischer Slasher mit Bergmannsmaske und späterem Remake; Einzelheiten von Milieu und Täterwechsel bleiben spezieller.",
+  "selection_reason": "Der Film verknüpft Feiertagsritual, Arbeitsunfall und die Zukunftsängste einer Bergarbeitergemeinschaft mit einer Mordserie.",
+  "directors": [
+    "George Mihalka"
+  ],
+  "production_countries": [
+    "Kanada"
+  ],
+  "status": "quellengeprueft",
+  "release_note": "Erstjahr 1981 nach Paramount-Werktext und zeitgenössischer Veröffentlichung;1980 ist das Drehjahr. Die im Interview geschilderte Herstellung im Herbst 1980 zielte ausdrücklich auf Februar 1981.",
+  "director_note": "George Mihalka ist alleiniger Regisseur. John Beaird schrieb das Drehbuch nach einer Geschichte von Stephen Miller; John Dunning und André Link gehören zur Produktion.",
+  "country_note": "Kanadischer Film nach Festivalprogramm und Mihalka-Auskunft; Paramount-Vertrieb und US-Auswertung allein begründen kein zusätzliches ProduktionslandUSA.",
+  "series": null,
+  "series_note": "Keine veröffentlichte nummerierte Fortsetzung des Originals belegt. My Bloody Valentine von 2009 ist ein Remake. Die von Mihalka genannte Fortsetzung, für die Dunning Material aufhob, wurde nicht gedreht.",
+  "series_sources": [
+    "https://www.fangoria.com/exclusive-interview-george-mihalkas-bloody-valentine-present/"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://www.paramountpictures.com/movies/my-bloody-valentine",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen indizierten Paramount-Werktext und Credits gelesen; spätere Direktabrufe leiten auf Studiohomepage. Jahr 1981, Minenunglück durch abwesende Aufseher, Warden-Vorgeschichte, Herzschachtel und Kelman/Hallier/Affleck/Mihalka."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/My_Bloody_Valentine_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Plot/Cast gelesen: abgesagter Tanz und Verlagerung in Mine, Axel als Sohn eines von Warden getöteten Aufsehers, scheinbarer eigener Tod und demaskierter Täter; kanadische Produktion und Veröffentlichungsjahr 1981."
+    },
+    "mihalka": {
+      "url": "https://www.terrortrap.com/interviews/georgemihalka/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges indiziertes Interview TeilI von Januar 2005 gelesen; Direktabruf zeitweise 502. Herbst 1980-Dreh für Februar 1981, wirkliche Princess-Colliery-Mine in SydneyMines, aufwendige Aufzüge und eingeschränkte Beleuchtung, Arbeiter- und Beziehungskontext. Pauschale historische Erstheitsbehauptungen nicht übernommen."
+    },
+    "gingold": {
+      "url": "https://www.fangoria.com/exclusive-interview-george-mihalkas-bloody-valentine-present/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständiges ursprüngliches Interview von 2009 gelesen: Arbeiterwelt statt austauschbarer Vorstadtjugendlicher, soziale Lage/Liebesdreieck, wiederentdeckte Effektszenen 2009, gleichzeitig Remake, ungedrehte Fortsetzung und weiteres unwiederbringlich verlorenes Material. Daher keine Behauptung vollständig wiederhergestellter Originalfassung."
+    },
+    "festival": {
+      "url": "https://www.calgaryundergroundfilm.org/content/documents/CUFF_Program_Guide_web.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Gelesenen vollständigen indizierten Werkabschnitt MyBloodyValentine 45 thAnniversary: Kanada 1981, Mihalka und heimliche Feier in der Mine nach Absage. Neuere Formulierung uncut nicht als archivalische Vollständigkeitsgarantie verwendet."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Der Alltag wird durch eine Bergarbeitergemeinschaft geprägt.",
+      "question": "Welches Milieu prägt „Blutiger Valentinstag“ in seiner ursprünglichen Fassung?",
+      "answers": [
+        "Eine Bergarbeitergemeinde",
+        "Eine Universitätsstadt",
+        "Ein amerikanisches Ferienlager",
+        "Ein abgelegenes Internat"
+      ],
+      "short": "Die Geschichte spielt im Umfeld eines Bergwerks.",
+      "context": "Die jungen Leute begegnen einander bei der Arbeit und beim Feiern, nicht nur als zufällige Opfer. Mihalka wollte die begrenzten Aussichten einer Arbeitergemeinschaft spürbar machen. Freundschaften, Unsicherheit und Liebesbeziehungen bleiben deshalb auch dann wichtig, wenn die Mordserie bereits begonnen hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "gingold"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Paul Kelman spielt T.J., den zurückgekehrten Sohn des Bürgermeisters.",
+      "question": "Wer spielt T.J., den zurückgekehrten Sohn des Bürgermeisters in „Blutiger Valentinstag“?",
+      "answers": [
+        "Paul Kelman",
+        "Kevin Bacon",
+        "Peter Barton",
+        "Tom McBride"
+      ],
+      "short": "Paul Kelman spielt T.J.",
+      "context": "T.J. (Paul Kelman) kehrt zurück und trifft auf Sarah (Lori Hallier), die sich inzwischen Axel (Neil Affleck) zugewandt hat. Die alte Beziehung belastet das Trio. Der Film verbindet damit die erwarteten gemeinsamen Feierlichkeiten mit privaten Spannungen, die schon vor der Entdeckung des Täters bestehen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Aufseher verlassen den Arbeitsplatz für den Tanz.",
+      "question": "Wodurch wird das frühere Grubenunglück in der Vorgeschichte von „Blutiger Valentinstag“ begünstigt?",
+      "answers": [
+        "Die Aufseher verlassen ihre Posten für den Festtanz.",
+        "Die Arbeiter setzen gegen Anweisung eine verbotene Sprengung an.",
+        "Die Besitzer lassen während eines Streiks den Schacht fluten.",
+        "Die Rettungsmannschaft verwechselt die Ausfahrt der Nachtmannschaft."
+      ],
+      "short": "Die zuständigen Aufseher sind beim Tanz statt im Bergwerk.",
+      "context": "Harry Warden (Peter Cowper) überlebt die Katastrophe, wird danach aber in eine Anstalt eingewiesen. Ein Jahr später rächt er sich an den Verantwortlichen. Das Verbot weiterer Feiern verknüpft seitdem das gesellschaftliche Ritual mit der Erinnerung an ein Versagen am Arbeitsplatz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Nach der Absage wird die Feier heimlich in das Bergwerk verlegt.",
+      "question": "Wie reagiert ein Teil der jungen Leute auf die Absage des Festes in „Blutiger Valentinstag“?",
+      "answers": [
+        "Sie feiern heimlich beim Bergwerk weiter.",
+        "Sie bringen die Feier in die örtliche Polizeistation.",
+        "Sie veranstalten eine öffentliche Demonstration vor dem Rathaus.",
+        "Sie fahren gemeinsam zum gesperrten Haus Harry Wardens."
+      ],
+      "short": "Die Feier wird in den Bereich des Bergwerks verlegt.",
+      "context": "Die Warnungen führen zur Absage, verhindern aber nicht den Wunsch, gemeinsam zu feiern. Für die jungen Leute bleibt das Bergwerk ein vertrauter Ort. Gerade diese Nähe lässt sie die Gefahr unterschätzen, bis der maskierte Angreifer ihnen die Wege in den Stollen abschneidet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "festival",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Axel wiederholt das Trauma des Mordes an seinem Vater.",
+      "question": "Was verbindet den entlarvten Täter Axel (Neil Affleck) mit Harry Wardens früherer Rache in „Blutiger Valentinstag“?",
+      "answers": [
+        "Er sah als Kind, wie Warden seinen Vater ermordete.",
+        "Er half Warden als Pfleger bei dessen Flucht.",
+        "Er verlor seinen Bruder bei Wardens erster Verhaftung.",
+        "Er wurde von Warden heimlich für die Mordserie bezahlt."
+      ],
+      "short": "Axel hat den Mord an seinem Vater als Kind erlebt.",
+      "context": "Axels (Neil Affleck) Vater gehörte zu den Aufsehern, an denen Harry Warden (Peter Cowper) Rache nahm. Der neue Täter übernimmt das Bergmannsbild und lenkt den Verdacht auf die alte Schreckensfigur. Unter der scheinbaren Wiederkehr steckt somit ein anderer Mann, dessen eigene Kindheit durch die frühere Gewalt geprägt wurde.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Mine war ein tatsächlicher unterirdischer Drehort.",
+      "question": "Welche Produktionsentscheidung prägt die Stollenszenen von „Blutiger Valentinstag“?",
+      "answers": [
+        "Das Team drehte überwiegend in einer wirklichen stillgelegten Mine.",
+        "Die Mine entstand vollständig als Studio-Labyrinth aus beweglichen Wänden.",
+        "Die Szenen wurden in einem Steinbruch bei Tageslicht aufgenommen.",
+        "Das Team kombinierte Darsteller vor Rückprojektionen alter Grubenaufnahmen."
+      ],
+      "short": "Eine echte stillgelegte Mine lieferte den wesentlichen Drehraum.",
+      "context": "Mihalka und sein Team nutzten die Princess Colliery in Sydney Mines. Die Fahrt mit den kleinen Aufzügen kostete viel Arbeitszeit; mögliche Gasbildung begrenzte die Beleuchtung. Die Enge und Dunkelheit verlangten damit organisatorische und photographische Lösungen, bevor sie auf der Leinwand als Bedrohung wirken konnten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "mihalka"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Blutiger Valentinstag erschien erstmals 1981.",
+      "question": "In welchem Jahr erschien „Blutiger Valentinstag“ mit Paul Kelman erstmals?",
+      "answers": [
+        "1981",
+        "1973",
+        "1989",
+        "1997"
+      ],
+      "short": "Der Originalfilm erschien 1981.",
+      "context": "Im Jahr 2009 kamen sowohl ein Remake als auch eine neue Ausgabe des Originals mit wiedergefundenen Gewaltszenen heraus: 28 Jahre nach der Erstveröffentlichung. Mihalka konnte an der erneuten Bearbeitung mitwirken. Einige andere entfernte Szenen blieben jedoch verloren; wiederhergestelltes Material bedeutet hier keine Rückgewinnung jedes gedrehten Abschnitts.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "gingold"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "George Mihalka führte Regie.",
+      "question": "Wer führte bei der ursprünglichen Fassung von „Blutiger Valentinstag“ Regie?",
+      "answers": [
+        "George Mihalka",
+        "Bob Clark",
+        "Paul Lynch",
+        "Patrick Lussier"
+      ],
+      "short": "George Mihalka führte Regie.",
+      "context": "Für Mihalka gehörten Atmosphäre und Figuren zusammen. Der verregnete, düstere Ort sollte mehr sein als eine austauschbare Kulisse. Auch die Beleuchtung der Stollen und das Verhalten der örtlichen Gemeinschaft helfen, Arbeitswelt und Schrecken miteinander zu verbinden, statt die Beschäftigten bloß in eine beliebige Mordumgebung zu versetzen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "mihalka"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

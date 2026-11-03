@@ -2645,3 +2645,8 @@ Sechs Fantasyfilme mit 48 neuen globalen Zielen integriert; Fantasy 109. Vollst�
 #### Fortsetzung 03.11.2026 – Fantasy W36
 
 Sechs weitere Fantasyfilme mit 48 neuen globalen Zielen integriert; Fantasy 115. Vollständige unabhängige Gegenlesung der Agentenredaktion; D23, ACMI und Pixar sowie das Regieinterview nachgelesen. Coco-Fotoregel sachlich präzisiert, vollständige Co-Regie bei Pagemaster/Coco/Soul, Originalstimmen und Festivalveröffentlichungen berücksichtigt. Alle 1.808 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 75 Pakete / 17.103 Fragen / 16.411 Ziele; 275 Genreergänzungen offen.
+
+
+#### Fortsetzung 03.11.2026 – Horror W37
+
+Sechs Horrorfilme mit 48 neuen globalen Zielen integriert; Horror 115. Vollständige unabhängige Gegenlesung und tatsächlich gelesene Regie-/Autoreninterviews. Besetzung ergänzt, technische Alternativen vergleichbar; Minenbetrieb, Firmenausflug, Satire und lernende Untote als eigenständige Inhalte. Living Dead Teile 3/4 und Hatchet/Mirrors Teile1 begründet; Hatchet-Erstfestival2006 vor Kino2007. Alle 1.856 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 76 Pakete / 17.151 Fragen / 16.459 Ziele; 269 Genreergänzungen offen.
