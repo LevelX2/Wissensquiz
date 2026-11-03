@@ -1,0 +1,266 @@
+{
+  "id": "KOMOEDIE-011",
+  "film_title_de": "Blockade in London",
+  "film_title_original": "Passport to Pimlico",
+  "film_year": 1949,
+  "genre": "Komödie",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Filmgeschichtlich zentrale Ealing-Komödie, deren spezifische Nachkriegssatire im deutschsprachigen Allgemeinwissen wenig verbreitet ist.",
+  "selection_reason": "Klassische britische Gemeinschaftskomödie über eine staatsrechtliche Ausnahme, Versorgungsnot und den Kompromiss zwischen Unabhängigkeit und Zusammenhalt.",
+  "directors": [
+    "Henry Cornelius"
+  ],
+  "production_countries": [
+    "Großbritannien"
+  ],
+  "release_note": "Erstveröffentlichung am 28. April 1949 nach BFI-Ortsrecherche und Werkdatensatz. Dreharbeiten 1948 und spätere US-Auswertung sind nicht das öffentliche Erstjahr.",
+  "director_note": "Henry Cornelius alleinige Regie; T. E. B. Clarke Originaldrehbuch, Michael Balcon Produktion. Cornelius’ Regiedebüt, danach keine weitere Ealing-Regie.",
+  "country_note": "Großbritannien laut BFI und Ealing. Die fiktive Zugehörigkeit zu Burgund ist kein Hinweis auf ein französisches Produktionsland.",
+  "series": null,
+  "series_note": "Eigenständige Geschichte ohne nummerierte Filmfortsetzung. Forever Ealing ist ein Sammlungskontext; spätere Radioadaptionen und freie Motivübernahmen bilden keine Filmfolge.",
+  "series_sources": [
+    "https://www.acmi.net.au/works/83125--passport-to-pimlico/",
+    "https://en.wikipedia.org/wiki/Passport_to_Pimlico"
+  ],
+  "sources": {
+    "ealing": {
+      "url": "https://ealingstudios.com/production/passport-to-pimlico-1949/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen kurzen Produktionsseitentext im Suchindex gelesen: britischer Film 1949, Cornelius/Clarke, Hauptbesetzung, Schatzurkunde und Ausnahme von britischer Rationierung."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/68c19029-ef06-52a4-84be-882972659331/passport-to-pimlico",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen kurzen Werkdatensatz im Suchindex gelesen: Großbritannien 1949, Cornelius, Balcon, Clarke und Hauptbesetzung."
+    },
+    "programm": {
+      "url": "https://bfidatadigipres.github.io/member%20picks/2024/03/30/passport-to-pimlico/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen filmbezogenen Programmtext, zeitgenössische MFB-Rezension und Credits gelesen: Margaret Rutherford als Hatton-Jones, fiktive Regierung, Hilfe aus vorbeifahrenden Zügen, Rückkehr zur Normalität, Hauptregie und Produktionsaufgaben. Andere angekündigte Filme nicht als Quelleninhalt benötigt."
+    },
+    "orte": {
+      "url": "https://www.bfi.org.uk/features/passport-pimlico-locations-ealing-comedy",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamten Werktext und sämtliche Ortsabschnitte gelesen: Erststart 28. April 1949, Bombenfund, Pimlico wird in Lambeth dargestellt, echtes Bombengelände und Kulissen, Lebensmittelwürfe von der Bahnbrücke, abschließendes Lido."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/articles/12646/passport-to-pimlico",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen Werktext gelesen: Staatszugehörigkeit, bürokratische Vorschriften, Passkontrollen in der U-Bahn, Rückkehr mit Regen, Cornelius’ Debüt und spätere Genevieve von 1953; Ealing-Vergleichsjahre. Vereinfachte historische Erzählung zu Ottawa nicht als historische Frage übernommen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Passport_to_Pimlico",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Handlung und Besetzung, Produktions-, Veröffentlichungs- und Adaptionsabschnitte gelesen: Hatton-Jones, unterirdische Passkontrolle, abgeschnittene Versorgung, Wix’ Schatzdarlehen als Lösung und Rückkehr. Für M2 konkrete Finanzlösung, nicht alle Filmziele allein aus dieser Quelle."
+    },
+    "widmung": {
+      "url": "https://www.comedy.co.uk/film/passport_to_pimlico/trivia/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen kurzen Trivia-Abschnitt gelesen: ironische Erinnerungswidmung an Kleiderrationierung, Handlung 1947 und nasse Dreharbeiten 1948. Frestonia-Angabe 1976 widerspricht anderem Nachweis 1977 und wird nicht verwendet."
+    },
+    "acmi": {
+      "url": "https://www.acmi.net.au/works/83125--passport-to-pimlico/",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständigen kurzen Sammlungseintrag im Suchindex gelesen: UK 1949, Unabhängigkeit und Rationierung, Forever Ealing als Sammlung ohne positive Teilnummer einer Handlungsreihe."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Eine alte Urkunde weist das Londoner Viertel als burgundisches Gebiet aus.",
+      "question": "Zu welchem historischen Gebiet gehört ein Teil Londons laut der entdeckten Urkunde in „Blockade in London“?",
+      "answers": [
+        "Zum Herzogtum Burgund",
+        "Zum Königreich Navarra",
+        "Zum Herzogtum Savoyen",
+        "Zur Republik Venedig"
+      ],
+      "short": "Die Urkunde erklärt das Gebiet zu einem Teil Burgunds.",
+      "context": "Eine versehentlich explodierende Kriegsbombe legt einen Keller mit Schätzen und einer alten Urkunde frei. Für Arthur Pemberton (Stanley Holloway) und seine Nachbarn erhält der Fund eine unerwartete politische Bedeutung: Ihr Wohngebiet soll noch immer zu Burgund gehören. Damit stellt die Komödie eine scheinbar alltägliche Londoner Nachbarschaft vor die Frage, welche britischen Vorschriften dort überhaupt noch gelten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ealing",
+        "orte"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Margaret Rutherford spielt die Historikerin Professor Hatton-Jones.",
+      "question": "Wer spielt in „Blockade in London“ Professor Hatton-Jones, die Fachfrau für die historische Urkunde?",
+      "answers": [
+        "Margaret Rutherford",
+        "Hermione Baddeley",
+        "Joan Greenwood",
+        "Celia Johnson"
+      ],
+      "short": "Margaret Rutherford verkörpert Professor Hatton-Jones.",
+      "context": "Professor Hatton-Jones (Margaret Rutherford) verleiht dem ungewöhnlichen Fund fachliche Autorität. Die Historikerin bestätigt die Urkunde, auf die sich der politische Sonderstatus stützt. Später prüft sie auch den Anspruch eines auftauchenden Herzogs. Der Gegensatz zwischen akademisch begründetem Recht und den praktischen Nöten der Nachbarschaft trägt zum Witz bei: Eine historische Auskunft verändert den modernen Alltag eines ganzen Viertels.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "programm",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Bewohner verlangen in einem durch ihr Gebiet fahrenden U-Bahn-Zug Pässe.",
+      "question": "Wie dehnen die Bewohner in „Blockade in London“ ihre Grenzkontrollen auf den Londoner Verkehr aus?",
+      "answers": [
+        "Sie kontrollieren Pässe in einem durchfahrenden U-Bahn-Zug",
+        "Sie beschlagnahmen alle Taxilizenzen im Stadtbezirk",
+        "Sie verlangen Zoll von Booten auf der Themse",
+        "Sie sperren sämtliche Busdepots der Stadt"
+      ],
+      "short": "Auch der unterirdische Verkehr soll die neue Staatsgrenze beachten.",
+      "context": "Die Nachbarn behandeln den Sonderstatus ihres Gebiets zunehmend als wirkliche staatliche Unabhängigkeit. Nachdem die britischen Behörden eine Grenze errichtet haben, reagieren sie mit eigenen Kontrollen. Ein U-Bahn-Zug wird angehalten, und seine Fahrgäste sollen Reisedokumente vorzeigen. Der bürokratische Konflikt reicht damit unter die Straßenoberfläche: Selbst eine gewöhnliche Fahrt quer durch London wird plötzlich zur internationalen Reise.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tcm",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der Schatz wird Großbritannien als Darlehen angeboten und löst die festgefahrenen Verhandlungen.",
+      "question": "Welche Verwendung des Schatzes ermöglicht am Ende von „Blockade in London“ die Einigung mit Großbritannien?",
+      "answers": [
+        "Er wird Großbritannien als Darlehen angeboten",
+        "Er wird zur Bezahlung einer eigenen Armee versteigert",
+        "Er wird als Entschädigung an Frankreich übergeben",
+        "Er wird unter allen Londoner Bezirken aufgeteilt"
+      ],
+      "short": "Ein Darlehen des burgundischen Schatzes überwindet den letzten Streitpunkt.",
+      "context": "Die Versorgungskrise hat den Konflikt zugespitzt, doch der Verbleib des Schatzes verhindert zunächst eine Einigung. Bankmanager Wix (Raymond Huntley), nun zuständig für die burgundischen Finanzen, schlägt ein Darlehen an Großbritannien vor. So wird aus der umkämpften Beute ein Verhandlungsinstrument. Die Rückkehr unter britische Verwaltung schließt zugleich die Rückkehr der Vorschriften ein, denen die Bewohner entkommen wollten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "programm"
+      ],
+      "spoiler": "stark"
+    },
+    {
+      "code": "S1",
+      "objective": "Die ironische Anfangswidmung erinnert an die Kleiderrationierung.",
+      "question": "Woran erinnert die scherzhafte Widmung im Vorspann von „Blockade in London“?",
+      "answers": [
+        "An die Kleiderrationierung",
+        "An die Lebensmittelrationierung",
+        "An die Verdunkelungsvorschriften",
+        "An die Benzinrationierung"
+      ],
+      "short": "Die Widmung gilt der gerade beendeten Kleiderrationierung.",
+      "context": "Noch vor der eigentlichen Geschichte erklärt der Film die Rationierung zum Gegenstand einer ironischen Erinnerung. Dabei zielt die Widmung auf Kleidung; die Nachkriegsbeschränkungen verschwanden nicht sämtlich gleichzeitig. Der Einfall passt zur Handlung, in der die Bewohner ihre neuen Freiheiten begeistert auskosten. Aus einem nüchternen Verwaltungsinstrument wird so schon im Vorspann ein gemeinsamer Gegenstand von Überdruss und Komik.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "widmung",
+        "handlung"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "S2",
+      "objective": "Das Filmviertel Pimlico wurde für die Außenaufnahmen überwiegend in Lambeth aufgebaut.",
+      "question": "Wo entstand das dargestellte Pimlico für die Außenaufnahmen von „Blockade in London“?",
+      "answers": [
+        "In Lambeth auf einem echten Bombengelände",
+        "In Greenwich auf einem stillgelegten Werftgelände",
+        "In Westminster auf einem ehemaligen Kasernenhof",
+        "In Richmond auf einem aufgegebenen Bahnhofsgelände"
+      ],
+      "short": "Das Filmviertel stand auf einem Bombengelände an der Lambeth Road.",
+      "context": "Der Filmtitel nennt Pimlico, doch die charakteristische Nachbarschaft entstand auf der anderen Seite der Themse in Lambeth. Kulissen wurden mit vorhandenen Häusern und einem echten Bombengelände verbunden. Auch die Eisenbahnbrücke, von der aus die bedrängten Bewohner mit Lebensmitteln unterstützt werden, gehört zu diesem Umfeld. Der konkrete Drehort trägt dadurch unmittelbar zur glaubwürdigen Nachkriegswelt der erfundenen Staatskrise bei.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "orte"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Blockade in London erschien erstmals 1949.",
+      "question": "In welchem Jahr wurde „Blockade in London“ erstmals veröffentlicht?",
+      "answers": [
+        "1949",
+        "1945",
+        "1953",
+        "1957"
+      ],
+      "short": "Das Erstveröffentlichungsjahr ist 1949.",
+      "context": "Die britische Erstveröffentlichung fand am 28. April 1949 statt. Im selben Jahr erschienen auch Whisky Galore! und Adel verpflichtet. Diese Häufung prägender Werke machte 1949 zu einem wichtigen Jahr für die Ealing-Komödie. Die drei Filme erzählen unterschiedliche Geschichten; ihr gemeinsamer Studiokontext ist dennoch hilfreich, um die Verbindung von britischem Alltag, Eigenwilligkeit und satirischer Übertreibung zeitlich einzuordnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "orte",
+        "tcm"
+      ],
+      "spoiler": "keine"
+    },
+    {
+      "code": "D",
+      "objective": "Henry Cornelius führte allein Regie.",
+      "question": "Wer führte bei „Blockade in London“ Regie?",
+      "answers": [
+        "Henry Cornelius",
+        "Alexander Mackendrick",
+        "Charles Crichton",
+        "Robert Hamer"
+      ],
+      "short": "Regisseur ist Henry Cornelius.",
+      "context": "Henry Cornelius gab mit dem Film sein Regiedebüt. T. E. B. Clarke schrieb das Originaldrehbuch, Michael Balcon produzierte für Ealing. Cornelius drehte anschließend keinen weiteren Film für dieses Studio. Mit Die feurige Isabella von 1953 schuf er später dennoch eine weitere bekannte britische Komödie, deren Oldtimer-Rallye andere Schauplätze und Konflikte eröffnet als die eingeschlossene Nachbarschaft von Pimlico.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tcm",
+        "programm",
+        "bfi"
+      ],
+      "spoiler": "keine"
+    }
+  ]
+}

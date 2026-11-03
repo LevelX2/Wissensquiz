@@ -2625,3 +2625,8 @@ Sechs Actionfilme mit 48 neuen globalen Zielen integriert; Action109. Vollständ
 #### Fortsetzung 03.11.2026 – Western W32: 150 Filme erreicht
 
 Fünf Western mit 40 neuen globalen Zielen integriert; Western 150. Vollständige zentrale und unabhängige Gegenlesung. The-Gundown-/6-Guns-Titel eindeutig, Yellow-Rock-Festival 2011 samt Prämierung und fiktiver Black-Paw-Gemeinschaft belegt. Zwei Jahresvertiefungen und der parallele Kameraaufbau nachgeschärft; Gang-of-Roses-/Dead-in-Tombstone-Folgen jeweils Teil 1. Alle 1.616 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 71 Pakete / 16.911 Fragen / 16.223 Ziele; 299 Genreergänzungen offen. Western-Ziel erfüllt, Ausbau der übrigen Genres läuft weiter.
+
+
+#### Fortsetzung 03.11.2026 – Komödie W33
+
+Sechs Komödien mit 48 Fragen integriert, davon 45 neue globale Ziele und drei präzise Bestandsvarianten; Komödie144. Vollständige zentrale und unabhängige Gegenlesung; vergleichbare Widmungsablenker und Leichenverwechslung sprachlich verbessert. Primäre Regieoutline, Drehortdokumentation und gelesene Film-/Musikbelege tragen eigenständige Vertiefungen; Grand-Fenwick-Filmfolge beginnt1959. Alle 1.664 Ergänzungen mit echtem Parser exakt und konfliktfrei; Bestandserhalt, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell72 Pakete /16.959 Fragen /16.268 Ziele;293 Genreergänzungen offen.

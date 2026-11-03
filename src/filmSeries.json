@@ -12382,7 +12382,10 @@
     },
     "The Fortune Cookie|1966": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://www.tcm.com/articles/62599/the-fortune-cookie",
+        "https://kinolorber.com/product/the-fortune-cookie"
+      ]
     },
     "The Fountainhead|1949": {
       "series": null,
@@ -13162,7 +13165,10 @@
     },
     "The Man in the White Suit|1951": {
       "series": null,
-      "sources": []
+      "sources": [
+        "https://ealingstudios.com/production/the-man-in-the-white-suit-1951/",
+        "https://www.pbs.org/video/the-man-in-the-white-suit-pdeh4l/"
+      ]
     },
     "The Man Who Fell to Earth|1976": {
       "series": null,
@@ -13334,12 +13340,13 @@
     },
     "The Mouse That Roared|1959": {
       "series": {
-        "name": "Herzogtum Fenwick",
+        "name": "Grand Fenwick",
         "position": 1,
-        "note": "Reihenfolge der veröffentlichten Filme dieser Filmreihe."
+        "note": "Erster Kinofilm; The Mouse on the Moon von 1963 ist die von Sony und AFI ausdrücklich benannte Fortsetzung mit weitgehend anderer Besetzung und Richard Lester als Regisseur."
       },
       "sources": [
-        "https://www.themoviedb.org/collection/812469"
+        "https://www.sonypicturesmuseum.com/collection/film/697/mouse-that-roared-the.html",
+        "https://catalog.afi.com/Film/52965-THE-MOUSETHATROARED"
       ]
     },
     "The Mummy Returns|2001": {
@@ -16927,6 +16934,27 @@
       "sources": [
         "https://henryswesternroundup.blogspot.com/2011/11/",
         "https://www.filmstarts.de/kritiken/217900.html"
+      ]
+    },
+    "Passport to Pimlico|1949": {
+      "series": null,
+      "sources": [
+        "https://www.acmi.net.au/works/83125--passport-to-pimlico/",
+        "https://en.wikipedia.org/wiki/Passport_to_Pimlico"
+      ]
+    },
+    "The Twelve Chairs|1970": {
+      "series": null,
+      "sources": [
+        "https://catalog.afi.com/Film/23558-THE-TWELVE-CHAIRS",
+        "https://www.tcm.com/articles/627025/the-twelve-chairs"
+      ]
+    },
+    "The Wrong Box|1966": {
+      "series": null,
+      "sources": [
+        "https://www.powerhousefilms.co.uk/products/the-wrong-box-bd",
+        "https://www.moma.org/calendar/events/10713"
       ]
     }
   }
