@@ -1,0 +1,243 @@
+{
+  "id": "WESTERN-010",
+  "film_title_de": "Auf eigene Faust",
+  "film_title_original": "Ride Lonesome",
+  "film_year": 1959,
+  "genre": "Western",
+  "categories": [
+    "Arthouse",
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein konzentrierter Boetticher/Scott-Western für Genre- und Filmkenner; redaktionelle Einschätzung.",
+  "selection_reason": "Die Reise mit einem Gefangenen legt schrittweise widersprüchliche Ziele frei. Karge Landschaft, Breitbild und die vom Kopfgeldplot abweichende Trauerarbeit begründen Arthouse.",
+  "directors": [
+    "Budd Boetticher"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt Februar 1959 als Veröffentlichung; Criterion bestätigt 1959. Gedreht wurde im August 1958.",
+  "director_note": "Offizieller Regiecredit Budd Boetticher.",
+  "country_note": "USA nach AFI und Criterion.",
+  "series": {
+    "name": "Ranown-Western (Columbia-Zyklus)",
+    "position": 4,
+    "note": "Vierter der fünf Columbia-Western mit Boetticher und Scott; keine fortlaufende Figurenhandlung."
+  },
+  "series_note": "Enger Zyklus entsprechend der bestehenden Registry: The Tall T 1, Decision at Sundown 2, Buchanan Rides Alone 3, Ride Lonesome 4, Comanche Station 5. Seven Men from Now liegt außerhalb dieses Columbia-Zyklus.",
+  "series_sources": [
+    "https://www.criterion.com/current/posts/8204-some-things-a-man-can-t-ride-around-budd-boetticher-s-ranown-westerns",
+    "https://www.criterion.com/boxsets/6702-the-ranown-westerns-five-films-directed-by-budd-boetticher"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/53000-RIDE-LONESOME",
+      "accessed_on": "2026-11-03",
+      "supports": "Komplette Synopsis zu Gefangenem, Amnestie, Carries Mann, Brigades Rache und Feuer am Ende; Cast, Regie, Land, Start, Coburn-Debüt und CinemaScope."
+    },
+    "reihe": {
+      "url": "https://www.criterion.com/boxsets/6702-the-ranown-westerns-five-films-directed-by-budd-boetticher",
+      "accessed_on": "2026-11-03",
+      "supports": "Fünf Filme in chronologischer Folge, Jahre, Synopsis und Einordnung; erster CinemaScope-Film dieses Zyklus."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/8204-some-things-a-man-can-t-ride-around-budd-boetticher-s-ranown-westerns",
+      "accessed_on": "2026-11-03",
+      "supports": "Tom Gunning: enger Zyklus, Reiseform, Einsamkeit, Boones Wunsch nach einer Ranch und Brigades vergangenheitsbestimmte Haltung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Ben Brigade tritt als Kopfgeldjäger mit einem gesuchten Mörder auf.",
+      "question": "Welcher Tätigkeit geht Ben Brigade (Randolph Scott) in „Auf eigene Faust“ dem äußeren Anschein nach nach?",
+      "answers": [
+        "Er bringt als Kopfgeldjäger einen gesuchten Mörder zur Auslieferung.",
+        "Er begleitet als Armeekurier einen Deserteur ins Fort.",
+        "Er sucht als Pferdehändler nach einer gestohlenen Herde.",
+        "Er führt als Scout eine Siedlerfamilie durch die Berge."
+      ],
+      "short": "Brigade führt den gesuchten Billy John als Gefangenen mit sich.",
+      "context": "Billy John (James Best) soll nach Santa Cruz gebracht werden. Ben Brigade (Randolph Scott) wehrt dessen Bande ab, lässt aber eine Nachricht an Billys Bruder weitergeben. Der scheinbar gewöhnliche Gefangenentransport erhält damit früh eine zweite Richtung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "reihe"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Carrie ist die Frau des abwesenden Stationsleiters.",
+      "question": "Warum lebt Carrie Lane (Karen Steele) in „Auf eigene Faust“ an der abgelegenen Postkutschenstation?",
+      "answers": [
+        "Ihr Mann betreibt die Station.",
+        "Sie wartet dort als verdeckte Ermittlerin auf einen Raubzug.",
+        "Sie hat den Gasthof von einem Fremden geerbt.",
+        "Sie wurde von einer Räuberbande dort gefangen zurückgelassen."
+      ],
+      "short": "Carrie ist die Frau des abwesenden Stationsleiters.",
+      "context": "Carrie Lane (Karen Steele) begegnet den bewaffneten Fremden mit einer Schrotflinte. Als eine überfallene Postkutsche ankommt, zwingt die gemeinsame Gefahr die Reisenden dennoch zur Zusammenarbeit. Ihr Zuhause wird zum unsicheren Zwischenhalt, den sie selbst bald verlassen muss.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Sam Boone will durch Billy Johns Ablieferung eine Amnestie erhalten.",
+      "question": "Worauf hofft Sam Boone (Pernell Roberts), wenn er in „Auf eigene Faust“ Billy John selbst an die Behörden übergibt?",
+      "answers": [
+        "Auf eine Amnestie für seine früheren Verbrechen",
+        "Auf die Ernennung zum Sheriff von Santa Cruz",
+        "Auf das Erbe von Billy Johns Familie",
+        "Auf den Rückkauf seiner beschlagnahmten Goldmine"
+      ],
+      "short": "Billys Ablieferung soll einen gesetzmäßigen Neuanfang ermöglichen.",
+      "context": "Sam Boone (Pernell Roberts) hat bereits eine Ranch gekauft. Sein Wunsch nach einem eigenen Ort erklärt, weshalb er trotz der Gefahr bei Ben Brigade (Randolph Scott) bleibt. Der Gefangene könnte ihm einen Übergang in ein dauerhaft anderes Leben eröffnen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Carrie erkennt das Pferd ihres Mannes bei den Angreifern.",
+      "question": "Wodurch begreift Carrie Lane (Karen Steele) in „Auf eigene Faust“, dass ihrem Mann etwas zugestoßen sein muss?",
+      "answers": [
+        "Sie erkennt sein Pferd bei den Angreifern.",
+        "Sie findet seinen Ehering in Billy Johns Gepäck.",
+        "Ein Sheriff nennt seinen Namen unter den Toten.",
+        "Sie entdeckt seine Unterschrift auf einem gefälschten Steckbrief."
+      ],
+      "short": "Das angebotene Pferd gehörte ihrem Mann.",
+      "context": "Ben Brigade (Randolph Scott) spielt bei einem scheinbaren Tauschgeschäft zunächst mit. Carrie Lane (Karen Steele) erkennt dabei das Pferd und verliert ihre Hoffnung auf eine harmlose Erklärung. Später verteidigt sie sich selbst mit der Schrotflinte gegen einen Angreifer.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Billy dient als Köder für Frank, der Brigades Frau erhängt hat.",
+      "question": "Warum lässt Ben Brigade (Randolph Scott) in „Auf eigene Faust“ zu, dass Billy Johns Bruder Frank seine Spur verfolgt?",
+      "answers": [
+        "Er will Frank wegen der Ermordung seiner Frau zur Abrechnung stellen.",
+        "Er will mit Frank die Belohnung für Billy teilen.",
+        "Er braucht Frank als Zeugen für seine Wiederernennung zum Sheriff.",
+        "Er hat Frank die heimliche Freilassung seines Bruders versprochen."
+      ],
+      "short": "Brigade lockt den Mörder seiner Frau an.",
+      "context": "Frank (Lee Van Cleef) hatte nach seiner Freilassung die Frau des früheren Sheriffs Ben Brigade (Randolph Scott) entführt und erhängt. Der Baum am Weg ist für Brigade deshalb ein Erinnerungsort. Seine Weigerung, Billy John (James Best) abzugeben, erklärt sich aus dieser Vergangenheit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Brigade verbrennt den Baum, an dem seine Frau starb.",
+      "question": "Was tut Ben Brigade (Randolph Scott) am Ende von „Auf eigene Faust“, nachdem die übrigen Reisenden weitergezogen sind?",
+      "answers": [
+        "Er setzt den Baum der Hinrichtung seiner Frau in Brand.",
+        "Er hängt Franks Revolver an den Baum und vergräbt das Kopfgeld.",
+        "Er verbrennt die Postkutschenstation und verkauft die Pferde.",
+        "Er errichtet am Baum ein neues Grab für Billy John."
+      ],
+      "short": "Brigade verbrennt den Baum, der mit dem Tod seiner Frau verbunden ist.",
+      "context": "Nach Franks (Lee Van Cleef) Tod überlässt Ben Brigade (Randolph Scott) den Gefangenen Sam Boone (Pernell Roberts). Für Boone führt der Weg zum möglichen Neuanfang. Brigade bleibt am Ort seiner Trauer zurück; das Feuer setzt ein Schlussbild, ohne ihm eine neue Familie zu geben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "reihe"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Ride Lonesome erschien erstmals 1959.",
+      "question": "In welchem Jahr wurde „Auf eigene Faust“ mit Randolph Scott erstmals veröffentlicht?",
+      "answers": [
+        "1959",
+        "1952",
+        "1965",
+        "1971"
+      ],
+      "short": "Der Film erschien 1959.",
+      "context": "1959 trat James Coburn hier erstmals in einem Kinofilm auf: Er spielt Wid, den jüngeren Begleiter von Sam Boone (Pernell Roberts). Der spätere Star steht noch am Rand einer Geschichte mit Randolph Scott. Derselbe Film brachte dem engen Ranown-Zyklus den Wechsel zum CinemaScope-Format.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "reihe"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Budd Boetticher führte bei Ride Lonesome Regie.",
+      "question": "Wer führte bei „Auf eigene Faust“ mit Randolph Scott Regie?",
+      "answers": [
+        "Budd Boetticher",
+        "Delmer Daves",
+        "André de Toth",
+        "Henry King"
+      ],
+      "short": "Budd Boetticher inszenierte den Film.",
+      "context": "Burt Kennedy schrieb das Drehbuch. Die Reisenden suchen Heimat, Amnestie oder Vergeltung und passen damit nur zeitweilig auf denselben Weg. Boettichers Inszenierung stellt sie in eine offene Landschaft, in der sie einander benötigen, ohne ein gemeinsames Lebensziel zu besitzen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

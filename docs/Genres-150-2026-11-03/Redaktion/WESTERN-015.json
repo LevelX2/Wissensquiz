@@ -1,0 +1,237 @@
+{
+  "id": "WESTERN-015",
+  "film_title_de": "Warlock",
+  "film_title_original": "Warlock",
+  "film_year": 1959,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Der psychologische Western mit Fonda, Widmark und Quinn ist ein bekannter Genreklassiker, dessen Konflikte vor allem Filmkennern vertraut sein dürften.",
+  "selection_reason": "Die Stadt sucht Sicherheit durch einen bezahlten Revolvermann und erhält damit eine neue Machtfrage. Parallel verschieben sich die Loyalitäten zwischen Bandit, Gesetzeshüter und Partner.",
+  "directors": [
+    "Edward Dmytryk"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "AFI nennt April 1959 und den New Yorker Start am 30. April 1959. BFI bestätigt 1959.",
+  "director_note": "Edward Dmytryk ist Regisseur und Produzent; Robert Alan Aurthur schrieb nach Oakley Halls Roman.",
+  "country_note": "USA nach AFI und BFI.",
+  "series": null,
+  "series_note": "Eigenständige Romanverfilmung ohne ausgewiesene nummerierte Fortsetzungsfolge.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/53056-WARLOCK",
+    "https://www.bfi.org.uk/film/7f7963af-faff-5f73-bd34-ae22f1efdd8d/warlock"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/53056-WARLOCK",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis zu bezahltem Marshal, Gannons Wechsel, verletzter Hand, Morgans Manipulation und Schlussverzicht; Cast, Roman 1958, Regie, Land und Erstjahr."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/film/7f7963af-faff-5f73-bd34-ae22f1efdd8d/warlock",
+      "accessed_on": "2026-11-03",
+      "supports": "1959, USA, Regie/Produktion Dmytryk, Autor und Hauptbesetzung."
+    },
+    "essay": {
+      "url": "https://www.bfi.org.uk/features/where-begin-psychological-westerns",
+      "accessed_on": "2026-11-03",
+      "supports": "Christina Newland: psychologischer Western, Fonda als amoralischer Revolvermann und Widmark als geläuterter Gesetzeshüter; Vergleich mit Fondas Rolle in Once upon a Time in the West 1968."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Bürger bezahlen Clay Blaisdell als Revolvermann zum Schutz der Stadt.",
+      "question": "Warum holen die Bürger in „Warlock“ Clay Blaisdell (Henry Fonda) in ihre Stadt?",
+      "answers": [
+        "Sie bezahlen ihn als bewaffneten Beschützer gegen die Bande.",
+        "Sie brauchen ihn als Vermesser für eine Eisenbahntrasse.",
+        "Sie wollen ihn als Richter einen Erbstreit entscheiden lassen.",
+        "Sie erwarten von ihm die Vermittlung eines Friedensvertrags."
+      ],
+      "short": "Die Stadt engagiert den berühmten Revolvermann als Marshal.",
+      "context": "Die Bürger haben die Demütigung ihres bisherigen Deputys mit angesehen. Clay Blaisdell (Henry Fonda) erhält Geld und die Führung des Saloons. Er warnt gleich bei seiner Ankunft, dass die Auftraggeber ihn irgendwann ablehnen werden: Seine Fähigkeiten versprechen Schutz und machen ihn zugleich schwer kontrollierbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Johnny Gannon verlässt die Bande und wird Deputy.",
+      "question": "Wie verändert Johnny Gannon (Richard Widmark) in „Warlock“ seine Stellung zum Gesetz?",
+      "answers": [
+        "Er verlässt die Bande und übernimmt ein Deputy-Amt.",
+        "Er gibt sein Sheriffamt auf und schließt sich der Bande an.",
+        "Er wird vom Richter zum Gefangenen der Kavallerie erklärt.",
+        "Er kauft dem Marshal dessen private Schießschule ab."
+      ],
+      "short": "Der frühere Bandit will als Deputy für Recht sorgen.",
+      "context": "Johnny Gannon (Richard Widmark) zweifelt nach den Gewalttaten seiner Gefährten an ihrer Lebensweise. Sein freiwillig übernommenes Amt unterscheidet sich von der privaten Anstellung Clay Blaisdells (Henry Fonda). Beide wollen Ordnung herstellen, verfügen aber über unterschiedliche Beziehungen zur Stadt und zum Gesetz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Morgan hält Blaisdell mit der Waffe zurück, damit er Gannon nicht hilft.",
+      "question": "Wie verhindert Tom Morgan (Anthony Quinn) in „Warlock“, dass Clay Blaisdell dem gefährdeten Johnny Gannon beisteht?",
+      "answers": [
+        "Er hält Blaisdell mit gezogener Waffe fest.",
+        "Er lässt Blaisdell durch den Richter verhaften.",
+        "Er gibt Blaisdell ein Schlafmittel in den Whiskey.",
+        "Er schickt Blaisdell mit einem falschen Haftbefehl aus der Stadt."
+      ],
+      "short": "Morgan blockiert seinen eigenen Partner mit Waffengewalt.",
+      "context": "Tom Morgan (Anthony Quinn) will mit Clay Blaisdell (Henry Fonda) weiterziehen. Eine Bindung an die Stadt oder eine Heirat bedroht ihre gemeinsame Lebensform. Dass er den Partner gewaltsam zurückhält, macht aus der engen Loyalität ein Besitzverhältnis, das Blaisdell schließlich nicht mehr akzeptiert.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "McQuown verletzt Gannons Schusshand, doch dieser tritt ihm dennoch entgegen.",
+      "question": "Wie versucht Abe McQuown (Tom Drake) in „Warlock“, Johnny Gannons Widerstand vor der Konfrontation zu brechen?",
+      "answers": [
+        "Er verletzt dessen Schusshand mit einem Messer.",
+        "Er vergiftet dessen Pferd und verlangt ein Duell zu Fuß.",
+        "Er lässt dessen Bruder als Geisel im Saloon festhalten.",
+        "Er tauscht dessen Revolver gegen eine ungeladene Waffe aus."
+      ],
+      "short": "McQuown schneidet Gannon in die Schusshand.",
+      "context": "Johnny Gannon (Richard Widmark) hat den Bandenführer aufgesucht, um ihn vor einer Rückkehr in die Stadt zu warnen. Trotz seiner Verletzung wartet Gannon anschließend auf die Gegner. Ein Bandenmitglied verhindert einen Schuss in seinen Rücken; selbst unter den Gesetzlosen ist der Konflikt über die Spielregeln noch nicht beendet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Morgan hatte Blaisdell dazu gebracht, den Geliebten seiner früheren Partnerin zu töten.",
+      "question": "Welche Erkenntnis führt in „Warlock“ zum endgültigen Bruch Clay Blaisdells (Henry Fonda) mit Tom Morgan?",
+      "answers": [
+        "Morgan hat ihn zur Tötung von Lily Dollars Geliebtem benutzt.",
+        "Morgan hat einen früheren Partner an den Richter ausgeliefert.",
+        "Morgan hat die San-Pablo-Bande mit gestohlenen Waffen versorgt.",
+        "Morgan hat die Bürger um ihre Saloonabgaben betrogen."
+      ],
+      "short": "Blaisdell erkennt die eigennützige Manipulation seines Partners.",
+      "context": "Lily Dollar (Dorothy Malone) verlor einen Mann, den sie liebte, durch Clay Blaisdells (Henry Fonda) Schüsse. Tom Morgan (Anthony Quinn) hatte die tödliche Begegnung aus Eifersucht herbeigeführt. Die Erkenntnis verändert Blaisdells Blick auf seine eigene vermeintlich souveräne Rolle als Revolvermann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Blaisdell zieht schneller als Gannon, schießt aber nicht und wirft die Waffen weg.",
+      "question": "Wie endet die letzte Konfrontation von Clay Blaisdell (Henry Fonda) und Johnny Gannon (Richard Widmark) in „Warlock“?",
+      "answers": [
+        "Blaisdell zieht zuerst, verzichtet aber auf den Schuss und wirft die Waffen fort.",
+        "Gannon erschießt Blaisdell, nachdem dessen Revolver versagt hat.",
+        "Blaisdell verwundet Gannon und übernimmt danach das Sheriffamt.",
+        "Beide erschießen gleichzeitig Morgan, der zwischen ihnen auftaucht."
+      ],
+      "short": "Blaisdell kann gewinnen und entscheidet sich dennoch gegen den tödlichen Schuss.",
+      "context": "Nach Tom Morgans (Anthony Quinn) Tod steht Clay Blaisdell (Henry Fonda) vor der Frage, was ihm ohne Waffen noch bleibt. Er bedroht zunächst den neuen Gesetzeshüter Johnny Gannon (Richard Widmark). Sein schnelleres Ziehen beweist die Überlegenheit, der anschließende Verzicht beendet ihre Herrschaft über seine Entscheidung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Warlock wurde erstmals 1959 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Warlock“ mit Henry Fonda, Richard Widmark und Anthony Quinn erstmals veröffentlicht?",
+      "answers": [
+        "1959",
+        "1952",
+        "1966",
+        "1973"
+      ],
+      "short": "Der Film erschien 1959.",
+      "context": "1959 setzt „Warlock“ Henry Fonda als moralisch fragwürdigen Revolvermann ein. Neun Jahre später verschärft „Spiel mir das Lied vom Tod“ 1968 diesen Bruch mit seinem vertrauten Starbild deutlich. Der Vergleich zeigt, dass die Irritation über Fondas Westernautorität bereits vor Sergio Leones Film einen wichtigen Vorläufer hatte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Edward Dmytryk inszenierte Warlock.",
+      "question": "Wer führte bei „Warlock“ mit Henry Fonda, Richard Widmark und Anthony Quinn Regie?",
+      "answers": [
+        "Edward Dmytryk",
+        "Richard Brooks",
+        "Anthony Mann",
+        "Robert Wise"
+      ],
+      "short": "Edward Dmytryk führte Regie.",
+      "context": "Robert Alan Aurthur adaptierte Oakley Halls Roman von 1958. Dmytryks Film verteilt die Ordnungsfrage auf drei Männer: den bezahlten Revolvermann, seinen besitzergreifenden Partner und einen früheren Banditen mit Amtsverantwortung. Keine dieser Positionen lässt sich allein am sicheren Umgang mit einer Waffe beurteilen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "bfi",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
