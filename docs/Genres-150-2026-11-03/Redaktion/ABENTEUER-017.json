@@ -1,0 +1,236 @@
+{
+  "id": "ABENTEUER-017",
+  "film_title_de": "Into the Blue",
+  "film_title_original": "Into the Blue",
+  "film_year": 2005,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Das Tauchabenteuer mit Paul Walker und Jessica Alba ist ein wiedererkennbarer kommerzieller Genrefilm der 2000er-Jahre.",
+  "selection_reason": "Unterwasserschatzsuche und Bergung geraten durch einen zweiten Wrackfund in Konflikt mit organisiertem Drogenhandel. Das Milieu bietet eigenständige Abenteuerziele.",
+  "directors": [
+    "John Stockwell"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 2005; AFI dokumentiert den amerikanischen Kinostart am 30. September.",
+  "director_note": "John Stockwell führte Regie, Matt Johnson schrieb das Drehbuch.",
+  "country_note": "Amerikanische Produktion; die Bahamas sind Handlungs- und Drehort.",
+  "series": {
+    "name": "Into the Blue",
+    "position": 1,
+    "note": "Into the Blue 2: The Reef folgte 2009 als eigenständige nummerierte Fortsetzung mit anderer Besetzung."
+  },
+  "series_note": "Die ausdrücklich nummerierte Fortsetzung begründet Teil 1; es wird keine Fortsetzung derselben Figuren behauptet.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Into_the_Blue_2:_The_Reef"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/63471-INTO-THE-BLUE",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Drehbuch, Rollenbesetzung, Produktionsland USA und Erstjahr 2005."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Into_the_Blue_(2005_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Bahamas, Schatz- und Flugzeugwrack, Kokainfund und Verkauf, Roys Verrat, Finale mit Druckluftflasche, Sam und Jareds Berufe."
+    },
+    "fortsetzung": {
+      "url": "https://en.wikipedia.org/wiki/Into_the_Blue_2:_The_Reef",
+      "accessed_on": "2026-11-03",
+      "supports": "Nummerierte Fortsetzung von 2009 mit anderem Team und direkter Videoveröffentlichung."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Schatzsucher leben auf den Bahamas.",
+      "question": "In welcher Inselregion suchen Jared (Paul Walker) und seine Freunde in „Into the Blue“ nach versunkenen Schätzen?",
+      "answers": [
+        "Auf den Bahamas",
+        "Auf den Malediven",
+        "Auf den Kanarischen Inseln",
+        "Auf den Seychellen"
+      ],
+      "short": "Die Handlung spielt auf den Bahamas.",
+      "context": "Jared (Paul Walker) hält sich mit verschiedenen Arbeiten rund ums Tauchen über Wasser. Er träumt davon, eines der verlorenen Schatzschiffe zu finden. Mit Sam (Jessica Alba) lebt er bescheiden am Strand; der besser ausgestattete Bates (Josh Brolin) bietet ihm Arbeit an. Der Wunsch nach einer eigenen Bergung steht so neben der Abhängigkeit von wohlhabenderen Auftraggebern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Jessica Alba spielt Sam.",
+      "question": "Wer spielt in „Into the Blue“ Sam, Jareds Freundin und Mitarbeiterin eines Meeresparks?",
+      "answers": [
+        "Jessica Alba",
+        "Jessica Biel",
+        "Kate Bosworth",
+        "Megan Fox"
+      ],
+      "short": "Sam wird von Jessica Alba gespielt.",
+      "context": "Sam (Jessica Alba) arbeitet als Führerin in einem Wasserpark. Als die Schatzsuche mit einer Drogenladung verknüpft wird, steht sie Jareds (Paul Walker) Entscheidungen kritisch gegenüber. Ihr Drängen auf Hilfe durch die Polizei führt sie später ausgerechnet zu einem Kontakt, der selbst in das Geschäft verwickelt ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Neben dem Schiffswrack liegt ein Flugzeug mit Kokainladung.",
+      "question": "Was finden die Taucher in „Into the Blue“ neben den Spuren eines alten Schatzschiffes?",
+      "answers": [
+        "Ein abgestürztes Flugzeug mit einer Kokainladung",
+        "Ein gesunkenes U-Boot mit einer geheimen Waffenlieferung",
+        "Ein versiegeltes Forschungsgerät mit gestohlenen Messdaten",
+        "Eine Rettungskapsel mit den Überlebenden eines Schiffsunglücks"
+      ],
+      "short": "Das zweite Wrack ist ein Flugzeug voller Kokain.",
+      "context": "Die Freunde entdecken Überreste des legendären Schiffes Zephyr und hoffen auf Reichtum. Das nahe Flugzeug enthält eine andere wertvolle Ladung, an der noch lebende Kriminelle interessiert sind. Jared (Paul Walker) will mit den Drogen zunächst nichts zu tun haben und zerstört eine geborgene Probe. Die beiden Funde lösen deshalb sehr verschiedene Arten von Ansprüchen aus.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Bryce und Amanda wollen Kokain verkaufen, um Bergungsausrüstung zu finanzieren.",
+      "question": "Warum versuchen Bryce (Scott Caan) und Amanda (Ashley Scott) in „Into the Blue“, Drogen aus dem Wrack zu verkaufen?",
+      "answers": [
+        "Sie wollen damit Ausrüstung zur Bergung des Schatzes finanzieren.",
+        "Sie wollen sich mit dem Erlös aus einer schon bestehenden Erpressung freikaufen.",
+        "Sie wollen überfällige Schulden aus einem früheren Geschäft bezahlen.",
+        "Sie wollen einem verdeckten Ermittler einen Beweis für die Schmuggelroute liefern."
+      ],
+      "short": "Der Drogenverkauf soll Geld für die Schatzbergung bringen.",
+      "context": "Bryce (Scott Caan) und Amanda (Ashley Scott) sehen in der illegalen Ladung eine schnelle Finanzierung. Ihr vermeintlicher Käufer gehört jedoch zum Umfeld des eigentlichen Drogenbesitzers Reyes (James Frain). Statt unabhängig nach dem Schatz suchen zu können, werden die Freunde nun zur Bergung der Drogen gezwungen. Der Abkürzungsversuch schafft die Abhängigkeit, der sie entkommen wollten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der Polizist Roy verrät Sam an den Drogenpartner Bates.",
+      "question": "Warum führt Sams (Jessica Alba) Versuch, in „Into the Blue“ die Polizei einzuschalten, nicht in Sicherheit?",
+      "answers": [
+        "Der vertraute Polizist Roy ist beteiligt und liefert sie an Bates aus.",
+        "Roy hält sie für eine gesuchte Kurierin und übergibt sie dem Zoll.",
+        "Roy ist bereits suspendiert und darf sie nur als Privatperson begleiten.",
+        "Roy verwechselt ihr Hilfsgesuch mit einem vereinbarten Ablenkungsmanöver."
+      ],
+      "short": "Roy ist ein korrupter Kontakt und übergibt Sam an Bates.",
+      "context": "Sam (Jessica Alba) sucht den befreundeten Polizisten Roy (Dwayne Adway) auf, weil sie den Drogenhändlern entkommen will. Er bringt sie jedoch zu Bates (Josh Brolin), der ebenfalls an der Kokainladung beteiligt ist. Die vertraute Anlaufstelle außerhalb der Tauchergruppe erweist sich damit als Teil derselben Bedrohung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Eine als Geschoss verwendete Druckluftflasche trifft den Treibstofftank des Flugzeugs.",
+      "question": "Wie löst Jared (Paul Walker) im Unterwasserfinale von „Into the Blue“ die Explosion des Flugzeugwracks aus?",
+      "answers": [
+        "Eine freigesetzte Druckluftflasche trifft den Treibstofftank.",
+        "Ein an der Bergungswinde befestigtes Kabel verursacht einen Kurzschluss.",
+        "Ein Leuchtsignal entzündet den aus einem Motor austretenden Treibstoff.",
+        "Eine ins Cockpit gelegte Sprengladung wird per Funk gezündet."
+      ],
+      "short": "Die Druckluftflasche wird zum Geschoss und trifft den Treibstofftank.",
+      "context": "Jared (Paul Walker) ist im Wrack mit Bates (Josh Brolin) konfrontiert. Er schlägt das Ventil einer Druckluftflasche ab und setzt sie damit in Bewegung. Bates weicht aus, doch die Flasche trifft den Treibstofftank. Die Explosion tötet den Gegner; Sam (Jessica Alba) muss anschließend den entkommenen Jared aus dem Wasser retten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 2005.",
+      "question": "In welchem Jahr erschien „Into the Blue“ mit Paul Walker und Jessica Alba erstmals?",
+      "answers": [
+        "2005",
+        "1998",
+        "2002",
+        "2009"
+      ],
+      "short": "Der Film erschien 2005.",
+      "context": "Vier Jahre später folgte 2009 „Into the Blue 2: The Reef“ direkt für den Videomarkt. Die nummerierte Fortsetzung verwendet ein anderes Figurenensemble und eine neue Geschichte. Die Fassung mit Paul Walker und Jessica Alba gehört daher zum ersten Kinofilm, auch wenn beide Werke Schatzsuche und Tauchabenteuer miteinander verbinden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "fortsetzung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "John Stockwell führte Regie.",
+      "question": "Wer führte bei „Into the Blue“ mit Paul Walker und Jessica Alba Regie?",
+      "answers": [
+        "John Stockwell",
+        "Stephen Herek",
+        "Stephen Sommers",
+        "Martin Campbell"
+      ],
+      "short": "Die Regie führte John Stockwell.",
+      "context": "Matt Johnson schrieb das Drehbuch, Shane Hurlbut übernahm die Kamera. Die Unterwasserbilder verbinden die Attraktion einer scheinbar freien Schatzsuche mit begrenzter Sicht, Atemvorräten und gefährlichen Begegnungen. Über Wasser bestimmen Geld und Verrat den Handlungsspielraum; unter Wasser müssen die Figuren unmittelbar auf eine kaum kontrollierbare Umgebung reagieren.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

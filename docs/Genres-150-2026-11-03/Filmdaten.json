@@ -5403,6 +5403,313 @@
       "reference_question_id": "G150-20261103-DRAMA-015-L1",
       "year_question_id": "G150-20261103-DRAMA-015-Y",
       "director_question_id": "G150-20261103-DRAMA-015-D"
+    },
+    {
+      "id": "ABENTEUER-016",
+      "film_title_de": "Picknick mit Bären",
+      "film_title_original": "A Walk in the Woods",
+      "film_year": 2015,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Robert Redford und Nick Nolte geben dem Wanderabenteuer einen breiten Wiedererkennungswert; es bleibt ein kleinerer Film über ältere Reisende.",
+      "directors": [
+        "Ken Kwapis"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 23. Januar 2015 bei Sundance; der am selben Tag veröffentlichte Interviewbericht benennt Premiere und Spielort ausdrücklich.",
+      "director_note": "Ken Kwapis ist der offizielle Regisseur. Robert Redford spielt die Hauptrolle und war als Produzent beteiligt.",
+      "country_note": "Amerikanische Produktion. Der Kameramann nennt auch eine südkoreanische Investition; daraus wird kein zusätzlicher Ländercredit abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständige Adaption eines Erfahrungsberichts ohne belegte nummerierte Filmfolge.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/A_Walk_in_the_Woods_(film)"
+      ],
+      "sources": [
+        {
+          "key": "interview",
+          "url": "https://www.moviemaker.com/walk-woods-veterans-john-bailey-carol-littleton-latest-partnership/",
+          "accessed_on": "2026-11-03",
+          "supports": "Interviews mit Kamera und Schnitt: Premierentag, Regie, Hauptbesetzung, Redfords Produktionsrolle, reale Drehorte und Mischung von 35mm-Film und Digitalkamera."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/A_Walk_in_the_Woods_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Figurencredits, Wanderziel, Bedingung der Ehefrau, Flasche als Erinnerung an Alkoholprobleme, Felsvorsprung und Buchvorlage 1998."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-016-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-016-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-016-D"
+    },
+    {
+      "id": "ABENTEUER-017",
+      "film_title_de": "Into the Blue",
+      "film_title_original": "Into the Blue",
+      "film_year": 2005,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Tauchabenteuer mit Paul Walker und Jessica Alba ist ein wiedererkennbarer kommerzieller Genrefilm der 2000er-Jahre.",
+      "directors": [
+        "John Stockwell"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 2005; AFI dokumentiert den amerikanischen Kinostart am 30. September.",
+      "director_note": "John Stockwell führte Regie, Matt Johnson schrieb das Drehbuch.",
+      "country_note": "Amerikanische Produktion; die Bahamas sind Handlungs- und Drehort.",
+      "series": {
+        "name": "Into the Blue",
+        "position": 1,
+        "note": "Into the Blue 2: The Reef folgte 2009 als eigenständige nummerierte Fortsetzung mit anderer Besetzung."
+      },
+      "series_note": "Die ausdrücklich nummerierte Fortsetzung begründet Teil 1; es wird keine Fortsetzung derselben Figuren behauptet.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Into_the_Blue_2:_The_Reef"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/63471-INTO-THE-BLUE",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Drehbuch, Rollenbesetzung, Produktionsland USA und Erstjahr 2005."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Into_the_Blue_(2005_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Bahamas, Schatz- und Flugzeugwrack, Kokainfund und Verkauf, Roys Verrat, Finale mit Druckluftflasche, Sam und Jareds Berufe."
+        },
+        {
+          "key": "fortsetzung",
+          "url": "https://en.wikipedia.org/wiki/Into_the_Blue_2:_The_Reef",
+          "accessed_on": "2026-11-03",
+          "supports": "Nummerierte Fortsetzung von 2009 mit anderem Team und direkter Videoveröffentlichung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-017-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-017-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-017-D"
+    },
+    {
+      "id": "ABENTEUER-018",
+      "film_title_de": "Hectors Reise oder die Suche nach dem Glück",
+      "film_title_original": "Hector and the Search for Happiness",
+      "film_year": 2014,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Die Bestsellerverfilmung mit Simon Pegg und einem internationalen Ensemble ist im deutschsprachigen Publikum gut wiedererkennbar.",
+      "directors": [
+        "Peter Chelsom"
+      ],
+      "production_countries": [
+        "Vereinigtes Königreich",
+        "Deutschland",
+        "Kanada",
+        "Südafrika"
+      ],
+      "release_note": "Erste reguläre Veröffentlichung 2014; deutscher Start am 14. August vor der nordamerikanischen Festivalvorstellung in Toronto im September.",
+      "director_note": "Peter Chelsom führte Regie und schrieb mit Maria von Heland und Tinker Lindsay das Drehbuch.",
+      "country_note": "Die vier Länder folgen dem europäischen MEDIA-Filmnachweis; ein amerikanischer Vertrieb wird nicht als zusätzlicher Produktionsländercredit gewertet.",
+      "series": null,
+      "series_note": "Die literarische Hector-Reihe begründet keine nummerierte Folge von Verfilmungen.",
+      "series_sources": [
+        "https://www.wildbunch-germany.de/movie/hectors-reise-oder-die-suche-nach-dem-glueck"
+      ],
+      "sources": [
+        {
+          "key": "verleih",
+          "url": "https://www.wildbunch-germany.de/movie/hectors-reise-oder-die-suche-nach-dem-glueck",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Drehbuch, Besetzung, Beruf und Reisemotiv, Romanadaption und deutscher Start 2014."
+        },
+        {
+          "key": "media",
+          "url": "https://www.mfdb.eu/en/film-hector_and_the_search_for_happiness_c86298",
+          "accessed_on": "2026-11-03",
+          "supports": "Europäischer MEDIA-Nachweis: vier Produktionsländer, Autoren, Cast, Produktionsfirmen und nationale Starts."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Hector_and_the_Search_for_Happiness_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Figurencredits, Ying Li, Agnes, Entführung und gravierter Stift, Coremans Experiment und Schlussentscheidung."
+        },
+        {
+          "key": "roman",
+          "url": "https://www.odilejacob.fr/catalogue/psychologie/developpement-personnel/voyage-d-hector_9782738111678.php",
+          "accessed_on": "2026-11-03",
+          "supports": "Verlagsnachweis: François Lelords französische Romanvorlage erschien 2002."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-018-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-018-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-018-D"
+    },
+    {
+      "id": "ABENTEUER-019",
+      "film_title_de": "Uncharted",
+      "film_title_original": "Uncharted",
+      "film_year": 2022,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 1,
+      "familiarity_reason": "Die große Videospielverfilmung mit Tom Holland und Mark Wahlberg ist international stark vermarktet und im jüngeren Publikum besonders leicht wiederzuerkennen.",
+      "directors": [
+        "Ruben Fleischer"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste öffentliche Vorstellung im Februar 2022 in Barcelona, vor dem amerikanischen Kinostart am 18. Februar 2022.",
+      "director_note": "Ruben Fleischer ist der alleinige offizielle Regisseur. Frühere Regieplanungen im langen Entwicklungsprozess werden nicht als zusätzliche Credits geführt.",
+      "country_note": "Amerikanische Produktion von Columbia, PlayStation Productions, Atlas und Arad; Spanien ist unter anderem Drehort.",
+      "series": null,
+      "series_note": "Die Videospielreihe ist keine nummerierte Kinofilmfolge. Eine angekündigte Filmfortsetzung ist im gelesenen Quellenstand noch nicht als veröffentlichter zweiter Film belegt.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/Uncharted_(film)"
+      ],
+      "sources": [
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/uncharted",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielles Filmjahr 2022, Besetzung, Schatz der Magellan-Expedition, Moncada und vermisster Bruder."
+        },
+        {
+          "key": "playstation",
+          "url": "https://blog.playstation.com/2021/10/21/world-premiere-of-uncharted-movie-trailer/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gemeinsame Produktion, Ruben Fleischer als Regisseur und angekündigter Kinostart 2022."
+        },
+        {
+          "key": "jubilaeum",
+          "url": "https://www.naughtydog.com/blog/uncharted_drakes_fortune_15th_anniversary",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizieller Rückblick 2022 auf 15 Jahre seit dem ersten Spiel 2007."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Uncharted_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Erstpremiere, Figurencredits, Schlüsselkreuze, Postkarten, Sullys Entscheidung und Nolan Norths Cameo."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-019-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-019-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-019-D"
+    },
+    {
+      "id": "ABENTEUER-020",
+      "film_title_de": "Jungle",
+      "film_title_original": "Jungle",
+      "film_year": 2017,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Das Überlebensabenteuer mit Daniel Radcliffe ist ein markanter Film seiner Arbeit nach Harry Potter und im neueren Genrekino gut bekannt.",
+      "directors": [
+        "Greg McLean"
+      ],
+      "production_countries": [
+        "Australien"
+      ],
+      "release_note": "Weltpremiere am 3. August 2017 als Eröffnungsfilm des Melbourne International Film Festival; der zeitgenössische Film Victoria-Bericht vom 4. August bestätigt die stattgefundene Vorführung.",
+      "director_note": "Greg McLean führte Regie, Justin Monjo schrieb das Drehbuch nach Yossi Ghinsbergs Bericht.",
+      "country_note": "MIFF und Australian Classification führen Australien. Kolumbien ist als Drehort belegt; der zusätzliche kolumbianische Ländercredit in Wikipedia wird mangels Bestätigung durch diese führenden Primärnachweise nicht übernommen.",
+      "series": null,
+      "series_note": "Eigenständige Adaption eines Erlebnisberichts ohne belegte nummerierte Filmfolge.",
+      "series_sources": [
+        "https://miff.com.au/festival-archive/films/27029"
+      ],
+      "sources": [
+        {
+          "key": "festival",
+          "url": "https://miff.com.au/festival-archive/films/27029",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Jahr, Australien, Darsteller, Expeditionsgruppe, bolivianischer Schauplatz und autobiografische Vorlage."
+        },
+        {
+          "key": "premiere",
+          "url": "https://vicscreen.vic.gov.au/news/jungle-fever-as-66th-melbourne-international-film-festival-begins",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössische Bestätigung der Weltpremiere am Vorabend des 4. August 2017 und kolumbianische Dreharbeiten."
+        },
+        {
+          "key": "interview",
+          "url": "https://miff.com.au/blog/4266/qa-with-jungle-director-greg-mclean",
+          "accessed_on": "2026-11-03",
+          "supports": "Greg McLean über Wolf Creek 2005, zwölf Jahre bis Jungle 2017 und die Hinwendung zu einem neuen Überlebensstoff."
+        },
+        {
+          "key": "klassifikation",
+          "url": "https://www.classification.gov.au/titles/jungle-9",
+          "accessed_on": "2026-11-03",
+          "supports": "Amtlicher Nachweis: Regisseur Greg McLean, Produktionsjahr 2017 und Herkunftsland Australien."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jungle_(2017_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmhandlung, Rollencredits, Floßtrennung, Karl als Nichtschwimmer, Kevins Bootssuche und Epilog über Karl und Marcus."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-020-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-020-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-020-D"
+    },
+    {
+      "id": "ABENTEUER-021",
+      "film_title_de": "Zwischen zwei Leben – The Mountain Between Us",
+      "film_title_original": "The Mountain Between Us",
+      "film_year": 2017,
+      "subdomain": "Abenteuer",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Kate Winslet und Idris Elba machen das romantische Überlebensabenteuer im Schnee zu einem gut erkennbaren internationalen Kinofilm.",
+      "directors": [
+        "Hany Abu-Assad"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erste Festivalvorführung am 9. September 2017 in Toronto; US-Kinostart am 6. Oktober 2017 laut Studio.",
+      "director_note": "Hany Abu-Assad führte Regie; Chris Weitz und J. Mills Goodloe adaptierten den Roman.",
+      "country_note": "Amerikanische Produktion; die kanadischen Drehorte sind vom amerikanischen Handlungsschauplatz zu unterscheiden.",
+      "series": null,
+      "series_note": "Eigenständige Romanverfilmung ohne belegte nummerierte Filmfolge.",
+      "series_sources": [
+        "https://www.20thcenturystudios.com/movies/the-mountain-between-us"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.20thcenturystudios.com/movies/the-mountain-between-us",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Regie- und Autorencredits, Besetzung, US-Start 2017 und Überlebensgeschichte nach Flugzeugabsturz."
+        },
+        {
+          "key": "verlag",
+          "url": "https://www.penguinrandomhouse.com/books/108230/the-mountain-between-us-by-charles-martin/",
+          "accessed_on": "2026-11-03",
+          "supports": "Charles Martin als Romanautor; Verlagsseite unterscheidet E-Book/Audiobook 2010 vom Taschenbuch 2011 und nennt die Verfilmung."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Mountain_Between_Us_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Figurencredits, Toronto-Premiere, Hochzeits- und Operationsreise, fehlender Flugplan, verstorbene Ehefrau und dauerhafte Handschäden."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ABENTEUER-021-L1",
+      "year_question_id": "G150-20261103-ABENTEUER-021-Y",
+      "director_question_id": "G150-20261103-ABENTEUER-021-D"
     }
   ],
   "series_updates": [

@@ -1,0 +1,234 @@
+{
+  "id": "ABENTEUER-021",
+  "film_title_de": "Zwischen zwei Leben – The Mountain Between Us",
+  "film_title_original": "The Mountain Between Us",
+  "film_year": 2017,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Kate Winslet und Idris Elba machen das romantische Überlebensabenteuer im Schnee zu einem gut erkennbaren internationalen Kinofilm.",
+  "selection_reason": "Die zufällige Reisegemeinschaft muss nach einem Absturz Entscheidungen über Warten, Aufbruch und gegenseitige Hilfe treffen. Die körperlichen Folgen reichen über die unmittelbare Rettung hinaus.",
+  "directors": [
+    "Hany Abu-Assad"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste Festivalvorführung am 9. September 2017 in Toronto; US-Kinostart am 6. Oktober 2017 laut Studio.",
+  "director_note": "Hany Abu-Assad führte Regie; Chris Weitz und J. Mills Goodloe adaptierten den Roman.",
+  "country_note": "Amerikanische Produktion; die kanadischen Drehorte sind vom amerikanischen Handlungsschauplatz zu unterscheiden.",
+  "series": null,
+  "series_note": "Eigenständige Romanverfilmung ohne belegte nummerierte Filmfolge.",
+  "series_sources": [
+    "https://www.20thcenturystudios.com/movies/the-mountain-between-us"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://www.20thcenturystudios.com/movies/the-mountain-between-us",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Regie- und Autorencredits, Besetzung, US-Start 2017 und Überlebensgeschichte nach Flugzeugabsturz."
+    },
+    "verlag": {
+      "url": "https://www.penguinrandomhouse.com/books/108230/the-mountain-between-us-by-charles-martin/",
+      "accessed_on": "2026-11-03",
+      "supports": "Charles Martin als Romanautor; Verlagsseite unterscheidet E-Book/Audiobook 2010 vom Taschenbuch 2011 und nennt die Verfilmung."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Mountain_Between_Us_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Figurencredits, Toronto-Premiere, Hochzeits- und Operationsreise, fehlender Flugplan, verstorbene Ehefrau und dauerhafte Handschäden."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Kate Winslet spielt die Fotojournalistin Alex.",
+      "question": "Wer spielt in „Zwischen zwei Leben – The Mountain Between Us“ die Fotojournalistin Alex an der Seite von Idris Elba?",
+      "answers": [
+        "Kate Winslet",
+        "Rachel Weisz",
+        "Amy Adams",
+        "Naomi Watts"
+      ],
+      "short": "Kate Winslet spielt Alex Martin.",
+      "context": "Alex Martin (Kate Winslet) muss nach einem Flugausfall dringend weiterreisen. Am Flughafen trifft sie Ben Bass (Idris Elba), der ebenfalls einen Termin erreichen will. Die beiden kennen sich kaum, als sie gemeinsam ein kleines Flugzeug chartern. Nach dem Absturz wird aus dieser pragmatischen Verbindung eine Partnerschaft, in der beide vom Verhalten des anderen abhängen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Ben Bass ist Neurochirurg.",
+      "question": "Welchen Beruf übt Ben (Idris Elba) in „Zwischen zwei Leben – The Mountain Between Us“ aus?",
+      "answers": [
+        "Neurochirurg",
+        "Bergbauingenieur",
+        "Militärpilot",
+        "Polizeiermittler"
+      ],
+      "short": "Ben Bass arbeitet als Neurochirurg.",
+      "context": "Ben Bass (Idris Elba) ist auf dem Weg zu einer dringenden Operation. Nach dem Absturz versorgt er Alex Martin (Kate Winslet), deren Bein schwer verletzt ist. Später rettet er sie erneut nach einem Sturz ins Eiswasser. Seine beruflichen Fähigkeiten sind damit Teil ihres Überlebens, obwohl ihnen die Ausrüstung eines Krankenhauses fehlt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Alex muss zu ihrer Hochzeit, Ben zu einer dringenden Operation.",
+      "question": "Welche dringenden Termine bringen Alex und Ben dazu, in „Zwischen zwei Leben“ gemeinsam einen Charterflug zu nehmen?",
+      "answers": [
+        "Alex will zu ihrer Hochzeit, Ben muss eine Operation durchführen.",
+        "Alex muss zu einer Gerichtsverhandlung, Ben will sein neugeborenes Kind sehen.",
+        "Alex soll ein Staatsoberhaupt fotografieren, Ben muss einen kranken Verwandten abholen.",
+        "Alex beginnt eine Expedition, Ben soll einen medizinischen Kongress eröffnen."
+      ],
+      "short": "Die Fotografin muss zu ihrer Hochzeit, der Arzt zu einem Patienten.",
+      "context": "Alex Martin (Kate Winslet) und Ben Bass (Idris Elba) wollen die Wartezeit nach der Streichung ihres Linienflugs umgehen. Der Privatpilot Walter (Beau Bridges) nimmt sie und seinen Hund mit. Während des Fluges erleidet er einen tödlichen Schlaganfall. Die Eile, mit der beide ihre getrennten Verpflichtungen erreichen wollten, führt sie in dieselbe Notlage.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Der Pilot hat keinen Flugplan hinterlegt, was die Suche erschwert.",
+      "question": "Welche Unterlassung des Piloten Walter (Beau Bridges) erschwert in „Zwischen zwei Leben“ eine gezielte Suche nach dem abgestürzten Flugzeug?",
+      "answers": [
+        "Er hat keinen Flugplan eingereicht.",
+        "Er hat den vorgeschriebenen Kontrollturm absichtlich umflogen.",
+        "Er hat vor dem Start den Transponder dauerhaft ausgeschaltet.",
+        "Er hat während des Fluges die zivile Funkfrequenz verlassen."
+      ],
+      "short": "Walter hat keinen Flugplan eingereicht.",
+      "context": "Ben Bass (Idris Elba) möchte zunächst beim Wrack bleiben. Alex Martin (Kate Winslet) glaubt dagegen zunehmend, dass sie selbst aufbrechen müssen. Das später gefundene Signalgerät ist beschädigt. Ihr Konflikt betrifft daher eine reale Unsicherheit innerhalb der Filmhandlung: Das Wrack bietet vorübergehend Schutz, führt aber nicht verlässlich dazu, dass jemand die Abgestürzten findet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Bens Ehefrau ist bereits vor der Reise gestorben.",
+      "question": "Was offenbart Ben (Idris Elba) in „Zwischen zwei Leben“ schließlich über seine Ehefrau?",
+      "answers": [
+        "Sie ist schon vor der Reise an einem Hirntumor gestorben.",
+        "Sie hat ihn wegen seiner ständigen Abwesenheit verlassen.",
+        "Sie lebt mit den gemeinsamen Kindern dauerhaft im Ausland.",
+        "Sie hat sich nach einem eigenen Unfall vollständig zurückgezogen."
+      ],
+      "short": "Ben ist Witwer; seine Frau starb an einem Hirntumor.",
+      "context": "Alex Martin (Kate Winslet) hört zunächst eine Nachricht von Bens Frau und kann seine Verschlossenheit nicht einordnen. In der Hütte erzählt Ben Bass (Idris Elba), dass sie vor zwei Jahren gestorben ist. Die Aufnahme bewahrt damit keine aktuell wartende Partnerin, sondern eine Bindung an einen verlorenen Menschen. Die Offenbarung verändert die Nähe der beiden Überlebenden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Erfrierungsschäden verhindern Bens Rückkehr zum Operieren.",
+      "question": "Welche dauerhafte Folge hat das Unglück für Bens Beruf in „Zwischen zwei Leben“?",
+      "answers": [
+        "Er kann wegen der Erfrierungsschäden an seinen Händen nicht mehr operieren.",
+        "Er verliert seine Zulassung, weil er die vereinbarte Operation versäumt hat.",
+        "Er wird nach einer bleibenden Gedächtnisstörung aus der Klinik entlassen.",
+        "Er kann wegen einer dauerhaften Sehstörung keine Patienten mehr untersuchen."
+      ],
+      "short": "Seine geschädigten Hände lassen eine Rückkehr als operierender Chirurg nicht zu.",
+      "context": "Nach der Rettung lebt Ben Bass (Idris Elba) beruflich anders weiter: Er berät Traumakliniken, statt wieder zu operieren. Auch Alex Martin (Kate Winslet) hat ihren Alltag verändert. Die Berggeschichte ist damit nach dem Erreichen des Krankenhauses nicht abgeschlossen. Die Überlebenden tragen ihre Erfahrung in ihre Arbeit und in die Frage hinein, ob ihre Beziehung außerhalb der Notlage bestehen kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 2017.",
+      "question": "In welchem Jahr wurde „Zwischen zwei Leben – The Mountain Between Us“ mit Kate Winslet erstmals veröffentlicht?",
+      "answers": [
+        "2017",
+        "2010",
+        "2014",
+        "2021"
+      ],
+      "short": "Die Verfilmung wurde 2017 in Toronto vorgestellt.",
+      "context": "Charles Martins Roman war bereits 2010 als E-Book und Hörbuch erschienen; die häufig genannte Taschenbuchausgabe folgte 2011. Zwischen dem früheren Verlagsdatum und dem Film lagen somit sieben Jahre. Die Verfilmung verändert auch Figurennamen: Aus den Buchfiguren Ben Payne und Ashley Knox werden Ben Bass und Alex Martin.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "verlag",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Hany Abu-Assad führte Regie.",
+      "question": "Wer führte bei „Zwischen zwei Leben – The Mountain Between Us“ Regie?",
+      "answers": [
+        "Hany Abu-Assad",
+        "Baltasar Kormákur",
+        "Niki Caro",
+        "Juan Antonio Bayona"
+      ],
+      "short": "Die Regie führte Hany Abu-Assad.",
+      "context": "Chris Weitz und J. Mills Goodloe adaptierten Charles Martins Roman. Die Handlung verbindet eine Überlebensgeschichte mit einer Beziehung, die unter Ausnahmebedingungen entsteht. Der Arzt Ben Bass (Idris Elba) und die Fotografin Alex Martin (Kate Winslet) müssen zunächst gemeinsam handeln. Später stellt sich die andere Frage, ob ihre Nähe auch nach der Rückkehr in ihre getrennten Lebenswege Bestand hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "verlag",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

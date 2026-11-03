@@ -1,0 +1,239 @@
+{
+  "id": "ABENTEUER-019",
+  "film_title_de": "Uncharted",
+  "film_title_original": "Uncharted",
+  "film_year": 2022,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 1,
+  "familiarity_reason": "Die große Videospielverfilmung mit Tom Holland und Mark Wahlberg ist international stark vermarktet und im jüngeren Publikum besonders leicht wiederzuerkennen.",
+  "selection_reason": "Die Schatzsuche verbindet Rätsel, wechselnde Bündnisse und einen familiären Suchantrieb mit körperlichen Abenteuerszenen. Spielvorlage und eigenständige Filmhandlung werden getrennt.",
+  "directors": [
+    "Ruben Fleischer"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erste öffentliche Vorstellung im Februar 2022 in Barcelona, vor dem amerikanischen Kinostart am 18. Februar 2022.",
+  "director_note": "Ruben Fleischer ist der alleinige offizielle Regisseur. Frühere Regieplanungen im langen Entwicklungsprozess werden nicht als zusätzliche Credits geführt.",
+  "country_note": "Amerikanische Produktion von Columbia, PlayStation Productions, Atlas und Arad; Spanien ist unter anderem Drehort.",
+  "series": null,
+  "series_note": "Die Videospielreihe ist keine nummerierte Kinofilmfolge. Eine angekündigte Filmfortsetzung ist im gelesenen Quellenstand noch nicht als veröffentlichter zweiter Film belegt.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/Uncharted_(film)"
+  ],
+  "sources": {
+    "sony": {
+      "url": "https://www.sonypictures.com/movies/uncharted",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielles Filmjahr 2022, Besetzung, Schatz der Magellan-Expedition, Moncada und vermisster Bruder."
+    },
+    "playstation": {
+      "url": "https://blog.playstation.com/2021/10/21/world-premiere-of-uncharted-movie-trailer/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gemeinsame Produktion, Ruben Fleischer als Regisseur und angekündigter Kinostart 2022."
+    },
+    "jubilaeum": {
+      "url": "https://www.naughtydog.com/blog/uncharted_drakes_fortune_15th_anniversary",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Rückblick 2022 auf 15 Jahre seit dem ersten Spiel 2007."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Uncharted_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Erstpremiere, Figurencredits, Schlüsselkreuze, Postkarten, Sullys Entscheidung und Nolan Norths Cameo."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Tom Holland spielt Nathan Drake.",
+      "question": "Wer spielt in „Uncharted“ den jungen Schatzsucher Nathan Drake an der Seite von Mark Wahlberg?",
+      "answers": [
+        "Tom Holland",
+        "Dylan O’Brien",
+        "Taron Egerton",
+        "Logan Lerman"
+      ],
+      "short": "Nathan Drake wird von Tom Holland gespielt.",
+      "context": "Nathan Drake (Tom Holland) arbeitet zunächst als Barkeeper und bestiehlt wohlhabende Gäste. Victor Sullivan (Mark Wahlberg) erkennt seine Fähigkeiten und bringt ihn mit einer großen Schatzsuche in Verbindung. Das Angebot verspricht außerdem Hinweise auf Nathans lange vermissten Bruder. Ein bezahlter Auftrag erhält dadurch einen persönlichen Antrieb.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sony",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Gesucht wird ein mit Magellans Expedition verbundener Schatz.",
+      "question": "Mit welcher historischen Expedition wird der gesuchte Schatz in „Uncharted“ verbunden?",
+      "answers": [
+        "Mit der Weltumsegelung Ferdinand Magellans",
+        "Mit James Cooks erster Pazifikreise",
+        "Mit Vasco da Gamas Fahrt nach Indien",
+        "Mit Henry Hudsons Suche nach einer Nordwestpassage"
+      ],
+      "short": "Der Film verbindet den Schatz mit Magellans Expedition.",
+      "context": "Santiago Moncada (Antonio Banderas) betrachtet die Beute als Erbe seiner Familie, die die Expedition finanziert habe. Nathan Drake (Tom Holland) und Victor Sullivan (Mark Wahlberg) verfolgen dieselben Spuren. Die Filmgeschichte erfindet um die historische Fahrt einen verborgenen Schatz und konkurrierende Erbansprüche; sie ist kein Bericht über einen nachgewiesenen Goldfund.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sony",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die beiden goldenen Kreuze dienen als Schlüssel zu verborgenen Zugängen.",
+      "question": "Welche Funktion haben die beiden goldenen Kreuze bei der Spurensuche in Barcelona in „Uncharted“?",
+      "answers": [
+        "Sie dienen als Schlüssel für verborgene Zugänge.",
+        "Sie enthalten zusammen eine auseinandergebrochene Seekarte.",
+        "Sie beweisen Moncadas Erbanspruch gegenüber der Kirche.",
+        "Sie sind Gegengewichte für eine unterirdische Hebevorrichtung."
+      ],
+      "short": "Die Kreuze werden als Schlüssel in die verborgenen Mechanismen eingesetzt.",
+      "context": "Nathan Drake (Tom Holland) und Chloe Frazer (Sophia Ali) suchen unter einer Kirche nach dem nächsten Hinweis. Victor Sullivan (Mark Wahlberg) muss von außen helfen, als ein Zugang geflutet wird. Die Artefakte funktionieren damit als Teile einer räumlichen Rätselkette; ihr bloßer Goldwert ist für diesen Abschnitt der Suche nebensächlich.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Hinweise in Sams Postkarten führen Nathan zur tatsächlichen Schatzposition.",
+      "question": "Woraus gewinnt Nathan (Tom Holland) in „Uncharted“ den entscheidenden Hinweis auf den tatsächlichen Fundort des Schatzes?",
+      "answers": [
+        "Aus den Postkarten seines Bruders Sam",
+        "Aus einem Tonband des verstorbenen Moncada-Vaters",
+        "Aus Chloes geheimem Kontobuch",
+        "Aus einer vom Piloten zurückgelassenen Flugkarte"
+      ],
+      "short": "Sams Postkarten liefern den entscheidenden Hinweis.",
+      "context": "Die vermeintlich eindeutige Karte reicht auf den Philippinen nicht aus, um die Schiffe zu lokalisieren. Nathan Drake (Tom Holland) erkennt dagegen den Nutzen der Nachrichten seines Bruders Sam (Rudy Pankow). Chloe Frazer (Sophia Ali) erhält von ihm falsche Koordinaten. Er setzt nach ihren früheren Täuschungen nicht mehr alles auf eine ungeschützte Partnerschaft.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Sully opfert seine Goldtasche, um Nathan vor Braddock zu retten.",
+      "question": "Welche Entscheidung trifft Sully (Mark Wahlberg) im Finale von „Uncharted“, als Braddock Nathan bedroht?",
+      "answers": [
+        "Er wirft seine Goldtasche auf Braddock und rettet damit Nathan.",
+        "Er bietet Braddock Nathan im Tausch gegen einen Anteil am Schatz an.",
+        "Er wirft Nathan eine Waffe zu und fliegt mit dem Gold davon.",
+        "Er übergibt Braddock den Hubschrauber gegen die Freilassung seines Partners."
+      ],
+      "short": "Sully setzt seine Goldtasche gegen Braddock ein und entscheidet sich für Nathans Rettung.",
+      "context": "Jo Braddock (Tati Gabrielle) hat Nathan Drake (Tom Holland) in die Enge getrieben. Victor Sullivan (Mark Wahlberg), dessen Geldinteresse die Partnerschaft immer wieder belastet hat, gibt in diesem Moment die gesammelte Beute preis. Den großen Schatz verlieren die Männer. Ein kleiner Rest bleibt nur erhalten, weil Nathan einige Stücke eingesteckt hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Nolan North, Nathans Darsteller in den Spielen, erscheint als Hotelgast am Strand.",
+      "question": "Welche Verbindung hat der kurz auftretende Strandgast Nolan North in „Uncharted“ zur Vorlage?",
+      "answers": [
+        "Er spricht und verkörpert Nathan Drake in den Videospielen.",
+        "Er schrieb den ersten Uncharted-Roman.",
+        "Er komponierte die gesamte Musik des ersten Spiels.",
+        "Er entwarf das ursprüngliche Logo der Spielreihe."
+      ],
+      "short": "Nolan North ist Nathans Originaldarsteller in den Spielen.",
+      "context": "Nolan North begegnet im Film Nathan Drake (Tom Holland) und Chloe Frazer (Sophia Ali) nach deren Ankunft am Strand. Der Cameo verbindet die neue Filmverkörperung mit Stimme und Bewegungsvorbild der Spielfigur. North spielt dabei einen Gast innerhalb der Geschichte und tritt nicht als zweiter Nathan Drake auf.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 2022.",
+      "question": "In welchem Jahr erschien „Uncharted“ mit Tom Holland und Mark Wahlberg erstmals?",
+      "answers": [
+        "2022",
+        "2015",
+        "2019",
+        "2025"
+      ],
+      "short": "Der Film erschien 2022.",
+      "context": "Das erste Spiel „Uncharted: Drake’s Fortune“ war 2007 erschienen. Fünfzehn Jahre später kamen sowohl die Kinoadaption als auch der offizielle Jubiläumsrückblick von Naughty Dog heraus. Die Filmfassung erzählt mit jüngeren Hauptfiguren eine eigene Ursprungsgeschichte; die lange Spielchronologie wird nicht einfach als nummerierte Filmfolge fortgeführt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "sony",
+        "jubilaeum",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Ruben Fleischer führte Regie.",
+      "question": "Wer führte bei der Kinoverfilmung „Uncharted“ mit Tom Holland Regie?",
+      "answers": [
+        "Ruben Fleischer",
+        "Shawn Levy",
+        "Travis Knight",
+        "Dan Trachtenberg"
+      ],
+      "short": "Die fertige Kinoverfilmung inszenierte Ruben Fleischer.",
+      "context": "Mehrere Regisseure waren während der langen Entwicklung mit dem Projekt verbunden. Den fertigen Film übernahm Ruben Fleischer. Naughty Dog, PlayStation Productions und Sony Pictures arbeiteten an der Adaption zusammen. Fleischer erklärte, sowohl Kenner der Spiele als auch ein neues Publikum erreichen zu wollen; vertraute Orte, Gegenstände und Bewegungsabläufe wurden dafür in eine neue Handlung eingebaut.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "playstation",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

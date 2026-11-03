@@ -2530,3 +2530,8 @@ Sechs weitere Musikfilme mit 48 neuen Zielen integriert; Musik 121, Classics 184
 #### Fortsetzung 03.11.2026 – Drama W13
 
 Sechs Dramen mit 48 Fragen integriert; 46 neue globale Ziele und zwei Varianten bestehender Personenfragen. Drama 135, Arthouse 123, Classics 189. Alle Fragen zentral und unabhängig gegengelesen; Titelhinweis durch eigenständiges Besetzungsziel ersetzt, Familienausgaben und politische Folgeschritte als plausiblere Ablenker, Aufsatzbetrug logisch präzisiert. Originaljahre, Länder und Regie an Filmarchiven, Verleih und Festival belegt; Quellenkonflikte ausdrücklich begrenzt. Alle 744 Ergänzungen mit echtem Parser exakt und konfliktfrei, Bestand unverändert, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und 70 gezielte Tests in sieben Dateien bestanden. Aktuell 52 Pakete / 16.039 Fragen / 15.361 Ziele. 408 Genreergänzungen und 27 überlappende Arthouse-Filme bleiben offen; kontinuierliche Redaktion wird fortgesetzt.
+
+
+#### Fortsetzung 03.11.2026 – Abenteuer W14
+
+Sechs Abenteuerfilme mit 48 neuen Zielen eingebunden; Abenteuer jetzt 121. Alle Fragen zentral und unabhängig gelesen, gezielte Szenen-/Produktionsquellen nachgelesen; ferner Finanzierungsablenker in Into the Blue ersetzt. Erstvorführungen und Länder von Drehorten getrennt. Alle 792 Ergänzungen mit echtem Parser exakt und konfliktfrei, Bestand unverändert, Wiederholimport und Generatorabgrenzung erfolgreich. Metadaten/TypeScript und vier Reihenprüfungen bestanden. Aktuell 53 Pakete / 16.087 Fragen / 15.409 Ziele; 402 Genreergänzungen und 27 überlappende Arthouse-Filme bleiben im laufenden Auftrag offen.

@@ -1,0 +1,228 @@
+{
+  "id": "ABENTEUER-016",
+  "film_title_de": "Picknick mit Bären",
+  "film_title_original": "A Walk in the Woods",
+  "film_year": 2015,
+  "genre": "Abenteuer",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Robert Redford und Nick Nolte geben dem Wanderabenteuer einen breiten Wiedererkennungswert; es bleibt ein kleinerer Film über ältere Reisende.",
+  "selection_reason": "Das Vorhaben einer langen Wanderung wird zum körperlichen und freundschaftlichen Abenteuer. Der Film behandelt Grenzen und Umkehr, ohne die Reise nur am Erreichen des Endpunkts zu messen.",
+  "directors": [
+    "Ken Kwapis"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere am 23. Januar 2015 bei Sundance; der am selben Tag veröffentlichte Interviewbericht benennt Premiere und Spielort ausdrücklich.",
+  "director_note": "Ken Kwapis ist der offizielle Regisseur. Robert Redford spielt die Hauptrolle und war als Produzent beteiligt.",
+  "country_note": "Amerikanische Produktion. Der Kameramann nennt auch eine südkoreanische Investition; daraus wird kein zusätzlicher Ländercredit abgeleitet.",
+  "series": null,
+  "series_note": "Eigenständige Adaption eines Erfahrungsberichts ohne belegte nummerierte Filmfolge.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/A_Walk_in_the_Woods_(film)"
+  ],
+  "sources": {
+    "interview": {
+      "url": "https://www.moviemaker.com/walk-woods-veterans-john-bailey-carol-littleton-latest-partnership/",
+      "accessed_on": "2026-11-03",
+      "supports": "Interviews mit Kamera und Schnitt: Premierentag, Regie, Hauptbesetzung, Redfords Produktionsrolle, reale Drehorte und Mischung von 35mm-Film und Digitalkamera."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/A_Walk_in_the_Woods_(film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Figurencredits, Wanderziel, Bedingung der Ehefrau, Flasche als Erinnerung an Alkoholprobleme, Felsvorsprung und Buchvorlage 1998."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Bryson und Katz wandern auf dem Appalachian Trail.",
+      "question": "Welchen Fernwanderweg nehmen Bill Bryson (Robert Redford) und sein Begleiter in „Picknick mit Bären“ in Angriff?",
+      "answers": [
+        "Den Appalachian Trail",
+        "Den Pacific Crest Trail",
+        "Den Continental Divide Trail",
+        "Den John Muir Trail"
+      ],
+      "short": "Sie wollen den Appalachian Trail bewandern.",
+      "context": "Bill Bryson (Robert Redford) entdeckt nach der Beerdigung eines Freundes einen Wegweiser und beginnt, sich mit einer großen Wanderung zu beschäftigen. Der Appalachian Trail verbindet Georgia und Maine. Die Aufgabe scheint ihm einen Ausweg aus dem Gefühl zu bieten, dass der interessante Teil seines Lebens bereits hinter ihm liegt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Nick Nolte spielt Stephen Katz.",
+      "question": "Wer spielt in „Picknick mit Bären“ Stephen Katz, den körperlich wenig vorbereiteten alten Freund an Robert Redfords Seite?",
+      "answers": [
+        "Nick Nolte",
+        "Jeff Bridges",
+        "John Goodman",
+        "Tommy Lee Jones"
+      ],
+      "short": "Stephen Katz wird von Nick Nolte gespielt.",
+      "context": "Stephen Katz (Nick Nolte) meldet sich als Einziger für Bill Brysons (Robert Redford) Vorhaben. Seine Ernährungsgewohnheiten und Kondition passen kaum zur angekündigten Herausforderung. Unterwegs müssen die Freunde nicht nur die Belastung aushalten, sondern sich auch wieder aufeinander einstellen, nachdem ihre Lebenswege lange auseinandergegangen sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Catherine verlangt einen Wanderbegleiter als Voraussetzung für ihre Zustimmung.",
+      "question": "Unter welcher Bedingung gibt Catherine Bryson (Emma Thompson) in „Picknick mit Bären“ ihren Widerstand gegen Bills Wanderung auf?",
+      "answers": [
+        "Er soll die Wanderung nicht allein unternehmen.",
+        "Er soll jede Nacht in einem festen Hotel übernachten.",
+        "Er soll die gesamte Strecke mit einem professionellen Bergführer gehen.",
+        "Er soll vor Beginn einen ärztlich überwachten Trainingskurs abschließen."
+      ],
+      "short": "Catherine verlangt, dass Bill einen Begleiter mitnimmt.",
+      "context": "Catherine Bryson (Emma Thompson) beschäftigt sich mit Unfällen und Überfällen auf dem Weg und hält das Unternehmen für gefährlich. Bill Bryson (Robert Redford) sucht daraufhin im Bekanntenkreis nach Mitwanderern. Dass schließlich nur Stephen Katz (Nick Nolte) zusagt, löst das Versprechen formal ein, beruhigt Catherine aber angesichts seiner Verfassung nur begrenzt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Freunde stürzen auf einen Felsvorsprung und benötigen am folgenden Morgen fremde Hilfe.",
+      "question": "Wodurch geraten Bryson (Robert Redford) und Katz (Nick Nolte) in „Picknick mit Bären“ auf einem Felsvorsprung fest?",
+      "answers": [
+        "Sie geraten auf schwieriges Gelände und stürzen mit ihren schweren Rucksäcken ab.",
+        "Ein Erdrutsch schneidet den Zugang zu ihrem regulären Zeltplatz ab.",
+        "Ein plötzliches Hochwasser zwingt sie aus einer Schlucht auf den Felsen.",
+        "Ein Waldbrand versperrt den Rückweg von einem Aussichtspunkt."
+      ],
+      "short": "Auf dem schwierigen Weg stürzen sie auf einen tieferen Felsvorsprung.",
+      "context": "Die beiden beachten den Warnhinweis auf das anspruchsvolle Gelände nicht. Bill Bryson (Robert Redford) verliert das Gleichgewicht und zieht Stephen Katz (Nick Nolte) mit nach unten. Sie können nicht selbst hinaufklettern und verbringen die Nacht dort. Erst andere Wanderer helfen ihnen am nächsten Morgen zurück auf den Weg.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Katz trägt die Alkoholflasche als Erinnerung an die Folgen seiner Sucht mit sich.",
+      "question": "Wie erklärt Stephen Katz (Nick Nolte) in „Picknick mit Bären“ die Alkoholflasche, die Bill in seinem Gepäck entdeckt?",
+      "answers": [
+        "Sie erinnert ihn an die Verluste durch seine Sucht; er trinkt nicht daraus.",
+        "Sie enthält ein verschriebenes Medikament gegen seine Schmerzen.",
+        "Sie ist ein Geschenk für einen Freund am anderen Ende des Weges.",
+        "Er trägt die gefundene Flasche zur nächsten Müllsammelstelle."
+      ],
+      "short": "Die Flasche dient Katz als greifbare Erinnerung an seine überwundene Alkoholabhängigkeit.",
+      "context": "Bill Bryson (Robert Redford) deutet den Fund zunächst als Zeichen, dass Stephen Katz (Nick Nolte) wieder trinkt. Katz erklärt dagegen, er wolle sich die Verluste durch seine Sucht vor Augen halten, besonders die zerstörten familiären Beziehungen. Der Streit öffnet einen Teil seiner Geschichte, den seine komisch wirkende äußere Erscheinung zunächst verdeckt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Die Produktion verband analogen 35mm-Film mit digitalen Aufnahmen.",
+      "question": "Wie wurden die Bilder von „Picknick mit Bären“ laut Kameramann John Bailey aufgenommen?",
+      "answers": [
+        "Mit einer Mischung aus 35mm-Film und digitalen Kamerabildern",
+        "Vollständig auf 35mm-Film ohne digitale Kameraaufnahmen",
+        "Ausschließlich digital mit nachträglich hinzugefügter Filmkörnung",
+        "Mit neuem 16mm-Material und eingearbeiteten älteren Naturaufnahmen"
+      ],
+      "short": "Bailey kombinierte 35mm-Film mit Aufnahmen einer digitalen ARRI Alexa.",
+      "context": "John Bailey wollte die wechselnden Lichtverhältnisse unter den Bäumen teilweise auf Film aufnehmen. Andere Szenen wurden digital gedreht. Landschaft war für ihn und Ken Kwapis Teil der Erzählung; das breite Bild sollte die Figuren in ihrer Umgebung zeigen. Die Wahl des Aufnahmematerials gehörte zu dieser praktischen und gestalterischen Arbeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Die erste Veröffentlichung erfolgte 2015.",
+      "question": "In welchem Jahr wurde „Picknick mit Bären“ mit Robert Redford und Nick Nolte erstmals gezeigt?",
+      "answers": [
+        "2015",
+        "2008",
+        "2012",
+        "2019"
+      ],
+      "short": "Der Film wurde 2015 bei Sundance uraufgeführt.",
+      "context": "Bill Brysons Erfahrungsbericht erschien 1998, also 17 Jahre vor der Verfilmung. Der Kinofilm wurde am 23. Januar 2015 bei Sundance vorgestellt. Robert Redford war dabei nicht nur Darsteller, sondern auch an der Produktion beteiligt. Aus dem Reisebericht wurde so nach längerer Vorbereitungszeit ein Film über Freundschaft und Grenzen im späteren Leben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Ken Kwapis führte Regie.",
+      "question": "Wer führte bei „Picknick mit Bären“ Regie?",
+      "answers": [
+        "Ken Kwapis",
+        "Rob Reiner",
+        "Michael Hoffman",
+        "Lasse Hallström"
+      ],
+      "short": "Die Regie führte Ken Kwapis.",
+      "context": "Kameramann John Bailey hatte bereits mehrfach mit Kwapis gearbeitet; seine Frau Carol Littleton gehörte zum Schnittteam. Während der Dreharbeiten begann sie in New York mit den ersten täglichen Aufnahmen zu arbeiten. Die Erzählung einer Wanderung entstand dadurch gleichzeitig vor Ort und im Austausch mit einem räumlich entfernten Schnittplatz.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
