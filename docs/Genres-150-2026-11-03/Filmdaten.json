@@ -4316,6 +4316,307 @@
       "reference_question_id": "G150-20261103-ABENTEUER-015-L1",
       "year_question_id": "G150-20261103-ABENTEUER-015-Y",
       "director_question_id": "G150-20261103-ABENTEUER-015-D"
+    },
+    {
+      "id": "WESTERN-016",
+      "film_title_de": "Der Mann aus dem Westen",
+      "film_title_original": "Man of the West",
+      "film_year": 1958,
+      "subdomain": "Western",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein bekannter später Anthony-Mann-Western, dessen düstere Figurenkonstellation eher einem Genrepublikum vertraut ist.",
+      "directors": [
+        "Anthony Mann"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "1958 nach AFI; der Katalog führt den US-Start im Oktober. Die vorhandenen Rezensionen aus September 1958 ändern das Erstjahr nicht.",
+      "director_note": "Anthony Mann ist alleiniger offizieller Regisseur; Reginald Rose adaptierte Will C. Browns Roman.",
+      "country_note": "USA nach AFI.",
+      "series": null,
+      "series_note": "Eigenständige Romanverfilmung. Manns Western und die von Robin Wood erkannten Lear-Variationen bilden keine nummerierte Filmfolge.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/52655-MAN-OF-THE-WEST",
+        "https://www.criterion.com/current/posts/521"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/52655-MAN-OF-THE-WEST",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis zu Lehrersuche, Familienvergangenheit, Schutzbehauptung, Entkleidungsdemütigung, Lassoo und Heimkehr; Cast, Jahr, Regie, Land und Roman 1955."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/521",
+          "accessed_on": "2026-11-03",
+          "supports": "Robin Wood analysiert neben The Furies auch Man of the West: Schulsuche, frühere Bande, Lee J. Cobb als Lear-verwandter Patriarch und Ende des alten Westens."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-016-L1",
+      "year_question_id": "G150-20261103-WESTERN-016-Y",
+      "director_question_id": "G150-20261103-WESTERN-016-D"
+    },
+    {
+      "id": "WESTERN-017",
+      "film_title_de": "Die gefürchteten Vier",
+      "film_title_original": "The Professionals",
+      "film_year": 1966,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 2,
+      "familiarity_reason": "Der Ensemblewestern mit Lancaster und Marvin zählt zu den verbreiteten Genreklassikern.",
+      "directors": [
+        "Richard Brooks"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1966 nach AFI und Sony; AFI nennt den New Yorker Start am 2. November 1966 sowie frühere Previews desselben Jahres.",
+      "director_note": "Richard Brooks ist Regisseur, Drehbuchautor und Produzent; die Vorlage ist Frank O’Rourkes Roman von 1964.",
+      "country_note": "US-Produktion nach AFI. Die mexikanische Handlungswelt wurde überwiegend in Kalifornien und Nevada hergestellt.",
+      "series": null,
+      "series_note": "Eigenständige Romanverfilmung, keine nummerierte Filmfolge.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/23756-THE-PROFESSIONALS"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/23756-THE-PROFESSIONALS",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis einschließlich Maria/Raza, Canyon und Schlussentscheidung; Produktionsgeschichte mit Drehortentscheidung, Credits und Romanvorlage."
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/theprofessionals",
+          "accessed_on": "2026-11-03",
+          "supports": "Jahr 1966, vier Spezialgebiete, Auftrag und Besetzung; Brooks/Hall erhielten für In Cold Blood im folgenden Jahr erneut dieselben Oscar-Nominierungen."
+        },
+        {
+          "key": "kaltbluetig",
+          "url": "https://www.sonypictures.com/movies/incoldblood",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständig gelesene Sony-Filmseite: Copyright1967, Capote-Vorlage, Perry/Dick und realer Kansas-Mord. Erstjahr1967 zusätzlich bestehender quellengeprüfter App-Film."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-017-L1",
+      "year_question_id": "G150-20261103-WESTERN-017-Y",
+      "director_question_id": "G150-20261103-WESTERN-017-D"
+    },
+    {
+      "id": "WESTERN-018",
+      "film_title_de": "Sierra Charriba",
+      "film_title_original": "Major Dundee",
+      "film_year": 1965,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein bekannter früher Peckinpah-Western mit mehreren verbreiteten Schnittfassungen, jedoch kein durchgehend geläufiger Publikumstitel.",
+      "directors": [
+        "Sam Peckinpah"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1965: AFI nennt Chicago am 2. April, New York am 7. April. Drehjahr und Sonys Copyrightangabe 1964 sind kein Beleg für eine öffentliche Veröffentlichung 1964. Die längere Fassung von 2005 ist eine spätere Restaurierung.",
+      "director_note": "Offizielle Hauptregie Sam Peckinpah; Cliff Lyons wird als Second-Unit-Regisseur geführt.",
+      "country_note": "US-Produktion nach AFI, vollständig in Mexiko gedreht.",
+      "series": null,
+      "series_note": "Eigenständiger Film, keine Fortsetzung. Mehrere Schnitt- und Restaurierungsfassungen sind keine nummerierten Teile.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/18738-MAJOR-DUNDEE",
+        "https://www.sonypictures.com/movies/majordundee"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/18738-MAJOR-DUNDEE",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis zu gemischter Truppe, Tyreen, Teresa und französischen Gegnern; offizielle Credits, Dreharbeiten 1964, Erststart 1965, Restaurierung 2005 ausdrücklich kein Director’s Cut."
+        },
+        {
+          "key": "sony",
+          "url": "https://www.sonypictures.com/movies/majordundee",
+          "accessed_on": "2026-11-03",
+          "supports": "Gemischte Truppe und Mexiko-Mission; gekürzte Erstfassung und erweiterte Restaurierung 2005 mit neuem Score. Copyright 1964 wird gegenüber AFI-Startdaten abgegrenzt."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-018-L1",
+      "year_question_id": "G150-20261103-WESTERN-018-Y",
+      "director_question_id": "G150-20261103-WESTERN-018-D"
+    },
+    {
+      "id": "WESTERN-019",
+      "film_title_de": "Keine Gnade für Ulzana",
+      "film_title_original": "Ulzana’s Raid",
+      "film_year": 1972,
+      "subdomain": "Western",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Aldrichs später Lancaster-Western ist im Genrepublikum verbreitet, außerhalb davon weniger geläufig.",
+      "directors": [
+        "Robert Aldrich"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1972 nach AFI; der Katalog nennt US-Starts im November. Die historische Anregung 1885 bezeichnet das Vorbild des Überfalls, nicht das Veröffentlichungsjahr.",
+      "director_note": "Robert Aldrich ist alleiniger Hauptregisseur, Alan Sharp schrieb das Drehbuch.",
+      "country_note": "US-Produktion, gedreht in Arizona und Nevada laut AFI und den dort dokumentierten Schlusscredits.",
+      "series": null,
+      "series_note": "Eigenständiger Film, keine nummerierte Folge der früheren Aldrich/Lancaster-Western.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/54386-ULZANA%27S-RAID"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54386-ULZANA%27S-RAID",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis mit DeBuin, McIntosh, Ke-Ni-Tay, Ponyreserve, Leichenschändung, Fernglassignal und Schluss; Cast, Jahr, Land, Regie und frühere/spätere Aldrich-Lancaster-Filme."
+        },
+        {
+          "key": "kino",
+          "url": "https://www.cinestar.de/film/keine-gnade-fur-ulzana",
+          "accessed_on": "2026-11-03",
+          "supports": "Deutscher Titel, Scouts und Hauptbesetzung, Jahr 1972, USA und McIntoshs Entscheidung zurückzubleiben."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-019-L1",
+      "year_question_id": "G150-20261103-WESTERN-019-Y",
+      "director_question_id": "G150-20261103-WESTERN-019-D"
+    },
+    {
+      "id": "WESTERN-020",
+      "film_title_de": "Das Schießen",
+      "film_title_original": "The Shooting",
+      "film_year": 1966,
+      "subdomain": "Western",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ein kanonischer unabhängiger Western für ein filmhistorisch interessiertes Publikum, dessen deutscher Titel wenig Alltagspräsenz hat.",
+      "directors": [
+        "Monte Hellman"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1966 nach Criterion und der bei AFI dokumentierten Festivalvorführung in San Francisco am 23. Oktober 1966. AFIs Kopfjahr 1972 bezeichnet die späte US-Kinoauswertung. Drehjahr 1965 ist ebenfalls kein Erstveröffentlichungsjahr.",
+      "director_note": "Monte Hellman führte Regie und produzierte mit Jack Nicholson. Carole Eastman schrieb unter dem Namen Adrien Joyce; Roger Corman finanzierte als Executive Producer.",
+      "country_note": "USA nach AFI und Criterion; 1965 in Kanab, Utah, gedreht.",
+      "series": null,
+      "series_note": "Eigenständige Handlung; mit Ride in the Whirlwind gemeinsam hergestellt und später gemeinsam veröffentlicht, jedoch keine Fortsetzung und keine nummerierte Filmreihe.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/54701-THE-SHOOTING",
+        "https://www.criterion.com/current/posts/3360-the-shooting-and-ride-in-the-whirlwind-we-can-bring-a-good-bit-of-rope"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54701-THE-SHOOTING",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis zu Auftrag, Pferdelüge, Billy Spear, Coley, Handverletzung und finalem Coin; Besetzung einschließlich Oates-Doppelrolle, Credits, Drehjahr 1965 und Festival 1966 gegenüber US-Kinojahr 1972."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28580-the-shooting",
+          "accessed_on": "2026-11-03",
+          "supports": "Jahr 1966, USA, Regie Hellman, Drehbuch Eastman als Adrien Joyce, Besetzung und existentieller Rachewestern."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/3360-the-shooting-and-ride-in-the-whirlwind-we-can-bring-a-good-bit-of-rope",
+          "accessed_on": "2026-11-03",
+          "supports": "Michael Atkinsons Analyse von Auslassungen, ungewisser Motivation, Doppelgängerfinale, Step Printing und gemeinsamer Herstellung beider eigenständiger Hellman-Western. Die pauschale dortige Behauptung über versunkene Drehorte wird ausdrücklich nicht übernommen."
+        },
+        {
+          "key": "titel",
+          "url": "https://www.filminfos.de/western/das-schiessen--new310782/",
+          "accessed_on": "2026-11-03",
+          "supports": "Deutschsprachige DVD-Titelzuordnung Das Schiessen zu The Shooting. Das dort genannte Jahr 1967 und die ausdeutende Inhaltsangabe sind nicht führend; Festivaljahr nach AFI und Criterion."
+        },
+        {
+          "key": "spaeter",
+          "url": "https://www.criterion.com/films/847-two-lane-blacktop",
+          "accessed_on": "2026-11-03",
+          "supports": "Two-Lane Blacktop1971, Monte Hellman, Straßenfilm über Männer auf einer ziellosen Fahrt. Verbindung des zerbrechenden Filmbilds mit The Shooting im zusätzlich gelesenen Essay3360."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-020-L1",
+      "year_question_id": "G150-20261103-WESTERN-020-Y",
+      "director_question_id": "G150-20261103-WESTERN-020-D"
+    },
+    {
+      "id": "WESTERN-021",
+      "film_title_de": "Ritt im Wirbelwind",
+      "film_title_original": "Ride in the Whirlwind",
+      "film_year": 1966,
+      "subdomain": "Western",
+      "categories": [
+        "Arthouse",
+        "Classics"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Ein wichtiger unabhängiger Western mit frühem Nicholson, außerhalb filmhistorischer Zusammenhänge jedoch wenig präsent.",
+      "directors": [
+        "Monte Hellman"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1966 nach Criterion und der bei AFI dokumentierten Festivalvorführung am 23. Oktober 1966. AFIs Kopfjahr 1972 meint den verspäteten US-Kinostart; 1965 bezeichnet die Dreharbeiten.",
+      "director_note": "Regie Monte Hellman, Drehbuch Jack Nicholson, beide auch Produzenten; keine Regiearbeit Nicholsons.",
+      "country_note": "USA nach AFI und Criterion, gedreht 1965 in Kanab, Utah.",
+      "series": null,
+      "series_note": "Eigenständiger Film aus einer gemeinsamen Produktionsunternehmung mit The Shooting; keine Fortsetzung und keine nummerierte Reihe.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/54633-RIDE-IN-THE-WHIRLWIND",
+        "https://www.criterion.com/current/posts/3360-the-shooting-and-ride-in-the-whirlwind-we-can-bring-a-good-bit-of-rope"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/54633-RIDE-IN-THE-WHIRLWIND",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Synopsis zu zufälliger Unterkunft, Blind Dick, Lynchjustiz, Homestead, Evan und Verns Ende; Jahr, Festivalstart, Cast und offizielle Credits."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28581-ride-in-the-whirlwind",
+          "accessed_on": "2026-11-03",
+          "supports": "USA 1966, Regie Hellman, Nicholson-Drehbuch, Cast und zentrale Verwechslung von Cowhands mit Räubern."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/3360-the-shooting-and-ride-in-the-whirlwind-we-can-bring-a-good-bit-of-rope",
+          "accessed_on": "2026-11-03",
+          "supports": "Michael Atkinsons Analyse der unabhängigen Filmgeschichten, lakonischen Alltagsdarstellung, gesetzlosen Verfolger und erzwungenen Entwicklung der Unschuldigen zu Geiselnehmern und Pferdedieben. Fehlerhafte Pauschalaussage über versunkene Drehorte wird nicht verwendet."
+        },
+        {
+          "key": "arsenal",
+          "url": "https://www.arsenal-berlin.de/kino/programmarchiv/2011/filmreihe/filme-von-monte-hellman/",
+          "accessed_on": "2026-11-03",
+          "supports": "Deutscher Titel Ritt im Wirbelwind / Duell in der Wüste, Jahr 1966, Nicholson als Drehbuchautor und Koproduzent; Alltagsdarstellung und Konventionszerlegung. Die pauschale Angabe Dreh1966 wird gegenüber AFI1965 nicht übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-WESTERN-021-L1",
+      "year_question_id": "G150-20261103-WESTERN-021-Y",
+      "director_question_id": "G150-20261103-WESTERN-021-D"
     }
   ],
   "series_updates": [

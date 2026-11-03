@@ -1,0 +1,231 @@
+{
+  "id": "WESTERN-018",
+  "film_title_de": "Sierra Charriba",
+  "film_title_original": "Major Dundee",
+  "film_year": 1965,
+  "genre": "Western",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein bekannter früher Peckinpah-Western mit mehreren verbreiteten Schnittfassungen, jedoch kein durchgehend geläufiger Publikumstitel.",
+  "selection_reason": "Der militärische Auftrag führt eine zerrissene Truppe über Grenzen und gegen wechselnde Gegner; Befehlsgewalt und persönliche Rivalität liefern getrennte Inhaltsziele.",
+  "directors": [
+    "Sam Peckinpah"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1965: AFI nennt Chicago am 2. April, New York am 7. April. Drehjahr und Sonys Copyrightangabe 1964 sind kein Beleg für eine öffentliche Veröffentlichung 1964. Die längere Fassung von 2005 ist eine spätere Restaurierung.",
+  "director_note": "Offizielle Hauptregie Sam Peckinpah; Cliff Lyons wird als Second-Unit-Regisseur geführt.",
+  "country_note": "US-Produktion nach AFI, vollständig in Mexiko gedreht.",
+  "series": null,
+  "series_note": "Eigenständiger Film, keine Fortsetzung. Mehrere Schnitt- und Restaurierungsfassungen sind keine nummerierten Teile.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/18738-MAJOR-DUNDEE",
+    "https://www.sonypictures.com/movies/majordundee"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/18738-MAJOR-DUNDEE",
+      "accessed_on": "2026-11-03",
+      "supports": "Vollständige Synopsis zu gemischter Truppe, Tyreen, Teresa und französischen Gegnern; offizielle Credits, Dreharbeiten 1964, Erststart 1965, Restaurierung 2005 ausdrücklich kein Director’s Cut."
+    },
+    "sony": {
+      "url": "https://www.sonypictures.com/movies/majordundee",
+      "accessed_on": "2026-11-03",
+      "supports": "Gemischte Truppe und Mexiko-Mission; gekürzte Erstfassung und erweiterte Restaurierung 2005 mit neuem Score. Copyright 1964 wird gegenüber AFI-Startdaten abgegrenzt."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Dundee verfolgt den Anführer Sierra Charriba nach dessen Überfall und der Entführung von Kindern.",
+      "question": "Was setzt Major Dundees Expedition nach Mexiko in „Sierra Charriba“ in Gang?",
+      "answers": [
+        "Charribas Überfall auf einen Kavallerieposten und die Entführung von Kindern",
+        "Der Diebstahl der Armeekasse durch französische Offiziere",
+        "Der Auftrag, konföderierte Gefangene gegen Unionssoldaten auszutauschen",
+        "Der Befehl, eine mexikanische Silbermine zu besetzen"
+      ],
+      "short": "Dundee verfolgt die Angreifer und die entführten Kinder.",
+      "context": "Die Handlung beginnt in den letzten Monaten des amerikanischen Bürgerkriegs. Major Amos Dundee (Charlton Heston) führt seinen begrenzten Verband über die mexikanische Grenze. Aus der Verfolgung des Apache-Anführers Sierra Charriba (Michael Pate) entwickelt sich eine Expedition, deren militärische und persönliche Ziele immer schwerer zu trennen sind.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Dundees Truppe vereint Unionssoldaten, konföderierte Gefangene und weitere gesellschaftlich ausgegrenzte Männer.",
+      "question": "Was kennzeichnet die Truppe, die Major Dundee in „Sierra Charriba“ zusammenstellt?",
+      "answers": [
+        "Unionssoldaten kämpfen neben konföderierten Gefangenen und weiteren Außenseitern.",
+        "Ausschließlich freiwillige texanische Rancher übernehmen den Auftrag.",
+        "Eine reguläre französische Einheit wird amerikanischem Kommando unterstellt.",
+        "Nur erfahrene Offiziere nehmen ohne einfache Soldaten teil."
+      ],
+      "short": "Der Verband setzt sich aus gegnerischen und ausgegrenzten Gruppen zusammen.",
+      "context": "Dundee (Charlton Heston) ergänzt die wenigen verfügbaren Soldaten um Gefangene, Deserteure und schwarze Freiwillige. Die äußere Geschlossenheit einer berittenen Einheit verdeckt ihre inneren Spannungen. Die Loyalitäten des noch laufenden Bürgerkriegs verschwinden nicht dadurch, dass alle vorübergehend demselben Befehl folgen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Tyreen akzeptiert den Kampf als Alternative zur Hinrichtung und verschiebt seinen persönlichen Konflikt mit Dundee bis nach dem Auftrag.",
+      "question": "Unter welcher Drohung treten Benjamin Tyreen (Richard Harris) und seine konföderierten Mitgefangenen in „Sierra Charriba“ der Expedition bei?",
+      "answers": [
+        "Sie sollen sonst wegen der Tötung eines Wächters gehängt werden.",
+        "Ihre Familien sollen sonst aus dem Grenzgebiet ausgewiesen werden.",
+        "Ihre Offiziersränge sollen sonst dauerhaft aberkannt werden.",
+        "Sie sollen sonst an die französischen Besatzer ausgeliefert werden."
+      ],
+      "short": "Die Alternative zur Teilnahme ist die Hinrichtung.",
+      "context": "Captain Benjamin Tyreen (Richard Harris) ist ein alter Gegner Dundees (Charlton Heston). Er nimmt die Mission an, kündigt aber an, den persönlichen Streit anschließend gewaltsam zu entscheiden. Die Zusammenarbeit bedeutet deshalb keine Versöhnung: Sie hat einen befristeten, von Zwang und Misstrauen bestimmten Charakter.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Teresa Santiago ist die Witwe eines von Franzosen gehängten mexikanischen Arztes.",
+      "question": "Welche Vorgeschichte hat Teresa Santiago (Senta Berger), um die Dundee und Tyreen in „Sierra Charriba“ rivalisieren?",
+      "answers": [
+        "Ihr Mann war ein mexikanischer Arzt, den die Franzosen gehängt haben.",
+        "Ihr Mann war ein Unionsoffizier, der bei Dundees Ausbruch starb.",
+        "Ihr Mann war ein französischer General, der nach Paris zurückkehrte.",
+        "Ihr Mann war ein Rancher, der sich Charribas Gruppe anschloss."
+      ],
+      "short": "Teresa ist die Witwe eines von französischen Truppen hingerichteten Arztes.",
+      "context": "Teresa Santiago (Senta Berger) begegnet den Männern im Zusammenhang mit einem von französischen Soldaten besetzten Dorf. Ihre Geschichte erweitert den Kriegshintergrund über den amerikanischen Nord-Süd-Konflikt hinaus. Die Rivalität von Dundee (Charlton Heston) und Tyreen (Richard Harris) tritt damit in einen bereits von anderer Gewalt geprägten Lebensraum.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Tyreen stirbt beim Angriff auf französische Soldaten, nicht im angekündigten Duell mit Dundee.",
+      "question": "Wie endet Benjamin Tyreens (Richard Harris) angekündigte persönliche Abrechnung mit Dundee in „Sierra Charriba“?",
+      "answers": [
+        "Tyreen fällt zuvor bei einem Angriff auf französische Soldaten.",
+        "Tyreen erschießt Dundee nach dem Grenzübertritt in einem Duell.",
+        "Tyreen lässt Dundee vor einem amerikanischen Kriegsgericht verurteilen.",
+        "Tyreen übernimmt Dundee lebend als französischen Gefangenen."
+      ],
+      "short": "Tyreen stirbt gegen die Franzosen, bevor er Dundee töten kann.",
+      "context": "Nach dem Kampf gegen Charriba ist die ursprüngliche Mission erfüllt, der persönliche Konflikt aber noch offen. Ein französischer Verband zwingt die Männer zu einem weiteren Gefecht. Tyreens einzelner Angriff und Tod verschieben den Schluss vom erwarteten Duell zur letzten gemeinsamen Bedrohung der Rückkehrer.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Die erweiterte Fassung 2005 fügte Material und einen neuen Score hinzu, war jedoch kein vollständiger Director’s Cut.",
+      "question": "Was unterscheidet die 2005 veröffentlichte erweiterte Fassung von „Sierra Charriba“ wesentlich von der gekürzten Kinofassung?",
+      "answers": [
+        "Sie ergänzt Szenen und ersetzt die ursprüngliche Musik durch einen neuen Score.",
+        "Sie ergänzt Szenen, behält aber die ursprüngliche Musik unverändert.",
+        "Sie übernimmt den alten Schnitt und ergänzt nur einen neuen Score.",
+        "Sie kürzt zusätzliche Szenen und verwendet die ursprüngliche Musik."
+      ],
+      "short": "Die Restaurierung ergänzt Szenen und bietet eine neue Musikfassung.",
+      "context": "Der AFI-Katalog nennt zwölf wieder eingefügte Minuten und Christopher Caliendos neuen Score. Die Veröffentlichung wurde als näher an Peckinpahs Vorstellung beschrieben, ausdrücklich jedoch nicht als sein vollständiger Director’s Cut. Der Unterschied betrifft also eine spätere redaktionelle Annäherung an einen zuvor verkürzten Film.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Major Dundee wurde erstmals 1965 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Sierra Charriba“ mit Charlton Heston erstmals veröffentlicht?",
+      "answers": [
+        "1965",
+        "1957",
+        "1972",
+        "2005"
+      ],
+      "short": "Der Film erschien 1965.",
+      "context": "Die Aufnahmen entstanden bereits 1964 in Mexiko. Vier Jahrzehnte nach dem Kinostart erschien 2005 eine erweiterte Restaurierung mit wieder eingefügtem Material und neu komponierter Musik. Drehjahr, öffentliche Erstveröffentlichung und spätere Fassung gehören dadurch zu drei verschiedenen Zeitpunkten der Filmgeschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "sony"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Sam Peckinpah führte bei Major Dundee Regie.",
+      "question": "Wer führte bei „Sierra Charriba“ mit Charlton Heston und Richard Harris Regie?",
+      "answers": [
+        "Sam Peckinpah",
+        "Robert Aldrich",
+        "John Sturges",
+        "Richard Brooks"
+      ],
+      "short": "Sam Peckinpah führte Regie.",
+      "context": "Charlton Heston hatte Peckinpahs „Sacramento“ von 1962 gesehen und wollte ihn für den Film. Peckinpah wurde auch am Drehbuch beteiligt, das auf Harry Julian Finks Originalgeschichte beruhte. Es war sein erstes großes Studioprojekt; die spätere Kürzung gegen seine Vorstellungen prägt seine Produktionsgeschichte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
