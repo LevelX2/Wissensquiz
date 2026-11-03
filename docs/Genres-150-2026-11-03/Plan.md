@@ -66,7 +66,7 @@ Die Zusatzkategorien überschneiden sich mit den Genres und werden nicht zur Ges
 
 **Prüfungen auf dem finalen Stand:** Zielprüfung mit --require-target, Metadaten-/TypeScript-Prüfung, 70 gezielte Tests in sieben Dateien und git diff --check erfolgreich. Die Reihenprüfung erfasst sämtliche tatsächlich angezeigten Filmverweise, auch in Personen- und Preisfragen: 3.389 Identitäten, davon 713 nummeriert; Register und Anzeige stimmen exakt überein. Kein Produktionsbuild oder Browserlauf erforderlich, da dieser lokale Redaktionsblock weder Oberfläche noch Persistenz ändert. [Projektprüfnachweis](../Pruefbericht.md).
 
-**Ablage:** Quellstand lokal im freigegebenen Worktree committet. Keine Main-Integration, kein Push, keine Veröffentlichung oder produktive Katalogaktivierung. Der reproduzierbare private Katalogsnapshot bestand.json wurde nach der Abnahme entfernt; private Auswahlbelege und Originalsammlungsquellen bleiben erhalten.
+**Ablage:** Quellstand aus dem freigegebenen Worktree am 03.11.2026 konfliktfrei per Fast-Forward in main integriert. Die neue Veröffentlichung samt Online-Katalog ist ausdrücklich beauftragt und wird separat abgenommen; kein GitHub-Push. Der reproduzierbare private Katalogsnapshot bestand.json wurde nach der Abnahme entfernt; private Auswahlbelege und Originalsammlungsquellen bleiben erhalten.
 
 ## Aktueller Stand
 

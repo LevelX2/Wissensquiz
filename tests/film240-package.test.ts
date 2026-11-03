@@ -10,6 +10,7 @@ import { questionSourceOf } from "../src/filters";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { validateBackup } from "../src/backupValidation";
 import source from "../docs/Filmfragen-Ergaenzung-2026-10-06/Filmdaten.json";
+import seriesRegistry from "../src/filmSeries.json";
 import { assertEditorialSource, originalQuestionId, currentQuestionId } from "./editorialSource";
 import integration from "./fixtures/appliedEditorial.json";
 import ticketCorrections from "../docs/GitHub-Tickets-2026-10-25.json";
@@ -237,7 +238,12 @@ it("zeigt die recherchierten Filmdaten fassungsgenau und erhält eine bestehende
       : film.sources;
     if (!sources) throw new Error(`Fehlende Quellen: ${film.film_title_original}`);
     expect(filmData(q)?.sources).toEqual([
-      ...new Set(sources.map((s) => s.url.replace(/^http:/, "https:"))),
+      ...new Set([
+        ...sources.map((s) => s.url.replace(/^http:/, "https:")),
+        ...((seriesRegistry.films as Record<string, { sources: string[] }>)[
+          `${film.film_title_original}|${film.film_year}`
+        ]?.sources ?? []),
+      ]),
     ]);
     expect(familiarityOf(q)).toBe(
       film.film_title_original === "Up" ? 1 : film.familiarity_level,

@@ -6,6 +6,7 @@ import { filmData, addFilmFacts } from "../src/filmFacts";
 import { filmIdentity, familiarityOf } from "../src/familiarity";
 import { genreOf, questionSourceOf } from "../src/filters";
 import films from "../docs/Genres-100-2026-10-08/Filmdaten.json";
+import genre150 from "../docs/Genres-150-2026-11-03/Filmdaten.json";
 import { catalogCounts } from "./catalog-counts";
 import { assertEditorialSource } from "./editorialSource";
 import integration from "./fixtures/appliedEditorial.json";
@@ -157,12 +158,15 @@ for (const directory of readdirSync(root, { withFileTypes: true }).filter(
   ) as {
     films: { film: string; title: string; question_ids: string[] }[];
   };
-  it(`erreicht 100 Filme und den Klassikerkern für ${selection.genre}; prüft erhaltene Rohquelle und dokumentierte Redaktion`, () => {
+  const expectedFilms = 100 + genre150.films.filter(
+    (film) => film.subdomain === selection.genre,
+  ).length;
+  it(`erreicht ${expectedFilms} Filme und erhält den 100er-Klassikerkern für ${selection.genre}; prüft erhaltene Rohquelle und dokumentierte Redaktion`, () => {
     const questions = state.questions.filter(
       (q) => questionSourceOf(q) === "film" && genreOf(q) === selection.genre,
     );
     const keys = new Set(questions.map(filmIdentity));
-    expect(keys.size).toBe(100);
+    expect(keys.size).toBe(expectedFilms);
     const previous = before.questions.filter(
       (q) => questionSourceOf(q) === "film" && genreOf(q) === selection.genre,
     );
