@@ -1,0 +1,270 @@
+{
+  "id": "THRILLER-020",
+  "film_title_de": "Das perfekte Verbrechen",
+  "film_title_original": "Fracture",
+  "film_year": 2007,
+  "genre": "Thriller",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Redaktionelle Einschätzung: bekannter Gerichtsthriller mit Anthony Hopkins und Ryan Gosling; die beiden Hauptdarsteller erleichtern die Wiedererkennung gegenüber einzelnen Fallmechanismen.",
+  "selection_reason": "Der Täter ist von Beginn an bekannt. Spannung entsteht aus der scheinbar sicheren Beweislage, ihrer gezielten Zerstörung und dem persönlichen Duell mit einem ehrgeizigen Ankläger.",
+  "directors": [
+    "Gregory Hoblit"
+  ],
+  "production_countries": [
+    "USA",
+    "Deutschland"
+  ],
+  "release_note": "Erstjahr 2007 nach konkretem AFI-Werkdatensatz mit US-Eröffnungen am 20. April und Verleiher-Werkdaten. Die FBW führt 2006 als Produktionsjahr; ihr deutscher Kinostart ist 17. Mai 2007. Produktionsjahr und Erstveröffentlichung getrennt, kein belegter öffentlicher Start 2006 in den gelesenen Angaben.",
+  "director_note": "Gregory Hoblit alleinige Hauptregie nach AFI, FBW und Primärinterview; Drehbuchautoren Daniel Pyne und Glenn Gers sind keine Mitregisseure.",
+  "country_note": "Germany und United States ausdrücklich im konkreten AFI-Datensatz und beim Verleiher Apple TV. FBW nennt nur USA, die umfangreichere institutionelle Länderangabe führt hier. Kein Schluss allein aus deutschem Firmennamen.",
+  "series": null,
+  "series_note": "Eigenständiger Fall. Die früheren Hoblit-Gerichtsthriller Zwielicht und Angeklagt sind keine nummerierten Folgen mit denselben Figuren.",
+  "series_sources": [
+    "https://catalog.afi.com/Catalog/moviedetails/64266",
+    "https://emanuellevy.com/interviews/fracture-ryan-gosling-2/"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/moviedetails/64266",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächlichen vollständigen kompakten indexierten Werkdatensatz gelesen: USA/Deutschland ausdrücklich, US-Start 20. April 2007, Hoblit allein, Pyne/Gers und vollständige Figurenbesetzung. Kein langer AFI-Plot behauptet."
+    },
+    "verleih": {
+      "url": "https://tv.apple.com/gb/movie/fracture/umc.cmc.6o5lwnb7ubdutwfdcnpelbjjv",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliche Verleiher-Werkbeschreibung und Länder-/Jahres-/Regieangaben gelesen: USA und Germany, 2007, Gregory Hoblit, Ankläger vor Wechsel in private Kanzlei. Kein Film abgespielt."
+    },
+    "fbw": {
+      "url": "https://www.fbw-filmbewertung.com/film/das_perfekte_verbrechen",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächlichen Werkdatensatz und ausführliche Jurybegründung gelesen: deutscher Titel/Start 17. Mai 2007, abweichend Produktionsjahr 2006, Hoblit/Pyne/Gers, konstruierter intellektueller Gerichtszweikampf. FBW-Arthouse-Rubrik nicht automatisch als redaktionelle Kategorie übernommen."
+    },
+    "interview": {
+      "url": "https://emanuellevy.com/interviews/fracture-ryan-gosling-2/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamten tatsächlichen Primärinterviewtext gelesen: Hoblit über erste Verhörszene, Entdeckung Goslings mit The Believer/Sundance 2001 und Arbeitsweisen; Gosling über Berufsdruck und Crawford-Duell. Nicht die zweifelhafte Laufzeitangabe zu Hopkins übernommen."
+    },
+    "hopkins": {
+      "url": "https://www.female.com.au/anthony-hopkins-fracture-slipstream-interview.htm",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächlichen vollständigen Fischer-Primärinterviewtext gelesen: Hopkins über präzise, knappe Drehbuchsprache und klares Erzählen in Fracture. Aussagen über seinen eigenen Film Slipstream nicht auf Hoblits Regie übertragen."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Fracture_(2007_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte tatsächliche Handlung/Cast gelesen: Ingenieur Crawford, Selbstvertretung, Nunally als Liebhaber, ausgeschlossene Geständnisse, doppelte Waffenvertauschung und neuer Mordvorwurf nach Jennifers Tod. Schluss mit tatsächlichem Filmton abgeglichen, keine allgemeine Rechtsregel aus Film abgeleitet."
+    },
+    "dialog": {
+      "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=fracture",
+      "accessed_on": "2026-11-03",
+      "supports": "Tatsächliche ausführliche Filmtonabschnitte gelesen: Anfang/Nunally-Festnahme, Selbstvertretung und gesamtes Verhör-/Ausschlussgespräch; Krankenhausende und komplette Schlusskonfrontation ab Waffenidentität bis neue Mordanklage. Kein abweichendes Drehbuchende verwendet."
+    },
+    "kritik": {
+      "url": "https://filmsinreviewarchives.com/2007/04/20/fracture/",
+      "accessed_on": "2026-11-03",
+      "supports": "Gesamte tatsächliche Victoria-Alexander-Kritik per HTML-Abruf gelesen: Frau lebt im Koma, Berufswechsel Beachums, Nunally als Liebhaber und Ausschluss des Geständnisses, Scheitern des vermeintlich leichten Falls. Wertungen und psychiatrische Laienetiketten nicht übernommen."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Anthony Hopkins spielt Ted Crawford.",
+      "question": "Wer spielt in „Das perfekte Verbrechen“ den Ingenieur Ted Crawford, der seine Frau anschießt und anschließend die Anklage herausfordert?",
+      "answers": [
+        "Anthony Hopkins",
+        "Michael Caine",
+        "Jeremy Irons",
+        "Geoffrey Rush"
+      ],
+      "short": "Anthony Hopkins spielt Ted Crawford.",
+      "context": "Ted Crawford (Anthony Hopkins) untersucht beruflich Schwachstellen technischer Systeme. Dieselbe Denkweise prägt seinen Umgang mit dem Strafverfahren. Er verbirgt seine feindselige Haltung kaum und scheint dennoch auf eine Lücke im Beweisgang zu vertrauen. Das Publikum muss deshalb nicht erst den Täter suchen, sondern verfolgt, wie ein offenkundiger Fall vor Gericht ins Wanken gerät.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung",
+        "fbw"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Willy Beachum will von der Staatsanwaltschaft in eine lukrative private Kanzlei wechseln.",
+      "question": "Welche berufliche Veränderung plant Willy Beachum (Ryan Gosling) zu Beginn von „Das perfekte Verbrechen“?",
+      "answers": [
+        "Den Wechsel in eine private Wirtschaftskanzlei",
+        "Die Kandidatur für das Amt des Bezirksstaatsanwalts",
+        "Den Wechsel in die Mordkommission",
+        "Die Übernahme einer öffentlichen Pflichtverteidigerstelle"
+      ],
+      "short": "Beachum steht vor einem gut bezahlten Kanzleijob.",
+      "context": "Willy Beachum (Ryan Gosling) behandelt Crawfords Fall zunächst wie einen letzten schnellen Erfolg vor dem Aufstieg. Nikki Gardner (Rosamund Pike) gehört bereits zu seiner künftigen Kanzleiwelt. Als das Verfahren scheitert, gefährdet es jedoch zugleich seinen Ruf im bisherigen Amt und die neue Stelle. Die berufliche Selbstsicherheit verstärkt seine anfängliche Nachlässigkeit gegenüber dem scheinbar erledigten Fall.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "verleih",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Nunallys Affäre mit dem Opfer und sein Angriff auf Crawford lassen die Geständnisse im Film ausschließen.",
+      "question": "Warum werden Crawfords Geständnisse in „Das perfekte Verbrechen“ als Beweise ausgeschlossen?",
+      "answers": [
+        "Der vernehmende Polizist ist Liebhaber des Opfers und hat Crawford geschlagen.",
+        "Die unterschriebenen Protokolle stammen von einem anderen Beschuldigten.",
+        "Ein Dolmetscher hat Crawfords Aussagen nachweislich falsch übertragen.",
+        "Der Richter hatte Crawford vor der Vernehmung Immunität zugesichert."
+      ],
+      "short": "Die Verstrickung und Gewalt des Polizisten untergraben die Geständnisse.",
+      "context": "Robert Nunally (Billy Burke) erkennt am Tatort seine Geliebte Jennifer Crawford (Embeth Davidtz) und greift Ted Crawford (Anthony Hopkins) an. Im Prozess wird diese Beziehung offengelegt. Auch bei der späteren Vernehmung war Nunally anwesend. Die Richterin behandelt die Aussagen deshalb als unter Druck entstanden. Beachum verliert damit die scheinbar entscheidende Stütze seiner Anklage; die Szene beschreibt die Entscheidung dieses Filmgerichts.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "kritik",
+        "dialog",
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Crawford vertritt sich im ersten Verfahren selbst.",
+      "question": "Wie gestaltet Ted Crawford (Anthony Hopkins) seine Verteidigung im ersten Prozess von „Das perfekte Verbrechen“?",
+      "answers": [
+        "Er verzichtet auf einen Anwalt und vertritt sich selbst.",
+        "Er engagiert Beachums künftige Kanzlei als Verteidigungsteam.",
+        "Er lässt sich von einem Pflichtverteidiger vertreten.",
+        "Er beauftragt einen spezialisierten Strafverteidiger seiner Versicherung."
+      ],
+      "short": "Crawford tritt zunächst als sein eigener Verteidiger auf.",
+      "context": "Ted Crawford (Anthony Hopkins) besteht trotz richterlicher Warnung auf der Selbstvertretung. Seine scheinbar ungeschickten Fragen verdecken dabei einen vorbereiteten Angriff auf die Beweislage. Im Schlussbild des Films sitzt er dagegen mit einem ganzen Anwaltsteam im Gerichtssaal. Die veränderte Besetzung seines Tisches zeigt, dass die frühere Gewissheit, das System allein kontrollieren zu können, verloren gegangen ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "dialog"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Crawford tauscht seine Pistole erst im Hotel gegen Nunallys Waffe und am Tatort wieder zurück.",
+      "question": "Wie erklärt sich in „Das perfekte Verbrechen“, dass die bei Crawford sichergestellte Pistole nie abgefeuert wurde?",
+      "answers": [
+        "Er vertauscht seine Waffe vor der Tat mit Nunallys und danach zurück.",
+        "Er lässt den Lauf der Tatwaffe während der Verhandlung austauschen.",
+        "Er schießt mit einer im Haus versteckten dritten Pistole.",
+        "Er besticht den Gutachter, damit dieser den Schusstest fälscht."
+      ],
+      "short": "Die Tatwaffe verlässt das Haus wieder mit Nunally.",
+      "context": "Ted Crawford (Anthony Hopkins) und Robert Nunally (Billy Burke) besitzen dasselbe Pistolenmodell. Crawford nutzt einen Hotelbesuch zum ersten Tausch. Bei der späteren Begegnung im Haus legen beide ihre Waffen ab; Nunally nimmt anschließend unbemerkt die benutzte Pistole wieder mit. Sein eigener Suizid schafft später eine zusätzliche Vergleichskugel. Die Lücke liegt somit in der Herkunft der untersuchten Waffe.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Jennifers Tod nach dem ersten Prozess ermöglicht im Film den neuen Vorwurf vollendeten Mordes.",
+      "question": "Welche neue Situation durchbricht Crawfords vermeintlichen Schutz nach dem Freispruch in „Das perfekte Verbrechen“?",
+      "answers": [
+        "Seine Frau stirbt erst danach; nun geht es um vollendeten Mord.",
+        "Ein Zeuge widerruft sein Alibi; damit gilt der Freispruch automatisch nicht mehr.",
+        "Ein anderer Bezirk übernimmt denselben Mordversuchsprozess unverändert.",
+        "Seine Ausreise hebt die frühere Entscheidung rückwirkend auf."
+      ],
+      "short": "Auf den Mordversuchsprozess folgt nach Jennifers Tod eine neue Mordanklage.",
+      "context": "Willy Beachum (Ryan Gosling) erkennt, dass Jennifer Crawford (Embeth Davidtz) beim ersten Verfahren noch lebte. Ted Crawford (Anthony Hopkins) lässt später ihre Beatmung beenden. Dadurch kann außerdem die Kugel aus ihrem Kopf untersucht werden. Die Schlusskonfrontation verbindet diese neue Beweismöglichkeit mit dem nun vollendeten Tötungsdelikt. Crawfords Berufung auf das Doppelbestrafungsverbot scheitert innerhalb der Filmhandlung an dieser Veränderung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "dialog",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Das perfekte Verbrechen wurde erstmals 2007 veröffentlicht.",
+      "question": "In welchem Jahr wurde „Das perfekte Verbrechen“ mit Anthony Hopkins und Ryan Gosling erstmals veröffentlicht?",
+      "answers": [
+        "2007",
+        "2001",
+        "2013",
+        "2019"
+      ],
+      "short": "Der Film erschien 2007.",
+      "context": "Gregory Hoblit hatte Ryan Gosling bereits durch „The Believer“ kennengelernt, der 2001 beim Sundance-Festival gezeigt wurde. Für den 2007 veröffentlichten Gerichtsthriller hob er Goslings Konzentration und Intelligenz als Gegenüber von Anthony Hopkins hervor. Zwischen erster Aufmerksamkeit und gemeinsamer Arbeit lagen damit mehrere Jahre. Hoblit lobte außerdem Goslings Fähigkeit, verschiedene Takes jeweils neu anzulegen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "afi",
+        "fbw"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Gregory Hoblit führte die alleinige Hauptregie.",
+      "question": "Wer führte bei „Das perfekte Verbrechen“ mit Anthony Hopkins und Ryan Gosling Regie?",
+      "answers": [
+        "Gregory Hoblit",
+        "Gary Fleder",
+        "Andrew Davis",
+        "Jon Amiel"
+      ],
+      "short": "Gregory Hoblit inszenierte den Film.",
+      "context": "Für Hoblit ging die Anlage des Films besonders von der ersten Begegnung zwischen Ted Crawford (Anthony Hopkins) und Willy Beachum (Ryan Gosling) aus: Der junge Ankläger glaubt, einen sicheren Fall vor sich zu haben. Hopkins wiederum lobte die knappe, präzise Sprache des Drehbuchs. Die Inszenierung konzentriert den Konflikt dadurch auf kleine Verschiebungen der Macht zwischen zwei Gesprächspartnern.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview",
+        "hopkins",
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

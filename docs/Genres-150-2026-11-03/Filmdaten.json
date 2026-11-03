@@ -26363,6 +26363,468 @@
       "reference_question_id": "G150-20261103-HORROR-050-L1",
       "year_question_id": "G150-20261103-HORROR-050-Y",
       "director_question_id": "G150-20261103-HORROR-050-D"
+    },
+    {
+      "id": "THRILLER-017",
+      "film_title_de": "Der Klient",
+      "film_title_original": "The Client",
+      "film_year": 1994,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: breit bekannter Grisham-Thriller mit Susan Sarandon und Tommy Lee Jones; die Kind-Anwältin-Konstellation ist leicht wiederzuerkennen.",
+      "directors": [
+        "Joel Schumacher"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1994 nach Regency und AFI. Regency belegt regulären Start 20. Juli 1994; AFI nennt ihn ebenfalls und führt bereits eine Variety-Besprechung 13. Juni 1994. Der in anderen Datenbanken genannte Burbank-Termin 6. Juni 1994 verändert das Jahr nicht; ein genauer weltweit erster Tag wird nicht behauptet.",
+      "director_note": "Joel Schumacher alleinige Hauptregie nach AFI, Regency und konkretem Warner-Vertriebsdatensatz; Goldsman/Getchell sind die Drehbuchautoren.",
+      "country_note": "United States ausdrücklich bei AFI und Apple/Warner. Aus niederländischen Firmenbezeichnungen im Copyright wird kein zusätzliches Produktionsland abgeleitet.",
+      "series": null,
+      "series_note": "Eigenständige Filmadaption. Die anschließende gleichnamige Fernsehserie 1995–1996 ist keine nummerierte Folge einzelner Filme; andere Grisham-Adaptionen bilden ebenfalls keine gemeinsame Filmhandlung.",
+      "series_sources": [
+        "https://www.newregency.com/movies/the-client",
+        "https://en.wikipedia.org/wiki/The_Client_(1994_film)"
+      ],
+      "sources": [
+        {
+          "key": "regency",
+          "url": "https://www.newregency.com/movies/the-client",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen offiziellen Produktionswerktext tatsächlich gelesen: Start 20. Juli 1994, Mafiaanwalt verrät Senator-Leichenversteck, Mark elfjährig, Foltriggs Medieninteresse, Reggies Hilfe und alleinige Regie Schumacher. Ungenaue District-Attorney-Kurzbezeichnung gegen U.S.Attorney der Credits abgegrenzt."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/59765",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen kompakten AFI-Datensatz gelesen: USA 1994, alleinige Hauptregie Schumacher, Autoren, Besetzung, Start 20. Juli und Grisham-Roman 1993. Außerhalb 1893–1993; keine ausführliche AFI-Filmhandlung behauptet."
+        },
+        {
+          "key": "warner",
+          "url": "https://tv.apple.com/us/movie/the-client/umc.cmc.7no2bms9p7tdranea4gcyoez",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen konkreten Warner-Vertriebswerktext gelesen: Junge zwischen FBI und Mafia, Anwältin zum Schutz seines Schweigens, Regie, USA und Veröffentlichungsjahr 1994. Preisbiografien im Werbetext nicht automatisch als Auszeichnung dieses Films verwendet."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/the-client-1994",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen indexierten Kritiktext gelesen: Mark/Reggie-Vertrauen, Sorgerechtsverlust der Anwältin, Debüt Renfro aus Knoxville mit Schultheatererfahrung, Foltriggs Pressepersona und Risiken der gemeinsamen Schlussermittlung. Kritische Wertungen nicht als objektive Filmgüte übernommen."
+        },
+        {
+          "key": "ethik",
+          "url": "https://olpr.mncourts.gov/wp-content/uploads/1994/11/Ethics-at-the-Movies.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen zeitgenössischen Primärbeitrag der Leiterin der Minnesota-Berufsaufsicht gelesen, insbesondere konkrete Filmszenen: ein Dollar Honorar, heimlicher Tonmitschnitt des Erstgesprächs mit Ermittlern, gegensätzlicher Druck und Zeugenschutzabschluss. Die historischen Minnesota-Regeln dienen nicht als heutige allgemeine Rechtsauskunft; versehentliches Reggis im Aufsatz nicht übernommen."
+        },
+        {
+          "key": "filmton",
+          "url": "https://www.subtitlecat.com/subs/192/The.Client.1994.720p.BluRay.H264.AAC-RARBG.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche ausführliche indexierte Filmtonpassagen gelesen: Ermittler leugnen Befragung ohne Mutter, Reggie spielt Mark/Ermittler-Aufnahme vor und droht mit Veröffentlichung; Zeugenschutzgespräch und Reggies Kinder-/Vertrauenskonflikt. Nur Textlektüre, kein Abspielen einer Filmdatei behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Client_(1994_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige konkrete Handlung gelesen: Boathouse-Leiche, Muldano/Sulari, Flucht und Nachbarschaftsalarm, Schutz/medizinische Behandlung, Abschied; Besetzung und spätere Fernsehserie. Nicht mit Details der Romanfassung vermischt."
+        },
+        {
+          "key": "schumacher",
+          "url": "https://www.vulture.com/2020/06/joel-schumacher-in-conversation.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkrete tatsächliche Primärinterviewpassage zum Renfro-Casting gelesen. Wegen25-Wort-Limit ausschließlich der kurze Sachverhalt ‚kein trainierter Kinderstar, sondern glaubwürdiger regionaler Akzent‘ im D-Kontext daraus; übrige Lebensgeschichte nicht verwendet."
+        },
+        {
+          "key": "academy",
+          "url": "https://www.oscars.org/oscars/ceremonies/1995",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige Hauptdarstellerinnenkategorie tatsächlich gelesen: Sarandon für The Client 1995 nominiert, Jessica Lange für Blue Sky Siegerin, Verleihung 27. März 1995 für Filme 1994."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-017-L1",
+      "year_question_id": "G150-20261103-THRILLER-017-Y",
+      "director_question_id": "G150-20261103-THRILLER-017-D"
+    },
+    {
+      "id": "THRILLER-018",
+      "film_title_de": "Die Akte",
+      "film_title_original": "The Pelican Brief",
+      "film_year": 1993,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: populärer Grisham-Politthriller mit Julia Roberts und Denzel Washington, dessen deutscher Titel und Hauptpaar breiter bekannt sind als einzelne Nebenfiguren.",
+      "directors": [
+        "Alan J. Pakula"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 1993. AFI belegt reguläre Eröffnungen in Los Angeles und New York am 17. Dezember 1993 sowie eine frühere private White-House-Vorführung am 10. Dezember. Keine abweichende frühere öffentliche Aufführung in einem anderen Jahr gefunden. Copyrightregistrierung 1994 ist kein Filmstart.",
+      "director_note": "Alan J. Pakula alleinige Hauptregie und endgültiger Drehbuchcredit nach AFI; Pieter Jan Brugge ist Mitproduzent, Stephen Goldblatt Kameramann, keine zusätzlichen Hauptregisseure.",
+      "country_note": "United States ausdrücklich nach AFI-Werkdaten. US-Drehorte New Orleans, Washington und Montecito getrennt von Produktionsland geprüft.",
+      "series": null,
+      "series_note": "Eigenständige Grisham-Adaption ohne belegte nummerierte Filmfortsetzung. Die Firma und Der Klient sind andere Stoffe, keine Folgen derselben Filmhandlung.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/59627-THE-PELICAN-BRIEF"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/59627-THE-PELICAN-BRIEF",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche Produktionsgeschichte und gesamte ausführliche Handlung per HTML-Abruf gelesen: Hauptregie/Land/Credits, Roman 1992, Entwicklung 1991–93, private Vorführung 10. Dezember 1993 und öffentlicher Start 17. Dezember. Richterattentate, Callahan-Verheek-Kette, Mattieces Umweltschutzprozess, Schließfachbelege und Schlussfolgen. Abweichendes Charles/Curtis Morgan im Cast anhand tatsächlicher Handlung/Filmton nicht als Namensquiz benutzt."
+        },
+        {
+          "key": "afiwerk",
+          "url": "https://watch.afi.com/movie/the-pelican-brief",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten offiziellen indexierten Werk-/Creditsdatensatz gelesen: USA,17. Dezember 1993, vollständige Hauptregie Pakula, Drehbuch, Kamera und Team. Kein Video abgespielt oder als angesehen behauptet."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/the-pelican-brief-1993",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen indexierten zeitgenössischen Kritiktext gelesen: Darby als Jurastudentin, unterschiedlich orientierte ermordete Richter, Callahan als Professor/Geliebter, Reporter Grantham, ruhige Spannung über Schatten und Verstecke. Eberts Wertungen als solche behandelt, nicht zum Faktenbeleg der Schlussenthüllung umgedeutet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Pelican_Brief_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte konkrete Handlung und Besetzung tatsächlich gelesen: Khamel tötet und ersetzt Verheek, Öl-/Pelikanhabitat als Motiv, Morgan/Garcia, Schließfach mit Video und Dokumenten, Voyles, politischer Ausgang. Keine Romanfortsetzung als Filmreihe konstruiert."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.stockq.org/moviescript/P/pelican-brief-the.php",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche ausführliche Filmtonabschnitte gelesen: Richtermotive am Anfang; gesamte Morgan-Suche über Kanzlei/Witwe/Schließfach bis zum vorgelesenen Affidavit und aufgezeichneten kodierten Memo; abschließend Voyles über auf Tonband gesichertes Back-off des Präsidenten, CIA-Rupert und Darbys Abreise. Zeichnungsnamen-/Transkriptionsfehler nicht übernommen."
+        },
+        {
+          "key": "mountvernon",
+          "url": "https://www.mountvernon.org/preservation/mount-vernon-ladies-association/mount-vernon-through-time/the-pelican-brief",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen Primärbericht der Drehortinstitution gelesen: East Lawn im Juli 1993, Washington/Grantham und Lithgow/Keen treffen sich wegen vermuteter Überwachung; Roman-Autofahrt für dramatischeren Ort umgeschrieben, Statisten/Institutionsteam beteiligt. Die eingebundene Videodatei nicht als angesehen behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-018-L1",
+      "year_question_id": "G150-20261103-THRILLER-018-Y",
+      "director_question_id": "G150-20261103-THRILLER-018-D"
+    },
+    {
+      "id": "THRILLER-019",
+      "film_title_de": "Das Urteil – Jeder ist käuflich",
+      "film_title_original": "Runaway Jury",
+      "film_year": 2003,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: prominenter Grisham-Gerichtsthriller mit vier weithin bekannten Hauptdarstellern; die Jury-Manipulation gehört zu den bekannteren Stoffen dieser Phase.",
+      "directors": [
+        "Gary Fleder"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2003 nach konkretem AFI-Katalog und AFI-Werkdaten; regulärer US-Start 17. Oktober 2003. Ein andernorts angeführter US-Premierentermin 9. Oktober fällt in dasselbe Jahr. Kein früheres abweichendes Festivaljahr in den geprüften Werkangaben gefunden.",
+      "director_note": "Gary Fleder alleinige Hauptregie nach konkretem AFI-Credit und den gelesenen Produktionsaussagen. Schumacher, Cuarón und Newell gehörten zu früheren Entwicklungsständen, nicht zum Regieteam des fertigen Films.",
+      "country_note": "United States ausdrücklich nach AFI. Firmenpartnernamen und internationale Verwertung werden nicht in zusätzliche Länder umgedeutet.",
+      "series": null,
+      "series_note": "Eigenständige Adaption. Die Titel Das Urteil von Nürnberg und andere Grisham-Filme sind keine nummerierten Vorgänger dieser Handlung.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/62887-RUNAWAY-JURY"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/62887-RUNAWAY-JURY",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen kompakten indexierten Katalogdatensatz gelesen: USA 2003, Öffnungen 17. Oktober, Fleder allein, vier Drehbuchautoren, Hauptbesetzung und Roman 1996. Keine lange AFI-Handlung vorhanden oder behauptet."
+        },
+        {
+          "key": "afiwerk",
+          "url": "https://watch.afi.com/movie/runaway-jury",
+          "accessed_on": "2026-11-03",
+          "supports": "Konkreten offiziellen indexierten Werktext/Credits gelesen: Zivilklage einer Witwe, Manipulation/Diebstahl der Jury, Hauptregie und 17. Oktober 2003. Kein Filmvideo angesehen."
+        },
+        {
+          "key": "ebert",
+          "url": "https://www.rogerebert.com/reviews/runaway-jury-2003",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen indexierten Kritiktext gelesen: Waffenherstellerfall, Fitchs Überwachungsmontage, Easter/Marlee-Angebot, patriotisches Jury-Manöver und Figurenbesetzung. Eberts Plausibilitätskritik von Tatsachen der Filmhandlung getrennt."
+        },
+        {
+          "key": "cusack",
+          "url": "https://clclt.com/film-2/runaway-success-2352448/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen Primärinterviewtext Bert Osbornes gelesen: Cusack über Wortlosigkeit/Beobachten im Jurykasten, bewussten Wechsel von Tabak zu Waffen, Bezug auf The Insider, Zusammenarbeit mit Hackman/Hoffman. Filmessay-Verallgemeinerungen nicht als Gesetzeswissen genutzt."
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.rediff.com/movies/report/jury/20031017.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständigen tatsächlichen zeitgenössischen Artikel gelesen: ausdrücklich gekennzeichnete Produktionsnotizen-Stimmen von Hackman/Hoffman und Fleders konkrete Angabe fünfstündige Probe/zwölfstündiger Dreh der Waschraumszene; Tabak→Waffen-Adaption und erstes gemeinsames Filmspiel. Kein eigener Zugriff auf Originalpresskit behauptet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Runaway_Jury",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte konkrete Handlung und Besetzung tatsächlich gelesen: Jury-Vereidigung als Machtdemonstration, Rohr zahlt nicht, Schulmassaker/Gardner-Vorgeschichte, Fitchs frühere Einflussnahme, Überweisungsbeleg und Rückzugsdruck. Schlussbetrag nicht mit einheitlichem Gesamt-Schadensersatz verwechselt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=runaway-jury",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche ausführliche Filmtonabschnitte gelesen: Anfang bis Jury-Auswahl/Überwachung; Marlees patriotische Ansage und komplette Pledge-Szene; gesamter Schlussabschnitt abRohrs Zahlungsverweigerung über Gardner-Hintergrund/Urteil bis Übergabe des Bestechungsbelegs und angekündigter Hilfe für Opferfamilien. Film-Justiz nicht als reale Rechtsberatung verwendet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-019-L1",
+      "year_question_id": "G150-20261103-THRILLER-019-Y",
+      "director_question_id": "G150-20261103-THRILLER-019-D"
+    },
+    {
+      "id": "THRILLER-020",
+      "film_title_de": "Das perfekte Verbrechen",
+      "film_title_original": "Fracture",
+      "film_year": 2007,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Gerichtsthriller mit Anthony Hopkins und Ryan Gosling; die beiden Hauptdarsteller erleichtern die Wiedererkennung gegenüber einzelnen Fallmechanismen.",
+      "directors": [
+        "Gregory Hoblit"
+      ],
+      "production_countries": [
+        "USA",
+        "Deutschland"
+      ],
+      "release_note": "Erstjahr 2007 nach konkretem AFI-Werkdatensatz mit US-Eröffnungen am 20. April und Verleiher-Werkdaten. Die FBW führt 2006 als Produktionsjahr; ihr deutscher Kinostart ist 17. Mai 2007. Produktionsjahr und Erstveröffentlichung getrennt, kein belegter öffentlicher Start 2006 in den gelesenen Angaben.",
+      "director_note": "Gregory Hoblit alleinige Hauptregie nach AFI, FBW und Primärinterview; Drehbuchautoren Daniel Pyne und Glenn Gers sind keine Mitregisseure.",
+      "country_note": "Germany und United States ausdrücklich im konkreten AFI-Datensatz und beim Verleiher Apple TV. FBW nennt nur USA, die umfangreichere institutionelle Länderangabe führt hier. Kein Schluss allein aus deutschem Firmennamen.",
+      "series": null,
+      "series_note": "Eigenständiger Fall. Die früheren Hoblit-Gerichtsthriller Zwielicht und Angeklagt sind keine nummerierten Folgen mit denselben Figuren.",
+      "series_sources": [
+        "https://catalog.afi.com/Catalog/moviedetails/64266",
+        "https://emanuellevy.com/interviews/fracture-ryan-gosling-2/"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/64266",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen vollständigen kompakten indexierten Werkdatensatz gelesen: USA/Deutschland ausdrücklich, US-Start 20. April 2007, Hoblit allein, Pyne/Gers und vollständige Figurenbesetzung. Kein langer AFI-Plot behauptet."
+        },
+        {
+          "key": "verleih",
+          "url": "https://tv.apple.com/gb/movie/fracture/umc.cmc.6o5lwnb7ubdutwfdcnpelbjjv",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche Verleiher-Werkbeschreibung und Länder-/Jahres-/Regieangaben gelesen: USA und Germany, 2007, Gregory Hoblit, Ankläger vor Wechsel in private Kanzlei. Kein Film abgespielt."
+        },
+        {
+          "key": "fbw",
+          "url": "https://www.fbw-filmbewertung.com/film/das_perfekte_verbrechen",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen Werkdatensatz und ausführliche Jurybegründung gelesen: deutscher Titel/Start 17. Mai 2007, abweichend Produktionsjahr 2006, Hoblit/Pyne/Gers, konstruierter intellektueller Gerichtszweikampf. FBW-Arthouse-Rubrik nicht automatisch als redaktionelle Kategorie übernommen."
+        },
+        {
+          "key": "interview",
+          "url": "https://emanuellevy.com/interviews/fracture-ryan-gosling-2/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Primärinterviewtext gelesen: Hoblit über erste Verhörszene, Entdeckung Goslings mit The Believer/Sundance 2001 und Arbeitsweisen; Gosling über Berufsdruck und Crawford-Duell. Nicht die zweifelhafte Laufzeitangabe zu Hopkins übernommen."
+        },
+        {
+          "key": "hopkins",
+          "url": "https://www.female.com.au/anthony-hopkins-fracture-slipstream-interview.htm",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen vollständigen Fischer-Primärinterviewtext gelesen: Hopkins über präzise, knappe Drehbuchsprache und klares Erzählen in Fracture. Aussagen über seinen eigenen Film Slipstream nicht auf Hoblits Regie übertragen."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Fracture_(2007_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte tatsächliche Handlung/Cast gelesen: Ingenieur Crawford, Selbstvertretung, Nunally als Liebhaber, ausgeschlossene Geständnisse, doppelte Waffenvertauschung und neuer Mordvorwurf nach Jennifers Tod. Schluss mit tatsächlichem Filmton abgeglichen, keine allgemeine Rechtsregel aus Film abgeleitet."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=fracture",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche ausführliche Filmtonabschnitte gelesen: Anfang/Nunally-Festnahme, Selbstvertretung und gesamtes Verhör-/Ausschlussgespräch; Krankenhausende und komplette Schlusskonfrontation ab Waffenidentität bis neue Mordanklage. Kein abweichendes Drehbuchende verwendet."
+        },
+        {
+          "key": "kritik",
+          "url": "https://filmsinreviewarchives.com/2007/04/20/fracture/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte tatsächliche Victoria-Alexander-Kritik per HTML-Abruf gelesen: Frau lebt im Koma, Berufswechsel Beachums, Nunally als Liebhaber und Ausschluss des Geständnisses, Scheitern des vermeintlich leichten Falls. Wertungen und psychiatrische Laienetiketten nicht übernommen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-020-L1",
+      "year_question_id": "G150-20261103-THRILLER-020-Y",
+      "director_question_id": "G150-20261103-THRILLER-020-D"
+    },
+    {
+      "id": "THRILLER-021",
+      "film_title_de": "Michael Clayton",
+      "film_title_original": "Michael Clayton",
+      "film_year": 2007,
+      "subdomain": "Thriller",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Clooney-Thriller mit prominenter Besetzung und breiter Preiswahrnehmung; konkrete Beweisfunde und Montageentscheidungen verlangen genauere Filmkenntnis.",
+      "directors": [
+        "Tony Gilroy"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstjahr 2007, Venedig-Wettbewerb im offiziellen Biennale-Archiv bestätigt. Die konkrete Archivkarte enthält keinen Kalendertag; den häufig genannten 31. August nur ergänzend im vollständigen Handlungs-/Releaseartikel gelesen. AFI Watch nennt den breiten US-Start 12. Oktober, nicht die erste Festivalaufführung.",
+      "director_note": "Tony Gilroy alleiniger Hauptregisseur und Autor nach Biennale/AFI. John Gilroy ist Cutter, Sydney Pollack Darsteller und Produzent; Christopher Goode führt die zweite Einheit, keine zusätzliche Hauptregie.",
+      "country_note": "USA ausdrücklich nach Biennale-Nationalität und AFI-Werkdaten. Internationale Verwertung durch Summit erzeugt keine weiteren Produktionsländer.",
+      "series": null,
+      "series_note": "Eigenständige Handlung. Duplicity ist ein späterer Film mit demselben Regisseur und Cutter, keine Fortsetzung der Michael-Clayton-Figuren.",
+      "series_sources": [
+        "https://asac.labiennale.org/attivita/cinema/52682",
+        "https://cinemontage.org/editor-leaves-mark-michael-clayton/"
+      ],
+      "sources": [
+        {
+          "key": "biennale",
+          "url": "https://asac.labiennale.org/attivita/cinema/52682",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche offizielle Archivkarte gelesen: Venedig 64 Wettbewerb 2007, Tony Gilroy alleinige Regie/Drehbuch, USA, Produzenten, Kamera Elswit, Schnitt John Gilroy und Besetzung. Kein auf der Karte fehlender Tagesplan behauptet."
+        },
+        {
+          "key": "afi",
+          "url": "https://watch.afi.com/movie/michael-clayton",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche vollständige offizielle Werkbeschreibung/Teamdaten gelesen: ehemaliger Ankläger und Kanzlei-Fixer, Schulden, Edens sabotiert U-North-Verteidigung, Tony allein, USA, breiter US-Start 12. Oktober 2007. Kein Video angesehen."
+        },
+        {
+          "key": "schnitt",
+          "url": "https://cinemontage.org/editor-leaves-mark-michael-clayton/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Primärbericht von John Gilroys Cuttergespräch gelesen: 2007 Debüt/2009 Duplicity, vorab montierte Camcorder-Skizzen/Papppferde, Dämmerungsdreh, Buch-Pferdebild nach Testvorführung, breite einsame Bildräume und bewusste Unschärfe Crowders im Schlussgang."
+        },
+        {
+          "key": "kamera",
+          "url": "https://icgmagazine.com/2007/sept/sept07.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Geffner-/Elswit-Primärtext gelesen: 1970er-Bildbezüge, Materialien/Licht, vier Tage Rückblende, Anschlag, Arthur-Gespräch und komplette Schlusskonfrontation mit aufgezeichnetem Zehnmillionenangebot/NYPD. Vereinzelte falsche Ortsangabe Omaha statt Milwaukee nicht übernommen."
+        },
+        {
+          "key": "tiere",
+          "url": "https://www.americanhumane.org/production/michael-clayton/",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen vollständigen Tieraktionsbericht gelesen: drei Pferde, Clayton steigt aus, Explosion; Tiere und Explosion getrennt gefilmt, Nahreaktion Greenscreen, spätere Zusammenfügung. Keine reale Explosion bei den Pferden behauptet."
+        },
+        {
+          "key": "gilroy",
+          "url": "https://www.sknr.net/2008/06/21/tony-gilroy-on-michael-clayton/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamten tatsächlichen Primär-Gruppeninterviewbericht gelesen: moralische Grauzonen/Arbeit, Vorbild 1970er-Filme, rechtliche Freigaben U-North-Marke, Drehdebutbedingungen und aufwendige Pferdeszene. Interviewzusammenfassung nicht als wörtliches Transkript bezeichnet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Michael_Clayton",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte konkrete Handlung/Cast/Releaseangaben gelesen: Arthur entlarvt bewusst gefährliches Unkrautmittel, Mord als Überdosis getarnt, Beleg im Fantasybuch und 3000 Kopien, Bombenanschlag und Schlussmitschnitt. Nur die dafür nötigen Handlungsziele abgeleitet, Quellenbreite über Primärtexte hergestellt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=michael-clayton",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche Filmtonpassagen gelesen: vollständiger Anfangsmonolog Edens, Kanzleikriseschilderung, Kameraden-Voicemail, sowie gesamte finale Crowder-Konfrontation bis Polizeizugriff und Taxifahrt. Zehnmillionensumme und Einverständnis im Filmton bestätigt; stumme Belegsuche nicht allein aus Dialog behauptet."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-021-L1",
+      "year_question_id": "G150-20261103-THRILLER-021-Y",
+      "director_question_id": "G150-20261103-THRILLER-021-D"
+    },
+    {
+      "id": "THRILLER-022",
+      "film_title_de": "State of Play – Stand der Dinge",
+      "film_title_original": "State of Play",
+      "film_year": 2009,
+      "subdomain": "Thriller",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Redaktionelle Einschätzung: bekannter Polit- und Journalistenthriller mit Russell Crowe, Ben Affleck und Helen Mirren; konkrete Beweisspuren sind erheblich weniger geläufig als die Besetzung.",
+      "directors": [
+        "Kevin Macdonald"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Japan",
+        "Deutschland",
+        "Frankreich",
+        "USA"
+      ],
+      "release_note": "Erstjahr 2009. Konkreter AFI-Katalog nennt US-Eröffnungen am 17. April 2009; Working Title nennt seinen Veröffentlichungstermin 24. April. Die britische TV-Vorlage stammt aus 2003 und ist nicht dieselbe Filmfassung. Kein früheres abweichendes öffentliches Filmjahr gefunden.",
+      "director_note": "Kevin Macdonald alleinige Hauptregie nach konkretem AFI-Katalog, Produzentenseite und Pressbook. Doug Coleman ist Second Unit Director; Drehbuchautoren Carnahan/Gilroy/Ray und Serienautor Abbott sind keine weiteren Hauptregisseure.",
+      "country_note": "Alle fünf Länder ausdrücklich im konkreten AFI-Katalogdatensatz. AFI Watch und der ergänzende Handlungsartikel nennen nur Großbritannien/USA/Frankreich; diese kürzeren Angaben sind dokumentiert. Die umfangreichere konkrete institutionelle Länderauflistung führt, keine Ableitung aus Drehorten oder Firmenadresse.",
+      "series": null,
+      "series_note": "Eigenständige Filmadaption der BBC-Miniserie von 2003, keine Fortsetzungsfolge dieser Fernsehhandlung. Gleichnamige Miniserie und Film nicht als nummerierte Kinoreihe zusammengefasst.",
+      "series_sources": [
+        "https://www.workingtitlefilms.com/film/state-of-play/",
+        "https://catalog.afi.com/Film/64996-STATE-OF-PLAY",
+        "https://diazilla.com/doc/497901/state-of-play---pressbook-ita-completo"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/64996-STATE-OF-PLAY",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen vollständigen kompakten Katalogdatensatz gelesen: 2009/US-Eröffnungen 17. April, Kevin Macdonald allein, drei Drehbuchautoren, Vorlage Paul Abbott, Cast und ausdrücklich United Kingdom/Japan/Germany/France/United States. Kein langer AFI-Plot behauptet."
+        },
+        {
+          "key": "produzent",
+          "url": "https://www.workingtitlefilms.com/film/state-of-play/",
+          "accessed_on": "2026-11-03",
+          "supports": "Vollständige tatsächliche Produzentenseite gelesen: 24. April 2009 als Veröffentlichungstermin, Reporter McAffrey, politischer Komplott, alleinige Hauptregie und vollständige Drehbuchcredits, TV-Serienvorlage. Eingebetteten Trailer nicht als angesehen behauptet."
+        },
+        {
+          "key": "pressbook",
+          "url": "https://diazilla.com/doc/497901/state-of-play---pressbook-ita-completo",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche italienische Universal-Presseunterlage in vollständiger Textreproduktion gezielt gelesen: gesamter Vorspann und Produktionsteil Seiten 2–5, PointCorp/Foy/Bingham-Cast Seite 7, Drehorte/gedruckter Globe und Kameras Seiten 9–10, konkrete Endcredits. 2003 BBC-Erstausstrahlung, 2004 Rechtekauf, 2009 Film; Prieto erklärt anamorphes Filmbild für Journalisten und Genesis-Digitalbild für Politik. Nicht ungelesene Biografien als vollständig ausgewertet behauptet; Originaldatei nicht selbst beim Verleiher abgerufen."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.indielondon.co.uk/Film-Review/state-of-play-kevin-macdonald-interview/",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamtes tatsächliches Macdonald-Primärinterview gelesen: Pitt-Abgang, Crowe-Wahl, Charakterfilm im Thriller, ökonomischer Gegensatz Print/Online, Bloggerin und alter Printreporter, gestrichener Woodward-Auftritt. Gestrichene Szenen nicht als fertige Filmhandlung genutzt."
+        },
+        {
+          "key": "kamera",
+          "url": "https://www.icgmagazine.com/web/got-my-back/amp/",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächlichen vollständigen State-of-Play-Abschnitt des Prieto/Moreno-Primärberichts gelesen: digitale Teilaufnahmen neben freier Handkamera, Genesis und Farbvorbereitung am Set, technische Lösung bei Zugaufnahme. Nachfolgende Hachiko-/Fernsehbeispiele nicht auf diesen Film übertragen."
+        },
+        {
+          "key": "kritik",
+          "url": "https://bluray.highdefdigest.com/2497/stateofplay.html",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche vollständige Filmkritik und Bildbesprechung gelesen: früherer College-Mitbewohner Collins, PointCorp-Untersuchung, Recherchekonflikt, Della als Bloggerin, Kameraunterschiede Crowe-Anamorph/Affleck-Digital. Disc-Veröffentlichung September nicht mit Filmstart verwechselt."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/State_of_Play_(film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Gesamte konkrete Handlung/Cast tatsächlich gelesen: Foys Rekrutierung Sonias, vorläufige PointCorp-Theorie, Anne nennt nicht mitgeteilte Monatssumme, Bingham-Vorgeschichte und Collins' Überwachungsauftrag, abschließende Publikation. Hintergrundberichte von Filmhandlung getrennt."
+        },
+        {
+          "key": "dialog",
+          "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=state-of-play",
+          "accessed_on": "2026-11-03",
+          "supports": "Tatsächliche ausführliche Filmtonabschnitte gelesen: Anfang bis PointCorp-Anhörung/Redaktion, gesamter Foy-Verhörabschnitt, vollständiger Schluss ab Anne nennt 26000 über Manuskriptstopp/Collins-Bingham-Konfrontation bis Polizeieingriff und Abgabe des Artikels. Collins bestreitet Mordauftrag, bestätigt nur Beschattung; das nicht zu geplantem Mordbefehl verschärft."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-022-L1",
+      "year_question_id": "G150-20261103-THRILLER-022-Y",
+      "director_question_id": "G150-20261103-THRILLER-022-D"
     }
   ],
   "series_updates": [
