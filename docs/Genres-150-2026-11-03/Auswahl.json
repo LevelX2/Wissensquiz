@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 406 Filmfassungen mit 3248 Fragen lokal integriert. 95 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 409 Filmfassungen mit 3272 Fragen lokal integriert. 92 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -5843,23 +5843,27 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Samurai- und Schwertkampffilm mit übernatürlich wiedererweckten Kämpfern.",
+      "selection_reason": "Der Samurai-Fantasyfilm verbindet persönliche Schwertduelle mit einem Angriff auf die politische Ordnung. Menschliche Opfer, religiöse Enttäuschung und der Kampf gegen einen eigenen Angehörigen geben den übernatürlichen Gegnern unterschiedliche Bedeutungen.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-005"
     },
     {
       "candidate_id": "C-101",
       "film_title_de": "What Price Survival",
-      "film_title_original": "Du bei dao zhi qing",
+      "film_title_original": "'94 Du bi dao zhi qing",
       "film_year": 1994,
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Schwertkämpfer erfährt nach seiner Ausbildung eine Wahrheit über seine Herkunft.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Daniel Lees visuell eigenwilliges Debüt erneuert den Mythos des einarmigen Schwertkämpfers als düsteres Familiendrama. Kampfkapitel, eine manipulierte Herkunft und die Selbstverstümmelung als später Abschluss statt Ausgangspunkt begründen auch die Arthouse-Zuordnung innerhalb des stilisierten Genrefilms.",
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-006"
     },
     {
       "candidate_id": "C-102",
@@ -5897,10 +5901,11 @@
       "genre": "Martial Arts & Asia-Film",
       "familiarity_level": 4,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Chilenischer Martial-Arts-Film verbindet Nahkampf mit einer lokalen Figuren- und Milieuwelt.",
+      "selection_reason": "Straßenkampf, Liebesgeschichte und ein alter Rachekonflikt werden im Santiagoer Viertel Patronato verankert. Zwei Originalinterviews erklären die eigens entwickelte Akrobatik und den bewusst überhöhten Erzählton.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "MARTIALARTS-009"
     },
     {
       "candidate_id": "C-105",
