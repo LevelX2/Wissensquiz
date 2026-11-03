@@ -1,0 +1,262 @@
+{
+  "id": "ACTION-003",
+  "film_title_de": "Beverly Hills Cop – Ich lös’ den Fall auf jeden Fall",
+  "film_title_original": "Beverly Hills Cop",
+  "film_year": 1984,
+  "genre": "Action",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 1,
+  "familiarity_reason": "Eddie Murphys Axel Foley und die Musik sind weithin bekannte Kennzeichen eines prägenden Achtzigerjahre-Films.",
+  "selection_reason": "Eine der prägenden Actionkomödien der Achtziger. Die Aufnahme in das US-National-Film-Registry und die AFI-Einordnung begründen zusätzlich Classics; die Genrezuordnung bleibt Action.",
+  "directors": [
+    "Martin Brest"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart am 5. Dezember 1984 laut AFI; keine frühere öffentliche Filmvorführung in den geprüften Quellen ausgewiesen.",
+  "director_note": "Martin Brest führte beim ersten Film Regie; spätere Teile haben andere Regisseure.",
+  "country_note": "",
+  "series": {
+    "name": "Beverly Hills Cop",
+    "position": 1,
+    "note": "Reihenfolge der veröffentlichten Filme dieser Filmreihe."
+  },
+  "series_note": "Zählung der veröffentlichten Spielfilme, ohne den nicht ausgestrahlten Fernsehpiloten.",
+  "series_sources": [
+    "https://www.netflix.com/tudum/articles/beverly-hills-cop-axel-f-release-date-plot",
+    "https://en.wikipedia.org/wiki/Beverly_Hills_Cop_(franchise)"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/68338-BEVERLY-HILLS-COP",
+      "accessed_on": "2026-11-03",
+      "supports": "US-Start, offizielle Credits, Rollen und Handlung einschließlich der gestohlenen deutschen Inhaberpapiere."
+    },
+    "paramount": {
+      "url": "https://www.paramountpictures.com/movies/beverly-hills-cop",
+      "accessed_on": "2026-11-03",
+      "supports": "Verleihsynopsis, Herkunft Detroit, Mord an einem Freund, Regie und Komponist; die gelesene Suchfassung der offiziellen Filmseite war zugänglich, Direktabruf zeitweise umgeleitet."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Beverly_Hills_Cop",
+      "accessed_on": "2026-11-03",
+      "supports": "Bananen im Auspuff, Galerie und Drogenhandel, Mikey, Musik und Fortsetzungen."
+    },
+    "entstehung": {
+      "url": "https://www.afi.com/news/beverly-hills-cop-afi-catalog-spotlight/",
+      "accessed_on": "2026-11-03",
+      "supports": "Entstehung mit zeitweilig vorgesehenem Sylvester Stallone, Wechsel zu Murphy, improvisierte Überarbeitungen, Erfolg 1984 und Film-Registry-Aufnahme."
+    },
+    "reihe": {
+      "url": "https://www.netflix.com/tudum/articles/beverly-hills-cop-axel-f-release-date-plot",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Einordnung von Axel F als vierte Rückkehr mit Bezug auf den ersten Film von 1984 und die alten Figuren."
+    },
+    "registry": {
+      "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Eintrag: Filmjahr 1984 und Aufnahmejahr 2024."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Axel Foley kommt aus Detroit.",
+      "question": "Aus welcher Stadt reist Axel Foley (Eddie Murphy) im ersten „Beverly Hills Cop“ nach Kalifornien?",
+      "answers": [
+        "Detroit",
+        "Chicago",
+        "Boston",
+        "New York"
+      ],
+      "short": "Axel Foley ist Polizist in Detroit.",
+      "context": "In Beverly Hills fallen Axel Foleys (Eddie Murphy) Kleidung, Umgangsformen und improvisierte Methoden auf. Die örtlichen Ermittler Billy Rosewood (Judge Reinhold) und John Taggart (John Ashton) sollen ihn zunächst beaufsichtigen. Erst gemeinsame Erlebnisse machen aus dem lästigen Außenseiter einen Kollegen, dessen Fähigkeiten sie anerkennen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der Mord an Mikey Tandino löst Axels private Ermittlungsreise aus.",
+      "question": "Was bewegt Axel Foley (Eddie Murphy) im ersten „Beverly Hills Cop“ dazu, entgegen den Erwartungen seines Vorgesetzten privat zu ermitteln?",
+      "answers": [
+        "Ein Jugendfreund wird ermordet.",
+        "Sein Vater wird wegen eines Raubs verhaftet.",
+        "Seine Tochter verschwindet nach einer Reise.",
+        "Sein Partner flieht mit beschlagnahmtem Geld."
+      ],
+      "short": "Der Mord an seinem Freund Mikey Tandino führt Axel nach Beverly Hills.",
+      "context": "Mikey Tandino (James Russo) besucht Axel Foley (Eddie Murphy) in Detroit und zeigt ihm gestohlene Wertpapiere. Kurz darauf wird er getötet. Axel nimmt Urlaub, um seine Verbindung nach Kalifornien zu verfolgen. Eine offizielle Zuständigkeit besitzt er dort zunächst nicht, wohl aber einen sehr persönlichen Grund für die Suche.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Axel behindert seine Beschatter mit Bananen im Auspuff ihres Wagens.",
+      "question": "Womit setzt Axel Foley (Eddie Murphy) im ersten „Beverly Hills Cop“ den Wagen seiner polizeilichen Beschatter außer Gefecht?",
+      "answers": [
+        "Mit Bananen im Auspuff",
+        "Mit Zucker im Kraftstofftank",
+        "Mit Klebstoff im Zündschloss",
+        "Mit einem durchtrennten Zündkabel"
+      ],
+      "short": "Er steckt Bananen in den Auspuff des Wagens.",
+      "context": "Billy Rosewood (Judge Reinhold) und John Taggart (John Ashton) sollen Axel Foley (Eddie Murphy) im Blick behalten. Statt eine offene Konfrontation zu suchen, sabotiert er ihr Auto auf komische Weise. Der Streich verschafft ihm Bewegungsfreiheit und veranschaulicht, wie er feste Regeln durch unvorhersehbare Einfälle umgeht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Victor Maitland tarnt seine kriminellen Geschäfte durch den Kunsthandel.",
+      "question": "Welches legale Geschäft betreibt Victor Maitland (Steven Berkoff) im ersten „Beverly Hills Cop“ als Fassade seines kriminellen Unternehmens?",
+      "answers": [
+        "Eine Kunstgalerie",
+        "Eine Hotelkette",
+        "Ein Autohaus",
+        "Eine Privatklinik"
+      ],
+      "short": "Maitland tritt als wohlhabender Kunsthändler auf.",
+      "context": "Jenny Summers (Lisa Eilbacher) arbeitet für Victor Maitland (Steven Berkoff) und hatte auch Mikey Tandino (James Russo) dort eine Stelle verschafft. Axel Foley (Eddie Murphy) folgt dieser Verbindung. Hinter der kultivierten Fassade findet er Hinweise auf Schmuggel; später entdecken er und Jenny Kokain in einer Lieferung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Die von Mikey entwendeten Papiere sind deutsche Inhaberschuldverschreibungen.",
+      "question": "Welche gestohlenen Wertgegenstände zeigt Mikey Tandino (James Russo) Axel Foley (Eddie Murphy) zu Beginn des ersten „Beverly Hills Cop“?",
+      "answers": [
+        "Deutsche Inhaberschuldverschreibungen",
+        "Schweizer Goldbarren",
+        "Japanische Aktienzertifikate",
+        "Britische Gedenkmünzen"
+      ],
+      "short": "Mikey hat deutsche Inhaberpapiere bei sich.",
+      "context": "Die Papiere verbinden Mikey Tandinos (James Russo) neue Arbeit in Kalifornien mit der Gefahr, die ihn bis Detroit verfolgt. Sie sind keine zufällige Beigabe: Die Täter verlangen sie von ihm zurück. Für Axel Foley (Eddie Murphy) bleibt nach dem Mord die Frage, wie sein Freund an dieses Vermögen gelangt ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Harold Faltermeyer komponierte das Instrumentalthema Axel F.",
+      "question": "Von wem stammt das Instrumentalthema „Axel F“ aus dem ersten „Beverly Hills Cop“?",
+      "answers": [
+        "Harold Faltermeyer",
+        "Giorgio Moroder",
+        "Jan Hammer",
+        "Vangelis"
+      ],
+      "short": "Das Thema komponierte Harold Faltermeyer.",
+      "context": "Das Instrumental trägt den Namen der von Eddie Murphy gespielten Hauptfigur. Seine Synthesizerklänge gehören ebenso zur Wiedererkennbarkeit des Films wie Axels Sprachwitz. Die Musik ersetzt dabei keinen gesungenen Figurentext, sondern gibt den Bewegungen und Einfällen des Ermittlers eine eigene wiederkehrende Klanggestalt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "paramount",
+        "handlung",
+        "reihe"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Der erste Beverly Hills Cop erschien 1984.",
+      "question": "In welchem Jahr kam der erste „Beverly Hills Cop“ mit Eddie Murphy ins Kino?",
+      "answers": [
+        "1984",
+        "1981",
+        "1987",
+        "1990"
+      ],
+      "short": "Der erste Film erschien 1984.",
+      "context": "1984 war auch das Kinojahr von „Ghostbusters“ und „Indiana Jones und der Tempel des Todes“. Mit seinem gesamten nordamerikanischen Kinoeinspiel übertraf „Beverly Hills Cop“ diese beiden Filme. Für Eddie Murphy folgte dieser Erfolg auf „Nur 48 Stunden“ von 1982 und „Die Glücksritter“ von 1983.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "entstehung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Beim ersten Beverly Hills Cop führte Martin Brest Regie.",
+      "question": "Wer führte beim ersten „Beverly Hills Cop“ mit Eddie Murphy Regie?",
+      "answers": [
+        "Martin Brest",
+        "Tony Scott",
+        "John Landis",
+        "Walter Hill"
+      ],
+      "short": "Der erste Film wurde von Martin Brest inszeniert.",
+      "context": "Das Projekt hätte mit Sylvester Stallone wesentlich stärker in Richtung eines geradlinigen Actionfilms gehen können. Nach dem Wechsel zu Eddie Murphy wurden die Figurenwirkung und die komischen Möglichkeiten weiterentwickelt. Der AFI-Entstehungsbericht beschreibt, dass das Drehbuch auch während der Arbeit durch Murphys Improvisationen verändert wurde.",
+      "feedback": [
+        "",
+        "Tony Scott inszenierte die Fortsetzung von 1987.",
+        "John Landis inszenierte den dritten Film von 1994.",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "entstehung",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

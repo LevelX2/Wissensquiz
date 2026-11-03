@@ -1,0 +1,238 @@
+{
+  "categories": [],
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "genre": "Rom-Com",
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_level": 2,
+  "id": "ROMCOM-002",
+  "film_title_de": "Zum Ausziehen verführt",
+  "film_title_original": "Failure to Launch",
+  "film_year": 2006,
+  "familiarity_reason": "Bekannte Hollywood-Liebeskomödie mit Matthew McConaughey und Sarah Jessica Parker; zugänglicher Einstieg über eine klare Wohn- und Beziehungssituation.",
+  "selection_reason": "Ein bezahlter Beziehungsplan trifft auf tatsächliche Trauer und familiäre Schutzräume; Nebenhandlungen und praktische Tiertricks ermöglichen unterschiedliche Wissensziele.",
+  "directors": [
+    "Tom Dey"
+  ],
+  "release_note": "Erstveröffentlichung 2006; US-Start10.März 2006, mit Produktions- und Handlungsquellen abgeglichen.",
+  "series_note": "Eigenständiger Spielfilm ohne belegte nummerierte Filmfolge in den geprüften Quellen.",
+  "series_sources": [
+    "https://www.paramount.com/movies/failure-to-launch"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://www.paramount.com/movies/failure-to-launch",
+      "accessed_on": "2026-11-03",
+      "supports": "Ausgangslage des35-jährigenTripp, Eltern undengagiertePaula; RegieTomDey undHauptdarsteller."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Failure_to_Launch",
+      "accessed_on": "2026-11-03",
+      "supports": "Wohnsituation, Trennungsmethode, TodderVerlobten, Ace/Kit-Nebenhandlung, Boot undVersöhnung; Filmjahr 2006."
+    },
+    "produktion": {
+      "url": "https://www.americanhumane.org/production/failure-to-launch/",
+      "accessed_on": "2026-11-03",
+      "supports": "Tieraufnahmen mitrealenTieren, Puppen undAnimatronik; DelphinattackeundSchluss mitmechanischemModell; Start10.März 2006."
+    },
+    "anker": {
+      "url": "https://www.paramount.com/movies/how-to-lose-a-guy-in-10-days",
+      "accessed_on": "2026-11-03",
+      "supports": "MatthewMcConaughey als romantischerHauptdarsteller imFilm von 2003, AbmachunggegenüberPartnerwissen."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Tripp lebt als erwachsener Mann weiterhin bei seinen Eltern.",
+      "question": "Was ist die Ausgangslage von Tripp (Matthew McConaughey) in „Zum Ausziehen verführt“?",
+      "answers": [
+        "Er lebt als erwachsener Mann noch bei seinen Eltern.",
+        "Er zieht mit seiner Frau erstmals in ein gemeinsames Haus.",
+        "Er verliert als Vermieter versehentlich seine eigene Wohnung.",
+        "Er wohnt unerkannt in einem Luxushotel, in dem er arbeitet."
+      ],
+      "short": "Tripp wohnt mit 35 Jahren noch im Elternhaus.",
+      "context": "Seine Eltern Sue (Kathy Bates) und Al (Terry Bradshaw) sorgen für einen bequemen Alltag. Tripp (Matthew McConaughey) hat dadurch wenig Anlass, etwas zu ändern. Als sie selbst wieder mehr Freiraum wünschen, suchen sie keinen offenen Konflikt, sondern eine ungewöhnliche Hilfe von außen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Die Eltern engagieren Paula, um Tripp aus dem Haus zu bekommen.",
+      "question": "Wer engagiert Paula (Sarah Jessica Parker) in „Zum Ausziehen verführt“ für ihren Beziehungsplan mit Tripp (Matthew McConaughey)?",
+      "answers": [
+        "Tripps Eltern",
+        "Tripps Arbeitgeber",
+        "Eine frühere Freundin Tripps",
+        "Paulas Wohngemeinschaft"
+      ],
+      "short": "Tripps Eltern bezahlen Paula.",
+      "context": "Paula (Sarah Jessica Parker) soll die emotionale Bindung des Sohnes nach außen verlagern. Sue (Kathy Bates) und Al (Terry Bradshaw) hoffen, dass eine Beziehung ihn zur Selbstständigkeit bewegt. Tripp (Matthew McConaughey) kennt den Auftrag nicht und kann die Begegnung deshalb nicht mit demselben Wissen beurteilen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "produktion"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Wohnsituation dient Tripp als bewusstes Mittel zur Beendigung von Beziehungen.",
+      "question": "Wie beendet Tripp (Matthew McConaughey) in „Zum Ausziehen verführt“ normalerweise eine Beziehung, die ihm zu eng wird?",
+      "answers": [
+        "Er zeigt der Freundin, dass er noch bei seinen Eltern wohnt.",
+        "Er lässt einen Freund eine bereits bestehende Ehe vorspielen.",
+        "Er täuscht eine langfristige Versetzung ins Ausland vor.",
+        "Er erklärt, dass er nur unter falschem Namen Kontakt gesucht hat."
+      ],
+      "short": "Er setzt die peinliche Begegnung mit seinen Eltern als Trennungsmittel ein.",
+      "context": "Tripp (Matthew McConaughey) versteckt sein Wohnen nicht dauerhaft. Sobald eine Freundin mehr Verbindlichkeit erwartet, macht er es sichtbar und verlässt sich auf ihre abschreckende Reaktion. Paula (Sarah Jessica Parker) reagiert jedoch anders als erwartet; seine übliche Ausstiegsmethode funktioniert nicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Nach dem Tod seiner Verlobten bietet die Familie Tripp Halt.",
+      "question": "Welche Erfahrung erklärt in „Zum Ausziehen verführt“, warum Tripp (Matthew McConaughey) im Elternhaus Halt gesucht hat?",
+      "answers": [
+        "Seine Verlobte ist gestorben.",
+        "Sein gesamtes Vermögen ging bei einem Börsenbetrug verloren.",
+        "Eine Scheidung verbietet ihm den Kontakt zu seinem Kind.",
+        "Ein Arbeitsunfall hat ihm die bisherige Tätigkeit unmöglich gemacht."
+      ],
+      "short": "Tripp zog sich nach dem Tod seiner Verlobten in die Familie zurück.",
+      "context": "Paula (Sarah Jessica Parker) hatte seine Lage zunächst nach einem vertrauten Muster eingeschätzt. Hinter dem bequemen Verhalten von Tripp (Matthew McConaughey) steht aber auch ein schwerer Verlust. Der familiäre Schutzraum erhält dadurch eine andere Bedeutung als bloße Unselbstständigkeit.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "stark"
+    },
+    {
+      "code": "S1",
+      "objective": "Die gefährlich wirkende Delphinbegegnung wurde mit einem animatronischen Tier hergestellt.",
+      "question": "Wie wurde für „Zum Ausziehen verführt“ die gefährlich wirkende Begegnung Tripps mit einem Delphin umgesetzt?",
+      "answers": [
+        "Mit einem animatronischen Delphinmodell.",
+        "Mit getrennten Aufnahmen eines lebenden Delphins und des Schauspielers.",
+        "Mit einem vollständig am Computer erzeugten Delphin.",
+        "Mit dem Einblenden eines zuvor aufgenommenen Naturfilms."
+      ],
+      "short": "Für diese Begegnung wurde ein animatronischer Delphin benutzt.",
+      "context": "Der Produktionsbericht unterscheidet echte Tiere und mechanische Ersatzkörper. Beim Streifenhörnchen wurden reale Aufnahmen mit Puppen ergänzt; der Delphin war für die Unterwasserattacke und die freundliche Schlusssituation animatronisch. Was als aggressive Natur erscheint, beruht hier auf bewusst hergestellter Trickaktion.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Ace nutzt sein Wissen über Paulas Auftrag, um ein Treffen mit Kit zu erreichen.",
+      "question": "Was verlangt Ace (Justin Bartha) in „Zum Ausziehen verführt“, nachdem er Paulas Auftrag durchschaut hat?",
+      "answers": [
+        "Paula soll ihm ein Date mit Kit ermöglichen.",
+        "Paula soll ihm ihren gesamten bisherigen Lohn überlassen.",
+        "Paula soll Tripps Eltern auch zu seinem Umzug überreden.",
+        "Paula soll seine Beziehung zu einer verheirateten Kundin verheimlichen."
+      ],
+      "short": "Ace nutzt sein Wissen, um ein Date mit Kit zu erhalten.",
+      "context": "Ace (Justin Bartha) erfährt, dass Paula (Sarah Jessica Parker) Tripp (Matthew McConaughey) nicht zufällig kennengelernt hat. Seine Forderung betrifft Paulas Mitbewohnerin Kit (Zooey Deschanel). So führt das Geheimnis des Hauptpaars in eine zweite Beziehungshandlung, statt nur den großen Streit vorzubereiten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 2006.",
+      "question": "In welchem Jahr wurde „Zum Ausziehen verführt“ erstmals veröffentlicht?",
+      "answers": [
+        "2006",
+        "1998",
+        "2002",
+        "2010"
+      ],
+      "short": "Der Film erschien 2006.",
+      "context": "Matthew McConaughey hatte bereits 2003 in „Wie werde ich ihn los – in 10 Tagen?“ einen romantischen Hauptpart gespielt. In beiden Filmen beeinflusst eine verborgene Abmachung die Annäherung. Drei Jahre später ist sein Gegenüber in „Zum Ausziehen verführt“ sogar von den Eltern beauftragt worden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion",
+        "anker"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Tom Dey führt Regie.",
+      "question": "Wer führte bei „Zum Ausziehen verführt“ mit Matthew McConaughey und Sarah Jessica Parker Regie?",
+      "answers": [
+        "Tom Dey",
+        "Donald Petrie",
+        "Andy Tennant",
+        "Roger Kumble"
+      ],
+      "short": "Die Regie führte Tom Dey.",
+      "context": "Die Komödie verteilt den Konflikt auf das Liebespaar, die Eltern und die Freunde. Dadurch kann derselbe Plan gleichzeitig erwünscht und verletzend sein: Die Eltern hoffen auf Freiraum, während der Sohn die angeblich spontane Begegnung anders versteht. Die Enthüllung verschiebt das Problem vom Umzug zum Vertrauen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

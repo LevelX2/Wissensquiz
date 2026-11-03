@@ -1,0 +1,254 @@
+{
+  "id": "THRILLER-001",
+  "film_title_de": "Enemy",
+  "film_title_original": "Enemy",
+  "film_year": 2013,
+  "genre": "Thriller",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Durch Villeneuve und Gyllenhaal bekanntes Autorenkino, dessen offene Doppelgängererzählung eher Filmkenner anspricht.",
+  "selection_reason": "Die Literaturadaption verbindet einen konkreten Doppelgängerkonflikt mit bewusst uneindeutigen Bildern. Villeneuves belegte Arbeit mit Körperhaltung, Farbe und Spinnenmotiven begründet die Arthouse-Zuordnung.",
+  "directors": [
+    "Denis Villeneuve"
+  ],
+  "production_countries": [
+    "Kanada",
+    "Spanien"
+  ],
+  "release_note": "Weltpremiere am 8. September 2013 beim Toronto International Film Festival; reguläre Veröffentlichungen in vielen Ländern erst 2014. Die Jahresangaben 2012 bei Pathé und 2014 bei micro_scope bezeichnen andere Produktions- oder Vertriebsstände, nicht die Erstvorführung.",
+  "director_note": "Denis Villeneuve führte Regie; Javier Gullón adaptierte José Saramagos Roman.",
+  "country_note": "Die Produktionsländer folgen den übereinstimmenden Koproduktionsangaben von micro_scope und Pathé: Kanada und Spanien. Abweichende erweiterte Länderlisten anderer Kataloge werden nicht übernommen.",
+  "series": null,
+  "series_note": "Keine nummerierte Filmfolge in den Produktions- und Verleihangaben. Die Zusammenarbeit von Villeneuve und Gyllenhaal auch bei Prisoners begründet keine gemeinsame Reihe.",
+  "series_sources": [
+    "https://micro-scope.ca/en/portfolio/enemy/",
+    "https://a24films.com/films/enemy"
+  ],
+  "sources": {
+    "produktion": {
+      "url": "https://micro-scope.ca/en/portfolio/enemy/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Synopsis, Figuren und Cast, Romanvorlage, Regie, Kanada-Spanien-Koproduktion."
+    },
+    "pathe": {
+      "url": "https://international.pathefilms.com/en/movies/enemy/",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller internationaler Vertrieb: Figuren, Synopsis, Regie und Länder Kanada/Spanien; abweichendes Produktionsjahr 2012 ausdrücklich abgegrenzt."
+    },
+    "a24": {
+      "url": "https://a24films.com/films/enemy",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Hauptdarsteller, Doppelgängerkonflikt und nordamerikanischer Kinostart 2014."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Enemy_(2013_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmentdeckung, identische Narben, Marys Beobachtung des Eheringabdrucks und Festivalpremiere 2013."
+    },
+    "interview": {
+      "url": "https://www.filmcomment.com/interview-denis-villeneuve/",
+      "accessed_on": "2026-11-03",
+      "supports": "Villeneuves eigene Erläuterungen zu Doppelrolle, Körperhaltung, Farbgestaltung, Romanadaption und Louise Bourgeois’ Maman als Bildinspiration."
+    },
+    "tiff": {
+      "url": "https://www.screendaily.com/toronto/denis-villeneuve-prisoners/enemy/5060210.article",
+      "accessed_on": "2026-11-03",
+      "supports": "Zeitgenössisches Interview vom 9. September 2013: Enemy und Prisoners beide in Toronto, Enemy-Weltpremiere; gelesene Suchfassung, Direktabruf zeitweise blockiert."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Adam entdeckt seinen Doppelgänger beim Ansehen eines Films.",
+      "question": "Wie entdeckt Adam Bell (Jake Gyllenhaal) in „Enemy“ den Mann, der ihm verblüffend ähnlich sieht?",
+      "answers": [
+        "Er sieht ihn als Nebendarsteller in einem ausgeliehenen Film.",
+        "Er findet dessen Foto in einem alten Familienalbum.",
+        "Er begegnet ihm als neuem Kollegen an seiner Hochschule.",
+        "Er sieht ihn als Angeklagten in einer Fernsehnachricht."
+      ],
+      "short": "Beim Ansehen eines Films fällt Adam ein Schauspieler auf, der wie er aussieht.",
+      "context": "Adam Bell (Jake Gyllenhaal) beginnt daraufhin, nach dem Schauspieler Anthony Claire (ebenfalls Gyllenhaal) zu suchen. Was zunächst eine beiläufige Filmempfehlung war, verändert seinen Alltag. Die Suche führt von der Beobachtung eines fremden Bildes zu direkten Eingriffen in das Leben des anderen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Jake Gyllenhaal spielt sowohl Adam Bell als auch Anthony Claire.",
+      "question": "Wer spielt in „Enemy“ die äußerlich identischen Männer Adam Bell und Anthony Claire?",
+      "answers": [
+        "Jake Gyllenhaal",
+        "Ryan Gosling",
+        "James McAvoy",
+        "Joseph Gordon-Levitt"
+      ],
+      "short": "Jake Gyllenhaal spielt beide Männer.",
+      "context": "Adam Bell und Anthony Claire (beide Jake Gyllenhaal) unterscheiden sich zunächst in Auftreten und Selbstsicherheit. Villeneuve erklärte, dass er die Differenzen zugleich subtil halten wollte. Kleine Bewegungen, eine veränderte Schulterhaltung oder die Spannung im Blick helfen deshalb bei der Unterscheidung, obwohl dasselbe Gesicht zu sehen ist.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "a24",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Mary bemerkt am vermeintlichen Adam den Abdruck eines Eherings.",
+      "question": "Woran schöpft Mary (Mélanie Laurent) in „Enemy“ Verdacht, dass der Mann bei ihr nicht Adam ist?",
+      "answers": [
+        "An der Spur eines Eherings an seinem Finger",
+        "An einer frisch rasierten Stelle seines Bartes",
+        "An einer Tätowierung auf seinem Unterarm",
+        "An einem fehlenden Schneidezahn"
+      ],
+      "short": "Sie bemerkt den Abdruck eines Eherings.",
+      "context": "Anthony Claire (Jake Gyllenhaal) hat Adams Kleidung übernommen und trifft dessen Freundin Mary (Mélanie Laurent). Der äußerliche Tausch verdeckt die unterschiedlichen Lebensumstände jedoch nicht vollständig. Die kleine Spur am Finger lässt Mary an der Identität des Mannes zweifeln und bringt die Verwechslung offen zum Konflikt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Auch eine Narbe auf der Brust stimmt bei Adam und Anthony überein.",
+      "question": "Welche körperliche Übereinstimmung prüfen Adam und Anthony (Jake Gyllenhaal) bei ihrem Treffen in „Enemy“ zusätzlich zu ihrer Gesichtsähnlichkeit?",
+      "answers": [
+        "Eine Narbe auf ihrer Brust",
+        "Eine Verbrennung auf ihrem Rücken",
+        "Eine Verformung an ihrem linken Ohr",
+        "Ein fehlendes Glied ihres kleinen Fingers"
+      ],
+      "short": "Sie haben auch an der Brust dieselbe Narbe.",
+      "context": "Das Treffen liefert Adam Bell (Jake Gyllenhaal) keine beruhigende Erklärung für die Ähnlichkeit mit Anthony Claire (ebenfalls Gyllenhaal). Selbst ein Merkmal, das sich nicht wie Kleidung austauschen lässt, stimmt überein. Der Film verstärkt damit die Verunsicherung, statt das Doppelgängerrätsel an dieser Stelle aufzulösen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Enemy basiert auf José Saramagos Roman Der Doppelgänger.",
+      "question": "Wessen Roman „Der Doppelgänger“ bildet die literarische Grundlage von „Enemy“?",
+      "answers": [
+        "José Saramagos",
+        "Jorge Luis Borges’",
+        "Julio Cortázars",
+        "Italo Calvinos"
+      ],
+      "short": "Die Vorlage stammt von José Saramago.",
+      "context": "Javier Gullón übertrug den Roman für das Kino. Denis Villeneuve behielt die Geschichte dabei nicht einfach als illustrierten Erzähltext bei: Im Interview beschreibt er die Suche nach Bildern, die innere Zustände spürbar machen. Dazu zählen die bedrückende Stadtatmosphäre und das Spinnenmotiv, das der Film eigenständig ausarbeitet.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "produktion",
+        "interview"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "Louise Bourgeois’ Maman inspirierte die Gestaltung der riesigen Spinne.",
+      "question": "Welche Skulptur nannte Denis Villeneuve als Inspiration für die große Spinne in „Enemy“?",
+      "answers": [
+        "„Maman“ von Louise Bourgeois",
+        "„Die Bürger von Calais“ von Auguste Rodin",
+        "„Der schreitende Mann“ von Alberto Giacometti",
+        "„L’Homme qui marche“ von Alberto Giacometti"
+      ],
+      "short": "Er bezog sich auf Louise Bourgeois’ Spinnenskulptur „Maman“.",
+      "context": "Villeneuve suchte nach eigener Aussage ein Tierbild, das zugleich Intelligenz und Eleganz vermittelt. Er verwies dabei ausdrücklich auf Bourgeois. Das belegt die gestalterische Anregung, legt aber keine einzige verbindliche Deutung aller Spinnenbilder fest. Der Film lässt ihre Verbindung zu Angst, Beziehungen und Kontrolle bewusst offen wirken.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "interview"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Enemy wurde 2013 erstmals öffentlich gezeigt.",
+      "question": "In welchem Jahr wurde „Enemy“ mit Jake Gyllenhaal erstmals öffentlich gezeigt?",
+      "answers": [
+        "2013",
+        "2009",
+        "2011",
+        "2015"
+      ],
+      "short": "Die Weltpremiere fand 2013 beim Toronto International Film Festival statt.",
+      "context": "Villeneuve brachte damals gleich zwei Filme mit Jake Gyllenhaal nach Toronto: „Enemy“ und „Prisoners“. Der kleinere Doppelgängerfilm war zuvor gedreht worden, kam regulär aber in vielen Ländern später ins Kino. Deshalb darf die häufige Vertriebsjahreszahl 2014 nicht mit dem Jahr der ersten Festivalvorführung verwechselt werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "tiff",
+        "handlung",
+        "a24"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Denis Villeneuve führte Regie.",
+      "question": "Wer führte bei dem Doppelgängerthriller „Enemy“ mit Jake Gyllenhaal Regie?",
+      "answers": [
+        "Denis Villeneuve",
+        "David Cronenberg",
+        "David Lynch",
+        "Atom Egoyan"
+      ],
+      "short": "Regisseur ist Denis Villeneuve.",
+      "context": "Villeneuve erläuterte im Gespräch mit Film Comment, dass die gelbliche Atmosphäre an die bedrückende Großstadt der Romanvorlage anknüpft. Toronto wurde als realer Ort aufgenommen und durch die Bildgestaltung verändert. Die Stadt soll so nicht nur Schauplatz sein, sondern den Druck und die Unsicherheit der Geschichte körperlich erfahrbar machen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "a24",
+        "interview"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

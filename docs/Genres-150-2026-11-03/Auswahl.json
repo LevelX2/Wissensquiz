@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; neun Filmfassungen mit 72 Fragen lokal integriert, weitere Redaktion läuft.",
+  "status": "501 Genreplätze vorausgewählt; 21 Filmfassungen mit 168 Fragen lokal integriert, weitere Redaktion läuft.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -669,8 +669,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Unfreiwilliges Ermittlerduo und begrenzte Zeit prägen die moderne Actionkomödie.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-001"
     },
     {
       "candidate_id": "A-052",
@@ -681,9 +682,12 @@
       "familiarity_level": 1,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Ein Außenseiter ermittelt mit Verfolgungen und improvisierten Methoden im fremden Polizeisystem.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-003"
     },
     {
       "candidate_id": "A-053",
@@ -695,8 +699,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Polizisten aus gegensätzlichen Systemen werden zu einem Actionduo.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ACTION-002"
     },
     {
       "candidate_id": "A-054",
@@ -1626,8 +1631,9 @@
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-001"
     },
     {
       "candidate_id": "A-125",
@@ -1706,8 +1712,9 @@
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-002"
     },
     {
       "candidate_id": "A-131",
@@ -1855,8 +1862,9 @@
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-003"
     },
     {
       "candidate_id": "A-142",
@@ -2300,7 +2308,7 @@
     },
     {
       "candidate_id": "B-025",
-      "film_title_de": "Stürmisches Wetter",
+      "film_title_de": "Der Tänzer auf den Stufen",
       "film_title_original": "Stormy Weather",
       "film_year": 1943,
       "genre": "Musik",
@@ -2656,8 +2664,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Griechische Mythologie und Stop-Motion-Kreaturen prägen das fantastische Abenteuer.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-001"
     },
     {
       "candidate_id": "B-052",
@@ -2668,9 +2677,12 @@
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Stummfilmfantasy mit magischen Prüfungen; vom bereits vorhandenen Film von 1940 unterscheiden.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "categories": [
+        "Classics"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-002"
     },
     {
       "candidate_id": "B-053",
@@ -2684,8 +2696,9 @@
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "FANTASY-003"
     },
     {
       "candidate_id": "B-054",
@@ -3322,8 +3335,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Beziehungsratgeber und Fernsehproduzentin prallen mit gegensätzlichen Liebesvorstellungen aufeinander.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-001"
     },
     {
       "candidate_id": "B-102",
@@ -3335,8 +3349,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Eine bezahlte Beziehung soll einen erwachsenen Sohn aus dem Elternhaus locken.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-002"
     },
     {
       "candidate_id": "B-103",
@@ -3348,8 +3363,9 @@
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
       "selection_reason": "Spontane Hochzeit und Geldgewinn zwingen ein zerstrittenes Paar zum Zusammenleben.",
       "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "ROMCOM-003"
     },
     {
       "candidate_id": "B-104",
@@ -3901,7 +3917,7 @@
     },
     {
       "candidate_id": "B-146",
-      "film_title_de": "Die Falschspielerin von San Diego",
+      "film_title_de": "Atemlos nach Florida",
       "film_title_original": "The Palm Beach Story",
       "film_year": 1942,
       "genre": "Rom-Com",
@@ -3914,7 +3930,7 @@
     },
     {
       "candidate_id": "B-147",
-      "film_title_de": "Die zweite Mutter",
+      "film_title_de": "Die Findelmutter",
       "film_title_original": "Bachelor Mother",
       "film_year": 1939,
       "genre": "Rom-Com",
@@ -3940,7 +3956,7 @@
     },
     {
       "candidate_id": "B-149",
-      "film_title_de": "Eine Frau für zwei Millionen",
+      "film_title_de": "Ein Pyjama für zwei",
       "film_title_original": "Lover Come Back",
       "film_year": 1961,
       "genre": "Rom-Com",
@@ -3953,7 +3969,7 @@
     },
     {
       "candidate_id": "B-150",
-      "film_title_de": "Ein Pyjama für zwei",
+      "film_title_de": "Picknick im Pyjama",
       "film_title_original": "The Pajama Game",
       "film_year": 1957,
       "genre": "Rom-Com",

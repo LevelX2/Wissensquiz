@@ -1,0 +1,251 @@
+{
+  "id": "THRILLER-002",
+  "film_title_de": "Der schwarze Diamant",
+  "film_title_original": "Uncut Gems",
+  "film_year": 2019,
+  "genre": "Thriller",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 2,
+  "familiarity_reason": "Adam Sandlers ungewöhnliche Hauptrolle und die breite Streamingverbreitung machen den Film über das enge Autorenkinopublikum hinaus bekannt.",
+  "selection_reason": "Ein dicht inszenierter Thriller, dessen Spannung aus Schulden, Wetten und ständigen neuen Versprechen entsteht. Der konkrete New Yorker Mikrokosmos und die eigenständige Bild- und Tongestaltung begründen die Arthouse-Zuordnung.",
+  "directors": [
+    "Josh Safdie",
+    "Benny Safdie"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere am 30. August 2019 in Telluride; der US-Kinostart erfolgte im Dezember 2019.",
+  "director_note": "Beide Safdie-Brüder sind offiziell als Regisseure genannt; Ronald Bronstein ist zusätzlicher Drehbuchautor, kein weiterer Regisseur.",
+  "country_note": "",
+  "series": null,
+  "series_note": "Keine nummerierte Filmfolge in den offiziellen A24- und Criterion-Angaben. Wiederkehrende Themen und Mitarbeitende verbinden die Safdie-Filme, ohne sie zu Fortsetzungen zu machen.",
+  "series_sources": [
+    "https://a24films.com/films/uncut-gems",
+    "https://www.criterion.com/films/31917-uncut-gems"
+  ],
+  "sources": {
+    "a24": {
+      "url": "https://a24films.com/films/uncut-gems",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielles Regieteam, Cast, Wettkonflikt und US-Kinostart."
+    },
+    "criterion": {
+      "url": "https://www.criterion.com/films/31917-uncut-gems",
+      "accessed_on": "2026-11-03",
+      "supports": "USA, Jahr, Regieteam und Synopsis zu Opal, Schulden und Diamond District."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/7612-uncut-gems-taking-it-to-the-rack",
+      "accessed_on": "2026-11-03",
+      "supports": "J. Hobermans Filmanalyse: Basketballbezug, Garnetts Ring, Wettverhalten, Auftaktmontage und familiärer Hintergrund der Safdies."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Uncut_Gems",
+      "accessed_on": "2026-11-03",
+      "supports": "Auktionsmanipulation, letzte Wette und tödlicher Ausgang, Figurenbesetzung und genaue Premierenfolge."
+    },
+    "telluride": {
+      "url": "https://telluridecms-production.s3.amazonaws.com/assets/guides/46thTFFProgramFINAL.pdf",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielles Programm vom 29. August 2019: Festivalzeitraum ab 30. August, Film und beide Regisseure."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Howard setzt wiederholt auf Basketballspiele und Kevin Garnetts Leistung.",
+      "question": "Auf welche Sportart setzt Howard Ratner (Adam Sandler) in „Der schwarze Diamant“ immer wieder Geld?",
+      "answers": [
+        "Basketball",
+        "Baseball",
+        "American Football",
+        "Eishockey"
+      ],
+      "short": "Seine riskanten Wetten drehen sich um Basketball und besonders Kevin Garnett.",
+      "context": "Kevin Garnett spielt eine Version seiner selbst. Für Howard Ratner (Adam Sandler) verschmelzen der berühmte Kunde, der Wert eines Edelsteins und die Hoffnung auf einen hohen Wettgewinn. Selbst Geld, das ihm einen Ausweg aus den Schulden eröffnen könnte, wird dadurch wieder zum Einsatz für die nächste Chance.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "a24",
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der zentrale Edelstein ist ein ungeschliffener schwarzer Opal.",
+      "question": "Welcher Edelstein soll Howard Ratner (Adam Sandler) in „Der schwarze Diamant“ den erhofften großen Gewinn bringen?",
+      "answers": [
+        "Ein ungeschliffener schwarzer Opal",
+        "Ein geschliffener blauer Saphir",
+        "Ein roher roter Rubin",
+        "Ein geschliffener grüner Smaragd"
+      ],
+      "short": "Howard setzt große Hoffnungen auf einen schwarzen Opal aus Äthiopien.",
+      "context": "Der Film führt den Stein zunächst in einer äthiopischen Mine ein und folgt ihm bis nach New York. Dort erklärt Howard Ratner (Adam Sandler) seinen außergewöhnlichen Wert. Kevin Garnett sieht in ihm außerdem einen Glücksbringer. Geschäftliche Bewertung und persönlicher Glaube an das Stück geraten so ineinander.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "criterion",
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Garnett hinterlegt seinen Meisterschaftsring, den Howard sofort für weiteres Wettgeld verpfändet.",
+      "question": "Was hinterlegt Kevin Garnett in „Der schwarze Diamant“ als Sicherheit, als Howard (Adam Sandler) ihm den Opal ausleiht?",
+      "answers": [
+        "Seinen NBA-Meisterschaftsring",
+        "Seine goldene Armbanduhr",
+        "Die Schlüssel seines Sportwagens",
+        "Ein signiertes Spieltrikot"
+      ],
+      "short": "Garnett lässt seinen Meisterschaftsring als Pfand zurück.",
+      "context": "Howard Ratner (Adam Sandler) bewahrt die Sicherheit nicht einfach für seinen Kunden auf. Er verpfändet den Ring seinerseits, um eine Wette zu finanzieren. Das Verfahren schafft kurzfristig Geld, hängt aber einen weiteren Anspruch an eine bereits unsichere Kette von Versprechen und Rückgaben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Howard lässt einen Angehörigen den Auktionspreis durch Scheininteresse erhöhen; der Plan endet beim ungewollten Zuschlag.",
+      "question": "Wie versucht Howard Ratner (Adam Sandler) in „Der schwarze Diamant“, bei der Opalauktion einen höheren Preis zu erzielen?",
+      "answers": [
+        "Er lässt seinen Schwiegervater gegen den echten Interessenten mitbieten.",
+        "Er lässt die Herkunft des Steins durch eine neue Urkunde verändern.",
+        "Er teilt den Stein vor der Versteigerung in mehrere Lose.",
+        "Er meldet einen Diebstahl, um die Auktion abzubrechen."
+      ],
+      "short": "Sein Schwiegervater soll durch Mitbieten den Preis hochtreiben.",
+      "context": "Howard Ratner (Adam Sandler) erwartet eine wesentlich höhere Bewertung, als das Auktionshaus ansetzt. Er will den Preis deshalb selbst beeinflussen. Als Kevin Garnett nicht weiterbietet, bleibt der Zuschlag jedoch beim eingeweihten Angehörigen hängen. Der vermeintliche Ausweg erzeugt neue Kosten, statt die bestehenden Schulden zuverlässig zu lösen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die Auftaktmontage verbindet das Innere des Opals mit Aufnahmen einer Darmspiegelung Howards.",
+      "question": "Mit welchem körperlichen Innenbild verbindet die Auftaktmontage von „Der schwarze Diamant“ den Blick in den Opal?",
+      "answers": [
+        "Mit Howard Ratners Darmspiegelung",
+        "Mit einem Ultraschallbild eines ungeborenen Kindes",
+        "Mit einer Aufnahme von Garnetts Kniegelenk",
+        "Mit dem Röntgenbild eines verletzten Schädels"
+      ],
+      "short": "Der Blick in den Stein geht in Bilder von Howards Darmspiegelung über.",
+      "context": "Die Reise aus der Mine führt nicht zunächst zu einer eleganten Warenpräsentation, sondern in Howard Ratners (Adam Sandler) Körper. J. Hoberman hebt diesen Übergang in seinem Criterion-Essay hervor. Der Film bindet das wertvolle Material und den verletzlichen Menschen schon vor den großen Geschäften durch seine Bildfolge zusammen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "Der Gewinn der letzten Wette verhindert Howards Ermordung durch Phil nicht.",
+      "question": "Was geschieht mit Howard Ratner (Adam Sandler) in „Der schwarze Diamant“, nachdem seine große Schlusswette gewonnen ist?",
+      "answers": [
+        "Der Schuldeneintreiber Phil erschießt ihn.",
+        "Sein Gläubiger erlässt ihm sämtliche Schulden.",
+        "Er flieht mit Julia und dem Gewinn ins Ausland.",
+        "Er wird wegen Manipulation des Basketballspiels festgenommen."
+      ],
+      "short": "Phil tötet Howard trotz des gewonnenen Geldes.",
+      "context": "Howard Ratner (Adam Sandler) hält die Schuldeneintreiber während des Spiels zwischen den Sicherheitstüren seines Geschäfts fest. Nach dem Sieg lässt er sie wieder herein. Phil (Keith William Richards) reagiert nicht mit Erleichterung über das Geld, sondern mit tödlicher Gewalt. Der finanzielle Erfolg beendet deshalb die zuvor erzeugte Gefahr nicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Uncut Gems wurde erstmals 2019 öffentlich gezeigt.",
+      "question": "In welchem Jahr wurde „Der schwarze Diamant“ mit Adam Sandler erstmals öffentlich gezeigt?",
+      "answers": [
+        "2019",
+        "2012",
+        "2015",
+        "2022"
+      ],
+      "short": "Der Film feierte 2019 in Telluride Premiere.",
+      "context": "Das Erscheinungsjahr ist vom Zeitraum der Handlung zu trennen: Die Geschäfte um Kevin Garnett spielen überwiegend 2012. Die Safdies arbeiteten lange an dem Stoff; zuvor erschien 2017 „Good Time“. 2019 kam die Geschichte um Howard Ratner (Adam Sandler) schließlich vor Publikum.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "telluride",
+        "essay",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Josh und Benny Safdie führten gemeinsam Regie.",
+      "question": "Welches Regieduo inszenierte „Der schwarze Diamant“ mit Adam Sandler?",
+      "answers": [
+        "Josh Safdie und Benny Safdie",
+        "Joel Coen und Ethan Coen",
+        "Jean-Pierre Dardenne und Luc Dardenne",
+        "Jay Duplass und Mark Duplass"
+      ],
+      "short": "Josh und Benny Safdie führten gemeinsam Regie.",
+      "context": "Die Brüder hatten einen persönlichen Bezug zum Diamond District: Ihr Vater arbeitete zeitweise dort im Verkauf. Dieser Hintergrund floss in die Entwicklung der Filmwelt ein. Die genaue Beobachtung von Geschäften, Kunden und improvisierten Auswegen verbindet sich mit einer zugespitzten Krimihandlung, statt ein neutrales Branchenporträt zu ergeben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "a24",
+        "essay"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

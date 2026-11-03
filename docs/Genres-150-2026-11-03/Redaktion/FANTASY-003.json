@@ -1,0 +1,250 @@
+{
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "id": "FANTASY-003",
+  "film_title_de": "Alice",
+  "film_title_original": "Něco z Alenky",
+  "film_year": 1988,
+  "genre": "Fantasy",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 4,
+  "familiarity_reason": "Eigenwillige tschechische Stop-Motion-Adaption; als Werk deutlich weniger verbreitet als die literarische Figur.",
+  "selection_reason": "Ergänzt surrealistische Objektanimation und eine bewusst verstörende statt glatt illustrierende Märchenadaption.",
+  "directors": [
+    "Jan Švankmajer"
+  ],
+  "production_countries": [
+    "Tschechoslowakei",
+    "Schweiz",
+    "BR Deutschland",
+    "Großbritannien"
+  ],
+  "release_note": "Erstveröffentlichung 1988; der Národní filmový archiv belegt Jahr und Koproduktionsländer. Der Filmový přehled nennt die Berlinale 1988 als Premiere. Der tschechoslowakische Kinostart 1990 ist ein späterer Landesstart.",
+  "series_note": "Eigenständige Carroll-Adaption, keine nummerierte Filmfolge. Jabberwocky ist ein früherer eigenständiger Kurzfilm desselben Regisseurs.",
+  "series_sources": [
+    "https://www.bfi.org.uk/lists/alice-wonderland-eight-very-different-film-versions"
+  ],
+  "sources": {
+    "nfa": {
+      "url": "https://www.nfa.cz/cs/48642-neco-z-alenky",
+      "accessed_on": "2026-11-03",
+      "supports": "Originaltitel,1988, JanŠvankmajer, KristýnaKohoutová und vier Koproduktionsländer."
+    },
+    "bfi": {
+      "url": "https://www.bfi.org.uk/lists/alice-wonderland-eight-very-different-film-versions",
+      "accessed_on": "2026-11-03",
+      "supports": "Carroll-Vorlage1865; Švankmajers KurzfilmJabberwocky 1971; ersterLangfilm; ausgestopfterHase, Schublade, Objektwelt und Stop-Motion."
+    },
+    "ausgabe": {
+      "url": "https://shop.bfi.org.uk/alice-dual-format-edition/",
+      "accessed_on": "2026-11-03",
+      "supports": "Realfilmfigur mitStop-Motion; ursprüngliche tschechische Sprachfassung von englischen Nachfassungen unterscheiden."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Alice_(1988_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Trank undPuppenverwandlung; Strumpfraupe; vonAlice gesprocheneFiguren, Mundnahaufnahmen und Prozess mit vorgegebenemText."
+    },
+    "premiere": {
+      "url": "https://www.filmovyprehled.cz/en/revue/detail/alice",
+      "accessed_on": "2026-11-03",
+      "supports": "Herstellung mit ausländischenPartnern und Premiere bei derBerlinale 1988; späterer tschechoslowakischerStart."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Der ausgestopfte weiße Hase erwacht und verlässt seine Vitrine.",
+      "question": "Welches Ausstellungsstück erwacht in „Alice“ mit Kristýna Kohoutová zum Leben?",
+      "answers": [
+        "Ein ausgestopfter weißer Hase.",
+        "Ein hölzernes Schaukelpferd.",
+        "Eine ausgestopfte Eule.",
+        "Ein Porzellanvogel im Käfig."
+      ],
+      "short": "Ein ausgestopfter weißer Hase befreit sich aus seiner Vitrine.",
+      "context": "Alice (Kristýna Kohoutová) folgt keinem glatt gezeichneten Märchenwesen. Der Hase besitzt einen sichtbar künstlichen Körper und verliert Sägespäne. Damit beginnt eine Reise, auf der vertraute Dinge aus dem Wohnraum ihre ruhige Funktion verlieren und bedrohliche Eigenständigkeit entwickeln.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "bfi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Realfilm und Stop-Motion-Objektanimation werden kombiniert.",
+      "question": "Welche Gestaltung kennzeichnet „Alice“ mit Kristýna Kohoutová?",
+      "answers": [
+        "Ein reales Mädchen begegnet einzelbildanimierten Figuren und Gegenständen.",
+        "Eine gezeichnete Alice bewegt sich in gefilmten Zimmern.",
+        "Darsteller in Tierkostümen treten in gebauten Märchenkulissen auf.",
+        "Marionetten spielen die Geschichte auf einer sichtbar kleinen Bühne."
+      ],
+      "short": "Der Film verbindet Realaufnahmen mit Stop-Motion-Animation.",
+      "context": "Alice (Kristýna Kohoutová) steht als gespielte Figur zwischen Puppen, Präparaten und belebten Alltagsobjekten. Materialien bleiben erkennbar, statt in einer einheitlichen Zeichentrickwelt aufzugehen. Diese Unterschiedlichkeit trägt dazu bei, dass das Wunderland zugleich greifbar und fremd wirkt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "ausgabe",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Das Schrumpfen wird als Verwandlung des Mädchens in eine Porzellanpuppe sichtbar.",
+      "question": "Was geschieht nach dem Schrumpftrank mit Alice (Kristýna Kohoutová) in „Alice“?",
+      "answers": [
+        "Sie wird zu einer kleinen Porzellanpuppe ihres eigenen Aussehens.",
+        "Sie verliert für den Rest der Reise ihr Spiegelbild.",
+        "Sie verwandelt sich in den ausgestopften Hasen.",
+        "Sie kann nur noch als Schatten an den Wänden erscheinen."
+      ],
+      "short": "Das kleine Mädchen erscheint als Porzellanpuppe.",
+      "context": "Die Größenveränderung ist ein Wechsel des dargestellten Körpers. Wenn Alice (Kristýna Kohoutová) klein wird, übernimmt eine Puppe ihre Gestalt; beim Wachsen kehrt das reale Mädchen zurück. Die Filmform macht den fantastischen Vorgang also nicht nur durch unterschiedlich große Möbel sichtbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eine Raupe entsteht aus einem Strumpf und weiteren Alltagsmaterialien.",
+      "question": "Welcher Alltagsgegenstand bildet den Körper der sprechenden Raupe in „Alice“ mit Kristýna Kohoutová?",
+      "answers": [
+        "Ein Strumpf",
+        "Ein gefalteter Regenschirm",
+        "Ein Metalllöffel",
+        "Eine zerbrochene Kerze"
+      ],
+      "short": "Die Raupe besteht aus einem Strumpf.",
+      "context": "Die Begegnung ersetzt die naturgetreue Tierzeichnung durch eine erkennbare Materialverwandlung. Alice (Kristýna Kohoutová) erhält weiterhin Hinweise über Wachsen und Schrumpfen, doch die beratende Figur stammt sichtbar aus einer Welt von Nähzeug und Kleidungsstücken. Das Wunderland schöpft seine Wesen aus alltäglichen Dingen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "In der tschechischen Originalfassung übernimmt Alice auch die Stimmen der anderen Figuren.",
+      "question": "Was ist an den Figurenstimmen der tschechischen Originalfassung von „Alice“ besonders?",
+      "answers": [
+        "Auch die anderen Figuren sprechen mit der Stimme des Mädchens.",
+        "Eine erwachsene Erzählerin spricht die fantastischen Figuren.",
+        "Die Nebenfiguren bleiben stumm; Alice berichtet über sie.",
+        "Mehrere Kinderstimmen werden für jede Figur kombiniert."
+      ],
+      "short": "Die Stimme des Mädchens übernimmt auch die anderen Figuren.",
+      "context": "Nach gesprochenen Sätzen zeigt der Film den Mund von Alice (Kristýna Kohoutová), der die jeweilige Sprecherfigur nennt. Das Geschehen bleibt damit an ihr Erzählen gebunden. Diese Eigenheit gilt der tschechischen Originalfassung; eine englische Synchronstimme darf nicht als ursprüngliche Darstellerstimme ausgegeben werden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "ausgabe"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Der König verlangt im Prozess die Befolgung eines vorgegebenen Textes.",
+      "question": "Was verlangt der Herzkönig beim Prozess von Alice (Kristýna Kohoutová) in „Alice“?",
+      "answers": [
+        "Sie soll sich an einen vorgegebenen Text halten.",
+        "Sie soll den weißen Hasen zu ihrem Vormund ernennen.",
+        "Sie soll ein neues Gesetz für das Wunderland schreiben.",
+        "Sie soll ihre Erlebnisse rückwärts wiederholen."
+      ],
+      "short": "Der König fordert, dass Alice einem vorgegebenen Text folgt.",
+      "context": "Alice (Kristýna Kohoutová) versucht, sich wegen der gegessenen Törtchen zu erklären. Die Gerichtsordnung verlangt jedoch keine offene Klärung, sondern eine bereits festgelegte Rolle. Ihre Gegenwehr richtet sich damit auch gegen ein Verfahren, das die Antwort kennt, bevor die Angeklagte selbst gesprochen hat.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 1988.",
+      "question": "In welchem Jahr wurde „Alice“ mit Kristýna Kohoutová erstmals veröffentlicht?",
+      "answers": [
+        "1988",
+        "1978",
+        "1994",
+        "2000"
+      ],
+      "short": "Die erste Veröffentlichung gehört ins Jahr 1988.",
+      "context": "Lewis Carrolls „Alice’s Adventures in Wonderland“ war bereits 1865 erschienen. Mehr als ein Jahrhundert später verwandelte diese Fassung das bekannte Wunderland in eine tastbare Welt aus Puppen und Fundstücken. Der spätere tschechoslowakische Kinostart 1990 ändert das internationale Filmjahr 1988 nicht.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "premiere",
+        "nfa",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Jan Švankmajer führt Regie.",
+      "question": "Wer führte bei der surrealistischen Realfilm- und Stop-Motion-Fassung „Alice“ mit Kristýna Kohoutová Regie?",
+      "answers": [
+        "Jan Švankmajer",
+        "Jiří Trnka",
+        "Jiří Barta",
+        "Karel Zeman"
+      ],
+      "short": "Die Regie stammt von Jan Švankmajer.",
+      "context": "Švankmajer hatte sich bereits 1971 mit dem Kurzfilm „Jabberwocky“ einem Stoff von Lewis Carroll zugewandt. „Alice“ wurde sein erster abendfüllender Film. Die Rückkehr zu Carroll verbindet eine längere Auseinandersetzung mit literarischem Nonsens mit dem neuen Umfang einer Langfilmerzählung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "nfa",
+        "bfi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

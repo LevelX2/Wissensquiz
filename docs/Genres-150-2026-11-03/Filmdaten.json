@@ -516,6 +516,733 @@
       "reference_question_id": "G150-20261103-WESTERN-003-L1",
       "year_question_id": "G150-20261103-WESTERN-003-Y",
       "director_question_id": "G150-20261103-WESTERN-003-D"
+    },
+    {
+      "id": "ACTION-001",
+      "film_title_de": "Nur 48 Stunden",
+      "film_title_original": "48 Hrs.",
+      "film_year": 1982,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Prägender Buddy-Actionfilm mit Eddie Murphy und Nick Nolte, vor allem durch Kino- und Fernsehpräsenz bekannt.",
+      "directors": [
+        "Walter Hill"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Kinostart am 8. Dezember 1982 laut AFI; keine frühere Festivalveröffentlichung in den geprüften Filmquellen verzeichnet.",
+      "director_note": "Walter Hill ist als Regisseur und als einer der Drehbuchautoren genannt.",
+      "country_note": "",
+      "series": {
+        "name": "Nur 48 Stunden",
+        "position": 1,
+        "note": "Erster Film mit Jack Cates und Reggie Hammond; Fortsetzung Another 48 Hrs. von 1990."
+      },
+      "series_note": "Die Zählung folgt den beiden veröffentlichten Kinofilmen desselben Ermittlerduos.",
+      "series_sources": [
+        "https://en.wikipedia.org/wiki/48_Hrs."
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Catalog/MovieDetails/56783",
+          "accessed_on": "2026-11-03",
+          "supports": "Credits, US-Start, Eddie Murphys Kinodebüt, Musikeinsatz und ausführliche Synopsis."
+        },
+        {
+          "key": "paramount",
+          "url": "https://www.paramount.com/movies/48-hrs",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Rollen, Ausgangslage des Gefangenenurlaubs und Regiecredit."
+        },
+        {
+          "key": "silver",
+          "url": "https://silver.afi.com/movies/detail/0100005582/",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmhistorische Einordnung als prägender Buddy-Actionfilm und Konflikt zwischen Polizist und Gefangenem."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/48_Hrs.",
+          "accessed_on": "2026-11-03",
+          "supports": "Geldversteck, Rosalie als Geisel, Handlungsort, Abschluss und Fortsetzung von 1990."
+        },
+        {
+          "key": "murphy",
+          "url": "https://www.afi.com/news/beverly-hills-cop-afi-catalog-spotlight/",
+          "accessed_on": "2026-11-03",
+          "supports": "Karrierefolge 48 Hrs. 1982, Trading Places 1983 und Beverly Hills Cop 1984."
+        },
+        {
+          "key": "hill",
+          "url": "https://www.rialtopictures.com/catalogue/red-heat",
+          "accessed_on": "2026-11-03",
+          "supports": "Walter Hills späterer Film Red Heat als bewusster Vergleich derselben Buddy-Cop-Tradition."
+        },
+        {
+          "key": "auftritt",
+          "url": "https://www.cinemablend.com/movies/iconic-48-hrs-scene-eddie-murphy-saved-from-being-dull",
+          "accessed_on": "2026-11-03",
+          "supports": "Wiedergegebene Äußerungen Walter Hills über Murphys Gefängnisauftritt mit Roxanne."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-001-L1",
+      "year_question_id": "G150-20261103-ACTION-001-Y",
+      "director_question_id": "G150-20261103-ACTION-001-D"
+    },
+    {
+      "id": "ACTION-002",
+      "film_title_de": "Red Heat",
+      "film_title_original": "Red Heat",
+      "film_year": 1988,
+      "subdomain": "Action",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannter Schwarzenegger-Film der späten Achtziger mit einem leicht wiedererkennbaren sowjetisch-amerikanischen Ermittlerduo.",
+      "directors": [
+        "Walter Hill"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Regulärer US-Kinostart am 17. Juni 1988 laut AFI; keine frühere öffentliche Filmvorführung in den geprüften Quellen ausgewiesen.",
+      "director_note": "Walter Hill ist als Regisseur, Mitautor und Produzent genannt.",
+      "country_note": "Die Moskauer und Budapester Drehorte bedeuten keine zusätzliche sowjetische oder ungarische Produktionsbeteiligung.",
+      "series": null,
+      "series_note": "Kein Teil einer nummerierten Filmfolge in den ausgewerteten Rechteinhaber- und Archivangaben; die Verbindung zu Nur 48 Stunden ist thematisch und über den Regisseur begründet.",
+      "series_sources": [
+        "https://www.rialtopictures.com/catalogue/red-heat"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/59083-RED-HEAT",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Credits, Datum des US-Starts, Drehgenehmigung am Roten Platz, Budapest als Moskau-Ersatz und ausführlicher Handlungsnachweis."
+        },
+        {
+          "key": "rialto",
+          "url": "https://www.rialtopictures.com/catalogue/red-heat",
+          "accessed_on": "2026-11-03",
+          "supports": "Verleihkatalog: Regie, USA, Jahr, Besetzung, sowjetischer und amerikanischer Polizist, Glasnost-Kontext und Hills Verbindung zu 48 Hrs."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Red_Heat_(1988_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Auslieferung und Hinterhalt, Schlüssel zum Busbahnhof-Schließfach, Verfolgung mit Bussen und Uhrentausch."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-002-L1",
+      "year_question_id": "G150-20261103-ACTION-002-Y",
+      "director_question_id": "G150-20261103-ACTION-002-D"
+    },
+    {
+      "id": "ACTION-003",
+      "film_title_de": "Beverly Hills Cop – Ich lös’ den Fall auf jeden Fall",
+      "film_title_original": "Beverly Hills Cop",
+      "film_year": 1984,
+      "subdomain": "Action",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 1,
+      "familiarity_reason": "Eddie Murphys Axel Foley und die Musik sind weithin bekannte Kennzeichen eines prägenden Achtzigerjahre-Films.",
+      "directors": [
+        "Martin Brest"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "US-Kinostart am 5. Dezember 1984 laut AFI; keine frühere öffentliche Filmvorführung in den geprüften Quellen ausgewiesen.",
+      "director_note": "Martin Brest führte beim ersten Film Regie; spätere Teile haben andere Regisseure.",
+      "country_note": "",
+      "series": {
+        "name": "Beverly Hills Cop",
+        "position": 1,
+        "note": "Reihenfolge der veröffentlichten Filme dieser Filmreihe."
+      },
+      "series_note": "Zählung der veröffentlichten Spielfilme, ohne den nicht ausgestrahlten Fernsehpiloten.",
+      "series_sources": [
+        "https://www.netflix.com/tudum/articles/beverly-hills-cop-axel-f-release-date-plot",
+        "https://en.wikipedia.org/wiki/Beverly_Hills_Cop_(franchise)"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/68338-BEVERLY-HILLS-COP",
+          "accessed_on": "2026-11-03",
+          "supports": "US-Start, offizielle Credits, Rollen und Handlung einschließlich der gestohlenen deutschen Inhaberpapiere."
+        },
+        {
+          "key": "paramount",
+          "url": "https://www.paramountpictures.com/movies/beverly-hills-cop",
+          "accessed_on": "2026-11-03",
+          "supports": "Verleihsynopsis, Herkunft Detroit, Mord an einem Freund, Regie und Komponist; die gelesene Suchfassung der offiziellen Filmseite war zugänglich, Direktabruf zeitweise umgeleitet."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Beverly_Hills_Cop",
+          "accessed_on": "2026-11-03",
+          "supports": "Bananen im Auspuff, Galerie und Drogenhandel, Mikey, Musik und Fortsetzungen."
+        },
+        {
+          "key": "entstehung",
+          "url": "https://www.afi.com/news/beverly-hills-cop-afi-catalog-spotlight/",
+          "accessed_on": "2026-11-03",
+          "supports": "Entstehung mit zeitweilig vorgesehenem Sylvester Stallone, Wechsel zu Murphy, improvisierte Überarbeitungen, Erfolg 1984 und Film-Registry-Aufnahme."
+        },
+        {
+          "key": "reihe",
+          "url": "https://www.netflix.com/tudum/articles/beverly-hills-cop-axel-f-release-date-plot",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Einordnung von Axel F als vierte Rückkehr mit Bezug auf den ersten Film von 1984 und die alten Figuren."
+        },
+        {
+          "key": "registry",
+          "url": "https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizieller Eintrag: Filmjahr 1984 und Aufnahmejahr 2024."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ACTION-003-L1",
+      "year_question_id": "G150-20261103-ACTION-003-Y",
+      "director_question_id": "G150-20261103-ACTION-003-D"
+    },
+    {
+      "id": "THRILLER-001",
+      "film_title_de": "Enemy",
+      "film_title_original": "Enemy",
+      "film_year": 2013,
+      "subdomain": "Thriller",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Durch Villeneuve und Gyllenhaal bekanntes Autorenkino, dessen offene Doppelgängererzählung eher Filmkenner anspricht.",
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "production_countries": [
+        "Kanada",
+        "Spanien"
+      ],
+      "release_note": "Weltpremiere am 8. September 2013 beim Toronto International Film Festival; reguläre Veröffentlichungen in vielen Ländern erst 2014. Die Jahresangaben 2012 bei Pathé und 2014 bei micro_scope bezeichnen andere Produktions- oder Vertriebsstände, nicht die Erstvorführung.",
+      "director_note": "Denis Villeneuve führte Regie; Javier Gullón adaptierte José Saramagos Roman.",
+      "country_note": "Die Produktionsländer folgen den übereinstimmenden Koproduktionsangaben von micro_scope und Pathé: Kanada und Spanien. Abweichende erweiterte Länderlisten anderer Kataloge werden nicht übernommen.",
+      "series": null,
+      "series_note": "Keine nummerierte Filmfolge in den Produktions- und Verleihangaben. Die Zusammenarbeit von Villeneuve und Gyllenhaal auch bei Prisoners begründet keine gemeinsame Reihe.",
+      "series_sources": [
+        "https://micro-scope.ca/en/portfolio/enemy/",
+        "https://a24films.com/films/enemy"
+      ],
+      "sources": [
+        {
+          "key": "produktion",
+          "url": "https://micro-scope.ca/en/portfolio/enemy/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Synopsis, Figuren und Cast, Romanvorlage, Regie, Kanada-Spanien-Koproduktion."
+        },
+        {
+          "key": "pathe",
+          "url": "https://international.pathefilms.com/en/movies/enemy/",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizieller internationaler Vertrieb: Figuren, Synopsis, Regie und Länder Kanada/Spanien; abweichendes Produktionsjahr 2012 ausdrücklich abgegrenzt."
+        },
+        {
+          "key": "a24",
+          "url": "https://a24films.com/films/enemy",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Hauptdarsteller, Doppelgängerkonflikt und nordamerikanischer Kinostart 2014."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Enemy_(2013_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Filmentdeckung, identische Narben, Marys Beobachtung des Eheringabdrucks und Festivalpremiere 2013."
+        },
+        {
+          "key": "interview",
+          "url": "https://www.filmcomment.com/interview-denis-villeneuve/",
+          "accessed_on": "2026-11-03",
+          "supports": "Villeneuves eigene Erläuterungen zu Doppelrolle, Körperhaltung, Farbgestaltung, Romanadaption und Louise Bourgeois’ Maman als Bildinspiration."
+        },
+        {
+          "key": "tiff",
+          "url": "https://www.screendaily.com/toronto/denis-villeneuve-prisoners/enemy/5060210.article",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössisches Interview vom 9. September 2013: Enemy und Prisoners beide in Toronto, Enemy-Weltpremiere; gelesene Suchfassung, Direktabruf zeitweise blockiert."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-001-L1",
+      "year_question_id": "G150-20261103-THRILLER-001-Y",
+      "director_question_id": "G150-20261103-THRILLER-001-D"
+    },
+    {
+      "id": "THRILLER-002",
+      "film_title_de": "Der schwarze Diamant",
+      "film_title_original": "Uncut Gems",
+      "film_year": 2019,
+      "subdomain": "Thriller",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 2,
+      "familiarity_reason": "Adam Sandlers ungewöhnliche Hauptrolle und die breite Streamingverbreitung machen den Film über das enge Autorenkinopublikum hinaus bekannt.",
+      "directors": [
+        "Josh Safdie",
+        "Benny Safdie"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Weltpremiere am 30. August 2019 in Telluride; der US-Kinostart erfolgte im Dezember 2019.",
+      "director_note": "Beide Safdie-Brüder sind offiziell als Regisseure genannt; Ronald Bronstein ist zusätzlicher Drehbuchautor, kein weiterer Regisseur.",
+      "country_note": "",
+      "series": null,
+      "series_note": "Keine nummerierte Filmfolge in den offiziellen A24- und Criterion-Angaben. Wiederkehrende Themen und Mitarbeitende verbinden die Safdie-Filme, ohne sie zu Fortsetzungen zu machen.",
+      "series_sources": [
+        "https://a24films.com/films/uncut-gems",
+        "https://www.criterion.com/films/31917-uncut-gems"
+      ],
+      "sources": [
+        {
+          "key": "a24",
+          "url": "https://a24films.com/films/uncut-gems",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielles Regieteam, Cast, Wettkonflikt und US-Kinostart."
+        },
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/31917-uncut-gems",
+          "accessed_on": "2026-11-03",
+          "supports": "USA, Jahr, Regieteam und Synopsis zu Opal, Schulden und Diamond District."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/7612-uncut-gems-taking-it-to-the-rack",
+          "accessed_on": "2026-11-03",
+          "supports": "J. Hobermans Filmanalyse: Basketballbezug, Garnetts Ring, Wettverhalten, Auftaktmontage und familiärer Hintergrund der Safdies."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Uncut_Gems",
+          "accessed_on": "2026-11-03",
+          "supports": "Auktionsmanipulation, letzte Wette und tödlicher Ausgang, Figurenbesetzung und genaue Premierenfolge."
+        },
+        {
+          "key": "telluride",
+          "url": "https://telluridecms-production.s3.amazonaws.com/assets/guides/46thTFFProgramFINAL.pdf",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielles Programm vom 29. August 2019: Festivalzeitraum ab 30. August, Film und beide Regisseure."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-002-L1",
+      "year_question_id": "G150-20261103-THRILLER-002-Y",
+      "director_question_id": "G150-20261103-THRILLER-002-D"
+    },
+    {
+      "id": "THRILLER-003",
+      "film_title_de": "Blood Simple – Eine mörderische Nacht",
+      "film_title_original": "Blood Simple",
+      "film_year": 1984,
+      "subdomain": "Thriller",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein bekanntes Debüt des amerikanischen Independentkinos, das eher Filmkenner als das breite Publikum sicher zuordnen können.",
+      "directors": [
+        "Joel Coen"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Öffentliche Festivalvorführungen bereits 1984, darunter Toronto und die vom AFI belegte New-York-Film-Festival-Vorführung am 12. Oktober. Der reguläre US-Kinostart war erst am 18. Januar 1985. Die Filmidentität folgt dem Erstvorführungsjahr 1984, nicht dem AFI-Kinostartjahrgang 1985.",
+      "director_note": "Der offizielle Regiecredit lautet Joel Coen, übereinstimmend in AFI, AFI Silver und Criterion. Ethan Coen ist als Produzent und gemeinsamer Drehbuchautor beteiligt; die gemeinsame kreative Arbeit wird nicht mit einem zusätzlichen ursprünglichen Regiecredit verwechselt.",
+      "country_note": "",
+      "series": null,
+      "series_note": "Keine nummerierte Filmfolge. Gemeinsame Mitarbeitende und das spätere Remake ergeben keine Fortsetzung.",
+      "series_sources": [
+        "https://www.criterion.com/films/28852-blood-simple",
+        "https://catalog.afi.com/Film/67010-BLOOD-SIMPLE"
+      ],
+      "sources": [
+        {
+          "key": "criterion",
+          "url": "https://www.criterion.com/films/28852-blood-simple",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Credits Joel Coen/Ethan Coen, Land, Erstjahr 1984, Figuren, Neo-Noir und Farbgestaltung."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/67010-BLOOD-SIMPLE",
+          "accessed_on": "2026-11-03",
+          "supports": "Ursprünglicher Regiecredit Joel Coen, Besetzung, US-Kinostart 1985, Festivalvorführung 1984 und ausführliche Synopsis."
+        },
+        {
+          "key": "silver",
+          "url": "https://silver.afi.com/movies/detail/0100005180/",
+          "accessed_on": "2026-11-03",
+          "supports": "Erstjahr 1984, Rollen, Filmgeschichte und ursprüngliche Creditverteilung."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Blood_Simple",
+          "accessed_on": "2026-11-03",
+          "supports": "Gefälschte Fotos, Rays falsche Schlussfolgerung, lebendige Bestattung und Abbys falsche Täterannahme im Finale."
+        },
+        {
+          "key": "essay",
+          "url": "https://www.criterion.com/current/posts/4230-blood-simple-down-here-you-re-on-your-own",
+          "accessed_on": "2026-11-03",
+          "supports": "Nathaniel Rich: Missverständnisse als Handlungsmotor, Verbindung von Noir und Horror, Joel Coens Schnittassistenz bei The Evil Dead und Erstvorführungen 1984."
+        },
+        {
+          "key": "janus",
+          "url": "https://www.janusfilms.com/films/1815",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizieller Verleih: Joel Coen, USA, Filmjahr 1984, Barry Sonnenfeld und Carter Burwell."
+        }
+      ],
+      "reference_question_id": "G150-20261103-THRILLER-003-L1",
+      "year_question_id": "G150-20261103-THRILLER-003-Y",
+      "director_question_id": "G150-20261103-THRILLER-003-D"
+    },
+    {
+      "id": "FANTASY-001",
+      "film_title_de": "Jason und die Argonauten",
+      "film_title_original": "Jason and the Argonauts",
+      "film_year": 1963,
+      "subdomain": "Fantasy",
+      "categories": [],
+      "familiarity_level": 3,
+      "familiarity_reason": "Ein prägendes Werk der klassischen Trickfilmfantasy; Figuren und einzelne Prüfungen gehören vor allem zum Wissen von Filmkennern.",
+      "directors": [
+        "Don Chaffey"
+      ],
+      "production_countries": [
+        "Großbritannien",
+        "Italien",
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 1963. Das AFI dokumentiert US-Starts im August, andere Filmografien eine Premiere im Juni; der gemeinsame erste Veröffentlichungsjahrgang ist 1963.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige Adaption des Argonautenstoffs. Gemeinsame Effektautorschaft mit Sindbad-Filmen erzeugt keine nummerierte Jason-Filmreihe.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/22132-JASON-ANDTHEARGONAUTS"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/22132-JASON-ANDTHEARGONAUTS",
+          "accessed_on": "2026-11-03",
+          "supports": "Regie, Darsteller, Produktionsländer, Jahr 1963, GoldenesVlies, göttlicherBeistand, Harpyien, Hydrazähne und Dynamation einschließlich früherer Arbeiten 1958/1960/1961."
+        },
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/jasonandtheargonauts",
+          "accessed_on": "2026-11-03",
+          "supports": "Hauptfigur, Herrschaftsanspruch, GoldenesVlies, Hera und übernatürliche Gegner."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_(1963_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Fassungsgenauer Ablauf: Talosverschluss, Phineus, Hera, Hydrazähne; abweichende antike Überlieferung nicht als Filmhandlung übernehmen."
+        },
+        {
+          "key": "museum",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8006086/fibreglass-model-of-talos",
+          "accessed_on": "2026-11-03",
+          "supports": "Talosmodell, Latex um Metallarmatur und Harryhausens Verbindung von Stop-Motion mit Realfilm."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-001-L1",
+      "year_question_id": "G150-20261103-FANTASY-001-Y",
+      "director_question_id": "G150-20261103-FANTASY-001-D"
+    },
+    {
+      "id": "FANTASY-002",
+      "film_title_de": "Der Dieb von Bagdad",
+      "film_title_original": "The Thief of Bagdad",
+      "film_year": 1924,
+      "subdomain": "Fantasy",
+      "categories": [
+        "Classics"
+      ],
+      "familiarity_level": 3,
+      "familiarity_reason": "Wichtiger Stummfilmklassiker; die Fassung mit Douglas Fairbanks ist trotz des bekannten Titels eher Filmkennern vertraut.",
+      "directors": [
+        "Raoul Walsh"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Weltpremiere am18.März 1924 im New Yorker Liberty Theatre, durch AFI und San Francisco Silent Film Festival unabhängig übereinstimmend dokumentiert.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Die späteren Verfilmungen des Stoffes sind eigenständige Neufassungen, keine nummerierten Fortsetzungen dieses Films.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/12631-THE-THIEFOFBAGDAD"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/12631-THE-THIEFOFBAGDAD",
+          "accessed_on": "2026-11-03",
+          "supports": "Offizielle Credits, RaoulWalsh, Fairbanks, Menzies, US-Produktion, Weltpremiere18.März 1924 und spätere eigenständige Verfilmung 1940."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1924_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Ahmed und die Prinzessin, drei magische Geschenke, beschworenes Heer und alsTräger eingeschleuste Soldaten; Besetzungsabgleich."
+        },
+        {
+          "key": "tcm",
+          "url": "https://www.tcm.com/watchtcm/titles/5878",
+          "accessed_on": "2026-11-03",
+          "supports": "Zeitgenössische Fassung, Fairbanks als Held, Prinzessin, Akrobatik und Palastbauten."
+        },
+        {
+          "key": "festival",
+          "url": "https://silentfilm.org/the-thief-of-bagdad/",
+          "accessed_on": "2026-11-03",
+          "supports": "Weltpremiere, Produktionsgeschichte, ursprüngliche Filmmusik und Stummfilmkontext."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-002-L1",
+      "year_question_id": "G150-20261103-FANTASY-002-Y",
+      "director_question_id": "G150-20261103-FANTASY-002-D"
+    },
+    {
+      "id": "FANTASY-003",
+      "film_title_de": "Alice",
+      "film_title_original": "Něco z Alenky",
+      "film_year": 1988,
+      "subdomain": "Fantasy",
+      "categories": [
+        "Arthouse"
+      ],
+      "familiarity_level": 4,
+      "familiarity_reason": "Eigenwillige tschechische Stop-Motion-Adaption; als Werk deutlich weniger verbreitet als die literarische Figur.",
+      "directors": [
+        "Jan Švankmajer"
+      ],
+      "production_countries": [
+        "Tschechoslowakei",
+        "Schweiz",
+        "BR Deutschland",
+        "Großbritannien"
+      ],
+      "release_note": "Erstveröffentlichung 1988; der Národní filmový archiv belegt Jahr und Koproduktionsländer. Der Filmový přehled nennt die Berlinale 1988 als Premiere. Der tschechoslowakische Kinostart 1990 ist ein späterer Landesstart.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige Carroll-Adaption, keine nummerierte Filmfolge. Jabberwocky ist ein früherer eigenständiger Kurzfilm desselben Regisseurs.",
+      "series_sources": [
+        "https://www.bfi.org.uk/lists/alice-wonderland-eight-very-different-film-versions"
+      ],
+      "sources": [
+        {
+          "key": "nfa",
+          "url": "https://www.nfa.cz/cs/48642-neco-z-alenky",
+          "accessed_on": "2026-11-03",
+          "supports": "Originaltitel,1988, JanŠvankmajer, KristýnaKohoutová und vier Koproduktionsländer."
+        },
+        {
+          "key": "bfi",
+          "url": "https://www.bfi.org.uk/lists/alice-wonderland-eight-very-different-film-versions",
+          "accessed_on": "2026-11-03",
+          "supports": "Carroll-Vorlage1865; Švankmajers KurzfilmJabberwocky 1971; ersterLangfilm; ausgestopfterHase, Schublade, Objektwelt und Stop-Motion."
+        },
+        {
+          "key": "ausgabe",
+          "url": "https://shop.bfi.org.uk/alice-dual-format-edition/",
+          "accessed_on": "2026-11-03",
+          "supports": "Realfilmfigur mitStop-Motion; ursprüngliche tschechische Sprachfassung von englischen Nachfassungen unterscheiden."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Alice_(1988_film)",
+          "accessed_on": "2026-11-03",
+          "supports": "Trank undPuppenverwandlung; Strumpfraupe; vonAlice gesprocheneFiguren, Mundnahaufnahmen und Prozess mit vorgegebenemText."
+        },
+        {
+          "key": "premiere",
+          "url": "https://www.filmovyprehled.cz/en/revue/detail/alice",
+          "accessed_on": "2026-11-03",
+          "supports": "Herstellung mit ausländischenPartnern und Premiere bei derBerlinale 1988; späterer tschechoslowakischerStart."
+        }
+      ],
+      "reference_question_id": "G150-20261103-FANTASY-003-L1",
+      "year_question_id": "G150-20261103-FANTASY-003-Y",
+      "director_question_id": "G150-20261103-FANTASY-003-D"
+    },
+    {
+      "id": "ROMCOM-001",
+      "film_title_de": "Die nackte Wahrheit",
+      "film_title_original": "The Ugly Truth",
+      "film_year": 2009,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Breit vermarktete Hollywood-Liebeskomödie mit Katherine Heigl und Gerard Butler; ein zugänglicher bekannter Titel.",
+      "directors": [
+        "Robert Luketic"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 2009; AFI dokumentiert die Starts in Los Angeles undNew York am 24. Juli.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige romantische Komödie ohne belegte nummerierte Filmfolge in den geprüften Quellen.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/65018-THE-UGLY-TRUTH"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.sonypictures.com/movies/theuglytruth",
+          "accessed_on": "2026-11-03",
+          "supports": "FernsehproduzentinAbby, DarstellerHeigl/Butler, GegensatzderBeziehungsbilder, MikesBeratung undJahr 2009."
+        },
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/65018-THE-UGLY-TRUTH",
+          "accessed_on": "2026-11-03",
+          "supports": "RegieRobertLuketic, Autorinnenteam, Rollen, Produktionsland undKinostart24.Juli 2009."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/The_Ugly_Truth",
+          "accessed_on": "2026-11-03",
+          "supports": "Beratungsabmachung, Colin undgespieltePersönlichkeit, MikebleibtwegenSchwester/Neffe undBallonfinale."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.universalpicturesathome.com/movies/knocked-up",
+          "accessed_on": "2026-11-03",
+          "supports": "Beim früherenFilmKnockedUp gehörenKatherineHeigl undJahr 2007 zurveröffentlichtenWerkzuordnung."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-001-L1",
+      "year_question_id": "G150-20261103-ROMCOM-001-Y",
+      "director_question_id": "G150-20261103-ROMCOM-001-D"
+    },
+    {
+      "id": "ROMCOM-002",
+      "film_title_de": "Zum Ausziehen verführt",
+      "film_title_original": "Failure to Launch",
+      "film_year": 2006,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte Hollywood-Liebeskomödie mit Matthew McConaughey und Sarah Jessica Parker; zugänglicher Einstieg über eine klare Wohn- und Beziehungssituation.",
+      "directors": [
+        "Tom Dey"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 2006; US-Start10.März 2006, mit Produktions- und Handlungsquellen abgeglichen.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständiger Spielfilm ohne belegte nummerierte Filmfolge in den geprüften Quellen.",
+      "series_sources": [
+        "https://www.paramount.com/movies/failure-to-launch"
+      ],
+      "sources": [
+        {
+          "key": "studio",
+          "url": "https://www.paramount.com/movies/failure-to-launch",
+          "accessed_on": "2026-11-03",
+          "supports": "Ausgangslage des35-jährigenTripp, Eltern undengagiertePaula; RegieTomDey undHauptdarsteller."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/Failure_to_Launch",
+          "accessed_on": "2026-11-03",
+          "supports": "Wohnsituation, Trennungsmethode, TodderVerlobten, Ace/Kit-Nebenhandlung, Boot undVersöhnung; Filmjahr 2006."
+        },
+        {
+          "key": "produktion",
+          "url": "https://www.americanhumane.org/production/failure-to-launch/",
+          "accessed_on": "2026-11-03",
+          "supports": "Tieraufnahmen mitrealenTieren, Puppen undAnimatronik; DelphinattackeundSchluss mitmechanischemModell; Start10.März 2006."
+        },
+        {
+          "key": "anker",
+          "url": "https://www.paramount.com/movies/how-to-lose-a-guy-in-10-days",
+          "accessed_on": "2026-11-03",
+          "supports": "MatthewMcConaughey als romantischerHauptdarsteller imFilm von 2003, AbmachunggegenüberPartnerwissen."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-002-L1",
+      "year_question_id": "G150-20261103-ROMCOM-002-Y",
+      "director_question_id": "G150-20261103-ROMCOM-002-D"
+    },
+    {
+      "id": "ROMCOM-003",
+      "film_title_de": "Love Vegas",
+      "film_title_original": "What Happens in Vegas",
+      "film_year": 2008,
+      "subdomain": "Rom-Com",
+      "categories": [],
+      "familiarity_level": 2,
+      "familiarity_reason": "Bekannte romantische Hollywood-Komödie mit Cameron Diaz und Ashton Kutcher und einer schnell verständlichen Hochzeitspremisse.",
+      "directors": [
+        "Tom Vaughan"
+      ],
+      "production_countries": [
+        "USA"
+      ],
+      "release_note": "Erstveröffentlichung 2008; London-Premiere am 22. April, US-Kinostart am 9. Mai. Jahr undCredit mitAFI/ORF abgeglichen.",
+      "director_note": "",
+      "country_note": "",
+      "series": null,
+      "series_note": "Eigenständige romantische Komödie ohne belegte nummerierte Filmfolge in den geprüften Quellen.",
+      "series_sources": [
+        "https://catalog.afi.com/Film/64809-WHAT-HAPPENS-IN-VEGAS"
+      ],
+      "sources": [
+        {
+          "key": "afi",
+          "url": "https://catalog.afi.com/Film/64809-WHAT-HAPPENS-IN-VEGAS",
+          "accessed_on": "2026-11-03",
+          "supports": "RegieTomVaughan, DrehbuchDanaFox, zentraleDarsteller, Produktionsland undFilmjahr 2008."
+        },
+        {
+          "key": "orf",
+          "url": "https://tv.orf.at/program/orf1/lovevegas100.html",
+          "accessed_on": "2026-11-03",
+          "supports": "DeutscherTitel, verworfeneVerlobung, Entlassung, Spontanhochzeit, Jackpot undsechsmonatigeFrist; Besetzung."
+        },
+        {
+          "key": "handlung",
+          "url": "https://en.wikipedia.org/wiki/What_Happens_in_Vegas",
+          "accessed_on": "2026-11-03",
+          "supports": "JoysgelieheneMünze, Hochzeit, gerichtlicheBedingungen, RingüberMason, Geldverzicht undwiederholterAntrag; WeltpremiereLondon 2008."
+        },
+        {
+          "key": "vorwerk",
+          "url": "https://www.bfi.org.uk/film/38a354c1-b0f9-548f-b19a-d85902f94b0f/starter-for-10",
+          "accessed_on": "2026-11-03",
+          "supports": "TomVaughans frühererFilmStarterfor10 von 2006, HauptdarstellerJamesMcAvoy."
+        }
+      ],
+      "reference_question_id": "G150-20261103-ROMCOM-003-L1",
+      "year_question_id": "G150-20261103-ROMCOM-003-Y",
+      "director_question_id": "G150-20261103-ROMCOM-003-D"
     }
   ]
 }

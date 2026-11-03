@@ -1,0 +1,240 @@
+{
+  "categories": [],
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "genre": "Rom-Com",
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_level": 2,
+  "id": "ROMCOM-003",
+  "film_title_de": "Love Vegas",
+  "film_title_original": "What Happens in Vegas",
+  "film_year": 2008,
+  "familiarity_reason": "Bekannte romantische Hollywood-Komödie mit Cameron Diaz und Ashton Kutcher und einer schnell verständlichen Hochzeitspremisse.",
+  "selection_reason": "Ergänzt eine Wiederverheiratungskomödie, in der Geldinteressen, absichtliche Sabotage und persönliche Selbstachtung miteinander konkurrieren.",
+  "directors": [
+    "Tom Vaughan"
+  ],
+  "release_note": "Erstveröffentlichung 2008; London-Premiere am 22. April, US-Kinostart am 9. Mai. Jahr undCredit mitAFI/ORF abgeglichen.",
+  "series_note": "Eigenständige romantische Komödie ohne belegte nummerierte Filmfolge in den geprüften Quellen.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/64809-WHAT-HAPPENS-IN-VEGAS"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/64809-WHAT-HAPPENS-IN-VEGAS",
+      "accessed_on": "2026-11-03",
+      "supports": "RegieTomVaughan, DrehbuchDanaFox, zentraleDarsteller, Produktionsland undFilmjahr 2008."
+    },
+    "orf": {
+      "url": "https://tv.orf.at/program/orf1/lovevegas100.html",
+      "accessed_on": "2026-11-03",
+      "supports": "DeutscherTitel, verworfeneVerlobung, Entlassung, Spontanhochzeit, Jackpot undsechsmonatigeFrist; Besetzung."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/What_Happens_in_Vegas",
+      "accessed_on": "2026-11-03",
+      "supports": "JoysgelieheneMünze, Hochzeit, gerichtlicheBedingungen, RingüberMason, Geldverzicht undwiederholterAntrag; WeltpremiereLondon 2008."
+    },
+    "vorwerk": {
+      "url": "https://www.bfi.org.uk/film/38a354c1-b0f9-548f-b19a-d85902f94b0f/starter-for-10",
+      "accessed_on": "2026-11-03",
+      "supports": "TomVaughans frühererFilmStarterfor10 von 2006, HauptdarstellerJamesMcAvoy."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Joy und Jack heiraten spontan in einer alkoholreichen Nacht.",
+      "question": "Was stellen Joy (Cameron Diaz) und Jack (Ashton Kutcher) in „Love Vegas“ nach ihrer gemeinsamen Partynacht fest?",
+      "answers": [
+        "Sie haben einander geheiratet.",
+        "Sie haben versehentlich ein Hotel gekauft.",
+        "Sie haben einen mehrjährigen Arbeitsvertrag unterschrieben.",
+        "Sie haben ihre beiden Freunde miteinander verheiratet."
+      ],
+      "short": "Joy und Jack sind nach der Nacht miteinander verheiratet.",
+      "context": "Joy McNally (Cameron Diaz) wollte nach dem Ende ihrer Verlobung Abstand gewinnen; Jack Fuller (Ashton Kutcher) hatte seine Arbeit verloren. Ihre zufällige Begegnung führt zu einem rauschhaften gemeinsamen Ausbruch. Am nächsten Morgen wünschen beide zunächst, die Verbindung möglichst schnell wieder zu lösen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "orf",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Cameron Diaz verkörpert die kontrollierte Börsenmaklerin Joy.",
+      "question": "Wer spielt die planungsgewohnte Börsenmaklerin Joy McNally in „Love Vegas“?",
+      "answers": [
+        "Cameron Diaz",
+        "Kate Hudson",
+        "Reese Witherspoon",
+        "Katherine Heigl"
+      ],
+      "short": "Cameron Diaz spielt Joy McNally.",
+      "context": "Joy McNally (Cameron Diaz) ist beruflichen Ehrgeiz und klare Ziele gewohnt. Die Begegnung mit Jack Fuller (Ashton Kutcher) stellt ihr einen deutlich ungeordneter lebenden Menschen gegenüber. Die spätere erzwungene Nähe betrifft deshalb auch gegensätzliche Vorstellungen von Alltag und Erfolg.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "orf"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Gewinnmünze stammt von Joy, obwohl Jack den Automaten bedient.",
+      "question": "Warum kann Jack (Ashton Kutcher) den Jackpot in „Love Vegas“ nicht einfach für sich beanspruchen?",
+      "answers": [
+        "Er hat mit Joys Münze gespielt, und beide sind bereits verheiratet.",
+        "Er hat den Automaten nachweislich mit einem Werkzeug manipuliert.",
+        "Er hat den Gewinn als Geschenk für Joys Geburtstag angemeldet.",
+        "Er hat sein Eintrittsgeld mit einer gestohlenen Kreditkarte bezahlt."
+      ],
+      "short": "Die Münze stammt von Joy; außerdem besteht die frisch geschlossene Ehe.",
+      "context": "Jack Fuller (Ashton Kutcher) betätigt den Automaten, aber Joy McNally (Cameron Diaz) hat den Einsatz beigesteuert. Aus der eben noch bedauerten Hochzeit wird dadurch ein Vermögenskonflikt. Keiner möchte den Anspruch auf den Gewinn durch eine schnelle Einigung leichtfertig aufgeben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "orf"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Eine sechsmonatige Eheprobe mit Beratung ist die gerichtliche Bedingung.",
+      "question": "Welche Bedingung stellt der Richter dem Paar in „Love Vegas“, bevor es sich den Gewinn teilen darf?",
+      "answers": [
+        "Sechs Monate Zusammenleben mit regelmäßiger Eheberatung.",
+        "Eine gemeinsame Weltreise auf eigene Kosten.",
+        "Ein Jahr ohne jede bezahlte Berufstätigkeit.",
+        "Die sofortige Gründung eines gemeinsamen Unternehmens."
+      ],
+      "short": "Sie müssen sechs Monate an ihrer Ehe arbeiten und eine Beratung besuchen.",
+      "context": "Der Richter lässt die erhoffte schnelle Trennung nicht zu. Joy McNally (Cameron Diaz) und Jack Fuller (Ashton Kutcher) versuchen deshalb zunächst, den jeweils anderen als untauglichen Partner erscheinen zu lassen. Die Beratung macht ihr Zusammenleben zu einer beobachteten Bewährungsprobe.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "orf"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Der an Mason weitergereichte Ring wird als erneuter Betrug verstanden.",
+      "question": "Welche heimliche Handlung Jacks (Ashton Kutcher) verletzt Joy (Cameron Diaz) gegen Ende von „Love Vegas“ besonders?",
+      "answers": [
+        "Er hat ihrem früheren Verlobten ihren Verlobungsring zurückgegeben.",
+        "Er hat ihre Wohnung an die Eheberaterin verkauft.",
+        "Er hat ihre Kündigung anstelle der Beförderungszusage unterschrieben.",
+        "Er hat ihre Freundin ohne ihr Wissen als Scheidungsanwältin eingesetzt."
+      ],
+      "short": "Jack gab den Verlobungsring an Joys früheren Partner zurück.",
+      "context": "Als Mason (Jason Sudeikis) den Ring und eine erneute Beziehung anbietet, vermutet Joy McNally (Cameron Diaz) dahinter eine weitere Intrige von Jack Fuller (Ashton Kutcher). Die zuvor geplanten Sabotagen belasten jetzt einen Moment, in dem echte Zuneigung entstanden ist. Misstrauen überlebt damit den ursprünglichen Plan.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Joy verzichtet auf ihren Geldanteil, statt eine als entwürdigend empfundene Verbindung fortzusetzen.",
+      "question": "Wie reagiert Joy (Cameron Diaz) in „Love Vegas“ bei der abschließenden Anhörung auf ihren Anteil am Gewinn?",
+      "answers": [
+        "Sie verzichtet auf das Geld und verlässt die Anhörung.",
+        "Sie verlangt ihre Hälfte und eine sofortige Scheidung.",
+        "Sie will den Gewinn bis zu einer weiteren Anhörung sperren lassen.",
+        "Sie bietet Jack ihren Anteil an, wenn er die Ehe fortsetzt."
+      ],
+      "short": "Joy erklärt, dass sie nichts von dem Geld haben möchte.",
+      "context": "Joy McNally (Cameron Diaz) glaubt erneut getäuscht worden zu sein. Der Verzicht löst sie von dem finanziellen Grund, der das Paar zum Zusammenleben gezwungen hatte. Dass Jack Fuller (Ashton Kutcher) sie später sucht, kann deshalb nicht mehr bloß die Fortsetzung des Streits um den Gewinn sein.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "stark"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 2008.",
+      "question": "In welchem Jahr wurde „Love Vegas“ mit Cameron Diaz und Ashton Kutcher erstmals veröffentlicht?",
+      "answers": [
+        "2008",
+        "2000",
+        "2004",
+        "2012"
+      ],
+      "short": "„Love Vegas“ erschien 2008.",
+      "context": "Tom Vaughan hatte 2006 mit „Starter for 10“ einen Film um einen jungen Studenten und dessen Liebes- und Aufstiegswünsche inszeniert. Zwei Jahre später verlagert „Love Vegas“ die romantischen Fehlentscheidungen in eine amerikanische Hochzeits- und Geldkomödie. Der frühere Film ist keine Vorgeschichte des Paars.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "vorwerk"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Tom Vaughan führt Regie.",
+      "question": "Wer führte bei „Love Vegas“ mit Cameron Diaz und Ashton Kutcher Regie?",
+      "answers": [
+        "Tom Vaughan",
+        "Tom Dey",
+        "Robert Luketic",
+        "Andy Tennant"
+      ],
+      "short": "Die Regie stammt von Tom Vaughan.",
+      "context": "Dana Fox schrieb das Drehbuch. Die gesetzte Frist bringt die Hauptfiguren immer wieder zusammen, während sie zunächst gegeneinander arbeiten. Vaughan inszeniert daraus den Übergang von geplanten Kränkungen zu einer Bindung, die erst nach dem Ende des finanziellen Zwangs frei bestätigt werden kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

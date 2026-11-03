@@ -1,0 +1,240 @@
+{
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "id": "FANTASY-002",
+  "film_title_de": "Der Dieb von Bagdad",
+  "film_title_original": "The Thief of Bagdad",
+  "film_year": 1924,
+  "genre": "Fantasy",
+  "categories": [
+    "Classics"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Wichtiger Stummfilmklassiker; die Fassung mit Douglas Fairbanks ist trotz des bekannten Titels eher Filmkennern vertraut.",
+  "selection_reason": "Ergänzt die Stummfilmfantasy und eine Filmfassung, die sich personell und in der Heldenanlage deutlich von der vorhandenen Sabu-Verfilmung unterscheidet.",
+  "directors": [
+    "Raoul Walsh"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Weltpremiere am18.März 1924 im New Yorker Liberty Theatre, durch AFI und San Francisco Silent Film Festival unabhängig übereinstimmend dokumentiert.",
+  "series_note": "Die späteren Verfilmungen des Stoffes sind eigenständige Neufassungen, keine nummerierten Fortsetzungen dieses Films.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/12631-THE-THIEFOFBAGDAD"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/12631-THE-THIEFOFBAGDAD",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Credits, RaoulWalsh, Fairbanks, Menzies, US-Produktion, Weltpremiere18.März 1924 und spätere eigenständige Verfilmung 1940."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Thief_of_Bagdad_(1924_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Ahmed und die Prinzessin, drei magische Geschenke, beschworenes Heer und alsTräger eingeschleuste Soldaten; Besetzungsabgleich."
+    },
+    "tcm": {
+      "url": "https://www.tcm.com/watchtcm/titles/5878",
+      "accessed_on": "2026-11-03",
+      "supports": "Zeitgenössische Fassung, Fairbanks als Held, Prinzessin, Akrobatik und Palastbauten."
+    },
+    "festival": {
+      "url": "https://silentfilm.org/the-thief-of-bagdad/",
+      "accessed_on": "2026-11-03",
+      "supports": "Weltpremiere, Produktionsgeschichte, ursprüngliche Filmmusik und Stummfilmkontext."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Die Liebe zur Tochter des Kalifen verändert Ahmeds Ziel.",
+      "question": "In wen verliebt sich Ahmed (Douglas Fairbanks) in der Stummfilmfassung von „Der Dieb von Bagdad“?",
+      "answers": [
+        "In die Tochter des Kalifen.",
+        "In die Herrscherin eines benachbarten Reichs.",
+        "In eine wandernde Wahrsagerin.",
+        "In die Befehlshaberin einer fremden Armee."
+      ],
+      "short": "Ahmed verliebt sich in die Prinzessin, die Tochter des Kalifen.",
+      "context": "Ahmed (Douglas Fairbanks) dringt zunächst als Dieb in den Palast ein. Die Begegnung mit der Prinzessin (Julanne Johnston) verändert seine Absichten. Aus dem Versuch, sich etwas anzueignen, wird eine Reise, auf der er sich als würdiger Partner erweisen soll.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Douglas Fairbanks verkörpert den akrobatischen Titelhelden.",
+      "question": "Wer spielt den akrobatischen Helden der Stummfilmfassung von „Der Dieb von Bagdad“?",
+      "answers": [
+        "Douglas Fairbanks",
+        "Rudolph Valentino",
+        "John Gilbert",
+        "Ramón Novarro"
+      ],
+      "short": "Douglas Fairbanks spielt den Titelhelden.",
+      "context": "Fairbanks war zugleich eine treibende Kraft hinter der Produktion. Die körperliche Beweglichkeit des Helden trifft auf aufwendige Palastbauten und märchenhafte Hindernisse. Darstellerischer Einsatz und fantastische Räume gehören dabei gemeinsam zur Attraktion; die Reise besteht nicht nur aus einem Wechsel schöner Kulissen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "tcm"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Kristallkugel, Teppich und Heilapfel wirken bei der Rettung der Prinzessin zusammen.",
+      "question": "Wie retten die drei Prinzen in der Fairbanks-Fassung von „Der Dieb von Bagdad“ die vergiftete Prinzessin?",
+      "answers": [
+        "Kristallkugel, fliegender Teppich und Heilapfel helfen nur gemeinsam.",
+        "Jeder von ihnen heilt sie unabhängig mit demselben Zauberspruch.",
+        "Sie tauschen ihre Geschenke gegen ein gewöhnliches Gegengift.",
+        "Sie ersetzen die Prinzessin durch ein unverwundbares Ebenbild."
+      ],
+      "short": "Alle drei magischen Geschenke leisten einen notwendigen Beitrag.",
+      "context": "Die Kristallkugel macht die Gefahr sichtbar, der Teppich überbrückt die Entfernung und der Apfel heilt. Die Prinzessin (Julanne Johnston) widerspricht deshalb dem Versuch, einen einzelnen Geber zum alleinigen Retter zu erklären. Der Wettbewerb der Freier lässt sich nicht so einfach über ein einziges Wunder entscheiden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ein Wunschpulver erzeugt ein Heer zur Befreiung der Stadt.",
+      "question": "Womit vertreibt Ahmed (Douglas Fairbanks) in der Stummfilmfassung von „Der Dieb von Bagdad“ die Besatzer der Stadt?",
+      "answers": [
+        "Er lässt mit magischem Pulver ein großes Heer entstehen.",
+        "Er setzt die gesamte Stadt mit einer Zauberfackel in Brand.",
+        "Er verwandelt die Angreifer mit einem Spiegel in Tiere.",
+        "Er lässt ein Erdbeben die Stadtmauern verschlucken."
+      ],
+      "short": "Mit dem Zauberpulver erschafft er eine Armee.",
+      "context": "Ahmed (Douglas Fairbanks) erreicht die Stadt erst nach dem Angriff des fremden Prinzen (Sojin Kamiyama). Seine während der Reise gewonnene Magie dient nun nicht mehr einem privaten Wettbewerb. Das herbeigerufene Heer verändert das Kräfteverhältnis und ermöglicht die Befreiung der Stadt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "William Cameron Menzies verantwortet die prägende Ausstattung.",
+      "question": "Wer entwarf die prägenden fantastischen Bauten der Stummfilmfassung von „Der Dieb von Bagdad“ als Art Director?",
+      "answers": [
+        "William Cameron Menzies",
+        "Cedric Gibbons",
+        "Hans Dreier",
+        "Hans Poelzig"
+      ],
+      "short": "Der maßgebliche Art-Director-Credit gehört William Cameron Menzies.",
+      "context": "Die übersteigerten Paläste und weiten Spielräume geben dem beweglichen Helden einen fantastischen Handlungsraum. Das AFI führt daneben weitere Mitarbeiter der Ausstattung auf; die Frage gilt dem leitenden Credit. Besonders aufwendige Gestaltung war ein Grund dafür, dass sich die Produktion bis ins Veröffentlichungsjahr verlängerte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Als Träger getarnte Soldaten ermöglichen die Einnahme Bagdads.",
+      "question": "Wie bereitet der fremde Prinz in der Stummfilmfassung von „Der Dieb von Bagdad“ seinen Angriff auf Bagdad vor?",
+      "answers": [
+        "Er schleust Soldaten als Träger getarnt in die Stadt ein.",
+        "Er ersetzt die gesamte Stadtwache durch verzauberte Statuen.",
+        "Er lässt seine Krieger unsichtbar über die Dächer fliegen.",
+        "Er bittet den Kalifen offen um eine militärische Garnison."
+      ],
+      "short": "Seine Soldaten gelangen als Träger getarnt nach Bagdad.",
+      "context": "Der fremde Prinz (Sojin Kamiyama) betreibt seine Werbung um die Prinzessin (Julanne Johnston) zugleich als Machtpolitik. Während die magischen Gaben den sichtbaren Wettbewerb bestimmen, organisiert er bereits die Besetzung. Sein Ziel reicht damit über eine Heirat hinaus zur Kontrolle der Stadt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 1924.",
+      "question": "In welchem Jahr wurde die Stummfilmfassung von „Der Dieb von Bagdad“ mit Douglas Fairbanks erstmals veröffentlicht?",
+      "answers": [
+        "1924",
+        "1914",
+        "1930",
+        "1936"
+      ],
+      "short": "Die Fairbanks-Fassung erschien 1924.",
+      "context": "Die bekannte Technicolor-Fassung mit Sabu folgte erst 1940, also sechzehn Jahre später. Beide nutzen den Märchenstoff, gehören aber nicht zu einer fortlaufend nummerierten Handlung. Wer nur den deutschen Titel kennt, muss deshalb Darsteller und Filmfassung auseinanderhalten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "festival"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Raoul Walsh führt Regie.",
+      "question": "Wer führte bei der Stummfilmfassung von „Der Dieb von Bagdad“ mit Douglas Fairbanks Regie?",
+      "answers": [
+        "Raoul Walsh",
+        "Allan Dwan",
+        "Fred Niblo",
+        "Maurice Tourneur"
+      ],
+      "short": "Der offizielle Regiecredit gehört Raoul Walsh.",
+      "context": "Douglas Fairbanks war als Hauptdarsteller und Produzent stark beteiligt; das macht ihn nicht zum alleinigen Regisseur. Der AFI-Credit trennt außerdem die Regie von William Cameron Menzies’ Ausstattung. Das aufwendige Zusammenspiel dieser Bereiche bildet die Grundlage der märchenhaften Schauwerte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

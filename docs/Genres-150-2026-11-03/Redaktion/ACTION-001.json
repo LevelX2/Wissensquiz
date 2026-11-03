@@ -1,0 +1,264 @@
+{
+  "id": "ACTION-001",
+  "film_title_de": "Nur 48 Stunden",
+  "film_title_original": "48 Hrs.",
+  "film_year": 1982,
+  "genre": "Action",
+  "categories": [],
+  "familiarity_level": 2,
+  "familiarity_reason": "Prägender Buddy-Actionfilm mit Eddie Murphy und Nick Nolte, vor allem durch Kino- und Fernsehpräsenz bekannt.",
+  "selection_reason": "Ein wichtiger Ausgangspunkt der Actionkomödie über ein ungleiches Duo. Der Film bietet neben Verfolgungen auch einen konkreten Wandel im Verhalten zwischen einem Polizisten und einem Gefangenen.",
+  "directors": [
+    "Walter Hill"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "US-Kinostart am 8. Dezember 1982 laut AFI; keine frühere Festivalveröffentlichung in den geprüften Filmquellen verzeichnet.",
+  "director_note": "Walter Hill ist als Regisseur und als einer der Drehbuchautoren genannt.",
+  "country_note": "",
+  "series": {
+    "name": "Nur 48 Stunden",
+    "position": 1,
+    "note": "Erster Film mit Jack Cates und Reggie Hammond; Fortsetzung Another 48 Hrs. von 1990."
+  },
+  "series_note": "Die Zählung folgt den beiden veröffentlichten Kinofilmen desselben Ermittlerduos.",
+  "series_sources": [
+    "https://en.wikipedia.org/wiki/48_Hrs."
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Catalog/MovieDetails/56783",
+      "accessed_on": "2026-11-03",
+      "supports": "Credits, US-Start, Eddie Murphys Kinodebüt, Musikeinsatz und ausführliche Synopsis."
+    },
+    "paramount": {
+      "url": "https://www.paramount.com/movies/48-hrs",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Rollen, Ausgangslage des Gefangenenurlaubs und Regiecredit."
+    },
+    "silver": {
+      "url": "https://silver.afi.com/movies/detail/0100005582/",
+      "accessed_on": "2026-11-03",
+      "supports": "Filmhistorische Einordnung als prägender Buddy-Actionfilm und Konflikt zwischen Polizist und Gefangenem."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/48_Hrs.",
+      "accessed_on": "2026-11-03",
+      "supports": "Geldversteck, Rosalie als Geisel, Handlungsort, Abschluss und Fortsetzung von 1990."
+    },
+    "murphy": {
+      "url": "https://www.afi.com/news/beverly-hills-cop-afi-catalog-spotlight/",
+      "accessed_on": "2026-11-03",
+      "supports": "Karrierefolge 48 Hrs. 1982, Trading Places 1983 und Beverly Hills Cop 1984."
+    },
+    "hill": {
+      "url": "https://www.rialtopictures.com/catalogue/red-heat",
+      "accessed_on": "2026-11-03",
+      "supports": "Walter Hills späterer Film Red Heat als bewusster Vergleich derselben Buddy-Cop-Tradition."
+    },
+    "auftritt": {
+      "url": "https://www.cinemablend.com/movies/iconic-48-hrs-scene-eddie-murphy-saved-from-being-dull",
+      "accessed_on": "2026-11-03",
+      "supports": "Wiedergegebene Äußerungen Walter Hills über Murphys Gefängnisauftritt mit Roxanne."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Reggie Hammond ist ein Häftling und wird dem Polizisten vorübergehend zur Mithilfe überlassen.",
+      "question": "Welchen Status hat Reggie Hammond (Eddie Murphy), als Jack Cates (Nick Nolte) ihn in „Nur 48 Stunden“ für die Suche nach den Tätern benötigt?",
+      "answers": [
+        "Er sitzt eine Gefängnisstrafe ab.",
+        "Er ist Cates’ neu versetzter Polizeikollege.",
+        "Er arbeitet als Staatsanwalt im selben Bezirk.",
+        "Er leitet ein privates Sicherheitsunternehmen."
+      ],
+      "short": "Reggie ist ein verurteilter Gefangener, der die gesuchten Männer aus früheren Geschäften kennt.",
+      "context": "Jack Cates (Nick Nolte) braucht Wissen, das seine Polizeiarbeit allein nicht liefert. Reggie Hammond (Eddie Murphy) erhält deshalb vorübergehend die Möglichkeit, das Gefängnis in seiner Begleitung zu verlassen. Ihre Zusammenarbeit beginnt mit einem deutlichen Machtgefälle und gegensätzlichen persönlichen Interessen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "silver"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Der Hauptteil der Ermittlungen spielt in San Francisco.",
+      "question": "In welcher Stadt jagen Cates (Nick Nolte) und Hammond (Eddie Murphy) in „Nur 48 Stunden“ die flüchtigen Verbrecher?",
+      "answers": [
+        "San Francisco",
+        "Chicago",
+        "Detroit",
+        "Miami"
+      ],
+      "short": "Die Suche führt durch San Francisco.",
+      "context": "Der Fall bewegt sich zwischen Hotels, Bars, einer Tiefgarage und dem Nahverkehr. Jack Cates (Nick Nolte) kennt die institutionelle Seite der Stadt; Reggie Hammond (Eddie Murphy) steuert Verbindungen zur Unterwelt bei. Die beiden müssen ihre unterschiedlichen Zugänge nutzen, obwohl sie einander zunächst kaum vertrauen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Die Beute befindet sich im Kofferraum von Reggies abgestelltem Porsche.",
+      "question": "Wo hat Reggie Hammond (Eddie Murphy) in „Nur 48 Stunden“ die Beute versteckt, hinter der die flüchtigen Täter her sind?",
+      "answers": [
+        "Im Kofferraum seines in einer Garage abgestellten Porsche",
+        "Im Handschuhfach eines ausrangierten Polizeiwagens",
+        "In einem Bankschließfach unter dem Namen seines Bruders",
+        "In einem verschlossenen Koffer im Gepäckraum eines Hotels"
+      ],
+      "short": "Das Geld liegt im Kofferraum von Reggies Porsche in einer Parkgarage.",
+      "context": "Reggie Hammond (Eddie Murphy) verschweigt Jack Cates (Nick Nolte) zunächst den Zusammenhang des alten Raubs. Sobald das Versteck bekannt ist, wird das Auto zur Falle für diejenigen, die die Beute abholen wollen. Der scheinbar einfache Wagen verbindet damit Reggies eigenes Interesse mit der Fahndung.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "afi"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Ganz hält Rosalie fest, um Luther zur Beschaffung der Beute zu zwingen.",
+      "question": "Warum hält Albert Ganz (James Remar) in „Nur 48 Stunden“ Rosalie (Kerry Sherman) als Geisel fest?",
+      "answers": [
+        "Damit ihr Freund Luther die versteckte Beute beschafft",
+        "Damit Reggie gegen sie aus dem Gefängnis ausgetauscht wird",
+        "Damit Jack Cates gegen Geld auf seine Aussage verzichtet",
+        "Damit ein Fluchtflugzeug aus Mexiko geschickt wird"
+      ],
+      "short": "Die Geisel soll Luther zwingen, das Geld zu besorgen.",
+      "context": "Luther (David Patrick Kelly) kennt die Verbindung zum Versteck, kann die Beute aber nicht sofort übergeben. Ganz (James Remar) behält deshalb Rosalie (Kerry Sherman) als Druckmittel. Als Luther später das Geld beschafft, garantiert ihm seine Mitarbeit dennoch keine Sicherheit: Für Ganz sind frühere Komplizen austauschbar.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Reggie singt bei seinem ersten Auftreten Roxanne von The Police.",
+      "question": "Welchen Song singt Reggie Hammond (Eddie Murphy) in „Nur 48 Stunden“, als Jack Cates ihn im Gefängnis aufsucht?",
+      "answers": [
+        "„Roxanne“ von The Police",
+        "„My Sharona“ von The Knack",
+        "„Baker Street“ von Gerry Rafferty",
+        "„Stayin’ Alive“ von den Bee Gees"
+      ],
+      "short": "Reggie singt „Roxanne“ von The Police.",
+      "context": "Noch bevor Jack Cates (Nick Nolte) mit Reggie Hammond (Eddie Murphy) ins Gespräch kommt, setzt dessen Stimme einen eigenen Akzent im Gefängnis. Der Auftritt stellt keinen still wartenden Informanten vor, sondern eine Figur mit selbstbewusstem Rhythmus und Präsenz. Die Musik gehört zugleich zum frühen Übergang Murphys vom Fernsehen ins Kino.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "murphy",
+        "auftritt"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "S2",
+      "objective": "48 Hrs. war Eddie Murphys Spielfilmdebüt.",
+      "question": "Welche Station markiert „Nur 48 Stunden“ in Eddie Murphys Filmkarriere?",
+      "answers": [
+        "Sein Debüt in einem Kinospielfilm",
+        "Sein Debüt als Spielfilmregisseur",
+        "Seinen ersten Kinofilm mit einer Mehrfachrolle",
+        "Seinen ersten Kinofilm als Produzent"
+      ],
+      "short": "Mit „Nur 48 Stunden“ gab Eddie Murphy sein Kinospielfilmdebüt.",
+      "context": "Murphy kam aus „Saturday Night Live“ und stand hier Nick Nolte gegenüber. Kurz danach folgten „Die Glücksritter“ und „Beverly Hills Cop“. Aus dem Fernsehkomiker wurde innerhalb weniger Jahre ein tragender Star großer Kinokomödien; die Gefangenenrolle war der Beginn dieser Filmkarriere.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "murphy"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "Y",
+      "objective": "Der Film wurde erstmals 1982 veröffentlicht.",
+      "question": "In welchem Jahr kam „Nur 48 Stunden“ mit Nick Nolte und Eddie Murphy erstmals ins Kino?",
+      "answers": [
+        "1982",
+        "1978",
+        "1985",
+        "1988"
+      ],
+      "short": "Der US-Kinostart war im Dezember 1982.",
+      "context": "Der Film kam noch vor Murphys beiden folgenden Erfolgen heraus: „Die Glücksritter“ erschien 1983, „Beverly Hills Cop“ 1984. Diese Reihenfolge macht seine rasche Entwicklung vom neuen Kinodarsteller zum Hauptstar sichtbar. „Nur 48 Stunden“ gehört an den Anfang dieser Folge, nicht an deren späteren Höhepunkt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "murphy"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Walter Hill führte Regie.",
+      "question": "Wer inszenierte die Actionkomödie „Nur 48 Stunden“ mit Nick Nolte und Eddie Murphy?",
+      "answers": [
+        "Walter Hill",
+        "Martin Brest",
+        "Richard Donner",
+        "John Badham"
+      ],
+      "short": "Regie führte Walter Hill.",
+      "context": "Hill ließ ein erzwungenes Paar mit sehr unterschiedlichen Erfahrungen durch denselben Fall gehen. Einige Jahre später verband er in „Red Heat“ erneut gegensätzliche Ermittler, diesmal aus Moskau und Chicago. Die Beziehungen zwischen den Figuren tragen in beiden Filmen ebenso die Komik wie die Action.",
+      "feedback": [
+        "",
+        "Martin Brest führte später bei „Beverly Hills Cop“ Regie.",
+        "",
+        ""
+      ],
+      "sources": [
+        "paramount",
+        "silver",
+        "hill",
+        "murphy"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

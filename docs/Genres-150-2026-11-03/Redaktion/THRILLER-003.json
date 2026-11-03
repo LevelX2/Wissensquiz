@@ -1,0 +1,258 @@
+{
+  "id": "THRILLER-003",
+  "film_title_de": "Blood Simple – Eine mörderische Nacht",
+  "film_title_original": "Blood Simple",
+  "film_year": 1984,
+  "genre": "Thriller",
+  "categories": [
+    "Arthouse"
+  ],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein bekanntes Debüt des amerikanischen Independentkinos, das eher Filmkenner als das breite Publikum sicher zuordnen können.",
+  "selection_reason": "Der Neo-Noir erzählt dieselbe Gewaltkette aus begrenzten, voneinander abweichenden Wissensständen. Die präzise Bildgestaltung und eigenständige Verbindung von Noir und Horror begründen Arthouse.",
+  "directors": [
+    "Joel Coen"
+  ],
+  "production_countries": [
+    "USA"
+  ],
+  "release_note": "Öffentliche Festivalvorführungen bereits 1984, darunter Toronto und die vom AFI belegte New-York-Film-Festival-Vorführung am 12. Oktober. Der reguläre US-Kinostart war erst am 18. Januar 1985. Die Filmidentität folgt dem Erstvorführungsjahr 1984, nicht dem AFI-Kinostartjahrgang 1985.",
+  "director_note": "Der offizielle Regiecredit lautet Joel Coen, übereinstimmend in AFI, AFI Silver und Criterion. Ethan Coen ist als Produzent und gemeinsamer Drehbuchautor beteiligt; die gemeinsame kreative Arbeit wird nicht mit einem zusätzlichen ursprünglichen Regiecredit verwechselt.",
+  "country_note": "",
+  "series": null,
+  "series_note": "Keine nummerierte Filmfolge. Gemeinsame Mitarbeitende und das spätere Remake ergeben keine Fortsetzung.",
+  "series_sources": [
+    "https://www.criterion.com/films/28852-blood-simple",
+    "https://catalog.afi.com/Film/67010-BLOOD-SIMPLE"
+  ],
+  "sources": {
+    "criterion": {
+      "url": "https://www.criterion.com/films/28852-blood-simple",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizielle Credits Joel Coen/Ethan Coen, Land, Erstjahr 1984, Figuren, Neo-Noir und Farbgestaltung."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/67010-BLOOD-SIMPLE",
+      "accessed_on": "2026-11-03",
+      "supports": "Ursprünglicher Regiecredit Joel Coen, Besetzung, US-Kinostart 1985, Festivalvorführung 1984 und ausführliche Synopsis."
+    },
+    "silver": {
+      "url": "https://silver.afi.com/movies/detail/0100005180/",
+      "accessed_on": "2026-11-03",
+      "supports": "Erstjahr 1984, Rollen, Filmgeschichte und ursprüngliche Creditverteilung."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Blood_Simple",
+      "accessed_on": "2026-11-03",
+      "supports": "Gefälschte Fotos, Rays falsche Schlussfolgerung, lebendige Bestattung und Abbys falsche Täterannahme im Finale."
+    },
+    "essay": {
+      "url": "https://www.criterion.com/current/posts/4230-blood-simple-down-here-you-re-on-your-own",
+      "accessed_on": "2026-11-03",
+      "supports": "Nathaniel Rich: Missverständnisse als Handlungsmotor, Verbindung von Noir und Horror, Joel Coens Schnittassistenz bei The Evil Dead und Erstvorführungen 1984."
+    },
+    "janus": {
+      "url": "https://www.janusfilms.com/films/1815",
+      "accessed_on": "2026-11-03",
+      "supports": "Offizieller Verleih: Joel Coen, USA, Filmjahr 1984, Barry Sonnenfeld und Carter Burwell."
+    }
+  },
+  "status": "quellengeprueft",
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Marty setzt den Detektiv auf seine Frau und deren Liebhaber an.",
+      "question": "Was veranlasst Barbesitzer Julian Marty (Dan Hedaya) in „Blood Simple“, einen Privatdetektiv einzuschalten?",
+      "answers": [
+        "Die Affäre seiner Frau mit einem seiner Angestellten",
+        "Das Verschwinden einer wertvollen Schmucksendung",
+        "Die Erpressung seines Bruders durch einen Polizisten",
+        "Die Konkurrenz einer neu eröffneten Bar"
+      ],
+      "short": "Marty lässt seine Frau Abby und deren Liebhaber Ray beobachten.",
+      "context": "Abby (Frances McDormand) beginnt eine Beziehung mit Ray (John Getz), der bei ihrem Ehemann Julian Marty (Dan Hedaya) arbeitet. Marty will Gewissheit über die Affäre. Das Einschalten eines scheinbar dienstbaren Beobachters bringt jedoch einen weiteren Beteiligten ins Spiel, der eigene finanzielle Interessen verfolgt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "silver",
+        "criterion",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Loren Visser ist ein käuflicher Privatdetektiv.",
+      "question": "Welchen Beruf hat Loren Visser (M. Emmet Walsh), der in „Blood Simple“ für Marty arbeitet?",
+      "answers": [
+        "Privatdetektiv",
+        "Bewährungshelfer",
+        "Versicherungsvertreter",
+        "Stellvertretender Sheriff"
+      ],
+      "short": "Visser ist Privatdetektiv.",
+      "context": "Loren Visser (M. Emmet Walsh) verkauft Julian Marty (Dan Hedaya) zunächst Bilder der Affäre. Später nimmt er auch einen Mordauftrag an. Seine Position als Beobachter gibt ihm Zugang zu Informationen, die die anderen Figuren nicht besitzen; er nutzt dieses Gefälle für einen eigenen Betrug.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "silver",
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Visser täuscht mit manipulierten Fotos die Ermordung von Abby und Ray vor.",
+      "question": "Wie überzeugt Visser (M. Emmet Walsh) in „Blood Simple“ seinen Auftraggeber zunächst davon, Abby und Ray ermordet zu haben?",
+      "answers": [
+        "Er zeigt manipulierte Fotos ihrer vermeintlichen Leichen.",
+        "Er übergibt eine gestohlene Todesbescheinigung.",
+        "Er lässt einen Komplizen einen Polizeibericht vorlesen.",
+        "Er spielt eine heimlich angefertigte Tonaufnahme vor."
+      ],
+      "short": "Gefälschte Fotos sollen den ausgeführten Mordauftrag beweisen.",
+      "context": "Julian Marty (Dan Hedaya) glaubt, die Bilder bestätigten den Tod von Abby (Frances McDormand) und Ray (John Getz). Loren Visser (M. Emmet Walsh) muss die beiden dafür gar nicht töten. Stattdessen kassiert er das Geld und richtet die Gewalt gegen seinen Auftraggeber. Der vermeintliche Beweis ist Bestandteil des Betrugs.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "M2",
+      "objective": "Ray glaubt irrtümlich, Abby habe Marty erschossen, und beseitigt deshalb vermeintlich ihre Spuren.",
+      "question": "Warum beginnt Ray (John Getz) in „Blood Simple“, Spuren am Tatort zu beseitigen und Marty wegzubringen?",
+      "answers": [
+        "Er glaubt, Abby habe ihren Mann erschossen.",
+        "Er hat Visser den Mord persönlich aufgetragen.",
+        "Er hält den Verletzten für einen unbekannten Einbrecher.",
+        "Er will Marty im Auftrag der Polizei verstecken."
+      ],
+      "short": "Ray will Abby schützen, weil er sie irrtümlich für die Schützin hält.",
+      "context": "Ray (John Getz) findet Abbys Waffe neben Julian Marty (Dan Hedaya) und zieht daraus einen falschen Schluss. Er handelt, ohne mit Abby (Frances McDormand) zu klären, was geschehen ist. Bei der Beseitigung entdeckt er, dass Marty noch lebt. Sein Versuch, vermeintliche Folgen ihrer Tat zu verdecken, wird dadurch selbst zum tödlichen Handeln.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S1",
+      "objective": "Abby hält den angreifenden Visser im Finale fälschlich für Marty.",
+      "question": "Wen glaubt Abby (Frances McDormand) im Finale von „Blood Simple“ abgewehrt zu haben, als sie durch die Badezimmertür schießt?",
+      "answers": [
+        "Ihren Mann Marty",
+        "Ihren Liebhaber Ray",
+        "Den Barkeeper Meurice",
+        "Einen ihr bekannten Polizeibeamten"
+      ],
+      "short": "Sie hält den Angreifer für ihren Mann Marty, obwohl es Visser ist.",
+      "context": "Abby (Frances McDormand) kennt nicht alle Vorgänge, die zu dem Angriff geführt haben. Der verwundete Loren Visser (M. Emmet Walsh) versteht durch ihre Worte, dass sie ihn für Julian Marty (Dan Hedaya) hält. Noch im letzten Moment bleibt das Wissen der Beteiligten ungleich verteilt; das Publikum erkennt den Irrtum, den Abby nicht auflöst.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "S2",
+      "objective": "Joel Coen arbeitete vor Blood Simple als Schnittassistent an The Evil Dead.",
+      "question": "An welchem Horrorfilm hatte Joel Coen vor „Blood Simple“ als Schnittassistent mitgearbeitet?",
+      "answers": [
+        "Tanz der Teufel",
+        "Halloween – Die Nacht des Grauens",
+        "Blutgericht in Texas",
+        "Freitag der 13."
+      ],
+      "short": "Joel Coen arbeitete am Schnitt von Sam Raimis „Tanz der Teufel“ mit.",
+      "context": "Der Criterion-Essay verbindet diese Erfahrung mit der Mischung aus Kriminalgeschichte und groteskem Schrecken in „Blood Simple“. Neben den Noir-Motiven stehen ungewöhnliche Kamerafahrten, eine lebendige Bestattung und ein körperlich zugespitztes Finale. Die Coens orientierten sich damit nicht ausschließlich an alten Detektivfilmen, sondern auch an zeitgenössischem Horrorkino.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "essay"
+      ],
+      "spoiler": "hoch"
+    },
+    {
+      "code": "Y",
+      "objective": "Blood Simple wurde bereits 1984 öffentlich gezeigt.",
+      "question": "In welchem Jahr wurde „Blood Simple – Eine mörderische Nacht“ erstmals öffentlich gezeigt?",
+      "answers": [
+        "1984",
+        "1981",
+        "1985",
+        "1988"
+      ],
+      "short": "Festivalvorführungen sind für 1984 belegt; der reguläre US-Start war 1985.",
+      "context": "Die Jahresabweichung entsteht aus der Veröffentlichungsfolge: Der Film war bereits auf Festivals zu sehen, bevor er im Januar 1985 regulär in den USA startete. Das frühe Debüt brachte auch den Kameramann Barry Sonnenfeld und den Komponisten Carter Burwell in eine Zusammenarbeit, die das spätere Coen-Kino mitprägen sollte.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "criterion",
+        "janus"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Der ursprüngliche offizielle Regiecredit lautet Joel Coen.",
+      "question": "Wer ist im ursprünglichen offiziellen Regiecredit von „Blood Simple“ genannt?",
+      "answers": [
+        "Joel Coen",
+        "Sam Raimi",
+        "Jim Jarmusch",
+        "David Lynch"
+      ],
+      "short": "Der offizielle Regiecredit lautet Joel Coen.",
+      "context": "„Blood Simple“ war eine gemeinsame kreative Arbeit der Coen-Brüder, doch die Credits verteilten die Funktionen: Joel Coen wird als Regisseur genannt, Ethan Coen als Produzent; das Drehbuch stammt von beiden. AFI und Criterion führen diese Unterscheidung weiterhin. Eine spätere Restaurierung wurde von beiden Brüdern zusammen mit Kameramann Barry Sonnenfeld freigegeben.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "criterion",
+        "silver"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

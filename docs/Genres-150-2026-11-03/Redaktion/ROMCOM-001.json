@@ -1,0 +1,238 @@
+{
+  "categories": [],
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "genre": "Rom-Com",
+  "production_countries": [
+    "USA"
+  ],
+  "familiarity_level": 2,
+  "id": "ROMCOM-001",
+  "film_title_de": "Die nackte Wahrheit",
+  "film_title_original": "The Ugly Truth",
+  "film_year": 2009,
+  "familiarity_reason": "Breit vermarktete Hollywood-Liebeskomödie mit Katherine Heigl und Gerard Butler; ein zugänglicher bekannter Titel.",
+  "selection_reason": "Ergänzt eine romantische Medienkomödie über Fernsehquoten, künstlich angepasstes Verhalten und die Spannung zwischen Selbstdarstellung und echten Gefühlen.",
+  "directors": [
+    "Robert Luketic"
+  ],
+  "release_note": "Erstveröffentlichung 2009; AFI dokumentiert die Starts in Los Angeles undNew York am 24. Juli.",
+  "series_note": "Eigenständige romantische Komödie ohne belegte nummerierte Filmfolge in den geprüften Quellen.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/65018-THE-UGLY-TRUTH"
+  ],
+  "sources": {
+    "studio": {
+      "url": "https://www.sonypictures.com/movies/theuglytruth",
+      "accessed_on": "2026-11-03",
+      "supports": "FernsehproduzentinAbby, DarstellerHeigl/Butler, GegensatzderBeziehungsbilder, MikesBeratung undJahr 2009."
+    },
+    "afi": {
+      "url": "https://catalog.afi.com/Film/65018-THE-UGLY-TRUTH",
+      "accessed_on": "2026-11-03",
+      "supports": "RegieRobertLuketic, Autorinnenteam, Rollen, Produktionsland undKinostart24.Juli 2009."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/The_Ugly_Truth",
+      "accessed_on": "2026-11-03",
+      "supports": "Beratungsabmachung, Colin undgespieltePersönlichkeit, MikebleibtwegenSchwester/Neffe undBallonfinale."
+    },
+    "anker": {
+      "url": "https://www.universalpicturesathome.com/movies/knocked-up",
+      "accessed_on": "2026-11-03",
+      "supports": "Beim früherenFilmKnockedUp gehörenKatherineHeigl undJahr 2007 zurveröffentlichtenWerkzuordnung."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Abby produziert eine Fernsehmorgensendung.",
+      "question": "Was ist Abby Richters (Katherine Heigl) Beruf in „Die nackte Wahrheit“?",
+      "answers": [
+        "Produzentin einer Fernsehmorgensendung",
+        "Anwältin für Scheidungsrecht",
+        "Leiterin einer Partnervermittlungsagentur",
+        "Chefredakteurin eines Reisemagazins"
+      ],
+      "short": "Abby produziert eine Morgensendung im Fernsehen.",
+      "context": "Abby Richter (Katherine Heigl) möchte sowohl die Arbeit als auch ihre Partnersuche kontrolliert gestalten. Als die Einschaltquoten sinken, erhält jedoch ein provokanter Beziehungsberater einen Platz in ihrer Sendung. Ihr beruflicher Druck zwingt sie, mit einem Mann zusammenzuarbeiten, dessen Ansichten sie ablehnt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Gerard Butler spielt den provokanten Fernsehberater Mike.",
+      "question": "Wer spielt den provokanten Fernsehberater Mike Chadway in „Die nackte Wahrheit“?",
+      "answers": [
+        "Gerard Butler",
+        "Hugh Jackman",
+        "Eric Bana",
+        "Clive Owen"
+      ],
+      "short": "Gerard Butler verkörpert Mike Chadway.",
+      "context": "Mike Chadway (Gerard Butler) stellt Beziehungen als manipulierbares Spiel dar. Abby Richter (Katherine Heigl) widerspricht ihm zunächst öffentlich. Seine neue Mitarbeit verwandelt die theoretische Auseinandersetzung in täglichen Kontakt, bei dem berufliche Abhängigkeit und persönliche Anziehung nebeneinander wachsen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "afi"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Abbys Umgang mit Mike wird vom Erfolg seiner Colin-Beratung abhängig gemacht.",
+      "question": "Was vereinbaren Abby (Katherine Heigl) und Mike (Gerard Butler) in „Die nackte Wahrheit“?",
+      "answers": [
+        "Helfen die Tipps bei Colin, akzeptiert sie Mike; scheitern sie, verlässt er ihre Sendung.",
+        "Gewinnt Abby Colin, muss Mike seine Gage für ein Jahr an sie abtreten.",
+        "Scheitern die Tipps, übernimmt Colin Mikes Stelle beim Fernsehen.",
+        "Mike erhält für jedes von Abby angenommene Date eine eigene Sendung."
+      ],
+      "short": "Sein Verbleib in der Sendung wird an den Erfolg seiner Beratung geknüpft.",
+      "context": "Colin (Eric Winter) scheint Abby Richter (Katherine Heigl) zunächst der ideale Partner zu sein. Mike Chadway (Gerard Butler) nutzt diese Hoffnung, um seine Methode zu beweisen. Aus ihrer beruflichen Gegnerschaft entsteht so ein Experiment, in dem das Verhalten vor einem dritten Menschen ständig mitbewertet wird.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Das Liebesgeständnis erfolgt während einer Ballonübertragung.",
+      "question": "In welcher Situation gesteht Mike (Gerard Butler) Abby (Katherine Heigl) am Ende von „Die nackte Wahrheit“ seine Liebe?",
+      "answers": [
+        "In einem aufsteigenden Heißluftballon mit laufender Kamera.",
+        "Auf einer Theaterbühne während einer Wohltätigkeitsauktion.",
+        "In einer U-Bahn, deren Türen sich hinter ihnen schließen.",
+        "Bei einer Hochzeit, die sie für ihre Sendung übertragen."
+      ],
+      "short": "Das Geständnis fällt im Heißluftballon vor laufender Kamera.",
+      "context": "Mike Chadway (Gerard Butler) mischt sich in Abby Richters (Katherine Heigl) Übertragung von einem Ballonfest ein. Der Ballon hebt mit beiden ab, während sie sich streiten. Ausgerechnet das Medium, in dem sie zuvor gegeneinander auftraten, macht nun auch die persönliche Wendung öffentlich.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Abby erkennt, dass Colin die angenommene Rolle statt ihrer wirklichen Persönlichkeit liebt.",
+      "question": "Warum beendet Abby (Katherine Heigl) in „Die nackte Wahrheit“ die Beziehung zu Colin (Eric Winter)?",
+      "answers": [
+        "Er mag die von ihr gespielte Rolle, nicht ihr tatsächliches Selbst.",
+        "Er fordert, dass sie jede berufliche Tätigkeit dauerhaft aufgibt.",
+        "Er hat Mike heimlich für das gesamte Experiment bezahlt.",
+        "Er plant, ihre Morgensendung durch eine Arztshow zu ersetzen."
+      ],
+      "short": "Abby erkennt, dass Colins Zuneigung auf ihrer eingeübten Selbstdarstellung beruht.",
+      "context": "Abby Richter (Katherine Heigl) hat nach Mikes Tipps Auftritte und Reaktionen so verändert, dass sie Colin (Eric Winter) gefallen. Der scheinbare Erfolg wirft deshalb ein neues Problem auf: Die gewünschte Beziehung bestätigt eine fremde Rolle. Ihre Trennung ist eine Entscheidung gegen diesen Erfolg unter falschen Voraussetzungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Mikes Bindung an Schwester und Neffen erklärt seinen Widerwillen gegen einen Umzug.",
+      "question": "Was hält Mike (Gerard Butler) in „Die nackte Wahrheit“ zunächst von einem beruflichen Wechsel nach Los Angeles ab?",
+      "answers": [
+        "Er möchte in der Nähe seiner Schwester und seines Neffen bleiben.",
+        "Er muss regelmäßig die Kneipe seiner Eltern übernehmen.",
+        "Er darf wegen eines bestehenden Verfahrens Sacramento nicht verlassen.",
+        "Er wartet auf die Rückkehr seiner ehemaligen Verlobten."
+      ],
+      "short": "Seine Schwester und sein Neffe binden ihn an Sacramento.",
+      "context": "Mike Chadway (Gerard Butler) erklärt Abby Richter (Katherine Heigl), dass der neue Karriereschritt räumliche Entfernung von seiner Familie bedeuten würde. Diese Sorge ergänzt die sonst grobe öffentliche Rolle. Persönliche Bindungen bestimmen sein Verhalten stärker, als seine pauschalen Beziehungsthesen vermuten lassen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 2009.",
+      "question": "In welchem Jahr wurde „Die nackte Wahrheit“ mit Katherine Heigl und Gerard Butler erstmals veröffentlicht?",
+      "answers": [
+        "2009",
+        "2001",
+        "2005",
+        "2013"
+      ],
+      "short": "Die Liebeskomödie erschien 2009.",
+      "context": "Katherine Heigl hatte bereits 2007 in „Beim ersten Mal“ eine andere große Beziehungskomödie gespielt. Dort zwingt eine ungeplante Schwangerschaft zwei ungleiche Menschen zur Auseinandersetzung. Zwei Jahre später beginnt die Annäherung in „Die nackte Wahrheit“ dagegen als bewusst angelegter Streit über Datingregeln.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "anker"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Robert Luketic führt Regie.",
+      "question": "Wer führte bei „Die nackte Wahrheit“ mit Katherine Heigl und Gerard Butler Regie?",
+      "answers": [
+        "Robert Luketic",
+        "Donald Petrie",
+        "Mark Waters",
+        "Andy Tennant"
+      ],
+      "short": "Robert Luketic führte Regie.",
+      "context": "Nicole Eastman, Karen McCullah Lutz und Kirsten Smith sind als Drehbuchautorinnen verzeichnet. Die Inszenierung setzt die Figuren zugleich als berufliche Partner und private Gegenspieler ein. Ihre Sendung ist dadurch kein bloßer Hintergrund, sondern der Ort, der ihre Zusammenarbeit zunächst erzwingt.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "studio"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "director_note": "",
+  "country_note": "",
+  "series": null,
+  "status": "quellengeprueft",
+  "id": "FANTASY-001",
+  "film_title_de": "Jason und die Argonauten",
+  "film_title_original": "Jason and the Argonauts",
+  "film_year": 1963,
+  "genre": "Fantasy",
+  "categories": [],
+  "familiarity_level": 3,
+  "familiarity_reason": "Ein prägendes Werk der klassischen Trickfilmfantasy; Figuren und einzelne Prüfungen gehören vor allem zum Wissen von Filmkennern.",
+  "selection_reason": "Ergänzt griechische Mythologie und die Verbindung von realen Darstellern mit handanimierten Kreaturen.",
+  "directors": [
+    "Don Chaffey"
+  ],
+  "production_countries": [
+    "Großbritannien",
+    "Italien",
+    "USA"
+  ],
+  "release_note": "Erstveröffentlichung 1963. Das AFI dokumentiert US-Starts im August, andere Filmografien eine Premiere im Juni; der gemeinsame erste Veröffentlichungsjahrgang ist 1963.",
+  "series_note": "Eigenständige Adaption des Argonautenstoffs. Gemeinsame Effektautorschaft mit Sindbad-Filmen erzeugt keine nummerierte Jason-Filmreihe.",
+  "series_sources": [
+    "https://catalog.afi.com/Film/22132-JASON-ANDTHEARGONAUTS"
+  ],
+  "sources": {
+    "afi": {
+      "url": "https://catalog.afi.com/Film/22132-JASON-ANDTHEARGONAUTS",
+      "accessed_on": "2026-11-03",
+      "supports": "Regie, Darsteller, Produktionsländer, Jahr 1963, GoldenesVlies, göttlicherBeistand, Harpyien, Hydrazähne und Dynamation einschließlich früherer Arbeiten 1958/1960/1961."
+    },
+    "studio": {
+      "url": "https://www.sonypictures.com/movies/jasonandtheargonauts",
+      "accessed_on": "2026-11-03",
+      "supports": "Hauptfigur, Herrschaftsanspruch, GoldenesVlies, Hera und übernatürliche Gegner."
+    },
+    "handlung": {
+      "url": "https://en.wikipedia.org/wiki/Jason_and_the_Argonauts_(1963_film)",
+      "accessed_on": "2026-11-03",
+      "supports": "Fassungsgenauer Ablauf: Talosverschluss, Phineus, Hera, Hydrazähne; abweichende antike Überlieferung nicht als Filmhandlung übernehmen."
+    },
+    "museum": {
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8006086/fibreglass-model-of-talos",
+      "accessed_on": "2026-11-03",
+      "supports": "Talosmodell, Latex um Metallarmatur und Harryhausens Verbindung von Stop-Motion mit Realfilm."
+    }
+  },
+  "questions": [
+    {
+      "code": "L1",
+      "objective": "Das Goldene Vlies ist das Ziel der Reise.",
+      "question": "Welches magische Kleinod sucht Jason (Todd Armstrong) in „Jason und die Argonauten“?",
+      "answers": [
+        "Das Goldene Vlies",
+        "Den Gürtel der Hippolyte",
+        "Den Dreizack Poseidons",
+        "Die Flügel des Ikarus"
+      ],
+      "short": "Jason sucht das Goldene Vlies.",
+      "context": "Die Reise soll Jason (Todd Armstrong) helfen, seinen Herrschaftsanspruch gegen Pelias (Douglas Wilmer) durchzusetzen. Der König ermuntert ihn gerade deshalb zu der gefährlichen Unternehmung, weil er auf sein Scheitern hofft. Die Suche ist zugleich ein politisches Manöver gegen den jungen Rivalen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "studio"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "L2",
+      "objective": "Hera unterstützt Jason im göttlichen Konflikt.",
+      "question": "Welche Göttin unterstützt Jason (Todd Armstrong) in „Jason und die Argonauten“?",
+      "answers": [
+        "Hera",
+        "Athene",
+        "Aphrodite",
+        "Artemis"
+      ],
+      "short": "Hera steht Jason bei.",
+      "context": "Hera (Honor Blackman) beobachtet die Menschen nicht unbeteiligt. Sie lenkt Jason (Todd Armstrong) zu entscheidenden Stationen seiner Reise und gibt ihm Rat. Ihre Hilfe bleibt durch die Regeln des göttlichen Spiels begrenzt; die Helden müssen Gefahren trotzdem selbst bewältigen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "studio",
+        "handlung"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "M1",
+      "objective": "Talos verliert seine belebende Flüssigkeit durch einen Verschluss an der Ferse.",
+      "question": "Wie bringt Jason (Todd Armstrong) den Bronzeriesen Talos in „Jason und die Argonauten“ zu Fall?",
+      "answers": [
+        "Er öffnet einen Verschluss an dessen Ferse.",
+        "Er stößt dem Riesen ein Schwert ins Auge.",
+        "Er zertrümmert dessen Kopf mit einem Katapult.",
+        "Er lockt den Riesen in einen Vulkan."
+      ],
+      "short": "Jason öffnet den Verschluss, sodass Talos seine belebende Flüssigkeit verliert.",
+      "context": "Herkules (Nigel Green) hat trotz einer Warnung einen Schatz an sich genommen und dadurch die Statue erweckt. Hera (Honor Blackman) verrät Jason (Todd Armstrong) den verwundbaren Punkt. Der übermächtige Körper wird nicht durch größere Muskelkraft besiegt, sondern durch das Wissen um seine Konstruktion.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "handlung",
+        "museum"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "M2",
+      "objective": "Die Befreiung von den Harpyien gewinnt Phineus als Wegweiser.",
+      "question": "Womit gewinnen die Argonauten in „Jason und die Argonauten“ die Hilfe des blinden Sehers Phineus (Patrick Troughton)?",
+      "answers": [
+        "Sie fangen die Harpyien, die ihn quälen.",
+        "Sie bringen ihm das gestohlene Augenlicht in einem Gefäß zurück.",
+        "Sie befreien seine Tochter aus dem Palast des Pelias.",
+        "Sie schenken ihm das Goldene Vlies."
+      ],
+      "short": "Sie befreien ihn von den Harpyien.",
+      "context": "Phineus (Patrick Troughton) kann sein Wissen nicht einfach in einem friedlichen Gespräch weitergeben: Die geflügelten Peiniger bedrängen ihn. Erst nach ihrer Gefangennahme erhält die Mannschaft den Rat für den weiteren Weg nach Kolchis. Hilfe und Gegenhilfe verknüpfen so eine Prüfung mit der nächsten.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S1",
+      "objective": "Die gesäten Hydrazähne werden zu Skelettkriegern.",
+      "question": "Woraus lässt König Aietes (Jack Gwillim) in „Jason und die Argonauten“ seine Skelettkrieger entstehen?",
+      "answers": [
+        "Aus den Zähnen der getöteten Hydra.",
+        "Aus den Splittern der zerbrochenen Talosstatue.",
+        "Aus den Schuppen eines versteinerten Meeresdrachen.",
+        "Aus den Federn der gefangenen Harpyien."
+      ],
+      "short": "Die Krieger wachsen aus den ausgesäten Hydrazähnen.",
+      "context": "Nach dem Sieg über die Hydra endet die Gefahr für Jason (Todd Armstrong) nicht. König Aietes (Jack Gwillim) verwandelt Teile des überwundenen Gegners in neue Kämpfer. Die Reise erhält dadurch eine letzte Hindernisstufe, bevor die Flucht mit Medea (Nancy Kovack) und dem Vlies gelingen kann.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "handlung"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "S2",
+      "objective": "Dynamation verbindet einzelbildanimierte Modelle mit real gefilmten Menschen.",
+      "question": "Wie entstanden die Begegnungen mit Talos und den Skeletten in „Jason und die Argonauten“ hauptsächlich?",
+      "answers": [
+        "Einzelbildanimierte Modelle wurden mit Realfilmaufnahmen kombiniert.",
+        "Menschen in Kreaturenkostümen wurden vor Rückprojektionen gefilmt.",
+        "Gezeichnete Figuren wurden als Folienanimation in das Realbild montiert.",
+        "Große Drahtmarionetten wurden unmittelbar neben den Darstellern bewegt."
+      ],
+      "short": "Harryhausens Verfahren kombiniert Stop-Motion-Modelle mit realen Darstellern.",
+      "context": "Ein Modell besitzt eine bewegliche innere Konstruktion und wird zwischen Einzelaufnahmen schrittweise verändert. Die fertige Bewegung muss zum bereits gefilmten Spiel der Menschen passen. Die Kreaturen erscheinen so als Gegner im selben Raum, obwohl Modell und Darsteller nicht gemeinsam vor der Kamera standen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "museum"
+      ],
+      "spoiler": "mittel"
+    },
+    {
+      "code": "Y",
+      "objective": "Erstveröffentlichung 1963.",
+      "question": "In welchem Jahr wurde „Jason und die Argonauten“ mit Todd Armstrong erstmals veröffentlicht?",
+      "answers": [
+        "1963",
+        "1953",
+        "1968",
+        "1973"
+      ],
+      "short": "Der Fantasyfilm erschien 1963.",
+      "context": "Fünf Jahre zuvor hatte Ray Harryhausen bereits an „Sindbads siebente Reise“ von 1958 gearbeitet. „Jason und die Argonauten“ führt die Verbindung von Modellanimation und gespieltem Abenteuer weiter. Besonders der gemeinsame Kampf mehrerer Menschen gegen mehrere Skelettkrieger erhöht dabei die Anforderungen an die Abstimmung der Bewegungen.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi",
+        "museum"
+      ],
+      "spoiler": "gering"
+    },
+    {
+      "code": "D",
+      "objective": "Don Chaffey führt Regie.",
+      "question": "Wer führte bei „Jason und die Argonauten“ mit Todd Armstrong Regie?",
+      "answers": [
+        "Don Chaffey",
+        "Nathan Juran",
+        "Cy Endfield",
+        "Charles H. Schneer"
+      ],
+      "short": "Die Regie führte Don Chaffey.",
+      "context": "Ray Harryhausen prägte die fantastischen Kreaturen und war eng an der Produktion beteiligt, trägt aber nicht den offiziellen Hauptregiecredit. Produzent war Charles H. Schneer. Diese Arbeitsteilung hilft, die berühmte Effekthandschrift von der Regie des gesamten Spielfilms zu unterscheiden.",
+      "feedback": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sources": [
+        "afi"
+      ],
+      "spoiler": "gering"
+    }
+  ]
+}
