@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-03",
-  "status": "501 Genreplätze vorausgewählt; 400 Filmfassungen mit 3200 Fragen lokal integriert. 101 Kandidaten verbleiben als Auswahlentwurf.",
+  "status": "501 Genreplätze vorausgewählt; 406 Filmfassungen mit 3248 Fragen lokal integriert. 95 Kandidaten verbleiben als Auswahlentwurf.",
   "target_per_film_genre": 150,
   "privacy_note": "Nur öffentliche Filmdaten und fachliche Auswahlgründe. Persönliche Sammlungsabgleiche werden getrennt geschützt aufbewahrt.",
   "films": [
@@ -1484,12 +1484,15 @@
       "film_title_original": "Frenzy",
       "film_year": 1972,
       "genre": "Thriller",
-      "familiarity_level": 2,
+      "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein falscher Verdacht und Zuschauerwissen verbinden Londoner Milieu und Hitchcock-Spannung.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Das Publikum kennt den Mörder früh und verfolgt sowohl den unschuldig Beschuldigten als auch die Spurenbeseitigung. Arthouse wegen konsequenter Wechsel der Zuschauerbindung, pointierter Farbdramaturgie und der formal gegensätzlichen Darstellung zweier Morde, konkret im BFI und Museum-of-the-Moving-Image-Essay analysiert.",
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-030"
     },
     {
       "candidate_id": "A-103",
@@ -1883,10 +1886,13 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Zwei Ermittler untersuchen Verbrechen in einer Region mit Nachwirkungen der Diktatur.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Die Mordermittlung verbindet eine andalusische Landschaft mit ökonomischer Abhängigkeit und den Nachwirkungen des Franquismus. Arthouse wegen gezielt reflektierter Landschaftsansichten, politisch ambivalenter Partnerfiguren und offen bleibender moralischer Abrechnung, in Primärinterviews und konkreter Szenenkritik belegt.",
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-029"
     },
     {
       "candidate_id": "A-130",
@@ -1912,12 +1918,13 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Unternehmer muss in einem gewalttätigen Umfeld Expansion und Selbstbild vereinbaren.",
+      "selection_reason": "Bedrohung, Lieferwagenraub und Finanzierung eines Unternehmenskaufs erzeugen Spannung durch Fristen und schrittweise Kompromisse. Arthouse wegen bewusst gebrochener Gangsterfilm-Erwartungen, zurückgenommener Gewalt und konzentrierter Untersuchung des Selbstbilds eines Unternehmerpaars; im Regisseurinterview konkret belegt.",
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-031"
     },
     {
       "candidate_id": "A-132",
@@ -1927,10 +1934,13 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein geplanter Raub in der eigenen Familie entfaltet durch Perspektivwechsel seine Folgen.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Der Raubplan gegen die eigene Familie verbindet private Not, unterschiedliche Wissensstände und eskalierende Vertuschung. Arthouse wegen der wiederholten Zeit- und Perspektivwechsel, die Motive und Schuldzuweisungen neu verteilen; Produktion und institutionelle Szenenbeschreibung belegen diese Form konkret.",
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-032"
     },
     {
       "candidate_id": "A-133",
@@ -1940,10 +1950,13 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Nachtclubbetreiber gerät zwischen familiäre Polizeibindung und kriminelles Umfeld.",
-      "categories": [],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "selection_reason": "Verdeckte Ermittlung, Verrat und bedrohte Polizeifamilie tragen den Thriller. Arthouse durch die konsequent an Bobby gebundene Wahrnehmung und die ambivalente Rückkehr zur Familie: Grays Primärinterviews erklären die subjektive Verfolgungsinszenierung und ausdrücklich den Verlust hinter der scheinbaren Erlösung.",
+      "categories": [
+        "Arthouse"
+      ],
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-033"
     },
     {
       "candidate_id": "A-134",
@@ -1953,12 +1966,13 @@
       "genre": "Thriller",
       "familiarity_level": 3,
       "familiarity_status": "Redaktioneller Vorschlag; keine gemessene Quote.",
-      "selection_reason": "Ein Detektiv untersucht einen Freundschaftsdienst, der ihn in ein Netz aus Täuschung führt.",
+      "selection_reason": "Mordverdacht, eine verschwundene Person und Gangsterdrohungen treiben die Ermittlung. Arthouse durch die bewusste Entkräftung des souveränen Detektivhelden, bewegliche Kamera, beiläufige Selbstgespräche und wiederkehrende musikalische Variationen. Primärinterviews und institutionelle Szenenanalysen tragen diese konkreten Merkmale.",
       "categories": [
         "Arthouse"
       ],
-      "status": "auswahlentwurf",
-      "identity_note": "Gegen aktuelle Original-/deutsche Titel und Jahre im Genrepool abgeglichen. Fassung, Erstveröffentlichung und Sachverhalte vor Redaktion quellenprüfen."
+      "status": "lokal_integriert",
+      "identity_note": "Filmfassung und Erstveröffentlichung in der abgeschlossenen Einzelredaktion quellengeprüft; lokale App-Parser-Abnahme erfolgreich.",
+      "editorial_id": "THRILLER-034"
     },
     {
       "candidate_id": "A-135",
