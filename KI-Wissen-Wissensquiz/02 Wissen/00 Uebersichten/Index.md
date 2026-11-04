@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Alternativtitel bei Frage, Auflösung und Filmdaten; Lösungsschutz und erster belegter Film – 04.11.2026, lokal](../../../docs/Filmwissen-und-Filmdaten.md#alternativtitel--04112026-lokal)
+
 - [Version 87 veröffentlicht: alle zwölf Filmgenres ab 150 Filmen; 501 Ergänzungen / 4.008 Fragen, 19.303 Fragen insgesamt – 03.11.2026](../../../docs/Veroeffentlichung-2026-11-03-Version-87.json)
 
 - [Filmreihen vollständig abgeglichen: 2.953 Filmidentitäten, 624 mit Teilnummer, keine benannte Reihe ohne Nummer – 02.11.2026, lokal](../../../docs/Filmreihen-2026-11-02/Pruefbericht.md)

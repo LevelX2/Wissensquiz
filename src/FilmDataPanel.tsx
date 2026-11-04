@@ -62,6 +62,23 @@ function FilmDataContent({
           <dt>Originaltitel</dt>
           <dd>{data.originalTitle}</dd>
         </div>
+        {!!data.alternativeTitles?.length && (
+          <div>
+            <dt>Weitere Titel</dt>
+            <dd>
+              {data.alternativeTitles.map(({ title, kind }) => (
+                <div key={title}>
+                  {title}
+                  <small>
+                    {kind === "de"
+                      ? "Deutscher Alternativtitel"
+                      : "Internationaler Titel"}
+                  </small>
+                </div>
+              ))}
+            </dd>
+          </div>
+        )}
         <div>
           <dt>Erscheinungsjahr</dt>
           <dd>

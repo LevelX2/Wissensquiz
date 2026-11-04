@@ -125,6 +125,18 @@
   -webkit-box-decoration-break: clone;
   font: inherit;
 }
+.film-alternative-titles {
+  color: var(--muted);
+  font-size: 0.85em;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.question-card h1:has(+ .film-alternative-titles) {
+  margin-bottom: 8px;
+}
+.question-card h1 + .film-alternative-titles {
+  margin: 0 0 24px;
+}
 .answers {
   display: grid;
   gap: 13px;

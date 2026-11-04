@@ -1,5 +1,6 @@
 import { type AnswerEvent, type Question } from "./model";
 import { FilmDataPanel } from "./FilmDataPanel";
+import { FilmAlternativeTitles } from "./FilmAlternativeTitles";
 import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
 import { FilmPoster } from "./FilmPoster";
 import { additionalAnswerFeedback, answerExplanation } from "./answerFeedback";
@@ -49,6 +50,7 @@ export function Explanation({
           <strong>{subject}</strong>
         </p>
       )}
+      <FilmAlternativeTitles q={q} />
       {q.metadata.question_image_id || q.presentation?.portraits.length ? (
         <ActorPortrait q={q} selectionKey={event.id} />
       ) : (

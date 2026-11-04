@@ -16,6 +16,14 @@ export const questionMetadataSchema = z
   );
 export const filmDisplaySchema = z.object({
   originalTitle: z.string(),
+  alternativeTitles: z
+    .array(
+      z.object({
+        title: z.string().min(1),
+        kind: z.enum(["de", "international"]),
+      }),
+    )
+    .optional(),
   year: z.number(),
   directors: z.string(),
   countries: z.array(z.string()),

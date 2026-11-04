@@ -1,5 +1,6 @@
 import facts from "./filmFacts.json" with { type: "json" };
 import filmSeries from "./filmSeries.json" with { type: "json" };
+import filmAlternativeTitles from "./filmAlternativeTitles.json" with { type: "json" };
 import awardFacts from "./awardFilmFacts.json" with { type: "json" };
 import actorFacts from "./actorFilmFacts.json" with { type: "json" };
 import actorSupplementFacts from "./actorSupplementFilmFacts.json" with { type: "json" };
@@ -166,15 +167,32 @@ type FilmSeriesEntry = {
   sources: string[];
 };
 const seriesByFilm: Record<string, FilmSeriesEntry> = filmSeries.films;
+type FilmAlternativeTitlesEntry = {
+  titles: { title: string; kind: "de" | "international" }[];
+  sources: string[];
+};
+const alternativeTitlesByFilm = filmAlternativeTitles as Record<
+  string,
+  FilmAlternativeTitlesEntry
+>;
 
 export function filmData(q: Question, reference?: string) {
   const data = resolveFilmData(q, reference);
   if (!data) return undefined;
   const reviewed = seriesByFilm[`${data.originalTitle}|${data.year}`];
+  const alternatives =
+    alternativeTitlesByFilm[`${data.originalTitle}|${data.year}`];
   return {
     ...data,
+    ...(alternatives ? { alternativeTitles: alternatives.titles } : {}),
     series: reviewed?.series ?? null,
-    sources: [...new Set([...data.sources, ...(reviewed?.sources ?? [])])],
+    sources: [
+      ...new Set([
+        ...data.sources,
+        ...(reviewed?.sources ?? []),
+        ...(alternatives?.sources ?? []),
+      ]),
+    ],
   };
 }
 

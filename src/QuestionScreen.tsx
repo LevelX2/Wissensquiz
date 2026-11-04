@@ -23,6 +23,7 @@ import { playFeedback, stopFeedback, unlockSound } from "./feedback";
 import type { Mutate } from "./uiTypes";
 import { historicalModeName, Pill } from "./gameUi";
 import { Explanation } from "./Explanation";
+import { FilmAlternativeTitles } from "./FilmAlternativeTitles";
 import type { LearningEvidence } from "./learningProgress";
 import { LearningProgress } from "./LearningProgressPanel";
 import { IssueReportForm } from "./IssueReportForm";
@@ -503,6 +504,7 @@ export function QuestionScreen({
             displayedQuestionText
           )}
         </h1>
+        {!event && <FilmAlternativeTitles q={displayQ} beforeAnswer />}
         {!event && imageStatus !== "ready" && (
           <div
             className="notice"

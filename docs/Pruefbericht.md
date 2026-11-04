@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 04.11.2026 – Alternativtitel bei Filmfragen, lokal
+
+Zentrale Titelergänzung nach Originaltitel und Jahr für Zwei Schlitzohren in der Knochenmühle: Superfighter 3 / Der Superfighter III / The Fearless Hyena. Dezenter Hinweis unter einer Frage mit bereits genanntem Filmtitel, dieselben Angaben bei der Auflösung sowie deutsche/internationale Einordnung und Quellen in den Filmdaten. Vor der Antwort kein Hinweis bei fehlender Titelnennung oder Überschneidung zwischen Titeln und Antwortoptionen; Personenverweise bleiben den jeweiligen Filmdaten zugeordnet. Fragen, Lernstände und ursprüngliche Reihenposition 1 erhalten.
+
+20 gezielte Tests in vier Dateien erfolgreich: sechs neue Fälle für alle acht Filmfragen, genaue Fassung/Filmverweise, unveränderte Quellfragen, echte React-Ausgabe der Frage und Auflösung sowie Schutz von Titel-/Preis-/Bilderfragen und Namen-/Zahlenantworten; dazu vorhandene Titel-, Filmdaten- und Reihenprüfungen. Nach einer korrigierten TypeScript-Verengung für fehlende Filmdaten ist `npm run check` erfolgreich; abschließender gezielter Testlauf und `git diff --check` erfolgreich. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf erforderlich. Keine produktive Katalogaktivierung, Veröffentlichung oder Spielstandsänderung. [Vertrag und Quellen](Filmwissen-und-Filmdaten.md#alternativtitel--04112026-lokal).
+
 ## 03.11.2026 – Version 87 aus Main veröffentlicht und live abgenommen
 
 Abgeschlossenen 150er-Ausbau konfliktfrei in Main integriert und um 23:56:03 Uhr Europe/Berlin als Version 87 öffentlich veröffentlicht. 515 Tests in 82 Dateien auf dem finalen Quellstand erfolgreich; zehn veraltete Erwartungen nach erstem Lauf gezielt korrigiert, alle 16 betroffenen Fälle und danach die vollständige Suite bestanden. Metadaten/TypeScript, Versionsbuild und drei gezielte Browserfälle erfolgreich. Keine Änderung an Oberfläche, Persistenz oder Abhängigkeiten; unveränderte Vorprüfungen wiederverwendet.

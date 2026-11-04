@@ -1,5 +1,17 @@
 # Jahresfragen, Regiefragen und Filmdaten
 
+## Alternativtitel – 04.11.2026, lokal
+
+Auf Nutzerhinweis zum Film **Zwei Schlitzohren in der Knochenmühle (1979)** ergänzt `src/filmAlternativeTitles.json` zentral geprüfte weitere Titel je Originaltitel und Jahr. Für `Xiao quan guai zhao|1979` sind **Superfighter 3**, **Der Superfighter III** (deutsche Alternativtitel) und **The Fearless Hyena** (internationaler Titel) hinterlegt. Haupttitel und originale Filmidentität bleiben bestehen. Es handelt sich zunächst um diesen einen redaktionell belegten Filmeintrag, nicht um eine vollständige Alternativtitelredaktion des Katalogs.
+
+Unter der Frage steht dezent „Auch bekannt als: …“, sofern der Film bereits als bekannter zitierter Titel im Fragetext genannt wird. Fehlt diese Nennung, bleibt der Hinweis vor der Antwort verborgen; das schützt insbesondere Film-, Preis- und Bilderkennungsfragen. Kommt ein Titel oder ein Wort-/Zahlenbestandteil eines Titels in einer Antwortoption vor (oder umgekehrt), wird ebenfalls kein Hinweis eingeblendet. Nach der Antwort stehen dieselben Titel beim Filmnamen; „Filmdaten → Weitere Titel“ unterscheidet deutsche und internationale Titel und verlinkt die Quellen. Bei Personenfragen erfolgt die Zuordnung ausschließlich in den jeweiligen Filmdaten der Filmverweise. Die vorhandene Lösungswahl je Frage/Rundenende bleibt maßgeblich.
+
+Die Erweiterung läuft über die vorhandene Anzeigevorbereitung und das Filmschema, einschließlich referenzierter Filmdaten. Keine Änderung an Roh-CSV, Fragen, Antworten, Wissensziel-IDs, Versionen oder Spielständen; keine Migration oder zusätzliche Altstandsauflösung. Eine spätere Veröffentlichung muss die Anzeigevorbereitungen im Onlinekatalog mitführen.
+
+Quellen am 04.11.2026: [Splendid als deutscher Anbieter](https://www.splendid-ag.com/superfighter-3?view=home-entertainment) führt Fearless Hyena, Der Superfighter III und den bisherigen Haupttitel mit Originaltitel und Jahr (vollständiger verfügbarer Webtreffer; Direktabruf mit Zeitüberschreitung). [DTM-Produktseite der Nameless-Ausgabe](https://dtmshop.dtm.at/FEARLESS-HYENA-DOUBLE-FEATURE-SUPERFIGHTER-2-3-Blu-Ray-2Discs-Cover-B-Mediabook-Limited-500-Edition/3477280) nennt ausdrücklich The Fearless Hyena und Superfighter 3; [Criterion](https://www.criterion.com/films/29551-the-fearless-hyena) bestätigt internationalen Titel und Filmjahr. Deutsche Vermarktungsnummer 3 ändert die belegte ursprüngliche Reihenposition 1 nicht. Nicht belegte weitere Titel werden nicht übernommen.
+
+Abnahme: 20 gezielte Tests in vier Dateien (Alternativtitel, Titelhervorhebung, Filmdaten und Filmreihen), Metadaten/TypeScript und `git diff --check` erfolgreich. Geprüft sind alle acht Fragen dieses Films, Filmverweise, Erhalt der Quellfragen, React-Ausgabe vor/nach der Antwort, Titel-/Preis-/Bilderfragen und Lösungsschutz bei Titelbestandteilen. Keine vollständige Testsuite, kein Produktionsbuild oder Browserlauf für diese lokale Ergänzung. Noch nicht veröffentlicht oder im produktiven Katalog aktiviert.
+
 ## Filmreihen im gesamten Bestand – 02.11.2026, lokal
 
 Auf ausdrücklichen Nutzerauftrag alle 2.953 angezeigten Filmidentitäten einschließlich Personen-/Preisverweisen auf Filmreihe und konkrete Teilnummer abgeglichen. **Eine benannte Filmreihe muss ihre positive Teilnummer zeigen; der Reihenname allein genügt nicht.** Führend ist jetzt `src/filmSeries.json` für sämtliche Filmdatenwege. Neue Filmidentitäten benötigen vor der Integration eine bewusste Reihenprüfung, auch wenn deren Ergebnis keine belegte nummerierte Filmreihe ist.
