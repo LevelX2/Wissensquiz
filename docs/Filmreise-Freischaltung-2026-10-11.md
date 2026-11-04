@@ -50,7 +50,7 @@ Die Gleichgewichtung gilt über viele Ziehungen, ohne feste Gruppen-/Bereichsquo
 
 ## Mögliche Genre-Häufung durch Gruppenfreigaben – 04.11.2026
 
-Anlass: Nutzer meldet wiederholt viele Martial-Arts-/Asia-Fragen; der gelieferte Ergebnisausschnitt zeigt sechs von zehn Fragen aus diesem Genre. Der Modus und die konkreten Kontofreigaben sind anhand des Ausschnitts nicht belegt.
+Anlass: Nutzer meldet wiederholt viele Martial-Arts-/Asia-Fragen; der gelieferte Ergebnisausschnitt zeigt sechs von zehn Fragen aus diesem Genre. Der Nutzer hat Filmreise als betroffenen Modus bestätigt. Die konkreten Kontofreigaben sind noch nicht geprüft.
 
 Die produktiven Funktionsdefinitionen von `quiz_game_internal.select_queue` und `quiz_ranked_internal.refill` wurden lesend geprüft: Filmreise verwendet weiterhin Gruppe → Bereich; der Zeitspiel-Standardmix dagegen zieht Ziele innerhalb der Schwierigkeiten ohne Genrequote. Die Erklärung über Gruppenfreigaben gilt daher für Filmreise, nicht für den Zeitmodus „10 Fragen“.
 
