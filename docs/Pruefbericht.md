@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 04.11.2026 – Vollständige Filmliste und Alternativtitelregeln
+
+`scripts/list-catalog-films.mjs` baut ausschließlich aus den 123 aktiven Paketen den echten App-Katalog mit 19.303 Fragen auf und erfasst zusätzlich die tatsächlich vorbereiteten Filmverweise. Ausgelieferte [alphabetische Liste](Filmliste-2026-11-04.txt): 3.389 Originaltitel-/Jahridentitäten, davon 1.903 mit eigenen Film-/Preisfragen und 1.486 ausschließlich als Filmverweis. 1.803 haben Filmfragen, 155 Preisfragen; 55 liegen in beiden Gruppen. Vorhandene deutsche Katalog-/Metadatentitel übernommen, sonst Originaltitel. Kein Zugriff auf private Sammlungen oder Kontodaten und keine zusätzliche Alternativtitelrecherche des Bestands.
+
+Ausführung und erneute Ausführung erfolgreich; alle Identitäten exakt gegen das vollständige Filmreihenregister abgeglichen, eindeutige Frage-IDs und vollständige Zuordnung aller Film-/Preisfragen geprüft, sämtliche 3.389 ausgegebenen Einträge erneut eingelesen und verglichen. Beim ersten Lauf erzeugte Vites unnötige automatische HTML-Abhängigkeitssuche Diagnoseausgaben zu vorhandenen temporären HTML-Dateien; die Inventarliste und ihre Assertions waren erfolgreich. Automatische Abhängigkeitssuche im Inventarwerkzeug anschließend abgeschaltet; finaler Lauf ohne diese Diagnose. Keine fremden Artefakte verändert oder entfernt.
+
+Führenden Redaktionsvertrag und dessen Abnahme um verbindliche Alternativtitelrecherche, Werkabgrenzung, zentrale Übergabe, Quellen, Lösungsschutz und ehrlichen Rechercheabschluss je neuer Filmfassung einschließlich Personen-/Preisverweisen ergänzt; `AGENTS.md` verweist ausdrücklich darauf. Der persönliche Redaktionsskill liest diesen Projektvertrag bereits verpflichtend und benötigt dafür keine separate Regelkopie. Dokumentationslinks und `git diff --check` geprüft. Keine Produktlogik oder Inhalte geändert, daher kein Test-/Build-/Browserlauf; nicht veröffentlicht.
+
 ## 04.11.2026 – Alternativtitel bei Filmfragen, lokal
 
 Zentrale Titelergänzung nach Originaltitel und Jahr für Zwei Schlitzohren in der Knochenmühle: Superfighter 3 / Der Superfighter III / The Fearless Hyena. Dezenter Hinweis unter einer Frage mit bereits genanntem Filmtitel, dieselben Angaben bei der Auflösung sowie deutsche/internationale Einordnung und Quellen in den Filmdaten. Vor der Antwort kein Hinweis bei fehlender Titelnennung oder Überschneidung zwischen Titeln und Antwortoptionen; Personenverweise bleiben den jeweiligen Filmdaten zugeordnet. Fragen, Lernstände und ursprüngliche Reihenposition 1 erhalten.

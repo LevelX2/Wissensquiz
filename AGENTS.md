@@ -6,6 +6,7 @@
 - Bei unbekanntem Kontext: `KI-Wissen-Wissensquiz/00 Projektstart.md`.
 - Projektfragen: zuerst `KI-Wissen-Wissensquiz/02 Wissen/00 Uebersichten/Index.md` oder die bekannte aktuelle Fachseite lesen (`wiki-first`).
 - Neue oder überarbeitete Fragenpakete: persönlichen Skill `wissensquiz-fragen-redigieren` verwenden; führender Redaktionsvertrag ist `docs/Fragenredaktion.md`. Filmfragen benötigen mindestens zwei eigenständige Inhaltsziele je leicht/mittel/schwer plus Jahr und Regie; Personen-/Preisfragen haben zusätzlich Experte. Bekanntheit und Schwierigkeit getrennt behandeln.
+- Bei jeder neu verwendeten Filmfassung einschließlich Personen-/Preisverweisen deutsche Alternativtitel und international gebräuchliche Titel mit Quellen prüfen, geprüfte Titel zentral in `src/filmAlternativeTitles.json` übergeben und Lösungsschutz gemeinsam mit Frage und Antworten abnehmen; Einzelheiten im Redaktionsvertrag.
 - Codeänderungen: betroffene Verträge, Implementierung und vorhandene Checks unmittelbar sichten; Prüfungen nach der untenstehenden Testregel auswählen. Unveränderten Kontext wiederverwenden.
 - Wissenspflege: Prozessseite `KI-Wissen-Wissensquiz/02 Wissen/Prozesse/Arbeitsworkflow Wissenspflege und Projektanfragen.md` und `KI-Wissen-Wissensquiz/00 Steuerung/Regeldatei KI-Wissenspflege.md` lesen.
 - Für relevante lokale Pfadauflösung `AGENTS.local.md` ausdrücklich lesen, falls vorhanden; sie wird nicht automatisch geladen.

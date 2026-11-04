@@ -1,5 +1,8 @@
 # Wissensindex
 
+- [Vollständige Filmliste: 3.389 Katalogidentitäten, davon 1.903 mit eigenen Film-/Preisfragen – 04.11.2026](../../../docs/Filmliste-2026-11-04.txt)
+- [Verbindliche Alternativtitelrecherche und Lösungsschutz für neue Filmfassungen und Filmverweise – 04.11.2026](../../../docs/Fragenredaktion.md#alternativtitel-bei-neuen-filmfassungen)
+
 - [Alternativtitel bei Frage, Auflösung und Filmdaten; Lösungsschutz und erster belegter Film – 04.11.2026, lokal](../../../docs/Filmwissen-und-Filmdaten.md#alternativtitel--04112026-lokal)
 
 - [Version 87 veröffentlicht: alle zwölf Filmgenres ab 150 Filmen; 501 Ergänzungen / 4.008 Fragen, 19.303 Fragen insgesamt – 03.11.2026](../../../docs/Veroeffentlichung-2026-11-03-Version-87.json)
