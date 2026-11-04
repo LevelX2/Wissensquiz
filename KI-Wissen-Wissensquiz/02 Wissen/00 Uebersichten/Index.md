@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Genre-Häufung in der Filmreise: frühe Martial-Arts-Gruppenfreigabe und Vorrang der Bekanntheitsgruppe; konkrete Runde noch nicht zugeordnet – 04.11.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#mögliche-genre-häufung-durch-gruppenfreigaben--04112026)
+
 - [Vollständige Filmliste: 3.389 Katalogidentitäten, davon 1.903 mit eigenen Film-/Preisfragen – 04.11.2026](../../../docs/Filmliste-2026-11-04.txt)
 - [Verbindliche Alternativtitelrecherche und Lösungsschutz für neue Filmfassungen und Filmverweise – 04.11.2026](../../../docs/Fragenredaktion.md#alternativtitel-bei-neuen-filmfassungen)
 

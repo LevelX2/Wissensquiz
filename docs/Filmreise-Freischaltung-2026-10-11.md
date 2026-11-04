@@ -48,6 +48,18 @@ Bei ausreichendem Bestand werden weiterhin vier fällige Wiederholungen reservie
 
 Die Gleichgewichtung gilt über viele Ziehungen, ohne feste Gruppen-/Bereichsquoten oder Schauspielerobergrenze. Sie garantiert nicht, dass jeder Bereich in einer Zehnerrunde vorkommt. Schauspieler bilden einen Bereich, Filmfragen verteilen sich auf einzelne Genres; drei Quellen erhalten deshalb nicht pauschal je ein Drittel. Haben höhere Gruppen ausschließlich geeignete Schauspielerziele, bleibt deren Anteil durch die ausdrücklich vorrangige Gruppenauslosung höher. Sind ausschließlich Schauspielerziele fällig, kommen auch die reservierten Wiederholungen aus diesem Bereich. Kleine oder auf Schauspieler begrenzte Pools werden vollständig genutzt. Freies Spiel, Wiederholen und Rekordmodi behalten ihre eigenen Regeln. Bereits ausgegebene Runden behalten ihre gezogene Folge; die Aktivierung wirkt auf neu gestartete Filmreisen.
 
+## Mögliche Genre-Häufung durch Gruppenfreigaben – 04.11.2026
+
+Anlass: Nutzer meldet wiederholt viele Martial-Arts-/Asia-Fragen; der gelieferte Ergebnisausschnitt zeigt sechs von zehn Fragen aus diesem Genre. Der Modus und die konkreten Kontofreigaben sind anhand des Ausschnitts nicht belegt.
+
+Die produktiven Funktionsdefinitionen von `quiz_game_internal.select_queue` und `quiz_ranked_internal.refill` wurden lesend geprüft: Filmreise verwendet weiterhin Gruppe → Bereich; der Zeitspiel-Standardmix dagegen zieht Ziele innerhalb der Schwierigkeiten ohne Genrequote. Die Erklärung über Gruppenfreigaben gilt daher für Filmreise, nicht für den Zeitmodus „10 Fragen“.
+
+Der aktuelle produktive Katalog enthält 1.277 eindeutige Ziele mit Martial-Arts-/Asia-Zuordnung; die zwölf Filmgenres liegen zwischen 1.194 und 1.294. Eine besonders große Gesamtmenge dieses Genres erklärt die Häufung nicht. Bei den leichten Zielen in Bekanntheitsgruppe 1 bestehen dagegen deutliche Unterschiede: Martial Arts 6 → nächste Gruppe ab 3 sicheren Zielen; Action 21 → 11; Science-Fiction 45 → 23. Martial Arts kann dadurch früh als eines weniger Genres in einer höheren Gruppe verfügbar sein.
+
+Bei gleichwahrscheinlicher Gruppenauswahl erhält ein Genre sämtliche Plätze einer Gruppe, in der es als einziges noch geeignete Ziele hat. Rechenbeispiel, keine Kontomessung: Sind zwei Gruppen verfügbar, Gruppe 1 mit zwölf Genres und Gruppe 2 ausschließlich mit Martial Arts, beträgt dessen Chance vor Erschöpfung einer Restmenge je Ziehung `1/2 + 1/2 × 1/12 = 54,17 %`. Unterschiedliche Restmengen für neue und fällige Ziele können den Effekt zusätzlich verändern. Gleiche Bereichschancen **innerhalb** einer Gruppe bedeuten somit keine gleichen Genreanteile über die ganze Runde.
+
+Verifikation: produktive Funktionsdefinitionen und aggregierte Katalogzählung, lokal unabhängig vollständiger Paketimport mit 19.303 Fragen; keine privaten Konto- oder Rundeninhalte ausgewertet. Die konkrete gemeldete Runde ist damit noch nicht ursächlich zugeordnet. Auswahlregeln und produktive Daten wurden nicht geändert.
+
 ## Betrieb und Grenzen
 
 Die seit Version 82 aktivierte Folgeänderung `20261016184815_journey_area_balanced_selection.sql` ersetzt ausschließlich die private Auswahlfunktion. Keine neuen Tabellen, Fortschrittsfelder, Katalogimporte oder Änderungen bestehender Antworten/Runden. `src/engine.ts` bildet dieselbe Hierarchie ab. Fällige und bekannte Ziele bleiben über ihre bisherigen Lerntermine und Vorrangphasen eingeordnet; nur die Ziehung von Gruppe und Bereich geht ihrer internen Altersreihenfolge vor. Am 16.10.2026 mit ausdrücklicher Freigabe des aktuellen Main-Stands aktiviert; 30 private Quelltabellen unverändert bestätigt.
