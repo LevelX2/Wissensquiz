@@ -166,72 +166,76 @@ export function selectQuestions(
     const draw = <T>(items: T[]) =>
       items[Math.min(items.length - 1, Math.floor(random() * items.length))];
     const used = new Set<string>();
-    // Keep due/age priority inside the drawn group and area, not across areas.
+    // Draw areas before groups so extra unlocked groups give no extra area tickets.
+    // Keep due/age priority inside the drawn area and group.
     const take = (list: Question[], n: number) => {
-      const groups = new Map<
-        ReturnType<typeof familiarityOf>,
-        Map<string, Question[]>
+      const areas = new Map<
+        string,
+        Map<ReturnType<typeof familiarityOf>, Question[]>
       >();
       for (const q of list.filter((q) => !used.has(q.knowledgeId))) {
-        const group = familiarityOf(q);
-        if (!groups.has(group)) groups.set(group, new Map());
-        const areas = groups.get(group)!;
         const area = pathAreaOf(q);
-        if (!areas.has(area)) areas.set(area, []);
-        areas.get(area)!.push(q);
+        if (!areas.has(area)) areas.set(area, new Map());
+        const groups = areas.get(area)!;
+        const group = familiarityOf(q);
+        if (!groups.has(group)) groups.set(group, []);
+        groups.get(group)!.push(q);
       }
-      while (n-- > 0 && result.length < options.size && groups.size) {
-        const areas = draw([...groups.values()]);
-        const q = draw([...areas.values()])[0];
+      while (n-- > 0 && result.length < options.size && areas.size) {
+        const groups = draw([...areas.values()]);
+        const q = draw([...groups.values()])[0];
         result.push(q);
         used.add(q.knowledgeId);
-        for (const [group, areas] of groups) {
-          for (const [area, candidates] of areas) {
+        for (const [area, groups] of areas) {
+          for (const [group, candidates] of groups) {
             const remaining = candidates.filter(
               (q) => !used.has(q.knowledgeId),
             );
-            if (remaining.length) areas.set(area, remaining);
-            else areas.delete(area);
+            if (remaining.length) groups.set(group, remaining);
+            else groups.delete(group);
           }
-          if (!areas.size) groups.delete(group);
+          if (!groups.size) areas.delete(area);
         }
       }
     };
     // Reserve room for consolidation even while new goals remain available.
     take(due, Math.floor(options.size * 0.4));
-    // Unlocked familiarity groups get equal chances, regardless of pool size.
-    const groups = new Map<
-      ReturnType<typeof familiarityOf>,
-      Map<string, Map<Difficulty, Map<string, Question[]>>>
+    // Areas get equal chances, then their available unlocked groups do.
+    const areas = new Map<
+      string,
+      Map<
+        ReturnType<typeof familiarityOf>,
+        Map<Difficulty, Map<string, Question[]>>
+      >
     >();
     for (const q of pool.filter((q) => !learning[q.knowledgeId])) {
-      const group = familiarityOf(q);
-      if (!groups.has(group)) groups.set(group, new Map());
-      const areas = groups.get(group)!;
       const area = pathAreaOf(q);
       if (!areas.has(area)) areas.set(area, new Map());
-      const buckets = areas.get(area)!;
+      const groups = areas.get(area)!;
+      const group = familiarityOf(q);
+      if (!groups.has(group)) groups.set(group, new Map());
+      const buckets = groups.get(group)!;
       if (!buckets.has(q.difficulty)) buckets.set(q.difficulty, new Map());
       const goals = buckets.get(q.difficulty)!;
       if (!goals.has(q.knowledgeId)) goals.set(q.knowledgeId, []);
       goals.get(q.knowledgeId)!.push(q);
     }
-    while (result.length < options.size && groups.size) {
-      const areas = draw([...groups.values()]);
-      const buckets = draw([...areas.values()]);
+    while (result.length < options.size && areas.size) {
+      const groups = draw([...areas.values()]);
+      const buckets = draw([...groups.values()]);
       const level = draw([...buckets.keys()]);
       const [goal, variants] = draw([...buckets.get(level)!.entries()]);
       result.push(draw(variants));
       used.add(goal);
-      for (const [group, areas] of groups) {
-        for (const [area, stages] of areas) {
+      for (const [area, groups] of areas) {
+        for (const [group, stages] of groups) {
           for (const [difficulty, goals] of stages) {
             goals.delete(goal);
             if (!goals.size) stages.delete(difficulty);
           }
-          if (!stages.size) areas.delete(area);
+          if (!stages.size) groups.delete(group);
         }
-        if (!areas.size) groups.delete(group);
+        if (!groups.size) areas.delete(area);
       }
     }
     // A small remaining pool must not artificially shorten the round.

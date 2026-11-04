@@ -178,7 +178,7 @@ function groupQuestion(level: number, id: string): Question {
   };
 }
 
-it("zieht freigespielte Bekanntheitsgruppen gleichwahrscheinlich trotz ungleicher Zielmengen und Schwierigkeiten", () => {
+it("zieht Bekanntheitsgruppen innerhalb eines Bereichs gleichwahrscheinlich trotz ungleicher Zielmengen und Schwierigkeiten", () => {
   const pool = [1, 2, 3, 4].flatMap((level, index) =>
     Array.from({ length: [120, 35, 20, 12][index] }, (_, i) => {
       const q = groupQuestion(level, level + "-" + i);
@@ -463,41 +463,55 @@ it("gewichtet Bereiche trotz großem Schauspielerbestand bei neuen, fälligen un
   }
 });
 
-it("zieht bei Wiederholungen zuerst die Gruppe, auch wenn diese verschieden viele Bereiche enthält", () => {
+it("bevorzugt Bereiche mit zusätzlichen Bekanntheitsgruppen weder bei neuen noch bei wiederholten Zielen", () => {
+  const areas = ["Abenteuer", "Drama", "Horror", "Komödie"];
   const pool = [1, 2].flatMap((level) =>
     Array.from({ length: 100 }, (_, i) => {
       const q = groupQuestion(level, level + "-" + i);
-      q.metadata.subdomain =
-        level === 1
-          ? ["Abenteuer", "Drama", "Horror", "Komödie"][i % 4]
-          : "Abenteuer";
+      q.metadata.subdomain = level === 1 ? areas[i % 4] : "Abenteuer";
       return q;
     }),
   );
-  const s = emptyState();
-  for (const q of pool)
-    s.learning[q.knowledgeId] = {
-      knowledgeId: q.knowledgeId,
-      status: "entdeckt",
-      stage: 1,
-      due: 1,
-      seen: 1,
-      lastSeenAt: 1,
-      lastSecure: 1,
-      lastAdvancedDay: null,
-      secureDays: [],
-    };
   let seed = 91;
   const random = () =>
     (seed = (seed * 1664525 + 1013904223) >>> 0) / 4294967296;
-  let first = 0;
-  for (let i = 0; i < 200; i++)
-    first += selectQuestions(
-      pool,
-      s.learning,
-      { ...options, now: 2 * 86_400_000 },
-      random,
-    ).filter((q) => familiarityOf(q) === 1).length;
-  expect(first).toBeGreaterThan(900);
-  expect(first).toBeLessThan(1100);
+  for (const phase of ["fresh", "due", "known"]) {
+    const s = emptyState();
+    if (phase !== "fresh")
+      for (const q of pool)
+        s.learning[q.knowledgeId] = {
+          knowledgeId: q.knowledgeId,
+          status: "entdeckt",
+          stage: 1,
+          due: phase === "due" ? 1 : 9999999999999,
+          seen: 1,
+          lastSeenAt: 1,
+          lastSecure: 1,
+          lastAdvancedDay: null,
+          secureDays: [],
+        };
+    const counts = Object.fromEntries(areas.map((area) => [area, 0]));
+    let second = 0;
+    for (let i = 0; i < 200; i++) {
+      const selected = selectQuestions(
+        pool,
+        s.learning,
+        { ...options, now: 2 * 86_400_000 },
+        random,
+      );
+      expect(selected).toHaveLength(10);
+      expect(new Set(selected.map((q) => q.knowledgeId)).size).toBe(10);
+      for (const q of selected) {
+        counts[pathAreaOf(q)]++;
+        if (familiarityOf(q) === 2) second++;
+      }
+    }
+    for (const count of Object.values(counts)) {
+      expect(count).toBeGreaterThan(400);
+      expect(count).toBeLessThan(600);
+    }
+    // Only Abenteuer has group 2: one quarter of area draws, half of its groups.
+    expect(second).toBeGreaterThan(180);
+    expect(second).toBeLessThan(320);
+  }
 });

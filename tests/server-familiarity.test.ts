@@ -38,7 +38,7 @@ const filters: QuizFilters = {
   familiarities: [1, 2, 3, 4],
 };
 
-it("zieht neue Serverziele zuerst nach freigespielter Bekanntheit, unabhängig von Bestandsgröße und Stufenanzahl", async () => {
+it("zieht neue Serverziele nach Bereich und dessen freigespielter Bekanntheit, unabhängig von Bestandsgröße und Stufenanzahl", async () => {
   const { owner, generation } = await player();
   await fixture.db.exec("begin");
   try {
@@ -133,8 +133,8 @@ it("zieht neue Serverziele zuerst nach freigespielter Bekanntheit, unabhängig v
       ),
     ).toBe(true);
 
-    // Different areas may have different unlock levels; a global group draw
-    // must never make a locked actor question eligible through an open film group.
+    // Different areas may have different unlock levels; an open film group
+    // must never make a locked actor question eligible.
     await fixture.db.query(
       "delete from quiz_game_internal.secure_goals where owner_id=$1 and generation=$2 and area='Schauspieler'",
       [owner, generation],
@@ -642,7 +642,7 @@ it("verteilt Serverbereiche für neue und wiederholte Ziele und behält die ält
       }
       expect(mixes.size).toBeGreaterThan(3);
     }
-    // Group first: group 1 has four areas, group 2 only actors, both get half.
+    // Group 1 has four areas, group 2 only actors: actors must keep one quarter.
     await fixture.db.exec(`
       insert into quiz_game_internal.catalog_meta
       select 'second-'||i,'second-'||i,'Test','Schauspieler','actors','leicht',2,'[]' from generate_series(0,49) i;
@@ -666,18 +666,41 @@ it("verteilt Serverbereiche für neue und wiederholte Ziele und behält die ält
       "update public.quiz_sync_entries set value=value||'{\"due\":1}' where owner_id=$1 and generation=$2 and kind='learning'",
       [owner, generation],
     );
-    let second = 0;
-    for (let round = 0; round < 100; round++) {
-      const ids = (
-        await fixture.db.query<{ ids: string[] }>(
-          "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
-          [owner, generation, setup],
-        )
-      ).rows[0].ids;
-      second += ids.filter((id) => id.startsWith("second-")).length;
+    for (const phase of ["fresh", "due", "known"]) {
+      await fixture.db.query(
+        "delete from public.quiz_sync_entries where owner_id=$1 and generation=$2 and kind='learning'",
+        [owner, generation],
+      );
+      if (phase !== "fresh")
+        await fixture.db.query(
+          `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
+           select $1,$2,'learning',knowledge_id,0,jsonb_build_object('stage',1,'seen',1,
+             'due',case when $3='due' then 1 else 9999999999999 end,'lastSeenAt',1,'lastSecure',1),0
+           from quiz_game_internal.catalog_meta`,
+          [owner, generation, phase],
+        );
+      let second = 0;
+      let actors = 0;
+      for (let round = 0; round < 100; round++) {
+        const ids = (
+          await fixture.db.query<{ ids: string[] }>(
+            "select quiz_game_internal.select_queue($1,$2,$3,'Europe/Berlin') ids",
+            [owner, generation, setup],
+          )
+        ).rows[0].ids;
+        expect(ids).toHaveLength(10);
+        expect(new Set(ids).size).toBe(10);
+        second += ids.filter((id) => id.startsWith("second-")).length;
+        actors += ids.filter(
+          (id) => id.startsWith("second-") || id.startsWith("Schauspieler-"),
+        ).length;
+      }
+      expect(actors).toBeGreaterThan(180);
+      expect(actors).toBeLessThan(320);
+      // Equal groups within actors: roughly one eighth overall, not one half.
+      expect(second).toBeGreaterThan(70);
+      expect(second).toBeLessThan(180);
     }
-    expect(second).toBeGreaterThan(420);
-    expect(second).toBeLessThan(580);
   } finally {
     await fixture.db.exec("rollback");
   }

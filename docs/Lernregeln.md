@@ -1,5 +1,7 @@
 # Lern-, Runden- und Speichervertrag
 
+**04.11.2026 – Filmreise lokal korrigiert, noch nicht veröffentlicht:** Zuerst gleichwahrscheinlich ein geeignetes Filmgenre, Schauspieler oder Preisträger, danach eine dort verfügbare freigespielte Bekanntheitsgruppe. Gilt für neue Ziele, fällige Wiederholungen und bekannte Füllziele; die vier reservierten Wiederholungsplätze bleiben erhalten. Zusätzliche offene Gruppen bevorzugen einen Bereich dadurch nicht mehr. Produktiv bleibt bis zur Veröffentlichung die unten dokumentierte Reihenfolge aus Version 82 aktiv. [Aktueller lokaler Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
+
 ## Fokus und Fragewechsel seit 18.10.2026 lokal
 
 Jede neu freigegebene Frage erhält den Tastaturfokus auf ihrer Überschrift und beginnt am Seitenanfang. Das gilt gemeinsam für Lernspiele, Zeitspiele und die Proberunde. Die Antwortauflösung bleibt ein gezielt fokussierbarer Lesebereich; nur eine kurze Ergebniszeile ist eine Statusansage, nicht die gesamte Erklärung.

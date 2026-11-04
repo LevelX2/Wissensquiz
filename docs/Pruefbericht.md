@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 04.11.2026 – Filmreise: Bereich vor Bekanntheitsgruppe, lokal
+
+Auf Nutzerauftrag die Auswahl in `src/engine.ts` sowie der vorbereiteten Servermigration `20261104193710_journey_area_before_familiarity.sql` auf Bereich → Bekanntheitsgruppe umgestellt. Gilt für neue, fällige und bekannte Ziele; vier Wiederholungsplätze, Freigaben, Alterspriorität innerhalb der gezogenen Bereichsgruppe, Cooldown und zielweite Varianteneindeutigkeit erhalten. Keine produktive Änderung.
+
+41 gezielte Tests in `tests/discovery.test.ts`, `tests/server-familiarity.test.ts` und `tests/server-learning.test.ts` erfolgreich; zusätzlich `npm run check` für Laufzeitmetadaten/TypeScript und `git diff --check` erfolgreich. Lokale Auswahl und isolierte SQL-Datenbank prüfen zusätzliche Gruppen eines einzelnen Bereichs in allen drei Phasen: gleiche Bereichschance und gleichwahrscheinliche Gruppen innerhalb des Bereichs. Vorhandene Prüfungen decken Varianten, kleine Restmengen, Freischaltungen, Wiederholungsreserve, Cooldown und Rechte der privaten Auswahlfunktion ab. Keine echten Spielstände verwendet und keine Build-/Browserartefakte erstellt.
+
 ## 04.11.2026 – Vollständige Filmliste und Alternativtitelregeln
 
 `scripts/list-catalog-films.mjs` baut ausschließlich aus den 123 aktiven Paketen den echten App-Katalog mit 19.303 Fragen auf und erfasst zusätzlich die tatsächlich vorbereiteten Filmverweise. Ausgelieferte [alphabetische Liste](Filmliste-2026-11-04.txt): 3.389 Originaltitel-/Jahridentitäten, davon 1.903 mit eigenen Film-/Preisfragen und 1.486 ausschließlich als Filmverweis. 1.803 haben Filmfragen, 155 Preisfragen; 55 liegen in beiden Gruppen. Vorhandene deutsche Katalog-/Metadatentitel übernommen, sonst Originaltitel. Kein Zugriff auf private Sammlungen oder Kontodaten und keine zusätzliche Alternativtitelrecherche des Bestands.
