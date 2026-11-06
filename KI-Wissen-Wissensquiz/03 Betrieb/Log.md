@@ -2921,3 +2921,7 @@ Auf Nutzerauftrag alphabetische Liste sämtlicher 3.389 aktuell verknüpfter Fil
 #### 04.11.2026 – Filmreise-Auswahl lokal auf Bereich vor Bekanntheitsgruppe umgestellt
 
 Nach gemeldeter Martial-Arts-Häufung und Nutzerauftrag zuerst ein geeignetes Filmgenre bzw. Schauspieler/Preisträger auslosen, danach dessen verfügbare freigespielte Bekanntheitsgruppe. Neue Ziele, fällige und bekannte Wiederholungen nutzen dieselbe Reihenfolge; vier Wiederholungsplätze und Lernregeln bleiben erhalten. Lokale Auswahl geändert, Servermigration vorbereitet; 41 gezielte Auswahl-/Serverlerntests erfolgreich. Produktiv weiterhin Version-82-Auswahl bis zur gesonderten Veröffentlichungsfreigabe. Keine privaten Spielstände verändert, kein Push oder Deployment. [Vertrag](../../docs/Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
+
+#### Lokaler Versuch mit einem ausgewählten Zweittitel
+
+Auf Nutzerwunsch genau einen redaktionell ausgewählten Zweittitel klein unter der Frage zeigen, wenn zwei Titel ähnlich geläufig sind. Erster Versuch „Superfighter 3“ bei Zwei Schlitzohren in der Knochenmühle. Bei der Auflösung stehen die weiteren Titel in den Filmdaten. Neun gezielte Tests, Metadaten/TypeScript und Diffprüfung erfolgreich. Schmale Frage und aufgeklappte Titeldaten zur Durchsicht gerendert. [Anzeigevertrag und Quellen](../../docs/Filmwissen-und-Filmdaten.md#alternativtitel--04112026-lokal).

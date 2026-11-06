@@ -21,6 +21,7 @@ export const filmDisplaySchema = z.object({
       z.object({
         title: z.string().min(1),
         kind: z.enum(["de", "international"]),
+        showInQuestion: z.boolean().optional(),
       }),
     )
     .optional(),

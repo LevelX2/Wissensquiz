@@ -504,7 +504,7 @@ export function QuestionScreen({
             displayedQuestionText
           )}
         </h1>
-        {!event && <FilmAlternativeTitles q={displayQ} beforeAnswer />}
+        {!event && <FilmAlternativeTitles q={displayQ} />}
         {!event && imageStatus !== "ready" && (
           <div
             className="notice"

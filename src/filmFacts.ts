@@ -168,7 +168,11 @@ type FilmSeriesEntry = {
 };
 const seriesByFilm: Record<string, FilmSeriesEntry> = filmSeries.films;
 type FilmAlternativeTitlesEntry = {
-  titles: { title: string; kind: "de" | "international" }[];
+  titles: {
+    title: string;
+    kind: "de" | "international";
+    showInQuestion?: boolean;
+  }[];
   sources: string[];
 };
 const alternativeTitlesByFilm = filmAlternativeTitles as Record<

@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## Lokaler Versuch mit einem Zweittitel unter der Frage
+
+Für Zwei Schlitzohren in der Knochenmühle ist „Superfighter 3“ als einzelner kleiner Hinweis ausgewählt. Alle drei Alternativtitel sind in den aufklappbaren Filmdaten der Auflösung eingeordnet. Neun gezielte Tests prüfen die Titelanzeige mit und ohne Auswahl, Lösungsschutz, Filmidentität und die Filmdaten. `npm run check` und Diffprüfung erfolgreich. Die mobile Ansicht der vorhandenen Frage und die aufgeklappten Titeldaten wurden mit den App-Komponenten und der App-CSS in einem isolierten Chromium-Profil bei kontrollierter Testzeit gerendert und visuell geprüft.
+
 ## 04.11.2026 – Filmreise: Bereich vor Bekanntheitsgruppe, lokal
 
 Auf Nutzerauftrag die Auswahl in `src/engine.ts` sowie der vorbereiteten Servermigration `20261104193710_journey_area_before_familiarity.sql` auf Bereich → Bekanntheitsgruppe umgestellt. Gilt für neue, fällige und bekannte Ziele; vier Wiederholungsplätze, Freigaben, Alterspriorität innerhalb der gezogenen Bereichsgruppe, Cooldown und zielweite Varianteneindeutigkeit erhalten. Keine produktive Änderung.
