@@ -2925,3 +2925,7 @@ Nach gemeldeter Martial-Arts-Häufung und Nutzerauftrag zuerst ein geeignetes Fi
 #### Lokaler Versuch mit einem ausgewählten Zweittitel
 
 Auf Nutzerwunsch genau einen redaktionell ausgewählten Zweittitel klein unter der Frage zeigen, wenn zwei Titel ähnlich geläufig sind. Erster Versuch „Superfighter 3“ bei Zwei Schlitzohren in der Knochenmühle. Bei der Auflösung stehen die weiteren Titel in den Filmdaten. Neun gezielte Tests, Metadaten/TypeScript und Diffprüfung erfolgreich. Schmale Frage und aufgeklappte Titeldaten zur Durchsicht gerendert. [Anzeigevertrag und Quellen](../../docs/Filmwissen-und-Filmdaten.md#alternativtitel--04112026-lokal).
+
+#### 06.11.2026 – Externe Alternativtitel aus Teilrückgabe übernommen
+
+1.450 externe Rechercheeinträge dem Katalog exakt zugeordnet. 428 zusätzliche Titel für 412 Filme übernommen und sechs Zweittitel als kurze Hinweise ausgewählt. The Handmaiden erscheint wegen eines Lösungshinweises ausschließlich in den Filmdaten. Die Quelle enthält 1.739 erwartete Restnummern nicht. Rohquelle bytegleich archiviert. Vollständige Anzeigeprüfung aller 413 Registeridentitäten, 13 gezielte Tests und Metadaten/TypeScript erfolgreich. [Auswahl und Abnahme](../../docs/Filmwissen-und-Filmdaten.md#externe-alternativtitel-teilrückgabe-vom-06112026).

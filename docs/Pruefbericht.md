@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 06.11.2026 – Externe Alternativtitel, Teilrückgabe
+
+1.450 Rückgabezeilen mit Filmreihenregister und Filmliste abgeglichen. Alle Schlüssel und Eingabenummern sind eindeutig. Von 496 Vorschlägen sind 428 für 412 Filme zusätzlich übernommen. 53 Varianten mit geringem Wiedererkennungswert, 13 ungeklärte Vorschläge und zwei bereits vorhandene Titel separat gezählt. Die unveränderte Rohquelle deckt 1.739 erwartete Restnummern nicht ab.
+
+Alle 19.303 tatsächlich importierten Fragen mit der App-Anzeigevorbereitung durchlaufen. Sämtliche 413 Registeridentitäten liefern die hinterlegten Titel und Quellen bei 1.137 direkten Fragezuordnungen und 517 Filmverweisen. Der Titelabschnitt wurde für jede dieser 413 Identitäten gerendert und geprüft. Sechs neue Zweittitel erscheinen bei 53 geeigneten Fragen. Der bestehende Hinweis erscheint bei acht weiteren Fragen. Die Fragetexte zu den Hinweisen wurden auf Bedeutungsüberschneidungen gegengelesen. The Handmaiden wurde aus der Hinweiswahl entfernt, weil der Titel eine Rollenfrage beantworten würde. 13 gezielte Tests in drei Dateien, Laufzeitmetadaten, TypeScript und Diffprüfung erfolgreich. [Auswahl und Quellen](Filmwissen-und-Filmdaten.md#externe-alternativtitel-teilrückgabe-vom-06112026).
+
 ## Lokaler Versuch mit einem Zweittitel unter der Frage
 
 Für Zwei Schlitzohren in der Knochenmühle ist „Superfighter 3“ als einzelner kleiner Hinweis ausgewählt. Alle drei Alternativtitel sind in den aufklappbaren Filmdaten der Auflösung eingeordnet. Neun gezielte Tests prüfen die Titelanzeige mit und ohne Auswahl, Lösungsschutz, Filmidentität und die Filmdaten. `npm run check` und Diffprüfung erfolgreich. Die mobile Ansicht der vorhandenen Frage und die aufgeklappten Titeldaten wurden mit den App-Komponenten und der App-CSS in einem isolierten Chromium-Profil bei kontrollierter Testzeit gerendert und visuell geprüft.

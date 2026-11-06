@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Externe Alternativtitel. 428 Ergänzungen für 412 Filme und sechs ausgewählte Hinweise – 06.11.2026](../../../docs/Filmwissen-und-Filmdaten.md#externe-alternativtitel-teilrückgabe-vom-06112026)
+
 - [Filmreise lokal korrigiert: Bereich vor Bekanntheitsgruppe, gleiche Bereichschance trotz zusätzlicher Freigaben – 04.11.2026, noch nicht veröffentlicht](../../../docs/Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele)
 
 - [Genre-Häufung in der Filmreise: frühe Martial-Arts-Gruppenfreigabe und Vorrang der Bekanntheitsgruppe; konkrete Runde noch nicht zugeordnet – 04.11.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#mögliche-genre-häufung-durch-gruppenfreigaben--04112026)
