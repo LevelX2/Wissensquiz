@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import Papa from "papaparse";
-const result = Papa.parse(fs.readFileSync("public/fragen.csv", "utf8"), {
+const input = process.argv[2];
+if (!input) throw new Error("Aufruf: node scripts/inspect-csv.mjs <CSV-Datei>");
+const result = Papa.parse(fs.readFileSync(input, "utf8"), {
   header: true,
   skipEmptyLines: "greedy",
 });

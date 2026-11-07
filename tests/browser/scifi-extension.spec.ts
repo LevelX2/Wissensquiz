@@ -1,4 +1,4 @@
-import { writeStoredState } from "./fixtures";
+import { writeStoredState, readStoredState } from "./fixtures";
 import { test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
@@ -21,7 +21,7 @@ test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen ve
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const q = state.questions.find((q) => q.id === "FF-326-DIRECTOR")!;
@@ -73,8 +73,9 @@ test("Sci-Fi-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen ve
   await expect(page.locator(".film-data")).toContainText(
     "2001: A Space Odyssey",
   );
-  const available = await page.evaluate(async () =>
-    (await fetch("/scifi-ergaenzung-fragen.csv")).text(),
-  );
-  expect(available).toContain("SF-202609-P02-L-001");
+  expect(
+    (await readStoredState(page)).questions.some(
+      (q) => q.id === "SF-202609-P02-L-001",
+    ),
+  ).toBe(true);
 });

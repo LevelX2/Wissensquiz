@@ -182,7 +182,7 @@ for (const suffix of ["001-M-2", "001-S-2", "001-M-1"]) {
       state,
       packages.map((p) => ({
         filename: p.filename,
-        text: readFileSync(`public${p.path}`, "utf8"),
+        text: readFileSync(`${p.path}`, "utf8"),
       })),
     );
     const q = state.questions.find((q) => q.id.endsWith(suffix))!;

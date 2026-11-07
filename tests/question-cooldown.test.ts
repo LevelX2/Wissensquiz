@@ -1,12 +1,13 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../src/importer";
 import { emptyState, type AnswerEvent } from "../src/model";
 import { DAY } from "../src/learning";
 import { recentCorrectContext } from "../src/discovery";
 import { selectQuestions, startRound } from "../src/engine";
 
-const base = importCsv(readFileSync("public/fragen.csv", "utf8")).questions[0];
+const base = importCsv(currentCsv({ genre: "Science-Fiction" })).questions[0];
 const now = new Date("2026-10-11T12:00:00+02:00").getTime();
 function fixture() {
   const qs = Array.from({ length: 20 }, (_, i) => ({

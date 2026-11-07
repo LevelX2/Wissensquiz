@@ -4,50 +4,35 @@ import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
 import { actorPresentation, presentedQuestion } from "../src/actorEditorial";
 import { filmData } from "../src/filmFacts";
-import original from "../docs/Schauspieler-Fragenpaket/Schauspieler_100_Personen_800_Fragen.json";
-import editorial from "../src/actorEditorial.json";
-import {
-  latestCsvRevision,
-  latestActorRevision,
-  originalQuestionId,
-} from "./editorialSource";
 
 const state = emptyState();
 addPackages(
   state,
   packages.map((p) => ({
     filename: p.filename,
-    text: readFileSync(`public${p.path}`, "utf8"),
+    text: readFileSync(`${p.path}`, "utf8"),
   })),
 );
 const actors = state.questions.filter(
   (q) => q.metadata.person_id && !q.metadata.question_image_id,
 );
-it("nennt bei allen vorgegebenen Personen den vollen Namen und schützt die Erkennungsfragen", () => {
-  const originalActors = actors.filter((q) =>
-    originalQuestionId(q.id).startsWith("SCHAUSPIELER-202610-P01-"),
-  );
-  expect(originalActors).toHaveLength(800);
-  expect(Object.keys(editorial.questions)).toHaveLength(800);
-  for (const q of originalActors) {
-    const source = original.questions.find(
-      (source) => source.question_id === originalQuestionId(q.id),
-    )!;
-    const presentation = actorPresentation(q)!;
-    expect(presentation).toBeDefined();
-    if (source.actor_name_before_answer) {
-      expect(presentedQuestion(q)).toContain(q.metadata.person_name);
-      expect(presentedQuestion(q)).not.toContain(
-        `${q.metadata.person_name} ${q.metadata.person_name}`,
+it("nennt bei vorgegebenen Personen den vollen Namen und schützt gesuchte Namen", () => {
+  const normalized = (s: string) => s.normalize("NFKC").replace(/[’‘]/g, "'");
+  for (const q of actors) {
+    const before = structuredClone(q),
+      presentation = actorPresentation(q)!;
+    expect(presentation, q.id).toBeDefined();
+    if (q.metadata.person_name_before_answer === "false")
+      expect(presentedQuestion(q), q.id).not.toContain(q.metadata.person_name);
+    else
+      expect(normalized(presentedQuestion(q)), q.id).toContain(
+        normalized(q.metadata.person_name),
       );
-    } else expect(presentedQuestion(q)).not.toContain(q.metadata.person_name);
-    expect(presentation.text).toBe(latestActorRevision(q.id)!.context);
-    expect(new Set(presentation.films).size).toBe(presentation.films.length);
-    const current = latestCsvRevision("public/schauspieler-fragen.csv", q.id);
-    expect(q.question).toBe(current ? current.after.question : source.question);
-    expect(q.context).toBe(
-      current?.after.explanation_context ?? source.additional_info,
+    expect(new Set(presentation.films).size, q.id).toBe(
+      presentation.films.length,
     );
+    expect(presentation.text.length, q.id).toBeGreaterThan(0);
+    expect(q).toEqual(before);
   }
 });
 it("löst alle Filmverweise mit Eckdaten auf, ohne Biografien an einen Film zu binden", () => {

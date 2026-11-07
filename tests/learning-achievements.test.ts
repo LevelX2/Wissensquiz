@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { emptyState, type Question } from "../src/model";
@@ -14,7 +15,7 @@ import { OnlineGameStore } from "../src/onlineGameStore";
 import { prepareTestContent } from "./helpers/test-content";
 
 it("zählt Filme getrennt von Fakten, Varianten, Personen und geratenen Antworten", () => {
-  const q = importCsv(readFileSync("public/fragen.csv", "utf8")).questions[0];
+  const q = importCsv(currentCsv({ genre: "Science-Fiction" })).questions[0];
   const qs: Question[] = [
     {
       ...q,
@@ -114,7 +115,7 @@ it("initialisiert aktuelle Spielstände ohne Quellenänderung und trennt einen N
   try {
     await fixture.seedRanked(
       await prepareTestContent(
-        importCsv(readFileSync("public/fragen.csv", "utf8")).questions.slice(
+        importCsv(currentCsv({ genre: "Science-Fiction" })).questions.slice(
           0,
           32,
         ),
@@ -250,7 +251,7 @@ it("leitet private Film- und Genreerfolge aus sicheren Zielen ab, erhält erreic
   try {
     await fixture.seedRanked(
       await prepareTestContent(
-        importCsv(readFileSync("public/fragen.csv", "utf8")).questions.slice(
+        importCsv(currentCsv({ genre: "Science-Fiction" })).questions.slice(
           0,
           32,
         ),

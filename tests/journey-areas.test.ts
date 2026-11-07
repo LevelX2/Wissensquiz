@@ -17,7 +17,7 @@ addPackages(
   base,
   packages.map((pkg) => ({
     filename: pkg.filename,
-    text: readFileSync(`public${pkg.path}`, "utf8"),
+    text: readFileSync(`${pkg.path}`, "utf8"),
   })),
 );
 const unique = (qs: Question[]) => [
@@ -59,7 +59,9 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
     expect(learningPathProgress(s)(area).groups).toEqual(
       [1, 2, 3, 4].map((level) => {
         const total = unique(
-          qs.filter((q) => q.difficulty === "leicht" && familiarityOf(q) === level),
+          qs.filter(
+            (q) => q.difficulty === "leicht" && familiarityOf(q) === level,
+          ),
         ).length;
         return {
           level,

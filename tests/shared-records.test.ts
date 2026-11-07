@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { afterAll, beforeAll, expect, it } from "vitest";
 import { PGlite } from "@electric-sql/pglite";
 import { readFileSync } from "node:fs";
@@ -80,9 +81,7 @@ it("ordnet Online-Läufe nach denselben deutschen Kalendergrenzen wie die lokale
     ).rows;
     const times = starts.flatMap(({ at }) => [Number(at) - 1, Number(at) + 1]);
     const state = emptyState(
-      importCsv(
-        readFileSync("public/horror-fragen.csv", "utf8"),
-      ).questions.slice(0, 1),
+      importCsv(currentCsv({ genre: "Horror" })).questions.slice(0, 1),
     );
     for (const at of times) {
       const r = startRound(
@@ -208,9 +207,7 @@ it("trennt vollständige Duellwertungen von Aufgabe und liefert nur die eigene E
 it("listet alle Endlosläufe einzeln, zählt wiederholte Antworten einmal und schützt private Details", async () => {
   await db.exec("begin");
   try {
-    const qs = importCsv(
-      readFileSync("public/horror-fragen.csv", "utf8"),
-    ).questions.slice(0, 1);
+    const qs = importCsv(currentCsv({ genre: "Horror" })).questions.slice(0, 1);
     const state = emptyState(qs);
     for (let i = 0; i < 53; i++) {
       const r = startRound(
@@ -411,10 +408,7 @@ it("zeigt globale Karriere-XP in beiden Ranglisten, erhält Gleichstände und ig
   await db.exec("begin");
   try {
     const questions = importCsv(
-      readFileSync(
-        "KI-Wissen-Wissensquiz/01 Rohquellen/Horror_Quiz_180_Fragen.csv",
-        "utf8",
-      ),
+      currentCsv({ genre: "Horror", limit: 1 }),
     ).questions.slice(0, 1);
     const state = emptyState(questions);
     const r = startRound(
@@ -884,7 +878,7 @@ it("zeigt bestätigte Spieler auch ohne Runde und übernimmt Namensänderungen o
 it("kompakte Online-Sicherung liefert unveränderte Highscores und Spielerstatistik ohne SQL-Migration", async () => {
   const id = "66666666-6666-4666-8666-666666666666";
   const state = emptyState(
-    importCsv(readFileSync("public/horror-fragen.csv", "utf8")).questions,
+    importCsv(currentCsv({ genre: "Horror" })).questions,
   );
   const r = startRound(
     state,

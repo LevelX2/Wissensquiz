@@ -13,7 +13,7 @@ addPackages(
   full,
   packages.map((pkg) => ({
     filename: pkg.filename,
-    text: readFileSync("public" + pkg.path, "utf8"),
+    text: readFileSync(pkg.path, "utf8"),
   })),
 );
 const questions = full.questions;

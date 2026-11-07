@@ -1,6 +1,9 @@
 # Preserve supplied CSV bytes, including their original line endings.
 *.csv -text whitespace=cr-at-eol
 
+# Current editorial content is one JSON object per UTF-8 line.
+content/*.jsonl text eol=lf
+
 # SQL function patches match PostgreSQL's normalized function definitions.
 supabase/migrations/*.sql text eol=lf
 
@@ -11,7 +14,7 @@ supabase/migrations/*.sql text eol=lf
 **/SciFi_Ergaenzung_Filmdaten.json -text whitespace=cr-at-eol
 **/Komoedie_Ergaenzung_Filmdaten.json -text whitespace=cr-at-eol
 
-# Preserve immutable raw sources and the original editorial actor package.
+# Retained external sources and factual metadata keep their original bytes.
 "KI-Wissen-Wissensquiz/01 Rohquellen/*" -text whitespace=cr-at-eol
 # The supplied note deliberately retains its original trailing blank line.
 "KI-Wissen-Wissensquiz/01 Rohquellen/Rom-Com-Fragen-Begleitnotiz-2026-10-16.txt" whitespace=cr-at-eol,-blank-at-eof

@@ -1,5 +1,6 @@
+import { currentCsv } from "./helpers/current-content";
 import { afterAll, beforeAll, expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { syncFixture } from "./helpers/sync-fixture";
 import { importCsv } from "../src/importer";
 import { prepareTestContent, type TestContent } from "./helpers/test-content";
@@ -20,7 +21,7 @@ beforeAll(async () => {
   fixture = await syncFixture();
   // Real official question content, enough distinct targets in every level.
   release = await prepareTestContent(
-    importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
+    importCsv(currentCsv({ genre: "Science-Fiction" })).questions,
   );
   await fixture.seedRanked(release);
 }, 30000);

@@ -1,13 +1,27 @@
-import { expect, it } from "vitest";
+import { packages, readQuestions } from "../src/packages";
 import { readFileSync } from "node:fs";
+import { familiarityOf } from "../src/familiarity";
+import { expect, it } from "vitest";
+
 import { emptyState, type Difficulty, type State } from "../src/model";
 import { importCsv } from "../src/importer";
 import { answer, complete, guess, startRound } from "../src/engine";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { genreOf } from "../src/filters";
 import { validateBackup } from "../src/backupValidation";
-const questions = ["horror", "action"].flatMap(
-  (g) => importCsv(readFileSync(`public/${g}-fragen.csv`, "utf8")).questions,
+const current = readQuestions(readFileSync(packages[0].path, "utf8"));
+const questions = ["Horror", "Action"].flatMap((genre) =>
+  ["leicht", "mittel", "schwer"].flatMap((difficulty) =>
+    current
+      .filter(
+        (q) =>
+          genreOf(q) === genre &&
+          q.difficulty === difficulty &&
+          familiarityOf(q) === 1 &&
+          !q.metadata.fact_kind,
+      )
+      .slice(0, 12),
+  ),
 );
 
 function play(

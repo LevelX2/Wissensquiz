@@ -1,10 +1,11 @@
+import { currentCsv } from "./helpers/current-content";
 import { it, expect } from "vitest";
 import { questionHistory } from "../src/questionHistory";
 import { importCsv } from "../src/importer";
-import { readFileSync } from "node:fs";
+
 import type { AnswerEvent } from "../src/model";
 
-const q = importCsv(readFileSync("public/fragen.csv", "utf8")).questions[0];
+const q = importCsv(currentCsv({ genre: "Science-Fiction" })).questions[0];
 const event = (id: string, values: Partial<AnswerEvent> = {}): AnswerEvent => ({
   id,
   roundId: id,

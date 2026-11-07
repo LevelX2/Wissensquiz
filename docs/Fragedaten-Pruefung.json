@@ -1,34 +1,731 @@
 {
-  "format": "question-organization-audit-v2",
-  "scope": "Öffentliche App-Pakete, Kategoriezuordnungen und generierte Filmfragen; keine Spielerdaten. Größen sind UTF-8-JSON-Nutzdaten, keine Messung der Browser-Speicherquote.",
-  "catalogSha256": "403bb3ce517c0f6fefdc9508080fad54959b18b8cca2e36ce8b3605cd7d12865",
+  "format": "current-question-catalog-v1",
+  "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
+  "catalogSha256": "0c9354bcd25de2da99ce649ae1dc859828683b6e2f9e96c3e099ef64c77e2aff",
   "counts": {
-    "packages": 33,
-    "questions": 12787,
-    "knowledgeGoals": 12222,
+    "sources": 3,
+    "questions": 19303,
+    "knowledgeGoals": 18588,
     "duplicateQuestionIds": 0,
-    "questionsWithVariantReference": 565,
-    "generatedFilmQuestions": 837
+    "questionsWithVariantReference": 715
+  },
+  "areas": {
+    "film": 15599,
+    "actors": 3424,
+    "awards": 280
   },
   "checks": {
-    "originalCsvSourcesByteIdentical": 2,
-    "editoriallyChangedRowsVerified": 3504,
-    "derivedActorPackagesSourceAndCsvHashesVerified": 2,
-    "rejectedImports": 0,
-    "duplicateImports": 0,
+    "completeSchemaValidation": true,
+    "validKnowledgeReferences": true,
+    "orderIndependent": true,
+    "idempotent": true,
     "fullBackupValidated": true,
     "exactJsonRoundtrip": true
   },
-  "localCatalog": {
-    "encoding": "json-field-refs-v1",
-    "fullJsonBytes": 41798587,
-    "compactJsonBytes": 29863482,
-    "savedBytes": 11935105,
-    "savedPercent": 28.55,
-    "referencedMetadataValues": 212541
-  },
-  "roundBefore": {
-    "previousBehavior": "Jede neue Solorunde kopierte alle vorhandenen Lernstände.",
-    "currentBehavior": "Nur bereits vorhandene Lernstände der höchstens zehn ausgewählten Wissensziele werden kopiert; historische Runden bleiben unverändert."
-  }
+  "attributeGroups": [
+    {
+      "attributes": "actors||experte|1",
+      "count": 191
+    },
+    {
+      "attributes": "actors||experte|2",
+      "count": 197
+    },
+    {
+      "attributes": "actors||experte|3",
+      "count": 215
+    },
+    {
+      "attributes": "actors||experte|4",
+      "count": 213
+    },
+    {
+      "attributes": "actors||leicht|1",
+      "count": 259
+    },
+    {
+      "attributes": "actors||leicht|2",
+      "count": 231
+    },
+    {
+      "attributes": "actors||leicht|3",
+      "count": 210
+    },
+    {
+      "attributes": "actors||leicht|4",
+      "count": 210
+    },
+    {
+      "attributes": "actors||mittel|1",
+      "count": 198
+    },
+    {
+      "attributes": "actors||mittel|2",
+      "count": 226
+    },
+    {
+      "attributes": "actors||mittel|3",
+      "count": 216
+    },
+    {
+      "attributes": "actors||mittel|4",
+      "count": 210
+    },
+    {
+      "attributes": "actors||schwer|1",
+      "count": 191
+    },
+    {
+      "attributes": "actors||schwer|2",
+      "count": 224
+    },
+    {
+      "attributes": "actors||schwer|3",
+      "count": 222
+    },
+    {
+      "attributes": "actors||schwer|4",
+      "count": 211
+    },
+    {
+      "attributes": "awards||experte|1",
+      "count": 18
+    },
+    {
+      "attributes": "awards||experte|2",
+      "count": 23
+    },
+    {
+      "attributes": "awards||experte|3",
+      "count": 11
+    },
+    {
+      "attributes": "awards||experte|4",
+      "count": 5
+    },
+    {
+      "attributes": "awards||leicht|1",
+      "count": 21
+    },
+    {
+      "attributes": "awards||leicht|2",
+      "count": 33
+    },
+    {
+      "attributes": "awards||leicht|3",
+      "count": 15
+    },
+    {
+      "attributes": "awards||leicht|4",
+      "count": 1
+    },
+    {
+      "attributes": "awards||mittel|1",
+      "count": 19
+    },
+    {
+      "attributes": "awards||mittel|2",
+      "count": 28
+    },
+    {
+      "attributes": "awards||mittel|3",
+      "count": 14
+    },
+    {
+      "attributes": "awards||mittel|4",
+      "count": 9
+    },
+    {
+      "attributes": "awards||schwer|1",
+      "count": 19
+    },
+    {
+      "attributes": "awards||schwer|2",
+      "count": 29
+    },
+    {
+      "attributes": "awards||schwer|3",
+      "count": 21
+    },
+    {
+      "attributes": "awards||schwer|4",
+      "count": 14
+    },
+    {
+      "attributes": "film|Abenteuer|leicht|1",
+      "count": 19
+    },
+    {
+      "attributes": "film|Abenteuer|leicht|2",
+      "count": 146
+    },
+    {
+      "attributes": "film|Abenteuer|leicht|3",
+      "count": 126
+    },
+    {
+      "attributes": "film|Abenteuer|leicht|4",
+      "count": 19
+    },
+    {
+      "attributes": "film|Abenteuer|mittel|1",
+      "count": 32
+    },
+    {
+      "attributes": "film|Abenteuer|mittel|2",
+      "count": 303
+    },
+    {
+      "attributes": "film|Abenteuer|mittel|3",
+      "count": 269
+    },
+    {
+      "attributes": "film|Abenteuer|mittel|4",
+      "count": 36
+    },
+    {
+      "attributes": "film|Abenteuer|schwer|1",
+      "count": 18
+    },
+    {
+      "attributes": "film|Abenteuer|schwer|2",
+      "count": 142
+    },
+    {
+      "attributes": "film|Abenteuer|schwer|3",
+      "count": 129
+    },
+    {
+      "attributes": "film|Abenteuer|schwer|4",
+      "count": 18
+    },
+    {
+      "attributes": "film|Action|leicht|1",
+      "count": 29
+    },
+    {
+      "attributes": "film|Action|leicht|2",
+      "count": 206
+    },
+    {
+      "attributes": "film|Action|leicht|3",
+      "count": 70
+    },
+    {
+      "attributes": "film|Action|leicht|4",
+      "count": 8
+    },
+    {
+      "attributes": "film|Action|mittel|1",
+      "count": 47
+    },
+    {
+      "attributes": "film|Action|mittel|2",
+      "count": 426
+    },
+    {
+      "attributes": "film|Action|mittel|3",
+      "count": 140
+    },
+    {
+      "attributes": "film|Action|mittel|4",
+      "count": 23
+    },
+    {
+      "attributes": "film|Action|schwer|1",
+      "count": 30
+    },
+    {
+      "attributes": "film|Action|schwer|2",
+      "count": 217
+    },
+    {
+      "attributes": "film|Action|schwer|3",
+      "count": 70
+    },
+    {
+      "attributes": "film|Action|schwer|4",
+      "count": 8
+    },
+    {
+      "attributes": "film|Drama|leicht|1",
+      "count": 28
+    },
+    {
+      "attributes": "film|Drama|leicht|2",
+      "count": 98
+    },
+    {
+      "attributes": "film|Drama|leicht|3",
+      "count": 139
+    },
+    {
+      "attributes": "film|Drama|leicht|4",
+      "count": 71
+    },
+    {
+      "attributes": "film|Drama|mittel|1",
+      "count": 46
+    },
+    {
+      "attributes": "film|Drama|mittel|2",
+      "count": 185
+    },
+    {
+      "attributes": "film|Drama|mittel|3",
+      "count": 281
+    },
+    {
+      "attributes": "film|Drama|mittel|4",
+      "count": 143
+    },
+    {
+      "attributes": "film|Drama|schwer|1",
+      "count": 20
+    },
+    {
+      "attributes": "film|Drama|schwer|2",
+      "count": 94
+    },
+    {
+      "attributes": "film|Drama|schwer|3",
+      "count": 143
+    },
+    {
+      "attributes": "film|Drama|schwer|4",
+      "count": 70
+    },
+    {
+      "attributes": "film|Fantasy|leicht|1",
+      "count": 48
+    },
+    {
+      "attributes": "film|Fantasy|leicht|2",
+      "count": 129
+    },
+    {
+      "attributes": "film|Fantasy|leicht|3",
+      "count": 110
+    },
+    {
+      "attributes": "film|Fantasy|leicht|4",
+      "count": 28
+    },
+    {
+      "attributes": "film|Fantasy|mittel|1",
+      "count": 103
+    },
+    {
+      "attributes": "film|Fantasy|mittel|2",
+      "count": 279
+    },
+    {
+      "attributes": "film|Fantasy|mittel|3",
+      "count": 235
+    },
+    {
+      "attributes": "film|Fantasy|mittel|4",
+      "count": 64
+    },
+    {
+      "attributes": "film|Fantasy|schwer|1",
+      "count": 44
+    },
+    {
+      "attributes": "film|Fantasy|schwer|2",
+      "count": 129
+    },
+    {
+      "attributes": "film|Fantasy|schwer|3",
+      "count": 112
+    },
+    {
+      "attributes": "film|Fantasy|schwer|4",
+      "count": 29
+    },
+    {
+      "attributes": "film|Horror|leicht|1",
+      "count": 29
+    },
+    {
+      "attributes": "film|Horror|leicht|2",
+      "count": 87
+    },
+    {
+      "attributes": "film|Horror|leicht|3",
+      "count": 117
+    },
+    {
+      "attributes": "film|Horror|leicht|4",
+      "count": 86
+    },
+    {
+      "attributes": "film|Horror|mittel|1",
+      "count": 49
+    },
+    {
+      "attributes": "film|Horror|mittel|2",
+      "count": 177
+    },
+    {
+      "attributes": "film|Horror|mittel|3",
+      "count": 259
+    },
+    {
+      "attributes": "film|Horror|mittel|4",
+      "count": 174
+    },
+    {
+      "attributes": "film|Horror|schwer|1",
+      "count": 22
+    },
+    {
+      "attributes": "film|Horror|schwer|2",
+      "count": 89
+    },
+    {
+      "attributes": "film|Horror|schwer|3",
+      "count": 121
+    },
+    {
+      "attributes": "film|Horror|schwer|4",
+      "count": 89
+    },
+    {
+      "attributes": "film|Komödie|leicht|1",
+      "count": 39
+    },
+    {
+      "attributes": "film|Komödie|leicht|2",
+      "count": 152
+    },
+    {
+      "attributes": "film|Komödie|leicht|3",
+      "count": 133
+    },
+    {
+      "attributes": "film|Komödie|leicht|4",
+      "count": 32
+    },
+    {
+      "attributes": "film|Komödie|mittel|1",
+      "count": 64
+    },
+    {
+      "attributes": "film|Komödie|mittel|2",
+      "count": 277
+    },
+    {
+      "attributes": "film|Komödie|mittel|3",
+      "count": 277
+    },
+    {
+      "attributes": "film|Komödie|mittel|4",
+      "count": 65
+    },
+    {
+      "attributes": "film|Komödie|schwer|1",
+      "count": 32
+    },
+    {
+      "attributes": "film|Komödie|schwer|2",
+      "count": 141
+    },
+    {
+      "attributes": "film|Komödie|schwer|3",
+      "count": 131
+    },
+    {
+      "attributes": "film|Komödie|schwer|4",
+      "count": 35
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|leicht|1",
+      "count": 7
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|leicht|2",
+      "count": 32
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|leicht|3",
+      "count": 146
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|leicht|4",
+      "count": 129
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|mittel|1",
+      "count": 17
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|mittel|2",
+      "count": 71
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|mittel|3",
+      "count": 318
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|mittel|4",
+      "count": 262
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|schwer|1",
+      "count": 6
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|schwer|2",
+      "count": 33
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|schwer|3",
+      "count": 155
+    },
+    {
+      "attributes": "film|Martial Arts & Asia-Film|schwer|4",
+      "count": 131
+    },
+    {
+      "attributes": "film|Musik|leicht|1",
+      "count": 18
+    },
+    {
+      "attributes": "film|Musik|leicht|2",
+      "count": 111
+    },
+    {
+      "attributes": "film|Musik|leicht|3",
+      "count": 138
+    },
+    {
+      "attributes": "film|Musik|leicht|4",
+      "count": 46
+    },
+    {
+      "attributes": "film|Musik|mittel|1",
+      "count": 27
+    },
+    {
+      "attributes": "film|Musik|mittel|2",
+      "count": 218
+    },
+    {
+      "attributes": "film|Musik|mittel|3",
+      "count": 291
+    },
+    {
+      "attributes": "film|Musik|mittel|4",
+      "count": 95
+    },
+    {
+      "attributes": "film|Musik|schwer|1",
+      "count": 20
+    },
+    {
+      "attributes": "film|Musik|schwer|2",
+      "count": 115
+    },
+    {
+      "attributes": "film|Musik|schwer|3",
+      "count": 145
+    },
+    {
+      "attributes": "film|Musik|schwer|4",
+      "count": 49
+    },
+    {
+      "attributes": "film|Rom-Com|leicht|1",
+      "count": 19
+    },
+    {
+      "attributes": "film|Rom-Com|leicht|2",
+      "count": 141
+    },
+    {
+      "attributes": "film|Rom-Com|leicht|3",
+      "count": 116
+    },
+    {
+      "attributes": "film|Rom-Com|leicht|4",
+      "count": 36
+    },
+    {
+      "attributes": "film|Rom-Com|mittel|1",
+      "count": 31
+    },
+    {
+      "attributes": "film|Rom-Com|mittel|2",
+      "count": 294
+    },
+    {
+      "attributes": "film|Rom-Com|mittel|3",
+      "count": 248
+    },
+    {
+      "attributes": "film|Rom-Com|mittel|4",
+      "count": 81
+    },
+    {
+      "attributes": "film|Rom-Com|schwer|1",
+      "count": 18
+    },
+    {
+      "attributes": "film|Rom-Com|schwer|2",
+      "count": 143
+    },
+    {
+      "attributes": "film|Rom-Com|schwer|3",
+      "count": 124
+    },
+    {
+      "attributes": "film|Rom-Com|schwer|4",
+      "count": 36
+    },
+    {
+      "attributes": "film|Science-Fiction|leicht|1",
+      "count": 54
+    },
+    {
+      "attributes": "film|Science-Fiction|leicht|2",
+      "count": 130
+    },
+    {
+      "attributes": "film|Science-Fiction|leicht|3",
+      "count": 111
+    },
+    {
+      "attributes": "film|Science-Fiction|leicht|4",
+      "count": 47
+    },
+    {
+      "attributes": "film|Science-Fiction|mittel|1",
+      "count": 53
+    },
+    {
+      "attributes": "film|Science-Fiction|mittel|2",
+      "count": 235
+    },
+    {
+      "attributes": "film|Science-Fiction|mittel|3",
+      "count": 206
+    },
+    {
+      "attributes": "film|Science-Fiction|mittel|4",
+      "count": 100
+    },
+    {
+      "attributes": "film|Science-Fiction|schwer|1",
+      "count": 34
+    },
+    {
+      "attributes": "film|Science-Fiction|schwer|2",
+      "count": 121
+    },
+    {
+      "attributes": "film|Science-Fiction|schwer|3",
+      "count": 145
+    },
+    {
+      "attributes": "film|Science-Fiction|schwer|4",
+      "count": 53
+    },
+    {
+      "attributes": "film|Thriller|leicht|1",
+      "count": 6
+    },
+    {
+      "attributes": "film|Thriller|leicht|2",
+      "count": 106
+    },
+    {
+      "attributes": "film|Thriller|leicht|3",
+      "count": 180
+    },
+    {
+      "attributes": "film|Thriller|leicht|4",
+      "count": 14
+    },
+    {
+      "attributes": "film|Thriller|mittel|1",
+      "count": 14
+    },
+    {
+      "attributes": "film|Thriller|mittel|2",
+      "count": 226
+    },
+    {
+      "attributes": "film|Thriller|mittel|3",
+      "count": 394
+    },
+    {
+      "attributes": "film|Thriller|mittel|4",
+      "count": 31
+    },
+    {
+      "attributes": "film|Thriller|schwer|1",
+      "count": 6
+    },
+    {
+      "attributes": "film|Thriller|schwer|2",
+      "count": 107
+    },
+    {
+      "attributes": "film|Thriller|schwer|3",
+      "count": 180
+    },
+    {
+      "attributes": "film|Thriller|schwer|4",
+      "count": 15
+    },
+    {
+      "attributes": "film|Western|leicht|1",
+      "count": 17
+    },
+    {
+      "attributes": "film|Western|leicht|2",
+      "count": 46
+    },
+    {
+      "attributes": "film|Western|leicht|3",
+      "count": 207
+    },
+    {
+      "attributes": "film|Western|leicht|4",
+      "count": 59
+    },
+    {
+      "attributes": "film|Western|mittel|1",
+      "count": 15
+    },
+    {
+      "attributes": "film|Western|mittel|2",
+      "count": 88
+    },
+    {
+      "attributes": "film|Western|mittel|3",
+      "count": 449
+    },
+    {
+      "attributes": "film|Western|mittel|4",
+      "count": 123
+    },
+    {
+      "attributes": "film|Western|schwer|1",
+      "count": 12
+    },
+    {
+      "attributes": "film|Western|schwer|2",
+      "count": 42
+    },
+    {
+      "attributes": "film|Western|schwer|3",
+      "count": 209
+    },
+    {
+      "attributes": "film|Western|schwer|4",
+      "count": 61
+    }
+  ]
 }

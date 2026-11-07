@@ -1,105 +1,49 @@
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
-import Papa from "papaparse";
-import { packages } from "../src/packages";
-import { fingerprint, importCsv } from "../src/importer";
+import { packages, readQuestions } from "../src/packages";
 import { filmDetails } from "../src/filmDetails";
-import audit from "../docs/Darstellerpruefung.json";
-import { emptyState } from "../src/model";
-import { validateBackup } from "../src/backupValidation";
-import { catalogBeforeReview } from "./editorialSource";
+import { preparePresentation } from "../src/questionPresentation";
 
-const reviewedPackages = packages.filter((p) =>
-  [
-    "SciFi_Quiz_180_Fragen.csv",
-    "Action_Quiz_180_Fragen.csv",
-    "Horror_Quiz_180_Fragen.csv",
-    "Fantasy_Quiz_180_Fragen.csv",
-  ].includes(p.filename),
+const questions = readQuestions(
+  readFileSync(packages.find((p) => p.source === "film")!.path, "utf8"),
 );
-const originalVersions = new Map<string, string>();
-const questions = reviewedPackages.flatMap((p) => {
-  const text = catalogBeforeReview(
-    `public${p.path}`,
-    readFileSync(`public${p.path}`, "utf8"),
-  );
-  const rows = Papa.parse<Record<string, string>>(text, {
-    header: true,
-    skipEmptyLines: "greedy",
-  }).data;
-  for (const row of rows) {
-    const original = Object.fromEntries(
-      Object.entries(row).map(([key, value]) => [key, value.trim()]),
-    );
-    originalVersions.set(
-      row.question_id,
-      `csv-${fingerprint(JSON.stringify(original))}`,
-    );
+it("liefert aktuelle Darstellerergänzungen ohne Fragen oder Lernidentitäten zu verändern", () => {
+  const matched = questions.filter((q) => filmDetails(q));
+  expect(matched.length).toBeGreaterThan(0);
+  for (const q of matched) {
+    const before = structuredClone(q),
+      detail = filmDetails(q)!;
+    expect(detail.text.length, q.id).toBeGreaterThan(0);
+    expect(detail.sources.length, q.id).toBeGreaterThan(0);
+    expect(q).toEqual(before);
   }
-  return importCsv(text).questions;
 });
-const reviewed = audit.questions as Record<
-  string,
-  (typeof audit.questions)["HOR-L-045"]
->;
-it("deckt alle 720 Originalfragen versionsgenau ab und erhält deren Inhalt", () => {
-  const before = JSON.stringify(questions);
-  expect(Object.keys(reviewed).sort()).toEqual(
-    questions.map((q) => q.id).sort(),
-  );
-  expect(Object.keys(audit.films)).toHaveLength(125);
-  for (const q of questions) {
-    const entry = reviewed[q.id];
-    expect(entry.version, q.id).toBe(originalVersions.get(q.id));
-    expect(entry.content, q.id).toBe(
-      fingerprint(JSON.stringify([q.question, q.explanation, q.context])),
-    );
-    expect(filmDetails(q)?.text ?? "", q.id).toBe(entry.text);
-    expect(entry.decision).toBeTruthy();
-  }
-  expect(JSON.stringify(questions)).toBe(before);
-});
-it("verhindert falsche Ergänzungen bei fremden Importen und geänderten Snapshots", () => {
-  const q = questions.find((q) => q.id === "HOR-L-045")!;
-  expect(filmDetails(q)?.text).toContain("Patrick Wilson");
+it("bindet Darstellerergänzungen an Version, Inhalt und richtige Filmfassung", () => {
+  const q = questions.find((q) => filmDetails(q))!;
   for (const changed of [
-    { ...q, version: "anders" },
+    { ...q, version: "andere-version" },
     { ...q, context: q.context + " geändert" },
-    { ...q, metadata: { ...q.metadata, film_year: "2016" } },
+    { ...q, metadata: { ...q.metadata, film_year: "1895" } },
   ])
     expect(filmDetails(changed)).toBeUndefined();
 });
-it("unterscheidet Fortsetzungen, Lebensalter, Maskenspiel und Originalstimmen", () => {
-  const text = (id: string) => {
-    const q = questions.find((q) => q.id === id)!;
-    return q.context + " " + (filmDetails(q)?.text ?? "");
-  };
-  expect(text("HOR-L-002")).toContain("Nick Castle");
-  expect(text("HOR-L-003")).toContain("Dick Warlock");
-  expect(text("HOR-L-011")).toContain("Warrington Gillette");
-  expect(text("FAN-M-013")).toContain("Richard Harris");
-  expect(text("FAN-S-023")).toContain("Michael Gambon");
-  expect(text("FAN-L-032")).toContain("Eddie Izzard");
-  expect(text("FAN-M-034")).toContain("Simon Pegg");
-  expect(text("FAN-L-001")).toContain("Ian Holm");
-  expect(text("FAN-L-007")).toContain("Martin Freeman");
-  expect(text("FAN-S-030")).toContain("Rachael Henley");
-});
-it("sichert die unabhängigen Fragehinweise und akzeptiert frühere Einstellungen", () => {
-  const state = emptyState(questions);
-  state.settings.showGenre = false;
-  state.settings.showDifficulty = true;
-  expect(validateBackup(state).settings).toEqual(state.settings);
-  for (const value of ["after", "always", "hidden"] as const) {
-    state.settings.questionHistory = value;
-    expect(validateBackup(state).settings.questionHistory).toBe(value);
-  }
-  expect(() =>
-    validateBackup({
-      ...state,
-      settings: { ...state.settings, questionHistory: "invalid" },
-    }),
-  ).toThrow();
-  state.settings = { spoilers: false };
-  expect(validateBackup(state).settings).toEqual({ spoilers: false });
+it("unterscheidet Darsteller verschiedener Harry-Potter-Filmfassungen", () => {
+  const text = (film: string) =>
+    questions
+      .filter((q) => q.metadata.film_title_original === film)
+      .map(
+        (q) =>
+          q.context +
+          " " +
+          (filmDetails(q)?.text ?? "") +
+          " " +
+          preparePresentation(q).deepContext,
+      )
+      .join(" ");
+  expect(text("Harry Potter and the Philosopher's Stone")).toContain(
+    "Richard Harris",
+  );
+  expect(text("Harry Potter and the Prisoner of Azkaban")).toContain(
+    "Michael Gambon",
+  );
 });

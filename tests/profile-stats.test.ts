@@ -1,4 +1,5 @@
-import { readFileSync } from "node:fs";
+import { currentCsv } from "./helpers/current-content";
+
 import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
 import { emptyState, type AnswerEvent } from "../src/model";
@@ -6,9 +7,7 @@ import { learn, DAY } from "../src/learning";
 import { profileStats } from "../src/ProfileStats";
 
 it("zählt Begegnungen einmal und verteilt gemeinsame Wissensziele vollständig über alle Lernstufen", () => {
-  const catalog = importCsv(
-    readFileSync("public/fragen.csv", "utf8"),
-  ).questions;
+  const catalog = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
   const questions = [
     ...new Map(catalog.map((q) => [q.knowledgeId, q])).values(),
   ].slice(0, 6);

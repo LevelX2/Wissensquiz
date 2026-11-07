@@ -1,14 +1,14 @@
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
-import { importCsv } from "../src/importer";
-import { packages } from "../src/packages";
+
+import { packages, readQuestions } from "../src/packages";
 import { emptyState, type Mode } from "../src/model";
 import { recordKey, selectQuestions, startRound } from "../src/engine";
 import { genreOf } from "../src/filters";
 import { validateBackup } from "../src/backupValidation";
 
-const questions = packages.flatMap(
-  (p) => importCsv(readFileSync(`public${p.path}`, "utf8")).questions,
+const questions = packages.flatMap((p) =>
+  readQuestions(readFileSync(p.path, "utf8")),
 );
 const filters = {
   genres: ["Horror", "Science-Fiction"],

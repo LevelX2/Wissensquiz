@@ -187,7 +187,7 @@ for (const [number, choice, variant] of [
       state,
       packages.map((p) => ({
         filename: p.filename,
-        text: readFileSync(`public${p.path}`, "utf8"),
+        text: readFileSync(`${p.path}`, "utf8"),
       })),
     );
     const q = state.questions.find(

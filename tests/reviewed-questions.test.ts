@@ -1,18 +1,26 @@
 import { catalogCounts } from "./catalog-counts";
 import { readFileSync } from "node:fs";
 import { expect, it } from "vitest";
-import Papa from "papaparse";
+
 import { addPackages, packages } from "../src/packages";
 import { emptyState } from "../src/model";
-import { importCsv } from "../src/importer";
-import { withCategoryTags } from "../src/categories";
+
 import {
   directorExplanation,
   prepareFactQuestion,
   questionSnapshotMatches,
 } from "../src/filmFacts";
 import { yearPresentation } from "../src/yearEditorial";
-import manifest from "./fixtures/appliedEditorial.json";
+const currentState = emptyState();
+addPackages(
+  currentState,
+  packages.map((p) => ({
+    filename: p.filename,
+    text: readFileSync(p.path, "utf8"),
+  })),
+);
+const byCurrentId = (id: string) =>
+  currentState.questions.find((q) => q.id === id)!;
 import generated from "../src/reviewedFilmFacts.json";
 
 it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Varianten zu verlieren", () => {
@@ -21,7 +29,7 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   expect(
@@ -29,28 +37,6 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
   ).toBe(true);
   const byId = new Map(state.questions.map((q) => [q.id, q]));
   expect(byId.size).toBe(catalogCounts.questions);
-  for (const entry of [
-    ...manifest.changes.map((c) => ({ row: c.after, file: c.file })),
-    ...manifest.additions,
-  ]) {
-    const q = byId.get(entry.row.question_id)!;
-    expect(q, entry.row.question_id).toBeDefined();
-    const target = byId.get(entry.row.variant_of);
-    const parsed = importCsv(
-      Papa.unparse([entry.row]),
-      target ? [target] : [],
-      entry.file,
-    );
-    expect(parsed.report.rejected, q.id).toBe(0);
-    expect(q, q.id).toEqual(withCategoryTags(parsed.questions[0]));
-  }
-  for (const entry of manifest.replacements) {
-    expect(byId.has(entry.id), entry.id).toBe(false);
-    expect(byId.get(entry.replacementId)?.knowledgeId).toBe(
-      entry.replacementKnowledgeId,
-    );
-    expect(entry.replacementKnowledgeId).not.toBe(entry.knowledgeId);
-  }
   for (const [id, revision] of Object.entries(generated)) {
     const q = byId.get(id)!;
     expect(q, id).toMatchObject(revision);
@@ -73,15 +59,10 @@ it("integriert die geprüften Texte vollständig, ohne unbemerkt Fragen oder Var
   expect(deferred.question).toContain("beruflichen Funktion");
 });
 
-it("prüft den Redaktionsumfang und ersetzt die unbelegte Stativbehauptung durch den belegten Jansen-Kontext", () => {
-  expect(manifest.appliedOriginalIds).toBe(7223);
-  expect(manifest.reviewedOriginalIds).toBe(7223);
-  expect(manifest.generated).toHaveLength(387);
-  expect(manifest.additions).toHaveLength(14);
-  expect(manifest.excluded).toEqual([]);
-  const jansen = manifest.changes.find(
-    (c) => c.id === "G100-20261008-THRILLER-025-M1",
-  )!;
+it("erklärt Jansen konkret ohne unbelegte Stativbehauptung", () => {
+  const jansen = {
+    after: byCurrentId("G100-20261008-THRILLER-025-M1").metadata,
+  };
   expect(jansen.after.explanation_context).not.toContain("Stativ");
   expect(jansen.after.explanation_context).toContain("Selbstachtung");
   expect(jansen.after.source_urls).toContain("criterion.com/current/posts/303");
@@ -93,7 +74,7 @@ it("verknüpft die neue Rabal-Frage bereichsübergreifend und entfernt die über
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const byId = new Map(state.questions.map((q) => [q.id, q]));
@@ -104,13 +85,6 @@ it("verknüpft die neue Rabal-Frage bereichsübergreifend und entfernt die über
   expect(variant.knowledgeId).toBe(
     byId.get("SCHAUSPIELER-BG-20261013-123-E1")?.knowledgeId,
   );
-  for (const removed of manifest.removals) {
-    expect(byId.has(removed.id)).toBe(false);
-    expect(byId.has(removed.replacementId)).toBe(true);
-  }
-  expect(
-    state.questions.filter((q) => q.id.startsWith("Q-20261015-")),
-  ).toHaveLength(109);
 });
 
 it("trennt Persephones Hilfe und Trinitys Rückkehr in Reloaded als unterschiedliche Lernziele", () => {
@@ -119,14 +93,11 @@ it("trennt Persephones Hilfe und Trinitys Rückkehr in Reloaded als unterschiedl
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
-  const replacements = ["SF-M-004", "SF-M-004-V1"].map((id) =>
-    manifest.replacements.find((r) => r.id === id)!,
-  );
-  const questions = replacements.map((r) =>
-    state.questions.find((q) => q.id === r.replacementId)!,
+  const questions = ["Q-20261016-SCIFI-087", "Q-20261016-SCIFI-088"].map((id) =>
+    state.questions.find((q) => q.id === id)!,
   );
   expect(questions[0].question).not.toContain("Persephone");
   expect(
@@ -143,7 +114,7 @@ it("verknüpft Chaplins 1942-Fassung und erhält beide verwendeten Wolfsblut-Kom
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const chaplin = state.questions.find(
@@ -180,7 +151,7 @@ it("trennt Stanwycks Figurentyp vom Trennungsgrund und übernimmt die Rom-Com-Re
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const get = (id: string) => state.questions.find((q) => q.id === id)!;
@@ -205,8 +176,8 @@ it("trennt Stanwycks Figurentyp vom Trennungsgrund und übernimmt die Rom-Com-Re
       /George \(John Howard\) Cukor|Howard \(Ryan O’Neal\) Hawks/,
     );
   }
-  const original = manifest.replacements.find((q) => q.id === "ROM-L-044")!;
-  const variant = manifest.replacements.find((q) => q.id === "ROM-L-044-V1")!;
+  const original = { replacementId: "Q-20261016-ROMCOM-017" };
+  const variant = { replacementId: "Q-20261016-ROMCOM-018" };
   expect(get(original.replacementId).knowledgeId).not.toBe(
     get(variant.replacementId).knowledgeId,
   );

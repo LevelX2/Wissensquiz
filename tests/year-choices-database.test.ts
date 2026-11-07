@@ -14,7 +14,7 @@ addPackages(
   state,
   packages.map((p) => ({
     filename: p.filename,
-    text: readFileSync(`public${p.path}`, "utf8"),
+    text: readFileSync(`${p.path}`, "utf8"),
   })),
 );
 const years = state.questions.filter(

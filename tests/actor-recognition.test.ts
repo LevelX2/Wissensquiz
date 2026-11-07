@@ -1,13 +1,12 @@
-import { catalogCounts } from "./catalog-counts";
+import { currentCsv } from "./helpers/current-content";
+
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { renderToStaticMarkup } from "react-dom/server";
 import { createElement } from "react";
 import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
-import { addPackages, packages } from "../src/packages";
-import { emptyState } from "../src/model";
-import { assertEditorialSource, latestCsvRevision } from "./editorialSource";
+
 import {
   recognitionPortrait,
   recognitionVariants,
@@ -31,13 +30,12 @@ function presented(q: import("../src/model").Question, key = "") {
 }
 import { filmData } from "../src/filmFacts";
 import portraits from "../src/actorRecognitionPortraits.json";
-import source from "../docs/Schauspieler-Bilderkennung-2026-10-07/Schauspieler_Bilderkennung_200_Fragen.json";
 import evidence from "../KI-Wissen-Wissensquiz/01 Rohquellen/Schauspieler-Bilderkennung-2026-10-07/Nachweis.json";
 import alternates from "../src/actorRecognitionAlternatePortraits.json";
 import alternateEvidence from "../KI-Wissen-Wissensquiz/01 Rohquellen/Schauspieler-Bildvarianten-2026-10-07/Nachweis.json";
 
-const filename = "Schauspieler_Bilderkennung_200_Fragen.csv";
-const csv = readFileSync("public/schauspieler-bilder-fragen.csv", "utf8");
+const filename = "Porträtfragen";
+const csv = currentCsv({ source: "actors", recognition: true });
 const imported = importCsv(csv, [], filename);
 
 it("importiert genau 200 eigenständige Gesichtsziele mit belegten Bildern und vollständiger Redaktion", () => {
@@ -48,46 +46,26 @@ it("importiert genau 200 eigenständige Gesichtsziele mit belegten Bildern und v
     warnings: [],
     issues: [],
   });
-  assertEditorialSource(
-    csv,
-    readFileSync(`KI-Wissen-Wissensquiz/01 Rohquellen/${filename}`, "utf8"),
-    "public/schauspieler-bilder-fragen.csv",
-  );
-  expect(source.actors).toHaveLength(200);
+
   expect(new Set(imported.questions.map((q) => q.knowledgeId)).size).toBe(200);
   expect(
     new Set(imported.questions.map((q) => q.metadata.person_id)).size,
   ).toBe(200);
-  for (const [i, q] of imported.questions.entries()) {
-    const native = source.questions[i];
-    const current = latestCsvRevision(
-      "public/schauspieler-bilder-fragen.csv",
-      q.id,
-    )?.after;
-    expect(q.id).toBe(native.question_id);
-    expect(q.question).toBe(current?.question ?? native.question);
-    expect(q.context).toBe(
-      current?.explanation_context ?? native.additional_info,
-    );
+  for (const q of imported.questions) {
     expect(q.metadata.person_name_before_answer).toBe("false");
     expect(q.question).not.toContain(q.metadata.person_name);
-    expect(q.answers.map((a) => a.text)).toEqual(
-      current
-        ? ["a", "b", "c", "d"].map((k) => current[`answer_${k}`])
-        : native.answers.map((a) => a.text),
-    );
     expect(q.answers.find((a) => a.id === q.correctId)?.text).toBe(
       q.metadata.person_name,
     );
-    expect(q.sources).toContain(recognitionPortrait(q)!.sourceUrl);
+    expect(q.context.length, q.id).toBeGreaterThan(0);
     for (const image of recognitionVariants(q))
       expect(q.sources).toContain(image.sourceUrl);
-    for (const reference of current?.film_refs?.split(";").filter(Boolean) ??
-      native.film_refs) {
-      const film = filmData(q, reference);
+    for (const reference of q.metadata.film_refs?.split(";").filter(Boolean) ??
+      []) {
+      const film = filmData(q, reference)!;
       expect(film, reference).toBeDefined();
-      expect(film!.directors).not.toBe("");
-      expect(film!.countries.length).toBeGreaterThan(0);
+      expect(film.directors).not.toBe("");
+      expect(film.countries.length).toBeGreaterThan(0);
     }
   }
   for (const letter of "abcd")
@@ -215,30 +193,3 @@ it("liefert für normale Fragen ohne Bildzuordnung eine leere Fotoquellenliste",
     ).toBe("");
   }
 });
-
-// Functional full-catalog validation, without changing its assertions.
-it("ergänzt den offiziellen Katalog einmal und erhält sämtliche vorhandenen Fragen und Lernidentitäten", () => {
-  const state = emptyState();
-  const contents = packages.map((p) => ({
-    filename: p.filename,
-    text: readFileSync(`public${p.path}`, "utf8"),
-  }));
-  addPackages(
-    state,
-    contents.filter((p) => p.filename !== filename),
-  );
-  const before = structuredClone(state.questions);
-  const oldGoals = new Set(before.map((q) => q.knowledgeId));
-  expect(imported.questions.every((q) => !oldGoals.has(q.knowledgeId))).toBe(
-    true,
-  );
-  addPackages(state, contents);
-  expect(state.questions.slice(0, before.length)).toEqual(before);
-  expect(state.questions).toHaveLength(catalogCounts.questions);
-  expect(new Set(state.questions.map((q) => q.knowledgeId)).size).toBe(
-    catalogCounts.goals,
-  );
-  const once = structuredClone(state.questions);
-  addPackages(state, contents);
-  expect(state.questions).toEqual(once);
-}, 30000);

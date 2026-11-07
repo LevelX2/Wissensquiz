@@ -1,9 +1,10 @@
+import { currentCsv } from "../helpers/current-content";
 import { readStoredState, writeStoredState } from "./fixtures";
 import { modePreparation, openRoundSetup, test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../../src/importer";
-import { addPackages, packages } from "../../src/packages";
+import { addPackages, packages, readQuestions } from "../../src/packages";
 import { emptyState } from "../../src/model";
 import { startRound } from "../../src/engine";
 
@@ -91,8 +92,15 @@ test("Gewinnerfilm-Fragen verraten die Lösung erst nach der Antwort und zeigen 
   await page.clock.install({ time: new Date("2026-10-02T12:00:00+02:00") });
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  const q = importCsv(readFileSync("public/preistraeger-fragen.csv", "utf8"))
-    .questions[0];
+  const q = readQuestions(
+    readFileSync(packages.find((p) => p.source === "awards")!.path, "utf8"),
+  ).find(
+    (q) =>
+      q.metadata.film_title_original === "Gone with the Wind" &&
+      !q.question.includes(q.metadata.film_title_de) &&
+      q.answers.find((a) => a.id === q.correctId)?.text ===
+        q.metadata.film_title_de,
+  )!;
   const state = emptyState([q]);
   startRound(
     state,
@@ -103,7 +111,7 @@ test("Gewinnerfilm-Fragen verraten die Lösung erst nach der Antwort und zeigen 
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   await writeStoredState(page, state);

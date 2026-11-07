@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
 import {
   additionalAnswerFeedback,
@@ -5,7 +6,6 @@ import {
 } from "../src/answerFeedback";
 import type { Question } from "../src/model";
 import { importCsv } from "../src/importer";
-import { readFileSync } from "node:fs";
 
 const q = {
   explanation: "Die breiten Kriegsmaschinen erinnern an Mantarochen.",
@@ -51,7 +51,7 @@ it("unterdrückt beide verbreiteten Verneinungsschablonen", () => {
 
 it("zeigt bei der echten Tron-Frage keinen leeren Hinweis zu Helm, Brille oder Uhr", () => {
   const questions = importCsv(
-    readFileSync("public/scifi-ergaenzung-fragen.csv", "utf8"),
+    currentCsv({ genre: "Science-Fiction" }),
     [],
     "Test",
   ).questions;

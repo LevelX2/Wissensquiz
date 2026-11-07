@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { describe, expect, it } from "vitest";
 import { readFileSync, writeFileSync } from "node:fs";
 import { testReportPath } from "./helpers/test-report";
@@ -10,7 +11,6 @@ import {
   elapsed,
   guess,
   learn,
-  recordKey,
   score,
   selectQuestions,
   shuffle,
@@ -19,10 +19,10 @@ import {
 } from "../src/engine";
 import { emptyState, type AnswerEvent, type Learning } from "../src/model";
 import { validateBackup } from "../src/backupValidation";
-const csv = readFileSync("public/fragen.csv", "utf8");
+const csv = currentCsv({ genre: "Science-Fiction" });
 const imported = importCsv(csv, [], "SciFi_Quiz_180_Fragen.csv");
 const questions = imported.questions;
-const demoText = readFileSync("public/demo-fragen.csv", "utf8");
+const demoText = readFileSync("tests/fixtures/demo-fragen.csv", "utf8");
 const now = new Date(2026, 0, 2, 12).getTime();
 const event = (at: number, extra: Partial<AnswerEvent> = {}): AnswerEvent => ({
   id: String(at),
@@ -40,28 +40,26 @@ const event = (at: number, extra: Partial<AnswerEvent> = {}): AnswerEvent => ({
   ...extra,
 });
 describe("CSV und Inhalte", () => {
-  it("wertet die 183 Sci-Fi-Fragen und 154 Wissensziele einschließlich Redaktion aus", () => {
+  it("importiert aktuelle Science-Fiction-Fragen mit eindeutigen IDs, Quellen und Varianten", () => {
     expect(imported.report.rejected).toBe(0);
-    expect(questions).toHaveLength(183);
-    expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(154);
-    expect(questions.filter((q) => q.metadata.variant_of)).toHaveLength(29);
+    expect(questions).toHaveLength(1085);
+    expect(new Set(questions.map((q) => q.id)).size).toBe(1085);
+    expect(questions.some((q) => q.metadata.variant_of)).toBe(true);
     expect(imported.report.warnings).toEqual([]);
-    expect(
-      questions.every((q) => q.context && q.sources.length),
-    ).toBe(true);
+    expect(questions.every((q) => q.context && q.sources.length)).toBe(true);
     writeFileSync(
       testReportPath("importbericht.json"),
       JSON.stringify(
         {
           ...imported.report,
-          knowledgeGoals: 154,
-          variants: 29,
+          knowledgeGoals: new Set(questions.map((q) => q.knowledgeId)).size,
+          variants: questions.filter((q) => q.metadata.variant_of).length,
           topics: new Set(questions.map((q) => q.topic)).size,
           eligibleBadgeGoals: new Set(
             questions.filter(badgeEligible).map((q) => q.knowledgeId),
           ).size,
           contentNote:
-            "Aktueller redaktionell integrierter Stand; Originalquellen separat erhalten. verification_status beschreibt den Quellenstand.",
+            "Aktueller fachlicher Bestand. verification_status beschreibt den Quellenstand.",
         },
         null,
         2,
@@ -91,7 +89,7 @@ describe("CSV und Inhalte", () => {
   it("überspringt bestehende IDs ohne Überschreiben", () => {
     const r = importCsv(csv, questions);
     expect(r.questions).toHaveLength(0);
-    expect(r.report.duplicates).toBe(183);
+    expect(r.report.duplicates).toBe(questions.length);
   });
   it("lehnt ungültige Lösungen und fehlende Spalten ab", () => {
     expect(
@@ -213,13 +211,21 @@ describe("Lernfortschritt mit kontrollierter Testzeit", () => {
     );
     expect(chosen).toHaveLength(10);
     expect(new Set(chosen.map((q) => q.knowledgeId)).size).toBe(10);
+    const smallPool = [
+      ...new Map(questions.map((q) => [q.knowledgeId, q])).values(),
+    ].slice(0, 3);
     const small = selectQuestions(
-      questions,
+      smallPool,
       {},
-      { mode: "rekord", topic: "Alien", difficulty: "leicht", size: 10, now },
+      {
+        mode: "rekord",
+        topic: "Alle Themen",
+        difficulty: "Alle Stufen",
+        size: 10,
+        now,
+      },
     );
-    expect(small.length).toBeGreaterThan(0);
-    expect(small.length).toBeLessThan(10);
+    expect(small).toHaveLength(3);
   });
   it("füllt nach langer Pause die Runde mit fälligen Zielen, wenn keine neuen übrig sind", () => {
     const learning: Record<string, Learning> = {};

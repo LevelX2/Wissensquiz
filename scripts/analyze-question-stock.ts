@@ -1,5 +1,7 @@
 // Run from the project root; bundle with esbuild (platform=node, format=esm).
 // Uses the same catalog assembly as the app; never reads player data.
+// Run from the project root; bundle with esbuild (platform=node, format=esm).
+// Uses the same catalog assembly as the app; never reads player data.
 import { readFileSync, writeFileSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { addPackages, packages } from "../src/packages";
@@ -13,7 +15,7 @@ addPackages(
   state,
   packages.map((p) => ({
     filename: p.filename,
-    text: readFileSync(`public${p.path}`, "utf8"),
+    text: readFileSync(`${p.path}`, "utf8"),
   })),
 );
 const questions = state.questions;

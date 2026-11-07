@@ -1,4 +1,5 @@
-import { readFileSync } from "node:fs";
+import { currentCsv } from "./helpers/current-content";
+
 import { createElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";
 import { expect, it } from "vitest";
@@ -14,7 +15,7 @@ import { Explanation } from "../src/Explanation";
 import registry from "../src/filmAlternativeTitles.json";
 
 const questions = importCsv(
-  readFileSync("public/genres150-20261103-w84-fragen.csv", "utf8"),
+  currentCsv({ film: "Xiao quan guai zhao|1979", limit: 0 }),
 ).questions.filter(
   (q) => q.metadata.film_title_original === "Xiao quan guai zhao",
 );

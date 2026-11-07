@@ -1,5 +1,6 @@
+import { currentCsv } from "./helpers/current-content";
 import { beforeAll, afterAll, expect, it, vi } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { syncFixture } from "./helpers/sync-fixture";
 import { prepareTestContent } from "./helpers/test-content";
 import { importCsv } from "../src/importer";
@@ -14,7 +15,7 @@ beforeAll(async () => {
   fixture = await syncFixture();
   await fixture.seedRanked(
     await prepareTestContent(
-      importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
+      importCsv(currentCsv({ genre: "Science-Fiction" })).questions,
     ),
   );
 }, 30000);

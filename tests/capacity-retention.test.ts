@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { beforeAll, afterAll, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "./helpers/sync-fixture";
@@ -10,7 +11,7 @@ let release: Awaited<ReturnType<typeof prepareTestContent>>;
 beforeAll(async () => {
   fixture = await syncFixture();
   release = await prepareTestContent(
-    importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
+    importCsv(currentCsv({ genre: "Science-Fiction" })).questions,
   );
   await fixture.seedRanked(release);
 }, 30000);

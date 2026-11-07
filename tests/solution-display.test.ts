@@ -1,13 +1,12 @@
+import { currentCsv } from "./helpers/current-content";
 import { it, expect } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { emptyState, type Mode } from "../src/model";
 import { importCsv } from "../src/importer";
 import { startRound, answer, complete, recordKey } from "../src/engine";
 import { validateBackup } from "../src/backupValidation";
 import { readRoundSetup } from "../src/roundSetup";
-const qs = importCsv(
-  readFileSync("public/horror-fragen.csv", "utf8"),
-).questions;
+const qs = importCsv(currentCsv({ genre: "Horror" })).questions;
 it.each<Mode>([
   "entdecken",
   "fehler",

@@ -1,13 +1,11 @@
+import { currentCsv } from "../helpers/current-content";
 import { createAccountBackend, isolateAccountService } from "./fixtures";
 import { expect, openRoundSetup, fixCalendarTime, type Page } from "./fixtures";
-import { PGlite } from "@electric-sql/pglite";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../../src/importer";
 export const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222";
-export const qs = importCsv(
-  readFileSync("public/fragen.csv", "utf8"),
-).questions;
+export const qs = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
 const user = (id: string) => ({
   id,
   aud: "authenticated",

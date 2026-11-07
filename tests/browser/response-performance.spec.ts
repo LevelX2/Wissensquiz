@@ -3,12 +3,7 @@ import { readSavedState } from "./saved-state";
 import { fixCalendarTime } from "./fixtures";
 import { test, expect } from "./fixtures";
 import { readFileSync, writeFileSync } from "node:fs";
-import {
-  emptyState,
-  type State,
-  type Round,
-  type AnswerEvent,
-} from "../../src/model";
+import { emptyState, type Round, type AnswerEvent } from "../../src/model";
 import { addPackages, packages } from "../../src/packages";
 import { rebuild } from "../../src/engine";
 
@@ -20,7 +15,7 @@ addPackages(
   catalog,
   packages.map((p) => ({
     filename: p.filename,
-    text: readFileSync(`public${p.path}`, "utf8"),
+    text: readFileSync(`${p.path}`, "utf8"),
   })),
 );
 function fixture(count: number) {

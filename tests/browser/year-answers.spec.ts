@@ -1,7 +1,7 @@
 import { writeStoredState } from "./fixtures";
 import { test, expect, readStoredState } from "./fixtures";
 import { readFileSync } from "node:fs";
-import { emptyState, type State } from "../../src/model";
+import { emptyState } from "../../src/model";
 import { addPackages, packages } from "../../src/packages";
 import { prepareFactQuestion } from "../../src/filmFacts";
 import { startRound } from "../../src/engine";
@@ -12,7 +12,7 @@ addPackages(
   catalog,
   packages.map((p) => ({
     filename: p.filename,
-    text: readFileSync(`public${p.path}`, "utf8"),
+    text: readFileSync(`${p.path}`, "utf8"),
   })),
 );
 for (const kind of ["generated", "csv"] as const) {

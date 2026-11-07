@@ -1,13 +1,12 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../src/importer";
 import { emptyState, type Round } from "../src/model";
 import { answer, complete, startRound } from "../src/engine";
 import { leaderboard } from "../src/leaderboard";
 import { validateBackup } from "../src/backupValidation";
-const questions = importCsv(
-  readFileSync("public/horror-fragen.csv", "utf8"),
-).questions;
+const questions = importCsv(currentCsv({ genre: "Horror" })).questions;
 const options = {
   mode: "rekord" as const,
   topic: "Alle Themen",

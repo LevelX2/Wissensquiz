@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { beforeAll, afterAll, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "./helpers/sync-fixture";
@@ -13,7 +14,7 @@ let fixture: Awaited<ReturnType<typeof syncFixture>>;
 beforeAll(async () => {
   fixture = await syncFixture();
   const release = await prepareTestContent(
-    importCsv(readFileSync("public/fragen.csv", "utf8")).questions,
+    importCsv(currentCsv({ genre: "Science-Fiction" })).questions,
   );
   await fixture.seedRanked(release);
 }, 30000);
@@ -953,12 +954,18 @@ it("projiziert sichere Ziele aus kompakten Duell-/Importfragen einschließlich P
   const store = new OnlineGameStore(api, owner);
   await store.open();
   const samples = [
-    ["public/fragen.csv", "Science-Fiction"],
-    ["public/schauspieler-fragen.csv", "Schauspieler"],
-    ["public/preistraeger-fragen.csv", "Preisträger"],
+    ["film", "Science-Fiction"],
+    ["actors", "Schauspieler"],
+    ["awards", "Preisträger"],
   ] as const;
-  for (const [file, area] of samples) {
-    const q = importCsv(readFileSync(file, "utf8")).questions[0];
+  for (const [source, area] of samples) {
+    const q = importCsv(
+      currentCsv({
+        source,
+        genre: source === "film" ? "Science-Fiction" : undefined,
+        limit: 1,
+      }),
+    ).questions[0];
     await store.update((s) => {
       s.questions = [q];
       const round = startRound(s, {
@@ -982,9 +989,48 @@ it("projiziert sichere Ziele aus kompakten Duell-/Importfragen einschließlich P
         [owner, q.knowledgeId],
       ),
     );
-    expect(rows.rows).toContainEqual({ goal: q.knowledgeId, area });
+    expect(
+      rows.rows,
+      JSON.stringify({ source, rows: rows.rows }),
+    ).toContainEqual({ goal: q.knowledgeId, area });
   }
   store.stop();
+});
+
+it("liest Personen-IDs aus dem aktuellen Metadatenformat und hält den internen Decoder privat", async () => {
+  const packed = {
+    id: "q",
+    knowledgeId: "k",
+    language: "de",
+    domain: "Film",
+    difficulty: "leicht",
+    question: "Frage",
+    explanation: "Grund",
+    context: "Kontext",
+    answers: [
+      { text: "A", feedback: "" },
+      { text: "B", feedback: "" },
+      { text: "C", feedback: "" },
+      { text: "D", feedback: "" },
+    ],
+  };
+  for (const [metadata, expected] of [
+    [{}, null],
+    [{ person_id: "" }, ""],
+    [{ person_id: 16 }, ""],
+    [{ person_id: "ACTOR-001" }, "ACTOR-001"],
+    [{ person_id: 0 }, "q"],
+  ] as const) {
+    const result = await fixture.db.query<{ value: string | null }>(
+      "select quiz_game_internal.packed_question_person_id($1::jsonb) value",
+      [JSON.stringify({ ...packed, metadata })],
+    );
+    expect(result.rows[0].value).toBe(expected);
+  }
+  const rights = await fixture.db.query<{ allowed: boolean }>(
+    "select has_function_privilege('anon','quiz_game_internal.packed_question_person_id(jsonb)','execute') or has_function_privilege('authenticated','quiz_game_internal.packed_question_person_id(jsonb)','execute') allowed",
+  );
+  expect(rights.rows[0].allowed).toBe(false);
 });
 
 it("übernimmt eine aktuelle Proberunde nach gezieltem Nachladen genau einmal", async () => {

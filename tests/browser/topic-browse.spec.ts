@@ -2,7 +2,7 @@ import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../../src/packages";
-import { emptyState, type State } from "../../src/model";
+import { emptyState } from "../../src/model";
 import { genreOf, questionSourceOf } from "../../src/filters";
 import { categories, isCategory, type Category } from "../../src/categories";
 
@@ -22,7 +22,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const readState = () => readStoredState(page);

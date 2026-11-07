@@ -1,11 +1,9 @@
 import { it, expect } from "vitest";
-import { readFileSync, writeFileSync } from "node:fs";
-import { testReportPath } from "./helpers/test-report";
-import { importCsv } from "../src/importer";
-import { addPackages, packages } from "../src/packages";
-import { emptyState, questionSchema, type Question } from "../src/model";
+import { readFileSync } from "node:fs";
+
+import { addPackages, packages, readQuestions } from "../src/packages";
+import { emptyState, type Question } from "../src/model";
 import {
-  addFilmFacts,
   prepareFactQuestion,
   questionSnapshotMatches,
   yearChoices,
@@ -15,20 +13,16 @@ import {
 import facts from "../src/filmFacts.json";
 import directorContexts from "../src/directorContexts.json";
 import reviewedFacts from "../src/reviewedFilmFacts.json";
-import integrated from "./fixtures/appliedEditorial.json";
-import { categories, isCategory, matchesTopic } from "../src/categories";
+
 import { answer, startRound } from "../src/engine";
 import { validateBackup } from "../src/backupValidation";
 import { applyCategoryTags } from "../src/categoryPreparation";
-import { genreOf } from "../src/filters";
 
 const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
-  text: readFileSync(`public${p.path}`, "utf8"),
+  text: readFileSync(`${p.path}`, "utf8"),
 }));
-const originals = contents.flatMap(
-  (p) => importCsv(p.text, [], p.filename).questions,
-);
+const originals = contents.flatMap((p) => readQuestions(p.text));
 applyCategoryTags(originals);
 const complete = emptyState();
 addPackages(complete, contents);
@@ -112,109 +106,6 @@ it("zeigt alle 412 Regiehintergründe ohne allgemeine Nachsätze und erhält his
   expect(directorExplanation(existing)).toBeUndefined();
 });
 
-it("ergänzt jedes der 425 Filmwerke um Jahr und fehlende Regie, ohne bestehende Ziele zu duplizieren", () => {
-  expect(facts).toHaveLength(425);
-  expect(extra).toHaveLength(837);
-  expect(complete.questions).toHaveLength(3726);
-  expect(new Set(complete.questions.map((q) => q.knowledgeId)).size).toBe(3250);
-  expect(new Set(complete.questions.map((q) => q.topic)).size).toBe(378);
-  expect(complete.questions.slice(0, originals.length)).toEqual(originals);
-  for (const f of facts) {
-    const year = extra.find((q) => q.id === `${f.id}-YEAR`)!;
-    const director = complete.questions.find(
-      (q) => q.id === (f.existingDirectorId || `${f.id}-DIRECTOR`),
-    )!;
-    expect(year).toBeDefined();
-    expect(director).toBeDefined();
-    expect(year.question).not.toContain(String(f.year));
-    expect(
-      director.metadata.film_title_original + "|" + director.metadata.film_year,
-    ).toBe(f.film);
-    const ref = originals.find((q) => q.id === f.referenceId)!;
-    expect(genreOf(year)).toBe(genreOf(ref));
-    expect(year.topic).toBe(ref.topic);
-    expect(year.knowledgeId).not.toBe(director.knowledgeId);
-    const siblings = originals.filter(
-      (q) =>
-        q.metadata.film_title_original + "|" + q.metadata.film_year === f.film,
-    );
-    for (const category of categories) {
-      expect(isCategory(year, category)).toBe(
-        siblings.some((q) => isCategory(q, category)),
-      );
-      if (isCategory(year, category))
-        expect(matchesTopic(year, `${category}: ${ref.topic}`)).toBe(true);
-    }
-  }
-  for (const q of extra) {
-    expect(questionSchema.safeParse(q).success).toBe(true);
-    expect(new Set(q.answers.map((a) => a.text)).size).toBe(4);
-    expect(q.sources.length).toBeGreaterThan(0);
-    expect(q.answers.filter((a) => a.id === q.correctId)).toHaveLength(1);
-  }
-  writeFileSync(
-    testReportPath("film-facts-bericht.json"),
-    JSON.stringify(
-      {
-        checkedOn: "2026-09-29",
-        films: facts.length,
-        newYearQuestions: 425,
-        newDirectorQuestions: 412,
-        existingDirectorGoals: 13,
-        totalQuestions: complete.questions.length,
-        totalGoals: new Set(complete.questions.map((q) => q.knowledgeId)).size,
-        categories: Object.fromEntries(
-          categories.map((c) => [
-            c,
-            {
-              questions: complete.questions.filter((q) => isCategory(q, c))
-                .length,
-              goals: new Set(
-                complete.questions
-                  .filter((q) => isCategory(q, c))
-                  .map((q) => q.knowledgeId),
-              ).size,
-            },
-          ]),
-        ),
-        difficulties: Object.fromEntries(
-          ["year", "director"].map((kind) => [
-            kind,
-            Object.fromEntries(
-              ["leicht", "mittel", "schwer"].map((d) => [
-                d,
-                extra.filter(
-                  (q) => q.metadata.fact_kind === kind && q.difficulty === d,
-                ).length,
-              ]),
-            ),
-          ]),
-        ),
-        sourceNote:
-          "300 bisherige Filmquellen abgeglichen; 25 Musikfilme, 50 Sci-Fi-Filme und 50 Komödien aus gelieferter Redaktion übernommen und strukturell geprüft. Keine unabhängige Vollprüfung der neuen Filmaussagen. Schwierigkeit redaktionell, nicht empirisch gemessen.",
-      },
-      null,
-      2,
-    ) + "\n",
-  );
-});
-
-it("ergänzt idempotent, prüft Filmreferenzen und erzeugt auch bei Teilbestand dieselben Vorlagen", () => {
-  const full = structuredClone(complete.questions);
-  expect(addFilmFacts(full).added).toEqual([]);
-  expect(full).toEqual(complete.questions);
-  const ref = structuredClone(
-    originals.find((q) => q.id === facts[0].referenceId)!,
-  );
-  const partial = [ref];
-  addFilmFacts(partial);
-  expect(partial.find((q) => q.id === `${facts[0].id}-DIRECTOR`)).toEqual(
-    extra.find((q) => q.id === `${facts[0].id}-DIRECTOR`),
-  );
-  ref.metadata.film_year = "2000";
-  expect(addFilmFacts([ref]).added).toEqual([]);
-});
-
 it("variiert plausible Jahresantworten mit stabiler Identität und korrektem Feedback in allen Stufen", () => {
   for (const q of extra.filter((q) => q.metadata.fact_kind === "year")) {
     let previous: Question | undefined;
@@ -279,101 +170,4 @@ it("speichert Jahresvarianten in Rundensnapshots, erhält sie im Backup und zäh
   const wrongText = structuredClone(saved);
   wrongText.rounds[1].questions[0].question = "Andere Frage";
   expect(() => validateBackup(wrongText)).toThrow();
-});
-
-it("bewahrt historische Runden und Fortschritt beim Ergänzen eines vollständigen alten Bestands", () => {
-  const s = emptyState(structuredClone(originals));
-  const r = startRound(
-    s,
-    { mode: "entdecken", topic: "Alle Themen", difficulty: "Alle Stufen" },
-    1000,
-  );
-  answer(s, r.id, r.questions[0].id, r.questions[0].correctId, 0, 2000);
-  const historical = structuredClone({
-    rounds: s.rounds,
-    events: s.events,
-    learning: s.learning,
-  });
-  addFilmFacts(s.questions);
-  addFilmFacts(s.questions);
-  expect({ rounds: s.rounds, events: s.events, learning: s.learning }).toEqual(
-    historical,
-  );
-  expect(() => validateBackup(JSON.parse(JSON.stringify(s)))).not.toThrow();
-});
-
-it("prüft alle redigierten Jahres- und Regietexte gegen den Quellen- und Identitätsnachweis", () => {
-  const revision = JSON.parse(
-    readFileSync("docs/Bestandsredaktion-2026-10-04/Block-04.json", "utf8"),
-  );
-  expect(revision.generatedChanges).toHaveLength(425);
-  expect(revision.counts.directorTextsReviewed).toBe(412);
-  expect(
-    revision.counts.directorTextsRevised + revision.counts.directorTextsKept,
-  ).toBe(412);
-  const texts = new Set<string>();
-  for (const f of facts) {
-    const entry = revision.generatedChanges.find(
-      (c: { id: string }) => c.id === f.id,
-    );
-    expect(entry, f.id).toBeDefined();
-    const reference = integrated.referenceChanges.find((c) => c.id === f.id);
-    expect(
-      reference
-        ? { ...entry.after, referenceId: reference.after }
-        : entry.after,
-      f.id,
-    ).toEqual(f);
-    const stable = (value: Record<string, unknown>) =>
-      Object.fromEntries(
-        Object.entries(value).filter(
-          ([key]) =>
-            !["yearContext", "directorContext", "additionalSources"].includes(
-              key,
-            ),
-        ),
-      );
-    expect(stable(entry.after), f.id).toEqual(stable(entry.before));
-    const year = extra.find((q) => q.id === f.id + "-YEAR")!;
-    const reviewedYear = (reviewedFacts as Record<string, Partial<Question>>)[
-      year.id
-    ];
-    expect(year.context, f.id).toBe(reviewedYear?.context ?? f.yearContext);
-    expect(year.answers.find((a) => a.id === year.correctId)?.text, f.id).toBe(
-      String(f.year),
-    );
-    texts.add(year.context);
-    for (const source of reviewedYear ? [] : entry.yearCheckedSources) {
-      expect(source.supports, f.id).toBeTruthy();
-      expect(source.readOn, f.id).toBeTruthy();
-      expect(year.sources, f.id).toContain(source.url);
-    }
-    if (entry.directorAction === "existing_csv") {
-      expect(f.existingDirectorId, f.id).toBeTruthy();
-      continue;
-    }
-    const director = extra.find((q) => q.id === f.id + "-DIRECTOR")!;
-    const reviewedDirector = (
-      reviewedFacts as Record<string, Partial<Question>>
-    )[director.id];
-    if (reviewedDirector) {
-      expect(director).toMatchObject(reviewedDirector);
-      continue;
-    }
-    const background = directorExplanation(director)!;
-    expect(background.text, f.id).toBeTruthy();
-    if (entry.directorAction === "keep") {
-      expect(
-        entry.directorBackgroundAfter ?? entry.after.directorContext,
-        f.id,
-      ).toEqual(entry.directorBackgroundBefore ?? entry.before.directorContext);
-    } else {
-      for (const source of entry.directorCheckedSources) {
-        expect(source.supports, f.id).toBeTruthy();
-        expect(source.readOn, f.id).toBeTruthy();
-        expect(background.sources, f.id).toContain(source.url);
-      }
-    }
-  }
-  expect(texts.size).toBe(425);
 });

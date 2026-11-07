@@ -1,6 +1,7 @@
+import { currentCsv } from "./helpers/current-content";
 import { afterAll, beforeAll, it, expect } from "vitest";
 import { PGlite } from "@electric-sql/pglite";
-import { readFileSync } from "node:fs";
+
 import { syncFixture } from "./helpers/sync-fixture";
 import { importCsv } from "../src/importer";
 import { emptyState } from "../src/model";
@@ -9,7 +10,6 @@ import {
   duelSchema,
   duelViewSchema,
   duelStartSchema,
-  duelRoundId,
   duelScreen,
   duelReviewRound,
 } from "../src/duels";
@@ -19,9 +19,7 @@ let db: PGlite;
 const alice = "11111111-1111-4111-8111-111111111111",
   bob = "22222222-2222-4222-8222-222222222222",
   carol = "33333333-3333-4333-8333-333333333333";
-const questions = importCsv(
-  readFileSync("public/fragen.csv", "utf8"),
-).questions;
+const questions = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
 async function as<T>(id: string, fn: () => Promise<T>): Promise<T> {
   await db.exec(
     `set role authenticated; select set_config('request.jwt.claim.sub','${id}',false)`,

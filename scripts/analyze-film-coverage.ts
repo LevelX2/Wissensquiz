@@ -1,5 +1,7 @@
 // Bundle with esbuild (platform=node, format=esm) and run from the repo root.
 // Reads the official catalog only; never reads or changes player data.
+// Bundle with esbuild (platform=node, format=esm) and run from the repo root.
+// Reads the official catalog only; never reads or changes player data.
 import { readFileSync, writeFileSync, readdirSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { createHash } from "node:crypto";
@@ -13,7 +15,7 @@ import { learningPathProgress } from "../src/learningPath";
 
 const inputs = packages.map((p) => ({
   filename: p.filename,
-  text: readFileSync(`public${p.path}`, "utf8"),
+  text: readFileSync(`${p.path}`, "utf8"),
 }));
 const state = emptyState();
 addPackages(state, inputs);
@@ -181,7 +183,7 @@ const report = {
     encoding: "utf8",
   }).trim(),
   scope:
-    "Current local official catalog assembled with addPackages, category overlays and addFilmFacts. Only questionSourceOf=film enters genre/familiarity coverage. No player data or live production read.",
+    "Current local official catalog loaded from the current three content areas. Only questionSourceOf=film enters genre/familiarity coverage. No player data or live production read.",
   definitions: {
     film: "Original title plus release year; remake/sequel identities stay separate.",
     goal: "Distinct knowledge_id; question variants give no extra coverage.",
@@ -196,7 +198,7 @@ const report = {
   },
   inputHashes: [
     ...packages.map((p, i) => ({
-      path: `public${p.path}`,
+      path: `${p.path}`,
       sha256: hash(inputs[i].text),
     })),
     ...[

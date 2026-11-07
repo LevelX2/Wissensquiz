@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**07.11.2026 – Katalogorganisation lokal bereinigt:** Aktueller Fragenbestand in drei Fachdateien statt 123 Lieferpaketen. Alle Felder der 19.303 bestehenden Fragen einschließlich Versionen und Wissensziel-IDs unverändert; keine Fragengeneration oder historische Importstufen beim Einlesen. Direktive in `AGENTS.md`, aktuelle Belegquellen und Bildrechte erhalten. 100 zusätzliche Preisfragen sind noch in Arbeit. [Aktueller Aufbau und Prüfnachweise](../docs/Fragedaten-Organisation.md).
+
 **06.11.2026 – Externe Alternativtitel lokal ergänzt.** 428 Titel für 412 Filme aus einer Teilrückgabe mit 1.450 Katalogzeilen übernommen. Sechs ausgewählte Hinweise vor der Antwort. Die übrigen Titel stehen in den Filmdaten. 1.739 erwartete Restzeilen fehlen in der Lieferung. Vollständiger Anzeigeabgleich mit 19.303 Fragen und 13 gezielte Tests erfolgreich. [Auswahl und Prüfnachweis](../docs/Filmwissen-und-Filmdaten.md#externe-alternativtitel-teilrückgabe-vom-06112026).
 
 **04.11.2026 – Filmreise-Auswahl lokal korrigiert:** Zuerst Bereich/Filmgenre, danach dessen freigespielte Bekanntheitsgruppe; zusätzliche Gruppen erhöhen die Genrechance nicht mehr. Neue Ziele, fällige und bekannte Wiederholungen folgen derselben Reihenfolge, vier Wiederholungsplätze bleiben erhalten. 41 gezielte Tests erfolgreich; Servermigration vorbereitet, noch nicht veröffentlicht. [Vertrag](../docs/Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).

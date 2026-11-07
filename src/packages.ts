@@ -1,180 +1,106 @@
-import { importCsv } from "./importer";
-import type { State } from "./model";
-import { applyCategoryTags } from "./categoryPreparation";
-import { addFilmFacts } from "./filmFacts";
-import { retainJourneyUnlocks } from "./learningPath";
-import Papa from "papaparse";
-import expansion150 from "../docs/Genres-150-2026-11-03/Pakete.json" with { type: "json" };
+// Operator-only current content. The browser loads individual server questions.
+import type { Question, QuestionSource, State } from "./model";
+import { questionSchema } from "./questionSchema";
+import { questionSourceOf } from "./filters";
 
 export const packages = [
-  { path: "/fragen.csv", filename: "SciFi_Quiz_180_Fragen.csv" },
-  { path: "/action-fragen.csv", filename: "Action_Quiz_180_Fragen.csv" },
-  { path: "/horror-fragen.csv", filename: "Horror_Quiz_180_Fragen.csv" },
-  { path: "/fantasy-fragen.csv", filename: "Fantasy_Quiz_180_Fragen.csv" },
-  { path: "/komoedie-fragen.csv", filename: "Komoedie_Quiz_180_Fragen.csv" },
-  { path: "/western-fragen.csv", filename: "Western_Quiz_180_Fragen.csv" },
-  { path: "/drama-fragen.csv", filename: "Drama_Quiz_180_Fragen.csv" },
-  { path: "/classics-fragen.csv", filename: "Classics_Quiz_180_Fragen.csv" },
+  { path: "content/filmfragen.jsonl", filename: "Filmfragen", source: "film" },
   {
-    path: "/martialarts-fragen.csv",
-    filename: "MartialArts_Quiz_180_Fragen.csv",
-  },
-  { path: "/romcom-fragen.csv", filename: "RomCom_Quiz_180_Fragen.csv" },
-  { path: "/arthouse-fragen.csv", filename: "Arthouse_Quiz_180_Fragen.csv" },
-  { path: "/musik-fragen.csv", filename: "Musik_Ergaenzung_180_Fragen.csv" },
-  {
-    path: "/scifi-ergaenzung-fragen.csv",
-    filename: "SciFi_Ergaenzung_360_Fragen.csv",
+    path: "content/schauspielerfragen.jsonl",
+    filename: "Schauspielerfragen",
+    source: "actors",
   },
   {
-    path: "/komoedie-ergaenzung-fragen.csv",
-    filename: "Komoedie_Ergaenzung_360_Fragen.csv",
+    path: "content/preisfragen.jsonl",
+    filename: "Preisfragen",
+    source: "awards",
   },
-  {
-    path: "/alle-genres-120-filme-fragen.csv",
-    filename: "Alle_Genres_120_Filme_960_Fragen.csv",
-  },
-  {
-    path: "/preistraeger-fragen.csv",
-    filename: "Preistraeger_200_Fragen.csv",
-  },
-  {
-    path: "/schauspieler-fragen.csv",
-    filename: "Schauspieler_800_Fragen_App.csv",
-  },
-  {
-    path: "/schauspieler-p02-fragen.csv",
-    filename: "Schauspieler_Ergaenzung_P02_200_Fragen_App.csv",
-  },
-  {
-    path: "/schauspieler-p03-fragen.csv",
-    filename: "Schauspieler_Ergaenzung_P03_400_Fragen_App.csv",
-  },
-  {
-    path: "/film-ergaenzung-240-fragen.csv",
-    filename: "Filmfragen_240_Filme_1920_Fragen.csv",
-  },
-  {
-    path: "/schauspieler-bilder-fragen.csv",
-    filename: "Schauspieler_Bilderkennung_200_Fragen.csv",
-  },
-  {
-    path: "/film-erweiterung-20261007-fragen.csv",
-    filename: "Filmfragen_20261007.csv",
-  },
-  {
-    path: "/personen-erweiterung-20261007-fragen.csv",
-    filename: "Personenfragen_20261007.csv",
-  },
-  {
-    path: "/preise-erweiterung-20261007-fragen.csv",
-    filename: "Preisefragen_20261007.csv",
-  },
-  {
-    path: "/genre100-abenteuer-fragen.csv",
-    filename: "Genre100_Abenteuer_20261008.csv",
-  },
-  {
-    path: "/genre100-thriller-fragen.csv",
-    filename: "Genre100_Thriller_20261008.csv",
-  },
-  {
-    path: "/genre100-action-fragen.csv",
-    filename: "Genre100_Action_20261008.csv",
-  },
-  {
-    path: "/genre100-martialarts-fragen.csv",
-    filename: "Genre100_MartialArts_20261008.csv",
-  },
-  {
-    path: "/genre100-musik-fragen.csv",
-    filename: "Genre100_Musik_20261008.csv",
-  },
-  {
-    path: "/genre100-romcom-fragen.csv",
-    filename: "Genre100_RomCom_20261008.csv",
-  },
-  {
-    path: "/genre100-western-fragen.csv",
-    filename: "Genre100_Western_20261008.csv",
-  },
-  {
-    path: "/genre100-fantasy-fragen.csv",
-    filename: "Genre100_Fantasy_20261008.csv",
-  },
-  {
-    path: "/genre100-horror-fragen.csv",
-    filename: "Genre100_Horror_20261008.csv",
-  },
-  {
-    path: "/schauspieler-bekanntheit-20261013-fragen.csv",
-    filename: "Schauspieler-Bekanntheit-2026-10-13.csv",
-  },
-  { path: "/action-drama-ergaenzungen-20261015-fragen.csv", filename: "Action-Drama-Ergaenzungen-2026-10-15.csv" },
-  { path: "/genres-ergaenzungen-20261016-fragen.csv", filename: "Genres-Ergaenzungen-2026-10-16.csv" },
-  { path: "/musik-romcom-ergaenzungen-20261016-fragen.csv", filename: "Musik-RomCom-Ergaenzungen-2026-10-16.csv" },
-  { path: "/martial-arts-asia-ergaenzungen-20261016-fragen.csv", filename: "Martial-Arts-Asia-Ergaenzungen-2026-10-16.csv" },
-  { path: "/thriller-western-scifi-ergaenzungen-20261016-fragen.csv", filename: "Thriller-Western-Science-Fiction-Ergaenzungen-2026-10-16.csv" },
-  ...expansion150.packages.map(({ path, filename }) => ({ path, filename })),
-];
+] as const;
+
 export type PackageContent = { filename: string; text: string };
-export function hasPackage(state: State, filename: string) {
-  return state.imports.some(
-    (r) => r.filename === filename && r.accepted + r.duplicates > 0,
-  );
+
+export function readQuestions(
+  text: string,
+  source?: QuestionSource,
+): Question[] {
+  const questions = text
+    .split(/\r?\n/)
+    .filter((line) => line.trim())
+    .map((line) => questionSchema.parse(JSON.parse(line)));
+  const ids = new Set<string>();
+  for (const q of questions) {
+    if (ids.has(q.id)) throw new Error(`Doppelte Fragen-ID: ${q.id}`);
+    ids.add(q.id);
+    if (source && questionSourceOf(q) !== source)
+      throw new Error(`${q.id}: Frage gehört nicht zum Bereich ${source}.`);
+  }
+  return questions;
 }
-// Apply to the proposed state; the server revision prevents concurrent overwrite.
+
+export function hasPackage(state: State, filename: string) {
+  return state.imports.some((r) => r.filename === filename);
+}
+
 export function addPackages(state: State, incoming: PackageContent[]) {
-  state.bundledQuestionIds ??= [];
-  // Freeze rights from the old catalog before adding earlier/new film groups.
-  retainJourneyUnlocks(state);
-  for (const pkg of incoming) {
-    if (hasPackage(state, pkg.filename)) continue;
-    // Person questions may share generated director goals from the film catalog.
-    if (pkg.filename === "Schauspieler_800_Fragen_App.csv")
-      addFilmFacts(state.questions);
-    const imported = importCsv(pkg.text, state.questions, pkg.filename);
-    if (!imported.report.accepted && !imported.report.duplicates)
-      throw new Error(`Fragenpaket ${pkg.filename} ist ungültig.`);
-    state.questions.push(...imported.questions);
-    state.imports.push(imported.report);
-  }
-  applyCategoryTags(state.questions);
-  addFilmFacts(state.questions);
-  if (incoming.length) {
-    const official = incoming
-      .filter((pkg) => packages.some((p) => p.filename === pkg.filename))
-      .flatMap((pkg) => {
-        // Validate every bundled row again, including variants whose target is
-        // in another package. Existing user questions with the same ID are
-        // retained and only recognized as bundled if their version matches.
-        const rows = Papa.parse<Record<string, string>>(pkg.text, {
-          header: true,
-          skipEmptyLines: "greedy",
-          transformHeader: (h) => h.trim().toLowerCase(),
-        }).data;
-        const ids = new Set(rows.map((row) => row.question_id?.trim()));
-        return importCsv(
-          pkg.text,
-          state.questions.filter((q) => !ids.has(q.id)),
-          pkg.filename,
-        ).questions;
+  const existing = new Map(state.questions.map((q) => [q.id, q]));
+  const next: Question[] = [];
+  const reports: State["imports"] = [];
+  const incomingIds = new Set<string>();
+  for (const input of incoming) {
+    const definition = packages.find((p) => p.filename === input.filename);
+    if (!definition)
+      throw new Error(`Unbekannter aktueller Fragenbereich: ${input.filename}`);
+    const questions = readQuestions(input.text, definition.source);
+    let duplicates = 0;
+    for (const q of questions) {
+      if (incomingIds.has(q.id))
+        throw new Error(`Doppelte Fragen-ID im Katalog: ${q.id}`);
+      incomingIds.add(q.id);
+      if (existing.has(q.id)) {
+        duplicates++;
+        continue;
+      }
+      existing.set(q.id, q);
+      next.push(q);
+    }
+    if (!hasPackage(state, input.filename))
+      reports.push({
+        filename: input.filename,
+        accepted: questions.length - duplicates,
+        rejected: 0,
+        duplicates,
+        warnings: [],
+        issues: [],
+        at: Date.now(),
+        delimiter: "jsonl",
+        columns: [],
       });
-    addFilmFacts(official);
-    const existing = new Map(state.questions.map((q) => [q.id, q]));
-    state.bundledQuestionIds = [
-      ...new Set([
-        ...(state.bundledQuestionIds ?? []),
-        ...official
-          .filter((q) => {
-            const actual = existing.get(q.id);
-            return (
-              actual?.version === q.version &&
-              actual.knowledgeId === q.knowledgeId
-            );
-          })
-          .map((q) => q.id),
-      ]),
-    ].filter((id) => existing.has(id));
   }
+  // Resolve against the complete current catalog, independently of input order.
+  for (const q of next) {
+    const target = q.metadata.variant_of && existing.get(q.metadata.variant_of);
+    if (
+      q.metadata.variant_of &&
+      (!target || target.knowledgeId !== q.knowledgeId)
+    )
+      throw new Error(`${q.id}: ungültiger Wissenszielbezug.`);
+    const seen = new Set([q.id]);
+    let current = q;
+    while (current.metadata.variant_of) {
+      const target = existing.get(current.metadata.variant_of);
+      if (
+        !target ||
+        target.knowledgeId !== q.knowledgeId ||
+        seen.has(target.id)
+      )
+        throw new Error(`${q.id}: ungültige Variantenkette.`);
+      seen.add(target.id);
+      current = target;
+    }
+  }
+  state.questions.push(...next);
+  state.imports.push(...reports);
+  state.bundledQuestionIds = [
+    ...new Set([...(state.bundledQuestionIds ?? []), ...next.map((q) => q.id)]),
+  ];
 }

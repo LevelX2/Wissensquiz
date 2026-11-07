@@ -1,4 +1,5 @@
 // Operator-only preparation from public sources. No connection or account data.
+// Operator-only preparation from public sources. No connection or account data.
 import { createServer } from "vite";
 import { readFile, mkdir, writeFile, readdir, unlink } from "node:fs/promises";
 import { resolve, join } from "node:path";
@@ -36,7 +37,7 @@ try {
     await Promise.all(
       packages.map(async (pkg) => ({
         filename: pkg.filename,
-        text: await readFile("public" + pkg.path, "utf8"),
+        text: await readFile(pkg.path, "utf8"),
       })),
     ),
   );

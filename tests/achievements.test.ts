@@ -1,5 +1,6 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../src/importer";
 import { emptyState } from "../src/model";
 import { startRound, answer, complete } from "../src/engine";
@@ -46,9 +47,7 @@ it("ordnet alle zwölf Stufen eindeutig zu und bündelt gleichzeitige Erfolge na
 });
 
 it("zählt vollständige Runden einschließlich aktueller Archivfakten und trennt Nulltreffer von Zeitablauf", () => {
-  const catalog = importCsv(
-    readFileSync("public/fragen.csv", "utf8"),
-  ).questions;
+  const catalog = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
   const questions = [
     ...new Map(catalog.map((q) => [q.knowledgeId, q])).values(),
   ].slice(0, 10);

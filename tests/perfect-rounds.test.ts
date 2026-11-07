@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { it, expect } from "vitest";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "./helpers/sync-fixture";
@@ -42,7 +43,7 @@ it("zählt perfekte abgeschlossene Zehnerrunden inkrementell, privat und ohne do
   try {
     await fixture.seedRanked(
       await prepareTestContent(
-        importCsv(readFileSync("public/fragen.csv", "utf8")).questions.slice(
+        importCsv(currentCsv({ genre: "Science-Fiction" })).questions.slice(
           0,
           32,
         ),
@@ -202,7 +203,7 @@ it("leitet vorhandene aktuelle Zehnerrunden ab, ohne Spielstand oder Revision zu
   const fixture = await syncFixture(migration);
   try {
     const release = await prepareTestContent(
-      importCsv(readFileSync("public/fragen.csv", "utf8")).questions.slice(
+      importCsv(currentCsv({ genre: "Science-Fiction" })).questions.slice(
         0,
         32,
       ),
@@ -274,7 +275,7 @@ it("baut die neuen Erfolgszähler und damaligen Rundenstände aus aktuellen Bele
   try {
     await fixture.seedRanked(
       await prepareTestContent(
-        importCsv(readFileSync("public/fragen.csv", "utf8")).questions.slice(
+        importCsv(currentCsv({ genre: "Science-Fiction" })).questions.slice(
           0,
           32,
         ),

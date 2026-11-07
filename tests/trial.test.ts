@@ -1,5 +1,6 @@
+import { currentCsv } from "./helpers/current-content";
 import { beforeEach, afterEach, expect, it, vi } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { emptyState } from "../src/model";
 import { importCsv } from "../src/importer";
 import { answer, complete, startRound } from "../src/engine";
@@ -15,9 +16,7 @@ import {
   TRIAL_LIFETIME,
 } from "../src/trial";
 
-const questions = importCsv(
-  readFileSync("public/fragen.csv", "utf8"),
-).questions;
+const questions = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
 const now = new Date("2026-10-10T10:00:00Z").getTime();
 let storage: Storage;
 beforeEach(() => {

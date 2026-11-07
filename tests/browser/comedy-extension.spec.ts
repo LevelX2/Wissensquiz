@@ -1,4 +1,4 @@
-import { writeStoredState } from "./fixtures";
+import { writeStoredState, readStoredState } from "./fixtures";
 import { test, expect } from "./fixtures";
 import { readFileSync } from "node:fs";
 import { emptyState } from "../../src/model";
@@ -21,7 +21,7 @@ test("Komödie-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen 
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const q = state.questions.find((q) => q.id === "FF-376-DIRECTOR")!;
@@ -73,8 +73,9 @@ test("Komödie-Ergänzung: Regiehintergrund erst nach Antwort und nach Neuladen 
   await expect(page.locator(".film-data")).toContainText(
     "Anchorman: The Legend of Ron Burgundy",
   );
-  const available = await page.evaluate(async () =>
-    (await fetch("/komoedie-ergaenzung-fragen.csv")).text(),
-  );
-  expect(available).toContain("KOM-202609-P02-L-001");
+  expect(
+    (await readStoredState(page)).questions.some(
+      (q) => q.id === "KOM-202609-P02-L-001",
+    ),
+  ).toBe(true);
 });

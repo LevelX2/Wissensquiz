@@ -1,4 +1,5 @@
-import { readFileSync } from "node:fs";
+import { currentCsv } from "./helpers/current-content";
+
 import { describe, expect, it } from "vitest";
 import { answer, complete, guess, startRound } from "../src/engine";
 import { emptyState, type Mode } from "../src/model";
@@ -9,7 +10,7 @@ import { roundSummary } from "../src/roundSummary";
 import { questionHistory } from "../src/questionHistory";
 import { profileStats } from "../src/ProfileStats";
 
-const catalog = importCsv(readFileSync("public/fragen.csv", "utf8")).questions;
+const catalog = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
 const qs = [...new Map(catalog.map((q) => [q.topic, q])).values()].slice(0, 4);
 const now = new Date(2026, 9, 2, 12).getTime();
 function fixture(mode: Mode = "ueben", size = 1) {

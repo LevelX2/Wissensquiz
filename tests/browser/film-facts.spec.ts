@@ -2,7 +2,7 @@ import { writeStoredState, accountBackend } from "./fixtures";
 import { test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
-import { emptyState, type State, type Question } from "../../src/model";
+import { emptyState, type Question } from "../../src/model";
 import { addPackages, packages } from "../../src/packages";
 import { answer, startRound } from "../../src/engine";
 import { validateBackup } from "../../src/backupValidation";
@@ -26,7 +26,7 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
       state,
       packages.map((p) => ({
         filename: p.filename,
-        text: readFileSync(`public${p.path}`, "utf8"),
+        text: readFileSync(`${p.path}`, "utf8"),
       })),
     );
     const q = state.questions.find((q) =>
@@ -161,7 +161,7 @@ test("Fortschrittsbalken unterscheiden richtig, falsch, ohne Antwort, aktuell un
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const now = Date.parse("2026-09-26T11:59:00+02:00");

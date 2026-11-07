@@ -1,5 +1,6 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../src/importer";
 import people from "../src/personFamiliarity.json";
 import films from "../src/filmFamiliarity.json";
@@ -24,8 +25,7 @@ import {
 } from "../src/learningPath";
 import { validateBackup } from "../src/backupValidation";
 
-const base = importCsv(readFileSync("public/horror-fragen.csv", "utf8"))
-  .questions[0];
+const base = importCsv(currentCsv({ genre: "Horror" })).questions[0];
 function question(
   source: "actors" | "awards",
   level: number,

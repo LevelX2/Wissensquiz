@@ -1,7 +1,8 @@
+import { currentCsv } from "../helpers/current-content";
 import { readStoredState, writeStoredState, fixCalendarTime } from "./fixtures";
 import { test, expect } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
-import { readFileSync } from "node:fs";
+
 import { emptyState } from "../../src/model";
 import { importCsv } from "../../src/importer";
 import { answer, complete, startRound } from "../../src/engine";
@@ -31,9 +32,7 @@ test("Sammlung filtert gewählte Antworten einschließlich Fehlern, bietet leere
     page.getByRole("button", { name: "Weitere Themen →", exact: true }),
   ).toBeVisible();
 
-  const questions = importCsv(
-    readFileSync("public/horror-fragen.csv", "utf8"),
-  ).questions;
+  const questions = importCsv(currentCsv({ genre: "Horror" })).questions;
   const qs = [
     ...new Map(
       questions

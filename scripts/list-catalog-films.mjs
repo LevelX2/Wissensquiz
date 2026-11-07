@@ -1,5 +1,7 @@
 // Read-only inventory of the current official package catalog, including film
 // references shown in actor/award questions. No account or production access.
+// Read-only inventory of the current official package catalog, including film
+// references shown in actor/award questions. No account or production access.
 import { createServer } from "vite";
 import { readFile, writeFile } from "node:fs/promises";
 import { strict as assert } from "node:assert";
@@ -29,7 +31,7 @@ try {
     await Promise.all(
       packages.map(async (pkg) => ({
         filename: pkg.filename,
-        text: await readFile(`public${pkg.path}`, "utf8"),
+        text: await readFile(`${pkg.path}`, "utf8"),
       })),
     ),
   );

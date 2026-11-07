@@ -19,15 +19,6 @@ import { syncFixture } from "../helpers/sync-fixture";
 export { expect, chromium, type Page } from "@playwright/test";
 export const testBaseUrl = `http://localhost:${process.env.WISSENSQUIZ_BROWSER_PORT ?? 4173}`;
 
-// Response.text() strips a UTF-8 BOM; retained CSV sources may contain one.
-export async function fetchPublishedCsv(page: Page, url: string) {
-  return page.evaluate(async path => {
-    const response = await fetch(path);
-    if (!response.ok) throw new Error(`CSV request failed: ${response.status}`);
-    return new TextDecoder("utf-8", { ignoreBOM: true }).decode(await response.arrayBuffer());
-  }, url);
-}
-
 // Illustrated variants select the mode; only Losspielen starts a game.
 export function modePreparation(page: Page, name: string | RegExp) {
   return page
@@ -137,7 +128,7 @@ export async function createAccountBackend() {
       state,
       packages.map((pkg) => ({
         filename: pkg.filename,
-        text: readFileSync("public" + pkg.path, "utf8"),
+        text: readFileSync(pkg.path, "utf8"),
       })),
     );
     return prepareTestContent(state.questions);

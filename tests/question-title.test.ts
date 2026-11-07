@@ -1,10 +1,11 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../src/importer";
 import { questionTitleParts } from "../src/questionTitle";
-const q = importCsv(
-  readFileSync("public/western-fragen.csv", "utf8"),
-).questions.find((q) => q.metadata.film_title_de === "Tombstone")!;
+const q = importCsv(currentCsv({ genre: "Western" })).questions.find(
+  (q) => q.metadata.film_title_de === "Tombstone",
+)!;
 it("hebt ausschließlich bekannte, zitierte Filmtitel hervor und erhält Jahr und Fragetext", () => {
   const original = q.question;
   const parts = questionTitleParts(q)!;

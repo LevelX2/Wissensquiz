@@ -1,5 +1,16 @@
 # Prüfnachweis
 
+## 07.11.2026 – Aktueller Katalog ohne Lieferhistorie, lokal
+
+- 123 bisherige CSV-Lieferpakete durch drei führende Fachbestände unter `content/` ersetzt. Historische Importstufen, Paketnamensonderfall und Fragengeneration beim Einlesen entfernt; überholte Liefer- und Archivprüfungen durch aktuelle Katalogprüfungen ersetzt.
+- Vollständiger Wertvergleich aller Felder der 19.303 bestehenden Fragen erfolgreich: Fragen-/Wissensziel-IDs, Versionen, Texte, Antworten, Quellen und Metadaten unverändert. Vorher-/Nachher-SHA-256 über nach Fragen-ID und Objektschlüsseln sortierte Daten: `5e176851d58d94879b7c874e460f8d0c8d0170c45d769fa4965e75e8e3c809fb`.
+- Gesamtkatalog: 15.599 Filmfragen, 3.424 Schauspielerfragen, 280 Preisfragen; 18.588 Wissensziele und 715 Variantenbezüge. Schema, Bereichszuordnung, gültige Variantenketten, umgekehrte Einlesereihenfolge, wiederholtes Einlesen und verlustfreier Metadatenrücklauf erfolgreich geprüft.
+- Vollständiger Logik-/Datenbanklauf: **449 Tests erfolgreich**. Metadaten-/TypeScript-Prüfung und Produktionsbuild erfolgreich. **Vier unterschiedliche Chromium-Browserfälle erfolgreich**, einschließlich Lösungsschutz, Filmdaten nach Antwort, Preis-Expertenrunde und additiver Bereichsauswahl bei 320/1440 Pixeln. Veraltete Annahmen über die erste Frage einer Lieferdatei in den Prüfungen korrigiert und erfolgreich nachgeprüft.
+- Im isolierten Build keine `.csv`- oder `.jsonl`-Dateien. Der Browser nutzt weiterhin einzelne Onlinefragen. Keine Konten, privaten Spielstände, Remoteinhalte oder produktiven Datenbanken verändert.
+- Vorhandenen Fehler bei kompakten Spielstandsbelegen lokal korrigiert: Ein Metadatenverweis auf eine leere Personen-ID wird tatsächlich dekodiert und erzeugt keine Schauspielerzuordnung. Fünf konkrete Dekodierfälle, Bereichszuordnung von Film-/Personen-/Preisbelegen sowie fehlende direkte Aufrufrechte für `anon`/`authenticated` im isolierten PGlite erfolgreich geprüft. Migration `20261107190329_current_question_source_attributes.sql` vorbereitet, noch nicht aktiviert. Supabase-CLI-Advisor lokal mangels Docker-Postgres nicht ausführbar; kein erfolgreicher Advisor-Lauf behauptet.
+
+[Aktueller Aufbau](Fragedaten-Organisation.md), [Katalogprüfung](Fragedaten-Pruefung.json). Die gesondert beauftragten 100 Preisfragen folgen nach diesem geprüften Bereinigungsblock.
+
 ## 06.11.2026 – Externe Alternativtitel, Teilrückgabe
 
 1.450 Rückgabezeilen mit Filmreihenregister und Filmliste abgeglichen. Alle Schlüssel und Eingabenummern sind eindeutig. Von 496 Vorschlägen sind 428 für 412 Filme zusätzlich übernommen. 53 Varianten mit geringem Wiedererkennungswert, 13 ungeklärte Vorschläge und zwei bereits vorhandene Titel separat gezählt. Die unveränderte Rohquelle deckt 1.739 erwartete Restnummern nicht ab.

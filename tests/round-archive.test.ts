@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { importCsv } from "../src/importer";
@@ -20,9 +21,7 @@ import { objectHashes } from "../src/syncReferences";
 import { syncFixture } from "./helpers/sync-fixture";
 import { learn } from "../src/learning";
 
-const questions = importCsv(
-  readFileSync("public/horror-fragen.csv", "utf8"),
-).questions;
+const questions = importCsv(currentCsv({ genre: "Horror" })).questions;
 const now = Date.parse("2026-09-26T12:00:00Z");
 function history() {
   const state = emptyState(structuredClone(questions));

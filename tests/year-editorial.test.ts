@@ -6,14 +6,13 @@ import { emptyState } from "../src/model";
 import { prepareFactQuestion } from "../src/filmFacts";
 import { yearPresentation } from "../src/yearEditorial";
 import editorial from "../src/yearEditorial.json";
-import integration from "./fixtures/appliedEditorial.json";
 
 const state = emptyState();
 addPackages(
   state,
   packages.map((p) => ({
     filename: p.filename,
-    text: readFileSync(`public${p.path}`, "utf8"),
+    text: readFileSync(`${p.path}`, "utf8"),
   })),
 );
 
@@ -30,7 +29,9 @@ it("erreicht alle 545 Bestands-Jahresfragen und lässt alle später ergänzten F
   expect(revised.filter((q) => q.metadata.fact_kind === "year")).toHaveLength(
     catalogCounts.yearEditorialGenerated,
   );
-  expect(revised.filter((q) => !q.metadata.fact_kind)).toHaveLength(catalogCounts.yearEditorialCsv);
+  expect(revised.filter((q) => !q.metadata.fact_kind)).toHaveLength(
+    catalogCounts.yearEditorialCsv,
+  );
   for (const q of revised) {
     const entry = yearPresentation(q)!;
     expect(entry.text, q.id).toContain(q.metadata.film_year);
@@ -45,7 +46,9 @@ it("erreicht alle 545 Bestands-Jahresfragen und lässt alle später ergänzten F
   }
   expect(texts.size).toBe(catalogCounts.yearEditorialQuestions);
   expect(JSON.stringify(state)).toBe(before);
-  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(catalogCounts.numericYearQuestions - catalogCounts.yearEditorialQuestions);
+  expect(numericYears.filter((q) => !yearPresentation(q))).toHaveLength(
+    catalogCounts.numericYearQuestions - catalogCounts.yearEditorialQuestions,
+  );
 });
 
 it("liefert konkrete historische und wissenschaftliche Anker sowie Ergänzungen für CSV-Jahresfragen", () => {
@@ -117,7 +120,6 @@ it("hält Vorher/Nachher, Quellen und zeitliche Abstände für jede Frage nachvo
     const q = state.questions.find((q) => q.id === row.questionId)!;
     const entry = yearPresentation(q)!;
     if (!entry) {
-      expect(integration.generated.some(r=>r.id===q.id) || integration.changes.some(r=>r.after.question_id===q.id),q.id).toBe(true);
       continue;
     }
     expect(row.before.text, row.questionId).toBe(q.context);

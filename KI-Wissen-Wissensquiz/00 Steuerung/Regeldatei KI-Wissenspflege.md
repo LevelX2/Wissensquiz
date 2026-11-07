@@ -3,6 +3,7 @@
 - Projektwissen wird hier im Repository geführt; globale Standards bleiben im Haupt-Vault.
 - Vor Projektfragen bekannte Fachseiten oder den Index lesen; fehlende oder veraltete Aussagen bei Bedarf verifizieren.
 - Rohquellen unverändert unter `01 Rohquellen/` aufnehmen und vollständig auswerten. Herkunft, Datum und Grenzen dokumentieren.
+- Für Fragen gilt seit 07.11.2026 die aktuelle Katalogdirektive aus `AGENTS.md`: aktuelle Inhalte und Fachquellen pflegen, keine zusätzlichen Liefer- oder Fragenarchive aufbewahren; frühere Bearbeitungsstände über Git nachvollziehen.
 - Fakten, Interpretation und offene Punkte trennen; Widersprüche ausdrücklich festhalten.
 - Betroffene Wissensseiten und Index aktualisieren. Wesentliche Entscheidungen, Strukturänderungen, Risiken und Abschlussstände chronologisch im Log ergänzen.
 - Statusseiten bleiben verdichtete Snapshots; das Log bleibt append-only und enthält keine routinemäßigen Einzelschritte.

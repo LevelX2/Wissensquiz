@@ -60,7 +60,7 @@ it("liefert die Teilnummer für sämtliche vorbereiteten Mission-Impossible-Film
     state,
     packages.map((pkg) => ({
       filename: pkg.filename,
-      text: readFileSync(`public${pkg.path}`, "utf8"),
+      text: readFileSync(`${pkg.path}`, "utf8"),
     })),
   );
   const seen = new Set<string>();
@@ -88,7 +88,7 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
     state,
     packages.map((pkg) => ({
       filename: pkg.filename,
-      text: readFileSync(`public${pkg.path}`, "utf8"),
+      text: readFileSync(`${pkg.path}`, "utf8"),
     })),
   );
   const registry = seriesRegistry.films as Record<
@@ -102,7 +102,8 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
   const reviewed = new Map<string, unknown>([
     ...seriesReview.films.map((film) => [film.film, film.after] as const),
     ...genre150.films.map(
-      (film) => [`${film.film_title_original}|${film.film_year}`, film.series] as const,
+      (film) =>
+        [`${film.film_title_original}|${film.film_year}`, film.series] as const,
     ),
     ...genre150.series_updates.map((film) => [film.film, film.series] as const),
   ]);
@@ -143,9 +144,7 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
     }
   }
   expect(new Set(seen.keys())).toEqual(new Set(Object.keys(registry)));
-  expect(new Set(seen.keys())).toEqual(
-    new Set(reviewed.keys()),
-  );
+  expect(new Set(seen.keys())).toEqual(new Set(reviewed.keys()));
   expect(seen.size).toBe(reviewed.size);
   expect(numbered).toBe([...reviewed.values()].filter(Boolean).length);
 }, 30000);

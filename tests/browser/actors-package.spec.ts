@@ -169,7 +169,7 @@ for (const [questionId, person, film] of [
       state,
       packages.map((p) => ({
         filename: p.filename,
-        text: readFileSync(`public${p.path}`, "utf8"),
+        text: readFileSync(`${p.path}`, "utf8"),
       })),
     );
     const q = state.questions.find((q) => q.id === questionId)!;
@@ -235,7 +235,7 @@ test.describe("TMDB-Porträts in Auflösung und Rückblick", () => {
         state,
         packages.map((p) => ({
           filename: p.filename,
-          text: readFileSync(`public${p.path}`, "utf8"),
+          text: readFileSync(`${p.path}`, "utf8"),
         })),
       );
       const q = state.questions.find(
@@ -373,7 +373,7 @@ test.describe("Neue Schauspieler mit ausgewählten Porträts", () => {
         state,
         packages.map((pkg) => ({
           filename: pkg.filename,
-          text: readFileSync(`public${pkg.path}`, "utf8"),
+          text: readFileSync(`${pkg.path}`, "utf8"),
         })),
       );
       const q = state.questions.find(

@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { emptyState, type Question, type State } from "../src/model";
@@ -11,9 +12,7 @@ import people from "../src/personFamiliarity.json" with { type: "json" };
 import { addPackages, packages } from "../src/packages";
 import { pathQuestions, pathAreaOf } from "../src/learningPath";
 
-const questions = importCsv(
-  readFileSync("public/fragen.csv", "utf8"),
-).questions;
+const questions = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
 const goals = [...new Map(questions.map((q) => [q.knowledgeId, q])).values()];
 const options = {
   mode: "entdecken" as const,
@@ -57,7 +56,7 @@ it("drei direkt aufeinanderfolgende Zehnerrunden wiederholen bei genügend neuen
     s,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const used = new Set<string>();

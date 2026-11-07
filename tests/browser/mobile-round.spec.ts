@@ -1,7 +1,8 @@
+import { currentCsv } from "../helpers/current-content";
 import { writeStoredState, accountBackend } from "./fixtures";
 import { test, expect, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
-import { readFileSync } from "node:fs";
+
 import { emptyState } from "../../src/model";
 import { importCsv } from "../../src/importer";
 import { startRound } from "../../src/engine";
@@ -124,9 +125,7 @@ for (const viewport of [
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
     ).toBeEnabled();
-    const questions = importCsv(
-      readFileSync("public/western-fragen.csv", "utf8"),
-    ).questions;
+    const questions = importCsv(currentCsv({ genre: "Western" })).questions;
     const qs = questions
       .filter((q) => q.difficulty === "leicht" && q.context)
       .sort(

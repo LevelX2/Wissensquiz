@@ -1,8 +1,6 @@
 import { writeStoredState } from "./fixtures";
-import { catalogCounts } from "../catalog-counts";
-import { originalQuestionId } from "../editorialSource";
-import { readFileSync } from "node:fs";
-import { test, expect, readStoredState, fetchPublishedCsv, type Page } from "./fixtures";
+
+import { test, expect, readStoredState, type Page } from "./fixtures";
 import { startRound } from "../../src/engine";
 
 test.use({ acknowledgeIncidentalSuccess: true });
@@ -21,71 +19,6 @@ async function prepareQuestion(page: Page, id: string) {
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
 }
-
-test("hält die drei Erweiterungspakete serverseitig bereit, schützt das Regieteam und erhält Antworten nach Neuladen", async ({
-  page,
-  context,
-}) => {
-  await page.clock.install({ time: new Date("2026-10-07T12:00:00+02:00") });
-  await page.goto("/");
-  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
-  const initial = await readStoredState(page);
-  expect(initial.questions).toHaveLength(catalogCounts.questions);
-  expect(initial.imports).toHaveLength(0);
-  expect(
-    initial.questions.filter((q) => originalQuestionId(q.id).startsWith("E20261007-")),
-  ).toHaveLength(2480);
-  await prepareQuestion(page, "E20261007-F-180-D");
-  await expect(page.locator(".question-card h1")).not.toContainText(
-    "Roger Waters",
-  );
-  await expect(page.locator(".question-card h1")).not.toContainText(
-    "Sean Evans",
-  );
-  await expect(page.locator(".film-data")).toHaveCount(0);
-  await page.getByRole("button", { name: "Keine Ahnung", exact: true }).click();
-  await expect(page.locator(".explanation")).toBeVisible();
-  await page.locator(".film-data > summary").click();
-  await expect(page.locator(".film-data")).toContainText(
-    "Roger Waters und Sean Evans",
-  );
-  await expect(page.locator(".film-data")).toContainText("2014");
-  await page.getByRole("button", { name: "Pause & Startseite" }).click();
-  await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await page.getByRole("button", { name: "Optionen" }).click();
-  await page.reload();
-  await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await expect(page.locator(".explanation")).toBeVisible();
-  for (const path of [
-    "/film-erweiterung-20261007-fragen.csv",
-    "/personen-erweiterung-20261007-fragen.csv",
-    "/preise-erweiterung-20261007-fragen.csv",
-  ])
-    expect(
-      await fetchPublishedCsv(page, path),
-    ).toBe(readFileSync(`public${path}`, "utf8"));
-  const final = await readStoredState(page);
-  // Issued questions acquire server presentation snapshots and year options.
-  expect(
-    final.questions.map(({ id, knowledgeId, version, metadata }) => ({
-      id,
-      knowledgeId,
-      version,
-      metadata,
-    })),
-  ).toEqual(
-    initial.questions.map(({ id, knowledgeId, version, metadata }) => ({
-      id,
-      knowledgeId,
-      version,
-      metadata,
-    })),
-  );
-  expect(final.imports).toHaveLength(0);
-  expect(
-    final.events.filter((e) => e.questionId === "E20261007-F-180-D"),
-  ).toHaveLength(1);
-});
 
 test("zeigt neue Personen mit vollständigem Namen und deren Filmdaten sowie Preisträgerdaten ausschließlich nach der Antwort", async ({
   page,

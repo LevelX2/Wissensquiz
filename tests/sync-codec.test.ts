@@ -1,5 +1,6 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../src/importer";
 import { emptyState } from "../src/model";
 import { startRound, answer, guess } from "../src/engine";
@@ -12,7 +13,7 @@ import {
   rowKey,
 } from "../src/syncCodec";
 const questions = importCsv(
-  readFileSync("public/fragen.csv", "utf8"),
+  currentCsv({ genre: "Science-Fiction" }),
 ).questions.slice(0, 12);
 const now = 1700000000000;
 function running() {

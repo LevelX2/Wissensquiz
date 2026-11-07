@@ -1,5 +1,6 @@
+import { currentCsv } from "./helpers/current-content";
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
+
 import { importCsv } from "../src/importer";
 import { emptyState, type Mode } from "../src/model";
 import {
@@ -13,7 +14,7 @@ import {
 import { importDuelView, type DuelView } from "../src/duels";
 
 const questions = importCsv(
-  readFileSync("public/fragen.csv", "utf8"),
+  currentCsv({ genre: "Science-Fiction" }),
 ).questions.slice(0, 10);
 const now = new Date("2026-10-03T12:00:00+02:00").getTime();
 function expectReplay(state: ReturnType<typeof emptyState>) {

@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { it, expect } from "vitest";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "./helpers/sync-fixture";
@@ -8,7 +9,7 @@ it("ordnet leere Personen-IDs bei Reparatur und neuer Aktivierung korrekt zu und
   const name = "20261012142833_nonempty_actor_source.sql";
   const fixture = await syncFixture(name);
   try {
-    const original = importCsv(readFileSync("public/fragen.csv", "utf8"))
+    const original = importCsv(currentCsv({ genre: "Science-Fiction" }))
       .questions[0];
     const questions = Array.from({ length: 32 }, (_, i) => ({
       ...original,

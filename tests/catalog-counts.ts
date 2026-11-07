@@ -2,7 +2,7 @@
 export const catalogCounts = {
   questions: 19303,
   goals: 18588,
-  packages: 123,
+  packages: 3,
   films: 1803,
   filmQuestions: 15599,
   familiarityEntries: 1903,

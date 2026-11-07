@@ -12,7 +12,7 @@ it("ordnet 25 unveränderte, frei lizenzierte JPEG-Porträts den vorhandenen Per
     state,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const originalPortraits = Object.values(portraits).filter(

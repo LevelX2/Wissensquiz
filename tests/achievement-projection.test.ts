@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { afterAll, beforeAll, expect, it } from "vitest";
 import { readFileSync } from "node:fs";
 import { syncFixture } from "./helpers/sync-fixture";
@@ -11,7 +12,7 @@ beforeAll(async () => {
   fixture = await syncFixture();
   await fixture.seedRanked(
     await prepareTestContent(
-      importCsv(readFileSync("public/fragen.csv", "utf8")).questions.slice(
+      importCsv(currentCsv({ genre: "Science-Fiction" })).questions.slice(
         0,
         32,
       ),
@@ -467,7 +468,7 @@ it("initialisiert die neue Projektion ohne Quellen-, Revisions- oder EXP-Änderu
   try {
     await old.seedRanked(
       await prepareTestContent(
-        importCsv(readFileSync("public/fragen.csv", "utf8")).questions.slice(
+        importCsv(currentCsv({ genre: "Science-Fiction" })).questions.slice(
           0,
           32,
         ),

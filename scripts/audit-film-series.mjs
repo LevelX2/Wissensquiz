@@ -1,4 +1,5 @@
 // Inspect the real operator catalog, including actor and award references.
+// Inspect the real operator catalog, including actor and award references.
 import { createServer } from "vite";
 import { readFile, mkdir, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
@@ -21,7 +22,7 @@ try {
     await Promise.all(
       packages.map(async (pkg) => ({
         filename: pkg.filename,
-        text: await readFile(`public${pkg.path}`, "utf8"),
+        text: await readFile(`${pkg.path}`, "utf8"),
       })),
     ),
   );

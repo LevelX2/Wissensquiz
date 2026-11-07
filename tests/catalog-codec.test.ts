@@ -1,13 +1,11 @@
+import { packages, readQuestions } from "../src/packages";
+import { currentCsv } from "./helpers/current-content";
 import { readFileSync } from "node:fs";
 import { expect, it } from "vitest";
 import { importCsv } from "../src/importer";
 import { questionSchema } from "../src/questionSchema";
 import { preparePresentation } from "../src/questionPresentation";
-import {
-  addFilmFacts,
-  prepareFactQuestion,
-  questionSnapshotMatches,
-} from "../src/filmFacts";
+import { prepareFactQuestion, questionSnapshotMatches } from "../src/filmFacts";
 import {
   decodeQuestionCatalog,
   encodeQuestionCatalog,
@@ -43,7 +41,7 @@ it("ignoriert die entfernte Merksatzspalte vor Metadaten und Versionshash und re
 
 it("entfernt exakte Metadaten-Dopplungen verlustfrei und erhält Feldreihenfolge, Originalschwierigkeit und eigene Importspalten", () => {
   const questions = importCsv(
-    readFileSync("public/fragen.csv", "utf8"),
+    currentCsv({ genre: "Science-Fiction" }),
   ).questions;
   questions[0].metadata.difficulty = "Easy";
   questions[0].metadata.custom = "Eigene Quelle";
@@ -67,9 +65,13 @@ it("entfernt exakte Metadaten-Dopplungen verlustfrei und erhält Feldreihenfolge
 
 it("erhält generierte Jahresfragen und dynamische Antwortsnapshots und weist ungültige Metadatenverweise zurück", () => {
   const questions = importCsv(
-    readFileSync("public/fragen.csv", "utf8"),
+    currentCsv({ genre: "Science-Fiction" }),
   ).questions;
-  addFilmFacts(questions);
+  questions.push(
+    ...readQuestions(readFileSync(packages[0].path, "utf8"))
+      .filter((q) => q.metadata.fact_kind === "year")
+      .slice(0, 1),
+  );
   const year = questions.find((q) => q.metadata.fact_kind === "year")!;
   const variant = prepareFactQuestion(year, year, () => 0.2);
   expect(decodeQuestionCatalog(encodeQuestionCatalog([variant]))).toEqual([

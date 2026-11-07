@@ -1,15 +1,14 @@
 import { it, expect } from "vitest";
-import { readFileSync, writeFileSync } from "node:fs";
-import { testReportPath } from "./helpers/test-report";
-import { createHash } from "node:crypto";
-import { addPackages, packages } from "../src/packages";
-import { importCsv } from "../src/importer";
+import { catalogCounts } from "./catalog-counts";
+import { readFileSync } from "node:fs";
+
+import { addPackages, packages, readQuestions } from "../src/packages";
+
 import { emptyState } from "../src/model";
 import {
   CLASSICS,
   ARTHOUSE,
   isCategory,
-  matchesCategories,
   isClassic,
   matchesTopic,
   categoryTopic,
@@ -22,69 +21,26 @@ import references from "../KI-Wissen-Wissensquiz/01 Rohquellen/Classics_Zuordnun
 
 const contents = packages.slice(0, 14).map((p) => ({
   filename: p.filename,
-  text: readFileSync(`public${p.path}`, "utf8"),
+  text: readFileSync(`${p.path}`, "utf8"),
 }));
-const original = contents.flatMap(
-  (p) => importCsv(p.text, [], p.filename).questions,
-);
+const original = contents.flatMap((p) => readQuestions(p.text));
 
-it("prüft alle Classics-Zuordnungen, erhält Texte/IDs und ergänzt Tags idempotent", () => {
-  const questions = structuredClone(original);
-  const report = applyCategoryTags(questions, CLASSICS);
-  // The two explicitly replaced Roman Holiday rows retain their category as
-  // current CSV tags; they no longer use the archived reference IDs.
-  expect(report.applied).toHaveLength(256);
-  expect(report.missing.sort()).toEqual(["ROM-L-044", "ROM-L-044-V1"]);
-  expect(report.mismatched).toEqual([]);
-  const first = JSON.stringify(questions);
-  expect(applyCategoryTags(questions, CLASSICS)).toEqual(report);
-  expect(JSON.stringify(questions)).toBe(first);
-  for (let i = 0; i < questions.length; i++) {
-    const { tags, badgeTags, ...q } = questions[i];
-    const { tags: oldTags, badgeTags: oldBadges, ...old } = original[i];
-    expect(q).toEqual(old);
-    expect(tags).toEqual(expect.arrayContaining(oldTags));
-    expect(badgeTags).toEqual(expect.arrayContaining(oldBadges));
-    expect(new Set(tags).size).toBe(tags.length);
-  }
-  const classics = questions.filter(isClassic);
-  expect(classics).toHaveLength(731);
-  expect(new Set(questions.map((q) => q.id)).size).toBe(2889);
-  const sourceChecks = references.source_files.map((ref) => {
-    const pkg = contents.find((p) => p.filename === ref.filename);
-    return {
-      filename: ref.filename,
-      available: !!pkg,
-      matches: pkg
-        ? createHash("sha256")
-            .update(
-              readFileSync(
-                `KI-Wissen-Wissensquiz/01 Rohquellen/${ref.filename}`,
-              ),
-            )
-            .digest("hex") === ref.sha256
-        : null,
-    };
-  });
-  expect(sourceChecks.filter((s) => s.available).every((s) => s.matches)).toBe(
-    true,
+it("führt Classics und Arthouse als aktuelle Attribute ohne Lieferdateien oder Herkunftsprüfungen", () => {
+  expect(original.filter(isClassic)).toHaveLength(
+    catalogCounts.classicsQuestions,
   );
-  writeFileSync(
-    testReportPath("classics-zuordnungsbericht.json"),
-    JSON.stringify(
-      {
-        ...report,
-        sourceChecks,
-        classicQuestions: classics.length,
-        classicKnowledgeGoals: new Set(classics.map((q) => q.knowledgeId)).size,
-        classicFilms: new Set(
-          classics.map((q) => q.metadata.film_title_original),
-        ).size,
-      },
-      null,
-      2,
-    ),
+  expect(original.filter((q) => isCategory(q, ARTHOUSE))).toHaveLength(
+    catalogCounts.arthouseQuestions,
   );
+  const before = structuredClone(original);
+  applyCategoryTags(original);
+  expect(original).toEqual(before);
+  const topic = categoryTopic("Alle Themen", [ARTHOUSE, CLASSICS]);
+  const union = original.filter((q) => matchesTopic(q, topic));
+  expect(new Set(union.map((q) => q.id)).size).toBe(union.length);
+  expect(
+    union.every((q) => isCategory(q, ARTHOUSE) || isCategory(q, CLASSICS)),
+  ).toBe(true);
 });
 
 it("überspringt jede abweichende Referenz und erfindet keine fehlende Frage", () => {
@@ -168,73 +124,6 @@ it("führt Sci-Fi als Genre-Alias zusammen und erhält die Quellbezeichnung", ()
   )!;
   expect(q.metadata.subdomain).toBe("Science-Fiction");
   expect(q.metadata.source_subdomain).toBe("Sci-Fi");
-});
-
-it("prüft Arthouse-Referenzen samt Quellhashes, Überschneidung und fehlenden IDs", () => {
-  const questions = structuredClone(original);
-  const report = applyCategoryTags(questions, ARTHOUSE);
-  expect(report.applied).toHaveLength(126);
-  expect(report.missing).toEqual([]);
-  expect(report.mismatched).toEqual([]);
-  const first = JSON.stringify(questions);
-  applyCategoryTags(questions, ARTHOUSE);
-  expect(JSON.stringify(questions) === first).toBe(true);
-  applyCategoryTags(questions);
-  for (const ref of artReferences.source_files) {
-    expect(
-      createHash("sha256")
-        .update(
-          readFileSync(`KI-Wissen-Wissensquiz/01 Rohquellen/${ref.filename}`),
-        )
-        .digest("hex"),
-    ).toBe(ref.sha256);
-  }
-  const art = questions.filter((q) => isCategory(q, ARTHOUSE));
-  expect(art).toHaveLength(365);
-  const overlap = questions.filter((q) =>
-    ([CLASSICS, ARTHOUSE] as const).every((c) => isCategory(q, c)),
-  );
-  expect(overlap.length).toBeGreaterThan(0);
-  const topic = categoryTopic("Alle Themen", [ARTHOUSE, CLASSICS]);
-  expect(topic).toBe("Classics + Arthouse");
-  const union = questions.filter((q) => matchesTopic(q, topic));
-  expect(union.length).toBe(731 + 365 - overlap.length);
-  expect(new Set(union.map((q) => q.id)).size).toBe(union.length);
-  expect(matchesCategories(overlap[0], [ARTHOUSE, CLASSICS])).toBe(true);
-  expect(
-    matchesTopic(overlap[0], categoryTopic(overlap[0].topic, [ARTHOUSE])),
-  ).toBe(true);
-  const missing = applyCategoryTags([], ARTHOUSE);
-  expect(missing.missing).toHaveLength(126);
-  const ref = artReferences.entries[0];
-  const changed = structuredClone(
-    original.find((q) => q.id === ref.question_id)!,
-  );
-  changed.metadata.film_year = "9999";
-  expect(applyCategoryTags([changed], ARTHOUSE).mismatched).toEqual([
-    changed.id,
-  ]);
-  expect(changed.tags).not.toContain(ARTHOUSE);
-  writeFileSync(
-    testReportPath("arthouse-zuordnungsbericht.json"),
-    JSON.stringify(
-      {
-        ...report,
-        sourceChecks: artReferences.source_files.map((r) => ({
-          filename: r.filename,
-          matches: true,
-        })),
-        arthouseQuestions: art.length,
-        arthouseKnowledgeGoals: new Set(art.map((q) => q.knowledgeId)).size,
-        arthouseFilms: new Set(art.map((q) => q.metadata.film_title_original))
-          .size,
-        overlappingClassicsQuestions: overlap.length,
-        unionQuestions: union.length,
-      },
-      null,
-      2,
-    ),
-  );
 });
 
 it("erhält Arthouse-Rundensnapshots und gemeinsame Lernidentität beim Kategorienwechsel", () => {

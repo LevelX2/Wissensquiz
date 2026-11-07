@@ -1,4 +1,5 @@
-import { readFileSync } from "node:fs";
+import { currentCsv } from "./helpers/current-content";
+
 import { describe, expect, it } from "vitest";
 import {
   answer,
@@ -11,15 +12,10 @@ import {
 import { repetitionContext, openMistakes } from "../src/errorTraining";
 import { roundSummary } from "../src/roundSummary";
 import { importCsv } from "../src/importer";
-import {
-  emptyState,
-  type AnswerEvent,
-  type Question,
-  type State,
-} from "../src/model";
+import { emptyState, type Question, type State } from "../src/model";
 import { validateBackup } from "../src/backupValidation";
 
-const catalog = importCsv(readFileSync("public/fragen.csv", "utf8")).questions;
+const catalog = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
 const qs = [...new Map(catalog.map((q) => [q.knowledgeId, q])).values()].slice(
   0,
   6,

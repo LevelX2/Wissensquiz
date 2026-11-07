@@ -1,3 +1,4 @@
+import { currentCsv } from "./helpers/current-content";
 import { catalogCounts } from "./catalog-counts";
 import facts from "../src/filmFacts.json";
 import { expect, it } from "vitest";
@@ -20,9 +21,7 @@ import {
 import { familiarityOf, selectionRule } from "../src/familiarity";
 import films from "../src/filmFamiliarity.json";
 import { validateBackup } from "../src/backupValidation";
-const questions = importCsv(
-  readFileSync("public/horror-fragen.csv", "utf8"),
-).questions;
+const questions = importCsv(currentCsv({ genre: "Horror" })).questions;
 const unique = (qs: Question[]) => [
   ...new Map(qs.map((q) => [q.knowledgeId, q])).values(),
 ];
@@ -61,7 +60,7 @@ it("ordnet alle bekannten Filmfassungen genau einmal redaktionell ein und erhäl
     );
 });
 it("startet bei Film-Ikonen, öffnet Filmgruppen unabhängig und berechnet Schwellen bei Katalogzuwachs neu", async () => {
-  const s = emptyState(questions);
+  const s = emptyState(structuredClone(questions));
   expect(
     pathQuestions(s).every(
       (q) => q.difficulty === "leicht" && familiarityOf(q) === 1,
@@ -83,10 +82,13 @@ it("startet bei Film-Ikonen, öffnet Filmgruppen unabhängig und berechnet Schwe
   });
   expect(pathQuestions(s).some((q) => familiarityOf(q) === 2)).toBe(true);
   const old = structuredClone(s);
-  s.questions.push({ ...questions[0], id: "extra", knowledgeId: "extra" });
+  s.questions.push(
+    { ...goals[0], id: "extra-1", knowledgeId: "extra-1" },
+    { ...goals[0], id: "extra-2", knowledgeId: "extra-2" },
+  );
   expect(learningPathProgress(s)("Horror").easyTarget).toBe(
     Math.ceil(
-      (unique(questions.filter((q) => q.difficulty === "leicht")).length + 1) /
+      (unique(questions.filter((q) => q.difficulty === "leicht")).length + 2) /
         2,
     ),
   );
@@ -168,7 +170,7 @@ it("prüft dynamische Halbziele aller Filmgruppen im vollständigen Bestand", ()
     s,
     packages.map((p) => ({
       filename: p.filename,
-      text: readFileSync(`public${p.path}`, "utf8"),
+      text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
   const progress = learningPathProgress(s);
@@ -244,7 +246,7 @@ it("prüft dynamische Halbziele aller Filmgruppen im vollständigen Bestand", ()
   }
 });
 it("berechnet alte Kurzfreigaben aus aktuellen sicheren Zielen neu", () => {
-  const qs = importCsv(readFileSync("public/fragen.csv", "utf8")).questions;
+  const qs = importCsv(currentCsv({ genre: "Science-Fiction" })).questions;
   const s = emptyState(qs);
   const goals = unique(qs.filter((q) => q.difficulty === "leicht")).slice(
     0,

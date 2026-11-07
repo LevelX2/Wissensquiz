@@ -1,5 +1,15 @@
 # Fragenimport – Vertrag Version 1
 
+## Aktueller Fragenbestand – 07.11.2026
+
+Die führende Redaktion liegt in `content/filmfragen.jsonl`, `content/schauspielerfragen.jsonl` und `content/preisfragen.jsonl`. Jede UTF-8-Zeile enthält genau ein vollständiges aktuelles `Question`-Objekt gemäß `src/questionSchema.ts`. Die Einteilung folgt den fachlichen Attributen: Personen-ID → Schauspieler, sonst Tag `Preisträger` → Preise, sonst Filmfragen. Stabile Fragen- und Wissensziel-IDs sowie bestehende Versionen bleiben bei einer bloßen Umorganisation unverändert.
+
+`src/packages.ts` liest diese drei Bestände ohne historische Importstufen, Dateinamen-Sonderfälle oder nachträgliche Fragengeneration. Varianten werden gegen den gesamten aktuellen Bestand geprüft. Die Reihenfolge der drei Quellen hat keinen Einfluss auf die resultierenden Inhalte. Der Spielbrowser erhält einzelne Fragen vom gemeinsamen Onlinebestand; redaktionelle Quelldateien werden nicht veröffentlicht.
+
+CSV bleibt ein Eingabeformat für neue Redaktion. `node scripts/import-current-questions.mjs <Datei.csv> --source=awards` prüft mit dem echten Parser gegen den aktuellen Gesamtkatalog. `--write` übernimmt fehlerfreie neue Fragen unmittelbar in den angegebenen Fachbestand. Keine zusätzliche Lieferkopie oder Paketregistrierung anlegen. Für Schauspieler `--source=actors`, für Filmfragen `--source=film` verwenden. Neue oder korrigierte Fragen einschließlich Quellen, Antworten, Version und Metadaten gemeinsam abnehmen.
+
+Die folgenden datierten Angaben zu früheren Lieferdateien und Importstufen sind historische Beschreibungen. Sie sind keine aktuelle Software- oder Aufbewahrungsvorgabe. Maßgeblich ist die Direktive in `AGENTS.md`.
+
 ## Aktuelle Grenze zwischen Betreiberwerkzeugen und Quiz – 25.10.2026
 
 Der CSV-Parser in `src/importer.ts` und der Paketaufbau in `src/packages.ts` werden ausschließlich von Betreiberwerkzeugen und Tests erreicht, nicht vom Browser-Einstieg `src/main.tsx`. `scripts/prepare-server-content.mjs` benötigt sie weiterhin zum Aufbau des offiziellen Serverkatalogs. Eine ersatzlose Entfernung würde die Fragenbereitstellung unterbrechen.
