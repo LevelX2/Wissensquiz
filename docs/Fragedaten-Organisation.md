@@ -4,16 +4,18 @@ Stand: 07.11.2026, lokal. Die aktuelle Nutzeranweisung ist in [AGENTS.md](../AGE
 
 ## Führender aktueller Bestand
 
-| Fachbereich | Redaktion | Fragen vor der laufenden Ergänzung |
+| Fachbereich | Redaktion | Aktuelle Fragen |
 |---|---|---:|
 | Filmfragen | `content/filmfragen.jsonl` | 15.599 |
 | Schauspieler | `content/schauspielerfragen.jsonl` | 3.424 |
-| Preisträger | `content/preisfragen.jsonl` | 280 |
-| Gesamt | Drei aktuelle Fachbestände | 19.303 |
+| Preisträger | `content/preisfragen.jsonl` | 380 |
+| Gesamt | Drei aktuelle Fachbestände | 19.403 |
 
 Eine UTF-8-Zeile enthält ein vollständiges aktuelles Frageobjekt. `src/questionSchema.ts` definiert die Felder. Fragen-IDs identifizieren Fragenfassungen; Wissensziel-IDs verbinden Varianten und ihren Lernfortschritt. Bei Änderungen am Inhalt werden Frage, Antworten, Erklärung, Quellen, Version und zugehörige Metadaten gemeinsam gepflegt.
 
-Frühere Lieferungen und Bearbeitungsstände sind über Git nachvollziehbar. Zusätzliche Lieferarchive, wellenweise Original-CSV, historische Zwischenbestände und von Lieferdateinamen abhängige Prüfstufen gehören nicht zum aktuellen Katalogaufbau. Die 123 bisherigen CSV-Lieferpakete und ihre doppelten Originalablagen wurden aus diesem Weg entfernt. Fachliche Belegquellen, aktuelle Filmdaten und Bildrechtsnachweise bleiben erhalten.
+Noch nicht übernommene fremde Redaktion bleibt Arbeitsmaterial. Die vorbereiteten 320 Fragen aus der 40-Filme-Redaktion sind kein zweiter aktueller Spielbestand und wurden nicht als abgeschlossene Lieferkopie gelöscht.
+
+Frühere Lieferungen und Bearbeitungsstände sind über Git nachvollziehbar. Zusätzliche Lieferarchive, wellenweise Original-CSV, historische Zwischenbestände und von Lieferdateinamen abhängige Prüfstufen gehören nicht zum aktuellen Katalogaufbau. Die 123 bisherigen CSV-Lieferpakete und ihre doppelten Originalablagen wurden aus diesem Weg entfernt. Auch die abschließend gefundenen 48 ungenutzten CSV-/JSON-Lieferkopien, Katalogexporte und Transport-/Leseexemplare wurden entfernt (88,8 MB). Fachliche Belegquellen, aktuelle Filmdaten und Bildrechtsnachweise bleiben erhalten.
 
 ## Aufbau und Übernahme
 
@@ -34,5 +36,7 @@ Der Browser lädt einzelne Fragen aus dem aktuellen Onlinebestand. Die redaktion
 `npm run check:questions` prüft den aktuellen Gesamtkatalog: Schema, eindeutige IDs, Variantenbezüge, Bereichszuordnung, von der Einlesereihenfolge unabhängige Inhalte, wiederholtes Einlesen, Sicherungsvalidierung und verlustfreie Metadatenkodierung. Der aktuelle Nachweis steht in [Fragedaten-Pruefung.json](Fragedaten-Pruefung.json).
 
 Bei der Umorganisation wurden sämtliche Felder der 19.303 bestehenden Fragen mit dem zuvor tatsächlich aufgebauten Katalog verglichen. Inhalte, Antworten, Quellen, Versionen und Wissensziel-IDs sind unverändert. Der über nach Fragen-ID und Objektschlüsseln sortierte Daten gebildete SHA-256 ist vor und nach der Umorganisation `5e176851d58d94879b7c874e460f8d0c8d0170c45d769fa4965e75e8e3c809fb`.
+
+Danach wurden 100 Oscar-Darstellungsfragen unmittelbar in Preisfragen ergänzt: 62 neue Wissensziele und 38 Varianten mit gemeinsamem Fortschritt. Aktuell 18.650 Ziele und 753 Variantenbezüge; alle 19.303 vorherigen Frageobjekte bleiben feldgleich erhalten. [Inhalt, Quellen und Abnahme](Preistraeger.md).
 
 Eine zusätzliche Prüfung erkannte einen bestehenden Zuordnungsfehler bei kompakten Spielstandsbelegen: Eine leere Personen-ID kann als numerischer Metadatenverweis kodiert sein und wurde als gefüllte ID behandelt. Die lokale SQL-Korrektur liest den tatsächlichen Wert im bestehenden Format. Sie ändert keine Berechtigungen oder privaten Datensätze und ist noch nicht produktiv aktiviert. Der Supabase-CLI-Advisor konnte ohne laufenden lokalen Docker-Postgres nicht ausgeführt werden; Funktionsverhalten und private Aufrufrechte werden im isolierten PGlite geprüft.

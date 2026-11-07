@@ -12,6 +12,7 @@ import actionFacts from "../docs/Genres-100-2026-10-08/Action/Filmdaten.json";
 import allGenres from "../KI-Wissen-Wissensquiz/01 Rohquellen/Alle_Genres_120_Filme_Filmdaten.json";
 import seriesRegistry from "../src/filmSeries.json";
 import seriesReview from "../docs/Filmreihen-2026-11-02/Pruefung.json";
+import awardFacts from "../src/awardFilmFacts.json";
 import genre150 from "../docs/Genres-150-2026-11-03/Filmdaten.json";
 import { FilmDataPanel } from "../src/FilmDataPanel";
 
@@ -100,6 +101,7 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
   >;
   const seen = new Map<string, string>();
   const reviewed = new Map<string, unknown>([
+    ...awardFacts.map((film) => [film.film, film.series] as const),
     ...seriesReview.films.map((film) => [film.film, film.after] as const),
     ...genre150.films.map(
       (film) =>

@@ -1,18 +1,18 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "0c9354bcd25de2da99ce649ae1dc859828683b6e2f9e96c3e099ef64c77e2aff",
+  "catalogSha256": "a84898a9665b59e985bd53f6221b3cafdb05a057af2862592c1719e1989c91e5",
   "counts": {
     "sources": 3,
-    "questions": 19303,
-    "knowledgeGoals": 18588,
+    "questions": 19403,
+    "knowledgeGoals": 18650,
     "duplicateQuestionIds": 0,
-    "questionsWithVariantReference": 715
+    "questionsWithVariantReference": 753
   },
   "areas": {
     "film": 15599,
     "actors": 3424,
-    "awards": 280
+    "awards": 380
   },
   "checks": {
     "completeSchemaValidation": true,
@@ -93,7 +93,7 @@
     },
     {
       "attributes": "awards||experte|2",
-      "count": 23
+      "count": 26
     },
     {
       "attributes": "awards||experte|3",
@@ -101,15 +101,15 @@
     },
     {
       "attributes": "awards||experte|4",
-      "count": 5
+      "count": 6
     },
     {
       "attributes": "awards||leicht|1",
-      "count": 21
+      "count": 34
     },
     {
       "attributes": "awards||leicht|2",
-      "count": 33
+      "count": 52
     },
     {
       "attributes": "awards||leicht|3",
@@ -121,19 +121,19 @@
     },
     {
       "attributes": "awards||mittel|1",
-      "count": 19
+      "count": 21
     },
     {
       "attributes": "awards||mittel|2",
-      "count": 28
+      "count": 61
     },
     {
       "attributes": "awards||mittel|3",
-      "count": 14
+      "count": 27
     },
     {
       "attributes": "awards||mittel|4",
-      "count": 9
+      "count": 11
     },
     {
       "attributes": "awards||schwer|1",
@@ -141,15 +141,15 @@
     },
     {
       "attributes": "awards||schwer|2",
-      "count": 29
+      "count": 35
     },
     {
       "attributes": "awards||schwer|3",
-      "count": 21
+      "count": 28
     },
     {
       "attributes": "awards||schwer|4",
-      "count": 14
+      "count": 15
     },
     {
       "attributes": "film|Abenteuer|leicht|1",

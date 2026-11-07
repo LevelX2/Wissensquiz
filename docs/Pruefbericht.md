@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 07.11.2026 – 100 Oscar-Darstellungsfragen fertiggestellt, lokal
+
+100 Fragen unmittelbar im aktuellen Preisfragenbestand ergänzt: 32 leicht, 50 mittel, 14 schwer, vier Experte; 62 neue Wissensziele und 38 Varianten. Alle gehören zu Preisträger, auch bei Person/Rolle im Fragetext. Vier unterschiedliche Optionen und eindeutige Lösung je Frage, gespeicherte Lösungsschlüssel je 25 A/B/C/D. Kategorien, Verleihungsjahre und Sieger an den offiziellen Academy-Jahreslisten geprüft; konkrete Filmreferenzen in jeder Frage. Elf fehlende Filmfassungen mit geprüften Titeln und Reihenabgrenzung ergänzt, 46 Filmbekanntheiten begründet. Metadaten für Preisfragen mit mehreren Filmverweisen vervollständigt; vorhandene Referenzdaten zu „The Holdovers“ auch für Preisfragen aufgelöst und den uneinheitlichen Identitätsschlüssel von „Adaptation.“ direkt berichtigt.
+
+Echter Importer: alle 100 akzeptiert, keine Ausschlüsse, Duplikate, Warnungen oder Variantenkonflikte. Alle Felder der 19.303 vorherigen Frageobjekte unverändert nachgewiesen. Aktuell 19.403 Fragen / 18.650 Ziele / 753 Variantenbezüge. Schema, Bereichszuordnung, Reihenfolgeunabhängigkeit, wiederholtes Einlesen und verlustfreier Sicherungs-/Metadatenrücklauf erfolgreich. 50 gezielte Tests in zehn Dateien sowie Metadaten/TypeScript erfolgreich. Tatsächliche App-Komponenten für alle 100 vor der Antwort ohne verratene Lösung, Filmdaten, Quellen oder Alternativtitelhinweise gerendert; alle sechs Mehrfachverweise vollständig mit getrennten Filmjahren in den Filmdaten geprüft. Diffprüfung erfolgreich. Der vollständige 449er-Lauf und Build des vorherigen Bereinigungsblocks gelten für dessen Stand; nach den Ergänzungen gezielt geprüft, kein erneuter vollständiger Veröffentlichungsprüflauf.
+
+48 weitere ungenutzte Lieferkopien, CSV-Katalogexporte, JSON-Fragenkopien, Leseexemplare und Transportarchiv entfernt (88.827.817 Bytes). Technische Verwendungen ausgeschlossen; aktive Fachbestände, Filmdaten und Belegquellen erhalten. Vorübergehende 100er-Redaktion und eigene Prüfhilfen nach Übernahme entfernt. Nur lokal; keine Veröffentlichung, kein Push und keine produktive SQL-Aktivierung. [Aktueller Preisbereich](Preistraeger.md).
+
 ## 07.11.2026 – Aktueller Katalog ohne Lieferhistorie, lokal
 
 - 123 bisherige CSV-Lieferpakete durch drei führende Fachbestände unter `content/` ersetzt. Historische Importstufen, Paketnamensonderfall und Fragengeneration beim Einlesen entfernt; überholte Liefer- und Archivprüfungen durch aktuelle Katalogprüfungen ersetzt.

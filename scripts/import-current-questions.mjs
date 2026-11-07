@@ -56,7 +56,23 @@ try {
     assert(familiarityOf(q), `${q.id}: Bekanntheit fehlt`);
     const display = preparePresentation(q);
     if (source !== "actors") {
-      assert.equal(display.films.length, 1, `${q.id}: Filmdaten fehlen`);
+      const references =
+        source === "awards"
+          ? (q.metadata.film_refs?.split(";").filter(Boolean) ?? [])
+          : [];
+      assert.equal(
+        display.films.length,
+        references.length || 1,
+        `${q.id}: Filmdaten fehlen`,
+      );
+      for (const reference of references) {
+        assert(
+          display.films.some(
+            ({ data }) => `${data.originalTitle}|${data.year}` === reference,
+          ),
+          `${q.id}: Filmdaten für ${reference} fehlen`,
+        );
+      }
       assert.equal(
         display.films[0].data.originalTitle,
         q.metadata.film_title_original,

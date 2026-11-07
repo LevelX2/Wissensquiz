@@ -121,7 +121,9 @@ function resolveFilmData(q: Question, reference?: string) {
     genre100ByFilm.get(key) ??
     genre150ByFilm.get(key);
   if (!newer) {
-    const reference = expansionReferenceByFilm.get(key);
+    const reference =
+      expansionReferenceByFilm.get(key) ??
+      actorFamiliarityReferenceByFilm.get(key);
     if (!reference) return undefined;
     return {
       originalTitle: reference.original_title,

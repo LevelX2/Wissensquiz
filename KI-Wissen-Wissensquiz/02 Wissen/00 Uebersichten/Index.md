@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [380 aktuelle Preisfragen: 100 Oscar-Darstellungsfragen mit vielfältigen Grundformen ergänzt – 07.11.2026, lokal](../../../docs/Preistraeger.md)
+
 - [Aktueller Fragenkatalog statt Pakethistorie: drei Fachbestände, stabile IDs und attributbasierte Auswahl – 07.11.2026, lokal](../../../docs/Fragedaten-Organisation.md)
 
 - [Externe Alternativtitel. 428 Ergänzungen für 412 Filme und sechs ausgewählte Hinweise – 06.11.2026](../../../docs/Filmwissen-und-Filmdaten.md#externe-alternativtitel-teilrückgabe-vom-06112026)

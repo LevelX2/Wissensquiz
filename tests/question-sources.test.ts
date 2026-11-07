@@ -44,7 +44,7 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
     catalogCounts.filmQuestions,
   );
   expect(pool.filter((q) => questionSourceOf(q) === "awards")).toHaveLength(
-    280,
+    380,
   );
   expect(pool.filter((q) => questionSourceOf(q) === "actors")).toHaveLength(
     3424,

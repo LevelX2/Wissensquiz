@@ -1,6 +1,4 @@
-// Read-only inventory of the current official package catalog, including film
-// references shown in actor/award questions. No account or production access.
-// Read-only inventory of the current official package catalog, including film
+// Read-only inventory of the current official catalog, including film
 // references shown in actor/award questions. No account or production access.
 import { createServer } from "vite";
 import { readFile, writeFile } from "node:fs/promises";

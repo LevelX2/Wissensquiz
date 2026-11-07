@@ -5,6 +5,7 @@ import { filmDetails } from "./filmDetails";
 import { actorPresentation, presentedQuestion } from "./actorEditorial";
 import { yearPresentation } from "./yearEditorial";
 import { familiarityOf } from "./familiarity";
+import { questionSourceOf } from "./filters";
 import { presentationSchema } from "./questionSchema";
 import { recognitionVariants, personPortrait } from "./portraitCatalog";
 import { filmPoster, type FilmPosterManifest } from "./filmPosters";
@@ -17,9 +18,10 @@ export function preparePresentation(
     year = yearPresentation(q),
     director = directorExplanation(q),
     film = filmDetails(q);
-  const references = q.metadata.question_image_id
-    ? q.metadata.film_refs?.split(";").filter(Boolean)
-    : actor?.films;
+  const references =
+    q.metadata.question_image_id || questionSourceOf(q) === "awards"
+      ? q.metadata.film_refs?.split(";").filter(Boolean)
+      : actor?.films;
   const films = (references?.length ? references : [undefined]).flatMap(
     (reference) => {
       const data = filmData(q, reference);
