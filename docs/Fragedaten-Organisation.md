@@ -1,6 +1,6 @@
 # Organisation der Fragedaten
 
-Stand: 07.11.2026, lokal. Die aktuelle Nutzeranweisung ist in [AGENTS.md](../AGENTS.md#aktueller-fragenkatalog-statt-pakethistorie) verankert.
+Stand: 07.11.2026, **seit Version 88 veröffentlicht**. Die aktuelle Nutzeranweisung ist in [AGENTS.md](../AGENTS.md#aktueller-fragenkatalog-statt-pakethistorie) verankert. [Veröffentlichung und Live-Abnahme](Veroeffentlichung-2026-11-07-Version-88.json).
 
 ## Führender aktueller Bestand
 
@@ -41,4 +41,4 @@ Bei der Umorganisation wurden sämtliche Felder der 19.303 bestehenden Fragen mi
 
 Danach wurden 100 Oscar-Darstellungsfragen unmittelbar in Preisfragen ergänzt: 62 neue Wissensziele und 38 Varianten mit gemeinsamem Fortschritt. Aktuell 18.650 Ziele und 753 Variantenbezüge; alle 19.303 vorherigen Frageobjekte bleiben feldgleich erhalten. [Inhalt, Quellen und Abnahme](Preistraeger.md).
 
-Eine zusätzliche Prüfung erkannte einen bestehenden Zuordnungsfehler bei kompakten Spielstandsbelegen: Eine leere Personen-ID kann als numerischer Metadatenverweis kodiert sein und wurde als gefüllte ID behandelt. Die lokale SQL-Korrektur liest den tatsächlichen Wert im bestehenden Format. Sie ändert keine Berechtigungen oder privaten Datensätze und ist noch nicht produktiv aktiviert. Der Supabase-CLI-Advisor konnte ohne laufenden lokalen Docker-Postgres nicht ausgeführt werden; Funktionsverhalten und private Aufrufrechte werden im isolierten PGlite geprüft.
+Eine zusätzliche Prüfung erkannte einen bestehenden Zuordnungsfehler bei kompakten Spielstandsbelegen: Eine leere Personen-ID kann als numerischer Metadatenverweis kodiert sein und wurde als gefüllte ID behandelt. Die seit Version 88 produktive SQL-Korrektur liest den tatsächlichen Wert im bestehenden Format. Private Aufrufrechte, leere Suchpfade und fünf konkrete Decoderfälle sind lokal und nativ geprüft. Die Aktivierung hat im konsistenten Snapshot 46 Quelltabellen unverändert erhalten; der Serverbestand enthält 19.403 Fragen / 18.650 Ziele, die Bereitstellung ist leer. Die nativen Security-/Performance-Advisors zeigen keine neuen Befunde. Die lokale gemeinsame Git-Historie bleibt erhalten; für die Sites-Quellgrenze dient ein identischer aktueller Quellbaum auf dem bestehenden Hostingbranch.

@@ -1,0 +1,321 @@
+{
+  "version": 88,
+  "sourceBranch": "main",
+  "sourceCommit": "ccb7a544976e7d541e4a53da8ff37465bdd3006b",
+  "mainSourceCommit": "84ba7d450e51f6db0d8ed4717171ceef94f1bc8a",
+  "sourceTree": "c3eea51952cd3263fb481577e76759c23f84159e",
+  "sourceTreeMatchesMain": true,
+  "sourceTransport": "Aktueller Quellsnapshot auf bestehender Sites-Historie; lokale Main-Historie unverändert.",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-11-07T22:44:14.892445+00:00",
+  "publishedAtBerlin": "07.11.2026, 23:44:14",
+  "timezone": "Europe/Berlin",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "githubPush": false,
+  "changes": [
+    "100 individuelle Oscarfragen unmittelbar im Preisbereich ergänzt; 62 neue globale Ziele und 38 Varianten mit gemeinsamen Wissensziel-IDs.",
+    "Aktueller Katalog aus drei Fachbereichen und 14 nach Attributen zugeordneten Dateien; zwölf Genredateien ersetzen die zu große gemeinsame Filmdatei.",
+    "Zusätzliche Lieferarchive und historische Importstufen entfernt; bestehende Fragen- und Wissensziel-IDs erhalten.",
+    "Filmreise zieht zuerst den Bereich und danach dessen freigespielte Bekanntheitsgruppe.",
+    "Alternativtitel, ausgewählte Zweittitelhinweise und vollständige Filmdaten für Preisfragen mit mehreren Filmverweisen veröffentlicht.",
+    "Leere Personen-IDs aus dem aktuellen kompakten Metadatenformat korrekt dekodiert."
+  ],
+  "data": {
+    "editorialAreas": 3,
+    "sourceFiles": 14,
+    "filmGenres": 12,
+    "questions": 19403,
+    "goals": 18650,
+    "variantReferences": 753,
+    "priceQuestions": 380,
+    "addedQuestions": 100,
+    "addedGoals": 62,
+    "newVariants": 38,
+    "existingQuestionObjectsUnchanged": 19303,
+    "splitFilmQuestionsUnchanged": 15599,
+    "reset": false,
+    "catalogSha256": "a84898a9665b59e985bd53f6221b3cafdb05a057af2862592c1719e1989c91e5"
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_8510798dbea88191aaf026a97a12ff15",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 88,
+    "source": {
+      "commit_sha": "ccb7a544976e7d541e4a53da8ff37465bdd3006b"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_000000000ed4820a98f4668a6ec7d6a1",
+      "content_hash": "sha256:7f9cc31e4df786d477c126fe52712e030ea1763b2325bb04c2aa8d49b6941348",
+      "size_bytes": 78069760,
+      "file_count": 955
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6aefa9ae86b48191b9e4cf8331ed54cb",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_8510798dbea88191aaf026a97a12ff15",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-07T22:44:14.892445+00:00"
+  },
+  "server": {
+    "content": {
+      "hash": "216ee39ea4af02501b7b9e2d252ef4ddfef89c7ff6603b2ea5ad6bb4cacc8e72",
+      "areas": 14,
+      "goals": 18650,
+      "genres": [
+        "Abenteuer",
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Komödie",
+        "Martial Arts & Asia-Film",
+        "Musik",
+        "Rom-Com",
+        "Science-Fiction",
+        "Thriller",
+        "Western"
+      ],
+      "questions": 19403
+    },
+    "staging": 0,
+    "duelQuestions": 18526,
+    "familiarityFilms": 1949,
+    "repeatableReadSnapshot": true,
+    "privateSourceTablesUnchanged": 46,
+    "sourceChecks": {
+      "catalog": {
+        "goals": 18650,
+        "awards": 380,
+        "questions": 19403,
+        "newOscarQuestions": 100,
+        "newOscarWrongSource": 0
+      },
+      "decoder": {
+        "cases": 5,
+        "passed": true
+      },
+      "functions": [
+        {
+          "name": "select_queue",
+          "private": true,
+          "matches_local": true,
+          "security_invoker": true,
+          "empty_search_path": true
+        },
+        {
+          "name": "packed_question_person_id",
+          "private": true,
+          "matches_local": true,
+          "security_invoker": true,
+          "empty_search_path": true
+        },
+        {
+          "name": "refresh_secure_goal",
+          "private": true,
+          "matches_local": true,
+          "security_invoker": true,
+          "empty_search_path": true
+        }
+      ],
+      "activationPrivate": true
+    },
+    "migration": {
+      "version": "20261107223903",
+      "name": "journey_area_and_question_source_release_88"
+    },
+    "localMigrationSources": [
+      "20261104193710_journey_area_before_familiarity.sql",
+      "20261107190329_current_question_source_attributes.sql"
+    ],
+    "migrationProof": {
+      "privateSourceTablesUnchanged": 46,
+      "repeatableReadSnapshot": true,
+      "verifiedByAtomicGuard": true
+    },
+    "stagingParts": 190,
+    "stagingHashVerifiedBeforeActivation": true,
+    "activationProofUsesTransactionLocalSettings": true,
+    "privateMutationGuardTestedWithRollback": true,
+    "newUnexpectedSecurityAdvisorFindings": 0,
+    "newPerformanceAdvisorFindings": 0
+  },
+  "nativeReleaseMetadataWrittenAndSeparatelyReadBack": true,
+  "checks": {
+    "unitTests": 455,
+    "unitFiles": 74,
+    "unitDurationSeconds": 116.02921118164062,
+    "finalFullUnitRunSuccessful": true,
+    "metadataAndTypescript": true,
+    "build": true,
+    "diffCheck": true,
+    "dependencyChanges": false,
+    "auditRequired": false,
+    "browser": {
+      "planned": 408,
+      "completed": 408,
+      "passed": 407,
+      "skipped": 1,
+      "flaky": 0,
+      "fullRunStats": {
+        "startTime": "2026-11-07T20:10:53.588Z",
+        "duration": 8703982.877,
+        "expected": 400,
+        "skipped": 1,
+        "unexpected": 7,
+        "flaky": 0
+      },
+      "focusedStats": [
+        {
+          "startTime": "2026-11-07T20:42:39.013Z",
+          "duration": 74327.292,
+          "expected": 2,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "startTime": "2026-11-07T21:06:22.485Z",
+          "duration": 248706.046,
+          "expected": 9,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "startTime": "2026-11-07T22:08:25.810Z",
+          "duration": 93640.87299999999,
+          "expected": 1,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "startTime": "2026-11-07T22:36:48.852Z",
+          "duration": 38315.818999999996,
+          "expected": 1,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        }
+      ],
+      "focusedChecks": 13,
+      "repairedCases": [
+        {
+          "project": "webkit-mobile",
+          "file": "duel-performance.spec.ts",
+          "title": "zeigt die bestätigte Antwort ohne erneute Katalogkopie",
+          "resolved": true
+        },
+        {
+          "project": "chromium",
+          "file": "error-training.spec.ts",
+          "title": "Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch nach Neuladen",
+          "resolved": true
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "error-training.spec.ts",
+          "title": "Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch nach Neuladen",
+          "resolved": true
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "play-entry.spec.ts",
+          "title": "kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar",
+          "resolved": true
+        },
+        {
+          "project": "chromium",
+          "file": "success-celebration.spec.ts",
+          "title": "Nur erstes Zehner-Abzeichen bestätigen; Ton an",
+          "resolved": true
+        },
+        {
+          "project": "firefox",
+          "file": "success-celebration.spec.ts",
+          "title": "Nur erstes Zehner-Abzeichen bestätigen; Ton an",
+          "resolved": true
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "success-celebration.spec.ts",
+          "title": "Nur erstes Zehner-Abzeichen bestätigen; Ton an",
+          "resolved": true
+        }
+      ],
+      "unresolved": [],
+      "globalErrors": [],
+      "verifiedAt": "2026-11-07T22:38:38.123Z"
+    },
+    "testRepairs": [
+      "Gemeinsame Testdatenhilfe liest alle aktuellen Genredateien statt nur der ersten Datei.",
+      "Lernstufentest wählt Sci-Fi ausdrücklich aus; Erfolgsfeier prüft genau fünf vollständig gelernte Sci-Fi-Themen.",
+      "WebKit-Checkboxabwahl und Duellreaktion im identischen Stand gezielt erfolgreich nachgeprüft."
+    ],
+    "duelWebKitLocalMs": 248,
+    "duelLocalLimitMs": 250
+  },
+  "archive": {
+    "files": 955,
+    "buildFiles": 954,
+    "bytes": 77306277,
+    "transportBytes": 75126218,
+    "sha256": "2a2999147c0e22ce2662900aa5bec90ae330deb1b7986162b5f623aa18f0c7a1",
+    "allBuildFilesByteEqual": true,
+    "onlyBuildAndHostingManifest": true
+  },
+  "publicFiles": {
+    "checked": 953,
+    "expected": 953,
+    "failures": [],
+    "htmlStatus": 200,
+    "htmlHasExpectedAssets": true,
+    "indexStatus": 307,
+    "indexLocation": "/",
+    "releaseRpcStatus": 200,
+    "releaseRows": [
+      {
+        "version": 88,
+        "published_at": "2026-11-07T22:44:14.892445+00:00"
+      }
+    ],
+    "directMetadataStatus": 401,
+    "allFileHashesMatchBuild": true,
+    "completedAt": "2026-11-07T22:45:42.311Z"
+  },
+  "limitations": [
+    "Physische iPhone- und Lautstärkeabnahme nicht Teil dieses Nachweises; Windows-WebKit verwendet die vorhandene Audio-API-Simulation."
+  ],
+  "cleanup": {
+    "completed": true,
+    "removedFiles": 11301,
+    "removedBytes": 1029148147,
+    "ownAttributesCleared": 5,
+    "junctionsRemoved": 2,
+    "rootScreenshotsRemoved": 4,
+    "dependenciesPreserved": true,
+    "originalPublicMetadataPreserved": true,
+    "publicMetadataFilesCompared": 234,
+    "foreignMifuneConfigurationsHashUnchanged": true,
+    "foreignRootTestResultsPreserved": true,
+    "sharedGitObjectsReferenced": true,
+    "gitAlternatesNotFollowed": true,
+    "ownedServersStopped": true,
+    "remainingOwnArtifacts": [],
+    "completedAt": "2026-11-07T23:00:25.417Z"
+  }
+}

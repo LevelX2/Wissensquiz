@@ -1,12 +1,14 @@
 # Wissensindex
 
-- [380 aktuelle Preisfragen: 100 Oscar-Darstellungsfragen mit vielfältigen Grundformen ergänzt – 07.11.2026, lokal](../../../docs/Preistraeger.md)
+- [Version 88 veröffentlicht: 100 neue Oscarfragen, aktueller Katalog mit 19.403 Fragen, Filmreise und Alternativtitel – 07.11.2026](../../../docs/Veroeffentlichung-2026-11-07-Version-88.json)
 
-- [Aktueller Fragenkatalog statt Pakethistorie: drei Fachbestände, stabile IDs und attributbasierte Auswahl – 07.11.2026, lokal](../../../docs/Fragedaten-Organisation.md)
+- [380 aktuelle Preisfragen: 100 Oscar-Darstellungsfragen mit vielfältigen Grundformen – seit Version 88 veröffentlicht](../../../docs/Preistraeger.md)
+
+- [Aktueller Fragenkatalog statt Pakethistorie: drei Fachbereiche in 14 Dateien, stabile IDs und attributbasierte Auswahl – seit Version 88](../../../docs/Fragedaten-Organisation.md)
 
 - [Externe Alternativtitel. 428 Ergänzungen für 412 Filme und sechs ausgewählte Hinweise – 06.11.2026](../../../docs/Filmwissen-und-Filmdaten.md#externe-alternativtitel-teilrückgabe-vom-06112026)
 
-- [Filmreise lokal korrigiert: Bereich vor Bekanntheitsgruppe, gleiche Bereichschance trotz zusätzlicher Freigaben – 04.11.2026, noch nicht veröffentlicht](../../../docs/Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele)
+- [Filmreise: Bereich vor Bekanntheitsgruppe, gleiche Bereichschance trotz zusätzlicher Freigaben – seit Version 88 aktiv](../../../docs/Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele)
 
 - [Genre-Häufung in der Filmreise: frühe Martial-Arts-Gruppenfreigabe und Vorrang der Bekanntheitsgruppe; konkrete Runde noch nicht zugeordnet – 04.11.2026](../../../docs/Filmreise-Freischaltung-2026-10-11.md#mögliche-genre-häufung-durch-gruppenfreigaben--04112026)
 
@@ -17,7 +19,7 @@
 
 - [Version 87 veröffentlicht: alle zwölf Filmgenres ab 150 Filmen; 501 Ergänzungen / 4.008 Fragen, 19.303 Fragen insgesamt – 03.11.2026](../../../docs/Veroeffentlichung-2026-11-03-Version-87.json)
 
-- [Filmreihen vollständig abgeglichen: 2.953 Filmidentitäten, 624 mit Teilnummer, keine benannte Reihe ohne Nummer – 02.11.2026, lokal](../../../docs/Filmreihen-2026-11-02/Pruefbericht.md)
+- [Filmreihen vollständig abgeglichen: 2.953 Filmidentitäten, 624 mit Teilnummer, keine benannte Reihe ohne Nummer – im veröffentlichten Stand enthalten](../../../docs/Filmreihen-2026-11-02/Pruefbericht.md)
 
 - [Version 86: Duellfeedback, unabhängige Runden, zehn offene Spiele und direkte Themenwahl veröffentlicht – 01.11.2026](../../../docs/Veroeffentlichung-2026-11-01-Version-86.json)
 - [Duellablauf seit Version 86: sofortige Antwortfarben, unabhängige Runden, zehn offene Spiele, Themenwahl mit direkter Suche und klare Rundenstände – 01.11.2026](../../../docs/Asynchrone-Filmduelle.md#duellablauf-und-übersicht--01112026-lokal)

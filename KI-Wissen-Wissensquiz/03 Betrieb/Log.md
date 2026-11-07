@@ -2943,3 +2943,17 @@ Nach abschließender Zuordnung bleiben die noch nicht in die App übernommenen 3
 #### 07.11.2026 – Filmfragen nach aktuellem Genre aufgeteilt
 
 Bei der ausdrücklich beauftragten Veröffentlichung wies Sites das gemeinsame Filmfragen-Git-Objekt mit 46.457.606 Bytes wegen der 32-MiB-Dateigrenze ab. Alle 15.599 Filmfragen zeilengetreu auf zwölf aktuelle Genredateien verteilt; drei Fachbereiche, 14 aktuelle Dateien, weiterhin 19.403 Fragen / 18.650 Ziele mit unverändertem Katalog-SHA-256. Importer und Validierung folgen denselben Attributen. Sechs gezielte Katalogtests, Fragedatencheck und Metadaten/TypeScript erfolgreich. Lokale Git-Historie bleibt erhalten; der Sites-Transfer benötigt einen aktuellen Quellsnapshot ohne die abgewiesenen großen Zwischenobjekte. Zentrale Browserabnahme und Veröffentlichung noch in Arbeit.
+
+
+#### 07.11.2026 – Version 88 veröffentlicht und live abgenommen
+
+Auf ausdrücklichen Auftrag um 23:44:14 Uhr Europe/Berlin öffentlich veröffentlicht: 100 neue Oscarfragen vollständig im Preisbereich, aktueller Katalog 19.403 Fragen / 18.650 Ziele / 380 Preisfragen. Drei Fachbereiche in 14 aktuellen Dateien; zwölf Genre-Dateien halten die Filmfragen unter der Sites-Grenze. Alle 19.303 vorherigen Fragen und Lernidentitäten erhalten. Filmreise zieht Bereich vor Bekanntheitsgruppe; Alternativtitel und Mehrfach-Filmverweise bei Preisen enthalten.
+
+455 Logiktests in 74 Dateien, Metadaten/TypeScript, Build und Diffprüfung erfolgreich. Vollständiger Browserlauf: 400 bestanden, sieben Befunde und ein vorgesehener Skip. Zwei Testdatenannahmen korrigiert; 13 gezielte Browserfälle einschließlich unverändertem WebKit-Einstieg und Duellreaktion erfolgreich. Damit 407 unterschiedliche Fälle bestanden, ein Skip, keine offenen Befunde. Duellreaktion im gezielten Nachlauf 248 ms bei unveränderter 250-ms-Grenze. Keine Abhängigkeitsänderung.
+
+Native Migration 20261107223903_journey_area_and_question_source_release_88 und aktueller Katalog atomar aktiviert; 46 Quelltabellen in beiden konsistenten Snapshots unverändert, Bereitstellung leer. Alle 100 neuen Oscarfragen als Preisfragen bestätigt, 18.526 Duellfragen und 1.949 Filmbekanntheiten. Drei Funktionskörper, private Rechte und fünf Decoderfälle geprüft; keine neuen Advisor-Befunde.
+
+Main-Stand 84ba7d450e51f6db0d8ed4717171ceef94f1bc8a mit identischem Quellbaum als Sites-Snapshot ccb7a544976e7d541e4a53da8ff37465bdd3006b übertragen; lokale Main-Historie erhalten. 954 Build-Dateien bytegleich zum Browserbuild und Archiv, alle 953 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich. Veröffentlichungszeit separat gespeichert, unabhängig und anonym bestätigt; direkter Tabellenzugriff 401. Öffentlicher Zugriff public, Revision 2 und Adresse erhalten. Kein GitHub-Push oder Spielstandreset. [Veröffentlichungsnachweis](../../docs/Veroeffentlichung-2026-11-07-Version-88.json).
+
+
+Bereinigung abgeschlossen am 08.11.2026, 00:00:25 Europe/Berlin: eigene Veröffentlichungskopien, Builds, SQL-Transportteile, Prüfberichte, Archiv und vier Root-Screenshots entfernt; Abwesenheit bestätigt (11.301 Dateien / 1.029.148.147 Bytes). Beide Abhängigkeitsverknüpfungen separat getrennt, fünf eigene Attribute bereinigt, Git-Alternativen nicht verfolgt. Gemeinsame Abhängigkeiten, 234 geprüfte öffentliche Originalmetadaten, fremde Root-Prüfergebnisse und beide Mifune-Konfigurationen unverändert erhalten; keine eigenen Prüfserver oder größeren Release-Artefakte verblieben.

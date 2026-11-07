@@ -1,5 +1,7 @@
 # Jahresfragen, Regiefragen und Filmdaten
 
+Aktueller Veröffentlichungsstand: Die abgenommenen Alternativtitel- und Reihenergänzungen sind in **Version 88 vom 07.11.2026** enthalten. Die datierten Einzelabnahmen nennen ihre jeweiligen damaligen Bestände. [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-07-Version-88.json).
+
 ## Externe Alternativtitel, Teilrückgabe vom 06.11.2026
 
 Die [unveränderte Rückgabe](../KI-Wissen-Wissensquiz/01%20Rohquellen/Wissensquiz_Alternativtitel_Rest_gepruefte_Filme.json) liefert 1.450 eindeutige Filmidentitäten aus den Katalognummern 201 bis 3.389. Davon meldet sie 458 mit Fund, 960 ohne weiteren belegten Titel und 32 mit offenen Fragen. `complete` gilt für den Inhalt dieses Pakets. In der erwarteten Restmenge fehlen 1.739 Nummern. Das Paket mit den ersten 200 Filmen wird getrennt behandelt.
@@ -8,7 +10,7 @@ Alle Nummern, Haupttitel und Schlüssel stimmen mit der Filmliste überein. Bei 
 
 Sechs Filme erhalten einen ausgewählten Hinweis unter der Frage. Die Titel sind Spirited Away, Howl’s Moving Castle, Seven Samurai, The Big Boss, Sie nannten ihn Knochenbrecher und Krieg der Sterne. Der bisherige Hinweis Superfighter 3 gehört ebenfalls zum Register. The Handmaiden steht ausschließlich in den Filmdaten, weil der englische Titel die gesuchte Stellung als Dienstmädchen verraten würde. Die übrigen geprüften Alternativtitel erscheinen unter „Filmdaten → Weitere Titel“. Maßgeblich ist die Werkidentität aus dem Katalog. Bei offenen Schnittfassungen wie China Swordsman und Swordsman II bleibt die Zuordnung zur späteren Klärung in der Rohquelle. [Krieg der Sterne](https://www.bpb.de/lernen/filmbildung/304756/star-wars-krieg-der-sterne/), [Spirited Away](https://gkids.com/films/spirited-away/), [Die Taschendiebin / The Handmaiden](https://fiwi-server2.ub.uzh.ch/browserecord_sub.php?-action=browse&-recid=50114).
 
-Die Übernahme ist lokal. [Prüfnachweis](Pruefbericht.md#06112026--externe-alternativtitel-teilrückgabe).
+Die Übernahme ist seit Version 88 veröffentlicht. [Prüfnachweis](Pruefbericht.md#06112026--externe-alternativtitel-teilrückgabe).
 
 ## Alternativtitel – 04.11.2026, lokal
 
@@ -18,7 +20,7 @@ Auf Nutzerhinweis zum Film **Zwei Schlitzohren in der Knochenmühle (1979)** wur
 
 Im Fragetext steht der geläufigste eindeutige Titel. Bei zwei ähnlich geläufigen Titeln kann genau ein redaktionell mit `showInQuestion: true` ausgewählter Zweittitel vor der Antwort klein unter dem Fragetext stehen. Der Film muss bereits im Fragetext genannt sein. Bei einer Überschneidung zwischen Titeln und Antwortoptionen bleibt der Hinweis verborgen. Der erste Versuch zeigt „Auch bekannt als ‚Superfighter 3‘“ zur Frage über Zwei Schlitzohren in der Knochenmühle. Bei der Auflösung stehen sämtliche Alternativtitel unter „Filmdaten → Weitere Titel“ mit ihrer Einordnung und Quellen. Bei Personenfragen führt der jeweilige Filmverweis zu diesen Filmdaten. Die Lösungswahl je Frage oder Rundenende bestimmt den Zeitpunkt.
 
-Die Erweiterung läuft über die vorhandene Anzeigevorbereitung und das Filmschema, einschließlich referenzierter Filmdaten. Keine Änderung an Roh-CSV, Fragen, Antworten, Wissensziel-IDs, Versionen oder Spielständen; keine Migration oder zusätzliche Altstandsauflösung. Eine spätere Veröffentlichung muss die Anzeigevorbereitungen im Onlinekatalog mitführen.
+Die Erweiterung läuft über die vorhandene Anzeigevorbereitung und das Filmschema, einschließlich referenzierter Filmdaten. Keine Änderung an Roh-CSV, Fragen, Antworten, Wissensziel-IDs, Versionen oder Spielständen; keine Migration oder zusätzliche Altstandsauflösung. Seit Version 88 enthält auch der produktive Onlinekatalog die geprüften Anzeigevorbereitungen.
 
 Quellen am 04.11.2026: [Splendid als deutscher Anbieter](https://www.splendid-ag.com/superfighter-3?view=home-entertainment) führt Fearless Hyena, Der Superfighter III und den bisherigen Haupttitel mit Originaltitel und Jahr (vollständiger verfügbarer Webtreffer; Direktabruf mit Zeitüberschreitung). [DTM-Produktseite der Nameless-Ausgabe](https://dtmshop.dtm.at/FEARLESS-HYENA-DOUBLE-FEATURE-SUPERFIGHTER-2-3-Blu-Ray-2Discs-Cover-B-Mediabook-Limited-500-Edition/3477280) nennt ausdrücklich The Fearless Hyena und Superfighter 3; [Criterion](https://www.criterion.com/films/29551-the-fearless-hyena) bestätigt internationalen Titel und Filmjahr. Deutsche Vermarktungsnummer 3 ändert die belegte ursprüngliche Reihenposition 1 nicht. Nicht belegte weitere Titel werden nicht übernommen.
 
@@ -30,7 +32,7 @@ Auf ausdrücklichen Nutzerauftrag alle 2.953 angezeigten Filmidentitäten einsch
 
 624 Filmidentitäten haben eine nummerierte Reihe, 2.329 keine belegte Zuordnung. 45 leere Nummern geklärt, 326 fehlende Reihen ergänzt, sechs irreführende Angaben entfernt; keine benannte Reihe ohne Nummer und keine widersprüchlichen Angaben derselben Filmidentität mehr. „Keine Reihe hinterlegt“ behauptet weiterhin keine endgültige Einzelstellung des Films. Zählung innerhalb der ausdrücklich benannten Folge; Vorgeschichten, Neustarts, Ableger, Themenzyklen und abweichende Erzählordnungen sind bei Bedarf erläutert.
 
-Die Mumie 1/2/3, Mad Max 1/2/4, die beiden „Auf der Jagd …“-Filme 1/2 und Top Gun/Maverick 1/2 ausdrücklich bestätigt. Fragen, Identitäten, Antworten und private Spielstände erhalten. 44 gezielte Tests mit abschließenden Nachprüfungen, tatsächliche React-Ausgabe aller 624 nummerierten Identitäten und vollständiger Katalogabgleich erfolgreich. **Noch nicht veröffentlicht oder produktiv im Katalog aktiviert.** [Ursache, Quellen, Abnahme und Grenzen](Filmreihen-2026-11-02/Pruefbericht.md), [vollständige Einzelprüfung](Filmreihen-2026-11-02/Pruefung.json).
+Die Mumie 1/2/3, Mad Max 1/2/4, die beiden „Auf der Jagd …“-Filme 1/2 und Top Gun/Maverick 1/2 ausdrücklich bestätigt. Fragen, Identitäten, Antworten und private Spielstände erhalten. 44 gezielte Tests mit abschließenden Nachprüfungen, tatsächliche React-Ausgabe aller 624 nummerierten Identitäten und vollständiger Katalogabgleich erfolgreich. **Im veröffentlichten Stand der Version 88 enthalten.** [Ursache, Quellen, Abnahme und Grenzen](Filmreihen-2026-11-02/Pruefbericht.md), [vollständige Einzelprüfung](Filmreihen-2026-11-02/Pruefung.json).
 
 ## Mission-Impossible-Reihenpositionen – 26.10.2026, lokal
 

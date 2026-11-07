@@ -1,6 +1,6 @@
 # Preisträger – aktueller Fragenbereich
 
-Stand: 07.11.2026, lokal auf Main. **380 Preisfragen**, davon 102 leicht, 120 mittel, 97 schwer und 61 Experte. Die zusätzlichen 100 Oscarfragen sind noch nicht veröffentlicht. Maßgeblich ist [content/preisfragen.jsonl](../content/preisfragen.jsonl); frühere Fragenfassungen sind über Git nachvollziehbar.
+Stand: 07.11.2026, **seit Version 88 veröffentlicht**. **380 Preisfragen**, davon 102 leicht, 120 mittel, 97 schwer und 61 Experte. Alle 100 zusätzlichen Oscarfragen sind im produktiven Preisbereich enthalten. Maßgeblich ist [content/preisfragen.jsonl](../content/preisfragen.jsonl); frühere Fragenfassungen sind über Git nachvollziehbar. [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-07-Version-88.json).
 
 ## Inhalt
 
