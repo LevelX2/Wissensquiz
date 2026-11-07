@@ -82,13 +82,31 @@ for (const { sound, promote } of [
     const state = await readStoredState(page);
     state.settings.sound = sound;
     state.settings.haptics = true;
-    const qs = [
+    const easy = [
       ...new Map(
         state.questions
-          .filter((q) => q.difficulty === "leicht")
+          .filter(
+            (q) => q.difficulty === "leicht" && questionSourceOf(q) === "film",
+          )
           .map((q) => [q.knowledgeId, q]),
       ).values(),
-    ].slice(0, 29);
+    ];
+    const topics = new Map<string, typeof easy>();
+    for (const q of easy)
+      topics.set(q.topic, [...(topics.get(q.topic) ?? []), q]);
+    const films = [...topics.values()]
+      .filter(
+        (qs) =>
+          qs.length === 2 && qs.every((q) => genreOf(q) === "Science-Fiction"),
+      )
+      .slice(0, 5);
+    expect(films).toHaveLength(5);
+    const preparation = easy
+      .filter((q) => genreOf(q) === "Action")
+      .slice(0, 19);
+    expect(preparation).toHaveLength(19);
+    // Complete precisely five Sci-Fi topics in the final ten answers.
+    const qs = [...preparation, ...films.flat()];
     for (let i = 0; i < (promote ? 19 : 0); i++) {
       const r = startRound(
         state,
