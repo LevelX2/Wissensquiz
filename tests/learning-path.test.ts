@@ -1,5 +1,4 @@
-import { packages, readQuestions } from "../src/packages";
-import { readFileSync } from "node:fs";
+import { currentQuestions } from "./helpers/current-content";
 import { familiarityOf } from "../src/familiarity";
 import { expect, it } from "vitest";
 
@@ -9,7 +8,7 @@ import { answer, complete, guess, startRound } from "../src/engine";
 import { learningPathProgress, pathQuestions } from "../src/learningPath";
 import { genreOf } from "../src/filters";
 import { validateBackup } from "../src/backupValidation";
-const current = readQuestions(readFileSync(packages[0].path, "utf8"));
+const current = currentQuestions();
 const questions = ["Horror", "Action"].flatMap((genre) =>
   ["leicht", "mittel", "schwer"].flatMap((difficulty) =>
     current

@@ -8,6 +8,19 @@ import type { Question } from "../../src/model";
 const samples = new Map<string, string>();
 const content = new Map<QuestionSource, Question[]>();
 
+export function currentQuestions(source: QuestionSource = "film") {
+  if (!content.has(source))
+    content.set(
+      source,
+      packages
+        .filter((p) => p.source === source)
+        .flatMap((p) =>
+          readQuestions(readFileSync(p.path, "utf8"), source, p.genre),
+        ),
+    );
+  return content.get(source)!;
+}
+
 // Representative parser/engine input is selected from current attributes.
 // No retained delivery file or historic catalog stage is a test dependency.
 export function currentCsv(
@@ -22,24 +35,16 @@ export function currentCsv(
   const sampleKey = JSON.stringify(options);
   if (samples.has(sampleKey)) return samples.get(sampleKey)!;
   const source = options.source ?? "film";
-  const definition = packages.find((p) => p.source === source)!;
-  if (!content.has(source))
-    content.set(
-      source,
-      readQuestions(readFileSync(definition.path, "utf8"), source),
-    );
-  let questions = content
-    .get(source)!
-    .filter(
-      (q) =>
-        questionSourceOf(q) === source &&
-        !q.metadata.fact_kind &&
-        (!options.genre || genreOf(q) === options.genre) &&
-        (!options.film ||
-          `${q.metadata.film_title_original}|${q.metadata.film_year}` ===
-            options.film) &&
-        (!options.recognition || !!q.metadata.question_image_id),
-    );
+  let questions = currentQuestions(source).filter(
+    (q) =>
+      questionSourceOf(q) === source &&
+      !q.metadata.fact_kind &&
+      (!options.genre || genreOf(q) === options.genre) &&
+      (!options.film ||
+        `${q.metadata.film_title_original}|${q.metadata.film_year}` ===
+          options.film) &&
+      (!options.recognition || !!q.metadata.question_image_id),
+  );
   if (options.limit) questions = questions.slice(0, options.limit);
   const selectedIds = new Set(questions.map((q) => q.id));
   const rows = questions.map((q) => ({

@@ -18,7 +18,7 @@ import { answer, startRound } from "../src/engine";
 import { validateBackup } from "../src/backupValidation";
 import { applyCategoryTags } from "../src/categoryPreparation";
 
-const contents = packages.slice(0, 14).map((p) => ({
+const contents = packages.map((p) => ({
   filename: p.filename,
   text: readFileSync(`${p.path}`, "utf8"),
 }));

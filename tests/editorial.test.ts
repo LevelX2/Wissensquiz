@@ -1,12 +1,9 @@
 import { expect, it } from "vitest";
-import { readFileSync } from "node:fs";
-import { packages, readQuestions } from "../src/packages";
+import { currentQuestions } from "./helpers/current-content";
 import { filmDetails } from "../src/filmDetails";
 import { preparePresentation } from "../src/questionPresentation";
 
-const questions = readQuestions(
-  readFileSync(packages.find((p) => p.source === "film")!.path, "utf8"),
-);
+const questions = currentQuestions();
 it("liefert aktuelle Darstellerergänzungen ohne Fragen oder Lernidentitäten zu verändern", () => {
   const matched = questions.filter((q) => filmDetails(q));
   expect(matched.length).toBeGreaterThan(0);

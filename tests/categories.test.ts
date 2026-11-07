@@ -19,7 +19,7 @@ import { validateBackup } from "../src/backupValidation";
 import artReferences from "../KI-Wissen-Wissensquiz/01 Rohquellen/Arthouse_Zuordnungen_Bestand.json";
 import references from "../KI-Wissen-Wissensquiz/01 Rohquellen/Classics_Zuordnungen_Bestand.json";
 
-const contents = packages.slice(0, 14).map((p) => ({
+const contents = packages.map((p) => ({
   filename: p.filename,
   text: readFileSync(`${p.path}`, "utf8"),
 }));
