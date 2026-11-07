@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 07.11.2026 – Genredateien innerhalb der Sites-Quellgrenze
+
+Der Quelltransfer der Veröffentlichung wurde wegen der 46.457.606 Byte großen gemeinsamen Filmfragen-Datei abgewiesen; Sites erlaubt 32 MiB je Git-Objekt. Filmfragen unmittelbar anhand ihres Genre-Attributs auf zwölf aktuelle Dateien aufgeteilt, zusammen mit Schauspieler- und Preisfragen 14 Dateien in drei Fachbereichen. Alle 15.599 Filmfragen zeilengetreu erhalten. Der vollständige aktuelle Katalog bleibt bei 19.403 Fragen / 18.650 Zielen mit identischem SHA-256 `a84898a9665b59e985bd53f6221b3cafdb05a057af2862592c1719e1989c91e5`. Importer schreibt in die fachlich zugehörige Genredatei; kein Lieferarchiv und keine laufzeitabhängige Pakethistorie.
+
+Sechs gezielte Katalogtests einschließlich neuer Genre-/Dateigrenzprüfung, vollständiger Fragedatencheck und Metadaten/TypeScript erfolgreich. Der zentrale vollständige Logiklauf der Veröffentlichung war zuvor mit 453 Tests in 83 Dateien erfolgreich; unveränderte Prüfungen bleiben gültig. Der vollständige Browserlauf läuft noch. Veraltete Sci-Fi-Annahme eines Lernstufentests auf explizite Genre-Auswahl umgestellt; gezielte Browserabnahme folgt vor Freigabe.
+
 ## 07.11.2026 – 100 Oscar-Darstellungsfragen fertiggestellt, lokal
 
 100 Fragen unmittelbar im aktuellen Preisfragenbestand ergänzt: 32 leicht, 50 mittel, 14 schwer, vier Experte; 62 neue Wissensziele und 38 Varianten. Alle gehören zu Preisträger, auch bei Person/Rolle im Fragetext. Vier unterschiedliche Optionen und eindeutige Lösung je Frage, gespeicherte Lösungsschlüssel je 25 A/B/C/D. Kategorien, Verleihungsjahre und Sieger an den offiziellen Academy-Jahreslisten geprüft; konkrete Filmreferenzen in jeder Frage. Elf fehlende Filmfassungen mit geprüften Titeln und Reihenabgrenzung ergänzt, 46 Filmbekanntheiten begründet. Metadaten für Preisfragen mit mehreren Filmverweisen vervollständigt; vorhandene Referenzdaten zu „The Holdovers“ auch für Preisfragen aufgelöst und den uneinheitlichen Identitätsschlüssel von „Adaptation.“ direkt berichtigt.

@@ -1,6 +1,11 @@
-import { readFileSync } from "node:fs";
+import { readFileSync, statSync } from "node:fs";
 import { expect, it } from "vitest";
-import { packages, addPackages, readQuestions } from "../src/packages";
+import {
+  packages,
+  addPackages,
+  packageForQuestion,
+  readQuestions,
+} from "../src/packages";
 import { emptyState } from "../src/model";
 import { questionSourceOf } from "../src/filters";
 import { validateBackup } from "../src/backupValidation";
@@ -85,4 +90,22 @@ it("hält vorhandene Fragen mit gleicher ID unverändert", () => {
   addPackages(state, inputs);
   expect(state.questions.find((x) => x.id === q.id)).toEqual(own);
   expect(state.questions.filter((x) => x.id === q.id)).toHaveLength(1);
+});
+
+it("ordnet Filmfragen nach Genre zu und hält Quellen innerhalb der Sites-Dateigrenze", () => {
+  for (const p of packages) {
+    expect(statSync(p.path).size).toBeLessThanOrEqual(32 * 1024 * 1024);
+    for (const q of readQuestions(readFileSync(p.path, "utf8")))
+      expect(packageForQuestion(q)).toBe(p);
+  }
+  const state = emptyState();
+  expect(() =>
+    addPackages(state, [
+      {
+        filename: inputs[0].filename,
+        text: JSON.stringify(readQuestions(inputs[1].text)[0]),
+      },
+    ]),
+  ).toThrow(/Genre/);
+  expect(state.questions).toHaveLength(0);
 });

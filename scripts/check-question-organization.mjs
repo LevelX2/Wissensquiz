@@ -3,7 +3,7 @@
 // Validate the current public editorial content. No previous deliveries,
 // account state, production access or chronological import stages are needed.
 import { createServer } from "vite";
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, stat, writeFile } from "node:fs/promises";
 import { createHash } from "node:crypto";
 import assert from "node:assert/strict";
 const server = await createServer({
@@ -28,6 +28,11 @@ try {
       text: await readFile(p.path, "utf8"),
     })),
   );
+  for (const p of packages)
+    assert(
+      (await stat(p.path)).size <= 32 * 1024 * 1024,
+      `${p.path}: Sites-Dateigrenze überschritten`,
+    );
   const state = emptyState();
   addPackages(state, inputs);
   validateBackup(state);
@@ -70,7 +75,8 @@ try {
       .update(ordered(state.questions))
       .digest("hex"),
     counts: {
-      sources: packages.length,
+      sources: new Set(packages.map((p) => p.source)).size,
+      sourceFiles: packages.length,
       questions: state.questions.length,
       knowledgeGoals: new Set(state.questions.map((q) => q.knowledgeId)).size,
       duplicateQuestionIds: 0,
@@ -91,6 +97,7 @@ try {
       idempotent: true,
       fullBackupValidated: true,
       exactJsonRoundtrip: true,
+      sourceFilesWithinSitesLimit: true,
     },
     attributeGroups: [...groups]
       .sort(([a], [b]) => a.localeCompare(b))

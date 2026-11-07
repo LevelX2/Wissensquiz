@@ -1,10 +1,35 @@
 // Operator-only current content. The browser loads individual server questions.
 import type { Question, QuestionSource, State } from "./model";
 import { questionSchema } from "./questionSchema";
-import { questionSourceOf } from "./filters";
+import { genreOf, questionSourceOf } from "./filters";
 
-export const packages = [
-  { path: "content/filmfragen.jsonl", filename: "Filmfragen", source: "film" },
+type QuestionPackage = {
+  path: string;
+  filename: string;
+  source: QuestionSource;
+  genre?: string;
+};
+
+export const packages: readonly QuestionPackage[] = [
+  ...[
+    ["abenteuer", "Abenteuer"],
+    ["action", "Action"],
+    ["drama", "Drama"],
+    ["fantasy", "Fantasy"],
+    ["horror", "Horror"],
+    ["komoedie", "Komödie"],
+    ["martial-arts-asia", "Martial Arts & Asia-Film"],
+    ["musik", "Musik"],
+    ["rom-com", "Rom-Com"],
+    ["science-fiction", "Science-Fiction"],
+    ["thriller", "Thriller"],
+    ["western", "Western"],
+  ].map(([slug, genre]) => ({
+    path: `content/filmfragen/${slug}.jsonl`,
+    filename: `Filmfragen · ${genre}`,
+    source: "film" as const,
+    genre,
+  })),
   {
     path: "content/schauspielerfragen.jsonl",
     filename: "Schauspielerfragen",
@@ -15,13 +40,23 @@ export const packages = [
     filename: "Preisfragen",
     source: "awards",
   },
-] as const;
+];
+
+export function packageForQuestion(q: Question) {
+  const source = questionSourceOf(q);
+  const definition = packages.find(
+    (p) => p.source === source && (!p.genre || p.genre === genreOf(q)),
+  );
+  if (!definition) throw new Error(`${q.id}: kein aktueller Fachbestand.`);
+  return definition;
+}
 
 export type PackageContent = { filename: string; text: string };
 
 export function readQuestions(
   text: string,
   source?: QuestionSource,
+  genre?: string,
 ): Question[] {
   const questions = text
     .split(/\r?\n/)
@@ -33,6 +68,8 @@ export function readQuestions(
     ids.add(q.id);
     if (source && questionSourceOf(q) !== source)
       throw new Error(`${q.id}: Frage gehört nicht zum Bereich ${source}.`);
+    if (genre && genreOf(q) !== genre)
+      throw new Error(`${q.id}: Frage gehört nicht zum Genre ${genre}.`);
   }
   return questions;
 }
@@ -50,7 +87,11 @@ export function addPackages(state: State, incoming: PackageContent[]) {
     const definition = packages.find((p) => p.filename === input.filename);
     if (!definition)
       throw new Error(`Unbekannter aktueller Fragenbereich: ${input.filename}`);
-    const questions = readQuestions(input.text, definition.source);
+    const questions = readQuestions(
+      input.text,
+      definition.source,
+      definition.genre,
+    );
     let duplicates = 0;
     for (const q of questions) {
       if (incomingIds.has(q.id))

@@ -6,12 +6,14 @@ Stand: 07.11.2026, lokal. Die aktuelle Nutzeranweisung ist in [AGENTS.md](../AGE
 
 | Fachbereich | Redaktion | Aktuelle Fragen |
 |---|---|---:|
-| Filmfragen | `content/filmfragen.jsonl` | 15.599 |
+| Filmfragen | `content/filmfragen/*.jsonl`, zwölf Genres | 15.599 |
 | Schauspieler | `content/schauspielerfragen.jsonl` | 3.424 |
 | Preisträger | `content/preisfragen.jsonl` | 380 |
 | Gesamt | Drei aktuelle Fachbestände | 19.403 |
 
 Eine UTF-8-Zeile enthält ein vollständiges aktuelles Frageobjekt. `src/questionSchema.ts` definiert die Felder. Fragen-IDs identifizieren Fragenfassungen; Wissensziel-IDs verbinden Varianten und ihren Lernfortschritt. Bei Änderungen am Inhalt werden Frage, Antworten, Erklärung, Quellen, Version und zugehörige Metadaten gemeinsam gepflegt.
+
+Die drei Fachbereiche liegen in 14 aktuellen Dateien. Filmfragen werden anhand ihres Genre-Attributs in zwölf Dateien geführt. Die zuvor gemeinsame Datei mit 46.457.606 Bytes überschritt die Sites-Grenze von 32 MiB je Git-Objekt. Alle 15.599 Filmfragen wurden zeilengetreu auf die aktuellen Genres aufgeteilt; keine zusätzlichen Kopien oder Lieferpakete. Import und Prüfung verwenden dieselbe fachliche Zuordnung.
 
 Noch nicht übernommene fremde Redaktion bleibt Arbeitsmaterial. Die vorbereiteten 320 Fragen aus der 40-Filme-Redaktion sind kein zweiter aktueller Spielbestand und wurden nicht als abgeschlossene Lieferkopie gelöscht.
 

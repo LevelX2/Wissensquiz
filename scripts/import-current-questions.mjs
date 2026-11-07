@@ -15,7 +15,7 @@ const server = await createServer({
   optimizeDeps: { noDiscovery: true, entries: [] },
 });
 try {
-  const { packages, addPackages } =
+  const { packages, addPackages, packageForQuestion } =
     await server.ssrLoadModule("/src/packages.ts");
   const { emptyState } = await server.ssrLoadModule("/src/model.ts");
   const { importCsv } = await server.ssrLoadModule("/src/importer.ts");
@@ -80,16 +80,23 @@ try {
       assert.equal(display.films[0].data.year, Number(q.metadata.film_year));
     }
   }
-  const definition = packages.find((p) => p.source === source);
   const next = [
     ...state.questions.filter((q) => questionSourceOf(q) === source),
     ...imported.questions,
   ].sort((a, b) => a.id.localeCompare(b.id, "en"));
+  const destinations = new Map();
+  for (const q of next) {
+    const definition = packageForQuestion(q);
+    const questions = destinations.get(definition.path) ?? [];
+    questions.push(q);
+    destinations.set(definition.path, questions);
+  }
   if (process.argv.includes("--write"))
-    await writeFile(
-      definition.path,
-      next.map((q) => JSON.stringify(q)).join("\n") + "\n",
-    );
+    for (const [path, questions] of destinations)
+      await writeFile(
+        path,
+        questions.map((q) => JSON.stringify(q)).join("\n") + "\n",
+      );
   console.log(
     JSON.stringify(
       {

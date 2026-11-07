@@ -4,6 +4,7 @@
   "catalogSha256": "a84898a9665b59e985bd53f6221b3cafdb05a057af2862592c1719e1989c91e5",
   "counts": {
     "sources": 3,
+    "sourceFiles": 14,
     "questions": 19403,
     "knowledgeGoals": 18650,
     "duplicateQuestionIds": 0,
@@ -20,7 +21,8 @@
     "orderIndependent": true,
     "idempotent": true,
     "fullBackupValidated": true,
-    "exactJsonRoundtrip": true
+    "exactJsonRoundtrip": true,
+    "sourceFilesWithinSitesLimit": true
   },
   "attributeGroups": [
     {
