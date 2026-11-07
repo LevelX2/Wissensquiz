@@ -18,7 +18,7 @@
 - Nutzer mit Du ansprechen; sichtbare UI-Texte und deutsche Wissensseiten mit echten Umlauten und ß verfassen. Technische Pfade, IDs, Symbole und Originalzitate unverändert lassen.
 - Belastbare, dauerhaft nützliche Erkenntnisse auf passenden Wissensseiten pflegen. Klare Folgepflege direkt ausführen; bei ungeklärten fachlichen Widersprüchen oder Zuordnungen gezielt nachfragen.
 - Neue generische Regeln nur mit ausdrücklicher Freigabe in das Haupt-Vault übernehmen.
-- Rohquellen unverändert erhalten, vollständig auswerten und betroffene Wissensseiten, Index und bei Relevanz das Log nachziehen. Widersprüche sichtbar machen.
+- Fachliche Quellen vollständig auswerten und betroffene Wissensseiten, Index und bei Relevanz das Log nachziehen. Widersprüche sichtbar machen. Für Fragen gilt die untenstehende Direktive zum aktuellen Katalog; frühere Lieferungen und Redaktionsstände brauchen keine zusätzlichen Archive.
 - Status als aktuellen Snapshot führen. Das Log bleibt chronologisch und append-only; nur wesentliche Entwicklungen, Entscheidungen, Risiken, Verifikationen und Abschlussstände dokumentieren, keine einzelnen Toolaufrufe.
 
 ## Git, Checks und Sicherheit
@@ -39,7 +39,16 @@
 - Vor jeder Veröffentlichung einmal gebündelt auf dem gemeinsamen, zur Veröffentlichung vorgesehenen Quellstand prüfen: vollständiges `npm test` und `npm run build`; bei Änderungen an Oberfläche/Persistenz/Offline zusätzlich `npm run test:browser`, außerdem `git diff --check` und bei Abhängigkeitsänderungen `npm audit`. Der veröffentlichende Chat übernimmt diesen zentralen Prüflauf für alle enthaltenen Änderungsblöcke. Keine parallelen vollständigen Prüfläufe in mehreren Chats für denselben gemeinsamen Arbeitsstand starten.
 - Veröffentlichung erst, wenn alle erforderlichen Prüfungen erfolgreich sind. Fehler beheben und die betroffenen Prüfungen erneut erfolgreich ausführen; fehlgeschlagene oder wegen Zeitüberschreitung abgebrochene Prüfungen gelten nicht als bestanden. Erfolgreiche Prüfungen desselben unveränderten Standes wiederverwenden. Änderungen nach der Prüfung machen die betroffenen Nachweise ungültig; vor Veröffentlichung entsprechend nachprüfen.
 - Tests nur mit isolierten Browserprofilen und kontrollierter Testzeit durchführen. Echte Nutzerdaten nicht für Testfortschritte verändern.
-- Roh-CSV unverändert erhalten. Bestehende Frage-IDs nicht still überschreiben; Varianten teilen Wissensziel-IDs. Lernpunkte und Rekordzeit getrennt behandeln.
+- Bestehende Frage-IDs nicht still überschreiben; Varianten teilen Wissensziel-IDs. Lernpunkte und Rekordzeit getrennt behandeln.
+
+## Aktueller Fragenkatalog statt Pakethistorie
+
+- Maßgeblich sind die aktuellen geprüften Fragen mit Quellen, fachlichen Attributen sowie stabilen Fragen- und Wissensziel-IDs.
+- Frühere Lieferungen, Ergänzungswellen und Redaktionsstände nicht als zusätzliche Fragenarchive, Laufzeitpakete oder verpflichtende Prüfstufen weiterführen. Bei Bedarf stellt Git die Bearbeitungsgeschichte bereit.
+- Fachliche Gruppen und gegebenenfalls technische Releasepakete aus den aktuellen Fragenattributen und Fragen-IDs deterministisch ableiten. Lieferdatum, frühere Dateinamen und frühere Paketgrenzen sind keine fachlichen Auswahlkriterien.
+- Neue Fragen direkt in den aktuellen Bestand ihres Fragenbereichs aufnehmen. Preisfragen gehören zum Bereich Preisträger, auch wenn Personen, Rollen oder Filme den Zugang bilden.
+- Katalogaufbau, Prüfungen und Veröffentlichung am aktuellen Bestand ausrichten. Keine Dateinamen-Sonderfälle, historischen Importreihenfolgen oder zusätzlichen Kompatibilitätswege zum Erhalt einer Pakethistorie schaffen.
+- Fachliche Belegquellen und notwendige aktuelle Inhalte bleiben erhalten. Der Verzicht auf Lieferarchive erlaubt keine Änderung privater Nutzerdaten oder bestehender Lernidentitäten.
 
 ## Temporäre Dateien und Bereinigung
 

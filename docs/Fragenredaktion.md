@@ -2,6 +2,12 @@
 
 Stand: 04.11.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
+## Führender aktueller Bestand – Direktive vom 07.11.2026
+
+Aktuelle geprüfte Fragen, ihre Quellen, Attribute und stabilen Fragen-/Wissensziel-IDs bilden die redaktionelle Grundlage. Frühere Lieferungen und Ergänzungswellen werden weder als zusätzliche Fragenarchive noch als technische Paketgeschichte weitergeführt; frühere Bearbeitungsstände sind über Git nachvollziehbar. Diese aktuelle Nutzerpräzisierung ersetzt entgegenstehende historische Vorgaben dieser Seite zur unveränderten Aufbewahrung von Fragenlieferungen, Paketgrößen und wellenweisen Original-CSV.
+
+Neue Fragen unmittelbar im aktuellen Fragenbereich pflegen. Fachliche Gruppen und technische Releasepakete bei Bedarf deterministisch aus den aktuellen Attributen und Fragen-IDs erzeugen. Keine Sonderbehandlung früherer Paketnamen oder historischer Einlesereihenfolgen. Fachliche Belegquellen, Lernidentitäten und private Spielstände bleiben geschützt. Die beauftragten 100 neuen Oscarfragen gehören sämtlich zu Preisträger; Person, Rolle und Film sind unterschiedliche Zugänge zur Preisfrage.
+
 Quelle: [unveränderter Nutzerauftrag](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Fragenredaktions-Skill.txt). Bestehende technische Bereichs- und Importverträge wurden für den Stand abgeglichen.
 
 Der persönliche Skill `wissensquiz-fragen-redigieren` führt durch die Redaktion und verweist auf diesen Vertrag. Die führenden fachlichen Regeln stehen hier im Projekt; die Skill-Quelle wird nach den persönlichen Installationsregeln gepflegt. Der [ältere kopierfertige Musikauftrag](Prompt-Neue-Fragenpakete.md) bleibt ein historisches Beispiel. Bei neuen Aufträgen haben die aktuellen Anforderungen dieser Seite Vorrang.
