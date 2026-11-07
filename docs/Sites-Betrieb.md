@@ -560,6 +560,16 @@ Keine Nutzerspielstände im Deployment veröffentlichen. Seit Version 59 ist ein
 
 Seit Version 3 enthält die Live-Site zusätzlich das Horror-Paket. Es ergänzt bestehende Sci-Fi-/Action-Spielstände über denselben Mechanismus und ist im Produktions-Build für den Offline-Cache enthalten. Projekt-ID, URL und privater Zugriff bleiben unverändert.
 
+### Sites-Quellgrenze und aktueller Main-Snapshot – 07.11.2026
+
+Sites erlaubt höchstens **32 MiB je unkomprimiertem Git-Objekt**. Die vorübergehend zusammengefasste Filmfragen-Datei mit 46.457.606 Bytes überschritt diese Grenze. Eine spätere Löschung allein entfernt das Objekt nicht aus der zu übertragenden Git-Historie. Der aktuelle Filmfragenbestand ist deshalb unmittelbar nach den zwölf Genre-Attributen aufgeteilt; alle Fragenfelder und IDs bleiben unverändert. [Aktueller Aufbau](Fragedaten-Organisation.md).
+
+Die lokale gemeinsame Main-Historie wird für den Hostingtransfer nicht umgeschrieben. Der Sites-Quellbranch erhält einen aktuellen Snapshot mit **demselben Git-Quellbaum wie der freigegebene Main-Commit**, aber aufbauend auf seiner bereits übertragenen Sites-Historie. Beide Commit-IDs und die Gleichheit der Quellbäume werden im Veröffentlichungsnachweis festgehalten. Nur der Sites-Quellbranch wird übertragen; kein Force-Push und kein automatischer GitHub-Push.
+
+Bei der nächsten Veröffentlichung einen leeren, eindeutig zugeordneten Quellcheckout mit dem regulären Sites-Workflow öffnen. Der Helfer übernimmt zuerst die aktuelle Sites-Quelle. Anschließend den freigegebenen lokalen Main-Commit per lokalem Git-Fetch verfügbar machen und dessen vollständigen Quellbaum mit `git restore --source=<Main-Commit> --staged --worktree -- .` übernehmen. Den Snapshot auf dem bestehenden Sites-Quellbranch committen und `HEAD^{tree}` mit `<Main-Commit>^{tree}` vergleichen. Main nicht als zusätzlichen Elterncommit einhängen: Dadurch würden die abgewiesenen großen Zwischenobjekte erneut Bestandteil des Hostingtransfers. Lokale Main-Commits und fremde Arbeitsstände bleiben erhalten.
+
+Alle ausstehenden neuen Git-Objekte vor dem Push auf die Dateigrenze prüfen. Die freigegebenen ignorierten öffentlichen Bildmetadaten gesondert in die Veröffentlichungskopie übernehmen; private Dateien und unfertige Arbeitsmaterialien nicht kopieren. Danach den identischen geprüften Quellbaum bauen und den regulären Sites-Helfer mit seinem Öffnungsergebnis zum Quelltransfer und Paketieren verwenden. Archiv, Build, native gespeicherte Version und Veröffentlichung müssen denselben geprüften Stand belegen. Diese Trennung betrifft ausschließlich den Quelltransfer; Fragen werden weiterhin aus dem aktuellen gemeinsamen Onlinekatalog ausgewählt.
+
 ### Veröffentlichung ohne lokalen Sites-Helfer
 
 Für Version 6 war der gebündelte Helfer zwischenzeitlich verfügbar. Bei der Kontenaktivierung und automatischen Kontosicherung war er erneut nicht installiert; dafür wurde der folgende Ersatzablauf verwendet. Bei der Profil-/Bestenlisten-Erweiterung ist der Sites-Skill mit Workflow wieder verfügbar; hierfür gilt wieder der reguläre Ablauf oben.
