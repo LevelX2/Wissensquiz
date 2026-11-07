@@ -266,10 +266,15 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
   const qs = [
     ...new Map(
       state.questions
-        .filter((q) => !q.id.startsWith("FACT-"))
+        .filter(
+          (q) =>
+            !q.id.startsWith("FACT-") &&
+            q.metadata.subdomain === "Science-Fiction",
+        )
         .map((q) => [q.knowledgeId, q]),
     ).values(),
   ].slice(0, 5);
+  expect(qs).toHaveLength(5);
   const play = (questions: typeof qs, date: number, wrong = false) => {
     const r = startRound(
       state,
