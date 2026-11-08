@@ -1,14 +1,14 @@
 import { createHash } from "node:crypto";
 import { questionSchema } from "../../src/questionSchema";
 import type { Question } from "../../src/model";
-import { resolveQuestionWorks } from "../../src/workAttributes";
+import { prepareQuestionWorks } from "../../src/prepareWorkReferences";
 import { withCategoryTags } from "../../src/categories";
 export type TestContent = { hash: string; questions: Question[] };
 // Operator-only fixture content. No catalog archive, compression or client fetch.
 export async function prepareTestContent(
   input: Question[],
 ): Promise<TestContent> {
-  const questions = resolveQuestionWorks(
+  const questions = prepareQuestionWorks(
     input.map((q) => withCategoryTags(questionSchema.parse(q))),
   );
   return {

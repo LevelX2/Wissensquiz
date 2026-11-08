@@ -2970,3 +2970,8 @@ Auf Nutzerwunsch „Quellen und Links“, sprechende Linktexte und IMDb-/OFDb-Di
 #### 08.11.2026 – Werkarten und Mehrfachzuordnungen: erstes Paket im Worktree geprüft
 
 Auf ausdrücklichen Auftrag eigener Worktree und gemeinsamer Activity-Claim angelegt. Typisierte Werkbezüge, kombinierte Filter lokal und SQL, CSV-Übernahme, Kodierung und aktueller leerer Serienbestand umgesetzt. 29 gezielte Tests, Typprüfung, Diff- und Katalogprüfung erfolgreich; alle 19.403 redaktionellen Frageobjekte mit gleichem Hash erhalten. Neue SQL-Datei nur lokal vorbereitet und isoliert geprüft. Weitere vier Pakete folgen; Linkaufgabe bleibt im anderen Chat.
+
+
+## 08.11.2026 – Werkarten: gemeinsamer Lernstand lokal geprüft
+
+Paket 2 im eigenen Worktree abgeschlossen: gemeinsame Zielidentität mit aktueller Mehrfachanrechnung und getrennten Film-/Serienpfaden; sichere Belege bleiben unverändert. Allgemeine Filmografien liefern keine Werkgenres. 94 gezielte Tests, TypeScript und Diffprüfung erfolgreich. SQL ausschließlich lokal; Auslosung, UI und Abnahme folgen.

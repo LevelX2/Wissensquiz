@@ -97,7 +97,7 @@ it("filtert reine Personen- und Preisrunden einschließlich Experte nach Bekannt
     );
     const filters = {
       sources: [source] as QuestionSource[],
-      genres: [],
+      genres: null,
       difficulties: ["experte"] as const,
       familiarities: [4] as const,
     };
@@ -107,9 +107,10 @@ it("filtert reine Personen- und Preisrunden einschließlich Experte nach Bekannt
       familiarities: [...filters.familiarities],
     };
     expect(qs.filter((q) => matchesFilters(q, options))).toEqual([qs[3]]);
-    expect(canonicalFilters({ ...options, genres: ["Horror"] })).toEqual(
-      options,
-    );
+    expect(canonicalFilters({ ...options, genres: ["Horror"] })).toEqual({
+      ...options,
+      genres: ["Horror"],
+    });
     const s = emptyState(qs);
     const r = startRound(s, {
       mode: "ueben",
@@ -230,7 +231,7 @@ it("validiert historische gemischte Runden mit unverändertem Personen-Snapshot 
     difficulty: "Alle Stufen",
     filters: {
       sources: ["film", "actors"],
-      genres: [],
+      genres: null,
       difficulties: ["leicht"],
       familiarities: [1],
     },

@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 08.11.2026 – Gemeinsamer Lernstand und getrennte Werkpfade: Paket 2 lokal
+
+Ein Lernstand je Wissensziel; sichere Belege aus abgeschlossenen Runden zählen mit ihrer tatsächlichen Schwierigkeit in allen aktuellen passenden Bereichen. Film-/Serienpfade sowie Personen-/Werkbekanntheit sind getrennt, Expertentreffer öffnen keine Werk-Expertenstufe. Allgemeine Personenporträts erben keine Genres ihrer Filmografie. Eine gleichnamige Serie übernimmt keine Filmplakate, Regie-/Jahresfragen oder Filmbekanntheit. Globale Summen und XP bleiben eindeutig. Private Antwort-, Lern- und Wertungsbelege werden nicht umgeschrieben.
+
+**94 Tests in 13 gezielt ausgewählten Dateien erfolgreich**, darunter tatsächliche isolierte Serverantworten mit Vergleich zur lokalen Freischaltung, Raten/Fehler/aktive Runden, gemeinsame Varianten, nachträglich geänderte aktuelle Zuordnungen bei unveränderten privaten Belegen, Mehrfachgenres, Personenfilmografien und Film-/Seriengleichnamigkeit. Bestehende SQL-Prüfaufbauten und die unabhängige Vollscan-Referenz auf den neuen Vertrag angepasst. Die 48.000-Ziele-Messung liefert die gespeicherte Erfolgsübersicht in 0,313 ms bei 350 Bytes; der unabhängige Vollscan benötigt 108 ms. Das Zeitlimit für den größeren isolierten Katalogaufbau beträgt 60 Sekunden; die Assertions für Kontolesezeit und Ausgabemenge bleiben erhalten. TypeScript und Diffprüfung erfolgreich.
+
+Lokale Migration `20261108071001_work_area_progress_and_unlocks.sql`: normalisierte aktuelle Pfad-/Zielrelationen, set-basierte Katalogvorbereitung und private Funktionen mit leerem Suchpfad; Rechte/RLS geprüft. Keine produktive Aktivierung. Auslosung, Oberfläche und Gesamtabnahme folgen; kein vollständiger Veröffentlichungsprüflauf für diesen Teilblock.
+
 ## 08.11.2026 – Werkarten und Mehrfachzuordnungen: Paket 1 lokal
 
 Im ausdrücklich beauftragten Worktree umgesetzt: geprüfte Werkbezüge mit getrennten Film-/Serienidentitäten, Mehrfachgenres, Macharten und Sammlungen; optionaler Staffel-/Folgenbezug, CSV-Übernahme und Kodierung. Eine kombinierte Auswahl muss am selben Werk zutreffen; zusätzliche Schauspieler-/Preisbereiche werden durch konkrete Werkfilter begrenzt. `genres: null` bezeichnet unbeschränkte Auswahl, eine leere Liste keine Auswahl. Der zunächst leere Serienbestand ergänzt die aktuelle Ablage ohne Fragekopien.

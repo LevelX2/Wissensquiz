@@ -29,7 +29,14 @@ export async function syncFixture(stopBefore?: string) {
     await db.exec(readFileSync(`supabase/migrations/${file}`, "utf8"));
   // Test-only clock in the isolated DB. Production has no client clock input.
   if (!stopBefore) {
-    await db.exec(`create function quiz_ranked_internal.test_clock() returns timestamptz language sql volatile as $$
+    await db.exec(`create function quiz_game_internal.test_materialize_works() returns void language sql set search_path='' as $$
+      update quiz_game_internal.catalog_meta m set works=jsonb_build_array(jsonb_strip_nulls(jsonb_build_object(
+        'type','film','originalTitle','Testwerk · '||m.id,'year',2000,'genres',jsonb_build_array(m.genre),
+        'techniques','[]'::jsonb,'familiarity',nullif(m.familiarity,0))))
+      where m.source='film' and m.works='[]'::jsonb
+      $$;
+      revoke all on function quiz_game_internal.test_materialize_works() from public,anon,authenticated;
+      create function quiz_ranked_internal.test_clock() returns timestamptz language sql volatile as $$
       select coalesce(to_timestamp(nullif(current_setting('quiz.test_now',true),'')::double precision/1000),clock_timestamp())$$;
       do $patch$declare f record;begin
         for f in select p.oid::regprocedure as name from pg_proc p join pg_namespace n on n.oid=p.pronamespace where n.nspname in ('quiz_ranked_internal','quiz_game_internal') and p.proname<>'test_clock'

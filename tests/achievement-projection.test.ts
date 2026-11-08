@@ -18,15 +18,20 @@ beforeAll(async () => {
       ),
     ),
   );
-  // Independent previous implementation is the full-catalogue oracle, used
-  // only in this isolated database for equivalence and before/after timing.
+  // Independent full-scan oracle, with the chosen shared-goal evidence rule;
+  // only this isolated database uses it for equivalence and timing.
   const sql = readFileSync(
     "supabase/migrations/20261012201611_learning_achievements.sql",
     "utf8",
   );
-  const oracle = sql.match(
-    /create function quiz_game_internal\.learning_achievement_progress[\s\S]*?\$\$;/,
-  )![0];
+  const oracle = sql
+    .match(
+      /create function quiz_game_internal\.learning_achievement_progress[\s\S]*?\$\$;/,
+    )![0]
+    .replace(
+      "and s.area=case m.source when 'actors' then 'Schauspieler' when 'awards' then 'Preisträger' else m.genre end",
+      "",
+    );
   await fixture.db.exec(
     oracle.replace(
       ".learning_achievement_progress(",
@@ -93,7 +98,7 @@ async function prepareMixedCatalogue() {
     ('hard','hard','Gemeinsamer Titel','Western','film','schwer',1,'[]'),
     ('person','person','Gemeinsamer Titel','Schauspieler','actors','leicht',1,'[]'),
     ('award','award','Preis','Preisträger','awards','leicht',1,'[]');
-    select quiz_game_internal.refresh_groups();`);
+    select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();`);
 }
 
 it("berechnet Varianten, mehrere Genres, Personen, Preise und sinkende Beiträge wie die vollständige Referenz", async () => {
@@ -169,7 +174,9 @@ it("bereitet Inhaltsänderungen einmal vor und baut nur bei geänderter Definiti
       "select signature from quiz_game_internal.achievement_catalog",
     )
   ).rows;
-  await fixture.db.exec("select quiz_game_internal.refresh_groups()");
+  await fixture.db.exec(
+    "select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups()",
+  );
   expect(
     (
       await fixture.db.query(
@@ -178,7 +185,7 @@ it("bereitet Inhaltsänderungen einmal vor und baut nur bei geänderter Definiti
     ).rows,
   ).toEqual(before);
   await fixture.db.exec(
-    `insert into quiz_game_internal.catalog_meta values('new-requirement','new','Gemeinsamer Titel','Drama','film','leicht',1,'[]');select quiz_game_internal.refresh_groups()`,
+    `insert into quiz_game_internal.catalog_meta values('new-requirement','new','Gemeinsamer Titel','Drama','film','leicht',1,'[]');select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups()`,
   );
   // Reading the profile never rebuilds private contributions.
   expect((await p.view()).counts.films).toBe(1);
@@ -281,10 +288,12 @@ it("führt EXP exakt per Differenz einschließlich Wiederholung, Korrektur und L
   }
 });
 
+// Building 48,000 explicit shared work relations is setup work. The bounded
+// per-account evaluation and response-size assertions below remain unchanged.
 it("begrenzt normale Abschlüsse auf geänderte Ziele und liest Erfolgsprofile unabhängig von der Kataloggröße", async () => {
   await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
     insert into quiz_game_internal.catalog_meta select 'q'||i,'g'||i,'Film '||(i/8),'Drama','film','leicht',1,'[]' from generate_series(1,12000) i;
-    select quiz_game_internal.refresh_groups();analyze quiz_game_internal.catalog_meta;`);
+    select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();analyze quiz_game_internal.catalog_meta;`);
   const p = await player();
   await p.safe("g1");
   await p.close(1);
@@ -387,7 +396,7 @@ it("begrenzt normale Abschlüsse auf geänderte Ziele und liest Erfolgsprofile u
     );
     await fixture.db
       .exec(`insert into quiz_game_internal.catalog_meta select 'q'||i,'g'||i,'Film '||(i/8),'Drama','film','leicht',1,'[]' from generate_series(12001,48000) i;
-      select quiz_game_internal.refresh_groups();analyze quiz_game_internal.catalog_meta;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();analyze quiz_game_internal.catalog_meta;`);
     const larger = await p.view();
     expect(larger.counts).toEqual(current.counts);
     expect(
@@ -411,12 +420,12 @@ it("begrenzt normale Abschlüsse auf geänderte Ziele und liest Erfolgsprofile u
       `${oldRebuild};${oldValues};drop function quiz_game_internal.audited_goal_values(uuid,uuid,text[]);drop table goal_evaluation_audit;`,
     );
   }
-}, 30000);
+}, 60000);
 
 it("erhält Sci-Fi-Meisterschaft bei sinkenden aktuellen Ständen und trennt einen Kontoneustart", async () => {
   await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
     insert into quiz_game_internal.catalog_meta select 'q'||i,'g'||i,'Film '||i,'Science-Fiction','film','leicht',1,'[]' from generate_series(1,12) i;
-    select quiz_game_internal.refresh_groups();`);
+    select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();`);
   const p = await player();
   for (let i = 1; i <= 10; i++) await p.safe("g" + i, "Science-Fiction");
   await fixture.db.query(

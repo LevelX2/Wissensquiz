@@ -1,5 +1,6 @@
 import catalog from "./runtimeMetadata.json" with { type: "json" };
 import type { Question, Round } from "./model";
+import { workReferencesOf, type WorkReference } from "./workAttributes";
 
 export const familiarities = [1, 2, 3, 4] as const;
 export type Familiarity = (typeof familiarities)[number];
@@ -20,11 +21,21 @@ const byPerson = new Map<string, Familiarity>(
 );
 export const filmIdentity = (q: Question) =>
   `${q.metadata.film_title_original}|${q.metadata.film_year}`;
+export const workFamiliarityOf = (
+  work: WorkReference,
+): Familiarity | undefined =>
+  (work.type === "film"
+    ? byFilm.get(`${work.originalTitle}|${work.year}`)
+    : undefined) ?? work.familiarity;
 // Unclassified imports remain available in free modes, explicitly separate from the four classes.
-export const familiarityOf = (q: Question): Familiarity | undefined =>
+export const familiarityOf = (
+  q: Pick<Question, "metadata" | "domain" | "works">,
+): Familiarity | undefined =>
   q.metadata.person_id
     ? byPerson.get(q.metadata.person_id)
-    : byFilm.get(filmIdentity(q));
+    : workReferencesOf(q)[0]
+      ? workFamiliarityOf(workReferencesOf(q)[0])
+      : undefined;
 export const familiarityLabel = (level: number | undefined) =>
   level
     ? `${level} · ${familiarityNames[level as Familiarity]}`

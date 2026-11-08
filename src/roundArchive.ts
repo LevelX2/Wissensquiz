@@ -1,5 +1,4 @@
 import type { Question, Round, State } from "./model";
-import { workReferencesOf } from "./workAttributes";
 
 export const roundFact = (
   q: Question,
@@ -16,7 +15,6 @@ export const roundFact = (
     ...(q.metadata.person_id ? { person_id: "actor" } : {}),
   },
   tags: q.tags.includes("Preisträger") ? ["Preisträger"] : [],
-  works: workReferencesOf(q),
 });
 
 export const roundFacts = (round: Round) =>

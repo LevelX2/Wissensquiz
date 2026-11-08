@@ -1,10 +1,11 @@
-import { genreOf, questionSourceOf, genreLabel } from "./filters";
+import { questionSourceOf, genreLabel } from "./filters";
 import { learn } from "./learning";
 import type { State } from "./model";
 import { roundFacts } from "./roundArchive";
 import { discoveryMedalTargets } from "./discoveryMilestones";
 import { successTiers } from "./successTiers";
 import { careerSummary } from "./career";
+import { genresOf, workReferencesOf } from "./workAttributes";
 import type { Achievement, AchievementIconKind } from "./achievements";
 
 export type LearningAchievements = {
@@ -204,17 +205,7 @@ export function localLearningAchievements(state: State): LearningAchievements {
     learning[e.knowledgeId] = learn(learning[e.knowledgeId], e);
     seen.add(e.knowledgeId);
     if (e.correct && !e.guessed && e.answerId !== null)
-      secure.add(
-        JSON.stringify([
-          e.knowledgeId,
-          q.difficulty,
-          q.metadata.person_id
-            ? "Schauspieler"
-            : q.tags.includes("Preisträger")
-              ? "Preisträger"
-              : genreOf(q),
-        ]),
-      );
+      secure.add(JSON.stringify([e.knowledgeId, q.difficulty]));
   }
   const counts: Record<string, number> = {};
   const available: Record<string, number> = {};
@@ -234,27 +225,16 @@ export function localLearningAchievements(state: State): LearningAchievements {
   const safeGoals = new Set<string>();
   const sciFi = new Set<string>();
   for (const q of state.questions) {
-    const source = questionSourceOf(q),
-      genre = genreOf(q);
+    const source = questionSourceOf(q);
     goals.add(q.knowledgeId);
-    const safe = secure.has(
-      JSON.stringify([
-        q.knowledgeId,
-        q.difficulty,
-        source === "film"
-          ? genre
-          : source === "actors"
-            ? "Schauspieler"
-            : "Preisträger",
-      ]),
-    );
+    const safe = secure.has(JSON.stringify([q.knowledgeId, q.difficulty]));
     if (safe) safeGoals.add(q.knowledgeId);
-    if (
-      source === "film" &&
-      genre === "Science-Fiction" &&
-      q.difficulty === "leicht"
-    )
+    if (genresOf(q).includes("Science-Fiction") && q.difficulty === "leicht")
       sciFi.add(q.knowledgeId);
+    const filmWorks = workReferencesOf(q).filter(
+      (work) => work.type === "film",
+    );
+    if (source === "film" && !filmWorks.length) continue;
     const key = JSON.stringify([source, q.topic]);
     const topic = topics.get(key) ?? {
       source,
@@ -264,7 +244,10 @@ export function localLearningAchievements(state: State): LearningAchievements {
       genres: new Set(),
     };
     topic.goals.add(q.knowledgeId);
-    topic.genres.add(genre);
+    for (const genre of source === "film"
+      ? filmWorks.flatMap((work) => work.genres)
+      : genresOf(q))
+      topic.genres.add(genre);
     if (q.difficulty === "leicht") {
       topic.easy.add(q.knowledgeId);
       if (safe) topic.safe.add(q.knowledgeId);

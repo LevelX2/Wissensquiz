@@ -9,7 +9,7 @@ Die ergänzende Aufgabe [„Quellen und Links“ mit IMDb, OFDb und sprechenden 
 | Reihenfolge | Paket | Ergebnis |
 |---|---|---|
 | 1 | [Werkarten und Mehrfachzuordnungen](done/act-2026-11-08-werkarten-mehrfachzuordnungen.md) | Lokal geprüft: einheitliche Werkbezüge, Filter und aktueller Katalogpfad |
-| 2 | [Lernstand und Freischaltungen](inbox/act-2026-11-08-lernstand-freischaltungen.md) | Gemeinsamer Status, eindeutige Zähler und gewählte bereichsübergreifende Anrechnung |
+| 2 | [Lernstand und Freischaltungen](done/act-2026-11-08-lernstand-freischaltungen.md) | Gemeinsamer Status, eindeutige Zähler und gewählte bereichsübergreifende Anrechnung |
 | 3 | [Ausgewogene Filmreise](inbox/act-2026-11-08-ausgewogene-filmreise.md) | Nachweisbare Mischung ohne zusätzliche Lose durch Mehrfachzuordnungen |
 | 4 | [Auswahl und mehrere Symbole](inbox/act-2026-11-08-auswahl-zuordnungssymbole.md) | Verständliche kombinierbare Auswahl und mehrere zugängliche Symbole |
 | 5 | [Integration und Abnahme](inbox/act-2026-11-08-mehrfachzuordnungen-abnahme.md) | Abgleich der Werkarten und Mehrfachzuordnungen durch alle betroffenen Spielwege |

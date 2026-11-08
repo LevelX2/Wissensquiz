@@ -23,7 +23,11 @@ it("zählt Filme getrennt von Fakten, Varianten, Personen und geratenen Antworte
       knowledgeId: "a",
       topic: "Film A",
       difficulty: "leicht" as const,
-      metadata: { subdomain: "Drama" },
+      metadata: {
+        subdomain: "Drama",
+        film_title_original: "Testfilm A",
+        film_year: "2000",
+      },
     },
     {
       ...q,
@@ -31,7 +35,11 @@ it("zählt Filme getrennt von Fakten, Varianten, Personen und geratenen Antworte
       knowledgeId: "b",
       topic: "Film A",
       difficulty: "leicht" as const,
-      metadata: { subdomain: "Drama" },
+      metadata: {
+        subdomain: "Drama",
+        film_title_original: "Testfilm A",
+        film_year: "2000",
+      },
     },
     {
       ...q,
@@ -39,7 +47,11 @@ it("zählt Filme getrennt von Fakten, Varianten, Personen und geratenen Antworte
       knowledgeId: "a",
       topic: "Film A",
       difficulty: "leicht" as const,
-      metadata: { subdomain: "Drama" },
+      metadata: {
+        subdomain: "Drama",
+        film_title_original: "Testfilm A",
+        film_year: "2000",
+      },
     },
     {
       ...q,
@@ -47,7 +59,11 @@ it("zählt Filme getrennt von Fakten, Varianten, Personen und geratenen Antworte
       knowledgeId: "hard",
       topic: "Film A",
       difficulty: "schwer" as const,
-      metadata: { subdomain: "Drama" },
+      metadata: {
+        subdomain: "Drama",
+        film_title_original: "Testfilm A",
+        film_year: "2000",
+      },
     },
     {
       ...q,
@@ -280,7 +296,7 @@ it("leitet private Film- und Genreerfolge aus sicheren Zielen ab, erhält erreic
       insert into quiz_game_internal.catalog_meta(id,knowledge_id,topic,genre,source,difficulty,familiarity,tags)
       select 'q'||i,'g'||i,'Film '||i,'Drama','film','leicht',1,'[]' from generate_series(1,26) i;
       insert into quiz_game_internal.catalog_meta values('variant','g1','Film 1','Drama','film','leicht',1,'[]'),('second','g1b','Film 1','Drama','film','leicht',1,'[]'),('hard','hard','Film 2','Drama','film','schwer',1,'[]'),('actor','person','Person','Schauspieler','actors','leicht',1,'[]');
-      select quiz_game_internal.refresh_groups();`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();`);
     const safe = (goals: string[]) =>
       fixture.db.query(
         `insert into quiz_game_internal.secure_goals select $1,$2,g,'Drama','leicht' from unnest($3::text[]) g on conflict do nothing`,

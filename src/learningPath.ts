@@ -1,7 +1,12 @@
-import type { Difficulty, Mode, Question, State } from "./model";
+import type { Difficulty, Mode, Question, State, QuizFilters } from "./model";
 import { genreOf, questionSourceOf, sourceLabels } from "./filters";
-import { familiarityOf, type Familiarity } from "./familiarity";
+import type { Familiarity } from "./familiarity";
 import { roundFacts } from "./roundArchive";
+import {
+  areaMembershipsOf,
+  isIndependentArea,
+  selectionAreasOf,
+} from "./learningAreas";
 
 export const pathAreaOf = (
   q: Pick<Question, "metadata" | "tags" | "domain">,
@@ -18,45 +23,51 @@ export function learningPathProgress(state: State) {
     if (round.status !== "completed") continue;
     for (const q of roundFacts(round)) snapshots.set(`${round.id}:${q.id}`, q);
   }
-  const currentGoals = new Set(
-    state.questions.map((q) =>
-      JSON.stringify([pathAreaOf(q), q.difficulty, q.knowledgeId]),
-    ),
-  );
+  const currentGoals = new Map<string, Set<string>>();
+  const available = new Map<
+    string,
+    { question: Question; familiarity: Familiarity | undefined }[]
+  >();
+  for (const q of state.questions) {
+    const key = JSON.stringify([q.difficulty, q.knowledgeId]);
+    const areas = currentGoals.get(key) ?? new Set<string>();
+    for (const membership of areaMembershipsOf(q)) {
+      areas.add(membership.area);
+      const list = available.get(membership.area) ?? [];
+      list.push({ question: q, familiarity: membership.familiarity });
+      available.set(membership.area, list);
+    }
+    currentGoals.set(key, areas);
+  }
   const goals = new Map<string, Record<Difficulty, Set<string>>>();
   for (const e of state.events) {
     if (!e.correct || e.guessed || e.answerId === null) continue;
     const q = snapshots.get(`${e.roundId}:${e.questionId}`);
-    if (
-      !q ||
-      !currentGoals.has(
-        JSON.stringify([pathAreaOf(q), q.difficulty, q.knowledgeId]),
-      )
-    )
-      continue;
-    const genre = pathAreaOf(q);
-    if (!goals.has(genre))
-      goals.set(genre, {
-        leicht: new Set(),
-        mittel: new Set(),
-        schwer: new Set(),
-        experte: new Set(),
-      });
-    goals.get(genre)![q.difficulty].add(q.knowledgeId);
-  }
-  const available = new Map<string, Question[]>();
-  for (const q of state.questions) {
-    const g = pathAreaOf(q);
-    if (!available.has(g)) available.set(g, []);
-    available.get(g)!.push(q);
+    if (!q) continue;
+    for (const genre of currentGoals.get(
+      JSON.stringify([q.difficulty, e.knowledgeId]),
+    ) ?? []) {
+      if (!goals.has(genre))
+        goals.set(genre, {
+          leicht: new Set(),
+          mittel: new Set(),
+          schwer: new Set(),
+          experte: new Set(),
+        });
+      goals.get(genre)![q.difficulty].add(e.knowledgeId);
+    }
   }
   const result = new Map<string, ReturnType<typeof calculate>>();
   function calculate(genre: string) {
-    const qs = available.get(genre) ?? [];
-    const independent =
-      genre === sourceLabels.actors || genre === sourceLabels.awards;
+    const members = available.get(genre) ?? [];
+    const qs = members.map((member) => member.question);
+    const independent = isIndependentArea(genre);
     const levels = [
-      ...new Set(qs.map(familiarityOf).filter((x): x is Familiarity => !!x)),
+      ...new Set(
+        members
+          .map((member) => member.familiarity)
+          .filter((x): x is Familiarity => !!x),
+      ),
     ].sort();
     const first = levels[0] ?? 0;
     const easy = goals.get(genre)?.leicht.size ?? 0;
@@ -81,11 +92,13 @@ export function learningPathProgress(state: State) {
       const difficulty = "leicht" as const;
       const ids = [
         ...new Set(
-          qs
+          members
             .filter(
-              (q) => familiarityOf(q) === level && q.difficulty === difficulty,
+              (member) =>
+                member.familiarity === level &&
+                member.question.difficulty === difficulty,
             )
-            .map((q) => q.knowledgeId),
+            .map((member) => member.question.knowledgeId),
         ),
       ];
       const target = Math.ceil(ids.length / 2);
@@ -130,7 +143,11 @@ export function retainJourneyUnlocks(state: State) {
   const earned = { ...state.journey?.earned };
   const hasAreas = state.questions.some((q) => questionSourceOf(q) !== "film");
   const progress = learningPathProgress(state);
-  for (const genre of new Set(state.questions.map(pathAreaOf))) {
+  for (const genre of new Set(
+    state.questions.flatMap((q) =>
+      areaMembershipsOf(q).map((item) => item.area),
+    ),
+  )) {
     const p = progress(genre);
     if (
       p.first > 1 ||
@@ -163,7 +180,13 @@ export function newlyUnlocked(
   state: State,
 ): PathUnlock[] {
   const after = learningPathProgress(state);
-  return [...new Set(state.questions.map(pathAreaOf))].flatMap((genre) => {
+  return [
+    ...new Set(
+      state.questions.flatMap((q) =>
+        areaMembershipsOf(q).map((item) => item.area),
+      ),
+    ),
+  ].flatMap((genre) => {
     const old = before(genre),
       current = after(genre);
     const unlocked: PathUnlock[] = [];
@@ -186,22 +209,25 @@ export function newlyUnlocked(
 export function pathQuestions(
   state: State,
   mode: Mode = "entdecken",
+  filters?: QuizFilters,
 ): Question[] {
   if (mode !== "entdecken") return state.questions;
   const progress = learningPathProgress(state);
   return state.questions.filter((q) => {
-    const p = progress(pathAreaOf(q));
-    const fame = familiarityOf(q);
-    return (
-      !!fame &&
-      fame <= p.familiarity &&
-      (q.difficulty === "leicht" ||
-        (q.difficulty === "mittel"
-          ? p.mediumUnlocked
-          : q.difficulty === "schwer"
-            ? p.hardUnlocked
-            : p.expertUnlocked))
-    );
+    return selectionAreasOf(q, filters).some((membership) => {
+      const p = progress(membership.area);
+      const fame = membership.familiarity;
+      return (
+        !!fame &&
+        fame <= p.familiarity &&
+        (q.difficulty === "leicht" ||
+          (q.difficulty === "mittel"
+            ? p.mediumUnlocked
+            : q.difficulty === "schwer"
+              ? p.hardUnlocked
+              : p.expertUnlocked))
+      );
+    });
   });
 }
 

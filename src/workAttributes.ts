@@ -24,6 +24,9 @@ export const workReferenceSchema = z
       .max(40)
       .transform((values) => unique(values.map(normalize))),
     techniques: z.array(z.enum(techniques)).max(2),
+    familiarity: z
+      .union([z.literal(1), z.literal(2), z.literal(3), z.literal(4)])
+      .optional(),
     collections: z.array(z.enum(workCollections)).max(2).optional(),
     season: z.number().int().positive().optional(),
     episode: z.number().int().positive().optional(),
@@ -66,7 +69,9 @@ export function workReferencesOf(q: AttributedQuestion): WorkReference[] {
     ...(m.film_title_original && m.film_year
       ? [`${m.film_title_original}|${m.film_year}`]
       : []),
-    ...(m.film_refs?.split(";").filter(Boolean) ?? []),
+    ...(q.tags?.includes("Preisträger")
+      ? (m.film_refs?.split(";").filter(Boolean) ?? [])
+      : []),
   ]);
   const primary = `${m.film_title_original}|${m.film_year}`;
   return [...references].flatMap((reference) => {
@@ -102,6 +107,14 @@ export function resolveQuestionWorks<T extends AttributedQuestion>(
     for (const work of workReferencesOf(q)) {
       const key = workIdentity(work);
       const previous = known.get(key);
+      if (
+        previous?.familiarity &&
+        work.familiarity &&
+        previous.familiarity !== work.familiarity
+      )
+        throw new Error(
+          `Widersprüchliche Bekanntheit für ${work.originalTitle}.`,
+        );
       known.set(key, {
         ...work,
         genres: unique(
@@ -117,6 +130,7 @@ export function resolveQuestionWorks<T extends AttributedQuestion>(
             previous?.collections?.includes(item) ||
             work.collections?.includes(item),
         ),
+        familiarity: work.familiarity ?? previous?.familiarity,
       });
     }
   }
@@ -127,6 +141,7 @@ export function resolveQuestionWorks<T extends AttributedQuestion>(
       genres: known.get(workIdentity(work))!.genres,
       techniques: known.get(workIdentity(work))!.techniques,
       collections: known.get(workIdentity(work))!.collections,
+      familiarity: known.get(workIdentity(work))!.familiarity,
     })),
   }));
 }

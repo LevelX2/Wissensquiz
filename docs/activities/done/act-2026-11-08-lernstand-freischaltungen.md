@@ -1,6 +1,7 @@
 ---
 activityId: act-2026-11-08-lernstand-freischaltungen
-status: in_progress
+status: done
+completedAt: 2026-11-08
 kind: fix
 area: shared
 priority: normal
@@ -11,8 +12,8 @@ startedAt: 2026-11-08
 owner: wissensquiz-werkarten-20261108-root
 branch: codex/werkarten-mehrfachzuordnungen-20261108
 blockedBy: [act-2026-11-08-werkarten-mehrfachzuordnungen]
-resultArtifacts: []
-checks: []
+resultArtifacts: [src/learningAreas.ts, src/learningPath.ts, src/prepareWorkReferences.ts, src/learningAchievements.ts, supabase/migrations/20261108071001_work_area_progress_and_unlocks.sql, docs/Pruefbericht.md]
+checks: ["94 gezielte Tests in 13 Dateien", "npm run check", "git diff --check"]
 ---
 
 # Gemeinsamer Lernstand und passende Freischaltanrechnung
@@ -50,4 +51,4 @@ Zuerst den Zielbestand jedes Freischaltpfads definieren, dann dessen sichere Tre
 
 ## Ergebnisnotiz
 
-Vorbereitet; noch nicht umgesetzt.
+Lokal umgesetzt und geprüft. Gemeinsame Zielbelege werden auf aktuelle getrennte Film-/Serienpfade projiziert; Personen-/Preistreffer zählen zusätzlich in passende Werkpfade. Keine privaten Belege umgeschrieben und keine produktive SQL-Aktivierung. Auswahl und Oberfläche folgen in den nächsten Paketen.

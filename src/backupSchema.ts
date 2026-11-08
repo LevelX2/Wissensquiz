@@ -1,11 +1,6 @@
 import { z } from "zod";
 import { questionSchema } from "./questionSchema";
-import {
-  techniques,
-  workTypes,
-  workReferenceSchema,
-  workCollections,
-} from "./workAttributes";
+import { techniques, workTypes, workCollections } from "./workAttributes";
 import { BANK_START } from "./recordModes";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
@@ -35,7 +30,6 @@ export const roundFactSchema = z.object({
   answerIds: z.array(id).length(4),
   metadata: z.object({ subdomain: id.optional(), person_id: id.optional() }),
   tags: z.array(z.literal("Preisträger")).max(1),
-  works: z.array(workReferenceSchema).max(50).optional(),
 });
 export const roundSchema = z.object({
   id,

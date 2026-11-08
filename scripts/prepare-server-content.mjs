@@ -41,11 +41,11 @@ try {
       })),
     ),
   );
-  const { resolveQuestionWorks } = await server.ssrLoadModule(
-    "/src/workAttributes.ts",
+  const { prepareQuestionWorks } = await server.ssrLoadModule(
+    "/src/prepareWorkReferences.ts",
   );
   const { withCategoryTags } = await server.ssrLoadModule("/src/categories.ts");
-  const questions = resolveQuestionWorks(
+  const questions = prepareQuestionWorks(
     validateBackup(state).questions.map(withCategoryTags),
   );
   const posters = JSON.parse(

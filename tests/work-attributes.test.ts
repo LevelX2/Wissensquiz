@@ -130,6 +130,7 @@ it("ordnet mehreren Filmverweisen nur am jeweiligen Werk belegte Genres zu", () 
   });
   const price = {
     ...film("A", "Fantasy"),
+    tags: ["Preisträger"],
     metadata: {
       ...film("A", "Fantasy").metadata,
       film_refs: "A|2000;B|2000;Unknown|2000",

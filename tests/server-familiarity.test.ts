@@ -34,7 +34,7 @@ async function player() {
 
 const filters: QuizFilters = {
   sources: ["film", "actors", "awards"],
-  genres: ["Abenteuer"],
+  genres: null,
   difficulties: ["leicht", "mittel", "schwer", "experte"],
   familiarities: [1, 2, 3, 4],
 };
@@ -58,7 +58,7 @@ it("zieht neue Serverziele nach Bereich und dessen freigespielter Bekanntheit, u
       insert into quiz_game_internal.catalog_meta
       select 'variant'||i,knowledge_id,topic,genre,source,difficulty,familiarity,tags
       from quiz_game_internal.catalog_meta cross join generate_series(1,20) i where id='1-0';
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `
       insert into quiz_game_internal.secure_goals
@@ -129,7 +129,7 @@ it("zieht neue Serverziele nach Bereich und dessen freigespielter Bekanntheit, u
       ),
     ).toBe(true);
     expect(
-      (await queue({ ...filters, genres: [], sources: ["actors"] })).every(
+      (await queue({ ...filters, genres: null, sources: ["actors"] })).every(
         (id) => catalog.get(id)!.source === "actors",
       ),
     ).toBe(true);
@@ -191,7 +191,7 @@ it("entfernt Serverziele aus allen Gruppen und füllt nach Ausschöpfung mit bek
       ('unique','unique','Test','Abenteuer','film','leicht',4,'[]');
       insert into quiz_game_internal.catalog_meta
       select 'known'||i,'known'||i,'Test','Abenteuer','film','leicht',1,'[]' from generate_series(1,10) i;
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `
       insert into quiz_game_internal.secure_goals
@@ -281,7 +281,7 @@ it("filtert Gruppen bei Film, Schauspielern und Preisen; Genres begrenzen allein
       cross join generate_series(1,4) level
       cross join unnest(array['leicht','mittel','schwer','experte']) difficulty
       where source<>'film' or difficulty<>'experte';
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     const pool = async (selected: object, topic = "Alle Themen") =>
       (
         await fixture.db.query<{ source: string; familiarity: number }>(
@@ -296,9 +296,10 @@ it("filtert Gruppen bei Film, Schauspielern und Preisen; Genres begrenzen allein
     expect(new Set(rows.map((r) => r.source))).toEqual(
       new Set(["film", "actors", "awards"]),
     );
-    expect(await pool({ ...group2, genres: [] })).toHaveLength(8);
+    expect(await pool({ ...group2, genres: [] })).toHaveLength(0);
+    expect(await pool({ ...group2, genres: ["Abenteuer"] })).toHaveLength(3);
     expect(
-      await pool({ ...group2, sources: ["actors"], genres: [] }),
+      await pool({ ...group2, sources: ["actors"], genres: null }),
     ).toHaveLength(4);
     expect(await pool(group2, "Schauspieler")).toHaveLength(4);
     expect(await pool({ ...group2, familiarities: [] })).toEqual([]);
@@ -334,7 +335,7 @@ it("öffnet Personen- und Preisgruppen anhand aufgerundeter Hälften aktueller l
       insert into quiz_game_internal.catalog_meta
       select id||'-variant',knowledge_id,topic,genre,source,difficulty,familiarity,tags
       from quiz_game_internal.catalog_meta where id='Schauspieler1leicht1';
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     const progress = async () =>
       (
         await fixture.db.query<{ value: any }>(
@@ -442,7 +443,7 @@ it("wiederholt fällige Personen- und Preisziele auch oberhalb noch geschlossene
       ('award','award-goal','Test','Preisträger','awards','schwer',4,'["Preisträger"]'),
       ('new','new-goal','Test','Schauspieler','actors','leicht',4,'["Schauspieler"]'),
       ('later','later-goal','Test','Preisträger','awards','leicht',4,'["Preisträger"]');
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `
       insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
@@ -453,7 +454,7 @@ it("wiederholt fällige Personen- und Preisziele auch oberhalb noch geschlossene
     const setup = {
       mode: "fehler",
       topic: "Alle Themen",
-      filters: { ...filters, genres: [], familiarities: [4] },
+      filters: { ...filters, genres: null, familiarities: [4] },
     };
     expect(
       (
@@ -577,8 +578,8 @@ it("verteilt Serverbereiche für neue und wiederholte Ziele und behält die ält
       select area||'-'||i,area||'-'||i,'Test',area,source,'leicht',1,'[]'
       from (values ('Schauspieler','actors',200),('Abenteuer','film',30),('Drama','film',30),('Preisträger','awards',30)) sizes(area,source,n)
       cross join lateral generate_series(0,n-1) i;
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
-    const selectedFilters = { ...filters, genres: ["Abenteuer", "Drama"] };
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+    const selectedFilters = { ...filters, genres: null };
     const catalog = new Map(
       (
         await fixture.db.query<{ id: string; genre: string }>(
@@ -647,7 +648,7 @@ it("verteilt Serverbereiche für neue und wiederholte Ziele und behält die ält
     await fixture.db.exec(`
       insert into quiz_game_internal.catalog_meta
       select 'second-'||i,'second-'||i,'Test','Schauspieler','actors','leicht',2,'[]' from generate_series(0,49) i;
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `
       insert into quiz_game_internal.secure_goals

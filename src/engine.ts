@@ -375,7 +375,7 @@ export function startRound(
     };
   }
   const selected = selectQuestions(
-    pathQuestions(state, options.mode).filter(
+    pathQuestions(state, options.mode, options.filters).filter(
       (q) =>
         (options.recordPreset !== "standard" &&
           options.recordPreset !== "genre") ||
