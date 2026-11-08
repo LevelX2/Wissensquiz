@@ -4,7 +4,7 @@
 
 Die laufende Erweiterung zielt auf zusätzliche Werkfragen zu jeweils mindestens 50 Animationsfilmen, Science-Fiction-Serien, Fantasy-Serien und Serien anderer Genres. Mehrfachgenres werden für diese Mengenziele nur einmal gezählt. Die übergreifende Serienauswahl ist kein Genre. Der vollständige Auftrag ist noch nicht abgeschlossen.
 
-Im aktuellen Arbeitsstand sind 174 zusätzliche Fragen mit 174 eigenständigen Wissenszielen zu 47 Werken aufgenommen. Animationsfilme: 44 Werke / 156 Fragen; Science-Fiction-Serien: 1 / 6; Fantasy-Serien: 1 / 6; andere Serien: 1 / 6. Verteilung: 44 leicht, 86 mittel, 44 schwer. Erstmals vollständig abgedeckte Filmblöcke enthalten je zwei Inhaltsziele pro Schwierigkeit sowie Jahr und vollständige Regie; die Serien je zwei Inhaltsziele pro Schwierigkeit.
+Im aktuellen Arbeitsstand sind 228 zusätzliche Fragen mit 228 eigenständigen Wissenszielen zu 56 Werken aufgenommen. Animationsfilme: 44 Werke / 156 Fragen; Science-Fiction-Serien: 1 / 6; Fantasy-Serien: 10 / 60; andere Serien: 1 / 6. Verteilung: 62 leicht, 104 mittel, 62 schwer. Erstmals vollständig abgedeckte Filmblöcke enthalten je zwei Inhaltsziele pro Schwierigkeit sowie Jahr und vollständige Regie; die Serien je zwei Inhaltsziele pro Schwierigkeit.
 
 Die aktuelle Redaktion steht unmittelbar in den Fachbeständen. Filmdaten neuer Fassungen liegen in `src/editorialFilmFacts.json`; das Register enthält Metadaten und Belege, keine Fragenkopien. Bestehende Filmmetadaten bleiben führend für bereits abgedeckte Fassungen. Die typisierten Werkbezüge führen Genre und Machart getrennt. Serien enthalten keine pauschale Gesamtregie und keine erfundenen Folgenangaben.
 
