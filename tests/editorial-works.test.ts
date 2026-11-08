@@ -6,6 +6,7 @@ import { preparePresentation } from "../src/questionPresentation";
 import { filmData } from "../src/filmFacts";
 import { workIdentity, matchesWorkFilters } from "../src/workAttributes";
 import { sourceLinkLabel } from "../src/SourceLink";
+import { questionSourceOf } from "../src/filters";
 
 const state = emptyState();
 addPackages(
@@ -24,10 +25,11 @@ it("übernimmt redigierte Werkfragen mit vollständiger Mindestabdeckung und get
     const work = questions[0].works![0];
     const related = state.questions.filter(
       (q) =>
-        q.works?.some((w) => workIdentity(w) === key) ||
-        (work.type === "film" &&
-          q.metadata.film_title_original === work.originalTitle &&
-          q.metadata.film_year === String(work.year)),
+        questionSourceOf(q) === "film" &&
+        (q.works?.some((w) => workIdentity(w) === key) ||
+          (work.type === "film" &&
+            q.metadata.film_title_original === work.originalTitle &&
+            q.metadata.film_year === String(work.year))),
     );
     const content = related.filter(
       (q) =>
