@@ -16,6 +16,22 @@ Im ausdrücklich beauftragten Worktree umgesetzt: geprüfte Werkbezüge mit getr
 
 SQL-Datei `20261108064313_work_attributes_and_filter_contract.sql` per Supabase CLI 3.0.0 lokal angelegt und in isoliertem PGlite geprüft. Keine produktiven Datenbank- oder privaten Nutzerdatenänderungen. Freischaltanrechnung, Auswahlgewichtung, Oberfläche und gemeinsame Abnahme sind weitere Pakete; kein vollständiger Veröffentlichungsprüflauf für diesen Teilblock.
 
+## 08.11.2026 – Antworttexte dauerhaft mit Auflösungsfarben hinterlegt, lokal
+
+Direkte Antwortansicht und unmittelbarer Rundenrückblick verwenden für Antworttexte dieselben CSS-Farbregeln wie die kurz eingeblendeten Antwortoptionen: richtige Auswahl/Lösung grün (`#e3f2e7`, Rahmen `#4e8a61`, Text `#174b2d`), gewählte falsche Antwort rot (`#fbe5df`, Rahmen `#b96657`, Text `#7d2d23`). „Keine Ahnung“ und Zeitablauf bleiben neutral, die richtige Lösung grün. Beschriftungen und Ergebnisrückmeldung erhalten; keine Änderung an Wertung oder Speicherformat.
+
+Metadaten/TypeScript mit `npm run check` und Diffprüfung erfolgreich. Acht Ansichten aus den tatsächlichen React-Komponenten `QuestionScreen` und `Result` mit vollständiger App-CSS im isolierten Chromium bei kontrollierter Testzeit und 390 Pixel Breite geprüft: richtig, falsch, „Keine Ahnung“ und Zeitablauf, jeweils direkt und im geöffneten Rückblick. Hintergrund-, Rahmen- und Textfarben einschließlich des fett gesetzten Antworttexts exakt abgeglichen; keine horizontale Überbreite. Screenshots der richtigen und falschen Antwort visuell geprüft.
+
+Ein gezielter bestehender End-to-End-Lauf gegen den Entwicklungsserver erreichte wegen einer Zeitüberschreitung bereits bei `page.goto` die Antwortansicht nicht; weitere Fälle abgebrochen. Dieser Lauf gilt nicht als bestanden. Die anschließende isolierte Komponentenprüfung deckt die geänderte Darstellung ab; vollständiger Browserlauf und Produktionsbuild sind für diese kleine lokale Änderung nicht gestartet. Keine echten Konten oder produktiven Dienste verwendet; noch nicht veröffentlicht.
+
+## 08.11.2026 – Aktuelles Karrierelevel in Rekordlisten, lokal
+
+Persönliche Rekordläufe lieferten bisher immer null XP, die gemeinsame Liste Wettbewerbs-XP. Beide Abfragen lesen jetzt die vorhandene globale Karriereprojektion wie das Profil. Fachlich gilt das aktuelle Level zum Listenabruf auch für alte Läufe; UI-Hinweis ergänzt. Migration `20261108074025_record_run_career_level.sql` ersetzt nur die beiden Abfragefunktionen und erhält deren Ausführungsrechte. Keine produktive Aktivierung und keine Änderung echter Konten oder Spielstände.
+
+Die zwei gezielt ausgeführten Regressionstests scheiterten vor der Korrektur an den falschen XP-Werten. Anschließend **29 Tests in drei Dateien erfolgreich**: `leaderboard-integrity`, `ranked-runs` und `career`. Die echte Migrationsfolge läuft in isoliertem PGlite. Nachgewiesen sind Übereinstimmung mit dem serverberechneten Profilfortschritt, mehrere ältere Läufe desselben Kontos mit Level 12/Cineast, ein zweites Konto mit anderem Level, späterer Aufstieg auf Level 13 mit ansonsten feldgleichen Ergebnissen sowie anonyme öffentliche Rückgabe ohne private Felder. Die bestehende private Seitennavigation und Kontentrennung sind ebenfalls geprüft. Keine Testantworten gegen echte Konten.
+
+`npm run check` (Laufzeitmetadaten und TypeScript) und `git diff --check` erfolgreich. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf für diese begrenzte Korrektur. Supabase CLI 3.0.0: `supabase db advisors --type security` lokal versucht, mangels laufendem PostgreSQL unter `127.0.0.1:54322` mit `ECONNREFUSED` nicht ausführbar; kein erfolgreicher Advisor-Lauf behauptet. Vor einer späteren Veröffentlichung gelten die gebündelten Prüfungen aus `AGENTS.md` einschließlich Aktivierung und Rechteprüfung der Migration.
+
 ## 07.11.2026 – Version 88 veröffentlicht und live abgenommen
 
 Um 23:44:14 Uhr Europe/Berlin als Version 88 veröffentlicht. 100 Oscarfragen gehören vollständig zu Preisträger; aktueller Katalog 19.403 Fragen / 18.650 Ziele / 380 Preisfragen. Drei Fachbereiche in 14 aktuellen Dateien, Filmfragen nach Genre. Bestehende Fragenfelder, IDs, Wissensziele und private Lernbelege erhalten. [Dauerhafter Veröffentlichungsnachweis](Veroeffentlichung-2026-11-07-Version-88.json).

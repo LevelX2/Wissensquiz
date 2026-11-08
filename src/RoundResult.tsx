@@ -442,17 +442,23 @@ export function Result({
                   {q.presentation?.questionText ?? q.question}
                 </summary>
                 {!e.correct && (
-                  <p>
-                    <strong>Deine Antwort:</strong>{" "}
-                    {e.dontKnow
-                      ? "Keine Ahnung"
-                      : (q.answers.find((a) => a.id === e.answerId)?.text ??
-                        "Zeit abgelaufen – keine Antwort")}
+                  <p
+                    className={`chosen-answer answer-result ${e.answerId !== null ? "wrong" : ""}`}
+                  >
+                    Deine Antwort:{" "}
+                    <strong>
+                      {e.dontKnow
+                        ? "Keine Ahnung"
+                        : (q.answers.find((a) => a.id === e.answerId)?.text ??
+                          "Zeit abgelaufen – keine Antwort")}
+                    </strong>
                   </p>
                 )}
-                <p>
-                  <strong>Lösung:</strong>{" "}
-                  {q.answers.find((a) => a.id === q.correctId)?.text}
+                <p className="correct-answer answer-result correct">
+                  Lösung:{" "}
+                  <strong>
+                    {q.answers.find((a) => a.id === q.correctId)?.text}
+                  </strong>
                 </p>
                 <Explanation q={q} event={e}>
                   {e.guessed && <p className="muted">Als geraten markiert.</p>}

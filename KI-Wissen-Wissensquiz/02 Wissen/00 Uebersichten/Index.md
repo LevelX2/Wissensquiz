@@ -2,6 +2,10 @@
 
 - [Werkarten und Mehrfachzuordnungen im Worktree in Umsetzung, zwei von fünf Paketen lokal geprüft; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
 
+- [Antworttexte auch nach der Auflösung und im Rundenrückblick grün/rot hinterlegt – 08.11.2026, lokal](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
+
+- [Rekordlisten: aktuelles Karrierelevel wie im Profil auch bei alten Läufen; Level-1-Fehler lokal korrigiert – 08.11.2026](../../../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal)
+
 - [Version 88 veröffentlicht: 100 neue Oscarfragen, aktueller Katalog mit 19.403 Fragen, Filmreise und Alternativtitel – 07.11.2026](../../../docs/Veroeffentlichung-2026-11-07-Version-88.json)
 
 - [380 aktuelle Preisfragen: 100 Oscar-Darstellungsfragen mit vielfältigen Grundformen – seit Version 88 veröffentlicht](../../../docs/Preistraeger.md)

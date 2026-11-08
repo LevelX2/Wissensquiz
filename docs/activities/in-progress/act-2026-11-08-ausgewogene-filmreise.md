@@ -1,6 +1,9 @@
 ---
 activityId: act-2026-11-08-ausgewogene-filmreise
-status: inbox
+status: in_progress
+startedAt: 2026-11-08
+owner: wissensquiz-werkarten-20261108-root
+branch: codex/werkarten-mehrfachzuordnungen-20261108
 kind: fix
 area: engine
 priority: normal

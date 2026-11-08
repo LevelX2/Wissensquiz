@@ -18,8 +18,9 @@
 - Nutzer mit Du ansprechen; sichtbare UI-Texte und deutsche Wissensseiten mit echten Umlauten und ß verfassen. Technische Pfade, IDs, Symbole und Originalzitate unverändert lassen.
 - Belastbare, dauerhaft nützliche Erkenntnisse auf passenden Wissensseiten pflegen. Klare Folgepflege direkt ausführen; bei ungeklärten fachlichen Widersprüchen oder Zuordnungen gezielt nachfragen.
 - Neue generische Regeln nur mit ausdrücklicher Freigabe in das Haupt-Vault übernehmen.
-- Fachliche Quellen vollständig auswerten und betroffene Wissensseiten, Index und bei Relevanz das Log nachziehen. Widersprüche sichtbar machen. Für Fragen gilt die untenstehende Direktive zum aktuellen Katalog; frühere Lieferungen und Redaktionsstände brauchen keine zusätzlichen Archive.
-- Status als aktuellen Snapshot führen. Das Log bleibt chronologisch und append-only; nur wesentliche Entwicklungen, Entscheidungen, Risiken, Verifikationen und Abschlussstände dokumentieren, keine einzelnen Toolaufrufe.
+- Maßgeblich sind die richtigen Informationen und das aktuelle Verhalten der Anwendung. Projektwissen auf geltende Fachregeln, notwendige Belegquellen, Betriebsanweisungen, offene Risiken und erforderliche Prüfnachweise beschränken. Keine zusätzliche Genese der Anwendung dokumentieren: Rechercheberichte, Bearbeitungsverläufe, kopierte Chat-Aufträge und doppelte Ergebnislisten nach Übernahme der Ergebnisse entfernen; Git hält die Änderungsgeschichte vor.
+- Fachliche Quellen vollständig auswerten und aktuelle Anwendungsdaten sowie betroffene Fachseiten und Navigation nachziehen. Widersprüche sichtbar machen. Originalquellen erhalten, soweit sie als aktueller Beleg oder unersetzliche Arbeitsgrundlage benötigt werden. Für Fragen gilt außerdem die untenstehende Direktive zum aktuellen Katalog.
+- Status als aktuellen Snapshot führen. Das Log nicht als Entwicklungs- oder Recherchechronik fortschreiben. Bestehende reine Geneseeinträge dürfen bei zugehöriger Bereinigung entfallen; weiterhin benötigte fachliche Belege, Betriebsinformationen und Prüfnachweise erhalten.
 
 ## Git, Checks und Sicherheit
 
