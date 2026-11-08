@@ -1,5 +1,9 @@
 # Prüfnachweis
 
+## 08.11.2026 – Ausgewogene Mehrfachauswahl: Paket 3 lokal
+
+Genau ein Auswahlplatz je Ziel vor der Bereichs-/Gruppen-/Stufenauslosung, lokal und im tatsächlichen SQL. Zusätzliche Varianten in anderen Bereichen/Stufen erhöhen die Ziehchance nicht. 100 kontrollierte lokale Zufallsfolgen ergeben mit und ohne zusätzliche Varianten exakt dieselben Zielsequenzen. Für neue, fällige und bekannte Ziele jeweils 80 SQL-Runden mit zehn unterschiedlichen Zielen: beide ursprünglichen Bereiche innerhalb der vorab festgelegten Toleranz; eng gefilterter alternativer Zugang nutzbar. Kleine Restmengen und Serienzugänge geprüft. Zusammen mit `discovery`, `server-familiarity` und `server-work-progress` **27 Tests in vier Dateien erfolgreich**, ebenso TypeScript und Diffprüfung. Lokale Migration `20261108082311_unique_goal_selection_paths.sql`; keine produktive Aktivierung.
+
 ## 08.11.2026 – Gemeinsamer Lernstand und getrennte Werkpfade: Paket 2 lokal
 
 Ein Lernstand je Wissensziel; sichere Belege aus abgeschlossenen Runden zählen mit ihrer tatsächlichen Schwierigkeit in allen aktuellen passenden Bereichen. Film-/Serienpfade sowie Personen-/Werkbekanntheit sind getrennt, Expertentreffer öffnen keine Werk-Expertenstufe. Allgemeine Personenporträts erben keine Genres ihrer Filmografie. Eine gleichnamige Serie übernimmt keine Filmplakate, Regie-/Jahresfragen oder Filmbekanntheit. Globale Summen und XP bleiben eindeutig. Private Antwort-, Lern- und Wertungsbelege werden nicht umgeschrieben.
