@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "78650b86a6f2e5a3603c5388ed5e6bde9fdc99103ca67addf3cc3bf4c03098e1",
+  "catalogSha256": "bc12740132bf7af1f3702a5b03efe215ed1c5392758838dd1b31527f10174cb6",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 20483,
-    "knowledgeGoals": 19730,
+    "questions": 20507,
+    "knowledgeGoals": 19754,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 16679,
+    "film": 16703,
     "actors": 3424,
     "awards": 380
   },
@@ -255,7 +255,7 @@
     },
     {
       "attributes": "film|Drama|leicht|2",
-      "count": 108
+      "count": 110
     },
     {
       "attributes": "film|Drama|leicht|3",
@@ -271,7 +271,7 @@
     },
     {
       "attributes": "film|Drama|mittel|2",
-      "count": 195
+      "count": 197
     },
     {
       "attributes": "film|Drama|mittel|3",
@@ -287,7 +287,7 @@
     },
     {
       "attributes": "film|Drama|schwer|2",
-      "count": 104
+      "count": 106
     },
     {
       "attributes": "film|Drama|schwer|3",
@@ -447,11 +447,11 @@
     },
     {
       "attributes": "film|Krimi|leicht|2",
-      "count": 10
+      "count": 12
     },
     {
       "attributes": "film|Krimi|leicht|3",
-      "count": 4
+      "count": 6
     },
     {
       "attributes": "film|Krimi|mittel|1",
@@ -459,11 +459,11 @@
     },
     {
       "attributes": "film|Krimi|mittel|2",
-      "count": 10
+      "count": 12
     },
     {
       "attributes": "film|Krimi|mittel|3",
-      "count": 4
+      "count": 6
     },
     {
       "attributes": "film|Krimi|schwer|1",
@@ -471,11 +471,11 @@
     },
     {
       "attributes": "film|Krimi|schwer|2",
-      "count": 10
+      "count": 12
     },
     {
       "attributes": "film|Krimi|schwer|3",
-      "count": 4
+      "count": 6
     },
     {
       "attributes": "film|Martial Arts & Asia-Film|leicht|1",
@@ -723,7 +723,7 @@
     },
     {
       "attributes": "film|Western|leicht|2",
-      "count": 48
+      "count": 50
     },
     {
       "attributes": "film|Western|leicht|3",
@@ -739,7 +739,7 @@
     },
     {
       "attributes": "film|Western|mittel|2",
-      "count": 92
+      "count": 94
     },
     {
       "attributes": "film|Western|mittel|3",
@@ -755,7 +755,7 @@
     },
     {
       "attributes": "film|Western|schwer|2",
-      "count": 44
+      "count": 46
     },
     {
       "attributes": "film|Western|schwer|3",
