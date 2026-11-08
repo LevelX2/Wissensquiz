@@ -1,16 +1,18 @@
 # Filmkarriere und Erfahrungspunkte
 
+**Acht Karriereränge – lokal, noch nicht veröffentlicht:** Die Filmkarriere gehört im Profil zu „Deine Erfolge“. Aktueller Rang, Level-/XP-Fortschritt, nächster Rang und alle acht Rangembleme stehen dort zusammen. Die Ranggrenzen und Motive sind unten definiert. XP-Formel, numerische Levelkurve und Spielstände werden dadurch nicht verändert; keine Serverumstellung erforderlich.
+
 **08.11.2026 – Level in Rekordlisten, lokal:** Auch ältere eigene und gemeinsame Rekordläufe zeigen beim Abruf das aktuelle Karrierelevel und den aktuellen Titel wie im Profil. Punkte und Platzierung bleiben laufbezogen. Die Serverkorrektur ist noch nicht produktiv aktiviert. [Anzeigevertrag und Ursache](Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal).
 
 **25.10.2026 – Getrennte Highscore-Wertungen, lokal:** „Lernfortschritt · Karriere-XP“ zeigt dieselben aktuellen Karriere-XP, Level und Titel wie das Profil. Daneben bleibt „Wettbewerbs-XP“ mit eigener Wertung erhalten. Karriere ist der Standardeinstieg im gleichnamigen Highscore-Bereich. Seit Version 85 veröffentlicht; [Quellen, Darstellung und Einführung](Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal).
 
-**17.10.2026 – Darstellungsänderung, seit Version 83 veröffentlicht:** Levelaufstieg, Erfolge und Freischaltungen erhalten gleichwertige Emblemkarten. Das Kronenmotiv erscheint identisch im Feierdialog und in den Karriereanzeigen. Die frühere visuelle Priorität Level vor Abzeichen vor Freischaltung entfällt; XP-Regeln, Levelkurve und das einmalige gemeinsame Signal bleiben erhalten. [Aktueller Darstellungsvertrag](Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026).
+Levelaufstieg, Erfolge und Freischaltungen erhalten gleichwertige Emblemkarten. Das jeweilige Rangmotiv erscheint identisch im Feierdialog und in den Karriereanzeigen. XP-Regeln, Levelkurve und das einmalige gemeinsame Signal bleiben erhalten. [Darstellungsvertrag](Erfolge.md).
 
 ## Aktueller Betriebsvertrag – 13.10.2026
 
 Leveldialog und Zehner-Abzeichen seit [Version 75](Veroeffentlichung-2026-10-12-Version-75.json) öffentlich verfügbar.
 
-Seit Version 77 erweitert: [gemeinsames Erfolgssystem](Erfolge.md) mit fünf Stufen, zentralen Icons/Signalen, Profilübersicht und Fortschritt. [Optimierung am 12.10.2026](Erfolge.md#inkrementelle-erfolgsberechnung-und-profilabrufe--lokal-am-12102026): EXP-Gesamtstand aus der Differenz geänderter kanonischer Zielbeiträge statt erneuter Vollsumme, gespeicherte Erfolgszähler und Profilabrufe bei Bedarf. XP-Formel und Levelkurve bleiben unverändert. App und private Serverprojektionen sind gemeinsam veröffentlicht; [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-13-Version-77.json).
+Das [gemeinsame Erfolgssystem](Erfolge.md) hat zwölf Erfolgsstufen, zentrale Icons/Signale, Profilübersicht und Fortschritt. EXP-Gesamtstand aus der Differenz geänderter kanonischer Zielbeiträge statt erneuter Vollsumme, gespeicherte Erfolgszähler und Profilabrufe bei Bedarf: [Berechnungsvertrag](Erfolge.md#inkrementelle-erfolgsberechnung-und-profilabrufe--lokal-am-12102026). XP-Formel und Levelkurve bleiben unverändert.
 
 Kontorunden werden serverseitig ausgewählt und ausgewertet; der Server leitet XP und Lernstände aus privaten Antwortbelegen ab. Ergebnis und Sammlung erhalten kleine vorbereitete Ansichten. Der Client lädt weder einen Vollkatalog noch eine vollständige Karrierehistorie. Führend ist [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Die folgenden XP-Regeln und Levelhürden gelten weiter; die ausdrücklich historischen Abschnitte zur früheren Speicherung und Übernahme beschreiben keinen aktuellen Speicherweg.
 
@@ -54,15 +56,20 @@ Für den Aufstieg von Level `L` auf `L + 1` werden `100 + 50 × (L − 1)` XP be
 | 10 → 11 | 550 |
 | 20 → 21 | 1.050 |
 
-| Ab Level | Titel |
-| ---: | --- |
-| 1 | Kinogänger |
-| 5 | Filmfan |
-| 10 | Cineast |
-| 20 | Filmchronist |
-| 35 | Filmlegende |
+| Ab Level | Titel | Goldmotiv |
+| ---: | --- | --- |
+| 1 | Kinogänger | Zwei versetzte Kinokarten mit Stern |
+| 3 | Filmfan | Gefüllte Popcorntüte mit Stern |
+| 6 | Filmkenner | Filmrolle, Filmstreifen und Prüflupe |
+| 10 | Cineast | Klassische Filmkamera mit zwei Rollen |
+| 15 | Filmexperte | Geöffnete Filmklappe mit großem Stern |
+| 20 | Filmchronist | Aufgeschlagene Chronik mit Filmstreifen |
+| 27 | Filmmeister | Regiestuhl mit Stern und Megafon |
+| 35 | Filmlegende | Große Krone mit Stern |
 
-Die Filmklappe wächst farblich und ab Cineast mit einem Rahmen, ab Filmchronist mit Lorbeer und ab Filmlegende mit einem zusätzlichen Sternmotiv. Der Karrieretitel beschreibt Spielerfahrung und Lernleistungen. Genre-Wissensabzeichen und Filmreise-Freischaltungen behalten ihre eigenen Fachregeln; der globale Spielerlevel schaltet keine schwierigeren Fragen frei.
+Alle Ränge teilen einen goldenen Filmstreifenring, dunkles Innenfeld, Lorbeer und Band. Große plastische Motive mit Metallverläufen und Reliefschatten ragen über den inneren Ring, bleiben aber innerhalb der gemeinsamen Zeichenfläche. `CareerIcon` liefert dieselbe Rangdarstellung für Profil, Seitenkopf, Sammlung, Ranglisten und Feierdialog. Offene Ränge sind neutral eingefärbt und mit „Noch offen“ beschriftet; der aktuelle Rang ist zusätzlich mit „Dein Rang“ markiert. Nach Filmlegende steigen die numerischen Level weiter.
+
+Der Karrieretitel beschreibt Spielerfahrung und Lernleistungen. Die acht Karriereembleme bilden innerhalb von „Deine Erfolge“ eine eigene Rangreihe; sie werden nicht zusätzlich in den Zähler der übrigen Erfolgsmeilensteine aufgenommen. Die zwölf Bronze-bis-Film-Olymp-Stufen der übrigen Erfolge bleiben eigenständig. Bei einer Aufstiegsfeier steuert die Position des Karriererangs wie bisher die Signalstärke; die nun acht Ränge verwenden die ersten acht vorhandenen Signalstufen. Genre-Wissensabzeichen und Filmreise-Freischaltungen behalten ihre eigenen Fachregeln; der globale Spielerlevel schaltet keine schwierigeren Fragen frei.
 
 ## Darstellung und historische Ergebnisse (Version 75)
 

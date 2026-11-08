@@ -3,12 +3,19 @@ import { dayKey, learn } from "./learning";
 import { roundFacts } from "./roundArchive";
 
 export const careerTitles = [
-  { level: 1, title: "Kinogänger" },
-  { level: 5, title: "Filmfan" },
-  { level: 10, title: "Cineast" },
-  { level: 20, title: "Filmchronist" },
-  { level: 35, title: "Filmlegende" },
+  { level: 1, title: "Kinogänger", motif: "tickets" },
+  { level: 3, title: "Filmfan", motif: "popcorn" },
+  { level: 6, title: "Filmkenner", motif: "reel" },
+  { level: 10, title: "Cineast", motif: "camera" },
+  { level: 15, title: "Filmexperte", motif: "clapper" },
+  { level: 20, title: "Filmchronist", motif: "chronicle" },
+  { level: 27, title: "Filmmeister", motif: "chair" },
+  { level: 35, title: "Filmlegende", motif: "crown" },
 ] as const;
+export type CareerTitle = (typeof careerTitles)[number];
+export const careerTitleAt = (level: number): CareerTitle =>
+  [...careerTitles].reverse().find((title) => level >= title.level) ??
+  careerTitles[0];
 export const levelThreshold = (level: number) => 25 * (level - 1) * (level + 2);
 export function careerProgress(experience: number) {
   const xp = Math.max(0, Math.floor(experience));
@@ -19,7 +26,7 @@ export function careerProgress(experience: number) {
   while (levelThreshold(level) > xp) level--;
   const needed = 100 + 50 * (level - 1);
   const current = xp - levelThreshold(level);
-  const title = [...careerTitles].reverse().find((t) => level >= t.level)!;
+  const title = careerTitleAt(level);
   return {
     level,
     title: title.title,

@@ -20,12 +20,11 @@ for (const width of [320, 1280]) {
     const before = await readStoredState(page);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
     const sections = page.locator(".profile-section");
-    await expect(sections).toHaveCount(6);
+    await expect(sections).toHaveCount(5);
     const subjects = [
-      "film",
+      "achievements",
       "learning",
       "statistics",
-      "achievements",
       "account",
       "report",
     ];
@@ -120,7 +119,7 @@ test("Profil lädt geschlossene Statistikklappen nicht und bündelt offene Erfol
         ].includes(a),
       );
   await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await expect(page.locator(".profile-section")).toHaveCount(6);
+  await expect(page.locator(".profile-section")).toHaveCount(5);
   expect(actions()).toEqual([]);
   const achievements = page.getByRole("region", {
     name: "Deine Erfolge",
@@ -175,6 +174,12 @@ test("Fehler einer Profilabfrage lassen Klappen bedienbar und werden gezielt wie
     "Dieser Bereich konnte nicht geladen werden.",
   );
   await expect(
+    achievements.getByRole("region", {
+      name: "Deine Filmkarriere",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(
     page
       .getByRole("region", { name: "Dein Lernstand", exact: true })
       .locator("summary"),
@@ -200,7 +205,7 @@ test("Fehler der Lernübersicht wiederholen nur die fehlgeschlagene Abfrage", as
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await expect(page.locator(".profile-section")).toHaveCount(6);
+  await expect(page.locator(".profile-section")).toHaveCount(5);
   // Expire the Date.now-based cache explicitly in every browser engine.
   await page.evaluate((stamp) => {
     window.Date = new Proxy(Date, {

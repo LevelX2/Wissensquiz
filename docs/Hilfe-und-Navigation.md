@@ -98,6 +98,8 @@ Seit 02.10.2026 lokal: dritte Zusatzkategorie **Preisträger** und vierte manuel
 
 ## Filmkarriere
 
+Lokal umfasst „Deine Erfolge“ im Profil auch die Filmkarriere: aktueller Level-/XP-Stand, nächster benannter Rang und acht Karriereembleme mit gemeinsamer goldener Einfassung und eigenen plastischen Motiven. Die separate Karriereklappe entfällt. Details und Grenzen im [Karrierevertrag](Filmkarriere-und-XP.md#levelkurve-und-karrieretitel). Die kompakte Karriereanzeige auf den Hauptseiten bleibt bestehen.
+
 Seit 02.10.2026 lokal: Level, Karrieretitel und XP-Balken in der Desktop-Seitenleiste und im kompakten Handykopf der Hauptseiten. Profil und Sammlung zeigen zusätzlich den Weg zum nächsten Level, die Gesamtsumme und eine gegebenenfalls erhaltene Startgutschrift. Nach Abschluss stehen die tatsächlichen Runden-XP, ihre aufklappbare Aufschlüsselung und der damalige Karrierefortschritt im Ergebnis. Neue Aufstiege werden einmal hervorgehoben; Rückblicke feiern sie nicht erneut, reduzierte Bewegung bleibt ruhig. Während einer mobilen Frage wird kein zusätzlicher Karrierekopf eingeblendet. Level/Titel erscheinen in beiden gemeinsamen Ranglisten; „Level & XP“ vergleicht die globale Karriere und erhält die Filter anderer Wertungen beim Zurückwechseln. Karriereaufträge bleiben offen. [Fachvertrag](Filmkarriere-und-XP.md).
 
 ## Keine Ahnung

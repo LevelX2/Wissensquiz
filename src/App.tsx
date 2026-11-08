@@ -875,15 +875,6 @@ export function App({
               )}
               {page === "account" && (
                 <div className="profile-page">
-                  <ProfileSection
-                    title={`Deine Filmkarriere · Level ${careerProgress(state.experience).level}`}
-                    subject="film"
-                  >
-                    <CareerProgress
-                      experience={state.experience}
-                      legacyBonus={state.career?.legacyBonus}
-                    />
-                  </ProfileSection>
                   <div className="profile-tools">
                     <button
                       className="secondary"

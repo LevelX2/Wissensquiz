@@ -3,6 +3,7 @@ import { test, expect, readStoredState, type Page } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
 import { answer, complete, startRound } from "../../src/engine";
 import type { State } from "../../src/model";
+import { careerTitles } from "../../src/career";
 
 const now = new Date("2026-10-02T12:00:00+02:00");
 async function readState(page: Page): Promise<State> {
@@ -112,14 +113,23 @@ for (const width of [320, 1280]) {
     await expect(page.locator(".career-level-up")).toHaveCount(0);
     expect((await readState(page)).experience).toBe(100);
     await page.getByRole("button", { name: "Profil", exact: true }).click();
-    await page.getByText(/^Deine Filmkarriere · Level/).click();
+    await page
+      .getByRole("region", { name: "Deine Erfolge", exact: true })
+      .locator(".profile-section > summary")
+      .click();
     await expect(
-      page.getByRole("main").getByRole("progressbar"),
+      page
+        .getByRole("main")
+        .locator(".career-progress")
+        .getByRole("progressbar"),
     ).toHaveAttribute("aria-valuemax", "150");
     await expect(page.getByRole("main")).toContainText("Level 2 · Kinogänger");
     await page.reload();
     await page.getByRole("button", { name: "Profil", exact: true }).click();
-    await page.getByText(/^Deine Filmkarriere · Level/).click();
+    await page
+      .getByRole("region", { name: "Deine Erfolge", exact: true })
+      .locator(".profile-section > summary")
+      .click();
     await expect(page.getByRole("main")).toContainText("100 XP insgesamt");
     expect((await readState(page)).experience).toBe(100);
   });
@@ -144,7 +154,10 @@ test("aktueller Serverfortschritt bleibt nach Neuladen erhalten; reduzierte Bewe
   await writeState(page, state);
   await page.reload();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
-  await page.getByText(/^Deine Filmkarriere · Level/).click();
+  await page
+    .getByRole("region", { name: "Deine Erfolge", exact: true })
+    .locator(".profile-section > summary")
+    .click();
   await expect(page.getByRole("main")).toContainText("Level 1 · Kinogänger");
   await expect(page.getByRole("main")).toContainText("1 / 100 XP");
   await expect(page.getByRole("main")).toContainText("1 XP insgesamt");
@@ -159,3 +172,61 @@ test("aktueller Serverfortschritt bleibt nach Neuladen erhalten; reduzierte Bewe
   expect((await readState(page)).experience).toBe(1);
   await expect(page.locator(".career-level-up")).toHaveCount(0);
 });
+
+for (const width of [320, 1280]) {
+  test(`Acht Karriereränge innerhalb der Erfolge bei ${width} Pixeln`, async ({
+    page,
+  }, testInfo) => {
+    await fixCalendarTime(page, now);
+    await page.setViewportSize({ width, height: 900 });
+    await page.goto("/");
+    await expect(
+      page.getByRole("button", { name: "Losspielen" }),
+    ).toBeEnabled();
+    const before = await readStoredState(page);
+    await page.getByRole("button", { name: "Profil", exact: true }).click();
+    const achievements = page.getByRole("region", {
+      name: "Deine Erfolge",
+      exact: true,
+    });
+    await achievements.locator(".profile-section > summary").click();
+    const career = achievements.getByRole("region", {
+      name: "Deine Filmkarriere",
+      exact: true,
+    });
+    await expect(career).toBeVisible();
+    await expect(career.locator("li")).toHaveCount(8);
+    await expect(career.locator("[aria-current=step]")).toContainText(
+      "Kinogänger",
+    );
+    await expect(career.locator(".career-next-rank")).toContainText(
+      "Filmfan ab Level 3 · Noch 250 XP",
+    );
+    for (const rank of careerTitles) {
+      const card = career
+        .getByRole("listitem")
+        .filter({ has: page.getByText(rank.title, { exact: true }) });
+      await expect(card.locator("svg")).toHaveAttribute(
+        "data-career-motif",
+        rank.motif,
+      );
+      await expect(card.locator("svg")).toHaveAttribute(
+        "data-earned",
+        String(rank.level === 1),
+      );
+    }
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= innerWidth,
+      ),
+    ).toBe(true);
+    expect(
+      (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
+        .violations,
+    ).toEqual([]);
+    await career.screenshot({
+      path: testInfo.outputPath("karriereraenge.png"),
+    });
+    expect(await readStoredState(page)).toEqual(before);
+  });
+}

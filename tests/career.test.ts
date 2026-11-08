@@ -84,8 +84,8 @@ function play(
 }
 
 describe("Filmkarriere", () => {
-  it("hat exakte steigende Levelgrenzen und fünf Karrieretitel", () => {
-    for (const level of [1, 2, 5, 10, 20, 35, 10001]) {
+  it("hat exakte steigende Levelgrenzen und acht frühere Karriereränge", () => {
+    for (const level of [1, 2, 3, 6, 10, 15, 20, 27, 35, 10001]) {
       const threshold = levelThreshold(level);
       expect(careerProgress(threshold)).toMatchObject({
         level,
@@ -98,14 +98,32 @@ describe("Filmkarriere", () => {
       });
     }
     expect(
-      [0, 700, 2700, 10450, 31450].map((xp) => careerProgress(xp).title),
+      [0, 250, 1000, 2700, 5950, 10450, 18850, 31450].map(
+        (xp) => careerProgress(xp).title,
+      ),
     ).toEqual([
       "Kinogänger",
       "Filmfan",
+      "Filmkenner",
       "Cineast",
+      "Filmexperte",
       "Filmchronist",
+      "Filmmeister",
       "Filmlegende",
     ]);
+    for (const [level, before, after] of [
+      [3, "Kinogänger", "Filmfan"],
+      [6, "Filmfan", "Filmkenner"],
+      [10, "Filmkenner", "Cineast"],
+      [15, "Cineast", "Filmexperte"],
+      [20, "Filmexperte", "Filmchronist"],
+      [27, "Filmchronist", "Filmmeister"],
+      [35, "Filmmeister", "Filmlegende"],
+    ] as const) {
+      expect(careerProgress(levelThreshold(level) - 1).title).toBe(before);
+      expect(careerProgress(levelThreshold(level)).title).toBe(after);
+    }
+    expect(careerProgress(levelThreshold(10001)).title).toBe("Filmlegende");
   });
 
   it("belohnt Schwierigkeit und erstmaliges sicheres Wissen, ohne Rekordpunkte zu ändern", () => {

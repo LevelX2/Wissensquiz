@@ -8,6 +8,7 @@ import { ProfileSection } from "./ProfileSection";
 import { localAchievements } from "./achievements";
 import { Achievements } from "./AchievementsPanel";
 import { localLearningAchievements } from "./learningAchievements";
+import { CareerRanks } from "./CareerRanks";
 
 export function profileStats(state: State) {
   const answered = state.events.filter(hasAnswer);
@@ -70,6 +71,28 @@ export function ProfileStats({ state }: { state: State }) {
   );
   return (
     <>
+      <ProfileSection
+        title="Deine Erfolge"
+        subject="achievements"
+        onToggle={setAchievementsOpen}
+      >
+        <CareerRanks
+          experience={state.experience}
+          legacyBonus={state.career?.legacyBonus}
+        />
+        <h3>Deine weiteren Erfolge</h3>
+        {load(
+          <Achievements
+            counts={stats}
+            learning={
+              totals.value?.achievements ??
+              (server
+                ? { counts: {}, available: {} }
+                : localLearningAchievements(state))
+            }
+          />,
+        )}
+      </ProfileSection>
       <ProfileSection
         title="Dein Lernstand"
         subject="learning"
@@ -146,30 +169,6 @@ export function ProfileStats({ state }: { state: State }) {
               {careerProgress(state.experience).title} ·{" "}
               {state.experience.toLocaleString("de-DE")} XP
             </p>
-          </>,
-        )}
-      </ProfileSection>
-      <ProfileSection
-        title="Deine Erfolge"
-        subject="achievements"
-        onToggle={setAchievementsOpen}
-      >
-        {load(
-          <>
-            <p>
-              Level {careerProgress(state.experience).level} ·{" "}
-              {careerProgress(state.experience).title} ·{" "}
-              {state.experience.toLocaleString("de-DE")} EXP (XP)
-            </p>
-            <Achievements
-              counts={stats}
-              learning={
-                totals.value?.achievements ??
-                (server
-                  ? { counts: {}, available: {} }
-                  : localLearningAchievements(state))
-              }
-            />
           </>,
         )}
       </ProfileSection>

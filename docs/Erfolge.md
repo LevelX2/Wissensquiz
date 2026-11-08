@@ -1,5 +1,11 @@
 # Erfolge und Erfolgsstufen
 
+## Filmkarriere innerhalb der Erfolge – lokal
+
+„Deine Erfolge“ beginnt im Profil mit der Filmkarriere: aktueller Titel und Level, XP-Fortschritt, nächster benannter Rang einschließlich fehlender XP und alle acht Rangembleme. Die frühere separate Karriereklappe entfällt. Anschließend folgen die bisherigen Erfolgsreihen mit ihren zwölf Erfolgsstufen. Für die Karriereanzeige werden keine zusätzlichen Serverdaten benötigt; sie bleibt auch bei einem Fehler der Erfolgsabfrage sichtbar.
+
+Karriereembleme verwenden den eigenen gemeinsamen goldenen Filmstreifenring mit Lorbeer und Band sowie acht große, plastische Innenmotive. Dasselbe Rangmotiv erscheint bei Aufstiegen, in den kompakten Karriereanzeigen, der Sammlung und den Ranglisten. Offene Ränge sind neutral mit explizitem Status, der aktuelle Rang zusätzlich markiert. Die acht Karriereembleme zählen nicht doppelt zu den übrigen Erfolgsmeilensteinen. Titel und Grenzen sind im [Karrierevertrag](Filmkarriere-und-XP.md#levelkurve-und-karrieretitel) definiert. Noch nicht veröffentlicht.
+
 **21.10.2026 – Seit Version 83 veröffentlicht:** Die unten datiert dokumentierten lokalen Änderungen sind jetzt Teil des öffentlichen Main-Stands. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-21-Version-83.json).
 
 ## Gemeinsame Embleme und gleichwertige Feier – 17.10.2026
@@ -8,7 +14,7 @@
 
 `AchievementIcon` zeichnet die gemeinsame skalierbare Medaille mit Metallverlauf, dunklem Innenfeld, Lorbeer, Band und kräftigem Motiv. Zwölf Stufen bleiben durch ihre Farben, Rangpunkte und ausgeschriebenen Stufennamen erkennbar. Offene Ziele verwenden eine gedämpfte neutrale Palette und tragen weiterhin ihren textlichen Status. Wiederholt dargestellte Medaillen besitzen eigene SVG-Verlaufs-IDs, damit sich die Farben innerhalb langer Profilübersichten nicht gegenseitig überschreiben.
 
-Feierdialog, Profil-Erfolgsübersicht, Sammlung und Entdeckeranzeigen verwenden dieselben Motive und Stufenfarben. Im Profil sind die Embleme in geschlossenen Reihen und besonders auf den einzelnen Meilensteinkarten größer. Karrierelevel verwenden das gemeinsame Kronenmotiv in Feier und Karriereanzeigen; Bekanntheitsgruppen das Kinokartenmotiv, Schwierigkeiten das offene Schloss. `JourneyUnlockIcon` wird sowohl in der Feier als auch unter „Deine Stufenfortschritte“ verwendet. Bekanntheitsgruppe und Schwierigkeit bleiben textlich ausdrücklich getrennt.
+Feierdialog, Profil-Erfolgsübersicht, Sammlung und Entdeckeranzeigen verwenden dieselben Motive und Stufenfarben. Im Profil sind die Embleme in geschlossenen Reihen und besonders auf den einzelnen Meilensteinkarten größer. Karrierelevel verwenden die acht eigenen Rangmotive aus `CareerIcon` in Feier und Karriereanzeigen; Bekanntheitsgruppen das Kinokartenmotiv, Schwierigkeiten das offene Schloss. `JourneyUnlockIcon` wird sowohl in der Feier als auch unter „Deine Stufenfortschritte“ verwendet. Bekanntheitsgruppe und Schwierigkeit bleiben textlich ausdrücklich getrennt.
 
 Bei langen gemeinsamen Feiern scrollt nur die Emblemliste. Überschrift und „Weiter zum Ergebnis“ bleiben sichtbar, auch bei 320 Pixeln Breite. Fokus auf die Bestätigung, Escape, Rückkehr zur Ergebnisüberschrift und reduzierte Bewegung bleiben erhalten. Erfolgsbedingungen, Schwellen, XP, Lernregeln und Online-Spielstände sind unverändert; keine zusätzlichen Datenabrufe oder Backendänderungen. 17 gezielte Tests, 15 unterschiedliche Browserfälle, TypeScript und Diff-Prüfung erfolgreich. [Prüfnachweis](Pruefbericht.md#17102026--gemeinsame-erfolgsembleme-lokal), [Feier-Vorschau](Erfolgsembleme-2026-10-17/Feier-Mobil.png), [Profil-Vorschau](Erfolgsembleme-2026-10-17/Erfolge-Profil.png).
 
@@ -159,7 +165,7 @@ Die Sammlung zeigt perfekte Zehnerrunden mit denselben Stufen, Icons und Balken.
 
 Nur ein frisch bestätigter Rundenabschluss darf eine Meldung auslösen. Neue Erfolge, Karriereaufstieg und Filmreise-Freischaltungen stehen in **einem** Dialog mit einer Bestätigung. Jede Leistung bleibt einzeln benannt. Neuladen, Profilaufruf und historischer Rückblick wiederholen weder Dialog noch Signal. Ein Fehler beim Laden der Belohnung erhält eine Wiederholungsaktion und verbraucht das Erfolgssignal nicht vorzeitig.
 
-Die höchste gleichzeitig erreichte Stufe bestimmt die Gesamtinszenierung. Einzelne Erfolgskarten behalten ihre eigene Stufe. Karriereaufstiege verwenden die fünf bestehenden Titelbereiche (ab Level 1/5/10/20/35); eine Filmreise-Freischaltung ohne weiteren Erfolg verwendet Bronze. XP-Level und Erfolgsstufe bleiben getrennt benannt.
+Die höchste gleichzeitig erreichte Stufe bestimmt die Gesamtinszenierung. Einzelne Erfolgskarten behalten ihre eigene Stufe. Karriereaufstiege verwenden die acht Titelbereiche (ab Level 1/3/6/10/15/20/27/35); eine Filmreise-Freischaltung ohne weiteren Erfolg verwendet Bronze. XP-Level und Erfolgsstufe bleiben getrennt benannt.
 
 | Stufe | Anzeige | Akustik | Haptik | Animation |
 | --- | --- | --- | --- | --- |

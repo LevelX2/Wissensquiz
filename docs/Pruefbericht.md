@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## Filmkarriere innerhalb der Erfolge – lokal
+
+Acht Karriereränge ab Level 1/3/6/10/15/20/27/35, gemeinsame goldene Filmrahmen mit acht plastischen Motiven. Die Filmkarriere einschließlich nächstem Rang und vollständiger Rangübersicht ist in „Deine Erfolge“ integriert. XP-Regeln, Levelkurve und Kontodaten unverändert; keine Serveränderung.
+
+**11 gezielte Logiktests** in `career.test.ts` und `achievements.test.ts` sowie TypeScript erfolgreich. Exakte Titelwechsel unmittelbar vor und auf allen Ranggrenzen, weiter steigende Level nach Filmlegende und gemeinsame Signalstufen geprüft.
+
+Alle acht Goldmotive als gemeinsame Großvorschau und die tatsächliche mobile Rangansicht visuell geprüft. Die geometrischen Grenzen aller acht SVGs bleiben innerhalb ihrer Zeichenfläche; Motive dürfen den inneren Rahmen überragen. `git diff --check` erfolgreich.
+
+**11 unterschiedliche Chromium-Browserfälle** erfolgreich: Karriereaufstieg und Runden-XP, Neuladen/Rückblick, reduzierte Bewegung, alle acht Ränge bei 320/1280 Pixeln, Profilklappen mit Tastatur und unverändertem Spielstand, gebündelte Profilabrufe und gezielte Fehlerwiederholung sowie gemeinsame gleichwertige Feier. Der erste Aufstiegsfall lief beim initialen Laden des Vite-Entwicklungsservers ins 60-Sekunden-Limit; gezielte Wiederholung mit 120 Sekunden Entwicklungsserverbudget erfolgreich. Kein fehlgeschlagener Lauf als bestanden gewertet. WCAG-Axe und Überlaufprüfungen in den betroffenen Ansichten ohne Befund. Entwicklungsserver statt zusätzlichem Produktionsbuild verwendet; kein vollständiger Veröffentlichungsprüflauf.
+
 ## 08.11.2026 – GitHub-Meldungen und vollständige Poster, lokal
 
 Alle 14 offenen Tickets #3–#16 und ihre leeren Kommentarverläufe geprüft. Neun aktuelle Bestände nachvollziehbar korrekt, darunter der erneut gemeldete Indiana-Jones-Film; vier Fragen lokal redigiert. Der fehlende Poster-/Filmlink zu „Der falsche Mann“ ist lokal vorhanden und die Katalogvorbereitung gegen fehlende Poster abgesichert. Alle Tickets auf ausdrücklichen Auftrag mit Begründung, gegebenenfalls früherer Korrekturversion und dem klaren Hinweis „für Version 89 vorbereitet; noch nicht veröffentlicht“ als erledigt geschlossen.

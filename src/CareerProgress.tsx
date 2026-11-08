@@ -1,7 +1,6 @@
 import { useEffect, useState, type CSSProperties } from "react";
 import { careerProgress, totalXp, xpLabels, type XpBreakdown } from "./career";
-import { AchievementIcon } from "./AchievementIcon";
-import { celebrationTier } from "./successTiers";
+import { CareerIcon } from "./CareerIcon";
 
 export function CareerBadge({ experience }: { experience: number }) {
   const career = careerProgress(experience);
@@ -15,15 +14,14 @@ export function CareerBadge({ experience }: { experience: number }) {
   );
 }
 
-export function CareerEmblem({ level }: { level: number }) {
-  return (
-    <AchievementIcon
-      className="career-emblem"
-      icon="career"
-      tier={celebrationTier([], level)}
-      ranked={false}
-    />
-  );
+export function CareerEmblem({
+  level,
+  earned = true,
+}: {
+  level: number;
+  earned?: boolean;
+}) {
+  return <CareerIcon className="career-emblem" level={level} earned={earned} />;
 }
 
 export function CareerProgress({

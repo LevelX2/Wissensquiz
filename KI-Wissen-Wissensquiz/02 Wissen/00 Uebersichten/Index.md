@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Filmkarriere innerhalb der Erfolge: acht benannte Ränge, frühere Titelaufstiege und plastische Goldembleme, lokal](../../../docs/Filmkarriere-und-XP.md#levelkurve-und-karrieretitel)
+
 **GitHub-Meldungen:** Alle 14 Tickets #3–#16 geprüft und mit Versionshinweisen als erledigt geschlossen. Vier Fragen korrigiert, fehlende Poster vervollständigt und Katalogvorbereitung abgesichert; 36 gezielte Tests erfolgreich. Änderungen für Version 89 lokal vorbereitet, noch nicht veröffentlicht. [Aktueller Stand und Prüfnachweise](../../../docs/GitHub-Meldungen.md#aktueller-ticketstand--08112026).
 
 - [Werkarten und Mehrfachzuordnungen: 109 Serienfragen, 561 Fragen zu Animationsfilmen und passende Bildsymbole; gemeinsame Lernstände und getrennte Film-/Serienpfade, lokal](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)

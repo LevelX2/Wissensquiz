@@ -328,8 +328,12 @@ export function Help() {
         </p>
         <p>
           Der Aufstieg zu Level 2 braucht 100 XP, danach kostet jeder weitere
-          Aufstieg 50 XP mehr. Deine Titel wachsen mit: Kinogänger ab Level 1,
-          Filmfan ab 5, Cineast ab 10, Filmchronist ab 20 und Filmlegende ab 35.
+          Aufstieg 50 XP mehr. Deine acht Titel wachsen mit: Kinogänger ab Level 1,
+          Filmfan ab 3, Filmkenner ab 6, Cineast ab 10, Filmexperte ab 15,
+          Filmchronist ab 20, Filmmeister ab 27 und Filmlegende ab 35.
+          Unter Profil → Deine Erfolge stehen Deine Filmkarriere, der nächste
+          Rang und alle acht Karriereembleme. Auch nach dem höchsten Rang
+          steigt Dein Level weiter.
           Bisherige Level und ihr Fortschritt bleiben bei der Umstellung
           erhalten. XP sind eigene Karrierepunkte; Rekordpunkte, gefestigte
           Ziele und Filmreise-Freischaltungen verwenden weiterhin ihre eigenen

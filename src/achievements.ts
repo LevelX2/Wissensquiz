@@ -53,8 +53,7 @@ export type AchievementIconKind =
   | "person"
   | "trophy"
   | "ticket"
-  | "unlock"
-  | "career";
+  | "unlock";
 export type Achievement = {
   id: string;
   label: string;

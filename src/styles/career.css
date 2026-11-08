@@ -12,18 +12,6 @@
   margin: 16px 0;
   color: #403720;
 }
-.career-tier-5 {
-  --career-color: #365e64;
-}
-.career-tier-10 {
-  --career-color: #6a4389;
-}
-.career-tier-20 {
-  --career-color: #805019;
-}
-.career-tier-35 {
-  --career-color: #8a3654;
-}
 .career-heading {
   display: flex;
   gap: 12px;
@@ -49,8 +37,8 @@
 }
 .career-emblem {
   flex: 0 0 auto;
-  width: 52px;
-  height: 52px;
+  width: 72px;
+  height: 78px;
   color: var(--career-color);
 }
 .career-track {
@@ -238,17 +226,74 @@
     display: none;
   }
 }
-.career-badge.career-tier-5 {
-  --career-color: #365e64;
+.career-ranks {
+  margin-bottom: 26px;
 }
-.career-badge.career-tier-10 {
-  --career-color: #6a4389;
+.career-ranks .career-progress {
+  padding: 0;
+  border: 0;
+  background: transparent;
 }
-.career-badge.career-tier-20 {
-  --career-color: #805019;
+.career-next-rank {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #594721;
 }
-.career-badge.career-tier-35 {
-  --career-color: #8a3654;
+.career-rank-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+.career-rank-list li {
+  display: grid;
+  justify-items: center;
+  align-content: start;
+  gap: 5px;
+  min-width: 0;
+  padding: 18px 8px 14px;
+  border: 1px solid #d4c19e;
+  border-radius: 16px;
+  background: linear-gradient(145deg, #fffdf5, #f4ead2);
+  text-align: center;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.career-rank-list li[aria-current="step"] {
+  border: 2px solid #947037;
+  padding: 17px 7px 13px;
+  box-shadow:
+    inset 0 1px 0 #fff,
+    0 3px 8px #203b3b12;
+}
+.career-rank-list .locked {
+  background: #f2f5f2;
+  border-color: #d5ded6;
+}
+.career-rank-list .career-emblem {
+  width: 104px;
+  height: 110px;
+  max-width: 100%;
+  filter: drop-shadow(0 3px 2px #203b3b22);
+}
+.career-rank-list strong {
+  font-size: 14px;
+  overflow-wrap: anywhere;
+}
+.career-rank-list span,
+.career-rank-list small {
+  color: #53616a;
+}
+.career-rank-list [aria-current="step"] small {
+  color: #78521e;
+  font-weight: 700;
+}
+@media (min-width: 640px) {
+  .career-rank-list {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }
 .career-track.is-crossing > span {
   animation: career-crossing 1200ms ease-out 1;
@@ -292,4 +337,3 @@
     margin-top: 4px;
   }
 }
-

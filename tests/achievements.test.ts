@@ -37,7 +37,8 @@ it("ordnet alle zwölf Stufen eindeutig zu und bündelt gleichzeitige Erfolge na
   });
   expect(simultaneous).toHaveLength(2);
   expect(celebrationTier(simultaneous, 2).id).toBe("diamond");
-  expect(celebrationTier([], 20).id).toBe("platinum");
+  expect(celebrationTier([], 20).id).toBe("sapphire");
+  expect(celebrationTier([], 35).id).toBe("ruby");
   expect(
     celebrationTier(
       reachedAchievements({ completed: 25000, perfectTens: 2500, zeroTens: 0 }),

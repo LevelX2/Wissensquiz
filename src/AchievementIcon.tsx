@@ -206,16 +206,6 @@ export function AchievementIcon({
               strokeWidth="4"
             />
           </>
-        ) : icon === "career" ? (
-          <>
-            <path d="m29 33 10 7 11-16 11 16 10-7-6 25H35Z" />
-            <path d="M36 63h28" strokeWidth="4" />
-            <path
-              d="m50 39 3 6 6 1-4 4 1 6-6-3-6 3 1-6-4-4 6-1Z"
-              fill="#203b3b"
-              stroke="none"
-            />
-          </>
         ) : (
           <>
             <path d="M34 49a9 9 0 1 1 2-18 14 14 0 0 1 26 2 8 8 0 1 1 4 16Z" />
