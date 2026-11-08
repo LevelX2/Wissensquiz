@@ -147,6 +147,16 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt v
   await expect(
     sources.getByLabel("Werkfragen", { exact: true }),
   ).not.toBeChecked();
+  // Measure settled colors after the section's 180 ms opening animation.
+  await page
+    .locator(".quiz-filters .setup-section[open] > .setup-section-content")
+    .evaluateAll((elements) =>
+      Promise.all(
+        elements.flatMap((element) =>
+          element.getAnimations().map((animation) => animation.finished),
+        ),
+      ),
+    );
   expect(
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,
