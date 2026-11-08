@@ -1,12 +1,15 @@
 ---
 activityId: act-2026-11-08-lernstand-freischaltungen
-status: inbox
+status: in_progress
 kind: fix
 area: shared
 priority: normal
 primaryAgent: codex
 requiresImplementation: true
 createdAt: 2026-11-08
+startedAt: 2026-11-08
+owner: wissensquiz-werkarten-20261108-root
+branch: codex/werkarten-mehrfachzuordnungen-20261108
 blockedBy: [act-2026-11-08-werkarten-mehrfachzuordnungen]
 resultArtifacts: []
 checks: []
