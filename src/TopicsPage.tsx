@@ -67,13 +67,14 @@ export function TopicsPage({
             Welten zum <em>Entdecken.</em>
           </h1>
           <p className="lead">
-            Wähle ein Filmgenre oder eine Kategorie und entdecke ihre Themen.
-            Auf der Startseite kannst Du mehrere Genres und Schwierigkeitsstufen
+            Wähle ein Genre oder eine Sammlung und entdecke ihre Themen. Auf der
+            Startseite kannst Du mehrere Genres und Schwierigkeitsstufen
             kombinieren.
           </p>
           <p className="muted tiny">
             Filmreise: Gefüllte Rechtecke sind freigeschaltet. Classics und
-            Arthouse folgen den Stufen ihrer Filmgenres.
+            Arthouse folgen den passenden Werkpfaden. Themen überlappen; ihre
+            Zahlen werden nicht zu einer Gesamtsumme addiert.
           </p>
           {unlocks.error ? (
             <p role="alert">
@@ -109,6 +110,8 @@ export function TopicsPage({
                       await changeSetup({
                         categories: [category],
                         genres: null,
+                        workTypes: undefined,
+                        techniques: undefined,
                         sources:
                           category === ACTORS
                             ? ["actors"]
@@ -125,7 +128,14 @@ export function TopicsPage({
                 />
               ))}
             {areas.value &&
-              genres.map((t) => (
+              [
+                ...new Set([
+                  ...genres,
+                  ...(areas.value
+                    ?.map((area) => area.topic)
+                    .filter((area) => area.startsWith("Serien · ")) ?? []),
+                ]),
+              ].map((t) => (
                 <TopicCard
                   key={t}
                   topic={t}

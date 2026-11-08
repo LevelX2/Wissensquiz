@@ -9,7 +9,7 @@ test("Genres gesammelt abwählen und Filmkarten mit Genreillustrationen anzeigen
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await openRoundSetup(page);
-  const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
+  const genres = page.getByRole("group", { name: "Genres", exact: true });
   await expect(genres.locator(".genre-thumbnail")).toHaveCount(12);
   await genres
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })

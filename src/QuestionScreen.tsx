@@ -8,13 +8,7 @@ import {
   type Round,
   type State,
 } from "./model";
-import {
-  difficultyLabel,
-  genreOf,
-  genreLabel,
-  questionSourceOf,
-  sourceLabels,
-} from "./filters";
+import { difficultyLabel } from "./filters";
 import { QuestionHistory } from "./QuestionHistoryPanel";
 import { QuestionStatus } from "./QuestionStatus";
 import { SyncIndicator, type SyncDisplay } from "./SyncIndicator";
@@ -28,7 +22,7 @@ import type { LearningEvidence } from "./learningProgress";
 import { LearningProgress } from "./LearningProgressPanel";
 import { IssueReportForm } from "./IssueReportForm";
 import { ActorPortrait } from "./ActorPortrait";
-import { GenreArtwork } from "./Icons";
+import { QuestionFacets } from "./QuestionAssignments";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 
 import {
@@ -455,29 +449,7 @@ export function QuestionScreen({
         <div className="question-heading">
           <div className="question-hints">
             {state.settings.showGenre !== false && (
-              <span
-                className="question-genre"
-                role="img"
-                aria-label={
-                  questionSourceOf(displayQ) === "film"
-                    ? genreLabel(genreOf(displayQ))
-                    : sourceLabels[questionSourceOf(displayQ)]
-                }
-                title={
-                  questionSourceOf(displayQ) === "film"
-                    ? genreLabel(genreOf(displayQ))
-                    : sourceLabels[questionSourceOf(displayQ)]
-                }
-              >
-                <GenreArtwork
-                  genre={
-                    questionSourceOf(displayQ) === "film"
-                      ? genreOf(displayQ)
-                      : sourceLabels[questionSourceOf(displayQ)]
-                  }
-                  compact
-                />
-              </span>
+              <QuestionFacets question={displayQ} />
             )}
             {state.settings.showDifficulty !== false && (
               <span className="pill question-difficulty">

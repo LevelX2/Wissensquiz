@@ -543,3 +543,30 @@ textarea {
 .review summary .guessed {
   color: var(--accent);
 }
+
+.question-facets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  max-width: 100%;
+}
+.question-facet {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 6px;
+  border: 1px solid #b8c8bf;
+  border-radius: 8px;
+  font-size: 12px;
+  color: #293e36;
+  background: #f7faf6;
+}
+.question-facet .genre-thumbnail,
+.question-facet svg {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.question-facet > span {
+  overflow-wrap: anywhere;
+}

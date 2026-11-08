@@ -26,6 +26,13 @@ export function GenreArtwork({
   genre: string;
   compact?: boolean;
 }) {
+  if (genre.startsWith("Serien · "))
+    return (
+      <span className="series-genre-art">
+        <GenreIcon genre="Serie" />
+        <GenreArtwork genre={genre.slice(9)} compact={compact} />
+      </span>
+    );
   return genreIllustrations[genre] ? (
     <img
       className={compact ? "genre-thumbnail" : "genre-illustration"}
@@ -48,7 +55,29 @@ export function GenreArtwork({
 
 export function GenreIcon({ genre }: { genre: string }) {
   const shape =
-    genre === "Schauspieler" ? (
+    genre === "Serie" ? (
+      <>
+        <rect x="3" y="5" width="18" height="13" rx="2" />
+        <path d="m8 2 4 3 4-3M8 22h8M12 18v4" />
+      </>
+    ) : genre === "Film" ? (
+      <>
+        <rect x="3" y="3" width="18" height="18" rx="1" />
+        <path d="M7 3v18M17 3v18M3 8h4M3 16h4M17 8h4M17 16h4" />
+      </>
+    ) : genre === "Animation" ? (
+      <>
+        <path d="m12 2 3 6 7 1-5 5 1 8-6-4-6 4 1-8-5-5 7-1Z" />
+        <circle cx="10" cy="11" r=".5" />
+        <circle cx="14" cy="11" r=".5" />
+        <path d="M9 14q3 3 6 0" />
+      </>
+    ) : genre === "Realfilm" ? (
+      <>
+        <rect x="2" y="5" width="14" height="14" rx="2" />
+        <path d="m16 10 6-4v12l-6-4" />
+      </>
+    ) : genre === "Schauspieler" ? (
       <>
         <circle cx="9" cy="8" r="3" />
         <path d="M3 21v-3a6 6 0 0 1 12 0v3M16 5a3 3 0 0 1 0 6m2 4a5 5 0 0 1 3 5" />

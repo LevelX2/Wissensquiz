@@ -35,6 +35,7 @@ beforeAll(async () => {
         tags: [],
         badgeTags: [],
         metadata: { subdomain: "Prüfgenre" },
+        works: [{ type: "film", originalTitle: "Testfilm", year: 2000, genres: ["Prüfgenre"], techniques: [], familiarity: 1 }],
         demo: false,
       }),
     ),
@@ -295,7 +296,7 @@ it("zeigt bei allen Rekordläufen das aktuelle Karrierelevel auch nach einem sp�
       selected_period: "all",
       page_offset: 0,
     });
-  const shared = (player = owner, role = "authenticated") =>
+  const shared = (player: string = owner, role = "authenticated") =>
     as(
       player,
       async () =>

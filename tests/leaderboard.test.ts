@@ -89,7 +89,7 @@ it("verwirft alte Regeln, freie Mischungen und Rundengrößen aus den Rekordlist
     id: "reverse",
     filters: {
       ...combined.filters!,
-      genres: [...combined.filters!.genres].reverse(),
+      genres: [...combined.filters!.genres!].reverse(),
     },
   });
   state.rounds.push({

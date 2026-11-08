@@ -104,7 +104,7 @@ for (const width of [320, 1440]) {
       }),
     });
     await sources.locator("summary").click();
-    await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
+    await sources.getByLabel("Werkfragen", { exact: true }).uncheck();
     await expect(page.locator(".round-setup")).toHaveAttribute(
       "aria-busy",
       "false",

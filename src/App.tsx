@@ -27,7 +27,7 @@ import { readRoundSetup } from "./roundSetup";
 import { careerProgress } from "./career";
 import { CareerProgress } from "./CareerProgress";
 import { ProfileSection } from "./ProfileSection";
-import { type Category, selectionTopic, ACTORS } from "./categories";
+import { type Category, selectionTopic } from "./categories";
 
 import { SyncSymbol, type SyncDisplay } from "./SyncIndicator";
 import {
@@ -340,6 +340,8 @@ export function App({
   const {
     mode,
     genres: selectedGenres,
+    workTypes: selectedWorkTypes,
+    techniques: selectedTechniques,
     categories: selectedCategories,
     difficulties: selectedDifficulties,
     familiarities: selectedFamiliarities = [...familiarities],
@@ -408,22 +410,37 @@ export function App({
         familiarities: [...familiarities],
       }
     : {
-        genres: (selectedGenres ?? genres).filter((genre) => genre !== ACTORS),
+        genres: selectedGenres,
+        ...(selectedWorkTypes ? { workTypes: selectedWorkTypes } : {}),
+        ...(selectedTechniques ? { techniques: selectedTechniques } : {}),
+        ...(selectedCategories.length
+          ? {
+              collections: selectedCategories.filter(
+                (c): c is "Classics" | "Arthouse" =>
+                  c === "Classics" || c === "Arthouse",
+              ),
+            }
+          : {}),
         sources: selectedSources,
         difficulties:
           mode === "entdecken" ? [...difficulties] : selectedDifficulties,
         familiarities:
           mode === "entdecken" ? [...familiarities] : selectedFamiliarities,
       };
-  const toggleGenre = (genre: string) =>
-    void changeSetup({
-      genres: filters.genres.includes(genre)
-        ? filters.genres.filter((g) => g !== genre)
-        : [...filters.genres, genre],
-    });
+  const toggleGenre = (genre: string) => {
+    const selected = filters.genres ?? genres;
+    const next = selected.includes(genre) ? selected.filter((g) => g !== genre) : [...selected, genre];
+    void changeSetup({ genres: next.length === genres.length ? null : next });
+  };
   const playGenre = async (genre: string) => {
     if (
-      await changeSetup({ categories: [], genres: [genre], sources: ["film"] })
+      await changeSetup({
+        categories: [],
+        genres: [genre.startsWith("Serien · ") ? genre.slice(9) : genre],
+        sources: ["film"],
+        workTypes: [genre.startsWith("Serien · ") ? "series" : "film"],
+        techniques: undefined,
+      })
     )
       setPage("home");
   };
@@ -436,7 +453,7 @@ export function App({
       : undefined);
   const roundTopic = standard
     ? "Alle Themen"
-    : selectionTopic(selectedCategories, selectedSources);
+    : selectionTopic([], selectedSources);
   const showCompletedRound = (review: Round, saved: State) => {
     const unlocks = serverUnlocks(state, saved);
     const promoted = careerProgress(saved.experience);

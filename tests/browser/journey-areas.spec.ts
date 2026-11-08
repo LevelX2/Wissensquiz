@@ -123,7 +123,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt v
     )
     .toBe(0);
   await openRoundSetup(page);
-  await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
+  await sources.getByLabel("Werkfragen", { exact: true }).uncheck();
   await expect
     .poll(
       async () => (await readStoredState(page)).settings.roundSetup?.sources,
@@ -145,7 +145,7 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt v
     sources.getByLabel("Schauspieler", { exact: true }),
   ).toBeChecked();
   await expect(
-    sources.getByLabel("Filmfragen", { exact: true }),
+    sources.getByLabel("Werkfragen", { exact: true }),
   ).not.toBeChecked();
   expect(
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())

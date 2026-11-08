@@ -27,9 +27,9 @@ for (const width of [1440, 320]) {
       name: "Fragenbereiche",
       exact: true,
     });
-    const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
+    const genres = page.getByRole("group", { name: "Genres", exact: true });
     await expect(
-      sources.getByLabel("Filmfragen", { exact: true }),
+      sources.getByLabel("Werkfragen", { exact: true }),
     ).toBeChecked();
     await sources.getByLabel("Schauspieler", { exact: true }).check();
     await sources.getByLabel("Preisträger", { exact: true }).check();
@@ -39,18 +39,18 @@ for (const width of [1440, 320]) {
     // Selecting a mode closes its panel after the asynchronous save.
     await openRoundSetup(page);
     await expect(
-      sources.getByLabel("Filmfragen", { exact: true }),
+      sources.getByLabel("Werkfragen", { exact: true }),
     ).toBeChecked();
     await expect(
       modePreparation(page, /Freies Spiel Alle Stufen/),
     ).toHaveAttribute("aria-pressed", "true");
     await expect(page.locator("#round-summary")).toContainText(
-      "Filmfragen + Preisträger + Schauspieler",
+      "Werkfragen + Preisträger + Schauspieler",
     );
     await expect(page.locator("#round-summary")).toContainText("Alle Genres");
     await page.reload();
     await openRoundSetup(page);
-    for (const label of ["Filmfragen", "Preisträger", "Schauspieler"])
+    for (const label of ["Werkfragen", "Preisträger", "Schauspieler"])
       await expect(sources.getByLabel(label, { exact: true })).toBeChecked();
     const setup = (await readStoredState(page)).settings.roundSetup!;
     expect(setup.sources).toEqual(["film", "awards", "actors"]);
@@ -81,7 +81,7 @@ for (const width of [1440, 320]) {
         () => document.documentElement.scrollWidth <= innerWidth,
       ),
     ).toBe(true);
-    // Film filters narrow only their own branch of the common pool.
+    // Work filters constrain every selected source on a concrete matching work.
     await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
     await openRoundSetup(page);
     await genres.getByLabel("Sci-Fi", { exact: true }).check();
@@ -92,16 +92,10 @@ for (const width of [1440, 320]) {
     const mixed = state.rounds.find((r) => r.status === "active")!;
     expect(mixed.filters?.sources).toEqual(["film", "awards", "actors"]);
     expect(mixed.topic).toBe(
-      "Filmfragen + Classics + Preisträger + Schauspieler",
+      "Filmfragen + Preisträger + Schauspieler",
     );
     expect(
-      mixed.questions.every(
-        (q) =>
-          q.metadata.person_id ||
-          q.tags.includes("Preisträger") ||
-          (q.metadata.subdomain === "Science-Fiction" &&
-            q.tags.includes("Classics")),
-      ),
+      mixed.questions.every((q) => q.works?.some((work) => work.genres.includes("Science-Fiction") && work.collections?.includes("Classics"))),
     ).toBe(true);
     expect(new Set(mixed.questions.map((q) => q.knowledgeId)).size).toBe(
       mixed.questions.length,
@@ -111,8 +105,8 @@ for (const width of [1440, 320]) {
       .getByRole("button", { name: "Runde beenden", exact: true })
       .click();
     await openRoundSetup(page);
-    await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
-    await expect(genres.getByRole("checkbox").first()).toBeDisabled();
+    await sources.getByLabel("Werkfragen", { exact: true }).uncheck();
+    await expect(genres.getByRole("checkbox").first()).toBeEnabled();
     await expect(page.locator("#round-summary")).toContainText(
       "Preisträger + Schauspieler",
     );
@@ -127,7 +121,7 @@ for (const width of [1440, 320]) {
     await page.reload();
     await openRoundSetup(page);
     await expect(
-      sources.getByLabel("Filmfragen", { exact: true }),
+      sources.getByLabel("Werkfragen", { exact: true }),
     ).not.toBeChecked();
     await expect(
       page.getByRole("button", { name: "Losspielen" }),
@@ -137,7 +131,7 @@ for (const width of [1440, 320]) {
     state = await readStoredState(page);
     const extra = state.rounds.find((r) => r.status === "active")!;
     expect(extra.filters?.sources).toEqual(["awards", "actors"]);
-    // The remembered film genre does not restrict the actor/award branches.
+    // The remembered work genre also restricts actor/award questions.
     expect(extra.filters?.genres).toEqual(["Science-Fiction"]);
     expect(
       extra.questions.every(

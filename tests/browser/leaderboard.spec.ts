@@ -73,20 +73,20 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await page.getByLabel("Genre anzeigen", { exact: true }).click();
+  await page.getByLabel("Zuordnungen anzeigen", { exact: true }).click();
   await expect(
-    page.getByLabel("Genre anzeigen", { exact: true }),
+    page.getByLabel("Zuordnungen anzeigen", { exact: true }),
   ).not.toBeChecked();
   await page.reload();
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".question-genre")).toHaveCount(0);
+  await expect(page.locator(".question-facets")).toHaveCount(0);
   await expect(page.locator(".question-difficulty")).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
-  await page.getByLabel("Genre anzeigen", { exact: true }).click();
+  await page.getByLabel("Zuordnungen anzeigen", { exact: true }).click();
   await expect(
-    page.getByLabel("Genre anzeigen", { exact: true }),
+    page.getByLabel("Zuordnungen anzeigen", { exact: true }),
   ).toBeChecked();
   await page.getByLabel("Schwierigkeit anzeigen", { exact: true }).click();
   await expect(
@@ -94,11 +94,11 @@ test("Genre und Schwierigkeit bleiben unabhängig einstellbar und über Neuladen
   ).not.toBeChecked();
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
-  await expect(page.locator(".question-genre")).toBeVisible();
+  await expect(page.locator(".question-facets")).toBeVisible();
   await expect(page.locator(".question-difficulty")).toHaveCount(0);
   await page.locator(".answer").first().click();
   await expect(page.locator(".feedback")).toBeVisible();
-  await expect(page.locator(".question-genre")).toBeVisible();
+  await expect(page.locator(".question-facets")).toBeVisible();
   await expect(page.locator(".question-difficulty")).toHaveCount(0);
 });
 

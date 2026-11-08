@@ -45,10 +45,10 @@ test("Preisträger und Experte sind mobil auswählbar, zeigen Vertiefung und ble
     .locator(".round-setup")
     .screenshot({ path: "test-results/preistraeger-experte-320.png" });
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".question-genre")).toHaveAccessibleName(
+  await expect(page.locator(".question-facets")).toContainText(
     "Preisträger",
   );
-  await expect(page.locator(".question-genre img")).toHaveAttribute(
+  await expect(page.locator('.question-facets img[src*="genre-awards"]')).toHaveAttribute(
     "src",
     /genre-awards-320.*\.webp$/,
   );

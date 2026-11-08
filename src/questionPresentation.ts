@@ -1,4 +1,5 @@
 // Operator-only enrichment. The browser receives one prepared presentation.
+import { questionFacets } from "./questionFacets";
 import type { Question } from "./model";
 import { filmData, directorExplanation } from "./filmFacts";
 import { filmDetails } from "./filmDetails";
@@ -31,6 +32,7 @@ export function preparePresentation(
     return data ? [{ ...(reference ? { reference } : {}), data }] : [];
   });
   return presentationSchema.parse({
+    facets: questionFacets(q),
     poster:
       poster && posters
         ? { ...poster, expiresAt: new Date(posters.expiresAt).toISOString() }

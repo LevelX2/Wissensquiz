@@ -101,7 +101,7 @@ for (const timed of [false, true]) {
             .check();
           await page
             .getByRole("group", { name: "Fragenbereiche", exact: true })
-            .getByLabel("Filmfragen", { exact: true })
+            .getByLabel("Werkfragen", { exact: true })
             .uncheck();
         }
         await page.getByRole("button", { name: "Losspielen" }).click();

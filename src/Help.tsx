@@ -88,7 +88,7 @@ export function Help() {
           Was sind Classics, Arthouse, Preisträger und Schauspieler?
         </summary>
         <p>
-          Filmfragen, Preisträger und Schauspieler sind unabhängig wählbare
+          Werkfragen, Preisträger und Schauspieler sind unabhängig wählbare
           Fragenbereiche. Alle gewählten Bereiche bilden einen gemeinsamen
           Zufallspool. Preisträger widmet sich Oscars, der Goldenen Palme und
           den Preisen des Filmfestivals von Venedig. Schauspieler enthält 3.424
@@ -96,28 +96,10 @@ export function Help() {
           Bühne, Musik, Ausbildung und besondere Lebenswege.
         </p>
         <p>
-          Für eine Mischung aus allen Filmfragen, Schauspieler- und Preisfragen
-          wählst Du alle drei Bereiche und alle Filmgenres. Für eine reine
-          Schauspielerrunde wählst Du Filmfragen und Preisträger ab. Genres
-          gelten nur für Filmfragen. Bekanntheitsgruppen und
-          Schwierigkeitsstufen gelten für alle Bereiche. Im Freien Spiel und in
-          Rekordrunden erfolgt die Auswahl zufällig aus dem gemeinsamen Pool;
-          feste Anteile je Bereich gibt es nicht. „Wiederholen“ enthält
-          ausschließlich fällige Fragen aus den gewählten Bereichen. Die
-          Filmreise unterstützt ebenfalls alle drei Bereiche. Schauspieler und
-          Preisträger öffnen ihre Stufen separat: Mindestens 50 Prozent der
-          aktuellen Filmfakten der vorherigen Stufe müssen sicher beantwortet
-          sein, bis hin zu Experte. Bei Filmfragen werden Fortschritte je Genre
-          berechnet. Alle Bereiche öffnen ihre Bekanntheitsgruppen unabhängig
-          von der Schwierigkeit.
+          Werkart (Film oder Serie), Genres, Machart (etwa Animation) und Fragenbereich sind kombinierbar. Mehrere Genres sind möglich. Gezielte Werk- und Genrefilter begrenzen auch Schauspieler- und Preisfragen; allgemeine Karrierefragen erreichst Du über die unbeschränkte Auswahl. Bekanntheit und Schwierigkeit gelten für alle Bereiche. Film- und Serienpfade bleiben getrennt. Sichere Treffer zählen in allen passenden Genres, Personen- und Preisfragen zusätzlich in den zugehörigen Werkpfaden. Ein Ziel behält dabei genau einen Lernstand und Wiederholungstermin. Für höhere Stufen sind mindestens 50 Prozent der aktuellen Ziele der vorherigen Stufe sicher zu beantworten; Werkfragen enden bei Schwer, Personen und Preise bei Experte.
         </p>
         <p>
-          Classics und Arthouse sind kuratierte Filmauswahlen innerhalb Deiner
-          Genres: ausgewählte Klassiker sowie Autoren- und Programmkino. Sie
-          begrenzen nur den Bereich Filmfragen, zusammen als Vereinigung.
-          Zusätzlich ausgewählte Schauspieler- und Preisfragen bleiben im Pool.
-          Jede Frage behält ihren Lernstand; ein Filmfakt wird innerhalb einer
-          Runde einmal ausgewählt, auch wenn mehrere Varianten vorhanden sind.
+          Classics und Arthouse sind kuratierte Sammlungen. Gemeinsam bilden sie eine Vereinigung und begrenzen die konkreten Werkbezüge aller gewählten Bereiche. Ein Fakt erscheint pro Runde höchstens einmal. Mehrere Zuordnungen geben ihm in der Filmreise keine zusätzlichen Lose. Themenübersichten können denselben Lernstand an mehreren Stellen zeigen; ihre Zahlen lassen sich deshalb nicht zu einem Gesamtbestand addieren.
         </p>
       </details>
       <details>

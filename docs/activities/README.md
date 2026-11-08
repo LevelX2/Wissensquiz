@@ -11,7 +11,7 @@ Die ergänzende Aufgabe [„Quellen und Links“ mit IMDb, OFDb und sprechenden 
 | 1 | [Werkarten und Mehrfachzuordnungen](done/act-2026-11-08-werkarten-mehrfachzuordnungen.md) | Lokal geprüft: einheitliche Werkbezüge, Filter und aktueller Katalogpfad |
 | 2 | [Lernstand und Freischaltungen](done/act-2026-11-08-lernstand-freischaltungen.md) | Gemeinsamer Status, eindeutige Zähler und gewählte bereichsübergreifende Anrechnung |
 | 3 | [Ausgewogene Filmreise](done/act-2026-11-08-ausgewogene-filmreise.md) | Nachweisbare Mischung ohne zusätzliche Lose durch Mehrfachzuordnungen |
-| 4 | [Auswahl und mehrere Symbole](inbox/act-2026-11-08-auswahl-zuordnungssymbole.md) | Verständliche kombinierbare Auswahl und mehrere zugängliche Symbole |
+| 4 | [Auswahl und mehrere Symbole](done/act-2026-11-08-auswahl-zuordnungssymbole.md) | Verständliche kombinierbare Auswahl und mehrere zugängliche Symbole |
 | 5 | [Integration und Abnahme](inbox/act-2026-11-08-mehrfachzuordnungen-abnahme.md) | Abgleich der Werkarten und Mehrfachzuordnungen durch alle betroffenen Spielwege |
 
 Jedes Paket enthält einen begrenzten Scope und prüfbare Akzeptanzkriterien. `blockedBy` beschreibt fachliche Abhängigkeiten; die Tabelle legt die vorgeschlagene Bearbeitungsreihenfolge fest. Bei tatsächlicher Umsetzung die Ausführung nach dem passenden Activity-Skill durchführen. Ein größerer Gesamtumbau braucht vor Anlage eines Worktrees den von `AGENTS.md` vorgeschriebenen Auftrag.

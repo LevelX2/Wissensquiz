@@ -197,7 +197,7 @@ test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- 
     page.getByLabel("Fällige Wiederholungen", { exact: true }),
   ).toContainText("3 Wiederholungen fällig");
   // Narrowing the areas must update both the count and the actual server start.
-  await sources.getByLabel("Filmfragen", { exact: true }).uncheck();
+  await sources.getByLabel("Werkfragen", { exact: true }).uncheck();
   await expect(
     page.getByLabel("Fällige Wiederholungen", { exact: true }),
   ).toContainText("2 Wiederholungen fällig");

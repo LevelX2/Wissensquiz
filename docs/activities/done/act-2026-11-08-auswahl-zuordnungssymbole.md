@@ -1,6 +1,7 @@
 ---
 activityId: act-2026-11-08-auswahl-zuordnungssymbole
-status: in_progress
+status: done
+completedAt: 2026-11-08
 startedAt: 2026-11-08
 owner: wissensquiz-werkarten-20261108-root
 branch: codex/werkarten-mehrfachzuordnungen-20261108
@@ -11,8 +12,8 @@ primaryAgent: codex
 requiresImplementation: true
 createdAt: 2026-11-08
 blockedBy: [act-2026-11-08-werkarten-mehrfachzuordnungen, act-2026-11-08-lernstand-freischaltungen, act-2026-11-08-ausgewogene-filmreise]
-resultArtifacts: []
-checks: []
+resultArtifacts: [src/PlaySetup.tsx, src/QuestionAssignments.tsx, src/questionFacets.ts, src/LearningPathPanel.tsx, tests/browser/work-facets.spec.ts, docs/Pruefbericht.md]
+checks: ["39 gezielte Tests in sieben Dateien", "zwei gezielte Chromium-Fälle", "320-Pixel-Screenshot und Axe", "npm run check", "npm run build", "git diff --check"]
 ---
 
 # Kombinierbare Auswahl und mehrere Zuordnungssymbole
@@ -50,4 +51,4 @@ Bestehende Artwork- und Symbolsysteme wiederverwenden. Nach gezielten Komponente
 
 ## Ergebnisnotiz
 
-Vorbereitet; noch nicht umgesetzt.
+Lokal umgesetzt: kombinierbare Werkarten, Genres, Macharten und Sammlungen für alle Quellen; mehrere beschriftete Symbole, sichere öffentliche Taxonomie und getrennte Serienpfade. Zwei gezielte Browserfälle bestanden; 320-Pixel-Screenshot visuell geprüft. Gemeinsame Spielwegabnahme folgt.

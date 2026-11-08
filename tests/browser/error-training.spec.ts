@@ -332,9 +332,9 @@ test("Lernstufen zeigen Zwischenfortschritt, Termine und Fehlerkorrektur auch na
   await page.reload();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   const feedback = page.getByLabel("Lernfortschritt dieses Filmfakts");
-  await expect(page.locator(".question-genre")).toHaveAccessibleName("Sci-Fi");
-  await expect(page.locator(".question-genre")).toHaveText("");
-  await expect(page.locator(".question-genre img")).toHaveAttribute(
+  await expect(page.locator(".question-facets")).toContainText("Sci-Fi");
+  await expect(page.locator(".question-facets")).toContainText("Sci-Fi");
+  await expect(page.locator('.question-facets img[src*="genre-scifi"]')).toHaveAttribute(
     "src",
     /genre-scifi-320.*\.webp$/,
   );

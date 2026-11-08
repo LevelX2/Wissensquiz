@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## 08.11.2026 – Kombinierbare Auswahl und Symbole: Paket 4 lokal
+
+Werkart, Genres, Machart und Sammlungen begrenzen alle gewählten Quellen. Mehrere beschriftete Symbole in stabiler Reihenfolge; Serien- und Genrepfade getrennt sichtbar. Öffentliche Taxonomie enthält keine Werktitel, Jahre oder Folgenangaben. Antwortmöglichkeiten, die selbst ein Merkmal nennen, blenden dessen Merkmalsfamilie aus. Die Anzeigeeinstellung heißt „Zuordnungen anzeigen“.
+
+39 gezielte Tests in sieben Dateien erfolgreich, darunter drei neue Taxonomie-/Server-/Renderfälle. Zwei Chromium-Browserfälle bestanden: gespeicherte Werk-/Machartfilter nach Neuladen mit leerem Serienbestand sowie sechs Serienzuordnungen bei 320 Pixeln. Screenshot visuell geprüft, keine horizontale Überbreite und keine Axe-Befunde in der Frage. Der erste mobile Prüflauf wartete irrtümlich auf den exakten Knopfnamen ohne Pfeil; nach Korrektur des Testselektors erfolgreich. Bestehende UI-Selektoren und Verträge auf die neue Darstellung angepasst. Metadaten/TypeScript, Build und Diffprüfung erfolgreich. Gemeinsame Abnahme und Prüfung der zusätzlichen Spielwege folgen.
+
 ## 08.11.2026 – Ausgewogene Mehrfachauswahl: Paket 3 lokal
 
 Genau ein Auswahlplatz je Ziel vor der Bereichs-/Gruppen-/Stufenauslosung, lokal und im tatsächlichen SQL. Zusätzliche Varianten in anderen Bereichen/Stufen erhöhen die Ziehchance nicht. 100 kontrollierte lokale Zufallsfolgen ergeben mit und ohne zusätzliche Varianten exakt dieselben Zielsequenzen. Für neue, fällige und bekannte Ziele jeweils 80 SQL-Runden mit zehn unterschiedlichen Zielen: beide ursprünglichen Bereiche innerhalb der vorab festgelegten Toleranz; eng gefilterter alternativer Zugang nutzbar. Kleine Restmengen und Serienzugänge geprüft. Zusammen mit `discovery`, `server-familiarity` und `server-work-progress` **27 Tests in vier Dateien erfolgreich**, ebenso TypeScript und Diffprüfung. Lokale Migration `20261108082311_unique_goal_selection_paths.sql`; keine produktive Aktivierung.

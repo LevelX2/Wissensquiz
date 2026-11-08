@@ -32,8 +32,12 @@ export const normalizeGenre = (genre: string) =>
       : genre;
 export const genreOf = (q: Pick<Question, "metadata" | "domain">) =>
   q.metadata.subdomain?.trim() || q.domain;
-export const genreLabel = (genre: string) =>
-  genre === "Science-Fiction" ? "Sci-Fi" : genre;
+export const genreLabel = (genre: string): string =>
+  genre.startsWith("Serien · ")
+    ? "Serien · " + genreLabel(genre.slice(9))
+    : genre === "Science-Fiction"
+      ? "Sci-Fi"
+      : genre;
 export const difficultyLabel = (value: string) =>
   value.charAt(0).toUpperCase() + value.slice(1);
 export const canonicalFilters = (filters: QuizFilters): QuizFilters => ({
@@ -82,15 +86,25 @@ export const matchesFilters = (q: Question, filters: QuizFilters) => {
   );
 };
 export const roundGenres = (r: Round) =>
-  r.filters?.sources
-    ? r.filters.sources.includes("film")
-      ? (r.filters.genres?.map(genreLabel).join(" + ") ?? "Alle Genres") +
-        ` · ${r.topic}`
-      : r.topic
-    : r.filters
-      ? (r.filters.genres?.map(genreLabel).join(" + ") ?? "Alle Genres") +
-        (r.topic === "Alle Themen" ? "" : ` · ${r.topic}`)
-      : r.topic;
+  [
+    r.filters?.workTypes
+      ? r.filters.workTypes
+          .map((type) => (type === "film" ? "Filme" : "Serien"))
+          .join(" + ") || "Keine Werkart"
+      : "Filme und Serien",
+    r.filters
+      ? (r.filters.genres?.map(genreLabel).join(" + ") ?? "Alle Genres")
+      : null,
+    r.filters?.techniques
+      ?.map((t) => (t === "animation" ? "Animation" : "Realfilm"))
+      .join(" + "),
+    r.filters?.collections?.join(" + "),
+    r.topic === "Alle Themen"
+      ? null
+      : r.topic.replace("Filmfragen", "Werkfragen"),
+  ]
+    .filter(Boolean)
+    .join(" · ");
 export const roundDifficulties = (r: Round) =>
   r.filters
     ? difficulties

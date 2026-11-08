@@ -1,4 +1,10 @@
 import {
+  workTypes,
+  workTypeLabels,
+  techniques,
+  techniqueLabels,
+} from "./workAttributes";
+import {
   ModePicker,
   ModeArtwork,
   modeDescriptions,
@@ -64,7 +70,9 @@ export function PlaySetup({
   roundTopic: string;
   selectedSources: QuestionSource[];
   filters: {
-    genres: string[];
+    genres: string[] | null;
+    workTypes?: ("film" | "series")[];
+    techniques?: ("animation" | "live-action")[];
     sources: QuestionSource[];
     difficulties: ("leicht" | "mittel" | "schwer" | "experte")[];
     familiarities: (2 | 1 | 4 | 3)[];
@@ -76,7 +84,7 @@ export function PlaySetup({
   mutate: Mutate;
   nav: (next: Page | DuelPage) => Promise<void>;
   resume: () => void;
-  toggleGenre: (genre: string) => undefined;
+  toggleGenre: (genre: string) => void;
   selectedCategories: (
     "Classics" | "Arthouse" | "Preisträger" | "Schauspieler"
   )[];
@@ -120,11 +128,19 @@ export function PlaySetup({
     nextAt: null,
   };
   const genreSummary =
-    filters.genres.length === genres.length
+    filters.genres === null
       ? "Alle Genres"
       : filters.genres.length > 2
         ? `${filters.genres.length} Genres`
         : filters.genres.map(genreLabel).join(" + ") || "Keine Genres";
+  const workSummary = filters.workTypes
+    ? filters.workTypes.map((type) => workTypeLabels[type]).join(" + ") ||
+      "Keine Werkart"
+    : "Filme und Serien";
+  const techniqueSummary = filters.techniques
+    ? filters.techniques.map((type) => techniqueLabels[type]).join(" + ") ||
+      "Keine Machart"
+    : "Alle Macharten";
   const difficultySummary =
     selectedDifficulties.length === difficulties.length
       ? "Alle Stufen"
@@ -262,15 +278,8 @@ export function PlaySetup({
                 Losspielen <span>→</span>
               </button>
               <p id="round-summary" className="tiny muted" aria-live="polite">
-                {roundTopic}
-                {filters.sources.includes("film") &&
-                  ` · ${
-                    filters.genres.length === genres.length
-                      ? "Alle Genres"
-                      : filters.genres.length
-                        ? filters.genres.map(genreLabel).join(" + ")
-                        : "Kein Filmgenre"
-                  }`}
+                {roundTopic.replace("Filmfragen", "Werkfragen")}
+                {` · ${workSummary} · ${genreSummary} · ${techniqueSummary}`}
                 {" · "}
                 {isEndlessMode(mode)
                   ? `Endlos · ${runPoolSize} Filmfakten im Pool`
@@ -389,8 +398,11 @@ export function PlaySetup({
                   title="Fragenbereiche"
                   illustration={<DisclosureArtwork subject="answers" />}
                   selection={
-                    selectedSources.map((s) => sourceLabels[s]).join(" + ") ||
-                    "Keine Bereiche"
+                    selectedSources
+                      .map((s) =>
+                        s === "film" ? "Werkfragen" : sourceLabels[s],
+                      )
+                      .join(" + ") || "Keine Bereiche"
                   }
                 >
                   <fieldset disabled={busy}>
@@ -417,32 +429,113 @@ export function PlaySetup({
                             }
                             compact
                           />
-                          {sourceLabels[source]}
+                          {source === "film"
+                            ? "Werkfragen"
+                            : sourceLabels[source]}
                         </label>
                       ))}
                     </div>
                     <p className="tiny muted">
                       Gewählte Bereiche bilden einen gemeinsamen Fragenpool.
                       Bekanntheitsgruppen und Schwierigkeiten gelten für alle
-                      Bereiche. Genres und Filmauswahl begrenzen nur Filmfragen.
-                      In der Filmreise gelten die freigeschalteten Stufen jedes
-                      Bereichs.
+                      Bereiche. Werkart, Genres, Machart und Sammlungen
+                      begrenzen alle Bereiche. Allgemeine Personen- und
+                      Preisfragen bleiben über die unbeschränkte Auswahl
+                      erreichbar. In der Filmreise gelten die freigeschalteten
+                      Stufen jedes Bereichs.
                     </p>
                   </fieldset>
                 </SetupSection>
                 <SetupSection
-                  title="Filmgenres & Filmauswahl"
+                  title="Werke, Genres & Sammlungen"
                   illustration={<DisclosureArtwork subject="film" />}
-                  selection={
-                    selectedSources.includes("film")
-                      ? [genreSummary, ...selectedCategories].join(" · ")
-                      : "Filmfragen derzeit abgewählt"
-                  }
+                  selection={[
+                    workSummary,
+                    genreSummary,
+                    techniqueSummary,
+                    ...selectedCategories,
+                  ].join(" · ")}
                 >
-                  <fieldset
-                    disabled={busy || !selectedSources.includes("film")}
-                  >
-                    <legend>Filmgenres</legend>
+                  <fieldset disabled={busy}>
+                    <legend>Werkart</legend>
+                    <p className="muted tiny">
+                      Filme und Serien öffnen getrennte Lernpfade. Beide
+                      ausgewählt lässt auch allgemeine Personen- und Preisfragen
+                      zu.
+                    </p>
+                    <div className="filter-options">
+                      {workTypes.map((type) => (
+                        <label className="filter-choice" key={type}>
+                          <input
+                            type="checkbox"
+                            checked={
+                              !filters.workTypes ||
+                              filters.workTypes.includes(type)
+                            }
+                            onChange={(e) => {
+                              const selected = filters.workTypes ?? [
+                                ...workTypes,
+                              ];
+                              const next = e.target.checked
+                                ? [...selected, type]
+                                : selected.filter((item) => item !== type);
+                              void changeSetup({
+                                workTypes:
+                                  next.length === workTypes.length
+                                    ? undefined
+                                    : next,
+                              });
+                            }}
+                          />
+                          {workTypeLabels[type]}
+                        </label>
+                      ))}
+                    </div>
+                  </fieldset>
+                  <fieldset disabled={busy}>
+                    <legend>Machart</legend>
+                    <label className="filter-choice">
+                      <input
+                        type="checkbox"
+                        checked={!filters.techniques}
+                        onChange={(e) =>
+                          void changeSetup({
+                            techniques: e.target.checked ? undefined : [],
+                          })
+                        }
+                      />
+                      Alle Macharten einschließlich ungeklärter Einordnung
+                    </label>
+                    <div className="filter-options">
+                      {techniques.map((type) => (
+                        <label className="filter-choice" key={type}>
+                          <input
+                            type="checkbox"
+                            checked={
+                              filters.techniques?.includes(type) ?? false
+                            }
+                            onChange={(e) =>
+                              void changeSetup({
+                                techniques: e.target.checked
+                                  ? [...(filters.techniques ?? []), type]
+                                  : (filters.techniques ?? []).filter(
+                                      (item) => item !== type,
+                                    ),
+                              })
+                            }
+                          />
+                          {techniqueLabels[type]}
+                        </label>
+                      ))}
+                    </div>
+                    <p className="muted tiny">
+                      Nur ausdrücklich eingeordnete Werke passen zu einer
+                      gezielten Machart. Ein leerer Treffer ist bei noch
+                      fehlendem Bestand möglich.
+                    </p>
+                  </fieldset>
+                  <fieldset disabled={busy}>
+                    <legend>Genres</legend>
                     <p className="muted tiny">
                       Ein oder mehrere Genres kombinieren.
                     </p>
@@ -451,7 +544,10 @@ export function PlaySetup({
                         <label className="filter-choice" key={g}>
                           <input
                             type="checkbox"
-                            checked={filters.genres.includes(g)}
+                            checked={
+                              filters.genres === null ||
+                              filters.genres.includes(g)
+                            }
                             onChange={() => toggleGenre(g)}
                           />
                           <GenreArtwork genre={g} compact />
@@ -476,10 +572,8 @@ export function PlaySetup({
                       Alle Genres abwählen
                     </button>
                   </fieldset>
-                  <fieldset
-                    disabled={busy || !selectedSources.includes("film")}
-                  >
-                    <legend>Filmauswahl</legend>
+                  <fieldset disabled={busy}>
+                    <legend>Sammlungen</legend>
                     {filmCategories.map((category) => (
                       <label className="filter-choice" key={category}>
                         <input
@@ -500,12 +594,11 @@ export function PlaySetup({
                       </label>
                     ))}
                     <p className="tiny muted">
-                      Ohne Einschränkung kommen alle Filmfragen aus Deinen
-                      Genres infrage. Classics und Arthouse begrenzen nur diesen
-                      Bereich; zusammen bilden sie eine Vereinigung.
-                      Schauspieler und Preisträger bleiben zusätzlich im Pool,
-                      wenn Du sie oben auswählst. Gemeinsame Filmfakten zählen
-                      pro Runde einmal.
+                      Classics und Arthouse begrenzen die konkreten Werkbezüge
+                      aller gewählten Fragenbereiche; zusammen bilden sie eine
+                      Vereinigung. Alle gewählten Merkmale müssen am selben Werk
+                      zutreffen. Ein gemeinsamer Filmfakt zählt pro Runde
+                      einmal.
                     </p>
                   </fieldset>
                 </SetupSection>
@@ -596,9 +689,12 @@ export function PlaySetup({
                   journey={view.value?.journey}
                   state={state}
                   genres={
-                    selectedSources.includes("film") ? filters.genres : []
+                    selectedSources.includes("film")
+                      ? (filters.genres ?? genres)
+                      : []
                   }
                   sources={selectedSources}
+                  workTypes={filters.workTypes}
                 />
               </div>
             )}

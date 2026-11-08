@@ -25,7 +25,7 @@ for (const both of [false, true]) {
       .click();
     await openRoundSetup(page);
     await page
-      .getByRole("group", { name: "Filmgenres", exact: true })
+      .getByRole("group", { name: "Genres", exact: true })
       .getByLabel("Rom-Com", { exact: true })
       .check();
     if (both) await page.getByLabel("Nur Classics", { exact: true }).check();
@@ -36,7 +36,7 @@ for (const both of [false, true]) {
       .getByRole("button", { name: "Zum Freien Spiel wechseln" })
       .click();
     const imgs = page
-      .getByRole("group", { name: "Filmauswahl" })
+      .getByRole("group", { name: "Sammlungen" })
       .locator("img");
     for (const img of await imgs.all()) {
       await img.scrollIntoViewIfNeeded();
@@ -52,7 +52,7 @@ for (const both of [false, true]) {
       path: `test-results/kategorien-${both ? "kombiniert" : "arthouse"}-320.png`,
     });
     await page.getByRole("button", { name: "Losspielen" }).click();
-    await expect(page.locator(".question-genre")).toHaveAccessibleName(
+    await expect(page.locator(".question-facets")).toContainText(
       "Rom-Com",
     );
     const saved = await readStoredState(page);
