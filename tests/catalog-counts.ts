@@ -1,13 +1,13 @@
 // Independently reviewed catalog snapshot; update after a completed content package.
 export const catalogCounts = {
-  questions: 20165,
-  goals: 19412,
+  questions: 20213,
+  goals: 19460,
   packages: 3,
-  films: 1819,
-  filmQuestions: 16361,
-  familiarityEntries: 1963,
-  numericYearQuestions: 1824,
-  csvYearQuestions: 1399,
+  films: 1825,
+  filmQuestions: 16409,
+  familiarityEntries: 1969,
+  numericYearQuestions: 1830,
+  csvYearQuestions: 1405,
   arthouseQuestions: 1721,
   classicsQuestions: 2670,
   yearEditorialQuestions: 291,
@@ -16,10 +16,10 @@ export const catalogCounts = {
 };
 
 export const genreQuestionCounts = {
-  Abenteuer: 1318,
+  Abenteuer: 1326,
   Action: 1282,
-  Drama: 1318,
-  Fantasy: 1362,
+  Drama: 1326,
+  Fantasy: 1394,
   Horror: 1299,
   Komödie: 1394,
   "Martial Arts & Asia-Film": 1315,

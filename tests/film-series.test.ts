@@ -101,7 +101,7 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
     }
   >;
   const seen = new Map<string, string>();
-  const reviewed = new Map<string, unknown>([
+  const reviewedEntries: [string, unknown][] = [
     ...Object.keys(editorialFacts).map(
       (key) => [key, registry[key].series] as const,
     ),
@@ -112,7 +112,11 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
         [`${film.film_title_original}|${film.film_year}`, film.series] as const,
     ),
     ...genre150.series_updates.map((film) => [film.film, film.series] as const),
-  ]);
+  ];
+  // Current typed series references are not entries in the film-series registry.
+  const reviewed = new Map(
+    reviewedEntries.filter(([key]) => Object.hasOwn(registry, key)),
+  );
   let numbered = 0;
   for (const question of state.questions) {
     const presentation = preparePresentation(question);
