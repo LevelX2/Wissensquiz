@@ -1,7 +1,5 @@
 # Projektstart Wissensquiz
 
-**08.11.2026 – Alle 541 fehlenden TMDB-Posterlinks nachrecherchiert:** 1.946 Filmfassungen mit eigenen Film-/Preisfragen, weiterhin nur 1.405 Zuordnungen im lokalen und öffentlichen Index vom 10.10.2026. Alle 541 fehlenden Einträge gefunden, davon acht nach Einzelprüfung; null ungeklärt. Betrifft 4.031 Fragen. Recherchebericht mit sämtlichen Direktlinks vorhanden; noch keine Übernahme in die App oder Veröffentlichung. [Ergebnis und Grenzen](../docs/Filmposter.md#fehlende-tmdb-links-nachrecherchiert--08112026).
-
 **08.11.2026 – Antworttexte lokal farbig hinterlegt:** Richtige Antworten und Lösungen auch nach der kurzen Auflösung grün, gewählte falsche Antworten rot; dieselben Farben wie auf den Antwortoptionen. „Keine Ahnung“ und Zeitablauf neutral. Gilt ebenfalls im Rundenrückblick. Noch nicht veröffentlicht. [Anzeigevertrag](../docs/Lernregeln.md#direkt-sichtbare-antwortfarben).
 
 **08.11.2026 – Rekordlisten-Level lokal korrigiert:** „Meine Läufe“ lieferte fest null XP, die gemeinsame Liste Wettbewerbs-XP. Beide zeigen nun das aktuelle Karrierelevel wie im Profil, auch bei älteren Ergebnissen; UI-Hinweis und eindeutiger Zeitbezug dokumentiert. 29 gezielte Tests und Metadaten/TypeScript erfolgreich. Servermigration nur vorbereitet, noch nicht produktiv aktiviert. [Vertrag und Ursache](../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal).

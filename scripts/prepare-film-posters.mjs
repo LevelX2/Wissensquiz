@@ -38,9 +38,14 @@ if (
 console.log("TMDB-Zugang und Bildkonfiguration erfolgreich geprüft.");
 
 const server = await createServer({
-  server: { middlewareMode: true, hmr: false, ws: false },
+  optimizeDeps: { noDiscovery: true, include: [] },
+  server: { middlewareMode: true, hmr: false, ws: false, watch: null },
 });
-let questions, filmData, reviewedPosterFor, selectFilmPosterPath;
+let questions,
+  filmData,
+  catalogFilmTmdbId,
+  reviewedPosterFor,
+  selectFilmPosterPath;
 try {
   const { packages, addPackages } =
     await server.ssrLoadModule("/src/packages.ts");
@@ -60,9 +65,8 @@ try {
   );
   questions = validateBackup(state).questions;
   ({ filmData } = await server.ssrLoadModule("/src/filmFacts.ts"));
-  ({ reviewedPosterFor, selectFilmPosterPath } = await server.ssrLoadModule(
-    "/scripts/film-poster-selection.ts",
-  ));
+  ({ catalogFilmTmdbId, reviewedPosterFor, selectFilmPosterPath } =
+    await server.ssrLoadModule("/scripts/film-poster-selection.ts"));
 } finally {
   await server.close();
 }
@@ -101,6 +105,8 @@ const directorNames = {
   "Alejandro G. Iñárritu": "Alejandro González Iñárritu",
   "Steve Antin": "Steven Antin",
   "Jeremiah S. Chechik": "Jeremiah Chechik",
+  "Ching Siu-tung": "Tony Ching",
+  "Sergei Paradschanow": "Sergei Parajanov",
 };
 // Reviewed short/localized titles in the current catalog; year and director
 // must still agree with the returned movie.
@@ -169,6 +175,7 @@ let index = 0;
 async function worker() {
   while (index < entries.length) {
     const film = entries[index++];
+    const catalogId = catalogFilmTmdbId(film.key);
     if (index % 100 === 0)
       console.log(`Prüfe Film ${index} von ${entries.length}.`);
     const cache = `tmp-film-posters/${Buffer.from(film.key).toString("base64url")}.json`;
@@ -186,13 +193,15 @@ async function worker() {
       research = JSON.parse(await readFile(cache, "utf8"));
     } catch (error) {
       if (error.code !== "ENOENT") throw error;
-      const candidates = (
-        await api("search/movie", {
-          query: film.originalTitle,
-          year: String(film.year),
-          include_adult: "false",
-        })
-      ).results;
+      const candidates = catalogId
+        ? []
+        : (
+            await api("search/movie", {
+              query: film.originalTitle,
+              year: String(film.year),
+              include_adult: "false",
+            })
+          ).results;
       research = { film, fetchedAt: new Date().toISOString(), candidates };
       await writeFile(cache, JSON.stringify(research, null, 2) + "\n");
     }
@@ -205,7 +214,7 @@ async function worker() {
           ),
         ),
     );
-    let id = exact.length === 1 ? exact[0].id : undefined;
+    let id = catalogId ?? (exact.length === 1 ? exact[0].id : undefined);
     if (!id) {
       if (!research.expanded) {
         const candidates = [...research.candidates];
