@@ -1,10 +1,10 @@
 // Independently reviewed catalog snapshot; update after a completed content package.
 export const catalogCounts = {
-  questions: 20087,
-  goals: 19334,
+  questions: 20141,
+  goals: 19388,
   packages: 3,
   films: 1819,
-  filmQuestions: 16283,
+  filmQuestions: 16337,
   familiarityEntries: 1963,
   numericYearQuestions: 1824,
   csvYearQuestions: 1399,
