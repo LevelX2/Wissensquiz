@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "9b89f4fa53b60044f3f3b6731d3babc422762dec7cb4fdf50ba1d5939f5ee405",
+  "catalogSha256": "7fc2fb62ebcc46c9065f0576c0f8a1b84b1485e9e167564b467cc71ff6a9c1e7",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 20141,
-    "knowledgeGoals": 19388,
+    "questions": 20165,
+    "knowledgeGoals": 19412,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 16337,
+    "film": 16361,
     "actors": 3424,
     "awards": 380
   },
@@ -591,11 +591,11 @@
     },
     {
       "attributes": "film|Science-Fiction|leicht|2",
-      "count": 190
+      "count": 194
     },
     {
       "attributes": "film|Science-Fiction|leicht|3",
-      "count": 125
+      "count": 129
     },
     {
       "attributes": "film|Science-Fiction|leicht|4",
@@ -607,11 +607,11 @@
     },
     {
       "attributes": "film|Science-Fiction|mittel|2",
-      "count": 296
+      "count": 300
     },
     {
       "attributes": "film|Science-Fiction|mittel|3",
-      "count": 221
+      "count": 225
     },
     {
       "attributes": "film|Science-Fiction|mittel|4",
@@ -623,11 +623,11 @@
     },
     {
       "attributes": "film|Science-Fiction|schwer|2",
-      "count": 181
+      "count": 185
     },
     {
       "attributes": "film|Science-Fiction|schwer|3",
-      "count": 160
+      "count": 164
     },
     {
       "attributes": "film|Science-Fiction|schwer|4",
