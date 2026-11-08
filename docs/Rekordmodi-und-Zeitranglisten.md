@@ -65,6 +65,14 @@ Alle drei Solo-Rekordmodi vergeben pro rechtzeitigem Treffer `100 + 2 × floor((
 
 ## Highscores
 
+### Aktuelles Karrierelevel bei Rekordläufen – 08.11.2026, lokal
+
+**Level und Karrieretitel zeigen bei jedem Eintrag den aktuellen Karrierefortschritt des Spielers zum Listenabruf.** Das gilt für „Meine Läufe“ und die „Gemeinsame Rangliste“, für alle Zeiträume und auch für ältere Läufe. Der Stand entspricht dem Profil und „Lernfortschritt · Karriere-XP“. Ein späterer Levelaufstieg wird nach erneutem Laden auch bei früheren Ergebnissen sichtbar. Punkte, Treffer, Antwortzeit und Abschlussdatum bleiben die Werte des jeweiligen Laufs; das Karrierelevel beeinflusst dessen Rang nicht. Ein historisches Level zum Laufabschluss wird nicht gespeichert oder rekonstruiert. Die eigene Wertung „Wettbewerbs-XP“ im Karrierebereich bleibt erhalten.
+
+Die persönliche Ergebnisabfrage `quiz_own_record_runs` lieferte fest null XP, während `quiz_record_runs` die Wettbewerbs-XP verwendete. Beide lesen nun ausschließlich die aktuelle globale Karrierezeile aus `public.quiz_player_totals` (`genre=''`, `difficulty=''`). Der vorhandene `CareerBadge` leitet daraus Level und Titel ab. Ein Hinweis unter der Rekordliste erklärt den aktuellen Bezug. Vorhandene Ergebnisdaten, Kontoidentitäten und Lernbelege werden nicht umgeschrieben; die Rückgabe bleibt auf die bisherigen Felder begrenzt.
+
+Migration `20261108074025_record_run_career_level.sql` ist **nur lokal vorbereitet, noch nicht produktiv aktiviert**. 29 gezielte Logik-/Datenbanktests sowie Metadaten/TypeScript erfolgreich; [Prüfnachweis und Grenzen](Pruefbericht.md#08112026--aktuelles-karrierelevel-in-rekordlisten-lokal).
+
 ### Kurze Vergleichsauswahl – 13.10.2026
 
 Seit **Version 78** am 13.10.2026 veröffentlicht: Die Vergleichskategorie zeigt nur „Universal“ beziehungsweise „Genre · Horror“ (mit dem jeweiligen Genrenamen). Das gilt für eigene und gemeinsame Online-Rekordlisten sowie die lokale Ergebnisliste. Filter, Fragenzahl, Filmgruppen und technische Wertungsregeln werden nicht mehr in den Auswahltext geschrieben. Kategoriekennungen, getrennte Wertungen und die Auswahl des gerade abgeschlossenen Laufs bleiben unverändert. Anlass ist der [Nutzerhinweis zur unhandlichen Auswahl](../KI-Wissen-Wissensquiz/01%20Rohquellen/2026-10-13%20Nutzerhinweis%20kurze%20Universal-Auswahl.txt).

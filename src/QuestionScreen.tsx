@@ -656,7 +656,9 @@ export function QuestionScreen({
                     </Pill>
                   )}
                 </div>
-                <p className="chosen-answer">
+                <p
+                  className={`chosen-answer answer-result ${event.correct ? "correct" : event.answerId !== null ? "wrong" : ""}`}
+                >
                   Deine Antwort:{" "}
                   <strong>
                     {event.dontKnow
@@ -666,7 +668,7 @@ export function QuestionScreen({
                   </strong>
                 </p>
                 {!event.correct && (
-                  <p className="correct-answer">
+                  <p className="correct-answer answer-result correct">
                     Richtige Antwort:{" "}
                     <strong>
                       {q.answers.find((a) => a.id === q.correctId)!.text}

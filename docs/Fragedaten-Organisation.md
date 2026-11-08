@@ -23,7 +23,7 @@ Bereichsübergreifende Anrechnung benötigt einen geprüften konkreten Werk-/Gen
 
 ### Quellen und Links
 
-**Lokal im eigenen Worktree umgesetzt, noch nicht veröffentlicht.** Die Linkaufgabe wurde auf Luis Wunsch aus den Umsetzungspaketen für Werkarten und Mehrfachzuordnungen herausgenommen und mit der Überarbeitung zu sprechenden Linktexten zusammengeführt. Gemeinsame Klappe mit getrennten Belegquellen und weiterführenden Datenbanken, bestätigte IMDb-/OFDb-Einträge sowie Lösungsschutz und Dublettenbehandlung sind in [Quellen und Links](Quellen-und-Links.md) dokumentiert. Ihre Umsetzung ist keine Voraussetzung für den Umbau der Werkarten und Mehrfachzuordnungen.
+**Lokal umgesetzt, noch nicht veröffentlicht.** Die gemeinsame Klappe mit getrennten Belegquellen und weiterführenden Datenbanken, bestätigte IMDb-/OFDb-Zuordnungen, Lösungsschutz und offene fachliche Punkte regelt [Quellen und Links](Quellen-und-Links.md). Dieser Vertrag ist unabhängig vom Umbau der Werkarten und Mehrfachzuordnungen.
 
 Der Bereich heißt einheitlich **„Quellen und Links“**. Neben den fachlichen Belegen erscheinen bestätigte IMDb-Verweise und vorhandene bestätigte OFDb-Verweise zum konkreten Film, zur Serie oder zur Person. Lui hat ausdrücklich bestätigt, dass mit „UFDB“ **OFDb unter ofdb.de** gemeint ist.
 

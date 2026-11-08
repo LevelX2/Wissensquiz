@@ -1,7 +1,16 @@
 import reviewed from "../src/reviewedFilmPosters.json" with { type: "json" };
+import tmdbIds from "../src/filmTmdbIds.json" with { type: "json" };
+
+export function catalogFilmTmdbId(key: string) {
+  return Object.hasOwn(tmdbIds, key)
+    ? (tmdbIds as Record<string, number>)[key]
+    : undefined;
+}
 
 export function reviewedPosterFor(key: string) {
-  return (reviewed as Record<string, { tmdbId: number; posterPath: string }>)[key];
+  return (reviewed as Record<string, { tmdbId: number; posterPath: string }>)[
+    key
+  ];
 }
 
 export function selectFilmPosterPath(

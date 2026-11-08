@@ -2159,9 +2159,20 @@
       {
         "title": "The Eternal Breasts",
         "kind": "international"
+      },
+      {
+        "title": "Die ewigen Brüste",
+        "kind": "de"
+      },
+      {
+        "title": "Forever a Woman",
+        "kind": "international"
       }
     ],
-    "sources": ["https://queensfilmtheatre.com/Whats-On/The-Eternal-Breasts"]
+    "sources": [
+      "https://queensfilmtheatre.com/Whats-On/The-Eternal-Breasts",
+      "https://www.filmdienst.de/film/details/626155/die-ewigen-bruste"
+    ]
   },
   "Fruitvale Station|2013": {
     "titles": [
@@ -3140,6 +3151,10 @@
       {
         "title": "Sansho Dayu – Ein Leben ohne Freiheit",
         "kind": "de"
+      },
+      {
+        "title": "Sansho the Bailiff",
+        "kind": "international"
       }
     ],
     "sources": [
@@ -3230,6 +3245,10 @@
       {
         "title": "Der letzte Befehl",
         "kind": "de"
+      },
+      {
+        "title": "Sein letzter Befehl",
+        "kind": "de"
       }
     ],
     "sources": [
@@ -3307,7 +3326,10 @@
         "kind": "de"
       }
     ],
-    "sources": ["https://www.justwatch.com/de/Film/Nachts-unterwegs"]
+    "sources": [
+      "https://www.justwatch.com/de/Film/Nachts-unterwegs",
+      "https://www.filmdienst.de/film/details/32750/nachts-unterwegs"
+    ]
   },
   "Les Quatre Cents Coups|1959": {
     "titles": [
@@ -3586,6 +3608,10 @@
       {
         "title": "Die Hand Gottes",
         "kind": "de"
+      },
+      {
+        "title": "The Hand of God",
+        "kind": "international"
       }
     ],
     "sources": [
@@ -4397,6 +4423,70 @@
     "sources": [
       "https://en.wikipedia.org/wiki/Paper_Moon_(film)",
       "https://www.paramount.de/paper-moon"
+    ]
+  },
+  "Koibumi|1953": {
+    "titles": [
+      {
+        "title": "Liebesbriefe",
+        "kind": "de"
+      },
+      {
+        "title": "Love Letter",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://www.filmstarts.de/kritiken/119581.html",
+      "https://www.criterion.com/films/32821-love-letter"
+    ]
+  },
+  "Tsuki wa noborinu|1955": {
+    "titles": [
+      {
+        "title": "Der Mond ist aufgegangen",
+        "kind": "de"
+      },
+      {
+        "title": "The Moon Has Risen",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://www.filmdienst.de/film/details/626310/der-mond-ist-aufgegangen",
+      "https://www.criterion.com/films/32756-the-moon-has-risen"
+    ]
+  },
+  "Onna bakari no yoru|1961": {
+    "titles": [
+      {
+        "title": "Die Nacht der Frauen",
+        "kind": "de"
+      },
+      {
+        "title": "Girls of the Night",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://www.filmdienst.de/film/details/626315/die-nacht-der-frauen",
+      "https://www.criterion.com/films/32822-girls-of-the-night"
+    ]
+  },
+  "Ogin-sama|1962": {
+    "titles": [
+      {
+        "title": "Fräulein Ogin",
+        "kind": "de"
+      },
+      {
+        "title": "Love Under the Crucifix",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://www.filmdienst.de/film/details/626311/fraulein-ogin",
+      "https://www.criterion.com/films/31096-love-under-the-crucifix"
     ]
   }
 }

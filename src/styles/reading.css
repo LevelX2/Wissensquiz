@@ -26,12 +26,14 @@
 .badge-panel {
   background: linear-gradient(110deg, #f5e7c9, #f6f6ed);
 }
-.answer.correct {
+.answer.correct,
+.answer-result.correct {
   background: #e3f2e7;
   border-color: #4e8a61;
   color: #174b2d;
 }
-.answer.wrong {
+.answer.wrong,
+.answer-result.wrong {
   background: #fbe5df;
   border-color: #b96657;
   color: #7d2d23;
@@ -337,26 +339,21 @@ footer[hidden] {
 .answer-review .answers {
   margin: 8px 0;
 }
-.chosen-answer {
-  margin: 8px 0;
-}
-.chosen-answer,
-.correct-answer {
+.answer-result {
   display: grid;
   gap: 3px;
+  margin: 8px 0;
+  padding: 12px 14px;
+  border: 1px solid #bac7bd;
+  border-radius: 12px;
   color: var(--muted);
   font-size: 13px;
 }
-.chosen-answer strong,
-.correct-answer strong {
-  color: #24313b;
+.answer-result strong {
+  color: inherit;
   font-size: 18px;
   line-height: 1.4;
   overflow-wrap: anywhere;
-}
-.correct-answer {
-  padding-left: 12px;
-  border-left: 3px solid var(--green);
 }
 .explanation .explanation-subject {
   display: flex;

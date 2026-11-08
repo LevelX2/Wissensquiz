@@ -1,6 +1,10 @@
 # Wissensindex
 
-- [Quellen und Links: Einzel-Nachrecherche abgeschlossen, vollständige IMDb-Werkabdeckung, zusätzliche OFDb-Einträge und konkrete Restlisten – 08.11.2026, lokal](../../../docs/Quellen-und-Links.md)
+- [Quellen und Links: Anordnung, bestätigte Ziele, Quellen und offene Zuordnungen](../../../docs/Quellen-und-Links.md)
+
+- [Antworttexte auch nach der Auflösung und im Rundenrückblick grün/rot hinterlegt – 08.11.2026, lokal](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
+
+- [Rekordlisten: aktuelles Karrierelevel wie im Profil auch bei alten Läufen; Level-1-Fehler lokal korrigiert – 08.11.2026](../../../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal)
 
 - [Werkarten und Mehrfachzuordnungen beschlossen, fünf Umsetzungspakete vorbereitet; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
 

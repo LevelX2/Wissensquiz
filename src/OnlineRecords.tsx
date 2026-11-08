@@ -332,6 +332,10 @@ export function OnlineRecords({
         Rangliste erneut laden
       </button>
       <p className="tiny muted">
+        Level und Titel zeigen den aktuellen Karrierefortschritt des Spielers,
+        auch bei älteren Läufen.
+      </p>
+      <p className="tiny muted">
         Freizeitrekorde aus gesicherten Spielständen. Die Einzelantworten
         bleiben privat.
       </p>
