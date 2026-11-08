@@ -1,10 +1,12 @@
 # Prüfnachweis
 
-## Animation und Serien – laufende Redaktion im eigenen Worktree
+## Animation und Serien – vollständig lokal geprüft
 
-Aktuell 1.104 zusätzliche Fragen / 1.104 eigenständige Ziele zu 200 Werken; Gesamtbestand 20.507 Fragen / 19.754 Ziele. Der Auftrag zu mindestens 50 Werken je Bereich ist noch in Arbeit. Inhaltliche Mindestabdeckung der aufgenommenen Werke, typisierte Bezüge, Quellen, Titelrecherche und Varianten sind im [aktuellen Redaktionsstand](Animation-und-Serien.md) abgegrenzt.
+1.104 neue Fragen / 1.104 neue Wissensziele zu jeweils 50 Animationsfilmen, Science-Fiction-, Fantasy- und anderen Serien. 350 leicht, 404 mittel, 350 schwer; keine neuen Varianten. 241 vorhandene Werkziele bei 28 Filmen angerechnet; alle 19.403 bisherigen Frageobjekte gegenüber dem aktuellen Main feldgleich erhalten. Neue Filmblöcke mit 2/2/2 Inhaltszielen plus Jahr/Regie, alle Serien mit 2/2/2 unabhängigen Zielen. [Verteilung, Belege und Längenfälle](Animation-und-Serien.md).
 
-`npm run check:questions` und die beiden gezielten Werkabdeckungs-/Serienquellentests erfolgreich. Der echte App-Parser bestätigt sämtliche 20.507 Frageobjekte, eindeutige IDs, gültige Varianten, idempotentes und reihenfolgeunabhängiges Einlesen, Sicherungsvalidierung und verlustfreie Kodierung. Weitere Redaktion macht die betroffenen Nachweise erneut prüfpflichtig; lokale Main-Integration erst nach abschließendem Abgleich. Keine Veröffentlichung und keine produktiven Datenbankänderungen.
+**91 gezielte Tests in 14 Dateien bestanden**, außerdem TypeScript, Laufzeitmetadaten und `git diff --check`. Geprüft: native Pakete, Mindestabdeckung und Bereichszählung, Filmreihen und Alternativtitel, Werkattribute und Bestandszuordnungen, Fragefacetten, Quellen-/Datenbanklinks und Lösungsschutz, Jahresantworten einschließlich Datenbankbelegen, Zeitkonto und Synchronisationskodierung. Die interne Vollkatalog-/Poolgrenze von 100.000 erlaubt den tatsächlichen Bestand über 20.000 Fragen; Regression mit aktuellem Katalog und Zeitkontolauf erfolgreich.
+
+Der echte App-Parser validiert 20.507 Fragen / 19.754 Ziele / 753 Variantenbezüge in 15 Dateien: eindeutige IDs, gültige Varianten, reihenfolgeunabhängiges und idempotentes Einlesen, Sicherungsvalidierung und verlustfreie Kodierung. Aktueller Kataloghash: `bc12740132bf7af1f3702a5b03efe215ed1c5392758838dd1b31527f10174cb6`. [Maschinenlesbarer Nachweis](Fragedaten-Pruefung.json). Main-Zuordnungen und Werkicons erhalten. Keine Veröffentlichung und keine produktiven Datenbankänderungen; kein vollständiger Veröffentlichungsprüflauf behauptet.
 
 ## Werkarten und Mehrfachzuordnungen – lokal geprüft, nicht veröffentlicht
 

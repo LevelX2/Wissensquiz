@@ -23,12 +23,14 @@ Die führenden Anzeigeregister sind src/workDatabaseLinks.json, src/personDataba
 
 | Aktueller Bestand | Bestätigte Zuordnungen |
 |---|---:|
-| IMDb-Werke | 3.400 von 3.400 |
+| IMDb-Werkidentitäten | 3.401 bestätigte Einträge |
 | Davon Serien | 3 |
-| OFDb-Werke | 3.379 von 3.400 |
+| OFDb-Werkidentitäten | 3.379 bestätigte Einträge |
 | IMDb-Schauspieler | 428 von 428 |
 | OFDb-Schauspieler | 419 von 428 |
-| IMDb-Regie | 3.569 Werk-/Personenzuordnungen für alle 3.400 Werke |
+| IMDb-Regie | 3.569 bestätigte Werk-/Personenzuordnungen |
+
+Die Registerzahlen zählen bestätigte Verweise und behaupten keine vollständige Abdeckung sämtlicher neuer Werkidentitäten. Die [Animations-/Serienredaktion](Animation-und-Serien.md#quellen-und-links) führt ihren ergänzenden Umfang und unbestätigte Direktprofile auf.
 
 15 zusätzliche Werk-Identitätsvarianten teilen einen IMDb-Eintrag; bestehende Quiz-/Lernidentitäten bleiben erhalten. Die Serien Dancin’ Days (1978), Gabriela (1975) und L’arte della gioia (2024) sind ausdrücklich als Serien zugeordnet; für letztere ist auch OFDb bestätigt.
 

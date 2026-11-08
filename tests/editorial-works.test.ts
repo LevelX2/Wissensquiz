@@ -18,6 +18,47 @@ addPackages(
 );
 const authored = state.questions.filter((q) => q.id.startsWith("WERK-"));
 
+it("deckt je mindestens 50 eigenständige Werke in vier getrennt gezählten Auswahlbereichen ab", () => {
+  const groups = {
+    animation: new Set<string>(),
+    scifi: new Set<string>(),
+    fantasy: new Set<string>(),
+    other: new Set<string>(),
+  };
+  const counted = new Set<string>();
+  for (const q of authored) {
+    const work = q.works![0];
+    const key = workIdentity(work);
+    const group =
+      work.type === "film"
+        ? "animation"
+        : q.metadata.subdomain === "Science-Fiction"
+          ? "scifi"
+          : q.metadata.subdomain === "Fantasy"
+            ? "fantasy"
+            : "other";
+    if (group === "animation") expect(work.techniques).toContain("animation");
+    else if (group === "scifi")
+      expect(work.genres).toContain("Science-Fiction");
+    else if (group === "fantasy") expect(work.genres).toContain("Fantasy");
+    else {
+      expect(work.genres).not.toContain("Science-Fiction");
+      expect(work.genres).not.toContain("Fantasy");
+    }
+    expect(counted.has(q.id)).toBe(false);
+    counted.add(q.id);
+    groups[group].add(key);
+  }
+  for (const works of Object.values(groups))
+    expect(works.size).toBeGreaterThanOrEqual(50);
+  expect(
+    new Set(Object.values(groups).flatMap((works) => [...works])).size,
+  ).toBe(Object.values(groups).reduce((sum, works) => sum + works.size, 0));
+  expect(new Set(authored.map((q) => q.knowledgeId)).size).toBe(
+    authored.length,
+  );
+});
+
 it("übernimmt redigierte Werkfragen mit vollständiger Mindestabdeckung und getrennten Attributen", () => {
   expect(authored.length).toBeGreaterThan(0);
   const works = Map.groupBy(authored, (q) => workIdentity(q.works![0]));

@@ -23,7 +23,7 @@ Bereichsübergreifende Anrechnung benötigt einen geprüften konkreten Werk-/Gen
 
 ### Lokaler Umsetzungsstand
 
-Alle fünf Softwarepakete sind lokal umgesetzt: typisierte Werkbezüge und korrelierte Filter; gemeinsame Zielbelege mit getrennter Film-/Serienfreischaltung; ausgewogene Auslosung ohne zusätzliche Lose; mehrere lösungssichere Symbole; getrennte Rekord- und Duellthemen. SQL ausschließlich lokal. Im unveränderten Gesamtbestand von 19.403 Fragen sind 109 Fragen zu 99 Serien sowie 561 Fragen zu 84 Animationsfilm-Identitäten eingeordnet; zehn Serienfragen betreffen Sci-Fi, fünf Fantasy. Die neun Werkfragen mit Serienbezug behalten zusätzlich ihren konkreten Filmbezug; 100 Serienfragen bleiben Schauspielerfragen. Die separate Datei für reine Serien-Werkfragen ist noch leer. Vier passende Bildmotive für Film, Serie, Animation und Realfilm ergänzen die bisherigen Genreillustrationen. Bestehende Fragen-/Ziel-IDs, redigierte Texte und private Belege bleiben erhalten. Links aus dem anderen Chat übernommen. [Datenvertrag](Importformat.md#werkarten-in-den-spielwegen), [Prüfnachweis](Pruefbericht.md), [Bildmotive](Genreillustrationen.md#werkarten-und-macharten).
+Typisierte Werkbezüge und korrelierte Filter, gemeinsame Zielbelege, getrennte Film-/Serienfreischaltung, ausgewogene Auslosung, mehrere lösungssichere Symbole sowie getrennte Rekord-/Duellthemen sind lokal umgesetzt. Die Bestandszuordnungen zu Animation und Serienrollen sowie die vier Werkart-/Machartmotive bleiben erhalten. Die aktuelle Redaktion ergänzt 1.104 Ziele zu 200 Werken; der Gesamtbestand umfasst 20.507 Fragen / 19.754 Ziele und 753 bestehende Variantenbezüge. Reine Serien-Werkfragen stehen in ihrer eigenen Fachdatei. Alle 19.403 bisherigen Frageobjekte bleiben gegenüber Main feldgleich erhalten. [Werkabdeckung und Belege](Animation-und-Serien.md), [Datenvertrag](Importformat.md#werkarten-in-den-spielwegen), [Prüfnachweis](Pruefbericht.md), [Bildmotive](Genreillustrationen.md#werkarten-und-macharten).
 
 ### Quellen und Links
 
@@ -39,14 +39,15 @@ Die hiesigen Activities legen gezielte Prüfungen für Datenmodell, Anrechnung, 
 
 | Fachbereich | Redaktion | Aktuelle Fragen |
 |---|---|---:|
-| Filmfragen | `content/filmfragen/*.jsonl`, zwölf Genres | 15.599 |
+| Filmfragen | `content/filmfragen/*.jsonl`, zwölf Genres | 15.803 |
+| Serienwerkfragen | `content/serienfragen.jsonl` | 900 |
 | Schauspieler | `content/schauspielerfragen.jsonl` | 3.424 |
 | Preisträger | `content/preisfragen.jsonl` | 380 |
-| Gesamt | Drei aktuelle Fachbestände | 19.403 |
+| Gesamt | Drei Fragenbereiche in 15 Fachdateien | 20.507 |
 
 Eine UTF-8-Zeile enthält ein vollständiges aktuelles Frageobjekt. `src/questionSchema.ts` definiert die Felder. Fragen-IDs identifizieren Fragenfassungen; Wissensziel-IDs verbinden Varianten und ihren Lernfortschritt. Bei Änderungen am Inhalt werden Frage, Antworten, Erklärung, Quellen, Version und zugehörige Metadaten gemeinsam gepflegt.
 
-Die drei Fachbereiche liegen in 14 aktuellen Dateien. Filmfragen werden anhand ihres Genre-Attributs in zwölf Dateien geführt. Die zuvor gemeinsame Datei mit 46.457.606 Bytes überschritt die Sites-Grenze von 32 MiB je Git-Objekt. Alle 15.599 Filmfragen wurden zeilengetreu auf die aktuellen Genres aufgeteilt; keine zusätzlichen Kopien oder Lieferpakete. Import und Prüfung verwenden dieselbe fachliche Zuordnung.
+Die drei Fragenbereiche liegen in 15 aktuellen Fachdateien: zwölf Filmgenrebestände, ein Serienbestand sowie Schauspieler- und Preisfragen. Jede Frage steht einmal im aktuellen Bestand; weitere Werk-/Genrezuordnungen erzeugen keine Kopien. Jede Datei bleibt innerhalb der Sites-Grenze von 32 MiB.
 
 Noch nicht übernommene fremde Redaktion bleibt Arbeitsmaterial. Die vorbereiteten 320 Fragen aus der 40-Filme-Redaktion sind kein zweiter aktueller Spielbestand und wurden nicht als abgeschlossene Lieferkopie gelöscht.
 
@@ -72,8 +73,6 @@ Die interne Vollkatalogvalidierung erlaubt bis zu 100.000 Fragen und zugehörige
 
 `npm run check:questions` prüft den aktuellen Gesamtkatalog: Schema, eindeutige IDs, Variantenbezüge, Bereichszuordnung, von der Einlesereihenfolge unabhängige Inhalte, wiederholtes Einlesen, Sicherungsvalidierung und verlustfreie Metadatenkodierung. Der aktuelle Nachweis steht in [Fragedaten-Pruefung.json](Fragedaten-Pruefung.json).
 
-Bei der Umorganisation wurden sämtliche Felder der 19.303 bestehenden Fragen mit dem zuvor tatsächlich aufgebauten Katalog verglichen. Inhalte, Antworten, Quellen, Versionen und Wissensziel-IDs sind unverändert. Der über nach Fragen-ID und Objektschlüsseln sortierte Daten gebildete SHA-256 ist vor und nach der Umorganisation `5e176851d58d94879b7c874e460f8d0c8d0170c45d769fa4965e75e8e3c809fb`.
-
-Danach wurden 100 Oscar-Darstellungsfragen unmittelbar in Preisfragen ergänzt: 62 neue Wissensziele und 38 Varianten mit gemeinsamem Fortschritt. Aktuell 18.650 Ziele und 753 Variantenbezüge; alle 19.303 vorherigen Frageobjekte bleiben feldgleich erhalten. [Inhalt, Quellen und Abnahme](Preistraeger.md).
+Der aktuelle native Bestand und seine Wissensziel-/Variantenbezüge werden vollständig geprüft. Die maßgeblichen Zählungen und der Inhalts-Hash stehen im aktuellen maschinenlesbaren Nachweis.
 
 Eine zusätzliche Prüfung erkannte einen bestehenden Zuordnungsfehler bei kompakten Spielstandsbelegen: Eine leere Personen-ID kann als numerischer Metadatenverweis kodiert sein und wurde als gefüllte ID behandelt. Die seit Version 88 produktive SQL-Korrektur liest den tatsächlichen Wert im bestehenden Format. Private Aufrufrechte, leere Suchpfade und fünf konkrete Decoderfälle sind lokal und nativ geprüft. Die Aktivierung hat im konsistenten Snapshot 46 Quelltabellen unverändert erhalten; der Serverbestand enthält 19.403 Fragen / 18.650 Ziele, die Bereitstellung ist leer. Die nativen Security-/Performance-Advisors zeigen keine neuen Befunde. Die lokale gemeinsame Git-Historie bleibt erhalten; für die Sites-Quellgrenze dient ein identischer aktueller Quellbaum auf dem bestehenden Hostingbranch.
