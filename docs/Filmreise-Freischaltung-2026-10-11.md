@@ -1,5 +1,7 @@
 # Filmreise: 50-Prozent-Freischaltung und Fragenauswahl
 
+**08.11.2026 – Zielvorgabe beschlossen, noch nicht umgesetzt:** Gemeinsame Lernstände für mehrere Genres, zusätzliche Anrechnung aus Schauspieler-/Preisfragen auf passende Werkfragen und getrennte Film-/Serienfreischaltungen. Die Bereichsmischung soll ausgewogen bleiben, ohne zusätzliche Lose allein durch Mehrfachzuordnungen. Der folgende Auswahlvertrag beschreibt weiterhin den veröffentlichten Stand. [Führende Zielvorgabe und vorbereitete Umsetzung](Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026).
+
 Stand: 04.11.2026. **Lokal umgesetzt, noch nicht veröffentlicht:** Bereich → Bekanntheitsgruppe ersetzt die bisherige Reihenfolge Gruppe → Bereich. Die ergänzte Bereichsauslosung ist seit Version 82 veröffentlicht und produktiv aktiviert. Die Freischaltung ist seit Version 80 für alle drei Fragenbereiche produktiv. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-16-Version-82.json).
 
 ## Freischaltung

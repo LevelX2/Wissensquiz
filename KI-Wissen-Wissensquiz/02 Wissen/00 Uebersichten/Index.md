@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Werkarten und Mehrfachzuordnungen beschlossen: gemeinsame Lernstände, bereichsübergreifende Freischaltungen, getrennte Film-/Serienpfade, mehrere Symbole und IMDb-/OFDb-Links – Umsetzung vorbereitet, 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
+
 - [Version 88 veröffentlicht: 100 neue Oscarfragen, aktueller Katalog mit 19.403 Fragen, Filmreise und Alternativtitel – 07.11.2026](../../../docs/Veroeffentlichung-2026-11-07-Version-88.json)
 
 - [380 aktuelle Preisfragen: 100 Oscar-Darstellungsfragen mit vielfältigen Grundformen – seit Version 88 veröffentlicht](../../../docs/Preistraeger.md)

@@ -2,6 +2,33 @@
 
 Stand: 07.11.2026, **seit Version 88 veröffentlicht**. Die aktuelle Nutzeranweisung ist in [AGENTS.md](../AGENTS.md#aktueller-fragenkatalog-statt-pakethistorie) verankert. [Veröffentlichung und Live-Abnahme](Veroeffentlichung-2026-11-07-Version-88.json).
 
+## Beschlossener Zielzustand: Werkarten und Mehrfachzuordnungen – 08.11.2026
+
+**Status: fachlich beschlossen, Umsetzung vorbereitet.** Die folgenden Vorgaben stammen aus Luis sechs Auswahlantworten vom 08.11.2026 und seiner anschließenden Ergänzung zu IMDb und OFDb. Die Umsetzung ist in [sechs sequenziellen Activities](activities/README.md) vorbereitet. Der unten beschriebene veröffentlichte Katalog und seine Software unterstützen dieses Modell noch nicht.
+
+Werkart (Film/Serie), Genres, Fragenbereich (Werkfragen/Schauspieler/Preisträger), Machart (einschließlich Animation) und kuratierte Zuordnungen (Classics/Arthouse) sind getrennte, kombinierbare Merkmale. Mehrere Genres sind möglich. Eine Frage zu einer Serienbesetzung kann damit Serie, Sci-Fi, Fantasy und Schauspieler zugleich zugeordnet sein. TV-Serien und nummerierte Filmreihen haben unterschiedliche Bedeutungen.
+
+| Entscheidung | Verbindliches Ziel |
+|---|---|
+| Genre-Freischaltung | Ein sicher beantwortetes Ziel mit mehreren passenden Genres bringt die Freischaltung aller dieser Genres voran. |
+| Schauspieler- und Preisfragen | Sichere Antworten zählen zusätzlich für die passenden Werkfragen-Bereiche. Der Fragenbereich der Frage bleibt Schauspieler beziehungsweise Preisträger. |
+| Filme und Serien | Freischaltungen nach Werkart trennen; Filmwissen öffnet nicht allein aufgrund desselben Genres Serienwissen. |
+| Filmreise | Ausgewogene Lernbereiche; zusätzliche Zuordnungen erzeugen keine zusätzlichen Lose für dasselbe Ziel. Ein Ziel höchstens einmal je Runde. |
+| Fragesymbole | Mehrere Symbole für die passenden Zuordnungen zeigen. Die zuvor vorgeschlagene Beschränkung auf ein Hauptsymbol ist nicht gewählt. |
+| Gezielte Filter | Nur Fragen mit passendem konkretem Bezug aufnehmen. Allgemeine Karriere- oder Preisfragen bleiben über die breite Bereichsauswahl erreichbar. |
+
+Ein Wissensziel behält einen gemeinsamen Lernstatus, Wiederholungstermin und Fehlerstand. Themenansichten dürfen denselben Stand zeigen. Globale Summen und der Bestand einer kombinierten Auswahl zählen eindeutige Wissensziel-IDs; überlappende Themenzahlen werden nicht addiert. Mehrfachzuordnungen erzeugen keine zusätzlichen XP oder Lernereignisse. Sichere Treffer für Freischaltungen, bloßes Kennenlernen und der aktuelle Lernstatus bleiben unterschiedliche Größen.
+
+Bereichsübergreifende Anrechnung benötigt einen geprüften konkreten Werk-/Genrebezug des Wissensziels. Die Filmografie einer Person oder eine Preisnennung liefert keine pauschale Zuordnung zu allen ihren Werken oder Genres. Zähler und Nenner einer Freischaltung verwenden dieselbe aktuelle Zielmenge, je Ziel und Freischaltpfad einmal. Eine leichte Frage zählt nicht als sicherer Treffer einer höheren Schwierigkeit. Nur tatsächlich vorgesehene Stufen können geöffnet werden; die Experte-Stufe einer Preisfrage erzeugt keine neue Werkfragen-Stufe.
+
+### Quellen und Links
+
+Die bisherige Beschriftung „Quellen ansehen“ soll zu **„Quellen und Links“** werden. Neben den fachlichen Belegen sollen möglichst direkte IMDb-Verweise und vorhandene OFDb-Verweise zum konkreten Film, zur Serie oder zur Person erscheinen. Lui hat ausdrücklich bestätigt, dass mit „UFDB“ **OFDb unter ofdb.de** gemeint ist.
+
+Verweise werden gegen den richtigen Werk- oder Personeneintrag geprüft und zentral an dessen Identität gepflegt. Gleiche Titel, Remakes, Serien, Filmreihen und namensgleiche Personen müssen unterschieden werden. Vorhandene geprüfte Referenzen wiederverwenden; keinen Eintrag und keine URL erraten. Fehlende oder ungeklärte Einträge erzeugen keinen scheinbar gültigen Direktlink. Belegquellen und weiterführende Links bleiben in ihrer Funktion erkennbar; Dubletten erscheinen einmal. Bei mehreren betroffenen Werken oder Personen muss die Beschriftung den jeweiligen Gegenstand nennen. Die bestehende Lösungsanzeige nach einer Antwort beziehungsweise am Rundenende bestimmt auch den Zeitpunkt dieser Links.
+
+Die Activities legen gezielte Prüfungen für Datenmodell, Anrechnung, Auswahl, Oberfläche und Links fest. Die technische Gewichtung überlappender Bereiche sowie die Serienregeln zu Staffel-/Folgenbezug und Spoilern sind bei der Umsetzung konkret auszuarbeiten. Neue Fragenbestände und eine Veröffentlichung sind durch diese Festlegung nicht erledigt oder automatisch freigegeben. Bestehende Fragen-/Wissensziel-IDs und private Nutzerdaten bleiben erhalten; die aktuelle Katalogdirektive gilt auch für Mehrfachzuordnungen.
+
 ## Führender aktueller Bestand
 
 | Fachbereich | Redaktion | Aktuelle Fragen |

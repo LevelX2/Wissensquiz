@@ -1,5 +1,7 @@
 # Lern-, Runden- und Speichervertrag
 
+**08.11.2026 – Beschlossene Erweiterung, noch nicht umgesetzt:** Mehrfachzuordnungen mit gemeinsamem Lernstand; sichere Antworten zählen in allen passenden Genres und von Schauspieler-/Preisfragen zusätzlich in passenden Werkfragen-Bereichen. Film- und Serienfreischaltungen bleiben getrennt. Gezielte Werk-/Genrefilter sollen auch die gewählten Schauspieler-/Preisfragen begrenzen. Diese Vorgaben ersetzen nach ihrer Umsetzung die entgegenstehenden einfachen Bereichs-/Genreannahmen unten. [Führende Zielvorgabe und vorbereitete Activities](Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026).
+
 **04.11.2026 – Filmreise lokal korrigiert, noch nicht veröffentlicht:** Zuerst gleichwahrscheinlich ein geeignetes Filmgenre, Schauspieler oder Preisträger, danach eine dort verfügbare freigespielte Bekanntheitsgruppe. Gilt für neue Ziele, fällige Wiederholungen und bekannte Füllziele; die vier reservierten Wiederholungsplätze bleiben erhalten. Zusätzliche offene Gruppen bevorzugen einen Bereich dadurch nicht mehr. Produktiv bleibt bis zur Veröffentlichung die unten dokumentierte Reihenfolge aus Version 82 aktiv. [Aktueller lokaler Auswahlvertrag](Filmreise-Freischaltung-2026-10-11.md#auswahl-neuer-ziele).
 
 ## Fokus und Fragewechsel seit 18.10.2026 lokal
