@@ -81,7 +81,8 @@ end$$;
 create function quiz_hot_seat_internal.pool(config jsonb,theme text,diff text,party uuid default null)
 returns setof quiz_game_internal.catalog_meta language sql stable set search_path='' as $$
  select m.* from quiz_game_internal.catalog_meta m
- where m.difficulty=diff and quiz_game_internal.matches(m,config->'filters','Alle Themen')
+ where m.difficulty=diff and quiz_game_internal.matches(m,
+  case when left(theme,6)='genre:' then jsonb_set(config->'filters','{genres}',jsonb_build_array(substr(theme,7))) else config->'filters' end,'Alle Themen')
  and case when theme='mix' then true when theme='actors' then m.source='actors'
   when theme='awards' then m.source='awards' else m.source='film' and
    quiz_game_internal.matches_work(m.works,jsonb_set(config->'filters','{genres}',jsonb_build_array(substr(theme,7)))) end
@@ -101,6 +102,7 @@ language sql stable set search_path='' as $$
   union all select 'genre:'||g,g,knowledge_id,difficulty from filtered
    cross join lateral jsonb_array_elements(works) w cross join lateral jsonb_array_elements_text(w->'genres') g
    where source='film' and quiz_game_internal.matches_work(jsonb_build_array(w),config->'filters')
+   and quiz_game_internal.matches(filtered::quiz_game_internal.catalog_meta,jsonb_set(config->'filters','{genres}',jsonb_build_array(g)),'Alle Themen')
  ), counts as (select id,label,difficulty,count(distinct knowledge_id) n from topics group by id,label,difficulty),
  combined as (select id,label,jsonb_object_agg(difficulty,n) counts from counts group by id,label)
  select coalesce(jsonb_agg(jsonb_build_object('id',id,'label',label,'counts',counts) order by case id when 'mix' then 0 else 1 end,label),'[]') from combined
@@ -116,12 +118,23 @@ create function quiz_hot_seat_internal.player(s quiz_hot_seat_internal.parties) 
 language sql immutable set search_path='' as $$
  select (s.roster->>((s.turn_index+s.round_index)%jsonb_array_length(s.roster)))::integer
 $$;
-create function quiz_hot_seat_internal.pick(s quiz_hot_seat_internal.parties,theme text,diff text,pos integer) returns void
+create function quiz_hot_seat_internal.pick(s quiz_hot_seat_internal.parties,theme text,diff text,pos integer,allowed_ids text[] default null) returns void
 language plpgsql set search_path='' as $$
-declare content jsonb; goal text; chosen_works jsonb; ordering jsonb;
+declare content jsonb; goal text; chosen_works jsonb; ordering jsonb; available text[]:=allowed_ids;
 begin
+ if available is null then
+  select array_agg(m.id) into available from quiz_hot_seat_internal.pool(s.setup,theme,diff,null) m;
+ end if;
+ -- Filter once per schedule bucket. Sample goals before inspecting large
+ -- question documents; variants never receive additional selection tickets.
+ with goals as (
+  select distinct on (m.knowledge_id) m.id,m.knowledge_id from unnest(available) selected(id)
+  join quiz_game_internal.catalog_meta m on m.id=selected.id
+  where not exists(select 1 from quiz_hot_seat_internal.questions old where old.party_id=s.id and old.knowledge_id=m.knowledge_id)
+  order by m.knowledge_id,random()
+ ), sampled as materialized (select * from goals order by random() limit 32)
  select public.quiz_year_question(c.question),m.knowledge_id,m.works into content,goal,chosen_works
- from (select distinct on (knowledge_id) * from quiz_hot_seat_internal.pool(s.setup,theme,diff,s.id) order by knowledge_id,random()) m
+ from sampled candidate join quiz_game_internal.catalog_meta m on m.id=candidate.id
  join quiz_ranked_internal.catalog c on c.id=m.id and c.release_hash=(select release_hash from quiz_ranked_internal.config where id)
  where coalesce(c.question->>'demo','false')='false'
  order by (exists(select 1 from quiz_hot_seat_internal.questions old where old.party_id=s.id and
@@ -201,6 +214,8 @@ declare player uuid:=quiz_sync_internal.require_owner(auth.uid()); req jsonb; ac
  theme text; diff text; who integer; k integer; n integer; pos integer; needed integer;
  chosen text; correct boolean; before_score integer; gained integer; answers jsonb; doubles jsonb;
  v_request_id uuid; leaders jsonb; target uuid; page_no integer; reply jsonb; count_found integer;
+ bucket_cache jsonb:='{}'; bucket_key text; bucket_ids text[];
+ stage_counts jsonb; available_topics jsonb;
 begin
  if request_text is null or length(request_text)>24000 then raise exception 'hot_seat_request'; end if;
  req:=request_text::jsonb; action:=req->>'action';
@@ -267,21 +282,37 @@ begin
    for pos in 0..(config->>'rounds')::integer*n-1 loop
     s.round_index:=pos/n;
     theme:=names[1+s.round_index%cardinality(names)]; diff:=quiz_hot_seat_internal.difficulty(s);
-    perform quiz_hot_seat_internal.pick(s,theme,diff,pos);
+    bucket_key:=theme||'/'||diff;
+    if not bucket_cache ? bucket_key then
+     select coalesce(jsonb_agg(m.id),'[]') into reply from quiz_hot_seat_internal.pool(config,theme,diff,null) m;
+     bucket_cache:=bucket_cache||jsonb_build_object(bucket_key,reply);
+    end if;
+    select array_agg(id) into bucket_ids from jsonb_array_elements_text(bucket_cache->bucket_key) id;
+    perform quiz_hot_seat_internal.pick(s,theme,diff,pos,bucket_ids);
    end loop;
    s.round_index:=0;
   else
    -- Free choices remain available only while an unused target exists.
-   select count(distinct knowledge_id) into count_found from quiz_game_internal.catalog_meta m
+   select count(distinct knowledge_id),jsonb_build_object(
+    'leicht',count(distinct knowledge_id) filter(where difficulty='leicht'),
+    'mittel',count(distinct knowledge_id) filter(where difficulty='mittel'),
+    'schwer',count(distinct knowledge_id) filter(where difficulty='schwer'))
+    into count_found,stage_counts from quiz_game_internal.catalog_meta m
     where quiz_game_internal.matches(m,config->'filters','Alle Themen') and
      exists(select 1 from jsonb_array_elements_text(config->'topics') t where
       t='mix' or (t='actors' and m.source='actors') or (t='awards' and m.source='awards') or
-      (left(t,6)='genre:' and m.source='film' and exists(select 1 from jsonb_array_elements(m.works) w where w->'genres' ? substr(t,7))));
+      (left(t,6)='genre:' and m.source='film' and quiz_game_internal.matches(m,jsonb_set(config->'filters','{genres}',jsonb_build_array(substr(t,7))),'Alle Themen')));
    if count_found<(config->>'rounds')::integer*n then raise exception 'hot_seat_capacity'; end if;
+   if config->>'mode'='hunt' then
+    foreach diff in array array['leicht','mittel','schwer'] loop
+     if (stage_counts->>diff)::integer<n*(config->>'rounds')::integer/3 then raise exception 'hot_seat_pool:mix:%',diff; end if;
+    end loop;
+   end if;
+   available_topics:=quiz_hot_seat_internal.options(config);
    foreach theme in array names loop
     foreach diff in array array['leicht','mittel','schwer'] loop
      needed:=case when config->>'mode'='risk' then n else 1 end;
-     if (select count(distinct knowledge_id) from quiz_hot_seat_internal.pool(config,theme,diff,s.id))<needed then raise exception 'hot_seat_pool:%:%',theme,diff; end if;
+     if coalesce((select (o->'counts'->>diff)::integer from jsonb_array_elements(available_topics) o where o->>'id'=theme),0)<needed then raise exception 'hot_seat_pool:%:%',theme,diff; end if;
     end loop;
    end loop;
   end if;

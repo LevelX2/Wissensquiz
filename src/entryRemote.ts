@@ -65,8 +65,10 @@ export class SupabaseEntryRemote implements SyncRemote {
             .abortSignal(signal);
           if (error) {
             if (name === "quiz_hot_seat_call") {
-              const code = Object.keys(hotSeatMessages).find((key) => error.message.includes(key));
-              if (code) throw new HotSeatError(code);
+              const code = Object.keys(hotSeatMessages).find((key) =>
+                error.message.includes(key),
+              );
+              if (code) throw new HotSeatError(code, error.message);
             }
             if (name === "quiz_game_call") {
               const code = Object.keys(learningMessages).find((key) =>
