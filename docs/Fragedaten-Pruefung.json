@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "8571c6764457c4fe4bc4bf7c92b983700a811a2b745b50abd38477652820a76f",
+  "catalogSha256": "54903be1dc0a9db4e716d38132cc774fa993c4f6737497ebe9c06adbb053f075",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 20375,
-    "knowledgeGoals": 19622,
+    "questions": 20429,
+    "knowledgeGoals": 19676,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 16571,
+    "film": 16625,
     "actors": 3424,
     "awards": 380
   },
@@ -395,59 +395,59 @@
     },
     {
       "attributes": "film|Komödie|leicht|1",
-      "count": 49
+      "count": 51
     },
     {
       "attributes": "film|Komödie|leicht|2",
-      "count": 152
+      "count": 156
     },
     {
       "attributes": "film|Komödie|leicht|3",
-      "count": 137
+      "count": 139
     },
     {
       "attributes": "film|Komödie|leicht|4",
-      "count": 32
+      "count": 34
     },
     {
       "attributes": "film|Komödie|mittel|1",
-      "count": 78
+      "count": 80
     },
     {
       "attributes": "film|Komödie|mittel|2",
-      "count": 277
-    },
-    {
-      "attributes": "film|Komödie|mittel|3",
       "count": 281
     },
     {
+      "attributes": "film|Komödie|mittel|3",
+      "count": 283
+    },
+    {
       "attributes": "film|Komödie|mittel|4",
-      "count": 65
+      "count": 67
     },
     {
       "attributes": "film|Komödie|schwer|1",
-      "count": 42
+      "count": 44
     },
     {
       "attributes": "film|Komödie|schwer|2",
-      "count": 141
+      "count": 145
     },
     {
       "attributes": "film|Komödie|schwer|3",
-      "count": 135
+      "count": 137
     },
     {
       "attributes": "film|Komödie|schwer|4",
-      "count": 35
+      "count": 37
     },
     {
       "attributes": "film|Krimi|leicht|1",
-      "count": 2
+      "count": 6
     },
     {
       "attributes": "film|Krimi|leicht|2",
-      "count": 8
+      "count": 10
     },
     {
       "attributes": "film|Krimi|leicht|3",
@@ -455,11 +455,11 @@
     },
     {
       "attributes": "film|Krimi|mittel|1",
-      "count": 2
+      "count": 6
     },
     {
       "attributes": "film|Krimi|mittel|2",
-      "count": 8
+      "count": 10
     },
     {
       "attributes": "film|Krimi|mittel|3",
@@ -467,11 +467,11 @@
     },
     {
       "attributes": "film|Krimi|schwer|1",
-      "count": 2
+      "count": 6
     },
     {
       "attributes": "film|Krimi|schwer|2",
-      "count": 8
+      "count": 10
     },
     {
       "attributes": "film|Krimi|schwer|3",
@@ -575,7 +575,7 @@
     },
     {
       "attributes": "film|Rom-Com|leicht|1",
-      "count": 19
+      "count": 21
     },
     {
       "attributes": "film|Rom-Com|leicht|2",
@@ -591,7 +591,7 @@
     },
     {
       "attributes": "film|Rom-Com|mittel|1",
-      "count": 31
+      "count": 33
     },
     {
       "attributes": "film|Rom-Com|mittel|2",
@@ -607,7 +607,7 @@
     },
     {
       "attributes": "film|Rom-Com|schwer|1",
-      "count": 18
+      "count": 20
     },
     {
       "attributes": "film|Rom-Com|schwer|2",
