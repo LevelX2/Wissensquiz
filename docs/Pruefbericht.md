@@ -2,9 +2,9 @@
 
 ## Animation und Serien – laufende Redaktion im eigenen Worktree
 
-Aktuell 1.026 zusätzliche Fragen / 1.026 eigenständige Ziele zu 187 Werken; Gesamtbestand 20.429 Fragen / 19.676 Ziele. Der Auftrag zu mindestens 50 Werken je Bereich ist noch in Arbeit. Inhaltliche Mindestabdeckung der aufgenommenen Werke, typisierte Bezüge, Quellen, Titelrecherche und Varianten sind im [aktuellen Redaktionsstand](Animation-und-Serien.md) abgegrenzt.
+Aktuell 1.080 zusätzliche Fragen / 1.080 eigenständige Ziele zu 196 Werken; Gesamtbestand 20.483 Fragen / 19.730 Ziele. Der Auftrag zu mindestens 50 Werken je Bereich ist noch in Arbeit. Inhaltliche Mindestabdeckung der aufgenommenen Werke, typisierte Bezüge, Quellen, Titelrecherche und Varianten sind im [aktuellen Redaktionsstand](Animation-und-Serien.md) abgegrenzt.
 
-`npm run check:questions` und die beiden gezielten Werkabdeckungs-/Serienquellentests erfolgreich. Der echte App-Parser bestätigt sämtliche 20.429 Frageobjekte, eindeutige IDs, gültige Varianten, idempotentes und reihenfolgeunabhängiges Einlesen, Sicherungsvalidierung und verlustfreie Kodierung. Weitere Redaktion macht die betroffenen Nachweise erneut prüfpflichtig; lokale Main-Integration erst nach abschließendem Abgleich. Keine Veröffentlichung und keine produktiven Datenbankänderungen.
+`npm run check:questions` und die beiden gezielten Werkabdeckungs-/Serienquellentests erfolgreich. Der echte App-Parser bestätigt sämtliche 20.483 Frageobjekte, eindeutige IDs, gültige Varianten, idempotentes und reihenfolgeunabhängiges Einlesen, Sicherungsvalidierung und verlustfreie Kodierung. Weitere Redaktion macht die betroffenen Nachweise erneut prüfpflichtig; lokale Main-Integration erst nach abschließendem Abgleich. Keine Veröffentlichung und keine produktiven Datenbankänderungen.
 
 ## Werkarten und Mehrfachzuordnungen – lokal geprüft, nicht veröffentlicht
 

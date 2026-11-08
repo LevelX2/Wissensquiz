@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "54903be1dc0a9db4e716d38132cc774fa993c4f6737497ebe9c06adbb053f075",
+  "catalogSha256": "78650b86a6f2e5a3603c5388ed5e6bde9fdc99103ca67addf3cc3bf4c03098e1",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 20429,
-    "knowledgeGoals": 19676,
+    "questions": 20483,
+    "knowledgeGoals": 19730,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 16625,
+    "film": 16679,
     "actors": 3424,
     "awards": 380
   },
@@ -251,11 +251,11 @@
     },
     {
       "attributes": "film|Drama|leicht|1",
-      "count": 46
+      "count": 50
     },
     {
       "attributes": "film|Drama|leicht|2",
-      "count": 102
+      "count": 108
     },
     {
       "attributes": "film|Drama|leicht|3",
@@ -267,11 +267,11 @@
     },
     {
       "attributes": "film|Drama|mittel|1",
-      "count": 64
+      "count": 68
     },
     {
       "attributes": "film|Drama|mittel|2",
-      "count": 189
+      "count": 195
     },
     {
       "attributes": "film|Drama|mittel|3",
@@ -283,11 +283,11 @@
     },
     {
       "attributes": "film|Drama|schwer|1",
-      "count": 38
+      "count": 42
     },
     {
       "attributes": "film|Drama|schwer|2",
-      "count": 98
+      "count": 104
     },
     {
       "attributes": "film|Drama|schwer|3",
@@ -395,11 +395,11 @@
     },
     {
       "attributes": "film|Komödie|leicht|1",
-      "count": 51
+      "count": 55
     },
     {
       "attributes": "film|Komödie|leicht|2",
-      "count": 156
+      "count": 158
     },
     {
       "attributes": "film|Komödie|leicht|3",
@@ -411,11 +411,11 @@
     },
     {
       "attributes": "film|Komödie|mittel|1",
-      "count": 80
+      "count": 84
     },
     {
       "attributes": "film|Komödie|mittel|2",
-      "count": 281
+      "count": 283
     },
     {
       "attributes": "film|Komödie|mittel|3",
@@ -427,11 +427,11 @@
     },
     {
       "attributes": "film|Komödie|schwer|1",
-      "count": 44
+      "count": 48
     },
     {
       "attributes": "film|Komödie|schwer|2",
-      "count": 145
+      "count": 147
     },
     {
       "attributes": "film|Komödie|schwer|3",
@@ -679,7 +679,7 @@
     },
     {
       "attributes": "film|Thriller|leicht|3",
-      "count": 180
+      "count": 182
     },
     {
       "attributes": "film|Thriller|leicht|4",
@@ -695,7 +695,7 @@
     },
     {
       "attributes": "film|Thriller|mittel|3",
-      "count": 394
+      "count": 396
     },
     {
       "attributes": "film|Thriller|mittel|4",
@@ -711,7 +711,7 @@
     },
     {
       "attributes": "film|Thriller|schwer|3",
-      "count": 180
+      "count": 182
     },
     {
       "attributes": "film|Thriller|schwer|4",
