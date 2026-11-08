@@ -1,5 +1,9 @@
 # Rekordmodi und Zeitranglisten
 
+## Gemeinsam spielen – lokal vorbereitet
+
+Die Spielseite bietet zusätzlich „Gemeinsam spielen · Hot Seat“ als eigenen Einstieg. Quizabend, Genre-Jagd, Risiko und Alle tippen verwenden private Partiewertungen für zwei bis acht Personen oder Teams an einem Gerät. Die vorhandenen Solo-Spielgruppen und Rekordkategorien werden dadurch nicht erweitert. Keine öffentliche Hot-Seat-Rangliste und kein Import dieser Antworten in Lern- oder Wettbewerbswerte. [Regeln und Speicherung](Hot-Seat.md).
+
 ## Werkarten in Genre-Rekorden – lokal vorbereitet
 
 Ein Genre-Rekord verwendet Werkfragen zu genau einem Genre und genau einer Werkart. „Filmgenre · Sci-Fi“ und „Seriengenre · Sci-Fi“ besitzen getrennte Filter und Kategorien. Der feste Mix bleibt 3 leicht, 4 mittel und 3 schwer; bei Endlosspielen gilt er je Block. Universal umfasst den gemeinsamen aktuellen Bestand. Neue Zuordnungen ergeben keine zusätzlichen Kopien eines Ziels. Laufende Fragen und abgeschlossene Belege bleiben eingefroren. Auswahl, Rundenübersicht und Rekordlisten nennen die Werkart; private Ergebnisse werden nicht umgeschrieben.

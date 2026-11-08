@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Hot Seat: vier gemeinsame Spielmodi, private Partien, Teams, Joker und Abbruch – Umsetzung im Worktree](../../../docs/Hot-Seat.md)
+- [Hot Seat: vier gemeinsame Spielmodi, private Partien, Teams, Joker und Abbruch – lokal im Worktree umgesetzt](../../../docs/Hot-Seat.md)
 
 - [Filmkarriere innerhalb der Erfolge: acht benannte Ränge, frühere Titelaufstiege und plastische Goldembleme, lokal](../../../docs/Filmkarriere-und-XP.md#levelkurve-und-karrieretitel)
 

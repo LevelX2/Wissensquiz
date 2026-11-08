@@ -1,5 +1,9 @@
 # Anmeldung und Online-Spielstand – 11.10.2026
 
+## Hot Seat im Gastgeberkonto – lokal vorbereitet
+
+„Gemeinsam spielen“ benötigt genau ein bestätigtes Gastgeberkonto. Zwei bis acht Personen können ohne weitere Registrierung als private Partieteilnehmer mitspielen. Dies erweitert nicht die einzelne Proberunde ohne Gastgeberanmeldung. Partien, Ergebnisse und Regelvorlagen liegen getrennt vom persönlichen Lernstand ausschließlich privat online. Unterbrechen erhält die laufende Partie; ausdrücklich bestätigter Abbruch speichert einen Teilstand und erlaubt sofort einen neuen Start. [Führender Hot-Seat-Vertrag](Hot-Seat.md). Neue Backendobjekte und Oberfläche sind lokal vorbereitet, noch nicht produktiv aktiviert.
+
 ## Serverablauf ohne Clientkatalog
 
 Seit Version 66 am 11.10.2026 veröffentlicht und im Backend eingerichtet: [Server-Lernablauf](Server-Lernablauf-2026-10-11.md). Normale Lernrunden werden ebenfalls serverseitig ausgewählt und ausgewertet; Kontostart und Navigation benötigen keinen Vollkatalog. Wiederaufnahme erhält die zuletzt ausgegebene Frage und bestätigte Auflösung. Manuelle Sicherungen waren bis Version 66 verfügbar; der folgende Optionsumbau entfernt ihre Oberfläche. Keine Übernahme alter Spielstände. Entwicklungs-Teststand mit ausdrücklicher Freigabe atomar zurückgesetzt; Anmeldung und Profil erhalten. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-11-Version-66.json).

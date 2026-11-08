@@ -22,6 +22,8 @@ Poster für alle **1.405 referenzierten Filmfassungen** sind veröffentlicht und
 
 ## Spielen und Fortschritt
 
+**Lokal vorbereitet: Gemeinsam spielen / Hot Seat.** Ein Gastgeberkonto genügt für zwei bis acht Personen an einem Bildschirm. Vier Modi, Teams, eigene Regelvorlagen, verdeckte oder moderierte gemeinsame Antworten, optionale Joker und Countdown. Partien und Ergebnisse werden privat getrennt vom Lernstand gespeichert; Unterbrechen und Abbrechen sind jederzeit möglich. Noch nicht veröffentlicht. [Regeln, Umsetzung und Abnahme](docs/Hot-Seat.md).
+
 - **Filmreise:** neue Ziele bevorzugen und weitere Filmgruppen/Stufen je Genre freischalten. Erworbene Freischaltungen bleiben erhalten.
 - **Freies Spiel:** freie Auswahl ohne Zeitdruck und Lernstandsgewichtung.
 - **Auf Zeit:** 10 Fragen mit 30 Sekunden je Frage; Fehlerfrei bis zum ersten Fehler; Zeitkonto mit 120 Sekunden, +15 je Treffer und −45 je Fehler zusätzlich zur Antwortzeit. Laufpunkte bleiben vom Lernfortschritt und den Karriere-XP getrennt.

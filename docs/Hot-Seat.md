@@ -1,6 +1,6 @@
 # Hot Seat – Gemeinsam spielen
 
-Status: Umsetzung im eigenen Worktree; nicht veröffentlicht. Eine Veröffentlichung und die Aktivierung der neuen Backendobjekte benötigen eine gesonderte Freigabe.
+Status: lokal im eigenen Worktree implementiert; nicht veröffentlicht. Eine Veröffentlichung und die Aktivierung der neuen Backendobjekte benötigen eine gesonderte Freigabe. Integration nach `main` ist noch nicht erfolgt. [Prüfnachweis](Pruefbericht.md#hot-seat--lokale-abnahme).
 
 ## Ziel und Grenzen
 
@@ -13,7 +13,7 @@ Partien, Ergebnisse und benannte Regelvorlagen liegen ausschließlich privat onl
 1. Namen eingeben; in Teams zusätzlich die Mitglieder benennen. Farben und Symbole kennzeichnen die Spielplätze auch auf schmalen Bildschirmen.
 2. Einen der vier Modi wählen. Fertige Standardwerte ermöglichen einen schnellen Start.
 3. Themen, Werkarten, Bekanntheit und gegebenenfalls Machart festlegen. Werkfragen, Schauspieler und Preise verwenden die aktuelle gemeinsame Katalogtaxonomie. Bekanntheit und Frageschwierigkeit sind getrennte Achsen.
-4. Drei, sechs oder neun Durchgänge wählen. Im Reihumspiel hat jeder Spielplatz einen regulären Zug je Durchgang; bei „Alle tippen“ beantworten alle dieselbe Frage je Durchgang. Eine Schätzung mit 30–45 Sekunden je regulärem Zug ist eine Orientierung, kein gemessener Zeitnachweis.
+4. Drei, sechs oder neun Durchgänge wählen. Im Reihumspiel hat jeder Spielplatz einen regulären Zug je Durchgang; bei „Alle tippen“ beantworten alle dieselbe Frage je Durchgang. Eine Schätzung mit 30–45 Sekunden je regulärem Zug beziehungsweise verdeckter Einzelantwort ist eine Orientierung, kein gemessener Zeitnachweis. Moderation rechnet eine gemeinsame Antwortphase je Frage.
 5. Countdown (aus oder 30 Sekunden), Doppelpunkt-Joker, Stehljoker, Stechen, Ton und ausführliche Erklärungen einstellen. Nur im jeweiligen Modus sinnvolle Optionen erscheinen.
 6. Zusammenfassung prüfen und bewusst starten. Regeln bleiben für die begonnene Partie fest. Vorlagen enthalten Regeln und Inhaltsauswahl, keine Teilnehmernamen.
 
@@ -56,15 +56,15 @@ Nach einem vollständigen Durchgang erscheint ein Zwischenstand. Nach dem letzte
 
 **Unterbrechen** verlässt die Ansicht und erhält die private aktive Partie. Der zuletzt bestätigte Stand kann erneut geöffnet werden. Eine bereits ausgegebene zeitbegrenzte Frage läuft weiter; noch nicht gestartete Fragen beginnen nicht.
 
-**Partie abbrechen** ist sowohl im Spiel als auch in der Übersicht erreichbar. Nach kurzer Bestätigung wird der Teilstand als „Abgebrochen“ gespeichert. Es gibt keine Siegererklärung; regulär gespeicherte Punkte bleiben als Teilstand sichtbar. Der aktive Platz wird sofort frei. Eine neue Partie lässt sich ohne Beendigung der alten Fragen starten. Auch die Einrichtung lässt sich jederzeit verlassen. Genau eine aktive Hot-Seat-Partie je Gastgeber; laufende Solo-/Duellspiele bleiben fachlich getrennt.
+**Partie abbrechen** ist sowohl im Spiel als auch in der Übersicht erreichbar. Nach kurzer Bestätigung wird der Teilstand als „Abgebrochen“ gespeichert. Es gibt keine Siegererklärung; regulär gespeicherte Punkte bleiben als Teilstand sichtbar. Bei verdecktem „Alle tippen“ zählt eine unvollständig beantwortete gemeinsame Frage noch nicht zur Punktwertung. Der aktive Platz wird sofort frei. Eine neue Partie lässt sich ohne Beendigung der alten Fragen starten. Auch die Einrichtung lässt sich jederzeit verlassen. Genau eine aktive Hot-Seat-Partie je Gastgeber; laufende Solo-/Duellspiele bleiben fachlich getrennt.
 
-Abgeschlossene und abgebrochene Ergebnisse können privat wieder geöffnet und ausdrücklich gelöscht werden. Die Übersicht lädt begrenzte Seiten. „Revanche“ übernimmt Regeln, Themen und Teilnehmer, erstellt aber eine neue Partie mit neuen Zufallsfragen. Abgebrochene Partien werden nicht als reguläre Siege gewertet.
+Abgeschlossene und abgebrochene Ergebnisse können privat wieder geöffnet und ausdrücklich gelöscht werden. Die Übersicht lädt zehn Ergebnisse je Seite. „Revanche“ übernimmt Regeln, Themen und Teilnehmer und erstellt eine neue Partie mit neuer Zufallsziehung; zwischen unterschiedlichen Partien können dieselben Fragen vorkommen. Abgebrochene Partien werden nicht als reguläre Siege gewertet. Bis zu 20 benannte Regelvorlagen sind möglich.
 
 ## Auswahl und Lösungsschutz
 
 Der aktuelle Betreiberkatalog ist die einzige Quelle. Pro Partie erscheint jedes Wissensziel höchstens einmal, auch bei Varianten oder überlappenden Zuordnungen. Alle Teilnehmer erhalten je Durchgang dieselben Auswahlbedingungen. Die tatsächliche Schwierigkeit einzelner Fragen lässt sich durch redaktionelle Stufen nur annähern, nicht mathematisch gleichsetzen.
 
-Vor dem Start prüft der Server die benötigten Fragenmengen je Thema und Schwierigkeit. Unzureichende Auswahlen werden mit einem konkreten Hinweis abgelehnt; keine stille Stufenänderung oder Zielwiederholung. Bei frei wählbaren Themen werden ausgeschöpfte Angebote gesperrt. Neue Werke/Personen haben bei der Ziehung Vorrang vor innerhalb der Partie schon verwendeten; dies ist keine vollständige semantische Spoilerprüfung aller Texte.
+Vor dem Start prüft der Server die benötigten Fragenmengen je Thema und Schwierigkeit. Unzureichende Auswahlen werden mit einem konkreten Hinweis auf Thema und Stufe abgelehnt; keine stille Stufenänderung oder Zielwiederholung. Bei frei wählbaren Themen werden ausgeschöpfte Angebote gesperrt. Genre, Werkart, Machart und Bekanntheit müssen zum selben passenden Werkbezug gehören. Die Ziehung bevorzugt innerhalb einer Zufallsauswahl von höchstens 32 unterschiedlichen Zielen neue Werke/Personen; dies ist keine vollständige semantische Spoilerprüfung aller Texte.
 
 Fragetext, vier Antworten und freigegebene Bilder werden mit der vorhandenen sicheren Serverprojektion ausgegeben. Lösungen, Quellen, Antwortfeedback und weitere Metadaten erscheinen erst in der endgültigen Auflösung; verdeckte Einzelantworten erst nach Abschluss aller Antworten. Bereits ausgegebene Fragen und Antwortreihenfolgen werden eingefroren. Die Partie hält einen begrenzten eigenen Fragenbestand, keinen Vollkatalog.
 
@@ -75,7 +75,15 @@ Fragetext, vier Antworten und freigegebene Bilder werden mit der vorhandenen sic
 - Privates Schema mit Partien, ausgegebenen Fragen, Vorlagen und Wiederholungsbelegen. Ausschließlich ein authentifizierter RPC-Einstieg prüft das bestätigte Gastgeberkonto und den Eigentümer. Direkter Tabellenzugriff bleibt gesperrt, RLS ist zusätzlich aktiv.
 - Serverseitige Zustandsmaschine für Regeln, Ziehung, Antwortauswertung, Punkte, Joker, Fristen und Phasen. Pro Gastgeber getrennte Sperre; Revisionsprüfung verhindert Überschreiben durch ein zweites Fenster. Unveränderliche Anfrage-IDs ermöglichen Wiederholen nach verlorener Bestätigung ohne doppelte Punkte oder Joker.
 - Bestehende Katalogfilter, sichere Frageprojektion, Jahresalternativen, Bilder und endgültige Erklärungsansicht wiederverwenden. Kein neuer Lernimport, keine Abhängigkeit und kein Kompatibilitätsweg für frühere Clients.
+- Endliche Quizabend-/Alle-tippen-Pläne werden privat vollständig reserviert. Die Filterprojektion wird je Thema/Stufe einmal ausgewertet; große Frageobjekte erst nach begrenzter Zielauswahl gelesen. Vor der Bereitschaft wird keine künftige Frage übertragen.
+- Eigene Eingaben wie Risikostufe, Thema und Joker gehören zur konkreten Zugphase. Ein Phasenwechsel erzeugt eine neue Eingabeansicht; nachträgliche Effekte dürfen eine bereits gewählte Stufe nicht zurücksetzen.
 - Neue Backendobjekte sind eine reguläre Funktionserweiterung. Die lokale SQL-Datei darf vor Hostingfreigabe nicht produktiv aktiviert werden.
+
+## Betrieb und Freigabe
+
+`supabase/migrations/20261108145042_hot_seat.sql` stellt ausschließlich neue private Hot-Seat-Objekte und den RPC `quiz_hot_seat_call` bereit. Voraussetzungen sind der aktuelle Werk-/Filtervertrag und dessen Katalogprojektionen aus den vorhandenen Migrationen. Kein Umschreiben privater Lernstände und kein Rückfall auf den Solo-Lernweg.
+
+Die Migration wurde ausschließlich in isolierten Testdatenbanken ausgeführt. Vor einer späteren produktiven Aktivierung den aktuellen gemeinsamen Quellstand integrieren und die Veröffentlichungsprüfungen aus `AGENTS.md` gebündelt ausführen. Backend und passende App-Version gemeinsam freigeben. Ein Server ohne diesen RPC zeigt einen Einrichtungshinweis; es gibt keinen lokalen Ersatzspielstand.
 
 ## Arbeitspakete und Abnahme
 

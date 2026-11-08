@@ -1,5 +1,17 @@
 # Prüfnachweis
 
+## Hot Seat – lokale Abnahme
+
+Stand 08.11.2026, Arbeitsbranch `codex/hot-seat`. Vier Modi für zwei bis acht Personen, Teams, beide Alle-tippen-Bedienarten, Regelvorlagen, Joker, Countdown, Stechen und private Ergebnisse lokal implementiert. Unterbrechen, bestätigter Abbruch mit sofortigem Neustart und Löschen eigener beendeter Ergebnisse sind enthalten. [Führender Vertrag und Betriebsgrenze](Hot-Seat.md).
+
+**30 gezielte Logiktests erfolgreich:** 17 Fälle in `tests/hot-seat.test.ts` sowie 13 angrenzende Fälle in `tests/server-work-attributes.test.ts` und `tests/server-views.test.ts`. Die unveränderten angrenzenden Nachweise wurden nach der letzten reinen Testerweiterung wiederverwendet. Geprüft sind gleiche Stufenverteilung, eindeutige Ziele, acht Teilnehmer, unzureichende Pools, Genre-/Bekanntheitskorrelation, fehlende Lernnebenwirkungen, verdeckte Antworten einschließlich Punkte/Treffer, Moderation, Joker, negative Risikopunkte, Fristen/Wiederaufnahme, Abbruch in verschiedenen Phasen, begrenztes Stechen mit gemeinsamem oder eindeutigem Sieger, Eigentum, bestätigte Anmeldung, Revisionskonflikte, private Vorlagen, wiederholbare verlorene Bestätigungen und Löschen abgeschlossener Ergebnisse.
+
+**20 unterschiedliche Browserfälle erfolgreich:** zehn Abläufe jeweils in Desktop-Chromium und mobilem WebKit. Vollständiger Quizabend mit Ergebnis/Revanche, verdeckte Übergabe, Moderation, Stehljoker mit Netzfehler/Wiederholung, Neuladen und Abbruch, Teams/Vorlagen/Risikowahl, Genre-Jagd, acht Personen mit 72 reservierten Fragen, Countdown nach Unterbrechung sowie gemeinsamer Einstieg mit weiter sichtbarem Solostart bei 320 und 1440 Pixeln. Die gewählte Risikostufe und das gewählte Jagdthema werden bis zum tatsächlichen Startaufruf geprüft. WCAG-Axe in der Einrichtung und Überlaufprüfungen ohne Befund. Desktop- und Handyfragenansicht einschließlich großer Schrift, Antwortfarben, Punktestand und Abbruchsteuerung visuell geprüft.
+
+TypeScript über `tsconfig.quality.json`, Vite-Browserbuild und `git diff --check` erfolgreich. Geprüfter Browserstand aus einer eigenen lokalen Buildkopie auf Port 4291, isolierte Browserkontexte und synthetische Konten/SQL-Daten; Zeitfälle mit kontrollierter Server- und Browserzeit. Keine echten Nutzerfortschritte verändert. Eigene temporäre Builds und Testergebnisse nach Abnahme entfernt.
+
+Die neue SQL-Datei wurde ausschließlich in isoliertem PostgreSQL/PGlite ausgeführt. RLS, gesperrter direkter Tabellenzugriff, ausschließlich bestätigter Gastgeber und fremde Partien wurden dort geprüft. Keine produktive Migration, kein Sites-Deployment und kein vollständiger Veröffentlichungsprüflauf. Vor Veröffentlichung gelten die gebündelten Gates aus `AGENTS.md`; derzeit noch keine Integration nach `main`.
+
 ## Filmkarriere innerhalb der Erfolge – lokal
 
 Acht Karriereränge ab Level 1/3/6/10/15/20/27/35, gemeinsame goldene Filmrahmen mit acht plastischen Motiven. Die Filmkarriere einschließlich nächstem Rang und vollständiger Rangübersicht ist in „Deine Erfolge“ integriert. XP-Regeln, Levelkurve und Kontodaten unverändert; keine Serveränderung.
